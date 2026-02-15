@@ -50,7 +50,7 @@ export async function POST(request: Request) {
   // Check if already subscribed
   const { data: existing } = await adminClient
     .from('subscribers')
-    .select('id, status')
+    .select('id, status, name')
     .eq('email', email)
     .single()
 
@@ -75,7 +75,7 @@ export async function POST(request: Request) {
         confirmation_token: confirmationToken,
         unsubscribe_token: unsubscribeToken,
         unsubscribed_at: null,
-        name: name || existing.id,
+        name: name || existing.name || null,
       })
       .eq('id', existing.id)
   } else {
@@ -133,6 +133,12 @@ export async function POST(request: Request) {
     })
   } catch (emailError) {
     console.error('Confirmation email error:', emailError)
+    // Clean up the subscriber record since they won't get the confirmation email
+    await adminClient.from('subscribers').delete().eq('email', email)
+    return NextResponse.json(
+      { error: 'Unable to send confirmation email. Please try again later.' },
+      { status: 500 }
+    )
   }
 
   return NextResponse.json({ message: 'Check your email to confirm your subscription!' }, { status: 201 })

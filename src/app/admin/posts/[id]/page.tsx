@@ -85,39 +85,77 @@ export default function EditPostPage() {
 
   const save = async (newStatus?: string) => {
     setSaving(true)
-    const supabase = createClient()
 
-    const status = newStatus || form.status
-    const updateData: any = {
-      title: form.title,
-      slug: form.slug,
-      excerpt: form.excerpt || null,
-      content_json: form.content_json,
-      content_html: form.content_html,
-      featured_image: form.featured_image || null,
-      tags: form.tags ? form.tags.split(',').map((t) => t.trim()).filter(Boolean) : [],
-      seo_title: form.seo_title || null,
-      seo_description: form.seo_description || null,
-      reading_time_minutes: calculateReadingTime(form.content_html || ''),
-      featured: form.featured,
-      status,
-    }
+    const isPublishing = newStatus === 'published' && post?.status !== 'published'
 
-    if (status === 'published' && post?.status !== 'published') {
-      updateData.published_at = new Date().toISOString()
-      updateData.publish_date = new Date().toISOString()
-    }
+    if (isPublishing) {
+      // Save the post content first, then publish via the API
+      const supabase = createClient()
+      const { error: saveError } = await supabase
+        .from('posts')
+        .update({
+          title: form.title,
+          slug: form.slug,
+          excerpt: form.excerpt || null,
+          content_json: form.content_json,
+          content_html: form.content_html,
+          featured_image: form.featured_image || null,
+          tags: form.tags ? form.tags.split(',').map((t) => t.trim()).filter(Boolean) : [],
+          seo_title: form.seo_title || null,
+          seo_description: form.seo_description || null,
+          reading_time_minutes: calculateReadingTime(form.content_html || ''),
+          featured: form.featured,
+        })
+        .eq('id', id)
 
-    const { error } = await supabase
-      .from('posts')
-      .update(updateData)
-      .eq('id', id)
+      if (saveError) {
+        toast.error('Failed to save: ' + saveError.message)
+        setSaving(false)
+        return
+      }
 
-    if (error) {
-      toast.error('Failed to save: ' + error.message)
+      // Call the publish API endpoint
+      try {
+        const res = await fetch(`/api/posts/${id}/publish`, { method: 'POST' })
+        const data = await res.json()
+
+        if (!res.ok) {
+          toast.error(data.error || 'Failed to publish')
+        } else {
+          toast.success('Post published!')
+          router.push('/admin/posts')
+        }
+      } catch {
+        toast.error('Failed to publish')
+      }
     } else {
-      toast.success(status === 'published' ? 'Post published!' : 'Post saved!')
-      if (newStatus) router.push('/admin/posts')
+      // Regular save (draft, or re-saving a published post)
+      const supabase = createClient()
+      const status = newStatus || form.status
+      const { error } = await supabase
+        .from('posts')
+        .update({
+          title: form.title,
+          slug: form.slug,
+          excerpt: form.excerpt || null,
+          content_json: form.content_json,
+          content_html: form.content_html,
+          featured_image: form.featured_image || null,
+          tags: form.tags ? form.tags.split(',').map((t) => t.trim()).filter(Boolean) : [],
+          seo_title: form.seo_title || null,
+          seo_description: form.seo_description || null,
+          reading_time_minutes: calculateReadingTime(form.content_html || ''),
+          featured: form.featured,
+          status,
+        })
+        .eq('id', id)
+
+      if (error) {
+        toast.error('Failed to save: ' + error.message)
+      } else {
+        toast.success('Post saved!')
+        if (newStatus) router.push('/admin/posts')
+      }
     }
     setSaving(false)
   }
