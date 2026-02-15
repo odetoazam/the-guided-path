@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Vazirmatn:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-white text-zinc-900 dark:bg-zinc-950 dark:text-zinc-100;
+    font-family: 'Inter', system-ui, sans-serif;
+  }
+
+  /* Smooth scrolling */
+  html {
+    scroll-behavior: smooth;
+  }
+
+  /* Selection color */
+  ::selection {
+    @apply bg-gold-500/20 text-gold-900 dark:text-gold-200;
+  }
+}
+
+@layer components {
+  /* RTL Support for Arabic text */
+  .rtl {
+    direction: rtl;
+    text-align: right;
+    font-family: 'Vazirmatn', 'Amiri', serif;
+  }
+
+  .ltr {
+    direction: ltr;
+    text-align: left;
+  }
+
+  /* Tiptap Editor Styles */
+  .tiptap {
+    @apply min-h-[300px] rounded-lg border border-zinc-300 dark:border-zinc-700 p-4 focus:outline-none;
+  }
+
+  .tiptap p {
+    @apply mb-4 leading-relaxed;
+  }
+
+  .tiptap h1 {
+    @apply text-3xl font-bold mb-4;
+  }
+
+  .tiptap h2 {
+    @apply text-2xl font-semibold mb-3;
+  }
+
+  .tiptap h3 {
+    @apply text-xl font-medium mb-2;
+  }
+
+  .tiptap ul {
+    @apply list-disc pl-6 mb-4;
+  }
+
+  .tiptap ol {
+    @apply list-decimal pl-6 mb-4;
+  }
+
+  .tiptap blockquote {
+    @apply border-l-4 border-gold-500 pl-4 italic text-zinc-600 dark:text-zinc-400 mb-4;
+  }
+
+  .tiptap pre {
+    @apply bg-zinc-100 dark:bg-zinc-800 rounded-lg p-4 mb-4 overflow-x-auto;
+  }
+
+  .tiptap code {
+    @apply bg-zinc-100 dark:bg-zinc-800 px-1.5 py-0.5 rounded text-sm;
+  }
+
+  .tiptap a {
+    @apply text-gold-600 dark:text-gold-400 underline;
+  }
+
+  .tiptap img {
+    @apply rounded-lg max-w-full h-auto my-4;
+  }
+
+  .tiptap p.is-editor-empty:first-child::before {
+    @apply text-zinc-400 dark:text-zinc-600;
+    content: attr(data-placeholder);
+    float: left;
+    height: 0;
+    pointer-events: none;
+  }
+
+  /* Quran verse styling */
+  .quran-verse {
+    @apply rtl text-xl leading-loose p-6 rounded-xl;
+    @apply bg-gold-50 dark:bg-gold-900/10;
+    @apply border border-gold-200 dark:border-gold-800/30;
+    font-family: 'Amiri', serif;
+  }
+
+  /* Blog post content styling */
+  .prose-blog {
+    @apply max-w-none;
+  }
+
+  .prose-blog p {
+    @apply mb-4 leading-relaxed text-zinc-700 dark:text-zinc-300;
+  }
+
+  .prose-blog h2 {
+    @apply text-2xl font-semibold mt-8 mb-4 text-zinc-900 dark:text-zinc-100;
+  }
+
+  .prose-blog h3 {
+    @apply text-xl font-medium mt-6 mb-3 text-zinc-900 dark:text-zinc-100;
+  }
+
+  .prose-blog blockquote {
+    @apply border-l-4 border-gold-500 pl-4 my-6 italic text-zinc-600 dark:text-zinc-400;
+  }
+
+  .prose-blog img {
+    @apply rounded-xl my-6 w-full;
+  }
+
+  .prose-blog a {
+    @apply text-gold-600 dark:text-gold-400 underline underline-offset-2;
+  }
+
+  /* Gold gradient text */
+  .text-gold-gradient {
+    @apply bg-gradient-to-r from-gold-400 to-gold-600 bg-clip-text text-transparent;
+  }
+}
+
+@layer utilities {
+  /* Hide scrollbar */
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+}

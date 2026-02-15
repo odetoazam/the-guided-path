@@ -1,0 +1,84 @@
+import { createClient } from '@/lib/supabase/server'
+import { NextResponse } from 'next/server'
+import { calculateReadingTime } from '@/lib/utils'
+
+interface Params {
+  params: Promise<{ id: string }>
+}
+
+export async function GET(request: Request, { params }: Params) {
+  const { id } = await params
+  const supabase = await createClient()
+
+  const { data, error } = await supabase
+    .from('posts')
+    .select('*')
+    .eq('id', id)
+    .single()
+
+  if (error) {
+    return NextResponse.json({ error: 'Post not found' }, { status: 404 })
+  }
+
+  return NextResponse.json({ post: data })
+}
+
+export async function PATCH(request: Request, { params }: Params) {
+  const { id } = await params
+  const supabase = await createClient()
+  const { data: { user } } = await supabase.auth.getUser()
+
+  if (!user) {
+    return NextResponse.json({ error: 'Unauthorized' }, { status: 401 })
+  }
+
+  const body = await request.json()
+
+  if (body.content_html) {
+    body.reading_time_minutes = calculateReadingTime(body.content_html)
+  }
+
+  if (body.status === 'published') {
+    const { data: existing } = await supabase
+      .from('posts')
+      .select('status')
+      .eq('id', id)
+      .single()
+
+    if (existing && existing.status !== 'published') {
+      body.published_at = new Date().toISOString()
+      body.publish_date = new Date().toISOString()
+    }
+  }
+
+  const { data, error } = await supabase
+    .from('posts')
+    .update(body)
+    .eq('id', id)
+    .select()
+    .single()
+
+  if (error) {
+    return NextResponse.json({ error: error.message }, { status: 500 })
+  }
+
+  return NextResponse.json({ post: data })
+}
+
+export async function DELETE(request: Request, { params }: Params) {
+  const { id } = await params
+  const supabase = await createClient()
+  const { data: { user } } = await supabase.auth.getUser()
+
+  if (!user) {
+    return NextResponse.json({ error: 'Unauthorized' }, { status: 401 })
+  }
+
+  const { error } = await supabase.from('posts').delete().eq('id', id)
+
+  if (error) {
+    return NextResponse.json({ error: error.message }, { status: 500 })
+  }
+
+  return NextResponse.json({ success: true })
+}
