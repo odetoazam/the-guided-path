@@ -1,6 +1,6 @@
 import { createAdminClient } from '@/lib/supabase/admin'
 import { createClient } from '@/lib/supabase/server'
-import { resend, EMAIL_FROM } from '@/lib/email/resend'
+import { getResend, EMAIL_FROM } from '@/lib/email/resend'
 import { NextResponse } from 'next/server'
 import { subscriberSchema } from '@/lib/validators'
 import { SITE_URL, SITE_NAME } from '@/lib/constants'
@@ -100,7 +100,7 @@ export async function POST(request: Request) {
   try {
     const confirmUrl = `${SITE_URL}/api/subscribers/confirm/${confirmationToken}`
 
-    await resend.emails.send({
+    await getResend().emails.send({
       from: EMAIL_FROM,
       to: email,
       subject: `Confirm your subscription to ${SITE_NAME}`,

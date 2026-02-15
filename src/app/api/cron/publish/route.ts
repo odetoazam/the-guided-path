@@ -1,5 +1,5 @@
 import { createAdminClient } from '@/lib/supabase/admin'
-import { resend, EMAIL_FROM } from '@/lib/email/resend'
+import { getResend, EMAIL_FROM } from '@/lib/email/resend'
 import { NextResponse } from 'next/server'
 import { SITE_URL, SITE_NAME } from '@/lib/constants'
 
@@ -66,7 +66,7 @@ export async function GET(request: Request) {
 
       try {
         for (let i = 0; i < emails.length; i += 100) {
-          await resend.batch.send(emails.slice(i, i + 100))
+          await getResend().batch.send(emails.slice(i, i + 100))
         }
       } catch (error) {
         console.error('Cron email error:', error)

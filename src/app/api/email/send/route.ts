@@ -1,6 +1,6 @@
 import { createClient } from '@/lib/supabase/server'
 import { createAdminClient } from '@/lib/supabase/admin'
-import { resend, EMAIL_FROM } from '@/lib/email/resend'
+import { getResend, EMAIL_FROM } from '@/lib/email/resend'
 import { NextResponse } from 'next/server'
 import { SITE_URL, SITE_NAME } from '@/lib/constants'
 
@@ -27,7 +27,7 @@ export async function POST(request: Request) {
   if (testEmail) {
     // Send test email only to the specified address
     try {
-      await resend.emails.send({
+      await getResend().emails.send({
         from: EMAIL_FROM,
         to: testEmail,
         subject: `[TEST] ${post.title} — ${SITE_NAME}`,
@@ -59,7 +59,7 @@ export async function POST(request: Request) {
 
   try {
     for (let i = 0; i < emails.length; i += 100) {
-      await resend.batch.send(emails.slice(i, i + 100))
+      await getResend().batch.send(emails.slice(i, i + 100))
     }
 
     await adminClient.from('email_logs').insert({

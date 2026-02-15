@@ -1,6 +1,6 @@
 import { createClient } from '@/lib/supabase/server'
 import { createAdminClient } from '@/lib/supabase/admin'
-import { resend, EMAIL_FROM } from '@/lib/email/resend'
+import { getResend, EMAIL_FROM } from '@/lib/email/resend'
 import { NextResponse } from 'next/server'
 import { SITE_URL, SITE_NAME } from '@/lib/constants'
 
@@ -58,7 +58,7 @@ export async function POST(request: Request, { params }: Params) {
 
       for (const batch of batches) {
         try {
-          await resend.batch.send(batch)
+          await getResend().batch.send(batch)
         } catch (emailError: any) {
           console.error('Email batch error:', emailError)
         }
