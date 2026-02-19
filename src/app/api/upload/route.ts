@@ -1,9 +1,9 @@
-import { createClient } from '@/lib/supabase/server'
+import { createAdminClient } from '@/lib/supabase/admin'
+import { verifyAuth } from '@/lib/auth'
 import { NextResponse } from 'next/server'
 
 export async function POST(request: Request) {
-  const supabase = await createClient()
-  const { data: { user } } = await supabase.auth.getUser()
+  const user = await verifyAuth(request)
 
   if (!user) {
     return NextResponse.json({ error: 'Unauthorized' }, { status: 401 })
@@ -20,7 +20,8 @@ export async function POST(request: Request) {
   const fileName = `${Date.now()}-${Math.random().toString(36).substring(7)}.${fileExt}`
   const filePath = `posts/${fileName}`
 
-  const { error } = await supabase.storage
+  const adminClient = createAdminClient()
+  const { error } = await adminClient.storage
     .from('post-images')
     .upload(filePath, file)
 
@@ -28,7 +29,7 @@ export async function POST(request: Request) {
     return NextResponse.json({ error: error.message }, { status: 500 })
   }
 
-  const { data: { publicUrl } } = supabase.storage
+  const { data: { publicUrl } } = adminClient.storage
     .from('post-images')
     .getPublicUrl(filePath)
 

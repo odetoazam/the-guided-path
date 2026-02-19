@@ -1,6 +1,6 @@
 'use client'
 
-import { useState, useEffect, useCallback } from 'react'
+import { useState, useEffect, useCallback, useRef } from 'react'
 import { useRouter, useParams } from 'next/navigation'
 import { TiptapEditor } from '@/components/editor/tiptap-editor'
 import { Button } from '@/components/ui/button'
@@ -9,6 +9,7 @@ import { Textarea } from '@/components/ui/textarea'
 import { Badge } from '@/components/ui/badge'
 import { LoadingPage } from '@/components/ui/loading'
 import { calculateReadingTime } from '@/lib/utils'
+import { createClient } from '@/lib/supabase/client'
 import { Save, Send, ArrowLeft, Trash2, Eye, Mail, MailCheck, CheckCircle, XCircle } from 'lucide-react'
 import Link from 'next/link'
 import toast from 'react-hot-toast'
@@ -21,6 +22,17 @@ export default function EditPostPage() {
   const [loading, setLoading] = useState(true)
   const [saving, setSaving] = useState(false)
   const [sendingEmail, setSendingEmail] = useState(false)
+  const supabaseRef = useRef(createClient())
+
+  // Helper to get auth headers with the current access token
+  const getAuthHeaders = async (): Promise<Record<string, string>> => {
+    const { data: { session } } = await supabaseRef.current.auth.getSession()
+    if (!session?.access_token) return { 'Content-Type': 'application/json' }
+    return {
+      'Content-Type': 'application/json',
+      'Authorization': `Bearer ${session.access_token}`,
+    }
+  }
 
   const [form, setForm] = useState({
     title: '',
@@ -42,7 +54,8 @@ export default function EditPostPage() {
 
   const fetchPost = async () => {
     try {
-      const res = await fetch(`/api/posts/${id}`)
+      const headers = await getAuthHeaders()
+      const res = await fetch(`/api/posts/${id}`, { headers })
       const { post: data, error } = await res.json()
 
       if (!res.ok || !data) {
@@ -103,9 +116,10 @@ export default function EditPostPage() {
     }
 
     try {
+      const headers = await getAuthHeaders()
       const res = await fetch(`/api/posts/${id}`, {
         method: 'PATCH',
-        headers: { 'Content-Type': 'application/json' },
+        headers,
         body: JSON.stringify(updateData),
       })
 
@@ -126,9 +140,10 @@ export default function EditPostPage() {
   const toggleStatus = async () => {
     const newStatus = form.status === 'published' ? 'draft' : 'published'
 
+    const headers = await getAuthHeaders()
     const res = await fetch(`/api/posts/${id}/publish`, {
       method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
+      headers,
       body: JSON.stringify({ status: newStatus }),
     })
 
@@ -156,9 +171,10 @@ export default function EditPostPage() {
 
     setSendingEmail(true)
     try {
+      const headers = await getAuthHeaders()
       const res = await fetch('/api/email/send', {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
+        headers,
         body: JSON.stringify({ postId: id }),
       })
 
@@ -180,7 +196,8 @@ export default function EditPostPage() {
   const deletePost = async () => {
     if (!confirm('Are you sure you want to delete this post? This cannot be undone.')) return
     try {
-      const res = await fetch(`/api/posts/${id}`, { method: 'DELETE' })
+      const headers = await getAuthHeaders()
+      const res = await fetch(`/api/posts/${id}`, { method: 'DELETE', headers })
       if (res.ok) {
         toast.success('Post deleted')
         router.push('/admin/posts')

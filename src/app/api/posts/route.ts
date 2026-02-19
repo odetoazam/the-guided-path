@@ -1,4 +1,5 @@
-import { createClient } from '@/lib/supabase/server'
+import { createAdminClient } from '@/lib/supabase/admin'
+import { verifyAuth } from '@/lib/auth'
 import { NextResponse } from 'next/server'
 import { postSchema } from '@/lib/validators'
 import { generateSlug, calculateReadingTime } from '@/lib/utils'
@@ -10,9 +11,9 @@ export async function GET(request: Request) {
   const limit = parseInt(searchParams.get('limit') || '20')
   const offset = (page - 1) * limit
 
-  const supabase = await createClient()
+  const adminClient = createAdminClient()
 
-  let query = supabase
+  let query = adminClient
     .from('posts')
     .select('*', { count: 'exact' })
     .order('created_at', { ascending: false })
@@ -37,8 +38,7 @@ export async function GET(request: Request) {
 }
 
 export async function POST(request: Request) {
-  const supabase = await createClient()
-  const { data: { user } } = await supabase.auth.getUser()
+  const user = await verifyAuth(request)
 
   if (!user) {
     return NextResponse.json({ error: 'Unauthorized' }, { status: 401 })
@@ -55,7 +55,8 @@ export async function POST(request: Request) {
   const slug = data.slug || generateSlug(data.title)
   const readingTime = calculateReadingTime(data.content_html || '')
 
-  const { data: post, error } = await supabase
+  const adminClient = createAdminClient()
+  const { data: post, error } = await adminClient
     .from('posts')
     .insert({
       ...data,
