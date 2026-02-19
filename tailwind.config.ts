@@ -25,7 +25,9 @@ const config: Config = {
       },
       fontFamily: {
         sans: ['Inter', 'system-ui', 'sans-serif'],
-        arabic: ['Vazirmatn', 'Amiri', 'serif'],
+        serif: ['Playfair Display', 'Georgia', 'serif'],
+        body: ['Source Serif 4', 'Georgia', 'Times New Roman', 'serif'],
+        arabic: ['Amiri', 'Vazirmatn', 'serif'],
         amiri: ['Amiri', 'serif'],
       },
       animation: {

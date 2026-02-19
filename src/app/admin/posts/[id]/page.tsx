@@ -10,7 +10,7 @@ import { Textarea } from '@/components/ui/textarea'
 import { Badge } from '@/components/ui/badge'
 import { LoadingPage } from '@/components/ui/loading'
 import { calculateReadingTime } from '@/lib/utils'
-import { Save, Send, ArrowLeft, Trash2, Eye } from 'lucide-react'
+import { Save, Send, ArrowLeft, Trash2, Eye, Mail, MailCheck, CheckCircle, XCircle } from 'lucide-react'
 import Link from 'next/link'
 import toast from 'react-hot-toast'
 import type { Post } from '@/types'
@@ -21,6 +21,7 @@ export default function EditPostPage() {
   const [post, setPost] = useState<Post | null>(null)
   const [loading, setLoading] = useState(true)
   const [saving, setSaving] = useState(false)
+  const [sendingEmail, setSendingEmail] = useState(false)
 
   const [form, setForm] = useState({
     title: '',
@@ -83,81 +84,90 @@ export default function EditPostPage() {
     }))
   }, [])
 
-  const save = async (newStatus?: string) => {
+  const save = async () => {
     setSaving(true)
 
-    const isPublishing = newStatus === 'published' && post?.status !== 'published'
+    const updateData: any = {
+      title: form.title,
+      slug: form.slug,
+      excerpt: form.excerpt || null,
+      content_json: form.content_json,
+      content_html: form.content_html,
+      featured_image: form.featured_image || null,
+      tags: form.tags ? form.tags.split(',').map((t) => t.trim()).filter(Boolean) : [],
+      seo_title: form.seo_title || null,
+      seo_description: form.seo_description || null,
+      reading_time_minutes: calculateReadingTime(form.content_html || ''),
+      featured: form.featured,
+      status: form.status,
+    }
 
-    if (isPublishing) {
-      // Save the post content first, then publish via the API
-      const supabase = createClient()
-      const { error: saveError } = await supabase
-        .from('posts')
-        .update({
-          title: form.title,
-          slug: form.slug,
-          excerpt: form.excerpt || null,
-          content_json: form.content_json,
-          content_html: form.content_html,
-          featured_image: form.featured_image || null,
-          tags: form.tags ? form.tags.split(',').map((t) => t.trim()).filter(Boolean) : [],
-          seo_title: form.seo_title || null,
-          seo_description: form.seo_description || null,
-          reading_time_minutes: calculateReadingTime(form.content_html || ''),
-          featured: form.featured,
-        })
-        .eq('id', id)
+    const supabase = createClient()
+    const { error } = await supabase
+      .from('posts')
+      .update(updateData)
+      .eq('id', id)
 
-      if (saveError) {
-        toast.error('Failed to save: ' + saveError.message)
-        setSaving(false)
-        return
-      }
-
-      // Call the publish API endpoint
-      try {
-        const res = await fetch(`/api/posts/${id}/publish`, { method: 'POST' })
-        const data = await res.json()
-
-        if (!res.ok) {
-          toast.error(data.error || 'Failed to publish')
-        } else {
-          toast.success('Post published!')
-          router.push('/admin/posts')
-        }
-      } catch {
-        toast.error('Failed to publish')
-      }
+    if (error) {
+      toast.error('Failed to save: ' + error.message)
     } else {
-      // Regular save (draft, or re-saving a published post)
-      const supabase = createClient()
-      const status = newStatus || form.status
-      const { error } = await supabase
-        .from('posts')
-        .update({
-          title: form.title,
-          slug: form.slug,
-          excerpt: form.excerpt || null,
-          content_json: form.content_json,
-          content_html: form.content_html,
-          featured_image: form.featured_image || null,
-          tags: form.tags ? form.tags.split(',').map((t) => t.trim()).filter(Boolean) : [],
-          seo_title: form.seo_title || null,
-          seo_description: form.seo_description || null,
-          reading_time_minutes: calculateReadingTime(form.content_html || ''),
-          featured: form.featured,
-          status,
-        })
-        .eq('id', id)
-
-      if (error) {
-        toast.error('Failed to save: ' + error.message)
-      } else {
-        toast.success('Post saved!')
-        if (newStatus) router.push('/admin/posts')
-      }
+      toast.success('Post saved!')
     }
     setSaving(false)
+  }
+
+  const toggleStatus = async () => {
+    const newStatus = form.status === 'published' ? 'draft' : 'published'
+
+    const res = await fetch(`/api/posts/${id}/publish`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ status: newStatus }),
+    })
+
+    if (res.ok) {
+      const { post: updatedPost } = await res.json()
+      setPost(updatedPost)
+      setForm((prev) => ({ ...prev, status: newStatus }))
+      toast.success(newStatus === 'published' ? 'Post published!' : 'Post moved to draft')
+    } else {
+      toast.error('Failed to update status')
+    }
+  }
+
+  const sendNewsletter = async () => {
+    if (form.status !== 'published') {
+      toast.error('Publish the post first before sending the newsletter')
+      return
+    }
+
+    if (post?.email_sent) {
+      if (!confirm('Newsletter was already sent for this post. Send again?')) return
+    }
+
+    if (!confirm('Send this post as a newsletter to all active subscribers?')) return
+
+    setSendingEmail(true)
+    try {
+      const res = await fetch('/api/email/send', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ postId: id }),
+      })
+
+      const data = await res.json()
+
+      if (res.ok) {
+        toast.success(data.message || 'Newsletter sent!')
+        // Refresh post to get updated email_sent status
+        fetchPost()
+      } else {
+        toast.error(data.error || 'Failed to send newsletter')
+      }
+    } catch (error) {
+      toast.error('Failed to send newsletter')
+    }
+    setSendingEmail(false)
   }
 
   const deletePost = async () => {
@@ -176,35 +186,79 @@ export default function EditPostPage() {
 
   return (
     <div className="mx-auto max-w-4xl space-y-6">
+      {/* Top bar */}
       <div className="flex items-center justify-between">
         <div className="flex items-center gap-3">
           <Link href="/admin/posts">
             <Button variant="ghost" size="sm"><ArrowLeft className="h-4 w-4" /></Button>
           </Link>
           <h1 className="text-2xl font-bold text-white">Edit Post</h1>
-          <Badge variant={form.status === 'published' ? 'success' : form.status === 'draft' ? 'default' : 'warning'}>
-            {form.status}
-          </Badge>
         </div>
         <div className="flex items-center gap-2">
           <Button variant="ghost" size="sm" onClick={deletePost} className="text-red-400">
             <Trash2 className="h-4 w-4" />
           </Button>
-          {post?.status === 'published' && (
-            <Link href={`/tadabbur/${post.slug}`} target="_blank">
+          {form.status === 'published' && (
+            <Link href={`/tadabbur/${form.slug}`} target="_blank">
               <Button variant="outline" size="sm">
                 <Eye className="mr-2 h-4 w-4" /> View
               </Button>
             </Link>
           )}
-          <Button variant="outline" onClick={() => save()} loading={saving}>
+          <Button variant="outline" onClick={save} loading={saving}>
             <Save className="mr-2 h-4 w-4" /> Save
           </Button>
-          {form.status !== 'published' && (
-            <Button onClick={() => save('published')} loading={saving}>
-              <Send className="mr-2 h-4 w-4" /> Publish
-            </Button>
+        </div>
+      </div>
+
+      {/* Status & Newsletter bar */}
+      <div className="flex items-center justify-between rounded-xl border border-zinc-800 bg-zinc-900/50 p-4">
+        <div className="flex items-center gap-4">
+          {/* Status toggle */}
+          <div className="flex items-center gap-3">
+            <span className="text-sm text-zinc-400">Status:</span>
+            <button
+              onClick={toggleStatus}
+              className="flex items-center gap-2 rounded-lg border border-zinc-700 px-3 py-1.5 text-sm transition-colors hover:border-zinc-500"
+            >
+              {form.status === 'published' ? (
+                <>
+                  <CheckCircle className="h-4 w-4 text-green-400" />
+                  <span className="text-green-400 font-medium">Published</span>
+                </>
+              ) : form.status === 'draft' ? (
+                <>
+                  <XCircle className="h-4 w-4 text-zinc-400" />
+                  <span className="text-zinc-400 font-medium">Draft</span>
+                </>
+              ) : (
+                <>
+                  <Badge variant="warning">{form.status}</Badge>
+                </>
+              )}
+            </button>
+            <span className="text-xs text-zinc-600">Click to toggle</span>
+          </div>
+        </div>
+
+        {/* Newsletter send */}
+        <div className="flex items-center gap-3">
+          {post?.email_sent && (
+            <div className="flex items-center gap-1.5 text-sm text-green-400">
+              <MailCheck className="h-4 w-4" />
+              <span>Sent {post.email_sent_at ? new Date(post.email_sent_at).toLocaleDateString() : ''}</span>
+            </div>
           )}
+          <Button
+            variant={post?.email_sent ? 'outline' : 'primary'}
+            size="sm"
+            onClick={sendNewsletter}
+            loading={sendingEmail}
+            disabled={form.status !== 'published'}
+          >
+            <Mail className="mr-2 h-4 w-4" />
+            {post?.email_sent ? 'Resend Newsletter' : 'Send Newsletter'}
+          </Button>
         </div>
       </div>
 
