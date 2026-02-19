@@ -1,4 +1,5 @@
 import { createClient } from '@/lib/supabase/server'
+import { createAdminClient } from '@/lib/supabase/admin'
 import { NextResponse } from 'next/server'
 import { calculateReadingTime } from '@/lib/utils'
 
@@ -8,9 +9,9 @@ interface Params {
 
 export async function GET(request: Request, { params }: Params) {
   const { id } = await params
-  const supabase = await createClient()
+  const adminClient = createAdminClient()
 
-  const { data, error } = await supabase
+  const { data, error } = await adminClient
     .from('posts')
     .select('*')
     .eq('id', id)
@@ -32,6 +33,7 @@ export async function PATCH(request: Request, { params }: Params) {
     return NextResponse.json({ error: 'Unauthorized' }, { status: 401 })
   }
 
+  const adminClient = createAdminClient()
   const body = await request.json()
 
   if (body.content_html) {
@@ -39,7 +41,7 @@ export async function PATCH(request: Request, { params }: Params) {
   }
 
   if (body.status === 'published') {
-    const { data: existing } = await supabase
+    const { data: existing } = await adminClient
       .from('posts')
       .select('status')
       .eq('id', id)
@@ -51,7 +53,7 @@ export async function PATCH(request: Request, { params }: Params) {
     }
   }
 
-  const { data, error } = await supabase
+  const { data, error } = await adminClient
     .from('posts')
     .update(body)
     .eq('id', id)
@@ -74,7 +76,8 @@ export async function DELETE(request: Request, { params }: Params) {
     return NextResponse.json({ error: 'Unauthorized' }, { status: 401 })
   }
 
-  const { error } = await supabase.from('posts').delete().eq('id', id)
+  const adminClient = createAdminClient()
+  const { error } = await adminClient.from('posts').delete().eq('id', id)
 
   if (error) {
     return NextResponse.json({ error: error.message }, { status: 500 })
