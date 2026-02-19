@@ -1,4 +1,5 @@
 import { createClient } from '@/lib/supabase/server'
+import { createAdminClient } from '@/lib/supabase/admin'
 import { NextResponse } from 'next/server'
 
 interface Params {
@@ -14,13 +15,14 @@ export async function POST(request: Request, { params }: Params) {
     return NextResponse.json({ error: 'Unauthorized' }, { status: 401 })
   }
 
+  const adminClient = createAdminClient()
   const { status } = await request.json().catch(() => ({ status: 'published' }))
 
   const updateData: any = { status }
 
   if (status === 'published') {
     // Only set published_at on first publish
-    const { data: existing } = await supabase
+    const { data: existing } = await adminClient
       .from('posts')
       .select('published_at')
       .eq('id', id)
@@ -32,7 +34,7 @@ export async function POST(request: Request, { params }: Params) {
     }
   }
 
-  const { data: post, error: postError } = await supabase
+  const { data: post, error: postError } = await adminClient
     .from('posts')
     .update(updateData)
     .eq('id', id)
