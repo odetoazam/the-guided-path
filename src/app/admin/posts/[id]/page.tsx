@@ -2,7 +2,6 @@
 
 import { useState, useEffect, useCallback } from 'react'
 import { useRouter, useParams } from 'next/navigation'
-import { createClient } from '@/lib/supabase/client'
 import { TiptapEditor } from '@/components/editor/tiptap-editor'
 import { Button } from '@/components/ui/button'
 import { Input } from '@/components/ui/input'
@@ -42,33 +41,34 @@ export default function EditPostPage() {
   }, [id])
 
   const fetchPost = async () => {
-    const supabase = createClient()
-    const { data, error } = await supabase
-      .from('posts')
-      .select('*')
-      .eq('id', id)
-      .single()
+    try {
+      const res = await fetch(`/api/posts/${id}`)
+      const { post: data, error } = await res.json()
 
-    if (error || !data) {
-      toast.error('Post not found')
+      if (!res.ok || !data) {
+        toast.error('Post not found')
+        router.push('/admin/posts')
+        return
+      }
+
+      setPost(data)
+      setForm({
+        title: data.title,
+        slug: data.slug,
+        excerpt: data.excerpt || '',
+        content_json: data.content_json,
+        content_html: data.content_html,
+        featured_image: data.featured_image || '',
+        tags: data.tags?.join(', ') || '',
+        seo_title: data.seo_title || '',
+        seo_description: data.seo_description || '',
+        featured: data.featured || false,
+        status: data.status,
+      })
+    } catch {
+      toast.error('Failed to load post')
       router.push('/admin/posts')
-      return
     }
-
-    setPost(data)
-    setForm({
-      title: data.title,
-      slug: data.slug,
-      excerpt: data.excerpt || '',
-      content_json: data.content_json,
-      content_html: data.content_html,
-      featured_image: data.featured_image || '',
-      tags: data.tags?.join(', ') || '',
-      seo_title: data.seo_title || '',
-      seo_description: data.seo_description || '',
-      featured: data.featured || false,
-      status: data.status,
-    })
     setLoading(false)
   }
 
@@ -86,9 +86,8 @@ export default function EditPostPage() {
 
   const save = async () => {
     setSaving(true)
-    const supabase = createClient()
 
-    const updateData: any = {
+    const updateData = {
       title: form.title,
       slug: form.slug,
       excerpt: form.excerpt || null,
@@ -103,15 +102,23 @@ export default function EditPostPage() {
       status: form.status,
     }
 
-    const { error } = await supabase
-      .from('posts')
-      .update(updateData)
-      .eq('id', id)
+    try {
+      const res = await fetch(`/api/posts/${id}`, {
+        method: 'PATCH',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(updateData),
+      })
 
-    if (error) {
-      toast.error('Failed to save: ' + error.message)
-    } else {
-      toast.success('Post saved!')
+      const data = await res.json()
+
+      if (!res.ok) {
+        toast.error('Failed to save: ' + (data.error || 'Unknown error'))
+      } else {
+        setPost(data.post)
+        toast.success('Post saved!')
+      }
+    } catch (err) {
+      toast.error('Failed to save — network error')
     }
     setSaving(false)
   }
@@ -172,13 +179,16 @@ export default function EditPostPage() {
 
   const deletePost = async () => {
     if (!confirm('Are you sure you want to delete this post? This cannot be undone.')) return
-    const supabase = createClient()
-    const { error } = await supabase.from('posts').delete().eq('id', id)
-    if (error) {
+    try {
+      const res = await fetch(`/api/posts/${id}`, { method: 'DELETE' })
+      if (res.ok) {
+        toast.success('Post deleted')
+        router.push('/admin/posts')
+      } else {
+        toast.error('Failed to delete')
+      }
+    } catch {
       toast.error('Failed to delete')
-    } else {
-      toast.success('Post deleted')
-      router.push('/admin/posts')
     }
   }
 
