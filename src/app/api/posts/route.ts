@@ -8,8 +8,12 @@ export async function GET(request: Request) {
   const { searchParams } = new URL(request.url)
   const status = searchParams.get('status')
   const page = parseInt(searchParams.get('page') || '1')
-  const limit = parseInt(searchParams.get('limit') || '20')
+  const limit = Math.min(parseInt(searchParams.get('limit') || '20'), 100)
   const offset = (page - 1) * limit
+
+  // Check if user is admin — if not, only show published posts
+  const user = await verifyAuth(request)
+  const isAdmin = !!user
 
   const adminClient = createAdminClient()
 
@@ -19,14 +23,18 @@ export async function GET(request: Request) {
     .order('created_at', { ascending: false })
     .range(offset, offset + limit - 1)
 
-  if (status && status !== 'all') {
+  if (!isAdmin) {
+    // Public access: only published posts
+    query = query.eq('status', 'published')
+  } else if (status && status !== 'all') {
     query = query.eq('status', status)
   }
 
   const { data, error, count } = await query
 
   if (error) {
-    return NextResponse.json({ error: error.message }, { status: 500 })
+    console.error('Posts fetch error:', error)
+    return NextResponse.json({ error: 'Failed to load posts' }, { status: 500 })
   }
 
   return NextResponse.json({
@@ -70,7 +78,8 @@ export async function POST(request: Request) {
     .single()
 
   if (error) {
-    return NextResponse.json({ error: error.message }, { status: 500 })
+    console.error('Post create error:', error)
+    return NextResponse.json({ error: 'Failed to create post' }, { status: 500 })
   }
 
   return NextResponse.json({ post }, { status: 201 })

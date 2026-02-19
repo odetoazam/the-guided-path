@@ -9,15 +9,28 @@ interface Params {
 
 export async function GET(request: Request, { params }: Params) {
   const { id } = await params
-  const adminClient = createAdminClient()
 
-  const { data, error } = await adminClient
+  // Validate UUID format to prevent scanning
+  if (!/^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i.test(id)) {
+    return NextResponse.json({ error: 'Post not found' }, { status: 404 })
+  }
+
+  const adminClient = createAdminClient()
+  const user = await verifyAuth(request)
+
+  let query = adminClient
     .from('posts')
     .select('*')
     .eq('id', id)
-    .single()
 
-  if (error) {
+  // Non-admin users can only see published posts
+  if (!user) {
+    query = query.eq('status', 'published')
+  }
+
+  const { data, error } = await query.single()
+
+  if (error || !data) {
     return NextResponse.json({ error: 'Post not found' }, { status: 404 })
   }
 
@@ -60,7 +73,8 @@ export async function PATCH(request: Request, { params }: Params) {
     .single()
 
   if (error) {
-    return NextResponse.json({ error: error.message }, { status: 500 })
+    console.error('Post update error:', error)
+    return NextResponse.json({ error: 'Failed to update post' }, { status: 500 })
   }
 
   return NextResponse.json({ post: data })
@@ -78,7 +92,8 @@ export async function DELETE(request: Request, { params }: Params) {
   const { error } = await adminClient.from('posts').delete().eq('id', id)
 
   if (error) {
-    return NextResponse.json({ error: error.message }, { status: 500 })
+    console.error('Post delete error:', error)
+    return NextResponse.json({ error: 'Failed to delete post' }, { status: 500 })
   }
 
   return NextResponse.json({ success: true })

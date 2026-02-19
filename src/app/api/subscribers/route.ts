@@ -4,6 +4,7 @@ import { getResend, EMAIL_FROM } from '@/lib/email/resend'
 import { NextResponse } from 'next/server'
 import { subscriberSchema } from '@/lib/validators'
 import { SITE_URL, SITE_NAME } from '@/lib/constants'
+import { checkRateLimit, getClientIp } from '@/lib/rate-limit'
 import crypto from 'crypto'
 
 export async function GET(request: Request) {
@@ -29,13 +30,24 @@ export async function GET(request: Request) {
   const { data, error, count } = await query
 
   if (error) {
-    return NextResponse.json({ error: error.message }, { status: 500 })
+    console.error('Subscribers fetch error:', error)
+    return NextResponse.json({ error: 'Failed to load subscribers' }, { status: 500 })
   }
 
   return NextResponse.json({ subscribers: data, total: count })
 }
 
 export async function POST(request: Request) {
+  // Rate limit: 5 subscribe attempts per IP per 10 minutes
+  const ip = getClientIp(request)
+  const { allowed } = checkRateLimit(`subscribe:${ip}`, { maxRequests: 5, windowSeconds: 600 })
+  if (!allowed) {
+    return NextResponse.json(
+      { error: 'Too many requests. Please try again later.' },
+      { status: 429 },
+    )
+  }
+
   const body = await request.json()
   const parsed = subscriberSchema.safeParse(body)
 
@@ -91,7 +103,8 @@ export async function POST(request: Request) {
       if (error.code === '23505') {
         return NextResponse.json({ error: 'This email is already registered' }, { status: 400 })
       }
-      return NextResponse.json({ error: error.message }, { status: 500 })
+      console.error('Subscriber insert error:', error)
+      return NextResponse.json({ error: 'Something went wrong. Please try again.' }, { status: 500 })
     }
   }
 
