@@ -1,4 +1,4 @@
-export const SITE_NAME = 'The Guided Path'
+export const SITE_NAME = 'AyahGuide'
 export const SITE_DESCRIPTION = 'Deep Quranic reflections (tadabbur) delivered to your inbox'
 export const SITE_URL = process.env.NEXT_PUBLIC_APP_URL || 'http://localhost:3000'
 

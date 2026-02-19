@@ -5,16 +5,16 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: {
-    default: 'The Guided Path - Quranic Reflections',
-    template: '%s | The Guided Path',
+    default: 'AyahGuide - Quranic Reflections',
+    template: '%s | AyahGuide',
   },
   description: 'Deep Quranic reflections (tadabbur) delivered to your inbox. Journey through the Quran with contemplative insight.',
   keywords: ['Quran', 'tadabbur', 'Islamic', 'reflection', 'newsletter', 'Quranic studies'],
-  authors: [{ name: 'The Guided Path' }],
+  authors: [{ name: 'AyahGuide' }],
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    siteName: 'The Guided Path',
+    siteName: 'AyahGuide',
   },
 }
 

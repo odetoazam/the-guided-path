@@ -11,9 +11,9 @@ export default function SettingsPage() {
   const [loading, setLoading] = useState(true)
   const [saving, setSaving] = useState(false)
   const [settings, setSettings] = useState({
-    site_title: { title: 'The Guided Path', tagline: 'Deep Quranic reflections delivered to your inbox' },
+    site_title: { title: 'AyahGuide', tagline: 'Deep Quranic reflections delivered to your inbox' },
     publishing_mode: { mode: 'manual' },
-    email_config: { from_name: 'The Guided Path', reply_to: '' },
+    email_config: { from_name: 'AyahGuide', reply_to: '' },
   })
 
   useEffect(() => {

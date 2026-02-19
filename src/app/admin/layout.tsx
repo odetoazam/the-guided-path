@@ -65,7 +65,7 @@ export default function AdminLayout({ children }: { children: React.ReactNode })
       >
         <div className="flex h-16 items-center justify-between border-b border-zinc-800 px-6">
           <Link href="/admin" className="text-lg font-bold text-gold-gradient">
-            The Guided Path
+            AyahGuide
           </Link>
           <button
             className="lg:hidden rounded-lg p-1 hover:bg-zinc-800"

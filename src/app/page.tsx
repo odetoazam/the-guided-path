@@ -29,7 +29,7 @@ export default async function LandingPage() {
       <nav className="fixed top-0 z-50 w-full border-b border-zinc-200/10 bg-white/60 dark:bg-zinc-950/60 backdrop-blur-2xl">
         <div className="mx-auto flex max-w-6xl items-center justify-between px-6 py-4">
           <Link href="/" className="font-amiri text-xl font-bold">
-            <span className="text-gold-gradient">The Guided Path</span>
+            <span className="text-gold-gradient">AyahGuide</span>
           </Link>
           <div className="flex items-center gap-4 sm:gap-6">
             <Link
@@ -214,7 +214,7 @@ export default async function LandingPage() {
       <footer className="border-t border-zinc-200 dark:border-zinc-800/50 py-12 px-6">
         <div className="mx-auto max-w-6xl flex flex-col items-center gap-6">
           <Link href="/" className="font-amiri text-lg">
-            <span className="text-gold-gradient">The Guided Path</span>
+            <span className="text-gold-gradient">AyahGuide</span>
           </Link>
 
           <div className="flex items-center gap-6 text-sm text-zinc-400">
@@ -229,7 +229,7 @@ export default async function LandingPage() {
           <div className="font-amiri text-lg text-gold-500/20 select-none">۞</div>
 
           <p className="text-xs text-zinc-400 dark:text-zinc-500">
-            &copy; {new Date().getFullYear()} The Guided Path. All rights reserved.
+            &copy; {new Date().getFullYear()} AyahGuide. All rights reserved.
           </p>
         </div>
       </footer>

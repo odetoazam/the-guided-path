@@ -9,5 +9,5 @@ export function getResend(): Resend {
   return _resend
 }
 
-export const EMAIL_FROM = process.env.EMAIL_FROM || 'The Guided Path <noreply@theguidedpath.com>'
-export const EMAIL_REPLY_TO = process.env.EMAIL_REPLY_TO || 'support@theguidedpath.com'
+export const EMAIL_FROM = process.env.EMAIL_FROM || 'AyahGuide <noreply@ayahguide.com>'
+export const EMAIL_REPLY_TO = process.env.EMAIL_REPLY_TO || 'support@ayahguide.com'

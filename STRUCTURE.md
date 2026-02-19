@@ -1,4 +1,4 @@
-# The Guided Path - Project Structure
+# AyahGuide - Project Structure
 
 ## Directory Structure Created
 
