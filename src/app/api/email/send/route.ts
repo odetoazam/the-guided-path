@@ -1,13 +1,12 @@
-import { createClient } from '@/lib/supabase/server'
 import { createAdminClient } from '@/lib/supabase/admin'
+import { verifyAuth } from '@/lib/auth'
 import { getResend, EMAIL_FROM } from '@/lib/email/resend'
 import { NextResponse } from 'next/server'
 import { SITE_URL, SITE_NAME } from '@/lib/constants'
 
 export async function POST(request: Request) {
-  // Verify user is authenticated
-  const supabase = await createClient()
-  const { data: { user } } = await supabase.auth.getUser()
+  // Verify user is authenticated and is an admin (verifyAuth checks both)
+  const user = await verifyAuth(request)
 
   if (!user) {
     return NextResponse.json({ error: 'Unauthorized' }, { status: 401 })
@@ -15,17 +14,6 @@ export async function POST(request: Request) {
 
   // Use admin client for all data operations (bypasses RLS)
   const adminClient = createAdminClient()
-
-  // Verify user is an admin
-  const { data: profile } = await adminClient
-    .from('profiles')
-    .select('role')
-    .eq('id', user.id)
-    .single()
-
-  if (!profile || profile.role !== 'admin') {
-    return NextResponse.json({ error: 'Forbidden' }, { status: 403 })
-  }
 
   const { postId, testEmail } = await request.json()
 
