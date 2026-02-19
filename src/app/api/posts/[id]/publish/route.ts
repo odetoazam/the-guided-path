@@ -101,7 +101,7 @@ function generateEmailHtml(post: any, subscriber: any): string {
       <div style="max-width:600px;margin:0 auto;padding:40px 20px;">
         <!-- Header -->
         <div style="text-align:center;margin-bottom:40px;">
-          <h1 style="color:#D4AF37;font-size:24px;margin:0;">The Guided Path</h1>
+          <h1 style="color:#D4AF37;font-size:24px;margin:0;">AyahGuide</h1>
           <p style="color:#71717a;font-size:14px;margin-top:8px;">Quranic Reflections</p>
         </div>
 
@@ -128,7 +128,7 @@ function generateEmailHtml(post: any, subscriber: any): string {
         <!-- Footer -->
         <div style="text-align:center;margin-top:40px;padding-top:24px;border-top:1px solid #27272a;">
           <p style="color:#52525b;font-size:12px;margin:0;">
-            You received this because you subscribed to The Guided Path.
+            You received this because you subscribed to AyahGuide.
           </p>
           <p style="margin-top:8px;">
             <a href="${unsubscribeUrl}" style="color:#71717a;font-size:12px;text-decoration:underline;">

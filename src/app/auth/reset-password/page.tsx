@@ -68,7 +68,7 @@ export default function ResetPasswordPage() {
       <div className="w-full max-w-md space-y-8">
         <div className="text-center">
           <h1 className="text-3xl font-bold text-white">
-            <span className="text-gold-gradient">The Guided Path</span>
+            <span className="text-gold-gradient">AyahGuide</span>
           </h1>
           <p className="mt-2 text-zinc-400">Set your new password</p>
         </div>

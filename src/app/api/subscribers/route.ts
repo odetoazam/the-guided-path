@@ -117,7 +117,7 @@ export async function POST(request: Request) {
               <h2 style="color:#ffffff;font-size:24px;margin:0 0 16px 0;">Confirm Your Subscription</h2>
               <p style="color:#a1a1aa;font-size:16px;line-height:1.6;">
                 ${name ? `Assalamu Alaikum ${name},` : 'Assalamu Alaikum,'}<br><br>
-                Thank you for subscribing to The Guided Path. Please confirm your email to start receiving weekly Quranic reflections.
+                Thank you for subscribing to AyahGuide. Please confirm your email to start receiving weekly Quranic reflections.
               </p>
               <a href="${confirmUrl}" style="display:inline-block;margin-top:24px;background-color:#D4AF37;color:#000;padding:14px 40px;border-radius:8px;text-decoration:none;font-weight:600;font-size:16px;">
                 Confirm Subscription

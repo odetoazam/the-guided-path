@@ -91,7 +91,7 @@ function generateNewsletterHtml(post: any, subscriber: any): string {
     <body style="margin:0;padding:0;background-color:#0a0a0a;font-family:Georgia,'Times New Roman',serif;">
       <div style="max-width:600px;margin:0 auto;padding:40px 20px;">
         <div style="text-align:center;margin-bottom:40px;">
-          <h1 style="color:#D4AF37;font-size:24px;margin:0;">The Guided Path</h1>
+          <h1 style="color:#D4AF37;font-size:24px;margin:0;">AyahGuide</h1>
           <p style="color:#71717a;font-size:14px;margin-top:8px;">Quranic Reflections</p>
         </div>
         <div style="background-color:#18181b;border-radius:12px;padding:32px;border:1px solid #27272a;">
@@ -103,7 +103,7 @@ function generateNewsletterHtml(post: any, subscriber: any): string {
           <a href="${postUrl}" style="display:inline-block;background-color:#D4AF37;color:#000;padding:12px 32px;border-radius:8px;text-decoration:none;font-weight:600;">Read on the Web</a>
         </div>
         <div style="text-align:center;margin-top:40px;padding-top:24px;border-top:1px solid #27272a;">
-          <p style="color:#52525b;font-size:12px;">You received this because you subscribed to The Guided Path.</p>
+          <p style="color:#52525b;font-size:12px;">You received this because you subscribed to AyahGuide.</p>
           <a href="${unsubscribeUrl}" style="color:#71717a;font-size:12px;text-decoration:underline;">Unsubscribe</a>
         </div>
       </div>

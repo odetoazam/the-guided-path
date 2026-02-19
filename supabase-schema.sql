@@ -1,4 +1,4 @@
--- The Guided Path - Supabase Database Schema
+-- AyahGuide - Supabase Database Schema
 -- Run this in Supabase SQL Editor to set up all tables
 
 -- 1. Profiles (extends auth.users)
@@ -109,8 +109,8 @@ CREATE TABLE IF NOT EXISTS settings (
 -- Insert default settings
 INSERT INTO settings (key, value) VALUES
   ('publishing_mode', '{"mode": "manual"}'::jsonb),
-  ('site_title', '{"title": "The Guided Path", "tagline": "Deep Quranic reflections delivered to your inbox"}'::jsonb),
-  ('email_config', '{"from_name": "The Guided Path", "reply_to": ""}'::jsonb)
+  ('site_title', '{"title": "AyahGuide", "tagline": "Deep Quranic reflections delivered to your inbox"}'::jsonb),
+  ('email_config', '{"from_name": "AyahGuide", "reply_to": ""}'::jsonb)
 ON CONFLICT (key) DO NOTHING;
 
 -- 6. Analytics

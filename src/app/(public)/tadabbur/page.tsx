@@ -5,7 +5,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Quranic Reflections (Tadabbur)',
-  description: 'Browse all Quranic reflections and tadabbur from The Guided Path.',
+  description: 'Browse all Quranic reflections and tadabbur from AyahGuide.',
 }
 
 async function getPosts() {

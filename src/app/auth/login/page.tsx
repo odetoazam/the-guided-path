@@ -50,7 +50,7 @@ function LoginForm() {
         type="email"
         value={email}
         onChange={(e) => setEmail(e.target.value)}
-        placeholder="admin@theguidedpath.com"
+        placeholder="admin@ayahguide.com"
         required
         className="bg-zinc-900 border-zinc-700 text-white"
       />
@@ -88,7 +88,7 @@ export default function LoginPage() {
       <div className="w-full max-w-md space-y-8">
         <div className="text-center">
           <h1 className="text-3xl font-bold text-white">
-            <span className="text-gold-gradient">The Guided Path</span>
+            <span className="text-gold-gradient">AyahGuide</span>
           </h1>
           <p className="mt-2 text-zinc-400">Sign in to the admin panel</p>
         </div>
@@ -99,7 +99,7 @@ export default function LoginPage() {
 
         <p className="text-center text-sm text-zinc-500">
           <Link href="/" className="hover:text-gold-500 transition-colors">
-            Back to The Guided Path
+            Back to AyahGuide
           </Link>
         </p>
       </div>
