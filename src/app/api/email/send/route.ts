@@ -3,16 +3,34 @@ import { verifyAuth } from '@/lib/auth'
 import { getResend, EMAIL_FROM } from '@/lib/email/resend'
 import { NextResponse } from 'next/server'
 import { SITE_URL, SITE_NAME } from '@/lib/constants'
+import sanitizeHtml from 'sanitize-html'
+
+const ALLOWED_HTML = {
+  allowedTags: [
+    'p', 'br', 'strong', 'em', 'b', 'i', 'u', 's',
+    'h1', 'h2', 'h3', 'h4', 'h5', 'h6',
+    'ul', 'ol', 'li', 'a', 'blockquote', 'pre', 'code',
+    'img', 'hr', 'span', 'div', 'table', 'thead', 'tbody', 'tr', 'th', 'td',
+  ],
+  allowedAttributes: {
+    a: ['href', 'title', 'target'],
+    img: ['src', 'alt', 'width', 'height'],
+    '*': ['style'],
+  },
+  allowedSchemes: ['https', 'http', 'mailto'],
+}
+
+function sanitizeContent(html: string): string {
+  return sanitizeHtml(html, ALLOWED_HTML)
+}
 
 export async function POST(request: Request) {
-  // Verify user is authenticated and is an admin (verifyAuth checks both)
   const user = await verifyAuth(request)
 
   if (!user) {
     return NextResponse.json({ error: 'Unauthorized' }, { status: 401 })
   }
 
-  // Use admin client for all data operations (bypasses RLS)
   const adminClient = createAdminClient()
 
   const { postId, testEmail } = await request.json()
@@ -28,7 +46,6 @@ export async function POST(request: Request) {
   }
 
   if (testEmail) {
-    // Send test email only to the specified address
     try {
       await getResend().emails.send({
         from: EMAIL_FROM,
@@ -38,11 +55,11 @@ export async function POST(request: Request) {
       })
       return NextResponse.json({ message: 'Test email sent!' })
     } catch (error: any) {
-      return NextResponse.json({ error: error.message }, { status: 500 })
+      console.error('Test email error:', error)
+      return NextResponse.json({ error: 'Failed to send test email' }, { status: 500 })
     }
   }
 
-  // Send to all active subscribers
   const { data: subscribers } = await adminClient
     .from('subscribers')
     .select('email, unsubscribe_token')
@@ -78,13 +95,16 @@ export async function POST(request: Request) {
 
     return NextResponse.json({ message: `Email sent to ${subscribers.length} subscribers` })
   } catch (error: any) {
-    return NextResponse.json({ error: error.message }, { status: 500 })
+    console.error('Newsletter send error:', error)
+    return NextResponse.json({ error: 'Failed to send newsletter' }, { status: 500 })
   }
 }
 
 function generateNewsletterHtml(post: any, subscriber: any): string {
   const unsubscribeUrl = `${SITE_URL}/api/subscribers/unsubscribe?token=${subscriber.unsubscribe_token}`
   const postUrl = `${SITE_URL}/tadabbur/${post.slug}`
+  const safeContent = sanitizeContent(post.content_html || '')
+  const safeExcerpt = post.excerpt ? sanitizeContent(post.excerpt) : ''
 
   return `
     <!DOCTYPE html>
@@ -97,9 +117,9 @@ function generateNewsletterHtml(post: any, subscriber: any): string {
           <p style="color:#71717a;font-size:14px;margin-top:8px;">Quranic Reflections</p>
         </div>
         <div style="background-color:#18181b;border-radius:12px;padding:32px;border:1px solid #27272a;">
-          <h2 style="color:#ffffff;font-size:28px;margin:0 0 16px 0;line-height:1.3;">${post.title}</h2>
-          ${post.excerpt ? `<p style="color:#a1a1aa;font-size:16px;line-height:1.6;margin-bottom:24px;">${post.excerpt}</p>` : ''}
-          <div style="color:#d4d4d8;font-size:16px;line-height:1.8;">${post.content_html}</div>
+          <h2 style="color:#ffffff;font-size:28px;margin:0 0 16px 0;line-height:1.3;">${sanitizeContent(post.title)}</h2>
+          ${safeExcerpt ? `<p style="color:#a1a1aa;font-size:16px;line-height:1.6;margin-bottom:24px;">${safeExcerpt}</p>` : ''}
+          <div style="color:#d4d4d8;font-size:16px;line-height:1.8;">${safeContent}</div>
         </div>
         <div style="text-align:center;margin-top:32px;">
           <a href="${postUrl}" style="display:inline-block;background-color:#D4AF37;color:#000;padding:12px 32px;border-radius:8px;text-decoration:none;font-weight:600;">Read on the Web</a>
