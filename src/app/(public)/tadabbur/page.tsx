@@ -28,8 +28,8 @@ export default async function TadabburArchive() {
   return (
     <div className="mx-auto max-w-6xl px-6 py-16">
       <div className="mb-12">
-        <h1 className="text-4xl font-bold text-zinc-900 dark:text-white">Quranic Reflections</h1>
-        <p className="mt-2 text-lg text-zinc-500">
+        <h1 className="font-serif text-4xl font-bold text-zinc-900 dark:text-white">Quranic Reflections</h1>
+        <p className="mt-3 font-body text-lg text-zinc-500">
           Deep tadabbur — contemplative reflections on the Quran
         </p>
       </div>
@@ -68,11 +68,11 @@ export default async function TadabburArchive() {
                   </>
                 )}
               </div>
-              <h2 className="text-xl font-semibold text-zinc-900 dark:text-white group-hover:text-gold-600 dark:group-hover:text-gold-400 transition-colors">
+              <h2 className="font-serif text-xl font-semibold text-zinc-900 dark:text-white group-hover:text-gold-600 dark:group-hover:text-gold-400 transition-colors">
                 {post.title}
               </h2>
               {post.excerpt && (
-                <p className="mt-2 text-zinc-600 dark:text-zinc-400 line-clamp-3">{post.excerpt}</p>
+                <p className="mt-2 font-body text-zinc-600 dark:text-zinc-400 line-clamp-3">{post.excerpt}</p>
               )}
               {post.tags && post.tags.length > 0 && (
                 <div className="mt-3 flex flex-wrap gap-2">
