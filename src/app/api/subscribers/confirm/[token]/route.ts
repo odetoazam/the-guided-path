@@ -27,6 +27,19 @@ export async function GET(request: Request, { params }: Params) {
     return NextResponse.redirect(`${SITE_URL}?subscription=invalid`)
   }
 
+  // Add to Resend contacts
+  try {
+    const nameParts = subscriber.name?.split(' ') || []
+    await getResend().contacts.create({
+      email: subscriber.email,
+      firstName: nameParts[0] || undefined,
+      lastName: nameParts.slice(1).join(' ') || undefined,
+      unsubscribed: false,
+    })
+  } catch (contactError) {
+    console.error('Resend contact sync error:', contactError)
+  }
+
   // Send welcome email
   try {
     const unsubscribeUrl = `${SITE_URL}/api/subscribers/unsubscribe?token=${subscriber.unsubscribe_token}`
