@@ -173,6 +173,11 @@
     font-style: italic;
   }
 
+  /* Inline code (not inside pre blocks) */
+  .prose-blog code:not(pre code) {
+    @apply bg-zinc-100 dark:bg-zinc-800 px-1.5 py-0.5 rounded text-[0.9em] font-mono;
+  }
+
   /* Arabic text within blog posts — must wrap properly */
   .prose-blog [dir="rtl"],
   .prose-blog .rtl {
@@ -185,13 +190,35 @@
     white-space: normal;
   }
 
-  /* Catch-all for any Arabic text that might overflow */
+  /* Catch-all for any text that might overflow */
   .prose-blog p,
   .prose-blog div,
   .prose-blog span {
     overflow-wrap: break-word;
     word-wrap: break-word;
     max-width: 100%;
+  }
+
+  /* Pre/code blocks with Arabic text — must wrap */
+  .prose-blog pre {
+    @apply bg-zinc-100 dark:bg-zinc-800/50 rounded-xl p-6 sm:p-8 my-8 border border-zinc-200 dark:border-zinc-800;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    overflow-wrap: anywhere;
+    overflow-x: hidden;
+    direction: rtl;
+    text-align: right;
+    font-family: 'Amiri', 'Vazirmatn', serif;
+    @apply text-xl sm:text-2xl leading-[2.2];
+  }
+
+  .prose-blog pre code {
+    @apply bg-transparent p-0 text-xl sm:text-2xl;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    overflow-wrap: anywhere;
+    font-family: 'Amiri', 'Vazirmatn', serif;
+    color: inherit;
   }
 
   /* Gold gradient text */
