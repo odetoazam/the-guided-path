@@ -5,6 +5,7 @@ import { NextResponse } from 'next/server'
 import { SITE_URL, SITE_NAME } from '@/lib/constants'
 
 export async function POST(request: Request) {
+  // Verify user is authenticated
   const supabase = await createClient()
   const { data: { user } } = await supabase.auth.getUser()
 
@@ -12,9 +13,23 @@ export async function POST(request: Request) {
     return NextResponse.json({ error: 'Unauthorized' }, { status: 401 })
   }
 
+  // Use admin client for all data operations (bypasses RLS)
+  const adminClient = createAdminClient()
+
+  // Verify user is an admin
+  const { data: profile } = await adminClient
+    .from('profiles')
+    .select('role')
+    .eq('id', user.id)
+    .single()
+
+  if (!profile || profile.role !== 'admin') {
+    return NextResponse.json({ error: 'Forbidden' }, { status: 403 })
+  }
+
   const { postId, testEmail } = await request.json()
 
-  const { data: post } = await supabase
+  const { data: post } = await adminClient
     .from('posts')
     .select('*')
     .eq('id', postId)
@@ -40,7 +55,6 @@ export async function POST(request: Request) {
   }
 
   // Send to all active subscribers
-  const adminClient = createAdminClient()
   const { data: subscribers } = await adminClient
     .from('subscribers')
     .select('email, unsubscribe_token')
@@ -69,7 +83,7 @@ export async function POST(request: Request) {
       sent_at: new Date().toISOString(),
     })
 
-    await supabase.from('posts').update({
+    await adminClient.from('posts').update({
       email_sent: true,
       email_sent_at: new Date().toISOString(),
     }).eq('id', postId)
