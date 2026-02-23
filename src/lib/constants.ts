@@ -1,6 +1,7 @@
 export const SITE_NAME = 'AyahGuide'
 export const SITE_DESCRIPTION = 'Deep Quranic reflections (tadabbur) delivered to your inbox'
 export const SITE_URL = process.env.NEXT_PUBLIC_APP_URL || 'http://localhost:3000'
+export const CANONICAL_URL = 'https://www.ayahguide.com'
 
 export const POSTS_PER_PAGE = 12
 export const AUTO_SAVE_INTERVAL = 30000 // 30 seconds

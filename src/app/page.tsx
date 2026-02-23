@@ -4,6 +4,17 @@ import { ThemeToggle } from '@/components/ui/theme-toggle'
 import { ScrollReveal } from '@/components/ui/scroll-reveal'
 import { ArrowRight, BookOpen, Mail } from 'lucide-react'
 import { NewsletterSignup } from '@/components/blog/newsletter-signup'
+import { CANONICAL_URL, SITE_NAME, SITE_DESCRIPTION } from '@/lib/constants'
+import type { Metadata } from 'next'
+
+export const metadata: Metadata = {
+  alternates: {
+    canonical: CANONICAL_URL,
+  },
+  openGraph: {
+    url: CANONICAL_URL,
+  },
+}
 
 async function getFeaturedPosts() {
   try {
@@ -23,7 +34,41 @@ async function getFeaturedPosts() {
 export default async function LandingPage() {
   const featuredPosts = await getFeaturedPosts()
 
+  const websiteJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    name: SITE_NAME,
+    url: CANONICAL_URL,
+    description: SITE_DESCRIPTION,
+    potentialAction: {
+      '@type': 'SearchAction',
+      target: {
+        '@type': 'EntryPoint',
+        urlTemplate: `${CANONICAL_URL}/tadabbur?q={search_term_string}`,
+      },
+      'query-input': 'required name=search_term_string',
+    },
+  }
+
+  const organizationJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'Organization',
+    name: SITE_NAME,
+    url: CANONICAL_URL,
+    description: SITE_DESCRIPTION,
+    sameAs: [],
+  }
+
   return (
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteJsonLd) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationJsonLd) }}
+      />
     <div className="min-h-screen bg-white dark:bg-zinc-950">
       {/* Navbar */}
       <nav className="fixed top-0 z-50 w-full border-b border-zinc-200/10 bg-white/60 dark:bg-zinc-950/60 backdrop-blur-2xl">
@@ -234,5 +279,6 @@ export default async function LandingPage() {
         </div>
       </footer>
     </div>
+    </>
   )
 }

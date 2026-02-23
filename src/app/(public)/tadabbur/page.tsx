@@ -2,10 +2,28 @@ import Link from 'next/link'
 import { createClient } from '@/lib/supabase/server'
 import { ArrowRight, BookOpen } from 'lucide-react'
 import type { Metadata } from 'next'
+import { CANONICAL_URL, SITE_NAME } from '@/lib/constants'
+
+const archiveUrl = `${CANONICAL_URL}/tadabbur`
 
 export const metadata: Metadata = {
   title: 'Quranic Reflections (Tadabbur)',
-  description: 'Browse all Quranic reflections and tadabbur from AyahGuide.',
+  description: 'Deep contemplative reflections (tadabbur) on the Quran. Explore the linguistic beauty, layered meanings, and timeless wisdom of each ayah.',
+  alternates: {
+    canonical: archiveUrl,
+  },
+  openGraph: {
+    title: `Quranic Reflections (Tadabbur) | ${SITE_NAME}`,
+    description: 'Deep contemplative reflections (tadabbur) on the Quran. Explore the linguistic beauty, layered meanings, and timeless wisdom of each ayah.',
+    type: 'website',
+    url: archiveUrl,
+    siteName: SITE_NAME,
+  },
+  twitter: {
+    card: 'summary',
+    title: `Quranic Reflections (Tadabbur) | ${SITE_NAME}`,
+    description: 'Deep contemplative reflections (tadabbur) on the Quran. Explore the linguistic beauty, layered meanings, and timeless wisdom of each ayah.',
+  },
 }
 
 async function getPosts() {

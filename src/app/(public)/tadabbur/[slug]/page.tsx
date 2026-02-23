@@ -5,7 +5,7 @@ import { NewsletterSignup } from '@/components/blog/newsletter-signup'
 import { Clock, Calendar, ArrowLeft } from 'lucide-react'
 import Link from 'next/link'
 import type { Metadata } from 'next'
-import { SITE_URL, SITE_NAME } from '@/lib/constants'
+import { CANONICAL_URL, SITE_NAME } from '@/lib/constants'
 
 interface Props {
   params: Promise<{ slug: string }>
@@ -31,22 +31,35 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const post = await getPost(slug)
   if (!post) return { title: 'Not Found' }
 
+  const postUrl = `${CANONICAL_URL}/tadabbur/${slug}`
+  const title = post.seo_title || post.title
+  const description = post.seo_description || post.excerpt || `A deep Quranic reflection (tadabbur) on ${post.title} by AyahGuide.`
+
   return {
-    title: post.seo_title || post.title,
-    description: post.seo_description || post.excerpt || '',
+    title,
+    description,
     keywords: post.tags?.join(', '),
+    alternates: {
+      canonical: postUrl,
+    },
     openGraph: {
-      title: post.seo_title || post.title,
-      description: post.seo_description || post.excerpt || '',
+      title,
+      description,
       type: 'article',
+      url: postUrl,
+      siteName: SITE_NAME,
       publishedTime: post.published_at || undefined,
+      modifiedTime: post.updated_at || undefined,
       authors: [SITE_NAME],
-      images: post.featured_image ? [{ url: post.featured_image }] : [],
+      images: post.featured_image
+        ? [{ url: post.featured_image, alt: title }]
+        : [],
     },
     twitter: {
       card: 'summary_large_image',
-      title: post.seo_title || post.title,
-      description: post.seo_description || post.excerpt || '',
+      title,
+      description,
+      images: post.featured_image ? [post.featured_image] : [],
     },
   }
 }
@@ -56,30 +69,73 @@ export default async function PostPage({ params }: Props) {
   const post = await getPost(slug)
   if (!post) notFound()
 
-  // JSON-LD structured data
+  const postUrl = `${CANONICAL_URL}/tadabbur/${slug}`
+  const description = post.seo_description || post.excerpt || `A deep Quranic reflection (tadabbur) on ${post.title} by AyahGuide.`
+
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'BlogPosting',
     headline: post.title,
-    description: post.excerpt,
-    image: post.featured_image,
+    description,
+    image: post.featured_image || undefined,
+    url: postUrl,
     datePublished: post.published_at,
     dateModified: post.updated_at,
     author: {
       '@type': 'Organization',
       name: SITE_NAME,
+      url: CANONICAL_URL,
     },
     publisher: {
       '@type': 'Organization',
       name: SITE_NAME,
+      url: CANONICAL_URL,
     },
+    mainEntityOfPage: {
+      '@type': 'WebPage',
+      '@id': postUrl,
+    },
+    keywords: post.tags?.join(', '),
+    inLanguage: 'en-US',
   }
+
+  const breadcrumbJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      {
+        '@type': 'ListItem',
+        position: 1,
+        name: 'Home',
+        item: CANONICAL_URL,
+      },
+      {
+        '@type': 'ListItem',
+        position: 2,
+        name: 'Reflections',
+        item: `${CANONICAL_URL}/tadabbur`,
+      },
+      {
+        '@type': 'ListItem',
+        position: 3,
+        name: post.title,
+        item: postUrl,
+      },
+    ],
+  }
+
+  // Strip leading H1 from content_html to avoid duplicate H1
+  const contentHtml = post.content_html?.replace(/^<h1[^>]*>.*?<\/h1>\s*/i, '') || ''
 
   return (
     <>
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
       />
 
       <article className="mx-auto max-w-2xl px-5 py-12 sm:px-6 sm:py-16">
@@ -121,7 +177,7 @@ export default async function PostPage({ params }: Props) {
             {post.published_at && (
               <div className="flex items-center gap-1.5">
                 <Calendar className="h-3.5 w-3.5" />
-                <time>{formatDate(post.published_at)}</time>
+                <time dateTime={post.published_at}>{formatDate(post.published_at)}</time>
               </div>
             )}
             {post.reading_time_minutes && (
@@ -154,7 +210,7 @@ export default async function PostPage({ params }: Props) {
         {/* Content */}
         <div
           className="prose-blog"
-          dangerouslySetInnerHTML={{ __html: post.content_html }}
+          dangerouslySetInnerHTML={{ __html: contentHtml }}
         />
 
         {/* Bottom divider */}
@@ -168,7 +224,7 @@ export default async function PostPage({ params }: Props) {
         <div className="mt-8 flex items-center justify-center gap-6 text-sm">
           <span className="text-zinc-500">Share:</span>
           <a
-            href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(post.title)}&url=${encodeURIComponent(`${SITE_URL}/tadabbur/${post.slug}`)}`}
+            href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(post.title)}&url=${encodeURIComponent(postUrl)}`}
             target="_blank"
             rel="noopener noreferrer"
             className="text-zinc-400 hover:text-gold-500 transition-colors font-medium"
@@ -176,7 +232,7 @@ export default async function PostPage({ params }: Props) {
             Twitter/X
           </a>
           <a
-            href={`https://wa.me/?text=${encodeURIComponent(`${post.title} — ${SITE_URL}/tadabbur/${post.slug}`)}`}
+            href={`https://wa.me/?text=${encodeURIComponent(`${post.title} — ${postUrl}`)}`}
             target="_blank"
             rel="noopener noreferrer"
             className="text-zinc-400 hover:text-gold-500 transition-colors font-medium"
@@ -184,7 +240,7 @@ export default async function PostPage({ params }: Props) {
             WhatsApp
           </a>
           <a
-            href={`mailto:?subject=${encodeURIComponent(post.title)}&body=${encodeURIComponent(`Check out this reflection: ${SITE_URL}/tadabbur/${post.slug}`)}`}
+            href={`mailto:?subject=${encodeURIComponent(post.title)}&body=${encodeURIComponent(`Check out this reflection: ${postUrl}`)}`}
             className="text-zinc-400 hover:text-gold-500 transition-colors font-medium"
           >
             Email
@@ -194,9 +250,9 @@ export default async function PostPage({ params }: Props) {
         {/* Newsletter CTA */}
         <div className="mt-14 sm:mt-20 rounded-2xl border border-zinc-200 dark:border-zinc-800 bg-zinc-50 dark:bg-zinc-900/30 p-8 sm:p-10 text-center">
           <p className="text-gold-500/60 text-sm mb-3">۞</p>
-          <h3 className="font-serif text-2xl font-bold text-zinc-900 dark:text-white">
+          <h2 className="font-serif text-2xl font-bold text-zinc-900 dark:text-white">
             Enjoyed this reflection?
-          </h3>
+          </h2>
           <p className="mt-2 text-zinc-500 font-body">
             Get tadabbur delivered to your inbox.
           </p>
