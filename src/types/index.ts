@@ -14,6 +14,7 @@ export interface Post {
   tags: string[]
   reading_time_minutes: number
   featured: boolean
+  surah_number: number | null
   quran_refs: QuranRef[] | null
   email_sent: boolean
   email_sent_at: string | null

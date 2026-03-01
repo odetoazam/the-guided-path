@@ -169,6 +169,9 @@ export default function PostsPage() {
                   </Link>
                   {statusBadge(post.status)}
                   {post.featured && <Badge variant="gold">Featured</Badge>}
+                  {post.surah_number && (
+                    <Badge variant="default">Surah {post.surah_number}</Badge>
+                  )}
                 </div>
                 <div className="mt-1 flex items-center gap-3 text-sm text-zinc-500">
                   <span>{formatDate(post.created_at)}</span>
@@ -188,7 +191,7 @@ export default function PostsPage() {
                   </Button>
                 </Link>
                 {post.status === 'published' && (
-                  <Link href={`/tadabbur/${post.slug}`} target="_blank">
+                  <Link href={post.surah_number ? `/surahs/${post.surah_number}` : `/tadabbur/${post.slug}`} target="_blank">
                     <Button variant="ghost" size="sm" title="View">
                       <Eye className="h-4 w-4" />
                     </Button>

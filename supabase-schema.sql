@@ -51,6 +51,7 @@ CREATE TABLE IF NOT EXISTS posts (
   tags TEXT[] DEFAULT '{}',
   reading_time_minutes INT DEFAULT 1,
   featured BOOLEAN DEFAULT FALSE,
+  surah_number INTEGER,
   quran_refs JSONB,
   email_sent BOOLEAN DEFAULT FALSE,
   email_sent_at TIMESTAMPTZ,
@@ -64,6 +65,14 @@ CREATE INDEX IF NOT EXISTS idx_posts_slug ON posts(slug);
 CREATE INDEX IF NOT EXISTS idx_posts_status ON posts(status);
 CREATE INDEX IF NOT EXISTS idx_posts_published_at ON posts(published_at DESC);
 CREATE INDEX IF NOT EXISTS idx_posts_featured ON posts(featured) WHERE featured = TRUE;
+
+-- Surah page constraints and indexes
+ALTER TABLE posts ADD CONSTRAINT chk_surah_number
+  CHECK (surah_number IS NULL OR (surah_number >= 1 AND surah_number <= 114));
+CREATE UNIQUE INDEX idx_posts_surah_number
+  ON posts (surah_number) WHERE surah_number IS NOT NULL;
+CREATE INDEX idx_posts_surah_published
+  ON posts (surah_number) WHERE surah_number IS NOT NULL AND status = 'published';
 
 -- 3. Subscribers
 CREATE TABLE IF NOT EXISTS subscribers (

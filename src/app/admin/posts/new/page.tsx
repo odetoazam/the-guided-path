@@ -13,6 +13,7 @@ import Link from 'next/link'
 import toast from 'react-hot-toast'
 
 import { ArrowLeft, Save, Send, Clock } from 'lucide-react'
+import { SURAHS } from '@/lib/surahs'
 export default function NewPostPage() {
   const router = useRouter()
   const [saving, setSaving] = useState(false)
@@ -32,6 +33,7 @@ export default function NewPostPage() {
     seo_description: '',
     scheduled_date: '',
     featured: false,
+    surah_number: null as number | null,
   })
 
   const updateField = (field: string, value: any) => {
@@ -90,6 +92,7 @@ export default function NewPostPage() {
       seo_description: form.seo_description || null,
       reading_time_minutes: calculateReadingTime(form.content_html || ''),
       featured: form.featured,
+      surah_number: form.surah_number,
       status: 'draft' as const,
       created_by: user.id,
     }
@@ -146,6 +149,7 @@ export default function NewPostPage() {
       seo_description: form.seo_description || null,
       reading_time_minutes: calculateReadingTime(form.content_html || ''),
       featured: form.featured,
+      surah_number: form.surah_number,
       status: 'published' as const,
       published_at: new Date().toISOString(),
       publish_date: new Date().toISOString(),
@@ -297,6 +301,23 @@ export default function NewPostPage() {
             />
             Featured post
           </label>
+
+          <div className="space-y-1">
+            <label className="block text-sm font-medium text-zinc-300">Surah Page</label>
+            <select
+              value={form.surah_number ?? ''}
+              onChange={(e) => updateField('surah_number', e.target.value ? Number(e.target.value) : null)}
+              className="w-full rounded-lg border border-zinc-700 bg-zinc-900 px-3 py-2 text-sm text-zinc-300 focus:border-[#D4AF37] focus:outline-none"
+            >
+              <option value="">Not a surah page</option>
+              {SURAHS.map((s) => (
+                <option key={s.n} value={s.n}>
+                  {s.n} — {s.nameEn} ({s.nameAr})
+                </option>
+              ))}
+            </select>
+            <p className="text-xs text-zinc-500">Link this post to a surah for the Surah Map</p>
+          </div>
         </div>
 
         <div className="space-y-4">
