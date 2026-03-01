@@ -128,6 +128,21 @@ export const SURAHS: SurahMeta[] = [
 
 export const MAX_AYAHS = 286; // Al-Baqara
 
+/** URL-friendly slug from English name: "Al-Fatiha" → "al-fatiha" */
+export function surahSlug(nameEn: string): string {
+  return nameEn.toLowerCase().replace(/['']/g, "").replace(/\s+/g, "-");
+}
+
+/** Lookup maps for slug ↔ number conversion */
+const SLUG_TO_NUM = new Map<string, number>(
+  SURAHS.map((s) => [surahSlug(s.nameEn), s.n])
+);
+
+export function surahBySlug(slug: string): SurahMeta | undefined {
+  const n = SLUG_TO_NUM.get(slug);
+  return n ? SURAHS[n - 1] : undefined;
+}
+
 /** Deterministic thematic color identity per surah */
 export function surahIdentity(n: number) {
   // Thematic bands mapping Quranic structure to color regions

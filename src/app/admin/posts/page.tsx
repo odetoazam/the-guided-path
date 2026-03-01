@@ -19,6 +19,7 @@ import {
 import { formatDate } from '@/lib/utils'
 import type { Post } from '@/types'
 import toast from 'react-hot-toast'
+import { SURAHS, surahSlug } from '@/lib/surahs'
 
 export default function PostsPage() {
   const [posts, setPosts] = useState<Post[]>([])
@@ -191,7 +192,7 @@ export default function PostsPage() {
                   </Button>
                 </Link>
                 {post.status === 'published' && (
-                  <Link href={post.surah_number ? `/surahs/${post.surah_number}` : `/tadabbur/${post.slug}`} target="_blank">
+                  <Link href={post.surah_number ? `/surah/${surahSlug(SURAHS[post.surah_number - 1].nameEn)}` : `/posts/${post.slug}`} target="_blank">
                     <Button variant="ghost" size="sm" title="View">
                       <Eye className="h-4 w-4" />
                     </Button>

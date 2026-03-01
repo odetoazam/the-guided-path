@@ -89,7 +89,7 @@ export async function GET(request: Request) {
               <div style="color:#d4d4d8;line-height:1.8;">${safeContent}</div>
             </div>
             <p style="text-align:center;margin-top:32px;">
-              <a href="${SITE_URL}/tadabbur/${post.slug}" style="background-color:#D4AF37;color:#000;padding:12px 32px;border-radius:8px;text-decoration:none;font-weight:600;">Read on the Web</a>
+              <a href="${SITE_URL}/posts/${post.slug}" style="background-color:#D4AF37;color:#000;padding:12px 32px;border-radius:8px;text-decoration:none;font-weight:600;">Read on the Web</a>
             </p>
             <p style="text-align:center;color:#52525b;font-size:12px;margin-top:32px;">
               <a href="${SITE_URL}/api/subscribers/unsubscribe?token=${sub.unsubscribe_token}" style="color:#71717a;text-decoration:underline;">Unsubscribe</a>

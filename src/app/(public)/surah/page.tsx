@@ -3,7 +3,7 @@ import { SurahMap } from '@/components/surah/SurahMap'
 import type { Metadata } from 'next'
 import { CANONICAL_URL, SITE_NAME } from '@/lib/constants'
 
-const pageUrl = `${CANONICAL_URL}/surahs`
+const pageUrl = `${CANONICAL_URL}/surah`
 
 export const metadata: Metadata = {
   title: 'Surah Map — All 114 Surahs of the Quran',

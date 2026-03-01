@@ -13,7 +13,7 @@ import Link from 'next/link'
 import toast from 'react-hot-toast'
 
 import { ArrowLeft, Save, Send, Clock } from 'lucide-react'
-import { SURAHS } from '@/lib/surahs'
+import { SURAHS, surahSlug } from '@/lib/surahs'
 export default function NewPostPage() {
   const router = useRouter()
   const [saving, setSaving] = useState(false)
@@ -250,13 +250,19 @@ export default function NewPostPage() {
 
       {/* Slug */}
       <div className="flex items-center gap-2 text-sm text-zinc-400">
-        <span>/tadabbur/</span>
-        <input
-          value={form.slug}
-          onChange={(e) => updateField('slug', e.target.value)}
-          className="bg-transparent border-b border-zinc-700 px-1 py-0.5 text-zinc-300 focus:outline-none focus:border-gold-500"
-          placeholder="post-slug"
-        />
+        {form.surah_number ? (
+          <span className="text-zinc-500">/surah/{surahSlug(SURAHS[form.surah_number - 1].nameEn)}</span>
+        ) : (
+          <>
+            <span>/posts/</span>
+            <input
+              value={form.slug}
+              onChange={(e) => updateField('slug', e.target.value)}
+              className="bg-transparent border-b border-zinc-700 px-1 py-0.5 text-zinc-300 focus:outline-none focus:border-gold-500"
+              placeholder="post-slug"
+            />
+          </>
+        )}
       </div>
 
       {/* Editor */}

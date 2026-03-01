@@ -14,7 +14,7 @@ import { Save, Send, ArrowLeft, Trash2, Eye, Mail, MailCheck, CheckCircle, XCirc
 import Link from 'next/link'
 import toast from 'react-hot-toast'
 import type { Post } from '@/types'
-import { SURAHS } from '@/lib/surahs'
+import { SURAHS, surahSlug } from '@/lib/surahs'
 
 export default function EditPostPage() {
   const { id } = useParams<{ id: string }>()
@@ -230,7 +230,7 @@ export default function EditPostPage() {
             <Trash2 className="h-4 w-4" />
           </Button>
           {form.status === 'published' && (
-            <Link href={form.surah_number ? `/surahs/${form.surah_number}` : `/tadabbur/${form.slug}`} target="_blank">
+            <Link href={form.surah_number ? `/surah/${surahSlug(SURAHS[form.surah_number - 1].nameEn)}` : `/posts/${form.slug}`} target="_blank">
               <Button variant="outline" size="sm">
                 <Eye className="mr-2 h-4 w-4" /> View
               </Button>
@@ -301,12 +301,18 @@ export default function EditPostPage() {
       />
 
       <div className="flex items-center gap-2 text-sm text-zinc-400">
-        <span>/tadabbur/</span>
-        <input
-          value={form.slug}
-          onChange={(e) => updateField('slug', e.target.value)}
-          className="bg-transparent border-b border-zinc-700 px-1 py-0.5 text-zinc-300 focus:outline-none focus:border-gold-500"
-        />
+        {form.surah_number ? (
+          <span className="text-zinc-500">/surah/{surahSlug(SURAHS[form.surah_number - 1].nameEn)}</span>
+        ) : (
+          <>
+            <span>/posts/</span>
+            <input
+              value={form.slug}
+              onChange={(e) => updateField('slug', e.target.value)}
+              className="bg-transparent border-b border-zinc-700 px-1 py-0.5 text-zinc-300 focus:outline-none focus:border-gold-500"
+            />
+          </>
+        )}
       </div>
 
       <TiptapEditor content={form.content_json} onChange={handleEditorChange} />

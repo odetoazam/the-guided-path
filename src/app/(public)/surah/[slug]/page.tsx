@@ -1,7 +1,7 @@
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
 import { createClient } from '@/lib/supabase/server'
-import { SURAHS, surahIdentity, arabicSize } from '@/lib/surahs'
+import { SURAHS, surahIdentity, arabicSize, surahSlug, surahBySlug } from '@/lib/surahs'
 import { getSurahVFX } from '@/lib/surah-vfx'
 import { SurahCanvas } from '@/components/surah/SurahCanvas'
 import { NewsletterSignup } from '@/components/blog/newsletter-signup'
@@ -13,7 +13,7 @@ import { formatDate } from '@/lib/utils'
 const BISMILLAH = 'بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ'
 
 interface Props {
-  params: Promise<{ n: string }>
+  params: Promise<{ slug: string }>
 }
 
 async function getSurahPost(surahNumber: number) {
@@ -32,13 +32,13 @@ async function getSurahPost(surahNumber: number) {
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
-  const { n: nStr } = await params
-  const n = Number(nStr)
-  if (!Number.isFinite(n) || n < 1 || n > 114) return { title: 'Not Found' }
+  const { slug } = await params
+  const surah = surahBySlug(slug)
+  if (!surah) return { title: 'Not Found' }
 
-  const surah = SURAHS[n - 1]
+  const n = surah.n
   const post = await getSurahPost(n)
-  const pageUrl = `${CANONICAL_URL}/surahs/${n}`
+  const pageUrl = `${CANONICAL_URL}/surah/${slug}`
 
   const title = post?.seo_title || `Surah ${surah.nameEn} (${surah.nameAr}) — Reflections & Analysis`
   const description = post?.seo_description || post?.excerpt ||
@@ -67,11 +67,11 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 }
 
 export default async function SurahDetailPage({ params }: Props) {
-  const { n: nStr } = await params
-  const n = Number(nStr)
-  if (!Number.isFinite(n) || n < 1 || n > 114) return notFound()
+  const { slug } = await params
+  const surah = surahBySlug(slug)
+  if (!surah) return notFound()
 
-  const surah = SURAHS[n - 1]
+  const n = surah.n
   const prev = n > 1 ? SURAHS[n - 2] : null
   const next = n < 114 ? SURAHS[n] : null
   const id = surahIdentity(n)
@@ -80,14 +80,14 @@ export default async function SurahDetailPage({ params }: Props) {
 
   const glowColor = `hsla(${id.hue},${id.sat}%,${id.lightness}%,`
   const accentColor = `hsl(${id.hue},${id.sat}%,${id.lightness + 18}%)`
-  const pageUrl = `${CANONICAL_URL}/surahs/${n}`
+  const pageUrl = `${CANONICAL_URL}/surah/${slug}`
 
   const breadcrumbJsonLd = {
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
     itemListElement: [
       { '@type': 'ListItem', position: 1, name: 'Home', item: CANONICAL_URL },
-      { '@type': 'ListItem', position: 2, name: 'Surahs', item: `${CANONICAL_URL}/surahs` },
+      { '@type': 'ListItem', position: 2, name: 'Surahs', item: `${CANONICAL_URL}/surah` },
       { '@type': 'ListItem', position: 3, name: `Surah ${surah.nameEn}`, item: pageUrl },
     ],
   }
@@ -121,7 +121,7 @@ export default async function SurahDetailPage({ params }: Props) {
         <div className="relative z-10 mx-auto max-w-3xl px-5 py-16 text-center">
           {/* Back link */}
           <Link
-            href="/surahs"
+            href="/surah"
             className="inline-flex items-center gap-1.5 text-xs text-white/35 transition hover:text-white/60"
           >
             <ArrowLeft className="h-3 w-3" />
@@ -337,7 +337,7 @@ export default async function SurahDetailPage({ params }: Props) {
           <div>
             {prev ? (
               <Link
-                href={`/surahs/${prev.n}`}
+                href={`/surah/${surahSlug(prev.nameEn)}`}
                 className="group flex flex-col gap-1 rounded-xl border border-white/[0.06] bg-white/[0.02]
                            p-4 transition hover:border-white/10 hover:bg-white/[0.04]"
               >
@@ -366,7 +366,7 @@ export default async function SurahDetailPage({ params }: Props) {
           <div className="flex justify-end">
             {next ? (
               <Link
-                href={`/surahs/${next.n}`}
+                href={`/surah/${surahSlug(next.nameEn)}`}
                 className="group flex flex-col items-end gap-1 rounded-xl border border-white/[0.06] bg-white/[0.02]
                            p-4 transition hover:border-white/10 hover:bg-white/[0.04] w-full text-right"
               >
