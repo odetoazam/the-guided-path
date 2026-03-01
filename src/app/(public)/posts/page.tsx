@@ -4,7 +4,7 @@ import { ArrowRight, BookOpen } from 'lucide-react'
 import type { Metadata } from 'next'
 import { CANONICAL_URL, SITE_NAME } from '@/lib/constants'
 
-const archiveUrl = `${CANONICAL_URL}/tadabbur`
+const archiveUrl = `${CANONICAL_URL}/posts`
 
 export const metadata: Metadata = {
   title: 'Quranic Reflections (Tadabbur)',
@@ -63,7 +63,7 @@ export default async function TadabburArchive() {
           {posts.map((post: any) => (
             <Link
               key={post.id}
-              href={`/tadabbur/${post.slug}`}
+              href={`/posts/${post.slug}`}
               className="group rounded-2xl border border-zinc-200 dark:border-zinc-800 bg-white dark:bg-zinc-900/50 p-6 transition-all hover:border-gold-500/50 hover:shadow-lg hover:shadow-gold-500/5"
             >
               {post.featured_image && (

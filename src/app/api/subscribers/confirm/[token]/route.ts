@@ -70,7 +70,7 @@ export async function GET(request: Request, { params }: Params) {
                 You'll receive thoughtful Quranic reflections (tadabbur) straight to your inbox — exploring the deeper meanings, lessons, and beauty of the Quran's verses.
               </p>
               <div style="text-align:center;margin:32px 0;">
-                <a href="${SITE_URL}/tadabbur" style="display:inline-block;background-color:#D4AF37;color:#000;padding:14px 40px;border-radius:8px;text-decoration:none;font-weight:600;font-size:16px;">
+                <a href="${SITE_URL}/posts" style="display:inline-block;background-color:#D4AF37;color:#000;padding:14px 40px;border-radius:8px;text-decoration:none;font-weight:600;font-size:16px;">
                   Read Latest Reflections
                 </a>
               </div>

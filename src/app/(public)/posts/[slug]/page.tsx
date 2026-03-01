@@ -31,7 +31,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const post = await getPost(slug)
   if (!post) return { title: 'Not Found' }
 
-  const postUrl = `${CANONICAL_URL}/tadabbur/${slug}`
+  const postUrl = `${CANONICAL_URL}/posts/${slug}`
   const title = post.seo_title || post.title
   const description = post.seo_description || post.excerpt || `A deep Quranic reflection (tadabbur) on ${post.title} by AyahGuide.`
 
@@ -69,7 +69,7 @@ export default async function PostPage({ params }: Props) {
   const post = await getPost(slug)
   if (!post) notFound()
 
-  const postUrl = `${CANONICAL_URL}/tadabbur/${slug}`
+  const postUrl = `${CANONICAL_URL}/posts/${slug}`
   const description = post.seo_description || post.excerpt || `A deep Quranic reflection (tadabbur) on ${post.title} by AyahGuide.`
 
   const jsonLd = {
@@ -112,8 +112,8 @@ export default async function PostPage({ params }: Props) {
       {
         '@type': 'ListItem',
         position: 2,
-        name: 'Reflections',
-        item: `${CANONICAL_URL}/tadabbur`,
+        name: 'Posts',
+        item: `${CANONICAL_URL}/posts`,
       },
       {
         '@type': 'ListItem',
@@ -141,11 +141,11 @@ export default async function PostPage({ params }: Props) {
       <article className="mx-auto max-w-2xl px-5 py-12 sm:px-6 sm:py-16">
         {/* Back link */}
         <Link
-          href="/tadabbur"
+          href="/posts"
           className="mb-10 inline-flex items-center gap-2 text-sm text-zinc-400 hover:text-gold-500 transition-colors"
         >
           <ArrowLeft className="h-3.5 w-3.5" />
-          All Reflections
+          All Posts
         </Link>
 
         {/* Header */}

@@ -27,7 +27,7 @@ export default async function LandingPage() {
       '@type': 'SearchAction',
       target: {
         '@type': 'EntryPoint',
-        urlTemplate: `${CANONICAL_URL}/tadabbur?q={search_term_string}`,
+        urlTemplate: `${CANONICAL_URL}/posts?q={search_term_string}`,
       },
       'query-input': 'required name=search_term_string',
     },
@@ -59,7 +59,7 @@ export default async function LandingPage() {
           <Logo />
           <div className="flex items-center gap-4 sm:gap-6">
             <Link
-              href="/surahs"
+              href="/surah"
               className="text-sm text-zinc-500 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-white transition-colors"
             >
               Surahs
@@ -101,9 +101,9 @@ export default async function LandingPage() {
           </div>
 
           <h1 className="text-4xl font-bold leading-tight tracking-tight sm:text-5xl lg:text-6xl">
-            <span className="text-zinc-900 dark:text-white">Uncover what lies</span>
+            <span className="text-zinc-900 dark:text-white">Appreciate Quranic depths</span>
             <br />
-            <span className="text-gold-gradient">beneath each ayah</span>
+            <span className="text-gold-gradient">like never before</span>
           </h1>
 
           <p className="mx-auto mt-6 max-w-2xl text-lg text-zinc-500 dark:text-zinc-400 leading-relaxed">
@@ -120,7 +120,7 @@ export default async function LandingPage() {
               Begin the Journey
             </Link>
             <Link
-              href="/surahs"
+              href="/surah"
               className="inline-flex items-center gap-2 rounded-full border border-zinc-300 dark:border-zinc-700 px-8 py-3.5 text-base font-medium text-zinc-700 dark:text-zinc-300 hover:bg-zinc-100 dark:hover:bg-zinc-900 transition-colors"
             >
               <BookOpen className="h-5 w-5" />
@@ -189,7 +189,7 @@ export default async function LandingPage() {
           <Logo />
 
           <div className="flex items-center gap-6 text-sm text-zinc-400">
-            <Link href="/surahs" className="hover:text-zinc-900 dark:hover:text-white transition-colors">
+            <Link href="/surah" className="hover:text-zinc-900 dark:hover:text-white transition-colors">
               Surahs
             </Link>
             <Link href="#subscribe" className="hover:text-zinc-900 dark:hover:text-white transition-colors">

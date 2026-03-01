@@ -102,7 +102,7 @@ export async function POST(request: Request) {
 
 function generateNewsletterHtml(post: any, subscriber: any): string {
   const unsubscribeUrl = `${SITE_URL}/api/subscribers/unsubscribe?token=${subscriber.unsubscribe_token}`
-  const postUrl = `${SITE_URL}/tadabbur/${post.slug}`
+  const postUrl = `${SITE_URL}/posts/${post.slug}`
   const safeContent = sanitizeContent(post.content_html || '')
   const safeExcerpt = post.excerpt ? sanitizeContent(post.excerpt) : ''
 

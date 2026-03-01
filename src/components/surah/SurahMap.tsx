@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { useState, useMemo } from "react";
-import { SURAHS, surahIdentity, type SurahMeta } from "@/lib/surahs";
+import { SURAHS, surahIdentity, surahSlug, type SurahMeta } from "@/lib/surahs";
 
 // ── Size tiers based on ayah count ───────────────────────────────────────────
 
@@ -194,7 +194,7 @@ function SurahRow({ surah, published }: { surah: SurahMeta; published: boolean }
   if (published) {
     return (
       <Link
-        href={`/surahs/${surah.n}`}
+        href={`/surah/${surahSlug(surah.nameEn)}`}
         className={`group ${baseClasses} hover:border-zinc-700/60`}
         style={{ minHeight: `${cfg.minH}px` }}
       >
