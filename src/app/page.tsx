@@ -1,9 +1,9 @@
 import Link from 'next/link'
-import { createClient } from '@/lib/supabase/server'
 import { ThemeToggle } from '@/components/ui/theme-toggle'
 import { ScrollReveal } from '@/components/ui/scroll-reveal'
-import { ArrowRight, BookOpen, Mail } from 'lucide-react'
+import { BookOpen, Mail } from 'lucide-react'
 import { NewsletterSignup } from '@/components/blog/newsletter-signup'
+import { Logo } from '@/components/ui/logo'
 import { CANONICAL_URL, SITE_NAME, SITE_DESCRIPTION } from '@/lib/constants'
 import type { Metadata } from 'next'
 
@@ -16,24 +16,7 @@ export const metadata: Metadata = {
   },
 }
 
-async function getFeaturedPosts() {
-  try {
-    const supabase = await createClient()
-    const { data } = await supabase
-      .from('posts')
-      .select('id, title, slug, excerpt, featured_image, published_at, reading_time_minutes, tags')
-      .eq('status', 'published')
-      .order('published_at', { ascending: false })
-      .limit(3)
-    return data || []
-  } catch {
-    return []
-  }
-}
-
 export default async function LandingPage() {
-  const featuredPosts = await getFeaturedPosts()
-
   const websiteJsonLd = {
     '@context': 'https://schema.org',
     '@type': 'WebSite',
@@ -73,15 +56,13 @@ export default async function LandingPage() {
       {/* Navbar */}
       <nav className="fixed top-0 z-50 w-full border-b border-zinc-200/10 bg-white/60 dark:bg-zinc-950/60 backdrop-blur-2xl">
         <div className="mx-auto flex max-w-6xl items-center justify-between px-6 py-4">
-          <Link href="/" className="font-amiri text-xl font-bold">
-            <span className="text-gold-gradient">AyahGuide</span>
-          </Link>
+          <Logo />
           <div className="flex items-center gap-4 sm:gap-6">
             <Link
-              href="/tadabbur"
+              href="/surahs"
               className="text-sm text-zinc-500 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-white transition-colors"
             >
-              Reflections
+              Surahs
             </Link>
             <ThemeToggle />
             <Link
@@ -96,6 +77,19 @@ export default async function LandingPage() {
 
       {/* Hero */}
       <section className="relative flex min-h-screen items-center justify-center overflow-hidden px-6 pt-20">
+        {/* Conic gradient tessellation */}
+        <div
+          aria-hidden
+          className="pointer-events-none absolute inset-0 opacity-[0.025] dark:opacity-[0.04]"
+          style={{
+            backgroundImage: `repeating-conic-gradient(
+              from 30deg at 50% 50%,
+              rgba(212,175,55,0.6) 0deg 60deg,
+              transparent 60deg 120deg
+            )`,
+            backgroundSize: '80px 80px',
+          }}
+        />
         {/* Radial gold glow */}
         <div className="absolute inset-0 bg-[radial-gradient(ellipse_600px_400px_at_50%_40%,_rgba(212,175,55,0.08),_transparent)]" />
         <div className="absolute inset-0 bg-[radial-gradient(ellipse_800px_600px_at_50%_60%,_rgba(212,175,55,0.04),_transparent)]" />
@@ -126,17 +120,27 @@ export default async function LandingPage() {
               Begin the Journey
             </Link>
             <Link
-              href="/tadabbur"
+              href="/surahs"
               className="inline-flex items-center gap-2 rounded-full border border-zinc-300 dark:border-zinc-700 px-8 py-3.5 text-base font-medium text-zinc-700 dark:text-zinc-300 hover:bg-zinc-100 dark:hover:bg-zinc-900 transition-colors"
             >
               <BookOpen className="h-5 w-5" />
-              Read Reflections
+              Explore Surahs
             </Link>
           </div>
 
-          {/* Ornament divider */}
-          <div className="mt-16 font-amiri text-2xl text-gold-500/30 select-none">
-            ۞
+          {/* Geometric star divider */}
+          <div className="mt-16 flex items-center justify-center gap-3">
+            <div className="h-px w-12 bg-gradient-to-r from-transparent to-[#D4AF37]/30" />
+            <svg width="24" height="24" viewBox="0 0 24 24" aria-hidden className="text-[#D4AF37]/30">
+              <polygon
+                points="12,2 14.5,8.5 21.5,9 16,13.5 17.5,21 12,17 6.5,21 8,13.5 2.5,9 9.5,8.5"
+                fill="none"
+                stroke="currentColor"
+                strokeWidth="0.8"
+              />
+              <circle cx="12" cy="12" r="2.5" fill="none" stroke="currentColor" strokeWidth="0.6" strokeOpacity="0.5" />
+            </svg>
+            <div className="h-px w-12 bg-gradient-to-l from-transparent to-[#D4AF37]/30" />
           </div>
 
           {/* Scroll indicator */}
@@ -146,82 +150,6 @@ export default async function LandingPage() {
           </div>
         </div>
       </section>
-
-      {/* Featured Posts */}
-      {featuredPosts.length > 0 && (
-        <section className="mx-auto max-w-6xl px-6 py-28">
-          <ScrollReveal>
-            <div className="mb-14 text-center">
-              <p className="text-sm font-medium uppercase tracking-widest text-gold-500/70 mb-3">
-                Recent Reflections
-              </p>
-              <h2 className="text-3xl font-bold text-zinc-900 dark:text-white sm:text-4xl">
-                Journey deeper into the Quran
-              </h2>
-            </div>
-          </ScrollReveal>
-
-          <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
-            {featuredPosts.map((post: any, i: number) => (
-              <ScrollReveal key={post.id} delay={i * 150}>
-                <Link
-                  href={`/tadabbur/${post.slug}`}
-                  className="group block rounded-2xl border border-zinc-200 dark:border-zinc-800/80 bg-white dark:bg-zinc-900/40 p-6 transition-all duration-300 hover:border-gold-500/40 hover:-translate-y-1 hover:shadow-xl hover:shadow-gold-500/10"
-                >
-                  {post.featured_image && (
-                    <div className="mb-4 overflow-hidden rounded-xl">
-                      <img
-                        src={post.featured_image}
-                        alt={post.title}
-                        className="h-48 w-full object-cover transition-transform duration-500 group-hover:scale-105"
-                      />
-                    </div>
-                  )}
-                  <div className="flex items-center gap-2 text-sm text-zinc-400 mb-3">
-                    {post.published_at && (
-                      <time>
-                        {new Date(post.published_at).toLocaleDateString('en-US', {
-                          month: 'short',
-                          day: 'numeric',
-                          year: 'numeric',
-                        })}
-                      </time>
-                    )}
-                    {post.reading_time_minutes && (
-                      <>
-                        <span>·</span>
-                        <span>{post.reading_time_minutes} min read</span>
-                      </>
-                    )}
-                  </div>
-                  <h3 className="text-xl font-semibold text-zinc-900 dark:text-white group-hover:text-gold-600 dark:group-hover:text-gold-400 transition-colors">
-                    {post.title}
-                  </h3>
-                  {post.excerpt && (
-                    <p className="mt-2 text-zinc-500 dark:text-zinc-400 line-clamp-2 leading-relaxed">
-                      {post.excerpt}
-                    </p>
-                  )}
-                  <div className="mt-4 flex items-center gap-1 text-sm font-medium text-gold-600 dark:text-gold-400">
-                    Read more <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-1" />
-                  </div>
-                </Link>
-              </ScrollReveal>
-            ))}
-          </div>
-
-          <ScrollReveal delay={300}>
-            <div className="mt-14 text-center">
-              <Link
-                href="/tadabbur"
-                className="inline-flex items-center gap-2 text-gold-600 dark:text-gold-400 font-medium hover:underline underline-offset-4"
-              >
-                View all reflections <ArrowRight className="h-4 w-4" />
-              </Link>
-            </div>
-          </ScrollReveal>
-        </section>
-      )}
 
       {/* Subscribe Section */}
       <section id="subscribe" className="relative border-t border-zinc-200 dark:border-zinc-800/50 py-28 px-6">
@@ -258,20 +186,25 @@ export default async function LandingPage() {
       {/* Footer */}
       <footer className="border-t border-zinc-200 dark:border-zinc-800/50 py-12 px-6">
         <div className="mx-auto max-w-6xl flex flex-col items-center gap-6">
-          <Link href="/" className="font-amiri text-lg">
-            <span className="text-gold-gradient">AyahGuide</span>
-          </Link>
+          <Logo />
 
           <div className="flex items-center gap-6 text-sm text-zinc-400">
-            <Link href="/tadabbur" className="hover:text-zinc-900 dark:hover:text-white transition-colors">
-              Reflections
+            <Link href="/surahs" className="hover:text-zinc-900 dark:hover:text-white transition-colors">
+              Surahs
             </Link>
             <Link href="#subscribe" className="hover:text-zinc-900 dark:hover:text-white transition-colors">
               Subscribe
             </Link>
           </div>
 
-          <div className="font-amiri text-lg text-gold-500/20 select-none">۞</div>
+          <svg width="16" height="16" viewBox="0 0 24 24" aria-hidden className="text-[#D4AF37]/20">
+            <polygon
+              points="12,2 14.5,8.5 21.5,9 16,13.5 17.5,21 12,17 6.5,21 8,13.5 2.5,9 9.5,8.5"
+              fill="none"
+              stroke="currentColor"
+              strokeWidth="0.8"
+            />
+          </svg>
 
           <p className="text-xs text-zinc-400 dark:text-zinc-500">
             &copy; {new Date().getFullYear()} AyahGuide. All rights reserved.

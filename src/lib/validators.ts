@@ -14,6 +14,7 @@ export const postSchema = z.object({
   tags: z.array(z.string()).max(10).default([]),
   featured: z.boolean().default(false),
   quran_refs: z.any().optional(),
+  surah_number: z.number().int().min(1).max(114).nullable().optional(),
 })
 
 export const subscriberSchema = z.object({

@@ -14,6 +14,7 @@ import { Save, Send, ArrowLeft, Trash2, Eye, Mail, MailCheck, CheckCircle, XCirc
 import Link from 'next/link'
 import toast from 'react-hot-toast'
 import type { Post } from '@/types'
+import { SURAHS } from '@/lib/surahs'
 
 export default function EditPostPage() {
   const { id } = useParams<{ id: string }>()
@@ -46,6 +47,7 @@ export default function EditPostPage() {
     seo_description: '',
     featured: false,
     status: 'draft' as string,
+    surah_number: null as number | null,
   })
 
   useEffect(() => {
@@ -77,6 +79,7 @@ export default function EditPostPage() {
         seo_description: data.seo_description || '',
         featured: data.featured || false,
         status: data.status,
+        surah_number: data.surah_number ?? null,
       })
     } catch {
       toast.error('Failed to load post')
@@ -113,6 +116,7 @@ export default function EditPostPage() {
       reading_time_minutes: calculateReadingTime(form.content_html || ''),
       featured: form.featured,
       status: form.status,
+      surah_number: form.surah_number,
     }
 
     try {
@@ -226,7 +230,7 @@ export default function EditPostPage() {
             <Trash2 className="h-4 w-4" />
           </Button>
           {form.status === 'published' && (
-            <Link href={`/tadabbur/${form.slug}`} target="_blank">
+            <Link href={form.surah_number ? `/surahs/${form.surah_number}` : `/tadabbur/${form.slug}`} target="_blank">
               <Button variant="outline" size="sm">
                 <Eye className="mr-2 h-4 w-4" /> View
               </Button>
@@ -316,6 +320,23 @@ export default function EditPostPage() {
             <input type="checkbox" checked={form.featured} onChange={(e) => updateField('featured', e.target.checked)} className="rounded border-zinc-600" />
             Featured post
           </label>
+
+          <div className="space-y-1">
+            <label className="block text-sm font-medium text-zinc-300">Surah Page</label>
+            <select
+              value={form.surah_number ?? ''}
+              onChange={(e) => updateField('surah_number', e.target.value ? Number(e.target.value) : null)}
+              className="w-full rounded-lg border border-zinc-700 bg-zinc-900 px-3 py-2 text-sm text-zinc-300 focus:border-[#D4AF37] focus:outline-none"
+            >
+              <option value="">Not a surah page</option>
+              {SURAHS.map((s) => (
+                <option key={s.n} value={s.n}>
+                  {s.n} — {s.nameEn} ({s.nameAr})
+                </option>
+              ))}
+            </select>
+            <p className="text-xs text-zinc-500">Link this post to a surah for the Surah Map</p>
+          </div>
         </div>
         <div className="space-y-4">
           <Input label="SEO Title" value={form.seo_title} onChange={(e) => updateField('seo_title', e.target.value)} maxLength={60} className="bg-zinc-900 border-zinc-700" />
