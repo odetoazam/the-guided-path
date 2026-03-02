@@ -95,7 +95,7 @@ export default async function SurahDetailPage({ params }: Props) {
   const contentHtml = post?.content_html?.replace(/^<h1[^>]*>.*?<\/h1>\s*/i, '') || ''
 
   return (
-    <div className="min-h-screen bg-zinc-950 text-white">
+    <div className="min-h-screen bg-white dark:bg-zinc-950 text-zinc-900 dark:text-white">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
@@ -213,11 +213,11 @@ export default async function SurahDetailPage({ params }: Props) {
           <article>
             {/* Article header */}
             <header className="mb-10">
-              <h2 className="font-serif text-2xl font-bold text-white sm:text-3xl">
+              <h2 className="font-serif text-2xl font-bold text-zinc-900 dark:text-white sm:text-3xl">
                 {post.title}
               </h2>
               {post.excerpt && (
-                <p className="mt-4 text-lg text-zinc-400 leading-relaxed">
+                <p className="mt-4 text-lg text-zinc-500 dark:text-zinc-400 leading-relaxed">
                   {post.excerpt}
                 </p>
               )}
@@ -290,9 +290,9 @@ export default async function SurahDetailPage({ params }: Props) {
             </div>
 
             {/* Newsletter CTA */}
-            <div className="mt-14 rounded-2xl border border-zinc-800 bg-zinc-900/30 p-8 sm:p-10 text-center">
+            <div className="mt-14 rounded-2xl border border-zinc-200 dark:border-zinc-800 bg-zinc-100/50 dark:bg-zinc-900/30 p-8 sm:p-10 text-center">
               <p className="text-[#D4AF37]/60 text-sm mb-3">۞</p>
-              <h3 className="font-serif text-2xl font-bold text-white">
+              <h3 className="font-serif text-2xl font-bold text-zinc-900 dark:text-white">
                 Enjoyed this reflection?
               </h3>
               <p className="mt-2 text-zinc-500">
@@ -305,7 +305,7 @@ export default async function SurahDetailPage({ params }: Props) {
           </article>
         ) : (
           /* Empty state — no published analysis yet */
-          <div className="relative overflow-hidden rounded-2xl border border-white/[0.06] bg-white/[0.015] px-8 py-16 text-center">
+          <div className="relative overflow-hidden rounded-2xl border border-zinc-200 dark:border-white/[0.06] bg-zinc-50 dark:bg-white/[0.015] px-8 py-16 text-center">
             <div
               aria-hidden
               className="pointer-events-none absolute inset-0"
@@ -324,7 +324,7 @@ export default async function SurahDetailPage({ params }: Props) {
             >
               {surah.nameAr}
             </div>
-            <p className="relative mt-4 text-sm text-white/25">
+            <p className="relative mt-4 text-sm text-zinc-400 dark:text-white/25">
               Tadabbur for this surah is coming soon.
             </p>
           </div>
@@ -332,16 +332,16 @@ export default async function SurahDetailPage({ params }: Props) {
       </div>
 
       {/* Prev / Next navigation */}
-      <div className="mx-auto max-w-3xl border-t border-white/[0.06] px-5 py-8">
+      <div className="mx-auto max-w-3xl border-t border-zinc-200 dark:border-white/[0.06] px-5 py-8">
         <div className="grid grid-cols-2 gap-4">
           <div>
             {prev ? (
               <Link
                 href={`/surah/${surahSlug(prev.nameEn)}`}
-                className="group flex flex-col gap-1 rounded-xl border border-white/[0.06] bg-white/[0.02]
-                           p-4 transition hover:border-white/10 hover:bg-white/[0.04]"
+                className="group flex flex-col gap-1 rounded-xl border border-zinc-200 dark:border-white/[0.06] bg-zinc-50 dark:bg-white/[0.02]
+                           p-4 transition hover:border-zinc-300 dark:hover:border-white/10 hover:bg-zinc-100 dark:hover:bg-white/[0.04]"
               >
-                <span className="flex items-center gap-1 text-[10px] text-white/30">
+                <span className="flex items-center gap-1 text-[10px] text-zinc-400 dark:text-white/30">
                   <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
                     <path d="m15 18-6-6 6-6" />
                   </svg>
@@ -357,7 +357,7 @@ export default async function SurahDetailPage({ params }: Props) {
                 >
                   {prev.nameAr}
                 </span>
-                <span className="text-[11px] text-white/35">{prev.nameEn}</span>
+                <span className="text-[11px] text-zinc-500 dark:text-white/35">{prev.nameEn}</span>
               </Link>
             ) : (
               <div />
@@ -367,10 +367,10 @@ export default async function SurahDetailPage({ params }: Props) {
             {next ? (
               <Link
                 href={`/surah/${surahSlug(next.nameEn)}`}
-                className="group flex flex-col items-end gap-1 rounded-xl border border-white/[0.06] bg-white/[0.02]
-                           p-4 transition hover:border-white/10 hover:bg-white/[0.04] w-full text-right"
+                className="group flex flex-col items-end gap-1 rounded-xl border border-zinc-200 dark:border-white/[0.06] bg-zinc-50 dark:bg-white/[0.02]
+                           p-4 transition hover:border-zinc-300 dark:hover:border-white/10 hover:bg-zinc-100 dark:hover:bg-white/[0.04] w-full text-right"
               >
-                <span className="flex items-center gap-1 text-[10px] text-white/30">
+                <span className="flex items-center gap-1 text-[10px] text-zinc-400 dark:text-white/30">
                   Next
                   <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
                     <path d="m9 18 6-6-6-6" />
@@ -386,7 +386,7 @@ export default async function SurahDetailPage({ params }: Props) {
                 >
                   {next.nameAr}
                 </span>
-                <span className="text-[11px] text-white/35">{next.nameEn}</span>
+                <span className="text-[11px] text-zinc-500 dark:text-white/35">{next.nameEn}</span>
               </Link>
             ) : (
               <div />
