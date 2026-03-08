@@ -5,7 +5,7 @@ import { Button } from '@/components/ui/button'
 import { Input } from '@/components/ui/input'
 import { Badge } from '@/components/ui/badge'
 import { LoadingSpinner } from '@/components/ui/loading'
-import { Search, Download, Users, UserPlus, UserMinus } from 'lucide-react'
+import { Search, Download, Users, UserPlus, UserMinus, Gift } from 'lucide-react'
 import { formatDate } from '@/lib/utils'
 import type { Subscriber } from '@/types'
 import toast from 'react-hot-toast'
@@ -16,6 +16,7 @@ export default function SubscribersPage() {
   const [search, setSearch] = useState('')
   const [statusFilter, setStatusFilter] = useState('all')
   const [total, setTotal] = useState(0)
+  const [sendingGuide, setSendingGuide] = useState(false)
 
   useEffect(() => {
     fetchSubscribers()
@@ -55,6 +56,23 @@ export default function SubscribersPage() {
     toast.success('CSV exported')
   }
 
+  const sendGuideAnnouncement = async () => {
+    if (!confirm(`Send the free guide announcement to all active subscribers?`)) return
+    setSendingGuide(true)
+    try {
+      const res = await fetch('/api/email/announce-guide', { method: 'POST' })
+      const data = await res.json()
+      if (res.ok) {
+        toast.success(data.message)
+      } else {
+        toast.error(data.error || 'Failed to send')
+      }
+    } catch {
+      toast.error('Failed to send announcement')
+    }
+    setSendingGuide(false)
+  }
+
   const filteredSubscribers = subscribers.filter(
     (s) =>
       s.email.toLowerCase().includes(search.toLowerCase()) ||
@@ -71,10 +89,16 @@ export default function SubscribersPage() {
           <h1 className="text-2xl font-bold text-white">Subscribers</h1>
           <p className="mt-1 text-zinc-400">{total} total subscribers</p>
         </div>
-        <Button variant="outline" onClick={exportCSV}>
-          <Download className="mr-2 h-4 w-4" />
-          Export CSV
-        </Button>
+        <div className="flex items-center gap-2">
+          <Button variant="outline" onClick={sendGuideAnnouncement} loading={sendingGuide}>
+            <Gift className="mr-2 h-4 w-4" />
+            Send Guide to All
+          </Button>
+          <Button variant="outline" onClick={exportCSV}>
+            <Download className="mr-2 h-4 w-4" />
+            Export CSV
+          </Button>
+        </div>
       </div>
 
       {/* Stats */}

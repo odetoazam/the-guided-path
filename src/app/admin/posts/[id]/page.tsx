@@ -345,8 +345,18 @@ export default function EditPostPage() {
           </div>
         </div>
         <div className="space-y-4">
-          <Input label="SEO Title" value={form.seo_title} onChange={(e) => updateField('seo_title', e.target.value)} maxLength={60} className="bg-zinc-900 border-zinc-700" />
-          <Textarea label="SEO Description" value={form.seo_description} onChange={(e) => updateField('seo_description', e.target.value)} maxLength={160} className="bg-zinc-900 border-zinc-700" />
+          <div className="space-y-1">
+            <Input label="SEO Title" value={form.seo_title} onChange={(e) => updateField('seo_title', e.target.value)} maxLength={60} className="bg-zinc-900 border-zinc-700" />
+            <p className={`text-xs text-right ${form.seo_title.length === 0 ? 'text-zinc-600' : form.seo_title.length <= 60 ? 'text-green-500' : 'text-red-400'}`}>
+              {form.seo_title.length}/60
+            </p>
+          </div>
+          <div className="space-y-1">
+            <Textarea label="SEO Description" value={form.seo_description} onChange={(e) => updateField('seo_description', e.target.value)} maxLength={160} className="bg-zinc-900 border-zinc-700" />
+            <p className={`text-xs text-right ${form.seo_description.length === 0 ? 'text-zinc-600' : form.seo_description.length <= 160 ? 'text-green-500' : 'text-red-400'}`}>
+              {form.seo_description.length}/160
+            </p>
+          </div>
         </div>
       </div>
     </div>
