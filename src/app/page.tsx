@@ -128,6 +128,14 @@ export default async function LandingPage() {
             </Link>
           </div>
 
+          {/* Free guide hint */}
+          <p className="mt-5 text-sm text-zinc-400 dark:text-zinc-500">
+            ✦ Free guide for new subscribers —{' '}
+            <Link href="#subscribe" className="underline underline-offset-2 text-[#D4AF37]/70 hover:text-[#D4AF37] transition-colors">
+              A Practical Guide to Tafsir &amp; Tadabbur
+            </Link>
+          </p>
+
           {/* Geometric star divider */}
           <div className="mt-16 flex items-center justify-center gap-3">
             <div className="h-px w-12 bg-gradient-to-r from-transparent to-[#D4AF37]/30" />
@@ -172,8 +180,28 @@ export default async function LandingPage() {
             </p>
           </ScrollReveal>
 
+          {/* Free guide offer */}
+          <ScrollReveal delay={100}>
+            <div className="mt-10 rounded-2xl border border-[#D4AF37]/20 bg-[#D4AF37]/[0.04] px-6 py-6 text-left">
+              <div className="flex items-start gap-4">
+                <div className="flex-shrink-0 rounded-xl border border-[#D4AF37]/20 bg-[#D4AF37]/10 p-3">
+                  <BookOpen className="h-6 w-6 text-[#D4AF37]" />
+                </div>
+                <div>
+                  <p className="text-xs font-semibold uppercase tracking-widest text-[#D4AF37]/60">Free when you subscribe</p>
+                  <p className="mt-1 font-serif text-base font-semibold text-zinc-900 dark:text-white">
+                    A Practical Guide to Tafsir &amp; Tadabbur
+                  </p>
+                  <p className="mt-1.5 text-sm text-zinc-500 dark:text-zinc-400 leading-relaxed">
+                    A concise guide to reading the Quran with depth — covering the classical tools of tafsir and how to make tadabbur a living practice.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </ScrollReveal>
+
           <ScrollReveal delay={200}>
-            <div className="mt-10">
+            <div className="mt-6">
               <NewsletterSignup />
             </div>
             <p className="mt-4 text-xs text-zinc-400 dark:text-zinc-500">
