@@ -219,7 +219,7 @@ type Filter = "all" | "available";
 
 export function SurahMap({ publishedSurahs }: { publishedSurahs: number[] }) {
   const [search, setSearch] = useState("");
-  const [filter, setFilter] = useState<Filter>("all");
+  const [filter, setFilter] = useState<Filter>("available");
 
   const publishedSet = useMemo(() => new Set(publishedSurahs), [publishedSurahs]);
 
@@ -257,16 +257,16 @@ export function SurahMap({ publishedSurahs }: { publishedSurahs: number[] }) {
                          py-2 pl-9 pr-3 text-sm text-zinc-300 outline-none
                          placeholder:text-zinc-600 focus:border-zinc-700" />
           </div>
-          <div className="flex gap-1.5">
-            {(["all", "available"] as Filter[]).map((f) => (
+          <div className="flex gap-1.5 rounded-full border border-zinc-800 bg-zinc-900/60 p-1">
+            {(["available", "all"] as Filter[]).map((f) => (
               <button key={f} onClick={() => setFilter(f)}
-                className="rounded-full px-3 py-1.5 text-[11px] transition-all"
+                className="rounded-full px-3.5 py-1 text-[11px] font-medium transition-all duration-200"
                 style={{
-                  background: filter === f ? "rgba(212,175,55,0.12)" : "transparent",
+                  background: filter === f ? "rgba(212,175,55,0.18)" : "transparent",
                   color: filter === f ? "rgb(212,175,55)" : "rgb(113,113,122)",
-                  border: `1px solid ${filter === f ? "rgba(212,175,55,0.25)" : "rgba(63,63,70,0.5)"}`,
+                  boxShadow: filter === f ? "0 0 0 1px rgba(212,175,55,0.30)" : "none",
                 }}>
-                {f === "all" ? "All" : "Available"}
+                {f === "all" ? "All 114" : "Available"}
               </button>
             ))}
           </div>
