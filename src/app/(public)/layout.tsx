@@ -12,6 +12,9 @@ export default function PublicLayout({ children }: { children: React.ReactNode }
             <Link href="/surah" className="text-sm text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-white transition-colors">
               Surahs
             </Link>
+            <Link href="/understanding-quran" className="text-sm text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-white transition-colors">
+              Understanding Quran
+            </Link>
             <ThemeToggle />
             <Link
               href="/#subscribe"
@@ -30,6 +33,7 @@ export default function PublicLayout({ children }: { children: React.ReactNode }
           <p className="text-sm text-zinc-500">&copy; {new Date().getFullYear()} AyahGuide</p>
           <div className="flex gap-6 text-sm text-zinc-500">
             <Link href="/surah" className="hover:text-zinc-900 dark:hover:text-white">Surahs</Link>
+            <Link href="/understanding-quran" className="hover:text-zinc-900 dark:hover:text-white">Understanding Quran</Link>
             <Link href="/posts" className="hover:text-zinc-900 dark:hover:text-white">Posts</Link>
             <Link href="/#subscribe" className="hover:text-zinc-900 dark:hover:text-white">Subscribe</Link>
           </div>
