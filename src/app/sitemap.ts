@@ -7,6 +7,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const entries: MetadataRoute.Sitemap = [
     { url: CANONICAL_URL, lastModified: new Date(), changeFrequency: 'weekly', priority: 1 },
     { url: `${CANONICAL_URL}/surah`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.9 },
+    { url: `${CANONICAL_URL}/understanding-quran`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.85 },
     { url: `${CANONICAL_URL}/posts`, lastModified: new Date(), changeFrequency: 'daily', priority: 0.8 },
     { url: `${CANONICAL_URL}/subscribe`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.5 },
   ]
