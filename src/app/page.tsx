@@ -64,6 +64,12 @@ export default async function LandingPage() {
             >
               Surahs
             </Link>
+            <Link
+              href="/understanding-quran"
+              className="text-sm text-zinc-500 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-white transition-colors"
+            >
+              Understanding Quran
+            </Link>
             <ThemeToggle />
             <Link
               href="#subscribe"
@@ -175,8 +181,7 @@ export default async function LandingPage() {
               An invitation to journey deeper
             </h2>
             <p className="mt-4 text-zinc-500 dark:text-zinc-400 leading-relaxed">
-              Receive contemplative Quranic reflections in your inbox — each one crafted to
-              help you see familiar verses with new eyes and a softer heart.
+              Receive Quranic insights in your inbox periodically.
             </p>
           </ScrollReveal>
 
@@ -219,6 +224,9 @@ export default async function LandingPage() {
           <div className="flex items-center gap-6 text-sm text-zinc-400">
             <Link href="/surah" className="hover:text-zinc-900 dark:hover:text-white transition-colors">
               Surahs
+            </Link>
+            <Link href="/understanding-quran" className="hover:text-zinc-900 dark:hover:text-white transition-colors">
+              Understanding Quran
             </Link>
             <Link href="#subscribe" className="hover:text-zinc-900 dark:hover:text-white transition-colors">
               Subscribe
