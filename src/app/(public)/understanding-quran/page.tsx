@@ -124,10 +124,10 @@ function SectionHeading({ arabic, transliteration, english, description }: {
     <div className="mb-4 border-l-2 border-[rgba(212,175,55,0.4)] pl-4">
       <div className="flex flex-wrap items-baseline gap-2">
         <span className="font-amiri text-xl text-[rgba(212,175,55,0.85)]">{arabic}</span>
-        <span className="text-xs italic text-zinc-500">{transliteration}</span>
+        <span className="text-xs italic text-zinc-500 dark:text-zinc-500 dark:text-zinc-500">{transliteration}</span>
       </div>
-      <h3 className="mt-0.5 font-serif text-base font-semibold text-white">{english}</h3>
-      <p className="mt-1 text-xs text-zinc-500">{description}</p>
+      <h3 className="mt-0.5 font-serif text-base font-semibold text-zinc-900 dark:text-white">{english}</h3>
+      <p className="mt-1 text-xs text-zinc-500 dark:text-zinc-500 dark:text-zinc-500">{description}</p>
     </div>
   )
 }
@@ -135,10 +135,10 @@ function SectionHeading({ arabic, transliteration, english, description }: {
 // ── Part heading ──────────────────────────────────────────────────────────────
 function PartHeading({ number, title, subtitle }: { number: string; title: string; subtitle: string }) {
   return (
-    <div className="mb-8 mt-14 border-b border-zinc-800 pb-4">
+    <div className="mb-8 mt-14 border-b border-zinc-200 dark:border-zinc-800 pb-4">
       <p className="mb-1 text-[10px] font-medium uppercase tracking-[0.2em] text-[rgba(212,175,55,0.5)]">{number}</p>
-      <h2 className="font-serif text-xl font-bold text-white sm:text-2xl">{title}</h2>
-      <p className="mt-1.5 text-sm text-zinc-500">{subtitle}</p>
+      <h2 className="font-serif text-xl font-bold text-zinc-900 dark:text-white sm:text-2xl">{title}</h2>
+      <p className="mt-1.5 text-sm text-zinc-500 dark:text-zinc-500 dark:text-zinc-500">{subtitle}</p>
     </div>
   )
 }
@@ -151,39 +151,39 @@ export default function UnderstandingQuranPage() {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 
-      <div className="min-h-screen bg-zinc-950">
+      <div className="min-h-screen bg-white dark:bg-zinc-950">
 
         {/* ── Hero ──────────────────────────────────────────────────────────── */}
         <div className="mx-auto max-w-3xl px-5 pb-10 pt-10">
 
           {/* Breadcrumb */}
-          <nav aria-label="Breadcrumb" className="mb-6 flex items-center gap-1.5 text-[11px] text-zinc-600">
-            <Link href="/" className="transition-colors hover:text-zinc-400">Home</Link>
+          <nav aria-label="Breadcrumb" className="mb-6 flex items-center gap-1.5 text-[11px] text-zinc-500 dark:text-zinc-600">
+            <Link href="/" className="transition-colors hover:text-zinc-500 dark:text-zinc-600 dark:text-zinc-400">Home</Link>
             <span>/</span>
-            <span className="text-zinc-500">Understanding the Quran</span>
+            <span className="text-zinc-500 dark:text-zinc-500 dark:text-zinc-500">Understanding the Quran</span>
           </nav>
 
           <div className="text-center">
             <div className="mb-4 font-amiri text-2xl text-[rgba(212,175,55,0.7)]">
               بِسْمِ اللهِ الرَّحْمَٰنِ الرَّحِيمِ
             </div>
-            <h1 className="font-serif text-2xl font-bold text-white sm:text-3xl sm:leading-snug">
+            <h1 className="font-serif text-2xl font-bold text-zinc-900 dark:text-white sm:text-3xl sm:leading-snug">
               How to Read the Quran<br className="hidden sm:block" /> with Understanding
             </h1>
-            <p className="mx-auto mt-3 max-w-xl text-sm leading-relaxed text-zinc-400">
-              A complete guide to <strong className="font-medium text-zinc-300">tafsir</strong> and{' '}
-              <strong className="font-medium text-zinc-300">tadabbur</strong> — the tools, lenses,
+            <p className="mx-auto mt-3 max-w-xl text-sm leading-relaxed text-zinc-500 dark:text-zinc-600 dark:text-zinc-400">
+              A complete guide to <strong className="font-medium text-zinc-700 dark:text-zinc-300">tafsir</strong> and{' '}
+              <strong className="font-medium text-zinc-700 dark:text-zinc-300">tadabbur</strong> — the tools, lenses,
               and questions that open the Quran at a depth most readers never reach.
             </p>
-            <p className="mt-2 text-xs text-zinc-600">
+            <p className="mt-2 text-xs text-zinc-500 dark:text-zinc-600">
               Not a tafsir of specific verses. A guide to how tafsir works.
             </p>
           </div>
 
           {/* Jump links */}
-          <nav aria-label="Table of contents" className="mt-8 rounded-xl border border-zinc-800 bg-zinc-900/50 px-5 py-4">
-            <p className="mb-3 text-[10px] font-medium uppercase tracking-[0.18em] text-zinc-600">In this guide</p>
-            <ol className="space-y-1.5 text-sm text-zinc-400">
+          <nav aria-label="Table of contents" className="mt-8 rounded-xl border border-zinc-200 dark:border-zinc-800 bg-zinc-100/60 dark:bg-zinc-900/50 px-5 py-4">
+            <p className="mb-3 text-[10px] font-medium uppercase tracking-[0.18em] text-zinc-500 dark:text-zinc-600">In this guide</p>
+            <ol className="space-y-1.5 text-sm text-zinc-500 dark:text-zinc-600 dark:text-zinc-400">
               <li><a href="#foundations" className="hover:text-[rgba(212,175,55,0.9)] transition-colors">Part One — What Tafsir and Tadabbur Actually Mean</a></li>
               <li><a href="#surah-structure" className="hover:text-[rgba(212,175,55,0.9)] transition-colors">Part Two — How to Read an Entire Surah</a></li>
               <li><a href="#ayah-tools" className="hover:text-[rgba(212,175,55,0.9)] transition-colors">Part Three — How to Read a Single Verse</a></li>
@@ -196,23 +196,23 @@ export default function UnderstandingQuranPage() {
 
         {/* ── Intro ─────────────────────────────────────────────────────────── */}
         <div className="mx-auto max-w-3xl px-5 pb-2">
-          <div className="rounded-xl border border-zinc-800/60 bg-zinc-900/30 p-6">
-            <h2 className="mb-3 font-serif text-base font-semibold text-white">
+          <div className="rounded-xl border border-zinc-200/60 dark:border-zinc-200 dark:border-zinc-800/60 bg-zinc-50/80 dark:bg-zinc-900/30 p-6">
+            <h2 className="mb-3 font-serif text-base font-semibold text-zinc-900 dark:text-white">
               Why Most People Read the Quran With One Eye Closed
             </h2>
-            <p className="text-sm leading-relaxed text-zinc-400">
+            <p className="text-sm leading-relaxed text-zinc-500 dark:text-zinc-600 dark:text-zinc-400">
               Most people who love the Quran have encountered this moment: you hear a verse explained
               by a scholar — the way a single word opens up, how it connects to what came before, why
               it was worded this way and not another — and you feel like you&apos;ve been reading the text
               with one eye closed. Suddenly it has depth you didn&apos;t know was there.
             </p>
-            <p className="mt-3 text-sm leading-relaxed text-zinc-400">
+            <p className="mt-3 text-sm leading-relaxed text-zinc-500 dark:text-zinc-600 dark:text-zinc-400">
               This guide is about opening the second eye. The guide is organized in two movements.
               First, we look at the surah as a whole — the big architectural picture. Then we zoom
               into the individual ayah — the linguistic and rhetorical tools that make each verse
               work. Both levels matter, and understanding both changes how you hear the Quran.
             </p>
-            <p className="mt-3 text-xs text-zinc-600">
+            <p className="mt-3 text-xs text-zinc-500 dark:text-zinc-600">
               Arabic terms are introduced with their transliteration and a plain-English explanation.
               You don&apos;t need to know Arabic to benefit — but knowing the names will help you go
               further when you&apos;re ready.
@@ -240,15 +240,15 @@ export default function UnderstandingQuranPage() {
                   english="What Is Tafsir?"
                   description="The scholarly discipline of explaining and interpreting the Quran — drawing on Arabic language, prophetic tradition, the understanding of the Companions, and rational analysis."
                 />
-                <div className="space-y-3 text-sm leading-relaxed text-zinc-400">
+                <div className="space-y-3 text-sm leading-relaxed text-zinc-500 dark:text-zinc-600 dark:text-zinc-400">
                   <p>
                     The word tafsir comes from a root meaning &ldquo;to uncover&rdquo; or &ldquo;to clarify.&rdquo; It is what
                     scholars do when they explain what a verse means — intellectual, disciplined, grounded.
                     There are two broad categories:
                   </p>
-                  <ul className="ml-4 space-y-2 text-zinc-500">
-                    <li className="flex gap-2"><span className="mt-1.5 h-1 w-1 shrink-0 rounded-full bg-[rgba(212,175,55,0.4)]" /><span><strong className="text-zinc-400">Tafsir bil-Riwayah</strong> (Narration-Based): Explaining the Quran through the Quran itself, authentic hadith, or the understanding of the Sahabah. This is the most authoritative form.</span></li>
-                    <li className="flex gap-2"><span className="mt-1.5 h-1 w-1 shrink-0 rounded-full bg-[rgba(212,175,55,0.4)]" /><span><strong className="text-zinc-400">Tafsir bil-Dirayah</strong> (Reason-Based): Explanation through sound linguistic analysis and logical reasoning — but only when it does not contradict the transmitted tradition.</span></li>
+                  <ul className="ml-4 space-y-2 text-zinc-500 dark:text-zinc-500 dark:text-zinc-500">
+                    <li className="flex gap-2"><span className="mt-1.5 h-1 w-1 shrink-0 rounded-full bg-[rgba(212,175,55,0.4)]" /><span><strong className="text-zinc-500 dark:text-zinc-600 dark:text-zinc-400">Tafsir bil-Riwayah</strong> (Narration-Based): Explaining the Quran through the Quran itself, authentic hadith, or the understanding of the Sahabah. This is the most authoritative form.</span></li>
+                    <li className="flex gap-2"><span className="mt-1.5 h-1 w-1 shrink-0 rounded-full bg-[rgba(212,175,55,0.4)]" /><span><strong className="text-zinc-500 dark:text-zinc-600 dark:text-zinc-400">Tafsir bil-Dirayah</strong> (Reason-Based): Explanation through sound linguistic analysis and logical reasoning — but only when it does not contradict the transmitted tradition.</span></li>
                   </ul>
                   <p>
                     Scholars established a clear order: the Quran explains itself first, then the Sunnah,
@@ -266,7 +266,7 @@ export default function UnderstandingQuranPage() {
                   english="What Is Tadabbur?"
                   description="Deep, sustained, contemplative reflection on the Quran — not just understanding what it says, but being transformed by it."
                 />
-                <div className="space-y-3 text-sm leading-relaxed text-zinc-400">
+                <div className="space-y-3 text-sm leading-relaxed text-zinc-500 dark:text-zinc-600 dark:text-zinc-400">
                   <p>
                     The word tadabbur comes from the root <em>d-b-r</em> — which relates to the
                     &ldquo;back&rdquo; of something, looking carefully at what lies behind the surface.
@@ -274,7 +274,7 @@ export default function UnderstandingQuranPage() {
                   </p>
                   <blockquote className="my-4 border-l-2 border-[rgba(212,175,55,0.35)] pl-4">
                     <p className="font-amiri text-lg text-[rgba(212,175,55,0.8)]">أَفَلَا يَتَدَبَّرُونَ الْقُرْآنَ</p>
-                    <p className="mt-1 text-sm italic text-zinc-500">&ldquo;Do they not reflect deeply on the Quran?&rdquo; — Surah An-Nisa, 4:82</p>
+                    <p className="mt-1 text-sm italic text-zinc-500 dark:text-zinc-500 dark:text-zinc-500">&ldquo;Do they not reflect deeply on the Quran?&rdquo; — Surah An-Nisa, 4:82</p>
                   </blockquote>
                   <p>
                     Tadabbur is not the same as tafsir. Tafsir is the work of scholars with technical tools.
@@ -283,7 +283,7 @@ export default function UnderstandingQuranPage() {
                     brought to it rather than what Allah placed in it. The scholarly tradition creates the riverbank;
                     tadabbur is the water that flows through it.
                   </p>
-                  <p className="text-zinc-500">
+                  <p className="text-zinc-500 dark:text-zinc-500 dark:text-zinc-500">
                     This is what{' '}
                     <Link href="/" className="text-[rgba(212,175,55,0.7)] hover:text-[rgba(212,175,55,1)] transition-colors underline-offset-2 hover:underline">
                       AyahGuide
@@ -298,15 +298,15 @@ export default function UnderstandingQuranPage() {
               </div>
 
               {/* Comparison table */}
-              <div className="overflow-hidden rounded-lg border border-zinc-800">
+              <div className="overflow-hidden rounded-lg border border-zinc-200 dark:border-zinc-800">
                 <table className="w-full text-xs">
                   <thead>
-                    <tr className="border-b border-zinc-800 bg-zinc-900/60">
-                      <th className="px-4 py-2.5 text-left font-medium text-zinc-400">Tafsir</th>
-                      <th className="px-4 py-2.5 text-left font-medium text-zinc-400">Tadabbur</th>
+                    <tr className="border-b border-zinc-200 dark:border-zinc-800 bg-zinc-900/60">
+                      <th className="px-4 py-2.5 text-left font-medium text-zinc-500 dark:text-zinc-600 dark:text-zinc-400">Tafsir</th>
+                      <th className="px-4 py-2.5 text-left font-medium text-zinc-500 dark:text-zinc-600 dark:text-zinc-400">Tadabbur</th>
                     </tr>
                   </thead>
-                  <tbody className="divide-y divide-zinc-800/60 text-zinc-500">
+                  <tbody className="divide-y divide-zinc-800/60 text-zinc-500 dark:text-zinc-500 dark:text-zinc-500">
                     {[
                       ['Intellectual — explaining what it means', 'Contemplative — being transformed by what it means'],
                       ['Done by scholars with technical knowledge', 'The responsibility of every believer'],
@@ -330,16 +330,16 @@ export default function UnderstandingQuranPage() {
                   english="The Boundaries of Interpretation"
                   description="Ta'wil is a specific scholarly technique for figurative interpretation. Ra'y means personal opinion. Both are tools for trained scholars, not open invitations for personal interpretation."
                 />
-                <div className="space-y-3 text-sm leading-relaxed text-zinc-400">
+                <div className="space-y-3 text-sm leading-relaxed text-zinc-500 dark:text-zinc-600 dark:text-zinc-400">
                   <p>
                     Interpretation that is simply creative or emotionally resonant, without linguistic
                     and traditional foundations, falls into the category of <em>tafsir bil-ra&apos;y
                     al-madhmum</em> — blameworthy opinion-based interpretation — which the scholars
                     strongly cautioned against.
                   </p>
-                  <div className="rounded-lg border border-zinc-800/60 bg-zinc-900/30 px-4 py-3">
-                    <p className="mb-2 text-[10px] font-medium uppercase tracking-[0.15em] text-zinc-600">The hierarchy of Quranic interpretation</p>
-                    <ol className="space-y-1 text-zinc-500">
+                  <div className="rounded-lg border border-zinc-200/60 dark:border-zinc-200 dark:border-zinc-800/60 bg-zinc-50/80 dark:bg-zinc-900/30 px-4 py-3">
+                    <p className="mb-2 text-[10px] font-medium uppercase tracking-[0.15em] text-zinc-500 dark:text-zinc-600">The hierarchy of Quranic interpretation</p>
+                    <ol className="space-y-1 text-zinc-500 dark:text-zinc-500 dark:text-zinc-500">
                       {[
                         'Tafsir al-Quran bil-Quran — the Quran explaining itself',
                         'Tafsir bil-Sunnah — the Prophet\'s ﷺ own explanation',
@@ -365,7 +365,7 @@ export default function UnderstandingQuranPage() {
                   english="Canonical Readings"
                   description="The seven (or ten) mass-transmitted traditions of Quranic recitation, each authenticated back to the Prophet ﷺ. These are not variants or errors — they are all equally the Quran."
                 />
-                <p className="text-sm leading-relaxed text-zinc-400">
+                <p className="text-sm leading-relaxed text-zinc-500 dark:text-zinc-600 dark:text-zinc-400">
                   When a tafsir mentions &ldquo;another reading says...&rdquo; this refers to one of these canonical
                   Qira&apos;at. Sometimes a variation in pronunciation changes the grammatical form of a word
                   and opens a dimension of meaning that the primary reading does not. Scholars treat both
@@ -380,7 +380,7 @@ export default function UnderstandingQuranPage() {
                   english="The Higher Purposes of Quranic Guidance"
                   description="The five fundamental objectives of divine guidance: the preservation of faith, life, intellect, lineage, and property."
                 />
-                <p className="text-sm leading-relaxed text-zinc-400">
+                <p className="text-sm leading-relaxed text-zinc-500 dark:text-zinc-600 dark:text-zinc-400">
                   When Allah prohibits alcohol, you can understand it at the legal level (it&apos;s haram)
                   — but the maqasid lens asks: which fundamental human good is being protected? The answer
                   is <em>&apos;aql</em> (the intellect) and <em>nasl</em> (the family). That deeper understanding
@@ -399,7 +399,7 @@ export default function UnderstandingQuranPage() {
               subtitle="Structure, context, and architecture — the tools for reading the building before you enter a room"
             />
 
-            <p className="mb-8 text-sm leading-relaxed text-zinc-500">
+            <p className="mb-8 text-sm leading-relaxed text-zinc-500 dark:text-zinc-500 dark:text-zinc-500">
               Before you can understand a room, you need to understand the building. Before you can understand
               an ayah, you need to understand the surah it lives in. Think of each surah as a building with
               a specific purpose, a unique character, a calculated structure. Every room connects to the others.
@@ -415,22 +415,22 @@ export default function UnderstandingQuranPage() {
                   english="1. How Context Shapes the Quran"
                   description="Surahs revealed before the Hijra are called Makki. Those revealed after are called Madani. The distinction profoundly shapes the content and style of each surah."
                 />
-                <div className="space-y-4 text-sm leading-relaxed text-zinc-400">
+                <div className="space-y-4 text-sm leading-relaxed text-zinc-500 dark:text-zinc-600 dark:text-zinc-400">
                   <p>
                     The Quran was revealed over 23 years across two very different historical contexts.
                     In Makkah, the early Muslim community was small, persecuted, and in desperate need of
                     faith. In Madinah, they were a growing society that needed laws and social structure.
                     The surahs reflect their context.
                   </p>
-                  <div className="overflow-hidden rounded-lg border border-zinc-800">
+                  <div className="overflow-hidden rounded-lg border border-zinc-200 dark:border-zinc-800">
                     <table className="w-full text-xs">
                       <thead>
-                        <tr className="border-b border-zinc-800 bg-zinc-900/60">
-                          <th className="px-4 py-2.5 text-left font-medium text-zinc-400">Makki Surahs</th>
-                          <th className="px-4 py-2.5 text-left font-medium text-zinc-400">Madani Surahs</th>
+                        <tr className="border-b border-zinc-200 dark:border-zinc-800 bg-zinc-900/60">
+                          <th className="px-4 py-2.5 text-left font-medium text-zinc-500 dark:text-zinc-600 dark:text-zinc-400">Makki Surahs</th>
+                          <th className="px-4 py-2.5 text-left font-medium text-zinc-500 dark:text-zinc-600 dark:text-zinc-400">Madani Surahs</th>
                         </tr>
                       </thead>
-                      <tbody className="divide-y divide-zinc-800/60 text-zinc-500">
+                      <tbody className="divide-y divide-zinc-800/60 text-zinc-500 dark:text-zinc-500 dark:text-zinc-500">
                         {[
                           ['Address: "O People!" (ya ayyuha al-nas)', 'Address: "O Believers!" (ya ayyuha alladhina amanu)'],
                           ['Short, intense, often rhythmic', 'Longer, legislative, detailed'],
@@ -446,7 +446,7 @@ export default function UnderstandingQuranPage() {
                       </tbody>
                     </table>
                   </div>
-                  <p className="text-zinc-500">
+                  <p className="text-zinc-500 dark:text-zinc-500 dark:text-zinc-500">
                     These are dominant patterns, not rigid rules. The Makki/Madani distinction is a
                     guide for your reading strategy — not a formula that predicts every verse. You can
                     see this distinction at work across the{' '}
@@ -464,13 +464,13 @@ export default function UnderstandingQuranPage() {
                   english="2. Why Verses Were Revealed"
                   description="The historical circumstances or events that prompted the revelation of specific verses. Knowing these does not limit the verse's application — it enriches it."
                 />
-                <div className="space-y-3 text-sm leading-relaxed text-zinc-400">
+                <div className="space-y-3 text-sm leading-relaxed text-zinc-500 dark:text-zinc-600 dark:text-zinc-400">
                   <p>
                     Almost every major verse or passage has a story behind it. Knowing that story does
                     not trap the verse in the past — it illuminates the logic of the verse and reveals
                     its depth.
                   </p>
-                  <p className="text-zinc-500">
+                  <p className="text-zinc-500 dark:text-zinc-500 dark:text-zinc-500">
                     A key principle: <em>&ldquo;Al-ibra bi-umum al-lafz la bi-khusus al-sabab&rdquo;</em> —
                     &ldquo;The ruling is based on the generality of the wording, not the specificity of the
                     occasion.&rdquo; The occasion explains; the wording teaches universally.
@@ -485,7 +485,7 @@ export default function UnderstandingQuranPage() {
                   english="3. The Central Thesis of a Surah"
                   description="The single unifying thesis of a surah — the central argument that every section, story, and verse is serving. Named by the great scholar Hamiduddin Farahi."
                 />
-                <p className="text-sm leading-relaxed text-zinc-400">
+                <p className="text-sm leading-relaxed text-zinc-500 dark:text-zinc-600 dark:text-zinc-400">
                   When you identify the amud, the surah snaps into focus. What seemed like a collection
                   of unrelated topics reveals itself as a tightly constructed argument. The amud is not
                   always stated directly. Sometimes it is implied by the surah&apos;s structure, its opening,
@@ -505,7 +505,7 @@ export default function UnderstandingQuranPage() {
                   english="4. How a Surah Flows"
                   description="The internal coherence and logical ordering of a surah — how its sections flow from each other, each passage preparing the ground for the next."
                 />
-                <p className="text-sm leading-relaxed text-zinc-400">
+                <p className="text-sm leading-relaxed text-zinc-500 dark:text-zinc-600 dark:text-zinc-400">
                   Scholars like Imam al-Razi devoted enormous attention to nazm, arguing that no transition
                   in the Quran is arbitrary. Every shift of topic, every new address, every change of register
                   — all of it is calculated. Reading with attention to nazm means asking: what does this
@@ -521,7 +521,7 @@ export default function UnderstandingQuranPage() {
                   english="5. How Surahs Speak to Each Other"
                   description="The thematic connections and conversations between adjacent surahs. The Quran's arrangement is not alphabetical or chronological — it is purposive."
                 />
-                <p className="text-sm leading-relaxed text-zinc-400">
+                <p className="text-sm leading-relaxed text-zinc-500 dark:text-zinc-600 dark:text-zinc-400">
                   The order of the surahs was established by the Prophet ﷺ under divine guidance.
                   Adjacent surahs often complete each other&apos;s arguments, answer each other&apos;s questions,
                   or explore the same theme from different angles. These are not coincidences — they are
@@ -536,7 +536,7 @@ export default function UnderstandingQuranPage() {
                   english="6. Divine Oaths and What They Mean"
                   description="A divine oath. Surahs that open with 'wa' (by) are using qasam. The object sworn by is always chosen for its thematic relationship to the assertion that follows."
                 />
-                <p className="text-sm leading-relaxed text-zinc-400">
+                <p className="text-sm leading-relaxed text-zinc-500 dark:text-zinc-600 dark:text-zinc-400">
                   In Surah Al-Asr, Allah swears by time (<em>al-asr</em>) that humanity is in loss —
                   except those who believe, do good, and counsel each other to truth and patience. The
                   oath by time is not random: time itself is the witness to human loss, because time reveals
@@ -552,7 +552,7 @@ export default function UnderstandingQuranPage() {
                   english="7. How Quranic Stories Work"
                   description="Quranic narrative. Quranic stories are not historical chronicles but purposive compositions shaped by the amud of each surah."
                 />
-                <p className="text-sm leading-relaxed text-zinc-400">
+                <p className="text-sm leading-relaxed text-zinc-500 dark:text-zinc-600 dark:text-zinc-400">
                   The story of Prophet Musa ﷺ appears across dozens of surahs. Why does the Quran not
                   tell it once, completely? Because Quranic stories are not history lessons — they are
                   arguments. Each surah selects the episodes it needs, emphasizes what its amud requires,
@@ -572,7 +572,7 @@ export default function UnderstandingQuranPage() {
               subtitle="Language, rhetoric, and meaning — the tools drawn from classical Arabic linguistics and balaghah"
             />
 
-            <p className="mb-8 text-sm leading-relaxed text-zinc-500">
+            <p className="mb-8 text-sm leading-relaxed text-zinc-500 dark:text-zinc-500 dark:text-zinc-500">
               With the surah&apos;s architecture in mind, we can look at the individual verse — the ayah —
               with greater precision. These are the tools the scholars use to hear what the Quran is
               doing at the level of the word, the sentence structure, and the sound.
@@ -587,7 +587,7 @@ export default function UnderstandingQuranPage() {
                   english="Arabic Word Structure: Why Every Letter Matters"
                   description="Arabic morphology and the ten standard verb forms. Each root carries a core meaning; each verb form adds a specific semantic layer."
                 />
-                <div className="space-y-3 text-sm leading-relaxed text-zinc-400">
+                <div className="space-y-3 text-sm leading-relaxed text-zinc-500 dark:text-zinc-600 dark:text-zinc-400">
                   <p>
                     Arabic builds words from three-letter roots. The root <em>k-t-b</em> carries the
                     idea of writing. Add a pattern and you get <em>kataba</em> (he wrote), <em>kitab</em>{' '}
@@ -610,7 +610,7 @@ export default function UnderstandingQuranPage() {
                   english="The Rhetoric of the Quran"
                   description="Arabic rhetoric — the science of eloquent, appropriate, and effective language. Contains three sub-disciplines: ilm al-ma'ani, ilm al-bayan, and ilm al-badi'."
                 />
-                <div className="space-y-4 text-sm leading-relaxed text-zinc-400">
+                <div className="space-y-4 text-sm leading-relaxed text-zinc-500 dark:text-zinc-600 dark:text-zinc-400">
                   <p>
                     Balaghah is not decoration — it is the science of how words land. The Quran&apos;s
                     inimitability (<em>i&apos;jaz</em>) is understood partly through its balaghah: it operates
@@ -631,9 +631,9 @@ export default function UnderstandingQuranPage() {
                         text: "Covers jinas (paronomasia), tibaq (antithesis), and fasila (the closing sound of each ayah). The Quran's rhyme scheme is not ornamental — the closing word of each ayah carries semantic weight. Often the most important word in a verse is its last word, placed there not only for the ear but to land as the verse's punchline, its revelation.",
                       },
                     ].map(({ label, text }, i) => (
-                      <div key={i} className="rounded-lg border border-zinc-800/60 bg-zinc-900/30 px-4 py-3">
-                        <p className="mb-1.5 text-xs font-medium text-zinc-300">{label}</p>
-                        <p className="text-xs leading-relaxed text-zinc-500">{text}</p>
+                      <div key={i} className="rounded-lg border border-zinc-200/60 dark:border-zinc-200 dark:border-zinc-800/60 bg-zinc-50/80 dark:bg-zinc-900/30 px-4 py-3">
+                        <p className="mb-1.5 text-xs font-medium text-zinc-700 dark:text-zinc-300">{label}</p>
+                        <p className="text-xs leading-relaxed text-zinc-500 dark:text-zinc-500 dark:text-zinc-500">{text}</p>
                       </div>
                     ))}
                   </div>
@@ -647,7 +647,7 @@ export default function UnderstandingQuranPage() {
                   english="Deliberate Shifts in the Quran's Voice"
                   description="A deliberate shift in grammatical person, number, or tense — creating an emotional jolt or change of perspective. One of the most distinctive features of Quranic style."
                 />
-                <div className="space-y-3 text-sm leading-relaxed text-zinc-400">
+                <div className="space-y-3 text-sm leading-relaxed text-zinc-500 dark:text-zinc-600 dark:text-zinc-400">
                   <p>
                     In{' '}
                     <Link href="/surah/al-fatiha" className="text-[rgba(212,175,55,0.7)] hover:text-[rgba(212,175,55,1)] transition-colors underline-offset-2 hover:underline">
@@ -668,7 +668,7 @@ export default function UnderstandingQuranPage() {
                   english="The Power of What the Quran Doesn't Say"
                   description="Intentional grammatical omission — leaving out an expected element to create emphasis, implication, or a deliberate space for reflection."
                 />
-                <p className="text-sm leading-relaxed text-zinc-400">
+                <p className="text-sm leading-relaxed text-zinc-500 dark:text-zinc-600 dark:text-zinc-400">
                   When an expected word is missing, the scholars ask: what does the omission accomplish?
                   Sometimes the omitted word is more powerful in its absence than it would be if stated.
                   Sometimes the hadhf creates a productive ambiguity — the missing word could be one of
@@ -683,7 +683,7 @@ export default function UnderstandingQuranPage() {
                   english="Why Word Order Matters in Arabic"
                   description="Fronting — placing an element before its grammatically expected position to create emphasis or restriction. One of the most frequently analysed tools in Quranic linguistics."
                 />
-                <div className="space-y-3 text-sm leading-relaxed text-zinc-400">
+                <div className="space-y-3 text-sm leading-relaxed text-zinc-500 dark:text-zinc-600 dark:text-zinc-400">
                   <p>
                     In Arabic, word order is flexible — and that flexibility is exploited for meaning.
                     The most famous example is in{' '}
@@ -705,15 +705,15 @@ export default function UnderstandingQuranPage() {
 
           {/* ── Questions to ask ── */}
           <section id="questions-to-ask" aria-labelledby="questions-heading" className="mt-14">
-            <div className="mb-6 border-b border-zinc-800 pb-4">
-              <h2 id="questions-heading" className="font-serif text-xl font-bold text-white">
+            <div className="mb-6 border-b border-zinc-200 dark:border-zinc-800 pb-4">
+              <h2 id="questions-heading" className="font-serif text-xl font-bold text-zinc-900 dark:text-white">
                 The Questions Every Quran Student Should Ask
               </h2>
             </div>
             <div className="grid gap-4 sm:grid-cols-2">
-              <div className="rounded-xl border border-zinc-800 bg-zinc-900/30 p-5">
+              <div className="rounded-xl border border-zinc-200 dark:border-zinc-800 bg-zinc-50/80 dark:bg-zinc-900/30 p-5">
                 <p className="mb-3 text-[10px] font-medium uppercase tracking-[0.15em] text-[rgba(212,175,55,0.5)]">At the Surah Level</p>
-                <ul className="space-y-2 text-sm text-zinc-400">
+                <ul className="space-y-2 text-sm text-zinc-500 dark:text-zinc-600 dark:text-zinc-400">
                   {[
                     'What is the central thesis of this surah? (Amud)',
                     'What does the opening say? The closing? Do they echo each other?',
@@ -727,9 +727,9 @@ export default function UnderstandingQuranPage() {
                   ))}
                 </ul>
               </div>
-              <div className="rounded-xl border border-zinc-800 bg-zinc-900/30 p-5">
+              <div className="rounded-xl border border-zinc-200 dark:border-zinc-800 bg-zinc-50/80 dark:bg-zinc-900/30 p-5">
                 <p className="mb-3 text-[10px] font-medium uppercase tracking-[0.15em] text-[rgba(212,175,55,0.5)]">At the Ayah Level</p>
-                <ul className="space-y-2 text-sm text-zinc-400">
+                <ul className="space-y-2 text-sm text-zinc-500 dark:text-zinc-600 dark:text-zinc-400">
                   {[
                     'Why was THIS word chosen and not a simpler or more obvious word?',
                     'What is grammatically expected but absent here? Why?',
@@ -749,18 +749,18 @@ export default function UnderstandingQuranPage() {
           </section>
 
           {/* ── Ethics note ── */}
-          <section className="mt-10 rounded-xl border border-zinc-800/60 bg-zinc-900/30 p-6">
+          <section className="mt-10 rounded-xl border border-zinc-200/60 dark:border-zinc-200 dark:border-zinc-800/60 bg-zinc-50/80 dark:bg-zinc-900/30 p-6">
             <div className="mb-3 border-l-2 border-[rgba(212,175,55,0.4)] pl-4">
               <span className="font-amiri text-lg text-[rgba(212,175,55,0.7)]">أَدَب المُفَسِّر</span>
-              <h2 className="mt-0.5 font-serif text-base font-semibold text-white">The Right Approach: Ethics and Humility in Quran Study</h2>
+              <h2 className="mt-0.5 font-serif text-base font-semibold text-zinc-900 dark:text-white">The Right Approach: Ethics and Humility in Quran Study</h2>
             </div>
-            <p className="text-sm leading-relaxed text-zinc-400">
+            <p className="text-sm leading-relaxed text-zinc-500 dark:text-zinc-600 dark:text-zinc-400">
               The tools are keys. They are not the treasure. The danger of any analytical framework is
               that it can become a wall between you and the text — making you look <em>at</em> the Quran
               rather than be looked at <em>by</em> it. A reader who can identify every rhetorical device
               in a surah but is unmoved by it has learned about the Quran without receiving it.
             </p>
-            <p className="mt-3 text-sm leading-relaxed text-zinc-400">
+            <p className="mt-3 text-sm leading-relaxed text-zinc-500 dark:text-zinc-600 dark:text-zinc-400">
               For the non-specialist reader, adab al-mufassir translates into a few practical commitments:
               come to the text wanting to receive, not to confirm what you already think; treat the Arabic
               original as the text, and translations as approximations; hold your personal insights lightly,
@@ -774,12 +774,12 @@ export default function UnderstandingQuranPage() {
               <p className="font-amiri text-xl leading-loose text-[rgba(212,175,55,0.8)]">
                 أَفَلَا يَتَدَبَّرُونَ الْقُرْآنَ وَلَوْ كَانَ مِنْ عِندِ غَيْرِ اللَّهِ لَوَجَدُوا فِيهِ اخْتِلَافًا كَثِيرًا
               </p>
-              <p className="mt-2 text-sm italic text-zinc-500">
+              <p className="mt-2 text-sm italic text-zinc-500 dark:text-zinc-500 dark:text-zinc-500">
                 &ldquo;Do they not reflect deeply upon the Quran? If it had been from anyone other than Allah,
                 they would have found in it many contradictions.&rdquo; — Surah An-Nisa, 4:82
               </p>
             </blockquote>
-            <p className="text-sm leading-relaxed text-zinc-400">
+            <p className="text-sm leading-relaxed text-zinc-500 dark:text-zinc-600 dark:text-zinc-400">
               The tools in this guide are not academic curiosities. They are the means by which you can
               move from reading words to receiving speech — from processing information to being transformed
               by it. You began this study by opening a page. You will end it — if you carry these tools
@@ -789,11 +789,11 @@ export default function UnderstandingQuranPage() {
 
           {/* ── FAQ ── */}
           <section id="faq" aria-labelledby="faq-heading" className="mt-14">
-            <div className="mb-6 border-b border-zinc-800 pb-4">
-              <h2 id="faq-heading" className="font-serif text-xl font-bold text-white">
+            <div className="mb-6 border-b border-zinc-200 dark:border-zinc-800 pb-4">
+              <h2 id="faq-heading" className="font-serif text-xl font-bold text-zinc-900 dark:text-white">
                 Frequently Asked Questions
               </h2>
-              <p className="mt-1 text-sm text-zinc-500">
+              <p className="mt-1 text-sm text-zinc-500 dark:text-zinc-500 dark:text-zinc-500">
                 The most common questions when first encountering tafsir and tadabbur.
               </p>
             </div>
@@ -828,9 +828,9 @@ export default function UnderstandingQuranPage() {
                   a: 'Balaghah (Arabic rhetoric) is the science of eloquent, appropriate, and effective language. It contains three sub-disciplines: ilm al-ma\'ani (meaning through sentence structure), ilm al-bayan (figurative language), and ilm al-badi\' (stylistic devices). The Quran\'s inimitability (i\'jaz) is understood partly through its balaghah — operating at a level of linguistic precision and emotional power no human author has replicated.',
                 },
               ].map(({ q, a }, i) => (
-                <div key={i} className="rounded-xl border border-zinc-800/60 bg-zinc-900/20 p-5">
-                  <h3 className="mb-2 font-serif text-sm font-semibold text-white">{q}</h3>
-                  <p className="text-sm leading-relaxed text-zinc-400">{a}</p>
+                <div key={i} className="rounded-xl border border-zinc-200/60 dark:border-zinc-200 dark:border-zinc-800/60 bg-zinc-900/20 p-5">
+                  <h3 className="mb-2 font-serif text-sm font-semibold text-zinc-900 dark:text-white">{q}</h3>
+                  <p className="text-sm leading-relaxed text-zinc-500 dark:text-zinc-600 dark:text-zinc-400">{a}</p>
                 </div>
               ))}
             </div>
@@ -838,11 +838,11 @@ export default function UnderstandingQuranPage() {
 
           {/* ── Glossary ── */}
           <section id="glossary" aria-labelledby="glossary-heading" className="mt-14">
-            <div className="mb-6 border-b border-zinc-800 pb-4">
-              <h2 id="glossary-heading" className="font-serif text-xl font-bold text-white">
+            <div className="mb-6 border-b border-zinc-200 dark:border-zinc-800 pb-4">
+              <h2 id="glossary-heading" className="font-serif text-xl font-bold text-zinc-900 dark:text-white">
                 Glossary of Arabic Terms (A–Z)
               </h2>
-              <p className="mt-1 text-sm text-zinc-500">
+              <p className="mt-1 text-sm text-zinc-500 dark:text-zinc-500 dark:text-zinc-500">
                 All Arabic terms used in this guide, listed alphabetically by transliteration.
               </p>
             </div>
@@ -874,12 +874,12 @@ export default function UnderstandingQuranPage() {
                 { term: 'Tashbih', arabic: 'تشبيه', def: 'Simile — comparing two things using an explicit comparison word.' },
                 { term: 'Tibaq', arabic: 'طباق', def: 'Antithesis — pairing opposites to sharpen both sides.' },
               ].map(({ term, arabic, def }) => (
-                <div key={term} className="flex flex-col gap-0.5 border-b border-zinc-800/40 pb-3 sm:flex-row sm:gap-4">
+                <div key={term} className="flex flex-col gap-0.5 border-b border-zinc-200 dark:border-zinc-800/40 pb-3 sm:flex-row sm:gap-4">
                   <dt className="flex min-w-[220px] items-baseline gap-2 shrink-0">
-                    <span className="text-sm font-medium text-zinc-300">{term}</span>
+                    <span className="text-sm font-medium text-zinc-700 dark:text-zinc-300">{term}</span>
                     <span className="font-amiri text-sm text-[rgba(212,175,55,0.6)]">{arabic}</span>
                   </dt>
-                  <dd className="text-sm text-zinc-500">{def}</dd>
+                  <dd className="text-sm text-zinc-500 dark:text-zinc-500 dark:text-zinc-500">{def}</dd>
                 </div>
               ))}
             </dl>
@@ -888,8 +888,8 @@ export default function UnderstandingQuranPage() {
           {/* ── CTA ── */}
           <section className="mt-14 rounded-xl border border-[rgba(212,175,55,0.2)] bg-zinc-900/40 p-6 text-center">
             <p className="font-amiri text-lg text-[rgba(212,175,55,0.7)]">رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا</p>
-            <p className="mt-1 text-xs italic text-zinc-600">&ldquo;Our Lord, do not let our hearts deviate after You have guided us.&rdquo; (3:8)</p>
-            <p className="mx-auto mt-5 max-w-sm text-sm leading-relaxed text-zinc-400">
+            <p className="mt-1 text-xs italic text-zinc-500 dark:text-zinc-600">&ldquo;Our Lord, do not let our hearts deviate after You have guided us.&rdquo; (3:8)</p>
+            <p className="mx-auto mt-5 max-w-sm text-sm leading-relaxed text-zinc-500 dark:text-zinc-600 dark:text-zinc-400">
               AyahGuide is built for this kind of intentional reading. Explore deep reflections
               on individual surahs — grounded in tafsir, written for tadabbur.
             </p>
@@ -902,7 +902,7 @@ export default function UnderstandingQuranPage() {
               </Link>
               <Link
                 href="/#subscribe"
-                className="rounded-lg border border-zinc-700 px-5 py-2.5 text-sm text-zinc-400 transition-colors hover:border-zinc-600 hover:text-zinc-200"
+                className="rounded-lg border border-zinc-300 dark:border-zinc-700 px-5 py-2.5 text-sm text-zinc-500 dark:text-zinc-600 dark:text-zinc-400 transition-colors hover:border-zinc-600 hover:text-zinc-200"
               >
                 Get new reflections by email
               </Link>

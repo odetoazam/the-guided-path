@@ -4,6 +4,7 @@ import { ScrollReveal } from '@/components/ui/scroll-reveal'
 import { BookOpen, Mail } from 'lucide-react'
 import { NewsletterSignup } from '@/components/blog/newsletter-signup'
 import { Logo } from '@/components/ui/logo'
+import { NavLinks } from '@/components/ui/nav-links'
 import { CANONICAL_URL, SITE_NAME, SITE_DESCRIPTION } from '@/lib/constants'
 import type { Metadata } from 'next'
 
@@ -57,23 +58,12 @@ export default async function LandingPage() {
       <nav className="fixed top-0 z-50 w-full border-b border-zinc-200/10 bg-white/60 dark:bg-zinc-950/60 backdrop-blur-2xl">
         <div className="mx-auto flex max-w-6xl items-center justify-between px-6 py-4">
           <Logo />
-          <div className="flex items-center gap-4 sm:gap-6">
-            <Link
-              href="/surah"
-              className="text-sm text-zinc-500 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-white transition-colors"
-            >
-              Surahs
-            </Link>
-            <Link
-              href="/understanding-quran"
-              className="text-sm text-zinc-500 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-white transition-colors"
-            >
-              Understanding Quran
-            </Link>
+          <div className="flex items-center gap-1.5">
+            <NavLinks />
             <ThemeToggle />
             <Link
               href="#subscribe"
-              className="rounded-full bg-[#D4AF37] px-5 py-2 text-sm font-medium text-black hover:bg-[#B8960C] transition-colors"
+              className="ml-2 rounded-full bg-[#D4AF37] px-5 py-1.5 text-sm font-medium text-black hover:bg-[#B8960C] transition-colors"
             >
               Subscribe
             </Link>
