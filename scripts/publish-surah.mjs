@@ -41,6 +41,8 @@ function calculateReadingTime(html) {
 
 function mdToHtml(markdown) {
   let md = markdown
+    // Strip leading H1 title — the title is shown via post.title in the article header
+    .replace(/^#\s+.+\n+/, '')
     .replace(/\[PAUSE[^\]]*\]/g, '\n\n<div class="pause-marker">— ∙ —</div>\n\n')
     .replace(/\[Continuing[^\]]*\]/g, '');
   marked.setOptions({ breaks: false, gfm: true });

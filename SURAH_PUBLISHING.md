@@ -73,6 +73,11 @@ wanting deep engagement with this surah's meaning, structure, and spiritual impa
 - **tadabbur output:** Everything from `## Introduction` onwards
 - Strip nothing else — include all sections as generated
 
+### Title handling
+Do NOT include the `# Title` H1 line in `markdownContent`. The publish script strips
+any leading H1 automatically, and the title is already displayed via `post.title` in
+the article header. Start `markdownContent` from the first `##` section directly.
+
 ### What to exclude
 - Any internal audit tables (Step 0, Step 1, Step 2)
 - Any `[PAUSE]` markers are auto-converted to visual dividers by the publish script
