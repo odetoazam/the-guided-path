@@ -67,11 +67,12 @@ export default function EditPostPage() {
       }
 
       setPost(data)
+      const hasJson = data.content_json && Object.keys(data.content_json).length > 0
       setForm({
         title: data.title,
         slug: data.slug,
         excerpt: data.excerpt || '',
-        content_json: data.content_json,
+        content_json: hasJson ? data.content_json : data.content_html,
         content_html: data.content_html,
         featured_image: data.featured_image || '',
         tags: data.tags?.join(', ') || '',
