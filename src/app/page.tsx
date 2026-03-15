@@ -1,10 +1,9 @@
 import Link from 'next/link'
-import { ThemeToggle } from '@/components/ui/theme-toggle'
 import { ScrollReveal } from '@/components/ui/scroll-reveal'
 import { BookOpen, Mail } from 'lucide-react'
 import { NewsletterSignup } from '@/components/blog/newsletter-signup'
+import { SiteNav } from '@/components/ui/site-nav'
 import { Logo } from '@/components/ui/logo'
-import { NavLinks } from '@/components/ui/nav-links'
 import { CANONICAL_URL, SITE_NAME, SITE_DESCRIPTION } from '@/lib/constants'
 import type { Metadata } from 'next'
 
@@ -54,25 +53,10 @@ export default async function LandingPage() {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationJsonLd) }}
       />
     <div className="min-h-screen bg-white dark:bg-zinc-950">
-      {/* Navbar */}
-      <nav className="fixed top-0 z-50 w-full border-b border-zinc-200/10 bg-white/60 dark:bg-zinc-950/60 backdrop-blur-2xl">
-        <div className="mx-auto flex max-w-6xl items-center justify-between px-6 py-4">
-          <Logo />
-          <div className="flex items-center gap-1.5">
-            <NavLinks />
-            <ThemeToggle />
-            <Link
-              href="#subscribe"
-              className="ml-2 rounded-full bg-[#D4AF37] px-5 py-1.5 text-sm font-medium text-black hover:bg-[#B8960C] transition-colors"
-            >
-              Subscribe
-            </Link>
-          </div>
-        </div>
-      </nav>
+      <SiteNav />
 
       {/* Hero */}
-      <section className="relative flex min-h-screen items-center justify-center overflow-hidden px-6 pt-20">
+      <section className="relative flex min-h-screen items-center justify-center overflow-hidden px-6">
         {/* Conic gradient tessellation */}
         <div
           aria-hidden
