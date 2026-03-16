@@ -4,6 +4,8 @@ import { BookOpen, Mail } from 'lucide-react'
 import { NewsletterSignup } from '@/components/blog/newsletter-signup'
 import { SiteNav } from '@/components/ui/site-nav'
 import { Logo } from '@/components/ui/logo'
+import { SurahMapTeaser } from '@/components/surah/SurahMapTeaser'
+import { createClient } from '@/lib/supabase/server'
 import { CANONICAL_URL, SITE_NAME, SITE_DESCRIPTION } from '@/lib/constants'
 import type { Metadata } from 'next'
 
@@ -16,7 +18,23 @@ export const metadata: Metadata = {
   },
 }
 
+async function getPublishedSurahs(): Promise<number[]> {
+  try {
+    const supabase = await createClient()
+    const { data } = await supabase
+      .from('posts')
+      .select('surah_number')
+      .not('surah_number', 'is', null)
+      .eq('status', 'published')
+    return (data || []).map((row: { surah_number: number }) => row.surah_number)
+  } catch {
+    return []
+  }
+}
+
 export default async function LandingPage() {
+  const publishedSurahs = await getPublishedSurahs()
+
   const websiteJsonLd = {
     '@context': 'https://schema.org',
     '@type': 'WebSite',
@@ -91,6 +109,19 @@ export default async function LandingPage() {
             and timeless wisdom woven into every verse of the Quran.
           </p>
 
+          {/* Scholarly DNA */}
+          <div className="mt-5 flex flex-wrap items-center justify-center gap-x-2 gap-y-1 text-xs text-zinc-400 dark:text-cream/30">
+            <span>Grounded in classical tafsir</span>
+            <span aria-hidden className="text-zinc-300 dark:text-cream/20">·</span>
+            <span>Ibn Kathir</span>
+            <span aria-hidden className="text-zinc-300 dark:text-cream/20">·</span>
+            <span>Al-Tabari</span>
+            <span aria-hidden className="text-zinc-300 dark:text-cream/20">·</span>
+            <span>Al-Qurtubi</span>
+            <span aria-hidden className="text-zinc-300 dark:text-cream/20">·</span>
+            <span>Al-Zamakhshari</span>
+          </div>
+
           <div className="mt-10 flex flex-col items-center gap-4 sm:flex-row sm:justify-center">
             <Link
               href="#subscribe"
@@ -138,6 +169,9 @@ export default async function LandingPage() {
           </div>
         </div>
       </section>
+
+      {/* Surah Map Teaser */}
+      <SurahMapTeaser publishedSurahs={publishedSurahs} />
 
       {/* Subscribe Section */}
       <section id="subscribe" className="relative border-t border-zinc-200 dark:border-zinc-800/50 py-28 px-6">
