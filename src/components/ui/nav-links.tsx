@@ -22,15 +22,15 @@ export function NavLinks() {
             className={[
               'group relative rounded-full px-3.5 py-1.5 text-sm font-medium transition-all duration-200',
               isActive
-                ? 'text-[#D4AF37] bg-[rgba(212,175,55,0.10)]'
-                : 'text-zinc-500 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-white hover:bg-zinc-100 dark:hover:bg-zinc-800/60',
+                ? 'text-[#C9A84C] bg-[rgba(212,175,55,0.10)]'
+                : 'text-zinc-500 dark:text-cream/60 hover:text-navy dark:hover:text-cream hover:bg-zinc-100 dark:hover:bg-navy-medium/60',
             ].join(' ')}
           >
             {label}
             {/* animated gold underline on hover */}
             <span
               className={[
-                'absolute bottom-1.5 left-3.5 right-3.5 h-[1.5px] rounded-full bg-[#D4AF37]/60 transition-transform duration-300 ease-out origin-left',
+                'absolute bottom-1.5 left-3.5 right-3.5 h-[1.5px] rounded-full bg-[#C9A84C]/60 transition-transform duration-300 ease-out origin-left',
                 isActive ? 'scale-x-100' : 'scale-x-0 group-hover:scale-x-100',
               ].join(' ')}
             />

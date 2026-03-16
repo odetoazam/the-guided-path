@@ -16,7 +16,7 @@ export function SiteNav() {
   const [open, setOpen] = useState(false)
 
   return (
-    <nav className="sticky top-0 z-50 border-b border-zinc-200 dark:border-zinc-800 bg-white/80 dark:bg-zinc-950/80 backdrop-blur-xl">
+    <nav className="sticky top-0 z-50 border-b border-zinc-200 dark:border-navy-medium bg-white/80 dark:bg-navy-dark/80 backdrop-blur-xl">
       <div className="mx-auto flex max-w-6xl items-center justify-between px-6 py-3.5">
         <Logo />
 
@@ -31,15 +31,15 @@ export function SiteNav() {
                 className={[
                   'group relative rounded-full px-3.5 py-1.5 text-sm font-medium transition-all duration-200',
                   isActive
-                    ? 'text-[#D4AF37] bg-[rgba(212,175,55,0.10)]'
-                    : 'text-zinc-500 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-white hover:bg-zinc-100 dark:hover:bg-zinc-800/60',
+                    ? 'text-gold-500 bg-[rgba(201,168,76,0.10)]'
+                    : 'text-zinc-500 dark:text-cream/60 hover:text-navy dark:hover:text-cream hover:bg-zinc-100 dark:hover:bg-navy-medium/60',
                 ].join(' ')}
               >
                 {label}
                 <span
                   className={[
-                    'absolute bottom-1.5 left-3.5 right-3.5 h-[1.5px] rounded-full bg-[#D4AF37]/60 transition-transform duration-300 ease-out origin-left',
-                    isActive ? 'scale-x-100' : 'scale-x-0 group-hover:scale-x-100',
+                    'absolute bottom-1.5 left-3.5 right-3.5 h-[1.5px] rounded-full bg-gold-500/60 transition-transform duration-300 ease-out origin-left',
+                    isActive ? 'scale-x-100 bg-gold-500/60' : 'scale-x-0 group-hover:scale-x-100',
                   ].join(' ')}
                 />
               </Link>
@@ -48,7 +48,7 @@ export function SiteNav() {
           <ThemeToggle />
           <Link
             href="/#subscribe"
-            className="ml-2 rounded-full bg-[#D4AF37] px-4 py-1.5 text-sm font-medium text-black hover:bg-[#B8960C] transition-colors"
+            className="ml-2 rounded-full bg-gold-500 px-4 py-1.5 text-sm font-medium text-navy-dark hover:bg-gold-600 transition-colors"
           >
             Subscribe
           </Link>
@@ -60,7 +60,7 @@ export function SiteNav() {
           <button
             onClick={() => setOpen(o => !o)}
             aria-label="Toggle menu"
-            className="rounded-full p-2 text-zinc-500 dark:text-zinc-400 hover:bg-zinc-100 dark:hover:bg-zinc-800/60 transition-colors"
+            className="rounded-full p-2 text-zinc-500 dark:text-cream/60 hover:bg-zinc-100 dark:hover:bg-navy-medium/60 transition-colors"
           >
             {open ? (
               /* X icon */
@@ -82,7 +82,7 @@ export function SiteNav() {
 
       {/* Mobile dropdown */}
       {open && (
-        <div className="md:hidden border-t border-zinc-200 dark:border-zinc-800 bg-white/95 dark:bg-zinc-950/95 backdrop-blur-xl px-6 py-4 flex flex-col gap-1">
+        <div className="md:hidden border-t border-zinc-200 dark:border-navy-medium bg-white/95 dark:bg-navy-dark/95 backdrop-blur-xl px-6 py-4 flex flex-col gap-1">
           {links.map(({ href, label }) => {
             const isActive = pathname === href || pathname.startsWith(href + '/')
             return (
@@ -93,19 +93,19 @@ export function SiteNav() {
                 className={[
                   'rounded-xl px-4 py-3 text-sm font-medium transition-colors',
                   isActive
-                    ? 'text-[#D4AF37] bg-[rgba(212,175,55,0.10)]'
-                    : 'text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-white hover:bg-zinc-100 dark:hover:bg-zinc-800/60',
+                    ? 'text-gold-500 bg-[rgba(201,168,76,0.10)]'
+                    : 'text-zinc-600 dark:text-cream/60 hover:text-navy dark:hover:text-cream hover:bg-zinc-100 dark:hover:bg-navy-medium/60',
                 ].join(' ')}
               >
                 {label}
               </Link>
             )
           })}
-          <div className="pt-2 border-t border-zinc-100 dark:border-zinc-800 mt-1">
+          <div className="pt-2 border-t border-zinc-100 dark:border-navy-medium mt-1">
             <Link
               href="/#subscribe"
               onClick={() => setOpen(false)}
-              className="block rounded-full bg-[#D4AF37] px-4 py-2.5 text-sm font-medium text-black text-center hover:bg-[#B8960C] transition-colors"
+              className="block rounded-full bg-gold-500 px-4 py-2.5 text-sm font-medium text-navy-dark text-center hover:bg-gold-600 transition-colors"
             >
               Subscribe
             </Link>

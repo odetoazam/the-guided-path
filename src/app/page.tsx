@@ -52,7 +52,7 @@ export default async function LandingPage() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationJsonLd) }}
       />
-    <div className="min-h-screen bg-white dark:bg-zinc-950">
+    <div className="min-h-screen bg-white dark:bg-navy-dark">
       <SiteNav />
 
       {/* Hero */}
@@ -81,12 +81,12 @@ export default async function LandingPage() {
           </div>
 
           <h1 className="text-4xl font-bold leading-tight tracking-tight sm:text-5xl lg:text-6xl">
-            <span className="text-zinc-900 dark:text-white">Appreciate Quranic depths</span>
+            <span className="text-navy dark:text-cream">Appreciate Quranic depths</span>
             <br />
             <span className="text-gold-gradient">like never before</span>
           </h1>
 
-          <p className="mx-auto mt-6 max-w-2xl text-lg text-zinc-500 dark:text-zinc-400 leading-relaxed">
+          <p className="mx-auto mt-6 max-w-2xl text-lg text-zinc-500 dark:text-cream/60 leading-relaxed">
             Go beyond translation into the layered meanings, linguistic beauty,
             and timeless wisdom woven into every verse of the Quran.
           </p>
@@ -94,14 +94,14 @@ export default async function LandingPage() {
           <div className="mt-10 flex flex-col items-center gap-4 sm:flex-row sm:justify-center">
             <Link
               href="#subscribe"
-              className="inline-flex items-center gap-2 rounded-full bg-[#D4AF37] px-8 py-3.5 text-base font-semibold text-black hover:bg-[#B8960C] transition-colors shadow-lg shadow-gold-500/20"
+              className="inline-flex items-center gap-2 rounded-full bg-gold-500 px-8 py-3.5 text-base font-semibold text-navy-dark hover:bg-gold-600 transition-colors shadow-lg shadow-gold-500/20"
             >
               <Mail className="h-5 w-5" />
               Begin the Journey
             </Link>
             <Link
               href="/surah"
-              className="inline-flex items-center gap-2 rounded-full border border-zinc-300 dark:border-zinc-700 px-8 py-3.5 text-base font-medium text-zinc-700 dark:text-zinc-300 hover:bg-zinc-100 dark:hover:bg-zinc-900 transition-colors"
+              className="inline-flex items-center gap-2 rounded-full border border-zinc-300 dark:border-navy-light/40 px-8 py-3.5 text-base font-medium text-navy dark:text-cream/80 hover:bg-zinc-100 dark:hover:bg-navy-medium/50 transition-colors"
             >
               <BookOpen className="h-5 w-5" />
               Explore Surahs
@@ -109,17 +109,17 @@ export default async function LandingPage() {
           </div>
 
           {/* Free guide hint */}
-          <p className="mt-5 text-sm text-zinc-400 dark:text-zinc-500">
+          <p className="mt-5 text-sm text-zinc-400 dark:text-cream/40">
             ✦ Free guide for new subscribers —{' '}
-            <Link href="#subscribe" className="underline underline-offset-2 text-[#D4AF37]/70 hover:text-[#D4AF37] transition-colors">
+            <Link href="#subscribe" className="underline underline-offset-2 text-[#C9A84C]/70 hover:text-[#C9A84C] transition-colors">
               A Practical Guide to Tafsir &amp; Tadabbur
             </Link>
           </p>
 
           {/* Geometric star divider */}
           <div className="mt-16 flex items-center justify-center gap-3">
-            <div className="h-px w-12 bg-gradient-to-r from-transparent to-[#D4AF37]/30" />
-            <svg width="24" height="24" viewBox="0 0 24 24" aria-hidden className="text-[#D4AF37]/30">
+            <div className="h-px w-12 bg-gradient-to-r from-transparent to-[#C9A84C]/30" />
+            <svg width="24" height="24" viewBox="0 0 24 24" aria-hidden className="text-[#C9A84C]/30">
               <polygon
                 points="12,2 14.5,8.5 21.5,9 16,13.5 17.5,21 12,17 6.5,21 8,13.5 2.5,9 9.5,8.5"
                 fill="none"
@@ -128,7 +128,7 @@ export default async function LandingPage() {
               />
               <circle cx="12" cy="12" r="2.5" fill="none" stroke="currentColor" strokeWidth="0.6" strokeOpacity="0.5" />
             </svg>
-            <div className="h-px w-12 bg-gradient-to-l from-transparent to-[#D4AF37]/30" />
+            <div className="h-px w-12 bg-gradient-to-l from-transparent to-[#C9A84C]/30" />
           </div>
 
           {/* Scroll indicator */}
@@ -151,27 +151,27 @@ export default async function LandingPage() {
               ﷽
             </div>
 
-            <h2 className="text-3xl font-bold text-zinc-900 dark:text-white sm:text-4xl">
+            <h2 className="text-3xl font-bold text-navy dark:text-cream sm:text-4xl">
               An invitation to journey deeper
             </h2>
-            <p className="mt-4 text-zinc-500 dark:text-zinc-400 leading-relaxed">
+            <p className="mt-4 text-zinc-500 dark:text-cream/60 leading-relaxed">
               Receive Quranic insights in your inbox periodically.
             </p>
           </ScrollReveal>
 
           {/* Free guide offer */}
           <ScrollReveal delay={100}>
-            <div className="mt-10 rounded-2xl border border-[#D4AF37]/20 bg-[#D4AF37]/[0.04] px-6 py-6 text-left">
+            <div className="mt-10 rounded-2xl border border-[#C9A84C]/20 bg-[#C9A84C]/[0.04] px-6 py-6 text-left">
               <div className="flex items-start gap-4">
-                <div className="flex-shrink-0 rounded-xl border border-[#D4AF37]/20 bg-[#D4AF37]/10 p-3">
-                  <BookOpen className="h-6 w-6 text-[#D4AF37]" />
+                <div className="flex-shrink-0 rounded-xl border border-[#C9A84C]/20 bg-[#C9A84C]/10 p-3">
+                  <BookOpen className="h-6 w-6 text-[#C9A84C]" />
                 </div>
                 <div>
-                  <p className="text-xs font-semibold uppercase tracking-widest text-[#D4AF37]/60">Free when you subscribe</p>
-                  <p className="mt-1 font-serif text-base font-semibold text-zinc-900 dark:text-white">
+                  <p className="text-xs font-semibold uppercase tracking-widest text-[#C9A84C]/60">Free when you subscribe</p>
+                  <p className="mt-1 font-serif text-base font-semibold text-navy dark:text-cream">
                     A Practical Guide to Tafsir &amp; Tadabbur
                   </p>
-                  <p className="mt-1.5 text-sm text-zinc-500 dark:text-zinc-400 leading-relaxed">
+                  <p className="mt-1.5 text-sm text-zinc-500 dark:text-cream/60 leading-relaxed">
                     A concise guide to reading the Quran with depth — covering the classical tools of tafsir and how to make tadabbur a living practice.
                   </p>
                 </div>
@@ -183,7 +183,7 @@ export default async function LandingPage() {
             <div className="mt-6">
               <NewsletterSignup />
             </div>
-            <p className="mt-4 text-xs text-zinc-400 dark:text-zinc-500">
+            <p className="mt-4 text-xs text-zinc-400 dark:text-cream/40">
               No spam, ever. Unsubscribe with a single click.
             </p>
           </ScrollReveal>
@@ -195,19 +195,19 @@ export default async function LandingPage() {
         <div className="mx-auto max-w-6xl flex flex-col items-center gap-6">
           <Logo />
 
-          <div className="flex items-center gap-6 text-sm text-zinc-400">
-            <Link href="/surah" className="hover:text-zinc-900 dark:hover:text-white transition-colors">
+          <div className="flex items-center gap-6 text-sm text-zinc-400 dark:text-cream/40">
+            <Link href="/surah" className="hover:text-navy dark:hover:text-cream transition-colors">
               Surahs
             </Link>
-            <Link href="/understanding-quran" className="hover:text-zinc-900 dark:hover:text-white transition-colors">
+            <Link href="/understanding-quran" className="hover:text-navy dark:hover:text-cream transition-colors">
               Understanding Quran
             </Link>
-            <Link href="#subscribe" className="hover:text-zinc-900 dark:hover:text-white transition-colors">
+            <Link href="#subscribe" className="hover:text-navy dark:hover:text-cream transition-colors">
               Subscribe
             </Link>
           </div>
 
-          <svg width="16" height="16" viewBox="0 0 24 24" aria-hidden className="text-[#D4AF37]/20">
+          <svg width="16" height="16" viewBox="0 0 24 24" aria-hidden className="text-[#C9A84C]/20">
             <polygon
               points="12,2 14.5,8.5 21.5,9 16,13.5 17.5,21 12,17 6.5,21 8,13.5 2.5,9 9.5,8.5"
               fill="none"
@@ -216,7 +216,7 @@ export default async function LandingPage() {
             />
           </svg>
 
-          <p className="text-xs text-zinc-400 dark:text-zinc-500">
+          <p className="text-xs text-zinc-400 dark:text-cream/40">
             &copy; {new Date().getFullYear()} AyahGuide. All rights reserved.
           </p>
         </div>

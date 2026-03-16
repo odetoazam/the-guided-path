@@ -10,7 +10,7 @@
 
 @layer base {
   body {
-    @apply bg-white text-zinc-900 dark:bg-zinc-950 dark:text-zinc-100;
+    @apply bg-white text-navy dark:bg-navy-dark dark:text-cream;
     font-family: 'Inter', system-ui, sans-serif;
   }
 

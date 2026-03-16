@@ -244,7 +244,7 @@ export function SurahMap({ publishedSurahs }: { publishedSurahs: number[] }) {
   return (
     <>
       {/* Search + filter */}
-      <div className="sticky top-0 z-30 border-b border-zinc-800 bg-zinc-950/92 px-4 py-3 backdrop-blur-md">
+      <div className="sticky top-0 z-30 border-b border-navy-medium bg-navy-dark/92 px-4 py-3 backdrop-blur-md">
         <div className="mx-auto flex max-w-3xl flex-col gap-2 sm:flex-row sm:items-center sm:gap-3">
           <div className="relative flex-1">
             <svg className="pointer-events-none absolute left-3 top-1/2 -translate-y-1/2 text-zinc-500"

@@ -151,7 +151,7 @@ export default function UnderstandingQuranPage() {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 
-      <div className="min-h-screen bg-white dark:bg-zinc-950">
+      <div className="min-h-screen bg-white dark:bg-navy-dark">
 
         {/* ── Hero ──────────────────────────────────────────────────────────── */}
         <div className="mx-auto max-w-3xl px-5 pb-10 pt-10">

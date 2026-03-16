@@ -43,13 +43,13 @@ export default async function SurahsPage() {
   const publishedSurahs = await getPublishedSurahs()
 
   return (
-    <div className="min-h-screen bg-zinc-950">
+    <div className="min-h-screen bg-navy-dark">
       {/* Page header */}
       <div className="mx-auto max-w-3xl px-5 pt-10 pb-6 text-center">
-        <h1 className="font-serif text-2xl font-bold text-white sm:text-3xl">
+        <h1 className="font-serif text-2xl font-bold text-cream sm:text-3xl">
           The Surah Map
         </h1>
-        <p className="mt-2 text-sm text-zinc-500">
+        <p className="mt-2 text-sm text-cream/40">
           All 114 surahs of the Quran — explore reflections on each chapter
         </p>
       </div>

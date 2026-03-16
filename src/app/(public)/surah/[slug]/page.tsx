@@ -95,7 +95,7 @@ export default async function SurahDetailPage({ params }: Props) {
   const contentHtml = post?.content_html?.replace(/^<h1[^>]*>.*?<\/h1>\s*/i, '') || ''
 
   return (
-    <div className="min-h-screen bg-white dark:bg-zinc-950 text-zinc-900 dark:text-white">
+    <div className="min-h-screen bg-white dark:bg-navy-dark text-navy dark:text-cream">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
@@ -236,9 +236,9 @@ export default async function SurahDetailPage({ params }: Props) {
                 )}
               </div>
               <div className="mt-8 flex items-center gap-4">
-                <div className="h-px flex-1 bg-gradient-to-r from-transparent via-[#D4AF37]/30 to-transparent" />
-                <span className="text-[#D4AF37]/50 text-sm">۞</span>
-                <div className="h-px flex-1 bg-gradient-to-r from-transparent via-[#D4AF37]/30 to-transparent" />
+                <div className="h-px flex-1 bg-gradient-to-r from-transparent via-[#C9A84C]/30 to-transparent" />
+                <span className="text-[#C9A84C]/50 text-sm">۞</span>
+                <div className="h-px flex-1 bg-gradient-to-r from-transparent via-[#C9A84C]/30 to-transparent" />
               </div>
             </header>
 
@@ -257,9 +257,9 @@ export default async function SurahDetailPage({ params }: Props) {
 
             {/* Bottom divider */}
             <div className="mt-12 flex items-center gap-4">
-              <div className="h-px flex-1 bg-gradient-to-r from-transparent via-[#D4AF37]/30 to-transparent" />
-              <span className="text-[#D4AF37]/50 text-sm">۞</span>
-              <div className="h-px flex-1 bg-gradient-to-r from-transparent via-[#D4AF37]/30 to-transparent" />
+              <div className="h-px flex-1 bg-gradient-to-r from-transparent via-[#C9A84C]/30 to-transparent" />
+              <span className="text-[#C9A84C]/50 text-sm">۞</span>
+              <div className="h-px flex-1 bg-gradient-to-r from-transparent via-[#C9A84C]/30 to-transparent" />
             </div>
 
             {/* Share */}
@@ -269,7 +269,7 @@ export default async function SurahDetailPage({ params }: Props) {
                 href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(post.title)}&url=${encodeURIComponent(pageUrl)}`}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="text-zinc-400 hover:text-[#D4AF37] transition-colors font-medium"
+                className="text-zinc-400 hover:text-[#C9A84C] transition-colors font-medium"
               >
                 Twitter/X
               </a>
@@ -277,13 +277,13 @@ export default async function SurahDetailPage({ params }: Props) {
                 href={`https://wa.me/?text=${encodeURIComponent(`${post.title} — ${pageUrl}`)}`}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="text-zinc-400 hover:text-[#D4AF37] transition-colors font-medium"
+                className="text-zinc-400 hover:text-[#C9A84C] transition-colors font-medium"
               >
                 WhatsApp
               </a>
               <a
                 href={`mailto:?subject=${encodeURIComponent(post.title)}&body=${encodeURIComponent(`Check out this reflection: ${pageUrl}`)}`}
-                className="text-zinc-400 hover:text-[#D4AF37] transition-colors font-medium"
+                className="text-zinc-400 hover:text-[#C9A84C] transition-colors font-medium"
               >
                 Email
               </a>
@@ -291,7 +291,7 @@ export default async function SurahDetailPage({ params }: Props) {
 
             {/* Newsletter CTA */}
             <div className="mt-14 rounded-2xl border border-zinc-200 dark:border-zinc-800 bg-zinc-100/50 dark:bg-zinc-900/30 p-8 sm:p-10 text-center">
-              <p className="text-[#D4AF37]/60 text-sm mb-3">۞</p>
+              <p className="text-[#C9A84C]/60 text-sm mb-3">۞</p>
               <h3 className="font-serif text-2xl font-bold text-zinc-900 dark:text-white">
                 Enjoyed this reflection?
               </h3>
