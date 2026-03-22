@@ -4,7 +4,7 @@ import Link from 'next/link'
 import { usePathname } from 'next/navigation'
 
 const links = [
-  { href: '/surah', label: 'Surahs' },
+  { href: '/surahs', label: 'Surahs' },
   { href: '/understanding-quran', label: 'Understanding Quran' },
 ]
 

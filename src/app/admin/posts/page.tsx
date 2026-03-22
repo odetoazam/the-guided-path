@@ -192,7 +192,7 @@ export default function PostsPage() {
                   </Button>
                 </Link>
                 {post.status === 'published' && (
-                  <Link href={post.surah_number ? `/surah/${surahSlug(SURAHS[post.surah_number - 1].nameEn)}` : `/posts/${post.slug}`} target="_blank">
+                  <Link href={post.surah_number ? `/surahs/${surahSlug(SURAHS[post.surah_number - 1].nameEn)}` : `/posts/${post.slug}`} target="_blank">
                     <Button variant="ghost" size="sm" title="View">
                       <Eye className="h-4 w-4" />
                     </Button>

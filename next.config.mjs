@@ -1,5 +1,19 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  async redirects() {
+    return [
+      {
+        source: '/surah',
+        destination: '/surahs',
+        permanent: true,
+      },
+      {
+        source: '/surah/:slug',
+        destination: '/surahs/:slug',
+        permanent: true,
+      },
+    ]
+  },
   async headers() {
     return [
       {

@@ -131,7 +131,7 @@ export default async function LandingPage() {
               Begin the Journey
             </Link>
             <Link
-              href="/surah"
+              href="/surahs"
               className="inline-flex items-center gap-2 rounded-full border border-zinc-300 dark:border-navy-light/40 px-8 py-3.5 text-base font-medium text-navy dark:text-cream/80 hover:bg-zinc-100 dark:hover:bg-navy-medium/50 transition-colors"
             >
               <BookOpen className="h-5 w-5" />
@@ -230,7 +230,7 @@ export default async function LandingPage() {
           <Logo />
 
           <div className="flex items-center gap-6 text-sm text-zinc-400 dark:text-cream/40">
-            <Link href="/surah" className="hover:text-navy dark:hover:text-cream transition-colors">
+            <Link href="/surahs" className="hover:text-navy dark:hover:text-cream transition-colors">
               Surahs
             </Link>
             <Link href="/understanding-quran" className="hover:text-navy dark:hover:text-cream transition-colors">

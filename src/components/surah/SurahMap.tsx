@@ -194,7 +194,7 @@ function SurahRow({ surah, published }: { surah: SurahMeta; published: boolean }
   if (published) {
     return (
       <Link
-        href={`/surah/${surahSlug(surah.nameEn)}`}
+        href={`/surahs/${surahSlug(surah.nameEn)}`}
         className={`group ${baseClasses} hover:border-zinc-700/60`}
         style={{ minHeight: `${cfg.minH}px` }}
       >

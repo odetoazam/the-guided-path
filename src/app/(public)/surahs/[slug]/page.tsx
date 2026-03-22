@@ -38,7 +38,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
   const n = surah.n
   const post = await getSurahPost(n)
-  const pageUrl = `${CANONICAL_URL}/surah/${slug}`
+  const pageUrl = `${CANONICAL_URL}/surahs/${slug}`
 
   const title = post?.seo_title || `Surah ${surah.nameEn} (${surah.nameAr}) — Reflections & Analysis`
   const description = post?.seo_description || post?.excerpt ||
@@ -80,14 +80,14 @@ export default async function SurahDetailPage({ params }: Props) {
 
   const glowColor = `hsla(${id.hue},${id.sat}%,${id.lightness}%,`
   const accentColor = `hsl(${id.hue},${id.sat}%,${id.lightness + 18}%)`
-  const pageUrl = `${CANONICAL_URL}/surah/${slug}`
+  const pageUrl = `${CANONICAL_URL}/surahs/${slug}`
 
   const breadcrumbJsonLd = {
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
     itemListElement: [
       { '@type': 'ListItem', position: 1, name: 'Home', item: CANONICAL_URL },
-      { '@type': 'ListItem', position: 2, name: 'Surahs', item: `${CANONICAL_URL}/surah` },
+      { '@type': 'ListItem', position: 2, name: 'Surahs', item: `${CANONICAL_URL}/surahs` },
       { '@type': 'ListItem', position: 3, name: `Surah ${surah.nameEn}`, item: pageUrl },
     ],
   }
@@ -121,7 +121,7 @@ export default async function SurahDetailPage({ params }: Props) {
         <div className="relative z-10 mx-auto max-w-3xl px-5 py-16 text-center">
           {/* Back link */}
           <Link
-            href="/surah"
+            href="/surahs"
             className="inline-flex items-center gap-1.5 text-xs text-white/35 transition hover:text-white/60"
           >
             <ArrowLeft className="h-3 w-3" />
@@ -337,7 +337,7 @@ export default async function SurahDetailPage({ params }: Props) {
           <div>
             {prev ? (
               <Link
-                href={`/surah/${surahSlug(prev.nameEn)}`}
+                href={`/surahs/${surahSlug(prev.nameEn)}`}
                 className="group flex flex-col gap-1 rounded-xl border border-zinc-200 dark:border-white/[0.06] bg-zinc-50 dark:bg-white/[0.02]
                            p-4 transition hover:border-zinc-300 dark:hover:border-white/10 hover:bg-zinc-100 dark:hover:bg-white/[0.04]"
               >
@@ -366,7 +366,7 @@ export default async function SurahDetailPage({ params }: Props) {
           <div className="flex justify-end">
             {next ? (
               <Link
-                href={`/surah/${surahSlug(next.nameEn)}`}
+                href={`/surahs/${surahSlug(next.nameEn)}`}
                 className="group flex flex-col items-end gap-1 rounded-xl border border-zinc-200 dark:border-white/[0.06] bg-zinc-50 dark:bg-white/[0.02]
                            p-4 transition hover:border-zinc-300 dark:hover:border-white/10 hover:bg-zinc-100 dark:hover:bg-white/[0.04] w-full text-right"
               >

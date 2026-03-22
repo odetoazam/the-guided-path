@@ -12,7 +12,7 @@ export default function PublicLayout({ children }: { children: React.ReactNode }
         <div className="mx-auto max-w-6xl flex flex-col items-center justify-between gap-4 sm:flex-row">
           <p className="text-sm text-zinc-500 dark:text-cream/40">&copy; {new Date().getFullYear()} AyahGuide</p>
           <div className="flex gap-6 text-sm text-zinc-500 dark:text-cream/40">
-            <Link href="/surah" className="hover:text-navy dark:hover:text-cream">Surahs</Link>
+            <Link href="/surahs" className="hover:text-navy dark:hover:text-cream">Surahs</Link>
             <Link href="/understanding-quran" className="hover:text-navy dark:hover:text-cream">Understanding Quran</Link>
             <Link href="/posts" className="hover:text-navy dark:hover:text-cream">Posts</Link>
             <Link href="/#subscribe" className="hover:text-navy dark:hover:text-cream">Subscribe</Link>

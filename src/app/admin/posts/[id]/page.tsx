@@ -231,7 +231,7 @@ export default function EditPostPage() {
             <Trash2 className="h-4 w-4" />
           </Button>
           {form.status === 'published' && (
-            <Link href={form.surah_number ? `/surah/${surahSlug(SURAHS[form.surah_number - 1].nameEn)}` : `/posts/${form.slug}`} target="_blank">
+            <Link href={form.surah_number ? `/surahs/${surahSlug(SURAHS[form.surah_number - 1].nameEn)}` : `/posts/${form.slug}`} target="_blank">
               <Button variant="outline" size="sm">
                 <Eye className="mr-2 h-4 w-4" /> View
               </Button>
@@ -303,7 +303,7 @@ export default function EditPostPage() {
 
       <div className="flex items-center gap-2 text-sm text-zinc-400">
         {form.surah_number ? (
-          <span className="text-zinc-500">/surah/{surahSlug(SURAHS[form.surah_number - 1].nameEn)}</span>
+          <span className="text-zinc-500">/surahs/{surahSlug(SURAHS[form.surah_number - 1].nameEn)}</span>
         ) : (
           <>
             <span>/posts/</span>

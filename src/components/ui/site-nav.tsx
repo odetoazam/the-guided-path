@@ -7,7 +7,7 @@ import { Logo } from '@/components/ui/logo'
 import { ThemeToggle } from '@/components/ui/theme-toggle'
 
 const links = [
-  { href: '/surah', label: 'Surahs' },
+  { href: '/surahs', label: 'Surahs' },
   { href: '/understanding-quran', label: 'Understanding Quran' },
 ]
 

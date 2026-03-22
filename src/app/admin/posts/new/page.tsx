@@ -251,7 +251,7 @@ export default function NewPostPage() {
       {/* Slug */}
       <div className="flex items-center gap-2 text-sm text-zinc-400">
         {form.surah_number ? (
-          <span className="text-zinc-500">/surah/{surahSlug(SURAHS[form.surah_number - 1].nameEn)}</span>
+          <span className="text-zinc-500">/surahs/{surahSlug(SURAHS[form.surah_number - 1].nameEn)}</span>
         ) : (
           <>
             <span>/posts/</span>
