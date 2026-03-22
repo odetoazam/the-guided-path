@@ -229,12 +229,18 @@ export default async function LandingPage() {
         <div className="mx-auto max-w-6xl flex flex-col items-center gap-6">
           <Logo />
 
-          <div className="flex items-center gap-6 text-sm text-zinc-400 dark:text-cream/40">
+          <div className="flex flex-wrap justify-center items-center gap-6 text-sm text-zinc-400 dark:text-cream/40">
             <Link href="/surahs" className="hover:text-navy dark:hover:text-cream transition-colors">
               Surahs
             </Link>
+            <Link href="/glossary" className="hover:text-navy dark:hover:text-cream transition-colors">
+              Glossary
+            </Link>
             <Link href="/understanding-quran" className="hover:text-navy dark:hover:text-cream transition-colors">
               Understanding Quran
+            </Link>
+            <Link href="/posts" className="hover:text-navy dark:hover:text-cream transition-colors">
+              Posts
             </Link>
             <Link href="#subscribe" className="hover:text-navy dark:hover:text-cream transition-colors">
               Subscribe
