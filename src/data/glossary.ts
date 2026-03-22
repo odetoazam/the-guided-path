@@ -132,13 +132,13 @@ export const GLOSSARY_TERMS: GlossaryMeta[] = [
 
   // The Unseen
   { slug: 'barzakh',   term: 'بَرْزَخ',          transliteration: 'Barzakh',      category: 'The Unseen',          evocativeLine: 'The barrier between two worlds — where the departed now dwell.',       hasFullEntry: true  },
-  { slug: 'mizan',     term: 'مِيزَان',          transliteration: 'Mizan',        category: 'The Unseen',          evocativeLine: 'The scale on which deeds weigh more than mountains.',                  hasFullEntry: false },
+  { slug: 'mizan',     term: 'مِيزَان',          transliteration: 'Mizan',        category: 'The Unseen',          evocativeLine: 'The scale on which deeds weigh more than mountains.',                  hasFullEntry: true  },
   { slug: 'jannah',    term: 'جَنَّة',           transliteration: 'Jannah',       category: 'The Unseen',          evocativeLine: 'The garden — a word that carries moisture, shade, and promise.',       hasFullEntry: true  },
-  { slug: 'jahannam',  term: 'جَهَنَّم',         transliteration: 'Jahannam',     category: 'The Unseen',          evocativeLine: 'The fire whose true nature is beyond imagination.',                     hasFullEntry: false },
+  { slug: 'jahannam',  term: 'جَهَنَّم',         transliteration: 'Jahannam',     category: 'The Unseen',          evocativeLine: 'The fire whose true nature is beyond imagination.',                     hasFullEntry: true  },
   { slug: 'al-ghayb',  term: 'ٱلْغَيْب',         transliteration: 'Al-Ghayb',    category: 'The Unseen',          evocativeLine: 'The unseen realm — the first quality the Quran asks us to believe in.',  hasFullEntry: true  },
 
   // Quranic Characters
-  { slug: 'maryam',          term: 'مَرْيَم',           transliteration: 'Maryam',        category: 'Quranic Characters', evocativeLine: 'The only woman named by name in the Quran — and her own surah.',      hasFullEntry: false },
+  { slug: 'maryam',          term: 'مَرْيَم',           transliteration: 'Maryam',        category: 'Quranic Characters', evocativeLine: 'The only woman named by name in the Quran — and her own surah.',      hasFullEntry: true  },
   { slug: 'luqman',          term: 'لُقْمَان',          transliteration: 'Luqman',        category: 'Quranic Characters', evocativeLine: 'The wise man who taught his son by talking, not commanding.',         hasFullEntry: false },
   { slug: 'dhul-qarnayn',    term: 'ذُو ٱلْقَرْنَيْن', transliteration: "Dhul-Qarnayn",  category: 'Quranic Characters', evocativeLine: 'The one of two epochs — a sovereign who served rather than ruled.',    hasFullEntry: false },
   { slug: 'ayyub',           term: 'أَيُّوب',           transliteration: 'Ayyub',         category: 'Quranic Characters', evocativeLine: "Affliction beyond measure — and a faith that didn't flinch.",          hasFullEntry: false },
@@ -153,8 +153,8 @@ export const GLOSSARY_TERMS: GlossaryMeta[] = [
   { slug: 'tafsir',          term: 'تَفْسِير',           transliteration: 'Tafsir',        category: 'Study Terms', evocativeLine: 'The science of uncovering what the Quran means — layer by layer.',     hasFullEntry: true  },
   { slug: 'tadabbur',        term: 'تَدَبُّر',           transliteration: 'Tadabbur',      category: 'Study Terms', evocativeLine: "To ponder deeply — the Quran's own word for how it wants to be read.", hasFullEntry: true  },
   { slug: 'nazm',            term: 'نَظْم',              transliteration: 'Nazm',          category: 'Study Terms', evocativeLine: 'The hidden architecture of the Quran — the coherence beneath the surface.', hasFullEntry: true  },
-  { slug: 'ijaz',            term: 'إِعْجَاز',           transliteration: "I'jaz",         category: 'Study Terms', evocativeLine: "The Quran's inimitability — the challenge that has never been met.",    hasFullEntry: false },
-  { slug: 'asbab-al-nuzul',  term: 'أَسْبَاب ٱلنُّزُول', transliteration: 'Asbab al-Nuzul', category: 'Study Terms', evocativeLine: 'The occasions of revelation — the moments that gave the verses their first breath.', hasFullEntry: false },
+  { slug: 'ijaz',            term: 'إِعْجَاز',           transliteration: "I'jaz",         category: 'Study Terms', evocativeLine: "The Quran's inimitability — the challenge that has never been met.",    hasFullEntry: true  },
+  { slug: 'asbab-al-nuzul',  term: 'أَسْبَاب ٱلنُّزُول', transliteration: 'Asbab al-Nuzul', category: 'Study Terms', evocativeLine: 'The occasions of revelation — the moments that gave the verses their first breath.', hasFullEntry: true  },
 ]
 
 // ── Full entries ──────────────────────────────────────────────────────────────
@@ -1675,6 +1675,549 @@ What remains uniquely Islamic about the doctrine of nazm is its theological clai
     goDeeper: [
       { slug: 'al-baqarah', surahName: 'Al-Baqarah', note: "The longest surah and the most extensively studied for nazm — Islahi's analysis of its seven sections and central theme of guidance is a masterclass in the discipline." },
       { slug: 'al-kahf', surahName: 'Al-Kahf', note: "Famous for its four chiastic narrative cycles (Cave, Two Gardens, Moses and Khidr, Dhul-Qarnayn) arranged around a central axis — one of the most studied examples of large-scale Quranic structure." },
+    ],
+  },
+
+  // ─────────────────────────────────────────────────────────────────────────────
+  // MIZAN
+  // ─────────────────────────────────────────────────────────────────────────────
+
+  mizan: {
+    slug: 'mizan',
+    term: 'مِيزَان',
+    transliteration: 'Mizan',
+    pronunciation: "mee-ZAAN · stress on second syllable · long 'aa' at the end",
+    category: 'The Unseen',
+    evocativeLine: 'The scale on which deeds weigh more than mountains.',
+    hasFullEntry: true,
+
+    summary:
+      "Al-Mizan is the Scale — the instrument of divine justice on the Day of Resurrection. The Quran mentions it to assert a fundamental theological claim: the accounting of the afterlife is not arbitrary. Deeds have weight. Actions have consequences that are real, measurable, and recorded. The Quran does not specify the mizan's mechanism — it is from al-ghayb — but its function is clear: to make manifest what was hidden in the world, so that nothing unjust passes and nothing righteous goes unrecognised. A single word of sincere praise can outweigh a mountain's worth of negligence.",
+
+    root: {
+      letters: 'و-ز-ن',
+      transliteration: 'wāw-zāy-nūn',
+      meaning: 'To weigh, to measure, to balance',
+      elaboration:
+        "The root و-ز-ن gives us wazn (weight), wazana (to weigh), and mizan (the scale — the instrument of weighing). The same root appears in the Quran's call to give full measure in trade (11:85) — the mizan of commerce and the mizan of the Day are connected: Allah who demands honest scales in the market is the same Allah who holds the perfect scale at judgment. The plural form mawazin (scales) appears in key passages describing the Day, suggesting not a single weighing but a full accounting.",
+    },
+
+    occurrenceCount: 23,
+    occurrenceNote: "The root و-ز-ن and its forms — including mizan, mawazin, and wazana — appear approximately 23 times in the Quran, spanning both worldly contexts (trade, balance in creation) and eschatological ones (the Day of Judgment).",
+
+    rootForms: [
+      { arabic: 'مِيزَان',  transliteration: 'mīzān',   type: 'Noun — instrument',     meaning: '"The scale / balance" — the instrument of weighing',        approxCount: 9, verified: false },
+      { arabic: 'مَوَازِين', transliteration: 'mawāzīn', type: 'Noun — plural',          meaning: '"The scales" — the complete weighing on the Day',           approxCount: 7, verified: false },
+      { arabic: 'وَزَنَ',   transliteration: 'wazana',  type: 'Verb — Perfect',        meaning: '"He weighed" — the act of measuring',                       approxCount: 2, verified: false },
+      { arabic: 'وَزْن',    transliteration: 'wazn',    type: 'Verbal noun',           meaning: '"Weight / measure" — the quality of having substance',      approxCount: 3, verified: false },
+      { arabic: 'ثَقُلَت',  transliteration: 'thaqulat', type: 'Verb (related context)', meaning: '"It became heavy" — used for scales that tip heavy with good deeds', approxCount: 2, verified: false },
+    ],
+
+    keyAyahs: [
+      {
+        ref: '101:6–9',
+        arabic: 'فَأَمَّا مَن ثَقُلَتْ مَوَٰزِينُهُۥ ۝ فَهُوَ فِى عِيشَةٍ رَّاضِيَةٍ ۝ وَأَمَّا مَن خَفَّتْ مَوَٰزِينُهُۥ ۝ فَأُمُّهُۥ هَاوِيَةٌ',
+        translation: "As for one whose scales are heavy — he will be in a pleasing life. But as for one whose scales are light — his refuge is the Pit.",
+        note: "Surah Al-Qari'ah presents the two outcomes with stark economy: thaqulat (heavy) versus khaffat (light). The scales tip. The result is permanent. The Quran's eschatological precision here is theologically significant — the outcome is proportional and just, not capricious. What made the scales heavy was the quality of the life lived.",
+      },
+      {
+        ref: '21:47',
+        arabic: 'وَنَضَعُ ٱلْمَوَٰزِينَ ٱلْقِسْطَ لِيَوْمِ ٱلْقِيَٰمَةِ فَلَا تُظْلَمُ نَفْسٌ شَيْـًٔا',
+        translation: "We shall set up the scales of justice for the Day of Resurrection — and no soul will be wronged at all.",
+        note: "The phrase mawazin al-qisṭ — the scales of justice — contains a double assurance: the scales exist (they will be set up, naḍaʿu) and they are just (al-qisṭ). Then the most comprehensive guarantee in Quranic eschatology: lā tuẓlamu nafsun shayʾan — not a soul will be wronged even by the weight of a thing. This verse is a mercy: it means the accounting is real and it is fair.",
+      },
+      {
+        ref: '99:7–8',
+        arabic: 'فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُۥ ۝ وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُۥ',
+        translation: "And whoever does an atom's weight of good will see it. And whoever does an atom's weight of evil will see it.",
+        note: "These two verses — among the most memorised in the Quran — establish the precision of the mizan. Mithqāl dharra: the weight of a particle, the smallest conceivable unit. Nothing escapes the scale. The same precision that makes this terrifying for evil makes it luminous for good: no act of sincerity is too small to be seen and counted.",
+      },
+    ],
+
+    practicalSection: {
+      conditions: [
+        { number: 1, title: "Knowing what makes the scale heavy", arabic: "ما يثقّل الميزان", arabicTranslit: "mā yuthaqqil al-mīzān", description: "The Prophet ﷺ described two phrases that are 'light on the tongue, heavy on the Scale, beloved to the Most Merciful: Subḥān Allāh wa-bi-ḥamdihi, Subḥān Allāh al-ʿAẓīm' (Bukhari). The mizan rewards sincerity, not volume. A small deed done with full presence can outweigh a large deed done by habit." },
+        { number: 2, title: "Giving full measure in this world", arabic: "الوفاء بالكيل", arabicTranslit: "al-wafāʾ bi-al-kayl", description: "The Quran connects earthly scales with the eschatological scale: 'Give full measure when you measure, and weigh with a straight balance' (17:35). The person who cheats in trade has already, in a sense, rejected the mizan — they have made themselves the arbiter of weight. Living honestly is a form of already honouring the Day of Scales." },
+        { number: 3, title: "Counting your deeds before they are counted", arabic: "محاسبة النفس", arabicTranslit: "muḥāsabat al-nafs", description: "Umar ibn al-Khattab is reported to have said: 'Count yourselves before you are counted, and weigh yourselves before you are weighed.' Daily muhasaba (self-accounting) is the practice of placing your own deeds on the scale before the Day arrives — catching what is light and adding what is heavy." },
+      ],
+      stations: [
+        { name: "The weight of character", description: "The Prophet ﷺ said: 'Nothing is heavier on the Scale on the Day of Resurrection than good character (ḥusn al-khuluq)' (Tirmidhi). Not ritual alone — but the quality of the heart expressed in daily dealings. The mizan rewards virtue embedded in life, not virtue performed for the record." },
+        { name: "The weight of sincerity", description: "Ibn al-Qayyim says the weight of a deed is determined not by its size but by its ikhlas (sincerity) and its mutabaʿa (conformity with the Prophet's example). A small deed done with complete sincerity may be heavier than a large one done for reputation. The mizan weighs the soul's intention, not the action's appearance." },
+        { name: "What erases from the scale", description: "The Quran warns about deeds that are 'rendered worthless' — by shirk (4:48), by showing off (4:142), by harming the recipients of charity (2:264). These deeds remain on the ledger but tip the scale the wrong way. The mizan makes visible not just what was done but how and why it was done." },
+      ],
+      questions: [
+        { question: "Are deeds literally placed on a physical scale?", answer: "The Quran and authentic hadith affirm that the mizan is real — it is from the established realities of the unseen world. Whether it has a physical form identical to earthly scales is beyond what revelation specifies. The Ash'ari position is that we affirm its reality and trust Allah to make the weighing just, without speculating about its precise mechanism." },
+        { question: "What about someone whose good and bad deeds are exactly equal?", answer: "The scholars discuss this — they are called ahl al-aʿraf (the People of the Heights, mentioned in 7:46). They stand between jannah and jahannam and are ultimately admitted to jannah through divine mercy, not through the weighing tipping either way. The mizan determines justice; mercy can supplement it." },
+        { question: "Does the mizan weigh only deeds, or also intentions?", answer: "Both. The Prophet ﷺ said: 'Actions are by intentions' (Bukhari). The scholars hold that the mizan weighs the deed-as-intended — the intention is part of what gives the deed its weight. A sincere small deed is heavy; an insincere large deed may be light." },
+      ],
+    },
+
+    semanticField: [
+      { slug: 'al-ghayb', arabic: 'ٱلْغَيْب', transliteration: 'Al-Ghayb', relationship: 'deepens', relationshipLabel: 'Part of — mizan is a specific reality within the unseen', description: "The mizan is one of the realities of al-ghayb whose general nature is established by revelation. We know it exists; we know it weighs deeds; we know its outcome is just. The details of its mechanism belong to what is hidden." },
+      { slug: 'barzakh', arabic: 'بَرْزَخ', transliteration: 'Barzakh', relationship: 'precedes', relationshipLabel: 'Followed by — barzakh leads to the day of the mizan', description: "The barzakh is the waiting period; the mizan is what the waiting resolves into. The soul in barzakh knows that the Scale is coming — which is why both the scholars and the Quran emphasise using the time before barzakh (this life) to ensure the scale will tip toward mercy." },
+    ],
+
+    scholarsSaid: [
+      { scholar: 'Ibn al-Qayyim al-Jawziyyah', text: "The heaviness of the scales on the Day does not come from the volume of deeds but from their truthfulness, their sincerity, and their conformity with what Allah loves. A word spoken with a heart full of Allah can outweigh years of empty ritual.", source: "Al-Wābil al-Ṣayyib" },
+      { scholar: 'Al-Qurtubi', text: "The mizan is established by the Book and the Sunnah and the consensus of the scholars of Islam. It is one of the pillars of belief in the Last Day. Whoever denies it has denied what the Quran explicitly affirms.", source: "Al-Tadhkira fī Aḥwāl al-Mawtā wa-Umūr al-Ākhira" },
+    ],
+
+    hadith: [
+      { text: "Two words are light on the tongue, heavy on the Scale, and beloved to the Most Merciful: Subḥān Allāh wa-bi-ḥamdihi, Subḥān Allāh al-ʿAẓīm.", source: "Bukhari, 6682; Muslim, 2694" },
+      { text: "Nothing is heavier on the Scale on the Day of Resurrection than good character.", source: "Tirmidhi, 2003 — classified hasan sahih" },
+    ],
+
+    acrossTransitions: `The concept of a divine scale for human deeds appears across multiple ancient traditions, though its theological grounding differs significantly.
+
+The most famous parallel is the Egyptian tradition of the Weighing of the Heart — the Wāgning ceremony in which the deceased's heart was placed on a scale against the feather of Ma'at (truth/order). If the heart was lighter, the soul passed; if heavier (burdened by sin), it was devoured by Ammit. The imagery is strikingly similar to the Quranic mizan: a scale, two outcomes, divine justice. The difference is theological: in Egyptian religion, the heart was weighed against an impersonal cosmic principle; in Islam, the mizan is set up by a personal, merciful God who also wants the scale to tip toward His servants.
+
+Zoroastrian eschatology includes the Chinvat Bridge — a crossing that widens for the righteous and narrows for the wicked — with a related weighing ceremony. The Persian influence on late antique religion is debated, but the convergence around weighing-of-deeds imagery is remarkable across cultures.
+
+In Rabbinic Judaism, the concept of the heavenly ledger (sefer zikhronot) and divine accounting appears extensively in Rosh Hashanah liturgy: "On Rosh Hashanah it is written, on Yom Kippur it is sealed" — echoing the Islamic principle that all is recorded and will be accounted for.
+
+What is uniquely Quranic is the precision: mithqāl dharra — the weight of an atom. This granularity goes beyond the general "good and bad deeds are weighed" of other traditions. The Quran insists that the accounting is exhaustive and that divine justice operates at the level of the smallest conceivable unit.`,
+
+    relatedTerms: [
+      { slug: 'al-ghayb', transliteration: 'Al-Ghayb', term: 'ٱلْغَيْب' },
+      { slug: 'barzakh',  transliteration: 'Barzakh',  term: 'بَرْزَخ'  },
+      { slug: 'jannah',   transliteration: 'Jannah',   term: 'جَنَّة'   },
+    ],
+
+    goDeeper: [
+      { slug: 'al-qariah',  surahName: "Al-Qari'ah",  note: "The shortest and starkest statement of the mizan: heavy scales, pleasing life; light scales, the Pit. A complete theology of divine justice in 11 verses." },
+      { slug: 'al-zalzalah', surahName: 'Az-Zalzalah', note: "Contains the most precise statement of the scale's sensitivity — the weight of an atom of good or evil will be seen. Often memorised and meditated on together with Al-Qari'ah." },
+    ],
+  },
+
+  // ─────────────────────────────────────────────────────────────────────────────
+  // JAHANNAM
+  // ─────────────────────────────────────────────────────────────────────────────
+
+  jahannam: {
+    slug: 'jahannam',
+    term: 'جَهَنَّم',
+    transliteration: 'Jahannam',
+    pronunciation: "ja-HAN-nam · stress on second syllable · 'j' as in 'jar'",
+    category: 'The Unseen',
+    evocativeLine: 'The fire whose true nature is beyond imagination.',
+    hasFullEntry: true,
+
+    summary:
+      "Jahannam is the Quran's name for Hell — not derived from a common Arabic root but likely from a Hebrew or Aramaic cognate (Gehinnom — the Valley of Hinnom outside Jerusalem, associated with ancient fire rituals). The Quran describes it with seventy-seven names and countless images: layers of fire, boiling water, bitter fruit, crushing chains, and — most devastatingly — the withdrawal of divine mercy. Yet the Quran never presents Jahannam as Allah's desire; it appears always as a warning, always as something avoidable, always alongside the open door of tawbah. Its function in the Quran is motivational and just — not sadistic.",
+
+    root: {
+      letters: 'ج-ه-ن-م',
+      transliteration: 'jīm-hāʾ-nūn-mīm',
+      meaning: 'Deep, dark, yawning abyss — likely borrowed from Hebrew Gehinnom',
+      elaboration:
+        "The word jahannam has no clear Arabic triliteral root in the way most Quranic nouns do, which supports its status as a loanword. In Hebrew, Gehinnom (גֵּיהִנֹּם) refers to the Valley of Hinnom (ge-Hinnom) south of Jerusalem, where, according to biblical sources, children were sacrificed to the god Moloch by fire. The site became associated with fire, death, and abomination — and in Second Temple Judaism it developed into a metaphor for post-death punishment. The Quran inherits this word as a proper noun for the realm of punishment, stripped of its geographical reference and filled with its own revealed content.",
+    },
+
+    occurrenceCount: 77,
+    occurrenceNote: "Jahannam appears 77 times in the Quran — making it one of the most frequently named realities in the text. The scholars note that it has been described by 77 names and attributes across the Quran and sunnah.",
+
+    rootForms: [
+      { arabic: 'جَهَنَّم',   transliteration: 'jahannam',   type: 'Proper noun',   meaning: '"Hell / the fire" — the realm of punishment',               approxCount: 77, verified: false },
+      { arabic: 'جَحِيم',    transliteration: 'jaḥīm',      type: 'Related noun',  meaning: '"The blazing fire" — one of Hell\'s specific names',          approxCount: 26, verified: false },
+      { arabic: 'سَعِير',    transliteration: 'saʿīr',      type: 'Related noun',  meaning: '"The raging flame" — another specific name for Hell',        approxCount: 16, verified: false },
+      { arabic: 'لَظَىٰ',    transliteration: 'laẓā',       type: 'Proper noun',   meaning: '"The blazing fire" — used in Surah Al-Maʿarij',             approxCount: 1,  verified: false },
+      { arabic: 'هَاوِيَة',  transliteration: 'hāwiya',     type: 'Noun',          meaning: '"The abyss / the pit" — used in Surah Al-Qari\'ah',         approxCount: 1,  verified: false },
+    ],
+
+    keyAyahs: [
+      {
+        ref: '67:8',
+        arabic: 'تَكَادُ تَمَيَّزُ مِنَ ٱلْغَيْظِ ۖ كُلَّمَآ أُلْقِىَ فِيهَا فَوْجٌ سَأَلَهُمْ خَزَنَتُهَآ أَلَمْ يَأْتِكُمْ نَذِيرٌ',
+        translation: 'It almost bursts with rage. Every time a group is thrown into it, its keepers ask them: did a warner not come to you?',
+        note: "Two remarkable dimensions here: first, Jahannam is described as almost bursting with rage (tatamayyazu min al-ghayẓ) — it is personalised, furious, as if it resents those who ignored its warning. Second, the keepers' question — 'did a warner not come?' — establishes that entry is never arbitrary. The warner came. The message was given. Entry into Jahannam is by choice, however unconscious. This is justice, not cruelty.",
+      },
+      {
+        ref: '39:71',
+        arabic: 'وَسِيقَ ٱلَّذِينَ كَفَرُوٓا۟ إِلَىٰ جَهَنَّمَ زُمَرًا ۖ حَتَّىٰٓ إِذَا جَآءُوهَا فُتِحَتْ أَبْوَٰبُهَا',
+        translation: 'And those who disbelieved will be driven to Hell in groups — until when they arrive there, its gates are opened.',
+        note: "The contrast with jannah in 39:73 is architectural: the same surah describes both processions. Those entering jahannam are 'driven' (suq); those entering jannah 'arrive' (jāʾū) and are greeted with peace. The gates of jahannam open when they arrive — not welcomed, simply processed. The detail of groups (zumar) suggests that rejection of truth clusters socially — people influenced each other away from guidance.",
+      },
+      {
+        ref: '4:56',
+        arabic: 'إِنَّ ٱلَّذِينَ كَفَرُوا۟ بِـَٔايَٰتِنَا سَوْفَ نُصْلِيهِمْ نَارًا كُلَّمَا نَضِجَتْ جُلُودُهُم بَدَّلْنَٰهُمْ جُلُودًا غَيْرَهَا لِيَذُوقُوا۟ ٱلْعَذَابَ',
+        translation: "Indeed, those who disbelieve in Our verses — We will drive them into a fire. Every time their skins are roasted through, We will replace them with other skins so they may taste the punishment.",
+        note: "This is among the most viscerally difficult verses in the Quran — and one that raises questions precisely because it is meant to. Al-Razi notes that this verse is proof of the body's resurrection: if only souls were punished, the replacing of skin would make no sense. The verse also points to the comprehensiveness of divine accounting — nothing in the body that participated in disbelief escapes its consequence.",
+      },
+    ],
+
+    practicalSection: {
+      conditions: [
+        { number: 1, title: "What leads toward Jahannam", arabic: "أسباب دخول النار", arabicTranslit: "asbāb dukhūl al-nār", description: "The Quran consistently names the causes: kufr (rejection of truth), shirk (associating partners with Allah), kibr (arrogance), and dhulm (injustice to others). These are not arbitrary categories — they are the modes by which a soul progressively distances itself from the reality of Allah until the distance becomes permanent." },
+        { number: 2, title: "What protects from Jahannam", arabic: "الوقاية من النار", arabicTranslit: "al-wiqāya min al-nār", description: "The Prophet ﷺ said: 'Protect yourselves from the fire, even with half a date.' The smallest act of generosity is a shield. The Prophet ﷺ also described charity, dhikr, salah, and sincerity as protections. The Quran says: 'And whoever is saved from the fire and admitted to paradise — he has attained the real success' (3:185)." },
+        { number: 3, title: "The mercy within the warning", arabic: "الرحمة في التخويف", arabicTranslit: "al-raḥma fī al-takhwīf", description: "The scholars of tafsir emphasise that every description of Jahannam in the Quran functions as a warning — and a warning is an act of love. Allah does not warn of Jahannam because He wants people in it; He warns because He wants people out of it. The Quran consistently places descriptions of Jahannam alongside invitations to tawbah, like a doctor describing a disease in order to motivate the patient to take the cure." },
+      ],
+      stations: [
+        { name: "Jahannam as warning, not destiny", description: "The Quran never presents anyone as doomed before death. Every mention of Jahannam in relation to living people is conditional — 'if they continue,' 'unless they turn back,' 'those who reject.' The door of tawbah is open as long as life continues. Jahannam is the destination of choices, not of identities." },
+        { name: "The levels of Jahannam", description: "The scholars identify seven levels based on Quranic names (Jahannam, Lazā, al-Ḥuṭama, al-Saʿīr, Saqar, al-Jaḥīm, al-Hāwiya). These levels are associated with different categories of transgression — the hypocrites are described as in the deepest level (4:145). The differentiation reflects the same divine precision as the mizan: the punishment fits the transgression." },
+        { name: "What remains of mercy even there", description: "The Quran mentions that Jahannam's denizens who had faith but major sins may eventually be released through Allah's mercy (a position held by the majority of Sunni scholars based on multiple hadiths). The permanent residents of Jahannam — those who died in kufr — are those who, by their choices, had made the distance from Allah total and final." },
+      ],
+      questions: [
+        { question: "How can a merciful God create Jahannam?", answer: "The Quran answers this question indirectly but completely: Jahannam is the consequence of human choices, not divine arbitrariness. Allah created the capacity for choice; He sent warners; He kept the door of tawbah open until the last breath. Jahannam is not created to punish — it is the place where the consequences of chosen distance from Allah are made real and permanent. Mercy was offered; it was refused." },
+        { question: "Are the descriptions of Jahannam literal?", answer: "The mainstream position in Islamic theology is that the descriptions of Jahannam are real — not merely metaphorical — but that their true nature is beyond what we can fully imagine from this world's experience. Just as jannah's rivers are real but qualitatively beyond our rivers, Jahannam's fire is real but beyond our fire. The Prophet ﷺ said the fire of this world is one of seventy parts of Jahannam's fire." },
+        { question: "What is the correct emotional relationship to Jahannam?", answer: "The Prophet ﷺ and the scholars consistently recommend a balance of khawf (fear of Jahannam) and rajāʾ (hope in Allah's mercy) — with neither overwhelming the other. Excessive fear without hope leads to despair (a sin in itself); excessive hope without fear leads to complacency. The Quran presents both consistently. Think of khawf and rajāʾ as the two wings of the bird of faith — both are needed to fly." },
+      ],
+    },
+
+    semanticField: [
+      { slug: 'tawbah', arabic: 'تَوْبَة', transliteration: 'Tawbah', relationship: 'precedes', relationshipLabel: 'The exit door — tawbah is what makes Jahannam avoidable', description: "Every description of Jahannam in the Quran is preceded or followed, somewhere in the text, by an invitation to return. The two are always in productive tension: Jahannam as the cost of turning away; tawbah as the way back before the turning becomes final." },
+      { slug: 'jannah',  arabic: 'جَنَّة',  transliteration: 'Jannah',  relationship: 'parallels', relationshipLabel: 'The contrast — Jahannam is seen most clearly against Jannah', description: "The Quran consistently presents them together (39:71-73, 2:82,86), each illuminating the other. Jannah shows what acceptance looks like; Jahannam shows what rejection leads to. The believer holds both in view — motivated by love for jannah, sobered by awareness of jahannam." },
+    ],
+
+    scholarsSaid: [
+      { scholar: 'Ibn al-Qayyim al-Jawziyyah', text: "Jahannam is the abode of those who chose distance from Allah. Its punishment is not alien to them — it is the full experience of what they chose in microcosm. They turned away from Allah's light, and Jahannam is darkness. They preferred the fire of their passions to the coolness of remembrance, and Jahannam is fire. In a profound sense, they are in Jahannam already — only without the permanence.", source: "Ḥādī al-Arwāḥ" },
+      { scholar: 'Al-Ghazali', text: "Know that the fear of Jahannam is among the most profitable of all fears — for it drives the servant from every sin and toward every act of worship. But let the servant not be consumed by it to the point of losing hope in Allah's mercy, for the mercy of Allah is wider than His punishment, and His forgiveness awaits those who turn.", source: "Iḥyāʾ ʿUlūm al-Dīn" },
+    ],
+
+    hadith: [
+      { text: "The fire of this world is one part of the seventy parts of the fire of Jahannam. The companions said: By Allah, even that would have been enough! He said: It has been made sixty-nine parts more intense.", source: "Bukhari, 3265; Muslim, 2843" },
+      { text: "Protect yourselves from the fire, even with half a date. And if he cannot find one, then with a good word.", source: "Bukhari, 1413; Muslim, 1016" },
+    ],
+
+    acrossTransitions: `Hell is one of the most debated and reimagined concepts in the history of religion — and the disagreements reveal deep differences in how traditions understand justice, mercy, and the nature of the divine.
+
+In biblical Christianity, Gehenna (the same root as Jahannam) appears in the New Testament as the place of final punishment — described with fire, worms, and outer darkness. Mainstream Catholic and Protestant theology holds that Hell is eternal for the unrepentant. However, the Christian theological tradition has increasingly engaged with universalism (ultimately all will be saved) and annihilationism (the wicked cease to exist rather than suffer eternally) as alternatives to eternal conscious torment. Islam, by contrast, holds that Jahannam is permanent for those who died in kufr, while believers who sinned may be eventually released through mercy.
+
+Zoroastrian eschatology includes a 'House of Lies' (Druj-Demana) for the wicked — but crucially, the Zoroastrian vision ends in universal renovation (Frashokereti) where even the wicked are eventually purified. This universal restorationism is absent from mainstream Islamic theology, though it has been explored by some Sufi thinkers.
+
+Buddhist cosmology contains multiple hell realms (Naraka) of different durations and intensities — but none are eternal. All hell states are temporary in Buddhist thought, with the duration proportional to the karma accumulated. This is closer to the Islamic position on believers who sin than to the Islamic position on kufr.
+
+What is theologically distinctive about the Quranic Jahannam is its consistent contextualisation: it is always the consequence of choice, always preceded by a warning, and always presented alongside the mercy that makes it avoidable. The Quran does not dwell on Jahannam as spectacle but deploys its descriptions strategically — to motivate the living to choose differently.`,
+
+    relatedTerms: [
+      { slug: 'jannah',   transliteration: 'Jannah',   term: 'جَنَّة'   },
+      { slug: 'tawbah',   transliteration: 'Tawbah',   term: 'تَوْبَة'  },
+      { slug: 'al-ghayb', transliteration: 'Al-Ghayb', term: 'ٱلْغَيْب' },
+    ],
+
+    goDeeper: [
+      { slug: 'az-zumar', surahName: 'Az-Zumar', note: "Contains the paired processions of those entering Jahannam and those entering Jannah (39:71-73) — the most architecturally balanced comparison of the two destinies in the Quran." },
+      { slug: 'al-mulk', surahName: 'Al-Mulk', note: "Contains the dialogue between Jahannam's keepers and those entering it (67:8-11) — establishing the principle that entry is always preceded by a warner and is therefore always a consequence of choice." },
+    ],
+  },
+
+  // ─────────────────────────────────────────────────────────────────────────────
+  // MARYAM
+  // ─────────────────────────────────────────────────────────────────────────────
+
+  maryam: {
+    slug: 'maryam',
+    term: 'مَرْيَم',
+    transliteration: 'Maryam',
+    pronunciation: "MAR-yam · stress on first syllable · both syllables short",
+    category: 'Quranic Characters',
+    evocativeLine: 'The only woman named by name in the Quran — and her own surah.',
+    hasFullEntry: true,
+
+    summary:
+      "Maryam bint Imran is the most honoured woman in the Quran — the only female figure to have a surah named after her, and the only woman named by name in the entire text. She appears in 11 surahs and is described as having been chosen twice over the women of the worlds (3:42). Her story is told not merely as the background to the birth of Isa — it is a complete theological argument: about sincerity, about divine provision, about the possibility of miracles, and about the courage to speak truth before a hostile world. She is the Quran's supreme portrait of a woman who lived entirely for Allah.",
+
+    root: {
+      letters: 'م-ر-ي-م',
+      transliteration: 'mīm-rāʾ-yāʾ-mīm',
+      meaning: 'A proper noun — likely from Aramaic/Hebrew Miriam, meaning "beloved" or "sea of bitterness"',
+      elaboration:
+        "Maryam is a proper noun rather than a common Arabic word, corresponding to Miriam (מִרְיָם) in Hebrew — the name of Moses's sister in the Torah. The name's etymology is debated: some scholars derive it from the Egyptian mr (beloved) + ymn (God's name), giving 'beloved of God.' Others trace it to the Hebrew root meaning 'bitterness' or 'sea.' The Quran uses it without etymological comment — the name is simply who she is. That the Quran gives this name to Isa's mother when the Gospel of Luke uses the same name (rendered 'Mary' in Greek) is part of the Quran's explicit engagement with the Abrahamic tradition.",
+    },
+
+    occurrenceCount: 34,
+    occurrenceNote: "The name Maryam appears 34 times in the Quran — more often than in the New Testament (which mentions Mary/Miriam about 19 times). She has her own surah (Surah 19), and is mentioned in 11 different surahs.",
+
+    rootForms: [
+      { arabic: 'مَرْيَم', transliteration: 'Maryam', type: 'Proper noun', meaning: '"Maryam" — the name itself, occurring throughout the Quran', approxCount: 34, verified: false },
+    ],
+
+    keyAyahs: [
+      {
+        ref: '3:42',
+        arabic: 'وَإِذْ قَالَتِ ٱلْمَلَٰٓئِكَةُ يَٰمَرْيَمُ إِنَّ ٱللَّهَ ٱصْطَفَىٰكِ وَطَهَّرَكِ وَٱصْطَفَىٰكِ عَلَىٰ نِسَآءِ ٱلْعَٰلَمِينَ',
+        translation: 'And when the angels said: O Maryam, indeed Allah has chosen you and purified you and chosen you above the women of the worlds.',
+        note: "The double use of iṣṭafā (chosen) is significant: first, Allah chose her for purification; second, He chose her above all women. Al-Qurtubi notes the repetition is not redundant — the first is the choice for spiritual distinction, the second is the choice for the miraculous role. She is addressed directly by the angels — an honour shared with very few human beings in the Quran.",
+      },
+      {
+        ref: '19:23–25',
+        arabic: 'فَأَجَآءَهَا ٱلْمَخَاضُ إِلَىٰ جِذْعِ ٱلنَّخْلَةِ قَالَتْ يَٰلَيْتَنِى مِتُّ قَبْلَ هَٰذَا وَكُنتُ نَسْيًا مَّنسِيًّا',
+        translation: "And the pains of labor drove her to the trunk of a palm tree. She said: I wish I had died before this and had been completely forgotten.",
+        note: "This is the most humanly intimate moment of Maryam's story — and the most extraordinary. Here she is: alone, in labor, afraid not of death but of the shame she knows is coming. Her words — 'I wish I had been completely forgotten' — are not despair but the prayer of someone who understands what she will face. The divine response is immediate and practical: 'shake the palm tree, eat, drink, and if you see any human, say: I have vowed silence to the Most Merciful.' Allah's answer to her grief is provision, not speech.",
+      },
+      {
+        ref: '19:29–30',
+        arabic: 'فَأَشَارَتْ إِلَيْهِ ۖ قَالُوا۟ كَيْفَ نُكَلِّمُ مَن كَانَ فِى ٱلْمَهْدِ صَبِيًّا',
+        translation: 'She pointed to him. They said: How can we speak to one who is in the cradle, an infant?',
+        note: "Her silence before her people — she has vowed it — and then her pointing to the infant Isa is one of the most dramatic moments in the Quran. She has no defense. She points. The baby speaks. This is the moment that vindicates everything: her sincerity before Allah produced the miracle that silence before the world could only direct attention to. Her trust in Allah's plan, expressed as a vow of silence, becomes the evidence of her innocence.",
+      },
+    ],
+
+    practicalSection: {
+      conditions: [
+        { number: 1, title: "Total dedication from before birth", arabic: "الإخلاص من القبل", arabicTranslit: "al-ikhlāṣ min qabl", description: "Maryam's mother dedicated her to Allah before she was born: 'I have dedicated what is in my womb entirely to You' (3:35). Maryam grew up in the masjid, raised by Zakariyya, in a state of constant worship. Her exceptional spiritual station was prepared through decades of sincere formation — a reminder that extraordinary closeness to Allah rarely comes without extraordinary formation." },
+        { number: 2, title: "Scrupulous guarding of honour", arabic: "صون العرض", arabicTranslit: "ṣawn al-ʿirḍ", description: "When the angel appeared to her in human form, her first response was to invoke the Most Merciful as a shield: 'I seek refuge in the Most Merciful from you, if you are conscious of Him' (19:18). Her guard was not timid or fearful — it was principled. The Quran calls her the one who 'guarded her private part' (66:12) — her purity was not passive but actively maintained." },
+        { number: 3, title: "Trusting Allah's plan in the face of shame", arabic: "الثقة في الله رغم الشنعة", arabicTranslit: "al-thiqa fī Allāh raghm al-shanaʿa", description: "What Maryam faced on returning to her people with an infant is almost impossible to imagine: the certain social condemnation of a community that would see only evidence of the unthinkable. She did not explain — she pointed. The willingness to be misunderstood rather than defend yourself with words, trusting that Allah will speak for you, is one of the highest spiritual postures in the Quran." },
+      ],
+      stations: [
+        { name: "The woman of siddiqiyya", description: "The Quran calls her ṣiddīqa (66:12) — one of the profoundly truthful, a title shared with Abu Bakr in Islam. This is the highest description of a human being below prophethood: a person whose inner state and outer life are in complete correspondence, who witnesses divine truth and lives it completely." },
+        { name: "The mother of a miracle", description: "Maryam's role in the birth of Isa without a father is the Quran's most explicit miracle attributed to a human being's obedience. Allah tells her: 'So it will be — Allah creates what He wills' (3:47). She is the vessel through which one of Allah's greatest signs enters the world — not because of her power but because of her purity and submission." },
+        { name: "The model for every believer", description: "The Quran presents Maryam not only as historical figure but as an archetype: 'And Allah presents an example of those who believed: the wife of Pharaoh... and Maryam' (66:11-12). She is placed alongside Asiyah (wife of Pharaoh) as the two female models of faith for all believers — male and female." },
+      ],
+      questions: [
+        { question: "Is Maryam a prophet in Islam?", answer: "The majority of Muslim scholars do not classify Maryam as a prophet (nabiyya) — prophethood in the classical definition is specific to those who received wahy with a mission to convey. However, some scholars (including Ibn Hazm) held that she was a prophet because she received divine communication through the angel. Most classical scholars classify her as a ṣiddīqa — the highest station below prophethood." },
+        { question: "How does the Quranic Maryam compare to the Biblical Mary?", answer: "The Quran presents substantially the same narrative as Luke's Gospel in its core: the angel's appearance, the miraculous conception, the birth. Key differences: the Quran places the birth under a palm tree rather than in a stable; it includes her vow of silence and the baby Isa speaking in the cradle (not in any Gospel). The Quran does not narrate Mary's adult life with Isa or her role at the crucifixion (which the Quran does not affirm as having occurred)." },
+        { question: "Why is Maryam the only woman named in the Quran?", answer: "The scholars have offered several reasons: her story requires her name for narrative clarity (she is also the mother of a prophet, and Isa is consistently identified as Ibn Maryam — Son of Maryam); her individual spiritual excellence merits individual identification; and she is a model for all believers by name, not merely by role. Other women in the Quran are significant but defined by their relationships — wife of, mother of. Maryam stands named in her own right." },
+      ],
+    },
+
+    semanticField: [
+      { slug: 'sabr', arabic: 'صَبْر', transliteration: 'Sabr', relationship: 'deepens', relationshipLabel: 'Embodied — Maryam is sabr made into a life', description: "Maryam's entire story is a study in sabr: waiting in the masjid, bearing the angel's news alone, enduring labor alone under a palm tree, facing her community's judgment in silence. She did not argue, did not complain, did not flee. She pointed. This is sabr at its summit: not endurance through gritted teeth but complete trust expressed through stillness." },
+      { slug: 'tawakkul', arabic: 'تَوَكُّل', transliteration: 'Tawakkul', relationship: 'deepens', relationshipLabel: 'Highest example — she entrusted everything', description: "When she had no explanation to give and the condemnation was certain, she pointed at the infant and entrusted the outcome entirely to Allah. This is the Quranic definition of tawakkul in action: you have done your part (guarded your honour, submitted to the divine plan), and now you let Allah speak for you." },
+    ],
+
+    scholarsSaid: [
+      { scholar: 'Ibn Kathir', text: "The scholars of Islam agree that Maryam bint Imran is the best of the women of this world. The Prophet ﷺ said: 'The best of the women of the worlds are: Maryam bint Imran, Khadijah bint Khuwaylid, Fatimah bint Muhammad, and Asiyah wife of Pharaoh.' Her rank is thus established by prophetic testimony as the highest among all women ever created.", source: "Tafsīr Ibn Kathīr, on Surah Maryam" },
+      { scholar: 'Al-Qurtubi', text: "She combined in herself all the qualities that constitute the summit of human excellence for a woman: complete chastity, deep worship, truthfulness before Allah, and the courage to face a world that did not believe her. The Quran does not merely tell her story — it presents her as proof of divine power and as a model for every soul that wishes to be close to Allah.", source: "Al-Jāmiʿ li-Aḥkām al-Qurʾān, on 3:42" },
+    ],
+
+    hadith: [
+      { text: "The best of the women of the worlds are: Maryam bint Imran, Khadijah bint Khuwaylid, Fatimah bint Muhammad, and Asiyah wife of Pharaoh.", source: "Ahmad, 2663; classified sahih by Al-Albani" },
+      { text: "Many men have reached perfection, but of women none reached perfection except Maryam bint Imran and Asiyah wife of Pharaoh.", source: "Bukhari, 3411; Muslim, 2431" },
+    ],
+
+    acrossTransitions: `Maryam/Mary occupies a unique position across the Abrahamic traditions — honoured in all three, but differently shaped by each.
+
+In Catholic and Orthodox Christianity, Mary holds the title Theotokos (God-bearer) — a theological statement that what she bore was divine. She is venerated, prayed to as intercessor, and associated with a range of apparitions and miracles across Christian history. The Marian tradition in Christianity is enormously elaborate — rosary prayers, special feast days, Marian apparitions (Lourdes, Fatima), and theological controversies about her perpetual virginity and bodily assumption. Islam affirms her purity and virginity but stops well short of the doctrines that developed around her in Christianity.
+
+In Protestant Christianity, the Reformation significantly reduced the role of Mary — retaining her as the blessed mother but removing intercessory functions. This 'de-Marianisation' made Protestantism in some ways closer to the Islamic position: honour her, but direct worship only to God.
+
+In Judaism, Miriam (Moses's sister, same name) is honoured as a prophetess, but the New Testament Mary has no significant status in Jewish theology. The name connects the traditions, but the figure they name has evolved differently in each.
+
+What is remarkable about the Quranic presentation is its detail and sympathy. The Quran narrates Maryam's inner experience — her wish to have died before the birth, her fear, her aloneness — in ways that make her intensely human rather than iconographic. She is not a figure to be prayed to; she is a figure to be learned from. The Quran humanises her precisely so that the reader can enter her story and ask: what would I have done in her place?`,
+
+    relatedTerms: [
+      { slug: 'sabr',    transliteration: 'Sabr',    term: 'صَبْر'   },
+      { slug: 'tawakkul', transliteration: 'Tawakkul', term: 'تَوَكُّل' },
+    ],
+
+    goDeeper: [
+      { slug: 'maryam', surahName: 'Maryam', note: "Surah 19 — entirely named after her, containing the most complete narrative of her story from birth through the cradle speech of Isa." },
+      { slug: 'ali-imran', surahName: "Ali 'Imran", note: "Contains the theological context of Maryam's conception, her dedication, and the angel's address (3:35-47) — the narrative of her family." },
+    ],
+  },
+
+  // ─────────────────────────────────────────────────────────────────────────────
+  // IJAZ
+  // ─────────────────────────────────────────────────────────────────────────────
+
+  ijaz: {
+    slug: 'ijaz',
+    term: 'إِعْجَاز',
+    transliteration: "I'jaz",
+    pronunciation: "ee-JAZ · stress on second syllable · 'j' as in 'jar'",
+    category: 'Study Terms',
+    evocativeLine: "The Quran's inimitability — the challenge that has never been met.",
+    hasFullEntry: true,
+
+    summary:
+      "Iʿjāz al-Qurʾān is the doctrine of the Quran's miraculous inimitability — the claim that the Quran is a text that no human being, alone or in collaboration, could produce or even approach. The word means 'rendering incapable' — the Quran renders its challengers incapable of matching it. The Quran itself issues this challenge (taḥaddī) multiple times: produce a book like it, then ten surahs like it, then one surah like it. Fourteen centuries of Arabic literature — the richest poetic tradition in the world — have not produced a convincing response. Iʿjāz is thus not merely a claim about the Quran's beauty; it is a standing argument for its divine origin.",
+
+    root: {
+      letters: 'ع-ج-ز',
+      transliteration: 'ʿayn-jīm-zāy',
+      meaning: 'To be incapable, to be unable, to be weakened and rendered powerless',
+      elaboration:
+        "The root ع-ج-ز means fundamental inability — ʿajaza means 'he was unable,' ʿajz means 'weakness/incapacity,' and aʿjaza means 'to render someone incapable.' Iʿjāz is the fourth form verbal noun: 'the rendering incapable.' The doctrine of iʿjāz al-Qurʾān thus says: the Quran renders its challengers incapable. The word is also related to ʿajuz (old person, one diminished in strength) — the sense of incapacity runs through all its uses. Al-Bāqillāni wrote the first systematic treatise on this doctrine (Iʿjāz al-Qurʾān), establishing the vocabulary and framework that Islamic theology has used ever since.",
+    },
+
+    occurrenceCount: 7,
+    occurrenceNote: "The taḥaddī (challenge) verses appear at 52:34, 11:13, 10:38, 2:23, and 17:88 — five escalating challenges, plus the general statement of 17:88 that jinn and humans together could not produce its like. The word iʿjāz itself is a scholarly term, not a Quranic one.",
+
+    rootForms: [
+      { arabic: 'عَجَزَ',    transliteration: 'ʿajaza',   type: 'Verb — Perfect',         meaning: '"He was unable / incapable" — the state of weakness',        approxCount: 3, verified: false },
+      { arabic: 'إِعْجَاز',  transliteration: "iʿjāz",    type: 'Verbal noun (Form IV)',   meaning: '"Rendering incapable" — the doctrine of inimitability',     approxCount: 0, verified: false },
+      { arabic: 'مُعْجِزَة', transliteration: "muʿjiza",  type: 'Active participle (F IV)', meaning: '"A miracle" — literally "something that renders incapable"', approxCount: 0, verified: false },
+      { arabic: 'عَاجِز',   transliteration: 'ʿājiz',    type: 'Active participle',       meaning: '"One who is incapable / powerless" — the human challenger',  approxCount: 2, verified: false },
+    ],
+
+    keyAyahs: [
+      {
+        ref: '17:88',
+        arabic: 'قُل لَّئِنِ ٱجْتَمَعَتِ ٱلْإِنسُ وَٱلْجِنُّ عَلَىٰٓ أَن يَأْتُوا۟ بِمِثْلِ هَٰذَا ٱلْقُرْءَانِ لَا يَأْتُونَ بِمِثْلِهِۦ وَلَوْ كَانَ بَعْضُهُمْ لِبَعْضٍ ظَهِيرًا',
+        translation: 'Say: If mankind and the jinn gathered together to produce something like this Quran, they could not produce the like of it, even if they were assistants to one another.',
+        note: "The comprehensive challenge: not individual humans, not the greatest poets — but all of humanity and all of the jinn together, collaborating. The result would still be failure. The scholars note that the taḥaddī progresses in reverse: this grandest challenge comes before the surah-level challenge (11:13) and the single-surah challenge (2:23). Some see the progression as descending to meet the challenger halfway: we challenged you with the whole book; then just ten chapters; now just one. You still cannot.",
+      },
+      {
+        ref: '2:23',
+        arabic: 'وَإِن كُنتُمْ فِى رَيْبٍ مِّمَّا نَزَّلْنَا عَلَىٰ عَبْدِنَا فَأْتُوا۟ بِسُورَةٍ مِّن مِّثْلِهِۦ وَٱدْعُوا۟ شُهَدَآءَكُم مِّن دُونِ ٱللَّهِ إِن كُنتُمْ صَٰدِقِينَ',
+        translation: "And if you are in doubt about what We have sent down upon Our servant, then produce a surah the like thereof and call upon your witnesses other than Allah, if you should be truthful.",
+        note: "This is the most precise formulation of the taḥaddī — a single surah. Not a book. Not even a chapter of equal length. One surah. And bring your helpers. Al-Bāqillāni and later Ibn Khaldun both note that the Arabic world of the 7th century was at the peak of its poetic sophistication — if anyone could have answered this challenge, they would have then. The silence of the most eloquent culture in history is itself part of the evidence.",
+      },
+      {
+        ref: '52:34',
+        arabic: 'فَلْيَأْتُوا۟ بِحَدِيثٍ مِّثْلِهِۦٓ إِن كَانُوا۟ صَٰدِقِينَ',
+        translation: 'Then let them produce a statement like it, if they are truthful.',
+        note: "The earliest form of the challenge, from a Makkan surah: not even a Quran-like book, not even a surah — just a hadith (statement/discourse) of the same kind. The challenge begins maximally inclusive and narrows through multiple verses. Each time the Quran reduces the bar, the silence becomes louder.",
+      },
+    ],
+
+    practicalSection: {
+      conditions: [
+        { number: 1, title: "The dimensions of iʿjāz", arabic: "وجوه الإعجاز", arabicTranslit: "wujūh al-iʿjāz", description: "Classical scholars identified multiple dimensions: (1) linguistic iʿjāz — the unmatched depth and precision of its Arabic; (2) legislative iʿjāz — legal rulings that centuries of jurisprudence have only elaborated; (3) informational iʿjāz — knowledge of past peoples, future events, and natural phenomena beyond 7th-century Arabia's reach; (4) structural iʿjāz — the nazm (coherence) that holds across 23 years of revelation; (5) transformative iʿjāz — the effect it produces on sincere hearts." },
+        { number: 2, title: "The ṣarfa position", arabic: "الصرفة", arabicTranslit: "al-ṣarfa", description: "A minority position in Islamic theology (held by Al-Nazzam and some Muʿtazilites) holds that the Quran's inimitability is not intrinsic but results from Allah restraining (ṣarafa) human ability to match it — i.e., humans could produce something similar but are divinely prevented. The majority position (and the mainstream Ash'ari view) rejects this: the Quran is intrinsically inimitable, and the challenge stands on its own merits." },
+        { number: 3, title: "Responding to the challenge honestly", arabic: "الرد الأمين", arabicTranslit: "al-radd al-amīn", description: "The proper Muslim posture toward iʿjāz is not tribal pride but honest engagement: reading the Quran with the intention of hearing it as literature, theology, law, and spiritual guide — and asking oneself whether any human composition produces the same effect. Ibn al-Qayyim describes the experience of sincere Quran recitation as itself a form of iʿjāz: the effect on the heart is unlike what any human text produces." },
+      ],
+      stations: [
+        { name: "Iʿjāz al-lafẓ — linguistic", description: "The most debated dimension: the Quran's language operates at a level of precision, density, and aesthetic power that classical Arabic scholars themselves — the most competent judges — consistently described as beyond human composition. Al-Walid ibn al-Mughira, a pre-Islamic master of Arabic poetry, heard the Quran and said: 'It has a sweetness, it has a grace — its highest part is fruitful and its lowest is overflowing; it towers above and nothing towers over it.'" },
+        { name: "Iʿjāz al-ʿilmī — scientific", description: "A more modern dimension, developed primarily in the 20th century: Quranic verses that appear to correspond to later scientific discoveries (embryology, oceanography, the expanding universe). This has been both enthusiastically promoted and cautiously critiqued by scholars — the risk is reading scientific meaning into verses whose primary function was spiritual, theological, and legal." },
+        { name: "Iʿjāz al-tashriʿī — legislative", description: "The Quran's legal and ethical system — built from verses revealed over 23 years in response to real events — contains a coherence and a balance that legal scholars have found remarkable. The fact that Quranic jurisprudence could generate a rich and detailed legal tradition across diverse societies and fourteen centuries points to a depth in its foundational texts beyond what one man's legal thinking could produce." },
+      ],
+      questions: [
+        { question: "Have there been attempts to meet the challenge of the Quran?", answer: "Yes — including Musaylima al-Kadhdhāb (a false prophet in the time of the Prophet ﷺ), and various modern attempts. The classical Muslim scholars examined these attempts and found them either imitative (reproducing Quranic style without producing anything original) or simply inferior. The most famous analysis is Al-Bāqillāni's Iʿjāz al-Qurʾān, which subjects pre-Islamic poetry and the attempts of competitors to rigorous linguistic comparison with the Quran." },
+        { question: "Isn't literary beauty subjective? Who decides what's inimitable?", answer: "The subjective element is real — but the scholars point to the testimony of native Arabic speakers at the height of Arabic literary culture who, hearing the Quran, recognised its qualitative difference from all human composition. Al-Walid ibn al-Mughira was not a Muslim sympathiser; his testimony is the more compelling for that. The challenge was issued to the most qualified judges, in the highest period of the tradition, and it stood unanswered." },
+        { question: "How does iʿjāz relate to my personal relationship with the Quran?", answer: "Knowing about iʿjāz enriches the relationship because it changes how you listen. When you know you are reading a text that all of humanity together could not produce, the appropriate response to every verse shifts. It is not a text to critique but to receive. At the same time, the scholars emphasise that iʿjāz is best felt, not merely believed — sustained tadabbur, recitation with presence, and learning even basic Quranic Arabic opens the experiential dimension of iʿjāz." },
+      ],
+    },
+
+    semanticField: [
+      { slug: 'tadabbur', arabic: 'تَدَبُّر', transliteration: 'Tadabbur', relationship: 'deepens', relationshipLabel: "Reveals — tadabbur makes iʿjāz experiential", description: "Iʿjāz is a doctrine; tadabbur is the practice through which it becomes a felt reality. Someone who knows about iʿjāz intellectually but never practices tadabbur has accepted the doctrine without experiencing the evidence. The scholars say: read the Quran slowly, attentively, in Arabic if possible — and iʿjāz will argue for itself." },
+      { slug: 'nazm', arabic: 'نَظْم', transliteration: 'Nazm', relationship: 'deepens', relationshipLabel: "Dimension of — nazm is one facet of iʿjāz", description: "The structural coherence of the Quran — its nazm — is increasingly understood as a dimension of iʿjāz. The Quran was revealed in fragments over 23 years, in response to events, and yet its surahs and the mushaf as a whole exhibit an architectural unity that cannot be explained by human editorial work." },
+    ],
+
+    scholarsSaid: [
+      { scholar: 'Al-Baqillani', text: "We say that the Quran is inimitable in its entirety — in its linguistic beauty, in its legislative wisdom, in its information about the unseen, and in its effect on hearts. The challenge (taḥaddī) was issued to the most capable people in the most capable period, and it was met with silence and with swords — never with a competing text.", source: "Iʿjāz al-Qurʾān" },
+      { scholar: 'Ibn Khaldun', text: "Know that the miraculous nature of the Quran is established from multiple angles — from the inability of the Arabs to match it despite their mastery of the language; from the fact that it was produced by someone unlettered; from the information it contains about past and future; and from its effect on the souls of those who hear it in a state of openness.", source: "Muqaddima" },
+    ],
+
+    hadith: [
+      { text: "Every prophet was given a miracle appropriate to his time. What I was given is the Quran — and I hope to have the most followers on the Day of Resurrection.", source: "Bukhari, 4981; Muslim, 152" },
+    ],
+
+    acrossTransitions: `The claim of scriptural inimitability is rare in the history of religion — most traditions claim divine authority for their scriptures without making the specific linguistic challenge that the Quran issues.
+
+The Quran's challenge has been analysed from multiple academic angles. Western scholars of Arabic literature (A.J. Arberry, Reynold Nicholson) have written about the Quran's extraordinary qualities while stopping short of the theological claim. Arberry described his own translation attempt as an 'Interpretation' because he held translation to be impossible — the Arabic was too dense with meaning. This academic acknowledgment does not constitute acceptance of iʿjāz as divine evidence, but it does confirm the Quran's qualitative distinctiveness.
+
+The study of iʿjāz has intersected with modern disciplines: information theory (the information density of Quranic Arabic), literary theory (its use of register-shifting across legal, narrative, and poetic modes within single surahs), and cognitive science (the effect of Quranic recitation on the nervous system — though this research is nascent).
+
+One productive comparison is with the Jewish concept of Torah as divine speech: both traditions assert that God's word has qualities no human can replicate. The difference is that the Quran makes the challenge explicit and public — 'produce one surah like it' — while Torah theology does not issue the same open challenge. The Quran's confidence in its own inimitability is, on its own terms, itself a kind of evidence: a human author would not stake the entire doctrine of prophethood on an open challenge to produce even one chapter.`,
+
+    relatedTerms: [
+      { slug: 'tafsir',   transliteration: 'Tafsir',   term: 'تَفْسِير' },
+      { slug: 'tadabbur', transliteration: 'Tadabbur', term: 'تَدَبُّر' },
+      { slug: 'nazm',     transliteration: 'Nazm',     term: 'نَظْم'    },
+    ],
+
+    goDeeper: [
+      { slug: 'al-baqarah', surahName: 'Al-Baqarah', note: "Contains the most cited taḥaddī verse (2:23) — the single-surah challenge, in the context of addressing those who doubt the Quran's divine origin." },
+      { slug: 'al-isra',    surahName: "Al-Isra'",   note: "Contains the comprehensive challenge (17:88) — all humanity and jinn together could not produce its like. The context is a refutation of demands for a different kind of miracle." },
+    ],
+  },
+
+  // ─────────────────────────────────────────────────────────────────────────────
+  // ASBAB AL-NUZUL
+  // ─────────────────────────────────────────────────────────────────────────────
+
+  'asbab-al-nuzul': {
+    slug: 'asbab-al-nuzul',
+    term: 'أَسْبَاب ٱلنُّزُول',
+    transliteration: 'Asbab al-Nuzul',
+    pronunciation: "as-BAAB an-noo-ZOOL · stress on second syllable of each word",
+    category: 'Study Terms',
+    evocativeLine: 'The occasions of revelation — the moments that gave the verses their first breath.',
+    hasFullEntry: true,
+
+    summary:
+      "Asbāb al-Nuzūl (plural: occasions of revelation; singular: sabab al-nuzūl) refers to the specific historical circumstances, events, or questions that prompted the revelation of particular Quranic verses or passages. Not every verse has an occasion — many were revealed as part of the ongoing flow of guidance without a specific trigger. But for those that do, knowing the occasion illuminates meaning in ways no amount of linguistic analysis alone can provide. The Quran was not delivered into a vacuum; it was revealed into a living community, responding to their questions, their disputes, their griefs, and their spiritual struggles. Asbāb al-Nuzūl is the discipline that recovers those moments.",
+
+    root: {
+      letters: 'ن-ز-ل',
+      transliteration: 'nūn-zāy-lām',
+      meaning: 'To descend, to come down, to alight at a place',
+      elaboration:
+        "The root ن-ز-ل (to descend) is the vocabulary of revelation itself: nazzala (to send down), anzala (to cause to descend), tanzīl (the act of sending down, used as a name for the Quran), and nuzūl (the descent). The Quran was revealed (nuzzila) from above — and 'occasions of its descent' (asbāb nuzūlihi) are the earthly moments that met the divine speech on its way down. The discipline of asbāb al-nuzūl studies the meeting point between the divine and the human in history.",
+    },
+
+    occurrenceCount: 0,
+    occurrenceNote: "Asbāb al-nuzūl is a scholarly discipline; the phrase itself does not appear in the Quran. The verb nazzala (to send down) and its forms appear over 80 times in the Quran, establishing the vocabulary that this discipline inherits.",
+
+    rootForms: [
+      { arabic: 'نَزَّلَ',   transliteration: 'nazzala',  type: 'Verb — Perfect (Form II)', meaning: '"He sent down / caused to descend" — divine revelation',    approxCount: 50, verified: false },
+      { arabic: 'أَنزَلَ',   transliteration: 'anzala',   type: 'Verb — Perfect (Form IV)', meaning: '"He sent down" — also used for revelation (and rain)',       approxCount: 36, verified: false },
+      { arabic: 'تَنزِيل',   transliteration: 'tanzīl',   type: 'Verbal noun (Form II)',    meaning: '"The sending down" — used as a name for the Quran itself',  approxCount: 10, verified: false },
+      { arabic: 'نُزُول',    transliteration: 'nuzūl',    type: 'Verbal noun (Form I)',     meaning: '"Descent / coming down" — the act of revelation',           approxCount: 1,  verified: false },
+      { arabic: 'أَسْبَاب',  transliteration: 'asbāb',    type: 'Noun — plural',            meaning: '"Causes / occasions / reasons" — from sabab (a rope, a cause)', approxCount: 9, verified: false },
+    ],
+
+    keyAyahs: [
+      {
+        ref: '4:11',
+        arabic: 'يُوصِيكُمُ ٱللَّهُ فِىٓ أَوْلَٰدِكُمْ ۖ لِلذَّكَرِ مِثْلُ حَظِّ ٱلْأُنثَيَيْنِ',
+        translation: 'Allah instructs you concerning your children: for the male, what is equal to the share of two females.',
+        note: "This inheritance verse has a known sabab al-nuzūl: the death of Saʿd ibn al-Rabīʿ al-Anṣārī, whose brother took all his wealth, leaving his wife and daughters with nothing. The widow came to the Prophet ﷺ and said: 'O Messenger of Allah, Saʿd died and his brother has taken everything.' The revelation came. Knowing this occasion makes the verse concrete: it arose to protect actual women from an actual injustice.",
+      },
+      {
+        ref: '2:115',
+        arabic: 'وَلِلَّهِ ٱلْمَشْرِقُ وَٱلْمَغْرِبُ ۚ فَأَيْنَمَا تُوَلُّوا۟ فَثَمَّ وَجْهُ ٱللَّهِ ۚ إِنَّ ٱللَّهَ وَٰسِعٌ عَلِيمٌ',
+        translation: 'To Allah belongs the east and the west. Wherever you turn, there is the face of Allah. Indeed, Allah is All-Encompassing, All-Knowing.',
+        note: "Two different occasions of revelation have been attributed to this verse. One: some companions prayed nafl prayers while travelling, not knowing the direction of qibla — the verse assured them their prayers were valid. Two: it was revealed for the people of the book who prayed in different directions. Knowing both possible occasions reveals the verse's range: it addresses both practical uncertainty and theological diversity in one luminous statement.",
+      },
+      {
+        ref: '33:37',
+        arabic: 'وَإِذْ تَقُولُ لِلَّذِىٓ أَنْعَمَ ٱللَّهُ عَلَيْهِ وَأَنْعَمْتَ عَلَيْهِ أَمْسِكْ عَلَيْكَ زَوْجَكَ وَٱتَّقِ ٱللَّهَ',
+        translation: 'And when you said to the one upon whom Allah had bestowed favour and upon whom you had bestowed favour: Keep your wife and fear Allah.',
+        note: "This verse has a very specific sabab al-nuzūl — the Prophet ﷺ's marriage to Zaynab bint Jahsh after her divorce from Zayd ibn Haritha. The occasion reveals the verse's purpose: to abolish the pre-Islamic custom of treating adopted sons as biological sons (with all the legal implications for marriage prohibitions). Without the sabab, the verse's historical intervention is invisible; with it, its social transformation becomes clear.",
+      },
+    ],
+
+    practicalSection: {
+      conditions: [
+        { number: 1, title: "The occasion does not limit the verse", arabic: "العبرة بعموم اللفظ", arabicTranslit: "al-ʿibra bi-ʿumūm al-lafẓ", description: "The most important principle of asbāb al-nuzūl in Islamic jurisprudence: al-ʿibra bi-ʿumūm al-lafẓ lā bi-khuṣūṣ al-sabab — 'the ruling is based on the generality of the wording, not the specificity of the occasion.' The verse may have been triggered by one event but its authority extends to all similar situations. Knowing the occasion informs the interpretation; it does not imprison it." },
+        { number: 2, title: "Establishing authenticity", arabic: "شروط صحة الأسباب", arabicTranslit: "shurūṭ ṣiḥḥat al-asbāb", description: "Not every reported sabab is equally reliable. The scholars established criteria: the chain must be authentic; the companion reporting it must have witnessed the occasion; the phrase should explicitly connect the event to the revelation ('this was revealed when...' or 'we asked the Prophet about X and this verse was revealed'). Al-Suyuti's Lubāb al-Nuqūl fī Asbāb al-Nuzūl collects and grades these reports." },
+        { number: 3, title: "Multiple occasions for one verse", arabic: "تعدد الأسباب", arabicTranslit: "taʿaddud al-asbāb", description: "Some verses have multiple reported occasions, which the scholars handle carefully: if one report is stronger, it takes precedence; if they are equally strong, some scholars hold all occasions are valid (the verse speaks to each situation); others hold one occasion must be primary. The multiplicity of occasions itself often reveals the verse's broad applicability — it was needed in multiple contexts simultaneously." },
+      ],
+      stations: [
+        { name: "Reading backwards into history", description: "The primary value of asbāb al-nuzūl for the modern reader: it makes the Quran's revelation a living event rather than a fixed text. When you know that a verse was revealed because a woman's husband died and her children were being dispossessed, the verse is not merely law — it is divine response to human suffering. This makes the Quran feel inhabited." },
+        { name: "The Prophet ﷺ as the first occasion", description: "The most intimate form of sabab al-nuzūl is the Prophet's own experience: the verses of Surah Ad-Duha came after a period of silence in revelation during which the Prophet ﷺ was greatly distressed, even mocked. Knowing this transforms the verse 'Your Lord has not forsaken you nor despised you' into something almost unbearably tender. The occasion is the frame; the verse is the response." },
+        { name: "The companions as occasions", description: "Many surahs and verses were revealed in response to questions from companions — Surah Al-Ikhlas in response to a question about Allah's description, the beginning of Surah Al-ʿAbasa in response to the Prophet's turning from a blind man. The companions' questions are themselves a form of divine provision — they drew out from the Quran what the community needed to know." },
+      ],
+      questions: [
+        { question: "Do I need to know asbāb al-nuzūl to understand the Quran?", answer: "For general reading and spiritual benefit, no — the Quran is designed to be accessible to sincere readers in every age. But for accurate tafsir, yes — especially for verses with legal implications or with language that presupposes a historical context. Without the occasion, some verses can be misread (taken too broadly or too narrowly). Asbāb al-nuzūl is not a requirement for every reader; it is a necessity for every mufassir." },
+        { question: "Can the sabab al-nuzūl contradict the verse's general meaning?", answer: "No — and this is the key principle. The occasion does not determine the ruling; the language does. If the verse says 'those who do X,' the ruling applies to everyone who does X, not only to the specific people who occasioned the revelation. The scholars use this principle to prevent both under-application (limiting a verse only to its occasion) and over-application (extending a verse beyond its intended scope)." },
+        { question: "What's the best resource for asbāb al-nuzūl?", answer: "Al-Suyuti's Lubāb al-Nuqūl is the classical standard. In English, Maulana Mufti Shafi's Maʿārif al-Qurʾān consistently cites occasions of revelation. The IslamWeb and Quran.com tafsir databases provide occasion information with source citations for most verses that have known occasions." },
+      ],
+    },
+
+    semanticField: [
+      { slug: 'tafsir',   arabic: 'تَفْسِير', transliteration: 'Tafsir',   relationship: 'deepens', relationshipLabel: "Source for — tafsir draws on asbāb al-nuzūl as a primary tool", description: "Asbāb al-nuzūl is one of the 15 sciences Al-Suyuti listed as prerequisites for tafsir. It is the historical lens without which some verses remain obscure. The greatest tafsirs — al-Tabari, Ibn Kathir, al-Qurtubi — consistently cite occasions of revelation as the first step in explaining difficult or contextually-specific verses." },
+      { slug: 'tadabbur', arabic: 'تَدَبُّر', transliteration: 'Tadabbur', relationship: 'deepens', relationshipLabel: "Enriches — knowing the occasion deepens personal reflection", description: "Tadabbur without asbāb al-nuzūl can produce valid personal reflection but miss the specific register of the verse's revelation. When you know that a verse was revealed at a moment of grief, of joy, of military crisis, or of personal question — your reflection enters that moment and the verse gains its full emotional and historical resonance." },
+    ],
+
+    scholarsSaid: [
+      { scholar: 'Ibn Daqiq al-Id', text: "The elucidation of the occasion of revelation is a powerful way to understand the meanings of the Quran. When a text is connected to its occasion, the meaning becomes clear and the ambiguity is resolved — just as when a question is known, the answer becomes precise.", source: "Cited in Al-Suyuti, Al-Itqān" },
+      { scholar: 'Al-Wahidi', text: "It is not permissible for anyone to speak about the meaning of a verse without first knowing its story and the explanation of its revelation. Without this knowledge, he would be guessing — and guessing about the Quran is a sin.", source: "Asbāb al-Nuzūl, Introduction" },
+    ],
+
+    hadith: [],
+
+    acrossTransitions: `The study of historical context for sacred texts is not unique to Islam — all major scriptural traditions have developed methods for recovering the context of their revelations or compositions.
+
+Jewish biblical scholarship relies heavily on the context of Israelite history for interpreting the Torah and the prophets. The Deuteronomistic history (the books of Joshua through 2 Kings) is itself understood as a theological interpretation of events — the context and the text are interwoven. The Midrash frequently provides narrative context for biblical verses: 'Why is this verse written here? Because X happened.'
+
+Christian New Testament scholarship makes extensive use of socio-historical context — the Sitz im Leben (situation in life) methodology developed by form critics asks: what community situation produced this passage? This is structurally similar to asbāb al-nuzūl, though applied to a text that was written rather than orally transmitted in its occasion.
+
+The difference is in the status of the occasion. In biblical criticism, the occasion is often used to explain a text's origin — which can lead to relativising its authority. In Islamic tafsir, the occasion of revelation never reduces the Quran's authority; it only illuminates its meaning. The distinction is theological: the Quran is divine speech that responded to an occasion; it is not human speech produced by an occasion. The occasion explains the application, not the origin.
+
+This makes asbāb al-nuzūl a uniquely Islamic discipline: it combines historical sensitivity with theological conviction in a way that neither undermines the text's authority nor treats it as historically disembodied.`,
+
+    relatedTerms: [
+      { slug: 'tafsir',   transliteration: 'Tafsir',   term: 'تَفْسِير' },
+      { slug: 'tadabbur', transliteration: 'Tadabbur', term: 'تَدَبُّر' },
+      { slug: 'nazm',     transliteration: 'Nazm',     term: 'نَظْم'    },
+    ],
+
+    goDeeper: [
+      { slug: 'an-nisa', surahName: "An-Nisa'", note: "One of the richest surahs for asbāb al-nuzūl — many of its legal verses were revealed in direct response to questions, disputes, or events in the early community, making the occasions essential for correct understanding of the rulings." },
+      { slug: 'ad-duha', surahName: 'Ad-Duha', note: "Perhaps the most intimate occasion of revelation: a surah revealed directly in response to the Prophet ﷺ's grief during a pause in revelation, making the occasion and the text almost impossible to separate." },
     ],
   },
 }
