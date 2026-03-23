@@ -172,8 +172,8 @@ export const GLOSSARY_TERMS: GlossaryMeta[] = [
   { slug: 'luqman',       term: 'لُقْمَان',          transliteration: 'Luqman',        category: 'Quranic Characters', evocativeLine: 'The wise man who taught his son by talking, not commanding.',                 hasFullEntry: false },
   { slug: 'dhul-qarnayn', term: 'ذُو ٱلْقَرْنَيْن', transliteration: "Dhul-Qarnayn",  category: 'Quranic Characters', evocativeLine: 'The one of two epochs — a sovereign who served rather than ruled.',            hasFullEntry: false },
   { slug: 'ayyub',        term: 'أَيُّوب',           transliteration: 'Ayyub',         category: 'Quranic Characters', evocativeLine: "Affliction beyond measure — and a faith that didn't flinch.",                 hasFullEntry: true },
-  { slug: 'iblis',        term: 'إِبْلِيس',          transliteration: 'Iblis',         category: 'Quranic Characters', evocativeLine: 'He knew the truth, refused it — and has spent eternity trying to make others do the same.', hasFullEntry: false },
-  { slug: 'firaun',       term: 'فِرْعَوْن',         transliteration: "Fir'awn",       category: 'Quranic Characters', evocativeLine: 'The supreme symbol of arrogance — a man who called himself lord and drowned in the sea.', hasFullEntry: false },
+  { slug: 'iblis',        term: 'إِبْلِيس',          transliteration: 'Iblis',         category: 'Quranic Characters', evocativeLine: 'He knew the truth, refused it — and has spent eternity trying to make others do the same.', hasFullEntry: true },
+  { slug: 'firaun',       term: 'فِرْعَوْن',         transliteration: "Fir'awn",       category: 'Quranic Characters', evocativeLine: 'The supreme symbol of arrogance — a man who called himself lord and drowned in the sea.', hasFullEntry: true },
   { slug: 'qarun',        term: 'قَارُون',           transliteration: 'Qarun',         category: 'Quranic Characters', evocativeLine: 'The man of treasures who forgot their source — and was swallowed by the earth.', hasFullEntry: false },
   { slug: 'bilqis',       term: 'بِلْقِيس',          transliteration: 'Bilqis',        category: 'Quranic Characters', evocativeLine: 'The queen who recognized truth when she saw it — and chose it over her throne.', hasFullEntry: false },
   { slug: 'asiya',        term: 'آسِيَة',            transliteration: 'Asiya',         category: 'Quranic Characters', evocativeLine: 'A queen who built a house in Jannah while living in a palace of oppression.',   hasFullEntry: false },
@@ -7659,6 +7659,191 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
     relatedTerms: [
       { slug: 'sabr',     transliteration: 'Sabr',     term: 'صَبْر'    },
       { slug: 'tawakkul', transliteration: 'Tawakkul', term: 'تَوَكُّل' },
+    ],
+    hasFullEntry: true,
+  },
+
+  'firaun': {
+    slug: 'firaun',
+    term: 'فِرْعَوْن',
+    transliteration: "Fir'awn",
+    pronunciation: "fir-AWN",
+    category: 'Quranic Characters',
+    evocativeLine: 'The supreme symbol of arrogance — a man who called himself lord and drowned in the sea.',
+    summary: "Firaun — the Pharaoh of the Quran — is the most extensively portrayed villain in the Quran. He is not merely an ancient tyrant; he is the archetype of a specific spiritual disease: istikbar — the arrogance of claiming ultimate power and rejecting divine authority. The Quran returns to Firaun across dozens of surahs not as history but as warning. His story is a mirror.\n\nFiraun's defining characteristic is his claim: Ana rabbukum al-ala — I am your highest lord (79:24). This is not merely political assertion; it is theological declaration. He sets himself up in the place of Allah. He does not merely disobey Allah; he replaces Allah in the minds of those under his power. This is why the Quran treats him as such a serious theological case — he represents every system, every ideology, every ego that claims ultimate authority over human beings.\n\nHis end is drowning in the sea — while his people have already crossed. And then, in one of the Quran's most striking moments, as he is drowning, he says: I believe that there is no god but He in whom the Children of Israel believe, and I am one of the muslimin (10:90). The response is immediate and devastating: Now? After you disobeyed before and were among the corrupters? Your body will be preserved as a sign for those who come after you (10:91-92). The deathbed declaration is rejected — not for lack of sincerity in that moment, but because the moment of acceptance has passed. The time for tawbah is before the death rattle.",
+    root: {
+      letters: 'ف ر ع ن',
+      transliteration: 'f-r-ʿ-n',
+      meaning: 'A title — from the Egyptian Per-Aa: the great house, the palace (hence pharaoh)',
+      elaboration: "Firaun is a title, not a personal name — the Arabic transliteration of the Egyptian Per-Aa (great house), which became the Greek Pharaoh and the Arabic Firaun. The Quran uses it consistently as a title, not a proper name, which gives it a timeless quality: this is not just one historical individual but the archetype of a position — the one who claims divine authority. The Quran never gives Firaun a personal name, emphasizing the role over the individual.",
+    },
+    rootForms: [
+      { arabic: 'فِرْعَوْن', transliteration: "Firʿawn", type: 'Proper title', meaning: 'The Pharaoh — archetype of divine-claiming tyranny', approxCount: 74, verified: false },
+    ],
+    occurrenceCount: 74,
+    occurrenceNote: "Firaun appears 74 times in the Quran — among the most frequent mentions of any non-prophetic figure. His story is told across more than 20 surahs, each version emphasizing different aspects: his arrogance, his treatment of the Banu Isra'il, his confrontation with Musa, his sorcerers, his drowning. The repetition is pedagogical: this pattern of claiming divine authority and being destroyed by the God one has denied repeats across history.",
+    keyAyahs: [
+      {
+        ref: 'An-Naziat 79:24',
+        arabic: 'فَقَالَ أَنَا رَبُّكُمُ الْأَعْلَىٰ',
+        translation: "And he said: I am your highest lord.",
+        note: "The most concentrated expression of Firaun's claim. Three words in Arabic that constitute the supreme act of istikbar. He does not merely claim political authority — he claims the divine station. This claim is the Quran's theological definition of the Pharaonic type. Every claim to absolute authority over human beings has this structure: I am the final word; there is no appeal beyond me.",
+      },
+      {
+        ref: 'Yunus 10:90-92',
+        arabic: 'آمَنتُ أَنَّهُ لَا إِلَٰهَ إِلَّا الَّذِي آمَنَتْ بِهِ بَنُو إِسْرَائِيلَ... آلْآنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنتَ مِنَ الْمُفْسِدِينَ',
+        translation: "I believe that there is no god but He in whom the Children of Israel believe... Now? When you disobeyed before and were among the corrupters?",
+        note: "The deathbed declaration and its rejection. The theological principle: tawbah at the moment of death, when one sees what is coming, is not accepted. Faith requires free choice; dying while seeing the punishment is not free choice. The preservation of Firaun's body as a sign is confirmed by the discovery of the mummified pharaohs — a physical remainder of what the Quran promised.",
+      },
+      {
+        ref: 'Al-Qasas 28:8',
+        arabic: 'فَالْتَقَطَهُ آلُ فِرْعَوْنَ لِيَكُونَ لَهُمْ عَدُوًّا وَحَزَنًا',
+        translation: "And the family of Firaun picked him up — so that he would become for them an enemy and a cause of grief.",
+        note: "The divine irony at the heart of the Musa story: the very household of the man who sought to kill Musa picks up the infant Musa and raises him. The enemy raises his own destroyer. The Quran explicitly marks this as divine design: what they did to protect themselves becomes the instrument of their own fall. This is the Sunnah of Allah with oppressors.",
+      },
+    ],
+    semanticField: [
+      {
+        slug: 'kibr',
+        arabic: 'كِبْر',
+        transliteration: 'Kibr',
+        relationship: 'deepens',
+        relationshipLabel: 'The spiritual disease Firaun embodies most fully',
+        description: "Firaun is kibr — arrogance — at its terminal stage. His claim to be the highest lord is not the beginning of his arrogance but its culmination. The scholars warn that kibr begins small — refusing to acknowledge that you might be wrong, feeling that your status exempts you from ordinary standards — and ends at Firaun's declaration if not interrupted by tawbah.",
+      },
+      {
+        slug: 'zulm',
+        arabic: 'ظُلْم',
+        transliteration: 'Zulm',
+        relationship: 'deepens',
+        relationshipLabel: 'The systematic oppression Firaun institutionalized',
+        description: "Firaun's zulm is systematic: he enslaved the Banu Isra'il, killed their sons, and built his power on their labor and degradation. The Quran presents his oppression not just as personal sin but as a social structure. His ultimate destruction is divine justice at the systemic level: the oppressor and his entire apparatus are swept away.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: "Recognize the Firaun within", arabic: "مُحَاسَبَة", arabicTranslit: "muḥāsabah", description: "The scholars repeatedly identify that the greatest Firaun is the one within the human soul — the ego that claims it need not answer to anyone, that its desires are the final word, that it is exempt from divine accountability. Muhasaba — self-accounting — is the antidote. The interior Firaun is defeated by regular honest examination of the self." },
+        { number: 2, title: "Never mistake power for righteousness", arabic: "تَمْيِيز", arabicTranslit: "tamyīz", description: "Firaun's power was real — his army, his state, his technology. And it was swept away. The association of power with divine sanction is a recurring temptation in both personal and political life. The Quran's repeated return to Firaun is a standing warning: power is not proof, and the powerful are not exempt." },
+      ],
+      stations: [
+        { name: "Firaun as political archetype", description: "Every system that claims absolute authority over human beings, that denies any accountability beyond itself, that enslaves and degrades those under its power — is Firaun in another form. The Quran makes this explicit: the story is told repeatedly as warning, not history." },
+        { name: "Firaun as spiritual archetype", description: "The human ego at its most untethered. The soul that has refused every call to accountability, that has answered every invitation to softness with hardness, until it reaches the point where it can no longer hear at all — except when it is too late." },
+        { name: "The deathbed moment", description: "When Firaun says he believes as he is drowning — the moment of witnessing — the response is: Now? This moment is the Quran's warning about the category of too late. Death is the closing of the door. Before it closes, the door is open. The entire prophetic mission is to get people through the door before it closes." },
+      ],
+      questions: [
+        { question: "Was the wife of Firaun (Asiya) a believer?", answer: "Yes. The Quran names her among the greatest women who have lived — alongside Maryam (66:11-12). She believed in Musa and in Allah while living in the palace of Firaun. Her du'a is recorded in the Quran: 'My Lord, build for me near You a house in paradise, and save me from Firaun and his deeds, and save me from the wrongdoing people.' Her faith in the palace of the greatest oppressor is among the most extraordinary facts in Quranic history." },
+        { question: "How should we understand Firaun's body being preserved?", answer: "The Quran says his body would be preserved as a sign (10:92). Classical scholars understood this as a divine promise. When Egyptian mummies were discovered and studied in modern times, some scholars pointed to this verse as its fulfillment. Whether the specific mummy identified is Firaun of the Musa story is debated, but the Quran's general statement about preservation is understood as having been fulfilled." },
+      ],
+    },
+    scholarsSaid: [
+      { scholar: "Ibn al-Qayyim", source: "Ighathat al-Lahfan", text: "Firaun is the imam of the arrogant — the greatest example of a soul that refused every opportunity for recognition and return, until it perished in its own arrogance. His story is told in the Quran not to condemn him alone but to warn every soul that carries the same disease in smaller form." },
+      { scholar: "Al-Tabari", source: "Tafsir al-Tabari", text: "The claim of Firaun — Ana rabbukum al-ala — is the definition of shirk in its political form: the claim that something other than Allah is the ultimate authority over human beings and deserves ultimate submission." },
+    ],
+    hadith: [
+      { text: "Among the things that reached Nuh is that the people of Firaun said: There is no god but He in whom the Children of Israel believe — at the moment of drowning. But it was not accepted from them.", source: "Related in various hadith collections on the moment of death and tawbah" },
+    ],
+    acrossTransitions: "Firaun's historical identity has been the subject of extensive Egyptological debate. Various pharaohs have been proposed as the Firaun of Musa's time — Ramesses II (the most popular candidate in popular culture), Thutmose III, Amenhotep II, and others. The Quran does not name him, which classical scholars have understood as deliberate: his significance is typological, not merely historical.\n\nIn liberation theology, Firaun has become a symbol of all forms of systematic oppression. The Exodus narrative — in both its Biblical and Quranic forms — has been used by communities suffering under colonial, racial, and economic domination to articulate their own experience and their hope for divine intervention.\n\nIn the Sufi tradition, Firaun represents the most extreme form of the nafs al-ammara — the commanding self — the ego that has fully surrendered to its own desires and declared itself supreme. The spiritual path is understood as the gradual displacement of the interior Firaun by the orientation toward Allah.",
+    goDeeper: [
+      { slug: 'ta-ha', surahName: 'Ta Ha', note: "The most extended account of the confrontation between Musa and Firaun, ending with the drowning" },
+      { slug: 'al-qasas', surahName: 'Al-Qasas', note: "The irony of Firaun raising Musa — the instrument of his own destruction" },
+      { slug: 'yunus', surahName: 'Yunus', note: "The deathbed declaration of Firaun and its rejection — the theological definition of too late" },
+    ],
+    relatedTerms: [
+      { slug: 'musa',  transliteration: 'Musa',  term: 'مُوسَىٰ' },
+      { slug: 'zulm',  transliteration: 'Zulm',  term: 'ظُلْم'  },
+    ],
+    hasFullEntry: true,
+  },
+
+  'iblis': {
+    slug: 'iblis',
+    term: 'إِبْلِيس',
+    transliteration: 'Iblis',
+    pronunciation: 'ib-LEES',
+    category: 'Quranic Characters',
+    evocativeLine: 'He knew the truth, refused it — and has spent eternity trying to make others do the same.',
+    summary: "Iblis is the original rebel — the being who refused the divine command and became the adversary of humanity. The Quran's account of Iblis is among its most theologically dense: a figure present at the moment of Adam's creation, commanded to bow, refusing on the grounds of his own superiority (I am better than him — You created me from fire and created him from clay), and then receiving respite until the Day of Judgment in which to attempt the corruption of human beings.\n\nIblis is from the jinn — the Quran makes this explicit (18:50). He is not a fallen angel; he is a jinn who had reached a station of nearness to Allah through worship, and then refused the single command that revealed the pride in his heart. His refusal is not a refusal of Allah's existence — he never denies that. It is a refusal of a divine command on the grounds of his own comparative assessment. This is the structure of all kibr: I deserve an exception to the rule because of who I am.\n\nIblis does not hide his plan. He announces it: I will sit on Your straight path and come at them from every direction — from before them, from behind, from the right and from the left (7:16-17). He is an enemy who has declared himself, whose methods are known, whose weakness is also known: he has no authority over the servants of Allah who are sincere. The Quran's description of his power is carefully bounded: he whispers, he suggests, he adorns, he promises — but he cannot compel. On the Day of Judgment, he will say: I had no authority over you except that I called, and you responded (14:22).",
+    root: {
+      letters: 'ب ل س',
+      transliteration: 'b-l-s',
+      meaning: 'To be in despair, to be without hope or good',
+      elaboration: "The name Iblis is derived from the root b-l-s, connected to the sense of despair and hopelessness — the state of one cut off from divine mercy. From the same root: mublas (one in despair), and the implied state of Iblis after the divine curse: a being without access to the mercy that sustains all existence. The name itself is a theological statement: despair of mercy is what Iblis has chosen and what characterizes his state.",
+    },
+    rootForms: [
+      { arabic: 'إِبْلِيس', transliteration: 'Iblīs', type: 'Proper noun', meaning: 'The name of the original rebel jinn', approxCount: 11, verified: false },
+      { arabic: 'شَيْطَان', transliteration: 'Shaytan', type: 'Common noun used as title', meaning: 'Adversary, devil — what Iblis becomes and what all those who follow his path become', approxCount: 88, verified: false },
+    ],
+    occurrenceCount: 11,
+    occurrenceNote: "Iblis is named as Iblis 11 times in the Quran, primarily in the passages describing the original scene with Adam (2:34, 7:11, 15:31, 17:61, 18:50, 20:116, 38:74-75). He is also referred to throughout the Quran by the title Shaytan (the adversary), which applies both to him individually and to the broader class of beings that follow his path of rebellion and corruption.",
+    keyAyahs: [
+      {
+        ref: 'Al-Baqarah 2:34',
+        arabic: 'وَإِذْ قُلْنَا لِلْمَلَائِكَةِ اسْجُدُوا لِآدَمَ فَسَجَدُوا إِلَّا إِبْلِيسَ أَبَىٰ وَاسْتَكْبَرَ وَكَانَ مِنَ الْكَافِرِينَ',
+        translation: "And when We said to the angels: Bow to Adam. They bowed, except Iblis — he refused, was arrogant, and became of the disbelievers.",
+        note: "The defining moment. Aba (he refused) and istakbara (was arrogant) — the two verbs that define Iblis. Refusal and arrogance are linked: the refusal flows from the arrogance. The sequence is important: he was not arrogant because he refused; he refused because he was arrogant. The pride was already there; the command simply revealed it. His subsequent categorization as a kafir — one who covers, denies — is the Quran's theological statement that what Iblis does is essentially what all kufr does: refuse in the face of clarity.",
+      },
+      {
+        ref: 'Al-Araf 7:12',
+        arabic: 'قَالَ مَا مَنَعَكَ أَلَّا تَسْجُدَ إِذْ أَمَرْتُكَ ۖ قَالَ أَنَا خَيْرٌ مِّنْهُ ۖ خَلَقْتَنِي مِن نَّارٍ وَخَلَقْتَهُ مِن طِينٍ',
+        translation: "He said: What prevented you from bowing when I commanded you? He said: I am better than him — You created me from fire and created him from clay.",
+        note: "The argument of Iblis. His logic is internally coherent — from his premise. If fire is superior to clay, then a being of fire is superior to a being of clay. The problem is the premise: he has made his own comparative assessment of materials the grounds for overriding a divine command. This is the structure of every act of kibr: my assessment of relative worth overrides your command. The Quran's response is the story that follows: the one Iblis dismissed has become the vicegerent of Allah on earth.",
+      },
+      {
+        ref: 'Ibrahim 14:22',
+        arabic: 'وَقَالَ الشَّيْطَانُ لَمَّا قُضِيَ الْأَمْرُ إِنَّ اللَّهَ وَعَدَكُمْ وَعْدَ الْحَقِّ وَوَعَدتُّكُمْ فَأَخْلَفْتُكُمْ ۖ وَمَا كَانَ لِيَ عَلَيْكُمْ مِّن سُلْطَانٍ إِلَّا أَن دَعَوْتُكُمْ فَاسْتَجَبْتُمْ',
+        translation: "And Shaytan will say when the matter has been decided: Indeed, Allah had promised you a true promise, and I promised you and betrayed you. I had no authority over you except that I called you and you responded to me.",
+        note: "Iblis on the Day of Judgment, after everything is settled. His final statement is among the most important in the Quran for understanding his power: I had no authority (sultan). I only called. You responded. The implication is clear: his power was always just invitation. The human being who followed him was not compelled — they chose. This is the Quran's defense of free will and the basis of human accountability.",
+      },
+    ],
+    semanticField: [
+      {
+        slug: 'kibr',
+        arabic: 'كِبْر',
+        transliteration: 'Kibr',
+        relationship: 'deepens',
+        relationshipLabel: 'The root of the original refusal',
+        description: "Iblis is the first example of kibr in the Quran — the arrogance that says I am better, therefore I am exempt. Every subsequent act of kibr in the Quran is structurally the same refusal: placing one's own assessment of worth above divine command. The scholars warn: kibr begins as small as Iblis begins — with a comparison, a preference, a small exemption — and if unchecked, it ends where Iblis ends.",
+      },
+      {
+        slug: 'ikhlas',
+        arabic: 'إِخْلَاص',
+        transliteration: 'Ikhlas',
+        relationship: 'divine-response',
+        relationshipLabel: 'The quality that protects against Iblis',
+        description: "Iblis himself identifies his own limitation: he has no power over the ibad al-mukhlassin — the sincerely devoted servants (38:83). Ikhlas is not merely spiritual refinement; it is the specific protection against shaytan's influence. The sincere heart that acts only for Allah is outside the reach of Iblis's primary weapon: the adornment of desires and the suggestion of alternatives to divine command.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: "Know the enemy's methods", arabic: "مَعْرِفَة", arabicTranslit: "maʿrifah", description: "Iblis announces his strategy: he will come from every direction, primarily through the corruption of gratitude (7:17: most of them will not be grateful). His primary method is was-was — whispered suggestion, not forced action. The believer who knows these methods is not surprised when they encounter doubt, discouragement, or sudden lustful impulse. Recognition is the first defense." },
+        { number: 2, title: "Seek refuge before entering his territory", arabic: "اسْتِعَاذَة", arabicTranslit: "istiʿādhah", description: "The Quran instructs: Say, I seek refuge in Allah from the cursed Shaytan — before recitation, before prayer, at moments of temptation. This is not superstition; it is an acknowledgment that the protection is from Allah, and that the sincere turning to Allah closes the door that Iblis needs open." },
+        { number: 3, title: "Do not take him as a guardian", arabic: "وَلَاء", arabicTranslit: "walāʾ", description: "The Quran asks in astonishment: Will you take him as a guardian rather than Me, when he is to you a clear enemy? (18:50). The relationship of guardianship — wala — belongs to Allah. Every time a person follows Iblis's whisper, they have temporarily given guardianship to the enemy. The practice is to return, again and again, to giving guardianship only to the One who actually loves." },
+      ],
+      stations: [
+        { name: "The original refusal", description: "A single act of kibr, a single refusal of a divine command, and everything changes. The scholars draw the lesson: the protection against becoming Iblis is the continuous cultivation of humility and the immediate tawbah when pride is detected in oneself." },
+        { name: "The long campaign", description: "Iblis at work in the world — patient, strategic, multi-directional. He waits; he suggests; he adorns; he whispers. His patience across human history is itself a warning: the battle is not a sprint but a lifetime." },
+        { name: "The final admission", description: "On the Day of Judgment, Iblis admits the truth. He had no authority. He only called. What makes this significant is that it exonerates Iblis of nothing — he called toward ruin — but it clarifies the mechanism. The human being always retained the choice. That retention is what makes accountability just." },
+      ],
+      questions: [
+        { question: "Is Iblis the same as Shaytan?", answer: "Iblis is the proper name of the specific being who refused to bow to Adam and became the adversary. Shaytan is a title — meaning adversary or rebel — that applies to Iblis and to any being (jinn or human) who takes on his role of corruption and leading others astray. The Quran warns against shayateen al-ins wa-l-jinn — the human and jinn adversaries. Iblis is the original Shaytan; not all shaytans are Iblis." },
+        { question: "Why did Allah give Iblis respite until the Day of Judgment?", answer: "The Quran does not explain the full divine wisdom. But the framework it provides is clear: the test of human beings — the whole experiment of the amanah — requires the genuine possibility of failure. Iblis is part of what makes the test real. Without genuine temptation, the choice of the believer would be meaningless. Allah's allowing of Iblis is not a mistake or an oversight; it is part of the architecture of the moral universe that makes human accountability real." },
+      ],
+    },
+    scholarsSaid: [
+      { scholar: "Ibn al-Qayyim", source: "Madarij al-Salikin", text: "Iblis is the imam of every evil and its origin. His two fundamental qualities — kibr and hasad (arrogance and envy) — are the roots from which all corruption of the soul grows. The scholar who identified these two as the fountainhead of Iblis's nature taught the student how to recognize Iblis wherever he appears: in the soul's refusal to submit and in the soul's resentment of what others have been given." },
+      { scholar: "Ibn Taymiyya", source: "Majmu al-Fatawa", text: "Iblis's knowledge did not save him. He knew Allah, he knew the angels, he witnessed the creation of Adam — and he still refused. Knowledge without surrender is dangerous, not liberating. This is the permanent warning of Iblis's story to those who study religion: the endpoint is not information but submission." },
+    ],
+    hadith: [
+      { text: "Iblis said: By Your might, I will not cease to mislead Your servants as long as their souls are in their bodies. Allah said: By My might and majesty, I will not cease to forgive them as long as they seek My forgiveness.", source: "Musnad Ahmad — authentic" },
+    ],
+    acrossTransitions: "The figure of Iblis represents one of the most distinctive elements of the Quranic worldview compared to other religious traditions. In the biblical account, the serpent in Eden is a creature of mystery; later Christian tradition developed the doctrine of Satan as a fallen angel (Lucifer), cast from heaven for pride. The Quran's Iblis is a jinn, not an angel — a being of a different order who reached a high station through worship and then fell through a single act of kibr.\n\nThe Sufi tradition developed an extended meditation on Iblis that some found provocative: the question of whether Iblis, in his refusal to bow to Adam, was actually (in some perverse way) affirming the uniqueness of Allah — refusing to bow to anything other than God. This reading is generally rejected by mainstream scholarship as a romanticization of what the Quran treats as a genuine act of rebellion and arrogance.\n\nIn contemporary Islamic reflection, Iblis serves as the analysis of evil's internal logic: it always begins with a comparison (I am better), continues with an exemption claim (therefore the rule does not apply to me), and ends with a mission (and I will prove it by showing that others will also choose as I chose). The pattern is recognizable in every ideology that justifies its harm by appeal to its own superiority.",
+    goDeeper: [
+      { slug: 'al-araf', surahName: 'Al-Araf', note: "The fullest account of the original scene — the command, the refusal, the argument, the respite, and the declaration of the long campaign" },
+      { slug: 'al-hijr', surahName: 'Al-Hijr', note: "The encounter between Iblis and Allah after the refusal, with the explicit identification of the ibad al-mukhlassin as outside his reach" },
+    ],
+    relatedTerms: [
+      { slug: 'ikhlas', transliteration: 'Ikhlas', term: 'إِخْلَاص' },
+      { slug: 'taqwa',  transliteration: 'Taqwa',  term: 'تَقْوَى'  },
     ],
     hasFullEntry: true,
   },
