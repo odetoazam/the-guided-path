@@ -21,6 +21,7 @@ const SURAH_DATA = {
   reflectionUrl: "/surahs/al-anam",
   readTime: "24 min read",
 
+  sciencesActive: [{"key":"aqeedah","english":"Theology"},{"key":"balaghah","english":"Rhetoric"},{"key":"nazm","english":"Structural Coherence"}],
   // ── Heart Verse ───────────────────────────────────────────────────────────
   heartVerse: {
     arabic: "لَّا تُدْرِكُهُ ٱلْأَبْصَـٰرُ وَهُوَ يُدْرِكُ ٱلْأَبْصَـٰرَ ۖ وَهُوَ ٱللَّطِيفُ ٱلْخَبِيرُ",
@@ -679,6 +680,9 @@ export default function SurahArchitecture() {
 
         <OrnamentDivider />
 
+
+        <AudioPlayer audio={d.audio} />
+
         {/* ── Tab bar ──────────────────────────────────────────────────────── */}
         <div className="sticky z-40 bg-navy-dark/95 backdrop-blur-sm pt-2 pb-0" style={{ top: 67 }}>
           <div className="flex gap-1 rounded-xl bg-white/[0.03] p-1">
@@ -714,7 +718,6 @@ export default function SurahArchitecture() {
               <SectionMap sections={d.sectionMap} ayahCount={d.ayahCount} note="Revealed as a single breath" />
               <OrnamentDivider />
               <HeartVerse verse={d.heartVerse} />
-              <AudioPlayer audio={d.audio} />
             </div>
           )}
         </div>

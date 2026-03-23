@@ -20,6 +20,7 @@ const SURAH_DATA = {
   reflectionUrl: "/surahs/at-taghabun",
   readTime: "18 min read",
 
+  sciencesActive: [{"key":"makki_madani","english":"Revelation Context"},{"key":"aqeedah","english":"Theology"},{"key":"balaghah","english":"Rhetoric"}],
   heartVerse: {
     arabic: "يَا أَيُّهَا الَّذِينَ آمَنُوا إِنَّ مِنْ أَزْوَاجِكُمْ وَأَوْلَادِكُمْ عَدُوًّا لَّكُمْ فَاحْذَرُوهُمْ ۚ وَإِن تَعْفُوا وَتَصْفَحُوا وَتَغْفِرُوا فَإِنَّ اللَّهَ غَفُورٌ رَّحِيمٌ",
     ayahRef: "64:14",
@@ -147,6 +148,9 @@ export default function SurahArchitecture() {
         </div>
       </header>
       <OrnamentDivider />
+
+
+        <AudioPlayer audio={d.audio} />
       <div className="sticky z-40 bg-navy-dark/95 backdrop-blur-sm pt-2 pb-0" style={{ top: 67 }}><div className="flex gap-1 rounded-xl bg-white/[0.03] p-1">{TABS.map((tab) => (<button key={tab.id} onClick={() => setActiveTab(tab.id)} className={`flex-1 rounded-lg py-2.5 text-xs font-medium font-sans transition-all ${activeTab === tab.id ? "bg-gold-500 text-navy-dark shadow-sm" : "text-cream-muted/60 hover:text-cream hover:bg-white/[0.04]"}`}>{tab.label}</button>))}</div></div>
       <div className="min-h-[400px] pt-6 pb-8">
         {activeTab === "journey" && <SectionJourney data={d.diagrams.sectionJourney} />}

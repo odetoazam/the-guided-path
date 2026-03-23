@@ -20,6 +20,7 @@ const SURAH_DATA = {
   reflectionUrl: "/surahs/ad-dhuha",
   readTime: "16 min read",
 
+  sciencesActive: [{"key":"qasam","english":"Oaths"},{"key":"balaghah","english":"Rhetoric"},{"key":"sarf","english":"Morphology"}],
   heartVerse: {
     arabic: "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰ",
     ayahRef: "93:5",
@@ -404,6 +405,9 @@ export default function SurahArchitecture() {
 
         <OrnamentDivider />
 
+
+        <AudioPlayer audio={d.audio} />
+
         {/* ── Tab bar ──────────────────────────────────────────────────────── */}
         <div className="sticky z-40 bg-navy-dark/95 backdrop-blur-sm pt-2 pb-0" style={{ top: 67 }}>
           <div className="flex gap-1 rounded-xl bg-white/[0.03] p-1">
@@ -434,7 +438,6 @@ export default function SurahArchitecture() {
               <FullSurahText verses={d.fullText} />
               <OrnamentDivider />
               <HeartVerse verse={d.heartVerse} />
-              <AudioPlayer audio={d.audio} />
             </div>
           )}
         </div>

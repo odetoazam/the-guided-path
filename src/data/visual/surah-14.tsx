@@ -20,6 +20,7 @@ const SURAH_DATA = {
   reflectionUrl: "/surahs/ibrahim",
   readTime: "22 min read",
 
+  sciencesActive: [{"key":"amthal","english":"Parables"},{"key":"balaghah","english":"Rhetoric"},{"key":"qasas","english":"Quranic Narratives"}],
   heartVerse: {
     arabic: "أَلَمْ تَرَ كَيْفَ ضَرَبَ اللَّهُ مَثَلًا كَلِمَةً طَيِّبَةً كَشَجَرَةٍ طَيِّبَةٍ أَصْلُهَا ثَابِتٌ وَفَرْعُهَا فِي السَّمَاءِ",
     ayahRef: "14:24",
@@ -413,6 +414,9 @@ export default function SurahArchitecture() {
 
         <OrnamentDivider />
 
+
+        <AudioPlayer audio={d.audio} />
+
         {/* ── Tab bar ──────────────────────────────────────────────────────── */}
         <div className="sticky z-40 bg-navy-dark/95 backdrop-blur-sm pt-2 pb-0" style={{ top: 67 }}>
           <div className="flex gap-1 rounded-xl bg-white/[0.03] p-1">
@@ -443,7 +447,6 @@ export default function SurahArchitecture() {
               <FullSurahText verses={d.fullText} />
               <OrnamentDivider />
               <HeartVerse verse={d.heartVerse} />
-              <AudioPlayer audio={d.audio} />
             </div>
           )}
         </div>

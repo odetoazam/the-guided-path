@@ -20,6 +20,7 @@ const SURAH_DATA = {
   reflectionUrl: "/surahs/as-saffat",
   readTime: "28 min read",
 
+  sciencesActive: [{"key":"qasas","english":"Quranic Narratives"},{"key":"qasam","english":"Oaths"},{"key":"nazm","english":"Structural Coherence"}],
   heartVerse: {
     arabic: "يَا أَبَتِ افْعَلْ مَا تُؤْمَرُ ۖ سَتَجِدُنِي إِن شَاءَ اللَّهُ مِنَ الصَّابِرِينَ",
     ayahRef: "37:102",
@@ -405,6 +406,9 @@ export default function SurahArchitecture() {
 
         <OrnamentDivider />
 
+
+        <AudioPlayer audio={d.audio} />
+
         {/* ── Tab bar ──────────────────────────────────────────────────────── */}
         <div className="sticky z-40 bg-navy-dark/95 backdrop-blur-sm pt-2 pb-0" style={{ top: 67 }}>
           <div className="flex gap-1 rounded-xl bg-white/[0.03] p-1">
@@ -435,7 +439,6 @@ export default function SurahArchitecture() {
               <FullSurahText verses={d.fullText} />
               <OrnamentDivider />
               <HeartVerse verse={d.heartVerse} />
-              <AudioPlayer audio={d.audio} />
             </div>
           )}
         </div>

@@ -20,6 +20,7 @@ const SURAH_DATA = {
   reflectionUrl: "/surahs/al-maarij",
   readTime: "18 min read",
 
+  sciencesActive: [{"key":"balaghah","english":"Rhetoric"},{"key":"sarf","english":"Morphology"},{"key":"nazm","english":"Structural Coherence"}],
   heartVerse: {
     arabic: "\u0625\u0650\u0646\u0651\u064E \u0627\u0644\u0652\u0625\u0650\u0646\u0633\u064E\u0627\u0646\u064E \u062E\u064F\u0644\u0650\u0642\u064E \u0647\u064E\u0644\u064F\u0648\u0639\u064B\u0627",
     ayahRef: "70:19",
@@ -437,6 +438,9 @@ export default function SurahArchitecture() {
 
         <OrnamentDivider />
 
+
+        <AudioPlayer audio={d.audio} />
+
         {/* -- Tab bar ------------------------------------------------------ */}
         <div className="sticky z-40 bg-navy-dark/95 backdrop-blur-sm pt-2 pb-0" style={{ top: 67 }}>
           <div className="flex gap-1 rounded-xl bg-white/[0.03] p-1">
@@ -467,7 +471,6 @@ export default function SurahArchitecture() {
               <FullSurahText verses={d.fullText} />
               <OrnamentDivider />
               <HeartVerse verse={d.heartVerse} />
-              <AudioPlayer audio={d.audio} />
             </div>
           )}
         </div>

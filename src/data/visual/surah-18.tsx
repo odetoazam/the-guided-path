@@ -20,6 +20,7 @@ const SURAH_DATA = {
   reflectionUrl: "/surahs/al-kahf",
   readTime: "30 min read",
 
+  sciencesActive: [{"key":"qasas","english":"Quranic Narratives"},{"key":"nazm","english":"Structural Coherence"},{"key":"amthal","english":"Parables"}],
   heartVerse: {
     arabic: "قُلْ إِنَّمَا أَنَا بَشَرٌ مِّثْلُكُمْ يُوحَىٰ إِلَيَّ أَنَّمَا إِلَٰهُكُمْ إِلَٰهٌ وَاحِدٌ",
     ayahRef: "18:110",
@@ -372,6 +373,9 @@ export default function SurahArchitecture() {
 
         <OrnamentDivider />
 
+
+        <AudioPlayer audio={d.audio} />
+
         {/* ── Tab bar ──────────────────────────────────────────────────────── */}
         <div className="sticky z-40 bg-navy-dark/95 backdrop-blur-sm pt-2 pb-0" style={{ top: 67 }}>
           <div className="flex gap-1 rounded-xl bg-white/[0.03] p-1">
@@ -401,7 +405,6 @@ export default function SurahArchitecture() {
             <div className="space-y-6">
               <HeartVerse verse={d.heartVerse} />
               <OrnamentDivider />
-              <AudioPlayer audio={d.audio} />
             </div>
           )}
         </div>

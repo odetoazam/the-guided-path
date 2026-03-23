@@ -20,6 +20,7 @@ const SURAH_DATA = {
   reflectionUrl: "/surahs/as-saff",
   readTime: "18 min read",
 
+  sciencesActive: [{"key":"nazm","english":"Structural Coherence"},{"key":"balaghah","english":"Rhetoric"},{"key":"munasabat","english":"Inter-surah Connections"}],
   heartVerse: {
     arabic: "يَا أَيُّهَا الَّذِينَ آمَنُوا لِمَ تَقُولُونَ مَا لَا تَفْعَلُونَ",
     ayahRef: "61:2",
@@ -332,6 +333,9 @@ export default function SurahArchitecture() {
 
         <OrnamentDivider />
 
+
+        <AudioPlayer audio={d.audio} />
+
         <div className="sticky z-40 bg-navy-dark/95 backdrop-blur-sm pt-2 pb-0" style={{ top: 67 }}>
           <div className="flex gap-1 rounded-xl bg-white/[0.03] p-1">
             {TABS.map((tab) => (
@@ -350,7 +354,6 @@ export default function SurahArchitecture() {
               <FullSurahText verses={d.fullText} />
               <OrnamentDivider />
               <HeartVerse verse={d.heartVerse} />
-              <AudioPlayer audio={d.audio} />
             </div>
           )}
         </div>

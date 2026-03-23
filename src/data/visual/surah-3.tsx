@@ -21,6 +21,7 @@ const SURAH_DATA = {
   reflectionUrl: "/surahs/ali-imran",
   readTime: "25 min read",
 
+  sciencesActive: [{"key":"nazm","english":"Structural Coherence"},{"key":"muhkamat","english":"Clear & Ambiguous Verses"},{"key":"munasabat","english":"Inter-surah Connections"}],
   // ── Heart Verse ───────────────────────────────────────────────────────────
   heartVerse: {
     arabic: "\u0648\u062A\u0650\u0644\u0652\u0643\u064E \u0627\u0644\u0652\u0623\u064E\u064A\u0651\u064E\u0627\u0645\u064F \u0646\u064F\u062F\u064E\u0627\u0648\u0650\u0644\u064F\u0647\u064E\u0627 \u0628\u064E\u064A\u0652\u0646\u064E \u0627\u0644\u0646\u0651\u064E\u0627\u0633\u0650",
@@ -646,6 +647,9 @@ export default function SurahArchitecture() {
 
         <OrnamentDivider />
 
+
+        <AudioPlayer audio={d.audio} />
+
         {/* ── Tab bar ──────────────────────────────────────────────────────── */}
         <div className="sticky z-40 bg-navy-dark/95 backdrop-blur-sm pt-2 pb-0" style={{ top: 67 }}>
           <div className="flex gap-1 rounded-xl bg-white/[0.03] p-1">
@@ -681,7 +685,6 @@ export default function SurahArchitecture() {
               <SectionMap sections={d.sectionMap} />
               <OrnamentDivider />
               <HeartVerse verse={d.heartVerse} />
-              <AudioPlayer audio={d.audio} />
             </div>
           )}
         </div>

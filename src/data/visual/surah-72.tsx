@@ -20,6 +20,7 @@ const SURAH_DATA = {
   reflectionUrl: "/surahs/al-jinn",
   readTime: "20 min read",
 
+  sciencesActive: [{"key":"qasas","english":"Quranic Narratives"},{"key":"balaghah","english":"Rhetoric"},{"key":"aqeedah","english":"Theology"}],
   heartVerse: {
     arabic: "\u0648\u064E\u0623\u064E\u0646\u064E\u0651 \u0627\u0644\u0652\u0645\u064E\u0633\u064E\u0627\u062C\u0650\u062F\u064E \u0644\u0650\u0644\u064E\u0651\u0647\u0650 \u0641\u064E\u0644\u064E\u0627 \u062A\u064E\u062F\u0652\u0639\u064F\u0648\u0627 \u0645\u064E\u0639\u064E \u0627\u0644\u0644\u064E\u0651\u0647\u0650 \u0623\u064E\u062D\u064E\u062F\u064B\u0627",
     ayahRef: "72:18",
@@ -420,6 +421,9 @@ export default function SurahArchitecture() {
 
         <OrnamentDivider />
 
+
+        <AudioPlayer audio={d.audio} />
+
         {/* -- Tab bar ------------------------------------------------------ */}
         <div className="sticky z-40 bg-navy-dark/95 backdrop-blur-sm pt-2 pb-0" style={{ top: 67 }}>
           <div className="flex gap-1 rounded-xl bg-white/[0.03] p-1">
@@ -450,7 +454,6 @@ export default function SurahArchitecture() {
               <FullSurahText verses={d.fullText} />
               <OrnamentDivider />
               <HeartVerse verse={d.heartVerse} />
-              <AudioPlayer audio={d.audio} />
             </div>
           )}
         </div>

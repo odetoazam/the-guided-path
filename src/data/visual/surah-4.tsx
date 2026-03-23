@@ -21,6 +21,7 @@ const SURAH_DATA = {
   reflectionUrl: "/surahs/an-nisa",
   readTime: "27 min read",
 
+  sciencesActive: [{"key":"nasikh","english":"Abrogation"},{"key":"usul_tafsir","english":"Principles of Interpretation"},{"key":"muhkamat","english":"Clear & Ambiguous Verses"}],
   // ── Heart Verse ───────────────────────────────────────────────────────────
   heartVerse: {
     arabic: "\u064A\u064E\u0627 \u0623\u064E\u064A\u0651\u064F\u0647\u064E\u0627 \u0627\u0644\u0651\u064E\u0630\u0650\u064A\u0646\u064E \u0622\u0645\u064E\u0646\u064F\u0648\u0627 \u0643\u064F\u0648\u0646\u064F\u0648\u0627 \u0642\u064E\u0648\u0651\u064E\u0627\u0645\u0650\u064A\u0646\u064E \u0628\u0650\u0627\u0644\u0652\u0642\u0650\u0633\u0652\u0637\u0650 \u0634\u064F\u0647\u064E\u062F\u064E\u0627\u0621\u064E \u0644\u0650\u0644\u0651\u064E\u0647\u0650 \u0648\u064E\u0644\u064E\u0648\u0652 \u0639\u064E\u0644\u064E\u0649\u0670 \u0623\u064E\u0646\u0641\u064F\u0633\u0650\u0643\u064F\u0645\u0652",
@@ -655,6 +656,9 @@ export default function SurahArchitecture() {
 
         <OrnamentDivider />
 
+
+        <AudioPlayer audio={d.audio} />
+
         {/* ── Tab bar ──────────────────────────────────────────────────────── */}
         <div className="sticky z-40 bg-navy-dark/95 backdrop-blur-sm pt-2 pb-0" style={{ top: 67 }}>
           <div className="flex gap-1 rounded-xl bg-white/[0.03] p-1">
@@ -690,7 +694,6 @@ export default function SurahArchitecture() {
               <SectionMap sections={d.sectionMap} />
               <OrnamentDivider />
               <HeartVerse verse={d.heartVerse} />
-              <AudioPlayer audio={d.audio} />
             </div>
           )}
         </div>

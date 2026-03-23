@@ -21,6 +21,7 @@ const SURAH_DATA = {
   reflectionUrl: "/surahs/al-maidah",
   readTime: "22 min read",
 
+  sciencesActive: [{"key":"nasikh","english":"Abrogation"},{"key":"makki_madani","english":"Revelation Context"},{"key":"usul_tafsir","english":"Principles of Interpretation"}],
   // ── Heart Verse ───────────────────────────────────────────────────────────
   heartVerse: {
     arabic: "ٱلْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِى وَرَضِيتُ لَكُمُ ٱلْإِسْلَـٰمَ دِينًا",
@@ -666,6 +667,9 @@ export default function SurahArchitecture() {
 
         <OrnamentDivider />
 
+
+        <AudioPlayer audio={d.audio} />
+
         {/* ── Tab bar ──────────────────────────────────────────────────────── */}
         <div className="sticky z-40 bg-navy-dark/95 backdrop-blur-sm pt-2 pb-0" style={{ top: 67 }}>
           <div className="flex gap-1 rounded-xl bg-white/[0.03] p-1">
@@ -701,7 +705,6 @@ export default function SurahArchitecture() {
               <SectionMap sections={d.sectionMap} ayahCount={d.ayahCount} note="The capstone of revelation" />
               <OrnamentDivider />
               <HeartVerse verse={d.heartVerse} />
-              <AudioPlayer audio={d.audio} />
             </div>
           )}
         </div>
