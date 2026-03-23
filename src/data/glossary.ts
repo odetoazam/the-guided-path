@@ -144,12 +144,12 @@ export const GLOSSARY_TERMS: GlossaryMeta[] = [
   { slug: 'muraqaba',   term: 'مُرَاقَبَة', transliteration: 'Muraqaba',   category: 'States of the Heart', evocativeLine: 'The awareness of being watched — living as though you can see Allah, knowing He sees you.', hasFullEntry: true },
   { slug: 'muhasaba',   term: 'مُحَاسَبَة', transliteration: 'Muhasaba',   category: 'States of the Heart', evocativeLine: 'The daily accounting of the self — before you are called to account.',                   hasFullEntry: true },
   { slug: 'inabah',     term: 'إِنَابَة',   transliteration: 'Inabah',     category: 'States of the Heart', evocativeLine: 'Turning to Allah with the whole soul — more urgent and total than tawbah.',              hasFullEntry: true },
-  { slug: 'tafakkur',   term: 'تَفَكُّر',   transliteration: 'Tafakkur',   category: 'States of the Heart', evocativeLine: 'The deliberate use of reason to see signs — thinking as an act of worship.',             hasFullEntry: false },
+  { slug: 'tafakkur',   term: 'تَفَكُّر',   transliteration: 'Tafakkur',   category: 'States of the Heart', evocativeLine: 'The deliberate use of reason to see signs — thinking as an act of worship.',             hasFullEntry: true },
   { slug: 'dhikr',      term: 'ذِكْر',      transliteration: 'Dhikr',      category: 'States of the Heart', evocativeLine: "The remembrance of Allah — the heart's breath, without which it suffocates.",            hasFullEntry: true },
-  { slug: 'hilm',       term: 'حِلْم',      transliteration: 'Hilm',       category: 'States of the Heart', evocativeLine: 'Forbearance that absorbs harm without retaliation — the strength to be still.',          hasFullEntry: false },
-  { slug: 'uns',        term: 'أُنْس',      transliteration: 'Uns',        category: 'States of the Heart', evocativeLine: 'Intimacy with Allah — the sweetness of His presence that makes solitude a gift.',         hasFullEntry: false },
-  { slug: 'khashya',    term: 'خَشْيَة',    transliteration: 'Khashya',    category: 'States of the Heart', evocativeLine: 'Reverential awe born of knowledge — the fear of those who truly know.',                  hasFullEntry: false },
-  { slug: 'afw',        term: 'عَفْو',      transliteration: "Afw",        category: 'States of the Heart', evocativeLine: 'Pardoning — the release of the right to retaliate, chosen freely out of strength.',      hasFullEntry: false },
+  { slug: 'hilm',       term: 'حِلْم',      transliteration: 'Hilm',       category: 'States of the Heart', evocativeLine: 'Forbearance that absorbs harm without retaliation — the strength to be still.',          hasFullEntry: true },
+  { slug: 'uns',        term: 'أُنْس',      transliteration: 'Uns',        category: 'States of the Heart', evocativeLine: 'Intimacy with Allah — the sweetness of His presence that makes solitude a gift.',         hasFullEntry: true },
+  { slug: 'khashya',    term: 'خَشْيَة',    transliteration: 'Khashya',    category: 'States of the Heart', evocativeLine: 'Reverential awe born of knowledge — the fear of those who truly know.',                  hasFullEntry: true },
+  { slug: 'afw',        term: 'عَفْو',      transliteration: "Afw",        category: 'States of the Heart', evocativeLine: 'Pardoning — the release of the right to retaliate, chosen freely out of strength.',      hasFullEntry: true },
 
   // ── The Unseen ───────────────────────────────────────────────────────────────
   { slug: 'barzakh',         term: 'بَرْزَخ',         transliteration: 'Barzakh',         category: 'The Unseen', evocativeLine: 'The barrier between two worlds — where the departed now dwell.',                      hasFullEntry: true  },
@@ -4726,6 +4726,460 @@ What is distinctive in the Quranic usage of inabah is the relational specificity
     goDeeper: [
       { slug: 'al-zumar', surahName: 'Al-Zumar', note: "Contains 39:53-54 — 'Do not despair of the mercy of Allah... And return to your Lord.' The context makes it the Quran's most powerful inabah moment: mercy is infinite, but the door must be entered now." },
       { slug: 'qaf',      surahName: 'Qaf',      note: "Contains 50:33 — the description of the people of Jannah as those who 'came with a heart turning in devotion (munib).' The entire surah — from cosmic creation to the final Day — is a call to inabah." },
+    ],
+  },
+
+  tafakkur: {
+    slug: 'tafakkur',
+    term: 'تَفَكُّر',
+    transliteration: 'Tafakkur',
+    pronunciation: 'ta-FAK-kur',
+    category: 'States of the Heart' as GlossaryCategory,
+    evocativeLine: 'The deliberate use of reason to see signs — thinking as an act of worship.',
+    hasFullEntry: true,
+    summary: `Tafakkur is the Quranic practice of deliberate, purposeful contemplation — using the mind not to accumulate information but to see through things to their source. The Quran commands it explicitly and repeatedly: "Do they not reflect?" "Do they not think?" "In that are signs for people who reflect." The word shares a root with fikr (thought), but tafakkur is more: it is the prolonged turning over of a thing in the mind until it yields its meaning.
+
+The scholars described tafakkur as the key that unlocks the heart. Al-Ghazali wrote that one hour of tafakkur is worth a year of supererogatory worship, because the act of profound reflection produces change — in understanding, in feeling, in orientation toward Allah — that ritual repetition alone cannot. The mind that truly contemplates the creation cannot remain indifferent to the Creator.
+
+The Quran's constant invitation to look, observe, travel, and reflect reveals that Islam does not separate thinking from worship. The rational faculty is not merely an instrument for jurisprudence; it is a spiritual organ for encountering Allah through His signs. Every created thing is an ayah (sign) waiting to be read — tafakkur is the practice of learning to read.`,
+    root: {
+      letters: 'ف–ك–ر',
+      transliteration: 'f–k–r',
+      meaning: 'To think, reflect, ponder, consider',
+      elaboration: "The root f-k-r underlies fikr (thought, idea), tafakkur (deep reflection — fifth form, indicating intensity and depth), mutafakkir (one who reflects). The fifth form implies internal, sustained action — not a glance but a sustained look, not a passing thought but a dwelling upon. The Quran uses tafakkur, tadabbur, and ta'ammul as related but distinct practices: tafakkur uses the mind, tadabbur looks at consequences, ta'ammul examines deeply.",
+    },
+    occurrenceCount: 18,
+    occurrenceNote: "The root f-k-r and its related forms (yatafakkarun, tatafakkarun, etc.) appear approximately 18 times in the Quran, almost always as an invitation — 'for people who reflect.' The frequency signals that tafakkur is not optional contemplation for the philosophically inclined, but a core practice for every believer.",
+    keyAyahs: [
+      {
+        ref: '3:191',
+        arabic: 'الَّذِينَ يَذْكُرُونَ اللَّهَ قِيَامًا وَقُعُودًا وَعَلَىٰ جُنُوبِهِمْ وَيَتَفَكَّرُونَ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ',
+        translation: 'Those who remember Allah while standing, sitting, and lying on their sides, and who reflect on the creation of the heavens and earth.',
+        note: "This is the Quran's portrait of the ulu al-albab (people of deep understanding, 3:190). Their tafakkur is joined to dhikr — they remember and reflect simultaneously. This is not academic philosophy but a spiritual practice embedded in daily life.",
+      },
+      {
+        ref: '16:44',
+        arabic: 'وَأَنزَلْنَا إِلَيْكَ الذِّكْرَ لِتُبَيِّنَ لِلنَّاسِ مَا نُزِّلَ إِلَيْهِمْ وَلَعَلَّهُمْ يَتَفَكَّرُونَ',
+        translation: 'And We revealed to you the message that you may make clear to the people what was sent down to them and that they might reflect.',
+        note: "The Quran was revealed so that people would reflect. Tafakkur is thus the very purpose of revelation — not mere obedience but genuine understanding. The law is given so the mind can engage with it, not circumvent thinking.",
+      },
+      {
+        ref: '7:184',
+        arabic: 'أَوَلَمْ يَتَفَكَّرُوا ۗ مَا بِصَاحِبِهِم مِّن جِنَّةٍ',
+        translation: 'Have they not reflected? There is no madness in their companion.',
+        note: "Here tafakkur is posed as the solution to confusion and denial. Reflection is the cure for the closed mind — the person who genuinely thinks about the Prophet ﷺ's character and message cannot accuse him of madness.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: 'Silence and stillness', arabic: 'الصمت والسكون', arabicTranslit: "al-ṣamt wa-l-sukūn", description: "Tafakkur requires removing distraction. The mind cannot go deep while being pulled in multiple directions. The practice begins with creating the conditions for sustained attention." },
+        { number: 2, title: 'An object worthy of reflection', arabic: 'موضوع للتفكر', arabicTranslit: 'mawḍūʿ li-l-tafakkur', description: "Tafakkur needs a starting point — an ayah, a natural phenomenon, a historical account, a divine Name. The goal is not free association but directed contemplation of a real thing." },
+        { number: 3, title: 'Openness of the heart', arabic: 'انفتاح القلب', arabicTranslit: 'infitāḥ al-qalb', description: "Tafakkur is not purely intellectual — it involves the heart. Al-Ghazali distinguished between tafakkur of the mind (which understands) and tafakkur of the heart (which is moved). The second is the goal." },
+      ],
+      stations: [
+        { name: 'Tafakkur in creation', description: "Looking at the natural world — sky, earth, living things — and following the chain of signs to their source. This is the beginning and the most widely commanded form." },
+        { name: "Tafakkur in the Quran (tadabbur)", description: "Sitting with a verse or passage until its layers open. Not just understanding what it says but allowing it to speak to the particular moment of one's life." },
+        { name: 'Tafakkur in the self', description: "Reflecting on one's own creation, life, provision, relationships — following the thread of gifts back to the Giver. 'And in yourselves — will you not see?' (51:21)." },
+        { name: "Tafakkur in history", description: "The Quran commands travel and reflection on the fate of past nations — not as entertainment but as warning and wisdom. 'Have they not traveled through the land and seen?' (12:109)." },
+      ],
+      questions: [
+        { question: "When did I last sit with something long enough for it to genuinely surprise me?", answer: "Tafakkur requires patience — the willingness to stay with a thing past the point of easy understanding. The insight comes after the first obvious layer." },
+        { question: "What does the creation I encounter daily reveal about its Creator?", answer: "Every created thing is an ayah. Tafakkur trains the eye to read what has always been written there." },
+        { question: "Am I using my mind in the service of my faith, or have I separated thinking from worship?", answer: "Islam does not divide faith from reason. Tafakkur is the practice that keeps them integrated — the intellect engaged with what the heart loves." },
+      ],
+    },
+    semanticField: [
+      { slug: 'dhikr',   arabic: 'ذِكْر',    transliteration: 'Dhikr',   relationship: 'parallels',      relationshipLabel: "Reflection's companion", description: "In 3:191, the ulu al-albab practice both dhikr and tafakkur simultaneously. They are different movements of the same awareness: dhikr keeps the tongue and heart returned to Allah; tafakkur explores His signs. Together they constitute the full life of the spiritual intellect." },
+      { slug: 'taqwa',   arabic: 'تَقْوَى',  transliteration: 'Taqwa',   relationship: 'deepens',        relationshipLabel: 'Tafakkur produces taqwa', description: "The Quran frequently ends signs and natural phenomena with 'for people who have taqwa' or 'for people who reflect' — they are near-synonymous as the recipients of divine guidance. Tafakkur deepens taqwa; taqwa opens the mind to tafakkur." },
+      { slug: 'sabr',    arabic: 'صَبْر',    transliteration: 'Sabr',    relationship: 'precedes',       relationshipLabel: 'Patience to reflect deeply', description: "Tafakkur requires sabr — the patience to stay with something past the surface. The hasty mind cannot contemplate; it can only skim. Sabr is the precondition for the depth tafakkur requires." },
+      { slug: 'ikhlas',  arabic: 'إِخْلَاص', transliteration: 'Ikhlas',  relationship: 'deepens',        relationshipLabel: 'Pure intention opens the mind', description: "Tafakkur for show, for reputation, or for argument produces nothing. The mind reflects most deeply when the only motive is to know Allah and draw near." },
+    ],
+    scholarsSaid: [
+      { scholar: 'Al-Ghazali', text: "One hour of tafakkur is better than a year of supererogatory worship, because tafakkur is what leads the heart to know Allah, to love Him, and to fear Him — and from this all worship proceeds.", source: "Ihya' Ulum al-Din" },
+      { scholar: 'Ibn al-Qayyim', text: "Tafakkur is the heart's life — the mirror in which the servant sees his faults, his Lord's graces, his origin, his destination, and what stands between him and his Lord.", source: "Madarij al-Salikin" },
+      { scholar: 'Al-Hasan al-Basri', text: "An hour of tafakkur is better than a night of prayer.", source: "Reported in multiple collections" },
+    ],
+    hadith: [
+      { ref: 'Ibn Hibban', translation: "Worship Allah as though you see Him. Reflect on the creation of Allah, and do not reflect on Allah Himself — for you cannot fathom Him.", note: "The Prophet ﷺ orients tafakkur: toward the creation (permitted, commanded, illuminating) and away from trying to comprehend the divine essence (which leads only to confusion). The creation is the window; the direct gaze at the sun blinds." },
+    ],
+    acrossTransitions: `Contemplative reasoning as a spiritual practice is present across traditions. In Jewish tradition, the practice of hitbonenut (contemplation) in Hasidic thought involves the sustained focus of the mind on a spiritual concept until the heart is moved — structurally identical to the tafakkur of the heart that Al-Ghazali described.
+
+In Christian contemplative practice, lectio divina (sacred reading) is slow, prayerful reflection on scripture — allowing a text to reveal itself over time rather than being extracted for information. The Benedictine practice explicitly values "rumination" — chewing over the text as one would chew food, slowly and repeatedly.
+
+The Stoics practiced the "view from above" — imagining oneself looking down at the whole of human activity from space, recognizing the smallness of what seems important. This is structurally similar to the Quranic invitation to contemplate the heavens and earth: stepping back from the immediate to see the scale.
+
+What is distinctive in Islamic tafakkur is its target: not self-improvement or mental clarity but ma'rifa — knowledge of Allah through His signs. The reflection is not about the self but about what the self can lead you to see.`,
+    relatedTerms: [
+      { slug: 'dhikr',   transliteration: 'Dhikr',   term: 'ذِكْر'    },
+      { slug: 'sabr',    transliteration: 'Sabr',    term: 'صَبْر'    },
+      { slug: 'taqwa',   transliteration: 'Taqwa',   term: 'تَقْوَى'  },
+      { slug: 'ikhlas',  transliteration: 'Ikhlas',  term: 'إِخْلَاص' },
+    ],
+    goDeeper: [
+      { slug: 'al-imran', surahName: "Al-Imran",     note: "Contains 3:190-191 — the foundational tafakkur passage: the creation of the heavens and earth as signs for ulu al-albab who remember and reflect. This is the Quran's most complete portrait of what tafakkur looks like in practice." },
+      { slug: 'al-nahl',  surahName: 'Al-Nahl',      note: "Called 'the surah of blessings' — it invites tafakkur in livestock, honey, shade, ships, rain, and creation at every turn. 16:69 ('in that is a sign for people who reflect') appears multiple times. It is the tafakkur surah par excellence." },
+    ],
+  },
+
+  hilm: {
+    slug: 'hilm',
+    term: 'حِلْم',
+    transliteration: 'Hilm',
+    pronunciation: 'HILM',
+    category: 'States of the Heart' as GlossaryCategory,
+    evocativeLine: 'Forbearance that absorbs harm without retaliation — the strength to be still.',
+    hasFullEntry: true,
+    summary: `Hilm is one of the supreme virtues of the Arab character, and Islam elevated it further. It is translated as forbearance, clemency, gentleness — but all translations fall short. Hilm is what happens when someone has the power to respond with force and chooses not to. It is not passivity or weakness; it is the capacity to absorb provocation without losing composure, to be wronged without retaliating, to be insulted without degrading oneself in response.
+
+The Prophet ﷺ praised hilm in the same breath as intelligence ('aql and hilm are paired repeatedly), and the Quran attributes hilm to Allah Himself (Halim is one of His Names) and to Ibrahim ﷺ. This is telling: the supreme example of hilm in Quranic history is Ibrahim, who was thrown into a fire and prayed for his father who tried to have him killed. That is hilm — not the absence of feeling but the presence of something stronger than feeling.
+
+Ibn al-Qayyim described hilm as the fortress of the character — when it is present, rash anger cannot enter. The opposite of hilm is not courage but ghadab (uncontrolled anger) and tahawwur (recklessness). The person of hilm is not someone who doesn't feel anger — they are someone whose character is not controlled by it.`,
+    root: {
+      letters: 'ح–ل–م',
+      transliteration: 'ḥ–l–m',
+      meaning: 'To be forbearing, gentle, deliberate; also to dream',
+      elaboration: "The root h-l-m carries two senses: forbearance/clemency (the virtue) and dreaming (the experience of sleep). The connection may be in the quality of softness — the dream world is gentle, unresisting. Halim is one of Allah's Names. The plural of hilm is ahlam, which also means 'dreams,' linking the two meanings in their shared quality of non-violence and gentleness. The opposite root, ta'assub (fanaticism), involves the hardening of the self; hilm is the softness that does not shatter under pressure.",
+    },
+    occurrenceCount: 11,
+    occurrenceNote: "Al-Halim (the Forbearing) appears as a Divine Name approximately 11 times in the Quran, always paired with another Name — Al-'Alim (the All-Knowing), Al-Ghafur (the Forgiving), Al-Shakur (the Appreciative). The pairing reveals hilm's character: it is never alone, never harsh, always accompanied by understanding.",
+    keyAyahs: [
+      {
+        ref: '11:75',
+        arabic: 'إِنَّ إِبْرَاهِيمَ لَحَلِيمٌ أَوَّاهٌ مُّنِيبٌ',
+        translation: 'Indeed, Ibrahim was forbearing, tenderhearted, and often turning to Allah.',
+        note: "The Quran's most explicit attribution of hilm to a prophet. It comes in the context of Ibrahim interceding for the people of Lut — even for those whose destruction had been decreed. Hilm is the capacity for compassion that stretches beyond what is deserved.",
+      },
+      {
+        ref: '2:235',
+        arabic: 'وَاعْلَمُوا أَنَّ اللَّهَ يَعْلَمُ مَا فِي أَنفُسِكُمْ فَاحْذَرُوهُ ۚ وَاعْلَمُوا أَنَّ اللَّهَ غَفُورٌ حَلِيمٌ',
+        translation: 'And know that Allah knows what is in yourselves, so beware of Him. And know that Allah is Forgiving and Forbearing.',
+        note: "Allah knows the innermost intentions and yet is Halim — He does not rush to punishment. This is the Quranic portrait of hilm: knowledge of wrongdoing plus the capacity for restraint. Divine hilm is the space in which human tawbah is possible.",
+      },
+      {
+        ref: '3:155',
+        arabic: 'وَاللَّهُ غَفُورٌ حَلِيمٌ',
+        translation: 'And Allah is Forgiving and Forbearing.',
+        note: "Coming in the aftermath of Uhud, where some believers had fled, this pairing of ghafur and halim is pastoral: you fled, you erred, and Allah absorbed the harm without withdrawing His mercy. This is hilm in its divine scale.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: 'Recognition of power', arabic: 'إدراك القوة', arabicTranslit: 'idrāk al-quwwa', description: "Hilm is only meaningful when you have the power to retaliate and choose not to. This is why it is paired with strength, not weakness. The powerless who do not retaliate are practicing sabr; the powerful who do not retaliate are practicing hilm." },
+        { number: 2, title: 'Understanding of the other', arabic: 'فهم الآخر', arabicTranslit: 'fahm al-ākhar', description: "Hilm is often rooted in understanding — knowing why someone acted wrongly, what limited them, what they did not understand. This knowledge softens the impulse to retaliate without excusing the wrong." },
+        { number: 3, title: 'Long-term vision', arabic: 'النظر البعيد', arabicTranslit: 'al-naẓar al-baʿīd', description: "The person of hilm is not managing this moment; they are managing their character over a lifetime. The short-term satisfaction of retaliation costs long-term depth and dignity. Hilm chooses the long arc." },
+      ],
+      stations: [
+        { name: 'Hilm in speech', description: "Not responding to insult with insult — absorbing verbal harm without escalating. The Prophet ﷺ was never obscene in response to obscenity." },
+        { name: 'Hilm in authority', description: "The leader or parent who has power over others and uses it gently — correcting without crushing, demanding without degrading. This is the hilm of Ibrahim ﷺ toward his father." },
+        { name: 'Hilm in anger', description: "The most demanding station: feeling genuine anger — the nafs fully roused — and choosing not to act from it. The Prophet ﷺ said: 'The strong person is not the one who wrestles; the strong person is the one who controls himself in anger.'" },
+      ],
+      questions: [
+        { question: "When I was last provoked, what was my first impulse? Was my response from my values or from my wound?", answer: "Hilm creates a gap between impulse and action. In that gap, character lives. The person of hilm has learned to inhabit the gap." },
+        { question: "Do I treat hilm as weakness in myself while admiring it in others?", answer: "This reveals a confusion between hilm and powerlessness. Hilm requires recognizing that restraint is the exercise of power, not its absence." },
+        { question: "What would the Prophet ﷺ do with this provocation?", answer: "The sunnah is full of examples — he was mocked, insulted, physically harmed, and he consistently chose hilm. His hilm was not indifference; it was active, chosen dignity." },
+      ],
+    },
+    semanticField: [
+      { slug: 'sabr',    arabic: 'صَبْر',   transliteration: 'Sabr',    relationship: 'parallels',      relationshipLabel: 'The inner discipline', description: "Sabr bears difficulty without complaint; hilm bears provocation without retaliation. They are distinct: sabr responds to hardship from the world; hilm responds to harm from others. Both require the same internal discipline." },
+      { slug: 'rahmah',  arabic: 'رَحْمَة', transliteration: 'Rahmah',  relationship: 'deepens',        relationshipLabel: 'Mercy that grounds forbearance', description: "Hilm without rahmah can become cold pride — not retaliating because you consider yourself above it. Rahmah warms hilm: you absorb the harm because you wish the person well, not because you disdain to engage." },
+      { slug: 'tawadu',  arabic: 'تَوَاضُع', transliteration: "Tawadu'", relationship: 'parallels',      relationshipLabel: 'Humility alongside forbearance', description: "Hilm and tawadu' are natural companions — the humble person does not need to defend their honor, making hilm easier. The arrogant person's hilm is always in tension with their ego." },
+      { slug: 'sidq',    arabic: 'صِدْق',   transliteration: 'Sidq',    relationship: 'deepens',        relationshipLabel: 'Honest forbearance', description: "Hilm that suppresses legitimate complaint indefinitely becomes dishonest. True hilm knows when restraint is the right response and when honest address is. Sidq governs which is which." },
+    ],
+    scholarsSaid: [
+      { scholar: 'Al-Ahnaf ibn Qays', text: "We learned hilm by deliberately practicing it — and whoever seeks to be forbearing, Allah will help him to be forbearing.", source: "Reported by Ibn Abi al-Dunya" },
+      { scholar: 'Ibn al-Qayyim', text: "Hilm is the fortress of the character. When it is present, rashness and anger find no way in. The person of hilm is the one whose enemy cannot harm him except by making him abandon his hilm.", source: "Madarij al-Salikin" },
+      { scholar: "Ali ibn Abi Talib", text: "If you cannot be forbearing, then act as though you are forbearing — for rarely does a person imitate a people without becoming like them.", source: "Reported in various collections" },
+    ],
+    hadith: [
+      { ref: 'Muslim', translation: "The strong person is not the one who wrestles people down. The strong person is the one who controls himself when angry.", note: "This hadith redefines strength from the physical to the psychological and spiritual. The person of hilm is the strongest person in the room — not because they cannot fight but because they choose something harder." },
+      { ref: 'Bukhari', translation: "A man said to the Prophet ﷺ: 'Give me advice.' He said: 'Do not get angry.' The man repeated his question several times. He said: 'Do not get angry.'", note: "The repetition is deliberate: the whole of practical ethics distilled into a single instruction. Not 'manage your anger' or 'express it wisely' but the radical simplicity of hilm: do not get angry." },
+    ],
+    acrossTransitions: `Forbearance as a virtue is universal, but its grounding differs. In Stoic ethics, apatheia — freedom from passion — was the highest ideal. The Stoic sage was unmoved because passions themselves were considered false judgments. Islamic hilm is different: the person of hilm feels the anger but is not governed by it. The emotion is real; the mastery is what matters.
+
+In Buddhist ethics, khanti (patience/forbearance) is one of the ten perfections (paramis). The Jataka tales (stories of the Buddha's previous lives) often feature a bodhisatta enduring terrible provocation without retaliation. The logic is karmic: retaliation creates new suffering; hilm breaks the cycle.
+
+In Christian thought, "turning the other cheek" (Matthew 5:39) describes an active, chosen non-retaliation — structurally identical to Islamic hilm. The key word is "offer" — not passive submission but an active presentation, a chosen response. This aligns with the Islamic understanding that hilm is the exercise of power, not its absence.`,
+    relatedTerms: [
+      { slug: 'sabr',   transliteration: 'Sabr',   term: 'صَبْر'   },
+      { slug: 'rahmah', transliteration: 'Rahmah', term: 'رَحْمَة' },
+      { slug: 'afw',    transliteration: 'Afw',    term: 'عَفْو'   },
+      { slug: 'taqwa',  transliteration: 'Taqwa',  term: 'تَقْوَى' },
+    ],
+    goDeeper: [
+      { slug: 'hud',      surahName: 'Hud',       note: "Contains 11:75 — the most explicit attribution of hilm to Ibrahim ﷺ, in the context of his intercession for the people of Lut even after punishment was decreed. The surah's theme of prophetic patience under extreme trial is the context for hilm at its most tested." },
+      { slug: 'al-imran', surahName: "Al-Imran",  note: "Contains 3:155 (Allah as Ghafur Halim after Uhud), 3:134 (the description of the muttaqin as those who 'suppress their anger and pardon the people'). The surah's post-Uhud consolation section is the Quran's most sustained treatment of hilm in community." },
+    ],
+  },
+
+  uns: {
+    slug: 'uns',
+    term: 'أُنْس',
+    transliteration: 'Uns',
+    pronunciation: 'UNS',
+    category: 'States of the Heart' as GlossaryCategory,
+    evocativeLine: "Intimacy with Allah — the sweetness of His presence that makes solitude a gift.",
+    hasFullEntry: true,
+    summary: `Uns is the term for spiritual intimacy — the warmth, ease, and delight that comes from closeness with Allah. If khawf (fear) is the trembling before Allah and mahabbah (love) is the orientation toward Him, uns is the quality of resting in His presence — the feeling that being with Allah is the most natural, most pleasant, most desired state. The scholars describe the person of uns as one who finds company in solitude and solitude in company: they are never more themselves than when alone with Allah, and they are never quite alone.
+
+The root of uns is the same as that of insan (human being) and uns (companionship between people). This is not coincidental: the human being is defined by a need for companionship — and in the highest spiritual anthropology, the deepest companionship available to the human soul is with Allah. Uns is the experience of that companionship as warmth and ease rather than awe and trembling.
+
+Al-Ghazali described uns as the final station before fana' — the heart that has experienced uns no longer needs distraction, entertainment, or constant human company. It has found the source of satisfaction and rests there. The great irony of uns is that it is found most often in the night prayer, in private dhikr, in the moments most others find lonely: the person of uns has discovered that solitude is populated.`,
+    root: {
+      letters: 'أ–ن–س',
+      transliteration: 'ʾ–n–s',
+      meaning: 'To be intimate with, to be familiar with, to be tame (of animals); companionship',
+      elaboration: "The root ʾ-n-s is the root of insan (human being — perhaps 'the social one'), uns (intimacy, companionship), mu'anasa (social warmth), and anisa (to be delighted by, to enjoy the company of). The contrast is with wahsha (wildness, estrangement, loneliness). Uns with Allah is the opposite of the estrangement (ghurba) that the believer experiences in a world that does not know Allah.",
+    },
+    occurrenceCount: 0,
+    occurrenceNote: "Uns as a technical spiritual term does not appear in the Quran directly, but its root appears in contexts of companionship and the nature of the human being. The concept is developed extensively in the Sufi tradition, drawing on Quranic foundations of Allah's closeness (2:186, 50:16) and the sweetness of iman described in hadith.",
+    keyAyahs: [
+      {
+        ref: '2:186',
+        arabic: 'وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ ۖ أُجِيبُ دَعْوَةَ الدَّاعِ إِذَا دَعَانِ',
+        translation: 'And when My servants ask you concerning Me — indeed I am near. I respond to the invocation of the supplicant when he calls upon Me.',
+        note: "This is the Quranic foundation of uns: Allah is near, responsive, present. The verse comes between two passages about Ramadan — the month of intensified closeness. Uns is the felt experience of this nearness.",
+      },
+      {
+        ref: '50:16',
+        arabic: 'وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ الْوَرِيدِ',
+        translation: 'And We are closer to him than his jugular vein.',
+        note: "The intimacy of divine closeness is radical: closer than the most essential artery of the body. Uns is the spiritual state of feeling and living from this closeness.",
+      },
+      {
+        ref: '89:27-28',
+        arabic: 'يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ ۝ ارْجِعِي إِلَىٰ رَبِّكِ رَاضِيَةً مَّرْضِيَّةً',
+        translation: 'O reassured soul, return to your Lord, pleased and pleasing.',
+        note: "The nafs mutma'inna — the reassured, settled soul — is called to return to its Lord in pleasure. This is uns at its completion: the soul that is at home in Allah's presence, that hears 'return' as an invitation rather than a command.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: 'Regular private worship', arabic: 'المناجاة والخلوة', arabicTranslit: "al-munājāt wa-l-khalwa", description: "Uns develops in private time with Allah — in the night prayer, in extended du'a, in quiet dhikr. It cannot be found in constant social activity. The person who is never alone with Allah cannot know uns." },
+        { number: 2, title: "Tasting the sweetness of iman", arabic: 'حلاوة الإيمان', arabicTranslit: 'ḥalāwat al-īmān', description: "The Prophet ﷺ described iman's sweetness as something tasted. Uns is this taste — the experiential dimension of faith. Those who have tasted it seek to return to it; those who have not yet tasted it pursue it through practice." },
+        { number: 3, title: 'Reducing attachment to creation', arabic: 'تخفيف التعلق بالخلق', arabicTranslit: 'takhfīf al-taʿalluq bi-l-khalq', description: "Uns with Allah grows as dependency on other sources of comfort and companionship decreases. This is not the rejection of people but a reordering: Allah first, then creation through Allah." },
+      ],
+      stations: [
+        { name: 'Uns in dhikr', description: "The first taste: feeling the peace and warmth that comes during sustained dhikr. The heart that begins to rest in the remembrance of Allah is beginning to know uns." },
+        { name: 'Uns in salah', description: "The prayer as companionship — not a ritual to complete but a conversation to inhabit. The Prophet ﷺ said prayer was the 'coolness of his eyes'; this is uns." },
+        { name: 'Uns in solitude', description: "The advanced station: finding that being alone is no longer lonely because Allah is present. The khalwa (retreat) is not an absence but a fullness." },
+        { name: 'Uns as a continuous state', description: "The highest: the heart carries uns throughout the day — in work, in people, in creation — because it has found the source and carries it everywhere." },
+      ],
+      questions: [
+        { question: "When I am alone and quiet, is it peaceful or restless? What does the quality of my solitude reveal about my relationship with Allah?", answer: "Uns transforms solitude. If quiet time with Allah is uncomfortable, it often reveals that the heart is still seeking satisfaction elsewhere. Uns is the medicine for that restlessness." },
+        { question: "Have I ever felt the sweetness the Prophet ﷺ described? What were the conditions that allowed it?", answer: "Identifying the conditions — time of day, state of heart, practice — and returning to them is the beginning of cultivating uns." },
+        { question: "Do I use people, entertainment, or busyness to fill space that only Allah can fill?", answer: "Uns does not reject creation; it finds it insufficient as a primary source. The heart oriented to Allah receives people as gifts rather than as replacements for God." },
+      ],
+    },
+    semanticField: [
+      { slug: 'mahabbah', arabic: 'مَحَبَّة', transliteration: 'Mahabbah', relationship: 'deepens',        relationshipLabel: "Love's intimate register", description: "Mahabbah is the love of Allah; uns is the intimacy that love produces. You can love someone from a distance; uns is love that has become closeness and ease." },
+      { slug: 'dhikr',    arabic: 'ذِكْر',    transliteration: 'Dhikr',    relationship: 'precedes',       relationshipLabel: 'The practice that opens uns', description: "Uns is often first encountered in deep dhikr — the heart that returns again and again to Allah in remembrance begins to feel at home there. Dhikr is the door; uns is the room." },
+      { slug: 'khawf',    arabic: 'خَوْف',    transliteration: 'Khawf',    relationship: 'parallels',      relationshipLabel: 'Trembling and intimacy', description: "Khawf (fear of Allah) and uns (intimacy with Allah) are not opposites but stations. The heart moves between them — the tremendous awe of the divine majesty (jalal) and the warm intimacy of the divine beauty (jamal). Both are true; neither cancels the other." },
+      { slug: 'tawakkul', arabic: 'تَوَكُّل', transliteration: 'Tawakkul', relationship: 'deepens',        relationshipLabel: 'Trust that becomes intimacy', description: "Tawakkul is trust in Allah's management; uns is the warmth that comes when that trust has been proven over time. The relationship deepens from reliance to intimacy." },
+    ],
+    scholarsSaid: [
+      { scholar: "Ibn 'Ata' Allah al-Iskandari", text: "Whoever finds Allah has found everything. Whoever loses Allah has lost everything.", source: "Al-Hikam" },
+      { scholar: 'Al-Junayd', text: "Uns is the heart's delight in its Lord, the sweetness of His remembrance, and the joy of His love — such that the servant finds no pleasure in anything that distracts from Him.", source: "Reported in al-Risalah al-Qushayriyyah" },
+      { scholar: 'Al-Ghazali', text: "Uns is the final gift before the station of witnessing — the heart that is intimate with Allah no longer needs the world to entertain it, because it has found the source of all delight.", source: "Ihya' Ulum al-Din" },
+    ],
+    hadith: [
+      { ref: 'Bukhari & Muslim', translation: "There are three things that whoever possesses them will taste the sweetness of iman: that Allah and His Messenger are more beloved to him than anything else; that he loves a person only for Allah's sake; and that he would hate to return to disbelief as he would hate to be thrown into fire.", note: "The 'sweetness of iman' is the experiential dimension — and it is conditional on mahabbah. Uns is what that sweetness feels like when it settles into the heart as a continuous state." },
+      { ref: 'Tirmidhi', translation: "O Allah, make me find sweetness in my conversation with You, in my longing for You, and in my meeting with You.", note: "This du'a of the Prophet ﷺ is a supplication for uns — specifically the sweetness of private conversation (munajat), longing (shawq), and the anticipation of meeting Allah." },
+    ],
+    acrossTransitions: `The mystical experience of divine intimacy — warmth, ease, and delight in God's presence — is attested across traditions. In Jewish mysticism (Kabbalah), devekut (cleaving to God) describes the mystic's continuous attachment to the divine presence — not just in prayer but throughout daily life. The Hasidic master aims to maintain devekut even while performing mundane tasks; this is the equivalent of uns as a continuous state.
+
+In Christian mysticism, Bernard of Clairvaux described four stages of love, culminating in loving oneself for God's sake — the point at which the self is no longer the reference point. Brother Lawrence's "practicing the presence of God" aimed to maintain the intimacy of prayer throughout the workday — washing dishes in the warmth of divine companionship. This is uns.
+
+In Sufi literature, uns is paired with haybah (awe) as the two poles of the spiritual life: the divine Beauty (jamal) produces uns; the divine Majesty (jalal) produces haybah. The mature heart can hold both. The Quran attributes both to Allah — He is Al-Wadud (the Loving, the Warm) and Al-Qahhar (the Overwhelming). Uns is the human response to Al-Wadud; haybah is the human response to Al-Qahhar.`,
+    relatedTerms: [
+      { slug: 'mahabbah', transliteration: 'Mahabbah', term: 'مَحَبَّة' },
+      { slug: 'dhikr',    transliteration: 'Dhikr',    term: 'ذِكْر'    },
+      { slug: 'khawf',    transliteration: 'Khawf',    term: 'خَوْف'    },
+      { slug: 'raja',     transliteration: "Raja'",    term: 'رَجَاء'   },
+    ],
+    goDeeper: [
+      { slug: 'al-baqarah', surahName: 'Al-Baqarah', note: "Contains 2:186 — the pivotal uns verse: 'Indeed I am near.' Embedded between passages on Ramadan, it reveals that fasting creates the conditions for uns — the self emptied, the heart open, Allah near and responsive." },
+      { slug: 'al-fajr',    surahName: 'Al-Fajr',    note: "Contains 89:27-30 — the nafs mutma'inna called to return to its Lord in pleasure. This is uns arriving at its destination: the soul that has found intimacy with Allah hears the call to return as the best news possible." },
+    ],
+  },
+
+  khashya: {
+    slug: 'khashya',
+    term: 'خَشْيَة',
+    transliteration: 'Khashya',
+    pronunciation: 'KHASH-ya',
+    category: 'States of the Heart' as GlossaryCategory,
+    evocativeLine: 'Reverential awe born of knowledge — the fear of those who truly know.',
+    hasFullEntry: true,
+    summary: `Khashya is the Quran's highest form of fear — not the dread of punishment that a stranger might feel, but the reverential awe that comes from genuinely knowing Allah. The Quran makes this explicit: "Only those among Allah's servants who have knowledge truly fear Him" (35:28). Khashya is thus distinguished from ordinary khawf (fear): khawf can come from ignorance, from uncertainty, from threat — khashya comes only from knowledge. The more a person knows Allah, the deeper their khashya.
+
+This creates a paradox: the scholars, the prophets, the angels — those who know Allah most — fear Him most. Not because their knowledge reveals something terrible, but because genuine knowledge of the divine majesty, power, and perfection produces a reverence so profound that ordinary language calls it fear. The heart that has truly encountered Allah trembles — not in terror but in awe, the way one trembles before something incomprehensibly beautiful or vast.
+
+The Prophet ﷺ said: "I am the one among you who knows Allah best, and I am the most fearful of Him." This is khashya: the knowledge and the awe are one movement. It is why the Quran attributes khashya to the angels, to the scholars, and to the prophets — and commands it as the proper response to awareness of Allah's greatness.`,
+    root: {
+      letters: 'خ–ش–ي',
+      transliteration: 'kh–sh–y',
+      meaning: 'To fear with reverence; awe before greatness',
+      elaboration: "The root kh-sh-y is distinct from kh-w-f (the ordinary word for fear). Khashya implies reverence, awe, the fear that comes from knowledge of greatness. Al-Asfahani (the classical lexicographer) writes that khashya is stronger than khawf and arises from the recognition of the greatness of what is feared — it is tinged with respect in a way that khawf is not. The person of khashya fears because they know; the person of khawf fears because they are uncertain.",
+    },
+    occurrenceCount: 47,
+    occurrenceNote: "The root kh-sh-y appears approximately 47 times in the Quran in various forms. It is one of the most frequent words for fear in the Quran and is used both of humans fearing Allah and of natural things being 'fearful' — the mountains in 59:21 'would have split from khashya of Allah.' This cosmic khashya appears throughout creation.",
+    keyAyahs: [
+      {
+        ref: '35:28',
+        arabic: 'إِنَّمَا يَخْشَى اللَّهَ مِنْ عِبَادِهِ الْعُلَمَاءُ',
+        translation: 'Only those among Allah\'s servants who have knowledge truly fear Him.',
+        note: "This is the definitive khashya verse. The inna-ma construction is exclusive: only the 'ulama (those with genuine knowledge) fear Allah with khashya. This makes khashya the measure of knowledge — if you truly know Allah, you must be moved to khashya. If khashya is absent, the knowledge has not arrived.",
+      },
+      {
+        ref: '59:21',
+        arabic: 'لَوْ أَنزَلْنَا هَٰذَا الْقُرْآنَ عَلَىٰ جَبَلٍ لَّرَأَيْتَهُ خَاشِعًا مُّتَصَدِّعًا مِّنْ خَشْيَةِ اللَّهِ',
+        translation: 'If We had sent down this Quran upon a mountain, you would have seen it humbled and split apart from khashya of Allah.',
+        note: "The mountain image is astonishing: even a mountain — the Quran's symbol of immovability and strength — would be shattered by khashya if it could feel it. This is not to terrify but to humble: the human heart that remains unmoved by the Quran is harder than what would split a mountain.",
+      },
+      {
+        ref: '21:49',
+        arabic: 'الَّذِينَ يَخْشَوْنَ رَبَّهُم بِالْغَيْبِ وَهُم مِّنَ السَّاعَةِ مُشْفِقُونَ',
+        translation: 'Those who fear their Lord unseen and who are apprehensive about the Hour.',
+        note: "'Unseen' (bi-l-ghayb) is crucial: the khashya is not of a visible threat but of Allah whom they cannot see. This is the highest form — reverential awe of the Unseen, not reaction to present danger.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: "Knowledge of Allah's Attributes", arabic: 'معرفة صفات الله', arabicTranslit: "maʿrifat ṣifāt Allāh", description: "Khashya cannot be manufactured — it grows from genuine knowledge of who Allah is: His power, His knowledge of all things, His justice, His majesty. The more one knows, the deeper the khashya. This is why study of the Names and Attributes is inseparable from spiritual development." },
+        { number: 2, title: 'Sustained engagement with the Quran', arabic: 'الملازمة مع القرآن', arabicTranslit: 'al-mulāzama maʿa al-Qurān', description: "The Quran itself is described as that which would split a mountain with khashya (59:21). Sustained, attentive engagement with the Quran — not speed recitation but slow contemplation — is the primary engine of khashya." },
+        { number: 3, title: 'Awareness of the Day of Judgment', arabic: 'استحضار يوم الحساب', arabicTranslit: "istiḥḍār yawm al-ḥisāb", description: "Khashya is deepened by genuine awareness of accountability. The person who contemplates the Day of Judgment — not as abstract theology but as a reality they will stand in — cannot sustain casual indifference to Allah." },
+      ],
+      stations: [
+        { name: 'Khashya of the limbs', description: 'The body reflects the heart: lowering the gaze, quieting the voice in prayer, composure in sacred spaces. This is the outer expression of inner khashya.' },
+        { name: 'Khashya of the heart', description: "The deeper dimension: the heart's genuine trembling before Allah's greatness — not performed solemnity but the awe that comes from knowing something true about who Allah is." },
+        { name: 'Khashya of the knower', description: "The station of 35:28 — the 'alim whose knowledge has become khashya. Not fear that diminishes with learning but awe that deepens as the horizon of what is known expands. The more you know of Allah, the more you see what you don't know." },
+      ],
+      questions: [
+        { question: "Is my knowledge of Allah moving my heart? If I know something about Allah and it does not change me, what is the knowledge really?", answer: "35:28 makes knowledge and khashya inseparable. Knowledge that does not produce awe has not arrived at the heart — it has only reached the mind." },
+        { question: "When I recite the Quran, do I feel anything? When I don't — what is the quality of my attention?", answer: "Khashya in the Quran is inseparable from tadabbur. Speed without reflection produces knowledge of words, not the encounter that splits mountains." },
+        { question: "What is the relationship between my khashya of Allah and my behavior in private?", answer: "Muraqaba and khashya work together: the one who truly has khashya behaves the same in private and public, because the awe of Allah is present everywhere." },
+      ],
+    },
+    semanticField: [
+      { slug: 'khawf',    arabic: 'خَوْف',    transliteration: 'Khawf',    relationship: 'deepens',        relationshipLabel: 'Khashya as the higher fear', description: "Khawf is ordinary fear — of uncertainty, of punishment, of the unknown. Khashya is the specific fear of one who knows. Khawf can exist without knowledge; khashya requires it. The prophets had khashya; ordinary sinners have khawf." },
+      { slug: 'taqwa',   arabic: 'تَقْوَى',   transliteration: 'Taqwa',    relationship: 'deepens',        relationshipLabel: "Khashya's expression in life", description: "Taqwa is how khashya lives itself out in practical choices. The heart that trembles before Allah translates that trembling into a life that guards against His displeasure — this translation is taqwa." },
+      { slug: 'mahabbah', arabic: 'مَحَبَّة', transliteration: 'Mahabbah', relationship: 'parallels',      relationshipLabel: 'Awe alongside love', description: "The highest stations of the heart combine khashya and mahabbah — the trembling and the love. These are not opposites: the greater the love, the greater the awe of losing what is loved. The lesser the love, the cheaper the khashya." },
+      { slug: 'raja',     arabic: 'رَجَاء',   transliteration: "Raja'",    relationship: 'parallels',      relationshipLabel: "Khashya's complement", description: "Khashya without raja' collapses into despair. Raja' (hope in Allah's mercy) is the companion that keeps khashya from becoming paralytic. Ibn al-Qayyim: the heart travels to Allah on two wings — khawf and raja'. One wing alone cannot carry it." },
+    ],
+    scholarsSaid: [
+      { scholar: 'Ibn Rajab al-Hanbali', text: "Khashya is fear mixed with reverence and glorification. It is specific to those who know — for whoever knows Allah more, fears Him more.", source: "Jami' al-'Ulum wa-l-Hikam" },
+      { scholar: 'Al-Qushayri', text: "Khashya is the state of the one whose heart is filled with the greatness of Allah such that all else becomes small before it.", source: "Al-Risalah al-Qushayriyyah" },
+      { scholar: 'Ibn al-Qayyim', text: "The difference between khashya and khawf is that khashya is specific to those with knowledge of what they fear. Khashya is therefore the fear of the prophets and scholars, while khawf is general.", source: "Madarij al-Salikin" },
+    ],
+    hadith: [
+      { ref: 'Bukhari & Muslim', translation: "I am the one among you who knows Allah best, and I am the most fearful of Him.", note: "The Prophet ﷺ links maximum knowledge of Allah to maximum khashya — this is 35:28 made biographical. His khashya was not theoretical; it produced tears in night prayer, prostrations of gratitude, and constant awareness of the divine presence." },
+    ],
+    acrossTransitions: `The concept of reverential awe before the divine — distinct from ordinary fear — is a classic in the philosophy of religion. Rudolf Otto's concept of the "numinous" and the "mysterium tremendum" (the tremendous mystery that produces awe) is precisely what the Quran calls khashya: the experience of something that is wholly other, incomprehensibly great, before which the self trembles not from threat but from scale.
+
+In Jewish tradition, yirat ha-romemut (awe of the exaltedness) is distinguished from yirat ha-onesh (fear of punishment). The rabbinic ideal is the higher form — the fear that comes from knowing God's greatness. Maimonides describes how knowledge of God's works produces love and awe together: the more one knows, the more one loves and fears.
+
+In Christian mystical theology, tremendum et fascinans — the tremendous and the fascinating — describes the divine as both terrifying and irresistibly attractive. Rudolf Otto drew from Christian sources but the structure is identical to khashya and uns working together: the divine majesty terrifies (khashya) and the divine beauty attracts (uns).`,
+    relatedTerms: [
+      { slug: 'khawf',    transliteration: 'Khawf',    term: 'خَوْف'    },
+      { slug: 'taqwa',    transliteration: 'Taqwa',    term: 'تَقْوَى'  },
+      { slug: 'mahabbah', transliteration: 'Mahabbah', term: 'مَحَبَّة' },
+      { slug: 'raja',     transliteration: "Raja'",    term: 'رَجَاء'   },
+    ],
+    goDeeper: [
+      { slug: 'fatir',     surahName: 'Fatir',     note: "Contains 35:28 — the verse that makes khashya the exclusive property of those with knowledge. The surah is about the creation and the Creator — the knowledge that produces khashya is precisely the knowledge of what Fatir displays." },
+      { slug: 'al-hashr',  surahName: 'Al-Hashr',  note: "Contains 59:21 — the mountain-splitting verse. The surah's closing passage (59:22-24) is a cascade of divine Names that produces, by design, the khashya that the mountain verse describes. Read the Names slowly and feel the awe they intend to produce." },
+    ],
+  },
+
+  afw: {
+    slug: 'afw',
+    term: 'عَفْو',
+    transliteration: 'Afw',
+    pronunciation: 'AFW',
+    category: 'States of the Heart' as GlossaryCategory,
+    evocativeLine: "Pardoning — the release of the right to retaliate, chosen freely out of strength.",
+    hasFullEntry: true,
+    summary: `Afw is pardon — the voluntary release of one's right to hold someone accountable for a wrong. It is more than tolerance, more than moving on, more than forgetting: afw is an active choice to surrender a claim. The Quran pairs it consistently with 'afw as a Divine Name (Al-'Afuw — the Pardoner) and commands it from believers toward each other. When Allah pardons, He does not merely withhold punishment; He erases the record. When a believer practices afw, they do something that mirrors that divine action.
+
+The distinction the scholars make is important: 'afw (pardon) is different from maghfirah (forgiveness) in that 'afw specifically means releasing the right to retaliate. You can forgive internally while still holding someone accountable externally; 'afw means releasing even that right. This is why the Quran consistently asks: would you not love for Allah to forgive you? Then forgive — not as a strategy but as a spiritual posture.
+
+The Prophet ﷺ's life was the greatest exhibition of 'afw. At the conquest of Makkah, when the people who had persecuted, killed, and exiled the Muslims were in his hands, he asked them: "What do you think I will do with you?" And he said: "Go — you are free." This is afw at its most total. And the Quran promises: "Whoever pardons and makes reconciliation — his reward is with Allah" (42:40).`,
+    root: {
+      letters: 'ع–ف–و',
+      transliteration: 'ʿ–f–w',
+      meaning: 'To pardon, erase, wipe out, let go of a right or claim',
+      elaboration: "The root ʿ-f-w has the sense of wiping clean, erasing — like wind erasing tracks in sand. 'Afwa means surplus, what is left over (implying generosity). Al-'Afuw is one of Allah's Names — the One who erases sins entirely, leaving no trace. Human 'afw mirrors this: not just restraining from retaliation but releasing the claim entirely, as if the wrong had been wiped from the record.",
+    },
+    occurrenceCount: 35,
+    occurrenceNote: "The root ʿ-f-w appears approximately 35 times in the Quran in various forms: as a divine Name (Al-'Afuw), as a command to believers (wa-l-ya'fu — 'let them pardon'), in descriptions of reciprocal forgiveness, and in the context of Allah's pardoning of believers who err.",
+    keyAyahs: [
+      {
+        ref: '24:22',
+        arabic: 'وَلْيَعْفُوا وَلْيَصْفَحُوا ۗ أَلَا تُحِبُّونَ أَن يَغْفِرَ اللَّهُ لَكُمْ',
+        translation: 'And let them pardon and overlook. Would you not like that Allah should forgive you?',
+        note: "This verse was revealed about Abu Bakr's decision to cut off support for Mistah after he participated in the slander of Aisha. Allah's question is rhetorical: the desire to receive divine pardon is the motive for human pardon. The logic of 'afw runs through the divine-human relationship.",
+      },
+      {
+        ref: '42:40',
+        arabic: 'وَجَزَاءُ سَيِّئَةٍ سَيِّئَةٌ مِّثْلُهَا ۖ فَمَنْ عَفَا وَأَصْلَحَ فَأَجْرُهُ عَلَى اللَّهِ',
+        translation: 'The recompense of an evil act is one like it, but whoever pardons and makes reconciliation — his reward is with Allah.',
+        note: "The verse grants the right to retaliate equivalently — then raises the alternative: 'afw plus islah (reconciliation). The reward for this is described as 'with Allah' — the highest Quranic way of saying: it cannot be measured in worldly terms.",
+      },
+      {
+        ref: '64:14',
+        arabic: 'وَإِن تَعْفُوا وَتَصْفَحُوا وَتَغْفِرُوا فَإِنَّ اللَّهَ غَفُورٌ رَّحِيمٌ',
+        translation: 'And if you pardon and overlook and forgive — indeed, Allah is Forgiving and Merciful.',
+        note: "Three layered actions — 'afw (pardon), safh (overlook), ghafara (forgive) — followed by two divine attributes. The pattern teaches: human pardoning invokes divine forgiveness. These are not separate; they are related as action and response.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: 'Recognizing the right', arabic: 'إدراك الحق', arabicTranslit: 'idrāk al-ḥaqq', description: "Afw is only possible if you have a genuine right to retaliate. Pardoning when you have no right is not 'afw — it is irrelevance. True 'afw requires that the wrong was real and the right to respond is legitimate — and that you release it anyway." },
+        { number: 2, title: "Hoping for Allah's 'afw", arabic: "الرجاء في عفو الله", arabicTranslit: "al-rajāʾ fī ʿafw Allāh", description: "The Quran consistently motivates 'afw with the divine parallel: you want Allah to pardon you — practice 'afw toward others. The person who has felt their own need for divine pardon finds human 'afw comes more naturally." },
+        { number: 3, title: 'Choosing the better response', arabic: 'الأخذ بالأحسن', arabicTranslit: 'al-akhdh bi-l-aḥsan', description: "41:34 commands 'repel evil with what is better' — the same principle as 'afw. Afw is not weakness; it is choosing a higher response. This requires believing that the higher response is genuinely better — which is itself a form of tawakkul and ihsan." },
+      ],
+      stations: [
+        { name: "Afw of the tongue", description: "Not speaking about the wrong — not to the person, not to others. This is the beginning: the pardon that doesn't go public." },
+        { name: "Afw of the heart", description: "The deeper station: genuinely releasing the resentment, not just the retaliation. The heart that has given 'afw does not carry the ledger of wrongs any longer." },
+        { name: "Afw with islah", description: "The highest station: pardoning plus actively pursuing reconciliation. 42:40 pairs 'afw with islah — the pardon that rebuilds the relationship. This is the prophetic model." },
+      ],
+      questions: [
+        { question: "Who am I still holding a claim over? What is the cost of carrying that claim?", answer: "The unforgiving heart carries the wrong twice — once when it happened, and continuously in the carrying. 'Afw releases the carrier as much as the wrongdoer." },
+        { question: "Do I want Allah's 'afw? What is my response to 24:22 — 'would you not love for Allah to forgive you?'", answer: "The desire for divine pardon and the practice of human 'afw are linked in the Quran. The person who truly wants one is pushed toward the other." },
+        { question: "Is my 'afw genuine, or is it suppression? Do I say I forgive but carry the resentment?", answer: "Genuine 'afw requires processing the hurt — not bypassing it. The heart must actually work through the wrong before the release is real. Otherwise what is called 'afw is simply avoidance." },
+      ],
+    },
+    semanticField: [
+      { slug: 'hilm',   arabic: 'حِلْم',   transliteration: 'Hilm',   relationship: 'parallels',      relationshipLabel: 'Forbearance alongside pardon', description: "Hilm is absorbing harm without retaliation; 'afw is releasing the right to retaliate. They are natural companions: the person of hilm has the self-control to choose 'afw. Together they describe the full posture of the wronged person who responds from strength." },
+      { slug: 'sabr',   arabic: 'صَبْر',   transliteration: 'Sabr',   relationship: 'precedes',       relationshipLabel: 'The patience that enables pardon', description: "Afw requires sabr — the patience to sit with the wound before releasing it. Premature 'afw that hasn't processed the hurt is not genuine. Sabr is the work that makes real 'afw possible." },
+      { slug: 'rahmah', arabic: 'رَحْمَة', transliteration: 'Rahmah', relationship: 'deepens',        relationshipLabel: 'Mercy motivates pardon', description: "Rahmah is the orientation toward the welfare of others. It is what prevents 'afw from being cold or performed: the person who truly wants good for the wrongdoer finds pardoning them natural." },
+      { slug: 'ihsan',  arabic: 'إِحْسَان', transliteration: 'Ihsan',  relationship: 'deepens',        relationshipLabel: "Excellence's highest expression", description: "Ihsan means giving more than is required. In the context of wrongdoing, justice requires equivalent retaliation; 'afw goes beyond — it is ihsan applied to human conflict. This is why 42:40 says the reward of 'afw is with Allah: no worldly calculation captures it." },
+    ],
+    scholarsSaid: [
+      { scholar: 'Ibn al-Qayyim', text: "The greatest reward is for the one who has the power to take revenge and does not — who pardons when he is able to punish, and gives when he could withhold. This is the station of 'afw.", source: "Madarij al-Salikin" },
+      { scholar: 'Al-Qurtubi', text: "Afw is more complete than taking what is due, because 'afw gives up what the self has a right to — and that is harder than merely enduring what cannot be changed.", source: "Al-Jami' li-Ahkam al-Quran" },
+      { scholar: 'Abu Bakr al-Siddiq (upon hearing 24:22)', text: "Yes, by Allah, we want You to forgive us, O our Lord.", source: "Reported in Tafsir Ibn Kathir" },
+    ],
+    hadith: [
+      { ref: 'Muslim', translation: "Charity does not decrease wealth. No one practices 'afw except that Allah increases him in honor. And no one humbles himself for Allah except that Allah raises him in rank.", note: "Three paradoxes: giving does not reduce; pardoning does not diminish; humbling does not lower. The logic of 'afw is the logic of Allah's economy — the opposite of the world's arithmetic." },
+      { ref: 'Tirmidhi', translation: "The Prophet ﷺ was never given a choice between two things except that he chose the easier of the two — unless it was a sin. And if he was wronged, he would not take revenge for himself; he would only take action for the sake of Allah.", note: "The sunnah of the Prophet ﷺ reveals 'afw as his default: not the noble exception but the consistent practice. He defended truth and justice, not his own honor." },
+    ],
+    acrossTransitions: `Forgiveness as a virtue — the voluntary release of resentment and the right to retaliate — is present across traditions but with importantly different logics. In Christian thought, forgiveness is often framed as a gift to the wrongdoer as well as the wronged — the releasing of a debt. Jesus's prayer "forgive us our debts as we forgive our debtors" (Matthew 6:12) has the same structure as 24:22: human forgiveness and divine forgiveness are linked.
+
+In Buddhist ethics, the practice of tonglen (sending and taking) — breathing in the hurt of the wrongdoer and breathing out compassion — approaches 'afw from a different angle: the release of resentment is grounded in recognition of the wrongdoer's suffering. The pardon is motivated by compassion rather than by hope for divine reciprocity, but the practical release of resentment is similar.
+
+In Stoic ethics, forgiving others was reframed as rational self-interest: the resentful person is hurt more by their own resentment than the wrongdoer is. Epictetus: "When someone wrongs you, remember that they did it because they thought it was the right thing to do." This robs the resentment of its fuel.
+
+What is distinctive in Islamic 'afw is the divine motivation: Allah is Al-'Afuw, and human 'afw mirrors divine 'afw. The pardoning person participates in a divine quality — and is promised a divine reward. This is not just wise psychology or good philosophy; it is an act of worship.`,
+    relatedTerms: [
+      { slug: 'hilm',   transliteration: 'Hilm',   term: 'حِلْم'    },
+      { slug: 'sabr',   transliteration: 'Sabr',   term: 'صَبْر'    },
+      { slug: 'rahmah', transliteration: 'Rahmah', term: 'رَحْمَة'  },
+      { slug: 'ihsan',  transliteration: 'Ihsan',  term: 'إِحْسَان' },
+    ],
+    goDeeper: [
+      { slug: 'al-nur',   surahName: 'Al-Nur',   note: "Contains 24:22 — the pivotal 'afw verse, revealed about Abu Bakr and the slander of Aisha. The surah's theme of moral purity, light, and social repair makes it the context for 'afw as the virtue that enables community to survive crisis." },
+      { slug: 'al-shura', surahName: 'Al-Shura', note: "Contains 42:40 — 'afw with islah, whose reward is with Allah. The surah's extended discussion of how believers respond to adversity (42:36-43) is the Quran's most developed teaching on the alternative to retaliation." },
     ],
   },
 }
