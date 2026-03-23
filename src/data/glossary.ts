@@ -179,9 +179,9 @@ export const GLOSSARY_TERMS: GlossaryMeta[] = [
   { slug: 'asiya',        term: 'آسِيَة',            transliteration: 'Asiya',         category: 'Quranic Characters', evocativeLine: 'A queen who built a house in Jannah while living in a palace of oppression.',   hasFullEntry: false },
   { slug: 'yusuf',        term: 'يُوسُف',            transliteration: 'Yusuf',         category: 'Quranic Characters', evocativeLine: 'Thrown into a well, sold, imprisoned — and still the most beautiful of stories.', hasFullEntry: true },
   { slug: 'ibrahim',      term: 'إِبْرَاهِيم',       transliteration: 'Ibrahim',       category: 'Quranic Characters', evocativeLine: "The friend of Allah — who broke the idols, walked into the fire, and didn't flinch.", hasFullEntry: true },
-  { slug: 'musa',         term: 'مُوسَىٰ',           transliteration: 'Musa',          category: 'Quranic Characters', evocativeLine: 'Called from a burning bush, raised in the palace of his enemy — the most mentioned prophet.', hasFullEntry: false },
+  { slug: 'musa',         term: 'مُوسَىٰ',           transliteration: 'Musa',          category: 'Quranic Characters', evocativeLine: 'Called from a burning bush, raised in the palace of his enemy — the most mentioned prophet.', hasFullEntry: true },
   { slug: 'isa',          term: 'عِيسَىٰ',           transliteration: "'Isa",          category: 'Quranic Characters', evocativeLine: "Born without a father, spoke as an infant, and did not die as the world believes.", hasFullEntry: false },
-  { slug: 'nuh',          term: 'نُوح',              transliteration: 'Nuh',           category: 'Quranic Characters', evocativeLine: "950 years of calling — and his own son refused the ark.",                         hasFullEntry: false },
+  { slug: 'nuh',          term: 'نُوح',              transliteration: 'Nuh',           category: 'Quranic Characters', evocativeLine: "950 years of calling — and his own son refused the ark.",                         hasFullEntry: true },
   { slug: 'dawud',        term: 'دَاوُود',           transliteration: 'Dawud',         category: 'Quranic Characters', evocativeLine: 'The king who sang to Allah — given wisdom, a kingdom, and the Psalms.',           hasFullEntry: false },
   { slug: 'sulayman',     term: 'سُلَيْمَان',        transliteration: 'Sulayman',      category: 'Quranic Characters', evocativeLine: 'The sovereign of wind, jinn, and birds — whose prayer was a greater gift than the kingdom.', hasFullEntry: false },
   { slug: 'yunus',        term: 'يُونُس',            transliteration: 'Yunus',         category: 'Quranic Characters', evocativeLine: "The prophet who left before permission — and called from the belly of the deep.",  hasFullEntry: false },
@@ -7305,6 +7305,191 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
     relatedTerms: [
       { slug: 'tawakkul', transliteration: 'Tawakkul', term: 'تَوَكُّل' },
       { slug: 'tawhid',   transliteration: 'Tawhid',   term: 'تَوْحِيد' },
+    ],
+    hasFullEntry: true,
+  },
+
+  'musa': {
+    slug: 'musa',
+    term: 'مُوسَىٰ',
+    transliteration: 'Musa',
+    pronunciation: 'MOO-sa',
+    category: 'Quranic Characters',
+    evocativeLine: 'Called from a burning bush, raised in the palace of his enemy — the most mentioned prophet.',
+    summary: "Musa is the most frequently mentioned prophet in the Quran — named 136 times across 36 surahs. The sheer frequency signals something: of all the prophetic models the Quran holds up for the community of believers, Musa's experience most closely mirrors theirs. He is called while alone in a desert, given a mission beyond what he feels capable of, confronted by the most powerful tyrant of his age, and still walks into that court with nothing but a staff and the words Allah has placed in him.\n\nThe Musa narrative is the Quran's most extended prophetic story, told in multiple versions across multiple surahs — each version emphasizing different aspects: the encounter with Firaun, the parting of the sea, the years at Sinai, the trials in the desert, the conversations with Khidr, the encounter at the burning bush. No single surah contains the complete story; the reader pieces it together across the Quran, which itself mirrors the fragmentary way in which all human beings encounter divine reality — in pieces, across time.\n\nMusa is also the prophet most visibly human. He strikes an Egyptian and kills him, then flees. He pleads with Allah for a helper (his brother Harun) because he fears his own tongue is inadequate. He smashes the tablets in anger when he finds his people worshipping the calf. He argues with Khidr three times despite promising to be patient. He asks to see Allah — directly — and is shown instead what a mountain cannot bear. His humanity is the point: the prophetic mission operates through real human beings with real human limitations, and the divine support is what makes the difference.",
+    root: {
+      letters: 'م و س',
+      transliteration: 'm-w-s',
+      meaning: 'A proper name — from the Egyptian Mes or Mose: son, child',
+      elaboration: "Musa is almost certainly of Egyptian origin, from the Coptic/Egyptian mo (water) and uses (saved) — meaning saved from water, which precisely describes his story of being placed in the river as an infant. The Hebrew Moshe has the same origin. The Quran does not etymologize the name, but the name's meaning and origin are embedded in the story it is attached to.",
+    },
+    rootForms: [
+      { arabic: 'مُوسَىٰ', transliteration: 'Mūsā', type: 'Proper noun', meaning: 'The Prophet Musa (Moses)', approxCount: 136, verified: false },
+    ],
+    occurrenceCount: 136,
+    occurrenceNote: "Musa's 136 mentions make him the most frequently named prophet in the Quran — more than Muhammad ﷺ (mentioned by name 4 times). The Quran's emphasis on Musa is not biographical coincidence; it is theological structure. The community that received the Quran — living under Meccan oppression, then building a new community in Madinah — saw in Musa's story a template for their own.",
+    keyAyahs: [
+      {
+        ref: 'Ta Ha 20:11-12',
+        arabic: 'فَلَمَّا أَتَاهَا نُودِيَ يَا مُوسَىٰ إِنِّي أَنَا رَبُّكَ فَاخْلَعْ نَعْلَيْكَ',
+        translation: "When he came to it, he was called: O Musa, indeed I am your Lord, so remove your sandals — you are in the sacred valley of Tuwa.",
+        note: "The burning bush moment — the prophetic call. Three things happen in this verse: Allah calls Musa by name (intimate, personal, direct). Allah announces His identity (I am your Lord). Allah gives an instruction (remove your sandals). The removal of sandals before sacred ground is the first act of surrender, the first demonstration of submission. The call of every prophet begins with this pattern: divine address, divine self-disclosure, and an invitation to orient oneself correctly.",
+      },
+      {
+        ref: 'Al-Qasas 28:7',
+        arabic: 'وَأَوْحَيْنَا إِلَىٰ أُمِّ مُوسَىٰ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِي الْيَمِّ',
+        translation: "And We inspired the mother of Musa: Nurse him, and when you fear for him, cast him into the river.",
+        note: "Divine inspiration to a mother, not a prophet. The mother of Musa receives the most counterintuitive instruction possible: to protect your son, throw him in the river. The divine logic: the only way to keep what you love is sometimes to release it into divine keeping. The mother acts in what looks like terror but is actually the deepest form of tawakkul.",
+      },
+      {
+        ref: 'Al-Shu-ara 26:62',
+        arabic: 'قَالَ كَلَّا ۖ إِنَّ مَعِيَ رَبِّي سَيَهْدِينِ',
+        translation: "He said: Absolutely not. Indeed, with me is my Lord — He will guide me.",
+        note: "At the Red Sea, with Firaun's army behind them and the water before them, his people say they are caught. Musa's response is among the most confident in the Quran: kalla — absolutely not. My Lord is with me. This is not bravado; it is the prophetic certainty that emerges from the accumulated experience of divine faithfulness. Musa has walked into Firaun's court. He has done what looked impossible before. He knows this pattern.",
+      },
+    ],
+    semanticField: [
+      {
+        slug: 'sabr',
+        arabic: 'صَبْر',
+        transliteration: 'Sabr',
+        relationship: 'deepens',
+        relationshipLabel: 'Tested — and mostly successful — across a lifetime',
+        description: "Musa's patience is tested repeatedly — with his people's ungratefulness, with Khidr's actions, with the long years of wandering. He does not always pass perfectly (he breaks the tablets; he interrupts Khidr three times). But he returns, and he continues. Musa's sabr is the human kind — imperfect but persistent.",
+      },
+      {
+        slug: 'dawah',
+        arabic: 'دَعْوَة',
+        transliteration: "Da'wah",
+        relationship: 'deepens',
+        relationshipLabel: "The mission Musa is sent to fulfil",
+        description: "Musa's mission to Firaun is the Quran's most extended study in da'wah — delivering truth to power. He is instructed to speak to Firaun with qawl layyin — gentle speech (20:44). The instruction is not to soften the message but to maintain the manner. Firaun ultimately rejects, but the obligation to call with wisdom and gentle word remains.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: "Accept the mission despite feeling inadequate", arabic: "قَبُول", arabicTranslit: "qabūl", description: "Musa asks Allah for his brother Harun as support because he fears his own tongue is not eloquent enough (20:25-28). Allah grants the request. The lesson: you do not need to be perfect for the mission — you need to accept the mission and ask for what you need. Acknowledging limitation is not weakness; it is wisdom." },
+        { number: 2, title: "Walk into Firaun anyway", arabic: "إِقْدَام", arabicTranslit: "iqdām", description: "Musa and Harun are afraid of Firaun's reaction. Allah says: Do not fear, I am with you both — I hear and I see (20:46). The divine promise does not remove the situation; it reframes what the situation means. Walking into fear with divine company is not foolhardiness — it is the prophetic stride." },
+        { number: 3, title: "Be honest about the human failures", arabic: "صِدْق", arabicTranslit: "ṣidq", description: "When Musa kills the Egyptian, he says immediately: My Lord, I have wronged myself. When he smashes the tablets in anger, he returns to prayer. When he fails with Khidr, he acknowledges the violation. The prophetic response to failure is not denial but honest return to Allah. This is the model: sin is not the end; how you respond to it determines what it becomes." },
+      ],
+      stations: [
+        { name: "The calling", description: "Musa is not exceptional before his call — he is a shepherd in exile. The burning bush transforms everything. This is the pattern: the prophetic station is not earned before the call; it is built through the response to it." },
+        { name: "The confrontation", description: "Standing before Firaun — the most powerful man in the world — with only divine authorization. This is the supreme test of whether Musa's tawakkul is functional or merely theoretical. He passes." },
+        { name: "The long walk", description: "After Firaun's defeat, forty years in the desert with an ungrateful people. This is the station that asks the most from Musa — not a single dramatic confrontation, but decades of patient leading. It is the station most prophets, and most believers, spend the most time in." },
+      ],
+      questions: [
+        { question: "Why is Musa mentioned more than any other prophet?", answer: "Several reasons scholars offer: the community that first received the Quran was living a parallel story — oppression, call to truth, confrontation with power, building of a new community. Musa's story was their story. Additionally, Musa is the prophet whose experience of divine closeness is most developed in the Quran — he speaks directly with Allah (Kalimullah, the one who spoke with Allah). His story contains the full arc of prophetic experience." },
+        { question: "What is the lesson of Musa with Khidr?", answer: "The Khidr episode (18:60-82) is one of the Quran's most studied passages. A man of greater knowledge (Khidr) does things that appear wrong — sinks a boat, kills a boy, builds a wall for ungrateful people. Each action has a divine reason Musa cannot see. The lesson: there is a level of divine wisdom operating in events that looks like injustice from where we stand. Musa's repeated questioning — and his eventual failure to maintain patience — is not a critique of Musa but a lesson in the limits of human knowledge before divine wisdom." },
+      ],
+    },
+    scholarsSaid: [
+      { scholar: "Ibn Kathir", source: "Al-Bidaya wa-l-Nihaya", text: "Musa is the prophet of the Banu Isra'il, the one who spoke directly with Allah, and the one whose story the Quran returns to most frequently — because in his story is a lesson for every generation of believers living under oppression and seeking to follow truth." },
+      { scholar: "Sayyid Qutb", source: "Fi Zilal al-Quran", text: "The Musa narrative is the Quran's definitive text on the relationship between truth and power. Firaun represents every system that claims ultimate authority; Musa represents the prophetic challenge to every such claim. The story repeats across history because the pattern repeats." },
+    ],
+    hadith: [
+      { text: "Do not give me superiority over Musa, for on the Day of Resurrection all people will be struck unconscious and I will be the first to regain consciousness. I will then find Musa already there, holding onto the Throne. I do not know whether he recovered consciousness before me or if he was exempted.", source: "Sahih al-Bukhari" },
+    ],
+    acrossTransitions: "Musa is the central figure of the Hebrew Bible — the lawgiver, the liberator, the man who spoke with God face to face. The Torah's account of Moses spans four books and is the foundational narrative of Jewish civilization. The Quran's Musa engages with this same tradition: many of the core events are shared (the burning bush, the plagues, the parting of the sea, the tablets), though the Quran's version has its own theological emphases.\n\nIn Christianity, Moses is both a historical figure and a type — a foreshadowing of Jesus. The Sermon on the Mount echoes the lawgiving at Sinai; Jesus is presented in Matthew as a new Moses. The Quran does not use Musa typologically; it uses him as a direct prophetic model.\n\nIn Islamic civilization, Musa's story produced a rich tradition of commentary. The encounter with Khidr inspired the Sufi concept of the hidden teacher — the shaykh whose wisdom exceeds what ordinary observation can grasp. The directive to Musa to speak gently to Firaun produced an entire tradition of ethics of da'wah: no matter how tyrannical the ruler, the manner of truth must remain dignified.",
+    goDeeper: [
+      { slug: 'ta-ha', surahName: 'Ta Ha', note: "The burning bush, the commission, the confrontation with Firaun, the aftermath — the most complete single-surah account of Musa" },
+      { slug: 'al-qasas', surahName: 'Al-Qasas', note: "The mother in the river, the palace, the killing, the exile, the return — the fullest account of Musa's early life and calling" },
+      { slug: 'al-kahf', surahName: 'Al-Kahf', note: "The encounter with Khidr — the most profound meditation on the limits of human knowledge before divine wisdom" },
+    ],
+    relatedTerms: [
+      { slug: 'sabr',   transliteration: 'Sabr',    term: 'صَبْر'  },
+      { slug: 'dawah',  transliteration: "Da'wah",  term: 'دَعْوَة' },
+    ],
+    hasFullEntry: true,
+  },
+
+  'nuh': {
+    slug: 'nuh',
+    term: 'نُوح',
+    transliteration: 'Nuh',
+    pronunciation: 'NOOH',
+    category: 'Quranic Characters',
+    evocativeLine: "950 years of calling — and his own son refused the ark.",
+    summary: "Nuh is the prophet of endurance without reward — at least by any visible, earthly measure. He called his people for 950 years. The Quran records the result: only a few believed. And among those who refused was his own son, who preferred to climb a mountain rather than enter the ark, and drowned.\n\nThe Quran is unflinching about this. Nuh watches his son refuse, calls out to him one last time, and receives no answer but waves. He then turns to Allah and says: My Lord, my son is from my family and surely Your promise is true — intercede for him. Allah's answer is among the most direct and painful in the Quran: He is not from your family. He whose conduct is unrighteous is not of you. This is the Quran's theological line: the bonds of belief are prior to the bonds of blood.\n\nWhat does Nuh teach? That faithfulness to the mission does not guarantee visible success. That the du'a is answered but in Allah's way, not necessarily in the way the prophet hoped. That a relationship with a child or a parent can reach a point where the only honest thing is to release them to Allah and grieve. The Quran describes Nuh as shakur — profoundly grateful. After centuries of rejection and the loss of a son, he is grateful. That is the depth of the station Allah prepared him for.",
+    root: {
+      letters: 'ن و ح',
+      transliteration: 'n-w-h',
+      meaning: 'To wail, to lament, to mourn',
+      elaboration: "The name Nuh is connected to the root n-w-h, meaning to moan or wail — which classical scholars connect to Nuh's weeping over his people's disbelief, or to the long lamentation of his mission. The name is also given in some traditions as meaning rest or comfort. The tension between grief and gratitude in Nuh's character is embedded in the semantic field of his very name.",
+    },
+    rootForms: [
+      { arabic: 'نُوح', transliteration: 'Nūh', type: 'Proper noun', meaning: 'The Prophet Nuh (Noah)', approxCount: 43, verified: false },
+    ],
+    occurrenceCount: 43,
+    occurrenceNote: "Nuh is mentioned 43 times in the Quran across 28 surahs. He has his own surah (Surat Nuh, surah 71), which is entirely his speech to his people and his ultimate prayer when they refused. He is consistently described as one of the ulu al-azm — the prophets of firm resolve (33:7, 42:13), five prophets who endured the most difficult missions: Nuh, Ibrahim, Musa, Isa, and Muhammad ﷺ.",
+    keyAyahs: [
+      {
+        ref: 'Nuh 71:5-9',
+        arabic: 'قَالَ رَبِّ إِنِّي دَعَوْتُ قَوْمِي لَيْلًا وَنَهَارًا فَلَمْ يَزِدْهُمْ دُعَائِي إِلَّا فِرَارًا',
+        translation: "He said: My Lord, I have called my people night and day, but my calling only increased them in flight.",
+        note: "The report of failure given to Allah directly — Nuh does not hide the result. Night and day. And the more he called, the more they fled. This verse captures something profound about the nature of da'wah: the caller's obligation is to call; the response belongs to Allah and to the hearts being addressed. Nuh did not fail at his mission — he completed it. The people failed at theirs.",
+      },
+      {
+        ref: 'Hud 11:42-43',
+        arabic: 'وَنَادَىٰ نُوحٌ ابْنَهُ وَكَانَ فِي مَعْزِلٍ يَا بُنَيَّ ارْكَب مَّعَنَا وَلَا تَكُن مَّعَ الْكَافِرِينَ قَالَ سَآوِي إِلَىٰ جَبَلٍ يَعْصِمُنِي مِنَ الْمَاءِ',
+        translation: "And Nuh called to his son who was apart: O my son, come aboard with us and do not be with the disbelievers. He said: I will take refuge on a mountain that will protect me from the water.",
+        note: "One of the Quran's most heartbreaking moments. The father calls; the son has another plan. The son believes in his own solution — the mountain — rather than the divine provision: the ark. His mountain does not save him. What looks like safety (the mountain, stable and solid) fails; what looks like precariousness (a wooden boat on a flood) is where the divine protection dwells.",
+      },
+      {
+        ref: 'Hud 11:45-46',
+        arabic: 'وَنَادَىٰ نُوحٌ رَّبَّهُ فَقَالَ رَبِّ إِنَّ ابْنِي مِنْ أَهْلِي... قَالَ يَا نُوحُ إِنَّهُ لَيْسَ مِنْ أَهْلِكَ ۖ إِنَّهُ عَمَلٌ غَيْرُ صَالِحٍ',
+        translation: "And Nuh called to his Lord and said: My Lord, my son is from my family... He said: O Nuh, he is not from your family. He is one whose work is unrighteous.",
+        note: "The divine redefinition of family. In the Islamic understanding, the primary bond is not blood but faith and righteous action. Nuh's son chose the mountain over the ark — chose self-reliance over submission. That choice, not his parentage, defines his identity. Allah's mercy is not conditional on family membership; it follows submission.",
+      },
+    ],
+    semanticField: [
+      {
+        slug: 'sabr',
+        arabic: 'صَبْر',
+        transliteration: 'Sabr',
+        relationship: 'deepens',
+        relationshipLabel: '950 years of patience without visible result',
+        description: "Nuh is the supreme Quranic example of sabr in da'wah — patience with people who reject, and rejection that comes from the nearest and dearest. His patience is not comfortable acceptance; it is grief-filled perseverance. He wept. He continued. He prayed. He continued. This is sabr in its fullest form.",
+      },
+      {
+        slug: 'shukr',
+        arabic: 'شُكْر',
+        transliteration: 'Shukr',
+        relationship: 'deepens',
+        relationshipLabel: 'The quality Allah singles out in Nuh',
+        description: "The Quran describes Nuh as shakur — profoundly grateful. This is the description of a man who has lost almost everything and still finds gratitude. Shukr is not gratitude for easy circumstances; it is the orientation of a heart that has found its grounding in Allah regardless of what circumstances hold. Nuh after the flood, grateful — this is shukr at its most tested.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: "Call with all methods, not just one", arabic: "تَنْوِيع", arabicTranslit: "tanwīʿ", description: "Surah Nuh describes Nuh calling his people publicly, privately, openly, quietly, day and night. He varies his approach. He tries everything. The failure to respond is not because he did not try enough methods. The lesson for da'wah: exhaust the methods before concluding the heart is sealed." },
+        { number: 2, title: "Release what only Allah can hold", arabic: "تَسْلِيم", arabicTranslit: "taslīm", description: "Nuh asks for his son; Allah says he is not of your family. This is the moment of ultimate release — to give to Allah what you most want to keep. The believer who has a family member who refuses the truth must arrive at this station eventually: grieve, continue to pray, and release the outcome to Allah." },
+        { number: 3, title: "Make du'a even — and especially — when the result is painful", arabic: "دُعَاء", arabicTranslit: "duʿāʾ", description: "Nuh's prayers in Surah Nuh are extraordinary: he details his methods, admits the results, and then asks Allah to destroy his people because they will only increase in transgression. This prayer is answered. The flood comes. This teaches that du'a is not always asking for what we think we want — it is placing the situation before Allah and accepting His response, even when that response is a flood." },
+      ],
+      stations: [
+        { name: "The calling with no visible result", description: "The station of Nuh — years of da'wah with minimal acceptance. This is among the most difficult spiritual stations because it requires maintaining sincerity without the feedback of success. The caller's obligation is to the call, not to the conversion." },
+        { name: "The grief that does not destroy", description: "Nuh is described as weeping (some traditions say he wept so much the birds around him wept with him). And yet he continued. Grief and faithfulness are not opposites in the Quranic understanding of the human person — the prophets felt the weight of loss fully and continued anyway." },
+        { name: "Gratitude after devastation", description: "The surah describes Nuh coming off the ark, and the description Allah gives him is shakur — profoundly grateful. He has lost his son. He has lost his civilization. He carries the remnant of humanity on a boat. And he is grateful. This is the station that only arrives through the long walk." },
+      ],
+      questions: [
+        { question: "Why did Allah let Nuh call for 950 years with minimal result?", answer: "The Quran does not answer this question directly. But several themes emerge: the demonstration that da'wah's success belongs to Allah, not the caller. The establishment of the principle that faith is chosen, not inherited. And perhaps the preparation of Nuh himself — 950 years of calling shapes a kind of character that could receive the honor Allah was preparing for him. The long mission was the training, not the failure." },
+        { question: "What does the refusal of Nuh's son teach about family and faith?", answer: "That the bonds of belief are prior to the bonds of blood — not in terms of love, but in terms of ultimate belonging. Nuh loved his son; that love is not denied or condemned. What is clarified is that love cannot substitute for a person's own submission. The parent's faith does not save the child; each soul stands alone before Allah. This is among the most difficult truths in the Quran — and Nuh's story is where it is most powerfully demonstrated." },
+      ],
+    },
+    scholarsSaid: [
+      { scholar: "Ibn Kathir", source: "Qisas al-Anbiya", text: "Nuh called his people for 950 years without losing hope in Allah's mercy. His patience was extraordinary, his grief was genuine, and his ultimate gratitude was the mark of a heart that had been refined by the longest test any prophet was given." },
+      { scholar: "Al-Qurtubi", source: "Al-Jami li-Ahkam al-Quran", text: "The du'a of Nuh against his people — after 950 years — was not an act of impatience but of certainty. He knew, as Allah confirmed, that none of them would believe. His prayer was the release of a mission that had been completed and whose outcome now belonged entirely to divine justice." },
+    ],
+    hadith: [
+      { text: "On the Day of Judgment, people will go to Adam and say: O our father, intercede for us with your Lord. He will say: I am not the one for that. Go to Nuh — he is the first messenger Allah sent to the people of the earth.", source: "Sahih al-Bukhari and Muslim" },
+    ],
+    acrossTransitions: "The flood narrative is among the most widely distributed stories in human civilization — found in Mesopotamian texts (the Epic of Gilgamesh, Atrahasis), the Hebrew Bible (Genesis 6-9), the Quran, and flood traditions across dozens of cultures worldwide. What makes the Quranic version distinctive is its theological focus: the flood is not primarily about divine anger but about the consequence of persistent rejection of prophetic truth.\n\nIn Jewish tradition, Noah is the righteous man in a corrupt generation, and the rainbow covenant is a foundational symbol of divine promise. In Christianity, the ark is often read as a symbol of the Church — the vessel of salvation in a world facing judgment. In Islam, Nuh is the first of the ulu al-azm (prophets of firm resolve), and the lesson of his story is not primarily about the flood but about the nature of da'wah and the limits of parental influence on the spiritual choices of a child.\n\nThe figure of Nuh as shakur — grateful despite everything — has become a spiritual touchstone across Islamic tradition. The Sufi masters point to Nuh's gratitude as the proof that shukr is not dependent on circumstances: it is the stable orientation of a heart that has found its grounding in Allah rather than in what Allah gives or takes.",
+    goDeeper: [
+      { slug: 'nuh', surahName: 'Nuh', note: "The entire surah is Nuh's own account of his mission — his methods, his grief, his final prayer" },
+      { slug: 'hud', surahName: 'Hud', note: "Contains the most extended account of the flood and the heartbreaking exchange with Nuh's son" },
+    ],
+    relatedTerms: [
+      { slug: 'sabr',  transliteration: 'Sabr',  term: 'صَبْر'  },
+      { slug: 'shukr', transliteration: 'Shukr', term: 'شُكْر' },
     ],
     hasFullEntry: true,
   },
