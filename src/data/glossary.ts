@@ -247,7 +247,7 @@ export const GLOSSARY_TERMS: GlossaryMeta[] = [
   { slug: 'ukhuwwah',  term: 'أُخُوَّة',  transliteration: 'Ukhuwwah', category: 'Theology & Ethics', evocativeLine: 'Brotherhood and sisterhood — the bond the Quran places above tribe and blood.',            hasFullEntry: true },
   { slug: 'sadaqah',   term: 'صَدَقَة',   transliteration: 'Sadaqah',  category: 'Theology & Ethics', evocativeLine: 'Voluntary giving — the charity that purifies the giver and multiplies for both.',          hasFullEntry: true },
   { slug: 'fasad',     term: 'فَسَاد',    transliteration: 'Fasad',    category: 'Theology & Ethics', evocativeLine: 'Corruption and disorder — what happens when humanity forgets its covenant.',               hasFullEntry: true },
-  { slug: 'shura',     term: 'شُورَى',    transliteration: 'Shura',    category: 'Theology & Ethics', evocativeLine: 'Consultation — the Quranic principle that decisions must be made together.',               hasFullEntry: false },
+  { slug: 'shura',     term: 'شُورَى',    transliteration: 'Shura',    category: 'Theology & Ethics', evocativeLine: 'Consultation — the Quranic principle that decisions must be made together.',               hasFullEntry: true },
 ]
 
 // ── Full entries ──────────────────────────────────────────────────────────────
@@ -10415,6 +10415,184 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
       { slug: 'mawt',    transliteration: 'Mawt',    term: 'مَوْت'    },
       { slug: 'barzakh', transliteration: 'Barzakh', term: 'بَرْزَخ' },
       { slug: 'dunya',   transliteration: 'Dunya',   term: 'دُنْيَا'  },
+    ],
+    hasFullEntry: true,
+  },
+
+  'fasad': {
+    slug: 'fasad',
+    term: 'فَسَاد',
+    transliteration: 'Fasād',
+    pronunciation: "fa-SAAD",
+    category: 'Theology & Ethics',
+    evocativeLine: "Corruption and disorder — what happens when humanity forgets its covenant and breaks what was whole.",
+    summary: "Fasad — corruption, disorder, disruption of the natural order — is one of the Quran's primary categories for describing the antithesis of divine guidance. It appears in the Quran approximately 50 times and describes both the wrong action itself and the state of affairs that wrong action produces. The command 'do not cause corruption in the earth' (la tufsidu fi al-ard) is among the most repeated ethical imperatives in the Quran.\n\nThe Quran's concept of fasad is broader than its English equivalents ('corruption' or 'disorder'). Fasad is the disruption of the divinely ordered balance (mizan) of creation. When Shu'ayb tells the people of Madyan not to deprive people of their just measure, he frames this as 'spreading corruption in the earth' (26:183). When the Quran describes the consequences of human wrongdoing in the natural world — 'corruption has appeared on land and sea because of what people's hands have earned' (30:41) — fasad extends to ecological disorder caused by moral failure.\n\nThe Quran distinguishes between those who make fasad and those who do islah (reform, correction, making right): 'And do not obey the command of the wasteful (musrifin) who cause corruption in the land and do not reform' (26:151-152). The mufsid (the one who causes fasad) is not only the political tyrant or the corrupt official — the category extends to the cheating merchant, the dishonest contractor, the one who breaks social trust, and, in the ecological dimension, the human being whose actions disrupt the divinely ordered balance of creation.",
+    root: {
+      letters: 'ف س د',
+      transliteration: 'f-s-d',
+      meaning: 'to corrupt, to decay, to be disordered, to spoil',
+      elaboration: "The root f-s-d gives fasad (corruption, disorder, decay), afsada (he corrupted/spoiled), mufsid (the one who causes corruption), and ifasad (causing corruption). The opposite root is s-l-h (salaha — to be good, to be in order, to be right) giving salah (righteousness, reform), islah (reform, correction), and muslih (reformer). The Quran consistently presents this binary: mufsidun (those who cause disorder) versus muslihun (those who make reform). The human task is always on the side of islah — restoring and maintaining what is right.",
+    },
+    rootForms: [
+      { arabic: 'فَسَاد', transliteration: 'fasād', type: 'Noun', meaning: 'Corruption, disorder, decay, disruption', approxCount: 50, verified: false },
+      { arabic: 'أَفْسَدَ', transliteration: 'afsada', type: 'Verb', meaning: 'He corrupted, he caused disorder', approxCount: 30, verified: false },
+      { arabic: 'مُفْسِد', transliteration: 'mufsid', type: 'Active participle', meaning: 'One who causes corruption/disorder', approxCount: 7, verified: false },
+    ],
+    occurrenceCount: 50,
+    occurrenceNote: "The root f-s-d appears approximately 50 times in the Quran in noun, verb, and participle forms. Key passages: the hypocrites who say 'we are only reformers' but are mufsidun (2:11-12), Shu'ayb's warning against spreading fasad through commercial dishonesty (26:183), the divine response to human fasad in the natural world (30:41), the description of those who cause fasad by breaking covenants and cutting kinship ties (2:27), and the warning about Pharaoh as a mufsid (28:4).",
+    keyAyahs: [
+      {
+        ref: "Al-Rum 30:41",
+        arabic: "ظَهَرَ الْفَسَادُ فِي الْبَرِّ وَالْبَحْرِ بِمَا كَسَبَتْ أَيْدِي النَّاسِ لِيُذِيقَهُم بَعْضَ الَّذِي عَمِلُوا لَعَلَّهُمْ يَرْجِعُونَ",
+        translation: "Corruption has appeared throughout the land and sea by what the hands of people have earned, so He may let them taste part of what they have done that perhaps they will return.",
+        note: "The most striking Quranic statement about the ecological and social dimensions of human moral failure. 'Corruption has appeared in the land and the sea' — not just in individual hearts or social institutions but in the physical world itself. Human wrongdoing (kasabat aydi al-nas — what people's hands have earned) produces visible disruption of the created order. The purpose of allowing some of this consequence to be experienced: 'perhaps they will return' (la'allahum yarji'un) — the disruption itself is an invitation to tawbah and islah.",
+      },
+      {
+        ref: "Al-Baqarah 2:11-12",
+        arabic: "وَإِذَا قِيلَ لَهُمْ لَا تُفْسِدُوا فِي الْأَرْضِ قَالُوا إِنَّمَا نَحْنُ مُصْلِحُونَ أَلَا إِنَّهُمْ هُمُ الْمُفْسِدُونَ وَلَٰكِن لَّا يَشْعُرُونَ",
+        translation: "And when it is said to them: Do not cause corruption on the earth — they say: We are only reformers. Unquestionably, they are the ones causing corruption, but they do not perceive.",
+        note: "Among the most psychologically precise observations in the Quran: those causing the most damage often genuinely believe they are reformers. The hypocrites are the paradigm case — claiming islah while actually practicing fasad. The self-deception is complete: 'they do not perceive.' This is the fasad of the self-righteous — perhaps the most dangerous form, because it cannot be corrected by external critique (they dismiss critique as coming from enemies), only by divine guidance that penetrates the self-deception.",
+      },
+      {
+        ref: "Al-A'raf 7:56",
+        arabic: "وَلَا تُفْسِدُوا فِي الْأَرْضِ بَعْدَ إِصْلَاحِهَا",
+        translation: "And do not cause corruption on the earth after its reformation.",
+        note: "The command includes a temporal clause: 'after its reformation.' The earth has been ordered and reformed through divine guidance and prophetic mission. The human task is not to create something new but to maintain what has been rightly ordered. Corruption is not merely failing to improve things — it is actively disrupting the order that has been established. This applies to social, environmental, and institutional contexts.",
+      },
+    ],
+    semanticField: [
+      {
+        slug: 'shura',
+        arabic: 'شُورَى',
+        transliteration: 'Shura',
+        relationship: 'parallels',
+        relationshipLabel: "Shura as the institutional antidote to fasad in governance",
+        description: "Fasad in governance — the tyranny and corruption of rulers — is one of the Quran's most frequent political concerns. Shura (consultation) is the Quran's institutional answer: decisions made through consultation include multiple perspectives, check individual error, and prevent the concentration of power that produces tyrannical fasad.",
+      },
+      {
+        slug: 'tawbah',
+        arabic: 'تَوْبَة',
+        transliteration: 'Tawbah',
+        relationship: 'divine-response',
+        relationshipLabel: "Tawbah is the path from fasad back to islah",
+        description: "The Quran's statement that some consequences of fasad are allowed so that 'perhaps they will return' (la'allahum yarji'un) identifies tawbah as the divinely intended response to the experience of fasad's consequences. The suffering produced by corruption is, in the Quranic view, an invitation to return — to islah at the individual and communal level.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: "Name fasad when you see it — even in yourself", arabic: "أَمْر بِالْمَعْرُوف", arabicTranslit: "amr bil-maʿrūf", description: "The Quranic warning about those who call fasad 'reform' is the primary obstacle to naming fasad correctly. The condition for opposing fasad is the willingness to call it by its name — not euphemistically, not relativistically, not accommodating to social pressure. The Quran consistently names fasad as fasad: commercial dishonesty (Madyan), ecological disruption (30:41), political tyranny (Pharaoh), and social disruption (breaking covenants). Naming it accurately is the beginning of islah." },
+        { number: 2, title: "Be a muslih — a reformer, not a mufsid", arabic: "إِصْلَاح", arabicTranslit: "iṣlāḥ", description: "The positive counterpart to avoiding fasad is active islah — participating in the correction of what is wrong. The Quran praises the prophets consistently as muslihun (reformers) and promises that 'Allah does not allow the reward of the muslihun to be lost' (7:170). Islah is not utopian transformation but the patient work of restoration: in families, institutions, communities, and the natural environment." },
+      ],
+      stations: [
+        { name: "Fasad of the individual — the corrupted heart", description: "Fasad begins in the individual heart that has broken its covenant with Allah. The mufsid who causes public harm is typically one whose inner world has already been disordered — where taqwa has been displaced by appetite, where the awareness of divine oversight has been dimmed. Inner islah (tazkiyat al-nafs) is the foundation of outer islah." },
+        { name: "Fasad of institutions — corruption in governance and trade", description: "The institutional fasad the Quran most frequently names: Pharaoh's oppression, Madyan's commercial dishonesty, the hypocrites' social corruption. These represent the organized, systematic, institutional forms of disorder — more dangerous than individual sin because they shape the conditions in which entire communities live." },
+        { name: "Fasad of the earth — the ecological dimension", description: "Al-Rum 30:41 extends fasad to the physical world: land and sea disrupted by human wrongdoing. Classical scholars interpreted this as political and social disorder; contemporary scholars have noted its relevance to environmental disruption — the physical consequence of human moral failure extending to the natural order that the Quran describes as created in perfect mizan (balance, 55:7-8)." },
+      ],
+      questions: [
+        { question: "How does the Quran distinguish between necessary change and destructive fasad?", answer: "The Quran's clearest marker: fasad breaks the mizan (balance, measure) established by divine order, while beneficial change restores or maintains it. Change that corrects injustice, restores truth, and serves the maqasid (the higher objectives of divine law) is islah. Change that disrupts justice, spreads disorder, and serves only narrow self-interest is fasad. The prophets' missions were all forms of islah — correcting the disorder that accumulated in communities that had deviated from divine guidance." },
+        { question: "Can environmental destruction be called fasad in the Quranic sense?", answer: "Yes — Al-Rum 30:41 is the most frequently cited basis for this. 'Corruption has appeared in the land and sea by what people's hands have earned' — classical scholars interpreted this as primarily social and political disorder (wars, injustice, moral failure). Contemporary scholars, drawing on the same verse, extend this to environmental disruption as a form of fasad: the disruption of the mizan (balance) of creation that the Quran describes in Surah Al-Rahman (55:7-9). Both interpretations are textually grounded." },
+      ],
+    },
+    scholarsSaid: [
+      { scholar: "Sayyid Qutb", source: "Fi Zilal al-Quran (In the Shade of the Quran), on Al-Rum 30:41", text: "Corruption in the land and the sea — this is the Quran's observation about what happens when humanity turns away from divine guidance. It is not merely metaphorical: the disruption of justice, the breakdown of social trust, the exploitation of the weak — these produce real disruption in the world. And the Quran says some of this is permitted by Allah so that people will taste the consequences of their choices and return. The suffering of fasad is meant to be an invitation to tawbah and islah." },
+    ],
+    hadith: [
+      { text: "A Muslim is the brother of a Muslim; he does not wrong him, nor does he hand him over to destruction. Whoever fulfills the needs of his brother, Allah will fulfill his needs. Whoever relieves a Muslim of a distress, Allah will relieve him of a distress from the distresses of the Day of Resurrection.", source: "Sahih al-Bukhari and Muslim" },
+    ],
+    acrossTransitions: "The concept of disorder or corruption as the fundamental human problem — and order or justice as the divine gift — is found across traditions. In ancient Egyptian religion, ma'at (truth, justice, cosmic order) was the foundation of the proper world, and its disruption (isfet) was the primary evil. The Pharaoh's role was to maintain ma'at — an irony given the Quran's consistent use of Pharaoh as the paradigm of the mufsid.\n\nIn Confucian thought, the disruption of social harmony and proper relationships (li) is the analogue to fasad. In Western political philosophy, Hobbes's 'state of nature' — the war of all against all — is the political equivalent: the condition of maximum fasad in the absence of divine or social order. The Islamic concept of fasad is distinctive in its integration of moral, social, political, and ecological dimensions under a single term, and in its identification of the prophetic mission as the vehicle of islah — the active restoration of divine order.",
+    goDeeper: [
+      { slug: 'al-rum', surahName: 'Al-Rum', note: "Fasad appearing in land and sea because of what human hands have earned — the ecological and social dimensions (30:41)" },
+      { slug: 'al-baqarah', surahName: 'Al-Baqarah', note: "The hypocrites who call their fasad 'reform' — and the divine response: they are the mufsidun, but they do not perceive (2:11-12)" },
+    ],
+    relatedTerms: [
+      { slug: 'shura',  transliteration: 'Shura',  term: 'شُورَى'  },
+      { slug: 'tawbah', transliteration: 'Tawbah', term: 'تَوْبَة' },
+      { slug: 'taqwa',  transliteration: 'Taqwa',  term: 'تَقْوَى' },
+    ],
+    hasFullEntry: true,
+  },
+
+  'shura': {
+    slug: 'shura',
+    term: 'شُورَى',
+    transliteration: 'Shūrā',
+    pronunciation: "SHOO-ra",
+    category: 'Theology & Ethics',
+    evocativeLine: "Consultation — the Quranic principle that consequential decisions must be made together.",
+    summary: "Shura — consultation — is the Quranic principle that significant decisions, especially those affecting the community, should be made through deliberation with those who are affected by them or who have relevant knowledge. It appears most explicitly in two Quranic passages: 'And those who have responded to their Lord and established prayer and whose affair is consultation (shura) among themselves' (42:38) — where it is listed among the defining characteristics of the believing community, and 'And consult them in the matter' (3:159) — where the Prophet is directly commanded to consult his companions.\n\nThe principle of shura has been foundational in Islamic political thought. It provides a distinctly Islamic framework for legitimate governance: authority is not absolute but must be exercised through deliberation with those governed. The classical scholars debated the scope and mechanism of shura — who must be consulted (the ahl al-hall wa-l-'aqd — those who have authority to bind and release), whether its outcome is binding on the leader, and how it relates to divine sovereignty. Contemporary Islamic scholars have drawn on shura as the Quranic basis for various forms of democratic participation and consultative governance.\n\nBeyond governance, shura is a principle of personal, familial, and institutional life. The Prophet's practice of consulting his companions — even in military decisions — is one of the most extensively documented aspects of his prophetic conduct (sunnah). He consulted his wife Khadijah after the first revelation. He consulted his companions at Badr, at Uhud, at the Battle of the Trench. He established a pattern of consultative leadership that has shaped Islamic institutional practice across fourteen centuries.",
+    root: {
+      letters: 'ش و ر',
+      transliteration: 'sh-w-r',
+      meaning: 'to consult, to extract honey from a hive; to show, to indicate',
+      elaboration: "The root sh-w-r has two primary senses that inform shura: to extract honey from a hive (the original meaning — consultation extracts the best ideas from a group the way honey is extracted from a hive) and to show/indicate/point to (consultation reveals what the best course of action is). Mushawara is mutual consultation (consulting each other); shawara (he consulted); ashara (he pointed, indicated — from the same root). The image of honey extraction is particularly rich: the goal of shura is to draw out the wisdom that is distributed across the group.",
+    },
+    rootForms: [
+      { arabic: 'شُورَى', transliteration: 'shūrā', type: 'Noun', meaning: 'Consultation; the practice of deliberation', approxCount: 1, verified: true },
+      { arabic: 'شَاوَرَ', transliteration: 'shāwara', type: 'Verb', meaning: 'He consulted; he sought counsel', approxCount: 1, verified: true },
+      { arabic: 'مَشُورَة', transliteration: 'mashūra', type: 'Noun', meaning: 'Consultation; counsel sought', approxCount: 1, verified: false },
+    ],
+    occurrenceCount: 1,
+    occurrenceNote: "Shura (as a noun form meaning consultation) appears once explicitly in the Quran (42:38), in the context of the characteristics of the believing community. The related verb shawir (consult them) appears in 3:159, addressed to the Prophet as a divine command. The principle is also implicit in the Quran's description of Luqman's advice to his son — a model of wise counsel — and in the Quran's narration of how Bilqis consulted her ministers before responding to Sulayman.",
+    keyAyahs: [
+      {
+        ref: "Ash-Shura 42:38",
+        arabic: "وَالَّذِينَ اسْتَجَابُوا لِرَبِّهِمْ وَأَقَامُوا الصَّلَاةَ وَأَمْرُهُمْ شُورَىٰ بَيْنَهُمْ وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ",
+        translation: "And those who have responded to their Lord and established prayer, and whose affair is consultation among themselves, and from what We have provided them, they spend.",
+        note: "Shura is here listed among the defining characteristics of the believing community — alongside response to the divine call, establishment of prayer, and spending in charity. The placement is significant: shura is not a political option but a characteristic of community life as essential as prayer and charity. Amruhum (their affair) is communal — the community's decisions, the community's concerns, the community's future — and this must be shura baynuhum (consultation among themselves).",
+      },
+      {
+        ref: "Al-Imran 3:159",
+        arabic: "فَبِمَا رَحْمَةٍ مِّنَ اللَّهِ لِنتَ لَهُمْ ۖ وَلَوْ كُنتَ فَظًّا غَلِيظَ الْقَلْبِ لَانفَضُّوا مِنْ حَوْلِكَ ۖ فَاعْفُ عَنْهُمْ وَاسْتَغْفِرْ لَهُمْ وَشَاوِرْهُمْ فِي الْأَمْرِ",
+        translation: "So by mercy from Allah, you were gentle with them. And if you had been rude in speech and harsh in heart, they would have disbanded from around you. So pardon them and ask forgiveness for them and consult them in the matter.",
+        note: "The divine command to the Prophet ﷺ to consult — shawir them. This comes in the context of the aftermath of Uhud, where the Prophet had taken the advice of his companions to fight outside Medina, the strategy had not succeeded, and the companions might have feared rebuke. Instead, Allah instructs the Prophet: forgive them, seek forgiveness for them, and continue to consult them. The message: setbacks from consultation do not end the obligation to consult. The prophetic model of consultative leadership was maintained even when consultative decisions led to difficult outcomes.",
+      },
+      {
+        ref: "Al-Baqarah 2:233",
+        arabic: "فَإِنْ أَرَادَا فِصَالًا عَن تَرَاضٍ مِّنْهُمَا وَتَشَاوُرٍ فَلَا جُنَاحَ عَلَيْهِمَا",
+        translation: "But if they desire weaning through mutual consent and consultation between them, there is no blame upon either of them.",
+        note: "Shura applied to the most intimate family decision: the weaning of a child. Even in the domestic sphere, the Quran specifies tashawur (mutual consultation) as the mechanism for joint decisions. This verse extends shura from governance to family life — establishing it as a principle not limited to formal politics but applicable to all spheres where joint decisions are made.",
+      },
+    ],
+    semanticField: [
+      {
+        slug: 'fasad',
+        arabic: 'فَسَاد',
+        transliteration: 'Fasad',
+        relationship: 'parallels',
+        relationshipLabel: "Shura prevents the fasad of unchecked power",
+        description: "The political fasad the Quran most consistently condemns is the unchecked power of the mufsid ruler (Pharaoh being the paradigm). Shura is the institutional mechanism that prevents this: decisions made through genuine consultation include multiple perspectives, check individual error, and prevent the concentration of power that historically produces tyrannical fasad. Where shura is abandoned, fasad tends to follow.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: "Consult those with expertise and those affected by the decision", arabic: "أَهْل الرَّأْي", arabicTranslit: "ahl al-raʾy", description: "The classical scholars of shura identified two groups that must be consulted: ahl al-khibra (those with expertise relevant to the decision) and ahl al-ta'thir (those who will be affected by it). A leader who consults only advisors who tell them what they want to hear, or who excludes those who will bear the consequences of the decision, has not practiced shura. The obligation is to seek the best available knowledge and to include the interests of those affected." },
+        { number: 2, title: "Make consultation genuine — not performative", arabic: "إِخْلَاص", arabicTranslit: "ikhlāṣ", description: "The Prophet's consultation was not formalistic — he genuinely followed his companions' advice at Badr, changed his mind at Uhud, and designed the Trench strategy through consulting Salman al-Farisi. The test of genuine shura is whether the consulter actually changes their position when counsel indicates they should. Consultation as mere appearance — going through the motions while already having decided — is not shura but its opposite." },
+        { number: 3, title: "Apply shura in all communal contexts, not only governance", arabic: "جَمَاعَة", arabicTranslit: "jamāʿa", description: "The Quran's statement that 'their affair is shura among themselves' applies to the entire believing community's shared affairs — not only to the caliph's decision-making. Families, institutions, organizations, mosques, and communities are all subject to the principle: decisions that affect the community should be made with the community. The practice of shura builds trust, distributes wisdom, and produces more durable decisions than unilateral authority." },
+      ],
+      stations: [
+        { name: "The prophetic model of consultation", description: "The Prophet ﷺ consulted Khadijah after the first revelation (should I trust this experience?). He consulted Abu Bakr and Umar separately before the migration. He consulted his companions at Badr about whether to fight or retreat. He accepted the advice to fight outside Medina at Uhud (against his own preference). He accepted Salman al-Farisi's suggestion to dig the Trench. Each instance models the principle: leadership that consults produces wiser decisions and stronger community." },
+        { name: "The community that makes its affairs through shura", description: "Ash-Shura 42:38 places the consultative community alongside the praying community and the giving community as the Quranic ideal. This is not a political theory but a description of community culture: a community where decisions are genuinely made together, where diverse views are heard, where leadership seeks and follows wise counsel, where no one's voice is systematically excluded." },
+      ],
+      questions: [
+        { question: "Is the outcome of shura binding on the leader?", answer: "This is the central debate in Islamic political theory. Three positions: (1) The majority classical position: shura is obligatory but its outcome is not binding — the leader must consult but retains ultimate decision-making authority. (2) The minority position: when the council reaches a clear consensus, it is binding on the leader, except in matters where there is explicit prophetic guidance. (3) The contemporary position developed by many modern scholars: in matters of communal welfare where the Prophet did not receive specific divine guidance, the outcome of genuine shura should generally be followed. The Prophet's own practice — changing his position based on companion advice and accepting outcomes he did not prefer — suggests a strong case for the binding character of genuine consensus." },
+        { question: "What is the relationship between shura and democracy?", answer: "This has been among the most debated questions in contemporary Islamic political thought. Points of convergence: both emphasize participatory decision-making, both value diverse voices, both serve as checks on concentrated power. Points of divergence: Islamic shura operates within the framework of Sharia (divine law cannot be overridden by majority vote), while democratic systems may have no such upper limit. Contemporary Islamic scholars range from those who see modern democracy as compatible with shura to those who view them as fundamentally different systems. The emerging consensus among mainstream Islamic scholars: democratic participation and consultative governance are compatible with Islamic principles, though the specific form of their expression should be adapted to local contexts and constrained by Sharia." },
+      ],
+    },
+    scholarsSaid: [
+      { scholar: "Ibn Taymiyya", source: "Al-Siyasa al-Shar'iyya", text: "Whoever has authority over the affairs of the Muslims must consult those who have knowledge and opinion — he must not make decisions alone when he can consult. The one who consults does not lose anything; the one who acts alone risks everything. And the best of consultation is consultation with those who fear Allah, have relevant knowledge, and genuinely wish well for the community." },
+    ],
+    hadith: [
+      { text: "No community has ever gone astray after guidance except that they were given to argumentation (jadal). Then the Prophet recited: 'They used it (argumentation) only as a means of disputation.'", source: "Sunan al-Tirmidhi" },
+    ],
+    acrossTransitions: "The principle of consultative governance has roots across political traditions. In ancient Athens, the assembly (ekklesia) and the council (boule) represented forms of collective decision-making that anticipated modern democratic theory. In Roman republicanism, the Senate served a consultative and deliberative function. In tribal cultures across the ancient Near East — including pre-Islamic Arabia — tribal councils (majlis) were the mechanism of collective decision-making.\n\nThe Islamic concept of shura is distinctive in its theological grounding: it is not merely a practical technique for better decision-making but a divine command embedded in the Quran's description of the believing community. This theological grounding has made shura a resilient principle in Islamic political thought even through periods of authoritarian governance — scholars could always appeal to it as a Quranic obligation that existing regimes were failing to fulfill. The contemporary Islamic political thought that draws on shura as the basis for participatory governance is, in this sense, recovering a Quranic principle rather than importing a foreign concept.",
+    goDeeper: [
+      { slug: 'ash-shura', surahName: 'Ash-Shura', note: "The surah named for consultation — the defining characteristics of the believing community include that 'their affair is consultation among themselves' (42:38)" },
+      { slug: 'al-imran', surahName: 'Al-Imran', note: "The divine command to the Prophet to consult his companions — even after the setback of Uhud (3:159)" },
+    ],
+    relatedTerms: [
+      { slug: 'fasad',   transliteration: 'Fasad',   term: 'فَسَاد'  },
+      { slug: 'hikmah',  transliteration: 'Hikmah',  term: 'حِكْمَة' },
+      { slug: 'taqwa',   transliteration: 'Taqwa',   term: 'تَقْوَى' },
     ],
     hasFullEntry: true,
   },
