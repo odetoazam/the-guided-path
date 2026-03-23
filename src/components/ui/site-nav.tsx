@@ -13,6 +13,7 @@ const topLinks = [
 const learnLinks = [
   { href: '/understanding-quran', label: 'Understanding Quran', desc: 'How to read with depth' },
   { href: '/ulum-al-quran', label: 'Sciences of the Quran', desc: '18 disciplines, mapped' },
+  { href: '/glossary', label: 'Glossary', desc: 'Key Arabic & Quranic terms' },
 ]
 
 export function SiteNav() {
