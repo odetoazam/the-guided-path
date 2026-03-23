@@ -135,17 +135,17 @@ export const GLOSSARY_TERMS: GlossaryMeta[] = [
   { slug: 'khawf',      term: 'خَوْف',      transliteration: 'Khawf',      category: 'States of the Heart', evocativeLine: 'The sacred fear that keeps the soul honest — not terror, but reverential awe.',         hasFullEntry: true  },
   { slug: 'raja',       term: 'رَجَاء',     transliteration: "Raja'",      category: 'States of the Heart', evocativeLine: "Hope in Allah's mercy — the rope that holds even when the hand has let go.",            hasFullEntry: true  },
   { slug: 'ikhlas',     term: 'إِخْلَاص',   transliteration: 'Ikhlas',     category: 'States of the Heart', evocativeLine: 'Sincerity stripped of all audience — the deed done when only Allah is watching.',       hasFullEntry: true  },
-  { slug: 'sidq',       term: 'صِدْق',      transliteration: 'Sidq',       category: 'States of the Heart', evocativeLine: 'Truthfulness so complete that the inner and outer become one.',                          hasFullEntry: false },
-  { slug: 'tawadu',     term: 'تَوَاضُع',   transliteration: "Tawadu'",    category: 'States of the Heart', evocativeLine: 'Humility that knows where it stands — not self-deprecation but honest seeing.',          hasFullEntry: false },
-  { slug: 'zuhd',       term: 'زُهْد',      transliteration: 'Zuhd',       category: 'States of the Heart', evocativeLine: 'Detachment from the world — not hating it, but not being owned by it.',                  hasFullEntry: false },
+  { slug: 'sidq',       term: 'صِدْق',      transliteration: 'Sidq',       category: 'States of the Heart', evocativeLine: 'Truthfulness so complete that the inner and outer become one.',                          hasFullEntry: true },
+  { slug: 'tawadu',     term: 'تَوَاضُع',   transliteration: "Tawadu'",    category: 'States of the Heart', evocativeLine: 'Humility that knows where it stands — not self-deprecation but honest seeing.',          hasFullEntry: true },
+  { slug: 'zuhd',       term: 'زُهْد',      transliteration: 'Zuhd',       category: 'States of the Heart', evocativeLine: 'Detachment from the world — not hating it, but not being owned by it.',                  hasFullEntry: true },
   { slug: 'wara',       term: 'وَرَع',      transliteration: "Wara'",      category: 'States of the Heart', evocativeLine: 'Scrupulous caution — leaving even the doubtful for fear of the forbidden.',              hasFullEntry: false },
-  { slug: 'hayaa',      term: 'حَيَاء',     transliteration: "Hayaa'",     category: 'States of the Heart', evocativeLine: 'The modesty that guards — the eyes, the tongue, the heart, and the limbs.',             hasFullEntry: false },
+  { slug: 'hayaa',      term: 'حَيَاء',     transliteration: "Hayaa'",     category: 'States of the Heart', evocativeLine: 'The modesty that guards — the eyes, the tongue, the heart, and the limbs.',             hasFullEntry: true },
   { slug: 'qanah',      term: 'قَنَاعَة',   transliteration: "Qana'ah",    category: 'States of the Heart', evocativeLine: "Contentment with what Allah has given — the richness that needs no addition.",           hasFullEntry: false },
   { slug: 'muraqaba',   term: 'مُرَاقَبَة', transliteration: 'Muraqaba',   category: 'States of the Heart', evocativeLine: 'The awareness of being watched — living as though you can see Allah, knowing He sees you.', hasFullEntry: false },
   { slug: 'muhasaba',   term: 'مُحَاسَبَة', transliteration: 'Muhasaba',   category: 'States of the Heart', evocativeLine: 'The daily accounting of the self — before you are called to account.',                   hasFullEntry: false },
   { slug: 'inabah',     term: 'إِنَابَة',   transliteration: 'Inabah',     category: 'States of the Heart', evocativeLine: 'Turning to Allah with the whole soul — more urgent and total than tawbah.',              hasFullEntry: false },
   { slug: 'tafakkur',   term: 'تَفَكُّر',   transliteration: 'Tafakkur',   category: 'States of the Heart', evocativeLine: 'The deliberate use of reason to see signs — thinking as an act of worship.',             hasFullEntry: false },
-  { slug: 'dhikr',      term: 'ذِكْر',      transliteration: 'Dhikr',      category: 'States of the Heart', evocativeLine: "The remembrance of Allah — the heart's breath, without which it suffocates.",            hasFullEntry: false },
+  { slug: 'dhikr',      term: 'ذِكْر',      transliteration: 'Dhikr',      category: 'States of the Heart', evocativeLine: "The remembrance of Allah — the heart's breath, without which it suffocates.",            hasFullEntry: true },
   { slug: 'hilm',       term: 'حِلْم',      transliteration: 'Hilm',       category: 'States of the Heart', evocativeLine: 'Forbearance that absorbs harm without retaliation — the strength to be still.',          hasFullEntry: false },
   { slug: 'uns',        term: 'أُنْس',      transliteration: 'Uns',        category: 'States of the Heart', evocativeLine: 'Intimacy with Allah — the sweetness of His presence that makes solitude a gift.',         hasFullEntry: false },
   { slug: 'khashya',    term: 'خَشْيَة',    transliteration: 'Khashya',    category: 'States of the Heart', evocativeLine: 'Reverential awe born of knowledge — the fear of those who truly know.',                  hasFullEntry: false },
@@ -3970,6 +3970,312 @@ What the Quran uniquely establishes is the primacy and self-commitment of divine
     goDeeper: [
       { slug: 'al-anam', surahName: "Al-An'am", note: "Contains 6:12 — 'Your Lord has written rahmah upon Himself' — one of the most hope-giving verses in the Quran. The surah is a sustained meditation on divine sovereignty and human accountability, with rahmah as the framework within which both operate. The verse's placement — in a surah about the consequences of rejecting divine guidance — makes the offer of mercy all the more striking." },
       { slug: 'al-anbiya', surahName: "Al-Anbiya'", note: "Contains 21:107 — 'We sent you only as rahmah to the worlds' — the definitive description of the Prophet ﷺ as the embodiment of divine mercy. The surah as a whole tells the stories of the prophets, and the final revelation of the Prophet ﷺ as rahmah is the culmination: all the prophets were sent with rahmah, and the last and greatest of them is rahmah in its fullest form." },
+    ],
+  },
+
+  dhikr: {
+    slug: 'dhikr',
+    term: 'ذِكْر',
+    transliteration: 'Dhikr',
+    pronunciation: 'DHIKR',
+    category: 'States of the Heart',
+    evocativeLine: "The remembrance of Allah — the heart's breath, without which it suffocates.",
+    hasFullEntry: true,
+    summary: `Dhikr is the remembrance of Allah — perhaps the single most encompassing spiritual practice the Quran prescribes. Every act of worship is, in a sense, dhikr: salah is dhikr performed with the body, Quran recitation is dhikr performed with the tongue and heart, fasting is dhikr enacted through the discipline of the nafs. But dhikr in its specific sense is the active, intentional, frequent remembrance of Allah through verbal and mental acts: saying His names, reciting His praises, reflecting on His attributes, speaking words that orient the heart toward Him.
+
+The Quran makes a statement about dhikr that is among the most frequently quoted verses in Islamic spiritual literature: "Verily, in the remembrance of Allah do hearts find rest" (13:28). Not in success, not in health, not in relationships, not in knowledge — in dhikr. The scholars say this verse identifies the only genuine cure for the restlessness that is the baseline condition of the human heart. The heart was made for Allah; everything it tries in place of Him leaves it hungry. Only dhikr — the return to the presence of its Maker — produces the stillness the heart has always been seeking.
+
+The Quran also makes an extraordinary promise about dhikr that is unlike almost any other: "So remember Me — I will remember you" (2:152). Allah does not merely receive the servant's dhikr; He responds with His own dhikr. The hadith explains this: "Whoever mentions Me in himself, I mention him in Myself; and whoever mentions Me in a gathering, I mention him in a better gathering." This reciprocity makes dhikr not a one-sided act of devotion but a dialogue — the human's remembrance of Allah is met with Allah's remembrance of the human.`,
+    root: { letters: 'ذ–ك–ر', transliteration: 'dh–k–r', meaning: 'To remember, to mention, to recall to mind', elaboration: "The root dh–k–r carries both meanings simultaneously: to remember (internal) and to mention (external). This dual meaning is embedded in the Quranic concept of dhikr: remembrance that is never only mental (it speaks) and speech that is never only verbal (it must come from a remembering heart). The word dhikr also means 'the Quran' in several Quranic uses — 'We have sent down the Dhikr and We will preserve it' (15:9)." },
+    occurrenceCount: 292,
+    occurrenceNote: "The root dh–k–r appears approximately 292 times in the Quran in the noun dhikr (remembrance/mention), the verb dhakara (to remember), the command udhkur (remember!), and the plural adhkar.",
+    keyAyahs: [
+      { ref: '13:28', arabic: 'أَلَا بِذِكْرِ ٱللَّهِ تَطْمَئِنُّ ٱلْقُلُوبُ', translation: 'Verily, in the remembrance of Allah do hearts find rest.', note: "The most quoted verse on dhikr — not a command but a statement of ontological fact: this is how hearts are made. The word tatma'inn (finds rest) is the same root as the nafs mutma'inna — the soul at peace. Dhikr is the path to the settled self." },
+      { ref: '2:152', arabic: 'فَٱذْكُرُونِىٓ أَذْكُرْكُمْ وَٱشْكُرُوا۟ لِى وَلَا تَكْفُرُونِ', translation: 'So remember Me — I will remember you. And be grateful to Me, and do not deny Me.', note: "The divine reciprocity of dhikr. The servant's remembrance is met with divine remembrance. The scholars say 'Allah's remembrance of the servant' means He mentions them to the angels, blesses them, and attends to their affairs." },
+      { ref: '33:41-42', arabic: 'يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱذْكُرُوا۟ ٱللَّهَ ذِكْرًا كَثِيرًا', translation: 'O you who believe — remember Allah with frequent remembrance, and exalt Him morning and evening.', note: "Dhikran kathiran — 'frequent remembrance.' The scholars derived from this that dhikr has no prescribed maximum — 'frequent' means as much as possible, in all circumstances, not confined to specific times." },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: 'Presence of heart is the condition that matters most', arabic: 'حضور القلب في الذكر', arabicTranslit: "ḥuḍūr al-qalb fī al-dhikr", description: "Dhikr without presence of heart (hudur al-qalb) is the body of dhikr without its spirit. The tongue moves; the heart is elsewhere. This is better than nothing — but it is not the dhikr the Quran speaks of. Before saying 'subhanAllah,' pause and mean it — consider the Glory of the One you are declaring. This moment of intention is what makes the syllables into dhikr." },
+        { number: 2, title: 'Abundance and constancy', arabic: 'الكثرة والمداومة', arabicTranslit: "al-kathra wa-al-mudāwama", description: "The Quran commands dhikran kathiran — abundant, frequent remembrance. The Prophet ﷺ said dhikr is better than spending gold and silver and better than meeting the enemy. Anchor dhikr to activities — bismillah before every beginning, alhamdulillah after every blessing, subhanAllah at every wonder." },
+        { number: 3, title: 'Dhikr as protection', arabic: 'الذكر حصن', arabicTranslit: "al-dhikr ḥiṣn", description: "The morning and evening adhkar function as armor: they enclose the day in divine remembrance and provide protection from Shaytan, anxiety, and heedlessness. The Prophet ﷺ described dhikr as the most reliable spiritual protection available — more durable than any single act of worship." },
+      ],
+      stations: [
+        { name: "From tongue to heart to state", description: "The journey of dhikr has three stages. First the tongue: words repeated with attention though the heart is not yet moved. Then the heart: meanings enter, the heart is affected — tears may come, or stillness, or nearness. Then the state (hal): living in the awareness the dhikr expresses — genuinely surrounded by divine presence, genuinely feeling dependence and mercy. Most people live in the first stage; the goal is the third." },
+        { name: "Gatherings of dhikr", description: "The hadith describes angels searching the earth for gatherings of dhikr — when they find one, they surround it to the sky. Allah asks them what His servants want; they say His mercy; He gives it. These gatherings — Quran circles, halaqs, dhikr sessions — are described as gardens of paradise on earth. The one who attends is forgiven even if they came for another purpose." },
+        { name: "Dhikr in difficulty", description: "The Prophet ﷺ prescribed specific dhikr for specific difficulties. For anxiety: the du'a of Yunus from the belly of the whale, which the Prophet ﷺ said relieves any difficulty when said by a Muslim. For grief: 'Inna lillahi wa inna ilayhi raji'un' — immediately reframing loss as a loan recalled. Dhikr in difficulty is reorientation, not escapism." },
+      ],
+      questions: [
+        { question: "What specific dhikr should I focus on?", answer: "Start with what the Prophet ﷺ practiced: the morning and evening adhkar (from Hisnul Muslim or similar collections), the four beloved words — subhanAllah, alhamdulillah, la ilaha illa Allah, Allahu Akbar — and Surah Al-Ikhlas, Al-Falaq, An-Nas each morning and evening. These are tested, transmitted, and attached to specific divine promises. Beyond these, any remembrance of Allah with presence of heart is dhikr." },
+        { question: "Can dhikr be done silently?", answer: "Yes — the Quran praises silent dhikr specifically (7:205). The scholars say silent dhikr is closer to ikhlas, more constant, and more protected from ostentation. Both vocal and silent dhikr are valid; both have specific virtues. Silent dhikr can be maintained through activities that prohibit audible speech." },
+        { question: "What is the difference between dhikr and du'a?", answer: "Du'a is asking; dhikr is remembering and praising. Du'a addresses Allah with requests; dhikr addresses Allah with recognition — of His greatness, names, and attributes. In practice they flow into each other: the heart that has spent time in remembrance finds asking comes more naturally and trustingly." },
+      ],
+    },
+    semanticField: [
+      { slug: 'tawakkul', arabic: 'تَوَكُّل', transliteration: 'Tawakkul', relationship: 'deepens', relationshipLabel: "Sustained by — dhikr maintains the awareness that makes tawakkul possible", description: "Tawakkul is sustained by dhikr — the constant remembrance that Allah is present, that He is Al-Razzaq, that all outcomes are in His hands. The heart that loses dhikr loses tawakkul with it: the sense of Allah's presence fades, and anxiety about provision and outcomes floods in." },
+      { slug: 'shukr', arabic: 'شُكْر', transliteration: 'Shukr', relationship: 'deepens', relationshipLabel: "Companion of — dhikr and shukr are the two expressions of the aware heart", description: "Allah pairs them in 2:152: 'Remember Me — I will remember you. And be grateful to Me.' Dhikr and shukr together describe the heart that has recognized its relationship with Allah fully: remembrance (acknowledging who He is) and gratitude (acknowledging what He has given). They reinforce each other." },
+    ],
+    scholarsSaid: [
+      { scholar: 'Ibn al-Qayyim', text: "Dhikr is the spirit of all deeds, and if it is absent from them, they are like a body without a spirit. The secret of dhikr is the presence of the heart: without it, the tongue moves but the spirit of the remembrance is absent.", source: "Al-Wabil al-Sayyib" },
+    ],
+    hadith: [
+      { ref: "Bukhari & Muslim", translation: "Whoever mentions Me in himself, I mention him in Myself. Whoever mentions Me in a gathering, I mention him in a better gathering.", note: "The divine reciprocity of dhikr — the human's remembrance of Allah is met with Allah's remembrance of the human. To be mentioned by Allah in a gathering of angels is the highest honor available to a human being in this life." },
+    ],
+    acrossTransitions: `The practice of remembrance as a spiritual discipline appears in every major tradition. Jewish liturgy surrounds every moment with blessings (berakhot) — "Blessed are You, Lord our God..." before eating, performing a commandment, seeing beauty. The Talmudic ideal of one hundred blessings per day is a practice of constant divine acknowledgment structurally identical to the Islamic adhkar.
+
+In Christian contemplative tradition, "Pray without ceasing" (1 Thessalonians 5:17) is the Christian form of dhikr. The hesychast tradition of Eastern Orthodoxy developed the Jesus Prayer as a continuous interior prayer, often synchronized with breath — parallel to Islamic dhikr. In Hindu practice, japa — repetitive recitation of divine names or mantras — with the mala (prayer beads) mirrors the tasbih (prayer beads) of Islamic dhikr exactly.
+
+What the Quran uniquely provides is the explicit divine promise of reciprocity: "Remember Me — I will remember you." No other tradition frames the practice of remembrance as a bilateral exchange in which the divine explicitly commits to the human's side of the transaction. This makes Quranic dhikr not merely discipline but dialogue.`,
+    relatedTerms: [
+      { slug: 'tawakkul', transliteration: 'Tawakkul', term: 'تَوَكُّل' },
+      { slug: 'shukr',    transliteration: 'Shukr',    term: 'شُكْر'    },
+      { slug: 'nafs',     transliteration: 'Nafs',     term: 'نَفْس'    },
+      { slug: 'mahabbah', transliteration: 'Mahabbah', term: 'مَحَبَّة' },
+    ],
+    goDeeper: [
+      { slug: 'ar-rad', surahName: "Ar-Ra'd", note: "Contains 13:28 — 'In the remembrance of Allah do hearts find rest' — the Quran's most definitive statement about what dhikr does to the heart." },
+      { slug: 'al-ahzab', surahName: 'Al-Ahzab', note: "Contains the command to abundant dhikr (33:41-42). The surah addresses the community in crisis — and prescribes dhikr as the primary spiritual resource, revealing that remembrance is most needed precisely when circumstances most distract from it." },
+    ],
+  },
+
+  zuhd: {
+    slug: 'zuhd',
+    term: 'زُهْد',
+    transliteration: 'Zuhd',
+    pronunciation: 'ZUHD',
+    category: 'States of the Heart',
+    evocativeLine: 'Detachment from the world — not hating it, but not being owned by it.',
+    hasFullEntry: true,
+    summary: `Zuhd is detachment from the world — the spiritual station of holding the dunya lightly, without either fleeing it or being captured by it. The word is often translated as "asceticism" but that carries the wrong connotation: asceticism suggests rejection and denial. Zuhd is a condition of the heart, not the hand: the zahid may be wealthy or poor; what defines them is that wealth or poverty moves through their hands without settling in their heart.
+
+The most famous definition of zuhd in the tradition comes from Sufyan al-Thawri: "Zuhd in the world is the shortening of one's hopes, not the eating of dry food or wearing a robe." And the Prophet ﷺ's definition is even more precise: "Zuhd in the world is not prohibiting the lawful or wasting wealth — but it is that you are more confident in what is in Allah's hand than in what is in your own hand." Both definitions place zuhd in the relationship between the heart and the dunya, not in external behavior.
+
+The Quran does not command poverty; it commands freedom from attachment. The Prophet ﷺ himself was not a hermit; he was a husband, a father, a community leader, a statesman. What characterized him was that neither wealth nor poverty affected his orientation toward Allah. This is the zuhd the Quran gestures toward with its repeated reminders that the dunya is mata' ghurur — the enjoyment of delusion — while the akhira is al-hayawan — the real life.`,
+    root: { letters: 'ز–ه–د', transliteration: 'z–h–d', meaning: 'To be indifferent to something, to have no desire for it', elaboration: "The root z–h–d means to turn away from something without contempt — to regard it as beneath one's concern. This differs from hatred or rejection: the zahid does not hate the world; they simply find it uncompelling compared to what they have found in Allah. The word zahid (one with zuhd) appears in the Quran once — the merchants who sold Yusuf ﷺ 'regarded him with indifference' (zahidin), undervaluing the precious." },
+    occurrenceCount: 5,
+    occurrenceNote: "The root z–h–d appears rarely explicitly, but zuhd pervades the Quran through its frequent contrasting of dunya and akhira, descriptions of believers' indifference to worldly pleasures, and consistent reorientation toward the eternal.",
+    keyAyahs: [
+      { ref: '57:20', arabic: 'وَمَا ٱلْحَيَوٰةُ ٱلدُّنْيَآ إِلَّا مَتَٰعُ ٱلْغُرُورِ', translation: 'And the life of the world is nothing but the enjoyment of delusion.', note: "The Quran's most concentrated summary of the dunya's nature: temporary enjoyment that deludes. Not a condemnation of life's pleasures but a calibration: enjoy what you have, but know its true weight. The verse makes zuhd the epistemically correct response to the dunya." },
+      { ref: '28:77', arabic: 'وَلَا تَنسَ نَصِيبَكَ مِنَ ٱلدُّنْيَا', translation: 'And do not forget your share of the world.', note: "This verse establishes the balance: zuhd does not mean neglecting worldly responsibilities or refusing provision. It means doing all of this while keeping the akhira as the primary orientation. Zuhd includes this world; it is not escape from it." },
+      { ref: '93:4', arabic: 'وَلَلْءَاخِرَةُ خَيْرٌ لَّكَ مِنَ ٱلْأُولَىٰ', translation: 'And the next life is better for you than the first.', note: "Allah tells the Prophet ﷺ directly: the akhira is better. This is not consolation; it is information. Zuhd is built on this information — when you truly believe the akhira is better, holding the dunya lightly becomes not sacrifice but sanity." },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: "Zuhd is about the heart, not the hand", arabic: 'الزهد في القلب لا في اليد', arabicTranslit: "al-zuhd fī al-qalb lā fī al-yad", description: "Zuhd is a condition of the heart's attachment, not the hand's holdings. A wealthy person whose heart is detached from their wealth is a zahid; a poor person obsessed with gaining wealth is not. The test: if your wealth or status were suddenly taken, would your heart be shattered? The degree of devastation is the degree to which attachment had formed." },
+        { number: 2, title: 'Shorten your hopes', arabic: 'قصر الأمل', arabicTranslit: "qaṣr al-amal", description: "Sufyan al-Thawri makes qasr al-amal (shortening of hopes) the essence of zuhd. Long hopes — planning decades ahead, assuming long life, building attachment to outcomes — tie the heart to the dunya. Shortened hopes — the awareness of death's proximity, treating each day as potentially the last — produce lightness of attachment. The Prophet ﷺ said: 'Be in the world as a stranger or a traveler.'" },
+        { number: 3, title: "Prefer the akhira without neglecting the dunya", arabic: 'إيثار الآخرة مع عدم إهمال الدنيا', arabicTranslit: "īthār al-ākhira maʿ ʿadam ihmāl al-dunyā", description: "The Quran commands (28:77): 'do not forget your share of the world.' Work, earn, fulfill duties, raise family, contribute to community — but none of this is the goal. It is the means; the goal is Allah. The zahid does everything the non-zahid does; they do it with different orientation." },
+      ],
+      stations: [
+        { name: "Three levels of zuhd", description: "The scholars identified three levels. The lowest: zuhd in the haram (obligatory for all). The middle: zuhd in the doubtful — the person of wara'. The highest: zuhd in the permissible that is not needed — voluntarily simplifying to make space for Allah. The Prophet ﷺ occupied the third: given the gifts of the world, he consistently chose the simpler path." },
+        { name: "Zuhd as freedom", description: "The paradox: zuhd produces expansion, not contraction. Attachment to wealth, status, health, reputation enslaves the person — every threat to any of them is anxiety. The zahid is owned by none. They can lose wealth without being shattered, lose status without being humiliated. This is freedom the dunya cannot provide." },
+      ],
+      questions: [
+        { question: "Should I give up my possessions to practice zuhd?", answer: "No — and the scholars were emphatic. Companions like Uthman and Abd al-Rahman ibn Awf were wealthy zahids — because their wealth passed through their hands in generosity without taking up residence in their hearts. The issue is not what you have; it is what has you." },
+        { question: "Is zuhd compatible with ambition?", answer: "Ambition for the akhira IS zuhd. Even worldly ambition is acceptable if it is a means to a larger akhira goal — the entrepreneur who works hard to give more in charity, the scholar who seeks recognition so their teaching reaches more people. Dunya-engagement colored by akhira orientation is the zahid's way." },
+      ],
+    },
+    semanticField: [
+      { slug: 'tawakkul', arabic: 'تَوَكُّل', transliteration: 'Tawakkul', relationship: 'deepens', relationshipLabel: "Companion of — zuhd and tawakkul together define the free heart", description: "Zuhd is detachment from the dunya; tawakkul is attachment to Allah as the true source. Together they describe the heart that is free: not attached to what it has (zuhd) and not anxious about what it needs (tawakkul)." },
+      { slug: 'sabr', arabic: 'صَبْر', transliteration: 'Sabr', relationship: 'deepens', relationshipLabel: "Enabled by — zuhd makes sabr in loss possible", description: "When loss comes to the zahid, it does not devastate because the thing lost was never owned by the heart in the first place — only by the hand. Sabr in loss is easy when the heart was never attached." },
+    ],
+    scholarsSaid: [
+      { scholar: 'Sufyan al-Thawri', text: "Zuhd in the world is the shortening of your hopes — not eating dry food or wearing a robe. For if your hopes were long, and death always felt far, your heart would never settle in the akhira.", source: "Cited in Ibn al-Qayyim, Madarij al-Salikin" },
+      { scholar: "Ahmad ibn Hanbal", text: "Zuhd is of three types: abandoning the haram — the zuhd of the common people; abandoning excess in the permissible — the zuhd of the elite; and abandoning what distracts from Allah — the zuhd of the gnostics.", source: "Cited in Ibn Rajab, Jami' al-Ulum" },
+    ],
+    hadith: [
+      { ref: "Tirmidhi", translation: "Be in the world as a stranger or a traveler.", note: "The traveler uses what is available but does not settle; they do not own the inn they sleep in; they keep moving toward their destination. Zuhd is traveling through the dunya, not settling in it." },
+    ],
+    acrossTransitions: `Detachment from the material world is universal across traditions. Christian monasticism's vow of poverty, Buddhist non-attachment (upekkha), Stoic apatheia — all reach toward something similar. The Islamic calibration is distinctive: the Prophet ﷺ prohibited monasticism (rahbaniyya) in his community. Islam's mainstream tradition rejected extreme renunciation — the Prophet ﷺ himself enjoyed permissible pleasures, laughed with his family, and appreciated beauty. He passed through the world without accumulating attachment.
+
+What Islamic zuhd adds that Buddhism and Stoicism often lack is the positive alternative: you detach from the dunya not into emptiness but into the richness of Allah. The zahid is not empty; they are full — full of dhikr, full of orientation toward the akhira, full of the certainty that what is with Allah is more lasting and more real. This positive fullness distinguishes Islamic zuhd from Buddhist renunciation and Stoic apatheia.`,
+    relatedTerms: [
+      { slug: 'tawakkul', transliteration: 'Tawakkul', term: 'تَوَكُّل' },
+      { slug: 'sabr',     transliteration: 'Sabr',     term: 'صَبْر'    },
+      { slug: 'rizq',     transliteration: 'Rizq',     term: 'رِزْق'    },
+      { slug: 'ikhlas',   transliteration: 'Ikhlas',   term: 'إِخْلَاص' },
+    ],
+    goDeeper: [
+      { slug: 'al-hadid', surahName: 'Al-Hadid', note: "The richest Quranic surah on zuhd — describes the dunya as 'mata' al-ghurur' (57:20), commands not to grieve over what has escaped or exult over what has been given (57:23), and contrasts the temporary with the eternal." },
+      { slug: 'ad-duha', surahName: 'Ad-Duha', note: "Contains 93:4 — 'The next life is better for you than the first' — revealed when the Prophet ﷺ was in difficulty. Not consolation but information: the akhira is objectively better. Zuhd is built on accepting this information." },
+    ],
+  },
+
+  sidq: {
+    slug: 'sidq',
+    term: 'صِدْق',
+    transliteration: 'Sidq',
+    pronunciation: 'SIDQ',
+    category: 'States of the Heart',
+    evocativeLine: 'Truthfulness so complete that the inner and outer become one.',
+    hasFullEntry: true,
+    summary: `Sidq is truthfulness — the alignment of the inner and outer, the agreement between what is said and what is so. But sidq in the Quran is far more than not lying. It is a comprehensive quality of the self in which every dimension — intention, word, and deed — is aligned with reality, with Allah's will, and with itself. The person of sidq is called a siddiq (the intensified form — the one whose sidq is total), and the Quran reserves this highest form for the prophets' closest companions: the Quran calls Maryam ﷺ a siddiqah and places the siddiqun alongside the prophets, the martyrs, and the righteous (4:69).
+
+The scholars of the heart gave sidq a remarkably expansive definition: truthfulness in speech (sidq al-qawl), truthfulness in intention (sidq al-niyya), truthfulness in one's spiritual states and claims (sidq al-hal), and truthfulness in one's deeds — that one's actions match one's words. The worst form of its violation — nifaq (hypocrisy) — is the exact inversion of sidq: claiming what one does not possess, performing what one does not intend.
+
+The Prophet ﷺ described the moral chain reaction sidq produces: "Truthfulness leads to righteousness, and righteousness leads to paradise. A man continues to be truthful until he is written with Allah as a siddiq. And lying leads to wickedness, and wickedness leads to the fire." The chain is moral-ontological: your words shape your character, and your character shapes your destination.`,
+    root: { letters: 'ص–د–ق', transliteration: 'ṣ–d–q', meaning: 'To be true, to verify, to confirm; truth, sincerity', elaboration: "The root ṣ–d–q gives sidq (truthfulness), sadaqa (charitable giving — related because charity confirms the truth of one's iman), siddiq (the perfectly truthful), and tasdiq (verification, affirmation). The connection between sadaqa and sidq is not accidental: spending in charity is the most convincing proof of iman — it confirms with action what the mouth claims." },
+    occurrenceCount: 155,
+    occurrenceNote: "The root ṣ–d–q appears approximately 155 times — the adjective sadiq (truthful), the noun sidq (truth), the intensified siddiq, and divine praise of truthfulness throughout.",
+    keyAyahs: [
+      { ref: '9:119', arabic: 'يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ وَكُونُوا۟ مَعَ ٱلصَّٰدِقِينَ', translation: 'O you who believe — have taqwa of Allah and be with the truthful.', note: "The command is not merely to be truthful but to be with the truthful — to take them as companions and community. Sidq is contagious: the person who spends time with the sadiqun finds their own sidq strengthened." },
+      { ref: '4:69', arabic: 'فَأُو۟لَٰٓئِكَ مَعَ ٱلَّذِينَ أَنْعَمَ ٱللَّهُ عَلَيْهِم مِّنَ ٱلنَّبِيِّۦنَ وَٱلصِّدِّيقِينَ وَٱلشُّهَدَآءِ وَٱلصَّٰلِحِينَ', translation: 'They will be with those Allah has blessed: the prophets, the siddiqun, the martyrs, and the righteous.', note: "The siddiqun are placed second only to the prophets — above the martyrs who give their lives for Allah. This ranking reveals how seriously the tradition views total truthfulness." },
+      { ref: '33:35', arabic: 'وَٱلصَّٰدِقِينَ وَٱلصَّٰدِقَٰتِ', translation: 'And the truthful men and the truthful women.', note: "Listed among the qualities of those for whom Allah has prepared forgiveness and great reward — with both genders explicitly named." },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: "Sidq in intention — the hardest dimension", arabic: 'صدق النية', arabicTranslit: "ṣidq al-niyya", description: "Before every act, the intention is genuinely for Allah — not partially for Allah and partially for other motives. Not deceiving oneself about why one is doing something. The person who tells others they pray for Allah while their true motivation is social belonging is not a sadiq in niyya. The nafs is expert at self-deception — sidq al-niyya is the hardest form precisely because the opponent is the self." },
+        { number: 2, title: 'Let your word match your deed', arabic: 'مطابقة الظاهر للباطن', arabicTranslit: "muṭābaqat al-ẓāhir li-al-bāṭin", description: "The Quran asks: 'Why do you say what you do not do?' (61:2-3). If you make a promise, keep it. If you commit to being somewhere, be there. If you commit to a position, maintain it unless you transparently change it. The person whose word matches their deed has the most valuable thing a person can possess in community: trust." },
+        { number: 3, title: 'Guard the tongue', arabic: 'صون اللسان', arabicTranslit: "ṣawn al-lisān", description: "Lying, exaggeration, backbiting, false praise, deceptive silence — all violations of sidq at the level of speech. The person of sidq speaks less and means more; does not speak what they do not know, does not claim what they do not possess, does not promise what they cannot deliver." },
+      ],
+      stations: [
+        { name: "The siddiq as the prophetic companion", description: "Abu Bakr al-Siddiq received his title because of his immediate, unhesitating belief when the Prophet ﷺ told him of the Night Journey. 'I believe him' — without demanding proof, without negotiation. This is sidq in iman: the inner conviction so complete that it did not need to negotiate conditions before committing. The greatest of the companions is the one with the greatest sidq." },
+        { name: "Sidq in the face of cost", description: "The test of sidq is not when truth is comfortable but when costly. The Quran praises the believers 'true to their covenant' (33:23) — some of them fulfilling it by death. This is the ultimate form: inner commitment so total that no external pressure — even death — can make the outer reality contradict it." },
+      ],
+      questions: [
+        { question: "Are there permissible exceptions to sidq?", answer: "The scholars identified three situations the Prophet ﷺ permitted: reconciling between two people, between spouses to maintain love, and in war. These are not lies in the moral sense because the intention is to protect a greater truth. Outside of these three, the scholars were strict: sidq is required." },
+        { question: "What if my inner state does not match what I am practicing?", answer: "Acknowledge the gap honestly — this acknowledgment itself is sidq. Then keep doing the deed. 'Whoever forces themselves to be patient, Allah will make them patient.' The practice of sidq creates the state of sidq over time — but it must begin with the honest acknowledgment that you are not yet there." },
+      ],
+    },
+    semanticField: [
+      { slug: 'ikhlas', arabic: 'إِخْلَاص', transliteration: 'Ikhlas', relationship: 'deepens', relationshipLabel: "Twin of — sidq and ikhlas together are the heart of worship", description: "Sidq (truthfulness) and ikhlas (sincerity) are the two most essential qualities of the inner life. Sidq is alignment between inner and outer; ikhlas is purification of the inner from any motivation besides Allah. Together they describe worship that is accepted: done for Allah alone and done with genuine inner correspondence." },
+      { slug: 'tawbah', arabic: 'تَوْبَة', transliteration: 'Tawbah', relationship: 'deepens', relationshipLabel: "Completed by — real tawbah requires sidq", description: "Tawbah al-nasuha — sincere tawbah — requires sidq: the person's inner conviction must genuinely match the outer act of returning. A person who performs tawbah while inwardly planning to return to the sin has not made sidq; their tawbah is not nasuha." },
+    ],
+    scholarsSaid: [
+      { scholar: 'Ibn al-Qayyim', text: "Sidq is the spirit of ikhlas, and ikhlas is the spirit of deeds. Without sidq, no deed has any worth before Allah — even if it were to fill the earth.", source: "Al-Fawa'id" },
+    ],
+    hadith: [
+      { ref: "Bukhari & Muslim", translation: "Truthfulness leads to righteousness, and righteousness leads to paradise. A man continues to be truthful until he is written with Allah as a siddiq. And lying leads to wickedness, and wickedness leads to the fire. A man continues to lie until he is written with Allah as a kadhdhab.", note: "The most important hadith on sidq — establishing that truthfulness is not merely a virtue but a trajectory: the person who consistently tells truth becomes a siddiq; the person who consistently lies becomes a kadhdhab. Character is built one word at a time." },
+    ],
+    acrossTransitions: `The virtue of truthfulness is universal. In Confucian ethics, zhengming (rectification of names) holds that things should be called what they truly are — a form of cosmic sidq. In Kantian ethics, the duty not to lie is absolute for Kant — reflecting the same conviction that lying corrupts the framework of moral action regardless of consequences. In indigenous wisdom traditions, the spoken word carries sacred power and careless speech is morally dangerous — paralleled by the hadith: "The servant speaks a word of the pleasure of Allah without thinking much of it, and Allah raises them by it in rank."
+
+What the Quran uniquely provides is the socio-eschatological framing: the siddiq has a specific place in jannah — alongside the prophets, martyrs, and righteous. Truthfulness is not merely a social virtue but a quality that determines eternal station.`,
+    relatedTerms: [
+      { slug: 'ikhlas',   transliteration: 'Ikhlas',   term: 'إِخْلَاص' },
+      { slug: 'tawbah',   transliteration: 'Tawbah',   term: 'تَوْبَة'  },
+      { slug: 'taqwa',    transliteration: 'Taqwa',    term: 'تَقْوَى'  },
+      { slug: 'mahabbah', transliteration: 'Mahabbah', term: 'مَحَبَّة' },
+    ],
+    goDeeper: [
+      { slug: 'at-tawbah', surahName: 'At-Tawbah', note: "Contains 9:119 — 'be with the truthful.' The surah distinguishes the sadiqun from those who claimed iman but whose inner state did not match — making it the Quran's most extended test-case of sidq vs. nifaq." },
+    ],
+  },
+
+  hayaa: {
+    slug: 'hayaa',
+    term: 'حَيَاء',
+    transliteration: "Hayaa'",
+    pronunciation: "ha-YAA'",
+    category: 'States of the Heart',
+    evocativeLine: 'The modesty that guards — the eyes, the tongue, the heart, and the limbs.',
+    hasFullEntry: true,
+    summary: `Hayaa' is modesty or bashfulness — the quality that produces restraint, decorum, and a protective sense of shame in the presence of the divine and in the company of others. It is one of the most distinctive qualities praised in the Islamic tradition, described by the Prophet ﷺ as a branch of faith. But hayaa' is frequently misunderstood: it is not timidity, self-deprecation, or anxiety. The scholars distinguish sharply between hayaa' (praiseworthy, spiritually productive) and simple shyness (a psychological trait that can be good or harmful).
+
+The Prophet ﷺ said: "If you have no hayaa', do whatever you will." This is not permission for licentiousness — it is a diagnosis. The person without hayaa' is the person from whom the internal governor that restrains harmful action has been removed. Hayaa' is the guardian: when present, certain actions become impossible — not because they are forbidden but because they are beneath the dignity of the person who has hayaa'. The person of hayaa' is not controlled by external enforcement — they are self-governing through an inner sense of what is fitting.
+
+The Quran's most vivid portrayal of hayaa' is in the story of Musa ﷺ at the well of Madyan (28:25): the daughter of Shu'ayb ﷺ came to him "walking with hayaa'" to invite him to her father. Three words that the scholars wrote pages about: she was present, transactional, and purposeful — but present with hayaa'. Hayaa' is not hiding from the world; it is engaging with the world while maintaining one's dignity.`,
+    root: { letters: 'ح–ي–ي / ح–ي–و', transliteration: 'ḥ–y–y / ḥ–y–w', meaning: 'Life; to be alive; modesty, bashfulness', elaboration: "The root of hayaa' is the same as hayah (life). The scholars say hayaa' is a sign of the life of the heart: the dead heart has no hayaa'; the living heart is sensitive to what is fitting. Hayaa' is the heart's aliveness expressed in its capacity for appropriate restraint. When the heart dies through persistent sin and heedlessness, hayaa' is one of the first qualities to depart." },
+    occurrenceCount: 11,
+    occurrenceNote: "The specific word hayaa' appears approximately 11 times in the Quran, but the quality pervades its descriptions of the believers, the prophets, and the model women.",
+    keyAyahs: [
+      { ref: '28:25', arabic: 'فَجَآءَتْهُ إِحْدَىٰهُمَا تَمْشِى عَلَى ٱسْتِحْيَآءٍ', translation: 'Then one of the two women came to him, walking with modesty.', note: "The Quran's most celebrated description of hayaa' in action. Three words that capture everything: the daughter did not absent herself from the interaction; she was present, transactional, purposeful — but present with hayaa'. Hayaa' is not hiding; it is engaging with dignity." },
+      { ref: '2:26', arabic: 'إِنَّ ٱللَّهَ لَا يَسْتَحْىِۦٓ أَن يَضْرِبَ مَثَلًا', translation: 'Indeed, Allah does not feel bashful to strike a parable of a mosquito.', note: "The negation of hayaa' applied to Allah — He does not restrain Himself from stating a truth out of embarrassment. This usage reveals the concept: hayaa' is a feeling of restraint before something. For humans before Allah, such restraint is appropriate." },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: "Hayaa' before Allah — the primary form", arabic: 'الحياء من الله', arabicTranslit: "al-ḥayāʾ min Allāh", description: "The highest hayaa' is before Allah — the awareness of being seen by Him that makes certain actions impossible. 'If you knew how Allah watches you, you would not sin' is the essence of this. It is not fear of punishment: it is something closer to shame — the inability to do something disgraceful in the presence of someone you love and whose opinion matters infinitely." },
+        { number: 2, title: "Hayaa' does not prevent necessary engagement", arabic: 'الحياء لا يمنع الواجب', arabicTranslit: "al-ḥayāʾ lā yamnaʿ al-wājib", description: "The scholars distinguish praiseworthy hayaa' from harmful bashfulness — the person who cannot speak necessary truth because of social awkwardness, cannot seek necessary knowledge because questions are embarrassing, cannot do what is right because they fear ridicule. The daughter of Shu'ayb walked to a man with hayaa' — she did not absent herself. Aisha asked the Prophet ﷺ about intimate matters with complete directness. Hayaa' refines engagement; it does not eliminate it." },
+      ],
+      stations: [
+        { name: "Hayaa' and the departure of iman", description: "The Prophet ﷺ said: 'Hayaa' and iman are companions — when one departs, the other departs too.' The departure of hayaa' is followed by fuhsh (shamelessness) — which the Quran links to Shaytan. 'Shaytan commands you to obscenity and lewdness' (2:268). When hayaa' is lost, the internal governor is removed, and what was unthinkable becomes thinkable, then doable, then habitual." },
+        { name: "The hayaa' of the Prophet ﷺ", description: "The Prophet ﷺ was described as having more hayaa' than a virgin woman in her private chamber — meaning his hayaa' was the model for all Muslims. This was not weakness: it was the most refined inner sensitivity to what was fitting before Allah and before people. The person of maximum hayaa' is the person of maximum dignity." },
+      ],
+      questions: [
+        { question: "Is hayaa' only for women?", answer: "No — the tradition applies it equally to men and women. The Prophet ﷺ himself was described with the most intense hayaa'. The companions practiced it. Hayaa' is a quality of any person of dignity regardless of gender." },
+        { question: "How do I cultivate hayaa' if I feel I have lost it?", answer: "Routes back: tawbah (returning from whatever caused its loss), company of those who have hayaa' (it is contagious), muraqaba (awareness of Allah's observation), reducing company of those without hayaa' (shamelessness is also contagious), and the adhkar that maintain divine presence. Hayaa' can be grown — it is not only given at birth." },
+      ],
+    },
+    semanticField: [
+      { slug: 'ikhlas', arabic: 'إِخْلَاص', transliteration: 'Ikhlas', relationship: 'deepens', relationshipLabel: "Companion of — hayaa' before Allah purifies ikhlas", description: "Hayaa' before Allah — the awareness of being seen by Him — is closely related to ikhlas: both involve living in Allah's observation. The person of hayaa' cannot perform for other audiences when they feel the weight of divine observation." },
+      { slug: 'taqwa', arabic: 'تَقْوَى', transliteration: 'Taqwa', relationship: 'deepens', relationshipLabel: "Expression of — hayaa' is taqwa experienced as dignity", description: "Taqwa and hayaa' share the same root experience — awareness of being before Allah — but describe different dimensions of the response. Taqwa is the protective consciousness that avoids what angers Allah; hayaa' is the dignified consciousness that cannot bear to do what is beneath the standard of the One being observed." },
+    ],
+    scholarsSaid: [
+      { scholar: 'Al-Junayd', text: "Hayaa' is the seeing of blessings and shortcomings — from which is born a state called hayaa'. Whoever sees the blessings of Allah upon them and sees their own inadequacy in gratitude for them — from the combination of these two visions arises hayaa'.", source: "Cited in Al-Qushayri, Al-Risala" },
+    ],
+    hadith: [
+      { ref: "Bukhari & Muslim", translation: "Hayaa' is a branch of faith.", note: "Placing hayaa' not as a social virtue but as a dimension of iman itself. The chain: iman produces hayaa', and hayaa' produces the behaviors that maintain iman. The departure of one is the departure of the other." },
+    ],
+    acrossTransitions: `In Confucian ethics, chi (shame) is one of the four beginnings of virtue in Mencius: the capacity to feel shame at wrong action is the seed of righteousness. Without this capacity, moral development is impossible. In classical Greek philosophy, aidos (reverence, shame) was considered a virtue — the appropriate sensitivity to what is fitting in the presence of gods and men. Plato's dialogues place aidos as a gift Zeus gave to humanity to make social life possible.
+
+What the Quran adds is the divine source of hayaa': not before people or abstract social norms but before Allah. This gives hayaa' a stability that social shame cannot provide — social norms change, communities drift, what is considered shameful shifts. But hayaa' before Allah is anchored to something permanent. The person with hayaa' before Allah maintains it even without social enforcement — which is why it is a branch of iman rather than merely a social virtue.`,
+    relatedTerms: [
+      { slug: 'ikhlas', transliteration: 'Ikhlas', term: 'إِخْلَاص' },
+      { slug: 'taqwa',  transliteration: 'Taqwa',  term: 'تَقْوَى'  },
+      { slug: 'sidq',   transliteration: 'Sidq',   term: 'صِدْق'    },
+    ],
+    goDeeper: [
+      { slug: 'al-qasas', surahName: 'Al-Qasas', note: "Contains 28:25 — the daughter of Shu'ayb walking with hayaa' — the Quran's most celebrated single depiction of hayaa' in practice." },
+      { slug: 'an-nur', surahName: 'An-Nur', note: "The surah most associated with hayaa' in practice — containing commands on lowering the gaze, guarding the private parts, and maintaining the modesty that flows from hayaa'." },
+    ],
+  },
+
+  tawadu: {
+    slug: 'tawadu',
+    term: 'تَوَاضُع',
+    transliteration: "Tawadu'",
+    pronunciation: "ta-WAA-du'",
+    category: 'States of the Heart',
+    evocativeLine: "Humility that knows where it stands — not self-deprecation but honest seeing.",
+    hasFullEntry: true,
+    summary: `Tawadu' is humility — knowing one's true place in the order of being, without either inflating or deflating it. The word comes from the root w–d–' which carries the sense of placing something in its proper position. Tawadu' is the act of placing oneself in one's actual position — not higher (kibr, arrogance) and not lower than truth requires. It is the accuracy of self-knowledge translated into how one holds oneself before Allah and before people.
+
+The Quran does not use the word tawadu' very often, but its opposite — kibr (arrogance) — is one of the Quran's most condemned qualities. Kibr is the first sin: Iblis refused to prostrate to Adam, claiming superiority. Kibr is what destroyed Fir'awn: his claim of lordship was the ultimate arrogance. The Quran's consistent condemnation of kibr is simultaneously a sustained praise of tawadu' — because tawadu' is what kibr is not.
+
+The paradox the scholars describe: tawadu' is the quality that elevates. The Prophet ﷺ said: "Whoever is humble for the sake of Allah, Allah will raise them." The one who lowers themselves before Allah is raised by Allah; the one who raises themselves above their station is brought low. Tawadu' is the deliberate emptying that makes room for the divine: the filled cup cannot receive more; the empty cup can be filled.`,
+    root: { letters: 'و–ض–ع', transliteration: 'w–ḍ–ʿ', meaning: 'To place, to set down, to lower; humility, modesty', elaboration: "The root w–ḍ–ʿ gives mawdu' (placed, set down), wada'a (to place/put down), and tawadu' (the reflexive form — to lower oneself). The image is concrete: tawadu' is the act of putting yourself down — not in self-contempt but in accurate self-placement." },
+    occurrenceCount: 12,
+    occurrenceNote: "The root w–ḍ–ʿ appears approximately 12 times in contexts related to humility. The description of 'ibad al-Rahman (servants of the Most Merciful) in 25:63 — walking lightly — is among the Quran's most vivid portraits of tawadu' in action.",
+    keyAyahs: [
+      { ref: '25:63', arabic: 'وَعِبَادُ ٱلرَّحْمَٰنِ ٱلَّذِينَ يَمْشُونَ عَلَى ٱلْأَرْضِ هَوْنًا', translation: "And the servants of the Most Merciful are those who walk upon the earth lightly.", note: "The Quran's portrait of the 'ibad al-Rahman begins with their walk — hawna (lightly, with humility). Before a single religious deed is mentioned, their fundamental posture in the world is described. They carry themselves with tawadu': they do not swagger, do not take up space that is not theirs." },
+      { ref: '17:37', arabic: 'وَلَا تَمْشِ فِى ٱلْأَرْضِ مَرَحًا ۖ إِنَّكَ لَن تَخْرِقَ ٱلْأَرْضَ وَلَن تَبْلُغَ ٱلْجِبَالَ طُولًا', translation: 'And do not walk upon the earth exultantly. Indeed, you will never tear the earth apart, and you will never reach the mountains in height.', note: "One of the most memorable arguments against kibr: the strutting person is trying to be bigger than the earth and taller than the mountains — and will never succeed. The argument is not moral but ontological: arrogance is factually mistaken. Tawadu' is the realistic assessment." },
+      { ref: '26:215', arabic: 'وَٱخْفِضْ جَنَاحَكَ لِمَنِ ٱتَّبَعَكَ مِنَ ٱلْمُؤْمِنِينَ', translation: 'And lower your wing [in humility] for those who follow you of the believers.', note: "The image of 'lowering the wing' — a bird protecting its young. The Prophet ﷺ is commanded to lower himself for the believers. Tawadu' is particularly obligatory for those in authority: the more elevated, the more tawadu' is required." },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: "Tawadu' is not self-abasement", arabic: 'التواضع ليس ذلاً', arabicTranslit: "al-tawāḍuʿ laysa dhullan", description: "The scholars distinguish tawadu' from dhill (abasement before those who should not be obeyed) — humbling oneself before the wealthy to gain favor, or before the oppressor to avoid harm. True tawadu' is lowering oneself before Allah, before the believers, before knowledge. Never lowering oneself in ways that compromise the religion or one's dignity before Allah." },
+        { number: 2, title: "Tawadu' in using one's gifts", arabic: 'التواضع مع النعم', arabicTranslit: "al-tawāḍuʿ maʿa al-niʿam", description: "Tawadu' is most tested when one has gifts — knowledge, beauty, wealth, skill, status. Knowing that the gift is from Allah, that others have gifts one does not have, that the gift can be taken, and using the gift in service rather than display. The scholar whose tawadu' increases with their knowledge is the model." },
+        { number: 3, title: "Tawadu' with all people, not only superiors", arabic: 'التواضع مع الجميع', arabicTranslit: "al-tawāḍuʿ maʿa al-jamīʿ", description: "The Prophet ﷺ sat with the poor and the slave as naturally as with chieftains; refused to have people stand for him; did not sit on a raised platform. This comprehensiveness — toward all people including those society considers beneath one — is tawadu's most demanding dimension." },
+      ],
+      stations: [
+        { name: "The raising that follows tawadu'", description: "The Prophet ﷺ said: 'Whoever humbles himself for Allah, Allah will raise him.' The raising is not always worldly elevation (though sometimes); it is the spiritual raising of being in Allah's regard, the raising of spiritual station. The most spiritually elevated people in the tradition are consistently described as the most humble." },
+        { name: "Tawadu' in knowledge", description: "The scholars particularly emphasized tawadu' in knowledge, because knowledge produces the most socially dangerous kibr — the arrogance of the one who knows. Abu Hanifah said: 'The one who does not know should not be ashamed to say I do not know — it is half of knowledge.' The scholar who can say 'I don't know' has tawadu'." },
+      ],
+      questions: [
+        { question: "How do I know if kibr is hiding beneath apparent tawadu'?", answer: "Diagnostic questions: Do you feel irritation when someone does not acknowledge your contributions? Do you resist being corrected in public? Do you find it difficult to take advice from those you consider beneath you? These are signs of kibr beneath surface tawadu'. The cure: deliberately seek the lower seat, the less recognized role, the opportunity to serve without credit — until the irritation at being unrecognized diminishes." },
+        { question: "Is it possible to be too humble?", answer: "Yes — when tawadu' crosses into self-abasement that compromises dignity or religious duty. Tawadu' should not extend to demeaning oneself before the oppressor, abandoning one's rights, or allowing injustice in the name of humility. The Prophet ﷺ was humble but also spoke truth to power and claimed his rights. Tawadu' is compatible with dignity; not with self-erasure." },
+      ],
+    },
+    semanticField: [
+      { slug: 'ikhlas', arabic: 'إِخْلَاص', transliteration: 'Ikhlas', relationship: 'deepens', relationshipLabel: "Root of — tawadu' before Allah is ikhlas in posture", description: "The person of true ikhlas cannot have kibr — ikhlas means the deed is for Allah alone, and kibr is placing oneself above the standard set by Allah. Genuine sincerity naturally produces genuine humility." },
+      { slug: 'sidq', arabic: 'صِدْق', transliteration: 'Sidq', relationship: 'deepens', relationshipLabel: "Expression of — tawadu' is sidq about one's place in creation", description: "Sidq (truthfulness) applied to the self produces tawadu': the honest person who sees accurately where they stand — dependent on Allah, imperfect, undeserving of the gifts given — cannot maintain the fiction of self-sufficiency that kibr requires." },
+    ],
+    scholarsSaid: [
+      { scholar: 'Ibn al-Qayyim', text: "Tawadu' is the fruit of knowledge of Allah and of the self — when the servant knows who Allah is and who they are, tawadu' is the natural result. Kibr is the product of ignorance — not of worldly matters but of the self and its Lord.", source: "Madarij al-Salikin" },
+    ],
+    hadith: [
+      { ref: "Muslim", translation: "Whoever humbles himself for Allah, Allah will raise him. And whoever is arrogant, Allah will bring him low.", note: "The spiritual law of tawadu' and kibr — stated as a divine promise. The raising is primarily in spiritual station: being in Allah's regard, which is the only elevation that endures." },
+    ],
+    acrossTransitions: `Humility is praised universally. Christian thought considers humilitas the queen of virtues — particularly in Augustinian and Benedictine traditions. Augustine wrote: "The way to Christ is first humility, second humility, third humility." The Rule of St. Benedict identifies twelve steps of humility as the ladder of spiritual ascent. Buddhist non-arrogance (amada) is developed through the insight into anatta (non-self): if there is no permanent self, there is nothing to be arrogant about. In Confucian thought, qian (modesty) is the virtue that draws good fortune — the person who knows their limitations is in alignment with the natural order.
+
+What Islamic tawadu' adds is the dynamic of reciprocity with Allah: "Whoever humbles himself for Allah, Allah will raise him." This is not merely a psychological observation but a theological commitment — Allah Himself is the agent of the raising. The humility is directed toward a Person who responds to it.`,
+    relatedTerms: [
+      { slug: 'ikhlas', transliteration: 'Ikhlas', term: 'إِخْلَاص' },
+      { slug: 'sidq',   transliteration: 'Sidq',   term: 'صِدْق'    },
+      { slug: 'hayaa',  transliteration: "Hayaa'", term: 'حَيَاء'   },
+      { slug: 'taqwa',  transliteration: 'Taqwa',  term: 'تَقْوَى'  },
+    ],
+    goDeeper: [
+      { slug: 'al-furqan', surahName: 'Al-Furqan', note: "Contains 25:63 — the 'ibad al-Rahman walking lightly — the Quran's most famous portrait of tawadu' in practice. The surah's extended character description (25:63-76) builds from the walk of humility through dhikr, prayer, generosity, and the akhira." },
+      { slug: 'al-isra', surahName: "Al-Isra'", note: "Contains 17:37 — the prohibition against walking with arrogance. The argument against kibr from the absurdity of the arrogant person's implicit claim is one of the Quran's most elegant rhetorical moments." },
     ],
   },
 }
