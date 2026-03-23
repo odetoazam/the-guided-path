@@ -232,11 +232,11 @@ export const GLOSSARY_TERMS: GlossaryMeta[] = [
   { slug: 'ihsan',     term: 'إِحْسَان',  transliteration: 'Ihsan',    category: 'Theology & Ethics', evocativeLine: "To worship Allah as though you see Him — knowing He sees you.",                           hasFullEntry: true  },
   { slug: 'taqwa',     term: 'تَقْوَى',   transliteration: 'Taqwa',    category: 'Theology & Ethics', evocativeLine: 'God-consciousness — the shield that makes every moment a moral choice.',                  hasFullEntry: true  },
   { slug: 'rahmah',    term: 'رَحْمَة',   transliteration: 'Rahmah',   category: 'Theology & Ethics', evocativeLine: "Mercy — the quality that precedes and encompasses all of Allah's other attributes.",       hasFullEntry: true  },
-  { slug: 'hikmah',    term: 'حِكْمَة',   transliteration: 'Hikmah',   category: 'Theology & Ethics', evocativeLine: 'Wisdom — the ability to put things in their right place, given only to those Allah chooses.', hasFullEntry: false },
-  { slug: 'adl',       term: 'عَدْل',     transliteration: "'Adl",     category: 'Theology & Ethics', evocativeLine: "Justice — one of the Quran's supreme values, demanded even against yourself.",             hasFullEntry: false },
-  { slug: 'shirk',     term: 'شِرْك',     transliteration: 'Shirk',    category: 'Theology & Ethics', evocativeLine: 'The one sin declared unforgivable — placing anything alongside Allah in the heart.',       hasFullEntry: false },
-  { slug: 'kufr',      term: 'كُفْر',     transliteration: 'Kufr',     category: 'Theology & Ethics', evocativeLine: 'Disbelief and ingratitude — the covering over of what the heart already knows.',           hasFullEntry: false },
-  { slug: 'nifaq',     term: 'نِفَاق',    transliteration: 'Nifaq',    category: 'Theology & Ethics', evocativeLine: 'Hypocrisy — the gap between what is shown and what is held, wider than disbelief.',        hasFullEntry: false },
+  { slug: 'hikmah',    term: 'حِكْمَة',   transliteration: 'Hikmah',   category: 'Theology & Ethics', evocativeLine: 'Wisdom — the ability to put things in their right place, given only to those Allah chooses.', hasFullEntry: true },
+  { slug: 'adl',       term: 'عَدْل',     transliteration: "'Adl",     category: 'Theology & Ethics', evocativeLine: "Justice — one of the Quran's supreme values, demanded even against yourself.",             hasFullEntry: true },
+  { slug: 'shirk',     term: 'شِرْك',     transliteration: 'Shirk',    category: 'Theology & Ethics', evocativeLine: 'The one sin declared unforgivable — placing anything alongside Allah in the heart.',       hasFullEntry: true },
+  { slug: 'kufr',      term: 'كُفْر',     transliteration: 'Kufr',     category: 'Theology & Ethics', evocativeLine: 'Disbelief and ingratitude — the covering over of what the heart already knows.',           hasFullEntry: true },
+  { slug: 'nifaq',     term: 'نِفَاق',    transliteration: 'Nifaq',    category: 'Theology & Ethics', evocativeLine: 'Hypocrisy — the gap between what is shown and what is held, wider than disbelief.',        hasFullEntry: true },
   { slug: 'haqq',      term: 'حَقّ',      transliteration: 'Haqq',     category: 'Theology & Ethics', evocativeLine: "Truth and right — the word that is also one of Allah's names and the Quran's purpose.",    hasFullEntry: false },
   { slug: 'zulm',      term: 'ظُلْم',     transliteration: 'Zulm',     category: 'Theology & Ethics', evocativeLine: 'Wrongdoing and oppression — the darkness the Quran cannot name without condemning.',        hasFullEntry: false },
   { slug: 'birr',      term: 'بِرّ',      transliteration: 'Birr',     category: 'Theology & Ethics', evocativeLine: 'Comprehensive righteousness — the full expression of goodness in every direction.',         hasFullEntry: false },
@@ -5180,6 +5180,458 @@ What is distinctive in Islamic 'afw is the divine motivation: Allah is Al-'Afuw,
     goDeeper: [
       { slug: 'al-nur',   surahName: 'Al-Nur',   note: "Contains 24:22 — the pivotal 'afw verse, revealed about Abu Bakr and the slander of Aisha. The surah's theme of moral purity, light, and social repair makes it the context for 'afw as the virtue that enables community to survive crisis." },
       { slug: 'al-shura', surahName: 'Al-Shura', note: "Contains 42:40 — 'afw with islah, whose reward is with Allah. The surah's extended discussion of how believers respond to adversity (42:36-43) is the Quran's most developed teaching on the alternative to retaliation." },
+    ],
+  },
+
+  hikmah: {
+    slug: 'hikmah',
+    term: 'حِكْمَة',
+    transliteration: 'Hikmah',
+    pronunciation: 'HIK-mah',
+    category: 'Theology & Ethics' as GlossaryCategory,
+    evocativeLine: 'Wisdom — the ability to put things in their right place, given only to those Allah chooses.',
+    hasFullEntry: true,
+    summary: `Hikmah is wisdom — but not the wisdom of experience or intelligence alone. The Quran describes it as a gift from Allah: "He gives hikmah to whoever He wills, and whoever is given hikmah has been given abundant good" (2:269). This is the crucial distinction: hikmah cannot be earned through study alone; it is granted. The one who receives it becomes able to see things as they actually are, to place each thing in its right relationship, to know not just what to do but why — and how.
+
+The classical scholars distinguished hikmah from 'ilm (knowledge): you can have 'ilm without hikmah, but not hikmah without 'ilm. The one who has 'ilm knows facts; the one who has hikmah knows what to do with them. Al-Ghazali described hikmah as the capacity of the rational soul operating at its best — in alignment with divine guidance, purified of ego, oriented toward what truly matters.
+
+In the Quran, hikmah is paired consistently with the Book (kitab): "He taught them the Book and hikmah" (2:129, 2:151, 3:164). This pairing reveals that hikmah is the living dimension of scripture — not just the text but the ability to apply it with discernment, justice, and beauty. The Prophet ﷺ embodied this: he knew the revelation and lived it wisely in every circumstance.`,
+    root: {
+      letters: 'ح–ك–م',
+      transliteration: 'ḥ–k–m',
+      meaning: 'To judge, decide, restrain, be firm and sound',
+      elaboration: "The root h-k-m is the root of hukm (judgment/rule), hakim (judge/wise person), mahkama (court), and hikma (wisdom). The common thread is the capacity to make sound, binding determinations — to see clearly and decide well. Al-Hakim is one of Allah's Names: the Perfectly Wise. Human hikmah participates in this quality to the degree Allah grants it.",
+    },
+    occurrenceCount: 20,
+    occurrenceNote: "Hikmah appears approximately 20 times in the Quran, almost always in elevated contexts: paired with the Book (2:129, 3:164), as a gift Allah gives to prophets (4:54), as what is given to those who receive abundant good (2:269), and as the method of da'wa — 'Call to the way of your Lord with hikmah' (16:125).",
+    keyAyahs: [
+      {
+        ref: '2:269',
+        arabic: 'يُؤْتِي الْحِكْمَةَ مَن يَشَاءُ ۚ وَمَن يُؤْتَ الْحِكْمَةَ فَقَدْ أُوتِيَ خَيْرًا كَثِيرًا',
+        translation: 'He gives wisdom to whom He wills, and whoever is given wisdom has certainly been given much good.',
+        note: "The verse places hikmah entirely in Allah's gift — it is not achieved but received. The superlative 'much good' (khayran kathiran) signals that hikmah is among the highest blessings: wealth, health, and honor are subordinate to it.",
+      },
+      {
+        ref: '16:125',
+        arabic: 'ادْعُ إِلَىٰ سَبِيلِ رَبِّكَ بِالْحِكْمَةِ وَالْمَوْعِظَةِ الْحَسَنَةِ',
+        translation: 'Call to the way of your Lord with wisdom and good instruction.',
+        note: "Hikmah is the method of da'wa — calling to Allah with wisdom means reading the person, the moment, and the message together. It requires knowing what to say, when to say it, and how. This is hikmah in the relational register.",
+      },
+      {
+        ref: '31:12',
+        arabic: 'وَلَقَدْ آتَيْنَا لُقْمَانَ الْحِكْمَةَ أَنِ اشْكُرْ لِلَّهِ',
+        translation: "And We had certainly given Luqman wisdom: Be grateful to Allah.",
+        note: "Luqman's hikmah begins with shukr — gratitude to Allah. The wisdom that does not begin with acknowledging the Source is incomplete. The entire surah of Luqman is an exhibition of hikmah applied to parenting, character, and relationship with Allah.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: 'Purification of the heart', arabic: 'تزكية النفس', arabicTranslit: 'tazkiyat al-nafs', description: "The scholars taught that hikmah flows into a purified vessel. The heart cluttered with ego, worldly attachment, and spiritual negligence cannot hold hikmah. Tawbah, dhikr, and tafakkur create the conditions; hikmah is the gift that follows." },
+        { number: 2, title: 'Deep engagement with the Quran', arabic: 'الملازمة مع القرآن', arabicTranslit: 'al-mulāzama maʿa al-Qurān', description: "The Quran is the primary source of hikmah for the believer. Not surface reading but tadabbur — sitting with the text until its depths open. The one who deeply knows the Quran develops a Quranic vision of reality." },
+        { number: 3, title: 'Learning from scholars and experience', arabic: 'الاستفادة من العلماء والتجارب', arabicTranslit: 'al-istifāda min al-ʿulamāʾ wa-l-tajārib', description: "Hikmah respects accumulated wisdom — in the chain of scholarship, in the experience of elders, in the patterns of history. The Quran's command to 'travel in the earth and see' is a command to learn from what has already been lived." },
+      ],
+      stations: [
+        { name: 'Hikmah in speech', description: "Knowing what to say, how to say it, and when to be silent. The hakeem (wise one) does not speak merely because they know something — they speak when speech will help and are silent when it won't." },
+        { name: 'Hikmah in judgment', description: "The ability to see a situation in its full complexity and make a sound determination — not according to desire or pressure but according to what is truly right. This is the hikmah of judges and leaders." },
+        { name: "Hikmah in da'wa", description: "Reading the person before speaking — understanding what they need, what they can hear, what would actually help them. 16:125 describes this as the method of inviting to Allah's way." },
+        { name: 'Hikmah as a state', description: "The highest expression: the person who has been given hikmah lives from it continuously — their decisions, words, relationships, and responses all reflect a clarity about what truly matters." },
+      ],
+      questions: [
+        { question: "When I am about to speak or act, am I asking 'what is true?' or also 'what is needed, what is right, what will help'?", answer: "Hikmah requires all three. Truth without discernment can harm. Discernment without truth is manipulation. Hikmah holds both." },
+        { question: "Am I developing the conditions for hikmah — study, reflection, purification — or am I waiting for it to arrive without preparation?", answer: "Allah gives hikmah to those who seek it. The seeking includes purifying the vessel: not just accumulating knowledge but becoming someone wisdom can dwell in." },
+        { question: "When I encounter a difficult person or situation, do I respond from habit and reaction, or from genuine reading of what is actually needed?", answer: "The habitual response is the enemy of hikmah. Wisdom requires pausing — taking the situation in its particularity before responding." },
+      ],
+    },
+    semanticField: [
+      { slug: 'ilm',    arabic: 'عِلْم',   transliteration: "'Ilm",    relationship: 'precedes',  relationshipLabel: 'Knowledge before wisdom', description: "Knowledge is the precondition of hikmah — you cannot be wise about what you don't know. But 'ilm without hikmah is incomplete: knowing facts does not guarantee knowing what to do with them." },
+      { slug: 'adl',    arabic: 'عَدْل',   transliteration: "'Adl",    relationship: 'parallels', relationshipLabel: 'Justice alongside wisdom', description: "Hikmah and 'adl (justice) are natural companions — wisdom without justice becomes clever manipulation; justice without wisdom becomes rigid rule-following. Together they describe the ideal judge, leader, and parent." },
+      { slug: 'taqwa',  arabic: 'تَقْوَى', transliteration: 'Taqwa',   relationship: 'deepens',   relationshipLabel: 'The ground of wisdom', description: "The Quran says Allah will teach the person of taqwa (2:282). Taqwa creates the receptivity that hikmah requires — the purified, rightly-oriented heart is the vessel into which wisdom flows." },
+      { slug: 'sabr',   arabic: 'صَبْر',   transliteration: 'Sabr',    relationship: 'precedes',  relationshipLabel: 'Patience as prerequisite', description: "The wise person is patient — they do not respond impulsively, do not judge before seeing, do not act before understanding. Sabr is the temporal dimension of hikmah: the ability to wait for clarity." },
+    ],
+    scholarsSaid: [
+      { scholar: 'Al-Ghazali', text: "Hikmah is the perfection of the human soul — the rational soul's ability to distinguish truth from falsehood, real good from apparent good, and to place each thing in its right position.", source: "Ihya' Ulum al-Din" },
+      { scholar: 'Ibn Qayyim al-Jawziyyah', text: "Hikmah means placing things in their right places — neither giving something more than it deserves nor less. It is the foundation of justice, beauty, and rightness in all affairs.", source: "Madarij al-Salikin" },
+      { scholar: 'Luqman (as reported in the Quran)', text: "O my son, if something is even the weight of a mustard seed and it is within a rock or in the heavens or in the earth, Allah will bring it forth.", source: "31:16 — Luqman's hikmah in practice: teaching his son that nothing escapes Allah's knowledge." },
+    ],
+    hadith: [
+      { ref: 'Bukhari', translation: "Wisdom (al-hikma) is the lost property of the believer — wherever they find it, they are most entitled to it.", note: "This hadith grounds an important principle: hikmah is not owned by any tradition, era, or people. The believer's intellectual posture is receptive — wherever wisdom is found, it belongs to the believer by right of their orientation toward truth." },
+    ],
+    acrossTransitions: `Wisdom as a virtue that transcends ordinary knowledge is universal. In Greek philosophy, sophia (wisdom) was the highest intellectual virtue — distinct from phronesis (practical wisdom) and episteme (scientific knowledge). The sophists claimed to sell it; Socrates claimed you could only know you didn't have it. Plato's philosopher-king ruled by sophia; for the Quran, the King of wisdom is Allah and hikmah is His gift to those He chooses.
+
+In Jewish wisdom literature (Proverbs, Ecclesiastes, Wisdom of Solomon), Hokhma (wisdom) is personified as a woman present at creation — almost divine. Proverbs 3:13-18 extols wisdom as more precious than silver, gold, or rubies, and connects it to long life, honor, and peace. The parallel with 2:269 ('much good') is striking.
+
+In Chinese philosophy, the concept of zhi (wisdom) in Confucianism is one of the five cardinal virtues, connected to distinguishing right from wrong. Laozi's Tao Te Ching speaks of sage wisdom as a kind of non-interference with the natural order — the wise person acts without imposing, knows without analyzing. This resonates with hikmah's quality of placing things in their right position without distorting them.`,
+    relatedTerms: [
+      { slug: 'adl',   transliteration: "'Adl",   term: 'عَدْل'   },
+      { slug: 'taqwa', transliteration: 'Taqwa',  term: 'تَقْوَى' },
+      { slug: 'sabr',  transliteration: 'Sabr',   term: 'صَبْر'   },
+      { slug: 'ikhlas', transliteration: 'Ikhlas', term: 'إِخْلَاص' },
+    ],
+    goDeeper: [
+      { slug: 'luqman', surahName: 'Luqman', note: "The surah named after a man given hikmah — and the entire surah is his application of it. Luqman's advice to his son (31:13-19) is the Quran's most complete exhibition of what hikmah looks like when embodied in parental guidance." },
+      { slug: 'al-nahl', surahName: 'Al-Nahl', note: "Contains 16:125 — call with hikmah. The surah itself is an exhibition of divine hikmah in creation: from livestock to honey to ships to shade. Reading it is a lesson in seeing creation wisely." },
+    ],
+  },
+
+  adl: {
+    slug: 'adl',
+    term: 'عَدْل',
+    transliteration: "'Adl",
+    pronunciation: 'ADL',
+    category: 'Theology & Ethics' as GlossaryCategory,
+    evocativeLine: "Justice — one of the Quran's supreme values, demanded even against yourself.",
+    hasFullEntry: true,
+    summary: `'Adl (justice) is among the most frequently commanded values in the Quran — not as a legalistic requirement but as a divine attribute that believers are called to embody. Allah is Al-'Adl: the perfectly just. Every human attempt at justice participates in a divine quality and every failure diminishes something of what humans were created to uphold.
+
+What distinguishes Quranic justice from mere fairness is its comprehensiveness and its demands: "O you who believe, be persistently standing firm in justice, witnesses for Allah, even if it be against yourselves or parents and relatives" (4:135). Justice that applies only to strangers, only when convenient, only when it costs nothing — is not 'adl. The Quran demands a justice that bends even against self-interest, that requires standing as a witness to the truth even when it hurts you.
+
+The scholars distinguished 'adl from qist (equity or fairness in distribution). Both are justice, but 'adl implies the exact proportion — giving each thing exactly what it deserves, no more and no less. Qist implies equity in sharing — making sure things are distributed fairly. The Quran commands both. Together they describe a vision of social life in which nothing and no one is treated as less than they truly are.`,
+    root: {
+      letters: 'ع–د–ل',
+      transliteration: 'ʿ–d–l',
+      meaning: 'To be straight, even, equal; to balance, adjust, set upright',
+      elaboration: "The root ʿ-d-l carries the image of straightness and balance — a scale that is level, a line that is true. The mu'tadil (moderate, balanced) person is one who does not lean to either excess or deficiency. 'Adl in law is the witness who is reliable, whose testimony is straight. Al-'Adl is one of Allah's Names — the One whose every judgment is perfectly calibrated.",
+    },
+    occurrenceCount: 28,
+    occurrenceNote: "The root ʿ-d-l appears approximately 28 times in the Quran in various forms — as a command to believers, as an attribute of Allah, as the standard for testimony, and as the standard for family relationships. It is among the most repeatedly commanded virtues in the Quran.",
+    keyAyahs: [
+      {
+        ref: '4:135',
+        arabic: 'يَا أَيُّهَا الَّذِينَ آمَنُوا كُونُوا قَوَّامِينَ بِالْقِسْطِ شُهَدَاءَ لِلَّهِ وَلَوْ عَلَىٰ أَنفُسِكُمْ أَوِ الْوَالِدَيْنِ وَالْأَقْرَبِينَ',
+        translation: 'O you who believe, be persistently standing firm in justice, witnesses for Allah, even if it be against yourselves or parents and relatives.',
+        note: "This is the most demanding justice verse in the Quran. Qawwamin (persistently standing) is the intensive form — not occasional justice but a permanent, effortful posture. The hardest cases are explicitly named: your own self, your parents, your close relatives. There are no exemptions.",
+      },
+      {
+        ref: '5:8',
+        arabic: 'وَلَا يَجْرِمَنَّكُمْ شَنَآنُ قَوْمٍ عَلَىٰ أَلَّا تَعْدِلُوا ۚ اعْدِلُوا هُوَ أَقْرَبُ لِلتَّقْوَىٰ',
+        translation: 'And do not let the hatred of a people prevent you from being just. Be just; that is nearer to righteousness.',
+        note: "The hardest application of 'adl: being just toward those you hate, those who have wronged you, your enemies. The Quran explicitly names this and then commands it. 'Be just — that is nearer to taqwa' makes justice the road to Allah, not merely a social obligation.",
+      },
+      {
+        ref: '16:90',
+        arabic: 'إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالْإِحْسَانِ وَإِيتَاءِ ذِي الْقُرْبَىٰ',
+        translation: 'Indeed, Allah commands justice, excellence (ihsan), and giving to relatives.',
+        note: "The trinity of social virtue: justice as the floor, ihsan as the elevation beyond the floor, and giving to relatives as the specific application. Justice is where ethics begins; ihsan is where it reaches its height. They are inseparable.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: "Freedom from bias", arabic: "النزاهة من الهوى", arabicTranslit: "al-nazāha min al-hawā", description: "Justice requires freedom from the distortions of desire, affection, and self-interest. 4:135 names the hardest: even against yourself, your parents, your family. The person whose justice bends for those they love has not yet practiced 'adl." },
+        { number: 2, title: 'Willingness to be a witness', arabic: 'الاستعداد للشهادة', arabicTranslit: 'al-istiʿdād li-l-shahāda', description: "The Quran pairs 'adl with being a witness (shahid) — justice requires standing up and speaking the truth even when it costs you. The silent bystander who sees injustice and says nothing is not practicing 'adl." },
+        { number: 3, title: 'Consistency across groups', arabic: 'الاتساق مع الجميع', arabicTranslit: 'al-ittisāq maʿa al-jamīʿ', description: "5:8 explicitly commands justice even toward enemies, even toward those you hate. The measure of your justice is not how you treat those you love — it is how you treat those you have reason to despise." },
+      ],
+      stations: [
+        { name: "'Adl with Allah", description: "Tawhid is the ultimate 'adl — giving Allah His right station as the only deity, the only ultimate concern. Shirk is the greatest zulm (injustice) because it misplaces the greatest right." },
+        { name: "'Adl with people", description: "The practical dimension: in testimony, in judgment, in financial dealings, in family relations. Every context has its demand of 'adl." },
+        { name: "'Adl with oneself", description: "Not being unjust to yourself — neither over-demanding nor self-indulgent. The person who destroys their health for worldly gain, or who neglects the soul for the body, has committed zulm against themselves." },
+        { name: "'Adl with creation", description: "The Quran's cosmic ethics: justice toward animals, toward the environment, toward future generations. The Quran condemns fasad fil-ard (corruption in the earth) — exploitation of creation is a form of injustice." },
+      ],
+      questions: [
+        { question: "Do I apply the same standard of judgment to people I like and people I dislike? To my group and the other group?", answer: "This is the test of 5:8. The double standard — more lenient with allies, harsher with adversaries — is the most common form of injustice in communities." },
+        { question: "Is there a situation in which I know the just thing to do but am not doing it because it costs me something?", answer: "4:135 addresses this directly. The cost is the measure of the 'adl: the justice that costs nothing is not tested." },
+        { question: "Have I given everyone and everything in my life its due — my family, my work, my body, my Lord?", answer: "Zulm (injustice) is the failure to give things their due. The daily examination of what is owed and whether it has been given is a form of muhasaba." },
+      ],
+    },
+    semanticField: [
+      { slug: 'hikmah',  arabic: 'حِكْمَة',  transliteration: 'Hikmah',  relationship: 'parallels',     relationshipLabel: 'Wisdom alongside justice', description: "'Adl requires hikmah — the wise judgment to know what justice looks like in this particular case. Rules give the framework; hikmah fills in the application." },
+      { slug: 'ihsan',   arabic: 'إِحْسَان',  transliteration: 'Ihsan',   relationship: 'deepens',       relationshipLabel: 'Excellence beyond justice', description: "Ihsan is what comes when justice is satisfied and one still chooses to give more. The relationship of 'adl and ihsan is that of duty and gift — justice is the minimum; ihsan exceeds it." },
+      { slug: 'rahmah',  arabic: 'رَحْمَة',  transliteration: 'Rahmah',  relationship: 'deepens',       relationshipLabel: 'Mercy that tempers justice', description: "Justice without mercy is rigid; mercy without justice is sentimental. The Quran consistently pairs them in the divine attributes. In human ethics, 'adl sets the standard and rahmah looks for every legitimate reason to be lenient within it." },
+      { slug: 'taqwa',   arabic: 'تَقْوَى',  transliteration: 'Taqwa',   relationship: 'deepens',       relationshipLabel: "Justice's foundation", description: "5:8 explicitly connects 'adl to taqwa: 'be just, that is nearer to taqwa.' The person of taqwa has a motive for justice that transcends personal advantage — the consciousness of Allah's watching." },
+    ],
+    scholarsSaid: [
+      { scholar: 'Ibn Taymiyya', text: "The world can survive with justice and disbelief, but it cannot survive with injustice and Islam. This is because justice is the order of all things.", source: "Al-Siyasa al-Shar'iyya" },
+      { scholar: 'Ibn al-Qayyim', text: "Allah has established the world on justice, and when it inclines to oppression (zulm), it begins to collapse. Justice is the balance upon which the heavens and earth stand.", source: "I'lam al-Muwaqqi'in" },
+      { scholar: 'Al-Qurtubi', text: "'Adl is placing each thing in its right place — giving each soul what it deserves, neither adding nor diminishing. This is the definition that encompasses all its meanings.", source: "Al-Jami' li-Ahkam al-Quran" },
+    ],
+    hadith: [
+      { ref: 'Bukhari & Muslim', translation: "The just will be on thrones of light before Allah — those who were just in their rulings, their families, and all that they were placed in charge of.", note: "Justice is not only a civic virtue; it is a spiritual station. The just leader, the just parent, the just judge — all are promised this elevated position. Ordinary life is the arena for 'adl." },
+    ],
+    acrossTransitions: `Justice as a supreme virtue is universal, but the Quran's version has a unique character: it is grounded in the divine nature (Allah is Al-'Adl), it includes cosmic scope (justice toward the self, toward creation, toward Allah), and it is demanded even against self-interest.
+
+In Greek philosophy, dikaiosyne (justice) was Plato's supreme virtue — the health of the soul in which reason governs spirit and appetite. The just person does what is right because their inner order mirrors the order of the cosmos. Aristotle grounded justice in giving each person their due — the same definition as the classical Islamic 'adl.
+
+In the Western liberal tradition, justice is often contractual — based on rights that individuals hold against each other and against the state. John Rawls' "veil of ignorance" thought experiment asks: what principles would you choose if you didn't know your position in society? This is structurally similar to 4:135 — justice requires stepping outside your particular interest.
+
+What is distinctive in the Quranic vision is that justice is not the ceiling but the floor — ihsan (excellence beyond what is required) is the aspiration. You must be just; then you are invited to be excellent. The liberal tradition rarely moves beyond rights and duties; the Quran does.`,
+    relatedTerms: [
+      { slug: 'hikmah', transliteration: 'Hikmah', term: 'حِكْمَة'  },
+      { slug: 'ihsan',  transliteration: 'Ihsan',  term: 'إِحْسَان' },
+      { slug: 'rahmah', transliteration: 'Rahmah', term: 'رَحْمَة'  },
+      { slug: 'taqwa',  transliteration: 'Taqwa',  term: 'تَقْوَى'  },
+    ],
+    goDeeper: [
+      { slug: 'al-nisa',   surahName: "Al-Nisa'",  note: "Contains 4:135 — the most demanding justice command in the Quran. The surah's extensive treatment of family law, inheritance, and social relations makes 'adl the organizing principle of Medinan social ethics." },
+      { slug: 'al-maidah', surahName: "Al-Ma'idah", note: "Contains 5:8 — justice even toward enemies. The surah's focus on covenants, testimony, and legal ethics makes it the fullest treatment of 'adl in practice, including its hardest cases." },
+    ],
+  },
+
+  shirk: {
+    slug: 'shirk',
+    term: 'شِرْك',
+    transliteration: 'Shirk',
+    pronunciation: 'SHIRK',
+    category: 'Theology & Ethics' as GlossaryCategory,
+    evocativeLine: 'The one sin declared unforgivable — placing anything alongside Allah in the heart.',
+    hasFullEntry: true,
+    summary: `Shirk — associating partners with Allah — is the Quran's supreme transgression, the sin explicitly declared unforgivable if unrepented: "Indeed, Allah does not forgive that partners be associated with Him, but He forgives what is less than that for whom He wills" (4:48). To understand why, you must understand what shirk actually is: it is not merely a theological error — it is a misalignment of the entire soul.
+
+Everything the human person is made for — to know Allah, love Him, serve Him, turn to Him — is redirected. The person who commits shirk has given what belongs only to Allah to something else: fear, love, hope, obedience, worship. This is an injustice (zulm) so fundamental that Luqman calls it "the greatest injustice" (31:13) — not because Allah is harmed (He is not), but because the person has harmed themselves at the most essential level.
+
+The scholars divided shirk into two categories: shirk akbar (major shirk) — the open worship of others alongside Allah, which exits one from Islam — and shirk asghar (minor shirk) — acts that partake of the structure of shirk without constituting outright polytheism. The most discussed form of minor shirk is riya' (showing off in worship) — doing an act of worship for human eyes rather than Allah's. The Prophet ﷺ called this "the thing I fear for you most." This internal shirk — the partnership of the ego and the world in what should be pure for Allah — is the spiritual struggle of every believer.`,
+    root: {
+      letters: 'ش–ر–ك',
+      transliteration: 'sh–r–k',
+      meaning: 'To share, to be a partner, to associate',
+      elaboration: "The root sh-r-k means to be a partner, to associate, to have a share alongside another. A sharik is a partner or co-owner. Shirk in theology means giving any being a partnership with Allah in what belongs only to Him: worship, ultimate loyalty, the defining orientation of the heart. The structural problem is the 'alongside' — not that other things exist, but that they are placed beside Allah as if they were in the same category.",
+    },
+    occurrenceCount: 160,
+    occurrenceNote: "The root sh-r-k and its derivatives appear approximately 160 times in the Quran — making it one of the most frequent topics. The frequency reflects the urgency of the message: shirk is the background against which tawhid must be understood, and its refutation is a central concern of the Quranic project.",
+    keyAyahs: [
+      {
+        ref: '4:48',
+        arabic: 'إِنَّ اللَّهَ لَا يَغْفِرُ أَن يُشْرَكَ بِهِ وَيَغْفِرُ مَا دُونَ ذَٰلِكَ لِمَن يَشَاءُ',
+        translation: 'Indeed, Allah does not forgive association with Him, but He forgives what is less than that for whom He wills.',
+        note: "The single most stark declaration about shirk in the Quran. The structure is important: everything else — every sin — is within the scope of divine forgiveness. Shirk alone is the exception, precisely because it attacks the foundation of the relationship between creature and Creator.",
+      },
+      {
+        ref: '31:13',
+        arabic: 'يَا بُنَيَّ لَا تُشْرِكْ بِاللَّهِ ۖ إِنَّ الشِّرْكَ لَظُلْمٌ عَظِيمٌ',
+        translation: 'O my son, do not associate anything with Allah. Indeed, association is a great injustice.',
+        note: "Luqman's first and most urgent teaching to his son. Shirk is called zulm 'azim — the greatest injustice. This reframes shirk as an ethical failure, not just a theological error: you have given the wrong thing the place that belongs to Allah.",
+      },
+      {
+        ref: '39:65',
+        arabic: 'وَلَقَدْ أُوحِيَ إِلَيْكَ وَإِلَى الَّذِينَ مِن قَبْلِكَ لَئِنْ أَشْرَكْتَ لَيَحْبَطَنَّ عَمَلُكَ',
+        translation: 'And it has already been revealed to you and to those before you that if you associate with Allah, your work will surely become worthless.',
+        note: "Even addressed to the Prophet ﷺ — the conditional is hypothetical — to show there are no exceptions. And the consequence: habat (the nullification of deeds). Shirk does not merely add a sin; it empties the account entirely.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: 'Understanding tawhid first', arabic: 'فهم التوحيد أولاً', arabicTranslit: 'fahm al-tawḥīd awwalan', description: "You cannot recognize shirk without understanding tawhid. The scholars taught that Ibrahim ﷺ was so careful in his tawhid that every attachment — even to his son, even to his own life — was tested and released. Tawhid defines the standard; shirk is any deviation from it." },
+        { number: 2, title: 'Vigilance about hidden shirk', arabic: 'اليقظة من الشرك الخفي', arabicTranslit: "al-yaqẓa min al-shirk al-khafiyy", description: "The Prophet ﷺ said 'the thing I fear for you most is minor shirk.' Riya' (showing off), 'ujb (self-admiration), ta'liq (attachment to omens) — these are the shirk of the subtle heart. Regular muhasaba is the guard against them." },
+        { number: 3, title: 'Regular renewal of intention', arabic: 'تجديد النية', arabicTranslit: 'tajdīd al-niyya', description: "Because minor shirk enters through the intention, the renewal of intention (for Allah alone, not for praise, not for status) before each act of worship is the prophylactic. The sincere heart is the best defense." },
+      ],
+      stations: [
+        { name: 'Major shirk (akbar)', description: "The open worship of other than Allah — idols, stars, leaders, anything given divine status. This exits a person from the fold of Islam and, if maintained until death, is unforgivable. This is the shirk the Quran most directly addresses historically." },
+        { name: 'Minor shirk (asghar)', description: "Acts that partake of shirk's structure without constituting it fully: riya' (showing off), swearing by other than Allah, using amulets with the belief they ward off harm by themselves. These are grave sins but do not exit from Islam." },
+        { name: 'Hidden shirk (khafi)', description: "The subtlest form: the heart's orientation toward other than Allah in its deepest desires, fears, and loves. The person who fears poverty more than Allah, who desires praise more than divine approval, whose decisions are made by what people will think — this is the spiritual struggle every believer faces." },
+      ],
+      questions: [
+        { question: "What do I turn to first when I am afraid or in need? Is it Allah — or something else?", answer: "The reflex reveals the heart's actual orientation. The shirk of the heart is not always conscious; it shows in where we instinctively turn." },
+        { question: "When I perform acts of worship, am I aware of being seen by people? Does that affect how I perform them?", answer: "This is the territory of riya'. The question is not whether others can see — they can — but whether their seeing changes the act. The act done the same in public and private, for Allah alone, is free of this form." },
+        { question: "Is there anything in my life — a relationship, a status, a possession — that I could not release if Allah required it?", answer: "This is the question Ibrahim ﷺ was asked with his son. The attachment that cannot be released has become a form of shirk, even without worship. Tawhid requires that everything is held loosely, held for Allah." },
+      ],
+    },
+    semanticField: [
+      { slug: 'tawhid',  arabic: 'تَوْحِيد', transliteration: 'Tawhid',  relationship: 'parallels',     relationshipLabel: "Shirk's opposite", description: "Tawhid and shirk are the poles between which every human soul positions itself. Every act of genuine tawhid is a movement away from shirk; every compromise of tawhid is a movement toward it." },
+      { slug: 'kufr',    arabic: 'كُفْر',   transliteration: 'Kufr',    relationship: 'parallels',     relationshipLabel: 'Related but distinct', description: "Shirk is a form of kufr — the disbeliever in tawhid is committing shirk. But not all kufr is shirk: one can deny the prophethood of Muhammad ﷺ without placing anything beside Allah. Shirk is the specific failure of tawhid." },
+      { slug: 'ikhlas',  arabic: 'إِخْلَاص', transliteration: 'Ikhlas', relationship: 'parallels',     relationshipLabel: "The cure for minor shirk", description: "Ikhlas (sincerity) is the positive formulation of freedom from shirk. The mukhlisun are those who have purified their worship for Allah alone. Ikhlas is what remains when shirk is removed." },
+      { slug: 'nifaq',   arabic: 'نِفَاق',  transliteration: 'Nifaq',   relationship: 'parallels',     relationshipLabel: 'Shirk of the exterior', description: "Nifaq (hypocrisy) and shirk overlap when the public display of worship conceals a heart directed elsewhere. The munafiq and the person of riya' share the structural failure: the exterior says Allah; the interior says other-than-Allah." },
+    ],
+    scholarsSaid: [
+      { scholar: 'Ibn al-Qayyim', text: "The heart's health, purity, perfection, and joy are only possible through its total dedication to Allah — through its love, fear, hope, and action being for Allah alone. Every deviation from this is shirk in the heart, even if the tongue says tawhid.", source: "Al-Fawa'id" },
+      { scholar: 'Ibn Taymiyya', text: "The foundation of Islam is the worship of Allah alone with no partner — and the abandonment of the worship of anything other than Him. Whoever fulfills this has completed the demands of la ilaha illa Allah.", source: "Majmu' al-Fatawa" },
+      { scholar: 'Al-Hasan al-Basri', text: "Three things ruin good deeds: having good deeds praised while being pleased at that praise; mentioning one's own good deeds; and being grateful to Allah for them outwardly while being secretly pleased with oneself for them.", source: "Reported in various collections — the subtle forms of shirk" },
+    ],
+    hadith: [
+      { ref: 'Ahmad', translation: "The thing I fear for you most is minor shirk.' They said: 'What is minor shirk, O Messenger of Allah?' He said: 'Riya' (showing off). Allah will say on the Day of Resurrection, when people are being given their recompense: 'Go to those for whom you were performing in the world and see if you find with them any reward.'", note: "This hadith locates the most dangerous shirk not in idol worship but in the heart's orientation toward human praise. The reward sought from humans will be sought from humans on the Day of Judgment — and Allah will have nothing to give." },
+    ],
+    acrossTransitions: `The concept of idolatry — giving divine status to what is not divine — is condemned across the Abrahamic traditions. In Jewish theology, the prohibition of avodah zarah (foreign worship/idolatry) is one of the most serious in the Torah, including the detailed prohibition of images in the Ten Commandments. The Talmudic discussion of idolatry as equivalent to violating the entire Torah parallels the Quranic treatment of shirk as the foundational violation.
+
+In Christian theology, idolatry is condemned in both Testaments and was a central concern of the Reformation (Protestant rejection of veneration of saints and images). Augustine's concept of disordered love — loving finite things as if they were infinite — is structurally identical to shirk asghar: the misplacement of ultimate love and dependence.
+
+What the Quran adds to the general prohibition of idolatry is the concept of the subtle, internal shirk — riya', 'ujb, the heart's dependence on human approval. Most religious traditions address visible idolatry; the Quran addresses the invisible forms with equal urgency. The battle against shirk is lifelong and internal.`,
+    relatedTerms: [
+      { slug: 'tawhid', transliteration: 'Tawhid', term: 'تَوْحِيد' },
+      { slug: 'ikhlas', transliteration: 'Ikhlas', term: 'إِخْلَاص' },
+      { slug: 'kufr',   transliteration: 'Kufr',   term: 'كُفْر'    },
+      { slug: 'nifaq',  transliteration: 'Nifaq',  term: 'نِفَاق'   },
+    ],
+    goDeeper: [
+      { slug: 'luqman',   surahName: 'Luqman',   note: "Contains 31:13 — the greatest injustice is shirk. Luqman's wisdom begins here — before all other moral instruction, the foundation must be right. The surah structures parental guidance as it should be structured: tawhid first, everything else from that foundation." },
+      { slug: 'al-zumar', surahName: 'Al-Zumar', note: "Contains 39:65 — shirk nullifies all deeds, addressed even to the Prophet ﷺ. The surah opens with the command to worship Allah with khalisan (pure religion — ikhlas). The opposite of ikhlas is shirk, and Al-Zumar is the surah that most clearly articulates this opposition." },
+    ],
+  },
+
+  kufr: {
+    slug: 'kufr',
+    term: 'كُفْر',
+    transliteration: 'Kufr',
+    pronunciation: 'KUFR',
+    category: 'Theology & Ethics' as GlossaryCategory,
+    evocativeLine: 'Disbelief and ingratitude — the covering over of what the heart already knows.',
+    hasFullEntry: true,
+    summary: `Kufr is the most misunderstood term in Islamic discourse. Translated as "disbelief" or "unbelief," it is often treated as the simple absence of religious conviction — but the Arabic root reveals something more complex. The root k-f-r means to cover, to conceal, to bury. The kafir is not necessarily someone who has never heard the truth; the Quran's most charged usage of kufr is for those who know and cover — who have seen the signs, felt the fitrah (innate knowledge), and chosen to bury it.
+
+This is why kufr is paired with ingratitude (both are rendered by the same word): the kafir in the sense of the ungrateful person has received gifts and concealed them, refuses to acknowledge the Giver. The farmer who covers seeds in the earth is a kafir in the agricultural sense — burying potential. The theological kafir covers the acknowledgment that the evidence demands. Both are acts of concealment.
+
+The Quran uses kufr in a spectrum of meanings: the unbeliever who openly rejects, the ingrate who refuses to acknowledge divine gifts, the person who covers their fitrah with heedlessness, and the believer who commits kufr in a minor sense by ingratitude or rejection of a divine command. The range matters: kufr is not a binary on/off state but a disposition of concealment that operates in degrees.`,
+    root: {
+      letters: 'ك–ف–ر',
+      transliteration: 'k–f–r',
+      meaning: 'To cover, conceal, bury; to be ungrateful; to disbelieve',
+      elaboration: "The root k-f-r has remarkable semantic breadth: the farmer is called kafir (one who buries seeds in the earth) in 57:20; the cloud is kafir (one that covers the sky); the person who is ungrateful is kafir (one who covers divine gifts with neglect); and the theological disbeliever is kafir (one who covers the truth they have been shown). All share the act of covering — preventing what exists from being seen or acknowledged.",
+    },
+    occurrenceCount: 525,
+    occurrenceNote: "The root k-f-r and its derivatives appear approximately 525 times in the Quran — making it one of the most frequent roots in the entire text. The frequency reflects not only the importance of the concept but the Quran's constant engagement with those who reject: arguing, inviting, warning, explaining.",
+    keyAyahs: [
+      {
+        ref: '2:6-7',
+        arabic: 'إِنَّ الَّذِينَ كَفَرُوا سَوَاءٌ عَلَيْهِمْ أَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ ۝ خَتَمَ اللَّهُ عَلَىٰ قُلُوبِهِمْ',
+        translation: 'Indeed, those who disbelieve — it is all the same whether you warn them or do not warn them — they will not believe. Allah has sealed their hearts.',
+        note: "Coming in the second surah, right after the description of the believers and the hypocrites, this verse describes the third type: those whose kufr has hardened into a permanent disposition. The sealing of the heart is not arbitrary punishment but the inevitable consequence of repeated choice to cover.",
+      },
+      {
+        ref: '14:7',
+        arabic: 'لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ ۖ وَلَئِن كَفَرْتُمْ إِنَّ عَذَابِي لَشَدِيدٌ',
+        translation: 'If you are grateful, I will certainly increase you in favor. But if you are ungrateful (kafar), indeed My punishment is severe.',
+        note: "Here kufr is explicitly translated as ingratitude. The contrast is shukr/kufr — gratitude and its opposite. This verse shows that kufr operates in the realm of everyday response to divine blessing, not only in formal creedal rejection.",
+      },
+      {
+        ref: '57:20',
+        arabic: 'كَمَثَلِ غَيْثٍ أَعْجَبَ الْكُفَّارَ نَبَاتُهُ',
+        translation: '...like a rain whose resulting plant growth delights the farmers (kuffar).',
+        note: "Here kuffar unmistakably means farmers — those who bury seeds. This agricultural usage reveals the root meaning: covering, burying, concealing. The theological kufr participates in the same act: burying what should be brought to light.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: 'Recognizing the spectrum of kufr', arabic: 'معرفة درجات الكفر', arabicTranslit: 'maʿrifat darajāt al-kufr', description: "Kufr is not binary. The major kufr exits from Islam; the kufr of ingratitude is a disposition every believer must guard against; the minor forms (denying the favor, refusing gratitude) are spiritual diseases requiring treatment, not excommunication." },
+        { number: 2, title: 'Cultivating shukr as the antidote', arabic: 'تنمية الشكر', arabicTranslit: 'tanmiyat al-shukr', description: "Shukr (gratitude) is the direct opposite of kufr in the ingratitude sense. The believer who actively names, acknowledges, and responds to divine gifts is moving away from kufr and toward iman." },
+        { number: 3, title: 'Attending to the fitrah', arabic: 'الانتباه إلى الفطرة', arabicTranslit: 'al-intibāh ilā al-fiṭra', description: "The fitrah (innate disposition toward truth) is the opposite of kufr: it is the uncovered, natural acknowledgment of the divine. Kufr covers the fitrah; iman uncovers it. The spiritual life is the project of clearing what covers the fitrah." },
+      ],
+      stations: [
+        { name: 'Kufr of outright rejection', description: "Knowing the truth and explicitly refusing it. This is the kufr the Quran most directly addresses with the people of Makkah — those who heard the Prophet ﷺ and said 'no.'" },
+        { name: 'Kufr of arrogance (kibr)', description: "Refusing truth because acceptance would require humbling oneself. Iblis is the archetype: he knew, and refused because he considered himself superior. This is kufr as ego defense." },
+        { name: 'Kufr of heedlessness (ghafla)', description: "Not active rejection but the gradual covering of truth through distraction, busyness, and neglect. The heart does not say 'no' — it simply never says 'yes.' This is the most common form in comfortable societies." },
+        { name: 'Kufr of ingratitude', description: "Receiving gifts and concealing them from acknowledgment — not thanking, not recognizing the Giver. This operates even within the heart of a formal Muslim if gratitude is absent." },
+      ],
+      questions: [
+        { question: "In my daily life, am I acknowledging the source of what I have, or am I covering it with the attribution 'my effort' and 'my luck'?", answer: "This is kufr al-ni'ma — covering the gift by not attributing it to the Giver. Shukr is its antidote: naming what you have and naming from Whom it came." },
+        { question: "Is there a truth I know but am covering because accepting it would require something of me I am not ready to give?", answer: "This is the internal kufr that believers must monitor. The covered truth becomes the obstruction. Facing it honestly is a form of iman." },
+        { question: "Am I treating my fitrah — my innate knowledge of what is right and true — as an asset to develop or a disturbance to suppress?", answer: "The fitrah speaks; kufr is the choice to muffle it. Iman is the choice to listen." },
+      ],
+    },
+    semanticField: [
+      { slug: 'iman',    arabic: 'إِيمَان',  transliteration: 'Iman',    relationship: 'parallels',     relationshipLabel: "Kufr's opposite", description: "Iman (belief) and kufr (covering/disbelief) are the Quran's fundamental poles. Every human being is positioned somewhere between them. Iman uncovers; kufr covers. The movement of the spiritual life is from kufr toward iman." },
+      { slug: 'shirk',   arabic: 'شِرْك',   transliteration: 'Shirk',   relationship: 'parallels',     relationshipLabel: 'Kufr of tawhid', description: "Shirk is the specific form of kufr that covers tawhid — replacing the acknowledgment of one God with the association of others. All shirk is kufr; not all kufr is shirk." },
+      { slug: 'shukr',   arabic: 'شُكْر',   transliteration: 'Shukr',   relationship: 'parallels',     relationshipLabel: 'The antidote', description: "The Quran pairs shukr and kufr (14:7) as the two responses to divine gift. Shukr acknowledges, uncovers, returns gratitude; kufr conceals, ignores, denies. Every gift demands a response — shukr or kufr." },
+      { slug: 'fitrah',  arabic: 'فِطْرَة', transliteration: 'Fitrah',  relationship: 'parallels',     relationshipLabel: "What kufr covers", description: "The fitrah is the innate, uncovered disposition toward truth and tawhid. Kufr is the covering of the fitrah — through conditioning, through arrogance, through heedlessness. Iman is the return to what the fitrah already knew." },
+    ],
+    scholarsSaid: [
+      { scholar: 'Ibn al-Qayyim', text: "Kufr is ingratitude for the bounty of knowledge, and ingratitude for the bounty of iman, and ingratitude for the bounty of creation — covering all that Allah has given with the covering of denial and refusal.", source: "Madarij al-Salikin" },
+      { scholar: 'Al-Raghib al-Asfahani', text: "The origin of kufr is covering — the kafir is the one who covers the truth after knowing it, or covers the gift after receiving it.", source: "Al-Mufradat fi Gharib al-Quran" },
+      { scholar: 'Fakhr al-Din al-Razi', text: "Know that kufr is the opposite of iman. Iman is the heart's acknowledgment of what the Messenger brought. Kufr is the heart's refusal of it. But between clear kufr and clear iman there are many stations.", source: "Mafatih al-Ghayb" },
+    ],
+    hadith: [
+      { ref: 'Muslim', translation: "Two things among people are disbelief (kufr): reviling one's lineage and wailing over the dead.", note: "This hadith shows kufr used for specific behaviors that partake of kufr's quality — they represent a covering of the truth about human dignity and divine sovereignty — without exiting from Islam. This is the spectrum: kufr in behavior, not in creed." },
+    ],
+    acrossTransitions: `The concept of a fundamental human capacity to either acknowledge or deny truth — and the moral weight of that choice — is present across traditions. In Greek philosophy, anagnorisis (recognition) is the dramatic moment of acknowledgment; its absence is hamartia (the fatal flaw). Socrates believed no one chooses evil knowingly — ignorance is the root of all wrongdoing. The Quran disagrees: kufr is often chosen with knowledge.
+
+In existentialist thought, bad faith (mauvaise foi) in Sartre is the refusal to acknowledge one's own freedom and responsibility — choosing to act as if one were determined when one is actually free. This is structurally similar to kufr as self-concealment: the person who has been given capacity, fitrah, and signs chooses not to see them.
+
+In Jewish thought, cheit (sin) literally means "to miss the mark." The person who sins is not evil but mistaken — hitting the wrong target. Islamic kufr is closer to the willful covering: not missing the mark by accident but choosing to look away from it.`,
+    relatedTerms: [
+      { slug: 'iman',   transliteration: 'Iman',   term: 'إِيمَان'  },
+      { slug: 'shirk',  transliteration: 'Shirk',  term: 'شِرْك'   },
+      { slug: 'shukr',  transliteration: 'Shukr',  term: 'شُكْر'   },
+      { slug: 'fitrah', transliteration: 'Fitrah', term: 'فِطْرَة' },
+    ],
+    goDeeper: [
+      { slug: 'al-baqarah', surahName: 'Al-Baqarah', note: "Opens with a typology of three groups — believers (2:2-5), disbelievers (2:6-7), and hypocrites (2:8-20). The kufr described in 2:6-7 is the hardened form — not the initial rejection but the kufr that has become a settled disposition after repeated choice." },
+      { slug: 'ibrahim',    surahName: 'Ibrahim',    note: "Contains 14:7 — the shukr/kufr pairing as the two responses to divine blessing. The surah's theme of gratitude and ingratitude toward divine guidance makes it the fullest exploration of kufr in the ingratitude register." },
+    ],
+  },
+
+  nifaq: {
+    slug: 'nifaq',
+    term: 'نِفَاق',
+    transliteration: 'Nifaq',
+    pronunciation: 'ni-FAAQ',
+    category: 'Theology & Ethics' as GlossaryCategory,
+    evocativeLine: 'Hypocrisy — the gap between what is shown and what is held, wider than disbelief.',
+    hasFullEntry: true,
+    summary: `Nifaq — hypocrisy — is one of the most extensively treated subjects in the Quran. An entire surah (Al-Munafiqun) is devoted to it, and the munafiqun (hypocrites) are described in more psychological detail than almost any other group. What makes nifaq so dangerous, and why the Quran treats it with such urgency, is that it corrupts from within: the munafiq is neither an external enemy (whose approach can be seen) nor an honest disbeliever (whose position is known) but a third thing — someone who performs faith while harboring its opposite.
+
+The Prophet ﷺ identified four signs of the munafiq: lying when speaking, breaking promises, betraying trust, and transgressing when in dispute. These are not theological positions but behavioral patterns — the gap between the presented self and the actual self, expressed in conduct. Nifaq is thus first a character disorder before it is a creedal one: the fragmentation of the person into a public face and a hidden reality.
+
+The Quran places the munafiqun in the lowest depths of hellfire (4:145) — below the open disbelievers — because hypocrisy is a deeper betrayal. The kafir has refused the truth; the munafiq has claimed it while living its opposite. The damage done to the community, the trust violated, the deception maintained — these compound the basic rejection into something more corrosive.`,
+    root: {
+      letters: 'ن–ف–ق',
+      transliteration: 'n–f–q',
+      meaning: 'A tunnel, underground passage; to spend; to run out (of provisions)',
+      elaboration: "The root n-f-q has an evocative range: nafaq is an underground tunnel (with two openings — one visible, one hidden); infaq is spending/giving; nafaqa is provision for a family. The hypocrisy sense comes from the tunnel image: the munafiq has two openings — one that faces believers, showing faith; and one that faces disbelievers, showing what is really there. The double-opening is the structural definition of hypocrisy.",
+    },
+    occurrenceCount: 37,
+    occurrenceNote: "The root n-f-q in the hypocrisy sense appears approximately 37 times in the Quran, with the munafiqun featuring extensively in Medinan surahs — particularly Al-Baqarah, Al-Nisa', Al-Tawbah, and Al-Munafiqun. The extensive treatment reflects the historical reality of the Medinan community and its ongoing challenge.",
+    keyAyahs: [
+      {
+        ref: '2:8-9',
+        arabic: 'وَمِنَ النَّاسِ مَن يَقُولُ آمَنَّا بِاللَّهِ وَبِالْيَوْمِ الْآخِرِ وَمَا هُم بِمُؤْمِنِينَ ۝ يُخَادِعُونَ اللَّهَ وَالَّذِينَ آمَنُوا وَمَا يَخْدَعُونَ إِلَّا أَنفُسَهُمْ',
+        translation: "And of the people are some who say, 'We believe in Allah and the Last Day,' but they are not believers. They [think they] deceive Allah and those who believe, but they deceive not except themselves.",
+        note: "The opening portrait of nifaq in the Quran. The irony is precise: they try to deceive Allah (who cannot be deceived) and the believers — and succeed only in deceiving themselves. Nifaq is ultimately self-deception.",
+      },
+      {
+        ref: '4:145',
+        arabic: 'إِنَّ الْمُنَافِقِينَ فِي الدَّرْكِ الْأَسْفَلِ مِنَ النَّارِ',
+        translation: 'Indeed, the hypocrites will be in the lowest depths of the Fire.',
+        note: "The most stark statement about nifaq's gravity. Darek al-asfal — the lowest depth — is below the disbelievers. This reflects the extra betrayal of nifaq: it violates trust while claiming to honor it.",
+      },
+      {
+        ref: '9:77',
+        arabic: 'فَأَعْقَبَهُمْ نِفَاقًا فِي قُلُوبِهِمْ إِلَىٰ يَوْمِ يَلْقَوْنَهُ بِمَا أَخْلَفُوا اللَّهَ مَا وَعَدُوهُ وَبِمَا كَانُوا يَكْذِبُونَ',
+        translation: 'So He penalized them with hypocrisy in their hearts until the Day they will meet Him — because they broke their promise to Allah and because they used to lie.',
+        note: "Nifaq described as a consequence — not just a choice but what the heart becomes when broken promises and lies are repeated. The hypocrisy that hardened is the result of accumulated betrayal of one's own stated commitments.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: 'Examining the gap between public and private', arabic: 'مراجعة الفجوة بين العلن والسر', arabicTranslit: "murājaʿat al-fajwa bayna al-ʿaln wa-l-sirr", description: "Nifaq is defined by the gap. The muhasaba that compares your private and public self is the primary diagnostic. Every believer has some gap — the aspiration is to reduce it, not pretend it does not exist." },
+        { number: 2, title: 'Taking promises and covenants seriously', arabic: 'الجدية في الوعود والعهود', arabicTranslit: "al-jiddiyya fi-l-wuʿūd wa-l-ʿuhūd", description: "The Prophet ﷺ named promise-breaking as a sign of nifaq. The person who habitually says what they do not mean and does not do what they say is building the habits of the munafiq in character even without the theological dimension." },
+        { number: 3, title: 'Vigilance about riya', arabic: 'اليقظة من الرياء', arabicTranslit: "al-yaqẓa min al-riyāʾ", description: "Riya' (showing off in worship) is the entry point of nifaq into the believer's heart. The act done for human eyes partakes of nifaq's structure: the shown and the hidden are different." },
+      ],
+      stations: [
+        { name: 'Nifaq in belief (akbar)', description: "The munafiqun of Madinah: claiming faith while privately disbelieving. This is the major nifaq that exits from Islam and places one in the lowest depths of the fire." },
+        { name: 'Nifaq in conduct (asghar)', description: "The Prophet ﷺ named four behavioral signs: lying, breaking promises, betraying trust, transgressing in disputes. These do not exit from Islam but corrode the character toward the structure of hypocrisy." },
+        { name: 'Nifaq in worship (riya)', description: "The subtle form every believer must guard against: the prayer performed differently when others are watching; the sadaqa mentioned; the fast advertised. This is the hidden tunnel of nifaq opening into worship." },
+      ],
+      questions: [
+        { question: "Are there things I say in one company that I would not say in another? What does that gap reveal?", answer: "Some social adjustment is wisdom; hypocrisy is the systematic performance of a self you do not hold. The question is whether the adjustment is situational (appropriate) or fundamental (dishonest)." },
+        { question: "When I make commitments — to Allah, to people, to myself — do I follow through? What is my pattern?", answer: "The Prophet ﷺ named promise-breaking as a sign of nifaq. Not because one failure is definitive, but because habitual non-completion reveals a gap between intention and integrity." },
+        { question: "Does my worship change when I know I am being observed? What does that reveal?", answer: "The test of riya' is this precisely. Muhasaba asks: if I were alone, completely unseen, would I pray the same way, give the same amount, fast with the same intention? The gap is the territory of riya'." },
+      ],
+    },
+    semanticField: [
+      { slug: 'ikhlas',  arabic: 'إِخْلَاص', transliteration: 'Ikhlas', relationship: 'parallels',     relationshipLabel: "Nifaq's opposite", description: "Ikhlas (sincerity) and nifaq are the poles of the inner life: ikhlas is having one opening, one face, one orientation — for Allah alone. Nifaq is having two. Every advance in ikhlas is a retreat from nifaq." },
+      { slug: 'sidq',    arabic: 'صِدْق',   transliteration: 'Sidq',   relationship: 'parallels',     relationshipLabel: 'The cure for nifaq', description: "Sidq (truthfulness, integrity) is the direct antidote to nifaq. The sadiq means what they say, does what they commit to, and is the same in public and private. Nifaq is the failure of sidq at the deepest level." },
+      { slug: 'kufr',    arabic: 'كُفْر',   transliteration: 'Kufr',   relationship: 'parallels',     relationshipLabel: 'Worse than kufr', description: "The Quran places the munafiqun below the disbelievers in punishment. Kufr is the open rejection of truth; nifaq is its concealment while claiming the opposite. The deception adds to the disbelief." },
+      { slug: 'taqwa',   arabic: 'تَقْوَى', transliteration: 'Taqwa',  relationship: 'parallels',     relationshipLabel: "Taqwa's incompatibility with nifaq", description: "Taqwa is the consciousness of Allah that makes one behave the same in public and private (because Allah sees both). It is structurally incompatible with nifaq: the person who truly knows Allah is watching cannot maintain two faces." },
+    ],
+    scholarsSaid: [
+      { scholar: 'Ibn al-Qayyim', text: "Nifaq is of two types: that which concerns belief (nifaq al-i'tiqad) — which is the major hypocrisy that exits from Islam — and that which concerns conduct (nifaq al-'amal) — the four signs the Prophet ﷺ named. The second type is a disease that every believer must diagnose and treat in themselves.", source: "Madarij al-Salikin" },
+      { scholar: 'Al-Hasan al-Basri', text: "None feared hypocrisy except a believer, and none felt safe from it except a hypocrite.", source: "Reported in various collections — the companions feared nifaq more than any other spiritual disease" },
+      { scholar: "Ibn Mas'ud", text: "The companions of the Prophet ﷺ — they knew that none feared hypocrisy for himself except a believer, and none felt safe from it except a munafiq.", source: "Reported by al-Bukhari in Al-Iman" },
+    ],
+    hadith: [
+      { ref: 'Bukhari & Muslim', translation: "Four characteristics — whoever has them all is a complete hypocrite. Whoever has one of them has one characteristic of hypocrisy until he abandons it: when he speaks, he lies; when he makes a promise, he breaks it; when he enters into an agreement, he betrays it; and when he disputes, he transgresses.", note: "This is the most important prophetic description of nifaq. It is entirely behavioral — no reference to creed, only to character. This is the warning for believers: nifaq can develop in the conduct even when the creed is intact." },
+    ],
+    acrossTransitions: `Hypocrisy as a moral failure — the gap between professed values and lived conduct — is condemned universally. Jesus's most intense denunciations were directed not at sinners but at hypocrites: "Woe to you, scribes and Pharisees, hypocrites!" (Matthew 23). The Greek word hypokrites originally meant "actor" — one who plays a role. The moral condemnation comes from treating religious life as performance.
+
+In Confucian thought, the junzi (exemplary person) was characterized precisely by the unity of word and deed — saying what they mean and doing what they say. The small person (xiao ren) says one thing and does another. This is the Confucian parallel to nifaq and sidq.
+
+In Stoic ethics, the consistent person (the sage) acts from their values in all circumstances — there is no "public" versus "private" version of the Stoic sage. Inconsistency of character is a sign of weakness and moral failure.
+
+What is distinctive in the Islamic treatment of nifaq is its interior diagnosis: the munafiq does not just act hypocritically but has become hypocritical — the inner structure has changed. This is why the Quran describes the sealing of the hypocrite's heart (2:7) and the progression of nifaq from choice to disposition (9:77). The Islamic concern is not just behavioral compliance but the integrity of the inner person.`,
+    relatedTerms: [
+      { slug: 'ikhlas', transliteration: 'Ikhlas', term: 'إِخْلَاص' },
+      { slug: 'sidq',   transliteration: 'Sidq',   term: 'صِدْق'    },
+      { slug: 'kufr',   transliteration: 'Kufr',   term: 'كُفْر'    },
+      { slug: 'taqwa',  transliteration: 'Taqwa',  term: 'تَقْوَى'  },
+    ],
+    goDeeper: [
+      { slug: 'al-baqarah',  surahName: 'Al-Baqarah', note: "Contains the most extensive early portrait of the munafiqun (2:8-20), including the famous lamp parable (2:17) — they are people who lit a fire and when it illuminated them, Allah took away their light. The surah establishes the tripartite typology that the rest of the Quran develops." },
+      { slug: 'al-munafiqun', surahName: 'Al-Munafiqun', note: "The surah dedicated entirely to nifaq — its psychology, its patterns, its warnings. 63:1-4 provides the most condensed portrait: they testify outwardly but Allah testifies that they are liars. Their forms are pleasing; their interiors are hollow." },
     ],
   },
 }
