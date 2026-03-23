@@ -163,9 +163,9 @@ export const GLOSSARY_TERMS: GlossaryMeta[] = [
   { slug: 'al-arsh',         term: 'ٱلْعَرْش',        transliteration: 'Al-Arsh',         category: 'The Unseen', evocativeLine: "The Throne above all creation — the symbol of Allah's absolute sovereignty.",          hasFullEntry: true },
   { slug: 'al-kursi',        term: 'ٱلْكُرْسِيّ',     transliteration: 'Al-Kursi',        category: 'The Unseen', evocativeLine: 'His seat encompasses the heavens and the earth — and guarding them tires Him not.',    hasFullEntry: true },
   { slug: 'al-lawh',         term: 'ٱللَّوْح ٱلْمَحْفُوظ', transliteration: 'Al-Lawh al-Mahfuz', category: 'The Unseen', evocativeLine: 'The Preserved Tablet — where all of existence was written before time began.', hasFullEntry: true },
-  { slug: 'sirat',           term: 'صِرَاط',          transliteration: 'Al-Sirat',        category: 'The Unseen', evocativeLine: 'The bridge over the fire — crossed by every soul on the Day of Judgment.',             hasFullEntry: false },
-  { slug: 'qiyamah',         term: 'قِيَامَة',        transliteration: 'Al-Qiyamah',      category: 'The Unseen', evocativeLine: 'The Standing — the Day when all of history arrives at its conclusion.',                hasFullEntry: false },
-  { slug: 'hisab',           term: 'حِسَاب',          transliteration: 'Al-Hisab',        category: 'The Unseen', evocativeLine: 'The reckoning — when every moment of every life is laid completely open.',             hasFullEntry: false },
+  { slug: 'sirat',           term: 'صِرَاط',          transliteration: 'Al-Sirat',        category: 'The Unseen', evocativeLine: 'The bridge over the fire — crossed by every soul on the Day of Judgment.',             hasFullEntry: true },
+  { slug: 'qiyamah',         term: 'قِيَامَة',        transliteration: 'Al-Qiyamah',      category: 'The Unseen', evocativeLine: 'The Standing — the Day when all of history arrives at its conclusion.',                hasFullEntry: true },
+  { slug: 'hisab',           term: 'حِسَاب',          transliteration: 'Al-Hisab',        category: 'The Unseen', evocativeLine: 'The reckoning — when every moment of every life is laid completely open.',             hasFullEntry: true },
 
   // ── Quranic Characters ───────────────────────────────────────────────────────
   { slug: 'maryam',       term: 'مَرْيَم',           transliteration: 'Maryam',        category: 'Quranic Characters', evocativeLine: 'The only woman named by name in the Quran — and her own surah.',              hasFullEntry: true  },
@@ -8984,6 +8984,264 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
     relatedTerms: [
       { slug: 'qadar',   transliteration: 'Qadar',   term: 'قَدَر'    },
       { slug: 'al-arsh', transliteration: 'Al-Arsh', term: 'ٱلْعَرْش' },
+    ],
+    hasFullEntry: true,
+  },
+
+  'sirat': {
+    slug: 'sirat',
+    term: 'صِرَاط',
+    transliteration: 'Al-Ṣirāṭ',
+    pronunciation: "as-si-RAHT",
+    category: 'The Unseen',
+    evocativeLine: 'The bridge stretched over the Fire — thinner than a hair, sharper than a sword, crossed by every soul.',
+    summary: "Al-Sirat refers to two distinct but deeply related realities in Islamic discourse. In the Quran, al-sirat al-mustaqim — the straight path — is the most repeated petition in Islamic worship, invoked in every rak'ah of every prayer in Surah Al-Fatihah: 'Guide us to the straight path.' This is the path of divine guidance in this life, the path of those whom Allah has blessed, distinct from those who went astray. In the prophetic tradition (sunnah and hadith), al-Sirat also names the eschatological bridge stretched over the fire of Hell on the Day of Judgment, which every soul must cross to reach Paradise.\n\nThe two meanings are not merely homonymous — they are theologically continuous. The sirat walked in this world (the straight path of guidance, worship, and righteous action) determines the speed and ease with which one crosses the sirat on the Last Day. Those who walked the straight path firmly in this life cross the bridge swiftly; those who strayed stumble and fall. The path of this world and the bridge of the next are one continuous road.\n\nThe descriptions of the eschatological sirat in hadith are among the most vivid in the prophetic tradition: it is described as thinner than a hair and sharper than a sword, stretched over Jahannam (Hell). The believers cross it according to the quality of their deeds — some like lightning, some like wind, some like fast horses, some running, some walking, some crawling. Some fall into the fire. The last to cross are those whose faith carried them, however slowly.",
+    root: {
+      letters: 'ص ر ط',
+      transliteration: 's-r-t',
+      meaning: 'path, road, way; to swallow (metaphorically related)',
+      elaboration: "The root s-r-t gives sirat (path, road) — the same root that gives some other words for consuming or swallowing. The connection between a path and swallowing may relate to the image of a road that 'takes in' the traveler. The Quran consistently uses sirat alongside synonyms: tariq (road), sabil (way), minhaj (clear path) — but sirat is the most exalted of these, reserved for the divine path.",
+    },
+    rootForms: [
+      { arabic: 'صِرَاط', transliteration: 'ṣirāṭ', type: 'Noun', meaning: 'Path, road, way', approxCount: 45, verified: false },
+      { arabic: 'الصِّرَاط الْمُسْتَقِيم', transliteration: 'al-ṣirāṭ al-mustaqīm', type: 'Phrase', meaning: 'The straight path', approxCount: 31, verified: false },
+    ],
+    occurrenceCount: 45,
+    occurrenceNote: "Sirat appears approximately 45 times in the Quran. The phrase 'al-sirat al-mustaqim' (the straight path) appears 31 times, making it one of the most repeated phrases in the Book. It appears in the very first surah (Al-Fatihah, 1:6 — the most recited verse in Islamic worship) and throughout the Quran as the destination of prophets, the righteous, and those whom Allah guides.",
+    keyAyahs: [
+      {
+        ref: "Al-Fatihah 1:6-7",
+        arabic: "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
+        translation: "Guide us to the straight path — the path of those upon whom You have bestowed favor, not those who have evoked anger nor those who are astray.",
+        note: "The petition of every Muslim in every prayer. The Quran defines the sirat al-mustaqim not in abstract terms but in relational ones: it is the path of those whom Allah has blessed (the prophets, the truthful, the martyrs, the righteous — as identified in 4:69). The negative definitions (not the angered, not the astray) are just as important: the path is known partly by what it avoids. This dual-definition — follow the rightly guided, avoid the errors of those who rejected guidance or departed from it — is the complete practical map of the sirat.",
+      },
+      {
+        ref: "Ya-Sin 36:66",
+        arabic: "وَلَوْ نَشَاءُ لَطَمَسْنَا عَلَىٰ أَعْيُنِهِمْ فَاسْتَبَقُوا الصِّرَاطَ فَأَنَّىٰ يُبْصِرُونَ",
+        translation: "And if We willed, We could obliterate their eyes, and they would race to the path — but how would they see?",
+        note: "An image of the human condition: those who reject guidance would still seek the path if they were blinded — they would race toward it out of desperation — but without sight, how would they find it? This verse is Allah's statement about the gift of guidance: sight (basirah — inner sight) is required to navigate the sirat. The path exists; the question is whether one can see it. Guidance is the giving of sight.",
+      },
+    ],
+    semanticField: [
+      {
+        slug: 'hisab',
+        arabic: 'حِسَاب',
+        transliteration: 'Al-Hisab',
+        relationship: 'precedes',
+        relationshipLabel: "Hisab precedes the crossing of the Sirat",
+        description: "The crossing of the Sirat follows the Hisab (reckoning) in the eschatological sequence. First every soul is brought to account; then the books are distributed; then the crossing of the bridge over Jahannam. The quality of one's crossing correlates with the outcome of the Hisab.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: "Walk the sirat of this world to ease the sirat of the next", arabic: "اسْتِقَامَة", arabicTranslit: "istiqāma", description: "Istiqama — uprightness, steadiness on the path — is the Quranic virtue that directly corresponds to the eschatological Sirat. The command 'fastakim kama umirta' (be steadfast as you have been commanded — 11:112) is said to be the most demanding command in the Quran. Walking the straight path in life — consistently, without sudden deviations, without abandoning the path when it becomes steep — is the preparation for the bridge." },
+        { number: 2, title: "Make the petition of Al-Fatihah a living request", arabic: "دُعَاء", arabicTranslit: "duʿāʾ", description: "Ihdina al-sirat al-mustaqim is not a ritual formula; it is a real petition for divine guidance. Every time you recite Al-Fatihah, you are asking Allah to keep you on the path. The scholars note that this petition includes requesting guidance to recognize the path, strength to walk it, and protection from the deviations that lead off it. The 17+ times a day this petition is made is the Quran's built-in mechanism for sustained orientation toward the sirat." },
+      ],
+      stations: [
+        { name: "The sirat al-mustaqim in this world", description: "The path of the prophets, the truthful, the martyrs, and the righteous — as described in 4:69. Walking this path means following prophetic guidance, maintaining justice, worshipping Allah alone, and treating all of creation with the consciousness of divine oversight. It is walked one day at a time, one choice at a time." },
+        { name: "The eschatological bridge", description: "The bridge stretched over Jahannam on the Last Day. Every soul crosses it. The speed and ease of crossing reflects the quality of the life lived. The fast crossers — like lightning, like wind — are those whose iman was strong and deeds were consistent. Those who stumble and fall were those who deviated from the path in life." },
+      ],
+      questions: [
+        { question: "Who are 'those upon whom You have bestowed favor' in Al-Fatihah?", answer: "The Quran answers this question directly in 4:69: 'Whoever obeys Allah and the Messenger — those will be with the ones upon whom Allah has bestowed favor: the prophets (nabiyyun), the truthful (siddiqun), the martyrs (shuhada'), and the righteous (salihin). Excellent are these as companions.' The sirat al-mustaqim is the path that leads to the company of these four ranks. This is why the scholars describe it as following prophetic guidance (ittiba' al-rasul) as the core of walking the path." },
+        { question: "Is the eschatological Sirat mentioned in the Quran?", answer: "The eschatological Sirat (the bridge over Hell) is established primarily through hadith rather than explicit Quranic verse, though several Quranic passages are understood to reference it: 'And not one of you except he will come to it' (19:71) — al-warid (coming to it/Hell) is interpreted by many scholars as including the crossing. 'And those who wronged will know what a reversal they will experience' (26:227) also has eschatological readings. The detailed description of the Sirat as thinner than a hair and sharper than a sword comes from authentic hadith traditions." },
+      ],
+    },
+    scholarsSaid: [
+      { scholar: "Ibn al-Qayyim al-Jawziyya", source: "Al-Fawa'id", text: "The sirat of this world and the sirat of the next are one. Whoever walks the sirat al-mustaqim in this life — by following the Prophet, worshipping Allah, and acting righteously — crosses the sirat of the next life with ease and speed. Whoever deviated from the path in this life will find that deviation reflected in their crossing of the bridge. The life is the practice; the bridge is the test." },
+    ],
+    hadith: [
+      { text: "The bridge is stretched over the back of Hell. It is thinner than a hair and sharper than a sword. Hooks like the thorns of al-Sa'dan [a thorny plant] are upon it. The believers will cross it — some like the blink of an eye, some like lightning, some like wind, some like a horse, some running, some walking, some crawling.", source: "Sahih al-Bukhari and Muslim — from the hadith of the Intercession" },
+    ],
+    acrossTransitions: "The concept of a bridge or narrow path connecting this world to the next appears across religious traditions. In Zoroastrianism, the Chinvat Bridge (Bridge of the Separator) must be crossed after death; the righteous cross it as a wide, beautiful bridge while the wicked find it narrow as a razor's edge and fall into the abyss. This parallel is noted by many scholars, though the Islamic tradition derives the Sirat from prophetic revelation independent of Zoroastrian influence.\n\nIn Norse mythology, the Bifrost bridge connects the world of the living to the realm of the gods. In Egyptian religion, the weighing of the heart was a judgment before the soul could proceed to the afterlife. The Islamic sirat combines elements of both: a crossing that reflects the life lived, a bridge whose ease or difficulty mirrors the moral quality of the traveler.",
+    goDeeper: [
+      { slug: 'al-fatihah', surahName: 'Al-Fatihah', note: "The petition at the heart of every prayer: 'Guide us to the straight path' — the most repeated du'a in Islam" },
+      { slug: 'maryam', surahName: 'Maryam', note: "'There is not one of you except that he will come to it' (19:71) — the ayah about approaching Hell, often interpreted in relation to the Sirat" },
+    ],
+    relatedTerms: [
+      { slug: 'hisab',    transliteration: 'Al-Hisab',    term: 'حِسَاب'  },
+      { slug: 'qiyamah',  transliteration: 'Al-Qiyamah',  term: 'قِيَامَة' },
+      { slug: 'jahannam', transliteration: 'Jahannam',    term: 'جَهَنَّم' },
+    ],
+    hasFullEntry: true,
+  },
+
+  'qiyamah': {
+    slug: 'qiyamah',
+    term: 'قِيَامَة',
+    transliteration: 'Al-Qiyāmah',
+    pronunciation: "al-qee-YA-ma",
+    category: 'The Unseen',
+    evocativeLine: 'The Standing — the Day every soul discovers what it had sent ahead.',
+    summary: "Yawm al-Qiyamah — the Day of Standing — is the eschatological horizon toward which every surah of the Quran points. The Quran mentions the Day of Judgment under many names: Yawm al-Qiyamah (Day of Standing), Yawm al-Din (Day of Recompense), Al-Sa'ah (the Hour), Yawm al-Hisab (Day of Reckoning), Yawm al-Jaza' (Day of Recompense), Al-Haqqah (the Inevitable), Al-Qari'ah (the Striking Blow), Al-Ghashiyah (the Overwhelming), Yawm al-Fasl (Day of Separation). Each name illuminates a different dimension of the same reality.\n\nThe Day is described in the Quran as the moment when 'the earth will be shaken with a violent shaking and the mountains will crumble and turn to dust' (56:4-5), when 'the sun is wrapped up' (81:1), when 'the graves are overturned' (82:4), when 'the sea is set ablaze' (81:6). All the physical structures of the present world dissolve — and what remains is the reality of every soul standing before its Lord, with nothing between it and the accounting.\n\nThe Quran's most powerful contribution to human consciousness about the Day is not its frightening imagery but its moral urgency. The Day is not invoked to terrorize but to orient: if this Day is coming, what does that mean for how you live today? 'And fear the Day when no soul will avail another soul at all, and no intercession will be accepted from it, and no compensation taken from it, and they will not be aided' (2:48). The function of remembering the Day — dhikr al-mawt and dhikr Yawm al-Qiyamah — is to restore proportions: what seems urgent today may be trivial on that Day; what seems optional today may be essential then.",
+    root: {
+      letters: 'ق و م',
+      transliteration: 'q-w-m',
+      meaning: 'to stand, to rise, to establish, to be upright',
+      elaboration: "Qiyamah comes from the root q-w-m — one of the most productive roots in Arabic: qama (he stood), qawm (people — those who stand together), muqam (standing place, station), aqama (to establish), istiqama (steadfastness). Yawm al-Qiyamah is the Day of the Great Standing — when all of creation rises from the graves and stands before its Lord. The root connects: the one who stood upright (mustaqim) in this life will stand with ease on that Day; the one who slouched away from righteousness may find the standing unbearable.",
+    },
+    rootForms: [
+      { arabic: 'قِيَامَة', transliteration: 'qiyāma', type: 'Noun', meaning: 'The Rising, the Standing; the Day of Judgment', approxCount: 70, verified: false },
+      { arabic: 'يَوْم الْقِيَامَة', transliteration: 'yawm al-qiyāma', type: 'Phrase', meaning: 'The Day of Resurrection / Judgment', approxCount: 70, verified: false },
+    ],
+    occurrenceCount: 70,
+    occurrenceNote: "Yawm al-Qiyamah (the Day of Standing) appears approximately 70 times in the Quran. The Day of Judgment under its many other names adds hundreds more references, making eschatology one of the most frequent subjects in the entire Book. The Quran also devotes entire surahs to the Day: Al-Qiyamah (75), Al-Ghashiyah (88), Al-Haqqah (69), Al-Qari'ah (101), Al-Zalzalah (99).",
+    keyAyahs: [
+      {
+        ref: "Al-Qiyamah 75:1-4",
+        arabic: "لَا أُقْسِمُ بِيَوْمِ الْقِيَامَةِ وَلَا أُقْسِمُ بِالنَّفْسِ اللَّوَّامَةِ أَيَحْسَبُ الْإِنسَانُ أَلَّن نَّجْمَعَ عِظَامَهُ بَلَىٰ قَادِرِينَ عَلَىٰ أَن نُّسَوِّيَ بَنَانَهُ",
+        translation: "I swear by the Day of Resurrection, and I swear by the self-reproaching soul — does man think We will not reassemble his bones? Yes — We are capable of restoring even his very fingertips.",
+        note: "The Quran opens Surah Al-Qiyamah with a double oath: by the Day and by the lawwama soul. The connection is theological: the soul that reproaches itself is the one that has maintained enough consciousness to feel the weight of its actions — and this soul is the most likely to take the Day seriously. The answer to the skeptic who denies resurrection: not only will the bones be gathered, but even the fingertips — the most individual, most unique part of a body (every fingerprint is different) — will be restored exactly as they were.",
+      },
+      {
+        ref: "Al-Infitar 82:17-19",
+        arabic: "وَمَا أَدْرَاكَ مَا يَوْمُ الدِّينِ ثُمَّ مَا أَدْرَاكَ مَا يَوْمُ الدِّينِ يَوْمَ لَا تَمْلِكُ نَفْسٌ لِّنَفْسٍ شَيْئًا ۖ وَالْأَمْرُ يَوْمَئِذٍ لِّلَّهِ",
+        translation: "And what can make you know what is the Day of Recompense? Then what can make you know what is the Day of Recompense? It is the Day when no soul will possess anything for another soul, and the command that Day will be entirely with Allah.",
+        note: "The rhetorical doubling — 'what can make you know?' twice — is the Quran's device for indicating that what follows exceeds ordinary description. The Day is defined by two negations and one positive: no soul can do anything for another (no intercession without permission, no family connection, no wealth), and all command belongs to Allah. This is the stripping away of everything that gives human beings a sense of security in this world — and what remains is the reality of standing before Allah alone.",
+      },
+      {
+        ref: "Al-Zalzalah 99:7-8",
+        arabic: "فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُ",
+        translation: "So whoever does an atom's weight of good will see it, and whoever does an atom's weight of evil will see it.",
+        note: "The conclusion of the entire Quran's eschatology in two sentences. An atom's weight — the smallest possible unit of moral action — will be seen on the Day. Nothing is too small to matter; nothing is lost in the account. This ayah is reported to have caused 'Abd Allah ibn Mas'ud to say: 'This is the most comprehensive and comprehensive verse in the Quran.' The 'seeing' (yarah) is not passive reading of a ledger — it is the full experience and consequence of what was done.",
+      },
+    ],
+    semanticField: [
+      {
+        slug: 'hisab',
+        arabic: 'حِسَاب',
+        transliteration: 'Al-Hisab',
+        relationship: 'deepens',
+        relationshipLabel: "Hisab is the reckoning within the Day",
+        description: "Al-Hisab (the reckoning) is the central event of Yawm al-Qiyamah — the detailed accounting of every soul's deeds. The Day is the container; the Hisab is the primary event within it. Other events — crossing the Sirat, receiving the book, the weighing of deeds (mizan) — are all components of the broader Day.",
+      },
+      {
+        slug: 'barzakh',
+        arabic: 'بَرْزَخ',
+        transliteration: 'Barzakh',
+        relationship: 'precedes',
+        relationshipLabel: "Barzakh precedes the Day — the interspace before the Standing",
+        description: "Every soul passes through the barzakh (the intermediate state between death and resurrection) before the Day of Standing. The barzakh is the waiting; Yawm al-Qiyamah is the arrival. The state of the soul in the barzakh is shaped by the life it lived; the outcome on Yawm al-Qiyamah is the culmination of both the life and the barzakh.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: "Remember the Day to restore correct proportions", arabic: "ذِكْر الْمَوْت", arabicTranslit: "dhikr al-mawt", description: "The Prophet ﷺ commanded: 'Remember frequently the destroyer of pleasures — death.' The extension of this remembrance to Yawm al-Qiyamah is the prophetic method for recalibrating what matters. When the Day is vivid in the heart, petty anxieties shrink and genuine priorities clarify. What will matter on that Day? That question, asked honestly and repeatedly, reshapes a life." },
+        { number: 2, title: "Prepare the deeds that will be seen on that Day", arabic: "تَزَوُّد", arabicTranslit: "tazawwud", description: "Tazawwud — provision, preparation — is the Quranic term for what one takes from this life into the next (2:197 uses it in the context of Hajj and then applies it to the provision for the final journey). The Day reveals what was sent ahead. The time to prepare is before the Day; the preparation is every act of righteousness, every prayer offered sincerely, every obligation fulfilled." },
+      ],
+      stations: [
+        { name: "The dissolution of the present world", description: "The first phase: the sun wrapped, the stars fallen, the seas blazed, the graves overturned, the mountains crumbled. All the structures that gave life its familiar shape dissolve. This phase is the Quran's repeated image of the end of the present order and the beginning of the divine accounting." },
+        { name: "The Great Standing (Al-Qiyam)", description: "Every soul that ever lived stands before Allah. The Prophet described people standing in their perspiration in the sun according to their deeds. For some this standing is like a brief prayer; for others it is unbearably long. The standing is the decisive moment of divine presence, before the accounting, the distribution of books, and the crossing of the bridge." },
+        { name: "The distribution of the books", description: "Each soul receives its book: those given their record in the right hand rejoice; those given it in the left hand or from behind their back are in despair. 'Read your book! Your soul is sufficient as an accountant against you today' (17:14). The book is one's own life — not edited, not summarized, complete." },
+      ],
+      questions: [
+        { question: "How long does the Day of Judgment last?", answer: "The Quran describes the Day as 'fifty thousand years' (70:4) and as 'a thousand years by your reckoning' (32:5). Classical scholars reconcile these by noting different phases of the Day, or by treating these as expressions of its overwhelming quality rather than literal durations. For the righteous, it will pass as quickly as a time between noon and afternoon prayers (hadith tradition). The perception of duration reflects one's state on that Day." },
+        { question: "Will there be intercession on the Day?", answer: "Yes — but intercession (shafa'ah) on the Day of Judgment is permitted only by divine permission, for whom Allah wills (2:255, 21:28, 53:26). The Prophet ﷺ is described in hadith as the possessor of 'Al-Maqam al-Mahmud' — the Praised Station — which is the great intercession (al-shafa'ah al-kubra) to begin the Hisab when humanity is overwhelmed by the wait. Other prophets, scholars, martyrs, and even the Quran itself are described in hadith as interceding for those permitted. Intercession is real but entirely subject to divine will — it does not override the basic accountability of deeds." },
+      ],
+    },
+    scholarsSaid: [
+      { scholar: "Ibn al-Qayyim al-Jawziyya", source: "Al-Tibyan fi Aqsam al-Quran", text: "The Quran gave the Day of Judgment over a hundred names — every name revealing a different aspect of its reality. It called it the Hour (al-Sa'ah) to emphasize its suddenness. It called it the Inevitable (al-Haqqah) to emphasize its certainty. It called it the Striking Blow (al-Qari'ah) to emphasize its impact. It called it the Day of Separation (Yawm al-Fasl) to emphasize what it separates. Together these names are the Quran's way of training the heart to hold a reality too vast for any single description." },
+    ],
+    hadith: [
+      { text: "The sun will be brought close to the people on the Day of Judgment until it is approximately a mile away. People will be in their perspiration according to their deeds: some up to their ankles, some up to their knees, some up to their waists, and some bridled in it.", source: "Sahih Muslim" },
+    ],
+    acrossTransitions: "The Day of Judgment is among the most universal concepts in religious history. In Judaism, Yom HaDin (the Day of Judgment) is commemorated annually on Rosh Hashanah, when all souls are judged and their fates inscribed in the Book of Life. In Christianity, the Final Judgment (described most vividly in Matthew 25 and Revelation 20) involves the resurrection of the dead, the separation of sheep from goats, and the books of record. In Zoroastrianism, the Frashokereti is the final renovation of the world and the judgment of all souls.\n\nThe Islamic Yawm al-Qiyamah is distinguished by its Quranic elaboration — the sheer volume of Quranic description, the multiple names for the Day, the detailed prophetic traditions about its stages — making eschatology more systematically developed in Islamic theology than in most other traditions. The theological debate about intercession (shafa'ah) was central to distinguishing Islamic orthodoxy from various theological movements, and the doctrine that intercession is real but entirely conditional on divine permission became a defining feature of Sunni theology.",
+    goDeeper: [
+      { slug: 'al-qiyamah', surahName: 'Al-Qiyamah', note: "The surah named for the Day — its opening oath and the description of the resurrection" },
+      { slug: 'al-zalzalah', surahName: 'Al-Zalzalah', note: "The final verdict: whoever does an atom's weight of good will see it; whoever does an atom's weight of evil will see it" },
+      { slug: 'al-haqqah', surahName: 'Al-Haqqah', note: "The Inevitable — the day when the sky is split and the eight angels carry the Throne" },
+    ],
+    relatedTerms: [
+      { slug: 'hisab',   transliteration: 'Al-Hisab',   term: 'حِسَاب'  },
+      { slug: 'barzakh', transliteration: 'Barzakh',    term: 'بَرْزَخ' },
+      { slug: 'sirat',   transliteration: 'Al-Sirat',   term: 'صِرَاط'  },
+    ],
+    hasFullEntry: true,
+  },
+
+  'hisab': {
+    slug: 'hisab',
+    term: 'حِسَاب',
+    transliteration: 'Al-Ḥisāb',
+    pronunciation: "al-hee-SAB",
+    category: 'The Unseen',
+    evocativeLine: 'The reckoning — when every moment of every life is laid open, and only truth speaks.',
+    summary: "Al-Hisab — the Reckoning or the Accounting — is the central event of Yawm al-Qiyamah. After the resurrection, the gathering, and the Great Standing, every soul faces its Hisab: a comprehensive review of all it did, said, intended, and left undone. The Quran describes this accounting with a precision that is meant to be felt: 'And We will place the scales of justice for the Day of Resurrection, so no soul will be wronged at all. And if there is even the weight of a mustard seed, We will bring it forth. And sufficient are We as accountant.' (21:47).\n\nThe Quran's most vivid image of the Hisab is the distribution of the books. Each soul receives its book of deeds — the complete record of its life. Those given their books in the right hand rejoice; those given them in the left hand or from behind their back are in despair. Allah says: 'Read your book! Sufficient is yourself as an accountant against you today.' (17:14). The soul recognizes its own record. There is no appeal to ignorance, no claim of misrepresentation — the book is the soul's own life, completely and accurately recorded.\n\nThe Hisab is described in different forms for different souls. Some face a detailed reckoning (muhasabah shaqiyyah — an arduous accounting) in which every deed is examined. Others are shown their record and forgiven through divine mercy. The Prophet ﷺ described the 70,000 who will enter Paradise without any reckoning at all — those who trusted in Allah completely and did not seek charms or ask others to cure them through superstition. The Hisab, in the end, is not the Quran's final word about human destiny: divine mercy intervenes, intercession is permitted, and the believer's hope is not merely in the record but in the mercy of the Accountant.",
+    root: {
+      letters: 'ح س ب',
+      transliteration: 'ḥ-s-b',
+      meaning: 'to count, to reckon, to account, to be sufficient',
+      elaboration: "The root h-s-b gives hisab (reckoning, account), hasaba (to count/reckon), hasbun (sufficiency — as in 'hasbunallah wa ni'mal wakil' — Allah is sufficient for us), muhasabah (self-accounting, self-examination), and ahsaba (to deem sufficient). The Quran uses the same root for both the divine reckoning on the Last Day and the human practice of self-examination (muhasabah al-nafs). The connection is not accidental: those who hold themselves to account in this world will face a lighter accounting in the next.",
+    },
+    rootForms: [
+      { arabic: 'حِسَاب', transliteration: 'ḥisāb', type: 'Noun', meaning: 'Reckoning, account, accounting', approxCount: 109, verified: false },
+      { arabic: 'حَسَبَ', transliteration: 'ḥasaba', type: 'Verb', meaning: 'To count, to reckon, to account', approxCount: 80, verified: false },
+      { arabic: 'مُحَاسَبَة', transliteration: 'muḥāsaba', type: 'Verbal noun', meaning: 'Self-accounting, mutual accounting', approxCount: 0, verified: false },
+      { arabic: 'حَسْب', transliteration: 'ḥasb', type: 'Noun', meaning: 'Sufficiency; enough', approxCount: 34, verified: false },
+    ],
+    occurrenceCount: 109,
+    occurrenceNote: "The root h-s-b appears approximately 109 times in the Quran in its various forms. The Hisab as divine reckoning appears in major eschatological passages: 2:202, 3:19, 3:199, 5:4, 13:21, 14:41, 21:47, 24:39, 38:26, 40:17, 40:27, 65:8. The formula 'wa-kafa bi-l-lah hasibar' (sufficient is Allah as an accountant) appears in 4:6 and 4:86, affirming both the completeness and the fairness of the divine reckoning.",
+    keyAyahs: [
+      {
+        ref: "Al-Anbiya 21:47",
+        arabic: "وَنَضَعُ الْمَوَازِينَ الْقِسْطَ لِيَوْمِ الْقِيَامَةِ فَلَا تُظْلَمُ نَفْسٌ شَيْئًا ۖ وَإِن كَانَ مِثْقَالَ حَبَّةٍ مِّنْ خَرْدَلٍ أَتَيْنَا بِهَا ۗ وَكَفَىٰ بِنَا حَاسِبِينَ",
+        translation: "And We will place the scales of justice for the Day of Resurrection — so no soul will be wronged at all. And if there is the weight of a mustard seed, We will bring it forth. And sufficient are We as accountant.",
+        note: "Three guarantees about the Hisab: perfect justice (no soul wronged), complete record (even a mustard seed's weight), and divine sufficiency (no external audit needed — Allah is the complete and perfect accountant). The Quran's emphasis that 'no soul will be wronged at all' — la tuzlamu nafsun shay'an — is the theological foundation of Islamic trust in divine justice on the Last Day. The reckoning may be hard, but it will be perfectly fair.",
+      },
+      {
+        ref: "Al-Isra 17:13-14",
+        arabic: "وَكُلَّ إِنسَانٍ أَلْزَمْنَاهُ طَائِرَهُ فِي عُنُقِهِ ۖ وَنُخْرِجُ لَهُ يَوْمَ الْقِيَامَةِ كِتَابًا يَلْقَاهُ مَنشُورًا اقْرَأْ كِتَابَكَ كَفَىٰ بِنَفْسِكَ الْيَوْمَ عَلَيْكَ حَسِيبًا",
+        translation: "And We have fastened every person's fate to his neck, and on the Day of Resurrection We will bring out for him a record which he will find spread open. Read your book! Sufficient is yourself against you today as an accountant.",
+        note: "The book of deeds is described as fastened to the neck — it is not external, not brought from outside; it is the soul's own life, carried all along. The command to read it — iqra' kitabak — is the most personal reckoning imaginable: the soul confronts its own record in its entirety. The sufficiency of the soul as its own accountant (kafa bi-nafsika al-yawm alayka hasibar) means that on the Day, no defense based on ignorance can stand: the record is the soul's own, and it recognizes it.",
+      },
+      {
+        ref: "Ghafir 40:17",
+        arabic: "الْيَوْمَ تُجْزَىٰ كُلُّ نَفْسٍ بِمَا كَسَبَتْ ۚ لَا ظُلْمَ الْيَوْمَ ۚ إِنَّ اللَّهَ سَرِيعُ الْحِسَابِ",
+        translation: "Today every soul will be recompensed for what it earned. No injustice today. Indeed, Allah is swift in account.",
+        note: "Three movements in this ayah: total recompense (every soul, for what it earned), total justice (no injustice), and total efficiency (Allah is swift in account). The swiftness is not careless speed — it is the efficiency of the All-Knowing accountant who requires no time to review what He already knows completely. The Day that feels interminably long for some is settled swiftly in terms of the actual accounting.",
+      },
+    ],
+    semanticField: [
+      {
+        slug: 'qiyamah',
+        arabic: 'قِيَامَة',
+        transliteration: 'Al-Qiyamah',
+        relationship: 'deepens',
+        relationshipLabel: "Hisab is the central event within Yawm al-Qiyamah",
+        description: "The Hisab does not stand alone — it is the central pillar of Yawm al-Qiyamah. The Day is named for the Standing that precedes the Hisab; the Hisab is the reason for the Standing. What happens after the Hisab — the crossing of the Sirat, the entry into Jannah or the descent into Jahannam — flows from the outcome of the accounting.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: "Practice muhasabah al-nafs daily", arabic: "مُحَاسَبَة النَّفْس", arabicTranslit: "muḥāsabat al-nafs", description: "Umar ibn al-Khattab (RA) reportedly said: 'Hold yourselves accountable before you are held accountable, and weigh your deeds before they are weighed.' Muhasabah — self-accounting — is the human-scale practice of the divine Hisab. Those who examine their deeds daily, repent promptly, and correct their errors will face a lighter accounting on the Day. The scholars describe muhasabah as the believer's daily audit before the final audit." },
+        { number: 2, title: "Prioritize deeds of lasting account", arabic: "صَدَقَة جَارِيَة", arabicTranslit: "ṣadaqa jāriya", description: "The Prophet ﷺ described three things that continue to accumulate in a person's account after death: ongoing charity (sadaqah jariyah), beneficial knowledge that continues to be used, and a righteous child who prays for them. The Hisab is not closed at death — these three doors remain open. The believer who plants sadaqah jariyah seeds during life is still earning for their account after they die." },
+        { number: 3, title: "Hope in the mercy of the Accountant, not just the record", arabic: "رَجَاء", arabicTranslit: "rajāʾ", description: "The Hisab is a reckoning, not a sentence. The outcome of the Hisab is shaped not only by the deeds in the book but by divine mercy. The hadith about the 70,000 who enter Paradise without reckoning, the intercession of the Prophet, the divine mercy that covers what the deeds could not — these are all components of the final accounting. Rightly-placed raja' (hope) is not optimism about one's record; it is trust in the mercy of the Accountant." },
+      ],
+      stations: [
+        { name: "The weighing of deeds (Al-Mizan)", description: "The scales of justice are established on the Day and every deed is weighed. The Quran says even a mustard seed's weight will be brought. The hadith tradition includes the astonishing account of a man with nothing in his records except 'La ilaha illa Allah' — and when placed on the scale, it outweighs all his sins. The weighing is not purely quantitative; the quality and sincerity of deeds affects their weight." },
+        { name: "The distribution of the books", description: "The book — fastened to every soul's neck throughout this life — is distributed on the Day. Right hand: rejoicing, calling others to see the record. Left hand or from behind: despair. This distribution is the Quran's most powerful image of individual accountability: not a collective judgment but a personal confrontation with one's own life." },
+        { name: "The interrogation (Al-Su'al)", description: "The hadith tradition describes different levels of questioning on the Day. The deeper interrogation is described as 'arduous accounting' (hisab shaqiyy). But the private accounting — where Allah draws the believer near and shows them their sins privately, then covers them with mercy — is described as salvation, not punishment. The believer whose sins are covered in the private accounting is the one protected by divine mercy." },
+      ],
+      questions: [
+        { question: "Will everyone face a Hisab?", answer: "The Quran indicates all will be accountable (3:30, 17:13-14, 21:47). However, the prophetic tradition describes varying levels of accounting: some face detailed questioning, others are shown their book and pardoned, and a group of 70,000 (in one hadith tradition) enters Paradise without any reckoning — those characterized by tawakkul (complete reliance on Allah) who did not seek magical cures or consider omens. The difference is in the mode and depth of accounting, not in the universal principle of accountability." },
+        { question: "Can deeds from this life still be added to the account after death?", answer: "Yes — the Prophet ﷺ described three: sadaqah jariyah (ongoing charity whose benefits continue), beneficial knowledge that others continue to use, and a righteous child who prays for the parent. Additionally, the forgiveness sought for the deceased through du'a and the reward of good deeds gifted to them by the living (according to most scholars) can benefit the deceased. The account is effectively open until the very day of Hisab, when it is finally sealed and totaled." },
+      ],
+    },
+    scholarsSaid: [
+      { scholar: "Umar ibn al-Khattab", source: "Al-Adab al-Mufrad (Al-Bukhari)", text: "Hold yourselves accountable before you are held accountable, and weigh your deeds before they are weighed for you. It is easier for you to be held accountable tomorrow if you hold yourselves accountable today." },
+    ],
+    hadith: [
+      { text: "Among my nation will enter Paradise seventy thousand without reckoning: they are those who did not seek charms, did not consider omens, did not use cauterization, and put their trust in their Lord.", source: "Sahih al-Bukhari and Muslim" },
+      { text: "Whoever has his account examined is ruined. A'isha said: Did not Allah say 'He will be given an easy reckoning'? He ﷺ said: That is the presentation (al-'ard). But whoever is interrogated (hisab) about the accounting, he will be punished.", source: "Sahih al-Bukhari and Muslim" },
+    ],
+    acrossTransitions: "Moral accounting after death is one of the most universal concepts in religious history. In ancient Egyptian religion, the weighing of the heart against the feather of Ma'at (truth, justice) at the Hall of Two Truths is among the oldest known depictions of post-mortem judgment. The heart is weighed against divine standards; the too-heavy heart is consumed by the monster Ammit.\n\nIn Zoroastrianism, the soul is judged on the Chinvat Bridge according to its thoughts, words, and deeds — the same tripartite account. In Judaism, the Day of Judgment (Yom HaDin) involves divine accounting, with particular emphasis on the community's collective accountability. In Christianity, the Final Judgment of Matthew 25 is based on works of mercy and love.\n\nThe Islamic Hisab is distinctive in its simultaneous insistence on perfect divine justice (no soul wronged), comprehensive accounting (an atom's weight counted), and divine mercy intervening in the outcome. The tension between divine justice and divine mercy — resolved in favor of mercy for the believer through tawbah and prophetic intercession — is the characteristic Islamic note in the universal doctrine of judgment.",
+    goDeeper: [
+      { slug: 'al-anbiya', surahName: 'Al-Anbiya', note: "The scales of justice — no soul wronged, even a mustard seed brought forth, Allah sufficient as accountant (21:47)" },
+      { slug: 'al-isra', surahName: 'Al-Isra', note: "The book fastened to the neck, distributed on the Day: 'Read your book! Sufficient is yourself as accountant' (17:13-14)" },
+    ],
+    relatedTerms: [
+      { slug: 'qiyamah', transliteration: 'Al-Qiyamah', term: 'قِيَامَة' },
+      { slug: 'sirat',   transliteration: 'Al-Sirat',   term: 'صِرَاط'  },
+      { slug: 'tawbah',  transliteration: 'Tawbah',     term: 'تَوْبَة' },
     ],
     hasFullEntry: true,
   },
