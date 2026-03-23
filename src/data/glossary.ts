@@ -169,7 +169,7 @@ export const GLOSSARY_TERMS: GlossaryMeta[] = [
 
   // ── Quranic Characters ───────────────────────────────────────────────────────
   { slug: 'maryam',       term: 'مَرْيَم',           transliteration: 'Maryam',        category: 'Quranic Characters', evocativeLine: 'The only woman named by name in the Quran — and her own surah.',              hasFullEntry: true  },
-  { slug: 'luqman',       term: 'لُقْمَان',          transliteration: 'Luqman',        category: 'Quranic Characters', evocativeLine: 'The wise man who taught his son by talking, not commanding.',                 hasFullEntry: false },
+  { slug: 'luqman',       term: 'لُقْمَان',          transliteration: 'Luqman',        category: 'Quranic Characters', evocativeLine: 'The wise man who taught his son by talking, not commanding.',                 hasFullEntry: true },
   { slug: 'dhul-qarnayn', term: 'ذُو ٱلْقَرْنَيْن', transliteration: "Dhul-Qarnayn",  category: 'Quranic Characters', evocativeLine: 'The one of two epochs — a sovereign who served rather than ruled.',            hasFullEntry: false },
   { slug: 'ayyub',        term: 'أَيُّوب',           transliteration: 'Ayyub',         category: 'Quranic Characters', evocativeLine: "Affliction beyond measure — and a faith that didn't flinch.",                 hasFullEntry: true },
   { slug: 'iblis',        term: 'إِبْلِيس',          transliteration: 'Iblis',         category: 'Quranic Characters', evocativeLine: 'He knew the truth, refused it — and has spent eternity trying to make others do the same.', hasFullEntry: true },
@@ -7844,6 +7844,95 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
     relatedTerms: [
       { slug: 'ikhlas', transliteration: 'Ikhlas', term: 'إِخْلَاص' },
       { slug: 'taqwa',  transliteration: 'Taqwa',  term: 'تَقْوَى'  },
+    ],
+    hasFullEntry: true,
+  },
+
+  'luqman': {
+    slug: 'luqman',
+    term: 'لُقْمَان',
+    transliteration: 'Luqman',
+    pronunciation: 'luk-MAAN',
+    category: 'Quranic Characters',
+    evocativeLine: 'The wise man who taught his son by talking, not commanding.',
+    summary: "Luqman is not a prophet — a distinction the Quran makes clear by saying he was given hikmah (wisdom) rather than nubuwwah (prophethood). He is a figure of wisdom: a man, likely a slave (the tradition identifies him as an Abyssinian or Nubian man of African origin), to whom Allah gave extraordinary insight into reality, and who used it to instruct his son.\n\nThe Quran gives us Luqman's speech to his son in a single extended passage (31:12-19) — one of the most concentrated pieces of wisdom teaching in the entire Quran. In twelve verses, Luqman covers: the prohibition of shirk, the duty to parents (even non-Muslim parents), the awareness of divine witnessing of even the smallest actions, the obligation of prayer, the command to enjoin good and forbid wrong, the necessity of patience in adversity, and the ethics of speech and movement. This is not a lecture series; it is a conversation between a father and a son.\n\nWhat makes Luqman extraordinary is the form of his wisdom. He does not command; he explains. He does not threaten; he contextualizes. His instruction about shirk: O my son, do not associate partners with Allah — for indeed shirk is an immense wrong. His instruction about humility in movement: do not walk on the earth arrogantly — for Allah does not love any self-conceited boaster. This is the Quran's model of parenting: wisdom delivered with love, by a person who has genuinely understood what they are teaching.",
+    root: {
+      letters: 'ل ق م',
+      transliteration: 'l-q-m',
+      meaning: 'A proper name — connected to the root meaning a morsel of food, a swallow',
+      elaboration: "Luqman is a proper name. The root l-q-m in Arabic means a bite or morsel of food — what is swallowed in one mouthful. Classical scholars noted that wisdom comes in digestible pieces, not overwhelming floods — and Luqman's teaching style exemplifies exactly this: small, precise, memorable pieces of truth delivered with care. His name's root may reflect the manner of his teaching as much as its content.",
+    },
+    rootForms: [
+      { arabic: 'لُقْمَان', transliteration: 'Luqmān', type: 'Proper noun', meaning: 'The wise man Luqman', approxCount: 4, verified: true },
+    ],
+    occurrenceCount: 4,
+    occurrenceNote: "Luqman is mentioned 4 times in the Quran, all within Surah Luqman (31). The surah named after him contains his extended wisdom teaching to his son. His mention is rare but his teaching is among the most sustained pieces of parental and moral instruction in the Quran.",
+    keyAyahs: [
+      {
+        ref: 'Luqman 31:13',
+        arabic: 'وَإِذْ قَالَ لُقْمَانُ لِابْنِهِ وَهُوَ يَعِظُهُ يَا بُنَيَّ لَا تُشْرِكْ بِاللَّهِ ۖ إِنَّ الشِّرْكَ لَظُلْمٌ عَظِيمٌ',
+        translation: "And when Luqman said to his son while instructing him: O my son, do not associate partners with Allah. Indeed, shirk is an immense wrong.",
+        note: "The first and foundational instruction: tawhid. The tender address — ya bunayya (O my little son) — frames the most serious theological teaching imaginable. The diminutive is not mere affection; it calibrates the tone. And the reason given for the prohibition is not punishment but understanding: shirk is zulm — it is putting things in the wrong place, distorting the order of reality. The father teaches the son not through fear but through insight.",
+      },
+      {
+        ref: 'Luqman 31:16',
+        arabic: 'يَا بُنَيَّ إِنَّهَا إِن تَكُ مِثْقَالَ حَبَّةٍ مِّنْ خَرْدَلٍ فَتَكُن فِي صَخْرَةٍ أَوْ فِي السَّمَاوَاتِ أَوْ فِي الْأَرْضِ يَأْتِ بِهَا اللَّهُ',
+        translation: "O my son, if it should be the weight of a mustard seed and were within a rock or anywhere in the heavens or earth, Allah will bring it forth.",
+        note: "Divine witnessing at the most atomic level: the mustard seed inside a rock. This is not primarily a verse about punishment — it is about the comprehensive nature of divine awareness. Every deed, however small, is recorded. This should produce both taqwa (awareness of accountability) and hope (even the smallest good is not lost). Luqman uses the image of the mustard seed not to terrify but to expand his son's understanding of what divine presence means.",
+      },
+      {
+        ref: 'Luqman 31:18-19',
+        arabic: 'وَلَا تُصَعِّرْ خَدَّكَ لِلنَّاسِ وَلَا تَمْشِ فِي الْأَرْضِ مَرَحًا ۖ إِنَّ اللَّهَ لَا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ وَاقْصِدْ فِي مَشْيِكَ وَاغْضُضْ مِن صَوْتِكَ',
+        translation: "And do not turn your cheek away from people in contempt, and do not walk on the earth arrogantly... And be moderate in your walking and lower your voice.",
+        note: "Embodied ethics: how you walk, how you hold your face, how loud you speak. Islam is not just internal — it is expressed in the body's posture and movement. The instruction to walk with qasad (moderation, directedness) and to lower the voice is the teaching of a man who understands that character shows in the smallest physical habits. The instruction not to turn your cheek away (la tusaʿʿir) — the word comes from jarab, a skin disease that causes an animal to turn its neck — is among the most vivid physical metaphors in the Quran for arrogance.",
+      },
+    ],
+    semanticField: [
+      {
+        slug: 'hikmah',
+        arabic: 'حِكْمَة',
+        transliteration: 'Hikmah',
+        relationship: 'deepens',
+        relationshipLabel: 'The gift that defines Luqman',
+        description: "The Quran says Allah gave Luqman hikmah — wisdom. Not wealth, not power, not a specific skill: wisdom itself. And the first thing wisdom knows is to be grateful for it (31:12). Luqman's teaching is hikmah embodied: practical, grounded, connected to daily life and ultimate reality simultaneously.",
+      },
+      {
+        slug: 'birr',
+        arabic: 'بِرّ',
+        transliteration: 'Birr',
+        relationship: 'deepens',
+        relationshipLabel: 'The instruction Luqman gives about parents alongside tawhid',
+        description: "Immediately after the instruction on tawhid, the Quran (through Luqman's teaching and through its own insertion) addresses the rights of parents — even non-Muslim parents. The proximity is deliberate: the rights of Allah and the rights of parents are the Quran's two most proximate obligations. Luqman's teaching models the integration of theology and ethics.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: "Teach with gentleness and reason, not command", arabic: "حِكْمَة", arabicTranslit: "hikmah", description: "Luqman does not say do this or else. He explains why. He contextualizes. He gives his son something to understand, not merely an instruction to obey. The Quranic model of transmission — whether parental or scholarly — is the explanation of why, not just the command of what." },
+        { number: 2, title: "Connect the small to the ultimate", arabic: "رَبْط", arabicTranslit: "rabṭ", description: "The mustard seed in the rock — Luqman connects the smallest observable act to the comprehensive awareness of Allah. This is the habit of the wise: to see the cosmic in the particular, the eternal in the immediate. Every parenting moment, every teaching moment, is an opportunity to connect what is visible to what is real." },
+        { number: 3, title: "Teach embodied ethics, not just ideas", arabic: "أَدَب", arabicTranslit: "adab", description: "Walk, voice, posture, face — Luqman's final instructions are about the body. Islam is not just a set of beliefs; it is a way of being physically present in the world. The training of the body's habits is as much a part of Islamic formation as the training of the mind." },
+      ],
+      stations: [
+        { name: "Receiving hikmah", description: "Hikmah is given — it is not manufactured. Luqman's wisdom came as a gift from Allah. What the human being can do is prepare the receptive conditions: study, reflection, association with the wise, taqwa, and time." },
+        { name: "Using hikmah in relationship", description: "Luqman uses his wisdom in the context of the most intimate relationship: father and son. Wisdom that does not find its way into the family is incomplete. The context of Luqman's teaching is the domestic, not the philosophical." },
+        { name: "Becoming a vessel of hikmah for others", description: "The final station: having received and embodied wisdom, one becomes its conduit. Luqman's words have lasted fourteen centuries. The words of a father to his son, recorded in the Quran, have shaped the character of generations who never knew either of them." },
+      ],
+      questions: [
+        { question: "Was Luqman a prophet?", answer: "The majority position among classical scholars is no — Luqman was a wise man (hakim) but not a prophet (nabi). The distinction matters: prophethood carries revelation and a specific mission to a people; Luqman's hikmah is divine gift but not prophetic revelation. This makes him, in some ways, more accessible as a model — his wisdom is the wisdom available to any sincere human being who pursues it." },
+        { question: "Who was Luqman historically?", answer: "The classical tradition offers various identifications: an Abyssinian slave, a Nubian sage, a man from the Sudan or from ancient Egypt. No identification is certain; the Quran does not specify. What is significant is that this figure of extraordinary wisdom is not a king, not a warrior, not a scholar in the conventional sense — he is a man, likely of non-Arab African origin, whom Allah granted wisdom. This itself is a statement about the universality of divine favor." },
+      ],
+    },
+    scholarsSaid: [
+      { scholar: "Ibn Kathir", source: "Tafsir Ibn Kathir on Surah Luqman", text: "Allah praised Luqman and gave him a surah in the Quran, and preserved his words to his son as an example for all parents and all people. His wisdom was not the wisdom of philosophers — it was grounded wisdom, connected to daily life and to the ultimate realities of existence." },
+      { scholar: "Ibn al-Qayyim", source: "Miftah Dar al-Sa'ada", text: "The wisdom of Luqman is distinctive in that it is not theoretical but relational. It is wisdom in the form of fatherly address — the knowledge of what the son needs, delivered in the manner the son can receive it. This is hikmah in its fullest sense." },
+    ],
+    hadith: [],
+    acrossTransitions: "Luqman has been identified by some scholars with figures from pre-Islamic wisdom traditions — a sage of African origin whose wisdom was celebrated before Islam. The Quran affirms and preserves his wisdom while locating it firmly within the framework of tawhid: the first and foundational instruction is the prohibition of shirk.\n\nIn Islamic educational philosophy, the Luqman passage is among the most frequently cited as the model for holistic education. Luqman teaches theology, ethics, cosmology, social conduct, and embodied practice — not as separate disciplines but as integrated dimensions of a single way of life.\n\nIn African and African-diaspora Islamic traditions, Luqman's identity as a man of African origin (as identified in the classical tradition) has been significant. He represents the presence of African wisdom within the Quran itself — not as peripheral but as central enough to merit an entire surah named after him.",
+    goDeeper: [
+      { slug: 'luqman', surahName: 'Luqman', note: "The entire surah — with Luqman's wisdom teaching to his son at its center (31:12-19)" },
+    ],
+    relatedTerms: [
+      { slug: 'hikmah', transliteration: 'Hikmah', term: 'حِكْمَة' },
+      { slug: 'birr',   transliteration: 'Birr',   term: 'بِرّ'   },
     ],
     hasFullEntry: true,
   },
