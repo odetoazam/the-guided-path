@@ -171,7 +171,7 @@ export const GLOSSARY_TERMS: GlossaryMeta[] = [
   { slug: 'maryam',       term: 'مَرْيَم',           transliteration: 'Maryam',        category: 'Quranic Characters', evocativeLine: 'The only woman named by name in the Quran — and her own surah.',              hasFullEntry: true  },
   { slug: 'luqman',       term: 'لُقْمَان',          transliteration: 'Luqman',        category: 'Quranic Characters', evocativeLine: 'The wise man who taught his son by talking, not commanding.',                 hasFullEntry: false },
   { slug: 'dhul-qarnayn', term: 'ذُو ٱلْقَرْنَيْن', transliteration: "Dhul-Qarnayn",  category: 'Quranic Characters', evocativeLine: 'The one of two epochs — a sovereign who served rather than ruled.',            hasFullEntry: false },
-  { slug: 'ayyub',        term: 'أَيُّوب',           transliteration: 'Ayyub',         category: 'Quranic Characters', evocativeLine: "Affliction beyond measure — and a faith that didn't flinch.",                 hasFullEntry: false },
+  { slug: 'ayyub',        term: 'أَيُّوب',           transliteration: 'Ayyub',         category: 'Quranic Characters', evocativeLine: "Affliction beyond measure — and a faith that didn't flinch.",                 hasFullEntry: true },
   { slug: 'iblis',        term: 'إِبْلِيس',          transliteration: 'Iblis',         category: 'Quranic Characters', evocativeLine: 'He knew the truth, refused it — and has spent eternity trying to make others do the same.', hasFullEntry: false },
   { slug: 'firaun',       term: 'فِرْعَوْن',         transliteration: "Fir'awn",       category: 'Quranic Characters', evocativeLine: 'The supreme symbol of arrogance — a man who called himself lord and drowned in the sea.', hasFullEntry: false },
   { slug: 'qarun',        term: 'قَارُون',           transliteration: 'Qarun',         category: 'Quranic Characters', evocativeLine: 'The man of treasures who forgot their source — and was swallowed by the earth.', hasFullEntry: false },
@@ -180,7 +180,7 @@ export const GLOSSARY_TERMS: GlossaryMeta[] = [
   { slug: 'yusuf',        term: 'يُوسُف',            transliteration: 'Yusuf',         category: 'Quranic Characters', evocativeLine: 'Thrown into a well, sold, imprisoned — and still the most beautiful of stories.', hasFullEntry: true },
   { slug: 'ibrahim',      term: 'إِبْرَاهِيم',       transliteration: 'Ibrahim',       category: 'Quranic Characters', evocativeLine: "The friend of Allah — who broke the idols, walked into the fire, and didn't flinch.", hasFullEntry: true },
   { slug: 'musa',         term: 'مُوسَىٰ',           transliteration: 'Musa',          category: 'Quranic Characters', evocativeLine: 'Called from a burning bush, raised in the palace of his enemy — the most mentioned prophet.', hasFullEntry: true },
-  { slug: 'isa',          term: 'عِيسَىٰ',           transliteration: "'Isa",          category: 'Quranic Characters', evocativeLine: "Born without a father, spoke as an infant, and did not die as the world believes.", hasFullEntry: false },
+  { slug: 'isa',          term: 'عِيسَىٰ',           transliteration: "'Isa",          category: 'Quranic Characters', evocativeLine: "Born without a father, spoke as an infant, and did not die as the world believes.", hasFullEntry: true },
   { slug: 'nuh',          term: 'نُوح',              transliteration: 'Nuh',           category: 'Quranic Characters', evocativeLine: "950 years of calling — and his own son refused the ark.",                         hasFullEntry: true },
   { slug: 'dawud',        term: 'دَاوُود',           transliteration: 'Dawud',         category: 'Quranic Characters', evocativeLine: 'The king who sang to Allah — given wisdom, a kingdom, and the Psalms.',           hasFullEntry: false },
   { slug: 'sulayman',     term: 'سُلَيْمَان',        transliteration: 'Sulayman',      category: 'Quranic Characters', evocativeLine: 'The sovereign of wind, jinn, and birds — whose prayer was a greater gift than the kingdom.', hasFullEntry: false },
@@ -7490,6 +7490,175 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
     relatedTerms: [
       { slug: 'sabr',  transliteration: 'Sabr',  term: 'صَبْر'  },
       { slug: 'shukr', transliteration: 'Shukr', term: 'شُكْر' },
+    ],
+    hasFullEntry: true,
+  },
+
+  'isa': {
+    slug: 'isa',
+    term: 'عِيسَىٰ',
+    transliteration: "Isa",
+    pronunciation: 'ee-SAA',
+    category: 'Quranic Characters',
+    evocativeLine: "Born without a father, spoke as an infant, ascended without dying — the Quran's most contested prophet.",
+    summary: "Isa ibn Maryam — Jesus son of Mary — is the only prophet the Quran discusses whose nature has been the central point of theological dispute across three world religions. The Quran's position is precise and unambiguous: Isa is a prophet and messenger, the son of Maryam, born without a human father by divine command, granted extraordinary signs, and a servant of Allah who did not die on the cross but was raised to Allah and will return before the end of time.\n\nThe Quran gives Isa multiple extraordinary designations: Kalimatullah (word of Allah — because he came into being through the divine word 'Be'), Ruhullah (spirit from Allah — a spirit created by Allah), al-Masih (the Messiah — the anointed one). These titles, the Quran insists, do not make Isa divine — they describe the nature of his creation and his mission. Adam was also created without a father. The creation of Isa was a sign, just as the creation of Adam was a sign. Neither miracle of creation implies divinity.\n\nThe Quran's extended treatment of Isa across multiple surahs — his birth announced to Maryam, his speech as an infant in the cradle, his miracles, his mission, the dispute about the cross, and his eventual return — reflects how central the question of Isa's nature is to the Quran's theological project. The Quran is not dismissing Christianity; it is in active dialogue with it, affirming what it affirms, correcting what it regards as deviation.",
+    root: {
+      letters: 'ع ي س',
+      transliteration: "'y-s",
+      meaning: 'A proper name — from the Aramaic Yeshu or Hebrew Yeshua: Allah saves',
+      elaboration: "Isa is the Quranic form of the name Yeshua (Jesus in Greek transliteration). The original name in Aramaic — Yeshu or Yeshua — means Allah saves, or Allah is salvation. The Quran does not etymologize the name but the meaning is embedded in the mission: Isa comes as a mercy (19:21), as a sign to humanity, and his message is the same message all prophets carried: worship Allah alone.",
+    },
+    rootForms: [
+      { arabic: 'عِيسَىٰ', transliteration: "'Īsā", type: 'Proper noun', meaning: 'The Prophet Isa (Jesus)', approxCount: 25, verified: false },
+      { arabic: 'الْمَسِيح', transliteration: 'al-Masīh', type: 'Title', meaning: 'The Messiah — the anointed one', approxCount: 11, verified: false },
+    ],
+    occurrenceCount: 25,
+    occurrenceNote: "Isa is named 25 times in the Quran. He is described by several titles: Masih (Messiah), Kalimatullah (word of Allah), and Ibn Maryam (son of Mary — which is itself how the Quran most frequently refers to him: Isa ibn Maryam). The frequency of his mention across surahs from Meccan to Medinan periods shows the centrality of the question of his nature to the Quranic theological project.",
+    keyAyahs: [
+      {
+        ref: 'Maryam 19:30-31',
+        arabic: 'قَالَ إِنِّي عَبْدُ اللَّهِ آتَانِيَ الْكِتَابَ وَجَعَلَنِي نَبِيًّا وَجَعَلَنِي مُبَارَكًا أَيْنَ مَا كُنتُ وَأَوْصَانِي بِالصَّلَاةِ وَالزَّكَاةِ مَا دُمْتُ حَيًّا',
+        translation: "He said: Indeed, I am a servant of Allah. He has given me the Book and made me a prophet. And He has made me blessed wherever I am and directed me to prayer and zakah as long as I remain alive.",
+        note: "Isa's first words — spoken as a newborn infant in the cradle. His first self-identification: abd Allah — servant of Allah. Not son of God, not God — abd. This is the Quran's theological declaration through Isa's own mouth. The miracle of infant speech exists not primarily to prove Isa's supernatural nature, but to clarify it: he announces his own servanthood.",
+      },
+      {
+        ref: 'Al Imran 3:59',
+        arabic: 'إِنَّ مَثَلَ عِيسَىٰ عِندَ اللَّهِ كَمَثَلِ آدَمَ ۖ خَلَقَهُ مِن تُرَابٍ ثُمَّ قَالَ لَهُ كُن فَيَكُونُ',
+        translation: "Indeed, the example of Isa, in the sight of Allah, is like that of Adam. He created him from dust, then said to him: Be — and he was.",
+        note: "The definitive Quranic argument about the nature of Isa's creation. If the absence of a human father makes Isa divine, then Adam — who had neither father nor mother — would be more divine. The miracle of creation without conventional means does not imply divinity; Allah creates as He wills. The argument is not dismissive of Isa's greatness; it is a clarification of where that greatness lies.",
+      },
+      {
+        ref: 'An-Nisa 4:157-158',
+        arabic: 'وَمَا قَتَلُوهُ وَمَا صَلَبُوهُ وَلَٰكِن شُبِّهَ لَهُمْ ۚ وَإِنَّ الَّذِينَ اخْتَلَفُوا فِيهِ لَفِي شَكٍّ مِّنْهُ ۚ بَل رَّفَعَهُ اللَّهُ إِلَيْهِ',
+        translation: "And they did not kill him, nor did they crucify him; but it was made to appear so to them. And those who differ over it are in doubt about it. But rather, Allah raised him to Himself.",
+        note: "The Quran's explicit denial of the crucifixion in the way it is understood — that Isa died. The precise mechanism (shubbiha lahum — it was made to appear so to them) is among the most discussed in classical and modern Islamic scholarship. The theological point is clear: Isa was raised to Allah and lives. He will return before the end of time, descend, and complete his mission.",
+      },
+    ],
+    semanticField: [
+      {
+        slug: 'maryam',
+        arabic: 'مَرْيَم',
+        transliteration: 'Maryam',
+        relationship: 'parallels',
+        relationshipLabel: "His mother — the only woman named in the Quran",
+        description: "Isa and Maryam are inseparable in the Quranic narrative. He is consistently called Ibn Maryam (son of Mary) — a designation that foregrounds his humanity and his specific lineage. Maryam's extraordinary devotion is the preparation for Isa's extraordinary birth. Mother and son together form the Quran's most extended portrait of prophetic birth.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: "Affirm what the Quran affirms, without addition or subtraction", arabic: "اعْتِقَاد", arabicTranslit: "iʿtiqād", description: "Isa is a mighty prophet with extraordinary signs. He is Kalimatullah and Ruhullah. He is al-Masih. He will return. All of this is Islamic belief. What is not Islamic belief is that he is divine, that he died for sins, or that he is the son of God in the theological sense. The Muslim's position on Isa requires both affirming his extraordinary status and maintaining the clarity of tawhid." },
+        { number: 2, title: "Engage the question with wisdom and sincerity", arabic: "حِكْمَة", arabicTranslit: "hikmah", description: "Questions about Isa are among the most frequent in interfaith encounter. The Muslim's engagement should be neither dismissive nor apologetic — it should be clear, warm, and theologically grounded. The Quran's approach to Isa is itself a model: immense respect for the prophet, firm theological clarity about his nature." },
+      ],
+      stations: [
+        { name: "Isa as the miracle of his own birth", description: "The birth narrative in Surah Maryam is among the Quran's most beautiful passages. The angel announces a son; Maryam asks how. The angel says: Your Lord says it is easy for Me — so that We may make him a sign for humanity and a mercy from Us. The purpose of the miracle is not spectacle but mercy and sign." },
+        { name: "Isa as the healer", description: "He heals the blind and the leper, raises the dead, creates a bird from clay — all with the explicit addition: bi-idhni Allah — with the permission of Allah. Every miracle of Isa in the Quran comes with this clause. He is the instrument; Allah is the source. This is not a diminishment; it is the clarification of prophetic honor." },
+        { name: "Isa awaiting his return", description: "The tradition holds that Isa is alive with Allah and will descend near the end of time, break the cross, kill the swine, establish justice, and affirm the religion of Islam. His return is among the major signs of the Hour." },
+      ],
+      questions: [
+        { question: "Why does the Quran call Isa Kalimatullah (word of Allah)?", answer: "Because he came into being through the divine word — Allah said kun (be) and Isa was. The title does not mean that Isa is the logos in the Johannine theological sense. It means his creation was by divine speech, which makes him unique among the prophets (except Adam, whose creation was also by divine command). Kalimatullah describes the mechanism of his creation, not his ontological status." },
+        { question: "What is the Islamic understanding of the cross?", answer: "The Quran denies that Isa was killed on the cross in the way the crucifixion narrative describes. What actually happened is not fully specified — shubbiha lahum (it was made to appear so). Classical scholars offered various interpretations: a substitute was crucified in his place; Allah transformed one of his enemies to look like him. The theological conclusion is certain: Isa was not killed; he was raised to Allah." },
+      ],
+    },
+    scholarsSaid: [
+      { scholar: "Ibn al-Qayyim", source: "Hidayat al-Hayara", text: "Isa ibn Maryam is the servant of Allah and His messenger, born of a virgin by divine power, granted extraordinary signs, raised to Allah before the enemies could reach him, and destined to return before the end of time. The Quran's clarity about his nature is a mercy — it prevents both the excess of deification and the ingratitude of denial." },
+      { scholar: "Al-Tabari", source: "Tafsir al-Tabari on 4:157", text: "The meaning of shubbiha lahum is that a likeness of Isa was made to appear to those who sought to kill him, so that they crucified that likeness believing it to be him. Allah raised Isa before any of this occurred." },
+    ],
+    hadith: [
+      { text: "I am the closest of people to Isa ibn Maryam in this world and the next. The prophets are brothers from different mothers; their religion is one, and there was no prophet between him and me.", source: "Sahih al-Bukhari" },
+    ],
+    acrossTransitions: "The figure of Isa is the most theologically charged interface between Islam and Christianity. The Quran engages with Christian beliefs about Isa directly and persistently — affirming his prophethood, his miracles, his virgin birth, his title as Messiah, while denying his divinity, the Trinity, and the crucifixion as salvific event.\n\nFor Christians, Jesus is the second person of the Trinity, fully human and fully divine, whose death and resurrection are the hinge of salvation history. The Quran's Isa is not this figure — he is a mighty prophet, the penultimate prophet before Muhammad ﷺ, whose message was tawhid.\n\nIn Jewish tradition, Jesus is not a messianic figure, and the Messiah has not yet come. The Islamic understanding positions Isa as a prophet who was sent to the Children of Israel with a message confirming the Torah and announcing the coming of the final prophet (61:6).\n\nIn Islamic eschatology, Isa's return is a central event. He will descend, pray behind the Mahdi, break the cross (symbolically dismantling the distortion of his message), and live on earth for a period before dying a natural death. The tradition holds that he will be buried in Madinah, beside the Prophet ﷺ.",
+    goDeeper: [
+      { slug: 'maryam', surahName: 'Maryam', note: "The birth narrative of Isa and his speech from the cradle affirming his servanthood" },
+      { slug: 'al-imran', surahName: 'Ali Imran', note: "Extended theological engagement with Christian beliefs about Isa, including the comparison with Adam (3:59)" },
+    ],
+    relatedTerms: [
+      { slug: 'maryam',  transliteration: 'Maryam',  term: 'مَرْيَم'   },
+      { slug: 'tawhid',  transliteration: 'Tawhid',  term: 'تَوْحِيد' },
+    ],
+    hasFullEntry: true,
+  },
+
+  'ayyub': {
+    slug: 'ayyub',
+    term: 'أَيُّوب',
+    transliteration: 'Ayyub',
+    pronunciation: 'ay-YOOB',
+    category: 'Quranic Characters',
+    evocativeLine: "Affliction beyond measure — and a faith that did not flinch.",
+    summary: "Ayyub is the prophet of suffering. His mention in the Quran is brief — four times by name — but what is said carries enormous weight. He is struck with severe affliction; he cries out to his Lord; his Lord responds; he is restored. Between the affliction and the restoration is the entirety of what the tradition calls the patience of Ayyub.\n\nThe Quran does not describe the nature of his suffering in detail. The tradition fills this in: bodily illness, the loss of wealth and children, years of destitution, even the alienation of those closest to him. What the Quran emphasizes is the du'a he makes: not a demand, not a complaint against Allah, but a statement: 'Harm has touched me, and You are the Most Merciful of those who show mercy' (21:83). It is not even technically a request. It is a pure act of transparency before Allah — I am in pain, and You are Mercy. The interpretation of what follows is Allah's.\n\nWhat makes Ayyub's patience extraordinary is its duration and its quality. It does not become resentment. It does not become the special self-righteousness of the long-suffering. The tradition describes him as remaining in gratitude, remaining in worship, remaining — throughout — in relationship with the One who had both given and apparently taken away. The restoration that comes is understood as the result not of the suffering itself but of the quality of the soul in it.",
+    root: {
+      letters: 'أ ي ب',
+      transliteration: "'a-y-b",
+      meaning: 'A proper name — possibly from the Hebrew Iyov: where is the father, or one who returns',
+      elaboration: "Ayyub is the Arabic form of the Hebrew Iyov (Job). The name has been variously connected to Semitic roots meaning to return (to Allah), where is my father, or I will be His enemy (suggesting the patience required to hold on in the face of what feels like divine hostility). The Quran simply uses the name without etymologizing it; the story carries all the meaning.",
+    },
+    rootForms: [
+      { arabic: 'أَيُّوب', transliteration: 'Ayyūb', type: 'Proper noun', meaning: 'The Prophet Ayyub (Job)', approxCount: 4, verified: true },
+    ],
+    occurrenceCount: 4,
+    occurrenceNote: "Ayyub is mentioned only four times in the Quran, twice in passages that reference the great prophets collectively (4:163, 6:84) and twice in passages specifically recounting his trial and restoration (21:83-84, 38:41-44). The brevity is not a diminishment — the Quran's compressed treatment is characteristic of its narrative style, leaving space for the tradition to elaborate while establishing the theological essentials.",
+    keyAyahs: [
+      {
+        ref: 'Al-Anbiya 21:83-84',
+        arabic: 'وَأَيُّوبَ إِذْ نَادَىٰ رَبَّهُ أَنِّي مَسَّنِيَ الضُّرُّ وَأَنتَ أَرْحَمُ الرَّاحِمِينَ فَاسْتَجَبْنَا لَهُ فَكَشَفْنَا مَا بِهِ مِن ضُرٍّ',
+        translation: "And Ayyub — when he called to his Lord: Harm has touched me, and You are the Most Merciful of those who show mercy. So We responded to him and removed what afflicted him of harm.",
+        note: "The du'a of Ayyub is one of the most studied prayers in the tradition. Its power lies in what it does not say: it does not demand relief, does not question divine justice, does not propose a bargain. It simply states the reality: I am in pain, and You are mercy. The response is immediate in the Quran's telling: We responded. Allah's response to transparent need placed before pure acknowledgment of His mercy.",
+      },
+      {
+        ref: 'Sad 38:41',
+        arabic: 'وَاذْكُرْ عَبْدَنَا أَيُّوبَ إِذْ نَادَىٰ رَبَّهُ أَنِّي مَسَّنِيَ الضُّرُّ وَأَنتَ أَرْحَمُ الرَّاحِمِينَ',
+        translation: "And remember Our servant Ayyub — when he called to his Lord: Harm has touched me, and You are the Most Merciful of those who show mercy.",
+        note: "The command to remember Ayyub is given to the Prophet ﷺ during a period of difficulty. The surah Sad was revealed in Makkah when the Prophet ﷺ and the companions were under severe pressure. Allah's instruction is: look at Ayyub. Remember what he bore. Remember what came after. The remembrance of those who suffered and endured is itself medicine.",
+      },
+    ],
+    semanticField: [
+      {
+        slug: 'sabr',
+        arabic: 'صَبْر',
+        transliteration: 'Sabr',
+        relationship: 'deepens',
+        relationshipLabel: "The patience of Ayyub — the definitive example",
+        description: "In Arabic and Islamic culture, the phrase sabr Ayyub (the patience of Ayyub) is the idiom for the most tested and sustained endurance. His name has become synonymous with the quality. The Quran calls him as having sabr (38:44) and the Quran's instruction to remember him is an instruction to draw on the example of tested patience.",
+      },
+      {
+        slug: 'tawakkul',
+        arabic: 'تَوَكُّل',
+        transliteration: 'Tawakkul',
+        relationship: 'deepens',
+        relationshipLabel: 'Reliance that holds through extended affliction',
+        description: "Ayyub's tawakkul is unique in that it is maintained not in a moment of crisis but across years of suffering. A single test of tawakkul is demanding; the test that endures across time, with no visible sign of relief, is the deeper test. Ayyub passes it by continuing to place his reality before Allah without bitterness or bargaining.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: "Name the pain without complaint against Allah", arabic: "صِدْق", arabicTranslit: "ṣidq", description: "Ayyub's du'a is a model: he names his suffering without pretending it is not real, and without framing it as divine injustice. Harm has touched me — honest acknowledgment. And You are the Most Merciful — firm confidence in divine character. This combination is the key: transparency about pain plus trust in divine mercy." },
+        { number: 2, title: "Remain in worship throughout", arabic: "عِبَادَة", arabicTranslit: "ʿibādah", description: "Tradition holds that Ayyub continued in his dhikr and worship throughout his suffering. This is the hard practice: maintaining the rhythm of the relationship with Allah even when every external indicator suggests the relationship is not working. The maintenance of worship through suffering is itself the proof of its depth." },
+        { number: 3, title: "Do not make comparisons", arabic: "قَنَاعَة", arabicTranslit: "qanāʿah", description: "The suffering of Ayyub was uniquely intense. But the lesson of his story is not that one must suffer to this degree to be valid. Every person's test is uniquely proportioned to them. What is universal is the posture: wherever the affliction places you, maintain your relationship with Allah without resentment." },
+      ],
+      stations: [
+        { name: "The onset of affliction", description: "Things that were given are taken: health, wealth, family, social standing. The first test is not the suffering itself but the response to it. Does the loss of what was given change the relationship with the Giver?" },
+        { name: "The extended middle", description: "The years of continuing affliction with no visible change. This is the station that tests the depth of the relationship. Ayyub remains. He does not attribute injustice to Allah. He continues." },
+        { name: "The restoration", description: "Allah restores — family, health, provision, and more than what was taken. This is not the point of the story. The point is the middle. But the restoration shows that the Quranic pattern holds: the darkness before the light, the descent before the ascent." },
+      ],
+      questions: [
+        { question: "Is it allowed to ask Allah to relieve suffering?", answer: "Yes. Ayyub's du'a is itself the model for this — he places his pain before Allah. What is not done is demanding relief as if it is owed, or becoming bitter when it does not come on one's preferred timeline. The du'a of Ayyub is a transparent statement of need before a merciful Lord, not a transaction." },
+        { question: "What does it mean that Allah praised Ayyub's patience?", answer: "The Quran calls Ayyub a good servant who was always turning back to Allah (38:44). The patience is not just enduring — it is enduring while remaining in relationship. A person can endure suffering in silence and bitterness. Ayyub's sabr is different: it is suffering while remaining turned toward the One who could relieve it, without losing confidence in His mercy." },
+      ],
+    },
+    scholarsSaid: [
+      { scholar: "Ibn al-Qayyim", source: "Zad al-Ma'ad", text: "The patience of Ayyub is the standard against which patience is measured in the Islamic tradition. He bore what no others bore, for as long as no others bore it, without attributing injustice to his Lord or bitterness toward his condition. The restoration that followed was the divine response to a heart that had maintained its orientation through the longest test." },
+    ],
+    hadith: [
+      { text: "The most severely tested people are the prophets, then those closest to them, then those closest to them. A person is tested according to the strength of their religion — if their religion is strong, their trial is intensified.", source: "Sunan al-Tirmidhi — Sahih" },
+    ],
+    acrossTransitions: "Ayyub's story has the most direct parallel in the Bible: the Book of Job is one of the most philosophically sophisticated texts in the Hebrew Bible, structured as a debate about why the righteous suffer. Job's friends insist suffering must be the result of sin; Job maintains his innocence; God's response from the whirlwind affirms Job's integrity without fully explaining the suffering. The Quran's Ayyub does not contain the philosophical debate — it goes directly to the du'a and the response. The Islamic framework does not require an explanation for suffering; it provides a posture for enduring it.\n\nIn Christian spirituality, Job is often read through the lens of Christ's suffering — the innocent who suffers for purposes beyond himself. The Sufi tradition found in Ayyub's story the perfection of rida (contentment with divine decree): not passive acceptance but active peace with whatever Allah has ordained.\n\nIn ordinary Muslim life, the name Ayyub has become a cultural touchstone for any extended trial. Parents name children Ayyub as a prayer for the child's character. The phrase sabr Ayyub is offered as consolation to those who suffer: even the prophet of patience suffered this much — and he was not forgotten.",
+    goDeeper: [
+      { slug: 'al-anbiya', surahName: "Al-Anbiya'", note: "Contains the du'a of Ayyub (21:83-84) — the definitive model of transparent prayer in affliction" },
+      { slug: 'sad', surahName: 'Sad', note: "The second Quranic account of Ayyub's trial, commanding the Prophet ﷺ to remember his servant" },
+    ],
+    relatedTerms: [
+      { slug: 'sabr',     transliteration: 'Sabr',     term: 'صَبْر'    },
+      { slug: 'tawakkul', transliteration: 'Tawakkul', term: 'تَوَكُّل' },
     ],
     hasFullEntry: true,
   },
