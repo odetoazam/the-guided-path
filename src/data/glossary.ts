@@ -170,7 +170,7 @@ export const GLOSSARY_TERMS: GlossaryMeta[] = [
   // ── Quranic Characters ───────────────────────────────────────────────────────
   { slug: 'maryam',       term: 'مَرْيَم',           transliteration: 'Maryam',        category: 'Quranic Characters', evocativeLine: 'The only woman named by name in the Quran — and her own surah.',              hasFullEntry: true  },
   { slug: 'luqman',       term: 'لُقْمَان',          transliteration: 'Luqman',        category: 'Quranic Characters', evocativeLine: 'The wise man who taught his son by talking, not commanding.',                 hasFullEntry: true },
-  { slug: 'dhul-qarnayn', term: 'ذُو ٱلْقَرْنَيْن', transliteration: "Dhul-Qarnayn",  category: 'Quranic Characters', evocativeLine: 'The one of two epochs — a sovereign who served rather than ruled.',            hasFullEntry: false },
+  { slug: 'dhul-qarnayn', term: 'ذُو ٱلْقَرْنَيْن', transliteration: "Dhul-Qarnayn",  category: 'Quranic Characters', evocativeLine: 'The one of two epochs — a sovereign who served rather than ruled.',            hasFullEntry: true },
   { slug: 'ayyub',        term: 'أَيُّوب',           transliteration: 'Ayyub',         category: 'Quranic Characters', evocativeLine: "Affliction beyond measure — and a faith that didn't flinch.",                 hasFullEntry: true },
   { slug: 'iblis',        term: 'إِبْلِيس',          transliteration: 'Iblis',         category: 'Quranic Characters', evocativeLine: 'He knew the truth, refused it — and has spent eternity trying to make others do the same.', hasFullEntry: true },
   { slug: 'firaun',       term: 'فِرْعَوْن',         transliteration: "Fir'awn",       category: 'Quranic Characters', evocativeLine: 'The supreme symbol of arrogance — a man who called himself lord and drowned in the sea.', hasFullEntry: true },
@@ -183,7 +183,7 @@ export const GLOSSARY_TERMS: GlossaryMeta[] = [
   { slug: 'isa',          term: 'عِيسَىٰ',           transliteration: "'Isa",          category: 'Quranic Characters', evocativeLine: "Born without a father, spoke as an infant, and did not die as the world believes.", hasFullEntry: true },
   { slug: 'nuh',          term: 'نُوح',              transliteration: 'Nuh',           category: 'Quranic Characters', evocativeLine: "950 years of calling — and his own son refused the ark.",                         hasFullEntry: true },
   { slug: 'dawud',        term: 'دَاوُود',           transliteration: 'Dawud',         category: 'Quranic Characters', evocativeLine: 'The king who sang to Allah — given wisdom, a kingdom, and the Psalms.',           hasFullEntry: true },
-  { slug: 'sulayman',     term: 'سُلَيْمَان',        transliteration: 'Sulayman',      category: 'Quranic Characters', evocativeLine: 'The sovereign of wind, jinn, and birds — whose prayer was a greater gift than the kingdom.', hasFullEntry: false },
+  { slug: 'sulayman',     term: 'سُلَيْمَان',        transliteration: 'Sulayman',      category: 'Quranic Characters', evocativeLine: 'The sovereign of wind, jinn, and birds — whose prayer was a greater gift than the kingdom.', hasFullEntry: true },
   { slug: 'yunus',        term: 'يُونُس',            transliteration: 'Yunus',         category: 'Quranic Characters', evocativeLine: "The prophet who left before permission — and called from the belly of the deep.",  hasFullEntry: true },
 
   // ── Nations & Peoples ────────────────────────────────────────────────────────
@@ -8564,4 +8564,194 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
     ],
     hasFullEntry: true,
   },
+
+  'sulayman': {
+    slug: 'sulayman',
+    term: 'سُلَيْمَانُ',
+    transliteration: 'Sulaymān',
+    pronunciation: 'soo-lay-MAAN',
+    category: 'Quranic Characters',
+    evocativeLine: 'Winds obeyed him and jinn served him — yet his greatest word was: this is the favor of my Lord, to test me.',
+    summary: "Sulayman is the Quran's most abundantly gifted prophet-king: control over the wind, subjugation of the jinn to his service, the ability to speak the language of birds (ullima mantiq al-tayr), flowing copper springs, and a kingdom that Allah specifies will belong to no one after him. He is Dawud's son and heir, and the dynasty of father and son represents the Quran's fullest portrait of prophetic sovereignty.\n\nWhat is theologically remarkable about Sulayman is how his abundance becomes a vehicle for gratitude rather than arrogance. When the throne of Bilqis is brought before him in the blink of an eye, his immediate response is not triumph but recognition: 'This is from the favor of my Lord — to test me whether I am grateful or ungrateful' (27:40). Power, for Sulayman, is always conditional gift, always occasion for shukr, always reminder of the Giver. This is the Quran's answer to what happens to a prophet given everything: the gift intensifies consciousness of the Giver.\n\nSulayman's story also contains one of the Quran's most distinctive images of death: he dies leaning on his staff while the jinn continue working, not realizing he is gone. Only when a termite (dabbat al-ard — creature of the earth) eats through his staff and he falls does it become clear he is dead. The jinn that had been laboring under the assumption he was watching had worked in vain. The Quran's comment: 'If they had known the unseen, they would not have continued in the humiliating labor' (34:14). Even the most powerful king dies — and the unseen remains known only to Allah.",
+    root: {
+      letters: 'س ل م',
+      transliteration: 's-l-m',
+      meaning: 'peace, wholeness, submission, safety',
+      elaboration: "Sulayman shares its root with Islam, Muslim, salaam, and taslim — the root that defines the entire tradition. The name is the Arabic form of the Hebrew Shlomo (Solomon), from the same Semitic root meaning peace/wholeness. His name contains the tradition's defining concept: submission and peace as the ground of prophetic life. His kingdom was built on this foundation; his wars, when fought, were in its service.",
+    },
+    rootForms: [
+      { arabic: 'سُلَيْمَان', transliteration: 'Sulaymān', type: 'Proper noun', meaning: 'The Prophet Sulayman (Solomon)', approxCount: 17, verified: false },
+    ],
+    occurrenceCount: 17,
+    occurrenceNote: "Sulayman is named 17 times in the Quran across numerous surahs. He appears alongside his father Dawud in Al-Anbiya (21:78-82) and Al-Naml (27:15), in the context of magic and false accusations in Al-Baqarah (2:102), in detail in Al-Naml (27:15-44) covering the hoopoe and Bilqis, in Saba (34:12-14) covering the jinn labor and his death, in Sad (38:30-40) covering his trial with horses and his prayer for unique kingdom, and in shorter mentions across Al-An'am, Al-Nisa, Bani Isra'il, Al-Kahf, and others.",
+    keyAyahs: [
+      {
+        ref: "Al-Naml 27:40",
+        arabic: "هَٰذَا مِن فَضْلِ رَبِّي لِيَبْلُوَنِي أَأَشْكُرُ أَمْ أَكْفُرُ ۖ وَمَن شَكَرَ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِ ۖ وَمَن كَفَرَ فَإِنَّ رَبِّي غَنِيٌّ كَرِيمٌ",
+        translation: "This is from the favor of my Lord — to test me whether I am grateful or ungrateful. And whoever is grateful — his gratitude is only for himself. And whoever is ungrateful — indeed, my Lord is Free of need and Generous.",
+        note: "The defining ayah of Sulayman's character. The throne of Bilqis has been transported across vast distances in less than a blink. Rather than savoring the miracle or taking credit for the power of his kingdom, Sulayman's first response is theological clarity: this is from Allah, it is a test, and the test is shukr vs. kufr. The observation that gratitude benefits only the one who gives it — while Allah is ghani (free of all need) and karim (generous) — is one of the Quran's most precise statements about the nature of shukr.",
+      },
+      {
+        ref: "Sad 38:35",
+        arabic: "قَالَ رَبِّ اغْفِرْ لِي وَهَبْ لِي مُلْكًا لَّا يَنبَغِي لِأَحَدٍ مِّن بَعْدِي ۖ إِنَّكَ أَنتَ الْوَهَّابُ",
+        translation: "He said: My Lord, forgive me and grant me a kingdom such as will not belong to anyone after me. Indeed, You are al-Wahhab — the Giver of gifts.",
+        note: "Sulayman's prayer is audacious: he asks for a kingdom unique in all of human history. Allah grants it. The address — al-Wahhab, the one who gives freely and abundantly — is itself a theological statement: the kingdom is not seized or earned, it is a gift (hiba) from the Giver of all gifts. That Sulayman prefaces the request with 'forgive me' reminds us that even the greatest prophets approach Allah through tawbah before asking for gifts.",
+      },
+      {
+        ref: "Al-Naml 27:18-19",
+        arabic: "حَتَّىٰ إِذَا أَتَوْا عَلَىٰ وَادِ النَّمْلِ قَالَتْ نَمْلَةٌ يَا أَيُّهَا النَّمْلُ ادْخُلُوا مَسَاكِنَكُمْ لَا يَحْطِمَنَّكُمْ سُلَيْمَانُ وَجُنُودُهُ وَهُمْ لَا يَشْعُرُونَ فَتَبَسَّمَ ضَاحِكًا مِّن قَوْلِهَا",
+        translation: "Until, when they came upon the valley of the ants, an ant said: O ants, enter your dwellings that Sulayman and his armies not crush you while they do not perceive. So Sulayman smiled, amused at her speech.",
+        note: "One of the Quran's most unexpected scenes: a vast royal army, moving in power and splendor, passes over an ant valley — and an ant gives a warning that includes a concession of good faith to Sulayman: 'while they do not perceive.' She does not accuse the army of malice; she recognizes they might simply not notice. Sulayman hears this, smiles, and prays. This is the characteristic movement: power encounters smallness, power pauses, power becomes gratitude. The ant's speech — like the birds' speech — is real in the Quranic narrative, not metaphorical.",
+      },
+      {
+        ref: "Saba 34:12-13",
+        arabic: "وَلِسُلَيْمَانَ الرِّيحَ غُدُوُّهَا شَهْرٌ وَرَوَاحُهَا شَهْرٌ ۖ وَأَسَلْنَا لَهُ عَيْنَ الْقِطْرِ ۖ وَمِنَ الْجِنِّ مَن يَعْمَلُ بَيْنَ يَدَيْهِ بِإِذْنِ رَبِّهِ",
+        translation: "And for Sulayman We subjected the wind — its morning journey was a month and its evening journey was a month. And We caused a spring of copper to flow for him. And of the jinn were those who worked before him by the permission of his Lord.",
+        note: "The scale of Sulayman's gifts is made vivid through concrete measurement: a journey of a month's distance in a morning. A spring of liquid copper — extraordinary industrial provision. The jinn working by the permission of Allah — not by magic, not through bargain or compromise, but bi-idhni Rabbihi. The prophetic kingdom is always marked by this phrase: divine permission, not autonomous power.",
+      },
+      {
+        ref: "Saba 34:14",
+        arabic: "فَلَمَّا قَضَيْنَا عَلَيْهِ الْمَوْتَ مَا دَلَّهُمْ عَلَىٰ مَوْتِهِ إِلَّا دَابَّةُ الْأَرْضِ تَأْكُلُ مِنسَأَتَهُ",
+        translation: "And when We decreed for him death, nothing indicated to them his death except a creature of the earth — eating his staff. So when he fell, it became clear to the jinn that if they had known the unseen, they would not have remained in the humiliating labor.",
+        note: "The most ironic death in the Quran. The king who controlled vast supernatural forces dies alone, leaning on a staff, and his death is concealed from powerful jinn — who claim access to hidden knowledge — by a creature too small to be seen. The termite reveals what the jinn could not know. Al-Ghayb (the unseen) belongs to Allah alone. No king, no jinn, no power can penetrate it. This image — the greatest king concealed by the smallest creature — is the Quran's comment on human power and divine mystery.",
+      },
+    ],
+    semanticField: [
+      {
+        slug: 'dawud',
+        arabic: 'دَاوُود',
+        transliteration: 'Dawud',
+        relationship: 'deepens',
+        relationshipLabel: "The prophetic dynasty — gifts multiply in the heir",
+        description: "Sulayman inherits his father Dawud's kingdom and prophetic station, and the Quran treats this inheritance as divinely multiplied rather than merely passed on. Dawud has the birds glorifying; Sulayman has the birds plus the jinn plus the wind. The dynasty is a Quranic image of how righteousness across generations produces amplified divine gift.",
+      },
+      {
+        slug: 'shukr',
+        arabic: 'شُكْر',
+        transliteration: 'Shukr',
+        relationship: 'deepens',
+        relationshipLabel: "Abundance becomes occasion for deepened gratitude",
+        description: "Sulayman's response to every gift is shukr, and his response to the miraculous appearance of Bilqis's throne — 'this is a test whether I am grateful or ungrateful' — makes shukr the lens through which all power and abundance should be understood.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: "Recognize every gift as a test of gratitude", arabic: "شُكْر", arabicTranslit: "shukr", description: "Sulayman's response to the most extraordinary gifts is always to identify them as a test: am I grateful or ungrateful? This is the condition for receiving abundance without being destroyed by it. Every gift that comes to you is first asking: will this make you more conscious of the Giver, or will you forget Him in the possession of the gift?" },
+        { number: 2, title: "Pause power in the presence of smallness", arabic: "تَوَاضُع", arabicTranslit: "tawāḍuʿ", description: "Sulayman smiles and prays when he hears the ant. An army paused by an ant's speech — this is the condition of prophetic leadership. Power that cannot notice the small, cannot hear those with no voice, cannot pause its march to consider those who might be crushed — that power is not Quranic. Sulaymanic leadership is always capable of being humbled by the small." },
+        { number: 3, title: "Invoke al-Wahhab when asking for great things", arabic: "وَهَّاب", arabicTranslit: "Wahhāb", description: "When Sulayman asks for an unprecedented kingdom, he addresses Allah as al-Wahhab — the Giver of gifts. This is not manipulation but theological clarity: to call upon al-Wahhab when asking for a gift is to remember that you are not owed it, that what comes is freely given, and that the Giver's generosity is the real source." },
+      ],
+      stations: [
+        { name: "Taught the language of birds", description: "Ullima mantiq al-tayr — he was taught the speech of birds. This gift is the basis of one of the most celebrated texts in Sufi literature (Attar's Conference of the Birds). The ability to understand all languages of creation is the beginning of prophetic sensitivity to the full breadth of divine speech." },
+        { name: "The smile at the ant", description: "The prophet-king smiles at an ant's speech and immediately thanks Allah. This moment — power pausing, becoming humble, becoming grateful — is the distillation of Sulaymanic character. The greatest kingdom in history is characterized by this scene." },
+        { name: "The test of the horses (Sad 38:31-33)", description: "Sulayman becomes so absorbed in watching his beautiful horses that he misses the time of the afternoon prayer. When he realizes, he returns the horses and strikes them. Classical commentators debate the exact nature of this event, but the narrative presents it as a trial in which even prophetic love of beauty can distract from worship — and the righteous response is immediate self-correction." },
+      ],
+      questions: [
+        { question: "Was Sulayman a magician? Surah Al-Baqarah mentions magic in connection with him.", answer: "No. Al-Baqarah 2:102 explicitly clears Sulayman: 'Sulayman did not disbelieve, but the devils disbelieved, teaching people magic.' The verse states that it was the jinn (shayatin) who spread magic and falsely attributed it to Sulayman's reign. The Quran explicitly exonerates him. His control over the jinn was by divine command (bi-idhni Rabbihi), not through occult practice." },
+        { question: "Why did Sulayman pray for a unique kingdom — isn't that arrogant?", answer: "Classical scholars note that this prayer (38:35) was preceded by 'forgive me,' establishing humility before asking. The prayer itself is for a mulk — a kingdom — given as a divine gift (hiba), not seized or earned. Scholars also note that Sulayman's motivation, as shown throughout his story, was to use power for the establishment of justice, worship of Allah, and invitation of others (like Bilqis) to tawhid. The uniqueness of the kingdom became a unique vehicle for prophetic service." },
+        { question: "What is the significance of the jinn not knowing Sulayman had died?", answer: "This is the Quran's sharpest commentary on the claim that jinn or supernatural beings know the ghayb (unseen). The jinn had worked tirelessly under the assumption that Sulayman was alive and watching. A tiny termite revealed what they could not know. The lesson is theological: Al-Ghayb belongs to Allah alone. No creature — human, jinn, or otherwise — has independent access to the unseen. Those who claim to do so are false." },
+      ],
+    },
+    scholarsSaid: [
+      { scholar: "Ibn Qayyim al-Jawziyya", source: "Madarij al-Salikin", text: "The story of Sulayman contains the fullest Quranic portrait of gratitude under abundance. He is given more than any king in history — and his response to each gift is not self-congratulation but theological recognition: this is from my Lord, to test me. Shukr, for Sulayman, is not a feeling but a constant orientation of consciousness toward the Giver." },
+    ],
+    hadith: [],
+    acrossTransitions: "Solomon is among the most storied figures in all of religious history. In the Hebrew Bible, he is the son of David and Bathsheba, the builder of the First Temple in Jerusalem, the author of Proverbs, Ecclesiastes, and the Song of Songs, and the legendary possessor of extraordinary wisdom. His encounter with the Queen of Sheba (1 Kings 10) and his eventual turn toward the gods of his foreign wives (1 Kings 11) are central to the biblical narrative.\n\nIn Islamic tradition, the biblical turn toward other gods does not appear — Sulayman remains a prophet throughout his life, and his kingdom is a vehicle for tawhid. The figure of Sulayman inspired enormous later literature: in Sufi tradition (most famously Attar's Conference of the Birds), the image of one taught the language of birds becomes an allegory for the spiritual path itself. In folk traditions across the Islamic world, Solomon's ring (khātam Sulayman) and his seal became symbols of supernatural authority. The Quran's Sulayman, however, is always simpler and more theologically grounded than these later elaborations: a prophet who had everything and recognized it as divine gift.",
+    goDeeper: [
+      { slug: 'al-naml', surahName: 'Al-Naml', note: "Sulayman's encounter with the hoopoe, his letter to Bilqis, the transported throne, and his response of gratitude" },
+      { slug: 'saba', surahName: "Saba'", note: "The jinn working for Sulayman, the flowing copper spring, and his remarkable death concealed by a termite" },
+      { slug: 'sad', surahName: "Sad", note: "Sulayman's prayer for an unprecedented kingdom, his trial with the horses, and the wind given to him" },
+    ],
+    relatedTerms: [
+      { slug: 'dawud',  transliteration: 'Dawud',  term: 'دَاوُود' },
+      { slug: 'bilqis', transliteration: 'Bilqis', term: 'بِلْقِيس' },
+      { slug: 'shukr',  transliteration: 'Shukr',  term: 'شُكْر'  },
+    ],
+    hasFullEntry: true,
+  },
+
+  'dhul-qarnayn': {
+    slug: 'dhul-qarnayn',
+    term: 'ذُو الْقَرْنَيْنِ',
+    transliteration: "Dhū al-Qarnayn",
+    pronunciation: "dhool al-qar-NAYN",
+    category: 'Quranic Characters',
+    evocativeLine: 'He reached the ends of the earth and refused payment — all he built was by the mercy of his Lord.',
+    summary: "Dhul-Qarnayn — 'the one of two horns' — appears in Surah Al-Kahf (18:83-98) in response to a question posed to the Prophet Muhammad by people who knew of this figure from earlier tradition. The Quran grants him the status of a righteous sovereign given the means to accomplish great things, but his identity is left unnamed and his precise historical counterpart is a matter of ongoing scholarly discussion.\n\nHis Quranic story unfolds across three journeys. West: to the muddy spring where the sun appears to set, where he finds a people and is given the choice to either punish or show them goodness — he chooses a middle path of justice. East: to the place where the sun rises, where a people live exposed to its heat with no shelter. North: between two mountains, where a people who have no understanding of his language plead with him to build a barrier against Gog and Magog (Ya'juj wa Ma'juj) — destructive forces that cannot be stopped by ordinary means. He agrees, refuses payment, and constructs a massive barrier of iron and molten copper. His verdict on completion: 'This is a mercy from my Lord.'\n\nWhat defines the Quranic Dhul-Qarnayn is not his power — which is vast — but his orientation. He refuses payment. He attributes his abilities to divine provision. When the barrier is complete, he credits Allah's mercy, then adds: 'When the promise of my Lord comes, He will level it to the ground. The promise of my Lord is ever true.' Power in the Quran always knows it is temporary. The righteous sovereign uses what he has been given, refuses to exploit his position, and remembers that even his greatest achievements will eventually be undone by divine decree.",
+    root: {
+      letters: 'ق ر ن',
+      transliteration: 'q-r-n',
+      meaning: 'horn, era, generation, contemporary',
+      elaboration: "The word qarn in Arabic can mean a horn (the animal appendage, the shape, or the symbol of power and authority); an era or generation; or a companion/contemporary. 'Dhul-Qarnayn' most naturally means 'the one of two horns' — widely understood as either one who reached the two horns (ends) of the earth, one who lived across two eras, or one who wore a crown with two horns as a symbol of authority. The Quran does not clarify the meaning, leaving the epithet deliberately evocative.",
+    },
+    rootForms: [
+      { arabic: 'ذُو الْقَرْنَيْنِ', transliteration: 'Dhū al-Qarnayn', type: 'Epithet / title', meaning: 'He of two horns / two eras / two ends', approxCount: 3, verified: false },
+      { arabic: 'قَرْن', transliteration: 'qarn', type: 'Noun', meaning: 'Horn; century/generation; era', approxCount: 6, verified: false },
+    ],
+    occurrenceCount: 3,
+    occurrenceNote: "The name Dhul-Qarnayn appears 3 times in Surah Al-Kahf (18:83, 18:86, 18:94). His entire Quranic story is contained within this surah — a surah itself structured around four stories (the Companions of the Cave, the man with two gardens, Musa and al-Khidr, and Dhul-Qarnayn) each involving a form of divine provision and human limitation.",
+    keyAyahs: [
+      {
+        ref: "Al-Kahf 18:84-85",
+        arabic: "إِنَّا مَكَّنَّا لَهُ فِي الْأَرْضِ وَآتَيْنَاهُ مِن كُلِّ شَيْءٍ سَبَبًا فَأَتْبَعَ سَبَبًا",
+        translation: "Indeed, We established him in the earth and gave him of everything a means — so he followed a way.",
+        note: "The opening description is remarkable in its simplicity: Allah established him (tamkeen), gave him a means to everything, and he followed the path. This is the entire framework of the story. He is a receiver of provision, a follower of divine means, not an autonomous conqueror. Makkannā lahū fī al-arḍ (We established him in the earth) is the same language used for other rightly-guided sovereigns. The tools are given; what matters is how they are used.",
+      },
+      {
+        ref: "Al-Kahf 18:95-97",
+        arabic: "قَالَ مَا مَكَّنِّي فِيهِ رَبِّي خَيْرٌ فَأَعِينُونِي بِقُوَّةٍ أَجْعَلْ بَيْنَكُمْ وَبَيْنَهُمْ رَدْمًا",
+        translation: "He said: That in which my Lord has established me is better — but assist me with strength; I will make between you and them a dam.",
+        note: "When offered payment to build the barrier, Dhul-Qarnayn refuses: 'That in which my Lord has established me is better.' He has been given everything by Allah; he needs no payment from a people. But he enlists their labor — 'assist me with strength' — bringing them into participation in the work of their own protection. The dam (radm — which refers to a structure that completely fills a passage) becomes their collective achievement, directed by his authority and their willing cooperation.",
+      },
+      {
+        ref: "Al-Kahf 18:98",
+        arabic: "قَالَ هَٰذَا رَحْمَةٌ مِّن رَّبِّي ۖ فَإِذَا جَاءَ وَعْدُ رَبِّي جَعَلَهُ دَكَّاءَ ۖ وَكَانَ وَعْدُ رَبِّي حَقًّا",
+        translation: "He said: This is a mercy from my Lord. But when the promise of my Lord comes, He will level it to dust — and the promise of my Lord is ever true.",
+        note: "The final speech of Dhul-Qarnayn is a complete theological statement. The barrier is real and effective — but it is temporary. 'The promise of my Lord is ever true' — and that promise includes the eventual dissolution of the barrier as a sign of the Day of Judgment (21:96-97). Even the greatest human achievement is provisional. The righteous sovereign builds without attachment, protects without pride, and remembers that all created barriers eventually yield to divine decree.",
+      },
+    ],
+    semanticField: [
+      {
+        slug: 'al-kahf',
+        arabic: 'الْكَهْف',
+        transliteration: 'Al-Kahf',
+        relationship: 'deepens',
+        relationshipLabel: "Surah Al-Kahf — four stories of power and its limits",
+        description: "Dhul-Qarnayn appears as the fourth of Al-Kahf's four stories, each of which explores a different aspect of divine provision versus human limitation. The Companions of the Cave: physical power of the state cannot touch those protected by Allah. The man with two gardens: wealth and abundance without gratitude leads to loss. Musa and al-Khidr: knowledge has limits. Dhul-Qarnayn: even the greatest sovereignty is bounded by divine decree. Together they form a surah that is traditionally recommended for Friday recitation as protection from the Dajjal — whose claim is precisely that power and wealth and knowledge are absolute.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: "Refuse payment for service done by divine provision", arabic: "زُهْد", arabicTranslit: "zuhd", description: "Dhul-Qarnayn says: 'That in which my Lord has established me is better.' When you have been given provision by Allah, you do not extract payment from those you serve. This is the condition of the righteous sovereign: the awareness that your abilities are divine gifts, not market commodities. Zuhd — ascetic detachment from reward — is not poverty; it is the recognition that divine provision is more valuable than human payment." },
+        { number: 2, title: "Build for protection, not for fame", arabic: "نِيَّة", arabicTranslit: "niyya", description: "The barrier against Gog and Magog is not named after Dhul-Qarnayn. It is not a monument to his greatness. It is a radm — a barrier — built because people needed protection. Intention determines the nature of every project. He builds because they need it, not because it would be impressive. The Quran's righteous sovereign is always building for the people, not for his own legacy." },
+        { number: 3, title: "Acknowledge the temporariness of what you build", arabic: "فَنَاء", arabicTranslit: "fanāʾ", description: "Dhul-Qarnayn completes the greatest engineering project in the Quran and immediately announces that Allah will one day level it to dust. This is not nihilism — the barrier is real and effective in its time. It is theological realism: everything constructed in this world is provisional. The righteous builder builds fully, then holds the building lightly, knowing its ultimate fate." },
+      ],
+      stations: [
+        { name: "The western journey: Justice before the people of the setting sun", description: "Dhul-Qarnayn reaches the muddy spring and finds people. He is given the choice: punish or show goodness. He chooses a middle path — punish the wrongdoer, reward the righteous. Justice, not mere mercy or mere severity, is the mark of Quranic leadership." },
+        { name: "The eastern journey: Compassion for the exposed", description: "He finds people who have no shelter from the sun. The Quran does not say he builds them shelter — his provision for them is noted differently. But the movement of his journey is one of noticing those who suffer and bringing them within the circle of his care." },
+        { name: "The northern journey: The builder who refuses to be paid", description: "The culminating journey. A people who cannot understand his language entreat him through interpreters, offering him tribute. He refuses. He builds the barrier, accomplishes the impossible, and attributes everything to divine mercy. This is the fullness of the station: world-historical achievement held with complete humility." },
+      ],
+      questions: [
+        { question: "Who was Dhul-Qarnayn historically?", answer: "Scholars have proposed several identifications: Cyrus the Great (the Persian king celebrated in the Hebrew Bible as a liberator of the Jews, who matches the profile of a righteous non-Israelite ruler), Alexander the Great (who was depicted with ram's horns on coins and was known in Arabic as Iskandar Dhul-Qarnayn in early tradition), or an otherwise unknown pre-Islamic figure. The Quran does not name him beyond the epithet, and scholarly opinion remains divided. What matters Quranic-ally is not his historical identity but his character: the righteous sovereign given divine means who refuses to exploit his position." },
+        { question: "What are Gog and Magog (Ya'juj wa Ma'juj)?", answer: "Ya'juj wa Ma'juj appear in the Quran as a destructive force that Dhul-Qarnayn contains behind a barrier. They also appear in Surah Al-Anbiya (21:96-97) as figures whose release will be a sign of the approaching Hour. In Islamic eschatology, their barrier will be breached near the end of time, and they will spread destruction across the earth before being destroyed by divine decree. Whether they are a literal people, a metaphor for destructive forces, or a supernatural category is debated in classical and modern scholarship. The Quran treats them as real within its narrative without further elaboration." },
+        { question: "How does Dhul-Qarnayn's story fit into Surah Al-Kahf?", answer: "Al-Kahf presents four stories in response to the Quraysh's test questions (prompted by Jewish advisors) about the Companions of the Cave, the man with two gardens, Musa and al-Khidr, and 'the one of two horns.' Each story explores what happens to people given different forms of power: physical refuge (the cave), wealth (two gardens), knowledge (Musa's journey), and political authority (Dhul-Qarnayn). Each story also illustrates divine provision outrunning human understanding. The surah is recommended for Friday recitation traditionally as protection against the Dajjal, whose fitna — trial — involves precisely the inflation of these same powers (authority, wealth, miracles) into claims of lordship." },
+      ],
+    },
+    scholarsSaid: [
+      { scholar: "Ibn Kathir", source: "Tafsir Ibn Kathir on Surah Al-Kahf", text: "Dhul-Qarnayn was a righteous king given divine authority over the earth. Whether he was Alexander or another figure, what the Quran emphasizes is his character: he was given everything and refused to exploit it, built the greatest barrier in history and attributed it to divine mercy, and announced even as he completed it that Allah would one day return it to dust. This is the portrait of the believer who has been given the world and remains free of it." },
+    ],
+    hadith: [
+      { text: "Whoever reads Surah Al-Kahf on Friday, a light will shine for him between the two Fridays.", source: "Sahih al-Hakim and others" },
+    ],
+    acrossTransitions: "The figure of 'the one of two horns' has fascinated scholars across traditions. In medieval Islamic geography, Dhul-Qarnayn's three journeys were mapped onto real geography — the muddy spring in the West, the rising sun in the East, and the Caucasus mountains in the North (as the location of the barrier). Early Islamic historiographers often identified him with Alexander the Great (Iskandar in Arabic), a tradition reinforced by the Syriac Christian Alexander Legend (c. 7th century CE) in which Alexander constructs a barrier against barbaric northern peoples.\n\nModern scholarship has proposed Cyrus the Great as a more theologically consistent candidate: a righteous non-Israelite sovereign celebrated for liberating peoples, attributed with a two-horned crown on coins, and identified in Isaiah 45 as chosen by God. The Quran's silence on his identity seems deliberate — the story's lesson is the character of the righteous sovereign, not the historical biography of any particular person.\n\nThe barrier against Gog and Magog (Ya'juj wa Ma'juj) parallels similar traditions in Persian, Syriac, and Byzantine sources of a great wall built against northern destructive peoples. The Islamic tradition connects this to eschatological events near the Hour.",
+    goDeeper: [
+      { slug: 'al-kahf', surahName: 'Al-Kahf', note: "The complete Dhul-Qarnayn narrative (18:83-98) and its context within the surah's four stories" },
+      { slug: 'al-anbiya', surahName: 'Al-Anbiya', note: "The eschatological reference to Gog and Magog: 'Until when Ya'juj and Ma'juj are let loose and they descend from every height' (21:96)" },
+    ],
+    relatedTerms: [
+      { slug: 'sulayman', transliteration: 'Sulayman', term: 'سُلَيْمَان' },
+      { slug: 'zuhd',     transliteration: 'Zuhd',     term: 'زُهْد'     },
+    ],
+    hasFullEntry: true,
+  },
+
 }
