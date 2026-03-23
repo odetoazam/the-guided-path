@@ -237,12 +237,12 @@ export const GLOSSARY_TERMS: GlossaryMeta[] = [
   { slug: 'shirk',     term: 'شِرْك',     transliteration: 'Shirk',    category: 'Theology & Ethics', evocativeLine: 'The one sin declared unforgivable — placing anything alongside Allah in the heart.',       hasFullEntry: true },
   { slug: 'kufr',      term: 'كُفْر',     transliteration: 'Kufr',     category: 'Theology & Ethics', evocativeLine: 'Disbelief and ingratitude — the covering over of what the heart already knows.',           hasFullEntry: true },
   { slug: 'nifaq',     term: 'نِفَاق',    transliteration: 'Nifaq',    category: 'Theology & Ethics', evocativeLine: 'Hypocrisy — the gap between what is shown and what is held, wider than disbelief.',        hasFullEntry: true },
-  { slug: 'haqq',      term: 'حَقّ',      transliteration: 'Haqq',     category: 'Theology & Ethics', evocativeLine: "Truth and right — the word that is also one of Allah's names and the Quran's purpose.",    hasFullEntry: false },
-  { slug: 'zulm',      term: 'ظُلْم',     transliteration: 'Zulm',     category: 'Theology & Ethics', evocativeLine: 'Wrongdoing and oppression — the darkness the Quran cannot name without condemning.',        hasFullEntry: false },
-  { slug: 'birr',      term: 'بِرّ',      transliteration: 'Birr',     category: 'Theology & Ethics', evocativeLine: 'Comprehensive righteousness — the full expression of goodness in every direction.',         hasFullEntry: false },
-  { slug: 'ummah',     term: 'أُمَّة',    transliteration: 'Ummah',    category: 'Theology & Ethics', evocativeLine: 'Community — the body of believers across time and space, responsible for each other.',      hasFullEntry: false },
+  { slug: 'haqq',      term: 'حَقّ',      transliteration: 'Haqq',     category: 'Theology & Ethics', evocativeLine: "Truth and right — the word that is also one of Allah's names and the Quran's purpose.",    hasFullEntry: true },
+  { slug: 'zulm',      term: 'ظُلْم',     transliteration: 'Zulm',     category: 'Theology & Ethics', evocativeLine: 'Wrongdoing and oppression — the darkness the Quran cannot name without condemning.',        hasFullEntry: true },
+  { slug: 'birr',      term: 'بِرّ',      transliteration: 'Birr',     category: 'Theology & Ethics', evocativeLine: 'Comprehensive righteousness — the full expression of goodness in every direction.',         hasFullEntry: true },
+  { slug: 'ummah',     term: 'أُمَّة',    transliteration: 'Ummah',    category: 'Theology & Ethics', evocativeLine: 'Community — the body of believers across time and space, responsible for each other.',      hasFullEntry: true },
   { slug: 'mithaq',    term: 'مِيثَاق',   transliteration: 'Mithaq',   category: 'Theology & Ethics', evocativeLine: 'The primordial covenant — the agreement made before birth that shapes all of human life.',  hasFullEntry: false },
-  { slug: 'dawah',     term: 'دَعْوَة',   transliteration: "Da'wah",   category: 'Theology & Ethics', evocativeLine: 'The call — inviting to Allah with wisdom and beautiful speech.',                           hasFullEntry: false },
+  { slug: 'dawah',     term: 'دَعْوَة',   transliteration: "Da'wah",   category: 'Theology & Ethics', evocativeLine: 'The call — inviting to Allah with wisdom and beautiful speech.',                           hasFullEntry: true },
   { slug: 'jihad',     term: 'جِهَاد',    transliteration: 'Jihad',    category: 'Theology & Ethics', evocativeLine: 'Striving — the comprehensive struggle in every domain, of which warfare is one dimension.', hasFullEntry: false },
   { slug: 'ukhuwwah',  term: 'أُخُوَّة',  transliteration: 'Ukhuwwah', category: 'Theology & Ethics', evocativeLine: 'Brotherhood and sisterhood — the bond the Quran places above tribe and blood.',            hasFullEntry: false },
   { slug: 'sadaqah',   term: 'صَدَقَة',   transliteration: 'Sadaqah',  category: 'Theology & Ethics', evocativeLine: 'Voluntary giving — the charity that purifies the giver and multiplies for both.',          hasFullEntry: false },
@@ -5632,6 +5632,459 @@ What is distinctive in the Islamic treatment of nifaq is its interior diagnosis:
     goDeeper: [
       { slug: 'al-baqarah',  surahName: 'Al-Baqarah', note: "Contains the most extensive early portrait of the munafiqun (2:8-20), including the famous lamp parable (2:17) — they are people who lit a fire and when it illuminated them, Allah took away their light. The surah establishes the tripartite typology that the rest of the Quran develops." },
       { slug: 'al-munafiqun', surahName: 'Al-Munafiqun', note: "The surah dedicated entirely to nifaq — its psychology, its patterns, its warnings. 63:1-4 provides the most condensed portrait: they testify outwardly but Allah testifies that they are liars. Their forms are pleasing; their interiors are hollow." },
+    ],
+  },
+
+  haqq: {
+    slug: 'haqq',
+    term: 'حَقّ',
+    transliteration: 'Haqq',
+    pronunciation: 'HAQQ',
+    category: 'Theology & Ethics' as GlossaryCategory,
+    evocativeLine: "Truth and right — the word that is also one of Allah's Names and the Quran's purpose.",
+    hasFullEntry: true,
+    summary: `Al-Haqq is one of Allah's Names — and haqq is one of the most fundamental concepts in the Quran. It means truth, reality, right, and rightful claim — all at once. In Arabic, haqq is not merely the opposite of falsehood; it is the word for what genuinely exists, what is authentically real, what has a rightful place. The opposite, batil, means void, empty, futile — what has no genuine reality, no rightful claim, no lasting substance.
+
+The Quran comes to establish haqq against batil: to show what is real against what is illusory, what is right against what is wrong, what is genuine against what is pretense. "We have sent down to you the Book in truth" (2:176) — the Quran participates in haqq by being the divine word; it corresponds to reality as it actually is. Reading it is an encounter with what is genuinely real.
+
+Haqq also means rightful claim — a person's haqq is what they are owed. Allah's haqq upon the servant is worship; the servant's haqq upon Allah (by His own promise) is mercy if they worshipped without shirk. The Quran's social ethics are built on haqq: the orphan's haqq, the poor person's haqq, the neighbor's haqq. Injustice is always the violation of haqq; justice is its fulfillment.`,
+    root: {
+      letters: 'ح–ق–ق',
+      transliteration: 'ḥ–q–q',
+      meaning: 'To be true, real, established, right; to confirm, verify',
+      elaboration: "The root h-q-q conveys firmness, reality, and rightful establishment. Haqq is what is established, what has genuine being. Tahqiq means to verify, to make real. The opposite of haqq is batil (void, false) or zur (falsehood). Al-Haqq as a divine Name means that Allah is the only genuine reality — all else has contingent existence; He has necessary existence. He is the standard against which all else is measured.",
+    },
+    occurrenceCount: 287,
+    occurrenceNote: "The root h-q-q appears approximately 287 times in the Quran — one of the most frequent roots. It appears as a divine Name (Al-Haqq), as the description of the Quran ('the Book in truth'), as the standard of judgment, as the description of the Day of Judgment (a reality that must come), and as a person's rightful claim.",
+    keyAyahs: [
+      {
+        ref: '22:6',
+        arabic: 'ذَٰلِكَ بِأَنَّ اللَّهَ هُوَ الْحَقُّ وَأَنَّهُ يُحْيِي الْمَوْتَىٰ',
+        translation: 'That is because Allah — He is the Haqq (Truth/Reality), and that He gives life to the dead.',
+        note: "Al-Haqq as a divine Name: Allah is the truth in the most absolute sense — genuinely real, not contingent, the foundation of all that exists. This grounds the concept: the measure of all haqq is Allah Himself.",
+      },
+      {
+        ref: '17:81',
+        arabic: 'وَقُلْ جَاءَ الْحَقُّ وَزَهَقَ الْبَاطِلُ ۚ إِنَّ الْبَاطِلَ كَانَ زَهُوقًا',
+        translation: 'And say: The truth has come, and falsehood has perished. Indeed, falsehood is ever-perishing.',
+        note: "The Quranic logic of haqq and batil: batil is structurally incapable of enduring. It perishes not just occasionally but by its nature — zuhūq means perishing inevitably. The arrival of haqq is the departure of batil. This was said at the conquest of Makkah when the idols were toppled.",
+      },
+      {
+        ref: '4:135',
+        arabic: 'كُونُوا قَوَّامِينَ بِالْقِسْطِ شُهَدَاءَ لِلَّهِ',
+        translation: 'Be persistently standing firm in justice, witnesses for Allah.',
+        note: "Being a witness for Allah means testifying to haqq regardless of consequence. The shahid who witnesses in court is doing something sacred — they are the vehicle through which haqq reaches the world against batil.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: 'Alignment with reality', arabic: 'الموافقة للواقع', arabicTranslit: 'al-muwāfaqa li-l-wāqiʿ', description: "Haqq is not constructed; it is discovered. The believer's orientation toward haqq means being willing to revise their beliefs and assumptions when evidence shows them to be in batil. Truth is not what is comfortable; it is what is real." },
+        { number: 2, title: 'Speaking haqq regardless of who it is against', arabic: 'قول الحق على كل أحد', arabicTranslit: 'qawl al-ḥaqq ʿalā kulli aḥad', description: "The hardest dimension: speaking haqq even when it costs you, even against those you love, even against yourself. 4:135 demands this. The person who speaks haqq only when it is convenient has not yet practiced it." },
+        { number: 3, title: 'Giving everyone their haqq', arabic: 'إيتاء كل ذي حق حقه', arabicTranslit: "ītāʾ kull dhī ḥaqq ḥaqqahu", description: "The prophetic command: 'Give every possessor of a right their right.' The daily practice of haqq is not philosophical; it is in fulfilling what is owed — to family, to employers, to the poor, to creation." },
+      ],
+      stations: [
+        { name: "Haqq in belief", description: "Holding beliefs that correspond to reality — about Allah, about creation, about the self. This is tawhid as haqq: the truth about who Allah is and what He is not." },
+        { name: "Haqq in speech", description: "Speaking truth — not just avoiding lies but actively saying what is real, even when silence would be more comfortable. Sidq is the expression of haqq in speech." },
+        { name: "Haqq in action", description: "Acting on what is true and right — not what is convenient or pleasing. The person of haqq does not perform justice for approval; they do it because it is right." },
+        { name: "Haqq in relationships", description: "Giving every person their due — their rights, their dignity, their haqq as a human being created by Allah. This is the social ethics of haqq." },
+      ],
+      questions: [
+        { question: "Is there something I believe because I want it to be true, rather than because it is true? Am I holding a batil that I am calling haqq?", answer: "This is the most personal question haqq asks. The hardest batil to release is the one that serves us — the narrative about ourselves, about a relationship, about our own righteousness." },
+        { question: "Have I given everyone in my life their haqq — their due rights, their owed treatment?", answer: "Haqq is not theoretical. It is the orphan's haqq, the neighbor's haqq, the employee's haqq. The daily audit of who is owed what." },
+        { question: "When I speak, do I say what is true — or what is effective, pleasing, or safe?", answer: "Haqq in speech is the demand. Sidq (truthfulness) is its name. The gap between what is said and what is real is the gap where batil lives." },
+      ],
+    },
+    semanticField: [
+      { slug: 'adl',   arabic: 'عَدْل',  transliteration: "'Adl",   relationship: 'deepens',   relationshipLabel: "Justice gives haqq its social form", description: "'Adl is the distribution of haqq in social life — giving each person their right in the context of competing claims. Haqq names what is owed; 'adl names the practice of distributing it justly." },
+      { slug: 'sidq',  arabic: 'صِدْق', transliteration: 'Sidq',   relationship: 'deepens',   relationshipLabel: "Haqq in speech", description: "Sidq is haqq expressed in language — correspondence between what is said and what is real. The sadiq is the person whose speech participates in haqq; the kadhib (liar) lives in batil." },
+      { slug: 'zulm',  arabic: 'ظُلْم', transliteration: 'Zulm',   relationship: 'parallels', relationshipLabel: "Violation of haqq", description: "Zulm (oppression/injustice) is always the violation of haqq — putting something where it does not belong, withholding what is owed. Every act of zulm is a corruption of haqq; every act of haqq is a refusal of zulm." },
+      { slug: 'tawhid', arabic: 'تَوْحِيد', transliteration: 'Tawhid', relationship: 'deepens', relationshipLabel: "The ultimate haqq", description: "Tawhid is the supreme haqq — the truth about Allah's oneness. All other haqq in the universe flows from this foundation. Shirk is the ultimate batil — the placement of partnership where none exists." },
+    ],
+    scholarsSaid: [
+      { scholar: 'Ibn al-Qayyim', text: "Haqq is the truth and reality that Allah has established — and it does not change with the change of times, the difference of people, or the desires of hearts. It is established and permanent.", source: "Miftah Dar al-Sa'ada" },
+      { scholar: 'Al-Raghib al-Asfahani', text: "Haqq is: the thing that is affirmed and established. It is said of the thing whose existence is necessary or whose existence is fitting. Allah is Haqq because His existence is necessary.", source: "Al-Mufradat" },
+      { scholar: 'Ali ibn Abi Talib', text: "Speak the haqq even if it is against you — for helping batil will harm you more than speaking haqq will.", source: "Reported in various collections" },
+    ],
+    hadith: [
+      { ref: 'Bukhari & Muslim', translation: "Give every possessor of a right their right (haqq).", note: "One of the most comprehensive prophetic commands. Every person, every creature, has a haqq. The prophetic ethics is the daily practice of giving what is owed — no more, no less." },
+    ],
+    acrossTransitions: `Truth as an ultimate value is universal, but the Arabic haqq carries a richness that goes beyond the English "truth." Haqq includes reality (what genuinely exists), rightness (what is correct), and rightful claim (what is owed). This triple meaning is rare in other languages.
+
+In Greek philosophy, aletheia (truth, literally "un-concealment") is what Heidegger saw as the original Greek meaning — truth as bringing what is hidden into the open. This resonates with Islamic haqq as opposed to batil (void/concealment). Truth is what emerges; falsehood is what hides.
+
+In Jewish thought, emet (truth) is one of the three pillars on which the world stands (Avot 1:18). The Talmud says the seal of the Holy Blessed One is truth — structurally identical to "Allah is Al-Haqq." Both traditions locate truth at the heart of divinity.
+
+In the Vedantic tradition, sat (being, truth, reality) is the first of the three ultimate attributes of Brahman (sat-chit-ananda: being-consciousness-bliss). Haqq as "that which genuinely exists" shares this metaphysical weight: truth and being are inseparable.`,
+    relatedTerms: [
+      { slug: 'adl',   transliteration: "'Adl",   term: 'عَدْل'    },
+      { slug: 'sidq',  transliteration: 'Sidq',   term: 'صِدْق'    },
+      { slug: 'zulm',  transliteration: 'Zulm',   term: 'ظُلْم'    },
+      { slug: 'tawhid', transliteration: 'Tawhid', term: 'تَوْحِيد' },
+    ],
+    goDeeper: [
+      { slug: 'al-isra',  surahName: "Al-Isra'", note: "Contains 17:81 — 'the truth has come and falsehood has perished.' The verse is the Quranic distillation of what the Prophet's mission accomplished. Reading it in the context of the surah — between the Night Journey and the descriptions of what the Quran is — grounds it in history." },
+      { slug: 'al-hajj',  surahName: 'Al-Hajj',  note: "Contains 22:6 — 'Allah is Al-Haqq.' The surah's sweeping vision of creation, destruction, resurrection, and divine power makes this Name feel earned rather than asserted." },
+    ],
+  },
+
+  zulm: {
+    slug: 'zulm',
+    term: 'ظُلْم',
+    transliteration: 'Zulm',
+    pronunciation: 'ZULM',
+    category: 'Theology & Ethics' as GlossaryCategory,
+    evocativeLine: 'Wrongdoing and oppression — the darkness the Quran cannot name without condemning.',
+    hasFullEntry: true,
+    summary: `Zulm is one of the Quran's most frequently named evils. The word covers an enormous range: oppression, injustice, wrongdoing, darkness — and the literal root meaning reveals why they are all one concept. Zulm means to put something in the wrong place — to displace, to misarrange, to give something more or less than it deserves. The night is called zulm in Arabic poetry because it covers (displaces) the light. The oppressor commits zulm because they have misplaced their power — they are using it where it does not belong and withholding what others are owed.
+
+Allah declares that He does no zulm — and the Quran returns to this again and again. The remarkable thing is the way it is stated: "I do not wrong the servants" (50:29), "your Lord would never wrong anyone" (18:49), "Allah is not unjust to people at all — but people are unjust to themselves" (10:44). The final phrase is the deepest: the ultimate zulm is the zulm a person does to their own soul, by covering it with sin, by refusing guidance, by following the nafs into what destroys it.
+
+The Quran describes the zalimun (wrongdoers) in vivid, repeated language — the Quran does not euphemize injustice. And it consistently promises that zulm will meet its reckoning: "Do not think Allah is unaware of what the wrongdoers are doing" (14:42). This is not comfort; it is a warning. The Quran's refusal to look away from zulm is part of its ethical power.`,
+    root: {
+      letters: 'ظ–ل–م',
+      transliteration: 'ẓ–l–m',
+      meaning: 'To put in the wrong place; darkness; injustice; oppression',
+      elaboration: "The root ẓ-l-m has three overlapping senses: displacement (putting something where it does not belong), darkness (zulma is darkness — the covering of light), and injustice (the ethical consequence of displacement). The word for night (zulam) comes from this root, as does zalim (oppressor). The conceptual connection: injustice is a form of darkness — it covers what should be seen (rights, truth, dignity) and places what should not be there (harm, exploitation, lies).",
+    },
+    occurrenceCount: 315,
+    occurrenceNote: "The root ẓ-l-m and its derivatives appear approximately 315 times in the Quran — making it one of the most frequently mentioned concepts. The Quran names zulm to condemn it, in every form: the zulm of shirk (31:13), the zulm of oppressors against the poor, the zulm of nations against prophets, and the zulm a person does to their own soul.",
+    keyAyahs: [
+      {
+        ref: '10:44',
+        arabic: 'إِنَّ اللَّهَ لَا يَظْلِمُ النَّاسَ شَيْئًا وَلَٰكِنَّ النَّاسَ أَنفُسَهُمْ يَظْلِمُونَ',
+        translation: 'Indeed, Allah does not wrong people at all — but people wrong themselves.',
+        note: "The most theologically significant zulm verse. Allah's absolute freedom from zulm is stated; then the diagnosis: the zulm in the world is human — and the deepest is the zulm people commit against their own souls through sin, heedlessness, and refusal of guidance.",
+      },
+      {
+        ref: '14:42',
+        arabic: 'وَلَا تَحْسَبَنَّ اللَّهَ غَافِلًا عَمَّا يَعْمَلُ الظَّالِمُونَ',
+        translation: 'And do not think Allah is unaware of what the wrongdoers are doing.',
+        note: "This verse comes as a warning to the oppressor and a consolation to the oppressed. The zalim's impunity is temporary and apparent. The Quran's promise is that no zulm escapes divine awareness — and its account will be settled.",
+      },
+      {
+        ref: '42:41-42',
+        arabic: 'وَلَمَنِ انتَصَرَ بَعْدَ ظُلْمِهِ فَأُولَٰئِكَ مَا عَلَيْهِم مِّن سَبِيلٍ ۝ إِنَّمَا السَّبِيلُ عَلَى الَّذِينَ يَظْلِمُونَ',
+        translation: 'And whoever defends himself after being wronged — those have no blame upon them. The blame is only on those who wrong others.',
+        note: "The Quran explicitly validates resistance to oppression. The mazlum (the wronged one) who defends themselves is not blameworthy. This is the Quranic foundation of the right to resist zulm — balanced by the strong discouragement of exceeding the equivalent.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: 'Recognizing the forms of zulm', arabic: 'معرفة أشكال الظلم', arabicTranslit: 'maʿrifat ashkāl al-ẓulm', description: "Zulm is not only the dramatic oppression of tyrants. The scholars identified three levels: zulm in relation to Allah (shirk — 31:13 calls it 'the greatest zulm'), zulm between people (oppression, theft, violation of rights), and zulm of the self (sin that harms one's own soul)." },
+        { number: 2, title: 'Not acquiescing to zulm', arabic: 'عدم الرضا بالظلم', arabicTranslit: 'ʿadam al-riḍā bi-l-ẓulm', description: "The Quran and the Prophet ﷺ command the resistance of zulm — not just one's own oppression but others'. 'Support your brother whether he is the oppressor or the oppressed' — meaning: if oppressor, restrain him from his oppression; if oppressed, help him against it." },
+        { number: 3, title: 'Guarding against one\'s own zulm', arabic: 'الحذر من ظلم النفس', arabicTranslit: "al-ḥadhar min ẓulm al-nafs", description: "10:44 identifies the deepest zulm as the one a person does to themselves. The daily muhasaba asks: where have I misplaced something today? Where have I given my nafs what it wanted at the cost of my soul?" },
+      ],
+      stations: [
+        { name: 'Zulm against Allah (shirk)', description: "31:13 — the greatest zulm. Placing anything in the position that belongs only to Allah — even temporarily, even subtly — is a displacement of the most fundamental order." },
+        { name: 'Zulm against others', description: "The oppressor, the thief, the one who violates rights — all are committing zulm by displacing what belongs to others. The Prophet ﷺ said: 'Beware of oppression — for oppression will be darkness on the Day of Judgment.'" },
+        { name: 'Zulm against the self', description: "The most commonly overlooked form: every sin a person commits is a zulm against their own soul. 7:23 — Adam and Hawwa said: 'Our Lord, we have wronged ourselves.' The first human acknowledgment in the Quran is the acknowledgment of self-zulm." },
+      ],
+      questions: [
+        { question: "Where in my life am I misplacing things — giving some relationships too much, others too little? Giving the dunya what belongs to the akhira?", answer: "Zulm is displacement. The question is always: is this where it belongs? Does this relationship, this commitment, this time allocation, reflect the right order?" },
+        { question: "Is there someone I am wronging — by action, by neglect, by failing to speak? Their haqq is being taken away.", answer: "The passive zulm of neglect is still zulm. The parent who neglects, the employer who underpays, the witness who stays silent — all are committing some form of displacement." },
+        { question: "How am I wronging my own soul? What is the zulm I am committing against myself through my choices?", answer: "10:44 places the question here. The sins that seem to hurt only the self still constitute zulm — the soul is being displaced from its rightful state of iman, taqwa, and closeness to Allah." },
+      ],
+    },
+    semanticField: [
+      { slug: 'adl',   arabic: 'عَدْل',   transliteration: "'Adl",  relationship: 'parallels', relationshipLabel: "Zulm's opposite", description: "'Adl (justice) is the direct opposite of zulm. Where 'adl puts things in their right place, zulm displaces them. Every command for 'adl is a command against zulm." },
+      { slug: 'haqq',  arabic: 'حَقّ',    transliteration: 'Haqq',  relationship: 'parallels', relationshipLabel: 'What zulm violates', description: "Zulm is always the violation of haqq — the rightful claim that is withheld or the right place that is usurped. Haqq names what belongs; zulm names the taking of what does not." },
+      { slug: 'sabr',  arabic: 'صَبْر',   transliteration: 'Sabr',  relationship: 'precedes',  relationshipLabel: 'The response to zulm', description: "When zulm cannot be immediately remedied, sabr is the proper response — bearing the wrong without surrendering to despair or bitterness, while maintaining the right and working toward its restoration." },
+      { slug: 'tawbah', arabic: 'تَوْبَة', transliteration: 'Tawbah', relationship: 'deepens',  relationshipLabel: 'The remedy for self-zulm', description: "The Quranic pattern is consistent: Adam and Hawwa committed zulm against themselves (7:23), then immediately made tawbah. For the zulm of sin, tawbah is the remedy. For zulm against others, restitution is required before tawbah is complete." },
+    ],
+    scholarsSaid: [
+      { scholar: 'Ibn al-Qayyim', text: "The whole of zulm is: putting something in the wrong place. And the greatest zulm is shirk — putting worship where it does not belong. And the least zulm is: taking from your brother what is rightfully his.", source: "Madarij al-Salikin" },
+      { scholar: 'Ibn Taymiyya', text: "Allah has made this world continue upon justice, even from disbelievers. And He has not made it continue upon zulm, even from believers. For justice is the order of all things; zulm is the destruction of all things.", source: "Al-Siyasa al-Shar'iyya" },
+      { scholar: "Umar ibn al-Khattab", text: "Beware of oppression — for oppression will be darkness on the Day of Resurrection.", source: "Reported by various authorities" },
+    ],
+    hadith: [
+      { ref: 'Muslim', translation: "O My servants, I have made oppression forbidden for Myself and have made it forbidden among you, so do not oppress one another.", note: "This is the hadith qudsi (divine hadith, Allah speaking in first person) that most directly addresses zulm. Allah describes Himself as free of zulm and then extends that to a prohibition: the divine freedom from zulm becomes the template for human ethics." },
+    ],
+    acrossTransitions: `Injustice and oppression as moral evils are universal — no serious tradition defends them. But the Islamic concept of zulm has a distinctive scope: it includes shirk (the cosmic misplacement of Allah's right), self-harm (the zulm a person commits against their own soul), and social oppression. This triple scope is unusual.
+
+In Greek thought, adikia (injustice) was Plato's opposite of justice — the disease of the soul in which the lower parts rule the higher. The inner disorder is justice's violation before it becomes external. This resonates with Islamic zulm against the self.
+
+In Buddhist ethics, the concept of karma contains an implicit theory of zulm: harmful actions create suffering through their own logic. The oppressor is not just harming others; they are creating the conditions for their own future suffering. The Quran's promise that the zalim will face their reckoning has this structure: not arbitrary punishment but the natural consequence of displacement.
+
+In Catholic social teaching, the concept of structural sin — the way unjust social structures perpetuate zulm against marginalized groups — parallels the Quranic concern for the mustad'afin (the oppressed — 4:75). The Quran is unusually explicit about God taking the side of the oppressed and holding the oppressor to account.`,
+    relatedTerms: [
+      { slug: 'adl',   transliteration: "'Adl",   term: 'عَدْل'    },
+      { slug: 'haqq',  transliteration: 'Haqq',   term: 'حَقّ'     },
+      { slug: 'sabr',  transliteration: 'Sabr',   term: 'صَبْر'    },
+      { slug: 'tawbah', transliteration: 'Tawbah', term: 'تَوْبَة'  },
+    ],
+    goDeeper: [
+      { slug: 'ibrahim', surahName: 'Ibrahim', note: "Contains 14:42 — 'do not think Allah is unaware of what the wrongdoers are doing.' The surah contextualizes this with the story of past nations destroyed for zulm — a historical argument that zulm never truly goes unanswered." },
+      { slug: 'al-shura', surahName: 'Al-Shura', note: "Contains 42:41-42 — the right to defend oneself against zulm and the condemnation of the oppressor. The surah's treatment of the limits of retaliation (42:40-43) is the Quran's most nuanced teaching on the ethics of responding to zulm." },
+    ],
+  },
+
+  birr: {
+    slug: 'birr',
+    term: 'بِرّ',
+    transliteration: 'Birr',
+    pronunciation: 'BIRR',
+    category: 'Theology & Ethics' as GlossaryCategory,
+    evocativeLine: 'Comprehensive righteousness — the full expression of goodness in every direction.',
+    hasFullEntry: true,
+    summary: `Birr is the Quran's word for comprehensive righteousness — the full expression of goodness that extends in every direction simultaneously. The longest definition of birr in the Quran (2:177) is remarkable for what it includes: belief, charity, family relationships, keeping promises, and patience in adversity. The verse begins by telling you what birr is not (turning your face east or west in prayer, as a ritualistic performance) and then defines it as the full integration of faith and action.
+
+The word birr shares a root with barr (land, as opposed to sea) — the expansive, solid, stable ground on which everything grows. Birr is the ethical ground of the believing life — not a single virtue but the integration of all virtues. The person of birr is not merely pious in mosque; they are righteous in every dimension of existence.
+
+The Prophet ﷺ gave the simplest possible definition: "Birr is good character." This is precise — good character is not a list of rules followed but a quality of the person that expresses itself naturally in every context. The person of birr does not calculate whether to be kind, honest, generous; these things emerge from who they are. Birr is the fruit of the integrated, rightly-oriented person.`,
+    root: {
+      letters: 'ب–ر–ر',
+      transliteration: 'b–r–r',
+      meaning: 'To be righteous, good, kind; land, the firm ground',
+      elaboration: "The root b-r-r overlaps between the physical (barr: land, stable ground) and the ethical (birr: righteousness, goodness). This connection is not accidental: birr is the stable ground of character, the solid foundation on which life can be built. Al-Barr is one of Allah's Names (52:28): the source of all goodness. The believer's birr participates in and reflects the divine quality.",
+    },
+    occurrenceCount: 20,
+    occurrenceNote: "The root b-r-r appears approximately 20 times in the Quran: as a description of the comprehensive righteous person (2:177), as Allah's Name Al-Barr (52:28), as the description of Jannah ('the garden and abode of goodness'), and as the command to practice goodness toward parents (al-walidayn).",
+    keyAyahs: [
+      {
+        ref: '2:177',
+        arabic: 'لَّيْسَ الْبِرَّ أَن تُوَلُّوا وُجُوهَكُمْ قِبَلَ الْمَشْرِقِ وَالْمَغْرِبِ وَلَٰكِنَّ الْبِرَّ مَنْ آمَنَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ وَالْمَلَائِكَةِ وَالْكِتَابِ وَالنَّبِيِّينَ وَآتَى الْمَالَ عَلَىٰ حُبِّهِ',
+        translation: 'Righteousness is not that you turn your faces toward the east or the west, but righteousness is in one who believes in Allah, the Last Day, the angels, the Book, and the prophets; and gives wealth, in spite of love for it...',
+        note: "The most comprehensive definition of birr in the Quran — belief plus charity plus family plus covenants plus patience. The verse opens by rejecting ritualistic performance as a definition of birr. True birr is the whole person rightly oriented.",
+      },
+      {
+        ref: '3:92',
+        arabic: 'لَن تَنَالُوا الْبِرَّ حَتَّىٰ تُنفِقُوا مِمَّا تُحِبُّونَ',
+        translation: 'You will never attain birr until you spend from what you love.',
+        note: "Birr requires sacrifice — spending what you love, not just what is surplus. This verse was the occasion for several companions giving their most prized possessions. Birr is tested at the point of real cost.",
+      },
+      {
+        ref: '52:28',
+        arabic: 'إِنَّهُ هُوَ الْبَرُّ الرَّحِيمُ',
+        translation: 'Indeed, He is Al-Barr (the Source of All Goodness), the Merciful.',
+        note: "Al-Barr as a divine Name — Allah is the original and ultimate source of all birr. Human birr participates in and reflects the divine quality. The believer's goodness is not self-generated; it is a participation in Allah's goodness.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: 'Integrated faith and action', arabic: 'التكامل بين الإيمان والعمل', arabicTranslit: 'al-takāmul bayna al-īmān wa-l-ʿamal', description: "Birr cannot be divided: faith without the corresponding action is not birr; action without the corresponding faith is not birr. 2:177 lists both together. The person of birr is whole." },
+        { number: 2, title: 'Giving what costs', arabic: 'الإنفاق مما يُحب', arabicTranslit: 'al-infāq mimmā yuḥibb', description: "3:92 makes this explicit. The person of birr gives from what they love — not from surplus, not from what would be wasted anyway. This is the test of whether the goodness is genuine or economically convenient." },
+        { number: 3, title: 'Good character as foundation', arabic: 'حسن الخلق', arabicTranslit: "ḥusn al-khuluq", description: "The Prophet ﷺ defined birr as good character. Character is what remains when performance is removed — what you do when no one is watching, who you are when nothing is at stake. Birr is the fruit of genuine character, not of careful performance." },
+      ],
+      stations: [
+        { name: 'Birr toward Allah', description: "Belief and worship — fulfilling the obligations of iman fully. This is the first dimension of 2:177." },
+        { name: 'Birr toward parents', description: "Al-walidayn (parents) are mentioned in the Quran alongside Allah repeatedly. The birr of children toward parents is one of the most emphasized ethical obligations in Islam." },
+        { name: 'Birr toward people broadly', description: "The social dimension: fulfilling promises, giving the poor their share, treating everyone according to their haqq. This is the 'adl dimension of birr." },
+        { name: 'Birr in adversity', description: "2:177 closes with patience in suffering — the person of birr is not good only when it is easy. They maintain their goodness under pressure, in loss, in hardship." },
+      ],
+      questions: [
+        { question: "Is my goodness integrated — am I the same person in prayer and in my dealings? Or is there a gap between my ritual life and my ethical life?", answer: "2:177 refuses this gap. Birr is the integration of the two. The prayer that does not produce goodness in dealings has not yet produced birr." },
+        { question: "Have I recently given something I actually love — not what is surplus or convenient?", answer: "3:92 is the test. The comfort zone of giving is surplus and convenience. Birr begins where comfort ends." },
+        { question: "What is my character like when nothing is at stake — in private, in small matters, when no one I respect is watching?", answer: "Character is what we are in small things. The prophetic definition of birr as good character points here: birr is not a collection of performed virtues but the natural expression of who you actually are." },
+      ],
+    },
+    semanticField: [
+      { slug: 'taqwa',  arabic: 'تَقْوَى',  transliteration: 'Taqwa',  relationship: 'deepens',   relationshipLabel: 'Taqwa generates birr', description: "Taqwa (consciousness of Allah) is the inner orientation that produces birr. The muttaqi person — whose heart is turned toward Allah — expresses that orientation in the comprehensive goodness of birr." },
+      { slug: 'ihsan',  arabic: 'إِحْسَان', transliteration: 'Ihsan',  relationship: 'deepens',   relationshipLabel: "Birr at its highest", description: "Birr is comprehensive goodness; ihsan is the excellence that exceeds what is required. Ihsan is birr at its highest expression — not just fulfilling obligations but beautifying them, not just giving what is owed but giving more." },
+      { slug: 'shukr',  arabic: 'شُكْر',   transliteration: 'Shukr',  relationship: 'deepens',   relationshipLabel: 'Gratitude as birr in response', description: "Shukr toward Allah is a form of birr — responding to the divine goodness (Al-Barr) with acknowledgment and gratitude. The grateful person is practicing birr toward Allah in the dimension of recognition." },
+      { slug: 'rahmah', arabic: 'رَحْمَة', transliteration: 'Rahmah', relationship: 'deepens',   relationshipLabel: "Mercy within birr", description: "Rahmah is the quality that makes birr warm rather than merely correct. The person of birr is not just right — they are kind. Rahmah ensures that comprehensive goodness does not become cold justice." },
+    ],
+    scholarsSaid: [
+      { scholar: 'Al-Hasan al-Basri', text: "Birr is three things: fulfilling what Allah has made obligatory, avoiding what Allah has made forbidden, and accepting what Allah has decreed.", source: "Reported in Tafsir collections" },
+      { scholar: 'Ibn al-Qayyim', text: "Birr is the name for all goodness — in belief, in action, in character, in speech, in intention. It is the comprehensive virtue that encompasses all other virtues.", source: "Madarij al-Salikin" },
+      { scholar: 'Al-Nawawi', text: "The scholars said: birr in conduct and dealing means good character — and good character is to treat people well, to be patient with harm from them, to give cheerfully what one is able to give.", source: "Sharh Sahih Muslim" },
+    ],
+    hadith: [
+      { ref: 'Muslim', translation: "Birr is good character (husn al-khuluq).", note: "The Prophet ﷺ's most concentrated definition — one sentence that contains an entire ethical tradition. Good character is not a rule followed but a quality of the person. Birr is the external expression of a well-ordered soul." },
+      { ref: 'Tirmidhi', translation: "The believer reaches by good character the station of one who fasts all day and prays all night.", note: "Good character — birr in conduct — is placed on par with the most demanding physical worship. This is the Quran's values: what you do to people matters as much as what you do in prayer." },
+    ],
+    acrossTransitions: `Comprehensive righteousness — goodness that integrates faith, action, character, and social ethics — is the aspiration of every serious ethical tradition. In Jewish ethics, tzedakah (often translated as "charity" but literally "righteousness") has the same expansive quality as birr: it is not a single act but the comprehensive expression of right relationship with God and people.
+
+In Confucian ethics, ren (benevolence, humaneness) is the supreme virtue — the comprehensive goodness that encompasses all other virtues when properly developed. The junzi (exemplary person) expresses ren in every relationship and context, which is exactly the Quranic portrait of birr in 2:177.
+
+In Aristotelian ethics, eudaimonia (flourishing, sometimes translated as "happiness") is the state of the person who has all the virtues operating well in an integrated life. Birr has this quality: it is not one virtue but the integration of all virtues into a coherent person. The person of birr is flourishing in the Islamic sense.`,
+    relatedTerms: [
+      { slug: 'taqwa',  transliteration: 'Taqwa',  term: 'تَقْوَى'  },
+      { slug: 'ihsan',  transliteration: 'Ihsan',  term: 'إِحْسَان' },
+      { slug: 'rahmah', transliteration: 'Rahmah', term: 'رَحْمَة'  },
+      { slug: 'adl',    transliteration: "'Adl",   term: 'عَدْل'    },
+    ],
+    goDeeper: [
+      { slug: 'al-baqarah', surahName: 'Al-Baqarah', note: "Contains 2:177 — the fullest definition of birr in the Quran. The verse comes in the context of the qibla change (from Jerusalem to Makkah), teaching that the direction of prayer matters less than the quality of the person praying." },
+      { slug: 'al-imran',   surahName: "Al-Imran",   note: "Contains 3:92 — 'you will never attain birr until you spend from what you love.' The surah's theme of sacrifice and commitment in the face of trial makes this verse the test of whether the birr of 2:177 is real or theoretical." },
+    ],
+  },
+
+  ummah: {
+    slug: 'ummah',
+    term: 'أُمَّة',
+    transliteration: 'Ummah',
+    pronunciation: 'UM-mah',
+    category: 'Theology & Ethics' as GlossaryCategory,
+    evocativeLine: 'Community — the body of believers across time and space, responsible for each other.',
+    hasFullEntry: true,
+    summary: `Ummah is one of the most theologically significant community concepts in world religion. It is not merely a religious group, a nation, or a culture — it is the community constituted by shared commitment to Allah, spanning time, geography, ethnicity, and language. The Muslim in Senegal and the Muslim in Indonesia, the Muslim in the 7th century and the Muslim today, are all members of one ummah — one body, one community of witness and responsibility.
+
+The Quran describes this ummah with the task of being witnesses to humanity: "We have made you a median (wasatan) community so that you may be witnesses over the people, and the Messenger may be a witness over you" (2:143). The ummah is not merely a community of the saved; it is a community with a mission — to bear witness to the divine message in the world. This is why the Quran's description of the ummah is always accompanied by an ethical charge: to command the good, forbid the evil, and believe in Allah (3:110).
+
+The Prophet ﷺ described the ummah as "one body" — when one part suffers, the whole body responds with fever and sleeplessness. This is the ethical aspiration embedded in the theological concept. The ummah is not a passive identity; it is an active solidarity. And in the Quran's expanded usage, the prophetic communities of all times — the ummah of Musa, of Isa, of Ibrahim — are all ummahs in the same sense: communities constituted by shared prophetic commitment.`,
+    root: {
+      letters: 'أ–م–م',
+      transliteration: 'ʾ–m–m',
+      meaning: 'Mother; to intend, to lead; direction, model',
+      elaboration: "The root ʾ-m-m is the root of umm (mother), imam (leader, the one who is followed), ummah (community, nation, the body that follows a leader or shares a direction), and amama (in front of, ahead). The conceptual thread: the ummah is a community that follows a single direction — the direction the prophet/imam leads toward. As the mother is the origin and center of the family, the ummah is the human community organized around its divine direction.",
+    },
+    occurrenceCount: 64,
+    occurrenceNote: "Ummah appears approximately 64 times in the Quran in various senses: the Muslim community (2:143, 3:110), the community of a particular prophet (previous ummahs — 7:38, 16:36), a group that is a model (2:128 — Luqman as ummah, meaning a model), and the community of animals (6:38). The range reveals that ummah is a versatile concept of organized community with shared direction.",
+    keyAyahs: [
+      {
+        ref: '2:143',
+        arabic: 'وَكَذَٰلِكَ جَعَلْنَاكُمْ أُمَّةً وَسَطًا لِّتَكُونُوا شُهَدَاءَ عَلَى النَّاسِ',
+        translation: 'And thus We have made you a median community so that you may be witnesses over the people.',
+        note: "The ummah's defining description and mission. Wasan (median, middle, balanced) — not extreme in any direction. The mission: witnesses over humanity. The ummah is not for itself; it is constituted for testimony on behalf of the world.",
+      },
+      {
+        ref: '3:110',
+        arabic: 'كُنتُمْ خَيْرَ أُمَّةٍ أُخْرِجَتْ لِلنَّاسِ تَأْمُرُونَ بِالْمَعْرُوفِ وَتَنْهَوْنَ عَنِ الْمُنكَرِ',
+        translation: 'You are the best community ever raised for humanity: you command what is right, forbid what is wrong, and believe in Allah.',
+        note: "The khayra ummah — the best community — is defined by three things: amr bil ma'ruf (commanding good), nahy 'an al-munkar (forbidding wrong), and iman. The 'best' is conditional and earned, not assumed. The ummah is 'best' insofar as it fulfills these three.",
+      },
+      {
+        ref: '49:10',
+        arabic: 'إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ',
+        translation: 'The believers are nothing but brothers.',
+        note: "The internal relationship of the ummah — brotherhood (ukhuwwah). This is the affective and ethical bond that makes ummah more than a category. Brothers are responsible for each other, intercede for each other, feel each other's pain.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: 'Shared direction toward Allah', arabic: 'الاتجاه المشترك نحو الله', arabicTranslit: 'al-ittijāh al-mushtarak naḥw Allāh', description: "The ummah is constituted by following the same imam (leader) and the same direction — the path of Allah. Without this shared orientation, what exists is merely a cultural or political group." },
+        { number: 2, title: 'Active solidarity', arabic: 'التضامن الفعال', arabicTranslit: 'al-taḍāmun al-faʿʿāl', description: "The Prophet ﷺ's 'one body' hadith is a call to active response to suffering in the ummah. Passive membership in the ummah is not the prophetic standard. The standard is feeling the fever when any part of the body is ill." },
+        { number: 3, title: "Amr bil ma'ruf, nahy 'an al-munkar", arabic: 'الأمر بالمعروف والنهي عن المنكر', arabicTranslit: "al-amr bi-l-maʿrūf wa-l-nahy ʿan al-munkar", description: "3:110 makes the ummah's quality conditional on this practice: commanding good and forbidding wrong. The ummah that abandons this responsibility has abandoned what makes it the 'best community.'" },
+      ],
+      stations: [
+        { name: 'Ummah as identity', description: "Knowing that you belong to a body that transcends your family, tribe, nation, and ethnicity. The first station is the awareness: I am part of something larger." },
+        { name: 'Ummah as responsibility', description: "What 3:110 demands — active engagement in the moral life of the community: commanding good, forbidding wrong, witnessing to truth. The ummah member is not a passive beneficiary." },
+        { name: 'Ummah as solidarity', description: "The active response to suffering wherever it is in the ummah: du'a, material support, advocacy, witness. The Prophet ﷺ said: 'The believer is the mirror of his brother' — what you see in a mirror, you respond to." },
+      ],
+      questions: [
+        { question: "Do I experience the ummah as a real bond — does what happens to Muslims in distant lands affect me? Should it?", answer: "The 'one body' hadith is a standard, not merely a description. The aspiration is to cultivate this solidarity — to develop the capacity to feel what happens elsewhere as real." },
+        { question: "Am I contributing to the ummah's mission — witnessing to truth, commanding good, forbidding wrong — in my own sphere?", answer: "3:110 is conditional: the ummah is 'best' insofar as it fulfills this function. Each member's contribution begins in their own context." },
+        { question: "How do I contribute to unity within the ummah — and how do I contribute to its fragmentation?", answer: "The Quran repeatedly warns against the fragmentation of the ummah. The examination of one's own role — in speech, in allegiance, in the handling of disagreement — is necessary." },
+      ],
+    },
+    semanticField: [
+      { slug: 'iman',    arabic: 'إِيمَان',  transliteration: 'Iman',    relationship: 'deepens',   relationshipLabel: "Iman constitutes the ummah", description: "The ummah is constituted by shared iman — the community of belief. The moment of shahada is the moment of joining the ummah. Without iman, there is culture or politics; with iman, there is ummah." },
+      { slug: 'adl',     arabic: 'عَدْل',   transliteration: "'Adl",    relationship: 'deepens',   relationshipLabel: 'Justice within the community', description: "The ummah requires 'adl internally — justice in its own dealings, in how it treats its members, in how it handles disputes. The ummah that practices injustice internally cannot witness to justice externally." },
+      { slug: 'rahmah',  arabic: 'رَحْمَة', transliteration: 'Rahmah',  relationship: 'deepens',   relationshipLabel: "Mercy as the ummah's internal bond", description: "The brotherhood of the ummah (49:10) is made real by rahmah — mercy, compassion, care for one another. The ummah of hardness and judgment is not fulfilling its internal calling." },
+      { slug: 'dawah',   arabic: 'دَعْوَة', transliteration: "Da'wah",  relationship: 'deepens',   relationshipLabel: "The ummah's external mission", description: "Da'wah is the external dimension of the ummah's mission — the witness to the world that 2:143 describes. The ummah that turns inward and loses its sense of witness to humanity has forgotten its purpose." },
+    ],
+    scholarsSaid: [
+      { scholar: 'Ibn Khaldun', text: "The cohesion of the ummah ('asabiyya based on iman) is stronger than any tribal or ethnic solidarity — because it is grounded in something eternal, while tribal bonds are temporary.", source: "Al-Muqaddima" },
+      { scholar: 'Sayyid Qutb', text: "The ummah is not a nation in the geographic or ethnic sense — it is a community of faith and purpose, scattered across the earth but united in direction.", source: "Fi Zilal al-Quran" },
+      { scholar: "Muhammad Iqbal", text: "The ummah transcends race, color, language, and geography. It is the living embodiment of a divine idea in human history.", source: "The Reconstruction of Religious Thought in Islam" },
+    ],
+    hadith: [
+      { ref: 'Bukhari & Muslim', translation: "The parable of the believers in their love, mercy, and compassion for each other is like the body: when one part of it suffers, the whole body responds with fever and sleeplessness.", note: "The most famous prophetic description of the ummah's internal solidarity. The aspiration is not just fellow-feeling but a genuine sensitivity to the suffering of any part — regardless of geography or relationship." },
+    ],
+    acrossTransitions: `The concept of a transnational, transethnic religious community with shared identity and mutual obligation is one of Islam's most distinctive contributions to political thought. In most pre-modern thought, community was defined by kinship, geography, or political power. The ummah defined community by shared commitment to divine guidance — a genuinely novel principle.
+
+In Christian thought, the universal Church — the body of Christ — has a similar aspiration: a community that transcends ethnicity and nationality. Paul's "there is neither Jew nor Greek... for you are all one in Christ Jesus" (Galatians 3:28) has the same universalizing impulse. The different emphasis: Christianity's universal community is organized around sacrament and creed; Islam's ummah is organized around iman and practice.
+
+In modern political thought, Benedict Anderson's concept of "imagined communities" — nations as communities whose members never meet but imagine themselves as united — provides an analytical framework. The ummah is an imagined community in this sense: vastly too large for its members to know each other, but genuinely experienced as a bond. The difference from secular nationalism: the ummah is constituted not by language, ethnicity, or territory but by shared orientation toward Allah.`,
+    relatedTerms: [
+      { slug: 'iman',   transliteration: 'Iman',   term: 'إِيمَان'  },
+      { slug: 'dawah',  transliteration: "Da'wah", term: 'دَعْوَة'  },
+      { slug: 'adl',    transliteration: "'Adl",   term: 'عَدْل'    },
+      { slug: 'rahmah', transliteration: 'Rahmah', term: 'رَحْمَة'  },
+    ],
+    goDeeper: [
+      { slug: 'al-baqarah', surahName: 'Al-Baqarah', note: "Contains 2:143 — the wasat ummah, the median community of witnesses. The context (the qibla change from Jerusalem to Makkah) situates the ummah in relation to previous communities — inheriting their mission while being its final expression." },
+      { slug: 'al-hujurat',  surahName: 'Al-Hujurat', note: "The surah of community ethics — how the ummah is to treat its own members: verifying news (49:6), not mocking each other (49:11), avoiding suspicion (49:12), reconciling disputes (49:9). It is the internal constitution of the ummah." },
+    ],
+  },
+
+  dawah: {
+    slug: 'dawah',
+    term: 'دَعْوَة',
+    transliteration: "Da'wah",
+    pronunciation: 'DAA-wah',
+    category: 'Theology & Ethics' as GlossaryCategory,
+    evocativeLine: 'The call — inviting to Allah with wisdom and beautiful speech.',
+    hasFullEntry: true,
+    summary: `Da'wah is the call — the invitation to Allah, to His guidance, to the way of truth. The Quran describes it as the finest thing a person can say: "Who is better in speech than one who calls to Allah, does righteous deeds, and says 'Indeed, I am one of the Muslims'?" (41:33). Three things constitute the best speech: calling to Allah, living rightly, and identifying with the ummah of submission. Da'wah is the external expression of iman turned toward the world.
+
+The method is as important as the message. 16:125 gives the three-part methodology: wisdom (hikmah), beautiful instruction (al-maw'izah al-hasanah), and gracious argumentation (al-jadal bi-allati hiya ahsan). Da'wah is not pressure, not argument for victory, not contempt for the one who has not yet seen. It is a gift — an invitation — offered with the beauty and care of a gift.
+
+The Quran also establishes the limit of da'wah: "There is no compulsion in religion" (2:256). The caller calls; the hearer decides. The Prophet ﷺ is told explicitly: "Indeed, you do not guide whom you love, but Allah guides whom He wills" (28:56). This humbles the caller: the outcome is not in their hands. The responsibility is to call beautifully, sincerely, with wisdom — and then to leave the result with Allah.`,
+    root: {
+      letters: 'د–ع–و',
+      transliteration: 'd–ʿ–w',
+      meaning: "To call, invite, summon, pray, name",
+      elaboration: "The root d-ʿ-w covers calling in every register: da'wa is an invitation to a meal; du'a is prayer (calling upon Allah); da'wah in the religious sense is the call to the faith. The common thread is the act of calling — turning to someone and inviting their response. Da'wah to Allah is the grandest form: calling humanity toward its most important relationship.",
+    },
+    occurrenceCount: 212,
+    occurrenceNote: "The root d-ʿ-w appears approximately 212 times in the Quran in its various forms — one of the most frequent roots. Most occurrences are in the sense of du'a (supplication) or calling upon Allah. The da'wah sense (inviting others to Allah) appears in key methodological passages: 16:125, 41:33, 12:108.",
+    keyAyahs: [
+      {
+        ref: '16:125',
+        arabic: 'ادْعُ إِلَىٰ سَبِيلِ رَبِّكَ بِالْحِكْمَةِ وَالْمَوْعِظَةِ الْحَسَنَةِ ۖ وَجَادِلْهُم بِالَّتِي هِيَ أَحْسَنُ',
+        translation: 'Call to the way of your Lord with wisdom, beautiful instruction, and argue with them in the best manner.',
+        note: "The complete methodology of da'wah in one verse. Hikmah (wisdom — reading the person and moment), maw'izah hasanah (beautiful instruction — not harsh or condescending), jadal bi-llati hiya ahsan (the most gracious form of argument — not to defeat but to illuminate). The method is itself the message.",
+      },
+      {
+        ref: '41:33',
+        arabic: 'وَمَنْ أَحْسَنُ قَوْلًا مِّمَّن دَعَا إِلَى اللَّهِ وَعَمِلَ صَالِحًا وَقَالَ إِنَّنِي مِنَ الْمُسْلِمِينَ',
+        translation: 'And who is better in speech than one who calls to Allah, does righteous deeds, and says: I am indeed of those who submit?',
+        note: "Da'wah paired with righteous deeds and personal identification with the faith. The caller who calls to what they do not live, or who distances themselves from the community they represent, has broken the three-part formula.",
+      },
+      {
+        ref: '12:108',
+        arabic: 'قُلْ هَٰذِهِ سَبِيلِي أَدْعُو إِلَى اللَّهِ ۚ عَلَىٰ بَصِيرَةٍ أَنَا وَمَنِ اتَّبَعَنِي',
+        translation: 'Say: This is my way — I call to Allah with clear understanding, I and those who follow me.',
+        note: "Da'wah 'ala basira — calling with insight, with genuine knowledge of what one is calling to. The caller who does not know what they are inviting people toward cannot give the invitation honestly.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: "Living what you call to", arabic: 'تطبيق ما تدعو إليه', arabicTranslit: 'taṭbīq mā tadʿū ilayhi', description: "41:33 joins da'wah with 'amal salih (righteous deeds). The caller who calls to patience must be patient; who calls to honesty must be honest. The life is the most powerful da'wah." },
+        { number: 2, title: 'Knowledge of what you are calling to', arabic: 'العلم بما تدعو إليه', arabicTranslit: "al-ʿilm bimā tadʿū ilayhi", description: "12:108 demands basira — clear seeing, genuine knowledge. Da'wah without knowledge produces misinformation. The caller must know what they are presenting with enough depth to represent it honestly." },
+        { number: 3, title: 'Letting the outcome go', arabic: 'ترك النتيجة لله', arabicTranslit: 'tark al-natīja li-llāh', description: "28:56 — the Prophet ﷺ is told that guidance is in Allah's hands. The caller's responsibility is to call beautifully and sincerely. The result belongs to Allah. The caller who measures their success by conversion rates has misunderstood da'wah." },
+      ],
+      stations: [
+        { name: "Da'wah through character", description: "The life lived well, the character that attracts — this is the most powerful and most universal form of da'wah. The Prophet ﷺ's character was a living invitation." },
+        { name: "Da'wah through knowledge", description: "Answering questions, clarifying misconceptions, presenting the faith with accuracy and depth. This requires learning — you cannot give what you do not have." },
+        { name: "Da'wah through beauty", description: "The Quran's method — calling to the good with the good. The beauty of recitation, the beauty of generosity, the beauty of how a Muslim treats others — these are all da'wah." },
+        { name: "Da'wah as witness", description: "2:143 — the ummah as witnesses over humanity. This is the collective da'wah: a community that embodies the values it professes becomes a visible argument for those values." },
+      ],
+      questions: [
+        { question: "Is my life itself a form of da'wah? If people observe me without any words, what am I inviting them toward?", answer: "The Prophet ﷺ was asked about by people who had never heard him speak — they were drawn by what they had seen. Character is the most durable da'wah." },
+        { question: "When I speak about Islam, am I doing so with wisdom — reading the person, the moment, the need? Or am I speaking at them?", answer: "16:125 demands hikmah — the reading of the situation. Da'wah without hikmah is speech about Islam, not an invitation to Allah." },
+        { question: "Am I attached to outcomes? Can I call with sincerity and leave the result entirely with Allah?", answer: "The caller who needs the hearer to accept has made da'wah about themselves. The caller who can leave the result with Allah has understood whose da'wah it actually is." },
+      ],
+    },
+    semanticField: [
+      { slug: 'hikmah',  arabic: 'حِكْمَة',  transliteration: 'Hikmah', relationship: 'deepens',   relationshipLabel: "The method of da'wah", description: "16:125 places hikmah as the first method of da'wah. Da'wah without hikmah — wisdom in reading the person and moment — can repel what it intends to invite." },
+      { slug: 'rahmah',  arabic: 'رَحْمَة', transliteration: 'Rahmah', relationship: 'deepens',   relationshipLabel: "The spirit of da'wah", description: "Da'wah is an act of rahmah — wanting good for the other person, wanting them to find what you have found. Without rahmah, da'wah becomes argument for victory; with it, it becomes genuine invitation." },
+      { slug: 'ummah',   arabic: 'أُمَّة',  transliteration: 'Ummah',  relationship: 'deepens',   relationshipLabel: "Da'wah as the ummah's mission", description: "2:143 makes the ummah's identity as witnesses the basis of its existence. Da'wah is the external expression of ummah identity — a community that exists for humanity." },
+      { slug: 'ikhlas',  arabic: 'إِخْلَاص', transliteration: 'Ikhlas', relationship: 'deepens',   relationshipLabel: "Sincerity in the call", description: "Da'wah done for reputation, for community status, or for the pleasure of winning is not da'wah to Allah — it is da'wah to the self. Ikhlas (sincerity) ensures the call is directed toward Allah, not the caller." },
+    ],
+    scholarsSaid: [
+      { scholar: 'Ibn al-Qayyim', text: "Da'wah to Allah is the noblest of all actions — because the caller invites people from the prison of this world to its expanse, from the narrowness of sin to the openness of obedience, from the subjugation of other than Allah to the freedom of worshipping Allah alone.", source: "Madarij al-Salikin" },
+      { scholar: 'Imam al-Nawawi', text: "The caller to Allah should be gentle, patient, forbearing — because roughness will drive people away from the truth, while gentleness attracts them to it.", source: "Al-Adhkar" },
+      { scholar: 'Al-Ghazali', text: "The scholar who acts on his knowledge and calls others to it is like the sun: it gives light to others while itself remaining bright. Whoever calls to Allah while not acting on his knowledge is like the moon that reflects light it does not itself have.", source: "Ihya' Ulum al-Din" },
+    ],
+    hadith: [
+      { ref: 'Bukhari & Muslim', translation: "Guide one person through you and it is better for you than red camels (the most valued wealth of the Arabs).", note: "The enormous weight placed on a single successful da'wah. But note: the success is the guidance, which is in Allah's hands. The believer's role is to be the channel — 'through you' — not the source of guidance." },
+    ],
+    acrossTransitions: `The practice of inviting others to one's faith — and the ethics of how to do so — varies enormously across traditions. In Christianity, the Great Commission (Matthew 28:18-20) commands disciples to "go and make disciples of all nations." This missionary imperative has driven both extraordinary good (education, healthcare, translation) and immense harm (forced conversion, cultural destruction).
+
+Islam's da'wah tradition has a distinctive principle that Christian missions often struggled with: "There is no compulsion in religion" (2:256). The invitation is genuine — the hearer is free. This freedom is constitutive of genuine da'wah: an invitation that cannot be refused is not an invitation.
+
+In Buddhist thought, the concept of "skillful means" (upaya) — adapting the teaching to the student's capacity and need — is the closest parallel to Islamic hikmah in da'wah. The Buddha is described as understanding his audience and teaching each person what they could receive. 16:125 describes the same principle: wisdom means reading the person and the moment.`,
+    relatedTerms: [
+      { slug: 'hikmah', transliteration: 'Hikmah', term: 'حِكْمَة'  },
+      { slug: 'rahmah', transliteration: 'Rahmah', term: 'رَحْمَة'  },
+      { slug: 'ummah',  transliteration: 'Ummah',  term: 'أُمَّة'   },
+      { slug: 'ikhlas', transliteration: 'Ikhlas', term: 'إِخْلَاص' },
+    ],
+    goDeeper: [
+      { slug: 'al-nahl',    surahName: 'Al-Nahl',     note: "Contains 16:125 — the complete methodology of da'wah. The surah is itself an exhibition of da'wah: every creation described is an argument for the Creator." },
+      { slug: 'fussilat',   surahName: 'Fussilat',    note: "Contains 41:33 — 'who is better in speech than one who calls to Allah.' The surah's name means 'explained in detail' — da'wah requires that things be explained clearly and beautifully. The surah itself demonstrates what it commands." },
     ],
   },
 }
