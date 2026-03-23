@@ -2,6 +2,7 @@ import type { Metadata } from 'next'
 import { ThemeProvider } from 'next-themes'
 import { Toaster } from 'react-hot-toast'
 import { Analytics } from '@vercel/analytics/next'
+import { PostHogProvider } from '@/components/providers/posthog-provider'
 import { CANONICAL_URL, SITE_NAME, SITE_DESCRIPTION } from '@/lib/constants'
 import './globals.css'
 
@@ -53,6 +54,7 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <body className="min-h-screen bg-white dark:bg-navy-dark text-navy dark:text-cream antialiased">
+        <PostHogProvider>
         <ThemeProvider attribute="class" defaultTheme="dark" enableSystem>
           {children}
           <Toaster
@@ -62,6 +64,7 @@ export default function RootLayout({
             }}
           />
         </ThemeProvider>
+        </PostHogProvider>
         <Analytics />
       </body>
     </html>
