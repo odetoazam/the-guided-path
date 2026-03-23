@@ -138,12 +138,12 @@ export const GLOSSARY_TERMS: GlossaryMeta[] = [
   { slug: 'sidq',       term: 'صِدْق',      transliteration: 'Sidq',       category: 'States of the Heart', evocativeLine: 'Truthfulness so complete that the inner and outer become one.',                          hasFullEntry: true },
   { slug: 'tawadu',     term: 'تَوَاضُع',   transliteration: "Tawadu'",    category: 'States of the Heart', evocativeLine: 'Humility that knows where it stands — not self-deprecation but honest seeing.',          hasFullEntry: true },
   { slug: 'zuhd',       term: 'زُهْد',      transliteration: 'Zuhd',       category: 'States of the Heart', evocativeLine: 'Detachment from the world — not hating it, but not being owned by it.',                  hasFullEntry: true },
-  { slug: 'wara',       term: 'وَرَع',      transliteration: "Wara'",      category: 'States of the Heart', evocativeLine: 'Scrupulous caution — leaving even the doubtful for fear of the forbidden.',              hasFullEntry: false },
+  { slug: 'wara',       term: 'وَرَع',      transliteration: "Wara'",      category: 'States of the Heart', evocativeLine: 'Scrupulous caution — leaving even the doubtful for fear of the forbidden.',              hasFullEntry: true },
   { slug: 'hayaa',      term: 'حَيَاء',     transliteration: "Hayaa'",     category: 'States of the Heart', evocativeLine: 'The modesty that guards — the eyes, the tongue, the heart, and the limbs.',             hasFullEntry: true },
-  { slug: 'qanah',      term: 'قَنَاعَة',   transliteration: "Qana'ah",    category: 'States of the Heart', evocativeLine: "Contentment with what Allah has given — the richness that needs no addition.",           hasFullEntry: false },
-  { slug: 'muraqaba',   term: 'مُرَاقَبَة', transliteration: 'Muraqaba',   category: 'States of the Heart', evocativeLine: 'The awareness of being watched — living as though you can see Allah, knowing He sees you.', hasFullEntry: false },
-  { slug: 'muhasaba',   term: 'مُحَاسَبَة', transliteration: 'Muhasaba',   category: 'States of the Heart', evocativeLine: 'The daily accounting of the self — before you are called to account.',                   hasFullEntry: false },
-  { slug: 'inabah',     term: 'إِنَابَة',   transliteration: 'Inabah',     category: 'States of the Heart', evocativeLine: 'Turning to Allah with the whole soul — more urgent and total than tawbah.',              hasFullEntry: false },
+  { slug: 'qanah',      term: 'قَنَاعَة',   transliteration: "Qana'ah",    category: 'States of the Heart', evocativeLine: "Contentment with what Allah has given — the richness that needs no addition.",           hasFullEntry: true },
+  { slug: 'muraqaba',   term: 'مُرَاقَبَة', transliteration: 'Muraqaba',   category: 'States of the Heart', evocativeLine: 'The awareness of being watched — living as though you can see Allah, knowing He sees you.', hasFullEntry: true },
+  { slug: 'muhasaba',   term: 'مُحَاسَبَة', transliteration: 'Muhasaba',   category: 'States of the Heart', evocativeLine: 'The daily accounting of the self — before you are called to account.',                   hasFullEntry: true },
+  { slug: 'inabah',     term: 'إِنَابَة',   transliteration: 'Inabah',     category: 'States of the Heart', evocativeLine: 'Turning to Allah with the whole soul — more urgent and total than tawbah.',              hasFullEntry: true },
   { slug: 'tafakkur',   term: 'تَفَكُّر',   transliteration: 'Tafakkur',   category: 'States of the Heart', evocativeLine: 'The deliberate use of reason to see signs — thinking as an act of worship.',             hasFullEntry: false },
   { slug: 'dhikr',      term: 'ذِكْر',      transliteration: 'Dhikr',      category: 'States of the Heart', evocativeLine: "The remembrance of Allah — the heart's breath, without which it suffocates.",            hasFullEntry: true },
   { slug: 'hilm',       term: 'حِلْم',      transliteration: 'Hilm',       category: 'States of the Heart', evocativeLine: 'Forbearance that absorbs harm without retaliation — the strength to be still.',          hasFullEntry: false },
@@ -4276,6 +4276,456 @@ What Islamic tawadu' adds is the dynamic of reciprocity with Allah: "Whoever hum
     goDeeper: [
       { slug: 'al-furqan', surahName: 'Al-Furqan', note: "Contains 25:63 — the 'ibad al-Rahman walking lightly — the Quran's most famous portrait of tawadu' in practice. The surah's extended character description (25:63-76) builds from the walk of humility through dhikr, prayer, generosity, and the akhira." },
       { slug: 'al-isra', surahName: "Al-Isra'", note: "Contains 17:37 — the prohibition against walking with arrogance. The argument against kibr from the absurdity of the arrogant person's implicit claim is one of the Quran's most elegant rhetorical moments." },
+    ],
+  },
+
+  wara: {
+    slug: 'wara',
+    term: 'وَرَع',
+    transliteration: "Wara'",
+    pronunciation: 'WAH-rah',
+    category: 'States of the Heart' as const,
+    evocativeLine: 'Scrupulous caution — leaving even the doubtful for fear of the forbidden.',
+    hasFullEntry: true,
+    summary: `Wara' is the virtue of the careful soul — the one who, when they reach the edge of the permitted, steps back rather than forward. It is not the avoidance of the haram alone; it is the avoidance of whatever might lead to the haram, whatever blurs the line, whatever trains the self to push limits. The Prophet ﷺ described it as "leaving what does not concern you."
+
+The scholars placed wara' among the highest stations of the heart, above zuhd in some classifications, because zuhd concerns the world while wara' concerns the self — it is an internal calibration of sensitivity to what displeases Allah. Ibn al-Qayyim wrote that the person of wara' treats their heart as a guest house: they do not let in what they cannot vouch for.
+
+Wara' produces a quality of life that is simpler, quieter, and more deliberate. The wari' person asks "should I?" before asking "can I?" They carry fewer things because they screen more carefully at the door. The result is a lightness — not the lightness of those who don't care, but of those who care enough to let go.`,
+    root: {
+      letters: 'و–ر–ع',
+      transliteration: 'w–r–ʿ',
+      meaning: 'To restrain, hold back, be cautious',
+      elaboration: "The root carries the sense of a barrier or restraint — something that holds the self back from overstepping. Related forms include wari' (the one who practices wara'), mawri' (a place of caution or difficulty). The verbal form wara'a means to be cautious, to refrain, to be pious through self-restraint. The noun wara' thus names both the act and the quality of one who habitually holds themselves back from doubtful things.",
+    },
+    occurrenceCount: 0,
+    occurrenceNote: "Wara' as a technical term does not appear in the Quran directly, but its conceptual foundation is in 2:187 (the limits of Allah — 'do not approach them'), 5:90-91 (avoiding what leads to harm), and especially in 2:188 (consuming wealth wrongfully — even if technically permitted). The prophetic tradition is the primary source for wara' as a formal virtue.",
+    keyAyahs: [
+      {
+        ref: '2:187',
+        arabic: 'تِلْكَ حُدُودُ اللَّهِ فَلَا تَقْرَبُوهَا',
+        translation: 'These are the limits of Allah, so do not approach them.',
+        note: "The command is not merely 'do not cross' but 'do not approach' — creating a buffer zone. This is the Quranic logic of wara': the law draws a line, but wara' steps back from the line itself.",
+      },
+      {
+        ref: '6:120',
+        arabic: 'وَذَرُوا ظَاهِرَ الْإِثْمِ وَبَاطِنَهُ',
+        translation: 'And leave the outward sin and the inward.',
+        note: "Wara' is precisely this — not just the external compliance but the inner vigilance. The verse commands both dimensions simultaneously.",
+      },
+      {
+        ref: '49:12',
+        arabic: 'يَا أَيُّهَا الَّذِينَ آمَنُوا اجْتَنِبُوا كَثِيرًا مِّنَ الظَّنِّ',
+        translation: 'O you who believe, avoid much suspicion.',
+        note: "The command to 'avoid much' — not all suspicion, but 'much' — reflects the wara' consciousness: the scrupulous person avoids even the excess of neutral things, not just the clearly harmful.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: 'Knowledge of the halal and haram', arabic: 'معرفة الحلال والحرام', arabicTranslit: "maʿrifat al-ḥalāl wa-l-ḥarām", description: "Wara' requires knowing what is permitted and forbidden — you cannot avoid the doubtful without knowing where the clear lines are. The ignorant person's caution is just anxiety; the knowledgeable person's caution is wara'." },
+        { number: 2, title: 'Sensitivity to the heart', arabic: 'حساسية القلب', arabicTranslit: 'ḥasāsiyyat al-qalb', description: "The Prophet ﷺ said: 'Seek a fatwa from your heart.' Wara' requires that you have cultivated a heart sensitive enough to feel discomfort at the doubtful. If the heart is hardened, it no longer gives reliable readings." },
+        { number: 3, title: 'Willingness to leave benefit', arabic: 'ترك المنفعة احتياطاً', arabicTranslit: 'tark al-manfaʿa iḥtiyāṭan', description: "True wara' sometimes means leaving what is technically permissible because of how it affects the heart or leads toward the doubtful. This requires preferring safety over benefit — a form of zuhd applied inward." },
+      ],
+      stations: [
+        { name: "Wara' of the obligatory", description: "The beginning: performing all that is wajib and leaving all that is haram. This is the foundation." },
+        { name: "Wara' of the makruh", description: "Avoiding what is disliked even without prohibition — because the disliked thing trains the self toward the prohibited." },
+        { name: "Wara' of the doubtful", description: "The classical wara' proper — leaving the mushtabih (doubtful) out of caution, as the Prophet ﷺ commanded: 'Leave what makes you doubt for what does not make you doubt.'" },
+        { name: "Wara' of the permissible", description: "The highest station — leaving permissible things that distract the heart from Allah, waste time, or train the self in habits of indulgence. This is the wara' of the awliya'." },
+      ],
+      questions: [
+        { question: "What am I reaching for that I know is not quite right — even if I can technically justify it?", answer: "The heart knows before the tongue justifies. The discomfort that appears before the argument is the voice of wara'." },
+        { question: "When I feel the discomfort the Prophet ﷺ described, do I listen to it or override it?", answer: "The override is usually not a decision — it is a habit of not pausing. Wara' builds the pause into the moment of impulse." },
+        { question: "Is my caution about Allah's pleasure, or is it just anxiety about consequences?", answer: "Fear of consequences without love produces rigidity. Wara' rooted in love of Allah produces discernment — a different quality entirely." },
+      ],
+    },
+    semanticField: [
+      { slug: 'taqwa',  arabic: 'تَقْوَى',  transliteration: 'Taqwa',  relationship: 'parallels',      relationshipLabel: 'The broader frame', description: "Taqwa is the consciousness of Allah that generates wara'. Wara' is taqwa applied to the fine-grained level of daily choices." },
+      { slug: 'zuhd',   arabic: 'زُهْد',    transliteration: 'Zuhd',   relationship: 'parallels',      relationshipLabel: 'Related detachment', description: "Zuhd is detachment from what is permissible for the sake of the heart. Wara' is caution about what might not be permissible. They overlap in the higher stations where the permitted itself becomes subject to scrutiny." },
+      { slug: 'ikhlas', arabic: 'إِخْلَاص', transliteration: 'Ikhlas', relationship: 'deepens',        relationshipLabel: 'The motive', description: "Wara' practiced for show is not wara' at all. Ikhlas is what keeps the scrupulousness directed toward Allah rather than toward reputation." },
+      { slug: 'sidq',   arabic: 'صِدْق',    transliteration: 'Sidq',   relationship: 'parallels',      relationshipLabel: 'Truthfulness with self', description: "Wara' requires sidq — the willingness to be honest with yourself about what your heart is actually doing. The person who practices wara' cannot afford self-deception." },
+    ],
+    scholarsSaid: [
+      { scholar: 'Sufyan al-Thawri', text: "I have not seen anything easier than wara' — leave what makes you doubt.", source: "Reported in Hilyat al-Awliya" },
+      { scholar: 'Ibn al-Qayyim', text: "Wara' is the abandonment of everything that might harm you in the Hereafter.", source: "Madarij al-Salikin" },
+      { scholar: 'Ahmad ibn Hanbal', text: "The foundation of this matter — the beginning of it and the end — is wara'. For when the servant is scrupulous in his religion, he is saved from most evils.", source: "Reported by Ibn Rajab" },
+    ],
+    hadith: [
+      { ref: 'Tirmidhi', translation: "Part of the excellence of a person's Islam is leaving what does not concern him.", note: "This hadith is considered one of the foundational texts of wara'. 'What does not concern you' covers doubtful matters, excessive speech, unnecessary involvement — all the territory wara' guards." },
+      { ref: 'Bukhari & Muslim', translation: "The halal is clear, the haram is clear, and between them are doubtful matters that many people do not know about. Whoever avoids the doubtful has protected his religion and his honor. And whoever falls into the doubtful falls into the haram, like a shepherd who grazes near a sanctuary — he is likely to enter it.", note: "The foundational hadith for the doctrine of wara'. The 'sanctuary' metaphor is precise: the haram is not a cliff you fall off, but a boundary that proximity itself threatens." },
+    ],
+    acrossTransitions: `The concept of scrupulosity — heightened moral sensitivity to the boundary between permitted and forbidden — appears across traditions. In Jewish law, lifnim mishurat hadin means "beyond the letter of the law" — the rabbis praised those who acted more stringently than required. The Talmudic concept of geder (a fence around the Torah) is structurally identical to wara': you do not just obey the law, you create distance from its violation.
+
+In Christian monastic tradition, the Desert Fathers taught nepsis — watchfulness, sobriety of soul, vigilance about what enters the heart. Evagrius Ponticus described this as vigilance against logismoi (troubling thoughts) before they become sins. The logic is identical to Islamic wara': the battle is won or lost before the actual transgression.
+
+What is distinctive in the Islamic tradition is the hadith-based precision: the Prophet ﷺ gave specific criteria (what creates doubt in the chest), a specific standard (leave it), and a specific reward (protection of religion and honor). This grounds wara' in practical discernment rather than general anxiousness.`,
+    relatedTerms: [
+      { slug: 'taqwa',    transliteration: 'Taqwa',    term: 'تَقْوَى'   },
+      { slug: 'zuhd',     transliteration: 'Zuhd',     term: 'زُهْد'     },
+      { slug: 'ikhlas',   transliteration: 'Ikhlas',   term: 'إِخْلَاص'  },
+      { slug: 'muhasaba', transliteration: 'Muhasaba', term: 'مُحَاسَبَة' },
+    ],
+    goDeeper: [
+      { slug: 'al-baqarah', surahName: 'Al-Baqarah', note: "Contains 2:168-188 — the passages on permitted and forbidden food and the command not to approach the limits of Allah. The structure of this passage (eat what is good, avoid what is evil, do not approach the limits) maps perfectly onto the three levels of wara'." },
+      { slug: 'al-anam',    surahName: "Al-An'am",    note: "Contains the most detailed Quranic treatment of halal/haram in food (6:118-121, 6:145), including 6:120: 'leave the outward sin and the inward.' The inward dimension is the domain of wara'." },
+    ],
+  },
+
+  qanah: {
+    slug: 'qanah',
+    term: 'قَنَاعَة',
+    transliteration: "Qana'ah",
+    pronunciation: "qa-NAA-'ah",
+    category: 'States of the Heart' as GlossaryCategory,
+    evocativeLine: "Contentment with what Allah has given — the richness that needs no addition.",
+    hasFullEntry: true,
+    summary: `Qana'ah is the virtue of the satisfied soul — not satisfied because it has everything it wants, but because it has reoriented what it wants. The person of qana'ah looks at their provision and sees sufficiency; the person without it looks at the same provision and sees lack. The difference is not in the provision but in the heart's relationship to it.
+
+The Prophet ﷺ called qana'ah "a treasure that does not run out." This is precise: worldly wealth is exhaustible, but the sense of sufficiency is renewable. The person who has trained their heart to be content carries their wealth internally — it cannot be taken, cannot be lost in the market, cannot be inflated away. It is the one truly portable asset.
+
+Qana'ah is not passivity or the abandonment of striving. The person of qana'ah still works, still seeks sustenance, still has goals. But they hold the outcomes loosely — they strive without being enslaved to the result. The work is done for Allah; the provision comes from Allah; and what comes is enough.`,
+    root: {
+      letters: 'ق–ن–ع',
+      transliteration: 'q–n–ʿ',
+      meaning: 'To be satisfied, to be content, to suffice',
+      elaboration: "The root q-n-' carries the sense of receiving what is given and being satisfied with it. Related forms include qani' (one who is content, who does not beg), and iqtana' (to acquire/possess). The opposite is hirs (greed, excessive desire) and tama' (covetousness).",
+    },
+    occurrenceCount: 1,
+    occurrenceNote: "The root q-n-' appears in 22:36 (qani' and mu'tarr — the content and the one who asks). While qana'ah as a technical spiritual term comes primarily from hadith and scholarly tradition, the Quran's teaching on rizq and tawakkul is its Quranic foundation.",
+    keyAyahs: [
+      {
+        ref: '20:131',
+        arabic: 'وَلَا تَمُدَّنَّ عَيْنَيْكَ إِلَىٰ مَا مَتَّعْنَا بِهِ أَزْوَاجًا مِّنْهُمْ',
+        translation: 'And do not extend your eyes toward what We have given some of them to enjoy of worldly life.',
+        note: "Allah commands even the Prophet ﷺ not to look longingly at what others have been given. The phrase 'extend your eyes' is visceral — the eyes reaching out, straining toward what is not yours. Qana'ah is the spiritual posture that keeps the eyes resting at home.",
+      },
+      {
+        ref: '94:7-8',
+        arabic: 'فَإِذَا فَرَغْتَ فَانصَبْ ۝ وَإِلَىٰ رَبِّكَ فَارْغَب',
+        translation: 'So when you have finished, strive again. And to your Lord direct your longing.',
+        note: "The Quran redirects human longing (raghbah) from the world to Allah. This is the inner mechanism of qana'ah: not the suppression of desire, but its redirection. The heart still longs — but toward the right object.",
+      },
+      {
+        ref: '16:97',
+        arabic: 'فَلَنُحْيِيَنَّهُ حَيَاةً طَيِّبَةً',
+        translation: 'We will surely cause him to live a good life.',
+        note: "The 'good life' promised to the righteous believer — classical scholars identified this hayah tayyibah as qana'ah: a contentment that transforms ordinary circumstances into sufficiency.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: 'Belief in divine wisdom in provision', arabic: 'الإيمان بحكمة الله في الرزق', arabicTranslit: "al-īmān bi-ḥikmat Allāh fi-l-rizq", description: "Qana'ah is grounded in the conviction that Allah distributes provision with wisdom — that the amount you received is not arbitrary. Without this, contentment is just suppression of desire." },
+        { number: 2, title: 'Gratitude for what is present', arabic: 'الشكر على الموجود', arabicTranslit: 'al-shukr ʿalā al-mawjūd', description: "The person of qana'ah actively practices shukr — naming and appreciating what they have. Gratitude prevents the heart from calculating what it lacks." },
+        { number: 3, title: 'Guarding the eyes', arabic: 'غض البصر عن الدنيا', arabicTranslit: 'ghaḍḍ al-baṣar ʿan al-dunyā', description: "Qana'ah requires controlling what you look at and dwell on. The Prophet ﷺ commanded looking at those below you in worldly things — not those above you — for exactly this reason." },
+      ],
+      stations: [
+        { name: "Qana'ah from necessity", description: "Accepting what you have because you have no choice. This is patience, not yet qana'ah." },
+        { name: "Qana'ah through effort", description: "Training yourself to be satisfied — actively redirecting comparisons, practicing gratitude. The beginning of the virtue." },
+        { name: "Qana'ah by nature", description: "The station of the advanced: the heart naturally settles at what it has, without effort, without comparison, without longing for what is not there. This is the 'treasure that does not run out.'" },
+      ],
+      questions: [
+        { question: "What am I looking at that makes my own provision feel insufficient?", answer: "The Quran's answer is direct: stop looking. The eyes train the heart. What you look at longingly, you begin to need." },
+        { question: "If my circumstances did not change at all, could I be at peace?", answer: "If not — the disquiet is not in the circumstances but in the heart. Qana'ah treats the source rather than the symptom." },
+        { question: "Am I striving for more because it will genuinely serve Allah, or because I cannot be still with what I have?", answer: "Both striving and stillness are valid. The question is which is driving — the soul oriented to Allah, or restlessness oriented to the world." },
+      ],
+    },
+    semanticField: [
+      { slug: 'shukr',    arabic: 'شُكْر',   transliteration: 'Shukr',    relationship: 'deepens',        relationshipLabel: "The expression of qana'ah", description: "Qana'ah produces shukr — the content heart naturally gives thanks. Without shukr, qana'ah is merely passive acceptance; with it, it becomes an active blessing." },
+      { slug: 'tawakkul', arabic: 'تَوَكُّل', transliteration: 'Tawakkul', relationship: 'parallels',      relationshipLabel: 'Trust in provision', description: "Tawakkul trusts that Allah will provide; qana'ah accepts what He provides. They are forward and backward looking dimensions of the same trust in Allah's wisdom over rizq." },
+      { slug: 'zuhd',     arabic: 'زُهْد',   transliteration: 'Zuhd',     relationship: 'parallels',      relationshipLabel: 'Detachment', description: "Zuhd is detachment from the world; qana'ah is contentment with what is given within it. They overlap: the zahid needs qana'ah, and the content person has begun the journey of zuhd." },
+      { slug: 'sabr',     arabic: 'صَبْر',   transliteration: 'Sabr',     relationship: 'precedes',       relationshipLabel: 'The training ground', description: "Sabr in hardship is the training that builds qana'ah. The person who has practiced patience with difficulty gradually discovers that their needs are fewer than they thought." },
+    ],
+    scholarsSaid: [
+      { scholar: 'Ibn al-Qayyim', text: "Qana'ah is wealth, and its fruit is ease of living. Whoever is given qana'ah has been given a treasure that does not diminish and a wealth that does not run out.", source: "Madarij al-Salikin" },
+      { scholar: "Ali ibn Abi Talib", text: "Qana'ah is a wealth that does not run out.", source: 'Reported in various collections' },
+      { scholar: 'Al-Muhasibi', text: "Know that contentment is not the abandonment of seeking, but the abandonment of complaint about what is given and the abandonment of longing for what is withheld.", source: "Al-Ri'ayah" },
+    ],
+    hadith: [
+      { ref: 'Muslim', translation: "Richness is not having many possessions, but richness is contentment of the soul (ghina al-nafs).", note: "The Prophet ﷺ relocates wealth entirely from the external to the internal. Ghina al-nafs — soul-wealth — is qana'ah. A person with a million dollars and an unsatisfied soul is poor; a person with little and a satisfied soul is rich." },
+      { ref: 'Tirmidhi', translation: "Be content with what Allah has distributed for you and you will be the richest of people.", note: "The command is active acceptance — satisfaction with the decree. This is qana'ah in imperative form." },
+    ],
+    acrossTransitions: `Contentment as a virtue appears in every major tradition, often as the culminating achievement of the spiritual life. The Stoics called it autarkeia (self-sufficiency) — the sage who needs nothing external to be at peace. Epictetus, himself a former slave, taught that everything external is "not up to us"; qana'ah is the Islamic parallel, though grounded in divine sovereignty rather than Stoic reason.
+
+In Buddhist thought, santuṭṭhi (contentment) is a foundational virtue — the recognition that craving (taṇhā) is the source of suffering. Reducing wanting reduces suffering. The Buddhist logic is psychological; the Islamic logic adds a layer: the provision that comes is from Allah and is exactly what He chose. Contentment is not just wise, it is a form of trust in a Giver.
+
+In the Jewish tradition, the daily prayer formula "dayenu" — it would have been enough — embeds qana'ah into liturgy. Each gift recounted in the Passover Seder is sufficient on its own. This structure of gratitude for incremental gifts rather than the final total is the practice of qana'ah made communal.`,
+    relatedTerms: [
+      { slug: 'shukr',    transliteration: 'Shukr',    term: 'شُكْر'    },
+      { slug: 'tawakkul', transliteration: 'Tawakkul', term: 'تَوَكُّل' },
+      { slug: 'zuhd',     transliteration: 'Zuhd',     term: 'زُهْد'    },
+      { slug: 'rizq',     transliteration: 'Rizq',     term: 'رِزْق'    },
+    ],
+    goDeeper: [
+      { slug: 'ta-ha',   surahName: 'Ta-Ha',   note: "Contains 20:131 — the command not to extend the eyes toward worldly enjoyment given to others. This is the Quranic portrait of qana'ah as a posture of the eyes and the heart." },
+      { slug: 'al-duha', surahName: 'Al-Duha', note: "The surah's closing promise — 'your Lord will give you, and you will be satisfied' (93:5) — promises satisfaction (tarda) as the ultimate gift. Qana'ah is the orientation that prepares the heart to receive it." },
+    ],
+  },
+
+  muraqaba: {
+    slug: 'muraqaba',
+    term: 'مُرَاقَبَة',
+    transliteration: 'Muraqaba',
+    pronunciation: 'mu-RAA-qa-bah',
+    category: 'States of the Heart' as GlossaryCategory,
+    evocativeLine: 'The awareness of being watched — living as though you can see Allah, knowing He sees you.',
+    hasFullEntry: true,
+    summary: `Muraqaba is the station of the heart that remains continuously aware of Allah's gaze. The word comes from raqaba — to watch, to observe, to guard. Allah is Al-Raqib: the Ever-Watchful. Muraqaba is the servant's reciprocal response — not matching Allah's watch, which is impossible, but acknowledging it, orienting toward it, living in its light.
+
+The Prophet ﷺ described ihsan as "worshipping Allah as though you see Him — and if you do not see Him, knowing He sees you." Muraqaba is this second dimension: even when the heart cannot achieve the vivid presence of seeing Allah, it knows that it is seen. This knowing is not a threat but an intimacy — the awareness of being permanently, attentively regarded by the One who loves the servant more than they can conceive.
+
+Al-Ghazali described muraqaba as the foundation of all spiritual progress: the person who truly knows they are watched changes everything — their speech, their thoughts, their private moments. Not from fear alone, but from the natural modesty of one who is never alone. The most powerful test of muraqaba is what happens in private: does the servant's behavior change when no human eye can see?`,
+    root: {
+      letters: 'ر–ق–ب',
+      transliteration: 'r–q–b',
+      meaning: 'To watch, guard, observe closely, be on the lookout',
+      elaboration: 'The root r-q-b refers to the heightened, sustained attention of one who watches — a sentinel, a guard. Al-Raqib is one of the Names of Allah (33:52; 5:117): the Ever-Watchful who observes every movement of every creation. Muraqaba is the verbal noun of the third form (raaqaba), meaning to watch mutually — in human-divine relation, it is the awareness of being watched and orienting toward that fact.',
+    },
+    occurrenceCount: 5,
+    occurrenceNote: "The root r-q-b appears in the Quran as one of Allah's Names (Al-Raqib — 33:52, 5:117), as the watching of deeds (50:18: 'a watcher is ready'), and in the context of covenant-keeping (4:1: 'Allah is ever-watchful over you'). The cumulative effect builds the theology on which muraqaba rests.",
+    keyAyahs: [
+      {
+        ref: '50:18',
+        arabic: 'مَّا يَلْفِظُ مِن قَوْلٍ إِلَّا لَدَيْهِ رَقِيبٌ عَتِيدٌ',
+        translation: 'Not a word does he utter but there is a watcher by him, ready.',
+        note: "The verse is visceral: every word has an already-present, already-ready witness. Not a witness who records it after; a watcher who is there before. Muraqaba is the internalization of this reality until the servant feels it.",
+      },
+      {
+        ref: '4:1',
+        arabic: 'إِنَّ اللَّهَ كَانَ عَلَيْكُمْ رَقِيبًا',
+        translation: 'Indeed, Allah is ever-watching over you.',
+        note: "Used here in the context of family ties — Allah watches how you treat relatives. Muraqaba is not an abstract spiritual exercise but a practical awareness that governs every relationship.",
+      },
+      {
+        ref: '58:7',
+        arabic: 'مَا يَكُونُ مِن نَّجْوَىٰ ثَلَاثَةٍ إِلَّا هُوَ رَابِعُهُمْ',
+        translation: 'There is no private conversation of three but He is the fourth of them.',
+        note: "This verse demolishes the concept of 'private' in the absolute sense. No gathering, no whispered secret, no closed-door meeting is unwitnessed. Muraqaba is the response to this cosmic reality.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: "Knowledge of Allah's Names", arabic: "معرفة أسماء الله الحسنى", arabicTranslit: "maʿrifat asmāʾ Allāh al-ḥusnā", description: "Muraqaba is built on knowing Al-Raqib, Al-'Alim, Al-Khabir, Al-Basir — the Names that affirm Allah's total awareness. Without this theological foundation, muraqaba is just self-consciousness." },
+        { number: 2, title: 'Continuity of remembrance', arabic: 'ديمومة الذكر', arabicTranslit: "dawāmat al-dhikr", description: "Muraqaba requires dhikr — the repeated return to consciousness of Allah. Without regular dhikr, the awareness fades. Muraqaba is not a one-time realization but a sustained orientation." },
+        { number: 3, title: 'Accountability of private moments', arabic: 'محاسبة الخلوات', arabicTranslit: 'muḥāsabat al-khalawāt', description: "The test is privacy: does the servant's behavior change when no human can see? The growing alignment of private and public behavior is the measure of muraqaba's depth." },
+      ],
+      stations: [
+        { name: 'Muraqaba in action', description: "The beginning: remembering Allah's gaze while performing outward acts. The prayer is done correctly because He sees." },
+        { name: 'Muraqaba in speech', description: "Extending the awareness to words: every statement is made as if reported directly. The liar cannot sustain this." },
+        { name: 'Muraqaba in thought', description: "The advanced station: guarding the thoughts themselves, knowing that Allah sees not just the act and the word but the intention behind both. 'Allah knows what the hearts conceal' (3:119)." },
+        { name: 'Muraqaba as presence', description: "The highest station: not monitoring oneself for violations, but simply resting in the awareness of Allah's presence — the orientation of ihsan. The servant lives in a permanent sense of being with Allah." },
+      ],
+      questions: [
+        { question: "Would I do this if I could see Allah watching? Since I cannot see Him but He sees me — what changes?", answer: "The gap between 'what I do when watched' and 'what I do in private' is the measure of how much muraqaba has taken root." },
+        { question: "In my most private moments — my thoughts, my internet use, my speech when no one is listening — am I the same person I am in public?", answer: "Muraqaba does not aim for performance in public but for integrity in private. Consistency is the sign of genuine awareness." },
+        { question: "Is my muraqaba based on fear of being caught, or on the intimacy of being known?", answer: "Fear produces compliance; love produces presence. The mature muraqaba is not surveillance anxiety but the warmth of never being alone." },
+      ],
+    },
+    semanticField: [
+      { slug: 'ihsan',    arabic: 'إِحْسَان',    transliteration: 'Ihsan',    relationship: 'deepens',   relationshipLabel: "Muraqaba's fruit", description: "Ihsan is 'worshipping Allah as though you see Him.' Muraqaba is the beginning of this — the awareness that He sees you, even when you cannot achieve the vivid presence of seeing Him." },
+      { slug: 'taqwa',    arabic: 'تَقْوَى',    transliteration: 'Taqwa',    relationship: 'parallels', relationshipLabel: 'Consciousness of Allah', description: "Taqwa is the protective consciousness of Allah; muraqaba is the watchfulness of His gaze. They are twin orientations — taqwa acts, muraqaba attends." },
+      { slug: 'muhasaba', arabic: 'مُحَاسَبَة', transliteration: 'Muhasaba', relationship: 'deepens',   relationshipLabel: 'The daily review', description: "Muhasaba is the accounting that follows muraqaba: after living under Allah's gaze all day, the evening review asks what that gaze saw. They are daily companions." },
+      { slug: 'ikhlas',   arabic: 'إِخْلَاص',   transliteration: 'Ikhlas',   relationship: 'parallels', relationshipLabel: 'The intention layer', description: "Muraqaba purifies action through awareness; ikhlas purifies action through intention. Together they produce the action that is both sincere and watched — the action of the muhsin." },
+    ],
+    scholarsSaid: [
+      { scholar: 'Al-Junayd', text: "Muraqaba is that you know in every moment that Allah knows what you are doing.", source: "Al-Risalah al-Qushayriyyah" },
+      { scholar: 'Al-Ghazali', text: "Picture yourself standing before Allah in every state — that He sees your outward and your inward, your movement and your stillness, and He is witness to your secret and your open acts.", source: "Ihya' Ulum al-Din" },
+      { scholar: 'Ibn al-Qayyim', text: "Muraqaba is the heart's knowledge — certain and continuous — that Allah sees it and is aware of it. When this knowledge is confirmed in the heart, it produces hayaa', muhasaba, and the abandonment of all that is displeasing to Him.", source: "Madarij al-Salikin" },
+    ],
+    hadith: [
+      { ref: 'Muslim (Hadith of Jibril)', translation: "He said: 'Tell me about ihsan.' He said: 'It is that you worship Allah as though you see Him. For even if you do not see Him, He sees you.'", note: "The second clause — 'He sees you' — is the definition of muraqaba. The first — 'as though you see Him' — is its highest expression. Muraqaba is the gateway to ihsan: you begin with being seen, and in time the heart opens to see." },
+    ],
+    acrossTransitions: `The practice of living in the awareness of divine witnessing is universal across traditions. In Christian mysticism, Brother Lawrence's "practicing the presence of God" is structurally identical to muraqaba: a continuous, moment-to-moment awareness of divine regard that transforms ordinary activity into worship.
+
+In Jewish tradition, the Talmudic principle: "Know what is above you: an eye that sees, an ear that hears, and all your deeds are recorded" (Avot 2:1). This awareness is muraqaba embedded in ethical instruction.
+
+In Buddhist practice, sati (mindfulness) is an awareness of what one is doing, saying, and thinking in each moment. The difference is the object: Buddhist sati is awareness of the self's experience; Islamic muraqaba is awareness of being known by Allah. The form is similar; the relationship is different — the Muslim is not alone in the awareness.`,
+    relatedTerms: [
+      { slug: 'ihsan',    transliteration: 'Ihsan',    term: 'إِحْسَان'   },
+      { slug: 'muhasaba', transliteration: 'Muhasaba', term: 'مُحَاسَبَة' },
+      { slug: 'taqwa',    transliteration: 'Taqwa',    term: 'تَقْوَى'    },
+      { slug: 'hayaa',    transliteration: "Hayaa'",   term: 'حَيَاء'     },
+    ],
+    goDeeper: [
+      { slug: 'qaf',         surahName: 'Qaf',         note: "Surah Qaf is the surah of comprehensive witness: 50:16 ('closer to him than his jugular vein'), 50:17-18 (the two recording angels), 50:18 ('not a word but a watcher is ready'). Read it slowly and feel watched." },
+      { slug: 'al-mujadila', surahName: 'Al-Mujadila', note: "Contains 58:7 — Allah is the fourth in every private conversation of three. The surah opens with a woman's private complaint heard by Allah, showing that even the most intimate conversations are received." },
+    ],
+  },
+
+  muhasaba: {
+    slug: 'muhasaba',
+    term: 'مُحَاسَبَة',
+    transliteration: 'Muhasaba',
+    pronunciation: 'mu-HAA-sa-bah',
+    category: 'States of the Heart' as GlossaryCategory,
+    evocativeLine: 'The daily accounting of the self — before you are called to account.',
+    hasFullEntry: true,
+    summary: `Muhasaba is the practice of holding yourself to account before you are held to account. It is the evening review, the mid-day pause, the honest look in the mirror before another day begins. The word comes from hisab — accounting, reckoning — the same word used for the Day of Judgment. Muhasaba is the servant's self-administered version of that reckoning, conducted daily so that the final one is easier.
+
+Umar ibn al-Khattab's famous instruction captures it precisely: "Take account of yourselves before you are taken to account, and weigh yourselves before you are weighed." The person who conducts a daily muhasaba is not surprised on the Day of Reckoning — they have been rehearsing it, refining it, correcting the ledger in real time.
+
+Al-Muhasibi — whose very name derives from this practice — built an entire tradition around muhasaba as the foundational spiritual discipline. His insight: most people know their faults in the abstract but never sit with them in the particular. Muhasaba forces the particular. Not "I sometimes get angry" but "today, at Dhuhr, when my brother said X, I responded with Y, and the real reason was Z." This specificity is where transformation lives.`,
+    root: {
+      letters: 'ح–س–ب',
+      transliteration: 'ḥ–s–b',
+      meaning: 'To count, reckon, account, consider sufficient',
+      elaboration: "The root h-s-b is one of the richest in Arabic. Hisab is accounting; hasib is the reckoner; hasbuna Allah is 'Allah is sufficient for us.' Muhasaba (third form) means a mutual accounting — the self holds itself to account, and what emerges settles the balance between what was intended and what was done.",
+    },
+    occurrenceCount: 37,
+    occurrenceNote: "The root h-s-b appears 37 times in the Quran, primarily in the context of divine reckoning (hisab on the Day of Judgment). The concept of muhasaba as a daily self-practice is derived from the prophetic tradition, but the Quranic emphasis on Allah's hisab provides its urgency.",
+    keyAyahs: [
+      {
+        ref: '59:18',
+        arabic: 'وَلْتَنظُرْ نَفْسٌ مَّا قَدَّمَتْ لِغَدٍ',
+        translation: 'And let every soul look to what it has sent ahead for tomorrow.',
+        note: "This is the Quranic mandate for muhasaba. The command is to 'look' — not just feel vaguely, but actually examine what has been sent forward. The 'tomorrow' is the Day of Judgment, but the looking is now.",
+      },
+      {
+        ref: '84:8',
+        arabic: 'فَسَوْفَ يُحَاسَبُ حِسَابًا يَسِيرًا',
+        translation: 'He will be given an easy accounting.',
+        note: "The scholars identified this 'ease' with the practice of muhasaba in this life — the one who accounts themselves daily comes to the final accounting already mostly settled.",
+      },
+      {
+        ref: '2:284',
+        arabic: 'وَإِن تُبْدُوا مَا فِي أَنفُسِكُمْ أَوْ تُخْفُوهُ يُحَاسِبْكُم بِهِ اللَّهُ',
+        translation: 'Whether you disclose what is in yourselves or conceal it, Allah will call you to account for it.',
+        note: "Muhasaba extends to the inner life — intentions, thoughts, the contents of the nafs. This verse makes the accounting comprehensive: not just deeds, but what is inside.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: 'Honesty before Allah', arabic: 'الصدق مع الله', arabicTranslit: 'al-ṣidq maʿa Allāh', description: "Muhasaba requires radical honesty — naming what you actually did, thought, and intended, not what you wish you had done. Self-deception defeats the entire practice." },
+        { number: 2, title: 'Specificity', arabic: 'التفصيل والتحديد', arabicTranslit: 'al-tafṣīl wa-l-taḥdīd', description: "General self-assessment ('I could be better') does not produce change. Muhasaba requires specific incidents, specific words, specific moments — and specific assessment of the intention behind each." },
+        { number: 3, title: 'Regularity', arabic: 'المداومة', arabicTranslit: 'al-mudāwama', description: "Al-Ghazali recommended three separate daily audits: before action (plan), during action (monitor), and after action (review). Even once daily — at night — is transformative if practiced consistently." },
+      ],
+      stations: [
+        { name: 'Muhasaba of obligations', description: 'The starting point: did I fulfill what was required? Did I pray? Was there something fard I missed or did incompletely?' },
+        { name: 'Muhasaba of speech', description: 'What did I say today? Was it true? Was it useful? Was there backbiting, argumentation, hurtful words?' },
+        { name: 'Muhasaba of intention', description: "The deeper level: in what I did and said, what was my actual motive? Was it for Allah, for reputation, for self-interest? Where did riya' (showing off) enter?" },
+        { name: 'Muhasaba of the heart', description: "The most advanced: what states did the heart move through today? When was it present with Allah? When did it drift? Where did envy, resentment, or pride arise — and was it noticed or suppressed?" },
+      ],
+      questions: [
+        { question: "At the end of today: what was the best thing I did? What was the worst? What should I have done differently?", answer: "The point is not guilt but recalibration. The evening review that finds the error and corrects course is the practice; condemnation without correction is not muhasaba." },
+        { question: "When I examine today's intentions honestly — were they for Allah or for me?", answer: "Ikhlas is the standard muhasaba applies. The question is not whether the action was good but whether it was done for the right reason." },
+        { question: "What would today's accounting look like if presented to me on the Day of Judgment?", answer: "This question makes muhasaba urgent without being paralytic. It is not terror but clarity — the clarity of seeing your day as it actually was." },
+      ],
+    },
+    semanticField: [
+      { slug: 'muraqaba', arabic: 'مُرَاقَبَة', transliteration: 'Muraqaba', relationship: 'precedes',  relationshipLabel: 'The awareness muhasaba reviews', description: "Muraqaba is the live awareness of being watched; muhasaba is the evening review of what that gaze saw. They are the morning intention and the evening reckoning." },
+      { slug: 'tawbah',   arabic: 'تَوْبَة',    transliteration: 'Tawbah',   relationship: 'deepens',   relationshipLabel: "Muhasaba's necessary outcome", description: "Muhasaba that does not lead to tawbah is incomplete. The accounting that finds fault must then return to Allah — otherwise it becomes self-flagellation, not spiritual growth." },
+      { slug: 'ikhlas',   arabic: 'إِخْلَاص',   transliteration: 'Ikhlas',   relationship: 'deepens',   relationshipLabel: 'The intention audit', description: "The most important function of muhasaba is examining the sincerity of intentions. Without ikhlas as the standard, muhasaba has no measure to apply." },
+      { slug: 'wara',     arabic: 'وَرَع',       transliteration: "Wara'",    relationship: 'parallels', relationshipLabel: 'Pre-emptive and retrospective caution', description: "Wara' is pre-emptive caution before the act; muhasaba is retrospective accounting after it. They guard the entirety of action together." },
+    ],
+    scholarsSaid: [
+      { scholar: "Umar ibn al-Khattab", text: "Take account of yourselves before you are taken to account, and weigh yourselves before you are weighed. For it is easier for you to take account of yourselves today than to be taken to account tomorrow.", source: 'Reported by al-Tirmidhi and Ibn al-Mubarak' },
+      { scholar: 'Al-Muhasibi', text: "The beginning of all good is your knowledge of your own soul — for the one who does not know his soul does not know his Lord.", source: "Al-Ri'ayah li-Huquq Allah" },
+      { scholar: 'Ibn al-Qayyim', text: "The intelligent person takes account of himself and works for what comes after death. The incapable person follows his desires and then hopes in Allah.", source: "Madarij al-Salikin" },
+    ],
+    hadith: [
+      { ref: "Tirmidhi", translation: "The intelligent person is he who takes account of himself and works for what comes after death.", note: "The Prophet ﷺ defines intelligence as self-accounting plus preparation. This connects muhasaba directly to 'aql — rational capacity properly oriented toward what matters." },
+    ],
+    acrossTransitions: `Self-examination is a practice present in virtually every serious spiritual tradition. The Stoics practiced the daily evening review — Marcus Aurelius' Meditations are essentially published muhasaba journals. Seneca wrote: "I examine my entire day and go back over what I've done and said, hiding nothing from myself, passing nothing by."
+
+In the Christian tradition, the Ignatian Examen is a structured daily prayer of five steps: gratitude, review, feelings, forgiveness, renewal. Jesuit spiritual directors consider it more important than any other single spiritual practice. The emphasis on feelings and failures as the raw material of spiritual growth closely parallels muhasaba's attention to the inner life.
+
+The Jewish practice of cheshbon ha-nefesh (accounting of the soul) is a formal mussar tradition. Rabbi Yisrael Salanter built elaborate systems of daily self-examination — a direct structural parallel to the tradition of Al-Muhasibi twelve centuries earlier.`,
+    relatedTerms: [
+      { slug: 'muraqaba', transliteration: 'Muraqaba', term: 'مُرَاقَبَة' },
+      { slug: 'tawbah',   transliteration: 'Tawbah',   term: 'تَوْبَة'    },
+      { slug: 'ikhlas',   transliteration: 'Ikhlas',   term: 'إِخْلَاص'   },
+      { slug: 'taqwa',    transliteration: 'Taqwa',    term: 'تَقْوَى'    },
+    ],
+    goDeeper: [
+      { slug: 'al-hashr',    surahName: 'Al-Hashr',    note: "Contains 59:18 — the command to 'look to what it has sent ahead for tomorrow.' This is the Quranic muhasaba verse: active, forward-looking, specific. The surah's context — reflecting on the fate of those expelled — makes the urgency concrete." },
+      { slug: 'al-inshiqaq', surahName: 'Al-Inshiqaq', note: "Contains 84:8 — the 'easy accounting.' The surah's imagery of the sky splitting and earth stretched flat creates the cosmic setting for the hisab that muhasaba prepares for." },
+    ],
+  },
+
+  inabah: {
+    slug: 'inabah',
+    term: 'إِنَابَة',
+    transliteration: 'Inabah',
+    pronunciation: 'i-NAA-bah',
+    category: 'States of the Heart' as GlossaryCategory,
+    evocativeLine: 'Turning to Allah with the whole soul — more urgent and total than tawbah.',
+    hasFullEntry: true,
+    summary: `Inabah is the total turning of the soul toward Allah — more than tawbah (repentance), more than ruju' (return), more than rida' (acceptance). It is the word for the person who does not just return after going away, but who orients their entire being toward Allah as the permanent direction of existence. The munib (one who practices inabah) is not someone who has arrived once; they are someone who keeps arriving, keeps turning, keeps choosing Allah.
+
+The Quran uses inabah exclusively in contexts of the deepest spiritual seriousness: the prophets turning to Allah in their trials, the believers who will be saved on the Day of Judgment, the quality Allah commands in 39:54 before He closes the door. Inabah is what it looks like when a person has truly understood what Allah is and what they are — and responds with everything they have.
+
+Ibn al-Qayyim placed inabah above tawbah in his ranking of the stations: tawbah responds to sin; inabah responds to separation — to any gap between the heart and Allah, even without a specific violation. The munib person does not wait for a crisis to turn; they live in a continuous orientation toward Allah, like a compass that always finds north.`,
+    root: {
+      letters: 'ن–و–ب',
+      transliteration: 'n–w–b',
+      meaning: 'To return, to come back repeatedly, to be a substitute or representative',
+      elaboration: "The root n-w-b carries the sense of returning and also of deputizing — the na'ib is a deputy. Inabah (fourth form) means a repeated, thorough returning. Awwab (which Allah uses to describe His prophets) comes from the same root and means one who constantly returns to Allah. The munib is one who is perpetually turned toward Allah — not just once but as the ongoing direction of the soul.",
+    },
+    occurrenceCount: 8,
+    occurrenceNote: "Inabah and its forms appear approximately 8 times in the Quran, always in elevated spiritual contexts: Sulayman's turning to Allah after his trial (38:34), Ibrahim's quality (11:75), the quality of those who receive admonition (50:33), and the direct command in 39:54.",
+    keyAyahs: [
+      {
+        ref: '39:54',
+        arabic: 'وَأَنِيبُوا إِلَىٰ رَبِّكُمْ وَأَسْلِمُوا لَهُ مِن قَبْلِ أَن يَأْتِيَكُمُ الْعَذَابُ',
+        translation: 'And return to your Lord and submit to Him before the punishment comes to you.',
+        note: "The command is urgent — 'before the punishment comes.' This verse comes just after the famous ayah promising that Allah's mercy encompasses all things (39:53). Inabah is the appropriate response to knowing that mercy: turn toward it with everything.",
+      },
+      {
+        ref: '50:33',
+        arabic: 'مَنْ خَشِيَ الرَّحْمَٰنَ بِالْغَيْبِ وَجَاءَ بِقَلْبٍ مُّنِيبٍ',
+        translation: 'Whoever feared the Most Merciful unseen and came with a heart turning in devotion.',
+        note: "The people of Jannah are described as having a heart that is munib. The munib heart is the qualification for paradise — not a perfect heart, but a returning one.",
+      },
+      {
+        ref: '11:88',
+        arabic: 'وَمَا تَوْفِيقِي إِلَّا بِاللَّهِ ۚ عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ أُنِيبُ',
+        translation: 'My success is not but through Allah. Upon Him I have relied, and to Him I return.',
+        note: "The Prophet Shu'ayb's declaration — tawakkul and inabah together as his complete orientation. 'Ilayhi unib' — 'to Him I return' — present tense, ongoing, directional.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: 'Awareness of separation', arabic: 'الشعور بالبُعد', arabicTranslit: "al-shuʿūr bi-l-buʿd", description: "Inabah begins with feeling the gap — noticing that the heart has drifted, that the connection to Allah has gone quiet. This awareness is itself a gift: the heart that cannot feel its own distance is in greater danger." },
+        { number: 2, title: 'Totality of turning', arabic: 'كمال الإقبال', arabicTranslit: 'kamāl al-iqbāl', description: "Inabah is not partial. Ibn al-Qayyim described it as turning all four dimensions: the heart's love toward Allah, fear directed to Him, hope placed in Him, and all actions done for Him. Partial turning is ruju'; total turning is inabah." },
+        { number: 3, title: 'Persistence', arabic: 'المداومة على الرجوع', arabicTranslit: "al-mudāwama ʿalā al-rujūʿ", description: "The munib keeps returning — not just once in a crisis but as the ongoing disposition. The root's meaning of repeated return is not weakness; it is the nature of the station. Each return is honored." },
+      ],
+      stations: [
+        { name: 'Inabah from sin (tawbah)', description: "The beginning — returning to Allah after violation. This overlaps with tawbah and is its foundation." },
+        { name: 'Inabah from heedlessness', description: "Returning to Allah not because of a sin but because the heart has become occupied with other things and grown distant. This is subtler than tawbah and more continuous." },
+        { name: 'Inabah as orientation', description: "The advanced station: the heart is permanently oriented toward Allah — not returning from distance but living in closeness, each moment of dhikr a fresh act of inabah refreshing that orientation." },
+      ],
+      questions: [
+        { question: "Right now, at this moment — is my heart turned toward Allah? If not, what has it turned toward instead?", answer: "The question is not accusatory but diagnostic. Inabah is the remedy, and the diagnosis is simply: where is the heart pointing?" },
+        { question: "When was the last time I felt distant from Allah? Did I turn back, or did I let the distance grow?", answer: "The munib person turns back immediately — not because the distance is shameful but because closeness is better, and the door is always open." },
+        { question: "What would it feel like if inabah were my permanent state — not an emergency response but my natural direction?", answer: "This is the goal: not a heart that returns from distance but a heart that never leaves. The awwab is perpetually oriented, perpetually refreshing the turning." },
+      ],
+    },
+    semanticField: [
+      { slug: 'tawbah',   arabic: 'تَوْبَة',  transliteration: 'Tawbah',   relationship: 'precedes',  relationshipLabel: 'The foundation of inabah', description: "Tawbah is returning to Allah from sin; inabah is the totality of turning that makes the soul permanently directed toward Him. Tawbah is the gate; inabah is the orientation once inside." },
+      { slug: 'tawakkul', arabic: 'تَوَكُّل', transliteration: 'Tawakkul', relationship: 'parallels', relationshipLabel: "Shu'ayb's twin virtues", description: "In 11:88, the Prophet Shu'ayb names both his tawakkul and his inabah as complete. Trusting Allah's management and turning toward Him continuously are two angles of the same soul." },
+      { slug: 'khawf',    arabic: 'خَوْف',    transliteration: 'Khawf',    relationship: 'precedes',  relationshipLabel: 'The motive', description: "Khashya (the deeper fear) is the companion of inabah in 50:33. The fear that drives inabah is not terror but awe — and it produces turning, not fleeing." },
+      { slug: 'mahabbah', arabic: 'مَحَبَّة', transliteration: 'Mahabbah', relationship: 'deepens',   relationshipLabel: "Love's turning", description: "At its highest station, inabah is not just fear-driven but love-driven — the soul turns toward Allah because that is where its heart lives. Love makes inabah effortless." },
+    ],
+    scholarsSaid: [
+      { scholar: 'Ibn al-Qayyim', text: "Inabah is above tawbah, for tawbah is from sin, while inabah is a return to Allah in every state — whether or not there is sin — such that the heart is always turning toward Him.", source: "Madarij al-Salikin" },
+      { scholar: 'Al-Tabari', text: "Al-inabah is al-tawbah and al-ruju': returning from what displeases Allah to what pleases Him.", source: "Jami' al-Bayan" },
+      { scholar: 'Al-Qurtubi', text: "The munib is the one who perpetually returns to Allah in every state, whose heart does not settle except in Him, and whose turning is to Him alone.", source: "Al-Jami' li-Ahkam al-Quran" },
+    ],
+    hadith: [
+      { ref: 'Tirmidhi', translation: "Turn to your Lord and seek His forgiveness, for I turn to Him a hundred times a day.", note: "The Prophet ﷺ himself practiced inabah constantly — despite being the one to whom forgiveness was guaranteed. This reveals that inabah is not primarily about need but about love and orientation. Returning to Allah is the natural movement of the rightly oriented soul." },
+    ],
+    acrossTransitions: `The concept of continuous return to God — not just repentance after sin but ongoing orientation — is found across traditions. In Hasidic Judaism, teshuvah (return/repentance) is not a one-time event but an ongoing orientation of the soul toward God. The Ba'al Shem Tov taught that a person should be perpetually engaged in return — structurally identical to inabah.
+
+In Christian mysticism, the concept of conversatio morum — "conversion of manners" — in the Benedictine Rule refers to an ongoing re-orientation, not a single dramatic moment. John Climacus described conversion not as a past event but as a present posture: the soul perpetually climbing toward God.
+
+What is distinctive in the Quranic usage of inabah is the relational specificity: it is not turning toward Truth or the Absolute in general but toward the Rabbi (Lord, Master, Caretaker). The munib is not orienting toward a principle but toward a Person who receives the turning.`,
+    relatedTerms: [
+      { slug: 'tawbah',   transliteration: 'Tawbah',   term: 'تَوْبَة'   },
+      { slug: 'tawakkul', transliteration: 'Tawakkul', term: 'تَوَكُّل' },
+      { slug: 'mahabbah', transliteration: 'Mahabbah', term: 'مَحَبَّة' },
+      { slug: 'khawf',    transliteration: 'Khawf',    term: 'خَوْف'    },
+    ],
+    goDeeper: [
+      { slug: 'al-zumar', surahName: 'Al-Zumar', note: "Contains 39:53-54 — 'Do not despair of the mercy of Allah... And return to your Lord.' The context makes it the Quran's most powerful inabah moment: mercy is infinite, but the door must be entered now." },
+      { slug: 'qaf',      surahName: 'Qaf',      note: "Contains 50:33 — the description of the people of Jannah as those who 'came with a heart turning in devotion (munib).' The entire surah — from cosmic creation to the final Day — is a call to inabah." },
     ],
   },
 }
