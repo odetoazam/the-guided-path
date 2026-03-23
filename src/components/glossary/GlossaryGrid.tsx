@@ -138,7 +138,7 @@ export function GlossaryGrid() {
         t.term.includes(q) ||
         t.evocativeLine.toLowerCase().includes(q)
       )
-    })
+    }).sort((a, b) => a.transliteration.localeCompare(b.transliteration))
   }, [search, activeCategory])
 
   return (
