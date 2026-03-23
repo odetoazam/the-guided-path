@@ -31,9 +31,36 @@ export function CategoryBadge({ category }: { category: GlossaryCategory }) {
   )
 }
 
+const CATEGORY_TINTS: Record<GlossaryCategory, string> = {
+  'States of the Heart':   'rgba(244,63,94,0.03)',   // rose
+  'The Unseen':            'rgba(139,92,246,0.03)',   // violet
+  'Quranic Characters':    'rgba(245,158,11,0.03)',   // amber
+  'Nations & Peoples':     'rgba(20,184,166,0.03)',   // teal
+  'Concepts of Existence': 'rgba(16,185,129,0.03)',   // emerald
+  'Theology & Ethics':     'rgba(99,102,241,0.03)',   // indigo
+  'Study Terms':           'rgba(14,165,233,0.03)',   // sky
+}
+
+const CATEGORY_BORDER_HOVER: Record<GlossaryCategory, string> = {
+  'States of the Heart':   'rgba(244,63,94,0.18)',
+  'The Unseen':            'rgba(139,92,246,0.18)',
+  'Quranic Characters':    'rgba(245,158,11,0.18)',
+  'Nations & Peoples':     'rgba(20,184,166,0.18)',
+  'Concepts of Existence': 'rgba(16,185,129,0.18)',
+  'Theology & Ethics':     'rgba(99,102,241,0.18)',
+  'Study Terms':           'rgba(14,165,233,0.18)',
+}
+
 function GlossaryCard({ entry }: { entry: GlossaryMeta }) {
+  const tint = CATEGORY_TINTS[entry.category]
+  const hoverBorder = CATEGORY_BORDER_HOVER[entry.category]
   const inner = (
-    <div className="group relative flex h-full flex-col overflow-hidden rounded-2xl border border-zinc-200 bg-white p-5 transition-all duration-300 hover:border-[rgba(212,175,55,0.4)] hover:bg-[rgba(212,175,55,0.02)] dark:border-white/[0.06] dark:bg-white/[0.02] dark:hover:border-[rgba(212,175,55,0.22)] dark:hover:bg-[rgba(212,175,55,0.03)]">
+    <div
+      className="group relative flex h-full flex-col overflow-hidden rounded-2xl border border-zinc-200 bg-white p-5 transition-all duration-300 dark:border-white/[0.06] dark:bg-white/[0.02]"
+      style={{ background: tint }}
+      onMouseEnter={(e) => { (e.currentTarget as HTMLDivElement).style.borderColor = hoverBorder }}
+      onMouseLeave={(e) => { (e.currentTarget as HTMLDivElement).style.borderColor = '' }}
+    >
       {/* Hover bloom */}
       <div
         aria-hidden

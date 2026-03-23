@@ -10,9 +10,9 @@ import { GLOSSARY_ENTRIES } from '@/data/glossary'
 type Tab = 'root' | 'quran' | 'practice' | 'connections' | 'traditions'
 
 const TABS: { id: Tab; label: string }[] = [
-  { id: 'root',        label: 'The Root'      },
   { id: 'quran',       label: 'In the Quran'  },
   { id: 'practice',    label: 'In Practice'   },
+  { id: 'root',        label: 'The Root'      },
   { id: 'connections', label: 'Connections'   },
   { id: 'traditions',  label: 'Traditions'    },
 ]
@@ -400,20 +400,17 @@ function PracticeTab({ entry }: { entry: GlossaryEntry }) {
     <div className="space-y-10">
       {/* Conditions */}
       <div>
-        <SectionLabel>The conditions of valid tawbah</SectionLabel>
+        <SectionLabel>Conditions &amp; prerequisites</SectionLabel>
         <div className="space-y-3">
           {ps.conditions.map((c) => (
             <ConditionCard key={c.number} cond={c} />
           ))}
         </div>
-        <p className="mt-3 text-xs italic text-zinc-600">
-          As defined by Ibn Rajab al-Hanbali in Jāmiʿ al-ʿUlūm wa-l-Ḥikam; echoed across the classical tradition.
-        </p>
       </div>
 
       {/* Spiritual stations */}
       <div>
-        <SectionLabel>Tawbah across spiritual stations</SectionLabel>
+        <SectionLabel>Spiritual stations</SectionLabel>
         <div className="pl-1">
           {ps.stations.map((s, i) => (
             <StationCard key={i} station={s} index={i} />
@@ -449,6 +446,31 @@ const RELATIONSHIP_STYLES: Record<SemanticRelationship, { label: string; color: 
   'intensifies':     { label: 'Intensifies',      color: 'text-violet-300/70',  bg: 'bg-violet-500/8 border-violet-500/15'},
 }
 
+function FlowNode({ conn, badge, badgeColor, borderColor, bgColor, small }: {
+  conn: SemanticConnection
+  badge: string
+  badgeColor: string
+  borderColor: string
+  bgColor: string
+  small?: boolean
+}) {
+  const hasEntry = conn.slug in GLOSSARY_ENTRIES
+  const fontSize = small ? '1.1rem' : '1.4rem'
+  const inner = (
+    <div className={`rounded-xl border ${borderColor} ${bgColor} ${small ? 'px-3 py-2' : 'px-4 py-3'} text-center transition-all ${hasEntry ? 'hover:scale-105 cursor-pointer' : ''}`}>
+      <div style={{ fontFamily: "var(--font-amiri,'Amiri'),serif", color: g(0.7), fontSize, direction: 'rtl' }}>
+        {conn.arabic}
+      </div>
+      <div className="text-xs font-semibold text-zinc-600 dark:text-zinc-400">{conn.transliteration}</div>
+      <div className={`text-[9px] uppercase tracking-wider ${badgeColor} mt-0.5`}>{badge}</div>
+    </div>
+  )
+  if (hasEntry) {
+    return <Link href={`/glossary/${conn.slug}`} className="block">{inner}</Link>
+  }
+  return <div>{inner}</div>
+}
+
 // Horizontal flow diagram: nadam → tawbah → inabah | tawwāb above
 function SemanticFlowDiagram({ connections, thisTerm, thisTransliteration }: {
   connections: SemanticConnection[]
@@ -469,15 +491,7 @@ function SemanticFlowDiagram({ connections, thisTerm, thisTransliteration }: {
       <div className="flex min-w-max items-center gap-0">
         {/* Precedes */}
         {precedes.map((c) => (
-          <div key={c.slug} className="text-center">
-            <div className="mb-1 rounded-xl border border-rose-500/15 bg-rose-500/8 px-4 py-3">
-              <div style={{ fontFamily: "var(--font-amiri,'Amiri'),serif", color: g(0.7), fontSize: '1.4rem', direction: 'rtl' }}>
-                {c.arabic}
-              </div>
-              <div className="text-xs font-semibold text-zinc-600 dark:text-zinc-400">{c.transliteration}</div>
-              <div className="text-[9px] uppercase tracking-wider text-rose-300/60 mt-0.5">Precedes</div>
-            </div>
-          </div>
+          <FlowNode key={c.slug} conn={c} badge="Precedes" badgeColor="text-rose-300/60" borderColor="border-rose-500/15" bgColor="bg-rose-500/8" />
         ))}
 
         {/* Arrow */}
@@ -515,15 +529,7 @@ function SemanticFlowDiagram({ connections, thisTerm, thisTransliteration }: {
 
         {/* Deepens */}
         {deepens.map((c) => (
-          <div key={c.slug} className="text-center">
-            <div className="mb-1 rounded-xl border border-teal-500/15 bg-teal-500/8 px-4 py-3">
-              <div style={{ fontFamily: "var(--font-amiri,'Amiri'),serif", color: g(0.7), fontSize: '1.4rem', direction: 'rtl' }}>
-                {c.arabic}
-              </div>
-              <div className="text-xs font-semibold text-zinc-600 dark:text-zinc-400">{c.transliteration}</div>
-              <div className="text-[9px] uppercase tracking-wider text-teal-300/60 mt-0.5">Deepens into</div>
-            </div>
-          </div>
+          <FlowNode key={c.slug} conn={c} badge="Deepens into" badgeColor="text-teal-300/60" borderColor="border-teal-500/15" bgColor="bg-teal-500/8" />
         ))}
       </div>
 
@@ -533,13 +539,7 @@ function SemanticFlowDiagram({ connections, thisTerm, thisTransliteration }: {
           {[...parallel, ...intensify].map((c) => {
             const rel = RELATIONSHIP_STYLES[c.relationship]
             return (
-              <div key={c.slug} className={`rounded-xl border px-3 py-2 ${rel.bg}`}>
-                <div style={{ fontFamily: "var(--font-amiri,'Amiri'),serif", color: g(0.7), fontSize: '1.1rem', direction: 'rtl' }}>
-                  {c.arabic}
-                </div>
-                <div className="text-xs font-semibold text-zinc-600 dark:text-zinc-400">{c.transliteration}</div>
-                <div className={`text-[9px] uppercase tracking-wider ${rel.color} mt-0.5`}>{rel.label}</div>
-              </div>
+              <FlowNode key={c.slug} conn={c} badge={rel.label} badgeColor={rel.color} borderColor={`border-${rel.bg.split(' ')[0].replace('bg-', '')}`} bgColor={rel.bg} small />
             )
           })}
         </div>
@@ -550,13 +550,7 @@ function SemanticFlowDiagram({ connections, thisTerm, thisTransliteration }: {
         <div className="mt-4 flex flex-wrap gap-3 pt-4 border-t border-zinc-200/70 dark:border-white/[0.04]">
           <p className="w-full text-[9px] uppercase tracking-widest text-zinc-400 dark:text-zinc-700">Divine mirror</p>
           {divine.map((c) => (
-            <div key={c.slug} className="rounded-xl border border-amber-500/15 bg-amber-500/8 px-3 py-2">
-              <div style={{ fontFamily: "var(--font-amiri,'Amiri'),serif", color: g(0.8), fontSize: '1.1rem', direction: 'rtl' }}>
-                {c.arabic}
-              </div>
-              <div className="text-xs font-semibold text-zinc-600 dark:text-zinc-400">{c.transliteration}</div>
-              <div className="text-[9px] uppercase tracking-wider text-amber-300/60 mt-0.5">Divine Response</div>
-            </div>
+            <FlowNode key={c.slug} conn={c} badge="Divine Response" badgeColor="text-amber-300/60" borderColor="border-amber-500/15" bgColor="bg-amber-500/8" small />
           ))}
         </div>
       )}
@@ -691,7 +685,7 @@ function TraditionsTab({ entry }: { entry: GlossaryEntry }) {
 // ── Main exported component ───────────────────────────────────────────────────
 
 export function GlossaryEntryTabs({ entry }: { entry: GlossaryEntry }) {
-  const [tab, setTab] = useState<Tab>('root')
+  const [tab, setTab] = useState<Tab>('quran')
 
   return (
     <div>
