@@ -1,39 +1,59 @@
 'use client'
 
-import { useState } from 'react'
+import { useState, useRef } from 'react'
 import { Button } from '@/components/ui/button'
 import { Input } from '@/components/ui/input'
 import { Mail, CheckCircle } from 'lucide-react'
+import { Turnstile, type TurnstileInstance } from '@marsidev/react-turnstile'
 import toast from 'react-hot-toast'
+
+const TURNSTILE_SITE_KEY = process.env.NEXT_PUBLIC_TURNSTILE_SITE_KEY || ''
 
 export function NewsletterSignup() {
   const [email, setEmail] = useState('')
   const [name, setName] = useState('')
   const [loading, setLoading] = useState(false)
   const [subscribed, setSubscribed] = useState(false)
+  const [turnstileToken, setTurnstileToken] = useState<string | null>(null)
+  const turnstileRef = useRef<TurnstileInstance>(null)
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault()
     if (!email) return
+
+    if (TURNSTILE_SITE_KEY && !turnstileToken) {
+      toast.error('Please complete the verification')
+      return
+    }
 
     setLoading(true)
     try {
       const res = await fetch('/api/subscribers', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ email, name, source: 'landing_page' }),
+        body: JSON.stringify({
+          email,
+          name,
+          source: 'landing_page',
+          ...(turnstileToken && { turnstileToken }),
+        }),
       })
 
       const data = await res.json()
 
       if (!res.ok) {
         toast.error(data.error || 'Something went wrong')
+        // Reset Turnstile on failure so user can retry
+        turnstileRef.current?.reset()
+        setTurnstileToken(null)
       } else {
         setSubscribed(true)
         toast.success('Check your email to confirm your subscription!')
       }
     } catch {
       toast.error('Something went wrong')
+      turnstileRef.current?.reset()
+      setTurnstileToken(null)
     } finally {
       setLoading(false)
     }
@@ -43,7 +63,7 @@ export function NewsletterSignup() {
     return (
       <div className="flex flex-col items-center gap-3 rounded-xl border border-green-500/20 bg-green-500/5 p-8">
         <CheckCircle className="h-10 w-10 text-green-500" />
-        <p className="text-lg font-medium text-zinc-900 dark:text-white">You're almost there!</p>
+        <p className="text-lg font-medium text-zinc-900 dark:text-white">You&apos;re almost there!</p>
         <p className="text-zinc-500">Check your email to confirm your subscription.</p>
       </div>
     )
@@ -72,6 +92,21 @@ export function NewsletterSignup() {
           Subscribe
         </Button>
       </div>
+      {TURNSTILE_SITE_KEY && (
+        <div className="flex justify-center">
+          <Turnstile
+            ref={turnstileRef}
+            siteKey={TURNSTILE_SITE_KEY}
+            onSuccess={setTurnstileToken}
+            onError={() => setTurnstileToken(null)}
+            onExpire={() => setTurnstileToken(null)}
+            options={{
+              theme: 'dark',
+              size: 'flexible',
+            }}
+          />
+        </div>
+      )}
       <p className="text-xs text-zinc-400">Free, weekly. Unsubscribe anytime.</p>
     </form>
   )

@@ -2,6 +2,7 @@ import { createAdminClient } from '@/lib/supabase/admin'
 import { verifyAuth } from '@/lib/auth'
 import { NextResponse } from 'next/server'
 import { calculateReadingTime } from '@/lib/utils'
+import { postSchema } from '@/lib/validators'
 
 interface Params {
   params: Promise<{ id: string }>
@@ -45,10 +46,23 @@ export async function PATCH(request: Request, { params }: Params) {
     return NextResponse.json({ error: 'Unauthorized' }, { status: 401 })
   }
 
-  const adminClient = createAdminClient()
-  const body = await request.json()
+  // Validate UUID format
+  if (!/^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i.test(id)) {
+    return NextResponse.json({ error: 'Post not found' }, { status: 404 })
+  }
 
-  if (body.content_html) {
+  const adminClient = createAdminClient()
+  const rawBody = await request.json()
+
+  // Validate input — partial updates allowed
+  const parsed = postSchema.partial().safeParse(rawBody)
+  if (!parsed.success) {
+    return NextResponse.json({ error: 'Invalid input' }, { status: 400 })
+  }
+
+  const body: Record<string, unknown> = { ...parsed.data }
+
+  if (body.content_html && typeof body.content_html === 'string') {
     body.reading_time_minutes = calculateReadingTime(body.content_html)
   }
 

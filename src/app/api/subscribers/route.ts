@@ -49,6 +49,32 @@ export async function POST(request: Request) {
   }
 
   const body = await request.json()
+
+  // Verify Turnstile token if configured
+  const turnstileSecret = process.env.TURNSTILE_SECRET_KEY
+  if (turnstileSecret && body.turnstileToken) {
+    try {
+      const verifyRes = await fetch('https://challenges.cloudflare.com/turnstile/v0/siteverify', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          secret: turnstileSecret,
+          response: body.turnstileToken,
+          remoteip: ip,
+        }),
+      })
+      const verifyData = await verifyRes.json()
+      if (!verifyData.success) {
+        return NextResponse.json({ error: 'Verification failed. Please try again.' }, { status: 400 })
+      }
+    } catch {
+      console.error('Turnstile verification error')
+      // Allow through if Turnstile API is down — rate limiting is still active
+    }
+  } else if (turnstileSecret && !body.turnstileToken) {
+    return NextResponse.json({ error: 'Verification required' }, { status: 400 })
+  }
+
   const parsed = subscriberSchema.safeParse(body)
 
   if (!parsed.success) {
