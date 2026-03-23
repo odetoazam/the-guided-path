@@ -187,10 +187,10 @@ export const GLOSSARY_TERMS: GlossaryMeta[] = [
   { slug: 'yunus',        term: 'يُونُس',            transliteration: 'Yunus',         category: 'Quranic Characters', evocativeLine: "The prophet who left before permission — and called from the belly of the deep.",  hasFullEntry: false },
 
   // ── Nations & Peoples ────────────────────────────────────────────────────────
-  { slug: 'ad',               term: 'عَاد',                transliteration: "'Ad",             category: "Nations & Peoples", evocativeLine: "The people of the wind — destroyed by the very air they breathed.",         hasFullEntry: false },
-  { slug: 'thamud',           term: 'ثَمُود',              transliteration: 'Thamud',          category: "Nations & Peoples", evocativeLine: 'They carved mountains for homes and still could not find safety.',           hasFullEntry: false },
+  { slug: 'ad',               term: 'عَاد',                transliteration: "'Ad",             category: "Nations & Peoples", evocativeLine: "The people of the wind — destroyed by the very air they breathed.",         hasFullEntry: true },
+  { slug: 'thamud',           term: 'ثَمُود',              transliteration: 'Thamud',          category: "Nations & Peoples", evocativeLine: 'They carved mountains for homes and still could not find safety.',           hasFullEntry: true },
   { slug: 'bani-isra-il',     term: 'بَنُو إِسْرَائِيل',  transliteration: "Bani Isra'il",    category: "Nations & Peoples", evocativeLine: "The people of a thousand stories — struggle, covenant, and mercy.",         hasFullEntry: false },
-  { slug: 'ashab-al-kahf',    term: 'أَصْحَاب ٱلْكَهْف',  transliteration: 'Ashab al-Kahf',   category: "Nations & Peoples", evocativeLine: 'Young men who chose a cave over a kingdom.',                                hasFullEntry: false },
+  { slug: 'ashab-al-kahf',    term: 'أَصْحَاب ٱلْكَهْف',  transliteration: 'Ashab al-Kahf',   category: "Nations & Peoples", evocativeLine: 'Young men who chose a cave over a kingdom.',                                hasFullEntry: true },
   { slug: 'quraysh',          term: 'قُرَيْش',             transliteration: 'Quraysh',         category: "Nations & Peoples", evocativeLine: "The tribe that guarded the Kaaba and rejected its Lord — until the day they couldn't.", hasFullEntry: false },
   { slug: 'ashab-al-ukhdud',  term: 'أَصْحَاب ٱلْأُخْدُود', transliteration: 'Ashab al-Ukhdud', category: "Nations & Peoples", evocativeLine: 'They watched believers burned in the ditch — and would not deny their faith.', hasFullEntry: false },
   { slug: 'ashab-al-fil',     term: 'أَصْحَاب ٱلْفِيل',   transliteration: 'Ashab al-Fil',    category: "Nations & Peoples", evocativeLine: 'The army of the elephant — turned back by birds, the year the Prophet ﷺ was born.', hasFullEntry: false },
@@ -7933,6 +7933,224 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
     relatedTerms: [
       { slug: 'hikmah', transliteration: 'Hikmah', term: 'حِكْمَة' },
       { slug: 'birr',   transliteration: 'Birr',   term: 'بِرّ'   },
+    ],
+    hasFullEntry: true,
+  },
+
+  'ad': {
+    slug: 'ad',
+    term: 'عَاد',
+    transliteration: "'Ad",
+    pronunciation: "AHD",
+    category: "Nations & Peoples",
+    evocativeLine: "The people of the wind — destroyed by the very air they breathed.",
+    summary: "The people of Ad were one of the most powerful nations of the ancient world, known in the Quran for their physical strength, their impressive architecture carved from mountains, and their arrogant rejection of their prophet Hud. The Quran describes them as a people who said: Who is mightier than us in power? (41:15) — a boast that became the measure of their punishment.\n\nAd was sent the prophet Hud, who called them to tawhid and warned against their arrogance and exploitation of the weak. They refused, mocking Hud and demanding that the punishment he promised be brought upon them. It came: a destructive wind (rih sarsaron — screaming, roaring wind) that raged for seven nights and eight days, until they lay fallen like hollow palm trunks (69:7).\n\nThe Quran returns to Ad repeatedly as a lesson in the pattern of prophetic rejection and its consequences. They had power that no people since have matched, and it was entirely useless when the divine wind came. Their monuments, their strength, their architecture — all erased. The lesson is explicit: do not boast of power, for the power of the Giver of power exceeds any power given.",
+    root: {
+      letters: 'ع و د',
+      transliteration: "'a-w-d",
+      meaning: 'A proper name — an ancient Arabian tribe, possibly connected to the root meaning returning, recurring',
+      elaboration: "Ad is a proper noun — the name of an ancient Arabian people mentioned in pre-Islamic Arab tradition as well as in the Quran. The root may connect to the sense of recurring or returning — some classical scholars connected it to the cyclical nature of history: these powerful peoples rise and fall, over and over, and the Quran preserves their stories as permanent warnings.",
+    },
+    rootForms: [
+      { arabic: 'عَاد', transliteration: "'Ād", type: 'Proper noun', meaning: "The ancient people of 'Ad", approxCount: 24, verified: false },
+    ],
+    occurrenceCount: 24,
+    occurrenceNote: "Ad is mentioned 24 times in the Quran, almost always alongside Thamud as the paired archetype of powerful peoples destroyed by divine punishment after rejecting their prophets. Together they appear across the Quran as the recurring lesson about the fate of arrogant nations.",
+    keyAyahs: [
+      {
+        ref: 'Al-Haqqah 69:6-8',
+        arabic: 'وَأَمَّا عَادٌ فَأُهْلِكُوا بِرِيحٍ صَرْصَرٍ عَاتِيَةٍ سَخَّرَهَا عَلَيْهِمْ سَبْعَ لَيَالٍ وَثَمَانِيَةَ أَيَّامٍ حُسُومًا',
+        translation: "As for Ad, they were destroyed by a screaming, raging wind which He unleashed upon them for seven nights and eight days consecutively.",
+        note: "The precision of seven nights and eight days makes this concrete and specific — not a general destruction but a dated, witnessed catastrophe. The word husuman (consecutively, relentlessly) emphasizes the sustained nature of the punishment. No intermission. No chance for the people to reassemble or rebuild during the storm. The wind did not stop until the work was complete.",
+      },
+      {
+        ref: 'Fussilat 41:15',
+        arabic: 'فَأَمَّا عَادٌ فَاسْتَكْبَرُوا فِي الْأَرْضِ بِغَيْرِ الْحَقِّ وَقَالُوا مَنْ أَشَدُّ مِنَّا قُوَّةً',
+        translation: "As for Ad, they were arrogant in the land without right and said: Who is mightier than us in power?",
+        note: "Their sin is identified precisely: istikbar (arrogance) and the boast of incomparable power. The phrase bi-ghayri al-haqq (without right) is theologically important: claiming a station one has not earned, basing superiority on what was given rather than gratitude for the gift. They confused the given with the deserved.",
+      },
+    ],
+    semanticField: [
+      {
+        slug: 'thamud',
+        arabic: 'ثَمُود',
+        transliteration: 'Thamud',
+        relationship: 'parallels',
+        relationshipLabel: 'The twin lesson of prophetic rejection',
+        description: "Ad and Thamud appear together throughout the Quran as the paired examples of powerful nations destroyed after rejecting their prophets. They are the Quran's most frequently cited historical warnings. Ad was destroyed by wind; Thamud by a thunderbolt. Both were given prophets, both rejected, both preserved as signs.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: "Never confuse power with exemption", arabic: "تَذَكُّر", arabicTranslit: "tadhakkur", description: "The people of Ad believed their power put them beyond reach. The Quran preserves their story precisely because every powerful people makes the same mistake. The strength of a civilization — its technology, its military, its economy — does not exempt it from the consequences of rejecting what is right." },
+        { number: 2, title: "Read history as warning, not entertainment", arabic: "عِبْرَة", arabicTranslit: "ʿibrah", description: "The Quran presents Ad as a ibrah — a lesson, a crossing-over of insight. The word means both a lesson and an act of crossing — the reader is supposed to cross from the ancient story into their own present reality. Have we said: who is mightier than us? Have we built monuments to our own power and forgotten who gave it?" },
+      ],
+      stations: [
+        { name: "The people as warning", description: "Ad is preserved not as history but as warning — the recurring pattern of power without gratitude, strength without submission, civilization without conscience. Their story is in the Quran because the pattern they embodied is permanently tempting to human societies." },
+      ],
+      questions: [
+        { question: "Where were the people of Ad?", answer: "The Quran locates them in the region of Ahqaf — the curved or winding sand dunes (46:21) — understood to be in the southern Arabian Peninsula, in the area of modern Yemen and Oman. Pre-Islamic Arabic tradition also preserved memory of Ad as an ancient powerful Arabian people. Archaeological work in the region has found remains of a sophisticated ancient civilization consistent with the general timeframe." },
+      ],
+    },
+    scholarsSaid: [
+      { scholar: "Ibn Kathir", source: "Qisas al-Anbiya", text: "The people of Ad were among the most powerful peoples of the ancient world, distinguished by their physical strength, their architecture, and their technological achievements. All of this was useless before the divine wind. Their story is the clearest proof that power without submission to its Giver is the surest path to destruction." },
+    ],
+    hadith: [],
+    acrossTransitions: "The people of Ad appear in pre-Islamic Arabian oral tradition as the ancestors of certain Arab tribes, remembered as giants who built impossible structures. The Quran integrates this memory into its prophetic framework: their power is affirmed, their prophet is identified (Hud), their end is made a theological lesson. The Iram of the Pillars — mentioned in 89:7 — is often identified with an Ad city, and ancient ruins in southern Arabia have been proposed as its remains.\n\nThe pattern of Ad and Thamud repeats across the Quran as the definitive historical warning: these were not marginal peoples but dominant civilizations, and their dominance did not protect them when they rejected the prophetic call. This pattern is the Quran's philosophy of history: nations rise and fall not on the basis of their power but on the basis of their response to divine guidance.",
+    goDeeper: [
+      { slug: 'hud', surahName: 'Hud', note: "The extended account of Hud's mission to Ad and their destruction (11:50-60)" },
+      { slug: 'al-haqqah', surahName: 'Al-Haqqah', note: "The wind that destroyed Ad for seven nights and eight days" },
+    ],
+    relatedTerms: [
+      { slug: 'thamud', transliteration: 'Thamud', term: 'ثَمُود' },
+    ],
+    hasFullEntry: true,
+  },
+
+  'thamud': {
+    slug: 'thamud',
+    term: 'ثَمُود',
+    transliteration: 'Thamud',
+    pronunciation: 'tha-MOOD',
+    category: "Nations & Peoples",
+    evocativeLine: 'They carved mountains for homes and still could not find safety.',
+    summary: "Thamud were the people of the prophet Salih — a civilization that literally carved their dwellings from the mountains of the Arabian Peninsula (89:9). They appear in the Quran alongside Ad as the paired example of powerful, technologically advanced peoples destroyed after rejecting the prophetic call.\n\nThe story of Thamud is anchored by the she-camel (al-naqah) — one of the most distinctive symbols in Quranic narrative. Thamud demanded a sign from Salih; the she-camel was given to them as a divine sign, with a single condition: let her graze freely and do not harm her. They hamstrung her. Three days later, the punishment came.\n\nThe hamstringing of the camel is the Quran's most concrete act of prophetic rejection — visible, deliberate, almost theatrical in its defiance. The most wicked among them (aqqa-ha) performed the act with the implicit approval of the community. And the three days given after — a precise divine timeline — make the destruction both merciful (a final warning is given) and inevitable (if the warning is not heeded).\n\nThe ruins of Thamud are still visible in the Arabian Peninsula — the rock-carved dwellings of Mada'in Salih (Al-Hijr) in northwestern Saudi Arabia. The Prophet ﷺ passed through this area during the Tabuk expedition and instructed his companions not to enter their dwellings or use their wells, and to weep or at least appear to weep, saying: Do not enter the dwellings of those who have wronged themselves unless you weep — lest what struck them strike you.",
+    root: {
+      letters: 'ث م د',
+      transliteration: 'th-m-d',
+      meaning: 'A proper name — connected to thamad, a small amount of water or a dry well',
+      elaboration: "Thamud is a proper name for an ancient Arabian tribe. The root th-m-d relates to a small accumulation of water, or a well that has almost run dry — perhaps metaphorically appropriate for a people who had almost no spiritual water left by the time of their final rejection of the divine sign.",
+    },
+    rootForms: [
+      { arabic: 'ثَمُود', transliteration: 'Thamūd', type: 'Proper noun', meaning: 'The ancient people of Thamud', approxCount: 26, verified: false },
+    ],
+    occurrenceCount: 26,
+    occurrenceNote: "Thamud appears 26 times in the Quran, slightly more frequently than Ad, and always in the context of prophetic rejection and divine punishment. Their story is told most completely in Surah Hud, and referenced in numerous surahs as the permanent warning of the consequence of rejecting a divine sign after demanding it.",
+    keyAyahs: [
+      {
+        ref: 'Al-Shams 91:13-14',
+        arabic: 'فَقَالَ لَهُمْ رَسُولُ اللَّهِ نَاقَةَ اللَّهِ وَسُقْيَاهَا فَكَذَّبُوهُ فَعَقَرُوهَا',
+        translation: "The messenger of Allah said to them: This is the she-camel of Allah — let her drink. But they denied him and hamstrung her.",
+        note: "The word naqat Allah — the she-camel of Allah — marks the camel as a divine sign. Her water rights are a divine claim. The hamstringing (ʿaqara) is therefore not merely cruelty to an animal — it is a direct assault on a divine sign. The act that follows — fakadhdhanuhu (they denied him) — connects the physical act to the theological rejection. The hamstringing is the corporeal form of the denial.",
+      },
+      {
+        ref: 'Hud 11:65',
+        arabic: 'فَقَالَ تَمَتَّعُوا فِي دَارِكُمْ ثَلَاثَةَ أَيَّامٍ ۖ ذَٰلِكَ وَعْدٌ غَيْرُ مَكْذُوبٍ',
+        translation: "He said: Enjoy yourselves in your homes for three days — that is a promise not to be denied.",
+        note: "The three-day warning is an act of mercy within judgment: Thamud are given time to repent, to call on Allah, to consider what they have done. They do not. The three days pass. The punishment comes. The divine pattern: warning, followed by grace-filled delay, followed by consequence if the delay is not used. The warning here is given not to add to their suffering but to give them — one last time — the chance to return.",
+      },
+    ],
+    semanticField: [
+      {
+        slug: 'ad',
+        arabic: 'عَاد',
+        transliteration: "'Ad",
+        relationship: 'parallels',
+        relationshipLabel: 'The paired ancient lesson of rejection and destruction',
+        description: "Ad and Thamud are the Quran's paired historical warnings — powerful civilizations, given prophets, refusing the call, and destroyed. They are mentioned together across multiple surahs (7:65-79, 11:50-68, 26:123-158, 41:13-18) as the standing proof that power does not protect from divine consequence.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: "Do not hamstring the signs", arabic: "تَعْظِيم", arabicTranslit: "taʿẓīm", description: "The camel was a sign — and they hamstrung it. Every divine sign has its own equivalent of the hamstringing: ignoring the Quran after professing to believe it, transgressing a command while knowing it, dismissing a warning because one expects immunity. The lesson is about the relationship between receiving a sign and honoring it." },
+        { number: 2, title: "Use the three days", arabic: "اسْتِغْنَام", arabicTranslit: "istighnām", description: "Thamud had three days. They did not use them for repentance. Every person has their equivalent of three days — the window between recognizing one has done wrong and the settling of consequence. The use of that window for tawbah is what distinguishes the believer from the pattern of Thamud." },
+      ],
+      stations: [
+        { name: "The sign given and the sign rejected", description: "The she-camel is the paradigm of the sign that is given in response to a demand and then destroyed. Thamud asked for a sign; they received one. Having received it, they were no longer in the same relationship to the truth. The demand for a sign is not innocent — it carries the weight of what follows." },
+      ],
+      questions: [
+        { question: "Can you visit the ruins of Thamud today?", answer: "Yes. Mada'in Salih (also called Al-Hijr) in northwestern Saudi Arabia contains well-preserved rock-carved dwellings widely identified with the Thamud. The Prophet ﷺ passed through this area during the Tabuk expedition and instructed the companions not to enter the dwellings without weeping — and to not use the water from the wells associated with the camel of Thamud. The site is now a UNESCO World Heritage site." },
+      ],
+    },
+    scholarsSaid: [
+      { scholar: "Ibn Kathir", source: "Al-Bidaya wa-l-Nihaya", text: "Thamud are the people who carved dwellings from mountains and reached a level of civilization that made them feel invincible. Allah gave them a clear sign — the she-camel — as a test of their response. They hamstrung it. Three days of warning passed. Then the punishment came upon all of them." },
+    ],
+    hadith: [
+      { text: "When the Prophet ﷺ passed through Al-Hijr, he said: Do not enter the dwellings of those who have wronged themselves unless you weep, lest what struck them strike you. Then he covered his head and quickened his pace until he passed through the valley.", source: "Sahih al-Bukhari and Muslim" },
+    ],
+    acrossTransitions: "Thamud appear in Nabataean inscriptions and in ancient Ptolemaic geographies — they were known to the ancient world under the name Thamudenes. Their rock-carved architecture at Mada'in Salih is among the best-preserved ancient sites in Arabia and demonstrates a sophisticated civilization with complex water management, monumental architecture, and long-distance trade connections.\n\nThe Quran's selection of the she-camel as the decisive sign has intrigued commentators. Among the interpretations: the camel as a symbol of the divine gift that requires care and acknowledgment; the camel's water rights as a symbol of divine claim on creation's resources; the act of hamstringing as the consummate act of rejecting what was freely given. Whatever the specific meaning, the story has preserved the memory of Thamud's civilization more completely than any archaeological finding could.",
+    goDeeper: [
+      { slug: 'hud', surahName: 'Hud', note: "The most extended account of Salih's mission to Thamud, the she-camel, and the three-day warning before destruction" },
+      { slug: 'al-shams', surahName: 'Al-Shams', note: "The compressed, powerful account of the hamstringing and its immediate consequence" },
+    ],
+    relatedTerms: [
+      { slug: 'ad', transliteration: "'Ad", term: 'عَاد' },
+    ],
+    hasFullEntry: true,
+  },
+
+  'ashab-al-kahf': {
+    slug: 'ashab-al-kahf',
+    term: 'أَصْحَاب ٱلْكَهْف',
+    transliteration: 'Ashab al-Kahf',
+    pronunciation: 'as-HAAB al-KAHF',
+    category: "Nations & Peoples",
+    evocativeLine: 'Young men who chose a cave over a kingdom.',
+    summary: "The Companions of the Cave are among the most beloved figures in Islamic tradition — a group of young men (fityan — youths, young believers) who, when they could not find safety for their faith in their city, took refuge in a cave and were kept by Allah in a miraculous sleep for 309 years. Their story occupies the central section of Surah Al-Kahf (18:9-26) and is among the Quran's most cinematically rendered narratives.\n\nTheir act is simple and profound: they leave. When the environment around them has become too hostile to faith, when the choice is between compromising their belief or withdrawing from the society that demands the compromise, they choose withdrawal. They do not fight; they do not argue; they trust Allah with their vulnerability and enter a cave. And Allah honors their trust by protecting them for three centuries.\n\nThe Quran is deliberately imprecise about details — how many were they? (some say three, some five, some seven — and the Quran says: Allah knows best their number), how long did they sleep? (309 lunar years), which city? — as if to say: the specific facts are less important than the principle. Faith sometimes requires leaving, and when leaving is done for Allah's sake, Allah provides what the heart cannot imagine it needs.",
+    root: {
+      letters: 'ك ه ف',
+      transliteration: 'k-h-f',
+      meaning: 'A cave — a natural shelter, hollow in a mountain',
+      elaboration: "Kahf (cave) comes from the root k-h-f, suggesting a hollow, a shelter, a protected interior space. The cave in the narrative is not just a physical location but a theological one: the space of divine protection that opens when human space closes. The same root appears in the word kuhuf (caves) and in words meaning to shelter and to hide. The cave is literally and symbolically the place of divine keeping.",
+    },
+    rootForms: [
+      { arabic: 'كَهْف', transliteration: 'kahf', type: 'Noun', meaning: 'A cave, a grotto, a sheltered hollow', approxCount: 5, verified: false },
+    ],
+    occurrenceCount: 5,
+    occurrenceNote: "The word kahf appears primarily in Surah Al-Kahf (18), where the story of the cave's companions is told. The surah is named after them, and the story appears at the center of a surah that contains four other major narratives — all sharing the theme of trials of faith: wealth, knowledge, power, and faith in the face of persecution.",
+    keyAyahs: [
+      {
+        ref: 'Al-Kahf 18:10',
+        arabic: 'إِذْ أَوَى الْفِتْيَةُ إِلَى الْكَهْفِ فَقَالُوا رَبَّنَا آتِنَا مِن لَّدُنكَ رَحْمَةً وَهَيِّئْ لَنَا مِنْ أَمْرِنَا رَشَدًا',
+        translation: "When the young men took refuge in the cave and said: Our Lord, grant us from Yourself mercy, and prepare for us from our affair right guidance.",
+        note: "Their du'a at the moment of retreat. Two requests: rahmah (mercy) and rushd (right direction). They are not asking for safety in any specific form; they are asking for mercy and for their affairs to be rightly ordered. This is the perfect du'a of the uncertain situation: I do not know what I need specifically, but You are Mercy and You know the right direction — so give me both. The response is divine sleep and divine protection for three centuries.",
+      },
+      {
+        ref: 'Al-Kahf 18:13-14',
+        arabic: 'نَحْنُ نَقُصُّ عَلَيْكَ نَبَأَهُم بِالْحَقِّ ۚ إِنَّهُمْ فِتْيَةٌ آمَنُوا بِرَبِّهِمْ وَزِدْنَاهُمْ هُدًى وَرَبَطْنَا عَلَىٰ قُلُوبِهِمْ',
+        translation: "We relate to you their news with truth. Indeed, they were young men who believed in their Lord, and We increased them in guidance. And We bound their hearts firm.",
+        note: "Allah's description of what He did for them: increased them in guidance (wa-zidnahum huda) and bound their hearts firm (wa-rabatna ala qulubihim). The verb rabata — to bind, to tie firm — is the same root as ribat, the spiritual discipline of binding oneself to a post of vigilance. Allah Himself bound their hearts so they would not waver. The divine action is interior: what looks like external withdrawal is made possible by internal strengthening.",
+      },
+    ],
+    semanticField: [
+      {
+        slug: 'tawakkul',
+        arabic: 'تَوَكُّل',
+        transliteration: 'Tawakkul',
+        relationship: 'deepens',
+        relationshipLabel: 'The trust that made the retreat possible',
+        description: "To leave the city for a cave is an act of tawakkul: you have released the material security of the city and placed your dependence entirely on Allah. The companions of the cave are the Quranic image of tawakkul in the face of societal pressure — when the structures of security that others depend on are not available to the believer, Allah provides what those structures cannot.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: "Know when to retreat and when to engage", arabic: "حِكْمَة", arabicTranslit: "hikmah", description: "The companions of the cave did not fight their persecutors — they withdrew. This was not cowardice; it was wisdom. The believer must know when a situation requires engagement and when it requires retreat. Not every battle is meant to be fought in every moment; sometimes preservation of faith requires strategic withdrawal." },
+        { number: 2, title: "Make the du'a of uncertain situations", arabic: "دُعَاء", arabicTranslit: "duʿāʾ", description: "Their prayer — grant us mercy and prepare right guidance in our affair — is the model for situations where you do not know what outcome to ask for. When the path is unclear, the du'a is: Ya Allah, I trust You. Give me mercy and make my affairs go in the right direction. Leave the specifics to Him." },
+      ],
+      stations: [
+        { name: "The choice at the threshold", description: "The companions stand before the city and the cave. They choose the cave — the uncertain, the shelterless, the reliance on Allah alone. This is the moment every believer faces in different forms: when comfort and faith conflict, which do you choose?" },
+        { name: "The sleep of divine keeping", description: "They sleep and are kept. This is the station of total dependence — they are not doing anything, not planning, not strategizing. They are simply in the hands of Allah. And Allah turns them on their sides to preserve their bodies; He keeps their dog at the entrance; He arranges the sunlight. The divine care for the sleeping believer is one of the Quran's most tender images." },
+        { name: "The awakening", description: "They wake up thinking they slept a day or part of a day. They discover it has been centuries. This is the surprise of divine timing: what feels like a moment may be the unfolding of centuries of divine plan. The believers who appear to have retreated may be awakening into a world that has been entirely reset." },
+      ],
+      questions: [
+        { question: "Why does Surah Al-Kahf contain four different stories?", answer: "Scholars identify four trials embedded in the four stories of Surah Al-Kahf: the trial of faith (the cave companions), the trial of wealth (the two garden owners), the trial of knowledge (Musa and Khidr), and the trial of power (Dhul-Qarnayn). Reciting Al-Kahf on Fridays is strongly recommended in hadith. Its comprehensive coverage of the four great human trials makes it a spiritual preparation for whatever trial one is facing." },
+        { question: "Where is the cave?", answer: "Multiple locations have been proposed: in Jordan (near Amman at Al-Kahf archaeological site), in Turkey (near Ephesus — which is also where Christian tradition places the Seven Sleepers story), and in Syria. The Quran's deliberate imprecision about specific details has led scholars to conclude that the specific location is less important than the universal principle the story teaches." },
+      ],
+    },
+    scholarsSaid: [
+      { scholar: "Ibn Kathir", source: "Tafsir Ibn Kathir on Surah Al-Kahf", text: "The story of the companions of the cave is among the clearest proofs that Allah protects those who flee to Him from trials. They had nothing — no army, no wealth, no political position — only their faith and their prayer. And that was enough for Allah to provide them protection for three centuries." },
+    ],
+    hadith: [
+      { text: "Whoever recites the first ten verses of Surah Al-Kahf will be protected from the Dajjal.", source: "Sahih Muslim" },
+      { text: "Whoever recites Surah Al-Kahf on Friday, it will illuminate for him a light between the two Fridays.", source: "Al-Hakim — Sahih" },
+    ],
+    acrossTransitions: "The story of the companions of the cave has a remarkable parallel in Christian tradition: the Seven Sleepers of Ephesus, a group of young Christians who hid from the persecutions of the Roman Emperor Decius (3rd century CE), slept miraculously for about 200 years, and woke to a Christian Roman Empire. The story appears in Byzantine Christian sources, in Syriac Christian tradition, and in the Quran.\n\nThe parallel is not coincidental — the Quran appears to be engaging with a story that was circulating in the religious communities of Arabia and commenting on it from its own theological perspective. The Quranic version emphasizes the imprecision of the details, the divine nature of the protection, and the theological principle over the historical specifics.\n\nIn Islamic Friday practice, Surah Al-Kahf has a special status — it is strongly recommended for complete recitation each Friday. The hadith on the protection it provides from the Dajjal makes it the surah of spiritual resilience against the ultimate temptation of the end times.",
+    goDeeper: [
+      { slug: 'al-kahf', surahName: 'Al-Kahf', note: "The entire surah — the cave story at its center, surrounded by the four great trials of human existence" },
+    ],
+    relatedTerms: [
+      { slug: 'tawakkul', transliteration: 'Tawakkul', term: 'تَوَكُّل' },
+      { slug: 'sabr',     transliteration: 'Sabr',     term: 'صَبْر'   },
     ],
     hasFullEntry: true,
   },
