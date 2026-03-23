@@ -3,6 +3,7 @@
 import { useState } from 'react'
 import Link from 'next/link'
 import type { GlossaryEntry, RootForm, SemanticConnection, SemanticRelationship, WordAnnotation } from '@/data/glossary'
+import { GLOSSARY_ENTRIES } from '@/data/glossary'
 
 // ── Types ─────────────────────────────────────────────────────────────────────
 
@@ -449,9 +450,10 @@ const RELATIONSHIP_STYLES: Record<SemanticRelationship, { label: string; color: 
 }
 
 // Horizontal flow diagram: nadam → tawbah → inabah | tawwāb above
-function SemanticFlowDiagram({ connections, thisTerm }: {
+function SemanticFlowDiagram({ connections, thisTerm, thisTransliteration }: {
   connections: SemanticConnection[]
   thisTerm: string
+  thisTransliteration: string
 }) {
   const precedes  = connections.filter(c => c.relationship === 'precedes')
   const deepens   = connections.filter(c => c.relationship === 'deepens')
@@ -499,8 +501,7 @@ function SemanticFlowDiagram({ connections, thisTerm }: {
             <div style={{ fontFamily: "var(--font-amiri,'Amiri'),serif", color: g(0.90), fontSize: '1.8rem', direction: 'rtl' }}>
               {thisTerm}
             </div>
-            <div className="mt-0.5 text-xs font-bold text-[#C9A84C]">Tawbah</div>
-            <div className="mt-0.5 text-[9px] uppercase tracking-wider" style={{ color: g(0.5) }}>The Return</div>
+            <div className="mt-0.5 text-xs font-bold text-[#C9A84C]">{thisTransliteration}</div>
           </div>
         </div>
 
@@ -564,11 +565,11 @@ function SemanticFlowDiagram({ connections, thisTerm }: {
 }
 
 function ConnectionCard({ conn }: { conn: SemanticConnection }) {
-  const meta = GLOSSARY_TERMS_MINI[conn.slug]
+  const hasEntry = conn.slug in GLOSSARY_ENTRIES
   const style = RELATIONSHIP_STYLES[conn.relationship]
 
   const card = (
-    <div className="group rounded-2xl border border-zinc-200 dark:border-white/[0.05] bg-zinc-50 dark:bg-white/[0.02] p-5 transition-all hover:border-[rgba(212,175,55,0.15)]">
+    <div className={`group rounded-2xl border border-zinc-200 dark:border-white/[0.05] bg-zinc-50 dark:bg-white/[0.02] p-5 transition-all ${hasEntry ? 'hover:border-[rgba(212,175,55,0.25)] cursor-pointer' : ''}`}>
       {/* Header */}
       <div className="mb-3 flex items-start justify-between gap-3">
         <div>
@@ -582,9 +583,16 @@ function ConnectionCard({ conn }: { conn: SemanticConnection }) {
             {conn.transliteration}
           </span>
         </div>
-        <span className={`rounded-full border px-2 py-0.5 text-[9px] font-medium uppercase tracking-wider ${style.bg} ${style.color}`}>
-          {style.label}
-        </span>
+        <div className="flex items-center gap-2">
+          <span className={`rounded-full border px-2 py-0.5 text-[9px] font-medium uppercase tracking-wider ${style.bg} ${style.color}`}>
+            {style.label}
+          </span>
+          {hasEntry && (
+            <span className="text-[10px] transition-colors" style={{ color: g(0.40) }}>
+              →
+            </span>
+          )}
+        </div>
       </div>
       {/* Relationship label */}
       <p className="mb-2 text-xs font-medium italic text-zinc-500">{conn.relationshipLabel}</p>
@@ -593,28 +601,19 @@ function ConnectionCard({ conn }: { conn: SemanticConnection }) {
     </div>
   )
 
-  if (meta?.hasEntry) {
+  if (hasEntry) {
     return <Link href={`/glossary/${conn.slug}`}>{card}</Link>
   }
   return <div>{card}</div>
-}
-
-// Mini lookup so ConnectionCard knows if a term has a full entry
-const GLOSSARY_TERMS_MINI: Record<string, { hasEntry: boolean }> = {
-  nadam:      { hasEntry: false },
-  istighfar:  { hasEntry: false },
-  inabah:     { hasEntry: false },
-  tawwab:     { hasEntry: false },
-  awwab:      { hasEntry: false },
 }
 
 function ConnectionsTab({ entry }: { entry: GlossaryEntry }) {
   if (!entry.semanticField) return null
   return (
     <div className="space-y-6">
-      <SemanticFlowDiagram connections={entry.semanticField} thisTerm={entry.term} />
+      <SemanticFlowDiagram connections={entry.semanticField} thisTerm={entry.term} thisTransliteration={entry.transliteration} />
       <div>
-        <SectionLabel>Full semantic portraits</SectionLabel>
+        <SectionLabel>How these concepts relate</SectionLabel>
         <div className="space-y-4">
           {entry.semanticField.map((c) => (
             <ConnectionCard key={c.slug} conn={c} />
