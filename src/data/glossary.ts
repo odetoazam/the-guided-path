@@ -174,9 +174,9 @@ export const GLOSSARY_TERMS: GlossaryMeta[] = [
   { slug: 'ayyub',        term: 'أَيُّوب',           transliteration: 'Ayyub',         category: 'Quranic Characters', evocativeLine: "Affliction beyond measure — and a faith that didn't flinch.",                 hasFullEntry: true },
   { slug: 'iblis',        term: 'إِبْلِيس',          transliteration: 'Iblis',         category: 'Quranic Characters', evocativeLine: 'He knew the truth, refused it — and has spent eternity trying to make others do the same.', hasFullEntry: true },
   { slug: 'firaun',       term: 'فِرْعَوْن',         transliteration: "Fir'awn",       category: 'Quranic Characters', evocativeLine: 'The supreme symbol of arrogance — a man who called himself lord and drowned in the sea.', hasFullEntry: true },
-  { slug: 'qarun',        term: 'قَارُون',           transliteration: 'Qarun',         category: 'Quranic Characters', evocativeLine: 'The man of treasures who forgot their source — and was swallowed by the earth.', hasFullEntry: false },
+  { slug: 'qarun',        term: 'قَارُون',           transliteration: 'Qarun',         category: 'Quranic Characters', evocativeLine: 'The man of treasures who forgot their source — and was swallowed by the earth.', hasFullEntry: true },
   { slug: 'bilqis',       term: 'بِلْقِيس',          transliteration: 'Bilqis',        category: 'Quranic Characters', evocativeLine: 'The queen who recognized truth when she saw it — and chose it over her throne.', hasFullEntry: false },
-  { slug: 'asiya',        term: 'آسِيَة',            transliteration: 'Asiya',         category: 'Quranic Characters', evocativeLine: 'A queen who built a house in Jannah while living in a palace of oppression.',   hasFullEntry: false },
+  { slug: 'asiya',        term: 'آسِيَة',            transliteration: 'Asiya',         category: 'Quranic Characters', evocativeLine: 'A queen who built a house in Jannah while living in a palace of oppression.',   hasFullEntry: true },
   { slug: 'yusuf',        term: 'يُوسُف',            transliteration: 'Yusuf',         category: 'Quranic Characters', evocativeLine: 'Thrown into a well, sold, imprisoned — and still the most beautiful of stories.', hasFullEntry: true },
   { slug: 'ibrahim',      term: 'إِبْرَاهِيم',       transliteration: 'Ibrahim',       category: 'Quranic Characters', evocativeLine: "The friend of Allah — who broke the idols, walked into the fire, and didn't flinch.", hasFullEntry: true },
   { slug: 'musa',         term: 'مُوسَىٰ',           transliteration: 'Musa',          category: 'Quranic Characters', evocativeLine: 'Called from a burning bush, raised in the palace of his enemy — the most mentioned prophet.', hasFullEntry: true },
@@ -8151,6 +8151,170 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
     relatedTerms: [
       { slug: 'tawakkul', transliteration: 'Tawakkul', term: 'تَوَكُّل' },
       { slug: 'sabr',     transliteration: 'Sabr',     term: 'صَبْر'   },
+    ],
+    hasFullEntry: true,
+  },
+
+  'qarun': {
+    slug: 'qarun',
+    term: 'قَارُون',
+    transliteration: 'Qarun',
+    pronunciation: 'qaa-ROON',
+    category: 'Quranic Characters',
+    evocativeLine: 'The man of treasures who forgot their source — and was swallowed by the earth.',
+    summary: "Qarun was a man of the Banu Isra'il who was given such extraordinary wealth that his treasuries required a band of men just to carry the keys. The Quran presents him as the supreme example of gratitude's opposite: a man who, when told to spend from what Allah had given him, replied: I was given this because of knowledge that I have (28:78) — as if the wealth were a product of his own intelligence rather than a divine gift.\n\nThe people around him watched him emerge in his finery and said: Would that we had what Qarun has been given — he is truly the possessor of great fortune. But the scholars and the wise among them said: Woe to you — the reward of Allah is better for those who believe and do righteous deeds. This scene — the crowd's envy, the wise man's corrective — is the Quran's compressed portrait of the two possible responses to visible wealth.\n\nQarun's end is among the most vivid in the Quran: we caused the earth to swallow him and his home (28:81). The very ground beneath his feet — the foundation on which all his treasure rested — opened and consumed him. And then the same people who had envied him said: It is as if Allah extends provision to whoever He wills of His servants and restricts it. If Allah had not been gracious to us, He would have caused it to swallow us too. Envy instantly converted to gratitude by the sight of what envy ultimately produces.",
+    root: {
+      letters: 'ق ر ن',
+      transliteration: 'q-r-n',
+      meaning: 'To combine, to link — a proper name related to the Hebrew Korah',
+      elaboration: "Qarun is the Arabic form of the biblical Korah — a name from the same Semitic root as the Hebrew meaning bald, or possibly linking. The Quran presents him as a figure from the time of Musa, consistent with the biblical Korah who led a rebellion against Moses and was swallowed by the earth (Numbers 16). The name has become in Arabic culture a synonym for extreme wealth — kurun means Qarun, implying almost fabulous riches.",
+    },
+    rootForms: [
+      { arabic: 'قَارُون', transliteration: 'Qārūn', type: 'Proper noun', meaning: 'Qarun — the archetype of the ungrateful wealthy', approxCount: 4, verified: true },
+    ],
+    occurrenceCount: 4,
+    occurrenceNote: "Qarun appears 4 times in the Quran, all in the context of his wealth, his arrogance, and his destruction. His story is most fully told in Surah Al-Qasas (28:76-82), where the crowd's envy, the wise man's correction, the earth's swallowing, and the crowd's subsequent reflection are narrated in sequence.",
+    keyAyahs: [
+      {
+        ref: 'Al-Qasas 28:76',
+        arabic: 'إِنَّ قَارُونَ كَانَ مِن قَوْمِ مُوسَىٰ فَبَغَىٰ عَلَيْهِمْ ۖ وَآتَيْنَاهُ مِنَ الْكُنُوزِ مَا إِنَّ مَفَاتِحَهُ لَتَنُوءُ بِالْعُصْبَةِ',
+        translation: "Indeed, Qarun was from the people of Musa, but he tyrannized over them. And We had given him of treasures whose keys would burden a band of strong men.",
+        note: "The wealth is explicitly given by Allah — ataynahhu (We gave him). This is the Quran's setup: everything that follows is about how someone responds to a divine gift. The keys' weight (requiring a band of strong men) is not presented with admiration but as context for what follows: a gift of this magnitude, and still no gratitude.",
+      },
+      {
+        ref: 'Al-Qasas 28:78',
+        arabic: 'قَالَ إِنَّمَا أُوتِيتُهُ عَلَىٰ عِلْمٍ عِندِي',
+        translation: "He said: I was given it only on account of knowledge I have.",
+        note: "The answer of Qarun — and the defining mistake. He does not deny that he has wealth; he denies its source. The shift from divine gift to personal achievement is the exact mechanism of kufr al-ni'mah (denial of a blessing). He credits himself. This is the Quran's warning about meritocracy unchecked by gratitude: when success is entirely attributed to personal intelligence or effort, the giver disappears from the account.",
+      },
+      {
+        ref: 'Al-Qasas 28:81-82',
+        arabic: 'فَخَسَفْنَا بِهِ وَبِدَارِهِ الْأَرْضَ... وَأَصْبَحَ الَّذِينَ تَمَنَّوْا مَكَانَهُ بِالْأَمْسِ يَقُولُونَ وَيْكَأَنَّ اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ',
+        translation: "So We caused the earth to swallow him and his home... And those who had wished for his position the previous day began saying: It is as if Allah extends provision to whoever He wills.",
+        note: "The moment of insight. The crowd that had envied Qarun the previous day — the same ones who said would that we had what he has — now say: wa-ka'anna (it is as though — the particle of sudden realization). The earth's swallowing converts envy to wisdom in an instant. The lesson: envy of the wealthy is not just spiritually corrosive; it is epistemically blinding. It takes a catastrophe for the crowd to see what the wise man knew all along.",
+      },
+    ],
+    semanticField: [
+      {
+        slug: 'shukr',
+        arabic: 'شُكْر',
+        transliteration: 'Shukr',
+        relationship: 'divine-response',
+        relationshipLabel: 'The virtue Qarun completely lacked',
+        description: "Qarun is shukr's absence made flesh. Everything he was given was acknowledged as his own achievement rather than divine gift. The Quran pairs Qarun's story with the instruction to seek the akhira with what Allah has given — do not forget your share of the dunya (28:77). The instruction is precisely what Qarun violated: he forgot the akhira entirely, consumed by the dunya he claimed for himself.",
+      },
+      {
+        slug: 'zuhd',
+        arabic: 'زُهْد',
+        transliteration: 'Zuhd',
+        relationship: 'divine-response',
+        relationshipLabel: 'The posture that protects against becoming Qarun',
+        description: "Zuhd is not poverty — it is the interior freedom from wealth that prevents it from claiming the heart. Qarun's wealthy could have been a vehicle for akhira if held loosely and used generously. The wise man's advice (28:77) is the formula for zuhd in wealth: seek the akhira through it, do not forget your share, be good as Allah has been good to you, and do not seek corruption.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: "Attribute what you have to its real source", arabic: "شُكْر", arabicTranslit: "shukr", description: "The moment Qarun said I was given this because of my own knowledge, he was lost. Every skill, every intelligence, every circumstance that produced success is a gift from Allah — including the intelligence one credits for the success. Shukr begins with accurate attribution: Ya Allah, this came from You." },
+        { number: 2, title: "Be generous as Allah has been generous", arabic: "كَرَم", arabicTranslit: "karam", description: "The wise man's counsel to Qarun: wa-ahsin kama ahsana Allah ilayk — be good as Allah has been good to you (28:77). The standard of human generosity is divine generosity. What Allah gave Qarun was not to be hoarded; it was to be circulated. Generosity is the correct use of divinely given wealth; hoarding is its misuse." },
+        { number: 3, title: "Do not envy what has been given to others", arabic: "قَنَاعَة", arabicTranslit: "qanāʿah", description: "The crowd's envy was instantaneous — they saw Qarun in his finery and immediately wished they were him. The wise man's alternative was not indifference to wealth but correct perspective: the reward of Allah is better for those who believe and do righteous deeds. Qana'ah (contentment) is the protection against the blindness of envy." },
+      ],
+      stations: [
+        { name: "The station of the crowd", description: "Envy. Immediate, spontaneous, understandable. The crowd sees visible wealth and wishes they had it. This is the beginning of the spiritual disease — not the cause, but the symptom. The cure is the statement of the wise man among them." },
+        { name: "The station of the wise", description: "Among the crowd, the wise man says: the reward of Allah is better. He sees through the finery to the truth. This is the station of those who have understood the dunya's place and the akhira's weight." },
+        { name: "The station of understanding after catastrophe", description: "The crowd after the swallowing: wa-ka'anna (it is as though). They realize suddenly what they could not see before. This is the most painful form of learning — through devastation rather than wisdom. The Quran preserves this scene as a warning: you do not need to wait for the catastrophe to reach the insight the wise man already had." },
+      ],
+      questions: [
+        { question: "Is wealth inherently bad in the Quran?", answer: "No. The Quran says seek the home of the akhira through what Allah has given you, and do not forget your share of the dunya (28:77). This is not a condemnation of wealth but a framework for its use. Wealth becomes a problem when it is hoarded, when it is attributed to oneself rather than Allah, when it produces arrogance, or when it crowds out the akhira. Used generously and with gratitude, it is a vehicle for both dunya and akhira good." },
+        { question: "What does it mean that the earth swallowed Qarun and his home?", answer: "The punishment has a symbolic appropriateness: the foundation of Qarun's wealth — the earth — became the instrument of his destruction. What he built upon consumed him. This pattern appears in the Quran for other destroyed peoples as well: they were destroyed by the very things they misused. The earth's opening is also a parallel to the biblical Korah account (Numbers 16), where the earth also swallowed Korah and his followers. The Quranic version emphasizes divine authorship: We caused the earth to swallow him." },
+      ],
+    },
+    scholarsSaid: [
+      { scholar: "Ibn al-Qayyim", source: "Madarij al-Salikin", text: "Qarun is the supreme example of the disease of attributing divine gifts to oneself. His wealth was real; his destruction was proportional. The story teaches that between the gift and the gratitude lies the difference between preservation and destruction." },
+      { scholar: "Sayyid Qutb", source: "Fi Zilal al-Quran", text: "The story of Qarun is the Quran's definitive commentary on the relationship between wealth, knowledge, and spiritual blindness. He who attributed his wealth to his own knowledge was destroyed by the earth — the foundation of all earthly things — as if to say: your knowledge built nothing that your Lord did not give you the ground to build on." },
+    ],
+    hadith: [],
+    acrossTransitions: "Qarun corresponds to the biblical Korah, and the parallel is one of the clearest between the Quran and the Hebrew Bible. In Numbers 16, Korah rebels against Moses, and the earth opens and swallows him, his household, and his followers. The Quran preserves the essential narrative while emphasizing different aspects: the wealth, the arrogance of self-attribution, the crowd's envy and subsequent wisdom.\n\nIn Arabic culture, the word qarin (from the same root as Qarun) has become a synonym for extreme and problematic wealth — like Midas in the Western tradition but with stronger moral weight. The phrase tharwat Qarun (the wealth of Qarun) suggests both enormous riches and the warning embedded in the original story.\n\nIn Islamic economic thought, Qarun is the counterpoint to the proper use of wealth. He represents the hoarding, arrogant extreme that stands in contrast to the prophetic model of generous circulation, zakah, and sadaqah. The Quran's instruction immediately after the Qarun story — seek the akhira through what Allah has given you — is the positive prescription that Qarun's story makes necessary.",
+    goDeeper: [
+      { slug: 'al-qasas', surahName: 'Al-Qasas', note: "The fullest account of Qarun's wealth, arrogance, the crowd's envy, and the swallowing of the earth" },
+    ],
+    relatedTerms: [
+      { slug: 'shukr', transliteration: 'Shukr', term: 'شُكْر' },
+      { slug: 'zuhd',  transliteration: 'Zuhd',  term: 'زُهْد'  },
+    ],
+    hasFullEntry: true,
+  },
+
+  'asiya': {
+    slug: 'asiya',
+    term: 'آسِيَة',
+    transliteration: 'Asiya',
+    pronunciation: 'aa-SIY-ya',
+    category: 'Quranic Characters',
+    evocativeLine: 'A queen who built a house in Jannah while living in the palace of the greatest oppressor.',
+    summary: "Asiya bint Muzahim is one of the four women the Quran and hadith tradition identify as the greatest women who have ever lived, alongside Maryam bint Imran, Khadijah bint Khuwaylid, and Fatimah bint Muhammad ﷺ. She was the wife of Firaun — raised as a queen in the palace of the Quran's supreme tyrant — and yet she believed, she protected the infant Musa from the river, and she asked Allah not for escape from her palace, but for a house near Allah in Jannah.\n\nThe Quran preserves a single extended scene with Asiya: her du'a at the moment of her martyrdom (or near-martyrdom). Firaun had her tortured for her belief. She raised her eyes to heaven and prayed: My Lord, build for me near You a house in paradise, and save me from Firaun and his deeds, and save me from the wrongdoing people (66:11). She did not ask for the torture to stop. She asked for proximity to Allah.\n\nThis du'a is one of the most cited in Islamic spirituality because of its quality of detachment: in the middle of worldly suffering, the heart is oriented entirely toward Allah. The palace that was supposed to be her security becomes her prison; the One she prays to is her only real refuge. Asiya's faith inside the palace of Firaun is the Quran's proof that no environment, however hostile, is incompatible with sincere belief — and that the quality of one's prayer in the worst circumstances reveals the depth of one's connection to Allah.",
+    root: {
+      letters: 'أ س ي',
+      transliteration: "'a-s-y",
+      meaning: 'A proper name — possibly connected to asiyn, meaning to be grieved, to mourn',
+      elaboration: "The name Asiya is a proper noun. Some scholars connect it to the Arabic root asa — grief, mourning — which would give her name a poetic appropriateness: the one who grieves (over oppression and unbelief) who finds her consolation in Allah. Others connect it to roots meaning to set things right. The Quran does not etymologize the name; the story is the meaning.",
+    },
+    rootForms: [
+      { arabic: 'آسِيَة', transliteration: 'Āsiyah', type: 'Proper noun', meaning: 'The wife of Firaun who believed', approxCount: 1, verified: true },
+    ],
+    occurrenceCount: 1,
+    occurrenceNote: "Asiya is named only once in the Quran, in Surah Al-Tahrim (66:11), where her du'a is recorded as an example for believers. She is also referenced indirectly in the story of Musa's rescue from the river (28:9), where Firaun's wife asks him to spare the infant. Despite her single naming, her example is among the most cited in the tradition.",
+    keyAyahs: [
+      {
+        ref: 'Al-Tahrim 66:11',
+        arabic: 'وَضَرَبَ اللَّهُ مَثَلًا لِّلَّذِينَ آمَنُوا امْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ابْنِ لِي عِندَكَ بَيْتًا فِي الْجَنَّةِ وَنَجِّنِي مِن فِرْعَوْنَ وَعَمَلِهِ وَنَجِّنِي مِنَ الْقَوْمِ الظَّالِمِينَ',
+        translation: "And Allah presents an example for those who have believed: the wife of Firaun, when she said: My Lord, build for me near You a house in paradise, and save me from Firaun and his deeds, and save me from the wrongdoing people.",
+        note: "She is presented by Allah Himself as an example — mathalan — for those who believe. The example is not merely of courage under persecution, though it includes that. It is the example of an interior orientation that has found its home in Allah regardless of the outer environment. She is in Firaun's palace but not of it. Her request — a house near You — is the request of someone whose true home is already in another dimension.",
+      },
+      {
+        ref: 'Al-Qasas 28:9',
+        arabic: 'وَقَالَتِ امْرَأَتُ فِرْعَوْنَ قُرَّتُ عَيْنٍ لِّي وَلَكَ ۖ لَا تَقْتُلُوهُ',
+        translation: "And the wife of Firaun said: A delight of the eye for me and for you — do not kill him.",
+        note: "The moment of Musa's rescue. She sees the infant Musa in the basket from the river and calls him qurrat ayn — the joy of the eye, literally cooling of the eye. This is the traditional Arabic phrase for what is most beloved, most comforting to look upon. Her intercession saves Musa. The woman who will later be tortured for her belief in Allah is also the woman through whom Allah's prophet was preserved. Divine irony at its most profound: the oppressor's household saves the prophet who will undo the oppressor.",
+      },
+    ],
+    semanticField: [
+      {
+        slug: 'maryam',
+        arabic: 'مَرْيَم',
+        transliteration: 'Maryam',
+        relationship: 'parallels',
+        relationshipLabel: 'Paired example of believing women in Al-Tahrim',
+        description: "Al-Tahrim (66:10-12) presents two negative examples and two positive examples in sequence: the wives of Nuh and Lut (who were married to prophets but betrayed them) and Asiya and Maryam (who were in impossible circumstances but believed and held firm). Asiya and Maryam together represent the full range of the greatest female faith: Asiya in a palace of tyranny, Maryam in the vulnerability of unwed pregnancy.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: "Orient the heart toward Allah regardless of environment", arabic: "تَوَجُّه", arabicTranslit: "tawajjuh", description: "Asiya's faith was not made possible by a supportive environment — she was in the most hostile spiritual environment imaginable. The lesson: the heart's orientation does not depend on the outer world. If it did, no believer in an oppressive household or society could survive. Asiya demonstrates that the interior is its own territory, accessible to Allah directly." },
+        { number: 2, title: "Ask for the right things in du'a", arabic: "دُعَاء", arabicTranslit: "duʿāʾ", description: "She does not ask for the torture to stop, for Firaun to be defeated, for political change. She asks for proximity to Allah and protection from harm. This prioritization — akhira first, then safety, and not relief from the immediate pain — is the mark of a heart that has genuinely understood what matters most." },
+      ],
+      stations: [
+        { name: "Belief in impossible circumstances", description: "The palace of Firaun is the least hospitable place for faith. And yet faith grew there — in the heart of his own wife. This is the station of the believer in the hostile environment: maintaining the interior orientation toward Allah when the exterior offers no support." },
+        { name: "The du'a of the martyr", description: "Asiya's prayer is the prayer of one who has released attachment to this world completely. Her only request is: be near You. This is the station the mystics describe as annihilation of the self in Allah — when the only thing left to want is Allah Himself." },
+      ],
+      questions: [
+        { question: "Why is Asiya considered one of the four greatest women?", answer: "The hadith tradition (Sahih al-Bukhari and Muslim) states that the Prophet ﷺ identified Maryam bint Imran and Asiya bint Muzahim as women who achieved completeness (kamulat) — a term used for the highest spiritual station. Their circumstances could not have been more different: Asiya in a palace with every worldly provision and the worst spiritual environment; Maryam in poverty and vulnerability but with the most extraordinary spiritual honor. Both achieved the highest station through the quality of their inner orientation to Allah." },
+        { question: "Was Asiya killed by Firaun?", answer: "The tradition holds that she was tortured by Firaun for her belief — crucified in the sun — and that as she looked toward heaven and made her du'a, Allah showed her her house in paradise, and she smiled, and at that moment she died. The combination of the visible torment and the visible smile was so striking that those present were confused by it. The specific chain of this account has varying degrees of authenticity in the hadith literature, but the tradition is broadly accepted." },
+      ],
+    },
+    scholarsSaid: [
+      { scholar: "Ibn Rajab al-Hanbali", source: "Lata'if al-Ma'arif", text: "Allah presented Asiya as an example for the believers because her faith was the most tested kind: maintained in the household of the greatest oppressor, without any community of believers around her, sustained by nothing but her relationship with Allah. This is the faith that the Quran holds as the model." },
+    ],
+    hadith: [
+      { text: "Many men have been complete, but from women none has been complete except Maryam bint Imran and Asiya the wife of Firaun.", source: "Sahih al-Bukhari and Muslim" },
+    ],
+    acrossTransitions: "The figure of Asiya — the believing woman in the household of the disbeliever — appears in no parallel source before the Quran. She is the Quran's own addition to the prophetic narrative. In the biblical account, Pharaoh's wife or daughter figures in the Musa story only briefly; she is not given a theological identity or a du'a. The Quran elevates her to one of the supreme examples of human faith.\n\nIn Islamic feminist scholarship, Asiya has become an important figure: a woman who is named by Allah Himself as a model for believers (not just for believing women — mathalan lil-ladhina amanu, for those who have believed, without gender specification). Her example crosses gender lines; she is not merely a female exemplar but a human exemplar.\n\nIn Islamic spirituality, Asiya's du'a — build me a house near You — has become the archetype of the highest aspiration in prayer: not asking for relief from pain, but asking for proximity to Allah. The mystics consider this the mark of a heart that has moved beyond bargaining with Allah to simply wanting Allah.",
+    goDeeper: [
+      { slug: 'al-tahrim', surahName: 'Al-Tahrim', note: "Contains Asiya's du'a as the example for believers and the contrast with the wives of Nuh and Lut" },
+      { slug: 'al-qasas', surahName: 'Al-Qasas', note: "Asiya's intercession for the infant Musa — the rescue that preserved the prophet" },
+    ],
+    relatedTerms: [
+      { slug: 'maryam',  transliteration: 'Maryam',  term: 'مَرْيَم'   },
+      { slug: 'tawakkul', transliteration: 'Tawakkul', term: 'تَوَكُّل' },
     ],
     hasFullEntry: true,
   },
