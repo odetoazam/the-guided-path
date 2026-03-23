@@ -1397,7 +1397,7 @@ What is distinctly Quranic is the insistence that jannah's descriptions are give
         ref: '6:59',
         arabic: 'وَعِندَهُۥ مَفَاتِحُ ٱلْغَيْبِ لَا يَعْلَمُهَآ إِلَّا هُوَ',
         translation: 'And with Him are the keys of the unseen; none knows them except Him.',
-        note: "The mafātiḥ al-ghayb — the keys of the unseen — are then elaborated in the following verse as the five matters which only Allah knows: the Hour of resurrection, rainfall, what is in the wombs, what anyone will earn tomorrow, and where anyone will die. These five (al-umūr al-khams) become a cornerstone of Islamic theology: they are the specific limit of ghayb that no human can access.",
+        note: "The mafātiḥ al-ghayb — the keys of the unseen — are then elaborated in the following verse as the five matters which only Allah knows (enumerated in 31:34 and the hadith of Jibril): the Hour of resurrection, rainfall, what is in the wombs, what anyone will earn tomorrow, and where anyone will die. These five (al-umūr al-khams) become a cornerstone of Islamic theology: they are the specific limit of ghayb that no human can access.",
       },
       {
         ref: '72:26',
@@ -1587,7 +1587,7 @@ What makes Islamic tafsir distinctive is its insistence on the Arabic language a
     hasFullEntry: true,
 
     summary:
-      "Tadabbur is the Quran's own word for the manner in which it wants to be read. It appears four times in the Quran — always as a command or a rebuke to those who do not practice it. The root means to look at the back of something, to trace consequences, to follow a thing all the way to its end. To make tadabbur of the Quran is to follow its meanings all the way — to where they lead in your theology, your character, and your daily life. It is distinguished from tafsir (explaining) in that tafsir is primarily intellectual and tafsir is primarily transformative. Tadabbur is reading that does not stop at understanding but continues until it changes you.",
+      "Tadabbur is the Quran's own word for the manner in which it wants to be read. It appears four times in the Quran — always as a command or a rebuke to those who do not practice it. The root means to look at the back of something, to trace consequences, to follow a thing all the way to its end. To make tadabbur of the Quran is to follow its meanings all the way — to where they lead in your theology, your character, and your daily life. It is distinguished from tafsir (explaining) in that tafsir is primarily intellectual and tadabbur is primarily transformative. Tadabbur is reading that does not stop at understanding but continues until it changes you.",
 
     root: {
       letters: 'د-ب-ر',
@@ -1602,7 +1602,7 @@ What makes Islamic tafsir distinctive is its insistence on the Arabic language a
 
     rootForms: [
       { arabic: 'تَدَبَّرَ',     transliteration: 'tadabbara',     type: 'Verb — Perfect (Form V)',  meaning: '"He pondered deeply / traced consequences" — the act',     approxCount: 0, verified: false },
-      { arabic: 'يَتَدَبَّرُونَ', transliteration: 'yatadabbarūna', type: 'Verb — Imperfect (Form V)', meaning: '"They reflect / ponder deeply" — ongoing engagement',        approxCount: 4, verified: true  },
+      { arabic: 'يَتَدَبَّرُونَ', transliteration: 'yatadabbarūna', type: 'Verb — Imperfect (Form V)', meaning: '"They reflect / ponder deeply" — ongoing engagement',        approxCount: 2, verified: true  },
       { arabic: 'تَدَبُّر',      transliteration: 'tadabbur',      type: 'Verbal noun (Form V)',     meaning: '"Deep reflection / pondering" — the discipline as a noun', approxCount: 0, verified: false },
       { arabic: 'مُدَبِّر',      transliteration: 'mudabbir',      type: 'Active participle (Form II)', meaning: '"One who manages / regulates" — used for divine management and angels', approxCount: 2, verified: false },
     ],
@@ -1929,7 +1929,7 @@ What is uniquely Quranic is the precision: mithqāl dharra — the weight of an 
     },
 
     occurrenceCount: 77,
-    occurrenceNote: "Jahannam appears 77 times in the Quran — making it one of the most frequently named realities in the text. The scholars note that it has been described by 77 names and attributes across the Quran and sunnah.",
+    occurrenceNote: "Jahannam appears 77 times in the Quran — making it one of the most frequently named realities in the text. The scholars note that it has been described by numerous names and attributes across the Quran and sunnah.",
 
     rootForms: [
       { arabic: 'جَهَنَّم',   transliteration: 'jahannam',   type: 'Proper noun',   meaning: '"Hell / the fire" — the realm of punishment',               approxCount: 77, verified: false },
@@ -2783,7 +2783,7 @@ What the Quran most emphasizes about the malaika is their utter obedience — "t
     },
 
     occurrenceCount: 88,
-    occurrenceNote: "The root appears approximately 88 times in the Quran in various forms — malak (singular), malaika (plural), and the specific named angels (Jibril, Mika'il, Israfil by implication, Malik, Ridwan). The angels appear in some form in virtually every major narrative in the Quran.",
+    occurrenceNote: "The root appears approximately 88 times in the Quran in various forms — malak (singular), malaika (plural), and the specific named angels (Jibril, Mika'il, Malik, Harut, and Marut (Israfil and Ridwan are known from hadith, not named in the Quran)). The angels appear in some form in virtually every major narrative in the Quran.",
 
     rootForms: [
       { arabic: 'مَلَك', transliteration: 'malak', type: 'Singular noun', meaning: 'Angel — one angel', approxCount: 20, verified: false },
@@ -3131,7 +3131,7 @@ The ruh is what departs at death — it is taken by the angel of death and carri
       ],
       questions: [
         { question: "Is the ruh immortal?", answer: "The scholars say: the ruh is immortal in the sense that it does not cease to exist after death — it continues in the barzakh and through the resurrection. But 'immortal' in the sense of being without beginning is not applicable — the ruh was created, like everything else. What persists is the ruh's existence and identity — the person does not become nothing at death. The Quran is clear that the dead experience their states in the barzakh and will be fully resurrected." },
-        { question: "When is the ruh breathed into the fetus?", answer: "The hadith of Ibn Masud (Bukhari & Muslim) specifies: the ruh is breathed into the developing human forty days after conception (some hadith say 120 days — the scholars have harmonized these in various ways). Before the ruh, the fetus is living in a biological sense but not yet a full human being in the Quranic sense. This has significant implications for Islamic bioethics regarding the moral status of the fetus at different stages." },
+        { question: "When is the ruh breathed into the fetus?", answer: "The hadith of Ibn Masud (Bukhari & Muslim) specifies: the ruh is breathed into the developing human 120 days after conception according to the hadith of Ibn Masud (40 days as a drop, 40 as a clot, 40 as a lump of flesh, then the angel is sent). Some scholars argue for 40 days based on a separate narration in Muslim. Before the ruh, the fetus is living in a biological sense but not yet a full human being in the Quranic sense. This has significant implications for Islamic bioethics regarding the moral status of the fetus at different stages." },
         { question: "Does the ruh feel anything while the body sleeps?", answer: "The Quran says Allah takes the ruh during sleep and returns it at waking (39:42). The scholars interpret this as the ruh entering a state of partial separation — dreams occur during this state, and the ruh can perceive realities that the fully embodied waking state cannot. The most vivid dreams of the believers are sometimes said to be the ruh's perception of the unseen during this semi-separation. At death, the separation becomes complete." },
       ],
     },
@@ -3917,7 +3917,7 @@ The Quran makes rahmah the framework within which all of Allah's other qualities
     },
 
     occurrenceCount: 339,
-    occurrenceNote: "The root r–ḥ–m appears approximately 339 times in the Quran — making it among the most frequent roots in the entire text. Al-Rahman and Al-Rahim together constitute 112 appearances through the basmala alone (once per surah). The Quran's saturation with rahmah is itself a statement about what the Quran is primarily communicating.",
+    occurrenceNote: "The root r–ḥ–m appears approximately 339 times in the Quran — making it among the most frequent roots in the entire text. Al-Rahman and Al-Rahim together constitute 113 appearances through the basmala alone (once per surah). The Quran's saturation with rahmah is itself a statement about what the Quran is primarily communicating.",
 
     keyAyahs: [
       {
@@ -4684,7 +4684,7 @@ Ibn al-Qayyim placed inabah above tawbah in his ranking of the stations: tawbah 
       letters: 'ن–و–ب',
       transliteration: 'n–w–b',
       meaning: 'To return, to come back repeatedly, to be a substitute or representative',
-      elaboration: "The root n-w-b carries the sense of returning and also of deputizing — the na'ib is a deputy. Inabah (fourth form) means a repeated, thorough returning. Awwab (which Allah uses to describe His prophets) comes from the same root and means one who constantly returns to Allah. The munib is one who is perpetually turned toward Allah — not just once but as the ongoing direction of the soul.",
+      elaboration: "The root n-w-b carries the sense of returning and also of deputizing — the na'ib is a deputy. Inabah (fourth form) means a repeated, thorough returning. Awwab (which Allah uses to describe His prophets) comes from a related but distinct root (hamza-waw-ba) and means one who constantly returns to Allah. The munib is one who is perpetually turned toward Allah — not just once but as the ongoing direction of the soul.",
     },
     occurrenceCount: 8,
     occurrenceNote: "Inabah and its forms appear approximately 8 times in the Quran, always in elevated spiritual contexts: Sulayman's turning to Allah after his trial (38:34), Ibrahim's quality (11:75), the quality of those who receive admonition (50:33), and the direct command in 39:54.",
@@ -5960,7 +5960,7 @@ The Prophet ﷺ described the ummah as "one body" — when one part suffers, the
       elaboration: "The root ʾ-m-m is the root of umm (mother), imam (leader, the one who is followed), ummah (community, nation, the body that follows a leader or shares a direction), and amama (in front of, ahead). The conceptual thread: the ummah is a community that follows a single direction — the direction the prophet/imam leads toward. As the mother is the origin and center of the family, the ummah is the human community organized around its divine direction.",
     },
     occurrenceCount: 64,
-    occurrenceNote: "Ummah appears approximately 64 times in the Quran in various senses: the Muslim community (2:143, 3:110), the community of a particular prophet (previous ummahs — 7:38, 16:36), a group that is a model (2:128 — Luqman as ummah, meaning a model), and the community of animals (6:38). The range reveals that ummah is a versatile concept of organized community with shared direction.",
+    occurrenceNote: "Ummah appears approximately 64 times in the Quran in various senses: the Muslim community (2:143, 3:110), the community of a particular prophet (previous ummahs — 7:38, 16:36), a group that is a model (16:120 — Ibrahim as ummah, meaning a model community in one person), and the community of animals (6:38). The range reveals that ummah is a versatile concept of organized community with shared direction.",
     keyAyahs: [
       {
         ref: '2:143',
@@ -6221,7 +6221,7 @@ What is distinctive in Islamic ukhuwwah is its explicit universality across ethn
 
 The root of sadaqah is sidq (truth, sincerity). The connection is deliberate: the scholars explained that giving sadaqah is an act of truthfulness — the giver acknowledges that their wealth is a trust from Allah, that others have a right in it, and that the akhira is real. The wealthy person who gives nothing has told a lie — they have claimed the full ownership of what is a trust, and they have acted as if this life were permanent.
 
-The Prophet ﷺ described sadaqah as protection, as purification, as investment: "Sadaqah extinguishes sin as water extinguishes fire." And in the famous hadith of Allah's shadow on a day of no shade — one of the seven protected groups is the one who gave sadaqah so secretly that his right hand did not know what his left hand gave. This is the spiritual aspiration: giving so natural, so unperformed, that it has become part of the person's character rather than an act they perform.`,
+The Prophet ﷺ described sadaqah as protection, as purification, as investment: "Sadaqah extinguishes sin as water extinguishes fire." And in the famous hadith of Allah's shadow on a day of no shade — one of the seven protected groups is the one who gave sadaqah so secretly that his left hand did not know what his right hand gave. This is the spiritual aspiration: giving so natural, so unperformed, that it has become part of the person's character rather than an act they perform.`,
     root: {
       letters: 'ص–د–ق',
       transliteration: 'ṣ–d–q',
@@ -6331,7 +6331,7 @@ The Quran uses mithaq in multiple contexts: the covenant with the prophets (33:7
         ref: '33:7',
         arabic: 'وَإِذْ أَخَذْنَا مِنَ النَّبِيِّينَ مِيثَاقَهُمْ وَمِنكَ وَمِن نُّوحٍ وَإِبْرَاهِيمَ وَمُوسَىٰ وَعِيسَى ابْنِ مَرْيَمَ',
         translation: 'And when We took from the prophets their covenant — and from you, and from Nuh, Ibrahim, Musa, and Isa son of Maryam.',
-        note: "The prophetic covenant — a mithaq specific to those sent with the message. The sequence (the Prophet ﷺ listed first, then the previous prophets in reverse order) establishes the covenant's hierarchy and the unity of the prophetic mission.",
+        note: "The prophetic covenant — a mithaq specific to those sent with the message. The sequence (the Prophet ﷺ listed first, then the previous prophets in chronological order) establishes the covenant's hierarchy and the unity of the prophetic mission.",
       },
       {
         ref: '4:21',
@@ -6601,7 +6601,7 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
       elaboration: "The root ʿ-q-l carries the sense of binding, tethering, holding in place. The ʿiqal is the cord used to hobble a camel's leg so it cannot stray. The aql does the same for the human — it restrains impulse, anchors thought, holds the self to reason. From this root also comes maʿqul (what is intellectually sound) and taʿaqqul (the act of exercising understanding).",
     },
     rootForms: [
-      { arabic: 'عَقَلَ', transliteration: 'ʿaqala', type: 'Verb', meaning: 'To understand, to reason, to perceive', approxCount: 65, verified: false },
+      { arabic: 'عَقَلَ', transliteration: 'ʿaqala', type: 'Verb', meaning: 'To understand, to reason, to perceive', approxCount: 49, verified: false },
       { arabic: 'عَقْل', transliteration: 'ʿaql', type: 'Noun', meaning: 'The intellect, the mind, the reasoning faculty', approxCount: 0, verified: false },
       { arabic: 'تَعَقَّلُون', transliteration: 'taʿaqqilūn', type: 'Verb (2nd person plural)', meaning: 'Do you not reason?', approxCount: 22, verified: false },
     ],
@@ -6710,7 +6710,7 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
         note: "This verse catalogues the dunya's seductions in a crescendo: play, diversion, adornment, boasting, accumulation. Each is more serious than the last. Play is innocent; boasting is vain; accumulation for its own sake is consuming. The verse continues with the rain metaphor — and then reveals what lies beyond: either severe punishment or forgiveness and pleasure from Allah.",
       },
       {
-        ref: 'Ali Imran 3:14',
+        ref: 'Al-Imran 3:14',
         arabic: 'زُيِّنَ لِلنَّاسِ حُبُّ الشَّهَوَاتِ مِنَ النِّسَاءِ وَالْبَنِينَ وَالْقَنَاطِيرِ الْمُقَنطَرَةِ مِنَ الذَّهَبِ وَالْفِضَّةِ',
         translation: "Beautified for people is the love of that which they desire — of women and sons, heaped-up sums of gold and silver...",
         note: "The passive voice is deliberate: zuyina — it was beautified. Something made these things attractive. The dunya's pull is not an illusion; the beauty is real. But the verse immediately follows with: 'Say, shall I inform you of something better than all of that?' The point is not that beauty is bad. The point is that there is something better.",
@@ -6975,7 +6975,7 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
       letters: 'ب ر ك',
       transliteration: 'b-r-k',
       meaning: 'To settle, to kneel, to be plentiful and lasting',
-      elaboration: "The root b-r-k covers the kneeling of a camel (baraka al-ba'ir), a pool of water (birka), and the divine blessing (barakah). What connects these is the idea of settled, stable, lasting presence — not a flash of abundance but a deep-rooted goodness that endures. Al-Mubarak (the Blessed) is one of the names applied to the Quran and to the Prophet Isa in the cradle. Allah's name Al-Tabarak — exalted be He who is the source of all barakah — appears in the Quran seven times, always at the opening of a surah or a passage that foregrounds divine majesty.",
+      elaboration: "The root b-r-k covers the kneeling of a camel (baraka al-ba'ir), a pool of water (birka), and the divine blessing (barakah). What connects these is the idea of settled, stable, lasting presence — not a flash of abundance but a deep-rooted goodness that endures. Al-Mubarak (the Blessed) is one of the names applied to the Quran and to the Prophet Isa in the cradle. Allah's name Al-Tabarak — exalted be He who is the source of all barakah — appears in the Quran nine times, often at key moments in a surah that foregrounds divine majesty.",
     },
     rootForms: [
       { arabic: 'بَرَكَة', transliteration: 'barakah', type: 'Noun', meaning: 'Blessing, divine abundance, lasting good', approxCount: 32, verified: false },
@@ -7647,7 +7647,7 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
       },
       {
         ref: 'Sad 38:41',
-        arabic: 'وَاذْكُرْ عَبْدَنَا أَيُّوبَ إِذْ نَادَىٰ رَبَّهُ أَنِّي مَسَّنِيَ الضُّرُّ وَأَنتَ أَرْحَمُ الرَّاحِمِينَ',
+        arabic: 'وَاذْكُرْ عَبْدَنَا أَيُّوبَ إِذْ نَادَىٰ رَبَّهُ أَنِّي مَسَّنِيَ الشَّيْطَانُ بِنُصْبٍ وَعَذَابٍ',
         translation: "And remember Our servant Ayyub — when he called to his Lord: Harm has touched me, and You are the Most Merciful of those who show mercy.",
         note: "The command to remember Ayyub is given to the Prophet ﷺ during a period of difficulty. The surah Sad was revealed in Makkah when the Prophet ﷺ and the companions were under severe pressure. Allah's instruction is: look at Ayyub. Remember what he bore. Remember what came after. The remembrance of those who suffered and endured is itself medicine.",
       },
@@ -7906,8 +7906,8 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
     rootForms: [
       { arabic: 'لُقْمَان', transliteration: 'Luqmān', type: 'Proper noun', meaning: 'The wise man Luqman', approxCount: 4, verified: true },
     ],
-    occurrenceCount: 4,
-    occurrenceNote: "Luqman is mentioned 4 times in the Quran, all within Surah Luqman (31). The surah named after him contains his extended wisdom teaching to his son. His mention is rare but his teaching is among the most sustained pieces of parental and moral instruction in the Quran.",
+    occurrenceCount: 2,
+    occurrenceNote: "Luqman is mentioned 2 times in the Quran, all within Surah Luqman (31). The surah named after him contains his extended wisdom teaching to his son. His mention is rare but his teaching is among the most sustained pieces of parental and moral instruction in the Quran.",
     keyAyahs: [
       {
         ref: 'Luqman 31:13',
@@ -7925,7 +7925,7 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
         ref: 'Luqman 31:18-19',
         arabic: 'وَلَا تُصَعِّرْ خَدَّكَ لِلنَّاسِ وَلَا تَمْشِ فِي الْأَرْضِ مَرَحًا ۖ إِنَّ اللَّهَ لَا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ وَاقْصِدْ فِي مَشْيِكَ وَاغْضُضْ مِن صَوْتِكَ',
         translation: "And do not turn your cheek away from people in contempt, and do not walk on the earth arrogantly... And be moderate in your walking and lower your voice.",
-        note: "Embodied ethics: how you walk, how you hold your face, how loud you speak. Islam is not just internal — it is expressed in the body's posture and movement. The instruction to walk with qasad (moderation, directedness) and to lower the voice is the teaching of a man who understands that character shows in the smallest physical habits. The instruction not to turn your cheek away (la tusaʿʿir) — the word comes from jarab, a skin disease that causes an animal to turn its neck — is among the most vivid physical metaphors in the Quran for arrogance.",
+        note: "Embodied ethics: how you walk, how you hold your face, how loud you speak. Islam is not just internal — it is expressed in the body's posture and movement. The instruction to walk with qasad (moderation, directedness) and to lower the voice is the teaching of a man who understands that character shows in the smallest physical habits. The instruction not to turn your cheek away (la tusaʿʿir) — the word comes from sa\'ar (صَعَر), a disease that causes an animal to turn its neck — is among the most vivid physical metaphors in the Quran for arrogance.",
       },
     ],
     semanticField: [
@@ -8307,7 +8307,7 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
       { arabic: 'آسِيَة', transliteration: 'Āsiyah', type: 'Proper noun', meaning: 'The wife of Firaun who believed', approxCount: 1, verified: true },
     ],
     occurrenceCount: 1,
-    occurrenceNote: "Asiya is named only once in the Quran, in Surah Al-Tahrim (66:11), where her du'a is recorded as an example for believers. She is also referenced indirectly in the story of Musa's rescue from the river (28:9), where Firaun's wife asks him to spare the infant. Despite her single naming, her example is among the most cited in the tradition.",
+    occurrenceNote: "Asiya is referenced once in the Quran as 'the wife of Firaun' in Surah Al-Tahrim (66:11) — the name Asiya bint Muzahim comes from hadith tradition, where her du'a is recorded as an example for believers. She is also referenced indirectly in the story of Musa's rescue from the river (28:9), where Firaun's wife asks him to spare the infant. Despite her single naming, her example is among the most cited in the tradition.",
     keyAyahs: [
       {
         ref: 'Al-Tahrim 66:11',
@@ -9129,7 +9129,7 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
     },
     rootForms: [
       { arabic: 'قِيَامَة', transliteration: 'qiyāma', type: 'Noun', meaning: 'The Rising, the Standing; the Day of Judgment', approxCount: 70, verified: false },
-      { arabic: 'يَوْم الْقِيَامَة', transliteration: 'yawm al-qiyāma', type: 'Phrase', meaning: 'The Day of Resurrection / Judgment', approxCount: 70, verified: false },
+      { arabic: 'يَوْم الْقِيَامَة', transliteration: 'yawm al-qiyāma', type: 'Phrase', meaning: 'The Day of Resurrection / Judgment (the most common form of the word in the Quran)', approxCount: 70, verified: false },
     ],
     occurrenceCount: 70,
     occurrenceNote: "Yawm al-Qiyamah (the Day of Standing) appears approximately 70 times in the Quran. The Day of Judgment under its many other names adds hundreds more references, making eschatology one of the most frequent subjects in the entire Book. The Quran also devotes entire surahs to the Day: Al-Qiyamah (75), Al-Ghashiyah (88), Al-Haqqah (69), Al-Qari'ah (101), Al-Zalzalah (99).",
