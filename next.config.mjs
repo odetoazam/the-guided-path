@@ -39,6 +39,7 @@ const nextConfig = {
               "font-src 'self' https://fonts.gstatic.com",
               "img-src 'self' data: blob: https:",
               "connect-src 'self' https://*.supabase.co https://challenges.cloudflare.com https://vitals.vercel-insights.com https://us.i.posthog.com https://*.ingest.us.sentry.io",
+              "media-src 'self' https://cdn.islamic.network",
               "frame-src https://challenges.cloudflare.com",
               "object-src 'none'",
               "base-uri 'self'",
