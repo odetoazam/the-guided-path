@@ -189,12 +189,12 @@ export const GLOSSARY_TERMS: GlossaryMeta[] = [
   // ── Nations & Peoples ────────────────────────────────────────────────────────
   { slug: 'ad',               term: 'عَاد',                transliteration: "'Ad",             category: "Nations & Peoples", evocativeLine: "The people of the wind — destroyed by the very air they breathed.",         hasFullEntry: true },
   { slug: 'thamud',           term: 'ثَمُود',              transliteration: 'Thamud',          category: "Nations & Peoples", evocativeLine: 'They carved mountains for homes and still could not find safety.',           hasFullEntry: true },
-  { slug: 'bani-isra-il',     term: 'بَنُو إِسْرَائِيل',  transliteration: "Bani Isra'il",    category: "Nations & Peoples", evocativeLine: "The people of a thousand stories — struggle, covenant, and mercy.",         hasFullEntry: false },
+  { slug: 'bani-isra-il',     term: 'بَنُو إِسْرَائِيل',  transliteration: "Bani Isra'il",    category: "Nations & Peoples", evocativeLine: "The people of a thousand stories — struggle, covenant, and mercy.",         hasFullEntry: true },
   { slug: 'ashab-al-kahf',    term: 'أَصْحَاب ٱلْكَهْف',  transliteration: 'Ashab al-Kahf',   category: "Nations & Peoples", evocativeLine: 'Young men who chose a cave over a kingdom.',                                hasFullEntry: true },
-  { slug: 'quraysh',          term: 'قُرَيْش',             transliteration: 'Quraysh',         category: "Nations & Peoples", evocativeLine: "The tribe that guarded the Kaaba and rejected its Lord — until the day they couldn't.", hasFullEntry: false },
-  { slug: 'ashab-al-ukhdud',  term: 'أَصْحَاب ٱلْأُخْدُود', transliteration: 'Ashab al-Ukhdud', category: "Nations & Peoples", evocativeLine: 'They watched believers burned in the ditch — and would not deny their faith.', hasFullEntry: false },
-  { slug: 'ashab-al-fil',     term: 'أَصْحَاب ٱلْفِيل',   transliteration: 'Ashab al-Fil',    category: "Nations & Peoples", evocativeLine: 'The army of the elephant — turned back by birds, the year the Prophet ﷺ was born.', hasFullEntry: false },
-  { slug: 'madyan',           term: 'مَدْيَن',             transliteration: 'Madyan',          category: "Nations & Peoples", evocativeLine: 'The people of Shuayb — who cheated in their scales and met the weight of divine justice.', hasFullEntry: false },
+  { slug: 'quraysh',          term: 'قُرَيْش',             transliteration: 'Quraysh',         category: "Nations & Peoples", evocativeLine: "The tribe that guarded the Kaaba and rejected its Lord — until the day they couldn't.", hasFullEntry: true },
+  { slug: 'ashab-al-ukhdud',  term: 'أَصْحَاب ٱلْأُخْدُود', transliteration: 'Ashab al-Ukhdud', category: "Nations & Peoples", evocativeLine: 'They watched believers burned in the ditch — and would not deny their faith.', hasFullEntry: true },
+  { slug: 'ashab-al-fil',     term: 'أَصْحَاب ٱلْفِيل',   transliteration: 'Ashab al-Fil',    category: "Nations & Peoples", evocativeLine: 'The army of the elephant — turned back by birds, the year the Prophet ﷺ was born.', hasFullEntry: true },
+  { slug: 'madyan',           term: 'مَدْيَن',             transliteration: 'Madyan',          category: "Nations & Peoples", evocativeLine: 'The people of Shuayb — who cheated in their scales and met the weight of divine justice.', hasFullEntry: true },
   { slug: 'qawm-nuh',         term: 'قَوْم نُوح',         transliteration: "Qawm Nuh",        category: "Nations & Peoples", evocativeLine: "Noah's people — 950 years of warning and still they chose the flood.",        hasFullEntry: false },
   { slug: 'qawm-lut',         term: 'قَوْم لُوط',         transliteration: "Qawm Lut",        category: "Nations & Peoples", evocativeLine: "Lot's people — whose transgression became the permanent example of civilizational collapse.", hasFullEntry: false },
 
@@ -9242,6 +9242,301 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
       { slug: 'qiyamah', transliteration: 'Al-Qiyamah', term: 'قِيَامَة' },
       { slug: 'sirat',   transliteration: 'Al-Sirat',   term: 'صِرَاط'  },
       { slug: 'tawbah',  transliteration: 'Tawbah',     term: 'تَوْبَة' },
+    ],
+    hasFullEntry: true,
+  },
+
+  'bani-isra-il': {
+    slug: 'bani-isra-il',
+    term: "بَنُو إِسْرَائِيل",
+    transliteration: "Banū Isrā'īl",
+    pronunciation: "ba-NOO is-ra-EEL",
+    category: "Nations & Peoples",
+    evocativeLine: "Chosen, covenanted, tested, exiled, returned — the people whose story is also a mirror.",
+    summary: "Banu Isra'il — the Children of Israel — are the most frequently discussed people in the Quran after the Arabs, appearing in extended narrative across Al-Baqarah, Al-Ma'idah, Al-A'raf, Yunus, Al-Isra, and many others. They are the recipients of the greatest concentration of divine prophets in any nation's history, bound by a covenant (mithaq) at Sinai, given the Torah and the Psalms, led by prophets from Musa to Dawud to Sulayman to Zakariyya to Yahya to Isa.\n\nThe Quran's portrait of Banu Isra'il is neither simple condemnation nor uncritical praise. It acknowledges their selection: 'O Children of Israel, remember My favor which I bestowed upon you and that I preferred you over the worlds' (2:47). It narrates their extraordinary trials and deliverances under Musa: the parting of the sea, the manna and quails in the wilderness, the twelve springs that flowed for the twelve tribes. It records their covenant with Allah and the severe consequences when they broke it.\n\nThe Quran's purpose in narrating the story of Banu Isra'il to the Arab community is not primarily historical but parabolic: the patterns of covenant, blessing, rebellion, reminder, consequence, and mercy that characterize their story are the patterns that any community following divine guidance can replicate. The Muslim community is not inherently immune from the same patterns of ingratitude, hardening of heart, or deviation from covenant. The Quran's extended narratives about Banu Isra'il are addressed to the new community of believers as a mirror: 'So remind, for reminders benefit the believers.'",
+    root: {
+      letters: 'إ س ر ا ئ ي ل',
+      transliteration: "'isrā'īl",
+      meaning: "Hebrew name: 'abd Allah or 'abd Al-Ilah — servant of Allah/God; also understood as 'prince of Allah' or 'one who struggles with Allah'",
+      elaboration: "Isra'il is the title given to the Prophet Ya'qub (Jacob) — the father of the twelve tribes. In the Hebrew Bible, after wrestling with the divine messenger, Jacob is given the name Israel ('he who struggles with God' or 'prince of God'). In Arabic, 'Isra'il' is understood as 'Abd Allah — servant of Allah (isra = 'abd in some Semitic derivations, 'il = Allah). The twelve sons of Ya'qub/Israel — including Yusuf — are the twelve tribes whose descendants became Banu Isra'il.",
+    },
+    rootForms: [
+      { arabic: "بَنُو إِسْرَائِيل", transliteration: "banū isrā'īl", type: 'Phrase', meaning: "Children of Israel — the descendants of the Prophet Ya'qub (Jacob/Israel)", approxCount: 41, verified: false },
+    ],
+    occurrenceCount: 41,
+    occurrenceNote: "The phrase 'Banu Isra'il' appears approximately 41 times in the Quran, almost always in extended narrative context. They are also referred to as 'the Children of Adam' in some contexts, 'the People of the Book' (Ahl al-Kitab), 'those who were given the Book,' and by their tribal name. Major narrative passages: Al-Baqarah (2:40-103), Al-Ma'idah (5:20-26, 5:70-86), Al-A'raf (7:105-171), Al-Isra (17:2-8), and shorter references throughout.",
+    keyAyahs: [
+      {
+        ref: "Al-Baqarah 2:47",
+        arabic: "يَا بَنِي إِسْرَائِيلَ اذْكُرُوا نِعْمَتِيَ الَّتِي أَنْعَمْتُ عَلَيْكُمْ وَأَنِّي فَضَّلْتُكُمْ عَلَى الْعَالَمِينَ",
+        translation: "O Children of Israel, remember My favor which I bestowed upon you and that I preferred you over the worlds.",
+        note: "The Quran begins its extended address to Banu Isra'il with a reminder of their selection — divine favor and preference. This is not forgotten in the subsequent narrative of their failures; it is the basis from which the gravity of those failures is measured. To receive divine favor and then turn from it is a different matter than never having received it. The address to 'O Children of Israel' continues for nearly sixty consecutive verses in Al-Baqarah — the most sustained divine address to a single nation in the Quran.",
+      },
+      {
+        ref: "Al-Isra 17:4-5",
+        arabic: "وَقَضَيْنَا إِلَىٰ بَنِي إِسْرَائِيلَ فِي الْكِتَابِ لَتُفْسِدُنَّ فِي الْأَرْضِ مَرَّتَيْنِ وَلَتَعْلُنَّ عُلُوًّا كَبِيرًا",
+        translation: "And We decreed to the Children of Israel in the Scripture that you will surely cause corruption in the land twice, and you will surely reach great arrogance.",
+        note: "The Quran's eschatological framing of Banu Isra'il: two historical episodes of corruption, each followed by a divine response in the form of another people sent against them. Classical scholars have proposed various identifications of these two episodes. The verse is not a permanent condemnation but a historical judgment on specific episodes of communal failure. The same surah (Al-Isra) begins with the Night Journey — the Prophet's journey from Masjid al-Haram to Masjid al-Aqsa — tying the Islamic community directly to the history of these sacred places.",
+      },
+      {
+        ref: "Al-Baqarah 2:83",
+        arabic: "وَإِذْ أَخَذْنَا مِيثَاقَ بَنِي إِسْرَائِيلَ لَا تَعْبُدُونَ إِلَّا اللَّهَ وَبِالْوَالِدَيْنِ إِحْسَانًا وَذِي الْقُرْبَىٰ وَالْيَتَامَىٰ وَالْمَسَاكِينِ",
+        translation: "And when We took the covenant of the Children of Israel: Worship none but Allah; be good to parents, relatives, orphans, and the poor...",
+        note: "The covenant of Sinai is narrated in the Quran as covering the same moral obligations that Islam reaffirms: tawhid, family relationships, care for orphans and the poor, honest speech, establishing prayer, and giving zakah. The content of the divine covenant has been consistent across prophetic missions — the differences are in application and detail, not in the underlying moral framework. The breaking of this covenant by 'all but a few' (2:83) is the beginning of the Banu Isra'il's extended pattern of covenant-and-breaking.",
+      },
+    ],
+    semanticField: [
+      {
+        slug: 'musa',
+        arabic: 'مُوسَىٰ',
+        transliteration: 'Musa',
+        relationship: 'deepens',
+        relationshipLabel: "Musa and the liberation of Banu Isra'il — the defining relationship",
+        description: "Musa is to Banu Isra'il what Ibrahim is to all monotheists: the definitive prophet-founder of the community's relationship with Allah. The Exodus narrative — Pharaoh, the plagues, the parting of the sea, the forty years in the wilderness — is the central story of Banu Isra'il in the Quran. Musa's relationship with his people is one of the Quran's primary illustrations of prophetic patience: despite repeated stubbornness and ingratitude, he never gives up on them.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: "Read the story of Banu Isra'il as your story", arabic: "تَدَبُّر", arabicTranslit: "tadabbur", description: "The Quran addresses Banu Isra'il's story to the Muslim community — not as history but as parable. The patterns of divine favor, covenant, ingratitude, reminder, consequence, and return to mercy are patterns that any community can replicate. The purpose of the extended Banu Isra'il narrative in Al-Baqarah is not to condemn but to warn and orient: do not repeat these patterns in your community's life." },
+        { number: 2, title: "Honor the prophets sent to them as your prophets too", arabic: "إِيمَان", arabicTranslit: "īmān", description: "Islamic faith requires believing in all prophets without distinction. The prophets sent to Banu Isra'il — Musa, Dawud, Sulayman, Zakariyya, Yahya, Isa — are prophets of Islam too. Their missions, their patience, and their teachings belong to the Muslim as much as to any other community. Believing in them is among the six pillars of faith." },
+      ],
+      stations: [
+        { name: "The chosen people who broke their covenant", description: "Selected, covenanted, favored — and then the covenant broken 'all but a few.' This is the Quran's sobering portrait of what divine favor without gratitude and obedience produces. Selection is not salvation; the covenant requires active fulfillment." },
+        { name: "The people of the forty years", description: "After the Exodus, Banu Isra'il refused to enter the Holy Land and were condemned to wander the wilderness for forty years. This episode is the Quran's example of how a community can be given the path and refuse to walk it — with the consequence of wandering until the generation of refusal passes away." },
+        { name: "The people of multiple prophets", description: "No nation in the Quran receives as many prophets as Banu Isra'il. Each prophet is sent to guide, correct, and return them to the covenant. The pattern — reminder, rejection, consequence, new mercy — repeats across prophetic generations. The Quran's implicit question: what does a people do with this much prophetic attention?" },
+      ],
+      questions: [
+        { question: "Does the Quran condemn all Jewish people?", answer: "No — this is a common misreading. The Quran's critique is specifically of historical behaviors (breaking the covenant, rejecting prophets, distorting scripture) not of all Jewish people categorically. The Quran explicitly says: 'They are not all alike — among the People of the Book is a community standing in obedience, reciting the verses of Allah during the night and prostrating. They believe in Allah and the Last Day' (3:113-114). The Quran condemns specific actions of specific groups, not an ethnic or religious category as a whole." },
+        { question: "What is the relationship between Banu Isra'il and the Muslim community?", answer: "The Quran positions the Muslim community as the heir and continuation of the prophetic tradition that ran through Banu Isra'il — not as a replacement that cancels them, but as the final chapter of a long story. The Ka'bah (direction of Muslim prayer) was originally the direction of the prophets before Musa; the Quran addresses the Muslim community with the same moral standards it held Banu Isra'il to. The relationship is one of continuity and completion, not opposition." },
+      ],
+    },
+    scholarsSaid: [
+      { scholar: "Sayyid Qutb", source: "Fi Zilal al-Quran (In the Shade of the Quran), on Al-Baqarah", text: "The Quran addresses Banu Isra'il at length in Al-Baqarah because the Muslim community needs to understand the patterns of covenant and its breaking — patterns that any community with divine guidance can replicate. The Quran is not narrating ancient history; it is holding up a mirror. The same patterns of ingratitude, quarreling with the prophets, selective obedience, and material attachment — these are available to any community, including the community of Muhammad." },
+    ],
+    hadith: [
+      { text: "You will follow the ways of those who came before you, hand span by hand span, cubit by cubit — even if they entered the hole of a lizard you would follow them in. The Companions said: Do you mean the Jews and Christians? He said: Who else?", source: "Sahih al-Bukhari and Muslim" },
+    ],
+    acrossTransitions: "Banu Isra'il — the Children of Israel — are the defining community of the Hebrew Bible and much of the New Testament. The covenant of Sinai, the forty years in the wilderness, the kingdom of David and Solomon, the Babylonian exile, the return — these are the structural events of Jewish history that the Quran refers to repeatedly, assuming audience familiarity.\n\nIn Christian theology, Banu Isra'il are the people of the Old Covenant whose role was completed (in Christian understanding) with the coming of Jesus. In Islamic theology, they are the recipients of multiple divine missions whose story is both honored and used as a cautionary framework. The Islamic understanding of Banu Isra'il is neither replacement theology (Christianity) nor simple continuation (Judaism) — it is a new community of believers called to learn from and surpass the patterns of those who came before.",
+    goDeeper: [
+      { slug: 'al-baqarah', surahName: 'Al-Baqarah', note: "The extended address to Banu Isra'il (2:40-103) — the most concentrated Quranic narrative about their covenant, failures, and the divine response" },
+      { slug: 'al-isra', surahName: "Al-Isra'", note: "The Quran's historical framing of Banu Isra'il's two episodes of corruption and their consequences (17:4-8)" },
+    ],
+    relatedTerms: [
+      { slug: 'musa',     transliteration: 'Musa',    term: 'مُوسَىٰ' },
+      { slug: 'dawud',    transliteration: 'Dawud',   term: 'دَاوُود' },
+      { slug: 'sulayman', transliteration: 'Sulayman', term: 'سُلَيْمَان' },
+    ],
+    hasFullEntry: true,
+  },
+
+  'quraysh': {
+    slug: 'quraysh',
+    term: 'قُرَيْش',
+    transliteration: 'Quraysh',
+    pronunciation: 'qu-RAYSH',
+    category: "Nations & Peoples",
+    evocativeLine: "Guardians of the Kaabah who fought its Lord — until the city was opened without a sword.",
+    summary: "Quraysh is the tribe of the Prophet Muhammad ﷺ — the dominant tribe of Mecca, custodians of the Kaabah, managers of the pilgrimage trade, and the community that initially rejected, persecuted, and fought the message of Islam before most of its members eventually embraced it at the Conquest of Mecca in 8 AH. They are the only Arab tribe mentioned by name in the Quran — Surah Quraysh (106) — and their mention is a statement of obligation, not honor.\n\nThe Qurayshi position in pre-Islamic Arabia was formidable: they controlled the sacred months of truce and the pilgrimage season, which made Mecca the economic and religious center of the Arabian Peninsula. The Quran's Surah Quraysh addresses them directly: 'For the covenanting of Quraysh — their covenant of the winter and summer journey — let them worship the Lord of this House, who has fed them against hunger and made them safe against fear.' The reference is to their trade caravans to Yemen (winter) and Syria (summer) — made possible by their custodianship of the sacred sanctuary.\n\nThe Quran's relationship with Quraysh is complex: they receive specific divine address (Surah Quraysh), they are implicitly addressed in dozens of Meccan surahs that argue against idolatry and defend the Prophet's mission, and their leaders — Abu Jahl, Abu Lahab, Walid ibn al-Mughira — are among the most vividly condemned figures in the entire Quran. Yet the arc of their story ends not in destruction but in mercy: the Conquest of Mecca is distinguished in Islamic history as the conquest in which the Prophet declared general amnesty, and most of Quraysh became Muslim.",
+    root: {
+      letters: 'ق ر ش',
+      transliteration: 'q-r-sh',
+      meaning: 'to gather, to collect, to earn provision; the shark (quraysh as a fish name)',
+      elaboration: "The etymology of 'Quraysh' is debated among Arab linguists. The most cited derivation is from taqarrush — the gathering/assembling — referring to Qusayy ibn Kilab's reunification of the scattered Qurayshi clans in Mecca. Another derivation is from al-qirsh (shark) — symbolizing power and domination. The tribe's ancestor Qusayy ibn Kilab established their control of Mecca and the custodianship of the Kaabah in the 5th century CE, founding the prominence they held at the time of the Prophet.",
+    },
+    rootForms: [
+      { arabic: 'قُرَيْش', transliteration: 'Quraysh', type: 'Proper noun (tribe name)', meaning: 'The Quraysh tribe of Mecca', approxCount: 1, verified: true },
+    ],
+    occurrenceCount: 1,
+    occurrenceNote: "Quraysh is mentioned once by name in the Quran — in Surah Quraysh (106), which is also named after them. They are implicitly addressed throughout the Meccan surahs, particularly in arguments against idolatry (the Qurayshi religion), in discussions of the rejection of messengers, and in the Quranic defense of the Prophet's mission and character against Qurayshi accusations.",
+    keyAyahs: [
+      {
+        ref: "Quraysh 106:1-4",
+        arabic: "لِإِيلَافِ قُرَيْشٍ إِيلَافِهِمْ رِحْلَةَ الشِّتَاءِ وَالصَّيْفِ فَلْيَعْبُدُوا رَبَّ هَٰذَا الْبَيْتِ الَّذِي أَطْعَمَهُم مِّن جُوعٍ وَآمَنَهُم مِّنْ خَوْفٍ",
+        translation: "For the covenanting of Quraysh — their covenant of the winter and summer journey — let them worship the Lord of this House, who has fed them against hunger and made them safe against fear.",
+        note: "This surah is a direct divine argument to Quraysh: you have been given two gifts — feeding (provision secured through the sacred status of Mecca) and safety (the security of the sacred months). Both of these gifts come from the Lord of this House (the Kaabah). The logical conclusion — 'let them worship the Lord of this House' — is the Quran's invitation to the tribe who managed the sanctuary to actually worship its Lord, not the idols they had placed within it. The argument is built on what Quraysh already acknowledged: that Allah is the One who provides and protects.",
+      },
+      {
+        ref: "Al-Masad 111:1-5",
+        arabic: "تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ مَا أَغْنَىٰ عَنْهُ مَالُهُ وَمَا كَسَبَ سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ",
+        translation: "May the hands of Abu Lahab be ruined, and ruined is he. His wealth will not avail him nor that which he gained. He will burn in a flaming fire.",
+        note: "Abu Lahab ('Father of Flame') is a Qurayshi leader — the Prophet's uncle — named in the Quran as condemned. The Quran's naming of a specific living individual as condemned is among its most striking moves: this surah was revealed years before Abu Lahab's death, and it constituted a prophecy that he would die without converting to Islam — a prophecy that was fulfilled. Abu Lahab had the theoretical ability to disprove the Quran by converting; his refusal to do so, even as a strategic disproof, is itself cited by scholars as evidence of the Quran's divine origin.",
+      },
+    ],
+    semanticField: [
+      {
+        slug: 'ashab-al-fil',
+        arabic: "أَصْحَاب ٱلْفِيل",
+        transliteration: 'Ashab al-Fil',
+        relationship: 'precedes',
+        relationshipLabel: "The Army of the Elephant — the event that established Qurayshi prestige before the Prophet's birth",
+        description: "The Year of the Elephant — the Abyssinian army led by Abraha that was destroyed by divine birds before it could destroy the Kaabah — occurred in the year the Prophet was born (approximately 570 CE). This event dramatically increased Quraysh's prestige in Arabia: the divine protection of the Kaabah from an enormous military was attributed to the sacred status of the House and its custodians. Surah Al-Fil (105) immediately precedes Surah Quraysh (106) in the Quran, and classical scholars (like Ibn Kathir) hold that the two surahs should be read together: the destruction of the army was the provision of safety, and Quraysh's obligation is therefore to worship the Lord who provided it.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: "Recognize the argument from divine provision as the first da'wah", arabic: "دَعْوَة", arabicTranslit: "daʿwa", description: "The argument of Surah Quraysh is among the earliest Quranic da'wah techniques: begin with what your audience already acknowledges (Allah provides and protects), then draw the logical conclusion (therefore worship Him). This is not argument from scripture alone but from lived experience: Quraysh knew their trade prosperity and their security came through the sacred status of the Kaabah. The Quran accepts this and builds the invitation on it." },
+        { number: 2, title: "Study the Conquest of Mecca as the model of mercy in power", arabic: "عَفْو", arabicTranslit: "ʿafw", description: "The Conquest of Mecca (8 AH/630 CE) is the most historically significant demonstration of Quranic mercy in power. The Prophet entered Mecca with 10,000 warriors after years of persecution, exile, and war — and declared a general amnesty. His question to the Qurayshi leadership gathered at the Kaabah: 'What do you think I will do with you?' They said: 'A noble brother, son of a noble brother.' He replied: 'Go — you are free.' This is the prophetic application of the Quranic virtue of 'afw (pardon) at the level of a conquered city." },
+      ],
+      stations: [
+        { name: "The tribe that guarded the Kaabah for idols", description: "Pre-Islamic Quraysh placed 360 idols in and around the Kaabah, one for each day of their calendar. The custodians of the most sacred site in Arabia had filled it with idolatry. This is the primary theological irony of the Meccan period: the Kaabah built by Ibrahim for tawhid, now managed by polytheists." },
+        { name: "The persecutors of the first Muslim community", description: "For thirteen years in Mecca, the nascent Muslim community faced Qurayshi persecution: economic boycott, physical torture of enslaved converts (Bilal, Sumayyah, Yasir), social ostracism, and assassination attempts on the Prophet. The Meccan surahs are the Quran revealed in this crucible." },
+        { name: "The community that largely became Muslim", description: "Most of Quraysh became Muslim — many sincerely, including Abu Sufyan and his wife Hind (who had ordered the mutilation of Hamza's body after Uhud). The Prophet's uncle Abbas became a respected Muslim scholar. The Qurayshi convert Khalid ibn al-Walid became the most successful general in early Islamic history. The end of Quraysh's story is not destruction but transformation." },
+      ],
+      questions: [
+        { question: "Why is Surah Quraysh followed immediately after Surah Al-Fil?", answer: "Classical scholars, including Ibn Kathir and Al-Suyuti, argue that Surah Al-Fil (105) and Surah Quraysh (106) form a connected pair. Surah Al-Fil describes the divine destruction of the army that came to destroy the Kaabah; Surah Quraysh says: 'For the covenanting of Quraysh... let them worship the Lord of this House, who has fed them against hunger and made them safe against fear.' The destruction of the army (Al-Fil) provided exactly the safety against fear that Surah Quraysh attributes to Allah. The two surahs are one theological argument: Allah saved the Kaabah, Allah provides security for Quraysh, therefore Quraysh should worship Allah alone." },
+        { question: "What does Islam say about the special status of Quraysh in Islamic leadership?", answer: "Several hadith traditions state that 'leadership is among Quraysh' (al-a'immah min Quraysh), which has been interpreted variously. The mainstream Sunni position, represented by most classical scholars, is that this refers to a preference or recommendation in circumstances where Qurayshi and non-Qurayshi candidates are otherwise equal, not an absolute requirement. Many scholars note that this hadith applied specifically in the early period of Islamic governance and is not a permanent constitutional requirement for Islamic states." },
+      ],
+    },
+    scholarsSaid: [
+      { scholar: "Ibn Kathir", source: "Tafsir of Surah Quraysh", text: "Al-Fil and Quraysh are two surahs that belong together — they share a single bismillah in some readings. Allah in Al-Fil shows how He protected the Kaabah; in Quraysh He derives the obligation: since I protected the House, let its custodians worship its Lord. The argument is from gratitude: you have been given security and provision, so worship the One who gave them." },
+    ],
+    hadith: [
+      { text: "The Quraysh are leaders to the people in good and evil until the Day of Judgment.", source: "Sahih al-Bukhari" },
+    ],
+    acrossTransitions: "Quraysh as a tribe appears in the historical sources of Islamic tradition and in the works of Byzantine and Persian historians who mention the Arabs of the Hijaz. The tribe's control of the pilgrimage trade was economically significant enough to appear in external historical records. The Kaabah itself has been documented by archaeologists and historians as a pre-Islamic sacred site serving multiple tribal religions before the Prophet's reformation of its worship.\n\nThe history of Quraysh after the Prophet's death is also the history of early Islamic civilization: the first three caliphs were all from Quraysh (Abu Bakr, Umar, and Uthman); Ali was the Prophet's cousin from the Hashimi clan of Quraysh. The Umayyad and Abbasid dynasties that governed the Islamic world for centuries were both Qurayshi. The theological and legal traditions were shaped largely by Qurayshi scholars. In a real sense, Quraysh's story does not end at the Conquest of Mecca — it becomes the founding story of Islamic civilization.",
+    goDeeper: [
+      { slug: 'quraysh', surahName: 'Quraysh', note: "The surah named for the tribe — the divine argument from provision and safety to the obligation of worship" },
+      { slug: 'al-masad', surahName: 'Al-Masad', note: "Abu Lahab — the Qurayshi leader condemned by name in the Quran" },
+      { slug: 'al-fil', surahName: 'Al-Fil', note: "The Army of the Elephant — the event that established the sacred prestige Quraysh exploited" },
+    ],
+    relatedTerms: [
+      { slug: 'ashab-al-fil', transliteration: 'Ashab al-Fil', term: "أَصْحَاب ٱلْفِيل" },
+      { slug: 'ibrahim',      transliteration: 'Ibrahim',      term: 'إِبْرَاهِيم'    },
+    ],
+    hasFullEntry: true,
+  },
+
+  'ashab-al-ukhdud': {
+    slug: 'ashab-al-ukhdud',
+    term: "أَصْحَاب ٱلْأُخْدُود",
+    transliteration: 'Aṣḥāb al-Ukhdūd',
+    pronunciation: "as-haab al-ukh-DOOD",
+    category: "Nations & Peoples",
+    evocativeLine: "They watched believers burned in the ditch — and the believers would not deny their faith even then.",
+    summary: "Ashab al-Ukhdud — the Companions of the Ditch — appear in Surah Al-Buruj (85:4-9) as one of the most devastating examples of persecution and faith in the entire Quran. The story is told in seven verses without historical context, names, or resolution: a tyrannical ruler had trenches dug and filled with fire, and believers were thrown into them for refusing to recant their faith. The tormentors sat at the edge of the ditch, watching.\n\nThe Quran's account is stripped of narrative detail to focus on the moral and theological core. What destroyed the persecutors was not their violence but their witness of it: 'They witnessed what they did to the believers.' The believers who were thrown into the fire had already achieved something the persecutors could never take from them — the declaration of faith held until death. The Quran's eschatological verdict is swift: the tormentors face the punishment of Jahannam and the punishment of burning, while Allah frames the story by swearing by the sky and the promised Day and the witness and the witnessed.\n\nHistorical traditions identify the likely referent as the Yemeni massacre at Najran in the 6th century CE, where a Jewish king (Dhu Nawas) reportedly burned Christians who refused to convert. But the Quran's universality of address transcends the historical event: the Ashab al-Ukhdud story is the Quran's paradigm for all persecution of the faithful — and its answer is not political but theological. The believers who died in the ditch did not lose. The ditch was not the end of their story.",
+    root: {
+      letters: 'خ د د',
+      transliteration: 'kh-d-d',
+      meaning: 'ditch, trench, furrow; to dig a trench',
+      elaboration: "Ukhdud is a ditch or trench — specifically a deep groove cut in the earth. The root kh-d-d gives khadd (cheek, the hollow of the face) and ukhdud (the dug trench). The burning ditch becomes one of the Quran's most visceral images of persecution: not simply killing, but the theatrical, public burning of people for their faith, as spectacle and warning to others.",
+    },
+    rootForms: [
+      { arabic: "أُخْدُود", transliteration: 'ukhdūd', type: 'Noun', meaning: 'Ditch, trench (specifically for burning)', approxCount: 1, verified: true },
+    ],
+    occurrenceCount: 1,
+    occurrenceNote: "Ashab al-Ukhdud appears once in the Quran, in Surah Al-Buruj (85:4-9). The surah opens with cosmic oaths (the sky, the promised Day, the witness and the witnessed) before delivering this account. The account is immediately followed by the statement about the Preserved Tablet — connecting the patience of the martyrs to the certainty of divine reckoning written in the highest record.",
+    keyAyahs: [
+      {
+        ref: "Al-Buruj 85:4-10",
+        arabic: "قُتِلَ أَصْحَابُ الْأُخْدُودِ النَّارِ ذَاتِ الْوَقُودِ إِذْ هُمْ عَلَيْهَا قُعُودٌ وَهُمْ عَلَىٰ مَا يَفْعَلُونَ بِالْمُؤْمِنِينَ شُهُودٌ وَمَا نَقَمُوا مِنْهُمْ إِلَّا أَن يُؤْمِنُوا بِاللَّهِ الْعَزِيزِ الْحَمِيدِ",
+        translation: "Destroyed were the Companions of the Ditch — the fire with its fuel — as they sat beside it and witnessed what they did to the believers. They did not resent them except because they believed in Allah, the Almighty, the Praiseworthy.",
+        note: "The simplicity of the accusation is devastating: 'they did not resent them except because they believed in Allah.' The only crime of the people in the ditch was their faith. The Quran's condemnation of the persecutors is framed not around violence (which is obvious) but around the absurdity and injustice of the crime: people were burned for believing in Al-Aziz (the Almighty) and Al-Hamid (the Praiseworthy). The divine names in this context are not incidental — Al-Aziz will not leave this unavenged; Al-Hamid, whom they praised in the fire, will be their witness.",
+      },
+    ],
+    semanticField: [
+      {
+        slug: 'sabr',
+        arabic: 'صَبْر',
+        transliteration: 'Sabr',
+        relationship: 'deepens',
+        relationshipLabel: "The ultimate test of sabr — patience unto death",
+        description: "The Ashab al-Ukhdud story is the Quran's most extreme example of sabr (patient endurance under trial). The believers were not given the option of a hidden faith; they were required to publicly renounce or publicly face the fire. They chose the fire. This is the sabr of the martyrs — not patient waiting, but active choice of faith over life. The Quran presents their choice not as tragedy but as victory.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: "Understand that dying for faith is not defeat", arabic: "شَهَادَة", arabicTranslit: "shahāda", description: "The Quranic framing of the Ashab al-Ukhdud story refuses to call their death a defeat. The persecutors are the 'destroyed' ones — qutil (destroyed, damned) — not the believers. The believers in the ditch are not named victims but unnamed martyrs whose faith was held until the last. The category of shahid (martyr — witness/testifier) belongs to those who testify to their faith unto death." },
+        { number: 2, title: "Trust that the witness sees what humans cannot correct", arabic: "تَوَكُّل", arabicTranslit: "tawakkul", description: "The Quran opens Al-Buruj with an oath 'by the Witness and the Witnessed.' Classical scholars interpret 'the Witness' as Allah witnessing the persecution, and 'the Witnessed' as the Day of Judgment. The message: what humans cannot see or correct in this world is witnessed by Allah and will be reckoned on the Day that was promised. Tawakkul — complete reliance on Allah — is the ground of the believer's calm even in the ditch." },
+      ],
+      stations: [
+        { name: "The persecutors at the edge of the trench", description: "They sat and watched. The Quran's detail that the persecutors were 'witnesses' (shuhud) of their own crime is significant: they watched believers burn rather than recant. They wanted to see the breaking of faith and instead witnessed its unbreakable quality. The spectacle they intended as a warning became a monument to the courage of the faithful." },
+        { name: "The believers in the fire", description: "No names. No country. No date. Just: people who believed in Allah, were thrown into a burning ditch, and did not recant. The Quran's anonymization of them is its way of universalizing them — they are not one community's martyrs; they are every community's example." },
+      ],
+      questions: [
+        { question: "Who were the Ashab al-Ukhdud historically?", answer: "The most widely accepted identification in classical tafsir is the Najran massacre: in approximately 523 CE, the Yemeni Jewish king Dhu Nawas (Yusuf Asar Yath'ar) persecuted the Christian community of Najran, burning those who refused to convert. This event is well-documented in Syriac and Ethiopian sources (the Book of the Himyarites, the Martyrs of Najran). The Prophet's companion Suhayb al-Rumi reportedly narrated a similar story in hadith form. Some scholars also identify an episode from Persia or another context. The Quran's narrative is deliberately non-specific, suggesting it intends a universal teaching rather than a historical record." },
+        { question: "Were the martyred believers in the ditch immediately rewarded?", answer: "The Quran does not explicitly say, but the hadith tradition narrated by Suhayb al-Rumi (Muslim) includes a detail: a young boy who witnessed the burning and whose faith could not be broken eventually led a whole city to Islam. The broader Islamic teaching about martyrs is that they are 'alive with their Lord, being provided for' (3:169) — the death in the ditch is the beginning of the next chapter, not the end of the story." },
+      ],
+    },
+    scholarsSaid: [
+      { scholar: "Ibn al-Qayyim al-Jawziyya", source: "Al-Fawa'id", text: "The story of the Companions of the Ditch contains one of the Quran's clearest statements about the nature of divine witness. Allah swears by the sky, the promised Day, the Witness, and the Witnessed — before narrating the story of the ditch. Every element of that oath applies to what follows: the Day is the promised reckoning, and Allah is the Witness of every flame in every ditch. No persecution goes unwatched; no martyr's faith goes unrecorded." },
+    ],
+    hadith: [
+      { text: "A king had a sorcerer, and when the sorcerer grew old, he said to the king: Find me a boy to whom I can teach my knowledge. A boy was given to him, and he used to go to the sorcerer... [the full account continues with the boy who could not be killed by ordinary means, eventually asking to be killed 'in the name of the Lord of this boy,' which caused the people to declare faith in Allah — after which the king ordered trenches dug and filled with fire, and threw into them those who refused to recant]. And the young man entered Paradise in one moment, while all those who jumped into the fire with him [refusing to recant] entered Paradise too.", source: "Sahih Muslim" },
+    ],
+    acrossTransitions: "The Najran martyrs — if they are the referent of Al-Buruj — are celebrated in Ethiopian Orthodox Christian tradition to this day as saints. The massacre of Najran by Dhu Nawas in approximately 523 CE was a significant event that precipitated the Ethiopian Christian kingdom's military intervention in Yemen, eventually leading to the Abyssinian rule that preceded the Year of the Elephant.\n\nThe broader category of martyrdom — dying for one's faith rather than recanting — appears as a supreme sacrifice in Judaism (kiddush Hashem — sanctification of the divine name), Christianity (the martyrs from Stephen onward), and Islam (the Ashab al-Ukhdud and the centuries of Muslim martyrs). Each tradition has its own theology of what martyrdom means and what it achieves; the Islamic tradition is distinctive in its insistence that the martyr's faith, not their suffering, is what matters — and that the suffering is not the end of their story.",
+    goDeeper: [
+      { slug: 'al-buruj', surahName: 'Al-Buruj', note: "The story of the ditch (85:4-9), set between cosmic oaths and the statement about the Preserved Tablet" },
+    ],
+    relatedTerms: [
+      { slug: 'sabr',    transliteration: 'Sabr',    term: 'صَبْر'    },
+      { slug: 'qiyamah', transliteration: 'Al-Qiyamah', term: 'قِيَامَة' },
+    ],
+    hasFullEntry: true,
+  },
+
+  'ashab-al-fil': {
+    slug: 'ashab-al-fil',
+    term: "أَصْحَاب ٱلْفِيل",
+    transliteration: 'Aṣḥāb al-Fīl',
+    pronunciation: "as-haab al-FEEL",
+    category: "Nations & Peoples",
+    evocativeLine: "The army of the elephant, turned back by birds — in the year the Prophet ﷺ was born.",
+    summary: "Ashab al-Fil — the Companions of the Elephant — are the subject of one of the shortest and most concentrated surahs in the Quran: Surah Al-Fil (105). The account in five verses describes the destruction of an army that came to demolish the Kaabah: Allah sent birds against them carrying stones of hardened clay, reducing them to eaten straw.\n\nThe historical event is well-documented: in approximately 570 CE (the Year of the Elephant, which is also the year of the Prophet's birth), Abraha — the Abyssinian viceroy of Yemen — marched on Mecca with an army that included war elephants. He intended to destroy the Kaabah and redirect Arab pilgrimage to his cathedral in Sana'a. The Qurayshi defender Abd al-Muttalib (the Prophet's grandfather) reportedly withdrew to the surrounding hills, saying: 'The House belongs to Allah — let Him defend it.' The army was destroyed before it reached the Kaabah.\n\nThe Quran frames this event not as a military victory for Mecca but as a divine demonstration. The agents of destruction were not armies or natural disasters but tiny birds (ababil — swallows or swifts) carrying small stones. The choice of these instruments is theologically deliberate: the most overwhelming military force in Arabia at the time (war elephants) was destroyed by the smallest possible divine agents. Power belongs to Allah alone, and He deploys it through whatever instrument He chooses.",
+    root: {
+      letters: 'ف ي ل',
+      transliteration: 'f-y-l',
+      meaning: 'elephant',
+      elaboration: "The word fil (elephant) entered Arabic from an ancient Semitic root related to the elephant as the largest land animal. The Year of the Elephant (Am al-Fil) became the dating reference for pre-Islamic Arabian chronology — the year the elephant army was destroyed. This event was so vivid in Arabian collective memory that it became the baseline from which years were counted, and the Prophet's birth year is known partly through this reference.",
+    },
+    rootForms: [
+      { arabic: 'فِيل', transliteration: 'fīl', type: 'Noun', meaning: 'Elephant', approxCount: 1, verified: true },
+    ],
+    occurrenceCount: 1,
+    occurrenceNote: "Fil appears once in the Quran, in Surah Al-Fil (105:1), which is named for it. The surah's five verses constitute the entire Quranic account of the event. It is addressed as a reminder to the Prophet ﷺ and by extension to Quraysh: 'Have you not considered how your Lord dealt with the Companions of the Elephant?'",
+    keyAyahs: [
+      {
+        ref: "Al-Fil 105:1-5",
+        arabic: "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ الْفِيلِ أَلَمْ يَجْعَلْ كَيْدَهُمْ فِي تَضْلِيلٍ وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍ",
+        translation: "Have you not considered how your Lord dealt with the Companions of the Elephant? Did He not make their plan into misguidance? And He sent against them birds in flocks, pelting them with stones of hardened clay, making them like eaten straw.",
+        note: "The opening address — 'have you not considered?' (alam tara) — is directed to the Prophet but reaches the audience: this is something you know about, something recent enough to remember. The kayd (plan, scheme) of Abraha was turned into tadlil (misguidance, going astray) — not merely defeated but converted into its opposite. The birds (tayr ababil — birds in flocks) with stones of sijjil (baked clay) destroyed the greatest military force Arabia had seen. The final image — ka-'asfin ma'kul (like eaten straw, devoured chaff) — reduces the elephant army to the most disposable thing imaginable.",
+      },
+    ],
+    semanticField: [
+      {
+        slug: 'quraysh',
+        arabic: 'قُرَيْش',
+        transliteration: 'Quraysh',
+        relationship: 'deepens',
+        relationshipLabel: "Al-Fil's destruction established the prestige that Surah Quraysh addresses",
+        description: "Surah Al-Fil (105) and Surah Quraysh (106) form a theological pair: the destruction of the elephant army (Al-Fil) provided Quraysh with divine protection of their sanctuary, and Surah Quraysh draws the conclusion: since Allah protected the House and provided for Quraysh through it, they should worship the Lord of the House. Classical scholars noted that these two surahs share a single bismillah in some early recitations, treating them as one unit of argument.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: "Recognize divine sufficiency in apparent weakness", arabic: "تَوَكُّل", arabicTranslit: "tawakkul", description: "Abd al-Muttalib's statement — 'the House has a Lord who will protect it' — and his withdrawal from military defense, followed by the divine destruction of the army, is the historical example of tawakkul. Not passivity but correct assessment: some battles are not for human armies. The one who correctly identifies when to step back and trust Allah exercises a form of wisdom that surpasses tactical planning." },
+        { number: 2, title: "Do not trust in the size of your army", arabic: "زُهْد", arabicTranslit: "zuhd", description: "The Companions of the Elephant had the largest, most intimidating military force in Arabia. They lost to birds. The Quran's repeated lesson — at Badr, at the Trench, in Al-Fil — is that military advantage does not determine outcomes. 'How many a small company has overcome a large company by permission of Allah' (2:249). The size of the apparent threat does not determine the response available to Allah." },
+      ],
+      stations: [
+        { name: "The scheme that became guidance away", description: "Abraha's plan to destroy the Kaabah was turned into tadlil — being made to go astray — not just failing. The Quran's word is precise: not just 'his plan failed' but 'his plan was made into misguidance.' The aggressor loses direction entirely, not just tactically." },
+        { name: "The birds that carried history", description: "Ababil — birds in flocks — are among the most unusual divine agents in the Quran. Later traditions identify them as swallows or swifts; the stones of baked clay (sijjil) are described in some traditions as striking from above with devastating precision. Whether the mechanism was natural (a disease, perhaps — the account in Sahih al-Bukhari tradition mentions symptoms resembling pox) or literally supernatural is debated by scholars; both interpretations produce the same theological point: Allah can destroy with whatever instruments He wills." },
+      ],
+      questions: [
+        { question: "Was the army of Abraha destroyed by a miracle or by disease?", answer: "Classical scholars acknowledged both possibilities. Some tafsir works describe the 'stones' as causing a disease (smallpox or similar) — noting that the troops became ill and died in large numbers on their retreat. Others take the Quranic account literally as birds dropping stones. A third position holds both together: the birds carried stones that spread a disease. What all positions agree on is the agency: the destruction was divine, whatever the instrument. The Quran's emphasis is on the theological meaning (Allah's protection of the House, the destruction of the scheme), not the specific physical mechanism." },
+        { question: "What is the significance of the Year of the Elephant as the year of the Prophet's birth?", answer: "The Prophet Muhammad ﷺ was born in the Year of the Elephant — the same year the Kaabah was miraculously protected. Classical scholars noted this as one of the divine signs accompanying the arrival of the final prophet: the year he was born was the year his birthplace was protected from destruction. The connection between the Prophet and the sacred sanctuary is present from his very birth year." },
+      ],
+    },
+    scholarsSaid: [
+      { scholar: "Ibn Kathir", source: "Tafsir Al-Fil", text: "This surah contains a reminder to Quraysh of one of the greatest divine favors to them: the destruction of the army that came to destroy their sacred sanctuary in the year the Prophet was born. The birds are described as ababil — arriving in flocks from every direction — and their stones of sijjil fell upon the army with such effect that they were reduced to eaten straw. This was not chance or natural disaster; it was divine protection of the House that Ibrahim built for tawhid." },
+    ],
+    hadith: [],
+    acrossTransitions: "The campaign of Abraha and its defeat is documented in Ethiopian, Syriac, and Byzantine sources, making it one of the best-attested events in pre-Islamic Arabian history. The Ethiopian Book of the Himyarites and various Syriac chronicles mention the Abyssinian presence in Yemen and military activities in the region. The Quran's account is dramatically more compressed than these historical sources, stripping the event to its theological essence.\n\nThe destruction of the army has been compared to other miraculous military deliverances in religious history: the parting of the Red Sea (the Egyptian army destroyed by water), the destruction of Sennacherib's Assyrian army before Jerusalem (185,000 dead in one night, attributed to the angel of the Lord in 2 Kings 19:35), and the Quran's account of divine aid at Badr (Allah sending angels to support the small Muslim army). In each case, the narrative moves from hopeless disparity of forces to inexplicable divine intervention — and the theological message is identical: power belongs to Allah.",
+    goDeeper: [
+      { slug: 'al-fil', surahName: 'Al-Fil', note: "The five-verse account of the elephant army's destruction — the most compressed miracle narrative in the Quran" },
+      { slug: 'quraysh', surahName: 'Quraysh', note: "The surah immediately following Al-Fil — drawing the theological conclusion from the divine protection" },
+    ],
+    relatedTerms: [
+      { slug: 'quraysh',  transliteration: 'Quraysh',  term: 'قُرَيْش'  },
+      { slug: 'ibrahim',  transliteration: 'Ibrahim',  term: 'إِبْرَاهِيم' },
     ],
     hasFullEntry: true,
   },
