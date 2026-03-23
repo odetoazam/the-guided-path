@@ -33,7 +33,7 @@ function SectionLabel({ children }: { children: React.ReactNode }) {
 
 function RootFormCard({ form }: { form: RootForm }) {
   return (
-    <div className="relative overflow-hidden rounded-2xl border border-white/[0.06] bg-white/[0.02] p-4 transition-colors hover:border-[rgba(212,175,55,0.18)]">
+    <div className="relative overflow-hidden rounded-2xl border border-zinc-200 dark:border-white/[0.06] bg-zinc-50 dark:bg-white/[0.02] p-4 transition-colors hover:border-[rgba(212,175,55,0.18)]">
       {/* Arabic */}
       <div
         className="mb-2 text-right text-3xl leading-none"
@@ -47,7 +47,7 @@ function RootFormCard({ form }: { form: RootForm }) {
         {form.arabic}
       </div>
       {/* Transliteration */}
-      <p className="mb-1 font-serif text-sm font-semibold italic text-zinc-400">
+      <p className="mb-1 font-serif text-sm font-semibold italic text-zinc-600 dark:text-zinc-400">
         {form.transliteration}
       </p>
       {/* Type */}
@@ -65,7 +65,7 @@ function RootFormCard({ form }: { form: RootForm }) {
           ~{form.approxCount}×{form.verified ? '' : ' approx.'}
         </span>
         {!form.verified && (
-          <span className="text-[9px] italic text-zinc-700">pending corpus check</span>
+          <span className="text-[9px] italic text-zinc-400 dark:text-zinc-700">pending corpus check</span>
         )}
       </div>
     </div>
@@ -122,7 +122,7 @@ function RootTab({ entry }: { entry: GlossaryEntry }) {
   return (
     <div className="space-y-8">
       {/* Hero root display */}
-      <div className="rounded-2xl border border-white/[0.05] bg-white/[0.02] px-6 py-8 text-center">
+      <div className="rounded-2xl border border-zinc-200 dark:border-white/[0.05] bg-zinc-50 dark:bg-white/[0.02] px-6 py-8 text-center">
         <RootRadial letters={entry.root.letters} />
         <div className="mb-1 flex items-center justify-center gap-3">
           <span
@@ -135,10 +135,10 @@ function RootTab({ entry }: { entry: GlossaryEntry }) {
             {entry.root.transliteration}
           </span>
         </div>
-        <p className="mb-3 font-serif text-lg font-semibold text-cream/80">
+        <p className="mb-3 font-serif text-lg font-semibold text-navy-dark dark:text-cream/80">
           {entry.root.meaning}
         </p>
-        <p className="mx-auto max-w-lg text-sm leading-relaxed text-zinc-400">
+        <p className="mx-auto max-w-lg text-sm leading-relaxed text-zinc-600 dark:text-zinc-400">
           {entry.root.elaboration}
         </p>
       </div>
@@ -153,7 +153,7 @@ function RootTab({ entry }: { entry: GlossaryEntry }) {
                 <RootFormCard key={f.arabic} form={f} />
               ))}
             </div>
-            <p className="mt-3 text-[10px] text-zinc-700 italic">
+            <p className="mt-3 text-[10px] text-zinc-400 dark:text-zinc-700 italic">
               Counts marked "approx." are based on classical corpus analysis and will be verified against the Quranic morphology API.
             </p>
           </div>
@@ -171,7 +171,7 @@ function OccurrenceBar({ count, label }: { count: number; label: string }) {
   return (
     <div className="flex items-center gap-3">
       <span className="w-24 shrink-0 text-right text-xs text-zinc-500">{label}</span>
-      <div className="relative h-1.5 flex-1 rounded-full bg-white/[0.05]">
+      <div className="relative h-1.5 flex-1 rounded-full bg-zinc-200 dark:bg-white/[0.05]">
         <div
           className="h-full rounded-full"
           style={{ width: `${pct}%`, background: `linear-gradient(to right, ${g(0.5)}, ${g(0.8)})` }}
@@ -186,7 +186,7 @@ function QuranTab({ entry }: { entry: GlossaryEntry }) {
   return (
     <div className="space-y-8">
       {/* Occurrence visual */}
-      <div className="rounded-2xl border border-white/[0.05] bg-white/[0.02] p-6">
+      <div className="rounded-2xl border border-zinc-200 dark:border-white/[0.05] bg-zinc-50 dark:bg-white/[0.02] p-6">
         <SectionLabel>Root occurrence breakdown</SectionLabel>
         <div className="space-y-2.5">
           {entry.rootForms?.map((f) => (
@@ -205,7 +205,7 @@ function QuranTab({ entry }: { entry: GlossaryEntry }) {
           {entry.keyAyahs.map((ayah) => (
             <div
               key={ayah.ref}
-              className="rounded-2xl border border-white/[0.05] bg-white/[0.02] p-6"
+              className="rounded-2xl border border-zinc-200 dark:border-white/[0.05] bg-zinc-50 dark:bg-white/[0.02] p-6"
             >
               <div
                 className="mb-3 inline-flex items-center rounded-full border px-3 py-0.5"
@@ -216,13 +216,13 @@ function QuranTab({ entry }: { entry: GlossaryEntry }) {
                 </span>
               </div>
               <p
-                className="mb-4 text-right text-xl leading-loose text-cream/80"
+                className="mb-4 text-right text-xl leading-loose text-navy-dark dark:text-cream/80"
                 style={{ fontFamily: "var(--font-amiri,'Amiri'),serif", direction: 'rtl' }}
               >
                 {ayah.arabic}
               </p>
-              <div className="my-4 h-px bg-white/[0.05]" />
-              <p className="mb-3 text-sm leading-relaxed text-zinc-300 italic">
+              <div className="my-4 h-px bg-zinc-200 dark:bg-white/[0.05]" />
+              <p className="mb-3 text-sm leading-relaxed text-zinc-700 dark:text-zinc-300 italic">
                 &ldquo;{ayah.translation}&rdquo;
               </p>
               <p className="text-xs leading-relaxed text-zinc-500">{ayah.note}</p>
@@ -238,7 +238,7 @@ function QuranTab({ entry }: { entry: GlossaryEntry }) {
 
 function ConditionCard({ cond }: { cond: NonNullable<GlossaryEntry['practicalSection']>['conditions'][number] }) {
   return (
-    <div className="flex gap-4 rounded-2xl border border-white/[0.06] bg-white/[0.02] p-5 transition-colors hover:border-[rgba(212,175,55,0.15)]">
+    <div className="flex gap-4 rounded-2xl border border-zinc-200 dark:border-white/[0.06] bg-zinc-50 dark:bg-white/[0.02] p-5 transition-colors hover:border-[rgba(212,175,55,0.15)]">
       {/* Number */}
       <div
         className="flex h-9 w-9 shrink-0 items-center justify-center rounded-xl text-sm font-bold"
@@ -248,7 +248,7 @@ function ConditionCard({ cond }: { cond: NonNullable<GlossaryEntry['practicalSec
       </div>
       <div className="flex-1">
         <div className="mb-0.5 flex items-baseline gap-2">
-          <span className="font-serif text-base font-semibold text-cream/80">{cond.title}</span>
+          <span className="font-serif text-base font-semibold text-navy-dark dark:text-cream/80">{cond.title}</span>
           <span
             className="text-sm"
             style={{ fontFamily: "var(--font-amiri,'Amiri'),serif", color: g(0.65), direction: 'rtl' }}
@@ -257,7 +257,7 @@ function ConditionCard({ cond }: { cond: NonNullable<GlossaryEntry['practicalSec
           </span>
           <span className="text-[10px] italic text-zinc-600">{cond.arabicTranslit}</span>
         </div>
-        <p className="text-sm leading-relaxed text-zinc-400">{cond.description}</p>
+        <p className="text-sm leading-relaxed text-zinc-600 dark:text-zinc-400">{cond.description}</p>
       </div>
     </div>
   )
@@ -279,8 +279,8 @@ function StationCard({ station, index }: { station: NonNullable<GlossaryEntry['p
         <div className="h-2.5 w-2.5 rounded-full" style={{ background: g(Number(opacities[index])) }} />
       </div>
       <div className="pb-6">
-        <p className="mb-1 font-serif text-sm font-semibold text-cream/75">{station.name}</p>
-        <p className="text-sm leading-relaxed text-zinc-400">{station.description}</p>
+        <p className="mb-1 font-serif text-sm font-semibold text-navy-dark/80 dark:text-cream/75">{station.name}</p>
+        <p className="text-sm leading-relaxed text-zinc-600 dark:text-zinc-400">{station.description}</p>
       </div>
     </div>
   )
@@ -292,7 +292,7 @@ function QAItem({ qa, open, onToggle }: {
   onToggle: () => void
 }) {
   return (
-    <div className="border-b border-white/[0.05] last:border-0">
+    <div className="border-b border-zinc-200 dark:border-white/[0.05] last:border-0">
       <button
         onClick={onToggle}
         className="flex w-full items-start gap-3 py-4 text-left"
@@ -303,10 +303,10 @@ function QAItem({ qa, open, onToggle }: {
         >
           ›
         </span>
-        <span className="text-sm font-medium text-zinc-300">{qa.question}</span>
+        <span className="text-sm font-medium text-zinc-700 dark:text-zinc-300">{qa.question}</span>
       </button>
       {open && (
-        <p className="pb-4 pl-6 text-sm leading-relaxed text-zinc-400">{qa.answer}</p>
+        <p className="pb-4 pl-6 text-sm leading-relaxed text-zinc-600 dark:text-zinc-400">{qa.answer}</p>
       )}
     </div>
   )
@@ -345,7 +345,7 @@ function PracticeTab({ entry }: { entry: GlossaryEntry }) {
       {/* Q&A accordion */}
       <div>
         <SectionLabel>Common questions</SectionLabel>
-        <div className="rounded-2xl border border-white/[0.05] bg-white/[0.02] px-5">
+        <div className="rounded-2xl border border-zinc-200 dark:border-white/[0.05] bg-zinc-50 dark:bg-white/[0.02] px-5">
           {ps.questions.map((qa, i) => (
             <QAItem
               key={i}
@@ -382,7 +382,7 @@ function SemanticFlowDiagram({ connections, thisTerm }: {
   const intensify = connections.filter(c => c.relationship === 'intensifies')
 
   return (
-    <div className="mb-8 overflow-x-auto rounded-2xl border border-white/[0.05] bg-white/[0.02] p-6">
+    <div className="mb-8 overflow-x-auto rounded-2xl border border-zinc-200 dark:border-white/[0.05] bg-zinc-50 dark:bg-white/[0.02] p-6">
       <SectionLabel>Semantic field map</SectionLabel>
 
       {/* Main horizontal axis: precedes → THIS → deepens */}
@@ -394,7 +394,7 @@ function SemanticFlowDiagram({ connections, thisTerm }: {
               <div style={{ fontFamily: "var(--font-amiri,'Amiri'),serif", color: g(0.7), fontSize: '1.4rem', direction: 'rtl' }}>
                 {c.arabic}
               </div>
-              <div className="text-xs font-semibold text-zinc-400">{c.transliteration}</div>
+              <div className="text-xs font-semibold text-zinc-600 dark:text-zinc-400">{c.transliteration}</div>
               <div className="text-[9px] uppercase tracking-wider text-rose-300/60 mt-0.5">Precedes</div>
             </div>
           </div>
@@ -441,7 +441,7 @@ function SemanticFlowDiagram({ connections, thisTerm }: {
               <div style={{ fontFamily: "var(--font-amiri,'Amiri'),serif", color: g(0.7), fontSize: '1.4rem', direction: 'rtl' }}>
                 {c.arabic}
               </div>
-              <div className="text-xs font-semibold text-zinc-400">{c.transliteration}</div>
+              <div className="text-xs font-semibold text-zinc-600 dark:text-zinc-400">{c.transliteration}</div>
               <div className="text-[9px] uppercase tracking-wider text-teal-300/60 mt-0.5">Deepens into</div>
             </div>
           </div>
@@ -450,7 +450,7 @@ function SemanticFlowDiagram({ connections, thisTerm }: {
 
       {/* Below axis: parallels & intensifies */}
       {(parallel.length > 0 || intensify.length > 0) && (
-        <div className="mt-4 flex flex-wrap gap-3 pt-4 border-t border-white/[0.04]">
+        <div className="mt-4 flex flex-wrap gap-3 pt-4 border-t border-zinc-200/70 dark:border-white/[0.04]">
           {[...parallel, ...intensify].map((c) => {
             const rel = RELATIONSHIP_STYLES[c.relationship]
             return (
@@ -458,7 +458,7 @@ function SemanticFlowDiagram({ connections, thisTerm }: {
                 <div style={{ fontFamily: "var(--font-amiri,'Amiri'),serif", color: g(0.7), fontSize: '1.1rem', direction: 'rtl' }}>
                   {c.arabic}
                 </div>
-                <div className="text-xs font-semibold text-zinc-400">{c.transliteration}</div>
+                <div className="text-xs font-semibold text-zinc-600 dark:text-zinc-400">{c.transliteration}</div>
                 <div className={`text-[9px] uppercase tracking-wider ${rel.color} mt-0.5`}>{rel.label}</div>
               </div>
             )
@@ -468,14 +468,14 @@ function SemanticFlowDiagram({ connections, thisTerm }: {
 
       {/* Divine response — above, distinct */}
       {divine.length > 0 && (
-        <div className="mt-4 flex flex-wrap gap-3 pt-4 border-t border-white/[0.04]">
-          <p className="w-full text-[9px] uppercase tracking-widest text-zinc-700">Divine mirror</p>
+        <div className="mt-4 flex flex-wrap gap-3 pt-4 border-t border-zinc-200/70 dark:border-white/[0.04]">
+          <p className="w-full text-[9px] uppercase tracking-widest text-zinc-400 dark:text-zinc-700">Divine mirror</p>
           {divine.map((c) => (
             <div key={c.slug} className="rounded-xl border border-amber-500/15 bg-amber-500/8 px-3 py-2">
               <div style={{ fontFamily: "var(--font-amiri,'Amiri'),serif", color: g(0.8), fontSize: '1.1rem', direction: 'rtl' }}>
                 {c.arabic}
               </div>
-              <div className="text-xs font-semibold text-zinc-400">{c.transliteration}</div>
+              <div className="text-xs font-semibold text-zinc-600 dark:text-zinc-400">{c.transliteration}</div>
               <div className="text-[9px] uppercase tracking-wider text-amber-300/60 mt-0.5">Divine Response</div>
             </div>
           ))}
@@ -490,7 +490,7 @@ function ConnectionCard({ conn }: { conn: SemanticConnection }) {
   const style = RELATIONSHIP_STYLES[conn.relationship]
 
   const card = (
-    <div className="group rounded-2xl border border-white/[0.05] bg-white/[0.02] p-5 transition-all hover:border-[rgba(212,175,55,0.15)]">
+    <div className="group rounded-2xl border border-zinc-200 dark:border-white/[0.05] bg-zinc-50 dark:bg-white/[0.02] p-5 transition-all hover:border-[rgba(212,175,55,0.15)]">
       {/* Header */}
       <div className="mb-3 flex items-start justify-between gap-3">
         <div>
@@ -500,7 +500,7 @@ function ConnectionCard({ conn }: { conn: SemanticConnection }) {
           >
             {conn.arabic}
           </span>
-          <span className="ml-2 font-serif text-sm font-semibold text-zinc-300">
+          <span className="ml-2 font-serif text-sm font-semibold text-zinc-700 dark:text-zinc-300">
             {conn.transliteration}
           </span>
         </div>
@@ -511,7 +511,7 @@ function ConnectionCard({ conn }: { conn: SemanticConnection }) {
       {/* Relationship label */}
       <p className="mb-2 text-xs font-medium italic text-zinc-500">{conn.relationshipLabel}</p>
       {/* Description */}
-      <p className="text-sm leading-relaxed text-zinc-400">{conn.description}</p>
+      <p className="text-sm leading-relaxed text-zinc-600 dark:text-zinc-400">{conn.description}</p>
     </div>
   )
 
@@ -564,9 +564,9 @@ function TraditionsTab({ entry }: { entry: GlossaryEntry }) {
           {entry.scholarsSaid.map((s, i) => (
             <blockquote
               key={i}
-              className="rounded-2xl border border-white/[0.05] bg-white/[0.02] p-6"
+              className="rounded-2xl border border-zinc-200 dark:border-white/[0.05] bg-zinc-50 dark:bg-white/[0.02] p-6"
             >
-              <p className="mb-4 text-sm leading-relaxed text-zinc-400 italic">
+              <p className="mb-4 text-sm leading-relaxed text-zinc-600 dark:text-zinc-400 italic">
                 &ldquo;{s.text}&rdquo;
               </p>
               <footer className="text-xs text-zinc-600">
@@ -586,9 +586,9 @@ function TraditionsTab({ entry }: { entry: GlossaryEntry }) {
             {entry.hadith.map((h, i) => (
               <blockquote
                 key={i}
-                className="rounded-2xl border border-white/[0.05] bg-white/[0.02] p-6"
+                className="rounded-2xl border border-zinc-200 dark:border-white/[0.05] bg-zinc-50 dark:bg-white/[0.02] p-6"
               >
-                <p className="mb-3 text-sm leading-relaxed text-zinc-400 italic">
+                <p className="mb-3 text-sm leading-relaxed text-zinc-600 dark:text-zinc-400 italic">
                   &ldquo;{h.text}&rdquo;
                 </p>
                 <footer className="text-xs text-zinc-600">{h.source}</footer>
@@ -603,7 +603,7 @@ function TraditionsTab({ entry }: { entry: GlossaryEntry }) {
         <SectionLabel>Across traditions</SectionLabel>
         <div className="space-y-4">
           {paragraphs.map((p, i) => (
-            <p key={i} className="text-sm leading-relaxed text-zinc-400">{p}</p>
+            <p key={i} className="text-sm leading-relaxed text-zinc-600 dark:text-zinc-400">{p}</p>
           ))}
         </div>
       </div>
@@ -619,7 +619,7 @@ export function GlossaryEntryTabs({ entry }: { entry: GlossaryEntry }) {
   return (
     <div>
       {/* ── Tab navigation ──────────────────────────────────────────────── */}
-      <div className="sticky top-0 z-20 border-b border-white/[0.05] bg-navy-dark/95 backdrop-blur-md">
+      <div className="sticky top-0 z-20 border-b border-zinc-200 dark:border-white/[0.05] bg-white/95 dark:bg-navy-dark/95 backdrop-blur-md">
         <div className="mx-auto max-w-2xl overflow-x-auto px-4">
           <div className="flex min-w-max gap-1 py-2">
             {TABS.map((t) => {
@@ -652,7 +652,7 @@ export function GlossaryEntryTabs({ entry }: { entry: GlossaryEntry }) {
         {tab === 'traditions'  && <TraditionsTab  entry={entry} />}
 
         {/* ── Bottom nav ──────────────────────────────────────────────── */}
-        <div className="mt-14 border-t border-white/[0.05] pt-8">
+        <div className="mt-14 border-t border-zinc-200 dark:border-white/[0.05] pt-8">
           {/* Go Deeper */}
           {entry.goDeeper.length > 0 && (
             <div className="mb-8">
@@ -662,11 +662,11 @@ export function GlossaryEntryTabs({ entry }: { entry: GlossaryEntry }) {
                   <Link
                     key={d.slug}
                     href={`/surahs/${d.slug}`}
-                    className="group flex items-start gap-4 rounded-2xl border border-white/[0.05] bg-white/[0.02] px-5 py-4 transition-all hover:border-[rgba(212,175,55,0.18)]"
+                    className="group flex items-start gap-4 rounded-2xl border border-zinc-200 dark:border-white/[0.05] bg-zinc-50 dark:bg-white/[0.02] px-5 py-4 transition-all hover:border-[rgba(212,175,55,0.18)]"
                   >
                     <div className="mt-1 h-1.5 w-1.5 shrink-0 rounded-full" style={{ background: g(0.4) }} />
                     <div>
-                      <div className="font-serif text-sm font-medium text-zinc-300 group-hover:text-cream">
+                      <div className="font-serif text-sm font-medium text-zinc-700 dark:text-zinc-300 group-hover:text-navy-dark dark:group-hover:text-cream">
                         {d.surahName}
                       </div>
                       <div className="mt-0.5 text-xs text-zinc-600">{d.note}</div>

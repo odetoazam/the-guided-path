@@ -37,8 +37,8 @@ export default async function GlossaryEntryPage({ params }: Props) {
     const meta = GLOSSARY_TERMS.find((t) => t.slug === slug)
     if (meta) {
       return (
-        <div className="min-h-screen bg-navy-dark px-5 py-16 text-center">
-          <Link href="/glossary" className="mb-8 inline-block text-xs text-zinc-600 hover:text-zinc-400">
+        <div className="min-h-screen px-5 py-16 text-center">
+          <Link href="/glossary" className="mb-8 inline-block text-xs text-zinc-500 hover:text-zinc-700 dark:text-zinc-600 dark:hover:text-zinc-400">
             ← Glossary
           </Link>
           <div
@@ -47,8 +47,8 @@ export default async function GlossaryEntryPage({ params }: Props) {
           >
             {meta.term}
           </div>
-          <h1 className="font-serif text-2xl font-bold text-cream">{meta.transliteration}</h1>
-          <p className="mx-auto mt-4 max-w-xs text-sm text-zinc-500">
+          <h1 className="font-serif text-2xl font-bold text-navy-dark dark:text-cream">{meta.transliteration}</h1>
+          <p className="mx-auto mt-4 max-w-xs text-sm text-zinc-600 dark:text-zinc-500">
             This entry is being written. Check back soon.
           </p>
           <Link
@@ -84,9 +84,9 @@ export default async function GlossaryEntryPage({ params }: Props) {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 
-      <article className="min-h-screen bg-navy-dark">
+      <article className="min-h-screen">
         {/* ── Hero ──────────────────────────────────────────────────────── */}
-        <div className="relative overflow-hidden border-b border-white/[0.05] px-5 pb-10 pt-10 text-center">
+        <div className="relative overflow-hidden border-b border-zinc-200 px-5 pb-10 pt-10 text-center dark:border-white/[0.05]">
           {/* Radial glow */}
           <div
             aria-hidden
@@ -96,7 +96,7 @@ export default async function GlossaryEntryPage({ params }: Props) {
 
           {/* Back */}
           <div className="relative mb-6">
-            <Link href="/glossary" className="text-xs text-zinc-600 transition-colors hover:text-zinc-400">
+            <Link href="/glossary" className="text-xs text-zinc-500 transition-colors hover:text-zinc-700 dark:text-zinc-600 dark:hover:text-zinc-400">
               ← Glossary
             </Link>
           </div>
@@ -114,17 +114,17 @@ export default async function GlossaryEntryPage({ params }: Props) {
             {entry.term}
           </div>
 
-          <h1 className="font-serif text-2xl font-bold text-cream sm:text-3xl">
+          <h1 className="font-serif text-2xl font-bold text-navy-dark sm:text-3xl dark:text-cream">
             {entry.transliteration}
           </h1>
-          <p className="mt-1.5 text-xs italic text-zinc-600">{entry.pronunciation}</p>
+          <p className="mt-1.5 text-xs italic text-zinc-500 dark:text-zinc-600">{entry.pronunciation}</p>
 
-          <p className="mx-auto mt-5 max-w-xl text-sm leading-relaxed text-zinc-400">
+          <p className="mx-auto mt-5 max-w-xl text-sm leading-relaxed text-zinc-600 dark:text-zinc-400">
             {entry.summary}
           </p>
 
           {/* Stats bar */}
-          <div className="mx-auto mt-7 flex max-w-sm flex-wrap items-center justify-center gap-x-5 gap-y-3 rounded-2xl border border-white/[0.05] bg-white/[0.02] px-6 py-4">
+          <div className="mx-auto mt-7 flex max-w-sm flex-wrap items-center justify-center gap-x-5 gap-y-3 rounded-2xl border border-zinc-200 bg-zinc-50 px-6 py-4 dark:border-white/[0.05] dark:bg-white/[0.02]">
             <div className="text-center">
               <div
                 className="text-xl text-[rgba(212,175,55,0.8)]"
@@ -132,14 +132,14 @@ export default async function GlossaryEntryPage({ params }: Props) {
               >
                 {entry.root.letters}
               </div>
-              <div className="text-[9px] uppercase tracking-widest text-zinc-600">Root</div>
+              <div className="text-[9px] uppercase tracking-widest text-zinc-500 dark:text-zinc-600">Root</div>
             </div>
-            <div className="h-6 w-px bg-white/[0.06]" />
+            <div className="h-6 w-px bg-zinc-200 dark:bg-white/[0.06]" />
             <div className="text-center">
-              <div className="text-xl font-semibold text-cream/80">{entry.occurrenceCount}</div>
-              <div className="text-[9px] uppercase tracking-widest text-zinc-600">Quranic occurrences</div>
+              <div className="text-xl font-semibold text-navy-dark dark:text-cream/80">{entry.occurrenceCount}</div>
+              <div className="text-[9px] uppercase tracking-widest text-zinc-500 dark:text-zinc-600">Quranic occurrences</div>
             </div>
-            <div className="h-6 w-px bg-white/[0.06]" />
+            <div className="h-6 w-px bg-zinc-200 dark:bg-white/[0.06]" />
             <CategoryBadge category={entry.category as GlossaryCategory} />
           </div>
         </div>

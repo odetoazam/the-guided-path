@@ -6,6 +6,8 @@ export type GlossaryCategory =
   | 'Quranic Characters'
   | 'Nations & Peoples'
   | 'Study Terms'
+  | 'Concepts of Existence'
+  | 'Theology & Ethics'
 
 export interface GlossaryMeta {
   slug: string
@@ -122,39 +124,130 @@ export interface GlossaryEntry extends GlossaryMeta {
 // ── Index catalogue ───────────────────────────────────────────────────────────
 
 export const GLOSSARY_TERMS: GlossaryMeta[] = [
-  // States of the Heart
-  { slug: 'tawbah',    term: 'تَوْبَة',          transliteration: 'Tawbah',       category: 'States of the Heart', evocativeLine: 'The act of turning back — not just regret, but return.',              hasFullEntry: true  },
-  { slug: 'sabr',      term: 'صَبْر',            transliteration: 'Sabr',         category: 'States of the Heart', evocativeLine: 'Patient endurance that holds firm without losing hope.',              hasFullEntry: true  },
-  { slug: 'tawakkul',  term: 'تَوَكُّل',         transliteration: 'Tawakkul',     category: 'States of the Heart', evocativeLine: 'Complete reliance on Allah — after you have tied your camel.',        hasFullEntry: true  },
-  { slug: 'khushu',    term: 'خُشُوع',           transliteration: "Khushu'",      category: 'States of the Heart', evocativeLine: 'The trembling stillness of the heart in the presence of the Real.',   hasFullEntry: true  },
-  { slug: 'shukr',     term: 'شُكْر',            transliteration: 'Shukr',        category: 'States of the Heart', evocativeLine: 'Gratitude that moves from tongue to heart to action.',                 hasFullEntry: true  },
-  { slug: 'nadam',     term: 'نَدَم',            transliteration: 'Nadam',        category: 'States of the Heart', evocativeLine: 'The remorse that precedes returning — the ache before the turn.',     hasFullEntry: true  },
+  // ── States of the Heart ──────────────────────────────────────────────────────
+  { slug: 'tawbah',     term: 'تَوْبَة',    transliteration: 'Tawbah',     category: 'States of the Heart', evocativeLine: 'The act of turning back — not just regret, but return.',                               hasFullEntry: true  },
+  { slug: 'sabr',       term: 'صَبْر',      transliteration: 'Sabr',       category: 'States of the Heart', evocativeLine: 'Patient endurance that holds firm without losing hope.',                               hasFullEntry: true  },
+  { slug: 'tawakkul',   term: 'تَوَكُّل',   transliteration: 'Tawakkul',   category: 'States of the Heart', evocativeLine: 'Complete reliance on Allah — after you have tied your camel.',                         hasFullEntry: true  },
+  { slug: 'khushu',     term: 'خُشُوع',     transliteration: "Khushu'",    category: 'States of the Heart', evocativeLine: 'The trembling stillness of the heart in the presence of the Real.',                    hasFullEntry: true  },
+  { slug: 'shukr',      term: 'شُكْر',      transliteration: 'Shukr',      category: 'States of the Heart', evocativeLine: 'Gratitude that moves from tongue to heart to action.',                                  hasFullEntry: true  },
+  { slug: 'nadam',      term: 'نَدَم',      transliteration: 'Nadam',      category: 'States of the Heart', evocativeLine: 'The remorse that precedes returning — the ache before the turn.',                      hasFullEntry: true  },
+  { slug: 'mahabbah',   term: 'مَحَبَّة',   transliteration: 'Mahabbah',   category: 'States of the Heart', evocativeLine: 'The love that reshapes everything — when the heart finds what it was made for.',        hasFullEntry: true  },
+  { slug: 'khawf',      term: 'خَوْف',      transliteration: 'Khawf',      category: 'States of the Heart', evocativeLine: 'The sacred fear that keeps the soul honest — not terror, but reverential awe.',         hasFullEntry: true  },
+  { slug: 'raja',       term: 'رَجَاء',     transliteration: "Raja'",      category: 'States of the Heart', evocativeLine: "Hope in Allah's mercy — the rope that holds even when the hand has let go.",            hasFullEntry: true  },
+  { slug: 'ikhlas',     term: 'إِخْلَاص',   transliteration: 'Ikhlas',     category: 'States of the Heart', evocativeLine: 'Sincerity stripped of all audience — the deed done when only Allah is watching.',       hasFullEntry: true  },
+  { slug: 'sidq',       term: 'صِدْق',      transliteration: 'Sidq',       category: 'States of the Heart', evocativeLine: 'Truthfulness so complete that the inner and outer become one.',                          hasFullEntry: false },
+  { slug: 'tawadu',     term: 'تَوَاضُع',   transliteration: "Tawadu'",    category: 'States of the Heart', evocativeLine: 'Humility that knows where it stands — not self-deprecation but honest seeing.',          hasFullEntry: false },
+  { slug: 'zuhd',       term: 'زُهْد',      transliteration: 'Zuhd',       category: 'States of the Heart', evocativeLine: 'Detachment from the world — not hating it, but not being owned by it.',                  hasFullEntry: false },
+  { slug: 'wara',       term: 'وَرَع',      transliteration: "Wara'",      category: 'States of the Heart', evocativeLine: 'Scrupulous caution — leaving even the doubtful for fear of the forbidden.',              hasFullEntry: false },
+  { slug: 'hayaa',      term: 'حَيَاء',     transliteration: "Hayaa'",     category: 'States of the Heart', evocativeLine: 'The modesty that guards — the eyes, the tongue, the heart, and the limbs.',             hasFullEntry: false },
+  { slug: 'qanah',      term: 'قَنَاعَة',   transliteration: "Qana'ah",    category: 'States of the Heart', evocativeLine: "Contentment with what Allah has given — the richness that needs no addition.",           hasFullEntry: false },
+  { slug: 'muraqaba',   term: 'مُرَاقَبَة', transliteration: 'Muraqaba',   category: 'States of the Heart', evocativeLine: 'The awareness of being watched — living as though you can see Allah, knowing He sees you.', hasFullEntry: false },
+  { slug: 'muhasaba',   term: 'مُحَاسَبَة', transliteration: 'Muhasaba',   category: 'States of the Heart', evocativeLine: 'The daily accounting of the self — before you are called to account.',                   hasFullEntry: false },
+  { slug: 'inabah',     term: 'إِنَابَة',   transliteration: 'Inabah',     category: 'States of the Heart', evocativeLine: 'Turning to Allah with the whole soul — more urgent and total than tawbah.',              hasFullEntry: false },
+  { slug: 'tafakkur',   term: 'تَفَكُّر',   transliteration: 'Tafakkur',   category: 'States of the Heart', evocativeLine: 'The deliberate use of reason to see signs — thinking as an act of worship.',             hasFullEntry: false },
+  { slug: 'dhikr',      term: 'ذِكْر',      transliteration: 'Dhikr',      category: 'States of the Heart', evocativeLine: "The remembrance of Allah — the heart's breath, without which it suffocates.",            hasFullEntry: false },
+  { slug: 'hilm',       term: 'حِلْم',      transliteration: 'Hilm',       category: 'States of the Heart', evocativeLine: 'Forbearance that absorbs harm without retaliation — the strength to be still.',          hasFullEntry: false },
+  { slug: 'uns',        term: 'أُنْس',      transliteration: 'Uns',        category: 'States of the Heart', evocativeLine: 'Intimacy with Allah — the sweetness of His presence that makes solitude a gift.',         hasFullEntry: false },
+  { slug: 'khashya',    term: 'خَشْيَة',    transliteration: 'Khashya',    category: 'States of the Heart', evocativeLine: 'Reverential awe born of knowledge — the fear of those who truly know.',                  hasFullEntry: false },
+  { slug: 'afw',        term: 'عَفْو',      transliteration: "Afw",        category: 'States of the Heart', evocativeLine: 'Pardoning — the release of the right to retaliate, chosen freely out of strength.',      hasFullEntry: false },
 
-  // The Unseen
-  { slug: 'barzakh',   term: 'بَرْزَخ',          transliteration: 'Barzakh',      category: 'The Unseen',          evocativeLine: 'The barrier between two worlds — where the departed now dwell.',       hasFullEntry: true  },
-  { slug: 'mizan',     term: 'مِيزَان',          transliteration: 'Mizan',        category: 'The Unseen',          evocativeLine: 'The scale on which deeds weigh more than mountains.',                  hasFullEntry: true  },
-  { slug: 'jannah',    term: 'جَنَّة',           transliteration: 'Jannah',       category: 'The Unseen',          evocativeLine: 'The garden — a word that carries moisture, shade, and promise.',       hasFullEntry: true  },
-  { slug: 'jahannam',  term: 'جَهَنَّم',         transliteration: 'Jahannam',     category: 'The Unseen',          evocativeLine: 'The fire whose true nature is beyond imagination.',                     hasFullEntry: true  },
-  { slug: 'al-ghayb',  term: 'ٱلْغَيْب',         transliteration: 'Al-Ghayb',    category: 'The Unseen',          evocativeLine: 'The unseen realm — the first quality the Quran asks us to believe in.',  hasFullEntry: true  },
+  // ── The Unseen ───────────────────────────────────────────────────────────────
+  { slug: 'barzakh',         term: 'بَرْزَخ',         transliteration: 'Barzakh',         category: 'The Unseen', evocativeLine: 'The barrier between two worlds — where the departed now dwell.',                      hasFullEntry: true  },
+  { slug: 'mizan',           term: 'مِيزَان',         transliteration: 'Mizan',           category: 'The Unseen', evocativeLine: 'The scale on which deeds weigh more than mountains.',                                hasFullEntry: true  },
+  { slug: 'jannah',          term: 'جَنَّة',          transliteration: 'Jannah',          category: 'The Unseen', evocativeLine: 'The garden — a word that carries moisture, shade, and promise.',                      hasFullEntry: true  },
+  { slug: 'jahannam',        term: 'جَهَنَّم',        transliteration: 'Jahannam',        category: 'The Unseen', evocativeLine: 'The fire whose true nature is beyond imagination.',                                   hasFullEntry: true  },
+  { slug: 'al-ghayb',        term: 'ٱلْغَيْب',        transliteration: 'Al-Ghayb',        category: 'The Unseen', evocativeLine: 'The unseen realm — the first quality the Quran asks us to believe in.',               hasFullEntry: true  },
+  { slug: 'malaika',         term: 'مَلَائِكَة',      transliteration: 'Malaika',         category: 'The Unseen', evocativeLine: 'Beings of light and obedience — woven through all of creation, seen by none.',        hasFullEntry: true  },
+  { slug: 'jinn',            term: 'جِنّ',            transliteration: 'Jinn',            category: 'The Unseen', evocativeLine: 'Hidden beings of smokeless fire — accountable like humanity, invisible to it.',        hasFullEntry: false },
+  { slug: 'shaytan',         term: 'شَيْطَان',        transliteration: 'Shaytan',         category: 'The Unseen', evocativeLine: 'The one who refused — and has been whispering refusals ever since.',                   hasFullEntry: true  },
+  { slug: 'al-arsh',         term: 'ٱلْعَرْش',        transliteration: 'Al-Arsh',         category: 'The Unseen', evocativeLine: "The Throne above all creation — the symbol of Allah's absolute sovereignty.",          hasFullEntry: false },
+  { slug: 'al-kursi',        term: 'ٱلْكُرْسِيّ',     transliteration: 'Al-Kursi',        category: 'The Unseen', evocativeLine: 'His seat encompasses the heavens and the earth — and guarding them tires Him not.',    hasFullEntry: false },
+  { slug: 'al-lawh',         term: 'ٱللَّوْح ٱلْمَحْفُوظ', transliteration: 'Al-Lawh al-Mahfuz', category: 'The Unseen', evocativeLine: 'The Preserved Tablet — where all of existence was written before time began.', hasFullEntry: false },
+  { slug: 'sirat',           term: 'صِرَاط',          transliteration: 'Al-Sirat',        category: 'The Unseen', evocativeLine: 'The bridge over the fire — crossed by every soul on the Day of Judgment.',             hasFullEntry: false },
+  { slug: 'qiyamah',         term: 'قِيَامَة',        transliteration: 'Al-Qiyamah',      category: 'The Unseen', evocativeLine: 'The Standing — the Day when all of history arrives at its conclusion.',                hasFullEntry: false },
+  { slug: 'hisab',           term: 'حِسَاب',          transliteration: 'Al-Hisab',        category: 'The Unseen', evocativeLine: 'The reckoning — when every moment of every life is laid completely open.',             hasFullEntry: false },
 
-  // Quranic Characters
-  { slug: 'maryam',          term: 'مَرْيَم',           transliteration: 'Maryam',        category: 'Quranic Characters', evocativeLine: 'The only woman named by name in the Quran — and her own surah.',      hasFullEntry: true  },
-  { slug: 'luqman',          term: 'لُقْمَان',          transliteration: 'Luqman',        category: 'Quranic Characters', evocativeLine: 'The wise man who taught his son by talking, not commanding.',         hasFullEntry: false },
-  { slug: 'dhul-qarnayn',    term: 'ذُو ٱلْقَرْنَيْن', transliteration: "Dhul-Qarnayn",  category: 'Quranic Characters', evocativeLine: 'The one of two epochs — a sovereign who served rather than ruled.',    hasFullEntry: false },
-  { slug: 'ayyub',           term: 'أَيُّوب',           transliteration: 'Ayyub',         category: 'Quranic Characters', evocativeLine: "Affliction beyond measure — and a faith that didn't flinch.",          hasFullEntry: false },
+  // ── Quranic Characters ───────────────────────────────────────────────────────
+  { slug: 'maryam',       term: 'مَرْيَم',           transliteration: 'Maryam',        category: 'Quranic Characters', evocativeLine: 'The only woman named by name in the Quran — and her own surah.',              hasFullEntry: true  },
+  { slug: 'luqman',       term: 'لُقْمَان',          transliteration: 'Luqman',        category: 'Quranic Characters', evocativeLine: 'The wise man who taught his son by talking, not commanding.',                 hasFullEntry: false },
+  { slug: 'dhul-qarnayn', term: 'ذُو ٱلْقَرْنَيْن', transliteration: "Dhul-Qarnayn",  category: 'Quranic Characters', evocativeLine: 'The one of two epochs — a sovereign who served rather than ruled.',            hasFullEntry: false },
+  { slug: 'ayyub',        term: 'أَيُّوب',           transliteration: 'Ayyub',         category: 'Quranic Characters', evocativeLine: "Affliction beyond measure — and a faith that didn't flinch.",                 hasFullEntry: false },
+  { slug: 'iblis',        term: 'إِبْلِيس',          transliteration: 'Iblis',         category: 'Quranic Characters', evocativeLine: 'He knew the truth, refused it — and has spent eternity trying to make others do the same.', hasFullEntry: false },
+  { slug: 'firaun',       term: 'فِرْعَوْن',         transliteration: "Fir'awn",       category: 'Quranic Characters', evocativeLine: 'The supreme symbol of arrogance — a man who called himself lord and drowned in the sea.', hasFullEntry: false },
+  { slug: 'qarun',        term: 'قَارُون',           transliteration: 'Qarun',         category: 'Quranic Characters', evocativeLine: 'The man of treasures who forgot their source — and was swallowed by the earth.', hasFullEntry: false },
+  { slug: 'bilqis',       term: 'بِلْقِيس',          transliteration: 'Bilqis',        category: 'Quranic Characters', evocativeLine: 'The queen who recognized truth when she saw it — and chose it over her throne.', hasFullEntry: false },
+  { slug: 'asiya',        term: 'آسِيَة',            transliteration: 'Asiya',         category: 'Quranic Characters', evocativeLine: 'A queen who built a house in Jannah while living in a palace of oppression.',   hasFullEntry: false },
+  { slug: 'yusuf',        term: 'يُوسُف',            transliteration: 'Yusuf',         category: 'Quranic Characters', evocativeLine: 'Thrown into a well, sold, imprisoned — and still the most beautiful of stories.', hasFullEntry: false },
+  { slug: 'ibrahim',      term: 'إِبْرَاهِيم',       transliteration: 'Ibrahim',       category: 'Quranic Characters', evocativeLine: "The friend of Allah — who broke the idols, walked into the fire, and didn't flinch.", hasFullEntry: false },
+  { slug: 'musa',         term: 'مُوسَىٰ',           transliteration: 'Musa',          category: 'Quranic Characters', evocativeLine: 'Called from a burning bush, raised in the palace of his enemy — the most mentioned prophet.', hasFullEntry: false },
+  { slug: 'isa',          term: 'عِيسَىٰ',           transliteration: "'Isa",          category: 'Quranic Characters', evocativeLine: "Born without a father, spoke as an infant, and did not die as the world believes.", hasFullEntry: false },
+  { slug: 'nuh',          term: 'نُوح',              transliteration: 'Nuh',           category: 'Quranic Characters', evocativeLine: "950 years of calling — and his own son refused the ark.",                         hasFullEntry: false },
+  { slug: 'dawud',        term: 'دَاوُود',           transliteration: 'Dawud',         category: 'Quranic Characters', evocativeLine: 'The king who sang to Allah — given wisdom, a kingdom, and the Psalms.',           hasFullEntry: false },
+  { slug: 'sulayman',     term: 'سُلَيْمَان',        transliteration: 'Sulayman',      category: 'Quranic Characters', evocativeLine: 'The sovereign of wind, jinn, and birds — whose prayer was a greater gift than the kingdom.', hasFullEntry: false },
+  { slug: 'yunus',        term: 'يُونُس',            transliteration: 'Yunus',         category: 'Quranic Characters', evocativeLine: "The prophet who left before permission — and called from the belly of the deep.",  hasFullEntry: false },
 
-  // Nations & Peoples
-  { slug: 'ad',              term: 'عَاد',               transliteration: "'Ad",           category: "Nations & Peoples",  evocativeLine: "The people of the wind — destroyed by the very air they breathed.",   hasFullEntry: false },
-  { slug: 'thamud',          term: 'ثَمُود',             transliteration: 'Thamud',        category: "Nations & Peoples",  evocativeLine: 'They carved mountains for homes and still could not find safety.',     hasFullEntry: false },
-  { slug: 'bani-isra-il',    term: 'بَنُو إِسْرَائِيل', transliteration: "Bani Isra'il",  category: "Nations & Peoples",  evocativeLine: "The people of a thousand stories — struggle, covenant, and mercy.",   hasFullEntry: false },
-  { slug: 'ashab-al-kahf',   term: 'أَصْحَاب ٱلْكَهْف', transliteration: 'Ashab al-Kahf', category: "Nations & Peoples",  evocativeLine: 'Young men who chose a cave over a kingdom.',                          hasFullEntry: false },
+  // ── Nations & Peoples ────────────────────────────────────────────────────────
+  { slug: 'ad',               term: 'عَاد',                transliteration: "'Ad",             category: "Nations & Peoples", evocativeLine: "The people of the wind — destroyed by the very air they breathed.",         hasFullEntry: false },
+  { slug: 'thamud',           term: 'ثَمُود',              transliteration: 'Thamud',          category: "Nations & Peoples", evocativeLine: 'They carved mountains for homes and still could not find safety.',           hasFullEntry: false },
+  { slug: 'bani-isra-il',     term: 'بَنُو إِسْرَائِيل',  transliteration: "Bani Isra'il",    category: "Nations & Peoples", evocativeLine: "The people of a thousand stories — struggle, covenant, and mercy.",         hasFullEntry: false },
+  { slug: 'ashab-al-kahf',    term: 'أَصْحَاب ٱلْكَهْف',  transliteration: 'Ashab al-Kahf',   category: "Nations & Peoples", evocativeLine: 'Young men who chose a cave over a kingdom.',                                hasFullEntry: false },
+  { slug: 'quraysh',          term: 'قُرَيْش',             transliteration: 'Quraysh',         category: "Nations & Peoples", evocativeLine: "The tribe that guarded the Kaaba and rejected its Lord — until the day they couldn't.", hasFullEntry: false },
+  { slug: 'ashab-al-ukhdud',  term: 'أَصْحَاب ٱلْأُخْدُود', transliteration: 'Ashab al-Ukhdud', category: "Nations & Peoples", evocativeLine: 'They watched believers burned in the ditch — and would not deny their faith.', hasFullEntry: false },
+  { slug: 'ashab-al-fil',     term: 'أَصْحَاب ٱلْفِيل',   transliteration: 'Ashab al-Fil',    category: "Nations & Peoples", evocativeLine: 'The army of the elephant — turned back by birds, the year the Prophet ﷺ was born.', hasFullEntry: false },
+  { slug: 'madyan',           term: 'مَدْيَن',             transliteration: 'Madyan',          category: "Nations & Peoples", evocativeLine: 'The people of Shuayb — who cheated in their scales and met the weight of divine justice.', hasFullEntry: false },
+  { slug: 'qawm-nuh',         term: 'قَوْم نُوح',         transliteration: "Qawm Nuh",        category: "Nations & Peoples", evocativeLine: "Noah's people — 950 years of warning and still they chose the flood.",        hasFullEntry: false },
+  { slug: 'qawm-lut',         term: 'قَوْم لُوط',         transliteration: "Qawm Lut",        category: "Nations & Peoples", evocativeLine: "Lot's people — whose transgression became the permanent example of civilizational collapse.", hasFullEntry: false },
 
-  // Study Terms
-  { slug: 'tafsir',          term: 'تَفْسِير',           transliteration: 'Tafsir',        category: 'Study Terms', evocativeLine: 'The science of uncovering what the Quran means — layer by layer.',     hasFullEntry: true  },
-  { slug: 'tadabbur',        term: 'تَدَبُّر',           transliteration: 'Tadabbur',      category: 'Study Terms', evocativeLine: "To ponder deeply — the Quran's own word for how it wants to be read.", hasFullEntry: true  },
-  { slug: 'nazm',            term: 'نَظْم',              transliteration: 'Nazm',          category: 'Study Terms', evocativeLine: 'The hidden architecture of the Quran — the coherence beneath the surface.', hasFullEntry: true  },
-  { slug: 'ijaz',            term: 'إِعْجَاز',           transliteration: "I'jaz",         category: 'Study Terms', evocativeLine: "The Quran's inimitability — the challenge that has never been met.",    hasFullEntry: true  },
-  { slug: 'asbab-al-nuzul',  term: 'أَسْبَاب ٱلنُّزُول', transliteration: 'Asbab al-Nuzul', category: 'Study Terms', evocativeLine: 'The occasions of revelation — the moments that gave the verses their first breath.', hasFullEntry: true  },
+  // ── Study Terms ──────────────────────────────────────────────────────────────
+  { slug: 'tafsir',          term: 'تَفْسِير',            transliteration: 'Tafsir',          category: 'Study Terms', evocativeLine: 'The science of uncovering what the Quran means — layer by layer.',               hasFullEntry: true  },
+  { slug: 'tadabbur',        term: 'تَدَبُّر',            transliteration: 'Tadabbur',        category: 'Study Terms', evocativeLine: "To ponder deeply — the Quran's own word for how it wants to be read.",           hasFullEntry: true  },
+  { slug: 'nazm',            term: 'نَظْم',               transliteration: 'Nazm',            category: 'Study Terms', evocativeLine: 'The hidden architecture of the Quran — the coherence beneath the surface.',       hasFullEntry: true  },
+  { slug: 'ijaz',            term: 'إِعْجَاز',            transliteration: "I'jaz",           category: 'Study Terms', evocativeLine: "The Quran's inimitability — the challenge that has never been met.",              hasFullEntry: true  },
+  { slug: 'asbab-al-nuzul',  term: 'أَسْبَاب ٱلنُّزُول', transliteration: 'Asbab al-Nuzul',  category: 'Study Terms', evocativeLine: 'The occasions of revelation — the moments that gave the verses their first breath.', hasFullEntry: true  },
+  { slug: 'balaghah',        term: 'بَلَاغَة',            transliteration: 'Balaghah',        category: 'Study Terms', evocativeLine: "The Quran's rhetoric — why its words land with a force no translation can carry.",  hasFullEntry: false },
+  { slug: 'qiraat',          term: 'قِرَاءَات',           transliteration: "Qira'at",         category: 'Study Terms', evocativeLine: 'The seven readings — different transmissions of the same divine word.',            hasFullEntry: false },
+  { slug: 'makki-madani',    term: 'مَكِّي/مَدَنِي',     transliteration: 'Makki / Madani',   category: 'Study Terms', evocativeLine: 'The two faces of the Quran — revelation in struggle, then revelation in power.',   hasFullEntry: false },
+  { slug: 'maqasid',        term: 'مَقَاصِد',             transliteration: 'Maqasid',         category: 'Study Terms', evocativeLine: 'The higher objectives of the Quran — life, intellect, lineage, wealth, and deen.',  hasFullEntry: false },
+
+  // ── Concepts of Existence ────────────────────────────────────────────────────
+  { slug: 'nafs',    term: 'نَفْس',    transliteration: 'Nafs',    category: 'Concepts of Existence', evocativeLine: "The self the Quran calls you to master — commanding, blaming, and at peace.",        hasFullEntry: true  },
+  { slug: 'ruh',     term: 'رُوح',     transliteration: 'Ruh',     category: 'Concepts of Existence', evocativeLine: "The spirit breathed into Adam — known to Allah alone in its full nature.",           hasFullEntry: true  },
+  { slug: 'qadar',   term: 'قَدَر',    transliteration: 'Qadar',   category: 'Concepts of Existence', evocativeLine: 'Divine measure — the decree that governs all things, and the belief that frees the heart.', hasFullEntry: true  },
+  { slug: 'fitrah',  term: 'فِطْرَة',  transliteration: 'Fitrah',  category: 'Concepts of Existence', evocativeLine: "The primordial nature — the factory setting of the human soul, inclined toward its Creator.", hasFullEntry: true  },
+  { slug: 'rizq',    term: 'رِزْق',    transliteration: 'Rizq',    category: 'Concepts of Existence', evocativeLine: 'Provision — everything Allah has apportioned, wider than money and impossible to miss.',   hasFullEntry: true  },
+  { slug: 'amanah',  term: 'أَمَانَة', transliteration: 'Amanah',  category: 'Concepts of Existence', evocativeLine: 'The trust the heavens refused — and humanity accepted, for better and for worse.',          hasFullEntry: false },
+  { slug: 'aql',     term: 'عَقْل',    transliteration: "'Aql",    category: 'Concepts of Existence', evocativeLine: 'The intellect — the faculty that carries the weight of moral responsibility.',              hasFullEntry: false },
+  { slug: 'dunya',   term: 'دُنْيَا',  transliteration: 'Dunya',   category: 'Concepts of Existence', evocativeLine: "The present world — the word itself means 'near' and 'low', and the Quran won't let you forget it.", hasFullEntry: false },
+  { slug: 'akhira',  term: 'آخِرَة',   transliteration: 'Akhira',  category: 'Concepts of Existence', evocativeLine: 'The hereafter — the permanent home toward which this life is only a passage.',            hasFullEntry: false },
+  { slug: 'ajal',    term: 'أَجَل',    transliteration: 'Ajal',    category: 'Concepts of Existence', evocativeLine: 'The appointed term — the moment of death already written before birth.',                   hasFullEntry: false },
+  { slug: 'barakah', term: 'بَرَكَة',  transliteration: 'Barakah', category: 'Concepts of Existence', evocativeLine: 'Divine blessing that multiplies — the invisible increase Allah places in what He wills.',  hasFullEntry: false },
+  { slug: 'yawm',    term: 'يَوْم',    transliteration: 'Yawm',    category: 'Concepts of Existence', evocativeLine: 'The Day — used over 400 times in the Quran, pointing always toward the Day that ends all days.', hasFullEntry: false },
+  { slug: 'layl',    term: 'لَيْل',    transliteration: 'Layl',    category: 'Concepts of Existence', evocativeLine: 'Night — the time of standing, of secrets, of proximity, of divine descent.',               hasFullEntry: false },
+  { slug: 'mawt',    term: 'مَوْت',    transliteration: 'Mawt',    category: 'Concepts of Existence', evocativeLine: "Death — the destroyer of pleasures, the great reorienter, the door to what matters.",      hasFullEntry: false },
+  { slug: 'hayah',   term: 'حَيَاة',   transliteration: 'Hayah',   category: 'Concepts of Existence', evocativeLine: 'Life — but the Quran speaks of many: this one, the life of the heart, and the life to come.', hasFullEntry: false },
+
+  // ── Theology & Ethics ────────────────────────────────────────────────────────
+  { slug: 'tawhid',    term: 'تَوْحِيد',  transliteration: 'Tawhid',   category: 'Theology & Ethics', evocativeLine: "The oneness of Allah — the axis on which the entire universe turns.",                     hasFullEntry: true  },
+  { slug: 'iman',      term: 'إِيمَان',   transliteration: 'Iman',     category: 'Theology & Ethics', evocativeLine: 'Faith — not just belief in the mind, but conviction that moves the limbs.',               hasFullEntry: true  },
+  { slug: 'ihsan',     term: 'إِحْسَان',  transliteration: 'Ihsan',    category: 'Theology & Ethics', evocativeLine: "To worship Allah as though you see Him — knowing He sees you.",                           hasFullEntry: true  },
+  { slug: 'taqwa',     term: 'تَقْوَى',   transliteration: 'Taqwa',    category: 'Theology & Ethics', evocativeLine: 'God-consciousness — the shield that makes every moment a moral choice.',                  hasFullEntry: true  },
+  { slug: 'rahmah',    term: 'رَحْمَة',   transliteration: 'Rahmah',   category: 'Theology & Ethics', evocativeLine: "Mercy — the quality that precedes and encompasses all of Allah's other attributes.",       hasFullEntry: true  },
+  { slug: 'hikmah',    term: 'حِكْمَة',   transliteration: 'Hikmah',   category: 'Theology & Ethics', evocativeLine: 'Wisdom — the ability to put things in their right place, given only to those Allah chooses.', hasFullEntry: false },
+  { slug: 'adl',       term: 'عَدْل',     transliteration: "'Adl",     category: 'Theology & Ethics', evocativeLine: "Justice — one of the Quran's supreme values, demanded even against yourself.",             hasFullEntry: false },
+  { slug: 'shirk',     term: 'شِرْك',     transliteration: 'Shirk',    category: 'Theology & Ethics', evocativeLine: 'The one sin declared unforgivable — placing anything alongside Allah in the heart.',       hasFullEntry: false },
+  { slug: 'kufr',      term: 'كُفْر',     transliteration: 'Kufr',     category: 'Theology & Ethics', evocativeLine: 'Disbelief and ingratitude — the covering over of what the heart already knows.',           hasFullEntry: false },
+  { slug: 'nifaq',     term: 'نِفَاق',    transliteration: 'Nifaq',    category: 'Theology & Ethics', evocativeLine: 'Hypocrisy — the gap between what is shown and what is held, wider than disbelief.',        hasFullEntry: false },
+  { slug: 'haqq',      term: 'حَقّ',      transliteration: 'Haqq',     category: 'Theology & Ethics', evocativeLine: "Truth and right — the word that is also one of Allah's names and the Quran's purpose.",    hasFullEntry: false },
+  { slug: 'zulm',      term: 'ظُلْم',     transliteration: 'Zulm',     category: 'Theology & Ethics', evocativeLine: 'Wrongdoing and oppression — the darkness the Quran cannot name without condemning.',        hasFullEntry: false },
+  { slug: 'birr',      term: 'بِرّ',      transliteration: 'Birr',     category: 'Theology & Ethics', evocativeLine: 'Comprehensive righteousness — the full expression of goodness in every direction.',         hasFullEntry: false },
+  { slug: 'ummah',     term: 'أُمَّة',    transliteration: 'Ummah',    category: 'Theology & Ethics', evocativeLine: 'Community — the body of believers across time and space, responsible for each other.',      hasFullEntry: false },
+  { slug: 'mithaq',    term: 'مِيثَاق',   transliteration: 'Mithaq',   category: 'Theology & Ethics', evocativeLine: 'The primordial covenant — the agreement made before birth that shapes all of human life.',  hasFullEntry: false },
+  { slug: 'dawah',     term: 'دَعْوَة',   transliteration: "Da'wah",   category: 'Theology & Ethics', evocativeLine: 'The call — inviting to Allah with wisdom and beautiful speech.',                           hasFullEntry: false },
+  { slug: 'jihad',     term: 'جِهَاد',    transliteration: 'Jihad',    category: 'Theology & Ethics', evocativeLine: 'Striving — the comprehensive struggle in every domain, of which warfare is one dimension.', hasFullEntry: false },
+  { slug: 'ukhuwwah',  term: 'أُخُوَّة',  transliteration: 'Ukhuwwah', category: 'Theology & Ethics', evocativeLine: 'Brotherhood and sisterhood — the bond the Quran places above tribe and blood.',            hasFullEntry: false },
+  { slug: 'sadaqah',   term: 'صَدَقَة',   transliteration: 'Sadaqah',  category: 'Theology & Ethics', evocativeLine: 'Voluntary giving — the charity that purifies the giver and multiplies for both.',          hasFullEntry: false },
+  { slug: 'fasad',     term: 'فَسَاد',    transliteration: 'Fasad',    category: 'Theology & Ethics', evocativeLine: 'Corruption and disorder — what happens when humanity forgets its covenant.',               hasFullEntry: false },
+  { slug: 'shura',     term: 'شُورَى',    transliteration: 'Shura',    category: 'Theology & Ethics', evocativeLine: 'Consultation — the Quranic principle that decisions must be made together.',               hasFullEntry: false },
 ]
 
 // ── Full entries ──────────────────────────────────────────────────────────────
