@@ -2,7 +2,7 @@
 
 import { useState } from 'react'
 import Link from 'next/link'
-import type { GlossaryEntry, RootForm, SemanticConnection, SemanticRelationship } from '@/data/glossary'
+import type { GlossaryEntry, RootForm, SemanticConnection, SemanticRelationship, WordAnnotation } from '@/data/glossary'
 
 // ── Types ─────────────────────────────────────────────────────────────────────
 
@@ -26,6 +26,107 @@ function SectionLabel({ children }: { children: React.ReactNode }) {
     <p className="mb-5 text-[10px] font-semibold uppercase tracking-[0.22em] text-zinc-600">
       {children}
     </p>
+  )
+}
+
+// ── Word Lens (morphological annotations) ────────────────────────────────────
+
+function highlightArabicWords(arabic: string, annotations?: WordAnnotation[]) {
+  if (!annotations?.length) return arabic
+  const annotatedWords = new Set(annotations.map(a => a.word.replace(/[\u0610-\u065F\u0670]/g, '')))
+  const words = arabic.split(/(\s+)/)
+  return words.map((w, i) => {
+    const stripped = w.replace(/[\u0610-\u065F\u0670]/g, '')
+    if (annotatedWords.has(stripped)) {
+      return <span key={i} style={{ borderBottom: '2px solid rgba(212,175,55,0.45)', paddingBottom: '2px' }}>{w}</span>
+    }
+    return <span key={i}>{w}</span>
+  })
+}
+
+function WordLens({ annotations }: { annotations: WordAnnotation[] }) {
+  const [open, setOpen] = useState(false)
+  return (
+    <div className="mt-4">
+      <button
+        onClick={() => setOpen(!open)}
+        className="flex items-center gap-1.5 text-[10px] font-semibold uppercase tracking-[0.18em] transition-colors"
+        style={{ color: g(0.55) }}
+      >
+        <svg
+          className={`h-3 w-3 transition-transform ${open ? 'rotate-90' : ''}`}
+          viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5"
+        >
+          <path d="M9 5l7 7-7 7" />
+        </svg>
+        Word Lens
+      </button>
+      {open && (
+        <div className="mt-3 space-y-3">
+          {annotations.map((ann, i) => (
+            <div
+              key={i}
+              className="rounded-xl border border-zinc-200 dark:border-white/[0.06] bg-white dark:bg-white/[0.015] p-4"
+            >
+              <div className="flex items-start justify-between gap-4">
+                <div className="min-w-0 flex-1">
+                  <div className="mb-1 flex items-center gap-2.5">
+                    <span
+                      className="text-2xl leading-none"
+                      style={{ fontFamily: "var(--font-amiri,'Amiri'),serif", color: g(0.80) }}
+                    >
+                      {ann.word}
+                    </span>
+                    {ann.pattern && (
+                      <span
+                        className="text-sm leading-none text-zinc-400 dark:text-zinc-600"
+                        style={{ fontFamily: "var(--font-amiri,'Amiri'),serif" }}
+                      >
+                        {ann.pattern}
+                      </span>
+                    )}
+                  </div>
+                  <p className="mb-1.5 text-[10px] font-semibold uppercase tracking-[0.15em] text-zinc-500 dark:text-zinc-600">
+                    {ann.form}
+                  </p>
+                  <p className="text-xs leading-relaxed text-zinc-600 dark:text-zinc-400">
+                    {ann.significance}
+                  </p>
+                </div>
+              </div>
+            </div>
+          ))}
+        </div>
+      )}
+    </div>
+  )
+}
+
+function AyahCard({ ayah }: { ayah: GlossaryEntry['keyAyahs'][number] }) {
+  const hasMorphology = ayah.morphology && ayah.morphology.length > 0
+  return (
+    <div className="rounded-2xl border border-zinc-200 dark:border-white/[0.05] bg-zinc-50 dark:bg-white/[0.02] p-6">
+      <div
+        className="mb-3 inline-flex items-center rounded-full border px-3 py-0.5"
+        style={{ borderColor: g(0.18), background: g(0.07) }}
+      >
+        <span className="text-[10px] font-semibold tracking-wider" style={{ color: g(0.70) }}>
+          {ayah.ref}
+        </span>
+      </div>
+      <p
+        className="mb-4 text-right text-xl leading-loose text-navy-dark dark:text-cream/80"
+        style={{ fontFamily: "var(--font-amiri,'Amiri'),serif", direction: 'rtl' }}
+      >
+        {hasMorphology ? highlightArabicWords(ayah.arabic, ayah.morphology) : ayah.arabic}
+      </p>
+      <div className="my-4 h-px bg-zinc-200 dark:bg-white/[0.05]" />
+      <p className="mb-3 text-sm leading-relaxed text-zinc-700 dark:text-zinc-300 italic">
+        &ldquo;{ayah.translation}&rdquo;
+      </p>
+      <p className="text-xs leading-relaxed text-zinc-500">{ayah.note}</p>
+      {hasMorphology && <WordLens annotations={ayah.morphology!} />}
+    </div>
   )
 }
 
@@ -203,30 +304,7 @@ function QuranTab({ entry }: { entry: GlossaryEntry }) {
         <SectionLabel>Key ayahs</SectionLabel>
         <div className="space-y-5">
           {entry.keyAyahs.map((ayah) => (
-            <div
-              key={ayah.ref}
-              className="rounded-2xl border border-zinc-200 dark:border-white/[0.05] bg-zinc-50 dark:bg-white/[0.02] p-6"
-            >
-              <div
-                className="mb-3 inline-flex items-center rounded-full border px-3 py-0.5"
-                style={{ borderColor: g(0.18), background: g(0.07) }}
-              >
-                <span className="text-[10px] font-semibold tracking-wider" style={{ color: g(0.70) }}>
-                  {ayah.ref}
-                </span>
-              </div>
-              <p
-                className="mb-4 text-right text-xl leading-loose text-navy-dark dark:text-cream/80"
-                style={{ fontFamily: "var(--font-amiri,'Amiri'),serif", direction: 'rtl' }}
-              >
-                {ayah.arabic}
-              </p>
-              <div className="my-4 h-px bg-zinc-200 dark:bg-white/[0.05]" />
-              <p className="mb-3 text-sm leading-relaxed text-zinc-700 dark:text-zinc-300 italic">
-                &ldquo;{ayah.translation}&rdquo;
-              </p>
-              <p className="text-xs leading-relaxed text-zinc-500">{ayah.note}</p>
-            </div>
+            <AyahCard key={ayah.ref} ayah={ayah} />
           ))}
         </div>
       </div>

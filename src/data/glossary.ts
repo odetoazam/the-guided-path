@@ -18,11 +18,24 @@ export interface GlossaryMeta {
   hasFullEntry: boolean
 }
 
+export interface WordAnnotation {
+  /** The Arabic word as it appears in the ayah */
+  word: string
+  /** Human-readable morphological form: "Form II verb (intensive/causative)" */
+  form: string
+  /** The Arabic pattern (wazn) if applicable: "فَعَّلَ" */
+  pattern?: string
+  /** Why this form matters — the theological/rhetorical insight */
+  significance: string
+}
+
 export interface KeyAyah {
   ref: string
   arabic: string
   translation: string
   note: string
+  /** Morphological annotations for words derived from this entry's root */
+  morphology?: WordAnnotation[]
 }
 
 export interface ScholarNote {
@@ -349,7 +362,16 @@ export const GLOSSARY_ENTRIES: Record<string, GlossaryEntry> = {
           'Indeed, Allah loves those who constantly return to Him, and He loves those who purify themselves.',
         note:
           "The word is التَّوَّابِين — not those who repented once, but those whose nature is to return. It reframes tawbah from a crisis response into a way of being. Crucially, the verse links returning with love — not just forgiveness. This is one of the rare places the Quran says Allah loves.",
+      
+      morphology: [
+      {
+        word: 'تَّوَّٰبِينَ',
+        form: 'Active participle',
+        pattern: 'فَاعِل',
+        significance: 'The active participle marks an ongoing state, not a completed action. This is not someone who did the action once but someone who IS in the state of doing it — a defining characteristic, not a past event.',
       },
+      ],
+    },
       {
         ref: '9:104',
         arabic:
@@ -358,7 +380,21 @@ export const GLOSSARY_ENTRIES: Record<string, GlossaryEntry> = {
           'Do they not know that it is Allah — He Himself — who accepts repentance from His servants and receives their charities, and that it is Allah who is the Ever-Accepting of Return, the Merciful?',
         note:
           "The grammatical emphasis هُوَ — 'He Himself' — makes the acceptance exclusive and direct. No intermediary, no priest, no community. The act is between servant and Lord alone. That this surah is named At-Tawbah despite covering military and political events reveals how foundational the concept is to the Quran's moral architecture.",
+      
+      morphology: [
+      {
+        word: 'تَّوْبَةَ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      {
+        word: 'تَّوَّابُ',
+        form: 'Active participle',
+        pattern: 'فَاعِل',
+        significance: 'The active participle marks an ongoing state, not a completed action. This is not someone who did the action once but someone who IS in the state of doing it — a defining characteristic, not a past event.',
+      },
+      ],
+    },
       {
         ref: '39:53',
         arabic:
@@ -613,7 +649,21 @@ What is distinctively Quranic is the insistence that there is no sin beyond the 
         arabic: 'يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱسْتَعِينُوا۟ بِٱلصَّبْرِ وَٱلصَّلَوٰةِ ۚ إِنَّ ٱللَّهَ مَعَ ٱلصَّٰبِرِينَ',
         translation: 'O you who believe, seek help through patience and prayer. Indeed, Allah is with the patient.',
         note: "The command is to seek help through sabr — meaning sabr is not an end in itself but a tool. And the promise is not reward but presence: إِنَّ ٱللَّهَ مَعَ — 'Allah is with.' This is among the most intimate expressions of divine accompaniment in the Quran.",
+      
+      morphology: [
+      {
+        word: 'صَّبْرِ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      {
+        word: 'صَّٰبِرِينَ',
+        form: 'Active participle',
+        pattern: 'فَاعِل',
+        significance: 'The active participle marks an ongoing state, not a completed action. This is not someone who did the action once but someone who IS in the state of doing it — a defining characteristic, not a past event.',
+      },
+      ],
+    },
       {
         ref: '2:156-157',
         arabic: 'ٱلَّذِينَ إِذَآ أَصَٰبَتْهُم مُّصِيبَةٌ قَالُوٓا۟ إِنَّا لِلَّهِ وَإِنَّآ إِلَيْهِ رَٰجِعُونَ ۝ أُو۟لَٰٓئِكَ عَلَيْهِمْ صَلَوَٰتٌ مِّن رَّبِّهِمْ وَرَحْمَةٌ',
@@ -625,7 +675,16 @@ What is distinctively Quranic is the insistence that there is no sin beyond the 
         arabic: 'إِنَّمَا يُوَفَّى ٱلصَّٰبِرُونَ أَجْرَهُم بِغَيْرِ حِسَابٍ',
         translation: 'Indeed, the patient will be given their reward without measure.',
         note: "Every other deed in the Quran is rewarded by measure — ten to seven hundred times. Sabr alone receives بِغَيْرِ حِسَابٍ, 'without account.' The scholars ask: why? Because sabr cannot be measured — you cannot count how many times someone chose not to collapse. Its reward is fittingly immeasurable.",
+      
+      morphology: [
+      {
+        word: 'صَّٰبِرُونَ',
+        form: 'Active participle',
+        pattern: 'فَاعِل',
+        significance: 'The active participle marks an ongoing state, not a completed action. This is not someone who did the action once but someone who IS in the state of doing it — a defining characteristic, not a past event.',
       },
+      ],
+    },
     ],
 
     practicalSection: {
@@ -725,13 +784,37 @@ What is distinctively Quranic is the promise that sabr is *witnessed* and *rewar
         arabic: 'وَمَن يَتَوَكَّلْ عَلَى ٱللَّهِ فَهُوَ حَسْبُهُۥ',
         translation: 'And whoever relies upon Allah — then He is sufficient for him.',
         note: "The syntax is absolute: whoever. No qualifying condition, no minimum amount of faith required. The promise حَسْبُهُۥ — 'He is sufficient for him' — is one of the Quran's most complete assurances. Not 'He will help' but 'He is enough.' This verse follows the command to act (divorce proceedings, iddah observance) — action comes first, then tawakkul.",
+      
+      morphology: [
+      {
+        word: 'يَتَوَكَّلْ',
+        form: 'Form V verb (present) — reflexive of intensive',
+        pattern: 'تَفَعَّلَ',
+        significance: 'Form V is reflexive of the intensive — the subject performs the intensified action upon themselves. This is self-directed, deliberate, and thorough engagement. The present tense signals an ongoing, continuous practice.',
       },
+      ],
+    },
       {
         ref: '3:159',
         arabic: 'فَإِذَا عَزَمْتَ فَتَوَكَّلْ عَلَى ٱللَّهِ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَوَكِّلِينَ',
         translation: 'And when you have decided, then rely upon Allah. Indeed, Allah loves those who rely [upon Him].',
         note: "The order is precise: decide first (عَزَمْتَ = you have made the decision), *then* make tawakkul. This verse comes directly after a command to consult others and deliberate — meaning tawakkul is the final step of full engagement, not a replacement for it. And again the language of love: Allah loves the mutawakkilīn.",
+      
+      morphology: [
+      {
+        word: 'تَوَكَّلْ',
+        form: 'Form V verb (imperative) — reflexive of intensive',
+        pattern: 'تَفَعَّلَ',
+        significance: 'Form V is reflexive of the intensive — the subject performs the intensified action upon themselves. This is self-directed, deliberate, and thorough engagement. The imperative makes this a direct divine command.',
       },
+      {
+        word: 'مُتَوَكِّلِينَ',
+        form: 'Active participle',
+        pattern: 'مُتَفَعِّل',
+        significance: 'The reflexive active participle marks someone in an ongoing state of self-directed action — not a one-time event but a sustained condition of the self.',
+      },
+      ],
+    },
       {
         ref: '14:12',
         arabic: 'وَمَا لَنَآ أَلَّا نَتَوَكَّلَ عَلَى ٱللَّهِ وَقَدْ هَدَىٰنَا سُبُلَنَا',
@@ -834,19 +917,46 @@ What is distinctively Quranic is the precision: the Quran commands action (delib
         arabic: 'قَدْ أَفْلَحَ ٱلْمُؤْمِنُونَ ٱلَّذِينَ هُمْ فِى صَلَاتِهِمْ خَٰشِعُونَ',
         translation: 'Successful indeed are the believers — those who in their prayer have khushu\'.',
         note: "The Quran opens its portrait of the successful believer not with the number of prayers, the length of worship, or the level of knowledge — but with this interior quality. Among all the virtues that could lead the list, it is khushu' in prayer. That placement is the Quran's commentary on what makes worship real.",
+      
+      morphology: [
+      {
+        word: 'خَٰشِعُونَ',
+        form: 'Active participle',
+        pattern: 'فَاعِل',
+        significance: 'The active participle marks an ongoing state, not a completed action. This is not someone who did the action once but someone who IS in the state of doing it — a defining characteristic, not a past event.',
       },
+      ],
+    },
       {
         ref: '59:21',
         arabic: 'لَوْ أَنزَلْنَا هَٰذَا ٱلْقُرْءَانَ عَلَىٰ جَبَلٍ لَّرَأَيْتَهُۥ خَٰشِعًا مُّتَصَدِّعًا مِّنْ خَشْيَةِ ٱللَّهِ',
         translation: 'Had We sent down this Quran upon a mountain, you would have seen it humble itself and split apart from the awe of Allah.',
         note: "This is the Quran's indirect diagnosis: if a mountain would crack open in khushu', what should the human heart be doing when it receives these words? The image is not to inspire fear but to measure — to help us feel the gap between what the Quran deserves and what we often bring to it.",
+      
+      morphology: [
+      {
+        word: 'خَٰشِعًا',
+        form: 'Active participle',
+        pattern: 'فَاعِل',
+        significance: 'The active participle marks an ongoing state, not a completed action. This is not someone who did the action once but someone who IS in the state of doing it — a defining characteristic, not a past event.',
       },
+      ],
+    },
       {
         ref: '2:45',
         arabic: 'وَٱسْتَعِينُوا۟ بِٱلصَّبْرِ وَٱلصَّلَوٰةِ ۚ وَإِنَّهَا لَكَبِيرَةٌ إِلَّا عَلَى ٱلْخَٰشِعِينَ',
         translation: 'And seek help through patience and prayer — and indeed it is heavy except upon those who have khushu\'.',
         note: "Prayer, the Quran acknowledges, is heavy (kabīra). It is hard to do consistently and with presence. But the caveat: for those who have khushu', it is not heavy at all. The presence that makes prayer genuinely prayer also makes it genuinely light. This is both a diagnostic and a motivation: develop khushu' and prayer transforms.",
+      
+      morphology: [
+      {
+        word: 'خَٰشِعِينَ',
+        form: 'Active participle',
+        pattern: 'فَاعِل',
+        significance: 'The active participle marks an ongoing state, not a completed action. This is not someone who did the action once but someone who IS in the state of doing it — a defining characteristic, not a past event.',
       },
+      ],
+    },
     ],
 
     practicalSection: {
@@ -943,13 +1053,31 @@ What is distinctively Quranic about khushu' is its placement: not in advanced my
         arabic: 'فَأَصْبَحَ مِنَ ٱلنَّٰدِمِينَ',
         translation: 'And he became of the regretful.',
         note: "This is Qabil — who killed his brother and then watched a raven show him how to bury a body. The nadam here is devastating because it came too late to change anything and led to no turning back to Allah. This is nadam as dead end: the feeling without the movement. The Quran records it without judgment — simply: he regretted. What that regret became, it does not say.",
+      
+      morphology: [
+      {
+        word: 'نَّٰدِمِينَ',
+        form: 'Active participle',
+        pattern: 'فَاعِل',
+        significance: 'The active participle marks an ongoing state, not a completed action. This is not someone who did the action once but someone who IS in the state of doing it — a defining characteristic, not a past event.',
       },
+      ],
+    },
       {
         ref: '49:6',
         arabic: 'فَتُصْبِحُوا۟ عَلَىٰ مَا فَعَلْتُمْ نَٰدِمِينَ',
         translation: 'And you would become regretful over what you have done.',
         note: "This verse warns against acting on unverified news — you may harm innocent people and then feel nadam. Here nadam is used as a warning, not a state to aspire to. The prevention is better than the cure. This Quranic usage reveals that nadam, while the seed of tawbah, is ideally avoided altogether by careful action.",
+      
+      morphology: [
+      {
+        word: 'نَٰدِمِينَ',
+        form: 'Active participle',
+        pattern: 'فَاعِل',
+        significance: 'The active participle marks an ongoing state, not a completed action. This is not someone who did the action once but someone who IS in the state of doing it — a defining characteristic, not a past event.',
       },
+      ],
+    },
       {
         ref: '39:56',
         arabic: 'أَن تَقُولَ نَفْسٌ يَٰحَسْرَتَىٰ عَلَىٰ مَا فَرَّطتُ فِى جَنۢبِ ٱللَّهِ',
@@ -1055,13 +1183,31 @@ What is distinctively Quranic is the framing of nadam as functional: it is not t
         arabic: 'لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ ۖ وَلَئِن كَفَرْتُمْ إِنَّ عَذَابِى لَشَدِيدٌ',
         translation: 'If you are grateful, I will surely increase you; but if you deny, indeed My punishment is severe.',
         note: "This is the Quranic charter for shukr — a conditional promise of the highest order. The contrast with kufr (denial/ingratitude) is deliberate: the Quran frames ingratitude not just as impolite but as a form of disbelief in the reality of the gift. The increase promised (la-azīdannakum) is left unspecified — more of whatever you are grateful for, in ways you may not expect.",
+      
+      morphology: [
+      {
+        word: 'شَكَرْ',
+        form: 'Form I verb (past)',
+        pattern: 'فَعَلَ',
+        significance: 'The base verb form — the simplest, most direct expression of the action. The past/perfect tense marks a completed, definitive action — something that has been decided and done.',
       },
+      ],
+    },
       {
         ref: '2:152',
         arabic: 'فَٱذْكُرُونِىٓ أَذْكُرْكُمْ وَٱشْكُرُوا۟ لِى وَلَا تَكْفُرُونِ',
         translation: 'So remember Me; I will remember you. And be grateful to Me and do not deny Me.',
         note: "Here shukr is placed alongside dhikr (remembrance) as the two essential responses to divine relationship. The pairing is significant: remembrance is the cognitive act, gratitude is the affective act. Together they constitute presence before Allah. The prohibition 'do not be ungrateful' uses the same root as kufr — again making ingratitude adjacent to disbelief.",
+      
+      morphology: [
+      {
+        word: 'ٱشْكُرُ',
+        form: 'Form I verb (imperative)',
+        pattern: 'فَعَلَ',
+        significance: 'The base verb form — the simplest, most direct expression of the action. The imperative is a direct command — not a suggestion or recommendation but a divine instruction requiring response.',
       },
+      ],
+    },
       {
         ref: '31:12',
         arabic: 'وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌ',
@@ -1165,13 +1311,29 @@ What is uniquely Quranic is the feedback loop: shukr produces increase (14:7), w
         arabic: 'وَمِن وَرَآئِهِم بَرْزَخٌ إِلَىٰ يَوْمِ يُبْعَثُونَ',
         translation: 'And behind them is a barzakh until the Day they are resurrected.',
         note: "This is the defining verse for the theological usage of barzakh. The soul at death enters a barrier-state — it cannot return to the world it left, and it has not yet reached the world to come. The verse appears in the context of those who, at death, finally wish they could return to do righteous deeds: the door is closed. The barzakh seals what was, and holds everything until resurrection.",
+      
+      morphology: [
+      {
+        word: 'بَرْزَخٌ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
       {
         ref: '25:53',
         arabic: 'وَهُوَ ٱلَّذِى مَرَجَ ٱلْبَحْرَيْنِ هَٰذَا عَذْبٌ فُرَاتٌ وَهَٰذَا مِلْحٌ أُجَاجٌ وَجَعَلَ بَيْنَهُمَا بَرْزَخًا وَحِجْرًا مَّحْجُورًا',
         translation: 'And it is He who has released the two seas — one fresh and sweet, and one salty and bitter — and placed between them a barrier and a forbidden partition.',
         note: "Here barzakh is a physical metaphor: the fresh and salt water meet at estuaries and coasts but do not fully merge. Modern oceanography has noted the phenomenon of haloclines — salinity gradients that can maintain distinct water masses. The Quran uses this physical reality as a sign pointing to a deeper pattern: Allah places barriers that preserve distinction. The barzakh of death is of the same order.",
+      
+      morphology: [
+      {
+        word: 'بَرْزَخًا',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
       {
         ref: '55:19–20',
         arabic: 'مَرَجَ ٱلْبَحْرَيْنِ يَلْتَقِيَانِ ۝ بَيْنَهُمَا بَرْزَخٌ لَّا يَبْغِيَانِ',
@@ -1284,7 +1446,20 @@ What makes the Quranic barzakh unusual in comparative religion is its deliberate
         arabic: 'وَعَدَ ٱللَّهُ ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا وَمَسَٰكِنَ طَيِّبَةً فِى جَنَّٰتِ عَدْنٍ ۚ وَرِضْوَٰنٌ مِّنَ ٱللَّهِ أَكْبَرُ',
         translation: "Allah has promised the believing men and believing women gardens beneath which rivers flow — eternal therein — and pleasant dwellings in gardens of perpetual residence. But the approval of Allah is greatest.",
         note: "The verse lists the physical pleasures of jannah — gardens, rivers, dwellings — and then pivots on a hinge: 'wa-riḍwānun min Allāh akbar.' The contentment/approval of Allah is greater than all of that. The scholars call this the crown of jannah: not the reward you receive but the relationship it represents. To have Allah pleased with you — that is the essence.",
+      
+      morphology: [
+      {
+        word: 'جَنَّٰتٍ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      {
+        word: 'جَنَّٰتِ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
+      },
+      ],
+    },
       {
         ref: '32:17',
         arabic: 'فَلَا تَعْلَمُ نَفْسٌ مَّآ أُخْفِىَ لَهُم مِّن قُرَّةِ أَعْيُنٍ جَزَآءًۢ بِمَا كَانُوا۟ يَعْمَلُونَ',
@@ -1392,19 +1567,43 @@ What is distinctly Quranic is the insistence that jannah's descriptions are give
         arabic: 'ٱلَّذِينَ يُؤْمِنُونَ بِٱلْغَيْبِ وَيُقِيمُونَ ٱلصَّلَوٰةَ وَمِمَّا رَزَقْنَٰهُمْ يُنفِقُونَ',
         translation: 'Those who believe in al-ghayb, and establish prayer, and spend from what We have provided for them.',
         note: "The Quran's opening description of successful believers begins here — with belief in al-ghayb as the first quality named. This is architecturally deliberate: everything else (prayer, charity, belief in the prophets) builds on this foundation. A person who only believes what they can see and measure has, in the Quranic view, made their senses the final authority — which is a form of shirk (association) at the epistemological level.",
+      
+      morphology: [
+      {
+        word: 'غَيْبِ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
       {
         ref: '6:59',
         arabic: 'وَعِندَهُۥ مَفَاتِحُ ٱلْغَيْبِ لَا يَعْلَمُهَآ إِلَّا هُوَ',
         translation: 'And with Him are the keys of the unseen; none knows them except Him.',
         note: "The mafātiḥ al-ghayb — the keys of the unseen — are then elaborated in the following verse as the five matters which only Allah knows (enumerated in 31:34 and the hadith of Jibril): the Hour of resurrection, rainfall, what is in the wombs, what anyone will earn tomorrow, and where anyone will die. These five (al-umūr al-khams) become a cornerstone of Islamic theology: they are the specific limit of ghayb that no human can access.",
+      
+      morphology: [
+      {
+        word: 'غَيْبِ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
       {
         ref: '72:26',
         arabic: 'عَٰلِمُ ٱلْغَيْبِ فَلَا يُظْهِرُ عَلَىٰ غَيْبِهِۦٓ أَحَدًا',
         translation: 'Knower of the unseen — He does not disclose His unseen to anyone,',
         note: "The verse continues: 'except to a messenger He has approved.' This establishes the principle of waḥy (revelation) as the only legitimate channel through which ghayb can be known by humans. The prophets receive ghayb through revelation; astrologers, psychics, and fortune-tellers claim ghayb without this channel — which is why the Quran and sunnah treat such claims as falsehood.",
+      
+      morphology: [
+      {
+        word: 'غَيْبِ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
     ],
 
     practicalSection: {
@@ -1503,7 +1702,15 @@ Interestingly, modern physics has introduced concepts that function somewhat lik
         arabic: 'وَلَا يَأْتُونَكَ بِمَثَلٍ إِلَّا جِئْنَٰكَ بِٱلْحَقِّ وَأَحْسَنَ تَفْسِيرًا',
         translation: 'And they do not come to you with an argument except that We bring you the truth and the best tafsir.',
         note: "The only verse in the Quran containing the word tafsīr — and it is Allah speaking of His own Quran as the best explanation of itself. This establishes the first and highest principle of tafsir: al-Quran yufassiru baʿḍuhu baʿḍan — 'the Quran explains parts of itself through other parts.' When a verse is ambiguous, the first place to look is the Quran itself.",
+      
+      morphology: [
+      {
+        word: 'تَفْسِيرًا',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
       {
         ref: '75:19',
         arabic: 'ثُمَّ إِنَّ عَلَيْنَا بَيَانَهُۥ',
@@ -1613,13 +1820,31 @@ What makes Islamic tafsir distinctive is its insistence on the Arabic language a
         arabic: 'أَفَلَا يَتَدَبَّرُونَ ٱلْقُرْءَانَ ۚ وَلَوْ كَانَ مِنْ عِندِ غَيْرِ ٱللَّهِ لَوَجَدُوا۟ فِيهِ ٱخْتِلَٰفًا كَثِيرًا',
         translation: 'Do they not reflect on the Quran? If it had been from anyone other than Allah, they would have found in it much contradiction.',
         note: "The first Quranic occurrence of the tadabbur command — and its form is a rebuke: 'do they not?' The tadabbur of the Quran is also an argument for its divine origin: sustained reflection reveals a coherence that cannot be humanly produced. This verse makes tadabbur simultaneously a spiritual practice and an intellectual exercise. The one who does it properly discovers both its effect on the heart and its evidence for the mind.",
+      
+      morphology: [
+      {
+        word: 'يَتَدَبَّرُ',
+        form: 'Form V verb (present) — reflexive of intensive',
+        pattern: 'تَفَعَّلَ',
+        significance: 'Form V is reflexive of the intensive — the subject performs the intensified action upon themselves. This is self-directed, deliberate, and thorough engagement. The present tense signals an ongoing, continuous practice.',
       },
+      ],
+    },
       {
         ref: '47:24',
         arabic: 'أَفَلَا يَتَدَبَّرُونَ ٱلْقُرْءَانَ أَمْ عَلَىٰ قُلُوبٍ أَقْفَالُهَآ',
         translation: 'Do they not reflect on the Quran, or are there locks on their hearts?',
         note: "Perhaps the most striking of the tadabbur verses — and the most diagnostic. The failure to engage in tadabbur is attributed to a spiritual condition: aqfāl (locks) on the hearts. The Quran is not unclear; the hearts are locked. This makes tadabbur not merely an intellectual method but a spiritual state — the heart must be unlocked (through tawbah, dhikr, sincere intention) before the meanings of the Quran can enter.",
+      
+      morphology: [
+      {
+        word: 'يَتَدَبَّرُ',
+        form: 'Form V verb (present) — reflexive of intensive',
+        pattern: 'تَفَعَّلَ',
+        significance: 'Form V is reflexive of the intensive — the subject performs the intensified action upon themselves. This is self-directed, deliberate, and thorough engagement. The present tense signals an ongoing, continuous practice.',
       },
+      ],
+    },
       {
         ref: '38:29',
         arabic: 'كِتَٰبٌ أَنزَلْنَٰهُ إِلَيْكَ مُبَٰرَكٌ لِّيَدَّبَّرُوٓا۟ءَايَٰتِهِۦ وَلِيَتَذَكَّرَ أُو۟لُوا۟ ٱلْأَلْبَٰبِ',
@@ -1834,13 +2059,29 @@ What remains uniquely Islamic about the doctrine of nazm is its theological clai
         arabic: 'فَأَمَّا مَن ثَقُلَتْ مَوَٰزِينُهُۥ ۝ فَهُوَ فِى عِيشَةٍ رَّاضِيَةٍ ۝ وَأَمَّا مَن خَفَّتْ مَوَٰزِينُهُۥ ۝ فَأُمُّهُۥ هَاوِيَةٌ',
         translation: "As for one whose scales are heavy — he will be in a pleasing life. But as for one whose scales are light — his refuge is the Pit.",
         note: "Surah Al-Qari'ah presents the two outcomes with stark economy: thaqulat (heavy) versus khaffat (light). The scales tip. The result is permanent. The Quran's eschatological precision here is theologically significant — the outcome is proportional and just, not capricious. What made the scales heavy was the quality of the life lived.",
+      
+      morphology: [
+      {
+        word: 'مَوَٰزِينُ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
       {
         ref: '21:47',
         arabic: 'وَنَضَعُ ٱلْمَوَٰزِينَ ٱلْقِسْطَ لِيَوْمِ ٱلْقِيَٰمَةِ فَلَا تُظْلَمُ نَفْسٌ شَيْـًٔا',
         translation: "We shall set up the scales of justice for the Day of Resurrection — and no soul will be wronged at all.",
         note: "The phrase mawazin al-qisṭ — the scales of justice — contains a double assurance: the scales exist (they will be set up, naḍaʿu) and they are just (al-qisṭ). Then the most comprehensive guarantee in Quranic eschatology: lā tuẓlamu nafsun shayʾan — not a soul will be wronged even by the weight of a thing. This verse is a mercy: it means the accounting is real and it is fair.",
+      
+      morphology: [
+      {
+        word: 'مَوَٰزِينَ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
       {
         ref: '99:7–8',
         arabic: 'فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُۥ ۝ وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُۥ',
@@ -2378,13 +2619,41 @@ The condition of mahabbah is mutual. The Quran does not only speak of the human'
         arabic: 'وَٱلَّذِينَ ءَامَنُوٓا۟ أَشَدُّ حُبًّا لِّلَّهِ',
         translation: 'And those who believe are most intense in love for Allah.',
         note: "The most defining statement on mahabbah in the Quran. The word ashadu (most intense) is the superlative — faith is measured not only by what you believe but by how much you love. The verse is set against the idolaters who love their idols: the believers' love for Allah is stronger than any rival love. This is both a description and a standard.",
+      
+      morphology: [
+      {
+        word: 'يُحِبُّ',
+        form: 'Form IV verb (present) — causative',
+        pattern: 'أَفْعَلَ',
+        significance: 'Form IV is causative — it means to bring about the action in another or to make something happen. The agent here is the initiator of a process, not merely its performer.',
       },
+      {
+        word: 'حُبِّ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
+      },
+      {
+        word: 'حُبًّا',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
+      },
+      ],
+    },
       {
         ref: '5:54',
         arabic: 'يُحِبُّهُمْ وَيُحِبُّونَهُ',
         translation: 'He loves them and they love Him.',
         note: "The Quran's most intimate declaration: divine love is not one-directional. Allah loves certain people — the humble, the patient, the righteous — and they love Him in return. This mutuality is the heart of the spiritual path. The scholars say: to know that Allah loves you is the beginning of transformation.",
+      
+      morphology: [
+      {
+        word: 'يُحِبُّ',
+        form: 'Form IV verb (present) — causative',
+        pattern: 'أَفْعَلَ',
+        significance: 'Form IV is causative — it means to bring about the action in another or to make something happen. The agent here is the initiator of a process, not merely its performer.',
       },
+      ],
+    },
       {
         ref: '3:31',
         arabic: 'قُلْ إِن كُنتُمْ تُحِبُّونَ ٱللَّهَ فَٱتَّبِعُونِى يُحْبِبْكُمُ ٱللَّهُ',
@@ -2482,7 +2751,15 @@ There is also a more elevated form of khawf that the scholars distinguish from o
         arabic: 'تَتَجَافَىٰ جُنُوبُهُمْ عَنِ ٱلْمَضَاجِعِ يَدْعُونَ رَبَّهُمْ خَوْفًا وَطَمَعًا',
         translation: 'Their sides forsake their beds; they call upon their Lord in fear and hope.',
         note: "The definitive Quranic description of the people of the night — those who give up sleep to worship. The pairing of khawf and hope (tama') is programmatic: neither alone is sufficient. This verse is often cited as the model for the balanced heart.",
+      
+      morphology: [
+      {
+        word: 'خَوْفًا',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
       {
         ref: '35:28',
         arabic: 'إِنَّمَا يَخْشَى ٱللَّهَ مِنْ عِبَادِهِ ٱلْعُلَمَٰٓؤُا۟',
@@ -2494,7 +2771,15 @@ There is also a more elevated form of khawf that the scholars distinguish from o
         arabic: 'وَلَنَبْلُوَنَّكُم بِشَىْءٍ مِّنَ ٱلْخَوْفِ وَٱلْجُوعِ',
         translation: 'And We will surely test you with something of fear and hunger.',
         note: "Allah names khawf as one of the instruments of divine testing — an external fear (of enemies, of insecurity) that tests the heart's reliance. The distinction between this external khawf and the internal khawf of reverence is important: one is a test; the other is a response to the tester.",
+      
+      morphology: [
+      {
+        word: 'خَوْفِ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
     ],
 
     practicalSection: {
@@ -2688,13 +2973,37 @@ Ikhlas is what makes deeds weigh on the scale. The scholars of the heart say: a 
         arabic: 'وَمَآ أُمِرُوٓا۟ إِلَّا لِيَعْبُدُوا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ',
         translation: 'And they were not commanded except to worship Allah, sincere to Him in religion.',
         note: "The most direct Quranic statement of what religion ultimately demands: to worship Allah with ikhlas. The scholars say this verse contains the essence of the entire Quran. All the commands, all the prohibitions, all the beliefs — they are all in service of this: worship that is purified of everything other than Allah.",
+      
+      morphology: [
+      {
+        word: 'مُخْلِصِينَ',
+        form: 'Active participle',
+        pattern: 'مُفْعِل',
+        significance: 'The Form IV active participle marks the agent of a causative action — one who brings about a state in others or in the world.',
       },
+      ],
+    },
       {
         ref: '39:2-3',
         arabic: 'فَٱعْبُدِ ٱللَّهَ مُخْلِصًا لَّهُ ٱلدِّينَ ۗ أَلَا لِلَّهِ ٱلدِّينُ ٱلْخَالِصُ',
         translation: 'So worship Allah, sincere to Him in religion. Unquestionably, to Allah belongs pure religion.',
         note: "The phrase al-din al-khalis (the pure/sincere religion) is the Quranic definition of authentic worship. Al-Khalis is the superlative-intensified form of khalasa — utterly pure, free of all contamination. Pure religion is religion with ikhlas.",
+      
+      morphology: [
+      {
+        word: 'مُخْلِصًا',
+        form: 'Active participle',
+        pattern: 'مُفْعِل',
+        significance: 'The Form IV active participle marks the agent of a causative action — one who brings about a state in others or in the world.',
       },
+      {
+        word: 'خَالِصُ',
+        form: 'Active participle',
+        pattern: 'فَاعِل',
+        significance: 'The active participle marks an ongoing state, not a completed action. This is not someone who did the action once but someone who IS in the state of doing it — a defining characteristic, not a past event.',
+      },
+      ],
+    },
       {
         ref: '112:1-4',
         arabic: 'قُلْ هُوَ ٱللَّهُ أَحَدٌ ۝ ٱللَّهُ ٱلصَّمَدُ ۝ لَمْ يَلِدْ وَلَمْ يُولَدْ ۝ وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌ',
@@ -3001,13 +3310,34 @@ The scholars of the heart spent most of their attention on the nafs — on diagn
         arabic: 'وَنَفْسٍ وَمَا سَوَّىٰهَا ۝ فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَىٰهَا ۝ قَدْ أَفْلَحَ مَن زَكَّىٰهَا ۝ وَقَدْ خَابَ مَن دَسَّىٰهَا',
         translation: 'By the nafs and He who proportioned it — and inspired it with its wickedness and its taqwa — he has succeeded who purifies it, and he has failed who buries it.',
         note: "The most important Quranic statement on the nafs. Both wickedness and taqwa were 'inspired' into the nafs — meaning the capacity for both is built in. Success (falah) is the purification (tazkiya) of the nafs; failure is its burial (dass — to bury, to suppress under layers of indulgence). The imagery is agricultural: the nafs is a field, not a wall.",
+      
+      morphology: [
+      {
+        word: 'نَفْسٍ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
       {
         ref: '12:53',
         arabic: 'إِنَّ ٱلنَّفْسَ لَأَمَّارَةٌۢ بِٱلسُّوٓءِ إِلَّا مَا رَحِمَ رَبِّى',
         translation: 'Indeed, the nafs is commanding to evil — except what my Lord has mercy upon.',
         note: "The words of Yusuf ﷺ — acknowledging the commanding nature of the self even after emerging from his greatest test with his integrity intact. The exception clause ('except what my Lord has mercy upon') is the scholars' key: the nafs ammara is not the inevitable fate of the person — mercy can transform it. The one who was the most tested acknowledged it most honestly.",
+      
+      morphology: [
+      {
+        word: 'نَفْسِ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      {
+        word: 'نَّفْسَ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
+      },
+      ],
+    },
       {
         ref: '89:27-30',
         arabic: 'يَٰٓأَيَّتُهَا ٱلنَّفْسُ ٱلْمُطْمَئِنَّةُ ۝ ٱرْجِعِىٓ إِلَىٰ رَبِّكِ رَاضِيَةً مَّرْضِيَّةً ۝ فَٱدْخُلِى فِى عِبَٰدِى ۝ وَٱدْخُلِى جَنَّتِى',
@@ -3104,13 +3434,34 @@ The ruh is what departs at death — it is taken by the angel of death and carri
         arabic: 'وَيَسْـَٔلُونَكَ عَنِ ٱلرُّوحِ ۖ قُلِ ٱلرُّوحُ مِنْ أَمْرِ رَبِّى وَمَآ أُوتِيتُم مِّنَ ٱلْعِلْمِ إِلَّا قَلِيلًا',
         translation: 'They ask you about the ruh. Say: The ruh is from the command of my Lord, and of knowledge you have been given only a little.',
         note: "The Quran's direct and final statement on the ruh. The questioners wanted a philosophical answer; they received a statement of limits. The scholars say this verse is among the most important in the Quran for its epistemology: there are questions the Quran does not answer, and knowing that these questions exist is itself part of faith.",
+      
+      morphology: [
+      {
+        word: 'رُّوحِ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      {
+        word: 'رُّوحُ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
+      },
+      ],
+    },
       {
         ref: '15:29',
         arabic: 'فَإِذَا سَوَّيْتُهُۥ وَنَفَخْتُ فِيهِ مِن رُّوحِى فَقَعُوا۟ لَهُۥ سَٰجِدِينَ',
         translation: 'So when I have proportioned him and breathed into him from My spirit, fall down to him in prostration.',
         note: "The moment of Adam's creation — the divine breath makes clay into a human being worthy of the angels' prostration. The scholars say: the breath that dignified humanity is the reason humanity carries a dignity that angels were commanded to honor. The ruh is the source of the human's unique station in creation.",
+      
+      morphology: [
+      {
+        word: 'رُّوحِ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
       {
         ref: '32:9',
         arabic: 'ثُمَّ سَوَّىٰهُ وَنَفَخَ فِيهِ مِن رُّوحِهِۦ ۖ وَجَعَلَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَٰرَ وَٱلْأَفْـِٔدَةَ',
@@ -3211,13 +3562,29 @@ What the Quran emphasizes most is not the metaphysics of qadar but its effect on
         arabic: 'إِنَّا كُلَّ شَىْءٍ خَلَقْنَٰهُ بِقَدَرٍ',
         translation: 'Indeed, all things We have created with measure (qadar).',
         note: "The Quran's most comprehensive statement of divine qadar: everything — not most things, not important things — has been created with precise divine measurement. The word 'qadar' here carries both the sense of decree and of proportion: everything is exactly as much as it is meant to be.",
+      
+      morphology: [
+      {
+        word: 'قَدَرٍ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
       {
         ref: '65:3',
         arabic: 'وَمَن يَتَوَكَّلْ عَلَى ٱللَّهِ فَهُوَ حَسْبُهُۥٓ ۚ إِنَّ ٱللَّهَ بَٰلِغُ أَمْرِهِۦ ۚ قَدْ جَعَلَ ٱللَّهُ لِكُلِّ شَىْءٍ قَدْرًا',
         translation: 'Whoever relies upon Allah — He is sufficient for him. Indeed, Allah will accomplish His purpose. Allah has already set a measure (qadar) for all things.',
         note: "Qadar and tawakkul are paired here: trust in Allah is rational precisely because all things have been measured and determined by Allah. The one who trusts in Allah is trusting in the One who has already measured the outcome. Qadar is the theological foundation of tawakkul.",
+      
+      morphology: [
+      {
+        word: 'قَدْرًا',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
     ],
 
     practicalSection: {
@@ -3308,7 +3675,21 @@ The Quran makes fitrah the basis of the divine covenant (mithaq — 7:172): befo
         arabic: 'فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا ۚ فِطْرَتَ ٱللَّهِ ٱلَّتِى فَطَرَ ٱلنَّاسَ عَلَيْهَا ۚ لَا تَبْدِيلَ لِخَلْقِ ٱللَّهِ',
         translation: 'So direct your face toward the religion, inclining toward truth. [Adhere to] the fitrah of Allah upon which He has created [all] people. No change should there be in the creation of Allah.',
         note: "The verse that defines fitrah in the Quran. The command is to align with the fitrah — not to create it, but to return to it, to stop covering it over. 'No change in the creation of Allah' means fitrah is permanent — it cannot be destroyed, only buried. The goal of Islamic practice is to uncover what was always there.",
+      
+      morphology: [
+      {
+        word: 'فِطْرَتَ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      {
+        word: 'فَطَرَ',
+        form: 'Form I verb (past)',
+        pattern: 'فَعَلَ',
+        significance: 'The base verb form — the simplest, most direct expression of the action. The past/perfect tense marks a completed, definitive action — something that has been decided and done.',
+      },
+      ],
+    },
       {
         ref: '7:172',
         arabic: 'وَإِذْ أَخَذَ رَبُّكَ مِنۢ بَنِىٓ ءَادَمَ مِن ظُهُورِهِمْ ذُرِّيَّتَهُمْ وَأَشْهَدَهُمْ عَلَىٰٓ أَنفُسِهِمْ أَلَسْتُ بِرَبِّكُمْ ۖ قَالُوا۟ بَلَىٰ',
@@ -3411,13 +3792,30 @@ The deeper dimension of rizq in the Quran is spiritual: Allah is the source not 
         arabic: 'وَمَا مِن دَآبَّةٍ فِى ٱلْأَرْضِ إِلَّا عَلَى ٱللَّهِ رِزْقُهَا',
         translation: 'And there is no creature on earth but that upon Allah is its provision.',
         note: "The most comprehensive statement of divine provision in the Quran. The word 'upon Allah' (ʿala Allah) carries a sense of committed obligation — not merely that Allah is generous but that He has undertaken the provision of every creature. The scholars say this verse makes rizq-anxiety a form of doubting Allah's commitment.",
+      
+      morphology: [
+      {
+        word: 'رِزْقُ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
       {
         ref: '65:3',
         arabic: 'وَيَرْزُقْهُ مِنْ حَيْثُ لَا يَحْتَسِبُ',
         translation: 'And He provides for him from where he does not expect.',
         note: "One of the most hope-giving verses in the Quran for material life — rizq comes from unexpected directions. The scholars taught this verse to people in financial difficulty: when you have exhausted your known sources, remember that the Provider is not limited to the paths you can see. This verse has been called 'the verse of surprise rizq.'",
+      
+      morphology: [
+      {
+        word: 'يَرْزُقْ',
+        form: 'Form I verb (present)',
+        pattern: 'فَعَلَ',
+        significance: 'The base verb form — the simplest, most direct expression of the action. The present/imperfect tense signals an ongoing or habitual action — not a single past event but a repeated or continuous state.',
       },
+      ],
+    },
       {
         ref: '51:58',
         arabic: 'إِنَّ ٱللَّهَ هُوَ ٱلرَّزَّاقُ ذُو ٱلْقُوَّةِ ٱلْمَتِينُ',
@@ -3615,13 +4013,47 @@ The hadith of Jibril is the central definition of iman: to believe in Allah, His
         arabic: 'قَالَتِ ٱلْأَعْرَابُ ءَامَنَّا ۖ قُل لَّمْ تُؤْمِنُوا۟ وَلَٰكِن قُولُوٓا۟ أَسْلَمْنَا وَلَمَّا يَدْخُلِ ٱلْإِيمَٰنُ فِى قُلُوبِكُمْ',
         translation: "The Bedouins say: 'We believe.' Say: You have not [yet] believed, but say instead: 'We have submitted.' For faith has not yet entered your hearts.",
         note: "The Quran's clearest distinction between Islam (external submission) and iman (internal conviction). Iman is specifically in the heart — the Quran does not say 'your practice is wrong'; it says 'the faith has not yet entered your hearts.' This verse established for the scholars that iman is a condition of the heart, not merely external performance.",
+      
+      morphology: [
+      {
+        word: 'ءَامَ',
+        form: 'Form IV verb (past) — causative',
+        pattern: 'أَفْعَلَ',
+        significance: 'Form IV is causative — it means to bring about the action in another or to make something happen. The agent here is the initiator of a process, not merely its performer.',
       },
+      {
+        word: 'تُؤْمِنُ',
+        form: 'Form IV verb (present) — causative',
+        pattern: 'أَفْعَلَ',
+        significance: 'Form IV is causative — it means to bring about the action in another or to make something happen. The agent here is the initiator of a process, not merely its performer.',
+      },
+      {
+        word: 'إِيمَٰنُ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
+      },
+      ],
+    },
       {
         ref: '8:2-4',
         arabic: 'إِنَّمَا ٱلْمُؤْمِنُونَ ٱلَّذِينَ إِذَا ذُكِرَ ٱللَّهُ وَجِلَتْ قُلُوبُهُمْ',
         translation: 'The believers are only those who, when Allah is mentioned, their hearts tremble.',
         note: "The Quran's description of the mu'min's experiential hallmarks: the heart trembles at the mention of Allah, faith increases when the verses are recited, reliance is placed on Allah, prayer is maintained, and from the provision given, they spend. These are the signs of genuine iman — internal trembling that produces external action.",
+      
+      morphology: [
+      {
+        word: 'مُؤْمِنُونَ',
+        form: 'Active participle',
+        pattern: 'مُفْعِل',
+        significance: 'The Form IV active participle marks the agent of a causative action — one who brings about a state in others or in the world.',
       },
+      {
+        word: 'إِيمَٰنًا',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
+      },
+      ],
+    },
       {
         ref: '48:4',
         arabic: 'هُوَ ٱلَّذِىٓ أَنزَلَ ٱلسَّكِينَةَ فِى قُلُوبِ ٱلْمُؤْمِنِينَ لِيَزْدَادُوٓا۟ إِيمَٰنًا مَّعَ إِيمَٰنِهِمْ',
@@ -3718,13 +4150,34 @@ What makes ihsan different from mere piety is the quality of awareness it requir
         arabic: 'إِنَّ ٱللَّهَ يَأْمُرُ بِٱلْعَدْلِ وَٱلْإِحْسَٰنِ وَإِيتَآئِ ذِى ٱلْقُرْبَىٰ وَيَنْهَىٰ عَنِ ٱلْفَحْشَآءِ وَٱلْمُنكَرِ وَٱلْبَغْىِ',
         translation: 'Indeed, Allah orders justice and ihsan and giving to relatives, and He forbids immorality, wrong conduct, and oppression.',
         note: "This verse is recited in the Friday khutba (sermon) in virtually every mosque in the world. The scholars say justice ('adl) is giving people their rights; ihsan is giving more than their rights — going beyond what is required. Justice is the floor; ihsan is the aspiration above it.",
+      
+      morphology: [
+      {
+        word: 'إِحْسَٰنِ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
       {
         ref: '55:60',
         arabic: 'هَلْ جَزَآءُ ٱلْإِحْسَٰنِ إِلَّا ٱلْإِحْسَٰنُ',
         translation: 'Is the reward of ihsan anything but ihsan?',
         note: "One of the most beautiful verses in the Quran for its simplicity: excellence is repaid with excellence. The scholars apply this in both directions — toward Allah (the ihsan of the worshipper is repaid with the ihsan of the divine response) and toward people (the ihsan of the giver produces the condition for the ihsan of the recipient). Ihsan is contagious.",
+      
+      morphology: [
+      {
+        word: 'إِحْسَٰنِ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      {
+        word: 'إِحْسَٰنُ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
+      },
+      ],
+    },
       {
         ref: '31:22',
         arabic: 'وَمَن يُسْلِمْ وَجْهَهُۥٓ إِلَى ٱللَّهِ وَهُوَ مُحْسِنٌ فَقَدِ ٱسْتَمْسَكَ بِٱلْعُرْوَةِ ٱلْوُثْقَىٰ',
@@ -3822,13 +4275,30 @@ The Quran makes taqwa the criterion of honor in the most democratic statement of
         arabic: 'إِنَّ أَكْرَمَكُمْ عِندَ ٱللَّهِ أَتْقَىٰكُمْ',
         translation: 'Indeed, the most noble of you in the sight of Allah is the most muttaqi among you.',
         note: "The single most democratic statement in religious history. After listing all the ways humans divide themselves (nations, tribes, ethnicities), the Quran declares that the only measure that counts before Allah is taqwa. The scholars say: this verse demolished every hierarchy of the pre-Islamic period — of lineage, wealth, and power — and replaced it with the only hierarchy that reflects divine rather than human values.",
+      
+      morphology: [
+      {
+        word: 'أَتْقَىٰ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
       {
         ref: '2:2-3',
         arabic: 'ذَٰلِكَ ٱلْكِتَٰبُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًى لِّلْمُتَّقِينَ ۝ ٱلَّذِينَ يُؤْمِنُونَ بِٱلْغَيْبِ',
         translation: 'This is the Book about which there is no doubt — a guidance for the muttaqin, who believe in the unseen.',
         note: "The Quran begins by stating who it guides: the muttaqin. This does not mean non-muttaqin receive no benefit — but the deepest guidance is unlocked by taqwa. The scholars say: the Quran is for everyone, but the one whose heart has taqwa receives it differently — as rain that lands on prepared soil rather than rock.",
+      
+      morphology: [
+      {
+        word: 'مُتَّقِينَ',
+        form: 'Active participle',
+        pattern: 'مُفْتَعِل',
+        significance: 'The active participle marks an ongoing state, not a completed action. This is not someone who did the action once but someone who IS in the state of doing it — a defining characteristic, not a past event.',
       },
+      ],
+    },
       {
         ref: '65:2-3',
         arabic: 'وَمَن يَتَّقِ ٱللَّهَ يَجْعَل لَّهُۥ مَخْرَجًا ۝ وَيَرْزُقْهُ مِنْ حَيْثُ لَا يَحْتَسِبُ',
@@ -3926,13 +4396,29 @@ The Quran makes rahmah the framework within which all of Allah's other qualities
         arabic: 'وَرَحْمَتِى وَسِعَتْ كُلَّ شَىْءٍ',
         translation: 'My mercy encompasses all things.',
         note: "One of the most expansive statements about rahmah in the Quran. Not 'most things,' not 'the righteous' — all things. The scholars note that this encompassing quality means rahmah is the primary attribute through which creation exists: everything that exists is encompassed by divine mercy. The specific mercy for the believers in the next life is then differentiated from this general mercy — but the general mercy is all-encompassing.",
+      
+      morphology: [
+      {
+        word: 'رَحْمَتِ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
       {
         ref: '6:12',
         arabic: 'كَتَبَ رَبُّكُمْ عَلَىٰ نَفْسِهِ ٱلرَّحْمَةَ',
         translation: 'Your Lord has written rahmah upon Himself.',
         note: "Allah has committed Himself to mercy — 'written' it 'upon Himself' (ʿala nafsihi). The scholars say this is one of the most hope-giving verses in the Quran: Allah has voluntarily obligated Himself to mercy. This is not a limitation of His freedom; it is a description of His character — mercy is not imposed from outside but is what Allah has chosen to express as the primary mode of His relationship with His creation.",
+      
+      morphology: [
+      {
+        word: 'رَّحْمَةَ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
       {
         ref: '21:107',
         arabic: 'وَمَآ أَرْسَلْنَٰكَ إِلَّا رَحْمَةً لِّلْعَٰلَمِينَ',
@@ -4515,13 +5001,29 @@ Al-Ghazali described muraqaba as the foundation of all spiritual progress: the p
         arabic: 'مَّا يَلْفِظُ مِن قَوْلٍ إِلَّا لَدَيْهِ رَقِيبٌ عَتِيدٌ',
         translation: 'Not a word does he utter but there is a watcher by him, ready.',
         note: "The verse is visceral: every word has an already-present, already-ready witness. Not a witness who records it after; a watcher who is there before. Muraqaba is the internalization of this reality until the servant feels it.",
+      
+      morphology: [
+      {
+        word: 'رَقِيبٌ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
       {
         ref: '4:1',
         arabic: 'إِنَّ اللَّهَ كَانَ عَلَيْكُمْ رَقِيبًا',
         translation: 'Indeed, Allah is ever-watching over you.',
         note: "Used here in the context of family ties — Allah watches how you treat relatives. Muraqaba is not an abstract spiritual exercise but a practical awareness that governs every relationship.",
+      
+      morphology: [
+      {
+        word: 'رَقِيبًا',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
       {
         ref: '58:7',
         arabic: 'مَا يَكُونُ مِن نَّجْوَىٰ ثَلَاثَةٍ إِلَّا هُوَ رَابِعُهُمْ',
@@ -4612,13 +5114,36 @@ Al-Muhasibi — whose very name derives from this practice — built an entire t
         arabic: 'فَسَوْفَ يُحَاسَبُ حِسَابًا يَسِيرًا',
         translation: 'He will be given an easy accounting.',
         note: "The scholars identified this 'ease' with the practice of muhasaba in this life — the one who accounts themselves daily comes to the final accounting already mostly settled.",
+      
+      morphology: [
+      {
+        word: 'يُحَاسَبُ',
+        form: 'Form III verb (present) — mutual/reciprocal',
+        pattern: 'فَاعَلَ',
+        significance: 'Form III indicates reciprocal or directed action toward another — an exchange, a mutual engagement, or an action deliberately aimed at someone.',
       },
+      {
+        word: 'حِسَابًا',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
+      },
+      ],
+    },
       {
         ref: '2:284',
         arabic: 'وَإِن تُبْدُوا مَا فِي أَنفُسِكُمْ أَوْ تُخْفُوهُ يُحَاسِبْكُم بِهِ اللَّهُ',
         translation: 'Whether you disclose what is in yourselves or conceal it, Allah will call you to account for it.',
         note: "Muhasaba extends to the inner life — intentions, thoughts, the contents of the nafs. This verse makes the accounting comprehensive: not just deeds, but what is inside.",
+      
+      morphology: [
+      {
+        word: 'يُحَاسِبْ',
+        form: 'Form III verb (present) — mutual/reciprocal',
+        pattern: 'فَاعَلَ',
+        significance: 'Form III indicates reciprocal or directed action toward another — an exchange, a mutual engagement, or an action deliberately aimed at someone.',
       },
+      ],
+    },
     ],
     practicalSection: {
       conditions: [
@@ -4697,19 +5222,46 @@ Ibn al-Qayyim placed inabah above tawbah in his ranking of the stations: tawbah 
         arabic: 'وَأَنِيبُوا إِلَىٰ رَبِّكُمْ وَأَسْلِمُوا لَهُ مِن قَبْلِ أَن يَأْتِيَكُمُ الْعَذَابُ',
         translation: 'And return to your Lord and submit to Him before the punishment comes to you.',
         note: "The command is urgent — 'before the punishment comes.' This verse comes just after the famous ayah promising that Allah's mercy encompasses all things (39:53). Inabah is the appropriate response to knowing that mercy: turn toward it with everything.",
+      
+      morphology: [
+      {
+        word: 'أَنِيبُ',
+        form: 'Form IV verb (imperative) — causative',
+        pattern: 'أَفْعَلَ',
+        significance: 'Form IV is causative — it means to bring about the action in another or to make something happen. The agent here is the initiator of a process, not merely its performer.',
       },
+      ],
+    },
       {
         ref: '50:33',
         arabic: 'مَنْ خَشِيَ الرَّحْمَٰنَ بِالْغَيْبِ وَجَاءَ بِقَلْبٍ مُّنِيبٍ',
         translation: 'Whoever feared the Most Merciful unseen and came with a heart turning in devotion.',
         note: "The people of Jannah are described as having a heart that is munib. The munib heart is the qualification for paradise — not a perfect heart, but a returning one.",
+      
+      morphology: [
+      {
+        word: 'مُّنِيبٍ',
+        form: 'Active participle',
+        pattern: 'مُفْعِل',
+        significance: 'The Form IV active participle marks the agent of a causative action — one who brings about a state in others or in the world.',
       },
+      ],
+    },
       {
         ref: '11:88',
         arabic: 'وَمَا تَوْفِيقِي إِلَّا بِاللَّهِ ۚ عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ أُنِيبُ',
         translation: 'My success is not but through Allah. Upon Him I have relied, and to Him I return.',
         note: "The Prophet Shu'ayb's declaration — tawakkul and inabah together as his complete orientation. 'Ilayhi unib' — 'to Him I return' — present tense, ongoing, directional.",
+      
+      morphology: [
+      {
+        word: 'أُنِيبُ',
+        form: 'Form IV verb (present) — causative',
+        pattern: 'أَفْعَلَ',
+        significance: 'Form IV is causative — it means to bring about the action in another or to make something happen. The agent here is the initiator of a process, not merely its performer.',
       },
+      ],
+    },
     ],
     practicalSection: {
       conditions: [
@@ -4787,19 +5339,46 @@ The Quran's constant invitation to look, observe, travel, and reflect reveals th
         arabic: 'الَّذِينَ يَذْكُرُونَ اللَّهَ قِيَامًا وَقُعُودًا وَعَلَىٰ جُنُوبِهِمْ وَيَتَفَكَّرُونَ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ',
         translation: 'Those who remember Allah while standing, sitting, and lying on their sides, and who reflect on the creation of the heavens and earth.',
         note: "This is the Quran's portrait of the ulu al-albab (people of deep understanding, 3:190). Their tafakkur is joined to dhikr — they remember and reflect simultaneously. This is not academic philosophy but a spiritual practice embedded in daily life.",
+      
+      morphology: [
+      {
+        word: 'يَتَفَكَّرُ',
+        form: 'Form V verb (present) — reflexive of intensive',
+        pattern: 'تَفَعَّلَ',
+        significance: 'Form V is reflexive of the intensive — the subject performs the intensified action upon themselves. This is self-directed, deliberate, and thorough engagement. The present tense signals an ongoing, continuous practice.',
       },
+      ],
+    },
       {
         ref: '16:44',
         arabic: 'وَأَنزَلْنَا إِلَيْكَ الذِّكْرَ لِتُبَيِّنَ لِلنَّاسِ مَا نُزِّلَ إِلَيْهِمْ وَلَعَلَّهُمْ يَتَفَكَّرُونَ',
         translation: 'And We revealed to you the message that you may make clear to the people what was sent down to them and that they might reflect.',
         note: "The Quran was revealed so that people would reflect. Tafakkur is thus the very purpose of revelation — not mere obedience but genuine understanding. The law is given so the mind can engage with it, not circumvent thinking.",
+      
+      morphology: [
+      {
+        word: 'يَتَفَكَّرُ',
+        form: 'Form V verb (present) — reflexive of intensive',
+        pattern: 'تَفَعَّلَ',
+        significance: 'Form V is reflexive of the intensive — the subject performs the intensified action upon themselves. This is self-directed, deliberate, and thorough engagement. The present tense signals an ongoing, continuous practice.',
       },
+      ],
+    },
       {
         ref: '7:184',
         arabic: 'أَوَلَمْ يَتَفَكَّرُوا ۗ مَا بِصَاحِبِهِم مِّن جِنَّةٍ',
         translation: 'Have they not reflected? There is no madness in their companion.',
         note: "Here tafakkur is posed as the solution to confusion and denial. Reflection is the cure for the closed mind — the person who genuinely thinks about the Prophet ﷺ's character and message cannot accuse him of madness.",
+      
+      morphology: [
+      {
+        word: 'يَتَفَكَّرُ',
+        form: 'Form V verb (present) — reflexive of intensive',
+        pattern: 'تَفَعَّلَ',
+        significance: 'Form V is reflexive of the intensive — the subject performs the intensified action upon themselves. This is self-directed, deliberate, and thorough engagement. The present tense signals an ongoing, continuous practice.',
       },
+      ],
+    },
     ],
     practicalSection: {
       conditions: [
@@ -4879,19 +5458,43 @@ Ibn al-Qayyim described hilm as the fortress of the character — when it is pre
         arabic: 'إِنَّ إِبْرَاهِيمَ لَحَلِيمٌ أَوَّاهٌ مُّنِيبٌ',
         translation: 'Indeed, Ibrahim was forbearing, tenderhearted, and often turning to Allah.',
         note: "The Quran's most explicit attribution of hilm to a prophet. It comes in the context of Ibrahim interceding for the people of Lut — even for those whose destruction had been decreed. Hilm is the capacity for compassion that stretches beyond what is deserved.",
+      
+      morphology: [
+      {
+        word: 'حَلِيمٌ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
       {
         ref: '2:235',
         arabic: 'وَاعْلَمُوا أَنَّ اللَّهَ يَعْلَمُ مَا فِي أَنفُسِكُمْ فَاحْذَرُوهُ ۚ وَاعْلَمُوا أَنَّ اللَّهَ غَفُورٌ حَلِيمٌ',
         translation: 'And know that Allah knows what is in yourselves, so beware of Him. And know that Allah is Forgiving and Forbearing.',
         note: "Allah knows the innermost intentions and yet is Halim — He does not rush to punishment. This is the Quranic portrait of hilm: knowledge of wrongdoing plus the capacity for restraint. Divine hilm is the space in which human tawbah is possible.",
+      
+      morphology: [
+      {
+        word: 'حَلِيمٌ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
       {
         ref: '3:155',
         arabic: 'وَاللَّهُ غَفُورٌ حَلِيمٌ',
         translation: 'And Allah is Forgiving and Forbearing.',
         note: "Coming in the aftermath of Uhud, where some believers had fled, this pairing of ghafur and halim is pastoral: you fled, you erred, and Allah absorbed the harm without withdrawing His mercy. This is hilm in its divine scale.",
+      
+      morphology: [
+      {
+        word: 'حَلِيمٌ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
     ],
     practicalSection: {
       conditions: [
@@ -4975,7 +5578,15 @@ Al-Ghazali described uns as the final station before fana' — the heart that ha
         arabic: 'وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ الْوَرِيدِ',
         translation: 'And We are closer to him than his jugular vein.',
         note: "The intimacy of divine closeness is radical: closer than the most essential artery of the body. Uns is the spiritual state of feeling and living from this closeness.",
+      
+      morphology: [
+      {
+        word: 'إِنسَٰنَ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
       {
         ref: '89:27-28',
         arabic: 'يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ ۝ ارْجِعِي إِلَىٰ رَبِّكِ رَاضِيَةً مَّرْضِيَّةً',
@@ -5060,19 +5671,45 @@ The Prophet ﷺ said: "I am the one among you who knows Allah best, and I am the
         arabic: 'إِنَّمَا يَخْشَى اللَّهَ مِنْ عِبَادِهِ الْعُلَمَاءُ',
         translation: 'Only those among Allah\'s servants who have knowledge truly fear Him.',
         note: "This is the definitive khashya verse. The inna-ma construction is exclusive: only the 'ulama (those with genuine knowledge) fear Allah with khashya. This makes khashya the measure of knowledge — if you truly know Allah, you must be moved to khashya. If khashya is absent, the knowledge has not arrived.",
+      
+      morphology: [
+      {
+        word: 'يَخْشَى',
+        form: 'Form I verb (present)',
+        pattern: 'فَعَلَ',
+        significance: 'The base verb form — the simplest, most direct expression of the action. The present/imperfect tense signals an ongoing or habitual action — not a single past event but a repeated or continuous state.',
       },
+      ],
+    },
       {
         ref: '59:21',
         arabic: 'لَوْ أَنزَلْنَا هَٰذَا الْقُرْآنَ عَلَىٰ جَبَلٍ لَّرَأَيْتَهُ خَاشِعًا مُّتَصَدِّعًا مِّنْ خَشْيَةِ اللَّهِ',
         translation: 'If We had sent down this Quran upon a mountain, you would have seen it humbled and split apart from khashya of Allah.',
         note: "The mountain image is astonishing: even a mountain — the Quran's symbol of immovability and strength — would be shattered by khashya if it could feel it. This is not to terrify but to humble: the human heart that remains unmoved by the Quran is harder than what would split a mountain.",
+      
+      morphology: [
+      {
+        word: 'خَشْيَةِ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
       {
         ref: '21:49',
         arabic: 'الَّذِينَ يَخْشَوْنَ رَبَّهُم بِالْغَيْبِ وَهُم مِّنَ السَّاعَةِ مُشْفِقُونَ',
         translation: 'Those who fear their Lord unseen and who are apprehensive about the Hour.',
         note: "'Unseen' (bi-l-ghayb) is crucial: the khashya is not of a visible threat but of Allah whom they cannot see. This is the highest form — reverential awe of the Unseen, not reaction to present danger.",
+      
+      morphology: [
+      {
+        word: 'يَخْشَ',
+        form: 'Form I verb (present)',
+        pattern: 'فَعَلَ',
+        significance: 'The base verb form — the simplest, most direct expression of the action. The present/imperfect tense signals an ongoing or habitual action — not a single past event but a repeated or continuous state.',
       },
+      ],
+    },
     ],
     practicalSection: {
       conditions: [
@@ -5149,19 +5786,46 @@ The Prophet ﷺ's life was the greatest exhibition of 'afw. At the conquest of M
         arabic: 'وَلْيَعْفُوا وَلْيَصْفَحُوا ۗ أَلَا تُحِبُّونَ أَن يَغْفِرَ اللَّهُ لَكُمْ',
         translation: 'And let them pardon and overlook. Would you not like that Allah should forgive you?',
         note: "This verse was revealed about Abu Bakr's decision to cut off support for Mistah after he participated in the slander of Aisha. Allah's question is rhetorical: the desire to receive divine pardon is the motive for human pardon. The logic of 'afw runs through the divine-human relationship.",
+      
+      morphology: [
+      {
+        word: 'يَعْفُ',
+        form: 'Form I verb (present)',
+        pattern: 'فَعَلَ',
+        significance: 'The base verb form — the simplest, most direct expression of the action. The present/imperfect tense signals an ongoing or habitual action — not a single past event but a repeated or continuous state.',
       },
+      ],
+    },
       {
         ref: '42:40',
         arabic: 'وَجَزَاءُ سَيِّئَةٍ سَيِّئَةٌ مِّثْلُهَا ۖ فَمَنْ عَفَا وَأَصْلَحَ فَأَجْرُهُ عَلَى اللَّهِ',
         translation: 'The recompense of an evil act is one like it, but whoever pardons and makes reconciliation — his reward is with Allah.',
         note: "The verse grants the right to retaliate equivalently — then raises the alternative: 'afw plus islah (reconciliation). The reward for this is described as 'with Allah' — the highest Quranic way of saying: it cannot be measured in worldly terms.",
+      
+      morphology: [
+      {
+        word: 'عَفَا',
+        form: 'Form I verb (past)',
+        pattern: 'فَعَلَ',
+        significance: 'The base verb form — the simplest, most direct expression of the action. The past/perfect tense marks a completed, definitive action — something that has been decided and done.',
       },
+      ],
+    },
       {
         ref: '64:14',
         arabic: 'وَإِن تَعْفُوا وَتَصْفَحُوا وَتَغْفِرُوا فَإِنَّ اللَّهَ غَفُورٌ رَّحِيمٌ',
         translation: 'And if you pardon and overlook and forgive — indeed, Allah is Forgiving and Merciful.',
         note: "Three layered actions — 'afw (pardon), safh (overlook), ghafara (forgive) — followed by two divine attributes. The pattern teaches: human pardoning invokes divine forgiveness. These are not separate; they are related as action and response.",
+      
+      morphology: [
+      {
+        word: 'تَعْفُ',
+        form: 'Form I verb (present)',
+        pattern: 'فَعَلَ',
+        significance: 'The base verb form — the simplest, most direct expression of the action. The present/imperfect tense signals an ongoing or habitual action — not a single past event but a repeated or continuous state.',
       },
+      ],
+    },
     ],
     practicalSection: {
       conditions: [
@@ -5241,19 +5905,43 @@ In the Quran, hikmah is paired consistently with the Book (kitab): "He taught th
         arabic: 'يُؤْتِي الْحِكْمَةَ مَن يَشَاءُ ۚ وَمَن يُؤْتَ الْحِكْمَةَ فَقَدْ أُوتِيَ خَيْرًا كَثِيرًا',
         translation: 'He gives wisdom to whom He wills, and whoever is given wisdom has certainly been given much good.',
         note: "The verse places hikmah entirely in Allah's gift — it is not achieved but received. The superlative 'much good' (khayran kathiran) signals that hikmah is among the highest blessings: wealth, health, and honor are subordinate to it.",
+      
+      morphology: [
+      {
+        word: 'حِكْمَةَ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
       {
         ref: '16:125',
         arabic: 'ادْعُ إِلَىٰ سَبِيلِ رَبِّكَ بِالْحِكْمَةِ وَالْمَوْعِظَةِ الْحَسَنَةِ',
         translation: 'Call to the way of your Lord with wisdom and good instruction.',
         note: "Hikmah is the method of da'wa — calling to Allah with wisdom means reading the person, the moment, and the message together. It requires knowing what to say, when to say it, and how. This is hikmah in the relational register.",
+      
+      morphology: [
+      {
+        word: 'حِكْمَةِ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
       {
         ref: '31:12',
         arabic: 'وَلَقَدْ آتَيْنَا لُقْمَانَ الْحِكْمَةَ أَنِ اشْكُرْ لِلَّهِ',
         translation: "And We had certainly given Luqman wisdom: Be grateful to Allah.",
         note: "Luqman's hikmah begins with shukr — gratitude to Allah. The wisdom that does not begin with acknowledging the Source is incomplete. The entire surah of Luqman is an exhibition of hikmah applied to parenting, character, and relationship with Allah.",
+      
+      morphology: [
+      {
+        word: 'حِكْمَةَ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
     ],
     practicalSection: {
       conditions: [
@@ -5331,19 +6019,51 @@ The scholars distinguished 'adl from qist (equity or fairness in distribution). 
         arabic: 'يَا أَيُّهَا الَّذِينَ آمَنُوا كُونُوا قَوَّامِينَ بِالْقِسْطِ شُهَدَاءَ لِلَّهِ وَلَوْ عَلَىٰ أَنفُسِكُمْ أَوِ الْوَالِدَيْنِ وَالْأَقْرَبِينَ',
         translation: 'O you who believe, be persistently standing firm in justice, witnesses for Allah, even if it be against yourselves or parents and relatives.',
         note: "This is the most demanding justice verse in the Quran. Qawwamin (persistently standing) is the intensive form — not occasional justice but a permanent, effortful posture. The hardest cases are explicitly named: your own self, your parents, your close relatives. There are no exemptions.",
+      
+      morphology: [
+      {
+        word: 'تَعْدِلُ',
+        form: 'Form I verb (present)',
+        pattern: 'فَعَلَ',
+        significance: 'The base verb form — the simplest, most direct expression of the action. The present/imperfect tense signals an ongoing or habitual action — not a single past event but a repeated or continuous state.',
       },
+      ],
+    },
       {
         ref: '5:8',
         arabic: 'وَلَا يَجْرِمَنَّكُمْ شَنَآنُ قَوْمٍ عَلَىٰ أَلَّا تَعْدِلُوا ۚ اعْدِلُوا هُوَ أَقْرَبُ لِلتَّقْوَىٰ',
         translation: 'And do not let the hatred of a people prevent you from being just. Be just; that is nearer to righteousness.',
         note: "The hardest application of 'adl: being just toward those you hate, those who have wronged you, your enemies. The Quran explicitly names this and then commands it. 'Be just — that is nearer to taqwa' makes justice the road to Allah, not merely a social obligation.",
+      
+      morphology: [
+      {
+        word: 'تَعْدِلُ',
+        form: 'Form I verb (present)',
+        pattern: 'فَعَلَ',
+        significance: 'The base verb form — the simplest, most direct expression of the action. The present/imperfect tense signals an ongoing or habitual action — not a single past event but a repeated or continuous state.',
       },
+      {
+        word: 'ٱعْدِلُ',
+        form: 'Form I verb (imperative)',
+        pattern: 'فَعَلَ',
+        significance: 'The base verb form — the simplest, most direct expression of the action. The imperative is a direct command — not a suggestion or recommendation but a divine instruction requiring response.',
+      },
+      ],
+    },
       {
         ref: '16:90',
         arabic: 'إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالْإِحْسَانِ وَإِيتَاءِ ذِي الْقُرْبَىٰ',
         translation: 'Indeed, Allah commands justice, excellence (ihsan), and giving to relatives.',
         note: "The trinity of social virtue: justice as the floor, ihsan as the elevation beyond the floor, and giving to relatives as the specific application. Justice is where ethics begins; ihsan is where it reaches its height. They are inseparable.",
+      
+      morphology: [
+      {
+        word: 'عَدْلِ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
     ],
     practicalSection: {
       conditions: [
@@ -5424,13 +6144,42 @@ The scholars divided shirk into two categories: shirk akbar (major shirk) — th
         arabic: 'إِنَّ اللَّهَ لَا يَغْفِرُ أَن يُشْرَكَ بِهِ وَيَغْفِرُ مَا دُونَ ذَٰلِكَ لِمَن يَشَاءُ',
         translation: 'Indeed, Allah does not forgive association with Him, but He forgives what is less than that for whom He wills.',
         note: "The single most stark declaration about shirk in the Quran. The structure is important: everything else — every sin — is within the scope of divine forgiveness. Shirk alone is the exception, precisely because it attacks the foundation of the relationship between creature and Creator.",
+      
+      morphology: [
+      {
+        word: 'يُشْرَكَ',
+        form: 'Form IV verb (present) — causative',
+        pattern: 'أَفْعَلَ',
+        significance: 'Form IV is causative — it means to bring about the action in another or to make something happen. The agent here is the initiator of a process, not merely its performer.',
       },
+      {
+        word: 'يُشْرِكْ',
+        form: 'Form IV verb (present) — causative',
+        pattern: 'أَفْعَلَ',
+        significance: 'Form IV is causative — it means to bring about the action in another or to make something happen. The agent here is the initiator of a process, not merely its performer.',
+      },
+      ],
+    },
       {
         ref: '31:13',
         arabic: 'يَا بُنَيَّ لَا تُشْرِكْ بِاللَّهِ ۖ إِنَّ الشِّرْكَ لَظُلْمٌ عَظِيمٌ',
         translation: 'O my son, do not associate anything with Allah. Indeed, association is a great injustice.',
         note: "Luqman's first and most urgent teaching to his son. Shirk is called zulm 'azim — the greatest injustice. This reframes shirk as an ethical failure, not just a theological error: you have given the wrong thing the place that belongs to Allah.",
+      
+      morphology: [
+      {
+        word: 'تُشْرِكْ',
+        form: 'Form IV verb (present) — causative',
+        pattern: 'أَفْعَلَ',
+        significance: 'Form IV is causative — it means to bring about the action in another or to make something happen. The agent here is the initiator of a process, not merely its performer.',
       },
+      {
+        word: 'شِّرْكَ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
+      },
+      ],
+    },
       {
         ref: '39:65',
         arabic: 'وَلَقَدْ أُوحِيَ إِلَيْكَ وَإِلَى الَّذِينَ مِن قَبْلِكَ لَئِنْ أَشْرَكْتَ لَيَحْبَطَنَّ عَمَلُكَ',
@@ -5514,19 +6263,45 @@ The Quran uses kufr in a spectrum of meanings: the unbeliever who openly rejects
         arabic: 'إِنَّ الَّذِينَ كَفَرُوا سَوَاءٌ عَلَيْهِمْ أَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ ۝ خَتَمَ اللَّهُ عَلَىٰ قُلُوبِهِمْ',
         translation: 'Indeed, those who disbelieve — it is all the same whether you warn them or do not warn them — they will not believe. Allah has sealed their hearts.',
         note: "Coming in the second surah, right after the description of the believers and the hypocrites, this verse describes the third type: those whose kufr has hardened into a permanent disposition. The sealing of the heart is not arbitrary punishment but the inevitable consequence of repeated choice to cover.",
+      
+      morphology: [
+      {
+        word: 'كَفَرُ',
+        form: 'Form I verb (past)',
+        pattern: 'فَعَلَ',
+        significance: 'The base verb form — the simplest, most direct expression of the action. The past/perfect tense marks a completed, definitive action — something that has been decided and done.',
       },
+      ],
+    },
       {
         ref: '14:7',
         arabic: 'لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ ۖ وَلَئِن كَفَرْتُمْ إِنَّ عَذَابِي لَشَدِيدٌ',
         translation: 'If you are grateful, I will certainly increase you in favor. But if you are ungrateful (kafar), indeed My punishment is severe.',
         note: "Here kufr is explicitly translated as ingratitude. The contrast is shukr/kufr — gratitude and its opposite. This verse shows that kufr operates in the realm of everyday response to divine blessing, not only in formal creedal rejection.",
+      
+      morphology: [
+      {
+        word: 'كَفَرْ',
+        form: 'Form I verb (past)',
+        pattern: 'فَعَلَ',
+        significance: 'The base verb form — the simplest, most direct expression of the action. The past/perfect tense marks a completed, definitive action — something that has been decided and done.',
       },
+      ],
+    },
       {
         ref: '57:20',
         arabic: 'كَمَثَلِ غَيْثٍ أَعْجَبَ الْكُفَّارَ نَبَاتُهُ',
         translation: '...like a rain whose resulting plant growth delights the farmers (kuffar).',
         note: "Here kuffar unmistakably means farmers — those who bury seeds. This agricultural usage reveals the root meaning: covering, burying, concealing. The theological kufr participates in the same act: burying what should be brought to light.",
+      
+      morphology: [
+      {
+        word: 'كُفَّارَ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
     ],
     practicalSection: {
       conditions: [
@@ -5611,13 +6386,30 @@ The Quran places the munafiqun in the lowest depths of hellfire (4:145) — belo
         arabic: 'إِنَّ الْمُنَافِقِينَ فِي الدَّرْكِ الْأَسْفَلِ مِنَ النَّارِ',
         translation: 'Indeed, the hypocrites will be in the lowest depths of the Fire.',
         note: "The most stark statement about nifaq's gravity. Darek al-asfal — the lowest depth — is below the disbelievers. This reflects the extra betrayal of nifaq: it violates trust while claiming to honor it.",
+      
+      morphology: [
+      {
+        word: 'مُنَٰفِقِينَ',
+        form: 'Active participle',
+        pattern: 'فَاعِل',
+        significance: 'The active participle marks an ongoing state, not a completed action. This is not someone who did the action once but someone who IS in the state of doing it — a defining characteristic, not a past event.',
       },
+      ],
+    },
       {
         ref: '9:77',
         arabic: 'فَأَعْقَبَهُمْ نِفَاقًا فِي قُلُوبِهِمْ إِلَىٰ يَوْمِ يَلْقَوْنَهُ بِمَا أَخْلَفُوا اللَّهَ مَا وَعَدُوهُ وَبِمَا كَانُوا يَكْذِبُونَ',
         translation: 'So He penalized them with hypocrisy in their hearts until the Day they will meet Him — because they broke their promise to Allah and because they used to lie.',
         note: "Nifaq described as a consequence — not just a choice but what the heart becomes when broken promises and lies are repeated. The hypocrisy that hardened is the result of accumulated betrayal of one's own stated commitments.",
+      
+      morphology: [
+      {
+        word: 'نِفَاقًا',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
     ],
     practicalSection: {
       conditions: [
@@ -5697,13 +6489,29 @@ Haqq also means rightful claim — a person's haqq is what they are owed. Allah'
         arabic: 'ذَٰلِكَ بِأَنَّ اللَّهَ هُوَ الْحَقُّ وَأَنَّهُ يُحْيِي الْمَوْتَىٰ',
         translation: 'That is because Allah — He is the Haqq (Truth/Reality), and that He gives life to the dead.',
         note: "Al-Haqq as a divine Name: Allah is the truth in the most absolute sense — genuinely real, not contingent, the foundation of all that exists. This grounds the concept: the measure of all haqq is Allah Himself.",
+      
+      morphology: [
+      {
+        word: 'حَقُّ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
       {
         ref: '17:81',
         arabic: 'وَقُلْ جَاءَ الْحَقُّ وَزَهَقَ الْبَاطِلُ ۚ إِنَّ الْبَاطِلَ كَانَ زَهُوقًا',
         translation: 'And say: The truth has come, and falsehood has perished. Indeed, falsehood is ever-perishing.',
         note: "The Quranic logic of haqq and batil: batil is structurally incapable of enduring. It perishes not just occasionally but by its nature — zuhūq means perishing inevitably. The arrival of haqq is the departure of batil. This was said at the conquest of Makkah when the idols were toppled.",
+      
+      morphology: [
+      {
+        word: 'حَقُّ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
       {
         ref: '4:135',
         arabic: 'كُونُوا قَوَّامِينَ بِالْقِسْطِ شُهَدَاءَ لِلَّهِ',
@@ -5789,19 +6597,51 @@ The Quran describes the zalimun (wrongdoers) in vivid, repeated language — the
         arabic: 'إِنَّ اللَّهَ لَا يَظْلِمُ النَّاسَ شَيْئًا وَلَٰكِنَّ النَّاسَ أَنفُسَهُمْ يَظْلِمُونَ',
         translation: 'Indeed, Allah does not wrong people at all — but people wrong themselves.',
         note: "The most theologically significant zulm verse. Allah's absolute freedom from zulm is stated; then the diagnosis: the zulm in the world is human — and the deepest is the zulm people commit against their own souls through sin, heedlessness, and refusal of guidance.",
+      
+      morphology: [
+      {
+        word: 'يَظْلِمُ',
+        form: 'Form I verb (present)',
+        pattern: 'فَعَلَ',
+        significance: 'The base verb form — the simplest, most direct expression of the action. The present/imperfect tense signals an ongoing or habitual action — not a single past event but a repeated or continuous state.',
       },
+      ],
+    },
       {
         ref: '14:42',
         arabic: 'وَلَا تَحْسَبَنَّ اللَّهَ غَافِلًا عَمَّا يَعْمَلُ الظَّالِمُونَ',
         translation: 'And do not think Allah is unaware of what the wrongdoers are doing.',
         note: "This verse comes as a warning to the oppressor and a consolation to the oppressed. The zalim's impunity is temporary and apparent. The Quran's promise is that no zulm escapes divine awareness — and its account will be settled.",
+      
+      morphology: [
+      {
+        word: 'ظَّٰلِمُونَ',
+        form: 'Active participle',
+        pattern: 'فَاعِل',
+        significance: 'The active participle marks an ongoing state, not a completed action. This is not someone who did the action once but someone who IS in the state of doing it — a defining characteristic, not a past event.',
       },
+      ],
+    },
       {
         ref: '42:41-42',
         arabic: 'وَلَمَنِ انتَصَرَ بَعْدَ ظُلْمِهِ فَأُولَٰئِكَ مَا عَلَيْهِم مِّن سَبِيلٍ ۝ إِنَّمَا السَّبِيلُ عَلَى الَّذِينَ يَظْلِمُونَ',
         translation: 'And whoever defends himself after being wronged — those have no blame upon them. The blame is only on those who wrong others.',
         note: "The Quran explicitly validates resistance to oppression. The mazlum (the wronged one) who defends themselves is not blameworthy. This is the Quranic foundation of the right to resist zulm — balanced by the strong discouragement of exceeding the equivalent.",
+      
+      morphology: [
+      {
+        word: 'ظُلْمِ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      {
+        word: 'يَظْلِمُ',
+        form: 'Form I verb (present)',
+        pattern: 'فَعَلَ',
+        significance: 'The base verb form — the simplest, most direct expression of the action. The present/imperfect tense signals an ongoing or habitual action — not a single past event but a repeated or continuous state.',
+      },
+      ],
+    },
     ],
     practicalSection: {
       conditions: [
@@ -5881,19 +6721,43 @@ The Prophet ﷺ gave the simplest possible definition: "Birr is good character."
         arabic: 'لَّيْسَ الْبِرَّ أَن تُوَلُّوا وُجُوهَكُمْ قِبَلَ الْمَشْرِقِ وَالْمَغْرِبِ وَلَٰكِنَّ الْبِرَّ مَنْ آمَنَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ وَالْمَلَائِكَةِ وَالْكِتَابِ وَالنَّبِيِّينَ وَآتَى الْمَالَ عَلَىٰ حُبِّهِ',
         translation: 'Righteousness is not that you turn your faces toward the east or the west, but righteousness is in one who believes in Allah, the Last Day, the angels, the Book, and the prophets; and gives wealth, in spite of love for it...',
         note: "The most comprehensive definition of birr in the Quran — belief plus charity plus family plus covenants plus patience. The verse opens by rejecting ritualistic performance as a definition of birr. True birr is the whole person rightly oriented.",
+      
+      morphology: [
+      {
+        word: 'بِرَّ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
       {
         ref: '3:92',
         arabic: 'لَن تَنَالُوا الْبِرَّ حَتَّىٰ تُنفِقُوا مِمَّا تُحِبُّونَ',
         translation: 'You will never attain birr until you spend from what you love.',
         note: "Birr requires sacrifice — spending what you love, not just what is surplus. This verse was the occasion for several companions giving their most prized possessions. Birr is tested at the point of real cost.",
+      
+      morphology: [
+      {
+        word: 'بِرَّ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
       {
         ref: '52:28',
         arabic: 'إِنَّهُ هُوَ الْبَرُّ الرَّحِيمُ',
         translation: 'Indeed, He is Al-Barr (the Source of All Goodness), the Merciful.',
         note: "Al-Barr as a divine Name — Allah is the original and ultimate source of all birr. Human birr participates in and reflects the divine quality. The believer's goodness is not self-generated; it is a participation in Allah's goodness.",
+      
+      morphology: [
+      {
+        word: 'بَرُّ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
     ],
     practicalSection: {
       conditions: [
@@ -5973,13 +6837,29 @@ The Prophet ﷺ described the ummah as "one body" — when one part suffers, the
         arabic: 'وَكَذَٰلِكَ جَعَلْنَاكُمْ أُمَّةً وَسَطًا لِّتَكُونُوا شُهَدَاءَ عَلَى النَّاسِ',
         translation: 'And thus We have made you a median community so that you may be witnesses over the people.',
         note: "The ummah's defining description and mission. Wasan (median, middle, balanced) — not extreme in any direction. The mission: witnesses over humanity. The ummah is not for itself; it is constituted for testimony on behalf of the world.",
+      
+      morphology: [
+      {
+        word: 'أُمَّةً',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
       {
         ref: '3:110',
         arabic: 'كُنتُمْ خَيْرَ أُمَّةٍ أُخْرِجَتْ لِلنَّاسِ تَأْمُرُونَ بِالْمَعْرُوفِ وَتَنْهَوْنَ عَنِ الْمُنكَرِ',
         translation: 'You are the best community ever raised for humanity: you command what is right, forbid what is wrong, and believe in Allah.',
         note: "The khayra ummah — the best community — is defined by three things: amr bil ma'ruf (commanding good), nahy 'an al-munkar (forbidding wrong), and iman. The 'best' is conditional and earned, not assumed. The ummah is 'best' insofar as it fulfills these three.",
+      
+      morphology: [
+      {
+        word: 'أُمَّةٍ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
       {
         ref: '49:10',
         arabic: 'إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ',
@@ -6063,19 +6943,46 @@ The Quran also establishes the limit of da'wah: "There is no compulsion in relig
         arabic: 'ادْعُ إِلَىٰ سَبِيلِ رَبِّكَ بِالْحِكْمَةِ وَالْمَوْعِظَةِ الْحَسَنَةِ ۖ وَجَادِلْهُم بِالَّتِي هِيَ أَحْسَنُ',
         translation: 'Call to the way of your Lord with wisdom, beautiful instruction, and argue with them in the best manner.',
         note: "The complete methodology of da'wah in one verse. Hikmah (wisdom — reading the person and moment), maw'izah hasanah (beautiful instruction — not harsh or condescending), jadal bi-llati hiya ahsan (the most gracious form of argument — not to defeat but to illuminate). The method is itself the message.",
+      
+      morphology: [
+      {
+        word: 'ٱدْعُ',
+        form: 'Form I verb (imperative)',
+        pattern: 'فَعَلَ',
+        significance: 'The base verb form — the simplest, most direct expression of the action. The imperative is a direct command — not a suggestion or recommendation but a divine instruction requiring response.',
       },
+      ],
+    },
       {
         ref: '41:33',
         arabic: 'وَمَنْ أَحْسَنُ قَوْلًا مِّمَّن دَعَا إِلَى اللَّهِ وَعَمِلَ صَالِحًا وَقَالَ إِنَّنِي مِنَ الْمُسْلِمِينَ',
         translation: 'And who is better in speech than one who calls to Allah, does righteous deeds, and says: I am indeed of those who submit?',
         note: "Da'wah paired with righteous deeds and personal identification with the faith. The caller who calls to what they do not live, or who distances themselves from the community they represent, has broken the three-part formula.",
+      
+      morphology: [
+      {
+        word: 'دَعَآ',
+        form: 'Form I verb (past)',
+        pattern: 'فَعَلَ',
+        significance: 'The base verb form — the simplest, most direct expression of the action. The past/perfect tense marks a completed, definitive action — something that has been decided and done.',
       },
+      ],
+    },
       {
         ref: '12:108',
         arabic: 'قُلْ هَٰذِهِ سَبِيلِي أَدْعُو إِلَى اللَّهِ ۚ عَلَىٰ بَصِيرَةٍ أَنَا وَمَنِ اتَّبَعَنِي',
         translation: 'Say: This is my way — I call to Allah with clear understanding, I and those who follow me.',
         note: "Da'wah 'ala basira — calling with insight, with genuine knowledge of what one is calling to. The caller who does not know what they are inviting people toward cannot give the invitation honestly.",
+      
+      morphology: [
+      {
+        word: 'أَدْعُوٓا۟',
+        form: 'Form I verb (present)',
+        pattern: 'فَعَلَ',
+        significance: 'The base verb form — the simplest, most direct expression of the action. The present/imperfect tense signals an ongoing or habitual action — not a single past event but a repeated or continuous state.',
       },
+      ],
+    },
     ],
     practicalSection: {
       conditions: [
@@ -6154,13 +7061,34 @@ The Prophet ﷺ said: "The Muslim is the brother of the Muslim — he does not w
         arabic: 'إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ فَأَصْلِحُوا بَيْنَ أَخَوَيْكُمْ',
         translation: 'The believers are indeed brothers, so make peace between your brothers.',
         note: "The inna-ma construction is exclusive: believers are nothing but brothers. The implication is that if there is conflict between believers, the proper response is reconciliation, not taking sides. The brotherhood obligates the peacemaking.",
+      
+      morphology: [
+      {
+        word: 'إِخْوَةٌ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      {
+        word: 'أَخَوَيْ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
+      },
+      ],
+    },
       {
         ref: '3:103',
         arabic: 'وَاذْكُرُوا نِعْمَتَ اللَّهِ عَلَيْكُمْ إِذْ كُنتُمْ أَعْدَاءً فَأَلَّفَ بَيْنَ قُلُوبِكُمْ فَأَصْبَحْتُم بِنِعْمَتِهِ إِخْوَانًا',
         translation: 'And remember the favor of Allah upon you — when you were enemies and He brought your hearts together, so that by His grace you became brothers.',
         note: "The historical context is the tribes of Aws and Khazraj, who had been at war for generations. Faith dissolved the enmity and created brotherhood. This is the Quranic theology of ukhuwwah: it is Allah's gift, not human achievement.",
+      
+      morphology: [
+      {
+        word: 'إِخْوَٰنًا',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
       {
         ref: '59:9',
         arabic: 'وَيُؤْثِرُونَ عَلَىٰ أَنفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌ',
@@ -6248,7 +7176,15 @@ The Prophet ﷺ described sadaqah as protection, as purification, as investment:
         arabic: 'وَإِن تُخْفُوهَا وَتُؤْتُوهَا الْفُقَرَاءَ فَهُوَ خَيْرٌ لَّكُمْ',
         translation: 'And if you conceal it and give it to the poor, that is better for you.',
         note: "The preference for secret sadaqah — which guards against riya' (showing off) and is more likely to be pure for Allah. The secret gift has no audience except Allah. It is the purest form.",
+      
+      morphology: [
+      {
+        word: 'صَّدَقَٰتِ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
       {
         ref: '92:18-20',
         arabic: 'الَّذِي يُؤْتِي مَالَهُ يَتَزَكَّىٰ ۝ وَمَا لِأَحَدٍ عِندَهُ مِن نِّعْمَةٍ تُجْزَىٰ ۝ إِلَّا ابْتِغَاءَ وَجْهِ رَبِّهِ الْأَعْلَىٰ',
@@ -6338,13 +7274,34 @@ The Quran uses mithaq in multiple contexts: the covenant with the prophets (33:7
         arabic: 'وَإِذْ أَخَذْنَا مِنَ النَّبِيِّينَ مِيثَاقَهُمْ وَمِنكَ وَمِن نُّوحٍ وَإِبْرَاهِيمَ وَمُوسَىٰ وَعِيسَى ابْنِ مَرْيَمَ',
         translation: 'And when We took from the prophets their covenant — and from you, and from Nuh, Ibrahim, Musa, and Isa son of Maryam.',
         note: "The prophetic covenant — a mithaq specific to those sent with the message. The sequence (the Prophet ﷺ listed first, then the previous prophets in chronological order) establishes the covenant's hierarchy and the unity of the prophetic mission.",
+      
+      morphology: [
+      {
+        word: 'مِيثَٰقَ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      {
+        word: 'مِّيثَٰقًا',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
+      },
+      ],
+    },
       {
         ref: '4:21',
         arabic: 'وَكَيْفَ تَأْخُذُونَهُ وَقَدْ أَفْضَىٰ بَعْضُكُمْ إِلَىٰ بَعْضٍ وَأَخَذْنَ مِنكُم مِّيثَاقًا غَلِيظًا',
         translation: 'And how could you take it back when one of you has gone to the other, and they have taken from you a solemn covenant (mithaqan ghalizhan)?',
         note: "The marital bond as a 'heavy covenant' (mithaqan ghalizhan — only used in the Quran for this marital covenant and the prophetic covenant of 33:7). This is the strongest form of mithaq in human relationships.",
+      
+      morphology: [
+      {
+        word: 'مِّيثَٰقًا',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
     ],
     practicalSection: {
       conditions: [
@@ -6421,19 +7378,51 @@ Physical combat (qital) is one specific, conditional, and regulated form of jiha
         arabic: 'فَلَا تُطِعِ الْكَافِرِينَ وَجَاهِدْهُم بِهِ جِهَادًا كَبِيرًا',
         translation: 'So do not obey the disbelievers, and strive against them with it (the Quran) a great striving.',
         note: "This is a Meccan verse — before any physical conflict was permitted. The striving commanded here is jihad bil-Quran — the great jihad of the Quran, through conviction, argument, and steadfastness. The greatest jihad was described before any sword was drawn.",
+      
+      morphology: [
+      {
+        word: 'جَٰهِدْ',
+        form: 'Form III verb (imperative) — mutual/reciprocal',
+        pattern: 'فَاعَلَ',
+        significance: 'Form III indicates reciprocal or directed action toward another — an exchange, a mutual engagement, or an action deliberately aimed at someone.',
       },
+      {
+        word: 'جِهَادًا',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
+      },
+      ],
+    },
       {
         ref: '49:15',
         arabic: 'إِنَّمَا الْمُؤْمِنُونَ الَّذِينَ آمَنُوا بِاللَّهِ وَرَسُولِهِ ثُمَّ لَمْ يَرْتَابُوا وَجَاهَدُوا بِأَمْوَالِهِمْ وَأَنفُسِهِمْ فِي سَبِيلِ اللَّهِ',
         translation: 'The believers are only those who believe in Allah and His Messenger, then have not doubted, and have striven with their wealth and their lives in the path of Allah.',
         note: "Jihad with wealth and lives together — a reminder that the financial sacrifice is named first. The mujahid who funds the effort is participating in jihad equally with the one on the front lines.",
+      
+      morphology: [
+      {
+        word: 'جَٰهَدُ',
+        form: 'Form III verb (past) — mutual/reciprocal',
+        pattern: 'فَاعَلَ',
+        significance: 'Form III indicates reciprocal or directed action toward another — an exchange, a mutual engagement, or an action deliberately aimed at someone.',
       },
+      ],
+    },
       {
         ref: '9:20',
         arabic: 'الَّذِينَ آمَنُوا وَهَاجَرُوا وَجَاهَدُوا فِي سَبِيلِ اللَّهِ بِأَمْوَالِهِمْ وَأَنفُسِهِمْ أَعْظَمُ دَرَجَةً عِندَ اللَّهِ',
         translation: 'Those who believed and emigrated and strove in the path of Allah with their wealth and their lives are greater in rank with Allah.',
         note: "The combination: iman, hijra (sacrifice of home), and jihad with wealth and life. These are the full dimensions of the early Muslim community's total commitment. The verse reveals that jihad is always more than combat — it is the complete offering of oneself to the divine project.",
+      
+      morphology: [
+      {
+        word: 'جَٰهَدُ',
+        form: 'Form III verb (past) — mutual/reciprocal',
+        pattern: 'فَاعَلَ',
+        significance: 'Form III indicates reciprocal or directed action toward another — an exchange, a mutual engagement, or an action deliberately aimed at someone.',
       },
+      ],
+    },
     ],
     practicalSection: {
       conditions: [
@@ -6514,19 +7503,43 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
         arabic: 'إِنَّا عَرَضْنَا الْأَمَانَةَ عَلَى السَّمَاوَاتِ وَالْأَرْضِ وَالْجِبَالِ فَأَبَيْنَ أَن يَحْمِلْنَهَا وَأَشْفَقْنَ مِنْهَا وَحَمَلَهَا الْإِنسَانُ ۖ إِنَّهُ كَانَ ظَلُومًا جَهُولًا',
         translation: "Indeed, We offered the Trust to the heavens and the earth and the mountains, and they declined to bear it and feared it; but the human being undertook to bear it. Indeed, he was unjust and ignorant.",
         note: "This is among the most astonishing verses in the Quran. Creation recoiled from the weight of moral accountability. The human accepted. The seemingly negative attributes at the end — ẓalūm (greatly wrongdoing) and jahūl (deeply ignorant) — may describe the human's state at the moment of acceptance: undertaking something beyond reckoning. Some scholars read this as critique, others as a description of the immensity of what was accepted.",
+      
+      morphology: [
+      {
+        word: 'أَمَانَةَ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
       {
         ref: 'An-Nisa 4:58',
         arabic: 'إِنَّ اللَّهَ يَأْمُرُكُمْ أَن تُؤَدُّوا الْأَمَانَاتِ إِلَىٰ أَهْلِهَا',
         translation: "Indeed, Allah commands you to render trusts to their rightful owners.",
         note: "This verse comes immediately before the command to judge justly. The sequencing is deliberate: returning the amanah to its owner and ruling with justice are linked obligations. Every position of responsibility is itself an amanah — it belongs ultimately not to the one who holds it, but to the people it serves.",
+      
+      morphology: [
+      {
+        word: 'أَمَٰنَٰتِ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
       {
         ref: 'Al-Muminun 23:8',
         arabic: 'وَالَّذِينَ هُمْ لِأَمَانَاتِهِمْ وَعَهْدِهِمْ رَاعُونَ',
         translation: "And those who are mindful of their trusts and covenants.",
         note: "In the portrait of the successful believers (al-muflihun), guarding the amanah appears between humility in prayer and restraint of desires. It is not an isolated virtue — it sits at the center of a whole character type. The mumin is someone whose inner states and outer obligations are in alignment.",
+      
+      morphology: [
+      {
+        word: 'أَمَٰنَٰتِ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
     ],
     semanticField: [
       {
@@ -6619,13 +7632,31 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
         arabic: 'إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافِ اللَّيْلِ وَالنَّهَارِ... لَآيَاتٍ لِّقَوْمٍ يَعْقِلُونَ',
         translation: "Indeed, in the creation of the heavens and earth, the alternation of night and day... are signs for people who reason.",
         note: "Creation is not decoration — it is evidence. The Quran repeatedly points to the natural world as a proof of Allah's existence, wisdom, and power. But the proof only registers for those who reason. The universe is a book; the aql is the ability to read.",
+      
+      morphology: [
+      {
+        word: 'يَعْقِلُ',
+        form: 'Form I verb (present)',
+        pattern: 'فَعَلَ',
+        significance: 'The base verb form — the simplest, most direct expression of the action. The present/imperfect tense signals an ongoing or habitual action — not a single past event but a repeated or continuous state.',
       },
+      ],
+    },
       {
         ref: 'Al-Mulk 67:10',
         arabic: 'وَقَالُوا لَوْ كُنَّا نَسْمَعُ أَوْ نَعْقِلُ مَا كُنَّا فِي أَصْحَابِ السَّعِيرِ',
         translation: "And they will say: If only we had listened or reasoned, we would not be among the companions of the Fire.",
         note: "This verse places the aql alongside hearing as the two capacities whose neglect leads to ruin. The damned do not say 'if only we had been given more signs.' They say 'if only we had used what we had.' The intellect was always there; it was wasted.",
+      
+      morphology: [
+      {
+        word: 'نَعْقِلُ',
+        form: 'Form I verb (present)',
+        pattern: 'فَعَلَ',
+        significance: 'The base verb form — the simplest, most direct expression of the action. The present/imperfect tense signals an ongoing or habitual action — not a single past event but a repeated or continuous state.',
       },
+      ],
+    },
     ],
     semanticField: [
       {
@@ -6708,13 +7739,34 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
         arabic: 'وَاضْرِبْ لَهُم مَّثَلَ الْحَيَاةِ الدُّنْيَا كَمَاءٍ أَنزَلْنَاهُ مِنَ السَّمَاءِ فَاخْتَلَطَ بِهِ نَبَاتُ الْأَرْضِ فَأَصْبَحَ هَشِيمًا تَذْرُوهُ الرِّيَاحُ',
         translation: "And present to them the example of the life of this world: it is like rain which We send down from the sky, and the vegetation of the earth mingles with it and then becomes dry remnants, scattered by the winds.",
         note: "This is the Quran's most extended metaphor of the dunya. Notice its structure: the rain comes, the earth responds, growth happens — and then it becomes hashim, dried-out scraps blown away. The beauty of the dunya is not denied. The bloom is real. But so is the hashim.",
+      
+      morphology: [
+      {
+        word: 'دُّنْيَا',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
       {
         ref: 'Al-Hadid 57:20',
         arabic: 'اعْلَمُوا أَنَّمَا الْحَيَاةُ الدُّنْيَا لَعِبٌ وَلَهْوٌ وَزِينَةٌ وَتَفَاخُرٌ بَيْنَكُمْ وَتَكَاثُرٌ فِي الْأَمْوَالِ وَالْأَوْلَادِ',
         translation: "Know that the life of this world is but amusement and diversion and adornment and boasting to one another and competition in increase of wealth and children.",
         note: "This verse catalogues the dunya's seductions in a crescendo: play, diversion, adornment, boasting, accumulation. Each is more serious than the last. Play is innocent; boasting is vain; accumulation for its own sake is consuming. The verse continues with the rain metaphor — and then reveals what lies beyond: either severe punishment or forgiveness and pleasure from Allah.",
+      
+      morphology: [
+      {
+        word: 'دُّنْيَا',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      {
+        word: 'دُّنْيَآ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
+      },
+      ],
+    },
       {
         ref: 'Al-Imran 3:14',
         arabic: 'زُيِّنَ لِلنَّاسِ حُبُّ الشَّهَوَاتِ مِنَ النِّسَاءِ وَالْبَنِينَ وَالْقَنَاطِيرِ الْمُقَنطَرَةِ مِنَ الذَّهَبِ وَالْفِضَّةِ',
@@ -6812,13 +7864,29 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
         arabic: 'وَلَلْآخِرَةُ خَيْرٌ لَّكَ مِنَ الْأُولَىٰ',
         translation: "And the Hereafter is better for you than the first.",
         note: "Spoken in direct address to the Prophet ﷺ during a period of silence in revelation when he was distressed and people mocked him. The consolation Allah offers is not worldly — it is eschatological. Each moment that comes after will be better than what preceded it, and the ultimate 'after' is the akhira itself. This verse is both personal reassurance and cosmic principle.",
+      
+      morphology: [
+      {
+        word: 'ءَاخِرَةُ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
       {
         ref: 'Al-Qasas 28:77',
         arabic: 'وَابْتَغِ فِيمَا آتَاكَ اللَّهُ الدَّارَ الْآخِرَةَ ۖ وَلَا تَنسَ نَصِيبَكَ مِنَ الدُّنْيَا',
         translation: "But seek, through that which Allah has given you, the home of the Hereafter; and do not forget your share of this world.",
         note: "This remarkable verse — addressed to Qarun who was corrupted by wealth — establishes the proper priority without demanding monasticism. Seek the akhira as the ultimate goal. Use the dunya for that seeking. But do not forget your share of this life — the dunya is legitimate. The orientation, not the renunciation, is what matters.",
+      
+      morphology: [
+      {
+        word: 'ءَاخِرَةَ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
     ],
     semanticField: [
       {
@@ -6904,13 +7972,39 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
         arabic: 'هُوَ الَّذِي خَلَقَكُم مِّن طِينٍ ثُمَّ قَضَىٰ أَجَلًا ۖ وَأَجَلٌ مُّسَمًّى عِندَهُ',
         translation: "He is the One who created you from clay, then decreed a term, and there is a specified term with Him.",
         note: "Classical scholars identified two ajals here: the ajal of death (the term of this life) and the ajal musamma — the named, specified term with Allah, sometimes understood as the Day of Judgment. Every individual death and the final end of creation both belong to the same framework of divinely appointed terms.",
+      
+      morphology: [
+      {
+        word: 'أَجَلًا',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      {
+        word: 'أَجَلٌ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
+      },
+      ],
+    },
       {
         ref: 'Al-Araf 7:34',
         arabic: 'وَلِكُلِّ أُمَّةٍ أَجَلٌ ۖ فَإِذَا جَاءَ أَجَلُهُمْ لَا يَسْتَأْخِرُونَ سَاعَةً وَلَا يَسْتَقْدِمُونَ',
         translation: "And for every community there is a term. When their term comes, they cannot delay it by an hour, nor can they advance it.",
         note: "This verse, which appears with slight variation in multiple surahs, applies the doctrine of ajal to entire nations. History is not random. The collapse of the arrogant and the rise of the humble are part of the same divine ordering of terms. No civilization lasts forever, and none ends before its time.",
+      
+      morphology: [
+      {
+        word: 'أَجَلٌ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      {
+        word: 'أَجَلُ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
+      },
+      ],
+    },
       {
         ref: 'Yunus 10:49',
         arabic: 'لَا يَسْتَأْخِرُونَ سَاعَةً وَلَا يَسْتَقْدِمُونَ',
@@ -7000,13 +8094,30 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
         arabic: 'وَنَجَّيْنَاهُ وَلُوطًا إِلَى الْأَرْضِ الَّتِي بَارَكْنَا فِيهَا لِلْعَالَمِينَ',
         translation: "And We delivered him and Lut to the land which We had blessed for all peoples.",
         note: "Ibrahim and Lut are saved and brought to the blessed land — the land of prophets, the land from which monotheism would spread. The barakah of a place is not merely physical abundance; it is the function it serves in the divine plan. Some land is blessed because prophets walked it; some because the final revelation was sent from near it.",
+      
+      morphology: [
+      {
+        word: 'بَٰرَكْ',
+        form: 'Form III verb (past) — mutual/reciprocal',
+        pattern: 'فَاعَلَ',
+        significance: 'Form III indicates reciprocal or directed action toward another — an exchange, a mutual engagement, or an action deliberately aimed at someone.',
       },
+      ],
+    },
       {
         ref: 'Al-Dukhan 44:3',
         arabic: 'إِنَّا أَنزَلْنَاهُ فِي لَيْلَةٍ مُّبَارَكَةٍ',
         translation: "Indeed, We sent it down on a blessed night.",
         note: "The night on which the Quran was first revealed is a mubarak night — blessed, set apart, charged with divine attention. Scholars have identified this as either Laylat al-Qadr or the night of the 15th of Sha'ban; the majority hold it is Laylat al-Qadr. The revelation of the Quran is itself an outpouring of barakah into time.",
+      
+      morphology: [
+      {
+        word: 'مُّبَٰرَكَةٍ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
       {
         ref: 'Al-Anam 6:92',
         arabic: 'وَهَٰذَا كِتَابٌ أَنزَلْنَاهُ مُبَارَكٌ',
@@ -7096,13 +8207,30 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
         arabic: 'وَالْجَانَّ خَلَقْنَاهُ مِن قَبْلُ مِن نَّارِ السَّمُومِ',
         translation: "And the jinn We created before from scorching fire.",
         note: "Created before Adam, from a different substance. The Quran's cosmology includes both the temporal and material priority of the jinn. They inhabited the earth and, according to classical scholars, were displaced or reorganized when humans were created and established as the vicegerents of Allah.",
+      
+      morphology: [
+      {
+        word: 'جَآنَّ',
+        form: 'Active participle',
+        pattern: 'فَاعِل',
+        significance: 'The active participle marks an ongoing state, not a completed action. This is not someone who did the action once but someone who IS in the state of doing it — a defining characteristic, not a past event.',
       },
+      ],
+    },
       {
         ref: 'Al-Jinn 72:1-2',
         arabic: 'قُلْ أُوحِيَ إِلَيَّ أَنَّهُ اسْتَمَعَ نَفَرٌ مِّنَ الْجِنِّ فَقَالُوا إِنَّا سَمِعْنَا قُرْآنًا عَجَبًا يَهْدِي إِلَى الرُّشْدِ فَآمَنَّا بِهِ',
         translation: 'Say: It has been revealed to me that a group of the jinn listened and said: We have heard a wondrous Quran that guides to righteousness, so we have believed in it.',
         note: "The jinn's encounter with the Quran is itself a kind of miracle. They were seeking something — they recognized the Quran as its fulfillment. Their testimony affirms what the Quran is: a guide to righteousness (al-rushd). The fact that Allah revealed this event to the Prophet ﷺ and commanded him to announce it suggests its importance — the Quran's call is universal, not merely human.",
+      
+      morphology: [
+      {
+        word: 'جِنِّ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
       {
         ref: 'Al-Rahman 55:33',
         arabic: 'يَا مَعْشَرَ الْجِنِّ وَالْإِنسِ إِنِ اسْتَطَعْتُمْ أَن تَنفُذُوا مِنْ أَقْطَارِ السَّمَاوَاتِ وَالْأَرْضِ فَانفُذُوا',
@@ -8020,13 +9148,29 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
         arabic: 'وَأَمَّا عَادٌ فَأُهْلِكُوا بِرِيحٍ صَرْصَرٍ عَاتِيَةٍ سَخَّرَهَا عَلَيْهِمْ سَبْعَ لَيَالٍ وَثَمَانِيَةَ أَيَّامٍ حُسُومًا',
         translation: "As for Ad, they were destroyed by a screaming, raging wind which He unleashed upon them for seven nights and eight days consecutively.",
         note: "The precision of seven nights and eight days makes this concrete and specific — not a general destruction but a dated, witnessed catastrophe. The word husuman (consecutively, relentlessly) emphasizes the sustained nature of the punishment. No intermission. No chance for the people to reassemble or rebuild during the storm. The wind did not stop until the work was complete.",
+      
+      morphology: [
+      {
+        word: 'عَادٌ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
       {
         ref: 'Fussilat 41:15',
         arabic: 'فَأَمَّا عَادٌ فَاسْتَكْبَرُوا فِي الْأَرْضِ بِغَيْرِ الْحَقِّ وَقَالُوا مَنْ أَشَدُّ مِنَّا قُوَّةً',
         translation: "As for Ad, they were arrogant in the land without right and said: Who is mightier than us in power?",
         note: "Their sin is identified precisely: istikbar (arrogance) and the boast of incomparable power. The phrase bi-ghayri al-haqq (without right) is theologically important: claiming a station one has not earned, basing superiority on what was given rather than gratitude for the gift. They confused the given with the deserved.",
+      
+      morphology: [
+      {
+        word: 'عَادٌ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
     ],
     semanticField: [
       {
@@ -8166,7 +9310,15 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
         arabic: 'إِذْ أَوَى الْفِتْيَةُ إِلَى الْكَهْفِ فَقَالُوا رَبَّنَا آتِنَا مِن لَّدُنكَ رَحْمَةً وَهَيِّئْ لَنَا مِنْ أَمْرِنَا رَشَدًا',
         translation: "When the young men took refuge in the cave and said: Our Lord, grant us from Yourself mercy, and prepare for us from our affair right guidance.",
         note: "Their du'a at the moment of retreat. Two requests: rahmah (mercy) and rushd (right direction). They are not asking for safety in any specific form; they are asking for mercy and for their affairs to be rightly ordered. This is the perfect du'a of the uncertain situation: I do not know what I need specifically, but You are Mercy and You know the right direction — so give me both. The response is divine sleep and divine protection for three centuries.",
+      
+      morphology: [
+      {
+        word: 'كَهْفِ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
       {
         ref: 'Al-Kahf 18:13-14',
         arabic: 'نَحْنُ نَقُصُّ عَلَيْكَ نَبَأَهُم بِالْحَقِّ ۚ إِنَّهُمْ فِتْيَةٌ آمَنُوا بِرَبِّهِمْ وَزِدْنَاهُمْ هُدًى وَرَبَطْنَا عَلَىٰ قُلُوبِهِمْ',
@@ -8248,7 +9400,15 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
         arabic: 'قَالَ إِنَّمَا أُوتِيتُهُ عَلَىٰ عِلْمٍ عِندِي',
         translation: "He said: I was given it only on account of knowledge I have.",
         note: "The answer of Qarun — and the defining mistake. He does not deny that he has wealth; he denies its source. The shift from divine gift to personal achievement is the exact mechanism of kufr al-ni'mah (denial of a blessing). He credits himself. This is the Quran's warning about meritocracy unchecked by gratitude: when success is entirely attributed to personal intelligence or effort, the giver disappears from the account.",
+      
+      morphology: [
+      {
+        word: 'قُرُونِ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
       {
         ref: 'Al-Qasas 28:81-82',
         arabic: 'فَخَسَفْنَا بِهِ وَبِدَارِهِ الْأَرْضَ... وَأَصْبَحَ الَّذِينَ تَمَنَّوْا مَكَانَهُ بِالْأَمْسِ يَقُولُونَ وَيْكَأَنَّ اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ',
@@ -8846,19 +10006,43 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
         arabic: "الرَّحْمَٰنُ عَلَى الْعَرْشِ اسْتَوَىٰ",
         translation: "Al-Rahman — the Most Merciful — is established over the Throne.",
         note: "Seven times the Quran repeats the phrase 'istawa ala al-Arsh' (is established over the Throne), and in this instance it is preceded by the divine name Al-Rahman — the Most Merciful. This juxtaposition is not accidental. The supreme power (symbolized by the Throne) is exercised by the supreme Mercy. The God who governs all of creation from the highest throne does so as the Most Merciful — not as a distant, cold sovereign, but as One whose first and defining attribute is rahmah.",
+      
+      morphology: [
+      {
+        word: 'عَرْشِ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
       {
         ref: "Al-Haqqah 69:17",
         arabic: "وَالْمَلَكُ عَلَىٰ أَرْجَائِهَا ۚ وَيَحْمِلُ عَرْشَ رَبِّكَ فَوْقَهُمْ يَوْمَئِذٍ ثَمَانِيَةٌ",
         translation: "And the angels are at its edges, and above them that Day eight will carry the Throne of your Lord.",
         note: "On the Day of Judgment, when the heavens are rent and all creation is gathered, the Throne of Allah is carried by eight. The enormity of this image — eight angels bearing the grandest thing in creation — is the Quran's way of preparing consciousness for the scale of the Day. Everything that seemed permanent is restructured; even the Throne appears within the horizon of the Last Day.",
+      
+      morphology: [
+      {
+        word: 'عَرْشَ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
       {
         ref: "Hud 11:7",
         arabic: "وَهُوَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي سِتَّةِ أَيَّامٍ وَكَانَ عَرْشُهُ عَلَى الْمَاءِ",
         translation: "And it is He who created the heavens and the earth in six days — and His Throne was upon the water.",
         note: "Before the creation of the heavens and the earth, the Throne was above the water. This gives the Arsh a pre-cosmic status — it is among the earliest created things, preceding the familiar structure of the universe. The hadith literature expands this: 'the first thing Allah created was the Pen' (in some narrations) or 'the Throne was above water' (in others). Both point to the same truth: the divine sovereignty (Arsh) and the divine decree (Pen) precede the world they govern.",
+      
+      morphology: [
+      {
+        word: 'عَرْشُ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
     ],
     semanticField: [
       {
@@ -8927,7 +10111,15 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
         arabic: "اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ ۚ لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ ۚ لَّهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ مَن ذَا الَّذِي يَشْفَعُ عِندَهُ إِلَّا بِإِذْنِهِ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَيْءٍ مِّنْ عِلْمِهِ إِلَّا بِمَا شَاءَ ۚ وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ ۖ وَلَا يَئُودُهُ حِفْظُهُمَا ۚ وَهُوَ الْعَلِيُّ الْعَظِيمُ",
         translation: "Allah — there is no deity except Him, the Ever-Living, the Self-Sustaining. Neither drowsiness overtakes Him nor sleep. To Him belongs whatever is in the heavens and whatever is on the earth. Who is it that can intercede with Him except by His permission? He knows what is before them and what will be after them, and they encompass not a thing of His knowledge except for what He wills. His Kursi extends over the heavens and the earth, and their preservation tires Him not. And He is the Most High, the Most Great.",
         note: "Ayat al-Kursi is described in hadith as the greatest verse in the Quran (Muslim). Its structure is a masterpiece of Arabic rhetoric — each phrase expanding divine sovereignty by removing a limitation. He does not sleep; everything belongs to Him; intercession is only by permission; His knowledge encompasses all while theirs encompasses nothing; His Kursi encompasses all of space; guarding all of it costs Him nothing. The verse ends with two divine names: Al-Aliyy (the Most High) and Al-Azim (the Most Great). Reciting this verse after every obligatory prayer is among the most recommended acts in the Sunnah, with the hadith reporting that nothing separates the one who does so from Paradise except death.",
+      
+      morphology: [
+      {
+        word: 'كُرْسِيُّ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
     ],
     semanticField: [
       {
@@ -8997,7 +10189,15 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
         arabic: "بَلْ هُوَ قُرْآنٌ مَّجِيدٌ فِي لَوْحٍ مَّحْفُوظٍ",
         translation: "Rather, it is a Glorious Quran in a Preserved Tablet.",
         note: "The closing statement of Surah Al-Buruj: after describing the persecutors of the believers and the fate that awaits them, Allah turns the lens to the Quran itself. Whatever its opponents say or do, the Quran is Glorious (Majid — noble, boundlessly generous) and it rests in the Preserved Tablet. No persecution can touch what is written in the most protected place in existence. This is the Quran's self-testimony about its own origin and its own inviolability.",
+      
+      morphology: [
+      {
+        word: 'لَوْحٍ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
       {
         ref: "Al-An'am 6:59",
         arabic: "وَعِندَهُ مَفَاتِحُ الْغَيْبِ لَا يَعْلَمُهَا إِلَّا هُوَ ۚ وَيَعْلَمُ مَا فِي الْبَرِّ وَالْبَحْرِ ۚ وَمَا تَسْقُطُ مِن وَرَقَةٍ إِلَّا يَعْلَمُهَا وَلَا حَبَّةٍ فِي ظُلُمَاتِ الْأَرْضِ وَلَا رَطْبٍ وَلَا يَابِسٍ إِلَّا فِي كِتَابٍ مُّبِينٍ",
@@ -9081,13 +10281,34 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
         arabic: "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
         translation: "Guide us to the straight path — the path of those upon whom You have bestowed favor, not those who have evoked anger nor those who are astray.",
         note: "The petition of every Muslim in every prayer. The Quran defines the sirat al-mustaqim not in abstract terms but in relational ones: it is the path of those whom Allah has blessed (the prophets, the truthful, the martyrs, the righteous — as identified in 4:69). The negative definitions (not the angered, not the astray) are just as important: the path is known partly by what it avoids. This dual-definition — follow the rightly guided, avoid the errors of those who rejected guidance or departed from it — is the complete practical map of the sirat.",
+      
+      morphology: [
+      {
+        word: 'صِّرَٰطَ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      {
+        word: 'صِرَٰطَ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
+      },
+      ],
+    },
       {
         ref: "Ya-Sin 36:66",
         arabic: "وَلَوْ نَشَاءُ لَطَمَسْنَا عَلَىٰ أَعْيُنِهِمْ فَاسْتَبَقُوا الصِّرَاطَ فَأَنَّىٰ يُبْصِرُونَ",
         translation: "And if We willed, We could obliterate their eyes, and they would race to the path — but how would they see?",
         note: "An image of the human condition: those who reject guidance would still seek the path if they were blinded — they would race toward it out of desperation — but without sight, how would they find it? This verse is Allah's statement about the gift of guidance: sight (basirah — inner sight) is required to navigate the sirat. The path exists; the question is whether one can see it. Guidance is the giving of sight.",
+      
+      morphology: [
+      {
+        word: 'صِّرَٰطَ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
     ],
     semanticField: [
       {
@@ -9160,7 +10381,15 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
         arabic: "لَا أُقْسِمُ بِيَوْمِ الْقِيَامَةِ وَلَا أُقْسِمُ بِالنَّفْسِ اللَّوَّامَةِ أَيَحْسَبُ الْإِنسَانُ أَلَّن نَّجْمَعَ عِظَامَهُ بَلَىٰ قَادِرِينَ عَلَىٰ أَن نُّسَوِّيَ بَنَانَهُ",
         translation: "I swear by the Day of Resurrection, and I swear by the self-reproaching soul — does man think We will not reassemble his bones? Yes — We are capable of restoring even his very fingertips.",
         note: "The Quran opens Surah Al-Qiyamah with a double oath: by the Day and by the lawwama soul. The connection is theological: the soul that reproaches itself is the one that has maintained enough consciousness to feel the weight of its actions — and this soul is the most likely to take the Day seriously. The answer to the skeptic who denies resurrection: not only will the bones be gathered, but even the fingertips — the most individual, most unique part of a body (every fingerprint is different) — will be restored exactly as they were.",
+      
+      morphology: [
+      {
+        word: 'قِيَٰمَةِ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
       {
         ref: "Al-Infitar 82:17-19",
         arabic: "وَمَا أَدْرَاكَ مَا يَوْمُ الدِّينِ ثُمَّ مَا أَدْرَاكَ مَا يَوْمُ الدِّينِ يَوْمَ لَا تَمْلِكُ نَفْسٌ لِّنَفْسٍ شَيْئًا ۖ وَالْأَمْرُ يَوْمَئِذٍ لِّلَّهِ",
@@ -9257,7 +10486,16 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
         arabic: "وَنَضَعُ الْمَوَازِينَ الْقِسْطَ لِيَوْمِ الْقِيَامَةِ فَلَا تُظْلَمُ نَفْسٌ شَيْئًا ۖ وَإِن كَانَ مِثْقَالَ حَبَّةٍ مِّنْ خَرْدَلٍ أَتَيْنَا بِهَا ۗ وَكَفَىٰ بِنَا حَاسِبِينَ",
         translation: "And We will place the scales of justice for the Day of Resurrection — so no soul will be wronged at all. And if there is the weight of a mustard seed, We will bring it forth. And sufficient are We as accountant.",
         note: "Three guarantees about the Hisab: perfect justice (no soul wronged), complete record (even a mustard seed's weight), and divine sufficiency (no external audit needed — Allah is the complete and perfect accountant). The Quran's emphasis that 'no soul will be wronged at all' — la tuzlamu nafsun shay'an — is the theological foundation of Islamic trust in divine justice on the Last Day. The reckoning may be hard, but it will be perfectly fair.",
+      
+      morphology: [
+      {
+        word: 'حَٰسِبِينَ',
+        form: 'Active participle',
+        pattern: 'فَاعِل',
+        significance: 'The active participle marks an ongoing state, not a completed action. This is not someone who did the action once but someone who IS in the state of doing it — a defining characteristic, not a past event.',
       },
+      ],
+    },
       {
         ref: "Al-Isra 17:13-14",
         arabic: "وَكُلَّ إِنسَانٍ أَلْزَمْنَاهُ طَائِرَهُ فِي عُنُقِهِ ۖ وَنُخْرِجُ لَهُ يَوْمَ الْقِيَامَةِ كِتَابًا يَلْقَاهُ مَنشُورًا اقْرَأْ كِتَابَكَ كَفَىٰ بِنَفْسِكَ الْيَوْمَ عَلَيْكَ حَسِيبًا",
@@ -9427,7 +10665,15 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
         arabic: "لِإِيلَافِ قُرَيْشٍ إِيلَافِهِمْ رِحْلَةَ الشِّتَاءِ وَالصَّيْفِ فَلْيَعْبُدُوا رَبَّ هَٰذَا الْبَيْتِ الَّذِي أَطْعَمَهُم مِّن جُوعٍ وَآمَنَهُم مِّنْ خَوْفٍ",
         translation: "For the covenanting of Quraysh — their covenant of the winter and summer journey — let them worship the Lord of this House, who has fed them against hunger and made them safe against fear.",
         note: "This surah is a direct divine argument to Quraysh: you have been given two gifts — feeding (provision secured through the sacred status of Mecca) and safety (the security of the sacred months). Both of these gifts come from the Lord of this House (the Kaabah). The logical conclusion — 'let them worship the Lord of this House' — is the Quran's invitation to the tribe who managed the sanctuary to actually worship its Lord, not the idols they had placed within it. The argument is built on what Quraysh already acknowledged: that Allah is the One who provides and protects.",
+      
+      morphology: [
+      {
+        word: 'قُرَيْشٍ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
       {
         ref: "Al-Masad 111:1-5",
         arabic: "تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ مَا أَغْنَىٰ عَنْهُ مَالُهُ وَمَا كَسَبَ سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ",
@@ -9504,7 +10750,15 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
         arabic: "قُتِلَ أَصْحَابُ الْأُخْدُودِ النَّارِ ذَاتِ الْوَقُودِ إِذْ هُمْ عَلَيْهَا قُعُودٌ وَهُمْ عَلَىٰ مَا يَفْعَلُونَ بِالْمُؤْمِنِينَ شُهُودٌ وَمَا نَقَمُوا مِنْهُمْ إِلَّا أَن يُؤْمِنُوا بِاللَّهِ الْعَزِيزِ الْحَمِيدِ",
         translation: "Destroyed were the Companions of the Ditch — the fire with its fuel — as they sat beside it and witnessed what they did to the believers. They did not resent them except because they believed in Allah, the Almighty, the Praiseworthy.",
         note: "The simplicity of the accusation is devastating: 'they did not resent them except because they believed in Allah.' The only crime of the people in the ditch was their faith. The Quran's condemnation of the persecutors is framed not around violence (which is obvious) but around the absurdity and injustice of the crime: people were burned for believing in Al-Aziz (the Almighty) and Al-Hamid (the Praiseworthy). The divine names in this context are not incidental — Al-Aziz will not leave this unavenged; Al-Hamid, whom they praised in the fire, will be their witness.",
+      
+      morphology: [
+      {
+        word: 'أُخْدُودِ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
     ],
     semanticField: [
       {
@@ -9572,7 +10826,15 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
         arabic: "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ الْفِيلِ أَلَمْ يَجْعَلْ كَيْدَهُمْ فِي تَضْلِيلٍ وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍ",
         translation: "Have you not considered how your Lord dealt with the Companions of the Elephant? Did He not make their plan into misguidance? And He sent against them birds in flocks, pelting them with stones of hardened clay, making them like eaten straw.",
         note: "The opening address — 'have you not considered?' (alam tara) — is directed to the Prophet but reaches the audience: this is something you know about, something recent enough to remember. The kayd (plan, scheme) of Abraha was turned into tadlil (misguidance, going astray) — not merely defeated but converted into its opposite. The birds (tayr ababil — birds in flocks) with stones of sijjil (baked clay) destroyed the greatest military force Arabia had seen. The final image — ka-'asfin ma'kul (like eaten straw, devoured chaff) — reduces the elephant army to the most disposable thing imaginable.",
+      
+      morphology: [
+      {
+        word: 'فِيلِ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
     ],
     semanticField: [
       {
@@ -9956,7 +11218,21 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
         arabic: "إِنَّ عَلَيْنَا جَمْعَهُ وَقُرْآنَهُ فَإِذَا قَرَأْنَاهُ فَاتَّبِعْ قُرْآنَهُ",
         translation: "Indeed, upon Us is its collection and its recitation. So when We have recited it, follow its recitation.",
         note: "Allah takes direct responsibility for the preservation and recitation of the Quran — both its gathering (jam') and its recitation (qur'an). The instruction to follow the recitation when it is recited is the divine authorization for the transmission-based nature of Quranic learning: it is received through recitation and transmitted through recitation. The qira'at tradition is the institutionalization of this: the authorized modes of recitation that were transmitted from the Prophet's own recitation by chains of reliable scholars.",
+      
+      morphology: [
+      {
+        word: 'قُرْءَانَ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      {
+        word: 'قَرَأْ',
+        form: 'Form I verb (past)',
+        pattern: 'فَعَلَ',
+        significance: 'The base verb form — the simplest, most direct expression of the action. The past/perfect tense marks a completed, definitive action — something that has been decided and done.',
+      },
+      ],
+    },
       {
         ref: "Al-Hijr 15:9",
         arabic: "إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ لَحَافِظُونَ",
@@ -10187,13 +11463,29 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
         arabic: "مَالِكِ يَوْمِ الدِّينِ",
         translation: "Master of the Day of Recompense.",
         note: "The eschatological Day in the most recited verse of the Quran. Every Muslim recites Al-Fatihah at minimum 17 times per day in the five prayers — meaning every Muslim acknowledges the Day of Recompense at least 17 times daily. The word maliki (or maaliki — two authorized readings) presents Allah as the Owner/Master/Sovereign of the Day. On that Day, all claims of sovereignty that human beings assert over each other dissolve; only divine sovereignty remains.",
+      
+      morphology: [
+      {
+        word: 'يَوْمِ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
       {
         ref: "Al-Sajdah 32:5",
         arabic: "يُدَبِّرُ الْأَمْرَ مِنَ السَّمَاءِ إِلَى الْأَرْضِ ثُمَّ يَعْرُجُ إِلَيْهِ فِي يَوْمٍ كَانَ مِقْدَارُهُ أَلْفَ سَنَةٍ مِّمَّا تَعُدُّونَ",
         translation: "He arranges each matter from the heaven to the earth; then it will ascend to Him in a Day whose measure is a thousand years of those which you count.",
         note: "The divine 'day' is not equivalent to human time. A thousand years of human reckoning pass within what Allah describes as 'a day.' This is not contradiction but expansion: the Quran reveals that time is created, that its scales are relative, and that divine governance operates in timeframes that dwarf human calendars. The Day of Judgment ('fifty thousand years' in 70:4) similarly exceeds all human timescales — and yet for the righteous, it will pass as easily as a brief prayer.",
+      
+      morphology: [
+      {
+        word: 'يَوْمٍ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
     ],
     semanticField: [
       {
@@ -10266,13 +11558,34 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
         arabic: "إِنَّا أَنزَلْنَاهُ فِي لَيْلَةِ الْقَدْرِ وَمَا أَدْرَاكَ مَا لَيْلَةُ الْقَدْرِ لَيْلَةُ الْقَدْرِ خَيْرٌ مِّنْ أَلْفِ شَهْرٍ تَنَزَّلُ الْمَلَائِكَةُ وَالرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن كُلِّ أَمْرٍ",
         translation: "Indeed, We sent it down on the Night of Power. And what can make you know what is the Night of Power? The Night of Power is better than a thousand months. The angels and the Spirit descend therein by permission of their Lord for every matter.",
         note: "The supreme night in the entire Quran. The superlative ('better than a thousand months') makes mathematical what theology says: one night of worship on Laylat al-Qadr is worth more than 83 years of worship on other nights. The descent of the angels and the Ruh (Jibril) with every divine decree makes this night the annual moment of divine governance most vivid to human consciousness. Seeking this night in the last ten of Ramadan is among the most intensely practiced Sunnahs.",
+      
+      morphology: [
+      {
+        word: 'لَيْلَةِ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      {
+        word: 'لَيْلَةُ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
+      },
+      ],
+    },
       {
         ref: "Al-Muzzammil 73:1-4",
         arabic: "يَا أَيُّهَا الْمُزَّمِّلُ قُمِ اللَّيْلَ إِلَّا قَلِيلًا نِّصْفَهُ أَوِ انقُصْ مِنْهُ قَلِيلًا أَوْ زِدْ عَلَيْهِ",
         translation: "O you who wraps himself — arise during the night except for a little — half of it, or subtract from it a little, or add to it.",
         note: "The first command to the Prophet for nighttime prayer. The address — 'O you who wraps himself' (al-muzzammil) — is intimate, catching the Prophet in his private moment. The command: arise during the night. The flexibility — half, or less, or more — shows the divine accommodation of different capacities while insisting on the practice. Night prayer is not a peripheral optional — it is the first specific obligation given to the Prophet after the first revelation.",
+      
+      morphology: [
+      {
+        word: 'يْلَ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
       {
         ref: "Al-Isra 17:79",
         arabic: "وَمِنَ اللَّيْلِ فَتَهَجَّدْ بِهِ نَافِلَةً لَّكَ عَسَىٰ أَن يَبْعَثَكَ رَبُّكَ مَقَامًا مَّحْمُودًا",
@@ -10350,13 +11663,29 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
         arabic: "الَّذِي خَلَقَ الْمَوْتَ وَالْحَيَاةَ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا",
         translation: "Who created death and life to test you as to which of you is best in deed.",
         note: "Death is created (khaqa al-mawt) — it is not a natural inevitability but a divine choice, an instrument with a purpose. And the purpose is: test (balwa), to find who is best in deed (ahsanu amalan). The sequence — death before life in this verse — is deliberate: classical scholars note that death is mentioned first because it was created first (before the world), or because the consciousness of death is what gives life its moral urgency. The test of life is measured against the backdrop of death.",
+      
+      morphology: [
+      {
+        word: 'مَوْتَ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
       {
         ref: "Al-Imran 3:185",
         arabic: "كُلُّ نَفْسٍ ذَائِقَةُ الْمَوْتِ ۗ وَإِنَّمَا تُوَفَّوْنَ أُجُورَكُمْ يَوْمَ الْقِيَامَةِ",
         translation: "Every soul will taste death. And only on the Day of Resurrection will you be given your full recompense.",
         note: "The universality of death followed immediately by the universality of recompense. 'Dha'iqat al-mawt' — 'will taste death' — is an unusual metaphor: death is experienced as tasted, not merely undergone. The tasting is active, participatory. And the full reward (ajr) comes on the Day of Resurrection: not at death, not in the barzakh, but at the resurrection. This is the complete frame of the Quranic account of human temporality: death is the taste, resurrection is the meal.",
+      
+      morphology: [
+      {
+        word: 'مَوْتِ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
       {
         ref: "Al-Sajdah 32:11",
         arabic: "قُلْ يَتَوَفَّاكُم مَّلَكُ الْمَوْتِ الَّذِي وُكِّلَ بِكُمْ ثُمَّ إِلَىٰ رَبِّكُمْ تُرْجَعُونَ",
@@ -10445,7 +11774,20 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
         arabic: "وَمَا هَٰذِهِ الْحَيَاةُ الدُّنْيَا إِلَّا لَهْوٌ وَلَعِبٌ ۚ وَإِنَّ الدَّارَ الْآخِرَةَ لَهِيَ الْحَيَوَانُ ۚ لَوْ كَانُوا يَعْلَمُونَ",
         translation: "And this worldly life is not but amusement and diversion. And indeed, the home of the Hereafter — that is truly the life, if only they knew.",
         note: "The Quran's most concentrated statement about the relative status of the two lives. Al-hayah al-dunya is lahw (amusement) and la'ib (play) — not evil, but transient and non-serious compared to what follows. Al-dar al-akhirah is al-hayawan — a word that intensifies hayah: not just life but Life, real and complete life, the fullness of existence. The phrase 'if only they knew' is the Quran's sadness about the illusion: if they understood, they would not invest so fully in what is merely amusement.",
+      
+      morphology: [
+      {
+        word: 'حَيَوٰةُ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      {
+        word: 'حَيَوَانُ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
+      },
+      ],
+    },
       {
         ref: "Al-An'am 6:122",
         arabic: "أَوَمَن كَانَ مَيْتًا فَأَحْيَيْنَاهُ وَجَعَلْنَا لَهُ نُورًا يَمْشِي بِهِ فِي النَّاسِ كَمَن مَّثَلُهُ فِي الظُّلُمَاتِ لَيْسَ بِخَارِجٍ مِّنْهَا",
@@ -10531,13 +11873,36 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
         arabic: "ظَهَرَ الْفَسَادُ فِي الْبَرِّ وَالْبَحْرِ بِمَا كَسَبَتْ أَيْدِي النَّاسِ لِيُذِيقَهُم بَعْضَ الَّذِي عَمِلُوا لَعَلَّهُمْ يَرْجِعُونَ",
         translation: "Corruption has appeared throughout the land and sea by what the hands of people have earned, so He may let them taste part of what they have done that perhaps they will return.",
         note: "The most striking Quranic statement about the ecological and social dimensions of human moral failure. 'Corruption has appeared in the land and the sea' — not just in individual hearts or social institutions but in the physical world itself. Human wrongdoing (kasabat aydi al-nas — what people's hands have earned) produces visible disruption of the created order. The purpose of allowing some of this consequence to be experienced: 'perhaps they will return' (la'allahum yarji'un) — the disruption itself is an invitation to tawbah and islah.",
+      
+      morphology: [
+      {
+        word: 'فَسَادُ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
       {
         ref: "Al-Baqarah 2:11-12",
         arabic: "وَإِذَا قِيلَ لَهُمْ لَا تُفْسِدُوا فِي الْأَرْضِ قَالُوا إِنَّمَا نَحْنُ مُصْلِحُونَ أَلَا إِنَّهُمْ هُمُ الْمُفْسِدُونَ وَلَٰكِن لَّا يَشْعُرُونَ",
         translation: "And when it is said to them: Do not cause corruption on the earth — they say: We are only reformers. Unquestionably, they are the ones causing corruption, but they do not perceive.",
         note: "Among the most psychologically precise observations in the Quran: those causing the most damage often genuinely believe they are reformers. The hypocrites are the paradigm case — claiming islah while actually practicing fasad. The self-deception is complete: 'they do not perceive.' This is the fasad of the self-righteous — perhaps the most dangerous form, because it cannot be corrected by external critique (they dismiss critique as coming from enemies), only by divine guidance that penetrates the self-deception.",
+      
+      morphology: [
+      {
+        word: 'تُفْسِدُ',
+        form: 'Form IV verb (present) — causative',
+        pattern: 'أَفْعَلَ',
+        significance: 'Form IV is causative — it means to bring about the action in another or to make something happen. The agent here is the initiator of a process, not merely its performer.',
       },
+      {
+        word: 'مُفْسِدُونَ',
+        form: 'Active participle',
+        pattern: 'مُفْعِل',
+        significance: 'The Form IV active participle marks the agent of a causative action — one who brings about a state in others or in the world.',
+      },
+      ],
+    },
       {
         ref: "Al-A'raf 7:56",
         arabic: "وَلَا تُفْسِدُوا فِي الْأَرْضِ بَعْدَ إِصْلَاحِهَا",
@@ -10626,7 +11991,15 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
         arabic: "وَالَّذِينَ اسْتَجَابُوا لِرَبِّهِمْ وَأَقَامُوا الصَّلَاةَ وَأَمْرُهُمْ شُورَىٰ بَيْنَهُمْ وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ",
         translation: "And those who have responded to their Lord and established prayer, and whose affair is consultation among themselves, and from what We have provided them, they spend.",
         note: "Shura is here listed among the defining characteristics of the believing community — alongside response to the divine call, establishment of prayer, and spending in charity. The placement is significant: shura is not a political option but a characteristic of community life as essential as prayer and charity. Amruhum (their affair) is communal — the community's decisions, the community's concerns, the community's future — and this must be shura baynuhum (consultation among themselves).",
+      
+      morphology: [
+      {
+        word: 'شُورَىٰ',
+        form: 'Noun',
+        significance: 'Used as a noun (not a verb or participle), the concept is presented as a thing in itself — an abstract reality, a standalone quality that can be sought, given, or lost.',
       },
+      ],
+    },
       {
         ref: "Al-Imran 3:159",
         arabic: "فَبِمَا رَحْمَةٍ مِّنَ اللَّهِ لِنتَ لَهُمْ ۖ وَلَوْ كُنتَ فَظًّا غَلِيظَ الْقَلْبِ لَانفَضُّوا مِنْ حَوْلِكَ ۖ فَاعْفُ عَنْهُمْ وَاسْتَغْفِرْ لَهُمْ وَشَاوِرْهُمْ فِي الْأَمْرِ",
