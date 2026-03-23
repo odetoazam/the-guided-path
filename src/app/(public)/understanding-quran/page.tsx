@@ -822,6 +822,19 @@ export default function UnderstandingQuranPage() {
             </p>
           </section>
 
+          {/* ── Cross-link to Ulum al-Quran ── */}
+          <div className="my-10 rounded-xl border border-[rgba(212,175,55,0.15)] bg-[rgba(212,175,55,0.04)] px-6 py-5">
+            <p className="text-sm leading-relaxed text-zinc-600 dark:text-zinc-400">
+              <strong className="text-zinc-700 dark:text-zinc-300">Ready to go deeper?</strong>{' '}
+              This guide taught you how to read — but the Quran has been studied through{' '}
+              <Link href="/ulum-al-quran" className="text-[rgba(212,175,55,0.8)] hover:text-[rgba(212,175,55,1)] transition-colors underline underline-offset-2">
+                18 formal disciplines
+              </Link>{' '}
+              developed over 1,400 years. Explore the full taxonomy of Quranic sciences — from morphology
+              and rhetoric to abrogation and inimitability — with live ayah examples and difficulty tiers.
+            </p>
+          </div>
+
           {/* ── FAQ ── */}
           <section id="faq" aria-labelledby="faq-heading" className="mt-14">
             <div className="mb-6 border-b border-zinc-200 dark:border-zinc-800 pb-4">
