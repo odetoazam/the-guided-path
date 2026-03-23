@@ -119,8 +119,8 @@ export default async function GlossaryEntryPage({ params }: Props) {
           </h1>
           <p className="mt-1.5 text-xs italic text-zinc-500 dark:text-zinc-600">{entry.pronunciation}</p>
 
-          <p className="mx-auto mt-5 max-w-xl text-sm leading-relaxed text-zinc-600 dark:text-zinc-400">
-            {entry.summary}
+          <p className="mx-auto mt-5 max-w-lg text-sm leading-relaxed text-zinc-600 dark:text-zinc-400 italic">
+            {entry.evocativeLine}
           </p>
 
           {/* Stats bar */}

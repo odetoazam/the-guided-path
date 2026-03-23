@@ -618,6 +618,15 @@ export function GlossaryEntryTabs({ entry }: { entry: GlossaryEntry }) {
 
   return (
     <div>
+      {/* ── Summary prose ───────────────────────────────────────────────── */}
+      <div className="mx-auto max-w-2xl px-5 pt-10 pb-6">
+        {entry.summary.split('\n\n').map((p, i) => (
+          <p key={i} className="mb-4 text-sm leading-relaxed text-zinc-600 dark:text-zinc-400 last:mb-0">
+            {p.trim()}
+          </p>
+        ))}
+      </div>
+
       {/* ── Tab navigation ──────────────────────────────────────────────── */}
       <div className="sticky top-0 z-20 border-b border-zinc-200 dark:border-white/[0.05] bg-white/95 dark:bg-navy-dark/95 backdrop-blur-md">
         <div className="mx-auto max-w-2xl overflow-x-auto px-4">
