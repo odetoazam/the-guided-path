@@ -158,7 +158,7 @@ export const GLOSSARY_TERMS: GlossaryMeta[] = [
   { slug: 'jahannam',        term: 'جَهَنَّم',        transliteration: 'Jahannam',        category: 'The Unseen', evocativeLine: 'The fire whose true nature is beyond imagination.',                                   hasFullEntry: true  },
   { slug: 'al-ghayb',        term: 'ٱلْغَيْب',        transliteration: 'Al-Ghayb',        category: 'The Unseen', evocativeLine: 'The unseen realm — the first quality the Quran asks us to believe in.',               hasFullEntry: true  },
   { slug: 'malaika',         term: 'مَلَائِكَة',      transliteration: 'Malaika',         category: 'The Unseen', evocativeLine: 'Beings of light and obedience — woven through all of creation, seen by none.',        hasFullEntry: true  },
-  { slug: 'jinn',            term: 'جِنّ',            transliteration: 'Jinn',            category: 'The Unseen', evocativeLine: 'Hidden beings of smokeless fire — accountable like humanity, invisible to it.',        hasFullEntry: false },
+  { slug: 'jinn',            term: 'جِنّ',            transliteration: 'Jinn',            category: 'The Unseen', evocativeLine: 'Hidden beings of smokeless fire — accountable like humanity, invisible to it.',        hasFullEntry: true },
   { slug: 'shaytan',         term: 'شَيْطَان',        transliteration: 'Shaytan',         category: 'The Unseen', evocativeLine: 'The one who refused — and has been whispering refusals ever since.',                   hasFullEntry: true  },
   { slug: 'al-arsh',         term: 'ٱلْعَرْش',        transliteration: 'Al-Arsh',         category: 'The Unseen', evocativeLine: "The Throne above all creation — the symbol of Allah's absolute sovereignty.",          hasFullEntry: false },
   { slug: 'al-kursi',        term: 'ٱلْكُرْسِيّ',     transliteration: 'Al-Kursi',        category: 'The Unseen', evocativeLine: 'His seat encompasses the heavens and the earth — and guarding them tires Him not.',    hasFullEntry: false },
@@ -7022,4 +7022,101 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
       { slug: 'al-dukhan', surahName: 'Al-Dukhan', note: "The blessed night on which the Quran descended — sacred time as a vessel of barakah" },
     ],
   },
+
+  'jinn': {
+    slug: 'jinn',
+    term: 'جِنّ',
+    transliteration: 'Jinn',
+    pronunciation: 'JINN',
+    category: 'The Unseen',
+    evocativeLine: 'Creatures of smokeless fire — real, rational, and accountable before the same God.',
+    summary: "The jinn are a category of creation mentioned more than forty times in the Quran — rational beings, morally responsible, capable of belief and disbelief, worship and rebellion, and destined for the same final reckoning as humans. They are not symbols or metaphors. The Quran speaks of them with the same matter-of-fact directness it uses for mountains, angels, and prophets.\n\nThe word jinn comes from the root j-n-n — to hide, to be concealed. The jinn are the hidden ones, the unseen people sharing the same world without the same visibility. They were created from smokeless fire, as humans were created from clay. Like humans, they have tribes, communities, beliefs, and capacities for both good and evil. Unlike angels, they have desires and free will; unlike humans, they have a different relationship with the physical world.\n\nThe Quran devotes an entire surah — Surat al-Jinn — to a group of jinn who heard the recitation of the Quran, believed, and returned to their people as preachers. Their testimony is striking: they affirm the oneness of Allah, they acknowledge the station of the Prophet ﷺ, and they warn their kin against the wrong they had been doing. The believing jinn of the Quran are not fearsome entities but grateful recipients of the same divine guidance offered to humanity.",
+    root: {
+      letters: 'ج ن ن',
+      transliteration: 'j-n-n',
+      meaning: 'To hide, to be concealed, to be unseen',
+      elaboration: "The root j-n-n pervades Arabic with the sense of hiddenness. From it: jannah (the garden — hidden, enclosed), janin (the fetus — hidden in the womb), majnun (the madman — one whose mind is hidden from normal functioning), and jinn (the hidden people). The Quran's use of the same root for paradise and for these hidden beings is not accidental — both exist in a dimension beyond what the eye can reach.",
+    },
+    rootForms: [
+      { arabic: 'جِنّ', transliteration: 'jinn', type: 'Collective noun', meaning: 'The hidden people, the jinn as a species', approxCount: 22, verified: false },
+      { arabic: 'جَانّ', transliteration: 'jānn', type: 'Noun', meaning: 'A serpent; also used for a specific type of jinn', approxCount: 4, verified: false },
+      { arabic: 'جَنِين', transliteration: 'janīn', type: 'Noun', meaning: 'Fetus — the hidden one', approxCount: 1, verified: false },
+      { arabic: 'جَنَّة', transliteration: 'jannah', type: 'Noun', meaning: 'Garden, paradise — the enclosed, hidden place', approxCount: 147, verified: false },
+    ],
+    occurrenceCount: 29,
+    occurrenceNote: "The jinn appear in numerous contexts across the Quran: as creatures created before Adam, as those who served Sulayman, as those who listened to the Quran and believed, as beings who cannot escape the reach of divine judgment. Surah 55 (Al-Rahman) addresses both humans and jinn together (ya ma'shar al-ins wa-l-jinn), affirming that the same divine bounties and the same accountability apply to both.",
+    keyAyahs: [
+      {
+        ref: 'Al-Hijr 15:27',
+        arabic: 'وَالْجَانَّ خَلَقْنَاهُ مِن قَبْلُ مِن نَّارِ السَّمُومِ',
+        translation: "And the jinn We created before from scorching fire.",
+        note: "Created before Adam, from a different substance. The Quran's cosmology includes both the temporal and material priority of the jinn. They inhabited the earth and, according to classical scholars, were displaced or reorganized when humans were created and established as the vicegerents of Allah.",
+      },
+      {
+        ref: 'Al-Jinn 72:1-2',
+        arabic: 'قُلْ أُوحِيَ إِلَيَّ أَنَّهُ اسْتَمَعَ نَفَرٌ مِّنَ الْجِنِّ فَقَالُوا إِنَّا سَمِعْنَا قُرْآنًا عَجَبًا يَهْدِي إِلَى الرُّشْدِ فَآمَنَّا بِهِ',
+        translation: 'Say: It has been revealed to me that a group of the jinn listened and said: We have heard a wondrous Quran that guides to righteousness, so we have believed in it.',
+        note: "The jinn's encounter with the Quran is itself a kind of miracle. They were seeking something — they recognized the Quran as its fulfillment. Their testimony affirms what the Quran is: a guide to righteousness (al-rushd). The fact that Allah revealed this event to the Prophet ﷺ and commanded him to announce it suggests its importance — the Quran's call is universal, not merely human.",
+      },
+      {
+        ref: 'Al-Rahman 55:33',
+        arabic: 'يَا مَعْشَرَ الْجِنِّ وَالْإِنسِ إِنِ اسْتَطَعْتُمْ أَن تَنفُذُوا مِنْ أَقْطَارِ السَّمَاوَاتِ وَالْأَرْضِ فَانفُذُوا',
+        translation: "O company of jinn and men, if you are able to pass beyond the regions of the heavens and the earth, then pass — you will not do so except with authority.",
+        note: "Al-Rahman is unique in addressing both species simultaneously. The invitation to try to escape divine reach — to attempt to breach the boundaries of the cosmos — is not a taunt but a testimony to divine encompassment. Neither jinn nor humans, no matter how advanced, can step outside the domain of Allah's sovereignty.",
+      },
+    ],
+    semanticField: [
+      {
+        slug: 'malaika',
+        arabic: 'مَلَائِكَة',
+        transliteration: 'Malaika',
+        relationship: 'parallels',
+        relationshipLabel: 'The other category of non-human rational beings',
+        description: "Angels and jinn both belong to the unseen world, but they are distinct in nature, purpose, and moral status. Angels are created from light and never disobey Allah. Jinn are created from fire and have free will — capable of both belief and disbelief. Iblis, who refused to bow to Adam, is identified in the Quran as being from the jinn (18:50), not from the angels.",
+      },
+      {
+        slug: 'shaytan',
+        arabic: 'شَيْطَان',
+        transliteration: 'Shaytan',
+        relationship: 'deepens',
+        relationshipLabel: 'The specific rebellious jinn who became the adversary',
+        description: "Not all jinn are shaytans. Shaytan is a category of jinn (and others) characterized by persistent rebellion and corruption. Iblis, the original rebel, was a jinn who became the archetype of all shaytanic behavior. The believing jinn of Surat al-Jinn explicitly distinguish themselves from the shaytanic path.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: "Affirm their reality without obsession", arabic: "اعْتِقَاد", arabicTranslit: "iʿtiqād", description: "Belief in the jinn is part of belief in the unseen (al-ghayb). Their existence is affirmed by the Quran without ambiguity. But the tradition also warns against the opposite error — becoming preoccupied with the jinn to the point that it distorts one's life, fills one with unnecessary fear, or opens the door to charlatanism." },
+        { number: 2, title: "Protect yourself through the prescribed means", arabic: "اسْتِعَاذَة", arabicTranslit: "istiʿādhah", description: "The Quran itself is protection. The recitation of Ayat al-Kursi, the last two surahs (al-Falaq and al-Nas), and the morning and evening adhkar are the means the Prophet ﷺ prescribed. These are not superstitions — they are expressions of tawakkul, placing one's protection in Allah's hands through the means He has provided." },
+        { number: 3, title: "Do not seek them out", arabic: "نَهْي", arabicTranslit: "nahy", description: "Seeking communication with the jinn — through fortune tellers, sihr (magic), or spiritualist practices — is prohibited in Islam. The prohibition is not arbitrary; it reflects the spiritual danger of entering a relationship with unseen beings outside the framework of divine guidance. What the jinn tell is mixed with falsehood; what they charge in exchange is something of one's deen." },
+      ],
+      stations: [
+        { name: "The believing jinn", description: "Affirmed by the Quran. They heard the message, recognized the truth, and believed. They have the same obligation as humans: to worship Allah, to submit, to live by His guidance. Their existence expands the Quranic understanding of the community of believers (ummah) beyond the human." },
+        { name: "The disbelieving jinn", description: "They reject the message, just as some humans do. They are subject to the same final judgment. Their disbelief does not make them categorically more threatening than a disbelieving human — it is a different form of the same spiritual disease." },
+        { name: "The shayateen among the jinn", description: "A specific subset — those who have made rebellion and corruption their mission, who whisper in human chests, who adorn evil, who try to divert from the path of Allah. The Quran's imagery of the shaytan whispering (waswas) captures the subtlety of their influence: not force, but suggestion." },
+      ],
+      questions: [
+        { question: "Can jinn possess humans?", answer: "The majority of classical scholars held that jinn can affect humans — through influence, through proximity, through the body — and that ruqyah (Quranic recitation as treatment) is a legitimate response. What is rejected is any sense that jinn have ultimate power over humans, or that they are to be engaged through prohibited means. The protection is always through Allah." },
+        { question: "Why does Allah mention the jinn in the Quran?", answer: "Because they are real, morally accountable, and part of the audience the Quran addresses. The Quran's message is universal in scope — it is a guidance for whoever can hear it, in whatever form that being takes. The jinn's encounter with the Quran in Surat al-Jinn is a model of the ideal human encounter: to hear, to recognize truth, to believe, and to go and share it with others." },
+      ],
+    },
+    scholarsSaid: [
+      { scholar: "Ibn Taymiyya", source: "Majmu al-Fatawa", text: "The jinn are real, proven by the Quran and the Sunnah and the consensus of those who came before us. They are accountable, morally capable, and subject to the same divine law as humans in terms of the obligation to worship Allah." },
+      { scholar: "Ibn al-Qayyim", source: "Ighathat al-Lahfan", text: "The jinn have souls, and those souls can be inclined toward good or evil. The pious among them seek nearness to Allah through worship; the wicked among them seek to corrupt those whom they can influence." },
+    ],
+    hadith: [
+      { text: "Verily, the shaytan runs through the human being like blood. I feared that he might cast something evil into your hearts.", source: "Sahih al-Bukhari and Muslim" },
+      { text: "Cover your vessels, tie up your water-skins, close your doors, and extinguish your lamps — for shaytan does not open a locked door, does not untie a tied knot.", source: "Sahih al-Bukhari" },
+    ],
+    acrossTransitions: "The concept of hidden rational beings — whether called jinn, demons, spirits, or other names — appears across virtually every human civilization. What makes the Quranic treatment distinctive is its moral seriousness: the jinn are not demigods or mere mischief-makers, but full moral agents subject to divine accountability.\n\nIn pre-Islamic Arabia, the jinn were considered the source of poetic inspiration. Poets were believed to have a jinni companion who whispered verses to them. The Quran explicitly refutes this claim about the Prophet ﷺ (26:221-224) — his speech did not come from a jinni but from divine revelation. The shift in understanding is significant: the prophetic voice is categorically different from the jinni voice.\n\nIn Islamic legal tradition, the rules that apply to humans in terms of worship, marriage, and moral obligation are generally not extended to jinn in practical terms, because they remain unseen and their individual status is unknown. But the principle of their accountability before Allah on the Day of Judgment is affirmed and has significant theological implications for the universality of divine justice.",
+    goDeeper: [
+      { slug: 'al-jinn', surahName: 'Al-Jinn', note: "The entire surah is devoted to the jinn's testimony after hearing the Quran — a model of recognition, belief, and mission" },
+      { slug: 'al-rahman', surahName: 'Al-Rahman', note: "The surah addresses jinn and humans together, asking both the same question: 'Which of your Lord's bounties will you deny?'" },
+    ],
+    relatedTerms: [
+      { slug: 'malaika', transliteration: 'Malaika', term: 'مَلَائِكَة' },
+      { slug: 'shaytan', transliteration: 'Shaytan', term: 'شَيْطَان' },
+    ],
+    hasFullEntry: true,
+  },
+
 }
