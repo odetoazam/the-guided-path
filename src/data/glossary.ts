@@ -175,14 +175,14 @@ export const GLOSSARY_TERMS: GlossaryMeta[] = [
   { slug: 'iblis',        term: 'إِبْلِيس',          transliteration: 'Iblis',         category: 'Quranic Characters', evocativeLine: 'He knew the truth, refused it — and has spent eternity trying to make others do the same.', hasFullEntry: true },
   { slug: 'firaun',       term: 'فِرْعَوْن',         transliteration: "Fir'awn",       category: 'Quranic Characters', evocativeLine: 'The supreme symbol of arrogance — a man who called himself lord and drowned in the sea.', hasFullEntry: true },
   { slug: 'qarun',        term: 'قَارُون',           transliteration: 'Qarun',         category: 'Quranic Characters', evocativeLine: 'The man of treasures who forgot their source — and was swallowed by the earth.', hasFullEntry: true },
-  { slug: 'bilqis',       term: 'بِلْقِيس',          transliteration: 'Bilqis',        category: 'Quranic Characters', evocativeLine: 'The queen who recognized truth when she saw it — and chose it over her throne.', hasFullEntry: false },
+  { slug: 'bilqis',       term: 'بِلْقِيس',          transliteration: 'Bilqis',        category: 'Quranic Characters', evocativeLine: 'The queen who recognized truth when she saw it — and chose it over her throne.', hasFullEntry: true },
   { slug: 'asiya',        term: 'آسِيَة',            transliteration: 'Asiya',         category: 'Quranic Characters', evocativeLine: 'A queen who built a house in Jannah while living in a palace of oppression.',   hasFullEntry: true },
   { slug: 'yusuf',        term: 'يُوسُف',            transliteration: 'Yusuf',         category: 'Quranic Characters', evocativeLine: 'Thrown into a well, sold, imprisoned — and still the most beautiful of stories.', hasFullEntry: true },
   { slug: 'ibrahim',      term: 'إِبْرَاهِيم',       transliteration: 'Ibrahim',       category: 'Quranic Characters', evocativeLine: "The friend of Allah — who broke the idols, walked into the fire, and didn't flinch.", hasFullEntry: true },
   { slug: 'musa',         term: 'مُوسَىٰ',           transliteration: 'Musa',          category: 'Quranic Characters', evocativeLine: 'Called from a burning bush, raised in the palace of his enemy — the most mentioned prophet.', hasFullEntry: true },
   { slug: 'isa',          term: 'عِيسَىٰ',           transliteration: "'Isa",          category: 'Quranic Characters', evocativeLine: "Born without a father, spoke as an infant, and did not die as the world believes.", hasFullEntry: true },
   { slug: 'nuh',          term: 'نُوح',              transliteration: 'Nuh',           category: 'Quranic Characters', evocativeLine: "950 years of calling — and his own son refused the ark.",                         hasFullEntry: true },
-  { slug: 'dawud',        term: 'دَاوُود',           transliteration: 'Dawud',         category: 'Quranic Characters', evocativeLine: 'The king who sang to Allah — given wisdom, a kingdom, and the Psalms.',           hasFullEntry: false },
+  { slug: 'dawud',        term: 'دَاوُود',           transliteration: 'Dawud',         category: 'Quranic Characters', evocativeLine: 'The king who sang to Allah — given wisdom, a kingdom, and the Psalms.',           hasFullEntry: true },
   { slug: 'sulayman',     term: 'سُلَيْمَان',        transliteration: 'Sulayman',      category: 'Quranic Characters', evocativeLine: 'The sovereign of wind, jinn, and birds — whose prayer was a greater gift than the kingdom.', hasFullEntry: false },
   { slug: 'yunus',        term: 'يُونُس',            transliteration: 'Yunus',         category: 'Quranic Characters', evocativeLine: "The prophet who left before permission — and called from the belly of the deep.",  hasFullEntry: true },
 
@@ -8399,6 +8399,168 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
     relatedTerms: [
       { slug: 'tawbah',   transliteration: 'Tawbah',   term: 'تَوْبَة'  },
       { slug: 'tawakkul', transliteration: 'Tawakkul', term: 'تَوَكُّل' },
+    ],
+    hasFullEntry: true,
+  },
+
+  'bilqis': {
+    slug: 'bilqis',
+    term: 'بِلْقِيس',
+    transliteration: 'Bilqis',
+    pronunciation: 'bil-QEES',
+    category: 'Quranic Characters',
+    evocativeLine: 'The queen who recognized truth when she saw it — and chose it over her throne.',
+    summary: "Bilqis — the Queen of Sheba — appears in Surah Al-Naml (the chapter of the ant) as one of the most remarkable figures in the Quran: a sovereign ruler who governs wisely, who initially serves a false object of worship (the sun), and who, upon receiving the letter of the Prophet Sulayman and witnessing the miraculous appearance of her throne and the palace of glass, chooses to submit.\n\nWhat makes Bilqis extraordinary is the quality of her intellectual and spiritual response. When Sulayman's letter reaches her, she does not dismiss it or react with pride. She consults her advisors — seeking counsel, not issuing commands. She identifies the pattern of conquering kings: they corrupt what they conquer. She proposes a diplomatic gift instead of war. When the gift is refused and she arrives at Sulayman's court, she is willing to see what is there before deciding.\n\nThe moment of her conversion is precipitated by two visual signs: her throne, which had been physically transported to Sulayman's court from Sheba before she arrived (making her ask if it was her throne — it was, but how?), and the palace floor of glass, which she mistook for water and lifted her skirt, discovering she had been deceived by appearance. Both signs work the same way: what looks like one thing is actually another. The floor that looks like water is glass. The throne that should be in Sheba is here. Reality is more than appearance. She has been worshipping the sun — the greatest visible thing — but there is a Lord of the visible who transcends it. Her declaration of submission closes the story: My Lord, I have wronged myself, and I submit (aslamt) with Sulayman to Allah, Lord of the worlds (27:44).",
+    root: {
+      letters: 'ب ل ق',
+      transliteration: 'b-l-q',
+      meaning: 'A proper name — Bilqis is a proper noun without a productive Arabic root',
+      elaboration: "Bilqis is not an Arabic name — it appears in the Quran as a transliteration of a name from another tradition, possibly Ethiopic or South Arabian. She is not named in the Quran itself (the Quran refers to her as the woman who was given all things and had a great throne — 27:23); the name Bilqis comes from the tafsir tradition. In the Hebrew Bible, the Queen of Sheba (Malkath Sheba) visits Solomon but is not named. Only in later traditions is she named Bilqis (in Arabic/Islamic tradition) or Makeda (in Ethiopian tradition).",
+    },
+    rootForms: [
+      { arabic: 'بِلْقِيس', transliteration: 'Bilqīs', type: 'Proper noun', meaning: 'The Queen of Sheba — mentioned as a great sovereign in Surah Al-Naml', approxCount: 0, verified: true },
+    ],
+    occurrenceCount: 0,
+    occurrenceNote: "Bilqis is not named in the Quran by this name — the name comes from the tafsir tradition. The Quran refers to her as the woman who was given everything and had a great throne (27:23). Her story occupies verses 27:22-44, and she is one of the Quran's most fully drawn non-prophetic characters.",
+    keyAyahs: [
+      {
+        ref: 'Al-Naml 27:23',
+        arabic: 'إِنِّي وَجَدتُّ امْرَأَةً تَمْلِكُهُمْ وَأُوتِيَتْ مِن كُلِّ شَيْءٍ وَلَهَا عَرْشٌ عَظِيمٌ',
+        translation: "Indeed, I found a woman ruling over them, and she has been given of all things, and she has a great throne.",
+        note: "The hoopoe's report to Sulayman. Three things: she rules (not a subordinate — a sovereign), she has been given all things (comprehensive provision), and she has a great throne. The Arabic for given all things (utiyat min kulli shay) uses the passive — given — acknowledging a source of provision beyond herself. The Quran notes her power while locating it within the framework of divine gift.",
+      },
+      {
+        ref: 'Al-Naml 27:32',
+        arabic: 'قَالَتْ يَا أَيُّهَا الْمَلَأُ أَفْتُونِي فِي أَمْرِي مَا كُنتُ قَاطِعَةً أَمْرًا حَتَّىٰ تَشْهَدُونِ',
+        translation: "She said: O chiefs, advise me in my affair. I would not decide a matter until you witness it.",
+        note: "Bilqis consults. A leader who seeks counsel rather than commanding is the model the Quran implicitly endorses — the contrast with tyrannical leadership (like Firaun, who commands without counsel) is built into the narrative structure. Her consultation is wisdom, not weakness.",
+      },
+      {
+        ref: 'Al-Naml 27:44',
+        arabic: 'قَالَتْ رَبِّ إِنِّي ظَلَمْتُ نَفْسِي وَأَسْلَمْتُ مَعَ سُلَيْمَانَ لِلَّهِ رَبِّ الْعَالَمِينَ',
+        translation: "She said: My Lord, I have wronged myself, and I submit with Sulayman to Allah, Lord of the worlds.",
+        note: "The conversion. Two acknowledgments: she has wronged herself (tawbah for the prior worship of the sun), and she submits to Allah. The phrase maa Sulayman — with Sulayman — is not subordination to Sulayman but co-submission: both she and Sulayman are submitters to the same Lord. Her throne does not diminish; her crown does not fall. She submits as a queen.",
+      },
+    ],
+    semanticField: [
+      {
+        slug: 'hikmah',
+        arabic: 'حِكْمَة',
+        transliteration: 'Hikmah',
+        relationship: 'deepens',
+        relationshipLabel: "The wisdom Bilqis demonstrates before and after receiving the letter",
+        description: "Bilqis is described as given of all things, and her behavior confirms it: she consults before deciding, she tests before concluding, she is willing to revise her position when evidence demands it. This is hikmah in practical leadership — not merely cleverness but the wisdom that knows what it does not yet know.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: "Be willing to revise what you thought you knew", arabic: "إِنَابَة", arabicTranslit: "ināba", description: "Bilqis had worshipped the sun — the greatest visible thing. When she encountered a truth greater than the sun's claim, she revised. The capacity to change one's religious orientation in the face of genuine evidence is not weakness but intellectual and spiritual courage." },
+        { number: 2, title: "Consult before deciding on matters of weight", arabic: "شُورَى", arabicTranslit: "shūrā", description: "Bilqis models shura — consultation — in her governance. She does not decide the matter of Sulayman's letter alone. She brings it to her council. This is the Quranic governance principle that al-Baqarah (2:233) and Al-Shura (42:38) establish as characteristic of believers." },
+        { number: 3, title: "Submit when you have truly seen", arabic: "إِسْلَام", arabicTranslit: "islām", description: "Bilqis sees the glass floor mistaken for water, she sees her throne transported impossibly, and she understands: reality is deeper than appearance. What she had taken as the greatest (the sun) is itself a created sign. She submits. The Quran does not require blind submission — it asks that when you have genuinely seen the truth, you do not then look away." },
+      ],
+      stations: [
+        { name: "The queen who consults", description: "Leadership with wisdom — seeking counsel, not issuing commands alone. Bilqis governs well before she submits; her governance model is not destroyed by her submission but purified. She remains a queen; she is now a submitting queen." },
+        { name: "The journey to the truth", description: "She travels to Sulayman's court — literally — and the journey produces the two visual lessons that complete her understanding. Sometimes the journey to truth is physical as well as interior." },
+        { name: "The submission that keeps the throne", description: "She submits — and there is no indication that she loses her throne. Islam does not require a person to lose their worldly station when they submit; it requires that the station be held in proper relationship to Allah. Bilqis remains a queen, a greater one." },
+      ],
+      questions: [
+        { question: "Was Bilqis the same as the Queen of Sheba in the Bible?", answer: "Yes. The Quran's Queen of Sheba (known as Bilqis in the Islamic tradition and Makeda in the Ethiopian Christian tradition) corresponds to the Queen of Sheba who visits Solomon in 1 Kings 10 and 2 Chronicles 9. The biblical account focuses on her encounter with Solomon's wisdom and wealth; the Quranic account focuses on her spiritual journey toward submission. The traditions have developed different aspects of the same figure." },
+        { question: "What was the significance of the glass floor?", answer: "Bilqis lifted her skirts when she thought she was walking into water. The glass floor deceived her senses. This becomes the final lesson before her submission: if her vision can deceive her about something as ordinary as glass and water, how much more might her spiritual vision have deceived her about the sun? The greatest visible thing is still just a created sign. Below appearances is the Lord who created them." },
+      ],
+    },
+    scholarsSaid: [
+      { scholar: "Ibn Kathir", source: "Tafsir Ibn Kathir on Surah Al-Naml", text: "Bilqis is one of the most wise and insightful women mentioned in the Quran. Her governance, her consultation, her careful assessment of the situation, and ultimately her recognition and submission — all mark her as a figure whose story contains lessons about leadership, intelligence, and the nature of genuine submission to truth." },
+    ],
+    hadith: [],
+    acrossTransitions: "The Queen of Sheba figures prominently in three traditions. In the Hebrew Bible, she visits Solomon and is overwhelmed by his wisdom and wealth (1 Kings 10). In Ethiopian Christian tradition (the Kebra Nagast — the Glory of Kings), she is Makeda, who bears Solomon a son (Menelik I) who becomes the founder of the Ethiopian Solomonic dynasty — a tradition that the Ethiopian Orthodox Church traces to this day. In the Quranic account, her story is one of spiritual journey toward tawhid.\n\nThe hoopoe (hudhud) that delivers Sulayman's letter to Bilqis is itself an unusual narrative element — a bird as divine messenger. The Quran's world is one in which all of creation participates in the divine plan, where ants speak, birds carry messages, and fish preserve prophets. Bilqis's story unfolds in this context of comprehensive divine orchestration of creation.",
+    goDeeper: [
+      { slug: 'al-naml', surahName: 'Al-Naml', note: "The entire Bilqis narrative (27:22-44) — the hoopoe's report, the letter, the throne transported, the glass floor, and the final submission" },
+    ],
+    relatedTerms: [
+      { slug: 'hikmah',   transliteration: 'Hikmah',   term: 'حِكْمَة'  },
+      { slug: 'sulayman', transliteration: 'Sulayman', term: 'سُلَيْمَان' },
+    ],
+    hasFullEntry: true,
+  },
+
+  'dawud': {
+    slug: 'dawud',
+    term: 'دَاوُود',
+    transliteration: 'Dawud',
+    pronunciation: 'daa-WOOD',
+    category: 'Quranic Characters',
+    evocativeLine: 'The king who sang to Allah — given wisdom, a kingdom, and the Psalms.',
+    summary: "Dawud is given, in the Quran, the most concentrated portfolio of divine gifts of any prophet: the Psalms (Zabur), the ability to make iron soft with his hands, the speech of birds, the ability to judge between people with wisdom, and the unusual description that the mountains and birds glorified Allah alongside him. He is simultaneously prophet, king, craftsman, musician, and judge.\n\nThe Quran's treatment of Dawud is affectionate but also honest. The incident of his trial — when two men climbed over his private chamber wall to present a case he judged without yet knowing it was a test — is narrated briefly in Surah Sad (38:21-25). Dawud realizes his error, falls prostrate in repentance, and is forgiven. The Quran calls him awwab — repeatedly returning to Allah — a quality that appears in the Quran as the mark of those closest to the divine.\n\nWhat distinguishes Dawud's Quranic portrait is the combination of power and piety that is never in tension. He is a warrior king — he kills Jalut (Goliath) as a young man — but his power produces not arrogance but praise. The mountains sing with him. The birds gather around him. Creation participates in his worship. This is the Quranic image of the righteous sovereign: one whose power flows through rather than from them, whose authority produces not self-aggrandizement but amplified praise of the One who gave the authority.",
+    root: {
+      letters: 'د و د',
+      transliteration: 'd-w-d',
+      meaning: 'A proper name — from the Hebrew David: beloved',
+      elaboration: "Dawud is the Arabic form of the Hebrew David, from the root meaning beloved or uncle. The Quran does not etymologize the name, but the quality of belovedness is embedded in every description of Dawud: the mountains and birds praise Allah with him, he is given the Zabur, he is called awwab — one who constantly returns to Allah in love and awareness.",
+    },
+    rootForms: [
+      { arabic: 'دَاوُود', transliteration: 'Dāwūd', type: 'Proper noun', meaning: 'The Prophet Dawud (David)', approxCount: 16, verified: false },
+    ],
+    occurrenceCount: 16,
+    occurrenceNote: "Dawud is mentioned 16 times in the Quran across multiple surahs. He is mentioned in the context of his defeat of Jalut (2:251), his receipt of the Zabur (4:163, 17:55), his ability to soften iron and make birds glorify (21:79-80, 34:10-11), his trial and repentance (38:21-25), and alongside Sulayman in passages emphasizing their shared divine gifts (6:84, 27:15).",
+    keyAyahs: [
+      {
+        ref: 'Sad 38:17-18',
+        arabic: 'وَاذْكُرْ عَبْدَنَا دَاوُودَ ذَا الْأَيْدِ ۖ إِنَّهُ أَوَّابٌ إِنَّا سَخَّرْنَا الْجِبَالَ مَعَهُ يُسَبِّحْنَ بِالْعَشِيِّ وَالْإِشْرَاقِ',
+        translation: "And remember Our servant Dawud — the one of strength. Indeed, he was a returner. Indeed, We subjected the mountains to glorify with him at evening and sunrise.",
+        note: "Two qualities defined together: strength (al-ayd) and being a returner (awwab). Power and piety not in tension but in union. The mountains glorifying with him is not metaphor in the Quranic worldview — creation literally participates in the worship of those whose worship is genuine. The timing (evening and sunrise) suggests this is a regular occurrence, not a once-off miracle.",
+      },
+      {
+        ref: 'Al-Baqarah 2:251',
+        arabic: 'فَهَزَمُوهُم بِإِذْنِ اللَّهِ وَقَتَلَ دَاوُودُ جَالُوتَ وَآتَاهُ اللَّهُ الْمُلْكَ وَالْحِكْمَةَ وَعَلَّمَهُ مِمَّا يَشَاءُ',
+        translation: "And they defeated them by the permission of Allah, and Dawud killed Jalut, and Allah gave him the kingdom and wisdom and taught him of what He willed.",
+        note: "The sequence matters: Dawud kills Jalut — the young man takes down the giant — and the result is not fame but a divine gift: mulk (sovereignty), hikmah (wisdom), and divine teaching (allammahu mimma yasha'). The achievement is real; the attribution is correct. And Allah gave him. Dawud's victory leads not to self-promotion but to reception of further gifts.",
+      },
+      {
+        ref: 'Al-Anbiya 21:79',
+        arabic: 'فَفَهَّمْنَاهَا سُلَيْمَانَ ۚ وَكُلًّا آتَيْنَا حُكْمًا وَعِلْمًا ۚ وَسَخَّرْنَا مَعَ دَاوُودَ الْجِبَالَ يُسَبِّحْنَ وَالطَّيْرَ',
+        translation: "And We caused Sulayman to understand it, and to each We gave judgment and knowledge. And We subjected the mountains with Dawud and the birds to glorify.",
+        note: "The mountains and the birds glorify alongside Dawud — a cosmic choir assembled around a prophet whose personal worship was so genuine that creation joined in. This is among the most beautiful images in the Quran: the prophet who prays so completely that the mountains and birds add their voices to the chorus.",
+      },
+    ],
+    semanticField: [
+      {
+        slug: 'sulayman',
+        arabic: 'سُلَيْمَان',
+        transliteration: 'Sulayman',
+        relationship: 'deepens',
+        relationshipLabel: "Father and son — gifts multiplied across a dynasty",
+        description: "Dawud and Sulayman are linked throughout the Quran as a prophetic dynasty in which divine gifts multiply rather than diminish across generations. Dawud receives the kingdom; Sulayman inherits and expands it. Dawud has the birds; Sulayman has the birds and the wind and the jinn. The Quran presents this not as competition but as divine abundance flowing across a righteous lineage.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: "Be awwab — constantly returning", arabic: "إِنَابَة", arabicTranslit: "ināba", description: "The Quran's highest praise of Dawud is that he is awwab — perpetually returning to Allah. This is not a single act of tawbah but a state: the heart that is always oriented toward Allah, always returning when it drifts, always checking its position. Awwab is not occasional repentance; it is the default direction of the heart." },
+        { number: 2, title: "Use power for worship, not self-assertion", arabic: "عِبَادَة", arabicTranslit: "ʿibādah", description: "Dawud's power — as king, as warrior, as craftsman — is all channeled into worship and service. His iron-working produced armor for warriors; his kingdom produced justice. The Quranic ideal of power is not its elimination but its right use: every gift, every position, every ability as a vehicle for worship and service to Allah and His creation." },
+      ],
+      stations: [
+        { name: "The young warrior who defeats Jalut", description: "The beginning — a youth, a sling, a giant. The victory of the apparently weak over the apparently invincible through divine permission. This is the opening act of Dawud's story: the lesson that strength is not what it appears, and that divine authorization transforms the situation entirely." },
+        { name: "The king and prophet who sings with mountains", description: "The fullness of the station — prophet, king, craftsman, musician, judge. Power and piety in complete union. The mountains sing with him because his worship is genuine enough to elicit a cosmic response." },
+        { name: "The trial, the prostration, the forgiveness", description: "Even Dawud — prophet and king — is tested and makes an error. His response is immediate prostration and tawbah. Allah forgives. The station of awwab is exactly this: not perfection, but immediate return when imperfection occurs." },
+      ],
+      questions: [
+        { question: "What is the Zabur?", answer: "The Zabur — the Psalms — is mentioned in the Quran as a revealed book given to Dawud (4:163, 17:55). The Arabic word zabur means a book of wisdom or a written text. The Psalms of the Hebrew Bible (tehillim) are understood in the Islamic tradition as corresponding to this revealed book, though with the caveat that the texts as currently preserved may have been altered from the original revelation, as is the Islamic understanding of the Torah and the Gospels." },
+        { question: "How did Dawud make iron soft?", answer: "The Quran says Allah made iron soft for Dawud (34:10) and instructed him to make coats of armor. Classical scholars understood this as a miraculous ability — iron that was normally rigid became pliable in Dawud's hands, allowing him to craft armor without furnace and hammer. This is understood as a divine sign specific to Dawud, not a general physical principle. His armor-making made the warriors he equipped more effective in protecting the just." },
+      ],
+    },
+    scholarsSaid: [
+      { scholar: "Ibn Kathir", source: "Al-Bidaya wa-l-Nihaya", text: "Dawud combined what rarely combines: prophethood and kingship, military strength and tender worship, the authority to judge and the humility to repent. The mountains and birds that praised Allah with him are the Quran's sign that genuine worship attracts the participation of creation." },
+    ],
+    hadith: [
+      { text: "The most beloved prayer to Allah is the prayer of Dawud, and the most beloved fasting to Allah is the fasting of Dawud. He slept half the night, prayed for a third, and slept for a sixth. He fasted every other day.", source: "Sahih al-Bukhari and Muslim" },
+    ],
+    acrossTransitions: "Dawud (David) is one of the most significant figures in three traditions. In Judaism, David is the paradigmatic king — the one through whom the Davidic covenant is established, the author of the Psalms, the model of kingship balanced by divine accountability. The Hebrew Psalms remain central to Jewish liturgy. In Christianity, David is the ancestor of Jesus, and his kingdom is understood as a foreshadowing of the kingdom of God. In Islam, Dawud is a prophet-king who received the Zabur and whose worship was so complete that creation joined in.\n\nThe image of Dawud singing with the mountains has no parallel in other traditions. It is distinctively Quranic and has inspired Islamic reflection on the relationship between human worship and cosmic participation. If the sincere worship of a righteous prophet can elicit the mountains' tasbih, what does creation do when all believers pray together?",
+    goDeeper: [
+      { slug: 'sad', surahName: 'Sad', note: "Dawud's qualities, the mountains and birds glorifying with him, and his trial and repentance" },
+      { slug: 'al-baqarah', surahName: 'Al-Baqarah', note: "The story of Dawud and Jalut — the young warrior who becomes the prophet-king" },
+    ],
+    relatedTerms: [
+      { slug: 'sulayman', transliteration: 'Sulayman', term: 'سُلَيْمَان' },
+      { slug: 'tawbah',   transliteration: 'Tawbah',   term: 'تَوْبَة'   },
     ],
     hasFullEntry: true,
   },
