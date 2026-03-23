@@ -594,7 +594,7 @@ What is distinctively Quranic is the insistence that there is no sin beyond the 
         "The ancient Arabs called the aloe plant the ṣabir — bitter, but medicinal. The word for the desert stone prison was also from this root: to be enclosed, unable to move. Sabr carries both: the bitterness of constraint and the healing that comes through it. This is why scholars have said sabr is not the absence of pain but the refusal to be defined by it. The Quran never asks you to pretend it does not hurt. It asks you to hold.",
     },
 
-    occurrenceCount: 90,
+    occurrenceCount: 103,
     occurrenceNote: 'All forms of root ص-ب-ر across the Quran. The noun sabr appears ~45 times; the plural al-ṣābirīn (the patient ones) appears ~15 times as a mark of divine commendation.',
 
     rootForms: [
@@ -2576,8 +2576,8 @@ Raja' is one half of the heart's orientation toward Allah, paired with khawf (fe
       elaboration: "The root r–j–w carries both the sense of expectation and the sense of longing — something you look toward with desire. The form raja' (maṣdar of rajā) is the settled, noun-form of this motion — not the momentary flicker of hope but the sustained posture of a heart oriented toward what it expects from Allah. The same root appears in the Quran as yarjū ('he hopes/expects') and marjū ('something hoped for').",
     },
 
-    occurrenceCount: 70,
-    occurrenceNote: "The root r–j–w and its derivatives appear approximately 70 times in the Quran. The verb yarjū (he hopes for / he expects) is the most common form, often followed by Allah's mercy or the meeting with Allah as the object of hope.",
+    occurrenceCount: 28,
+    occurrenceNote: "The root r–j–w and its derivatives appear approximately 28 times in the Quran. The verb yarjū (he hopes for / he expects) is the most common form, often followed by Allah's mercy or the meeting with Allah as the object of hope.",
 
     keyAyahs: [
       {
@@ -4077,8 +4077,8 @@ The most famous definition of zuhd in the tradition comes from Sufyan al-Thawri:
 
 The Quran does not command poverty; it commands freedom from attachment. The Prophet ﷺ himself was not a hermit; he was a husband, a father, a community leader, a statesman. What characterized him was that neither wealth nor poverty affected his orientation toward Allah. This is the zuhd the Quran gestures toward with its repeated reminders that the dunya is mata' ghurur — the enjoyment of delusion — while the akhira is al-hayawan — the real life.`,
     root: { letters: 'ز–ه–د', transliteration: 'z–h–d', meaning: 'To be indifferent to something, to have no desire for it', elaboration: "The root z–h–d means to turn away from something without contempt — to regard it as beneath one's concern. This differs from hatred or rejection: the zahid does not hate the world; they simply find it uncompelling compared to what they have found in Allah. The word zahid (one with zuhd) appears in the Quran once — the merchants who sold Yusuf ﷺ 'regarded him with indifference' (zahidin), undervaluing the precious." },
-    occurrenceCount: 5,
-    occurrenceNote: "The root z–h–d appears rarely explicitly, but zuhd pervades the Quran through its frequent contrasting of dunya and akhira, descriptions of believers' indifference to worldly pleasures, and consistent reorientation toward the eternal.",
+    occurrenceCount: 1,
+    occurrenceNote: "The root z–h–d appears only once explicitly in the Quran, but zuhd pervades the Quran through its frequent contrasting of dunya and akhira, descriptions of believers' indifference to worldly pleasures, and consistent reorientation toward the eternal.",
     keyAyahs: [
       { ref: '57:20', arabic: 'وَمَا ٱلْحَيَوٰةُ ٱلدُّنْيَآ إِلَّا مَتَٰعُ ٱلْغُرُورِ', translation: 'And the life of the world is nothing but the enjoyment of delusion.', note: "The Quran's most concentrated summary of the dunya's nature: temporary enjoyment that deludes. Not a condemnation of life's pleasures but a calibration: enjoy what you have, but know its true weight. The verse makes zuhd the epistemically correct response to the dunya." },
       { ref: '28:77', arabic: 'وَلَا تَنسَ نَصِيبَكَ مِنَ ٱلدُّنْيَا', translation: 'And do not forget your share of the world.', note: "This verse establishes the balance: zuhd does not mean neglecting worldly responsibilities or refusing provision. It means doing all of this while keeping the akhira as the primary orientation. Zuhd includes this world; it is not escape from it." },
@@ -6605,7 +6605,7 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
       { arabic: 'عَقْل', transliteration: 'ʿaql', type: 'Noun', meaning: 'The intellect, the mind, the reasoning faculty', approxCount: 0, verified: false },
       { arabic: 'تَعَقَّلُون', transliteration: 'taʿaqqilūn', type: 'Verb (2nd person plural)', meaning: 'Do you not reason?', approxCount: 22, verified: false },
     ],
-    occurrenceCount: 65,
+    occurrenceCount: 49,
     occurrenceNote: "Remarkably, the noun 'aql does not appear in the Quran at all — only the verb. The Quran does not tell you about the intellect; it commands you to use it. 'A-fa-la taʿqilun' (Do you not reason?) appears in various forms across the text, usually as a rebuke to those who see signs and still refuse to think.",
     keyAyahs: [
       {
