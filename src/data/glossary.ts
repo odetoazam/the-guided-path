@@ -177,8 +177,8 @@ export const GLOSSARY_TERMS: GlossaryMeta[] = [
   { slug: 'qarun',        term: 'قَارُون',           transliteration: 'Qarun',         category: 'Quranic Characters', evocativeLine: 'The man of treasures who forgot their source — and was swallowed by the earth.', hasFullEntry: false },
   { slug: 'bilqis',       term: 'بِلْقِيس',          transliteration: 'Bilqis',        category: 'Quranic Characters', evocativeLine: 'The queen who recognized truth when she saw it — and chose it over her throne.', hasFullEntry: false },
   { slug: 'asiya',        term: 'آسِيَة',            transliteration: 'Asiya',         category: 'Quranic Characters', evocativeLine: 'A queen who built a house in Jannah while living in a palace of oppression.',   hasFullEntry: false },
-  { slug: 'yusuf',        term: 'يُوسُف',            transliteration: 'Yusuf',         category: 'Quranic Characters', evocativeLine: 'Thrown into a well, sold, imprisoned — and still the most beautiful of stories.', hasFullEntry: false },
-  { slug: 'ibrahim',      term: 'إِبْرَاهِيم',       transliteration: 'Ibrahim',       category: 'Quranic Characters', evocativeLine: "The friend of Allah — who broke the idols, walked into the fire, and didn't flinch.", hasFullEntry: false },
+  { slug: 'yusuf',        term: 'يُوسُف',            transliteration: 'Yusuf',         category: 'Quranic Characters', evocativeLine: 'Thrown into a well, sold, imprisoned — and still the most beautiful of stories.', hasFullEntry: true },
+  { slug: 'ibrahim',      term: 'إِبْرَاهِيم',       transliteration: 'Ibrahim',       category: 'Quranic Characters', evocativeLine: "The friend of Allah — who broke the idols, walked into the fire, and didn't flinch.", hasFullEntry: true },
   { slug: 'musa',         term: 'مُوسَىٰ',           transliteration: 'Musa',          category: 'Quranic Characters', evocativeLine: 'Called from a burning bush, raised in the palace of his enemy — the most mentioned prophet.', hasFullEntry: false },
   { slug: 'isa',          term: 'عِيسَىٰ',           transliteration: "'Isa",          category: 'Quranic Characters', evocativeLine: "Born without a father, spoke as an infant, and did not die as the world believes.", hasFullEntry: false },
   { slug: 'nuh',          term: 'نُوح',              transliteration: 'Nuh',           category: 'Quranic Characters', evocativeLine: "950 years of calling — and his own son refused the ark.",                         hasFullEntry: false },
@@ -7119,4 +7119,193 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
     hasFullEntry: true,
   },
 
+  'yusuf': {
+    slug: 'yusuf',
+    term: 'يُوسُف',
+    transliteration: 'Yusuf',
+    pronunciation: 'YOO-suf',
+    category: 'Quranic Characters',
+    evocativeLine: 'Thrown into a well, sold, imprisoned — and still the most beautiful of stories.',
+    summary: "Yusuf is the subject of Surat Yusuf — the Quran's only complete narrative surah, devoted entirely to one story from beginning to end. Allah calls it 'the best of stories' (ahsana al-qasas) in its opening verses. The title alone is extraordinary: not 'a good story' but 'the best.' What makes it so?\n\nThe story of Yusuf is one of layered loss and slow, divine recovery. Thrown into a well by his brothers. Sold into slavery in Egypt. Accused falsely by the wife of the man who sheltered him. Imprisoned for years without cause. And yet at every point — the bottom of the well, the slave market, the cell — Allah's care is present and working. The story's extraordinary quality is not that Yusuf's suffering was minimal, but that his character held through all of it.\n\nThe climax is one of the Quran's great moments of grace: Yusuf, now the most powerful person in Egypt, reveals himself to the brothers who sold him. He does not say: you deserve what I could do to you. He says: 'No blame shall fall on you today. Allah will forgive you' (12:92). This is not weakness — it is the behavior of a man whose heart has been shaped by decades of relying on Allah rather than on anyone else. He has everything and holds it loosely. That is Yusuf.",
+    root: {
+      letters: 'ي و س ف',
+      transliteration: 'y-w-s-f',
+      meaning: 'A proper name — possibly from the Hebrew Yosef: Allah increases',
+      elaboration: "The name Yusuf is a proper noun without a productive Arabic root. Classical scholars note its connection to the Hebrew Yosef (from the root y-s-f, meaning to add, to increase), reflecting the mother Rachel's prayer at his birth: May Allah add another son. This etymology is echoed in the Quran where Yusuf's story is one of addition — each loss turns into a greater gain, each descent into an unexpected elevation.",
+    },
+    rootForms: [
+      { arabic: 'يُوسُف', transliteration: 'Yūsuf', type: 'Proper noun', meaning: "The Prophet Yusuf (Joseph)", approxCount: 27, verified: false },
+    ],
+    occurrenceCount: 27,
+    occurrenceNote: "Yusuf is named 27 times in the Quran, almost entirely within Surat Yusuf. Outside this surah, he is mentioned briefly in Surah 40 (Ghafir) as a prophet who brought the truth to Egypt but was disbelieved. The concentration of the name within a single surah is itself significant — this story is whole and complete, not fragmented across the Quran like many other prophetic narratives.",
+    keyAyahs: [
+      {
+        ref: 'Yusuf 12:3',
+        arabic: 'نَحْنُ نَقُصُّ عَلَيْكَ أَحْسَنَ الْقَصَصِ بِمَا أَوْحَيْنَا إِلَيْكَ هَٰذَا الْقُرْآنَ',
+        translation: "We relate to you the best of stories through what We have revealed to you in this Quran.",
+        note: "The Quran's self-description of its own story is arresting. Ahsana al-qasas — the best of stories, the most beautiful of narratives. Scholars have offered many readings of why: its completeness (beginning, middle, end within one surah), its psychological depth, the nobility of its resolution, the way divine care operates through every reversal. The surah is a masterwork of narrative wisdom.",
+      },
+      {
+        ref: 'Yusuf 12:18',
+        arabic: 'فَصَبْرٌ جَمِيلٌ ۖ وَاللَّهُ الْمُسْتَعَانُ عَلَىٰ مَا تَصِفُونَ',
+        translation: "So patience is most fitting. And Allah is the one sought for help against what you describe.",
+        note: "Yaqub's response when shown Yusuf's shirt soaked in false blood. Two sentences that contain an entire theology: sabr jamil — beautiful patience, the kind that does not collapse into bitterness or complaint. And the statement that Allah is the only recourse when human explanations fail. Yaqub does not believe them, but neither does he rage. He turns to Allah.",
+      },
+      {
+        ref: 'Yusuf 12:87',
+        arabic: 'وَلَا تَيْأَسُوا مِن رَّوْحِ اللَّهِ ۖ إِنَّهُ لَا يَيْأَسُ مِن رَّوْحِ اللَّهِ إِلَّا الْقَوْمُ الْكَافِرُونَ',
+        translation: "And do not despair of relief from Allah. Indeed, none despairs of relief from Allah except the disbelieving people.",
+        note: "Yaqub's instruction to his sons near the end of the story. To despair of Allah's relief is linked directly to disbelief. This is the theological backbone of the entire Yusuf narrative: no matter how deep the descent, relief from Allah remains possible. The story exists to make this credible — not as abstract assertion, but as demonstrated truth.",
+      },
+      {
+        ref: 'Yusuf 12:92',
+        arabic: 'قَالَ لَا تَثْرِيبَ عَلَيْكُمُ الْيَوْمَ ۖ يَغْفِرُ اللَّهُ لَكُمْ',
+        translation: "He said: No blame shall fall on you today. May Allah forgive you.",
+        note: "The culminating moment — Yusuf forgives. The phrase la tathrib (no blame, no reproach) is even more than forgiveness — it is the cancellation of any claim to grievance. Yusuf does not say I forgive you despite what you did; he says there is nothing to blame you for today. The elevation of character required for this is what the story has been building toward across its entire length.",
+      },
+    ],
+    semanticField: [
+      {
+        slug: 'sabr',
+        arabic: 'صَبْر',
+        transliteration: 'Sabr',
+        relationship: 'deepens',
+        relationshipLabel: 'The virtue that carries Yusuf through every descent',
+        description: "Sabr jamil — beautiful patience — is Yaqub's phrase for what the situation requires. Yusuf embodies it not just by enduring suffering but by maintaining moral integrity throughout. He does not lose his character in the pit, in the slave market, or in the prison. Sabr is not merely waiting; it is remaining yourself while waiting.",
+      },
+      {
+        slug: 'ikhlas',
+        arabic: 'إِخْلَاص',
+        transliteration: 'Ikhlas',
+        relationship: 'deepens',
+        relationshipLabel: 'The sincerity that preserves Yusuf from temptation',
+        description: "When the wife of the Aziz attempts to seduce Yusuf, he is described as seeing the burhan of his Lord — a divine sign that preserved him. Scholars discuss what this was, but all agree it was his sincerity before Allah that saved him. He says: My Lord, prison is dearer to me than what they invite me to. He chooses prison over sin. That is ikhlas.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: "Trust divine timing, not human timelines", arabic: "تَوَكُّل", arabicTranslit: "tawakkul", description: "Yusuf spends years in a well, years as a slave, years in prison. From a human timeline this looks like abandonment. The surah shows it was preparation. The believer's task is to maintain trust when the timeline makes no sense — because the divine plan operates on a horizon the human eye cannot reach." },
+        { number: 2, title: "Guard character at every station", arabic: "تَقْوَى", arabicTranslit: "taqwā", description: "Yusuf does not become bitter in the pit, reckless in prosperity, or despairing in prison. At every station, his character holds. This is the surah's deepest lesson: what happens to you is less defining than who you remain through it. Taqwa is what guards character when circumstances are at their worst." },
+        { number: 3, title: "Forgive when given power", arabic: "عَفْو", arabicTranslit: "ʿafw", description: "Yusuf's forgiveness is possible only because he has spent decades turning to Allah rather than to resentment. Forgiveness is not weakness — it is the overflow of a heart that has found its sustenance from Allah and no longer needs to extract anything from those who wronged it." },
+      ],
+      stations: [
+        { name: "The station of the pit", description: "The lowest point — abandoned by those who should have loved you, helpless, alone. The Quran says Allah revealed to Yusuf in the pit that he would one day tell his brothers what they had done. Even at the bottom, there is divine communication. The pit is not the end of the story." },
+        { name: "The station of trial", description: "Prosperity and its temptations, adversity and its injustices. Yusuf navigates both — refusing the wife of the Aziz (prosperity's temptation) and patiently enduring the prison (adversity's injustice). Both stations require the same thing: remembering Allah." },
+        { name: "The station of elevation", description: "Power, position, the dream fulfilled. Yusuf knows what it cost and who gave it. His first words upon reunion are not triumph but shukr — gratitude to Allah. This is the station that reveals who the earlier trials have made you." },
+      ],
+      questions: [
+        { question: "Why does Allah call this the best of stories?", answer: "Among the reasons scholars give: the story moves through the full range of human experience — love, betrayal, loss, temptation, injustice, patience, reunion, forgiveness — and resolves in a way that demonstrates divine sovereignty over all of it. It teaches theology through narrative: you are shown rather than told that Allah's plan operates through what looks like catastrophe." },
+        { question: "What is the lesson of Yusuf for those suffering unjustly?", answer: "That the story is not over. Yusuf's life, examined at any single point before the end, looked like proof of abandonment. Examined as a whole, it was a proof of divine care operating through every difficulty. The lesson is not that suffering will always end quickly or comfortably, but that its meaning is not visible from within it — and that maintaining your character and your trust in Allah is itself the entire test." },
+      ],
+    },
+    scholarsSaid: [
+      { scholar: "Ibn Kathir", source: "Tafsir Ibn Kathir on Surah Yusuf", text: "No surah of the Quran deals with a single theme from beginning to end as Surat Yusuf does. It is unique in the Quran in its narrative completeness, its psychological depth, and the way it moves from one level of trial to another until the final resolution that vindicates both the prophet and the divine plan." },
+      { scholar: "Ibn al-Qayyim", source: "Madarij al-Salikin", text: "The story of Yusuf is the mirror of the believer's journey: descent before ascent, loss before gain, obscurity before recognition. Whoever understands this surah has understood the shape of the divine plan for those whom Allah loves and tests." },
+    ],
+    hadith: [
+      { text: "The noble, son of the noble, son of the noble, son of the noble — Yusuf ibn Yaqub ibn Ishaq ibn Ibrahim.", source: "Sahih al-Bukhari" },
+    ],
+    acrossTransitions: "The story of Yusuf is one of the few Quranic narratives that has a direct parallel in the Hebrew Bible — the Joseph story of Genesis 37-50. The similarities are striking: the well, the brothers, the dream interpretation, the rise to power in Egypt. The differences are equally significant: the Quranic version is more compact, more morally focused, and more explicitly theological. Where Genesis gives extensive space to the political mechanics of Egypt and Canaan, the Quran focuses on the inner life of the characters.\n\nIn the Christian tradition, Joseph is often read typologically — as a prefiguration of Jesus: betrayed, sold, exalted, saving his people. The Quran does not use Yusuf typologically; it presents him as a complete story in himself and explicitly as one of the prophets Allah chose.\n\nIn Islamic spirituality, Surat Yusuf is among the most frequently recommended for those going through grief, loss, or injustice. The surah was revealed to the Prophet ﷺ during the Year of Grief — the year he lost Khadijah and Abu Talib. The timing is itself a message: this is the surah for those who have lost what they loved and cannot see the way forward.",
+    goDeeper: [
+      { slug: 'yusuf', surahName: 'Yusuf', note: "The entire surah — 111 verses, the only complete narrative surah in the Quran, described by Allah as the best of stories" },
+    ],
+    relatedTerms: [
+      { slug: 'sabr',     transliteration: 'Sabr',     term: 'صَبْر'    },
+      { slug: 'tawakkul', transliteration: 'Tawakkul', term: 'تَوَكُّل' },
+    ],
+    hasFullEntry: true,
+  },
+
+  'ibrahim': {
+    slug: 'ibrahim',
+    term: 'إِبْرَاهِيم',
+    transliteration: 'Ibrahim',
+    pronunciation: 'ib-rah-HEEM',
+    category: 'Quranic Characters',
+    evocativeLine: "The friend of Allah — who smashed idols, walked into fire, and offered his son without once looking back.",
+    summary: "Ibrahim is the patriarch — the father of prophets, the founder of the Kaaba, the man whose devotion to the one God broke so thoroughly from the world around him that Allah gave him a unique title: Khalilullah — the intimate friend of Allah. No other prophet in the Quran bears this name.\n\nThe Quran does not give us the full Ibrahim narrative in one place. His story is distributed across dozens of surahs — the smashing of the idols (21:58), the fire that became cool and safe (21:69), the trial of his son (37:102-107), the building of the Kaaba (2:127), the prayer for Makkah (14:35-41), the visits of angels (11:69-76). Together they build the portrait of a man who returned to Allah with his whole self at every invitation, in every test.\n\nIbrahim's relationship with his father Azar is among the Quran's most poignant threads: he pleads with his father again and again to leave idol worship, is rejected, and ultimately can only promise to pray for forgiveness — a promise the Quran later notes he kept, even after his father's death, until it became clear that his father was an enemy of Allah. Ibrahim's love for his father, his patience with rejection, and his eventual heartbroken release of the relationship is a study in how faith can coexist with profound human grief.",
+    root: {
+      letters: 'إ ب ر ه م',
+      transliteration: "'ibrāhīm",
+      meaning: 'A Semitic proper noun — possibly father of a multitude or exalted father',
+      elaboration: "Ibrahim is a Semitic proper noun, related to the Hebrew Avraham (which Genesis 17:5 connects to father of a multitude). Some classical Arabic scholars connected the name to Arabic roots suggesting nobility of father. What matters theologically is that Ibrahim is the father — not merely biological but spiritual — of three Abrahamic traditions, and the Quran presents him as the foundational figure of submission to the one God.",
+    },
+    rootForms: [
+      { arabic: 'إِبْرَاهِيم', transliteration: 'Ibrāhīm', type: 'Proper noun', meaning: 'The Prophet Ibrahim (Abraham)', approxCount: 69, verified: false },
+    ],
+    occurrenceCount: 69,
+    occurrenceNote: "Ibrahim is mentioned 69 times in the Quran — second only to Musa among the prophets in frequency. He appears across 25 surahs, in contexts ranging from cosmic theology to intimate family dialogue. The distribution underscores his centrality: Ibrahim is not a figure from one era of Islamic history but a recurring presence throughout the Quran's theological architecture.",
+    keyAyahs: [
+      {
+        ref: 'Al-Baqarah 2:124',
+        arabic: 'وَإِذِ ابْتَلَىٰ إِبْرَاهِيمَ رَبُّهُ بِكَلِمَاتٍ فَأَتَمَّهُنَّ',
+        translation: "And when his Lord tested Ibrahim with commands, and he fulfilled them all.",
+        note: "The Arabic is stark: Ibrahim was tested with words (kalimat), and he completed them all. No enumeration — just the totality of fulfillment. This verse immediately precedes the appointment of Ibrahim as an imam for humanity. The tests are the preparation for the station. What the tests were is not specified here; the point is that whatever came, he completed.",
+      },
+      {
+        ref: 'Al-Anbiya 21:68-69',
+        arabic: 'قَالُوا حَرِّقُوهُ وَانصُرُوا آلِهَتَكُمْ إِن كُنتُمْ فَاعِلِينَ قُلْنَا يَا نَارُ كُونِي بَرْدًا وَسَلَامًا عَلَىٰ إِبْرَاهِيمَ',
+        translation: "They said: Burn him and support your gods, if you are to act. We said: O fire, be cool and safe upon Ibrahim.",
+        note: "One of the Quran's most breathtaking moments. The fire receives a divine command and obeys. Be cool and safe (kuni bardan wa-salaman). The scholars note that if Allah had said only be cool, Ibrahim might have frozen. So He added and safe. This is divine precision and divine care in a single breath. Nature itself submits when commanded by its Lord.",
+      },
+      {
+        ref: 'Al-Saffat 37:103-107',
+        arabic: 'فَلَمَّا أَسْلَمَا وَتَلَّهُ لِلْجَبِينِ وَنَادَيْنَاهُ أَن يَا إِبْرَاهِيمُ قَدْ صَدَّقْتَ الرُّؤْيَا',
+        translation: "And when they had both submitted and he placed him upon his forehead, We called out: O Ibrahim, you have fulfilled the vision.",
+        note: "The ultimate test — the knife at his son's throat, both of them submitted. And then the divine call: You have fulfilled the vision. What is being tested is not whether Ibrahim can perform violence, but whether his heart belongs entirely to Allah. The moment of complete submission is the moment of divine relief. The ram is provided; the son is spared. This is the Sunnah of Allah with those who trust Him fully.",
+      },
+    ],
+    semanticField: [
+      {
+        slug: 'tawakkul',
+        arabic: 'تَوَكُّل',
+        transliteration: 'Tawakkul',
+        relationship: 'deepens',
+        relationshipLabel: 'Complete reliance — what Ibrahim demonstrated in every trial',
+        description: "Ibrahim is tawakkul in human form. Thrown into fire: he does not bargain or negotiate. Asked to sacrifice his son: he proceeds without hesitation. When he leaves Hajar and Ismail in the barren valley: a single question and a single answer (Is this Allah's command? Then He will not neglect us) and he departs. Tawakkul is not passivity — it is the active trust of a heart that has found its grounding in Allah alone.",
+      },
+      {
+        slug: 'tawhid',
+        arabic: 'تَوْحِيد',
+        transliteration: 'Tawhid',
+        relationship: 'deepens',
+        relationshipLabel: 'The truth Ibrahim proclaimed from the beginning',
+        description: "Ibrahim's entire life is an enactment of tawhid. He breaks the idols. He refuses to worship the stars, the moon, and the sun — each time saying I do not love what sets (6:76-78). He builds the Kaaba as the house of the one God. He is called in the Quran a hanif — one who turns away from all false objects of worship toward the pure truth of the one God.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: "Break your idols before the trial comes", arabic: "إِبْطَال", arabicTranslit: "ibṭāl", description: "Ibrahim broke the idols before anyone threw him into the fire. The rejection of false objects of worship must precede the test of whether one will remain with the true God under pressure. The person who has not cleared the heart of alternatives cannot be fully tested — because the alternatives remain as retreat." },
+        { number: 2, title: "Answer every call of Allah completely", arabic: "اسْتِجَابَة", arabicTranslit: "istijābah", description: "The Quran says Ibrahim fulfilled them all. Not partial fulfillment. Not almost. The spiritual practice of Ibrahim is total response — when Allah speaks, the response is the whole self. This is the quality that earned him the title Khalil — the intimate — because intimacy with Allah requires this kind of unreserved giving of oneself." },
+        { number: 3, title: "Pray for those you love even when you cannot save them", arabic: "دُعَاء", arabicTranslit: "duʿāʾ", description: "Ibrahim prays for his father, for his children, for the city of Makkah, for those who come after him. The Quranic record of Ibrahim's prayers is among the richest in the Quran. When he cannot change a situation, he prays. When he leaves Hajar in the valley, he prays. The du'a of Ibrahim is the instrument of a man who knows he is limited and knows who is not." },
+      ],
+      stations: [
+        { name: "The station of hanif", description: "Pure monotheism without compromise. Ibrahim is the hanif — the one who turns away from falsehood toward pure truth. The Quran links the religion of Ibrahim to this concept repeatedly. To be a Muslim is, in one sense, to follow the millat Ibrahim — the way of Ibrahim." },
+        { name: "The station of Khalilullah", description: "The intimate friend of Allah. This is not a station one achieves through technique; it is a state Allah confers on the one whose heart has been given entirely. Ibrahim earned it through the accumulated gift of his whole life — every test completed, every call answered." },
+        { name: "The station of imam for humanity", description: "After fulfilling all the trials, Allah says: I am making you an imam for humanity (2:124). The imamate is the outcome of tested faithfulness. Ibrahim becomes a model not for any one community but for all humanity — which is why the Quran says that those closest to Ibrahim are those who follow him and this Prophet (3:68)." },
+      ],
+      questions: [
+        { question: "How do we understand the command to sacrifice Ismail?", answer: "This is among the Quran's most studied passages. The command is understood by scholars not as a desire for child sacrifice but as a test of the degree to which Ibrahim's heart was anchored in Allah rather than in what Allah had given him. The son represents the greatest gift; the willingness to offer him back represents the purest form of surrender. Allah never intended the death — the ram is provided. The test is the interior act of complete submission." },
+        { question: "What does Ibrahim's prayer for Makkah teach us?", answer: "Ibrahim's prayers in Surah Ibrahim (14:35-41) are among the most intimate in the Quran. He asks for security for the city, for sustenance for its people, for his descendants to pray. He acknowledges that whoever strays, Allah will manage; he asks only for himself and his descendants to be among those who pray. The smallness of what he asks — not power, not wealth, but prayer — reveals the quality of what he has understood through a lifetime of submission." },
+      ],
+    },
+    scholarsSaid: [
+      { scholar: "Ibn al-Qayyim", source: "Zad al-Ma'ad", text: "The station of Ibrahim is the highest of the stations of the prophets after that of Muhammad ﷺ. He is the imam of the hanifs, the father of the prophets, the Khalil of the Most Merciful. His millah is the foundation on which all the prophets built." },
+      { scholar: "Al-Tabari", source: "Tafsir al-Tabari", text: "The title Khalilullah — the intimate friend of Allah — means that Allah chose Ibrahim for a closeness that permeates the entirety of their relationship. As the verse says, Allah took Ibrahim as a khalil (4:125) — taken by Allah Himself, not merely designated." },
+    ],
+    hadith: [
+      { text: "The noble, son of the noble, son of the noble — Yusuf ibn Yaqub ibn Ishaq ibn Ibrahim.", source: "Sahih al-Bukhari" },
+    ],
+    acrossTransitions: "Ibrahim is the common ancestor of Judaism, Christianity, and Islam in their own self-understandings. The Quran is explicit that Ibrahim was neither a Jew nor a Christian — he preceded both — but was a hanif, a pure monotheist. The claim is that the religion of Ibrahim, in its essential form, is what the Prophet Muhammad ﷺ came to restore.\n\nIn Jewish tradition, Abraham is Avraham Avinu — our father Abraham — the founding patriarch whose covenant with God defines the people. In Christianity, Paul's letters make Abraham the paradigm of faith — justified by belief, not works. In Islam, Ibrahim's submission (islam in the deepest sense) makes him the prototype of the Muslim.\n\nThe Hajj itself is the living memory of Ibrahim. The running of Hajar between Safa and Marwa, the standing at Arafat, the sacrifice, the stoning of the symbolic devils — all re-enact moments from the Ibrahim story. To perform Hajj is to enter the drama of Ibrahim's submission and to make it one's own.",
+    goDeeper: [
+      { slug: 'ibrahim', surahName: 'Ibrahim', note: "Contains Ibrahim's profound prayers for his family and the city of Makkah (14:35-41)" },
+      { slug: 'al-saffat', surahName: 'Al-Saffat', note: "The fullest account of the sacrifice trial — Ibrahim, Ismail, and the ram (37:99-113)" },
+      { slug: 'al-anbiya', surahName: "Al-Anbiya'", note: "The idol-smashing, the fire, the divine command that made it cool and safe (21:51-70)" },
+    ],
+    relatedTerms: [
+      { slug: 'tawakkul', transliteration: 'Tawakkul', term: 'تَوَكُّل' },
+      { slug: 'tawhid',   transliteration: 'Tawhid',   term: 'تَوْحِيد' },
+    ],
+    hasFullEntry: true,
+  },
 }
