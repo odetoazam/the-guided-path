@@ -32,13 +32,13 @@ export function CategoryBadge({ category }: { category: GlossaryCategory }) {
 }
 
 const CATEGORY_TINTS: Record<GlossaryCategory, string> = {
-  'States of the Heart':   'rgba(244,63,94,0.03)',   // rose
-  'The Unseen':            'rgba(139,92,246,0.03)',   // violet
-  'Quranic Characters':    'rgba(245,158,11,0.03)',   // amber
-  'Nations & Peoples':     'rgba(20,184,166,0.03)',   // teal
-  'Concepts of Existence': 'rgba(16,185,129,0.03)',   // emerald
-  'Theology & Ethics':     'rgba(99,102,241,0.03)',   // indigo
-  'Study Terms':           'rgba(14,165,233,0.03)',   // sky
+  'States of the Heart':   'rgba(244,63,94,0.06)',   // rose
+  'The Unseen':            'rgba(139,92,246,0.06)',   // violet
+  'Quranic Characters':    'rgba(245,158,11,0.06)',   // amber
+  'Nations & Peoples':     'rgba(20,184,166,0.06)',   // teal
+  'Concepts of Existence': 'rgba(16,185,129,0.06)',   // emerald
+  'Theology & Ethics':     'rgba(99,102,241,0.06)',   // indigo
+  'Study Terms':           'rgba(14,165,233,0.06)',   // sky
 }
 
 const CATEGORY_BORDER_HOVER: Record<GlossaryCategory, string> = {
@@ -57,10 +57,15 @@ function GlossaryCard({ entry }: { entry: GlossaryMeta }) {
   const inner = (
     <div
       className="group relative flex h-full flex-col overflow-hidden rounded-2xl border border-zinc-200 bg-white p-5 transition-all duration-300 dark:border-white/[0.06] dark:bg-white/[0.02]"
-      style={{ background: tint }}
       onMouseEnter={(e) => { (e.currentTarget as HTMLDivElement).style.borderColor = hoverBorder }}
       onMouseLeave={(e) => { (e.currentTarget as HTMLDivElement).style.borderColor = '' }}
     >
+      {/* Category tint overlay */}
+      <div
+        aria-hidden
+        className="pointer-events-none absolute inset-0"
+        style={{ background: tint }}
+      />
       {/* Hover bloom */}
       <div
         aria-hidden
