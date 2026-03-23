@@ -10,6 +10,8 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     { url: `${CANONICAL_URL}/understanding-quran`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.85 },
     { url: `${CANONICAL_URL}/posts`, lastModified: new Date(), changeFrequency: 'daily', priority: 0.8 },
     { url: `${CANONICAL_URL}/subscribe`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.5 },
+    { url: `${CANONICAL_URL}/privacy`, lastModified: new Date(), changeFrequency: 'yearly', priority: 0.3 },
+    { url: `${CANONICAL_URL}/terms`, lastModified: new Date(), changeFrequency: 'yearly', priority: 0.3 },
   ]
 
   try {

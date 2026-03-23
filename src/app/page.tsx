@@ -245,6 +245,12 @@ export default async function LandingPage() {
             <Link href="#subscribe" className="hover:text-navy dark:hover:text-cream transition-colors">
               Subscribe
             </Link>
+            <Link href="/privacy" className="hover:text-navy dark:hover:text-cream transition-colors">
+              Privacy
+            </Link>
+            <Link href="/terms" className="hover:text-navy dark:hover:text-cream transition-colors">
+              Terms
+            </Link>
           </div>
 
           <svg width="16" height="16" viewBox="0 0 24 24" aria-hidden className="text-[#C9A84C]/20">
