@@ -1,12 +1,13 @@
 'use client'
 
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useRef } from 'react'
 import { Button } from '@/components/ui/button'
 import { Input } from '@/components/ui/input'
 import { Badge } from '@/components/ui/badge'
 import { LoadingSpinner } from '@/components/ui/loading'
 import { Search, Download, Users, UserPlus, UserMinus, Gift } from 'lucide-react'
 import { formatDate } from '@/lib/utils'
+import { createClient } from '@/lib/supabase/client'
 import type { Subscriber } from '@/types'
 import toast from 'react-hot-toast'
 
@@ -17,6 +18,16 @@ export default function SubscribersPage() {
   const [statusFilter, setStatusFilter] = useState('all')
   const [total, setTotal] = useState(0)
   const [sendingGuide, setSendingGuide] = useState(false)
+  const supabaseRef = useRef(createClient())
+
+  const getAuthHeaders = async (): Promise<Record<string, string>> => {
+    const { data: { session } } = await supabaseRef.current.auth.getSession()
+    if (!session?.access_token) return { 'Content-Type': 'application/json' }
+    return {
+      'Content-Type': 'application/json',
+      'Authorization': `Bearer ${session.access_token}`,
+    }
+  }
 
   useEffect(() => {
     fetchSubscribers()
@@ -25,7 +36,8 @@ export default function SubscribersPage() {
   const fetchSubscribers = async () => {
     setLoading(true)
     try {
-      const res = await fetch(`/api/subscribers?status=${statusFilter}`)
+      const headers = await getAuthHeaders()
+      const res = await fetch(`/api/subscribers?status=${statusFilter}`, { headers })
       const data = await res.json()
       setSubscribers(data.subscribers || [])
       setTotal(data.total || 0)
@@ -60,7 +72,8 @@ export default function SubscribersPage() {
     if (!confirm(`Send the free guide announcement to all active subscribers?`)) return
     setSendingGuide(true)
     try {
-      const res = await fetch('/api/email/announce-guide', { method: 'POST' })
+      const headers = await getAuthHeaders()
+      const res = await fetch('/api/email/announce-guide', { method: 'POST', headers })
       const data = await res.json()
       if (res.ok) {
         toast.success(data.message)
