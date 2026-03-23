@@ -195,8 +195,8 @@ export const GLOSSARY_TERMS: GlossaryMeta[] = [
   { slug: 'ashab-al-ukhdud',  term: 'أَصْحَاب ٱلْأُخْدُود', transliteration: 'Ashab al-Ukhdud', category: "Nations & Peoples", evocativeLine: 'They watched believers burned in the ditch — and would not deny their faith.', hasFullEntry: true },
   { slug: 'ashab-al-fil',     term: 'أَصْحَاب ٱلْفِيل',   transliteration: 'Ashab al-Fil',    category: "Nations & Peoples", evocativeLine: 'The army of the elephant — turned back by birds, the year the Prophet ﷺ was born.', hasFullEntry: true },
   { slug: 'madyan',           term: 'مَدْيَن',             transliteration: 'Madyan',          category: "Nations & Peoples", evocativeLine: 'The people of Shuayb — who cheated in their scales and met the weight of divine justice.', hasFullEntry: true },
-  { slug: 'qawm-nuh',         term: 'قَوْم نُوح',         transliteration: "Qawm Nuh",        category: "Nations & Peoples", evocativeLine: "Noah's people — 950 years of warning and still they chose the flood.",        hasFullEntry: false },
-  { slug: 'qawm-lut',         term: 'قَوْم لُوط',         transliteration: "Qawm Lut",        category: "Nations & Peoples", evocativeLine: "Lot's people — whose transgression became the permanent example of civilizational collapse.", hasFullEntry: false },
+  { slug: 'qawm-nuh',         term: 'قَوْم نُوح',         transliteration: "Qawm Nuh",        category: "Nations & Peoples", evocativeLine: "Noah's people — 950 years of warning and still they chose the flood.",        hasFullEntry: true },
+  { slug: 'qawm-lut',         term: 'قَوْم لُوط',         transliteration: "Qawm Lut",        category: "Nations & Peoples", evocativeLine: "Lot's people — whose transgression became the permanent example of civilizational collapse.", hasFullEntry: true },
 
   // ── Study Terms ──────────────────────────────────────────────────────────────
   { slug: 'tafsir',          term: 'تَفْسِير',            transliteration: 'Tafsir',          category: 'Study Terms', evocativeLine: 'The science of uncovering what the Quran means — layer by layer.',               hasFullEntry: true  },
@@ -204,7 +204,7 @@ export const GLOSSARY_TERMS: GlossaryMeta[] = [
   { slug: 'nazm',            term: 'نَظْم',               transliteration: 'Nazm',            category: 'Study Terms', evocativeLine: 'The hidden architecture of the Quran — the coherence beneath the surface.',       hasFullEntry: true  },
   { slug: 'ijaz',            term: 'إِعْجَاز',            transliteration: "I'jaz",           category: 'Study Terms', evocativeLine: "The Quran's inimitability — the challenge that has never been met.",              hasFullEntry: true  },
   { slug: 'asbab-al-nuzul',  term: 'أَسْبَاب ٱلنُّزُول', transliteration: 'Asbab al-Nuzul',  category: 'Study Terms', evocativeLine: 'The occasions of revelation — the moments that gave the verses their first breath.', hasFullEntry: true  },
-  { slug: 'balaghah',        term: 'بَلَاغَة',            transliteration: 'Balaghah',        category: 'Study Terms', evocativeLine: "The Quran's rhetoric — why its words land with a force no translation can carry.",  hasFullEntry: false },
+  { slug: 'balaghah',        term: 'بَلَاغَة',            transliteration: 'Balaghah',        category: 'Study Terms', evocativeLine: "The Quran's rhetoric — why its words land with a force no translation can carry.",  hasFullEntry: true },
   { slug: 'qiraat',          term: 'قِرَاءَات',           transliteration: "Qira'at",         category: 'Study Terms', evocativeLine: 'The seven readings — different transmissions of the same divine word.',            hasFullEntry: false },
   { slug: 'makki-madani',    term: 'مَكِّي/مَدَنِي',     transliteration: 'Makki / Madani',   category: 'Study Terms', evocativeLine: 'The two faces of the Quran — revelation in struggle, then revelation in power.',   hasFullEntry: false },
   { slug: 'maqasid',        term: 'مَقَاصِد',             transliteration: 'Maqasid',         category: 'Study Terms', evocativeLine: 'The higher objectives of the Quran — life, intellect, lineage, wealth, and deen.',  hasFullEntry: false },
@@ -9537,6 +9537,243 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
     relatedTerms: [
       { slug: 'quraysh',  transliteration: 'Quraysh',  term: 'قُرَيْش'  },
       { slug: 'ibrahim',  transliteration: 'Ibrahim',  term: 'إِبْرَاهِيم' },
+    ],
+    hasFullEntry: true,
+  },
+
+  'madyan': {
+    slug: 'madyan',
+    term: 'مَدْيَن',
+    transliteration: 'Madyan',
+    pronunciation: 'MAD-yan',
+    category: "Nations & Peoples",
+    evocativeLine: "The people who cheated their scales — and the prophet who weighed the world on behalf of justice.",
+    summary: "Madyan is the people to whom the Prophet Shu'ayb was sent — a community in northwestern Arabia whose central sin was economic: they cheated in their weights and measures, gave short measure, corrupted commerce, and spread disorder in the land. Shu'ayb is described in the Quran as having argued with them in multiple passages across Al-A'raf, Hud, Ash-Shu'ara, and Al-Ankabut. He is the prophet who made the commercial ethics of a marketplace the central arena of prophetic confrontation with injustice.\n\nShu'ayb's arguments to Madyan are among the most economically precise in prophetic discourse: 'Give full measure and do not be among those who cause loss. Weigh with an even balance and do not deprive people of what is theirs and do not commit abuse on earth, spreading corruption' (26:181-183). The connection between honest commerce and the worship of Allah is explicit in his message: economic corruption is not merely a social problem but a form of religious corruption — a rejection of the covenant between the human being and the divine order of the world.\n\nThe response of Madyan's leaders to Shu'ayb was to threaten him with expulsion and question whether his prayer could actually prevent them from doing what they willed. This is the Quranic template of the community that makes power the measure of ethics: if no one can stop us, then our actions are legitimate. Shu'ayb's response was to invoke the divine judgment — and when it came, it came as the scream (al-sayhah) and the earthquake. The people who had cheated their scales were left in their homes, prostrate, destroyed.",
+    root: {
+      letters: 'م د ي ن',
+      transliteration: 'm-d-y-n',
+      meaning: 'A proper name (Midian) — a son of Ibrahim and Keturah in Biblical genealogy',
+      elaboration: "Madyan is the name of both the people and the region — corresponding to biblical Midian, located in the northwestern Arabian Peninsula and the Sinai. The Madyanites (Midianites) appear in the Hebrew Bible as the people Moses lived among after fleeing Egypt, and Jethro (Yitro), Moses's father-in-law, is identified in some traditions with Shu'ayb. In the Quran, Shu'ayb is also connected to Musa (Musa lived among the Madyan people for a period, as narrated in 28:22-28).",
+    },
+    rootForms: [
+      { arabic: 'مَدْيَن', transliteration: 'Madyan', type: 'Proper noun (place and people)', meaning: 'Midian — the people and region to whom Shu\'ayb was sent', approxCount: 10, verified: false },
+    ],
+    occurrenceCount: 10,
+    occurrenceNote: "Madyan appears approximately 10 times in the Quran. Major narrative passages include Al-A'raf (7:85-93), Hud (11:84-95), Ash-Shu'ara (26:176-191), Al-Ankabut (29:36-37), and the connection to Musa in Al-Qasas (28:22-28).",
+    keyAyahs: [
+      {
+        ref: "Hud 11:84-85",
+        arabic: "وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًا ۚ قَالَ يَا قَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ غَيْرُهُ ۖ وَلَا تَنقُصُوا الْمِكْيَالَ وَالْمِيزَانَ",
+        translation: "And to Madyan, their brother Shu'ayb. He said: O my people, worship Allah — you have no deity other than Him. And do not reduce the measure and the scale.",
+        note: "The prophetic mission of Shu'ayb opens with tawhid — worship Allah alone — and immediately connects it to the specific economic sin of his people: reducing the measure and the scale. The sequence is not incidental. Economic justice is presented as a natural consequence of tawhid: if you truly worship the One who is Al-Muqsit (the Just), you cannot cheat in your transactions. The worship of Allah and the fair treatment of people in commerce are not separate categories of obligation — they are one integrated call.",
+      },
+      {
+        ref: "Al-Shu'ara 26:181-183",
+        arabic: "أَوْفُوا الْكَيْلَ وَلَا تَكُونُوا مِنَ الْمُخْسِرِينَ وَزِنُوا بِالْقِسْطَاسِ الْمُسْتَقِيمِ وَلَا تَبْخَسُوا النَّاسَ أَشْيَاءَهُمْ وَلَا تَعْثَوْا فِي الْأَرْضِ مُفْسِدِينَ",
+        translation: "Give full measure and do not be among those who cause loss. And weigh with an even balance. And do not deprive people of what is theirs, and do not commit abuse on earth, spreading corruption.",
+        note: "The most economically precise prophetic instruction in the Quran. Five imperatives: give full measure, do not be among those who cause loss, weigh with an even scale, do not deprive people of what is theirs, do not spread corruption. 'What is theirs' (ashya'ahum) is remarkable: the fair measure owed to people is theirs by right, not by the merchant's generosity. Cheating is theft — taking what belongs to another. The connection to fasad (corruption) in the earth shows that economic injustice is not private sin but public disorder.",
+      },
+    ],
+    semanticField: [
+      {
+        slug: 'fasad',
+        arabic: 'فَسَاد',
+        transliteration: 'Fasad',
+        relationship: 'deepens',
+        relationshipLabel: "Shu'ayb connected economic cheating directly to fasad",
+        description: "The specific sin of Madyan — cheating in weights and measures — is described by Shu'ayb as fasad (corruption) in the earth. This is the Quran's explicit connection between economic injustice and the broader category of social and spiritual corruption. Fasad is not only political or religious disorder; it begins in the marketplace, in the moment when one person takes from another what is rightfully theirs.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: "Treat commercial honesty as a religious obligation", arabic: "أَمَانَة", arabicTranslit: "amāna", description: "Shu'ayb's message makes the connection explicit: worship of Allah and honest commerce are inseparable. The Muslim who cheats in business — short-changes a customer, misrepresents a product, takes more than is owed — is not merely engaging in a social wrong. They are repeating the sin of Madyan: separating the worship of Allah from the obligations that worship entails. Amanah in commercial dealings is part of faith." },
+        { number: 2, title: "Recognize that market corruption is earth corruption", arabic: "إِصْلَاح", arabicTranslit: "iṣlāḥ", description: "The command 'do not spread corruption in the earth' follows directly from the instruction about weights and measures. Economic corruption — when it becomes systemic — destroys social trust, harms the vulnerable, and corrupts the entire fabric of community life. Islah (reform, making right) begins with the individual transaction and ripples outward. Fixing what is wrong in the marketplace is part of the broader mandate to reform what is wrong in the earth." },
+      ],
+      stations: [
+        { name: "The community of systematic economic injustice", description: "Madyan's sin was not occasional dishonesty but systematic commercial corruption — cheating as a way of doing business. This is the Quran's example of what happens when an entire economic culture is built on dishonesty: it requires a prophetic intervention to name it, correct it, and eventually — when the community refuses to change — face divine judgment." },
+        { name: "Shu'ayb — the prophet of the marketplace", description: "Among Quranic prophets, Shu'ayb is the one most focused on economic ethics. His arguments are not about idols primarily (though tawhid underlies them) but about scales, measures, and what people are owed. He is the Quran's witness that prophetic mission includes economic justice — that the marketplace is a domain of divine concern, not a secular space beyond prophetic attention." },
+      ],
+      questions: [
+        { question: "Is Shu'ayb the same as Jethro (Yitro) in the Bible?", answer: "Some classical Islamic scholars, and many Western scholars, have proposed that Shu'ayb corresponds to the biblical Jethro — Moses's father-in-law, described as a Midianite priest. The Quran describes Musa living with the people of Madyan and working for a man with two daughters (28:22-28), which parallels the biblical account. However, the identification is not certain, and some scholars note differences in the descriptions. The Quran does not name the man Musa works for in Al-Qasas, leaving the connection speculative." },
+        { question: "What was the punishment of Madyan?", answer: "The Quran describes their destruction through al-sayhah (the terrible scream, the blast) in several passages. In Hud 11:94, it is described as al-sayhah along with rij'fat (the earthquake). In Al-Shu'ara (26:189), it is al-'adhab yawm al-zullah (the punishment of the Day of the Shadow) — a dark cloud that fell upon them. Classical scholars harmonize these as a combined event: a thunderous sound accompanied by an earthquake and perhaps a dark cloud, producing total destruction." },
+      ],
+    },
+    scholarsSaid: [
+      { scholar: "Al-Tabari", source: "Tafsir Al-Tabari on Surah Hud", text: "Shu'ayb is called Khatib al-Anbiya — the orator of the prophets — for the eloquence and completeness of his arguments. He pressed his people with arguments from theology (worship the One God), from economics (give full measure), from social ethics (do not deprive people of what is theirs), and from eschatology (fear the Day you will stand before Allah). His da'wah was the most comprehensive economic and social argument in the prophetic tradition." },
+    ],
+    hadith: [],
+    acrossTransitions: "Midian (Madyan) appears extensively in the Hebrew Bible. The Midianites are the people Moses lives among after fleeing Egypt; his father-in-law Jethro is a Midianite priest who becomes an important advisor and whose advice on judicial delegation (Exodus 18) shapes Mosaic governance. The Midianites also appear later as enemies of Israel (the period of Gideon in Judges), showing the complexity of their relationship with the Israelites across different historical periods.\n\nThe biblical Midianites are not associated with the same specific economic sin that the Quran attributes to Madyan — the Quran's Shu'ayb narrative has no direct biblical parallel. However, the prophetic concern for economic justice is well-attested in the Hebrew prophetic tradition: Amos, Micah, and others condemn dishonest scales and short measures in terms that parallel Shu'ayb's arguments precisely ('You who use dishonest scales, who make the ephah small and the shekel great' — Amos 8:5).",
+    goDeeper: [
+      { slug: 'hud', surahName: 'Hud', note: "The Shu'ayb and Madyan narrative (11:84-95) — including the prophetic argument and their destruction" },
+      { slug: 'al-shuara', surahName: "Al-Shu'ara", note: "The most detailed economic instructions from Shu'ayb to Madyan (26:176-191)" },
+    ],
+    relatedTerms: [
+      { slug: 'fasad', transliteration: 'Fasad', term: 'فَسَاد' },
+      { slug: 'musa',  transliteration: 'Musa',  term: 'مُوسَىٰ' },
+    ],
+    hasFullEntry: true,
+  },
+
+  'qawm-nuh': {
+    slug: 'qawm-nuh',
+    term: "قَوْم نُوح",
+    transliteration: "Qawm Nūḥ",
+    pronunciation: "KAWM NOOH",
+    category: "Nations & Peoples",
+    evocativeLine: "Nine hundred fifty years of warning — and they chose the flood.",
+    summary: "Qawm Nuh — the People of Nuh (Noah) — represent the Quran's first extended account of prophetic rejection by a people, and the first instance of total civilizational destruction in human history. The Quran narrates their story across multiple surahs — Yunus, Hud, Al-Mu'minun, Ash-Shu'ara, Nuh — with Surah Nuh (71) providing the most concentrated and personal account in the Prophet Nuh's own voice.\n\nSurah Nuh is one of the most human documents in the Quran: a prophet's direct report to Allah about the failure of his mission after 950 years. 'My Lord, I have called my people night and day, and my calling has only increased them in flight. Whenever I called them so You would forgive them, they put their fingers in their ears, covered themselves with their garments, persisted, and were arrogant.' The specificity of the description — fingers in ears, garments over heads — captures the active, deliberate refusal of a people who were not ignorant of the message but who chose, repeatedly and consciously, to block it out.\n\nThe flood that destroyed Qawm Nuh is presented in the Quran as divine justice — not capricious destruction but the fulfillment of a divine decree after centuries of patience and invitation. The Quran's narration of the flood emphasizes what survived: the Ark, and those who boarded it, and the mercy that began again afterward. Nuh's ark is described as running 'bi-smi-llah' (in the name of Allah), carrying the remnant of faith through the waters that erased one world and prepared for another.",
+    root: {
+      letters: 'ن و ح',
+      transliteration: 'n-w-h',
+      meaning: 'Proper name (Noah) — from the Hebrew Noach: rest, comfort',
+      elaboration: "The name Nuh is the Arabic form of the Hebrew Noah (Noach), from a root meaning rest or relief. Ironically, the prophet of rest was anything but rested: 950 years of calling a people who covered their ears. The name's meaning becomes a theological irony — Nuh himself represents the opposite of ease in his prophetic mission, and the relief he brings is through destruction rather than comfort. His ark becomes the vessel of rest — the saving remnant carried through the storm.",
+    },
+    rootForms: [
+      { arabic: 'نُوح', transliteration: 'Nūḥ', type: 'Proper noun', meaning: 'The Prophet Nuh (Noah)', approxCount: 43, verified: false },
+    ],
+    occurrenceCount: 43,
+    occurrenceNote: "The name Nuh appears approximately 43 times in the Quran, making him one of the most mentioned prophets. His story appears in major narrative passages in: Al-A'raf (7:59-64), Yunus (10:71-73), Hud (11:25-49), Al-Mu'minun (23:23-30), Ash-Shu'ara (26:105-122), As-Saffat (37:75-82), Al-Qamar (54:9-17), and the complete personal account of his mission in Surah Nuh (71:1-28). He is also referenced in Al-Ankabut (29:14) where the 950-year figure appears.",
+    keyAyahs: [
+      {
+        ref: "Nuh 71:5-7",
+        arabic: "قَالَ رَبِّ إِنِّي دَعَوْتُ قَوْمِي لَيْلًا وَنَهَارًا فَلَمْ يَزِدْهُمْ دُعَائِي إِلَّا فِرَارًا وَإِنِّي كُلَّمَا دَعَوْتُهُمْ لِتَغْفِرَ لَهُمْ جَعَلُوا أَصَابِعَهُمْ فِي آذَانِهِمْ وَاسْتَغْشَوْا ثِيَابَهُمْ وَأَصَرُّوا وَاسْتَكْبَرُوا اسْتِكْبَارًا",
+        translation: "He said: My Lord, I have called my people night and day, and my calling has only increased them in flight. And whenever I called them so You would forgive them, they put their fingers in their ears, covered themselves with their garments, persisted, and were arrogant with great arrogance.",
+        note: "The most personal prophetic complaint in the Quran. Nuh reports to Allah directly about the failure of his mission — using the personal voice ('I called,' 'my calling') and reporting the physical responses of his people with painful specificity. Fingers in ears, garments over heads — not intellectual rejection but physical blocking. Asarru (they persisted) and istakbaru istikbaran (they were arrogant with great arrogance) — the doubled construction of kibr (arrogance) is the Quran's grammar of extreme: this was not ordinary pride but the full force of human will turned against divine guidance. Nine hundred and fifty years of this.",
+      },
+      {
+        ref: "Hud 11:36-37",
+        arabic: "وَأُوحِيَ إِلَىٰ نُوحٍ أَنَّهُ لَن يُؤْمِنَ مِن قَوْمِكَ إِلَّا مَن قَدْ آمَنَ فَلَا تَبْتَئِسْ بِمَا كَانُوا يَفْعَلُونَ وَاصْنَعِ الْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا",
+        translation: "And it was revealed to Nuh: None of your people will believe except those who have already believed, so do not grieve over what they have been doing. And construct the ship under Our eyes and Our inspiration.",
+        note: "The divine verdict: no more will come. The period of da'wah is over; the period of construction begins. 'Do not grieve' (fa-la tabta'is) is the divine merciful response to a prophet who has spent centuries in grief over his people's rejection. Now the task changes: build. The ship is constructed 'under Our eyes and Our inspiration' — bi-a'yunina wa-wahyina — watched over and guided directly. The ark is not a human engineering achievement; it is a divine construction project, built by divine specification.",
+      },
+      {
+        ref: "Al-Ankabut 29:14",
+        arabic: "وَلَقَدْ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِ فَلَبِثَ فِيهِمْ أَلْفَ سَنَةٍ إِلَّا خَمْسِينَ عَامًا",
+        translation: "And We certainly sent Nuh to his people, and he remained among them a thousand years less fifty years.",
+        note: "The Quranic specification: 950 years. This is the longest recorded prophetic mission in the Quran — nearly a millennium of calling a people to faith. The number is not presented as remarkable but as fact. The patience required — 950 years of da'wah without mass conversion — is itself the Quran's statement about the depth of divine patience and the corresponding depth of the eventual consequence.",
+      },
+    ],
+    semanticField: [
+      {
+        slug: 'sabr',
+        arabic: 'صَبْر',
+        transliteration: 'Sabr',
+        relationship: 'deepens',
+        relationshipLabel: "The ultimate prophetic sabr — 950 years",
+        description: "Nuh's 950 years of prophetic mission is the Quran's most extreme example of prophetic sabr (patient endurance). The connection between his patience and eventual divine relief (the ark, the flood, the new beginning) is the paradigm: the one who endures longest in obedience will eventually be relieved by divine mercy. The Quran invokes Nuh's sabr as a model for the Prophet Muhammad in the face of Qurayshi rejection.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: "Do not give up on anyone before the divine verdict comes", arabic: "رَجَاء", arabicTranslit: "rajāʾ", description: "Nuh called his people for 950 years before Allah revealed that no more would believe. No human being knows the divine deadline for any soul. The prophetic model is persistence in da'wah, prayer for guidance, and leaving the verdict to Allah. The only reason to stop calling is divine instruction — and even after the divine verdict, Nuh continued to grieve for those he could not save." },
+        { number: 2, title: "Use all means of invitation before concluding rejection", arabic: "دَعْوَة", arabicTranslit: "daʿwa", description: "Nuh describes three modes of da'wah in Surah Nuh: public and private calling (71:8-9), open proclamation and quiet conversation (71:8-9), and the appeal to divine gifts in creation (71:15-20 — look at the sky, the moon, the earth, the rivers — all signs of the One he called them to worship). The failure of Qawm Nuh was not for lack of varied invitation. It was the hardness of deliberate rejection." },
+      ],
+      stations: [
+        { name: "The prophet of the longest mission", description: "950 years of prophetic work. Every generation born into a world where Nuh was calling. Most of them refused. This is the Quran's most extreme example of prophetic patience confronting the most deeply entrenched refusal. Nuh's perseverance is the standard against which all prophetic endurance is measured." },
+        { name: "The builder of the Ark", description: "When the verdict came, Nuh's mission changed: from da'wah to construction. He built under divine oversight and through divine inspiration. The people who had mocked him for calling them to an invisible God now mocked him for building a boat in a dry place. The ark was faith made visible — and when the waters came, it was the only visible thing that mattered." },
+        { name: "The father whose son chose the mountain", description: "One of the Quran's most poignant moments: Nuh's own son refuses to board the ark, choosing instead to take refuge on a mountain. Nuh calls out to him; the son refuses. The water separates them. Allah's response to Nuh's prayer for his son: 'He is not of your family — indeed, his work was not righteous' (11:46). Family ties do not override the divine judgment. Faith, not blood, defines family in the Quranic sense." },
+      ],
+      questions: [
+        { question: "Why did Allah wait 950 years before sending the flood?", answer: "The Quran does not explain the specific duration except through the principle of divine mercy and patience: Allah gives ample time before final judgment. The 950 years are the fullest possible expression of divine patience — every generation given the opportunity to hear, consider, and choose. The flood came not because Allah was impatient but because every possible pathway to guidance had been exhausted and the people had reached the point of irreversible collective hardening (11:36 — 'none of your people will believe except those who have already believed')." },
+        { question: "Where did the Ark land according to the Quran?", answer: "The Quran says the Ark settled on Al-Judi (11:44) — 'and the ship settled upon Al-Judi.' Al-Judi is traditionally identified with a mountain in southeastern Turkey (near modern Cizre), distinct from the biblical Mount Ararat. The hadith literature and classical Islamic geography consistently locate Al-Judi in this region. The Quran's toponym is specific; the exact mountain's identification remains a subject of both religious tradition and geographical inquiry." },
+      ],
+    },
+    scholarsSaid: [
+      { scholar: "Ibn Kathir", source: "Tafsir on Surah Nuh", text: "Nuh called his people to tawhid and righteousness for 950 years. He called them publicly and privately, during the day and at night, through direct argument and through the signs of creation. And from all of this calling, only a handful believed with him on the ark — the reports say between seventy and eighty souls. This is among the most sobering facts in the Quran about the relationship between prophetic effort and its visible results in this world." },
+    ],
+    hadith: [
+      { text: "On the Day of Resurrection, Nuh will be brought and asked: Did you deliver the message? He will say: Yes, my Lord. Then his nation will be asked: Did he deliver to you? They will say: No warner came to us. Nuh will say: Who will testify for me? He will say: Muhammad and his nation.", source: "Sahih al-Bukhari" },
+    ],
+    acrossTransitions: "The story of Noah and the Flood is among the most universally attested narratives in the religious history of humanity. In the Hebrew Bible (Genesis 6-9), the account is detailed: the rainbow covenant, the dimensions of the ark, the 40 days of rain. In the Mesopotamian tradition (the Epic of Gilgamesh, the Atrahasis Epic), flood narratives are even older than the biblical account, suggesting a common ancient Near Eastern tradition. In Sumerian mythology, Ziusudra; in Akkadian, Utnapishtim — flood survivors who receive divine favor.\n\nThe Quranic Nuh narrative is distinct in its emphasis on prophetic patience (950 years), the personal voice of Nuh's complaint to Allah, the story of his son's rejection, and the theological focus on tawhid as the content of the prophetic message (rather than the dimensions of the ark). The Quran strips the story of much of its legendary elaboration and focuses on the moral and theological core. The Flood, in the Islamic tradition, is not primarily about divine anger but about divine justice after the maximum extension of divine patience.",
+    goDeeper: [
+      { slug: 'nuh', surahName: 'Nuh', note: "The complete first-person account of Nuh's mission — the most personal prophetic narration in the Quran" },
+      { slug: 'hud', surahName: 'Hud', note: "The building of the Ark, the final invitation, the drowning of the son, and the waters subsiding (11:25-49)" },
+    ],
+    relatedTerms: [
+      { slug: 'sabr',    transliteration: 'Sabr',    term: 'صَبْر'  },
+      { slug: 'barzakh', transliteration: 'Barzakh', term: 'بَرْزَخ' },
+    ],
+    hasFullEntry: true,
+  },
+
+  'qawm-lut': {
+    slug: 'qawm-lut',
+    term: "قَوْم لُوط",
+    transliteration: "Qawm Lūṭ",
+    pronunciation: "KAWM LOOT",
+    category: "Nations & Peoples",
+    evocativeLine: "The people whose transgression became the permanent example of civilizational collapse.",
+    summary: "Qawm Lut — the People of Lut (Lot) — are mentioned in the Quran across multiple surahs as the community destroyed for their specific transgression, which the Quran describes as approaching men instead of women 'with desire' (shahwah) — an act it calls unprecedented: 'Do you commit immorality as no one has preceded you in it from among the worlds?' (7:80). The story appears in Al-A'raf, Hud, Al-Hijr, Al-Anbiya, Ash-Shu'ara, Al-Naml, Al-Ankabut, As-Saffat, and Al-Qamar.\n\nThe Quran's narrative centers on the arrival of the divine messengers (angels in human form) at Lut's home. The townspeople demand his guests; Lut's distress is described with agonized vividness: 'He said: These are my guests, so do not shame me. And fear Allah and do not disgrace me.' (15:68-69). The angels reveal their identity and their mission of destruction; Lut and his believing family are commanded to flee before dawn without looking back. His wife — who had sympathized with the townspeople — is destroyed with them.\n\nThe Quran's treatment of Qawm Lut serves two purposes: it establishes the moral gravity of the specific transgression, and it demonstrates the prophetic pattern of warning preceding divine judgment. Lut warned them repeatedly; their response was to threaten expulsion. The divine judgment — inverting the cities (ja'alna aliyaha safilaha — We made its highest part its lowest), raining stones of hardened clay — is among the most complete destructions in the Quran.",
+    root: {
+      letters: 'ل و ط',
+      transliteration: 'l-w-t',
+      meaning: 'Proper name (Lot) — from the Hebrew Lot: covering, veil, or protection',
+      elaboration: "Lut is the Arabic form of the Hebrew Lot, nephew of Ibrahim. The name's meaning (covering or protection) is ironic in the context of his story: Lut could not protect his guests from his people, and they could not protect him from the disaster. The divine messengers who came as guests became his protection — both by warning him and by physically blinding those who tried to enter his door.",
+    },
+    rootForms: [
+      { arabic: 'لُوط', transliteration: 'Lūṭ', type: 'Proper noun', meaning: 'The Prophet Lut (Lot)', approxCount: 27, verified: false },
+    ],
+    occurrenceCount: 27,
+    occurrenceNote: "The name Lut appears approximately 27 times in the Quran. His story appears most extensively in Hud (11:69-83), Al-Hijr (15:51-77), and shorter accounts in Al-A'raf (7:80-84), Ash-Shu'ara (26:160-175), An-Naml (27:54-58), and Al-Ankabut (29:26-35). He is also mentioned as Ibrahim's contemporary — the messengers visited Ibrahim first before going to destroy Qawm Lut.",
+    keyAyahs: [
+      {
+        ref: "Hud 11:77-78",
+        arabic: "وَلَمَّا جَاءَتْ رُسُلُنَا لُوطًا سِيءَ بِهِمْ وَضَاقَ بِهِمْ ذَرْعًا وَقَالَ هَٰذَا يَوْمٌ عَسِيرٌ وَجَاءَهُ قَوْمُهُ يُهْرَعُونَ إِلَيْهِ",
+        translation: "And when Our messengers came to Lut, he was distressed for them and felt unable to protect them. And he said: This is a difficult day. And his people came to him, rushing toward him.",
+        note: "Lut's distress is described in double terms: sa'a bihi (he was made miserable by the situation) and daqa bihi dhara'an (he felt the situation was too narrow — that his capacity to help was exhausted). The phrase daqa dhara'an is an Arabic idiom for being completely unable to cope. He recognizes immediately — 'this is a difficult day' — the crisis his guests' arrival has triggered. And then: 'his people came, rushing' (yuhrawuna ilayhi). The urgency of the crowd converging on his house is the Quran's final image before the crisis peaks.",
+      },
+      {
+        ref: "Al-A'raf 7:80-81",
+        arabic: "وَلُوطًا إِذْ قَالَ لِقَوْمِهِ أَتَأْتُونَ الْفَاحِشَةَ مَا سَبَقَكُم بِهَا مِنْ أَحَدٍ مِّنَ الْعَالَمِينَ إِنَّكُمْ لَتَأْتُونَ الرِّجَالَ شَهْوَةً مِّن دُونِ النِّسَاءِ",
+        translation: "And Lut, when he said to his people: Do you commit immorality as no one has preceded you in it from among the worlds? Indeed, you approach men with desire instead of women.",
+        note: "The Quran's direct description of the transgression of Qawm Lut: approaching men with desire (shahwah) instead of women. The statement 'no one has preceded you in it from among the worlds' is the Quran's characterization of the act as unprecedented — a first in human history that became the defining marker of this community's destruction. The specificity of the description leaves no room for interpretive ambiguity about what is being condemned.",
+      },
+      {
+        ref: "Hud 11:82-83",
+        arabic: "فَلَمَّا جَاءَ أَمْرُنَا جَعَلْنَا عَالِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهَا حِجَارَةً مِّن سِجِّيلٍ مَّنضُودٍ مُّسَوَّمَةً عِندَ رَبِّكَ ۖ وَمَا هِيَ مِنَ الظَّالِمِينَ بِبَعِيدٍ",
+        translation: "And when Our command came, We made its highest part its lowest and rained upon them stones of layered hard clay, marked by your Lord. And it is not far from the wrongdoers.",
+        note: "The destruction: inversion of the city (aliyaha safilaha — its highest made its lowest) and stones of layered baked clay raining down, each stone 'marked' (musawwamah) — bearing divine marks, addressed to specific individuals. The final phrase — 'and it is not far from the wrongdoers' — makes the destruction of Qawm Lut a warning relevant to every subsequent generation: this fate is always close to those who commit the same transgression.",
+      },
+    ],
+    semanticField: [
+      {
+        slug: 'ibrahim',
+        arabic: 'إِبْرَاهِيم',
+        transliteration: 'Ibrahim',
+        relationship: 'parallels',
+        relationshipLabel: "Ibrahim and Lut — prophet and nephew, visitor and destroyed city",
+        description: "Lut is Ibrahim's nephew. The Quran narrates that the divine messengers first visited Ibrahim with news of a son, then informed him of the mission to Qawm Lut. Ibrahim argued for leniency: 'Indeed, in it is Lut.' The angels responded: 'We know well who is in it; we will surely save him and his family.' The connection between the two prophets — one being blessed with a child, the other being saved from a destroyed city — is the Quran's juxtaposition of divine gift and divine judgment in the same narrative.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: "Recognize when transgression becomes civilizational", arabic: "فَسَاد", arabicTranslit: "fasād", description: "The destruction of Qawm Lut is the Quran's most extreme example of what happens when a community's transgression becomes its defining identity — not individual sin but collective, celebrated, institutionalized deviation from the divine order. The lesson is not primarily about the specific act but about the pattern: when a people make the forbidden their culture and suppress all prophetic guidance, they move toward the divine tipping point that Qawm Lut reached." },
+        { number: 2, title: "The fate of Qawm Lut is remembered as a warning to every generation", arabic: "عِبْرَة", arabicTranslit: "ʿibra", description: "The final phrase of the destruction ayah — 'and it is not far from the wrongdoers' — is the Quran's explicit statement that the fate of Qawm Lut functions as 'ibra (lesson, warning) for every subsequent community. The word 'far' is both temporal (it is not in a distant age) and spatial (it is not in a distant land). The warning is immediate and universal." },
+      ],
+      stations: [
+        { name: "The prophet who could not protect his guests", description: "Lut's anguish at not being able to protect his guests is among the most human moments in the Quran. His distress is acknowledged and recorded — and then relieved by the revelation that his guests are angels who need no protection. The story turns: the protector needed protection, and it was provided from a source he did not expect." },
+        { name: "The wife who did not flee", description: "Lut's wife is told to flee with the family but is described as one of 'those who stayed behind' — she was among those destroyed. The Quran (66:10) names her alongside Nuh's wife as examples of women who betrayed their prophet husbands. Family connection to a prophet does not protect those who align themselves against divine guidance." },
+        { name: "The stones marked for specific individuals", description: "Each stone that fell on Qawm Lut was musawwamah — marked, addressed. Divine justice is not collective and indiscriminate; it is specific and particular. The destruction was not accidental collateral damage; it was addressed, stone by stone, to those upon whom judgment had been decreed." },
+      ],
+      questions: [
+        { question: "Was the wife of Lut a disbeliever?", answer: "Yes — the Quran (66:10) describes Nuh's wife and Lut's wife as examples of those 'who betrayed their husbands,' and states they were told 'enter the Fire with those who enter.' In Lut's case, the angels instructed that she not be warned and would be 'among those who are struck.' Classical scholars understand her transgression as sympathy with, or complicity in, the acts of Qawm Lut — she was part of the community of transgression rather than the community of faith, despite living in the household of a prophet." },
+        { question: "Where were the cities of Qawm Lut?", answer: "Classical Islamic geography and biblical scholarship locate Sodom and Gomorrah (the biblical counterparts to the Quranic cities) in the region of the Dead Sea, in the Jordan Valley. Some geological evidence suggests ancient catastrophic events in this region that may correspond to the narrative accounts. The Quran's description of the city being 'inverted' (aliyaha safilaha) and stones raining from the sky has been compared to various geological and volcanic events by some researchers, though the Quranic account presents it as direct divine intervention regardless of secondary mechanism." },
+      ],
+    },
+    scholarsSaid: [
+      { scholar: "Al-Qurtubi", source: "Al-Jami li-Ahkam al-Quran", text: "The story of Qawm Lut contains the most explicit Quranic statement about the nature of their transgression: approaching men with desire instead of women, an act the Quran says was unprecedented among the worlds. The scholars of fiqh have unanimously held this act to be among the most severely condemned in Islamic law, following the Quran's description and the prophetic tradition." },
+    ],
+    hadith: [
+      { text: "Whoever you find committing the act of the people of Lut — kill the one who does it and the one to whom it is done.", source: "Sunan Abu Dawud, Al-Tirmidhi — with scholarly discussion of its chain" },
+    ],
+    acrossTransitions: "Sodom and Gomorrah — the cities identified with Qawm Lut in Jewish and Christian tradition — are among the most referenced stories of divine judgment in Western religious history. The Hebrew Bible's account (Genesis 18-19) includes Abraham's intercession for the cities, the arrival of the angels, the demand of the townspeople, Lot's offer of his daughters (an element absent from the Quran), the escape, and the pillar of salt that Lot's wife becomes.\n\nThe Quranic narrative is notably more restrained than the biblical version. The Islamic tradition has consistently interpreted the primary sin of Qawm Lut as the sexual transgression described directly in the Quran, though some contemporary scholars have argued that inhospitality and general lawlessness were also component elements. The Quran's description — 'approaching men with desire instead of women' — has been understood throughout Islamic legal history as establishing the prohibition of same-sex relations as foundational to Islamic ethics.",
+    goDeeper: [
+      { slug: 'hud', surahName: 'Hud', note: "The most extended narrative of the messengers' arrival, Lut's distress, and the destruction (11:69-83)" },
+      { slug: 'al-hijr', surahName: 'Al-Hijr', note: "The arrival of the divine messengers at Ibrahim's home and their mission to Qawm Lut (15:51-77)" },
+    ],
+    relatedTerms: [
+      { slug: 'ibrahim',  transliteration: 'Ibrahim', term: 'إِبْرَاهِيم' },
+      { slug: 'qawm-nuh', transliteration: "Qawm Nuh", term: "قَوْم نُوح"  },
     ],
     hasFullEntry: true,
   },
