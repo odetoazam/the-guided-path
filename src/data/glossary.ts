@@ -1896,6 +1896,7 @@ What is uniquely Quranic is the precision: mithqāl dharra — the weight of an 
       { slug: 'al-ghayb', transliteration: 'Al-Ghayb', term: 'ٱلْغَيْب' },
       { slug: 'barzakh',  transliteration: 'Barzakh',  term: 'بَرْزَخ'  },
       { slug: 'jannah',   transliteration: 'Jannah',   term: 'جَنَّة'   },
+      { slug: 'qiyamah', transliteration: 'Al-Qiyāmah', term: 'قِيَامَة' }
     ],
 
     goDeeper: [
@@ -4570,6 +4571,7 @@ In Buddhist practice, sati (mindfulness) is an awareness of what one is doing, s
       { slug: 'muhasaba', transliteration: 'Muhasaba', term: 'مُحَاسَبَة' },
       { slug: 'taqwa',    transliteration: 'Taqwa',    term: 'تَقْوَى'    },
       { slug: 'hayaa',    transliteration: "Hayaa'",   term: 'حَيَاء'     },
+      { slug: 'inabah', transliteration: 'Inabah', term: 'إِنَابَة' }
     ],
     goDeeper: [
       { slug: 'qaf',         surahName: 'Qaf',         note: "Surah Qaf is the surah of comprehensive witness: 50:16 ('closer to him than his jugular vein'), 50:17-18 (the two recording angels), 50:18 ('not a word but a watcher is ready'). Read it slowly and feel watched." },
@@ -4660,6 +4662,7 @@ The Jewish practice of cheshbon ha-nefesh (accounting of the soul) is a formal m
       { slug: 'tawbah',   transliteration: 'Tawbah',   term: 'تَوْبَة'    },
       { slug: 'ikhlas',   transliteration: 'Ikhlas',   term: 'إِخْلَاص'   },
       { slug: 'taqwa',    transliteration: 'Taqwa',    term: 'تَقْوَى'    },
+      { slug: 'inabah', transliteration: 'Inabah', term: 'إِنَابَة' }
     ],
     goDeeper: [
       { slug: 'al-hashr',    surahName: 'Al-Hashr',    note: "Contains 59:18 — the command to 'look to what it has sent ahead for tomorrow.' This is the Quranic muhasaba verse: active, forward-looking, specific. The surah's context — reflecting on the fate of those expelled — makes the urgency concrete." },
@@ -4749,6 +4752,7 @@ What is distinctive in the Quranic usage of inabah is the relational specificity
       { slug: 'tawakkul', transliteration: 'Tawakkul', term: 'تَوَكُّل' },
       { slug: 'mahabbah', transliteration: 'Mahabbah', term: 'مَحَبَّة' },
       { slug: 'khawf',    transliteration: 'Khawf',    term: 'خَوْف'    },
+      { slug: 'muhasaba', transliteration: 'Muhasaba', term: 'مُحَاسَبَة' }
     ],
     goDeeper: [
       { slug: 'al-zumar', surahName: 'Al-Zumar', note: "Contains 39:53-54 — 'Do not despair of the mercy of Allah... And return to your Lord.' The context makes it the Quran's most powerful inabah moment: mercy is infinite, but the door must be entered now." },
@@ -5475,6 +5479,7 @@ What the Quran adds to the general prohibition of idolatry is the concept of the
       { slug: 'ikhlas', transliteration: 'Ikhlas', term: 'إِخْلَاص' },
       { slug: 'kufr',   transliteration: 'Kufr',   term: 'كُفْر'    },
       { slug: 'nifaq',  transliteration: 'Nifaq',  term: 'نِفَاق'   },
+      { slug: 'iman', transliteration: 'Iman', term: 'إِيمَان' }
     ],
     goDeeper: [
       { slug: 'luqman',   surahName: 'Luqman',   note: "Contains 31:13 — the greatest injustice is shirk. Luqman's wisdom begins here — before all other moral instruction, the foundation must be right. The surah structures parental guidance as it should be structured: tawhid first, everything else from that foundation." },
@@ -5841,6 +5846,7 @@ In Catholic social teaching, the concept of structural sin — the way unjust so
       { slug: 'haqq',  transliteration: 'Haqq',   term: 'حَقّ'     },
       { slug: 'sabr',  transliteration: 'Sabr',   term: 'صَبْر'    },
       { slug: 'tawbah', transliteration: 'Tawbah', term: 'تَوْبَة'  },
+      { slug: 'birr', transliteration: 'Birr', term: 'بِرّ' }
     ],
     goDeeper: [
       { slug: 'ibrahim', surahName: 'Ibrahim', note: "Contains 14:42 — 'do not think Allah is unaware of what the wrongdoers are doing.' The surah contextualizes this with the story of past nations destroyed for zulm — a historical argument that zulm never truly goes unanswered." },
@@ -6763,7 +6769,8 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
     relatedTerms: [
       { slug: 'akhira', transliteration: 'Akhira', term: 'آخِرَة' },
       { slug: 'zuhd',   transliteration: 'Zuhd',   term: 'زُهْد'  },
-      { slug: 'hayah', transliteration: 'Ḥayāh', term: 'حَيَاة' }
+      { slug: 'hayah', transliteration: 'Ḥayāh', term: 'حَيَاة' },
+      { slug: 'mawt', transliteration: 'Mawt', term: 'مَوْت' }
     ],
     hasFullEntry: true,
     goDeeper: [
@@ -6860,6 +6867,8 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
     relatedTerms: [
       { slug: 'dunya', transliteration: 'Dunya', term: 'دُنْيَا' },
       { slug: 'ajal',  transliteration: 'Ajal',  term: 'أَجَل'  },
+      { slug: 'hayah', transliteration: 'Ḥayāh', term: 'حَيَاة' },
+      { slug: 'mawt', transliteration: 'Mawt', term: 'مَوْت' }
     ],
     hasFullEntry: true,
     goDeeper: [
@@ -7151,6 +7160,8 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
     relatedTerms: [
       { slug: 'malaika', transliteration: 'Malaika', term: 'مَلَائِكَة' },
       { slug: 'shaytan', transliteration: 'Shaytan', term: 'شَيْطَان' },
+      { slug: 'al-ghayb', transliteration: 'Al-Ghayb', term: 'ٱلْغَيْب' },
+      { slug: 'iblis', transliteration: 'Iblis', term: 'إِبْلِيس' }
     ],
     hasFullEntry: true,
   },
@@ -7248,6 +7259,7 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
     relatedTerms: [
       { slug: 'sabr',     transliteration: 'Sabr',     term: 'صَبْر'    },
       { slug: 'tawakkul', transliteration: 'Tawakkul', term: 'تَوَكُّل' },
+      { slug: 'ayyub', transliteration: 'Ayyub', term: 'أَيُّوب' }
     ],
     hasFullEntry: true,
   },
@@ -7531,6 +7543,7 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
     relatedTerms: [
       { slug: 'sabr',  transliteration: 'Sabr',  term: 'صَبْر'  },
       { slug: 'shukr', transliteration: 'Shukr', term: 'شُكْر' },
+      { slug: 'qawm-nuh', transliteration: 'Qawm Nūḥ', term: 'قَوْم نُوح' }
     ],
     hasFullEntry: true,
   },
@@ -7700,6 +7713,7 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
     relatedTerms: [
       { slug: 'sabr',     transliteration: 'Sabr',     term: 'صَبْر'    },
       { slug: 'tawakkul', transliteration: 'Tawakkul', term: 'تَوَكُّل' },
+      { slug: 'yusuf', transliteration: 'Yusuf', term: 'يُوسُف' }
     ],
     hasFullEntry: true,
   },
@@ -7792,6 +7806,7 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
     relatedTerms: [
       { slug: 'musa',  transliteration: 'Musa',  term: 'مُوسَىٰ' },
       { slug: 'zulm',  transliteration: 'Zulm',  term: 'ظُلْم'  },
+      { slug: 'bani-isra-il', transliteration: "Banū Isrā'īl", term: 'بَنُو إِسْرَائِيل' }
     ],
     hasFullEntry: true,
   },
@@ -7885,6 +7900,8 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
     relatedTerms: [
       { slug: 'ikhlas', transliteration: 'Ikhlas', term: 'إِخْلَاص' },
       { slug: 'taqwa',  transliteration: 'Taqwa',  term: 'تَقْوَى'  },
+      { slug: 'shaytan', transliteration: 'Shaytan', term: 'شَيْطَان' },
+      { slug: 'malaika', transliteration: 'Malaika', term: 'مَلَائِكَة' }
     ],
     hasFullEntry: true,
   },
@@ -8524,6 +8541,7 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
     relatedTerms: [
       { slug: 'hikmah',   transliteration: 'Hikmah',   term: 'حِكْمَة'  },
       { slug: 'sulayman', transliteration: 'Sulayman', term: 'سُلَيْمَان' },
+      { slug: 'dawud', transliteration: 'Dawud', term: 'دَاوُود' }
     ],
     hasFullEntry: true,
   },
@@ -8606,7 +8624,8 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
     relatedTerms: [
       { slug: 'sulayman', transliteration: 'Sulayman', term: 'سُلَيْمَان' },
       { slug: 'tawbah',   transliteration: 'Tawbah',   term: 'تَوْبَة'   },
-      { slug: 'bani-isra-il', transliteration: "Banū Isrā'īl", term: 'بَنُو إِسْرَائِيل' }
+      { slug: 'bani-isra-il', transliteration: "Banū Isrā'īl", term: 'بَنُو إِسْرَائِيل' },
+      { slug: 'bilqis', transliteration: 'Bilqis', term: 'بِلْقِيس' }
     ],
     hasFullEntry: true,
   },
@@ -9109,6 +9128,8 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
       { slug: 'hisab',    transliteration: 'Al-Hisab',    term: 'حِسَاب'  },
       { slug: 'qiyamah',  transliteration: 'Al-Qiyamah',  term: 'قِيَامَة' },
       { slug: 'jahannam', transliteration: 'Jahannam',    term: 'جَهَنَّم' },
+      { slug: 'jannah', transliteration: 'Jannah', term: 'جَنَّة' },
+      { slug: 'barzakh', transliteration: 'Barzakh', term: 'بَرْزَخ' }
     ],
     hasFullEntry: true,
   },
@@ -9292,6 +9313,8 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
       { slug: 'qiyamah', transliteration: 'Al-Qiyamah', term: 'قِيَامَة' },
       { slug: 'sirat',   transliteration: 'Al-Sirat',   term: 'صِرَاط'  },
       { slug: 'tawbah',  transliteration: 'Tawbah',     term: 'تَوْبَة' },
+      { slug: 'jannah', transliteration: 'Jannah', term: 'جَنَّة' },
+      { slug: 'barzakh', transliteration: 'Barzakh', term: 'بَرْزَخ' }
     ],
     hasFullEntry: true,
   },
@@ -9900,7 +9923,8 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
     relatedTerms: [
       { slug: 'qiraat',     transliteration: "Qira'at",      term: 'قِرَاءَات'         },
       { slug: 'makki-madani', transliteration: 'Makki / Madani', term: 'مَكِّي/مَدَنِي' },
-      { slug: 'maqasid', transliteration: 'Maqāṣid', term: 'مَقَاصِد' }
+      { slug: 'maqasid', transliteration: 'Maqāṣid', term: 'مَقَاصِد' },
+      { slug: 'asbab-al-nuzul', transliteration: 'Asbab al-Nuzul', term: 'أَسْبَاب ٱلنُّزُول' }
     ],
     hasFullEntry: true,
   },
@@ -9978,6 +10002,7 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
     relatedTerms: [
       { slug: 'balaghah',    transliteration: 'Balaghah',    term: 'بَلَاغَة'   },
       { slug: 'makki-madani', transliteration: 'Makki / Madani', term: 'مَكِّي/مَدَنِي' },
+      { slug: 'nazm', transliteration: 'Nazm', term: 'نَظْم' }
     ],
     hasFullEntry: true,
   },
@@ -10052,6 +10077,7 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
     relatedTerms: [
       { slug: 'balaghah', transliteration: 'Balaghah', term: 'بَلَاغَة' },
       { slug: 'maqasid',  transliteration: 'Maqasid',  term: 'مَقَاصِد' },
+      { slug: 'asbab-al-nuzul', transliteration: 'Asbab al-Nuzul', term: 'أَسْبَاب ٱلنُّزُول' }
     ],
     hasFullEntry: true,
   },
@@ -10129,6 +10155,7 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
     relatedTerms: [
       { slug: 'makki-madani', transliteration: 'Makki / Madani', term: 'مَكِّي/مَدَنِي' },
       { slug: 'balaghah',     transliteration: 'Balaghah',       term: 'بَلَاغَة'    },
+      { slug: 'nazm', transliteration: 'Nazm', term: 'نَظْم' }
     ],
     hasFullEntry: true,
   },
@@ -10206,7 +10233,8 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
     relatedTerms: [
       { slug: 'qiyamah', transliteration: 'Al-Qiyamah', term: 'قِيَامَة' },
       { slug: 'mawt',    transliteration: 'Mawt',       term: 'مَوْت'    },
-      { slug: 'layl', transliteration: 'Layl', term: 'لَيْل' }
+      { slug: 'layl', transliteration: 'Layl', term: 'لَيْل' },
+      { slug: 'qadar', transliteration: 'Qadar', term: 'قَدَر' }
     ],
     hasFullEntry: true,
   },
@@ -10290,6 +10318,7 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
     relatedTerms: [
       { slug: 'yawm',  transliteration: 'Yawm',  term: 'يَوْم'  },
       { slug: 'sabr',  transliteration: 'Sabr',  term: 'صَبْر'  },
+      { slug: 'qadar', transliteration: 'Qadar', term: 'قَدَر' }
     ],
     hasFullEntry: true,
   },
@@ -10470,6 +10499,7 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
       { slug: 'mawt',    transliteration: 'Mawt',    term: 'مَوْت'    },
       { slug: 'barzakh', transliteration: 'Barzakh', term: 'بَرْزَخ' },
       { slug: 'dunya',   transliteration: 'Dunya',   term: 'دُنْيَا'  },
+      { slug: 'akhira', transliteration: 'Akhira', term: 'آخِرَة' }
     ],
     hasFullEntry: true,
   },
@@ -10563,7 +10593,8 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
       { slug: 'shura',  transliteration: 'Shura',  term: 'شُورَى'  },
       { slug: 'tawbah', transliteration: 'Tawbah', term: 'تَوْبَة' },
       { slug: 'taqwa',  transliteration: 'Taqwa',  term: 'تَقْوَى' },
-      { slug: 'madyan', transliteration: 'Madyan', term: 'مَدْيَن' }
+      { slug: 'madyan', transliteration: 'Madyan', term: 'مَدْيَن' },
+      { slug: 'birr', transliteration: 'Birr', term: 'بِرّ' }
     ],
     hasFullEntry: true,
   },
