@@ -241,11 +241,11 @@ export const GLOSSARY_TERMS: GlossaryMeta[] = [
   { slug: 'zulm',      term: 'ظُلْم',     transliteration: 'Zulm',     category: 'Theology & Ethics', evocativeLine: 'Wrongdoing and oppression — the darkness the Quran cannot name without condemning.',        hasFullEntry: true },
   { slug: 'birr',      term: 'بِرّ',      transliteration: 'Birr',     category: 'Theology & Ethics', evocativeLine: 'Comprehensive righteousness — the full expression of goodness in every direction.',         hasFullEntry: true },
   { slug: 'ummah',     term: 'أُمَّة',    transliteration: 'Ummah',    category: 'Theology & Ethics', evocativeLine: 'Community — the body of believers across time and space, responsible for each other.',      hasFullEntry: true },
-  { slug: 'mithaq',    term: 'مِيثَاق',   transliteration: 'Mithaq',   category: 'Theology & Ethics', evocativeLine: 'The primordial covenant — the agreement made before birth that shapes all of human life.',  hasFullEntry: false },
+  { slug: 'mithaq',    term: 'مِيثَاق',   transliteration: 'Mithaq',   category: 'Theology & Ethics', evocativeLine: 'The primordial covenant — the agreement made before birth that shapes all of human life.',  hasFullEntry: true },
   { slug: 'dawah',     term: 'دَعْوَة',   transliteration: "Da'wah",   category: 'Theology & Ethics', evocativeLine: 'The call — inviting to Allah with wisdom and beautiful speech.',                           hasFullEntry: true },
-  { slug: 'jihad',     term: 'جِهَاد',    transliteration: 'Jihad',    category: 'Theology & Ethics', evocativeLine: 'Striving — the comprehensive struggle in every domain, of which warfare is one dimension.', hasFullEntry: false },
-  { slug: 'ukhuwwah',  term: 'أُخُوَّة',  transliteration: 'Ukhuwwah', category: 'Theology & Ethics', evocativeLine: 'Brotherhood and sisterhood — the bond the Quran places above tribe and blood.',            hasFullEntry: false },
-  { slug: 'sadaqah',   term: 'صَدَقَة',   transliteration: 'Sadaqah',  category: 'Theology & Ethics', evocativeLine: 'Voluntary giving — the charity that purifies the giver and multiplies for both.',          hasFullEntry: false },
+  { slug: 'jihad',     term: 'جِهَاد',    transliteration: 'Jihad',    category: 'Theology & Ethics', evocativeLine: 'Striving — the comprehensive struggle in every domain, of which warfare is one dimension.', hasFullEntry: true },
+  { slug: 'ukhuwwah',  term: 'أُخُوَّة',  transliteration: 'Ukhuwwah', category: 'Theology & Ethics', evocativeLine: 'Brotherhood and sisterhood — the bond the Quran places above tribe and blood.',            hasFullEntry: true },
+  { slug: 'sadaqah',   term: 'صَدَقَة',   transliteration: 'Sadaqah',  category: 'Theology & Ethics', evocativeLine: 'Voluntary giving — the charity that purifies the giver and multiplies for both.',          hasFullEntry: true },
   { slug: 'fasad',     term: 'فَسَاد',    transliteration: 'Fasad',    category: 'Theology & Ethics', evocativeLine: 'Corruption and disorder — what happens when humanity forgets its covenant.',               hasFullEntry: false },
   { slug: 'shura',     term: 'شُورَى',    transliteration: 'Shura',    category: 'Theology & Ethics', evocativeLine: 'Consultation — the Quranic principle that decisions must be made together.',               hasFullEntry: false },
 ]
@@ -6085,6 +6085,364 @@ In Buddhist thought, the concept of "skillful means" (upaya) — adapting the te
     goDeeper: [
       { slug: 'al-nahl',    surahName: 'Al-Nahl',     note: "Contains 16:125 — the complete methodology of da'wah. The surah is itself an exhibition of da'wah: every creation described is an argument for the Creator." },
       { slug: 'fussilat',   surahName: 'Fussilat',    note: "Contains 41:33 — 'who is better in speech than one who calls to Allah.' The surah's name means 'explained in detail' — da'wah requires that things be explained clearly and beautifully. The surah itself demonstrates what it commands." },
+    ],
+  },
+
+  ukhuwwah: {
+    slug: 'ukhuwwah',
+    term: 'أُخُوَّة',
+    transliteration: 'Ukhuwwah',
+    pronunciation: 'u-KHUW-wah',
+    category: 'Theology & Ethics' as GlossaryCategory,
+    evocativeLine: 'Brotherhood and sisterhood — the bond the Quran places above tribe and blood.',
+    hasFullEntry: true,
+    summary: `Ukhuwwah is the brotherhood that Islam creates between believers — a bond the Quran describes as the transformation of enemies into family: "He brought your hearts together, so that by His grace you became brothers" (3:103). This is not a metaphor or an aspiration; it is described as a fait accompli — the faith itself, when received genuinely, dissolves the barriers of tribe, ethnicity, language, and class that divide human beings and replaces them with a new family.
+
+The historical context makes this extraordinary: the people of Madinah (the Ansar) opened their homes, shared their wealth, and treated the immigrant believers from Makkah (the Muhajirun) as brothers — to the point that the Prophet ﷺ formally paired them as mutual heirs. A poor Bedouin from one tribe and a wealthy merchant from another became brothers in ways that transcended their categories. The bond was real, material, and binding.
+
+The Prophet ﷺ said: "The Muslim is the brother of the Muslim — he does not wrong him, does not abandon him, and does not hand him over." This triad describes the minimum of ukhuwwah: non-harm, non-abandonment, and non-betrayal. From there it builds: feeding the hungry, covering the fault, interceding, caring for the sick, attending the funeral. The full expression of ukhuwwah is not sentiment but active solidarity.`,
+    root: {
+      letters: 'أ–خ–و',
+      transliteration: 'ʾ–kh–w',
+      meaning: 'Brother, sibling; close companion',
+      elaboration: "The root ʾ-kh-w gives akh (brother), ukht (sister), ukhuwwah (brotherhood), and ikhwan (brethren). The same root underlies the Ikhwan al-Muslimun (Muslim Brotherhood) as a political movement, but the Quranic concept predates and transcends any particular organization. The depth of akh in Arabic: a brother is one you are bound to without choosing — and Islam takes this involuntary bond and makes it the template for chosen solidarity.",
+    },
+    occurrenceCount: 96,
+    occurrenceNote: "The root ʾ-kh-w appears approximately 96 times in the Quran in various forms — as akh (brother), ikhwan (brethren), and in the declaration 'the believers are nothing but brothers' (49:10). The frequency reveals the centrality of this bond to the Quranic social vision.",
+    keyAyahs: [
+      {
+        ref: '49:10',
+        arabic: 'إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ فَأَصْلِحُوا بَيْنَ أَخَوَيْكُمْ',
+        translation: 'The believers are indeed brothers, so make peace between your brothers.',
+        note: "The inna-ma construction is exclusive: believers are nothing but brothers. The implication is that if there is conflict between believers, the proper response is reconciliation, not taking sides. The brotherhood obligates the peacemaking.",
+      },
+      {
+        ref: '3:103',
+        arabic: 'وَاذْكُرُوا نِعْمَتَ اللَّهِ عَلَيْكُمْ إِذْ كُنتُمْ أَعْدَاءً فَأَلَّفَ بَيْنَ قُلُوبِكُمْ فَأَصْبَحْتُم بِنِعْمَتِهِ إِخْوَانًا',
+        translation: 'And remember the favor of Allah upon you — when you were enemies and He brought your hearts together, so that by His grace you became brothers.',
+        note: "The historical context is the tribes of Aws and Khazraj, who had been at war for generations. Faith dissolved the enmity and created brotherhood. This is the Quranic theology of ukhuwwah: it is Allah's gift, not human achievement.",
+      },
+      {
+        ref: '59:9',
+        arabic: 'وَيُؤْثِرُونَ عَلَىٰ أَنفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌ',
+        translation: 'And they prefer others over themselves, even though they themselves are in need.',
+        note: "The portrait of the Ansar's ukhuwwah toward the Muhajirun. Ithar — preferring others — is the highest expression of ukhuwwah. Not mere equality but the prioritization of the brother's need over one's own.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: 'Shared iman as foundation', arabic: 'الإيمان المشترك أساساً', arabicTranslit: 'al-īmān al-mushtarak asāsan', description: "Ukhuwwah is constituted by iman — the bond is created by the shared orientation toward Allah, not by nationality, culture, or preference. This is both its strength (it transcends divisions) and its limit (it is a bond of faith)." },
+        { number: 2, title: "Active fulfillment of the brother's rights", arabic: "إيفاء حقوق الأخ", arabicTranslit: "īfāʾ ḥuqūq al-akh", description: "The Prophet ﷺ enumerated specific rights of brotherhood: returning greetings, attending illness, accepting invitations, following the funeral, responding to the sneeze, giving sincere advice. Ukhuwwah is measured by whether these are actually given." },
+        { number: 3, title: 'Covering faults, not exposing them', arabic: 'الستر لا الفضح', arabicTranslit: 'al-satr lā al-faḍḥ', description: "The brother protects the brother's reputation. 'Whoever covers a Muslim's fault, Allah will cover his fault on the Day of Judgment.' This is the interior ethic of ukhuwwah: you are not looking for your brother's failures." },
+      ],
+      stations: [
+        { name: 'Ukhuwwah in non-harm', description: "The minimum: not wronging, not abandoning, not betraying. This is the floor of brotherhood — the zero point. Below this, there is no ukhuwwah." },
+        { name: 'Ukhuwwah in giving', description: "Giving what is needed — time, resources, support, advice. Not waiting to be asked but noticing and responding." },
+        { name: "Ukhuwwah in ithar", description: "The highest station: preferring the brother over oneself. The Ansar preferred their guests even in poverty. This is ukhuwwah at its most demanding and its most beautiful." },
+      ],
+      questions: [
+        { question: "Do I experience the believers as my brothers and sisters, or primarily as people who share my religion?", answer: "The difference is felt. Brotherhood is a felt bond of care and solidarity. If the suffering of the ummah elsewhere feels distant and abstract, the ukhuwwah has not taken root." },
+        { question: "What are the specific rights of brotherhood I am fulfilling toward those around me? Which am I neglecting?", answer: "The Prophet ﷺ made the rights specific: greetings, visiting the sick, following the funeral, sincere advice. The audit is practical." },
+        { question: "When I become aware of a brother's or sister's fault, is my first impulse to cover it or to expose it?", answer: "The instinct reveals the state of ukhuwwah. The one who loves their brother covers; the one who merely tolerates exposes." },
+      ],
+    },
+    semanticField: [
+      { slug: 'ummah',  arabic: 'أُمَّة',  transliteration: 'Ummah',  relationship: 'deepens',   relationshipLabel: 'Ukhuwwah within the ummah', description: "The ummah is the community; ukhuwwah is the quality of relationship within it. The ummah can exist without real ukhuwwah — as a formal category rather than a felt bond. Ukhuwwah makes the ummah real." },
+      { slug: 'rahmah', arabic: 'رَحْمَة', transliteration: 'Rahmah', relationship: 'deepens',   relationshipLabel: 'Mercy as the spirit of brotherhood', description: "Rahmah is what animates ukhuwwah — the genuine care for the other's well-being. Without rahmah, ukhuwwah becomes mere formal obligation. With rahmah, it becomes the bond described in 3:103." },
+      { slug: 'adl',    arabic: 'عَدْل',   transliteration: "'Adl",   relationship: 'deepens',   relationshipLabel: 'Justice within the brotherhood', description: "Ukhuwwah requires 'adl — even to your brothers, you must be just. The Prophet ﷺ said: 'Support your brother whether he is the oppressor or the oppressed — if the oppressor, restrain him.' Justice within brotherhood is its most demanding dimension." },
+      { slug: 'ihsan',  arabic: 'إِحْسَان', transliteration: 'Ihsan', relationship: 'deepens',   relationshipLabel: "Excellence beyond obligation", description: "Ithar (preferring others) is ukhuwwah at the level of ihsan — exceeding the obligations of brotherhood toward generosity and selflessness. The Ansar's example is the Quran's portrait of ihsan within community." },
+    ],
+    scholarsSaid: [
+      { scholar: 'Al-Ghazali', text: "The rights of brotherhood are: to assist the brother with your wealth and self; to support him with your tongue; to pardon his shortcomings; to pray for him in his presence and absence; and to love for him what you love for yourself.", source: "Ihya' Ulum al-Din" },
+      { scholar: 'Ibn al-Qayyim', text: "There is no bond in existence stronger than the bond of iman — it is stronger than blood, stronger than marriage, stronger than tribe. For those bonds are severed by death or disagreement; but the bond of iman continues into the hereafter.", source: "Al-Fawa'id" },
+    ],
+    hadith: [
+      { ref: 'Bukhari & Muslim', translation: "None of you truly believes until he loves for his brother what he loves for himself.", note: "This hadith defines the minimum of genuine iman through ukhuwwah. The love for the brother that the Prophet ﷺ describes is not general goodwill but the specific desire for the other to have what you want for yourself." },
+    ],
+    acrossTransitions: `Brotherhood as a spiritual bond that transcends blood is found across traditions. Christian agape — the love of believers for each other as commanded by Jesus (John 13:35: 'By this all people will know that you are my disciples, if you have love for one another') — is the closest parallel. Early Christian communities shared goods (Acts 2:44-45) in a way structurally similar to the Ansar-Muhajirun brotherhood.
+
+In Buddhist sangha, the community of practitioners is one of the Three Jewels (Buddha, Dharma, Sangha). The sangha is not merely an organization but a spiritual support community — monastics and laypeople bound by shared practice and mutual support.
+
+What is distinctive in Islamic ukhuwwah is its explicit universality across ethnic and national lines, and its historical grounding: the formal brotherhood between Ansar and Muhajirun was a political and economic reality, not merely a spiritual metaphor.`,
+    relatedTerms: [
+      { slug: 'ummah',  transliteration: 'Ummah',  term: 'أُمَّة'   },
+      { slug: 'rahmah', transliteration: 'Rahmah', term: 'رَحْمَة'  },
+      { slug: 'adl',    transliteration: "'Adl",   term: 'عَدْل'    },
+      { slug: 'ihsan',  transliteration: 'Ihsan',  term: 'إِحْسَان' },
+    ],
+    goDeeper: [
+      { slug: 'al-hujurat', surahName: 'Al-Hujurat', note: "Contains 49:10-12 — the constitution of brotherhood within the ummah: 'the believers are nothing but brothers' followed by the prohibitions that violate brotherhood (mockery, name-calling, suspicion, backbiting). The surah builds the bond then guards it." },
+      { slug: 'al-hashr',   surahName: 'Al-Hashr',   note: "Contains 59:9 — the ithar of the Ansar, described as those who are free from miserliness in their own souls. The surah provides the greatest portrait of active ukhuwwah in the Quran." },
+    ],
+  },
+
+  sadaqah: {
+    slug: 'sadaqah',
+    term: 'صَدَقَة',
+    transliteration: 'Sadaqah',
+    pronunciation: 'SA-da-qah',
+    category: 'Theology & Ethics' as GlossaryCategory,
+    evocativeLine: 'Voluntary giving — the charity that purifies the giver and multiplies for both.',
+    hasFullEntry: true,
+    summary: `Sadaqah is voluntary giving — distinct from zakat (the obligatory annual almsgiving) in that it has no fixed amount, no required timing, and no formal procedure. You give what you choose, when you choose, to whom you choose. This freedom is itself the point: sadaqah reveals the real state of the heart. Zakat reveals your compliance; sadaqah reveals your love.
+
+The root of sadaqah is sidq (truth, sincerity). The connection is deliberate: the scholars explained that giving sadaqah is an act of truthfulness — the giver acknowledges that their wealth is a trust from Allah, that others have a right in it, and that the akhira is real. The wealthy person who gives nothing has told a lie — they have claimed the full ownership of what is a trust, and they have acted as if this life were permanent.
+
+The Prophet ﷺ described sadaqah as protection, as purification, as investment: "Sadaqah extinguishes sin as water extinguishes fire." And in the famous hadith of Allah's shadow on a day of no shade — one of the seven protected groups is the one who gave sadaqah so secretly that his right hand did not know what his left hand gave. This is the spiritual aspiration: giving so natural, so unperformed, that it has become part of the person's character rather than an act they perform.`,
+    root: {
+      letters: 'ص–د–ق',
+      transliteration: 'ṣ–d–q',
+      meaning: 'Truth, sincerity, correspondence between inner and outer',
+      elaboration: "The root ṣ-d-q gives sidq (truth/sincerity), sadiq (truthful person), sadaqa (the verb: to tell the truth, to give sadaqah), and sadaqah (charitable giving). The connection: sadaqah is the truthful acknowledgment that wealth comes from Allah and that others have a share in it. The sadiq who gives sadaqah is being truthful about the nature of wealth. The miser who withholds is, in a sense, living a lie about ownership.",
+    },
+    occurrenceCount: 73,
+    occurrenceNote: "The root ṣ-d-q in the sadaqah sense appears approximately 73 times in the Quran — as the command to give, as descriptions of those who give, and in the famous passages on spending in the way of Allah. The word is used both for obligatory alms (zakat) and voluntary charity, depending on context.",
+    keyAyahs: [
+      {
+        ref: '2:261',
+        arabic: 'مَّثَلُ الَّذِينَ يُنفِقُونَ أَمْوَالَهُمْ فِي سَبِيلِ اللَّهِ كَمَثَلِ حَبَّةٍ أَنبَتَتْ سَبْعَ سَنَابِلَ فِي كُلِّ سُنبُلَةٍ مِّائَةُ حَبَّةٍ',
+        translation: 'The likeness of those who spend their wealth in the way of Allah is like a grain which grows seven spikes; in each spike there are a hundred grains.',
+        note: "The sevenfold multiplication — and Allah promises even more than that. The agricultural image is precise: a seed buried (seemingly lost) returns seven hundredfold. Sadaqah given (seemingly lost) returns seven hundredfold. The math of sadaqah is divine arithmetic.",
+      },
+      {
+        ref: '2:271',
+        arabic: 'وَإِن تُخْفُوهَا وَتُؤْتُوهَا الْفُقَرَاءَ فَهُوَ خَيْرٌ لَّكُمْ',
+        translation: 'And if you conceal it and give it to the poor, that is better for you.',
+        note: "The preference for secret sadaqah — which guards against riya' (showing off) and is more likely to be pure for Allah. The secret gift has no audience except Allah. It is the purest form.",
+      },
+      {
+        ref: '92:18-20',
+        arabic: 'الَّذِي يُؤْتِي مَالَهُ يَتَزَكَّىٰ ۝ وَمَا لِأَحَدٍ عِندَهُ مِن نِّعْمَةٍ تُجْزَىٰ ۝ إِلَّا ابْتِغَاءَ وَجْهِ رَبِّهِ الْأَعْلَىٰ',
+        translation: 'Who gives his wealth as self-purification, not for anyone who has done him a favor to be repaid, but only seeking the Face of his Lord Most High.',
+        note: "The portrait of the pure giver: giving without return expected, without debt repaid, only for the sake of Allah's Face (wajh Allah — the highest aspiration). This is sadaqah at its most sublime — the giver has removed every consideration except the divine.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: 'Sincere intention', arabic: 'النية الخالصة', arabicTranslit: 'al-niyya al-khāliṣa', description: "Sadaqah given for reputation, social status, or tax benefit is not pure sadaqah — it has a human transaction mixed in. The pure sadaqah is for Allah alone, witnessed only by Allah." },
+        { number: 2, title: 'Giving from what is good', arabic: 'الإنفاق من الطيب', arabicTranslit: 'al-infāq min al-ṭayyib', description: "2:267: 'O you who believe, spend from the good things you have earned.' The sadaqah of what is broken, old, and unwanted is not the standard. The standard is giving from what you would yourself want to receive." },
+        { number: 3, title: 'Not following it with harm', arabic: 'عدم اتباعه بالأذى', arabicTranslit: "ʿadam ittibāʿihi bi-l-adhā", description: "2:264: 'Do not invalidate your charities with reminders and injury.' Sadaqah that is followed by reminders of the gift, or condescension toward the recipient, loses its reward. The gift must be given and released." },
+      ],
+      stations: [
+        { name: 'Sadaqah of wealth', description: "Giving money, food, goods — the most obvious form. The Quran commands giving from what you love (3:92) and in every circumstance (3:134 — the muttaqin give in ease and hardship)." },
+        { name: 'Sadaqah of service', description: "The Prophet ﷺ said every act of service to another is sadaqah. Removing a stone from the road is sadaqah. Helping someone lift a heavy load is sadaqah. The scope is total." },
+        { name: 'Sadaqah of speech', description: "'A good word is sadaqah.' The kind word, the encouragement, the truth spoken at the right moment — these are forms of giving from what Allah has given you." },
+        { name: 'Sadaqah jariya (ongoing charity)', description: "The sadaqah that keeps giving after death: building a well, endowing a school, planting a tree, leaving knowledge that benefits. The reward continues as long as the benefit continues." },
+      ],
+      questions: [
+        { question: "When I give, do I give what I love or what I can spare? What would it feel like to give what actually costs me?", answer: "3:92 is the standard. The sadaqah that costs nothing reveals the state of the heart more honestly than the sadaqah that comes from surplus." },
+        { question: "After giving, do I feel an impulse to mention it, to ensure the recipient knows, to be seen as generous?", answer: "This is the test of ikhlas in sadaqah. The pure giver has given and forgotten. The impure giver carries the gift as a social credit." },
+        { question: "Am I giving from my time and attention as well as my wealth? Who in my immediate circle needs the sadaqah of presence?", answer: "The Prophet ﷺ described every act of benefit as sadaqah. The impoverished neighbor who needs conversation, not money, is a recipient of sadaqah of presence." },
+      ],
+    },
+    semanticField: [
+      { slug: 'zuhd',    arabic: 'زُهْد',    transliteration: 'Zuhd',    relationship: 'deepens',   relationshipLabel: "Detachment enables giving", description: "The zahid who holds the world lightly finds sadaqah easy. Attachment to wealth makes giving painful; zuhd transforms giving into relief. The zahid gives because they know what the wealth actually is." },
+      { slug: 'ikhlas',  arabic: 'إِخْلَاص', transliteration: 'Ikhlas', relationship: 'deepens',   relationshipLabel: 'Pure giving', description: "92:18-20 is the portrait of sadaqah with ikhlas — giving only for Allah's Face. Without ikhlas, sadaqah is a transaction with the world; with ikhlas, it is a transaction with Allah." },
+      { slug: 'shukr',   arabic: 'شُكْر',   transliteration: 'Shukr',   relationship: 'deepens',   relationshipLabel: 'Gratitude expressed through giving', description: "Sadaqah is a form of shukr — the person who gives from what they have is saying: 'I acknowledge this came from Allah and I pass it on.' Giving is the most material form of gratitude." },
+      { slug: 'rahmah',  arabic: 'رَحْمَة', transliteration: 'Rahmah', relationship: 'deepens',   relationshipLabel: 'Mercy motivates the gift', description: "The motivation of pure sadaqah is rahmah — seeing the other's need and responding with genuine care. Without rahmah, sadaqah is obligation. With rahmah, it is an overflow of care." },
+    ],
+    scholarsSaid: [
+      { scholar: 'Ibn al-Qayyim', text: "Sadaqah has an astonishing effect on warding off harm and illness — even the most experienced doctors acknowledge this. The generous person is surrounded by the love of people, the du'a of the poor, and the protection of Allah.", source: "Al-Wabil al-Sayyib" },
+      { scholar: 'Al-Ghazali', text: "Sadaqah is the purification of wealth — as washing purifies the body, sadaqah purifies wealth. The wealth that has not been purified by sadaqah is contaminated wealth.", source: "Ihya' Ulum al-Din" },
+    ],
+    hadith: [
+      { ref: 'Bukhari & Muslim', translation: "Sadaqah extinguishes sin as water extinguishes fire.", note: "One of the most frequently cited prophetic descriptions of sadaqah's spiritual power. The metaphor is physical and immediate: the sadaqah does not merely balance the sin; it actively quenches it." },
+      { ref: 'Bukhari & Muslim', translation: "Every day two angels descend and one says: 'O Allah, give more to the one who spends.' And the other says: 'O Allah, give loss to the one who withholds.'", note: "The divine economy of sadaqah: giving triggers divine replenishment; withholding triggers divine decrease. This is the mathematics that contradicts worldly logic." },
+    ],
+    acrossTransitions: `Charitable giving as a religious obligation and virtue is universal — every major tradition commands generosity toward the less fortunate. The Jewish tzedakah (from tzedek — justice) has the same root connection as Islamic sadaqah: giving to the poor is not charity (a gift) but justice (a right). Both traditions ground charitable giving in the recognition that wealth is held in trust, not owned absolutely.
+
+In Christian thought, almsgiving (eleemosyne — related to eleos, mercy) is one of the three pillars of the spiritual life (with prayer and fasting). The hidden gift described in Matthew 6:3-4 ("do not let your left hand know what your right hand is doing") is precisely the sadaqah described in 2:271 and the hadith of the seven protected by Allah's shade.
+
+In Buddhist thought, dana (generosity) is the first of the ten perfections and the beginning of the path. Dana is not merely material giving but the practice of releasing attachment — the generous person is training themselves in non-clinging. This resonates with zuhd as the foundation of sadaqah: the person who gives easily has already released their grip on wealth.`,
+    relatedTerms: [
+      { slug: 'zuhd',   transliteration: 'Zuhd',   term: 'زُهْد'    },
+      { slug: 'ikhlas', transliteration: 'Ikhlas', term: 'إِخْلَاص' },
+      { slug: 'shukr',  transliteration: 'Shukr',  term: 'شُكْر'    },
+      { slug: 'rahmah', transliteration: 'Rahmah', term: 'رَحْمَة'  },
+    ],
+    goDeeper: [
+      { slug: 'al-baqarah', surahName: 'Al-Baqarah', note: "Contains the most sustained treatment of sadaqah in the Quran: 2:261-274, including the 700x multiplication, the prohibition of following gifts with harm, and the reward for secret giving. The longest Quranic passage on charitable giving." },
+      { slug: 'al-layl',    surahName: 'Al-Layl',    note: "Contains 92:18-20 — the portrait of the pure giver who gives only for Allah's Face. The entire surah (one of the earliest revealed) is a meditation on the two paths: generosity and miserliness, and where each leads." },
+    ],
+  },
+
+  mithaq: {
+    slug: 'mithaq',
+    term: 'مِيثَاق',
+    transliteration: 'Mithaq',
+    pronunciation: 'mee-THAAQ',
+    category: 'Theology & Ethics' as GlossaryCategory,
+    evocativeLine: 'The primordial covenant — the agreement made before birth that shapes all of human life.',
+    hasFullEntry: true,
+    summary: `Mithaq is the covenant — the binding agreement that the Quran describes as having been made before history began, between Allah and every human soul that would ever exist. The verse in Al-Araf (7:172) describes it: Allah gathered all the descendants of Adam, the entirety of humanity across all time, and asked them: "Am I not your Lord?" And they answered: "Yes, we testify." This is the primordial covenant — the mithaq al-fitrah — the universal acknowledgment of divine lordship made before any individual soul entered a body or remembered anything.
+
+The implications are vast. If every human being has already agreed, already testified, already made the covenant — then disbelief is not an original state but a departure from an original acknowledgment. The fitrah (innate disposition) that points every person toward tawhid is the echo of this covenant. When the Quran calls people to iman, it is calling them home — back to what they already agreed, what is inscribed more deeply than memory.
+
+The Quran uses mithaq in multiple contexts: the covenant with the prophets (33:7), the covenant with Bani Isra'il (2:83-84), the covenant in marriage (4:21 calls the marital bond a "heavy covenant" — mithaqan ghalizhan), and the individual covenant of every soul. What unites them: a mithaq is not merely a promise but a binding witness agreement — the breaking of which has consequences.`,
+    root: {
+      letters: 'و–ث–ق',
+      transliteration: 'w–th–q',
+      meaning: 'To bind firmly, to make secure, to establish a strong covenant',
+      elaboration: "The root w-th-q gives wuthūq (firmness, reliability), thiqa (trust), mithaq (covenant, solemn agreement). The sense is of binding tightly — a mithaq is not an ordinary promise but a bound, witnessed, firm agreement. The related word wuthqa (the firm handhold) appears in 2:256 — 'whoever disbelieves in taghut and believes in Allah has grasped the firmest handhold.' The mithaq is the firmest of firm agreements.",
+    },
+    occurrenceCount: 25,
+    occurrenceNote: "Mithaq appears approximately 25 times in the Quran, in the contexts of the prophetic covenant (33:7), the covenant with Bani Isra'il (2:83-84, 5:12-14), the marital covenant (4:21), and the primordial covenant (7:172). The range reveals covenant as the organizing principle of the divine-human relationship across all scales.",
+    keyAyahs: [
+      {
+        ref: '7:172',
+        arabic: 'وَإِذْ أَخَذَ رَبُّكَ مِن بَنِي آدَمَ مِن ظُهُورِهِمْ ذُرِّيَّتَهُمْ وَأَشْهَدَهُمْ عَلَىٰ أَنفُسِهِمْ أَلَسْتُ بِرَبِّكُمْ ۖ قَالُوا بَلَىٰ ۛ شَهِدْنَا',
+        translation: "And when your Lord took from the children of Adam — from their loins — their descendants and made them testify of themselves: 'Am I not your Lord?' They said: 'Yes, we testify.'",
+        note: "The primordial covenant in full. The divine question 'Alastu bi-rabbikum?' and the universal answer 'Bala, shahidna' — Yes, we testify. This moment precedes all history and grounds all responsibility. No one can claim on the Day of Judgment: 'I did not know.'",
+      },
+      {
+        ref: '33:7',
+        arabic: 'وَإِذْ أَخَذْنَا مِنَ النَّبِيِّينَ مِيثَاقَهُمْ وَمِنكَ وَمِن نُّوحٍ وَإِبْرَاهِيمَ وَمُوسَىٰ وَعِيسَى ابْنِ مَرْيَمَ',
+        translation: 'And when We took from the prophets their covenant — and from you, and from Nuh, Ibrahim, Musa, and Isa son of Maryam.',
+        note: "The prophetic covenant — a mithaq specific to those sent with the message. The sequence (the Prophet ﷺ listed first, then the previous prophets in reverse order) establishes the covenant's hierarchy and the unity of the prophetic mission.",
+      },
+      {
+        ref: '4:21',
+        arabic: 'وَكَيْفَ تَأْخُذُونَهُ وَقَدْ أَفْضَىٰ بَعْضُكُمْ إِلَىٰ بَعْضٍ وَأَخَذْنَ مِنكُم مِّيثَاقًا غَلِيظًا',
+        translation: 'And how could you take it back when one of you has gone to the other, and they have taken from you a solemn covenant (mithaqan ghalizhan)?',
+        note: "The marital bond as a 'heavy covenant' (mithaqan ghalizhan — only used in the Quran for this marital covenant and the prophetic covenant of 33:7). This is the strongest form of mithaq in human relationships.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: 'Remembering the original agreement', arabic: 'استذكار العهد الأصلي', arabicTranslit: 'istidhkār al-ʿahd al-aṣlī', description: "The function of revelation, prayer, and dhikr is partly to re-invoke the primordial covenant — to bring the soul back to the acknowledgment it made before entering the world. Every act of iman is a renewal of 'Bala, shahidna.'" },
+        { number: 2, title: 'Keeping the covenants that have been made', arabic: 'الوفاء بالعهود', arabicTranslit: "al-wafāʾ bi-l-ʿuhūd", description: "The Quran repeatedly commands fidelity to covenants — with Allah, with people, in marriage, in contracts. 'Fulfill the covenant — indeed the covenant will be questioned' (17:34). The mumin keeps their word as a reflection of keeping the original covenant." },
+        { number: 3, title: 'Living from the original acknowledgment', arabic: 'العيش من الاعتراف الأصيل', arabicTranslit: "al-ʿaysh min al-iʿtirāf al-aṣīl", description: "The covenant is not a past event; it is the present ground of all meaning. The person who lives conscious of having already agreed that Allah is their Lord lives differently — every act of worship is a renewal, every act of disobedience is a contradiction of what the soul has already said." },
+      ],
+      stations: [
+        { name: 'Mithaq in belief', description: "Tawhid — saying 'there is no god but Allah' — is the conscious fulfillment of the primordial covenant. Shahada is the repetition, in time, of the pre-temporal shahidna." },
+        { name: 'Mithaq in practice', description: "The daily obligations — prayer, fasting, zakat, hajj — are the ongoing expressions of the covenant renewed. Each one is a 'yes, I still testify.'" },
+        { name: 'Mithaq in relationship', description: "The specific covenants of marriage, of the prophetic bond, of the social contract — all participate in the covenant structure that the Quran describes as the fundamental form of the divine-human relationship." },
+      ],
+      questions: [
+        { question: "If I have already said 'Yes, You are my Lord' — how does my daily life reflect or contradict that agreement?", answer: "The primordial covenant makes every choice a response to 'Alastu bi-rabbikum?' The life lived in forgetfulness of this is a life spent contradicting what the soul has already said." },
+        { question: "What covenants have I made that I am not fulfilling? With Allah, with my spouse, with those I have made commitments to?", answer: "17:34: the covenant will be questioned. The daily inventory of kept and unkept promises is the practical dimension of mithaq." },
+        { question: "How do I experience the shahada — as a formula repeated or as a covenant renewed?", answer: "The shahada that is merely a formula has been severed from its primordial root. The shahada that is a covenant renewed is each time an echo of 'Bala, shahidna' — living, active, binding." },
+      ],
+    },
+    semanticField: [
+      { slug: 'fitrah',  arabic: 'فِطْرَة', transliteration: 'Fitrah',  relationship: 'deepens',   relationshipLabel: "Mithaq's imprint", description: "The fitrah is the internal trace of the mithaq — the innate disposition toward tawhid that every soul carries because it has already agreed. The mithaq is the event; the fitrah is its permanent echo in the soul." },
+      { slug: 'iman',    arabic: 'إِيمَان', transliteration: 'Iman',    relationship: 'deepens',   relationshipLabel: 'The renewal of the covenant', description: "Every act of iman is a renewal of the primordial mithaq — the soul saying again, in time, what it said before time. The shahada makes explicit what the mithaq established implicitly." },
+      { slug: 'tawbah',  arabic: 'تَوْبَة', transliteration: 'Tawbah',  relationship: 'deepens',   relationshipLabel: 'Return to the covenant', description: "Tawbah is the return to the covenant after having moved away from it. The soul that committed sins has not destroyed the mithaq — it has contradicted it. Tawbah is the recommitment: 'Yes, You are still my Lord.'" },
+      { slug: 'sidq',    arabic: 'صِدْق',  transliteration: 'Sidq',    relationship: 'deepens',   relationshipLabel: 'The integrity of covenant', description: "The person who keeps the mithaq is the sadiq — the truthful one who lives in correspondence with what they have agreed. Breaking the covenant is a form of lying — saying one thing (the shahada) and doing another." },
+    ],
+    scholarsSaid: [
+      { scholar: 'Ibn al-Qayyim', text: "The covenant of Alast (Am I not your Lord?) is the basis of all obligation — the human being is accountable because they have agreed. If they had not agreed, they could claim ignorance. But they said 'Bala' before they entered the world.", source: "Al-Ruh" },
+      { scholar: 'Al-Ghazali', text: "The covenant is the origin of the fitrah — it is why the human being, when reminded of the truth, feels a recognition rather than discovering something new. The heart recognizes what the soul already agreed.", source: "Ihya' Ulum al-Din" },
+    ],
+    hadith: [
+      { ref: 'Bukhari & Muslim', translation: "Every child is born in accordance with the fitrah (natural disposition). Then his parents make him Jewish, Christian, or Zoroastrian.", note: "The fitrah as the default state — the state of the mithaq before modification. The mithaq is prior to all conditioning; the covenant was made before the child had parents. This is the basis of the Quran's universal call: it is calling people back, not dragging them somewhere new." },
+    ],
+    acrossTransitions: `The concept of a pre-temporal covenant between God and humanity — establishing the basis for human accountability before birth — is unusual in world religion. The closest parallel in Jewish thought is the covenant at Sinai (Exodus 19-24), but this is a historical event between God and one people, not a universal pre-temporal covenant with all souls.
+
+In Platonic thought, the concept of anamnesis (recollection) holds that the soul knew the Forms before birth and learning is a kind of remembering. This has a structural parallel to the Islamic mithaq: what seems like new discovery is actually recognition of what was already known. The difference is that in Islam the pre-natal knowledge is of Allah's lordship, not abstract Forms.
+
+In Sufi tradition, the story of Alast is enormously generative: the longing for Allah that mystics describe is the soul's memory of that primordial moment of closeness. The spiritual life is a return to Alast — to the intimacy of the answer 'Bala, shahidna.' This resonates with the concept of uns (intimacy with Allah) as a return to an original state.`,
+    relatedTerms: [
+      { slug: 'fitrah', transliteration: 'Fitrah', term: 'فِطْرَة' },
+      { slug: 'iman',   transliteration: 'Iman',   term: 'إِيمَان' },
+      { slug: 'tawbah', transliteration: 'Tawbah', term: 'تَوْبَة'  },
+      { slug: 'tawhid', transliteration: 'Tawhid', term: 'تَوْحِيد' },
+    ],
+    goDeeper: [
+      { slug: 'al-araf',  surahName: "Al-A'raf",   note: "Contains 7:172-173 — the primordial covenant in full. The surah's narrative of the struggles between truth and falsehood across human history is grounded in this foundational moment: every person has already agreed." },
+      { slug: 'al-ahzab', surahName: 'Al-Ahzab',   note: "Contains 33:7 — the prophetic mithaq, and 33:72 — the 'heavy trust' (amanah) that the heavens and earth refused and the human being carried. These two passages together describe the weight of covenant in the Islamic cosmology." },
+    ],
+  },
+
+  jihad: {
+    slug: 'jihad',
+    term: 'جِهَاد',
+    transliteration: 'Jihad',
+    pronunciation: 'ji-HAAD',
+    category: 'Theology & Ethics' as GlossaryCategory,
+    evocativeLine: 'Striving — the comprehensive struggle in every domain, of which warfare is one dimension.',
+    hasFullEntry: true,
+    summary: `Jihad is the most misunderstood word in Islamic discourse — by those who oppose Islam and by those who claim it. The word means striving, effort, struggle — the exertion of one's full capacity toward a goal. In the Quran, jihad appears in its most comprehensive sense as the total effort of the believer: striving in the way of Allah with wealth, with life, with time, with attention, with the tongue, with the pen.
+
+The first and most frequently emphasized form of jihad in the classical tradition is jihad al-nafs — the struggle against the self. When a warrior returned from battle, the Prophet ﷺ said: "You have returned from the lesser jihad to the greater jihad — the struggle against the nafs." The greater jihad is internal: resisting the ego's demands, overcoming laziness in worship, fighting the impulse toward sin, disciplining the character. This is the jihad that never ends.
+
+Physical combat (qital) is one specific, conditional, and regulated form of jihad — governed by the most extensive rules of engagement in classical Islamic jurisprudence. It applies in specific circumstances (defense of the community, removal of oppression from those who cannot free themselves), requires proper authorization, and is subject to detailed limitations about who can be harmed and how. Collapsing all of jihad into this one conditional form — as both critics and extremists do — is a fundamental error that Islamic scholarship has been clear about for fourteen centuries.`,
+    root: {
+      letters: 'ج–ه–د',
+      transliteration: 'j–h–d',
+      meaning: 'To strive, exert oneself, put forth maximum effort',
+      elaboration: "The root j-h-d gives jahd (effort, exertion), ijtihad (independent legal reasoning — the scholarly effort to derive rulings from sources), mujahid (one who strives), and jihad (comprehensive striving). The sense is of exerting to the limit of one's capacity — of exhausting one's effort for something. Jihad billah (striving through Allah), jihad fi sabil Allah (striving in the path of Allah), jihad al-nafs (striving against the self) — all describe total commitment.",
+    },
+    occurrenceCount: 41,
+    occurrenceNote: "The root j-h-d appears approximately 41 times in the Quran in the jihad sense. Many of the most important jihad verses are addressed in the Meccan period — before any physical conflict was permitted — and they refer entirely to spiritual and intellectual striving. The Medinan verses introduce the qital (fighting) dimension in its specific contexts.",
+    keyAyahs: [
+      {
+        ref: '25:52',
+        arabic: 'فَلَا تُطِعِ الْكَافِرِينَ وَجَاهِدْهُم بِهِ جِهَادًا كَبِيرًا',
+        translation: 'So do not obey the disbelievers, and strive against them with it (the Quran) a great striving.',
+        note: "This is a Meccan verse — before any physical conflict was permitted. The striving commanded here is jihad bil-Quran — the great jihad of the Quran, through conviction, argument, and steadfastness. The greatest jihad was described before any sword was drawn.",
+      },
+      {
+        ref: '49:15',
+        arabic: 'إِنَّمَا الْمُؤْمِنُونَ الَّذِينَ آمَنُوا بِاللَّهِ وَرَسُولِهِ ثُمَّ لَمْ يَرْتَابُوا وَجَاهَدُوا بِأَمْوَالِهِمْ وَأَنفُسِهِمْ فِي سَبِيلِ اللَّهِ',
+        translation: 'The believers are only those who believe in Allah and His Messenger, then have not doubted, and have striven with their wealth and their lives in the path of Allah.',
+        note: "Jihad with wealth and lives together — a reminder that the financial sacrifice is named first. The mujahid who funds the effort is participating in jihad equally with the one on the front lines.",
+      },
+      {
+        ref: '9:20',
+        arabic: 'الَّذِينَ آمَنُوا وَهَاجَرُوا وَجَاهَدُوا فِي سَبِيلِ اللَّهِ بِأَمْوَالِهِمْ وَأَنفُسِهِمْ أَعْظَمُ دَرَجَةً عِندَ اللَّهِ',
+        translation: 'Those who believed and emigrated and strove in the path of Allah with their wealth and their lives are greater in rank with Allah.',
+        note: "The combination: iman, hijra (sacrifice of home), and jihad with wealth and life. These are the full dimensions of the early Muslim community's total commitment. The verse reveals that jihad is always more than combat — it is the complete offering of oneself to the divine project.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: 'Sincerity of intention', arabic: 'خلوص النية', arabicTranslit: 'khulūṣ al-niyya', description: "Jihad without ikhlas is not jihad in the way of Allah — it is striving in the way of the ego. The Prophet ﷺ said: the person who fights to show courage, or for national pride, or for spoils — they are not fighting in the way of Allah." },
+        { number: 2, title: 'Knowledge of the domain of struggle', arabic: 'معرفة مجال الجهاد', arabicTranslit: 'maʿrifat majāl al-jihād', description: "Each form of jihad requires its specific knowledge: jihad al-nafs requires knowledge of the nafs; jihad bil-Quran requires knowledge of the Quran; political and military jihad requires specific jurisprudential expertise and authorization." },
+        { number: 3, title: 'Proportionality and boundaries', arabic: 'الميزان والحدود', arabicTranslit: 'al-mīzān wa-l-ḥudūd', description: "Classical Islamic jurisprudence is exhaustive on the limits of armed jihad: no killing of non-combatants, no destruction of crops or property, no killing of children or women or the elderly, no torture, no mutilation. The boundaries are not optional additions but constitutive of what makes it jihad rather than fasad (corruption)." },
+      ],
+      stations: [
+        { name: 'Jihad al-nafs (the greater jihad)', description: "The continuous internal struggle — against ego, laziness, sin, heedlessness. The most important and most neglected form. The Prophet ﷺ called this the greater jihad." },
+        { name: 'Jihad bil-lisan (with the tongue)', description: "Speaking truth, commanding good and forbidding wrong, advocating for justice, countering falsehood through speech and writing. The mujahid of the tongue is the scholar and the advocate." },
+        { name: 'Jihad bil-mal (with wealth)', description: "Giving in the way of Allah — funding what Allah has made a priority. The Quran places this before the jihad of life in many verses." },
+        { name: 'Jihad bil-nafs (with life)', description: "The physical jihad of combat — conditional, regulated, authorized, and governed by the most detailed rules in classical jurisprudence. One specific dimension of jihad, not its definition." },
+      ],
+      questions: [
+        { question: "In my life, what is the actual jihad — the real struggle? Where am I exerting my full capacity?", answer: "The Prophet ﷺ said the greater jihad is the struggle against the nafs. The honest answer to this question reveals whether the primary battle is internal or displaced outward." },
+        { question: "Am I a mujahid in the Quranic sense? Am I striving with my wealth, my time, my attention, my tongue — not just theoretically?", answer: "49:15 asks for striving with wealth and life together. The inventory: where does my effort actually go? What does my time spent reveal about my jihad?" },
+        { question: "When I hear the word jihad, what is my first association? Does that association reflect the Quran's actual usage?", answer: "The first Quranic use of jihad commanded striving with the Quran. Restoring the full Quranic meaning of jihad is itself a form of jihad bil-lisan." },
+      ],
+    },
+    semanticField: [
+      { slug: 'sabr',   arabic: 'صَبْر',   transliteration: 'Sabr',   relationship: 'parallels',     relationshipLabel: 'The companion of jihad', description: "Jihad requires sabr — the sustained effort through difficulty. The Quran pairs them frequently: strive and be patient, strive and endure. Sabr is the duration of jihad; jihad is sabr with a goal." },
+      { slug: 'taqwa',  arabic: 'تَقْوَى', transliteration: 'Taqwa',  relationship: 'deepens',       relationshipLabel: 'The ground of jihad', description: "Jihad in the way of Allah requires taqwa — the consciousness of Allah that ensures the striving is genuinely for Him. Without taqwa, jihad becomes striving for the self, the group, or the ego." },
+      { slug: 'ikhlas', arabic: 'إِخْلَاص', transliteration: 'Ikhlas', relationship: 'deepens',      relationshipLabel: 'Sincerity as the soul of jihad', description: "The Prophet ﷺ described the one who fights for fame or glory as not fighting in Allah's way. Ikhlas is what makes the striving jihad rather than merely effort." },
+      { slug: 'rahmah', arabic: 'رَحْمَة', transliteration: 'Rahmah', relationship: 'deepens',       relationshipLabel: 'Mercy as the spirit of jihad', description: "The Prophet ﷺ prohibited the mutilation of enemies, the killing of non-combatants, the wanton destruction of property — because rahmah governs even combat. Jihad without rahmah is not in the way of Allah." },
+    ],
+    scholarsSaid: [
+      { scholar: 'Ibn Taymiyya', text: "Jihad is of three types: jihad against the open enemy, jihad against the shaytan, and jihad against the nafs. Ibn al-Qayyim added a fourth: jihad against the hypocrites. The greatest of these is jihad against the nafs.", source: "Majmu' al-Fatawa" },
+      { scholar: 'Al-Ghazali', text: "The greater jihad is the jihad of the nafs — the effort to discipline it, to train it, to align it with what Allah loves. This jihad never ends; it continues until death.", source: "Ihya' Ulum al-Din" },
+      { scholar: 'Ibn Hajar al-Asqalani', text: "The hadith 'you have returned from the lesser jihad to the greater jihad' — even if disputed in its chain — expresses a sound principle accepted by the scholars: that the internal jihad is more difficult and more continuous than the external.", source: "Fath al-Bari" },
+    ],
+    hadith: [
+      { ref: 'Bukhari & Muslim', translation: "The mujahid is the one who strives against his own nafs for the sake of Allah.", note: "This hadith makes jihad al-nafs the primary definition of the mujahid. The warrior who fights the external enemy but has not fought the internal enemy is incomplete as a mujahid." },
+    ],
+    acrossTransitions: `The concept of spiritual struggle as a primary religious category is found across traditions. In Christian thought, the spiritual life is frequently described in terms of warfare: "Put on the full armor of God" (Ephesians 6:10-18); the "spiritual exercises" of Ignatius of Loyola are a program of intensive internal struggle. The Desert Fathers fought demons — both external and internal.
+
+In Buddhist thought, the path to liberation is described as a battle against defilements (kilesas) — greed, hatred, and delusion. The practitioner is engaged in a continuous internal struggle against these forces. This is structurally identical to jihad al-nafs.
+
+In Stoic thought, the sage's ongoing struggle against the passions — maintaining virtue against the assault of circumstance and desire — is described in the language of warfare. Marcus Aurelius describes the philosophical life as a battle that must be fought every day.
+
+The physical dimension of jihad (armed struggle) has parallels in the concept of just war (bellum iustum) in Christian thought (Augustine, Aquinas), and in the notion of milhemet mitzvah (commanded war) in Jewish law. All traditions recognize circumstances in which armed force is permitted; all insist on regulation of that force.`,
+    relatedTerms: [
+      { slug: 'sabr',   transliteration: 'Sabr',   term: 'صَبْر'    },
+      { slug: 'taqwa',  transliteration: 'Taqwa',  term: 'تَقْوَى'  },
+      { slug: 'ikhlas', transliteration: 'Ikhlas', term: 'إِخْلَاص' },
+      { slug: 'nafs',   transliteration: 'Nafs',   term: 'نَفْس'    },
+    ],
+    goDeeper: [
+      { slug: 'al-furqan', surahName: 'Al-Furqan',    note: "Contains 25:52 — jihad with the Quran, the greatest jihad, commanded before any physical conflict was permitted. The Meccan context of this verse is essential: jihad began as the struggle of conviction." },
+      { slug: 'al-tawbah', surahName: 'Al-Tawbah',    note: "The most extensive Quranic treatment of armed jihad — its conditions, its justifications, its hypocrites, its heroes. Reading the surah in full reveals the contextual specificity of combat jihad and the extraordinary standards required of those who participate." },
     ],
   },
 }
