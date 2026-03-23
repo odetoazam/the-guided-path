@@ -549,6 +549,8 @@ What is distinctively Quranic is the insistence that there is no sin beyond the 
       { slug: 'nadam',    transliteration: 'Nadam',    term: 'نَدَم'    },
       { slug: 'sabr',     transliteration: 'Sabr',     term: 'صَبْر'    },
       { slug: 'tawakkul', transliteration: 'Tawakkul', term: 'تَوَكُّل' },
+      { slug: 'ikhlas', transliteration: 'Ikhlas', term: 'إِخْلَاص' },
+      { slug: 'rahmah', transliteration: 'Rahmah', term: 'رَحْمَة' }
     ],
 
     goDeeper: [
@@ -673,6 +675,8 @@ What is distinctively Quranic is the promise that sabr is *witnessed* and *rewar
       { slug: 'shukr',    transliteration: 'Shukr',    term: 'شُكْر'    },
       { slug: 'tawakkul', transliteration: 'Tawakkul', term: 'تَوَكُّل' },
       { slug: 'tawbah',   transliteration: 'Tawbah',   term: 'تَوْبَة'  },
+      { slug: 'taqwa', transliteration: 'Taqwa', term: 'تَقْوَى' },
+      { slug: 'zuhd', transliteration: 'Zuhd', term: 'زُهْد' }
     ],
 
     goDeeper: [
@@ -780,6 +784,9 @@ What is distinctively Quranic is the precision: the Quran commands action (delib
     relatedTerms: [
       { slug: 'sabr',   transliteration: 'Sabr',   term: 'صَبْر'   },
       { slug: 'tawbah', transliteration: 'Tawbah', term: 'تَوْبَة' },
+      { slug: 'shukr', transliteration: 'Shukr', term: 'شُكْر' },
+      { slug: 'mahabbah', transliteration: 'Mahabbah', term: 'مَحَبَّة' },
+      { slug: 'zuhd', transliteration: 'Zuhd', term: 'زُهْد' }
     ],
 
     goDeeper: [
@@ -887,6 +894,9 @@ What is distinctively Quranic about khushu' is its placement: not in advanced my
     relatedTerms: [
       { slug: 'sabr',   transliteration: 'Sabr',   term: 'صَبْر'   },
       { slug: 'tawbah', transliteration: 'Tawbah', term: 'تَوْبَة' },
+      { slug: 'ikhlas', transliteration: 'Ikhlas', term: 'إِخْلَاص' },
+      { slug: 'shukr', transliteration: 'Shukr', term: 'شُكْر' },
+      { slug: 'ihsan', transliteration: 'Ihsan', term: 'إِحْسَان' }
     ],
 
     goDeeper: [
@@ -993,6 +1003,8 @@ What is distinctively Quranic is the framing of nadam as functional: it is not t
     relatedTerms: [
       { slug: 'tawbah',  transliteration: 'Tawbah',  term: 'تَوْبَة' },
       { slug: 'sabr',    transliteration: 'Sabr',    term: 'صَبْر'   },
+      { slug: 'ikhlas', transliteration: 'Ikhlas', term: 'إِخْلَاص' },
+      { slug: 'khawf', transliteration: 'Khawf', term: 'خَوْف' }
     ],
 
     goDeeper: [
@@ -1106,6 +1118,8 @@ What is uniquely Quranic is the feedback loop: shukr produces increase (14:7), w
       { slug: 'sabr',    transliteration: 'Sabr',    term: 'صَبْر'   },
       { slug: 'tawakkul', transliteration: 'Tawakkul', term: 'تَوَكُّل' },
       { slug: 'khushu',  transliteration: "Khushu'", term: 'خُشُوع'  },
+      { slug: 'mahabbah', transliteration: 'Mahabbah', term: 'مَحَبَّة' },
+      { slug: 'rizq', transliteration: 'Rizq', term: 'رِزْق' }
     ],
 
     goDeeper: [
@@ -1213,6 +1227,8 @@ What makes the Quranic barzakh unusual in comparative religion is its deliberate
       { slug: 'al-ghayb', transliteration: 'Al-Ghayb', term: 'ٱلْغَيْب' },
       { slug: 'jannah',   transliteration: 'Jannah',   term: 'جَنَّة'  },
       { slug: 'mizan',    transliteration: 'Mizan',    term: 'مِيزَان' },
+      { slug: 'qiyamah', transliteration: 'Al-Qiyāmah', term: 'قِيَامَة' },
+      { slug: 'malaika', transliteration: 'Malaika', term: 'مَلَائِكَة' }
     ],
 
     goDeeper: [
@@ -1326,6 +1342,8 @@ What is distinctly Quranic is the insistence that jannah's descriptions are give
       { slug: 'barzakh',  transliteration: 'Barzakh',  term: 'بَرْزَخ'  },
       { slug: 'al-ghayb', transliteration: 'Al-Ghayb', term: 'ٱلْغَيْب' },
       { slug: 'mizan',    transliteration: 'Mizan',    term: 'مِيزَان'  },
+      { slug: 'malaika', transliteration: 'Malaika', term: 'مَلَائِكَة' },
+      { slug: 'jahannam', transliteration: 'Jahannam', term: 'جَهَنَّم' }
     ],
 
     goDeeper: [
@@ -1435,6 +1453,8 @@ Interestingly, modern physics has introduced concepts that function somewhat lik
       { slug: 'barzakh', transliteration: 'Barzakh', term: 'بَرْزَخ'  },
       { slug: 'jannah',  transliteration: 'Jannah',  term: 'جَنَّة'   },
       { slug: 'mizan',   transliteration: 'Mizan',   term: 'مِيزَان'  },
+      { slug: 'iman', transliteration: 'Iman', term: 'إِيمَان' },
+      { slug: 'shaytan', transliteration: 'Shaytan', term: 'شَيْطَان' }
     ],
 
     goDeeper: [
@@ -1655,6 +1675,7 @@ What is distinctive about the Quranic concept is that it self-names the practice
       { slug: 'tafsir',         transliteration: 'Tafsir',         term: 'تَفْسِير' },
       { slug: 'nazm',           transliteration: 'Nazm',           term: 'نَظْم'    },
       { slug: 'khushu',         transliteration: "Khushu'",        term: 'خُشُوع'   },
+      { slug: 'asbab-al-nuzul', transliteration: 'Asbab al-Nuzul', term: 'أَسْبَاب ٱلنُّزُول' }
     ],
 
     goDeeper: [
@@ -1763,6 +1784,7 @@ What remains uniquely Islamic about the doctrine of nazm is its theological clai
       { slug: 'tafsir',   transliteration: 'Tafsir',   term: 'تَفْسِير' },
       { slug: 'tadabbur', transliteration: 'Tadabbur', term: 'تَدَبُّر' },
       { slug: 'ijaz',     transliteration: "I'jaz",    term: 'إِعْجَاز' },
+      { slug: 'asbab-al-nuzul', transliteration: 'Asbab al-Nuzul', term: 'أَسْبَاب ٱلنُّزُول' }
     ],
 
     goDeeper: [
@@ -1985,6 +2007,8 @@ What is theologically distinctive about the Quranic Jahannam is its consistent c
       { slug: 'jannah',   transliteration: 'Jannah',   term: 'جَنَّة'   },
       { slug: 'tawbah',   transliteration: 'Tawbah',   term: 'تَوْبَة'  },
       { slug: 'al-ghayb', transliteration: 'Al-Ghayb', term: 'ٱلْغَيْب' },
+      { slug: 'malaika', transliteration: 'Malaika', term: 'مَلَائِكَة' },
+      { slug: 'sirat', transliteration: 'Al-Ṣirāṭ', term: 'صِرَاط' }
     ],
 
     goDeeper: [
@@ -2091,6 +2115,7 @@ What is remarkable about the Quranic presentation is its detail and sympathy. Th
     relatedTerms: [
       { slug: 'sabr',    transliteration: 'Sabr',    term: 'صَبْر'   },
       { slug: 'tawakkul', transliteration: 'Tawakkul', term: 'تَوَكُّل' },
+      { slug: 'asiya', transliteration: 'Asiya', term: 'آسِيَة' }
     ],
 
     goDeeper: [
@@ -4030,6 +4055,7 @@ What the Quran uniquely provides is the explicit divine promise of reciprocity: 
       { slug: 'shukr',    transliteration: 'Shukr',    term: 'شُكْر'    },
       { slug: 'nafs',     transliteration: 'Nafs',     term: 'نَفْس'    },
       { slug: 'mahabbah', transliteration: 'Mahabbah', term: 'مَحَبَّة' },
+      { slug: 'tafakkur', transliteration: 'Tafakkur', term: 'تَفَكُّر' }
     ],
     goDeeper: [
       { slug: 'ar-rad', surahName: "Ar-Ra'd", note: "Contains 13:28 — 'In the remembrance of Allah do hearts find rest' — the Quran's most definitive statement about what dhikr does to the heart." },
@@ -4092,6 +4118,7 @@ What Islamic zuhd adds that Buddhism and Stoicism often lack is the positive alt
       { slug: 'sabr',     transliteration: 'Sabr',     term: 'صَبْر'    },
       { slug: 'rizq',     transliteration: 'Rizq',     term: 'رِزْق'    },
       { slug: 'ikhlas',   transliteration: 'Ikhlas',   term: 'إِخْلَاص' },
+      { slug: 'dunya', transliteration: 'Dunya', term: 'دُنْيَا' }
     ],
     goDeeper: [
       { slug: 'al-hadid', surahName: 'Al-Hadid', note: "The richest Quranic surah on zuhd — describes the dunya as 'mata' al-ghurur' (57:20), commands not to grieve over what has escaped or exult over what has been given (57:23), and contrasts the temporary with the eternal." },
@@ -4210,6 +4237,7 @@ What the Quran adds is the divine source of hayaa': not before people or abstrac
       { slug: 'ikhlas', transliteration: 'Ikhlas', term: 'إِخْلَاص' },
       { slug: 'taqwa',  transliteration: 'Taqwa',  term: 'تَقْوَى'  },
       { slug: 'sidq',   transliteration: 'Sidq',   term: 'صِدْق'    },
+      { slug: 'muraqaba', transliteration: 'Muraqaba', term: 'مُرَاقَبَة' }
     ],
     goDeeper: [
       { slug: 'al-qasas', surahName: 'Al-Qasas', note: "Contains 28:25 — the daughter of Shu'ayb walking with hayaa' — the Quran's most celebrated single depiction of hayaa' in practice." },
@@ -5357,6 +5385,7 @@ What is distinctive in the Quranic vision is that justice is not the ceiling but
       { slug: 'ihsan',  transliteration: 'Ihsan',  term: 'إِحْسَان' },
       { slug: 'rahmah', transliteration: 'Rahmah', term: 'رَحْمَة'  },
       { slug: 'taqwa',  transliteration: 'Taqwa',  term: 'تَقْوَى'  },
+      { slug: 'ummah', transliteration: 'Ummah', term: 'أُمَّة' }
     ],
     goDeeper: [
       { slug: 'al-nisa',   surahName: "Al-Nisa'",  note: "Contains 4:135 — the most demanding justice command in the Quran. The surah's extensive treatment of family law, inheritance, and social relations makes 'adl the organizing principle of Medinan social ethics." },
@@ -5536,6 +5565,7 @@ In Jewish thought, cheit (sin) literally means "to miss the mark." The person wh
       { slug: 'shirk',  transliteration: 'Shirk',  term: 'شِرْك'   },
       { slug: 'shukr',  transliteration: 'Shukr',  term: 'شُكْر'   },
       { slug: 'fitrah', transliteration: 'Fitrah', term: 'فِطْرَة' },
+      { slug: 'nifaq', transliteration: 'Nifaq', term: 'نِفَاق' }
     ],
     goDeeper: [
       { slug: 'al-baqarah', surahName: 'Al-Baqarah', note: "Opens with a typology of three groups — believers (2:2-5), disbelievers (2:6-7), and hypocrites (2:8-20). The kufr described in 2:6-7 is the hardened form — not the initial rejection but the kufr that has become a settled disposition after repeated choice." },
@@ -5627,6 +5657,7 @@ What is distinctive in the Islamic treatment of nifaq is its interior diagnosis:
       { slug: 'sidq',   transliteration: 'Sidq',   term: 'صِدْق'    },
       { slug: 'kufr',   transliteration: 'Kufr',   term: 'كُفْر'    },
       { slug: 'taqwa',  transliteration: 'Taqwa',  term: 'تَقْوَى'  },
+      { slug: 'shirk', transliteration: 'Shirk', term: 'شِرْك' }
     ],
     goDeeper: [
       { slug: 'al-baqarah',  surahName: 'Al-Baqarah', note: "Contains the most extensive early portrait of the munafiqun (2:8-20), including the famous lamp parable (2:17) — they are people who lit a fire and when it illuminated them, Allah took away their light. The surah establishes the tripartite typology that the rest of the Quran develops." },
@@ -5901,6 +5932,7 @@ In Aristotelian ethics, eudaimonia (flourishing, sometimes translated as "happin
       { slug: 'ihsan',  transliteration: 'Ihsan',  term: 'إِحْسَان' },
       { slug: 'rahmah', transliteration: 'Rahmah', term: 'رَحْمَة'  },
       { slug: 'adl',    transliteration: "'Adl",   term: 'عَدْل'    },
+      { slug: 'luqman', transliteration: 'Luqman', term: 'لُقْمَان' }
     ],
     goDeeper: [
       { slug: 'al-baqarah', surahName: 'Al-Baqarah', note: "Contains 2:177 — the fullest definition of birr in the Quran. The verse comes in the context of the qibla change (from Jerusalem to Makkah), teaching that the direction of prayer matters less than the quality of the person praying." },
@@ -5990,6 +6022,7 @@ In modern political thought, Benedict Anderson's concept of "imagined communitie
       { slug: 'dawah',  transliteration: "Da'wah", term: 'دَعْوَة'  },
       { slug: 'adl',    transliteration: "'Adl",   term: 'عَدْل'    },
       { slug: 'rahmah', transliteration: 'Rahmah', term: 'رَحْمَة'  },
+      { slug: 'ukhuwwah', transliteration: 'Ukhuwwah', term: 'أُخُوَّة' }
     ],
     goDeeper: [
       { slug: 'al-baqarah', surahName: 'Al-Baqarah', note: "Contains 2:143 — the wasat ummah, the median community of witnesses. The context (the qibla change from Jerusalem to Makkah) situates the ummah in relation to previous communities — inheriting their mission while being its final expression." },
@@ -6080,6 +6113,7 @@ In Buddhist thought, the concept of "skillful means" (upaya) — adapting the te
       { slug: 'rahmah', transliteration: 'Rahmah', term: 'رَحْمَة'  },
       { slug: 'ummah',  transliteration: 'Ummah',  term: 'أُمَّة'   },
       { slug: 'ikhlas', transliteration: 'Ikhlas', term: 'إِخْلَاص' },
+      { slug: 'musa', transliteration: 'Musa', term: 'مُوسَىٰ' }
     ],
     goDeeper: [
       { slug: 'al-nahl',    surahName: 'Al-Nahl',     note: "Contains 16:125 — the complete methodology of da'wah. The surah is itself an exhibition of da'wah: every creation described is an argument for the Creator." },
@@ -6346,6 +6380,7 @@ In Sufi tradition, the story of Alast is enormously generative: the longing for 
       { slug: 'iman',   transliteration: 'Iman',   term: 'إِيمَان' },
       { slug: 'tawbah', transliteration: 'Tawbah', term: 'تَوْبَة'  },
       { slug: 'tawhid', transliteration: 'Tawhid', term: 'تَوْحِيد' },
+      { slug: 'amanah', transliteration: 'Amanah', term: 'أَمَانَة' }
     ],
     goDeeper: [
       { slug: 'al-araf',  surahName: "Al-A'raf",   note: "Contains 7:172-173 — the primordial covenant in full. The surah's narrative of the struggles between truth and falsehood across human history is grounded in this foundational moment: every person has already agreed." },
@@ -6728,6 +6763,7 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
     relatedTerms: [
       { slug: 'akhira', transliteration: 'Akhira', term: 'آخِرَة' },
       { slug: 'zuhd',   transliteration: 'Zuhd',   term: 'زُهْد'  },
+      { slug: 'hayah', transliteration: 'Ḥayāh', term: 'حَيَاة' }
     ],
     hasFullEntry: true,
     goDeeper: [
@@ -7305,6 +7341,9 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
     relatedTerms: [
       { slug: 'tawakkul', transliteration: 'Tawakkul', term: 'تَوَكُّل' },
       { slug: 'tawhid',   transliteration: 'Tawhid',   term: 'تَوْحِيد' },
+      { slug: 'ashab-al-fil', transliteration: 'Aṣḥāb al-Fīl', term: 'أَصْحَاب ٱلْفِيل' },
+      { slug: 'quraysh', transliteration: 'Quraysh', term: 'قُرَيْش' },
+      { slug: 'qawm-lut', transliteration: 'Qawm Lūṭ', term: 'قَوْم لُوط' }
     ],
     hasFullEntry: true,
   },
@@ -7398,6 +7437,8 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
     relatedTerms: [
       { slug: 'sabr',   transliteration: 'Sabr',    term: 'صَبْر'  },
       { slug: 'dawah',  transliteration: "Da'wah",  term: 'دَعْوَة' },
+      { slug: 'madyan', transliteration: 'Madyan', term: 'مَدْيَن' },
+      { slug: 'bani-isra-il', transliteration: "Banū Isrā'īl", term: 'بَنُو إِسْرَائِيل' }
     ],
     hasFullEntry: true,
   },
@@ -8003,6 +8044,8 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
     ],
     relatedTerms: [
       { slug: 'thamud', transliteration: 'Thamud', term: 'ثَمُود' },
+      { slug: 'sabr', transliteration: 'Sabr', term: 'صَبْر' },
+      { slug: 'nuh', transliteration: 'Nuh', term: 'نُوح' }
     ],
     hasFullEntry: true,
   },
@@ -8075,6 +8118,8 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
     ],
     relatedTerms: [
       { slug: 'ad', transliteration: "'Ad", term: 'عَاد' },
+      { slug: 'sabr', transliteration: 'Sabr', term: 'صَبْر' },
+      { slug: 'nuh', transliteration: 'Nuh', term: 'نُوح' }
     ],
     hasFullEntry: true,
   },
@@ -8561,6 +8606,7 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
     relatedTerms: [
       { slug: 'sulayman', transliteration: 'Sulayman', term: 'سُلَيْمَان' },
       { slug: 'tawbah',   transliteration: 'Tawbah',   term: 'تَوْبَة'   },
+      { slug: 'bani-isra-il', transliteration: "Banū Isrā'īl", term: 'بَنُو إِسْرَائِيل' }
     ],
     hasFullEntry: true,
   },
@@ -8665,6 +8711,7 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
       { slug: 'dawud',  transliteration: 'Dawud',  term: 'دَاوُود' },
       { slug: 'bilqis', transliteration: 'Bilqis', term: 'بِلْقِيس' },
       { slug: 'shukr',  transliteration: 'Shukr',  term: 'شُكْر'  },
+      { slug: 'bani-isra-il', transliteration: "Banū Isrā'īl", term: 'بَنُو إِسْرَائِيل' }
     ],
     hasFullEntry: true,
   },
@@ -8984,6 +9031,7 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
     relatedTerms: [
       { slug: 'qadar',   transliteration: 'Qadar',   term: 'قَدَر'    },
       { slug: 'al-arsh', transliteration: 'Al-Arsh', term: 'ٱلْعَرْش' },
+      { slug: 'al-kursi', transliteration: 'Al-Kursī', term: 'ٱلْكُرْسِيّ' }
     ],
     hasFullEntry: true,
   },
@@ -9154,6 +9202,8 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
       { slug: 'hisab',   transliteration: 'Al-Hisab',   term: 'حِسَاب'  },
       { slug: 'barzakh', transliteration: 'Barzakh',    term: 'بَرْزَخ' },
       { slug: 'sirat',   transliteration: 'Al-Sirat',   term: 'صِرَاط'  },
+      { slug: 'mawt', transliteration: 'Mawt', term: 'مَوْت' },
+      { slug: 'yawm', transliteration: 'Yawm', term: 'يَوْم' }
     ],
     hasFullEntry: true,
   },
@@ -9692,6 +9742,7 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
     relatedTerms: [
       { slug: 'sabr',    transliteration: 'Sabr',    term: 'صَبْر'  },
       { slug: 'barzakh', transliteration: 'Barzakh', term: 'بَرْزَخ' },
+      { slug: 'qawm-lut', transliteration: 'Qawm Lūṭ', term: 'قَوْم لُوط' }
     ],
     hasFullEntry: true,
   },
@@ -9849,6 +9900,7 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
     relatedTerms: [
       { slug: 'qiraat',     transliteration: "Qira'at",      term: 'قِرَاءَات'         },
       { slug: 'makki-madani', transliteration: 'Makki / Madani', term: 'مَكِّي/مَدَنِي' },
+      { slug: 'maqasid', transliteration: 'Maqāṣid', term: 'مَقَاصِد' }
     ],
     hasFullEntry: true,
   },
@@ -10154,6 +10206,7 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
     relatedTerms: [
       { slug: 'qiyamah', transliteration: 'Al-Qiyamah', term: 'قِيَامَة' },
       { slug: 'mawt',    transliteration: 'Mawt',       term: 'مَوْت'    },
+      { slug: 'layl', transliteration: 'Layl', term: 'لَيْل' }
     ],
     hasFullEntry: true,
   },
@@ -10330,6 +10383,8 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
       { slug: 'barzakh', transliteration: 'Barzakh', term: 'بَرْزَخ' },
       { slug: 'hayah',   transliteration: 'Hayah',   term: 'حَيَاة' },
       { slug: 'qiyamah', transliteration: 'Al-Qiyamah', term: 'قِيَامَة' },
+      { slug: 'ruh', transliteration: 'Ruh', term: 'رُوح' },
+      { slug: 'yawm', transliteration: 'Yawm', term: 'يَوْم' }
     ],
     hasFullEntry: true,
   },
@@ -10508,6 +10563,7 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
       { slug: 'shura',  transliteration: 'Shura',  term: 'شُورَى'  },
       { slug: 'tawbah', transliteration: 'Tawbah', term: 'تَوْبَة' },
       { slug: 'taqwa',  transliteration: 'Taqwa',  term: 'تَقْوَى' },
+      { slug: 'madyan', transliteration: 'Madyan', term: 'مَدْيَن' }
     ],
     hasFullEntry: true,
   },
