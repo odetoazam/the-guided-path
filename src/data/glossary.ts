@@ -184,7 +184,7 @@ export const GLOSSARY_TERMS: GlossaryMeta[] = [
   { slug: 'nuh',          term: 'نُوح',              transliteration: 'Nuh',           category: 'Quranic Characters', evocativeLine: "950 years of calling — and his own son refused the ark.",                         hasFullEntry: true },
   { slug: 'dawud',        term: 'دَاوُود',           transliteration: 'Dawud',         category: 'Quranic Characters', evocativeLine: 'The king who sang to Allah — given wisdom, a kingdom, and the Psalms.',           hasFullEntry: false },
   { slug: 'sulayman',     term: 'سُلَيْمَان',        transliteration: 'Sulayman',      category: 'Quranic Characters', evocativeLine: 'The sovereign of wind, jinn, and birds — whose prayer was a greater gift than the kingdom.', hasFullEntry: false },
-  { slug: 'yunus',        term: 'يُونُس',            transliteration: 'Yunus',         category: 'Quranic Characters', evocativeLine: "The prophet who left before permission — and called from the belly of the deep.",  hasFullEntry: false },
+  { slug: 'yunus',        term: 'يُونُس',            transliteration: 'Yunus',         category: 'Quranic Characters', evocativeLine: "The prophet who left before permission — and called from the belly of the deep.",  hasFullEntry: true },
 
   // ── Nations & Peoples ────────────────────────────────────────────────────────
   { slug: 'ad',               term: 'عَاد',                transliteration: "'Ad",             category: "Nations & Peoples", evocativeLine: "The people of the wind — destroyed by the very air they breathed.",         hasFullEntry: true },
@@ -8314,6 +8314,90 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
     ],
     relatedTerms: [
       { slug: 'maryam',  transliteration: 'Maryam',  term: 'مَرْيَم'   },
+      { slug: 'tawakkul', transliteration: 'Tawakkul', term: 'تَوَكُّل' },
+    ],
+    hasFullEntry: true,
+  },
+
+  'yunus': {
+    slug: 'yunus',
+    term: 'يُونُس',
+    transliteration: 'Yunus',
+    pronunciation: 'YOO-nus',
+    category: 'Quranic Characters',
+    evocativeLine: "The prophet who left before permission — and called from the belly of the deep.",
+    summary: "Yunus is the prophet whose story the Quran uses to teach the most intimate lesson about the nature of du'a: that in the darkest, most confined space imaginable — the belly of a whale, in the depths of the sea, in layers of darkness — a sincere turning to Allah is heard and answered.\n\nYunus left his people before receiving divine permission to go. The Quran is direct about this: he was angry (fa-dhahaba mughadiban — he went in anger, 21:87) and thought that Allah would not have power over him, or that he could simply leave his mission. He boarded a ship; the ship was troubled; lots were cast; his lot came up; he was thrown overboard; the whale swallowed him.\n\nIn the belly of the whale, in multiple layers of darkness, he made one of the Quran's most concentrated prayers: La ilaha illa anta subhanaka inni kuntu min al-zalimin — There is no god but You; glory be to You; indeed I was among the wrongdoers (21:87). He does not ask to be released. He acknowledges he was wrong. He glorifies Allah. And he places his situation before the only One who could address it.\n\nAllah responds: fastajabna lahu wa-najjaynahu min al-ghamm — We responded to him and saved him from distress (21:88). And then: he was cast onto the open shore, sick — and a plant of gourd was grown over him. This detail — the plant, the shade for a sick prophet on an open shore — is among the Quran's most tender moments. The One who is great enough to command the whale is also attentive enough to grow a plant.",
+    root: {
+      letters: 'ي و ن س',
+      transliteration: 'y-w-n-s',
+      meaning: 'A proper name — from the Hebrew Yonah: dove',
+      elaboration: "Yunus is the Arabic form of the Hebrew Yonah (Jonah) — the name meaning dove, a bird associated with peace, gentleness, and the divine messenger. The Quran uses the name Yunus as well as the title Dhul-Nun (the one of the whale/large fish) and Sahib al-Hut (the companion of the fish). He is also called the prophet whose people believed — because uniquely among the prophetic nations, when the punishment was about to descend, his people believed, and Allah withheld the punishment.",
+    },
+    rootForms: [
+      { arabic: 'يُونُس', transliteration: 'Yūnus', type: 'Proper noun', meaning: 'The Prophet Yunus (Jonah)', approxCount: 4, verified: true },
+      { arabic: 'ذُو النُّون', transliteration: 'Dhū al-Nūn', type: 'Title', meaning: 'The one of the whale — Yunus', approxCount: 1, verified: true },
+    ],
+    occurrenceCount: 4,
+    occurrenceNote: "Yunus is named 4 times in the Quran and also referred to by the titles Dhul-Nun (21:87) and Sahib al-Hut (68:48). His story is told most fully in Surah Yunus (10:98) and referenced in Al-Anbiya (21:87-88) and Al-Saffat (37:139-148). His du'a from the belly of the whale is among the most cited in the tradition.",
+    keyAyahs: [
+      {
+        ref: 'Al-Anbiya 21:87',
+        arabic: 'وَذَا النُّونِ إِذ ذَّهَبَ مُغَاضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِي الظُّلُمَاتِ أَن لَّا إِلَٰهَ إِلَّا أَنتَ سُبْحَانَكَ إِنِّي كُنتُ مِنَ الظَّالِمِينَ',
+        translation: "And the one of the whale — when he left in anger and thought that We would not constrict him. He called out in the darknesses: There is no god but You; glory be to You; indeed I was among the wrongdoers.",
+        note: "The prayer of Yunus — called the prayer of Dhul-Nun — consists of three elements: tawhid (there is no god but You), tasbih (glory be to You — affirming divine transcendence and perfection), and tawbah (indeed I was among the wrongdoers — acknowledging the mistake). No request. No transaction. Just the pure orientation of a heart that has found its way back to the truth it knew. The response is immediate.",
+      },
+      {
+        ref: 'Al-Saffat 37:143-144',
+        arabic: 'فَلَوْلَا أَنَّهُ كَانَ مِنَ الْمُسَبِّحِينَ لَلَبِثَ فِي بَطْنِهِ إِلَىٰ يَوْمِ يُبْعَثُونَ',
+        translation: "If he had not been among those who glorify Allah, he would have remained in its belly until the Day of Resurrection.",
+        note: "The reason for the rescue is identified: he was min al-musabbihin — among those who glorify. His pre-whale habit of tasbih is what made the whale-prayer credible and effective. This verse teaches that the du'a in crisis draws on the habits formed outside of crisis. The person who prays only in desperation does not have the same relationship with Allah as the person whose normal life is one of dhikr and tasbih.",
+      },
+      {
+        ref: 'Yunus 10:98',
+        arabic: 'فَلَوْلَا كَانَتْ قَرْيَةٌ آمَنَتْ فَنَفَعَهَا إِيمَانُهَا إِلَّا قَوْمَ يُونُسَ لَمَّا آمَنُوا كَشَفْنَا عَنْهُمْ عَذَابَ الْخِزْيِ',
+        translation: "Was there any community that believed and its belief benefited it — except the people of Yunus? When they believed, We removed from them the punishment of disgrace in worldly life.",
+        note: "Yunus's people are unique in the Quran: when the punishment was about to descend, they believed as a community, and the punishment was withheld. This is the only recorded Quranic instance of a prophetic community believing before the punishment actually struck. It happened, the scholars note, because they saw the signs of approaching punishment and responded in time — unlike Ad, Thamud, and the people of Nuh who rejected until the end.",
+      },
+    ],
+    semanticField: [
+      {
+        slug: 'tawbah',
+        arabic: 'تَوْبَة',
+        transliteration: 'Tawbah',
+        relationship: 'deepens',
+        relationshipLabel: "The act at the center of the du'a of Yunus",
+        description: "Inni kuntu min al-zalimin — indeed I was among the wrongdoers. This is tawbah in its most compressed form: honest acknowledgment without excuse, without self-justification, without plea-bargaining. Yunus acknowledges his mistake and leaves the outcome to Allah. The du'a of Dhul-Nun is the model of tawbah in the dark place.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: "Maintain tasbih as a daily habit, not just a crisis tool", arabic: "تَسْبِيح", arabicTranslit: "tasbīh", description: "The verse says Yunus was saved because he was already among those who glorify — al-musabbihin. Crisis du'a draws on the bank of daily practice. The person whose normal state is dhikr and tasbih enters the crisis with a relationship already established. The person who turns to Allah only in extremity is starting from zero." },
+        { number: 2, title: "Acknowledge wrongdoing without self-justification", arabic: "تَوْبَة", arabicTranslit: "tawbah", description: "Yunus's du'a has no defense. No explanation of why he left. No argument about whether his anger was justified. Only: I was among the wrongdoers. This quality of honest admission — without minimization, without context-setting, without comparative reference to others' worse wrongdoing — is the mark of genuine tawbah." },
+        { number: 3, title: "Trust the whale to deliver you", arabic: "تَوَكُّل", arabicTranslit: "tawakkul", description: "The whale is not Yunus's enemy — it is his container. Allah used the instrument of apparent destruction as the vehicle of preservation. When the situation feels like it has swallowed you, the Yunus model suggests: make the du'a, and trust that Allah may be using exactly this darkness as the means of delivery to the shore." },
+      ],
+      stations: [
+        { name: "The leaving without permission", description: "Yunus's mistake — leaving the mission before being released from it. This is not a condemnation but a human fact: even prophets err. The Quran's honest account of Yunus's departure and its consequences models what honest account-taking looks like." },
+        { name: "The belly of the whale", description: "Three layers of darkness: the night, the sea, the whale's belly. The most confined, most suffocating space imaginable. And in it: pure prayer. The whale's belly is not where prayer becomes impossible; it is where prayer becomes all there is. This is the station of those whose external structures have completely collapsed." },
+        { name: "The shore and the plant", description: "Cast on the open shore, sick, exposed. And Allah grows a plant over him. This is the divine tenderness after the divine rescue: not merely safe but sheltered. Not merely out but tended. The same God who is vast enough to command the whale is intimate enough to grow shade for a sick man on a beach." },
+      ],
+      questions: [
+        { question: "Why did Allah allow Yunus to be swallowed?", answer: "The Quran's theological answer is embedded in the consequence: Yunus needed to be brought back to his mission. He left without permission; the whale was the means of correction and return. But the scholars note that the whale was also a mercy: without it, Yunus would have drowned. The instrument of correction was also the instrument of preservation. Allah's discipline and His mercy are not separate." },
+        { question: "Can the du'a of Dhul-Nun be used in any difficult situation?", answer: "Yes. The hadith tradition explicitly recommends the prayer of Yunus — la ilaha illa anta subhanaka inni kuntu min al-zalimin — for any difficult situation. The Prophet ﷺ is reported to have said that no Muslim makes this du'a for any matter without Allah answering him (Sunan al-Tirmidhi — Hasan). The du'a works because of its three elements: tawhid, tasbih, and tawbah — which together constitute the complete orientation of the heart toward Allah." },
+      ],
+    },
+    scholarsSaid: [
+      { scholar: "Ibn al-Qayyim", source: "Al-Fawa'id", text: "The du'a of Yunus from the belly of the whale is the most complete prayer in compressed form: it establishes tawhid, glorifies Allah, and acknowledges wrongdoing. It contains no request — only orientation. And Allah's response was to rescue without even being asked. This is the deepest form of prayer: not asking for anything specific, only standing correctly before Allah." },
+    ],
+    hadith: [
+      { text: "The du'a of my brother Yunus — la ilaha illa anta subhanaka inni kuntu min al-zalimin — no Muslim who makes this du'a for any matter will be answered except that Allah will answer him.", source: "Sunan al-Tirmidhi — Hasan" },
+    ],
+    acrossTransitions: "Yunus corresponds directly to the biblical Jonah — one of the twelve minor prophets, whose story (four short chapters in the Hebrew Bible) is among the most beloved in the biblical tradition. The Hebrew Book of Jonah shares the core narrative: the prophet sent to Nineveh, his flight, the storm, the lot, the fish, the prayer, the rescue, and the mission completed. The Quran's Yunus is leaner, more concentrated, and more focused on the interior journey of tawbah.\n\nIn Jewish tradition, the Book of Jonah is read in its entirety on Yom Kippur afternoon — the holiest day of the year, the Day of Atonement. The choice is deliberate: Jonah's story is the lesson of repentance, of the possibility of divine mercy even for sinners, and of the unexpectedness of divine forgiveness. The same themes make it central in Islamic reflection.\n\nIn the Christian tradition, Jonah is frequently referenced by Jesus in the Gospels — the sign of Jonah is three days in the fish, which Christian interpretation links to the three days of the resurrection. The Quran does not use Yunus in this way; his three days in the fish are the period of his tawbah and rescue, without typological freight.",
+    goDeeper: [
+      { slug: 'al-anbiya', surahName: "Al-Anbiya'", note: "The du'a of Dhul-Nun in the darknesses (21:87-88) and the immediate divine response" },
+      { slug: 'al-saffat', surahName: 'Al-Saffat', note: "The identification of tasbih as the reason for the rescue, and the plant on the shore (37:139-148)" },
+    ],
+    relatedTerms: [
+      { slug: 'tawbah',   transliteration: 'Tawbah',   term: 'تَوْبَة'  },
       { slug: 'tawakkul', transliteration: 'Tawakkul', term: 'تَوَكُّل' },
     ],
     hasFullEntry: true,
