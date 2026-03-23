@@ -222,9 +222,9 @@ export const GLOSSARY_TERMS: GlossaryMeta[] = [
   { slug: 'ajal',    term: 'أَجَل',    transliteration: 'Ajal',    category: 'Concepts of Existence', evocativeLine: 'The appointed term — the moment of death already written before birth.',                   hasFullEntry: true },
   { slug: 'barakah', term: 'بَرَكَة',  transliteration: 'Barakah', category: 'Concepts of Existence', evocativeLine: 'Divine blessing that multiplies — the invisible increase Allah places in what He wills.',  hasFullEntry: true },
   { slug: 'yawm',    term: 'يَوْم',    transliteration: 'Yawm',    category: 'Concepts of Existence', evocativeLine: 'The Day — used over 400 times in the Quran, pointing always toward the Day that ends all days.', hasFullEntry: true },
-  { slug: 'layl',    term: 'لَيْل',    transliteration: 'Layl',    category: 'Concepts of Existence', evocativeLine: 'Night — the time of standing, of secrets, of proximity, of divine descent.',               hasFullEntry: false },
-  { slug: 'mawt',    term: 'مَوْت',    transliteration: 'Mawt',    category: 'Concepts of Existence', evocativeLine: "Death — the destroyer of pleasures, the great reorienter, the door to what matters.",      hasFullEntry: false },
-  { slug: 'hayah',   term: 'حَيَاة',   transliteration: 'Hayah',   category: 'Concepts of Existence', evocativeLine: 'Life — but the Quran speaks of many: this one, the life of the heart, and the life to come.', hasFullEntry: false },
+  { slug: 'layl',    term: 'لَيْل',    transliteration: 'Layl',    category: 'Concepts of Existence', evocativeLine: 'Night — the time of standing, of secrets, of proximity, of divine descent.',               hasFullEntry: true },
+  { slug: 'mawt',    term: 'مَوْت',    transliteration: 'Mawt',    category: 'Concepts of Existence', evocativeLine: "Death — the destroyer of pleasures, the great reorienter, the door to what matters.",      hasFullEntry: true },
+  { slug: 'hayah',   term: 'حَيَاة',   transliteration: 'Hayah',   category: 'Concepts of Existence', evocativeLine: 'Life — but the Quran speaks of many: this one, the life of the heart, and the life to come.', hasFullEntry: true },
 
   // ── Theology & Ethics ────────────────────────────────────────────────────────
   { slug: 'tawhid',    term: 'تَوْحِيد',  transliteration: 'Tawhid',   category: 'Theology & Ethics', evocativeLine: "The oneness of Allah — the axis on which the entire universe turns.",                     hasFullEntry: true  },
@@ -246,7 +246,7 @@ export const GLOSSARY_TERMS: GlossaryMeta[] = [
   { slug: 'jihad',     term: 'جِهَاد',    transliteration: 'Jihad',    category: 'Theology & Ethics', evocativeLine: 'Striving — the comprehensive struggle in every domain, of which warfare is one dimension.', hasFullEntry: true },
   { slug: 'ukhuwwah',  term: 'أُخُوَّة',  transliteration: 'Ukhuwwah', category: 'Theology & Ethics', evocativeLine: 'Brotherhood and sisterhood — the bond the Quran places above tribe and blood.',            hasFullEntry: true },
   { slug: 'sadaqah',   term: 'صَدَقَة',   transliteration: 'Sadaqah',  category: 'Theology & Ethics', evocativeLine: 'Voluntary giving — the charity that purifies the giver and multiplies for both.',          hasFullEntry: true },
-  { slug: 'fasad',     term: 'فَسَاد',    transliteration: 'Fasad',    category: 'Theology & Ethics', evocativeLine: 'Corruption and disorder — what happens when humanity forgets its covenant.',               hasFullEntry: false },
+  { slug: 'fasad',     term: 'فَسَاد',    transliteration: 'Fasad',    category: 'Theology & Ethics', evocativeLine: 'Corruption and disorder — what happens when humanity forgets its covenant.',               hasFullEntry: true },
   { slug: 'shura',     term: 'شُورَى',    transliteration: 'Shura',    category: 'Theology & Ethics', evocativeLine: 'Consultation — the Quranic principle that decisions must be made together.',               hasFullEntry: false },
 ]
 
@@ -10077,6 +10077,344 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
     relatedTerms: [
       { slug: 'makki-madani', transliteration: 'Makki / Madani', term: 'مَكِّي/مَدَنِي' },
       { slug: 'balaghah',     transliteration: 'Balaghah',       term: 'بَلَاغَة'    },
+    ],
+    hasFullEntry: true,
+  },
+
+  'yawm': {
+    slug: 'yawm',
+    term: 'يَوْم',
+    transliteration: 'Yawm',
+    pronunciation: 'YAWM',
+    category: 'Concepts of Existence',
+    evocativeLine: "The Day — used over 400 times in the Quran, pointing always toward the Day that ends all days.",
+    summary: "Yawm — day — is one of the most frequently used words in the Quran, appearing over 400 times. In its most ordinary sense it means the twenty-four hour day, the unit of human time. But in the Quran, yawm carries a persistent eschatological resonance: it points always toward Yawm al-Din (the Day of Recompense), Yawm al-Qiyamah (the Day of Standing), Yawm al-Fasl (the Day of Separation), Al-Yawm al-Akhir (the Last Day) — the Day that ends all other days and in which all of history arrives at its conclusion.\n\nThe Quran's use of yawm creates a subtle eschatological undertone throughout its speech. When it says 'this day I have perfected for you your religion' (5:3 — Al-yawma akmaltu lakum dinakum), the word 'this day' carries both its ordinary meaning (the specific day of the farewell sermon) and its eschatological echo (the day of completion, of finality). When the Prophet is addressed with 'Woe to you, and woe to you, and woe — soon you shall know' (75:34-35), the 'knowing' points toward the Day when all accounts are settled.\n\nThe Arabic language's word for day (yawm) shares its root with the concept of standing and rising (related to qiyam), connecting 'day' etymologically to the rising/standing of the sun — and by Quranic extension, to the final rising/standing of all humanity before their Lord. Time in the Quran is always oriented: every day is one day closer to the Day.",
+    root: {
+      letters: 'ي و م',
+      transliteration: 'y-w-m',
+      meaning: 'day; a period of time; an era',
+      elaboration: "The root y-w-m gives: yawm (day, period of time), ayyam (days, plural), yawmiyy (daily). The word for day in Semitic languages is connected to the rising and setting of the sun — the measurement unit that organizes human time. In the Quran, yawm is extended far beyond its ordinary meaning: a 'day' with Allah can be like a thousand years or like fifty thousand years. The Quran deliberately stretches the concept of 'day' to include divine timescales and eschatological periods.",
+    },
+    rootForms: [
+      { arabic: 'يَوْم', transliteration: 'yawm', type: 'Noun', meaning: 'Day; period of time', approxCount: 405, verified: false },
+      { arabic: 'أَيَّام', transliteration: 'ayyām', type: 'Noun (plural)', meaning: 'Days; periods; times', approxCount: 27, verified: false },
+      { arabic: 'يَوْم الدِّين', transliteration: 'yawm al-dīn', type: 'Phrase', meaning: 'The Day of Recompense / Judgment', approxCount: 13, verified: false },
+    ],
+    occurrenceCount: 405,
+    occurrenceNote: "Yawm appears approximately 405 times in the Quran, making it one of the most frequent nouns in the entire Book. In Al-Fatihah alone (the opening surah recited in every rak'ah of prayer), yawm al-din (the Day of Recompense) appears in the fourth verse — ensuring that the concept of the eschatological Day is present in the most repeated words of every Muslim's worship life.",
+    keyAyahs: [
+      {
+        ref: "Al-Fatihah 1:4",
+        arabic: "مَالِكِ يَوْمِ الدِّينِ",
+        translation: "Master of the Day of Recompense.",
+        note: "The eschatological Day in the most recited verse of the Quran. Every Muslim recites Al-Fatihah at minimum 17 times per day in the five prayers — meaning every Muslim acknowledges the Day of Recompense at least 17 times daily. The word maliki (or miliki — two authorized readings) presents Allah as the Owner/Master/Sovereign of the Day. On that Day, all claims of sovereignty that human beings assert over each other dissolve; only divine sovereignty remains.",
+      },
+      {
+        ref: "Al-Sajdah 32:5",
+        arabic: "يُدَبِّرُ الْأَمْرَ مِنَ السَّمَاءِ إِلَى الْأَرْضِ ثُمَّ يَعْرُجُ إِلَيْهِ فِي يَوْمٍ كَانَ مِقْدَارُهُ أَلْفَ سَنَةٍ مِّمَّا تَعُدُّونَ",
+        translation: "He arranges each matter from the heaven to the earth; then it will ascend to Him in a Day whose measure is a thousand years of those which you count.",
+        note: "The divine 'day' is not equivalent to human time. A thousand years of human reckoning pass within what Allah describes as 'a day.' This is not contradiction but expansion: the Quran reveals that time is created, that its scales are relative, and that divine governance operates in timeframes that dwarf human calendars. The Day of Judgment ('fifty thousand years' in 70:4) similarly exceeds all human timescales — and yet for the righteous, it will pass as easily as a brief prayer.",
+      },
+    ],
+    semanticField: [
+      {
+        slug: 'qiyamah',
+        arabic: 'قِيَامَة',
+        transliteration: 'Al-Qiyamah',
+        relationship: 'deepens',
+        relationshipLabel: "Yawm al-Qiyamah — the Day that gives its name to the ultimate event",
+        description: "Every ordinary yawm (day) in the Quran's usage points toward the extraordinary Yawm al-Qiyamah. The daily reminder of the Day — in Al-Fatihah's yawm al-din — is the Quran's mechanism for keeping the eschatological horizon present in every moment of ordinary time.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: "Let each day's end be a practice for the final accounting", arabic: "مُحَاسَبَة", arabicTranslit: "muḥāsaba", description: "Every yawm ends in its own miniature judgment: what did this day contain? The scholars recommended an evening muhasabah (self-accounting) as a daily practice for exactly this reason: each day is both an opportunity and an accountability, and its end is a small practice for the larger end. The believer who accounts for each day will be more prepared for the Day that accounts for all of them." },
+        { number: 2, title: "Invoke Yawm al-Din to recalibrate what matters", arabic: "ذِكْر", arabicTranslit: "dhikr", description: "When a situation feels urgent, when anxiety rises, when a decision feels impossible — invoke the Day of Recompense. What will matter on that Day? This is not escapism but the Quran's intended use of the eschatological reminder: to restore the correct hierarchy of concerns. What God will ask about on that Day is what should matter most today." },
+      ],
+      stations: [
+        { name: "Al-Yawm al-Akhir — the Last Day", description: "One of the six pillars of Islamic faith: belief in the Last Day. This is not a peripheral belief but structural: it shapes the entire moral and existential framework of Islamic life. Actions have consequences that extend beyond death; what is not corrected in this yawm will be reckoned in the final Yawm. The Last Day is the guarantee that justice is real." },
+        { name: "The divine day — a thousand or fifty thousand years", description: "The Quran's stretching of the concept of 'day' beyond human time is its way of situating human life within divine timescales. The universe is billions of years old; human history is a few thousand years; a single human life is decades. Within the divine perspective, all of this is a brief duration within a vaster governance. Holding this perspective — the smallness of human time within divine time — is the Quranic antidote to the tyranny of the urgent." },
+      ],
+      questions: [
+        { question: "What does 'Day of Recompense' (Yawm al-Din) mean exactly?", answer: "Yawm al-din contains the word din, which has multiple meanings: religion, judgment, recompense, debt repayment, accountability. On Yawm al-din, every 'debt' — every action, every trust, every obligation — is settled. The word is chosen to convey that this is not arbitrary judgment but exact accountability: every matter that was 'owed' in the full moral and religious sense of the word is resolved. It is the day when all accounts are brought to zero — either through repayment, through forgiveness, or through judgment." },
+        { question: "How long is the Day of Judgment according to the Quran?", answer: "The Quran gives two figures: 'a thousand years of what you count' (32:5) and 'fifty thousand years' (70:4), in different contexts. Classical scholars reconcile these by noting different stages or different perspectives: the thousand years may refer to a divine administrative cycle, while fifty thousand years refers to the Day of Judgment itself. Others note that both express the same theological point — the Day transcends human time — using different scales. For the believer whose record is light, the Prophet described the Day as passing as quickly as a brief prayer." },
+      ],
+    },
+    scholarsSaid: [
+      { scholar: "Ibn Qayyim al-Jawziyya", source: "Miftah Dar al-Sa'adah", text: "Know that the days of this world are the market of the Last Day. What you earn here you will find there; what you neglect here you will regret there. Every day is a capital investment — those who use their days well will find their profit on the Day of Meeting; those who waste their days will find that poverty on that Day is worse than any poverty they knew in this world." },
+    ],
+    hadith: [
+      { text: "Make much remembrance of the destroyer of pleasures — meaning death.", source: "Sunan al-Tirmidhi, Al-Nasa'i, Ibn Majah" },
+    ],
+    acrossTransitions: "Time as divided into ordinary and sacred — ordinary days and the Sabbath (shabbat in Hebrew), ordinary seasons and the Day of Atonement (Yom Kippur) — is a structuring principle of Jewish religious time. The concept of the Day of the Lord (Yom YHWH) in the Hebrew prophets (Amos, Joel, Zephaniah, Isaiah) as a day of divine judgment and cosmic reckoning is the closest parallel to the Quranic Yawm al-Din.\n\nChristian eschatology similarly centers on the Last Day (Dies Irae — the Day of Wrath in medieval Latin liturgy), with the Last Judgment as the event that ends history and distributes eternal destinies. The Islamic Yawm al-Qiyamah is structurally parallel to these — divine judgment, resurrection of the dead, distribution of eternal fates — while being derived independently from Quranic revelation.",
+    goDeeper: [
+      { slug: 'al-fatihah', surahName: 'Al-Fatihah', note: "Maliki/Miliki yawm al-din — the eschatological Day in the most recited verse of the Quran" },
+      { slug: 'al-qiyamah', surahName: 'Al-Qiyamah', note: "The surah named for the Day — oaths, resurrection, and the final standing" },
+    ],
+    relatedTerms: [
+      { slug: 'qiyamah', transliteration: 'Al-Qiyamah', term: 'قِيَامَة' },
+      { slug: 'mawt',    transliteration: 'Mawt',       term: 'مَوْت'    },
+    ],
+    hasFullEntry: true,
+  },
+
+  'layl': {
+    slug: 'layl',
+    term: 'لَيْل',
+    transliteration: 'Layl',
+    pronunciation: 'LAYL',
+    category: 'Concepts of Existence',
+    evocativeLine: "Night — the time of standing, of secrets, of proximity, of the divine descent.",
+    summary: "Layl — night — is one of the Quran's most evocative time words. It appears approximately 92 times in the Quran and is the subject of divine oaths: 'By the night as it conceals' (92:1), 'By the night when it departs' (89:4), 'By the night and what it gathers' (81:17). Night in the Quran is not merely the absence of daylight — it is the privileged time of divine proximity, of intimate worship, of the prophetic descent of revelation.\n\nThe most significant Quranic event connected to night is Laylat al-Qadr — the Night of Power or Decree — described in Surah Al-Qadr as better than a thousand months, as the night when the angels and the Ruh descend by permission of their Lord with every divine decree for the coming year. The Quran was sent down on this night (2:185, 97:1); it is in the last ten nights of Ramadan; and its prayer and worship are worth more than the worship of a human lifetime.\n\nThe Quran's instruction for nighttime worship is among the most demanding: 'O you who wraps himself [in clothing] — arise and give warning... Indeed, the night is the most suited for being upright and most conducive for speech' (73:1-6). The famous tahajjud — the voluntary night prayer — is described as an extra station of honor for the Prophet (17:79). Night in the Quran is the time when the world quiets and the heart can speak directly to its Lord without the noise and distraction of daylight life.",
+    root: {
+      letters: 'ل ي ل',
+      transliteration: 'l-y-l',
+      meaning: 'night',
+      elaboration: "The root l-y-l is specifically the word for night — darkness between sunset and sunrise. Arabic has multiple ways to refer to different aspects of night: layl (the night in general), laylah (a specific night), ghassiq (deep darkness of night), dujja (pitch darkness). The Quran uses layl in its various forms to mark night as both the natural opposite of day and as a specially privileged spiritual time.",
+    },
+    rootForms: [
+      { arabic: 'لَيْل', transliteration: 'layl', type: 'Noun', meaning: 'Night', approxCount: 92, verified: false },
+      { arabic: 'لَيْلَة', transliteration: 'laylah', type: 'Noun', meaning: 'A (specific) night', approxCount: 11, verified: false },
+      { arabic: 'لَيْلَة الْقَدْر', transliteration: 'laylat al-qadr', type: 'Phrase', meaning: 'The Night of Power/Decree', approxCount: 3, verified: false },
+    ],
+    occurrenceCount: 92,
+    occurrenceNote: "Layl (night) appears approximately 92 times in the Quran. Night is the subject of divine oaths in Al-Layl (92:1), Al-Fajr (89:4), and Al-Takwir (81:17). Laylat al-Qadr is the subject of the entire Surah Al-Qadr (97). Night worship (tahajjud) is commanded in Al-Muzzammil (73) and described as an extra station of honor for the Prophet in Al-Isra (17:79).",
+    keyAyahs: [
+      {
+        ref: "Al-Qadr 97:1-4",
+        arabic: "إِنَّا أَنزَلْنَاهُ فِي لَيْلَةِ الْقَدْرِ وَمَا أَدْرَاكَ مَا لَيْلَةُ الْقَدْرِ لَيْلَةُ الْقَدْرِ خَيْرٌ مِّنْ أَلْفِ شَهْرٍ تَنَزَّلُ الْمَلَائِكَةُ وَالرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن كُلِّ أَمْرٍ",
+        translation: "Indeed, We sent it down on the Night of Power. And what can make you know what is the Night of Power? The Night of Power is better than a thousand months. The angels and the Spirit descend therein by permission of their Lord for every matter.",
+        note: "The supreme night in the entire Quran. The superlative ('better than a thousand months') makes mathematical what theology says: one night of worship on Laylat al-Qadr is worth more than 83 years of worship on other nights. The descent of the angels and the Ruh (Jibril) with every divine decree makes this night the annual moment of divine governance most vivid to human consciousness. Seeking this night in the last ten of Ramadan is among the most intensely practiced Sunnahs.",
+      },
+      {
+        ref: "Al-Muzzammil 73:1-4",
+        arabic: "يَا أَيُّهَا الْمُزَّمِّلُ قُمِ اللَّيْلَ إِلَّا قَلِيلًا نِّصْفَهُ أَوِ انقُصْ مِنْهُ قَلِيلًا أَوْ زِدْ عَلَيْهِ",
+        translation: "O you who wraps himself — arise during the night except for a little — half of it, or subtract from it a little, or add to it.",
+        note: "The first command to the Prophet for nighttime prayer. The address — 'O you who wraps himself' (al-muzzammil) — is intimate, catching the Prophet in his private moment. The command: arise during the night. The flexibility — half, or less, or more — shows the divine accommodation of different capacities while insisting on the practice. Night prayer is not a peripheral optional — it is the first specific obligation given to the Prophet after the first revelation.",
+      },
+      {
+        ref: "Al-Isra 17:79",
+        arabic: "وَمِنَ اللَّيْلِ فَتَهَجَّدْ بِهِ نَافِلَةً لَّكَ عَسَىٰ أَن يَبْعَثَكَ رَبُّكَ مَقَامًا مَّحْمُودًا",
+        translation: "And from the night — pray with it as an extra for you; perhaps your Lord will resurrect you to a praised station.",
+        note: "The tahajjud — the voluntary night prayer — is described as a nāfilah (extra, voluntary) for the Prophet — distinct from the obligatory prayers — that will raise him to 'Al-Maqam al-Mahmud' (the Praised Station) on the Day of Judgment. Classical scholars identify this as the station of the great intercession. Night prayer and the highest prophetic station are directly connected in this verse.",
+      },
+    ],
+    semanticField: [
+      {
+        slug: 'yawm',
+        arabic: 'يَوْم',
+        transliteration: 'Yawm',
+        relationship: 'parallels',
+        relationshipLabel: "Night and day — the paired organizing structure of Quranic time",
+        description: "The Quran consistently pairs night (layl) and day (nahar) as the two organizing periods of created time. They alternate by divine design: 'He covers the night with the day, chasing it rapidly' (7:54). Both are divine signs. But in the Quran's spiritual geography, night is often the more privileged: the speech of the night prayer (qawl al-layl) is more concentrated and more conducive to sincerity than the speech of the day.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: "Seek Laylat al-Qadr in the last ten of Ramadan", arabic: "اعْتِكَاف", arabicTranslit: "iʿtikāf", description: "The Prophet ﷺ used to intensify his worship in the last ten nights of Ramadan above all other times. The specific practice was i'tikaf — retreating to the mosque — and increasing prayer, dhikr, and Quran recitation. The night is sought on odd nights (21, 23, 25, 27, 29 of Ramadan) based on prophetic guidance. The du'a specifically taught for this night: 'Allahumma innaka 'afuwwun tuhibbu al-'afwa fa-'fu 'anni' — O Allah, You are Pardoning and love pardon, so pardon me." },
+        { number: 2, title: "Establish even a small amount of night prayer", arabic: "تَهَجُّد", arabicTranslit: "tahajjud", description: "The scholars describe the tahajjud as the mark of the awliya' (close friends of Allah). The Prophet ﷺ said: 'Establish night prayer, for it is the way of the righteous before you, a means of closeness to your Lord, an expiation for sins, and a prevention of wrongdoing.' Even two rak'ahs of night prayer after waking from sleep — especially in the last third of the night when divine descent (nuzul) is described in hadith — is among the most valued voluntary acts of worship." },
+      ],
+      stations: [
+        { name: "Laylat al-Qadr — the Night of Power", description: "Better than a thousand months. The night of the Quran's first descent, the night when the angels carry the divine decrees for the coming year, the night of peace 'until the emergence of dawn' (97:5). The greatest night in the Islamic calendar — contained within the last ten days of the greatest month (Ramadan), itself contained within the greatest Book (the Quran whose descent it marks)." },
+        { name: "Qiyam al-Layl — the Standing of the Night", description: "The night prayer that the Quran commands, that the Prophet practiced, and that the tradition has transmitted through centuries of practice. It is 'nāfilah' — extra — but the Quran promises it raises the one who performs it to Al-Maqam al-Mahmud (the Praised Station). The most voluntary of voluntary acts carries the most exalted promise." },
+      ],
+      questions: [
+        { question: "When exactly is Laylat al-Qadr?", answer: "The Prophet ﷺ taught that it is in the last ten nights of Ramadan, and more likely on odd nights (21, 23, 25, 27, 29). In one hadith in Sahih al-Bukhari, he told us to seek it in the last seven nights. The exact night varies from year to year — this concealment is deliberate: if it were fixed, people might only worship intensely on that one night. The uncertainty ensures that the entire last ten nights are treated with equal intensity. In some scholarly traditions, the 27th night of Ramadan is held most likely, based on specific prophetic indications." },
+        { question: "Is the night prayer (tahajjud) obligatory?", answer: "The night prayer was obligatory on the Prophet ﷺ (according to some scholars, based on 73:1-4 and 17:79). For the Muslim community, it was initially obligatory for a period, then the obligation was lifted and it became a strongly recommended voluntary practice (17:79 — 'a nafilah for you'). The majority scholarly position: tahajjud is a highly recommended Sunnah (sunnah mu'akkadah — confirmed Sunnah) for the Muslim community, not obligatory. Its consistent practice is among the most distinguishing marks of the seriously observant Muslim." },
+      ],
+    },
+    scholarsSaid: [
+      { scholar: "Ibn Rajab al-Hanbali", source: "Lata'if al-Ma'arif", text: "The night has a special quality that the day does not — the heart finds its way to its Lord in the darkness, away from the distractions and demands of daylight. This is why the greatest ibadah of the awliya was the night prayer: not because the words are different, but because the night creates conditions for sincerity and presence that the day rarely allows." },
+    ],
+    hadith: [
+      { text: "Our Lord descends to the lowest heaven each night in the last third of the night and says: Who is calling upon Me, that I may answer him? Who is asking of Me, that I may give him? Who is seeking My forgiveness, that I may forgive him?", source: "Sahih al-Bukhari and Muslim" },
+    ],
+    acrossTransitions: "Night as a privileged spiritual time is nearly universal across religious traditions. In Jewish tradition, the Shabbat begins at nightfall, making night the entry to the holiest day. The night vigils (shaharit's preparation) and the midnight study sessions are valued in traditional Jewish practice. In Christianity, the Easter Vigil is among the holiest liturgical observances; monks and nuns have historically prayed the night canonical hours (Matins, Lauds). In Hindu and Buddhist traditions, early morning (predawn — the brahma muhurta in Hinduism) is considered the most auspicious time for meditation and spiritual practice.\n\nThe Islamic emphasis on night prayer (qiyam al-layl) is particularly intense and grounded in explicit Quranic command and prophetic practice. The hadith of divine descent to the lowest heaven in the last third of the night is among the most frequently cited in Sufi traditions as the basis for the pre-dawn night prayer as a time of maximum divine proximity.",
+    goDeeper: [
+      { slug: 'al-qadr', surahName: 'Al-Qadr', note: "The Night of Power — better than a thousand months, the night of the Quran's first descent" },
+      { slug: 'al-muzzammil', surahName: 'Al-Muzzammil', note: "The first command to night prayer: arise during the night — the most suited time for worship" },
+    ],
+    relatedTerms: [
+      { slug: 'yawm',  transliteration: 'Yawm',  term: 'يَوْم'  },
+      { slug: 'sabr',  transliteration: 'Sabr',  term: 'صَبْر'  },
+    ],
+    hasFullEntry: true,
+  },
+
+  'mawt': {
+    slug: 'mawt',
+    term: 'مَوْت',
+    transliteration: 'Mawt',
+    pronunciation: 'MAWT',
+    category: 'Concepts of Existence',
+    evocativeLine: "Death — the destroyer of pleasures, the great reorienter, the door to what matters.",
+    summary: "Mawt — death — is one of the Quran's most insistently present realities. 'Every soul will taste death' (3:185, 21:35, 29:57) — the triple repetition of this statement across different surahs makes it the Quran's most emphatic factual claim about the human condition. Death is not treated in the Quran as tragedy, taboo, or philosophical problem — it is treated as the definitive teacher, the ultimate clarifier, the moment that reveals what was real and what was illusion.\n\nThe Quran's understanding of death is not that of annihilation but of transition. Death is the moment of the soul's separation from the body and its entry into the barzakh (the intermediate state). The Quran describes the experience of the dying believer: 'Those whom the angels take while they are good — the angels say: Peace be upon you. Enter Paradise for what you used to do.' (16:32). The dying disbeliever experiences the opposite: 'Those whose lives the angels take while they are wronging themselves... the angels will say: Give up your souls! Today you will be recompensed with a humiliating punishment.' (6:93).\n\nThe Prophet ﷺ called death 'the destroyer of pleasures' (hādhim al-ladhdhāt) and commanded frequent remembrance of it — not for morbid obsession but for the opposite: clarity. The person who remembers death correctly is freed from the tyranny of petty concerns and oriented toward what will genuinely matter at the moment of departure and beyond.",
+    root: {
+      letters: 'م و ت',
+      transliteration: 'm-w-t',
+      meaning: 'death; to die; to be lifeless',
+      elaboration: "The root m-w-t gives: mata (he died), mawt (death), mayyit/mayit (dead person), mumit (the One who causes death — Al-Mumit is a divine name), and imatat (causing death). The opposite root is h-y-y (hayah — life) — giving al-Hayy (the Ever-Living) as the divine name that stands over against al-Mumit. Death and life are the two poles of the Quranic understanding of created existence.",
+    },
+    rootForms: [
+      { arabic: 'مَوْت', transliteration: 'mawt', type: 'Noun', meaning: 'Death', approxCount: 165, verified: false },
+      { arabic: 'مَاتَ', transliteration: 'māta', type: 'Verb', meaning: 'He died', approxCount: 27, verified: false },
+      { arabic: 'مَيِّت', transliteration: 'mayyit', type: 'Noun/Adjective', meaning: 'Dead person; one who will die', approxCount: 23, verified: false },
+    ],
+    occurrenceCount: 165,
+    occurrenceNote: "The root m-w-t appears approximately 165 times in the Quran in its various forms. 'Kullu nafsin dha'ikat al-mawt' (every soul will taste death) appears three times (3:185, 21:35, 29:57). Allah is described as Al-Mumit (the One who causes death) alongside Al-Muhyi (the One who gives life) in multiple passages. The Quran also describes death's nature in Surah Al-Waqi'ah (56:60-61), Al-Mulk (67:2), and Al-Sajdah (32:11).",
+    keyAyahs: [
+      {
+        ref: "Al-Mulk 67:2",
+        arabic: "الَّذِي خَلَقَ الْمَوْتَ وَالْحَيَاةَ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا",
+        translation: "Who created death and life to test you as to which of you is best in deed.",
+        note: "Death is created (khaqa al-mawt) — it is not a natural inevitability but a divine choice, an instrument with a purpose. And the purpose is: test (balwa), to find who is best in deed (ahsanu amalan). The sequence — death before life in this verse — is deliberate: classical scholars note that death is mentioned first because it was created first (before the world), or because the consciousness of death is what gives life its moral urgency. The test of life is measured against the backdrop of death.",
+      },
+      {
+        ref: "Al-Imran 3:185",
+        arabic: "كُلُّ نَفْسٍ ذَائِقَةُ الْمَوْتِ ۗ وَإِنَّمَا تُوَفَّوْنَ أُجُورَكُمْ يَوْمَ الْقِيَامَةِ",
+        translation: "Every soul will taste death. And only on the Day of Resurrection will you be given your full recompense.",
+        note: "The universality of death followed immediately by the universality of recompense. 'Dha'iqat al-mawt' — 'will taste death' — is an unusual metaphor: death is experienced as tasted, not merely undergone. The tasting is active, participatory. And the full reward (ajr) comes on the Day of Resurrection: not at death, not in the barzakh, but at the resurrection. This is the complete frame of the Quranic account of human temporality: death is the taste, resurrection is the meal.",
+      },
+      {
+        ref: "Al-Sajdah 32:11",
+        arabic: "قُلْ يَتَوَفَّاكُم مَّلَكُ الْمَوْتِ الَّذِي وُكِّلَ بِكُمْ ثُمَّ إِلَىٰ رَبِّكُمْ تُرْجَعُونَ",
+        translation: "Say: The Angel of Death, who has been entrusted with you, will take you fully, then to your Lord you will be returned.",
+        note: "The mechanism of death: the Angel of Death (malak al-mawt), entrusted with the task of collecting souls, takes each soul at its appointed time. The word yatawaffa (to take completely, to receive in full) is related to the root meaning 'to fulfill' or 'to receive what is owed' — death is the complete reception of the soul by its angelic messenger. Then: 'to your Lord you will be returned.' Death is not terminus but transition — the soul is returned to the One who sent it.",
+      },
+    ],
+    semanticField: [
+      {
+        slug: 'hayah',
+        arabic: 'حَيَاة',
+        transliteration: 'Hayah',
+        relationship: 'parallels',
+        relationshipLabel: "The fundamental pair — mawt and hayah as the frame of created existence",
+        description: "Death and life (mawt and hayah) are the two poles of created existence in the Quran. They are both created (67:2), both divine gifts (the living did not choose to be born; the dying do not choose to die), and both instruments of the divine test. Understanding each requires understanding the other: life is the preparation; death is the transition to the accounting.",
+      },
+      {
+        slug: 'barzakh',
+        arabic: 'بَرْزَخ',
+        transliteration: 'Barzakh',
+        relationship: 'precedes',
+        relationshipLabel: "Death opens the door to the barzakh",
+        description: "The moment of death is the moment of entry into the barzakh — the intermediate state between this life and the resurrection. The state of the soul immediately after death (the first night of the grave, the questioning by Munkar and Nakir in prophetic tradition) begins at the moment mawt ends. Death is not the destination; the barzakh is the next chapter.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: "Remember death frequently — the destroyer of pleasures", arabic: "ذِكْر الْمَوْت", arabicTranslit: "dhikr al-mawt", description: "The Prophet ﷺ commanded: 'Remember frequently the destroyer of pleasures — death' (Sunan al-Tirmidhi). The scholars of the heart explain why: the remembrance of death is not morbidity but clarity. When you remember that this life ends, what seemed urgently important may become trivial, and what seemed optional may become essential. The remembrance of death is the Quran's prescribed antidote to the distraction of dunya." },
+        { number: 2, title: "Prepare your death before your death", arabic: "وَصِيَّة", arabicTranslit: "waṣiyya", description: "The Prophet ﷺ said: 'It is not permissible for any Muslim who has something to bequeath to stay for two nights without having his last will written concerning it' (Sahih al-Bukhari and Muslim). Beyond the legal obligation of the wasiyyah (will): prepare spiritually. Complete outstanding obligations (prayers, zakat, hajj, repentance). Repair relationships. Ensure your children know the fundamentals of their deen. The preparation for death is the preparation for the life that follows it." },
+      ],
+      stations: [
+        { name: "The moment of death — the soul taken by the angel", description: "Malak al-mawt (the Angel of Death, known in tradition as 'Izra'il) is entrusted with the collection of every soul at its appointed hour. The Quran describes the experience as different for different souls: the righteous experience ease and receive greetings of peace; the wrongdoers experience difficulty and reproach. The soul's state at departure reflects the state it maintained in life." },
+        { name: "The entry into the barzakh", description: "After death, the soul enters the barzakh — the barrier-world between this life and the resurrection. The prophetic tradition describes the believing soul being shown its place in Paradise; the disbelieving soul its place in the Fire. The first night of the grave — with its questioning and either expansion or constriction — begins immediately after burial." },
+      ],
+      questions: [
+        { question: "Does the Quran say anything about the moment of death?", answer: "Yes — the Quran describes the moment of death from multiple angles. Al-Waqi'ah (56:83-87) describes the soul reaching the throat (al-hulqum) at the moment of death, with the watching family unable to intervene, asking 'why, if you are not to be judged, do you not return it [the soul] if you are truthful?' Al-Qiyamah (75:26-30) describes the legs intertwined, the drive on that Day toward your Lord. Al-Nahl (16:28-32) describes the contrasting experiences of the righteous and the wrongdoing at the moment their souls are taken." },
+        { question: "Is the soul conscious immediately after death?", answer: "Yes — the Quran and hadith both indicate that the soul remains conscious after death. The martyrs are described as 'alive with their Lord, being provided for' (3:169). The people of Pharaoh are exposed to the Fire morning and evening in the barzakh (40:46). The Prophet described being able to hear the footsteps of his companions after the burial. The barzakh is a period of conscious experience, not unconscious waiting. The nature of that experience depends on the soul's state and what it brought from this life." },
+      ],
+    },
+    scholarsSaid: [
+      { scholar: "Ibn Qayyim al-Jawziyya", source: "Kitab al-Ruh", text: "Death is not the extinction of existence but the completion of one form of existence and the beginning of another. The soul does not cease; it transitions. What changes is its relationship to the body, to this world, and to the dimension of human action. After death, the account is closed; what was done cannot be added to or subtracted from. This is why the living are more fortunate than the dead: they still have the pen in their hand." },
+    ],
+    hadith: [
+      { text: "Remember frequently the destroyer of pleasures — death.", source: "Sunan al-Tirmidhi, graded hasan sahih" },
+      { text: "No Muslim's will is complete for two nights without having it written.", source: "Sahih al-Bukhari and Muslim" },
+    ],
+    acrossTransitions: "Death as a subject of religious reflection is universal — every tradition has its theology of what death is and what follows it. But traditions differ significantly on what death means for the relationship between body and soul, and on what follows.\n\nIn ancient Egyptian religion, death was the entry into the Duat (the underworld), with the weighing of the heart as the judgment event. In Greek philosophy, Plato's Phaedo presents death as the liberation of the immortal soul from the mortal body — a positive event for the philosopher. In Jewish tradition, death is generally presented as the natural end of life, with the afterlife less theologically elaborated than in Islam or Christianity. In Christian theology, death followed by resurrection and judgment is the eschatological framework — structurally parallel to Islam's mawt, barzakh, and qiyamah.\n\nThe Islamic distinction from most Western traditions is the vivid and developed account of the barzakh — the period between death and resurrection. The Quran and hadith describe this intermediate period in considerable detail, making it theologically central in a way not paralleled in most Christian or Jewish accounts.",
+    goDeeper: [
+      { slug: 'al-mulk', surahName: 'Al-Mulk', note: "Death was created as an instrument of the divine test — to find who is best in deed (67:2)" },
+      { slug: 'al-imran', surahName: 'Al-Imran', note: "Every soul will taste death — and the full recompense is on the Day of Resurrection (3:185)" },
+    ],
+    relatedTerms: [
+      { slug: 'barzakh', transliteration: 'Barzakh', term: 'بَرْزَخ' },
+      { slug: 'hayah',   transliteration: 'Hayah',   term: 'حَيَاة' },
+      { slug: 'qiyamah', transliteration: 'Al-Qiyamah', term: 'قِيَامَة' },
+    ],
+    hasFullEntry: true,
+  },
+
+  'hayah': {
+    slug: 'hayah',
+    term: 'حَيَاة',
+    transliteration: 'Ḥayāh',
+    pronunciation: "ha-YAH",
+    category: 'Concepts of Existence',
+    evocativeLine: "Life — but the Quran speaks of many: this one, the life of the heart, and the life to come.",
+    summary: "Hayah — life — is one of the Quran's foundational concepts, and its depth is revealed only when one notices that the Quran uses 'life' in several distinct senses. There is this life (al-hayah al-dunya — the near/worldly life), the life of the heart (hayat al-qalb — the spiritual aliveness that iman gives), the life of the martyrs in the presence of Allah (3:169), and the life to come (al-hayah al-akhirah — the eternal life of the next world).\n\nThe Quran's most consequential statement about life is its framing of the relationship between this life and the next: al-hayah al-dunya is consistently described with diminishment. 'The life of this world is not but amusement and diversion, but the home of the Hereafter — that is the [true] life, if only they knew.' (29:64). The Arabic word 'dunya' — often translated as 'worldly' — literally means 'the nearer,' 'the lower': this life is called 'dunya' because it is literally closer (in time, in perception, in immediacy) than what follows it. The proximity of this life to our senses creates the illusion that it is the 'real' life — but the Quran persistently calls this illusion out.\n\nYet the Quran is not life-denying. The same Quran that says this life is amusement and diversion also says: 'Seek your share of this world, and do not forget your portion from the dunya' (28:77). Life in this world is real, is valuable, is the arena of all moral action — but it is not the destination. It is the road; al-hayah al-akhirah is the home.",
+    root: {
+      letters: 'ح ي ي',
+      transliteration: 'ḥ-y-y',
+      meaning: 'life; to be alive; to live; to greet with life (tahiyyah — greeting)',
+      elaboration: "The root h-y-y gives: hayah (life), hayy (alive, the Living), hayya (to live, to give life), tahiyyah (greeting — literally 'wishing life upon someone'), and Al-Hayy (the Ever-Living — the supreme divine name in Ayat al-Kursi). The same root produces haya' (modesty/shyness) in some analyses — connecting modesty to the vitality and sensitivity of the living heart. The greeting 'as-salamu alaykum' wishing peace is paired in tradition with hayah: those with life have peace; those without spiritual life have neither.",
+    },
+    rootForms: [
+      { arabic: 'حَيَاة', transliteration: 'ḥayāh', type: 'Noun', meaning: 'Life', approxCount: 76, verified: false },
+      { arabic: 'حَيّ', transliteration: 'ḥayy', type: 'Adjective', meaning: 'Alive, living', approxCount: 19, verified: false },
+      { arabic: 'الْحَيُّ', transliteration: 'Al-Ḥayy', type: 'Divine name', meaning: 'The Ever-Living — divine name', approxCount: 5, verified: false },
+    ],
+    occurrenceCount: 76,
+    occurrenceNote: "Hayah appears approximately 76 times in the Quran. The phrase 'al-hayah al-dunya' (this worldly life) appears approximately 36 times. Al-Hayy (the Ever-Living) appears as a divine name in Ayat al-Kursi (2:255) and Al-Imran (3:2), always paired with Al-Qayyum (the Self-Sustaining). The life of the martyrs (3:169) and the life that iman gives to the heart (6:122) are among the Quran's most theologically important uses of hayah.",
+    keyAyahs: [
+      {
+        ref: "Al-Ankabut 29:64",
+        arabic: "وَمَا هَٰذِهِ الْحَيَاةُ الدُّنْيَا إِلَّا لَهْوٌ وَلَعِبٌ ۚ وَإِنَّ الدَّارَ الْآخِرَةَ لَهِيَ الْحَيَوَانُ ۚ لَوْ كَانُوا يَعْلَمُونَ",
+        translation: "And this worldly life is not but amusement and diversion. And indeed, the home of the Hereafter — that is truly the life, if only they knew.",
+        note: "The Quran's most concentrated statement about the relative status of the two lives. Al-hayah al-dunya is lahw (amusement) and la'ib (play) — not evil, but transient and non-serious compared to what follows. Al-dar al-akhirah is al-hayawan — a word that intensifies hayah: not just life but Life, real and complete life, the fullness of existence. The phrase 'if only they knew' is the Quran's sadness about the illusion: if they understood, they would not invest so fully in what is merely amusement.",
+      },
+      {
+        ref: "Al-An'am 6:122",
+        arabic: "أَوَمَن كَانَ مَيْتًا فَأَحْيَيْنَاهُ وَجَعَلْنَا لَهُ نُورًا يَمْشِي بِهِ فِي النَّاسِ كَمَن مَّثَلُهُ فِي الظُّلُمَاتِ لَيْسَ بِخَارِجٍ مِّنْهَا",
+        translation: "And is one who was dead and We gave him life and made for him light by which to walk among the people like one who is in darknesses, never to emerge from them?",
+        note: "The Quran's most vivid image of spiritual life (hayat al-qalb — life of the heart): before guidance, the heart is described as dead (mayyit). Iman gives it life. This life is not biological — it is the light by which one sees clearly and moves through the world with direction. The contrast is stark: light and movement versus darkness and stasis. The spiritually living move through the world with divine light as their guide; the spiritually dead stumble in darkness, unable to exit.",
+      },
+      {
+        ref: "Al-Imran 3:169",
+        arabic: "وَلَا تَحْسَبَنَّ الَّذِينَ قُتِلُوا فِي سَبِيلِ اللَّهِ أَمْوَاتًا ۚ بَلْ أَحْيَاءٌ عِندَ رَبِّهِمْ يُرْزَقُونَ",
+        translation: "And never think of those who have been killed in the cause of Allah as dead. Rather, they are alive with their Lord, being provided for.",
+        note: "The martyrs are alive (ahya') — alive in a mode of existence we cannot perceive, with their Lord, provided for. This is the Quran's statement about the continuation of life beyond biological death for the highest category of the righteous. The denial of their death ('never think of them as dead') is one of the Quran's most striking claims: from the divine perspective, what appears as death to human observers is not death at all but a transfer to a higher form of life.",
+      },
+    ],
+    semanticField: [
+      {
+        slug: 'mawt',
+        arabic: 'مَوْت',
+        transliteration: 'Mawt',
+        relationship: 'parallels',
+        relationshipLabel: "Life and death — the fundamental pair of created existence",
+        description: "Hayah and mawt are the definitive pair of created existence. The Quran says both were created (67:2) as instruments of the test. Understanding hayah requires understanding mawt as its natural pair and ultimate context: this life is defined partly by its ending, and what follows death is more Life than this life is.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: "Pursue the life of the heart, not only the life of the body", arabic: "إِيمَان", arabicTranslit: "īmān", description: "The Quran's most transformative claim about life is that the heart can be alive or dead — and this spiritual aliveness is more important than biological life. The practices that give life to the heart: recitation of the Quran ('We have sent down the Quran as a healing'), dhikr (remembrance — 'in the remembrance of Allah do hearts find rest'), salah (the direct encounter with the Living). Pursuing the life of the heart is the primary investment that this life allows." },
+        { number: 2, title: "Hold this life's pleasures with an open hand", arabic: "زُهْد", arabicTranslit: "zuhd", description: "Zuhd (ascetic detachment) does not mean refusing the pleasures of this life — the Quran says 'seek your share of this world' (28:77). It means holding them with an open hand rather than a clenched fist: enjoying them without being controlled by them, possessing them without being possessed by them. The one who understands that al-hayah al-dunya is lahw and la'ib does not stop living in this world — they live in it lightly, with their weight on what is permanent." },
+      ],
+      stations: [
+        { name: "Al-Hayah al-Dunya — the near life", description: "Amusement and play — real, but temporary. The Quran gives the image of rain that produces vegetation that flourishes briefly then dries (57:20). This life is not condemned; it is accurately described. The vegetation is real and beautiful while it lasts. The problem is mistaking it for the permanent." },
+        { name: "Hayat al-Qalb — the life of the heart", description: "The spiritual life that iman and Quran give to the inner being. This is the deeper life — the one the Quran gives by guidance, and the one the heart loses when it turns away. The spiritually alive heart sees clearly, moves with direction, and is oriented toward the Real. The spiritually dead heart stumbles in darkness." },
+        { name: "Al-Hayah al-Akhirah — the life to come", description: "The 'true life' (al-hayawan — the intensified form of hayah). Not just continuation but escalation — what the Quran describes in the imagery of the eternal garden, the rivers of paradise, the companionship of the prophets and the righteous and the martyrs. Al-hayah al-akhirah is the destination toward which al-hayah al-dunya was always pointing." },
+      ],
+      questions: [
+        { question: "Is this world evil in the Quran's view?", answer: "No — the Quran does not condemn the world (dunya) as evil. It is described as 'amusement and play' — not as corruption or sin. The Quran commands believers to seek their share of this world (28:77), to eat the good things provided (2:168), to work for the affairs of this world ('and do not neglect your share of the dunya'). The problem is not the world but the mistaken identification of it as the final destination. Loving the dunya as the end-point is the error; enjoying it as the road is not." },
+        { question: "What makes a human life 'alive' in the Quranic sense?", answer: "The Quran's clearest answer is in 6:122: a heart that was dead and was given life through divine guidance, and then has light to walk with among people. A life is truly alive in the Quranic sense when it is oriented toward the Real, when the heart's light comes from divine guidance, when the person's actions are informed by taqwa. A biological life that is spiritually dead is, from the Quranic perspective, a life that is missing its most essential dimension. The inverse — a biological life nearing its end but spiritually vibrant — is, in the Quranic framework, a fully lived life." },
+      ],
+    },
+    scholarsSaid: [
+      { scholar: "Ibn al-Qayyim al-Jawziyya", source: "Miftah Dar al-Sa'adah", text: "Know that life has two aspects: the life of the body, which is shared with the animals, and the life of the heart, which is the real life — the life of knowledge, love of Allah, and direction toward Him. Whoever has only the first life and not the second is like one who is dead even while they walk and breathe. Whoever has both is the truly living person. And whoever has the second without the first is the martyr who is alive with their Lord even after their body has died." },
+    ],
+    hadith: [
+      { text: "The example of the one who remembers his Lord and the one who does not is like the example of the living and the dead.", source: "Sahih al-Bukhari" },
+    ],
+    acrossTransitions: "The concept of life as having multiple dimensions — biological and spiritual — is found across traditions. In ancient Egyptian religion, the ka (vital force) and ba (soul) distinguished between biological vitality and the personal soul that survived death. In Greek philosophy, Aristotle distinguished between biological life (bios) and the specifically human life of reason and virtue (the life that is 'worth living'). Plato saw true life as the life of the soul in contemplation of the eternal Forms.\n\nThe Islamic distinction between hayah al-dunya and hayah al-akhirah has structural parallels to the Christian distinction between temporal and eternal life (John 10:10 — 'I came that they may have life and have it abundantly' — and the contrast between natural birth and spiritual rebirth in John 3). The specifically Islamic contribution is the vivid Quranic framing of the heart's capacity for spiritual life or death, making the cultivation of hayat al-qalb the central project of this world's life.",
+    goDeeper: [
+      { slug: 'al-ankabut', surahName: 'Al-Ankabut', note: "The worldly life as amusement and play — the next life as the true Life (29:64)" },
+      { slug: 'al-an-am', surahName: "Al-An'am", note: "The dead heart given life and light by Allah — the Quranic image of spiritual aliveness (6:122)" },
+    ],
+    relatedTerms: [
+      { slug: 'mawt',    transliteration: 'Mawt',    term: 'مَوْت'    },
+      { slug: 'barzakh', transliteration: 'Barzakh', term: 'بَرْزَخ' },
+      { slug: 'dunya',   transliteration: 'Dunya',   term: 'دُنْيَا'  },
     ],
     hasFullEntry: true,
   },
