@@ -205,9 +205,9 @@ export const GLOSSARY_TERMS: GlossaryMeta[] = [
   { slug: 'ijaz',            term: 'إِعْجَاز',            transliteration: "I'jaz",           category: 'Study Terms', evocativeLine: "The Quran's inimitability — the challenge that has never been met.",              hasFullEntry: true  },
   { slug: 'asbab-al-nuzul',  term: 'أَسْبَاب ٱلنُّزُول', transliteration: 'Asbab al-Nuzul',  category: 'Study Terms', evocativeLine: 'The occasions of revelation — the moments that gave the verses their first breath.', hasFullEntry: true  },
   { slug: 'balaghah',        term: 'بَلَاغَة',            transliteration: 'Balaghah',        category: 'Study Terms', evocativeLine: "The Quran's rhetoric — why its words land with a force no translation can carry.",  hasFullEntry: true },
-  { slug: 'qiraat',          term: 'قِرَاءَات',           transliteration: "Qira'at",         category: 'Study Terms', evocativeLine: 'The seven readings — different transmissions of the same divine word.',            hasFullEntry: false },
-  { slug: 'makki-madani',    term: 'مَكِّي/مَدَنِي',     transliteration: 'Makki / Madani',   category: 'Study Terms', evocativeLine: 'The two faces of the Quran — revelation in struggle, then revelation in power.',   hasFullEntry: false },
-  { slug: 'maqasid',        term: 'مَقَاصِد',             transliteration: 'Maqasid',         category: 'Study Terms', evocativeLine: 'The higher objectives of the Quran — life, intellect, lineage, wealth, and deen.',  hasFullEntry: false },
+  { slug: 'qiraat',          term: 'قِرَاءَات',           transliteration: "Qira'at",         category: 'Study Terms', evocativeLine: 'The seven readings — different transmissions of the same divine word.',            hasFullEntry: true },
+  { slug: 'makki-madani',    term: 'مَكِّي/مَدَنِي',     transliteration: 'Makki / Madani',   category: 'Study Terms', evocativeLine: 'The two faces of the Quran — revelation in struggle, then revelation in power.',   hasFullEntry: true },
+  { slug: 'maqasid',        term: 'مَقَاصِد',             transliteration: 'Maqasid',         category: 'Study Terms', evocativeLine: 'The higher objectives of the Quran — life, intellect, lineage, wealth, and deen.',  hasFullEntry: true },
 
   // ── Concepts of Existence ────────────────────────────────────────────────────
   { slug: 'nafs',    term: 'نَفْس',    transliteration: 'Nafs',    category: 'Concepts of Existence', evocativeLine: "The self the Quran calls you to master — commanding, blaming, and at peace.",        hasFullEntry: true  },
@@ -221,7 +221,7 @@ export const GLOSSARY_TERMS: GlossaryMeta[] = [
   { slug: 'akhira',  term: 'آخِرَة',   transliteration: 'Akhira',  category: 'Concepts of Existence', evocativeLine: 'The hereafter — the permanent home toward which this life is only a passage.',            hasFullEntry: true },
   { slug: 'ajal',    term: 'أَجَل',    transliteration: 'Ajal',    category: 'Concepts of Existence', evocativeLine: 'The appointed term — the moment of death already written before birth.',                   hasFullEntry: true },
   { slug: 'barakah', term: 'بَرَكَة',  transliteration: 'Barakah', category: 'Concepts of Existence', evocativeLine: 'Divine blessing that multiplies — the invisible increase Allah places in what He wills.',  hasFullEntry: true },
-  { slug: 'yawm',    term: 'يَوْم',    transliteration: 'Yawm',    category: 'Concepts of Existence', evocativeLine: 'The Day — used over 400 times in the Quran, pointing always toward the Day that ends all days.', hasFullEntry: false },
+  { slug: 'yawm',    term: 'يَوْم',    transliteration: 'Yawm',    category: 'Concepts of Existence', evocativeLine: 'The Day — used over 400 times in the Quran, pointing always toward the Day that ends all days.', hasFullEntry: true },
   { slug: 'layl',    term: 'لَيْل',    transliteration: 'Layl',    category: 'Concepts of Existence', evocativeLine: 'Night — the time of standing, of secrets, of proximity, of divine descent.',               hasFullEntry: false },
   { slug: 'mawt',    term: 'مَوْت',    transliteration: 'Mawt',    category: 'Concepts of Existence', evocativeLine: "Death — the destroyer of pleasures, the great reorienter, the door to what matters.",      hasFullEntry: false },
   { slug: 'hayah',   term: 'حَيَاة',   transliteration: 'Hayah',   category: 'Concepts of Existence', evocativeLine: 'Life — but the Quran speaks of many: this one, the life of the heart, and the life to come.', hasFullEntry: false },
@@ -9774,6 +9774,309 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
     relatedTerms: [
       { slug: 'ibrahim',  transliteration: 'Ibrahim', term: 'إِبْرَاهِيم' },
       { slug: 'qawm-nuh', transliteration: "Qawm Nuh", term: "قَوْم نُوح"  },
+    ],
+    hasFullEntry: true,
+  },
+
+  'balaghah': {
+    slug: 'balaghah',
+    term: 'بَلَاغَة',
+    transliteration: 'Balāghah',
+    pronunciation: "ba-LAA-gha",
+    category: 'Study Terms',
+    evocativeLine: "The science of why Quranic words land with a force no translation can carry.",
+    summary: "Balaghah — Arabic rhetoric — is the academic discipline that studies why and how language achieves its effects on the listener or reader. In the context of Quranic study, balaghah is the primary tool for understanding the Quran's literary inimitability (i'jaz): why can't anyone produce anything like it? The answer of the classical scholars was not that the Quran contains unknown information, but that it speaks in a way that surpasses all human speech — and balaghah is the science that maps exactly how.\n\nThe discipline of balaghah is traditionally divided into three branches: 'ilm al-ma'ani (the science of meanings — how grammatical structures convey meaning beyond their literal content), 'ilm al-bayan (the science of expression — metaphor, simile, metonymy, and other figurative devices), and 'ilm al-badi' (the science of rhetorical embellishment — the structures that give speech its particular beauty and force). A student of Quranic balaghah learns to notice what a translation almost always loses: the choice of one word over a synonym, the compression of ten meanings into two words, the rhythm that the Arabic carries and the translation doesn't, the way a negation or a conditional or a verb form shifts the theological weight of a statement.\n\nThe Quran itself issues the challenge of balaghah: 'If you are in doubt about what We revealed to Our servant, then bring one surah like it' (2:23). The challenge (al-tahaddi) is not merely to match the Quran's content but to match its form — its balaghah. Fourteen centuries of Arabic poetry and prose have passed since this challenge was issued, and the challenge remains unmet.",
+    root: {
+      letters: 'ب ل غ',
+      transliteration: 'b-l-gh',
+      meaning: 'to reach, to arrive at, to attain, to be eloquent',
+      elaboration: "The root b-l-gh gives: balagha (he reached/arrived), tabligh (conveying a message — reaching the addressee), mubaligh (exaggerator — one who reaches beyond), and balaghah (eloquence — speech that reaches its destination, achieves its effect). The connection between 'reaching' and 'eloquence' is precise: eloquent speech reaches the heart and mind of the listener; it achieves what it set out to do. Speech that does not reach is not eloquent, regardless of how sophisticated it is technically.",
+    },
+    rootForms: [
+      { arabic: 'بَلَاغَة', transliteration: 'balāgha', type: 'Noun', meaning: 'Eloquence, rhetoric; the quality of effective speech', approxCount: 3, verified: false },
+      { arabic: 'بَلَّغَ', transliteration: 'ballagha', type: 'Verb', meaning: 'To convey, to deliver (a message)', approxCount: 6, verified: false },
+      { arabic: 'تَبْلِيغ', transliteration: 'tablīgh', type: 'Verbal noun', meaning: 'Conveyance, delivery of a message', approxCount: 5, verified: false },
+    ],
+    occurrenceCount: 3,
+    occurrenceNote: "The word balaghah in its technical sense (rhetoric/eloquence) appears 3 times in the Quran. The root b-l-gh appears many more times in the meanings of reaching and conveying. The technical discipline of balaghah as a Quranic science was developed in the 3rd-5th centuries of Islam, with Al-Jurjani (d. 471 AH) and his Dala'il al-I'jaz and Asrar al-Balaghah being the foundational texts.",
+    keyAyahs: [
+      {
+        ref: "Al-Baqarah 2:23",
+        arabic: "وَإِن كُنتُمْ فِي رَيْبٍ مِّمَّا نَزَّلْنَا عَلَىٰ عَبْدِنَا فَأْتُوا بِسُورَةٍ مِّن مِّثْلِهِ",
+        translation: "And if you are in doubt about what We have revealed to Our servant, then produce a surah like it.",
+        note: "The challenge of the Quran is literary: produce one surah comparable to it. This is the tahaddi (the challenge) that grounds the doctrine of i'jaz al-Quran (the Quran's inimitability). Classical scholars noted that the challenge was progressive — first to produce something like the whole Quran (17:88), then ten surahs (11:13), then one surah (2:23). The reduction to one surah makes the challenge as accessible as possible — and still, in fourteen centuries, it has not been met.",
+      },
+      {
+        ref: "Ibrahim 14:4",
+        arabic: "وَمَا أَرْسَلْنَا مِن رَّسُولٍ إِلَّا بِلِسَانِ قَوْمِهِ لِيُبَيِّنَ لَهُمْ",
+        translation: "And We did not send any messenger except in the language of his people, so that he might clarify for them.",
+        note: "The divine principle behind choosing Arabic as the language of the final revelation: clarity (tibyan) requires the language of the recipients. The choice of Arabic — one of the most rhetorically rich languages in human history — was not incidental. The Quran's balaghah is not portable into another language without loss; the specific power of the Arabic is part of the divine selection. Every translation of the Quran is an interpretation, not the Quran itself.",
+      },
+    ],
+    semanticField: [
+      {
+        slug: 'qiraat',
+        arabic: 'قِرَاءَات',
+        transliteration: "Qira'at",
+        relationship: 'parallels',
+        relationshipLabel: "Different sciences of the same divine text",
+        description: "Balaghah studies how the text achieves its effects; qira'at studies how the text is recited and transmitted. Both are sciences of the Quranic text — balaghah from the perspective of meaning and rhetoric, qira'at from the perspective of phonology and transmission. Together they represent the full scope of classical Quranic textual study.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: "Learn the basics of Arabic to taste what translations can never give", arabic: "عِلْم", arabicTranslit: "ʿilm", description: "Balaghah is, ultimately, an Arabic-language discipline. While the principles can be explained in any language, the experience of Quranic balaghah requires enough Arabic to feel the difference between one word and its synonym, to hear the rhythm of a sentence, to notice what a negation does to the meaning. Even basic Arabic literacy opens dimensions of the Quran that no translation can reach." },
+        { number: 2, title: "Read tafsir that addresses the balaghah of verses", arabic: "تَفْسِير", arabicTranslit: "tafsīr", description: "Not all tafsir engages with balaghah equally. The works of Al-Zamakhshari (Al-Kashshaf), Abu al-Su'ud (Irshad al-'Aql al-Salim), and Ibn Ashur (Al-Tahrir wa-l-Tanwir) are particularly strong on rhetorical analysis. Modern accessible works in English that address Quranic balaghah include the works of Mustafa Khattab and the tafsir commentaries that include literary analysis. Reading these alongside a standard translation dramatically expands the encounter with the Quranic text." },
+      ],
+      stations: [
+        { name: "Al-Ma'ani — the science of what grammar means", description: "The same sentence structure in Arabic can communicate different things depending on what is emphasized, what is placed first, what is made indefinite vs. definite. Al-ma'ani is the science of reading these grammatical choices as meaning-choices. In the Quran, the word order of almost every ayah carries rhetorical weight that its translation order usually does not." },
+        { name: "Al-Bayan — the science of metaphor and image", description: "The Quran is dense with metaphor (isti'arah), simile (tashbih), and metonymy (kinayah). Al-bayan is the science that identifies and analyzes these figures. When the Quran says the hypocrites have 'a disease in their hearts' (2:10), this is not literal — it is a metaphor of spiritual sickness analyzed by al-bayan. When it says the deaf, dumb, and blind (2:18) in the context of those who will not receive guidance, it is metonymy. Al-bayan unlocks the imagistic world of the Quran." },
+        { name: "Al-Badi' — the science of rhetorical beauty", description: "The devices that make Arabic speech beautiful: jinas (wordplay between similar-sounding words), tawriyah (double meaning), muwazanah (balance between clauses), iqtibas (quotation), and many others. The Quran uses these devices with a sophistication that Arabic rhetoricians recognized as surpassing all human speech — and it was this recognition that produced the doctrine of i'jaz." },
+      ],
+      questions: [
+        { question: "What is i'jaz al-Quran?", answer: "I'jaz (inimitability) refers to the Quran's surpassing of all human speech in a way that cannot be imitated. The classical scholars identified multiple dimensions of Quranic i'jaz: literary (the balaghah argument — its rhetorical perfection cannot be matched), informational (historical and scientific knowledge beyond the 7th century), psychological (its effect on human hearts across cultures and centuries), and legislative (the comprehensiveness of its ethical and legal framework). The most debated and most central is the literary/balaghah i'jaz: the Quran's Arabic is qualitatively different from all human Arabic, and the fourteen-century-old challenge to produce something comparable remains unanswered." },
+        { question: "Do Arabic-speaking Muslims have an advantage in understanding the Quran?", answer: "Native Arabic speakers have an advantage in accessing the sound and rhythm of the Quran and in noticing basic rhetorical features. However, classical Quranic Arabic is not the same as modern spoken Arabic, and many native speakers also require study to understand the Quran's specific vocabulary, grammatical structures, and rhetorical devices. Non-Arabic-speaking Muslims who study classical Arabic systematically can achieve deep engagement with Quranic balaghah — the discipline of balaghah was developed partly to make these features explicit for students who needed formal instruction." },
+      ],
+    },
+    scholarsSaid: [
+      { scholar: "Abd al-Qahir al-Jurjani", source: "Dala'il al-I'jaz (Evidences of Inimitability)", text: "The Quran's i'jaz does not consist in using unusual words or remote meanings. It consists in the arrangement (nizam) — the way its words are ordered, connected, and placed in relation to each other. Every word in its place achieves what no other word could have achieved in that place; every structure in its position conveys what no other structure could convey. This is what the Arabs who heard it recognized and what they could not replicate." },
+    ],
+    hadith: [],
+    acrossTransitions: "The discipline of rhetoric — the systematic study of effective speech — has roots across ancient cultures. Greek rhetoric (Aristotle's Rhetoric, Plato's Phaedrus) analyzed the components of persuasive speech: logos (argument), ethos (character), and pathos (emotion). Latin rhetoric (Cicero, Quintilian) developed these into detailed practical systems. Arabic balaghah developed independently, with roots in pre-Islamic literary culture (the Bedouin tradition of eloquent speech was highly valued) and was systematized by Muslim scholars in the 3rd-5th Islamic centuries.\n\nThe specific application of balaghah to the Quran — the doctrine of i'jaz — has no direct parallel in other traditions, because the claim is unique: that a specific text surpasses all human speech not in historical information but in the quality of its literary form. This claim drove enormous scholarly investment in Quranic linguistic analysis, producing works that remain foundational to Arabic literary studies to this day.",
+    goDeeper: [
+      { slug: 'al-baqarah', surahName: 'Al-Baqarah', note: "The tahaddi — the literary challenge: 'bring one surah like it' (2:23) — the foundational statement of Quranic i'jaz" },
+    ],
+    relatedTerms: [
+      { slug: 'qiraat',     transliteration: "Qira'at",      term: 'قِرَاءَات'         },
+      { slug: 'makki-madani', transliteration: 'Makki / Madani', term: 'مَكِّي/مَدَنِي' },
+    ],
+    hasFullEntry: true,
+  },
+
+  'qiraat': {
+    slug: 'qiraat',
+    term: 'قِرَاءَات',
+    transliteration: "Qirā'āt",
+    pronunciation: "qi-ra-AAT",
+    category: 'Study Terms',
+    evocativeLine: "The seven readings — different authentic transmissions of the same divine word.",
+    summary: "Qira'at — the plural of qira'ah (reading) — refers to the different authorized modes of reciting the Quran that were transmitted from the Prophet ﷺ through unbroken chains of narration. The most well-known framework identifies seven canonical readings (al-qira'at al-sab'), each associated with a famous reciter (imam) and transmitted through two primary narrators (rawi, plural ruwat): hence the notation 'Hafs an Asim' (Hafs narrating from Asim) — which is the reading most widely used in the Muslim world today, including all Qurans printed in Saudi Arabia.\n\nThe qira'at are not errors or variations in the Quran — they are the authorized diversity of recitation that the Prophet taught and that was preserved through the scholarly tradition. The differences between qira'at are typically in vowelization (how a word is pronounced), not in the consonantal text. Some differences extend to word choice or grammatical form, all within parameters that the classical scholars established as authentic transmission from prophetic practice. The Quranic consonantal skeleton (rasm), established in the time of Uthman ibn Affan, is the same across all qira'at; the variations are in how that skeleton is vocalized and read.\n\nThe spiritual significance of the qira'at is that the same divine word can carry additional dimensions of meaning through different authorized readings. When a word can be read in two different but both authentic ways, both readings are divinely intended — they are not contradictions but complementary facets of the Quranic diamond. This is the doctrine of the Ahruf (the Seven Letters/Modes) mentioned in hadith: 'This Quran was revealed in seven ahruf — all of them are sufficient and healing.' The scholarly consensus holds that the seven qira'at are the practical form of the seven ahruf in transmission.",
+    root: {
+      letters: 'ق ر أ',
+      transliteration: 'q-r-',
+      meaning: "to read, to recite, to gather/collect (original meaning of reading as gathering meaning)",
+      elaboration: "The root q-r-' gives: qara'a (he read/recited), Quran (the recitation — the name of the Book derives from this root), qira'ah (a reading, an act of recitation), iqra' (the command: read/recite — the first word of revelation). The connection between 'reading' and 'gathering' in the original Arabic is theologically rich: the Quran is the gathering of divine speech; to read it is to gather its meaning; the qira'at are the authorized modes of that gathering.",
+    },
+    rootForms: [
+      { arabic: 'قِرَاءَة', transliteration: "qirā'a", type: 'Noun', meaning: 'A reading, a mode of recitation', approxCount: 1, verified: false },
+      { arabic: 'قِرَاءَات', transliteration: "qirā'āt", type: 'Noun (plural)', meaning: 'The canonical readings/recitations of the Quran', approxCount: 0, verified: false },
+      { arabic: 'قَرَأَ', transliteration: "qara'a", type: 'Verb', meaning: 'He read, he recited', approxCount: 17, verified: false },
+    ],
+    occurrenceCount: 1,
+    occurrenceNote: "The term qira'at as a technical discipline of Quranic study does not appear in the Quran itself (it is a scholarly category). The root q-r-' appears throughout the Quran, including in the first revelation (96:1 — iqra') and in numerous references to recitation. The doctrine of the seven ahruf (modes) is established through hadith rather than Quranic verse.",
+    keyAyahs: [
+      {
+        ref: "Al-Qiyamah 75:17-18",
+        arabic: "إِنَّ عَلَيْنَا جَمْعَهُ وَقُرْآنَهُ فَإِذَا قَرَأْنَاهُ فَاتَّبِعْ قُرْآنَهُ",
+        translation: "Indeed, upon Us is its collection and its recitation. So when We have recited it, follow its recitation.",
+        note: "Allah takes direct responsibility for the preservation and recitation of the Quran — both its gathering (jam') and its recitation (qur'an). The instruction to follow the recitation when it is recited is the divine authorization for the transmission-based nature of Quranic learning: it is received through recitation and transmitted through recitation. The qira'at tradition is the institutionalization of this: the authorized modes of recitation that were transmitted from the Prophet's own recitation by chains of reliable scholars.",
+      },
+      {
+        ref: "Al-Hijr 15:9",
+        arabic: "إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ لَحَافِظُونَ",
+        translation: "Indeed, it is We who sent down the Reminder, and indeed, We will be its guardian.",
+        note: "The divine guarantee of Quranic preservation. The qira'at are part of this preservation: not only the consonantal text but the mode of recitation has been preserved through unbroken chains of transmission from the Prophet to today. No other book in human history has been preserved with this degree of transmission-chain documentation and oral-traditional continuity.",
+      },
+    ],
+    semanticField: [
+      {
+        slug: 'balaghah',
+        arabic: 'بَلَاغَة',
+        transliteration: 'Balaghah',
+        relationship: 'parallels',
+        relationshipLabel: "Parallel sciences of the Quranic text",
+        description: "Balaghah studies the rhetorical dimensions of the Quranic text; qira'at studies its authentic modes of recitation. Both are textual sciences that deepen encounter with the same divine word. A student who understands both the rhetorical beauty (balaghah) and the authentic recitation tradition (qira'at) has a richer access to the Quran than either discipline alone provides.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: "Learn to recite according to a recognized chain", arabic: "إِسْنَاد", arabicTranslit: "isnād", description: "The qira'at tradition is chain-based: the authorized recitation must be traced back through identifiable, verified teachers to the Prophet. Learning Quran from a qualified teacher with a connected chain (muttasil isnad) is the method endorsed by the tradition. The student who learns from recorded audio alone lacks the living chain that is part of the qira'at discipline. Finding a certified reciter and receiving ijazah (authorization) in a recognized reading is the classical path." },
+        { number: 2, title: "When encountering different readings of a verse, understand both", arabic: "تَعَدُّد", arabicTranslit: "taʿaddud", description: "When a verse has two authorized readings that produce different meanings, both meanings are authentic Quranic teaching. For example, Surah Al-Fatihah 1:4 — 'Maliki' (Master of) vs. 'Miliki' (Owner of) the Day of Judgment — are both authorized readings, both meaning Allah's total ownership and authority. Learning to hold both readings enriches rather than confuses the encounter with the text." },
+      ],
+      stations: [
+        { name: "The Seven Canonical Readings", description: "The seven readings (qira'at sab') are: Nafi', Ibn Kathir al-Makki, Abu Amr al-Basri, Ibn Amir al-Shami, Asim al-Kufi, Hamzah al-Kufi, and al-Kisa'i al-Kufi. Each has two primary narrators, giving fourteen commonly cited 'riwayat' (narrations). Hafs an Asim is the most widely transmitted in the Muslim world today; Warsh an Nafi' is used in North and West Africa; other readings are preserved by specialist scholars." },
+        { name: "The Ahruf and the Qira'at", description: "The hadith mentions seven ahruf (modes/letters/dialects). The relationship between the seven ahruf and the seven qira'at is one of Islamic scholarship's most debated questions. The dominant position among scholars of the qira'at discipline: the seven qira'at are the practical transmission of the seven ahruf within the Uthmanic rasm (the consonantal text of the standardized mushaf). Whatever the exact relationship, both point to the same divine permission for authorized recitational diversity." },
+      ],
+      questions: [
+        { question: "How can there be different readings of the same Quran?", answer: "The Quran was revealed with authorized variation in recitation — the hadith of the seven ahruf establishes this. The Prophet taught different companions different modes of recitation, all authorized by divine revelation. When Umar ibn al-Khattab (RA) heard Hisham ibn Hakim reciting a surah differently from how he had learned it, he brought the matter to the Prophet, who confirmed both readings as authorized. The qira'at are not errors or variant manuscripts — they are the preserved diversity of the Prophet's own authorized teaching." },
+        { question: "Which reading is the 'correct' one?", answer: "All seven canonical readings are equally correct — each is an authorized transmission from the Prophet. The question of which to use for recitation is a matter of regional tradition and scholarly recommendation, not a question of which is authentic. Hafs an Asim has become the most widespread globally; scholars of the qira'at discipline typically have mastery of multiple readings and can offer nuanced comparisons of how different readings illuminate different aspects of the Quranic text." },
+      ],
+    },
+    scholarsSaid: [
+      { scholar: "Ibn al-Jazari", source: "Al-Nashr fi al-Qira'at al-Ashr (Transmission of the Ten Readings)", text: "Know that the qira'ah is established through two conditions: agreement with the Arabic language in any acceptable form, and agreement with the Uthmanic rasm in any way, even if it is a possible way. If both conditions are met and the chain of transmission is sound back to one of the Imams, it is a correct reading that cannot be rejected and must not be denied. If one condition is missing, it is considered weak or irregular or fabricated." },
+    ],
+    hadith: [
+      { text: "This Quran was revealed in seven ahruf — all of them are sufficient and healing. Read whichever is easy for you.", source: "Sahih al-Bukhari and Muslim" },
+    ],
+    acrossTransitions: "The phenomenon of authorized textual variation in transmission is unique to the Quranic tradition in its scope and systematization. In the Hebrew Bible, the Masoretic text (the standard Jewish scriptural text) was itself a harmonization of earlier textual variants, documented in the apparatus of Masoretic notes. The Dead Sea Scrolls revealed a wider range of pre-Masoretic textual variation than previously recognized. Christian textual criticism similarly acknowledges variation in New Testament manuscripts, using principles of textual criticism to evaluate which readings best represent the original.\n\nThe Islamic tradition's approach is distinctive: it does not engage in textual criticism to determine which reading is 'original' — all seven canonical readings are held to be equally original, equally authentic transmissions from the Prophet. The chain of transmission (isnad) replaces manuscript evidence as the criterion of authenticity. This reflects the Islamic tradition's profound commitment to oral transmission: the Quran is primarily a recited text, and its preservation is primarily through living chains of reciters.",
+    goDeeper: [
+      { slug: 'al-hijr', surahName: 'Al-Hijr', note: "The divine guarantee of Quranic preservation: 'Indeed, We will be its guardian' (15:9)" },
+      { slug: 'al-qiyamah', surahName: 'Al-Qiyamah', note: "Allah's direct responsibility for the collection and recitation of the Quran (75:17-18)" },
+    ],
+    relatedTerms: [
+      { slug: 'balaghah',    transliteration: 'Balaghah',    term: 'بَلَاغَة'   },
+      { slug: 'makki-madani', transliteration: 'Makki / Madani', term: 'مَكِّي/مَدَنِي' },
+    ],
+    hasFullEntry: true,
+  },
+
+  'makki-madani': {
+    slug: 'makki-madani',
+    term: 'مَكِّي/مَدَنِي',
+    transliteration: 'Makkī / Madanī',
+    pronunciation: "MAK-kee / ma-DA-nee",
+    category: 'Study Terms',
+    evocativeLine: "The two faces of revelation — one forged in persecution, one given in power.",
+    summary: "Makki and Madani are the fundamental categories of Quranic scholarship that classify each surah and verse according to the period and context of its revelation. Makki refers to what was revealed before the Hijra (migration from Mecca to Medina in 622 CE), and Madani refers to what was revealed after the Hijra. This is not merely a historical classification — it is a theological and hermeneutical framework that shapes how scholars understand the Quran's development and the relationship between different types of revelation.\n\nThe Makki period (approximately 13 years) produced surahs characterized by: the centrality of tawhid (the Oneness of Allah), vivid descriptions of the Day of Judgment, short powerful surahs, direct address to the mushrikun (polytheists), the formation of the believing character, and the comfort of the persecuted minority. The Madani period (approximately 10 years) produced surahs characterized by: detailed legislation (prayer, fasting, zakah, marriage, inheritance, jihad), longer surahs, address to 'those who believe' with legal obligations, engagement with Ahl al-Kitab (People of the Book), and the building of the Muslim community as a political and social entity.\n\nUnderstanding whether a passage is Makki or Madani helps the scholar understand its context, its audience, its purpose, and its relationship to other passages. It also informs the principle of naskh (abrogation): later (generally Madani) revelations can modify or supersede earlier (generally Makki) ones in certain legal matters. The Makki/Madani framework is thus the chronological backbone of Quranic exegesis.",
+    root: {
+      letters: 'م ك ك / م د ن',
+      transliteration: "m-k-k / m-d-n",
+      meaning: 'Makki — of or pertaining to Mecca; Madani — of or pertaining to Medina',
+      elaboration: "Makkah (Mecca) is the city of the Kaabah — the primal sanctuary, the city of Ibrahim, the city of the Prophet's birth and his first 53 years. Madinah (Medina) — from madina (city, civilization) — is the city the Prophet migrated to, the site of the first Islamic state, and the city of his burial. The names carry their histories with them: Makki revelation carries the atmosphere of minority, persecution, and the foundational call to faith; Madani revelation carries the atmosphere of community-building, governance, and legal structure.",
+    },
+    rootForms: [
+      { arabic: 'مَكِّي', transliteration: 'makkī', type: 'Adjective', meaning: 'Meccan — of Mecca, pertaining to the Meccan period', approxCount: 0, verified: false },
+      { arabic: 'مَدَنِي', transliteration: 'madanī', type: 'Adjective', meaning: 'Medinan — of Medina, pertaining to the Medinan period', approxCount: 0, verified: false },
+    ],
+    occurrenceCount: 0,
+    occurrenceNote: "Makki and Madani as technical terms do not appear in the Quran — they are classifications developed by the scholars of the sciences of the Quran ('ulum al-Quran). The classifications are based on narrations from the Companions and on analysis of the content, style, and legal character of the surahs. The 114 surahs of the Quran are distributed as approximately 86 Makki and 28 Madani, though scholars have some disagreement about the classification of specific surahs.",
+    keyAyahs: [
+      {
+        ref: "Al-Alaq 96:1-5 (First Makki revelation)",
+        arabic: "اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ خَلَقَ الْإِنسَانَ مِنْ عَلَقٍ اقْرَأْ وَرَبُّكَ الْأَكْرَمُ الَّذِي عَلَّمَ بِالْقَلَمِ عَلَّمَ الْإِنسَانَ مَا لَمْ يَعْلَمْ",
+        translation: "Read in the name of your Lord who created. Created man from a clinging substance. Read, and your Lord is the Most Generous — Who taught by the pen, taught man what he did not know.",
+        note: "The first words of Makki revelation: a command to read (iqra'), a theological foundation (Allah the Creator), an anthropological statement (man from a clinging substance), and an epistemological claim (Allah teaches what was unknown). No legislation, no community rules, no specific obligations — only the foundational orientation of the human being toward its Creator. This is characteristically Makki: the first and most fundamental things.",
+      },
+      {
+        ref: "Al-Baqarah 2:183 (Early Madani legislation)",
+        arabic: "يَا أَيُّهَا الَّذِينَ آمَنُوا كُتِبَ عَلَيْكُمُ الصِّيَامُ كَمَا كُتِبَ عَلَى الَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ",
+        translation: "O you who have believed, fasting has been decreed upon you as it was decreed upon those before you — that you may become pious.",
+        note: "Characteristically Madani: the address is 'O you who have believed' (ya ayyuha alladhina amanu) — addressing an existing community of faith rather than calling them to belief. The content is legislative: the obligation of fasting. The form is communal: 'upon you' (alaykum) — a legal obligation imposed on the collective. Connecting the new legislation to prior prophetic traditions ('as it was decreed upon those before you') situates Islam in the line of Abraham, Moses, and others. This is Madani revelation doing what Madani revelation does.",
+      },
+    ],
+    semanticField: [
+      {
+        slug: 'maqasid',
+        arabic: 'مَقَاصِد',
+        transliteration: 'Maqasid',
+        relationship: 'deepens',
+        relationshipLabel: "The Makki/Madani distinction reveals the maqasid in action",
+        description: "The maqasid al-Shari'ah (higher objectives of Islamic law) are protected and developed primarily through Madani legislation. The Makki period established the foundation (tawhid, moral character) and the Madani period built the structure (laws protecting life, intellect, lineage, wealth, and religion). Understanding the Makki/Madani framework helps one see how the maqasid developed historically and legislatively.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: "Read Makki surahs for foundation; Madani for community", arabic: "تَدَبُّر", arabicTranslit: "tadabbur", description: "A helpful approach to Quranic reading: when you need to rebuild your relationship with Allah — tawhid, tawbah, ihsan — go to the Makki surahs. Their rhythm, their imagery of the Day of Judgment, their powerful calls to faith, their comfort for the persecuted — these are the texts that formed the early Muslim character. When you need to understand obligations, community life, and legal frameworks — go to the Madani surahs. The distinction is not hierarchy; both are equally the word of Allah. It is a tool for intentional reading." },
+        { number: 2, title: "Notice the marks of each type as you read", arabic: "مُلَاحَظَة", arabicTranslit: "mulāḥaẓa", description: "Makki markers: short surahs, frequent oaths (by the sun, the moon, the morning, etc.), address to 'O mankind' or 'O people,' vivid eschatological imagery, arguments against shirk. Madani markers: longer surahs, address to 'O you who believe,' detailed legal provisions, interactions with Jewish and Christian communities, references to the hypocrites (munafiqun) — a category that only emerged once there was a community to infiltrate. Noticing these markers as you read develops your Quranic literacy." },
+      ],
+      stations: [
+        { name: "The Makki period: faith under persecution", description: "The 86 Makki surahs were revealed to a community of 40 to a few hundred believers facing the wealth, power, and violence of Quraysh. The revelation of this period is calibrated to the needs of a persecuted minority: building unshakeable faith, providing comfort, calling people to consider the signs of creation, warning of the Last Day, and making tawhid the indestructible foundation of the believing identity." },
+        { name: "The Madani period: faith building civilization", description: "The 28 Madani surahs were revealed to a growing community that had its own city, its own governance, its own army, its own commerce. The revelation of this period is calibrated to community-building: marriage and divorce law, inheritance, trade ethics, the rules of warfare, the treatment of non-Muslims, the definition of the Muslim political community. The same prophetic mission that called individuals to faith now shaped a civilization." },
+      ],
+      questions: [
+        { question: "Are there Makki verses inside Madani surahs and vice versa?", answer: "Yes — classical scholars identified numerous cases where individual verses or small sections within a surah have a different classification from the surah's overall classification. For example, Surah Al-Baqarah (Madani) contains ayah 281 which some scholars classify as the last verse revealed — and there is a tradition that it was revealed during the Farewell Pilgrimage, years after the Hijra. Within Al-A'raf (Makki), verse 163 and following are sometimes classified as Madani insertions. The detailed classification of individual ayahs (as opposed to surahs) is one of the most complex topics in 'ulum al-Quran." },
+        { question: "How do scholars determine whether something is Makki or Madani?", answer: "Three primary methods: (1) Textual narration — traditions from companions saying 'this was revealed in Mecca/Medina,' (2) Contextual analysis — the occasion of revelation (asbab al-nuzul) and the historical events referenced, (3) Content analysis — the presence of Makki or Madani markers (see above). Where narrations are absent or unclear, scholars rely on the latter two methods and sometimes disagree. The classification is not in the Quran itself but was recorded by the companions and systematized by later scholars." },
+      ],
+    },
+    scholarsSaid: [
+      { scholar: "Al-Suyuti", source: "Al-Itqan fi Ulum al-Quran", text: "The scholars have identified three definitions of Makki and Madani: (1) By time — Makki is what was revealed before the Hijra, Madani after; (2) By place — Makki is what was revealed in Mecca, Madani in Medina; (3) By addressee — Makki addresses the people of Mecca, Madani addresses the people of Medina. The first definition is the most widely adopted because it is most consistent and most theologically meaningful. The distinction by time is what determines the legislative development of the revelation." },
+    ],
+    hadith: [],
+    acrossTransitions: "The concept of a text developing in distinct historical phases and the scholarly discipline of tracking that development is found in other traditions. Biblical scholars have developed detailed historical-critical frameworks for tracking the different documentary sources (J, E, D, P in the Pentateuch) and editorial periods of the Hebrew Bible. New Testament scholars distinguish between Q source, Markan priority, and later Pauline letters to track the development of early Christian writing.\n\nThe Islamic tradition's approach is distinctive in that it affirms the unity of the revelation throughout — the Makki and Madani surahs are both equally the word of Allah, not products of different human authors or sources. The development is understood as divine pedagogy: Allah revealed what was needed for each phase of the prophetic mission, building a complete and coherent message across 23 years. The Makki/Madani framework is thus a tool for understanding divine wisdom in the unfolding of revelation, not a critical framework for identifying human authorship.",
+    goDeeper: [
+      { slug: 'al-alaq', surahName: "Al-'Alaq", note: "The first Makki revelation — 'Read in the name of your Lord who created'" },
+      { slug: 'al-baqarah', surahName: 'Al-Baqarah', note: "The longest Madani surah — the legislative heart of the Quran" },
+    ],
+    relatedTerms: [
+      { slug: 'balaghah', transliteration: 'Balaghah', term: 'بَلَاغَة' },
+      { slug: 'maqasid',  transliteration: 'Maqasid',  term: 'مَقَاصِد' },
+    ],
+    hasFullEntry: true,
+  },
+
+  'maqasid': {
+    slug: 'maqasid',
+    term: 'مَقَاصِد',
+    transliteration: 'Maqāṣid',
+    pronunciation: "ma-QAA-sid",
+    category: 'Study Terms',
+    evocativeLine: "The higher objectives of Islamic law — protecting what cannot be sacrificed.",
+    summary: "Maqasid al-Shari'ah — the higher objectives of Islamic law — is the jurisprudential framework that identifies the fundamental goods that Islamic legislation exists to protect and promote. The classical formulation, systematized by Al-Ghazali and expanded by Al-Shatibi, identifies five universal necessities (al-daruriyyat al-khams): the preservation of deen (religion/faith), nafs (life), aql (intellect/reason), nasl (lineage/progeny/family), and mal (wealth/property). These five are held to be the foundations that every divinely revealed legal system has sought to protect.\n\nThe maqasid framework transforms Islamic legal reasoning from rule-following to purpose-understanding. Rather than asking only 'what does the text say?' the jurist trained in maqasid asks: 'what is this law trying to protect?' This allows Islamic legal reasoning to respond to new situations where no explicit text exists, by asking which ruling best serves the protection of the five objectives. It is the Islamic jurisprudence's most powerful tool for engaging with modern circumstances while maintaining fidelity to divine intent.\n\nThe Quran never uses the term maqasid, but the framework is derived from the Quran's own logic. When Allah explains why intoxicants are forbidden — 'Satan only wants to cause between you enmity and hatred through intoxicants and gambling and to avert you from the remembrance of Allah and from prayer' (5:91) — He gives reasons that correspond to the maqasid: enmity (nasl and nafs), forgetting Allah (deen), and prayer (deen). The maqasid framework makes these implicit rationales explicit and systematic.",
+    root: {
+      letters: 'ق ص د',
+      transliteration: 'q-s-d',
+      meaning: 'to intend, to aim at, to direct oneself toward, to be moderate',
+      elaboration: "The root q-s-d gives: qasada (he intended, he directed himself toward), maqsad (intention, aim, goal), qasid (purposeful, one who aims directly), iqtisad (economics — the moderated management of resources, from the same root). Maqasid are the aims or purposes — the 'why' behind the 'what' of divine legislation. Understanding what a law aims at (its maqsad) is the precondition for applying it correctly in circumstances the original text did not address.",
+    },
+    rootForms: [
+      { arabic: 'مَقْصَد', transliteration: 'maqṣad', type: 'Noun', meaning: 'Aim, purpose, goal, objective', approxCount: 1, verified: false },
+      { arabic: 'مَقَاصِد', transliteration: 'maqāṣid', type: 'Noun (plural)', meaning: 'Objectives, purposes — especially of the Shari\'ah', approxCount: 0, verified: false },
+      { arabic: 'قَصَدَ', transliteration: 'qaṣada', type: 'Verb', meaning: 'He intended, he aimed at, he directed himself toward', approxCount: 4, verified: false },
+    ],
+    occurrenceCount: 0,
+    occurrenceNote: "Maqasid as a technical jurisprudential term does not appear in the Quran — it is a scholarly framework developed by jurists. The framework is extrapolated from Quranic rationales given for specific laws and from the prophetic explanations (ta'lil) of legal rulings. The Quran's own practice of giving reasons for its rulings (as in 5:91 for the prohibition of intoxicants) provides the textual foundation for the maqasid methodology.",
+    keyAyahs: [
+      {
+        ref: "Al-Ma'idah 5:32",
+        arabic: "مِنْ أَجْلِ ذَٰلِكَ كَتَبْنَا عَلَىٰ بَنِي إِسْرَائِيلَ أَنَّهُ مَن قَتَلَ نَفْسًا بِغَيْرِ نَفْسٍ أَوْ فَسَادٍ فِي الْأَرْضِ فَكَأَنَّمَا قَتَلَ النَّاسَ جَمِيعًا",
+        translation: "Because of that, We decreed upon the Children of Israel that whoever kills a soul — unless for a soul or for corruption done in the land — it is as if he had killed all of mankind.",
+        note: "The Quran's most foundational statement about the maqsad of hifz al-nafs (protection of life): taking one life is equivalent to the destruction of all humanity; saving one life is equivalent to saving all humanity. This is the maqsad principle in action: the law against murder is not merely a rule but a protection of the most fundamental universal good (life), and the Quran's way of stating the rule reveals the magnitude of what it protects.",
+      },
+      {
+        ref: "Al-Ma'idah 5:90-91",
+        arabic: "يَا أَيُّهَا الَّذِينَ آمَنُوا إِنَّمَا الْخَمْرُ وَالْمَيْسِرُ وَالْأَنصَابُ وَالْأَزْلَامُ رِجْسٌ مِّنْ عَمَلِ الشَّيْطَانِ فَاجْتَنِبُوهُ... إِنَّمَا يُرِيدُ الشَّيْطَانُ أَن يُوقِعَ بَيْنَكُمُ الْعَدَاوَةَ وَالْبَغْضَاءَ فِي الْخَمْرِ وَالْمَيْسِرِ وَيَصُدَّكُمْ عَن ذِكْرِ اللَّهِ وَوَالصَّلَاةِ",
+        translation: "O you who have believed, indeed, intoxicants, gambling, stone altars, and divination arrows are but defilement from the work of Satan, so avoid it... Satan only wants to cause between you enmity and hatred through intoxicants and gambling and to avert you from the remembrance of Allah and from prayer.",
+        note: "The Quran gives the rationale for the prohibition of intoxicants — and the rationale maps directly onto multiple maqasid. Enmity and hatred threaten nafs (life) and nasl (family and community). Aversion from the remembrance of Allah threatens deen (religion). Aversion from prayer threatens deen. The maqasid framework makes explicit what the Quran presents implicitly: the law is protecting something specific, and understanding what it protects allows the jurist to apply it correctly.",
+      },
+    ],
+    semanticField: [
+      {
+        slug: 'makki-madani',
+        arabic: 'مَكِّي/مَدَنِي',
+        transliteration: 'Makki / Madani',
+        relationship: 'deepens',
+        relationshipLabel: "The maqasid developed across the Makki and Madani periods",
+        description: "The maqasid are primarily protected by Madani legislation — the detailed laws of the Medina period that regulate life, property, family, intellect, and religious practice. But the foundations of the maqasid were laid in the Makki period: tawhid (hifz al-din), moral character (hifz al-nafs and aql), and social ethics (hifz al-nasl and mal). The Makki period built the heart; the Madani period built the legal architecture around it.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: "Ask 'what is this protecting?' when encountering a ruling", arabic: "فِقْه", arabicTranslit: "fiqh", description: "The maqasid approach to fiqh transforms the way one relates to Islamic law. Rather than experiencing a ruling as an arbitrary rule to follow, the maqasid approach reveals the ruling as a protection of something deeply important. The prohibition of alcohol protects the aql (intellect) and the nafs (life) and the nasl (family). The laws of inheritance protect mal (wealth) and nasl (lineage). When you know what a law is protecting, you understand why it matters." },
+        { number: 2, title: "Use the maqasid to evaluate competing rulings", arabic: "اجْتِهَاد", arabicTranslit: "ijtihād", description: "When a contemporary situation lacks a direct textual ruling, the maqasid framework allows the qualified jurist (mufti, mujtahid) to ask: which ruling best serves the protection of deen, nafs, aql, nasl, and mal? This is ijtihad guided by maqasid — the most principled form of independent legal reasoning. It requires extensive training in Islamic law and the maqasid framework; it is not a license for personal opinion, but a disciplined methodology." },
+      ],
+      stations: [
+        { name: "Hifz al-Din — Protection of Religion", description: "The highest of the five necessities: protection of the faith itself. Laws that protect the individual's ability to believe and practice — and the community's ability to preserve and transmit that practice — are the most foundational of Islamic legal provisions. The prohibition of apostasy law in classical fiqh, and the protection of religious practice against oppression, are both applications of this maqsad." },
+        { name: "Hifz al-Nafs — Protection of Life", description: "The prohibition of murder, the laws of qisas (proportional retaliation) and diyah (blood money), the obligation of self-defense, and the prohibition of suicide are all applications of this maqsad. Life is the second most fundamental necessity — without life, no other good can be experienced." },
+        { name: "Hifz al-Aql — Protection of Intellect", description: "The prohibition of intoxicants and anything that damages rational capacity; the obligation of education; the protection of freedom of thought within the bounds of faith — these are applications of hifz al-aql. The Quran's repeated condemnation of those who do not think (la ya'qilun) reflects the centrality of intellect as a divine gift to be preserved and used." },
+        { name: "Hifz al-Nasl — Protection of Lineage and Family", description: "The laws of marriage, divorce, custody, and the prohibition of zina (illegal sexual relations) protect the clarity of lineage and the stability of family. The maqasid framework reveals why these laws are not primarily about sexuality but about the social institution of family — the fundamental unit of human civilization." },
+        { name: "Hifz al-Mal — Protection of Wealth", description: "The prohibitions of theft, fraud, riba (usury/interest), and the laws of contracts and trade — all protect the institution of property and economic justice. Wealth is the fifth necessity: without material provision, life cannot be sustained and religion cannot be practiced." },
+      ],
+      questions: [
+        { question: "Where did the maqasid framework originate?", answer: "The concept was developed gradually in Islamic jurisprudence. Al-Ghazali (d. 505 AH / 1111 CE) in Al-Mustasfa provided the first systematic statement of the five necessities. Al-'Izz ibn Abd al-Salam (d. 660 AH) developed the idea that Islamic law aims at securing maslahah (benefit) and preventing mafsadah (harm). Al-Shatibi (d. 790 AH) in Al-Muwafaqat provided the most complete and systematic treatment, making maqasid the organizing principle of Islamic legal theory. Contemporary scholars like Ibn Ashur (Al-Maqasid al-Shari'ah al-Islamiyyah) and Jasser Auda (Maqasid al-Shari'ah as Philosophy of Islamic Law) have extended the framework into modern contexts." },
+        { question: "Can the maqasid be used to override an explicit text?", answer: "No — this is the central controversy in contemporary maqasid discussions. Classical scholars are clear: the maqasid are derived from texts, not above them. A ruling derived from the maqasid framework cannot override a clear, authentic, unambiguous text (nass). The maqasid are used: (1) to understand why an explicit ruling exists, (2) to resolve apparent conflicts between texts, (3) to extrapolate rulings for unprecedented situations, and (4) to evaluate which of two permissible options better serves the divine objectives. They are not a separate source of law capable of abrogating texts." },
+      ],
+    },
+    scholarsSaid: [
+      { scholar: "Al-Shatibi", source: "Al-Muwafaqat fi Usul al-Shari'ah", text: "The Shari'ah was established for one purpose: the benefits of the servants in this world and the next. Its objectives in this world are that these benefits be realized, that corruption be prevented, and that people's affairs operate in a manner that will bring about their universal wellbeing. The evidence for this is so abundant that no one who has any acquaintance with Islamic law can fail to see it." },
+    ],
+    hadith: [],
+    acrossTransitions: "The concept of law serving higher purposes (teleological jurisprudence) is found across legal traditions. In Aristotelian-Thomistic natural law theory, law exists to serve the common good — a framework that influenced both medieval Christian jurisprudence and Enlightenment political philosophy. John Rawls's theory of justice as serving primary goods (life, liberty, opportunity, wealth) has structural parallels to the maqasid framework.\n\nIn Jewish law (halakha), the concept of tikkun olam (repairing the world) and pikuach nefesh (saving of life overrides most other obligations) function similarly to maqasid principles. The maqasid framework is the Islamic tradition's most sophisticated engagement with the question of why law exists — and it has become increasingly central to contemporary Islamic legal scholarship precisely because it provides the tools to engage with modern situations while maintaining fidelity to divine intent.",
+    goDeeper: [
+      { slug: 'al-maidah', surahName: "Al-Ma'idah", note: "The prohibition of intoxicants with explicit maqasid rationale (5:90-91); the sanctity of life as equivalent to all of humanity (5:32)" },
+    ],
+    relatedTerms: [
+      { slug: 'makki-madani', transliteration: 'Makki / Madani', term: 'مَكِّي/مَدَنِي' },
+      { slug: 'balaghah',     transliteration: 'Balaghah',       term: 'بَلَاغَة'    },
     ],
     hasFullEntry: true,
   },
