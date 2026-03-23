@@ -36,11 +36,27 @@ export default function SubscribersPage() {
   const fetchSubscribers = async () => {
     setLoading(true)
     try {
-      const headers = await getAuthHeaders()
-      const res = await fetch(`/api/subscribers?status=${statusFilter}`, { headers })
-      const data = await res.json()
-      setSubscribers(data.subscribers || [])
-      setTotal(data.total || 0)
+      const supabase = supabaseRef.current
+      let query = supabase
+        .from('subscribers')
+        .select('*', { count: 'exact' })
+        .order('created_at', { ascending: false })
+
+      if (statusFilter && statusFilter !== 'all') {
+        query = query.eq('status', statusFilter)
+      }
+
+      const { data, error, count } = await query
+
+      if (error) {
+        console.error('Subscribers fetch error:', error)
+        toast.error('Failed to fetch subscribers')
+        setLoading(false)
+        return
+      }
+
+      setSubscribers(data || [])
+      setTotal(count || 0)
     } catch {
       toast.error('Failed to fetch subscribers')
     }
