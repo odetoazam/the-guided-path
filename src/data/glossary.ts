@@ -160,9 +160,9 @@ export const GLOSSARY_TERMS: GlossaryMeta[] = [
   { slug: 'malaika',         term: 'مَلَائِكَة',      transliteration: 'Malaika',         category: 'The Unseen', evocativeLine: 'Beings of light and obedience — woven through all of creation, seen by none.',        hasFullEntry: true  },
   { slug: 'jinn',            term: 'جِنّ',            transliteration: 'Jinn',            category: 'The Unseen', evocativeLine: 'Hidden beings of smokeless fire — accountable like humanity, invisible to it.',        hasFullEntry: true },
   { slug: 'shaytan',         term: 'شَيْطَان',        transliteration: 'Shaytan',         category: 'The Unseen', evocativeLine: 'The one who refused — and has been whispering refusals ever since.',                   hasFullEntry: true  },
-  { slug: 'al-arsh',         term: 'ٱلْعَرْش',        transliteration: 'Al-Arsh',         category: 'The Unseen', evocativeLine: "The Throne above all creation — the symbol of Allah's absolute sovereignty.",          hasFullEntry: false },
-  { slug: 'al-kursi',        term: 'ٱلْكُرْسِيّ',     transliteration: 'Al-Kursi',        category: 'The Unseen', evocativeLine: 'His seat encompasses the heavens and the earth — and guarding them tires Him not.',    hasFullEntry: false },
-  { slug: 'al-lawh',         term: 'ٱللَّوْح ٱلْمَحْفُوظ', transliteration: 'Al-Lawh al-Mahfuz', category: 'The Unseen', evocativeLine: 'The Preserved Tablet — where all of existence was written before time began.', hasFullEntry: false },
+  { slug: 'al-arsh',         term: 'ٱلْعَرْش',        transliteration: 'Al-Arsh',         category: 'The Unseen', evocativeLine: "The Throne above all creation — the symbol of Allah's absolute sovereignty.",          hasFullEntry: true },
+  { slug: 'al-kursi',        term: 'ٱلْكُرْسِيّ',     transliteration: 'Al-Kursi',        category: 'The Unseen', evocativeLine: 'His seat encompasses the heavens and the earth — and guarding them tires Him not.',    hasFullEntry: true },
+  { slug: 'al-lawh',         term: 'ٱللَّوْح ٱلْمَحْفُوظ', transliteration: 'Al-Lawh al-Mahfuz', category: 'The Unseen', evocativeLine: 'The Preserved Tablet — where all of existence was written before time began.', hasFullEntry: true },
   { slug: 'sirat',           term: 'صِرَاط',          transliteration: 'Al-Sirat',        category: 'The Unseen', evocativeLine: 'The bridge over the fire — crossed by every soul on the Day of Judgment.',             hasFullEntry: false },
   { slug: 'qiyamah',         term: 'قِيَامَة',        transliteration: 'Al-Qiyamah',      category: 'The Unseen', evocativeLine: 'The Standing — the Day when all of history arrives at its conclusion.',                hasFullEntry: false },
   { slug: 'hisab',           term: 'حِسَاب',          transliteration: 'Al-Hisab',        category: 'The Unseen', evocativeLine: 'The reckoning — when every moment of every life is laid completely open.',             hasFullEntry: false },
@@ -8750,6 +8750,240 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
     relatedTerms: [
       { slug: 'sulayman', transliteration: 'Sulayman', term: 'سُلَيْمَان' },
       { slug: 'zuhd',     transliteration: 'Zuhd',     term: 'زُهْد'     },
+    ],
+    hasFullEntry: true,
+  },
+
+  'al-arsh': {
+    slug: 'al-arsh',
+    term: 'ٱلْعَرْش',
+    transliteration: 'Al-ʿArsh',
+    pronunciation: "al-ARSH",
+    category: 'The Unseen',
+    evocativeLine: 'Above all of creation, the Throne — and above the Throne, the Most Merciful.',
+    summary: "Al-Arsh — the Divine Throne — is among the most frequently invoked realities of the unseen in the Quran, mentioned in various forms approximately 33 times. It represents the apex of all created existence: the highest and greatest of all that Allah has made, the supreme symbol of His sovereignty and authority over every level of creation.\n\nThe Quran's most famous description of the Arsh comes through Ayat al-Kursi (2:255), which culminates in: 'His Kursi extends over the heavens and the earth, and their preservation tires Him not.' But the most exalted of all Quranic statements about the Arsh is the repeated description of Allah as 'Rabb al-Arsh al-Azim' — Lord of the Mighty Throne — and the profound declaration of Surah Ta-Ha: 'Al-Rahman ala al-Arsh istawa' — the Most Merciful is established over the Throne (20:5). This is the foundation statement of the Ash'ari and Athari theological positions on divine transcendence and nearness.\n\nThe scholars have been careful about the Arsh: they affirm its existence (the Quran is explicit), they affirm that Allah is 'established over it' (istawa — a term debated extensively in Islamic theology), and they simultaneously insist that 'there is nothing like unto Him' (42:11). The Arsh is not a throne in the way human furniture is furniture; it is the greatest created thing, and even it is entirely encompassed by the power of the One above it.",
+    root: {
+      letters: 'ع ر ش',
+      transliteration: "'r-sh",
+      meaning: 'throne, roof, trellis, to construct a canopy',
+      elaboration: "The root 'a-r-sh relates to structures that are raised above: a throne, a trellis over vines, a canopy or bower. The Arsh as throne is the pinnacle of this family of meanings — the elevated seat of authority. In Arabic usage, the throne is not merely furniture but the symbol of sovereignty itself: 'arsh al-mulk' (the throne of the kingdom) means the kingdom itself. The Quran uses this word knowing all its weight: the Arsh is not decoration; it is the architectural emblem of divine lordship over all creation.",
+    },
+    rootForms: [
+      { arabic: 'عَرْش', transliteration: "'arsh", type: 'Noun', meaning: 'Throne, canopy, the Divine Throne', approxCount: 33, verified: false },
+      { arabic: 'عَرَّشَ', transliteration: "'arrashah", type: 'Verb', meaning: 'To construct a trellis/canopy', approxCount: 1, verified: false },
+    ],
+    occurrenceCount: 33,
+    occurrenceNote: "The Arsh appears approximately 33 times in the Quran in its various forms. Key contexts include: 'Al-Rahman ala al-Arsh istawa' (7:54, 10:3, 13:2, 20:5, 25:59, 32:4, 57:4), Rabb al-Arsh al-Azim (9:129, 21:22, 23:86, 23:116, 27:26), the eight angels bearing the Throne on the Day of Judgment (69:17), and the Throne preceding the waters at creation (11:7).",
+    keyAyahs: [
+      {
+        ref: "Ta-Ha 20:5",
+        arabic: "الرَّحْمَٰنُ عَلَى الْعَرْشِ اسْتَوَىٰ",
+        translation: "Al-Rahman — the Most Merciful — is established over the Throne.",
+        note: "Seven times the Quran repeats the phrase 'istawa ala al-Arsh' (is established over the Throne), and in this instance it is preceded by the divine name Al-Rahman — the Most Merciful. This juxtaposition is not accidental. The supreme power (symbolized by the Throne) is exercised by the supreme Mercy. The God who governs all of creation from the highest throne does so as the Most Merciful — not as a distant, cold sovereign, but as One whose first and defining attribute is rahmah.",
+      },
+      {
+        ref: "Al-Haqqah 69:17",
+        arabic: "وَالْمَلَكُ عَلَىٰ أَرْجَائِهَا ۚ وَيَحْمِلُ عَرْشَ رَبِّكَ فَوْقَهُمْ يَوْمَئِذٍ ثَمَانِيَةٌ",
+        translation: "And the angels are at its edges, and above them that Day eight will carry the Throne of your Lord.",
+        note: "On the Day of Judgment, when the heavens are rent and all creation is gathered, the Throne of Allah is carried by eight. The enormity of this image — eight angels bearing the grandest thing in creation — is the Quran's way of preparing consciousness for the scale of the Day. Everything that seemed permanent is restructured; even the Throne appears within the horizon of the Last Day.",
+      },
+      {
+        ref: "Hud 11:7",
+        arabic: "وَهُوَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي سِتَّةِ أَيَّامٍ وَكَانَ عَرْشُهُ عَلَى الْمَاءِ",
+        translation: "And it is He who created the heavens and the earth in six days — and His Throne was upon the water.",
+        note: "Before the creation of the heavens and the earth, the Throne was above the water. This gives the Arsh a pre-cosmic status — it is among the earliest created things, preceding the familiar structure of the universe. The hadith literature expands this: 'the first thing Allah created was the Pen' (in some narrations) or 'the Throne was above water' (in others). Both point to the same truth: the divine sovereignty (Arsh) and the divine decree (Pen) precede the world they govern.",
+      },
+    ],
+    semanticField: [
+      {
+        slug: 'al-kursi',
+        arabic: 'ٱلْكُرْسِيّ',
+        transliteration: 'Al-Kursi',
+        relationship: 'parallels',
+        relationshipLabel: "Al-Kursi is encompassed by the Arsh — throne and seat in cosmic hierarchy",
+        description: "The hadith literature describes the Kursi as being within the Arsh as a ring thrown into an open desert. The Kursi, already incomprehensibly vast (encompassing the heavens and earth), is itself a ring within the Arsh. This is the Quran's scale of divine sovereignty: every level of creation, even the most vast we can imagine, is contained within an even vaster reality.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: "Istawa — affirm without comparison", arabic: "تَنْزِيه", arabicTranslit: "tanzīh", description: "The Quran's description of Allah as 'established over the Throne' (istawa) must be affirmed as stated while remembering that 'there is nothing like unto Him' (42:11). This is the path of the early Muslims: neither denying the attribute (ta'til) nor comparing it to created thrones (tashbih). Tanzih — divine incomparability — is the guardrail that makes affirmation safe." },
+        { number: 2, title: "Let the Arsh recalibrate your scale of things", arabic: "تَعْظِيم", arabicTranslit: "taʿẓīm", description: "The Arsh is incomprehensibly larger than all of creation. What seems enormous in your life — a problem, a person, a fear — is smaller than an atom on the scale of the Arsh. Regular remembrance of the Arsh is not an escape from reality but a recalibration of proportions: everything in your world, including everything that troubles you, is contained within Allah's sovereignty as symbolized by the Throne." },
+      ],
+      stations: [
+        { name: "The Throne above the waters before creation", description: "The primordial image: before the heavens and earth, the Arsh existed above the water. Divine sovereignty pre-dates the universe. This is why the Quran's recurring theological move is from cosmology to worship: look at creation, then recognize the One whose sovereignty precedes it." },
+        { name: "Al-Rahman upon the Throne", description: "Power exercised as mercy. The seven repetitions of 'istawa ala al-Arsh' with the name Al-Rahman in Ta-Ha is the Quran's statement about how power should be held: with mercy as its first and defining quality. The throne of any earthly ruler, in the Quranic view, is an imperfect reflection of this — and is only legitimate when it exercises power with mercy." },
+      ],
+      questions: [
+        { question: "What does 'istawa ala al-Arsh' mean?", answer: "This phrase — the Most Merciful is established over the Throne — has been one of the most debated theological questions in Islamic history. Three major approaches: (1) The Athari/Hanbali approach: affirm the apparent meaning without interpretation, insisting we do not know how, and rejecting comparison to created things — 'the istiwa is known, the how is unknown.' (2) The Ash'ari/Maturidi approach: interpret metaphorically as 'took authority over' or 'is sovereign above,' understanding the Throne as a symbol of power. (3) The anthropomorphist approach (rejected by the vast majority of scholars): literally like a king sitting on a throne. The first two are the orthodox positions; they agree on the core (Allah's supreme sovereignty) and differ on the method of affirmation." },
+        { question: "Is the Arsh the same as the Kursi?", answer: "No — the hadith literature distinguishes them clearly. Ibn Abbas (RA) is reported to have said: 'The Kursi is the footstool (mawdi' al-qadamayn) and the Arsh — no one can estimate its magnitude.' The Arsh is larger than the Kursi; the Kursi is within the Arsh as a ring thrown into open space. Both are realities of the unseen — real, vast beyond imagination, and both are affirmations of divine sovereignty on different scales." },
+      ],
+    },
+    scholarsSaid: [
+      { scholar: "Imam Ahmad ibn Hanbal", source: "Reported in various collections of his positions", text: "Al-Quran has stated that Allah is above the heavens and above the Throne. The istiwa is known; the how is not known; asking about it is an innovation; affirming it is obligatory." },
+    ],
+    hadith: [
+      { text: "The seven heavens compared to the Kursi are like a ring in an open desert, and the Arsh compared to the Kursi is like that open desert compared to the ring.", source: "Reported by Ibn Hibban and authenticated by Al-Albani" },
+    ],
+    acrossTransitions: "The concept of a divine throne appears across virtually all religious traditions. In the Hebrew Bible, the heavenly throne (kisei kavod — throne of glory) is the seat of YHWH's sovereignty, and the prophet Ezekiel's vision of the chariot-throne (merkavah) became the basis for an entire mystical tradition. In Christianity, Revelation's vision of the throne of God is among its most powerful images: twenty-four elders, living creatures, a sea of glass, all worshipping the One on the throne.\n\nThe Islamic Arsh shares the symbolic weight of these traditions while insisting on divine incomparability: the Throne is real, it is the greatest created thing, and even it is infinitely exceeded by the One who is above it. The Sufi tradition developed extensive meditation on the Arsh as the destination of the spiritual journey — with the hadith 'the hearts of the believers are between two fingers of Al-Rahman' as the complement: divine sovereignty is vast, but divine closeness to the believer is intimate.",
+    goDeeper: [
+      { slug: 'ta-ha', surahName: 'Ta-Ha', note: "Al-Rahman ala al-Arsh istawa — the foundational statement of divine sovereignty through mercy (20:5)" },
+      { slug: 'al-baqarah', surahName: 'Al-Baqarah', note: "Ayat al-Kursi (2:255) — culminating in His Kursi encompassing the heavens and earth" },
+    ],
+    relatedTerms: [
+      { slug: 'al-kursi', transliteration: 'Al-Kursi', term: 'ٱلْكُرْسِيّ' },
+      { slug: 'al-lawh',  transliteration: 'Al-Lawh al-Mahfuz', term: 'ٱللَّوْح ٱلْمَحْفُوظ' },
+    ],
+    hasFullEntry: true,
+  },
+
+  'al-kursi': {
+    slug: 'al-kursi',
+    term: 'ٱلْكُرْسِيّ',
+    transliteration: 'Al-Kursī',
+    pronunciation: "al-KUR-see",
+    category: 'The Unseen',
+    evocativeLine: 'His seat encompasses the heavens and the earth — and guarding them tires Him not at all.',
+    summary: "Al-Kursi — the Divine Footstool or Seat — is mentioned once explicitly in the Quran by name, but that single mention occurs in Ayat al-Kursi (2:255), which the Prophet ﷺ called the greatest verse in the Quran. The Kursi is described as encompassing 'al-samawat wa-l-ard' — the heavens and the earth — a reality so vast that all of created space is contained within it.\n\nThe precise nature of the Kursi is a matter of scholarly discussion. Ibn Abbas, the great companion and Quranic interpreter, is reported to have described it as the mawdi' al-qadamayn — the 'place of the two feet' — though scholars debate whether this should be taken literally or symbolically. What the Quran establishes clearly is the scale: the Kursi contains the heavens and the earth, and the Arsh (Throne) is incomprehensibly larger than the Kursi, as a ring thrown into an open desert.\n\nAyat al-Kursi's genius is not just in what it says about the Kursi — it is the concentrated theological statement that surrounds it. The verse moves from: Allah (the name), hayy and qayyum (Living and Self-Subsisting), nothing slumbers or sleeps for Him, everything in the heavens and earth belongs to Him, no intercession without His permission, He knows what is before and what is after, none encompasses His knowledge except what He wills — His Kursi encompasses the heavens and earth — and guarding them does not tire Him. It is, in one verse, nearly the complete portrait of divine sovereignty.",
+    root: {
+      letters: 'ك ر س',
+      transliteration: 'k-r-s',
+      meaning: 'chair, seat, footstool, to sit firmly',
+      elaboration: "The root k-r-s gives kursiy (chair, seat, throne in human contexts). In Arabic usage, the kursi is typically smaller and less elevated than the arsh (throne) — a footstool or seat rather than the grand throne of authority. The Quran uses this distinction: the Kursi, for all its incomprehensible vastness, is still distinguished from and contained within the Arsh.",
+    },
+    rootForms: [
+      { arabic: 'كُرْسِيّ', transliteration: 'kursīy', type: 'Noun', meaning: 'Chair, seat, footstool; the Divine Kursi', approxCount: 2, verified: false },
+    ],
+    occurrenceCount: 1,
+    occurrenceNote: "The Kursi appears once by name in the Quran: in Ayat al-Kursi (2:255). It appears once more in 38:34 (kursiyyahu — his seat/throne) referring to the trial of Sulayman. As a theological concept of the divine, its single Quranic mention in 2:255 is among the most commented-upon words in all of Islamic scholarship.",
+    keyAyahs: [
+      {
+        ref: "Al-Baqarah 2:255 (Ayat al-Kursi)",
+        arabic: "اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ ۚ لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ ۚ لَّهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ مَن ذَا الَّذِي يَشْفَعُ عِندَهُ إِلَّا بِإِذْنِهِ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَيْءٍ مِّنْ عِلْمِهِ إِلَّا بِمَا شَاءَ ۚ وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ ۖ وَلَا يَئُودُهُ حِفْظُهُمَا ۚ وَهُوَ الْعَلِيُّ الْعَظِيمُ",
+        translation: "Allah — there is no deity except Him, the Ever-Living, the Self-Sustaining. Neither drowsiness overtakes Him nor sleep. To Him belongs whatever is in the heavens and whatever is on the earth. Who is it that can intercede with Him except by His permission? He knows what is before them and what will be after them, and they encompass not a thing of His knowledge except for what He wills. His Kursi extends over the heavens and the earth, and their preservation tires Him not. And He is the Most High, the Most Great.",
+        note: "Ayat al-Kursi is described in hadith as the greatest verse in the Quran (Muslim). Its structure is a masterpiece of Arabic rhetoric — each phrase expanding divine sovereignty by removing a limitation. He does not sleep; everything belongs to Him; intercession is only by permission; His knowledge encompasses all while theirs encompasses nothing; His Kursi encompasses all of space; guarding all of it costs Him nothing. The verse ends with two divine names: Al-Aliyy (the Most High) and Al-Azim (the Most Great). Reciting this verse after every obligatory prayer is among the most recommended acts in the Sunnah, with the hadith reporting that nothing separates the one who does so from Paradise except death.",
+      },
+    ],
+    semanticField: [
+      {
+        slug: 'al-arsh',
+        arabic: 'ٱلْعَرْش',
+        transliteration: 'Al-Arsh',
+        relationship: 'deepens',
+        relationshipLabel: "The Kursi within the Arsh — cosmic hierarchy of divine symbols",
+        description: "The Arsh is to the Kursi as an open desert is to a ring — a statement from Ibn Abbas reported in several tafsir works. The Kursi already contains the heavens and earth; the Arsh is incomprehensibly vaster. Together they represent the layered symbols of divine sovereignty, each pointing to a dimension of His authority beyond what the previous symbol could express.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: "Recite Ayat al-Kursi after every obligatory prayer", arabic: "مُدَاوَمَة", arabicTranslit: "mudāwama", description: "The Prophet ﷺ reportedly said: 'Whoever recites Ayat al-Kursi after every obligatory prayer — nothing separates him from Paradise except death.' This is among the most actionable hadiths in the Sunnah: a single verse, recited consistently, connecting the worshipper to the scale of divine sovereignty described within it. Mudawama — consistency — is the key; it is a daily recalibration of who Allah is." },
+        { number: 2, title: "Recite before sleeping for protection", arabic: "حِفْظ", arabicTranslit: "ḥifẓ", description: "The hadith of Abu Hurayra records that Shaytan taught him (through a deception) that reciting Ayat al-Kursi before sleep brings divine protection throughout the night — and the Prophet ﷺ confirmed this teaching, saying 'he told you the truth, though he is a liar.' Protection through the reminder that the Kursi encompasses all of space and guarding all of it does not tire the Guardian." },
+      ],
+      stations: [
+        { name: "The verse that contains nearly the whole portrait of Allah", description: "No single verse of the Quran is more theologically concentrated than Ayat al-Kursi. In 50 Arabic words, it covers: tawhid, eternal life, self-subsistence, knowledge of past and future, ownership of all creation, the limits of intercession, the incomparability of divine knowledge, the vastness of the Kursi, and the effortlessness of divine preservation. Reading it slowly and meditatively is itself a form of contemplation of the divine attributes." },
+      ],
+      questions: [
+        { question: "What exactly is the Kursi?", answer: "Classical scholars offered two primary interpretations. The first, associated with Ibn Abbas: the Kursi is the footstool (mawdi al-qadamayn) — a created reality beneath the Arsh. The second, offered by some: the Kursi is a symbol for divine knowledge and power, not a literal object. The Athari/Hanbali position: affirm it as stated, without specifying its nature, while rejecting any comparison to human footstools. All positions agree it is incomprehensibly vast (containing the heavens and earth) and that its nature ultimately belongs to the ghayb." },
+        { question: "Is Ayat al-Kursi the greatest verse of the Quran?", answer: "Yes — this is established by an explicit hadith. Ubay ibn Ka'b (RA) asked the Prophet which verse of the Quran was greatest, and after some dialogue, the Prophet confirmed: 'Ayat al-Kursi.' (Sahih Muslim). This is not just liturgical preference; the verse's theological density — its comprehensive portrait of divine sovereignty — earns it this status." },
+      ],
+    },
+    scholarsSaid: [
+      { scholar: "Ibn al-Qayyim al-Jawziyya", source: "Al-Wabil al-Sayyib", text: "Ayat al-Kursi contains ten sentences, each of which establishes a divine attribute or negates an imperfection. Together they form the most complete single-verse portrait of Allah in the Quran. Its recitation after prayer is the companion to the salah itself — the prayer draws one near; the verse describes the One drawn near to." },
+    ],
+    hadith: [
+      { text: "Whoever recites Ayat al-Kursi after every obligatory prayer — nothing stands between him and Paradise except death.", source: "Al-Nasa'i, Al-Tabarani — authenticated by Al-Albani" },
+      { text: "When you retire to your bed, recite Ayat al-Kursi, for a guardian from Allah will remain with you throughout the night and no Shaytan will approach you until morning.", source: "Sahih al-Bukhari" },
+    ],
+    acrossTransitions: "The divine footstool or seat appears in related forms across Jewish and Christian tradition. In Jewish mystical tradition (merkavah mysticism), meditation on the divine throne and its associated realities was a central practice. Ezekiel's vision of the chariot-throne (merkavah) shares the structural concern of Ayat al-Kursi: how to describe divine sovereignty in spatial terms while insisting on divine incomparability.\n\nThe phrase 'His footstool is the earth' in the Hebrew Bible (Isaiah 66:1) has a structural parallel to the Quranic Kursi encompassing the heavens and earth, though the Islamic theological framework interprets these as distinct concepts. Christian tradition, particularly in its liturgical use of Psalm 99 ('He sits enthroned upon the cherubim'), similarly uses throne imagery to express divine sovereignty. The Islamic contribution is both the vivid scale (the Kursi containing all of creation) and the precise theological framing (guarding does not tire Him — divine sovereignty is effortless).",
+    goDeeper: [
+      { slug: 'al-baqarah', surahName: 'Al-Baqarah', note: "Ayat al-Kursi (2:255) — the greatest verse of the Quran, containing the most concentrated portrait of divine sovereignty" },
+    ],
+    relatedTerms: [
+      { slug: 'al-arsh', transliteration: 'Al-Arsh', term: 'ٱلْعَرْش' },
+      { slug: 'al-lawh', transliteration: 'Al-Lawh al-Mahfuz', term: 'ٱللَّوْح ٱلْمَحْفُوظ' },
+    ],
+    hasFullEntry: true,
+  },
+
+  'al-lawh': {
+    slug: 'al-lawh',
+    term: 'ٱللَّوْح ٱلْمَحْفُوظ',
+    transliteration: 'Al-Lawḥ al-Maḥfūẓ',
+    pronunciation: "al-LAWH al-mah-FOOZ",
+    category: 'The Unseen',
+    evocativeLine: 'The Preserved Tablet — every leaf that falls, every word not yet spoken, inscribed before time began.',
+    summary: "Al-Lawh al-Mahfuz — the Preserved Tablet — is mentioned explicitly in the closing ayah of Surah Al-Buruj (85:22): 'Bal huwa Quranun majid fi lawhin mahfuz' — 'Rather, it is a Glorious Quran preserved in a Preserved Tablet.' This single verse establishes one of the most profound realities in Islamic theology: the Quran, before it was sent down in revelation, existed inscribed on the Preserved Tablet in the divine presence.\n\nThe Lawh al-Mahfuz is the register of all divine knowledge as it pertains to creation — everything that has happened, is happening, or will happen is recorded there. Allah says in Surah Yunus (10:61): 'Nothing is hidden from your Lord — not even an atom's weight on earth or in the sky — and nothing smaller or larger exists except that it is in a clear Book.' That 'clear Book' (Kitab Mubin) is understood by many scholars as corresponding to the Preserved Tablet or its equivalent.\n\nThe relationship between the Preserved Tablet and the human experience of qadar (divine decree) is intimate: everything in the Tablet is true, nothing in the Tablet can be changed, and yet human beings experience their lives as choices made in real time. The scholars of Islamic theology spent generations working through this relationship — the permanence of what is written and the reality of human accountability — without fully dissolving the tension, which they recognized as a deliberate divine veiling of the full picture.",
+    root: {
+      letters: 'ل و ح',
+      transliteration: 'l-w-h',
+      meaning: 'tablet, board, plank; to flash, to appear',
+      elaboration: "A lawh is a flat surface — a plank of wood, a stone tablet, a writing board. The same word describes the planks of Nuh's ark (54:13 — ala dhat alwah). The Quran's use of lawh for the Preserved Tablet elevates the most physical of writing materials into the most exalted of cosmic realities. Mahfuz (preserved, protected) is from the root h-f-z — guarding, preserving, protecting — the same root as hafiz (guardian, one who has memorized the Quran). The Tablet is preserved against addition, subtraction, loss, or alteration.",
+    },
+    rootForms: [
+      { arabic: 'لَوْح', transliteration: 'lawḥ', type: 'Noun', meaning: 'Tablet, board, plank', approxCount: 2, verified: false },
+      { arabic: 'أَلْوَاح', transliteration: 'alwāḥ', type: 'Noun (plural)', meaning: 'Tablets, planks', approxCount: 4, verified: false },
+      { arabic: 'مَحْفُوظ', transliteration: 'maḥfūẓ', type: 'Adjective', meaning: 'Preserved, protected, guarded', approxCount: 2, verified: false },
+    ],
+    occurrenceCount: 1,
+    occurrenceNote: "Al-Lawh al-Mahfuz as a combined term appears once in the Quran (85:22). The word lawh (tablet) appears twice (85:22 and 54:13 for the planks of Nuh's ark). The concept, however, is present throughout the Quran in references to a 'clear Book' (Kitab Mubin) and 'the Mother of the Book' (Umm al-Kitab) in which all of creation's decrees are recorded.",
+    keyAyahs: [
+      {
+        ref: "Al-Buruj 85:21-22",
+        arabic: "بَلْ هُوَ قُرْآنٌ مَّجِيدٌ فِي لَوْحٍ مَّحْفُوظٍ",
+        translation: "Rather, it is a Glorious Quran in a Preserved Tablet.",
+        note: "The closing statement of Surah Al-Buruj: after describing the persecutors of the believers and the fate that awaits them, Allah turns the lens to the Quran itself. Whatever its opponents say or do, the Quran is Glorious (Majid — noble, boundlessly generous) and it rests in the Preserved Tablet. No persecution can touch what is written in the most protected place in existence. This is the Quran's self-testimony about its own origin and its own inviolability.",
+      },
+      {
+        ref: "Al-An'am 6:59",
+        arabic: "وَعِندَهُ مَفَاتِحُ الْغَيْبِ لَا يَعْلَمُهَا إِلَّا هُوَ ۚ وَيَعْلَمُ مَا فِي الْبَرِّ وَالْبَحْرِ ۚ وَمَا تَسْقُطُ مِن وَرَقَةٍ إِلَّا يَعْلَمُهَا وَلَا حَبَّةٍ فِي ظُلُمَاتِ الْأَرْضِ وَلَا رَطْبٍ وَلَا يَابِسٍ إِلَّا فِي كِتَابٍ مُّبِينٍ",
+        translation: "With Him are the keys of the unseen — none knows them but He. And He knows what is on land and at sea. Not a leaf falls except that He knows it — no grain in the dark places of the earth, nothing moist or dry — except that it is in a clear Book.",
+        note: "The scale of divine knowledge recorded in the Kitab Mubin (Clear Book) is staggering in its specificity: not leaf falls without being known and recorded. The falling of a single leaf, in a single forest, in a single moment — it is in the Book. This is not a metaphor for general divine awareness; it is the Quran's insistence that every particular of creation is within the divine record. The Preserved Tablet is the theological name for this total and specific divine omniscience.",
+      },
+      {
+        ref: "Al-Hadid 57:22",
+        arabic: "مَا أَصَابَ مِن مُّصِيبَةٍ فِي الْأَرْضِ وَلَا فِي أَنفُسِكُمْ إِلَّا فِي كِتَابٍ مِّن قَبْلِ أَن نَّبْرَأَهَا",
+        translation: "No calamity strikes upon the earth or among yourselves except that it is in a register before We bring it into being.",
+        note: "The connection between the Preserved Tablet and human experience of trial: before any calamity descends — before any illness, loss, or disaster — it was already written in the register. This ayah is the Quranic foundation for why the believer does not ultimately despair at calamity. It was not surprise, not accident, not chaos. It was written — and the One who wrote it is the Most Wise and the Most Merciful. The book precedes the event; the decree is already held.",
+      },
+    ],
+    semanticField: [
+      {
+        slug: 'qadar',
+        arabic: 'قَدَر',
+        transliteration: 'Qadar',
+        relationship: 'deepens',
+        relationshipLabel: "The written record of qadar — the Tablet holds what qadar decrees",
+        description: "Qadar (divine decree) and the Lawh al-Mahfuz are intimately related: the Tablet is the record of all that Allah has decreed. The hadith of Jibril defines belief in qadar as one of the six pillars of faith, and the Lawh al-Mahfuz is the most vivid symbol of that pillar — the place where everything that will happen is already written, before it happens.",
+      },
+    ],
+    practicalSection: {
+      conditions: [
+        { number: 1, title: "Let the Tablet ground your response to trial", arabic: "صَبْر", arabicTranslit: "ṣabr", description: "Surah Al-Hadid (57:22-23) follows the statement about the Tablet with the prescription: 'So that you may not despair over what has escaped you nor exult over what He has given you.' The Tablet is not fatalism — it is the basis of equanimity. When what you feared has come, it was already written before you or it existed. When what you wanted has departed, it was not lost accidentally. The Tablet grounds sabr not as passive resignation but as active trust." },
+        { number: 2, title: "Recognize the Quran as belonging to the highest protection", arabic: "تَعْظِيم", arabicTranslit: "taʿẓīm", description: "The Quran you recite is the same text that rests in the Preserved Tablet — it cannot be altered, lost, or corrupted, because its heavenly original is mahfuz (preserved). This is why the Quran's self-description in 15:9 ('We have sent down the Reminder and We will preserve it') is historically unique: no other scripture in history has been preserved with this completeness. The Tablet's preservation extends to the earthly Quran." },
+      ],
+      stations: [
+        { name: "Before creation: The Tablet and the Pen", description: "The first hadith of Islamic theology: 'The first thing Allah created was the Pen. He said to it: Write. It said: What shall I write? He said: Write the decrees of all things until the Hour.' The Pen wrote in the Preserved Tablet. Before the heavens and earth, before Adam, before history — the full record of all that would happen was inscribed." },
+        { name: "The Quran in the Tablet", description: "The Quran that Jibril brought to the Prophet and that we recite today — this text existed in the Lawh al-Mahfuz before it was sent down in stages over 23 years. This gives the Quran a pre-cosmic dignity that no human word can claim. When we recite it, we are reciting something that was preserved in the highest protected place before we or our world existed." },
+      ],
+      questions: [
+        { question: "Does the Preserved Tablet mean everything is predetermined and nothing can change?", answer: "This is one of the subtlest questions in Islamic theology. The Quran describes different 'levels' of qadar: the Preserved Tablet (eternal and unchanging from Allah's perspective), the Book of Lifetimes (which contains what an angel writes at a person's birth), and moment-to-moment divine providence. Du'a (supplication) and righteous deeds are described in hadith as changing the 'decree' at one level while the eternal knowledge in the Preserved Tablet remains unchanged — because Allah's eternal knowledge already included the du'a and its effect. The apparent paradox is held by the scholars as a veiling of the full picture rather than a contradiction." },
+        { question: "What is the difference between the Lawh al-Mahfuz and 'Umm al-Kitab'?", answer: "Umm al-Kitab (the Mother of the Book) appears in 13:39 and 43:4. Most classical scholars identify it with the Lawh al-Mahfuz — the same reality described from different angles. The 13:39 context — 'Allah erases what He wills and confirms what He wills, and with Him is the Mother of the Book' — is often cited in the discussion of changing decrees: while particular applications can appear to change (in response to du'a, for example), the Umm al-Kitab/Lawh al-Mahfuz itself is the eternal record that does not change, because Allah's knowledge already encompassed all possibilities and their outcomes." },
+      ],
+    },
+    scholarsSaid: [
+      { scholar: "Ibn Kathir", source: "Tafsir of Surah Al-Buruj", text: "The statement 'in a Preserved Tablet' means that the Quran is preserved with Allah in the highest station, inscribed on the Lawh al-Mahfuz. No addition reaches it, no subtraction touches it, and no corruption affects it. It is mahfuz — guarded — from any alteration or diminishment." },
+    ],
+    hadith: [
+      { text: "Allah decreed the measures of all creation fifty thousand years before He created the heavens and the earth, and His Throne was above the water.", source: "Sahih Muslim" },
+      { text: "The first thing Allah created was the Pen, and He said to it: Write. It said: What shall I write? He said: Write the decrees of everything until the Hour.", source: "Abu Dawud, Al-Tirmidhi" },
+    ],
+    acrossTransitions: "The concept of a heavenly written record predates Islam in both Jewish and Christian tradition. In Jewish mysticism, the 'Book of Life' (Sefer HaChayyim) in which names are written is a central theological concept, especially prominent in the High Holiday liturgy (Rosh Hashanah and Yom Kippur). The Dead Sea Scrolls community (Qumran) had extensive predestinarian theology built around the concept of heavenly books.\n\nIn Christian tradition, the 'Lamb's Book of Life' (Revelation 13:8, 21:27) records those who will be saved. The Quran's Lawh al-Mahfuz is both broader (it contains all of creation's decrees, not just the saved) and more specifically connected to the pre-cosmic origin of the Quran itself. The Islamic theological tradition engaged extensively with Greek philosophy's concept of divine foreknowledge and its relation to human freedom — a debate that produced the great schools of kalam (speculative theology) in Islamic intellectual history.",
+    goDeeper: [
+      { slug: 'al-buruj', surahName: 'Al-Buruj', note: "The explicit mention of the Preserved Tablet in the closing verse: 'a Glorious Quran in a Preserved Tablet' (85:22)" },
+      { slug: 'al-an-am', surahName: "Al-An'am", note: "Every leaf that falls is in a clear Book — the scope of divine knowledge as recorded (6:59)" },
+    ],
+    relatedTerms: [
+      { slug: 'qadar',   transliteration: 'Qadar',   term: 'قَدَر'    },
+      { slug: 'al-arsh', transliteration: 'Al-Arsh', term: 'ٱلْعَرْش' },
     ],
     hasFullEntry: true,
   },
