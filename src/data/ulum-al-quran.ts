@@ -113,7 +113,7 @@ export const SCIENCES: QuranicScience[] = [
       translation: 'Indeed, We have given you al-Kawthar.',
       analysis:
         'The word al-Kawthar uses the faw\'al morphological pattern — a form that expresses abundance beyond the ability to measure. Not "much" but overflow. A river in Paradise, the largest ummah, intercession, the Quran itself. The morphological form tells you the gift is bigger than any single definition.',
-      surahLink: '/surahs/al-kawthar',
+      surahLink: '/surahs/al-kawthar/overview',
       surahName: 'Al-Kawthar',
     },
     relatedSciences: ['nahw', 'lughah'],
@@ -139,7 +139,7 @@ export const SCIENCES: QuranicScience[] = [
       translation: 'Indeed, humanity is in loss.',
       analysis:
         'Two emphatic particles — inna and the lam of emphasis — together create what scholars call a grammatical double-lock. Every single human being is included, every exit sealed. The preposition fi (in) means immersion: humanity is inside loss the way a fish is inside water. Three words. No escape clause. The grammar does the theology.',
-      surahLink: '/surahs/al-asr',
+      surahLink: '/surahs/al-asr/overview',
       surahName: 'Al-\'Asr',
     },
     relatedSciences: ['sarf', 'balaghah'],
@@ -165,7 +165,7 @@ export const SCIENCES: QuranicScience[] = [
       translation: 'Indeed, humanity is in loss.',
       analysis:
         'The word khusr is a commercial term — capital that bleeds away over time, not a one-time event but a continuous hemorrhage. The choice of vocabulary turns the verse into an economic metaphor: your life is capital, and time is spending it. No synonym in Arabic carries the same weight.',
-      surahLink: '/surahs/al-asr',
+      surahLink: '/surahs/al-asr/overview',
       surahName: 'Al-\'Asr',
     },
     relatedSciences: ['sarf', 'balaghah'],
@@ -193,7 +193,7 @@ export const SCIENCES: QuranicScience[] = [
       translation: 'You alone we worship, and You alone we ask for help.',
       analysis:
         'Three rhetorical devices in one verse. First, iltifat — a shift from third-person description of God (verses 2-4) to direct second-person address. Second, taqdim — the object "You" (iyyaka) is fronted before the verb, creating exclusivity: You and no one else. Third, the repetition of iyyaka creates a rhythmic emphasis that reinforces the theological claim. The rhetoric is doing the theology.',
-      surahLink: '/surahs/al-fatiha',
+      surahLink: '/surahs/al-fatiha/overview',
       surahName: 'Al-Fatiha',
     },
     glossarySlug: 'balaghah',
@@ -220,7 +220,7 @@ export const SCIENCES: QuranicScience[] = [
       translation: 'Indeed, We have given you al-Kawthar.',
       analysis:
         'The shortest surah in the Quran — three verses, ten words — and yet it contains a complete theological argument: divine gift, the only coherent human response, and the cosmic reversal of an accusation. The morphological precision, the pronoun architecture, the sound patterns — all operating simultaneously at a level no human text has matched. This is i\'jaz made visible.',
-      surahLink: '/surahs/al-kawthar',
+      surahLink: '/surahs/al-kawthar/overview',
       surahName: 'Al-Kawthar',
     },
     glossarySlug: 'ijaz',
@@ -274,7 +274,7 @@ export const SCIENCES: QuranicScience[] = [
       translation: 'You alone we worship, and You alone we ask for help.',
       analysis:
         'Verse 5 is the structural center of Al-Fatiha\'s ring. Verses 2-4 (praise, mercy, sovereignty) mirror verses 6-7 (guidance, right path, wrong paths) — creating a chiastic frame around this single meeting point where the servant turns from describing God to speaking directly to Him. The nazm is the theology: everything converges on the moment of encounter.',
-      surahLink: '/surahs/al-fatiha',
+      surahLink: '/surahs/al-fatiha/overview',
       surahName: 'Al-Fatiha',
     },
     glossarySlug: 'nazm',
@@ -301,7 +301,7 @@ export const SCIENCES: QuranicScience[] = [
       translation: 'By time.',
       analysis:
         'Surah Al-\'Asr is a classic Makki surah — short, intense, oath-driven, focused on the cosmic stakes of human existence. Its compressed, urgent style is characteristic of the Makkan period: three verses that deliver a complete worldview. Compare this to the extended legislative passages of Madani surahs like Al-Baqarah, and you can hear the difference in rhythm, tone, and purpose.',
-      surahLink: '/surahs/al-asr',
+      surahLink: '/surahs/al-asr/overview',
       surahName: 'Al-\'Asr',
     },
     relatedSciences: ['asbab-al-nuzul', 'nazm'],
@@ -400,7 +400,7 @@ export const SCIENCES: QuranicScience[] = [
       translation: 'By time.',
       analysis:
         'God swears by al-\'asr — time, the declining afternoon, the epoch. The root \'ayn-sad-ra holds the image of pressing or squeezing. Time is not neutral; it is an active force that diminishes everything it touches. The oath tells you the verdict before the verdict arrives: if time is a squeezing force, then everything caught in it is being diminished.',
-      surahLink: '/surahs/al-asr',
+      surahLink: '/surahs/al-asr/overview',
       surahName: 'Al-\'Asr',
     },
     relatedSciences: ['makki-madani', 'nazm'],
@@ -478,7 +478,7 @@ export const SCIENCES: QuranicScience[] = [
       translation: 'Master of the Day of Judgment.',
       analysis:
         'In the Hafs reading: Maliki (مَـٰلِكِ) — "Master/Owner" of the Day of Judgment, emphasizing ownership and authority. In the Warsh reading: Maliki (مَلِكِ) — "King" of the Day of Judgment, emphasizing sovereignty and dominion. Both are authentic, both traced to the Prophet ﷺ, and both are true: Allah is both Owner and King. The variation is not a conflict but a complementary revelation.',
-      surahLink: '/surahs/al-fatiha',
+      surahLink: '/surahs/al-fatiha/overview',
       surahName: 'Al-Fatiha',
     },
     relatedSciences: ['tajwid', 'tafsir'],

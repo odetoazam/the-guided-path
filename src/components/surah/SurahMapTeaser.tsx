@@ -39,7 +39,7 @@ export function SurahMapTeaser({ publishedSurahs }: Props) {
               return (
                 <Link
                   key={surah.n}
-                  href={`/surahs/${slug}`}
+                  href={`/surahs/${slug}/overview`}
                   title={`${surah.n}. ${surah.nameEn}`}
                   className="group relative flex h-9 w-9 flex-shrink-0 items-center justify-center rounded-md border border-gold-500/30 bg-gold-500/10 text-xs font-medium text-gold-400 transition-all duration-200 hover:bg-gold-500/20 hover:border-gold-500/60 hover:text-gold-300 hover:scale-110"
                 >

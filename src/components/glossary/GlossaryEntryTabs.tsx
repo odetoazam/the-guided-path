@@ -741,7 +741,7 @@ export function GlossaryEntryTabs({ entry }: { entry: GlossaryEntry }) {
                 {entry.goDeeper.map((d) => (
                   <Link
                     key={d.slug}
-                    href={`/surahs/${d.slug}`}
+                    href={`/surahs/${d.slug}/overview`}
                     className="group flex items-start gap-4 rounded-2xl border border-zinc-200 dark:border-white/[0.05] bg-zinc-50 dark:bg-white/[0.02] px-5 py-4 transition-all hover:border-[rgba(212,175,55,0.18)]"
                   >
                     <div className="mt-1 h-1.5 w-1.5 shrink-0 rounded-full" style={{ background: g(0.4) }} />

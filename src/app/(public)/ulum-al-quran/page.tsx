@@ -421,7 +421,7 @@ export default function UlumAlQuranPage() {
                     <p className="text-sm leading-relaxed text-zinc-600 dark:text-zinc-400">
                       <strong className="text-zinc-700 dark:text-zinc-300">Want to see these sciences in action?</strong>{' '}
                       Our reflection on{' '}
-                      <Link href="/surahs/al-kawthar" className="text-[rgba(212,175,55,0.8)] hover:text-[rgba(212,175,55,1)] transition-colors underline underline-offset-2">
+                      <Link href="/surahs/al-kawthar/overview" className="text-[rgba(212,175,55,0.8)] hover:text-[rgba(212,175,55,1)] transition-colors underline underline-offset-2">
                         Surah Al-Kawthar
                       </Link>{' '}
                       demonstrates morphology, rhetoric, and i&apos;jaz in three verses and ten words — the shortest surah in the Quran,

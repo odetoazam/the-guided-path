@@ -410,7 +410,7 @@ export default function UnderstandingQuranPage() {
             <p className="text-sm leading-relaxed text-zinc-600 dark:text-zinc-400">
               <strong className="text-zinc-700 dark:text-zinc-300">Want to see these ideas in action?</strong>{' '}
               Our reflection on{' '}
-              <Link href="/surahs/al-mulk" className="text-[rgba(212,175,55,0.8)] hover:text-[rgba(212,175,55,1)] transition-colors underline underline-offset-2">
+              <Link href="/surahs/al-mulk/overview" className="text-[rgba(212,175,55,0.8)] hover:text-[rgba(212,175,55,1)] transition-colors underline underline-offset-2">
                 Surah Al-Mulk
               </Link>{' '}
               applies every concept from this section — tafsir, tadabbur, the hierarchy of sources,
@@ -523,7 +523,7 @@ export default function UnderstandingQuranPage() {
                   its closing, and the threads that run through it. Identifying the amud is one of the
                   most rewarding exercises in Quranic study — and once you find it, you cannot un-see it.
                   See how it works in practice in our reflection on{' '}
-                  <Link href="/surahs/al-mulk" className="text-[rgba(212,175,55,0.7)] hover:text-[rgba(212,175,55,1)] transition-colors underline-offset-2 hover:underline">
+                  <Link href="/surahs/al-mulk/overview" className="text-[rgba(212,175,55,0.7)] hover:text-[rgba(212,175,55,1)] transition-colors underline-offset-2 hover:underline">
                     Surah Al-Mulk
                   </Link>.
                 </p>
@@ -685,7 +685,7 @@ export default function UnderstandingQuranPage() {
                 <div className="space-y-3 text-sm leading-relaxed text-zinc-500 dark:text-zinc-400">
                   <p>
                     In{' '}
-                    <Link href="/surahs/al-fatiha" className="text-[rgba(212,175,55,0.7)] hover:text-[rgba(212,175,55,1)] transition-colors underline-offset-2 hover:underline">
+                    <Link href="/surahs/al-fatiha/overview" className="text-[rgba(212,175,55,0.7)] hover:text-[rgba(212,175,55,1)] transition-colors underline-offset-2 hover:underline">
                       Surah Al-Fatiha
                     </Link>, the surah begins in the third person (&ldquo;Praise be to Allah, Lord of the
                     Worlds&rdquo;) and then shifts to direct address (&ldquo;It is You we worship, it is You we
@@ -722,7 +722,7 @@ export default function UnderstandingQuranPage() {
                   <p>
                     In Arabic, word order is flexible — and that flexibility is exploited for meaning.
                     The most famous example is in{' '}
-                    <Link href="/surahs/al-fatiha" className="text-[rgba(212,175,55,0.7)] hover:text-[rgba(212,175,55,1)] transition-colors underline-offset-2 hover:underline">
+                    <Link href="/surahs/al-fatiha/overview" className="text-[rgba(212,175,55,0.7)] hover:text-[rgba(212,175,55,1)] transition-colors underline-offset-2 hover:underline">
                       Al-Fatiha
                     </Link>: <em>&ldquo;Iyyaka na&apos;budu wa iyyaka nasta&apos;in&rdquo;</em> —
                     &ldquo;It is You alone we worship, and it is You alone we ask for help.&rdquo;
