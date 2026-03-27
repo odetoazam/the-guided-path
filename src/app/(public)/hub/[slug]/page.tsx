@@ -1,9 +1,8 @@
 import { notFound } from 'next/navigation'
-import Link from 'next/link'
 import type { Metadata } from 'next'
 import { createClient } from '@/lib/supabase/server'
 import { CANONICAL_URL, SITE_NAME } from '@/lib/constants'
-import { AyahCard } from '@/components/AyahCard'
+import { HubTabs } from '@/components/HubTabs'
 import type { Entity, EntityCategory } from '@/types'
 
 interface Props {
@@ -248,145 +247,10 @@ export default async function HubPage({ params }: Props) {
         ayahRecords={ayahRecords}
         connections={connections}
         entitySlug={slug}
+        entityName={entity.name_translit}
+        entityArabic={entity.name_arabic}
       />
     </div>
   )
 }
 
-/* ── Tabs (client-side interactivity) ──────────────────────────────────────── */
-
-function HubTabs({
-  posts,
-  ayahRecords,
-  connections,
-  entitySlug,
-}: {
-  posts: any[]
-  ayahRecords: any[]
-  connections: any[]
-  entitySlug: string
-}) {
-  // Server component — render all tabs with anchor-based tab switching via CSS
-  // For simplicity, render all three sections vertically with clear section headers
-  return (
-    <div className="mx-auto max-w-3xl px-5 pb-16 pt-8">
-      {/* ── Articles ────────────────────────────────────────────────────── */}
-      <section className="mb-12">
-        <div className="mb-5 flex items-center gap-3">
-          <h2 className="font-serif text-lg font-bold text-navy-dark dark:text-cream">
-            Articles
-          </h2>
-          <span className="rounded-full bg-gold-500/10 px-2.5 py-0.5 text-xs font-medium text-gold-500">
-            {posts.length}
-          </span>
-        </div>
-
-        {posts.length > 0 ? (
-          <div className="space-y-4">
-            {posts.map((post: any) => (
-              <Link
-                key={post.id}
-                href={post.type === 'surah' && post.surah_number ? `/surahs/${post.slug}` : `/posts/${post.slug}`}
-                className="group block rounded-xl border border-zinc-200 bg-zinc-50 p-5 transition hover:border-gold-500/30 hover:bg-gold-500/[0.03] dark:border-white/[0.05] dark:bg-white/[0.015] dark:hover:border-gold-500/20"
-              >
-                <div className="flex items-start justify-between gap-4">
-                  <div className="min-w-0 flex-1">
-                    <h3 className="font-serif text-base font-semibold text-navy-dark group-hover:text-gold-600 dark:text-cream dark:group-hover:text-gold-400">
-                      {post.title}
-                    </h3>
-                    {post.excerpt && (
-                      <p className="mt-1.5 line-clamp-2 text-sm text-zinc-500 dark:text-zinc-400">
-                        {post.excerpt}
-                      </p>
-                    )}
-                  </div>
-                  {post.surah_number && (
-                    <span className="shrink-0 rounded-lg bg-gold-500/10 px-2 py-1 text-xs font-medium text-gold-500">
-                      Surah {post.surah_number}
-                    </span>
-                  )}
-                </div>
-              </Link>
-            ))}
-          </div>
-        ) : (
-          <p className="text-sm text-zinc-400 dark:text-zinc-600">
-            No articles tagged yet.
-          </p>
-        )}
-      </section>
-
-      {/* ── Ayah Records ────────────────────────────────────────────────── */}
-      <section className="mb-12">
-        <div className="mb-5 flex items-center gap-3">
-          <h2 className="font-serif text-lg font-bold text-navy-dark dark:text-cream">
-            Ayah Records
-          </h2>
-          <span className="rounded-full bg-gold-500/10 px-2.5 py-0.5 text-xs font-medium text-gold-500">
-            {ayahRecords.length}
-          </span>
-        </div>
-
-        {ayahRecords.length > 0 ? (
-          <div className="space-y-4">
-            {ayahRecords.map((ar: any) => (
-              <AyahCard
-                key={ar.id}
-                surahNumber={ar.surah_number}
-                ayahStart={ar.ayah_start}
-                ayahEnd={ar.ayah_end}
-                arabic={ar.arabic_text}
-                translation={ar.translation}
-                title={ar.title}
-                layerA={ar.layer_a}
-                expandable
-              />
-            ))}
-          </div>
-        ) : (
-          <p className="text-sm text-zinc-400 dark:text-zinc-600">
-            No ayah records tagged yet.
-          </p>
-        )}
-      </section>
-
-      {/* ── Connections ─────────────────────────────────────────────────── */}
-      <section>
-        <div className="mb-5 flex items-center gap-3">
-          <h2 className="font-serif text-lg font-bold text-navy-dark dark:text-cream">
-            Connections
-          </h2>
-          <span className="rounded-full bg-gold-500/10 px-2.5 py-0.5 text-xs font-medium text-gold-500">
-            {connections.length}
-          </span>
-        </div>
-
-        {connections.length > 0 ? (
-          <div className="flex flex-wrap gap-3">
-            {connections.map((e: any) => (
-              <Link
-                key={e.id}
-                href={`/hub/${e.slug}`}
-                className="group flex items-center gap-2.5 rounded-xl border border-zinc-200 bg-zinc-50 px-4 py-3 transition hover:border-gold-500/30 hover:bg-gold-500/[0.03] dark:border-white/[0.05] dark:bg-white/[0.015] dark:hover:border-gold-500/20"
-              >
-                <span
-                  className="text-lg text-[rgba(201,168,76,0.7)]"
-                  style={{ fontFamily: "var(--font-amiri,'Amiri'),serif", direction: 'rtl' }}
-                >
-                  {e.name_arabic}
-                </span>
-                <span className="text-sm font-medium text-navy-dark group-hover:text-gold-600 dark:text-cream/80 dark:group-hover:text-gold-400">
-                  {e.name_translit}
-                </span>
-              </Link>
-            ))}
-          </div>
-        ) : (
-          <p className="text-sm text-zinc-400 dark:text-zinc-600">
-            No connections discovered yet.
-          </p>
-        )}
-      </section>
-    </div>
-  )
-}
