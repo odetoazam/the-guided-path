@@ -65,7 +65,7 @@ async function getHubData(slug: string) {
   const taggedPostIds = (postTags ?? []).map((t: any) => t.post_id).filter(Boolean)
   const taggedAyahIds = (ayahTags ?? []).map((t: any) => t.ayah_record_id).filter(Boolean)
 
-  let connections: Entity[] = []
+  let connections: (Entity & { coOccurrenceCount?: number })[] = []
   if (taggedPostIds.length > 0 || taggedAyahIds.length > 0) {
     // Get entities that share at least one post or ayah record with this entity
     let query = supabase
@@ -99,7 +99,7 @@ async function getHubData(slug: string) {
     connections = Array.from(entityMap.values())
       .sort((a, b) => b.count - a.count)
       .slice(0, 12)
-      .map((v) => v.entity)
+      .map((v) => ({ ...v.entity, coOccurrenceCount: v.count }))
   }
 
   // Filter posts to only published
@@ -232,24 +232,25 @@ export default async function HubPage({ params }: Props) {
         </div>
       </div>
 
-      {/* ── Synthesis placeholder ──────────────────────────────────────────── */}
-      <div className="mx-auto max-w-3xl px-5 pt-10">
-        <div className="rounded-2xl border border-zinc-200 bg-zinc-50 px-8 py-10 text-center dark:border-white/[0.05] dark:bg-white/[0.015]">
-          <p className="text-sm text-zinc-400 dark:text-zinc-600">
-            A synthesized overview will appear here as content grows.
-          </p>
-        </div>
-      </div>
-
       {/* ── Tabbed content ─────────────────────────────────────────────────── */}
-      <HubTabs
-        posts={posts}
-        ayahRecords={ayahRecords}
-        connections={connections}
-        entitySlug={slug}
-        entityName={entity.name_translit}
-        entityArabic={entity.name_arabic}
-      />
+      <div className="pt-10">
+        <HubTabs
+          posts={posts}
+          ayahRecords={ayahRecords}
+          connections={connections}
+          entitySlug={slug}
+          entityName={entity.name_translit}
+          entityArabic={entity.name_arabic}
+          rootLetters={entity.root_letters}
+          rootMeaning={entity.root_meaning}
+          rootElaboration={entity.root_elaboration}
+          occurrenceCount={entity.occurrence_count}
+          occurrenceNote={entity.occurrence_note}
+          pronunciation={entity.pronunciation}
+          oneLine={entity.one_line}
+          glossaryData={entity.glossary_data}
+        />
+      </div>
     </div>
   )
 }

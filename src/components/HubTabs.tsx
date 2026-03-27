@@ -57,17 +57,49 @@ function getNodePositions(count: number) {
   return positions
 }
 
+/* ── Glossary field display labels ─────────────────────────────────────────── */
+
+const GLOSSARY_FIELD_LABELS: Record<string, string> = {
+  deeper_meaning: 'Deeper Meaning',
+  related_terms: 'Related Terms',
+  usage_notes: 'Usage Notes',
+  linguistic_notes: 'Linguistic Notes',
+  theological_context: 'Theological Context',
+  historical_context: 'Historical Context',
+  scholarly_notes: 'Scholarly Notes',
+  classical_commentary: 'Classical Commentary',
+}
+
 /* ── Types ─────────────────────────────────────────────────────────────────── */
 
-type TabKey = 'articles' | 'ayahs' | 'connections'
+type TabKey = 'overview' | 'articles' | 'ayahs' | 'connections'
+
+interface ConnectionEntity {
+  id: string
+  slug: string
+  name_arabic: string
+  name_translit: string
+  category: string
+  one_line?: string
+  coOccurrenceCount?: number
+}
 
 interface HubTabsProps {
   posts: any[]
   ayahRecords: any[]
-  connections: any[]
+  connections: ConnectionEntity[]
   entitySlug: string
   entityName?: string
   entityArabic?: string
+  /* Overview fields */
+  rootLetters?: string | null
+  rootMeaning?: string | null
+  rootElaboration?: string | null
+  occurrenceCount?: number | null
+  occurrenceNote?: string | null
+  pronunciation?: string | null
+  oneLine?: string | null
+  glossaryData?: Record<string, any> | null
 }
 
 /* ── Component ─────────────────────────────────────────────────────────────── */
@@ -79,14 +111,32 @@ export function HubTabs({
   entitySlug,
   entityName,
   entityArabic,
+  rootLetters,
+  rootMeaning,
+  rootElaboration,
+  occurrenceCount,
+  occurrenceNote,
+  pronunciation,
+  oneLine,
+  glossaryData,
 }: HubTabsProps) {
-  const [activeTab, setActiveTab] = useState<TabKey>('articles')
+  const [activeTab, setActiveTab] = useState<TabKey>('overview')
 
-  const tabs: { key: TabKey; label: string; count: number }[] = [
+  const tabs: { key: TabKey; label: string; count?: number }[] = [
+    { key: 'overview', label: 'Overview' },
     { key: 'articles', label: 'Articles', count: posts.length },
     { key: 'ayahs', label: 'Ayah Records', count: ayahRecords.length },
     { key: 'connections', label: 'Connections', count: connections.length },
   ]
+
+  // Filter glossary data to only non-empty string/array fields
+  const glossaryEntries = glossaryData
+    ? Object.entries(glossaryData).filter(([, v]) => {
+        if (typeof v === 'string') return v.trim().length > 0
+        if (Array.isArray(v)) return v.length > 0
+        return false
+      })
+    : []
 
   return (
     <div className="mx-auto max-w-3xl px-5 pb-16">
@@ -106,15 +156,17 @@ export function HubTabs({
               }`}
             >
               {tab.label}
-              <span
-                className={`inline-flex min-w-[1.25rem] items-center justify-center rounded-full px-1.5 py-0.5 text-[10px] font-semibold leading-none ${
-                  activeTab === tab.key
-                    ? 'bg-[#C9A84C]/15 text-[#C9A84C]'
-                    : 'bg-zinc-200/60 text-zinc-500 dark:bg-white/[0.06] dark:text-zinc-500'
-                }`}
-              >
-                {tab.count}
-              </span>
+              {tab.count !== undefined && (
+                <span
+                  className={`inline-flex min-w-[1.25rem] items-center justify-center rounded-full px-1.5 py-0.5 text-[10px] font-semibold leading-none ${
+                    activeTab === tab.key
+                      ? 'bg-[#C9A84C]/15 text-[#C9A84C]'
+                      : 'bg-zinc-200/60 text-zinc-500 dark:bg-white/[0.06] dark:text-zinc-500'
+                  }`}
+                >
+                  {tab.count}
+                </span>
+              )}
               {/* Gold underline indicator */}
               {activeTab === tab.key && (
                 <span className="absolute inset-x-0 -bottom-px h-0.5 rounded-full bg-[#C9A84C]" />
@@ -126,6 +178,110 @@ export function HubTabs({
 
       {/* ── Tab panels ─────────────────────────────────────────────────── */}
       <div className="pt-8">
+        {/* Overview panel */}
+        {activeTab === 'overview' && (
+          <div role="tabpanel" className="space-y-8">
+            {/* Synthesized overview placeholder */}
+            <div className="rounded-2xl border border-zinc-200 bg-zinc-50 px-8 py-8 dark:border-white/[0.05] dark:bg-white/[0.015]">
+              <p className="text-sm leading-relaxed text-zinc-400 dark:text-zinc-500">
+                A synthesized overview will appear here as content grows.
+              </p>
+            </div>
+
+            {/* Knowledge card */}
+            {(rootLetters || rootElaboration || occurrenceNote || glossaryEntries.length > 0) && (
+              <div className="space-y-6">
+                {/* Root elaboration */}
+                {rootElaboration && (
+                  <div className="rounded-2xl border border-zinc-200 bg-zinc-50 px-8 py-7 dark:border-white/[0.05] dark:bg-white/[0.015]">
+                    <h3 className="mb-3 text-[10px] font-semibold uppercase tracking-widest text-zinc-500 dark:text-zinc-600">
+                      Root Analysis
+                    </h3>
+                    {rootLetters && (
+                      <div className="mb-3 flex items-center gap-3">
+                        <span
+                          className="text-2xl text-[rgba(201,168,76,0.8)]"
+                          style={{ fontFamily: "var(--font-amiri,'Amiri'),serif" }}
+                        >
+                          {rootLetters}
+                        </span>
+                        {rootMeaning && (
+                          <>
+                            <span className="text-zinc-300 dark:text-white/[0.08]">/</span>
+                            <span className="text-sm font-medium text-[#0D1B2A] dark:text-[#F5F0E8]/80">
+                              {rootMeaning}
+                            </span>
+                          </>
+                        )}
+                      </div>
+                    )}
+                    <p className="text-sm leading-relaxed text-zinc-600 dark:text-zinc-400">
+                      {rootElaboration}
+                    </p>
+                  </div>
+                )}
+
+                {/* Occurrence note */}
+                {occurrenceNote && (
+                  <div className="rounded-2xl border border-zinc-200 bg-zinc-50 px-8 py-7 dark:border-white/[0.05] dark:bg-white/[0.015]">
+                    <h3 className="mb-3 text-[10px] font-semibold uppercase tracking-widest text-zinc-500 dark:text-zinc-600">
+                      Quranic Occurrence
+                    </h3>
+                    {occurrenceCount && (
+                      <div className="mb-2 flex items-baseline gap-2">
+                        <span className="text-2xl font-semibold text-[#0D1B2A] dark:text-[#F5F0E8]/80">
+                          {occurrenceCount}
+                        </span>
+                        <span className="text-xs text-zinc-500 dark:text-zinc-600">times in the Quran</span>
+                      </div>
+                    )}
+                    <p className="text-sm leading-relaxed text-zinc-600 dark:text-zinc-400">
+                      {occurrenceNote}
+                    </p>
+                  </div>
+                )}
+
+                {/* Glossary data sections */}
+                {glossaryEntries.length > 0 && (
+                  <div className="space-y-5">
+                    {glossaryEntries.map(([key, value]) => (
+                      <div
+                        key={key}
+                        className="rounded-2xl border border-zinc-200 bg-zinc-50 px-8 py-7 dark:border-white/[0.05] dark:bg-white/[0.015]"
+                      >
+                        <h3 className="mb-3 text-[10px] font-semibold uppercase tracking-widest text-zinc-500 dark:text-zinc-600">
+                          {GLOSSARY_FIELD_LABELS[key] || key.replace(/_/g, ' ')}
+                        </h3>
+                        {typeof value === 'string' ? (
+                          <p className="text-sm leading-relaxed text-zinc-600 dark:text-zinc-400">
+                            {value}
+                          </p>
+                        ) : Array.isArray(value) ? (
+                          <ul className="space-y-1.5">
+                            {value.map((item: any, idx: number) => (
+                              <li
+                                key={idx}
+                                className="flex items-start gap-2 text-sm text-zinc-600 dark:text-zinc-400"
+                              >
+                                <span className="mt-1.5 h-1 w-1 shrink-0 rounded-full bg-[#C9A84C]/40" />
+                                <span className="leading-relaxed">{typeof item === 'string' ? item : JSON.stringify(item)}</span>
+                              </li>
+                            ))}
+                          </ul>
+                        ) : (
+                          <p className="text-sm leading-relaxed text-zinc-600 dark:text-zinc-400">
+                            {JSON.stringify(value)}
+                          </p>
+                        )}
+                      </div>
+                    ))}
+                  </div>
+                )}
+              </div>
+            )}
+          </div>
+        )}
+
         {/* Articles panel */}
         {activeTab === 'articles' && (
           <div role="tabpanel">
@@ -263,7 +419,7 @@ export function HubTabs({
                   </div>
 
                   {/* Connected entity nodes */}
-                  {connections.map((e: any, i: number) => {
+                  {connections.map((e, i) => {
                     const positions = getNodePositions(connections.length)
                     const pos = positions[i]
                     if (!pos) return null
@@ -303,7 +459,7 @@ export function HubTabs({
                 {/* Grouped list below the graph */}
                 <div className="space-y-6">
                   {Object.entries(
-                    connections.reduce<Record<string, any[]>>((acc, e: any) => {
+                    connections.reduce<Record<string, ConnectionEntity[]>>((acc, e) => {
                       const cat = e.category as string
                       if (!acc[cat]) acc[cat] = []
                       acc[cat].push(e)
@@ -315,27 +471,34 @@ export function HubTabs({
                         {CATEGORY_LABELS[category as EntityCategory] || category}
                       </h3>
                       <div className="flex flex-wrap gap-2">
-                        {entities.map((e: any) => {
+                        {entities.map((e) => {
                           const style =
                             CATEGORY_STYLES[e.category as EntityCategory] || ''
                           return (
                             <Link
                               key={e.id}
                               href={`/hub/${e.slug}`}
-                              className={`group flex items-center gap-2 rounded-xl border px-3.5 py-2.5 transition hover:scale-[1.02] hover:shadow-sm ${style}`}
+                              className={`group flex flex-col rounded-xl border px-3.5 py-2.5 transition hover:scale-[1.02] hover:shadow-sm ${style}`}
                             >
-                              <span
-                                className="text-base text-[rgba(201,168,76,0.7)]"
-                                style={{
-                                  fontFamily: "var(--font-amiri,'Amiri'),serif",
-                                  direction: 'rtl',
-                                }}
-                              >
-                                {e.name_arabic}
-                              </span>
-                              <span className="text-sm font-medium text-[#0D1B2A] dark:text-[#F5F0E8]/80">
-                                {e.name_translit}
-                              </span>
+                              <div className="flex items-center gap-2">
+                                <span
+                                  className="text-base text-[rgba(201,168,76,0.7)]"
+                                  style={{
+                                    fontFamily: "var(--font-amiri,'Amiri'),serif",
+                                    direction: 'rtl',
+                                  }}
+                                >
+                                  {e.name_arabic}
+                                </span>
+                                <span className="text-sm font-medium text-[#0D1B2A] dark:text-[#F5F0E8]/80">
+                                  {e.name_translit}
+                                </span>
+                              </div>
+                              {e.coOccurrenceCount && e.coOccurrenceCount > 0 && (
+                                <span className="mt-0.5 text-[10px] text-zinc-400 dark:text-zinc-600">
+                                  Co-occurs in {e.coOccurrenceCount} article{e.coOccurrenceCount === 1 ? '' : 's'}
+                                </span>
+                              )}
                             </Link>
                           )
                         })}
