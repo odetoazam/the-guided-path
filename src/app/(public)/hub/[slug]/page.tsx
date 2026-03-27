@@ -111,7 +111,16 @@ async function getHubData(slug: string) {
     .map((t: any) => t.ayah_records)
     .filter(Boolean)
 
-  return { entity: entity as Entity, posts, ayahRecords, connections }
+  // Fetch synthesis cache
+  const { data: synthesisRow } = await supabase
+    .from('hub_synthesis_cache')
+    .select('synthesis_html')
+    .eq('entity_id', entity.id)
+    .single()
+
+  const synthesisHtml = synthesisRow?.synthesis_html || null
+
+  return { entity: entity as Entity, posts, ayahRecords, connections, synthesisHtml }
 }
 
 /* ── Metadata ──────────────────────────────────────────────────────────────── */
@@ -142,7 +151,7 @@ export default async function HubPage({ params }: Props) {
   const data = await getHubData(slug)
   if (!data) return notFound()
 
-  const { entity, posts, ayahRecords, connections } = data
+  const { entity, posts, ayahRecords, connections, synthesisHtml } = data
 
   return (
     <div className="min-h-screen bg-white dark:bg-navy-dark text-navy dark:text-cream">
@@ -249,6 +258,7 @@ export default async function HubPage({ params }: Props) {
           pronunciation={entity.pronunciation}
           oneLine={entity.one_line}
           glossaryData={entity.glossary_data}
+          synthesisHtml={synthesisHtml}
         />
       </div>
     </div>

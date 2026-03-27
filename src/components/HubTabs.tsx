@@ -295,6 +295,7 @@ interface HubTabsProps {
   pronunciation?: string | null
   oneLine?: string | null
   glossaryData?: Record<string, any> | null
+  synthesisHtml?: string | null
 }
 
 /* ── Component ─────────────────────────────────────────────────────────────── */
@@ -314,6 +315,7 @@ export function HubTabs({
   pronunciation,
   oneLine,
   glossaryData,
+  synthesisHtml,
 }: HubTabsProps) {
   const [activeTab, setActiveTab] = useState<TabKey>('overview')
 
@@ -378,12 +380,19 @@ export function HubTabs({
         {/* Overview panel */}
         {activeTab === 'overview' && (
           <div role="tabpanel" className="space-y-8">
-            {/* Synthesized overview placeholder */}
-            <div className="rounded-2xl border border-zinc-200 bg-zinc-50 px-8 py-8 dark:border-white/[0.05] dark:bg-white/[0.015]">
-              <p className="text-sm leading-relaxed text-zinc-400 dark:text-zinc-500">
-                A synthesized overview will appear here as content grows.
-              </p>
-            </div>
+            {/* Synthesized overview */}
+            {synthesisHtml ? (
+              <div
+                className="prose-blog"
+                dangerouslySetInnerHTML={{ __html: synthesisHtml }}
+              />
+            ) : (
+              <div className="rounded-2xl border border-zinc-200 bg-zinc-50 px-8 py-8 dark:border-white/[0.05] dark:bg-white/[0.015]">
+                <p className="text-sm leading-relaxed text-zinc-400 dark:text-zinc-500">
+                  A synthesized overview will appear here as content grows.
+                </p>
+              </div>
+            )}
 
             {/* Knowledge card */}
             {(rootLetters || rootElaboration || occurrenceNote || glossaryEntries.length > 0) && (
