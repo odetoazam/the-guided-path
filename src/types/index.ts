@@ -2,6 +2,7 @@ export interface Post {
   id: string
   title: string
   slug: string
+  type: 'article' | 'surah'
   excerpt: string | null
   content_json: any
   content_html: string
@@ -86,4 +87,85 @@ export interface DashboardStats {
   totalEmailsSent: number
   recentPosts: Post[]
   subscriberGrowth: { date: string; count: number }[]
+}
+
+// ── Content Architecture types ────────────────────────────────────────────────
+
+export type EntityCategory =
+  | 'states_of_the_heart'
+  | 'the_unseen'
+  | 'quranic_characters'
+  | 'nations_and_peoples'
+  | 'study_terms'
+  | 'concepts_of_existence'
+  | 'theology_and_ethics'
+
+export interface Entity {
+  id: string
+  slug: string
+  name_arabic: string
+  name_translit: string
+  name_english: string | null
+  category: EntityCategory
+  one_line: string
+  pronunciation: string | null
+  root_letters: string | null
+  root_translit: string | null
+  root_meaning: string | null
+  root_elaboration: string | null
+  occurrence_count: number | null
+  occurrence_note: string | null
+  glossary_data: Record<string, any>
+  created_at: string
+  updated_at: string
+}
+
+export interface AyahRecord {
+  id: string
+  surah_number: number
+  ayah_start: number
+  ayah_end: number
+  arabic_text: string
+  translation: string
+  layer_a: Record<string, any>
+  layer_b: Record<string, any> | null
+  title: string | null
+  word_count: number | null
+  estimated_duration: string | null
+  passage_context: string | null
+  status: 'draft' | 'published'
+  created_at: string
+  updated_at: string
+}
+
+export interface EntityTag {
+  id: string
+  entity_id: string
+  post_id: string | null
+  ayah_record_id: string | null
+  is_primary: boolean
+  created_at: string
+}
+
+export interface HubSynthesisCache {
+  id: string
+  entity_id: string
+  synthesis_html: string
+  content_hash: string | null
+  last_generated_at: string
+  created_at: string
+  updated_at: string
+}
+
+// Joined types for common query patterns
+export interface EntityWithTags extends Entity {
+  tags?: EntityTag[]
+}
+
+export interface PostWithEntities extends Post {
+  entities?: (Entity & { is_primary: boolean })[]
+}
+
+export interface AyahRecordWithEntities extends AyahRecord {
+  entities?: (Entity & { is_primary: boolean })[]
 }
