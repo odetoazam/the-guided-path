@@ -60,14 +60,209 @@ function getNodePositions(count: number) {
 /* ── Glossary field display labels ─────────────────────────────────────────── */
 
 const GLOSSARY_FIELD_LABELS: Record<string, string> = {
-  deeper_meaning: 'Deeper Meaning',
-  related_terms: 'Related Terms',
-  usage_notes: 'Usage Notes',
-  linguistic_notes: 'Linguistic Notes',
-  theological_context: 'Theological Context',
-  historical_context: 'Historical Context',
-  scholarly_notes: 'Scholarly Notes',
-  classical_commentary: 'Classical Commentary',
+  summary: 'Summary',
+  rootForms: 'Root Forms',
+  keyAyahs: 'Key Ayahs',
+  scholarsSaid: 'What the Scholars Said',
+  hadith: 'Hadith',
+  acrossTransitions: 'Across Transitions',
+  semanticField: 'Semantic Field',
+  practicalSection: 'Practical Application',
+  relatedTerms: 'Related Terms',
+  goDeeper: 'Go Deeper',
+}
+
+/* ── Glossary list renderer for structured arrays ─────────────────────────── */
+
+function GlossaryList({ items, fieldKey }: { items: any[]; fieldKey: string }) {
+  // keyAyahs: [{ref, note, arabic, translation}]
+  if (fieldKey === 'keyAyahs') {
+    return (
+      <div className="space-y-5">
+        {items.map((item: any, idx: number) => (
+          <div key={idx} className="border-l-2 border-[#C9A84C]/30 pl-4">
+            {item.arabic && (
+              <p
+                className="mb-1.5 text-lg leading-[2] text-[rgba(201,168,76,0.85)]"
+                style={{ fontFamily: "var(--font-amiri,'Amiri'),serif", direction: 'rtl', textAlign: 'right' }}
+              >
+                {item.arabic}
+              </p>
+            )}
+            {item.translation && (
+              <p className="mb-1.5 text-sm italic text-zinc-500 dark:text-zinc-400">
+                {item.translation}
+              </p>
+            )}
+            {item.ref && (
+              <span className="text-[10px] font-medium uppercase tracking-wide text-[#C9A84C]/60">
+                {item.ref}
+              </span>
+            )}
+            {item.note && (
+              <p className="mt-2 text-sm leading-relaxed text-zinc-600 dark:text-zinc-400">
+                {item.note}
+              </p>
+            )}
+          </div>
+        ))}
+      </div>
+    )
+  }
+
+  // hadith: [{ref, note, arabic, translation}]
+  if (fieldKey === 'hadith') {
+    return (
+      <div className="space-y-5">
+        {items.map((item: any, idx: number) => (
+          <div key={idx} className="border-l-2 border-[#C9A84C]/30 pl-4">
+            {item.arabic && (
+              <p
+                className="mb-1.5 text-base leading-[2] text-[rgba(201,168,76,0.85)]"
+                style={{ fontFamily: "var(--font-amiri,'Amiri'),serif", direction: 'rtl', textAlign: 'right' }}
+              >
+                {item.arabic}
+              </p>
+            )}
+            {item.translation && (
+              <p className="mb-1.5 text-sm italic text-zinc-500 dark:text-zinc-400">
+                {item.translation}
+              </p>
+            )}
+            {item.ref && (
+              <span className="text-[10px] font-medium uppercase tracking-wide text-[#C9A84C]/60">
+                {item.ref}
+              </span>
+            )}
+            {item.note && (
+              <p className="mt-2 text-sm leading-relaxed text-zinc-600 dark:text-zinc-400">
+                {item.note}
+              </p>
+            )}
+          </div>
+        ))}
+      </div>
+    )
+  }
+
+  // goDeeper: [{note, slug, surahName}]
+  if (fieldKey === 'goDeeper') {
+    return (
+      <div className="space-y-4">
+        {items.map((item: any, idx: number) => (
+          <div key={idx} className="flex items-start gap-2">
+            <span className="mt-1.5 h-1.5 w-1.5 shrink-0 rounded-full bg-[#C9A84C]/40" />
+            <div>
+              <p className="text-sm leading-relaxed text-zinc-600 dark:text-zinc-400">
+                {item.note}
+              </p>
+              {item.surahName && item.slug && (
+                <Link
+                  href={`/surahs/${item.slug}`}
+                  className="mt-1 inline-block text-xs font-medium text-[#C9A84C] hover:text-[#C9A84C]/80"
+                >
+                  {item.surahName} &rarr;
+                </Link>
+              )}
+            </div>
+          </div>
+        ))}
+      </div>
+    )
+  }
+
+  // scholarsSaid: [{scholar, quote}] or strings
+  if (fieldKey === 'scholarsSaid') {
+    return (
+      <div className="space-y-4">
+        {items.map((item: any, idx: number) => (
+          <div key={idx} className="border-l-2 border-zinc-200 pl-4 dark:border-white/[0.06]">
+            {typeof item === 'string' ? (
+              <p className="text-sm leading-relaxed text-zinc-600 dark:text-zinc-400">{item}</p>
+            ) : (
+              <>
+                <p className="text-sm italic leading-relaxed text-zinc-600 dark:text-zinc-400">
+                  {item.quote || item.note || item.text}
+                </p>
+                {item.scholar && (
+                  <span className="mt-1 block text-[10px] font-medium uppercase tracking-wide text-zinc-400 dark:text-zinc-600">
+                    — {item.scholar}
+                  </span>
+                )}
+              </>
+            )}
+          </div>
+        ))}
+      </div>
+    )
+  }
+
+  // relatedTerms: [{slug, transliteration, term}]
+  if (fieldKey === 'relatedTerms') {
+    return (
+      <div className="flex flex-wrap gap-2">
+        {items.map((item: any, idx: number) => (
+          <Link
+            key={idx}
+            href={item.slug ? `/hub/${item.slug}` : '#'}
+            className="flex items-center gap-2 rounded-xl border border-zinc-200 bg-white/50 px-3.5 py-2.5 transition hover:border-[#C9A84C]/30 hover:bg-[#C9A84C]/[0.03] dark:border-white/[0.05] dark:bg-white/[0.015] dark:hover:border-[#C9A84C]/20"
+          >
+            {item.term && (
+              <span
+                className="text-base text-[rgba(201,168,76,0.7)]"
+                style={{ fontFamily: "var(--font-amiri,'Amiri'),serif", direction: 'rtl' }}
+              >
+                {item.term}
+              </span>
+            )}
+            <span className="text-sm font-medium text-[#0D1B2A] dark:text-[#F5F0E8]/80">
+              {item.transliteration || item.name || item.text || String(item)}
+            </span>
+          </Link>
+        ))}
+      </div>
+    )
+  }
+
+  // semanticField: [{term, transliteration, connection}]
+  if (fieldKey === 'semanticField') {
+    return (
+      <div className="space-y-3">
+        {items.map((item: any, idx: number) => (
+          <div key={idx} className="flex items-start gap-2">
+            <span className="mt-1.5 h-1.5 w-1.5 shrink-0 rounded-full bg-[#C9A84C]/40" />
+            <div>
+              <span className="font-medium text-sm text-[#0D1B2A] dark:text-[#F5F0E8]/80">
+                {item.transliteration || item.term}
+              </span>
+              {item.connection && (
+                <span className="text-sm text-zinc-500 dark:text-zinc-400"> — {item.connection}</span>
+              )}
+            </div>
+          </div>
+        ))}
+      </div>
+    )
+  }
+
+  // Default: simple list of strings or objects with a note/text field
+  return (
+    <ul className="space-y-1.5">
+      {items.map((item: any, idx: number) => (
+        <li
+          key={idx}
+          className="flex items-start gap-2 text-sm text-zinc-600 dark:text-zinc-400"
+        >
+          <span className="mt-1.5 h-1 w-1 shrink-0 rounded-full bg-[#C9A84C]/40" />
+          <span className="leading-relaxed">
+            {typeof item === 'string'
+              ? item
+              : (item.note || item.text || item.name || item.transliteration || JSON.stringify(item))}
+          </span>
+        </li>
+      ))}
+    </ul>
+  )
 }
 
 /* ── Types ─────────────────────────────────────────────────────────────────── */
@@ -129,9 +324,11 @@ export function HubTabs({
     { key: 'connections', label: 'Connections', count: connections.length },
   ]
 
-  // Filter glossary data to only non-empty string/array fields
+  // Filter glossary data to only non-empty string/array fields, skip hadith for now
+  const HIDDEN_GLOSSARY_FIELDS = new Set(['hadith'])
   const glossaryEntries = glossaryData
-    ? Object.entries(glossaryData).filter(([, v]) => {
+    ? Object.entries(glossaryData).filter(([key, v]) => {
+        if (HIDDEN_GLOSSARY_FIELDS.has(key)) return false
         if (typeof v === 'string') return v.trim().length > 0
         if (Array.isArray(v)) return v.length > 0
         return false
@@ -257,20 +454,10 @@ export function HubTabs({
                             {value}
                           </p>
                         ) : Array.isArray(value) ? (
-                          <ul className="space-y-1.5">
-                            {value.map((item: any, idx: number) => (
-                              <li
-                                key={idx}
-                                className="flex items-start gap-2 text-sm text-zinc-600 dark:text-zinc-400"
-                              >
-                                <span className="mt-1.5 h-1 w-1 shrink-0 rounded-full bg-[#C9A84C]/40" />
-                                <span className="leading-relaxed">{typeof item === 'string' ? item : JSON.stringify(item)}</span>
-                              </li>
-                            ))}
-                          </ul>
+                          <GlossaryList items={value} fieldKey={key} />
                         ) : (
                           <p className="text-sm leading-relaxed text-zinc-600 dark:text-zinc-400">
-                            {JSON.stringify(value)}
+                            {String(value)}
                           </p>
                         )}
                       </div>
