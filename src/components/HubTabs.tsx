@@ -394,10 +394,9 @@ export function HubTabs({
               </div>
             )}
 
-            {/* Knowledge card */}
-            {(rootLetters || rootElaboration || occurrenceNote || glossaryEntries.length > 0) && (
+            {/* Root & occurrence cards — only show when there's no synthesis (otherwise it's redundant) */}
+            {!synthesisHtml && (rootLetters || rootElaboration || occurrenceNote) && (
               <div className="space-y-6">
-                {/* Root elaboration */}
                 {rootElaboration && (
                   <div className="rounded-2xl border border-zinc-200 bg-zinc-50 px-8 py-7 dark:border-white/[0.05] dark:bg-white/[0.015]">
                     <h3 className="mb-3 text-[10px] font-semibold uppercase tracking-widest text-zinc-500 dark:text-zinc-600">
@@ -427,7 +426,6 @@ export function HubTabs({
                   </div>
                 )}
 
-                {/* Occurrence note */}
                 {occurrenceNote && (
                   <div className="rounded-2xl border border-zinc-200 bg-zinc-50 px-8 py-7 dark:border-white/[0.05] dark:bg-white/[0.015]">
                     <h3 className="mb-3 text-[10px] font-semibold uppercase tracking-widest text-zinc-500 dark:text-zinc-600">
@@ -444,33 +442,6 @@ export function HubTabs({
                     <p className="text-sm leading-relaxed text-zinc-600 dark:text-zinc-400">
                       {occurrenceNote}
                     </p>
-                  </div>
-                )}
-
-                {/* Glossary data sections */}
-                {glossaryEntries.length > 0 && (
-                  <div className="space-y-5">
-                    {glossaryEntries.map(([key, value]) => (
-                      <div
-                        key={key}
-                        className="rounded-2xl border border-zinc-200 bg-zinc-50 px-8 py-7 dark:border-white/[0.05] dark:bg-white/[0.015]"
-                      >
-                        <h3 className="mb-3 text-[10px] font-semibold uppercase tracking-widest text-zinc-500 dark:text-zinc-600">
-                          {GLOSSARY_FIELD_LABELS[key] || key.replace(/_/g, ' ')}
-                        </h3>
-                        {typeof value === 'string' ? (
-                          <p className="text-sm leading-relaxed text-zinc-600 dark:text-zinc-400">
-                            {value}
-                          </p>
-                        ) : Array.isArray(value) ? (
-                          <GlossaryList items={value} fieldKey={key} />
-                        ) : (
-                          <p className="text-sm leading-relaxed text-zinc-600 dark:text-zinc-400">
-                            {String(value)}
-                          </p>
-                        )}
-                      </div>
-                    ))}
                   </div>
                 )}
               </div>
