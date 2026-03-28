@@ -3,7 +3,7 @@ import React, { useState, useRef } from "react";
 
 // ══════════════════════════════════════════════════════════════════════════════
 // SURAH AT-TAWBAH — Visual Architecture Page (v3 — brand-aligned)
-// Generated from vetted written article at /surahs/at-tawbah
+// Generated from vetted written article at /surahs/at-tawba
 // ══════════════════════════════════════════════════════════════════════════════
 
 const SURAH_DATA = {
@@ -17,7 +17,7 @@ const SURAH_DATA = {
   movements: 4,
   thesis:
     "The only surah that withholds mercy from its opening — so that mercy, when it arrives in two divine names resting on the Prophet, lands with the full weight of everything it cost to get there. Between severance and sufficiency, the surah walks through every form of human failure and finds, at the bottom of all of it, the ground that does not move.",
-  reflectionUrl: "/surahs/at-tawbah",
+  reflectionUrl: "/surahs/at-tawba",
   readTime: "30 min read",
 
   sciencesActive: [{"key":"makki_madani","english":"Revelation Context"},{"key":"nasikh","english":"Abrogation"},{"key":"usul_tafsir","english":"Principles of Interpretation"}],

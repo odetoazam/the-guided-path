@@ -3,7 +3,7 @@ import React, { useState, useRef } from "react";
 
 // ══════════════════════════════════════════════════════════════════════════════
 // SURAH AL-JATHIYAH — Visual Architecture Page (v3 — brand-aligned)
-// Generated from vetted written article at /surahs/al-jathiyah
+// Generated from vetted written article at /surahs/al-jathiya
 // ══════════════════════════════════════════════════════════════════════════════
 
 const SURAH_DATA = {
@@ -17,7 +17,7 @@ const SURAH_DATA = {
   movements: 4,
   thesis:
     "The surah that performs an autopsy on spiritual blindness and finds that the cause of death is not ignorance but the quiet enthronement of the self — desire made god, senses sealed, and every nation kneeling before its own record.",
-  reflectionUrl: "/surahs/al-jathiyah",
+  reflectionUrl: "/surahs/al-jathiya",
   readTime: "17 min read",
 
   sciencesActive: [{"key":"balaghah","english":"Rhetoric"},{"key":"aqeedah","english":"Theology"},{"key":"nazm","english":"Structural Coherence"}],

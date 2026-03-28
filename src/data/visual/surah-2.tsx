@@ -3,7 +3,7 @@ import React, { useState, useRef } from "react";
 
 // ══════════════════════════════════════════════════════════════════════════════
 // SURAH AL-BAQARAH — Visual Architecture Page (v3 — brand-aligned, Long Surah)
-// Generated from vetted written article at /surahs/al-baqarah
+// Generated from vetted written article at /surahs/al-baqara
 // ══════════════════════════════════════════════════════════════════════════════
 
 const SURAH_DATA = {
@@ -18,7 +18,7 @@ const SURAH_DATA = {
   movements: 7,
   thesis:
     "A constitution that only works for perfect people is not a constitution. Al-Baqarah builds the entire architecture and then writes, into its last line, the prayer of the people who will live inside it imperfectly.",
-  reflectionUrl: "/surahs/al-baqarah",
+  reflectionUrl: "/surahs/al-baqara",
   readTime: "29 min read",
 
   sciencesActive: [{"key":"nasikh","english":"Abrogation"},{"key":"muhkamat","english":"Clear & Ambiguous Verses"},{"key":"nazm","english":"Structural Coherence"}],

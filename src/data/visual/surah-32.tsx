@@ -3,7 +3,7 @@ import React, { useState, useRef } from "react";
 
 // ══════════════════════════════════════════════════════════════════════════════
 // SURAH AS-SAJDAH — Visual Architecture Page (v3 — brand-aligned)
-// Generated from vetted written article at /surahs/as-sajdah
+// Generated from vetted written article at /surahs/as-sajda
 // ══════════════════════════════════════════════════════════════════════════════
 
 const SURAH_DATA = {
@@ -17,7 +17,7 @@ const SURAH_DATA = {
   movements: 4,
   thesis:
     "A thirty-ayah surah that begins at Allah's throne and ends at the dust of forgotten civilizations — and between those two poles traces the entire arc of existence, funneling everything cosmic toward a single person praying in the dark.",
-  reflectionUrl: "/surahs/as-sajdah",
+  reflectionUrl: "/surahs/as-sajda",
   readTime: "20 min read",
 
   sciencesActive: [{"key":"nazm","english":"Structural Coherence"},{"key":"aqeedah","english":"Theology"},{"key":"munasabat","english":"Inter-surah Connections"}],

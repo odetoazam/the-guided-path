@@ -3,7 +3,7 @@ import React, { useState, useRef } from "react";
 
 // ══════════════════════════════════════════════════════════════════════════════
 // SURAH AL-MA'IDAH — Visual Architecture Page (v3 — brand-aligned, Long Surah)
-// Generated from vetted written article at /surahs/al-maidah
+// Generated from vetted written article at /surahs/al-maida
 // ══════════════════════════════════════════════════════════════════════════════
 
 const SURAH_DATA = {
@@ -18,7 +18,7 @@ const SURAH_DATA = {
   movements: 6,
   thesis:
     "The surah of the last word — a final testament that seals the religion as complete, catalogs every covenant ever broken, and closes with Jesus standing before God demonstrating what a perfectly honored covenant looks like.",
-  reflectionUrl: "/surahs/al-maidah",
+  reflectionUrl: "/surahs/al-maida",
   readTime: "22 min read",
 
   sciencesActive: [{"key":"nasikh","english":"Abrogation"},{"key":"makki_madani","english":"Revelation Context"},{"key":"usul_tafsir","english":"Principles of Interpretation"}],

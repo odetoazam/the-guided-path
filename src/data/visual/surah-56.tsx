@@ -3,7 +3,7 @@ import React, { useState, useRef } from "react";
 
 // ══════════════════════════════════════════════════════════════════════════════
 // SURAH AL-WAQIAH — Visual Architecture Page (v3 — brand-aligned)
-// Generated from vetted written article at /surahs/al-waqiah
+// Generated from vetted written article at /surahs/al-waqia
 // ══════════════════════════════════════════════════════════════════════════════
 
 const SURAH_DATA = {
@@ -17,7 +17,7 @@ const SURAH_DATA = {
   movements: 4,
   thesis:
     "The surah of sorting — when the world ends, every human being will be divided into exactly three groups, and the rest of the surah exists to make you wonder which group you belong to. Then it holds a glass of water in front of your face and asks who filled it.",
-  reflectionUrl: "/surahs/al-waqiah",
+  reflectionUrl: "/surahs/al-waqia",
   readTime: "25 min read",
 
   sciencesActive: [{"key":"balaghah","english":"Rhetoric"},{"key":"nazm","english":"Structural Coherence"},{"key":"aqeedah","english":"Theology"}],

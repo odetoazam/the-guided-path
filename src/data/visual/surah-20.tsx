@@ -3,7 +3,7 @@ import React, { useState, useRef } from "react";
 
 // ══════════════════════════════════════════════════════════════════════════════
 // SURAH TA-HA — Visual Architecture Page (v3 — brand-aligned)
-// Generated from vetted written article at /surahs/taha
+// Generated from vetted written article at /surahs/ta-ha
 // ══════════════════════════════════════════════════════════════════════════════
 
 const SURAH_DATA = {
@@ -17,7 +17,7 @@ const SURAH_DATA = {
   movements: 5,
   thesis:
     "The Quran's most intimate portrait of what it costs to be chosen — told through a prophet under pressure, a community that forgot, and the quiet certainty that suffering comes not from carrying the truth but from turning away from it.",
-  reflectionUrl: "/surahs/taha",
+  reflectionUrl: "/surahs/ta-ha",
   readTime: "30 min read",
 
   sciencesActive: [{"key":"qasas","english":"Quranic Narratives"},{"key":"balaghah","english":"Rhetoric"},{"key":"nazm","english":"Structural Coherence"}],

@@ -3,7 +3,7 @@ import React, { useState, useRef } from "react";
 
 // ══════════════════════════════════════════════════════════════════════════════
 // SURAH AL-JUMU'AH — Visual Architecture Page (v3 — brand-aligned)
-// Generated from vetted written article at /surahs/al-jumu-ah
+// Generated from vetted written article at /surahs/al-jumua
 // ══════════════════════════════════════════════════════════════════════════════
 
 const SURAH_DATA = {
@@ -17,7 +17,7 @@ const SURAH_DATA = {
   movements: 3,
   thesis:
     "An eleven-ayah argument about the gap between possessing guidance and being transformed by it — from the cosmic mission of the Prophet, through a donkey carrying books it cannot read, to a congregation that abandoned the Prophet's sermon for a passing caravan.",
-  reflectionUrl: "/surahs/al-jumu-ah",
+  reflectionUrl: "/surahs/al-jumua",
   readTime: "18 min read",
 
   sciencesActive: [{"key":"makki_madani","english":"Revelation Context"},{"key":"balaghah","english":"Rhetoric"},{"key":"amthal","english":"Parables"}],

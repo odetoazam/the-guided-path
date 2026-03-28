@@ -3,7 +3,7 @@ import React, { useState, useRef } from "react";
 
 // ══════════════════════════════════════════════════════════════════════════════
 // SURAH AL-QIYAMAH — Visual Architecture Page (v3 — brand-aligned)
-// Generated from vetted written article at /surahs/al-qiyamah
+// Generated from vetted written article at /surahs/al-qiyama
 // ══════════════════════════════════════════════════════════════════════════════
 
 const SURAH_DATA = {
@@ -17,7 +17,7 @@ const SURAH_DATA = {
   movements: 5,
   thesis:
     "A forty-ayah surah that places the Day of Resurrection and a single deathbed in the same frame, and shows you they are the same event at different scales.",
-  reflectionUrl: "/surahs/al-qiyamah",
+  reflectionUrl: "/surahs/al-qiyama",
   readTime: "18 min read",
 
   sciencesActive: [{"key":"balaghah","english":"Rhetoric"},{"key":"qasam","english":"Oaths"},{"key":"aqeedah","english":"Theology"}],

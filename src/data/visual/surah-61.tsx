@@ -3,7 +3,7 @@ import React, { useState, useRef } from "react";
 
 // ══════════════════════════════════════════════════════════════════════════════
 // SURAH AS-SAFF — Visual Architecture Page (v3 — brand-aligned)
-// Generated from vetted written article at /surahs/as-saff
+// Generated from vetted written article at /surahs/as-saf
 // ══════════════════════════════════════════════════════════════════════════════
 
 const SURAH_DATA = {
@@ -17,7 +17,7 @@ const SURAH_DATA = {
   movements: 5,
   thesis:
     "A fourteen-ayah confrontation with the believing community that moves from cosmic glorification through the sharpest rebuke — why do you say what you do not do? — through prophetic history, through the certainty of divine light, to a sacred transaction and a single imperative: be helpers of Allah.",
-  reflectionUrl: "/surahs/as-saff",
+  reflectionUrl: "/surahs/as-saf",
   readTime: "18 min read",
 
   sciencesActive: [{"key":"nazm","english":"Structural Coherence"},{"key":"balaghah","english":"Rhetoric"},{"key":"munasabat","english":"Inter-surah Connections"}],

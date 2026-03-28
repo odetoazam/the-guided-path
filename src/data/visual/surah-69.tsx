@@ -3,7 +3,7 @@ import React, { useState, useRef } from "react";
 
 // ══════════════════════════════════════════════════════════════════════════════
 // SURAH AL-HAQQAH — Visual Architecture Page (v3 — brand-aligned)
-// Generated from vetted written article at /surahs/al-haqqah
+// Generated from vetted written article at /surahs/al-haqqa
 // ══════════════════════════════════════════════════════════════════════════════
 
 const SURAH_DATA = {
@@ -17,7 +17,7 @@ const SURAH_DATA = {
   movements: 5,
   thesis:
     "A surah that grabs you with a single word repeated three times, marches you past five ruined civilizations and one shattered cosmos, forces you to see yourself holding a book in either your right or your left hand, and then — having shown you everything — turns to the very words you are hearing and says: these, too, are real.",
-  reflectionUrl: "/surahs/al-haqqah",
+  reflectionUrl: "/surahs/al-haqqa",
   readTime: "20 min read",
 
   sciencesActive: [{"key":"balaghah","english":"Rhetoric"},{"key":"ijaz","english":"Inimitability"},{"key":"aqeedah","english":"Theology"}],

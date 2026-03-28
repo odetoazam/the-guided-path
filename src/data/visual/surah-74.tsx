@@ -3,7 +3,7 @@ import React, { useState, useRef } from "react";
 
 // ══════════════════════════════════════════════════════════════════════════════
 // SURAH AL-MUDDATHTHIR — Visual Architecture Page (v3 — brand-aligned)
-// Generated from vetted written article at /surahs/al-muddaththir
+// Generated from vetted written article at /surahs/al-muddathir
 // ══════════════════════════════════════════════════════════════════════════════
 
 const SURAH_DATA = {
@@ -17,7 +17,7 @@ const SURAH_DATA = {
   movements: 4,
   thesis:
     "A surah that pulls the cloak off a trembling man and sends him into a world that will call his message magic — narrating the psychology of denial step by step, turning a number into a diagnostic mirror, and closing by naming the God who sent the warning as the God who forgives.",
-  reflectionUrl: "/surahs/al-muddaththir",
+  reflectionUrl: "/surahs/al-muddathir",
   readTime: "20 min read",
 
   sciencesActive: [{"key":"balaghah","english":"Rhetoric"},{"key":"sarf","english":"Morphology"},{"key":"nazm","english":"Structural Coherence"}],

@@ -3,7 +3,7 @@ import React, { useState, useRef } from "react";
 
 // ══════════════════════════════════════════════════════════════════════════════
 // SURAH AL-MUMTAHINA — Visual Architecture Page (v3 — brand-aligned)
-// Generated from vetted written article at /surahs/al-mumtahina
+// Generated from vetted written article at /surahs/al-mumtahana
 // ══════════════════════════════════════════════════════════════════════════════
 
 const SURAH_DATA = {
@@ -17,7 +17,7 @@ const SURAH_DATA = {
   movements: 5,
   thesis:
     "A surah that draws the line between loyalty and betrayal and then places hope at the center of the line — commanding the severance of alliances for the sake of faith while promising that the God who commands separation holds the power to transform enmity into love.",
-  reflectionUrl: "/surahs/al-mumtahina",
+  reflectionUrl: "/surahs/al-mumtahana",
   readTime: "22 min read",
 
   sciencesActive: [{"key":"makki_madani","english":"Revelation Context"},{"key":"usul_tafsir","english":"Principles of Interpretation"},{"key":"nasikh","english":"Abrogation"}],
