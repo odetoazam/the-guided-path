@@ -6,10 +6,11 @@ import { Input } from '@/components/ui/input'
 import { Mail, CheckCircle } from 'lucide-react'
 import { Turnstile, type TurnstileInstance } from '@marsidev/react-turnstile'
 import toast from 'react-hot-toast'
+import { trackSubscribeAttempt, trackSubscribeSuccess, trackSubscribeError } from '@/lib/analytics'
 
 const TURNSTILE_SITE_KEY = process.env.NEXT_PUBLIC_TURNSTILE_SITE_KEY || ''
 
-export function NewsletterSignup() {
+export function NewsletterSignup({ source = 'landing_page' }: { source?: string }) {
   const [email, setEmail] = useState('')
   const [name, setName] = useState('')
   const [loading, setLoading] = useState(false)
@@ -27,6 +28,7 @@ export function NewsletterSignup() {
     }
 
     setLoading(true)
+    trackSubscribeAttempt(source)
     try {
       const res = await fetch('/api/subscribers', {
         method: 'POST',
@@ -34,7 +36,7 @@ export function NewsletterSignup() {
         body: JSON.stringify({
           email,
           name,
-          source: 'landing_page',
+          source,
           ...(turnstileToken && { turnstileToken }),
         }),
       })
@@ -42,15 +44,18 @@ export function NewsletterSignup() {
       const data = await res.json()
 
       if (!res.ok) {
+        trackSubscribeError(source, data.error || 'unknown')
         toast.error(data.error || 'Something went wrong')
         // Reset Turnstile on failure so user can retry
         turnstileRef.current?.reset()
         setTurnstileToken(null)
       } else {
+        trackSubscribeSuccess(source)
         setSubscribed(true)
         toast.success('Check your email to confirm your subscription!')
       }
     } catch {
+      trackSubscribeError(source, 'network')
       toast.error('Something went wrong')
       turnstileRef.current?.reset()
       setTurnstileToken(null)

@@ -3,6 +3,7 @@
 import Link from 'next/link'
 import { useState, useMemo } from 'react'
 import { GLOSSARY_TERMS, type GlossaryCategory, type GlossaryMeta } from '@/data/glossary'
+import { trackGlossaryCategoryFilter } from '@/lib/analytics'
 
 const CATEGORIES: GlossaryCategory[] = [
   'States of the Heart',
@@ -167,7 +168,7 @@ export function GlossaryGrid() {
             {(['All', ...CATEGORIES] as (GlossaryCategory | 'All')[]).map((cat) => (
               <button
                 key={cat}
-                onClick={() => setActiveCategory(cat)}
+                onClick={() => { setActiveCategory(cat); trackGlossaryCategoryFilter(cat) }}
                 className={`rounded-full border px-3 py-1 text-[11px] font-medium transition-all duration-200 ${
                   activeCategory === cat
                     ? 'border-[rgba(212,175,55,0.35)] bg-[rgba(212,175,55,0.12)] text-[#C9A84C]'

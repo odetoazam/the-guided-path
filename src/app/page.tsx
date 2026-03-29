@@ -215,7 +215,7 @@ export default async function LandingPage() {
 
           <ScrollReveal delay={200}>
             <div className="mt-6">
-              <NewsletterSignup />
+              <NewsletterSignup source="homepage" />
             </div>
             <p className="mt-4 text-xs text-zinc-400 dark:text-cream/40">
               No spam, ever. Unsubscribe with a single click.

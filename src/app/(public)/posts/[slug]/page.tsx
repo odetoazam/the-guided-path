@@ -2,6 +2,7 @@ import { notFound } from 'next/navigation'
 import { createClient } from '@/lib/supabase/server'
 import { formatDate, isRTL } from '@/lib/utils'
 import { NewsletterSignup } from '@/components/blog/newsletter-signup'
+import { ScrollDepthTracker } from '@/components/providers/scroll-depth-tracker'
 import { Clock, Calendar, ArrowLeft } from 'lucide-react'
 import Link from 'next/link'
 import type { Metadata } from 'next'
@@ -510,6 +511,8 @@ export default async function PostPage({ params }: Props) {
           </div>
         )}
 
+        <ScrollDepthTracker slug={post.slug} contentType="article" />
+
         {/* Newsletter CTA */}
         <div className="mt-14 sm:mt-20 rounded-2xl border border-zinc-200 dark:border-zinc-800 bg-zinc-50 dark:bg-zinc-900/30 p-8 sm:p-10 text-center">
           <p className="text-gold-500/60 text-sm mb-3">۞</p>
@@ -520,7 +523,7 @@ export default async function PostPage({ params }: Props) {
             Get tadabbur delivered to your inbox.
           </p>
           <div className="mt-6 mx-auto max-w-md">
-            <NewsletterSignup />
+            <NewsletterSignup source="article_page" />
           </div>
         </div>
       </article>

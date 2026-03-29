@@ -3,6 +3,7 @@
 import { useTheme } from 'next-themes'
 import { useEffect, useState } from 'react'
 import { Moon, Sun } from 'lucide-react'
+import { trackThemeToggle } from '@/lib/analytics'
 
 export function ThemeToggle() {
   const [mounted, setMounted] = useState(false)
@@ -16,7 +17,7 @@ export function ThemeToggle() {
 
   return (
     <button
-      onClick={() => setTheme(theme === 'dark' ? 'light' : 'dark')}
+      onClick={() => { const next = theme === 'dark' ? 'light' : 'dark'; setTheme(next); trackThemeToggle(next) }}
       className="rounded-lg p-2 hover:bg-zinc-100 dark:hover:bg-navy-medium/60 transition-colors"
       aria-label="Toggle theme"
     >

@@ -5,6 +5,8 @@ import { SURAHS, surahIdentity, arabicSize, surahSlug, surahBySlug } from '@/lib
 import { getSurahVFX } from '@/lib/surah-vfx'
 import { SurahCanvas } from '@/components/surah/SurahCanvas'
 import { NewsletterSignup } from '@/components/blog/newsletter-signup'
+import { ShareLink } from '@/components/analytics/share-link'
+import { ScrollDepthTracker } from '@/components/providers/scroll-depth-tracker'
 import { Clock, Calendar, ArrowLeft } from 'lucide-react'
 import type { Metadata } from 'next'
 import { CANONICAL_URL, SITE_NAME } from '@/lib/constants'
@@ -265,29 +267,35 @@ export default async function SurahDetailPage({ params }: Props) {
             {/* Share */}
             <div className="mt-8 flex items-center justify-center gap-6 text-sm">
               <span className="text-zinc-500">Share:</span>
-              <a
+              <ShareLink
                 href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(post.title)}&url=${encodeURIComponent(pageUrl)}`}
-                target="_blank"
-                rel="noopener noreferrer"
+                platform="twitter"
+                contentType="surah"
+                slug={slug}
                 className="text-zinc-400 hover:text-[#C9A84C] transition-colors font-medium"
               >
                 Twitter/X
-              </a>
-              <a
+              </ShareLink>
+              <ShareLink
                 href={`https://wa.me/?text=${encodeURIComponent(`${post.title} — ${pageUrl}`)}`}
-                target="_blank"
-                rel="noopener noreferrer"
+                platform="whatsapp"
+                contentType="surah"
+                slug={slug}
                 className="text-zinc-400 hover:text-[#C9A84C] transition-colors font-medium"
               >
                 WhatsApp
-              </a>
-              <a
+              </ShareLink>
+              <ShareLink
                 href={`mailto:?subject=${encodeURIComponent(post.title)}&body=${encodeURIComponent(`Check out this reflection: ${pageUrl}`)}`}
+                platform="email"
+                contentType="surah"
+                slug={slug}
                 className="text-zinc-400 hover:text-[#C9A84C] transition-colors font-medium"
               >
                 Email
-              </a>
+              </ShareLink>
             </div>
+            <ScrollDepthTracker slug={slug} contentType="surah" />
 
             {/* Newsletter CTA */}
             <div className="mt-14 rounded-2xl border border-zinc-200 dark:border-zinc-800 bg-zinc-100/50 dark:bg-zinc-900/30 p-8 sm:p-10 text-center">
@@ -299,7 +307,7 @@ export default async function SurahDetailPage({ params }: Props) {
                 Get tadabbur delivered to your inbox.
               </p>
               <div className="mt-6 mx-auto max-w-md">
-                <NewsletterSignup />
+                <NewsletterSignup source="surah_page" />
               </div>
             </div>
           </article>

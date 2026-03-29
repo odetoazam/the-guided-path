@@ -16,7 +16,7 @@ export default function SubscribePage() {
         Receive weekly Quranic tadabbur — contemplative reflections that go beyond translation — delivered straight to your inbox.
       </p>
       <div className="mt-8">
-        <NewsletterSignup />
+        <NewsletterSignup source="subscribe_page" />
       </div>
       <div className="mt-12 text-sm text-zinc-400 space-y-2">
         <p>Free forever. No spam. Unsubscribe anytime.</p>

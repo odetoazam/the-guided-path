@@ -3,6 +3,7 @@
 import { useState } from 'react'
 import Link from 'next/link'
 import { AyahCard } from '@/components/AyahCard'
+import { trackHubTabSwitch } from '@/lib/analytics'
 import type { EntityCategory } from '@/types'
 
 /* ── Category display helpers ──────────────────────────────────────────────── */
@@ -347,7 +348,7 @@ export function HubTabs({
               key={tab.key}
               role="tab"
               aria-selected={activeTab === tab.key}
-              onClick={() => setActiveTab(tab.key)}
+              onClick={() => { setActiveTab(tab.key); trackHubTabSwitch(entitySlug, tab.key) }}
               className={`relative flex items-center gap-2 px-4 py-3.5 text-sm font-medium transition-colors ${
                 activeTab === tab.key
                   ? 'text-[#C9A84C]'
