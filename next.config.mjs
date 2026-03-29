@@ -14,6 +14,11 @@ const nextConfig = {
         destination: '/surahs/:slug',
         permanent: true,
       },
+      {
+        source: '/surahs/:slug/overview',
+        destination: '/surahs/:slug',
+        permanent: true,
+      },
     ]
   },
   async headers() {

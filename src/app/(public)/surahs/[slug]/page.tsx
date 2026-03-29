@@ -1,16 +1,13 @@
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
 import { createClient } from '@/lib/supabase/server'
-import { SURAHS, surahIdentity, arabicSize, surahSlug, surahBySlug } from '@/lib/surahs'
+import { SURAHS, surahIdentity, surahSlug, surahBySlug } from '@/lib/surahs'
 import { getSurahVFX } from '@/lib/surah-vfx'
 import { SurahCanvas } from '@/components/surah/SurahCanvas'
-import { NewsletterSignup } from '@/components/blog/newsletter-signup'
-import { ShareLink } from '@/components/analytics/share-link'
-import { ScrollDepthTracker } from '@/components/providers/scroll-depth-tracker'
-import { Clock, Calendar, ArrowLeft } from 'lucide-react'
+import { SurahTabs } from '@/components/surah/SurahTabs'
+import { ArrowLeft } from 'lucide-react'
 import type { Metadata } from 'next'
 import { CANONICAL_URL, SITE_NAME } from '@/lib/constants'
-import { formatDate } from '@/lib/utils'
 
 const BISMILLAH = 'بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ'
 
@@ -68,6 +65,35 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   }
 }
 
+async function getSurahVisualData(surahNumber: number) {
+  try {
+    const supabase = await createClient()
+    const { data } = await supabase
+      .from('surah_visual_data')
+      .select('*')
+      .eq('surah_number', surahNumber)
+      .single()
+    return data
+  } catch {
+    return null
+  }
+}
+
+async function getSurahAyahRecords(surahNumber: number) {
+  try {
+    const supabase = await createClient()
+    const { data } = await supabase
+      .from('ayah_records')
+      .select('*')
+      .eq('surah_number', surahNumber)
+      .eq('status', 'published')
+      .order('ayah_start', { ascending: true })
+    return data || []
+  } catch {
+    return []
+  }
+}
+
 export default async function SurahDetailPage({ params }: Props) {
   const { slug } = await params
   const surah = surahBySlug(slug)
@@ -78,7 +104,13 @@ export default async function SurahDetailPage({ params }: Props) {
   const next = n < 114 ? SURAHS[n] : null
   const id = surahIdentity(n)
   const vfx = getSurahVFX(n)
-  const post = await getSurahPost(n)
+
+  // Parallel fetches
+  const [post, visualData, ayahRecords] = await Promise.all([
+    getSurahPost(n),
+    getSurahVisualData(n),
+    getSurahAyahRecords(n),
+  ])
 
   const glowColor = `hsla(${id.hue},${id.sat}%,${id.lightness}%,`
   const accentColor = `hsl(${id.hue},${id.sat}%,${id.lightness + 18}%)`
@@ -94,10 +126,8 @@ export default async function SurahDetailPage({ params }: Props) {
     ],
   }
 
-  const contentHtml = post?.content_html?.replace(/^<h1[^>]*>.*?<\/h1>\s*/i, '') || ''
-
   return (
-    <div className="min-h-screen bg-white dark:bg-navy-dark text-navy dark:text-cream">
+    <div className="min-h-screen bg-navy-dark text-cream">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
@@ -209,147 +239,28 @@ export default async function SurahDetailPage({ params }: Props) {
         </div>
       </div>
 
-      {/* Content section */}
-      <div className="mx-auto max-w-3xl px-5 py-12">
-        {post ? (
-          <article>
-            {/* Article header */}
-            <header className="mb-10">
-              <h2 className="font-serif text-2xl font-bold text-zinc-900 dark:text-white sm:text-3xl">
-                {post.title}
-              </h2>
-              {post.excerpt && (
-                <p className="mt-4 text-lg text-zinc-500 dark:text-zinc-400 leading-relaxed">
-                  {post.excerpt}
-                </p>
-              )}
-              <div className="mt-4 flex items-center gap-4 text-sm text-zinc-500">
-                {post.published_at && (
-                  <div className="flex items-center gap-1.5">
-                    <Calendar className="h-3.5 w-3.5" />
-                    <time dateTime={post.published_at}>{formatDate(post.published_at)}</time>
-                  </div>
-                )}
-                {post.reading_time_minutes && (
-                  <div className="flex items-center gap-1.5">
-                    <Clock className="h-3.5 w-3.5" />
-                    <span>{post.reading_time_minutes} min read</span>
-                  </div>
-                )}
-              </div>
-              <div className="mt-8 flex items-center gap-4">
-                <div className="h-px flex-1 bg-gradient-to-r from-transparent via-[#C9A84C]/30 to-transparent" />
-                <span className="text-[#C9A84C]/50 text-sm">۞</span>
-                <div className="h-px flex-1 bg-gradient-to-r from-transparent via-[#C9A84C]/30 to-transparent" />
-              </div>
-            </header>
-
-            {/* Featured image */}
-            {post.featured_image && (
-              <div className="mb-10 overflow-hidden rounded-2xl">
-                <img src={post.featured_image} alt={post.title} className="w-full object-cover" />
-              </div>
-            )}
-
-            {/* Content */}
-            <div
-              className="prose-blog"
-              dangerouslySetInnerHTML={{ __html: contentHtml }}
-            />
-
-            {/* Bottom divider */}
-            <div className="mt-12 flex items-center gap-4">
-              <div className="h-px flex-1 bg-gradient-to-r from-transparent via-[#C9A84C]/30 to-transparent" />
-              <span className="text-[#C9A84C]/50 text-sm">۞</span>
-              <div className="h-px flex-1 bg-gradient-to-r from-transparent via-[#C9A84C]/30 to-transparent" />
-            </div>
-
-            {/* Share */}
-            <div className="mt-8 flex items-center justify-center gap-6 text-sm">
-              <span className="text-zinc-500">Share:</span>
-              <ShareLink
-                href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(post.title)}&url=${encodeURIComponent(pageUrl)}`}
-                platform="twitter"
-                contentType="surah"
-                slug={slug}
-                className="text-zinc-400 hover:text-[#C9A84C] transition-colors font-medium"
-              >
-                Twitter/X
-              </ShareLink>
-              <ShareLink
-                href={`https://wa.me/?text=${encodeURIComponent(`${post.title} — ${pageUrl}`)}`}
-                platform="whatsapp"
-                contentType="surah"
-                slug={slug}
-                className="text-zinc-400 hover:text-[#C9A84C] transition-colors font-medium"
-              >
-                WhatsApp
-              </ShareLink>
-              <ShareLink
-                href={`mailto:?subject=${encodeURIComponent(post.title)}&body=${encodeURIComponent(`Check out this reflection: ${pageUrl}`)}`}
-                platform="email"
-                contentType="surah"
-                slug={slug}
-                className="text-zinc-400 hover:text-[#C9A84C] transition-colors font-medium"
-              >
-                Email
-              </ShareLink>
-            </div>
-            <ScrollDepthTracker slug={slug} contentType="surah" />
-
-            {/* Newsletter CTA */}
-            <div className="mt-14 rounded-2xl border border-zinc-200 dark:border-zinc-800 bg-zinc-100/50 dark:bg-zinc-900/30 p-8 sm:p-10 text-center">
-              <p className="text-[#C9A84C]/60 text-sm mb-3">۞</p>
-              <h3 className="font-serif text-2xl font-bold text-zinc-900 dark:text-white">
-                Enjoyed this reflection?
-              </h3>
-              <p className="mt-2 text-zinc-500">
-                Get tadabbur delivered to your inbox.
-              </p>
-              <div className="mt-6 mx-auto max-w-md">
-                <NewsletterSignup source="surah_page" />
-              </div>
-            </div>
-          </article>
-        ) : (
-          /* Empty state — no published analysis yet */
-          <div className="relative overflow-hidden rounded-2xl border border-zinc-200 dark:border-white/[0.06] bg-zinc-50 dark:bg-white/[0.015] px-8 py-16 text-center">
-            <div
-              aria-hidden
-              className="pointer-events-none absolute inset-0"
-              style={{
-                background: `radial-gradient(ellipse 60% 50% at 50% 50%, ${glowColor}0.07) 0%, transparent 80%)`,
-              }}
-            />
-            <div
-              className="relative"
-              style={{
-                fontFamily: "var(--font-amiri), 'Scheherazade New', Georgia, serif",
-                fontSize: arabicSize(surah.nameAr),
-                color: `${glowColor}0.18)`,
-                direction: 'rtl',
-              }}
-            >
-              {surah.nameAr}
-            </div>
-            <p className="relative mt-4 text-sm text-zinc-400 dark:text-white/25">
-              Tadabbur for this surah is coming soon.
-            </p>
-          </div>
-        )}
-      </div>
+      {/* Tabbed content */}
+      <SurahTabs
+        visualData={visualData}
+        post={post}
+        ayahRecords={ayahRecords}
+        surahNumber={n}
+        surahSlug={slug}
+        glowColor={glowColor}
+        pageUrl={pageUrl}
+      />
 
       {/* Prev / Next navigation */}
-      <div className="mx-auto max-w-3xl border-t border-zinc-200 dark:border-white/[0.06] px-5 py-8">
+      <div className="mx-auto max-w-3xl border-t border-white/[0.06] px-5 py-8">
         <div className="grid grid-cols-2 gap-4">
           <div>
             {prev ? (
               <Link
                 href={`/surahs/${surahSlug(prev.nameEn)}`}
-                className="group flex flex-col gap-1 rounded-xl border border-zinc-200 dark:border-white/[0.06] bg-zinc-50 dark:bg-white/[0.02]
-                           p-4 transition hover:border-zinc-300 dark:hover:border-white/10 hover:bg-zinc-100 dark:hover:bg-white/[0.04]"
+                className="group flex flex-col gap-1 rounded-xl border border-white/[0.06] bg-white/[0.02]
+                           p-4 transition hover:border-white/10 hover:bg-white/[0.04]"
               >
-                <span className="flex items-center gap-1 text-[10px] text-zinc-400 dark:text-white/30">
+                <span className="flex items-center gap-1 text-[10px] text-white/30">
                   <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
                     <path d="m15 18-6-6 6-6" />
                   </svg>
@@ -365,7 +276,7 @@ export default async function SurahDetailPage({ params }: Props) {
                 >
                   {prev.nameAr}
                 </span>
-                <span className="text-[11px] text-zinc-500 dark:text-white/35">{prev.nameEn}</span>
+                <span className="text-[11px] text-white/35">{prev.nameEn}</span>
               </Link>
             ) : (
               <div />
@@ -375,10 +286,10 @@ export default async function SurahDetailPage({ params }: Props) {
             {next ? (
               <Link
                 href={`/surahs/${surahSlug(next.nameEn)}`}
-                className="group flex flex-col items-end gap-1 rounded-xl border border-zinc-200 dark:border-white/[0.06] bg-zinc-50 dark:bg-white/[0.02]
-                           p-4 transition hover:border-zinc-300 dark:hover:border-white/10 hover:bg-zinc-100 dark:hover:bg-white/[0.04] w-full text-right"
+                className="group flex flex-col items-end gap-1 rounded-xl border border-white/[0.06] bg-white/[0.02]
+                           p-4 transition hover:border-white/10 hover:bg-white/[0.04] w-full text-right"
               >
-                <span className="flex items-center gap-1 text-[10px] text-zinc-400 dark:text-white/30">
+                <span className="flex items-center gap-1 text-[10px] text-white/30">
                   Next
                   <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
                     <path d="m9 18 6-6-6-6" />
@@ -394,7 +305,7 @@ export default async function SurahDetailPage({ params }: Props) {
                 >
                   {next.nameAr}
                 </span>
-                <span className="text-[11px] text-zinc-500 dark:text-white/35">{next.nameEn}</span>
+                <span className="text-[11px] text-white/35">{next.nameEn}</span>
               </Link>
             ) : (
               <div />

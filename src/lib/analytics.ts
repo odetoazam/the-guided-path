@@ -55,6 +55,10 @@ export function trackHubTabSwitch(hubSlug: string, tab: string) {
   posthog.capture('hub_tab_switch', { hub_slug: hubSlug, tab })
 }
 
+export function trackSurahTabSwitch(surahSlug: string, tab: string, subTab?: string) {
+  posthog.capture('surah_tab_switch', { surah_slug: surahSlug, tab, sub_tab: subTab })
+}
+
 export function trackGlossaryCategoryFilter(category: string) {
   posthog.capture('glossary_category_filter', { category })
 }
