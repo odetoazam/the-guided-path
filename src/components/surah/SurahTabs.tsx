@@ -64,7 +64,10 @@ export function SurahTabs({
 }: SurahTabsProps) {
   const defaultTab: TopTab = visualData ? 'overview' : post ? 'reflection' : 'overview'
   const [activeTab, setActiveTab] = useState<TopTab>(defaultTab)
-  const [activeSubTab, setActiveSubTab] = useState<string>(visualData?.tabs?.[0]?.id || '')
+  // "why" tab is always first if why_this_surah exists
+  const hasWhyTab = !!visualData?.why_this_surah
+  const defaultSubTab = hasWhyTab ? 'why' : (visualData?.tabs?.[0]?.id || '')
+  const [activeSubTab, setActiveSubTab] = useState<string>(defaultSubTab)
 
   const topTabs: { key: TopTab; label: string; count?: number }[] = [
     { key: 'overview', label: 'Overview' },
@@ -130,78 +133,85 @@ export function SurahTabs({
           <div role="tabpanel" className="space-y-6">
             {visualData ? (
               <>
-                {/* Why This Surah */}
-                {visualData.why_this_surah && (
-                  <div className="rounded-xl border border-gold-500/20 bg-gold-500/[0.04] px-6 py-5">
-                    <div className="text-[10px] font-semibold uppercase tracking-[0.2em] text-gold-500/70 font-sans mb-2">
-                      Why This Surah
-                    </div>
-                    <p className="text-sm text-cream/80 leading-relaxed font-body">
-                      {visualData.why_this_surah}
-                    </p>
-                  </div>
-                )}
-
-                {/* Thesis */}
-                {visualData.thesis && (
-                  <p className="text-sm text-cream/70 leading-relaxed font-body italic max-w-xl mx-auto text-center">
-                    {visualData.thesis}
-                  </p>
-                )}
-
                 {/* Audio player */}
                 {visualData.audio && <AudioPlayer audio={visualData.audio} />}
 
-                {/* Sciences badges */}
-                {visualData.sciences_active && visualData.sciences_active.length > 0 && (
-                  <div className="flex flex-wrap justify-center gap-2">
-                    {visualData.sciences_active.map((s) => (
-                      <span
-                        key={s.key}
-                        className="rounded-full border border-white/[0.06] bg-white/[0.02] px-3 py-1 text-[10px] font-medium text-cream-muted/50 font-sans"
-                      >
-                        {s.english}
-                      </span>
-                    ))}
-                  </div>
-                )}
-
-                <OrnamentDivider />
-
-                {/* Diagram sub-tabs */}
-                {visualData.tabs.length > 0 && (
-                  <>
-                    <div className="flex gap-1 rounded-xl bg-white/[0.03] p-1">
-                      {visualData.tabs.map((tab) => (
-                        <button
-                          key={tab.id}
-                          onClick={() => switchSubTab(tab.id)}
-                          className={`flex-1 rounded-lg py-2.5 text-xs font-medium font-sans transition-all ${
-                            activeSubTab === tab.id
-                              ? 'bg-gold-500 text-navy-dark shadow-sm'
-                              : 'text-cream-muted/60 hover:text-cream hover:bg-white/[0.04]'
-                          }`}
-                        >
-                          {tab.label}
-                        </button>
-                      ))}
-                    </div>
-
-                    <div className="min-h-[300px]">
-                      {visualData.tabs.map((tab) =>
-                        activeSubTab === tab.id ? (
-                          <DiagramRenderer
+                {/* Sub-tabs: Why Learn + diagram tabs */}
+                {(() => {
+                  const allSubTabs = [
+                    ...(hasWhyTab ? [{ id: 'why', label: 'Why Learn' }] : []),
+                    ...visualData.tabs,
+                  ]
+                  return allSubTabs.length > 0 ? (
+                    <>
+                      <div className="flex gap-1 rounded-xl bg-white/[0.03] p-1">
+                        {allSubTabs.map((tab) => (
+                          <button
                             key={tab.id}
-                            tab={tab}
-                            diagrams={visualData.diagrams}
-                            fullText={visualData.full_text}
-                            heartVerse={visualData.heart_verse}
-                          />
-                        ) : null
-                      )}
-                    </div>
-                  </>
-                )}
+                            onClick={() => switchSubTab(tab.id)}
+                            className={`flex-1 rounded-lg py-2.5 text-xs font-medium font-sans transition-all ${
+                              activeSubTab === tab.id
+                                ? 'bg-gold-500 text-navy-dark shadow-sm'
+                                : 'text-cream-muted/60 hover:text-cream hover:bg-white/[0.04]'
+                            }`}
+                          >
+                            {tab.label}
+                          </button>
+                        ))}
+                      </div>
+
+                      <div className="min-h-[300px]">
+                        {/* Why Learn tab content */}
+                        {activeSubTab === 'why' && (
+                          <div className="space-y-6">
+                            <div className="rounded-xl border border-gold-500/20 bg-gold-500/[0.04] px-6 py-5">
+                              <div className="text-[10px] font-semibold uppercase tracking-[0.2em] text-gold-500/70 font-sans mb-3">
+                                Why Learn This Surah
+                              </div>
+                              <p className="text-[15px] text-cream/85 leading-relaxed font-body">
+                                {visualData.why_this_surah}
+                              </p>
+                            </div>
+
+                            {/* Thesis */}
+                            {visualData.thesis && (
+                              <p className="text-sm text-cream/60 leading-relaxed font-body italic max-w-xl mx-auto text-center">
+                                {visualData.thesis}
+                              </p>
+                            )}
+
+                            {/* Sciences badges */}
+                            {visualData.sciences_active && visualData.sciences_active.length > 0 && (
+                              <div className="flex flex-wrap justify-center gap-2 pt-2">
+                                {visualData.sciences_active.map((s) => (
+                                  <span
+                                    key={s.key}
+                                    className="rounded-full border border-white/[0.06] bg-white/[0.02] px-3 py-1 text-[10px] font-medium text-cream-muted/50 font-sans"
+                                  >
+                                    {s.english}
+                                  </span>
+                                ))}
+                              </div>
+                            )}
+                          </div>
+                        )}
+
+                        {/* Diagram tab content */}
+                        {visualData.tabs.map((tab) =>
+                          activeSubTab === tab.id ? (
+                            <DiagramRenderer
+                              key={tab.id}
+                              tab={tab}
+                              diagrams={visualData.diagrams}
+                              fullText={visualData.full_text}
+                              heartVerse={visualData.heart_verse}
+                            />
+                          ) : null
+                        )}
+                      </div>
+                    </>
+                  ) : null
+                })()}
 
                 {/* Go deeper CTA */}
                 {post && (

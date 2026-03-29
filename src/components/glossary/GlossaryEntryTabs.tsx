@@ -7,14 +7,14 @@ import { GLOSSARY_ENTRIES } from '@/data/glossary'
 
 // ── Types ─────────────────────────────────────────────────────────────────────
 
-type Tab = 'root' | 'quran' | 'practice' | 'connections' | 'traditions'
+type Tab = 'overview' | 'root' | 'quran' | 'practice' | 'connections'
 
 const TABS: { id: Tab; label: string }[] = [
+  { id: 'overview',    label: 'Overview'      },
   { id: 'quran',       label: 'In the Quran'  },
   { id: 'practice',    label: 'In Practice'   },
   { id: 'root',        label: 'The Root'      },
   { id: 'connections', label: 'Connections'   },
-  { id: 'traditions',  label: 'Traditions'    },
 ]
 
 // ── Shared ────────────────────────────────────────────────────────────────────
@@ -618,9 +618,10 @@ function ConnectionsTab({ entry }: { entry: GlossaryEntry }) {
   )
 }
 
-// ── Tab: Traditions ───────────────────────────────────────────────────────────
+// ── Tab: Traditions (DEPRECATED — content folded into Overview) ──────────────
+// Kept as dead code briefly for reference; safe to delete.
 
-function TraditionsTab({ entry }: { entry: GlossaryEntry }) {
+function _TraditionsTab_UNUSED({ entry }: { entry: GlossaryEntry }) {
   const paragraphs = entry.acrossTransitions
     .split('\n\n')
     .map((p) => p.trim())
@@ -684,20 +685,73 @@ function TraditionsTab({ entry }: { entry: GlossaryEntry }) {
 
 // ── Main exported component ───────────────────────────────────────────────────
 
-export function GlossaryEntryTabs({ entry }: { entry: GlossaryEntry }) {
-  const [tab, setTab] = useState<Tab>('quran')
+// ── Tab: Overview ────────────────────────────────────────────────────────────
 
+function OverviewTab({ entry }: { entry: GlossaryEntry }) {
   return (
-    <div>
-      {/* ── Summary prose ───────────────────────────────────────────────── */}
-      <div className="mx-auto max-w-2xl px-5 pt-10 pb-6">
+    <div className="space-y-8">
+      {/* Summary */}
+      <div>
         {entry.summary.split('\n\n').map((p, i) => (
-          <p key={i} className="mb-4 text-sm leading-relaxed text-zinc-600 dark:text-zinc-400 last:mb-0">
+          <p key={i} className="mb-4 text-[15px] leading-relaxed text-zinc-600 dark:text-zinc-400 last:mb-0">
             {p.trim()}
           </p>
         ))}
       </div>
 
+      {/* Hadith — moved from Traditions to here so users see it early */}
+      {entry.hadith && entry.hadith.length > 0 && (
+        <div>
+          <SectionLabel>From the Prophet ﷺ</SectionLabel>
+          <div className="space-y-4">
+            {entry.hadith.map((h, i) => (
+              <blockquote
+                key={i}
+                className="rounded-2xl border border-zinc-200 dark:border-white/[0.05] bg-zinc-50 dark:bg-white/[0.02] p-5"
+              >
+                <p className="mb-3 text-sm leading-relaxed text-zinc-600 dark:text-zinc-400 italic">
+                  &ldquo;{h.text}&rdquo;
+                </p>
+                <footer className="text-xs text-zinc-500">{h.source}</footer>
+              </blockquote>
+            ))}
+          </div>
+        </div>
+      )}
+
+      {/* Scholar notes — moved from Traditions */}
+      {entry.scholarsSaid && entry.scholarsSaid.length > 0 && (
+        <div>
+          <SectionLabel>What the scholars said</SectionLabel>
+          <div className="space-y-4">
+            {entry.scholarsSaid.map((s, i) => (
+              <blockquote
+                key={i}
+                className="rounded-2xl border border-zinc-200 dark:border-white/[0.05] bg-zinc-50 dark:bg-white/[0.02] p-5"
+              >
+                <p className="mb-3 text-sm leading-relaxed text-zinc-600 dark:text-zinc-400 italic">
+                  &ldquo;{s.text}&rdquo;
+                </p>
+                <footer className="text-xs text-zinc-500">
+                  — {s.scholar}
+                  {s.source && <span className="ml-1 italic">({s.source})</span>}
+                </footer>
+              </blockquote>
+            ))}
+          </div>
+        </div>
+      )}
+    </div>
+  )
+}
+
+// ── Main exported component ─────────────────────────────────────────────────
+
+export function GlossaryEntryTabs({ entry }: { entry: GlossaryEntry }) {
+  const [tab, setTab] = useState<Tab>('overview')
+
+  return (
+    <div>
       {/* ── Tab navigation ──────────────────────────────────────────────── */}
       <div className="sticky top-0 z-20 border-b border-zinc-200 dark:border-white/[0.05] bg-white/95 dark:bg-navy-dark/95 backdrop-blur-md">
         <div className="mx-auto max-w-2xl overflow-x-auto px-4">
@@ -725,11 +779,11 @@ export function GlossaryEntryTabs({ entry }: { entry: GlossaryEntry }) {
 
       {/* ── Tab content ─────────────────────────────────────────────────── */}
       <div className="mx-auto max-w-2xl px-5 py-10">
+        {tab === 'overview'    && <OverviewTab    entry={entry} />}
         {tab === 'root'        && <RootTab        entry={entry} />}
         {tab === 'quran'       && <QuranTab       entry={entry} />}
         {tab === 'practice'    && <PracticeTab    entry={entry} />}
         {tab === 'connections' && <ConnectionsTab entry={entry} />}
-        {tab === 'traditions'  && <TraditionsTab  entry={entry} />}
 
         {/* ── Bottom nav ──────────────────────────────────────────────── */}
         <div className="mt-14 border-t border-zinc-200 dark:border-white/[0.05] pt-8">
@@ -741,7 +795,7 @@ export function GlossaryEntryTabs({ entry }: { entry: GlossaryEntry }) {
                 {entry.goDeeper.map((d) => (
                   <Link
                     key={d.slug}
-                    href={`/surahs/${d.slug}/overview`}
+                    href={`/surahs/${d.slug}`}
                     className="group flex items-start gap-4 rounded-2xl border border-zinc-200 dark:border-white/[0.05] bg-zinc-50 dark:bg-white/[0.02] px-5 py-4 transition-all hover:border-[rgba(212,175,55,0.18)]"
                   >
                     <div className="mt-1 h-1.5 w-1.5 shrink-0 rounded-full" style={{ background: g(0.4) }} />

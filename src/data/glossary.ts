@@ -276,7 +276,7 @@ export const GLOSSARY_ENTRIES: Record<string, GlossaryEntry> = {
     hasFullEntry: true,
 
     summary:
-      "Tawbah is often translated as 'repentance,' but that word does not carry the full weight of the Arabic. The root means to turn — specifically, to turn back toward something you have moved away from. In Islamic theology, tawbah is not primarily an emotion but an action: a reorientation. You were facing away from Allah. Now you face Him again. The door, the Quran insists again and again, is always open.",
+      "You moved away from God. Tawbah is the act of turning back. The root literally means 'to return' — and the Quran uses the same root for God turning toward you. Every time you turn to Him, He is already turning to you. The door is always open. This is the most repeated second chance in all of scripture.",
 
     root: {
       letters: 'ت-و-ب',
@@ -620,7 +620,7 @@ What is distinctively Quranic is the insistence that there is no sin beyond the 
     hasFullEntry: true,
 
     summary:
-      "Sabr is almost always translated as 'patience,' but patience implies passivity — waiting without complaint. The root ص-ب-ر means to bind, to confine, to hold oneself in place. Sabr is active restraint: the effort of keeping yourself together when everything pulls you apart. The Quran returns to it more than any other virtue — as a command, a promise, and a description of the people Allah is with.",
+      "When life breaks you — and it will — sabr is how you hold. The word covers three things: enduring what hurts, staying away from what tempts, and continuing to do what's right when no one is watching. The Quran mentions it over ninety times because everything worth building requires it.",
 
     root: {
       letters: 'ص-ب-ر',
@@ -756,7 +756,7 @@ What is distinctively Quranic is the promise that sabr is *witnessed* and *rewar
     hasFullEntry: true,
 
     summary:
-      "Tawakkul comes from the root meaning 'to appoint a wakīl' — a representative, a proxy. When you make tawakkul, you are appointing Allah as your wakīl: entrusting the management of your affairs to Him while continuing to act with your own hands. The famous hadith sets the balance precisely: tie your camel, then rely on Allah. Tawakkul is not passivity; it is the inner posture of someone who acts fully and clings to outcomes not at all.",
+      "You tie your camel, then you trust God. Tawakkul is reliance on God after you've done your part — the moment when effort ends and surrender begins. It means appointing God as your wakīl, your representative, the one who handles what you cannot control. The hardest part is letting go after you've done your best.",
 
     root: {
       letters: 'و-ك-ل',
@@ -890,7 +890,7 @@ What is distinctively Quranic is the precision: the Quran commands action (delib
     hasFullEntry: true,
 
     summary:
-      "Khushu' is the state the Quran considers essential to prayer — not a feeling to manufacture but a capacity to develop. The root describes something that becomes low, still, and dry — like land that has been flattened by rain or a voice that drops to barely a whisper. In prayer, khushu' is when the heart becomes like that: quieted, directed, present. It is what transforms ritual movement into actual meeting.",
+      "That stillness in prayer where the world disappears and it's just you and God — that's khushu'. The Quran says prayer without it is a body without a soul. It comes from a root meaning 'to become low, to submit' — the heart bowing before the tongue ever moves.",
 
     root: {
       letters: 'خ-ش-ع',
@@ -1027,7 +1027,7 @@ What is distinctively Quranic about khushu' is its placement: not in advanced my
     hasFullEntry: true,
 
     summary:
-      "Nadam is the pang of regret — the internal recognition that something was lost by what you chose. It is not yet tawbah, but it is what makes tawbah possible. The Prophet ﷺ said 'al-nadam tawbah' — remorse is repentance — meaning nadam is the essential seed without which the turning cannot take root. But nadam that never moves becomes grief. The question nadam poses is always: will you stay in the feeling, or let it move you?",
+      "The ache you feel when you realize you've done something wrong — before you've made it right. Nadam is the emotional precursor to tawbah. The Prophet ﷺ said remorse *is* repentance, because without the pain of recognition, there is no turning back. It's the alarm system God built into the human conscience.",
 
     root: {
       letters: 'ن-د-م',
@@ -1154,7 +1154,7 @@ What is distinctively Quranic is the framing of nadam as functional: it is not t
     hasFullEntry: true,
 
     summary:
-      "Shukr is usually translated 'gratitude,' but in the Quranic idiom it is an active, tri-dimensional state: recognition in the heart, acknowledgment on the tongue, and expression through the limbs. The Quran stakes an extraordinary claim about it: 'If you are grateful, I will certainly increase you' (14:7) — making shukr the only human act whose reward is literally more of what you are grateful for. Its opposite, kufr al-niʿmah (ingratitude for blessing), uses the same root as disbelief — signalling that the Quran understands ingratitude as a form of blindness to Reality.",
+      "Gratitude that starts in the heart, moves to the tongue, and finishes in the hands. The Quran pairs shukr with a promise: if you are grateful, I will give you more. The opposite of shukr is kufr — covering over the blessings, pretending they came from you. Shukr is the acknowledgment that everything good has a source.",
 
     root: {
       letters: 'ش-ك-ر',
@@ -1288,7 +1288,7 @@ What is uniquely Quranic is the feedback loop: shukr produces increase (14:7), w
     hasFullEntry: true,
 
     summary:
-      "Barzakh means barrier, partition, or isthmus — something that separates two realms without eliminating either. In the Quran it appears in three distinct contexts: between two bodies of water that cannot mix (55:20), between the living and the dead (23:100), and between the sweet and salt seas (25:53). The theological usage that has most captured Islamic reflection is the middle one: the barzakh as the intermediate state after death and before resurrection. It is not heaven, not hell — it is the antechamber between this world and the next, a realm the Quran deliberately leaves veiled.",
+      "The waiting place between death and resurrection. When you die, you enter the barzakh — a barrier realm where the soul exists until the Day of Judgment. The Quran mentions it three times, always as a partition between two realities. What happens there is part of the unseen that shapes how Muslims understand death.",
 
     root: {
       letters: 'ب-ر-ز-خ',
@@ -1413,7 +1413,7 @@ What makes the Quranic barzakh unusual in comparative religion is its deliberate
     hasFullEntry: true,
 
     summary:
-      "Jannah means 'garden' — from the root meaning to cover, to conceal, to become dense with vegetation. The word itself carries the experience: the coolness of shade, the sound of water, the concealment that makes a garden a sanctuary. The Quran uses the word over 140 times, building jannah not as a vague afterlife reward but as a vivid, specific, multi-layered reality — rivers, fruits, companions, and above all the closeness to Allah that no earthly metaphor fully captures. Its highest promise is not rivers of wine or silk garments but the vision of Allah Himself: 'Faces that Day will be radiant, looking at their Lord' (75:22-23).",
+      "The garden. The word itself comes from a root meaning 'to cover, to conceal' — a garden so dense with shade and growth that the ground beneath is hidden. The Quran describes it in over a hundred passages: rivers of water, milk, honey, and wine; shade that never shifts; whatever the soul desires. It is the promise that makes everything in this life bearable.",
 
     root: {
       letters: 'ج-ن-ن',
@@ -1541,7 +1541,7 @@ What is distinctly Quranic is the insistence that jannah's descriptions are give
     hasFullEntry: true,
 
     summary:
-      "Al-ghayb is the unseen — everything that lies beyond the reach of human senses and reason. The Quran opens by describing the successful believers as those 'who believe in al-ghayb' (2:3), making faith in the unseen the foundational act of the Islamic worldview. Al-ghayb is not ignorance or superstition: it is the recognition that Reality is larger than perception. It includes the angels, the jinn, the afterlife, divine decrees, and — at its summit — Allah Himself, Who is described as 'ʿĀlim al-ghayb wa-al-shahāda' (the Knower of the Unseen and the Witnessed). Crucially, the Quran insists that true knowledge of al-ghayb belongs to Allah alone.",
+      "Everything beyond the reach of your five senses — God, the angels, the Day of Judgment, the soul, the decree. The Quran opens by praising those who believe in the unseen, because faith begins exactly where certainty of sight ends. Every prayer you make is an act of trust in something you cannot see.",
 
     root: {
       letters: 'غ-ي-ب',
@@ -1676,7 +1676,7 @@ Interestingly, modern physics has introduced concepts that function somewhat lik
     hasFullEntry: true,
 
     summary:
-      "Tafsir is the science and practice of explaining the Quran — uncovering its meanings, its historical context, its linguistic depths, and its legal and spiritual implications. The word means 'explanation' or 'unveiling': to make the hidden surface. Classical tafsir drew from Arabic language, hadith, companion reports, pre-Islamic poetry, and Jewish and Christian traditions. Modern tafsir adds historical-critical and thematic methods. But at its core, tafsir is the community's ongoing conversation with its scripture — begun by the Prophet ﷺ himself, who was the Quran's first and most authoritative interpreter.",
+      "The science of explaining the Quran — what each ayah means, why it was revealed, and how scholars across fourteen centuries have understood it. Tafsir pulls from Arabic grammar, hadith, historical context, and the Quran itself (since the best explanation of the Quran is the Quran). If tadabbur is personal reflection, tafsir is the scholarly foundation underneath it.",
 
     root: {
       letters: 'ف-س-ر',
@@ -1794,7 +1794,7 @@ What makes Islamic tafsir distinctive is its insistence on the Arabic language a
     hasFullEntry: true,
 
     summary:
-      "Tadabbur is the Quran's own word for the manner in which it wants to be read. It appears four times in the Quran — always as a command or a rebuke to those who do not practice it. The root means to look at the back of something, to trace consequences, to follow a thing all the way to its end. To make tadabbur of the Quran is to follow its meanings all the way — to where they lead in your theology, your character, and your daily life. It is distinguished from tafsir (explaining) in that tafsir is primarily intellectual and tadabbur is primarily transformative. Tadabbur is reading that does not stop at understanding but continues until it changes you.",
+      "The Quran's own word for how it wants to be read. Tadabbur means to look at the back of something — to go beyond the surface and find what lies behind the words. The Quran asks: 'Do they not reflect on the Quran, or are there locks upon their hearts?' It is an invitation to think deeply, not to skim.",
 
     root: {
       letters: 'د-ب-ر',
@@ -1923,7 +1923,7 @@ What is distinctive about the Quranic concept is that it self-names the practice
     hasFullEntry: true,
 
     summary:
-      "Nazm means 'arrangement' or 'threading' — as in threading pearls on a string. As a Quranic concept, it refers to the internal coherence of the Quran: the way surahs are not random collections of verses but architecturally unified compositions, each with a theme, a structure, and a logic that connects beginning to end. The scholars who developed this discipline — al-Razi, al-Biqa'i, Hamiduddin Farahi, and his student Amin Ahsan Islahi — argued that recognising nazm is necessary for correct tafsir. Without it, you interpret fragments; with it, you interpret a whole. Nazm is the discovery that the Quran's seemingly abrupt transitions and diverse topics conceal an exquisite internal logic.",
+      "The arrangement — the study of how the Quran's surahs, ayahs, and phrases connect to each other in deliberate patterns. Why does this ayah follow that one? Why does this surah come after the previous one? Nazm reveals that the Quran's structure carries meaning — the order is part of the message.",
 
     root: {
       letters: 'ن-ظ-م',
@@ -2032,7 +2032,7 @@ What remains uniquely Islamic about the doctrine of nazm is its theological clai
     hasFullEntry: true,
 
     summary:
-      "Al-Mizan is the Scale — the instrument of divine justice on the Day of Resurrection. The Quran mentions it to assert a fundamental theological claim: the accounting of the afterlife is not arbitrary. Deeds have weight. Actions have consequences that are real, measurable, and recorded. The Quran does not specify the mizan's mechanism — it is from al-ghayb — but its function is clear: to make manifest what was hidden in the world, so that nothing unjust passes and nothing righteous goes unrecognised. A single word of sincere praise can outweigh a mountain's worth of negligence.",
+      "The scale — God's instrument of perfect justice on the Day of Judgment. Every deed is weighed, and the Quran says the weighing will be true. The mizan appears in multiple surahs, always connected to the idea that nothing is wasted: every act of kindness, every moment of patience, every good word has weight.",
 
     root: {
       letters: 'و-ز-ن',
@@ -2160,7 +2160,7 @@ What is uniquely Quranic is the precision: mithqāl dharra — the weight of an 
     hasFullEntry: true,
 
     summary:
-      "Jahannam is the Quran's name for Hell — not derived from a common Arabic root but likely from a Hebrew or Aramaic cognate (Gehinnom — the Valley of Hinnom outside Jerusalem, associated with ancient fire rituals). The Quran describes it with seventy-seven names and countless images: layers of fire, boiling water, bitter fruit, crushing chains, and — most devastatingly — the withdrawal of divine mercy. Yet the Quran never presents Jahannam as Allah's desire; it appears always as a warning, always as something avoidable, always alongside the open door of tawbah. Its function in the Quran is motivational and just — not sadistic.",
+      "The Quran's name for Hell — described in vivid, physical terms meant to make the consequence of heedlessness feel real. Fire that crackles and roars, a pit that asks for more, a tree whose fruit is the heads of devils. The Quran uses these images to wake you up, because the one thing worse than fear is arriving unprepared.",
 
     root: {
       letters: 'ج-ه-ن-م',
@@ -2273,7 +2273,7 @@ What is theologically distinctive about the Quranic Jahannam is its consistent c
     hasFullEntry: true,
 
     summary:
-      "Maryam bint Imran is the most honoured woman in the Quran — the only female figure to have a surah named after her, and the only woman named by name in the entire text. She appears in 11 surahs and is described as having been chosen twice over the women of the worlds (3:42). Her story is told not merely as the background to the birth of Isa — it is a complete theological argument: about sincerity, about divine provision, about the possibility of miracles, and about the courage to speak truth before a hostile world. She is the Quran's supreme portrait of a woman who lived entirely for Allah.",
+      "The most honored woman in the Quran — the only female named by name. She has an entire surah named after her. Her story is one of impossible faith: chosen by God, given a child without a father, told to shake a palm tree while in labor alone in the desert. Maryam's life is proof that God provides in ways that defy every plan.",
 
     root: {
       letters: 'م-ر-ي-م',
@@ -2380,7 +2380,7 @@ What is remarkable about the Quranic presentation is its detail and sympathy. Th
     hasFullEntry: true,
 
     summary:
-      "Iʿjāz al-Qurʾān is the doctrine of the Quran's miraculous inimitability — the claim that the Quran is a text that no human being, alone or in collaboration, could produce or even approach. The word means 'rendering incapable' — the Quran renders its challengers incapable of matching it. The Quran itself issues this challenge (taḥaddī) multiple times: produce a book like it, then ten surahs like it, then one surah like it. Fourteen centuries of Arabic literature — the richest poetic tradition in the world — have not produced a convincing response. Iʿjāz is thus not merely a claim about the Quran's beauty; it is a standing argument for its divine origin.",
+      "The Quran's miraculous inimitability — the claim that no human being can produce anything like it. The Quran itself issues the challenge: bring one surah like it. In fourteen centuries, no one has. I'jaz operates on multiple levels: linguistic, structural, legislative, and prophetic. It is the reason the Quran is considered its own proof.",
 
     root: {
       letters: 'ع-ج-ز',
@@ -2487,7 +2487,7 @@ One productive comparison is with the Jewish concept of Torah as divine speech: 
     hasFullEntry: true,
 
     summary:
-      "Asbāb al-Nuzūl (plural: occasions of revelation; singular: sabab al-nuzūl) refers to the specific historical circumstances, events, or questions that prompted the revelation of particular Quranic verses or passages. Not every verse has an occasion — many were revealed as part of the ongoing flow of guidance without a specific trigger. But for those that do, knowing the occasion illuminates meaning in ways no amount of linguistic analysis alone can provide. The Quran was not delivered into a vacuum; it was revealed into a living community, responding to their questions, their disputes, their griefs, and their spiritual struggles. Asbāb al-Nuzūl is the discipline that recovers those moments.",
+      "The occasions of revelation — the historical events, questions, and situations that prompted specific Quranic verses to be revealed. Knowing why an ayah was sent down helps you understand what it means and how it applies. Without asbab al-nuzul, you might read a verse and miss the human story behind it.",
 
     root: {
       letters: 'ن-ز-ل',
@@ -2590,11 +2590,7 @@ This makes asbāb al-nuzūl a uniquely Islamic discipline: it combines historica
     evocativeLine: 'The love that reshapes everything — when the heart finds what it was made for.',
     hasFullEntry: true,
 
-    summary: `Mahabbah is the Quranic word for love — not the sentimental love of poetry, but the existential love that restructures the entire self. The scholars of the heart placed mahabbah at the apex of all spiritual stations: every other station — tawbah, khawf, raja', sabr, shukr — is either a road toward mahabbah or a fruit that grows from it. When Ibn al-Qayyim wrote his masterwork on the stations of the heart, he named it Madarij al-Salikin after the Quranic description of the path — and its summit is mahabbah.
-
-The Quran's most important statement about mahabbah comes in Surah Al-Baqarah (2:165): those who truly love Allah love Him with a love stronger than any other love. This is not a commandment to feel warm toward Allah — it is a description of what the awakened heart discovers. When the soul truly sees Allah's beauty, His generosity, and His nearness, love arises as naturally as the eye is drawn to light. The problem is not that we do not love Allah; it is that we love other things more, and those loves crowd out the original one.
-
-The condition of mahabbah is mutual. The Quran does not only speak of the human's love for Allah but of Allah's love for the human — "He loves them and they love Him" (5:54). This reciprocity is extraordinary: the Creator of all things loves specific human beings, and that love is not earned through performance but through orientation. The muttaqin, the muhsinin, the mutawakkilin — those who have a certain quality of heart — are explicitly described as beloved by Allah. Mahabbah, then, is not a one-sided pursuit. It is a call and response that spans the distance between the finite and the Infinite.`,
+    summary: `Love — the force that reshapes everything it touches. When the Quran describes believers, it says they love God intensely. When it describes God, it lists the people He loves: those who do good, those who are just, those who purify themselves, those who fight in His way. Mahabbah is the relationship that gives everything else its meaning.`,
 
     root: {
       letters: 'ح–ب–ب',
@@ -2729,11 +2725,7 @@ What distinguishes the Quranic treatment is the mutuality and the specific condi
     evocativeLine: 'The sacred fear that keeps the soul honest — not terror, but reverential awe.',
     hasFullEntry: true,
 
-    summary: `Khawf is the fear of Allah — but fear is too thin a translation. The Arabic khawf is not the panic of the prey before the predator; it is the alert, watchful fear of the heart that understands what is at stake. The scholars define it as the pain of the heart at the anticipation of something disliked — whether that is Allah's displeasure, a lapse in worship, or the consequence of sin. Khawf, rightly understood, is protective: it is the guardrail that keeps the soul from wandering into harm.
-
-The Quran consistently pairs khawf with raja' — fear with hope — as the two necessary orientations of the heart toward Allah. The scholars were emphatic: too much fear without hope tips into despair (which the Quran forbids); too much hope without fear tips into ghurur — delusion, the comfortable assumption that one's sins are already forgiven. The balanced heart is described by the Quran itself: "They call upon their Lord in khawf and hope" (32:16). Fear keeps the heart honest; hope keeps it alive.
-
-There is also a more elevated form of khawf that the scholars distinguish from ordinary fear of punishment: khashya. Khashya is the fear born of knowledge — the awe that arises when a person truly understands who Allah is, what the Day of Judgment means, and how fragile and contingent every moment of their life is. The Quran specifically says: "Only those who have knowledge truly fear (yakhsha) Allah" (35:28). This is not the fear of the ignorant who imagines a terrifying deity; it is the fear of the awake who have glimpsed the true scale of Reality.`,
+    summary: `The fear that makes you careful with God — reverence, not terror. Khawf keeps you honest the way a speed limit keeps you alive. The Quran pairs it with hope (raja') because a believer lives between the two: afraid enough to stay away from what harms, hopeful enough to keep moving toward what heals.`,
 
     root: {
       letters: 'خ–و–ف',
@@ -2849,11 +2841,7 @@ What the Quranic tradition uniquely adds is the insistence on balance. The Quran
     evocativeLine: "Hope in Allah's mercy — the rope that holds even when the hand has let go.",
     hasFullEntry: true,
 
-    summary: `Raja' is hope — specifically, hope directed toward Allah and His mercy. But it is not the passive optimism of someone who hopes things will work out; it is the active, tethered hope of a person who knows who they are hoping in. The scholars defined raja' as the heart's inclination toward something it loves, which it expects to arrive. The key word is "expects" — without some real basis for expectation, hope becomes wishful thinking (umniyya), which the scholars consider a spiritual defect, not a virtue.
-
-The Quran's commands and descriptions around raja' cluster around a single axis: do not despair of Allah's mercy. The famous verse of Surah Az-Zumar (39:53) — "O My servants who have transgressed against themselves — do not despair of the mercy of Allah. Indeed, Allah forgives all sins" — is among the most cited verses in the entire Quran for its power to reopen hearts that have closed. The scholars say this verse is addressed to the worst of sinners, specifically: not the mediocre, not the slightly wayward, but those who know they have committed enormous wrongs. For them, the Quran opens a door and says: still.
-
-Raja' is one half of the heart's orientation toward Allah, paired with khawf (fear). The scholars are clear that false hope — the assumption that Allah will forgive without the person making any effort to return — is not raja' but ghurur (delusion). True raja' is always accompanied by action: the one who hopes for a harvest plants the seed, waters it, removes the weeds, and then trusts Allah for the rain. The one who sits in an empty field hoping for a harvest has confused hope with passivity.`,
+    summary: `Hope aimed at God. Raja' is the confidence that God's mercy is wider than your mistakes — but it's earned through effort, not wishful thinking. The Quran warns against hope without action (that's delusion) and action without hope (that's despair). Real raja' is working hard and trusting that God sees it.`,
 
     root: {
       letters: 'ر–ج–و',
@@ -2951,11 +2939,7 @@ In Sufi spirituality, raja' is often described through the image of a person dro
     evocativeLine: 'Sincerity stripped of all audience — the deed done when only Allah is watching.',
     hasFullEntry: true,
 
-    summary: `Ikhlas is sincerity — the purification of an act from any motivation other than Allah. It is what remains when the desire for praise has been removed, when the fear of criticism has been removed, when the hope for social reward has been removed. What is left is the deed done for Allah alone. The scholars called it "the secret of secrets" because it is invisible to everyone except Allah and barely legible even to the person themselves.
-
-The Quran names an entire surah Al-Ikhlas (Surah 112), and while that surah is about the purity and oneness of Allah's nature (the word ikhlas in that context refers to Allah's transcendence of mixture or partnership), the spiritual concept of ikhlas as sincerity flows directly from it: just as Allah is free of all mixture and associate, so the sincere worshipper's deed is free of mixture with anything other than Allah. When the scholars want to give the highest praise to an act of worship, they say it was done with ikhlas — undiluted, unreservedly for Allah.
-
-Ikhlas is what makes deeds weigh on the scale. The scholars of the heart say: a small deed done with ikhlas outweighs a large deed done with riya' (ostentation). The Prophet ﷺ was asked who would receive his intercession: he said the one who says "la ilaha illa Allah" with ikhlas from the heart. Not the one who says it most often, not the one who says it loudest — the one who says it sincerely. Ikhlas is the soul of every act; without it, the body of the act is there but the spirit has left.`,
+    summary: `Doing something purely for God — with no audience in mind, no praise expected, no secondary motive. Ikhlas is sincerity so complete that if no one ever knew what you did, you'd still do it. The word comes from a root meaning 'to extract, to purify' — removing everything from your intention until only God remains.`,
 
     root: {
       letters: 'خ–ل–ص',
@@ -3079,11 +3063,7 @@ What is unique to Islamic ikhlas is its institutional embedding: the hadith lite
     evocativeLine: 'Beings of light and obedience — woven through all of creation, seen by none.',
     hasFullEntry: true,
 
-    summary: `Malaika (singular: malak) are the angels — beings of light created from nur (light) whose existence is one of the pillars of Islamic faith. Belief in the angels (Iman bi-al-malaika) is the second article of faith after belief in Allah, appearing in the famous hadith of Jibril that defines Islam, Iman, and Ihsan. To deny the existence of the angels is to step outside the boundaries of faith — not because the angels themselves are objects of worship, but because belief in the unseen (al-ghayb) is the foundational act of the Quran's worldview, and the angels are the most prominent inhabitants of that unseen realm.
-
-The Quran paints the angels with extraordinary specificity: they glorify Allah unceasingly, they never disobey a command, they carry the throne of Allah, they descend with revelation, they record every deed, they receive the souls at death, they stand guard over Jahannam, they greet the inhabitants of Jannah. The angels are not decorative — they are the infrastructure of divine governance. Everything that moves from heaven to earth and from earth to heaven moves through or with them. The Quran says there is no human action that goes unrecorded by the kiraman katibin (the noble scribes), that every person has angels preceding and following them (mu'aqqibat), and that Jibril (Gabriel) is the one who brought the Quran to the Prophet's heart.
-
-What the Quran most emphasizes about the malaika is their utter obedience — "they do not disobey Allah in what He commands them, and they carry out what they are commanded" (66:6). This is the angels' defining quality: they were created without the capacity for disobedience. This is what makes them different from humans and jinn — both of whom have will and can choose. The angels' perfection is the perfection of full alignment. The human's dignity is greater in one sense — they can choose alignment — but the danger is correspondingly greater, because they can also choose its opposite.`,
+    summary: `Angels — beings of light created to obey God without hesitation. Jibril delivers revelation. Mikail distributes provision. Israfil will blow the trumpet. Others record your deeds, guard your body, carry the Throne. The Quran describes them with two, three, and four wings, traveling between realms you cannot see.`,
 
     root: {
       letters: 'م–ل–ك / أ–ل–ك',
@@ -3185,11 +3165,7 @@ What distinguishes the Islamic treatment is its insistence on two things: the an
     evocativeLine: 'The one who refused — and has been whispering refusals ever since.',
     hasFullEntry: true,
 
-    summary: `Shaytan (Satan) is the Quran's name for Iblis after his refusal to prostrate to Adam — and by extension for the accursed tempter who has declared enmity toward humanity until the Day of Judgment. The Quran tells the story of Shaytan with remarkable detail: he was of the jinn, he was among the angels in station (raised to the company of the angels through his worship), he refused when commanded to prostrate to Adam, he was expelled, he asked for respite until the Day of Judgment, it was granted, and he immediately declared his strategy — to approach humanity from every direction and lead as many as possible astray.
-
-What makes the Quran's treatment of Shaytan distinctive is that it does not present him as a co-equal opposite of Allah (as in dualistic cosmologies). Shaytan is a creature, created by Allah, operating within the limits Allah has set. He was expelled not because he was too powerful but because he chose arrogance. His respite was granted not because Allah cannot stop him but because his existence is part of the test by which humans are distinguished. The Quran makes clear that Shaytan has no power over the sincere servants of Allah — his power is only over those who choose to follow him.
-
-The Quran presents Shaytan's primary weapon as waswasa — whispers. He does not compel; he suggests. He does not force; he whispers doubts, desires, and rationalizations. The Quran ends with Surah Al-Nas — the chapter of Mankind — which is the last and most personal protection: seeking refuge from "the whisperer who withdraws, who whispers into the breasts of mankind, from among the jinn and mankind." Shaytan's most effective move is to be forgotten — to whisper so quietly that the person does not notice they are being whispered to.`,
+    summary: `The Quran's name for the enemy you carry with you everywhere. Shaytan was once Iblis — a being who refused to prostrate to Adam out of pride. His strategy is whisper: suggestions so quiet you mistake them for your own thoughts. The Quran says he retreats when you remember God and returns when you forget.`,
 
     root: {
       letters: 'ش–ط–ن',
@@ -3288,11 +3264,7 @@ The Quranic treatment uniquely emphasizes Shaytan's self-awareness of his own li
     evocativeLine: "The self the Quran calls you to master — commanding, blaming, and at peace.",
     hasFullEntry: true,
 
-    summary: `Nafs is the self — but a self that the Quran maps with surgical precision. Rather than treating the human interior as unified, the Quran describes the nafs in three conditions or stations that reveal its inner architecture. The nafs ammara bi-al-su' (the nafs commanding to evil) is the base self — the self driven by appetite, impulse, and desire, which pushes toward what it wants regardless of consequence. The nafs lawwama (the self-reproaching soul) is the self that feels remorse — that has enough consciousness to see the gap between what it does and what it knows is right. And the nafs mutma'inna (the soul at peace) is the self that has arrived — settled, content, no longer at war with itself or with Allah.
-
-The Quran does not treat the nafs as something to be destroyed or denied; it treats it as something to be tamed and elevated. Zakat al-nafs — purification of the self — is given in Surah Ash-Shams (91:7-10) as the decisive factor in human destiny: "By the nafs and He who proportioned it — and inspired it with its wickedness and its taqwa — he has succeeded who purifies it, and he has failed who buries it." Success (falah) is defined in terms of what happens to the nafs. This makes the work of the nafs the central project of human life.
-
-The scholars of the heart spent most of their attention on the nafs — on diagnosing its diseases (kibr, hasad, riya', ghurur) and prescribing their cures. Al-Ghazali's Ihya Ulum al-Din is largely a medical text for the nafs. Ibn al-Qayyim's writings return constantly to the nafs as the site of all spiritual warfare. The nafs is not the enemy; it is the patient. And the physician is the one who has recognized that they themselves are the patient and the treatment simultaneously.`,
+    summary: `Your self — and the Quran maps it with precision. The commanding self (nafs al-ammāra) pushes you toward desire. The self-reproaching self (nafs al-lawwāma) catches you afterward. The tranquil self (nafs al-mutma'inna) is at peace with God. The entire spiritual journey is learning which voice to follow.`,
 
     root: {
       letters: 'ن–ف–س',
@@ -3412,11 +3384,7 @@ What the Quran adds that no other framework provides is the divine address to th
     evocativeLine: "The spirit breathed into Adam — known to Allah alone in its full nature.",
     hasFullEntry: true,
 
-    summary: `Ruh is the spirit — the divine breath that animates the human being and gives it life. Its origin in the Quran is precise and breathtaking: when Allah formed Adam from clay, He "breathed into him from His spirit" (nafakha fih min ruhih — 15:29, 32:9). That "from His spirit" is not meant to imply that the ruh is part of Allah (the scholars are emphatic: Allah is not composed of parts, and the ruh is a created thing). It is a statement of origin — the ruh comes from a divine command, not from anything in the material world, and its nature partakes of something beyond the merely physical.
-
-The Quran's most famous statement about the ruh is also one of its most pointed moments of divine reticence. When asked about the ruh, Allah said: "The ruh is from the command of my Lord, and of knowledge you have been given only a little" (17:85). The scholars have debated why the Quran gives this answer — some say it is to emphasize the limits of human knowledge even about ourselves; others say it is to protect the mystery of the divine breath from being reduced to a philosophical category. What the verse establishes is a ceiling: no matter how much humans discover about biology and neuroscience, they will not capture the ruh in their explanations.
-
-The ruh is what departs at death — it is taken by the angel of death and carries the identity and state of the dying person into the barzakh. At the resurrection, it returns to the body for the standing before Allah. The Quran describes the ruh of Maryam's son as "a spirit from Allah" (ruhun minhu — 4:171) — which the scholars read as an intensified expression of the same divine origin that every human shares, while affirming the unique miracle of Isa's creation without a father. The ruh is both universally human and irreducibly mysterious.`,
+    summary: `The spirit — the divine breath that makes you alive. When God created Adam, He shaped him from clay, then breathed His ruh into him. That breath is what separates a body from a person. The Quran says the ruh is from God's command, and when you ask what it is, the answer is: knowledge of it belongs to God.`,
 
     root: {
       letters: 'ر–و–ح',
@@ -3534,11 +3502,7 @@ What the Quran uniquely does is refuse explanation while insisting on reality. T
     evocativeLine: 'Divine measure — the decree that governs all things, and the belief that frees the heart.',
     hasFullEntry: true,
 
-    summary: `Qadar is divine decree — the doctrine that Allah has measured and determined all things. It is the sixth pillar of Iman in the hadith of Jibril: belief in Allah, His angels, His books, His messengers, the Last Day, and qadar — both its good and its evil. The scholars identified four aspects (arkan) of belief in qadar: ilm (Allah's knowledge of all things from before time), kitaba (the writing of all things in the Preserved Tablet), mashi'a (Allah's will encompassing all that happens), and khalq (Allah's creation of all things, including human actions).
-
-The theological complexity of qadar is acknowledged in the tradition itself — the Prophet ﷺ warned against arguing about it. The tension that most troubles people is the apparent conflict between qadar (divine determination of all things) and insan (human accountability). If Allah has decreed everything, how can humans be responsible for their choices? The mainstream Sunni position, articulated most carefully by al-Maturidi and al-Ashari, holds that human beings have a real (though created) capacity for choice (kasb — acquisition). The decree and the choice coexist — they operate at different levels of reality, and the human's experience of genuine choice is real, not illusory.
-
-What the Quran emphasizes most is not the metaphysics of qadar but its effect on the heart. Surah Al-Hadid (57:22-23) says: "No disaster strikes upon the earth or among yourselves except that it was in a register before We brought it into being — indeed that, for Allah, is easy — in order that you not despair over what has escaped you nor exult over what He has given you." Qadar is not a theological abstraction; it is the antidote to two specific diseases of the heart: despair at loss and arrogance in achievement. The person who truly believes in qadar is stable — what they have was decreed, and what they lost was also decreed.`,
+    summary: `Divine decree — the belief that God has measured and determined all things. Everything that happens was known before it happened. This sounds like fatalism until you understand the Quran's insistence that you still choose, you still act, you still bear responsibility. Qadar is the frame; your choices are the painting.`,
 
     root: {
       letters: 'ق–د–ر',
@@ -3653,11 +3617,7 @@ The Mutazilites (a rationalist school within early Islam) rejected strong qadar 
     evocativeLine: "The primordial nature — the factory setting of the human soul, inclined toward its Creator.",
     hasFullEntry: true,
 
-    summary: `Fitrah is the primordial nature — the original, uncorrupted state in which every human being is created. The word comes from the root f–ṭ–r which means to split open, to create, to originate — the same root as Surah Al-Fatir (The Originator). Fitrah is what Allah created the human upon: an innate orientation toward tawhid, an instinctive recognition of the Creator, a natural moral conscience, and a fundamental capacity for goodness. Before environment, before culture, before habit — there is fitrah.
-
-The most important hadith on fitrah is the Prophet's ﷺ statement: "Every child is born on the fitrah — it is their parents who make them Jewish, Christian, or Zoroastrian." This hadith does not imply that children of non-Muslims are automatically Muslim; it establishes that the orientation toward the divine is prior to any specific religious formation. The fitrah is the universal baseline; religious and cultural formation either aligns with it or departs from it. The Quran's call is always in some sense a reminder — not presenting something entirely foreign but uncovering what was always there.
-
-The Quran makes fitrah the basis of the divine covenant (mithaq — 7:172): before the creation of the world, Allah took from the children of Adam and had them witness against themselves: "Am I not your Lord?" And they said: "Yes, we testify." This primordial testimony is the origin of the fitrah — the human soul has already met its Lord, already recognized Him, already affirmed the relationship. The Quran and all prophetic messages are therefore not first introductions to Allah but reminders of what was always known. The one who disbelieves is the one who has suppressed or distorted what their fitrah carries.`,
+    summary: `The original state — the nature God built into every human being before culture, parents, and society shaped it. The Prophet ﷺ said every child is born on the fitrah; it's the world that changes them. Fitrah is the reason truth feels familiar when you hear it for the first time. Something in you already knew.`,
 
     root: {
       letters: 'ف–ط–ر',
@@ -3770,11 +3730,7 @@ What distinguishes the Quranic fitrah is the mithaq — the primordial covenant.
     evocativeLine: 'Provision — everything Allah has apportioned, wider than money and impossible to miss.',
     hasFullEntry: true,
 
-    summary: `Rizq is provision — everything Allah has apportioned to His creation. But rizq in the Quran is far wider than its common translation as "sustenance" or "livelihood." Rizq includes food and money, yes — but also knowledge, children, health, time, relationships, opportunities, spiritual states, and any good that reaches a person. The Quran makes Allah's Raziq-hood (His being the Provider — Al-Razzaq) one of His most-repeated attributes, and the practical implication is radical: every good thing that reaches you comes from Allah, and nothing of your rizq can be prevented from reaching you.
-
-The Quran states it plainly: "There is no creature on earth but that upon Allah is its rizq" (11:6). The scholars derived from this verse the doctrine that rizq is guaranteed — not in the sense that one will always have abundance, but in the sense that one will receive exactly what has been apportioned, no more, no less. This is not a license for passivity (the bird that sits in its nest receives no rizq; the bird that leaves its nest and seeks does) — it is a shield against anxiety. The fear that someone might "steal" your rizq, that you might work hard and still miss what is yours, that others' abundance diminishes what is available for you — the Quran's doctrine of rizq addresses all of these directly.
-
-The deeper dimension of rizq in the Quran is spiritual: Allah is the source not only of material provision but of the most valuable things a person can receive. The hadith says the Prophet ﷺ asked: "Who among you has fasted today?" Abu Bakr replied: "I have." Then: "Who has followed a funeral procession?" Then: "Who has visited a sick person?" Abu Bakr had done all of these. The Prophet ﷺ said: "These things are not combined in a person on any day except that they enter jannah." This is rizq at its highest: the provision of guidance, of tawfiq (divine facilitation), of the opportunity to do what is good.`,
+    summary: `Everything God provides — money, food, health, children, knowledge, time, the people in your life. Rizq is whatever reaches you because God sent it. The Quran says your rizq is already written; the question is whether you recognize where it came from and what you do with it.`,
 
     root: {
       letters: 'ر–ز–ق',
@@ -3890,11 +3846,7 @@ What the Quran uniquely contributes is the attribute Al-Razzaq — making provis
     evocativeLine: "The oneness of Allah — the axis on which the entire universe turns.",
     hasFullEntry: true,
 
-    summary: `Tawhid is the affirmation of Allah's oneness — the foundational conviction of Islam and the axis on which all Quranic teaching revolves. The word comes from the verb wahhada (to make one, to unify), and tawhid is the act of recognizing and affirming that Allah is utterly, incomparably, exclusively One. Not one among many; not the greatest of a hierarchy; not one in three — but One in a way that has no parallel in created existence.
-
-The scholars divided tawhid into three categories that map the full scope of what oneness means. Tawhid al-Rububiyya: the oneness of Allah's Lordship — He alone creates, sustains, governs, and controls all of existence. Tawhid al-Uluhiyya: the oneness of Allah's divinity — He alone deserves worship, love, fear, hope, and obedience at the level of the absolute. Tawhid al-Asma wa-al-Sifat: the oneness of His names and attributes — He possesses perfect attributes that are unique to Him, which cannot be compared to created attributes. This tripartite framework was developed by Ibn Taymiyyah and became the dominant paradigm for systematic tawhid in the tradition.
-
-The Quran makes tawhid its central demand from the first revelation to the last. The shahadah — la ilaha illa Allah — is not primarily a statement about theology; it is a statement about worship. "There is no god" — everything that functions as a god for the human heart, everything it worships, fears, hopes in absolutely, obeys without question — all of this is negated. "Except Allah" — and all of that worship, fear, hope, and obedience is redirected to its only legitimate object. The scholars say: the la (no) is the blade; the illa Allah (except Allah) is the cure. The shahadah first demolishes every false absolute and then establishes the only Real one.`,
+    summary: `God is one. That is the entire foundation. Tawhid is the affirmation that there is no god but God — in His essence, His names, and His right to be worshipped. Every other teaching in Islam rests on this. When you say la ilaha illa Allah, you are making the most consequential statement a human being can make.`,
 
     root: {
       letters: 'و–ح–د',
@@ -3991,11 +3943,7 @@ Sufi metaphysics developed a concept of tawhid wujud (oneness of being) associat
     evocativeLine: 'Faith — not just belief in the mind, but conviction that moves the limbs.',
     hasFullEntry: true,
 
-    summary: `Iman is faith — but not merely intellectual assent. The word comes from the root ʾ–m–n, the same root as amana (security, trust), amanah (trust/responsibility), and amin (trustworthy). Iman is the conviction that makes you feel secure, the trust you place in something you have staked your whole life on. In Islamic theology, iman has three components: tasdiq bi-al-qalb (affirmation in the heart — genuine internal conviction), iqrar bi-al-lisan (declaration with the tongue — verbal profession), and amal bi-al-jawarih (action with the limbs — behavioral expression). All three are parts of iman; where scholars differed is whether the actions are intrinsic to iman or its fruits.
-
-The Quran treats iman as a dynamic, living thing rather than a static condition. It increases and decreases: "That they may increase in faith along with their [present] faith" (48:4). It can be complete: "The believers are those whose hearts tremble when Allah is mentioned" (8:2). It can be at risk: "O you who have believed — believe!" (4:136) — the command to increase in iman is addressed to those who already have it. This dynamic quality means iman is not a one-time event but a continuous project of maintenance, increase, and renewal.
-
-The hadith of Jibril is the central definition of iman: to believe in Allah, His angels, His books, His messengers, the Last Day, and qadar — both its good and its evil. This list is not arbitrary; each pillar addresses a dimension of the unseen without which the believer's worldview would be radically impoverished. The scholars note that all six pillars are about al-ghayb — iman is specifically the conviction about what cannot be seen. And the first pillar — belief in Allah — encompasses tawhid, the names and attributes, and the whole orientation of the heart toward the Creator. Everything else in Islam is built on this foundation.`,
+    summary: `Faith — but the Quran treats it as something alive, something that increases and decreases. Iman comes from a root meaning 'to feel safe, to trust.' A person of iman is someone who has placed their security in God. The Prophet ﷺ said iman has over seventy branches, the highest being la ilaha illa Allah, the lowest being removing harm from the road.`,
 
     root: {
       letters: 'أ–م–ن',
@@ -4128,11 +4076,7 @@ What the Islamic tradition uniquely contributes is the precision of the six pill
     evocativeLine: "To worship Allah as though you see Him — knowing He sees you.",
     hasFullEntry: true,
 
-    summary: `Ihsan is the highest of the three dimensions of religion defined in the hadith of Jibril: Islam (submission — the outer acts), Iman (faith — the inner conviction), and Ihsan (excellence — the fullest integration of both). The Prophet ﷺ defined it: "To worship Allah as though you see Him — for if you do not see Him, He sees you." This definition is among the most profound sentences in all of Islamic literature. It describes a mode of being, not merely a mode of acting. The person of ihsan has collapsed the distance between the private and the public, between the observed and the unobserved, between worship and life. Everything is done in the full presence of Allah.
-
-Ihsan has a horizontal dimension as well — excellence toward other people. The Quran uses ihsan repeatedly to mean "doing good" or "excellence in conduct": "Indeed, Allah orders justice and ihsan" (16:90). The scholars say: the one who has ihsan toward Allah cannot fail to have ihsan toward people, because the divine presence they carry informs every interaction. Ihsan toward Allah produces the awareness that every person is Allah's creature — and that is the deepest motivation for ihsan toward them.
-
-What makes ihsan different from mere piety is the quality of awareness it requires and produces. The person who performs salah to be seen is not reaching ihsan. The person who performs salah hoping to be done quickly is not reaching ihsan. The person who performs salah aware that they are in the presence of the Most High, speaking directly to the Lord of all worlds, every movement an address — this person is approaching ihsan. It is excellence of presence, not merely excellence of form. The scholars say ihsan is when the heart has arrived at where the body already is.`,
+    summary: `The highest level — worshipping God as if you see Him, and knowing that even if you don't see Him, He sees you. Ihsan is excellence in everything: prayer, character, work, relationships. It is the state where faith moves from obligation to love, from duty to beauty. The Prophet ﷺ described it as the peak of the religion.`,
 
     root: {
       letters: 'ح–س–ن',
@@ -4253,11 +4197,7 @@ What the Quran uniquely provides is the reciprocal: "Is the reward of ihsan anyt
     evocativeLine: 'God-consciousness — the shield that makes every moment a moral choice.',
     hasFullEntry: true,
 
-    summary: `Taqwa is one of the most frequently appearing and most consequential concepts in the Quran. It appears in some form in nearly every surah. It is the quality that the Quran holds up as the standard of honor, the criterion of distinction between people, the basis of divine reward, and the prerequisite for guidance. The word is often translated as "piety," "God-fearing," or "God-consciousness" — but none of these captures the full richness of the Arabic. The root w–q–y means "to protect" or "to shield" — taqwa is the shield you build between yourself and what angers Allah. It is protection, not merely feeling.
-
-The scholars defined taqwa as: "To act in obedience to Allah, upon light from Allah, seeking the reward of Allah; and to leave disobedience to Allah, upon light from Allah, out of fear of the punishment of Allah." This definition has four parts: action, knowledge-basis (light), motivation (seeking reward), avoidance of sin, knowledge-basis again, and motivation again (fear of punishment). Taqwa is not a passive emotional state — it is an active, knowledge-driven, motivation-conscious mode of navigating life.
-
-The Quran makes taqwa the criterion of honor in the most democratic statement of ethics ever uttered: "Indeed, the most noble of you in the sight of Allah is the most muttaqi (the one with the most taqwa)" (49:13). Not the richest, not the most powerful, not the most learned — the most muttaqi. This single verse overturns every human hierarchy of status and replaces it with one measure: the quality of one's relationship with Allah, as expressed in taqwa. And because taqwa is in the heart (which only Allah can fully see), it is the only criterion of honor that no one can fake before the One who counts.`,
+    summary: `The most important quality the Quran asks you to develop. Taqwa is God-consciousness — an awareness that shapes every choice you make. It comes from a root meaning 'to protect, to shield' — you're shielding yourself from God's displeasure by being mindful of Him. The Quran says it in nearly every surah because nearly everything depends on it.`,
 
     root: {
       letters: 'و–ق–ي',
@@ -4492,11 +4432,7 @@ What the Quran uniquely establishes is the primacy and self-commitment of divine
     category: 'States of the Heart',
     evocativeLine: "The remembrance of Allah — the heart's breath, without which it suffocates.",
     hasFullEntry: true,
-    summary: `Dhikr is the remembrance of Allah — perhaps the single most encompassing spiritual practice the Quran prescribes. Every act of worship is, in a sense, dhikr: salah is dhikr performed with the body, Quran recitation is dhikr performed with the tongue and heart, fasting is dhikr enacted through the discipline of the nafs. But dhikr in its specific sense is the active, intentional, frequent remembrance of Allah through verbal and mental acts: saying His names, reciting His praises, reflecting on His attributes, speaking words that orient the heart toward Him.
-
-The Quran makes a statement about dhikr that is among the most frequently quoted verses in Islamic spiritual literature: "Verily, in the remembrance of Allah do hearts find rest" (13:28). Not in success, not in health, not in relationships, not in knowledge — in dhikr. The scholars say this verse identifies the only genuine cure for the restlessness that is the baseline condition of the human heart. The heart was made for Allah; everything it tries in place of Him leaves it hungry. Only dhikr — the return to the presence of its Maker — produces the stillness the heart has always been seeking.
-
-The Quran also makes an extraordinary promise about dhikr that is unlike almost any other: "So remember Me — I will remember you" (2:152). Allah does not merely receive the servant's dhikr; He responds with His own dhikr. The hadith explains this: "Whoever mentions Me in himself, I mention him in Myself; and whoever mentions Me in a gathering, I mention him in a better gathering." This reciprocity makes dhikr not a one-sided act of devotion but a dialogue — the human's remembrance of Allah is met with Allah's remembrance of the human.`,
+    summary: `Remembrance of God — the practice the Quran says makes hearts calm. Dhikr is saying God's name, reciting Quran, making du'a, or simply being conscious of God in the middle of your day. The Quran says: remember Me, and I will remember you. That transaction — your small remembrance for His vast attention — is the best deal you will ever get.`,
     root: { letters: 'ذ–ك–ر', transliteration: 'dh–k–r', meaning: 'To remember, to mention, to recall to mind', elaboration: "The root dh–k–r carries both meanings simultaneously: to remember (internal) and to mention (external). This dual meaning is embedded in the Quranic concept of dhikr: remembrance that is never only mental (it speaks) and speech that is never only verbal (it must come from a remembering heart). The word dhikr also means 'the Quran' in several Quranic uses — 'We have sent down the Dhikr and We will preserve it' (15:9)." },
     occurrenceCount: 292,
     occurrenceNote: "The root dh–k–r appears approximately 292 times in the Quran in the noun dhikr (remembrance/mention), the verb dhakara (to remember), the command udhkur (remember!), and the plural adhkar.",
@@ -4558,11 +4494,7 @@ What the Quran uniquely provides is the explicit divine promise of reciprocity: 
     category: 'States of the Heart',
     evocativeLine: 'Detachment from the world — not hating it, but not being owned by it.',
     hasFullEntry: true,
-    summary: `Zuhd is detachment from the world — the spiritual station of holding the dunya lightly, without either fleeing it or being captured by it. The word is often translated as "asceticism" but that carries the wrong connotation: asceticism suggests rejection and denial. Zuhd is a condition of the heart, not the hand: the zahid may be wealthy or poor; what defines them is that wealth or poverty moves through their hands without settling in their heart.
-
-The most famous definition of zuhd in the tradition comes from Sufyan al-Thawri: "Zuhd in the world is the shortening of one's hopes, not the eating of dry food or wearing a robe." And the Prophet ﷺ's definition is even more precise: "Zuhd in the world is not prohibiting the lawful or wasting wealth — but it is that you are more confident in what is in Allah's hand than in what is in your own hand." Both definitions place zuhd in the relationship between the heart and the dunya, not in external behavior.
-
-The Quran does not command poverty; it commands freedom from attachment. The Prophet ﷺ himself was not a hermit; he was a husband, a father, a community leader, a statesman. What characterized him was that neither wealth nor poverty affected his orientation toward Allah. This is the zuhd the Quran gestures toward with its repeated reminders that the dunya is mata' ghurur — the enjoyment of delusion — while the akhira is al-hayawan — the real life.`,
+    summary: `Letting go of the world — not by hating it, but by understanding it. Zuhd is the recognition that this life is temporary and what's with God is permanent. It means the dunya is in your hand, never in your heart. You can own things without things owning you.`,
     root: { letters: 'ز–ه–د', transliteration: 'z–h–d', meaning: 'To be indifferent to something, to have no desire for it', elaboration: "The root z–h–d means to turn away from something without contempt — to regard it as beneath one's concern. This differs from hatred or rejection: the zahid does not hate the world; they simply find it uncompelling compared to what they have found in Allah. The word zahid (one with zuhd) appears in the Quran once — the merchants who sold Yusuf ﷺ 'regarded him with indifference' (zahidin), undervaluing the precious." },
     occurrenceCount: 1,
     occurrenceNote: "The root z–h–d appears only once explicitly in the Quran, but zuhd pervades the Quran through its frequent contrasting of dunya and akhira, descriptions of believers' indifference to worldly pleasures, and consistent reorientation toward the eternal.",
@@ -4681,11 +4613,11 @@ What the Quran uniquely provides is the socio-eschatological framing: the siddiq
     category: 'States of the Heart',
     evocativeLine: 'The modesty that guards — the eyes, the tongue, the heart, and the limbs.',
     hasFullEntry: true,
-    summary: `Hayaa' is modesty or bashfulness — the quality that produces restraint, decorum, and a protective sense of shame in the presence of the divine and in the company of others. It is one of the most distinctive qualities praised in the Islamic tradition, described by the Prophet ﷺ as a branch of faith. But hayaa' is frequently misunderstood: it is not timidity, self-deprecation, or anxiety. The scholars distinguish sharply between hayaa' (praiseworthy, spiritually productive) and simple shyness (a psychological trait that can be good or harmful).
+    summary: `Modesty — and the Prophet ﷺ said it is a branch of faith. Haya' is the inner sense that keeps you from doing something shameful, even when no one is watching. It operates between you and God, between you and people, and between you and yourself. It is the quality that makes a person careful with their dignity and the dignity of others.
 
-The Prophet ﷺ said: "If you have no hayaa', do whatever you will." This is not permission for licentiousness — it is a diagnosis. The person without hayaa' is the person from whom the internal governor that restrains harmful action has been removed. Hayaa' is the guardian: when present, certain actions become impossible — not because they are forbidden but because they are beneath the dignity of the person who has hayaa'. The person of hayaa' is not controlled by external enforcement — they are self-governing through an inner sense of what is fitting.
+The Prophet ﷺ said: 'If you have no haya', do whatever you will.' That statement is a diagnosis: the person without haya' has lost the internal guardian that makes certain actions feel beneath them. Haya' means you are self-governing — guided by an inner sense of what is fitting, rather than waiting for someone to tell you what is wrong.
 
-The Quran's most vivid portrayal of hayaa' is in the story of Musa ﷺ at the well of Madyan (28:25): the daughter of Shu'ayb ﷺ came to him "walking with hayaa'" to invite him to her father. Three words that the scholars wrote pages about: she was present, transactional, and purposeful — but present with hayaa'. Hayaa' is not hiding from the world; it is engaging with the world while maintaining one's dignity.`,
+The Quran's most vivid portrait of haya' in action: the daughter of Shu'ayb came to Musa 'walking with modesty' to invite him to her father's home. She was present, purposeful, direct — and carried herself with dignity. Haya' is how you engage with the world while protecting what matters most about who you are.`,
     root: { letters: 'ح–ي–ي / ح–ي–و', transliteration: 'ḥ–y–y / ḥ–y–w', meaning: 'Life; to be alive; modesty, bashfulness', elaboration: "The root of hayaa' is the same as hayah (life). The scholars say hayaa' is a sign of the life of the heart: the dead heart has no hayaa'; the living heart is sensitive to what is fitting. Hayaa' is the heart's aliveness expressed in its capacity for appropriate restraint. When the heart dies through persistent sin and heedlessness, hayaa' is one of the first qualities to depart." },
     occurrenceCount: 11,
     occurrenceNote: "The specific word hayaa' appears approximately 11 times in the Quran, but the quality pervades its descriptions of the believers, the prophets, and the model women.",
@@ -4740,11 +4672,7 @@ What the Quran adds is the divine source of hayaa': not before people or abstrac
     category: 'States of the Heart',
     evocativeLine: "Humility that knows where it stands — not self-deprecation but honest seeing.",
     hasFullEntry: true,
-    summary: `Tawadu' is humility — knowing one's true place in the order of being, without either inflating or deflating it. The word comes from the root w–d–' which carries the sense of placing something in its proper position. Tawadu' is the act of placing oneself in one's actual position — not higher (kibr, arrogance) and not lower than truth requires. It is the accuracy of self-knowledge translated into how one holds oneself before Allah and before people.
-
-The Quran does not use the word tawadu' very often, but its opposite — kibr (arrogance) — is one of the Quran's most condemned qualities. Kibr is the first sin: Iblis refused to prostrate to Adam, claiming superiority. Kibr is what destroyed Fir'awn: his claim of lordship was the ultimate arrogance. The Quran's consistent condemnation of kibr is simultaneously a sustained praise of tawadu' — because tawadu' is what kibr is not.
-
-The paradox the scholars describe: tawadu' is the quality that elevates. The Prophet ﷺ said: "Whoever is humble for the sake of Allah, Allah will raise them." The one who lowers themselves before Allah is raised by Allah; the one who raises themselves above their station is brought low. Tawadu' is the deliberate emptying that makes room for the divine: the filled cup cannot receive more; the empty cup can be filled.`,
+    summary: `Humility before God and people. Tawadu' means knowing your place — which sounds diminishing until you realize the Quran says God elevates the humble. It means treating the janitor the same as the CEO, because in front of God, the only rank that matters is taqwa.`,
     root: { letters: 'و–ض–ع', transliteration: 'w–ḍ–ʿ', meaning: 'To place, to set down, to lower; humility, modesty', elaboration: "The root w–ḍ–ʿ gives mawdu' (placed, set down), wada'a (to place/put down), and tawadu' (the reflexive form — to lower oneself). The image is concrete: tawadu' is the act of putting yourself down — not in self-contempt but in accurate self-placement." },
     occurrenceCount: 12,
     occurrenceNote: "The root w–ḍ–ʿ appears approximately 12 times in contexts related to humility. The description of 'ibad al-Rahman (servants of the Most Merciful) in 25:63 — walking lightly — is among the Quran's most vivid portraits of tawadu' in action.",
@@ -4801,11 +4729,7 @@ What Islamic tawadu' adds is the dynamic of reciprocity with Allah: "Whoever hum
     category: 'States of the Heart' as const,
     evocativeLine: 'Scrupulous caution — leaving even the doubtful for fear of the forbidden.',
     hasFullEntry: true,
-    summary: `Wara' is the virtue of the careful soul — the one who, when they reach the edge of the permitted, steps back rather than forward. It is not the avoidance of the haram alone; it is the avoidance of whatever might lead to the haram, whatever blurs the line, whatever trains the self to push limits. The Prophet ﷺ described it as "leaving what does not concern you."
-
-The scholars placed wara' among the highest stations of the heart, above zuhd in some classifications, because zuhd concerns the world while wara' concerns the self — it is an internal calibration of sensitivity to what displeases Allah. Ibn al-Qayyim wrote that the person of wara' treats their heart as a guest house: they do not let in what they cannot vouch for.
-
-Wara' produces a quality of life that is simpler, quieter, and more deliberate. The wari' person asks "should I?" before asking "can I?" They carry fewer things because they screen more carefully at the door. The result is a lightness — not the lightness of those who don't care, but of those who care enough to let go.`,
+    summary: `The caution that keeps you away from anything doubtful — a step beyond what's technically allowed, into what's spiritually safe. Wara' is the guardrail around the guardrail. The Prophet ﷺ said the halal is clear and the haram is clear, and between them are doubtful matters. Wara' avoids the gray zone entirely.`,
     root: {
       letters: 'و–ر–ع',
       transliteration: 'w–r–ʿ',
@@ -4892,11 +4816,7 @@ What is distinctive in the Islamic tradition is the hadith-based precision: the 
     category: 'States of the Heart' as GlossaryCategory,
     evocativeLine: "Contentment with what Allah has given — the richness that needs no addition.",
     hasFullEntry: true,
-    summary: `Qana'ah is the virtue of the satisfied soul — not satisfied because it has everything it wants, but because it has reoriented what it wants. The person of qana'ah looks at their provision and sees sufficiency; the person without it looks at the same provision and sees lack. The difference is not in the provision but in the heart's relationship to it.
-
-The Prophet ﷺ called qana'ah "a treasure that does not run out." This is precise: worldly wealth is exhaustible, but the sense of sufficiency is renewable. The person who has trained their heart to be content carries their wealth internally — it cannot be taken, cannot be lost in the market, cannot be inflated away. It is the one truly portable asset.
-
-Qana'ah is not passivity or the abandonment of striving. The person of qana'ah still works, still seeks sustenance, still has goals. But they hold the outcomes loosely — they strive without being enslaved to the result. The work is done for Allah; the provision comes from Allah; and what comes is enough.`,
+    summary: `Contentment with what God gave you. Qana'ah means your heart is at rest even when your bank account is low. The Prophet ﷺ said real wealth is the richness of the soul. This concept separates people who have everything and feel empty from people who have little and feel full.`,
     root: {
       letters: 'ق–ن–ع',
       transliteration: 'q–n–ʿ',
@@ -4982,11 +4902,7 @@ In the Jewish tradition, the daily prayer formula "dayenu" — it would have bee
     category: 'States of the Heart' as GlossaryCategory,
     evocativeLine: 'The awareness of being watched — living as though you can see Allah, knowing He sees you.',
     hasFullEntry: true,
-    summary: `Muraqaba is the station of the heart that remains continuously aware of Allah's gaze. The word comes from raqaba — to watch, to observe, to guard. Allah is Al-Raqib: the Ever-Watchful. Muraqaba is the servant's reciprocal response — not matching Allah's watch, which is impossible, but acknowledging it, orienting toward it, living in its light.
-
-The Prophet ﷺ described ihsan as "worshipping Allah as though you see Him — and if you do not see Him, knowing He sees you." Muraqaba is this second dimension: even when the heart cannot achieve the vivid presence of seeing Allah, it knows that it is seen. This knowing is not a threat but an intimacy — the awareness of being permanently, attentively regarded by the One who loves the servant more than they can conceive.
-
-Al-Ghazali described muraqaba as the foundation of all spiritual progress: the person who truly knows they are watched changes everything — their speech, their thoughts, their private moments. Not from fear alone, but from the natural modesty of one who is never alone. The most powerful test of muraqaba is what happens in private: does the servant's behavior change when no human eye can see?`,
+    summary: `Living as if God is watching — because He is. Muraqaba is continuous awareness of God's gaze. The Prophet ﷺ defined ihsan as worshipping God as if you see Him, and if you don't see Him, knowing that He sees you. Muraqaba is the practice of making that awareness constant.`,
     root: {
       letters: 'ر–ق–ب',
       transliteration: 'r–q–b',
@@ -5203,11 +5119,7 @@ The Jewish practice of cheshbon ha-nefesh (accounting of the soul) is a formal m
     category: 'States of the Heart' as GlossaryCategory,
     evocativeLine: 'Turning to Allah with the whole soul — more urgent and total than tawbah.',
     hasFullEntry: true,
-    summary: `Inabah is the total turning of the soul toward Allah — more than tawbah (repentance), more than ruju' (return), more than rida' (acceptance). It is the word for the person who does not just return after going away, but who orients their entire being toward Allah as the permanent direction of existence. The munib (one who practices inabah) is not someone who has arrived once; they are someone who keeps arriving, keeps turning, keeps choosing Allah.
-
-The Quran uses inabah exclusively in contexts of the deepest spiritual seriousness: the prophets turning to Allah in their trials, the believers who will be saved on the Day of Judgment, the quality Allah commands in 39:54 before He closes the door. Inabah is what it looks like when a person has truly understood what Allah is and what they are — and responds with everything they have.
-
-Ibn al-Qayyim placed inabah above tawbah in his ranking of the stations: tawbah responds to sin; inabah responds to separation — to any gap between the heart and Allah, even without a specific violation. The munib person does not wait for a crisis to turn; they live in a continuous orientation toward Allah, like a compass that always finds north.`,
+    summary: `Tawbah turns you back to God once. Inabah keeps you turned. It's the deeper station — where returning to God becomes your default direction, where the heart stays oriented even when life pushes you sideways. Ibrahim, Dawud, and Sulayman are all described with this word.`,
     root: {
       letters: 'ن–و–ب',
       transliteration: 'n–w–b',
@@ -5439,11 +5351,7 @@ What is distinctive in Islamic tafakkur is its target: not self-improvement or m
     category: 'States of the Heart' as GlossaryCategory,
     evocativeLine: 'Forbearance that absorbs harm without retaliation — the strength to be still.',
     hasFullEntry: true,
-    summary: `Hilm is one of the supreme virtues of the Arab character, and Islam elevated it further. It is translated as forbearance, clemency, gentleness — but all translations fall short. Hilm is what happens when someone has the power to respond with force and chooses not to. It is not passivity or weakness; it is the capacity to absorb provocation without losing composure, to be wronged without retaliating, to be insulted without degrading oneself in response.
-
-The Prophet ﷺ praised hilm in the same breath as intelligence ('aql and hilm are paired repeatedly), and the Quran attributes hilm to Allah Himself (Halim is one of His Names) and to Ibrahim ﷺ. This is telling: the supreme example of hilm in Quranic history is Ibrahim, who was thrown into a fire and prayed for his father who tried to have him killed. That is hilm — not the absence of feeling but the presence of something stronger than feeling.
-
-Ibn al-Qayyim described hilm as the fortress of the character — when it is present, rash anger cannot enter. The opposite of hilm is not courage but ghadab (uncontrolled anger) and tahawwur (recklessness). The person of hilm is not someone who doesn't feel anger — they are someone whose character is not controlled by it.`,
+    summary: `The ability to stay calm when you have every right to be angry. Hilm is forbearance, restraint, the choice to hold your fire when you could easily let it loose. God is described as al-Halīm — the Forbearing One — and Ibrahim was praised for this quality above almost all others.`,
     root: {
       letters: 'ح–ل–م',
       transliteration: 'ḥ–l–m',
@@ -5652,11 +5560,7 @@ In Sufi literature, uns is paired with haybah (awe) as the two poles of the spir
     category: 'States of the Heart' as GlossaryCategory,
     evocativeLine: 'Reverential awe born of knowledge — the fear of those who truly know.',
     hasFullEntry: true,
-    summary: `Khashya is the Quran's highest form of fear — not the dread of punishment that a stranger might feel, but the reverential awe that comes from genuinely knowing Allah. The Quran makes this explicit: "Only those among Allah's servants who have knowledge truly fear Him" (35:28). Khashya is thus distinguished from ordinary khawf (fear): khawf can come from ignorance, from uncertainty, from threat — khashya comes only from knowledge. The more a person knows Allah, the deeper their khashya.
-
-This creates a paradox: the scholars, the prophets, the angels — those who know Allah most — fear Him most. Not because their knowledge reveals something terrible, but because genuine knowledge of the divine majesty, power, and perfection produces a reverence so profound that ordinary language calls it fear. The heart that has truly encountered Allah trembles — not in terror but in awe, the way one trembles before something incomprehensibly beautiful or vast.
-
-The Prophet ﷺ said: "I am the one among you who knows Allah best, and I am the most fearful of Him." This is khashya: the knowledge and the awe are one movement. It is why the Quran attributes khashya to the angels, to the scholars, and to the prophets — and commands it as the proper response to awareness of Allah's greatness.`,
+    summary: `The highest form of fear in the Quran — the kind that comes from knowing God deeply. The Quran says: 'Only those who have knowledge truly fear God.' Khashya increases with understanding, which is the opposite of how regular fear works. The more you know God, the more this reverence grows.`,
     root: {
       letters: 'خ–ش–ي',
       transliteration: 'kh–sh–y',
@@ -5886,11 +5790,7 @@ What is distinctive in Islamic 'afw is the divine motivation: Allah is Al-'Afuw,
     category: 'Theology & Ethics' as GlossaryCategory,
     evocativeLine: 'Wisdom — the ability to put things in their right place, given only to those Allah chooses.',
     hasFullEntry: true,
-    summary: `Hikmah is wisdom — but not the wisdom of experience or intelligence alone. The Quran describes it as a gift from Allah: "He gives hikmah to whoever He wills, and whoever is given hikmah has been given abundant good" (2:269). This is the crucial distinction: hikmah cannot be earned through study alone; it is granted. The one who receives it becomes able to see things as they actually are, to place each thing in its right relationship, to know not just what to do but why — and how.
-
-The classical scholars distinguished hikmah from 'ilm (knowledge): you can have 'ilm without hikmah, but not hikmah without 'ilm. The one who has 'ilm knows facts; the one who has hikmah knows what to do with them. Al-Ghazali described hikmah as the capacity of the rational soul operating at its best — in alignment with divine guidance, purified of ego, oriented toward what truly matters.
-
-In the Quran, hikmah is paired consistently with the Book (kitab): "He taught them the Book and hikmah" (2:129, 2:151, 3:164). This pairing reveals that hikmah is the living dimension of scripture — not just the text but the ability to apply it with discernment, justice, and beauty. The Prophet ﷺ embodied this: he knew the revelation and lived it wisely in every circumstance.`,
+    summary: `Wisdom — the ability to put the right thing in the right place at the right time. The Quran says God gives wisdom to whom He wills, and whoever is given wisdom has been given immense good. Hikmah is what separates someone who knows the truth from someone who knows how to share it without breaking anything.`,
     root: {
       letters: 'ح–ك–م',
       transliteration: 'ḥ–k–m',
@@ -6000,11 +5900,7 @@ In Chinese philosophy, the concept of zhi (wisdom) in Confucianism is one of the
     category: 'Theology & Ethics' as GlossaryCategory,
     evocativeLine: "Justice — one of the Quran's supreme values, demanded even against yourself.",
     hasFullEntry: true,
-    summary: `'Adl (justice) is among the most frequently commanded values in the Quran — not as a legalistic requirement but as a divine attribute that believers are called to embody. Allah is Al-'Adl: the perfectly just. Every human attempt at justice participates in a divine quality and every failure diminishes something of what humans were created to uphold.
-
-What distinguishes Quranic justice from mere fairness is its comprehensiveness and its demands: "O you who believe, be persistently standing firm in justice, witnesses for Allah, even if it be against yourselves or parents and relatives" (4:135). Justice that applies only to strangers, only when convenient, only when it costs nothing — is not 'adl. The Quran demands a justice that bends even against self-interest, that requires standing as a witness to the truth even when it hurts you.
-
-The scholars distinguished 'adl from qist (equity or fairness in distribution). Both are justice, but 'adl implies the exact proportion — giving each thing exactly what it deserves, no more and no less. Qist implies equity in sharing — making sure things are distributed fairly. The Quran commands both. Together they describe a vision of social life in which nothing and no one is treated as less than they truly are.`,
+    summary: `Justice — and the Quran commands it even when it's hard, even against yourself, even against your own family. 'Adl means giving everyone exactly what they're owed, without favoritism and without fear. The Quran says: be just — it is closer to taqwa. Justice is where ethics and God-consciousness meet.`,
     root: {
       letters: 'ع–د–ل',
       transliteration: 'ʿ–d–l',
@@ -6125,11 +6021,7 @@ What is distinctive in the Quranic vision is that justice is not the ceiling but
     category: 'Theology & Ethics' as GlossaryCategory,
     evocativeLine: 'The one sin declared unforgivable — placing anything alongside Allah in the heart.',
     hasFullEntry: true,
-    summary: `Shirk — associating partners with Allah — is the Quran's supreme transgression, the sin explicitly declared unforgivable if unrepented: "Indeed, Allah does not forgive that partners be associated with Him, but He forgives what is less than that for whom He wills" (4:48). To understand why, you must understand what shirk actually is: it is not merely a theological error — it is a misalignment of the entire soul.
-
-Everything the human person is made for — to know Allah, love Him, serve Him, turn to Him — is redirected. The person who commits shirk has given what belongs only to Allah to something else: fear, love, hope, obedience, worship. This is an injustice (zulm) so fundamental that Luqman calls it "the greatest injustice" (31:13) — not because Allah is harmed (He is not), but because the person has harmed themselves at the most essential level.
-
-The scholars divided shirk into two categories: shirk akbar (major shirk) — the open worship of others alongside Allah, which exits one from Islam — and shirk asghar (minor shirk) — acts that partake of the structure of shirk without constituting outright polytheism. The most discussed form of minor shirk is riya' (showing off in worship) — doing an act of worship for human eyes rather than Allah's. The Prophet ﷺ called this "the thing I fear for you most." This internal shirk — the partnership of the ego and the world in what should be pure for Allah — is the spiritual struggle of every believer.`,
+    summary: `The one sin the Quran says God will never forgive if you die on it: associating partners with God. Shirk means giving something or someone a share of what belongs to God alone — worship, ultimate loyalty, the belief that anything other than God controls your fate. The Quran treats it as the greatest injustice because it misplaces the most important truth.`,
     root: {
       letters: 'ش–ر–ك',
       transliteration: 'sh–r–k',
@@ -6702,11 +6594,7 @@ In Catholic social teaching, the concept of structural sin — the way unjust so
     category: 'Theology & Ethics' as GlossaryCategory,
     evocativeLine: 'Comprehensive righteousness — the full expression of goodness in every direction.',
     hasFullEntry: true,
-    summary: `Birr is the Quran's word for comprehensive righteousness — the full expression of goodness that extends in every direction simultaneously. The longest definition of birr in the Quran (2:177) is remarkable for what it includes: belief, charity, family relationships, keeping promises, and patience in adversity. The verse begins by telling you what birr is not (turning your face east or west in prayer, as a ritualistic performance) and then defines it as the full integration of faith and action.
-
-The word birr shares a root with barr (land, as opposed to sea) — the expansive, solid, stable ground on which everything grows. Birr is the ethical ground of the believing life — not a single virtue but the integration of all virtues. The person of birr is not merely pious in mosque; they are righteous in every dimension of existence.
-
-The Prophet ﷺ gave the simplest possible definition: "Birr is good character." This is precise — good character is not a list of rules followed but a quality of the person that expresses itself naturally in every context. The person of birr does not calculate whether to be kind, honest, generous; these things emerge from who they are. Birr is the fruit of the integrated, rightly-oriented person.`,
+    summary: `Righteousness — the comprehensive word for everything good the Quran asks of you. Surah Al-Baqarah defines it: believing in God, the last day, the angels, the scriptures, the prophets — and giving your wealth to relatives, orphans, the needy, travelers, and those in bondage. Birr is faith that shows up in your hands.`,
     root: {
       letters: 'ب–ر–ر',
       transliteration: 'b–r–r',
@@ -6924,11 +6812,7 @@ In modern political thought, Benedict Anderson's concept of "imagined communitie
     category: 'Theology & Ethics' as GlossaryCategory,
     evocativeLine: 'The call — inviting to Allah with wisdom and beautiful speech.',
     hasFullEntry: true,
-    summary: `Da'wah is the call — the invitation to Allah, to His guidance, to the way of truth. The Quran describes it as the finest thing a person can say: "Who is better in speech than one who calls to Allah, does righteous deeds, and says 'Indeed, I am one of the Muslims'?" (41:33). Three things constitute the best speech: calling to Allah, living rightly, and identifying with the ummah of submission. Da'wah is the external expression of iman turned toward the world.
-
-The method is as important as the message. 16:125 gives the three-part methodology: wisdom (hikmah), beautiful instruction (al-maw'izah al-hasanah), and gracious argumentation (al-jadal bi-allati hiya ahsan). Da'wah is not pressure, not argument for victory, not contempt for the one who has not yet seen. It is a gift — an invitation — offered with the beauty and care of a gift.
-
-The Quran also establishes the limit of da'wah: "There is no compulsion in religion" (2:256). The caller calls; the hearer decides. The Prophet ﷺ is told explicitly: "Indeed, you do not guide whom you love, but Allah guides whom He wills" (28:56). This humbles the caller: the outcome is not in their hands. The responsibility is to call beautifully, sincerely, with wisdom — and then to leave the result with Allah.`,
+    summary: `The invitation — calling people to God. The Quran says it is the most beautiful thing a person can say: 'Who is better in speech than the one who calls to God, does good, and says I am among the Muslims?' Da'wah is sharing what you believe with wisdom and gentle words. It is not coercion; it is opening a door.`,
     root: {
       letters: 'د–ع–و',
       transliteration: 'd–ʿ–w',
@@ -7359,11 +7243,7 @@ In Sufi tradition, the story of Alast is enormously generative: the longing for 
     category: 'Theology & Ethics' as GlossaryCategory,
     evocativeLine: 'Striving — the comprehensive struggle in every domain, of which warfare is one dimension.',
     hasFullEntry: true,
-    summary: `Jihad is the most misunderstood word in Islamic discourse — by those who oppose Islam and by those who claim it. The word means striving, effort, struggle — the exertion of one's full capacity toward a goal. In the Quran, jihad appears in its most comprehensive sense as the total effort of the believer: striving in the way of Allah with wealth, with life, with time, with attention, with the tongue, with the pen.
-
-The first and most frequently emphasized form of jihad in the classical tradition is jihad al-nafs — the struggle against the self. When a warrior returned from battle, the Prophet ﷺ said: "You have returned from the lesser jihad to the greater jihad — the struggle against the nafs." The greater jihad is internal: resisting the ego's demands, overcoming laziness in worship, fighting the impulse toward sin, disciplining the character. This is the jihad that never ends.
-
-Physical combat (qital) is one specific, conditional, and regulated form of jihad — governed by the most extensive rules of engagement in classical Islamic jurisprudence. It applies in specific circumstances (defense of the community, removal of oppression from those who cannot free themselves), requires proper authorization, and is subject to detailed limitations about who can be harmed and how. Collapsing all of jihad into this one conditional form — as both critics and extremists do — is a fundamental error that Islamic scholarship has been clear about for fourteen centuries.`,
+    summary: `Struggle — the effort expended in the path of God. The word covers the inner battle against your own desires, the social struggle to establish justice, the financial sacrifice of spending in God's cause, and in specific circumstances, the defense of your community. The greatest jihad, the Prophet ﷺ said, is the struggle against your own nafs.`,
     root: {
       letters: 'ج–ه–د',
       transliteration: 'j–h–d',
@@ -7482,7 +7362,7 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
     pronunciation: 'ah-MAA-nah',
     category: 'Concepts of Existence',
     evocativeLine: 'The trust the mountains refused — and the human accepted.',
-    summary: "Amanah is the primordial trust offered by Allah to the heavens, the earth, and the mountains before it was accepted by the human being. The Quran records this event in a single devastating verse — creation trembled before this weight and declined, yet the human carried it. That trust is the capacity for moral responsibility, free will, and accountability before God.\n\nTo bear the amanah is not merely to be honest with others — though that is included. It is to fulfil every duty that has been placed in one's keeping: the rights of Allah, the rights of other humans, the obligations of one's station. The judge who rules unjustly has betrayed the amanah. The leader who governs without fairness has betrayed the amanah. The person who breaks a promise has betrayed the amanah.\n\nThe Prophet ﷺ identified the loss of amanah as one of the clearest signs of approaching ruin: when leadership is entrusted to those unworthy of it, await the Hour. This is not merely a social observation — it is a metaphysical warning. When a people stop being trustworthy, they begin to collapse from within.",
+    summary: "The trust — the responsibility God offered to the heavens, the earth, and the mountains, and they all refused. Humans accepted it. The Quran calls us foolish for taking it on — but taking it on is what makes us human. Amanah is the weight of free will: you chose to be tested, and now you carry what creation was afraid to hold",
     root: {
       letters: 'أ م ن',
       transliteration: "'a-m-n",
@@ -11198,7 +11078,7 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
     pronunciation: "qi-ra-AAT",
     category: 'Study Terms',
     evocativeLine: "The seven readings — different authentic transmissions of the same divine word.",
-    summary: "Qira'at — the plural of qira'ah (reading) — refers to the different authorized modes of reciting the Quran that were transmitted from the Prophet ﷺ through unbroken chains of narration. The most well-known framework identifies seven canonical readings (al-qira'at al-sab'), each associated with a famous reciter (imam) and transmitted through two primary narrators (rawi, plural ruwat): hence the notation 'Hafs an Asim' (Hafs narrating from Asim) — which is the reading most widely used in the Muslim world today, including all Qurans printed in Saudi Arabia.\n\nThe qira'at are not errors or variations in the Quran — they are the authorized diversity of recitation that the Prophet taught and that was preserved through the scholarly tradition. The differences between qira'at are typically in vowelization (how a word is pronounced), not in the consonantal text. Some differences extend to word choice or grammatical form, all within parameters that the classical scholars established as authentic transmission from prophetic practice. The Quranic consonantal skeleton (rasm), established in the time of Uthman ibn Affan, is the same across all qira'at; the variations are in how that skeleton is vocalized and read.\n\nThe spiritual significance of the qira'at is that the same divine word can carry additional dimensions of meaning through different authorized readings. When a word can be read in two different but both authentic ways, both readings are divinely intended — they are not contradictions but complementary facets of the Quranic diamond. This is the doctrine of the Ahruf (the Seven Letters/Modes) mentioned in hadith: 'This Quran was revealed in seven ahruf — all of them are sufficient and healing.' The scholarly consensus holds that the seven qira'at are the practical form of the seven ahruf in transmission.",
+    summary: "The variant readings of the Quran — authorized oral traditions that preserve slight differences in pronunciation and voweling, all traced back to the Prophet ﷺ through unbroken chains. There are seven canonical readings, each equally valid. The most commonly used today is Hafs from Asim, the reading you hear in virtually every Quran recitation online and in print. The differences between readings are typically in how a word is pronounced, not what word it is — the consonantal text is the same across all of them. The spiritual significance is that the same divine word carries additional dimensions of meaning through different authorized readings. Both readings are divinely intended: complementary facets of the same revelation",
     root: {
       letters: 'ق ر أ',
       transliteration: 'q-r-',
@@ -11853,7 +11733,7 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
     pronunciation: "fa-SAAD",
     category: 'Theology & Ethics',
     evocativeLine: "Corruption and disorder — what happens when humanity forgets its covenant and breaks what was whole.",
-    summary: "Fasad — corruption, disorder, disruption of the natural order — is one of the Quran's primary categories for describing the antithesis of divine guidance. It appears in the Quran approximately 50 times and describes both the wrong action itself and the state of affairs that wrong action produces. The command 'do not cause corruption in the earth' (la tufsidu fi al-ard) is among the most repeated ethical imperatives in the Quran.\n\nThe Quran's concept of fasad is broader than its English equivalents ('corruption' or 'disorder'). Fasad is the disruption of the divinely ordered balance (mizan) of creation. When Shu'ayb tells the people of Madyan not to deprive people of their just measure, he frames this as 'spreading corruption in the earth' (26:183). When the Quran describes the consequences of human wrongdoing in the natural world — 'corruption has appeared on land and sea because of what people's hands have earned' (30:41) — fasad extends to ecological disorder caused by moral failure.\n\nThe Quran distinguishes between those who make fasad and those who do islah (reform, correction, making right): 'And do not obey the command of the wasteful (musrifin) who cause corruption in the land and do not reform' (26:151-152). The mufsid (the one who causes fasad) is not only the political tyrant or the corrupt official — the category extends to the cheating merchant, the dishonest contractor, the one who breaks social trust, and, in the ecological dimension, the human being whose actions disrupt the divinely ordered balance of creation.",
+    summary: "Corruption — the opposite of everything the earth was created for. The Quran says: do not spread corruption on the earth after it has been set right. Fasad appears in dozens of contexts: ecological destruction, political tyranny, moral decay, financial cheating. It is what happens when humans stop honoring the trust they were given",
     root: {
       letters: 'ف س د',
       transliteration: 'f-s-d',
@@ -11971,7 +11851,7 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
     pronunciation: "SHOO-ra",
     category: 'Theology & Ethics',
     evocativeLine: "Consultation — the Quranic principle that consequential decisions must be made together.",
-    summary: "Shura — consultation — is the Quranic principle that significant decisions, especially those affecting the community, should be made through deliberation with those who are affected by them or who have relevant knowledge. It appears most explicitly in two Quranic passages: 'And those who have responded to their Lord and established prayer and whose affair is consultation (shura) among themselves' (42:38) — where it is listed among the defining characteristics of the believing community, and 'And consult them in the matter' (3:159) — where the Prophet is directly commanded to consult his companions.\n\nThe principle of shura has been foundational in Islamic political thought. It provides a distinctly Islamic framework for legitimate governance: authority is not absolute but must be exercised through deliberation with those governed. The classical scholars debated the scope and mechanism of shura — who must be consulted (the ahl al-hall wa-l-'aqd — those who have authority to bind and release), whether its outcome is binding on the leader, and how it relates to divine sovereignty. Contemporary Islamic scholars have drawn on shura as the Quranic basis for various forms of democratic participation and consultative governance.\n\nBeyond governance, shura is a principle of personal, familial, and institutional life. The Prophet's practice of consulting his companions — even in military decisions — is one of the most extensively documented aspects of his prophetic conduct (sunnah). He consulted his wife Khadijah after the first revelation. He consulted his companions at Badr, at Uhud, at the Battle of the Trench. He established a pattern of consultative leadership that has shaped Islamic institutional practice across fourteen centuries.",
+    summary: "Consultation — the Quran praises believers whose affairs are conducted through mutual consultation. Shura means no one person's opinion overrides the group's wisdom. God commanded even the Prophet ﷺ to consult his companions. The principle: decisions that affect everyone should involve everyone",
     root: {
       letters: 'ش و ر',
       transliteration: 'sh-w-r',
