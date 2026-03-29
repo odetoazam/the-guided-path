@@ -68,7 +68,9 @@ export function SurahTabs({
   const topTabs: { key: TopTab; label: string; count?: number }[] = [
     { key: 'overview', label: 'Overview' },
     { key: 'reflection', label: 'Reflection' },
-    { key: 'passages', label: 'Passages', count: ayahRecords.length || undefined },
+    ...(ayahRecords.length > 0
+      ? [{ key: 'passages' as TopTab, label: 'Passages', count: ayahRecords.length }]
+      : []),
   ]
 
   const switchTopTab = (key: TopTab) => {
