@@ -26,6 +26,7 @@ interface VisualData {
   heart_verse?: any
   audio?: { surahNumber: number; reciter: string }
   thesis?: string
+  why_this_surah?: string
   sciences_active?: Array<{ key: string; english: string }>
   content_nodes?: any[]
 }
@@ -129,6 +130,18 @@ export function SurahTabs({
           <div role="tabpanel" className="space-y-6">
             {visualData ? (
               <>
+                {/* Why This Surah */}
+                {visualData.why_this_surah && (
+                  <div className="rounded-xl border border-gold-500/20 bg-gold-500/[0.04] px-6 py-5">
+                    <div className="text-[10px] font-semibold uppercase tracking-[0.2em] text-gold-500/70 font-sans mb-2">
+                      Why This Surah
+                    </div>
+                    <p className="text-sm text-cream/80 leading-relaxed font-body">
+                      {visualData.why_this_surah}
+                    </p>
+                  </div>
+                )}
+
                 {/* Thesis */}
                 {visualData.thesis && (
                   <p className="text-sm text-cream/70 leading-relaxed font-body italic max-w-xl mx-auto text-center">
