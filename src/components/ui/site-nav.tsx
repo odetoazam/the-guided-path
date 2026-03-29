@@ -11,7 +11,7 @@ const topLinks = [
 ]
 
 const learnLinks = [
-  { href: '/articles', label: 'Explore', desc: 'Characters, concepts & themes — the knowledge graph' },
+  { href: '/articles', label: 'Articles', desc: 'Latest reflections and thematic deep dives' },
   { href: '/understanding-quran', label: 'Understanding Quran', desc: 'How to read with depth' },
   { href: '/ulum-al-quran', label: 'Sciences of the Quran', desc: '18 disciplines, mapped' },
   { href: '/glossary', label: 'Glossary', desc: 'Key Arabic & Quranic terms' },
