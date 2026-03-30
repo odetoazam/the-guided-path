@@ -63,7 +63,11 @@ export function SurahTabs({
   const [activeTab, setActiveTab] = useState<TopTab>(defaultTab)
   // "why" tab is always first if why_this_surah exists
   const hasWhyTab = !!visualData?.why_this_surah
-  const defaultSubTab = hasWhyTab ? 'why' : (visualData?.tabs?.[0]?.id || '')
+  // First visible tab: skip diagram tabs with no backing data
+  const firstVisibleTab = visualData?.tabs?.find(
+    (t) => t.renderer === 'text' || !t.diagramKey || !!visualData?.diagrams?.[t.diagramKey]
+  )
+  const defaultSubTab = hasWhyTab ? 'why' : (firstVisibleTab?.id || '')
   const [activeSubTab, setActiveSubTab] = useState<string>(defaultSubTab)
 
   const topTabs: { key: TopTab; label: string }[] = [
@@ -123,7 +127,10 @@ export function SurahTabs({
                 {(() => {
                   const allSubTabs = [
                     ...(hasWhyTab ? [{ id: 'why', label: 'Why Learn' }] : []),
-                    ...visualData.tabs,
+                    // Filter out diagram tabs with no backing data
+                    ...visualData.tabs.filter((tab) =>
+                      tab.renderer === 'text' || !tab.diagramKey || !!visualData.diagrams[tab.diagramKey]
+                    ),
                   ]
                   return allSubTabs.length > 0 ? (
                     <>
