@@ -69,6 +69,9 @@ const getAuthHeaders = async () => {
 }
 ```
 
+## Token Efficiency (RTK)
+RTK (Rust Token Killer) v0.34.1 is installed globally and hooked into Claude Code via `settings.json`. It automatically compresses shell command output to reduce token usage — no manual prefixing needed. To check cumulative savings run `rtk gain` in terminal.
+
 ## Stack
 - **Framework**: Next.js 14 (App Router)
 - **Database**: Supabase (PostgreSQL + Auth)

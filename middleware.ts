@@ -1,7 +1,42 @@
 import { createServerClient } from '@supabase/ssr'
 import { NextResponse, type NextRequest } from 'next/server'
+import { checkRateLimit } from '@/lib/rate-limit'
+
+// Known scraper/bot user-agent patterns
+const BOT_UA_PATTERNS = [
+  /GPTBot/i, /ChatGPT/i, /CCBot/i, /anthropic-ai/i, /Claude-Web/i, /ClaudeBot/i,
+  /cohere-ai/i, /Bytespider/i, /Google-Extended/i, /PerplexityBot/i,
+  /AhrefsBot/i, /SemrushBot/i, /MJ12bot/i, /DotBot/i, /PetalBot/i,
+  /DataForSeoBot/i, /BLEXBot/i, /serpstatbot/i,
+]
+
+const CONTENT_PATHS = ['/surahs', '/posts', '/hub', '/glossary', '/ayah']
 
 export async function middleware(request: NextRequest) {
+  const { pathname } = request.nextUrl
+  const ua = request.headers.get('user-agent') || ''
+
+  // Block known scraper bots on content pages
+  const isContentPath = CONTENT_PATHS.some(p => pathname.startsWith(p))
+  if (isContentPath) {
+    if (BOT_UA_PATTERNS.some(pattern => pattern.test(ua))) {
+      return new NextResponse('Forbidden', { status: 403 })
+    }
+
+    // Rate limit: 60 page requests per minute per IP
+    const ip =
+      request.headers.get('cf-connecting-ip') ||
+      request.headers.get('x-forwarded-for')?.split(',')[0]?.trim() ||
+      'unknown'
+    const result = checkRateLimit(`page:${ip}`, { maxRequests: 60, windowSeconds: 60 })
+    if (!result.allowed) {
+      return new NextResponse('Too Many Requests', {
+        status: 429,
+        headers: { 'Retry-After': String(Math.ceil((result.resetAt - Date.now()) / 1000)) },
+      })
+    }
+  }
+
   let supabaseResponse = NextResponse.next({
     request,
   })

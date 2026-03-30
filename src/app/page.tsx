@@ -189,7 +189,7 @@ export default async function LandingPage() {
               An invitation to journey deeper
             </h2>
             <p className="mt-4 text-zinc-500 dark:text-cream/60 leading-relaxed">
-              Receive Quranic insights in your inbox periodically.
+              The kind of content that makes you pause — and actually think. When it&apos;s ready, it&apos;ll find you.
             </p>
           </ScrollReveal>
 

@@ -7,6 +7,46 @@
 
 ---
 
+## Weekly Digest — 2026-03-29
+
+### Data Sources
+- **Vercel**: 20 clean production deploys in 7 days, 0 errors, 0 failed builds ✅
+- **PostHog API**: Key present (`phx_`) but API returns schema format — tracking only live since 2026-03-25, no historical data yet. Expect real data next digest.
+- **Sentry**: Auth token present but org/project slug unresolvable via API — skipped
+- **Supabase analytics table**: Empty (no view writes — PostHog client-side only)
+- **Subscribers**: 16 total, **0 new this week** ⚠️
+- **Content published this week**: 53 hub articles (bulk insert), 0 new surah reflections
+
+### Top 3 Content Gaps (by entity occurrence count, 0 hub articles)
+
+1. **Musa** — 136 Quranic occurrences, 0 dedicated hub articles (most-mentioned prophet) `data-confirmed ⭐⭐⭐`
+2. **Rahmah** — 339 occurrences (most used divine attribute root), 0 articles `data-confirmed ⭐⭐`
+3. **Maryam** — 34 occurrences, 0 articles (only woman named in Quran, own surah) `data-confirmed ⭐⭐`
+
+### Top 3 High-Occurrence Concepts with No Hub Articles
+
+1. **Iman** — 537 occurrences, 0 articles (most fundamental theological term) `data-confirmed ⭐`
+2. **Zulm** — 315 occurrences, 0 articles (core ethical concept)
+3. **Tawbah** — 87 occurrences, 0 articles (high search intent: repentance/forgiveness)
+
+### Conversion & UX Issues
+
+- **0 new subscribers this week** despite 53 articles going live — CTAs may not be surfaced on hub/article pages, or the bulk publish didn't drive any traffic yet
+- **PostHog tracking is brand new** (live since 2026-03-25) — subscribe funnel, share clicks, scroll depth, hub tab usage all completely blind until ~next week's digest
+- **No analytics pipeline for surah page views** — the `analytics` table schema exists but has no writes; all tracking is PostHog client-side
+
+### Recommended Changes (ranked by expected impact)
+
+| # | What | Why | Where | Expected Impact |
+|---|------|-----|-------|-----------------|
+| 1 | Add subscribe CTA to hub article bottom | 53 articles went live with no subscriber gain — existing readers aren't converting | `src/components/article/ArticleContent.tsx` | Subscriber growth |
+| 2 | Start Musa hub (6 articles) | Most-mentioned prophet, 0 coverage, high search intent | Hub pipeline skill | Organic search + engagement |
+| 3 | Add Iman hub (3 articles) | 537 occurrences, zero content, central to every other topic | Hub pipeline skill | SEO: most-searched Islamic concept |
+| 4 | Fix PostHog project resolution | `@current` not resolving — need project ID in API calls | Digest skill: add `POSTHOG_PROJECT_ID` to .env.local | Unlock real analytics |
+| 5 | Add Maryam hub (4 articles) | Only named woman in Quran, own surah, high external search interest | Hub pipeline skill | High-intent audience segment |
+
+---
+
 ## Session Log
 | Date | Entity | Articles Written | Notes |
 |------|--------|-----------------|-------|

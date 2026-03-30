@@ -3,7 +3,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Subscribe',
-  description: 'Subscribe to AyahGuide for weekly Quranic reflections delivered to your inbox.',
+  description: 'Subscribe to AyahGuide for deep Quranic reflections — linguistic, thematic, and contemplative — delivered when they\'re ready.',
 }
 
 export default function SubscribePage() {
@@ -13,13 +13,13 @@ export default function SubscribePage() {
         Subscribe to <span className="text-gold-gradient">AyahGuide</span>
       </h1>
       <p className="mt-4 text-lg text-zinc-600 dark:text-zinc-400">
-        Receive weekly Quranic tadabbur — contemplative reflections that go beyond translation — delivered straight to your inbox.
+        Deep Quranic reflections — linguistic, thematic, contemplative — sent your way when they&apos;re ready.
       </p>
       <div className="mt-8">
         <NewsletterSignup source="subscribe_page" />
       </div>
       <div className="mt-12 text-sm text-zinc-400 space-y-2">
-        <p>Free forever. No spam. Unsubscribe anytime.</p>
+        <p>Free. No spam. Unsubscribe anytime.</p>
         <p>Join a growing community of seekers.</p>
       </div>
     </div>

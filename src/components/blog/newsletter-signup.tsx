@@ -112,7 +112,7 @@ export function NewsletterSignup({ source = 'landing_page' }: { source?: string 
           />
         </div>
       )}
-      <p className="text-xs text-zinc-400">Free, weekly. Unsubscribe anytime.</p>
+      <p className="text-xs text-zinc-400">When something worth your time is ready, it&apos;s yours. Unsubscribe anytime.</p>
     </form>
   )
 }

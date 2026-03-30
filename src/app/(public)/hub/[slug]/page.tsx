@@ -3,6 +3,7 @@ import type { Metadata } from 'next'
 import { createClient } from '@/lib/supabase/server'
 import { CANONICAL_URL, SITE_NAME } from '@/lib/constants'
 import { HubTabs } from '@/components/HubTabs'
+import { NewsletterSignup } from '@/components/blog/newsletter-signup'
 import type { Entity, EntityCategory } from '@/types'
 
 interface Props {
@@ -260,6 +261,22 @@ export default async function HubPage({ params }: Props) {
           glossaryData={entity.glossary_data}
           synthesisHtml={synthesisHtml}
         />
+      </div>
+
+      {/* ── Subscribe CTA ──────────────────────────────────────────────────── */}
+      <div className="mx-auto max-w-2xl px-5 pb-20 pt-4 sm:px-6">
+        <div className="rounded-2xl border border-zinc-200 dark:border-zinc-800 bg-zinc-50 dark:bg-zinc-900/30 p-8 sm:p-10 text-center">
+          <p className="text-gold-500/60 text-sm mb-3">۞</p>
+          <h2 className="font-serif text-2xl font-bold text-zinc-900 dark:text-white">
+            There&apos;s more where this came from
+          </h2>
+          <p className="mt-2 text-zinc-500 dark:text-zinc-400 font-body">
+            Stay in the loop — we&apos;ll reach out when something worth reading is ready.
+          </p>
+          <div className="mt-6 mx-auto max-w-md">
+            <NewsletterSignup source="hub_page" />
+          </div>
+        </div>
       </div>
     </div>
   )

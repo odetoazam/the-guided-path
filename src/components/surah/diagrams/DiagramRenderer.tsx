@@ -5,6 +5,13 @@ import { SectionJourney } from './SectionJourney'
 import { DeductiveFunnel } from './DeductiveFunnel'
 import { AbsenceMap } from './AbsenceMap'
 import { CompressionViz } from './CompressionViz'
+import { StructuralArcs } from './StructuralArcs'
+import { LandmarkVerses } from './LandmarkVerses'
+import { ContrastMap } from './ContrastMap'
+import { PolarMap } from './PolarMap'
+import { FourConditions } from './FourConditions'
+import { WordMirror } from './WordMirror'
+import { RefrainPattern } from './RefrainPattern'
 import { FullSurahText } from './FullSurahText'
 import { HeartVerse } from './HeartVerse'
 import { OrnamentDivider } from './OrnamentDivider'
@@ -30,6 +37,13 @@ const RENDERERS: Record<string, React.ComponentType<{ data: any }>> = {
   funnel: DeductiveFunnel,
   absence: AbsenceMap,
   compression: CompressionViz,
+  arcs: StructuralArcs,
+  landmark: LandmarkVerses,
+  contrast: ContrastMap,
+  polar: PolarMap,
+  conditions: FourConditions,
+  wordmirror: WordMirror,
+  refrain: RefrainPattern,
 }
 
 export function DiagramRenderer({ tab, diagrams, fullText, heartVerse }: DiagramRendererProps) {

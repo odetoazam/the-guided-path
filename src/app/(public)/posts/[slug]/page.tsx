@@ -517,10 +517,10 @@ export default async function PostPage({ params }: Props) {
         <div className="mt-14 sm:mt-20 rounded-2xl border border-zinc-200 dark:border-zinc-800 bg-zinc-50 dark:bg-zinc-900/30 p-8 sm:p-10 text-center">
           <p className="text-gold-500/60 text-sm mb-3">۞</p>
           <h2 className="font-serif text-2xl font-bold text-zinc-900 dark:text-white">
-            Enjoyed this reflection?
+            There&apos;s more where this came from
           </h2>
           <p className="mt-2 text-zinc-500 font-body">
-            Get tadabbur delivered to your inbox.
+            Stay in the loop — we&apos;ll reach out when something worth reading is ready.
           </p>
           <div className="mt-6 mx-auto max-w-md">
             <NewsletterSignup source="article_page" />
