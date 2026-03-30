@@ -240,7 +240,7 @@ function RootTab({ entry }: { entry: GlossaryEntry }) {
         <p className="mb-3 font-serif text-lg font-semibold text-navy-dark dark:text-cream/80">
           {entry.root.meaning}
         </p>
-        <p className="mx-auto max-w-lg text-sm leading-relaxed text-zinc-600 dark:text-zinc-400">
+        <p className="mx-auto max-w-lg text-[15px] leading-[1.75] text-zinc-600 dark:text-zinc-400">
           {entry.root.elaboration}
         </p>
       </div>
@@ -336,7 +336,7 @@ function ConditionCard({ cond }: { cond: NonNullable<GlossaryEntry['practicalSec
           </span>
           <span className="text-[10px] italic text-zinc-600">{cond.arabicTranslit}</span>
         </div>
-        <p className="text-sm leading-relaxed text-zinc-600 dark:text-zinc-400">{cond.description}</p>
+        <p className="text-[15px] leading-[1.75] text-zinc-600 dark:text-zinc-400">{cond.description}</p>
       </div>
     </div>
   )
@@ -359,7 +359,7 @@ function StationCard({ station, index }: { station: NonNullable<GlossaryEntry['p
       </div>
       <div className="pb-6">
         <p className="mb-1 font-serif text-sm font-semibold text-navy-dark/80 dark:text-cream/75">{station.name}</p>
-        <p className="text-sm leading-relaxed text-zinc-600 dark:text-zinc-400">{station.description}</p>
+        <p className="text-[15px] leading-[1.75] text-zinc-600 dark:text-zinc-400">{station.description}</p>
       </div>
     </div>
   )
@@ -385,7 +385,7 @@ function QAItem({ qa, open, onToggle }: {
         <span className="text-sm font-medium text-zinc-700 dark:text-zinc-300">{qa.question}</span>
       </button>
       {open && (
-        <p className="pb-4 pl-6 text-sm leading-relaxed text-zinc-600 dark:text-zinc-400">{qa.answer}</p>
+        <p className="pb-4 pl-6 text-[15px] leading-[1.75] text-zinc-600 dark:text-zinc-400">{qa.answer}</p>
       )}
     </div>
   )
@@ -591,7 +591,7 @@ function ConnectionCard({ conn }: { conn: SemanticConnection }) {
       {/* Relationship label */}
       <p className="mb-2 text-xs font-medium italic text-zinc-500">{conn.relationshipLabel}</p>
       {/* Description */}
-      <p className="text-sm leading-relaxed text-zinc-600 dark:text-zinc-400">{conn.description}</p>
+      <p className="text-[15px] leading-[1.75] text-zinc-600 dark:text-zinc-400">{conn.description}</p>
     </div>
   )
 
@@ -675,7 +675,7 @@ function _TraditionsTab_UNUSED({ entry }: { entry: GlossaryEntry }) {
         <SectionLabel>Across traditions</SectionLabel>
         <div className="space-y-4">
           {paragraphs.map((p, i) => (
-            <p key={i} className="text-sm leading-relaxed text-zinc-600 dark:text-zinc-400">{p}</p>
+            <p key={i} className="text-[15px] leading-[1.75] text-zinc-600 dark:text-zinc-400">{p}</p>
           ))}
         </div>
       </div>
@@ -693,7 +693,7 @@ function OverviewTab({ entry }: { entry: GlossaryEntry }) {
       {/* Summary */}
       <div>
         {entry.summary.split('\n\n').map((p, i) => (
-          <p key={i} className="mb-4 text-[15px] leading-relaxed text-zinc-600 dark:text-zinc-400 last:mb-0">
+          <p key={i} className="mb-4 text-[16px] leading-[1.75] text-zinc-600 dark:text-zinc-400 last:mb-0">
             {p.trim()}
           </p>
         ))}

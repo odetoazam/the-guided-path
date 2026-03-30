@@ -168,7 +168,7 @@ export function SurahTabs({
                               <div className="text-[10px] font-semibold uppercase tracking-[0.2em] text-gold-500/70 font-sans mb-3">
                                 Why Learn This Surah
                               </div>
-                              <p className="text-[15px] text-cream/85 leading-relaxed font-body">
+                              <p className="text-[16px] text-cream/85 leading-[1.75] font-body">
                                 {visualData.why_this_surah}
                               </p>
                             </div>
