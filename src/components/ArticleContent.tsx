@@ -250,7 +250,7 @@ export function ArticleContent({ html, ayahGroundings }: ArticleContentProps) {
         }
 
         .ayah-grounding-panel .grounding-title {
-          font-family: var(--font-serif, Georgia, serif);
+          font-family: var(--font-serif);
           font-size: 12px !important;
           font-weight: 600;
           font-style: normal !important;
@@ -265,7 +265,7 @@ export function ArticleContent({ html, ayahGroundings }: ArticleContentProps) {
           font-size: 13px !important;
           line-height: 1.75 !important;
           font-style: normal !important;
-          font-family: var(--font-body, system-ui, sans-serif) !important;
+          font-family: var(--font-body) !important;
           color: rgba(161, 161, 170, 0.9);
         }
 

@@ -8,10 +8,22 @@
 @tailwind components;
 @tailwind utilities;
 
+/* ── Font CSS Variables ───────────────────────────────────────────────────
+   Define once here. All components should reference these vars, not
+   hardcode font names. Fallbacks ensure graceful degradation.
+   ──────────────────────────────────────────────────────────────────────── */
+:root {
+  --font-sans:   'Inter', system-ui, -apple-system, sans-serif;
+  --font-serif:  'Playfair Display', Georgia, 'Times New Roman', serif;
+  --font-body:   'Source Serif 4', Georgia, 'Times New Roman', serif;
+  --font-amiri:  'Amiri', 'Scheherazade New', Georgia, serif;
+  --font-arabic: 'Amiri', 'Vazirmatn', 'Scheherazade New', serif;
+}
+
 @layer base {
   body {
     @apply bg-white text-navy dark:bg-navy-dark dark:text-cream;
-    font-family: 'Inter', system-ui, sans-serif;
+    font-family: var(--font-sans);
   }
 
   /* Smooth scrolling */
@@ -30,7 +42,7 @@
   .rtl {
     direction: rtl;
     text-align: right;
-    font-family: 'Vazirmatn', 'Amiri', serif;
+    font-family: var(--font-arabic);
   }
 
   .ltr {
@@ -100,13 +112,13 @@
     @apply rtl text-xl leading-loose p-6 rounded-xl;
     @apply bg-gold-50 dark:bg-gold-900/10;
     @apply border border-gold-200 dark:border-gold-800/30;
-    font-family: 'Amiri', serif;
+    font-family: var(--font-amiri);
   }
 
   /* Blog post content styling */
   .prose-blog {
     @apply max-w-none;
-    font-family: 'Source Serif 4', Georgia, 'Times New Roman', serif;
+    font-family: var(--font-body);
   }
 
   .prose-blog p {
@@ -115,17 +127,17 @@
 
   .prose-blog h1 {
     @apply text-3xl font-semibold mt-12 mb-6 text-navy dark:text-cream;
-    font-family: 'Playfair Display', Georgia, serif;
+    font-family: var(--font-serif);
   }
 
   .prose-blog h2 {
     @apply text-2xl font-semibold mt-10 mb-4 text-navy dark:text-cream;
-    font-family: 'Playfair Display', Georgia, serif;
+    font-family: var(--font-serif);
   }
 
   .prose-blog h3 {
     @apply text-xl font-medium mt-8 mb-3 text-navy dark:text-cream;
-    font-family: 'Playfair Display', Georgia, serif;
+    font-family: var(--font-serif);
   }
 
   .prose-blog blockquote {
@@ -183,7 +195,7 @@
   .prose-blog .rtl {
     direction: rtl;
     text-align: right;
-    font-family: 'Amiri', 'Vazirmatn', serif;
+    font-family: var(--font-amiri);
     @apply text-2xl leading-[2.2];
     word-break: break-word;
     overflow-wrap: anywhere;

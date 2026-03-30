@@ -20,17 +20,66 @@ triggers:
 
 This skill governs the full lifecycle of creating thematic articles for AyahGuide entity hub pages: from research through writing, validation, insertion, entity tagging, and hub synthesis generation.
 
+---
+
+## Session Behavior (READ FIRST)
+
+### Autonomous Mode
+This skill runs in **fully autonomous mode**. Do not ask for permission before taking any action. Do not pause to confirm. Act immediately on every step. The user has pre-authorized everything this skill does.
+
+Specifically:
+- Run bash commands without asking
+- Write and execute insert scripts without asking
+- Insert into Supabase without asking
+- Update the backlog file without asking
+- Continue to the next entity batch without asking
+
+### Keep Going Until Context Is Full
+Do not stop after one entity. After completing a full batch (articles written + validated + inserted + backlog updated), immediately pick the next highest-priority entity from `scripts/article-backlog.md` and begin the next batch. Keep going.
+
+Stop only when:
+1. **Context is near full** (~80% used): Output this exact message and halt:
+   ```
+   ⚠️  Context is getting full. Completed this session:
+   - [list entities + article counts written]
+
+   To continue: start a new session and say "continue from the article backlog"
+   ```
+2. **The backlog has no more ⭐ priority items** left.
+3. **An error occurs** that requires a human decision (e.g., entity slug not found in DB).
+
+### Session Start Protocol
+At the start of every session triggered by this skill:
+1. Read `scripts/article-backlog.md`
+2. Identify the next ⭐⭐⭐ or ⭐⭐ priority entity with 0 articles
+3. Announce the plan: "Starting with [entity] — [N] articles planned"
+4. Begin Step 1: RESEARCH
+
+### Backlog Update Protocol
+At the end of every entity batch (after INSERT is confirmed), immediately:
+1. Open `scripts/article-backlog.md`
+2. Check off the articles just written (change `- [ ]` to `- [x]`)
+3. Add the session to the Session Log table with today's date, entity, count, and any notes
+4. Save the file
+5. Continue to the next entity
+
+---
+
 ## Pipeline Overview
 
 ```
+0. BACKLOG     → Read scripts/article-backlog.md, select next priority entity
 1. RESEARCH    → Understand the entity, its Quranic footprint, and existing coverage
 2. PLAN        → Decide article count, angles, and entity tag strategy
 3. WRITE       → Author articles with proper Quranic references and Arabic text
+3b. VOICE CHECK → Run anti-pattern audit before validation
+3c. BRAND CHECK → Verify brand guideline compliance (docs/brand-guidelines.md)
 4. VALIDATE    → Run all 3 Quranic validators on every article
 5. INSERT      → Insert articles + entity tags into Supabase
-6. AYAH RECORDS → Extract key ayahs from articles → generate tadabbur → tag to entity
+6. AYAH QUEUE  → Log key ayahs for tadabbur to pending queue (see below)
 7. SYNTHESIZE  → Generate hub overview synthesis from the published articles
-8. VERIFY      → Confirm hub page renders correctly
+8. BACKLOG UPDATE → Update scripts/article-backlog.md
+9. NEXT        → Pick next entity from backlog and repeat
 ```
 
 ---
@@ -80,14 +129,16 @@ Key research questions:
 ### Angle Strategy
 Every article set should cover distinct facets. Common patterns:
 
-| Angle Type | Example (Shaytan) |
-|---|---|
-| Core profile / overview | "The Psychology of Shaytan" |
-| Methodology deep-dive | "The Footsteps of Shaytan" |
-| Key Quranic scene | "Shaytan's Promise (Surah Ibrahim 14:22)" |
-| Internal alliance | "The Alliance of Iblis and the Nafs" |
-| Counter-strategy | "The Weapons Against Waswasa" |
-| Comparative / thematic | "What the Quran Doesn't Say About Shaytan" |
+| Angle Type | Example (Shaytan) | Example (Isma'il) |
+|---|---|---|
+| Core profile / overview | "The Psychology of Shaytan" | "Who Is Isma'il in the Quran?" |
+| Methodology deep-dive | "The Footsteps of Shaytan" | "The Architecture of Submission: How Isma'il Consented" |
+| Key Quranic scene | "Shaytan's Promise (Surah Ibrahim 14:22)" | "The Sacrifice of As-Saffat: What Happened on the Mountain" |
+| Relationship / alliance | "The Alliance of Iblis and the Nafs" | "Ibrahim and Isma'il: A Father-Son Theology" |
+| Semantic deep-dive | "The Weapons Against Waswasa" | "Sabr When the Blade Is Real" |
+| Legacy / absence | "What the Quran Doesn't Say About Shaytan" | "Isma'il and the Ka'bah: Architecture as Worship" |
+
+Mapping rule: Before committing to a set, write down the angle type and the **primary question** each article answers. If two articles answer the same question differently, that's redundancy — collapse them or replace one with a different angle type.
 
 ### Entity Tag Plan
 Before writing, map out entity tags for each article:
@@ -130,10 +181,48 @@ Articles are stored as `content_html` in the `posts` table. Use this structure:
 1. **Arabic text**: Every Arabic quotation MUST be exact Quranic text. Never paraphrase Arabic.
 2. **Transliteration**: Use consistent transliteration (e.g., Shaytan not Shaitan, taqwa not taqwā).
 3. **References**: Always cite surah name + number:ayah (e.g., "Surah Al-A'raf (7:16-17)").
-4. **Length**: 8-15 minute reading time (1500-3000 words). Each article should feel substantial.
+4. **Length**: See Length Calibration below. Target: 9-12 minutes for most articles.
 5. **Originality**: Don't repeat the same ayahs across articles in the same batch. Each article should surface different Quranic evidence.
 6. **No hadith** unless specifically requested — the platform focuses on Quranic text.
 7. **Entity linking**: When mentioning other entities that exist in the system, note them for tagging.
+
+### Length Calibration
+
+Target reading time is **9-12 minutes (roughly 1,800-2,400 words)** for most articles. The outer bounds (8 and 15 minutes) are rarely the right choice.
+
+| Situation | Target | Reason |
+|---|---|---|
+| Semantic deep-dive (one word/root) | 8-10 min | Density substitutes for breadth — each paragraph yields more per word |
+| Scene-based article (Dillard model) | 10-13 min | Needs room to breathe: describe the scene, then analyze, then reflect |
+| Multi-scene or legacy article | 11-14 min | Multiple Quranic passages must each receive real treatment |
+| Relationship/theology article | 9-11 min | Focused argument, 3-4 sections is enough |
+
+**Hard rule: if you're over 14 minutes, the article is doing two things.** Identify the second thing and cut it or save it for a separate article.
+
+**Hard rule: under 8 minutes is usually underdeveloped**, not concise. Ask: is each ayah actually analyzed, or just quoted? Is each section earning its place?
+
+### The Opening Paragraph
+
+The opening paragraph has one job: **get the reader into the material before they can decide whether to keep reading**. It must not:
+- Announce the article's thesis ("In this article, we will explore...")
+- State a general truism ("Sabr is one of the most important qualities in Islam")
+- Begin with the entity's name and a biographical summary
+
+It must:
+- Drop the reader into a specific detail, tension, or observation — linguistic, narrative, or textual
+- Earn the `class="text-lg leading-relaxed"` distinction by being genuinely more substantial than what follows
+- Leave one thing unresolved that the article will answer
+
+**Pattern 1 (Scene):** Open on the physical or narrative detail and let the reader see it before you name it.
+> "The sacrifice narrative in Surah As-Saffat is one of the most compressed scenes in the Quran. A father and a son. A dream. A conversation. A decision."
+
+**Pattern 2 (Tension in the text):** Open on something the Quran does that seems strange until it doesn't.
+> "Ibrahim does not act unilaterally. He tells his son about the dream and asks what he thinks. A prophet who has received a divine command—asking his son's permission."
+
+**Pattern 3 (Root anomaly):** Open on a linguistic observation that immediately unsettles a familiar concept.
+> "The Quran's vocabulary of *sabr* spans hundreds of ayahs. Isma'il promised it and delivered it. But his *sabr* is unlike every other instance — because it is not patience over time. It is patience in a single moment."
+
+Pattern 3 works best for Izutsu-model articles. Patterns 1 and 2 work best for Dillard and Berger models. Do not mix patterns within an opening paragraph.
 
 ---
 
@@ -220,6 +309,48 @@ Different article types channel different writers. This is where dynamism comes 
 3. **Replacement Discipline.** For every negation deleted, write what IS happening. "He doesn't rage blindly" → "His refusal arrives as a syllogism."
 4. **Negation Audit.** After drafting, count these tokens: "not," "doesn't," "never," "isn't," "no " (with trailing space), "don't." A 2000-word article should have fewer than 10 total (excluding Quranic quotations and translations).
 
+### Internal Linking
+
+When an entity mentioned in the article body exists as a hub in the system, link to it. This builds the knowledge graph for users navigating the site, not just for SEO.
+
+**Rules:**
+- Link an entity **the first time it appears** in the article body — not every mention
+- Link format: `<a href="/hub/{entity-slug}">{entity name as written in prose}</a>`
+- Anchor text must be natural prose — use the name as it appears, not a keyword-stuffed phrase
+- Never link from inside a blockquote or `<cite>` tag
+- Entity hub links use `/hub/{slug}`. Article links use `/posts/{slug}`.
+
+**What to link:**
+- Prophets and people who have hub pages (Shaytan, Ibrahim, Musa, etc.)
+- Concepts that have their own entity (if *tawakkul* or *sabr* are hub entities, link on first use)
+- Do NOT link every Arabic word — only entities with a hub page
+
+**Example:**
+```html
+<!-- Good -->
+<p>The sacrifice narrative connects <a href="/hub/ibrahim">Ibrahim</a> to his son through a test that is explicitly shared — the trial belongs to both of them.</p>
+
+<!-- Bad — every mention linked, reads as spam -->
+<p><a href="/hub/ibrahim">Ibrahim</a> tells <a href="/hub/ismail">Isma'il</a> about the dream. <a href="/hub/ismail">Isma'il</a> responds with sabr.</p>
+```
+
+After drafting, do a single pass to identify entity mentions and add first-occurrence links. Note these entities in the `entityTags` plan as secondary tags even if they're already linked.
+
+---
+
+### Step 3c: BRAND CHECK (run after Voice Check, before Validate)
+
+Open `docs/brand-guidelines.md` and run through the Brand Check Checklist on every article's `content_html`. Fix any violations before proceeding to Step 4.
+
+Key things to catch:
+1. **Arabic font**: every `<p class="arabic" dir="rtl">` must have `style="font-family: var(--font-amiri);..."` — not a hardcoded font name
+2. **Blockquote structure**: every ayah quote must be `<blockquote class="ayah-quote">` with the canonical 3-child structure (arabic `<p>`, translation `<p>`, `<cite>`)
+3. **Cite format**: `<cite>Surah Name ({surah}:{ayah})</cite>` — the `{N}:{N}` pattern is required for inline grounding to fire
+4. **No `<strong>` on interpretive claims** — only on Arabic terms, proper nouns, ayah references
+5. **Color**: Arabic text color in blockquotes must be `rgba(201, 168, 76, 0.85)` — not a Tailwind class, not a different hex
+
+---
+
 ### Step 3b: VOICE CHECK (run between WRITE and VALIDATE)
 
 Before running the 3 content validators, run these voice checks on the content_html:
@@ -240,10 +371,12 @@ Before running the 3 content validators, run these voice checks on the content_h
 Each article needs:
 ```typescript
 {
-  title: string,           // Compelling, specific title
-  slug: string,            // kebab-case, unique, descriptive
+  title: string,           // Literary/display title — compelling, specific
+  slug: string,            // SEO slug — see slug rules below
   type: 'article',         // Always 'article' for hub content
-  excerpt: string,         // 1-2 sentence hook (shown on cards)
+  excerpt: string,         // 1-2 sentence hook for article cards (NOT the meta description)
+  seo_title: string,       // Search-optimized title — see SEO title rules below
+  seo_description: string, // 150-160 char meta description — see SEO description rules below
   content_html: string,    // Full HTML content
   status: 'published',     // Or 'draft' if not ready
   tags: string[],          // String tags (legacy, keep for backward compat)
@@ -253,6 +386,74 @@ Each article needs:
   created_by: '{admin_user_id}'  // Required — get from profiles table
 }
 ```
+
+---
+
+### SEO: Title, Slug, and Description
+
+The literary title and the SEO metadata are different documents serving different readers. The literary title is for the person already on the page. The SEO metadata is for the person who hasn't clicked yet.
+
+#### Slug Rules
+
+The slug is the URL and carries significant SEO weight. Structure: **`{entity-name}-{core-concept}`**
+
+- Front-load the entity name: `ismail-sacrifice-quran`, not `the-son-who-said-do-what-you-are-commanded`
+- Include the primary keyword: `shaytan-psychology`, `sabr-meaning-quran`, `ibrahim-kabah-building`
+- Max 6 tokens. Shorter is better for sharing and recall.
+- No stop words (the, a, an, in, of, and) unless they're load-bearing
+
+| Display Title | Slug |
+|---|---|
+| "The Son Who Said: Do What You Are Commanded" | `ismail-sacrifice-consent-quran` |
+| "The Patience of Isma'il: What Sabr Looks Like When the Blade Is Real" | `ismail-sabr-sacrifice-quran` |
+| "Shaytan's Promise (Surah Ibrahim 14:22)" | `shaytan-promise-ibrahim-14-22` |
+| "The Alliance of Iblis and the Nafs" | `iblis-nafs-alliance-quran` |
+
+#### SEO Title Rules
+
+`seo_title` goes into the `<title>` tag. It is separate from the display `title`. Rules:
+- 50-60 characters (Google truncates at ~60)
+- Format: **`{Core Concept} — {Entity Name} in the Quran`** or **`{Entity}: {Key Phrase} | AyahGuide`**
+- Include the entity name explicitly — this is the page's primary keyword
+- Include "Quran" or "Quranic" — this is the site's domain authority signal
+- Do NOT use the literary display title as the SEO title unless it already satisfies the above
+
+Examples:
+```
+"Ismail's Consent in the Sacrifice — Quran (37:102)"        ← 51 chars ✓
+"Sabr in the Quran: Ismail's Moment of Stillness"           ← 49 chars ✓
+"Shaytan in the Quran: Psychology and Method"               ← 44 chars ✓
+"The Son Who Said: Do What You Are Commanded"               ← beautiful display title, bad SEO title ✗
+```
+
+#### SEO Description Rules
+
+`seo_description` goes into the `<meta name="description">` tag and appears as the Google snippet. Rules:
+- 140-160 characters (Google truncates beyond 160)
+- Must contain: entity name, primary concept, one concrete detail from the article
+- Written for the searcher's intent: "What will I learn if I click?"
+- Do NOT reuse the `excerpt` — excerpts are written for the card design, not for SERP context
+- End with a natural stop (not mid-sentence)
+
+Pattern: **`{What this article explores} — {specific detail or question it answers}. A close reading of {key ayah reference}.`**
+
+Examples:
+```
+"Isma'il's response to Ibrahim — 'do what you are commanded' — is the Quran's portrait of voluntary consent under the most extreme test. A close reading of As-Saffat 37:102."
+→ 174 chars, trim: "Isma'il's response to Ibrahim — 'do what you are commanded' — is the Quran's portrait of voluntary consent. A close reading of As-Saffat 37:102."  → 145 chars ✓
+
+"Sabr carries a root meaning of binding and restraint. Isma'il's patience — one moment, one choice, no chains — is unlike any other instance in the Quran."  → 155 chars ✓
+```
+
+#### Tags Rules
+
+`tags` (the string array) become the keywords meta tag and are used for related article surfacing. Include:
+- Entity slug (e.g., `ismail`, `shaytan`)
+- Key concept slugs (e.g., `sabr`, `sacrifice`, `tawakkul`)
+- Category tags (e.g., `quranic-characters`, `prophets`, `concepts`)
+- Surah slug if the article is primarily about one surah (e.g., `as-saffat`, `al-baqarah`)
+
+Target: 4-7 tags. More than 7 dilutes the signal.
 
 ---
 
@@ -335,101 +536,50 @@ await supabase.rpc('refresh_entity_co_occurrence')
 
 ---
 
-## Step 6: AYAH RECORDS (Priority Extraction)
+## Step 6: AYAH QUEUE (Log Priority Passages — Do NOT Generate Tadabbur Here)
 
-Articles naturally identify the most important ayahs for an entity. This step extracts those key passages and creates full ayah records so the hub's "Ayah Records" tab has real depth from day one.
+**Article writing sessions and tadabbur sessions are separate.** Generating tadabbur via `/quranic-tadabbur` is expensive in context and time. Do NOT invoke the tadabbur skill during article writing sessions — the context won't survive.
 
-### 6a. Extract Key Ayahs
+### When to Do Ayah Tadabbur
 
-Scan all articles just inserted and list every Quranic passage cited:
+Ayah tadabbur records are generated in **dedicated tadabbur sessions**, not article sessions. The trigger is:
+- User explicitly says "generate tadabbur for [entity]" or "do the ayah records"
+- OR a hub entity has all its articles complete and synthesis done, and the user wants to enrich the Ayah Records tab
 
-```
-Article: "The Psychology of Shaytan"
-  → 15:33 (Iblis refuses to prostrate)
-  → 7:16-17 (four-direction attack declaration)
-  → 114:1-6 (al-waswas al-khannas)
+### What to Do in This Step (Article Sessions)
 
-Article: "Shaytan's Promise"
-  → 14:22 (Day of Judgment confession)
-  → 17:64 (Shaytan's tools: voice, cavalry, wealth, children)
-```
+After inserting articles, scan each article for Quranic citations and log the **3-6 most important passages** to the backlog file under the entity's section:
 
-### 6b. Prioritize and Group
-
-Not every cited ayah needs a full record. Prioritize:
-- **Must build**: Ayahs that are *central* to the entity's identity (e.g., 14:22 for Shaytan)
-- **Should build**: Ayahs that appear across multiple articles (high co-citation)
-- **Can skip**: Passing references or ayahs that are better covered under a different entity
-
-Group ayahs into passages following the tadabbur project's grouping rules:
-- 1-5 ayahs per record (single scene, argument, or narrative)
-- Individual treatment for standalone concept-dense ayahs
-- Up to 10 for repetitive refrains
-
-### 6c. Generate Tadabbur via Skill
-
-**CRITICAL: Use the `/quranic-tadabbur` skill for EVERY ayah record.** Do NOT write tadabbur content inline or via custom prompts.
-
-For each prioritized passage:
-1. Invoke `/quranic-tadabbur` with the surah and ayah range
-2. The skill generates the full Layer A content (grounding_html, linguistic analysis, thematic exploration)
-3. Save to `content/tadabbur/{surah_number}-{surah_slug}/ayah-{NNN}.md` or `ayahs-{NNN}-{NNN}.md`
-
-### 6d. Validate Every Record
-
-**MANDATORY** — same 3 validators as articles:
-```bash
-node scripts/verify_arabic.mjs content/tadabbur/{path} --scan
-node scripts/verify_morphology.mjs content/tadabbur/{path}
-node scripts/cross_reference_tafsir.mjs content/tadabbur/{path}
-```
-All 3 must pass. Fix and re-run until clean.
-
-### 6e. Insert Ayah Records
-
-```typescript
-const { data: record } = await supabase
-  .from('ayah_records')
-  .insert({
-    surah_number: 14,
-    ayah_start: 22,
-    ayah_end: 22,
-    arabic_text: '...exact text...',
-    translation: '...translation...',
-    layer_a: { grounding_table: '...', linguistic_html: '...' }::jsonb,
-    title: "Shaytan's Confession",
-    status: 'published',
-  })
-  .select('id')
-  .single()
-
-// Tag to entity
-await supabase.from('entity_tags').insert({
-  ayah_record_id: record.id,
-  entity_id: entityId,
-  is_primary: true,
-})
+```markdown
+### Musa — AYAH QUEUE (tadabbur not yet generated)
+- [ ] 20:11-14 (Musa at the burning bush — first revelation)
+- [ ] 26:63 (Staff strikes the sea)
+- [ ] 7:150 (Musa's anger on return — the tablets)
+- [ ] 18:60-65 (Musa meets Khidr — start of the journey)
 ```
 
-### 6f. Deduplication with Sequential Project
+**Priority criteria:**
+- Ayahs *central* to the entity's identity (appear in multiple articles OR are the defining moment)
+- Ayahs that appear in 2+ articles from the same batch (high co-citation = high importance)
+- Skip passing references — the sequential tadabbur project will cover those
 
-The ayah-level tadabbur project (`scripts/pending-ayahs.txt`) is building records surah-by-surah. To avoid conflicts:
+**Deduplication rule**: Before logging, check:
+```sql
+SELECT id FROM ayah_records
+WHERE surah_number = X AND ayah_start = Y;
+```
+If a record already exists → just add the entity tag, don't add to queue.
 
-- **Before generating**: Check if a record already exists for that surah:ayah range
-  ```sql
-  SELECT id FROM ayah_records
-  WHERE surah_number = 14 AND ayah_start = 22 AND ayah_end = 22;
-  ```
-- **If it exists**: Just add the entity tag — don't regenerate the content
-- **If it doesn't exist**: Generate, validate, and insert as above
-- **When the sequential project reaches this ayah later**: It should check for existing records and skip/enrich rather than duplicate
+### Full Tadabbur Generation (In a Dedicated Session)
 
-### How Many Ayah Records Per Article Batch?
+When the time comes to generate ayah records:
+1. Read the entity's AYAH QUEUE from the backlog
+2. For each passage: invoke `/quranic-tadabbur` skill
+3. Run all 3 validators
+4. Insert to `ayah_records` and tag to entity
+5. Update backlog (check off the passage)
 
-- **Target: 3-6 priority ayah records** per article batch
-- Pick the passages that are most defining for the entity
-- Don't try to cover every reference — the sequential project will catch the rest
-- Quality over quantity: each record gets full tadabbur treatment
+Target per tadabbur session: **5-10 passages** (each takes significant context).
 
 ---
 
