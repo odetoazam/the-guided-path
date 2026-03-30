@@ -126,12 +126,36 @@ export default async function SurahDetailPage({ params }: Props) {
     ],
   }
 
+  // Article schema surfaces the full reflection content to Google even though
+  // it renders inside a client-side tab (conditional rendering = not in initial HTML).
+  const articleJsonLd = post ? {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: post.seo_title || post.title,
+    description: post.seo_description || post.excerpt || '',
+    articleBody: post.content_html
+      ? post.content_html.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim().slice(0, 5000)
+      : '',
+    url: pageUrl,
+    datePublished: post.published_at || undefined,
+    dateModified: post.updated_at || post.published_at || undefined,
+    author: { '@type': 'Organization', name: SITE_NAME, url: CANONICAL_URL },
+    publisher: { '@type': 'Organization', name: SITE_NAME, url: CANONICAL_URL },
+    keywords: `Surah ${surah.nameEn}, ${surah.nameAr}, Quran, tadabbur, Quranic reflection`,
+  } : null
+
   return (
     <div className="min-h-screen bg-navy-dark text-cream">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
       />
+      {articleJsonLd && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(articleJsonLd) }}
+        />
+      )}
 
       {/* Hero with canvas background */}
       <div className="relative overflow-hidden border-b border-white/[0.06]" style={{ minHeight: '480px' }}>
