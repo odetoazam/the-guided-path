@@ -79,20 +79,6 @@ async function getSurahVisualData(surahNumber: number) {
   }
 }
 
-async function getSurahAyahRecords(surahNumber: number) {
-  try {
-    const supabase = await createClient()
-    const { data } = await supabase
-      .from('ayah_records')
-      .select('*')
-      .eq('surah_number', surahNumber)
-      .eq('status', 'published')
-      .order('ayah_start', { ascending: true })
-    return data || []
-  } catch {
-    return []
-  }
-}
 
 export default async function SurahDetailPage({ params }: Props) {
   const { slug } = await params
@@ -106,10 +92,9 @@ export default async function SurahDetailPage({ params }: Props) {
   const vfx = getSurahVFX(n)
 
   // Parallel fetches
-  const [post, visualData, ayahRecords] = await Promise.all([
+  const [post, visualData] = await Promise.all([
     getSurahPost(n),
     getSurahVisualData(n),
-    getSurahAyahRecords(n),
   ])
 
   const glowColor = `hsla(${id.hue},${id.sat}%,${id.lightness}%,`
@@ -267,7 +252,6 @@ export default async function SurahDetailPage({ params }: Props) {
       <SurahTabs
         visualData={visualData}
         post={post}
-        ayahRecords={ayahRecords}
         surahNumber={n}
         surahSlug={slug}
         glowColor={glowColor}

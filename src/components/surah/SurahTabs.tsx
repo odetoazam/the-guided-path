@@ -1,7 +1,6 @@
 'use client'
 
 import { useState } from 'react'
-import { AyahCard } from '@/components/AyahCard'
 import { DiagramRenderer, AudioPlayer, OrnamentDivider } from '@/components/surah/diagrams'
 import { NewsletterSignup } from '@/components/blog/newsletter-signup'
 import { ShareLink } from '@/components/analytics/share-link'
@@ -42,21 +41,19 @@ interface SurahTabsProps {
     reading_time_minutes?: number
     featured_image?: string
   } | null
-  ayahRecords: any[]
   surahNumber: number
   surahSlug: string
   glowColor: string
   pageUrl: string
 }
 
-type TopTab = 'overview' | 'reflection' | 'passages'
+type TopTab = 'overview' | 'reflection'
 
 /* ── Component ─────────────────────────────────────────────────────────────── */
 
 export function SurahTabs({
   visualData,
   post,
-  ayahRecords,
   surahNumber: _surahNumber,
   surahSlug,
   glowColor,
@@ -69,12 +66,9 @@ export function SurahTabs({
   const defaultSubTab = hasWhyTab ? 'why' : (visualData?.tabs?.[0]?.id || '')
   const [activeSubTab, setActiveSubTab] = useState<string>(defaultSubTab)
 
-  const topTabs: { key: TopTab; label: string; count?: number }[] = [
+  const topTabs: { key: TopTab; label: string }[] = [
     { key: 'overview', label: 'Overview' },
     { key: 'reflection', label: 'Reflection' },
-    ...(ayahRecords.length > 0
-      ? [{ key: 'passages' as TopTab, label: 'Passages', count: ayahRecords.length }]
-      : []),
   ]
 
   const switchTopTab = (key: TopTab) => {
@@ -107,17 +101,6 @@ export function SurahTabs({
               }`}
             >
               {tab.label}
-              {tab.count !== undefined && tab.count > 0 && (
-                <span
-                  className={`inline-flex min-w-[1.25rem] items-center justify-center rounded-full px-1.5 py-0.5 text-[10px] font-semibold leading-none ${
-                    activeTab === tab.key
-                      ? 'bg-[#C9A84C]/15 text-[#C9A84C]'
-                      : 'bg-white/[0.06] text-zinc-500'
-                  }`}
-                >
-                  {tab.count}
-                </span>
-              )}
               {activeTab === tab.key && (
                 <span className="absolute inset-x-0 -bottom-px h-0.5 rounded-full bg-[#C9A84C]" />
               )}
@@ -358,32 +341,6 @@ export function SurahTabs({
           </div>
         )}
 
-        {/* ━━ Passages panel ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ */}
-        {activeTab === 'passages' && (
-          <div role="tabpanel">
-            {ayahRecords.length > 0 ? (
-              <div className="space-y-4">
-                {ayahRecords.map((ar: any) => (
-                  <AyahCard
-                    key={ar.id}
-                    surahNumber={ar.surah_number}
-                    ayahStart={ar.ayah_start}
-                    ayahEnd={ar.ayah_end}
-                    arabic={ar.arabic_text}
-                    translation={ar.translation}
-                    title={ar.title}
-                    layerA={ar.layer_a}
-                    expandable
-                  />
-                ))}
-              </div>
-            ) : (
-              <p className="text-sm text-zinc-500">
-                Passage-level tadabbur for this surah is coming soon.
-              </p>
-            )}
-          </div>
-        )}
       </div>
     </div>
   )
