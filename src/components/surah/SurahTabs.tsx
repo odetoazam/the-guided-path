@@ -1,5 +1,6 @@
 'use client'
 
+import Image from 'next/image'
 import { useState } from 'react'
 import { DiagramRenderer, AudioPlayer, OrnamentDivider } from '@/components/surah/diagrams'
 import { NewsletterSignup } from '@/components/blog/newsletter-signup'
@@ -116,8 +117,7 @@ export function SurahTabs({
       {/* ── Tab panels ─────────────────────────────────────────────────── */}
       <div className="pt-8">
         {/* ━━ Overview panel ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ */}
-        {activeTab === 'overview' && (
-          <div role="tabpanel" className="space-y-6">
+        <div role="tabpanel" className={`space-y-6 ${activeTab !== 'overview' ? 'hidden' : ''}`}>
             {visualData ? (
               <>
                 {/* Audio player */}
@@ -152,52 +152,49 @@ export function SurahTabs({
 
                       <div className="min-h-[300px]">
                         {/* Why Learn tab content */}
-                        {activeSubTab === 'why' && (
-                          <div className="space-y-6">
-                            <div className="rounded-xl border border-gold-500/20 bg-gold-500/[0.04] px-6 py-5">
-                              <div className="text-[10px] font-semibold uppercase tracking-[0.2em] text-gold-500/70 font-sans mb-3">
-                                Why Learn This Surah
-                              </div>
-                              <p className="text-[16px] text-cream/85 leading-[1.75] font-body">
-                                {visualData.why_this_surah}
-                              </p>
-                            </div>
-
-                            {/* Thesis */}
-                            {visualData.thesis && (
-                              <p className="text-sm text-cream/60 leading-relaxed font-body italic max-w-xl mx-auto text-center">
-                                {visualData.thesis}
-                              </p>
-                            )}
-
-                            {/* Sciences badges */}
-                            {visualData.sciences_active && visualData.sciences_active.length > 0 && (
-                              <div className="flex flex-wrap justify-center gap-2 pt-2">
-                                {visualData.sciences_active.map((s) => (
-                                  <span
-                                    key={s.key}
-                                    className="rounded-full border border-white/[0.06] bg-white/[0.02] px-3 py-1 text-[10px] font-medium text-cream-muted/50 font-sans"
-                                  >
-                                    {s.english}
-                                  </span>
-                                ))}
-                              </div>
-                            )}
+                        <div className={`space-y-6 ${activeSubTab !== 'why' ? 'hidden' : ''}`}>
+                          <div className="rounded-xl border border-gold-500/20 bg-gold-500/[0.04] px-6 py-5">
+                            <h2 className="text-[10px] font-semibold uppercase tracking-[0.2em] text-gold-500/70 font-sans mb-3">
+                              Why Learn This Surah
+                            </h2>
+                            <p className="text-[16px] text-cream/85 leading-[1.75] font-body">
+                              {visualData.why_this_surah}
+                            </p>
                           </div>
-                        )}
+
+                          {/* Thesis */}
+                          {visualData.thesis && (
+                            <p className="text-sm text-cream/60 leading-relaxed font-body italic max-w-xl mx-auto text-center">
+                              {visualData.thesis}
+                            </p>
+                          )}
+
+                          {/* Sciences badges */}
+                          {visualData.sciences_active && visualData.sciences_active.length > 0 && (
+                            <div className="flex flex-wrap justify-center gap-2 pt-2">
+                              {visualData.sciences_active.map((s) => (
+                                <span
+                                  key={s.key}
+                                  className="rounded-full border border-white/[0.06] bg-white/[0.02] px-3 py-1 text-[10px] font-medium text-cream-muted/50 font-sans"
+                                >
+                                  {s.english}
+                                </span>
+                              ))}
+                            </div>
+                          )}
+                        </div>
 
                         {/* Diagram tab content */}
-                        {visualData.tabs.map((tab) =>
-                          activeSubTab === tab.id ? (
+                        {visualData.tabs.map((tab) => (
+                          <div key={tab.id} className={activeSubTab !== tab.id ? 'hidden' : ''}>
                             <DiagramRenderer
-                              key={tab.id}
                               tab={tab}
                               diagrams={visualData.diagrams}
                               fullText={visualData.full_text}
                               heartVerse={visualData.heart_verse}
                             />
-                          ) : null
-                        )}
+                          </div>
+                        ))}
                       </div>
                     </>
                   ) : null
@@ -227,11 +224,9 @@ export function SurahTabs({
               </div>
             )}
           </div>
-        )}
 
         {/* ━━ Reflection panel ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ */}
-        {activeTab === 'reflection' && (
-          <div role="tabpanel">
+        <div role="tabpanel" className={activeTab !== 'reflection' ? 'hidden' : ''}>
             {post ? (
               <article>
                 <header className="mb-10">
@@ -265,8 +260,14 @@ export function SurahTabs({
                 </header>
 
                 {post.featured_image && (
-                  <div className="mb-10 overflow-hidden rounded-2xl">
-                    <img src={post.featured_image} alt={post.title} className="w-full object-cover" />
+                  <div className="mb-10 overflow-hidden rounded-2xl relative aspect-[16/9]">
+                    <Image
+                      src={post.featured_image}
+                      alt={post.title}
+                      fill
+                      className="object-cover"
+                      sizes="(max-width: 768px) 100vw, 768px"
+                    />
                   </div>
                 )}
 
@@ -346,7 +347,6 @@ export function SurahTabs({
               </div>
             )}
           </div>
-        )}
 
       </div>
     </div>

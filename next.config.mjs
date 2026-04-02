@@ -2,6 +2,9 @@ import { withSentryConfig } from '@sentry/nextjs'
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  images: {
+    remotePatterns: [{ protocol: 'https', hostname: '**' }],
+  },
   async redirects() {
     return [
       {
@@ -17,6 +20,27 @@ const nextConfig = {
       {
         source: '/surahs/:slug/overview',
         destination: '/surahs/:slug',
+        permanent: true,
+      },
+      {
+        source: '/surahs/al-baqara',
+        destination: '/surahs/al-baqarah',
+        permanent: true,
+      },
+      // Tadabbur post slug migrations (bare surah-ayah refs → title slugs)
+      {
+        source: '/posts/004-135',
+        destination: '/posts/against-yourself-first',
+        permanent: true,
+      },
+      {
+        source: '/posts/041-034-035',
+        destination: '/posts/turn-your-enemy-into-your-closest-friend',
+        permanent: true,
+      },
+      {
+        source: '/posts/057-016',
+        destination: '/posts/has-the-time-not-come',
         permanent: true,
       },
     ]

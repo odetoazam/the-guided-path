@@ -50,7 +50,7 @@ export default function PrivacyPage() {
             we collect, how we use it, and the choices you have.
           </p>
           <p className="mt-2 text-xs text-zinc-500 dark:text-zinc-600">
-            Last updated: March 22, 2026
+            Last updated: April 1, 2026
           </p>
         </div>
 
@@ -109,12 +109,23 @@ export default function PrivacyPage() {
           </ul>
 
           <h3 className="mt-6 mb-2 font-serif text-base font-semibold text-zinc-900 dark:text-white">
-            Future analytics (with consent)
+            Optional analytics (with consent only)
           </h3>
           <p>
-            We may introduce PostHog or similar analytics tools in the future to better understand how
-            visitors use the site. If we do, these tools will only be activated with your explicit consent,
-            and you will be able to opt out at any time.
+            We use PostHog for optional behavioral analytics (page views, navigation patterns). PostHog
+            is only activated if you explicitly accept analytics cookies via the consent banner. If you
+            decline or have not yet responded, PostHog does not load and no analytics cookies are set.
+            You can change your preference at any time by clearing your browser&apos;s local storage for
+            this site.
+          </p>
+          <h3 className="mt-6 mb-2 font-serif text-base font-semibold text-zinc-900 dark:text-white">
+            Error tracking
+          </h3>
+          <p>
+            We use Sentry for error monitoring in production. Sentry captures technical error data
+            (stack traces, browser/OS info, and session replay on errors only) to help us diagnose
+            and fix bugs. It does not collect personal information beyond what is incidentally included
+            in error context.
           </p>
 
           <SectionHeading id="how-we-use" title="3. How We Use Your Information" />
@@ -137,18 +148,28 @@ export default function PrivacyPage() {
           <p>We use a limited number of trusted third-party services to operate AyahGuide:</p>
           <ul>
             <li>
-              <strong className="font-medium text-zinc-700 dark:text-zinc-300">Resend</strong> --
+              <strong className="font-medium text-zinc-700 dark:text-zinc-300">Resend</strong> —
               for sending newsletter emails. Your email address is stored in Resend&apos;s system to
               facilitate email delivery.
             </li>
             <li>
-              <strong className="font-medium text-zinc-700 dark:text-zinc-300">Supabase</strong> --
+              <strong className="font-medium text-zinc-700 dark:text-zinc-300">Supabase</strong> —
               for our database and authentication infrastructure. Data is stored securely on
               Supabase&apos;s servers.
             </li>
             <li>
-              <strong className="font-medium text-zinc-700 dark:text-zinc-300">Vercel</strong> --
+              <strong className="font-medium text-zinc-700 dark:text-zinc-300">Vercel</strong> —
               for hosting and privacy-friendly analytics (no cookies, no personal data collection).
+            </li>
+            <li>
+              <strong className="font-medium text-zinc-700 dark:text-zinc-300">PostHog</strong> —
+              for optional behavioral analytics (page views, session data). Only activated with your
+              consent. PostHog stores data on servers in the United States.
+            </li>
+            <li>
+              <strong className="font-medium text-zinc-700 dark:text-zinc-300">Sentry</strong> —
+              for error monitoring. Captures technical error data and session replays on errors only
+              to help us diagnose bugs. No personal data is intentionally collected.
             </li>
           </ul>
           <p>
@@ -156,50 +177,111 @@ export default function PrivacyPage() {
             We select services that align with our commitment to user privacy.
           </p>
 
-          <SectionHeading id="cookies" title="6. Cookies" />
-          <p>
-            AyahGuide currently does not use tracking cookies. Vercel Analytics, our analytics provider,
-            is entirely cookieless. If we introduce any cookies in the future (for example, through
-            consent-based analytics), we will update this policy and provide clear opt-in mechanisms
-            before any cookies are set.
-          </p>
-          <p>
-            Essential cookies may be used for basic site functionality (such as theme preference),
-            but these do not track you or collect personal information.
-          </p>
-
-          <SectionHeading id="gdpr" title="7. Your Rights (Including GDPR)" />
-          <p>
-            If you are located in the European Economic Area (EEA), the United Kingdom, or any other
-            jurisdiction with similar data protection laws, you have the following rights regarding
-            your personal data:
-          </p>
+          <SectionHeading id="cookies" title="6. Cookies &amp; Local Storage" />
+          <p>We use the following categories of cookies and browser storage:</p>
           <ul>
             <li>
-              <strong className="font-medium text-zinc-700 dark:text-zinc-300">Right of access</strong> --
-              you may request a copy of the personal data we hold about you.
+              <strong className="font-medium text-zinc-700 dark:text-zinc-300">Strictly necessary</strong> —
+              Authentication session cookies set by Supabase to keep you logged in (admin users only).
+              These cannot be disabled as they are required for the site to function.
             </li>
             <li>
-              <strong className="font-medium text-zinc-700 dark:text-zinc-300">Right to rectification</strong> --
-              you may request that we correct inaccurate data.
+              <strong className="font-medium text-zinc-700 dark:text-zinc-300">Analytics (optional)</strong> —
+              PostHog cookies and local storage entries that track page views and session behavior.
+              These are only set after you accept analytics cookies via our consent banner.
+              Vercel Analytics does not use cookies.
             </li>
             <li>
-              <strong className="font-medium text-zinc-700 dark:text-zinc-300">Right to erasure</strong> --
-              you may request that we delete your personal data.
-            </li>
-            <li>
-              <strong className="font-medium text-zinc-700 dark:text-zinc-300">Right to data portability</strong> --
-              you may request your data in a structured, machine-readable format.
-            </li>
-            <li>
-              <strong className="font-medium text-zinc-700 dark:text-zinc-300">Right to withdraw consent</strong> --
-              you may unsubscribe from our newsletter at any time.
+              <strong className="font-medium text-zinc-700 dark:text-zinc-300">Preference</strong> —
+              A <code>cookie_consent</code> flag stored in local storage to remember your consent
+              decision, and a theme preference value for dark/light mode. Neither contains
+              personal information.
             </li>
           </ul>
           <p>
-            To exercise any of these rights, please contact us
+            You can withdraw analytics consent at any time by clearing local storage for this site
+            in your browser settings, or by using your browser&apos;s built-in cookie management tools.
+          </p>
+
+          <SectionHeading id="gdpr" title="7. Your Rights (GDPR, CCPA, and Similar Laws)" />
+          <p>
+            Depending on where you live, you may have specific rights over your personal data.
+            We honor these rights regardless of your location.
+          </p>
+
+          <h3 className="mt-6 mb-2 font-serif text-base font-semibold text-zinc-900 dark:text-white">
+            All users
+          </h3>
+          <ul>
+            <li>
+              <strong className="font-medium text-zinc-700 dark:text-zinc-300">Right of access</strong> —
+              request a copy of the personal data we hold about you.
+            </li>
+            <li>
+              <strong className="font-medium text-zinc-700 dark:text-zinc-300">Right to rectification</strong> —
+              request correction of inaccurate data.
+            </li>
+            <li>
+              <strong className="font-medium text-zinc-700 dark:text-zinc-300">Right to erasure</strong> —
+              request deletion of your personal data.
+            </li>
+            <li>
+              <strong className="font-medium text-zinc-700 dark:text-zinc-300">Right to data portability</strong> —
+              request your data in a structured, machine-readable format.
+            </li>
+            <li>
+              <strong className="font-medium text-zinc-700 dark:text-zinc-300">Right to withdraw consent</strong> —
+              unsubscribe from our newsletter at any time, or withdraw analytics consent by clearing
+              your local storage.
+            </li>
+          </ul>
+
+          <h3 className="mt-6 mb-2 font-serif text-base font-semibold text-zinc-900 dark:text-white">
+            California residents (CCPA / CPRA)
+          </h3>
+          <p>
+            Under the California Consumer Privacy Act (CCPA) and the California Privacy Rights Act
+            (CPRA), California residents have additional rights:
+          </p>
+          <ul>
+            <li>
+              <strong className="font-medium text-zinc-700 dark:text-zinc-300">Right to know</strong> —
+              request disclosure of the categories and specific pieces of personal information we
+              have collected about you in the past 12 months.
+            </li>
+            <li>
+              <strong className="font-medium text-zinc-700 dark:text-zinc-300">Right to delete</strong> —
+              request deletion of personal information we have collected, subject to certain exceptions.
+            </li>
+            <li>
+              <strong className="font-medium text-zinc-700 dark:text-zinc-300">Right to correct</strong> —
+              request correction of inaccurate personal information.
+            </li>
+            <li>
+              <strong className="font-medium text-zinc-700 dark:text-zinc-300">Right to opt out of sale or sharing</strong> —
+              we do <strong>not</strong> sell or share your personal information with third parties for
+              cross-context behavioral advertising. No opt-out is required, but you may contact us to
+              confirm this in writing.
+            </li>
+            <li>
+              <strong className="font-medium text-zinc-700 dark:text-zinc-300">Right to limit use of sensitive personal information</strong> —
+              we do not collect sensitive personal information as defined by CPRA.
+            </li>
+            <li>
+              <strong className="font-medium text-zinc-700 dark:text-zinc-300">Right to non-discrimination</strong> —
+              we will not discriminate against you for exercising any of your privacy rights.
+            </li>
+          </ul>
+          <p>
+            To submit a verifiable consumer request, contact us
             at <a href="mailto:support@ayahguide.com" className="text-[rgba(212,175,55,0.85)] hover:underline">support@ayahguide.com</a>.
-            We will respond to your request within 30 days.
+            We will respond within 45 days (extendable by an additional 45 days when necessary).
+            You may designate an authorized agent to make requests on your behalf.
+          </p>
+          <p>
+            To exercise any other privacy right, contact us
+            at <a href="mailto:support@ayahguide.com" className="text-[rgba(212,175,55,0.85)] hover:underline">support@ayahguide.com</a>.
+            We will respond within 30 days.
           </p>
 
           <SectionHeading id="unsubscribe" title="8. Unsubscribing" />

@@ -68,18 +68,20 @@ At the end of every entity batch (after INSERT is confirmed), immediately:
 ## Pipeline Overview
 
 ```
-0. BACKLOG     → Read scripts/article-backlog.md, select next priority entity
-1. RESEARCH    → Understand the entity, its Quranic footprint, and existing coverage
-2. PLAN        → Decide article count, angles, and entity tag strategy
-3. WRITE       → Author articles with proper Quranic references and Arabic text
+0. BACKLOG      → Read scripts/article-backlog.md, select next priority entity
+1. RESEARCH     → Understand the entity, its Quranic footprint, and existing coverage
+1.5 SURAH INV.  → For prophets/figures in 5+ surahs: map each surah's argument + what it needs from this character
+1.6 CROSS-ENTITY → Identify relationship angle candidates from top co-occurring entities
+2. PLAN         → Decide article count, angles (sourced from inventory first), and entity tag strategy
+3. WRITE        → Author articles with proper Quranic references and Arabic text
 3b. VOICE CHECK → Run anti-pattern audit before validation
 3c. BRAND CHECK → Verify brand guideline compliance (docs/brand-guidelines.md)
-4. VALIDATE    → Run all 3 Quranic validators on every article
-5. INSERT      → Insert articles + entity tags into Supabase
-6. AYAH QUEUE  → Log key ayahs for tadabbur to pending queue (see below)
-7. SYNTHESIZE  → Generate hub overview synthesis from the published articles
+4. VALIDATE     → Run all 3 Quranic validators on every article
+5. INSERT       → Insert articles + entity tags into Supabase
+6. AYAH QUEUE   → Log key ayahs for tadabbur to pending queue (see below)
+7. SYNTHESIZE   → Generate hub overview synthesis from the published articles
 8. BACKLOG UPDATE → Update scripts/article-backlog.md
-9. NEXT        → Pick next entity from backlog and repeat
+9. NEXT         → Pick next entity from backlog and repeat
 ```
 
 ---
@@ -110,12 +112,67 @@ WHERE e1.slug = '{entity_slug}'
 ORDER BY ec.count DESC;
 ```
 
+```sql
+-- Get surah theses for surahs where this entity appears
+-- Use this to understand WHY each surah invokes this character
+SELECT s.number, s.name_transliteration, s.name_arabic,
+       s.thesis, s.central_theme
+FROM surahs s
+WHERE s.thesis IS NOT NULL
+ORDER BY s.number;
+```
+
 Key research questions:
 - How many times does this entity appear in the Quran? (occurrence_count)
 - What are its root letters and linguistic depth?
-- Which other entities co-occur with it? (these become secondary tags)
+- Which other entities co-occur with it? (these become secondary tags + cross-entity angle candidates)
 - What surahs feature it most prominently?
 - What has already been written about it?
+
+---
+
+## Step 1.5: SURAH INVENTORY
+
+**This step is mandatory for prophetic characters, historical figures, and any entity that appears in 5+ surahs.**
+
+Before planning any angles, build a surah inventory: a systematic mapping of every significant surah that features this entity, what the surah's argument is, and what role this entity plays in that argument.
+
+For each surah (focusing on the most prominent, usually 5-10 even if the entity appears in more):
+
+| Surah | Surah's Central Argument | What Moment This Surah Takes | Why — What the Surah Needs From This Character |
+|---|---|---|---|
+| e.g., Ta-Ha | Prophetic commission — the experience of being chosen for an impossible mission | The burning bush + divine call | Ta-Ha needs the moment of selection: a person who feels unworthy being told they've already been chosen |
+| e.g., Al-Qasas | Divine providence operating through time and opposition | Birth → exile → return (full biography) | Al-Qasas needs the long road: providence visible only in retrospect, the plan working through its own obstacles |
+
+**Rules for building the inventory:**
+1. The "Why" column is the most important. Identify what each surah's thesis *requires* from this character — not just what events appear in it.
+2. If two surahs take the same moment, note what each surah emphasizes differently. The difference is the angle.
+3. Absence is data: if a major event in the character's story never appears in a particular surah, ask why.
+4. When you cannot retrieve a surah thesis from the DB, reconstruct it from the surah's name, opening, and dominant theme.
+
+**Angle generation from inventory:**
+After completing the table, scan it for:
+- **Contrast rows**: two surahs that take the same character to different places — that contrast is an article
+- **Systematic omission**: something central to the character that no surah foregrounds — why?
+- **Single-surah deep dives**: a surah that takes an unusual or unexpected moment — why does *this* surah need *this* moment?
+- **Cross-surah architecture**: if the character appears in 30+ surahs, what is the aggregate portrait? How does the distributed telling construct something no single surah could?
+
+**The surah inventory is the primary source for article angles.** Framework application (literary voices, Dr. Samir's principles) happens *after* identifying the angles — it determines *how* to write them, not *what* to write about.
+
+---
+
+## Step 1.6: CROSS-ENTITY ANGLE CHECK
+
+After the surah inventory, run one more check using the co-occurrence data from Step 1:
+
+Take the top 3-5 co-occurring entities and ask for each:
+- What is the relationship between this entity and the primary entity?
+- Is there a structural contrast (Musa and Yusuf — distributed telling vs. linear biography)?
+- Is there a thematic parallel (Musa asking Allah to expand his chest; Ibrahim asking Allah to show him resurrection)?
+- Is there a dependency (Musa's story structurally requires Bani Isra'il; Firaun is the counter-force without which the narrative doesn't move)?
+- Has this relationship already been covered in existing articles? (If not, flag it as a cross-entity angle candidate)
+
+Cross-entity angles are not required in every batch, but at least one per batch should be considered. A relationship angle is often the most distinctive and least covered angle in the entire space.
 
 ---
 
@@ -127,7 +184,17 @@ Key research questions:
 - Each article should stand alone but contribute to a cohesive whole
 
 ### Angle Strategy
-Every article set should cover distinct facets. Common patterns:
+
+**Source of angles — in priority order:**
+
+1. **Surah inventory** (Step 1.5) — angles derived from "what does surah X need from this character, and why?" These are the most texturally grounded angles.
+2. **Cross-entity relationships** (Step 1.6) — angles that require holding two characters' footprints simultaneously.
+3. **Framework application** — literary voices and Dr. Samir's principles applied to specific moments identified in the inventory.
+4. **Generic angle types** (table below) — use as a checklist to ensure coverage breadth, not as a primary ideation source.
+
+Inventory-derived angles will usually be more specific and more surprising than generic angle types. If you're reaching for a generic type without grounding it in a specific surah's argument, return to the inventory.
+
+Common angle type patterns (use as coverage checklist):
 
 | Angle Type | Example (Shaytan) | Example (Isma'il) |
 |---|---|---|
@@ -137,8 +204,15 @@ Every article set should cover distinct facets. Common patterns:
 | Relationship / alliance | "The Alliance of Iblis and the Nafs" | "Ibrahim and Isma'il: A Father-Son Theology" |
 | Semantic deep-dive | "The Weapons Against Waswasa" | "Sabr When the Blade Is Real" |
 | Legacy / absence | "What the Quran Doesn't Say About Shaytan" | "Isma'il and the Ka'bah: Architecture as Worship" |
+| Narrative scene (Dillard) | "Shaytan's Refusal: The Syllogism in the Garden" | "The Sacrifice: A Father Asks His Son's Permission" |
+| Dialogue analysis | "The Trial of Iblis: Who Speaks Last" | "Do What You Are Commanded: Isma'il's One-Line Answer" |
+| Surah-argument deep-dive | "What Ash-Shu'ara Needs From Musa" | "Why Al-Qasas Begins at Birth, Not the Burning Bush" |
+| Cross-surah distributed portrait | "Shaytan Across Seven Surahs: What Changes Each Time" | "Ibrahim and Isma'il in Al-Baqarah vs. As-Saffat" |
+| Cross-entity contrast | "Musa and Yusuf: Two Kinds of Return" | "Ibrahim and Isma'il vs. Ibrahim and Ishaaq: What Changes" |
 
 Mapping rule: Before committing to a set, write down the angle type and the **primary question** each article answers. If two articles answer the same question differently, that's redundancy — collapse them or replace one with a different angle type.
+
+**Ayah-level tadabbur note:** Where ayah-level tadabbur exists for the relevant surahs, mine it for micro-level observations (unusual word choices, grammatical shifts, what's foregrounded within a single verse). These often unlock the most specific and original angles. For entities where tadabbur hasn't been generated yet, the surah inventory is sufficient — but note in the backlog which surahs' ayahs would be worth prioritizing for future tadabbur generation.
 
 ### Entity Tag Plan
 Before writing, map out entity tags for each article:
@@ -283,6 +357,54 @@ Different article types channel different writers. This is where dynamism comes 
 5. **Annie Dillard** — for narrative/scene-based articles. Unflinching attention to a single Quranic scene until it yields meaning. Describe the scene before analyzing it — let the reader see it first, then name what they just saw. Use for articles built around one Quranic episode (Ibrahim's fire, Musa at the burning bush, the Adam narrative).
 
 6. **James Baldwin** — for moral urgency articles. Moral clarity without preachiness. The paragraph that turns the mirror — never "them," always "we." Use for articles about accountability, the Day of Judgment, or contemporary moral questions through a Quranic lens.
+
+#### Narrative Analysis Framework (for story/character articles)
+
+When writing about Quranic narratives — prophet stories, parables, historical figures, unnamed characters, or dialogues — apply these analytical principles derived from Dr. Samir Mahmoud's methodology and classical Quranic scholarship.
+
+**Scope of "Quranic narrative":**
+- Prophet stories (Musa, Ibrahim, Yusuf, Nuh...)
+- Parables/mathal (two garden owners in Al-Kahf, village in Ya-Sin)
+- Historical figures (Fir'awn, Qarun, Dhul-Qarnayn, Luqman)
+- Unnamed characters (People of the Cave, the man who passed a ruined town)
+- Dialogues (Iblis with Allah, angels about Adam, Musa and Khidr)
+
+**1. Vertical vs. Horizontal Axis**
+Analyze events not just through horizontal causality (A leads to B) but through their vertical connection to divine names and the unseen. A "horizontal" reading asks what happened next. A "vertical" reading asks what divine attribute is being demonstrated through this moment. Every narrative article should identify which divine name or attribute the story enacts — not as a concluding flourish, but as the structural spine of the analysis.
+
+**2. Character Orientation: Being vs. Having**
+Characters in the Quran are defined by their internal orientation. The garden owner in Al-Kahf is defined by *having* (possessions, wealth, status). The Fitya (youth of the Cave) are defined by *being* (spiritual state, proximity to God). When analyzing a character, determine their axis: do they act from accumulation or from essence? This distinction generates more insight than biographical summary.
+
+**3. Pronoun Shifts (Iltifat) as Data**
+The Quran shifts between first, second, and third person — sometimes mid-ayah. These shifts are not stylistic flourishes. They alert the reader to different modes of relating to the text: being addressed directly, witnessing from outside, being drawn into the scene. When a pronoun shift occurs in a narrative, name it and analyze what it does to the reader's position.
+
+**4. Value the Gaps (Narrative Ellipsis)**
+What the Quran omits from a story is as deliberate as what it includes. The absence of historical detail is the Quran distilling events to their archetypal core. When writing about a narrative, identify what is conspicuously absent — names, timelines, geographical details, motivations — and treat each absence as a choice that reveals what the Quran considers essential versus incidental.
+
+**5. Theological Enactment, Not Statement**
+The strongest narrative articles show how a story *enacts* a theological truth rather than simply stating it. Khidr's three actions don't just *tell* Musa about hidden wisdom — they *demonstrate* Al-Hakim (The All-Wise) in real-time. Ibrahim doesn't just *claim* tawakkul — the fire scene *is* tawakkul under the most extreme conditions. Always ask: what divine attribute is being performed, not just referenced?
+
+**6. Dialogue Analysis**
+When the Quran records dialogue, pay attention to:
+- Who speaks first and who gets the last word
+- What a character does NOT say (silence as data)
+- Word choice differences between speakers (e.g., Musa's questions vs. Khidr's explanations)
+- Progression of agency — in the Musa-Khidr story, the attribution shifts from "I intended" to "we intended" to "your Lord willed"
+
+**7. Cross-Story Architecture**
+When multiple stories appear in one surah (Al-Kahf, Al-Anbiya, Ash-Shu'ara), analyze the architectural logic of their arrangement:
+- What structural parallels exist between stories?
+- Is there a progression (escalating scale, different spheres of trial)?
+- What themes or words recur across all stories in the surah?
+- Al-Kahf example: four stories cover four spheres — moral/spiritual (Cave), economic (Gardens), epistemological (Musa-Khidr), socio-political (Dhul-Qarnayn)
+
+**8. Time as a Literary Device**
+The Quran compresses and expands time deliberately. Centuries pass in a single ayah (the sleepers in the Cave). A single moment stretches across multiple ayahs (Ibrahim's dialogue with his son before the sacrifice). When writing about narrative, note when the Quran speeds up or slows down — the pacing reveals what matters.
+
+**9. Repetition with Variation**
+Stories like Musa's are told across multiple surahs, but each telling emphasizes different elements and serves different rhetorical purposes. When writing about a character who appears in multiple surahs, note what changes between tellings and why — this is not redundancy but progressive revelation.
+
+**Sources for narrative methodology:** Dr. Samir Mahmoud (Surah Al-Kahf lecture series), Al-Ghazali (knowledge and dreams), Ar-Razi (human visuality), At-Tabari (historical traditions). Key terms: *qass/qassa* (shadowing/following footsteps), *ta'wil* (unfolding hidden reality vs. *tafsir* outward interpretation), *ilm al-ladunni* (gifted/god-given knowledge), *tamkeen* (divine establishment).
 
 #### Eight Voice Principles
 

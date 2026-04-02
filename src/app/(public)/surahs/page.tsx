@@ -2,18 +2,18 @@ import { createClient } from '@/lib/supabase/server'
 import { SurahMap } from '@/components/surah/SurahMap'
 import type { Metadata } from 'next'
 import { CANONICAL_URL, SITE_NAME } from '@/lib/constants'
+import { SURAHS, surahSlug } from '@/lib/surahs'
 
 const pageUrl = `${CANONICAL_URL}/surahs`
+const DESCRIPTION = 'Explore all 114 surahs of the Quran with deep reflections (tadabbur), linguistic analysis, and contemplative insights on each chapter.'
 
 export const metadata: Metadata = {
   title: 'Surah Map — All 114 Surahs of the Quran',
-  description: 'Explore all 114 surahs of the Quran with deep reflections (tadabbur), linguistic analysis, and contemplative insights on each chapter.',
-  alternates: {
-    canonical: pageUrl,
-  },
+  description: DESCRIPTION,
+  alternates: { canonical: pageUrl },
   openGraph: {
     title: `Surah Map | ${SITE_NAME}`,
-    description: 'Explore all 114 surahs of the Quran with deep reflections and contemplative insights.',
+    description: DESCRIPTION,
     type: 'website',
     url: pageUrl,
     siteName: SITE_NAME,
@@ -21,7 +21,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary',
     title: `Surah Map | ${SITE_NAME}`,
-    description: 'Explore all 114 surahs of the Quran with deep reflections and contemplative insights.',
+    description: DESCRIPTION,
   },
 }
 
@@ -42,19 +42,41 @@ async function getPublishedSurahs(): Promise<number[]> {
 export default async function SurahsPage() {
   const publishedSurahs = await getPublishedSurahs()
 
-  return (
-    <div className="min-h-screen bg-navy-dark">
-      {/* Page header */}
-      <div className="mx-auto max-w-3xl px-5 pt-10 pb-6 text-center">
-        <h1 className="font-serif text-2xl font-bold text-cream sm:text-3xl">
-          The Surah Map
-        </h1>
-        <p className="mt-2 text-sm text-cream/40">
-          All 114 surahs of the Quran — explore reflections on each chapter
-        </p>
-      </div>
+  const itemListJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'ItemList',
+    name: 'All 114 Surahs of the Quran',
+    description: DESCRIPTION,
+    url: pageUrl,
+    numberOfItems: 114,
+    itemListElement: SURAHS.map((surah, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      url: `${CANONICAL_URL}/surahs/${surahSlug(surah.nameEn)}`,
+      name: `Surah ${surah.nameEn} (${surah.nameAr})`,
+    })),
+  }
 
-      <SurahMap publishedSurahs={publishedSurahs} />
-    </div>
+  return (
+    <>
+      <script
+        suppressHydrationWarning
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListJsonLd) }}
+      />
+      <div className="min-h-screen bg-navy-dark">
+        {/* Page header */}
+        <div className="mx-auto max-w-3xl px-5 pt-10 pb-6 text-center">
+          <h1 className="font-serif text-2xl font-bold text-cream sm:text-3xl">
+            The Surah Map
+          </h1>
+          <p className="mt-2 text-sm text-cream/40">
+            All 114 surahs of the Quran — explore reflections on each chapter
+          </p>
+        </div>
+
+        <SurahMap publishedSurahs={publishedSurahs} />
+      </div>
+    </>
   )
 }

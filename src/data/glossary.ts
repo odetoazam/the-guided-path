@@ -1027,7 +1027,7 @@ What is distinctively Quranic about khushu' is its placement: not in advanced my
     hasFullEntry: true,
 
     summary:
-      "The ache you feel when you realize you've done something wrong — before you've made it right. Nadam is the emotional precursor to tawbah. The Prophet ﷺ said remorse *is* repentance, because without the pain of recognition, there is no turning back. It's the alarm system God built into the human conscience.",
+      "The ache you feel when you realize you've done something wrong — before you've made it right. Nadam is the emotional precursor to tawbah. The Prophet ﷺ said remorse *is* repentance (Ibn Majah 4252, Ahmad 3568), because without the pain of recognition, there is no turning back. It's the alarm system God built into the human conscience.",
 
     root: {
       letters: 'ن-د-م',
@@ -3617,7 +3617,7 @@ The Mutazilites (a rationalist school within early Islam) rejected strong qadar 
     evocativeLine: "The primordial nature — the factory setting of the human soul, inclined toward its Creator.",
     hasFullEntry: true,
 
-    summary: `The original state — the nature God built into every human being before culture, parents, and society shaped it. The Prophet ﷺ said every child is born on the fitrah; it's the world that changes them. Fitrah is the reason truth feels familiar when you hear it for the first time. Something in you already knew.`,
+    summary: `The original state — the nature God built into every human being before culture, parents, and society shaped it. The Prophet ﷺ said every child is born on the fitrah; it's the world that changes them (Bukhari 1358, Muslim 2658). Fitrah is the reason truth feels familiar when you hear it for the first time. Something in you already knew.`,
 
     root: {
       letters: 'ف–ط–ر',
@@ -3943,7 +3943,7 @@ Sufi metaphysics developed a concept of tawhid wujud (oneness of being) associat
     evocativeLine: 'Faith — not just belief in the mind, but conviction that moves the limbs.',
     hasFullEntry: true,
 
-    summary: `Faith — but the Quran treats it as something alive, something that increases and decreases. Iman comes from a root meaning 'to feel safe, to trust.' A person of iman is someone who has placed their security in God. The Prophet ﷺ said iman has over seventy branches, the highest being la ilaha illa Allah, the lowest being removing harm from the road.`,
+    summary: `Faith — but the Quran treats it as something alive, something that increases and decreases. Iman comes from a root meaning 'to feel safe, to trust.' A person of iman is someone who has placed their security in God. The Prophet ﷺ said iman has over seventy branches, the highest being la ilaha illa Allah, the lowest being removing harm from the road (Bukhari 9, Muslim 35).`,
 
     root: {
       letters: 'أ–م–ن',
@@ -4613,9 +4613,9 @@ What the Quran uniquely provides is the socio-eschatological framing: the siddiq
     category: 'States of the Heart',
     evocativeLine: 'The modesty that guards — the eyes, the tongue, the heart, and the limbs.',
     hasFullEntry: true,
-    summary: `Modesty — and the Prophet ﷺ said it is a branch of faith. Haya' is the inner sense that keeps you from doing something shameful, even when no one is watching. It operates between you and God, between you and people, and between you and yourself. It is the quality that makes a person careful with their dignity and the dignity of others.
+    summary: `Modesty — and the Prophet ﷺ said it is a branch of faith (Bukhari 9, Muslim 35). Haya' is the inner sense that keeps you from doing something shameful, even when no one is watching. It operates between you and God, between you and people, and between you and yourself. It is the quality that makes a person careful with their dignity and the dignity of others.
 
-The Prophet ﷺ said: 'If you have no haya', do whatever you will.' That statement is a diagnosis: the person without haya' has lost the internal guardian that makes certain actions feel beneath them. Haya' means you are self-governing — guided by an inner sense of what is fitting, rather than waiting for someone to tell you what is wrong.
+The Prophet ﷺ said: 'If you have no haya', do whatever you will' (Bukhari 3483). That statement is a diagnosis: the person without haya' has lost the internal guardian that makes certain actions feel beneath them. Haya' means you are self-governing — guided by an inner sense of what is fitting, rather than waiting for someone to tell you what is wrong.
 
 The Quran's most vivid portrait of haya' in action: the daughter of Shu'ayb came to Musa 'walking with modesty' to invite him to her father's home. She was present, purposeful, direct — and carried herself with dignity. Haya' is how you engage with the world while protecting what matters most about who you are.`,
     root: { letters: 'ح–ي–ي / ح–ي–و', transliteration: 'ḥ–y–y / ḥ–y–w', meaning: 'Life; to be alive; modesty, bashfulness', elaboration: "The root of hayaa' is the same as hayah (life). The scholars say hayaa' is a sign of the life of the heart: the dead heart has no hayaa'; the living heart is sensitive to what is fitting. Hayaa' is the heart's aliveness expressed in its capacity for appropriate restraint. When the heart dies through persistent sin and heedlessness, hayaa' is one of the first qualities to depart." },
@@ -4729,7 +4729,7 @@ What Islamic tawadu' adds is the dynamic of reciprocity with Allah: "Whoever hum
     category: 'States of the Heart' as const,
     evocativeLine: 'Scrupulous caution — leaving even the doubtful for fear of the forbidden.',
     hasFullEntry: true,
-    summary: `The caution that keeps you away from anything doubtful — a step beyond what's technically allowed, into what's spiritually safe. Wara' is the guardrail around the guardrail. The Prophet ﷺ said the halal is clear and the haram is clear, and between them are doubtful matters. Wara' avoids the gray zone entirely.`,
+    summary: `The caution that keeps you away from anything doubtful — a step beyond what's technically allowed, into what's spiritually safe. Wara' is the guardrail around the guardrail. The Prophet ﷺ said the halal is clear and the haram is clear, and between them are doubtful matters (Bukhari 52, Muslim 1599). Wara' avoids the gray zone entirely.`,
     root: {
       letters: 'و–ر–ع',
       transliteration: 'w–r–ʿ',
@@ -4816,7 +4816,7 @@ What is distinctive in the Islamic tradition is the hadith-based precision: the 
     category: 'States of the Heart' as GlossaryCategory,
     evocativeLine: "Contentment with what Allah has given — the richness that needs no addition.",
     hasFullEntry: true,
-    summary: `Contentment with what God gave you. Qana'ah means your heart is at rest even when your bank account is low. The Prophet ﷺ said real wealth is the richness of the soul. This concept separates people who have everything and feel empty from people who have little and feel full.`,
+    summary: `Contentment with what God gave you. Qana'ah means your heart is at rest even when your bank account is low. The Prophet ﷺ said real wealth is the richness of the soul (Bukhari 6446, Muslim 1051). This concept separates people who have everything and feel empty from people who have little and feel full.`,
     root: {
       letters: 'ق–ن–ع',
       transliteration: 'q–n–ʿ',
@@ -6930,7 +6930,7 @@ In Buddhist thought, the concept of "skillful means" (upaya) — adapting the te
 
 The historical context makes this extraordinary: the people of Madinah (the Ansar) opened their homes, shared their wealth, and treated the immigrant believers from Makkah (the Muhajirun) as brothers — to the point that the Prophet ﷺ formally paired them as mutual heirs. A poor Bedouin from one tribe and a wealthy merchant from another became brothers in ways that transcended their categories. The bond was real, material, and binding.
 
-The Prophet ﷺ said: "The Muslim is the brother of the Muslim — he does not wrong him, does not abandon him, and does not hand him over." This triad describes the minimum of ukhuwwah: non-harm, non-abandonment, and non-betrayal. From there it builds: feeding the hungry, covering the fault, interceding, caring for the sick, attending the funeral. The full expression of ukhuwwah is not sentiment but active solidarity.`,
+The Prophet ﷺ said: "The Muslim is the brother of the Muslim — he does not wrong him, does not abandon him, and does not hand him over" (Bukhari 2442, Muslim 2580). This triad describes the minimum of ukhuwwah: non-harm, non-abandonment, and non-betrayal. From there it builds: feeding the hungry, covering the fault, interceding, caring for the sick, attending the funeral. The full expression of ukhuwwah is not sentiment but active solidarity.`,
     root: {
       letters: 'أ–خ–و',
       transliteration: 'ʾ–kh–w',
@@ -7243,7 +7243,7 @@ In Sufi tradition, the story of Alast is enormously generative: the longing for 
     category: 'Theology & Ethics' as GlossaryCategory,
     evocativeLine: 'Striving — the comprehensive struggle in every domain, of which warfare is one dimension.',
     hasFullEntry: true,
-    summary: `Struggle — the effort expended in the path of God. The word covers the inner battle against your own desires, the social struggle to establish justice, the financial sacrifice of spending in God's cause, and in specific circumstances, the defense of your community. The greatest jihad, the Prophet ﷺ said, is the struggle against your own nafs.`,
+    summary: `Struggle — the effort expended in the path of God. The word covers the inner battle against your own desires, the social struggle to establish justice, the financial sacrifice of spending in God's cause, and in specific circumstances, the defense of your community. The scholars have long held that the greatest jihad is the struggle against your own nafs — a principle grounded in authentic narrations and affirmed by Ibn Taymiyya, al-Ghazali, and Ibn Hajar.`,
     root: {
       letters: 'ج–ه–د',
       transliteration: 'j–h–d',

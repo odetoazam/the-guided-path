@@ -1,0 +1,181 @@
+{
+  "generated": "2026-03-31T04:11:08.166Z",
+  "totalEntries": 111,
+  "results": [
+    {
+      "slug": "tawbah",
+      "field": "summary",
+      "flags": [
+        {
+          "type": "arabic_root_claim",
+          "severity": "warning",
+          "detail": "Arabic root/meaning claim — verify against Lane's Lexicon or Hans Wehr.",
+          "excerpt": "literally means"
+        }
+      ],
+      "status": "warn"
+    },
+    {
+      "slug": "nadam",
+      "field": "summary",
+      "flags": [
+        {
+          "type": "unsourced_hadith_in_summary",
+          "severity": "warning",
+          "detail": "Summary contains hadith claim — verify the hadith is accurately represented.",
+          "excerpt": "The Prophet ﷺ said remorse *is* repentance (Ibn Majah 4252, Ahmad 3568), because without the pain of recognition, there "
+        }
+      ],
+      "status": "warn"
+    },
+    {
+      "slug": "fitrah",
+      "field": "summary",
+      "flags": [
+        {
+          "type": "unsourced_hadith_in_summary",
+          "severity": "warning",
+          "detail": "Summary contains hadith claim — verify the hadith is accurately represented.",
+          "excerpt": "The Prophet ﷺ said every child is born on the fitrah; it's the world that changes them (Bukhari 1358, Muslim 2658)."
+        }
+      ],
+      "status": "warn"
+    },
+    {
+      "slug": "iman",
+      "field": "summary",
+      "flags": [
+        {
+          "type": "unsourced_hadith_in_summary",
+          "severity": "warning",
+          "detail": "Summary contains hadith claim — verify the hadith is accurately represented.",
+          "excerpt": "The Prophet ﷺ said iman has over seventy branches, the highest being la ilaha illa Allah, the lowest being removing harm"
+        }
+      ],
+      "status": "warn"
+    },
+    {
+      "slug": "hayaa",
+      "field": "summary",
+      "flags": [
+        {
+          "type": "unsourced_hadith_in_summary",
+          "severity": "warning",
+          "detail": "Summary contains hadith claim — verify the hadith is accurately represented.",
+          "excerpt": "the Prophet ﷺ said it is a branch of faith (Bukhari 9, Muslim 35)."
+        },
+        {
+          "type": "unsourced_hadith_in_summary",
+          "severity": "warning",
+          "detail": "Summary contains hadith claim — verify the hadith is accurately represented.",
+          "excerpt": "The Prophet ﷺ said: 'If you have no haya', do whatever you will' (Bukhari 3483)."
+        }
+      ],
+      "status": "warn"
+    },
+    {
+      "slug": "wara",
+      "field": "summary",
+      "flags": [
+        {
+          "type": "unsourced_hadith_in_summary",
+          "severity": "warning",
+          "detail": "Summary contains hadith claim — verify the hadith is accurately represented.",
+          "excerpt": "The Prophet ﷺ said the halal is clear and the haram is clear, and between them are doubtful matters (Bukhari 52, Muslim "
+        }
+      ],
+      "status": "warn"
+    },
+    {
+      "slug": "qanah",
+      "field": "summary",
+      "flags": [
+        {
+          "type": "unsourced_hadith_in_summary",
+          "severity": "warning",
+          "detail": "Summary contains hadith claim — verify the hadith is accurately represented.",
+          "excerpt": "The Prophet ﷺ said real wealth is the richness of the soul (Bukhari 6446, Muslim 1051)."
+        }
+      ],
+      "status": "warn"
+    },
+    {
+      "slug": "ukhuwwah",
+      "field": "summary",
+      "flags": [
+        {
+          "type": "unsourced_hadith_in_summary",
+          "severity": "warning",
+          "detail": "Summary contains hadith claim — verify the hadith is accurately represented.",
+          "excerpt": "The Prophet ﷺ said: \"The Muslim is the brother of the Muslim — he does not wrong him, does not abandon him, and does not"
+        }
+      ],
+      "status": "warn"
+    },
+    {
+      "slug": "dunya",
+      "field": "summary",
+      "flags": [
+        {
+          "type": "arabic_root_claim",
+          "severity": "warning",
+          "detail": "Arabic root/meaning claim — verify against Lane's Lexicon or Hans Wehr.",
+          "excerpt": "literally means"
+        }
+      ],
+      "status": "warn"
+    },
+    {
+      "slug": "barakah",
+      "field": "summary",
+      "flags": [
+        {
+          "type": "arabic_root_claim",
+          "severity": "warning",
+          "detail": "Arabic root/meaning claim — verify against Lane's Lexicon or Hans Wehr.",
+          "excerpt": "from the root"
+        }
+      ],
+      "status": "warn"
+    },
+    {
+      "slug": "jinn",
+      "field": "summary",
+      "flags": [
+        {
+          "type": "arabic_root_claim",
+          "severity": "warning",
+          "detail": "Arabic root/meaning claim — verify against Lane's Lexicon or Hans Wehr.",
+          "excerpt": "from the root"
+        }
+      ],
+      "status": "warn"
+    },
+    {
+      "slug": "layl",
+      "field": "summary",
+      "flags": [
+        {
+          "type": "occurrence_count_claim",
+          "severity": "warning",
+          "detail": "Occurrence count claim — verify against corpus.quran.com.",
+          "excerpt": "92 times in the Quran"
+        }
+      ],
+      "status": "warn"
+    },
+    {
+      "slug": "hayah",
+      "field": "summary",
+      "flags": [
+        {
+          "type": "arabic_root_claim",
+          "severity": "warning",
+          "detail": "Arabic root/meaning claim — verify against Lane's Lexicon or Hans Wehr.",
+          "excerpt": "literally means"
+        }
+      ],
+      "status": "warn"
+    }
+  ]
+}

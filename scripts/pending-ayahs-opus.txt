@@ -1,0 +1,18 @@
+# Opus queue — passages reserved for Claude Code (dense, multi-layered, or hub-critical)
+# Format: surah:ayah_start[-ayah_end]|SurahName|surah-slug|reason
+# Claude works from this file. Codex skips any passage listed here.
+# Add new entries when a passage is clearly too complex for single-ayah treatment.
+
+# --- Hub passages (entity context required) ---
+# 7:11-18 DONE — split as 7:11-15 + 7:18 (7:16-17 already existed)
+# 5:75 DONE — Maryam hub, siddiqah title + "they both ate food" argument
+# 12:53 SKIPPED — already in DB
+# 43:77 DONE — Jahannam hub, Malik response, rabbuka pronoun loss, makhithun brevity
+# 75:2 DONE (expanded to 75:1-2) — lawwamah fa''alah pattern, qiyamah/lawwamah parallel oaths
+# 89:27-30 DONE — nafs mutma'innah, 4-ayah arc, divine homecoming address, tagged to nafs entity
+
+# --- Dense single passages (linguistic or theological density) ---
+# 4:34 DONE — qawwamun, 6 root clusters, fa''al pattern, chiastic architecture, 'Aliyy Kabir closing warning
+# 4:58 DONE — amanaat + 'adl, Form II tu'addu, Sami'/Basir closing names match two commands
+# 4:78-79 DONE — theodicy pair, two-level qadar/kasb truth, Form IV yudrik + aṣāba, shahīd closing
+# 4:135 DONE — qawwamina bil-qist, fa''al standing metaphor, talwu/tu'ridu pair (Form I vs IV), Khabir closing, 4:135/5:8 architectural mirror

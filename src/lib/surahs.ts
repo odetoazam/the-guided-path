@@ -11,7 +11,7 @@ export type SurahMeta = {
 
 export const SURAHS: SurahMeta[] = [
   { n: 1,   nameAr: "الفاتحة",    nameEn: "Al-Fatiha",      ayahs: 7,   place: "Makki",  juz: 1  },
-  { n: 2,   nameAr: "البقرة",     nameEn: "Al-Baqara",      ayahs: 286, place: "Madani", juz: 1  },
+  { n: 2,   nameAr: "البقرة",     nameEn: "Al-Baqarah",     ayahs: 286, place: "Madani", juz: 1  },
   { n: 3,   nameAr: "آل عمران",   nameEn: "Ali 'Imran",     ayahs: 200, place: "Madani", juz: 3  },
   { n: 4,   nameAr: "النساء",     nameEn: "An-Nisa",        ayahs: 176, place: "Madani", juz: 4  },
   { n: 5,   nameAr: "المائدة",    nameEn: "Al-Ma'ida",      ayahs: 120, place: "Madani", juz: 6  },

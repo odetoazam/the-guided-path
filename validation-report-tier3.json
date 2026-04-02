@@ -1,0 +1,89 @@
+{
+  "generated": "2026-03-31T04:11:07.892Z",
+  "results": [
+    {
+      "surah_number": 6,
+      "field": "thesis",
+      "content": "The Quran's longest single breath — a surah revealed whole, escorted by seventy thousand angels, that asks one question across 165 ayahs: by whose authority do you live the way you live? And it will n",
+      "flags": [
+        {
+          "type": "ayah_count_claim",
+          "severity": "warning",
+          "detail": "Ayah count claim — verify against actual surah length.",
+          "excerpt": "165 ayahs"
+        }
+      ],
+      "status": "warn"
+    },
+    {
+      "surah_number": 12,
+      "field": "why_this_surah",
+      "content": "The Quran calls it 'the best of stories.' A boy thrown into a well by his own brothers grows up to save the people who abandoned him. If you've ever been betrayed by someone close and wondered whether",
+      "flags": [
+        {
+          "type": "numerical_claim",
+          "severity": "warning",
+          "detail": "Numerical equivalence claim (e.g., \"equals a third of the Quran\") should be sourced.",
+          "excerpt": "worth it, this is the surah that answers that question — beginning to end, in one unbroken narrative."
+        }
+      ],
+      "status": "warn"
+    },
+    {
+      "surah_number": 23,
+      "field": "thesis",
+      "content": "A surah that tells you the verdict first — the believers have already succeeded — then spends 118 ayahs building the case until the only honest response left is the prayer it places on your lips at th",
+      "flags": [
+        {
+          "type": "ayah_count_claim",
+          "severity": "warning",
+          "detail": "Ayah count claim — verify against actual surah length.",
+          "excerpt": "118 ayahs"
+        }
+      ],
+      "status": "warn"
+    },
+    {
+      "surah_number": 43,
+      "field": "thesis",
+      "content": "The Quran's most sustained dismantling of the logic that equates wealth with worth — a surah that names gold as surface ornamentation and then shows, through Ibrahim, Musa, and ʿĪsā, what it looks lik",
+      "flags": [
+        {
+          "type": "numerical_claim",
+          "severity": "warning",
+          "detail": "Numerical equivalence claim (e.g., \"equals a third of the Quran\") should be sourced.",
+          "excerpt": "worth — a surah that names gold as surface ornamentation and then shows, through Ibrahim, Musa, and ʿĪsā, what it looks "
+        }
+      ],
+      "status": "warn"
+    },
+    {
+      "surah_number": 112,
+      "field": "why_this_surah",
+      "content": "Who is God? This surah answers in four lines: God is one. God is eternal and absolute. He was not born and does not give birth. Nothing is comparable to Him. The Prophet ﷺ said reciting it equals a th",
+      "flags": [
+        {
+          "type": "numerical_claim",
+          "severity": "warning",
+          "detail": "Numerical equivalence claim (e.g., \"equals a third of the Quran\") should be sourced.",
+          "excerpt": "equals a third of the Quran (Bukhari, 5013; Muslim, 811)."
+        }
+      ],
+      "status": "warn"
+    },
+    {
+      "surah_number": 112,
+      "field": "thesis",
+      "content": "Two declarations of who God is, two negations sealing off every direction of theological escape — and the word Aḥad bookending the whole like a lock. Scholars call it a third of the Quran because a th",
+      "flags": [
+        {
+          "type": "numerical_claim",
+          "severity": "warning",
+          "detail": "Numerical equivalence claim (e.g., \"equals a third of the Quran\") should be sourced.",
+          "excerpt": "a third of the Quran because a third of the Quran is theology, and this is all of it."
+        }
+      ],
+      "status": "warn"
+    }
+  ]
+}

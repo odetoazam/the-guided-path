@@ -1,3 +1,4 @@
+import Image from 'next/image'
 import { notFound } from 'next/navigation'
 import { createClient } from '@/lib/supabase/server'
 import { formatDate, isRTL } from '@/lib/utils'
@@ -329,10 +330,12 @@ export default async function PostPage({ params }: Props) {
   return (
     <>
       <script
+        suppressHydrationWarning
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
       <script
+        suppressHydrationWarning
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
       />
@@ -340,7 +343,7 @@ export default async function PostPage({ params }: Props) {
       <article className="mx-auto max-w-2xl px-5 py-12 sm:px-6 sm:py-16">
         {/* Back link */}
         <Link
-          href="/posts"
+          href="/articles"
           className="mb-10 inline-flex items-center gap-2 text-sm text-zinc-400 hover:text-gold-500 transition-colors"
         >
           <ArrowLeft className="h-3.5 w-3.5" />
@@ -410,11 +413,14 @@ export default async function PostPage({ params }: Props) {
 
         {/* Featured image */}
         {post.featured_image && (
-          <div className="mb-10 sm:mb-14 overflow-hidden rounded-2xl">
-            <img
+          <div className="mb-10 sm:mb-14 overflow-hidden rounded-2xl relative aspect-[16/9]">
+            <Image
               src={post.featured_image}
               alt={post.title}
-              className="w-full object-cover"
+              fill
+              className="object-cover"
+              sizes="(max-width: 768px) 100vw, 768px"
+              priority
             />
           </div>
         )}

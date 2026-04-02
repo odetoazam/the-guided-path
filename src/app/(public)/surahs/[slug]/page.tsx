@@ -5,7 +5,6 @@ import { SURAHS, surahIdentity, surahSlug, surahBySlug } from '@/lib/surahs'
 import { getSurahVFX } from '@/lib/surah-vfx'
 import { SurahCanvas } from '@/components/surah/SurahCanvas'
 import { SurahTabs } from '@/components/surah/SurahTabs'
-import { ArrowLeft } from 'lucide-react'
 import type { Metadata } from 'next'
 import { CANONICAL_URL, SITE_NAME } from '@/lib/constants'
 
@@ -111,8 +110,6 @@ export default async function SurahDetailPage({ params }: Props) {
     ],
   }
 
-  // Article schema surfaces the full reflection content to Google even though
-  // it renders inside a client-side tab (conditional rendering = not in initial HTML).
   const articleJsonLd = post ? {
     '@context': 'https://schema.org',
     '@type': 'Article',
@@ -132,11 +129,13 @@ export default async function SurahDetailPage({ params }: Props) {
   return (
     <div className="min-h-screen bg-navy-dark text-cream">
       <script
+        suppressHydrationWarning
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
       />
       {articleJsonLd && (
         <script
+          suppressHydrationWarning
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(articleJsonLd) }}
         />
@@ -160,14 +159,20 @@ export default async function SurahDetailPage({ params }: Props) {
         />
 
         <div className="relative z-10 mx-auto max-w-3xl px-5 py-16 text-center">
-          {/* Back link */}
-          <Link
-            href="/surahs"
-            className="inline-flex items-center gap-1.5 text-xs text-white/35 transition hover:text-white/60"
-          >
-            <ArrowLeft className="h-3 w-3" />
-            The Surah Map
-          </Link>
+          {/* Breadcrumb */}
+          <nav aria-label="Breadcrumb">
+            <ol className="inline-flex items-center gap-1.5 text-xs text-white/35">
+              <li>
+                <Link href="/" className="transition hover:text-white/60">Home</Link>
+              </li>
+              <li aria-hidden>/</li>
+              <li>
+                <Link href="/surahs" className="transition hover:text-white/60">Surahs</Link>
+              </li>
+              <li aria-hidden>/</li>
+              <li className="text-white/50">{surah.nameEn}</li>
+            </ol>
+          </nav>
 
           {/* Surah number */}
           <div className="mt-8 text-xs font-medium tracking-[0.18em] uppercase text-white/30">

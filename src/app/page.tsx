@@ -63,10 +63,12 @@ export default async function LandingPage() {
   return (
     <>
       <script
+        suppressHydrationWarning
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteJsonLd) }}
       />
       <script
+        suppressHydrationWarning
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationJsonLd) }}
       />
@@ -239,8 +241,8 @@ export default async function LandingPage() {
             <Link href="/understanding-quran" className="hover:text-navy dark:hover:text-cream transition-colors">
               Understanding Quran
             </Link>
-            <Link href="/posts" className="hover:text-navy dark:hover:text-cream transition-colors">
-              Posts
+            <Link href="/articles" className="hover:text-navy dark:hover:text-cream transition-colors">
+              Articles
             </Link>
             <Link href="#subscribe" className="hover:text-navy dark:hover:text-cream transition-colors">
               Subscribe
