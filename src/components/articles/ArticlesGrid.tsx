@@ -50,6 +50,9 @@ const CATEGORY_CONFIG: Record<string, {
   },
 }
 
+// Quranic mysterious letters — used as decorative fallback when no entity name exists
+const MUQATTAAT = ['الٓمٓ', 'الٓرٰ', 'حٰمٓ', 'طٰسٓ', 'يٰسٓ', 'صٓ', 'قٓ', 'نٓ', 'طٰهٰ', 'كٓهٓيٓعٓصٓ']
+
 const FALLBACK_CONFIG = {
   label: 'Article',
   tint: 'rgba(212,175,55,0.04)',
@@ -183,29 +186,25 @@ function ArticleCard({ article }: { article: ArticleItem }) {
         style={{ background: 'radial-gradient(ellipse 70% 60% at 30% 20%, rgba(212,175,55,0.05) 0%, transparent 70%)' }}
       />
 
-      {/* Arabic entity name — visual anchor */}
-      {entity?.name_arabic && (
-        <div
-          className="relative mb-2 leading-none text-[rgba(212,175,55,0.6)] transition-colors duration-300 group-hover:text-[rgba(212,175,55,0.85)]"
-          style={{
-            fontFamily: "var(--font-amiri,'Amiri'),serif",
-            fontSize: '2.2rem',
-            direction: 'rtl',
-            textShadow: '0 0 40px rgba(212,175,55,0.1)',
-          }}
-        >
-          {entity.name_arabic}
-        </div>
-      )}
+      {/* Arabic entity name — visual anchor, or decorative fallback */}
+      <div
+        className="relative mb-2 leading-none text-[rgba(212,175,55,0.6)] transition-colors duration-300 group-hover:text-[rgba(212,175,55,0.85)]"
+        style={{
+          fontFamily: "var(--font-amiri,'Amiri'),serif",
+          fontSize: '2.2rem',
+          direction: 'rtl',
+          textShadow: '0 0 40px rgba(212,175,55,0.1)',
+        }}
+      >
+        {entity?.name_arabic ?? MUQATTAAT[article.slug.charCodeAt(0) % MUQATTAAT.length]}
+      </div>
 
       {/* Category badge */}
-      {entity && (
-        <div className="relative mb-3">
-          <span className={`inline-block rounded-full border px-2 py-0.5 text-[9px] font-medium tracking-wider uppercase ${cfg.badge}`}>
-            {getCfg(entity.category).label}
-          </span>
-        </div>
-      )}
+      <div className="relative mb-3">
+        <span className={`inline-block rounded-full border px-2 py-0.5 text-[9px] font-medium tracking-wider uppercase ${cfg.badge}`}>
+          {entity ? getCfg(entity.category).label : 'Article'}
+        </span>
+      </div>
 
       {/* Title */}
       <h3 className="relative font-serif text-[15px] font-bold leading-snug text-navy-dark/90 transition-colors group-hover:text-navy-dark dark:text-cream/80 dark:group-hover:text-cream mb-2 flex-1">
