@@ -6,6 +6,7 @@ title: "Said Twice on Purpose: The Ayah That Made Women Heirs"
 slug: "004-007"
 category: tadabbur
 tags: [nasib, mirath, inheritance, women, fard, mafruda, equality-of-principle, rijal, nisa]
+concepts: [family, law-and-ethics, social-justice, economics, accountability]
 estimated_reading_time: 48
 validated: true
 ---

@@ -1,7 +1,8 @@
 ---
 surah: 1
-surah_name: Al-Fatiha
-ayah: 2
+surah_name: "Al-Fatiha"
+ayah_start: 2
+ayah_end: 2
 title: "The Declaration — Praise That Exists Whether You Say It or Not"
 arabic: "ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ"
 translation: "All praise is to Allah, Lord of the worlds"
@@ -9,7 +10,10 @@ word_count: 4
 estimated_duration: "48-55 minutes"
 generated_by: "quranic-tadabbur skill"
 validated: true
+concepts: [shukr, tawhid, signs-of-allah, creation, tawakkul]
 validation_date: "2026-03-23"
+slug: "001-002"
+category: tadabbur
 ---
 
 <!--

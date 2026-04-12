@@ -1,7 +1,8 @@
 ---
 surah: 88
-surah_name: Al-Ghashiyah
-ayah: 1
+surah_name: "Al-Ghashiyah"
+ayah_start: 1
+ayah_end: 1
 title: "The Question Before the Storm — When Allah Asks Before He Tells"
 arabic: "هَلْ أَتَىٰكَ حَدِيثُ ٱلْغَـٰشِيَةِ"
 translation: "Has there reached you the report of the Overwhelming?"
@@ -10,6 +11,8 @@ estimated_duration: "40-48 minutes"
 generated_by: "quranic-tadabbur skill"
 validated: true
 validation_date: "2026-03-23"
+slug: "088-001"
+category: tadabbur
 ---
 
 <!--

@@ -1,7 +1,8 @@
 ---
 surah: 28
-surah_name: Al-Qasas
-ayah: 7
+surah_name: "Al-Qasas"
+ayah_start: 7
+ayah_end: 7
 title: "Nurse Him, Then Throw Him — The Most Impossible Command in the Quran"
 arabic: "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ"
 translation: "And We inspired to the mother of Musa, 'Nurse him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him one of the messengers.'"
@@ -9,8 +10,8 @@ word_count: 22
 estimated_duration: "50-58 minutes"
 generated_by: "quranic-tadabbur skill"
 validated: false
-slug: "al-qasas-28-7-umm-musa"
-category: "tadabbur"
+slug: "028-007"
+category: tadabbur
 ---
 
 <!--

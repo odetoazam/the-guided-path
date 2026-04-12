@@ -14,6 +14,7 @@ passage_context: "After 5:90-92 prohibited khamr and maysir and demanded that be
 generated_by: "codex-tadabbur"
 validated: false
 tags: [taqwa, ihsan, forgiveness, growth, khamr]
+concepts: [taqwa, ihsan, iman, tawbah, mahabbah]
 ---
 
 <!-- morphology:5:93:1 root=ليس pos=V -->

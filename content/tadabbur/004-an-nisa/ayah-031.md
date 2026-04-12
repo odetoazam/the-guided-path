@@ -14,6 +14,7 @@ passage_context: "After warning against false consumption, destruction, and Fire
 generated_by: "codex-tadabbur"
 validated: false
 tags: [kabair, tawbah, maghfirah, akhirah, hope]
+concepts: [taqwa, tawbah, akhirah, raja, nafs]
 ---
 
 <!-- morphology:4:31:2 root=جنب pos=V -->

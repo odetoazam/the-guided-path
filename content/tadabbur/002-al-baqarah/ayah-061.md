@@ -1,7 +1,8 @@
 ---
 surah: 2
-surah_name: Al-Baqarah
-ayahs: "61"
+surah_name: "Al-Baqarah"
+ayah_start: 61
+ayah_end: 61
 title: "When the Verb of Provision Becomes the Verb of Punishment"
 arabic: "وَإِذْ قُلْتُمْ يَـٰمُوسَىٰ لَن نَّصْبِرَ عَلَىٰ طَعَامٍ وَٰحِدٍ فَٱدْعُ لَنَا رَبَّكَ يُخْرِجْ لَنَا مِمَّا تُنۢبِتُ ٱلْأَرْضُ مِنۢ بَقْلِهَا وَقِثَّآئِهَا وَفُومِهَا وَعَدَسِهَا وَبَصَلِهَا ۖ قَالَ أَتَسْتَبْدِلُونَ ٱلَّذِى هُوَ أَدْنَىٰ بِٱلَّذِى هُوَ خَيْرٌ ۚ ٱهْبِطُوا۟ مِصْرًا فَإِنَّ لَكُم مَّا سَأَلْتُمْ ۗ وَضُرِبَتْ عَلَيْهِمُ ٱلذِّلَّةُ وَٱلْمَسْكَنَةُ وَبَآءُو بِغَضَبٍ مِّنَ ٱللَّهِ ۗ ذَٰلِكَ بِأَنَّهُمْ كَانُوا۟ يَكْفُرُونَ بِـَٔايَـٰتِ ٱللَّهِ وَيَقْتُلُونَ ٱلنَّبِيِّـۧنَ بِغَيْرِ ٱلْحَقِّ ۗ ذَٰلِكَ بِمَا عَصَوا۟ وَّكَانُوا۟ يَعْتَدُونَ"
 translation: "And [recall] when you said, 'O Musa, we can never endure one [kind of] food. So call upon your Lord to bring forth for us from the earth its herbs, its cucumbers, its garlic, its lentils, and its onions.' He said, 'Would you exchange what is better for what is lower? Go down to any settlement and indeed, you will have what you asked for.' And they were struck with humiliation and poverty, and they returned with anger from Allah. That is because they used to disbelieve in the signs of Allah and kill the prophets without right. That is because they disobeyed and used to transgress."
@@ -9,8 +10,11 @@ word_count: 75
 estimated_duration: "50-58 minutes"
 generated_by: "quranic-tadabbur skill"
 validated: true
+concepts: [shukr, prophetic-stories, history, nafs, hidayah]
 validation_date: "2026-03-23"
 passage_context: "Direct continuation of the Bani Israel favors/failures sequence. After water from stone (2:60) with its warning 'eat and drink from Allah's provision and do not corrupt,' they now complain about the very provision they were warned to be grateful for. The progression is stunning: 2:57 — manna and quail sent down. 2:60 — water from stone, with warning. 2:61 — they reject both, demanding vegetables instead. Each verse escalates the ingratitude. And the verb ضرب appears in both: in 2:60 Musa is told to STRIKE the stone (provision), in 2:61 humiliation is STRUCK upon them (punishment). The same verb. Different direction."
+slug: "002-061"
+category: tadabbur
 ---
 
 <!--

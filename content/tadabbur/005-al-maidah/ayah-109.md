@@ -14,6 +14,7 @@ passage_context: "After Al-Ma'idah closes the testimony passage with warning, ta
 generated_by: "codex-tadabbur"
 validated: false
 tags: [akhirah, risalah, knowledge, ghayb, humility]
+concepts: [akhirah, prophethood, resurrection, accountability, prophetic-stories]
 ---
 
 <!-- morphology:5:109:1 root=يوم pos=N -->

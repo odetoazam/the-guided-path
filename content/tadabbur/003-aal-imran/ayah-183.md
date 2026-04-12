@@ -14,6 +14,7 @@ passage_context: "After exposing arrogant speech and reminding them that punishm
 generated_by: "codex-tadabbur"
 validated: false
 tags: [bani-israil, anbiya, sidq]
+concepts: [iman, covenant, prophetic-stories, hidayah, ahl-al-kitab]
 ---
 
 <!-- morphology:3:183:6 root=عهد pos=V -->

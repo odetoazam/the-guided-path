@@ -14,6 +14,7 @@ passage_context: "After Al-Ma'idah moves through covenant, law, purity, sacred f
 generated_by: "codex-tadabbur"
 validated: false
 tags: [mulk, qudrah, tawhid, akhirah, isa]
+concepts: [tawhid, creation, tawakkul, akhirah, signs-of-allah]
 ---
 
 <!-- morphology:5:120:2 root=أله pos=N -->

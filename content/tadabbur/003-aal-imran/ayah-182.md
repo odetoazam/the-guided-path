@@ -14,6 +14,7 @@ passage_context: "Immediately after the exposure and warning of 3:181, this ayah
 generated_by: "codex-tadabbur"
 validated: false
 tags: [zulm, akhirah, bani-israil]
+concepts: [accountability, akhirah, tawbah, nafs]
 ---
 
 <!-- morphology:3:182:6 root=قدم pos=V -->

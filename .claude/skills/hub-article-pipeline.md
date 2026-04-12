@@ -51,9 +51,12 @@ Stop only when:
 ### Session Start Protocol
 At the start of every session triggered by this skill:
 1. Read `scripts/article-backlog.md`
-2. Identify the next ⭐⭐⭐ or ⭐⭐ priority entity with 0 articles
-3. Announce the plan: "Starting with [entity] — [N] articles planned"
-4. Begin Step 1: RESEARCH
+2. Read `docs/knowledge-state.md` — check Coverage Map for angles already taken on this entity, check Cross-Entity Threads for connections to surface, check Priority Gaps for editorial direction
+3. Identify the next ⭐⭐⭐ or ⭐⭐ priority entity with 0 articles
+4. Announce the plan: "Starting with [entity] — [N] articles planned"
+5. Begin Step 1: RESEARCH
+
+**For any article referencing a specific surah's structure or argument:** Before writing, query the DB for that surah's thesis and central_theme (Step 1 SQL). For articles spanning multiple surahs, do this for each surah featured. The surah analysis is the macro frame; do not reconstruct it from memory when a written version exists.
 
 ### Backlog Update Protocol
 At the end of every entity batch (after INSERT is confirmed), immediately:
@@ -61,7 +64,12 @@ At the end of every entity batch (after INSERT is confirmed), immediately:
 2. Check off the articles just written (change `- [ ]` to `- [x]`)
 3. Add the session to the Session Log table with today's date, entity, count, and any notes
 4. Save the file
-5. Continue to the next entity
+5. Update `docs/knowledge-state.md`:
+   - Coverage Map: mark new articles, record angles covered
+   - Cross-Entity Threads: add any connections discovered during research or drafting
+   - Contextual Link Inventory: add any moments noticed during drafting where an existing article should semantically link to a new one (not keyword matching — specific conceptual bridge moments)
+   - Priority Gaps: check off completed items
+6. Continue to the next entity
 
 ---
 
@@ -69,6 +77,7 @@ At the end of every entity batch (after INSERT is confirmed), immediately:
 
 ```
 0. BACKLOG      → Read scripts/article-backlog.md, select next priority entity
+0.5 KNOWLEDGE STATE → Read docs/knowledge-state.md — angles taken, cross-entity threads, contextual links
 1. RESEARCH     → Understand the entity, its Quranic footprint, and existing coverage
 1.5 SURAH INV.  → For prophets/figures in 5+ surahs: map each surah's argument + what it needs from this character
 1.6 CROSS-ENTITY → Identify relationship angle candidates from top co-occurring entities
@@ -80,7 +89,7 @@ At the end of every entity batch (after INSERT is confirmed), immediately:
 5. INSERT       → Insert articles + entity tags into Supabase
 6. AYAH QUEUE   → Log key ayahs for tadabbur to pending queue (see below)
 7. SYNTHESIZE   → Generate hub overview synthesis from the published articles
-8. BACKLOG UPDATE → Update scripts/article-backlog.md
+8. BACKLOG UPDATE → Update scripts/article-backlog.md + docs/knowledge-state.md
 9. NEXT         → Pick next entity from backlog and repeat
 ```
 
@@ -209,6 +218,11 @@ Common angle type patterns (use as coverage checklist):
 | Surah-argument deep-dive | "What Ash-Shu'ara Needs From Musa" | "Why Al-Qasas Begins at Birth, Not the Burning Bush" |
 | Cross-surah distributed portrait | "Shaytan Across Seven Surahs: What Changes Each Time" | "Ibrahim and Isma'il in Al-Baqarah vs. As-Saffat" |
 | Cross-entity contrast | "Musa and Yusuf: Two Kinds of Return" | "Ibrahim and Isma'il vs. Ibrahim and Ishaaq: What Changes" |
+| Parable complete reading | "The Two Garden Owners: Being vs. Having in Al-Kahf" | "The Town of Three Messengers: Moral Isolation in Ya-Sin" |
+| Philosophy / aqida angle | "What the Quran Says About Existence: Wujud Before It Was a Term" | "Tawakkul as a Response to Determinism: Agency in the Prophet Stories" |
+| Theological concept deep-dive | "Fitrah: The Primordial Covenant and What It Obligates" | "What the Quran Means by 'Qalb': A Semantic Archaeology" |
+| Cross-tradition resonance | "The Quran's Four Birds and Neoplatonic Emanation: Convergence and Divergence" | "Ibn Arabi's Barzakh and the Quran's Intermediate Worlds" |
+| Long-form structural analysis | "The Same Story Told Seven Times: How the Quran Retells Adam" | "Musa Across the Quran: The Distributed Portrait" |
 
 Mapping rule: Before committing to a set, write down the angle type and the **primary question** each article answers. If two articles answer the same question differently, that's redundancy — collapse them or replace one with a different angle type.
 
@@ -253,16 +267,33 @@ Articles are stored as `content_html` in the `posts` table. Use this structure:
 ### Writing Rules
 
 1. **Arabic text**: Every Arabic quotation MUST be exact Quranic text. Never paraphrase Arabic.
-2. **Transliteration**: Use consistent transliteration (e.g., Shaytan not Shaitan, taqwa not taqwā).
+2. **Transliteration**: Use sparingly in prose. The Arabic blockquote carries the linguistic weight — prose stays in English. Italicize only Arabic terms with no English equivalent (*zulm*, *tawakkul*, *nafs*). Do not transliterate verb forms, roots, or grammatical observations in running prose; describe them in English instead.
 3. **References**: Always cite surah name + number:ayah (e.g., "Surah Al-A'raf (7:16-17)").
 4. **Length**: See Length Calibration below. Target: 9-12 minutes for most articles.
 5. **Originality**: Don't repeat the same ayahs across articles in the same batch. Each article should surface different Quranic evidence.
 6. **No hadith** unless specifically requested — the platform focuses on Quranic text.
 7. **Entity linking**: When mentioning other entities that exist in the system, note them for tagging.
 
+### Philosophical Lens Selection
+
+When a philosophical or intellectual tradition is drawn into an article, the constraint is: **the lens must illuminate something already latent in the text, not substitute for it.** The test is two-part:
+
+1. **Does the Quran's own categories invite this lens?** A tradition is appropriate when the text has already built something the tradition can name more precisely. Al-Ghazali is appropriate for heart-psychology articles because he is developing the tradition that has the Quran as its primary source. Neoplatonic resonance is appropriate when the Quran's own logic overlaps with it *and the divergence can be named* — the divergence is often more instructive than the resonance.
+
+2. **Does the lens distort or illuminate?** A lens that would require reframing the Quran's categories to fit it (Marxist class struggle, Nietzschean will-to-power, postmodern undecidability) fails. These replace the text's logic rather than clarifying it. The article should always return to where the Quran departs from any external framework.
+
+Available lenses and when they apply:
+- **Islamic intellectual tradition** (Al-Ghazali, Ibn Arabi, Al-Razi, At-Tabari): default — always appropriate, use precisely
+- **Neoplatonism** (Plotinus): when soul/matter/orientation themes are present; always note the Quranic divergence
+- **Phenomenology** (Heidegger's being-toward): when the Quran is examining modes of existence, not just moral categories
+- **Linguistic/semantic** (Izutsu, Saussure): always appropriate when the article's substance is a word or root
+- **Narrative theory** (Dr. Samir Mahmoud's framework): default for any story/parable/character article
+
+Never use a lens because it is interesting. Use it because it makes visible something the reader would otherwise have to take on faith.
+
 ### Length Calibration
 
-Target reading time is **9-12 minutes (roughly 1,800-2,400 words)** for most articles. The outer bounds (8 and 15 minutes) are rarely the right choice.
+Target reading time is **9-12 minutes (roughly 1,800-2,400 words)** for standard hub articles. The outer bounds (8 and 15 minutes) are rarely the right choice for standard pieces.
 
 | Situation | Target | Reason |
 |---|---|---|
@@ -271,7 +302,15 @@ Target reading time is **9-12 minutes (roughly 1,800-2,400 words)** for most art
 | Multi-scene or legacy article | 11-14 min | Multiple Quranic passages must each receive real treatment |
 | Relationship/theology article | 9-11 min | Focused argument, 3-4 sections is enough |
 
-**Hard rule: if you're over 14 minutes, the article is doing two things.** Identify the second thing and cut it or save it for a separate article.
+**Long-form anchor pieces (20-35 min, ~4,000-7,000 words):** A separate category — not "doing two things" but doing one thing completely. Appropriate for:
+- Cross-surah structural analyses (e.g. Adam across seven surahs, Musa's distributed portrait)
+- Complete parable readings where the scene, philosophy, and theological implications all require full treatment
+- Philosophy/aqida angles where building the intellectual framework takes space before the Quranic evidence can land
+- Tier 6 pieces where multiple prophetic arcs must each be built before the synthesis is earned
+
+**Prerequisite for complete parable readings:** Run tadabbur on the relevant ayahs first (or mine existing tadabbur records). The tadabbur surfaces morphological and grammatical observations — subject shifts, root ironies, verb forms — that become the scene layer's raw material. Do not write the parable article before the tadabbur is done or available.
+
+**For long-form pieces:** The "doing two things" test still applies — but at section level, not article level. Each section should have one job. The article can have more sections.
 
 **Hard rule: under 8 minutes is usually underdeveloped**, not concise. Ask: is each ayah actually analyzed, or just quoted? Is each section earning its place?
 
@@ -457,6 +496,33 @@ When an entity mentioned in the article body exists as a hub in the system, link
 ```
 
 After drafting, do a single pass to identify entity mentions and add first-occurrence links. Note these entities in the `entityTags` plan as secondary tags even if they're already linked.
+
+#### Contextual Article Links (Cross-Article Semantic Bridges)
+
+Beyond entity links, articles should contain embedded link candidates: moments in the prose where a naturally written phrase could carry a link to another article — existing or not yet written. These are not keyword links and must not be written as such. The prose is written as normal; the comment simply marks a moment.
+
+**The principle:** A few well-chosen contextual links per article deepen the reading experience. Too many create a jarring, hyperlinked-Wikipedia feel. Aim for 2-4 candidates per article, placed at moments of genuine conceptual resonance — not at every point of contact with another topic.
+
+**How to embed during drafting:**
+When you write a phrase that naturally bridges to a pattern explored (or that should be explored) elsewhere, add an HTML comment immediately after the sentence:
+
+```html
+<p>The man's theology is built on conjecture — a guess dressed as certainty, the assumption that abundance signals divine favor.<!-- LINK: pattern=zanna-as-false-epistemology --></p>
+```
+
+The comment format is: `<!-- LINK: pattern=[one-phrase description of the shared pattern] -->`. No article title. No fake anchor text. The phrase that precedes the comment is the natural link text when a target article exists.
+
+**What the comment does:**
+- During a QA pass: if an article covering that pattern exists, the QA agent inserts `<a href="/posts/{slug}">` around the phrase and removes the comment
+- If no article exists: the comment becomes a backlog signal — it tells the pipeline what article would complete this connection
+- The article writing itself generates implied future articles, not the other way around
+
+**What makes a good candidate (vs. noise):**
+- BAD: marking every mention of a concept ("zulm" appears → comment every use)
+- GOOD: a moment where the current article is doing something another article does from a different angle — the link would let a reader follow the pattern deeper, not just find a definition
+- The shared pattern must be stated precisely: `pattern=zulm-al-nafs-as-self-inflicted-displacement` not `pattern=zulm`
+
+After drafting, add these candidates to the Contextual Link Inventory in `docs/knowledge-state.md` — record the source article, the prose moment, and the pattern. This inventory drives both the QA linking pass and the article backlog.
 
 ---
 

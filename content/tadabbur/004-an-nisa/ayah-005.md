@@ -6,6 +6,7 @@ title: "Your Wealth, Their Trust: The Ayah That Invented Financial Guardianship"
 slug: "004-005"
 category: tadabbur
 tags: [sufaha, amwal, qiyam, rizq, kiswah, ma'ruf, guardianship, orphans, trust, financial-stewardship]
+concepts: [family, law-and-ethics, economics, social-justice, rizq]
 estimated_reading_time: 52
 validated: true
 ---

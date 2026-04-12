@@ -14,6 +14,7 @@ passage_context: "After warning believers to expect trial and hurtful speech, Su
 generated_by: "codex-tadabbur"
 validated: false
 tags: [ahl-al-kitab, quran, sidq]
+concepts: [covenant, quran, hidayah, ahl-al-kitab, law-and-ethics]
 ---
 
 <!-- morphology:3:187:3 root=أخذ pos=V -->

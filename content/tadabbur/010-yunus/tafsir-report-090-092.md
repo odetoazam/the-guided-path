@@ -1,0 +1,70 @@
+# Tafsir Cross-Reference Report
+
+Generated: 2026-04-06
+Ayahs referenced: 3
+Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), al-Jalalayn (Arabic)
+
+---
+
+## 10:90
+
+### Ibn Kathir (English)
+
+The Children of Israel were saved and Fir`awn's People drowned
+Allah tells us how He caused Fir`awn and his soldiers to drown. The Children of Israel left Egypt in the company of Musa. It was said that there were six hundred thousand soldiers, plus offspring. They borrowed a lot of ornaments from the Coptics and took that with them. Fir`awn became very angry with them. So he sent heralds to all the cities to send their soldiers. He embarked, following behind them, filled with great pride and ...
+
+### al-Tabari (Arabic)
+
+القول في تأويل قوله تعالى :  وَجَاوَزْنَا بِبَنِي إِسْرَائِيلَ الْبَحْرَ فَأَتْبَعَهُمْ فِرْعَوْنُ وَجُنُودُهُ بَغْيًا وَعَدْوًا حَتَّى إِذَا أَدْرَكَهُ الْغَرَقُ قَالَ آمَنْتُ أَنَّهُ لا إِلَهَ إِلا الَّذِي آمَنَتْ بِهِ بَنُو إِسْرَائِيلَ وَأَنَا مِنَ الْمُسْلِمِينَ (90)قال أبو جعفر: يقول تعالى ذكره: وقطعنا ببني إسرائيل البحر حتى جاوزوه (7)  ، (فأتبعهم فرعون) ، يقول: فتَبعهم فرعون (وجنوده) .،  يقال منه " أتْبَعته " و " تبعته "، بمعنى واحد.وقد كان الكسائي فيما ذكر أبو عبيد عنه يقول: إذا أريد ...
+
+### al-Muyassar (Arabic)
+
+وقطَعْنا ببني إسرائيل البحر حتى جاوزوه، فأتبعهم فرعون وجنوده ظلمًا وعدوانًا، فسلكوا البحر وراءهم، حتى إذا أحاط بفرعون الغرق قال: آمنتُ أنه لا إله إلا الذي آمنتْ به بنو إسرائيل، وأنا من الموحدين المستسلمين بالانقياد والطاعة.
+
+### al-Jalalayn (Arabic)
+
+*Not available for this ayah*
+
+---
+
+## 10:91
+
+### Ibn Kathir (English)
+
+The Children of Israel were saved and Fir`awn's People drowned
+Allah tells us how He caused Fir`awn and his soldiers to drown. The Children of Israel left Egypt in the company of Musa. It was said that there were six hundred thousand soldiers, plus offspring. They borrowed a lot of ornaments from the Coptics and took that with them. Fir`awn became very angry with them. So he sent heralds to all the cities to send their soldiers. He embarked, following behind them, filled with great pride and ...
+
+### al-Tabari (Arabic)
+
+القول في تأويل قوله تعالى :  آلآنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنْتَ مِنَ الْمُفْسِدِينَ (91)قال أبو جعفر: يقول تعالى ذكره ، معرِّفًا فرعون قبح صَنيعه أيّام حياته وإساءته إلى نفسه أيام صحته، بتماديه في طغيانه ، ومعصيته ربه ، حين فزع إليه في حال حلول سَخطه به ونـزول عقابه، مستجيرًا به من عذابه الواقع به ، لما ناداه وقد علته أمواج البحر ، وغشيته كرَبُ الموت:  آمَنْتُ أَنَّهُ لا إِلَهَ إِلا الَّذِي آمَنَتْ بِهِ بَنُو إِسْرَائِيلَ وَأَنَا مِنَ الْمُسْلِمِينَ  له، المنقادين بالذلة له، المعترفين بالع...
+
+### al-Muyassar (Arabic)
+
+آلآن يا فرعون، وقد نزل بك الموت تقرُّ لله بالعبودية، وقد عصيته قبل نزول عذابه بك، وكنت من المفسدين الصادين عن سبيله!! فلا تنفعك التوبة ساعة الاحتضار ومشاهدة الموت والعذاب.
+
+### al-Jalalayn (Arabic)
+
+*Not available for this ayah*
+
+---
+
+## 10:92
+
+### Ibn Kathir (English)
+
+The Children of Israel were saved and Fir`awn's People drowned
+Allah tells us how He caused Fir`awn and his soldiers to drown. The Children of Israel left Egypt in the company of Musa. It was said that there were six hundred thousand soldiers, plus offspring. They borrowed a lot of ornaments from the Coptics and took that with them. Fir`awn became very angry with them. So he sent heralds to all the cities to send their soldiers. He embarked, following behind them, filled with great pride and ...
+
+### al-Tabari (Arabic)
+
+القول في تأويل قوله تعالى :  فَالْيَوْمَ نُنَجِّيكَ بِبَدَنِكَ لِتَكُونَ لِمَنْ خَلْفَكَ آيَةً وَإِنَّ كَثِيرًا مِنَ النَّاسِ عَنْ آيَاتِنَا لَغَافِلُونَ (92)قال أبو جعفر: يقول تعالى ذكره لفرعون: اليوم نجعلك على نَجْوةٍ من الأرض ببدنك، ينظر إليك هالكًا من كذّب بهلاكك  ، (لتكون لمن خلفك آية)، يقول: لمن بعدك من الناس عبرة يعتبرون بك، ، فينـزجرون عن معصية الله ، والكفر به والسعي في أرضه بالفساد.،  و " النجوة "، الموضع المرتفع على ما حوله من الأرض، ومنه قوله أوس بن حجر:فَمَــنْ بِعَقْوَتِــهِ كَـ...
+
+### al-Muyassar (Arabic)
+
+فاليوم نجعلك على مرتفع من الأرض ببدنك، ينظر إليك من كذَّب بهلاكك؛ لتكون لمن بعدك من الناس عبرة يعتبرون بك. فإن كثيرًا من الناس عن حججنا وأدلتنا لَغافلون، لا يتفكرون فيها ولا يعتبرون.
+
+### al-Jalalayn (Arabic)
+
+*Not available for this ayah*
+
+---

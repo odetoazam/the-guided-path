@@ -14,6 +14,7 @@ passage_context: "Surah Al-Maidah addresses the People of the Book directly and 
 generated_by: "claude-opus"
 validated: false
 tags: [isa, maryam, sidq, risalah, uluhiyyah]
+concepts: [tawhid, prophethood, signs-of-allah, ahl-al-kitab, fitrah]
 ---
 
 <!-- morphology:5:75:3 root=مسح pos=N -->

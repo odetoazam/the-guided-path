@@ -14,6 +14,7 @@ passage_context: "Ayah 4:58 is one of the most comprehensive ethical commands in
 generated_by: "claude-opus"
 validated: true
 tags: [amanah, adl, hukm, sami, basir, governance, trust]
+concepts: [law-and-ethics, social-justice, ummah, accountability, taqwa]
 ---
 
 <!-- morphology:4:58:3 root=أمر pos=V -->

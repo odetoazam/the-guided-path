@@ -6,6 +6,7 @@ title: "The Gift That Proves You Mean It: When Allah Made the Dowry a Test of Tr
 slug: "004-004"
 category: tadabbur
 tags: [saduqat, nihlah, mahr, consent, nafs, hani, mari, marriage, financial-rights, women]
+concepts: [family, law-and-ethics, nafs, economics, social-justice]
 estimated_reading_time: 50
 validated: true
 ---

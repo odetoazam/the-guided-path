@@ -6,6 +6,7 @@ title: "The Test, the Tenderness, and the Ticking Clock: How Allah Designed the 
 slug: "004-006"
 category: tadabbur
 tags: [yatama, ibtila, inas, rushd, daf', israf, bidar, ista'faf, hasib, guardianship, maturity, orphans]
+concepts: [family, law-and-ethics, accountability, divine-testing, economics]
 estimated_reading_time: 55
 validated: true
 ---

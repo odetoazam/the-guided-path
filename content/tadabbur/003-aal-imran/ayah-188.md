@@ -14,6 +14,7 @@ passage_context: "After condemning those who concealed revelation for a petty pr
 generated_by: "codex-tadabbur"
 validated: false
 tags: [nifaq, kibr, sidq]
+concepts: [nafs, ihsan, accountability, tawbah]
 ---
 
 <!-- morphology:3:188:2 root=حسب pos=V -->

@@ -14,6 +14,7 @@ passage_context: "After four ayahs resetting the heart through declarations of d
 generated_by: "opus-tadabbur"
 validated: false
 tags: [justice, qist, self-accountability, bias, hawaa, qawwam, divine-names]
+concepts: [social-justice, nafs, taqwa, accountability, qalb]
 ---
 
 <!-- morphology:4:135:5 root=أمن pos=V -->

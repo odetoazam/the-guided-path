@@ -14,6 +14,7 @@ passage_context: "After exposing diseased hearts that rush toward fearful allian
 generated_by: "codex-tadabbur"
 validated: false
 tags: [wilayah, hizb-allah, allegiance, victory, trust]
+concepts: [iman, tawakkul, ummah, taqwa, akhirah]
 ---
 
 <!-- morphology:5:56:3 root=ولي pos=V -->

@@ -14,6 +14,7 @@ passage_context: "Surah An-Nisa closes by returning to family law after long pas
 generated_by: "codex-tadabbur"
 validated: false
 tags: [fatwa, inheritance, family, clarity, guidance]
+concepts: [family, law-and-ethics, hidayah, taqwa, rizq]
 ---
 
 <!-- morphology:4:176:1 root=فتي pos=V -->

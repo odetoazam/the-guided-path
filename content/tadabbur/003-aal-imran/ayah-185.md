@@ -14,6 +14,7 @@ passage_context: "After recounting denial, prophetic rejection, and the moral co
 generated_by: "codex-tadabbur"
 validated: false
 tags: [akhirah, qiyamah, dunya, jannah, jahannam]
+concepts: [akhirah, resurrection, jannah, jahannam, time-and-urgency]
 ---
 
 <!-- morphology:3:185:2 root=نفس pos=N -->

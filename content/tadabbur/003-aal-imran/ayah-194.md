@@ -14,6 +14,7 @@ passage_context: "The closing du'a of Surah Aal-Imran now reaches its final tend
 generated_by: "codex-tadabbur"
 validated: false
 tags: [akhirah, rasul, waad]
+concepts: [prophethood, akhirah, resurrection, raja, tawakkul]
 ---
 
 <!-- morphology:3:194:1 root=ربب pos=N -->

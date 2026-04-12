@@ -14,6 +14,7 @@ passage_context: "Immediately after 4:41 evokes the scene of every nation brough
 generated_by: "codex-tadabbur"
 validated: false
 tags: [akhirah, shahadah, regret, rasul, truth]
+concepts: [akhirah, accountability, prophethood, resurrection, iman]
 ---
 
 <!-- morphology:4:42:1 root=يوم pos=N -->

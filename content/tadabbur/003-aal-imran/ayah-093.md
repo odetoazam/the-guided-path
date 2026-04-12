@@ -14,6 +14,7 @@ passage_context: "In this stretch of Surah Aal-Imran, the Quran is exposing fals
 generated_by: "codex-tadabbur"
 validated: false
 tags: [bani-israil, sidq]
+concepts: [ahl-al-kitab, quran, hidayah, law-and-ethics]
 ---
 
 <!-- morphology:3:93:5 root=حلل pos=N -->

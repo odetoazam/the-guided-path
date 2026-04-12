@@ -14,6 +14,7 @@ passage_context: "After 4:15 addressed grave public indecency with witness and c
 generated_by: "codex-tadabbur"
 validated: false
 tags: [tawbah, islah, rahmah]
+concepts: [tawbah, nafs, law-and-ethics, ummah, ihsan]
 ---
 
 <!-- morphology:4:16:3 root=أتي pos=V -->

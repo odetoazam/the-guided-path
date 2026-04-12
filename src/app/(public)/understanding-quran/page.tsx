@@ -906,36 +906,44 @@ export default function UnderstandingQuranPage() {
               <div className="border-t border-zinc-200 dark:border-zinc-800 px-5 py-4">
             <dl className="space-y-3">
               {[
-                { term: 'Amud', slug: 'amud', arabic: 'عمود', def: 'The central thesis or governing idea of a surah — its unifying pillar.' },
-                { term: 'Asbab al-Nuzul', slug: 'asbab-al-nuzul', arabic: 'أسباب النزول', def: 'The historical occasions or events that prompted the revelation of specific verses.' },
-                { term: "Awzan al-Af'al", slug: 'awzan-al-afal', arabic: 'أوزان الأفعال', def: 'The ten standard Arabic verb forms, each adding a specific layer of meaning to the root.' },
-                { term: 'Balaghah', slug: 'balaghah', arabic: 'بلاغة', def: "Arabic rhetoric — the science of eloquent, appropriate, and effective language. Contains three sub-disciplines: ilm al-ma'ani, ilm al-bayan, and ilm al-badi'." },
-                { term: 'Fasila', slug: 'fasila', arabic: 'فاصلة', def: 'The closing sound or rhyme at the end of each Quranic ayah — carrying both sonic and semantic weight.' },
-                { term: 'Hadhf', slug: 'hadhf', arabic: 'حذف', def: 'Intentional grammatical omission — leaving out an expected element to create emphasis or implication.' },
-                { term: "Ilm al-Badi'", slug: 'ilm-al-badi', arabic: 'علم البديع', def: 'The branch of rhetoric dealing with stylistic embellishments: paronomasia, antithesis, and sound devices.' },
-                { term: 'Ilm al-Bayan', slug: 'ilm-al-bayan', arabic: 'علم البيان', def: 'The branch of rhetoric dealing with figurative language: simile, metaphor, and implication.' },
-                { term: "Ilm al-Ma'ani", slug: 'ilm-al-maani', arabic: 'علم المعاني', def: 'The branch of rhetoric dealing with meaning through sentence structure, word order, and grammatical choices.' },
-                { term: 'Iltifat', slug: 'iltifat', arabic: 'التفات', def: 'A deliberate shift in grammatical person, number, or tense — creating an emotional jolt or change of perspective.' },
-                { term: "Isti'ara", slug: 'istiara', arabic: 'استعارة', def: 'Metaphor — describing one thing as if it IS another, without a comparison word.' },
-                { term: "Jumlah Fi'liyyah", slug: 'jumlah-filiyyah', arabic: 'جملة فعلية', def: 'Verb sentence — describes an action or event; implies temporality.' },
-                { term: 'Jumlah Ismiyyah', slug: 'jumlah-ismiyyah', arabic: 'جملة اسمية', def: 'Noun sentence — describes a permanent state or ongoing reality.' },
-                { term: 'Kinaya', slug: 'kinaya', arabic: 'كناية', def: 'Implication/metonymy — saying one thing to imply another, without stating it directly.' },
-                { term: 'Makki / Madani', slug: 'makki-madani', arabic: 'مكية/مدنية', def: 'Surahs revealed before (Makki) or after (Madani) the Hijra to Madinah.' },
-                { term: "Munasabat al-Suwar", slug: 'munasabat-al-suwar', arabic: 'مناسبات السور', def: 'The thematic connections and conversations between adjacent surahs.' },
-                { term: 'Nazm', slug: 'nazm', arabic: 'نظم', def: "The internal coherence and logical ordering of a surah — how its sections flow from each other." },
-                { term: 'Qasam', slug: 'qasam', arabic: 'قَسَم', def: 'A divine oath. Surahs that open with "wa" (by) are using qasam. The object sworn by is always chosen for its thematic relationship to the assertion that follows.' },
-                { term: "Qasas al-Quran", slug: 'qasas-al-quran', arabic: 'قصص القرآن', def: "Quranic narrative. Quranic stories are not historical chronicles but purposive compositions shaped by the surah's amud." },
-                { term: 'Sarf', slug: 'sarf', arabic: 'صرف', def: "Arabic morphology — the science of word-forms derived from three-letter roots." },
-                { term: 'Tadabbur', slug: 'tadabbur', arabic: 'تدبّر', def: 'Deep, sustained contemplative reflection on the Quran — the goal of all this analysis.' },
-                { term: 'Tafsir', slug: 'tafsir', arabic: 'تفسير', def: 'The scholarly discipline of explaining and interpreting the Quran.' },
-                { term: "Taqdim wa Ta'khir", slug: 'taqdim-wa-takhir', arabic: 'تقديم وتأخير', def: 'Fronting — placing an element before its grammatically expected position to create emphasis or restriction.' },
-                { term: 'Tashbih', slug: 'tashbih', arabic: 'تشبيه', def: 'Simile — comparing two things using an explicit comparison word.' },
-                { term: 'Tibaq', slug: 'tibaq', arabic: 'طباق', def: 'Antithesis — pairing opposites to sharpen both sides.' },
-              ].map(({ term, slug: _slug, arabic, def }) => (
-                // TODO: Link each term to /glossary/{slug} when glossary pages are built
+                { term: 'Amud', slug: 'amud', arabic: 'عمود', def: 'The central thesis or governing idea of a surah — its unifying pillar.', linked: false },
+                { term: 'Asbab al-Nuzul', slug: 'asbab-al-nuzul', arabic: 'أسباب النزول', def: 'The historical occasions or events that prompted the revelation of specific verses.', linked: true },
+                { term: "Awzan al-Af'al", slug: 'awzan-al-afal', arabic: 'أوزان الأفعال', def: 'The ten standard Arabic verb forms, each adding a specific layer of meaning to the root.', linked: false },
+                { term: 'Balaghah', slug: 'balaghah', arabic: 'بلاغة', def: "Arabic rhetoric — the science of eloquent, appropriate, and effective language. Contains three sub-disciplines: ilm al-ma'ani, ilm al-bayan, and ilm al-badi'.", linked: true },
+                { term: 'Fasila', slug: 'fasila', arabic: 'فاصلة', def: 'The closing sound or rhyme at the end of each Quranic ayah — carrying both sonic and semantic weight.', linked: false },
+                { term: 'Hadhf', slug: 'hadhf', arabic: 'حذف', def: 'Intentional grammatical omission — leaving out an expected element to create emphasis or implication.', linked: false },
+                { term: "Ilm al-Badi'", slug: 'ilm-al-badi', arabic: 'علم البديع', def: 'The branch of rhetoric dealing with stylistic embellishments: paronomasia, antithesis, and sound devices.', linked: false },
+                { term: 'Ilm al-Bayan', slug: 'ilm-al-bayan', arabic: 'علم البيان', def: 'The branch of rhetoric dealing with figurative language: simile, metaphor, and implication.', linked: false },
+                { term: "Ilm al-Ma'ani", slug: 'ilm-al-maani', arabic: 'علم المعاني', def: 'The branch of rhetoric dealing with meaning through sentence structure, word order, and grammatical choices.', linked: false },
+                { term: 'Iltifat', slug: 'iltifat', arabic: 'التفات', def: 'A deliberate shift in grammatical person, number, or tense — creating an emotional jolt or change of perspective.', linked: false },
+                { term: "Isti'ara", slug: 'istiara', arabic: 'استعارة', def: 'Metaphor — describing one thing as if it IS another, without a comparison word.', linked: false },
+                { term: "Jumlah Fi'liyyah", slug: 'jumlah-filiyyah', arabic: 'جملة فعلية', def: 'Verb sentence — describes an action or event; implies temporality.', linked: false },
+                { term: 'Jumlah Ismiyyah', slug: 'jumlah-ismiyyah', arabic: 'جملة اسمية', def: 'Noun sentence — describes a permanent state or ongoing reality.', linked: false },
+                { term: 'Kinaya', slug: 'kinaya', arabic: 'كناية', def: 'Implication/metonymy — saying one thing to imply another, without stating it directly.', linked: false },
+                { term: 'Makki / Madani', slug: 'makki-madani', arabic: 'مكية/مدنية', def: 'Surahs revealed before (Makki) or after (Madani) the Hijra to Madinah.', linked: true },
+                { term: "Munasabat al-Suwar", slug: 'munasabat-al-suwar', arabic: 'مناسبات السور', def: 'The thematic connections and conversations between adjacent surahs.', linked: false },
+                { term: 'Nazm', slug: 'nazm', arabic: 'نظم', def: "The internal coherence and logical ordering of a surah — how its sections flow from each other.", linked: true },
+                { term: 'Qasam', slug: 'qasam', arabic: 'قَسَم', def: 'A divine oath. Surahs that open with "wa" (by) are using qasam. The object sworn by is always chosen for its thematic relationship to the assertion that follows.', linked: false },
+                { term: "Qasas al-Quran", slug: 'qasas-al-quran', arabic: 'قصص القرآن', def: "Quranic narrative. Quranic stories are not historical chronicles but purposive compositions shaped by the surah's amud.", linked: false },
+                { term: 'Sarf', slug: 'sarf', arabic: 'صرف', def: "Arabic morphology — the science of word-forms derived from three-letter roots.", linked: false },
+                { term: 'Tadabbur', slug: 'tadabbur', arabic: 'تدبّر', def: 'Deep, sustained contemplative reflection on the Quran — the goal of all this analysis.', linked: true },
+                { term: 'Tafsir', slug: 'tafsir', arabic: 'تفسير', def: 'The scholarly discipline of explaining and interpreting the Quran.', linked: true },
+                { term: "Taqdim wa Ta'khir", slug: 'taqdim-wa-takhir', arabic: 'تقديم وتأخير', def: 'Fronting — placing an element before its grammatically expected position to create emphasis or restriction.', linked: false },
+                { term: 'Tashbih', slug: 'tashbih', arabic: 'تشبيه', def: 'Simile — comparing two things using an explicit comparison word.', linked: false },
+                { term: 'Tibaq', slug: 'tibaq', arabic: 'طباق', def: 'Antithesis — pairing opposites to sharpen both sides.', linked: false },
+              ].map(({ term, slug, arabic, def, linked }) => (
                 <div key={term} className="flex flex-col gap-0.5 border-b border-zinc-200 dark:border-zinc-800/40 pb-3 sm:flex-row sm:gap-4">
                   <dt className="flex min-w-[220px] items-baseline gap-2 shrink-0">
-                    <span className="text-sm font-medium text-zinc-700 dark:text-zinc-300">{term}</span>
+                    {linked ? (
+                      <Link
+                        href={`/glossary/${slug}`}
+                        className="text-sm font-medium text-zinc-700 underline decoration-[rgba(212,175,55,0.4)] underline-offset-4 transition-colors hover:text-[rgba(212,175,55,0.9)] hover:decoration-[rgba(212,175,55,0.8)] dark:text-zinc-300"
+                      >
+                        {term}
+                      </Link>
+                    ) : (
+                      <span className="text-sm font-medium text-zinc-700 dark:text-zinc-300">{term}</span>
+                    )}
                     <span className="font-amiri text-sm text-[rgba(212,175,55,0.6)]">{arabic}</span>
                   </dt>
                   <dd className="text-sm text-zinc-500 dark:text-zinc-400">{def}</dd>

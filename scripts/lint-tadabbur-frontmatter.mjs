@@ -64,7 +64,7 @@ function lintFile(filePath) {
 
   // Soft warnings — worth fixing but not blocking
   if (!fm.title) warns.push('Missing title')
-  if (!fm.tags && !fm.entity_tags) warns.push('No tags or entity_tags')
+  if (!fm.tags && !fm.entity_tags && !fm.concepts) warns.push('No tags, concepts, or entity_tags')
   if (fm.word_count === 'null' || !fm.word_count) warns.push('word_count not set')
 
   return { filePath, errors, warns }

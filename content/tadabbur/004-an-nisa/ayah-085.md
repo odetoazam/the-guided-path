@@ -14,6 +14,7 @@ passage_context: "After commanding the Messenger to act without letting others' 
 generated_by: "codex-tadabbur"
 validated: false
 tags: [shafaa, responsibility, speech, accountability, ethics]
+concepts: [accountability, law-and-ethics, social-justice, akhirah, dawah]
 ---
 
 <!-- morphology:4:85:2 root=شفع pos=V -->

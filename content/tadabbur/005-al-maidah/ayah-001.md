@@ -14,6 +14,7 @@ passage_context: "Surah Al-Maidah opens with a direct summons to the believers a
 generated_by: "codex-tadabbur"
 validated: false
 tags: [covenant, contracts, halal, ihram, obedience]
+concepts: [covenant, iman, law-and-ethics, ibadah, taqwa]
 ---
 
 <!-- morphology:5:1:5 root=أمن pos=V -->

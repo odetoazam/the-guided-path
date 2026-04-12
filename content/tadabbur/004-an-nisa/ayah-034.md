@@ -14,6 +14,7 @@ passage_context: "Surah An-Nisa (The Women) was revealed in Medina, during the p
 generated_by: "claude-opus"
 validated: true
 tags: [qiwamah, nisa, zawj, nushuz, taqwa, infaq, adab]
+concepts: [family, law-and-ethics, taqwa, social-justice, ihsan]
 ---
 
 <!-- morphology:4:34:2 root=رجل pos=N -->

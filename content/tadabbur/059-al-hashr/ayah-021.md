@@ -13,6 +13,9 @@ themes:
   - "The Mountain That Knew What You Forgot — creation has spiritual sensitivity the human heart has lost"
   - "The Hardest Thing in Existence — not rock but a heart that hears the Quran and remains unmoved"
 validated: false
+slug: "059-021"
+category: tadabbur
+word_count: 2767
 ---
 
 <!-- step0_table

@@ -1,6 +1,6 @@
 ---
 surah_number: 21
-surah_name: Al-Anbiya
+surah_name: "Al-Anbiya"
 ayah_start: 96
 ayah_end: 96
 title: "The Breach From Every Height"
@@ -8,6 +8,9 @@ arabic_text: "حَتَّىٰ إِذَا فُتِحَتْ يَأْجُوجُ وَ
 translation: "Until when Gog and Magog are let loose and they descend from every elevation."
 status: published
 layer: a
+slug: "021-096"
+category: tadabbur
+word_count: 1069
 ---
 
 <!-- ayah:21:96 --> حَتَّىٰ إِذَا فُتِحَتْ يَأْجُوجُ وَمَأْجُوجُ وَهُم مِّن كُلِّ حَدَبٍ يَنسِلُونَ

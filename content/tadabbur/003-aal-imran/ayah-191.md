@@ -14,6 +14,7 @@ passage_context: "After describing the heavens, earth, night, and day as signs f
 generated_by: "codex-tadabbur"
 validated: false
 tags: [dhikr, tafakkur, akhirah, jahannam]
+concepts: [dhikr, ibadah, creation, jahannam, dua]
 ---
 
 <!-- morphology:3:191:2 root=ذكر pos=V -->

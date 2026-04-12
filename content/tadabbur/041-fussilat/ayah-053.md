@@ -13,6 +13,9 @@ themes:
   - "The Two Theaters — every sign exists in the cosmos outside you and the cosmos inside you"
   - "The Question After the Evidence — when Allah asks 'wasn't I enough?' He redefines what proof was for"
 validated: false
+slug: "041-053"
+category: tadabbur
+word_count: 3870
 ---
 
 <!-- step0_table

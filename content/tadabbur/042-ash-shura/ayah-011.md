@@ -1,7 +1,8 @@
 ---
 surah: 42
-surah_name: Ash-Shura
-ayahs: "11"
+surah_name: "Ash-Shura"
+ayah_start: 11
+ayah_end: 11
 title: "Nothing Like His Likeness — The Six Words That Broke Every Comparison"
 arabic: "فَاطِرُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ جَعَلَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًا وَمِنَ ٱلْأَنْعَـٰمِ أَزْوَٰجًا ۖ يَذْرَؤُكُمْ فِيهِ ۚ لَيْسَ كَمِثْلِهِۦ شَىْءٌ ۖ وَهُوَ ٱلسَّمِيعُ ٱلْبَصِيرُ"
 translation: "[He is] Originator of the heavens and the earth. He has made for you from yourselves mates, and among the cattle, mates; He multiplies you thereby. There is nothing like His likeness, and He is the Hearing, the Seeing."
@@ -12,6 +13,8 @@ validated: true
 validation_date: "2026-04-02"
 passage_context: "Ash-Shura (The Consultation) is a late Meccan surah positioned at the heart of the Ḥā Mīm cluster (surahs 40-46), seven surahs that all open with these two letters and share a thematic preoccupation with revelation, the nature of divine communication, and the human response to the message. Ayah 42:11 arrives after the surah has established that Allah sends revelation by His command (42:3), that the heavens almost break apart from above while the angels glorify and seek forgiveness for those on earth (42:5), and that those who take protectors besides Allah — Allah is their watchful guardian (42:6). The ayah is a theological watershed: it simultaneously declares total divine transcendence (laysa kamithlihi shay') and total divine intimacy (wa huwa al-Samī' al-Baṣīr). This is the ayah that broke the history of theology in half — every attempt to describe God must pass through these six words and survive, or be discarded."
 scholarly_note: "The phrase لَيْسَ كَمِثْلِهِۦ شَىْءٌ has been the subject of extensive scholarly discussion across grammar, theology, and philosophy. The central grammatical question: is the كَ (ka, 'like') in كَمِثْلِهِ emphatic/redundant (zā'ida — added for rhetorical emphasis, making the meaning 'nothing is like Him') or literal (making the meaning 'nothing is like His likeness' — a double negation that negates even the concept of similarity)? Al-Zamakhshari (al-Kashshāf) argued the ka is zā'ida for emphasis, meaning: 'there is nothing like Him.' This is the majority position. Al-Rāzī (Mafātīḥ al-Ghayb) explored both readings but favored the literal reading as deeper: if nothing is like His likeness, then His likeness itself is an impossibility — you cannot even form the concept of a comparison because the comparison has no referent. Ibn Kathir reported both positions and noted that the phrase is the strongest possible negation of tashbīh (anthropomorphism). The Ash'ari and Maturidi schools both use this ayah as the foundational proof-text for tanzīh (divine transcendence beyond comparison). The Mu'tazila used it to argue against the Beatific Vision (ru'yah). The Athari school reads it as a straightforward negation of all likeness while affirming whatever attributes Allah affirmed for Himself. The closing وَهُوَ ٱلسَّمِيعُ ٱلْبَصِيرُ is understood by scholars as the corrective balance: after declaring absolute transcendence, Allah immediately affirms two attributes of intimate proximity — He hears and He sees — preventing the listener from concluding that transcendence means distance. The word فَاطِرُ (Fāṭir, Originator) from root ف-ط-ر carries the primary meaning of splitting/cleaving open. Ibn Abbas reported that he only understood the meaning of fāṭir when two Bedouins came disputing over a well, and one said 'anā faṭartuhā' — 'I split it open / I originated it.' The verb ذَرَأَ (dhara'a) means to scatter, sow, multiply — and the pronoun فِيهِ ('in it' / 'through it') has been debated: does it refer to the pairing system (He multiplies you through pairing) or to the earth? Most scholars favor the pairing system as the referent."
+slug: "042-011"
+category: tadabbur
 ---
 
 <!--

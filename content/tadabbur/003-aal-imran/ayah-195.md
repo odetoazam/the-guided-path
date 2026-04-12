@@ -14,6 +14,7 @@ passage_context: "After the believers' long closing prayer in Surah Aal-Imran - 
 generated_by: "codex-tadabbur"
 validated: false
 tags: [akhirah, hijrah, jihad, maghfirah, jannah]
+concepts: [jannah, accountability, divine-testing, sabr, akhirah]
 ---
 
 <!-- morphology:3:195:2 root=جوب pos=V -->

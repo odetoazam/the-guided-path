@@ -14,6 +14,7 @@ passage_context: "After speaking about major sins, lawful wealth, and moral boun
 generated_by: "codex-tadabbur"
 validated: false
 tags: [qanaah, envy, rizq, dua, justice]
+concepts: [rizq, dua, nafs, tawhid, tawakkul]
 ---
 
 <!-- morphology:4:32:3 root=مني pos=V -->

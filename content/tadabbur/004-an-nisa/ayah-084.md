@@ -14,6 +14,7 @@ passage_context: "After exposing hearts that feared people more than Allah when 
 generated_by: "codex-tadabbur"
 validated: false
 tags: [taklif, tahrid, tawakkul, qital, courage]
+concepts: [tawakkul, nafs, iman, ibadah, dawah]
 ---
 
 <!-- morphology:4:84:7 root=كلف pos=V -->

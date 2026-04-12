@@ -14,6 +14,7 @@ passage_context: "After 5:106-107 laid out a careful procedure for deathbed test
 generated_by: "codex-tadabbur"
 validated: false
 tags: [testimony, oaths, justice, taqwa, amanah]
+concepts: [taqwa, law-and-ethics, accountability, social-justice, khashyah]
 ---
 
 <!-- morphology:5:108:4 root=دنو pos=N -->

@@ -14,6 +14,7 @@ passage_context: "After Al-Ma'idah has shown the devastation of corruption in th
 generated_by: "codex-tadabbur"
 validated: false
 tags: [taqwa, wasilah, jihad, nearness, falah]
+concepts: [taqwa, ibadah, ihsan, mahabbah, tawakkul]
 ---
 
 <!-- morphology:5:35:7 root=وقي pos=V -->

@@ -1,7 +1,8 @@
 ---
 surah: 19
-surah_name: Maryam
-ayah: 4
+surah_name: "Maryam"
+ayah_start: 4
+ayah_end: 4
 title: "A Head on Fire — How Zakariyya Taught the World to Ask"
 arabic: "قَالَ رَبِّ إِنِّى وَهَنَ ٱلْعَظْمُ مِنِّى وَٱشْتَعَلَ ٱلرَّأْسُ شَيْبًا وَلَمْ أَكُنۢ بِدُعَآئِكَ رَبِّ شَقِيًّا"
 translation: "My Lord, indeed my bones have weakened within me, and my head has ignited with grey hair, and never have I been in my supplication to You, my Lord, unhappy."
@@ -9,8 +10,8 @@ word_count: 13
 estimated_duration: "50-58 minutes"
 generated_by: "quranic-tadabbur skill"
 validated: true
-slug: "maryam-19-4-zakariyya-prayer"
-category: "tadabbur"
+slug: "019-004"
+category: tadabbur
 ---
 
 <!--

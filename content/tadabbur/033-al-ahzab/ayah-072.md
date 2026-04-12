@@ -2,7 +2,8 @@
 title: "The Recklessness That Made You Human — Why the Cosmos Said No and You Said Yes"
 surah: 33
 surah_name: "Al-Ahzab"
-ayah_range: "72"
+ayah_start: 72
+ayah_end: 72
 estimated_duration: "52-60 minutes"
 validated: true
 arabic_verified: true
@@ -16,6 +17,9 @@ themes:
   - "The Courage of Inadequacy — carrying what you're not qualified to carry"
   - "The Offer That Made Us Human — before the trust, you weren't yet you"
 methodology: "tafsir_bil_dirayah_with_riwayah"
+slug: "033-072"
+category: tadabbur
+word_count: 3859
 ---
 
 <!-- STEP 0: LINGUISTIC GROUNDING AUDIT -->

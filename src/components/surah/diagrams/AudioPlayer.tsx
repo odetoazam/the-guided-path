@@ -11,6 +11,7 @@ export function AudioPlayer({ audio }: AudioPlayerProps) {
   const [progress, setProgress] = useState(0)
   const [currentTime, setCurrentTime] = useState(0)
   const [duration, setDuration] = useState(0)
+  const [unavailable, setUnavailable] = useState(false)
   const audioRef = useRef<HTMLAudioElement>(null)
   const progressRef = useRef<HTMLDivElement>(null)
   const src = `https://cdn.islamic.network/quran/audio-surah/128/${audio.reciter}/${audio.surahNumber}.mp3`
@@ -44,6 +45,8 @@ export function AudioPlayer({ audio }: AudioPlayerProps) {
     const sec = Math.floor(s % 60)
     return `${m}:${sec.toString().padStart(2, '0')}`
   }
+
+  if (unavailable) return null
 
   return (
     <div className="rounded-xl bg-white/[0.02] border border-white/[0.06] px-4 py-3 space-y-2">
@@ -86,6 +89,7 @@ export function AudioPlayer({ audio }: AudioPlayerProps) {
           setProgress(t.duration ? (t.currentTime / t.duration) * 100 : 0)
         }}
         onEnded={() => { setPlaying(false); setProgress(0); setCurrentTime(0) }}
+        onError={() => setUnavailable(true)}
       />
     </div>
   )

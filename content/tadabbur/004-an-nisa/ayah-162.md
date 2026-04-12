@@ -14,6 +14,7 @@ passage_context: "After a sustained indictment of breach, slander, boast, econom
 generated_by: "codex-tadabbur"
 validated: false
 tags: [knowledge, salah, zakah, iman, exception]
+concepts: [iman, ibadah, akhirah, hidayah, quran]
 ---
 
 <!-- morphology:4:162:3 root=رسخ pos=N -->

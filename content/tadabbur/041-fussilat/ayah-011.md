@@ -1,8 +1,9 @@
 ---
 surah: 41
-ayah: 11
+ayah_start: 11
+ayah_end: 11
 surahName: Fussilat
-slug: fussilat-41-11-come-willingly-or-unwillingly
+slug: "041-011"
 title: "Come Willingly or Unwillingly — When the Universe Was Asked and Answered"
 description: "Fussilat 41:11 — Allah addresses the heavens and earth as rational beings, offers a choice that was never a choice, and they answer with a masculine plural that speaks for all creation."
 category: tadabbur
@@ -19,6 +20,8 @@ methodology: "dirayah (linguistic/rhetorical) with riwayah support on the creati
 scholarly_status: "Largely settled; minor discussion on whether قَالَ/قَالَتَا is literal speech or metaphorical expression of divine will"
 validated: true
 arabic: "ثُمَّ ٱسْتَوَىٰٓ إِلَى ٱلسَّمَآءِ وَهِىَ دُخَانٌ فَقَالَ لَهَا وَلِلْأَرْضِ ٱئْتِيَا طَوْعًا أَوْ كَرْهًا قَالَتَآ أَتَيْنَا طَآئِعِينَ"
+surah_name: "Fussilat"
+word_count: 3137
 ---
 
 <!-- morphology:41:11:2 root=سوي pos=V -->

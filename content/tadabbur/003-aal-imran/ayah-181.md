@@ -14,6 +14,7 @@ passage_context: "After warning that withheld wealth will become a burden on the
 generated_by: "codex-tadabbur"
 validated: false
 tags: [bani-israil, anbiya, kibr]
+concepts: [tawhid, nafs, shukr, accountability, akhirah]
 ---
 
 <!-- morphology:3:181:3 root=سمع pos=V -->

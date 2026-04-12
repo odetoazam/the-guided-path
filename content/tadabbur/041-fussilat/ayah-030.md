@@ -1,7 +1,8 @@
 ---
 surah: 41
-surah_name: Fussilat
-ayah: 30
+surah_name: "Fussilat"
+ayah_start: 30
+ayah_end: 30
 title: "The Word That Contains Your Entire Life — What Lives Inside ثُمَّ"
 arabic: "إِنَّ ٱلَّذِينَ قَالُوا۟ رَبُّنَا ٱللَّهُ ثُمَّ ٱسْتَقَـٰمُوا۟ تَتَنَزَّلُ عَلَيْهِمُ ٱلْمَلَـٰٓئِكَةُ أَلَّا تَخَافُوا۟ وَلَا تَحْزَنُوا۟ وَأَبْشِرُوا۟ بِٱلْجَنَّةِ ٱلَّتِى كُنتُمْ تُوعَدُونَ"
 translation: "Indeed, those who have said, 'Our Lord is Allah,' and then remained steadfast — the angels descend upon them continuously, [saying], 'Do not fear and do not grieve, and rejoice with the good news of Paradise which you have been promised.'"
@@ -9,8 +10,8 @@ word_count: 19
 estimated_duration: "50-58 minutes"
 generated_by: "quranic-tadabbur skill"
 validated: false
-slug: "fussilat-41-30-thumma-istaqamoo"
-category: "tadabbur"
+slug: "041-030"
+category: tadabbur
 ---
 
 <!--

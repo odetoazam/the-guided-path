@@ -14,6 +14,7 @@ passage_context: "The closing prayer of Surah Aal-Imran now becomes more persona
 generated_by: "codex-tadabbur"
 validated: false
 tags: [iman, maghfirah, akhirah, abrar]
+concepts: [iman, hidayah, tawbah, dua, raja]
 ---
 
 <!-- morphology:3:193:1 root=ربب pos=N -->

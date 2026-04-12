@@ -1,7 +1,8 @@
 ---
 surah: 31
-surah_name: Luqman
-ayahs: "13"
+surah_name: "Luqman"
+ayah_start: 13
+ayah_end: 13
 title: "My Dear Son, Don't Do This to Yourself — Why a Father Called Shirk the Greatest Self-Harm"
 arabic: "وَإِذْ قَالَ لُقْمَـٰنُ لِٱبْنِهِۦ وَهُوَ يَعِظُهُۥ يَـٰبُنَىَّ لَا تُشْرِكْ بِٱللَّهِ ۖ إِنَّ ٱلشِّرْكَ لَظُلْمٌ عَظِيمٌ"
 translation: "And [mention, O Muhammad], when Luqman said to his son while he was advising him, 'O my dear son, do not associate [anything] with Allah. Indeed, association [with Him] is a great wrongdoing.'"
@@ -12,6 +13,8 @@ validated: true
 validation_date: "2026-04-02"
 passage_context: "Surah Luqman is a late Meccan surah named after a wise man — not a prophet, not a king, not a scholar. A father. The surah sits in the cluster of surahs (29-34) that deal with the fundamental questions of faith, the signs of Allah in creation, and human response to guidance. What makes Luqman unique among all 114 surahs is that Allah chose to name a surah after a man whose only recorded act is parenting. He teaches. His classroom is the family. His student is his son. And the first lesson — before gratitude, before prayer, before patience, before humility — is this: don't commit shirk. The ayah arrives after 31:12, which establishes that Luqman was given wisdom (hikmah), and the first thing that wisdom produced was gratitude to Allah. Now, ayah 13 opens Luqman's actual counsel to his son, and the first word out of his mouth is the diminutive of love: yā bunayya — 'O my dear little son.' The most important theological prohibition in the entire Quran — the sin from which there is no return without repentance — is delivered not as a legal ruling but as a father's tender counsel. This framing is deliberate: the Quran could have presented the prohibition of shirk through any vehicle. It chose a father holding his child."
 scholarly_note: "The scholars note several significant features of this ayah. First, Luqman is not a prophet (nabi) by consensus of the majority of scholars, though a minority view (reported by Ikrimah) held he was. The majority position (Ibn Kathir, al-Tabari, al-Qurtubi) is that he was a wise man (hakim), possibly a judge, possibly Ethiopian or Nubian, and that his wisdom was a divine gift (31:12: 'We gave Luqman wisdom'). Second, the word يَـٰبُنَىَّ (ya bunayya) is the diminutive (tasghir) of ibn (son), which in Arabic can express smallness, endearment, or both. Here the scholars unanimously read it as expressing tenderness and affection — it is the language of a father speaking from love, not authority. Third, the verb تُشْرِكْ (tushrik) is Form IV (af'ala) of the root شرك — the causative form. Form I (sharaka) means to share or participate. Form IV (ashraka) means to make a partner, to cause partnership, to actively assign partnership to Allah. The jussive mood (lā tushrik) makes this a prohibition with the force of permanent command. Fourth, the phrase إِنَّ ٱلشِّرْكَ لَظُلْمٌ عَظِيمٌ is a nominal sentence with inna for emphasis and the lam of emphasis (la-) before ẓulmun, creating double emphasis. The scholars connect this to the hadith in Sahih al-Bukhari where the Prophet ﷺ recited this ayah when explaining that the 'great ẓulm' in 6:82 (الَّذِينَ آمَنُوا وَلَمْ يَلْبِسُوا إِيمَانَهُم بِظُلْمٍ) refers to shirk, not general wrongdoing — the companions were relieved because they had feared that any sin would destroy their faith. Fifth, ẓulm in its root meaning is 'placing something where it does not belong' — putting something in the wrong place. The scholars (al-Raghib al-Isfahani, Mufradat al-Quran) define ẓulm as displacement: to place a thing outside its proper position. Shirk is ẓulm because it places creation in the position that belongs exclusively to the Creator — it is a category error about reality itself."
+slug: "031-013"
+category: tadabbur
 ---
 
 <!--

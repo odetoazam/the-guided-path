@@ -14,6 +14,7 @@ passage_context: "After a run of verses exposing distorted desire, false hopes, 
 generated_by: "codex-tadabbur"
 validated: false
 tags: [salah, taharah, tayammum, rahmah, adab]
+concepts: [ibadah, taqwa, law-and-ethics, ihsan, signs-of-allah]
 ---
 
 <!-- morphology:4:43:8 root=قرب pos=V -->

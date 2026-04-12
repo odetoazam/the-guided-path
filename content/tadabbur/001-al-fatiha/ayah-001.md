@@ -1,7 +1,8 @@
 ---
 surah: 1
-surah_name: Al-Fatiha
-ayah: 1
+surah_name: "Al-Fatiha"
+ayah_start: 1
+ayah_end: 1
 title: "The Threshold — Beginning in a Name Greater Than Yours"
 arabic: "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
 translation: "In the name of Allah, the Entirely Merciful, the Especially Merciful"
@@ -9,7 +10,10 @@ word_count: 4
 estimated_duration: "48-55 minutes"
 generated_by: "quranic-tadabbur skill"
 validated: true
+concepts: [tawhid, mahabbah, ibadah, dhikr, fitrah]
 validation_date: "2026-03-23"
+slug: "001-001"
+category: tadabbur
 ---
 
 <!--

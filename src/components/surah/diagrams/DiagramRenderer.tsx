@@ -50,8 +50,8 @@ export function DiagramRenderer({ tab, diagrams, fullText, heartVerse }: Diagram
   if (tab.renderer === 'text') {
     return (
       <div className="space-y-6">
-        {fullText && fullText.length > 0 && <FullSurahText verses={fullText} />}
-        {fullText && fullText.length > 0 && heartVerse && <OrnamentDivider />}
+        {Array.isArray(fullText) && fullText.length > 0 && <FullSurahText verses={fullText} />}
+        {Array.isArray(fullText) && fullText.length > 0 && heartVerse && <OrnamentDivider />}
         {heartVerse && <HeartVerse verse={heartVerse} />}
       </div>
     )

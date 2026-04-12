@@ -14,6 +14,7 @@ passage_context: "After exposing people who craved praise for what they had not 
 generated_by: "codex-tadabbur"
 validated: false
 tags: [mulk, qadar, akhirah]
+concepts: [tawhid, signs-of-allah, creation, tawakkul]
 ---
 
 <!-- morphology:3:189:4 root=ملك pos=N -->

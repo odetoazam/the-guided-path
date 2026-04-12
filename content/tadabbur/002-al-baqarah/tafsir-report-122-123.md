@@ -1,0 +1,694 @@
+# Tafsir Cross-Reference Report
+
+Generated: 2026-04-09
+Ayahs referenced: 30
+Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), al-Jalalayn (Arabic)
+
+---
+
+## 2:40
+
+### Ibn Kathir (English)
+
+Encouraging the Children of Israel to embrace Islam
+Allah commanded the Children of Israel to embrace Islam and to follow Muhammad ﷺ. He also reminded them with the example of their father Israel, Allah's Prophet Ya`qub, as if saying, "O children of the pious, righteous servant of Allah who obeyed Allah! Be like your father, following the truth." This statement is similar to one's saying, "O you son of that generous man! Do this or that" or, "O son of the brave man, engage the strong fighters...
+
+### al-Tabari (Arabic)
+
+القول في تأويل قوله تعالى ذكره:  يَا بَنِي إِسْرَائِيلَقال أبو جعفر: يعني بقوله جل ثناؤه: " يا بني إسرائيل " ولد يعقوب بن إسحاق بن إبراهيم خليل الرحمن (16) وكان يعقوب يدعى " إسرائيل "، بمعنى عبد الله وصفوته من خلقه. و " إيل " هو الله، و " إسرا " هو العبد، كما قيل: " جبريل " بمعنى عبد الله. وكما:-798- حدثنا ابن حميد، حدثنا جرير، عن الأعمش عن إسماعيل بن رجاء، عن عُمير مولى ابن عباس، عن ابن عباس: أن إسرائيل كقولك: عبد الله. (17)799- وحدثنا ابن حميد، قال: حدثنا جرير، عن الأعمش، عن المنهال، عن عبد...
+
+### al-Muyassar (Arabic)
+
+يا ذرية يعقوب اذكروا نعمي الكثيرة عليكم، واشكروا لي، وأتموا وصيتي لكم: بأن تؤمنوا بكتبي ورسلي جميعًا، وتعملوا بشرائعي. فإن فعلتم ذلك أُتمم لكم ما وعدتكم به من الرحمة في الدنيا، والنجاة في الآخرة. وإيَّايَ -وحدي- فخافوني، واحذروا نقمتي إن نقضتم العهد، وكفرتم بي.
+
+### al-Jalalayn (Arabic)
+
+*Not available for this ayah*
+
+---
+
+## 2:47
+
+### Ibn Kathir (English)
+
+Reminding the Children of Israel that They were preferred above the Other Nations
+Allah reminds the Children of Israel of the favors that He granted their fathers and grandfathers, how He showed preference to them by sending them Messengers from among them and revealing Books to them, more so than any of the other previous nations. Similarly, Allah said,
+وَلَقَدِ اخْتَرْنَـهُمْ عَلَى عِلْمٍ عَلَى الْعَـلَمِينَ
+(And We chose them (the Children of Israel) over the `Alamin, (nations) with knowle...
+
+### al-Tabari (Arabic)
+
+القول في تأويل قوله تعالى  يَا بَنِي إِسْرَائِيلَ اذْكُرُوا نِعْمَتِيَ الَّتِي أَنْعَمْتُ عَلَيْكُمْقال أبو جعفر: وتأويل ذلك في هذه الآية نظير تأويله في التي قبلها في قوله: (اذكروا نعمتي التي أنعمت عليكم وأوفوا بعهدي). وقد ذكرته هنالك (128) .* * *القول في تأويل قوله تعالى  وَأَنِّي فَضَّلْتُكُمْ عَلَى الْعَالَمِينَ (47)قال أبو جعفر: وهذا أيضا مما ذكرهم جل ثناؤه من آلائه ونعمه عندهم. ويعني بقوله: (وأني فضلتكم على العالمين) : أني فضلت أسلافكم, فنسب نعمه على آبائهم وأسلافهم إلى أنها نعم منه عليه...
+
+### al-Muyassar (Arabic)
+
+يا ذرية يعقوب تذكَّروا نعمي الكثيرة عليكم، واشكروا لي عليها، وتذكروا أني فَضَّلْتكم على عالَمي زمانكم بكثرة الأنبياء، والكتب المنزَّلة كالتوراة والإنجيل.
+
+### al-Jalalayn (Arabic)
+
+*Not available for this ayah*
+
+---
+
+## 2:48
+
+### Ibn Kathir (English)
+
+After Allah reminded the Children of Israel of the favors that He has granted them, He warned them about the duration of the torment which He will punish them with on the Day of Resurrection. He said,
+وَاتَّقُواْ يَوْمًا
+(And fear a Day) meaning, the Day of Resurrection,
+لاَّ تَجْزِى نَفْسٌ عَن نَّفْسٍ شَيْئًا
+(When a person shall not avail another) meaning, on that Day, no person shall be of any help to another. Similarly, Allah said,
+وَلاَ تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَى
+(And no bearer of b...
+
+### al-Tabari (Arabic)
+
+القول في تأويل قوله تعالى  وَاتَّقُوا يَوْمًا لا تَجْزِي نَفْسٌ عَنْ نَفْسٍ شَيْئًاقال أبو جعفر: وتأويل قوله: (واتقوا يوما لا تجزي نفس عن نفس شيئا) : واتقوا يوما لا تجزي فيه نفس عن نفس شيئا. وجائز أيضا أن يكون تأويله: واتقوا يوما لا تجزيه نفس عن نفس شيئا, كما قال الراجز:قــد صبحــت, صبحهـا السـلامبكبــــد خالطهــــا ســـنامفي ساعة يحبها الطعام (132)وهو يعني: يحب فيها الطعام. فحذفت " الهاء " الراجعة على " اليوم ", إذ فيه اجتزاء  -بما ظهر من قوله: (واتقوا يوما لا تجزي نفس) الدال على المحذوف منه...
+
+### al-Muyassar (Arabic)
+
+وخافوا يوم القيامة، يوم لا يغني أحد عن أحد شيئًا، ولا يقبل الله شفاعة في الكافرين، ولا يقبل منهم فدية، ولو كانت أموال الأرض جميعًا، ولا يملك أحد في هذا اليوم أن يتقدم لنصرتهم وإنقاذهم من العذاب.
+
+### al-Jalalayn (Arabic)
+
+*Not available for this ayah*
+
+---
+
+## 2:49
+
+### Ibn Kathir (English)
+
+The Children of Israel were saved from Pharaoh and His Army Who drowned
+Allah said to the Children of Israel, "Remember My favor on you
+وَإِذْ نَجَّيْنَـكُم مِّنْ ءَالِ فِرْعَوْنَ يَسُومُونَكُمْ سُوءَ الْعَذَابِ
+(And (remember) when We delivered you from Fir`awn's (Pharaoh) people, who were afflicting you with a horrible torment,) meaning, `I - Allah - saved you from them and delivered you from their hands in the company of Musa, after they subjected you to horrible torture.' This favor came ...
+
+### al-Tabari (Arabic)
+
+القول في تأويل قوله تعالى  وَإِذْ نَجَّيْنَاكُمْ مِنْ آلِ فِرْعَوْنَأما تأويل قوله: (وإذ نجيناكم) فإنه عطف على قوله:  يَا بَنِي إِسْرَائِيلَ اذْكُرُوا نِعْمَتِيَ . فكأنه قال: اذكروا نعمتي التي أنعمت عليكم, واذكروا إنعامنا عليكم -إذ نجيناكم من آل فرعون- بإنجائناكم منهم. (1)* * *وأما آل فرعون فإنهم أهل دينه وقومه وأشياعه.وأصل "آل " أهل, أبدلت الهاء همزة, كما قالوا " ماء " (2) فأبدلوا الهاء همزة, فإذا صغروه قالوا: " مويه ", فردوا الهاء في التصغير وأخرجوه على أصله. وكذلك إذا صغروا آل, قالوا: " أه...
+
+### al-Muyassar (Arabic)
+
+واذكروا نعمتنا عليكم حين أنقذناكم من بطش فرعون وأتباعه، وهم يُذيقونكم أشدَّ العذاب، فيُكثِرون مِن ذَبْح أبنائكم، وترك بناتكم للخدمة والامتهان. وفي ذلك اختبار لكم من ربكم، وفي إنجائكم منه نعمة عظيمة، تستوجب شكر الله تعالى في كل عصوركم وأجيالكم.
+
+### al-Jalalayn (Arabic)
+
+*Not available for this ayah*
+
+---
+
+## 2:50
+
+### Ibn Kathir (English)
+
+The Children of Israel were saved from Pharaoh and His Army Who drowned
+Allah said to the Children of Israel, "Remember My favor on you
+وَإِذْ نَجَّيْنَـكُم مِّنْ ءَالِ فِرْعَوْنَ يَسُومُونَكُمْ سُوءَ الْعَذَابِ
+(And (remember) when We delivered you from Fir`awn's (Pharaoh) people, who were afflicting you with a horrible torment,) meaning, `I - Allah - saved you from them and delivered you from their hands in the company of Musa, after they subjected you to horrible torture.' This favor came ...
+
+### al-Tabari (Arabic)
+
+القول في تأويل قوله تعالى  وَإِذْ فَرَقْنَا بِكُمُ الْبَحْرَأما تأويل قوله: (وإذ فرقنا بكم)، فإنه عطف على:  وَإِذْ نَجَّيْنَاكُمْ ، بمعنى: واذكروا نعمتي التي أنعمت عليكم, واذكروا إذ نجيناكم من آل فرعون, وإذ فرقنا بكم البحر.ومعنى قوله: (فرقنا بكم) : فصلنا بكم البحر. لأنهم كانوا اثني عشر سبطا؛ ففرق البحر اثني عشر طريقا, فسلك كل سبط منهم طريقا منها، فذلك فرق الله بهم عز وجل البحر, وفصله بهم، بتفريقهم في طرقه الاثني عشر، كما:-904 - حدثني موسى بن هارون قال، حدثنا عمرو بن حماد قال، حدثنا أسباط بن ن...
+
+### al-Muyassar (Arabic)
+
+واذكروا نعمتنا عليكم، حين فَصَلْنا بسببكم البحر، وجعلنا فيه طرقًا يابسةً، فعبرتم، وأنقذناكم من فرعون وجنوده، ومن الهلاك في الماء. فلما دخل فرعون وجنوده طرقكم أهلكناهم في الماء أمام أعينكم.
+
+### al-Jalalayn (Arabic)
+
+*Not available for this ayah*
+
+---
+
+## 2:51
+
+### Ibn Kathir (English)
+
+The Children of Israel worshipped the Calf
+Allah then said, "Remember My favor on you when I forgave you for worshipping the calf." This happened after Musa went to the meeting place with his Lord at the end of that period which was forty days. These forty days were mentioned in Surat Al-A`raf, when Allah said,
+وَوَعَدْنَا مُوسَى ثَلَـثِينَ لَيْلَةً وَأَتْمَمْنَاهَا بِعَشْرٍ
+(And We appointed for Musa thirty nights and added (to the period) ten (more)) (7:142).
+It was said that these days wer...
+
+### al-Tabari (Arabic)
+
+القول في تأويل قوله تعالى  وَإِذْ وَاعَدْنَااختلفت القَرَأَة في قراءة ذلك, (74) فقرأ بعضهم: (واعدنا) بمعنى أن الله تعالى واعد موسى موافاة الطور لمناجاته, (75) فكانت المواعدة من الله لموسى, ومن موسى لربه. وكان من حجتهم على اختيارهم قراءة (واعدنا) على " وعدنا " أن قالوا: كل اتعاد كان بين اثنين للالتقاء و الاجتماع, (76) فكل واحد منهما &; 2-59 &; مواعد صاحبه ذلك. فلذلك -زعموا- (77) وجب أن يُقضى لقراءة من قرأ (واعدنا) بالاختيار على قراءة من قرأ " وعدنا ".وقرأ بعضهم: " وعدنا " بمعنى أن الله الواعد ...
+
+### al-Muyassar (Arabic)
+
+واذكروا نعمتنا عليكم: حين واعدنا موسى أربعين ليلة لإنزال التوراة هدايةً ونورًا لكم، فإذا بكم تنتهزون فرصة غيابه هذه المدة القليلة، وتجعلون العجل الذي صنعتموه بأيديكم معبودًا لكم من دون الله - وهذا أشنع الكفر بالله- وأنتم ظالمون باتخاذكم العجل إلهًا.
+
+### al-Jalalayn (Arabic)
+
+*Not available for this ayah*
+
+---
+
+## 2:52
+
+### Ibn Kathir (English)
+
+The Children of Israel worshipped the Calf
+Allah then said, "Remember My favor on you when I forgave you for worshipping the calf." This happened after Musa went to the meeting place with his Lord at the end of that period which was forty days. These forty days were mentioned in Surat Al-A`raf, when Allah said,
+وَوَعَدْنَا مُوسَى ثَلَـثِينَ لَيْلَةً وَأَتْمَمْنَاهَا بِعَشْرٍ
+(And We appointed for Musa thirty nights and added (to the period) ten (more)) (7:142).
+It was said that these days wer...
+
+### al-Tabari (Arabic)
+
+القول في تأويل قوله تعالى ذكره  ثُمَّ عَفَوْنَا عَنْكُمْ مِنْ بَعْدِ ذَلِكَ لَعَلَّكُمْ تَشْكُرُونَ (52)قال أبو جعفر: وتأويل قوله: (ثم عفونا عنكم من بعد ذلك)، يقول: تركنا معاجلتكم بالعقوبة،" من بعد ذلك " , أي من بعد اتخاذكم العجل إلها . كما:-927 - حدثني به المثنى بن إبراهيم قال، حدثنا آدم العسقلاني قال، حدثنا أبو جعفر , عن الربيع , عن أبي العالية: (ثم عفونا عنكم من بعد ذلك)، يعني من بعد ما اتخذتم العجل.* * *وأما تأويل قوله: (لعلكم تشكرون)، فإنه يعني به: لتشكروا . ومعنى " لعل " في هذا الموضع م...
+
+### al-Muyassar (Arabic)
+
+ثمَّ تجاوزنا عن هذه الفعلة المنكرة، وقَبِلْنَا توبتكم بعد عودة موسى؛ رجاءَ أن تشكروا الله على نعمه وأفضاله، ولا تتمادوا في الكفر والطغيان.
+
+### al-Jalalayn (Arabic)
+
+*Not available for this ayah*
+
+---
+
+## 2:53
+
+### Ibn Kathir (English)
+
+The Children of Israel worshipped the Calf
+Allah then said, "Remember My favor on you when I forgave you for worshipping the calf." This happened after Musa went to the meeting place with his Lord at the end of that period which was forty days. These forty days were mentioned in Surat Al-A`raf, when Allah said,
+وَوَعَدْنَا مُوسَى ثَلَـثِينَ لَيْلَةً وَأَتْمَمْنَاهَا بِعَشْرٍ
+(And We appointed for Musa thirty nights and added (to the period) ten (more)) (7:142).
+It was said that these days wer...
+
+### al-Tabari (Arabic)
+
+القول في تأويل قوله تعالى  وَإِذْ آتَيْنَا مُوسَى الْكِتَابَ وَالْفُرْقَانَ لَعَلَّكُمْ تَهْتَدُونَ (53)قال أبو جعفر: يعني بقوله: (وإذ ءاتينا موسى الكتاب): واذكروا أيضا إذ آتينا موسى الكتاب والفرقان. ويعني ب " الكتاب ": التوراة , وب " الفرقان ": الفصل بين الحق والباطل، كما:-928 - حدثني المثنى بن إبراهيم قال حدثنا أبو جعفر , عن الربيع بن أنس , عن أبي العالية , في قوله: (وإذ ءاتينا موسى الكتاب والفرقان)، قال: فرق به بين الحق والباطل .929 - حدثني محمد بن عمرو الباهلي قال، حدثنا أبو عاصم قال، حدث...
+
+### al-Muyassar (Arabic)
+
+واذكروا نعمتنا عليكم حين أعطينا موسى الكتاب الفارق بين الحق والباطل -وهو التوراة-؛ لكي تهتدوا من الضلالة.
+
+### al-Jalalayn (Arabic)
+
+*Not available for this ayah*
+
+---
+
+## 2:54
+
+### Ibn Kathir (English)
+
+The Children of Israel kill each other in Repentance
+This was the repentance required from the Children of Israel for worshipping the calf. Commenting on Allah's statement;
+وَإِذْ قَالَ مُوسَى لِقَوْمِهِ يَـقَوْمِ إِنَّكُمْ ظَلَمْتُمْ أَنفُسَكُمْ بِاتِّخَاذِكُمُ الْعِجْلَ
+(And (remember) when Musa said to his people: "O my people! Verily, you have wronged yourselves by worshipping the calf...), Al-Hasan Al-Basri said, "When their hearts thought of worshipping the calf,
+وَلَمَّا سُقِطَ فَى أَي...
+
+### al-Tabari (Arabic)
+
+القول في تأويل قوله تعالى ذكره  وَإِذْ قَالَ مُوسَى لِقَوْمِهِ يَا قَوْمِ إِنَّكُمْ ظَلَمْتُمْ أَنْفُسَكُمْ بِاتِّخَاذِكُمُ الْعِجْلَ فَتُوبُوا إِلَى بَارِئِكُمْ فَاقْتُلُوا أَنْفُسَكُمْ ذَلِكُمْ خَيْرٌ لَكُمْ عِنْدَ بَارِئِكُمْ فَتَابَ عَلَيْكُمْ إِنَّهُ هُوَ التَّوَّابُ الرَّحِيمُ (54)وتأويل ذلك: اذكروا أيضا إذ قال موسى لقومه من بني إسرائيل: يا قوم إنكم ظلمتم أنفسكم . وظلمهم إياها، كان فعلَهم بها ما لم يكن لهم أن يفعلوه بها، مما أوجب لهم العقوبة من الله تعالى. وكذلك كل فاعل فعلا يستوجب به ا...
+
+### al-Muyassar (Arabic)
+
+واذكروا نعمتنا عليكم حين قال موسى لقومه: إنكم ظلمتم أنفسكم باتخاذكم العجل إلهًا، فتوبوا إلى خالقكم: بأن يَقْتل بعضكم بعضًا، وهذا خير لكم عند خالقكم من الخلود الأبدي في النار، فامتثلتم ذلك، فمنَّ الله عليكم بقَبول توبتكم. إنه تعالى هو التواب لمن تاب مِن عباده، الرحيم بهم.
+
+### al-Jalalayn (Arabic)
+
+*Not available for this ayah*
+
+---
+
+## 2:55
+
+### Ibn Kathir (English)
+
+The Best among the Children of Israel ask to see Allah; their subsequent Death and Resurrection
+Allah said, `Remember My favor on you for resurrecting you after you were seized with lightning when you asked to see Me directly, which neither you nor anyone else can bear or attain.' This was said by Ibn Jurayj. Ibn `Abbas said that the Ayah
+وَإِذْ قُلْتُمْ يَـمُوسَى لَن نُّؤْمِنَ لَكَ حَتَّى نَرَى اللَّهَ جَهْرَةً
+(And (remember) when you said: "O Musa ! We shall never believe in you until we s...
+
+### al-Tabari (Arabic)
+
+القول في تأويل قوله تعالى  وَإِذْ قُلْتُمْ يَا مُوسَى لَنْ نُؤْمِنَ لَكَ حَتَّى نَرَى اللَّهَ جَهْرَةًقال أبو جعفر: وتأويل ذلك: واذكروا أيضا إذ قلتم: يا موسى لن نصدقك ولن نقر بما جئتنا به، حتى نرى الله جهرة - عِيانا برفع الساتر بيننا وبينه, وكشف الغطاء دوننا ودونه، حتى ننظر إليه بأبصارنا , كما تجهر الرَّكيَّة , وذلك إذا كان ماؤها قد غطاه الطين , فنُقِّي ما قد غطاه حتى ظهر الماء وصفا. يقال منه: (147) " قد جَهَرْتُ الركية أجهرها جهرا وجهرة ". (148) ولذلك قيل: " قد جاهر فلان بهذا الأمر مجاهرة وج...
+
+### al-Muyassar (Arabic)
+
+واذكروا إذ قلتم: يا موسى لن نصدقك في أن الكلام الذي نسمعه منك هو كلام الله، حتى نرى الله عِيَانًا، فنزلت نار من السماء رأيتموها بأعينكم، فقَتَلَتْكم بسبب ذنوبكم، وجُرْأتكم على الله تعالى.
+
+### al-Jalalayn (Arabic)
+
+*Not available for this ayah*
+
+---
+
+## 2:56
+
+### Ibn Kathir (English)
+
+The Best among the Children of Israel ask to see Allah; their subsequent Death and Resurrection
+Allah said, `Remember My favor on you for resurrecting you after you were seized with lightning when you asked to see Me directly, which neither you nor anyone else can bear or attain.' This was said by Ibn Jurayj. Ibn `Abbas said that the Ayah
+وَإِذْ قُلْتُمْ يَـمُوسَى لَن نُّؤْمِنَ لَكَ حَتَّى نَرَى اللَّهَ جَهْرَةً
+(And (remember) when you said: "O Musa ! We shall never believe in you until we s...
+
+### al-Tabari (Arabic)
+
+القول في تأويل قوله تعالى (157)  ثُمَّ بَعَثْنَاكُمْ مِنْ بَعْدِ مَوْتِكُمْ لَعَلَّكُمْ تَشْكُرُونَ (56)يعني بقوله: (ثم بعثناكم) ثم أحييناكم .* * *وأصل " البعث " إثارة الشيء من محله . ومنه قيل: " بعث فلان راحلته " إذا أثارها من مبركها للسير , كما قال الشاعر:فأبعثهــا وهــيَّ صنيــعُ حـولكــركن الــرَّعنِ, ذِعْلِبَـةً وَقاحـا (158)&; 2-85 &; و " الرعن ": منقطع أنف الجبل , و " الذعلبة ": الخفيفة , و " الوقاح ": الشديدة الحافر أو الخف . ومن ذلك قيل: " بعثت فلانا لحاجتي"، إذا أقمته من مكانه الذي ...
+
+### al-Muyassar (Arabic)
+
+ثم أحييناكم مِن بعد موتكم بالصاعقة؛ لتشكروا نعمة الله عليكم، فهذا الموت عقوبة لهم، ثم بعثهم الله لاستيفاء آجالهم.
+
+### al-Jalalayn (Arabic)
+
+*Not available for this ayah*
+
+---
+
+## 2:57
+
+### Ibn Kathir (English)
+
+The Shade, the Manna and the Quail
+After Allah mentioned the calamities that He saved the Children of Israel from, He mentioned the favors that He granted them, saying,
+وَظَلَّلْنَا عَلَيْكُمُ الْغَمَامَ
+And We shaded you with clouds. This A0yah mentions the white clouds that provided shade for the Children of Israel, protecting them from the sun s heat during their years of wandering. In the Hadith about the trials, An-Nasa0 i recorded Ibn Abba0s saying, Allah shaded the Children of Israel w...
+
+### al-Tabari (Arabic)
+
+القول في تأويل قوله تعالى  وَظَلَّلْنَا عَلَيْكُمُ الْغَمَامَ(وظللنا عليكم الغمام) عطف على قوله:  ثُمَّ بَعَثْنَاكُمْ مِنْ بَعْدِ مَوْتِكُمْ . فتأويل الآية: ثم بعثناكم من بعد موتكم , وظللنا عليكم الغمام - وعدد عليهم سائر ما أنعم به عليهم - لعلكم تشكرون .* * *و " الغمام " جمع " غمامة "، كما السحاب جمع سحابة ," والغمام " هو ما غم السماء فألبسها من سحاب وقتام، وغير ذلك مما يسترها عن أعين الناظرين . وكل مغطى فالعرب تسميه مغموما. (175)* * *وقد قيل: إن الغمام التي ظللها الله على بني إسرائيل لم تكن ...
+
+### al-Muyassar (Arabic)
+
+واذكروا نعمتنا عليكم حين كنتم تتيهون في الأرض؛ إذ جعلنا السحاب مظللا عليكم من حَرِّ الشمس، وأنزلنا عليكم المنَّ، وهو شيء يشبه الصَّمغ طعمه كالعسل، وأنزلنا عليكم السَّلوى وهو طير يشبه السُّمانَى، وقلنا لكم: كلوا من طيِّبات ما رزقناكم، ولا تخالفوا دينكم، فلم تمتثلوا. وما ظلمونا بكفران النعم، ولكن كانوا أنفسهم يظلمون؛ لأن عاقبة الظلم عائدة عليهم.
+
+### al-Jalalayn (Arabic)
+
+*Not available for this ayah*
+
+---
+
+## 2:58
+
+### Ibn Kathir (English)
+
+The Jews were Rebellious instead of Appreciative when They gained Victory
+Allah admonished the Jews for avoiding Jihad and not entering the holy land as they had been ordered to do when they came from Egypt with Musa. They were also commanded to fight the disbelieving `Amaliq (Canaanites) dwelling in the holy land at that time. But they did not want to fight, because they were weak and exhausted. Allah punished them by causing them to become lost, and to continue wandering, as Allah has state...
+
+### al-Tabari (Arabic)
+
+القول في تأويل قوله تعالى :  وَإِذْ قُلْنَا ادْخُلُوا هَذِهِ الْقَرْيَةَو " القرية " -التي أمرهم الله جل ثناؤه أن يدخلوها , فيأكلوا منها رغدا حيث شاءوا- فيما ذكر لنا: بيت المقدس .*ذكر الرواية بذلك:999 - حدثنا الحسن بن يحيى قال، أنبأنا عبد الرزاق قال، أنبأنا معمر , عن قتادة في قوله: (ادخلوا هذه القرية)، قال: بيت المقدس.1000 - حدثني موسى بن هارون قال، حدثني عمرو بن حماد قال، حدثنا &; 2-103 &; أسباط , عن السدي: (وإذ قلنا ادخلوا هذه القرية) أما القرية، فقرية بيت المقدس.1001 - حُدثت عن عمار بن الح...
+
+### al-Muyassar (Arabic)
+
+واذكروا نعمتنا عليكم حين قلنا: ادخلوا مدينة "بيت المقدس" فكلوا من طيباتها في أي مكان منها أكلا هنيئًا، وكونوا في دخولكم خاضعين لله، ذليلين له، وقولوا: ربَّنا ضَعْ عنَّا ذنوبنا، نستجب لكم ونعف ونسترها عليكم، وسنزيد المحسنين بأعمالهم خيرًا وثوابًا.
+
+### al-Jalalayn (Arabic)
+
+*Not available for this ayah*
+
+---
+
+## 2:59
+
+### Ibn Kathir (English)
+
+The Jews were Rebellious instead of Appreciative when They gained Victory
+Allah admonished the Jews for avoiding Jihad and not entering the holy land as they had been ordered to do when they came from Egypt with Musa. They were also commanded to fight the disbelieving `Amaliq (Canaanites) dwelling in the holy land at that time. But they did not want to fight, because they were weak and exhausted. Allah punished them by causing them to become lost, and to continue wandering, as Allah has state...
+
+### al-Tabari (Arabic)
+
+القول في تأويل قوله تعالى :  فَبَدَّلَ الَّذِينَ ظَلَمُوا قَوْلا غَيْرَ الَّذِي قِيلَ لَهُمْوتأويل قوله: (فبدل)، فغير . ويعني بقوله: (الذين ظلموا)، الذين فعلوا ما لم يكن لهم فعله . ويعني بقوله: (قولا غير الذي قيل لهم)، بدلوا قولا غير الذي أمروا أن يقولوه، فقالوا خلافه. وذلك هو التبديل والتغيير الذي كان منهم . وكان تبديلهم - بالقول الذي أمروا أن يقولوا - قولا غيره , (20) ما:-1019 - حدثنا به الحسن بن يحيي قال، أخبرنا عبد الرازق قال، أخبرنا معمر عن همام بن منبه، أنه سمع أبا هريرة يقول: قال رسول ...
+
+### al-Muyassar (Arabic)
+
+فبدَّل الجائرون الضالون من بني إسرائيل قول الله، وحرَّفوا القول والفعل جميعًا، إذ دخلوا يزحفون على أستاههم وقالوا: حبة في شعرة، واستهزءوا بدين الله. فأنزل الله عليهم عذابًا من السماء؛ بسبب تمردهم وخروجهم عن طاعة الله.
+
+### al-Jalalayn (Arabic)
+
+*Not available for this ayah*
+
+---
+
+## 2:60
+
+### Ibn Kathir (English)
+
+Twelve Springs gush forth
+Allah said, "Remember My favor on you when I answered the supplication of your Prophet, Musa, when he asked Me to provide you with water. I made the water available for you, making it gush out through a stone. Twelve springs burst out of that stone, a designated spring for each of your tribes. You eat from the manna and the quails and drink from the water that I provided for you, without any effort or hardship for you. So worship the One Who did this for you.
+وَلاَ ت...
+
+### al-Tabari (Arabic)
+
+القول في تأويل قوله تعالى :  وَإِذِ اسْتَسْقَى مُوسَى لِقَوْمِهِ فَقُلْنَا اضْرِبْ بِعَصَاكَ الْحَجَرَ فَانْفَجَرَتْ مِنْهُ اثْنَتَا عَشْرَةَ عَيْنًا قَدْ عَلِمَ كُلُّ أُنَاسٍ مَشْرَبَهُمْيعني بقوله: (وإذ استسقى موسى لقومه) ، وإذ استسقانا موسى لقومه، أي سألنا أن نسقي قومه ماء . فترك ذكر المسئول ذلك , والمعنى الذي سأل موسى, (32) إذْ كان فيما ذكر من الكلام الظاهر دلالة على معنى ما ترك.وكذلك قوله: (فقلنا اضرب بعصاك الحجر فانفجرت منه اثنتا عشرة عينا)، مما استغني بدلالة الظاهر على المتروك منه . وذ...
+
+### al-Muyassar (Arabic)
+
+واذكروا نعمتنا عليكم -وأنتم عطاش في التِّيْه- حين دعانا موسى -بضراعة- أن نسقي قومه، فقلنا: اضرب بعصاك الحجر، فضرب، فانفجرت منه اثنتا عشرة عينًا، بعدد القبائل، مع إعلام كل قبيلة بالعين الخاصة بها حتى لا يتنازعوا. وقلنا لهم: كلوا واشربوا من رزق الله، ولا تسعوا في الأرض مفسدين.
+
+### al-Jalalayn (Arabic)
+
+*Not available for this ayah*
+
+---
+
+## 2:61
+
+### Ibn Kathir (English)
+
+The Children of Israel preferred Foods inferior to Manna and Quails
+Allah said, "And remember My favor on you when I sent down the manna and quails to you, a good, pure, beneficial, easily acquired food. And remember your ungratefulness for what We granted you. Remember how you asked Musa to exchange this type of food for an inferior type that consists of vegetation, and so forth." Al-Hasan Al-Basri said about the Children of Israel, "They were bored and impatient with the type of food they w...
+
+### al-Tabari (Arabic)
+
+القول في تأويل قوله تعالى :  وَإِذْ قُلْتُمْ يَا مُوسَى لَنْ نَصْبِرَ عَلَى طَعَامٍ وَاحِدٍ فَادْعُ لَنَا رَبَّكَ يُخْرِجْ لَنَا مِمَّا تُنْبِتُ الأَرْضُ مِنْ بَقْلِهَا وَقِثَّائِهَا وَفُومِهَا وَعَدَسِهَا وَبَصَلِهَاقد دللنا -فيما مضى قبل- على معنى " الصبر " وأنه كف النفس وحبسها عن الشيء. (46) فإذ كان ذلك كذلك , فمعنى الآية إذا: واذكروا إذا قلتم -يا معشر بني إسرائيل-: لن نطيق حبس أنفسنا على طعام واحد - وذلك " الطعام الواحد "، هو ما أخبر الله جل ثناؤه أنه أطعمهموه في تيههم، وهو " السلوى " &; ...
+
+### al-Muyassar (Arabic)
+
+واذكروا حين أنزلنا عليكم الطعام الحلو، والطير الشهي، فبطِرتم النعمة كعادتكم، وأصابكم الضيق والملل، فقلتم: يا موسى لن نصبر على طعام ثابت لا يتغير مع الأيام، فادع لنا ربك يخرج لنا من نبات الأرض طعامًا من البقول والخُضَر، والقثاء والحبوب التي تؤكل، والعدس، والبصل. قال موسى -مستنكرًا عليهم-: أتطلبون هذه الأطعمة التي هي أقل قدرًا، وتتركون هذا الرزق النافع الذي اختاره الله لكم؟ اهبطوا من هذه البادية إلى أي مدينة، تجدوا ما اشتهيتم كثيرًا في الحقول والأسواق. ولما هبطوا تبيَّن لهم أنهم يُقَدِّمون اختي...
+
+### al-Jalalayn (Arabic)
+
+*Not available for this ayah*
+
+---
+
+## 2:62
+
+### Ibn Kathir (English)
+
+Faith and doing Righteous Deeds equals Salvation in all Times
+After Allah described the condition - and punishment - of those who defy His commands, fall into His prohibitions and transgress set limits by committing prohibited acts, He stated that the earlier nations who were righteous and obedient received the rewards for their good deeds. This shall be the case, until the Day of Judgment. Therefore, whoever follows the unlettered Messenger and Prophet shall acquire eternal happiness and sha...
+
+### al-Tabari (Arabic)
+
+القول في تأويل قوله تعالى :  إِنَّ الَّذِينَ آمَنُوا وَالَّذِينَ هَادُواقال أبو جعفر: أما " الذين آمنوا "، فهم المصدقون رسول الله فيما أتاهم به من الحق من عند الله, وإيمانهم بذلك، تصديقهم به - على ما قد بيناه فيما مضى من كتابنا هذا. (1)* * *وأما " الذين هادوا ", فهم اليهود. ومعنى: " هادوا "، تابوا. يقال منه: " هاد القوم يهودون هودا وهادة " . (2) وقيل: إنما سميت اليهود " يهود "، من أجل قولهم:  إِنَّا هُدْنَا إِلَيْكَ . [سورة الأعراف: 156].1094 - حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج, ...
+
+### al-Muyassar (Arabic)
+
+إن المؤمنين من هذه الأمة، الذين صدَّقوا بالله ورسله، وعملوا بشرعه، والذين كانوا قبل بعثة محمد صلى الله عليه وسلم من الأمم السالفة من اليهود، والنصارى، والصابئين- وهم قوم باقون على فطرتهم، ولا دين مقرر لهم يتبعونه- هؤلاء جميعًا إذا صدَّقوا بالله تصديقًا صحيحًا خالصًا، وبيوم البعث والجزاء، وعملوا عملا مرضيًا عند الله، فثوابهم ثابت لهم عند ربهم، ولا خوف عليهم فيما يستقبلونه من أمر الآخرة، ولا هم يحزنون على ما فاتهم من أمور الدنيا. وأما بعد بعثة محمد صلى الله عليه وسلم خاتمًا للنبيين والمرسلين إل...
+
+### al-Jalalayn (Arabic)
+
+*Not available for this ayah*
+
+---
+
+## 2:63
+
+### Ibn Kathir (English)
+
+Taking the Covenant from the Jews
+Allah reminded the Children of Israel of the pledges, covenants and promises that He took from them to believe in Him alone, without a partner, and follow His Messengers. Allah stated that when He took their pledge from them, He raised the mountain above their heads, so that they affirm the pledge that they gave Allah and abide by it with sincerity and seriousness. Hence, Allah's statement,
+وَإِذ نَتَقْنَا الْجَبَلَ فَوْقَهُمْ كَأَنَّهُ ظُلَّةٌ وَظَنُّواْ أَن...
+
+### al-Tabari (Arabic)
+
+القول في تأويل قوله تعالى :  وَإِذْ أَخَذْنَا مِيثَاقَكُمْقال أبو جعفر: " الميثاق "،" المفعال "، من " الوثيقة "، إما بيمين, وإما بعهد أو غير ذلك من الوثائق. (26)ويعني بقوله: (وإذ أخذنا ميثاقكم) الميثاق الذي أخبر جل ثناؤه أنه أخذ منهم في قوله:  وَإِذْ أَخَذْنَا مِيثَاقَ بَنِي إِسْرَائِيلَ لا تَعْبُدُونَ إِلا اللَّهَ وَبِالْوَالِدَيْنِ إِحْسَانًا  [ البقرة: 83-85] الآيات الذي ذكر معها. وكان سبب أخذ الميثاق عليهم - فيما ذكره ابن زيد - ما:-1115 - حدثني به يونس بن عبد الأعلى قال، أخبرنا ابن وهب قا...
+
+### al-Muyassar (Arabic)
+
+واذكروا -يا بني إسرائيل- حين أَخَذْنا العهد المؤكَّد منكم بالإيمان بالله وإفراده بالعبادة، ورفعنا جبل الطور فوقكم، وقلنا لكم: خذوا الكتاب الذي أعطيناكم بجدٍ واجتهاد واحفظوه، وإلا أطبقنا عليكم الجبل، ولا تنسوا التوراة قولا وعملا كي تتقوني وتخافوا عقابي.
+
+### al-Jalalayn (Arabic)
+
+*Not available for this ayah*
+
+---
+
+## 2:64
+
+### Ibn Kathir (English)
+
+Taking the Covenant from the Jews
+Allah reminded the Children of Israel of the pledges, covenants and promises that He took from them to believe in Him alone, without a partner, and follow His Messengers. Allah stated that when He took their pledge from them, He raised the mountain above their heads, so that they affirm the pledge that they gave Allah and abide by it with sincerity and seriousness. Hence, Allah's statement,
+وَإِذ نَتَقْنَا الْجَبَلَ فَوْقَهُمْ كَأَنَّهُ ظُلَّةٌ وَظَنُّواْ أَن...
+
+### al-Tabari (Arabic)
+
+القول في تأويل قوله تعالى :  ثُمَّ تَوَلَّيْتُمْ مِنْ بَعْدِ ذَلِكَقال أبو جعفر: يعني بقوله جل ثناؤه: (ثم توليتم): ثم أعرضتم. وإنما هو " تفعلتم " من قولهم: " ولاني فلان دبره " إذا استدبر عنه وخلفه خلف ظهره. ثم يستعمل ذلك في كل تارك طاعة أمر بها، ومعرض بوجهه. (36) يقال: " قد تولى فلان عن طاعة فلان, وتولى عن مواصلته "، ومنه قول الله جل ثناؤه:  فَلَمَّا آتَاهُمْ مِنْ فَضْلِهِ بَخِلُوا بِهِ وَتَوَلَّوْا وَهُمْ مُعْرِضُونَ  [ التوبة: 76]، يعني بذلك: خالفوا ما كانوا وعدوا الله من قولهم:  لَئِنْ آتَ...
+
+### al-Muyassar (Arabic)
+
+ثم خالفتم وعصيتم مرة أخرى، بعد أَخْذِ الميثاق ورَفْع الجبل كشأنكم دائمًا. فلولا فَضْلُ الله عليكم ورحمته بالتوبة، والتجاوز عن خطاياكم، لصرتم من الخاسرين في الدنيا والآخرة.
+
+### al-Jalalayn (Arabic)
+
+*Not available for this ayah*
+
+---
+
+## 2:65
+
+### Ibn Kathir (English)
+
+The Jews breach the Sanctity of the Sabbath
+Allah said,
+وَلَقَدْ عَلِمْتُمُ
+(And indeed you knew). This Ayah means, O Jews! Remember that Allah sent His torment on the village that disobeyed Him and broke their pledge and their covenant to observe the sanctity of the Sabbath. They began using deceitful means to avoid honoring the Sabbath by placing nets, ropes and artificial pools of water for the purpose of fishing before the Sabbath. When the fish came in abundance on Saturday as usual, the...
+
+### al-Tabari (Arabic)
+
+القول في تأويل قوله تعالى :  وَلَقَدْ عَلِمْتُمُ الَّذِينَ اعْتَدَوْا مِنْكُمْ فِي السَّبْتِقال أبو جعفر: يعني بقوله: (ولقد علمتم)، ولقد عرفتم. (46) كقولك: " قد علمت أخاك ولم أكن أعلمه ", يعني عرفته، ولم أكن أعرفه, كما قال جل ثناؤه:  وَآخَرِينَ مِنْ دُونِهِمْ لا تَعْلَمُونَهُمُ اللَّهُ يَعْلَمُهُمْ  [ الأنفال: 60]، يعني: لا تعرفونهم الله يعرفهم.* * *وقوله: (الذين اعتدوا منكم في السبت)، أي الذين تجاوزوا حدي، وركبوا ما نهيتهم عنه في يوم السبت، وعصوا أمري.وقد دللت -فيما مضى- على أن " الاعتداء "،...
+
+### al-Muyassar (Arabic)
+
+ولقد علمتم -يا معشر اليهود- ما حلَّ من البأس بأسلافكم من أهل القرية التي عصت الله، فيما أخذه عليهم من تعظيم السبت، فاحتالوا لاصطياد السمك في يوم السبت، بوضع الشِّباك وحفر البِرَك، ثم اصطادوا السمك يوم الأحد حيلة إلى المحرم، فلما فعلوا ذلك، مسخهم الله قردة منبوذين.
+
+### al-Jalalayn (Arabic)
+
+*Not available for this ayah*
+
+---
+
+## 2:66
+
+### Ibn Kathir (English)
+
+The Jews breach the Sanctity of the Sabbath
+Allah said,
+وَلَقَدْ عَلِمْتُمُ
+(And indeed you knew). This Ayah means, O Jews! Remember that Allah sent His torment on the village that disobeyed Him and broke their pledge and their covenant to observe the sanctity of the Sabbath. They began using deceitful means to avoid honoring the Sabbath by placing nets, ropes and artificial pools of water for the purpose of fishing before the Sabbath. When the fish came in abundance on Saturday as usual, the...
+
+### al-Tabari (Arabic)
+
+القول في تأويل قوله تعالى :  فَجَعَلْنَاهَاقال أبو جعفر: اختلف أهل التأويل في تأويل " الهاء والألف " في قوله: (فجعلناها)، وعلام هي عائدة؟ فروي عن ابن عباس فيها قولان: أحدهما ما:-1151 - حدثنا به أبو كريب قال، حدثنا عثمان بن سعيد قال، حدثنا بشر بن عمارة قال، حدثنا أبو روق، عن الضحاك, عن ابن عباس: (فجعلناها) فجعلنا تلك العقوبة -وهي المسخة-" نكالا ".فالهاء والألف من قوله: (فجعلناها) -على قول ابن عباس هذا- كناية &; 2-176 &; عن " المسخة ", وهي" فعلة " مسخهم الله مسخة. (64)فمعنى الكلام على هذا التأو...
+
+### al-Muyassar (Arabic)
+
+فجعلنا هذه القرية عبرة لمن بحضرتها من القرى، يبلغهم خبرها وما حلَّ بها، وعبرة لمن يعمل بعدها مثل تلك الذُّنوب، وجعلناها تذكرة للصالحين؛ ليعلموا أنهم على الحق، فيثبتوا عليه.
+
+### al-Jalalayn (Arabic)
+
+*Not available for this ayah*
+
+---
+
+## 2:67
+
+### Ibn Kathir (English)
+
+The Story of the murdered Israeli Man and the Cow
+Allah said, `O Children of Israel! Remember how I blessed you with miracle of the cow that was the means for discovering the identity of the murderer, when the murdered man was brought back to life.'
+Ibn Abi Hatim recorded `Ubaydah As-Salmani saying, "There was a man from among the Children of Israel who was impotent. He had substantial wealth, and only a nephew who would inherit from him. So his nephew killed him and moved his body at night, ...
+
+### al-Tabari (Arabic)
+
+القول في تأويل قوله تعالى :  وَإِذْ قَالَ مُوسَى لِقَوْمِهِ إِنَّ اللَّهَ يَأْمُرُكُمْ أَنْ تَذْبَحُوا بَقَرَةً قَالُوا أَتَتَّخِذُنَا هُزُوًا قَالَ أَعُوذُ بِاللَّهِ أَنْ أَكُونَ مِنَ الْجَاهِلِينَ (67)قال أبو جعفر: وهذه الآية مما وبخ الله بها المخاطبين من بني إسرائيل، في نقض أوائلهم الميثاق الذي أخذه الله عليهم بالطاعة لأنبيائه, فقال لهم: واذكروا أيضا من نكثكم ميثاقي," إذ قال موسى لقومه " - وقومه بنو إسرائيل, إذ ادارءوا في القتيل الذي قتل فيهم إليه: (إن الله يأمركم أن تذبحوا بقرة قالوا أتتخ...
+
+### al-Muyassar (Arabic)
+
+واذكروا يا بني إسرائيل جناية أسلافكم، وكثرة تعنتهم وجدالهم لموسى عليه الصلاة والسلام، حين قال لهم: إن الله يأمركم أن تذبحوا بقرة، فقالوا -مستكبرين-: أتجعلنا موضعًا للسخرية والاستخفاف؟ فردَّ عليهم موسى بقوله: أستجير بالله أن أكون من المستهزئين.
+
+### al-Jalalayn (Arabic)
+
+*Not available for this ayah*
+
+---
+
+## 2:68
+
+### Ibn Kathir (English)
+
+The Stubbornness of the Jews regarding the Cow; Allah made the Matter difficult for Them
+Allah mentioned the stubbornness of the Children of Israel and the many unnecessary questions they asked their Messengers. This is why when they were stubborn, Allah made the decisions difficult for them. Had they slaughtered a cow, any cow, it would have been sufficient for them, as Ibn `Abbas and `Ubaydah have said. Instead, they made the matter difficult, and this is why Allah made it even more difficu...
+
+### al-Tabari (Arabic)
+
+القول في تأويل قوله تعالى :  قَالُوا ادْعُ لَنَا رَبَّكَ يُبَيِّنْ لَنَا مَا هِيَ قَالَ إِنَّهُ يَقُولُ إِنَّهَا بَقَرَةٌ لا فَارِضٌ  (83)قال أبو جعفر: فقال الذين قيل لهم:  إِنَّ اللَّهَ يَأْمُرُكُمْ أَنْ تَذْبَحُوا بَقَرَةً  - بعد أن علموا واستقر عندهم، أن الذي أمرهم به موسى من ذلك عن أمر الله من ذبح بقرة - جد وحق، (84) (ادع لنا ربك يبين لنا ما هي)، فسألوا موسى أن يسأل ربه لهم ما كان الله قد كفاهم بقوله لهم: " اذبحوا بقرة ". لأنه جل ثناؤه إنما أمرهم بذبح بقرة من البقر - أي بقرة شاءوا ذبحها م...
+
+### al-Muyassar (Arabic)
+
+قالوا: ادع لنا ربَّك يوضح لنا صفة هذه البقرة، فأجابهم: إن الله يقول لكم: صفتها ألا تكون مسنَّة هَرِمة، ولا صغيرة فَتِيَّة، وإنما هي متوسطة بينهما، فسارِعوا إلى امتثال أمر ربكم.
+
+### al-Jalalayn (Arabic)
+
+*Not available for this ayah*
+
+---
+
+## 2:69
+
+### Ibn Kathir (English)
+
+The Stubbornness of the Jews regarding the Cow; Allah made the Matter difficult for Them
+Allah mentioned the stubbornness of the Children of Israel and the many unnecessary questions they asked their Messengers. This is why when they were stubborn, Allah made the decisions difficult for them. Had they slaughtered a cow, any cow, it would have been sufficient for them, as Ibn `Abbas and `Ubaydah have said. Instead, they made the matter difficult, and this is why Allah made it even more difficu...
+
+### al-Tabari (Arabic)
+
+القول في تأويل قوله تعالى :  قَالُوا ادْعُ لَنَا رَبَّكَ يُبَيِّنْ لَنَا مَا لَوْنُهَا قَالَ إِنَّهُ يَقُولُ إِنَّهَا بَقَرَةٌ صَفْرَاءُقال أبو جعفر: ومعنى ذلك: قال قوم موسى لموسى: ادع لنا ربك يبين لنا ما لونها؟ أي لون البقرة التي أمرتنا بذبحها. وهذا أيضا تعنت آخر منهم بعد الأول, وتكلف طلب ما قد كانوا كفوه في المرة الثانية والمسألة الآخرة. وذلك أنهم لم يكونوا حصروا في المرة الثانية - إذ قيل لهم بعد مسألتهم عن حلية البقرة التي كانوا أمروا بذبحها، فأبوا إلا تكلف ما قد كفوه من المسألة عن صفتها، ...
+
+### al-Muyassar (Arabic)
+
+فعادوا إلى جدالهم قائلين: ادع لنا ربك يوضح لنا لونها. قال: إنه يقول: إنها بقرة صفراء شديدة الصُّفْرة، تَسُرُّ مَن ينظر إليها.
+
+### al-Jalalayn (Arabic)
+
+*Not available for this ayah*
+
+---
+
+## 2:70
+
+### Ibn Kathir (English)
+
+The Stubbornness of the Jews regarding the Cow; Allah made the Matter difficult for Them
+Allah mentioned the stubbornness of the Children of Israel and the many unnecessary questions they asked their Messengers. This is why when they were stubborn, Allah made the decisions difficult for them. Had they slaughtered a cow, any cow, it would have been sufficient for them, as Ibn `Abbas and `Ubaydah have said. Instead, they made the matter difficult, and this is why Allah made it even more difficu...
+
+### al-Tabari (Arabic)
+
+القول في تأويل قوله تعالى :  قَالُوا ادْعُ لَنَا رَبَّكَ يُبَيِّنْ لَنَا مَا هِيَ إِنَّ الْبَقَرَ تَشَابَهَ عَلَيْنَا وَإِنَّا إِنْ شَاءَ اللَّهُ لَمُهْتَدُونَ (70)قال أبو جعفر: يعني بقوله: (قالوا) قال قوم موسى - الذين أمروا بذبح البقرة - لموسى. فترك ذكر موسى، وذكر عائد ذكره، اكتفاء بما دل عليه ظاهر الكلام. وذلك أن معنى الكلام: قالوا له: " ادع ربك ". فلم يذكر " له " لما وصفنا.وقوله: (يبين لنا ما هي)، خبر من الله عن القوم بجهلة منهم ثالثة. وذلك أنهم لو كانوا، إذ أمروا بذبح البقرة، ذبحوا أيتها ...
+
+### al-Muyassar (Arabic)
+
+قال بنو إسرائيل لموسى: ادع لنا ربك يوضح لنا صفات أخرى غير ما سبق؛ لأن البقر -بهذه الصفات- كثير فاشْتَبَهَ علينا ماذا نختار؟ وإننا -إن شاء الله- لمهتدون إلى البقرة المأمور بذبحها.
+
+### al-Jalalayn (Arabic)
+
+*Not available for this ayah*
+
+---
+
+## 2:71
+
+### Ibn Kathir (English)
+
+The Stubbornness of the Jews regarding the Cow; Allah made the Matter difficult for Them
+Allah mentioned the stubbornness of the Children of Israel and the many unnecessary questions they asked their Messengers. This is why when they were stubborn, Allah made the decisions difficult for them. Had they slaughtered a cow, any cow, it would have been sufficient for them, as Ibn `Abbas and `Ubaydah have said. Instead, they made the matter difficult, and this is why Allah made it even more difficu...
+
+### al-Tabari (Arabic)
+
+القول في تأويل قوله تعالى :  قَالَ إِنَّهُ يَقُولُ إِنَّهَا بَقَرَةٌ لا ذَلُولٌ تُثِيرُ الأَرْضَ وَلا تَسْقِي الْحَرْثَقال أبو جعفر: وتأويل ذلك: قال موسى: إن الله يقول إن البقرة التي أمرتكم بذبحها بقرة لا ذلول.ويعني بقوله: (لا ذلول)، أي لم يذللها العمل. فمعنى الآية: إنها بقرة لم تذللها إثارة الأرض بأظلافها, ولا سُنِيَ عليها الماء فيُسقى عليها الزرع. (19) كما يقال للدابة التي قد ذللها الركوب أو العمل: " دابة ذلول بينة الذِّل " بكسر الذال. (20) ويقال في مثله من بني آدم: " رجل ذليل بين الذِّل وا...
+
+### al-Muyassar (Arabic)
+
+قال لهم موسى: إن الله يقول: إنها بقرة غير مذللة للعمل في حراثة الأرض للزراعة، وغير معدة للسقي من الساقية، وخالية من العيوب جميعها، وليس فيها علامة من لون غير لون جلدها. قالوا: الآن جئت بحقيقة وصف البقرة، فاضطروا إلى ذبحها بعد طول المراوغة، وقد قاربوا ألا يفعلوا ذلك لعنادهم. وهكذا شددوا فشدَّد الله عليهم.
+
+### al-Jalalayn (Arabic)
+
+*Not available for this ayah*
+
+---
+
+## 2:72
+
+### Ibn Kathir (English)
+
+Bringing the murdered Man back to Life
+Al-Bukhari said that,
+فَادَرَأْتُمْ فِيهَا
+(And disagreed among yourselves as to the crime) means, "Disputed."
+This is also the Tafsir of Mujahid. `Ata' Al-Khurasani and Ad-Dahhak said, "Disputed about this matter." Also, Ibn Jurayj said that,
+وَإِذْ قَتَلْتُمْ نَفْسًا فَادَرَأْتُمْ فِيهَا
+(And (remember) when you killed a man and disagreed among yourselves as to the crime) means, some of them said, "You killed him," while the others said, "No you killed...
+
+### al-Tabari (Arabic)
+
+القول في تأويل قوله تعالى :  وَإِذْ قَتَلْتُمْ نَفْسًا فَادَّارَأْتُمْ فِيهَاقال أبو جعفر: يعني بقوله جل ثناؤه: (وإذ قتلتم نفسا)، واذكروا يا بني إسرائيل إذ قتلتم نفسا. و " النفس " التي قتلوها، هي النفس التي ذكرنا قصتها في تأويل قوله:  وَإِذْ قَالَ مُوسَى لِقَوْمِهِ إِنَّ اللَّهَ يَأْمُرُكُمْ أَنْ تَذْبَحُوا بَقَرَةً .* * *وقوله: (فادارأتم فيها)، يعني فاختلفتم وتنازعتم. وإنما هو " فتدارأتم فيها " على مثال " تفاعلتم "، من الدرء. و " الدرء ": العوج, ومنه قول أبي النجم العجلي:خشــية ضَغّــام إذا ...
+
+### al-Muyassar (Arabic)
+
+واذكروا إذ قتلتم نفسًا فتنازعتم بشأنها، كلٌّ يدفع عن نفسه تهمة القتل، والله مخرج ما كنتم تخفون مِن قَتْل القتيل.
+
+### al-Jalalayn (Arabic)
+
+*Not available for this ayah*
+
+---
+
+## 2:73
+
+### Ibn Kathir (English)
+
+Bringing the murdered Man back to Life
+Al-Bukhari said that,
+فَادَرَأْتُمْ فِيهَا
+(And disagreed among yourselves as to the crime) means, "Disputed."
+This is also the Tafsir of Mujahid. `Ata' Al-Khurasani and Ad-Dahhak said, "Disputed about this matter." Also, Ibn Jurayj said that,
+وَإِذْ قَتَلْتُمْ نَفْسًا فَادَرَأْتُمْ فِيهَا
+(And (remember) when you killed a man and disagreed among yourselves as to the crime) means, some of them said, "You killed him," while the others said, "No you killed...
+
+### al-Tabari (Arabic)
+
+القول في تأويل قوله تعالى :  فَقُلْنَا اضْرِبُوهُ بِبَعْضِهَاقال أبو جعفر: يعني جل ذكره بقوله: فقلنا لقوم موسى الذين ادارءوا في القتيل (46) - الذي قد تقدم وصفنا أمره - : اضربوا القتيل. و " الهاء " التي في قوله: (اضربوه) من ذكر القتيل؛(ببعضها) أي: ببعض البقرة التي أمرهم الله بذبحها فذبحوها.* * *ثم اختلف العلماء في البعض الذي ضرب به القتيل من البقرة، وأي عضو كان ذلك منها. فقال بعضهم: ضرب بفخذ البقرة القتيل.* ذكر من قال ذلك:1305 - حدثني محمد بن عمرو قال، حدثنا أبو عاصم قال، حدثنا عيسى, عن ابن أب...
+
+### al-Muyassar (Arabic)
+
+فقلنا: اضربوا القتيل بجزء من هذه البقرة المذبوحة، فإن الله سيبعثه حيًا، ويخبركم عن قاتله. فضربوه ببعضها فأحياه الله وأخبر بقاتله. كذلك يُحيي الله الموتى يوم القيامة، ويريكم- يا بني إسرائيل- معجزاته الدالة على كمال قدرته تعالى؛ لكي تتفكروا بعقولكم، فتمتنعوا عن معاصيه.
+
+### al-Jalalayn (Arabic)
+
+*Not available for this ayah*
+
+---
+
+## 2:74
+
+### Ibn Kathir (English)
+
+The Harshness of the Jews
+Allah criticized the Children of Israel because they witnessed the tremendous signs and the Ayat of Allah, including bringing the dead back to life, yet,
+ثُمَّ قَسَتْ قُلُوبُكُمْ مِّن بَعْدِ ذلِكَ
+(Then after that your hearts were hardened).
+So their hearts were like stones that never become soft. This is why Allah forbade the believers from imitating the Jews when He said,
+أَلَمْ يَأْنِ لِلَّذِينَ ءَامَنُواْ أَن تَخْشَعَ قُلُوبُهُمْ لِذِكْرِ اللَّهِ وَمَا نَزَلَ مِن...
+
+### al-Tabari (Arabic)
+
+القول في تأويل قوله تعالى :  ثُمَّ قَسَتْ قُلُوبُكُمْ مِنْ بَعْدِ ذَلِكَقال أبو جعفر: يعني بذلك كفار بني إسرائيل, وهم -فيما ذكر- بنو أخي المقتول, فقال لهم: " ثم قست قلوبكم ": أي جفت وغلظت وعست, كما قال الراجز:وقد قسوت وقسا لداتي (54)يقال: " قسا " و " عسا " و " عتا " بمعنى واحد, وذلك إذا جفا وغلظ وصلب. يقال: منه: قسا قلبه يقسو قسوا وقسوة وقساوة وقَساء. (55)* * *ويعني بقوله: (من بعد ذلك)، من بعد أن أحيا المقتول لهم الذي - ادارءوا &; 2-234 &; في قتله، فأخبرهم بقاتله، وبالسبب الذي من أجله قتله، (...
+
+### al-Muyassar (Arabic)
+
+ولكنكم لم تنتفعوا بذلك؛ إذ بعد كل هذه المعجزات الخارقة اشتدت قلوبكم وغلظت، فلم يَنْفُذ إليها خير، ولم تَلِنْ أمام الآيات الباهرة التي أريتكموها، حتى صارت قلوبكم مثل الحجارة الصمَّاء، بل هي أشد منها غلظة؛ لأن من الحجارة ما يتسع وينفرج حتى تنصبَّ منه المياه صبًا، فتصير أنهارًا جاريةً، ومن الحجارة ما يتصدع فينشق، فتخرج منه العيون والينابيع، ومن الحجارة ما يسقط من أعالي الجبال مِن خشية الله تعالى وتعظيمه. وما الله بغافل عما تعملون.
+
+### al-Jalalayn (Arabic)
+
+*Not available for this ayah*
+
+---
+
+## 2:75
+
+### Ibn Kathir (English)
+
+There was little Hope that the Jews Who lived during the Time of the Prophet could have believed
+Allah said,
+أَفَتَطْمَعُونَ
+(Do you covet) O believers,
+أَن يُؤْمِنُواْ لَكُمْ
+(That they will believe in your religion) meaning, that these people would obey you They are the deviant sect of Jews whose fathers witnessed the clear signs but their hearts became hard afterwards. Allah said next,
+وَقَدْ كَانَ فَرِيقٌ مِّنْهُمْ يَسْمَعُونَ كَلَـمَ اللَّهِ ثُمَّ يُحَرِّفُونَهُ
+(Inspite of the fact that...
+
+### al-Tabari (Arabic)
+
+القول في تأويل قوله تعالى :  أَفَتَطْمَعُونَ أَنْ يُؤْمِنُوا لَكُمْقال أبو جعفر: يعني بقوله جل ثناؤه: (أفتطمعون) يا أصحاب محمد, أي: أفترجون يا معشر المؤمنين بمحمد صلى الله عليه وسلم، والمصدقين ما جاءكم به من عند الله، أن يؤمن لكم يهود بني إسرائيل؟* * *ويعني بقوله: (أن يؤمنوا لكم)، أن يصدقوكم بما جاءكم به نبيكم صلى الله عليه وسلم محمد من عند ربكم، كما:-1326 - حُدثت عن عمار بن الحسن, عن ابن أبي جعفر, عن أبيه, عن الربيع في قوله (أفتطمعون أن يؤمنوا لكم)، يعني أصحاب محمد صلى الله عليه وسلم،" أن يؤ...
+
+### al-Muyassar (Arabic)
+
+أيها المسلمون أنسيتم أفعال بني إسرائيل، فطمعت نفوسكم أن يصدِّق اليهودُ بدينكم؟ وقد كان علماؤهم يسمعون كلام الله من التوراة، ثم يحرفونه بِصَرْفِه إلى غير معناه الصحيح بعد ما عقلوا حقيقته، أو بتحريف ألفاظه، وهم يعلمون أنهم يحرفون كلام رب العالمين عمدًا وكذبًا.
+
+### al-Jalalayn (Arabic)
+
+*Not available for this ayah*
+
+---

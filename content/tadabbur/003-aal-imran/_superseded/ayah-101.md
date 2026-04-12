@@ -12,6 +12,7 @@ passage_context: "After 3:100 warned the believers not to obey a faction that wo
 generated_by: "codex-tadabbur"
 validated: false
 tags: [iman, quran, rasul]
+concepts: [iman, quran, hidayah, tawakkul]
 ---
 
 <!-- morphology:3:101:3 root=كفر pos=V -->

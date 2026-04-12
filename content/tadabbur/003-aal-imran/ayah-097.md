@@ -14,6 +14,7 @@ passage_context: "After 3:96 names the first House established for mankind at Ba
 generated_by: "codex-tadabbur"
 validated: false
 tags: [ibrahim]
+concepts: [ibadah, signs-of-allah, prophetic-stories, tawhid]
 ---
 
 <!-- morphology:3:97:3 root=أيي pos=N -->

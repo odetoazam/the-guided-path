@@ -1,7 +1,8 @@
 ---
 surah: 2
-surah_name: Al-Baqarah
-ayah: 25
+surah_name: "Al-Baqarah"
+ayah_start: 25
+ayah_end: 25
 title: "The Fruit You Already Know — When Paradise Feels Like Coming Home"
 arabic: "وَبَشِّرِ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ أَنَّ لَهُمْ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ۖ كُلَّمَا رُزِقُوا۟ مِنْهَا مِن ثَمَرَةٍ رِّزْقًا ۙ قَالُوا۟ هَـٰذَا ٱلَّذِى رُزِقْنَا مِن قَبْلُ ۖ وَأُتُوا۟ بِهِۦ مُتَشَـٰبِهًا ۖ وَلَهُمْ فِيهَآ أَزْوَٰجٌ مُّطَهَّرَةٌ ۖ وَهُمْ فِيهَا خَـٰلِدُونَ"
 translation: "And give glad tidings to those who believe and do righteous deeds that they will have gardens beneath which rivers flow. Every time they are provided from it a fruit as provision, they will say, 'This is what we were provided before.' And they will be given it in resemblance. And for them therein are purified spouses, and they will abide therein eternally."
@@ -9,8 +10,11 @@ word_count: 34
 estimated_duration: "48-55 minutes"
 generated_by: "quranic-tadabbur skill"
 validated: true
+concepts: [jannah, iman, akhirah, shukr, rizq]
 validation_date: "2026-03-23"
 passage_context: "Immediately after the Fire warning (2:24). The Quran's characteristic balance: punishment for the rejectors, then — instantly — glad tidings for the believers. This is the first detailed description of Paradise in Al-Baqarah."
+slug: "002-025"
+category: tadabbur
 ---
 
 <!--

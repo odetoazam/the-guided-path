@@ -14,6 +14,7 @@ passage_context: "After 3:97 described the House, its clear signs, and the oblig
 generated_by: "codex-tadabbur"
 validated: false
 tags: []
+concepts: [signs-of-allah, ahl-al-kitab, iman, ihsan, accountability]
 ---
 
 <!-- morphology:3:98:1 root=قول pos=V -->

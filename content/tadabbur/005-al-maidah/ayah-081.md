@@ -14,6 +14,7 @@ passage_context: "After 5:80 exposed the ruinous loyalties many had formed with 
 generated_by: "codex-tadabbur"
 validated: false
 tags: [iman, wilayah, alliances, fisq, revelation]
+concepts: [iman, quran, prophethood, nafs, law-and-ethics]
 ---
 
 <!-- morphology:5:81:3 root=كون pos=V -->

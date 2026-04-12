@@ -7,6 +7,7 @@ title: "The Verdict That Leaves No Backup"
 slug: "003-056"
 category: tadabbur
 tags: [kufr, 'adhab, dunya, akhirah, nasr]
+concepts: [akhirah, accountability, iman, jahannam]
 validated: false
 ---
 

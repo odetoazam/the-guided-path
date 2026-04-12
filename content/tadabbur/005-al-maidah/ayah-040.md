@@ -14,6 +14,7 @@ passage_context: "After Al-Ma'idah has laid down legal consequence for theft and
 generated_by: "codex-tadabbur"
 validated: false
 tags: [mulk, forgiveness, punishment, sovereignty, qadr]
+concepts: [tawhid, tawbah, accountability, raja, khashyah]
 ---
 
 <!-- morphology:5:40:3 root=علم pos=V -->

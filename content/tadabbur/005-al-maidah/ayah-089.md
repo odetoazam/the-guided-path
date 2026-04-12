@@ -14,6 +14,7 @@ passage_context: "After 5:87-88 corrected self-made restriction and taught belie
 generated_by: "codex-tadabbur"
 validated: false
 tags: [oaths, speech, kaffarah, taqwa, shukr]
+concepts: [taqwa, shukr, law-and-ethics, accountability, tawbah]
 ---
 
 <!-- morphology:5:89:2 root=أخذ pos=V -->

@@ -2,7 +2,8 @@
 title: "The Only Reason You Exist — Five Words That Answer Everything"
 surah: 51
 surah_name: "Adh-Dhariyat"
-ayah_range: "56"
+ayah_start: 56
+ayah_end: 56
 estimated_duration: "48-55 minutes"
 validated: true
 arabic_verified: true
@@ -16,6 +17,9 @@ themes:
   - "The Answer You Already Had — purpose is not something to find, it's something to accept"
   - "Worship as the Reason, Not the Reward — reversing the transactional assumption"
 methodology: "tafsir_bil_dirayah_with_riwayah"
+slug: "051-056"
+category: tadabbur
+word_count: 3146
 ---
 
 <!-- STEP 0: LINGUISTIC GROUNDING AUDIT -->

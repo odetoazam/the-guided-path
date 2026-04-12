@@ -14,6 +14,7 @@ passage_context: "This is the final verse of the Iblis-Adam scene in Al-A'raf, i
 generated_by: "claude-opus"
 validated: false
 tags: [iblis, jahannam, kibr, dahr, judgment]
+concepts: [shaytan, jahannam, accountability, akhirah, iman]
 ---
 
 <!-- morphology:7:18:2 root=خرج pos=V -->

@@ -14,6 +14,7 @@ passage_context: "At the very end of Surah Aal-Imran, after stories of argument,
 generated_by: "codex-tadabbur"
 validated: false
 tags: [sabr, taqwa, falah, ribat]
+concepts: [sabr, taqwa, iman, divine-testing, ummah]
 ---
 
 <!-- morphology:3:200:2 root=أيي pos=N -->

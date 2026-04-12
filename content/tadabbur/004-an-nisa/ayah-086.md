@@ -14,6 +14,7 @@ passage_context: "After naming the moral consequence of what we help set in moti
 generated_by: "codex-tadabbur"
 validated: false
 tags: [tahiyyah, ihsan, adab, community, hisab]
+concepts: [ihsan, ummah, accountability, ibadah, taqwa]
 ---
 
 <!-- morphology:4:86:3 root=حيي pos=V -->

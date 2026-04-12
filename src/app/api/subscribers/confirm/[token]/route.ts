@@ -43,7 +43,7 @@ export async function GET(request: Request, { params }: Params) {
   // Send welcome email with free guide
   try {
     const unsubscribeUrl = `${SITE_URL}/api/subscribers/unsubscribe?token=${subscriber.unsubscribe_token}`
-    const guideUrl = 'https://www.ayahguide.com/guides/tafsir-tadabbur-guide.pdf'
+    const guideUrl = 'https://www.ayahguide.com/guides/architecture-of-guidance.pdf'
     const name = subscriber.name
 
     await getResend().emails.send({
@@ -70,9 +70,9 @@ export async function GET(request: Request, { params }: Params) {
 
               <div style="background-color:#111113;border:1px solid #D4AF37;border-radius:10px;padding:24px;margin:0 0 24px;text-align:center;">
                 <p style="color:#D4AF37;font-size:11px;font-weight:600;letter-spacing:0.12em;text-transform:uppercase;margin:0 0 8px;">Your Free Guide</p>
-                <p style="color:#ffffff;font-size:18px;font-weight:600;margin:0 0 6px;font-family:Georgia,serif;">A Practical Guide to Tafsir &amp; Tadabbur</p>
+                <p style="color:#ffffff;font-size:18px;font-weight:600;margin:0 0 6px;font-family:Georgia,serif;">The Architecture of Guidance</p>
                 <p style="color:#71717a;font-size:14px;margin:0 0 20px;line-height:1.6;">
-                  The classical tools of Quranic commentary — and how to turn them into a living practice of reflection.
+                  How the Quran reshapes the world you see — a guide to understanding divine guidance, the self, and the signs that surround us.
                 </p>
                 <a href="${guideUrl}" style="display:inline-block;background-color:#D4AF37;color:#000000;padding:13px 36px;border-radius:8px;text-decoration:none;font-weight:700;font-size:15px;">
                   Download the Guide (PDF)

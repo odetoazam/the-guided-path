@@ -5,6 +5,7 @@ import { SURAHS, surahIdentity, surahSlug, surahBySlug } from '@/lib/surahs'
 import { getSurahVFX } from '@/lib/surah-vfx'
 import { SurahCanvas } from '@/components/surah/SurahCanvas'
 import { SurahTabs } from '@/components/surah/SurahTabs'
+import { SurahActions } from '@/components/SurahActions'
 import type { Metadata } from 'next'
 import { CANONICAL_URL, SITE_NAME } from '@/lib/constants'
 
@@ -251,6 +252,11 @@ export default async function SurahDetailPage({ params }: Props) {
             <span className="h-px w-8" style={{ background: `${glowColor}0.3)` }} />
           </div>
         </div>
+      </div>
+
+      {/* Save / explored tracking */}
+      <div className="mx-auto max-w-3xl px-5 pt-5 pb-1">
+        <SurahActions slug={slug} />
       </div>
 
       {/* Tabbed content */}

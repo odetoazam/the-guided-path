@@ -12,6 +12,7 @@ passage_context: "After 3:98 confronted the People of the Book for their own kuf
 generated_by: "codex-tadabbur"
 validated: false
 tags: []
+concepts: [hidayah, ahl-al-kitab, dawah, law-and-ethics]
 ---
 
 <!-- morphology:3:99:1 root=قول pos=V -->

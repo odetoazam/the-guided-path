@@ -14,6 +14,7 @@ passage_context: "After declaring that creation is not meaningless and pleading 
 generated_by: "codex-tadabbur"
 validated: false
 tags: [jahannam, zulm, akhirah]
+concepts: [jahannam, accountability, akhirah, tawbah, nafs]
 ---
 
 <!-- morphology:3:192:1 root=ربب pos=N -->

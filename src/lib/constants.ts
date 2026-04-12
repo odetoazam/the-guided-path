@@ -1,5 +1,5 @@
 export const SITE_NAME = 'AyahGuide'
-export const SITE_DESCRIPTION = 'Deep Quranic reflections (tadabbur) delivered to your inbox'
+export const SITE_DESCRIPTION = 'A path to guidance through contemplation of the Quran'
 export const SITE_URL = process.env.NEXT_PUBLIC_APP_URL || 'http://localhost:3000'
 export const CANONICAL_URL = 'https://www.ayahguide.com'
 

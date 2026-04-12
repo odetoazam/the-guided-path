@@ -5,7 +5,7 @@ import { CANONICAL_URL, SITE_NAME } from '@/lib/constants'
 import { SURAHS, surahSlug } from '@/lib/surahs'
 
 const pageUrl = `${CANONICAL_URL}/surahs`
-const DESCRIPTION = 'Explore all 114 surahs of the Quran with deep reflections (tadabbur), linguistic analysis, and contemplative insights on each chapter.'
+const DESCRIPTION = '114 chapters. Each one a complete sign pointing toward the Divine. Begin anywhere — or begin at the beginning.'
 
 export const metadata: Metadata = {
   title: 'Surah Map — All 114 Surahs of the Quran',
@@ -71,7 +71,7 @@ export default async function SurahsPage() {
             The Surah Map
           </h1>
           <p className="mt-2 text-sm text-cream/40">
-            All 114 surahs of the Quran — explore reflections on each chapter
+            114 chapters. Each one a complete sign. Begin anywhere — or begin at the beginning.
           </p>
         </div>
 

@@ -14,6 +14,7 @@ passage_context: "After exposing the insincerity of those who kept inventing con
 generated_by: "codex-tadabbur"
 validated: false
 tags: [rasul, anbiya, quran]
+concepts: [prophethood, prophetic-stories, hidayah, sabr]
 ---
 
 <!-- morphology:3:184:3 root=كذب pos=V -->

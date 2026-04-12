@@ -14,6 +14,7 @@ passage_context: "After opening Al-Maidah with a command to fulfill contracts, t
 generated_by: "codex-tadabbur"
 validated: false
 tags: [shaair, sacred-limits, grievance, cooperation, taqwa]
+concepts: [taqwa, ibadah, social-justice, ummah, law-and-ethics]
 ---
 
 <!-- morphology:5:2:8 root=حلل pos=V -->

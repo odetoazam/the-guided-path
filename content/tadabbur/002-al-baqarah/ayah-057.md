@@ -1,7 +1,8 @@
 ---
 surah: 2
-surah_name: Al-Baqarah
-ayah: 57
+surah_name: "Al-Baqarah"
+ayah_start: 57
+ayah_end: 57
 title: "Cloud Shade and Heavenly Food — Why Ingratitude Only Hurts the Ingrate"
 arabic: "وَظَلَّلْنَا عَلَيْكُمُ ٱلْغَمَامَ وَأَنزَلْنَا عَلَيْكُمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ ۖ كُلُوا۟ مِن طَيِّبَـٰتِ مَا رَزَقْنَـٰكُمْ ۖ وَمَا ظَلَمُونَا وَلَـٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ"
 translation: "And We shaded you with clouds and sent down to you manna and quail, [saying], 'Eat from the good things with which We have provided you.' And they did not wrong Us, but they were wronging themselves."
@@ -9,8 +10,11 @@ word_count: 34
 estimated_duration: "48-55 minutes"
 generated_by: "quranic-tadabbur skill"
 validated: true
+concepts: [shukr, rizq, prophetic-stories, nafs, history]
 validation_date: "2026-03-23"
 passage_context: "Continuing the Bani Israel favors. After thunderbolt and resurrection (55-56), Allah immediately lists MORE gifts: shade, manna, quail. The pattern: miracle → ingratitude → more gifts → more ingratitude. This verse describes divine provision that requires ZERO human effort — food from the sky, shade from the clouds — and reveals that their failure to be grateful harmed no one but themselves."
+slug: "002-057"
+category: tadabbur
 ---
 
 <!--

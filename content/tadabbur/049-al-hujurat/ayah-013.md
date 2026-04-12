@@ -1,10 +1,14 @@
 ---
 title: "The Only Hierarchy That Matters Is the One No Human Eye Can See"
-ayah: "49:13"
+ayah_start: 13
+ayah_end: 13
 surah: "Al-Hujurat"
-slug: "49-13-taqwa-criterion"
+slug: "049-013"
 type: "tadabbur"
 estimatedDuration: "48-58 minutes"
+category: tadabbur
+surah_name: "Al-Hujurat"
+word_count: 3952
 ---
 
 <!-- STEP 0: LINGUISTIC GROUNDING TABLE (Internal — for verification) -->

@@ -14,6 +14,7 @@ passage_context: "After reminding the believers that worldly life is deceptive a
 generated_by: "codex-tadabbur"
 validated: false
 tags: [sabr, taqwa, ahl-al-kitab]
+concepts: [divine-testing, sabr, taqwa, ahl-al-kitab]
 ---
 
 <!-- morphology:3:186:2 root=بلو pos=V -->

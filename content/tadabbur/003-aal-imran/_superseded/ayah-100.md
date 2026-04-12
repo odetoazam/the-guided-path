@@ -12,6 +12,7 @@ passage_context: "After 3:98-99 directly confronted some of the People of the Bo
 generated_by: "codex-tadabbur"
 validated: false
 tags: [iman]
+concepts: [iman, ahl-al-kitab, tawakkul, hidayah]
 ---
 
 <!-- morphology:3:100:5 root=أمن pos=V -->

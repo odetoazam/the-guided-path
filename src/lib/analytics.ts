@@ -84,3 +84,20 @@ export function trackThemeToggle(theme: string) {
 export function trackBranchingNav(direction: 'prev' | 'next', fromSlug: string, toSlug: string) {
   posthog.capture('branching_nav', { direction, from_slug: fromSlug, to_slug: toSlug })
 }
+
+// ─── Guidance Journey Signals ───────────────────────────────────────────────
+
+/** Fired when a user visits the same slug in a new session — strongest signal of resonance */
+export function trackContentReturn(slug: string, contentType: string) {
+  posthog.capture('content_return', { slug, content_type: contentType })
+}
+
+/** Fired on the first page of a new session — reveals where the guidance journey actually begins */
+export function trackGuidanceEntryPoint(path: string, referrer: string) {
+  posthog.capture('guidance_entry_point', { path, referrer })
+}
+
+/** Fired after 3+ pages in a session — distinguishes active seekers from passive browsers */
+export function trackSessionDepth(pageCount: number, path: string) {
+  posthog.capture('session_depth', { page_count: pageCount, current_path: path })
+}

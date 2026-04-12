@@ -14,6 +14,7 @@ passage_context: "Right after 5:68 declared that inherited scriptural identity m
 generated_by: "codex-tadabbur"
 validated: false
 tags: [iman, akhirah, righteous-action, labels, salvation]
+concepts: [iman, akhirah, accountability, ahl-al-kitab, hidayah]
 ---
 
 <!-- morphology:5:69:3 root=أمن pos=V -->

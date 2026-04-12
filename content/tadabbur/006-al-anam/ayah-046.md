@@ -14,6 +14,7 @@ passage_context: "After Al-Anam recalls earlier peoples who were struck so they 
 generated_by: "codex-tadabbur"
 validated: false
 tags: [sama, basar, qalb, ayat, tawhid]
+concepts: [tawhid, signs-of-allah, qalb, shukr, fitrah]
 ---
 
 <!-- morphology:6:46:1 root=قول pos=V -->

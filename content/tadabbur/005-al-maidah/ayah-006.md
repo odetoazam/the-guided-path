@@ -14,6 +14,7 @@ passage_context: "After Al-Ma'idah opened with contracts, sacred limits, perfect
 generated_by: "codex-tadabbur"
 validated: false
 tags: [wudu, tayammum, purification, salah, gratitude]
+concepts: [ibadah, shukr, taqwa, ihsan, fitrah]
 ---
 
 <!-- morphology:5:6:5 root=أمن pos=V -->

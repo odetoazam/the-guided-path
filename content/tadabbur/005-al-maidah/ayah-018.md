@@ -14,6 +14,7 @@ passage_context: "After exposing concealed scripture and announcing that Allah's
 generated_by: "codex-tadabbur"
 validated: false
 tags: [accountability, chosen-status, human-condition, divine-love, return]
+concepts: [tawhid, accountability, akhirah, ahl-al-kitab, tawbah]
 ---
 
 <!-- morphology:5:18:12 root=حبب pos=N -->

@@ -14,6 +14,7 @@ passage_context: "After exposing miserliness, showy spending, and insincere rela
 generated_by: "codex-tadabbur"
 validated: false
 tags: [justice, hasanah, reward, akhirah, rahmah]
+concepts: [accountability, akhirah, ihsan, tawhid, raja]
 ---
 
 <!-- morphology:4:40:2 root=أله pos=N -->

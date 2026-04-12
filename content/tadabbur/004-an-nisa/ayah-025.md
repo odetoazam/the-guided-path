@@ -14,6 +14,7 @@ passage_context: "After setting marriage prohibitions in 4:22-24, the surah turn
 generated_by: "codex-tadabbur"
 validated: false
 tags: [nikah, iman, maruf, chastity, rahmah]
+concepts: [iman, family, law-and-ethics, sabr, social-justice]
 ---
 
 <!-- morphology:4:25:4 root=طوع pos=V -->

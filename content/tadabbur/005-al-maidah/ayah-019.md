@@ -14,6 +14,7 @@ passage_context: "After Al-Ma'idah has exposed concealed revelation, denied fals
 generated_by: "codex-tadabbur"
 validated: false
 tags: [fatrah, messenger, excuse, warning, good-news]
+concepts: [prophethood, hidayah, ahl-al-kitab, akhirah, dawah]
 ---
 
 <!-- morphology:5:19:10 root=بين pos=V -->

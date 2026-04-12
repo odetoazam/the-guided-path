@@ -14,6 +14,7 @@ passage_context: "After warning believers not to be deceived by the worldly circ
 generated_by: "codex-tadabbur"
 validated: false
 tags: [taqwa, jannah, akhirah, abrar]
+concepts: [taqwa, jannah, akhirah, ihsan, khashyah]
 ---
 
 <!-- morphology:3:198:3 root=وقي pos=V -->

@@ -14,6 +14,7 @@ passage_context: "After repeatedly exposing distortions, concealment, vanity, an
 generated_by: "codex-tadabbur"
 validated: false
 tags: [ahl-al-kitab, iman, khushu, sidq]
+concepts: [ahl-al-kitab, iman, hidayah, quran, khashyah]
 ---
 
 <!-- morphology:3:199:4 root=أهل pos=N -->

@@ -14,6 +14,7 @@ passage_context: "After re-establishing Allah's total dominion over the heavens 
 generated_by: "codex-tadabbur"
 validated: false
 tags: [quran, tafakkur, ayat]
+concepts: [signs-of-allah, aql, creation, nature, tawhid]
 ---
 
 <!-- morphology:3:190:3 root=خلق pos=N -->

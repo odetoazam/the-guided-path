@@ -3,7 +3,8 @@
 import posthog from 'posthog-js'
 import { PostHogProvider as PHProvider, usePostHog } from 'posthog-js/react'
 import { usePathname, useSearchParams } from 'next/navigation'
-import { useEffect, useState, Suspense } from 'react'
+import { useEffect, useState, useRef, Suspense } from 'react'
+import { trackGuidanceEntryPoint, trackSessionDepth } from '@/lib/analytics'
 
 const POSTHOG_KEY = process.env.NEXT_PUBLIC_POSTHOG_KEY || ''
 const POSTHOG_HOST = process.env.NEXT_PUBLIC_POSTHOG_HOST || 'https://us.i.posthog.com'
@@ -13,7 +14,8 @@ let posthogInitialized = false
 function initPostHog() {
   if (!POSTHOG_KEY || posthogInitialized) return
   posthog.init(POSTHOG_KEY, {
-    api_host: POSTHOG_HOST,
+    api_host: '/ingest',
+    ui_host: POSTHOG_HOST,
     person_profiles: 'identified_only',
     capture_pageview: false,
     capture_pageleave: true,
@@ -29,6 +31,8 @@ function PostHogPageView() {
   const pathname = usePathname()
   const searchParams = useSearchParams()
   const ph = usePostHog()
+  const pageCountRef = useRef(0)
+  const isFirstPageRef = useRef(true)
 
   useEffect(() => {
     if (pathname && ph) {
@@ -36,6 +40,19 @@ function PostHogPageView() {
       const search = searchParams.toString()
       if (search) url += '?' + search
       ph.capture('$pageview', { $current_url: url })
+
+      pageCountRef.current += 1
+
+      // First page of session — record entry point
+      if (isFirstPageRef.current) {
+        isFirstPageRef.current = false
+        trackGuidanceEntryPoint(pathname, document.referrer)
+      }
+
+      // 3+ pages in session — active seeker signal
+      if (pageCountRef.current === 3) {
+        trackSessionDepth(3, pathname)
+      }
     }
   }, [pathname, searchParams, ph])
 

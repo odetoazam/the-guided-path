@@ -14,6 +14,7 @@ passage_context: "After the opening commands of Al-Maidah on contracts and the s
 generated_by: "codex-tadabbur"
 validated: false
 tags: [completion, halal-haram, fear, necessity, islam]
+concepts: [tawhid, quran, khashyah, law-and-ethics, iman]
 ---
 
 <!-- morphology:5:3:1 root=حرم pos=V -->

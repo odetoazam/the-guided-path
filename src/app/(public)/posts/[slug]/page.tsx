@@ -10,6 +10,7 @@ import type { Metadata } from 'next'
 import { CANONICAL_URL, SITE_NAME } from '@/lib/constants'
 import type { Entity, EntityCategory } from '@/types'
 import { ArticleContent } from '@/components/ArticleContent'
+import { PostActions } from '@/components/PostActions'
 
 interface Props {
   params: Promise<{ slug: string }>
@@ -408,6 +409,11 @@ export default async function PostPage({ params }: Props) {
             <div className="h-px flex-1 bg-gradient-to-r from-transparent via-gold-500/30 to-transparent" />
             <span className="text-gold-500/50 text-sm">۞</span>
             <div className="h-px flex-1 bg-gradient-to-r from-transparent via-gold-500/30 to-transparent" />
+          </div>
+
+          {/* Save / read tracking */}
+          <div className="mt-5">
+            <PostActions slug={post.slug} />
           </div>
         </header>
 

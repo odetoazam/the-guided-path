@@ -82,6 +82,7 @@ export async function POST(request: Request) {
   }
 
   const { email, name, source } = parsed.data
+  const isAuthSignup = source === 'auth_signup'
   const adminClient = createAdminClient()
 
   // Check if already subscribed
@@ -93,14 +94,24 @@ export async function POST(request: Request) {
 
   if (existing) {
     if (existing.status === 'active') {
+      // Silent no-op for auth signups — user is already subscribed
+      if (isAuthSignup) return NextResponse.json({ message: 'Already subscribed.' })
       return NextResponse.json({ error: 'You are already subscribed!' }, { status: 400 })
     }
     if (existing.status === 'pending') {
+      if (isAuthSignup) {
+        // Activate directly — auth already verified the email
+        await adminClient
+          .from('subscribers')
+          .update({ status: 'active', confirmation_token: null })
+          .eq('id', existing.id)
+        return NextResponse.json({ message: 'Subscribed.' })
+      }
       return NextResponse.json({ message: 'Please check your email to confirm your subscription.' })
     }
   }
 
-  const confirmationToken = crypto.randomUUID()
+  const confirmationToken = isAuthSignup ? null : crypto.randomUUID()
   const unsubscribeToken = crypto.randomUUID()
 
   if (existing) {
@@ -108,7 +119,7 @@ export async function POST(request: Request) {
     await adminClient
       .from('subscribers')
       .update({
-        status: 'pending',
+        status: isAuthSignup ? 'active' : 'pending',
         confirmation_token: confirmationToken,
         unsubscribe_token: unsubscribeToken,
         unsubscribed_at: null,
@@ -120,7 +131,7 @@ export async function POST(request: Request) {
       email,
       name: name || null,
       source: source || 'website',
-      status: 'pending',
+      status: isAuthSignup ? 'active' : 'pending',
       confirmation_token: confirmationToken,
       unsubscribe_token: unsubscribeToken,
     })
@@ -132,6 +143,11 @@ export async function POST(request: Request) {
       console.error('Subscriber insert error:', error)
       return NextResponse.json({ error: 'Something went wrong. Please try again.' }, { status: 500 })
     }
+  }
+
+  // Auth signups skip confirmation email — email already verified via Supabase
+  if (isAuthSignup) {
+    return NextResponse.json({ message: 'Subscribed.' }, { status: 201 })
   }
 
   // Send confirmation email

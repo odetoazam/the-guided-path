@@ -1,8 +1,9 @@
 ---
 surah: 24
-ayah: 35
+ayah_start: 35
+ayah_end: 35
 surahName: An-Nur
-slug: nur-24-35-the-almost-light
+slug: "024-035"
 title: "The Almost-Light — What Lives Inside the Lamp"
 description: "An Nur 24:35 — the Light Verse — five nested images of divine illumination, a hidden Kindler, and what it means that the oil almost lights itself without fire."
 category: tadabbur
@@ -16,6 +17,8 @@ themes:
 interSurah: "Companion to 24:40 (darkness diptych); this is the named verse of Surah An-Nur"
 validated: true
 arabic: "۞ ٱللَّهُ نُورُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ مَثَلُ نُورِهِۦ كَمِشْكَوٰةٍ فِيهَا مِصْبَاحٌ ۖ ٱلْمِصْبَاحُ فِى زُجَاجَةٍ ۖ ٱلزُّجَاجَةُ كَأَنَّهَا كَوْكَبٌ دُرِّىٌّ يُوقَدُ مِن شَجَرَةٍ مُّبَـٰرَكَةٍ زَيْتُونَةٍ لَّا شَرْقِيَّةٍ وَلَا غَرْبِيَّةٍ يَكَادُ زَيْتُهَا يُضِىٓءُ وَلَوْ لَمْ تَمْسَسْهُ نَارٌ ۚ نُّورٌ عَلَىٰ نُورٍ ۗ يَهْدِى ٱللَّهُ لِنُورِهِۦ مَن يَشَآءُ ۚ وَيَضْرِبُ ٱللَّهُ ٱلْأَمْثَـٰلَ لِلنَّاسِ ۗ وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌ"
+surah_name: "An-Nur"
+word_count: 4706
 ---
 
 <!-- morphology:24:35:2 root=نور pos=N -->

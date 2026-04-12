@@ -128,7 +128,7 @@ export function SurahTabs({
                   const allSubTabs = [
                     ...(hasWhyTab ? [{ id: 'why', label: 'Why Learn' }] : []),
                     // Filter out diagram tabs with no backing data
-                    ...visualData.tabs.filter((tab) =>
+                    ...(visualData.tabs ?? []).filter((tab) =>
                       tab.renderer === 'text' || !tab.diagramKey || !!visualData.diagrams[tab.diagramKey]
                     ),
                   ]
@@ -185,7 +185,7 @@ export function SurahTabs({
                         </div>
 
                         {/* Diagram tab content */}
-                        {visualData.tabs.map((tab) => (
+                        {(visualData.tabs ?? []).map((tab) => (
                           <div key={tab.id} className={activeSubTab !== tab.id ? 'hidden' : ''}>
                             <DiagramRenderer
                               tab={tab}

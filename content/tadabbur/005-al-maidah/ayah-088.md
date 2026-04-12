@@ -14,6 +14,7 @@ passage_context: "After 5:87 forbade believers from turning Allah's lawful good 
 generated_by: "codex-tadabbur"
 validated: false
 tags: [halal, tayyib, rizq, taqwa, iman]
+concepts: [rizq, taqwa, shukr, iman, ibadah]
 ---
 
 <!-- morphology:5:88:2 root=أكل pos=V -->

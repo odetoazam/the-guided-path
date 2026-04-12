@@ -1,8 +1,9 @@
 ---
 surah: 90
-ayah: 4
+ayah_start: 4
+ayah_end: 4
 surahName: Al-Balad
-slug: balad-90-4-created-inside-struggle
+slug: "090-004"
 title: "Created Inside Struggle — Why كَبَد Was Never the Bug"
 description: "Al-Balad 90:4 — five words that redefine suffering: the human being was not placed alongside toil but INSIDE it, in an indefinite, unbounded struggle that is the medium of existence, not its malfunction."
 category: tadabbur
@@ -19,6 +20,8 @@ methodology: "dirayah (linguistic) with riwayah support from classical readings 
 scholarly_status: "Largely settled; كَبَد = toil/hardship; some add 'upright in the womb' as additional layer"
 validated: true
 arabic: "لَقَدْ خَلَقْنَا ٱلْإِنسَٰنَ فِى كَبَدٍ"
+surah_name: "Al-Balad"
+word_count: 2912
 ---
 
 <!-- morphology:90:4:3 root=خلق pos=V -->

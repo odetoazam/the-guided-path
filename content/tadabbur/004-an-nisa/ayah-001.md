@@ -6,6 +6,7 @@ title: "One Soul, One Womb, One Watcher: The Ayah That Dismantles Every Hierarch
 slug: "004-001"
 category: tadabbur
 tags: [nafs-wahidah, taqwa, arham, raqib, creation, kinship, universal-origin, rahmah]
+concepts: [creation, taqwa, family, fitrah, ihsan]
 estimated_reading_time: 52
 validated: true
 ---
