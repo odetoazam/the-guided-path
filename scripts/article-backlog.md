@@ -15,6 +15,21 @@
 
 ---
 
+## Session Log — 2026-04-12 (Codex Tadabbur: Al-Kahf 18:99)
+
+**Ayah:** 18:99 — after Dhul-Qarnayn names the completed barrier a mercy from his Lord and admits that Allah's promise will level it, Al-Kahf turns from temporary protection to the promised release: some surge into some, the Horn is blown, and Allah gathers all together.
+**File:** `content/tadabbur/018-al-kahf/ayah-099.md`
+**Title:** "When the Barrier Opens Into the Gathering"
+**Estimated duration:** 40-50 minutes
+**Anchor points:** (1) `wa tarakna` frames the release as divine permission rather than ownerless chaos, (2) repeated `ba'd` turns named groups into a crowd before the final accounting, (3) `yawma'idhin` ties the scene to the promised Day after the barrier is leveled, (4) `yamuju` brings wave-motion into the human crowd, (5) passive `nufikha fi al-sur` removes human management from the eschatological summons, (6) `fa-jama'nahum jam'a` intensifies the total gathering after turbulence.
+**Themes:** (1) the end of containment is not the end of command, (2) the crowd can surge but Allah gathers exactly, (3) the Horn reorders every human urgency.
+**Validation:** Frontmatter lint ✅, Arabic ✅ (1/1 exact, no untagged Quranic text), Morphology ✅ (9/9 verified), Tafsir report ✅ (Ibn Kathir aligns on the barrier restraining Ya'juj and Ma'juj until the Hour draws near; al-Tabari aligns on Allah leaving His servants that Day surging into one another and then gathering them after the Horn; al-Muyassar aligns on Ya'juj and Ma'juj surging in multitude at the promised time, the Horn for resurrection, and the whole creation gathered for reckoning and recompense).
+**Tafsir report:** `content/tadabbur/018-al-kahf/tafsir-report-099.md`
+**Queue note:** Covered Al-Kahf `18:99`; no `18:99` line was present in the current live `scripts/pending-ayahs.txt` when this pass ran, so the queue file was left in place. The next uncovered Al-Kahf pickup after existing `18:109-110` coverage is `18:100` if continuing this repair sequence.
+**Status:** validated: true
+
+---
+
 ## Session Log — 2026-04-12 (Codex Tadabbur: Al-Kahf 18:92-94)
 
 **Ayahs:** 18:92-94 — Dhul-Qarnayn follows another means until he reaches between the two barriers, where he finds a people beyond them who can hardly understand speech. They manage to communicate their crisis: Ya'juj and Ma'juj are spreading corruption in the land, and they offer to assign him payment if he will make a barrier between them and the corrupters.
@@ -8894,6 +8909,7 @@ Topics surfacing from web research (Reddit inaccessible this run; signals from G
 ## Session Log
 | Date | Entity | Articles Written | Notes |
 |------|--------|-----------------|-------|
+| 2026-04-12 | al-kahf (tadabbur) | 1 ayah record | 18:99 — after the barrier is named mercy and its appointed leveling is acknowledged, the surah moves to the promised Day: some surge into some, the Horn is blown, and Allah gathers all together ✅ |
 | 2026-04-11 | Musa (hub synthesis) | 0 new articles | Hub synthesis inserted into hub_synthesis_cache (entity_id: a3221ae5-2aea-497d-bdca-c26ef513ccfa). 9 articles already published, 5 ayah records in place. Synthesis covers: distributed portrait across surahs, burning bush call, confrontation with Fir'awn, prophet who breaks, Khidr episode, cross-surah comparison with Yusuf. content_hash: musa-9-articles-v1 ✅ |
 | 2026-04-12 | al-kahf (tadabbur) | 3 ayah records | 18:92-94 — the third Dhul-Qarnayn journey reaches between two barriers, finds a people who can hardly understand speech, hears their plea about Ya'juj and Ma'juj spreading corruption in the land, and records their offer of payment for a protective barrier ✅ |
 | 2026-04-12 | al-kahf (tadabbur) | 3 ayah records | 18:89-91 — the eastern journey repeats following a means, reaches the rising-place of the sun, finds a people without cover from it, and closes by placing Dhul-Qarnayn's means and condition inside Allah's encompassing knowledge ✅ |
