@@ -45,6 +45,8 @@ interface Frontmatter {
   surah_name: string
   ayah?: number
   ayahs?: string | number | number[]
+  ayah_start?: number
+  ayah_end?: number
   title?: string
   arabic?: string
   arabic_range?: string
@@ -93,6 +95,10 @@ interface AyahRecord {
  * - `ayahs: [2,3,4,5]`  → { start: 2, end: 5 }   (YAML array)
  */
 function parseAyahRange(fm: Frontmatter): { start: number; end: number } | null {
+  // Restructured frontmatter: ayah_start / ayah_end
+  if (typeof fm.ayah_start === 'number' && typeof fm.ayah_end === 'number') {
+    return { start: fm.ayah_start, end: fm.ayah_end }
+  }
   if (typeof fm.ayah === 'number') {
     return { start: fm.ayah, end: fm.ayah }
   }
