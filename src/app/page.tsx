@@ -5,8 +5,10 @@ import { NewsletterSignup } from '@/components/blog/newsletter-signup'
 import { SiteNav } from '@/components/ui/site-nav'
 import { Logo } from '@/components/ui/logo'
 import { SurahMapTeaser } from '@/components/surah/SurahMapTeaser'
+import { PathCard } from '@/components/paths/PathCard'
 import { createClient } from '@/lib/supabase/server'
 import { CANONICAL_URL, SITE_NAME, SITE_DESCRIPTION } from '@/lib/constants'
+import { PATHS } from '@/data/paths'
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
@@ -101,14 +103,17 @@ export default async function LandingPage() {
           </div>
 
           <h1 className="text-4xl font-bold leading-tight tracking-tight sm:text-5xl lg:text-6xl">
-            <span className="text-navy dark:text-cream">Appreciate Quranic depths</span>
+            <span className="text-navy dark:text-cream">Receive Spiritual Guidance</span>
             <br />
-            <span className="text-gold-gradient">like never before</span>
+            <span className="text-gold-gradient">From Quranic Contemplation</span>
           </h1>
 
           <p className="mx-auto mt-6 max-w-2xl text-lg text-zinc-500 dark:text-cream/60 leading-relaxed">
-            Go beyond translation into the layered meanings, linguistic beauty,
-            and timeless wisdom woven into every verse of the Quran.
+            Grounded in classical tafsir and the Arabic corpus, AyahGuide provides in-depth analysis and tools to help believers engage in contemplation — also known as <em>tadabbur</em> — on the timeless verses (ayahs) of the Quran.
+          </p>
+
+          <p className="mx-auto mt-4 max-w-2xl text-lg text-zinc-500 dark:text-cream/60 leading-relaxed">
+            Engage with the Quran to receive guidance, as Allah commands us — reflecting on the signs of creation, life, and the universe.
           </p>
 
           {/* Scholarly DNA */}
@@ -126,26 +131,26 @@ export default async function LandingPage() {
 
           <div className="mt-10 flex flex-col items-center gap-4 sm:flex-row sm:justify-center">
             <Link
-              href="#subscribe"
+              href="/surahs"
               className="inline-flex items-center gap-2 rounded-full bg-gold-500 px-8 py-3.5 text-base font-semibold text-navy-dark hover:bg-gold-600 transition-colors shadow-lg shadow-gold-500/20"
             >
-              <Mail className="h-5 w-5" />
-              Begin the Journey
+              <BookOpen className="h-5 w-5" />
+              Begin with the Surahs
             </Link>
             <Link
-              href="/surahs"
+              href="#subscribe"
               className="inline-flex items-center gap-2 rounded-full border border-zinc-300 dark:border-navy-light/40 px-8 py-3.5 text-base font-medium text-navy dark:text-cream/80 hover:bg-zinc-100 dark:hover:bg-navy-medium/50 transition-colors"
             >
-              <BookOpen className="h-5 w-5" />
-              Explore Surahs
+              <Mail className="h-5 w-5" />
+              Follow the Journey
             </Link>
           </div>
 
-          {/* Free guide hint */}
+          {/* Start here hint */}
           <p className="mt-5 text-sm text-zinc-400 dark:text-cream/40">
-            ✦ Free guide for new subscribers —{' '}
-            <Link href="#subscribe" className="underline underline-offset-2 text-[#C9A84C]/70 hover:text-[#C9A84C] transition-colors">
-              A Practical Guide to Tafsir &amp; Tadabbur
+            ✦ New here?{' '}
+            <Link href="/surahs/al-fatiha" className="underline underline-offset-2 text-[#C9A84C]/70 hover:text-[#C9A84C] transition-colors">
+              Begin with Al-Fatiha — the original dua for guidance
             </Link>
           </p>
 
@@ -172,6 +177,24 @@ export default async function LandingPage() {
         </div>
       </section>
 
+      {/* Guided Paths — entry points for seekers */}
+      <section className="relative border-t border-zinc-200 dark:border-zinc-800/50 py-20 px-6">
+        <div className="mx-auto max-w-4xl">
+          <ScrollReveal>
+            <p className="text-center text-xs font-medium tracking-[0.2em] uppercase text-zinc-400 dark:text-cream/30 mb-10">
+              Most people find their way in through one of these
+            </p>
+          </ScrollReveal>
+          <div className="grid gap-4 sm:grid-cols-2">
+            {PATHS.map((path, i) => (
+              <ScrollReveal key={path.slug} delay={i * 80}>
+                <PathCard path={path} index={i} />
+              </ScrollReveal>
+            ))}
+          </div>
+        </div>
+      </section>
+
       {/* Surah Map Teaser */}
       <SurahMapTeaser publishedSurahs={publishedSurahs} />
 
@@ -188,10 +211,10 @@ export default async function LandingPage() {
             </div>
 
             <h2 className="text-3xl font-bold text-navy dark:text-cream sm:text-4xl">
-              An invitation to journey deeper
+              Begin the contemplation
             </h2>
             <p className="mt-4 text-zinc-500 dark:text-cream/60 leading-relaxed">
-              The kind of content that makes you pause — and actually think. When it&apos;s ready, it&apos;ll find you.
+              Linguistic depth, thematic connections, and classical scholarship — delivered when it&apos;s ready. No noise, just depth.
             </p>
           </ScrollReveal>
 
@@ -205,10 +228,10 @@ export default async function LandingPage() {
                 <div>
                   <p className="text-xs font-semibold uppercase tracking-widest text-[#C9A84C]/60">Free when you subscribe</p>
                   <p className="mt-1 font-serif text-base font-semibold text-navy dark:text-cream">
-                    A Practical Guide to Tafsir &amp; Tadabbur
+                    The Architecture of Guidance
                   </p>
                   <p className="mt-1.5 text-sm text-zinc-500 dark:text-cream/60 leading-relaxed">
-                    A concise guide to reading the Quran with depth — covering the classical tools of tafsir and how to make tadabbur a living practice.
+                    How the Quran reshapes the world you see — a guide to understanding divine guidance, the self, and the signs that surround us.
                   </p>
                 </div>
               </div>

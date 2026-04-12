@@ -1,14 +1,16 @@
 import { createClient } from '@/lib/supabase/server'
 import { ArticlesGrid, type ArticleItem } from '@/components/articles/ArticlesGrid'
+import { PathCard } from '@/components/paths/PathCard'
+import { PATHS } from '@/data/paths'
 import type { Metadata } from 'next'
 import { CANONICAL_URL, SITE_NAME } from '@/lib/constants'
 
 const pageUrl = `${CANONICAL_URL}/articles`
 
 export const metadata: Metadata = {
-  title: 'Articles — Quranic Reflections & Deep Dives',
+  title: 'Articles — Explorations in Quranic Meaning',
   description:
-    'Character studies, linguistic deep dives, and thematic explorations — grounded in the Arabic text and classical scholarship.',
+    'Thematic explorations and deep dives into the signs — entities, stories, and concepts as they unfold across the Quran.',
   alternates: { canonical: pageUrl },
   openGraph: {
     title: `Articles | ${SITE_NAME}`,
@@ -60,15 +62,28 @@ export default async function ArticlesPage() {
         </div>
         <div className="relative mx-auto max-w-xl">
           <p className="mb-2 text-xs font-medium tracking-[0.25em] uppercase text-[rgba(212,175,55,0.65)] dark:text-[rgba(212,175,55,0.55)]">
-            Deep Dives
+            Explorations
           </p>
           <h1 className="font-serif text-3xl font-bold text-navy-dark sm:text-4xl dark:text-cream">
             Articles
           </h1>
           <p className="mx-auto mt-3 max-w-md text-sm leading-relaxed text-zinc-500 dark:text-zinc-400">
-            Character studies, linguistic explorations, and thematic deep dives
-            — grounded in the Arabic text.
+            Thematic explorations and deep dives into the signs — entities, stories, and concepts as they unfold across the Quran.
           </p>
+        </div>
+      </div>
+
+      {/* Guided paths strip */}
+      <div className="border-b border-zinc-200 dark:border-white/[0.04] px-5 py-10">
+        <div className="mx-auto max-w-5xl">
+          <p className="mb-6 text-xs font-medium tracking-[0.2em] uppercase text-zinc-400 dark:text-cream/30">
+            Not sure where to start? Try a guided path
+          </p>
+          <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
+            {PATHS.map((path, i) => (
+              <PathCard key={path.slug} path={path} index={i} />
+            ))}
+          </div>
         </div>
       </div>
 
