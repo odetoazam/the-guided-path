@@ -15,6 +15,51 @@
 
 ---
 
+## Session Log — 2026-04-14 (Opus Tadabbur: Maryam 19:68-72)
+
+**Ayahs:** 19:68-72 — the eschatological sequence: humanity gathered with the devils on their knees around the Fire, the most defiant against Al-Rahman extracted from every faction, the universal passing decreed irrevocably, then the God-fearing rescued and the wrongdoers left kneeling.
+**File:** `content/tadabbur/019-maryam/ayahs-068-072.md`
+**Title:** "On Their Knees Around the Fire"
+**Estimated duration:** 42-52 minutes
+**Anchor points:** (1) فَوَرَبِّكَ divine oath + emphatic لَـ + heavy nun on two verbs, (2) وَٱلشَّيَـٰطِينَ — gathered alongside the misleaders, (3) جِثِيًّا bookends the passage (19:68 and 19:72) — all kneel, only the unjust remain, (4) لَنَنزِعَنَّ root ن-ز-ع forceful extraction, (5) أَشَدُّ عَلَى ٱلرَّحْمَـٰنِ عِتِيًّا — defiance measured against mercy, (6) وَارِدُهَا universal — none excluded, (7) حَتْمًا مَّقْضِيًّا double irrevocability, (8) نُنَجِّى Form II causative rescue vs. نَذَرُ passive abandonment.
+**Themes:** (1) the procession of thumma cannot be stopped, (2) invisible partnerships with shayatin become visible, (3) defiance against mercy is the surah's ultimate crime, (4) everyone arrives at the Fire — the difference is the rescue, (5) taqwa is both the key to paradise (19:63) and the rescue from the Fire (19:72).
+**Validation:** Frontmatter lint ✅, Arabic ✅ (5/5 exact), Morphology ✅ (21 claims, 0 failures), Tafsir report ✅ (artifact created).
+**Tafsir report:** `content/tadabbur/019-maryam/tafsir-report-068-072.md`
+**Queue note:** Covered and removed `19:68`-`19:72`; next queue head is `19:73`.
+**Status:** validated: false (pipeline default)
+
+---
+
+## Session Log — 2026-04-14 (Opus Tadabbur: Maryam 19:66-67)
+
+**Ayahs:** 19:66-67 — the human voice enters with incredulous denial of resurrection, and Allah answers with the simplest proof: does man not remember that We created him before, while he was nothing?
+**File:** `content/tadabbur/019-maryam/ayahs-066-067.md`
+**Title:** "Does Man Not Remember?"
+**Estimated duration:** 35-45 minutes
+**Anchor points:** (1) ٱلْإِنسَـٰنُ repeated in both ayahs frames denial as species-level, not tribal, (2) أَءِذَا + لَسَوْفَ structure mimics promise with incredulity, (3) passive أُخْرَجُ distances the denier from the act, (4) حَيًّا reuses the surah's key word in disbelief vs. the prophets' faith, (5) يَذْكُرُ (root ذ-ك-ر) frames the cure as remembrance not new data, (6) وَلَمْ يَكُ شَيْـًٔا — contracted كون + the most general noun closes the argument: you were not even a thing.
+**Themes:** (1) denial of resurrection is an act of forgetting, not reasoning, (2) the first creation from nothing is the proof of the second, (3) the denier carries the evidence in his own body.
+**Validation:** Frontmatter lint ✅, Arabic ✅ (2/2 exact), Morphology ✅ (10 claims, 0 failures), Tafsir report ✅ (artifact created).
+**Tafsir report:** `content/tadabbur/019-maryam/tafsir-report-066-067.md`
+**Queue note:** Covered and removed `19:66`, `19:67`; next queue head is `19:68`.
+**Status:** validated: false (pipeline default)
+
+---
+
+## Session Log — 2026-04-14 (Opus Tadabbur: Maryam 19:64-65)
+
+**Ayahs:** 19:64-65 — an angelic voice breaks into the surah to explain why revelation descends only by command, declares Allah's ownership of all time and space, commands worship with the intensive patience of iṣṭabir, and closes with a rhetorical question: do you know of any equal to Him?
+**File:** `content/tadabbur/019-maryam/ayahs-064-065.md`
+**Title:** "Your Lord Has Not Forgotten"
+**Estimated duration:** 40-50 minutes
+**Anchor points:** (1) نَتَنَزَّلُ Form V ن-ز-ل places the angels' descent under gradual, commanded movement, (2) بِأَمْرِ رَبِّكَ tethers every arrival and silence to divine will, (3) threefold مَا بَيْنَ / مَا خَلْفَنَا / مَا بَيْنَ ذَٰلِكَ claims all of time, (4) نَسِيًّا faʿīl form denies forgetfulness as a divine attribute — not once, but as nature, (5) ٱصْطَبِرْ Form VIII ص-ب-ر commands reflexive, costly patience for worship, (6) سَمِيًّا echoes 19:7 (Yahya's uniqueness) and seals absolute divine uniqueness.
+**Themes:** (1) divine silence is not divine neglect, (2) all of time is owned — the pause between revelations belongs to Allah, (3) worship costs something and the cost is commanded, (4) no equal exists.
+**Validation:** Frontmatter lint ✅, Arabic ✅ (2/2 exact, no untagged), Morphology ✅ (15 claims, 0 failures), Tafsir report ✅ (artifact created; API unavailable).
+**Tafsir report:** `content/tadabbur/019-maryam/tafsir-report-064-065.md`
+**Queue note:** Covered and removed `19:64`, `19:65`; next queue head is `19:66`.
+**Status:** validated: false (pipeline default)
+
+---
+
 ## Session Log — 2026-04-14 (Opus Tadabbur: Maryam 19:61-63)
 
 **Ayahs:** 19:61-63 — after the surah names the prophets who prostrated weeping, warns a later generation that abandoned prayer for desire, and exempts those who repented, these three ayahs open the door of the garden itself: Jannāt ʿAdn promised by Al-Raḥmān to His servants in the unseen, where no laghw is heard — only salām — and provision comes morning and evening, inherited by whoever was taqī.
