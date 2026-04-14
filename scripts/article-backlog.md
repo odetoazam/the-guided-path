@@ -15,6 +15,21 @@
 
 ---
 
+## Session Log — 2026-04-14 (Opus Tadabbur: Maryam 19:61-63)
+
+**Ayahs:** 19:61-63 — after the surah names the prophets who prostrated weeping, warns a later generation that abandoned prayer for desire, and exempts those who repented, these three ayahs open the door of the garden itself: Jannāt ʿAdn promised by Al-Raḥmān to His servants in the unseen, where no laghw is heard — only salām — and provision comes morning and evening, inherited by whoever was taqī.
+**File:** `content/tadabbur/019-maryam/ayahs-061-063.md`
+**Title:** "The Promise That Comes to You"
+**Estimated duration:** 42-52 minutes
+**Anchor points:** (1) root ع-د-ن frames the garden as permanent settlement, not passage, (2) Al-Raḥmān as the Promiser — the surah's 16th use of this name locates the promise inside mercy, (3) بِٱلْغَيْبِ opens two readings: the servants believed unseen, and the promise was given unseen, (4) مَأْتِيًّا (passive participle from أ-ت-ي) reverses the pursuit model — the promise arrives, the servant does not chase it, (5) لَغْوًا إِلَّا سَلَـٰمًا defines the garden first by what is absent then by the simplest presence: peace, (6) رِزْقُهُمْ بُكْرَةً وَعَشِيًّا frames provision in the rhythm of an earthly day for human comfort, (7) نُورِثُ (Form IV و-ر-ث) casts the garden as inheritance rather than transaction, (8) تَقِيًّا resolves the surah's -iyyā rhyme scheme with the answer: consciousness of Allah.
+**Themes:** (1) the divine promise arrives — you do not chase it, (2) what is absent from a place is part of the gift, (3) paradise is inherited through relationship not purchased through negotiation, (4) Al-Raḥmān's name carries every promise in this surah.
+**Validation:** Frontmatter lint ✅, Arabic ✅ (3/3 exact, no untagged Quranic text), Morphology ✅ (16 claims, 0 failures, unverified due to no corpus cache), Tafsir report ✅ (artifact created; API unavailable in this environment).
+**Tafsir report:** `content/tadabbur/019-maryam/tafsir-report-061-063.md`
+**Queue note:** Covered and removed `19:61`, `19:62`, `19:63`; next queue head is `19:64`.
+**Status:** validated: false (pipeline default)
+
+---
+
 ## Session Log — 2026-04-12 (Codex Tadabbur: Al-Kahf 18:99)
 
 **Ayah:** 18:99 — after Dhul-Qarnayn names the completed barrier a mercy from his Lord and admits that Allah's promise will level it, Al-Kahf turns from temporary protection to the promised release: some surge into some, the Horn is blown, and Allah gathers all together.
