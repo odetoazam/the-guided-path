@@ -50,11 +50,21 @@ const jsonLd = {
         'A visual taxonomy of 18 Quranic sciences organized by scale — word, verse, surah, and cross-cutting — with live ayah examples.',
       url: pageUrl,
       author: { '@type': 'Organization', name: SITE_NAME, url: CANONICAL_URL },
-      publisher: { '@type': 'Organization', name: SITE_NAME, url: CANONICAL_URL },
+      publisher: {
+        '@type': 'Organization',
+        name: SITE_NAME,
+        url: CANONICAL_URL,
+        logo: { '@type': 'ImageObject', url: `${CANONICAL_URL}/logo.png` },
+      },
       isPartOf: { '@id': CANONICAL_URL },
+      articleSection: 'Quranic Sciences',
       educationalUse: 'Reading Comprehension, Self-Study',
       audience: { '@type': 'Audience', audienceType: 'Students of Quranic sciences' },
       inLanguage: 'en',
+      speakable: {
+        '@type': 'SpeakableSpecification',
+        cssSelector: ['h1', 'h2'],
+      },
     },
     {
       '@type': 'BreadcrumbList',

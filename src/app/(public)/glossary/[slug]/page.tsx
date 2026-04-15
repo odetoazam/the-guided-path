@@ -77,12 +77,43 @@ export default async function GlossaryEntryPage({ params }: Props) {
     url: `${CANONICAL_URL}/glossary/${slug}`,
   }
 
+  const breadcrumbJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: CANONICAL_URL },
+      { '@type': 'ListItem', position: 2, name: 'Glossary', item: `${CANONICAL_URL}/glossary` },
+      { '@type': 'ListItem', position: 3, name: entry.transliteration, item: `${CANONICAL_URL}/glossary/${slug}` },
+    ],
+  }
+
+  const speakableJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'WebPage',
+    name: entry.transliteration,
+    speakable: {
+      '@type': 'SpeakableSpecification',
+      cssSelector: ['h1', 'h2'],
+    },
+    url: `${CANONICAL_URL}/glossary/${slug}`,
+  }
+
   return (
     <>
       <script
         suppressHydrationWarning
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+      <script
+        suppressHydrationWarning
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
+      />
+      <script
+        suppressHydrationWarning
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(speakableJsonLd) }}
       />
 
       <article className="min-h-screen">

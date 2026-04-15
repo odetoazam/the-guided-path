@@ -164,8 +164,42 @@ export default async function PathPage({
   if (!path) notFound()
 
   const stops = await resolveStops(path)
+  const pageUrl = `${CANONICAL_URL}/paths/${slug}`
+
+  const breadcrumbJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: CANONICAL_URL },
+      { '@type': 'ListItem', position: 2, name: 'Articles', item: `${CANONICAL_URL}/articles` },
+      { '@type': 'ListItem', position: 3, name: path.title, item: pageUrl },
+    ],
+  }
+
+  const speakableJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'WebPage',
+    name: path.title,
+    description: path.description,
+    speakable: {
+      '@type': 'SpeakableSpecification',
+      cssSelector: ['h1', 'h2'],
+    },
+    url: pageUrl,
+  }
 
   return (
+    <>
+      <script
+        suppressHydrationWarning
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
+      />
+      <script
+        suppressHydrationWarning
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(speakableJsonLd) }}
+      />
     <div className="min-h-screen bg-white dark:bg-navy-dark">
       {/* Header */}
       <div className="border-b border-zinc-200 dark:border-white/[0.05] px-5 pb-12 pt-10">
@@ -263,6 +297,7 @@ export default async function PathPage({
         </div>
       </div>
     </div>
+    </>
   )
 }
 

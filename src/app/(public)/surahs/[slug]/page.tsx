@@ -116,6 +116,7 @@ export default async function SurahDetailPage({ params }: Props) {
     '@type': 'Article',
     headline: post.seo_title || post.title,
     description: post.seo_description || post.excerpt || '',
+    image: post.featured_image || undefined,
     articleBody: post.content_html
       ? post.content_html.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim().slice(0, 5000)
       : '',
@@ -123,8 +124,19 @@ export default async function SurahDetailPage({ params }: Props) {
     datePublished: post.published_at || undefined,
     dateModified: post.updated_at || post.published_at || undefined,
     author: { '@type': 'Organization', name: SITE_NAME, url: CANONICAL_URL },
-    publisher: { '@type': 'Organization', name: SITE_NAME, url: CANONICAL_URL },
+    publisher: {
+      '@type': 'Organization',
+      name: SITE_NAME,
+      url: CANONICAL_URL,
+      logo: { '@type': 'ImageObject', url: `${CANONICAL_URL}/logo.png` },
+    },
+    articleSection: 'Surah Reflections',
     keywords: `Surah ${surah.nameEn}, ${surah.nameAr}, Quran, tadabbur, Quranic reflection`,
+    inLanguage: 'en-US',
+    speakable: {
+      '@type': 'SpeakableSpecification',
+      cssSelector: ['h1', 'h2'],
+    },
   } : null
 
   return (

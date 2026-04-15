@@ -153,8 +153,60 @@ export default async function HubPage({ params }: Props) {
   if (!data) return notFound()
 
   const { entity, posts, ayahRecords, connections, synthesisHtml } = data
+  const pageUrl = `${CANONICAL_URL}/hub/${slug}`
+
+  const entityJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'DefinedTerm',
+    name: entity.name_translit,
+    alternateName: entity.name_arabic,
+    description: entity.one_line,
+    inDefinedTermSet: {
+      '@type': 'DefinedTermSet',
+      name: `${SITE_NAME} Quranic Entities`,
+      url: `${CANONICAL_URL}/hub`,
+    },
+    url: pageUrl,
+  }
+
+  const breadcrumbJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: CANONICAL_URL },
+      { '@type': 'ListItem', position: 2, name: 'Hub', item: `${CANONICAL_URL}/hub` },
+      { '@type': 'ListItem', position: 3, name: entity.name_translit, item: pageUrl },
+    ],
+  }
+
+  const speakableJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'WebPage',
+    name: entity.name_translit,
+    speakable: {
+      '@type': 'SpeakableSpecification',
+      cssSelector: ['h1', 'h2'],
+    },
+    url: pageUrl,
+  }
 
   return (
+    <>
+      <script
+        suppressHydrationWarning
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(entityJsonLd) }}
+      />
+      <script
+        suppressHydrationWarning
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
+      />
+      <script
+        suppressHydrationWarning
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(speakableJsonLd) }}
+      />
     <div className="min-h-screen bg-white dark:bg-navy-dark text-navy dark:text-cream">
       {/* ── Hero ───────────────────────────────────────────────────────────── */}
       <div className="relative overflow-hidden border-b border-zinc-200 px-5 pb-12 pt-14 text-center dark:border-white/[0.05]">
@@ -279,6 +331,7 @@ export default async function HubPage({ params }: Props) {
         </div>
       </div>
     </div>
+    </>
   )
 }
 

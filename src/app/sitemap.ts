@@ -2,6 +2,7 @@ import { createAdminClient } from '@/lib/supabase/admin'
 import { CANONICAL_URL } from '@/lib/constants'
 import { SURAHS, surahSlug } from '@/lib/surahs'
 import { GLOSSARY_TERMS } from '@/data/glossary'
+import { PATHS } from '@/data/paths'
 import { MetadataRoute } from 'next'
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
@@ -17,6 +18,16 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     { url: `${CANONICAL_URL}/privacy`, lastModified: now, changeFrequency: 'yearly', priority: 0.3 },
     { url: `${CANONICAL_URL}/terms`, lastModified: now, changeFrequency: 'yearly', priority: 0.3 },
   ]
+
+  // Guided learning paths (static content)
+  for (const path of PATHS) {
+    entries.push({
+      url: `${CANONICAL_URL}/paths/${path.slug}`,
+      lastModified: now,
+      changeFrequency: 'monthly',
+      priority: 0.7,
+    })
+  }
 
   // Glossary entries (static content, known at build time)
   for (const term of GLOSSARY_TERMS) {

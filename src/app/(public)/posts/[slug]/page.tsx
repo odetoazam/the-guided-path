@@ -291,13 +291,22 @@ export default async function PostPage({ params }: Props) {
       '@type': 'Organization',
       name: SITE_NAME,
       url: CANONICAL_URL,
+      logo: {
+        '@type': 'ImageObject',
+        url: `${CANONICAL_URL}/logo.png`,
+      },
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
       '@id': postUrl,
     },
+    articleSection: 'Quranic Reflections',
     keywords: post.tags?.join(', '),
     inLanguage: 'en-US',
+    speakable: {
+      '@type': 'SpeakableSpecification',
+      cssSelector: ['h1', 'h2'],
+    },
   }
 
   const breadcrumbJsonLd = {

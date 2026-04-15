@@ -47,6 +47,33 @@ export const metadata: Metadata = {
   },
 }
 
+const organizationJsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Organization',
+  name: SITE_NAME,
+  url: CANONICAL_URL,
+  logo: `${CANONICAL_URL}/logo.png`,
+  description: SITE_DESCRIPTION,
+  sameAs: [],
+}
+
+const websiteJsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: SITE_NAME,
+  url: CANONICAL_URL,
+  description: SITE_DESCRIPTION,
+  publisher: { '@type': 'Organization', name: SITE_NAME, url: CANONICAL_URL },
+  potentialAction: {
+    '@type': 'SearchAction',
+    target: {
+      '@type': 'EntryPoint',
+      urlTemplate: `${CANONICAL_URL}/posts?q={search_term_string}`,
+    },
+    'query-input': 'required name=search_term_string',
+  },
+}
+
 export default function RootLayout({
   children,
 }: {
@@ -55,6 +82,16 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <body className="min-h-screen bg-white dark:bg-navy-dark text-navy dark:text-cream antialiased">
+        <script
+          suppressHydrationWarning
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationJsonLd) }}
+        />
+        <script
+          suppressHydrationWarning
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteJsonLd) }}
+        />
         <a
           href="#main-content"
           className="sr-only focus:not-sr-only focus:fixed focus:left-2 focus:top-2 focus:z-[100] focus:rounded focus:bg-white focus:px-3 focus:py-2 focus:text-sm focus:font-medium focus:text-zinc-900 focus:shadow-md focus:outline-none"

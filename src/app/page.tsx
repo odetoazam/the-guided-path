@@ -7,7 +7,7 @@ import { Logo } from '@/components/ui/logo'
 import { SurahMapTeaser } from '@/components/surah/SurahMapTeaser'
 import { PathCard } from '@/components/paths/PathCard'
 import { createClient } from '@/lib/supabase/server'
-import { CANONICAL_URL, SITE_NAME, SITE_DESCRIPTION } from '@/lib/constants'
+import { CANONICAL_URL, SITE_NAME } from '@/lib/constants'
 import { PATHS } from '@/data/paths'
 import type { Metadata } from 'next'
 
@@ -37,43 +37,7 @@ async function getPublishedSurahs(): Promise<number[]> {
 export default async function LandingPage() {
   const publishedSurahs = await getPublishedSurahs()
 
-  const websiteJsonLd = {
-    '@context': 'https://schema.org',
-    '@type': 'WebSite',
-    name: SITE_NAME,
-    url: CANONICAL_URL,
-    description: SITE_DESCRIPTION,
-    potentialAction: {
-      '@type': 'SearchAction',
-      target: {
-        '@type': 'EntryPoint',
-        urlTemplate: `${CANONICAL_URL}/posts?q={search_term_string}`,
-      },
-      'query-input': 'required name=search_term_string',
-    },
-  }
-
-  const organizationJsonLd = {
-    '@context': 'https://schema.org',
-    '@type': 'Organization',
-    name: SITE_NAME,
-    url: CANONICAL_URL,
-    description: SITE_DESCRIPTION,
-    sameAs: [],
-  }
-
   return (
-    <>
-      <script
-        suppressHydrationWarning
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteJsonLd) }}
-      />
-      <script
-        suppressHydrationWarning
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationJsonLd) }}
-      />
     <div className="min-h-screen bg-white dark:bg-navy-dark">
       <SiteNav />
 
@@ -293,6 +257,5 @@ export default async function LandingPage() {
         </div>
       </footer>
     </div>
-    </>
   )
 }

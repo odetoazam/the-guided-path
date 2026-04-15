@@ -38,8 +38,14 @@ const jsonLd = {
       description: 'A complete, practical guide to tafsir and tadabbur — the tools scholars use to understand the Quran, explained for every reader.',
       url: pageUrl,
       author: { '@type': 'Organization', name: SITE_NAME, url: CANONICAL_URL },
-      publisher: { '@type': 'Organization', name: SITE_NAME, url: CANONICAL_URL },
+      publisher: {
+        '@type': 'Organization',
+        name: SITE_NAME,
+        url: CANONICAL_URL,
+        logo: { '@type': 'ImageObject', url: `${CANONICAL_URL}/logo.png` },
+      },
       isPartOf: { '@id': CANONICAL_URL },
+      articleSection: 'Quranic Studies',
       about: [
         { '@type': 'Thing', name: 'Tafsir', description: 'The scholarly discipline of explaining and interpreting the Quran' },
         { '@type': 'Thing', name: 'Tadabbur', description: 'Deep, contemplative reflection on the Quran commanded by Allah in 4:82' },
@@ -47,6 +53,10 @@ const jsonLd = {
       educationalUse: 'Reading Comprehension, Self-Study',
       audience: { '@type': 'Audience', audienceType: 'Muslims and students seeking deep Quranic understanding' },
       inLanguage: 'en',
+      speakable: {
+        '@type': 'SpeakableSpecification',
+        cssSelector: ['h1', 'h2'],
+      },
     },
     {
       '@type': 'BreadcrumbList',
