@@ -31,11 +31,13 @@ export const metadata: Metadata = {
     type: 'article',
     url: pageUrl,
     siteName: SITE_NAME,
+    images: [{ url: `/api/og/quote?text=${encodeURIComponent('18 Quranic sciences — mapped by scale, with live ayah examples and difficulty tiers.')}&cite=AyahGuide`, width: 1200, height: 630, alt: 'Ulum al-Quran — 18 Quranic sciences' }],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Ulum al-Quran: The Sciences Behind the Quran | AyahGuide',
     description: '18 Quranic sciences organized by scale, with live examples from 114 surah reflections.',
+    images: [`/api/og/quote?text=${encodeURIComponent('18 Quranic sciences — mapped by scale, with live ayah examples and difficulty tiers.')}&cite=AyahGuide`],
   },
 }
 

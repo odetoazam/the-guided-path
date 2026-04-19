@@ -21,11 +21,13 @@ export const metadata: Metadata = {
     type: 'article',
     url: pageUrl,
     siteName: SITE_NAME,
+    images: [{ url: `/api/og/quote?text=${encodeURIComponent('Classical tafsir. Morphological discipline. Contemplative synthesis. A three-validator pipeline on every page.')}&cite=AyahGuide`, width: 1200, height: 630, alt: 'AyahGuide Methodology' }],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'AyahGuide Methodology',
     description: 'How we read: classical tafsir, morphological discipline, contemplative synthesis.',
+    images: [`/api/og/quote?text=${encodeURIComponent('Classical tafsir. Morphological discipline. Contemplative synthesis. A three-validator pipeline on every page.')}&cite=AyahGuide`],
   },
 }
 

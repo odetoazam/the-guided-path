@@ -16,6 +16,13 @@ export const metadata: Metadata = {
     type: 'article',
     url: pageUrl,
     siteName: SITE_NAME,
+    images: [{ url: `/api/og/quote?text=${encodeURIComponent('Classical fiqh grounding, honored ikhtilāf, and resistance to apologetics in either direction.')}&cite=AyahGuide`, width: 1200, height: 630, alt: 'How AyahGuide Handles Contested Verses' }],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'How We Handle Contested Verses',
+    description: 'Classical fiqh grounding, honored ikhtilāf, and resistance to apologetics in either direction.',
+    images: [`/api/og/quote?text=${encodeURIComponent('Classical fiqh grounding, honored ikhtilāf, and resistance to apologetics in either direction.')}&cite=AyahGuide`],
   },
 }
 

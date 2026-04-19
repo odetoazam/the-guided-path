@@ -15,6 +15,13 @@ export const metadata: Metadata = {
     type: 'website',
     url: pageUrl,
     siteName: SITE_NAME,
+    images: [{ url: `/api/og/quote?text=${encodeURIComponent('Reach AyahGuide — corrections, scholar consultations, and press inquiries.')}&cite=AyahGuide`, width: 1200, height: 630, alt: 'Contact AyahGuide' }],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Contact AyahGuide',
+    description: 'Corrections, scholar consultations, press inquiries, or general questions.',
+    images: [`/api/og/quote?text=${encodeURIComponent('Reach AyahGuide — corrections, scholar consultations, and press inquiries.')}&cite=AyahGuide`],
   },
 }
 

@@ -20,11 +20,13 @@ export const metadata: Metadata = {
     type: 'article',
     url: pageUrl,
     siteName: SITE_NAME,
+    images: [{ url: `/api/og/quote?text=${encodeURIComponent('The tools, lenses, and questions that open the Quran at a depth most readers never reach.')}&cite=AyahGuide`, width: 1200, height: 630, alt: 'How to Read the Quran with Understanding' }],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'How to Read the Quran with Understanding | AyahGuide',
     description: 'A practical guide to tafsir and tadabbur for every reader — not just scholars.',
+    images: [`/api/og/quote?text=${encodeURIComponent('The tools, lenses, and questions that open the Quran at a depth most readers never reach.')}&cite=AyahGuide`],
   },
 }
 
