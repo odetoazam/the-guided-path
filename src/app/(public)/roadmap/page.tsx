@@ -21,7 +21,7 @@ async function getLiveStats() {
       posts: posts.count ?? 0,
       surahsWithContent: surahs.count ?? 0,
       hubs: entities.count ?? 0,
-      users: users.data?.total ?? 0,
+      users: ('total' in (users.data ?? {})) ? (users.data as { total: number }).total : 0,
     }
   } catch {
     return { posts: 0, surahsWithContent: 0, hubs: 0, users: 0 }
