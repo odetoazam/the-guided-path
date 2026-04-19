@@ -2,6 +2,7 @@ import { createAdminClient } from '@/lib/supabase/admin'
 import { CANONICAL_URL } from '@/lib/constants'
 import { SURAHS, surahSlug } from '@/lib/surahs'
 import { GLOSSARY_TERMS } from '@/data/glossary'
+import { PATHS } from '@/data/paths'
 import { MetadataRoute } from 'next'
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
@@ -13,10 +14,24 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     { url: `${CANONICAL_URL}/ulum-al-quran`, lastModified: now, changeFrequency: 'monthly', priority: 0.8 },
     { url: `${CANONICAL_URL}/articles`, lastModified: now, changeFrequency: 'daily', priority: 0.8 },
     { url: `${CANONICAL_URL}/glossary`, lastModified: now, changeFrequency: 'weekly', priority: 0.75 },
+    { url: `${CANONICAL_URL}/about`, lastModified: now, changeFrequency: 'monthly', priority: 0.7 },
+    { url: `${CANONICAL_URL}/methodology`, lastModified: now, changeFrequency: 'monthly', priority: 0.7 },
+    { url: `${CANONICAL_URL}/contested-verses`, lastModified: now, changeFrequency: 'monthly', priority: 0.75 },
+    { url: `${CANONICAL_URL}/contact`, lastModified: now, changeFrequency: 'yearly', priority: 0.5 },
     { url: `${CANONICAL_URL}/subscribe`, lastModified: now, changeFrequency: 'monthly', priority: 0.5 },
     { url: `${CANONICAL_URL}/privacy`, lastModified: now, changeFrequency: 'yearly', priority: 0.3 },
     { url: `${CANONICAL_URL}/terms`, lastModified: now, changeFrequency: 'yearly', priority: 0.3 },
   ]
+
+  // Guided Paths — seeker entry points, high priority
+  for (const path of PATHS) {
+    entries.push({
+      url: `${CANONICAL_URL}/paths/${path.slug}`,
+      lastModified: now,
+      changeFrequency: 'monthly',
+      priority: 0.85,
+    })
+  }
 
   // Glossary entries (static content, known at build time)
   for (const term of GLOSSARY_TERMS) {
@@ -57,9 +72,10 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
           }
         }
 
-        // Post page
+        // Post page (individual posts are served under /posts/[slug];
+        // /articles is the index route only)
         entries.push({
-          url: `${CANONICAL_URL}/articles/${post.slug}`,
+          url: `${CANONICAL_URL}/posts/${post.slug}`,
           lastModified: new Date(post.updated_at),
           changeFrequency: 'monthly',
           priority: 0.8,
