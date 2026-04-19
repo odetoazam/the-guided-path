@@ -228,6 +228,10 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const postUrl = `${CANONICAL_URL}/posts/${slug}`
   const title = post.seo_title || post.title
   const description = post.seo_description || post.excerpt || `A deep Quranic reflection (tadabbur) on ${post.title} by AyahGuide.`
+  const fallbackOgImage = `/api/og/quote?text=${encodeURIComponent((post.excerpt || post.title).slice(0, 200))}&cite=${encodeURIComponent(post.title.slice(0, 80))}`
+  const ogImages = post.featured_image
+    ? [{ url: post.featured_image, alt: title }]
+    : [{ url: fallbackOgImage, width: 1200, height: 630, alt: title }]
 
   return {
     title,
@@ -245,15 +249,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       publishedTime: post.published_at || undefined,
       modifiedTime: post.updated_at || undefined,
       authors: [SITE_NAME],
-      images: post.featured_image
-        ? [{ url: post.featured_image, alt: title }]
-        : [],
+      images: ogImages,
     },
     twitter: {
       card: 'summary_large_image',
       title,
       description,
-      images: post.featured_image ? [post.featured_image] : [],
+      images: [post.featured_image ?? fallbackOgImage],
     },
   }
 }

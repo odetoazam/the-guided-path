@@ -42,6 +42,10 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const title = post?.seo_title || `Surah ${surah.nameEn} (${surah.nameAr}) — Reflections & Analysis`
   const description = post?.seo_description || post?.excerpt ||
     `Deep Quranic reflection (tadabbur) on Surah ${surah.nameEn}, the ${n}${n === 1 ? 'st' : n === 2 ? 'nd' : n === 3 ? 'rd' : 'th'} chapter of the Quran.`
+  const fallbackOg = `/api/og/quote?text=${encodeURIComponent((post?.excerpt || description).slice(0, 200))}&cite=${encodeURIComponent(`Surah ${surah.nameEn}`)}&arabic=${encodeURIComponent(surah.nameAr)}`
+  const ogImages = post?.featured_image
+    ? [{ url: post.featured_image, alt: title }]
+    : [{ url: fallbackOg, width: 1200, height: 630, alt: title }]
 
   return {
     title,
@@ -54,13 +58,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       url: pageUrl,
       siteName: SITE_NAME,
       publishedTime: post?.published_at || undefined,
-      images: post?.featured_image ? [{ url: post.featured_image, alt: title }] : [],
+      images: ogImages,
     },
     twitter: {
       card: 'summary_large_image',
       title,
       description,
-      images: post?.featured_image ? [post.featured_image] : [],
+      images: [post?.featured_image ?? fallbackOg],
     },
   }
 }
@@ -117,7 +121,7 @@ export default async function SurahDetailPage({ params }: Props) {
     headline: post.seo_title || post.title,
     description: post.seo_description || post.excerpt || '',
     articleBody: post.content_html
-      ? post.content_html.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim().slice(0, 5000)
+      ? post.content_html.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim()
       : '',
     url: pageUrl,
     datePublished: post.published_at || undefined,
@@ -264,6 +268,7 @@ export default async function SurahDetailPage({ params }: Props) {
         visualData={visualData}
         post={post}
         surahNumber={n}
+        surahName={surah.nameEn}
         surahSlug={slug}
         glowColor={glowColor}
         pageUrl={pageUrl}

@@ -28,11 +28,20 @@ export const metadata: Metadata = {
     siteName: SITE_NAME,
     title: 'AyahGuide - Quranic Reflections',
     description: SITE_DESCRIPTION + '. Journey through the Quran with contemplative insight.',
+    images: [
+      {
+        url: '/api/og/quote?text=A%20contemplative%20companion%20for%20reading%20the%20Qur%27an.&cite=AyahGuide',
+        width: 1200,
+        height: 630,
+        alt: 'AyahGuide — a contemplative companion for reading the Quran',
+      },
+    ],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'AyahGuide - Quranic Reflections',
     description: SITE_DESCRIPTION + '. Journey through the Quran with contemplative insight.',
+    images: ['/api/og/quote?text=A%20contemplative%20companion%20for%20reading%20the%20Qur%27an.&cite=AyahGuide'],
   },
   robots: {
     index: true,

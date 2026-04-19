@@ -19,13 +19,21 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const pageUrl = `${CANONICAL_URL}/glossary/${slug}`
   const title = `${entry.transliteration} (${entry.term}) — Glossary`
   const description = entry.summary.slice(0, 160)
+  const ogImage = `/api/og/quote?text=${encodeURIComponent(description)}&cite=${encodeURIComponent(entry.transliteration)}&arabic=${encodeURIComponent(entry.term ?? '')}`
 
   return {
     title,
     description,
     alternates: { canonical: pageUrl },
-    openGraph: { title, description, type: 'article', url: pageUrl, siteName: SITE_NAME },
-    twitter: { card: 'summary', title, description },
+    openGraph: {
+      title,
+      description,
+      type: 'article',
+      url: pageUrl,
+      siteName: SITE_NAME,
+      images: [{ url: ogImage, width: 1200, height: 630, alt: title }],
+    },
+    twitter: { card: 'summary_large_image', title, description, images: [ogImage] },
   }
 }
 
