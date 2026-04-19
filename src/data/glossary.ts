@@ -3952,8 +3952,8 @@ Sufi metaphysics developed a concept of tawhid wujud (oneness of being) associat
       elaboration: "The root ʾ–m–n is one of the most ethically and spiritually rich roots in the Arabic language. It gives iman (faith/trust), amn (security/safety), aman (protection), amanah (trust/responsibility), amin (trustworthy, faithful — the Prophet's ﷺ title before prophethood), and ma'mun (secure, trusted). The connection between faith and security is built into the word: iman is what produces amn — the heart that truly has iman is secure because it has placed its trust in the only truly secure foundation.",
     },
 
-    occurrenceCount: 537,
-    occurrenceNote: "The root ʾ–m–n in its various forms appears approximately 537 times in the Quran — making it one of the most frequent roots in the entire text. The verb amana ('they believed'), the noun iman, and the active participle mu'min (believer) appear constantly. The Quran is saturated with calls to iman and descriptions of its characteristics.",
+    occurrenceCount: 879,
+    occurrenceNote: "The root ʾ–m–n appears approximately 879 times in the Quran across all its derivatives — making it one of the most frequent roots in the entire text. The verb āmana ('he believed') alone accounts for roughly 553 tokens; the active participle mu'min (believer) appears approximately 202 times; the noun īmān (faith, as a concept) appears approximately 45 times. The root also generates amn (security), amānah (trust), and amīn (trustworthy). The Quran is saturated with calls to iman and descriptions of its characteristics.",
 
     keyAyahs: [
       {
@@ -11426,8 +11426,8 @@ The physical dimension of jihad (armed struggle) has parallels in the concept of
       elaboration: "The root l-y-l is specifically the word for night — darkness between sunset and sunrise. Arabic has multiple ways to refer to different aspects of night: layl (the night in general), laylah (a specific night), ghassiq (deep darkness of night), dujja (pitch darkness). The Quran uses layl in its various forms to mark night as both the natural opposite of day and as a specially privileged spiritual time.",
     },
     rootForms: [
-      { arabic: 'لَيْل', transliteration: 'layl', type: 'Noun', meaning: 'Night', approxCount: 92, verified: false },
-      { arabic: 'لَيْلَة', transliteration: 'laylah', type: 'Noun', meaning: 'A (specific) night', approxCount: 11, verified: false },
+      { arabic: 'لَيْل', transliteration: 'layl', type: 'Noun', meaning: 'Night', approxCount: 84, verified: true },
+      { arabic: 'لَيْلَة', transliteration: 'laylah', type: 'Noun', meaning: 'A (specific) night', approxCount: 8, verified: true },
       { arabic: 'لَيْلَة الْقَدْر', transliteration: 'laylat al-qadr', type: 'Phrase', meaning: 'The Night of Power/Decree', approxCount: 3, verified: false },
     ],
     occurrenceCount: 92,

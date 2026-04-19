@@ -17,6 +17,10 @@ export default function PublicLayout({ children }: { children: React.ReactNode }
             <Link href="/understanding-quran" className="hover:text-navy dark:hover:text-cream">Understanding Quran</Link>
             <Link href="/ulum-al-quran" className="hover:text-navy dark:hover:text-cream">Sciences of the Quran</Link>
             <Link href="/articles" className="hover:text-navy dark:hover:text-cream">Articles</Link>
+            <Link href="/about" className="hover:text-navy dark:hover:text-cream">About</Link>
+            <Link href="/methodology" className="hover:text-navy dark:hover:text-cream">Methodology</Link>
+            <Link href="/contested-verses" className="hover:text-navy dark:hover:text-cream">Contested Verses</Link>
+            <Link href="/contact" className="hover:text-navy dark:hover:text-cream">Contact</Link>
             <Link href="/#subscribe" className="hover:text-navy dark:hover:text-cream">Subscribe</Link>
             <Link href="/privacy" className="hover:text-navy dark:hover:text-cream">Privacy</Link>
             <Link href="/terms" className="hover:text-navy dark:hover:text-cream">Terms</Link>

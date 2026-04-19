@@ -16,6 +16,7 @@ function initPostHog() {
   posthog.init(POSTHOG_KEY, {
     api_host: '/ingest',
     ui_host: POSTHOG_HOST,
+    defaults: '2026-01-30',
     person_profiles: 'identified_only',
     capture_pageview: false,
     capture_pageleave: true,

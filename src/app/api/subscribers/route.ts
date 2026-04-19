@@ -6,6 +6,7 @@ import { subscriberSchema } from '@/lib/validators'
 import { SITE_URL, SITE_NAME } from '@/lib/constants'
 import { checkRateLimit, getClientIp } from '@/lib/rate-limit'
 import crypto from 'crypto'
+import { getPostHogClient } from '@/lib/posthog-server'
 
 export async function GET(request: Request) {
   const user = await verifyAuth(request)
@@ -144,6 +145,15 @@ export async function POST(request: Request) {
       return NextResponse.json({ error: 'Something went wrong. Please try again.' }, { status: 500 })
     }
   }
+
+  // Track new subscriber server-side
+  const phServer = getPostHogClient()
+  phServer.capture({
+    distinctId: email,
+    event: 'subscriber_created',
+    properties: { source: source || 'website', is_auth_signup: isAuthSignup },
+  })
+  await phServer.shutdown()
 
   // Auth signups skip confirmation email — email already verified via Supabase
   if (isAuthSignup) {

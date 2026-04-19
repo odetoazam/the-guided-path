@@ -2,6 +2,7 @@ import { createAdminClient } from '@/lib/supabase/admin'
 import { getResend } from '@/lib/email/resend'
 import { NextResponse } from 'next/server'
 import { SITE_URL } from '@/lib/constants'
+import { getPostHogClient } from '@/lib/posthog-server'
 
 export async function GET(request: Request) {
   const { searchParams } = new URL(request.url)
@@ -37,6 +38,16 @@ export async function GET(request: Request) {
     } catch (contactError) {
       console.error('Resend contact unsubscribe error:', contactError)
     }
+  }
+
+  // Track unsubscribe server-side
+  if (subscriber?.email) {
+    const phServer = getPostHogClient()
+    phServer.capture({
+      distinctId: subscriber.email,
+      event: 'user_unsubscribed',
+    })
+    await phServer.shutdown()
   }
 
   return NextResponse.redirect(`${SITE_URL}?unsubscribe=success`)

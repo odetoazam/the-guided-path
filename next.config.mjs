@@ -5,6 +5,8 @@ const nextConfig = {
   images: {
     remotePatterns: [{ protocol: 'https', hostname: '**' }],
   },
+  // Required to support PostHog trailing slash API requests
+  skipTrailingSlashRedirect: true,
   async rewrites() {
     return [
       {

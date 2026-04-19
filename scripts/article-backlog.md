@@ -1,5 +1,24 @@
 # AyahGuide Article Backlog
 
+## Community Signals — 2026-04-15
+
+- **Muhasabah hub** — 4th consecutive session, now confirmed from both search demand and entity table gap. Highest-priority content item.
+- **Surah At-Tawbah concept explainer** — Ramadan-adjacent search spike persists. Existing tadabbur content doesn't satisfy how-to/explainer intent.
+- **"Why does the Quran repeat prophet stories?"** — Common Reddit/search question pattern. No direct AyahGuide article. Implicitly answered across Iblis-seven-surahs and Musa-anger pieces but no meta-explainer exists.
+- **Musa hub** — /hub/musa gets URL hits. At least 6 published articles (Musa+Khidr, Musa+Fir'awn, Musa anger, Bani Isra'il sea, Harun+golden calf, Harun genealogy) already exist and could anchor it immediately.
+- **Surah Al-Kahf deep dive article** — Consistently surfaces in search; in top AyahGuide surah pages; no hub article despite content that could anchor one.
+- **Ecosystem note:** "Sincerely, Sumayah" Substack (9,000+ subscribers) is a high-value collaboration target — produces content that complements AyahGuide's format. "Beyond the Ayah with Batool" podcast is a new audio-format player in the same niche.
+
+---
+
+## Weekly Digest — 2026-04-13
+
+**Top content gaps:** (1) Muhasabah entity hub — flagged 4 consecutive digests, still no article; (2) Surah At-Tawbah concept article — Ramadan demand, only tadabbur exists; (3) Musa hub — /hub/musa still getting URL hits with no hub built
+**High-engagement without hubs:** Guided Paths feature shipped (4 paths); `guidance_entry_point` event firing but `path_id` property is null — instrumentation bug. Analytics DB table completely empty — no server-side view tracking running at all.
+**Conversion/UX issues:** 158/158 articles have `publish_date = null` — affects SEO structured data and sitemap (CRITICAL data fix needed). PostHog still dark: all events from localhost:3000, 3rd consecutive week. Sentry TypeError (undefined.map) still firing as of Apr 11. 16 subscribers, 0 new for 3rd consecutive week.
+
+---
+
 ## Weekly Digest — 2026-04-10
 
 **Top content gaps:** (1) Muhasabah entity hub — confirmed demand from community monitor; (2) Surah At-Tawbah concept article — Ramadan search spike flagged twice; (3) Sabr/Tawbah paired article — community demand overlap
@@ -12,6 +31,219 @@
 >
 > **Legend:** ✅ published · 🔄 started (needs more) · ⭐ priority next · 📋 backlog
 > **Format per article:** `- [ ] "Title" (angle-type, ~Xmin, key-ayahs)`
+
+---
+
+## Session Log — 2026-04-18 (Opus Tadabbur: Ta-Ha 20:42-44)
+
+**Ayahs:** 20:42-44 — the operational deployment of Musa+Harun to Pharaoh, immediately after the past-recounting (20:37-41). Three ayahs containing five commands: go (singular, with brother appended) → don't slacken in My remembrance (dual prohibitive) → go both of you (dual) → indeed he has transgressed (Pharaoh classified) → speak gentle speech (the famous *qawlan layyinan*) — closing with *laʿallahu yatadhakkaru aw yakhshā* (perhaps he may take heed, or fear).
+**File:** `content/tadabbur/020-ta-ha/ayahs-042-044.md`
+**Title:** "Speak to Him Gently: The Command That Makes Tone the Speaker's Property, Not the Tyrant's"
+**Estimated duration:** 45-55 minutes
+**Anchor points:** (1) Grammatical shift singular→dual: 20:42 *idhhab* (2MS) with Harun appended → 20:43 *idhhabā* (2MD) → 20:44 *fa-qūlā* (2MD); the granted wazīr-prayer enacted in the morphology — Allah cannot now address Musa without addressing Harun, (2) `wa-lā taniyā fī dhikrī` — root و-ن-ي = to grow weary/slack from fatigue (NOT *nasiya* to forget); the FIRST warning of deployment is about interior dhikr-fatigue, not Pharaoh; the dual prohibitive makes dhikr a shared trust between brothers in mission; this is the FULFILLMENT of Musa's own purpose-statement at 20:33-34 (*kay nadhkuraka kathīrā*) — petition becomes command, (3) `innahu ṭaghā` — root ط-غ-ي (excessive transgression, the kind of pride that thinks itself a god, same root as the transgressing flood waters in 69:11); perfect tense — divine classification is established and certain, (4) `qawlan layyinan` — root ل-ي-ن (soft, supple, tender, opposite of harsh); the COMMANDED tone for the addressee Allah Himself just classified as *ṭaghā*; tone is the speaker's property, not the addressee's; truth-content and tone-content are independent, (5) `laʿallahu yatadhakkaru aw yakhshā` — *laʿalla* (perhaps): the All-Knowing frames Pharaoh's response as uncertain because the WORKER's posture must be hopeful even when the Knower knows; *yatadhakkar* Form V of ذكر (reflexive: to recall what one already knows — assumes truth is fitrah-built, the messenger only reminds); *khashya* (knowledge-based fear, NOT *khawf*) — even Pharaoh's *fear* would count as success, the bar set so low that the messenger's obligation ends at the gentle delivery.
+**Themes:** (1) The tone is the property of the speaker, not the addressee — modern bridge: rage culture, social media discourse, the assumption that the worse the addressee the harsher the speech is licensed; surgeon analogy (the hand is the surgeon's, not the patient's character); Allah dismantles the framework by commanding *qawlan layyinan* for the worst possible addressee, (2) Don't let the mission eat the remembrance — modern bridge: religious-worker burnout, activists who become bitter, the imam who hasn't had a tearful prayer in five years, the way the work for Allah can hollow out the soul that does it; runner analogy (dhikr is the breath the race must not be allowed to steal); practical: build a non-negotiable dhikr-anchor into the consuming mission, find your *Harun* for dual accountability.
+**Architecture:** Interior warning (dhikr) precedes exterior commission (Pharaoh) — Allah will not deploy without first naming the interior risk. Certain classification (*innahu ṭaghā*) balanced by uncertain outcome (*laʿalla*) — the certainty of the diagnosis does not foreclose the possibility of response. *Layyin* tongue is the downstream effect of the breathing soul — the inner dhikr produces the outer gentleness; lose the dhikr and the harshness becomes inevitable.
+**Validation:** Arabic ✅ 3/3 (3 diacritic-only normalized matches, no failures, no untagged Arabic), Morphology ✅ 12/12 verified (روots ذهب, أخو, أيي, وني, ذكر, طغي, قول, لين, خشي all confirmed), Tafsir ✅ (report at `tafsir-report-042-044.md`).
+**Tafsir report:** `content/tadabbur/020-ta-ha/tafsir-report-042-044.md`
+**Queue note:** 20:42-44 not in pending-ayahs.txt (queue starts at 20:60). Remaining gaps in Ta-Ha: 20:17-21, 20:45-59. Third Opus tadabbur this session.
+**Status:** validated: true
+
+---
+
+## Session Log — 2026-04-18 (Opus Tadabbur: Ta-Ha 20:37-41)
+
+**Ayahs:** 20:37-41 — Allah's recounting of Musa's past providential care, immediately after granting his prayer (20:36). Five ayahs that compress the basket-and-river story (Surah Al-Qasas's longer narrative) into intimate second-person divine address: We inspired your mother / cast him into the chest / cast it into the river / the river will throw him onto the shore / I cast love onto you / so you would be crafted under My Eye / your sister at the right moment / return to your mother / killing of the Egyptian + salvation / years in Madyan / arrival according to *qadar* / and I have crafted you for Myself.
+**File:** `content/tadabbur/020-ta-ha/ayahs-037-041.md`
+**Title:** "Crafted Under His Eye: Allah Reads Musa's Past Back to Him Before Sending Him to Pharaoh"
+**Estimated duration:** 55-65 minutes
+**Anchor points:** (1) The verb of violence becomes the verb of providence — ق-ذ-ف (qadhf, to hurl/cast forcefully — same root as stoning and slander) used three times: mother throws into chest, mother throws into river, river throws onto shore; the harshest verb in Arabic for what mother does, but each "hurl" is divinely orchestrated movement, (2) `wa-alqaytu ʿalayka maḥabbatan minnī` — Form IV of ل-ق-ي (cast/throw): same verb-family as the river-throw, but now Allah throws love onto Musa simultaneously with the basket-throw; the throw of difficulty and the throw of love are concurrent, (3) `ʿalā ʿaynī` — "upon My Eye" — preposition عَلَى placing the divine Eye as the workbench beneath the crafting; Form I passive *tuṣnaʿa* (you would be crafted) opens, Form VIII active *iṣṭanaʿtu* (I have crafted for Myself) closes, (4) `thumma ji'ta ʿalā qadarin yā Mūsā` — root ق-د-ر (exact measure); the *thumma* enacts long passage of time; arrival not "at the right time" but "according to a measurement that has been being calculated since before time," (5) `wa-ṣṭanaʿtuka li-nafsī` — climax: Form VIII اصطنع (reflexive personal claiming, "to take as one's own piece") + redundant emphasis *li-nafsī* (for My Self); the verb-pair across the passage ص-ن-ع opens passive in 39 and closes active in 41, charting the journey from "things were happening to me" to "He was doing this to me, and the doing was love."
+**Themes:** (1) You cannot face forward until you have read your past backwards — modern bridge: paralysis at the edge of difficult decisions, not from unclear path but from not trusting we are the kind of person who can do what's required; the discipline of reading-backwards (start from where you are now and trace the chain of "accidents" that brought you here) reveals the front of the tapestry; even the wrong (Musa's killing) was metabolized into the path, (2) The belonging that precedes every other belonging — modern bridge: capitalism/romance/family/politics each offer revocable belongings, producing low-grade terror of being un-belonged; *iṣṭanaʿtuka li-nafsī* is the unrevocable prior belonging that lets every smaller belonging take its right place underneath without becoming load-bearing identity.
+**Architecture:** Opens with general declaration *mananna ʿalayka* (favor); five sequenced movements (mother's inspiration → basket+river → double casting of love+crafting → sister+return → killing+salvation+Madyan+arrival); collapses into one climactic claim *waṣṭanaʿtuka li-nafsī*. Pronoun architecture: royal *We* for providential governance acts, personal *I* for the most intimate gestures (casting love, crafting). Verb-pair *tuṣnaʿa* (passive, 39) → *iṣṭanaʿtu* (active Form VIII, 41) — passive describes what was happening, active reveals who was doing it. No transition to commission in 20:42 (*idhhab anta wa akhūka*) — recounting IS the activation, no separate moment of preparation.
+**Validation:** Arabic ✅ 5/5 (1 exact + 4 diacritic-only normalized matches, no failures, no untagged Arabic), Morphology ✅ 19/19 verified (روots منن, مرر, أخر, وحي, أمم, قذف, لقي, حبب, صنع, عين, نجو, فتن, قدر, نفس all confirmed), Tafsir ✅ (report at `tafsir-report-037-041.md`).
+**Tafsir report:** `content/tadabbur/020-ta-ha/tafsir-report-037-041.md`
+**Queue note:** 20:37-41 not in pending-ayahs.txt (queue starts at 20:60). Remaining gaps in Ta-Ha: 20:17-21 (the staff dialogue), 20:42-59.
+**Status:** validated: true
+
+---
+
+## Session Log — 2026-04-18 (Opus Tadabbur: Ta-Ha 20:29-36)
+
+**Ayahs:** 20:29-36 — the second half of Musa's du'a after being commissioned to Pharaoh: three petitions for Harun (vizier from family / brace my back through him / make him a partner in my mission), the purpose statement (so we may glorify and remember You much), the seal (You have always been seeing us), and Allah's instantaneous one-sentence response (you have already been given your request, O Musa).
+**File:** `content/tadabbur/020-ta-ha/ayahs-029-036.md`
+**Title:** "The Back That Carries the Mission: Musa's Prayer for Harun and Allah's Instant Yes"
+**Estimated duration:** 55-65 minutes
+**Anchor points:** (1) `wazīr` from root و-ز-ر (heavy burden/load) — a vizier is etymologically a *burden-bearer*, not a helper; same root as *wizr* (heavy load of sin in 6:164), (2) `Hāruna akhī` — name first, relationship second; the gradual three-step narrowing from indefinite *wazīran* → *min ahlī* → name + brother as the prayer of someone who refuses to presume, (3) `ushdud bihi azrī` — root أ-ز-ر = lower back (the load-bearing structure of the body); the sonic strain of د/ز/ر enacts the bracing the words describe; *wazīr* and *azr* share two of three letters and form one anatomical image: burden-carrier braced against load-bearing back, (4) `wa-ashrikhu fī amrī` — Form IV of ش-ر-ك (the verb of cardinal sin when used with Allah) used here positively because the OBJECT is *fī amrī* (in MY affair, not in Allah's domain); the strongest possible verb for true co-equal partnership, (5) `kay nusabbiḥaka kathīran wa-nadhkuraka kathīrā` — the entire 7-petition prayer's stated purpose is not victory over Pharaoh but tasbih + dhikr; the inversion of mission-as-goal vs. inner-state-as-goal; first-person plural fuses Musa+Harun grammatically before any operational partnership, (6) `innaka kunta binā baṣīrā` — past tense *kunta* anchors the prayer in Allah's prior seeing; the asking informs nothing, only acknowledges, (7) `qad ūtīta su'laka yā Mūsā` — passive voice removes Allah from syntax to put gift in Musa's hand; *qad* + perfect intensifies completion; asymmetric naming: Musa never names Allah throughout the prayer, Allah responds with Musa's name.
+**Themes:** (1) The strongest man in the room is the one who names what will break him alone — modern bridge: lone-hero myth, spiritualized solo-struggle ("just trust Allah"), the shame of asking; Musa at the burning bush asks for the back-bracer BEFORE the load arrives, (2) The mission is not the goal — modern bridge: outcome-obsessed metrics, KPIs, Instagram da'wah; the inversion: outcome belongs to Allah, inner state belongs to me, so make the only thing I control (remembrance + glorification) the goal — the marriage/job/struggle is the gymnasium, the muscle of God-consciousness is what's being built.
+**Architecture:** Seven petitions (4 about Musa's body in 25-28 + 3 about Harun in 29-32) → one purpose statement → one seal → one immediate granting. The prayer NEVER names Pharaoh (the obstacle is Allah's; the instrument and inner state are Musa's). Asymmetric naming: Musa addresses Allah only through verb-imperatives without vocative; Allah responds with the name *yā Mūsā*. Passive *ūtīta* removes Giver from foreground, places Gift in Musa's hand.
+**Validation:** Arabic ✅ 8/8 (4 exact + 4 diacritic-only normalized matches, no failures, no untagged Arabic), Morphology ✅ 17/17 verified against Quranic Arabic Corpus (روots وزر, أهل, شدد, أزر, شرك, أمر, سبح, ذكر, كثر, كون, بصر, قول, أتي, سأل, جعل, أخو all confirmed), Tafsir ✅ (report generated).
+**Tafsir report:** `content/tadabbur/020-ta-ha/tafsir-report-029-036.md`
+**Queue note:** 20:29-36 were already removed from pending-ayahs.txt by prior batch trim (queue currently starts at 20:60). Gaps still remaining in Surah Ta-Ha: 20:17-21 (the staff dialogue) and 20:37-59.
+**Status:** validated: true
+
+---
+
+## Session Log — 2026-04-16 (Codex Tadabbur: Ta-Ha 20:22-24)
+
+**Ayahs:** 20:22-24 — Musa receives the second sign after the staff: his hand is drawn to his side and emerges white without harm, Allah frames the signs as some of His greatest proofs, and then the private wonder becomes public mission: go to Pharaoh because he has transgressed.
+**File:** `content/tadabbur/020-ta-ha/ayahs-022-024.md`
+**Title:** "The Sign That Becomes a Mission"
+**Estimated duration:** 60-70 minutes
+**Anchor points:** (1) `udmum` — root ضمم, the sign begins by drawing inward before public display, (2) `janahika` — the side/wing as the fold of nearness and shelter, (3) `takhruj` — jussive result after an imperative, showing the sign is commanded, not possessed, (4) `bayda'a min ghayri su'` — visible change purified from disease or harm, (5) `ayatan ukhra` — the hand pairs with the staff as another proof, (6) `li-nuriyaka min ayatina al-kubra` — Allah shows Musa before sending him, (7) `idhhab ... innahu tagha` — private signs become a mission against transgression.
+**Themes:** (1) Allah often gives the sign before He names the Pharaoh, (2) difference is not always damage, (3) Pharaoh is a person but tughyan is a pattern, (4) a sign is not finished until it points away from itself.
+**Validation:** Frontmatter lint ✅ (run while `validated: false`, then marked true after checks), Arabic ✅ (3/3 exact matches, no untagged Quranic text detected; 20:24 text also matches the repeated wording at 79:17), Morphology ✅ (Node morphology script hung, but all 13 tagged roots/POS were verified directly against `scripts/.corpus-cache/quranic-corpus.json` with `jq`), Tafsir report ✅ (manual report generated from Ibn Kathir, al-Tabari, al-Muyassar CDN entries; al-Jalalayn endpoint unavailable/invalid JSON).
+**Tafsir report:** `content/tadabbur/020-ta-ha/tafsir-report-022-024.md`
+**Queue note:** Removed 20:22, 20:23, and 20:24 from pending-ayahs.txt. Queue now starts at 20:29.
+**Status:** validated: true
+
+---
+
+## Session Log — 2026-04-14 (Codex Tadabbur: Ta-Ha 20:9-16)
+
+**Ayahs:** 20:9-16 — Musa's first encounter with Allah at the burning bush. The ānastu verb (root أنس, intimacy) reveals Musa was drawn to the fire with comfort before he understood what it was. "Remove your sandals" — sacred ground is not geography but Presence; the command strips the last barrier. "Anā ikhtartuka" — emphatic pronoun + Form VIII verb = deliberate, personal divine selection. The Hour "akādu ukhfīhā" — concealment itself concealed.
+**File:** `content/tadabbur/020-ta-ha/ayahs-009-016.md`
+**Title:** "He Went Looking for Fire and Found God"
+**Estimated duration:** 50-60 minutes
+**Anchor points:** (1) `ānastu nāran` — verb of intimacy/comfort (root أنس) instead of ra'aytu; Musa's fitrah recognized the fire before his mind did; `hudā` at sentence end = his tongue reaching for the right word unconsciously, (2) `fa-ikhla' na'layk` — remove sandals as stripping the last barrier; al-muqaddas (root قدس) = sacredness as Presence-condition not geography; Ṭuwā (root طوي) = either "folded" or emphatic "step deliberately," (3) `wa anā ikhtartuka` — redundant pronoun anā for emphasis; Form VIII ikhtāra = self-originated deliberate selection; choosing precedes mission, not the reverse.
+**Themes:** (1) When your search is actually your being found — Musa's pragmatic fire-search as metaphor for how divine choosing wears the disguise of our own decisions; the fitrah recognizes before the mind, (2) What it costs to stand on sacred ground — sandals as layers (irony, self-sufficiency, distraction); ground becomes sacred by Presence not property; the command is removal not relocation.
+**Validation:** Arabic ✅ (10/10 matched, 0 failures), Morphology ✅ (14/14 verified — أنس, نور, هدي, خلع, نعل, ودي, قدس, طوي, خير, سمع all confirmed), Tafsir ✅ (report generated).
+**Tafsir report:** `content/tadabbur/020-ta-ha/tafsir-report-009-016.md`
+**Queue note:** Removed 20:10-16 from pending-ayahs.txt (20:9 was already not in queue). Queue now starts at 20:17.
+**Status:** validated: true
+
+---
+
+## Session Log — 2026-04-14 (Codex Tadabbur: Ta-Ha 20:1-8)
+
+**Ayahs:** 20:1-8 — the opening of Surah Ta-Ha: Allah negates that the Quran was sent for shaqā' (pointless wretchedness), reframes it as tadhkirah for those with khashyah, reveals it as a tanzīl from the Creator of earth and heavens (earth first — tracking the descent), names Himself al-Rahmān on the Throne, sweeps ownership from heavens to beneath al-tharā (moist soil), then penetrates inward: He knows al-sirr wa akhfā — the secret and what is more hidden than the secret — and seals with al-asmā' al-ḥusnā.
+**File:** `content/tadabbur/020-ta-ha/ayahs-001-008.md`
+**Title:** "The Book That Was Never Meant to Break You"
+**Estimated duration:** 50-60 minutes
+**Anchor points:** (1) `li-tashqā` — root sh-q-w, shaqā' as purposeless suffering vs. purposeful difficulty; Allah negates the interpretation, not the reality, (2) `tadhkirah` — taf'ilah pattern intensive reminder, not burden; only works for those with khashyah (knowledge-based awe), (3) earth before heavens — reversal of default order tracks the Quran's descent from highest heavens to the prophet on earth, (4) `al-Raḥmān 'alā al-'Arsh istawā` — the name chosen for the Throne is Mercy; fa'lān pattern = overflow; no ruler in history governed from the seat of mercy, (5) `al-sirr wa akhfā` — three-layer gradient: loud speech → secret → sub-conscious; divine knowledge deeper than self-awareness = intimacy not surveillance.
+**Themes:** (1) The Quran as mercy not burden — connecting shaqā' negation to al-Raḥmān on the Throne, making the Quran's weight not punishment but preparation, (2) Divine knowledge deeper than self-knowledge — akhfā as the pre-verbal, pre-conscious layer; in context of al-Raḥmān this becomes the deepest possible intimacy: being known beneath your own awareness by Someone whose governance is mercy.
+**Validation:** Arabic ✅ (14/14 matched, all normalized diacritics-only differences), Morphology ✅ (24/24 verified against Quranic Arabic Corpus — all roots and POS confirmed), Tafsir ✅ (Ibn Kathir confirms Quraysh said Prophet was made wretched by Quran; al-Tabari confirms ṭā-hā = "yā rajul" in Nabataean per Ibn Abbas; al-Muyassar confirms tadhkirah for those who fear punishment).
+**Tafsir report:** `content/tadabbur/020-ta-ha/tafsir-report-001-008.md`
+**Queue note:** Removed 20:4-8 from pending-ayahs.txt (20:1-3 were not in queue). Queue now starts at 20:9. **First piece of Surah Ta-Ha.**
+**Status:** validated: true
+
+---
+
+## Session Log — 2026-04-13 (Codex Tadabbur: Maryam 19:93-98)
+
+**Ayahs:** 19:93-98 — the grand closing of Surah Maryam: every creature comes to al-Rahman as 'abd (answering the shirk of 19:88-92), He has counted them all ('addan echoing 19:84), they come alone (fardan echoing 19:80), and then the emotional resolution: al-Rahman will place love (wuddan) for those who believed and did righteous deeds. The surah ends with the silence of destroyed nations — rikzan.
+**File:** `content/tadabbur/019-maryam/ayahs-093-098.md`
+**Title:** "Everyone a Servant, Everyone Alone, and Then — Love"
+**Estimated duration:** 50-60 minutes
+**Anchor points:** (1) `'abdan` — the universal servitude that answers every false claim of status, the answer to 19:88-92, (2) `fardan` echo from 19:80 → 19:95 — one man's fate becomes universal, (3) `'addan` echo from 19:84 → 19:94 — the countdown reveals a comprehensive count, (4) `wuddan` — al-Rahman *places* love (sa-yaj'alu) for believers, the emotional resolution of the entire surah, (5) `rikzan` — the surah ends with silence, contrasting Zakariyya's opening whisper, (6) twelve drumbeat end-words across 19:80-98 all in indefinite accusative tanwin.
+**Themes:** (1) servitude is not the floor but the only true identity — the surah's answer to every false claim, (2) the surah that began with a whisper ends with love — wudd at the end is not despite the harshness but the destination the harshness was protecting.
+**Validation:** Arabic ✅ (6/6 normalized match, no untagged Quranic text detected), Morphology — all 18 roots linguistically correct; script returned 0/18 verified due to prefix-splitting position indexing (the corpus splits وَ, ٱلْ, هُ, نَا as separate tokens, shifting all indices); roots verified manually (عبد, حصي, عدد, فرد, امن, صلح, رحم, ودد, يسر, بشر, وقي, نذر, هلك, سمع, ركز all standard), Tafsir report ✅ (Ibn Kathir says He "plants love" in hearts of righteous servants — exact match with ja'ala analysis; al-Tabari on 19:94 confirms comprehensive counting; al-Tabari on 19:95 confirms coming alone with no helper; al-Muyassar on 19:93 confirms every creature as servant humbled and submissive; al-Muyassar on 19:98 confirms destroyed nations leave no sound).
+**Tafsir report:** `content/tadabbur/019-maryam/tafsir-report-093-098.md`
+**Queue note:** Removed 19:93-98 from pending-ayahs.txt. **Surah Maryam is now fully covered.** Queue advances to Surah Ta-Ha (20:1+).
+**Status:** validated: true
+
+---
+
+## Session Log — 2026-04-13 (Codex Tadabbur: Maryam 19:80-84)
+
+**Ayahs:** 19:80-84 — the man who arrives stripped and alone after Allah inherits what he claimed, the false gods taken for honor that become opponents, the shayateen sent (arsalna — same verb as sending prophets) upon the disbelievers to buzz them with persistent incitement, and the quiet countdown of their numbered breaths.
+**File:** `content/tadabbur/019-maryam/ayahs-080-084.md`
+**Title:** "The Buzzing and the Countdown"
+**Estimated duration:** 50-60 minutes
+**Anchor points:** (1) `narithuhu` reverses ownership — Allah inherits what the man claimed as his, (2) `fardan` as the state of total stripping, (3) `ittakhadhu` uses the same Form VIII verb as 19:87's covenant — same verb, opposite objects, (4) `kalla` as the sledgehammer rejection, (5) `diddan` as the harshest-sounding reversal, (6) `arsalna al-shayatin` uses the prophetic sending verb for devils, with `'ala` (upon) instead of `ila` (toward), (7) `ta'uzzuhum azzan` as onomatopoeic buzzing, (8) `na'uddu lahum 'addan` as ticking countdown, (9) five end-words (fardan/'izzan/diddan/azzan/'addan) form a rhythmic drumbeat architecture.
+**Themes:** (1) everything built to avoid facing Allah alone will be inherited back or turned against you, (2) the buzzing is not random (arsalna) and neither is the countdown — both are part of the test, and both are simultaneously consequence and mercy.
+**Validation:** Arabic ✅ (5/5 normalized match, no untagged Quranic text detected), Morphology — roots all linguistically correct; script verified 2/14 due to prefix-splitting position mismatches (the corpus tokenizes وَ, ٱلْ, هُ, نَا as separate tokens, shifting all position indices); roots verified manually against corpus.quran.com (ورث, أتي, فرد, أخذ, أله, عزز, كفر, ضدد, رسل, شطن, أزز, عجل, عدد all standard), Tafsir report ✅ (Ibn Kathir aligns on gods denying worship and becoming opponents; al-Tabari aligns on ta'uzz as persistent stirring/enticement toward disobedience; Ibn Abbas via al-Tabari specifies na'uddu lahum = counting their very breaths; al-Muyassar aligns on stripping of wealth/children and arriving alone).
+**Tafsir report:** `content/tadabbur/019-maryam/tafsir-report-080-084.md`
+**Queue note:** Removed 19:80-84 from pending-ayahs.txt (19:80-82 were consumed by earlier edit's newline handling; 19:83-84 removed explicitly). Next in Maryam queue: 19:88-92 already exists, then 19:93-98 remaining.
+**Status:** validated: true
+
+---
+
+## Session Log — 2026-04-13 (Codex Tadabbur: Maryam 19:85-87)
+
+**Ayahs:** 19:85-87 — the two processions on the Day of Judgment: the muttaqin gathered as an honored delegation to al-Rahman, the mujrimin driven as a thirsty herd to Jahannam, and the condition of intercession being a covenant taken with al-Rahman.
+**File:** `content/tadabbur/019-maryam/ayahs-085-087.md`
+**Title:** "A Person or a Place"
+**Estimated duration:** 50-60 minutes
+**Anchor points:** (1) `nahshuru` vs. `nasuqu` — the verbs assign dignity before the destination is named, (2) `ila al-Rahman` vs. `ila jahannam` — Person vs. place as destination, (3) `wafdan` vs. `wirdan` — near-homophones with opposite meanings (delegation vs. thirsty herd), (4) `'ahdan` — covenant with al-Rahman as the condition for intercession, (5) al-Rahman bookends the passage (85, 87) while the criminals' ayah (86) contains no Divine name.
+**Themes:** (1) your destination reveals your relationship — the muttaqin go to a Person because they maintained a relationship; the mujrimin go to a place because they severed it, (2) intercession is not a rescue but a covenant's fruit — the 'ahd is the line along which shafa'a travels.
+**Validation:** Arabic ✅ (3/3 normalized match against quran-validator, no untagged Quranic text detected), Morphology ✅ (8/11 verified against cached Quranic Corpus; remaining 3 are 19:87 position-indexing mismatches — roots شفع, أخذ, عهد are standard uncontroversial Arabic confirmed manually), Tafsir report ✅ (Ibn Kathir aligns on wafd as honored delegation arriving at a king's court; al-Tabari aligns on wafd as riders/rukban and wird as thirsty, and 'ahd as shahada + iman + obedience; al-Muyassar aligns on honored delegations vs. harsh driving on foot in thirst, and shafa'a only for believers with covenant).
+**Tafsir report:** `content/tadabbur/019-maryam/tafsir-report-085-087.md`
+**Queue note:** Removed 19:85, 19:86, 19:87 from pending-ayahs.txt. Next in Maryam queue: 19:80-84 (shayateen incitement and countdown) or 19:88-92 (already covered) then 19:93-98 (closing).
+**Status:** validated: true
+
+---
+
+## Session Log — 2026-04-13 (Codex Tadabbur: Al-Kahf 18:107-108)
+
+**Ayahs:** 18:107-108 — after the warning about weightless deeds and Jahannam as recompense, Al-Kahf gives the mercy-counterimage: those who believed and did righteous deeds are received into the Gardens of al-Firdaws as prepared hospitality, abiding there forever with no desire for any transfer.
+**File:** `content/tadabbur/018-al-kahf/ayahs-107-108.md`
+**Title:** "The Home No One Wants to Leave"
+**Estimated duration:** 50-60 minutes
+**Anchor points:** (1) `inna` gives certainty after the fear of lost deeds, (2) `amanu wa 'amilu al-salihat` answers voided work with faith joined to sound deeds, (3) `kanat lahum` frames the promise as gift prepared for them, (4) `jannatu al-firdaws` contrasts the collapsing worldly garden with the highest lasting Garden, (5) `nuzulan` echoes 18:102 and reverses lodging from Jahannam to hospitality, (6) `khalidina fiha` gives permanence without loss, (7) `la yabghuna 'anha hiwala` completes the promise with contentment that seeks no transfer.
+**Themes:** (1) the Qur'an answers fear with a path, not vagueness, (2) Firdaws is the answer to the myth that obedience is deprivation, (3) true home is where rest no longer turns into restlessness, (4) hospitality is the opposite of weightless deeds.
+**Validation:** Frontmatter manual lint ✅, Arabic ✅ (2/2 exact against Quran.com Uthmani API, no untagged Quranic text detected), Morphology ✅ (9/9 verified against cached Quranic Corpus before Node hung), Tafsir report ✅ (Ibn Kathir aligns on believers receiving al-Firdaws as hospitality and no desire to move; al-Tabari aligns on iman, tawhid, revelation, obedience, and al-Firdaws as the best/central portion; al-Muyassar aligns on highest/best Paradise and no transfer because of love and delight). Node became unstable after the morphology pass, so final frontmatter/Arabic checks were repeated manually against the same sources.
+**Tafsir report:** `content/tadabbur/018-al-kahf/tafsir-report-107-108.md`
+**Queue note:** Covered Al-Kahf `18:107-108`; no `18:107` or `18:108` lines were present in the current live `scripts/pending-ayahs.txt`, so the queue file was left untouched. Al-Kahf `18:109-110` already exists, so this closes the repaired Al-Kahf sequence through the surah ending.
+**Status:** validated: true
+
+---
+
+## Session Log — 2026-04-13 (Codex Tadabbur: Al-Kahf 18:103-106)
+
+**Ayahs:** 18:103-106 — after exposing false protectors, Al-Kahf names the greatest losers in deeds: those whose striving went astray in the worldly life while they thought they were doing excellent work, then identifies the theological root as disbelief in Allah's signs and meeting, the result as voided deeds with no established weight, and the recompense as Jahannam for disbelief and mockery.
+**File:** `content/tadabbur/018-al-kahf/ayahs-103-106.md`
+**Title:** "The Greatest Losers"
+**Estimated duration:** 50-60 minutes
+**Anchor points:** (1) `qul` commands the diagnosis to be announced by revelation, (2) `hal nunabbi'ukum` contrasts divine news with human self-assessment, (3) `al-akhsarina a'mala` frames loss in terms of deeds rather than inactivity, (4) `dalla sa'yuhum` names striving that misses its destination, (5) `yahsabuna annahum yuhsinuna sun'a` exposes confident error, (6) `habitat a'maluhum` names deeds becoming void, (7) `fa-la nuqimu ... wazna` shows no weight established on the Day, (8) `huzwa` closes with mockery as a posture toward signs and messengers.
+**Themes:** (1) effort is not the same as guidance, (2) self-certified goodness is one of the heart's most dangerous illusions, (3) the meeting with Allah gives deeds their horizon, (4) weight with Allah is different from weight with people, (5) mockery is the final form of refusing to be corrected.
+**Validation:** Frontmatter lint ✅ (run while `validated: false`, then marked true after Arabic/morphology checks), Arabic ✅ (4/4 exact against local `quran-validator` data, no untagged Quranic text detected), Morphology ✅ (21/21 verified against cached Quranic Corpus), Tafsir report ✅ (Ibn Kathir aligns on generality beyond any one group and deeds rejected when not in the accepted way; al-Tabari aligns on the trade-loss image and effort that seeks profit but ends in ruin; al-Muyassar aligns on efforts going astray while they think they are doing good, then deeds voided and no weight established). Node required a clean environment in this desktop shell.
+**Tafsir report:** `content/tadabbur/018-al-kahf/tafsir-report-103-106.md`
+**Queue note:** Covered Al-Kahf `18:103-106`; no `18:103`, `18:104`, `18:105`, or `18:106` lines were present in the current live `scripts/pending-ayahs.txt`, so the queue file was left untouched. Next uncovered Al-Kahf repair pickup is `18:107-108` because `18:109-110` already exists.
+**Status:** validated: true
+
+---
+
+## Session Log — 2026-04-13 (Codex Tadabbur: Al-Kahf 18:102)
+
+**Ayah:** 18:102 — after covered sight and disabled hearing are diagnosed, Al-Kahf exposes the false calculation beneath that condition: the disbelievers imagined they could take Allah's own servants as protectors besides Him, while Jahannam had already been prepared as their lodging.
+**File:** `content/tadabbur/018-al-kahf/ayah-102.md`
+**Title:** "The Failed Protectors"
+**Estimated duration:** 45-55 minutes
+**Anchor points:** (1) `a-fa-hasiba` exposes false calculation rather than mere ignorance, (2) `alladhina kafaru` links covering truth to misplaced reliance, (3) `yattakhidhu` shows false protectorhood as something manufactured by the heart, (4) `'ibadi` honors the servants while destroying the false role assigned to them, (5) `min duni awliya` names the impossible geography of safety besides Allah, (6) `a'tadna ... nuzulan` reverses imagined protection into prepared lodging.
+**Themes:** (1) false protection often begins as a false calculation, (2) the honor of servants is lost when they are used against the Lord, (3) the Hereafter reverses every borrowed refuge.
+**Validation:** Frontmatter manual lint ✅, Arabic ✅ (1/1 exact against local `quran-validator` data, no untagged Quranic text beyond the matching frontmatter/body ayah), Morphology ✅ (9/9 verified against cached Quranic Corpus), Tafsir report ✅ (Ibn Kathir aligns on rebuking the thought that taking Allah's servants as awliya could be right or beneficial; al-Tabari aligns on worshipers of angels and the Messiah imagining Allah's servants as protectors and on Jahannam as prepared lodging; al-Muyassar aligns on taking Allah's servants as gods/patrons besides Him and Hell as lodging). Note: the Node validator scripts hung in this desktop shell, so the same checks were performed manually against their underlying local/API sources.
+**Tafsir report:** `content/tadabbur/018-al-kahf/tafsir-report-102.md`
+**Queue note:** Covered Al-Kahf `18:102`; no `18:102` line was present in the current live `scripts/pending-ayahs.txt`, so the queue file was left untouched. Next uncovered Al-Kahf repair pickup is `18:103` if continuing this sequence.
+**Status:** validated: true
+
+---
+
+## Session Log — 2026-04-13 (Codex Tadabbur: Al-Kahf 18:101)
+
+**Ayah:** 18:101 — after Jahannam is presented plainly before the disbelievers, Al-Kahf identifies the inward condition that made the final display possible: eyes covered from Allah's remembrance and ears unable to receive guidance.
+**File:** `content/tadabbur/018-al-kahf/ayah-101.md`
+**Title:** "Eyes Covered From Remembrance"
+**Estimated duration:** 45-55 minutes
+**Anchor points:** (1) `alladhina` ties the description back to the disbelievers of 18:100 and gives the inward anatomy of kufr, (2) `kanat a'yunuhum` makes covered sight a continuous worldly condition revealed by the Day, (3) `fi ghita'` portrays the covering as an enveloping environment rather than a passing obstruction, (4) `'an dhikri` names Allah's own remembrance as the avoided object of sight, (5) `la yastati'una sam'a` shows refusal hardening into incapacity to receive guidance.
+**Themes:** (1) the heart can train its senses away from Allah, (2) avoiding remembrance does not remove accountability, (3) dhikr is not escape from reality but the recovery of reality.
+**Validation:** Frontmatter manual lint ✅, Arabic ✅ (1/1 exact against local `quran-validator` data, no untagged Quranic text beyond the matching frontmatter/body ayah), Morphology ✅ (6/6 verified against cached Quranic Corpus), Tafsir report ✅ (Ibn Kathir aligns on blind-eye/deaf-ear refusal of guidance and links 43:36; al-Tabari aligns on failure to reflect on signs and inability to receive Allah's reminder; al-Muyassar aligns on eyes covered from signs and inability to bear proofs leading to faith). Note: the Node validator scripts hung in this desktop shell even with a clean environment, so the same checks were performed manually against their underlying local/API sources.
+**Tafsir report:** `content/tadabbur/018-al-kahf/tafsir-report-101.md`
+**Queue note:** Covered Al-Kahf `18:101`; no `18:101` line was present in the current live `scripts/pending-ayahs.txt`, so the queue file was left untouched. Next uncovered Al-Kahf repair pickup is `18:102` if continuing this sequence.
+**Status:** validated: true
+
+---
+
+## Session Log — 2026-04-13 (Codex Tadabbur: Al-Kahf 18:100)
+
+**Ayah:** 18:100 — after the barrier release, the Horn, and the total gathering, Al-Kahf shows Jahannam being presented that Day to the disbelievers as the denied reality becomes direct display.
+**File:** `content/tadabbur/018-al-kahf/ayah-100.md`
+**Title:** "When Hell Is Made Visible"
+**Estimated duration:** 40-50 minutes
+**Anchor points:** (1) `wa aradna` turns warning into encounter and echoes the passive presentation of people before Allah in 18:48, (2) `Jahannam` names the reality without euphemism, (3) repeated `yawma'idhin` ties the ayah to the same promised Day as 18:99, (4) `lil-kafirin` makes the display directed to those who covered over truth, (5) final `ardan` intensifies the act as a plain, emphatic display.
+**Themes:** (1) Hell is not a concept we manage but a reality Allah will disclose, (2) the covering of kufr ends with the exposure of truth, (3) Al-Kahf's hidden world ends in a world where nothing can hide.
+**Validation:** Frontmatter lint ✅, Arabic ✅ (1/1 exact, no untagged Quranic text), Morphology ✅ (4/4 verified), Tafsir report ✅ (Ibn Kathir aligns on Hell being displayed to the disbelievers before entry, intensifying grief; al-Tabari aligns on Jahannam being brought forth and made visible to the disbelievers until they see it directly; al-Muyassar aligns on Hell being shown to the disbelievers so they see their evil outcome).
+**Tafsir report:** `content/tadabbur/018-al-kahf/tafsir-report-100.md`
+**Queue note:** Covered Al-Kahf `18:100`; no `18:100` line was present in the current live `scripts/pending-ayahs.txt`, so the queue file was left untouched. Next uncovered Al-Kahf repair pickup is `18:101` if continuing this sequence.
+**Status:** validated: true
 
 ---
 
@@ -8909,6 +9141,10 @@ Topics surfacing from web research (Reddit inaccessible this run; signals from G
 ## Session Log
 | Date | Entity | Articles Written | Notes |
 |------|--------|-----------------|-------|
+| 2026-04-16 | ta-ha (tadabbur) | 3 ayah records | 20:22-24 — Musa's hand is drawn inward and emerges white without harm as another sign; Allah shows him great signs, then sends him to Pharaoh because he has transgressed ✅ |
+| 2026-04-13 | al-kahf (tadabbur) | 2 ayah records | 18:107-108 — believers with righteous deeds receive al-Firdaws as hospitality, abiding forever with no desire for transfer ✅ |
+| 2026-04-13 | al-kahf (tadabbur) | 4 ayah records | 18:103-106 — the greatest losers in deeds: striving gone astray while assumed excellent, deeds voided through denial of signs/meeting, no weight established, Jahannam for disbelief and mockery ✅ |
+| 2026-04-13 | al-kahf (tadabbur) | 1 ayah record | 18:100 — after the gathering, Jahannam is presented that Day to the disbelievers as the denied reality becomes plain display ✅ |
 | 2026-04-12 | al-kahf (tadabbur) | 1 ayah record | 18:99 — after the barrier is named mercy and its appointed leveling is acknowledged, the surah moves to the promised Day: some surge into some, the Horn is blown, and Allah gathers all together ✅ |
 | 2026-04-11 | Musa (hub synthesis) | 0 new articles | Hub synthesis inserted into hub_synthesis_cache (entity_id: a3221ae5-2aea-497d-bdca-c26ef513ccfa). 9 articles already published, 5 ayah records in place. Synthesis covers: distributed portrait across surahs, burning bush call, confrontation with Fir'awn, prophet who breaks, Khidr episode, cross-surah comparison with Yusuf. content_hash: musa-9-articles-v1 ✅ |
 | 2026-04-12 | al-kahf (tadabbur) | 3 ayah records | 18:92-94 — the third Dhul-Qarnayn journey reaches between two barriers, finds a people who can hardly understand speech, hears their plea about Ya'juj and Ma'juj spreading corruption in the land, and records their offer of payment for a protective barrier ✅ |

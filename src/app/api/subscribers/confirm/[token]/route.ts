@@ -2,6 +2,7 @@ import { createAdminClient } from '@/lib/supabase/admin'
 import { getResend, EMAIL_FROM } from '@/lib/email/resend'
 import { NextResponse } from 'next/server'
 import { SITE_URL, SITE_NAME } from '@/lib/constants'
+import { getPostHogClient } from '@/lib/posthog-server'
 
 interface Params {
   params: Promise<{ token: string }>
@@ -104,6 +105,15 @@ export async function GET(request: Request, { params }: Params) {
   } catch (emailError) {
     console.error('Welcome email error:', emailError)
   }
+
+  // Track subscription confirmation server-side
+  const phServer = getPostHogClient()
+  phServer.capture({
+    distinctId: subscriber.email,
+    event: 'subscription_confirmed',
+    properties: { source: subscriber.source || 'website' },
+  })
+  await phServer.shutdown()
 
   return NextResponse.redirect(`${SITE_URL}?subscription=confirmed`)
 }

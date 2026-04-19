@@ -4,6 +4,7 @@ import { useState, useEffect, Suspense } from 'react'
 import { useRouter, useSearchParams } from 'next/navigation'
 import Link from 'next/link'
 import { createClient } from '@/lib/supabase/client'
+import posthog from 'posthog-js'
 
 function SignInContent() {
   const router = useRouter()
@@ -30,6 +31,7 @@ function SignInContent() {
   async function handleGoogleSignIn() {
     setError(null)
     setLoading(true)
+    posthog.capture('google_sign_in_clicked')
     const { error } = await supabase.auth.signInWithOAuth({
       provider: 'google',
       options: {
@@ -55,6 +57,7 @@ function SignInContent() {
       })
       if (error) {
         setError(error.message)
+        posthog.capture('auth_error', { mode: 'signup' })
       } else {
         if (subscribeNewsletter) {
           // Fire-and-forget — don't block the UX on this
@@ -64,13 +67,18 @@ function SignInContent() {
             body: JSON.stringify({ email, source: 'auth_signup' }),
           }).catch(() => {})
         }
+        posthog.identify(email, { email })
+        posthog.capture('user_signed_up', { subscribed_newsletter: subscribeNewsletter })
         setMessage('Check your email to confirm your account.')
       }
     } else {
       const { error } = await supabase.auth.signInWithPassword({ email, password })
       if (error) {
         setError(error.message)
+        posthog.capture('auth_error', { mode: 'signin' })
       } else {
+        posthog.identify(email, { email })
+        posthog.capture('user_signed_in', { method: 'email' })
         router.replace(next)
         router.refresh()
       }

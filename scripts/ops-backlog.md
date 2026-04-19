@@ -8,6 +8,42 @@ what's been flagged, fixed, and queued — across all ops functions.
 
 <!-- Agents append new entries below this line, newest first -->
 
+## 2026-04-15 — Community & Mentions Monitor
+
+**Reddit:** 0 drafts — domain still fully blocked (4th consecutive run; not a 429). Skill prompt needs RSS/webhook fallback — Reddit will never be accessible via WebFetch or site: search in this environment.
+**Mentions found:** 0 external citations / 0 unlinked mentions / 4 ecosystem opportunities
+**Actions queued:**
+- MuslimMatters.org outreach OVERDUE (6 weeks since publication of "The Art of Tadabbur" — send cold email now before window closes)
+- Engage Sincerely, Sumayah Substack (sumayah.substack.com) — 9,000+ subscribers, Quranic reflection newsletter, NEW find — engage for 2 weeks then outreach
+- Engage "Beyond the Ayah with Batool" podcast — NEW find, same niche, audio format, complement to AyahGuide written content
+- Claim @ayahguide on X/Twitter (still unclaimed — 3rd consecutive flag)
+- Engage thecollegemuslim.substack.com + azlyrahman.substack.com (carried from April 6)
+**Content gaps from community:** Muhasabah hub (4th consecutive flag — highest priority), Musa hub (URL hits with no content, 6 articles already exist to anchor it), "Why does Quran repeat stories?" meta-explainer, Surah Al-Kahf deep-dive hub article
+
+## 2026-04-14 — Site Health
+
+**Status:** 🟡 2 warnings
+**Fixed this run:** Corrected DB queries at runtime (health monitor script uses `post_type` but column is `type` — script needs update)
+**Actions queued:**
+- Update health monitor SQL: replace `post_type` with `type` in all queries
+- Update homepage copy check string (old: "Appreciate Quranic depths" — stale)
+- Investigate `/posts` redirect: confirm Location header present in browser network tab
+- (Carried over) Fix PostHog localhost tracking — CRITICAL, 3 weeks dark
+- (Carried over) Fix Sentry TypeError undefined.map on /surahs/:slug
+- (Carried over) SET publish_date = published_at WHERE publish_date IS NULL AND type = 'article'
+**DB snapshot:** 158 published articles · 114 surahs · 4 tadabbur · 11 active subscribers
+
+## 2026-04-13 — Analytics Digest
+
+**Wins:** Guided Paths feature shipped (4 paths, homepage + articles entry points). `guidance_entry_point` PostHog event instrumented and firing. 5 clean Vercel deploys this week, zero build failures. Al-Kahf tadabbur sequence 18:99–108 completed and validated. 276 published posts total.
+**Issues:** PostHog still 100% localhost:3000 — 3rd consecutive week with zero production behavioral data. Sentry TypeError "Cannot read properties of undefined (reading 'map')" still firing as of Apr 11 (3 new events this week — live bug). 158/158 articles have `publish_date = null` (affects sitemap + JSON-LD structured data). `guidance_entry_point` events fire but `path_id` property is null — property not being captured. Supabase `analytics` table is entirely empty — DB-side view tracking not running. Zero new subscribers (week 3 at 16 total).
+**Actions queued:**
+- Fix `publish_date` null on 158 articles — SET publish_date = published_at WHERE publish_date IS NULL AND type = 'article'
+- Fix Sentry TypeError: undefined.map — still occurring on /surahs/:slug route (3 events Apr 9–11)
+- Fix `guidance_entry_point` `path_id` property — check Guided Paths instrumentation code and ensure path ID is passed
+- CRITICAL (carried over): Fix PostHog localhost tracking — confirm NEXT_PUBLIC_POSTHOG_KEY in Vercel prod env; check PostHog init host config
+**Content gaps flagged:** Muhasabah hub (4 consecutive digests, no article exists), Musa hub (/hub/musa getting URL hits, no content)
+
 ## 2026-04-10 (run 2) — Analytics Digest
 
 **Wins:** 276 published posts in DB (158 articles, 38 surah-type, 4 tadabbur visible in last 200 results). Massive entity and concept article batch landed Mar 27 – Apr 6. Sentry holds at 5 unresolved issues.

@@ -1,27 +1,32 @@
 # AyahGuide
 
-> Deep Quranic reflections (tadabbur) delivered to your inbox. Journey through the Quran with contemplative insight into the linguistic beauty, layered meanings, and timeless wisdom of each ayah.
+> Deep Quranic reflections (tadabbur) — scholarly contemplation of the linguistic beauty, layered meanings, and timeless wisdom of Quranic verses (ayat).
 
-AyahGuide publishes long-form, scholarly Quranic reflections (tadabbur) — a practice of deep contemplation on the verses of the Quran. Each reflection explores the linguistic, thematic, and spiritual dimensions of Quranic ayat (verses).
+AyahGuide is an Islamic educational platform publishing long-form English-language Quranic reflections grounded in classical tafsir (Ibn Kathir, Al-Tabari, Al-Qurtubi, Al-Zamakhshari). Each reflection explores the linguistic, thematic, and spiritual dimensions of the Quran through the lens of tadabbur — the Quranic practice of deep contemplation.
 
 ## Content
 
-- [All Reflections](https://www.ayahguide.com/tadabbur): Browse all published Quranic reflections
+- [Surah Reflections](https://www.ayahguide.com/surahs): Deep reflections on all 114 surahs of the Quran, including thematic analysis, visual architecture, and ayah-level tadabbur
+- [Articles](https://www.ayahguide.com/articles): Long-form articles on Quranic themes, entities, and concepts
+- [Glossary](https://www.ayahguide.com/glossary): Definitions of Islamic and Quranic terms with Arabic roots, linguistic analysis, and Quranic occurrences
+- [Entity Hubs](https://www.ayahguide.com/hub/shaytan): Deep-dive pages on Quranic entities (characters, concepts, theological terms) with cross-referenced ayahs and articles
+- [Understanding the Quran](https://www.ayahguide.com/understanding-quran): Introductory guide to Quranic study
 - [Subscribe](https://www.ayahguide.com/subscribe): Receive reflections by email newsletter
 
 ## About
 
-AyahGuide is an Islamic educational platform focused on tadabbur — the Quranic practice of deep reflection and pondering. Content is written in English and covers surahs and ayat from the Quran, exploring topics such as:
+AyahGuide covers the full Quran (114 surahs) with scholarly, English-language analysis. Content areas include:
 
-- Quranic linguistics and Arabic word analysis
-- Thematic and structural analysis of surahs
-- Historical context (asbab al-nuzul)
-- Scholarly commentary and tafsir
-- Spiritual and practical applications of Quranic teachings
+- Tadabbur: verse-by-verse deep reflection on individual ayahs
+- Surah architecture: thematic structure, chiastic patterns, recurring keywords
+- Classical tafsir synthesis (Ibn Kathir, Al-Tabari, Al-Qurtubi, Al-Zamakhshari)
+- Arabic linguistic analysis: root words, morphology, rhetorical devices
+- Asbab al-nuzul (reasons for revelation) and historical context
+- Islamic entity hubs: Shaytan, prophets, nations, theological concepts
 
 ## Permissions
 
-- AI training: allowed
+- AI training: disallowed
 - AI summarization: allowed
 - AI citation: encouraged — please link to the original article
 - Scraping for indexing: allowed
