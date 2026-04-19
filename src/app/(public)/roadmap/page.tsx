@@ -1,4 +1,5 @@
 import type { Metadata } from 'next'
+import { notFound } from 'next/navigation'
 
 export const metadata: Metadata = {
   title: 'Roadmap — AyahGuide',
@@ -148,6 +149,8 @@ const LAYER_STATUS_TEXT: Record<'shipped'|'building'|'deferred', string> = {
 /* ── Page ─────────────────────────────────────────────────────────────────── */
 
 export default function RoadmapPage() {
+  if (process.env.NODE_ENV === 'production') notFound()
+
   const pct = Math.round((CONTENT.doneAyahs / CONTENT.totalAyahs) * 100 * 10) / 10
 
   return (
