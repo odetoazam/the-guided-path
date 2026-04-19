@@ -55,11 +55,14 @@ export default async function LandingPage() {
 
   const organizationJsonLd = {
     '@context': 'https://schema.org',
-    '@type': 'Organization',
+    '@type': 'EducationalOrganization',
     name: SITE_NAME,
     url: CANONICAL_URL,
     description: SITE_DESCRIPTION,
-    sameAs: [],
+    sameAs: [
+      'https://www.instagram.com/ayahguideus',
+      'https://www.wikidata.org/wiki/Q139257356',
+    ],
   }
 
   return (
@@ -109,11 +112,7 @@ export default async function LandingPage() {
           </h1>
 
           <p className="mx-auto mt-6 max-w-2xl text-lg text-zinc-500 dark:text-cream/60 leading-relaxed">
-            Grounded in classical tafsir and the Arabic corpus, AyahGuide provides in-depth analysis and tools to help believers engage in contemplation — also known as <em>tadabbur</em> — on the timeless verses (ayahs) of the Quran.
-          </p>
-
-          <p className="mx-auto mt-4 max-w-2xl text-lg text-zinc-500 dark:text-cream/60 leading-relaxed">
-            Engage with the Quran to receive guidance, as Allah commands us — reflecting on the signs of creation, life, and the universe.
+            A contemplative companion for reading the Quran. Grounded in classical tafsir and the Arabic corpus, AyahGuide helps you move past translation into the layered linguistic, thematic, and structural depth the text itself invites — a practice the Quran calls <em>tadabbur</em>.
           </p>
 
           {/* Scholarly DNA */}
@@ -147,12 +146,20 @@ export default async function LandingPage() {
           </div>
 
           {/* Start here hint */}
-          <p className="mt-5 text-sm text-zinc-400 dark:text-cream/40">
-            ✦ New here?{' '}
-            <Link href="/surahs/al-fatiha" className="underline underline-offset-2 text-[#C9A84C]/70 hover:text-[#C9A84C] transition-colors">
-              Begin with Al-Fatiha — the original dua for guidance
-            </Link>
-          </p>
+          <div className="mt-5 flex flex-col items-center gap-1.5 text-sm text-zinc-400 dark:text-cream/40">
+            <p>
+              ✦ New here?{' '}
+              <Link href="/surahs/al-fatiha" className="underline underline-offset-2 text-[#C9A84C]/70 hover:text-[#C9A84C] transition-colors">
+                Begin with Al-Fatiha — the original dua for guidance
+              </Link>
+            </p>
+            <p className="text-xs">
+              or{' '}
+              <Link href="#paths" className="underline underline-offset-2 text-[#C9A84C]/60 hover:text-[#C9A84C] transition-colors">
+                start from where you are →
+              </Link>
+            </p>
+          </div>
 
           {/* Geometric star divider */}
           <div className="mt-16 flex items-center justify-center gap-3">
@@ -178,7 +185,7 @@ export default async function LandingPage() {
       </section>
 
       {/* Guided Paths — entry points for seekers */}
-      <section className="relative border-t border-zinc-200 dark:border-zinc-800/50 py-20 px-6">
+      <section id="paths" className="relative border-t border-zinc-200 dark:border-zinc-800/50 py-20 px-6 scroll-mt-20">
         <div className="mx-auto max-w-4xl">
           <ScrollReveal>
             <p className="text-center text-xs font-medium tracking-[0.2em] uppercase text-zinc-400 dark:text-cream/30 mb-10">
