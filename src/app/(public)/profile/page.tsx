@@ -9,6 +9,7 @@ import type { User } from '@supabase/supabase-js'
 
 interface ProgressRow { slug: string; content_type: string; read_at: string }
 interface FavoriteRow { slug: string; content_type: string; favorited_at: string }
+interface ReflectionRow { slug: string; content_type: string; content: string; updated_at: string }
 interface PostTitle { slug: string; title: string }
 
 function getInitials(user: User) {
@@ -29,6 +30,7 @@ export default function ProfilePage() {
   const [user, setUser] = useState<User | null>(null)
   const [progress, setProgress] = useState<ProgressRow[]>([])
   const [favorites, setFavorites] = useState<FavoriteRow[]>([])
+  const [reflections, setReflections] = useState<ReflectionRow[]>([])
   const [titles, setTitles] = useState<Record<string, string>>({})
   const [loading, setLoading] = useState(true)
   const supabase = createClient()
@@ -39,20 +41,24 @@ export default function ProfilePage() {
       if (!session) { router.replace('/auth/sign-in?next=/profile'); return }
       setUser(session.user)
 
-      const [progRes, favRes] = await Promise.all([
+      const [progRes, favRes, reflRes] = await Promise.all([
         supabase.from('user_progress').select('slug, content_type, read_at').eq('user_id', session.user.id).order('read_at', { ascending: false }),
         supabase.from('user_favorites').select('slug, content_type, favorited_at').eq('user_id', session.user.id).order('favorited_at', { ascending: false }),
+        supabase.from('user_reflections').select('slug, content_type, content, updated_at').eq('user_id', session.user.id).order('updated_at', { ascending: false }),
       ])
 
       const prog = progRes.data ?? []
       const favs = favRes.data ?? []
+      const refls = reflRes.data ?? []
       setProgress(prog)
       setFavorites(favs)
+      setReflections(refls)
 
       // Fetch real titles for post-type entries
       const postSlugs = [...new Set([
         ...prog.filter(r => r.content_type === 'post').map(r => r.slug),
         ...favs.filter(r => r.content_type === 'post').map(r => r.slug),
+        ...refls.filter(r => r.content_type === 'post').map(r => r.slug),
       ])]
 
       if (postSlugs.length > 0) {
@@ -81,16 +87,43 @@ export default function ProfilePage() {
     progress.filter(r => r.content_type === 'surah').map(r => r.slug)
   )
 
-  function getLabel(row: ProgressRow | FavoriteRow) {
+  // Parse tadabbur-format slugs like "002-225-232" or "004-034" into readable labels.
+  // Falls back to slug prettification only if parsing fails.
+  function formatTadabburSlug(slug: string): string | null {
+    // Match SSS-AAA or SSS-AAA-BBB
+    const m = slug.match(/^(\d{3})-(\d{2,3})(?:-(\d{2,3}))?$/)
+    if (!m) return null
+    const surahNum = parseInt(m[1], 10)
+    const startAyah = parseInt(m[2], 10)
+    const endAyah = m[3] ? parseInt(m[3], 10) : null
+    const surah = SURAHS[surahNum - 1]
+    if (!surah) return null
+    const range = endAyah ? `${startAyah}–${endAyah}` : `${startAyah}`
+    return `${surah.nameEn} ${surahNum}:${range}`
+  }
+
+  function prettifySlug(slug: string): string {
+    return slug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase())
+  }
+
+  function getLabel(row: { slug: string; content_type: string }) {
     if (row.content_type === 'surah') {
       const surah = SURAHS.find(s => surahSlug(s.nameEn) === row.slug)
-      return surah ? `Surah ${surah.n}: ${surah.nameEn}` : row.slug
+      return surah ? `Surah ${surah.n}: ${surah.nameEn}` : prettifySlug(row.slug)
     }
-    return titles[row.slug] ?? row.slug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase())
+    // Posts: prefer DB title, then tadabbur-slug parsing, then raw prettification
+    return titles[row.slug] ?? formatTadabburSlug(row.slug) ?? prettifySlug(row.slug)
   }
 
   function getHref(row: { slug: string; content_type: string }) {
-    return row.content_type === 'surah' ? `/surahs/${row.slug}` : `/posts/${row.slug}`
+    if (row.content_type === 'surah') return `/surahs/${row.slug}`
+    // Tadabbur-format slug (SSS-AAA or SSS-AAA-BBB) routes to the parent surah page.
+    const tadabbur = row.slug.match(/^(\d{3})-\d{2,3}(?:-\d{2,3})?$/)
+    if (tadabbur) {
+      const surah = SURAHS[parseInt(tadabbur[1], 10) - 1]
+      if (surah) return `/surahs/${surahSlug(surah.nameEn)}`
+    }
+    return `/posts/${row.slug}`
   }
 
   if (loading) {
@@ -175,6 +208,37 @@ export default function ProfilePage() {
           </p>
         )}
       </section>
+
+      {/* ── Your reflections ── */}
+      {reflections.length > 0 && (
+        <section className="mb-12">
+          <div className="mb-5 flex items-baseline gap-2">
+            <h2 className="font-serif text-xl font-bold text-zinc-900 dark:text-white">Your reflections</h2>
+            <span className="text-sm text-zinc-400">{reflections.length}</span>
+          </div>
+          <div className="flex flex-col gap-3">
+            {reflections.map(r => (
+              <Link
+                key={`${r.content_type}:${r.slug}`}
+                href={getHref(r)}
+                className="group block rounded-xl border border-zinc-200 dark:border-zinc-800 bg-white dark:bg-zinc-900/40 px-4 py-4 transition-all hover:border-gold-500/30 hover:bg-gold-500/5"
+              >
+                <div className="flex items-baseline justify-between gap-3">
+                  <span className="text-sm font-medium text-zinc-800 dark:text-cream/80 group-hover:text-gold-500 transition-colors">
+                    {getLabel(r)}
+                  </span>
+                  <span className="shrink-0 text-xs text-zinc-400 dark:text-cream/30">
+                    {formatDate(r.updated_at)}
+                  </span>
+                </div>
+                <p className="mt-1.5 line-clamp-2 text-sm text-zinc-500 dark:text-cream/50 whitespace-pre-wrap">
+                  {r.content}
+                </p>
+              </Link>
+            ))}
+          </div>
+        </section>
+      )}
 
       {/* ── Saved ── */}
       <section className="mb-12">

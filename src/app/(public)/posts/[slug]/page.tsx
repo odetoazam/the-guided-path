@@ -11,6 +11,7 @@ import { CANONICAL_URL, SITE_NAME } from '@/lib/constants'
 import type { Entity, EntityCategory } from '@/types'
 import { ArticleContent } from '@/components/ArticleContent'
 import { PostActions } from '@/components/PostActions'
+import { ReflectionEditor } from '@/components/ReflectionEditor'
 
 interface Props {
   params: Promise<{ slug: string }>
@@ -456,6 +457,9 @@ export default async function PostPage({ params }: Props) {
             </div>
           </div>
         )}
+
+        {/* Personal reflection note — private, per-user */}
+        <ReflectionEditor slug={post.slug} type="post" />
 
         {/* Bottom divider */}
         <div className="mt-12 sm:mt-16 flex items-center gap-4">
