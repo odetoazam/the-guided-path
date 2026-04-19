@@ -133,7 +133,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
   const { entity } = data
   const pageUrl = `${CANONICAL_URL}/hub/${slug}`
-  const title = `${entity.name_translit} (${entity.name_arabic}) — ${SITE_NAME}`
+  const title = `${entity.name_translit} (${entity.name_arabic})`
   const description = entity.one_line
 
   return {
@@ -154,7 +154,28 @@ export default async function HubPage({ params }: Props) {
 
   const { entity, posts, ayahRecords, connections, synthesisHtml } = data
 
+  const pageUrl = `${CANONICAL_URL}/hub/${slug}`
+  const jsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'DefinedTerm',
+    name: entity.name_translit,
+    alternateName: entity.name_arabic,
+    description: entity.one_line,
+    url: pageUrl,
+    inDefinedTermSet: {
+      '@type': 'DefinedTermSet',
+      name: `${SITE_NAME} — Quranic Entity Hubs`,
+      url: `${CANONICAL_URL}/hub`,
+    },
+  }
+
   return (
+    <>
+    <script
+      suppressHydrationWarning
+      type="application/ld+json"
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+    />
     <div className="min-h-screen bg-white dark:bg-navy-dark text-navy dark:text-cream">
       {/* ── Hero ───────────────────────────────────────────────────────────── */}
       <div className="relative overflow-hidden border-b border-zinc-200 px-5 pb-12 pt-14 text-center dark:border-white/[0.05]">
@@ -279,6 +300,7 @@ export default async function HubPage({ params }: Props) {
         </div>
       </div>
     </div>
+    </>
   )
 }
 

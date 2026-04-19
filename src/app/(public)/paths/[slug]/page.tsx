@@ -127,7 +127,7 @@ export async function generateMetadata({
   if (!path) return { title: 'Not Found' }
   const url = `${CANONICAL_URL}/paths/${slug}`
   return {
-    title: `${path.title} — ${SITE_NAME}`,
+    title: path.title,
     description: path.description,
     alternates: { canonical: url },
     openGraph: {

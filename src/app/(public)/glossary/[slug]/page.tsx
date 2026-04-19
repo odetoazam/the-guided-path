@@ -17,7 +17,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!entry) return { title: 'Not Found' }
 
   const pageUrl = `${CANONICAL_URL}/glossary/${slug}`
-  const title = `${entry.transliteration} (${entry.term}) — ${SITE_NAME} Glossary`
+  const title = `${entry.transliteration} (${entry.term}) — Glossary`
   const description = entry.summary.slice(0, 160)
 
   return {

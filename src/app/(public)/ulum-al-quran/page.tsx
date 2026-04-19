@@ -14,7 +14,7 @@ import {
 const pageUrl = `${CANONICAL_URL}/ulum-al-quran`
 
 export const metadata: Metadata = {
-  title: 'Ulum al-Quran: The Sciences Behind the Quran — A Visual Taxonomy | AyahGuide',
+  title: 'Ulum al-Quran: The Sciences Behind the Quran — A Visual Taxonomy',
   description:
     'A visual guide to 18 Quranic sciences organized by scale — word, verse, surah, and cross-cutting — with live ayah examples, difficulty tiers, and deep links to applied reflections.',
   keywords: [

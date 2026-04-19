@@ -2,7 +2,7 @@ import { NewsletterSignup } from '@/components/blog/newsletter-signup'
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'Join the Journey — AyahGuide',
+  title: 'Join the Journey',
   description: 'When something illuminates the path, it finds you. Join those seeking guidance through contemplation of the Quran.',
 }
 

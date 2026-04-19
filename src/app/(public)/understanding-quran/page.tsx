@@ -5,7 +5,7 @@ import { CANONICAL_URL, SITE_NAME } from '@/lib/constants'
 const pageUrl = `${CANONICAL_URL}/understanding-quran`
 
 export const metadata: Metadata = {
-  title: 'How to Read the Quran with Understanding — A Guide to Tafsir & Tadabbur | AyahGuide',
+  title: 'How to Read the Quran with Understanding — A Guide to Tafsir & Tadabbur',
   description: 'A complete, practical guide to tafsir and tadabbur — the tools scholars use to understand the Quran, explained for every reader. Learn to read the Quran with depth, precision, and presence.',
   keywords: [
     'how to read the Quran', 'understand the Quran', 'tafsir', 'tadabbur',
