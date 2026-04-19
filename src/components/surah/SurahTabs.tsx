@@ -1,7 +1,9 @@
 'use client'
 
 import Image from 'next/image'
-import { useState } from 'react'
+import Link from 'next/link'
+import { useState, useMemo } from 'react'
+import { SelectionQuoteShare } from '@/components/share/SelectionQuoteShare'
 import { DiagramRenderer, AudioPlayer, OrnamentDivider } from '@/components/surah/diagrams'
 import { NewsletterSignup } from '@/components/blog/newsletter-signup'
 import { ShareLink } from '@/components/analytics/share-link'
@@ -43,6 +45,7 @@ interface SurahTabsProps {
     featured_image?: string
   } | null
   surahNumber: number
+  surahName?: string
   surahSlug: string
   glowColor: string
   pageUrl: string
@@ -55,7 +58,8 @@ type TopTab = 'overview' | 'reflection'
 export function SurahTabs({
   visualData,
   post,
-  surahNumber: _surahNumber,
+  surahNumber,
+  surahName,
   surahSlug,
   glowColor,
   pageUrl,
@@ -86,7 +90,22 @@ export function SurahTabs({
     trackSurahTabSwitch(surahSlug, 'overview', id)
   }
 
-  const contentHtml = post?.content_html?.replace(/^<h1[^>]*>.*?<\/h1>\s*/i, '') || ''
+  const rawHtml = post?.content_html?.replace(/^<h1[^>]*>.*?<\/h1>\s*/i, '') || ''
+
+  const contentHtml = useMemo(() => {
+    let html = rawHtml
+    // [PAUSE] markers → visual breathing-room dividers
+    html = html.replace(
+      /<p>\s*\[PAUSE\]\s*<\/p>/gi,
+      '<div class="pause-divider" aria-hidden="true"><span>· · ·</span></div>'
+    )
+    // "One-Sentence Distillation" h3 + following p → highlight box
+    html = html.replace(
+      /<h3[^>]*>\s*One-Sentence Distillation\s*<\/h3>\s*(<p>[\s\S]*?<\/p>)/i,
+      '<div class="distillation-box">$1</div>'
+    )
+    return html
+  }, [rawHtml])
 
   return (
     <div className="mx-auto max-w-3xl px-5 pb-16">
@@ -228,7 +247,10 @@ export function SurahTabs({
         {/* ━━ Reflection panel ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ */}
         <div role="tabpanel" className={activeTab !== 'reflection' ? 'hidden' : ''}>
             {post ? (
-              <article>
+              <article data-quote-share-root>
+                <SelectionQuoteShare
+                  cite={surahName ? `Surah ${surahName} (${surahNumber}) — AyahGuide` : `Surah ${surahNumber} — AyahGuide`}
+                />
                 <header className="mb-10">
                   <h2 className="font-serif text-2xl font-bold text-white sm:text-3xl">
                     {post.title}
@@ -271,6 +293,20 @@ export function SurahTabs({
                   </div>
                 )}
 
+                {/* Tadabbur-vs-fatwa editorial note */}
+                <div className="mb-8 rounded-lg border border-white/[0.06] bg-white/[0.02] px-4 py-3 text-[11px] leading-relaxed text-zinc-500">
+                  <span className="font-medium text-zinc-400">A note on reading.</span> This is a
+                  tadabbur &mdash; a contemplative reflection. It is not a fatwā. Classical juridical
+                  framing is cited where relevant; for rulings applicable to your situation, consult
+                  a qualified scholar. See{' '}
+                  <Link href="/methodology" className="text-[#C9A84C]/70 hover:text-[#C9A84C] underline-offset-2 hover:underline transition-colors">
+                    our methodology
+                  </Link>{' '}or{' '}
+                  <Link href="/contested-verses" className="text-[#C9A84C]/70 hover:text-[#C9A84C] underline-offset-2 hover:underline transition-colors">
+                    how we handle contested verses
+                  </Link>.
+                </div>
+
                 <div
                   className="prose-blog"
                   dangerouslySetInnerHTML={{ __html: contentHtml }}
@@ -283,36 +319,40 @@ export function SurahTabs({
                   <div className="h-px flex-1 bg-gradient-to-r from-transparent via-[#C9A84C]/30 to-transparent" />
                 </div>
 
-                {/* Share */}
-                <div className="mt-8 flex items-center justify-center gap-6 text-sm">
-                  <span className="text-zinc-500">Share:</span>
-                  <ShareLink
-                    href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(post.title)}&url=${encodeURIComponent(pageUrl)}`}
-                    platform="twitter"
-                    contentType="surah"
-                    slug={surahSlug}
-                    className="text-zinc-400 hover:text-[#C9A84C] transition-colors font-medium"
-                  >
-                    Twitter/X
-                  </ShareLink>
-                  <ShareLink
-                    href={`https://wa.me/?text=${encodeURIComponent(`${post.title} — ${pageUrl}`)}`}
-                    platform="whatsapp"
-                    contentType="surah"
-                    slug={surahSlug}
-                    className="text-zinc-400 hover:text-[#C9A84C] transition-colors font-medium"
-                  >
-                    WhatsApp
-                  </ShareLink>
-                  <ShareLink
-                    href={`mailto:?subject=${encodeURIComponent(post.title)}&body=${encodeURIComponent(`Check out this reflection: ${pageUrl}`)}`}
-                    platform="email"
-                    contentType="surah"
-                    slug={surahSlug}
-                    className="text-zinc-400 hover:text-[#C9A84C] transition-colors font-medium"
-                  >
-                    Email
-                  </ShareLink>
+                {/* Share card */}
+                <div className="mt-8 rounded-xl border border-zinc-800 bg-zinc-900/20 px-5 py-4">
+                  <p className="text-[10px] font-medium uppercase tracking-[0.18em] text-zinc-600 mb-3">
+                    Share this reflection
+                  </p>
+                  <div className="flex gap-2">
+                    <ShareLink
+                      href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(post.title)}&url=${encodeURIComponent(pageUrl)}`}
+                      platform="twitter"
+                      contentType="surah"
+                      slug={surahSlug}
+                      className="flex-1 rounded-lg border border-zinc-800 bg-zinc-900/40 py-2.5 text-center text-[13px] font-medium text-zinc-400 hover:text-[#C9A84C] hover:border-zinc-700 transition-colors"
+                    >
+                      Twitter / X
+                    </ShareLink>
+                    <ShareLink
+                      href={`https://wa.me/?text=${encodeURIComponent(`${post.title} — ${pageUrl}`)}`}
+                      platform="whatsapp"
+                      contentType="surah"
+                      slug={surahSlug}
+                      className="flex-1 rounded-lg border border-zinc-800 bg-zinc-900/40 py-2.5 text-center text-[13px] font-medium text-zinc-400 hover:text-[#C9A84C] hover:border-zinc-700 transition-colors"
+                    >
+                      WhatsApp
+                    </ShareLink>
+                    <ShareLink
+                      href={`mailto:?subject=${encodeURIComponent(post.title)}&body=${encodeURIComponent(`Check out this reflection: ${pageUrl}`)}`}
+                      platform="email"
+                      contentType="surah"
+                      slug={surahSlug}
+                      className="flex-1 rounded-lg border border-zinc-800 bg-zinc-900/40 py-2.5 text-center text-[13px] font-medium text-zinc-400 hover:text-[#C9A84C] hover:border-zinc-700 transition-colors"
+                    >
+                      Email
+                    </ShareLink>
+                  </div>
                 </div>
                 <ScrollDepthTracker slug={surahSlug} contentType="surah" />
 

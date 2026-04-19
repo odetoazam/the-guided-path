@@ -122,31 +122,31 @@
   }
 
   .prose-blog p {
-    @apply mb-6 text-lg leading-[1.9] text-zinc-700 dark:text-cream/80;
+    @apply mb-4 sm:mb-6 text-base sm:text-lg leading-[1.85] sm:leading-[1.9] text-zinc-700 dark:text-cream/80;
   }
 
   .prose-blog h1 {
-    @apply text-3xl font-semibold mt-12 mb-6 text-navy dark:text-cream;
+    @apply text-2xl sm:text-3xl font-semibold mt-8 sm:mt-12 mb-4 sm:mb-6 text-navy dark:text-cream;
     font-family: var(--font-serif);
   }
 
   .prose-blog h2 {
-    @apply text-2xl font-semibold mt-10 mb-4 text-navy dark:text-cream;
+    @apply text-xl sm:text-2xl font-semibold mt-6 sm:mt-10 mb-3 sm:mb-4 text-navy dark:text-cream;
     font-family: var(--font-serif);
   }
 
   .prose-blog h3 {
-    @apply text-xl font-medium mt-8 mb-3 text-navy dark:text-cream;
+    @apply text-[1.05rem] sm:text-xl font-medium mt-5 sm:mt-8 mb-2 sm:mb-3 text-navy dark:text-cream;
     font-family: var(--font-serif);
   }
 
   .prose-blog blockquote {
-    @apply border-l-4 border-gold-500 pl-6 my-8 text-zinc-600 dark:text-cream/55;
+    @apply border-l-4 border-gold-500 pl-4 sm:pl-6 my-6 sm:my-8 text-zinc-600 dark:text-cream/55;
     font-style: italic;
   }
 
   .prose-blog blockquote p {
-    @apply text-lg leading-[1.9];
+    @apply text-base sm:text-lg leading-[1.85] sm:leading-[1.9];
   }
 
   .prose-blog img {
@@ -162,19 +162,19 @@
   }
 
   .prose-blog ul {
-    @apply list-disc pl-6 mb-6 space-y-2;
+    @apply list-disc pl-5 sm:pl-6 mb-4 sm:mb-6 space-y-2;
   }
 
   .prose-blog ol {
-    @apply list-decimal pl-6 mb-6 space-y-2;
+    @apply list-decimal pl-5 sm:pl-6 mb-4 sm:mb-6 space-y-2;
   }
 
   .prose-blog li {
-    @apply text-lg leading-[1.8] text-zinc-700 dark:text-cream/80;
+    @apply text-base sm:text-lg leading-[1.8] text-zinc-700 dark:text-cream/80;
   }
 
   .prose-blog hr {
-    @apply my-10 border-zinc-200 dark:border-zinc-800;
+    @apply my-7 sm:my-10 border-zinc-200 dark:border-zinc-800;
   }
 
   .prose-blog strong {
@@ -196,7 +196,7 @@
     direction: rtl;
     text-align: right;
     font-family: var(--font-amiri);
-    @apply text-2xl leading-[2.2];
+    @apply text-xl sm:text-2xl leading-[2.0] sm:leading-[2.2];
     word-break: break-word;
     overflow-wrap: anywhere;
     white-space: normal;
@@ -213,7 +213,7 @@
 
   /* Pre/code blocks with Arabic text — must wrap */
   .prose-blog pre {
-    @apply bg-zinc-100 dark:bg-zinc-800/50 rounded-xl p-6 sm:p-8 my-8 border border-zinc-200 dark:border-zinc-800;
+    @apply bg-zinc-100 dark:bg-zinc-800/50 rounded-xl p-4 sm:p-8 my-6 sm:my-8 border border-zinc-200 dark:border-zinc-800;
     white-space: pre-wrap;
     word-wrap: break-word;
     overflow-wrap: anywhere;
@@ -231,6 +231,66 @@
     overflow-wrap: anywhere;
     font-family: 'Amiri', 'Vazirmatn', serif;
     color: inherit;
+  }
+
+  /* [PAUSE] reflection divider */
+  .prose-blog .pause-divider {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    margin: 1.75rem 0;
+    overflow: hidden;
+  }
+
+  .prose-blog .pause-divider::before,
+  .prose-blog .pause-divider::after {
+    content: '';
+    flex: 1;
+    height: 1px;
+    background: linear-gradient(to right, transparent, rgba(201, 168, 76, 0.2), transparent);
+  }
+
+  .prose-blog .pause-divider > span {
+    color: rgba(201, 168, 76, 0.35);
+    font-size: 0.65rem;
+    letter-spacing: 0.3em;
+    font-family: var(--font-sans);
+    flex-shrink: 0;
+  }
+
+  /* One-Sentence Distillation highlight box */
+  .prose-blog .distillation-box {
+    position: relative;
+    margin: 1.25rem 0 1.75rem;
+    padding: 1.125rem 1.125rem 1.125rem 1.375rem;
+    background: rgba(201, 168, 76, 0.05);
+    border: 1px solid rgba(201, 168, 76, 0.18);
+    border-left: 3px solid rgba(201, 168, 76, 0.45);
+    border-radius: 0.75rem;
+  }
+
+  .prose-blog .distillation-box::before {
+    content: 'One thing to remember';
+    display: block;
+    font-size: 0.6rem;
+    font-weight: 600;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: rgba(201, 168, 76, 0.55);
+    font-family: var(--font-sans);
+    margin-bottom: 0.5rem;
+  }
+
+  .prose-blog .distillation-box p {
+    margin-bottom: 0 !important;
+    font-size: 0.9375rem;
+    line-height: 1.75;
+    color: rgba(245, 240, 232, 0.85);
+  }
+
+  .prose-blog .distillation-box strong {
+    color: rgba(245, 240, 232, 0.92);
+    font-weight: 600;
   }
 
   /* Gold gradient text */

@@ -1,6 +1,6 @@
 'use client'
 
-import { useEffect, useRef, useState, useCallback } from 'react'
+import { useEffect, useRef, useState, useCallback, useMemo } from 'react'
 
 interface AyahGrounding {
   surah_number: number
@@ -45,9 +45,23 @@ function findGrounding(
   }) || null
 }
 
+function processHtml(raw: string): string {
+  let html = raw
+  html = html.replace(
+    /<p>\s*\[PAUSE\]\s*<\/p>/gi,
+    '<div class="pause-divider" aria-hidden="true"><span>· · ·</span></div>'
+  )
+  html = html.replace(
+    /<h3[^>]*>\s*One-Sentence Distillation\s*<\/h3>\s*(<p>[\s\S]*?<\/p>)/i,
+    '<div class="distillation-box">$1</div>'
+  )
+  return html
+}
+
 export function ArticleContent({ html, ayahGroundings }: ArticleContentProps) {
   const contentRef = useRef<HTMLDivElement>(null)
   const [expandedRefs, setExpandedRefs] = useState<Set<string>>(new Set())
+  const processedHtml = useMemo(() => processHtml(html), [html])
 
   const toggleRef = useCallback((refKey: string) => {
     setExpandedRefs((prev) => {
@@ -138,7 +152,7 @@ export function ArticleContent({ html, ayahGroundings }: ArticleContentProps) {
       <div
         ref={contentRef}
         className="prose-blog"
-        dangerouslySetInnerHTML={{ __html: html }}
+        dangerouslySetInnerHTML={{ __html: processedHtml }}
       />
       <style jsx global>{`
         /* ── Reset blockquote inheritance ────────────────── */
