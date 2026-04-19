@@ -12,7 +12,8 @@ word_count: 1488
 estimated_duration: "45-55 minutes"
 passage_context: "After warning against false consumption, destruction, and Fire in 4:29-30, the surah immediately opens hope. This verse does not erase moral seriousness; it teaches that avoiding the great forbidden matters becomes a doorway through which Allah covers lesser faults and ushers the servant into an honored entrance."
 generated_by: "codex-tadabbur"
-validated: false
+validated: true
+validation_date: "2026-04-18"
 tags: [kabair, tawbah, maghfirah, akhirah, hope]
 concepts: [taqwa, tawbah, akhirah, raja, nafs]
 ---

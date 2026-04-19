@@ -12,7 +12,8 @@ word_count: 1922
 estimated_duration: "40-50 minutes"
 passage_context: "After Al-Ma'idah moves through covenant, law, purity, sacred food, witness, false attribution to Isa, and the Last Day declaration that truthfulness finally benefits the truthful, the surah closes by gathering every scattered matter back into one absolute reality: the dominion of the heavens, the earth, and all that is in them belongs entirely to Allah, and His power over all things is complete."
 generated_by: "codex-tadabbur"
-validated: false
+validated: true
+validation_date: "2026-04-18"
 tags: [mulk, qudrah, tawhid, akhirah, isa]
 concepts: [tawhid, creation, tawakkul, akhirah, signs-of-allah]
 ---

@@ -12,7 +12,8 @@ word_count: null
 estimated_duration: "45-55 minutes"
 passage_context: "After warning believers to expect trial and hurtful speech, Surah Aal-Imran goes deeper into one source of religious corruption: those entrusted with revelation were bound to clarify it publicly, but some concealed it and traded that trust for petty worldly gain."
 generated_by: "codex-tadabbur"
-validated: false
+validated: true
+validation_date: "2026-04-18"
 tags: [ahl-al-kitab, quran, sidq]
 concepts: [covenant, quran, hidayah, ahl-al-kitab, law-and-ethics]
 ---

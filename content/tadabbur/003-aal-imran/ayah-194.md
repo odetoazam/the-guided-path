@@ -12,7 +12,8 @@ word_count: null
 estimated_duration: "45-55 minutes"
 passage_context: "The closing du'a of Surah Aal-Imran now reaches its final tenderness: after remembering the call to faith, asking forgiveness, and begging to be taken with the righteous, the believers ask Allah for the fulfillment of what He promised through the messengers and cling to His unbroken promise on the Day of Resurrection."
 generated_by: "codex-tadabbur"
-validated: false
+validated: true
+validation_date: "2026-04-18"
 tags: [akhirah, rasul, waad]
 concepts: [prophethood, akhirah, resurrection, raja, tawakkul]
 ---

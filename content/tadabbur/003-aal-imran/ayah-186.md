@@ -6,13 +6,14 @@ ayah_end: 186
 title: "The Test You Are Told to Expect"
 slug: "003-186"
 category: tadabbur
-arabic: "۞ لَتُبْلَوُنَّ فِىٓ أَمْوَٰلِكُمْ وَأَنفُسِكُمْ وَلَتَسْمَعُنَّ مِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ مِن قَبْلِكُمْ وَمِنَ ٱلَّذِينَ أَشْرَكُوٓا۟ أَذًى كَثِيرًا ۚ وَإِن تَصْبِرُوا۟ وَتَتَّقُوا۟ فَإِنَّ ذَٰلِكَ مِنْ عَزْمِ ٱلْأُمُورِ"
+arabic: "۞ ۞ ۞ لَتُبْلَوُنَّ فِىٓ أَمْوَٰلِكُمْ وَأَنفُسِكُمْ وَلَتَسْمَعُنَّ مِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ مِن قَبْلِكُمْ وَمِنَ ٱلَّذِينَ أَشْرَكُوٓا۟ أَذًى كَثِيرًا ۚ وَإِن تَصْبِرُوا۟ وَتَتَّقُوا۟ فَإِنَّ ذَٰلِكَ مِنْ عَزْمِ ٱلْأُمُورِ"
 translation: "You will certainly be tested in your wealth and yourselves, and you will surely hear much hurt from those who were given the Scripture before you and from those who associated others with Allah. But if you are patient and remain conscious of Allah, then that is truly of the matters requiring resolve."
 word_count: null
 estimated_duration: "45-55 minutes"
 passage_context: "After reminding the believers that worldly life is deceptive and final success belongs only to the Hereafter, Surah Aal-Imran turns back to the road between here and there: believers should expect trials in what they own, in themselves, and in what they must endure from others, and meet all of it with sabr and taqwa."
 generated_by: "codex-tadabbur"
-validated: false
+validated: true
+validation_date: "2026-04-18"
 tags: [sabr, taqwa, ahl-al-kitab]
 concepts: [divine-testing, sabr, taqwa, ahl-al-kitab]
 ---

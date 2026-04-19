@@ -12,7 +12,8 @@ word_count: 2193
 estimated_duration: "40-50 minutes"
 passage_context: "After exposing diseased hearts that rush toward fearful alliances and after declaring that true wilayah belongs to Allah, His Messenger, and the believers, Al-Ma'idah seals the thread with a decisive redefinition of victory itself. The ayah does not merely tell us whom to join; it tells us what winning actually is."
 generated_by: "codex-tadabbur"
-validated: false
+validated: true
+validation_date: "2026-04-18"
 tags: [wilayah, hizb-allah, allegiance, victory, trust]
 concepts: [iman, tawakkul, ummah, taqwa, akhirah]
 ---

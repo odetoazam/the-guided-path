@@ -12,7 +12,8 @@ word_count: null
 estimated_duration: "45-55 minutes"
 passage_context: "After warning believers not to be deceived by the worldly circulation of the disbelievers, Surah Aal-Imran turns immediately to the real alternative: what is with Allah for those who have taqwa is lasting, hospitable, and immeasurably better than every brief enjoyment that dazzled in the dunya."
 generated_by: "codex-tadabbur"
-validated: false
+validated: true
+validation_date: "2026-04-18"
 tags: [taqwa, jannah, akhirah, abrar]
 concepts: [taqwa, jannah, akhirah, ihsan, khashyah]
 ---

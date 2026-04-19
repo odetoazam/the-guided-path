@@ -12,7 +12,8 @@ word_count: null
 estimated_duration: "45-55 minutes"
 passage_context: "After 3:97 described the House, its clear signs, and the obligation of hajj, the discourse turns back toward some of the People of the Book who resisted what they recognized. The ayah is not merely informational; it is confrontational in the best Quranic sense. It asks why they commit kufr toward Allah's signs and immediately places that rejection under divine witness."
 generated_by: "codex-tadabbur"
-validated: false
+validated: true
+validation_date: "2026-04-18"
 tags: []
 concepts: [signs-of-allah, ahl-al-kitab, iman, ihsan, accountability]
 ---

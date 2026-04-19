@@ -12,7 +12,8 @@ word_count: 1710
 estimated_duration: "45-55 minutes"
 passage_context: "After 4:15 addressed grave public indecency with witness and confinement, this next ayah turns to 'the two among you who commit it' and then immediately introduces the principle that will keep this surah's moral vision from becoming cruel: once repentance and reform appear, punishment may not be turned into a permanent identity."
 generated_by: "codex-tadabbur"
-validated: false
+validated: true
+validation_date: "2026-04-18"
 tags: [tawbah, islah, rahmah]
 concepts: [tawbah, nafs, law-and-ethics, ummah, ihsan]
 ---

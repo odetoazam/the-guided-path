@@ -12,7 +12,8 @@ word_count: null
 estimated_duration: "45-55 minutes"
 passage_context: "After repeatedly exposing distortions, concealment, vanity, and betrayal among some People of the Book, Surah Aal-Imran closes with moral precision: there are also those among them who believe humbly, honor revelation rather than selling it cheaply, and are promised reward with their Lord."
 generated_by: "codex-tadabbur"
-validated: false
+validated: true
+validation_date: "2026-04-18"
 tags: [ahl-al-kitab, iman, khushu, sidq]
 concepts: [ahl-al-kitab, iman, hidayah, quran, khashyah]
 ---

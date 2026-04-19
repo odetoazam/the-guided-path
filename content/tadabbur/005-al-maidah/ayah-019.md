@@ -12,7 +12,8 @@ word_count: 2412
 estimated_duration: "45-55 minutes"
 passage_context: "After Al-Ma'idah has exposed concealed revelation, denied false claims of guaranteed favor, and presented the Prophet as clarifier and mercy, this ayah closes another door of evasion. The messenger's arrival after a long gap means the People of the Book can no longer appeal to distance, interruption, or inherited religious fatigue; the clarifying address has come, and with it both hope and warning."
 generated_by: "codex-tadabbur"
-validated: false
+validated: true
+validation_date: "2026-04-18"
 tags: [fatrah, messenger, excuse, warning, good-news]
 concepts: [prophethood, hidayah, ahl-al-kitab, akhirah, dawah]
 ---

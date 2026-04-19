@@ -12,7 +12,8 @@ word_count: null
 estimated_duration: "45-55 minutes"
 passage_context: "After exposing arrogant speech and reminding them that punishment is for what their own hands sent ahead, Surah Aal-Imran now unmasks another layer of the same refusal: turning selective religious criteria into a shield against the messengers themselves."
 generated_by: "codex-tadabbur"
-validated: false
+validated: true
+validation_date: "2026-04-18"
 tags: [bani-israil, anbiya, sidq]
 concepts: [iman, covenant, prophetic-stories, hidayah, ahl-al-kitab]
 ---

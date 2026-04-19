@@ -12,7 +12,8 @@ word_count: null
 estimated_duration: "45-55 minutes"
 passage_context: "After declaring that creation is not meaningless and pleading for protection from the Fire, the prayer in Surah Aal-Imran sharpens: entry into the Fire is named as utter disgrace, and zulm is revealed as a condition that leaves a person without any rescuing ally."
 generated_by: "codex-tadabbur"
-validated: false
+validated: true
+validation_date: "2026-04-18"
 tags: [jahannam, zulm, akhirah]
 concepts: [jahannam, accountability, akhirah, tawbah, nafs]
 ---

@@ -12,7 +12,8 @@ word_count: 1943
 estimated_duration: "45-55 minutes"
 passage_context: "After commanding the Messenger to act without letting others' hesitation paralyze him and to stir the believers onward, the surah names another layer of responsibility. We are not only accountable for what we do directly, but also for what we help set in motion through endorsement, mediation, and support."
 generated_by: "codex-tadabbur"
-validated: false
+validated: true
+validation_date: "2026-04-18"
 tags: [shafaa, responsibility, speech, accountability, ethics]
 concepts: [accountability, law-and-ethics, social-justice, akhirah, dawah]
 ---

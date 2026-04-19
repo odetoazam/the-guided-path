@@ -12,7 +12,8 @@ word_count: null
 estimated_duration: "45-55 minutes"
 passage_context: "In this stretch of Surah Aal-Imran, the Quran is exposing false claims made by some of the People of the Book, especially around Ibrahim and inherited religious legitimacy. This ayah narrows to one concrete dispute about dietary restriction and answers it by distinguishing between what revelation actually imposed and what a prophet forbade upon himself before the Torah, then demanding the text itself be brought forward."
 generated_by: "codex-tadabbur"
-validated: false
+validated: true
+validation_date: "2026-04-18"
 tags: [bani-israil, sidq]
 concepts: [ahl-al-kitab, quran, hidayah, law-and-ethics]
 ---

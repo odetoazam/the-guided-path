@@ -12,7 +12,8 @@ word_count: 2291
 estimated_duration: "45-55 minutes"
 passage_context: "After 5:87-88 corrected self-made restriction and taught believers to receive provision with halal discernment and taqwa, Al-Ma'idah turns to another everyday moral threshold: speech. The surah distinguishes careless oath-language from deliberately bound oaths, then gives a path of repair that protects both the gravity of words and the mercy of return."
 generated_by: "codex-tadabbur"
-validated: false
+validated: true
+validation_date: "2026-04-18"
 tags: [oaths, speech, kaffarah, taqwa, shukr]
 concepts: [taqwa, shukr, law-and-ethics, accountability, tawbah]
 ---

@@ -12,7 +12,8 @@ word_count: null
 estimated_duration: "45-55 minutes"
 passage_context: "After re-establishing Allah's total dominion over the heavens and the earth, Surah Aal-Imran now invites the believer to contemplate that dominion as sign-filled creation: the cosmos is not mute, and those with living inner core are meant to read it."
 generated_by: "codex-tadabbur"
-validated: false
+validated: true
+validation_date: "2026-04-18"
 tags: [quran, tafakkur, ayat]
 concepts: [signs-of-allah, aql, creation, nature, tawhid]
 ---

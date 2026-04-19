@@ -12,7 +12,8 @@ word_count: null
 estimated_duration: "45-55 minutes"
 passage_context: "Immediately after the exposure and warning of 3:181, this ayah closes the moral argument by naming the punishment as self-sent consequence and reaffirming that Allah's judgment never wrongs His servants."
 generated_by: "codex-tadabbur"
-validated: false
+validated: true
+validation_date: "2026-04-18"
 tags: [zulm, akhirah, bani-israil]
 concepts: [accountability, akhirah, tawbah, nafs]
 ---

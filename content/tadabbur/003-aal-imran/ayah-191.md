@@ -12,7 +12,8 @@ word_count: null
 estimated_duration: "45-55 minutes"
 passage_context: "After describing the heavens, earth, night, and day as signs for people of inner core, Surah Aal-Imran now shows what those people are like: they live in dhikr across ordinary bodily states, think deeply about creation, and let reflection turn immediately into du'a, tanzih, and fear of the Fire."
 generated_by: "codex-tadabbur"
-validated: false
+validated: true
+validation_date: "2026-04-18"
 tags: [dhikr, tafakkur, akhirah, jahannam]
 concepts: [dhikr, ibadah, creation, jahannam, dua]
 ---

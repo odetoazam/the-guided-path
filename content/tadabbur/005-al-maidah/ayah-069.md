@@ -12,7 +12,8 @@ word_count: 1686
 estimated_duration: "40-50 minutes"
 passage_context: "Right after 5:68 declared that inherited scriptural identity means nothing unless revelation is actually upheld, Al-Ma'idah gives a clarifying principle. Safety with Allah is not secured by communal label alone, but by real faith in Allah, faith in the Last Day, and righteous action."
 generated_by: "codex-tadabbur"
-validated: false
+validated: true
+validation_date: "2026-04-18"
 tags: [iman, akhirah, righteous-action, labels, salvation]
 concepts: [iman, akhirah, accountability, ahl-al-kitab, hidayah]
 ---

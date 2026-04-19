@@ -6,13 +6,14 @@ ayah_end: 32
 title: "The Weight of One"
 slug: "005-032"
 category: tadabbur
-arabic: "مِنْ أَجْلِ ذَٰلِكَ كَتَبْنَا عَلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ أَنَّهُۥ مَن قَتَلَ نَفْسًۢا بِغَيْرِ نَفْسٍ أَوْ فَسَادٍ فِى ٱلْأَرْضِ فَكَأَنَّمَا قَتَلَ ٱلنَّاسَ جَمِيعًا وَمَنْ أَحْيَاهَا فَكَأَنَّمَا أَحْيَا ٱلنَّاسَ جَمِيعًا ۚ وَلَقَدْ جَآءَتْهُمْ رُسُلُنَا بِٱلْبَيِّنَـٰتِ ثُمَّ إِنَّ كَثِيرًا مِّنْهُم بَعْدَ ذَٰلِكَ فِى ٱلْأَرْضِ لَمُسْرِفُونَ"
+arabic: "مِنْ أَجْلِ ذَٰلِكَ كَتَبْنَا عَلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ أَنَّهُۥ مَن قَتَلَ نَفْسًۢا بِغَيْرِ نَفْسٍ أَوْ فَسَادٍ فِى ٱلْأَرْضِ فَكَأَنَّمَا قَتَلَ ٱلنَّاسَ جَمِيعًا وَمَنْ أَحْيَاهَا فَكَأَنَّمَآ أَحْيَا ٱلنَّاسَ جَمِيعًا ۚ وَلَقَدْ جَآءَتْهُمْ رُسُلُنَا بِٱلْبَيِّنَـٰتِ ثُمَّ إِنَّ كَثِيرًا مِّنْهُم بَعْدَ ذَٰلِكَ فِى ٱلْأَرْضِ لَمُسْرِفُونَ"
 translation: "Because of that, We decreed upon the Children of Israel that whoever kills a soul — unless for a soul or for corruption in the land — it is as if he had killed all mankind. And whoever saves one, it is as if he had saved all mankind. And Our messengers had certainly come to them with clear proofs. Then indeed many of them, even after that, throughout the land, were transgressors."
 word_count: 6240
 estimated_duration: "50-60 minutes"
 passage_context: "This ayah arrives immediately after the Cain and Abel narrative (5:27-31) — the first murder in human history. The younger brother refused to fight back, the earth swallowed the blood, the crow showed the killer how to bury what he had done. And then, in the silence after the first death, Allah speaks — not to grieve, but to legislate. The legislative response to humanity's first murder becomes the most sweeping statement about the value of a single human life ever committed to scripture."
 generated_by: "opus-tadabbur"
-validated: false
+validated: true
+validation_date: "2026-04-18"
 tags: [sanctity-of-life, qatl, ihya, bani-israel, fasad, human-dignity]
 concepts: [sanctity-of-life, human-dignity, bystander-responsibility, divine-decree, israf]
 ---
@@ -54,9 +55,11 @@ And into that silence, Allah doesn't weep. He doesn't eulogize. He **legislates*
 
 **مِنْ أَجْلِ ذَٰلِكَ كَتَبْنَا** — *Because of that, We decreed.* The first word of the ayah — مِنْ أَجْلِ, "because of" — draws a direct causal line from the first murder to a permanent divine law. What happens next is not a reaction. It is a response so comprehensive that it would echo through every generation that followed.
 
-**And what He decreed is the most radical claim about human value ever articulated: that a single soul and all of humanity weigh the same.**
+**And what He decreed is among the most far-reaching claims about human value in scripture: that a single soul and all of humanity weigh the same.**
 
 [PAUSE]
+
+A note on the framing — *"We decreed upon the Children of Israel"*: classical commentators are unanimous that this opening does not limit the moral principle to Bani Isrāʾīl. The decree was given to them; the principle binds humanity. Three reasons: (1) the underlying logic — the equation of one soul to all of humanity — is grounded in human nature itself, not in a covenant peculiar to one community; (2) the Prophet ﷺ never abrogated it, and the Sunnah is replete with affirmations of the sanctity of life; (3) subsequent Quranic ayahs reissue the prohibition directly to the Muslim community (6:151, 17:33, 25:68). Al-Ṭabarī notes the rhetorical purpose of naming Bani Isrāʾīl here: it sets up the *thumma kathīran minhum la-musrifūn* coda — they were told this, and they violated it anyway. The warning is for anyone who hears it.
 
 ---
 

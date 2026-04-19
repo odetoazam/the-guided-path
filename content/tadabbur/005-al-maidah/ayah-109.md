@@ -12,7 +12,8 @@ word_count: 2157
 estimated_duration: "40-50 minutes"
 passage_context: "After Al-Ma'idah closes the testimony passage with warning, taqwa, and the danger of fisq, the surah suddenly opens the horizon of the Last Day. The legal-moral world of witnesses and oaths gives way to the gathering of all messengers, where even those who carried revelation back through history answer with radical humility and return all hidden knowledge of human response to Allah alone."
 generated_by: "codex-tadabbur"
-validated: false
+validated: true
+validation_date: "2026-04-18"
 tags: [akhirah, risalah, knowledge, ghayb, humility]
 concepts: [akhirah, prophethood, resurrection, accountability, prophetic-stories]
 ---

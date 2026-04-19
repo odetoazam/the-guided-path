@@ -12,7 +12,8 @@ word_count: null
 estimated_duration: "45-55 minutes"
 passage_context: "After warning that withheld wealth will become a burden on the Day of Resurrection, this late section of Surah Aal-Imran exposes the diseased logic beneath such withholding: a soul can become so arrogant before divine command that it dares to speak as though Allah is the needy One and human beings are self-sufficient."
 generated_by: "codex-tadabbur"
-validated: false
+validated: true
+validation_date: "2026-04-18"
 tags: [bani-israil, anbiya, kibr]
 concepts: [tawhid, nafs, shukr, accountability, akhirah]
 ---

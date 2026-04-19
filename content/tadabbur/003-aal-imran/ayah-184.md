@@ -12,7 +12,8 @@ word_count: null
 estimated_duration: "45-55 minutes"
 passage_context: "After exposing the insincerity of those who kept inventing conditions for belief, Surah Aal-Imran turns to console the Prophet: this rejection is painful, but it is not new, and the messengers before him were denied even while carrying overwhelming clarity."
 generated_by: "codex-tadabbur"
-validated: false
+validated: true
+validation_date: "2026-04-18"
 tags: [rasul, anbiya, quran]
 concepts: [prophethood, prophetic-stories, hidayah, sabr]
 ---

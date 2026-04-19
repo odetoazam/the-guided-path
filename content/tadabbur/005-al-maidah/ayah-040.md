@@ -12,7 +12,8 @@ word_count: 1813
 estimated_duration: "40-50 minutes"
 passage_context: "After Al-Ma'idah has laid down legal consequence for theft and then immediately reopened the way of repentance and divine turning, this ayah steps back and reveals the foundation beneath both. Punishment and forgiveness are not competing accidents of the moral order; both belong to the Lord whose dominion spans the heavens and the earth."
 generated_by: "codex-tadabbur"
-validated: false
+validated: true
+validation_date: "2026-04-18"
 tags: [mulk, forgiveness, punishment, sovereignty, qadr]
 concepts: [tawhid, tawbah, accountability, raja, khashyah]
 ---

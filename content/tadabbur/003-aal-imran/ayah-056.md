@@ -8,7 +8,8 @@ slug: "003-056"
 category: tadabbur
 tags: [kufr, 'adhab, dunya, akhirah, nasr]
 concepts: [akhirah, accountability, iman, jahannam]
-validated: false
+validated: true
+validation_date: "2026-04-18"
 ---
 
 [ayah:3:56] فَأَمَّا ٱلَّذِينَ كَفَرُوا۟ فَأُعَذِّبُهُمْ عَذَابًا شَدِيدًا فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ وَمَا لَهُم مِّن نَّـٰصِرِينَ

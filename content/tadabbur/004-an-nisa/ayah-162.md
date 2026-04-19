@@ -12,7 +12,8 @@ word_count: 1869
 estimated_duration: "45-55 minutes"
 passage_context: "After a sustained indictment of breach, slander, boast, economic corruption, and obstruction among Bani Isra'il, this ayah refuses collective flattening. The surah pauses to honor the exception: those deeply rooted in knowledge and sincere belief, whose creed, worship, charity, and akhirah-consciousness keep them from being swept into the same verdict."
 generated_by: "codex-tadabbur"
-validated: false
+validated: true
+validation_date: "2026-04-18"
 tags: [knowledge, salah, zakah, iman, exception]
 concepts: [iman, ibadah, akhirah, hidayah, quran]
 ---

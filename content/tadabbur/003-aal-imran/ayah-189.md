@@ -12,7 +12,8 @@ word_count: null
 estimated_duration: "45-55 minutes"
 passage_context: "After exposing people who craved praise for what they had not done and warning that such image-management is no refuge from punishment, Surah Aal-Imran resets the scale completely: all dominion already belongs to Allah, and His power encompasses every thing."
 generated_by: "codex-tadabbur"
-validated: false
+validated: true
+validation_date: "2026-04-18"
 tags: [mulk, qadar, akhirah]
 concepts: [tawhid, signs-of-allah, creation, tawakkul]
 ---

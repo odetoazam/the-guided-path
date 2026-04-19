@@ -12,7 +12,8 @@ word_count: 1790
 estimated_duration: "45-55 minutes"
 passage_context: "After naming the moral consequence of what we help set in motion, the surah turns to a seemingly smaller act that actually reveals the texture of a believing society. Even the exchange of greetings is brought under ihsan, reciprocity, and divine reckoning."
 generated_by: "codex-tadabbur"
-validated: false
+validated: true
+validation_date: "2026-04-18"
 tags: [tahiyyah, ihsan, adab, community, hisab]
 concepts: [ihsan, ummah, accountability, ibadah, taqwa]
 ---

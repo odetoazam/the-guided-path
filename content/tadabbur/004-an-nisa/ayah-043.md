@@ -12,7 +12,8 @@ word_count: 1465
 estimated_duration: "45-55 minutes"
 passage_context: "After a run of verses exposing distorted desire, false hopes, and unreliable moral judgment, the surah turns to worship itself and teaches that salah cannot be entered carelessly. This ayah binds reverence and mercy together: prayer requires awareness, yet Allah also opens a path of access for illness, travel, and lack of water."
 generated_by: "codex-tadabbur"
-validated: false
+validated: true
+validation_date: "2026-04-18"
 tags: [salah, taharah, tayammum, rahmah, adab]
 concepts: [ibadah, taqwa, law-and-ethics, ihsan, signs-of-allah]
 ---

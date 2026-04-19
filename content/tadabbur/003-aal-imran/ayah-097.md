@@ -12,7 +12,8 @@ word_count: null
 estimated_duration: "45-55 minutes"
 passage_context: "After 3:96 names the first House established for mankind at Bakkah as blessed and guidance for the worlds, this ayah unfolds what that means: the House contains clear signs, carries the trace of Ibrahim, confers security, and places on people the obligation of pilgrimage according to ability. The verse then closes by correcting the heart's posture: this obligation does not enrich Allah, because He is utterly free of need from all worlds."
 generated_by: "codex-tadabbur"
-validated: false
+validated: true
+validation_date: "2026-04-18"
 tags: [ibrahim]
 concepts: [ibadah, signs-of-allah, prophetic-stories, tawhid]
 ---

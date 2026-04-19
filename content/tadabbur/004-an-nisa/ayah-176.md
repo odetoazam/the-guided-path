@@ -12,7 +12,8 @@ word_count: 2140
 estimated_duration: "45-55 minutes"
 passage_context: "Surah An-Nisa closes by returning to family law after long passages on hypocrisy, revelation, prophetic truth, and the correction of theological excess. The ending itself is instructive: after all the surah's moral and doctrinal clarifications, Allah concludes with an inheritance ruling, teaching us that guidance must descend into the most painful and practical moments of family life."
 generated_by: "codex-tadabbur"
-validated: false
+validated: true
+validation_date: "2026-04-18"
 tags: [fatwa, inheritance, family, clarity, guidance]
 concepts: [family, law-and-ethics, hidayah, taqwa, rizq]
 ---

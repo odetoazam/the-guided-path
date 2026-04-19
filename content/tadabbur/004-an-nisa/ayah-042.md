@@ -12,7 +12,8 @@ word_count: 1452
 estimated_duration: "45-55 minutes"
 passage_context: "Immediately after 4:41 evokes the scene of every nation brought with its witness and the Messenger brought as witness over his people, this ayah shows the interior consequence of that exposure. Once witness stands and truth is unveiled, some people do not wish for argument, excuse, or delay - they wish for disappearance."
 generated_by: "codex-tadabbur"
-validated: false
+validated: true
+validation_date: "2026-04-18"
 tags: [akhirah, shahadah, regret, rasul, truth]
 concepts: [akhirah, accountability, prophethood, resurrection, iman]
 ---

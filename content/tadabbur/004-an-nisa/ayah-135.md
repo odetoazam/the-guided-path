@@ -6,13 +6,14 @@ ayah_end: 135
 title: "Against Yourself First — The Stand No One Wants to Take"
 slug: "004-135"
 category: tadabbur
-arabic: "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوا۟ قَوَّٰمِينَ بِٱلْقِسْطِ شُهَدَآءَ لِلَّهِ وَلَوْ عَلَىٰٓ أَنفُسِكُمْ أَوِ ٱلْوَٰلِدَيْنِ وَٱلْأَقْرَبِينَ ۚ إِن يَكُنْ غَنِيًّا أَوْ فَقِيرًا فَٱللَّهُ أَوْلَىٰ بِهِمَا ۖ فَلَا تَتَّبِعُوا۟ ٱلْهَوَىٰ أَن تَعْدِلُوا۟ ۚ وَإِن تَلْوُۥٓا۟ أَوْ تُعْرِضُوا۟ فَإِنَّ ٱللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًا"
+arabic: "۞ يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوا۟ قَوَّٰمِينَ بِٱلْقِسْطِ شُهَدَآءَ لِلَّهِ وَلَوْ عَلَىٰٓ أَنفُسِكُمْ أَوِ ٱلْوَٰلِدَيْنِ وَٱلْأَقْرَبِينَ ۚ إِن يَكُنْ غَنِيًّا أَوْ فَقِيرًا فَٱللَّهُ أَوْلَىٰ بِهِمَا ۖ فَلَا تَتَّبِعُوا۟ ٱلْهَوَىٰٓ أَن تَعْدِلُوا۟ ۚ وَإِن تَلْوُۥٓا۟ أَوْ تُعْرِضُوا۟ فَإِنَّ ٱللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًا"
 translation: "O you who have believed, be persistently standing firm for justice, witnesses for Allah, even if it be against yourselves, or your parents, or your relatives. Whether the person is rich or poor, Allah is more worthy of both. So do not follow desire, lest you not be just. And if you twist or turn away, then indeed Allah is ever, of what you do, All-Aware."
 word_count: 2650
 estimated_duration: "48-58 minutes"
 passage_context: "After four ayahs resetting the heart through declarations of divine ownership and universal taqwa (131-134), the surah issues its summit command on justice. This ayah is the culmination of An-Nisa's sustained argument about justice in human relationships — inheritance, marriage, orphans, guardianship — now demanding it not merely toward strangers but against the self, parents, and kin. It forms an architectural mirror with 5:8, where the same qawwāmīn command reappears with its objects deliberately reversed."
 generated_by: "opus-tadabbur"
-validated: false
+validated: true
+validation_date: "2026-04-18"
 tags: [justice, qist, self-accountability, bias, hawaa, qawwam, divine-names]
 concepts: [social-justice, nafs, taqwa, accountability, qalb]
 ---

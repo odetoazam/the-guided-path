@@ -12,7 +12,8 @@ word_count: 1547
 estimated_duration: "45-55 minutes"
 passage_context: "After setting marriage prohibitions in 4:22-24, the surah turns to a difficult social reality: not everyone has equal means, yet sexual ethics still matter, human dignity still matters, and legal concession must not become moral contempt. This ayah addresses constrained believers without letting economic vulnerability erase shared faith and shared humanity."
 generated_by: "codex-tadabbur"
-validated: false
+validated: true
+validation_date: "2026-04-18"
 tags: [nikah, iman, maruf, chastity, rahmah]
 concepts: [iman, family, law-and-ethics, sabr, social-justice]
 ---

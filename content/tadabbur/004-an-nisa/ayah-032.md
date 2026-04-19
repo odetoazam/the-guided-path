@@ -12,7 +12,8 @@ word_count: 1518
 estimated_duration: "45-55 minutes"
 passage_context: "After speaking about major sins, lawful wealth, and moral boundaries, the surah turns to one of the inner disorders that can poison communal life even before open injustice appears: coveting another person's allotted advantage. This verse redirects the heart from comparison toward earned portion and from envy toward du'a."
 generated_by: "codex-tadabbur"
-validated: false
+validated: true
+validation_date: "2026-04-18"
 tags: [qanaah, envy, rizq, dua, justice]
 concepts: [rizq, dua, nafs, tawhid, tawakkul]
 ---

@@ -12,7 +12,8 @@ word_count: 2427
 estimated_duration: "45-55 minutes"
 passage_context: "After opening Al-Maidah with a command to fulfill contracts, the surah immediately expands that ethic into the public moral order of the community. This ayah moves through sacred symbols, sacred time, pilgrimage traffic, post-ihram permission, the management of grievance, and the ethics of cooperation, showing that covenant fidelity must shape not only private promises but communal life under pressure."
 generated_by: "codex-tadabbur"
-validated: false
+validated: true
+validation_date: "2026-04-18"
 tags: [shaair, sacred-limits, grievance, cooperation, taqwa]
 concepts: [taqwa, ibadah, social-justice, ummah, law-and-ethics]
 ---

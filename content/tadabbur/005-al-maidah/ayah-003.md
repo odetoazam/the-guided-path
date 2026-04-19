@@ -12,7 +12,8 @@ word_count: 2390
 estimated_duration: "45-55 minutes"
 passage_context: "After the opening commands of Al-Maidah on contracts and the sanctity of public religious order, this verse deepens the surah's legislative and covenantal frame. Its placement is extraordinary: dietary prohibitions, the death of pagan ritual practices, the despair of the disbelievers, the perfection of the religion, and the mercy of necessity are all gathered into one unfolding statement."
 generated_by: "codex-tadabbur"
-validated: false
+validated: true
+validation_date: "2026-04-18"
 tags: [completion, halal-haram, fear, necessity, islam]
 concepts: [tawhid, quran, khashyah, law-and-ethics, iman]
 ---

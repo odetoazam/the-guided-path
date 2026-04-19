@@ -12,7 +12,8 @@ word_count: null
 estimated_duration: "45-55 minutes"
 passage_context: "After the believers' long closing prayer in Surah Aal-Imran - asking for forgiveness, righteous company, fulfillment of promise, and rescue from disgrace - this ayah comes as Allah's direct response: no sincere deed is wasted, and every costly act borne in His path is seen, cleansed, and recompensed."
 generated_by: "codex-tadabbur"
-validated: false
+validated: true
+validation_date: "2026-04-18"
 tags: [akhirah, hijrah, jihad, maghfirah, jannah]
 concepts: [jannah, accountability, divine-testing, sabr, akhirah]
 ---

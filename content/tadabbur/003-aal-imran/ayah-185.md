@@ -12,7 +12,8 @@ word_count: null
 estimated_duration: "45-55 minutes"
 passage_context: "After recounting denial, prophetic rejection, and the moral consequences of what people send ahead, this ayah widens the horizon completely: every soul is moving toward death, the real settling of accounts happens only on the Day of Resurrection, and worldly life must be re-read in light of that final criterion."
 generated_by: "codex-tadabbur"
-validated: false
+validated: true
+validation_date: "2026-04-18"
 tags: [akhirah, qiyamah, dunya, jannah, jahannam]
 concepts: [akhirah, resurrection, jannah, jahannam, time-and-urgency]
 ---

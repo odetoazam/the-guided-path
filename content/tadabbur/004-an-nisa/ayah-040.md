@@ -12,7 +12,8 @@ word_count: 1466
 estimated_duration: "45-55 minutes"
 passage_context: "After exposing miserliness, showy spending, and insincere relation to wealth in 4:37-39, the surah returns to first principles: Allah's justice is exact beyond imagination, and His generosity exceeds what justice alone would require. This verse steadies the believer between two certainties - that nothing is lost with Allah, and that sincere good is multiplied beyond its original size."
 generated_by: "codex-tadabbur"
-validated: false
+validated: true
+validation_date: "2026-04-18"
 tags: [justice, hasanah, reward, akhirah, rahmah]
 concepts: [accountability, akhirah, ihsan, tawhid, raja]
 ---

@@ -12,7 +12,8 @@ word_count: 2469
 estimated_duration: "45-55 minutes"
 passage_context: "After exposing concealed scripture and announcing that Allah's light and clarifying Book have come, Al-Ma'idah now answers another distortion at its root: the claim of guaranteed divine favor through identity alone. The verse dismantles spiritual exceptionalism, returning Jews and Christians alike to the shared human condition of creaturehood, accountability, and final return before Allah's sovereign judgment."
 generated_by: "codex-tadabbur"
-validated: false
+validated: true
+validation_date: "2026-04-18"
 tags: [accountability, chosen-status, human-condition, divine-love, return]
 concepts: [tawhid, accountability, akhirah, ahl-al-kitab, tawbah]
 ---

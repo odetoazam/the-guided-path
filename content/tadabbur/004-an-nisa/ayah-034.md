@@ -6,7 +6,7 @@ ayah_end: 34
 slug: "004-034"
 category: tadabbur
 title: "The Weight You Were Given — What Qawwāmūn Actually Demands"
-arabic: "ٱلرِّجَالُ قَوَّٰمُونَ عَلَى ٱلنِّسَآءِ بِمَا فَضَّلَ ٱللَّهُ بَعْضَهُمْ عَلَىٰ بَعْضٍ وَبِمَآ أَنفَقُوا۟ مِنْ أَمْوَٰلِهِمْ ۚ فَٱلصَّـٰلِحَـٰتُ قَـٰنِتَـٰتٌ حَـٰفِظَـٰتٌ لِّلْغَيْبِ بِمَا حَفِظَ ٱللَّهُ ۚ وَٱلَّـٰتِى تَخَافُونَ نُشُوزَهُنَّ فَعِظُوهُنَّ وَٱهْجُرُوهُنَّ فِى ٱلْمَضَاجِعِ وَٱضْرِبُوهُنَّ ۖ فَإِنْ أَطَعْنَكُمْ فَلَا تَبْغُوا۟ عَلَيْهِنَّ سَبِيلًا ۗ إِنَّ ٱللَّهَ كَانَ عَلِيًّا كَبِيرًا"
+arabic: "ٱلرِّجَالُ قَوَّٰمُونَ عَلَى ٱلنِّسَآءِ بِمَا فَضَّلَ ٱللَّهُ بَعْضَهُمْ عَلَىٰ بَعْضٍ وَبِمَآ أَنفَقُوا۟ مِنْ أَمْوَٰلِهِمْ ۚ فَٱلصَّـٰلِحَـٰتُ قَـٰنِتَـٰتٌ حَـٰفِظَـٰتٌ لِّلْغَيْبِ بِمَا حَفِظَ ٱللَّهُ ۚ وَٱلَّـٰتِى تَخَافُونَ نُشُوزَهُنَّ فَعِظُوهُنَّ وَٱهْجُرُوهُنَّ فِى ٱلْمَضَاجِعِ وَٱضْرِبُوهُنَّ ۖ فَإِنْ أَطَعْنَكُمْ فَلَا تَبْغُوا۟ عَلَيْهِنَّ سَبِيلًا ۗ إِنَّ ٱللَّهَ كَانَ عَلِيًّا كَبِيرًا"
 translation: "Men are caretakers of women by what Allah has favoured some over others and by what they spend from their wealth. So righteous women are devoutly obedient, guarding in the husband's absence what Allah has guarded. As for those from whom you fear ill-conduct, advise them, forsake them in bed, and strike them. But if they obey you, seek no way against them. Indeed, Allah is Most High, Most Great."
 word_count: null
 estimated_duration: "55-65 minutes"
@@ -157,11 +157,11 @@ The second half of the ayah introduces the righteous women: *fa-al-ṣāliḥāt
 
 Three active participles in a row describe these women: *ṣāliḥāt* (righteous), *qānitāt* (devoutly obedient), *ḥāfiẓāt* (guarding). All three are *fā'ilah* — active participle feminine plural. These women are **agents**. They are doing these things. The grammar gives them full moral agency.
 
-But the object of their *qunūt* — their devout obedience — is left unspecified. In the Quran, *qunūt* is overwhelmingly used for obedience to **Allah**, not to human beings. When the Quran says *qānitīn* or *qānitāt*, it means those who stand before Allah in devoted worship (see 2:238, 3:17, 33:35, 39:9, 66:5). This is not a word for marital obedience. This is a word for **divine devotion**.
+But the object of their *qunūt* — their devout obedience — is left unspecified. In the Quran, *qunūt* is overwhelmingly used for obedience to **Allah** (see 2:238, 3:17, 33:35, 39:9, 66:5), where *qānitīn* and *qānitāt* name those who stand before Allah in devoted worship. Classical scholars differ on whether *qānitāt* here extends to the husband as well: al-Ṭabarī and Ibn Kathīr read it as obedience to Allah that includes the rights of the marital contract; others (Ibn 'Arabī, and several modern readers) hold the Quranic usage more strictly and restrict *qunūt* to its vertical sense. What both readings agree on is that the *primary* axis of *qunūt* in the Quran is **divine devotion** — whatever else it entails here, it is not reducible to marital submission.
 
 [PAUSE]
 
-And then the phrase that most translators flatten: *bimā ḥafiẓa Allāh*. "By what Allah has guarded."
+And then the phrase *bimā ḥafiẓa Allāh* — "by what Allah has guarded" — which the grammar leaves strikingly ambiguous.
 
 This phrase is grammatically stunning. The women are *ḥāfiẓāt* — guarding. But their guarding is *bimā ḥafiẓa Allāh* — by means of what Allah has guarded. The same root ح-ف-ظ appears twice in the same sentence, once for the women's action and once for Allah's action. The women guard. But Allah guarded first.
 
@@ -257,7 +257,7 @@ The people who cite this ayah to justify violence have read three words and igno
 
 ### The Architecture
 
-The ayah has a chiastic structure that most readings miss:
+One way to read the architecture of the ayah is as a chiasmus:
 
 **A** — Men are *qawwāmūn* (responsibility)
   **B** — Two conditions: divine favour + spending (the terms)
@@ -292,7 +292,7 @@ The invitation is not to fight about who has power. The invitation is to carry w
 
 ### Du'ā'
 
-*Allāhumma, You named Yourself 'Aliyy and Kabīr at the end of this ayah for a reason — make us people who carry authority as if You are standing right behind us, because You are. Make us qawwāmūn in the way the word actually means: standing for those in our care until our legs give out, spending until there's nothing left to spend, and releasing every pressure the moment it is no longer needed. And when we fail — and we will — let us hear 'Aliyyan Kabīrā not as a threat but as a mercy: that the One above us is greater than our mistakes, and His justice will cover what our justice missed.*
+*Allāhumma, You closed this ayah by naming Yourself 'Aliyy and Kabīr — make us people who carry authority as if You are watching, because You are. Make us qawwāmūn in the way the word actually means: standing for those in our care, spending of ourselves for them, and releasing every pressure the moment it is no longer needed. And when we fall short — and we will — let us hear 'Aliyyan Kabīrā not as a threat but as a mercy: that the One above us is greater than our failures, and His justice will cover what our justice missed.*
 
 </div>
 </section>

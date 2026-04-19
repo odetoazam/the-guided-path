@@ -12,7 +12,8 @@ word_count: 2121
 estimated_duration: "45-55 minutes"
 passage_context: "After 5:90-92 prohibited khamr and maysir and demanded that believers actually stop, Al-Ma'idah immediately answers the fear that sincere believers might now be crushed by what preceded the prohibition. The ayah does not only lift blame for what has passed; it turns the moment into a ladder of continuing taqwa, renewed iman, righteous action, and finally ihsan."
 generated_by: "codex-tadabbur"
-validated: false
+validated: true
+validation_date: "2026-04-18"
 tags: [taqwa, ihsan, forgiveness, growth, khamr]
 concepts: [taqwa, ihsan, iman, tawbah, mahabbah]
 ---

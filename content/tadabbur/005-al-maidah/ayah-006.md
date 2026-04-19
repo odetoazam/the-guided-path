@@ -12,7 +12,8 @@ word_count: 2260
 estimated_duration: "45-55 minutes"
 passage_context: "After Al-Ma'idah opened with contracts, sacred limits, perfected religion, and lawful openings, the surah now turns to the body standing before Allah in prayer. The verse gathers wudu, ghusl, tayammum, and the divine intention beneath them all, showing that purification law is not a ritual burden detached from meaning but part of Allah's ongoing favor and His desire to prepare believers to stand before Him."
 generated_by: "codex-tadabbur"
-validated: false
+validated: true
+validation_date: "2026-04-18"
 tags: [wudu, tayammum, purification, salah, gratitude]
 concepts: [ibadah, shukr, taqwa, ihsan, fitrah]
 ---

@@ -12,7 +12,8 @@ word_count: null
 estimated_duration: "45-55 minutes"
 passage_context: "At the very end of Surah Aal-Imran, after stories of argument, betrayal, Uhud, consolation, prayer, promise, and the contrast between the dunya's deception and what is with Allah, the surah closes with a compact command sequence: how believers must live if they want falah."
 generated_by: "codex-tadabbur"
-validated: false
+validated: true
+validation_date: "2026-04-18"
 tags: [sabr, taqwa, falah, ribat]
 concepts: [sabr, taqwa, iman, divine-testing, ummah]
 ---

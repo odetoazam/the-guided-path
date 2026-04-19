@@ -12,7 +12,8 @@ word_count: 1906
 estimated_duration: "40-50 minutes"
 passage_context: "After 5:87 forbade believers from turning Allah's lawful good things into self-made prohibitions, Al-Ma'idah immediately pivots from negation to guidance. The surah does not leave us with a bare warning against excess; it teaches us how to receive provision rightly, with halal discernment, wholesome restraint, and taqwa before the Lord we already claim to believe in."
 generated_by: "codex-tadabbur"
-validated: false
+validated: true
+validation_date: "2026-04-18"
 tags: [halal, tayyib, rizq, taqwa, iman]
 concepts: [rizq, taqwa, shukr, iman, ibadah]
 ---

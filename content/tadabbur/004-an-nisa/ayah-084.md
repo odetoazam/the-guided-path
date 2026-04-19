@@ -12,7 +12,8 @@ word_count: 2110
 estimated_duration: "45-55 minutes"
 passage_context: "After exposing hearts that feared people more than Allah when fighting became prescribed, the surah turns back to the Messenger with a stabilizing command. The ayah cuts through the paralysis created by other people's hesitation and anchors action, encouragement, and confidence in Allah alone."
 generated_by: "codex-tadabbur"
-validated: false
+validated: true
+validation_date: "2026-04-18"
 tags: [taklif, tahrid, tawakkul, qital, courage]
 concepts: [tawakkul, nafs, iman, ibadah, dawah]
 ---

@@ -12,7 +12,8 @@ word_count: 1955
 estimated_duration: "45-55 minutes"
 passage_context: "Surah Al-Maidah opens with a direct summons to the believers after Surah An-Nisa closed on precise inheritance law. The opening is telling: the new surah begins not with private inspiration but with covenantal obligation, lawful provision, sacred restraint, and the reminder that Allah alone decides what is bound and what is released."
 generated_by: "codex-tadabbur"
-validated: false
+validated: true
+validation_date: "2026-04-18"
 tags: [covenant, contracts, halal, ihram, obedience]
 concepts: [covenant, iman, law-and-ethics, ibadah, taqwa]
 ---

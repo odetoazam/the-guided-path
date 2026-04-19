@@ -12,7 +12,8 @@ word_count: 1436
 estimated_duration: "40-50 minutes"
 passage_context: "After 5:80 exposed the ruinous loyalties many had formed with those who disbelieved, Al-Ma'idah goes one level deeper and diagnoses the root. The problem is not merely political miscalculation; it is a fracture in iman itself, because living faith in Allah, the Prophet, and revelation would have prevented that alliance from taking shape."
 generated_by: "codex-tadabbur"
-validated: false
+validated: true
+validation_date: "2026-04-18"
 tags: [iman, wilayah, alliances, fisq, revelation]
 concepts: [iman, quran, prophethood, nafs, law-and-ethics]
 ---

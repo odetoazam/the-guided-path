@@ -12,7 +12,8 @@ word_count: 1842
 estimated_duration: "45-55 minutes"
 passage_context: "After Al-Ma'idah has shown the devastation of corruption in the land and then reopened the door of repentance before overpowering, it turns directly to believers with a compact program of nearness. The ayah gathers inward God-consciousness, intentional seeking, and outward striving into one road toward falah."
 generated_by: "codex-tadabbur"
-validated: false
+validated: true
+validation_date: "2026-04-18"
 tags: [taqwa, wasilah, jihad, nearness, falah]
 concepts: [taqwa, ibadah, ihsan, mahabbah, tawakkul]
 ---

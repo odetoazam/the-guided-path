@@ -12,7 +12,8 @@ word_count: null
 estimated_duration: "45-55 minutes"
 passage_context: "The closing prayer of Surah Aal-Imran now becomes more personal and confessional: after reflection on creation and fear of the Fire, the believers remember that they heard the summons to iman and responded, yet still ask Allah to forgive, cleanse, and join them with the righteous at death."
 generated_by: "codex-tadabbur"
-validated: false
+validated: true
+validation_date: "2026-04-18"
 tags: [iman, maghfirah, akhirah, abrar]
 concepts: [iman, hidayah, tawbah, dua, raja]
 ---

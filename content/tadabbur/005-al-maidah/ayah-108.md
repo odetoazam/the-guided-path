@@ -12,7 +12,8 @@ word_count: 2348
 estimated_duration: "40-50 minutes"
 passage_context: "After 5:106-107 laid out a careful procedure for deathbed testimony, oath-taking, and the correction of suspected betrayal, this ayah explains why that legal structure was given in the first place. The point is not procedure for its own sake, but a form strong enough to draw witnesses toward truthful testimony, sober them through the possibility of public rebuttal, and return the whole matter to taqwa, listening, and fear of slipping into fisq."
 generated_by: "codex-tadabbur"
-validated: false
+validated: true
+validation_date: "2026-04-18"
 tags: [testimony, oaths, justice, taqwa, amanah]
 concepts: [taqwa, law-and-ethics, accountability, social-justice, khashyah]
 ---

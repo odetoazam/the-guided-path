@@ -6,7 +6,7 @@ ayah_end: 58
 slug: "004-058"
 category: tadabbur
 title: "Two Commands That Built a Civilisation — The Amānah You're Carrying and the Justice You Owe"
-arabic: "إِنَّ ٱللَّهَ يَأْمُرُكُمْ أَن تُؤَدُّوا۟ ٱلْأَمَـٰنَـٰتِ إِلَىٰٓ أَهْلِهَا وَإِذَا حَكَمْتُم بَيْنَ ٱلنَّاسِ أَن تَحْكُمُوا۟ بِٱلْعَدْلِ ۚ إِنَّ ٱللَّهَ نِعِمَّا يَعِظُكُم بِهِۦٓ ۗ إِنَّ ٱللَّهَ كَانَ سَمِيعًۢا بَصِيرًا"
+arabic: "۞ إِنَّ ٱللَّهَ يَأْمُرُكُمْ أَن تُؤَدُّوا۟ ٱلْأَمَـٰنَـٰتِ إِلَىٰٓ أَهْلِهَا وَإِذَا حَكَمْتُم بَيْنَ ٱلنَّاسِ أَن تَحْكُمُوا۟ بِٱلْعَدْلِ ۚ إِنَّ ٱللَّهَ نِعِمَّا يَعِظُكُم بِهِۦٓ ۗ إِنَّ ٱللَّهَ كَانَ سَمِيعًۢا بَصِيرًا"
 translation: "Indeed, Allah commands you to deliver trusts to those entitled to them, and when you judge between people, to judge with justice. Excellent is what Allah instructs you. Indeed, Allah is All-Hearing, All-Seeing."
 word_count: null
 estimated_duration: "48-55 minutes"

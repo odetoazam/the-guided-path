@@ -12,7 +12,8 @@ word_count: null
 estimated_duration: "45-55 minutes"
 passage_context: "After condemning those who concealed revelation for a petty price, Surah Aal-Imran exposes another spiritual disease that often grows beside concealment: delight in one's compromised conduct together with the craving to be publicly praised as if one had done what one never actually did."
 generated_by: "codex-tadabbur"
-validated: false
+validated: true
+validation_date: "2026-04-18"
 tags: [nifaq, kibr, sidq]
 concepts: [nafs, ihsan, accountability, tawbah]
 ---
