@@ -23,6 +23,10 @@ async function main() {
     console.log('');
     console.log('Available carousels:');
     console.log('  musa-profile        — Prophet Musa series (5 slides)');
+    console.log('  alkahf-cave         — Al-Kahf · People of the Cave (5 slides)');
+    console.log('  yusuf-dream         — Yusuf · The Dream That Needed Silence (5 slides)');
+    console.log('  maryam-palm         — Maryam · At the Palm Tree (5 slides)');
+    console.log('  luqman-first-word   — Luqman · A Father\'s First Counsel (5 slides)');
     console.log('');
     console.log('You can also pass an existing HTML file:');
     console.log('  alkahf-carousel.html');
@@ -49,7 +53,7 @@ async function main() {
     console.error(`\nCould not load carousel: "${name}"`);
     console.error(`Expected: scripts/carousel/content/${name}.ts`);
     console.error('');
-    console.error('Available: musa-profile');
+    console.error('Available: musa-profile, alkahf-cave, yusuf-dream, maryam-palm, luqman-first-word');
     process.exit(1);
   }
 
