@@ -1,11 +1,19 @@
 import { MetadataRoute } from 'next'
 
+// Training crawlers — blocked (content may not be used for AI model training)
 const BLOCKED_BOTS = [
-  'GPTBot', 'ChatGPT-User', 'CCBot', 'anthropic-ai', 'Claude-Web', 'ClaudeBot',
+  'GPTBot', 'CCBot', 'anthropic-ai', 'ClaudeBot',
   'cohere-ai', 'Bytespider', 'Applebot-Extended', 'Google-Extended',
-  'PerplexityBot', 'YouBot', 'AhrefsBot', 'SemrushBot', 'MJ12bot',
-  'DotBot', 'PetalBot', 'DataForSeoBot', 'BLEXBot', 'serpstatbot',
-  'Omgilibot', 'FacebookBot',
+  'meta-externalagent', 'FacebookBot', 'Omgilibot',
+  // SEO scrapers
+  'AhrefsBot', 'SemrushBot', 'MJ12bot', 'DotBot', 'PetalBot',
+  'DataForSeoBot', 'BLEXBot', 'serpstatbot',
+]
+
+// Retrieval-only crawlers — explicitly allowed for AI search & citation
+// (these do not train models; blocking them contradicts Content-Signal: search=yes)
+const ALLOWED_AI_SEARCH_BOTS = [
+  'PerplexityBot', 'ChatGPT-User', 'Claude-Web', 'YouBot', 'OAI-SearchBot',
 ]
 
 export default function robots(): MetadataRoute.Robots {
@@ -16,6 +24,10 @@ export default function robots(): MetadataRoute.Robots {
         allow: '/',
         disallow: ['/admin/', '/auth/', '/api/'],
       },
+      ...ALLOWED_AI_SEARCH_BOTS.map(bot => ({
+        userAgent: bot,
+        allow: '/',
+      })),
       ...BLOCKED_BOTS.map(bot => ({
         userAgent: bot,
         disallow: '/',

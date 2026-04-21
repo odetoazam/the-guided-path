@@ -30,6 +30,11 @@ const learnLinks = [
   { href: '/glossary', label: 'Glossary', desc: 'Doorways into the key concepts' },
 ]
 
+const aboutLinks = [
+  { href: '/about', label: 'About', desc: 'What AyahGuide is and who it is for' },
+  { href: '/methodology', label: 'Methodology', desc: 'How we read, cite, and handle contested verses' },
+]
+
 export function SiteNav() {
   const pathname = usePathname()
   const router = useRouter()
@@ -67,7 +72,7 @@ export function SiteNav() {
     router.refresh()
   }
 
-  const isLearnActive = learnLinks.some(
+  const isLearnActive = [...learnLinks, ...aboutLinks].some(
     (l) => pathname === l.href || pathname.startsWith(l.href + '/')
   )
 
@@ -143,6 +148,28 @@ export function SiteNav() {
               <div className="absolute left-0 top-full pt-1.5 z-50">
                 <div className="w-64 rounded-xl border border-zinc-200 dark:border-navy-medium bg-white dark:bg-navy-dark shadow-lg overflow-hidden">
                   {learnLinks.map(({ href, label, desc }) => {
+                    const isActive = pathname === href || pathname.startsWith(href + '/')
+                    return (
+                      <Link
+                        key={href}
+                        href={href}
+                        onClick={() => setLearnOpen(false)}
+                        className={[
+                          'block px-4 py-3 transition-colors',
+                          isActive
+                            ? 'bg-[rgba(201,168,76,0.08)]'
+                            : 'hover:bg-zinc-50 dark:hover:bg-navy-medium/40',
+                        ].join(' ')}
+                      >
+                        <p className={`text-sm font-medium ${isActive ? 'text-gold-500' : 'text-zinc-900 dark:text-cream/90'}`}>
+                          {label}
+                        </p>
+                        <p className="text-xs text-zinc-500 dark:text-cream/40 mt-0.5">{desc}</p>
+                      </Link>
+                    )
+                  })}
+                  <div className="mx-4 border-t border-zinc-100 dark:border-navy-medium" />
+                  {aboutLinks.map(({ href, label, desc }) => {
                     const isActive = pathname === href || pathname.startsWith(href + '/')
                     return (
                       <Link
@@ -280,6 +307,27 @@ export function SiteNav() {
               Explore
             </p>
             {learnLinks.map(({ href, label }) => {
+              const isActive = pathname === href || pathname.startsWith(href + '/')
+              return (
+                <Link
+                  key={href}
+                  href={href}
+                  onClick={() => setOpen(false)}
+                  className={[
+                    'rounded-xl px-4 py-3 text-sm font-medium transition-colors block',
+                    isActive
+                      ? 'text-gold-500 bg-[rgba(201,168,76,0.10)]'
+                      : 'text-zinc-600 dark:text-cream/60 hover:text-navy dark:hover:text-cream hover:bg-zinc-100 dark:hover:bg-navy-medium/60',
+                  ].join(' ')}
+                >
+                  {label}
+                </Link>
+              )
+            })}
+            <p className="mt-1 px-4 py-1.5 text-[10px] font-semibold uppercase tracking-[0.15em] text-zinc-400 dark:text-cream/30">
+              About
+            </p>
+            {aboutLinks.map(({ href, label }) => {
               const isActive = pathname === href || pathname.startsWith(href + '/')
               return (
                 <Link

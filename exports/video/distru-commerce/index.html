@@ -1,0 +1,426 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1920, height=1080" />
+    <!-- Google Fonts for browser preview — compiler embeds automatically on render -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js"></script>
+    <style>
+      * { margin: 0; padding: 0; box-sizing: border-box; }
+
+      html, body {
+        width: 1920px;
+        height: 1080px;
+        overflow: hidden;
+        background: #34444B;
+      }
+
+      /* ── Scene shell ── */
+      .scene {
+        position: absolute;
+        top: 0; left: 0;
+        width: 1920px;
+        height: 1080px;
+        overflow: hidden;
+      }
+      #s1 { z-index: 1; }
+      #s2 { z-index: 2; opacity: 0; }
+      #s3 { z-index: 3; opacity: 0; }
+
+      /* ── Hairline grid — inside each scene, breathes via GSAP ── */
+      .grid-layer {
+        position: absolute;
+        inset: 0;
+        z-index: 0;
+        pointer-events: none;
+        background-image:
+          linear-gradient(rgba(124, 229, 186, 0.06) 1px, transparent 1px),
+          linear-gradient(90deg, rgba(124, 229, 186, 0.06) 1px, transparent 1px);
+        background-size: 96px 96px;
+        opacity: 0.55;
+      }
+
+      /* ── Radial glows ── */
+      .bg-glow {
+        position: absolute;
+        border-radius: 50%;
+        pointer-events: none;
+        z-index: 0;
+      }
+      #s1-glow {
+        width: 1000px; height: 600px;
+        top: 50%; left: 50%;
+        transform: translate(-50%, -50%);
+        background: radial-gradient(ellipse, rgba(124, 229, 186, 0.08) 0%, transparent 65%);
+      }
+      #s2-glow {
+        width: 780px; height: 480px;
+        top: 66%; left: 64%;
+        transform: translate(-50%, -50%);
+        background: radial-gradient(ellipse, rgba(124, 229, 186, 0.07) 0%, transparent 70%);
+      }
+      #s3-glow {
+        width: 900px; height: 550px;
+        top: 50%; left: 38%;
+        transform: translate(-50%, -50%);
+        background: radial-gradient(ellipse, rgba(124, 229, 186, 0.09) 0%, transparent 65%);
+      }
+
+      /* ── Content shell ── */
+      .content {
+        position: relative;
+        z-index: 1;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        width: 100%;
+        height: 100%;
+        box-sizing: border-box;
+      }
+
+      /* ── Scene 1: Problem statement (centered) ── */
+      #s1 .content {
+        align-items: center;
+        text-align: center;
+        padding: 100px 300px;
+        gap: 40px;
+      }
+      #s1-headline {
+        font-family: 'Inter', sans-serif;
+        font-weight: 700;
+        font-size: 82px;
+        color: #f8fafc;
+        line-height: 1.14;
+        letter-spacing: -0.026em;
+        max-width: 1160px;
+      }
+      #s1-rule {
+        width: 72px;
+        height: 3px;
+        background: #7CE5BA;
+        border-radius: 2px;
+      }
+
+      /* ── Scene 2: Product reveal (left-aligned) ── */
+      #s2 .content {
+        align-items: flex-start;
+        padding: 80px 196px;
+        gap: 32px;
+      }
+      #s2-name {
+        font-family: 'Inter', sans-serif;
+        font-weight: 800;
+        font-size: 104px;
+        color: #f8fafc;
+        letter-spacing: -0.032em;
+        line-height: 1;
+      }
+      .feature-list {
+        display: flex;
+        flex-direction: column;
+        gap: 18px;
+      }
+      .feat-item {
+        display: flex;
+        align-items: center;
+        gap: 18px;
+      }
+      .feat-dot {
+        width: 10px;
+        height: 10px;
+        border-radius: 50%;
+        background: #7CE5BA;
+        flex-shrink: 0;
+      }
+      .feat-text {
+        font-family: 'Inter', sans-serif;
+        font-weight: 400;
+        font-size: 34px;
+        color: rgba(248, 250, 252, 0.78);
+        letter-spacing: -0.01em;
+      }
+      #s2-stat-wrap {
+        display: flex;
+        flex-direction: column;
+        gap: 4px;
+        margin-top: 12px;
+      }
+      #s2-counter {
+        font-family: 'Inter', sans-serif;
+        font-weight: 700;
+        font-size: 60px;
+        color: #7CE5BA;
+        letter-spacing: -0.025em;
+      }
+      #s2-stat-label {
+        font-family: 'Inter', sans-serif;
+        font-weight: 300;
+        font-size: 21px;
+        color: rgba(248, 250, 252, 0.38);
+        letter-spacing: 0.05em;
+        text-transform: uppercase;
+      }
+
+      /* ── Scene 3: Closing statement (left-aligned) ── */
+      #s3 .content {
+        align-items: flex-start;
+        padding: 80px 196px;
+        gap: 8px;
+      }
+      .close-line {
+        font-family: 'Inter', sans-serif;
+        font-weight: 800;
+        font-size: 130px;
+        line-height: 1.06;
+        letter-spacing: -0.035em;
+        color: #f8fafc;
+      }
+      .close-line.accent { color: #7CE5BA; }
+      #s3-url {
+        font-family: 'Inter', sans-serif;
+        font-weight: 300;
+        font-size: 26px;
+        color: rgba(248, 250, 252, 0.38);
+        letter-spacing: 0.07em;
+        margin-top: 32px;
+      }
+    </style>
+  </head>
+  <body>
+    <div
+      id="root"
+      data-composition-id="main"
+      data-start="0"
+      data-duration="15"
+      data-width="1920"
+      data-height="1080"
+    >
+      <audio id="bg-music" data-start="0" data-duration="15" data-track-index="0" data-volume="0.28" src="music.mp3"></audio>
+
+      <!-- ── Scene 1: Problem statement ── -->
+      <div id="s1" class="scene">
+        <div class="grid-layer"></div>
+        <div class="bg-glow" id="s1-glow"></div>
+        <div class="content">
+          <div id="s1-headline">Wholesale cannabis should work on your terms.</div>
+          <div id="s1-rule"></div>
+        </div>
+      </div>
+
+      <!-- ── Scene 2: Product reveal ── -->
+      <div id="s2" class="scene">
+        <div class="grid-layer"></div>
+        <div class="bg-glow" id="s2-glow"></div>
+        <div class="content">
+          <div id="s2-name">DistruCommerce</div>
+          <div class="feature-list">
+            <div class="feat-item" id="feat-1">
+              <div class="feat-dot"></div>
+              <div class="feat-text">Real-time inventory sync</div>
+            </div>
+            <div class="feat-item" id="feat-2">
+              <div class="feat-dot"></div>
+              <div class="feat-text">Zero commission fees</div>
+            </div>
+            <div class="feat-item" id="feat-3">
+              <div class="feat-dot"></div>
+              <div class="feat-text">Verified retailer access</div>
+            </div>
+          </div>
+          <div id="s2-stat-wrap">
+            <div id="s2-counter">$0.0B</div>
+            <div id="s2-stat-label">in wholesale orders processed</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- ── Scene 3: Brand close ── -->
+      <div id="s3" class="scene">
+        <div class="grid-layer"></div>
+        <div class="bg-glow" id="s3-glow"></div>
+        <div class="content">
+          <div class="close-line" id="cl-1">Your rules.</div>
+          <div class="close-line" id="cl-2">Your margin.</div>
+          <div class="close-line accent" id="cl-3">Your way.</div>
+          <div id="s3-url">distru.com/commerce</div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      window.__timelines = window.__timelines || {};
+      const tl = gsap.timeline({ paused: true });
+
+      // ── Grid breathe — all 3 layers, full 15s ──
+      // 6 plays × 2.5s = 15s total
+      tl.to(".grid-layer", {
+        opacity: 0.22,
+        duration: 2.5,
+        ease: "sine.inOut",
+        yoyo: true,
+        repeat: 5
+      }, 0);
+
+      // ── Scene 1 glow breathe ──
+      // 2 plays × 2.0s = 4s (scene active 0–4.3s)
+      tl.to("#s1-glow", {
+        scale: 1.16,
+        opacity: 0.62,
+        duration: 2.0,
+        ease: "sine.inOut",
+        yoyo: true,
+        repeat: 1
+      }, 0.4);
+
+      // ── Scene 1: Headline — clip-path wipe ──
+      tl.fromTo(
+        "#s1-headline",
+        { clipPath: "inset(0 100% 0 0)" },
+        { clipPath: "inset(0 0% 0 0)", duration: 1.5, ease: "power3.out" },
+        0.2
+      );
+
+      // ── Scene 1: Green rule draws from left ──
+      tl.from("#s1-rule", {
+        scaleX: 0,
+        transformOrigin: "left center",
+        duration: 0.8,
+        ease: "power2.inOut"
+      }, 1.45);
+
+      // ────────────────────────────────────────
+      // ── Zoom transition: S1 → S2 at t=4.3 ──
+      // ────────────────────────────────────────
+      const T1 = 4.3;
+
+      tl.to("#s1", {
+        scale: 1.08,
+        filter: "blur(15px)",
+        opacity: 0,
+        duration: 0.48,
+        ease: "power3.in"
+      }, T1);
+
+      tl.fromTo(
+        "#s2",
+        { scale: 0.94, filter: "blur(15px)", opacity: 0 },
+        { scale: 1,    filter: "blur(0px)",  opacity: 1, duration: 0.52, ease: "power3.out" },
+        T1 + 0.08
+      );
+
+      // ── Scene 2 glow breathe ──
+      // 4 plays × 1.5s = 6s (scene active T1–T2 ≈ 5.6s)
+      tl.to("#s2-glow", {
+        scale: 1.22,
+        opacity: 0.72,
+        duration: 1.5,
+        ease: "sine.inOut",
+        yoyo: true,
+        repeat: 3
+      }, T1 + 0.4);
+
+      // ── Scene 2: Product name — clip-path wipe ──
+      tl.fromTo(
+        "#s2-name",
+        { clipPath: "inset(0 100% 0 0)" },
+        { clipPath: "inset(0 0% 0 0)", duration: 0.85, ease: "power3.out" },
+        T1 + 0.42
+      );
+
+      // ── Feature items stagger in from left ──
+      tl.from("#feat-1", { x: -32, opacity: 0, duration: 0.52, ease: "power2.out" }, T1 + 0.92);
+      tl.from("#feat-2", { x: -32, opacity: 0, duration: 0.52, ease: "power2.out" }, T1 + 1.12);
+      tl.from("#feat-3", { x: -32, opacity: 0, duration: 0.52, ease: "power2.out" }, T1 + 1.32);
+
+      // ── Dots pulse — 3 full cycles per dot, staggered ──
+      // repeat:5 + yoyo = 6 half-plays × 0.27s = 1.62s per dot
+      tl.to(".feat-dot", {
+        scale: 1.75,
+        opacity: 0.45,
+        duration: 0.27,
+        ease: "sine.inOut",
+        yoyo: true,
+        repeat: 5,
+        stagger: 0.12
+      }, T1 + 2.0);
+
+      // ── Stat wrapper fades up ──
+      tl.from("#s2-stat-wrap", { opacity: 0, y: 14, duration: 0.6, ease: "power2.out" }, T1 + 1.55);
+
+      // ── Counter: $0.0B → $1.5B ──
+      const cObj = { val: 0 };
+      tl.to(cObj, {
+        val: 1.5,
+        duration: 1.9,
+        ease: "power2.out",
+        onUpdate: function () {
+          document.getElementById("s2-counter").textContent =
+            "$" + cObj.val.toFixed(1) + "B";
+        }
+      }, T1 + 1.75);
+
+      // ──────────────────────────────────────────────
+      // ── Blur crossfade: S2 → S3 at t=9.9 ──
+      // ──────────────────────────────────────────────
+      const T2 = 9.9;
+
+      tl.to("#s2", {
+        filter: "blur(22px)",
+        scale: 1.02,
+        opacity: 0,
+        duration: 0.82,
+        ease: "sine.inOut"
+      }, T2);
+
+      tl.fromTo(
+        "#s3",
+        { filter: "blur(22px)", scale: 0.97, opacity: 0 },
+        { filter: "blur(0px)",  scale: 1,    opacity: 1, duration: 0.82, ease: "sine.inOut" },
+        T2 + 0.06
+      );
+
+      // ── Scene 3 glow breathe ──
+      // 2 plays × 1.9s = 3.8s (scene runs T2 to fade at 13.9s ≈ 4s)
+      tl.to("#s3-glow", {
+        scale: 1.18,
+        opacity: 0.7,
+        duration: 1.9,
+        ease: "sine.inOut",
+        yoyo: true,
+        repeat: 1
+      }, T2 + 0.5);
+
+      // ── Closing lines — staggered clip-path wipes ──
+      tl.fromTo(
+        "#cl-1",
+        { clipPath: "inset(0 100% 0 0)" },
+        { clipPath: "inset(0 0% 0 0)", duration: 0.68, ease: "power3.out" },
+        T2 + 0.58
+      );
+      tl.fromTo(
+        "#cl-2",
+        { clipPath: "inset(0 100% 0 0)" },
+        { clipPath: "inset(0 0% 0 0)", duration: 0.68, ease: "power3.out" },
+        T2 + 0.80
+      );
+      tl.fromTo(
+        "#cl-3",
+        { clipPath: "inset(0 100% 0 0)" },
+        { clipPath: "inset(0 0% 0 0)", duration: 0.68, ease: "expo.out" },
+        T2 + 1.02
+      );
+      tl.from("#s3-url", { opacity: 0, duration: 0.7, ease: "sine.out" }, T2 + 1.72);
+
+      // ── Final fade to black ──
+      tl.to("#root", { opacity: 0, duration: 1.1, ease: "power1.in" }, 13.9);
+
+      window.__timelines["main"] = tl;
+    </script>
+  </body>
+</html>

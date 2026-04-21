@@ -71,6 +71,7 @@ export default async function GlossaryEntryPage({ params }: Props) {
     return notFound()
   }
 
+  const pageUrl = `${CANONICAL_URL}/glossary/${slug}`
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'DefinedTerm',
@@ -82,7 +83,17 @@ export default async function GlossaryEntryPage({ params }: Props) {
       name: `${SITE_NAME} Glossary`,
       url: `${CANONICAL_URL}/glossary`,
     },
-    url: `${CANONICAL_URL}/glossary/${slug}`,
+    url: pageUrl,
+  }
+
+  const breadcrumbJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: CANONICAL_URL },
+      { '@type': 'ListItem', position: 2, name: 'Glossary', item: `${CANONICAL_URL}/glossary` },
+      { '@type': 'ListItem', position: 3, name: entry.transliteration, item: pageUrl },
+    ],
   }
 
   return (
@@ -91,6 +102,11 @@ export default async function GlossaryEntryPage({ params }: Props) {
         suppressHydrationWarning
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+      <script
+        suppressHydrationWarning
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
       />
 
       <article className="min-h-screen">

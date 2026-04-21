@@ -1,0 +1,499 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <script src="https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js"></script>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      width: 1920px;
+      height: 1080px;
+      overflow: hidden;
+      background-color: #F7FAFC;
+    }
+
+    /* ── All Scenes ─────────────────────────────────────────── */
+    .scene {
+      position: absolute;
+      top: 0; left: 0;
+      width: 1920px;
+      height: 1080px;
+      overflow: hidden;
+      display: flex;
+    }
+
+    /* Vignette — shared across all light scenes */
+    .vignette {
+      position: absolute;
+      inset: 0;
+      background: radial-gradient(ellipse 90% 80% at 50% 50%,
+        rgba(247,250,252,0) 40%,
+        rgba(210,225,230,0.55) 100%);
+      pointer-events: none;
+      z-index: 10;
+    }
+
+    /* ── SCENE 1: Brand intro ───────────────────────────────── */
+    #scene1 {
+      z-index: 1;
+      background-color: #F7FAFC;
+      align-items: center;
+      justify-content: center;
+    }
+
+    /* Primary atmospheric glow — large, centered */
+    #s1-glow-main {
+      position: absolute;
+      width: 1100px; height: 1100px;
+      border-radius: 50%;
+      background: radial-gradient(circle,
+        rgba(119,217,175,0.22) 0%,
+        rgba(119,217,175,0.08) 40%,
+        rgba(119,217,175,0) 70%);
+      top: 50%; left: 50%;
+      transform: translate(-50%, -50%);
+    }
+
+    /* Secondary accent glow — offset, smaller */
+    #s1-glow-accent {
+      position: absolute;
+      width: 500px; height: 500px;
+      border-radius: 50%;
+      background: radial-gradient(circle,
+        rgba(77,128,98,0.18) 0%,
+        rgba(77,128,98,0) 70%);
+      top: 30%; left: 55%;
+      transform: translate(-50%, -50%);
+    }
+
+    .s1-content {
+      position: relative;
+      z-index: 2;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 28px;
+    }
+
+    #s1-eyebrow {
+      font-family: 'Montserrat', sans-serif;
+      font-weight: 300;
+      font-size: 18px;
+      color: #4D8062;
+      letter-spacing: 0.22em;
+      text-transform: uppercase;
+      clip-path: inset(0 100% 0 0);
+    }
+
+    #s1-name {
+      font-family: 'Rockwell', 'Rockwell Nova', Georgia, serif;
+      font-weight: 700;
+      font-size: 160px;
+      color: #34444B;
+      letter-spacing: -0.03em;
+      line-height: 1;
+      clip-path: inset(0 100% 0 0);
+    }
+
+    /* Glowing underline rule beneath brand name */
+    #s1-rule {
+      width: 0;
+      height: 3px;
+      background: linear-gradient(90deg,
+        rgba(77,128,98,0) 0%,
+        rgba(77,128,98,1) 30%,
+        rgba(119,217,175,1) 60%,
+        rgba(119,217,175,0) 100%);
+      filter: drop-shadow(0 0 8px rgba(119,217,175,0.7));
+    }
+
+    #s1-sub {
+      font-family: 'Montserrat', sans-serif;
+      font-weight: 300;
+      font-size: 28px;
+      color: #5C7A86;
+      letter-spacing: 0.04em;
+    }
+
+    /* ── SCENE 2: Value prop ─────────────────────────────────── */
+    #scene2 {
+      z-index: 2;
+      background-color: #F7FAFC;
+      opacity: 0;
+      align-items: center;
+    }
+
+    /* Large offset glow — right side */
+    #s2-glow-right {
+      position: absolute;
+      width: 820px; height: 820px;
+      border-radius: 50%;
+      background: radial-gradient(circle,
+        rgba(119,217,175,0.18) 0%,
+        rgba(119,217,175,0.06) 45%,
+        rgba(119,217,175,0) 70%);
+      top: 50%; right: -60px;
+      transform: translateY(-50%);
+    }
+
+    /* Small accent glow — top-left atmospheric */
+    #s2-glow-tl {
+      position: absolute;
+      width: 380px; height: 380px;
+      border-radius: 50%;
+      background: radial-gradient(circle,
+        rgba(77,128,98,0.12) 0%,
+        rgba(77,128,98,0) 70%);
+      top: -60px; left: 120px;
+    }
+
+    .s2-content {
+      position: relative;
+      z-index: 2;
+      display: flex;
+      flex-direction: column;
+      gap: 36px;
+      margin-left: 180px;
+      width: 1120px;
+    }
+
+    #s2-label {
+      font-family: 'Montserrat', sans-serif;
+      font-weight: 300;
+      font-size: 18px;
+      color: #4D8062;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+    }
+
+    /* Glowing accent bar — left edge of headline */
+    #s2-bar {
+      width: 4px;
+      height: 0;
+      background: linear-gradient(180deg,
+        rgba(119,217,175,1) 0%,
+        rgba(77,128,98,1) 100%);
+      filter: drop-shadow(0 0 10px rgba(119,217,175,0.8));
+      border-radius: 2px;
+      position: absolute;
+      left: -28px;
+      top: 0;
+    }
+
+    #s2-headline-wrap {
+      position: relative;
+    }
+
+    #s2-headline {
+      font-family: 'Rockwell', 'Rockwell Nova', Georgia, serif;
+      font-weight: 700;
+      font-size: 80px;
+      color: #34444B;
+      letter-spacing: -0.025em;
+      line-height: 1.08;
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
+
+    #s2-h1, #s2-h2 {
+      clip-path: inset(0 100% 0 0);
+    }
+
+    .s2-features {
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+    }
+
+    .s2-feature {
+      display: flex;
+      align-items: center;
+      gap: 18px;
+      font-family: 'Montserrat', sans-serif;
+      font-weight: 400;
+      font-size: 26px;
+      color: #5C7A86;
+    }
+
+    .s2-dot {
+      width: 10px; height: 10px;
+      border-radius: 50%;
+      background-color: #4D8062;
+      box-shadow: 0 0 12px rgba(77,128,98,0.7), 0 0 4px rgba(119,217,175,0.9);
+      flex-shrink: 0;
+    }
+
+    /* ── SCENE 3: Cinematic close ─────────────────────────────── */
+    #scene3 {
+      z-index: 3;
+      background-color: #34444B;
+      opacity: 0;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 32px;
+    }
+
+    /* Dark vignette — deeper edge shadow for scene 3 */
+    #s3-vignette {
+      position: absolute;
+      inset: 0;
+      background: radial-gradient(ellipse 80% 70% at 50% 50%,
+        rgba(52,68,75,0) 30%,
+        rgba(30,40,45,0.75) 100%);
+      z-index: 1;
+      pointer-events: none;
+    }
+
+    /* Hero atmospheric glow — centered */
+    #s3-glow-hero {
+      position: absolute;
+      width: 1000px; height: 1000px;
+      border-radius: 50%;
+      background: radial-gradient(circle,
+        rgba(77,128,98,0.28) 0%,
+        rgba(77,128,98,0.10) 35%,
+        rgba(77,128,98,0) 65%);
+      top: 50%; left: 50%;
+      transform: translate(-50%, -50%);
+    }
+
+    /* Outer halo ring */
+    #s3-glow-ring {
+      position: absolute;
+      width: 700px; height: 700px;
+      border-radius: 50%;
+      border: 1px solid rgba(119,217,175,0.12);
+      top: 50%; left: 50%;
+      transform: translate(-50%, -50%);
+      box-shadow:
+        0 0 40px rgba(119,217,175,0.10),
+        inset 0 0 40px rgba(119,217,175,0.05);
+    }
+
+    #s3-domain {
+      position: relative;
+      z-index: 2;
+      font-family: 'Rockwell', 'Rockwell Nova', Georgia, serif;
+      font-weight: 700;
+      font-size: 112px;
+      color: #77D9AF;
+      letter-spacing: -0.02em;
+      line-height: 1;
+      text-shadow:
+        0 0 60px rgba(119,217,175,0.50),
+        0 0 20px rgba(119,217,175,0.35),
+        0 0 8px  rgba(119,217,175,0.20);
+      clip-path: inset(0 100% 0 0);
+    }
+
+    #s3-tag {
+      position: relative;
+      z-index: 2;
+      font-family: 'Montserrat', sans-serif;
+      font-weight: 300;
+      font-size: 26px;
+      color: #AEBCC2;
+      letter-spacing: 0.05em;
+    }
+  </style>
+</head>
+<body>
+  <div id="root"
+    data-composition-id="main"
+    data-width="1920"
+    data-height="1080"
+    data-start="0"
+    data-duration="10">
+
+    <!-- ═══ SCENE 1: Brand intro ═══ -->
+    <div id="scene1" class="scene">
+      <div id="s1-glow-main"></div>
+      <div id="s1-glow-accent"></div>
+      <div class="vignette"></div>
+      <div class="s1-content">
+        <div id="s1-eyebrow">Cannabis Distribution Software</div>
+        <div id="s1-name">DISTRU</div>
+        <div id="s1-rule"></div>
+        <div id="s1-sub"></div>
+      </div>
+    </div>
+
+    <!-- ═══ SCENE 2: Value prop ═══ -->
+    <div id="scene2" class="scene">
+      <div id="s2-glow-right"></div>
+      <div id="s2-glow-tl"></div>
+      <div class="vignette"></div>
+      <div class="s2-content">
+        <div id="s2-label">Built for operators</div>
+        <div id="s2-headline-wrap">
+          <div id="s2-bar"></div>
+          <div id="s2-headline">
+            <div id="s2-h1">From order to delivery.</div>
+            <div id="s2-h2">Handled.</div>
+          </div>
+        </div>
+        <div class="s2-features">
+          <div class="s2-feature" id="s2-f1"><div class="s2-dot"></div>Real-time inventory sync</div>
+          <div class="s2-feature" id="s2-f2"><div class="s2-dot"></div>Compliance-ready workflows</div>
+          <div class="s2-feature" id="s2-f3"><div class="s2-dot"></div>One platform, every account</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ═══ SCENE 3: Cinematic close ═══ -->
+    <div id="scene3" class="scene">
+      <div id="s3-glow-hero"></div>
+      <div id="s3-glow-ring"></div>
+      <div id="s3-vignette"></div>
+      <div id="s3-domain">distru.co</div>
+      <div id="s3-tag">The distribution platform for cannabis.</div>
+    </div>
+
+  </div>
+
+  <script>
+    window.__timelines = window.__timelines || {};
+    var tl = gsap.timeline({ paused: true });
+
+    // ── Initial states (all late-entering elements hidden from t=0) ──────
+    tl.set("#s1-sub",    { opacity: 0 }, 0);
+    tl.set("#s2-label",  { x: -28, opacity: 0 }, 0);
+    tl.set("#s2-h1",     { clipPath: "inset(0 100% 0 0)" }, 0);
+    tl.set("#s2-h2",     { clipPath: "inset(0 100% 0 0)" }, 0);
+    tl.set("#s2-f1",     { x: -28, opacity: 0 }, 0);
+    tl.set("#s2-f2",     { x: -28, opacity: 0 }, 0);
+    tl.set("#s2-f3",     { x: -28, opacity: 0 }, 0);
+    tl.set("#s3-domain", { clipPath: "inset(0 100% 0 0)" }, 0);
+    tl.set("#s3-tag",    { y: 24, opacity: 0 }, 0);
+    tl.set("#s3-glow-ring", { scale: 0.85, opacity: 0 }, 0);
+
+    // ── SCENE 1: Atmospheric glows — breathing, staggered ───────────────
+    // Main glow: scale 1.0 → 1.18 → 1.0 (two full cycles over 10s)
+    tl.to("#s1-glow-main", {
+      scale: 1.18, duration: 4, ease: "sine.inOut", yoyo: true, repeat: 2
+    }, 0);
+    // Accent glow: offset phase so it breathes differently
+    tl.to("#s1-glow-accent", {
+      scale: 1.22, duration: 3, ease: "sine.inOut", yoyo: true, repeat: 3
+    }, 0.6);
+
+    // ── SCENE 1: Entrances ───────────────────────────────────────────────
+    // Eyebrow — cinematic wipe reveal
+    tl.to("#s1-eyebrow", {
+      clipPath: "inset(0 0% 0 0)", duration: 0.7, ease: "power3.out"
+    }, 0.3);
+
+    // Brand name — wipe reveal, dramatic
+    tl.to("#s1-name", {
+      clipPath: "inset(0 0% 0 0)", duration: 0.8, ease: "power3.out"
+    }, 0.7);
+
+    // Glowing underline rule — expands outward
+    tl.to("#s1-rule", {
+      width: 480, duration: 0.6, ease: "power2.out"
+    }, 1.1);
+
+    // Tagline fade
+    tl.to("#s1-sub", {
+      opacity: 1, duration: 0.5, ease: "power2.out"
+    }, 1.5);
+
+    // ── S1 → S2: Blur crossfade (T=3.5, medium energy) ──────────────────
+    tl.to("#scene1", {
+      filter: "blur(10px)", scale: 1.03, opacity: 0,
+      duration: 0.5, ease: "power2.inOut"
+    }, 3.5);
+    tl.fromTo("#scene2",
+      { filter: "blur(10px)", scale: 0.97, opacity: 0 },
+      { filter: "blur(0px)",  scale: 1,    opacity: 1,
+        duration: 0.5, ease: "power2.inOut" },
+      3.6);
+
+    // ── SCENE 2: Atmospheric glows ───────────────────────────────────────
+    tl.to("#s2-glow-right", {
+      scale: 1.15, duration: 4, ease: "sine.inOut", yoyo: true, repeat: 1
+    }, 4.1);
+    tl.to("#s2-glow-tl", {
+      scale: 1.25, duration: 3, ease: "sine.inOut", yoyo: true, repeat: 1
+    }, 4.5);
+
+    // ── SCENE 2: Entrances ───────────────────────────────────────────────
+    // Label — slide from left
+    tl.to("#s2-label", {
+      x: 0, opacity: 1, duration: 0.4, ease: "power2.out"
+    }, 4.2);
+
+    // Cinematic accent bar — grows downward
+    tl.to("#s2-bar", {
+      height: 185, duration: 0.6, ease: "power3.out"
+    }, 4.4);
+
+    // Headline — staggered wipe reveals
+    tl.to("#s2-h1", {
+      clipPath: "inset(0 0% 0 0)", duration: 0.65, ease: "power3.out"
+    }, 4.5);
+    tl.to("#s2-h2", {
+      clipPath: "inset(0 0% 0 0)", duration: 0.65, ease: "expo.out"
+    }, 4.7);
+
+    // Feature items — staggered slide-in
+    tl.to("#s2-f1", {
+      x: 0, opacity: 1, duration: 0.4, ease: "power2.out"
+    }, 5.1);
+    tl.to("#s2-f2", {
+      x: 0, opacity: 1, duration: 0.4, ease: "power2.out"
+    }, 5.28);
+    tl.to("#s2-f3", {
+      x: 0, opacity: 1, duration: 0.4, ease: "power2.out"
+    }, 5.46);
+
+    // ── S2 → S3: Blur crossfade (T=7.0) ──────────────────────────────────
+    tl.to("#scene2", {
+      filter: "blur(10px)", scale: 1.03, opacity: 0,
+      duration: 0.5, ease: "power2.inOut"
+    }, 7.0);
+    tl.fromTo("#scene3",
+      { filter: "blur(10px)", scale: 0.97, opacity: 0 },
+      { filter: "blur(0px)",  scale: 1,    opacity: 1,
+        duration: 0.5, ease: "power2.inOut" },
+      7.1);
+
+    // ── SCENE 3: Atmospheric glows ───────────────────────────────────────
+    // Hero glow pulses in
+    tl.to("#s3-glow-hero", {
+      scale: 1.14, duration: 2.5, ease: "sine.inOut", yoyo: true, repeat: 1
+    }, 7.2);
+    // Halo ring materialises
+    tl.to("#s3-glow-ring", {
+      scale: 1, opacity: 1, duration: 0.8, ease: "power2.out"
+    }, 7.3);
+    // Ring breathes outward
+    tl.to("#s3-glow-ring", {
+      scale: 1.06, duration: 2, ease: "sine.inOut", yoyo: true, repeat: 1
+    }, 8.1);
+
+    // ── SCENE 3: Entrances ───────────────────────────────────────────────
+    // Domain — cinematic wipe + glow materialises with it
+    tl.to("#s3-domain", {
+      clipPath: "inset(0 0% 0 0)", duration: 0.75, ease: "power3.out"
+    }, 7.75);
+
+    // Tagline — drifts up
+    tl.to("#s3-tag", {
+      y: 0, opacity: 1, duration: 0.55, ease: "power1.out"
+    }, 8.35);
+
+    // ── FINAL FADE (scene 3 — only allowed exit) ──────────────────────────
+    tl.to("#scene3", {
+      opacity: 0, duration: 0.65, ease: "power1.in"
+    }, 9.35);
+    // Hard visibility kill — prevents residual overlap when scrubbing
+    tl.set("#scene3", { visibility: "hidden" }, 10.0);
+
+    window.__timelines["main"] = tl;
+  </script>
+</body>
+</html>

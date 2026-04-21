@@ -14,6 +14,7 @@ import type { Metadata } from 'next'
 const HOMEPAGE_OG_IMAGE = '/api/og/quote?text=A%20contemplative%20companion%20for%20reading%20the%20Qur%27an.&cite=AyahGuide'
 
 export const metadata: Metadata = {
+  description: 'Deep Quranic reflections (tadabbur) grounded in Ibn Kathir, al-Tabari, and classical Arabic morphology. 114 surahs, 160+ articles, and a complete glossary of Islamic terms.',
   alternates: {
     canonical: CANONICAL_URL,
   },
@@ -61,14 +62,31 @@ export default async function LandingPage() {
 
   const organizationJsonLd = {
     '@context': 'https://schema.org',
-    '@type': 'EducationalOrganization',
+    '@type': 'Organization',
     name: SITE_NAME,
     url: CANONICAL_URL,
     description: SITE_DESCRIPTION,
+    logo: {
+      '@type': 'ImageObject',
+      url: `${CANONICAL_URL}/logo.png`,
+      width: 512,
+      height: 512,
+    },
     sameAs: [
       'https://www.instagram.com/ayahguideus',
       'https://www.wikidata.org/wiki/Q139257356',
     ],
+    knowsAbout: [
+      'Quran', 'Quranic exegesis', 'Tafsir', 'Tadabbur',
+      'Quranic sciences', 'Islamic theology', 'Arabic linguistics',
+    ],
+    foundingDate: '2024',
+    contactPoint: {
+      '@type': 'ContactPoint',
+      contactType: 'customer support',
+      url: `${CANONICAL_URL}/contact`,
+      availableLanguage: 'English',
+    },
   }
 
   return (

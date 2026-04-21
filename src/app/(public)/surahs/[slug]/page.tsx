@@ -115,11 +115,15 @@ export default async function SurahDetailPage({ params }: Props) {
     ],
   }
 
+  const surahOgImage = post?.featured_image ||
+    `${CANONICAL_URL}/api/og/quote?text=${encodeURIComponent((post?.seo_description || post?.excerpt || `Surah ${surah.nameEn}`).slice(0, 200))}&cite=${encodeURIComponent(`Surah ${surah.nameEn}`)}&arabic=${encodeURIComponent(surah.nameAr)}`
+
   const articleJsonLd = post ? {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: post.seo_title || post.title,
-    description: post.seo_description || post.excerpt || '',
+    description: (post.seo_description || post.excerpt || '').slice(0, 160),
+    image: { '@type': 'ImageObject', url: surahOgImage, width: 1200, height: 630 },
     articleBody: post.content_html
       ? post.content_html.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim()
       : '',
@@ -127,8 +131,15 @@ export default async function SurahDetailPage({ params }: Props) {
     datePublished: post.published_at || undefined,
     dateModified: post.updated_at || post.published_at || undefined,
     author: { '@type': 'Organization', name: SITE_NAME, url: CANONICAL_URL },
-    publisher: { '@type': 'Organization', name: SITE_NAME, url: CANONICAL_URL },
+    publisher: {
+      '@type': 'Organization',
+      name: SITE_NAME,
+      url: CANONICAL_URL,
+      logo: { '@type': 'ImageObject', url: `${CANONICAL_URL}/logo.png` },
+    },
+    mainEntityOfPage: { '@type': 'WebPage', '@id': pageUrl },
     keywords: `Surah ${surah.nameEn}, ${surah.nameAr}, Quran, tadabbur, Quranic reflection`,
+    inLanguage: 'en-US',
   } : null
 
   return (

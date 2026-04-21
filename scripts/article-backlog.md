@@ -1,5 +1,100 @@
 # AyahGuide Article Backlog
 
+## Session Log — 2026-04-20 (Story Article: Stated Reasons vs. Actual Decisions)
+
+**Article:** "The Reason That Arrived After the Decision" — cross-figure psychological synthesis using Iblis (7:12) + Bani Isra'il demand-then-retreat (2:246)
+**URL:** https://ayahguide.com/posts/reason-after-decision-iblis-bani-israil
+**Word count:** ~1,700 (~8 min read)
+**Voice:** Berger (essay-as-seeing), plain register; opens with ordinary-life analogy (person who says they want to get in shape but doesn't)
+**Vertical axis:** The gap between stated reasons and actual decisions — two Quranic cases showing opposite directions of the same gap; neither party called a liar, distinction between proud/unjust vs. dishonest
+**Tadabbur sources:** Mined existing `content/tadabbur/007-al-araf/ayahs-011-015.md` + `content/tadabbur/002-al-baqarah/ayahs-246-252.md` (no regeneration)
+**Validation:** Arabic ✅ (2/2 — 7:12 exact after auto-fix; 2:246 normalized after expanding partial quote to full ayah); Morphology ✅ (0 tagged claims — no morphology comments in this article); Tafsir ✅ (Ibn Kathir + al-Tabari + al-Muyassar retrieved for both ayahs)
+**Fix applied:** 2:246 was a partial quote → replaced with full ayah text + full translation; Arabic validator then matched normalized
+**Entities tagged:** shaytan (primary); bani-israil entity not in DB — skipped
+**Path tags:** `path:the-loop`, `path:what-youre-worth`
+**Article type:** Cross-figure psychological pattern (Iblis + Bani Isra'il) — distinguishes story articles from single-passage tadabbur deep dives
+
+---
+
+## Session Log — 2026-04-20 (Story Article: Iblis Refusal)
+
+**Article:** "I Am Better: The First Time Pride Sounded Like Reason" — single-scene deep dive on Al-A'raf 7:11-15 (Iblis's argument against the command to prostrate)
+**URL:** https://ayahguide.com/posts/iblis-refusal-al-araf-7-11-15
+**Word count:** 1,648 (~8 min read)
+**Voice:** Dillard, plain register with analogies
+**Vertical axis:** The Quran performing the reality that pride always speaks in the grammar of logic — but the logic is working backward from a decision already made
+**Tadabbur source:** Mined existing `content/tadabbur/007-al-araf/ayahs-011-015.md` (no regeneration)
+**Validation:** Morphology 4/4 ✅ (خلق, أمر, كبر, نظر verified); Tafsir ✅ (Ibn Kathir verbatim: "this excuse is worse than the crime itself")
+**Entities tagged:** shaytan (primary), adam (secondary)
+**Path tags:** `path:the-loop`, `path:what-youre-worth`
+**Analogies used:**
+- Iltifat (We → I shift): like going from a board room decision to a father speaking face-to-face at the dinner table
+- Form V *tatakabbara* (puff yourself up): bullfrog inflating its throat — action performed, not state inherent
+- *tatakabbara* vs *al-ṣāghirīn*: inflater vs deflated — morphological antonyms placed side by side
+- Form IV causative *anẓirnī*: like English *see* → *show* (make-someone-see); Iblis asks in elevated causative grammar
+- Decision-before-reason: like a person who's already chosen to quit then finds reasons after
+**Complementary to existing "Iblis Across Seven Surahs" article** (cross-surah distributed portrait) — this zooms IN on one scene where the other zooms OUT
+
+---
+
+## Session Log — 2026-04-20 (Story Article: Talut + River Test)
+
+**Article:** "The River That Decided the Battle" — single-scene deep dive on Al-Baqarah 2:249 (Talut's river test, the three filters, Dawud's compressed victory)
+**URL:** https://ayahguide.com/posts/talut-river-test-baqarah-249
+**Skill:** `story-narrative-pipeline` (first live test — Opus)
+**Word count:** 1,776 words (~9 min read)
+**Voice:** Dillard, plainer register (post-feedback: mix eloquence with simplicity, explain via analogies, no flowery prose)
+**Vertical axis:** Allah performing discrimination before the battle — the Quran showing that victories are decided at the filter, not the fight
+**Tadabbur source:** Mined existing `content/tadabbur/002-al-baqarah/ayahs-246-252.md` (per skill rule: never regenerate if exists)
+**Validation:** Morphology 4/4 ✅ (roots فصل, غرف, طوق, لقي verified via Quranic Arabic Corpus); Tafsir ✅ (Ibn Kathir + al-Muyazssar confirm discrimination-of-believer-from-hypocrite); Arabic: partial-ayah quotes don't match full-ayah DB lookup (known workflow gap, documented in skill)
+**Entities tagged:** dawud (primary), musa, harun (secondary). Talut and Jalut don't exist as entities yet — candidates for future hub creation.
+**Path tags (interim, in `tags[]`):** `path:the-unpopular-position`, `path:releasing-what-you-cant-control`
+**Analogies used to explain Arabic grammar accessibly:**
+- *shariba → yaṭʿam*: like "no food" → "no nibbling"
+- *ightarafa* (scoop-for-yourself): like English *eat* vs *feed yourself*
+- *ṭāqa*: yoke on an animal's neck — the outer limit of what it can pull
+- *yaẓunnūna* flipping meaning: like English "literally" meaning its opposite
+- *mulāqū* (mutual meeting): like bumping into someone vs. meeting them at an appointment
+**Skill refinements during test:**
+1. Added rule: never regenerate tadabbur if one exists — mine the existing file
+2. Documented partial-ayah blockquote validator limitation
+3. Confirmed `data-ayah="S:A"` attribute format on arabic `<p>` is the clean tag form for Arabic validator
+
+---
+
+## Session Log — 2026-04-20 (Opus Tadabbur: Fussilat 41:33)
+
+**Ayah:** 41:33 — *wa-man aḥsanu qawlan mim-man daʿā ilā-llāhi wa-ʿamila ṣāliḥan wa-qāla innanī mina-l-muslimīn* — "And who is better in speech than one who calls to Allah, and does righteous work, and says: 'Indeed, I am one of those who have surrendered.'" Natural successor to 3:31-32 (Mahabbah): if that ayah made love operational as *ittibāʿ*, this ayah makes *ittibāʿ* operational as *daʿwah* — but *daʿwah* shaped to refuse the pedestal.
+**File:** `content/tadabbur/041-fussilat/ayah-033.md`
+**Title:** "And Who Is Better in Speech? The Rhetorical Superlative and the Caller Who Refuses the Pedestal"
+**Estimated duration:** 48-55 minutes
+**Anchor points:** (1) *al-istifhām al-inkārī* — the rhetorical interrogative *wa-man aḥsanu* that functions as absolute superlative; the *aḥsanu* elative + *qawlan* tamyīz (accusative of specification) narrows the ranking specifically to the dimension of speech; admits no answer but "no one," (2) three Form I perfect verbs in a row — *daʿā / ʿamila / qāla* — deliberately plain morphology (no Form II intensification, no Form IV causation, no Form V reflexivity) delivering the most exalted speech-ranking in the Quran; sandwich architecture: outer speech about Allah → private work → inner speech about self-belonging; absent specifications (no named audience, no specified righteous-work category, no reward mentioned) strip prestige markers so the ranking is structural not scalar, (3) *innanī mina-l-muslimīn* — the extended emphatic form *innanī* (three consecutive nūns including doubled nūn al-wiqāyah, maximum possible insistence on "I") combined with the lateral preposition *min* and the Form IV active-causative participle (*muslim* = one who actively causes himself to surrender, ongoing not settled); the strongest possible "I" used for maximally lateral self-placement — anti-pedestal grammar.
+**Themes:** (1) The hollowing of speech in the attention-economy — "call" and "raise awareness" as marketing terms; speech cut loose from the body that used to hold it down; diagnosis: without the middle *ʿamila* verb, outward call is weightless content not speech; practical ratio rule — hidden work at least equal to visible speech, (2) The refusal of the pedestal — AA sponsor analogy as master key; the drift in religious communities from teachers being *ahead of* students to being *above* them; serious seekers quietly disengage when speech comes from elevation rather than shared condition; the closing *innanī mina-l-muslimīn* as structural load-bearing wall that keeps the caller inside the called community.
+**Composite sketch handled:** Ibn Kathir's explicit confirmation that *wa-ʿamila ṣāliḥan wa-qāla innanī mina-l-muslimīn* means the caller "himself follows that which he says" (integrity test) — Ibn Kathir verbatim. Al-Tabari's reading that the 41:33 caller is continuous with the 41:30 steadfast one (*thumma-staqāmū* → *daʿā ilā-llāh*) — reading adopted as the inter-surah strand. Al-Muyassar's gloss *al-muslimīn al-munqādīn* confirming the Form IV active-causative participle reading. Classical ikhtilaf on primary addressee (Prophet / muezzins / every caller) handled as expansive composite rather than adjudicated multiple-choice.
+**Architecture:** The ayah's own shape IS a three-verb sandwich: outer (daʿā — about Allah) → private (ʿamila — quiet work) → inner (qāla — about self-belonging). Asymmetry: first "outer" directs voice to others with Allah as content; third "inner" directs voice to self with community-belonging as content. The rhetorical question frame makes the listener the judge and forces the superlative answer. The emphatic *innanī* maximally insists on self precisely so it can maximally bind self to the plural community via *min*. The form of the ayah matches its content — Quranic speech that ranks the anti-pedestal speech refuses every rhetorical pedestal available to it.
+**Validation:** Arabic ✅ (1/1 matched, normalized diacritics-only differences), Morphology ✅ (8/8 verified against Quranic Arabic Corpus — roots حسن, قول, دعو, أله, عمل, صلح, قول, سلم all confirmed; 18 unverified items are contextual inline root mentions with no specific ayah reference, expected), Tafsir ✅ (Ibn Kathir confirms integrity-test reading of middle verb VERBATIM; al-Tabari confirms 41:30→41:33 continuity VERBATIM; al-Muyassar confirms Form IV active-causative reading via *al-munqādīn* paraphrase).
+**Tafsir report:** `content/tadabbur/041-fussilat/tafsir-report-033.md`
+**Queue note:** 41:33 was on the "strong remaining Opus candidates" list from pieces #72, #73, #74 session logs. Not in pending-ayahs.txt (queue in Ta-Ha). Thematically complementary to the Mahabbah ayah (3:31-32) completed 2026-04-19 — the ittibāʿ→daʿwah arc. Hub relevance: **Dawah** (foundational verse) + potential Mahabbah hub entry (daʿwah as enacted love).
+**Status:** validated: true
+
+---
+
+## Session Log — 2026-04-19 (Opus Tadabbur: Aal Imran 3:31-32)
+
+**Ayahs:** 3:31-32 — the famous *āyat al-miḥnah* (the "test-verse") and its paired obedience ayah. "Say: if you love Allah, follow me — Allah will love you and forgive your sins" immediately followed by "Say: obey Allah and the Messenger; if they turn away, Allah does not love the coverers." Revealed in the context of the Najran delegation's claim of extreme love for ʿĪsā; universalized as the test of every claim to love Allah.
+**File:** `content/tadabbur/003-aal-imran/ayahs-031-032.md`
+**Title:** "The Test of the Claim to Love"
+**Estimated duration:** 55-65 minutes
+**Anchor points:** (1) `in kuntum tuḥibbūna` — *kāna + mudariʿ* forces the claim into the perfect-continuous, testing whether love is a standing fact not just a flicker, (2) root ح ب ب and *ḥabb* = seed/grain — love as agricultural, buried, slow-fruiting; the crop proves the seed was alive, (3) Form VIII *ittabiʿ* from root ت ب ع — *iftaʿala* as reflexive self-binding: *make yourself his follower* vs. passive *tabiʿa*; contrasted with Form I *tabiʿa* to show the depth of commitment asked, (4) the inversion of love's direction: the human begins with *I love Him* and Allah ends with *He loves you* — Allah's responsive love (*yuḥbibkumu*) as the real prize, (5) Form V *tawallaw* from root و ل ي — same root as *walī* (intimate protector), reflexive self-rotation of the back; the ayah could have used *aʿraḍū* but chose the reflexive to locate the moral act in the self, (6) ك ف ر closing of 3:32 — *kāfirīn* (coverers) identified with those who *turned themselves*, so the turning IS the covering, (7) architectural asymmetry: 3:31 closes with *Ghafūrun Raḥīm* at the level of Divine essence; 3:32 closes with *lā yuḥibbu* at the level of responsive action — punishment pointedly not named, door not sealed.
+**Themes:** (1) The age of the easy claim — modern attention-economy has hollowed out the word *love* into a performance that requires nothing; the ayah restores it to an open account denominated in *ittibāʿ*; marriage analogy used as landing pad, (2) The withdrawal that is not a door-closing — Allah's love as responsive to posture; the verdict in 3:32 is posture-specific and reversible; every small re-rotation is received immediately; parent-child analogy used to show the coexistence of essential mercy + responsive withholding.
+**Composite sketch handled:** Ibn Taymiyya (Form IV *yuḥbibkum* as originating love) vs. al-Rāzī (as manifested love) — presented as two angles on the same truth: prior Divine love enables *ittibāʿ*, and announced Divine love confirms it.
+**Validation:** Arabic ✅ (2/2 matched, normalized diacritics-only differences), Morphology ✅ (42/42 verified against Quranic Arabic Corpus — all roots and POS confirmed; 7 unverified items are contextual inline root mentions with no specific ayah reference, expected), Tafsir ✅ (Ibn Kathir confirms "ayat al-miḥnah" framing and *ittibāʿ* of shariʿah; al-Tabari confirms the "we love our Lord" occasion-of-revelation and Najran addressees for 3:32; al-Muyassar confirms *ḥaqq al-ittibāʿ* as the standard).
+**Tafsir report:** `content/tadabbur/003-aal-imran/tafsir-report-031-032.md`
+**Queue note:** 3:31-32 were not in `pending-ayahs.txt` (Opus session — dense ayah chosen outside queue order per division-of-labor protocol). No queue removal needed. Hub relevance: **Mahabbah** (central verse for the hub queue).
+**Status:** validated: true
+
+---
+
 ## Community Signals — 2026-04-15
 
 - **Muhasabah hub** — 4th consecutive session, now confirmed from both search demand and entity table gap. Highest-priority content item.
@@ -9141,6 +9236,7 @@ Topics surfacing from web research (Reddit inaccessible this run; signals from G
 ## Session Log
 | Date | Entity | Articles Written | Notes |
 |------|--------|-----------------|-------|
+| 2026-04-19 | aal-imran (tadabbur) | 2 ayah records | 3:31-32 — the *āyat al-miḥnah* / test-verse pair. ḥ-b-b as seed/grain, Form VIII *ittabiʿ* as reflexive self-binding to the Prophet's way, inversion of who-loves-whom-first, Form V *tawallaw* as deliberate self-rotation, and the closing asymmetry: lavish reward cascade (love + forgiveness + *Ghafūrun Raḥīm*) vs. single behavioral verdict (*lā yuḥibbu al-kāfirīn*) with no punishment named — a map rather than a threat. All 3 validators passed. ✅ |
 | 2026-04-16 | ta-ha (tadabbur) | 3 ayah records | 20:22-24 — Musa's hand is drawn inward and emerges white without harm as another sign; Allah shows him great signs, then sends him to Pharaoh because he has transgressed ✅ |
 | 2026-04-13 | al-kahf (tadabbur) | 2 ayah records | 18:107-108 — believers with righteous deeds receive al-Firdaws as hospitality, abiding forever with no desire for transfer ✅ |
 | 2026-04-13 | al-kahf (tadabbur) | 4 ayah records | 18:103-106 — the greatest losers in deeds: striving gone astray while assumed excellent, deeds voided through denial of signs/meeting, no weight established, Jahannam for disbelief and mockery ✅ |
@@ -9996,7 +10092,7 @@ These would make extraordinary hub pages — pure concept exploration with root-
 
 ### Mahabbah — AYAH QUEUE
 - [ ] 5:54 (He loves them and they love Him)
-- [ ] 3:31 (follow me and Allah will love you)
+- [x] 3:31 (follow me and Allah will love you) — ayah-level tadabbur done 2026-04-19 (paired with 3:32)
 - [ ] 2:165 (those who love Allah as He deserves to be loved)
 - [ ] 19:96 (Allah places wudd for those who believe and do right)
 - [ ] 85:14 (He is Al-Wadud — the intensely affectionate)

@@ -249,25 +249,25 @@ export default function ContestedVersesPage() {
               <VerseCard
                 verseRef="2:188-191"
                 title="Combat permission and its boundary"
-                href="/surahs/al-baqarah"
+                href="/posts/002-188-191"
                 summary="Form III qātilū as relational combat, the lā taʿtadū boundary inside the permission, fitnah as testing-by-fire, the Sacred Mosque exception."
               />
               <VerseCard
                 verseRef="2:217-220"
                 title="Fighting in the sacred month + progressive prohibition of khamr"
-                href="/surahs/al-baqarah"
+                href="/posts/002-217-220"
                 summary="Fitnah weighed against qatl, the four-stage Quranic prohibition of alcohol, honest acknowledgment of benefits and greater harm."
               />
               <VerseCard
                 verseRef="2:225-232"
                 title="Divorce legislation and the 'degree' verse"
-                href="/surahs/al-baqarah"
+                href="/posts/002-225-232"
                 summary="Two revocable divorces, the bi-l-maʿrūf principle, mithlu as reciprocal rights, darajah as added responsibility (Ibn ʿAbbās read)."
               />
               <VerseCard
                 verseRef="2:282-286"
                 title="The longest ayah + the female-testimony clause"
-                href="/surahs/al-baqarah"
+                href="/posts/002-282-286"
                 summary="The debt-contract genre, the ayah's own rationale, 24:6-9 li'ān as counter-evidence, women as ḥadīth transmitters."
               />
               <VerseCard
@@ -279,37 +279,37 @@ export default function ContestedVersesPage() {
               <VerseCard
                 verseRef="4:34"
                 title="Qiwāmah — authority as burden, not privilege"
-                href="/surahs/an-nisa"
+                href="/posts/004-034"
                 summary="Qawwāmūn as conditional standing, the classical ikhtilāf on qānitāt, bimā ḥafiẓa Allāh, the 'Aliyy Kabīr closing warning."
               />
               <VerseCard
                 verseRef="5:32"
                 title="Whoever kills one soul"
-                href="/surahs/al-maidah"
+                href="/posts/005-032"
                 summary="The ka-annamā equation, the Children-of-Israel framing as universal binding, the kathīran coda as moral precision."
               />
               <VerseCard
                 verseRef="5:33-34"
                 title="The ḥirābah verse — Islam's law against terrorism"
-                href="/surahs/al-maidah"
+                href="/posts/005-033-034"
                 summary="Named as ḥirābah, four-school graduated reading of the punishments, the Uraynah asbab al-nuzul, modern-misuse guardrail."
               />
               <VerseCard
                 verseRef="5:38-39"
                 title="The theft ḥadd and the conditions that bound it"
-                href="/surahs/al-maidah"
+                href="/posts/005-038-039"
                 summary="Niṣāb threshold, ḥirz (secured custody), capacity, two-witness standard, doubt-averts-ḥudūd, ʿUmar's famine-year suspension."
               />
               <VerseCard
                 verseRef="5:51-53"
                 title="Interfaith alliance, read with 5:5 and 60:8"
-                href="/surahs/al-maidah"
+                href="/posts/005-051-053"
                 summary="ʿAbdullāh ibn Ubayy asbab, walāyah as patronal political alliance not social friendship, the controlling cross-reference in 60:8."
               />
               <VerseCard
                 verseRef="7:80-84"
                 title="The Lut passage and the inversion of purity"
-                href="/surahs/al-araf"
+                href="/posts/007-080-084"
                 summary="Form V yatatahharūn as effortful pursuit of purity, the sociological inversion of virtue, classical exegetical framing."
               />
             </div>

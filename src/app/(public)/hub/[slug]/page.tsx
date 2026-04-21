@@ -177,12 +177,27 @@ export default async function HubPage({ params }: Props) {
     },
   }
 
+  const breadcrumbJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: CANONICAL_URL },
+      { '@type': 'ListItem', position: 2, name: 'Entities', item: `${CANONICAL_URL}/hub` },
+      { '@type': 'ListItem', position: 3, name: entity.name_translit, item: pageUrl },
+    ],
+  }
+
   return (
     <>
     <script
       suppressHydrationWarning
       type="application/ld+json"
       dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+    />
+    <script
+      suppressHydrationWarning
+      type="application/ld+json"
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
     />
     <div className="min-h-screen bg-white dark:bg-navy-dark text-navy dark:text-cream">
       {/* ── Hero ───────────────────────────────────────────────────────────── */}

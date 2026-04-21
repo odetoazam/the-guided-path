@@ -12,6 +12,7 @@ import type { Entity, EntityCategory } from '@/types'
 import { ArticleContent } from '@/components/ArticleContent'
 import { PostActions } from '@/components/PostActions'
 import { ReflectionEditor } from '@/components/ReflectionEditor'
+import { SelectionQuoteShare } from '@/components/share/SelectionQuoteShare'
 
 interface Props {
   params: Promise<{ slug: string }>
@@ -281,7 +282,9 @@ export default async function PostPage({ params }: Props) {
     '@type': 'BlogPosting',
     headline: post.title,
     description,
-    image: post.featured_image || undefined,
+    image: post.featured_image
+      ? { '@type': 'ImageObject', url: post.featured_image, width: 1200, height: 630 }
+      : { '@type': 'ImageObject', url: `${CANONICAL_URL}/api/og/quote?title=${encodeURIComponent(post.title)}`, width: 1200, height: 630 },
     url: postUrl,
     datePublished: post.published_at,
     dateModified: post.updated_at,
@@ -294,6 +297,7 @@ export default async function PostPage({ params }: Props) {
       '@type': 'Organization',
       name: SITE_NAME,
       url: CANONICAL_URL,
+      logo: { '@type': 'ImageObject', url: `${CANONICAL_URL}/logo.png` },
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
@@ -301,6 +305,10 @@ export default async function PostPage({ params }: Props) {
     },
     keywords: post.tags?.join(', '),
     inLanguage: 'en-US',
+    speakable: {
+      '@type': 'SpeakableSpecification',
+      cssSelector: ['h1', 'h2', '.prose-lead'],
+    },
   }
 
   const breadcrumbJsonLd = {
@@ -316,8 +324,8 @@ export default async function PostPage({ params }: Props) {
       {
         '@type': 'ListItem',
         position: 2,
-        name: 'Posts',
-        item: `${CANONICAL_URL}/posts`,
+        name: 'Articles',
+        item: `${CANONICAL_URL}/articles`,
       },
       {
         '@type': 'ListItem',
@@ -344,7 +352,8 @@ export default async function PostPage({ params }: Props) {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
       />
 
-      <article className="mx-auto max-w-2xl px-5 py-12 sm:px-6 sm:py-16">
+      <article data-quote-share-root className="mx-auto max-w-2xl px-5 py-12 sm:px-6 sm:py-16">
+        <SelectionQuoteShare cite={`${post.title} — AyahGuide`} />
         {/* Back link */}
         <Link
           href="/articles"
@@ -433,6 +442,20 @@ export default async function PostPage({ params }: Props) {
             />
           </div>
         )}
+
+        {/* Tadabbur-vs-fatwa editorial note */}
+        <div className="mb-8 rounded-lg border border-white/[0.06] bg-white/[0.02] px-4 py-3 text-[11px] leading-relaxed text-zinc-500">
+          <span className="font-medium text-zinc-400">A note on reading.</span> This is a
+          tadabbur &mdash; a contemplative reflection. It is not a fatwā. Classical juridical
+          framing is cited where relevant; for rulings applicable to your situation, consult
+          a qualified scholar. See{' '}
+          <Link href="/methodology" className="text-[#C9A84C]/70 hover:text-[#C9A84C] underline-offset-2 hover:underline transition-colors">
+            our methodology
+          </Link>{' '}or{' '}
+          <Link href="/contested-verses" className="text-[#C9A84C]/70 hover:text-[#C9A84C] underline-offset-2 hover:underline transition-colors">
+            how we handle contested verses
+          </Link>.
+        </div>
 
         {/* Content */}
         <ArticleContent html={contentHtml} ayahGroundings={ayahGroundings} />

@@ -229,4 +229,68 @@ The hard part is never the technology — it's the content quality and validatio
 3. **After that:** AI companion, trained on the corpus, grounded in the graph
 4. **Eventually:** Social layer, community, B2B licensing, multilingual
 
+---
+
+## Guided Paths
+
+*Synthesized from conversation on 2026-04-19. A path is a thematic journey through Quranic content organized around a life season, psychological state, or question — not a topic category or a problem-solution match. The frame: what is someone going through when they open the Quran looking for something specific?*
+
+**The overarching positioning for psychology paths:**
+> *Pop psychology names what's happening to you. The Quran shows you what to do next — and it's harder, and more true.*
+
+AyahGuide's paths don't validate pop psychology vocabulary — they engage the same realities through a deeper, more complete framework. Ibrahim's response to his toxic father isn't "draw a boundary and heal." It's "I still love you and I'll still pray for you." That's not weaker. It's harder. And it's more human.
+
+### The Inner Life
+1. **What You're Worth** — status, ego, and the Iblis value system; what Islam says value actually comes from
+2. **The Loop** — rage, revenge, and why it never heals; why Iblis is still angry
+3. **When You Become Your Own Story** — narrative capture, "my truth," refusing evidence
+4. **Releasing What You Can't Control** — tawakkul as a practice, not a platitude
+5. **The Long Dark** — spiritual emptiness, depression, dryness; what the Quran says to the person who can't feel anything
+6. **The Way Back** — shame, guilt, and returning; for people who think they've gone too far
+
+### Relationships
+7. **What Love Actually Requires** — marriage, covenant, the hard parts; not romance
+8. **When Covenants Break** — divorce; grief, dignity, moving forward
+9. **Honoring Parents Who Are Hard to Honor** — difficult, absent, or toxic parents; the prophetic response vs. the therapy response
+10. **When Your Own People Fail You** — betrayal by family; Yusuf as the full arc
+11. **Raising Someone Who Isn't You** — parenting; Ibrahim and Ismail as the deepest case study
+12. **Being Known** — loneliness, belonging, the desire to be truly seen
+
+### Power & Society
+13. **Pharaoh's Playbook** — propaganda, gaslighting, institutional deception; how tyrants maintain power and how believers keep their clarity
+14. **The Unpopular Position** — speaking truth when it costs you; the prophets against their people
+15. **When the System Is Wrong** — oppression, injustice, and what the Quran arms you with
+16. **The Believer Against the Current** — living as a minority; holding your ground without bitterness
+
+### Meaning & Philosophy
+17. **The Question That Won't Go Away** — purpose, existence, why any of this matters
+18. **After the Dream Dies** — ideology, disillusionment, the person who believed in something that collapsed
+19. **The Long Way Back to Belief** — for the doubter, the questioner, the person rebuilding
+20. **What Happens Next** — death, akhirah, preparing not fearing
+
+### Character
+21. **Turning the Page** — forgiveness; what the Quran says you don't owe, and what you do
+22. **Who You Are When No One's Watching** — integrity, hypocrisy, the private self
+
+### Work & Mission
+23. **The Founder's Path** — entrepreneurship
+24. **The Weight of Authority** — leadership; what it costs, what it demands
+25. **When It Falls Apart** — failure, loss of a business or career; the Quranic arc through ruin
+
+### Freemium Strategy
+- **Free (3 paths):** Releasing What You Can't Control · The Long Dark · The Question That Won't Go Away — the 2am searches, widest audience
+- **Paid:** Everything else; psychology paths (The Loop, Pharaoh's Playbook, When Your Own People Fail You) are the upgrade driver — nobody else has these
+
+### Anchor Story → Path Mapping (key Quranic case studies per path)
+| Path | Primary Story / Entity |
+|---|---|
+| Pharaoh's Playbook | Musa + Fir'awn arc (Taha, Ash-Shu'ara, Al-A'raf, Al-Qasas) |
+| The Loop | Iblis refusal + rage (Al-Baqarah, Al-A'raf, Sad, Al-Hijr) |
+| When Your Own People Fail You | Yusuf + brothers (full Surah Yusuf) |
+| Honoring Parents Who Are Hard to Honor | Ibrahim + Azar; general Quranic commands |
+| Raising Someone Who Isn't You | Ibrahim + Ismail (As-Saffat, Al-Baqarah) |
+| What You're Worth | Iblis value system (status vs. contribution) |
+| The Unpopular Position | All prophets; the Believer of Pharaoh's Family (Ghafir) |
+| After the Dream Dies | Bani Isra'il disillusionment; golden calf aftermath |
+
 *Don't jump to the AI agent before the graph is dense enough. The agent is only as impressive as what it retrieves.*
