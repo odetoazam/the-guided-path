@@ -94,7 +94,9 @@ export function trackContentReturn(slug: string, contentType: string) {
 
 /** Fired on the first page of a new session — reveals where the guidance journey actually begins */
 export function trackGuidanceEntryPoint(path: string, referrer: string) {
-  posthog.capture('guidance_entry_point', { path, referrer })
+  const pathMatch = path.match(/^\/paths\/([^/]+)/)
+  const path_id = pathMatch ? pathMatch[1] : null
+  posthog.capture('guidance_entry_point', { path, referrer, path_id })
 }
 
 /** Fired after 3+ pages in a session — distinguishes active seekers from passive browsers */
