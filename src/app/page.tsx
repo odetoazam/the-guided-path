@@ -14,7 +14,7 @@ import type { Metadata } from 'next'
 const HOMEPAGE_OG_IMAGE = '/api/og/quote?text=A%20contemplative%20companion%20for%20reading%20the%20Qur%27an.&cite=AyahGuide'
 
 export const metadata: Metadata = {
-  description: 'Deep Quranic reflections (tadabbur) grounded in Ibn Kathir, al-Tabari, and classical Arabic morphology. 114 surahs, 160+ articles, and a complete glossary of Islamic terms.',
+  description: 'Deep Quranic reflections (tadabbur) grounded in Ibn Kathir, al-Tabari, and classical Arabic morphology. 114 surahs, 160+ articles.',
   alternates: {
     canonical: CANONICAL_URL,
   },

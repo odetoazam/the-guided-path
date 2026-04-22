@@ -1,5 +1,12 @@
 import type { Metadata } from 'next'
+import { Inter, Playfair_Display, Source_Serif_4, Amiri, Vazirmatn } from 'next/font/google'
 import { ThemeProvider } from 'next-themes'
+
+const inter = Inter({ subsets: ['latin'], variable: '--font-sans', display: 'swap' })
+const playfair = Playfair_Display({ subsets: ['latin'], variable: '--font-serif', display: 'swap', style: ['normal', 'italic'], weight: ['400', '500', '600', '700'] })
+const sourceSerif = Source_Serif_4({ subsets: ['latin'], variable: '--font-body', display: 'swap', style: ['normal', 'italic'], weight: ['300', '400', '500', '600'] })
+const amiri = Amiri({ subsets: ['arabic', 'latin'], variable: '--font-amiri', display: 'swap', weight: ['400', '700'], style: ['normal', 'italic'] })
+const vazirmatn = Vazirmatn({ subsets: ['arabic', 'latin'], variable: '--font-arabic', display: 'swap', weight: ['300', '400', '500', '600', '700'] })
 import { Toaster } from 'react-hot-toast'
 import { Analytics } from '@vercel/analytics/next'
 import { PostHogProvider } from '@/components/providers/posthog-provider'
@@ -62,7 +69,7 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <html lang="en" suppressHydrationWarning>
+    <html lang="en" suppressHydrationWarning className={`${inter.variable} ${playfair.variable} ${sourceSerif.variable} ${amiri.variable} ${vazirmatn.variable}`}>
       <body className="min-h-screen bg-white dark:bg-navy-dark text-navy dark:text-cream antialiased">
         <a
           href="#main-content"
