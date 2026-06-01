@@ -8,7 +8,6 @@ import { Clock, Calendar, ArrowLeft } from 'lucide-react'
 import Link from 'next/link'
 import type { Metadata } from 'next'
 import { CANONICAL_URL, SITE_NAME } from '@/lib/constants'
-import { getContestedFaqForSlug, buildFaqPageJsonLd } from '@/lib/contested-faqs'
 import type { Entity, EntityCategory } from '@/types'
 import { ArticleContent } from '@/components/ArticleContent'
 import { PostActions } from '@/components/PostActions'
@@ -340,13 +339,6 @@ export default async function PostPage({ params }: Props) {
   // Strip leading H1 from content_html to avoid duplicate H1
   const contentHtml = post.content_html?.replace(/^<h1[^>]*>.*?<\/h1>\s*/i, '') || ''
 
-  // If this post is a contested-verse treatment, emit a FAQPage node so the
-  // page becomes an AI-citable answer to the question people actually search.
-  const contestedFaq = getContestedFaqForSlug(slug)
-  const faqJsonLd = contestedFaq
-    ? { '@context': 'https://schema.org', ...buildFaqPageJsonLd([contestedFaq], `${postUrl}#faq`, CANONICAL_URL) }
-    : null
-
   return (
     <>
       <script
@@ -359,13 +351,6 @@ export default async function PostPage({ params }: Props) {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
       />
-      {faqJsonLd && (
-        <script
-          suppressHydrationWarning
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }}
-        />
-      )}
 
       <article data-quote-share-root className="mx-auto max-w-2xl px-5 py-12 sm:px-6 sm:py-16">
         <SelectionQuoteShare cite={`${post.title} — AyahGuide`} />
