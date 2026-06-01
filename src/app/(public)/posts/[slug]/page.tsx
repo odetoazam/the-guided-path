@@ -8,7 +8,7 @@ import { Clock, Calendar, ArrowLeft } from 'lucide-react'
 import Link from 'next/link'
 import type { Metadata } from 'next'
 import { CANONICAL_URL, SITE_NAME } from '@/lib/constants'
-import { getArticleFaqs, buildArticleFaqJsonLd } from '@/lib/article-faqs'
+import { extractFaqFromHtml, buildArticleFaqJsonLd } from '@/lib/article-faqs'
 import type { Entity, EntityCategory } from '@/types'
 import { ArticleContent } from '@/components/ArticleContent'
 import { PostActions } from '@/components/PostActions'
@@ -340,10 +340,11 @@ export default async function PostPage({ params }: Props) {
   // Strip leading H1 from content_html to avoid duplicate H1
   const contentHtml = post.content_html?.replace(/^<h1[^>]*>.*?<\/h1>\s*/i, '') || ''
 
-  // AEO layer: if this article has registered FAQ pairs, emit a FAQPage node so
-  // the page becomes an AI-citable answer to the questions people actually ask.
-  const articleFaqs = getArticleFaqs(slug)
-  const faqJsonLd = articleFaqs?.length
+  // AEO layer: if this article includes a visible FAQ section, auto-emit a
+  // FAQPage node so the page becomes an AI-citable answer to the questions
+  // people actually ask. Source = the article's own content, so it never drifts.
+  const articleFaqs = extractFaqFromHtml(post.content_html)
+  const faqJsonLd = articleFaqs.length
     ? buildArticleFaqJsonLd(articleFaqs, `${postUrl}#faq`)
     : null
 
