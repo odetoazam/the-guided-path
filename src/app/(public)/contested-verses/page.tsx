@@ -1,6 +1,7 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
 import { CANONICAL_URL, SITE_NAME } from '@/lib/constants'
+import { CONTESTED_FAQS, buildFaqPageJsonLd } from '@/lib/contested-faqs'
 
 const pageUrl = `${CANONICAL_URL}/contested-verses`
 
@@ -38,6 +39,7 @@ const jsonLd = {
       publisher: { '@type': 'Organization', name: SITE_NAME, url: CANONICAL_URL },
       inLanguage: 'en',
     },
+    buildFaqPageJsonLd(CONTESTED_FAQS, `${pageUrl}#faq`, CANONICAL_URL),
     {
       '@type': 'BreadcrumbList',
       itemListElement: [
