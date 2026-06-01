@@ -314,6 +314,12 @@ export default function ContestedVersesPage() {
                 href="/surahs/al-araf"
                 summary="Form V yatatahharūn as effortful pursuit of purity, the sociological inversion of virtue, classical exegetical framing."
               />
+              <VerseCard
+                verseRef="9:5"
+                title="The 'sword verse,' read in full"
+                href="/posts/quran-9-5-sword-verse-kill-the-unbelievers"
+                summary="The four-month amnesty before it (9:2), insalakha as the skin of protection that must fully shed, the repentance off-ramp (fa-in tābū), the asylum command after it (9:6), and the ghafūr raḥīm seal."
+              />
             </div>
           </section>
 
@@ -330,7 +336,6 @@ export default function ContestedVersesPage() {
               <li>&bull; 4:24 &mdash; <em>m&#257; malakat aym&#257;nukum</em></li>
               <li>&bull; 4:89 &mdash; apostasy/hypocrites, disentangling political treason from belief</li>
               <li>&bull; 8:12, 47:4 &mdash; battle verses, with their specific historical referents</li>
-              <li>&bull; 9:5 &mdash; the &ldquo;sword verse,&rdquo; with its specific context and the surrounding qualifications</li>
               <li>&bull; 9:29 &mdash; the <em>jizyah</em> verse, in its classical juridical frame</li>
               <li>&bull; 24:2, 24:4 &mdash; the <em>zin&#257;</em> &#7717;add and its paired protection against false accusation</li>
               <li>&bull; 24:31, 33:59 &mdash; modesty legislation</li>

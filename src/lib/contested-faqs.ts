@@ -76,6 +76,11 @@ export const CONTESTED_FAQS: ContestedFaq[] = [
     a: 'Form V yatatahharūn frames the passage as the effortful pursuit of purity inverted into a vice, and the classical exegetical tradition reads the account as a sociological inversion of virtue rather than a free-standing penal verse.',
     href: '/surahs/al-araf',
   },
+  {
+    q: 'Does the "sword verse" (9:5) command killing all non-believers?',
+    a: "No. 9:5 addresses the specific Arabian polytheists who had broken their treaties and stayed at war — not all non-believers, nor the People of the Book. It is preceded by a four-month amnesty (9:2), interrupted by a repentance clause that ends the fighting at once (fa-in tābū… fa-khallū sabīlahum), followed immediately by a command to grant asylum to any polytheist who seeks to hear God's word (9:6), and sealed with ghafūr raḥīm. Classical tafsir read it as bounded by these verses, never as open-ended.",
+    href: '/posts/quran-9-5-sword-verse-kill-the-unbelievers',
+  },
 ]
 
 /** Build a schema.org FAQPage node from the contested-verse FAQ entries. */
