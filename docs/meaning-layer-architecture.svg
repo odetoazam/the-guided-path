@@ -1,0 +1,82 @@
+<svg viewBox="0 0 760 600" xmlns="http://www.w3.org/2000/svg" font-family="ui-sans-serif, system-ui, sans-serif">
+  <title>AyahGuide meaning-layer architecture</title>
+  <desc>One tadabbur substrate supports a PageIndex spine and a knowledge-graph web, which feed lenses, which serve four engagement modes mapped to personas.</desc>
+
+  <defs>
+    <marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#8a8a8a"/>
+    </marker>
+  </defs>
+
+  <style>
+    .lbl   { font-size: 10px; letter-spacing: .18em; text-transform: uppercase; fill: #8a8a8a; }
+    .box   { fill: #ffffff; stroke: #d9d9d9; }
+    .gold  { fill: #f6efd8; stroke: #c9a84c; }
+    .t     { fill: #1a1a1a; font-size: 14px; font-weight: 600; }
+    .s     { fill: #8a8a8a; font-size: 11px; }
+    .link  { stroke: #b5b5b5; stroke-width: 1.4; fill: none; marker-end: url(#ar); }
+  </style>
+
+  <rect x="500" y="14" width="13" height="13" rx="3" class="gold"/>
+  <text x="519" y="25" class="s">build (overnight jobs)</text>
+  <rect x="660" y="14" width="13" height="13" rx="3" class="box"/>
+  <text x="679" y="25" class="s">already exists</text>
+
+  <text x="30" y="60" class="lbl">How people arrive</text>
+  <g>
+    <rect x="30"  y="72" width="160" height="52" rx="9" class="box"/>
+    <text x="110" y="94" text-anchor="middle" class="t">Situation</text>
+    <text x="110" y="112" text-anchor="middle" class="s">Sara · the parent</text>
+    <rect x="206" y="72" width="160" height="52" rx="9" class="box"/>
+    <text x="286" y="94" text-anchor="middle" class="t">Question</text>
+    <text x="286" y="112" text-anchor="middle" class="s">Amina · contested</text>
+    <rect x="382" y="72" width="160" height="52" rx="9" class="box"/>
+    <text x="462" y="94" text-anchor="middle" class="t">Concept / story</text>
+    <text x="462" y="112" text-anchor="middle" class="s">Yusuf · student</text>
+    <rect x="558" y="72" width="160" height="52" rx="9" class="box"/>
+    <text x="638" y="94" text-anchor="middle" class="t">Ayah</text>
+    <text x="638" y="112" text-anchor="middle" class="s">casual reader</text>
+  </g>
+
+  <path class="link" d="M110,210 L110,126"/>
+  <path class="link" d="M286,210 L286,126"/>
+  <path class="link" d="M462,210 L462,126"/>
+  <path class="link" d="M638,210 L638,126"/>
+
+  <text x="30" y="190" class="lbl">Lenses (entry indexes)</text>
+  <g>
+    <rect x="30"  y="210" width="160" height="48" rx="9" class="gold"/>
+    <text x="110" y="239" text-anchor="middle" class="t">Situation map</text>
+    <rect x="206" y="210" width="160" height="48" rx="9" class="box"/>
+    <text x="286" y="239" text-anchor="middle" class="t">Articles + AEO</text>
+    <rect x="382" y="210" width="160" height="48" rx="9" class="gold"/>
+    <text x="462" y="232" text-anchor="middle" class="t">Concept / story</text>
+    <text x="462" y="249" text-anchor="middle" class="s">index</text>
+    <rect x="558" y="210" width="160" height="48" rx="9" class="box"/>
+    <text x="638" y="232" text-anchor="middle" class="t">Exact-key</text>
+    <text x="638" y="249" text-anchor="middle" class="s">surah:ayah</text>
+  </g>
+
+  <path class="link" d="M250,360 C220,330 160,300 130,260"/>
+  <path class="link" d="M250,360 C260,320 290,300 300,260"/>
+  <path class="link" d="M510,360 C470,320 450,300 450,260"/>
+  <path class="link" d="M510,360 C560,330 610,300 640,260"/>
+
+  <text x="30" y="330" class="lbl">The brain</text>
+  <g>
+    <rect x="120" y="348" width="260" height="62" rx="10" class="gold"/>
+    <text x="250" y="374" text-anchor="middle" class="t">Spine — PageIndex tree</text>
+    <text x="250" y="394" text-anchor="middle" class="s">hierarchy · reasoning retrieval</text>
+    <rect x="408" y="348" width="260" height="62" rx="10" class="gold"/>
+    <text x="538" y="374" text-anchor="middle" class="t">Web — knowledge graph</text>
+    <text x="538" y="394" text-anchor="middle" class="s">munāsabāt · typed edges</text>
+  </g>
+
+  <path class="link" d="M320,500 C300,470 270,440 250,410"/>
+  <path class="link" d="M460,500 C490,470 515,440 538,410"/>
+
+  <text x="30" y="475" class="lbl">Substrate (already built)</text>
+  <rect x="120" y="494" width="548" height="64" rx="10" class="box"/>
+  <text x="394" y="522" text-anchor="middle" class="t">Tadabbur corpus</text>
+  <text x="394" y="542" text-anchor="middle" class="s">~6,039 ayahs · 773 tafsir reports · 276 articles</text>
+</svg>

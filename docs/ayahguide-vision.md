@@ -163,6 +163,116 @@ No vector DB. No arbitrary chunking. No opaque retrieval.
 
 ---
 
+## The Meaning Layer — Spine + Web + Lenses (Jun 2026)
+
+*This refines and extends the Retrieval Architecture section above. Diagram: `docs/meaning-layer-architecture.svg`. Execution specs: `scripts/EXTRACTION-PASS-SPEC.md`, `scripts/TAFSIR-REKEY-PLAN.md`.*
+
+**Corpus correction (Jun 20, 2026):** the tadabbur corpus is ~97% complete — **~6,039 / 6,236 ayahs across 109 surahs, with 773 tafsir reports.** The moat is effectively built. The voice companion was never content-blocked; it was layer-blocked. The remaining work is building the structure *on top of* the corpus, not more corpus.
+
+**The frame: not RAG — a meaning representation.** Vector embeddings flatten the Quran into similarity soup and lose context (Makki/Madani, narrative position, what precedes an ayah) that is itself meaning-bearing. Wrong for sacred text. Instead, one substrate (the corpus) carries three structured layers:
+
+1. **The Spine — PageIndex hierarchy.** Reasoning-based retrieval over the Quran's natural tree (surah → movement → passage → ayah → tadabbur layers). Navigate by reasoning, not similarity. *(Detailed in the Retrieval Architecture section above.)*
+2. **The Web — knowledge graph.** Typed directed edges the spine can't express: `EXEMPLIFIES`, `ECHOES` (ayah↔ayah resonance), `CONTRASTS_WITH`, `ANSWERS` (ayah→situation), `PART_OF`. **Ayah-to-ayah resonance is the computational form of ʿilm al-munāsabāt** — a classical Quranic science, not a Silicon Valley bolt-on. This is defensible *and* novel: a munāsabāt graph over the whole Quran, built from validated reflections, that nobody else has.
+3. **The Lenses — entry indexes.** `GROUP BY` over controlled-vocabulary tags: situation map, concept index, character/story index, exact-key ayah lookup.
+
+**Engagement modes are lenses over one brain — and they map to the personas:**
+
+| Mode | Persona | Status |
+|---|---|---|
+| Situation-first ("I feel like a hypocrite") | Sara, the parent | lens to build |
+| Question-first ("does the Quran condone violence?") | Amina + contested-search | **already served** by articles + AEO |
+| Concept / story-first ("everything on sabr") | Yusuf, the student | lens to build |
+| Ayah-first (reading, want depth) | casual reader | **already trivial** (exact-key) |
+
+People don't think in ayahs. The dominant mode is **situation-first**, and the contemplation differentiator vs. search is the *constellation*: a situation returns **2–3 resonant-but-distinct ayahs** (different angles, productive tension between them), not the single best match. The Web is what makes "and also consider…" principled instead of vibes.
+
+**The v1 voice experience: single-ayah, depth-first.** User brings/lands on one ayah → a calm voice grounded *only* in that ayah's tadabbur + tafsir reflects the meaning, surfaces the one morphological insight, asks a precise question, then listens. **Claude as the constrained brain** (STT → Claude + grounding → TTS), deliberately chosen over end-to-end realtime speech-to-speech: easier to keep on-script, which matters more than latency for sacred content. The unhurried pacing is a feature.
+
+**Build sequence (the voice UI is LAST, not first):**
+
+```
+re-key tafsir (content-verified index)        ← scripts/TAFSIR-REKEY-PLAN.md
+  → finish semantic-enrich (quality pass)
+    → meaning-layer extraction (tags+edges+summaries)   ← scripts/EXTRACTION-PASS-SPEC.md
+      → assemble spine + munāsabāt web
+        → choose which lens the voice exposes first
+          → build voice UI
+```
+
+**Discipline (non-negotiable):** the extraction pass generates *interpretive claims* ("this echoes that," "this answers grief"). The failure mode of popular Quran content is **forced connections**. Every edge must cite its basis in the tadabbur/tafsir; theological-contrast edges get tier-validation. The munāsabāt framing is the guardrail — a science with rules, not free association. Everything stays filesystem-first and human-inspectable. *(2026 tech scan refinement: spine + typed graph stay primary and provenance-guaranteeing; architect a **pluggable vector slot** to add later for thematic/serendipitous cross-surah discovery only — see `docs/ai-tech-landscape-2026.md`. Not a default, but the "living map of meaning" needs the unanticipated links a curated graph can't pre-author.)*
+
+---
+
+## The Theory of Guidance — the Guidance Loop
+
+*This is the conceptual spine of the whole product, grounded in Azam's book on hidayah (`memory: project_book_hidayah`). It reframes what the architecture above is FOR — and, crucially, it makes the theologically-faithful design and the safety-required design the same design.*
+
+**The book's thesis:** guidance (hidayah) is not knowledge transfer or moral instruction. It operates by reshaping the **determinate world** — the inner hierarchy of values, meanings, and motivations through which a person interprets reality. The same sign (āyah) speaks to one person and passes unnoticed by another; the external reality is constant, the *inner condition* (nafs-state) is what differs. **Guidance is not changing the world around us, but transforming the inner conditions through which the world is seen.**
+
+**The product consequence — guidance is not an answer the AI gives.** A realization is what happens *inside the person* when a sign meets a prepared inner condition. The companion therefore **cannot be the source of guidance** — and *must not pretend to be*. Its job is threefold: **prepare the heart to receive, place the right sign before it, and accompany the contemplation until a realization occurs.** Then get out of the way.
+
+This single principle resolves the category's #1 trust failure (see `docs/ai-tech-landscape-2026.md`): every discredited Islamic AI plays mufti — dispensing confident answers, collapsing ikhtilāf, fabricating rulings. Our theology *forbids* the AI from being the source of guidance, which is *exactly* the posture that makes it safe. **The faithful design and the trustworthy design are identical.** The companion introduces and accompanies; it never rules.
+
+### The Guidance Loop (the core interaction)
+
+1. **ARRIVE** — the person comes with a state or a situation ("I feel stuck," or simply "I want to sit with something"). The companion helps them name their inner condition. *(This is the book's "Preparing to Contemplate" — the receptive states: needy, grateful, in awe, curious, pure. It is also Hallow's ritual-opening insight: you don't drop someone cold into depth; you help them arrive.)*
+2. **PLACE** — the companion places a sign: an āyah, or a small **constellation** of 2–3, matched not only to the topic but to the inner condition. Grounded, cited, era/isnād-labeled, with the tadabbur depth available beneath. *(retrieval: spine + web + situation lens. The constellation beats a single answer precisely because guidance is not a lookup — different signs meet different conditions; offer a few and let the person's determinate world recognize the one that speaks.)*
+3. **CONTEMPLATE** — the companion walks the person *into* the āyah, unhurried (voice), asking precise questions, **never supplying the realization**, letting the determinate world do its work. *(voice companion, Socratic, deliberately slow.)*
+4. **REALIZE** — a shift occurs; the person sees their situation differently. The companion helps them *articulate* it. The realization is theirs, not the AI's.
+5. **CAPTURE & REMEMBER** — the realization is recorded (private, local-first/E2EE — these are the most intimate data a person has). Over time the companion maps the person's **guidance journey**: which signs have landed, what they keep circling, how their nafs-state shifts. *(the reflection-notes feature already exists; compounding longitudinal memory makes it a relationship that deepens over years.)*
+
+### Why this resolves the open "do we collect reflections?" question
+
+Yes — because **realizations are the product's actual output.** A contemplation that produces a realization and then forgets it has thrown away the only thing that compounds. The captured realizations *are* the longitudinal record of a person's guidance, and the moat memory research identifies (a proprietary, deepening user model). The privacy posture is therefore load-bearing, not optional: local-first, encrypted, the person owns it. Privacy is the product.
+
+### The architecture maps onto the loop exactly
+
+| Guidance Loop step | Architecture layer (already planned) |
+|---|---|
+| ARRIVE | onboarding / state-naming; "Preparing to Contemplate" |
+| PLACE | corpus (signs) + spine + munāsabāt web + situation lens |
+| CONTEMPLATE | voice companion (Deepgram → Claude → TTS, unhurried) |
+| REALIZE | Socratic prompting; the person articulates |
+| CAPTURE & REMEMBER | reflection notes + Graphiti temporal memory (local-first) |
+
+The pieces we've been building are not a Quran app with a chatbot bolted on. **They are a guidance instrument** — a system for placing the right sign before a prepared heart and accompanying the realization. The book is the *why*; the product is the *how*; and a third thing emerges that neither has alone: across consenting, anonymized use, a **phenomenology of guidance** — empirical insight into which signs meet which inner conditions. No one has ever had that data.
+
+---
+
+## Contemplation Pathways — the Loop is one shape, not the product (Jun 2026)
+
+*Output of the persona focus group (Amina, Khalil, Sara, Yusuf) run against the Guidance Loop. Key finding: contemplation is not one experience. Forcing every reader through one linear Arrive→Place→Contemplate→Realize→Remember loop serves ~1.5 of the pathways below and obstructs the rest.*
+
+**Contemplation takes ~7 distinct shapes**, varying on modality, goal, length, and direction:
+
+| # | Pathway | Trigger | Modality | Length | Served today | Loop serves? |
+|---|---|---|---|---|---|---|
+| 1 | **Crisis drop-in** | acute emotion, now | voice/audio, mobile | 2–5 min | ❌ | partly (ARRIVE too slow) |
+| 2 | **Deep study** | "understand this āyah" | **reading + sources** | 30–60 min | ✅ tadabbur pages | weakly (Loop is voice) |
+| 3 | **Defensive answer** | challenged on a verse | text, shareable | <1 min | ✅ articles/AEO | n/a |
+| 4 | **Ritual practice** | daily rhythm | mixed, recurring | 10–15 min | ❌ | partly (needs memory) |
+| 5 | **Free-roam map** | curiosity / serendipity | reading, graph-nav | open | ❌ | ❌ (Loop is linear) |
+| 6 | **Guided journey** | "walk me through X" | multi-session path | weeks | ✅ Guided Paths | n/a |
+| 7 | **Doubt / wrestling** | "is this even true?" | text or voice | varies | ❌ | ❌ |
+
+**Per-persona modality truth:**
+- **Amina** (crisis + ritual) — voice/audio *fits her*; the one persona the Loop is built for. But don't force nafs-state naming up front — meet her first.
+- **Khalil** (deep study + free-roam) — **reading, emphatically not voice**; wants Arabic, citations, footnotes visible. Socratic evasion infuriates him.
+- **Sara** (defensive answer) — text she can screenshot/forward; voice is useless (can't forward a conversation). Wants the answer now, reflection later — *separately*.
+- **Yusuf** (defensive + 2am doubt) — needs to switch between scholar mode (citable) and seeker mode (raw). One loop can't hold both.
+
+**The product shift this implies:** don't build "the contemplation product" as one voice loop. Build **contemplation primitives** and route by entry signal:
+`PLACE a sign` · `GO DEEP on a sign` (reading surface, exists) · `ROAM the web` (living map) · `CONTEMPLATE with a companion` (the voice Loop) · `CAPTURE a realization` (exists) · `REMEMBER the journey` (memory). The **Guidance Loop is the fullest composition** of these primitives (Amina's night-time ritual) — but Khalil composes them without voice, and Sara wants just one. **The Loop is a pathway, not the product.**
+
+**Tied to the three priorities:**
+- **Speed** — pathways #1 and #3 need a <10-second express path; the Loop's ARRIVE step kills speed. Gate "sit with me" behind opt-in; don't make it the front door.
+- **Accuracy** — pathways #2, #3, #7 need *visible provenance*; **voice is the wrong modality for accuracy** (no citation visible in audio). Keep text primary wherever accuracy is load-bearing; voice is for presence, not proof.
+- **UX / variety** — the real front door is a **mode router**: a panic search, a daily-ritual return, and a "roam the map" click must land in *different* pathways.
+
+**North-star reframe:** from "build the voice contemplation companion" → "**build the contemplation substrate; voice is one pathway over it.**" This hedges the one modality whose demand is unproven (per advisor panel) while still serving the persona who wants it.
+
+---
+
 ## Moat Framework
 
 | Layer | What It Is | When It Forms |

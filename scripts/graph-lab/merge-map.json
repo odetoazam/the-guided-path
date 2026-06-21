@@ -1,0 +1,3114 @@
+{
+"tawhid": [
+"tawhid",
+"theme"
+],
+"shirk": [
+"shirk",
+"theme"
+],
+"idolatry": [
+"shirk",
+"theme"
+],
+"false-gods": [
+"shirk",
+"theme"
+],
+"idols": [
+"shirk",
+"theme"
+],
+"taghut": [
+"shirk",
+"theme"
+],
+"ittikhadh": [
+"shirk",
+"theme"
+],
+"iman": [
+"iman",
+"theme"
+],
+"faith": [
+"iman",
+"theme"
+],
+"belief": [
+"iman",
+"theme"
+],
+"kufr": [
+"kufr",
+"theme"
+],
+"kufr-as-covering": [
+"kufr",
+"theme"
+],
+"disbelief": [
+"kufr",
+"theme"
+],
+"juhud": [
+"kufr",
+"theme"
+],
+"nifaq": [
+"nifaq",
+"theme"
+],
+"hypocrisy": [
+"nifaq",
+"theme"
+],
+"munafiqun": [
+"nifaq",
+"theme"
+],
+"taqwa": [
+"taqwa",
+"theme"
+],
+"taqwa-as-shield": [
+"taqwa",
+"theme"
+],
+"fear-of-allah": [
+"taqwa",
+"theme"
+],
+"ihsan": [
+"ihsan",
+"theme"
+],
+"ibadah": [
+"ibadah",
+"theme"
+],
+"worship": [
+"ibadah",
+"theme"
+],
+"ubudiyyah": [
+"ibadah",
+"theme"
+],
+"servanthood": [
+"ibadah",
+"theme"
+],
+"servitude": [
+"ibadah",
+"theme"
+],
+"cosmic-worship": [
+"ibadah",
+"theme"
+],
+"tawakkul": [
+"tawakkul",
+"theme"
+],
+"trust": [
+"tawakkul",
+"theme"
+],
+"dependence": [
+"tawakkul",
+"theme"
+],
+"dependency": [
+"tawakkul",
+"theme"
+],
+"tawbah": [
+"tawbah",
+"theme"
+],
+"tawba": [
+"tawbah",
+"theme"
+],
+"repentance": [
+"tawbah",
+"theme"
+],
+"inabah": [
+"tawbah",
+"theme"
+],
+"inaba": [
+"tawbah",
+"theme"
+],
+"ruju": [
+"tawbah",
+"theme"
+],
+"return-to-allah": [
+"tawbah",
+"theme"
+],
+"awwab": [
+"tawbah",
+"theme"
+],
+"dhikr": [
+"dhikr",
+"theme"
+],
+"remembrance": [
+"dhikr",
+"theme"
+],
+"tadhakkur": [
+"dhikr",
+"theme"
+],
+"dhikra": [
+"dhikr",
+"theme"
+],
+"dua": [
+"dua",
+"theme"
+],
+"supplication": [
+"dua",
+"theme"
+],
+"najwa": [
+"dua",
+"theme"
+],
+"prophetic-prayer": [
+"dua",
+"theme"
+],
+"tasbih": [
+"tasbih",
+"theme"
+],
+"hamd": [
+"tasbih",
+"theme"
+],
+"tabaraka": [
+"tasbih",
+"theme"
+],
+"istighfar": [
+"istighfar",
+"theme"
+],
+"ikhlas": [
+"ikhlas",
+"theme"
+],
+"sincerity": [
+"ikhlas",
+"theme"
+],
+"sidq": [
+"ikhlas",
+"theme"
+],
+"riya": [
+"ikhlas",
+"theme"
+],
+"tadabbur": [
+"tadabbur",
+"theme"
+],
+"tafakkur": [
+"tadabbur",
+"theme"
+],
+"reflection": [
+"tadabbur",
+"theme"
+],
+"fitrah": [
+"fitrah",
+"theme"
+],
+"fitra": [
+"fitrah",
+"theme"
+],
+"hidayah": [
+"hidayah",
+"theme"
+],
+"guidance": [
+"hidayah",
+"theme"
+],
+"huda": [
+"hidayah",
+"theme"
+],
+"hudan": [
+"hidayah",
+"theme"
+],
+"rushd": [
+"hidayah",
+"theme"
+],
+"straight-path": [
+"hidayah",
+"theme"
+],
+"sirat-mustaqim": [
+"hidayah",
+"theme"
+],
+"irat-mustaqim": [
+"hidayah",
+"theme"
+],
+"dalal": [
+"hidayah",
+"theme"
+],
+"misguidance": [
+"hidayah",
+"theme"
+],
+"revelation": [
+"revelation",
+"theme"
+],
+"wahy": [
+"revelation",
+"theme"
+],
+"tanzil": [
+"revelation",
+"theme"
+],
+"gradual-revelation": [
+"revelation",
+"theme"
+],
+"divine-speech": [
+"revelation",
+"theme"
+],
+"divine-address": [
+"revelation",
+"theme"
+],
+"divine-command": [
+"revelation",
+"theme"
+],
+"quran": [
+"quran",
+"theme"
+],
+"kitab": [
+"quran",
+"theme"
+],
+"scripture": [
+"quran",
+"theme"
+],
+"furqan": [
+"quran",
+"theme"
+],
+"criterion": [
+"quran",
+"theme"
+],
+"prophethood": [
+"prophethood",
+"theme"
+],
+"prophetic-mission": [
+"prophethood",
+"theme"
+],
+"risalah": [
+"prophethood",
+"theme"
+],
+"prophecy": [
+"prophethood",
+"theme"
+],
+"messengers": [
+"prophethood",
+"theme"
+],
+"rasul": [
+"prophethood",
+"theme"
+],
+"rusul": [
+"prophethood",
+"theme"
+],
+"prophets": [
+"prophethood",
+"theme"
+],
+"prophet": [
+"prophethood",
+"theme"
+],
+"prophetic-method": [
+"prophetic-method",
+"theme"
+],
+"prophetic-pattern": [
+"prophetic-method",
+"theme"
+],
+"dawah": [
+"prophetic-method",
+"theme"
+],
+"balagh": [
+"prophetic-method",
+"theme"
+],
+"indhar": [
+"prophetic-method",
+"theme"
+],
+"warning": [
+"prophetic-method",
+"theme"
+],
+"prophetic-confrontation": [
+"prophetic-method",
+"theme"
+],
+"prophetic-address": [
+"prophetic-method",
+"theme"
+],
+"covenant": [
+"covenant",
+"theme"
+],
+"mithaq": [
+"covenant",
+"theme"
+],
+"ahd": [
+"covenant",
+"theme"
+],
+"muqattaat": [
+"muqattaat",
+"theme"
+],
+"akhirah": [
+"akhirah",
+"theme"
+],
+"akhira": [
+"akhirah",
+"theme"
+],
+"hereafter": [
+"akhirah",
+"theme"
+],
+"afterlife": [
+"akhirah",
+"theme"
+],
+"the-last-day": [
+"akhirah",
+"theme"
+],
+"dunya-akhira": [
+"akhirah",
+"theme"
+],
+"resurrection": [
+"resurrection",
+"theme"
+],
+"bath": [
+"resurrection",
+"theme"
+],
+"nushur": [
+"resurrection",
+"theme"
+],
+"revival": [
+"resurrection",
+"theme"
+],
+"gathering": [
+"resurrection",
+"theme"
+],
+"hashr": [
+"resurrection",
+"theme"
+],
+"qiyamah": [
+"qiyamah",
+"theme"
+],
+"yawm-al-qiyamah": [
+"qiyamah",
+"theme"
+],
+"day-of-judgment": [
+"qiyamah",
+"theme"
+],
+"judgment-day": [
+"qiyamah",
+"theme"
+],
+"the-hour": [
+"qiyamah",
+"theme"
+],
+"hour": [
+"qiyamah",
+"theme"
+],
+"yawm-al-din": [
+"qiyamah",
+"theme"
+],
+"yawm-al-fasl": [
+"qiyamah",
+"theme"
+],
+"the-day": [
+"qiyamah",
+"theme"
+],
+"accountability": [
+"accountability",
+"theme"
+],
+"hisab": [
+"accountability",
+"theme"
+],
+"reckoning": [
+"accountability",
+"theme"
+],
+"mizan": [
+"accountability",
+"theme"
+],
+"scale": [
+"accountability",
+"theme"
+],
+"the-record": [
+"accountability",
+"theme"
+],
+"individual-accountability": [
+"accountability",
+"theme"
+],
+"self-accountability": [
+"accountability",
+"theme"
+],
+"collective-responsibility": [
+"accountability",
+"theme"
+],
+"individual-responsibility": [
+"accountability",
+"theme"
+],
+"responsibility": [
+"accountability",
+"theme"
+],
+"judgment": [
+"judgment",
+"theme"
+],
+"divine-judgment": [
+"judgment",
+"theme"
+],
+"recompense": [
+"judgment",
+"theme"
+],
+"jaza": [
+"judgment",
+"theme"
+],
+"jannah": [
+"jannah",
+"theme"
+],
+"paradise": [
+"jannah",
+"theme"
+],
+"gardens": [
+"jannah",
+"theme"
+],
+"jahannam": [
+"jahannam",
+"theme"
+],
+"hellfire": [
+"jahannam",
+"theme"
+],
+"hell": [
+"jahannam",
+"theme"
+],
+"fire": [
+"jahannam",
+"theme"
+],
+"barzakh": [
+"barzakh",
+"theme"
+],
+"qadar": [
+"qadar",
+"theme"
+],
+"qadr": [
+"qadar",
+"theme"
+],
+"divine-decree": [
+"qadar",
+"theme"
+],
+"decree": [
+"qadar",
+"theme"
+],
+"taqdir": [
+"qadar",
+"theme"
+],
+"divine-will": [
+"qadar",
+"theme"
+],
+"mashiah": [
+"qadar",
+"theme"
+],
+"iradah": [
+"qadar",
+"theme"
+],
+"divine-pattern": [
+"qadar",
+"theme"
+],
+"sunnat-allah": [
+"qadar",
+"theme"
+],
+"divine-timing": [
+"qadar",
+"theme"
+],
+"ajal": [
+"qadar",
+"theme"
+],
+"ajal-musamma": [
+"qadar",
+"theme"
+],
+"appointed-term": [
+"qadar",
+"theme"
+],
+"divine-promise": [
+"qadar",
+"theme"
+],
+"divine-pledge": [
+"qadar",
+"theme"
+],
+"divine-justice": [
+"divine-justice",
+"theme"
+],
+"justice": [
+"divine-justice",
+"theme"
+],
+"adl": [
+"divine-justice",
+"theme"
+],
+"qist": [
+"divine-justice",
+"theme"
+],
+"mercy-and-justice": [
+"divine-justice",
+"theme"
+],
+"divine-mercy": [
+"divine-mercy",
+"theme"
+],
+"mercy": [
+"divine-mercy",
+"theme"
+],
+"rahmah": [
+"divine-mercy",
+"theme"
+],
+"rahma": [
+"divine-mercy",
+"theme"
+],
+"hidden-mercy": [
+"divine-mercy",
+"theme"
+],
+"warning-as-mercy": [
+"divine-mercy",
+"theme"
+],
+"divine-grace": [
+"divine-mercy",
+"theme"
+],
+"grace": [
+"divine-mercy",
+"theme"
+],
+"fadl": [
+"divine-mercy",
+"theme"
+],
+"divine-favor": [
+"divine-mercy",
+"theme"
+],
+"divine-favors": [
+"divine-mercy",
+"theme"
+],
+"nimah": [
+"divine-mercy",
+"theme"
+],
+"nima": [
+"divine-mercy",
+"theme"
+],
+"ala": [
+"divine-mercy",
+"theme"
+],
+"ala-favors": [
+"divine-mercy",
+"theme"
+],
+"barakah": [
+"divine-mercy",
+"theme"
+],
+"blessing": [
+"divine-mercy",
+"theme"
+],
+"blessings": [
+"divine-mercy",
+"theme"
+],
+"free-will": [
+"free-will",
+"theme"
+],
+"agency": [
+"free-will",
+"theme"
+],
+"kasb": [
+"free-will",
+"theme"
+],
+"choice": [
+"free-will",
+"theme"
+],
+"divine-testing": [
+"divine-testing",
+"theme"
+],
+"trial": [
+"divine-testing",
+"theme"
+],
+"test": [
+"divine-testing",
+"theme"
+],
+"testing": [
+"divine-testing",
+"theme"
+],
+"ibtila": [
+"divine-testing",
+"theme"
+],
+"bala": [
+"divine-testing",
+"theme"
+],
+"fitnah": [
+"divine-testing",
+"theme"
+],
+"fitna": [
+"divine-testing",
+"theme"
+],
+"hardship": [
+"divine-testing",
+"theme"
+],
+"affliction": [
+"divine-testing",
+"theme"
+],
+"rizq": [
+"rizq",
+"theme"
+],
+"provision": [
+"rizq",
+"theme"
+],
+"sustenance": [
+"rizq",
+"theme"
+],
+"divine-provision": [
+"rizq",
+"theme"
+],
+"divine-economy": [
+"rizq",
+"theme"
+],
+"divine-sustenance": [
+"rizq",
+"theme"
+],
+"divine-pedagogy": [
+"divine-pedagogy",
+"theme"
+],
+"divine-irony": [
+"divine-pedagogy",
+"theme"
+],
+"divine-reversal": [
+"divine-pedagogy",
+"theme"
+],
+"istidraj": [
+"divine-pedagogy",
+"theme"
+],
+"respite": [
+"divine-pedagogy",
+"theme"
+],
+"gratitude": [
+"gratitude",
+"theme"
+],
+"shukr": [
+"gratitude",
+"theme"
+],
+"ingratitude": [
+"gratitude",
+"theme"
+],
+"kufr-as-ingratitude": [
+"gratitude",
+"theme"
+],
+"sabr": [
+"sabr",
+"theme"
+],
+"patience": [
+"sabr",
+"theme"
+],
+"steadfastness": [
+"sabr",
+"theme"
+],
+"perseverance": [
+"sabr",
+"theme"
+],
+"thabat": [
+"sabr",
+"theme"
+],
+"firmness": [
+"sabr",
+"theme"
+],
+"istiqamah": [
+"sabr",
+"theme"
+],
+"istiqama": [
+"sabr",
+"theme"
+],
+"knowledge": [
+"knowledge",
+"theme"
+],
+"ilm": [
+"knowledge",
+"theme"
+],
+"knowledge-of-the-unseen": [
+"knowledge",
+"theme"
+],
+"epistemology": [
+"knowledge",
+"theme"
+],
+"epistemic-humility": [
+"knowledge",
+"theme"
+],
+"discernment": [
+"knowledge",
+"theme"
+],
+"wisdom": [
+"wisdom",
+"theme"
+],
+"hikmah": [
+"wisdom",
+"theme"
+],
+"divine-wisdom": [
+"wisdom",
+"theme"
+],
+"law-and-ethics": [
+"law-and-ethics",
+"theme"
+],
+"fiqh": [
+"law-and-ethics",
+"theme"
+],
+"hukm": [
+"law-and-ethics",
+"theme"
+],
+"hudud": [
+"law-and-ethics",
+"theme"
+],
+"halal": [
+"law-and-ethics",
+"theme"
+],
+"haram": [
+"law-and-ethics",
+"theme"
+],
+"boundaries": [
+"law-and-ethics",
+"theme"
+],
+"taklif": [
+"law-and-ethics",
+"theme"
+],
+"adab": [
+"law-and-ethics",
+"theme"
+],
+"akhlaq": [
+"law-and-ethics",
+"theme"
+],
+"character": [
+"law-and-ethics",
+"theme"
+],
+"speech-ethics": [
+"law-and-ethics",
+"theme"
+],
+"modesty": [
+"law-and-ethics",
+"theme"
+],
+"chastity": [
+"law-and-ethics",
+"theme"
+],
+"social-justice": [
+"social-justice",
+"theme"
+],
+"oppression": [
+"social-justice",
+"theme"
+],
+"zulm": [
+"social-justice",
+"theme"
+],
+"dhulm": [
+"social-justice",
+"theme"
+],
+"tyranny": [
+"social-justice",
+"theme"
+],
+"tughyan": [
+"social-justice",
+"theme"
+],
+"baghy": [
+"social-justice",
+"theme"
+],
+"fasad": [
+"social-justice",
+"theme"
+],
+"corruption": [
+"social-justice",
+"theme"
+],
+"wrongdoing": [
+"social-justice",
+"theme"
+],
+"transgression": [
+"social-justice",
+"theme"
+],
+"charity": [
+"charity",
+"theme"
+],
+"infaq": [
+"charity",
+"theme"
+],
+"sadaqah": [
+"charity",
+"theme"
+],
+"zakat": [
+"charity",
+"theme"
+],
+"zakah": [
+"charity",
+"theme"
+],
+"spending": [
+"charity",
+"theme"
+],
+"generosity": [
+"charity",
+"theme"
+],
+"qard-hasan": [
+"charity",
+"theme"
+],
+"birr": [
+"charity",
+"theme"
+],
+"family": [
+"family",
+"theme"
+],
+"marriage": [
+"family",
+"theme"
+],
+"children": [
+"family",
+"theme"
+],
+"parents": [
+"family",
+"theme"
+],
+"motherhood": [
+"family",
+"theme"
+],
+"inheritance": [
+"family",
+"theme"
+],
+"kinship": [
+"family",
+"theme"
+],
+"lineage": [
+"family",
+"theme"
+],
+"household": [
+"family",
+"theme"
+],
+"prophetic-household": [
+"family",
+"theme"
+],
+"divorce": [
+"family",
+"theme"
+],
+"mawaddah": [
+"family",
+"theme"
+],
+"mawadda": [
+"family",
+"theme"
+],
+"brotherhood": [
+"family",
+"theme"
+],
+"community": [
+"community",
+"theme"
+],
+"ummah": [
+"community",
+"theme"
+],
+"belonging": [
+"community",
+"theme"
+],
+"unity": [
+"community",
+"theme"
+],
+"sectarianism": [
+"community",
+"theme"
+],
+"fragmentation": [
+"community",
+"theme"
+],
+"division": [
+"community",
+"theme"
+],
+"social-fabric": [
+"community",
+"theme"
+],
+"social-pressure": [
+"community",
+"theme"
+],
+"shura": [
+"community",
+"theme"
+],
+"economics": [
+"economics",
+"theme"
+],
+"wealth": [
+"economics",
+"theme"
+],
+"materialism": [
+"economics",
+"theme"
+],
+"bukhl": [
+"economics",
+"theme"
+],
+"stinginess": [
+"economics",
+"theme"
+],
+"israf": [
+"economics",
+"theme"
+],
+"reciprocity": [
+"economics",
+"theme"
+],
+"creation": [
+"creation",
+"theme"
+],
+"khalq": [
+"creation",
+"theme"
+],
+"human-origin": [
+"creation",
+"theme"
+],
+"kun-fayakun": [
+"creation",
+"theme"
+],
+"taswiyah": [
+"creation",
+"theme"
+],
+"signs": [
+"signs",
+"theme"
+],
+"ayat": [
+"signs",
+"theme"
+],
+"signs-of-allah": [
+"signs",
+"theme"
+],
+"divine-signs": [
+"signs",
+"theme"
+],
+"ayat-allah": [
+"signs",
+"theme"
+],
+"ayat-kawniyyah": [
+"signs",
+"theme"
+],
+"cosmic-signs": [
+"signs",
+"theme"
+],
+"signs-in-creation": [
+"signs",
+"theme"
+],
+"ayah-as-sign": [
+"signs",
+"theme"
+],
+"sign": [
+"signs",
+"theme"
+],
+"ayah": [
+"signs",
+"theme"
+],
+"bayyinat": [
+"signs",
+"theme"
+],
+"bayyinah": [
+"signs",
+"theme"
+],
+"evidence": [
+"signs",
+"theme"
+],
+"dalil": [
+"signs",
+"theme"
+],
+"istidlal": [
+"signs",
+"theme"
+],
+"nature": [
+"nature",
+"theme"
+],
+"rain": [
+"nature",
+"theme"
+],
+"water": [
+"nature",
+"theme"
+],
+"wind": [
+"nature",
+"theme"
+],
+"mountains": [
+"nature",
+"theme"
+],
+"night": [
+"nature",
+"theme"
+],
+"darkness": [
+"nature",
+"theme"
+],
+"light": [
+"nature",
+"theme"
+],
+"nur": [
+"nature",
+"theme"
+],
+"night-and-day": [
+"nature",
+"theme"
+],
+"cosmos": [
+"nature",
+"theme"
+],
+"earth": [
+"nature",
+"theme"
+],
+"cosmic-order": [
+"nature",
+"theme"
+],
+"cosmology": [
+"nature",
+"theme"
+],
+"taskhir": [
+"nature",
+"theme"
+],
+"history": [
+"history",
+"theme"
+],
+"generations": [
+"history",
+"theme"
+],
+"nations": [
+"history",
+"theme"
+],
+"destroyed-nations": [
+"history",
+"theme"
+],
+"ruins": [
+"history",
+"theme"
+],
+"civilizational-collapse": [
+"history",
+"theme"
+],
+"destruction": [
+"history",
+"theme"
+],
+"ihlak": [
+"history",
+"theme"
+],
+"sayhah": [
+"history",
+"theme"
+],
+"flood": [
+"history",
+"theme"
+],
+"qaryah": [
+"history",
+"theme"
+],
+"jihad": [
+"jihad",
+"theme"
+],
+"struggle": [
+"jihad",
+"theme"
+],
+"striving": [
+"jihad",
+"theme"
+],
+"nusrah": [
+"jihad",
+"theme"
+],
+"nasr": [
+"jihad",
+"theme"
+],
+"victory": [
+"jihad",
+"theme"
+],
+"intisar": [
+"jihad",
+"theme"
+],
+"divine-help": [
+"jihad",
+"theme"
+],
+"persecution": [
+"persecution",
+"theme"
+],
+"hijrah": [
+"persecution",
+"theme"
+],
+"hijra": [
+"persecution",
+"theme"
+],
+"exile": [
+"persecution",
+"theme"
+],
+"isolation": [
+"persecution",
+"theme"
+],
+"refuge": [
+"persecution",
+"theme"
+],
+"deliverance": [
+"persecution",
+"theme"
+],
+"rescue": [
+"persecution",
+"theme"
+],
+"najah": [
+"persecution",
+"theme"
+],
+"najat": [
+"persecution",
+"theme"
+],
+"escape": [
+"persecution",
+"theme"
+],
+"polemic": [
+"polemic",
+"theme"
+],
+"jadal": [
+"polemic",
+"theme"
+],
+"jidal": [
+"polemic",
+"theme"
+],
+"disputation": [
+"polemic",
+"theme"
+],
+"dispute": [
+"polemic",
+"theme"
+],
+"hujjah": [
+"polemic",
+"theme"
+],
+"burden-of-proof": [
+"polemic",
+"theme"
+],
+"challenge": [
+"polemic",
+"theme"
+],
+"accusation": [
+"polemic",
+"theme"
+],
+"fabrication": [
+"polemic",
+"theme"
+],
+"iftira": [
+"polemic",
+"theme"
+],
+"falsehood": [
+"polemic",
+"theme"
+],
+"slander": [
+"polemic",
+"theme"
+],
+"qadhf": [
+"polemic",
+"theme"
+],
+"ifk": [
+"polemic",
+"theme"
+],
+"dialogue": [
+"polemic",
+"theme"
+],
+"denial": [
+"denial",
+"theme"
+],
+"takdhib": [
+"denial",
+"theme"
+],
+"takdhib-denial": [
+"denial",
+"theme"
+],
+"rejection": [
+"denial",
+"theme"
+],
+"refusal": [
+"denial",
+"theme"
+],
+"turning-away": [
+"denial",
+"theme"
+],
+"tawalli": [
+"denial",
+"theme"
+],
+"irad": [
+"denial",
+"theme"
+],
+"avoidance": [
+"denial",
+"theme"
+],
+"mockery": [
+"denial",
+"theme"
+],
+"istihza": [
+"denial",
+"theme"
+],
+"heedlessness": [
+"heedlessness",
+"theme"
+],
+"ghaflah": [
+"heedlessness",
+"theme"
+],
+"ghafla": [
+"heedlessness",
+"theme"
+],
+"distraction": [
+"heedlessness",
+"theme"
+],
+"lahw": [
+"heedlessness",
+"theme"
+],
+"laghw": [
+"heedlessness",
+"theme"
+],
+"forgetting": [
+"heedlessness",
+"theme"
+],
+"nisyan": [
+"heedlessness",
+"theme"
+],
+"arrogance": [
+"arrogance",
+"theme"
+],
+"kibr": [
+"arrogance",
+"theme"
+],
+"istikbar": [
+"arrogance",
+"theme"
+],
+"takabbur": [
+"arrogance",
+"theme"
+],
+"pride": [
+"arrogance",
+"theme"
+],
+"ego": [
+"arrogance",
+"theme"
+],
+"ghurur": [
+"arrogance",
+"theme"
+],
+"self-sufficiency": [
+"arrogance",
+"theme"
+],
+"self-deception": [
+"arrogance",
+"theme"
+],
+"truth": [
+"truth",
+"theme"
+],
+"haqq": [
+"truth",
+"theme"
+],
+"al-haqq": [
+"truth",
+"theme"
+],
+"bil-haqq": [
+"truth",
+"theme"
+],
+"truthfulness": [
+"truth",
+"theme"
+],
+"tasdiq": [
+"truth",
+"theme"
+],
+"integrity": [
+"truth",
+"theme"
+],
+"intercession": [
+"intercession",
+"theme"
+],
+"wilayah": [
+"wilayah",
+"theme"
+],
+"walaya": [
+"wilayah",
+"theme"
+],
+"awliya": [
+"wilayah",
+"theme"
+],
+"wali": [
+"wilayah",
+"theme"
+],
+"mawla": [
+"wilayah",
+"theme"
+],
+"loyalty": [
+"wilayah",
+"theme"
+],
+"allegiance": [
+"wilayah",
+"theme"
+],
+"following": [
+"wilayah",
+"theme"
+],
+"ittiba": [
+"wilayah",
+"theme"
+],
+"divine-protection": [
+"divine-protection",
+"theme"
+],
+"protection": [
+"divine-protection",
+"theme"
+],
+"hifz": [
+"divine-protection",
+"theme"
+],
+"security": [
+"divine-protection",
+"theme"
+],
+"sakina": [
+"divine-protection",
+"theme"
+],
+"sakinah": [
+"divine-protection",
+"theme"
+],
+"divine-care": [
+"divine-protection",
+"theme"
+],
+"divine-rescue": [
+"divine-protection",
+"theme"
+],
+"dunya": [
+"dunya",
+"theme"
+],
+"impermanence": [
+"dunya",
+"theme"
+],
+"transience": [
+"dunya",
+"theme"
+],
+"illusion-of-permanence": [
+"dunya",
+"theme"
+],
+"illusion-of-control": [
+"dunya",
+"theme"
+],
+"permanence": [
+"dunya",
+"theme"
+],
+"ar-rahman": [
+"ar-rahman",
+"attribute"
+],
+"al-aziz": [
+"al-aziz",
+"attribute"
+],
+"izzah": [
+"al-aziz",
+"attribute"
+],
+"izza": [
+"al-aziz",
+"attribute"
+],
+"al-hakim": [
+"al-hakim",
+"attribute"
+],
+"khabir": [
+"al-hakim",
+"attribute"
+],
+"al-ghani": [
+"al-ghani",
+"attribute"
+],
+"ghani": [
+"al-ghani",
+"attribute"
+],
+"ghina": [
+"al-ghani",
+"attribute"
+],
+"istighna": [
+"al-ghani",
+"attribute"
+],
+"divine-self-sufficiency": [
+"al-ghani",
+"attribute"
+],
+"divine-independence": [
+"al-ghani",
+"attribute"
+],
+"divine-sufficiency": [
+"al-ghani",
+"attribute"
+],
+"sufficiency": [
+"al-ghani",
+"attribute"
+],
+"as-sami": [
+"as-sami",
+"attribute"
+],
+"sami-alim": [
+"as-sami",
+"attribute"
+],
+"basir": [
+"as-sami",
+"attribute"
+],
+"divine-sight": [
+"as-sami",
+"attribute"
+],
+"divine-hearing": [
+"as-sami",
+"attribute"
+],
+"hearing": [
+"as-sami",
+"attribute"
+],
+"sight": [
+"as-sami",
+"attribute"
+],
+"al-qadir": [
+"al-qadir",
+"attribute"
+],
+"qadir": [
+"al-qadir",
+"attribute"
+],
+"qudrah": [
+"al-qadir",
+"attribute"
+],
+"divine-power": [
+"al-qadir",
+"attribute"
+],
+"divine-omnipotence": [
+"al-qadir",
+"attribute"
+],
+"al-wakil": [
+"al-wakil",
+"attribute"
+],
+"wakil": [
+"al-wakil",
+"attribute"
+],
+"al-jabbar": [
+"al-jabbar",
+"attribute"
+],
+"jabbar": [
+"al-jabbar",
+"attribute"
+],
+"al-mulk": [
+"al-mulk",
+"attribute"
+],
+"mulk": [
+"al-mulk",
+"attribute"
+],
+"kingship": [
+"al-mulk",
+"attribute"
+],
+"dominion": [
+"al-mulk",
+"attribute"
+],
+"sovereignty": [
+"al-mulk",
+"attribute"
+],
+"divine-sovereignty": [
+"al-mulk",
+"attribute"
+],
+"lordship": [
+"al-mulk",
+"attribute"
+],
+"rabb": [
+"al-mulk",
+"attribute"
+],
+"rububiyyah": [
+"al-mulk",
+"attribute"
+],
+"rububiyya": [
+"al-mulk",
+"attribute"
+],
+"divine-mercy-attr": [
+"divine-mercy-attr",
+"attribute"
+],
+"divine-tenderness": [
+"divine-mercy-attr",
+"attribute"
+],
+"divine-intimacy": [
+"divine-mercy-attr",
+"attribute"
+],
+"divine-nearness": [
+"divine-mercy-attr",
+"attribute"
+],
+"nearness": [
+"divine-mercy-attr",
+"attribute"
+],
+"proximity": [
+"divine-mercy-attr",
+"attribute"
+],
+"maiyyah": [
+"divine-mercy-attr",
+"attribute"
+],
+"divine-presence": [
+"divine-mercy-attr",
+"attribute"
+],
+"divine-pleasure": [
+"divine-mercy-attr",
+"attribute"
+],
+"ridwan": [
+"divine-mercy-attr",
+"attribute"
+],
+"divine-generosity": [
+"divine-mercy-attr",
+"attribute"
+],
+"divine-craftsmanship": [
+"divine-mercy-attr",
+"attribute"
+],
+"divine-knowledge": [
+"divine-knowledge",
+"attribute"
+],
+"divine-omniscience": [
+"divine-knowledge",
+"attribute"
+],
+"omniscience": [
+"divine-knowledge",
+"attribute"
+],
+"divine-witness": [
+"divine-knowledge",
+"attribute"
+],
+"divine-witnessing": [
+"divine-knowledge",
+"attribute"
+],
+"surveillance": [
+"divine-knowledge",
+"attribute"
+],
+"being-seen": [
+"divine-knowledge",
+"attribute"
+],
+"being-known": [
+"divine-knowledge",
+"attribute"
+],
+"being-fully-known": [
+"divine-knowledge",
+"attribute"
+],
+"observation": [
+"divine-knowledge",
+"attribute"
+],
+"encompassment": [
+"divine-knowledge",
+"attribute"
+],
+"ihata": [
+"divine-knowledge",
+"attribute"
+],
+"divine-agency": [
+"divine-power",
+"attribute"
+],
+"divine-justice-attr": [
+"divine-justice-attr",
+"attribute"
+],
+"divine-names": [
+"divine-names",
+"attribute"
+],
+"divine-attributes": [
+"divine-names",
+"attribute"
+],
+"names-of-allah": [
+"divine-names",
+"attribute"
+],
+"asma": [
+"divine-names",
+"attribute"
+],
+"tanzih": [
+"divine-names",
+"attribute"
+],
+"divine-transcendence": [
+"divine-names",
+"attribute"
+],
+"transcendence": [
+"divine-names",
+"attribute"
+],
+"kalam": [
+"divine-speech",
+"attribute"
+],
+"iltifat": [
+"iltifat",
+"device"
+],
+"iltifat-address-shift": [
+"iltifat",
+"device"
+],
+"asymmetric-address": [
+"iltifat",
+"device"
+],
+"dual-address": [
+"iltifat",
+"device"
+],
+"asymmetric-grammar": [
+"iltifat",
+"device"
+],
+"istifham-inkari": [
+"istifham-inkari",
+"device"
+],
+"rhetorical-question": [
+"istifham-inkari",
+"device"
+],
+"rhetorical-questions": [
+"istifham-inkari",
+"device"
+],
+"divine-questioning": [
+"istifham-inkari",
+"device"
+],
+"qasam": [
+"qasam",
+"device"
+],
+"oath": [
+"qasam",
+"device"
+],
+"oaths": [
+"qasam",
+"device"
+],
+"divine-oath": [
+"qasam",
+"device"
+],
+"jawab-al-qasam": [
+"qasam",
+"device"
+],
+"idrab": [
+"idrab",
+"device"
+],
+"qasr": [
+"qasr",
+"device"
+],
+"qasr-restriction": [
+"qasr",
+"device"
+],
+"hasr": [
+"qasr",
+"device"
+],
+"hasr-restriction": [
+"qasr",
+"device"
+],
+"restriction": [
+"qasr",
+"device"
+],
+"restriction-particle": [
+"qasr",
+"device"
+],
+"innama-restriction": [
+"qasr",
+"device"
+],
+"taqdim": [
+"taqdim",
+"device"
+],
+"mathal": [
+"mathal",
+"device"
+],
+"parable": [
+"mathal",
+"device"
+],
+"parables": [
+"mathal",
+"device"
+],
+"mubalagha": [
+"mathal",
+"device"
+],
+"ijaz": [
+"ijaz",
+"device"
+],
+"ellipsis": [
+"ijaz",
+"device"
+],
+"suppressed-apodosis": [
+"ijaz",
+"device"
+],
+"unspecified-object": [
+"ijaz",
+"device"
+],
+"istidlal-bil-mahsus": [
+"istidlal-bil-mahsus",
+"device"
+],
+"istidlal-al-maqul-bil-mahsus": [
+"istidlal-bil-mahsus",
+"device"
+],
+"refrain": [
+"refrain",
+"device"
+],
+"refrain-structure": [
+"refrain",
+"device"
+],
+"repetition": [
+"refrain",
+"device"
+],
+"accumulation": [
+"refrain",
+"device"
+],
+"iltizam": [
+"iltizam",
+"device"
+],
+"contrast": [
+"iltizam",
+"device"
+],
+"asymmetry": [
+"iltizam",
+"device"
+],
+"asymmetric-absence": [
+"iltizam",
+"device"
+],
+"duality": [
+"iltizam",
+"device"
+],
+"counterfactual": [
+"iltizam",
+"device"
+],
+"irony": [
+"irony",
+"device"
+],
+"dual-form": [
+"dual-address",
+"device"
+],
+"taghlib": [
+"dual-address",
+"device"
+],
+"bushraindhar": [
+"bushraindhar",
+"device"
+],
+"bushra": [
+"bushraindhar",
+"device"
+],
+"glad-tidings": [
+"bushraindhar",
+"device"
+],
+"nadhir": [
+"bushraindhar",
+"device"
+],
+"nudhur": [
+"bushraindhar",
+"device"
+],
+"warner": [
+"bushraindhar",
+"device"
+],
+"woe": [
+"bushraindhar",
+"device"
+],
+"wayl": [
+"bushraindhar",
+"device"
+],
+"divine-passive": [
+"divine-passive",
+"device"
+],
+"passive-voice-theology": [
+"divine-passive",
+"device"
+],
+"passive-voice": [
+"divine-passive",
+"device"
+],
+"form-ii": [
+"form-ii",
+"grammar"
+],
+"form-ii-intensification": [
+"form-ii",
+"grammar"
+],
+"form-ii-intensive": [
+"form-ii",
+"grammar"
+],
+"form-iv": [
+"form-iv",
+"grammar"
+],
+"form-iv-causative": [
+"form-iv",
+"grammar"
+],
+"form-viii": [
+"form-viii",
+"grammar"
+],
+"form-viii-reflexive": [
+"form-viii",
+"grammar"
+],
+"form-x": [
+"form-x",
+"grammar"
+],
+"form-x-seeking": [
+"form-x",
+"grammar"
+],
+"form-iii": [
+"form-iii",
+"grammar"
+],
+"form-iii-reciprocity": [
+"form-iii",
+"grammar"
+],
+"active-participle": [
+"active-participle",
+"grammar"
+],
+"cognate-accusative": [
+"cognate-accusative",
+"grammar"
+],
+"maful-mutlaq": [
+"cognate-accusative",
+"grammar"
+],
+"partitive-min": [
+"partitive-min",
+"grammar"
+],
+"nun-al-tawkid": [
+"nun-al-tawkid",
+"grammar"
+],
+"damir-al-fasl": [
+"damir-al-fasl",
+"grammar"
+],
+"nominal-sentence": [
+"nominal-sentence",
+"grammar"
+],
+"tense-asymmetry": [
+"tense-asymmetry",
+"grammar"
+],
+"perfect-vs-imperfect-tense": [
+"tense-asymmetry",
+"grammar"
+],
+"dual-grammar": [
+"dual-grammar",
+"grammar"
+],
+"hal-construction": [
+"hal-construction",
+"grammar"
+],
+"istithna": [
+"istithna",
+"grammar"
+],
+"exception": [
+"istithna",
+"grammar"
+],
+"am-munqatia": [
+"istithna",
+"grammar"
+],
+"fa-of-consequence": [
+"fa-of-consequence",
+"grammar"
+],
+"qiraat": [
+"qiraat",
+"grammar"
+],
+"qiraat-variation": [
+"qiraat",
+"grammar"
+],
+"morphology": [
+"morphology",
+"grammar"
+],
+"musa": [
+"musa",
+"character"
+],
+"moses": [
+"musa",
+"character"
+],
+"ibrahim": [
+"ibrahim",
+"character"
+],
+"yusuf": [
+"yusuf",
+"character"
+],
+"nuh": [
+"nuh",
+"character"
+],
+"sulayman": [
+"sulayman",
+"character"
+],
+"dawud": [
+"dawud",
+"character"
+],
+"isa": [
+"isa",
+"character"
+],
+"lut": [
+"lut",
+"character"
+],
+"salih": [
+"salih",
+"character"
+],
+"hud": [
+"hud",
+"character"
+],
+"shuayb": [
+"shuayb",
+"character"
+],
+"harun": [
+"harun",
+"character"
+],
+"yaqub": [
+"yaqub",
+"character"
+],
+"yunus": [
+"yunus",
+"character"
+],
+"maryam": [
+"maryam",
+"character"
+],
+"adam": [
+"adam",
+"character"
+],
+"luqman": [
+"luqman",
+"character"
+],
+"dhul-qarnayn": [
+"dhul-qarnayn",
+"character"
+],
+"the-prophet": [
+"the-prophet",
+"character"
+],
+"prophetic-character": [
+"the-prophet",
+"character"
+],
+"iblis": [
+"iblis",
+"character"
+],
+"shaytan overlaps theme  keep both shaytanthemeenmity": [
+"iblis",
+"character"
+],
+"iblischaracter": [
+"iblis",
+"character"
+],
+"pharaoh": [
+"pharaoh",
+"character"
+],
+"firawn": [
+"pharaoh",
+"character"
+],
+"qarun": [
+"qarun",
+"character"
+],
+"bilqis": [
+"bilqis",
+"character"
+],
+"samiri": [
+"samiri",
+"character"
+],
+"qarin": [
+"qarin",
+"character"
+],
+"magicians": [
+"magicians",
+"character"
+],
+"hoopoe": [
+"hoopoe",
+"character"
+],
+"bani-israil": [
+"bani-israil",
+"character"
+],
+"bani-israel": [
+"bani-israil",
+"character"
+],
+"ahl-al-kitab": [
+"ahl-al-kitab",
+"character"
+],
+"people-of-the-book": [
+"ahl-al-kitab",
+"character"
+],
+"quraysh": [
+"quraysh",
+"character"
+],
+"thamud": [
+"thamud",
+"character"
+],
+"she-camel": [
+"thamud",
+"character"
+],
+"aad": [
+"aad",
+"character"
+],
+"madyan": [
+"madyan",
+"character"
+],
+"people-of-lut": [
+"people-of-lut",
+"character"
+],
+"jinn": [
+"jinn",
+"character"
+],
+"jinn-and-mankind": [
+"jinn",
+"character"
+],
+"thaqalan": [
+"jinn",
+"character"
+],
+"al-thaqalan": [
+"jinn",
+"character"
+],
+"angels": [
+"angels",
+"character"
+],
+"malaika": [
+"angels",
+"character"
+],
+"malaikah": [
+"angels",
+"character"
+],
+"badr": [
+"badr",
+"character"
+],
+"uhud": [
+"uhud",
+"character"
+],
+"ahzab": [
+"ahzab",
+"character"
+],
+"battle-of-trench": [
+"ahzab",
+"character"
+],
+"battle-of-the-trench": [
+"ahzab",
+"character"
+],
+"hudaybiyya": [
+"hudaybiyya",
+"character"
+],
+"hudaybiyyah": [
+"hudaybiyya",
+"character"
+],
+"tabuk": [
+"tabuk",
+"character"
+],
+"banu-nadir": [
+"banu-nadir",
+"character"
+],
+"fear": [
+"fear",
+"state"
+],
+"khawf": [
+"fear",
+"state"
+],
+"khashyah": [
+"fear",
+"state"
+],
+"khashya": [
+"fear",
+"state"
+],
+"awe": [
+"fear",
+"state"
+],
+"reverence": [
+"fear",
+"state"
+],
+"ishfaq": [
+"fear",
+"state"
+],
+"hope": [
+"hope",
+"state"
+],
+"raja": [
+"hope",
+"state"
+],
+"fear-and-hope": [
+"hope",
+"state"
+],
+"optimism": [
+"hope",
+"state"
+],
+"grief": [
+"grief",
+"state"
+],
+"suffering": [
+"grief",
+"state"
+],
+"distress": [
+"grief",
+"state"
+],
+"anxiety": [
+"grief",
+"state"
+],
+"despair": [
+"grief",
+"state"
+],
+"abandonment": [
+"grief",
+"state"
+],
+"joy": [
+"joy",
+"state"
+],
+"comfort": [
+"joy",
+"state"
+],
+"consolation": [
+"joy",
+"state"
+],
+"ease": [
+"joy",
+"state"
+],
+"rest": [
+"joy",
+"state"
+],
+"contentment": [
+"joy",
+"state"
+],
+"inner-peace": [
+"joy",
+"state"
+],
+"peace": [
+"joy",
+"state"
+],
+"salam": [
+"joy",
+"state"
+],
+"tranquility": [
+"joy",
+"state"
+],
+"regret": [
+"regret",
+"state"
+],
+"blame": [
+"regret",
+"state"
+],
+"confession": [
+"regret",
+"state"
+],
+"conscience": [
+"regret",
+"state"
+],
+"humility": [
+"humility",
+"state"
+],
+"surrender": [
+"humility",
+"state"
+],
+"submission": [
+"humility",
+"state"
+],
+"taslim": [
+"humility",
+"state"
+],
+"islam": [
+"humility",
+"state"
+],
+"love": [
+"love",
+"state"
+],
+"mahabbah": [
+"love",
+"state"
+],
+"attachment": [
+"love",
+"state"
+],
+"intimacy": [
+"love",
+"state"
+],
+"desire": [
+"desire",
+"state"
+],
+"hawa": [
+"desire",
+"state"
+],
+"lust": [
+"desire",
+"state"
+],
+"envy": [
+"envy",
+"state"
+],
+"hasad": [
+"envy",
+"state"
+],
+"ghayz": [
+"envy",
+"state"
+],
+"enmity": [
+"enmity",
+"state"
+],
+"betrayal": [
+"enmity",
+"state"
+],
+"courage": [
+"courage",
+"state"
+],
+"strength": [
+"courage",
+"state"
+],
+"certainty": [
+"certainty",
+"state"
+],
+"yaqin": [
+"certainty",
+"state"
+],
+"yaqeen": [
+"certainty",
+"state"
+],
+"conviction": [
+"certainty",
+"state"
+],
+"doubt": [
+"doubt",
+"state"
+],
+"conjecture": [
+"doubt",
+"state"
+],
+"zann": [
+"doubt",
+"state"
+],
+"suspicion": [
+"doubt",
+"state"
+],
+"uncertainty": [
+"doubt",
+"state"
+],
+"delusion": [
+"self-deception",
+"state"
+],
+"illusion": [
+"self-deception",
+"state"
+],
+"false-security": [
+"self-deception",
+"state"
+],
+"hardness-of-heart": [
+"hardness-of-heart",
+"state"
+],
+"blindness": [
+"hardness-of-heart",
+"state"
+],
+"spiritual-blindness": [
+"hardness-of-heart",
+"state"
+],
+"restraint": [
+"restraint",
+"state"
+],
+"divine-restraint": [
+"restraint",
+"state"
+],
+"hilm": [
+"restraint",
+"state"
+],
+"forbearance": [
+"restraint",
+"state"
+],
+"divine-patience": [
+"restraint",
+"state"
+],
+"impatience": [
+"impatience",
+"state"
+],
+"haste": [
+"impatience",
+"state"
+],
+"istijal": [
+"impatience",
+"state"
+],
+"time-and-urgency": [
+"impatience",
+"state"
+],
+"procrastination": [
+"impatience",
+"state"
+],
+"temporal-discounting": [
+"impatience",
+"state"
+],
+"khushu": [
+"khushu",
+"state"
+],
+"presence": [
+"khushu",
+"state"
+],
+"attention": [
+"khushu",
+"state"
+],
+"listening": [
+"khushu",
+"state"
+],
+"dignity": [
+"dignity",
+"state"
+],
+"honor": [
+"dignity",
+"state"
+],
+"human-dignity": [
+"dignity",
+"state"
+],
+"status": [
+"dignity",
+"state"
+],
+"vulnerability": [
+"dignity",
+"state"
+],
+"qalb": [
+"qalb",
+"state"
+],
+"the-heart": [
+"qalb",
+"state"
+],
+"heart": [
+"qalb",
+"state"
+],
+"hearts": [
+"qalb",
+"state"
+],
+"nafs": [
+"nafs",
+"state"
+],
+"the-nafs": [
+"nafs",
+"state"
+],
+"soul": [
+"nafs",
+"state"
+],
+"the-soul": [
+"nafs",
+"state"
+],
+"the-self": [
+"nafs",
+"state"
+],
+"self-knowledge": [
+"nafs",
+"state"
+],
+"self-examination": [
+"nafs",
+"state"
+],
+"inner-life": [
+"nafs",
+"state"
+],
+"interior-life": [
+"nafs",
+"state"
+],
+"identity": [
+"nafs",
+"state"
+],
+"aql": [
+"aql",
+"state"
+],
+"intellect": [
+"aql",
+"state"
+],
+"reason": [
+"aql",
+"state"
+],
+"faculties": [
+"aql",
+"state"
+],
+"perception": [
+"aql",
+"state"
+],
+"recognition": [
+"aql",
+"state"
+],
+"cognition": [
+"aql",
+"state"
+],
+"motivated-reasoning": [
+"motivated-reasoning",
+"bridge"
+],
+"psychology-of-disbelief": [
+"motivated-reasoning",
+"bridge"
+],
+"psychology-of-rejection": [
+"motivated-reasoning",
+"bridge"
+],
+"projection": [
+"motivated-reasoning",
+"bridge"
+],
+"rationalization": [
+"motivated-reasoning",
+"bridge"
+],
+"cognitive-dissonance": [
+"cognitive-dissonance",
+"bridge"
+],
+"hedonic-adaptation": [
+"hedonic-adaptation",
+"bridge"
+],
+"hedonic-treadmill": [
+"hedonic-adaptation",
+"bridge"
+],
+"scarcity-mindset": [
+"scarcity-mindset",
+"bridge"
+],
+"scarcity": [
+"scarcity-mindset",
+"bridge"
+],
+"social-proof": [
+"social-proof",
+"bridge"
+],
+"taqlid": [
+"social-proof",
+"bridge"
+],
+"inherited-belief": [
+"social-proof",
+"bridge"
+],
+"conformity": [
+"social-proof",
+"bridge"
+],
+"identity-protective-cognition": [
+"identity-protective-cognition",
+"bridge"
+],
+"tribalism": [
+"identity-protective-cognition",
+"bridge"
+]
+}

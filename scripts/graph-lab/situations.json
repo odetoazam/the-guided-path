@@ -1,0 +1,25 @@
+{
+  "_doc": "Situation -> theme/state seed map. The curated lens that turns how-people-actually-arrive (a life situation, not a slug) into constellation seeds. Grounded in the 4 personas + HUMAN-STATE/MODERN-BRIDGE axes. ~production: an LLM router classifies free text into a situation; here a keyword matcher demos the pathway.",
+  "situations": [
+    {"slug":"feel-like-a-hypocrite","phrasings":["feel like a hypocrite","two-faced","fake muslim","my actions dont match"],"seeds":["nifaq","self-deception","ikhlas","qalb"]},
+    {"slug":"cant-forgive-someone","phrasings":["cant forgive","hold a grudge","someone hurt me","resentment"],"seeds":["maghfira","sabr","divine-mercy","divine-justice"]},
+    {"slug":"anxious-about-money","phrasings":["anxious about money","cant afford","financial","provision","broke","rizq"],"seeds":["rizq","tawakkul","qadar","dunya"]},
+    {"slug":"faith-feels-dry","phrasings":["faith feels dry","spiritually empty","disconnected","cant feel god","hard heart"],"seeds":["heedlessness","hardness-of-heart","qalb","dhikr"]},
+    {"slug":"overwhelmed-giving-up","phrasings":["overwhelmed","want to give up","cant go on","exhausted","too much"],"seeds":["sabr","tawakkul","hope","divine-testing"]},
+    {"slug":"grieving-a-loss","phrasings":["grieving","lost someone","death of","mourning","heartbroken"],"seeds":["grief","sabr","qadar","akhirah","hope"]},
+    {"slug":"betrayed-by-family","phrasings":["betrayed","family turned on me","brothers","stabbed in the back"],"seeds":["sabr","grief","tawakkul","divine-justice"]},
+    {"slug":"struggling-with-doubt","phrasings":["doubt","not sure i believe","questioning my faith","is this even real"],"seeds":["doubt","certainty","signs","aql"]},
+    {"slug":"feel-distant-from-god","phrasings":["distant from god","far from allah","want to come back","lost my way"],"seeds":["tawbah","divine-mercy","qalb","dhikr"]},
+    {"slug":"consumed-by-envy","phrasings":["envy","jealous","why do they have","compare myself"],"seeds":["envy","qadar","rizq","gratitude"]},
+    {"slug":"tempted-to-sin","phrasings":["tempted","cant stop sinning","desire","keep falling"],"seeds":["nafs","shaytan","taqwa","sabr"]},
+    {"slug":"feel-arrogant","phrasings":["arrogant","prideful","i earned this","better than others"],"seeds":["arrogance","humility","gratitude","dunya"]},
+    {"slug":"afraid-of-death","phrasings":["afraid of death","scared to die","what comes after","mortality"],"seeds":["death","akhirah","divine-mercy","hope"]},
+    {"slug":"treated-unjustly","phrasings":["unjust","wronged","oppressed","unfair","no justice"],"seeds":["divine-justice","sabr","tawakkul","akhirah"]},
+    {"slug":"regret-past-sins","phrasings":["regret","ashamed of my past","guilt","sins i committed"],"seeds":["regret","tawbah","maghfira","divine-mercy"]},
+    {"slug":"chasing-worldly-success","phrasings":["chasing success","obsessed with work","status","never enough"],"seeds":["dunya","akhirah","gratitude","heedlessness"]},
+    {"slug":"feel-ungrateful","phrasings":["ungrateful","take things for granted","never satisfied"],"seeds":["gratitude","rizq","divine-mercy"]},
+    {"slug":"lonely-or-abandoned","phrasings":["lonely","abandoned","no one cares","alone"],"seeds":["grief","divine-protection","tawakkul","divine-mercy"]},
+    {"slug":"fear-for-my-children","phrasings":["worried about my kids","children","my daughter asked","raising them"],"seeds":["tawakkul","qadar","divine-protection","family"]},
+    {"slug":"intellectual-crisis","phrasings":["academic","science contradicts","intellectually","is islam rational"],"seeds":["doubt","signs","certainty","aql"]}
+  ]
+}
