@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/113-al-falaq/ayah-003.md
+Ayah: 113:3
+Date: 2026-06-20T21:29:27
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَمِن=And from | شَرِّ=(the) evil | غَاسِقٍ=(of) darkness | إِذَا=when | وَقَبَ=it settles,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "the splitting open of the dawn, the moment light tears through the black" — *falaq* as "splitting/cleaving of dawn" is lexically attested and consistent with classical usage; the poetic elaboration ("tears through the black") is clearly literary framing, not a factual claim.
+- [PASS] "Al-Jalālayn says *ghāsiq* is **the night when it darkens** — and adds, the moon when it sets" — matches the reference exactly: «أي الليل إذا أظلم والقمر إذا غاب»; attribution is accurate.
+- [PASS] "Al-Muyassar reads it as **a night of intense darkness when**..." — text is cut off but what's rendered matches «ليل شديد الظلمة إذا دخل»; no distortion.
+- [PASS] "the root of this word — *gh-s-q* — ... the onset of darkness, the night growing black, the first thickening of the dark" — al-Qurtubi confirms «الغسق: أول ظلمة الليل» and «غسق الليل يغسق أي أظلم»; accurate.
+- [PASS] "*ghāsiq* is built on the pattern of an active participle: *fāʿil*" — morphologically correct; the *w-q-b* Form I claim in the comment block is also standard.
+- [PASS] Tanwīn → "formless, sourceless dread" connection — this is a literary/meditative extension of a grammatical observation, not a claim sourced to classical tafsir. It is clearly framed as the author's reflective interpretation ("the ayah captures..."), not attributed to any scholar. Appropriate for tadabbur genre.
+- [PASS] "the first specific evil named in the entire surah" — accurate; 113:2 is general (*mā khalaq*), 113:3 begins the enumeration.
+
+SUMMARY: Every factual claim — root meanings, tafsir attributions, morphological description, scholar positions — is accurate against the provided reference data; the one substantive interpretive move (indefiniteness as "unnamed dread") is properly framed as meditation rather than scholarship.

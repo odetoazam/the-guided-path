@@ -1,0 +1,40 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayah-055.md
+Ayah: 3:55
+Date: 2026-06-21T04:20:02
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِذْ=When | قَالَ ٱللَّهُ=Allah said | يَـٰعِيسَىٰٓ=`O Isa! | إِنِّى=Indeed, I | مُتَوَفِّيكَ=(will) take you | وَرَافِعُكَ=and raise you | إِلَىَّ=to Myself | وَمُطَهِّرُكَ=and purify you | مِنَ=from | ٱلَّذِينَ=those who | كَفَرُواْ=disbelieve[d], | وَجَاعِلُ=and I will make | ٱلَّذِينَ=those who | ٱتَّبَعُوكَ=follow[ed] you | فَوْقَ=superior | ٱلَّذِينَ=(to) those who | كَفَرُوٓاْ=disbelieve[d] | إِلَىٰ=on | يَوْمِ=(the) Day | ٱلْقِيَـٰمَةِ‌ۖ=(of) [the] Resurrection. | ثُمَّ=Then | إِلَىَّ=to Me | مَرْجِعُكُمْ=(is) your return | فَأَحْكُمُ=and I will judge | بَيْنَكُمْ=between you | فِيمَا=about what | كُنتُمْ=you were | فِيهِ=[in it] | تَخْتَلِفُونَ=differing.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- None identified in the submitted portion.
+
+Supporting notes on specific claims checked:
+
+**Root w-f-y claim** — "The root *w-f-y* does not mean death at all… fulfillment, completion, taking in full" — PASS. This is lexically sound. Raghib al-Isfahani's *Mufradat* and Lisān al-ʿArab both establish the primary semantic field of w-f-y as completion/fulfillment. Death is an *application* (when Allah takes the soul He takes it completely), not the root denotation. The reflection is precise in saying "death is *one occasion* on which a soul gets taken in full" — this accurately reflects the classical lexical relationship.
+
+**Active participle (ism al-fāʿil) framing** — "Allah does not say 'I *will take* you' as a single future event… *mutawaffī-ka*" — PASS. *Mutawaffīka* is indeed an ism al-fāʿil (Form V active participle). The grammatical distinction drawn is real and correctly applied.
+
+**Verb form identifications** — Form V *tawaffā*, Form II *ṭahhara* (→ *muṭahhiruka*), Form VIII *ittabaʿa/ikhtalafa* — all PASS. These are correct per standard Arabic morphology.
+
+**3:54 citation** — *wa makarū wa makara-llāh…* attributed correctly as 3:54 — PASS.
+
+**Tafsir alignment** — The framing of this ayah as a lifting-up rather than a strike downward is supported by the provided sources. Jalalayn: "قابضك من الدنيا من غير موت" (taking you from the world without death); Muyassar: "من غير أن ينالك سوء" (without any harm reaching you). The thematic reading — Heaven's first move is elevation, not retaliation — aligns with what these tafsirs emphasize as the function of *mutawaffīka wa rāfiʿuka ilayya*.
+
+**One observation (not a flag):** The reflection does not yet show how it handles the classical *ikhtilaf* on the meaning of *mutawaffīka* (the three positions: sleep, physical death then raising, or raising without death — which Baghawi explicitly flags: "اختلفوا في معنى التوفي هاهنا"). The submitted portion is still in the linguistic section. If the full reflection does not acknowledge this ikhtilaf, that would warrant a MODERATE flag in a subsequent validation pass.
+
+SUMMARY: All linguistic, morphological, and contextual claims in the submitted portion are accurate and classically grounded; the reflection handles the root w-f-y precisely without overstating the case.

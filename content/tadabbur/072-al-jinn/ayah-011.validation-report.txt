@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/072-al-jinn/ayah-011.md
+Ayah: 72:11
+Date: 2026-06-16T23:03:38
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَأَنَّا=And that | مِنَّا=among us | ٱلصَّـٰلِحُونَ=(are) the righteous | وَمِنَّا=and among us | دُونَ ذَٲلِكَ‌ۖ=(are) other than that. | كُنَّا=We | طَرَآئِقَ=(are on) ways | قِدَدًا=different.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "Sometimes withholding a name is shielding. A protective vagueness." — This is an interpretive direction not attested in the provided classical sources. Al-Muyassar explicitly identifies the unnamed group as "kuffār wa fussāq" (disbelievers and corrupt), and al-Jalalayn supplies "qawmun ghayru ṣāliḥīn." The sources do not read the grammatical gap as divine mercy/shielding. However: the reflection frames this as an open question to hold ("Arabic is about to force the choice"), not as a documented position — so it sits within tadabbur latitude rather than constituting a factual overreach. Watch that the resolution, wherever it lands in the unread portion, does not present this mercy reading as if grounded in classical tafsir.
+
+- [PASS] Root ṣ-l-ḥ analysis — "soundness, wholeness, being in good working order... iṣlāḥ — repair... ṣulḥ — a peace treaty" — lexically sound and consistent with Mufradāt al-Rāghib and Lisān al-ʿArab as noted in the frontmatter.
+
+- [PASS] Root qdd analysis — "comes from the world of cutting leather" — al-Baghawi explicitly confirms: "أصلها من القد وهو القطع" (its origin is al-qadd, meaning cutting), and classical lexicons do tie qadd to cutting leather specifically.
+
+- [PASS] "dūna dhālik — a preposition of position — means 'below,' 'short of,' 'this side of'" — accurate per word-by-word data and classical usage.
+
+- [PASS] "And among us are those below that" for دُونَ ذَٰلِكَ — al-Qurtubi's second reading "ومن دون الصالحين في الصلاح" (those below the righteous in righteousness) actually lends some support to this rendering over a binary believer/disbeliever split.
+
+- [PASS] Arabic text, transliteration, and translation all match authenticated source.
+
+SUMMARY: The reflection is linguistically careful and root-accurate; the only watch item is that the "protective vagueness / mercy" reading of the unnamed group is an unattested interpretive extension that must be clearly owned as tadabbur speculation rather than resolved as classical tafsir in the unseen portion of the text.

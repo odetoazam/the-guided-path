@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/091-ash-shams/ayahs-011-013.md
+Ayah: 91:11
+Date: 2026-06-18T19:54:23
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: كَذَّبَتْ=Denied | ثَمُودُ=Thamud | بِطَغْوَٮٰهَآ=by their transgression,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [INFORMATIONAL] "this is exactly what the classical commentators give" — technically imprecise. Al-Qurṭubī preserves two dissenting readings the reflection doesn't mention: Ibn Abbas reads *ṭaghwā* as the name of the punishment itself ("بطغواها أي بعذابها الذي وعدت به"), and Muhammad ibn Ka'b reads it as "all of them together" ("بأجمعها"). Al-Qurṭubī's own view does align with the transgression-as-cause reading (he cites Mujahid and Qatada), and all three other sources agree — so the reflection's reading is correct and majority-supported. But "exactly what the classical commentators give" overstates consensus when one of the four cited sources documents dissent. Not an error in the substantive claim; an imprecision in how it's framed.
+
+- [VERIFIED] Al-Baghawī attribution is accurate: "بطغيانها وعدوانها، أي الطغيان حملهم على التكذيب" directly supports the reflection's transliteration and gloss without embellishment.
+
+- [VERIFIED] Al-Jalālayn citation is accurate: "بسبب طغيانها" matches the reflection's rendering *bi-sababi ṭughyānihā*.
+
+- [VERIFIED] Al-Muyassar citation is accurate: "ببلوغها الغاية في العصيان" matches the reflection's transliteration and translation.
+
+- [VERIFIED] Arabic root analysis (k-dh-b, Ṭ-gh-y, bāʾ al-sababiyyah framing) is linguistically sound and consistent with the tafsir evidence.
+
+SUMMARY: All tafsir attributions match the provided reference texts verbatim; the only imprecision is framing the bāʾ-of-cause reading as universal consensus when al-Qurṭubī documents minority alternatives — but the reading itself is correct and well-grounded in three of four sources plus al-Qurṭubī's own stated view.

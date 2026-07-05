@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayah-037.md
+Ayah: 3:37
+Date: 2026-06-21T04:55:03
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَتَقَبَّلَهَا=So accepted her, | رَبُّهَا=her Lord | بِقَبُولٍ=with acceptance | حَسَنٍ=good, | وَأَنۢبَتَهَا=and made her grow - | نَبَاتًا=a growing | حَسَنًا=good, | وَكَفَّلَهَا=and put her in (the) care | زَكَرِيَّا‌ۖ=(of) Zakariya. | كُلَّمَا=Whenever | دَخَلَ=entered | عَلَيْهَا زَكَرِيَّا=Zakariya in her | ٱلْمِحْرَابَ=[the] prayer chamber | وَجَدَ=he found | عِندَهَا=with her | رِزْقًا‌ۖ=provision. | قَالَ=He said, | يَـٰمَرْيَمُ=`O Maryam! | أَنَّىٰ=From where | لَكِ=for you | هَـٰذَا‌ۖ=(is) this?` | قَالَتْ=She said, | هُوَ=`This | مِنْ عِندِ=(is) from | ٱللَّهِ‌ۖ=Allah. | إِنَّ=Indeed, | ٱللَّهَ=Allah | يَرْزُقُ=gives provision | مَن=(to) whom | يَشَآءُ=He wills | بِغَيْرِ=without | حِسَابٍ=measure.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "She accepted. She grew her. She sheltered her. She fed her — through a stunned old prophet" — The author correctly establishes one sentence earlier that "every single verb in the first half of this verse has God as its subject and Maryam as its object," then immediately writes "She" — a female pronoun with no valid referent. God (rabbuhā) is the subject of all three verbs (تَقَبَّلَ, أَنبَتَ, كَفَّلَ), all of which carry masculine conjugations in the Arabic. "She" wrongly genders the actor, or (reading "she" as Maryam) wrongly inverts subject and object. This should read "He accepted. He grew her. He sheltered her." A charitable reader infers the correct meaning from context, but the error is real and would mislead anyone parsing the grammar lesson the reflection is explicitly teaching.
+
+- [MINOR] "Imam al-Baghawi pauses on this exact word, noting that qabūl is an unusual verbal-noun shape… like only two or three other words in the whole language." — Baghawi is more precise: "مثل الولوع والوزوع ولم يأت غير هذه الثلاثة" — he names exactly two comparanda (walūʿ and wazūʿ), making a total of three words in the language with this fuʿūl-masdar pattern, and says "no others came." The reflection's "two or three" introduces unnecessary vagueness in a passage that is directly citing Baghawi for authority. Not a misattribution, but the precision of the scholar's point is softened.
+
+Everything else I can check against the provided data holds:
+- Form V analysis of *taqabbala* (tafaʿʿala pattern, intensive/engaged reception) is morphologically standard
+- Mafʿūl muṭlaq identification for *biqabūlin ḥasanin* is correct
+- The Baghawi citation on *qabūl* as a rare masdar is real and accurately sourced (وَالقَبُولُ مَصْدَرٌ قَبِلَ يَقبَلُ)
+- The narrative frame (mother's vow, gender disappointment in 3:36) is accurate
+- The translation is faithful to the word-by-word reference
+
+SUMMARY: The reflection is linguistically careful and well-sourced throughout, but contains one clear pronoun error mid-paragraph where God's actions are attributed to "She" — a mistake that directly contradicts the grammar lesson the author is teaching and should be corrected before publication.

@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/046-al-ahqaf/ayah-022.md
+Ayah: 46:22
+Date: 2026-06-08T08:27:56
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: قَالُوٓاْ=They said, | أَجِئْتَنَا=`Have you come to us | لِتَأْفِكَنَا=to turn us away | عَنْ=from | ءَالِهَتِنَا=our gods? | فَأْتِنَا=Then bring us | بِمَا=what | تَعِدُنَآ=you threaten us, | إِن=if | كُنتَ=you are | مِنَ=of | ٱلصَّـٰدِقِينَ=the truthful.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "This verse begins with a word built from the Arabic root for lying — for slander, for the great fabrication" — The verse opens with **قَالُوٓا** (root ق-و-ل, "they said"), not from root أ-ف-ك. The إفك-root word لِتَأْفِكَنَا is the *third word of the quoted speech*, not the opening word. The structural framing the reflection builds — "the whole sentence runs from the lie at one end to the truth at the other" — therefore misstates the verse's architecture. The pole is mid-verse, not at its start.
+
+**What passes:**
+- Root analysis of أ-ف-ك (overturning, fabrication) — lexically sound
+- Attribution to al-Baghawi and al-Muyassar of the gloss *li-taṣrifanā* — confirmed verbatim in both sources
+- Attribution to al-Qurtubi of two recognized meanings, including *li-tuzīlanā ʿan ʿibādatihā bi-l-ifk* — confirmed: "أحدهما : لتزيلنا عن عبادتها بالإفك"
+- ḥadīth al-ifk reference (An-Nur) and al-mu'tafikāt (overturned cities of Lut) — accurate
+- ʿĀd's exceptional establishment referenced via 46:26 — accurate
+- Hud as "their brother" — confirmed per 46:21
+
+SUMMARY: One moderate framing error — the reflection incorrectly places the إفك-root at the *start* of the verse when it appears mid-verse; all tafsir attributions, root derivations, and contextual claims are otherwise accurate and well-sourced.

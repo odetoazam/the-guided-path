@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/071-nuh/ayahs-015-016.md
+Ayah: 71:15
+Date: 2026-06-15T04:14:01
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَلَمْ=Do not | تَرَوْاْ=you see | كَيْفَ=how | خَلَقَ ٱللَّهُ=Allah has created | سَبْعَ=(the) seven | سَمَـٰوَٲتٍ=heavens | طِبَاقًا=(in) layers,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+
+- [MODERATE] "The classical commentator al-Qurtubi caught this precisely. He writes that *alam taraw* here is **عَلَى جِهَةِ الْإِخْبَارِ لَا الْمُعَايَنَةِ**" — this specific Arabic phrase does not appear in the provided Qurtubi excerpt. What Qurtubi's excerpt *does* say is "أي ألم تعلموا" (i.e., "do you not *know*/realize"), which is directionally consistent — he is indeed substituting *knowing* for *seeing*. The provided excerpt is truncated, so the phrase may exist in the fuller text, but it cannot be confirmed from the reference data supplied. Presenting it as a direct quotation with the Arabic text overstates the verification available.
+
+- [PASS] Arabic text for 71:15 matches the authenticated source exactly.
+- [PASS] Root analysis — *taraw* from *r-ʾ-y* (رأي) — is correct.
+- [PASS] Cross-reference to 29:14 ("a thousand years less fifty") is accurate.
+- [PASS] *Ṭibāqā* glossed as "one above another" — confirmed by all four tafsir sources (جلالين, مقرطبي: "بعضها فوق بعض").
+- [PASS] The *nūr* (moon) vs. *sirāj* (sun) distinction previewed in the introduction is lexically sound and well-attested across multiple surahs (10:5, 25:61, 78:13).
+
+SUMMARY: One moderate issue — a specific Arabic phrase attributed to al-Qurtubi cannot be confirmed from the reference data provided, though the underlying interpretive claim (that *taraw* functions here as *knowing*, not literal eyewitnessing) is genuinely supported by Qurtubi's paraphrase "ألم تعلموا"; the quote should either be sourced from the full Qurtubi text or reframed as a paraphrase.

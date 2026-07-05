@@ -1,0 +1,30 @@
+Enhanced Validation Report
+File: content/tadabbur/047-muhammad/ayah-014.md
+Ayah: 47:14
+Date: 2026-06-08T10:41:40
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَفَمَن=Then is (he) who | كَانَ=is | عَلَىٰ=on | بَيِّنَةٍ=a clear proof | مِّن=from | رَّبِّهِۦ=his Lord | كَمَن=like (he) who, | زُيِّنَ=is made attractive | لَهُۥ=for him | سُوٓءُ=(the) evil | عَمَلِهِۦ=(of) his deeds | وَٱتَّبَعُوٓاْ=while they follow | أَهْوَآءَهُم=their desires.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: CRITICAL
+
+ISSUES:
+- [CRITICAL] "The believer, meanwhile, is described as following nothing but his own hawā, his own appetite." — This directly inverts the verse. *Wattabaʿū ahwāʾahum* belongs to the **second** figure — the one whose evil deed was beautified. All four tafsirs are unanimous: Al-Baghawi: "يعني عبادة الأوثان وهم أبو جهل والمشركون"; Al-Muyassar: "واتبع ما دعته إليه نفسه من معصية الله" (referring to the one whose deed Shaytan beautified). The believer is on *bayyina*; the hawā-follower is his opposite. The sentence as written tells the reader the believer follows his desires, which contradicts the core contrast the entire reflection is built around.
+
+- [MODERATE] "Al-Qurtubi notes that this beautification can be understood from the side of Allah — khalqan, by way of creation and decree...And it can equally be understood from the side of Shaytan — duʿāʾan, by way of his whispering" — The provided Qurtubi excerpt is truncated mid-sentence and contains no *khalqan/duʿāʾan* distinction. This specific terminological framework cannot be verified from the supplied reference data. It may exist in the full Qurtubi, but attributing it with "Al-Qurtubi notes" treats it as confirmed when it is unverifiable here. Should be flagged or cited with a caveat.
+
+All other claims check out: *zuyyina* as Form II passive, the *zāy-yāʾ-nūn* root, *ittabaʿū* as Form VIII, the Abu Jahl identification (confirmed in Baghawi and Qurtubi), Al-Muyassar's naming of Shaytan as the one who *ḥassana* the deed, and the passive-voice framing as a deliberate choice carrying theological weight — all are well-supported by the reference data.
+
+SUMMARY: One critical factual inversion (hawā attributed to the believer rather than the second figure) and one unverifiable Qurtubi attribution require correction before this can be published.

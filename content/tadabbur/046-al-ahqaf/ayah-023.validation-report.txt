@@ -1,0 +1,42 @@
+Enhanced Validation Report
+File: content/tadabbur/046-al-ahqaf/ayah-023.md
+Ayah: 46:23
+Date: 2026-06-08T07:33:01
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: قَالَ=He said, | إِنَّمَا=`Only | ٱلْعِلْمُ=the knowledge | عِندَ ٱللَّهِ=(is) with Allah | وَأُبَلِّغُكُم=and I convey to you | مَّآ=what | أُرْسِلْتُ=I am sent | بِهِۦ=with it, | وَلَـٰكِنِّىٓ=but | أَرَٮٰكُمْ=I see you | قَوْمًا=a people | تَجْهَلُونَ=ignorant.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No CRITICAL or MODERATE issues found.
+
+SUPPORTING NOTES (informational, not flags):
+
+- **Al-Jalālayn attribution accurate**: The reflection renders "He alone is the One who knows when the punishment will come to you" — the actual text reads هو الذي يعلم متى يأتيكم العذاب, which this paraphrase faithfully captures.
+
+- **Al-Qurṭubī attribution accurate**: The reflection says Qurṭubī "spells out the exclusion word for word" with "ʿinda Llāh — lā ʿindī, not with me." The actual text reads: عند الله لا عندي — precise match.
+
+- **Tafsir consensus on scope of ʿilm correctly represented**: All four sources (Jalālayn, Muyassar, Qurṭubī, Baghawi) specify the knowledge in question is the *timing* of the punishment (متى يأتيكم العذاب / بوقت مجيء العذاب). The reflection makes this same specific claim throughout. No overclaiming.
+
+- **innamā as ḥaṣr**: Textbook Arabic grammar, not contested.
+
+- **Morphology note (Form II uballighu, Form IV passive ursiltu)**: Correct. بَلَّغَ is Form II; أَرْسَلَ Form IV, passive first-person past = أُرْسِلْتُ.
+
+- **jahl as moral condition**: Al-Muyassar adds وَجُرْأَتِكُمْ عَلَى اللَّهِ ("your audacity toward Allah"), supporting the reflection's framing of jahl as a moral rather than purely cognitive category.
+
+- **89:7-8 reference for Iram**: Accurate. The reflection quotes "had no equal made in all the lands" which corresponds to لَمْ يُخْلَقْ مِثْلُهَا فِى ٱلْبِلَـٰدِ.
+
+SUMMARY: All verifiable claims — tafsir attributions, morphological notes, grammatical analysis of innamā, and the scope of the knowledge referenced — check out against the provided reference data; this reflection is clean.

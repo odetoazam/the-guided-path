@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/051-adh-dhariyat/ayah-010.md
+Ayah: 51:10
+Date: 2026-06-09T02:18:04
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: قُتِلَ=Cursed be | ٱلْخَرَّٲصُونَ=the liars,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR/NOTE] "Cursed be the conjecturers" (used as the primary translation throughout, including the title) — The word-by-word reference gives "the liars" and every classical source leads with **كذابون** (liars): Jalalayn "لعن الكذابون," Baghawi "لعن الكذابون," Muyassar "لُعِن الكذابون." The root kh-r-ṣ does attenuate toward conjecture/fabrication (Qurtubi explicitly: "الكذابون الذين يتخرصون بما لا يعلمون"), so "conjecturers" is not wrong — but the reflection consistently foregrounds the epistemological conjecture dimension while the classical emphasis is squarely on lying/deception. This is a legitimate interpretive translation choice, not an error, but it should be disclosed as such rather than presented neutrally as if it were the consensus rendering.
+
+- [PASS] "The classical Arabic grammarian al-Farrāʾ documented this explicitly — al-Qurtubi cites him in his tafsir of this very ayah: *ma'nā qutila la'ana*" — Confirmed verbatim in Qurtubi: "وقال الفراء: معنى قتل لعن." Attribution and quotation are accurate.
+
+- [PASS] Passive-perfect imprecatory-formula analysis — Grammatically sound and directly supported by the Farrāʾ/Qurtubi chain. The claim that this is a pronouncement of condemnation, not a report of killing, is the mainstream tafsir position across all four sources provided.
+
+- [PASS] Four oaths description (adh-dhāriyāt, al-ḥāmilāt, al-jāriyāt, al-muqassimāt) — Accurate to 51:1–4.
+
+- [PASS] "Ayat al-Dayn, the debt verse in Al-Baqarah" named as longest ayah — Correct (2:282).
+
+- [PASS] *Ḥubuk* (51:7) glossed as "layered, interwoven structure of celestial paths" — Standard interpretation, no conflict with provided sources.
+
+SUMMARY: No factual errors; the sole observation is that translating خَرَّٰصُون as "conjecturers" (rather than "liars") is defensible given the root but runs against the unanimous كذابون emphasis in every classical source cited — a transparent interpretive choice, not a mistake.

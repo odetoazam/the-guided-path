@@ -1,0 +1,37 @@
+Enhanced Validation Report
+File: content/tadabbur/004-an-nisa/ayah-110.md
+Ayah: 4:110
+Date: 2026-06-24T10:11:38
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَمَن=And whoever | يَعْمَلْ=does | سُوٓءًا=evil | أَوْ=or | يَظْلِمْ=wrongs | نَفْسَهُۥ=his soul | ثُمَّ=then | يَسْتَغْفِرِ=seeks forgiveness | ٱللَّهَ=(of) Allah | يَجِدِ=he will find | ٱللَّهَ=Allah | غَفُورًا=Oft-Forgiving, | رَّحِيمًا=Most Merciful.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "He also preserves a second tradition, from al-Ḍaḥḥāk, connecting it to Waḥshī, the killer of Ḥamza" — The al-Qurtubi excerpt in the provided reference data truncates exactly at "وقال الضحاك : نزل" without revealing what al-Ḍaḥḥāk said it was revealed about. The Waḥshī connection cannot be confirmed or denied from the data supplied. It is presented as a documented fact about a named scholar's report; it requires verification against the full al-Qurtubi passage before publication.
+
+EVERYTHING ELSE CHECKS OUT:
+
+- Arabic text: identical to the authentic Arabic supplied.
+- Al-Baghawi attribution on offering tawbah to Tuʿma: confirmed — "يعرض التوبة على طعمة في هذه الآية."
+- Ibn ʿAbbas/al-Qurtubi attribution on tawbah to Banū Ubayriq: confirmed — "قال ابن عباس: عرض الله التوبة على بني أبيرق بهذه الآية."
+- Al-Baghawi's first reading (sūʾ = theft, ẓulm an-nafs = false accusation): confirmed — "يعني السرقة… برميه البريء."
+- Al-Baghawi's second reading (sūʾ = shirk, ẓulm an-nafs = lesser sins): confirmed — "أي: شركا… يعني: إثما دون الشرك."
+- ثُمَّ vs فَ grammatical distinction: standard Arabic morphology, accurately stated.
+- Form X yastaghfiru and mubālagha patterns ghafūr/raḥīm: morphologically standard, correctly described.
+- يَجِدِ glossed as "will find": matches word-by-word reference.
+
+SUMMARY: One specific scholar-attribution claim (al-Ḍaḥḥāk → Waḥshī via al-Qurtubi) cannot be verified from the truncated reference data and must be checked against the full text before the file is marked validated.

@@ -1,0 +1,24 @@
+Enhanced Validation Report
+File: content/tadabbur/043-az-zukhruf/ayahs-063-065.md
+Ayah: 43:63
+Date: 2026-06-06T23:53:13
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَلَمَّا=And when | جَآءَ=came | عِيسَىٰ=Isa | بِٱلْبَيِّنَـٰتِ=with clear proofs, | قَالَ=he said, | قَدْ=`Verily, | جِئْتُكُم=I have come to you | بِٱلْحِكْمَةِ=with wisdom | وَلِأُبَيِّنَ=and that I make clear | لَكُم=to you | بَعْضَ=some | ٱلَّذِى=(of) that which | تَخْتَلِفُونَ=you differ | فِيهِ‌ۖ=in it. | فَٱتَّقُواْ=So fear | ٱللَّهَ=Allah | وَأَطِيعُونِ=and obey me.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: ERROR
+ISSUES:
+- Could not run Claude check: Command failed: claude -p --system-prompt "You are a rigorous Islamic scholarship validator for Ayah
+SUMMARY: Claude semantic check failed

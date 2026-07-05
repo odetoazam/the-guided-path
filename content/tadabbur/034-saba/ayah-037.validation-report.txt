@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/034-saba/ayah-037.md
+Ayah: 34:37
+Date: 2026-05-16T22:38:24
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَمَآ=And not | أَمْوَٲلُكُمْ=your wealth | وَلَآ=and not | أَوْلَـٰدُكُم=your children | بِٱلَّتِى=[that] | تُقَرِّبُكُمْ=will bring you close | عِندَنَا=to Us | زُلْفَىٰٓ=(in) position, | إِلَّا=but | مَنْ=whoever | ءَامَنَ=believes | وَعَمِلَ=and does | صَـٰلِحًا=righteousness, | فَأُوْلَـٰٓئِكَ=then those, | لَهُمْ=for them | جَزَآءُ=(will be) reward | ٱلضِّعْفِ=two-fold | بِمَا=for what | عَمِلُواْ=they did, | وَهُمْ=and they | فِى=(will be) in | ٱلْغُرُفَـٰتِ=the high dwellings | ءَامِنُونَ=secure.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "there will be the **doubled** reward for what they did" — the translation renders جَزَآءُ ٱلضِّعْفِ as "doubled" (×2), but the provided tafsir sources specify a much larger multiplier. Al-Jalalayn states explicitly: *"الحسنة مثلا بعشر فأكثر"* ("a good deed, for example, by ten or more"). Al-Muyassar states: *"فالحسنة بعشر أمثالها إلى ما يشاء الله من الزيادة"* ("a good deed yields ten times its reward, and more as Allah wills"). "Doubled" implies ×2 and understates the scale documented in the reference data. The word-by-word renders it as "two-fold," which produces the same ambiguity. A more accurate rendering would be "the multiplied reward" or "the manifold reward."
+
+PASS elements (all verified against provided reference data):
+- **Mujahid attribution** — reflection: "Mujahid, also quoted by al-Qurtubi, glossed it simply as *qurbā*." Qurtubi text confirms: *"قال مجاهد : أي قربى"* ✓
+- **Al-Akhfash attribution** — reflection: "al-Akhfash, who said *zulfā* is an *ism al-maṣdar*." Qurtubi text confirms: *"وقال الأخفش : أي إزلافا ، وهو اسم المصدر"* ✓
+- **Al-Jalalayn attribution** — reflection: "Al-Jalalayn renders it as *taqrīban*." Jalalayn text confirms: *"زلفى» قربى، أي تقريبا"* ✓
+- Root analysis (q-r-b for *tuqarribukum*, z-l-f for *zulfā*) is linguistically accurate ✓
+- Contextual framing of the wealthy chiefs' theological argument in 34:35 is consistent with the passage_context and tafsir siyaq ✓
+
+SUMMARY: Scholar attributions for *zulfā* (Mujahid, al-Akhfash, Jalalayn) are all accurate against the provided reference data; the one MODERATE issue is the translation "doubled reward" understating جزاء الضعف, which the provided Jalalayn and Muyassar sources specify as at least tenfold multiplication.

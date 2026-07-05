@@ -1,0 +1,37 @@
+Enhanced Validation Report
+File: content/tadabbur/054-al-qamar/ayah-007.md
+Ayah: 54:7
+Date: 2026-06-09T23:42:20
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: خُشَّعًا=(Will be) humbled | أَبْصَـٰرُهُمْ=their eyes | يَخْرُجُونَ=they will come forth | مِنَ=from | ٱلْأَجْدَاثِ=the graves | كَأَنَّهُمْ=as if they (were) | جَرَادٌ=locusts | مُّنتَشِرٌ=spreading,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+
+- [MODERATE] "he even quotes a line of old poetry to prove it: *rijālun ḥasanun awjuhuhum*" — The provided Baghawi excerpt shows "مررت برجال حسن أوجههم" as a **prose grammatical example**, not a poetic citation. Baghawi then writes "قال الشاعر:" (the poet said:) and the actual poetry follows — but it is cut off in the reference data. The reflection has either conflated the prose example with the poetic quotation, or applied "poetry" to a phrase that appears before the poetry marker. The grammatical principle itself is correct; the genre attribution is potentially wrong.
+
+- [MODERATE] "in the reading of Ibn Masʿūd it was *khāshiʿatan abṣāruhum*" — this specific attribution to Ibn Masʿūd is **not attested in any of the four provided tafsir sources**. Al-Baghawi names four reciters of *khāshiʿan* (Abu ʿAmr, Yaʿqūb, Hamzah, Kisāʾī); Al-Qurtubi names three (Hamzah, Kisāʾī, Abu ʿAmr). Neither mentions Ibn Masʿūd. This is stated as a documented fact ("he records that…") and cannot be verified from the reference data provided.
+
+All other core claims check out:
+- Al-Qurtubi's *al-khushūʿ fī l-baṣar al-khuḍūʿ wa-dh-dhilla* — accurate verbatim.
+- Al-Jalalayn's gloss *dhalīlan* — accurate.
+- Al-Qurtubi's rationale for ascribing khushūʿ to the eyes (*athar al-ʿizz wa-dh-dhill yatabayyan fī nāẓir al-insān*) — accurate.
+- The cross-references to 79:9 (*abṣāruhā khāshiʿah*) and 42:45 (*yanẓurūna min ṭarfin khafiyy*) — both attested in the Qurtubi excerpt.
+- Qirāʾāt attributions (Abu ʿAmr/Hamzah/Kisāʾī per Qurtubi; Baghawi adding Yaʿqūb) — accurate per the reference data.
+- The ḥāl grammatical analysis — sound and consistent with classical grammar.
+
+SUMMARY: Two attribution claims require verification against primary sources outside the provided data — a potential poetry/prose conflation in the Baghawi citation, and an unattested Ibn Masʿūd reading variant; all tafsir glosses, qirāʾāt, and the ḥāl analysis are accurately sourced.

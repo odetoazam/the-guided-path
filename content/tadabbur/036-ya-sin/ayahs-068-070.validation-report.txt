@@ -1,0 +1,37 @@
+Enhanced Validation Report
+File: content/tadabbur/036-ya-sin/ayahs-068-070.md
+Ayah: 36:68
+Date: 2026-06-05T05:37:46
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَمَن=And (he) whom | نُّعَمِّرْهُ=We grant him long life, | نُنَكِّسْهُ=We reverse him | فِى=in | ٱلْخَلْقِ‌ۖ=the creation. | أَفَلَا=Then will not | يَعْقِلُونَ=they use intellect?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+
+- [MODERATE] "what the grammarians call the second form, *taʿwīl* by doubling the middle letter" — *taʿwīl* (تأويل) is the term for Quranic interpretive exegesis, not a label for Form II verb morphology. The masdar of the فعَّل pattern is *tafʿīl* (تفعيل), which Qurtubi himself uses in the very same passage: "من التنكيس." Calling the grammatical intensification process *taʿwīl* is a terminology error that could mislead readers trying to learn the Arabic morphological system.
+
+- [CANNOT VERIFY] "Sufyān noted that when a man reaches eighty, his body changes and his strength deserts him" — The Qurtubi reference provided is cut off mid-sentence at "وقال سفيان في قوله تعالى: ومن نعمره نن..." The specific detail "eighty" cannot be confirmed or denied from the data provided. Flag for independent verification before publication.
+
+Items that check out against sources:
+
+- Root n-k-s meaning (inversion, flipping on its head): confirmed by Qurtubi's "قلبته على رأسه فانتكس"
+- Qiraat attribution to ʿĀṣim and Ḥamza for the tashdīd reading: confirmed by Qurtubi and Baghawī verbatim
+- Qatāda's childhood-resemblance reading: confirmed by Qurtubi "يصير إلى حال الهرم الذي يشبه حال الصبا"
+- Baghawī's arḏal al-ʿumur framing: confirmed verbatim "نرده إلى أرذل العمر شبه الصبي في أول الخلق"
+- Physical and cognitive decline dual framing: confirmed by Muyassar "ضعف العقل وضعف الجسد"
+
+SUMMARY: The reflection is theologically and textually grounded throughout, but misidentifies *taʿwīl* as a grammatical term for Form II morphology — the correct term is *tafʿīl* — and makes one unverifiable attribution to Sufyān that requires source confirmation before publication.

@@ -1,0 +1,39 @@
+Enhanced Validation Report
+File: content/tadabbur/039-az-zumar/ayahs-043-044.md
+Ayah: 39:43
+Date: 2026-06-06T03:43:23
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَمِ=Or | ٱتَّخَذُواْ=have they taken | مِن دُونِ=besides | ٱللَّهِ=Allah | شُفَعَآءَ‌ۚ=intercessors? | قُلْ=Say, | أَوَلَوْ=`Even though | كَانُواْ=they were | لَا=not | يَمْلِكُونَ=possessing | شَيْــًٔا=anything, | وَلَا=and not | يَعْقِلُونَ=they understand?`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+**VERDICT: PASS**
+
+**ISSUES:**
+
+- [PASS] "*Am ittakhadhū* — meaning **bal** ittakhadhū*"* attributed to Al-Qurtubī — verified verbatim: the Qurtubī source reads "أي بل اتخذوا." Attribution and quote are accurate.
+
+- [PASS] "In the speech is an implied, swallowed phrase — *they did not reflect... instead, they took intercessors*" attributed to Qurtubī — verified: "وفي الكلام ما يتضمن لم، أي: إن في ذلك لآيات لقوم يتفكرون، لم يتفكروا ولكنهم اتخذوا آلهتهم شفعاء." Accurate paraphrase.
+
+- [PASS] *am* as *munqaṭiʿ* meaning "rather/bal" — confirmed by both Jalalayn («أم» بل) and Qurtubī independently. Multiply attested.
+
+- [PASS] Intercessors identified as idols (aṣnām) — Jalalayn: "يعني الأصنام"; Qurtubī: "يعني الأصنام"; Baghawi: "يعني الآلهة." Accurate.
+
+- [PASS] "We only worship them so that they may bring us nearer to Allah" cited as 39:3 — correct surah attribution for that famous line.
+
+- [PASS] Morphology footnote: *ittakhadhū* = Form VIII (√أ-خ-ذ), *yamlikūna/yaʿqilūna* = Form I imperfect, *turjaʿūna* = Form I imperfect passive — all correct.
+
+- [UNVERIFIABLE from provided data, not an error] Claim that *lā yaʿqilūn* means the idols cannot perceive their own worship — the reflection does not assert this as its own claim; it is drawn from Jalalayn/Baghawi ("لا يعقلون أنكم تعبدونهم"), which the data confirms. No overreach.
+
+**SUMMARY:** Every verifiable claim in the reflection is grounded in the supplied tafsir and word-by-word data; no root errors, no inverted attributions, no overstated scholar positions.

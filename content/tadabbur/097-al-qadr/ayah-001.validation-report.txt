@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/097-al-qadr/ayah-001.md
+Ayah: 97:1
+Date: 2026-06-20T05:29:30
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّآ=Indeed, We | أَنزَلْنَـٰهُ=revealed it | فِى=in | لَيْلَةِ=(the) Night | ٱلْقَدْرِ=(of) Power.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+**VERDICT: MODERATE**
+
+**ISSUES:**
+
+- [MODERATE] "Al-Qurtubi explains the logic — 'because the meaning is known, and the entire Quran is like a single surah'" — The provided al-Qurtubi excerpt reads: *"يعني القرآن، وإن لم يجر له ذكر في هذه السورة"* — which establishes only that the pronoun refers to the Quran despite having no prior mention in the surah. The explanatory gloss attributed to al-Qurtubi — that "the meaning is known" and "the entire Quran is like a single surah" — does not appear in the supplied al-Qurtubi text. This reasoning exists in the classical grammatical tradition, but attributing it specifically to al-Qurtubi overstates what the provided source supports.
+
+**What checks out:**
+
+- The Makki/Madani dispute is accurately rendered: al-Qurtubi (*أكثر المفسرين* → Madani), al-Baghawi (*مكية* → Makki), Ibn Abbas reported on both sides (*أحد قولي ابن عباس*) — all verified ✓
+- Al-Baghawi's *"كِنَايَةٌ عَنْ غَيْرِ مَذْكُورٍ"* is quoted accurately and the translation "a pronoun standing in for something unmentioned" is correct ✓
+- Al-Qurtubi's *"يعني القرآن، وإن لم يجر له ذكر في هذه السورة"* is faithfully paraphrased where directly attributed ✓
+- *أَنزَلْنَٰهُ* as Form IV (causative) perfect of root *n-z-l* is morphologically correct ✓
+- The hidden-referent (*ḍamīr ghayr madhkūr*) analysis is the consensus classical position, confirmed by both al-Qurtubi and al-Baghawi ✓
+- Translation "Indeed, We sent it down in the Night of Power" is accurate to the word-by-word reference ✓
+
+**SUMMARY:** Solid and well-grounded throughout; one moderate attribution slip where an explanatory elaboration is credited to al-Qurtubi that goes beyond what the supplied al-Qurtubi text actually contains.

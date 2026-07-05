@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/050-qaf/ayah-005.md
+Ayah: 50:5
+Date: 2026-06-08T22:08:03
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: بَلْ=Nay, | كَذَّبُواْ=they denied | بِٱلْحَقِّ=the truth | لَمَّا=when | جَآءَهُمْ=it came (to) them, | فَهُمْ=so they | فِىٓ=(are) in | أَمْرٍ=a state | مَّرِيجٍ=confused.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "al-Baghawī and others report from the early authorities, they kept *changing their accusation*. One day the Prophet ﷺ is a poet and this is poetry. The next day he is a sorcerer..." — The changing-accusations detail (sāḥir/shāʿir/kāhin) is explicitly attested in al-Jalālayn ("قالوا مرة: ساحر وسحر، ومرة: شاعر وشعر، ومرة: كاهن وكهانة") and in al-Qurṭubī via al-Ḍaḥḥāk and Ibn Zayd ("قاله الضحاك وابن زيد"), not al-Baghawī as the primary named source. The provided al-Baghawī excerpt truncates mid-sentence precisely at the relevant point ("يقولون للنبي - صلى الله عليه وسلم - ، م"), so attribution to al-Baghawī specifically cannot be verified from the reference data. The underlying fact is sound; the attribution is imprecise.
+
+ISSUES (PASS items, explicitly confirmed):
+- Arabic text matches the authentic provided exactly.
+- Translation ("But they denied the truth when it came to them, so they are in a confused, unsettled state") is accurate per the word-by-word reference.
+- Form II *kadhdhabū* analysis (intensive/iterative *takdhīb*, not simple disbelief) is morphologically correct and well-grounded.
+- The intertextual link between *jāʾahum* in 50:2 and 50:5 is a valid literary observation, not an invented claim.
+- *Al-Ḥaqq* = al-Qurʾān is confirmed by all four tafsir sources (al-Jalālayn, al-Muyassar, al-Qurṭubī: "في قول الجميع", al-Baghawī).
+
+SUMMARY: The reflection is substantively accurate and linguistically careful; the single moderate flag is an attribution imprecision — the changing-accusations motif belongs primarily to al-Jalālayn and al-Qurṭubī in the provided data, not al-Baghawī.

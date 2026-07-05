@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/036-ya-sin/ayahs-066-067.md
+Ayah: 36:66
+Date: 2026-06-05T05:31:43
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَلَوْ=And if | نَشَآءُ=We willed, | لَطَمَسْنَا=We (would have) surely obliterated | عَلَىٰٓ=[over] | أَعْيُنِهِمْ=their eyes, | فَٱسْتَبَقُواْ=then they (would) race | ٱلصِّرَٲطَ=(to find) the path, | فَأَنَّىٰ=then how | يُبْصِرُونَ=(could) they see?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+
+- [MODERATE] "this is one of the only places in the Qur'an where Allah describes a punishment in order to tell you He is not sending it" — overstates uniqueness. Al-Baghawi's own tafsir on this very verse cites 2:20 ("ولو شاء الله لذهب بسمعهم وأبصارهم") as a direct structural parallel, noting "كما قال الله عز وجل" — "as Allah said." The counterfactual-withholding construction is not singular to 36:66. The reflection even self-lists 2:20 as a *related_ayah*, making this internally inconsistent.
+
+- [MODERATE] "the present of renewal — the sustaining is happening continuously... a loan being re-extended, moment by moment" — *nashāʾu* is indeed mudāriʿ (imperfect/present), but the theological elaboration of *continuous moment-by-moment renewal* is an interpretive extension not supported by any of the four tafsir sources provided. None of al-Jalalayn, al-Muyassar, al-Qurtubi, or al-Baghawi draw attention to the verb tense as a carrier of this meaning. The concept is plausible and coheres with broader Islamic theology (*tawakkul*, divine sustaining), but it is presented as a linguistic derivation ("what the linguists would call") when no classical lexical source is cited for it.
+
+The text cuts before the full *ṭamasnā* analysis, but the direction taken — distinguishing *ṭams* from ordinary blindness (*aʿmā*) — is well-grounded. Al-Qurtubi explicitly states: "المطموس والطميس عند أهل اللغة الأعمى الذي ليس في عينيه شق," and al-Baghawi: "بحيث لا يبدو لها جفن ولا شق." That element is on solid footing.
+
+SUMMARY: No root, attribution, or Arabic text errors; two moderate issues of overstated uniqueness and unanchored linguistic elaboration, both correctable with qualification rather than retraction.

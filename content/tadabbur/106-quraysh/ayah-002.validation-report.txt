@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/106-quraysh/ayah-002.md
+Ayah: 106:2
+Date: 2026-06-20T08:46:01
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِۦلَـٰفِهِمْ=Their familiarity | رِحْلَةَ=(with the) journey | ٱلشِّتَآءِ=(of) winter | وَٱلصَّيْفِ=and summer,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "By the time this surah was revealed, Quraysh had completely stopped noticing" — stated as established historical fact about Quraysh's inner psychological state. None of the four tafsir sources provided (Jalālayn, Muyassar, Qurṭubī, Baghawī) make this claim. The surah's rhetorical structure implies unacknowledged blessing, but the move from *implied argument* to *documented historical attitude* is an interpretive extension that should be framed as inference, not narrative certainty.
+
+PASSING ELEMENTS (verified against reference data):
+- Winter caravan to Yemen / summer to Shām: confirmed by Jalālayn and Muyassar as the majority view. The qualifier "most reports say to Yemen" correctly hedges against the Ibn ʿAbbās/Baghawī minority tradition (Mecca winters / Ṭāʾif summers).
+- Form IV morphological analysis (alifa → ālafa → masdar īlāf) is linguistically accurate and consistent with Jalālayn's explicit identification: "مصدر آلف بالمد."
+- The claim that Form IV implies an external causal agent is grammatically sound and aligns with Baghawī's passive/causative reading of the structure.
+- Quranic cross-reference 14:37 (*wādin ghayri dhī zarʿ*) is accurately cited.
+- Root أ-ل-ف yielding *ulfa* (intimacy/affection) is lexically attested in Lisān al-ʿArab (referenced in frontmatter).
+- Arabic text in frontmatter matches the authenticated ayah.
+
+SUMMARY: The reflection's linguistic and historical core is well-grounded; the single moderate issue is one interpretive inference about Quraysh's psychological state dressed as documented fact, which could be corrected by framing it as "the surah implies" rather than asserting it as history.

@@ -1,0 +1,27 @@
+Enhanced Validation Report
+File: content/tadabbur/052-at-tur/ayah-033.md
+Ayah: 52:33
+Date: 2026-06-09T15:33:36
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَمْ=Or | يَقُولُونَ=(do) they say, | تَقَوَّلَهُۥ‌ۚ=`He has made it up` | بَل=Nay, | لَّا=not | يُؤْمِنُونَ=they believe.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR] "Al-Baghawī says *exactly the same*" — the two scholars' phrasings differ in degree: Qurtubī says *"يستعمل في الكذب في غالب الأمر"* (used for lying in the majority of cases), while Baghawī says *"ولا يستعمل إلا في الكذب"* (not used except for lying — i.e., exclusively). Both are accurately quoted individually, but calling them identical papers over the stronger absolutism in Baghawī vs. Qurtubī's qualified "majority." Not a factual error, but imprecise framing.
+- [UNVERIFIABLE FROM PROVIDED DATA] "some of them would creep to the Prophet's house at night, separately, in secret, just to listen at the wall..." — a sīrah narration (typically attributed to Ibn Hishām, regarding Abū Sufyān, Abū Jahl, and al-Akhnas ibn Sharīq). Well-known and broadly accepted, but outside the scope of the reference data provided. Cannot confirm or deny from what was given.
+
+SUMMARY: All morphological claims (Form V / takalluf reading of تقوّل), tafsir attributions, and Arabic quotations are accurate against the provided references; the two notes above are a minor framing imprecision and an out-of-scope sīrah reference, neither constituting a scholarly error.

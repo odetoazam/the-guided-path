@@ -1,0 +1,30 @@
+Enhanced Validation Report
+File: content/tadabbur/113-al-falaq/ayah-002.md
+Ayah: 113:2
+Date: 2026-06-20T21:25:09
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: مِن=From | شَرِّ=(the) evil | مَا=(of) what | خَلَقَ=He created,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "grammarians call it *ibtidāʾ al-ghāya*, the starting-point — is to mark **a portion taken out of a larger whole**" — this conflates two distinct grammatical categories. *Ibtidāʾ al-ghāya* (ابتداء الغاية) denotes the starting-point of a spatial or directional extent ("from Mecca to Medina"); it does not describe partitive selection. "A portion taken out of a larger whole" is the function grammarians call *tab'īḍ* (التبعيض). The theological conclusion drawn — that we seek refuge from the *sharr* of creation, not from creation itself — is sound and consistent with al-Muyassar ("from the evil of all creatures") and al-Qurtubi's preferred general reading, but the grammatical label applied to reach it is the wrong one.
+
+- [UNVERIFIABLE] "The same root family carries the sense of **a spark, the scattering of sparks from a fire**" — the connection between شَرَر (sparks/embers) and شَرّ (evil) via root ش-ر-ر is plausible and appears in classical lexical tradition, but the provided reference data (Jalalain, Muyassar, Qurtubi, Baghawi) does not address it. Cannot confirm or deny from what was supplied.
+
+All other elements check out: the Arabic text matches exactly, the translation is accurate, the indefinite reading of شَرّ (not ash-sharr) is grammatically correct, the general-comprehensive interpretation of مَا خَلَقَ is well-attested in all four tafsir sources provided, and the structural framing (ayah 2 as the broad umbrella before the three specific threats) is accurate to the surah's form.
+
+SUMMARY: The reflection is theologically sound and classically grounded, but carries one moderate terminological error: it assigns the definition of *tab'īḍ* (partitive selection) to *ibtidāʾ al-ghāya* — a mislabel that would mislead readers with Arabic grammar training, even though the theological application of مِن is valid.

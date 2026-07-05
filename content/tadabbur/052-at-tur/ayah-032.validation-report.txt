@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/052-at-tur/ayah-032.md
+Ayah: 52:32
+Date: 2026-06-09T16:20:36
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَمْ=Or | تَأْمُرُهُمْ=command them | أَحْلَـٰمُهُم=their minds | بِهَـٰذَآ‌ۚ=this, | أَمْ=or | هُمْ=they | قَوْمٌ=(are) a people | طَاغُونَ=transgressing?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "al-Baghawi tells us something precise here: the great ones of Quraysh were known and praised for their **aḥlām** and their **ʿuqūl**" — Accurate. al-Baghawi: *عظماء قريش كانوا يوصفون بالأحلام والعقول*. Direct match. ✓
+- [PASS] "al-Muyassar puts his finger right on it: *the traits of soothsaying, poetry, and madness cannot possibly gather in one person at one time*" — Accurate. al-Muyassar: *صفات الكهانة والشعر والجنون لا يمكن اجتماعها في آن واحد*. Faithful paraphrase. ✓
+- [PASS] "al-Jalalayn: *aḥlāmuhum — ʿuqūluhum*" — Accurate. Jalalayn text confirms *عقولهم*. ✓
+- [PASS] "al-Baghawi gives us the emotional core: Allah *belittled their intellects* (أزرى الله بعقولهم) at the precise moment those intellects *failed to distinguish truth from falsehood*" — Accurate. al-Baghawi: *أزرى الله بعقولهم حين لم تتميز لهم معرفة الحق من الباطل*. Verbatim. ✓
+- [PASS] Ḥ-L-M root dual-sense claim (ḥilm = forbearance/intellect; ḥulm = dream; shared plural *aḥlām*) — Lexically attested. The reflection correctly hedges this as an *invitation* ("what this invites us to consider") rather than a stated tafsir position. ✓
+- [PASS] *aḍghāthu aḥlām* citations (12:44, 21:5) — Accurate; 21:5 is the denier-dismissal instance, 12:44 is the Yusuf context. Both are correct. ✓
+- [UNVERIFIABLE — content truncated] The al-Qurtubi *ʿaql* distinction claim begins at the 8,000-character cutoff. The provided al-Qurtubi text includes the ʿAmr ibn al-ʿĀṣ report (*تلك عقول كادها الله*) but does not present a formal two-faculty taxonomy. If the reflection attributes a structured ʿaql/dhihn distinction to al-Qurtubi rather than to the general Arabic lexical tradition, that attribution should be reviewed in the untruncated text before publication.
+
+SUMMARY: All verifiable claims in the visible portion are accurately grounded in the provided tafsir sources; the one item requiring follow-up is the al-Qurtubi faculty-distinction claim that falls outside the 8,000-character window.

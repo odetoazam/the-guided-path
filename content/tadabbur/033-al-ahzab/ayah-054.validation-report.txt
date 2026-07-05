@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/033-al-ahzab/ayah-054.md
+Ayah: 33:54
+Date: 2026-05-15T13:40:58
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِن=Whether | تُبْدُواْ=you reveal | شَيْــًٔا=a thing | أَوْ=or | تُخْفُوهُ=conceal it, | فَإِنَّ=indeed, | ٱللَّهَ=Allah | كَانَ=is | بِكُلِّ=of all | شَىْءٍ=things | عَلِيمًا=All-Knower.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] Root assignments for *tubdū* (b-d-w, ب-د-و) and *tukhfūhu* (kh-f-y, خ-ف-ي) are both lexically correct and uncontested.
+- [PASS] "according to narrations preserved in al-Baghawi, certain individuals were harboring intentions they had not spoken aloud" — Al-Baghawi explicitly records *nuzūl* context as those who *aḍmara nikāḥ ʿĀ'isha baʿda rasūl Allāh* (harbored intention to marry ʿĀ'isha after the Prophet ﷺ). The reflection's paraphrase is more general but not inaccurate; it does not misattribute or invert the position.
+- [PASS] *fa'īl* intensive pattern for *'alīmā* — morphologically correct; ʿAlīm is a canonical *fa'īl* pattern intensive adjective, attested in every classical lexicon.
+- [PASS] *kāna*'s theological timelessness in divine-attribute contexts — consistent with how al-Jalālayn, al-Qurṭubī, and al-Muyassar all frame the attribute here; the Qurṭubī text explicitly reads the verse as praise of Allah's all-encompassing eternal knowledge (*'ālim bi-mā badā wa-mā khafiya wa-mā kāna wa-mā lam yakun*).
+- [PASS] Phonological description of *bā'* as a labial plosive whose articulation is ejective and outward is technically accurate. *Khā'* as a back-of-throat fricative (voiceless uvular/velar fricative) is accurate. The *muḥākāt al-ṣawt* framing is a recognized concept in Arabic balāghah; the reflection presents it as a reflective lens, not a juristic claim, which is appropriate.
+- [PASS] The Arabic in the body matches the authenticated text. The frontmatter Arabic omits the superscript alif marker on the final *tanwīn* of *'alīmā* — a Unicode rendering difference, not a textual error.
+- [PASS] Historical frame ("fifth year after the hijra," siege of the Trench just survived) is accurate for Surah 33's *nuzūl* context.
+- [PASS] Translation "indeed Allah has always been, of all things, All-Knowing" is a defensible and precise rendering of *fa-inna Allāha kāna bi-kulli shay'in 'alīmā*, capturing the pre-eternal force of *kāna* with divine attributes.
+
+SUMMARY: All verifiable claims — morphological, historical, tafsir-contextual, and translational — are accurate against the provided reference data; no errors found.

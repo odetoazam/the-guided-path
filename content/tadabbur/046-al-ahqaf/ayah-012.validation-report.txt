@@ -1,0 +1,44 @@
+Enhanced Validation Report
+File: content/tadabbur/046-al-ahqaf/ayah-012.md
+Ayah: 46:12
+Date: 2026-06-08T06:55:05
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَمِن قَبْلِهِۦ=And before it | كِتَـٰبُ=(was the) Scripture | مُوسَىٰٓ=(of) Musa | إِمَامًا=(as) a guide | وَرَحْمَةً‌ۚ=and a mercy. | وَهَـٰذَا=And this | كِتَـٰبٌ=(is) a Book | مُّصَدِّقٌ=confirming, | لِّسَانًا=(in) language | عَرَبِيًّا=Arabic | لِّيُنذِرَ=to warn | ٱلَّذِينَ=those who | ظَلَمُواْ=do wrong | وَبُشْرَىٰ=and (as) a glad tidings | لِلْمُحْسِنِينَ=for the good-doers.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- None identified within the provided excerpt.
+
+Detail checks performed:
+
+**Arabic text**: Matches the authentic reference (diacritic rendering variants only, no substantive error).
+
+**Root *a-m-m* (أمم) etymology**: Correct. The derivational family — imām, umm, ummah, amām — is a standard lexical cluster; the semantic thread the reflection draws ("the thing that goes before, the thing you face") is lexically attested.
+
+**Grammatical claim — *imāman* as *ḥāl***: Verified directly. Al-Qurtubi: *"إِمَامًا نُصِبَ عَلَى الْحَالِ; لِأَنَّ الْمَعْنَى: وَتَقَدَّمَهُ كِتَابُ مُوسَى إِمَامًا"* — explicit. Al-Baghawi: *"نُصِبَا عَلَى الْحَالِ عَنِ الْكِسَائِيِّ"* — confirmed.
+
+**"Yuqtadā bihi" citation**: Verified. Al-Baghawi: *"إِمَامًا يُقْتَدَى بِهِ"* — exact phrase.
+
+**Implied-verb second reading**: Verified. Al-Baghawi cites Abū ʿUbayda: *"فِيهِ إِضْمَارٌ، أَيْ جَعَلْنَاهُ إِمَامًا وَرَحْمَةً"*. The reflection paraphrases the implied verb as *anzalnāhu* rather than *jaʿalnāhu* — a minor liberty, but not an error: the Muyassar uses *"أَنْزَلْنَا التَّوْرَاةَ إِمَامًا"* explicitly. Both verbs appear in the tradition; the reflection's paraphrase is acceptable.
+
+**Verb-noun asymmetry claim** (*ẓalamū* as past-tense verb vs. *muḥsinīn* as active participle/identity-carrier): Morphologically accurate. ẓalamū is third-person masculine plural past verb; muḥsinīn is Form IV active participle used as a substantive. The theological observation (wrongdoing named as an act, goodness named as a state) is a legitimate and defensible literary reading, not an overclaim.
+
+**Morphology frontmatter**: muṣaddiq (Form II active participle, root Ṣ-D-Q), yundhir (Form IV verb, root N-DH-R), muḥsinīn (Form IV active participle, root Ḥ-S-N) — all correct.
+
+**Contextual framing** (the surah's challenge to deniers in 46:4): Accurate.
+
+SUMMARY: All verifiable claims in the provided excerpt are grounded in the reference data and classical tafsir; no factual, morphological, or attribution errors detected.

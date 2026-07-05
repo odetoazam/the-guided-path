@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/038-sad/ayah-028.md
+Ayah: 38:28
+Date: 2026-06-06T00:46:34
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَمْ=Or | نَجْعَلُ=should We treat | ٱلَّذِينَ=those who | ءَامَنُواْ=believe | وَعَمِلُواْ=and do | ٱلصَّـٰلِحَـٰتِ=righteous deeds | كَٱلْمُفْسِدِينَ=like those who spread corruption | فِى=in | ٱلْأَرْضِ=the earth? | أَمْ=Or | نَجْعَلُ=should We treat | ٱلْمُتَّقِينَ=the pious | كَٱلْفُجَّارِ=like the wicked?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] HTML comment: "Form IV present in آمنوا (Amn)" — آمنوا is Form IV **perfect** (māḍī), not present (muḍāriʿ). The Form IV present would be يُؤْمِنُونَ. This mislabels the verb's tense/aspect in the internal metadata.
+- [MODERATE] HTML comment: "Form VIII present in المتقين (wqy)" — المتقين is the Form VIII **active participle** (ism al-fāʿil from اتَّقَى), not a verbal "present" form at all. The Form VIII present (imperfect) would be يَتَّقُونَ. Same mislabeling pattern.
+
+BODY TEXT — all clear:
+- Al-Jalalayn quote `wa-am bi-maʿnā hamzat al-inkār` matches reference verbatim (وأم بمعنى همزة الإنكار). ✓
+- Al-Baghawi/Muqatil attribution accurate — the Quraysh taunt is attested in both al-Baghawi and al-Jalalayn reference sources. ✓
+- Al-Qurtubi's reconstruction as `a-najʿalu` is supported by `تقديره: أنجعل` in the reference. ✓
+- Istifhām inkārī concept correctly identified and sourced. ✓
+- All eight roots in the comment (Amn, ArD, Eml, SlH, fjr, fsd, jEl, wqy) are correct. ✓
+- Arabic text matches the authenticated text. ✓
+- Contextual framing (38:27 before, 38:29 after) is accurate and classically supported.
+
+SUMMARY: The reader-facing body is scholarship-clean with citations verified; the two MODERATE issues are tense/form mislabels confined to the internal HTML metadata comment, which could corrupt downstream morphological processing if that comment feeds a pipeline.

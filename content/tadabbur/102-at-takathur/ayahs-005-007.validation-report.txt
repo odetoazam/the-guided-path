@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/102-at-takathur/ayahs-005-007.md
+Ayah: 102:5
+Date: 2026-06-20T07:12:44
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: كَلَّا=Nay! | لَوْ=If | تَعْلَمُونَ=you know | عِلْمَ=(with) a knowledge | ٱلْيَقِينِ=(of) certainty.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR / UNVERIFIABLE FROM PROVIDED DATA] "go out to the graveyards to count their dead ancestors to win bragging contests" — The historical asbab al-nuzul claim about pre-Islamic Makkans literally visiting graves for tribal counting contests is widely cited (Ibn Kathir, Ibn Abi Hatim chains) but cannot be confirmed from the four tafsir excerpts provided. Not an error — just outside the supplied reference set.
+
+- [CONFIRMED ACCURATE] "Al-Qurtubi noticed this repetition... He said it is because Allah followed each kallā with a different consequence — ʿaqqaba kulla wāḥidin bi-shayʾin ākhar" — The Arabic wording in Qurtubi is "عقب كل واحد بشيء آخر" and the two paraphrased consequences ("you will regret it... you will deserve punishment") map precisely to Qurtubi's "فإنكم تندمون... فإنكم تستوجبون العقاب." Attribution and substance are accurate.
+
+- [CONFIRMED ACCURATE] "The grammarians call it a particle of radʿ and zajr" — Qurtubi explicitly states "وهو زجر وتنبيه"; radʿ is the standard companion term in Arabic grammatical literature (Ibn Hisham). Both terms apply.
+
+- [CONFIRMED ACCURATE] The unfinished conditional (jawab al-shart mahdhuf) — Baghawi explicitly states "وجواب 'لو' محذوف، أي: لو تعلمون علما يقينا لشغلكم ما تعلمون عن التكاثر والتفاخر." The reflection's treatment of the hanging sentence is grounded.
+
+- [CONFIRMED ACCURATE] "علم اليقين" rendered as cognate accusative / idafa — Jalalayn gives "علما يقينا" (adverbial/cognate reading); Baghawi gives the idafa reading citing "حق اليقين" as parallel. The reflection's dual framing is defensible.
+
+- [CONFIRMED ACCURATE] Arabic text for ayahs 5–7, all transliterations, and the three-occurrence count of كَلَّا (verses 3, 4, 5) are correct.
+
+SUMMARY: The reflection is linguistically precise and classically grounded throughout the visible portion; all attributed claims check out against the provided tafsir data, with one asbab al-nuzul detail that exceeds the supplied reference set but is not wrong.

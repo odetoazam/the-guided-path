@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/099-az-zalzalah/ayah-006.md
+Ayah: 99:6
+Date: 2026-06-20T06:39:52
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَوْمَئِذٍ=That Day | يَصْدُرُ=will proceed | ٱلنَّاسُ=the mankind | أَشْتَاتًا=(in) scattered groups | لِّيُرَوْاْ=to be shown | أَعْمَـٰلَهُمْ=their deeds.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR NOTE] "Al-Qurtubi, al-Baghawi, the Jalalayn — they are unanimous in the picture: *yarjiʿūna ʿan mawqif al-ḥisāb*" — technically Qurtubi presents the mawqif reading under "قِيلَ" (it was said), signaling it as one view among several, while Jalalayn and Baghawi treat it as the primary reading without qualification. "Unanimous" is slightly imprecise; "concurrent" would be more accurate. Not a factual error — Qurtubi does endorse the reading — but a minor rhetorical overstatement. Does not distort the content.
+- [VERIFIED] Verb form claim "li-yuraw (Form IV passive, imperfect)": defensible and semantically correct. Form I passive (يُرى from رأى = to be seen) and Form IV passive (يُرى from أرى = to be shown) are graphically identical in the imperfect — classical commentators read the meaning as causative ("to be shown their recompense"), which aligns with Form IV. Attribution is linguistically honest.
+- [VERIFIED] Attribution to Jalalayn ("ينصرفون من موقف الحساب"), Baghawi ("يرجع الناس عن موقف الحساب بعد العرض"), and Qurtubi — all confirmed against provided sources word-for-word.
+- [VERIFIED] Al-Baghawi destination quote (*fa-ākhidhun dhāta-l-yamīni ila-l-jannah*) confirmed verbatim in the provided Baghawi text.
+- [VERIFIED] 19:71 (*wa in minkum illā wāriduhā*) used to establish the wurūd/ṣudūr lexical contrast — the reflection correctly identifies it as Fire-approach language and the application to establish the semantic field is linguistically sound, not a doctrinal conflation.
+- [VERIFIED] ṣ-d-r root, ṣadr connection, and sh-t-t root for *ashtātan* are all classically attested.
+
+SUMMARY: The reflection is accurate and well-grounded against all provided reference data; the single imprecision ("unanimous" for Qurtubi) is rhetorical rather than factual and does not affect the validity of the linguistic or tafsir content.

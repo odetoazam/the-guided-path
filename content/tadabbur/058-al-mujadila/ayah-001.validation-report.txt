@@ -1,0 +1,26 @@
+Enhanced Validation Report
+File: content/tadabbur/058-al-mujadila/ayah-001.md
+Ayah: 58:1
+Date: 2026-06-12T18:08:59
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: قَدْ=Indeed, | سَمِعَ ٱللَّهُ=Allah has heard | قَوْلَ=(the) speech | ٱلَّتِى=(of) one who | تُجَـٰدِلُكَ=disputes with you | فِى=concerning | زَوْجِهَا=her husband | وَتَشْتَكِىٓ=and she directs her complaint | إِلَى=to | ٱللَّهِ=Allah. | وَٱللَّهُ=And Allah | يَسْمَعُ=hears | تَحَاوُرَكُمَآ‌ۚ=(the) dialogue of both of you. | إِنَّ=Indeed, | ٱللَّهَ=Allah | سَمِيعُۢ=(is) All-Hearer, | بَصِيرٌ=All-Seer.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE — not flagged] "ʿAisha ... said: 'Blessed is He whose hearing encompasses all things. I could barely hear the words of Khawla as she stood right beside me'" — presented as a verbatim quote, but the provided Qurtubi excerpt is truncated before reaching this narration. The report is well-attested (cited in Ibn Majah and Musnad Ahmad traditions, commonly included in tafsir of this ayah), but **exact wording cannot be confirmed against the reference data supplied here**. Not an error, but flag if the pipeline has stricter sourcing requirements for direct quotation.
+
+SUMMARY: All verifiable claims — Khawla bint Thaʿlaba, Aws ibn al-Ṣamit, ẓihār as pre-Islamic permanent-prohibition custom (Baghawi: "من طلاق أهل الجاهلية"), the Prophet's initial response of prohibition (Jalalayn), the Madani status (Qurtubi: "مدنية في قول الجميع"), qad + past-tense function, Form-III tujādiluka, Form-VIII tashtakī, Form-VI taḥāwur — all check out against the provided word-by-word, Arabic text, and tafsir sources; the reflection is accurate and well-grounded.

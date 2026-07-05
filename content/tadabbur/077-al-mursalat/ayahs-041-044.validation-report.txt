@@ -1,0 +1,38 @@
+Enhanced Validation Report
+File: content/tadabbur/077-al-mursalat/ayahs-041-044.md
+Ayah: 77:41
+Date: 2026-06-18T11:10:37
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّ=Indeed, | ٱلْمُتَّقِينَ=the righteous | فِى=(will be) in | ظِلَـٰلٍ=shades | وَعُيُونٍ=and springs,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [INFORMATIONAL] "Form VIII...very often carries a reflexive or middle sense" — accurate as a general characterization (supported by classical Arabic grammar, cf. Wright's *Morphology*). For root *w-q-y* specifically, Form VIII *ittaqā* does carry the reflexive meaning "to protect oneself." No issue.
+- [INFORMATIONAL] "The deed did not just earn the reward. The deed became the reward" — interpretive/homiletic elaboration, not a claim sourced from any tafsir. Appropriate for tadabbur register; not overstated as a documented scholarly position.
+- [INFORMATIONAL] The semantic parallel drawn between *wiqāya* (covering/shield) and *ẓilāl* (shade/covering) is presented as the author's own insight, not attributed to any classical scholar. Lexically defensible (both involve *covering*); no classical tafsir source is misrepresented.
+
+What was checked and confirmed:
+- Arabic text of 77:41 matches authentic Arabic exactly ✓
+- Root *w-q-y* = "to shield, guard, protect" — correct, attested in Lisān and Mufradāt ✓
+- *Al-muttaqīn* as Form VIII (*iftaʿala*) active participle — correct morphology ✓
+- *Ẓilāl* = shades of trees — confirmed by Jalalayn (*تكاثف أشجار*), Baghawi (*ظلال الشجر*) ✓
+- *ʿUyūn* = springs of water — confirmed by all four tafsir sources ✓
+- 77:30–31 structural contrast (false shade vs. real shade) — accurate per surah text ✓
+- *Kaʾl-qaṣr* (77:32) as "like fortresses" — valid translation of *qaṣr* ✓
+- No scholar attributions made in this segment; none to verify ✓
+
+SUMMARY: The reflection is linguistically grounded and tafsir-aligned throughout the portion shown; all morphological claims are accurate, all Arabic quotations are correct, and interpretive elaborations are clearly framed as insight rather than documented scholarly positions.

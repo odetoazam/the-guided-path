@@ -1,0 +1,40 @@
+Enhanced Validation Report
+File: content/tadabbur/052-at-tur/ayahs-009-010.md
+Ayah: 52:9
+Date: 2026-06-09T15:51:12
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَوْمَ=(On the) Day | تَمُورُ=will shake | ٱلسَّمَآءُ=the heaven | مَوْرًا=(with violent) shake
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No genuine errors found in the portion reviewed.
+
+Supporting checks:
+
+**Grammar of *yawma***: "Al-Jalālayn, al-Qurṭubī — they tie this *yawma* directly back to the word **وَاقِعٌ** in ayah seven" — confirmed by both sources verbatim. Al-Jalālayn: «يوم» مفعول لواقع; al-Qurṭubī: العامل في "يوم" قوله: واقع. Attribution is accurate, not inverted.
+
+**Cognate accusative claim**: The description of *tamūru mawran* and *tasīru sayran* as verbs followed by nouns from "the exact same root" is linguistically precise. The maf'ul mutlaq identification is correct; the "collar-grabbing" emphasis function described is the standard classical explanation for this construction.
+
+**Meaning of *mawr***: The translation "violent churning" is well-supported. Al-Baghawī explicitly states مور "يجمع هذه المعاني" (encompasses: going, coming, rotation, disturbance, turbulence). Al-Ḍaḥḥāk's يموج بعضها في بعض and Mujāhid's تدور دورا both align with "churning."
+
+**Surah-level framing**: The claim that the surah opens with oaths "upon a mountain and upon the raised canopy of the sky" (52:1, 52:5) is accurate.
+
+**Root citations in the morphology note**: م-و-ر, س-م-و, ي-و-م, س-ي-ر, ج-ب-ل are all correctly identified Form I roots.
+
+**One observation (not a flag)**: The reflection is cut off mid-sentence at "The verb sa-" — the cognate accusative argument for ayah 10 (*sayran*) is incomplete in the submitted text. No validation is possible for that segment, but nothing in what exists is in error.
+
+SUMMARY: All grammatical claims, root identifications, and tafsir attributions in the submitted portion are accurate and grounded in the provided classical sources.

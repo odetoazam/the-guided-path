@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayah-051.md
+Ayah: 3:51
+Date: 2026-06-21T11:24:27
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّ=Indeed, | ٱللَّهَ=Allah | رَبِّى=(is) my Lord | وَرَبُّكُمْ=and your Lord, | فَٱعْبُدُوهُ‌ۗ=so worship Him. | هَـٰذَا=This | صِرَٲطٌ مُّسْتَقِيمٌ=(is) the straight path.``
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] Arabic text in reflection ("هَـٰذَا صِرَٰطٌ مُّسْتَقِيمٌ") vs. authentic ("هَٰذَا صِرَٰطٌۭ مُّسْتَقِيمٌۭ") — typographic variant only, not a content error.
+- [PASS] Al-Muyassar quote: reflection renders *"fa-anā wa-antum sawāʾ fī al-ʿubūdiyyati wa-l-khuḍūʿi lah"* — matches the provided Arabic exactly ("فأنا وأنتم سواء في العبودية والخضوع له"). Translation "equal in servitude and in submission to Him" is accurate.
+- [PASS] Root ر-ب-ب semantic range (Lord, Sustainer, one who brings to completion; the "gardener" analogy) — standard Lisān al-ʿArab / Rāghib attested range for tarbiya dimension of rabb.
+- [PASS] Morphological note in header: مستقيم as Form X active participle of ق-و-م (istaqāma → mustaqīm) is correct per Leeds corpus convention.
+- [PASS] Miracle catalogue attributed to 3:49 and the "bi-idhni Allāh" framing — accurate to the preceding ayah.
+- [INTERPRETIVE, NOT FLAGGED] "This is the most dangerous moment in ʿĪsā's entire mission" — dramatic homiletic framing, not stated as a tafsir claim, and not contraindicated by any provided source. No classical source supplied here supports or refutes it, so it cannot be called an error.
+
+SUMMARY: All verifiable linguistic, morphological, and source-citation claims in the first 8000 characters check out against the provided reference data; the reflection's interpretive moves are clearly framed as such and not overstated as documented tafsir positions.

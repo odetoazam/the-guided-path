@@ -1,0 +1,40 @@
+Enhanced Validation Report
+File: content/tadabbur/055-ar-rahman/ayah-019.md
+Ayah: 55:19
+Date: 2026-06-10T08:51:59
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: مَرَجَ=He released | ٱلْبَحْرَيْنِ=the two seas, | يَلْتَقِيَانِ=meeting.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- None found. All attributions, morphological claims, and lexical renderings check out against the supplied sources.
+
+Specific spot-checks that passed:
+
+1. **Al-Qurtubi attribution on *al-ihmāl***: The reflection quotes "the root meaning of *marj* … is *al-ihmāl* — to leave something unsupervised — 'as the riding animal is turned loose to graze in the pasture.'" Al-Qurtubi's text confirms exactly: *"wa-aṣlu l-marji l-ihmālu kamā tamruju l-dābbatu fī l-marʿā."* ✓
+
+2. **Al-Baghawi attribution on *arsalahumā wa khallāhumā***: Al-Baghawi's text reads *"arsalahumā wa khallāhumā yaltaqiyān."* The reflection's rendering is verbatim. ✓
+
+3. **Al-Qurtubi / Al-Akhfash — second reading *khalaṭa***: The reflection says some linguists read *maraja* as *khalaṭa*, and that Al-Akhfash records *amraja* as a dialect variant with the same sense. Al-Qurtubi's text confirms: *"wa-yuqālu: maraja khalaṭa. wa-qāla l-Akhfashu: wa-yaqūlu qawmun amraja l-baḥrayni mithla maraja, fiʿlun wa-afʿala bi-maʿnā."* ✓
+
+4. **Morphology footnote — "yaltaqiyāni = Form VIII imperfect dual"**: Root l-q-y, Form VIII perfect *iltaqā*, imperfect *yaltaqī*, dual *yaltaqiyāni*. Correct. ✓
+
+5. **Interpretive framing of "two camera angles"** (release = beginning, mixing = end of same motion): Presented explicitly as the author's synthesis of the two classical readings, not as a documented fact from any single scholar. No overstating. ✓
+
+6. **The barrier (barzakh) placed in the *next* verse**: The reflection says "the very next verse will tell us the released seas honor a limit" — accurate; 55:20 carries *baynahumā barzakhun lā yabghiyān*, confirmed in al-Muyassar. ✓
+
+SUMMARY: Every linguistic claim, scholar attribution, and morphological assertion in this excerpt is accurate and properly sourced; no critical or moderate flags warranted.

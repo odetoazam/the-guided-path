@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/047-muhammad/ayah-025.md
+Ayah: 47:25
+Date: 2026-06-08T11:00:36
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّ=Indeed, | ٱلَّذِينَ=those who | ٱرْتَدُّواْ=return | عَلَىٰٓ=on | أَدْبَـٰرِهِم=their backs | مِّنۢ بَعْدِ=after | مَا=what | تَبَيَّنَ=has become clear | لَهُمُ=to them | ٱلْهُدَى‌ۙ=the guidance, | ٱلشَّيْطَـٰنُ=Shaitaan | سَوَّلَ=enticed | لَهُمْ=[for] them | وَأَمْلَىٰ=and prolonged hope | لَهُمْ=for them.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Qatādah and Ibn Jurayj said: these are the People of the Book, who found the description of the Prophet ﷺ written in what they already had, **recognized him the way you recognize your own child**, and then denied him" — The "like your own child" simile is not from Qatādah's recorded statement on this verse. Qurtubi and Baghawi document Qatādah only saying: *كفروا بالنبي صلى الله عليه وسلم بعدما عرفوا نعته عندهم* ("they disbelieved in the Prophet after they knew his description among them"). The "recognize your own child" imagery belongs to 2:146 (*يَعْرِفُونَهُۥ كَمَا يَعْرِفُونَ أَبْنَآءَهُمْ*), a different verse. Presenting it here as part of Qatādah's reading of 47:25 — without signaling the cross-verse borrowing — overstates the documented attribution.
+
+All other claims check out:
+
+- Tafsir attributions (Qatādah/Ibn Jurayj = Ahl al-Kitāb; Ibn ʿAbbās/al-Ḍaḥḥāk/al-Suddī = hypocrites) are reproduced exactly from Qurtubi and Baghawi.
+- Morphological forms (Form VIII *irtadda*, Form V *tabayyana*, Form II *sawwala*, Form IV *amlā*) are accurate.
+- *Sawwala* = beautified/enticed and *amlā* = prolonged hope both match Jalalayn (*زيَّن*) and Muyassar (*مدَّ لهم في الأمل*).
+- The Form VIII reflexive characterization ("they did it to themselves") is a pedagogical simplification but defensible for *irtadda* specifically and is not stated as a universal rule.
+- The *shadda* on the *dāl* in *irtaddū* is correct.
+
+SUMMARY: One moderate attribution embellishment — Qatādah's documented position on 47:25 is accurate in substance but is overstated by appending imagery drawn from 2:146 without flagging the source shift.

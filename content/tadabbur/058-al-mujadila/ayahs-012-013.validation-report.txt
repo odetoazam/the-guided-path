@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/058-al-mujadila/ayahs-012-013.md
+Ayah: 58:12
+Date: 2026-06-12T18:27:27
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ=O you who believe! | إِذَا=When | نَـٰجَيْتُمُ=you privately consult | ٱلرَّسُولَ=the Messenger, | فَقَدِّمُواْ=then offer | بَيْنَ يَدَىْ=before | نَجْوَٮٰكُمْ=your private consultation, | صَدَقَةً‌ۚ=charity. | ذَٲلِكَ=That | خَيْرٌ=(is) better | لَّكُمْ=for you | وَأَطْهَرُ‌ۚ=and purer. | فَإِن=But if | لَّمْ=not | تَجِدُواْ=you find, | فَإِنَّ=then indeed, | ٱللَّهَ=Allah | غَفُورٌ=(is) Oft-Forgiving, | رَّحِيمٌ=Most Merciful.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "Almost no one obeyed it before it was gone" — stated as fact without hedging or citation. The famous Ali ibn Abi Talib narration (that he was the only companion who gave the sadaqa before a private consultation) is the classical basis for this claim, but it does not appear in any of the four provided tafsir excerpts. Cannot verify from the reference data supplied. The claim may be accurate per wider classical transmission, but as written it reads as documented fact rather than attributed narration.
+
+- [MODERATE] "Another narration, from Muqātil ibn Ḥayyān cited by al-Baghawī, is that it was especially the wealthy who kept coming for these private audiences" — al-Baghawī's excerpt is truncated mid-sentence and does not reach this narration. Cannot confirm or deny from the provided reference data. The Ibn ʿAbbās narration in al-Baghawī is verifiable (*shaqqū ʿalayhi*, confirmed); this secondary Muqātil attribution is not.
+
+Everything else checks out:
+- Ibn ʿAbbās attribution to both al-Qurṭubī and al-Baghawī: verified. *Shaqqū ʿalayhi* appears verbatim in al-Baghawī.
+- Form III analysis of *nājaytum* (mutual/reciprocal flavor): linguistically accurate per standard Arabic morphology.
+- Root *n-j-w* connecting to *najāt* (deliverance) and *najwah* (high ground): attested in classical lexicons (Lisān al-ʿArab, Mufradāt al-Rāghib), consistent with the frontmatter morphology note.
+- Abrogation within consecutive verses: confirmed by al-Jalālayn (*thumma nukhiya dhālika bi-qawlihi*).
+- Arabic text: diacritical encoding variants only; no substantive textual error.
+
+SUMMARY: No critical errors in root, morphology, or scholar attribution; two claims require citation or hedging as they cannot be verified from the provided reference excerpts.

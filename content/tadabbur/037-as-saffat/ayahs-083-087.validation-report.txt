@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/037-as-saffat/ayahs-083-087.md
+Ayah: 37:83
+Date: 2026-06-05T09:06:11
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ۞ وَإِنَّ=And indeed, | مِن=among | شِيعَتِهِۦ=his kind | لَإِبْرَٲهِيمَ=(was) surely Ibrahim,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "And the surah closes Nuh's portrait — and then immediately says: wa inna min shīʿatihi la-Ibrāhīm — among his party was Abraham" — presented as the unambiguous referent, but al-Qurtubi (provided) explicitly records al-Kalbī and al-Farrāʾ holding that the pronoun refers to Muhammad (ﷺ), not Nuh: «وقال الكلبي والفراء : المعنى : وإن من شيعة محمد لإبراهيم». The majority position (Nuh referent, adopted by Jalalayn, Muyassar, Baghawi) is a defensible choice, but presenting it as settled when the provided Qurtubi source documents an explicit scholarly disagreement overstates certainty. A one-clause acknowledgment of the ikhtilāf is warranted.
+
+CONFIRMED ACCURATE:
+- Ibn Abbas attribution ("people of his religion"), Mujahid ("upon his path/sunnah"), al-Aṣmaʿī (shīʿah from shiyāʿ = small kindling) — all three match Qurtubi verbatim.
+- Jalalayn's 2,640-year figure rendered as "more than two and a half thousand years / twenty-six centuries" — arithmetically correct.
+- Hud and Salih named as intervening — matches Jalalayn directly: «وكان بينهما هود وصالح».
+- al-Aṣmaʿī attribution is handled carefully: the reflection attributes the etymology (shiyāʿ connection) to him, not the metaphorical extension — the kindling image is clearly the author's reflection, not a misattribution.
+- Arabic text of 37:83 matches the provided authentic Arabic exactly.
+
+SUMMARY: One moderate issue — the pronoun referent (Nuh vs. Muhammad) is presented as settled when the provided Qurtubi tafsir records a documented scholarly disagreement that the site's stated methodology of ikhtilāf transparency should acknowledge.

@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/087-al-ala/ayahs-001-005.md
+Ayah: 87:1
+Date: 2026-06-18T17:45:30
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: سَبِّحِ=Glorify | ٱسْمَ=(the) name | رَبِّكَ=(of) your Lord, | ٱلْأَعْلَى=the Most High,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [INFORMATIONAL] "al-Lāt, derived they said from *Allāh*; al-ʿUzzā, from *al-ʿAzīz*" — This etymology is a recognized traditional claim (found in Ibn Kathir and others), but it falls outside the four tafsir sources provided. Cannot confirm or refute from this reference set; flag for a wider source check if this claim is load-bearing.
+- [INFORMATIONAL] "The surah is reported to have been among the Prophet's ﷺ favorites in prayer" — Correctly hedged with "reported," and the claim is soundly documented in Ṣaḥīḥ Muslim (Jumu'ah/Eid recitation hadith), but nothing in the provided tafsir excerpts speaks to it. The al-Qurtubi excerpt does confirm the "سبحان ربي الأعلى" response sunnah, which is consistent.
+- [PASS] "One reading — you find it in al-Jalālayn — treats the word *ism* as *zāʾid*" — Directly confirmed: «واسم زائد» appears verbatim in the provided al-Jalālayn text. Accurate attribution.
+- [PASS] "A second reading — al-Muyassar... declare His very name free of every partner and every deficiency" — Confirmed: «نَزِّه اسم ربك الأعلى عن الشريك والنقائص» matches precisely.
+- [PASS] "*al-Aʿlā*... صفة لربك (attribute of your Lord)" — Confirmed by al-Jalālayn: «الأعلى صفة لربك».
+- [PASS] "*sabbiḥ*: declare your Lord far above every imperfection" — Confirmed by al-Jalālayn «نزه ربك عما لا يليق به» and al-Muyassar «نَزِّه... تنزيهًا يليق بعظمته».
+- [PASS] Surah described as Makkan — Confirmed by al-Qurtubi: «مكية في قول الجمهور».
+- [PASS] *sabbiḥ* identified as Form II imperative — Morphologically correct (فَعِّل pattern); consistent with the Leeds corpus note in the frontmatter.
+
+SUMMARY: The reflection's core linguistic and tafsir claims are accurate and well-sourced against the provided reference data; two contextual claims (idol etymology, prayer-favorite hadith) are sound but lie outside the supplied sources and should be noted as unverified by this reference set.

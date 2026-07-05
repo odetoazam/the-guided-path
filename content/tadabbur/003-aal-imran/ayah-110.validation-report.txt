@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayah-110.md
+Ayah: 3:110
+Date: 2026-06-21T12:27:04
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: كُنتُمْ=You are | خَيْرَ=(the) best | أُمَّةٍ=(of) people | أُخْرِجَتْ=raised | لِلنَّاسِ=for the mankind - | تَأْمُرُونَ=enjoining | بِٱلْمَعْرُوفِ=the right | وَتَنْهَوْنَ=and forbidding | عَنِ=[from] | ٱلْمُنكَرِ=the wrong | وَتُؤْمِنُونَ=and believing | بِٱللَّهِ‌ۗ=in Allah. | وَلَوْ=And if | ءَامَنَ=believed | أَهْلُ=(the) People | ٱلْكِتَـٰبِ=(of) the Book | لَكَانَ=surely would have been | خَيْرًا=good | لَّهُم‌ۚ=for them. | مِّنْهُمُ=Among them | ٱلْمُؤْمِنُونَ=(are) the believers, | وَأَكْثَرُهُمُ=but most of them | ٱلْفَـٰسِقُونَ=(are) defiantly disobedient.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "Al-Jalālayn reads it through the lens of Allah's knowledge: *kuntum* — 'you were' — in the eternal knowledge of Allah" — accurately rendered; Jalālayn text confirms: «كنتم» يا أمة محمد **في علم الله تعالى** «خير أمة أخرجت». ✓
+- [PASS] "Al-Muyassar reads it as plain present force: *antum* — 'you are'" — confirmed; Muyassar opens with أنتم - يا أمة محمد, rendering the perfect as present-tense assertion. ✓
+- [PASS] "Third reading…continuity" — not attributed to a named scholar in the provided sources, and the reflection appropriately attributes it to "the commentators" generically rather than to a specific tafsir. Acceptable framing. ✓
+- [PASS] أُخْرِجَتْ rendered "brought forth" (passive) with gloss on divine agency — linguistically sound; root خرج in passive Form IV participle. Word-by-word supplies "raised," same semantic field, no conflict. ✓
+- [PASS] Historical framing: "Jewish interlocutors questioning the community's standing" — corroborated by Baghawi's occasion-of-revelation narrative (Mālik b. al-Ṣayf and Wahb b. Yahūdhā: "we are better than you"). ✓
+- [PASS] Arabic text in frontmatter and body matches authentic Arabic provided, with only standard Unicode diacritic variants. ✓
+
+SUMMARY: All verifiable claims in the first 8,000 characters are accurately grounded in the supplied tafsir and word-by-word data; no factual, morphological, or attribution errors detected.

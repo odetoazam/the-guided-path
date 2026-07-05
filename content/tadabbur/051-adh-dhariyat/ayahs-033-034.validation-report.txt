@@ -1,0 +1,28 @@
+Enhanced Validation Report
+File: content/tadabbur/051-adh-dhariyat/ayahs-033-034.md
+Ayah: 51:33
+Date: 2026-06-09T02:08:56
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: لِنُرْسِلَ=That we may send down | عَلَيْهِمْ=upon them | حِجَارَةً=stones | مِّن=of | طِينٍ=clay,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE — argument incomplete, not a stated error] "Clay. Wet earth. The softest, most yielding, most shapeable substance there is" — Etymologically accurate for raw ṭīn, but the developing "STONES MADE OF SOFTNESS" argument does not yet engage two classical tafsir specifications that are directly on point: Jalalayn specifies **مطبوخ بالنار** (baked/fired with fire) and Muyassar specifies **حجارة من طين متحجِّر** (clay that had petrified/hardened). The text cuts off mid-sentence before completing the argument. If the full piece presents raw clay's softness as the operative quality without acknowledging the fired or petrified state, it would misrepresent the classical position. Worth noting: engaging these details would *strengthen* the reflection's paradox — the clay was transformed by fire into hardness, making the substance-of-origin point even more theologically resonant.
+
+- All root analyses verified: r-s-l (Form IV imperfect لِنُرْسِلَ ✓), Ḥ-j-r (حِجَارَةً ✓), Ṭ-y-n (طِينٍ ✓). The lām of purpose parsing is correct. The parallel *ursilnā / li-nursila* observation is textually sound and directly supported by 51:32 in the reference data. Narrative citations (fa-awjasa minhum khīfah, fa-mā khaṭbukum ayyuhā l-mursalūn, innā ursilnā ilā qawmin mujrimīn) are all accurate to the Quranic account. The musawwama = marked reading aligns with Muyassar's معلَّمة.
+
+SUMMARY: The linguistic and narrative scaffolding is rigorous and source-grounded; the one pre-publication gap is that the ṭīn-as-softness argument must incorporate Jalalayn's مطبوخ بالنار and Muyassar's متحجِّر before the piece can be validated as complete.

@@ -1,0 +1,49 @@
+Enhanced Validation Report
+File: content/tadabbur/065-at-talaq/ayah-006.md
+Ayah: 65:6
+Date: 2026-06-13T12:01:08
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَسْكِنُوهُنَّ=Lodge them | مِنْ حَيْثُ=[from] where | سَكَنتُم=you dwell, | مِّن=(out) of | وُجْدِكُمْ=your means | وَلَا=and (do) not | تُضَآرُّوهُنَّ=harm them | لِتُضَيِّقُواْ=to distress | عَلَيْهِنَّ‌ۚ=[on] them. | وَإِن=And if | كُنَّ=they are | أُوْلَـٰتِ حَمْلٍ=pregnant, | فَأَنفِقُواْ=then spend | عَلَيْهِنَّ=on them | حَتَّىٰ=until | يَضَعْنَ=they deliver | حَمْلَهُنَّ‌ۚ=their burden. | فَإِنْ=Then if | أَرْضَعْنَ=they suckle | لَكُمْ=for you, | فَـَٔـاتُوهُنَّ=then give them | أُجُورَهُنَّ‌ۖ=their payment, | وَأْتَمِرُواْ=and consult | بَيْنَكُم=among yourselves | بِمَعْرُوفٍ‌ۖ=with kindness, | وَإِن=but if | تَعَاسَرْتُمْ=you disagree, | فَسَتُرْضِعُ=then may suckle | لَهُۥٓ=for him | أُخْرَىٰ=another (women).
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No errors identified in the provided excerpt.
+
+Supporting notes on each verifiable claim:
+
+**Morphology (frontmatter comment + body)**
+- "Form IV أسكنوا … causative" — أَسْكِنُوهُنَّ is Form IV (أَفْعَلَ) of *s-k-n*; causative reading ("cause to dwell") is correct per classical grammarians and confirmed by all four tafsir sources which gloss it as "house the divorcées."
+- "Form III تضاروا as directed/reciprocal" — تُضَآرُّوهُنَّ is Form III (فَاعَلَ) of *ḍ-r-r*; the directed/reciprocal characterisation is standard.
+- "Form II تضيقوا as intensive-causative" — تُضَيِّقُوا is Form II (فَعَّلَ) of *ḍ-y-q*; correct.
+- "Form IV أرضعن as causative" — أَرْضَعْنَ is Form IV of *r-ḍ-ʿ* (to cause to nurse); correct.
+- "Form VIII ائتمروا" — وَأْتَمِرُوا is Form VIII of *ʾ-m-r*; the gloss "consult" matches the word-by-word and all tafsir sources.
+- "Form VI تعاسرتم" — وَإِن تَعَاسَرْتُمْ is Form VI of *ʿ-s-r*; correct.
+
+**Root resonance claim (*s-k-n*)**
+- "Two verbs chime from the same root" — أَسْكِنُوهُنَّ (Form IV command) and سَكَنتُم (Form I perfect) share root *s-k-n*; the phonetic chiming is real and linguistically attested.
+- "sakīna from this exact root" — سَكِينَة is unambiguously from *s-k-n*; the 48:4 citation is accurate.
+- "sukūn — stillness" — سُكُون from *s-k-n* is correct per classical lexicons.
+
+**Tafsir alignment**
+- All four sources (Jalālayn, Muyassar, Qurṭubī, Baghawī) confirm the addressees are divorced women during ʿidda, housing is proportional to the husband's means (وُجْد = capacity/ability), and the prohibition is against using the dwelling as a tool of pressure — matching the reflection's framing exactly.
+
+**Quranic citations**
+- 65:2 ("way out") and 65:4 ("affair made easy") are correctly cited; taqwa saturation of the surah is accurate.
+
+**Caveat:** The provided excerpt ends mid-sentence at the sakīna discussion (Element One, first section). Claims about وُجْدِكُمْ, أُجُورَهُنَّ, وَأْتَمِرُوا, and تَعَاسَرْتُمْ have not yet appeared in the body text, so those sections remain unvalidated.
+
+SUMMARY: The excerpt is linguistically rigorous — morphological form assignments are accurate, the *s-k-n* root resonance argument is sound, all Quranic citations check out, and the tafsir framing is consistent with Jalālayn, Muyassar, Qurṭubī, and Baghawī; no errors found in the portion reviewed.

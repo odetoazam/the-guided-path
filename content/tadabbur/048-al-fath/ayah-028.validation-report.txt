@@ -1,0 +1,42 @@
+Enhanced Validation Report
+File: content/tadabbur/048-al-fath/ayah-028.md
+Ayah: 48:28
+Date: 2026-06-08T14:14:14
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: هُوَ=He | ٱلَّذِىٓ=(is) the One Who | أَرْسَلَ=(has) sent | رَسُولَهُۥ=His Messenger | بِٱلْهُدَىٰ=with guidance | وَدِينِ=and (the) religion, | ٱلْحَقِّ=the true | لِيُظْهِرَهُۥ=that He (may) make it prevail | عَلَى=over | ٱلدِّينِ=the religions | كُلِّهِۦ‌ۚ=all. | وَكَفَىٰ=And sufficient is | بِٱللَّهِ=Allah | شَهِيدًا=(as) a Witness.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate issues found in the portion reviewed.
+
+Specific checks:
+
+**Arabic text**: Matches the authentic text exactly (the `ًۭا` vs `ًا` variation in شَهِيدًا is a Unicode display variant, not a substantive difference).
+
+**Root ẓ-h-r etymology**: "Its most concrete, physical meaning is the back — *aẓ-ẓahr*" — correct per Lisān al-ʿArab; the extension to appearance/surfacing is lexically attested.
+
+**Form IV identification**: *li-yuẓhirahu* is correctly identified as Form IV (أَظْهَرَ / يُظْهِرُ), and the causative gloss "to make appear / to cause to surface" is accurate.
+
+**Subject of *yuẓhira***: Claim that the hidden subject is Allah, not the believers, is supported by all four tafsir sources (Jalalayn: "ليظهره" → "على جميع باقي الأديان"; Muyassar: "ليُعْليه"; Qurtubi: "يعليه على كل الأديان").
+
+**Tense analysis**: *arsala* (perfect/completed) vs. *yuẓhira* (imperfect/ongoing) — linguistically correct; the reflection does not overstate this as a unique scholarly finding, but presents it as a grammatical observation.
+
+**ʿUmar's quote at Hudaybiyyah**: Close paraphrase of the narration in Bukhārī (Book of Expeditions); not presented as a verbatim hadith, appropriately styled as reported speech.
+
+**Cross-referenced ayahs 9:33 and 61:9**: Correct — both are the parallel repetitions of this verse's core clause.
+
+SUMMARY: All linguistic claims, verb-form analyses, historical details, and tafsir-aligned interpretations in the reviewed portion are accurate and well-grounded.

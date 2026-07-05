@@ -1,0 +1,44 @@
+Enhanced Validation Report
+File: content/tadabbur/004-an-nisa/ayah-112.md
+Ayah: 4:112
+Date: 2026-06-25T06:12:34
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَمَن=And whoever | يَكْسِبْ=earns | خَطِيٓــَٔةً=a fault | أَوْ=or | إِثْمًا=a sin | ثُمَّ=then | يَرْمِ=throws | بِهِۦ=it | بَرِيٓــًٔا=(on) an innocent, | فَقَدِ=then surely | ٱحْتَمَلَ=he (has) burdened (himself) | بُهْتَـٰنًا=(with) a slander | وَإِثْمًا=and a sin | مُّبِينًا=manifest.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No errors found. All verifiable claims check out against the provided sources.
+
+Supporting observations:
+
+**Arabic text:** Matches the authentic Arabic exactly (minor unicode variation in nunation marks only — not an error).
+
+**Banū Ubayriq / armor narrative:** The reflection says "in the narration al-Baghawī preserves, a Jewish man of Madinah." Al-Baghawī's provided text confirms: *"وهو نسبة السرقة إلى اليهودي"* — attributing the theft to a Jewish man. Accurate and correctly sourced.
+
+**Khaṭīʾah vs. ithm analysis — all four views correctly rendered:**
+- "Al-Qurṭubī reports... near-synonyms, repeated for emphasis" ← Qurṭubī: *"قيل هما بمعنى واحد كرر لاختلاف اللفظ تأكيدا"* ✓
+- "al-Ṭabarī: khaṭīʾah deliberate or accidental, ithm only deliberate" ← Qurṭubī quoting al-Ṭabarī verbatim: *"الخطيئة تكون عن عمد وعن غير عمد، والإثم لا يكون إلا عن عمد"* ✓
+- "khaṭīʾah specifically the unintended slip" ← Qurṭubī: *"وقيل الخطيئة ما لم تتعمده خاصة كالقتل بالخطأ"* ✓
+- "Al-Jalālayn: khaṭīʾah the smaller wrong, ithm the greater" ← Jalālayn: *"ذنبا صغيرا... ذنبا كبيرا"* ✓
+
+**Morphology footnote:** iḥtamala as Form VIII of √ḥ-m-l is correct (iftaʿala pattern); mubīn as Form IV active participle of √b-y-n is correct. Both verified.
+
+**Core theological claim (throw/carry paradox):** Grounded in the word-by-word gloss: yarmi = "throws," iḥtamala = "he has burdened himself." The reflection does not overstate this — it presents it as the verse's own language, not a scholarly opinion.
+
+**One note (not an error):** The reflection states "Al-Qurṭubī reports a view that they are near-synonyms" — technically Qurṭubī is relaying *qīla* (an unnamed reporter's view), not endorsing it himself. The reflection's attribution is loose but not inverted; the view is indeed *in* Qurṭubī's text, not fabricated.
+
+SUMMARY: The reflection accurately represents all four classical positions on khaṭīʾah/ithm, correctly attributes the armor/Jewish man asbāb from al-Baghawī, and the linguistic analysis of kasb, yarmi, and iḥtamala is grounded in the word-by-word data — no factual errors detected in the portion reviewed.

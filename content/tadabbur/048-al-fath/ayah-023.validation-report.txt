@@ -1,0 +1,27 @@
+Enhanced Validation Report
+File: content/tadabbur/048-al-fath/ayah-023.md
+Ayah: 48:23
+Date: 2026-06-08T14:26:05
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: سُنَّةَ=(The established) way | ٱللَّهِ=(of) Allah | ٱلَّتِى=which | قَدْ خَلَتْ=passed away | مِن قَبْلُ‌ۖ=before, | وَلَن=and never | تَجِدَ=you will find | لِسُنَّةِ ٱللَّهِ=in (the) way of Allah | تَبْدِيلاً=any change.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+
+- [MODERATE] "The sunnah is described as having 'gone before.' But what the root actually paints is generations emptying" — The grammatical subject of خَلَتْ is unambiguously the sunnah (الَّتِى refers back to سُنَّة). The reflection correctly identifies this first ("the sunnah is described as having gone before") but then pivots: it reframes the imagery so that *generations* are what empty out while the sunnah persists. The classical sources do not read it this way. Qurṭubī: "طريقة الله وعاداته السالفة" — Allah's preceding ways and customs. Muyassar: "سنة الله التي سنَّها في خلقه من قبل" — the sunnah Allah established in His creation beforehand. Both treat خَلَتْ as the sunnah having *preceded in history*, not as generations vacating while the sunnah endures. The theological conclusion (sunnah persists, peoples pass) is sound, but the grammatical vehicle — asserting the root "paints" a picture the syntax doesn't support — is an interpretive extension beyond what the structure licenses.
+
+SUMMARY: Every maf'ūl muṭlaq claim is impeccably sourced and all scholar attributions are accurate; the single MODERATE flag is the khalat passage, where a correct grammatical observation is immediately followed by an imaginative inversion of its subject that classical tafsir does not corroborate.

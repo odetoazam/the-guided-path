@@ -1,0 +1,29 @@
+Enhanced Validation Report
+File: content/tadabbur/046-al-ahqaf/ayah-016.md
+Ayah: 46:16
+Date: 2026-06-08T07:26:59
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أُوْلَـٰٓئِكَ=Those | ٱلَّذِينَ=(are) the ones | نَتَقَبَّلُ=We will accept | عَنْهُمْ=from them | أَحْسَنَ=(the) best | مَا=(of) what | عَمِلُواْ=they did | وَنَتَجَاوَزُ=and We will overlook | عَن=from | سَيِّـَٔـاتِهِمْ=their evil deeds, | فِىٓ=among | أَصْحَـٰبِ=(the) companions | ٱلْجَنَّةِ‌ۖ=(of) Paradise. | وَعْدَ=A promise | ٱلصِّدْقِ=true | ٱلَّذِى=which | كَانُواْ=they were | يُوعَدُونَ=promised.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+
+- [MODERATE] "aḥsana … It is the **superlative** shape: 'the *best*, the *most* beautiful.' … Let me make sure you feel the strangeness of this" — The reflection builds its entire central theological argument on the strict superlative reading of أَحْسَنَ (God accepts the *best* deeds from a mixed record). However, Al-Jalalayn explicitly states **"(أحسن) بمعنى حسن"** — أحسن here carries the sense of simply "good," not the comparative-superlative — and Al-Baghawi confirms **"وكلها حسن، والأحسن بمعنى الحسن"** ("all their deeds are good; aḥsan here means ḥasan"). Both sources are saying that because the deeds in view are already righteous (ṣāliḥāt), the elative form does not function as a strict superlative selecting some tier over others. Al-Muyassar does preserve the superlative sense ("أحسن ما عملوا من صالحات الأعمال"), so the position is not baseless, but the reflection presents one side of a genuine classical disagreement as self-evident without acknowledgment.
+
+- [MODERATE] Morphology comment claims **"نَتَقَبَّلُ Form V (qbl)"** — this is correct. But the reflection's prose extends Form V's semantic content beyond what morphology alone establishes: "the grammar itself leans in," "God reaches toward," "a deliberate, gracious step forward." The form تَقَبَّلَ does carry a nuance of gracious or favoring acceptance (attested in usage), but the specific directional imagery ("bends toward you") is interpretive elaboration, not a morphological property. This is permissible spiritual tafsīr but should be framed as interpretive rather than grammatically derived. Not a factual error; flagged for register.
+
+SUMMARY: No critical errors in root analysis, verb form identification, or contextual framing; the one genuine issue is that the reflection's theological centerpiece — God accepts "the best" from a morally mixed record — depends on a superlative reading of أَحْسَنَ that Jalalayn and Baghawi explicitly correct to simply ḥasan, a distinction the reflection does not surface.

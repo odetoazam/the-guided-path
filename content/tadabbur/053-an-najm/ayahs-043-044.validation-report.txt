@@ -1,0 +1,38 @@
+Enhanced Validation Report
+File: content/tadabbur/053-an-najm/ayahs-043-044.md
+Ayah: 53:43
+Date: 2026-06-09T18:31:48
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَأَنَّهُۥ=And that He | هُوَ=[He] | أَضْحَكَ=makes (one) laugh | وَأَبْكَىٰ=and makes (one) weep
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No errors found in the portion reviewed.
+
+Specific checks performed:
+
+**Arabic text:** `وَأَنَّهُۥ هُوَ أَضْحَكَ وَأَبْكَىٰ` matches the authentic source exactly. The inclusion of 53:44 in the frontmatter `arabic` field is appropriate since the reflection covers both verses thematically.
+
+**Morphology (Form IV claim):** The reflection asserts `aḍḥaka` and `abkā` are Form IV causatives. Confirmed by Leeds corpus note in the frontmatter comment and consistent with all four tafsir sources rendering them as causatives ("أفرحه / أحزنه" in Jalālayn; "سرَّه / غَمَّه" in Muyassar).
+
+**Ḍamīr al-faṣl analysis:** The reflection's claim that `هُوَ` in `وَأَنَّهُۥ هُوَ أَضْحَكَ` is a pronoun of separation/emphasis inserted after the `hu` already embedded in `annahu` is grammatically correct. The "two ways of saying He" framing is an accurate pedagogical description.
+
+**Al-Qurṭubī quote:** `"Dhahabat al-wasāʾiṭ wa baqiyat al-ḥaqāʾiq"` — rendered as "The intermediaries fell away, and the realities remained." Verified directly against the provided Qurṭubī source: `ذهبت الوسائط وبقيت الحقائق لله سبحانه وتعالى فلا فاعل إلا هو`. The translation is accurate, and the follow-on `fa-lā fāʿila illā huwa` attribution is correctly drawn from the same passage.
+
+**Theological framing (Makkan context):** Characterizing the Quraysh as believing in Allah as distant Creator while relying on intermediary deities is a standard and well-documented position in sīra and tafsīr literature; not an overstatement.
+
+SUMMARY: All verifiable claims in this excerpt — morphology, grammar, the single classical citation, and the Arabic text — are accurate; no errors detected.

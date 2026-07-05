@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/052-at-tur/ayah-018.md
+Ayah: 52:18
+Date: 2026-06-09T17:45:40
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَـٰكِهِينَ=Enjoying | بِمَآ=in what | ءَاتَـٰهُمْ=has given them | رَبُّهُمْ=their Lord, | وَوَقَـٰهُمْ=and protected them | رَبُّهُمْ=their Lord | عَذَابَ=(from the) punishment | ٱلْجَحِيمِ=(of) Hellfire.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR/STYLISTIC] "But the very same root, Qurtubi continues, gives us another reading — *fakihīn* — meaning delighted, merry, light of soul, good-humored" — Qurtubi is describing two distinct *qira'at* (فاكهين with alif vs. فكهين without, the latter attributed to al-Hasan and others), not two senses of one form. The reflection folds them into "one root, two meanings," which is technically accurate at the root level but elides the variant-reading distinction. Not a scholarly error — Baghawi and Jalalayn both gloss the standard reading with the joy/delight sense anyway (Baghawi: *muʿjibīna bi-dhālik nāʿimīn*; Jalalayn: *mutaladhdhidhīn*), so the synthesis lands correctly — but a purist would note the collapse.
+
+No other issues. All specific tafsir attributions verify cleanly against the provided sources:
+- Qurtubi's *fākih* = *dhū fākiha* with the lābin/tāmir analogy: confirmed verbatim.
+- Baghawi's *muʿjibīna bi-dhālik, nāʿimīn*: confirmed verbatim.
+- Muyassar's *yatafakkahūn*: confirmed verbatim.
+- Root wqy / taqwā / waqāhum reciprocity framing: morphologically sound.
+- *fākihīn* as active participle (ism al-fāʿil) indicating settled state: correct morphological identification.
+- Arabic text matches the authentic provided exactly.
+
+SUMMARY: The reflection accurately represents all cited tafsir sources with one minor pedagogical compression (two qira'at presented as two root senses), which lands at the same correct meaning and is appropriate for a lay audience.

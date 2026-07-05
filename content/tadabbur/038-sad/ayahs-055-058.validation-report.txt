@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/038-sad/ayahs-055-058.md
+Ayah: 38:55
+Date: 2026-06-06T02:39:53
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: هَـٰذَا‌ۚ=This (is so)! | وَإِنَّ=And indeed, | لِلطَّـٰغِينَ=for the transgressors | لَشَرَّ=surely (is) an evil | مَــَٔابٍ=place of return.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE — beyond provided data] The introduction references 38:17, 38:30, 38:44 (*innahu awwāb*) and 38:49 (*ḥusna maʾāb*) as the structural setup for this passage. These are direct Quranic quotations, not interpretive claims, and they are accurate — but the provided reference data covers only 38:55, so I cannot formally verify them against supplied tafsir. Flag for a second validation pass if those ayahs are each independently validated.
+
+- [PASS] al-Zajjāj attribution: Reflection states "al-Zajjāj explained *hādhā* as the predicate of an omitted subject — *al-amru hādhā* — 'the matter is this.'" Al-Qurṭubī reads: «قال الزجاج: هذا خبر ابتداء محذوف، أي: الأمر هذا». Exact match — attribution, grammatical term (*khabar* of omitted *mubtadaʾ*), and supplied example all verified.
+
+- [PASS] Ibn al-Anbārī attribution: Reflection states "*hādhā* is *waqfun ḥasan* — 'a good place to stop.'" Al-Qurṭubī reads: «قال ابن الأنباري: "هذا" وقف حسن». Verbatim match.
+
+- [PASS] Structural claim that *hādhā* appears twice (38:55 and 38:57): Confirmed by the Arabic text in the frontmatter.
+
+- [PASS] Core word glosses — *sharr maʾāb* as "evil place of return," *ṭāghīn* as "transgressors" — are consistent with all four tafsir sources provided.
+
+SUMMARY: No genuine errors in the verified portion; all scholar attributions are correctly assigned and accurately rendered against the supplied al-Qurṭubī text.

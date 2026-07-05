@@ -1,0 +1,30 @@
+Enhanced Validation Report
+File: content/tadabbur/055-ar-rahman/ayah-038.md
+Ayah: 55:38
+Date: 2026-06-12T08:19:39
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَبِأَىِّ=So which | ءَالَآءِ=(of the) favors | رَبِّكُمَا=(of) your Lord | تُكَذِّبَانِ=will you both deny?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [UNVERIFIABLE] "Thirty-one times this question is asked across this one surah" — accurate per standard Islamic scholarship, but not derivable from the reference data provided. Cannot confirm or deny from given sources; flag if cross-reference data is required for this claim.
+- [UNVERIFIABLE] "root *hamza-lām-wāw* (أ ل و)" — the frontmatter cites Lisān al-ʿArab for this, which is an appropriate source; however the provided reference data does not include lexicographical entries. The root أ-ل-و is attested in the classical tradition for ālāʾ, so this is not a flag against the content — only a note that it cannot be confirmed from the data supplied here.
+- [UNVERIFIABLE] The description of 55:37 as "rose-red like molten oil" then elaborated as "like molten metal, like oil heated until it runs" adds "molten metal" to كَالدِّهَانِ (like oil/dregs of oil). This is an interpretive extension of a neighboring ayah, not the ayah under analysis. No error, but the elaboration exceeds the Arabic of 55:37.
+
+No CRITICAL issues found. Arabic text matches exactly. Translation matches word-by-word reference. The dual address (jinn and mankind) is explicitly confirmed by al-Qurtubī's "خطاب للإنس والجن" and the thaqalān framing. The niʿma/ālāʾ distinction is a legitimate lexical observation; al-Muyassar's use of نِعَم to gloss ālāʾ does not invalidate the reflection's argument about deliberate word choice — it shows the words overlap semantically while ālāʾ carries additional weight. Form II takdhīb as declarative-intensive is standard and uncontested.
+
+SUMMARY: The reflection is linguistically careful, tafsir-grounded where verifiable, and correctly attributes the dual address to the jumhūr position; the only flags are claims that require lexicographical sources not included in the provided reference package.

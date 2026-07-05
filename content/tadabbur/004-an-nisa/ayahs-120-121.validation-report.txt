@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/004-an-nisa/ayahs-120-121.md
+Ayah: 4:120
+Date: 2026-06-25T07:08:43
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَعِدُهُمْ=He promises them | وَيُمَنِّيهِمْ‌ۖ=and arouses desires in them | وَمَا=and not | يَعِدُهُمُ=promises them | ٱلشَّيْطَـٰنُ=the Shaitaan - | إِلَّا=except | غُرُورًا=deception.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "Form II... the middle letter is doubled" for يُمَنِّيهِمْ — correct. Root م-ن-ي, second radical nūn carries the tashdīd in يُمَنِّيهِمْ. The Form II identification and its semantic consequence ("cultivate in someone, do repeatedly") is accurate.
+- [PASS] Baghawi attribution: "what he casts into the heart of a person — the long life, the attainment of the world" — Baghawi text reads: *"ما يوقع في قلب الإنسان من طول العمر ونيل الدنيا"* — the paraphrase is faithful.
+- [PASS] Qurtubi attribution: "his falsehoods and his nonsense — wealth, status, leadership; and that there is no resurrection and no punishment" — Qurtubi text reads: *"أباطيله وترهاته من المال والجاه والرياسة، وأن لا بعث ولا عقاب"* — word-for-word accurate.
+- [PASS] 4:119 verbal grammar: *la-umanniyannahum* with emphatic *lām* and *nūn al-tawkīd* — correct Arabic morphological description.
+- [PASS] *mā...illā* as *qaṣr/ḥaṣr* (restriction) — correct rhetorical terminology.
+- [PASS] غُرُورًا rendered as "delusion/deception" — confirmed by word-by-word reference and all four tafsir sources (Jalalayn: *bāṭilan*; Muyassar: *khudʿa*; Qurtubi cites Ibn ʿArafa's definition of ghurūr as attractive exterior concealing a hollow interior).
+- [UNVERIFIABLE from provided data] Leeds corpus claim for يُمَنِّيهِمْ — cannot confirm or deny against provided sources, but the morphological conclusion drawn from it is independently correct.
+- [PASS] "Satan never sells you the present moment" — framed explicitly as the author's interpretive observation, not attributed to any classical scholar. The tafsir data supports the underlying premise (all catalogued promises in Baghawi, Qurtubi, Jalalayn are future-oriented: long life, wealth, denial of resurrection).
+
+SUMMARY: All classical scholar attributions are accurately sourced, Arabic morphology is correct throughout, and interpretive extensions are clearly marked as such rather than falsely attributed to traditional authorities.

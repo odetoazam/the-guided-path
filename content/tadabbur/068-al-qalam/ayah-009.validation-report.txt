@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/068-al-qalam/ayah-009.md
+Ayah: 68:9
+Date: 2026-06-13T15:44:27
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَدُّواْ=They wish | لَوْ=that | تُدْهِنُ=you should compromise, | فَيُدْهِنُونَ=so they would compromise.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "Wadd is the love between spouses. It's the longing you feel for someone absent. It's affection mixed with desire mixed with yearning." — This warmth-register for *waddū* is lexically defensible (Lisān al-ʿArab, 30:21 uses *mawadda* for spousal affection) but goes beyond what the four tafsir sources here actually say about this verse; Jalalain, Muyassar, Qurtubi, and Baghawi all gloss it as *tamannaw* (they wished/desired) with no affective-warmth nuance. The piece presents this as the root's definitive character rather than one attested dimension. Not an error, but it sits closer to interpretive extension than documented analysis. No severity flag required since it is not attributed to a named scholar.
+
+- [PASS] "*Waddū* — perfect tense, *tudhinu / yudhinūn* — imperfect" and the architectural reading ("their longing is finished; the compromise has not yet happened") — grammatically accurate. The perfect/imperfect contrast is real and the interpretive inference is clearly framed as the author's reading, not a tafsir claim.
+
+- [PASS] Form IV identification for *tudhinu / yudhinūn* (pattern *tuf'ilu / yuf'ilūna*) — correct; the initial damma confirms Form IV against Form I (*yadh-u/i-nu*). Leeds corpus footnote is consistent.
+
+- [PASS] Arabic text matches the authentic supplied: وَدُّوا۟ لَوْ تُدْهِنُ فَيُدْهِنُونَ ✓. Transliteration *Waddū law tudhinu fa-yudhinūn* ✓.
+
+- [PASS] Historical contextualisation ("Touch our gods just once and we'll touch yours") — no specific hadith is attributed; framed as "history records," consistent with the documented Quraysh negotiations behind Surah Al-Kāfirūn (109) and the broader Meccan da'wah period. Not overstated.
+
+- [PASS] 68:4 citation ("magnificent character"), 68:8 citation (*fa-lā tuṭiʿi l-mukadhdhibīn*), and Meccan-period placement of Al-Qalam — all accurate.
+
+SUMMARY: The reflection is linguistically sound and tafsir-grounded throughout the excerpt reviewed; the one moderate note is that the affective-warmth reading of *waddū* is presented as inherent to the root rather than as the author's lens, but it is not falsely attributed to any classical source and is lexically defensible.

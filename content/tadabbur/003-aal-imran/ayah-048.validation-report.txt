@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayah-048.md
+Ayah: 3:48
+Date: 2026-06-21T13:56:33
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَيُعَلِّمُهُ=And He will teach him | ٱلْكِتَـٰبَ=the Book, | وَٱلْحِكْمَةَ=and [the] wisdom, | وَٱلتَّوْرَٮٰةَ=and the Taurat, | وَٱلْإِنجِيلَ=and the Injeel.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "Form II, built on a doubled root, classically signals intensity, repetition, and gradualness" — the phrase "doubled root" is slightly imprecise (it is the middle *radical* that is geminated, not the root itself), but the reflection immediately corrects this in the next paragraph: "That doubled middle letter — the shadda you hear when the tongue presses twice on the *l*." The morphological claim is accurate; the Form II / Form IV distinction between *ʿallama* and *aʿlama* is lexically attested.
+
+- [PASS] "Some read it as *wa nuʿallimuhu* — 'We will teach him'" — confirmed by both Baghawi ("وقرأ الآخرون بالنون على التعظيم") and Jalalayn ("وَنُعَلِّمُهُ بالنون والياء"). The third-person *yaʿallimuhu* reading is attributed by Baghawi to "the people of Medina, Asim, and Yaʿqub." Both readings are attested; the reflection is accurate.
+
+- [PASS] The imperfect tense contrast ("*yuʿallimu*, not *ʿallama*") — correct. *yuʿallimuhu* is mudāriʿ (imperfect); *ʿallama* would be māḍī (perfect). The claim that the imperfect conveys ongoing/unfolding action is grammatically sound.
+
+- [PASS] Arabic text in the reflection matches the authentic Arabic provided exactly.
+
+- [PASS] Translation "And He will teach him the Book and wisdom and the Torah and the Gospel" matches word-by-word reference.
+
+- [NOTE — not flagged as error] The reflection renders *al-Kitāb* simply as "the Book" without engaging the classical debate over whether it means *al-khaṭṭ* (writing/script), per Ibn Jurayj (cited in Qurtubi and Baghawi) and Jalalayn, or a scripture distinct from the Torah and Gospel. This is a legitimate simplification for a tadabbur audience — the reflection does not make a false claim, it simply does not resolve the debate. No error.
+
+SUMMARY: The linguistic and theological claims in the provided excerpt are accurate and grounded in the reference data; the qiraʾat distinction, Form II morphology, and imperfect-tense argument are all attested and correctly described.

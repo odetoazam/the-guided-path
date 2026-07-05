@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/077-al-mursalat/ayahs-030-033.md
+Ayah: 77:30
+Date: 2026-06-18T10:47:31
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ٱنطَلِقُوٓاْ=Proceed | إِلَىٰ=to | ظِلٍّ=a shadow | ذِى ثَلَـٰثِ=having three | شُعَبٍ=columns
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Form VII in Arabic is the form of smooth, self-completing motion — the form where the subject simply enters into the action, flows into it, as though released" — Form VII (انفعل) is classically described in Arabic morphology (Alfiyya, Sharh Ibn ʿAqīl, Ibn Yaʿīsh's Sharh al-Mufassal) as a **quasi-passive/reflexive** form: the action of Form I falls back on or is received by the subject. "Smooth, self-completing motion" is an accurate gloss for انطلق specifically — that verb's semantics do carry release and unimpeded movement — but the reflection presents this as the defining feature of Form VII as a grammatical category, which overstates the case. The form can just as easily carry negatively valenced quasi-passives (e.g., انكسر can mean the glass *was broken*, not that it flowed freely). Stating it as a universal rule rather than this verb's particular semantic pull is an interpretive extension presented as morphological fact.
+
+- [PASS] Root ط-ل-ق derivations (ṭalāq, ṭalīq, wajh ṭalq) — all lexically attested and accurately characterized.
+- [PASS] Classical tafsir alignment: the reflection's framing of ظل as the smoke of hellfire splitting into three branches matches Jalalayn, Qurtubi, Baghawi, and Muyassar unanimously. No distortion.
+- [PASS] The structural claim that waylun yawma'idhin lil-mukadhdhibīn recurs ten times in al-Mursalat — correct.
+- [PASS] Verse 29 parallel (same verb انطلقوا) invoked accurately.
+
+SUMMARY: The reflection is well-grounded against all four classical sources and the lexical data; the single moderate issue is that a Form VII property unique to انطلق's semantic field is stated as a universal grammatical rule, which a specialist in Quranic morphology would flag as overreach.

@@ -1,0 +1,42 @@
+Enhanced Validation Report
+File: content/tadabbur/090-al-balad/ayahs-008-010.md
+Ayah: 90:8
+Date: 2026-06-18T19:07:57
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَلَمْ=Have not | نَجْعَل=We made | لَّهُۥ=for him | عَيْنَيْنِ=two eyes?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+**VERDICT: PASS**
+
+**ISSUES:**
+- No critical or moderate issues found in the text reviewed (first 8,000 chars, covering through the dual-form analysis intro).
+
+**Specific verifications:**
+
+- **[PASS]** "Al-Jalālayn says it plainly: «ألم نجعل» استفهام تقرير" — exact quote matches the provided Jalālayn source verbatim; attribution and terminology accurate.
+
+- **[PASS]** istifhām al-taqrīr defined as "the interrogative of affirmation... to force agreement" — classically correct definition; the reflection's prose unpacking of it is faithful.
+
+- **[PASS]** أَلَمْ parsed as "a questioning hamza, and the negation lam" — grammatically accurate; أ (hamza al-istifhām) + لم (negation).
+
+- **[PASS]** ʿaynayn dual analysis — the claim that Arabic encodes exactly-two via the -ayn suffix is morphologically correct; ʿaynayn is the canonical dual of ʿayn.
+
+- **[PASS]** najdayn glossed as "the two ways of good and evil" attributed to al-Muyassar in the metadata — matches: *وبيّنا له سبيلَي الخير والشر* in the provided al-Muyassar text.
+
+- **[PASS]** Surah context (kabad, the boaster's speech, لَقَدْ خَلَقْنَا ٱلْإِنسَٰنَ فِى كَبَدٍ at 90:4, أَيَحْسَبُ أَن لَّمْ يَرَهُۥٓ أَحَدٌ at 90:7) — all accurately located and rendered.
+
+- **[UNVERIFIABLE from provided data]** The structural claim that "these three verses sit at the hinge of Sūrat al-Balad" — this is a reasonable literary-structural interpretation and not stated as a scholar citation, so it does not require sourcing. No flag warranted.
+
+**SUMMARY:** The reflection's specific linguistic, morphological, and attribution claims are all accurate against the provided reference data; the Al-Jalālayn citation is verbatim-correct, and no factual overreach appears in the portion reviewed.

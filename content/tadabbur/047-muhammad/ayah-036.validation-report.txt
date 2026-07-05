@@ -1,0 +1,28 @@
+Enhanced Validation Report
+File: content/tadabbur/047-muhammad/ayah-036.md
+Ayah: 47:36
+Date: 2026-06-08T12:13:20
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّمَا=Only | ٱلْحَيَوٲةُ=the life | ٱلدُّنْيَا=(of) the world | لَعِبٌ=(is) play | وَلَهْوٌ‌ۚ=and amusement. | وَإِن=And if | تُؤْمِنُواْ=you believe | وَتَتَّقُواْ=and fear (Allah) | يُؤْتِكُمْ=He will give you | أُجُورَكُمْ=your rewards | وَلَا=and not | يَسْــَٔلْكُمْ=will ask you | أَمْوَٲلَكُمْ=(for) your wealth.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Ar-Rāghib in his *Mufradāt* connects its very letters to the play of a small child" — This is a specific attribution that cannot be verified from the provided reference data. Rāghib's *Mufradāt* does discuss *laʿib*, and the childish-play association is plausible, but the reflection states it as a confirmed scholarly position. None of the four tafsir sources provided corroborate this specific framing; Al-Baghawi's gloss on the pair is simply "باطل وغرور" (vanity and delusion), without the child-play angle.
+
+- [MODERATE] "the classical lexicographers preserved it with care" — The escalating laʿib→lahw distinction (empty play vs. captivating distraction) is presented as a settled classical lexicographical consensus. The provided tafsir sources treat the two words as a hendiadys rather than a semantic escalation. The distinction is lexically defensible (lahw's root connection to heedlessness is sound), but framing it as something "preserved with care" by classical lexicographers overstates the documentation available in the reference data supplied.
+
+SUMMARY: No critical errors — roots, verb forms (Form IV Amn, Form VIII wqy, Form IV Aty), Arabic text, and translation are all accurate — but two claims about classical lexicographical sourcing are stated with more precision than the provided reference data can substantiate.

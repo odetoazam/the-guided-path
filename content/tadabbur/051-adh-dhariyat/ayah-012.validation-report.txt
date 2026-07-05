@@ -1,0 +1,27 @@
+Enhanced Validation Report
+File: content/tadabbur/051-adh-dhariyat/ayah-012.md
+Ayah: 51:12
+Date: 2026-06-09T04:03:53
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَسْــَٔلُونَ=They ask, | أَيَّانَ=`When | يَوْمُ=(is the) Day | ٱلدِّينِ=(of) Judgment?`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Al-Jalālayn says it plainly: the asking is *istikhbāra istikhzāʾ*" — The actual Al-Jalālayn text reads "استفهام استهزاء" (*istifhāmu istihzāʾ*). The reflection substitutes two wrong Arabic terms: *istikhbār* (استخبار, intelligence-gathering) for *istifhām* (استفهام, interrogation), and *istikhzāʾ* (استخزاء, a near-nonexistent classical term) for *istihzāʾ* (استهزاء, the standard Arabic word for mockery). The underlying meaning is preserved but the citation is technically incorrect.
+- [MODERATE] "Al-Muyassar is more specific: *suʾāla istibrādin wa-takdhīb*" — The actual Al-Muyassar text reads "سؤال استبعاد وتكذيب" (*suʾāla istibʿādin wa-takdhīb*). The reflection renders استبعاد (*istibʿād*, from root ب-ع-د, "to be remote/distant") as *istibrādin*, which would be استبراد from root ب-ر-د (cold/cooling) — a different word entirely. The definition given ("treating it as remote and impossible") correctly describes *istibʿād*, so the meaning is accidentally preserved, but the transliterated term attributed to Al-Muyassar is wrong.
+
+SUMMARY: The reflection's theological reading and structural framing are sound and consistent with all four tafsir sources, but it misquotes two classical technical terms (conflating *istifhām* with *istikhbār*, and *istibʿād* with *istibrād*) in the process of citing Al-Jalālayn and Al-Muyassar — fix the transliterations before publishing.

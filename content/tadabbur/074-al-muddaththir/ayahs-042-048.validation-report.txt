@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/074-al-muddaththir/ayahs-042-048.md
+Ayah: 74:42
+Date: 2026-06-18T07:28:13
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: مَا=`What | سَلَكَكُمْ=led you | فِى=into | سَقَرَ=Hell?`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+**VERDICT: MODERATE**
+
+**ISSUES:**
+
+- [MODERATE] "its primary, physical, concrete meaning, attested across the classical lexicons" — The reflection elevates Qurtubi's illustrative analogy to the definitional core of *salaka*. All four provided classical sources render سَلَكَكُمْ as **أدخلكم** ("caused you to enter / put you in"): Jalalayn ("أدخلكم في سقر"), Baghawi ("أدخلكم"), Muyassar ("ما الذي أدخلكم جهنم"), and Qurtubi himself leads with "أي أدخلكم." The threading image (*salaktu al-khayṭa fī kadhā*) is Qurtubi's analogical gloss — introduced with "كما تقول" ("just as you would say") — to *illustrate* the insertion sense, not to assert threading as the lexical root meaning. The word-by-word reference provided also renders it "led you," not "threaded you." Calling this the primary meaning and using "threaded" as the translation throughout the piece is an interpretive extension beyond what the tafsir warrants.
+
+**What holds up:**
+- The Qurtubi quote is reproduced accurately — the Arabic *salaktu al-khayṭa fī kadhā* is genuinely in his commentary on this verse
+- Root س-ل-ك is correct; the *sulūk* / path connection is lexically sound
+- The grammatical observation (perfect verb, completed action from the vantage of the Hereafter) is accurate
+- "Question asked by companions of the right hand, not Allah" — confirmed by Qurtubi ("فيسأل الرجل من أهل الجنة الرجل من أهل النار باسمه")
+- Early-revelation context for Al-Muddaththir is accurate
+
+**SUMMARY:** The reflection correctly sources Qurtubi's threading analogy but misframes it as the primary lexical meaning when every classical source — including Qurtubi — leads with "أدخلكم" (to enter/insert), making "threading a needle" an illustrative comparison rather than the definitional core.

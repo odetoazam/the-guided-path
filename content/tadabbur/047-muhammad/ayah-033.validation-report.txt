@@ -1,0 +1,42 @@
+Enhanced Validation Report
+File: content/tadabbur/047-muhammad/ayah-033.md
+Ayah: 47:33
+Date: 2026-06-08T10:53:52
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ۞ يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ=O you who believe! | أَطِيعُواْ=Obey | ٱللَّهَ=Allah | وَأَطِيعُواْ=and obey | ٱلرَّسُولَ=the Messenger, | وَلَا=and (do) not | تُبْطِلُوٓاْ=make vain | أَعْمَـٰلَكُمْ=your deeds.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- None identified in the portion submitted.
+
+Supporting checks:
+
+**Arabic text**: Matches the authenticated Arabic exactly. ✓
+
+**Morphology comment**: All three forms verified — آمَنُوا (ʾ-m-n, Form IV perfect plural), أَطِيعُوا (ṭ-w-ʿ, Form IV imperative plural), تُبْطِلُوا (b-ṭ-l, Form IV jussive plural negated by *lā*). All correct. ✓
+
+**Hypocrites' *ṭāʿah* callback**: The phrase *wa-yaqūlūna ṭāʿah* is 47:21 — accurate cross-reference. ✓
+
+**Al-Qurṭubī attribution**: "al-Qurṭubī states it plainly… obey Allah in His commands and obey the Messenger in his sunan." The provided Qurṭubī text reads: *أمر المؤمنين بلزوم الطاعة في أوامره والرسول في سننه* — the attribution is exact and unexaggerated. ✓
+
+**4:59 grammatical parallel**: The claim that Allah repeats *aṭīʿū* for the Messenger but omits it for *ulī al-amr* is a classically documented observation and factually accurate to the Arabic. ✓
+
+**Opening surah framing**: *aḍalla aʿmālahum* (47:1) and *kaffara ʿanhum sayyiʾātihim wa-aṣlaḥa bālahum* (47:2) are both quoted correctly and in the right contrast. ✓
+
+**Nullification causes**: The reflection doesn't yet name specific causes (the text is cut off), so no claim can overshoot the Baghawī/Jalālayn material. The framing — that deeds can be voided *from within* through internal failure — is fully consistent with all four tafsir sources provided.
+
+SUMMARY: Every specific linguistic, morphological, and tafsir claim in the submitted portion is accurate and grounded in the reference data; no errors found.

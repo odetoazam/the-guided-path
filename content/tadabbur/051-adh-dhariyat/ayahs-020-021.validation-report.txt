@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/051-adh-dhariyat/ayahs-020-021.md
+Ayah: 51:20
+Date: 2026-06-09T00:29:34
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَفِى=And in | ٱلْأَرْضِ=the earth | ءَايَـٰتٌ=(are) signs | لِّلْمُوقِنِينَ=for those who are certain,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "al-Baghawī, al-Qurṭubī — they fill in exactly what He left as a category: the mountains, the seas, the trees, the fruits, the kinds of vegetation" — al-Baghawī confirmed verbatim: الجبال والبحار والأشجار والثمار وأنواع النبات. Attribution accurate.
+- [PASS] "Al-Qurṭubī adds the way Allah measured out *al-aqwāt* — the sustenances — in precise proportion so the animals could live" — confirmed: "أنه قدر الأقوات فيها قواما للحيوانات." Wording precise.
+- [PASS] "the way travelers pass through the lands of the destroyed nations and *see* the ruins of those who denied" — confirmed: "سيرهم في البلدان التي يشاهدون فيها آثار الهلاك النازل بالأمم المكذبة." Accurate paraphrase.
+- [PASS] "al-Qurṭubī tells us plainly it is a sign of *al-baʿth wa-l-nushūr*" — confirmed: "تدل على قدرته على البعث والنشور." The nuance is preserved: it signals God's *power* over resurrection, which the reflection renders correctly.
+- [PASS] "*hashīm*, dry crumbling stubble" — confirmed against al-Qurṭubī's "صار هشيما." Gloss is lexically accurate.
+- [PASS] Root of *āyāt* as hamza-yā-yā (أيي) — standard position in Mufradāt al-Rāghib and Lisān al-ʿArab (referenced in frontmatter comment). Consistent with morphology note.
+- [UNVERIFIABLE — not an error] The ellipsis (ḥadhf) analysis of 51:21 and the *istidlāl al-maʿqūl bil-maḥsūs* framing: the provided reference data covers only 51:20, so these cannot be confirmed against the supplied sources. Both are, however, standard positions in classical balāghah and kalām literature; nothing flags as invented or distorted.
+- [UNVERIFIABLE — reflection truncated] The *mūqinīn* Form IV analysis is cut off mid-sentence; the morphological claim in the frontmatter comment (أَيْقَنَ → مُوقِن with the yāʾ-to-wāw shift in the participial form) is a known and defensible morphological explanation but could not be evaluated in the body text.
+
+SUMMARY: All verifiable tafsir attributions are accurate and precisely rendered; no roots, scholar positions, or Arabic text errors detected in the submitted portion.

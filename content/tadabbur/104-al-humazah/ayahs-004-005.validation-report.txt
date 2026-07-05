@@ -1,0 +1,26 @@
+Enhanced Validation Report
+File: content/tadabbur/104-al-humazah/ayahs-004-005.md
+Ayah: 104:4
+Date: 2026-06-20T07:45:34
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: كَلَّا‌ۖ=Nay! | لَيُنۢبَذَنَّ=Surely he will be thrown | فِى=in | ٱلْحُطَمَةِ=the Crusher.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No issues found within the validated portion.
+
+SUMMARY: Every verifiable claim in the provided text is grounded in the reference data — the *kallā*-as-*radʿ* identification matches Jalalayn explicitly ("ردع"), the Qurtubi attribution to "ʿUmar ibn ʿAbdullah, mawlā of Ghufra" and the "كذبت / you lied" gloss are quoted verbatim from the provided Qurtubi text, al-Baghawi's position on *kallā* as rebuttal of the immortality claim ("رداً عليه أن لا يخلده ماله") is rendered accurately, and the morphology note (Form I passive imperfect + emphatic lām + heavy nūn) is consistent with the word-by-word data; the reflection was cut before the *layunbadhanna* analysis could be validated, so that section remains open.

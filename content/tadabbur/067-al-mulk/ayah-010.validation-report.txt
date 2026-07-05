@@ -1,0 +1,39 @@
+Enhanced Validation Report
+File: content/tadabbur/067-al-mulk/ayah-010.md
+Ayah: 67:10
+Date: 2026-06-13T13:33:49
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَقَالُواْ=And they will say, | لَوْ=`If | كُنَّا=we had | نَسْمَعُ=listened | أَوْ=or | نَعْقِلُ=reasoned, | مَا=not | كُنَّا=we (would) have been | فِىٓ=among | أَصْحَـٰبِ=(the) companions | ٱلسَّعِيرِ=(of) the Blaze.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+**VERDICT: PASS**
+
+**ISSUES:**
+
+None found in the content provided. All verifiable claims check out against the reference data:
+
+- **Law as *ḥarf imtināʿ li-imtināʿ***: Standard classical grammar definition, accurately applied. The reflection's gloss ("non-occurrence of one thing because of the non-occurrence of another") is textbook.
+
+- ***Kunnā nasmaʿu / kunnā naʿqilu* as habitual past**: Morphologically correct. Both نَسْمَعُ and نَعْقِلُ are imperfect forms under past *kāna* — the Leeds corpus claim is accurate. The tafsir sources don't foreground the habitual aspect explicitly, but they reinforce it implicitly: al-Muyassar's *"samʿa man yaṭlubu al-ḥaqq"* (listening as one who seeks truth) and al-Baghawi/Zajjāj's *"samʿa man yaʿī wa-yatafakkar"* (listening as one who absorbs and thinks) both point to a quality/disposition rather than a one-time act — consistent with the habitual reading.
+
+- **The samʿ distinction (passive sound vs. engaged listening)**: Directly supported by al-Jalālayn's *"samāʿ tafahhum"* and al-Muyassar's formulation. The reflection's framing matches.
+
+- **Scene reconstruction (67:8–11 interrogation, *balā* response)**: Accurately positioned. The confession in v.10 following the admission in v.9 is correctly rendered.
+
+- **"Eleven words" count**: Verified — 11 Arabic words exactly.
+
+- **The *ʿaql* as engaged reasoning**: Supported by al-Jalālayn's *"ʿaql tafakkur"* and al-Qurṭubī's *"ʿaqlan li-man yumayyiz wa-yanẓur."*
+
+**SUMMARY:** The reflection is linguistically precise and tafsir-grounded throughout the section reviewed; no errors of root, morphology, attribution, or factual overreach were detected.

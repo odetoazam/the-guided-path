@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/068-al-qalam/ayah-025.md
+Ayah: 68:25
+Date: 2026-06-13T18:06:44
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَغَدَوْاْ=And they went early | عَلَىٰ=with | حَرْدٍ=determination | قَـٰدِرِينَ=able.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "حَرْدٍ — The Word That Means Three Things at Once" — The claim of three simultaneous meanings (purpose/resolve, withholding, anger) is directly attested in al-Baghawī: "الحرد في اللغة يكون بمعنى القصد والمنع والغضب." The reflection has not yet named the three meanings (text cuts off mid-analysis), but the setup is accurate.
+- [PASS] "thinking themselves fully able to carry it out" — The epistemic hedge is explicitly grounded: al-Jalālayn says "قادرين عليه في ظنهم," al-Muyassar says "في زعمهم," al-Qurṭubī says "ويظنون أنهم تمكنوا من مرادهم." The translation is a correct synthesis, not an invention.
+- [PASS] "غَدَوْا — to go in the early morning" — The root attribution (gh-d-w = dawn departure, paired with rawāḥ) is standard classical Arabic lexicography; consistent with the tafsir framing of the narrative.
+- [PASS] "ṭāʾif ... min rabbik ... while they were sleeping" — Accurately quotes 68:19 (فَطَافَ عَلَيْهَا طَائِفٌ مِّن رَّبِّكَ وَهُمْ نَائِمُونَ).
+- [PASS] "they swore it without saying in shā' Allāh" — Correctly references 68:18 (وَلَا يَسْتَثْنُونَ).
+- [PASS] "bent on a fixed purpose" for ḥard — Corresponds to the القصد reading confirmed by al-Qurṭubī ("والحرد القصد") and al-Baghawī (Ḥasan, Qatāda, Abū al-ʿĀliya: "على جد وجهد"). Not a novel gloss.
+- [NOTE] The father's piety and practice of reserving a portion for the poor is presented as established narrative. This is not in the ayah reference data provided, but it is the widely attested ibn ʿAbbās/classical tafsir position and is uncontroversial to present as narrative frame without caveat at this scope.
+
+SUMMARY: No root errors, no inverted attributions, no Arabic text divergence — all major linguistic and interpretive claims are directly traceable to the four-tafsir stack provided.

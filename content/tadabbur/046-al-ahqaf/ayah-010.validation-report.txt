@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/046-al-ahqaf/ayah-010.md
+Ayah: 46:10
+Date: 2026-06-08T06:23:10
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: قُلْ=Say, | أَرَءَيْتُمْ=`Do you see | إِن=if | كَانَ=it is | مِنْ عِندِ ٱللَّهِ=from Allah | وَكَفَرْتُم=and you disbelieve | بِهِۦ=in it, | وَشَهِدَ=and testifies | شَاهِدٌ=a witness | مِّنۢ=from | بَنِىٓ إِسْرَٲٓءِيلَ=(the) Children of Israel | عَلَىٰ=to | مِثْلِهِۦ=(the) like thereof, | فَـَٔـامَنَ=then he believed | وَٱسْتَكْبَرْتُمْ‌ۖ=while you are arrogant? | إِنَّ=Indeed, | ٱللَّهَ=Allah | لَا=(does) not | يَهْدِى=guide | ٱلْقَوْمَ=the people | ٱلظَّـٰلِمِينَ=the wrongdoers.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: CRITICAL
+
+ISSUES:
+- [CRITICAL] "At its heart is the root *ra'ā* (ر-أ-ى) — **to see**. The same root behind *ru'yā*, a vision; behind *baṣīra*, insight." — *baṣīra* (بَصِيرَة) derives from the root ب-ص-ر (b-ṣ-r), not ر-أ-ى (r-ʾ-y). These are two distinct triconsonantal roots. Both relate conceptually to sight, but they do not share a root. Listing *baṣīra* as a cognate of *ra'ā* is a false etymology. The word-by-word data confirms *ara'aytum* is from r-ʾ-y; Lisān al-ʿArab and Mufradāt al-Rāghib (which the reflection itself cites in its morphology note) treat ب-ص-ر and ر-أ-ى as separate entries.
+
+EVERYTHING ELSE IN THE VISIBLE 8000 CHARACTERS:
+- Arabic text matches the authenticated source exactly. ✓
+- Translation accurately renders the ayah including the ellipsis device. ✓
+- The omitted apodosis (unfinished *jawāb al-sharṭ*) is explicitly attested: Jalalayn — "وجواب الشرط… دل عليه"; Baghawi — "وجواب قوله: إن كان من عند الله محذوف." ✓
+- *Ara'aytum* = plural second-person + interrogative hamza + root r-ʾ-y. ✓
+- *Ru'yā* as a cognate of *ra'ā* (both from ر-أ-ى) is correct. ✓
+- *Shahida shāhid* from root ش-ه-د; link to *shahāda*. ✓
+- Witness identified broadly as "from Banī Isrāʾīl" — tafsir sources (Jalalayn, Muyassar) name ʿAbdullāh ibn Salām; the reflection hasn't named him yet in this excerpt, which is fine — no false attribution made. ✓
+- *Istikbār* as the structural climax is grounded in all four tafsir sources. ✓
+
+SUMMARY: One factual root error — *baṣīra* is falsely claimed to share the root ر-أ-ى with *ra'ā*; it is from ب-ص-ر and must be removed or corrected before publication.

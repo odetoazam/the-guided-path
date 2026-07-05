@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/035-fatir/ayahs-036-037.md
+Ayah: 35:36
+Date: 2026-06-05T00:22:52
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَٱلَّذِينَ=And those who | كَفَرُواْ=disbelieve, | لَهُمْ=for them | نَارُ=(will be the) Fire | جَهَنَّمَ=(of) Hell. | لَا=Not | يُقْضَىٰ=is decreed | عَلَيْهِمْ=for them | فَيَمُوتُواْ=that they die, | وَلَا=and not | يُخَفَّفُ=will be lightened | عَنْهُم=for them | مِّنْ=of | عَذَابِهَاۚ=its torment. | كَذَٲلِكَ=Thus | نَجْزِى=We recompense | كُلَّ=every | كَفُورٍ=ungrateful one.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE] The frontmatter lists `"26:15"` (al-Shu'ara) in `related_ayahs`. The Baghawi source provided cites `(الشعراء - 15)` for the Moses/q-ḍ-y parallel `فَوَكَزَهُ مُوسَىٰ فَقَضَىٰ عَلَيْهِ`, but this verse actually appears in Surah al-Qasas 28:15, not al-Shu'ara 26. The reflection body is truncated before this parallel is discussed explicitly, so it is unclear whether the prose will cite "26:15" as authoritative. If the Baghawi reference propagates into the body text as "Surah al-Shu'ara," flag at MODERATE. As metadata-only, unverifiable from supplied corpus — noted, not penalized.
+
+All substantive claims check out against the reference data:
+
+- **fa al-sababiyya after negation**: The reflection's grammatical analysis is accurate. `لَا يُقْضَىٰ عَلَيْهِمْ فَيَمُوتُوا` — the negation of the governing verb eliminates the result the fa would have produced. Standard Arabic grammar, correctly applied.
+- **Root q-ḍ-y as "conclusion/finishing"**: Baghawi confirms: `لا يهلكون فيستريحوا` — they are not destroyed so they might rest. Jalalayn confirms: `لا يقضى عليهم بالموت فيموتوا يستريحوا`. The reflection's gloss of q-ḍ-y as the withholding of *conclusion* is lexically sound.
+- **Passive `yuqḍā`**: Correctly identified. The agent is withheld; "a decree that does not come" — matches Jalalayn's framing.
+- **Baghawi → 43:77 link**: Verified. Baghawi explicitly cites `ونادوا يا مالك ليقض علينا ربك (الزخرف - 77)` as the parallel for the same root. The reflection's attribution is accurate.
+- **Dark mirror of 35:34**: Qurtubi confirms the structural contrast: `لما ذكر أهل الجنة وأحوالهم ومقالتهم ذكر أهل النار وأحوالهم ومقالتهم` — after the people of Paradise and their speech, the people of the Fire and their speech.
+- **kafūr as intensive**: Muyassar confirms `كل متمادٍ في الكفر مُصِرٍّ عليه` — one who persists stubbornly. "Every ingrate" is a defensible rendering of the mubalagha form.
+- **20:74 parallel**: Qurtubi cites `لا يموت فيها ولا يحيا` as a parallel for this ayah — consistent with listing 20:74 in related_ayahs.
+
+SUMMARY: The reflection's linguistic, grammatical, and tafsir claims are all verifiable and accurate against the provided reference corpus; the only watch item is the `26:15` metadata entry which may carry a surah-number error from the Baghawi source if it surfaces in the body text.

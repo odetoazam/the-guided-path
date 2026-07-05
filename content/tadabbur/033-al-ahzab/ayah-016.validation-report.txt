@@ -1,0 +1,46 @@
+Enhanced Validation Report
+File: content/tadabbur/033-al-ahzab/ayah-016.md
+Ayah: 33:16
+Date: 2026-05-15T05:36:04
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: قُل=Say, | لَّن=`Never | يَنفَعَكُمُ=will benefit you | ٱلْفِرَارُ=the fleeing, | إِن=if | فَرَرْتُم=you flee | مِّنَ=from | ٱلْمَوْتِ=death | أَوِ=or | ٱلْقَتْلِ=killing, | وَإِذًا=and then | لَّا=not | تُمَتَّعُونَ=you will be allowed to enjoy | إِلَّا=except | قَلِيلاً=a little.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- None.
+
+SUMMARY: Every linguistic claim, tafsir inference, and historical framing in the submitted excerpt is accurate and well-grounded against the reference data.
+
+---
+
+**Supporting notes** (not errors — flagging what I checked and why each passed):
+
+**Arabic text** — Matches the authentic Arabic exactly. Transliteration *Qul lan yanfaʿakumu-l-firāru in farartum mina-l-mawti awi-l-qatli wa idhan lā tumattaʿūna illā qalīlā* is correct.
+
+**Translation** — "given enjoyment" correctly reflects the passive voice of *tumattaʿūna*; consistent with all four tafsir sources which gloss it as being allowed to enjoy the remaining span of life.
+
+**Root doubling claim** — *al-firār* (noun) + *farartum* (verb) from *f-r-r* appearing twice in five words is verified against the word-by-word reference. Characterizing this as *taʾkīd* is a legitimate classical rhetorical categorization; the broader framing (verdict before condition) is accurate to the ayah's syntactic order.
+
+**"*Lan* = strongest future negation"** — standard Arabic grammar, uncontroversial.
+
+***Al-firār* with definite article abstracted as a "thing on the table"** — a sound rhetorical observation; the maṣdar + *al-* construction does function this way in Arabic.
+
+**Historical numbers (10,000 / 3,000)** — explicitly hedged as "Numbers vary in the sources, but the picture is consistent." That hedge is honest; no overclaim made.
+
+**Intra-Quranic citations (33:12, 33:13, 33:15)** — cannot verify translations against provided reference data (which covers only 33:16), but translations are standard and the *yastaʾdhinu farīqun minhumu-n-nabiyy* attribution to 33:13 is accurate to that verse's content.
+
+**Banu Qurayza framing** — "whose treaty with the Muslims has just been violated" is passive and diplomatically ambiguous, but not factually wrong. Not a flaggable error.

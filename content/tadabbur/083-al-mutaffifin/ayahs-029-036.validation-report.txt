@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/083-al-mutaffifin/ayahs-029-036.md
+Ayah: 83:29
+Date: 2026-06-18T16:29:04
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّ=Indeed, | ٱلَّذِينَ=those who | أَجْرَمُواْ=committed crimes | كَانُواْ=used (to) | مِنَ=at | ٱلَّذِينَ=those who | ءَامَنُواْ=believed | يَضْحَكُونَ=laugh.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Form IV here means something like *to commit oneself to crime, to make oneself a criminal.* It's not an accident that happened to them. It's a thing they entered into, took on, became." — The Form IV (Af'ala) of j-r-m means "to commit a crime" (factitive/causative; al-Baghawī glosses it simply as *ashrakū*, "they committed shirk"). The "commit oneself to / became" gloss is a rhetorical elaboration, not a documented morphological meaning of this form. The word-by-word reference gives "committed crimes" — no reflexive or durational nuance. Presenting this as what Form IV *means* states an interpretive extension as grammatical fact.
+
+PASS items confirmed by the provided data:
+- Both *ajramū* and *āmanū* are correctly identified as Form IV — accurate.
+- Root ʾ-m-n glossed as safety/security (*amn*) — lexically attested in Mufradāt al-Rāghib.
+- Root j-r-m glossed as cutting/severing — lexically attested; the transition to *jarīma* (crime) is standard.
+- Names of mockers (Walīd ibn al-Mughīra, Abū Jahl) — confirmed by al-Jalālayn, al-Baghawī, al-Qurṭubī.
+- Names of mocked believers (Bilāl, ʿAmmār, Khabbāb, Ṣuhayb) — confirmed explicitly by al-Baghawī; ʿAmmār and Bilāl also in al-Jalālayn.
+- Attribution to "al-Qurṭubī and al-Baghawī" for low-status early believers — Baghawī confirmed; Qurṭubī excerpt focuses on the criminals' identities but this attribution is adequately hedged ("among them").
+- *kānū … yaḍḥakūn* as habitual past (kāna + imperfect = iterative past) — standard Arabic grammar, correctly described.
+
+SUMMARY: One MODERATE issue — the Form IV gloss for *ajramū* is overstated as morphological fact when it is interpretive elaboration; all other linguistic, scholarly, and attributional claims are well-grounded in the provided reference data.

@@ -1,0 +1,40 @@
+Enhanced Validation Report
+File: content/tadabbur/034-saba/ayah-001.md
+Ayah: 34:1
+Date: 2026-05-16T22:45:30
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ٱلْحَمْدُ=All praises | لِلَّهِ=(be) to Allah | ٱلَّذِى لَهُۥ=the One to Whom belongs | مَا=whatever | فِى=(is) in | ٱلسَّمَـٰوَٲتِ=the heavens | وَمَا=and whatever | فِى=(is) in | ٱلْأَرْضِ=the earth, | وَلَهُ=and for Him | ٱلْحَمْدُ=(are) all praises | فِى=in | ٱلْأَخِرَةِۚ=the Hereafter. | وَهُوَ=And He | ٱلْحَكِيمُ=(is) the All-Wise, | ٱلْخَبِيرُ=the All-Aware.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE] "Classical Arabic grammarians — and you'll find this in any standard grammar from Sibawayh forward — point out that nominal sentences carry the sense of permanence" — The underlying principle (jumla ismiyya = ثبوت, stability/permanence; jumla fi'liyya = حدوث, event/change) is a standard and well-attested position in Arabic grammar tradition. The attribution "from Sibawayh forward" is consistent with the tradition but cannot be verified against the reference data provided. Not a flag — noted for transparency.
+
+- [VERIFIED] "Al-Jalalayn glosses al-ḥamdu lillāh by saying Allah is praising Himself here — ḥamida ta'ālā nafsahu" — The Jalalayn source provided reads exactly: «حمد تعالى نفسه بذلك». Transcription and attribution are precise. ✓
+
+- [VERIFIED] "one of only five surahs in the entire Quran that open with al-ḥamdulillāh. Fatiha. An'am. Kahf. Saba. Fatir." — Correct. All five confirmed (1:2, 6:1, 18:1, 34:1, 35:1). ✓
+
+- [VERIFIED] "Saba is the only one whose opening sentence carries the praise across the threshold — past this world, into the next" — The other four hamd-opening surahs do not include an explicit extension of ḥamd into the ākhirah. The addition of وَلَهُ ٱلْحَمْدُ فِى ٱلْـَٔاخِرَةِ is unique to 34:1 among them. ✓
+
+- [VERIFIED] Surah Saba classified as Makkan — Qurtubi source provided confirms: «مكية في قول الجميع». ✓
+
+- [VERIFIED] 34:7 resurrection-mockery quote and paraphrase — The transliteration and gloss ("when you've been torn into every possible shred, you'll be in a new creation") accurately reflect the ayah. ✓
+
+- [VERIFIED] Baghawi's note on praise in the Hereafter being the praise of the people of Jannah, citing 35:34 ("وَقَالُوا الْحَمْدُ لِلَّهِ الَّذِي أَذْهَبَ عَنَّا الْحَزَنَ") — the related_ayahs list includes 35:34, consistent with Baghawi's gloss. ✓
+
+- [NOTE] The reflection cuts off at 8000 characters mid-sentence ("a") in the Jalalayn discussion. Validation covers only the text received; no issues found within it.
+
+SUMMARY: All verifiable claims in the provided text align precisely with the reference tafsir data, word-by-word analysis, and standard Arabic grammar; no critical or moderate errors detected.

@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/048-al-fath/ayah-029.md
+Ayah: 48:29
+Date: 2026-06-08T13:36:36
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: مُّحَمَّدٌ=Muhammad | رَّسُولُ ٱللَّهِ‌ۚ=(is the) Messenger of Allah, | وَٱلَّذِينَ=and those who | مَعَهُۥٓ=(are) with him | أَشِدَّآءُ=(are) firm | عَلَى=against | ٱلْكُفَّارِ=the disbelievers | رُحَمَآءُ=and merciful | بَيْنَهُمْ‌ۖ=among themselves. | تَرَٮٰهُمْ=You see them | رُكَّعًا=bowing | سُجَّدًا=and prostrating, | يَبْتَغُونَ=seeking | فَضْلاً=Bounty | مِّنَ ٱللَّهِ=from Allah | وَرِضْوَٲنًا‌ۖ=and pleasure. | سِيمَاهُمْ=Their mark | فِى=(is) on | وُجُوهِهِم=their faces | مِّنْ=from | أَثَرِ=(the) trace | ٱلسُّجُودِ‌ۚ=(of) the prostration. | ذَٲلِكَ=That | مَثَلُهُمْ=(is) their similitude | فِى=in | ٱلتَّوْرَٮٰةِ‌ۚ=the Taurah. | وَمَثَلُهُمْ=And their similitude | فِى=in | ٱلْإِنجِيلِ=the Injeel, | كَزَرْعٍ=(is) like a seed | أَخْرَجَ=(which) sends forth | شَطْــَٔهُۥ=its shoot | فَـَٔـازَرَهُۥ=then strengthens it, | فَٱسْتَغْلَظَ=then it becomes thick | فَٱسْتَوَىٰ=and it stands | عَلَىٰ=upon | سُوقِهِۦ=its stem | يُعْجِبُ=delighting | ٱلزُّرَّاعَ=the sowers | لِيَغِيظَ=that He (may) enrage | بِهِمُ=by them | ٱلْكُفَّارَ‌ۗ=the disbelievers. | وَعَدَ ٱللَّهُ=Allah has promised | ٱلَّذِينَ=those who | ءَامَنُواْ=believe | وَعَمِلُواْ=and do | ٱلصَّـٰلِحَـٰتِ=righteous deeds | مِنْهُم=among them, | مَّغْفِرَةً=forgiveness | وَأَجْرًا=and a reward | عَظِيمَۢا=great.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "Al-Baghawi says they are *ka-l-asadi ʿalā farīsatihi* — like the lion over its prey" — Accurately attributed. The provided Baghawi text reads exactly: "غلاظ عليهم كالأسد على فريسته لا تأخذهم فيهم رأفة." Attribution and quotation both correct.
+- [PASS] "The corpus tags this word [bayna] not even as a preposition but as a *locative*" — Grammatically accurate. Classical Arabic grammar classifies *bayna* as a ẓarf makān (adverb of place), not a ḥarf jarr. The distinction the reflection draws is real.
+- [PASS] "ʿalā: preposition of elevation, of being above something" — Supported by word-by-word reference ("firm against") and by Baghawi's framing of positional dominance over the disbelievers.
+- [PASS] Torah description = the preceding static portrait; Gospel description = the seed/growth parable — Textually grounded. *ذَٰلِكَ مَثَلُهُمْ فِى ٱلتَّوْرَاةِ* with the demonstrative *dhālika* pointing backward to the described qualities, and *وَمَثَلُهُمْ فِى ٱلْإِنجِيلِ كَزَرْعٍ* introducing the parable, is the mainstream tafsir reading. No misattribution.
+- [PASS] Historical framing (Hudaybiyyah, ~1,400 companions, unarmed for ʿumrah, treaty terms including repatriation clause, ʿUmar's objection) — These are established sīrah details. ʿUmar's reported exchange with the Prophet ﷺ is documented in Bukhārī. Nothing in this section contradicts the reference data.
+- [NOTE — cannot verify] The reflection's "photograph vs. film" framing is a rhetorical device, not a tafsir claim. No scholar attribution is made for this interpretive lens, so it cannot be flagged as an error. It is an expository metaphor, not a sourced assertion.
+
+SUMMARY: All verifiable claims in the submitted portion are accurate — the Baghawi attribution is textually confirmed, the ʿalā/bayna grammatical analysis is sound, and the Torah/Gospel structural reading follows the natural referent of *dhālika*; no errors found in the first 8,000 characters.

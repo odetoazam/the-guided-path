@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/055-ar-rahman/ayah-025.md
+Ayah: 55:25
+Date: 2026-06-12T08:59:34
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَبِأَىِّ=So which | ءَالَآءِ=(of the) favors | رَبِّكُمَا=(of) your Lord | تُكَذِّبَانِ=will you both deny?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "تُكَذِّبَانِ... the second form... means to declare something else to be a lie" — Form II (kadhdhaba) morphological analysis is correct. Root ك-ذ-ب, Form I = to lie, Form II = to accuse of lying / declare false. Aligns with classical lexicographic usage.
+- [PASS] "This is the sixth occurrence of Surah Ar-Rahman's great refrain" — Count is accurate: 13, 16, 18, 21, 23, 25 = sixth.
+- [PASS] "it returns thirty-one times in this one surah... more than any other verse in the Quran repeats" — 31 is the correct count; the uniqueness claim is broadly accepted.
+- [PASS] Dual address ("you two") — Qurtubi explicitly confirms: «خطاب للإنس والجن» (address to humans and jinn), corroborated by the Jabir hadith he cites.
+- [PASS] Maritime context (55:19-24: two seas, pearl/coral, ships like mountains) — accurate to surah structure; verse 24 is the ship image.
+- [PASS] Metadata morphology comment "Alw → آلاء" — the root أ-ل-و is documented in Lisān al-ʿArab and Mufradāt al-Rāghib, and the comment hedges correctly by citing those sources rather than asserting it as sole reading.
+- [PASS] No scholar positions inverted, no Arabic text errors, no claims stated as documented fact that are only interpretive.
+
+SUMMARY: The reflection's morphological, grammatical, and contextual claims are all verifiable and accurate against the reference data; no errors warranting CRITICAL or MODERATE flags.

@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/055-ar-rahman/ayah-031.md
+Ayah: 55:31
+Date: 2026-06-11T23:31:01
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: سَنَفْرُغُ=Soon We will attend | لَكُمْ=to you, | أَيُّهَ=O you | ٱلثَّقَلَانِ=two classes!
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR/UNVERIFIABLE] "he quotes the poet Jarīr" — The Qurtubi source in the provided data is truncated at "وأنشد ا" (likely "وأنشد ابن..." or a poet citation), so the *presence* of a poetic quotation is confirmed, but the specific attribution to Jarīr cannot be verified from the reference data supplied. Not a flag against the reflection — just beyond the scope of what can be confirmed here.
+
+All other verifiable claims check out cleanly:
+
+- **الثقلان = الإنس والجن**: Confirmed by Jalalayn, Muyassar, Qurtubi, Baghawi.
+- **Qurtubi Arabic quote** "وَاللهُ تَعَالَى لَيْسَ لَهُ شُغْلٌ يَفْرُغُ مِنْهُ": Exact match to the provided Qurtubi text.
+- **Baghawi attribution** "not freedom from an occupation, because Allah is not distracted by one matter from another": Matches "وليس المراد منه الفراغ عن شغل، لأن الله تعالى لا يشغله شأن عن شأن" precisely.
+- **Qurtubi redirect** "سَنَقْصِدُ لِمُجَازَاتِكُمْ أَوْ مُحَاسَبَتِكُمْ": Matches Qurtubi's "إنما المعنى سنقصد لمجازاتكم أو محاسبتكم."
+- **Threat/warning framing**: Matches Qurtubi's "وعيد وتهديد لهم كما يقول القائل لمن يريد تهديده: إذا أتفرغ لك أي أقصدك."
+- **Root ف-ر-غ** framing (emptiness → undivided attention idiom): Lexically grounded, theologically handled correctly, no overclaim.
+- **سَ prefix** as near-future particle: Correct; consistent with "Soon We will attend" in the word-by-word reference.
+
+SUMMARY: All attributions, Arabic quotations, and theological claims are accurately drawn from classical sources; the one Jarīr attribution is plausible but unverifiable from the truncated reference data provided.

@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/033-al-ahzab/ayah-042.md
+Ayah: 33:42
+Date: 2026-05-15T14:12:31
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَسَبِّحُوهُ=And glorify Him | بُكْرَةً=morning | وَأَصِيلاً=and evening.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+
+- [MODERATE] "Six words. Twenty-three letters." — وَسَبِّحُوهُ بُكْرَةً وَأَصِيلاً has 3 orthographic words (وسبحوه / بكرة / وأصيلا), or 5 at most if the two wāw-conjunctions are counted as separate tokens. Letter count by standard Arabic orthography: و-س-بّ-ح-و-ه (6) + ب-ك-ر-ة (4) + و-أ-ص-ي-ل-ا (6) = 16, not 23. The count cannot be verified against any reference data provided. This is a stated factual claim ("Six words. Twenty-three letters.") that readers will check and find wrong.
+
+- [MODERATE] "The ح (ḥā') at the very end — that final letter cannot be pronounced without an exhalation" — The ḥā' is not the final letter of وَسَبِّحُوهُ. The word structure is و + سَبِّح + وهُ; the suffix وهُ (the pronoun "Him") follows the ح, making هُ the final phoneme. The rhetorical flourish about breath and life depends on this positional claim, which is factually incorrect. The phonetic property of ح (voiceless pharyngeal fricative requiring breath) is linguistically accurate in itself, but attributing it to the word's final position is wrong.
+
+Everything else holds: the Form II intensification (faʿʿala geminating the middle radical, documented across classical grammarians), the s-b-ḥ swimming root and its application to 36:40, the indefinite status of بُكْرَةً and أَصِيلاً, the two-hinge reading of morning/evening confirmed by Jalalayn ("أول النهار وآخره"), and the Baghawi/Mujahid tasbīḥ vs. ṣalāh spectrum — none of these are misrepresented.
+
+SUMMARY: Two moderate factual errors in the linguistic showcase — a wrong word/letter count and a wrong positional claim about ḥā' — both of which undermine specific rhetorical points the author builds on them; the tafsir substance and morphological analysis are otherwise accurate and well-grounded.

@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/078-an-naba/ayah-023.md
+Ayah: 78:23
+Date: 2026-06-18T12:40:26
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: لَّـٰبِثِينَ=(They will) be remaining | فِيهَآ=therein | أَحْقَابًا=(for) ages.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "He calls this a ḥāl muqaddara. A *destined* circumstantial state. Not a state they happen to be in — a state that was *decreed* for them, written in advance, the predetermined shape of their being there." — This misreads a grammatical technical term as a theological one. In classical Arabic grammar, *ḥāl muqaddara* (حال مقدرة) means a circumstantial clause whose state is *anticipated/projected* — i.e., it will obtain at a future point (when they arrive in Hell), not simultaneously with the main clause. It does NOT mean "pre-decreed by God." Al-Jalalayn is making a grammatical observation about timing, not a theological statement about divine decree. The theological conclusion (that their remaining was ordained) is defensible from al-Muyassar and al-Qurtubi independently, but the reflection attributes that conclusion to this grammatical term, which overstates what al-Jalalayn is saying.
+
+All other verifiable claims check out:
+- *Lābithīn* as ism fāʿil describing settled state — linguistically accurate
+- Attribution of *ḥāl muqaddara* to al-Jalalayn — confirmed (حال مقدرة، أي مقدَّرا لبثهم)
+- Ḥamza and Yaʿqūb reading *labithīn* without alif — confirmed by al-Baghawī verbatim
+- Hell as *mirṣād* / *maʾāb* framing — correct from 78:21–22
+- The reflection cuts off before analyzing *aḥqāb*, so that section cannot be validated here
+
+SUMMARY: One moderate issue — a genuine grammatical term (*ḥāl muqaddara*) is reframed as a theological claim about divine predecree, exceeding what al-Jalalayn's text supports; the theological conclusion is sound but should be sourced to the tafsir content rather than this grammatical label.

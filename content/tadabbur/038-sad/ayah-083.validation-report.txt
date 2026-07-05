@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/038-sad/ayah-083.md
+Ayah: 38:83
+Date: 2026-06-06T02:34:09
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِلَّا=Except | عِبَادَكَ=Your slaves | مِنْهُمُ=among them | ٱلْمُخْلَصِينَ=the chosen ones.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "the agent of purification as Allah" — fully confirmed. Al-Muyassar: *"إلا من أخلصتَه منهم لعبادتك وعصمتَه من إضلالي"*; al-Qurṭubī: *"الذين أخلصتهم لعبادتك وعصمتهم مني"*. Both explicitly place the verb in the second person (Allah as subject). The passive-participle theological argument the reflection is building toward is tafsīr-grounded.
+- [PASS] ٱلْمُخْلَصِين glossed as "purified ones, the ones You chose" — the word-by-word supplies "the chosen ones"; Jalālayn compresses to *"المؤمنين"*; the other three sources expand to divine-purification framing. The reflection's dual rendering captures the range without overstating any single source.
+- [PASS] "It mirrors his nearly identical confession in Sūrah al-Ḥijr (15:40)" — 15:40 is verbatim *إِلَّا عِبَادَكَ مِنْهُمُ الْمُخْلَصِينَ*, so the parallel is accurate.
+- [PASS] Form IV passive participle claim for ٱلْمُخْلَصِين — morphologically correct for the Ḥafṣ transmission of 38:83.
+- [PASS] Root *kh-l-ṣ* meanings (cream/gold purification metaphors, *khallaṣa* = to rescue) — lexically standard; Rāghib's *Mufradāt* and Lisān al-ʿArab both attest these. No overclaim detectable.
+- [UNVERIFIABLE from provided data] "ʿiṣma" as a concept — the word itself (*عصمته*) appears in both al-Muyassar and al-Qurṭubī, so the grounding exists; however the reflection has not yet deployed this term explicitly in the visible 8000 chars. Flag for the section that develops it.
+- [UNVERIFIABLE from provided data] The mukhlaṣ/mukhliṣ vowel distinction argument is alluded to but not yet made in the visible text. That section will need a separate validation pass once generated.
+
+SUMMARY: Every verifiable claim in the visible 8000 characters is either directly confirmed by the provided tafsīr sources or is a legitimate interpretive framing consistent with all four classical commentators; no critical or moderate errors detected.

@@ -1,0 +1,42 @@
+Enhanced Validation Report
+File: content/tadabbur/004-an-nisa/ayah-080.md
+Ayah: 4:80
+Date: 2026-06-24T07:04:47
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: مَّن=(He) who | يُطِعِ=obeys | ٱلرَّسُولَ=the Messenger | فَقَدْ=then surely | أَطَاعَ=he obeyed | ٱللَّهَ‌ۖ=Allah, | وَمَن=and whoever | تَوَلَّىٰ=turns away - | فَمَآ=then not | أَرْسَلْنَـٰكَ=We (have) sent you | عَلَيْهِمْ=over them | حَفِيظًا=(as) a guardian.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No issues found in the portion provided.
+
+Specific checks performed:
+
+**Arabic text**: Matches the authentic Arabic exactly (minor typographic diacritic variance only — حَفِيظًا vs. حَفِيظًۭا is a rendering artifact, not a content error).
+
+**Tense analysis (يُطِعِ / أَطَاعَ)**: The imperfect/perfect distinction and the root ط-و-ع are accurately identified. The reading of *faqad* before a perfect verb as a certainty/completion intensifier is standard Arabic grammar — correct.
+
+**ṭawʿ vs. karh claim**: Lexically attested. The contrast between willing and coerced obedience is confirmed in classical lexicons.
+
+**Qurṭubī attribution**: The reflection says Qurṭubī "reaches past the ayah to the Prophet's own words to seal it." The Qurṭubī excerpt confirms exactly this — he cites Ṣaḥīḥ Muslim on the authority of Abū Hurayra: *"من أطاعني فقد أطاع الله ومن يعصني فقد عصى الله."* Attribution is accurate.
+
+**Hadith attribution** ("Ṣaḥīḥ Muslim, Abū Hurayra, marfūʿ"): Confirmed verbatim by the Qurṭubī excerpt provided.
+
+**حَفِيظ as "guardian/keeper"**: Jalālayn gives *ḥāfiẓan liʾaʿmālihim* ("keeper of their deeds") — aligns with the translation "guardian."
+
+**Hypocrite context (4:71–84)**: Consistent with Baghawī's sababun nuzūl and Jalālayn's framing of the ayah.
+
+SUMMARY: The provided content is linguistically accurate, theologically grounded in the classical sources supplied, and attributes hadith and tafsir correctly — no errors detected in the portion reviewed.

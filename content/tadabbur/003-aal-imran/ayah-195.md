@@ -6,7 +6,7 @@ ayah_end: 195
 title: "No Work Is Lost Before Allah"
 slug: "003-195"
 category: tadabbur
-arabic: "فَٱسْتَجَابَ لَهُمْ رَبُّهُمْ أَنِّى لَآ أُضِيعُ عَمَلَ عَـٰمِلٍ مِّنكُم مِّن ذَكَرٍ أَوْ أُنثَىٰ ۖ بَعْضُكُم مِّنۢ بَعْضٍ ۖ فَٱلَّذِينَ هَاجَرُوا۟ وَأُخْرِجُوا۟ مِن دِيَـٰرِهِمْ وَأُوذُوا۟ فِى سَبِيلِى وَقَـٰتَلُوا۟ وَقُتِلُوا۟ لَأُكَفِّرَنَّ عَنْهُمْ سَيِّـَٔاتِهِمْ وَلَأُدْخِلَنَّهُمْ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ثَوَابًا مِّنْ عِندِ ٱللَّهِ ۗ وَٱللَّهُ عِندَهُۥ حُسْنُ ٱلثَّوَابِ"
+arabic: "فَٱسْتَجَابَ لَهُمْ رَبُّهُمْ أَنِّى لَآ أُضِيعُ عَمَلَ عَـٰمِلٍ مِّنكُم مِّن ذَكَرٍ أَوْ أُنثَىٰ ۖ بَعْضُكُم مِّنۢ بَعْضٍ ۖ فَٱلَّذِينَ هَاجَرُوا۟ وَأُخْرِجُوا۟ مِن دِيَـٰرِهِمْ وَأُوذُوا۟ فِى سَبِيلِى وَقَـٰتَلُوا۟ وَقُتِلُوا۟ لَأُكَفِّرَنَّ عَنْهُمْ سَيِّـَٔاتِهِمْ وَلَأُدْخِلَنَّهُمْ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ثَوَابًا مِّنْ عِندِ ٱللَّهِ ۗ وَٱللَّهُ عِندَهُۥ حُسْنُ ٱلثَّوَابِ"
 translation: "So their Lord responded to them: 'Indeed, I do not allow the work of any worker among you to be lost, male or female; you are of one another. So those who emigrated, were driven from their homes, were harmed in My path, fought, and were killed - I will surely erase their misdeeds and admit them into gardens beneath which rivers flow, as a reward from Allah. And with Allah is the best reward.'"
 word_count: null
 estimated_duration: "45-55 minutes"
@@ -14,6 +14,7 @@ passage_context: "After the believers' long closing prayer in Surah Aal-Imran - 
 generated_by: "codex-tadabbur"
 validated: true
 validation_date: "2026-04-18"
+semantic_review: "enriched-2026-07-02"
 tags: [akhirah, hijrah, jihad, maghfirah, jannah]
 concepts: [jannah, accountability, divine-testing, sabr, akhirah]
 ---
@@ -47,7 +48,7 @@ concepts: [jannah, accountability, divine-testing, sabr, akhirah]
 
 ## Surah Aal-Imran (3:195)
 
-[ayah:3:195] فَٱسْتَجَابَ لَهُمْ رَبُّهُمْ أَنِّى لَآ أُضِيعُ عَمَلَ عَـٰمِلٍ مِّنكُم مِّن ذَكَرٍ أَوْ أُنثَىٰ ۖ بَعْضُكُم مِّنۢ بَعْضٍ ۖ فَٱلَّذِينَ هَاجَرُوا۟ وَأُخْرِجُوا۟ مِن دِيَـٰرِهِمْ وَأُوذُوا۟ فِى سَبِيلِى وَقَـٰتَلُوا۟ وَقُتِلُوا۟ لَأُكَفِّرَنَّ عَنْهُمْ سَيِّـَٔاتِهِمْ وَلَأُدْخِلَنَّهُمْ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ثَوَابًا مِّنْ عِندِ ٱللَّهِ ۗ وَٱللَّهُ عِندَهُۥ حُسْنُ ٱلثَّوَابِ
+[ayah:3:195] فَٱسْتَجَابَ لَهُمْ رَبُّهُمْ أَنِّى لَآ أُضِيعُ عَمَلَ عَـٰمِلٍ مِّنكُم مِّن ذَكَرٍ أَوْ أُنثَىٰ ۖ بَعْضُكُم مِّنۢ بَعْضٍ ۖ فَٱلَّذِينَ هَاجَرُوا۟ وَأُخْرِجُوا۟ مِن دِيَـٰرِهِمْ وَأُوذُوا۟ فِى سَبِيلِى وَقَـٰتَلُوا۟ وَقُتِلُوا۟ لَأُكَفِّرَنَّ عَنْهُمْ سَيِّـَٔاتِهِمْ وَلَأُدْخِلَنَّهُمْ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ثَوَابًا مِّنْ عِندِ ٱللَّهِ ۗ وَٱللَّهُ عِندَهُۥ حُسْنُ ٱلثَّوَابِ
 
 *Fa-istajaba lahum rabbuhum anni la udi'u 'amala 'amilin minkum min dhakarin aw untha. Ba'dukum min ba'd. Fa-alladhina hajaruu wa ukhriju min diyarhim wa udhu fi sabili wa qatalu wa qutilu la-ukaffiranna 'anhum sayyi'atihim wa la-udkhilannahum jannatin tajri min tahtiha al-anharu thawaban min 'indi Allah. Wa Allahu 'indahu husnu al-thawab.*
 
@@ -97,7 +98,7 @@ Then the answer begins: **anni la udi'u 'amala 'amilin minkum**.
 
 I do not let the work of any worker among you be lost.
 
-The verb **udi'u** from the root **d-y-' / d-y-ʿ** is to let something be wasted, lost, neglected, dropped so that it does not reach its due effect. Allah negates that entirely.
+The verb **udi'u** from the root **ḍ-y-ʿ** is to let something be wasted, lost, neglected, dropped so that it does not reach its due effect. Allah negates that entirely. Al-Tabari is careful to note the qualifier the verse implies: the work that is never lost is work of *khayr*, good and sincere - the labor of "any worker among you who did good, whether male or female."
 
 Then look at the pairing:
 
@@ -116,11 +117,13 @@ Then Allah says: **min dhakarin aw untha, ba'dukum min ba'd**.
 
 Male or female. You are of one another.
 
-This is one of the Qur'an's most quietly revolutionary statements about moral worth before Allah. The response refuses any hierarchy of reward based on gendered prestige. The work is not weighed by public visibility, social power, or inherited rank, but by truth before Allah.
+The classical sources tell us why this clause is here at all. Ibn Kathir and al-Tabari both record that Umm Salamah once said to the Messenger of Allah, "O Messenger of Allah, Allah mentions the men in connection with Hijrah, but the women are not mentioned" - and this verse came down in answer. So *min dhakarin aw untha* is not an abstract principle floating free of history. It is a direct response to a woman who noticed that her labor seemed to go unnamed, and Allah replied that no worker's work, male or female, is ever lost.
 
 [PAUSE]
 
-And the phrase **ba'dukum min ba'd** is beautiful and layered. Some of you are from others. You belong with and through one another. Human dignity here is not atomized, and it is not ranked by vanity. The believing community is interwoven. What matters is not whether a deed looked grand in the world's eyes, but whether it was real in Allah's sight.
+This is one of the Qur'an's most quietly revolutionary statements about moral worth before Allah. The classical tafsir centers the clause squarely on gender: al-Muyassar glosses the phrase as meaning that men and women are equal in the brotherhood of the deen, in the acceptance of their deeds, and in the recompense for them. The response refuses any hierarchy of reward based on gendered prestige. And the principle this establishes naturally extends outward: if gender itself does not tilt the scale, then neither do the other things people rank one another by - public visibility, social power, inherited standing. What weighs before Allah is whether the work was true.
+
+And the phrase **ba'dukum min ba'd** is beautiful and layered. Some of you are from others. You belong with and through one another. Human dignity here is not atomized, and it is not ranked by vanity. The believing community is interwoven - one body of faith, as al-Muyassar frames it, sharing a single bond of deen. What matters is not whether a deed looked grand in the world's eyes, but whether it was real in Allah's sight.
 
 ### 4. **Hajaru... ukhriju... udhu... qatalu wa qutilu**: Allah Names the Full Cost
 
@@ -140,7 +143,7 @@ The verse does not jump straight to martyrdom and skip the long human road leadi
 
 This is mercy to anyone whose path has been costly in less publicly heroic ways. The one pushed out, unsettled, harmed, worn down, misread, uprooted, and still faithful is not absent from the divine account. Allah names those costs one by one.
 
-And He says all of it happened **fi sabili** - in My path. That phrase gathers scattered wounds into one meaning. Not random pain. Pain located in loyalty.
+And He says all of it happened **fi sabili** - in My path. That phrase gathers scattered wounds into one meaning. Not random pain. Pain located in loyalty. Al-Muyassar unfolds what each stage was *for*: they migrated out of longing for Allah's pleasure, they were harmed in the very act of obeying and worshipping their Lord, and they fought and fell to raise His word. The road is costly, but every step of it is bent toward Him.
 
 ### 5. **La-ukaffiranna... wa la-udkhilannahum**: Cleansing and Admission Are Promised With Force
 
@@ -150,9 +153,9 @@ I will surely erase their misdeeds, and I will surely admit them to gardens.
 
 The doubled emphasis matters. The **lam** and heavy **nun** make these promises thunder with certainty.
 
-First, **ukaffiranna**: I will cover over, efface, remove from them their misdeeds.
+First, **ukaffiranna**: I will cover over, efface, remove from them their misdeeds. Al-Muyassar draws out a tender dimension of this covering: Allah will veil their sins on that Day just as He veiled them in this world - concealing them so completely that He does not bring them to account for them at all. The root **k-f-r** at its base means simply *to cover*; the mercy of the akhirah here is the continuation of a mercy that was already at work, unseen, all through the dunya.
 
-Then, **la-udkhilannahum**: I will most certainly cause them to enter gardens beneath which rivers flow.
+Then, **la-udkhilannahum**: I will most certainly cause them to enter gardens beneath which rivers flow. Al-Muyassar makes the picture concrete - rivers running beneath their palaces and their trees.
 
 [PAUSE]
 
@@ -181,6 +184,8 @@ Allah's answer is not: I noticed some of it.
 It is: I do not lose the work of any worker among you.
 
 That means the metric of meaningfulness is not what history remembers, what communities preserve, what family members acknowledge, or what platforms amplify. The metric is whether Allah let it be lost, and He says He does not.
+
+There is a quiet vindication built into the occasion of the verse itself. A believing woman felt her share of the struggle had gone unnamed - and the answer came not as private reassurance but as revealed Qur'an, recited until the end of time. That is how seriously Allah takes the worry that one's labor was overlooked.
 
 This is an answer strong enough to keep a believer alive in the long obscurity of costly faithfulness.
 

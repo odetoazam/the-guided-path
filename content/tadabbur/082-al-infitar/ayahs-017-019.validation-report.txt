@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/082-al-infitar/ayahs-017-019.md
+Ayah: 82:17
+Date: 2026-06-18T15:54:24
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَمَآ=And what | أَدْرَٮٰكَ=can make you know | مَا=what | يَوْمُ=(is the) Day | ٱلدِّينِ=(of) the Judgment?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE] "Wherever the Qur'an says *mā adrāka*... it is **always followed by an answer**. Always. The very grammar is making a promise." — This is presented as an absolute documented rule without scholarly attribution. The observation is well-attested in classical ʿulūm al-Qurʾān literature (Al-Suyūṭī's *Al-Itqān*, Al-Zarkashī's *Al-Burhān*) and holds across all Quranic occurrences of *mā adrāka*, so the claim is substantively accurate — but the provided reference data (Jalālayn, Muyassar, Qurṭubī, Baghawī) does not confirm it, and stating it as "always... Always" without attribution inflates its epistemic footing for a reader who cannot verify it independently. A single parenthetical — "(as Al-Suyūṭī documents in Al-Itqān)" — would fix this.
+
+Everything else checks out:
+
+- **Morphology**: Root **د-ر-ي** (*d-r-y*) correctly identified; Form IV causative reading (*adrā* = "to make one know") matches the word-by-word reference (أَدْرَىٰكَ = "can make you know") and the frontmatter note.
+- **Repetition for magnification**: Confirmed by Qurṭubī: *"كرر ذكره تعظيما لشأنه"* — "He repeated its mention to magnify its significance."
+- **Verse 19 definition** ("no soul will own anything for another"): Confirmed by Muyassar: *"يوم الحساب لا يقدر أحد على نفع أحد، والأمر في ذلك اليوم لله وحده"*.
+- **Surah name etymology** (*infaṭara* = to crack/split): Accurate for this form of root **ف-ط-ر**.
+- **Translation and Arabic text**: Match the authentic Arabic provided.
+- **No scholar misattributions or inverted positions** found.
+
+SUMMARY: Substantively clean — morphology, translation, and interpretive framing are all sound; the one flag is a well-known classical observation stated as absolute fact without attribution, not a factual error.

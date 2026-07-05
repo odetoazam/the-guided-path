@@ -1,0 +1,37 @@
+Enhanced Validation Report
+File: content/tadabbur/053-an-najm/ayahs-024-025.md
+Ayah: 53:24
+Date: 2026-06-09T19:51:09
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَمْ=Or | لِلْإِنسَـٰنِ=(is) for man | مَا=what | تَمَنَّىٰ=he wishes?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+**VERDICT: PASS**
+
+**ISSUES:**
+
+- [NOTE] *"And do you know what the word Manāt is built from? The same three letters — mīm, nūn, yā' — that build the word tamannā, 'he wishes.'"* — The Manāt/م-ن-ي etymological connection is a recognized Arabic lexicological claim (Lisān al-ʿArab is cited in the reflection's own morphology note for this root), but none of the four supplied tafsir sources confirm it. The reflection presents it as a rhetorical centerpiece with high confidence; it is not an error, but it is unverifiable from the reference data provided.
+
+- [PASS] Al-Jalālayn attribution ("Is it so? It is not so") — accurate. The supplied text reads *ليس الأمر كذلك*, which the reflection correctly renders.
+
+- [PASS] Al-Baghawī attribution ("Does the disbeliever imagine he has whatever he wishes and craves of the idols' intercession?") — accurate. Supplied text: *أيظن الكافر أن له ما يتمنى ويشتهي من شفاعة الأصنام؟*
+
+- [PASS] `am munqaṭiʿa` analysis — grammatically correct and consistent with the tafsir sources' negating force.
+
+- [PASS] Form V (tafaʿʿala) identification of *tamannā* — correct. Root م-ن-ي, Form V pattern produces تَمَنَّى. The reflexive/intensive gloss is a reasonable characterization of that binyan.
+
+- [PASS] Sūrah context and sequencing (53:19-23 → 53:23's *mā tahwā al-anfus* → 53:24) — correctly reconstructed and consistent with all four tafsir sources, which unanimously read 53:24 as a negation of the idol-intercession wish.
+
+**SUMMARY:** The reflection is doctrinally sound and its tafsir attributions are accurate against all supplied sources; the sole flag is one unverified (though lexicologically standard) etymological claim about Manāt that the provided reference set cannot confirm.

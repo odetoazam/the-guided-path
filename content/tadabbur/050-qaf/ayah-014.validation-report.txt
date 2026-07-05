@@ -1,0 +1,46 @@
+Enhanced Validation Report
+File: content/tadabbur/050-qaf/ayah-014.md
+Ayah: 50:14
+Date: 2026-06-08T22:32:08
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَأَصْحَـٰبُ=And (the) companions | ٱلْأَيْكَةِ=(of) the wood | وَقَوْمُ=and (the) people | تُبَّعٍ‌ۚ=(of) Tubba. | كُلٌّ=All | كَذَّبَ=denied | ٱلرُّسُلَ=the Messengers, | فَحَقَّ=so was fulfilled | وَعِيدِ=My Threat.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- None identified in the verifiable portion of the text (first ~8,000 characters)
+
+Detailed check:
+
+**Arabic text**: Matches the authentic Arabic provided (diacritic rendering variants only, not errors).
+
+**Translation of "فَحَقَّ وَعِيدِ"** as "My Threat became due" — correctly parses ḥaqqa as intransitive with waʿīdī as subject. Consistent with Baghawi ("وجب لهم عذابي") and Jalalayn ("وجب نزول العذاب").
+
+**Al-Jalalayn attribution**: "every nation in this list denied the Messengers like the Quraysh" — confirmed verbatim: *كَقُرَيْشٍ* appears in the Jalalayn extract. Attribution is accurate.
+
+**Kullun + singular verb grammar claim**: "each denied" (individual drumbeat vs. collective sweep) — grammatically sound. Tanwīn on kullun marking emphatic independence, singular kadhdhaba showing distributive reading, is standard Arabic syntax analysis, not an invented interpretation.
+
+**Ar-rusula as definite plural** ("the Messengers as a category") — confirmed by word-by-word reference; nothing in the provided tafsir sources contradicts the interpretive extension about rejection of messengership as institution rather than a specific prophet.
+
+**Aṣḥāb al-Aykah as "dense thicket / forest"** — confirmed: Jalalayn glosses al-Aykah as *al-ghayḍa* (the forest/dense thicket).
+
+**Tubba' as Yemeni king** — confirmed: Baghawi names him "تبع الحميري، اسمه أسعد أبو كرب"; Jalalayn confirms "ملك كان باليمن." Reflection does not claim Tubba' himself was destroyed (the tafsir sources distinguish him from his people — "ذم الله تعالى قوم تبع ولم يذمه"), and the reflection correctly attributes destruction only to his people, not to him.
+
+**Frontmatter scholarly caution** ("Qatāda narration classified as athar, not marfūʿ") — appropriate, since Qatāda is a tābiʿī. The Baghawi cites him as "قال قتادة" without isnād elevation.
+
+**One unverifiable claim** (not an error, just out-of-scope for provided references): "the only moment in the surah where Allah speaks in the first-person possessive" — cannot confirm or deny from the single-ayah tafsir extracts provided. Flag for surah-wide review if needed, but nothing in the provided data contradicts it.
+
+SUMMARY: All verifiable claims in the visible text are grounded in the provided word-by-word and tafsir sources; the grammatical and structural analysis is precise and appropriately hedged.

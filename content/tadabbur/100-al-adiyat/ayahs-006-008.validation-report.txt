@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/100-al-adiyat/ayahs-006-008.md
+Ayah: 100:6
+Date: 2026-06-20T06:45:48
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّ=Indeed, | ٱلْإِنسَـٰنَ=mankind, | لِرَبِّهِۦ=to his Lord, | لَكَنُودٌ=(is) surely ungrateful.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "as al-Baghawī and al-Qurṭubī both report — said *kanūd* means **kafūr jaḥūd**" (attributing this to Ibn ʿAbbās, Mujāhid, and Qatāda) — The provided al-Qurṭubī text attributes the *kafūr jaḥūd* position only to Ibn ʿAbbās ("قال ابن عباس: لكنود لكفور جحود لنعم الله. وكذلك قال الحسن"), with no mention of Mujāhid or Qatāda. The triple-scholar attribution (Ibn ʿAbbās + Mujāhid + Qatāda) is confirmed only in al-Baghawī. The claim that al-Qurṭubī "also reports" that triad cannot be verified from the provided reference data and may be an overstatement.
+
+- [MODERATE] "al-arḍ al-kanūd — kanūd land is land that grows nothing" attributed to Abū ʿUbayda — The al-Baghawī reference is truncated after "هو قليل الخير، وا" and does not show the "barren land" image in the provided data. *Qalīl al-khayr* is confirmed; the agricultural metaphor may derive from lexical sources (Lisān al-ʿArab, Mufradāt) rather than tafsir, but that chain of evidence is not supplied here. The claim is plausible but unverifiable from the provided reference material.
+
+All other elements check out:
+- *Jawāb al-qasam* identification confirmed by al-Qurṭubī ("هذا جواب القسم")
+- Al-Ḥasan's definition is letter-perfect against both al-Qurṭubī and al-Baghawī ("يعد المصائب وينسى النعم")
+- Al-Kalbī's dialect distinction (Muḍar/Rabīʿa vs. Kinda/Ḥaḍramawt) confirmed exactly in al-Baghawī
+- The *faʿūl* (فَعُول) pattern claim for *kanūd* is morphologically correct for root ك-ن-د
+- No scholar positions are inverted; no Arabic text errors detected
+
+SUMMARY: The reflection is substantively sound and scholar-attributions are largely accurate, but one citation overstates al-Qurṭubī's scope (Mujāhid/Qatāda), and the Abū ʿUbayda land metaphor exceeds what the provided reference data can confirm.

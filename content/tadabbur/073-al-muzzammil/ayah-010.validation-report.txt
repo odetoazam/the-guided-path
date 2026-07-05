@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/073-al-muzzammil/ayah-010.md
+Ayah: 73:10
+Date: 2026-06-17T00:19:20
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَٱصْبِرْ=And be patient | عَلَىٰ=over | مَا=what | يَقُولُونَ=they say, | وَٱهْجُرْهُمْ=and avoid them, | هَجْرًا=an avoidance | جَمِيلاً=gracious.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTABLE GAP — not a factual error] The reflection treats *hajran jamīlā* as a universally applicable living principle ("how you leave every room you ever have to leave") without acknowledging that all four classical sources provided note explicit naskh. Jalalayn: *"وهذا قبل الأمر بقتالهم"*; Qurtubi: *"نسخت آية القتال ما كان قبلها"*; Baghawi: *"نسختها آية القتال."* Only al-Muyassar is silent on it. The reflection's spiritual extraction is *defensible* — naskh applies to the military-political ruling (patient avoidance vs. fighting the Quraysh), not to the ethical principle of graceful separation in personal contexts — but treating the principle as straightforwardly universally binding without any acknowledgment of the scholarly naskh discussion leaves a rigorous reader without the full picture.
+
+All positive claims check out:
+- Arabic text: matches authentic. ✓
+- *Maf'ūl muṭlaq* / cognate accusative analysis: grammatically correct. ✓
+- Root *j-m-l* (beauty, dignity, wholeness): lexically attested. ✓
+- Jalalayn attribution (*"lā jazaʿa fīhi"* — "no panic in it"): accurate verbatim. ✓
+- Qurtubi attribution (*"do not busy yourself with paying them back — because that would mean abandoning the call to Allah"*): accurate paraphrase of *"لا تشتغل بمكافأتهم، فإن في ذلك ترك الدعاء إلى الله."* ✓
+- Historical context (Meccan rejection, early revelation period): confirmed by tafsir. ✓
+- Camel/*jamal* etymological note: standard in Arabic literary analysis; not disprovable from supplied data. ✓
+
+SUMMARY: Every factual claim and scholar attribution in the visible text is accurate; the one gap worth addressing before publication is a brief acknowledgment that classical commentators considered the specific *hajr* command abrogated by the verse of fighting, while the spiritual principle the tadabbur draws out (graceful, non-retaliatory withdrawal) remains a legitimate and widely-applied ethical extraction.

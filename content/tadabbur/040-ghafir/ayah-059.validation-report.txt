@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/040-ghafir/ayah-059.md
+Ayah: 40:59
+Date: 2026-06-25T09:01:14
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّ=Indeed, | ٱلسَّاعَةَ=the Hour | لَأَتِيَةٌ=(is) surely coming, | لَّا=no | رَيْبَ=doubt | فِيهَا=in it, | وَلَـٰكِنَّ=but | أَكْثَرَ=most | ٱلنَّاسِ=(of) the people | لَا=(do) not | يُؤْمِنُونَ=believe.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+**VERDICT: MODERATE**
+
+**ISSUES:**
+
+- [MODERATE] Arabic text in both frontmatter and body displays `لَأَتِيَةٌۭ` — the reflection omits the connecting alef after the hamza, yielding a form that visually suppresses the long ā vowel. The authentic Uthmanic rasm is `لَءَاتِيَةٌۭ` (hamza + alef + tiya); al-Jalalayn also writes it `لآتية`. The transliteration "la-ātiyatun" is correct, so the *reading* is right — but a reader comparing the displayed Arabic to a mushaf or classical source will find a mismatch. For a scholarly platform, the Uthmanic form should be used.
+
+- [PASS] The Qurtubī citation is accurately handled. The reflection paraphrases "its natural path is to be at the beginning of speech" — Qurtubī's exact words are `وسبيلها أن تكون في أول الكلام`. The verb *tuzaḥlaq* is lifted directly from `إلا أنها تزحلق عن موضعها، كذا قال سيبويه`. The attribution chain (Qurtubī quoting Sībawayh) is correct. The technical term *lām al-muzaḥlaqa* is the standard noun derived from that verb root — Qurtubī uses the verb, not the noun, but the noun is well-established in grammatical tradition.
+
+- [PASS] The "three walls of certainty" (inna / lam al-tawkid / lā rayba fīhā) is a structurally sound grammatical observation consistent with the Qurtubī excerpt provided.
+
+- [PASS] The iman/ilm distinction drawn from the sequence 40:57 → 40:59 ("most people do not *know*" → "most people do not *believe*") is textually grounded in the two ayahs and is not overstated; the reflection frames it as a diagnostic question, not a fatwa.
+
+- [PASS] Contextual claims (Meccan surah, theme of *yujādilūna fī āyāti-llāh*, the unnamed believer from Pharaoh's court) are all accurate.
+
+**SUMMARY:** The reflection is substantively sound — the Qurtubī/Sībawayh grammatical analysis is correctly cited and the theological framing is well-grounded — but the displayed Arabic text departs from the Uthmanic orthographic form in the critical word لَءَاتِيَةٌۭ, which should be corrected before publication.

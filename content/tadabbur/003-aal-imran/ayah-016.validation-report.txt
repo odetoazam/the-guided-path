@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayah-016.md
+Ayah: 3:16
+Date: 2026-06-22T08:21:49
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ٱلَّذِينَ=Those who | يَقُولُونَ=say, | رَبَّنَآ=`Our Lord! | إِنَّنَآ=Indeed, we | ءَامَنَّا=(have) believed, | فَٱغْفِرْ=so forgive | لَنَا=for us | ذُنُوبَنَا=our sins | وَقِنَا=and save us | عَذَابَ=(from) punishment | ٱلنَّارِ=(of) the Fire.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "al-Qurṭubī, al-Baghawī, and the Jalālayn all note this together — point out that this ٱلَّذِينَ can be read in three ways" — The Jalālayn only records **two** grammatical options: «نعت أو بدل من الذين قبله» (adjective *or* appositive substitution). The three-reading schema (badal / rafʿ / naṣb ʿalā al-madḥ) comes from al-Qurṭubī («بدل... رفعا... أو نصبا على المدح») and al-Baghawī («خفضا... رفعا... نصبا»), not from the Jalālayn. Attributing the triple schema collectively to all three scholars overstates the Jalālayn's contribution.
+
+All other claims check out against the provided data:
+- The three readings themselves (badal, rafʿ, naṣb ʿalā al-madḥ) are confirmed by al-Qurṭubī and al-Baghawī
+- The description of naṣb ʿalā al-madḥ as an honorific grammatical construction is accurate
+- The fā' analysis as particle of immediate consequence is standard Arabic grammar, consistent with the verse structure
+- All root attributions in the frontmatter are correct
+- Arabic text matches the authentic source verbatim
+- Translation accurately renders وَقِنَا as "shield/protect us"
+
+SUMMARY: Solid and well-grounded throughout; the single moderate issue is a precision error attributing the three-reading grammatical schema to al-Jalālayn, which the Jalālayn does not support — correct the attribution to al-Qurṭubī and al-Baghawī only.

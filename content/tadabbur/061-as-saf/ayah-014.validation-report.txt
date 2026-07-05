@@ -1,0 +1,40 @@
+Enhanced Validation Report
+File: content/tadabbur/061-as-saf/ayah-014.md
+Ayah: 61:14
+Date: 2026-06-13T00:55:05
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ=O you who believe! | كُونُوٓاْ=Be | أَنصَارَ=helpers | ٱللَّهِ=(of) Allah | كَمَا=as | قَالَ=said | عِيسَى=Isa, | ٱبْنُ=son | مَرْيَمَ=(of) Maryam, | لِلْحَوَارِيِّــۧنَ=to the disciples, | مَنْ=`Who | أَنصَارِىٓ=(are) my helpers | إِلَى=for | ٱللَّهِ‌ۖ=Allah?` | قَالَ=Said | ٱلْحَوَارِيُّونَ=the disciples, | نَحْنُ=`We | أَنصَارُ=(are) the helpers | ٱللَّهِ‌ۖ=(of) Allah.` | فَـَٔـامَنَت=Then believed | طَّآئِفَةٌ=a group | مِّنۢ=of | بَنِىٓ إِسْرَٲٓءِيلَ=Children of Israel | وَكَفَرَت=and disbelieved | طَّآئِفَةٌ‌ۖ=a group. | فَأَيَّدْنَا=So We supported | ٱلَّذِينَ=those who | ءَامَنُواْ=believed | عَلَىٰ=against | عَدُوِّهِمْ=their enemy | فَأَصْبَحُواْ=and they became | ظَـٰهِرِينَ=dominant.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate issues found in the submitted portion.
+
+Supporting notes on specific claims:
+
+**kūnū root analysis** — Root k-w-n and the imperative kūnū are correctly identified. The contrast drawn between kūnū anṣāra (imperative of being) versus a hypothetical unṣurū (imperative of action) is a legitimate morphological observation, not an overreach.
+
+**Two qirā'āt claim** — The reflection asserts "two readings — both authentic." Al-Baghawi explicitly documents this: *"qara'a ahl al-Ḥijāz wa-Abū ʿAmr: anṣāran bil-tanwīn lillāhi bil-lām; wa-qaraʾa l-ākharūn: anṣāra-llāhi muḍāfan."* The claim is confirmed by the provided tafsir data.
+
+**Surah contextual references** (61:2–3, bunyān marṣūṣ in 61:4, Musa in 61:5, Ahmad in 61:6, the "trade" in 61:10–12) — All accurately rendered against the Quranic text.
+
+**al-Ghaniyy framing** — Invoked as a theological premise, not attributed to this ayah's text. No misattribution.
+
+**ḥawāriyyūn** — The reflection does not define this term in the validated portion, so no claim to check against Jalalayn's *aṣfiyāʾ ʿĪsā*.
+
+**One caution for the continuation** — The reflection closes its validated portion mid-sentence on the two qirā'āt. What follows must accurately represent both readings (anṣāran lillāh vs. anṣāra-llāh) without conflating their grammatical structures or their scholarly chains. Flag for re-submission once that section is complete.
+
+SUMMARY: The submitted portion is linguistically precise, theologically grounded, and all verifiable factual claims align with the provided tafsir and word-by-word data.

@@ -1,0 +1,43 @@
+Enhanced Validation Report
+File: content/tadabbur/048-al-fath/ayah-011.md
+Ayah: 48:11
+Date: 2026-06-08T15:16:23
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: سَيَقُولُ=Will say | لَكَ=to you | ٱلْمُخَلَّفُونَ=those who remained behind | مِنَ=of | ٱلْأَعْرَابِ=the Bedouins, | شَغَلَتْنَآ=`Kept us busy | أَمْوَٲلُنَا=our properties | وَأَهْلُونَا=and our families, | فَٱسْتَغْفِرْ=so ask forgiveness | لَنَا‌ۚ=for us.` | يَقُولُونَ=They say | بِأَلْسِنَتِهِم=with their tongues | مَّا=what | لَيْسَ=is not | فِى=in | قُلُوبِهِمْ‌ۚ=their hearts. | قُلْ=Say, | فَمَن=`Then who | يَمْلِكُ=has power | لَكُم=for you | مِّنَ=against | ٱللَّهِ=Allah | شَيْــًٔا=(in) anything, | إِنْ=if | أَرَادَ=He intends | بِكُمْ=for you | ضَرًّا=harm | أَوْ=or | أَرَادَ=He intends | بِكُمْ=for you | نَفْعَۢا‌ۚ=a benefit? | بَلْ=Nay, | كَانَ=is | ٱللَّهُ=Allah | بِمَا=of what | تَعْمَلُونَ=you do | خَبِيرَۢا=All-Aware.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate issues found in the reviewed portion.
+
+Supporting checks:
+
+**Tribal identifications** — "The Ghifār, the Muzaynah, the Juhaynah, the Aslam, the Ashjaʿ — this is who al-Qurtubī and al-Baghawī, on the authority of Ibn ʿAbbās and Mujāhid, tell us these people were."
+Al-Qurtubī explicitly: *"قال مجاهد وابن عباس: يعني أعراب غفار ومزينة وجهينة وأسلم"* — al-Baghawī adds Ashjaʿ. Attribution to Ibn ʿAbbās and Mujāhid is correct in both sources. ✓
+
+**Sa- prefix** — described as marking near, certain future. Linguistically standard; word-by-word reference confirms سَيَقُولُ = "Will say." ✓
+
+**Fa-staghfir lanā** — rendered "so seek forgiveness for us." Reference data: فَٱسْتَغْفِرْ = "so ask forgiveness," لَنَا = "for us." Accurate. ✓
+
+**Tongue-heart gap** — "They say with their tongues what is not in their hearts" — direct translation of يَقُولُونَ بِأَلْسِنَتِهِم مَّا لَيْسَ فِى قُلُوبِهِمْ. Al-Muyassar confirms: *"يقولون ذلك بألسنتهم، ولا حقيقة له في قلوبهم."* ✓
+
+**Hudaybiyyah purpose** — "a pilgrimage... not coming to fight" and the hady animals described as garlanded — historically well-attested sīrah detail; al-Baghawī confirms the expedition was *"معتمرا"* (for ʿumrah). ✓
+
+**Pre-scripted excuse framing** — "Allah tells the Prophet ﷺ what they will say — before they say it." Al-Jalālayn's *"مكذبا لهم"* ("refuting/exposing them") and al-Muyassar's framing both confirm this is the intended thrust of the predictive revelation. ✓
+
+**One unverifiable claim from provided data:** The detail about Quraysh intending to block or kill the caravan (the "calculation that they would not return alive") is present implicitly in al-Jalālayn (*"خوفا من تعرض قريش لك"* — "fearing Quraysh would confront you") and al-Baghawī's fuller excerpt, but the specific framing "walking to their deaths" is a reasonable narrative extension, not a misattribution.
+
+SUMMARY: The reviewed portion is historically accurate, the tribal attributions are correctly sourced to Ibn ʿAbbās and Mujāhid via al-Qurtubī and al-Baghawī, the Arabic grammar claims are sound, and interpretive extensions stay within the warrant of the tafsir sources — no errors found.

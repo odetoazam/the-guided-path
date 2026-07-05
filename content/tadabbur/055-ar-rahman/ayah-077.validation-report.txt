@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/055-ar-rahman/ayah-077.md
+Ayah: 55:77
+Date: 2026-06-12T08:27:16
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَبِأَىِّ=So which | ءَالَآءِ=(of the) favors | رَبِّكُمَا=(of) your Lord | تُكَذِّبَانِ=will you both deny?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE] "Form II — *taf'īl* — the form made by doubling the middle letter... makes the verb declarative" — this is accurate Arabic morphology (the k-dh-b / ṣ-d-q Form II declarative pair is standard in classical grammar and Mufradāt al-Rāghib), but the four tafsir sources provided do not explicitly confirm this linguistic framing. It is not verifiable *from the reference data supplied*, though it is sound independently. No error — flagging the gap between the claim and the supporting sources given here.
+- [NOTE] Reflection is truncated at "This same ver-" — validation covers only the first ~60% of the piece. The remaining content cannot be assessed.
+
+All verifiable claims check out:
+- Arabic text matches the authentic text exactly ✓
+- Translation ("So which of the favors of your Lord will you both deny?") matches the word-by-word reference ✓
+- "Thirty-first and final occurrence" — correct per surah structure ✓
+- Dual address (jinn and mankind) — confirmed by al-Qurtubi: *خطاب للإنس والجن* ✓
+- Root ك-ذ-ب as "to lie/falsehood," Form II as intensified/declarative — linguistically accurate ✓
+- صَدَّقَ as precise mirror of كَذَّبَ — accurate ✓
+- Surah structure (opening, two pairs of gardens, ayah 78 as closing doxology) — accurate ✓
+
+SUMMARY: The visible portion is linguistically rigorous and structurally sound; the one flag is a sourcing gap (the Form II declarative claim is correct but unsupported by the four tafsir excerpts provided), not a content error.

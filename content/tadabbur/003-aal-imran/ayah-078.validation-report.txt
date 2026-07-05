@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayah-078.md
+Ayah: 3:78
+Date: 2026-06-21T06:32:34
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَإِنَّ=And indeed, | مِنْهُمْ=among them | لَفَرِيقًا=surely (is) a group - | يَلْوُۥنَ=they distort | أَلْسِنَتَهُم=their tongues | بِٱلْكِتَـٰبِ=in (reciting) the Book | لِتَحْسَبُوهُ=so that you may think it | مِنَ=(is) from | ٱلْكِتَـٰبِ=the Book | وَمَا=and not | هُوَ=it | مِنَ=(is) from | ٱلْكِتَـٰبِ=the Book. | وَيَقُولُونَ=And they say, | هُوَ=`It | مِنْ عِندِ ٱللَّهِ=(is) from Allah.` | وَمَا=But not | هُوَ=it | مِنْ عِندِ ٱللَّهِ=(is) from Allah. | وَيَقُولُونَ=And they say | عَلَى=about | ٱللَّهِ=Allah | ٱلْكَذِبَ=the lie | وَهُمْ=while they | يَعْلَمُونَ=know.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE] "Al-Qurtubī tells us plainly: *aṣl al-layy al-mayl*" — this exact phrase does not appear in the Qurtubi excerpt provided (the snippet is truncated: "إذا أماله; ومنه والمعنى يحرفون الكلم و"). The lexical claim itself is correct and consistent with Lisān al-ʿArab and Mufradāt al-Rāghib, and Qurtubi's use of "أماله" in the same passage implies the same root sense. Cannot confirm the exact phrasing from the data at hand, but cannot mark it wrong either.
+
+All other verifiable claims check out:
+
+- **يَلْوُۥنَ root (ل-و-ي) as bending/inclining** — confirmed by Qurtubi ("أماله") and consistent with the word-by-word reference ("they distort/bend their tongues").
+- **Kaʿb ibn al-Ashraf named as among the group** — confirmed verbatim in both Jalalayn ("ككعب بن الأشرف") and Baghawi ("كعب بن الأشرف ومالك بن الصيف وحيي بن أخطب...").
+- **What was distorted: the Prophet's description and the verse of stoning** — confirmed in Jalalayn ("من نعت النبي ﷺ") and Baghawi ("ما غيروا من صفة النبي ﷺ وآية الرجم").
+- **Abū Jaʿfar and Shayba reading *yalawwūna* on the takthīr pattern** — confirmed verbatim in Qurtubi: "وقرأ أبو جعفر وشيبة 'يلوون' على التكثير."
+- **Arabic text in frontmatter** — matches the authentic Arabic provided.
+- **Translation** — accurate against the word-by-word reference.
+- **Double negation structure** — reflects the ayah's text faithfully (وَمَا هُوَ مِنَ ٱلْكِتَـٰبِ ... وَمَا هُوَ مِنْ عِندِ ٱللَّهِ).
+
+SUMMARY: The reflection is linguistically precise, its classical attributions are accurate, and the one unverifiable phrase (the exact Qurtubi quote on *aṣl al-layy*) is consistent with the surrounding evidence — no errors found.

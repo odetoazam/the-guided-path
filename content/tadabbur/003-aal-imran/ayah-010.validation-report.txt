@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayah-010.md
+Ayah: 3:10
+Date: 2026-06-22T07:20:49
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّ=Indeed, | ٱلَّذِينَ=those who | كَفَرُواْ=disbelieve[d] | لَن=never | تُغْنِىَ=will avail | عَنْهُمْ=[for] them | أَمْوَٲلُهُمْ=their wealth | وَلَآ=and not | أَوْلَـٰدُهُم=their children | مِّنَ=against | ٱللَّهِ=Allah | شَيْــًٔا‌ۖ=anything, | وَأُوْلَـٰٓئِكَ=and those - | هُمْ=they (are) | وَقُودُ=(the) fuel | ٱلنَّارِ=(for) the Fire.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE] "The grammarians describe it as negation of the future with emphasis" — Accurate as a majority position. Sibawayhi treated لَن as simple future negation without a distinct emphasis dimension; the "emphatic" reading is associated with later grammarians and is the common pedagogical gloss. Not an error — defensible and dominant — but stated as if settled when there is classical dissent. Too minor to flag as MODERATE.
+- [PASS] "Form IV of gh-n-y... transitive/causative" — Confirmed. تُغْنِيَ is the Form IV (أَفْعَلَ paradigm) imperfect in the subjunctive after لَن. The causative-transitive sense "to make free of need / to avail" is lexically correct (Lisān al-ʿArab, Mufradāt al-Rāghib corroborate; the HTML comment accurately cites this).
+- [PASS] "وَقُود with fatḥa on the wāw = the combustible material" — Directly confirmed by al-Jalalayn: *waqūdu-n-nār bi-fatḥi-l-wāw mā tūqadu bihi* ("what fire is kindled with"). The distinction from wuqūd (ḍamma = the act of burning) is textbook and accurate.
+- [PASS] "أَمْوَٰلُهُمْ from a different root (m-w-l)" — Correct. Root م-و-ل is distinct from غ-ن-ي. The contrast the reflection builds (wealth = m-w-l; the verb for what wealth fails to do = gh-n-y / self-sufficiency) is a legitimate and well-grounded rhetorical observation.
+- [PASS] "It does not say they will be thrown into the Fire... something worse" — Muyassar uses حطب النار (firewood of the Fire); al-Jalalayn confirms waqūd = "what fire is kindled with." The reflection's emphasis that they become the fuel rather than merely entering it is consistent with all four tafsir sources provided.
+- [PASS] Historical framing (Badr 300 vs. ~1000; Najran delegation; Madinan context) — Standard and accurate.
+
+SUMMARY: The reflection is linguistically precise and tafsir-grounded throughout the validated portion; no factual errors, root misidentifications, or unsupported scholar attributions are present in the first 8,000 characters.

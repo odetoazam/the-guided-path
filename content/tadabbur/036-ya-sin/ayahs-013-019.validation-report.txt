@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/036-ya-sin/ayahs-013-019.md
+Ayah: 36:13
+Date: 2026-06-05T06:07:54
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَٱضْرِبْ=And set forth | لَهُم=to them | مَّثَلاً=an example | أَصْحَـٰبَ=(of the) companions | ٱلْقَرْيَةِ=(of) the city, | إِذْ=when | جَآءَهَا=came to it | ٱلْمُرْسَلُونَ=the Messengers,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] Concept tag `basharun-mithlukum` — the Quranic text at verse 15 reads مَآ أَنتُمْ إِلَّا بَشَرٌ مِّثْلُنَا, where the suffix is **-nā** (first-person plural: "like **us**"), spoken by the townspeople about themselves. The concept label renders it as **-kum** (second-person plural: "like **you**"), inverting the speaker. The body text correctly quotes "You are nothing but human beings, like us" — the error is isolated to the frontmatter metadata but misrepresents the morphological form of a term the reflection is explicitly indexing.
+
+Everything else checks out:
+
+- ḍ-r-b root analysis (striking, driving, coining) is lexically attested and the interpretive extension about "leaving a mark" is framed as authorial reflection, not as tafsir fact. ✓
+- Antioch identification attributed to "al-Qurtubi, al-Baghawi, al-Jalalayn" is verified in all three provided sources; al-Qurtubi's "في قول جميع المفسرين" framing is accurately described as consensus without overstating certainty. ✓
+- Messenger connection to ʿĪsā hedged with "many connect" — consistent with al-Jalalayn ("رسل عيسى") and al-Baghawi ("بعث عيسى رسولين"). ✓
+- Narrative of two → third messenger sequence matches al-Muyassar exactly. ✓
+- tatayyur, lam-al-tawkīd, al-balāgh al-mubīn, mathal — all correctly identified from their respective verse positions. ✓
+- Meccan context of Ya-Sin and the mirror-for-the-Prophet framing are standard and uncontroversial. ✓
+
+SUMMARY: The body text and scholar attributions are accurate and appropriately hedged throughout; fix the concept tag from `basharun-mithlukum` to `basharun-mithluna` to match the first-person suffix in verse 15.

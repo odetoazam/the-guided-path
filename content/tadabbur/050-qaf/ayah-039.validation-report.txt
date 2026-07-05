@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/050-qaf/ayah-039.md
+Ayah: 50:39
+Date: 2026-06-08T21:33:30
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَٱصْبِرْ=So be patient | عَلَىٰ=over | مَا=what | يَقُولُونَ=they say | وَسَبِّحْ=and glorify | بِحَمْدِ=(the) praise | رَبِّكَ=(of) your Lord, | قَبْلَ=before | طُلُوعِ=(the) rising | ٱلشَّمْسِ=(of) the sun | وَقَبْلَ=and before | ٱلْغُرُوبِ=the setting,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "what the grammarians call fāʾ as-sababiyyah or the fā of consequence" — Technically mislabeled. The fā in this position is more accurately classified by classical grammarians as fāʾ al-faṣīḥa (the explanatory/elliptical fā), which presupposes a suppressed conditional: "if the situation is as just described, then — so be patient." Fāʾ al-sababiyya (causative fā) is a distinct construction that introduces result clauses after negations, interrogatives, or optative imperatives (e.g., imperatives of wish/hope). The functional reading offered — that the fā creates a consequential link to the preceding argument — is sound and consistent with how tafsir treats this command, but presenting "sababiyya" as the grammarians' term for this specific fā is a technical error. The interpretive point stands; the label does not.
+
+Everything else in the provided portion checks out:
+- Arabic text matches the authenticated source exactly
+- Addressee as the Prophet ﷺ confirmed by all four tafsir sources (Jalalayn: "خطاب للنبي صلى الله عليه وسلم")
+- Lexical claim that ṣ-b-r carries the sense of binding/restraint is well-attested in classical lexicography (Mufradāt al-Rāghib, Lisān al-ʿArab); *qatlu ṣabran* as the illustrative case is accurate
+- The reading that "their speech" is the specific wound being treated is consistent with Qurtubi: "أمره بالصبر على ما يقوله المشركون"
+- Surah context quotations (50:3, 50:17–18, 50:42) are accurate
+
+SUMMARY: One technical mislabeling of fāʾ al-faṣīḥa as fāʾ al-sababiyya; all lexical, contextual, and tafsir-grounded claims in the available text are accurate.

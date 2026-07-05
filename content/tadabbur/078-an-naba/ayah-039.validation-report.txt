@@ -1,0 +1,37 @@
+Enhanced Validation Report
+File: content/tadabbur/078-an-naba/ayah-039.md
+Ayah: 78:39
+Date: 2026-06-18T13:15:17
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ذَٲلِكَ=That | ٱلْيَوْمُ=(is) the Day | ٱلْحَقُّ‌ۖ=the True. | فَمَن=So whoever | شَآءَ=wills | ٱتَّخَذَ=let him take | إِلَىٰ=towards | رَبِّهِۦ=his Lord | مَـَٔـابًا=a return.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+**VERDICT: PASS**
+
+**ISSUES:**
+- No CRITICAL or MODERATE findings in the portion provided.
+
+Specific cross-checks:
+
+- [PASS] "Al-Jalālayn glosses it as *al-thābit wuqūʿuhu*" — confirmed verbatim in reference: «الثابت وقوعه».
+- [PASS] "Al-Qurṭubī and al-Baghawī both say *al-kā'in al-wāqiʿ*" — confirmed: Qurṭubī «أي الكائن الواقع»; Baghawī «الكائن الواقع». Both attributed correctly, not inverted.
+- [PASS] Root H-Q-Q for *al-ḥaqq*, glossed as "firmly established, fixed, real" — lexically sound per all four tafsir sources.
+- [PASS] Root Ax* (أ-خ-ذ) for *ittakhadha*, Form VIII, treated as reflexive/acquisitive — accurate per standard Arabic morphology; frontmatter note is correct.
+- [PASS] Root Awb for *ma'āb* — consistent with word-by-word gloss (مَـَٔابًا = a return) and Jalālayn's «مرجعا».
+- [PASS] *dhālika* as the far demonstrative conveying majesty — this is a standard and well-attested Arabic rhetorical point; the *dhālika al-kitāb* parallel (2:2) is accurate.
+- [PASS] Arabic text in the file matches the authenticated Arabic exactly.
+- [PASS] The framing of *shā'a* as available human agency/will — all four tafsirs treat the clause as exhortative: Jalālayn «رجع إلى الله بطاعته ليسلم من العذاب»; Baghawī «فمن شاء رجع إلى الله بطاعته». The reflection does not overclaim this as a theological position on qadr; it presents it as an exhortation consistent with how the classical sources read it.
+
+**SUMMARY:** All scholarly citations are accurate and correctly attributed, root and morphological claims are sound, and the Arabic text is error-free; no flaggable issues in the portion reviewed.

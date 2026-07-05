@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/063-al-munafiqun/ayah-005.md
+Ayah: 63:5
+Date: 2026-06-13T09:03:02
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَإِذَا=And when | قِيلَ=it is said | لَهُمْ=to them, | تَعَالَوْاْ=`Come, | يَسْتَغْفِرْ=will ask forgiveness | لَكُمْ=for you | رَسُولُ ٱللَّهِ=(the) Messenger of Allah.` | لَوَّوْاْ=They turn aside | رُءُوسَهُمْ=their heads | وَرَأَيْتَهُمْ=and you see them | يَصُدُّونَ=turning away | وَهُم=while they | مُّسْتَكْبِرُونَ=(are) arrogant.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "al-Qurtubi and al-Baghawi both report a version of it — when the Quran came down naming the hypocrites for what they were, the man's own clan and kinsmen came to him" — Al-Qurtubi's report is directly confirmed by the provided excerpt ("مشى إليهم عشائرهم وقالوا: افتضحتم بالنفاق..."). The provided Baghawi excerpt is truncated and contains only lexical commentary ("عطفوا وأعرضوا بوجوههم رغبة عن الاستغفار") with no trace of this historical narration. Not asserting Baghawi *doesn't* report it — but the attribution cannot be verified from the data provided. Recommend hedging to "al-Qurtubi reports" or flagging Baghawi as unconfirmed.
+- [MINOR] "khushubun musannadah, polished timbers propped against a wall" — خُشُبٌ مُّسَنَّدَةٌ means "timber propped up." No "polishing" in the lexeme. Acceptable as interpretive color in an introduction but should not be construed as translational.
+
+**Root analyses verified:**
+- *taʿālaw* ← ع-ل-و (height/elevation): correct; the root semantics of altitude are lexically attested and the connection to *taʿālā* (divine epithet) is valid.
+- *mustakbirūn* ← ك-ب-ر (greatness/bigness): correct.
+- The "two kinds of rising" structural observation — *taʿālaw* vs. *mustakbirūn* — is a sound literary insight grounded in real root contrast, not overreach.
+- *lawwaw* as a physical twisting gesture: confirmed by al-Jalalayn ("عطفوا رؤوسهم"), al-Muyassar ("أمالوا رؤوسهم وحركوها"), and al-Baghawi ("عطفوا وأعرضوا بوجوههم").
+
+SUMMARY: The reflection is linguistically rigorous and historically grounded; the sole actionable issue is an unverifiable attribution to al-Baghawi for a historical narration that al-Qurtubi alone confirms in the provided sources.

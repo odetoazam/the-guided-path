@@ -1,0 +1,37 @@
+Enhanced Validation Report
+File: content/tadabbur/075-al-qiyamah/ayahs-020-021.md
+Ayah: 75:20
+Date: 2026-06-18T07:59:05
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: كَلَّا=No! | بَلْ=But | تُحِبُّونَ=you love | ٱلْعَاجِلَةَ=the immediate,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [UNVERIFIABLE] "Al-Rāghib, in his lexicon of Quranic words, defines al-ʿajalah precisely as 'seeking something before its appointed moment.'" — Mufradāt al-Rāghib was not among the provided reference data; the specific wording of that definition cannot be confirmed from the supplied sources. The definition is consistent with standard lexicographic tradition (and with the frontmatter note citing the source), but cannot be validated against the data given here.
+
+- [UNVERIFIABLE] "The same root names the calf — al-ʿijl — the young animal that bolts and will not be still." — The ع-ج-ل / calf connection is present in major classical lexicons (Ibn Fāris, Lisān), but the provided reference data does not include morphological coverage of this claim. The interpretive gloss "that bolts and will not be still" is narrative color, not a lexicographic citation, and should be understood as such.
+
+All other claims check out against the provided data:
+
+- **كَلَّا dual-reading**: Accurately attributed. Jalalayn: «كلا استفتاح بمعنى ألا» — istiftāḥ reading confirmed. Qurtubi: «لا يصلون ولا يزكون يريد كفار مكة» — rebuke reading confirmed. The reflection holds both without collapsing them. No inversion.
+- **"do not purify" for يزكون**: Acceptable. The root z-k-y carries purification as a primary sense; zakāh is named from it on that basis. Not a mistranslation.
+- **Grammatical form of al-ʿājilah**: Correctly identified as a feminine active participle from ع-ج-ل.
+- **"Named by timing not substance"** (al-ʿājilah vs. al-dunyā): Interpretively sound. Al-Muyassar glosses العاجلة as الدنيا (the worldly life), confirming the referent, while the word-by-word reference ("the immediate") confirms the temporal emphasis. The distinction the reflection draws is lexically warranted.
+- **Surah narrative claims** (75:1–2, 75:6, 75:10–11, 75:13): All cross-references are accurate.
+- **21:37 (human created from haste)**: Accurate.
+
+SUMMARY: No critical or moderate errors found against the provided reference data; two claims draw on sources (Mufradāt al-Rāghib, calf etymology) that fall outside the supplied data and cannot be confirmed here, but neither is implausible and neither contradicts the provided tafsir.

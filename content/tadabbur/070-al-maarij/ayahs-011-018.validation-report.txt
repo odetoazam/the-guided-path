@@ -1,0 +1,40 @@
+Enhanced Validation Report
+File: content/tadabbur/070-al-maarij/ayahs-011-018.md
+Ayah: 70:11
+Date: 2026-06-15T02:02:49
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يُبَصَّرُونَهُمْ‌ۚ=They will be made to see each other. | يَوَدُّ=Would wish | ٱلْمُجْرِمُ=the criminal | لَوْ=if | يَفْتَدِى=he (could be) ransomed | مِنْ=from | عَذَابِ=(the) punishment | يَوْمِئِذِۭ=(of) that Day | بِبَنِيهِ=by his children,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No errors found in the portion provided. All specific claims map cleanly to the reference data supplied.
+
+Verified attributions:
+
+1. **"Naṣba ʿayni ṣāḥibih"** — The reflection attributes to both al-Qurṭubī and al-Baghawī the claim that "not a single creature, jinn or human, is not placed right before the eyes of the one who knew them." Both sources contain the phrase verbatim: «وليس في القيامة مخلوق إلا وهو نصب عين صاحبه من الجن والإنس». ✓
+
+2. **"Li-shtighālihi bi-nafsih"** — Attributed to al-Baghawī as the reason for the silence. Al-Baghawī text confirms: «فلا يكلمه لاشتغاله بنفسه». ✓
+
+3. **Ibn ʿAbbās / "yataʿārafūna sāʿatan min al-nahār"** — Attributed to Ibn ʿAbbās via both commentaries. Al-Baghawī: «يتعارفون ساعة من النهار ثم لا يتعارفون بعده»; al-Qurṭubī: «يتعارفون ساعة ثم لا يتعارفون بعد تلك الساعة». ✓
+
+4. **Root b-ṣ-r, Form II passive analysis of yubaṣṣarūnahum** — Morphologically accurate. The word-by-word reference ("made to see each other") confirms the causative-passive reading. ✓
+
+5. **Root j-r-m rendered "the guilty one"** — The word-by-word gives "the criminal." The Jalalayn glosses مجرم as كافر; the reflection does not overclaim the root meaning and uses "the disbeliever" only as a contextual gloss, not a morphological definition. ✓
+
+One observation not rising to a flag: the phrase "the very next page of the Qur'an" when cross-referencing 80:34 is rhetorical, not a scholarly claim, and causes no doctrinal harm — but a reader might take it literally (ʿAbasa is 10 surahs later). Worth softening in revision if prose precision is a priority.
+
+SUMMARY: The reflection is linguistically sound, all four classical-tafsir citations are accurately reproduced and correctly attributed, and the morphological analysis of Form II passive is textbook-correct; no fabrications or inversions detected in the text provided.

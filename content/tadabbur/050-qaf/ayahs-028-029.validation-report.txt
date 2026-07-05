@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/050-qaf/ayahs-028-029.md
+Ayah: 50:28
+Date: 2026-06-08T19:33:38
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: قَالَ=He will say, | لَا=`(Do) not | تَخْتَصِمُواْ=dispute | لَدَىَّ=(in) My presence | وَقَدْ=and indeed, | قَدَّمْتُ=I sent forth | إِلَيْكُم=to you | بِٱلْوَعِيدِ=the Warning.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE] Ayah 29 (مَا يُبَدَّلُ ... ظَلَّامٍ لِّلْعَبِيدِ) is included in the reflection but the reference data provided covers only 50:28. The ظَلَّام analysis (fa''āl intensive negated = "not the least unjust") is classically attested, but cannot be verified against the supplied sources. No error found — flagging scope gap only.
+
+All verifiable claims check out:
+
+- **تَخْتَصِمُوا as Form VIII (iftaʿala), carrying mutual/reciprocal force** — correct. Root خ-ص-م in Form VIII imperfect second-person plural. The "back-and-forth wrangling" gloss is lexically accurate.
+- **قَدَّمْتُ as Form II (fa''ala)** — correct per the morphology note and matches the word-by-word (قَدَّمْتُ = "I sent forth").
+- **Qurtubī attribution** — accurate. The reflection quotes Qurtubī's own statement: "يعني الكافرين وقرناءهم من الشياطين" (addressed to the disbelievers and their shayāṭīn companions). The reflection does not misattribute the follow-on al-Qushayrī gloss to Qurtubī.
+- **قَدْ + māḍī = perfective certainty** — standard Arabic grammar, correctly applied.
+- **لَدَىَّ = "in My presence"** — exact match to the word-by-word.
+- **Jalālayn / Muyassar framing of the warning as sent "in the dunya"** — the reflection's "the verdict was already delivered before the Last Day" is grounded in Jalālayn's "في الدنيا بالوعيد" and Muyassar's same phrasing.
+- **Baghawī's channel for the warning (Quran + the Messenger's tongue)** — consistent with the reflection's treatment, not contradicted anywhere.
+
+SUMMARY: Every linguistic and tafsir claim within the scope of the provided reference data is accurate; the sole gap is that ayah 29 has no supplied reference to validate against.

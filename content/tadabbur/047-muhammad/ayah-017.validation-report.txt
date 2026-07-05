@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/047-muhammad/ayah-017.md
+Ayah: 47:17
+Date: 2026-06-08T09:49:27
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَٱلَّذِينَ=And those who | ٱهْتَدَوْاْ=accept guidance, | زَادَهُمْ=He increases them | هُدًى=(in) guidance | وَءَاتَـٰهُمْ=and gives them | تَقْوَٮٰهُمْ=their righteousness.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate errors found in the submitted content.
+
+**Specific checks performed:**
+
+- **Arabic text**: Matches authentic source exactly. ✓
+- **Form VIII analysis** ("ٱهْتَدَوْا = Form VIII, root h-d-y"): Correct. *Ifta'ala* pattern, infixed ت between first and second radical. The reflexive/auto-benefactive characterization is standard Arabic grammar pedagogy and lexically defensible for this verb form. ✓
+- **Verb forms (frontmatter)**: زَادَ = Form I (z-y-d), ءَاتَىٰ = Form IV (ʾ-t-y) — both accurate. ✓
+- **47:16 quotation** (*"Mādhā qāla ānifan?"*): The Arabic of 47:16 does contain exactly this phrasing (مَاذَا قَالَ آنِفًا). Accurate. ✓
+- **"Hearts sealed" attribution to 47:16**: 47:16 ends with *"ṭabaʿa Allāhu ʿalā qulūbihim"* — accurate. ✓
+- **Possessive suffix on تَقْوَىٰهُمْ**: The observation that Allah gives them the thing while calling it *theirs* is a genuine grammatical feature. Al-Baghawi corroborates via Saʿīd ibn Jubayr ("*ātāhum thawāba taqwāhum*"), and Al-Jalalayn frames it as divine inspiration of what is *already* their protection. The reflection's framing is consistent with — not in excess of — the tafsir record. ✓
+- **Contrast framing (hypocrites vs. guided)**: All four tafsir sources ground the verse in exactly this contrast with the munafiqūn of the preceding verse. ✓
+
+SUMMARY: The linguistic, grammatical, and contextual claims in the submitted content are all accurate and grounded in the reference data; no fabrications, inversions, or overstatements detected.

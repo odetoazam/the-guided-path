@@ -1,0 +1,42 @@
+Enhanced Validation Report
+File: content/tadabbur/068-al-qalam/ayahs-026-027.md
+Ayah: 68:26
+Date: 2026-06-13T18:12:32
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَلَمَّا=But when | رَأَوْهَا=they saw it, | قَالُوٓاْ=they said, | إِنَّا=`Indeed, we | لَضَآلُّونَ=(are) surely lost.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No errors found in the portion submitted.
+
+Supporting confirmations from reference data:
+
+- **فَلَمَّا analysis**: The reflection's description — particle of immediacy tying events tightly, with *fa-* adding sequence — is standard classical Arabic grammar, uncontroversial.
+
+- **"a visitation went around the garden... black, barren (68:19-20)"**: Jalalayn confirms "سوداء محترقة" (black, burnt); Qurtubi confirms "كالليل الأسود... كالرماد" (like the black night, like ash). Verse attribution to 68:19-20 is accurate.
+
+- **"sworn to harvest at dawn, cut the poor out of their share"**: Directly confirmed by 68:17 (غُدُوًّا) and 68:24 (لَا يَدْخُلَنَّهَا الْيَوْمَ عَلَيْكُمْ مِسْكِينٌ). Accurate.
+
+- **وَلَا يَسْتَثْنُونَ = "made no exception"**: Standard translation; confirmed by all tafsir sources in context of failing to say "if God wills."
+
+- **لَضَآلُّونَ as "wrong diagnosis" (initially thought they were geographically lost, not at the right garden)**: Directly confirmed by Jalalayn ("ليست هذه"), Baghawi ("أضللنا مكان جنتنا"), and Qurtubi quoting Qatadah ("ضللنا الطريق إلى جنتنا"). This is the primary classical position.
+
+- **ḥirmān for 68:27**: Muyassar confirms "بل نحن محرومون خيرها" — deprivation of the garden's good. Accurate.
+
+One note (not an error, flagged for completeness): Qurtubi records a second interpretation of لَضَآلُّونَ — moral ḍalāl ("astray from what is right in our intention to withhold"). The reflection presents only the primary geographical reading. That is a legitimate editorial choice, not an error, but noting it in case the author wants to surface the ikhtilāf.
+
+SUMMARY: All verifiable claims in the submitted portion are grounded in the classical sources; no fabricated attributions, root errors, or overstated positions detected.

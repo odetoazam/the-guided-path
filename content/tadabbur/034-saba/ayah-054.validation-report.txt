@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/034-saba/ayah-054.md
+Ayah: 34:54
+Date: 2026-05-18T00:13:24
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَحِيلَ=And a barrier will be placed | بَيْنَهُمْ=between them | وَبَيْنَ=and between | مَا=what | يَشْتَهُونَ=they desire, | كَمَا=as | فُعِلَ=was done | بِأَشْيَاعِهِم=with their kind | مِّن قَبْلُۚ=before. | إِنَّهُمْ=Indeed, they | كَانُواْ=were | فِى=in | شَكٍّ=doubt | مُّرِيبِۭ=disquieting.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "al-fiʿl al-majhūl, literally 'the verb whose doer is unknown'" — correct technical term for the Arabic passive; accurately applied to وَحِيلَ (root Ḥ-W-L confirmed).
+- [PASS] "ḥāʾil — a wall, an obstacle... taḥawwul — transformation... ḥawl — the year" — all lexically attested derivations from H-W-L; the etymological bridge is a literary gloss, not presented as tafsir claim.
+- [PASS] "In Surah al-Anfal, ayah 24, He says directly: 'And know that Allah comes between a person and his heart.' There, the doer is named." — 8:24 reads وَاعْلَمُوا أَنَّ اللَّهَ يَحُولُ بَيْنَ الْمَرْءِ وَقَلْبِهِ; Allah is explicitly named as agent. Contrast with ḥīla passive here is valid.
+- [PASS] "Al-Qurtubi preserves... barrier between them and escape from the punishment... wealth and family... Qatada said: barrier between them and the belief" — matches provided Qurtubi text exactly (النجاة من العذاب / أموالهم وأهليهم / مذهب قتادة).
+- [PASS] "Al-Baghawi adds the same layers — faith, repentance, return to the world" — matches الإيمان والتوبة والرجوع إلى الدنيا verbatim.
+- [PASS] "Al-Jalalayn and al-Muyassar both center it on faith itself being refused" — al-Jalalayn: من الإيمان أي قبوله; al-Muyassar: من التوبة والعودة إلى الدنيا ليؤمنوا. Accurate.
+- [PASS] "This is the final ayah of Surah Saba" — Surah 34 has 54 ayahs; confirmed.
+
+SUMMARY: All morphological claims, tafsir attributions, and cross-reference citations are accurate and drawn directly from the provided source material; no fabrications or inversions detected.

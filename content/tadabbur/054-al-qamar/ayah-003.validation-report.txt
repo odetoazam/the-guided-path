@@ -1,0 +1,37 @@
+Enhanced Validation Report
+File: content/tadabbur/054-al-qamar/ayah-003.md
+Ayah: 54:3
+Date: 2026-06-09T23:20:51
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَكَذَّبُواْ=And they denied | وَٱتَّبَعُوٓاْ=and followed | أَهْوَآءَهُمْ‌ۚ=their desires, | وَكُلُّ=but (for) every | أَمْرٍ=matter | مُّسْتَقِرٌّ=(will be a) settlement.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE] "The classical commentators — al-Qurtubi and al-Baghawi among them — read this as an event the Quraysh actually witnessed" — this attribution concerns 54:1, not 54:3, and the provided reference data covers only 54:3. The claim is almost certainly accurate (it is the majority classical position on 54:1), but it cannot be confirmed from the supplied sources. Not flagged as an error — flagged as unverifiable from provided data.
+- [NOTE] "Form VIII, which folds the action back onto the doer" — presented as a general principle of Form VIII (iftaʿala), when classical grammarians document Form VIII with several distinct functions (reflexive, intensive, mediopassive, etc.). The characterization is defensible as applied to *ittabaʿa* specifically, but as a general rule it is a pedagogical simplification. No error in the specific application.
+
+Everything else checks out:
+
+- **kadhdhabū as Form II declarative** — correct. All four provided tafsirs supply the Prophet ﷺ as the implicit object, confirming the unspecified-object reading is standard, not novel.
+- **al-Baghawi attribution** ("what they witnessed of Allah's power with their own eyes") — exact match: *wa mā ʿāyanū min qudrat Allāh*.
+- **mustaqirr as Form X active participle** — correct. Root q-r-r → istaqarra (Form X) → mustaqirr (active participle), consistent with frontmatter claim.
+- **mustamirr / mustaqirr one-letter contrast** — textually accurate. Pattern is identical (m-s-t-?-r-r); the sole difference is mīm vs. qāf. Literary observation, not a tafsir attribution claim.
+- **ittabaʿa as Form VIII of t-b-ʿ** — correct morphology and the gloss ("following deliberately, as one's own chosen path") is attested.
+- **ahwāʾ root h-w-y** — correct; plural of hawā.
+- **Translation** — "every matter will come to rest" is well within the tafsir range (Jalalayn, Muyassar, Qurtubi, Baghawi all read it as final accountability/settling).
+
+SUMMARY: No factual, morphological, or attribution errors found in the verifiable portions; one claim about 54:1 falls outside the supplied reference data and should be cross-checked against the full Qurtubi/Baghawi commentary on that ayah before the file is marked validated.

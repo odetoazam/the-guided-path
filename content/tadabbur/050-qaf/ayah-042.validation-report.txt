@@ -1,0 +1,44 @@
+Enhanced Validation Report
+File: content/tadabbur/050-qaf/ayah-042.md
+Ayah: 50:42
+Date: 2026-06-08T21:21:32
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَوْمَ=(The) Day | يَسْمَعُونَ=they will hear | ٱلصَّيْحَةَ=the Blast | بِٱلْحَقِّ‌ۚ=in truth. | ذَٲلِكَ=That | يَوْمُ=(is the) Day | ٱلْخُرُوجِ=(of) coming forth.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate issues found in the content validated against the provided reference data.
+
+Verification of each checkable claim:
+
+**Scholar attributions (all verified):**
+- "Al-Qurṭubī says plainly: *ṣayḥat al-baʿth*" — Qurtubi source confirms: `يعني صيحة البعث` ✓
+- "Al-Baghawī identifies it as *al-ṣayḥah al-akhīrah*" — Baghawi source confirms: `وهي الصيحة الأخيرة` ✓
+- "Al-Jalālayn specifies it as the second blast of the trumpet, naming Isrāfīl" — Jalalayn source confirms: `وهي النفخة الثانية من إسرافيل` ✓
+
+**Linguistic claims:**
+- Root ṣ-y-ḥ (صيح) analysis: lexically sound; classical usage supports "cry out at full voice" ✓
+- Noun-of-instance claim (single completed event vs. ongoing action): *ṣayḥah* on the *faʿlah* pattern does carry this meaning in Arabic morphology ✓
+- Phonetic description of ṣād and ḥā: accurate ✓
+
+**Quranic cross-references:**
+- Echo to 50:11 (*kadhālika-l-khurūj*): accurate; 50:11 reads `كَذَٰلِكَ ٱلْخُرُوجُ` ✓
+- 50:2-3 quotation (*rajʿun baʿīd*): accurate ✓
+
+**One note (not flagged, no error):** Qurtubi adds a secondary gloss — `ومعنى الخروج الاجتماع إلى الحساب` (al-khurūj also means gathering for reckoning) — that the reflection does not foreground. This is not an error; it's a narrowing of scope entirely within the text's range.
+
+SUMMARY: All tafsir attributions trace cleanly to the provided classical sources, the root and morphological claims are lexically grounded, and no claim is overstated beyond what the reference data supports.

@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/036-ya-sin/ayah-065.md
+Ayah: 36:65
+Date: 2026-06-05T05:26:23
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ٱلْيَوْمَ=This Day | نَخْتِمُ=We will seal | عَلَىٰٓ=[on] | أَفْوَٲهِهِمْ=their mouths, | وَتُكَلِّمُنَآ=and will speak to Us | أَيْدِيهِمْ=their hands, | وَتَشْهَدُ=and will bear witness | أَرْجُلُهُم=their feet | بِمَا=about what | كَانُواْ=they used (to) | يَكْسِبُونَ=earn.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] Arabic text in frontmatter and body both match the authentic Arabic exactly, including diacritics.
+- [PASS] Translation "This Day We seal over their mouths, and their hands speak to Us, and their feet bear witness about what they used to earn" matches the word-by-word reference precisely.
+- [PASS] Root *kh-t-m* analysis (closes + authenticates simultaneously) is lexically defensible. The wax-seal double function — closure and official authentication — is attested in classical Arabic usage and consistent with Raghib al-Isfahani's *Mufradāt* (cited in the frontmatter note). The reflection does not overstate this as a scholarly consensus position; it presents it as a property of the root.
+- [PASS] *Khātam an-Nabiyyīn* connection: presented as carrying both "ended" and "authenticated" — both meanings are recognized in classical scholarship. Not an overstatement.
+- [PASS] *khatama Allāhu ʿalā qulūbihim* (2:7) cross-reference is accurate.
+- [PASS] *khaṣīmun mubīn* (36:77) citation and framing ("the great arguer") accurately reflects the ayah text.
+- [PASS] 41:21 cross-reference — "Why did you testify against us?" is addressed to *julūdihim* (skins), not hands/feet specifically, but the reflection correctly says "their own skins" and cites the correct ayah number.
+- [PASS] The tafsir framing — disbelievers who denied their shirk are met with the sealing — is confirmed explicitly by al-Jalalayn (referencing their false oath "ما كنا مشركين") and al-Baghawi ("هذا حين ينكر الكفار كفرهم").
+- [PASS] Form II *tukallimunā* (direct, intensive speaking) is correctly identified. The word-by-word reference confirms "will speak to Us."
+- [PASS] Preposition *ʿalā* rendered "over" — matches reference data exactly.
+
+SUMMARY: The reflection is linguistically careful, cross-references are accurate, tafsir framing aligns with Jalalayn and Baghawi, and interpretive extensions are clearly presented as reflection rather than documented fact — no errors found in the portion provided.

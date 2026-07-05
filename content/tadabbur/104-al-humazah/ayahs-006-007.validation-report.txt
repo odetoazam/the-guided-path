@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/104-al-humazah/ayahs-006-007.md
+Ayah: 104:6
+Date: 2026-06-20T07:34:59
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: نَارُ=A Fire | ٱللَّهِ ٱلْمُوقَدَةُ=kindled by Allah,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "The root here is **n-w-r** (ن و ر), the root of *nār*, fire — and, fascinatingly, the same root family that gives *nūr*, light." — The connection between nār and nūr under ن-و-ر is defensible in Lisān al-ʿArab but cannot be confirmed from the reference data provided, and some classical grammarians treat نار as a distinct root from نور. Stating it as an established fact overstates lexical consensus slightly. Hedging to "as recorded in classical lexicons like Lisān al-ʿArab" would be accurate; the current phrasing presents it as settled.
+- [MINOR] "al-Jalālayn glosses *al-mūqadah* simply as *al-musaʿʿarah*, 'set fiercely roaring.'" — Jalalayn text confirmed (المسعرة). However *al-musaʿʿarah* derives from س-ع-ر meaning "to stoke/kindle intensely" — not "roaring," which adds an auditory connotation absent from the Arabic. More precise rendering: "stoked to fierce intensity" or "intensely kindled." The scholar attribution is accurate; this is a translation liberty, not a factual error.
+
+Everything else holds:
+- Iḍāfa analysis and nāru-llāh interpretation: accurate and classically grounded.
+- mūqadah as Form IV passive participle of و-ق-د: correct.
+- tattaliʿu as Form VIII of ط-ل-ع: correct.
+- Jalalayn citation: accurate (المسعرة confirmed in reference).
+- Fire reaching the hearts: confirmed by Muyassar ("تنفُذ من الأجسام إلى القلوب").
+- "Never extinguished" framing implied by the Qurtubi reference (غير خامدة) supports the "[endlessly] kindled" bracketed gloss.
+
+SUMMARY: Reflection is accurate and well-sourced; the single flagged claim (the nār/nūr shared-root assertion) is lexically defensible but stated with more confidence than the provided reference data warrants.

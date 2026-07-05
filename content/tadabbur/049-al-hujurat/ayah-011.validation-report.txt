@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/049-al-hujurat/ayah-011.md
+Ayah: 49:11
+Date: 2026-06-08T18:47:06
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ=O you who believe! | لَا=(Let) not | يَسْخَرْ=ridicule | قَوْمٌ=a people | مِّن=[of] | قَوْمٍ=(another) people, | عَسَىٰٓ=perhaps | أَن=that | يَكُونُواْ=they may be | خَيْرًا=better | مِّنْهُمْ=than them; | وَلَا=and (let) not | نِسَآءٌ=women | مِّن=[of] | نِّسَآءٍ=(other) women | عَسَىٰٓ=perhaps | أَن=that | يَكُنَّ=they may be | خَيْرًا=better | مِّنْهُنَّ‌ۖ=than them. | وَلَا=And (do) not | تَلْمِزُوٓاْ=insult | أَنفُسَكُمْ=yourselves | وَلَا=and (do) not | تَنَابَزُواْ=call each other | بِٱلْأَلْقَـٰبِ‌ۖ=by nicknames. | بِئْسَ=Wretched is | ٱلِٱسْمُ=the name | ٱلْفُسُوقُ=(of) disobedience | بَعْدَ=after | ٱلْإِيمَـٰنِ‌ۚ=the faith. | وَمَن=And whoever | لَّمْ=(does) not | يَتُبْ=repent, | فَأُوْلَـٰٓئِكَ=then those - | هُمُ=they | ٱلظَّـٰلِمُونَ=(are) the wrongdoers.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "the classical commentators are unanimous on what *better* means here: better **with Allah** (*khayran ʿindallāh*)" — Of the four tafsir excerpts supplied, only al-Jalalayn explicitly appends `عند الله` (`«عسى أن يكونوا خيرا منهم» عند الله`). Al-Muyassar's excerpt reads `عسى أن يكون المهزوء به منهم خيرًا من الهازئين` — no `عند الله`. Al-Qurtubi's excerpt merely repeats the verse text. Al-Baghawi's excerpt covers only the asbāb al-nuzūl. Calling this reading "unanimous" overstates what the provided reference data can support; the Jalalayn attestation is real, but the unanimity claim goes beyond the evidence in hand.
+
+All other verifiable claims check out:
+
+- Arabic text matches the authentic reference (diacritical/rendering variants only, no substantive divergence).
+- ʿasā classified as أفعال الرجاء — standard classical nahw, accurate.
+- Al-Jalalayn quote `عسى أن يكونوا خيرا منهم عند الله` — confirmed verbatim in the supplied Jalalayn excerpt.
+- Al-Muyassar attribution — confirmed: `عسى أن يكون المهزوء به منهم خيرًا من الهازئين` is accurately paraphrased as "perhaps the mocked is better than the mocker."
+- تَنَابَزُوا as Form VI (reciprocal) — morphologically correct.
+- تَلْمِزُوٓا أَنفُسَكُمْ read reflexively ("the insult lands on you") — supported by Jalalayn: `لا تعيبوا فتعابوا، أي لا يعب بعضكم بعضا`.
+
+SUMMARY: One moderate overstatement — ascribing unanimity to a `ʿindallāh` reading that only Jalalayn explicitly states in the supplied excerpts — but no critical errors in roots, grammar, or attributions.

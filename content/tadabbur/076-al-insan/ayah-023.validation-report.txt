@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/076-al-insan/ayah-023.md
+Ayah: 76:23
+Date: 2026-06-18T09:13:48
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّا=Indeed, We | نَحْنُ=[We] | نَزَّلْنَا=[We] revealed | عَلَيْكَ=to you | ٱلْقُرْءَانَ=the Quran | تَنزِيلاً=progressively.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR — not an error, flag for clarity] "And so the verse answers: **مَا افْتَرَيْتَهُ** — *you did not invent it*" — The phrase مَا افْتَرَيْتَهُ is al-Qurtubi's gloss of the verse's implication, not a phrase from 76:23 itself. The reflection presents it as the verse's answer (not a quote of the verse), which is defensible — but a reader moving fast could mistake it for Quranic text. No error in substance; a sentence making the tafsir framing explicit would eliminate the ambiguity.
+
+- [VERIFIED CORRECT] The reading of **إِنَّا نَحْنُ** as either *tawkīd* (emphasis of the pronoun already inside *inna*) or *faṣl* (isolating/separating pronoun) maps exactly to al-Jalalayn's words: «تأكيد لاسم إن أو فصل». The reflection's attribution is precise.
+
+- [VERIFIED CORRECT] Al-Qurtubi's connection of this verse to the disbelievers' accusation of fabrication is directly in the text: «ما افتريته ولا جئت به من عندك، ولا من تلقاء نفسك، كما يدعيه المشركون». Reflection represents this accurately.
+
+- [VERIFIED CORRECT] The gradual/progressive reading of **تَنزِيلاً** is attested in both al-Jalalayn («فصلناه ولم ننزله جملة واحدة») and al-Baghawi via Ibn Abbas («متفرقاً آية بعد آية، ولم ينزل جملة واحدة»). The word-by-word reference confirms: تَنزِيلاً = "progressively."
+
+- [VERIFIED CORRECT] "Three layers of emphasis before the verb arrives" (إِنَّ + the -*nā* suffix + standalone نَحْنُ) is grammatically accurate.
+
+SUMMARY: The reflection is well-anchored in the provided tafsir sources — every linguistic and attribution claim checks out; the one flag is a presentation nuance (tafsir gloss that could be read as Quranic text) but carries no scholarly error.

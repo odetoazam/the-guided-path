@@ -1,0 +1,37 @@
+Enhanced Validation Report
+File: content/tadabbur/054-al-qamar/ayah-039.md
+Ayah: 54:39
+Date: 2026-06-10T07:01:48
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَذُوقُواْ=So taste | عَذَابِى=My punishment | وَنُذُرِ=and My warnings.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE — unverifiable from provided data] "Al-Rāghib, in his *Mufradāt*, notes that *dhawq* properly refers to perceiving a **small amount** of something" — the provided reference data does not include Mufradāt al-Rāghib, so this specific lexical claim cannot be confirmed from the supplied sources. The claim is plausible and consistent with classical Arabic lexicology, but an independent check against the Mufradāt is warranted before publication.
+- [NOTE — unverifiable from provided data] Refrain cited at "54:16, 18, 21, 30" — the provided data covers only 54:39 and its immediate context; the precise verse numbers for each instance of *fa-kayfa kāna ʿadhābī wa-nudhur* cannot be confirmed here. The list looks plausible but should be spot-checked against the full surah text before publication.
+
+VERIFIED:
+- Arabic text matches the authentic Arabic exactly. ✓
+- Translation "So taste My punishment and My warnings" matches the word-by-word reference exactly. ✓
+- The claim that the repetition covers two distinct punishments is directly confirmed by al-Qurtubi: *"العذاب الذي نزل بهم من طمس الأعين غير العذاب الذي أهلكوا به، فلذلك حسن التكرير"* — the two punishments differ, therefore the repetition is sound. ✓
+- The identification of 54:37 as the eye-erasure verse is confirmed by al-Qurtubi's explicit mention of *طمس الأعين*. ✓
+- The "abiding punishment" framing (*mustaqirr*, lasting until the Hereafter) is directly confirmed by al-Muyassar: *"عذاب دائم استقر فيهم حتى يُفضي بهم إلى عذاب الآخرة."* ✓
+- The "taste as beginning, not the meal" argument is coherent with the Muyassar gloss and is a legitimate rhetorical inference, not an overclaim. ✓
+- The imperative-as-humiliation reading (contrast with the command of honor) is a standard Arabic rhetoric point and is not overstated. ✓
+- 44:49 cited as a parallel for the humiliating imperative — the Arabic and translation quoted appear correct; the interpretive parallel is apt. ✓
+
+SUMMARY: The reflection is linguistically careful and tracks the provided classical sources faithfully; the two open items are external-source attestations absent from the supplied data, not factual errors in the text.

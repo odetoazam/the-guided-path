@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/098-al-bayyinah/ayahs-002-003.md
+Ayah: 98:2
+Date: 2026-06-20T06:17:26
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: رَسُولٌ=A Messenger | مِّنَ=from | ٱللَّهِ=Allah, | يَتْلُواْ=reciting | صُحُفًا=pages | مُّطَهَّرَةً=purified,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No genuine errors found in the portion reviewed. All verifiable claims check out against the provided reference data.
+
+Specific verifications:
+- [CONFIRMED] "Al-Zajjāj... *rafʿun ʿalā al-badal*" — al-Qurṭubī explicitly records: «قال الزجاج: رسول رفع على البدل من البينة». Attribution is correct.
+- [CONFIRMED] "Al-Jalālayn states it with beautiful economy: *rasūlun mina-llāhi* is *badalun mina-l-bayyinah*... and it is the Prophet ﷺ" — direct match: «رسول من الله بدل من البينة وهو النبي صلى الله عليه وسلم».
+- [CONFIRMED] "Al-Qurṭubī preserves a small chorus of scholarly voices, and they don't fully agree" — accurate: Qurṭubī presents al-Zajjāj (pure badal/nominative), al-Farrāʾ (paraphrase reading), and the Ubayy/Ibn Masʿūd mushaf variant (accusative, على القطع). The reflection acknowledges this disagreement rather than flattening it.
+- [CONFIRMED] مُطَهَّرَة glossed as "purified from falsehood" — al-Baghawī: «مطهرة من الباطل والكذب والزور»; al-Jalālayn: «من الباطل». Consistent.
+- [UNVERIFIABLE FROM PROVIDED DATA] Ayah 3 content (كُتُبٌ قَيِّمَةٌ analysis) — the reflection text is cut off before reaching that material. No tafsir data for ayah 3 was supplied, so that portion cannot be validated here.
+
+SUMMARY: The reviewed portion is linguistically precise and scholar-attributed correctly throughout; the badal analysis is the doctrinal center of the piece and it holds up against every classical source provided.

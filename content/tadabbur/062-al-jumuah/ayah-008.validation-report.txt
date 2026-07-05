@@ -1,0 +1,29 @@
+Enhanced Validation Report
+File: content/tadabbur/062-al-jumuah/ayah-008.md
+Ayah: 62:8
+Date: 2026-06-13T01:21:44
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: قُلْ=Say, | إِنَّ=`Indeed, | ٱلْمَوْتَ=the death | ٱلَّذِى=which | تَفِرُّونَ=you flee | مِنْهُ=from it, | فَإِنَّهُۥ=then surely it | مُلَـٰقِيكُمْ‌ۖ=(will) meet you. | ثُمَّ=Then | تُرَدُّونَ=you will be sent back | إِلَىٰ=to | عَـٰلِمِ=(the) All-Knower | ٱلْغَيْبِ=(of) the unseen | وَٱلشَّهَـٰدَةِ=and the witnessed, | فَيُنَبِّئُكُم=and He will inform you | بِمَا=of what | كُنتُمْ=you used (to) | تَعْمَلُونَ=do.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR-INTERPRETIVE] "the word for the bolting of a startled animal — the panic-flight of a creature that has caught a scent of danger and breaks into a run before the mind has even decided to" — The root *frr* means to flee/run away, but the specific characterization as uniquely *animal* panic-bolt (versus purposeful human flight) is a literary embellishment beyond what the tafsir sources supply. Al-Muyassar uses تهربون (you run away) and al-Jalalayn simply preserves تفرون without zoological gloss. The shadda-doubled rā phonetics point is a valid Arabic literary observation. This is interpretive styling, not a factual claim, so it does not reach MODERATE.
+- [VERIFIED-ACCURATE] "The grammarian al-Zajjāj noticed this centuries ago, and al-Qurtubī preserves his analysis for us. Al-Zajjāj said: you don't say *inna Zaydan fa-munṭaliqun*" — This is verbatim confirmed by the Qurtubi source: «قال الزجاج: لا يقال: إن زيدا فمنطلق، وهاهنا قال: فإنه ملاقيكم لما في معنى الذي من الشرط والجزاء» — attribution, example sentence, and conditional-meaning explanation are all exact.
+- [VERIFIED-ACCURATE] Form III مُلَاقِيكُم / Form II فَيُنَبِّئُكُم morphology call in the frontmatter comment is correct.
+- [VERIFIED-ACCURATE] Contextual framing of 62:6–7 (the exclusive-friendship claim, the longing-for-death test, the "what their hands have sent ahead" verdict) is accurate.
+
+SUMMARY: The reflection is well-grounded — the al-Zajjāj/al-Qurtubī grammar analysis is reproduced with textual fidelity, morphology claims are correct, and no scholar attribution is inverted or fabricated; the only note is that the "animal panic-bolt" gloss on فرّ exceeds the lexical sources but stays within legitimate tadabbur literary interpretation.

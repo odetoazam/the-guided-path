@@ -1,0 +1,26 @@
+Enhanced Validation Report
+File: content/tadabbur/038-sad/ayahs-049-054.md
+Ayah: 38:49
+Date: 2026-06-06T02:46:04
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: هَـٰذَا=This | ذِكْرٌ‌ۚ=(is) a Reminder. | وَإِنَّ=And indeed, | لِلْمُتَّقِينَ=for the righteous | لَحُسْنَ=surely, is a good | مَــَٔابٍ=place of return,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] passage_context: "Dawud, Sulayman, Ayyub, Ibrahim and the others — each one repeatedly honored with a single epithet: awwāb" — Ibrahim, Ishaq, and Yaʿqub (38:45–47) are **not** called awwāb. They receive the epithets *ulī al-aydī wa-l-abṣār* ("possessors of strength and vision") and *mukhlaṣīna bi-khāliṣatin dhikrā al-dār*. The awwāb epithet appears exactly three times in this surah: Dawud (38:17), Sulayman (38:30), Ayyub (38:44). The main reflection body correctly limits "a bell rung three times" to these three — the metadata framing contradicts its own body.
+
+SUMMARY: The reflection body is linguistically and exegetically accurate — the root أ-و-ب threading through *awwāb* / *maʾāb*, the ism makān analysis, the Form VIII identification of *muttaqīn*, and the cross-verse ḥusna maʾāb callback to 38:25 and 38:40 are all well-grounded; the single issue is that the `passage_context` YAML field overapplies the awwāb epithet to prophets who do not receive it, which contradicts both the main text and the Quranic record.

@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/055-ar-rahman/ayah-040.md
+Ayah: 55:40
+Date: 2026-06-12T08:04:57
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَبِأَىِّ=So which | ءَالَآءِ=(of the) favors | رَبِّكُمَا=(of) your Lord | تُكَذِّبَانِ=will you both deny?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "تُكَذِّبَانِ is Form II" — confirmed by the morphology note (Leeds corpus) and lexically correct: root k-dh-b, Form II pattern *faʿʿala* → *kadhdhaba* → *yukadhdhibu* → *tukadhdhibāni*.
+- [PASS] "The bare Form I, kadhaba, means simply 'to lie'... Form II... means to declare something false" — the Form I / Form II semantic distinction is textbook Arabic morphology. The practical rendering of Form II k-dh-b as "to declare/brand false" is lexically attested (Lisān al-ʿArab, Mufradāt al-Rāghib) and is the standard meaning cited across tafsir literature.
+- [PASS] "thirty-one times across one surah" — the refrain's 31-occurrence count in Ar-Rahman is a well-established fact, undisputed.
+- [PASS] Contextual framing of 55:37–39, 41 — the referenced ayahs are accurately paraphrased: sky splitting and reddening like oil (37–38), no questioning of sin (39), criminals seized by forelocks and feet (41).
+- [PASS] "The object of the denial is the ālāʾ — the favors themselves... It means to deny what the favor is pointing at" — this is presented explicitly as interpretive inference ("So what does it mean to...?"), not as a cited scholar position. It is theologically coherent and consistent with the surah's thematic arc. No overclaiming.
+- [NOTE] The provided tafsir snippets for 55:40 are minimal (Qurtubi defers with "تقدم تفسيرها"; Baghawi and Jalalayn give only the repeated phrase). The reflection's depth draws heavily on internal morphological analysis rather than specific scholar positions — which is appropriate since it makes no false attribution claims.
+
+SUMMARY: The reflection is linguistically precise and morphologically accurate; all interpretive moves are framed as interpretation rather than documented fact, and no classical source is misrepresented.

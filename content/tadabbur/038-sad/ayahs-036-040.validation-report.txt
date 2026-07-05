@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/038-sad/ayahs-036-040.md
+Ayah: 38:36
+Date: 2026-06-06T01:09:53
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَسَخَّرْنَا=Then We subjected | لَهُ=to him | ٱلرِّيحَ=the wind | تَجْرِى=to flow | بِأَمْرِهِۦ=by his command, | رُخَآءً=gently, | حَيْثُ=wherever | أَصَابَ=he directed,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "رُخَآء — rukhāʾ — gentle" — Jalalayn confirms "لينة" (soft/gentle); Baghawi confirms "لينة ليست بعاصفة" (soft, not stormy). Lexically exact.
+- [PASS] "حيث أصاب = wherever he directed" — Baghawi glosses as "حيث أراد" (wherever he intended/willed). The reflection's "directed" is a faithful rendering.
+- [PASS] "The subjugating is Allah's. The commanding is Sulayman's" — the verse grammatically confirms this split: *fa-sakhkharnā* (1st person plural divine) + *bi-amrihi* (by Sulayman's command). The analysis is structurally sound.
+- [PASS] Form II morphology of *sakhkhara* — the doubled middle radical (kh doubled) intensifying the subjugation is standard Arabic morphology; the ʿalima/ʿallama example is textbook Form I→II contrast. No error.
+- [PASS] The *fa* as causal connective linking 38:35 (repentance) to 38:36 (gift) — this is a legitimate and standard reading of causal *fa* in Arabic syntax. Supported by the passage structure.
+- [PASS] Awwāb ascribed to Dawud and Ayyub in Surah Sad — both correct (38:17, 38:30 for Dawud; 38:44 for Ayyub). The *niʿma-l-ʿabd innahu awwāb* quotation is accurate to 38:44.
+- [PASS] "a body placed upon his throne" (jassad/testing narrative) — the Muyassar source confirms the trial context (38:34), and the reflection handles it accurately as interpretive background rather than a stated fact about 38:36 specifically.
+- [UNVERIFIABLE — not flagged as error] "the most concentrated grant of worldly dominion described anywhere in the Qur'an given to a single person" — this is the author's rhetorical framing, not presented as a scholarly citation. It cannot be confirmed from the reference data provided, but it is clearly marked as the author's argument, not attributed to a scholar. No flag warranted.
+
+SUMMARY: The visible portion of this reflection is linguistically precise, morphologically accurate, and tafsir-consistent across all checkable claims — no errors found.

@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/047-muhammad/ayah-026.md
+Ayah: 47:26
+Date: 2026-06-08T11:37:46
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ذَٲلِكَ=That | بِأَنَّهُمْ=(is) because they | قَالُواْ=[they] said | لِلَّذِينَ=to those who | كَرِهُواْ=hate | مَا=what | نَزَّلَ ٱللَّهُ=Allah has revealed, | سَنُطِيعُكُمْ=`We will obey you | فِى=in | بَعْضِ=part | ٱلْأَمْرِ‌ۖ=(of) the matter.` | وَٱللَّهُ=But Allah | يَعْلَمُ=knows | إِسْرَارَهُمْ=their secrets.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "the doubled form — what grammarians call Form II... carries the sense of deliberate, sustained, piece-by-piece sending down" — Accurate. نَزَّلَ is Form II (fa'ʿʿala) and this atelic/repetitive sense is the standard classical Arabic grammar explanation. Morphology comment at file header also correctly notes "Form II nazzala."
+- [PASS] "karihū... is not mild dislike. It is deep aversion, repugnance, the recoil of something the self finds hateful" — Lexically supported. كَرِهَ in classical usage (Mufradāt al-Rāghib) carries this force, and the word-by-word reference renders it "hate" without qualification.
+- [PASS] "The classical commentators — al-Qurṭubī, al-Baghawī, and others — identify the speakers as the hypocrites (and in some narrations, certain factions)" — Directly verified. Al-Baghawī: "يعني المنافقين أو اليهود"; al-Qurṭubī: "يعني المنافقين واليهود." The "أو / and" in sources accurately represents scholarly variance the reflection signals with "in some narrations."
+- [PASS] "those who hated the revelation as the open opponents, the mushrikīn" — Verified by all four tafsir sources. Al-Jalālayn: "للمشركين"; al-Baghawī: "وهم المشركون"; al-Qurṭubī: "وهم المشركون."
+- [PASS] "a sentence they said secretly" — Verified. Al-Baghawī: "وكانوا يقولونه سرا فأخبر الله تعالى عنهم"; al-Jalālayn: "قالوا ذلك سرا فأظهره الله."
+- [PASS] Connection to 47:25 as the symptom preceding 47:26 as the diagnosis — Supported by al-Muyassar and al-Qurṭubī both framing ذلك as the cause of their extended misguidance.
+
+SUMMARY: All verifiable claims in the submitted portion are grounded in the provided word-by-word data and classical tafsir; no fabricated attributions, no inverted scholar positions, no morphological errors detected.

@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/077-al-mursalat/ayah-037.md
+Ayah: 77:37
+Date: 2026-06-18T11:37:18
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَيْلٌ=Woe | يَوْمَئِذٍ=that Day | لِّلْمُكَذِّبِينَ=to the deniers.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "the classical commentators tell us something about this repetition... The repetition is not emphasis. The repetition is **arithmetic.**" — From the four tafsir sources provided, only Al-Qurtubi explicitly makes the proportionality argument: *"قسمه بينهم على قدر تكذيبهم، فإن لكل مكذب بشيء عذابا سوى تكذيبه بشيء آخر"* ("He distributed it among them according to the measure of their denial — for each denier of one thing there is a punishment separate from their denial of another"). Al-Jalalain, Al-Muyassar, and Al-Baghawi in the provided excerpts do not address the repetition at all. Framing this as a position of "the classical commentators" (implied consensus) overstates it; the correct attribution is Al-Qurtubi specifically.
+
+No other factual errors found. Specifically confirmed accurate:
+- **Refrain count of ten**: 77:15, 19, 24, 28, 34, 37, 40, 45, 47, 49 — verified
+- **Grammatical claim on *waylun***: bare indefinite noun without verb, functioning as exclamatory nominal sentence — standard classical Arabic grammar, accurate
+- **Indefinite tanwin for magnification** (التنكير للتعظيم): well-attested classical principle, accurately applied
+- **Form II active participle for *mukadhdhibīn*** (root k-dh-b, ism fāʿil, Form II intensive): correct per morphology note and consistent with reference data
+- **77:35–36 context** (silence and no permission to excuse): accurately quoted and translated
+- ***Waylah* as a cognate grief-cry**: lexically defensible from classical Arabic usage
+
+SUMMARY: The reflection is well-grounded; the one moderate issue is attributing the "arithmetic repetition" argument to classical commentators collectively when it derives specifically from Al-Qurtubi — fix by naming Qurtubi directly rather than invoking plural consensus.

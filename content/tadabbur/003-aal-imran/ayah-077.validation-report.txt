@@ -1,0 +1,38 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayah-077.md
+Ayah: 3:77
+Date: 2026-06-21T10:55:22
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّ=Indeed, | ٱلَّذِينَ=those who | يَشْتَرُونَ=exchange | بِعَهْدِ=(the) Covenant | ٱللَّهِ=(of) Allah | وَأَيْمَـٰنِهِمْ=and their oaths | ثَمَنًا=(for) a price | قَلِيلاً=little, | أُوْلَـٰٓئِكَ=those - | لَا=no | خَلَـٰقَ=share | لَهُمْ=for them | فِى=in | ٱلْأَخِرَةِ=the Hereafter | وَلَا=and not | يُكَلِّمُهُمُ ٱللَّهُ=will Allah speak to them, | وَلَا=and not | يَنظُرُ=look | إِلَيْهِمْ=at them | يَوْمَ=(on the) Day | ٱلْقِيَـٰمَةِ=(of) the Resurrection | وَلَا=and not | يُزَكِّيهِمْ=purify them, | وَلَهُمْ=and for them | عَذَابٌ=(is) a punishment | أَلِيمٌ=painful.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "Form VIII — iftaʿala, the form ishtarā. And Form VIII carries a specific flavor that grammarians call the reflexive or self-referential sense: to do something for oneself, to one's own account" — The Form VIII reflexive/self-referential characterization is a well-known pedagogical point in Arabic grammar instruction and is defensible (Wright's Grammar addresses Form VIII's middle/reflexive nuance), but for اشترى specifically, Form VIII is simply the lexicalized word for "to buy" — it is not universally described by classical grammarians as a marked self-referential choice. Presenting this as what "grammarians call" it treats an interpretive tradition in Quranic commentary as settled morphological consensus. The linguistic point is not wrong but is stated with more authority than the strictly grammatical record supports. No tafsir source in the provided data invokes this morphological argument.
+
+- [PASS] Occasion of revelation attributed to Al-Baghawi citing ʿIkrimah (People of the Book concealing the Prophet's description in Torah for income/influence) — confirmed verbatim in the provided Al-Baghawi excerpt.
+
+- [PASS] Al-Qurtubi / al-Ashʿath ibn Qays land-dispute hadith — confirmed in the provided Al-Qurtubi excerpt ("كان بيني وبين رجل من اليهود أرض فجحدني...").
+
+- [PASS] خَلَاق = share/portion — confirmed by word-by-word reference.
+
+- [PASS] يَشْتَرُونَ being Form VIII of root ش-ر-ي, and that Form I شَرَى can mean "to sell" while Form VIII ishtarā means "to buy" — lexically accurate and attested in classical lexicons.
+
+- [PASS] 9:111 cross-reference ("Allah has purchased from the believers their lives and wealth in exchange for Paradise") — accurate paraphrase using the same Form VIII root, correctly cited.
+
+- [PASS] Three-part punishment sequence (divine speech withheld, divine gaze withheld, tazkiyah withheld) before mention of punishment — accurately derived from the ayah text with no additions.
+
+SUMMARY: The reflection is textually and scholastically sound; the one flag is a morphological claim about Form VIII stated as grammarians' consensus when it is more accurately an interpretive tradition in Quranic commentary — moderate overstatement, not an error.

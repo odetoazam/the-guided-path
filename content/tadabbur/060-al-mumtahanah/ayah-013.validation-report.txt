@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/060-al-mumtahanah/ayah-013.md
+Ayah: 60:13
+Date: 2026-06-12T21:18:52
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ=O you who believe! | لَا=(Do) not | تَتَوَلَّوْاْ=make allies | قَوْمًا=(of) a people, | غَضِبَ ٱللَّهُ=Allahâ€™s Wrath | عَلَيْهِمْ=(is) upon them. | قَدْ=Indeed, | يَئِسُواْ=they despair | مِنَ=of | ٱلْأَخِرَةِ=the Hereafter | كَمَا=as | يَئِسَ=despair | ٱلْكُفَّارُ=the disbelievers | مِنْ=of | أَصْحَـٰبِ=(the) companions | ٱلْقُبُورِ=(of) the graves.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] Form V characterization of تَتَوَلَّوْا as "reflexive, tafaʿʿala" — morphologically correct. Root wly, Form II = وَلَّى, Form V reflexive = تَوَلَّى, plural jussive with prohibitive lā = لَا تَتَوَلَّوْا. The pedagogical gloss ("folds the action back onto the doer") is a simplification of Form V's semantic range (which also includes gradual action and feigning), but accurately captures the dominant nuance for this root in this context.
+- [PASS] Root wly glossed as "nearness/closeness" — attested in Lisān al-ʿArab and consistent with Rāghib's Mufradāt. Walī and mawlā derivations correctly explained.
+- [PASS] "لَا تُصَاحِبُوا / لَا تُحِبُّوا" used as contrast forms — both are morphologically valid constructions from their respective roots (ṣ-ḥ-b, ḥ-b-b), used accurately as rhetorical foils.
+- [PASS] ءَامَنُوا identified as Form IV from Amn — correct (āmana = Form IV, أَفْعَلَ pattern).
+- [PASS] Despair comparison with the dead — accurately reflects the tafsir tradition. Jalalayn and Muyassar both describe the grave-dwellers' despair as arising from witnessing their forfeited place in Jannah and certainty of the Fire. The reflection's rendering ("so complete, so final... described using the dead") is grounded.
+- [PASS] Hatib incident cited as the surah's opening occasion — historically and exegetically correct per the asbāb tradition.
+- [PASS] The interpretive move to foreground the inner/psychological dimension of the disqualification (despair, not ethnicity) rather than the classical tafsir's explicit identification of the group as Jews — this is a legitimate tadabbur choice. The reflection does not deny a historical referent; it redirects attention to the universally applicable spiritual condition named in the verse. The 8,000-character excerpt does not yet address the historical specificity, but nothing said contradicts it.
+
+SUMMARY: All verifiable linguistic and morphological claims are accurate; the interpretive framing emphasizing despair-as-disqualifier is grounded in the verse's own wording and falls within the bounds of legitimate tadabbur rather than tafsir overreach.

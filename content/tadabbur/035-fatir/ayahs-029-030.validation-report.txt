@@ -1,0 +1,37 @@
+Enhanced Validation Report
+File: content/tadabbur/035-fatir/ayahs-029-030.md
+Ayah: 35:29
+Date: 2026-05-18T06:06:16
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّ=Indeed, | ٱلَّذِينَ=those who | يَتْلُونَ=recite | كِتَـٰبَ=(the) Book | ٱللَّهِ=(of) Allah, | وَأَقَامُواْ=and establish | ٱلصَّلَوٲةَ=the prayer | وَأَنفَقُواْ=and spend | مِمَّا=out of what | رَزَقْنَـٰهُمْ=We have provided them, | سِرًّا=secretly | وَعَلَانِيَةً=and openly, | يَرْجُونَ=hope | تِجَـٰرَةً=(for) a commerce - | لَّن=never | تَبُورَ=it will perish.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE — not an error] "Reading the Qur'an is not one of the three actions. It is the atmosphere in which the other two happen." — This is an interpretive extension stated declaratively. The classical tafsirs (Jalalayn, Baghawi, Qurtubi) treat recitation, prayer, and spending as three coordinate parallel virtuous acts, not in a hierarchical relationship where recitation is structurally prior. The derivation rests on the real and verifiable tense shift (yatlūna muḍāriʿ vs. aqāmū/anfaqū māḍī), so it is not false — but it goes beyond what the grammar alone can establish. The reflection does hedge earlier with "here is what this invites us to consider," which provides sufficient contextual framing for tadabbur genre. No flag required; noting for the author's awareness.
+
+Everything else checked out:
+
+- **Arabic text**: matches the authenticated source exactly (minor diacritic variant in kitāba is within normal rendering variance)
+- **Tense analysis**: morphologically accurate — يَتْلُونَ is genuinely Form I muḍāriʿ (imperfect); أَقَامُوا and أَنفَقُوا are genuinely Form IV māḍī (perfect). The tense shift observation is factually correct.
+- **Translation of tabūr**: "never go bankrupt" is a contextually appropriate rendering — Jalalayn glosses it as تهلك, Baghawi as لن تفسد ولن تهلك. In a mercantile metaphor, "bankrupt" captures the semantic range without distortion.
+- **35:28 (ʿulamāʾ ayah)**: quoted correctly and contextually accurate
+- **Surah Fatir described as Makki**: correct
+- **Fāṭir etymology**: correct (فطر = to cleave, originate)
+- **tijārah as Meccan merchant vocabulary**: accurate; no anachronism
+- **Surah content summary (rain, colored mountains, differentiated creation)**: accurate reflection of 35:27
+
+SUMMARY: The reflection is linguistically rigorous and grounded — every factual claim is verifiable; the one bold interpretive move (recitation as atmosphere rather than parallel action) is clearly a tadabbur inference from real grammar, appropriately hedged in context.

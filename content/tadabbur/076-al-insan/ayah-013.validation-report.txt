@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/076-al-insan/ayah-013.md
+Ayah: 76:13
+Date: 2026-06-18T10:14:16
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: مُّتَّكِــِٔينَ=Reclining | فِيهَا=therein | عَلَى=on | ٱلْأَرَآئِكِ‌ۖ=couches. | لَا=Not | يَرَوْنَ=they will see | فِيهَا=therein | شَمْسًا=any sun | وَلَا=and not | زَمْهَرِيرًا=freezing cold.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+
+- [MODERATE] "The lexicons and every one of our commentators agree: the bitter, biting, intense cold" — This overstates the consensus. Jalālayn presents the cold reading first (*lā ḥarran wa-lā bardan*) but then explicitly records a second opinion: *"wa-qīla az-zamharīru al-qamar"* — "and it is said zamharīr means the moon, so paradise is illuminated without sun or moon." The reflection's claim of unanimity across all four commentators is inaccurate; Jalālayn transmits a recognized minority tafsir position that the word refers to the moon, not cold.
+
+CONFIRMED ACCURATE (explicit reference verification):
+
+- The identification of *muttaki'īn* as Form VIII (*iftaʿala*, *ittaka'a → muttaki'*) from root و-ك-أ is linguistically correct.
+- The ḥāl analysis — that *muttaki'īn* is governed by *jazāhum* not *ṣabarū* — is confirmed verbatim by Qurṭubī (*"والعامل فيها جزى ولا يعمل فيها صبروا"*) and by Baghawī (*"نصب على الحال"*).
+- The ṣabr-in-dunya / reclining-in-ākhira framing attributed to Qurṭubī is a direct reading of his text: *"لأن الصبر إنما كان في الدنيا والاتكاء في الآخرة."*
+- Zamharīr = severe cold is confirmed by Baghawī (*"البرد الشديد"*) and Muyassar (*"شدة برد"*).
+- The quadriliteral root observation (z-m-h-r) is accurate; زمهرير is a quadriliteral.
+- The abrār narrative (76:8–10), including *qamṭarīr*, is faithfully rendered.
+
+SUMMARY: One moderate overstatement — presenting zamharīr's meaning as unanimous across all four commentators when Jalālayn transmits the classical *qīla* that it means the moon; every other linguistic, grammatical, and scholarly claim is confirmed by the provided reference data.

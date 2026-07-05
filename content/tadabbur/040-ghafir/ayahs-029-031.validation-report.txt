@@ -1,0 +1,24 @@
+Enhanced Validation Report
+File: content/tadabbur/040-ghafir/ayahs-029-031.md
+Ayah: 40:29
+Date: 2026-06-06T10:55:55
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَـٰقَوْمِ=O my people! | لَكُمُ=For you | ٱلْمُلْكُ=(is) the kingdom | ٱلْيَوْمَ=today, | ظَـٰهِرِينَ=dominant | فِى=in | ٱلْأَرْضِ=the land, | فَمَن=but who | يَنصُرُنَا=will help us | مِنۢ=from | بَأْسِ=(the) punishment | ٱللَّهِ=(of) Allah, | إِن=if | جَآءَنَاۚ=it came to us.` | قَالَ=Said | فِرْعَوْنُ=Firaun, | مَآ=`Not | أُرِيكُمْ=I show you | إِلَّا=except | مَآ=what | أَرَىٰ=I see | وَمَآ=and not | أَهْدِيكُمْ=I guide you | إِلَّا=except | سَبِيلَ=(to the) path | ٱلرَّشَادِ=the right.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: ERROR
+ISSUES:
+- Could not run Claude check: Command failed: claude -p --system-prompt "You are a rigorous Islamic scholarship validator for Ayah
+SUMMARY: Claude semantic check failed

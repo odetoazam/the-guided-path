@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/036-ya-sin/ayah-011.md
+Ayah: 36:11
+Date: 2026-06-05T07:18:01
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّمَا=Only | تُنذِرُ=you (can) warn | مَنِ=(him) who | ٱتَّبَعَ=follows | ٱلذِّكْرَ=the Reminder | وَخَشِىَ=and fears | ٱلرَّحْمَـٰنَ=the Most Gracious | بِٱلْغَيْبِۖ=in the unseen. | فَبَشِّرْهُ=So give him glad tidings | بِمَغْفِرَةٍ=of forgiveness | وَأَجْرٍ=and a reward | كَرِيمٍ=noble.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: **PASS**
+
+ISSUES:
+- [NOTE] Reflection truncated at 8000 chars — the *khashiya-r-Raḥmān* / *bil-ghayb* analysis cannot be validated from this excerpt. Flag for re-submission once the remainder is available.
+- [MINOR] Transliteration inconsistency: root labeled *n-dh-r* (correct) but imperfect rendered "tunzhiru" using "zh" for ذ rather than "dh." Not a content error — a convention mismatch within the same piece.
+
+**Verified clean:**
+- **Jalālayn attribution** — "يَنفَع إنذارك" quoted exactly; Jalālayn source reads «إنما تنذر» ينفع إنذارك. ✓
+- **Muyassar attribution** — "إنما ينفع تحذيرك" quoted exactly; Muyassar reads إنما ينفع تحذيرك. ✓
+- **Baghawī attribution** — "إنما ينفع إنذارك" quoted exactly; Baghawī reads إنما ينفع إنذارك. ✓
+- **Grammatical analysis of *innamā*** — qaṣr/ḥaṣr terminology and the inna+mā construction are standard and attested. ✓
+- **تُنذِرُ as Form IV imperfect of ن-ذ-ر** — correct. ✓
+- **Translation** — matches word-by-word reference with no inversions or additions beyond the translator-acknowledged "can." ✓
+- **Contextual framing of 36:8-10** — accurately characterizes the sealed-heart passage preceding this ayah. ✓
+
+SUMMARY: All verifiable tafsir citations and grammatical claims in the first 8000 characters are accurate; the khashyah/bil-ghayb sections must be re-submitted for full clearance.

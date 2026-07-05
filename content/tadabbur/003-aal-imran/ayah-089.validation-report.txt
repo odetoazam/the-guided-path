@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayah-089.md
+Ayah: 3:89
+Date: 2026-06-21T14:20:34
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِلَّا=Except | ٱلَّذِينَ=those who | تَابُواْ=repent | مِنۢ بَعْدِ=after | ذَٲلِكَ=that, | وَأَصْلَحُواْ=and reform[ed] themselves. | فَإِنَّ=Then indeed, | ٱللَّهَ=Allah | غَفُورٌ=(is) Oft-Forgiving, | رَّحِيمٌ=Most Merciful.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [INFO] The frontmatter morphology note claims "tābū = Form I; aṣlaḥū = Form IV factitive-transitive." Both are correct. تَابَ (Form I, يَفْعُلُ family) and أَصْلَحَ (Form IV, أَفْعَلَ pattern from root ص-ل-ح) are standard per the Leeds Quranic Corpus. The "factitive-transitive" descriptor for Form IV is linguistically appropriate. No issue.
+- [INFO] The reflection's main translation "make amends" for وَأَصْلَحُوا۟ is consistent with al-Muyassar's *"وأصلحوا ما أفسدوه"* (repaired what they had corrupted). The word-by-word gloss says "reform[ed] themselves" — both readings fall within attested semantic range. No issue.
+- [INFO] The reflection describes 3:86–88 as containing a triple-layered closure (curse from all directions / abiding / no lightening / no respite). These are accurate paraphrases of standard translations of those verses, but the provided reference data covers only 3:89. I cannot verify from the supplied material alone, though nothing contradicts standard renderings. Flagging for completeness, not as an error.
+- [PASS] Arabic text in the reflection matches the authenticated Arabic exactly.
+- [PASS] The istithnāʾ grammatical analysis is sound: إِلَّا as an exceptive particle that confirms the rule while lifting out a subset is standard Arabic grammar. The observation that it is the first word of the verse is correct.
+- [PASS] "إِلَّا ٱلَّذِينَ — an open relative clause … describes a gate, not a guest list" is presented as homiletic/literary interpretation, not as a documented scholarly claim. No overclaiming.
+- [PASS] No scholar attributions appear in the visible 8,000 characters, so no inversion errors are possible.
+
+SUMMARY: The reflection is linguistically accurate, the morphological footnote claims are correct, the Arabic text is identical to the authenticated source, and all interpretive framing is clearly presented as reflection rather than documented scholarly fact — no errors found in the material provided.

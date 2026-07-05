@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/075-al-qiyamah/ayahs-031-033.md
+Ayah: 75:31
+Date: 2026-06-18T08:17:07
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَلَا=And not | صَدَّقَ=he accepted (the) truth | وَلَا=and not | صَلَّىٰ=he prayed.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "Al-Baghawi says: he did not affirm **the Qur'an**" — verified: ar.baghawi: *لم يصدق بالقرآن ولا صلى لله*. Exact match.
+- [PASS] "Qatada, as Al-Qurtubi reports him, says: he did not affirm **the Book of Allah**" — verified: ar.qurtubi: *وقال قتادة : فلا صدق بكتاب الله*. Exact match, attribution chain correct.
+- [PASS] "One reported view even says: he did not give in **charity**... storing it up with his Lord" — verified: ar.qurtubi: *وقيل : ولا صدق بمال له ، ذخرا له عند الله*. The gloss "storing it up with his Lord" directly renders *ذخرا له عند الله*. Accurate.
+- [PASS] "Al-Qurtubi preserves the sense of *daʿā li-rabbihi*" — verified: ar.qurtubi: *ولا صلى ودعا لربه*. The phrase is present in Qurtubi exactly as attributed.
+- [PASS] Root ṣ-d-q, Form II *ṣaddaqa*, "declarative/estimative" flavor — morphologically accurate. Form II from this root carries the *taṣdīq* sense (affirming something to be true) as distinct from Form I *ṣadaqa*. Standard Arabic grammar, correctly applied.
+- [PASS] Inner/outer pairing of *ṣaddaqa* (heart) and *ṣallā* (body) — well-grounded interpretive point; al-Jalalayn, Muyassar, and Baghawi all treat these as a pair covering belief and practice.
+- [MINOR NOTE] "Eleven words. Three short verses." — By standard orthographic count, 75:31–33 total 12 words (4+3+5). The claim of 11 is metadata-level and does not affect any scholarly argument in the reflection.
+- [UNVERIFIABLE FROM PROVIDED DATA] The general human type vs. Abu Jahl framing — the reflection takes the *al-Insān* reading throughout without naming Abu Jahl. This is legitimate: Qurtubi explicitly records both readings (*"وقيل يرجع هذا إلى الإنسان في أول السورة وهو اسم جنس"*). No error.
+
+SUMMARY: All named attributions are verified accurate against the provided tafsir data; the linguistic analysis of Form II *ṣaddaqa* is sound; the one-word discrepancy in the verse word count is a metadata slip with no bearing on the substance of the reflection.

@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/093-ad-duha/ayahs-006-008.md
+Ayah: 93:6
+Date: 2026-06-18T20:32:54
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَلَمْ=Did not | يَجِدْكَ=He find you | يَتِيمًا=an orphan | فَـَٔـاوَىٰ=and gave shelter?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+
+- [MODERATE] "Al-Qurṭubī and the Jalālayn both name it directly: *istifhām taqrīr*" — The Jalālayn is confirmed: «استفهام تقرير» appears verbatim. The provided Qurṭubī text does not use this technical term. It frames the verse as an enumeration of divine favors («عدد سبحانه مننه على نبيه») and glosses the meaning functionally, but the label *istifhām taqrīr* is absent from the Qurṭubī excerpt supplied. Attribution of the explicit term to Qurṭubī cannot be verified from the reference data.
+
+- [MODERATE] "The classical commentators are unanimous and explicit about this" — overstates the evidence. Of the four sources provided, only Jalālayn names the device explicitly. Qurṭubī and Baghawī describe the rhetorical *effect* without the technical label. Muyassar does not engage the device at all. "Unanimous" requires more than one named instance.
+
+- [NOTE — outside scope of provided data] The reflection covers 93:7–8 (*ḍāllan fa-hadā*, *ʿāʾilan fa-aghnā*) but the reference data supplied covers 93:6 only. Claims about those verses — including the translation of *ḍāll* as "wandering" — cannot be validated or invalidated here. The Muyassar gloss («لا تدري ما الكتاب ولا الإيمان») renders *ḍāll* as "unknowing of the Book and faith," which sits in some tension with "wandering" as a primary gloss, but that passage falls outside the submitted reference data and should be reviewed separately.
+
+SUMMARY: The reflection's core claim is substantively correct — Jalālayn explicitly confirms *istifhām taqrīr* for this verse — but attributing the explicit technical label to Qurṭubī and asserting commentator unanimity overstates what the supplied reference texts demonstrate.

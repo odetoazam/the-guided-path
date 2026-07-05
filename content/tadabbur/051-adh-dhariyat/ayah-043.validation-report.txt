@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/051-adh-dhariyat/ayah-043.md
+Ayah: 51:43
+Date: 2026-06-09T02:41:25
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَفِى=And in | ثَمُودَ=Thamud, | إِذْ=when | قِيلَ=was said | لَهُمْ=to them, | تَمَتَّعُواْ=`Enjoy (yourselves) | حَتَّىٰ=for | حِينٍ=a time.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "The active form would be **قَالَ** — *qāla*... it says **قِيلَ** — *qīla*. Same three letters, same root, q-w-l. But the internal vowel has shifted" — Accurate. The hollow-verb passive of qāla (where the medial wāw contracts) correctly yields qīla. The root, the vowel-shift mechanism, and the grammatical term fiʿl majhūl are all correct.
+- [PASS] "Enjoy yourselves in your homes for three days — that is a promise not to be belied" (attributed to 11:65) — Confirmed accurate. All four tafsir sources cross-reference this verse explicitly (Jalalayn: "كما في آية تمتعوا في داركم ثلاثة أيام"; Qurtubi: "كما في هود"; Baghawi: "تمتعوا ثلاثة أيام").
+- [PASS] "After the camel was slaughtered... 'it was said to them: enjoy yourselves'" — Confirmed by sequence in Jalalayn ("بعد عقر الناقة") and Baghawi ("لما عقروا الناقة").
+- [PASS] "Eight words" — Matches the word-by-word reference exactly (8 tokens).
+- [PASS] The interpretation of qīla's passive voice as signaling dialogue's end / withdrawn relationship is framed throughout as interpretive reading, not asserted as classical consensus. No scholar position is inverted or overstated.
+- [MINOR NOTE] Frontmatter arabic field omits the tajweed notation ۢ on حِينٍ (present in the authentic text as حِينٍۢ). This is a recitation diacritic only — not a text error, no doctrinal consequence.
+
+SUMMARY: The reflection's linguistic, historical, and tafsir-grounded claims are all accurate and properly sourced; interpretive moves are framed as interpretation throughout, with no overstatement of classical positions.

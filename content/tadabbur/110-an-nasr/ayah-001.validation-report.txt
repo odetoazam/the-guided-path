@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/110-an-nasr/ayah-001.md
+Ayah: 110:1
+Date: 2026-06-20T20:49:05
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِذَا=When | جَآءَ=comes | نَصْرُ=(the) Help | ٱللَّهِ=(of) Allah | وَٱلْفَتْحُ=and the Victory,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "Idhā is reserved, in the deep grammar of the language, for the appointed, the certain, the scheduled" — Classical Arabic grammar (Ibn Hishām, Mughnī al-Labīb) classifies idhā as used for conditions considered *probable or anticipated*, not *absolutely certain*. The distinction from إِنْ is real and the tafsir application is legitimate, but "scheduled" and "appointed" slightly overstate the strict grammatical position. The pedagogical framing is standard in Quranic education and not a fabrication, but it is an interpretive extension beyond what the grammar rule alone guarantees.
+
+- [NOTE — unverifiable from provided data] "al-māḍī al-muḥaqqaq al-wuqūʿ" — The concept is attested in Arabic balāghah tradition and the use of the perfect tense here is confirmed by all four tafsir sources (they all treat جَآءَ as referring to the future conquest). However, none of the provided excerpts offer balāghah commentary, so the exact Arabic formulation of this technical term cannot be cross-checked against the provided reference data. The concept is sound; the precise label is unverifiable here.
+
+- [CONFIRMED] "Sūrat An-Naṣr was the last complete sūrah to come down — Ibn ʿAbbās reported in a narration preserved by Muslim" — Confirmed directly by al-Qurṭubī: «وهي آخر سورة نزلت جميعا ؛ قاله ابن عباس في صحيح مسلم».
+
+- [CONFIRMED] "وتسمى سورة التوديع" — Confirmed by al-Qurṭubī.
+
+- [CONFIRMED] "the opening" / fatḥ = conquest of Mecca — Confirmed by al-Jalālayn, al-Muyassar, and al-Baghawī, all explicitly identifying it as فتح مكة.
+
+- [CONFIRMED] Arabic text in the reflection matches the authentic Arabic provided exactly.
+
+SUMMARY: The reflection is accurate and well-grounded in classical sources; the sole substantive flag is a slight overstatement of idhā's grammatical force from "probable/expected" to "certain/appointed" — a common pedagogical simplification that is defensible in tafsir context but exceeds what the grammar rule strictly guarantees.

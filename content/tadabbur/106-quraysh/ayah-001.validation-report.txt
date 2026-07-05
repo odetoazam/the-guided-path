@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/106-quraysh/ayah-001.md
+Ayah: 106:1
+Date: 2026-06-20T08:35:48
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: لِإِيلَـٰفِ=For (the) familiarity | قُرَيْشٍ=(of the) Quraish,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "For the bonding — the familiarity and the security — of Quraysh" — the word إيلاف (root ʾ-l-f) lexically means familiarity/habitual bonding. "Security" (أمن) is a *consequence* mentioned in al-Muyassar ("وأمنهم") not a component of the word's meaning. Presenting both as co-equal glosses of the single masdar is a mild interpretive extension, though it is not fabricated.
+- [PASS] "companions like Ubayy ibn Kaʿb — did not even put a break between the two" — confirmed directly by al-Qurṭubī: "وممن عد السورتين واحدة أبي بن كعب."
+- [PASS] Two-caravan claim (winter→Yemen, summer→Syria) — confirmed verbatim by al-Muyassar: "في الشتاء إلى 'اليمن'، وفي الصيف إلى 'الشام'."
+- [PASS] Connection-between-surahs reading ("I destroyed the elephant army *for* the bonding of Quraysh") — confirmed by al-Qurṭubī: "أهلكت أصحاب الفيل لإيلاف قريش."
+- [PASS] Lām al-taʿlīl analysis — grammatically sound; al-Qurṭubī's "لكي تأمن قريش فتؤلف رحلتيها" confirms purposive reading.
+- [PASS] Root identification (ʾ-l-f) and Form-IV masdar characterisation of إيلاف — lexically correct.
+- [NOTE] The lām al-taʿjub (wonder/amazement) interpretation — signalled by al-Muyassar's "اعْجَبوا" — is not mentioned. Omitting a valid alternative reading is an editorial choice, not an error.
+
+SUMMARY: No critical errors; one moderate translation gloss fuses إيلاف's lexical meaning with a contextual consequence (security) that classical sources list separately, but nothing in the reflection is factually inverted or fabricated.

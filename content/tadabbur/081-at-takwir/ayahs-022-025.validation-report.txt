@@ -1,0 +1,37 @@
+Enhanced Validation Report
+File: content/tadabbur/081-at-takwir/ayahs-022-025.md
+Ayah: 81:22
+Date: 2026-06-18T15:05:04
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَمَا=And not | صَاحِبُكُم=(is) your companion | بِمَجْنُونٍ=mad.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR NOTE] "one of great standing near the Throne" — 81:20 reads *ذِى قُوَّةٍ عِندَ ذِى ٱلْعَرْشِ مَكِينٍ* ("one of great power with the Owner of the Throne"). The reflection renders *ʿinda dhī al-ʿarsh* as "near the Throne" rather than "with the Possessor of the Throne." The distinction is slight and not a substantive error — no flag warranted, but worth awareness.
+- [INTERPRETIVE EXTENSION — ACCEPTABLE] "Madness is, at its core, estrangement" — this is the author's philosophical inference from the *ṣāḥib/majnūn* contrast, not a claim attributed to classical scholars. It is presented as insight, not documented fact. No flag warranted.
+
+No root errors. No inverted attributions. No Arabic text errors.
+
+Specific checks:
+- **Root ṣ-ḥ-b** correctly identified; *ṣuḥba* as implying duration is lexically standard (Lisān al-ʿArab).
+- **Word-by-word** matches reference exactly: *ṣāḥibukum* = "your companion," *bimajnūn* = "mad." ✓
+- **Tafsir framing** — that Quraysh accused the Prophet ﷺ of madness and the verse is part of the oath-section's answer — confirmed by Baghawi (*"ذلك أنهم قالوا إنه مجنون"*) and Qurtubi. ✓
+- **Surah structure** — cosmic unraveling (1–14), oath (15–18), Jibril as noble messenger (19–21), defense of the human recipient (22–25) — accurately presented. ✓
+- **al-Amīn** as pre-prophetic title is historically well-attested. ✓
+- **81:21** ("obeyed and faithful") matches *mūṭāʿ* and *amīn* correctly. ✓
+
+SUMMARY: The reflection is linguistically precise, structurally accurate against the surah, and consistent with all four classical sources; no factual or attributive errors are present in the validated portion.

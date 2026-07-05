@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayah-045.md
+Ayah: 3:45
+Date: 2026-06-21T04:02:08
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِذْ=When | قَالَتِ=said | ٱلْمَلَـٰٓئِكَةُ=the Angels, | يَـٰمَرْيَمُ=`O Maryam! | إِنَّ=Indeed, | ٱللَّهَ=Allah | يُبَشِّرُكِ=gives you glad tidings | بِكَلِمَةٍ=of a word | مِّنْهُ=from Him, | ٱسْمُهُ=his name | ٱلْمَسِيحُ=(is) the Messiah, | عِيسَى=Isa, | ٱبْنُ=son | مَرْيَمَ=(of) Maryam, | وَجِيهًا=honored | فِى=in | ٱلدُّنْيَا=the world | وَٱلْأَخِرَةِ=and (in) the Hereafter, | وَمِنَ=and of | ٱلْمُقَرَّبِينَ=those brought near (to Allah).
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "Al-Qurṭubī and others note that here kalimah carries the sense of walad — a child" — The provided Qurṭubī excerpt is truncated mid-sentence ("ولم يقل اسمها لأن معن...") and discusses the masculine pronoun shift, not the walad gloss. The walad gloss is confirmed by al-Jalālayn ("بكلمة منه أي ولد") but cannot be attributed to Qurṭubī specifically from the reference data provided. The claim should either name only al-Jalālayn or note that Qurṭubī's text was not available to confirm.
+
+CONFIRMED ACCURATE (against reference data):
+- al-Jalālayn identifying the angels as Jibrīl: confirmed ("أي جبريل")
+- al-Muyassar's framing that the Prophet was not present: confirmed ("وما كنت - يا نبي الله - هناك حين قالت الملائكة")
+- The grammar shift from kalimah (grammatically feminine) to "ismuhu" (masculine pronoun referring to ʿIsa): confirmed by al-Baghawī ("إنما قال: اسمه رد الكناية إلى عيسى")
+- Root ك-ل-م for kalimah: correct
+- wajīh as "honored / of prestige": confirmed by al-Jalālayn ("ذا جاه")
+- The theological reading of min (from) as origin-not-substance: consistent with classical tafsir's handling of this ayah
+- Arabic text in the reflection matches the authentic Arabic exactly
+
+SUMMARY: A rigorous, well-sourced reflection with one unverifiable scholar attribution; the underlying claim (kalimah = walad) is confirmed by al-Jalālayn — only the specific Qurṭubī attribution cannot be verified from the truncated excerpt provided.

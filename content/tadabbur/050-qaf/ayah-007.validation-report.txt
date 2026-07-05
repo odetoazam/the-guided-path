@@ -1,0 +1,39 @@
+Enhanced Validation Report
+File: content/tadabbur/050-qaf/ayah-007.md
+Ayah: 50:7
+Date: 2026-06-08T23:15:55
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَٱلْأَرْضَ=And the earth, | مَدَدْنَـٰهَا=We have spread it out | وَأَلْقَيْنَا=and cast | فِيهَا=therein | رَوَٲسِىَ=firmly set mountains | وَأَنۢبَتْنَا=and We made to grow | فِيهَا=therein | مِن=of | كُلِّ=every | زَوْجِۭ=kind | بَهِيجٍ=beautiful,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate issues identified in the reviewed portion.
+
+Supporting notes on specific claims verified against the reference data:
+
+- **Al-Baghawi citation** — "بَسَطْنَاهَا عَلَى وَجْهِ الْمَاء" quoted accurately. Reference confirms: «بسطناها على وجه الماء».
+- **Al-Muyassar citation** — "وَسَّعْنَاهَا وَفَرَشْنَاهَا" quoted accurately. Reference confirms: «وسَّعْناها وفرشناها».
+- **Root م-د-د** — correctly identified; spreading/extension meaning confirmed across all four tafsir sources.
+- **Root ل-ق-ي, Form IV ألقى** — "to throw/cast with force" is lexically attested. 12:10 parallel (فَأَلْقُوهُ) is correct.
+- **رَوَاسِي as "firmly-set mountains"** — confirmed as جبالا ثوابت in al-Baghawi, al-Jalalayn, and al-Muyassar.
+- **زَوْج as "kind/type"** — confirmed: al-Jalalayn glosses it صنف; word-by-word reference: "kind."
+- **بَهِيج as beauty that gladdens** — confirmed: al-Baghawi يبهج به أي يسر; al-Muyassar يَسُرُّ ويبهج الناظر إليه.
+- **Grammatical fronting (تقديم) claim** — valid classical Arabic rhetorical analysis; not contradicted by any reference source.
+
+**Caveat:** The reflection is truncated at ~8,000 characters mid-sentence ("Allah chose this verb — not وَضَعْنَا... or جَ"). The remaining content — including the full treatment of بَهِيجٍ, the resurrection argument synthesis, and any scholar attributions in later sections — could not be evaluated. This verdict covers only what was provided.
+
+SUMMARY: All verifiable linguistic and tafsir claims in the reviewed portion are accurate and grounded in the supplied classical sources; the truncated text prevents a full-document verdict.

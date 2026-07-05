@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/060-al-mumtahanah/ayah-007.md
+Ayah: 60:7
+Date: 2026-06-12T21:02:06
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ۞ عَسَى=Perhaps | ٱللَّهُ=Allah | أَن=[that] | يَجْعَلَ=will put | بَيْنَكُمْ=between you | وَبَيْنَ=and between | ٱلَّذِينَ=those (to) whom | عَادَيْتُم=you have been enemies, | مِّنْهُم=among them | مَّوَدَّةً‌ۚ=love. | وَٱللَّهُ=And Allah | قَدِيرٌ‌ۚ=(is) All-Powerful. | وَٱللَّهُ=And Allah | غَفُورٌ=(is) Oft-Forgiving, | رَّحِيمٌ=Most Merciful.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "The mufassirūn and the scholars of the Arabic language answered with something beautiful. They said: when `عَسَىٰ` issues from Allah, it does not mean 'maybe.' It means 'it shall be.'" — The provided tafsir excerpts *imply* this through their past-tense treatment ("وقد فعله بعد فتح مكة" / "ففعل الله ذلك") but none of the four sources explicitly articulate the grammatical principle that `عَسَى` from Allah connotes certainty. The claim is a well-attested classical position (Zamakhshari, Ibn Kathir, grammarians of the nahw tradition), but the supplied reference data does not directly support the stated principle — only the fulfilled outcome. The reflection should not present this as if derivable from the four cited tafsirs alone.
+
+VERIFIED ACCURATE:
+- al-Baghawi quote "شدة وجد المؤمنين" — exact phrase confirmed: "ويعلم الله شدة وجد المؤمنين بذلك"
+- al-Jalalayn fulfillment citation "wa-qad faʿalahu baʿda fatḥi Makkah" — confirmed: "وقد فعله بعد فتح مكة"
+- al-Baghawi "fa-faʿala Allāhu dhālik" — confirmed: "ففعل الله ذلك"
+- Translation accurate against word-by-word reference
+- Form III (عَادَيْتُم from عَادَى, فَاعَلَ pattern) reciprocal-action analysis is linguistically correct
+- Conquest of Mecca as historical fulfillment confirmed across all four tafsirs
+- Surah context (post-Hijra, pre-Conquest, families divided) is historically accurate
+
+SUMMARY: The reflection is well-grounded and all scholar attributions are verified; the one moderate flag is that the `عَسَى`-as-certainty grammatical principle is presented as derivable from the provided tafsirs when those sources only demonstrate it through fulfilled-outcome framing, not explicit articulation — a citation from Zamakhshari or Ibn Kathir would close this gap.

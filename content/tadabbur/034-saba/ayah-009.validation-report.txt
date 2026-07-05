@@ -1,0 +1,30 @@
+Enhanced Validation Report
+File: content/tadabbur/034-saba/ayah-009.md
+Ayah: 34:9
+Date: 2026-05-16T22:14:08
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَفَلَمْ=Then, do not | يَرَوْاْ=they see | إِلَىٰ=towards | مَا=what | بَيْنَ أَيْدِيهِمْ=(is) before them | وَمَا=and what | خَلْفَهُم=(is) behind them | مِّنَ=of | ٱلسَّمَآءِ=the heaven | وَٱلْأَرْضِۚ=and the earth? | إِن=If | نَّشَأْ=We will | نَخْسِفْ بِهِمُ=We (could) cause to swallow them | ٱلْأَرْضَ=the earth | أَوْ=or | نُسْقِطْ=cause to fall | عَلَيْهِمْ=upon them | كِسَفًا=fragments | مِّنَ=from | ٱلسَّمَآءِۚ=the sky. | إِنَّ=Indeed, | فِى=in | ذَٲلِكَ=that | لَأَيَةً=surely, is a Sign | لِّكُلِّ=for every | عَبْدٍ=slave | مُّنِيبٍ=who turns (to Allah).
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "The surah itself is one of the seven that begin with *al-ḥamdu lillāh*" — The classical count of surahs opening with *al-ḥamdu lillāh* is five, not seven: Al-Fatiha (1), Al-An'am (6), Al-Kahf (18), Saba (34), Fatir (35). The grouping of seven is associated with the *musabbiḥāt* (surahs opening with *tasbīḥ*), not with *ḥamd*. This claim cannot be verified from the provided reference stack and contradicts the standard classical enumeration.
+
+- [MODERATE — UNVERIFIABLE] The attribution to Jalālayn that begins "Imām al-Jalālayn explains *mā bayna aydīhim*..." is cut off at the 8000-character limit and cannot be evaluated. Flag for review: Jalālayn's actual gloss on *mā bayna aydīhim wa mā khalfahum* is **"mā fawqahum wa mā taḥtahum"** (what is above them and what is below them) — a vertical reinterpretation, not a horizontal before/behind reading. If the reflection claims Jalālayn supports the spatial idiom as presented, that would require careful wording; Jalālayn reorients the phrase toward the sky/earth axis specifically. The reflection's own linguistic explanation of the idiom is correct per the word-by-word data, but citing Jalālayn as endorsing that framing needs precision.
+
+No issues with: Arabic text (matches authentic), word roots, verb forms, *khasf/kisaf* definitions, Meccan period attribution, or thematic grounding in the four tafsir sources.
+
+SUMMARY: One probable factual error (seven vs. five *ḥamd* surahs) and one cut-off Jalālayn attribution that needs verification before publication; no critical linguistic or morphological errors detected in the visible content.

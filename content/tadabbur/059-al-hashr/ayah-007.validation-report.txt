@@ -1,0 +1,40 @@
+Enhanced Validation Report
+File: content/tadabbur/059-al-hashr/ayah-007.md
+Ayah: 59:7
+Date: 2026-06-12T19:34:33
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: مَّآ=What | أَفَآءَ ٱللَّهُ=Allah restored | عَلَىٰ=to | رَسُولِهِۦ=His Messenger | مِنْ=from | أَهْلِ=(the) people | ٱلْقُرَىٰ=(of) the towns, | فَلِلَّهِ=(it is) for Allah | وَلِلرَّسُولِ=and His Messenger | وَلِذِى ٱلْقُرْبَىٰ=and for the kindred | وَٱلْيَتَـٰمَىٰ=and the orphans | وَٱلْمَسَـٰكِينِ=and the needy | وَٱبْنِ ٱلسَّبِيلِ=and the wayfarer, | كَىْ=that | لَا=not | يَكُونَ=it becomes | دُولَةَۢ=a (perpetual) circulation | بَيْنَ=between | ٱلْأَغْنِيَآءِ=the rich | مِنكُمْ‌ۚ=among you. | وَمَآ=And whatever | ءَاتَـٰكُمُ=gives you | ٱلرَّسُولُ=the Messenger, | فَخُذُوهُ=take it | وَمَا=and whatever | نَهَـٰكُمْ=he forbids you | عَنْهُ=from it, | فَٱنتَهُواْ‌ۚ=refrain. | وَٱتَّقُواْ=And fear | ٱللَّهَ‌ۖ=Allah. | إِنَّ=Indeed, | ٱللَّهَ=Allah | شَدِيدُ=(is) severe | ٱلْعِقَابِ=(in) penalty.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate errors found in the content reviewed (first 8000 characters).
+
+Specific claims checked:
+
+**Morphology of أَفَآءَ**: The Form IV (af'ala) analysis is correct — Form I فَاءَ means "to return," and Form IV أَفَاءَ is correctly identified as the causative/transitive, meaning "He caused to return / He restored." Accurate.
+
+**ẓill vs. fayʾ distinction**: The claim that fayʾ denotes specifically the post-meridian returning shadow (as opposed to ẓill as morning/generic shade) is a genuine classical lexicographic distinction, attested in both Lisān al-ʿArab and al-Rāghib al-Iṣfahānī's Mufradāt. The directional description (morning shadow stretches west, afternoon shadow returns east) is physically correct. Not overreached.
+
+**Historical framing**: The identification of Banu al-Nadir as a covenant-breaking tribe whose wealth came without battle aligns with al-Qurṭubī, al-Baghawī, and al-Jalālayn, all of which explicitly name al-Naḍīr (and others: Qurayẓah, Fadak, Khaybar) in their commentary on this verse.
+
+**59:6 cross-reference**: "not by spurring horse or camel" is an accurate gloss of 59:6. Correctly cited.
+
+**Beneficiary enumeration**: All six categories (Allah, Messenger, kin, orphans, needy, wayfarer) are correctly identified and match the word-by-word reference and all four tafsir sources.
+
+**Translation of دُولَة**: Rendered "a thing circulated only among the rich" — consistent with the word-by-word gloss "a (perpetual) circulation" and the classical understanding of the verse's egalitarian intent.
+
+SUMMARY: The first 8000 characters contain no factual, morphological, or attribution errors; linguistic claims are grounded in attested classical lexicography and the historical framing is consistent with all four tafsir sources provided.

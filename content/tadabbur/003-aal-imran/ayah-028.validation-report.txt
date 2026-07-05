@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayah-028.md
+Ayah: 3:28
+Date: 2026-06-21T04:42:35
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: لَّا=(Let) not | يَتَّخِذِ=take | ٱلْمُؤْمِنُونَ=the believers, | ٱلْكَـٰفِرِينَ=the disbelievers | أَوْلِيَآءَ=(as) allies | مِن دُونِ=instead of | ٱلْمُؤْمِنِينَ‌ۖ=the believers. | وَمَن=And whoever | يَفْعَلْ=does | ذَٲلِكَ=that, | فَلَيْسَ=then not he (has) | مِنَ=from | ٱللَّهِ=Allah | فِى=[in] | شَىْءٍ=anything | إِلَّآ=except | أَن=that | تَتَّقُواْ=you fear | مِنْهُمْ=from them, | تُقَـٰةً‌ۗ=(as) a precaution. | وَيُحَذِّرُكُمُ ٱللَّهُ=And Allah warns you | نَفْسَهُۥ‌ۗ=(of) Himself, | وَإِلَى=and to | ٱللَّهِ=Allah | ٱلْمَصِيرُ=(is) the destination.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [UNVERIFIABLE] "Al-Baghawī also records the view of Muqātil that it was revealed concerning Ḥāṭib ibn Abī Baltaʿa and others" — The provided Baghawī excerpt is truncated immediately after the Ibn ʿAbbās/Rifāʿa account and does not include a Muqātil tradition. This may exist in the full text, but cannot be confirmed from the reference data supplied. The Ḥāṭib connection is classically associated with Sūrat al-Mumtaḥina (60:1), not 3:28, which makes this worth flagging for source verification before publication.
+
+All other verifiable claims pass:
+
+- **Form VIII for *yattakhidh***: Accurate. Root أ-خ-ذ, Form VIII (iftaʿala) with hamza-assimilation producing اتَّخَذَ — standard morphology confirmed by the morphology header's own notation.
+- **Root و-ل-ي meaning "nearness"**: Attested in classical lexicography (Mufradāt al-Rāghib, cited in the morphology note).
+- **Baghawī/Ibn ʿAbbās account (Ḥajjāj ibn ʿAmr, Rifāʿa ibn al-Mundhir)**: Accurately rendered — the Baghawī text confirms exactly these names and the seduction-from-dīn framing.
+- **"al-Qurṭubī, citing Ibn ʿAbbās, frames the forbidden thing as *mulāṭafa* that crosses into *wilāya*"**: Directly confirmed — Qurṭubī text reads "نهى الله المؤمنين أن يلاطفوا الكفار فيتخذوهم أولياء," with يلاطفوا as the verbal form of mulāṭafa and فيتخذوهم أولياء as the wilāya threshold.
+- **Distinction between *birr* (60:8) and *ittikhādh***: Theologically sound and consistent with the Jalālayn's gloss "يوالونهم" framing the prohibition as alliance, not ordinary interaction.
+- **Arabic text in frontmatter**: Matches the authenticated Arabic; the only difference is a minor tanwīn diacritic variant (تُقَىٰةًۭ vs تُقَىٰةً), not a textual error.
+
+SUMMARY: The reflection is morphologically and historically accurate against the provided reference data; the single Muqātil/Ḥāṭib attribution cannot be verified from the truncated Baghawī excerpt and should be sourced before publication.

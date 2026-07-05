@@ -1,0 +1,15 @@
+VERDICT: CRITICAL
+
+ISSUES:
+
+1. **CRITICAL — "Surah Adh-Dhariyat opens with four consecutive oaths — all sworn by winds. The scattering winds. The burden-bearing winds. The gliding winds. The distributing winds."** This contradicts the dominant classical tafsir. The canonical interpretation (famously narrated from ʿAli ibn Abi Talib, reported in Ibn Kathir and al-Tabari) assigns four *different* referents:
+   - وَالذَّارِيَاتِ ذَرْوًا = the winds (الرياح)
+   - فَالْحَامِلَاتِ وِقْرًا = the clouds carrying rain (السحاب)
+   - فَالْجَارِيَاتِ يُسْرًا = the ships gliding on water (الفلك/السفن)
+   - فَالْمُقَسِّمَاتِ أَمْرًا = the angels distributing affairs (الملائكة)
+   
+   Presenting all four oaths as "winds" is a factual error contradicting classical tafsir, and it is stated as established fact in the framing. This must be corrected before publication.
+
+2. **MODERATE — "The scholars of balāghah describe this as indefiniteness used for magnitude... by not naming the flood, Allah makes it unnameable."** The tanwīn lil-taʿẓīm reading is a legitimate balāghah possibility, but it is interpretive and attributed to an unnamed collective ("the scholars of balāghah") as if settled. The classical tafsir gloss (al-Jalalayn: جهل يغمرهم; al-Baghawi: غفلة وعمى وجهالة) treats ghamrah as ignorance/heedlessness without grounding the indefiniteness in deliberate magnification. Soften to interpretive framing or attribute specifically.
+
+Notes on what checked out: root غ-م-ر and the 6:93 غمرات الموت parallel are correct; root س-ه-و and the اسم الفاعل / nominal-sentence-as-permanence analysis are sound; the al-Jalalayn and al-Baghawi attributions match the tafsir report and classical lexical usage; ذهاب القلب as the gloss for sahw is classical. The single blocking error is #1.

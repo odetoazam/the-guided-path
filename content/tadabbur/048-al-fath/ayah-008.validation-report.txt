@@ -1,0 +1,48 @@
+Enhanced Validation Report
+File: content/tadabbur/048-al-fath/ayah-008.md
+Ayah: 48:8
+Date: 2026-06-08T14:44:13
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّآ=Indeed, We | أَرْسَلْنَـٰكَ=[We] have sent you | شَـٰهِدًا=(as) a witness | وَمُبَشِّرًا=and (as) a bearer of glad tidings | وَنَذِيرًا=and (as) a warner,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No errors found in the visible portion of the reflection.
+
+Detailed checks performed:
+
+**Arabic text**: إِنَّآ أَرْسَلْنَٰكَ شَٰهِدًۭا وَمُبَشِّرًۭا وَنَذِيرًۭا matches the authenticated Arabic exactly.
+
+**Translation**: "Indeed, We have sent you as a witness, and a bearer of glad tidings, and a warner" matches the word-by-word reference without embellishment.
+
+**Root r-s-l**: Correctly identified. The sense of "dispatched with purpose" is lexically grounded (Lisān al-ʿArab confirms the root's core of purposive sending).
+
+**Form IV arsala claim**: "this verb is in what grammarians call Form IV — the shape afʿala (أَفْعَلَ)" — correct. أَرْسَلَ is the Form IV (Ifʿāl) of r-s-l. The claim that Form IV encodes a commissioning/transitive dispatch is standard Arabic morphology and uncontroversial.
+
+**shāhid on fāʿil pattern**: Correct. شَاهِد is the Form I active participle, fāʿil pattern — the simplest active participant shape. Consistent with Qurtubi's multiple definitions of witnessing (conveyance, observation, eschatological testimony).
+
+**ḥāl (circumstantial accusative) claim**: "all three sit in the same grammatical case — the accusative, what grammarians call the ḥāl" — syntactically accurate. shāhidan, mubashshiran, and nadhīran are all accusative ḥāl complements to arsalnāka.
+
+**"three different morphological patterns" claim**: Correct and notable — shāhid (fāʿil, Form I participle), mubashshir (mufaʿʿil, Form II participle), nadhīr (faʿīl, intensive/attributive form). The frontmatter note flagging this is accurate.
+
+**Hudaybiyyah historical narrative**: Terms of the treaty (return clause, one-year deferral, removal of "Messenger of Allah" from the document), Umar's question to the Prophet ﷺ, and the companion distress are all documented in Ṣaḥīḥ al-Bukhārī (kitāb al-shurūṭ, no. 2731–2732) and Ṣaḥīḥ Muslim. The "fourteen hundred" figure is within the historically cited range (1,400–1,500).
+
+**No tafsir claims are overstated**: The reflection does not attribute specific eschatological or conveyance-witnessing definitions to named scholars — it stays at the framing level, consistent with the multi-opinion range in Qurtubi.
+
+**Partial validation notice**: The reflection is truncated mid-sentence at the shāhid morphological discussion ("A shāhid is, at root, *on—"). The remainder of Part 1 and all of Parts 2–3 (mubashshir and nadhīr analysis, theological synthesis) could not be validated from the provided excerpt.
+
+SUMMARY: All checkable claims in the first 8,000 characters — Arabic text, morphology, grammatical analysis, historical narrative, and theological framing — are accurate and consistent with the provided tafsir sources; validation of the mubashshir and nadhīr sections awaits the full text.

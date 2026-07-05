@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/050-qaf/ayah-026.md
+Ayah: 50:26
+Date: 2026-06-08T22:02:47
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ٱلَّذِى=Who | جَعَلَ=made | مَعَ=with | ٱللَّهِ=Allah | إِلَـٰهًا=a god | ءَاخَرَ=another; | فَأَلْقِيَاهُ=so throw him | فِى=in(to) | ٱلْعَذَابِ=the punishment | ٱلشَّدِيدِ=the severe.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "The people in this verse are not atheists" — Stated as if self-evident, but is an interpretive inference rather than a textual claim. It is defensible: مَعَ structurally implies Allah's existence is acknowledged while another is added alongside. Al-Muyassar confirms: "الذي أشرك بالله، فعبد معه معبودًا آخر مِن خلقه" — worshipped *alongside* Him, not instead. The framing holds but should be flagged as interpretation, not derivation.
+
+- [PASS] Root analysis: لقي = "to meet/encounter" (Form I), alqā (Form IV) = "to cast/throw" — lexically attested. The theological reading that the root encodes *forced encounter* is a valid extended observation, not an error.
+
+- [PASS] Dual command identification: The reflection identifies the two as the sāʾiq and shahīd from verse 21 as the dominant reading, then notes the minority grammatical-idiom view honestly. Al-Muyassar explicitly confirms: "يقول الله للمَلَكين السائق والشهيد." The reflection handles this with appropriate epistemic honesty.
+
+- [PASS] Arabic text matches the authenticated reference exactly. Word-by-word glosses used are accurate.
+
+- [PASS] All Quranic cross-references cited (50:16, 50:18, 50:21, 50:24) are internally consistent with the Surah Qaf judgment scene.
+
+SUMMARY: The reflection is linguistically rigorous and theologically sound; the sole MODERATE note is a correct interpretive inference (shirk ≠ atheism) stated with slightly more certainty than the verse alone warrants, though fully supported by the tafsir.

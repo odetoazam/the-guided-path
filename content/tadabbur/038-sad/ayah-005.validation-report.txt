@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/038-sad/ayah-005.md
+Ayah: 38:5
+Date: 2026-06-06T00:34:14
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَجَعَلَ=Has he made | ٱلْأَلِهَةَ=the gods | إِلَـٰهًا وَٲحِدًا‌ۖ=(into) one god? | إِنَّ=Indeed | هَـٰذَا=this | لَشَىْءٌ=(is) certainly a thing | عُجَابٌ=curious.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR] "al-Walīd ibn al-Mughīra at their head" — Baghawi says *akbaruhum sinnan* (أكبرهم سنا), meaning "the eldest among them in age," not explicitly "at their head" in a leadership designation. The reflection's phrasing is a reasonable contextual inference (the eldest organized the delegation), but the source says *eldest by age*, not *leader by title*. Not a factual inversion, but a slight expansion beyond the Arabic.
+
+All other claims check out against the provided references:
+
+- **Arabic text**: matches the authentic except negligible tanwīn rendering on عُجَابٌ — same word.
+- **Translation "most astounding thing"**: defensible. Al-Qurtubi explicitly cites al-Khalīl's distinction — *ʿajīb* is ordinary wonder; *ʿujāb* "has gone beyond the limit of wonder" (قد تجاوز حد العجب). "Most astounding" is more accurate than the word-by-word gloss "curious."
+- **ʿUmar's conversion as the trigger**: accurately attributed to al-Baghawi, who opens his commentary on this verse with that narration (وذلك أن عمر بن الخطاب رضي الله عنه أسلم).
+- **Twenty-five chiefs, Abu Talib delegation**: exact figure (خمسة وعشرين رجلا) and destination (أبا طالب) confirmed verbatim in Baghawi.
+- ***Istifhām inkārī***: contextually supported across all four tafsirs — the tone of Jalalayn (كيف يسع الخلق), Muyassar (تعجب + denial), and Qurtubi all treat the hamza as a rhetorical rejection, not genuine inquiry.
+- ***Jaʿala* with two objects**: al-Qurtubi explicitly confirms — "مفعولان أي: صير الآلهة إلها واحدا" — matching the reflection's linguistic analysis precisely.
+- **38:4 cross-reference** (*wa ʿajibū an jāʾahum mundhirun minhum*): accurate; Muyassar confirms the structural link between verse 4's astonishment at the messenger and verse 5's astonishment at tawḥīd.
+
+SUMMARY: The reflection is accurate and well-sourced; the only note is a minor contextual inference about al-Walīd's role that goes one step beyond Baghawi's literal wording (age → leadership) without misrepresenting it.

@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/037-as-saffat/ayahs-161-163.md
+Ayah: 37:161
+Date: 2026-06-05T23:08:22
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَإِنَّكُمْ=So indeed, you | وَمَا=and what | تَعْبُدُونَ=you worship,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR/NOTE] The reflection says "Eleven words. One sentence" and the frontmatter has `word_count: 11`. Counting the Arabic: فَإِنَّكُمْ وَمَا تَعْبُدُونَ (3) + مَآ أَنتُمْ عَلَيْهِ بِفَٰتِنِينَ (4) + إِلَّا مَنْ هُوَ صَالِ ٱلْجَحِيمِ (5) = 12 tokens by standard word-boundary counting, though 11 is defensible if صَالِ ٱلْجَحِيمِ is read as a single iḍāfah unit. Not a factual error — classical word counts vary by analytic tradition. No action required.
+
+**All other claims verified clean:**
+
+- *mā al-ḥijāziyyah* + *bā' al-zā'idah* analysis is textbook classical Arabic grammar; the "bolting" metaphor is a pedagogically accurate description of the rhetorical intensification, not an overreach.
+- The combined address "you and what you worship" is directly supported: Baghawi confirms the address is to the people of Makkah (*lā ahl Makka*), and Muyassar groups worshippers and their idols together (*fa-innakum... wa mā taʿbudūn min dūn Allāh*).
+- The claim that Allah denies seductive *power over hearts* rather than mere ontological existence of the idols is within the scope of Muyassar: *mā antum bi-muḍillīn aḥadan illā man qaddara Allāh ʿalayhi*.
+- Root f-t-n (fitnah ← testing gold in fire) is lexically attested in Lisān al-ʿArab and Mufradāt al-Rāghib, as the morphology note in the file correctly documents.
+- Related ayahs cited (14:22, 15:42, 16:99, 37:40, 37:160, 17:65) are topically appropriate cross-references for limits of Shayṭān/false-god seduction.
+
+The reflection is cut off mid-sentence at the fatana root discussion, so the second half of Part 1 and all subsequent parts were not available for review. Validate the remaining content when complete.
+
+SUMMARY: The visible portion of this tadabbur is linguistically precise, grammatically well-grounded, and consistent with the provided tafsir sources — no errors detected in the content reviewed.

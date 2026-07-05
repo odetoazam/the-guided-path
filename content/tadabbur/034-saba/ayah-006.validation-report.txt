@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/034-saba/ayah-006.md
+Ayah: 34:6
+Date: 2026-05-18T01:51:56
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَيَرَى=And see | ٱلَّذِينَ=those who | أُوتُواْ=have been given | ٱلْعِلْمَ=the knowledge, | ٱلَّذِىٓ=(that) what | أُنزِلَ=is revealed | إِلَيْكَ=to you | مِن=from | رَّبِّكَ=your Lord | هُوَ=[it] | ٱلْحَقَّ=(is) the Truth, | وَيَهْدِىٓ=and it guides | إِلَىٰ=to | صِرَٲطِ=(the) Path | ٱلْعَزِيزِ=(of) the All-Mighty, | ٱلْحَمِيدِ=the Praiseworthy.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Al-Qurtubi states this directly in his commentary on this ayah: *wa al-ruʾyatu bi-maʿnā al-ʿilm*" — The provided Qurtubi excerpt does not contain this phrase. Qurtubi's excerpt focuses entirely on the identity of *alladhīna ūtū al-ʿilm* (Mujahid: believers from Ahl al-Kitab; Ibn Abbas: Companions; "وقيل جميع..." then the text is cut). The specific Arabic phrase quoted — *al-ruʾyatu bi-maʿnā al-ʿilm* — does not appear in the reference data for Qurtubi. The underlying claim *is* confirmed by al-Jalalayn, which explicitly glosses «وَيَرَى» as يعلم ("he knows"), making the same point. The fix is to re-attribute to al-Jalalayn, which unambiguously supports it, rather than Qurtubi with a verbatim quote that cannot be verified here.
+
+All other verifiable claims check out:
+- Arabic text matches authentic Arabic exactly
+- Translation is accurate to the word-by-word reference
+- يرى vs يعلم distinction is linguistically valid and confirmed by al-Jalalayn's gloss
+- هو as ضمير الفصل (damir al-fasl) is confirmed — al-Jalalayn explicitly flags «هو» فصل
+- صراط العزيز الحميد vs the expected صراط مستقيم is an accurate textual observation
+- Imperfect tense (mudāriʿ) of يَرَى is correctly identified
+- ruʾyah baṣariyyah / ruʾyah qalbiyyah is standard classical lexical analysis, consistent with the Jalalayn gloss
+
+SUMMARY: One Qurtubi quote is stated with verbatim attribution but cannot be confirmed from the provided reference data — move the attribution to al-Jalalayn, which explicitly supports the same point, and the reflection is clean.

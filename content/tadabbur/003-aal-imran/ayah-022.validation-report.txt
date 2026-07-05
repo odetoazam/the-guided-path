@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayah-022.md
+Ayah: 3:22
+Date: 2026-06-22T07:27:00
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أُوْلَـٰٓئِكَ=Those | ٱلَّذِينَ=(are) the ones who - | حَبِطَتْ=became worthless | أَعْمَـٰلُهُمْ=their deeds | فِى=in | ٱلدُّنْيَا=the world | وَٱلْأَخِرَةِ=and (in) the Hereafter. | وَمَا=And not | لَهُم=(will be) for them | مِّن=any | نَّـٰصِرِينَ=helpers.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "the animal dies — not from starvation, but from a deadly kind of feeding. It dies full." — The reflection attributes this fatal outcome to the ḥabaṭ etymology drawn from al-Qurṭubī, but the provided Qurṭubī excerpt only states `فتنتفخ أجوافها` — "their insides swell up." Death is not explicitly stated in the excerpt. The reflection presents the death framing as if it flows directly from al-Qurṭubī's description. The fatal nature of ḥabaṭ disease is accurate per classical veterinary understanding, but this specific death outcome is not verifiable from the provided reference text and should be attributed to the general lexical tradition (Lisān al-ʿArab) rather than implied by al-Qurṭubī's wording alone.
+
+All other scholarly claims clear:
+- حَبِطَتْ = بطلت confirmed by all four sources (Jalālayn, Muyassar, Qurṭubī, Baghawī) ✓
+- Al-Qurṭubī's ḥabaṭ etymology (فساد يلحق المواشي في بطونها من كثرة أكلها الكلأ) accurately paraphrased ✓
+- Al-Jalālayn's examples `كصدقة وصلة رحم` accurately cited ✓
+- Al-Jalālayn's reason `لعدم شرطها` accurately rendered as *li-ʿadami sharṭihā* ✓
+- Arabic text matches authentic source within normal encoding variation ✓
+
+SUMMARY: One moderate extension — the reflection frames the animal's death as flowing from al-Qurṭubī when the excerpt only describes swelling; all other tafsir attributions and linguistic claims are accurate and well-sourced.

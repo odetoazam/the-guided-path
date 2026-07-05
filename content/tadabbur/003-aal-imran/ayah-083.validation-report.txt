@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayah-083.md
+Ayah: 3:83
+Date: 2026-06-21T11:00:43
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَفَغَيْرَ=So is (it) other than | دِينِ=(the) religion | ٱللَّهِ=(of) Allah | يَبْغُونَ=they seek? | وَلَهُۥٓ=While to Him | أَسْلَمَ=(have) submitted | مَن=whatever | فِى=(is) in | ٱلسَّمَـٰوَٲتِ=the heavens | وَٱلْأَرْضِ=and the earth, | طَوْعًا=willingly | وَكَرْهًا=or unwillingly, | وَإِلَيْهِ=and towards Him | يُرْجَعُونَ=they will be returned.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No errors identified in the portion provided.
+
+Supporting confirmations (not issues — noting what was verified):
+
+- **"Al-Jalālayn states it plainly: the hamza at the start of the verse is for inkār"** — confirmed verbatim: *والهمزة في أول الآية للإنكار* (Jalalayn).
+- **Al-Kalbī/Qurṭubī and al-Baghawī narration** — accurately rendered. Baghawi text reads: *كلا الفريقين بريء من دين إبراهيم … لا نرضى بقضائك ولا نأخذ بدينك* — matches the reflection's paraphrase precisely.
+- **Taqdīm analysis** (object fronted before verb) — linguistically sound; the word order أَفَغَيْرَ دِينِ ٱللَّهِ يَبْغُونَ does place the object before the verb, standard basis for this classical grammar observation.
+- **aslama (Form IV) as surrender/submission** — confirmed by Muyassar (*استسلم وانقاد وخضع*); the morphology comment's disclaimer ("not glossed as causative") is an appropriate hedge.
+- **Arabic text** — matches the reference; diacritical rendering differences (طَوْعًا vs طَوْعًۭا) are typographic variants, not errors.
+- **word_count: 14** — verified by count.
+
+SUMMARY: Every verifiable claim in the provided excerpt is grounded in the reference data; no factual, morphological, or attribution errors detected.

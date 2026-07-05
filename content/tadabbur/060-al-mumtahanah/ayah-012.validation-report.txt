@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/060-al-mumtahanah/ayah-012.md
+Ayah: 60:12
+Date: 2026-06-12T21:08:21
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَـٰٓأَيُّهَا ٱلنَّبِىُّ=O Prophet! | إِذَا=When | جَآءَكَ=come to you | ٱلْمُؤْمِنَـٰتُ=the believing women | يُبَايِعْنَكَ=pledging to you | عَلَىٰٓ=[on] | أَن=that | لَّا=not | يُشْرِكْنَ=they will associate | بِٱللَّهِ=with Allah | شَيْــًٔا=anything, | وَلَا=and not | يَسْرِقْنَ=they will steal, | وَلَا=and not | يَزْنِينَ=they will commit adultery, | وَلَا=and not | يَقْتُلْنَ=they will kill | أَوْلَـٰدَهُنَّ=their children, | وَلَا=and not | يَأْتِينَ=they bring | بِبُهْتَـٰنٍ=slander, | يَفْتَرِينَهُۥ=they invent it | بَيْنَ=between | أَيْدِيهِنَّ=their hands | وَأَرْجُلِهِنَّ=and their feet, | وَلَا=and not | يَعْصِينَكَ=they will disobey you | فِى=in | مَعْرُوفٍ‌ۙ=(the) right, | فَبَايِعْهُنَّ=then accept their pledge | وَٱسْتَغْفِرْ=and ask forgiveness | لَهُنَّ=for them | ٱللَّهَ‌ۖ=(from) Allah. | إِنَّ=Indeed, | ٱللَّهَ=Allah | غَفُورٌ=(is) Oft-Forgiving, | رَّحِيمٌ=Most Merciful.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [INFO] "his head bowed so low in humility, the tradition tells us, that it nearly touched the back of his camel" — historically attributed to the Conquest entry in sīra literature; not verifiable from the reference data provided here. Well-attested tradition but flagged as outside the supplied tafsir corpus.
+- [INFO] "it was Hind who is reported to have mutilated his body" — Al-Baghawi confirms Hind bint ʿUtba was present veiled and disguised ("متنقبة متنكرة"), confirming the scene; the Hamza mutilation detail is from Ibn Hishām/Wāqidī sīra accounts, not in the supplied tafsir data. Both uses are well-attested; raised only for sourcing transparency.
+
+**Confirmed accurate against supplied reference data:**
+- Conquest of Mecca timing and bayʿa sequence (men first, then women via ʿUmar) — confirmed by Al-Baghawi: "لما فرغ رسول الله ﷺ من بيعة الرجال وهو على الصفا وعمر بن الخطاب أسفل منه وهو يبايع النساء"
+- Hind bint ʿUtba veiled and disguised in the women's line — confirmed by Al-Baghawi: "وهند بنت عتبة امرأة أبي سفيان متنقبة متنكرة مع النساء"
+- Root ب-ي-ع as commercial trade/sale with 2:275 cross-reference — lexically accurate; word-by-word data confirms يُبَايِعْنَكَ = "pledging to you"
+- يُبَايِعْنَكَ as Form III (فَاعَلَ pattern → يُفَاعِلُ) carrying reciprocity — morphologically correct; Form III *bāyaʿa* is the standard bilateral-transaction form
+- *buhtān* (بُهْتَان) as false attribution of a child to the husband — confirmed by Al-Jalālayn ("بولد ملقوط ينسبنه إلى الزوج") and Al-Muyassar ("لا يُلحقن بأزواجهن أولادًا ليسوا منهم")
+
+SUMMARY: The visible portion of the reflection is linguistically and historically accurate; two sīra-sourced details fall outside the supplied reference corpus but are well-attested in standard classical sources and appropriately hedged with "the tradition tells us" / "is reported."

@@ -1,0 +1,40 @@
+Enhanced Validation Report
+File: content/tadabbur/057-al-hadid/ayahs-022-023.md
+Ayah: 57:22
+Date: 2026-06-12T11:41:24
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: مَآ=Not | أَصَابَ=strikes | مِن=any | مُّصِيبَةٍ=disaster | فِى=in | ٱلْأَرْضِ=the earth | وَلَا=and not | فِىٓ=in | أَنفُسِكُمْ=yourselves, | إِلَّا=but | فِى=in | كِتَـٰبٍ=a Register | مِّن قَبْلِ=before | أَن=that | نَّبْرَأَهَآ‌ۚ=We bring it into existence. | إِنَّ=Indeed, | ذَٲلِكَ=that | عَلَى=for | ٱللَّهِ=Allah | يَسِيرٌ=(is) easy.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No errors found in the visible portion of the reflection.
+
+**Root analysis check** — "مُّصِيبَة comes from the root ص-و-ب (ṣ-w-b) — and the core meaning of this root is to hit the mark... the word for *getting it exactly right* [صَوَاب]." This is lexically accurate. The Form IV verb أصاب (aṣāba) and its active participle مصيبة (muṣībah) are unambiguously from ص-و-ب, as is صَوَاب. The connection is attested in Mufradāt al-Rāghib. No overclaim here.
+
+**كِتَاب identification** — "the Register written before creation itself" / "the Preserved Register." Directly confirmed by all four tafsir sources: Jalālayn, Muyassar, Qurṭubī, and Baghawī all gloss كِتَاب as اللوح المحفوظ.
+
+**نَبْرَأَهَا gloss** — "before We bring it into being." Jalālayn: نخلقها; Baghawī: "من قبل أن نخلق الأرض والأنفس." The reflection's rendering is accurate.
+
+**Earth/self calamity distinction** — The reflection treats these as two domains without specifying examples at this point in the text. Tafsir examples (drought vs. illness/child loss) are consistent with what the tafsir sources document. No mismatch.
+
+**لِّكَيْلَا as purpose particle** — Grammatically correct. The reflection correctly identifies it as the hinge that subordinates the cosmic Register claim to the interior emotional purpose.
+
+**Madinan surah classification** — Correct per classical consensus on Sūrat al-Ḥadīd.
+
+**What cannot be verified from the provided data**: Ayah 23 translation ("self-deluded boaster" for مُخْتَالٍ فَخُورٍ) — the reference data covers only ayah 22's tafsir. The translation is conventionally accurate but the provided sources don't cover it. This is a data-coverage gap, not an error in the reflection.
+
+SUMMARY: All verifiable linguistic and tafsir claims in the visible portion of this reflection are accurate and well-grounded in the provided reference data; no errors warrant flagging.

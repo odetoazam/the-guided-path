@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/051-adh-dhariyat/ayah-011.md
+Ayah: 51:11
+Date: 2026-06-09T02:51:01
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ٱلَّذِينَ=Those who | هُمْ=[they] | فِى=(are) in | غَمْرَةٍ=flood | سَاهُونَ=(of) heedlessness.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR NOTE] Translation renders سَاهُونَ as "with hearts that have drifted away" — this is a literary paraphrase, not the literal meaning (غافلون / heedless ones). However, it is directly grounded in Al-Baghawi's lexical gloss: "ذهاب القلب عنه" (departure of the heart from something). The paraphrase does not misrepresent the meaning; it draws from an attested classical source. No error.
+- [VERIFY EXTERNALLY] Claim that غَمَرَات الموت appears in 6:93 for the forced extraction of the soul — the reference data provided does not include 6:93, so this cannot be confirmed from the supplied sources. The claim is consistent with what 6:93 contains in the Quran, but it falls outside the scope of the provided reference material. Not flagged as wrong; flagged as unverifiable from this dataset.
+
+All four tafsir citations are accurate against the supplied texts:
+- Al-Jalalayn "جهل يغمرهم" — exact match
+- Al-Muyassar "لُجَّة من الكفر والضلالة" — exact match
+- Al-Qurtubi "ما ستر الشيء وغطاه" — exact match
+- Al-Baghawi "غفلة وعمى وجهالة" — exact match
+
+Root analysis of غ-م-ر (to cover completely, submerge, overwhelm) is confirmed by Al-Qurtubi: "نهر غمر أي يغمر من دخله." Opening surah context (four oaths, 51:1–4) is correct. Preceding ayah attribution (51:10, الخرّاصون) is correct.
+
+SUMMARY: The reflection is linguistically precise and all cited classical sources are quoted accurately; the one item that cannot be confirmed (6:93 cross-reference) falls outside the provided reference data and is not an error within what can be assessed here.

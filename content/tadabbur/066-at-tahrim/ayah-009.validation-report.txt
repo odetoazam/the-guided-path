@@ -1,0 +1,37 @@
+Enhanced Validation Report
+File: content/tadabbur/066-at-tahrim/ayah-009.md
+Ayah: 66:9
+Date: 2026-06-13T13:02:32
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَـٰٓأَيُّهَا ٱلنَّبِىُّ=O Prophet! | جَـٰهِدِ=Strive | ٱلْكُفَّارَ=(against) the disbelievers | وَٱلْمُنَـٰفِقِينَ=and the hypocrites, | وَٱغْلُظْ=and be stern | عَلَيْهِمْ‌ۚ=with them. | وَمَأْوَٮٰهُمْ=And their abode | جَهَنَّمُ‌ۖ=(is) Hell, | وَبِئْسَ=and wretched is | ٱلْمَصِيرُ=the destination.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [OBSERVATION] "Two who lived beside tyranny and stayed sincere on the inside" — applies cleanly to Asiya (wife of Pharaoh, 66:11) but is an imprecise characterization of Mary (66:12), who faced social accusation and slander, not proximity to a tyrant. The grouping conflates two distinct test-types. This is a surah-context summary, not a claim about the ayah under review, so it does not rise to MODERATE — but a future revision should distinguish "beside tyranny" (Asiya) from "under false accusation" (Mary).
+- [OBSERVATION] Translation renders وَاغْلُظْ as "be firm" — softer than the lexical range. The word-by-word reference gives "be stern," and Al-Jalalayn glosses it as الانتهار والمقت ("rebuke and contempt/disdain"). "Firm" understates the word's texture. Defensible translation choice, not a factual error.
+
+All linguistic claims verified against reference data:
+- **جَاهِدِ as Form III (mufāʿala)**: confirmed — the directional/confrontational-against-another-party characterization is lexically accurate and well-attested.
+- **k-f-r root as "covering/burying"**: confirmed — classically attested in Lisān al-ʿArab; the farmer-burying-seed illustration is standard.
+- **n-f-q / nafaq tunnel etymology**: confirmed — the jerboa with a hidden second exit is the canonical classical illustration for nifāq (see Rāghib's Mufradāt and Ibn Manẓūr).
+- **ghilza root connection to 3:159** (فَظًّا غَلِيظَ الْقَلْبِ): confirmed — same root gh-l-ẓ; the ironic tension the reflection identifies is real and textually grounded.
+- **maʾwā as "refuge/shelter"**: confirmed — the root ā-w-y carries the sense of a safe place to return to; the reflection correctly flags the ironic inversion of calling Hell a "refuge."
+- **Contextual framing of At-Tahrim** (household secret → verse 9 hinge → four women portraits): accurate structural reading of the surah.
+
+The reflection is cut off before any scholar attributions appear — those cannot be validated from this excerpt.
+
+SUMMARY: All verifiable linguistic and contextual claims in this excerpt are accurate and classically grounded; the only imprecision is a loose grouping of Mary with Asiya under the "beside tyranny" frame, which is a summary simplification rather than a factual error about the ayah itself.

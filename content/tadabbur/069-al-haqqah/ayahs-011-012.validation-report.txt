@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/069-al-haqqah/ayahs-011-012.md
+Ayah: 69:11
+Date: 2026-06-15T00:55:18
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّا=Indeed, We | لَمَّا=when | طَغَا=overflowed | ٱلْمَآءُ=the water, | حَمَلْنَـٰكُمْ=We carried you | فِى=in | ٱلْجَارِيَةِ=the sailing (ship).
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "Except once. Except the one time the measure was lifted" — The reflection presents this as a conclusion from al-Qurṭubī, but Qurṭubī's text says only: *"وليس من الماء قطرة تنزل قبله ولا بعده إلا بكيل معلوم"* — "there is not a drop of water that descends **before it or after it** except by a known measure." The Flood being the exception is strongly *implied* by the "before/after" framing, but Qurṭubī does not explicitly state "the measure was lifted during the Flood." The reflection presents this inference as a documented fact from the source. Worth softening to "the implication is" rather than stating it as Qurṭubī's explicit claim.
+
+All other verifiable claims check out:
+
+- **Root ط-غ-ي and its semantic field** (ṭughyān, ṭāghūt, Pharaoh) — linguistically sound and well-established in classical lexicons
+- **79:17 citation** (*idhhab ilā firʿawna innahu ṭaghā*) — correct
+- **96:6–7 citation** (*inna-l-insāna la-yaṭghā an raʾāhu-staghnā*) — accurate; combining start-verse citation is standard scholarly practice
+- **Ibn ʿAbbās narration** (*ṭaghā-l-māʾu zamana Nūḥin ʿalā khuzzānihi... fa-lam yadrū kam kharaj*) — accurately quoted and attributed per the provided Qurṭubī text
+- **ʿAlī's statement** (*ṭaghā ʿalā khuzzānihi min al-malāʾikati ghaḍaban li-rabbihi fa-lam yaqdirū ʿalā ḥabsih*) — accurately reproduced
+- **"Why YOU?"** question framing — well-grounded; Jalālayn and Baghawī both explain *ḥamalnākum* as "We carried your forefathers, while you were in their loins" (the reflection raises the question without yet answering it, which is rhetorically intentional)
+
+SUMMARY: One moderate inference is stated more strongly than the source warrants; every attribution, narration, and linguistic claim is otherwise accurate against the provided references.

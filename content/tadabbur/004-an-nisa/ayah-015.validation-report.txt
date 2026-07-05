@@ -1,0 +1,29 @@
+Enhanced Validation Report
+File: content/tadabbur/004-an-nisa/ayah-015.md
+Ayah: 4:15
+Date: 2026-06-24T09:54:05
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَٱلَّـٰتِى=And those who | يَأْتِينَ=commit | ٱلْفَـٰحِشَةَ=[the] immorality | مِن=from | نِّسَآئِكُمْ=your women | فَٱسْتَشْهِدُواْ=then call to witness | عَلَيْهِنَّ=against them | أَرْبَعَةً=four | مِّنكُمْ‌ۖ=among you. | فَإِن=And if | شَهِدُواْ=they testify | فَأَمْسِكُوهُنَّ=then confine them | فِى=in | ٱلْبُيُوتِ=their houses | حَتَّىٰ=until | يَتَوَفَّـٰهُنَّ=comes to them | ٱلْمَوْتُ=[the] death | أَوْ=or | يَجْعَلَ ٱللَّهُ=Allah makes | لَهُنَّ=for them | سَبِيلاً=a way.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "Al-Qurtubi, who dedicated extensive discussion to this ayah, notes something the community of jurists unanimously agreed upon: the four witnesses must be eyewitnesses to the act itself" — the Qurtubi excerpt in the provided reference data is truncated before reaching this claim; it cannot be verified from the provided text. The substance (زنا not established without four witnesses) is confirmed by al-Baghawi's excerpt ("الزنا لا يثبت إلا بأربعة من الشهود"), but attributing the specific formulation, including the "unanimously agreed upon" framing, to al-Qurtubi goes beyond what the reference data supports.
+- [MODERATE] "all four major classical commentators identify as interim legislation" — only al-Jalalayn explicitly states this in the provided excerpts ("أمروا بذلك أول الإسلام ثم جعل لهن سبيلا بجلد"). The al-Muyassar, al-Qurtubi, and al-Baghawi excerpts are truncated before any naskh discussion. The position is historically accurate as matter of scholarly consensus, but the four-commentator attribution cannot be confirmed from the reference data as provided.
+
+No critical errors found. Morphological analysis is correct: فاستشهدوا is indeed Form X (استفعل) of root شهد, and يتوفاهن is Form V (تفعّل) of root وفي — both identifications are linguistically accurate. The Form X "seeking/demanding" semantic gloss aligns with standard Arabic morphology. The address to الحكام (judges/rulers) is confirmed by al-Muyassar ("أيها الولاة والقضاة") and al-Baghawi ("خطاب للحكام"). Translation of يتوفاهن as "death takes them fully" is consistent with al-Jalalayn's gloss ("أي ملائكته") and the completive semantics of Form V. الفاحشة is rendered throughout as "gross/transgressive immorality" rather than الزنا specifically — all four tafsirs explicitly gloss it as الزنا, so this is an omission, but not a factual inversion and defensible in a reflection context where the Quranic word itself is الفاحشة.
+
+SUMMARY: No critical errors; two moderate attribution claims extend beyond what the truncated reference excerpts can confirm, though neither claim inverts a scholar's position or misrepresents the ruling.

@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/045-al-jathiyah/ayahs-003-005.md
+Ayah: 45:3
+Date: 2026-06-08T05:16:34
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّ=Indeed, | فِى=in | ٱلسَّمَـٰوَٲتِ=the heavens | وَٱلْأَرْضِ=and the earth | لَأَيَـٰتٍ=surely (are) Signs | لِّلْمُؤْمِنِينَ=for the believers.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR NOTE] Morphology comment reads "Amn (آمن, Form IV, believers)" — the notation `آمن` is the Form IV verb (āmana), not the bare root (أ-م-ن). This is a notation imprecision in an internal pruning comment, not in the reflection body itself. No substantive error.
+- [CANNOT VERIFY] The reflection covers ayahs 4–5, but only ayah 3 reference data was supplied. Claims about `yabuththu` (bth = scatter), `dābbah` (moving creature), `yūqinūn` (certainty), `taṣrīf al-riyāḥ` (turning of winds), and `aḥyā bi-hi-l-arḍ` (reviving the dead earth) cannot be validated against the provided corpus. None appear erroneous on their face, but they are outside the scope of the data given.
+
+Verifiable claims that PASS:
+- Arabic text for ayah 3 matches the authentic text (diacritic style differences only, not errors)
+- `āyātun li-l-muʾminīn` translated as "signs for the believers" — confirmed by Jalalayn, Muyassar, Baghawi, Qurtubi
+- Surah name Al-Jathiyah = "The Kneeling" — correct (from 45:28: كُلَّ أُمَّةٍ جَاثِيَةً)
+- Ḥā-Mīm opener correctly identified
+- 45:24 materialist quote ("nothing destroys us but Time") — correctly cited and translated
+- Jalalayn confirms the signs point to "Allah's power and oneness" — the reflection's ā'yah-as-pointer framing is consistent with this
+- No scholar attributions are made; no positions are inverted
+
+SUMMARY: The reflection is linguistically accurate and theologically grounded on all claims verifiable from the supplied reference data; the three-tier reader framework (muʾminīn → yūqinūn → yaʿqilūn) derives directly from the explicit Arabic text rather than being an invented attribution.

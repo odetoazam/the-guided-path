@@ -6,7 +6,7 @@ ayah_end: 162
 title: "The Deeply Rooted in Knowledge"
 slug: "004-162"
 category: tadabbur
-arabic: "لَّـٰكِنِ ٱلرَّٰسِخُونَ فِى ٱلْعِلْمِ مِنْهُمْ وَٱلْمُؤْمِنُونَ يُؤْمِنُونَ بِمَآ أُنزِلَ إِلَيْكَ وَمَآ أُنزِلَ مِن قَبْلِكَ ۚ وَٱلْمُقِيمِينَ ٱلصَّلَوٰةَ ۚ وَٱلْمُؤْتُونَ ٱلزَّكَوٰةَ وَٱلْمُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ أُو۟لَـٰٓئِكَ سَنُؤْتِيهِمْ أَجْرًا عَظِيمًا"
+arabic: "لَّـٰكِنِ ٱلرَّٰسِخُونَ فِى ٱلْعِلْمِ مِنْهُمْ وَٱلْمُؤْمِنُونَ يُؤْمِنُونَ بِمَآ أُنزِلَ إِلَيْكَ وَمَآ أُنزِلَ مِن قَبْلِكَ ۚ وَٱلْمُقِيمِينَ ٱلصَّلَوٰةَ ۚ وَٱلْمُؤْتُونَ ٱلزَّكَوٰةَ وَٱلْمُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ أُو۟لَـٰٓئِكَ سَنُؤْتِيهِمْ أَجْرًا عَظِيمًا"
 translation: "But those firm in knowledge among them and the believers believe in what has been revealed to you and what was revealed before you, and the establishers of prayer and the givers of zakah and the believers in Allah and the Last Day - those, We will give them a great reward."
 word_count: 1869
 estimated_duration: "45-55 minutes"
@@ -14,6 +14,7 @@ passage_context: "After a sustained indictment of breach, slander, boast, econom
 generated_by: "codex-tadabbur"
 validated: true
 validation_date: "2026-04-18"
+semantic_review: "enriched-2026-07-03"
 tags: [knowledge, salah, zakah, iman, exception]
 concepts: [iman, ibadah, akhirah, hidayah, quran]
 ---
@@ -39,7 +40,7 @@ concepts: [iman, ibadah, akhirah, hidayah, quran]
 
 ## Surah An-Nisa (4:162)
 
-[ayah:4:162] لَّـٰكِنِ ٱلرَّٰسِخُونَ فِى ٱلْعِلْمِ مِنْهُمْ وَٱلْمُؤْمِنُونَ يُؤْمِنُونَ بِمَآ أُنزِلَ إِلَيْكَ وَمَآ أُنزِلَ مِن قَبْلِكَ ۚ وَٱلْمُقِيمِينَ ٱلصَّلَوٰةَ ۚ وَٱلْمُؤْتُونَ ٱلزَّكَوٰةَ وَٱلْمُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ أُو۟لَـٰٓئِكَ سَنُؤْتِيهِمْ أَجْرًا عَظِيمًا
+[ayah:4:162] لَّـٰكِنِ ٱلرَّٰسِخُونَ فِى ٱلْعِلْمِ مِنْهُمْ وَٱلْمُؤْمِنُونَ يُؤْمِنُونَ بِمَآ أُنزِلَ إِلَيْكَ وَمَآ أُنزِلَ مِن قَبْلِكَ ۚ وَٱلْمُقِيمِينَ ٱلصَّلَوٰةَ ۚ وَٱلْمُؤْتُونَ ٱلزَّكَوٰةَ وَٱلْمُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ أُو۟لَـٰٓئِكَ سَنُؤْتِيهِمْ أَجْرًا عَظِيمًا
 
 *Lakini al-rasikhuna fi al-'ilmi minhum wa al-mu'minuna yu'minuna bima unzila ilayka wa ma unzila min qablika. Wa al-muqimina al-salata. Wa al-mu'tuna al-zakata wa al-mu'minuna billahi wa al-yawmi al-akhiri ula'ika sanu'tihim ajran 'azima.*
 
@@ -52,6 +53,8 @@ concepts: [iman, ibadah, akhirah, hidayah, quran]
 One of the most beautiful forms of justice in the Qur'an is that it refuses lazy totalizing.
 
 The surah has just spent verse after verse exposing grave corruption among Bani Isra'il: broken covenants, rejection of signs, slander against Maryam, boasting against Isa, economic abuse, and obstruction from Allah's path. After so much indictment, a human reader can begin to flatten the whole community into one verdict. Then this ayah interrupts that impulse with a single word: lakin. But.
+
+The classical commentators name precisely what that word is doing. Al-Tabari reads the whole verse as an istisna'—a deliberate carving-out, an exception drawn from the very People of the Book whose failures the preceding ayat had catalogued. This is not a change of subject. It is Allah pausing inside His own indictment to say that the verdict was never meant to be collective.
 
 That "but" matters morally. It tells us that divine judgment is exact enough to distinguish the deeply rooted from the noisy, the sincere from the inherited, the grounded from the rebellious. Even inside a community with a history of serious breach, there remain people whom Allah honors for knowledge, faith, prayer, charity, and belief in the Last Day.
 
@@ -71,7 +74,7 @@ lakin.
 
 But.
 
-That small turn carries enormous moral weight. It prevents the reader from assuming that a community's corruption can simply erase all its exceptions. The Qur'an will expose what must be exposed, but it will not become unjust while exposing it.
+That small turn carries enormous moral weight. It prevents the reader from assuming that a community's corruption can simply erase all its exceptions. The Qur'an will expose what must be exposed, but it will not become unjust while exposing it. Al-Tabari's word for this move—istisna', exception—captures it exactly: the same verse that begins with a corrective "but" is technically a clause pulled out from the group just condemned, so that mercy and justice are performed in a single grammatical breath.
 
 [PAUSE]
 
@@ -83,7 +86,7 @@ Those deeply rooted in knowledge.
 
 Rasikhun comes from firmness, rootedness, being settled so deeply that one is not easily shaken loose. This is not the language of someone who sampled information lightly. It is the language of planted knowledge, knowledge that has gone down and held.
 
-And notice where they are rooted: fi al-'ilm, in knowledge. Not in tribe, not in inherited defensiveness, not in reaction, not in reputation. The ayah is teaching us that real scholarship is not measured only by how much a person can say, but by what has become stable inside him.
+And notice where they are rooted: fi al-'ilm, in knowledge. Not in tribe, not in inherited defensiveness, not in reaction, not in reputation. Al-Muyassar sharpens what this knowledge is: not knowledge in the abstract, but firm grounding in the knowledge of Allah's rulings—al-mutamakkinun fi al-'ilm bi-ahkam Allah. The rooted ones are those in whom the understanding of what Allah has commanded has become stable enough to govern a life. The ayah is teaching us that real scholarship is not measured only by how much a person can say, but by what has become settled and load-bearing inside him.
 
 This rootedness matters especially in context. Around it, the surah has shown people who turned signs into dispute, covenant into breach, and history into selective narration. Rasikhun are the opposite kind of people. Revelation enters them and settles.
 
@@ -95,11 +98,11 @@ yu'minuna bima unzila ilayka wa ma unzila min qablika.
 
 They believe in what was sent down to you and what was sent down before you.
 
-This is crucial. Their knowledge does not make them selective. It makes them receptive. The real knower here is not the one who uses learning to place himself above revelation. He is the one whose learning allows him to recognize the continuity of divine sending.
+This is crucial. Their knowledge does not make them selective. It makes them receptive. The real knower here is not the one who uses learning to place himself above revelation. He is the one whose learning allows him to recognize the continuity of divine sending. Al-Muyassar spells out the two horizons named here: what was sent to you is the Qur'an, and what was sent before you is what came to the earlier messengers—the Tawrah and the Injil. Their faith reaches backward and forward across the whole line of revelation without dividing it.
 
 [PAUSE]
 
-That directly answers the previous section of the surah. Just verses ago, people were condemned for wanting to differentiate between Allah and His messengers, for believing in some and rejecting some, for turning covenantal history into self-serving rejection. This ayah presents the healed alternative: to receive what has come to Muhammad and what came before him as part of one revelatory river.
+That directly answers the previous section of the surah. Just verses ago, people were condemned for wanting to differentiate between Allah and His messengers, for believing in some and rejecting some, for turning covenantal history into self-serving rejection. This ayah presents the healed alternative: to receive what has come to Muhammad and what came before him—Qur'an, Tawrah, and Injil alike—as part of one revelatory river.
 
 That means deep knowledge in the Qur'anic sense is not a sophistication that outgrows submission. It is a firmness that deepens it. The more truly rooted a person becomes, the less he needs to curate revelation according to ego.
 
@@ -111,9 +114,11 @@ wa al-muqimina al-salata wa al-mu'tuna al-zakata.
 
 And the establishers of prayer and the givers of zakah.
 
-The wording matters. Not merely people who occasionally pray, but muqimina al-salata: those who set prayer upright, who keep it standing in their lives. The root of iqamah carries establishing, making something stand properly, not leaving it collapsed.
+The wording matters. Not merely people who occasionally pray, but muqimina al-salata: those who set prayer upright, who keep it standing in their lives. The root of iqamah carries establishing, making something stand properly, not leaving it collapsed. Al-Muyassar adds a quiet precision here—they are those who render the prayer in its appointed times, and who bring out the zakah from their wealth. The uprightness is not vague piety; it has a clock and a ledger.
 
 [PAUSE]
+
+There is also a famous grammatical detail here that the classical grammarians did not let pass. Every praised group in this verse arrives in the nominative case—al-rasikhun, al-mu'minun, al-mu'tun, al-mu'minun—except one. Al-muqimin appears in the accusative (-ina, not -una), a shift you can see plainly in the Arabic itself. The mainstream reading treats this as nasb 'ala al-madh: a deliberate case-change for the sake of praise, an Arabic device that jolts the ear precisely so that the eye lingers on the word being spotlighted. On this reading, prayer is grammatically underlined—lifted out of the list and set apart—so that of all the acts named, salah is given a special glance. (Other explanations were offered in the tradition, and it remains a genuine site of grammatical discussion; but the praise-accusative is the reading most commonly carried.)
 
 Then zakah follows. The pattern is beautiful. Knowledge that is truly rooted does not remain in the head. It stands before Allah and it releases wealth. It becomes worship and purification.
 
@@ -125,7 +130,7 @@ wa al-mu'minuna billahi wa al-yawmi al-akhiri.
 
 And the believers in Allah and the Last Day.
 
-Why repeat belief after knowledge, revelation, prayer, and zakah? Because all of those are held together by orientation. Allah and the Last Day give the whole life its direction. Without akhirah, knowledge becomes vanity, prayer becomes habit, and charity becomes image. With akhirah near, everything is resized.
+Why repeat belief after knowledge, revelation, prayer, and zakah? Because all of those are held together by orientation. Allah and the Last Day give the whole life its direction. Al-Muyassar reads al-yawm al-akhir here as belief in the resurrection and the reckoning—al-ba'th wa al-jaza'—faith that there is a rising and an accounting still to come. Without akhirah, knowledge becomes vanity, prayer becomes habit, and charity becomes image. With akhirah near, everything is resized.
 
 ### 4. **Ula'ika sanu'tihim ajran 'azima**: The Exception Is Not Marginal in Allah's Sight
 
@@ -139,7 +144,7 @@ The demonstrative ula'ika gives them a kind of dignity at a distance, as though 
 
 [PAUSE]
 
-Then the reward is described as 'azima, great, immense. This matters because the ayah has just singled them out from within a people under heavy criticism. The exception might look socially small. But in Allah's sight, it is not small at all.
+Then the reward is described as 'azima, great, immense. Al-Muyassar does not leave the greatness unnamed: this tremendous reward is al-Jannah, the Garden itself. This matters because the ayah has just singled them out from within a people under heavy criticism. The exception might look socially small. But in Allah's sight, it is not small at all—it is Paradise.
 
 This is a deep mercy for every believer who has ever felt outnumbered inside a confused environment. Allah knows the ones who stayed rooted. He knows the ones who did not let communal failure dissolve their worship. And He does not let their hidden integrity disappear inside the crowd's reputation.
 
@@ -155,7 +160,7 @@ The learned person, in this modern imagination, becomes increasingly ironic, inc
 
 This ayah gives us a radically different psychology of knowledge. The ones deeply rooted in knowledge are not the ones who outgrow belief. They are the ones whose belief becomes steadier, wider, and more integrated. They believe in what came to you and what came before you. They stand in prayer. They give zakah. They live toward the Last Day.
 
-That means the truest scholar is not necessarily the one who can destabilize everything, but the one who has become stable before Allah. Knowledge that does not lead toward reverence may still be clever, but the Qur'an does not call it rusukh.
+That means the truest scholar is not necessarily the one who can destabilize everything, but the one who has become stable before Allah. Knowledge that does not lead toward reverence may still be clever, but the Qur'an does not call it rusukh. And it is worth remembering al-Muyassar's gloss: the knowledge in question is knowledge of Allah's rulings—a learning meant to be obeyed, not merely surveyed.
 
 And this becomes a mirror for all of us, not only formal scholars. If learning is making me more arrogant toward revelation, more selective in submission, more casual in worship, and less answerable to the akhirah, then something in my "knowledge" is floating rather than rooted.
 
@@ -167,7 +172,7 @@ Sometimes people live in families, institutions, or communities with histories o
 
 [PAUSE]
 
-This ayah says otherwise. Allah sees the exceptions. He names them. He honors them. He distinguishes them.
+This ayah says otherwise. Allah sees the exceptions. He names them. He honors them. He distinguishes them. Al-Tabari's reading underlines this precisely: the verse is an exception deliberately extracted from the group just condemned—proof that the divine gaze does not lose the individual inside the crowd.
 
 That distinction should change how we look at others and how we carry ourselves. We should fear collective arrogance and communal sin, yes. But we should also avoid the laziness of assuming that corruption is total or that a person's setting tells us everything about his standing with Allah. The Qur'an itself paused to say "but" before flattening an entire people.
 
@@ -179,7 +184,7 @@ This ayah arrives as a divine correction to our tendency toward exaggeration.
 
 After pages of criticism, Allah says: but. There are those among them deeply rooted in knowledge. And the proof of that rootedness is not self-display, but whole reception of revelation, established prayer, given zakah, and belief in Allah and the Last Day.
 
-Then Allah singles them out with dignity and promises them a tremendous reward.
+Then Allah singles them out with dignity and promises them a tremendous reward—which the mufassirun name as the Garden itself.
 
 [PAUSE]
 

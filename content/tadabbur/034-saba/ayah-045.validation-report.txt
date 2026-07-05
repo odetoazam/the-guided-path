@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/034-saba/ayah-045.md
+Ayah: 34:45
+Date: 2026-05-17T21:43:26
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَكَذَّبَ=And denied | ٱلَّذِينَ=those who | مِن قَبْلِهِمْ=(were) before them | وَمَا=and not | بَلَغُواْ=they have attained | مِعْشَارَ=a tenth | مَآ=(of) what | ءَاتَيْنَـٰهُمْ=We (had) given them. | فَكَذَّبُواْ=But they denied | رُسُلِىۖ=My Messengers, | فَكَيْفَ=so how | كَانَ=was | نَكِيرِ=My rejection?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Al-Qurtubi and al-Baghawi **both** note that those prior civilizations were *ashaddu minhum baṭshan*... and *akthar amwālan wa-awlādan*" — The Arabic phrasing quoted belongs exclusively to al-Qurtubi: "أشد من هؤلاء بطشا وأكثر أموالا وأولادا." Al-Baghawi's excerpt uses different phrasing: "من القوة والنعمة وطول العمر" (strength, blessings, long life). Both scholars affirm that prior nations were greater in power and provision, but presenting one scholar's exact Arabic formulation as shared by both overstates the attribution.
+
+PASSED (verified against reference data):
+- Arabic text matches the authentic source (minor Unicode rendering difference only, not an error)
+- Both *kadhdhaba* verbs correctly identified as Form II (doubled middle radical confirmed in the word-by-word data)
+- *ātaynāhum* correctly identified as Form IV (afʿala pattern)
+- Form II semantics (*kadhdhaba* = to accuse another of lying, vs. Form I *kadhaba* = to lie) — lexically standard and accurate
+- Translation is faithful to the word-by-word reference
+- The structural observation about the two denials bracketing the measurement clause is a valid rhetorical reading of the ayah's syntax, not attributed to any specific scholar
+- Contextual references to Sulayman (towering structures, sculptures, basins, cauldrons) correspond to 34:13, accurately evoked
+
+SUMMARY: Solid reflection with one attribution issue — the specific Arabic phrasing *ashaddu baṭshan / akthar amwālan wa-awlādan* is al-Qurtubi's formulation, not al-Baghawi's; correct by removing "al-Baghawi" from that citation or quoting each scholar's actual phrasing separately.

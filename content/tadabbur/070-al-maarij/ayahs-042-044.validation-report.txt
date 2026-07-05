@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/070-al-maarij/ayahs-042-044.md
+Ayah: 70:42
+Date: 2026-06-15T02:36:29
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَذَرْهُمْ=So leave them | يَخُوضُواْ=(to) converse vainly | وَيَلْعَبُواْ=and amuse themselves | حَتَّىٰ=until | يُلَـٰقُواْ=they meet | يَوْمَهُمُ=their Day, | ٱلَّذِى=which | يُوعَدُونَ=they are promised,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] The entire reflection frames "leave them" as an enduring theological principle of divine forbearance and istidraj without noting that both al-Qurtubi and al-Baghawi explicitly declare this verse **mansūkh** by the verse of fighting: Qurtubi states "وهذه الآية منسوخة بآية السيف" and Baghawi "نسختها آية القتال." The reflection is not deriving a fiqh ruling, so the abrogation does not invalidate the spiritual reading — but presenting divine withdrawal as the verse's operative meaning without acknowledging the dominant classical position that the command itself was superseded is an interpretive extension stated as if it were the uncontested reading.
+
+- [MODERATE] Ayahs 43–44 (الأجداث / نُصُب / تَرْهَقُهُمْ ذِلَّةٌ) appear in the Arabic block, translation, and presumably the full reflection, but no reference data was supplied for those verses. Claims about those words cannot be validated from the provided sources. Flag for separate validation pass.
+
+CONFIRMED ACCURATE (explicitly verifiable from supplied data):
+- Arabic text of 70:42 matches authentic source exactly.
+- Grammatical claim that و-ذ-ر is defective in the past tense (mahjūr al-māḍī) is a documented classical grammar point — the reflection's framing is sound.
+- Variant reading يَلْقَوا attributed to Ibn Muhaysin, Mujahid, and Humayd is confirmed verbatim by al-Qurtubi: "وقرأ ابن محيصن ومجاهد وحميد حتى يلقوا."
+- Form III يُلَاقُوا vs. Form I يَلْقَوا distinction is correctly noted.
+- Tafsir gloss — leave them to their bāṭil in this world until they meet the promised Day of punishment — is consistent across all four supplied sources (Jalalayn, Muyassar, Qurtubi, Baghawi).
+- Contextual framing of the surah (70:1 sāʾil, 50,000-year Day, ransom passage, هَلُوعًا, مُهْطِعِينَ) is accurate to the text.
+
+SUMMARY: The reflection is linguistically careful and tafsir-grounded on 70:42 itself, but presents the "leave them" command as a living theological principle without flagging the classical naskh position held by both Qurtubi and Baghawi — a material omission that qualifies as an overstated claim about the verse's operative meaning.

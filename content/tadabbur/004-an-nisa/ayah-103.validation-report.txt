@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/004-an-nisa/ayah-103.md
+Ayah: 4:103
+Date: 2026-06-24T10:38:00
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَإِذَا=Then when | قَضَيْتُمُ=you (have) finished | ٱلصَّلَوٲةَ=the prayer, | فَٱذْكُرُواْ=then remember | ٱللَّهَ=Allah | قِيَـٰمًا=standing | وَقُعُودًا=and sitting | وَعَلَىٰ=and (lying) on | جُنُوبِكُمْ‌ۚ=your sides. | فَإِذَا=But when | ٱطْمَأْنَنتُمْ=you are secure | فَأَقِيمُواْ=then establish | ٱلصَّلَوٲةَ‌ۚ=the (regular) prayer. | إِنَّ=Indeed, | ٱلصَّلَوٲةَ=the prayer | كَانَتْ=is | عَلَى=on | ٱلْمُؤْمِنِينَ=the believers | كِتَـٰبًا=prescribed | مَّوْقُوتًا=(at) fixed times.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+
+- [MODERATE] "Allah had the plain word for safety available. He used it three words later." — Counting from *iṭmaʾnantum*, the word *al-muʾminīna* (the only a-m-n root word in the ayah) is **7 words later** (fa-aqīmū → ṣ-ṣalāh → inna → ṣ-ṣalāta → kānat → ʿalā → al-muʾminīna). "Three words later" is factually incorrect and verifiable by any reader with the Arabic text open. The underlying linguistic point is valid; only the count is wrong.
+
+- [MODERATE] "It is the kind of form Arabic reserves for actions of trembling, of shaking, and then of coming to rest." — This presents a categorical semantic function for Form XII as a whole, which is not a standard morphological claim. Form XII (اِفْعَلَلَّ / iṭmaʾanna pattern) is described in grammars as an **intensive augmented form**; the "trembling and settling" gloss is derived from this specific root (ṭ-m-n), not from Form XII as a class. Presenting it as a general formal property of Form XII overstates the morphological claim. The phenomenological description is evocative but should be framed as belonging to this root's meaning, not to the form-pattern itself.
+
+- [NOTE — not flagged as error] The Uḥud narrative ("al-Baghawī and others places this in the aftermath of Uḥud: the Prophet sent a detachment in pursuit of Abū Sufyān...") — the al-Baghawī excerpt in the provided reference is truncated before the relevant narration, and al-Jalālayn's parallel note is similarly cut off ("ونزل لما بعث..."). The claim cannot be confirmed or refuted from the supplied data. The narrative is plausible as asbāb al-nuzūl, but should not be treated as verified from the reference set provided.
+
+All other claims check out: the Form XII classification of *iṭmaʾnantum* is correct per the Quranic corpus; the al-Jalālayn attribution ("*aminantum* — you became safe") matches the supplied text exactly; the root ṭ-m-n connection to 13:28 and 2:260 is accurate; the *kitāban mawqūtā* translation is consistent with al-Jalālayn's gloss (*maktūban mafruḍan / muqaddaran waqtuhā*).
+
+SUMMARY: Solid reflection with two moderate issues — a word-count error that is immediately falsifiable by any attentive reader, and an overstatement of Form XII's semantic function as a general morphological category rather than a property of this specific root.

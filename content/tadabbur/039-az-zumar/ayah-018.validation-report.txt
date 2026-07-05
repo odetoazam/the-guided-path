@@ -1,0 +1,48 @@
+Enhanced Validation Report
+File: content/tadabbur/039-az-zumar/ayah-018.md
+Ayah: 39:18
+Date: 2026-06-06T03:48:58
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ٱلَّذِينَ=Those who | يَسْتَمِعُونَ=they listen (to) | ٱلْقَوْلَ=the Word, | فَيَتَّبِعُونَ=then follow | أَحْسَنَهُۥٓ‌ۚ=the best thereof, | أُوْلَـٰٓئِكَ=those | ٱلَّذِينَ=(are) they whom | هَدَٮٰهُمُ ٱللَّهُ‌ۖ=Allah has guided them, | وَأُوْلَـٰٓئِكَ=and those | هُمْ=are [they] | أُوْلُواْ ٱلْأَلْبَـٰبِ=the men of understanding.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate errors found in the first 8,000 characters of this reflection.
+
+Supporting detail on the key claims checked:
+
+**Morphology — Form VIII identification (PASS)**
+The reflection identifies `يَسْتَمِعُونَ` as Form VIII. This is correct: for root س-م-ع, Form VIII (iftaʿala) = hamza wasl + s (radical 1) + ت infix + m (radical 2) + ʿ (radical 3) → اسْتَمَع. Form X would require a full ist- prefix before all three radicals (→ استسمع), which is a different verb entirely. The t-infix description is accurate.
+
+**Semantic distinction samiʿa vs. istamaʿa (PASS)**
+"samiʿa means 'to hear'; istamaʿa means 'to listen' — to lend your ear, to incline toward the sound on purpose" — this is the standard lexical distinction attested in Rāghib al-Isfahānī's Mufradāt and consistent with the Form VIII semantic of deliberate, effortful action.
+
+**Passage context (PASS)**
+"immediately after Allah announces glad tidings (al-bushrā) for the servants who turned away from false gods" — confirmed by ar.muyassar: *"والذين اجتنبوا طاعة الشيطان وعبادة غير الله... لهم البشرى... فبشِّر -أيها النبي- عبادي الذين يستمعون القول"*
+
+**Quraysh noise-strategy reference (PASS)**
+Cited as "(cf. 41:26)" — appropriately parenthetical, not asserted as content of 39:18. 41:26 does contain the Quraysh instruction to drown out Quran recitation with noise; this cross-reference is legitimate.
+
+**Translation (PASS)**
+Matches the word-by-word reference precisely across all five phrase units.
+
+**ulul-albāb gloss (PASS)**
+"people of understanding" — matches both the word-by-word reference ("the men of understanding") and al-Jalālayn: *"أصحاب العقول."*
+
+---
+
+SUMMARY: The reflection's linguistic, morphological, and contextual claims all hold against the supplied reference data; no errors identified in the first 8,000 characters.

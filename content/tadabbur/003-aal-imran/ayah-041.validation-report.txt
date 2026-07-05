@@ -1,0 +1,42 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayah-041.md
+Ayah: 3:41
+Date: 2026-06-21T12:50:00
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: قَالَ=He said, | رَبِّ=`My Lord | ٱجْعَل=make | لِّىٓ=for me | ءَايَةً‌ۖ=a sign.` | قَالَ=He said, | ءَايَتُكَ=your sign | أَلَّا=(is) that not | تُكَلِّمَ=you will speak | ٱلنَّاسَ=(to) the people | ثَلَـٰثَةَ=(for) three | أَيَّامٍ=days | إِلَّا=except | رَمْزًا‌ۗ=(with) gestures. | وَٱذْكُر=And remember | رَّبَّكَ=your Lord | كَثِيرًا=much, | وَسَبِّحْ=and glorify (Him) | بِٱلْعَشِىِّ=in the evening | وَٱلْإِبْكَـٰرِ=and (in) the morning.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate errors found in the portion reviewed.
+
+Supporting notes on what was checked:
+
+**Al-Qurtubi on jaʿala = ṣayyara** — CONFIRMED. The Qurtubi extract explicitly states: "جعل هنا بمعنى صير لتعديه إلى مفعولين" — precisely what the reflection attributes to him. Attribution accurate.
+
+**Form II analysis of تُكَلِّمَ** — CONFIRMED. Root k-l-m, doubled middle letter, imperfect 2nd person singular of Form II (kallama). The morphology comment in the frontmatter ("klm and sbH are Form II taf'īl; klm imperfect") is also accurate. The directed-toward-listener semantic is lexically well-grounded for the taf'īl pattern here.
+
+**Al-Baghawi on "not a paralysis"** — CONFIRMED. Source reads: "لا أنه حبس لسانه عن الكلام، ولكنه نهي عن الكلام وهو صحيح سوي" — the reflection's paraphrase ("not a paralysis of the tongue… sound and whole") is faithful.
+
+**Al-Muyassar on sawiyyun ṣaḥīḥ** — CONFIRMED. Source reads: "مع أنك سويٌّ صحيح" — exact match to the reflection's attribution.
+
+**19:10 sawiyyā cross-reference** — The parallel passage claim ("thalātha layālin sawiyyā") is accurate per Quranic text; Baghawi also cites it in the reference data ("كما قال في سورة مريم الآية 10").
+
+**Ramzā = gesture** — CONFIRMED via Jalalayn: "إلا رمزا إشارة."
+
+**One observation (not an error):** The Jalalayn and Muyassar both gloss وَسَبِّحْ as صلِّ (pray). The reflection has not yet reached the tasbih section in the submitted 8,000 chars, so this cannot be evaluated — flag for review when that portion is submitted.
+
+SUMMARY: All verifiable factual claims and scholar attributions in this excerpt are accurate against the provided classical sources; no errors detected.

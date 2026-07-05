@@ -1,0 +1,37 @@
+Enhanced Validation Report
+File: content/tadabbur/045-al-jathiyah/ayah-001.md
+Ayah: 45:1
+Date: 2026-06-08T03:05:08
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: حمٓ=Ha Meem.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Al-Jalālayn, one of the most widely studied classical tafsīrs across fourteen centuries of Islamic scholarship" — Al-Jalalayn was compiled circa 1505 CE (al-Mahalli began it; al-Suyuti completed it), giving it a lifespan of approximately 520 years — not fourteen centuries. The phrasing implies a historical reach coterminous with Islam itself, overstating the tafsir's age by a factor of roughly 2.5. This is a factual error about a cited source, not a style choice.
+
+CONFIRMED ACCURATE:
+- Al-Jalalayn's quote rendered correctly: "Allāhu aʿlamu bi-murādihi bihi" matches the reference verbatim (الله أعلم بمراده به).
+- Al-Muyassar's position accurately described: the reference does redirect to the Baqarah discussion (سبق الكلام على الحروف المقطَّعة في أول سورة البقرة).
+- Al-Baghawī accurately described as noting Makkan status and moving forward (مكية، "حم").
+- The Hawamim group as surahs 40–46 is correct.
+- The "ʿarāʾis al-Qurʾān" narration attributed to Ibn Masʿūd is consistent with how classical compilers (al-Suyuti in al-Itqān, al-Zarkashi in al-Burhān) record it.
+- The four scholarly positions on the letters' meaning are presented as a survey with appropriate hedging ("the position is alive; it is not settled") — not stated as settled fact.
+- The specific abbreviation expansions (Ḥā = Ḥakīm, Mīm = Majīd) are offered under "on this reading" and immediately qualified with "no Quranic text confirms any specific expansion" — accurately represents the ikhtilāf.
+
+NOTE: The reference data (al-Qurtubi) records a minority position that one verse (45:14) was revealed in Madinah. The reflection says "Revealed in Makkah" without this qualification. This is an omission rather than an error — the majority position is Makkan — but a stricter reflection could note the ikhtilāf.
+
+SUMMARY: One genuine factual error about Al-Jalalayn's historical span; all tafsir quotes, scholarly attributions, and interpretive positions are accurately and honestly rendered.

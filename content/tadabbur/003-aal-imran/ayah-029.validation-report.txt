@@ -1,0 +1,42 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayah-029.md
+Ayah: 3:29
+Date: 2026-06-21T14:14:18
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: قُلْ=Say, | إِن=`Whether | تُخْفُواْ=you conceal | مَا=what | فِى=(is) in | صُدُورِكُمْ=your breasts | أَوْ=or | تُبْدُوهُ=you disclose it - | يَعْلَمْهُ ٱللَّهُ‌ۗ=Allah knows it. | وَيَعْلَمُ=And He knows | مَا=what | فِى=(is) in | ٱلسَّمَـٰوَٲتِ=the heavens | وَمَا=and what | فِى=(is) in | ٱلْأَرْضِ‌ۗ=the earth. | وَٱللَّهُ=And Allah | عَلَىٰ=(is) on | كُلِّ=every | شَىْءٍ=thing | قَدِيرٌ=All-Powerful.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No flaggable errors found in the portion provided.
+
+Specific checks performed:
+
+**Arabic text**: Matches the authentic Arabic exactly. ✓
+
+**Translation**: "conceal what is in your breasts / reveal it / Allah knows it" matches word-by-word reference precisely. ✓
+
+**Morphological claim — Form IV**: The reflection states both *tukhfū* and *tubdūhu* are Form IV (causative). This is accurate. تُخْفُوا is Form IV imperfect of أَخْفَى (root خ-ف-ي); تُبْدُوهُ is Form IV imperfect of أَبْدَى (root ب-د-و). The "bare form is intransitive / Form IV is causative" explanation holds for both roots. ✓
+
+**Passage context (3:28 → 3:29 continuity)**: Framing 3:29 as extending 3:28's warning on *muwalāt* (alliance with disbelievers) from outward behavior to inner inclination is directly supported by all four tafsir sources. Al-Jalalayn: *"من موالاتهم"* as the concealed content; Al-Muyassar: *"من ممالاة الكافرين ونصرتهم"*; Al-Baghawi: *"من مودة الكفار"*. ✓
+
+**Ṣudūr / qalb relationship**: The reflection uses "breasts/chest" for صُدُورِكُمْ without conflating it with قلب. Al-Jalalayn glosses *ṣudūr* as *qulūb* — the reflection respects this distinction by treating the chest as the antechamber of the heart rather than equating the two. ✓
+
+**No scholar attributions** are made in the visible text, so no inversion risk. ✓
+
+**One item I cannot verify from the provided data**: The claim "*khafiyy* — the deeply hidden, the subtle" (text truncated at "it ba—"). The root derivation is standard lexical fact (Lisān al-ʿArab), but I cannot evaluate the full sentence from the truncated submission.
+
+SUMMARY: The reflection's morphological analysis, contextual framing, and translation are all accurate and grounded in the tafsir sources provided; no critical or moderate errors appear in the evaluated text.

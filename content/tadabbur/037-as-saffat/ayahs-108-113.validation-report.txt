@@ -1,0 +1,38 @@
+Enhanced Validation Report
+File: content/tadabbur/037-as-saffat/ayahs-108-113.md
+Ayah: 37:108
+Date: 2026-06-05T09:38:43
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَتَرَكْنَا=And We left | عَلَيْهِ=for him | فِى=among | ٱلْأَخِرِينَ=the later generations.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: CRITICAL
+
+ISSUES:
+- [CRITICAL] Arabic text in frontmatter and opening display: `ٱلْأَخِرِينَ` — missing the alif after the hamza that produces the long vowel ākhirīn. Authentic reference gives `ٱلْءَاخِرِينَ` (standard Uthmani orthography for آخِرِينَ, "the later generations"). As written, `ٱلْأَخِرِينَ` omits the alif component entirely, rendering an incorrect form. This error appears in the displayed Arabic for both the frontmatter `arabic:` field and the opening verse display.
+
+- [PASS] "Al-Jalālayn: *thanā'an ḥasanā*" — verified; Jalālayn explicitly supplies «ثناءً حسنا» as the implied object.
+
+- [PASS] "Al-Baghawī: *thanā'an ḥasanā*" — verified; Baghawī: «تركنا له في الآخرين ثناء حسنا».
+
+- [PASS] "Al-Qurṭubī: *fa-mā min ummatin illā tuṣallī ʿalayhi wa tuḥibbuhu*" — verbatim match to provided Qurṭubī text: «فما من أمة إلا تصلي عليه وتحبه».
+
+- [PASS] Unspecified-object analysis (the verb reaches for a noun Allah does not supply) — all three tafsirs confirm this by supplying «ثناءً حسنا» as the missing object, validating the reflection's rhetorical observation.
+
+- [PASS] Root ت-ر-ك as Form I (*taraka, yatruku*) — correct.
+
+- [PASS] First-person plural of majesty for *taraknā* — standard grammatical characterization, uncontested.
+
+SUMMARY: The reflection's tafsir attributions, quotes, and linguistic analysis are all accurate against the provided reference data; the sole error is an Arabic text misspelling — `ٱلْأَخِرِينَ` for `ٱلْءَاخِرِينَ` — which must be corrected before publication.

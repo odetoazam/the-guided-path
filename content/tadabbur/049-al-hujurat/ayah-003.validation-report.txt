@@ -1,0 +1,37 @@
+Enhanced Validation Report
+File: content/tadabbur/049-al-hujurat/ayah-003.md
+Ayah: 49:3
+Date: 2026-06-08T18:04:13
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّ=Indeed, | ٱلَّذِينَ=those who | يَغُضُّونَ=lower | أَصْوَٲتَهُمْ=their voices | عِندَ=(in) presence | رَسُولِ ٱللَّهِ=(of the) Messenger of Allah - | أُوْلَـٰٓئِكَ=those, | ٱلَّذِينَ=(are) the ones | ٱمْتَحَنَ ٱللَّهُ=Allah has tested | قُلُوبَهُمْ=their hearts | لِلتَّقْوَىٰ‌ۚ=for righteousness. | لَهُم=For them | مَّغْفِرَةٌ=(is) forgiveness | وَأَجْرٌ=and a reward | عَظِيمٌ=great.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+
+- [MODERATE] "why does the word Allah chooses for testing carry with it, in the oldest layers of the Arabic language, the image of a goldsmith's fire?" — This claim is previewed as a hook to be developed later in the reflection. The root م-ح-ن (imtaḥana) in classical Arabic means to test/examine/try — the tafsir sources provided all gloss it with اختبر (al-Jalalayn, al-Muyassar, al-Qurtubi). The metal-purification / goldsmith-fire imagery in Arabic lexicography attaches more precisely to the root م-ح-ص (*maḥṣ* = to purify silver from dross, to cleanse metal), not م-ح-ن. If the developed text conflates these two roots to build the goldsmith metaphor, that would be a lexical error. The Mufradāt al-Rāghib is referenced in the comment block but not provided — this specific claim requires verification against that source before publishing.
+
+- [PASS] Thābit ibn Qays narrative attributed to Anas via al-Baghawī: the provided al-Baghawī excerpt confirms verbatim — *"قال أنس : فكنا ننظر إلى رجل من أهل الجنة يمشي بين أيدينا"* and the Yamāma martyrdom. Attribution is accurate.
+
+- [PASS] يَغُضُّونَ analyzed as "to lower/restrain" — consistent with al-Qurtubi (*يخفضون*) and al-Muyassar (*يخفضون*); the doubled dādd phonaesthetic reading is rhetorical framing, not a scholarly claim requiring citation.
+
+- [PASS] Form VIII identification of امتحن (افتعل from م-ح-ن) as intensive rather than causative — morphologically correct; Form IV (أفعل) would be causative, not Form VIII.
+
+- [PASS] Cross-reference to 24:30–31 for the غ-ض-ض root applied to the gaze — accurate; same root, correctly paralleled.
+
+- [NOTE] "The dād is unique to Arabic among all the world's languages" — this is a traditional Islamic cultural assertion (*لغة الضاد*), not a Quranic content claim. Modern linguistics would dispute "unique," but it is conventional in classical pedagogy. Not flagged as an error in this validation context.
+
+SUMMARY: The reflection is substantially accurate; the one issue requiring resolution before publication is whether the goldsmith-fire imagery in the امتحن development (teased but not yet stated) rests on م-ح-ن itself or silently borrows from م-ح-ص — verify in Mufradāt al-Rāghib or Lisān al-ʿArab before the full text goes live.

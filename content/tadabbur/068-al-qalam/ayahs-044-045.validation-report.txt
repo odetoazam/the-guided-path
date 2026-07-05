@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/068-al-qalam/ayahs-044-045.md
+Ayah: 68:44
+Date: 2026-06-13T14:56:15
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَذَرْنِى=So leave Me | وَمَن=and whoever | يُكَذِّبُ=denies | بِهَـٰذَا=this | ٱلْحَدِيثِ‌ۖ=Statement, | سَنَسْتَدْرِجُهُم=We will progressively lead them | مِّنْ=from | حَيْثُ=where | لَا=not | يَعْلَمُونَ=they know.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No flaggable errors found in the portion reviewed.
+
+Supporting confirmations:
+- **mafʿūl maʿah claim, attributed to al-Qurṭubī**: "al-Qurṭubī names this directly" — confirmed verbatim: "من مفعول معه أو معطوف على ضمير المتكلم." Attribution precise.
+- **al-Zajjāj quotation via al-Baghawī**: "لا تشغل قلبك بهم... فإني أكفيكهم... ذرني وإياه" — reflection's paraphrase ("Do not busy your heart with them. Entrust them to Me... I am enough for you") matches the Baghawī text accurately. Attribution chain (al-Zajjāj → al-Baghawī) is correct.
+- **Root و-ذ-ر for فَذَرْنِي**: Correct. The defective wāw drops in conjugation; ذَرْ as imperative from this root is standard.
+- **سَنَسْتَدْرِجُهُم as graduated, step-by-step drawing**: Confirmed by Jalālayn ("نأخذهم قليلا قليلا") and word-by-word reference ("We will progressively lead them").
+- **Translation "this statement" for ٱلْحَدِيثِ**: Literal and defensible. Jalālayn and al-Muyassar gloss it as "القرآن" — the reflection does not claim otherwise, so no overstatement.
+- **Ayah 45 translation "My plan is firm" for كَيْدِي مَتِينٌ**: al-Muyassar confirms "قويٌّ شديد"; مَتِين lexically means firm/solid/strong. PASS.
+
+SUMMARY: The scholarly claims in this reflection are precisely grounded — the grammatical analysis, tafsir attributions, and root derivations all check out against the supplied reference data with no inversions or fabrications.

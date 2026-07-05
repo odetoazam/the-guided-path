@@ -1,0 +1,38 @@
+Enhanced Validation Report
+File: content/tadabbur/070-al-maarij/ayah-028.md
+Ayah: 70:28
+Date: 2026-06-15T02:57:38
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّ=Indeed, | عَذَابَ=(the) punishment | رَبِّهِمْ=(of) your Lord | غَيْرُ=(is) not | مَأْمُونٍ=to be felt secure (of) -
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No CRITICAL or MODERATE errors identified.
+
+**Morphology**: The claim that "مَأْمُونٍ is the passive participle (ism mafʿūl) of root أ-م-ن" is correct. The word-by-word reference confirms the root, and the ism mafʿūl derivation (on the pattern مَفْعُول) is standard Arabic grammar.
+
+**Root family claim** ("Īmān and Muʾmin are also built from it"): Fully attested — amn, iman, muʾmin, amanah all trace to أ-م-ن. Uncontroversial in classical lexicography.
+
+**Nominal sentence claim** ("all four content words are nouns; no finite verbs"): Accurate. إِنَّ + إسم + خبر structure; مَأْمُونٍ is a participial noun, not a finite verb.
+
+**Rhetorical frame (litotes / negation of amn rather than assertion of khawf)**: This is an interpretive linguistic observation, not contradicted by any provided tafsir. The Qurtubi explicitly supports the universal application: *"لا يأمنه أحد, بل الواجب على كل أحد أن يخافه ويشفق منه"* — aligning squarely with the reflection's core argument that the verse dismantles assumed security.
+
+**Contextual embedding** (halūʿan at 70:19, ransom passage at 70:11–14, al-musallīn list from 70:22 with verse 27 on ishfāq): All accurate.
+
+**Note on reference data**: The word-by-word gloss reads "رَبِّهِمْ = (of) your Lord" — this is an error in the supplied reference. The suffix هِمْ is third-person plural ("their"), not second-person ("your"). The reflection correctly uses "their Lord" throughout; no fault attaches to the content being validated.
+
+SUMMARY: The reflection is morphologically precise, theologically grounded in what the provided classical sources affirm, and its central rhetorical argument (negation of amn as more penetrating than assertion of khawf) is consistent with the Qurtubi reading — no errors warrant flagging.

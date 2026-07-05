@@ -1,0 +1,42 @@
+Enhanced Validation Report
+File: content/tadabbur/096-al-alaq/ayahs-006-008.md
+Ayah: 96:6
+Date: 2026-06-18T20:50:37
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: كَلَّآ=Nay! | إِنَّ=Indeed, | ٱلْإِنسَـٰنَ=man | لَيَطْغَىٰٓ=surely transgresses,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No genuine errors found. All checkable claims verify against the reference data.
+
+**Spot-checks performed:**
+
+1. **Al-Baghawi quotation** — Reflection renders "li-yatajāwaza ḥaddahu wa yastakbira ʿalā Rabbihi." Reference data: «ليتجاوز حده ويستكبر على ربه». **Exact match. ✓**
+
+2. **Al-Muyassar citation** — Reflection renders "yatajāwazu ḥudūda-llāh." Reference data: «يتجاوز حدود الله إذا أبطره الغنى». **Accurate; the reflection correctly drops the conditional clause without misrepresenting it. ✓**
+
+3. **Qurtubi — occasion of revelation** — Reflection says "a tyrant who tried to forbid the Prophet ﷺ from praying." Reference data: «نزل في أبي جهل … نهى النبي عن الصلاة». **Accurate paraphrase; Abu Jahl unnamed but the substance is correct. ✓**
+
+4. **69:11 cross-reference** — Reflection quotes «lammā ṭaghā-l-māʾu ḥamalnākum fī-l-jāriyah». Quranic text of 69:11: إِنَّا لَمَّا طَغَا الْمَاءُ حَمَلْنَاكُمْ فِي الْجَارِيَةِ. **Accurate. ✓**
+
+5. **Root ط-غ-ي** — Reflection cites Leeds Corpus for this root label in its frontmatter. The Leeds/Quranic Arabic Corpus does list this imperfect verb under Ṭgy. Classical dictionaries (Lane's Lexicon) list it under ṭghw, but both forms are acknowledged in the tradition. The frontmatter explicitly notes Leeds Corpus as the source; the claim is internally consistent and not a fabrication. **Not flagged as an error.**
+
+6. **Lām al-tawkīd observation** — "This is the *lām of emphasis*, paired with *inna*." Standard Arabic grammar; the construction *inna … la-* is the canonical double-emphasis form. **Correct. ✓**
+
+7. **Lisān al-ʿArab on ṭaghā al-māʾ** — Cannot verify verbatim from reference data provided, but the Quranic witness (69:11) independently confirms the flood/overflow image, so the claim is corroborated rather than a bare assertion.
+
+SUMMARY: Every verifiable claim — tafsir quotations, occasion of revelation, Quranic cross-reference, and grammatical analysis — checks out against the supplied reference data; the reflection is accurate and well-grounded.

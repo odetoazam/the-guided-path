@@ -1,0 +1,37 @@
+Enhanced Validation Report
+File: content/tadabbur/034-saba/ayah-044.md
+Ayah: 34:44
+Date: 2026-05-18T03:02:26
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَمَآ=And not | ءَاتَيْنَـٰهُم=We (had) given them | مِّن=any | كُتُبٍ=Scriptures | يَدْرُسُونَهَاۖ=which they could study, | وَمَآ=and not | أَرْسَلْنَآ=We sent | إِلَيْهِمْ=to them | قَبْلَكَ=before you | مِن=any | نَّذِيرٍ=warner.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+
+- [MODERATE] "He contrasts their position with the People of the Book, who could at least claim — however incorrectly — 'our tradition says otherwise.'" — The Qurtubi text reads: *فليس لتكذيبهم وجه يتشبث به ولا شبهة متعلق ; كما يقول أهل الكتاب* — Qurtubi establishes the contrast (Makkans lack even what Ahl al-Kitāb possess) but does not characterize the People of the Book's position as "incorrect." The parenthetical "however incorrectly" is the author's own editorial judgment, yet it is embedded within the Qurtubi attribution in a way that implies Qurtubi himself rendered that verdict. Readers will take this as Qurtubi's framing when it is the author's gloss.
+
+- [UNVERIFIABLE from provided data] "*Darasa* is the verb used for grain being threshed. You spread grain on the ground and walk on it repeatedly, back and forth" — The grain-threshing etymology for *d-r-s* is plausible and does appear in classical Arabic lexicography; the claim to Lisān al-ʿArab and Mufradāt al-Rāghib is linguistically credible. However, the specific mechanism described ("you spread grain and walk on it") conflates the human actor with what classical sources typically describe as animals treading the grain. This cannot be confirmed or refuted from the reference data provided — flag for manual lexicon check before publishing.
+
+WHAT HOLDS:
+- Arabic text matches authentic text (diacritical variants only, no errors)
+- Translation is accurate
+- *يَدْرُسُونَهَا* as imperfect/ongoing is grammatically correct
+- The "double absence" structure (no scriptures + no warner) is precisely the content of all four tafsir sources
+- The "verdict without witness" framing is consistent with Qurtubi's *لا شبهة متعلق*
+- Al-Baghawi's specification that no prophet came to the Arabs before the Prophet ﷺ supports the historical claim in the reflection
+
+SUMMARY: One MODERATE attribution issue — the "however incorrectly" judgment about Ahl al-Kitāb is the author's addition, not Qurtubi's — plus one unverifiable etymological detail; the core theology and tafsir citations hold.

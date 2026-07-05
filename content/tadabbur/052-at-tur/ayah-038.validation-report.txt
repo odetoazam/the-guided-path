@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/052-at-tur/ayah-038.md
+Ayah: 52:38
+Date: 2026-06-09T15:16:26
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَمْ=Or | لَهُمْ=for them | سُلَّمٌ=(is) a stairway, | يَسْتَمِعُونَ=they listen | فِيهِ‌ۖ=therewith? | فَلْيَأْتِ=Then let bring, | مُسْتَمِعُهُم=their listener, | بِسُلْطَـٰنٍ=an authority | مُّبِينٍ=clear.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: CRITICAL
+
+ISSUES:
+- [CRITICAL] HTML comment: "Form VIII for smE" — يَسْتَمِعُونَ / مُسْتَمِع derives from root س-م-ع via **Form X** (اِسْتَفْعَلَ → اِسْتَمَعَ → يَسْتَمِعُونَ; active participle مُسْتَفْعِل → مُسْتَمِع), not Form VIII (اِفْتَعَلَ, which would theoretically yield اِسْمَتَعَ — a non-existent form). The note `<!-- ... Form VIII for smE ... -->` is morphologically incorrect. Since Part 2 of the reflection is titled "يَسْتَمِعُونَ … مُسْتَمِعُهُم" and the body cuts off before its analysis, this mislabeling is positioned to propagate into the published text.
+
+VERIFIED ACCURATE (body text that is present):
+- **مِرْقَى وَمَصْعَد** attributed to Baghawi and Jalalayn — confirmed verbatim in both sources.
+- **al-Sullam = singular of al-Salālim** attributed to al-Qurtubi — confirmed: "والسلم واحد السلالم التي يرتقى عليها."
+- **al-Muyassar naming al-waḥy as the unstated object of listening** — confirmed: "يستمعون فيه الوحي."
+- Indefinite سُلَّمٌ as hypothetical/open framing — linguistically sound; all four tafsirs treat it as a suppositional challenge.
+- "Form IV for byn" in the same comment — correct; مُبِين is the Form IV active participle (أَبَانَ → مُفْعِل).
+
+SUMMARY: The body text is well-grounded against all four tafsir sources, but the morphology metadata comment misidentifies يَسْتَمِعُونَ as Form VIII when it is Form X — a verb-form error that must be corrected before Part 2 is drafted.

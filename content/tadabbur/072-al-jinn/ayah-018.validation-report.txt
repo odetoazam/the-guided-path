@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/072-al-jinn/ayah-018.md
+Ayah: 72:18
+Date: 2026-06-15T09:29:27
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَأَنَّ=And that | ٱلْمَسَـٰجِدَ=the masajid | لِلَّهِ=(are) for Allah, | فَلَا=so (do) not | تَدْعُواْ=call | مَعَ=with | ٱللَّهِ=Allah | أَحَدًا=anyone.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No errors found against the provided reference data.
+
+Supporting observations (not errors, but notes for completeness):
+
+- [PASS] Root **س-ج-د (s-j-d)** and the *ism makān* analysis of *masājid* are lexically correct and align with how Al-Jalalayn and Al-Baghawi gloss the word ("مواضع الصلاة" / "المواضع التي بنيت للصلاة").
+- [PASS] The claim that the earth as a whole is a *masjid* is attributed to the Prophet ﷺ via a well-known hadith (Bukhari 438, Muslim 521) and is explicitly supported by Al-Hasan al-Basri's position in Al-Baghawi: "أراد بها البقاع كلها لأن الأرض جعلت كلها مسجداً."
+- [PASS] The *aḥad* / *al-Aḥad* connection to 112:1 is hedged as "almost the same word" — an appropriate qualifier since the ayah uses the indefinite accusative *aḥadān* versus the nominative *Aḥadun* in 112. The underlying lexical observation is sound.
+- [PASS] The translation "the places of prostration belong to Allah, so do not call upon anyone alongside Allah" matches the word-by-word data.
+- [PASS] The quote of 72:6 and its attribution to the jinn's self-testimony are accurate to the surah text.
+- [NOTE] The classical context that the prohibition mirrors what Jews and Christians did in their synagogues and churches (cited in both Al-Jalalayn and Al-Baghawi via Qatadah) is not mentioned. This is an omission, not an error — tadabbur is not obligated to cover every tafsir point — but a future revision could enrich the historical frounding.
+
+SUMMARY: All verifiable linguistic, hadith, and contextual claims in this reflection are accurate and grounded in classical sources; no factual or attribution errors were found.

@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/049-al-hujurat/ayah-009.md
+Ayah: 49:9
+Date: 2026-06-08T17:42:26
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَإِن=And if | طَآئِفَتَانِ=two parties | مِنَ=among | ٱلْمُؤْمِنِينَ=the believers | ٱقْتَتَلُواْ=fight, | فَأَصْلِحُواْ=then make peace | بَيْنَهُمَا‌ۖ=between both of them. | فَإِنۢ=But if | بَغَتْ=oppresses | إِحْدَٮٰهُمَا=one of them | عَلَى=on | ٱلْأُخْرَىٰ=the other, | فَقَـٰتِلُواْ=then fight | ٱلَّتِى=one which | تَبْغِى=oppresses | حَتَّىٰ=until | تَفِىٓءَ=it returns | إِلَىٰٓ=to | أَمْرِ=(the) command | ٱللَّهِ‌ۚ=(of) Allah. | فَإِن=Then if | فَآءَتْ=it returns, | فَأَصْلِحُواْ=then make peace | بَيْنَهُمَا=between them | بِٱلْعَدْلِ=with justice, | وَأَقْسِطُوٓاْ‌ۖ=and act justly. | إِنَّ=Indeed, | ٱللَّهَ=Allah | يُحِبُّ=loves | ٱلْمُقْسِطِينَ=those who act justly.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR/NOTE] "one of them is reported in al-Bukhārī through Anas ibn Mālik" — The reference data (al-Baghawi) confirms a chain through Anas ibn Mālik that includes "Muhammad ibn Ismail" (= al-Bukhārī), but the excerpt provided appears to introduce a separate incident (the Prophet being invited to visit Ibn Ubayy), not the donkey/urination scene. Al-Jalālayn presents the donkey incident without naming the chain. The Bukhārī attribution for *this specific incident* cannot be confirmed from the reference data provided — though it is hedged appropriately with "among the narrations... one of them." Not a flag, but verify the isnād before publication.
+- [MINOR/NOTE] "It means **come home**" — presented as a definitional statement about *tafīʾa*. The word-by-word reference gives the root فيء as "returns/it returns," and al-Muyassar renders it as رجعت إلى حكم الله. "Come home" is a legitimate and evocative literary rendering, but the text frames it as the word's meaning rather than an interpretive enrichment. Acceptable as rhetorical preview for the linguistic-journey section; would only be a problem if stated as the lexical definition without clarification.
+- [CONFIRMED ACCURATE] The dual/plural grammar shift (*ṭāʾifatān* → *iqtatalū* → *baynahumā*) and the attribution of its explanation to al-Jalālayn — confirmed verbatim: **"اقتتلوا جمع نظرا إلى المعنى لأن كل طائفة جماعة"** — precise and correctly cited.
+- [CONFIRMED ACCURATE] Morphological forms in the header note (Form VIII *iqtatalū*, Form III *qātilū*, Form IV *aṣliḥū/aqsiṭū/yuḥibbu*) — all correct against the Quranic Arabic Corpus.
+- [CONFIRMED ACCURATE] The asbab detail — "hands, sandals, palm branches" — matches al-Jalālayn exactly: **"ضرب بالأيدي والنعال والسعف"**.
+- [CONFIRMED ACCURATE] 49:10 as "The believers are but brothers" — correct quotation and contextual framing.
+
+SUMMARY: The reflection is linguistically rigorous and scholarly claims are either confirmed by the reference data or appropriately hedged — the one area to verify before publication is the specific isnād for the Bukhārī attribution of the donkey incident.

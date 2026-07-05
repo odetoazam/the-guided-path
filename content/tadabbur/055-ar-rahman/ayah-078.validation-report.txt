@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/055-ar-rahman/ayah-078.md
+Ayah: 55:78
+Date: 2026-06-12T00:14:24
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: تَبَـٰرَكَ=Blessed is | ٱسْمُ=(the) name | رَبِّكَ=(of) your Lord, | ذِى=Owner | ٱلْجَلَـٰلِ=(of) Majesty | وَٱلْإِكْرَامِ=and Honor.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "al-Qurṭubī, opening this very verse, pauses to note: *tabāraka* — it is *tafāʿul min al-barakah*, the Form VI built on blessing." — Confirmed verbatim in the Qurtubi source: «تبارك تفاعل من البركة وقد تقدم». Attribution and quotation are accurate.
+- [PASS] "al-Muyassar reaches for the only words that can carry it: *takātharat barakatu-smi rabbik*... *wa kathura khayruh*" — Confirmed verbatim in the Muyassar source: «تكاثرت بركة اسم ربك وكثر خيره». Accurate quotation and translation.
+- [PASS] "تَبَارَكَ Form VI (brk)" — Correct. Qurtubi's confirmation of *tafāʿul* pattern (Form VI masdar) validates the verb form identification.
+- [PASS] Form VI described as "back and forth, mutually, between parties" used to derive "continuous, multiplying, overflowing" for *tabāraka* — This is a pedagogical simplification (Form VI's reciprocal sense is its primary but not exclusive function), but the reflection does not claim تَبَارَكَ means "back and forth between parties." It uses that frame to arrive at "overflowing/inexhaustible," which aligns with both Muyassar's *takātharat* and Qurtubi's gloss. The final characterization is lexically defensible.
+- [PASS] "thirty-one times" for the refrain — Correct; the refrain فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ occurs 31 times in Surah Ar-Rahman, well-documented.
+- [PASS] Translation "Owner of Majesty and Honor" for ذِى ٱلْجَلَـٰلِ وَٱلْإِكْرَامِ — Matches word-by-word reference exactly.
+
+SUMMARY: All verifiable claims in the submitted section are accurate and properly grounded in the provided tafsir sources; no factual, morphological, or attribution errors detected.

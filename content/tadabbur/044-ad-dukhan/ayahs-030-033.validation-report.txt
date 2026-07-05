@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/044-ad-dukhan/ayahs-030-033.md
+Ayah: 44:30
+Date: 2026-06-08T00:44:52
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَلَقَدْ=And certainly, | نَجَّيْنَا=We saved | بَنِىٓ إِسْرَٲٓءِيلَ=(the) Children of Israel | مِنَ=from | ٱلْعَذَابِ=the punishment | ٱلْمُهِينِ=the humiliating,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] Arabic text for ayah 30 matches the authentic source exactly: وَلَقَدْ نَجَّيْنَا بَنِىٓ إِسْرَٰٓءِيلَ مِنَ ٱلْعَذَابِ ٱلْمُهِينِ ✓
+- [PASS] "قتل الأبناء ... واستخدام النساء" — the reflection's "sons slaughtered. Women kept alive for service" maps precisely to all four tafsir sources (Jalalayn, Muyassar, Qurtubi, Baghawi) ✓
+- [PASS] Root **ن-ج-و** (n-j-w) is correct for *najjaynā* ✓
+- [PASS] Form II morphology: "the doubled letter in the middle, the *jīm* struck twice" — the shadda on ج in نَجَّيْنَا is the visible Form II marker; doubling is on the medial root letter, not an adjacent consonant ✓
+- [PASS] Form I *najā* = "to escape / get away safe" vs Form II *najjā* = causative "to deliver, rescue" — both meanings are lexically attested in Lisān al-ʿArab and the distinction drawn is accurate ✓
+- [PASS] The *muhīn* / *alīm* contrast — Muyassar glosses المهين as "المُذلِّ لهم" (the one that degrades/humiliates them), confirming that the word carries a specific dignity-stripping valence beyond mere pain; the reflection's rhetorical development of this distinction does not overstate the lexical record ✓
+- [PASS] Ha-Mim surahs = Surahs 40–46 — accurate, all seven open with حم ✓
+- [PASS] Pharaoh's claim "I am your lord, the most high" — accurate reference to 79:24, well within Quranic record ✓
+- [PASS] Surah structure claim: "these four verses close the Pharaoh narrative" — correct; 44:17–29 narrate the Pharaoh episode, 30–33 deliver the resolution before the surah pivots to Quraysh ✓
+
+SUMMARY: Every verifiable morphological, lexical, tafsir, and structural claim in the excerpt is accurate; no errors found in the 8,000 characters reviewed.

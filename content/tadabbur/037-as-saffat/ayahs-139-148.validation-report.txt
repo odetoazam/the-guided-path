@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/037-as-saffat/ayahs-139-148.md
+Ayah: 37:139
+Date: 2026-06-05T09:52:22
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَإِنَّ=And indeed, | يُونُسَ=Yunus | لَمِنَ=(was) surely of | ٱلْمُرْسَلِينَ=the Messengers.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE — NOT AN ERROR] The central thesis of this reflection — that أَبَقَ is the specific verb for a slave absconding from a master — is a lexical claim attributed to Lisān al-ʿArab and Mufradāt al-Rāghib. This is accurate per classical Arabic morphology, but the provided tafsir data covers only 37:139 and says nothing about 37:140. I cannot confirm or deny this from the supplied reference data. The reflection correctly attributes the claim to classical lexicons rather than asserting it as tafsir consensus, which is the appropriate framing.
+- [NOTE — NOT AN ERROR] The ar.muyassar describes Yunus as "هرب من بلده غاضبًا على قومه" (fled from his town angry at his people). The reflection characterizes him as "reaching the end of his patience with a people who would not listen." These are consistent; the reflection does not overstate.
+- [NOTE — SCOPE] The reference data supplied covers ayah 139 only. The reflection's structurally significant claims (أَبَقَ as slave-verb, the counterfactual grammar of 37:143 implying pre-existing tasbih, the lots) all fall in ayahs 140–143, which have no reference data provided. Those claims cannot be validated here — not because they appear wrong, but because the data is absent.
+
+What IS verifiable against the provided data:
+- Arabic text of 37:139: matches exactly ✓
+- Yunus confirmed as messenger by all four sources ✓
+- Contextual claim that he fled angry at his people: consistent with ar.muyassar ✓
+- Structural observation that As-Saffat presents Yunus after a sequence of other prophets: consistent with surah order and ar.qurtubi's chronological note about Ilyas preceding Yunus ✓
+
+SUMMARY: Every claim checkable against the supplied reference data is accurate; the central linguistic thesis about أَبَقَ cannot be validated or refuted from the data provided — expand the reference data to ayahs 140–143 for a complete pass.

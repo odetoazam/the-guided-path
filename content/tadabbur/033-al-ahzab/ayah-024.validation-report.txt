@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/033-al-ahzab/ayah-024.md
+Ayah: 33:24
+Date: 2026-05-15T03:46:21
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: لِّيَجْزِىَ ٱللَّهُ=That Allah may reward | ٱلصَّـٰدِقِينَ=the truthful | بِصِدْقِهِمْ=for their truth | وَيُعَذِّبَ=and punish | ٱلْمُنَـٰفِقِينَ=the hypocrites | إِن=if | شَآءَ=He wills | أَوْ=or | يَتُوبَ=turn in mercy | عَلَيْهِمْ‌ۚ=to them. | إِنَّ=Indeed, | ٱللَّهَ=Allah | كَانَ=is | غَفُورًا=Oft-Forgiving, | رَّحِيمًا=Most Merciful.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE] "Twenty-seven days" — the exact siege duration is seerah detail not verifiable from the four tafsir sources provided. Traditional sources vary (roughly 20–30 days); the figure is plausible but cannot be confirmed from the reference data given. Not an error, but an unverifiable claim against these sources specifically.
+- [NOTE] "Anas ibn al-Naḍr, who had missed Badr and grieved over it, walking toward the enemy and saying, 'By Allah, I find the fragrance of Jannah on the other side of Uḥud' — that same spirit was here" — Anas ibn al-Naḍr's famous statement is from Uḥud (where he was martyred), not the Trench. The reflection does not claim otherwise — "that same spirit was here" clearly marks it as analogical. The phrasing is defensible as type-character rhetoric, not misattribution. No error.
+
+All verifiable claims check out:
+
+- **lām al-taʿlīl**: grammatically correct; Al-Qurtubi explicitly reads the opening lām as purposive ("أمر الله بالجهاد ليجزي الصادقين").
+- **bā' al-sababiyyah on بِصِدْقِهِمْ**: sound; word-by-word confirms "for their truth" (causal-instrumental reading). Root repetition ṣ-d-q in both الصادقين and بصدقهم is accurate.
+- **Asymmetry claim** (reward for truthful unconditional; punishment for hypocrites conditional): directly supported by all four tafsir sources. Al-Jalalayn: punishment is conditioned on dying in hypocrisy ("إن شاء"); Al-Muyassar and Al-Qurtubi confirm the "or He turns to them" alternative is divine enabling of tawbah. The textual observation is precise.
+- **Baghawi's gloss on sidq**: "الوفاء بالعهد" (fulfilling the covenant) — the reflection's framing of the truthful as those who held their pledge at the trench is consistent.
+- Arabic text, transliteration, and translation all match the reference data.
+
+SUMMARY: The reflection is linguistically precise, tafsir-grounded, and interpretively honest — the asymmetry analysis is novel as *tadabbur* framing but is a legitimate textual observation supported by the classical sources.

@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/051-adh-dhariyat/ayah-055.md
+Ayah: 51:55
+Date: 2026-06-09T01:30:25
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَذَكِّرْ=And remind, | فَإِنَّ=for indeed, | ٱلذِّكْرَىٰ=the reminder | تَنفَعُ=benefits | ٱلْمُؤْمِنِينَ=the believers.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "It is **Form II** — *dhakkara* — built by doubling the middle consonant, the *kāf*" — Correct. وَذَكِّرْ carries the shadda on كَ (the middle root letter of ذ-ك-ر), confirming Form II. The derivation from *dhakara* → *dhakkara* is accurate.
+- [PASS] "the reminder *benefits the believers* specifically" — Confirmed by all four tafsir sources. Al-Qurtubi is explicit: "خص المؤمنين; لأنهم المنتفعون بها" (the believers are singled out because they are the ones who benefit). No overclaim.
+- [PASS] "every soul answered: *Balā* — 'Yes, we testify' (7:172)" — Accurate citation of the Covenant of Alast. The reflection introduces this as an interpretive cross-reference ("The Quran answers this elsewhere"), not as a claim sourced from the provided tafsirs. The fitra-dhikrā connection is well-established in classical Islamic theology; the text does not present it as what the tafsir sources say about 51:55 specifically.
+- [PASS] Contextual framing of 51:54 ("So turn away from them, for you are not to be blamed") and 51:56 — verified accurate sequencing.
+- [PASS] The reflection's characterization of Form II as carrying "doing it again and again, thoroughly, with effort" is a pedagogical simplification of the intensification meaning; not a morphological error.
+- [NOTE] Al-Jalalayn's reading — "من علم اللهُ تعالى أنه يؤمن" (those whom Allah knew would believe) — subtly limits the beneficiaries to those foreknown for iman. The reflection doesn't address this predestination nuance, but it also doesn't contradict it. Non-flaggable in a non-theological deep-dive.
+
+SUMMARY: All linguistic, morphological, and contextual claims in the provided portion are accurate and consistent with the classical tafsir sources; the fitra interpretive extension is well-grounded and correctly attributed to Quranic cross-reference rather than to these specific tafsirs.

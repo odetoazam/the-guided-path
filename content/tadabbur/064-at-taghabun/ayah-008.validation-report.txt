@@ -1,0 +1,46 @@
+Enhanced Validation Report
+File: content/tadabbur/064-at-taghabun/ayah-008.md
+Ayah: 64:8
+Date: 2026-06-13T10:20:47
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَـَٔـامِنُواْ=So believe | بِٱللَّهِ=in Allah | وَرَسُولِهِۦ=and His Messenger | وَٱلنُّورِ=and the Light | ٱلَّذِىٓ=which | أَنزَلْنَا‌ۚ=We have sent down. | وَٱللَّهُ=And Allah, | بِمَا=of what | تَعْمَلُونَ=you do, | خَبِيرٌ=(is) All-Aware.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- None identified in the portion provided (first 8,000 characters).
+
+Specific checks performed against the reference data:
+
+**Al-Qurtubi attribution** — The reflection quotes: *"nūrun yuhtadā bihi min ẓulmati-ḍ-ḍalāl"* and translates it as "a light by which one is guided out of the darkness of misguidance." The provided Qurtubi text reads: `وهو نور يهتدى به من ظلمة الضلال` — the transliteration and translation are exact. No distortion.
+
+**Al-Baghawi** — Reflection: "*al-nūr* is the Quran." Baghawi text: `وهو القرآن` — confirmed.
+
+**Al-Jalalayn** — Reflection: "*al-nūr* is the Quran." Jalalayn text: `«والنور» القرآن «الذي أنزلنا»` — confirmed.
+
+**Al-Muyassar** — Reflection: "be guided by the Quran." Muyassar text: `واهتدوا بالقرآن الذي أنزله على رسوله` — confirmed.
+
+**"Unanimous" claim** — The reflection states "the classical commentators are unanimous on the referent." All four provided sources identify *al-nūr* as the Quran. The claim is accurate for the sources cited.
+
+**Fa- as consequential connector** — Linguistically correct; the fa- here is fa-l-fasīha (the consequential fa), standard Arabic grammar.
+
+**Interpretive framing ("light = seeing vs. persuasion")** — This is an extension of the light metaphor, clearly presented as reflective invitation ("Here is what this invites us to consider"), not as a documented scholarly position. It does not overstate any source.
+
+**Arabic text** — The body-text Arabic matches the authentic text in meaning and diacritics; the minor script simplification (standard non-Uthmanic rendering) is conventional in modern publications and not an error.
+
+The text cuts off before Element Two (the iltifāt / "We" shift) is developed — cannot validate that section.
+
+SUMMARY: All direct tafsir attributions and Arabic quotations in the validated portion check out exactly against the provided reference data; interpretive extensions are clearly flagged as such and are grounded in the classical metaphor.

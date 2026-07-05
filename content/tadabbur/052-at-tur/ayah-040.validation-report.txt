@@ -1,0 +1,42 @@
+Enhanced Validation Report
+File: content/tadabbur/052-at-tur/ayah-040.md
+Ayah: 52:40
+Date: 2026-06-09T17:29:51
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَمْ=Or | تَسْــَٔلُهُمْ=(do) you ask from them | أَجْرًا=a payment, | فَهُم=so they | مِّن=from | مَّغْرَمٍ=a debt | مُّثْقَلُونَ=(are) overburdened.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate errors found in the visible text.
+
+Specific checks performed:
+
+**Arabic & Translation** — Frontmatter Arabic matches the authentic text (tajweed marks ۭ/ۢ absent but these are recitation diacritics, not text errors). Translation "weighed down by debt" maps cleanly onto the word-by-word (maghramin = debt, muthqalūn = overburdened). Accurate.
+
+**Root analysis (ʾ-j-r)** — Root identified correctly as hamza-jīm-rā. The claim that *ajr* carries both "wage paid" and "divine reward" senses is attested throughout the Quran (ajrun ʿaẓīm, ajrun karīm, ajrun ghayr mamnūn are all real Quranic expressions). Accurate.
+
+**Indefinite noun argument** — "Not *al-ajr* — just *ajran*" — the tanwīn on أَجْرًا confirms indefiniteness. The exegetical move (widest possible net: any payment at all) matches Baghawi's phrasing "jaʿlan ʿalā mā jiʾtahum bihi" and Qurtubi's "ʿalā tablīgh al-risāla." Accurate.
+
+**Morphological metadata** — muthqalūn as passive participle of Form IV athqala (root ث-ق-ل) is correct: Form IV → أثقل → passive participle مُثْقَل, plural مُثْقَلُون = those who have been burdened. Accurate.
+
+**Am munqaṭiʿa framing** — The grammatical term is legitimate classical Arabic grammar. The disjunctive/severing function described ("closes a door, severs the previous possibility") is standard treatment in Arabic grammar. The cascade structure (52:35–43) is real and all three example verses (Am khuliqū, Am khalaqū al-samāwāti, Am ʿindahum khazāʾinu rabbik) transliterate correctly to 52:35–37. Accurate.
+
+**Central thesis** — All four tafsir sources (Jalalayn, Muyassar, Qurtubi, Baghawi) explicitly frame the ayah as a rhetorical question establishing the Prophet ﷺ asked no payment for conveying the message. The reflection's thesis is fully grounded.
+
+**One note (not an error):** The reflection hedges "seventh or eighth *am* in a row" — verse 40 is the sixth in the series beginning at 52:35. The hedge ("or") prevents a hard factual error, but a future revision could sharpen this to "sixth."
+
+SUMMARY: The visible portion of this reflection is linguistically precise, morphologically accurate, and fully supported by all four provided tafsir sources — no errors to flag.

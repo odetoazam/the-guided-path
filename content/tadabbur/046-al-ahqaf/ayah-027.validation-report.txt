@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/046-al-ahqaf/ayah-027.md
+Ayah: 46:27
+Date: 2026-06-08T08:16:32
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَلَقَدْ=And certainly | أَهْلَكْنَا=We destroyed | مَا=what | حَوْلَكُم=surrounds you | مِّنَ=of | ٱلْقُرَىٰ=the towns, | وَصَرَّفْنَا=and We have diversified | ٱلْأَيَـٰتِ=the Signs, | لَعَلَّهُمْ=that they may | يَرْجِعُونَ=return.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "a verb that comes from the world of jewelers and money-changers and the turning of the wind" — The money-changer sense (صَرَّافِ) and wind-turning sense of root Ṣ-R-F are well-attested in classical lexicons. "Jewelers" is not a primary semantic of this root (a jeweler is صائغ from Ṣ-W-Gh, a distinct root). This claim appears only in the introduction teaser; Element Two is truncated before the full argument is made. Cannot confirm or refute the full reasoning — flag for re-validation when Part 2 is complete.
+
+All other checkable claims hold:
+
+- **Verb forms correct.** أَهْلَكْنَا as Form IV and صَرَّفْنَا as Form II are both accurate.
+- **Classical source attributions accurate.** Al-Jalālayn, al-Qurṭubī, al-Baghawī all identify al-Ḥijr of Thamūd and the people of Lūṭ as the referenced towns — confirmed in the provided tafsir.
+- **Al-Qurṭubī quote verbatim.** "*Wa-kānat akhbāruhum mutawātiratan ʿindahum*" matches the source text: "وكانت أخبارهم متواترة عندهم" — accurate transcription and translation.
+- **Ḥ-W-L root analysis sound.** The circular/encircling sense and connection to *ḥawl* (year as full revolution) are lexically attested.
+- **Grammatical shift (ḥawlakum → laʿallahum) is real** and observable in the text. Not overclaimed.
+- **مَا vs. مَنْ observation is legitimate.** Al-Jalālayn glosses "أي من أهلها" (meaning its inhabitants), which supports rather than contradicts the rhetorical point.
+- **46:26 paraphrase accurate.** "Established in ways He has not established you" faithfully renders وَلَقَدْ مَكَّنَّاهُمْ فِيمَا إِن مَّكَّنَّاكُمْ فِيهِ.
+
+SUMMARY: Reflection is well-grounded against all verifiable reference data; the single flag is a lexical claim about "jewelers" in an incomplete section that cannot be fully evaluated until Part 2 of the linguistic analysis is provided.

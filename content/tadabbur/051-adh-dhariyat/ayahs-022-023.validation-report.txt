@@ -1,0 +1,44 @@
+Enhanced Validation Report
+File: content/tadabbur/051-adh-dhariyat/ayahs-022-023.md
+Ayah: 51:22
+Date: 2026-06-09T00:35:34
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَفِى=And in | ٱلسَّمَآءِ=the heaven | رِزْقُكُمْ=(is) your provision | وَمَا=and what | تُوعَدُونَ=you are promised.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- None identified against the provided reference data.
+
+Detailed checks:
+
+**Arabic & morphology:** وَفِى ٱلسَّمَآءِ رِزْقُكُمْ وَمَا تُوعَدُونَ matches the authentic text exactly. Root claims (smw, rzq, wEd) are not contradicted by any reference data.
+
+**Grammatical analysis (taqdīm / khabar muqaddam):** The reflection correctly identifies وَفِى ٱلسَّمَآءِ as the khabar muqaddam (predicate fronted before its subject رِزْقُكُمْ). The implication of emphasis and implied restriction is standard Arabic grammar doctrine. The hedge "a kind of restriction" is appropriately tentative. ✓
+
+**Scholar attributions — all verified against provided tafsir:**
+- "Ibn ʿAbbās, Mujāhid, and Muqātil read it as the rain" → al-Baghawī explicitly: *قال ابن عباس ومجاهد ومقاتل : يعني المطر الذي هو سبب الأرزاق* ✓
+- "Saʿīd ibn Jubayr and al-Ḍaḥḥāk: rain and snow that revives the earth" → al-Qurṭubī: *قال سعيد بن جبير والضحاك : الرزق هنا ما ينزل من السماء من مطر وثلج* ✓
+- "Saʿīd: every standing spring traces to snow" → al-Qurṭubī: *قال سعيد بن جبير : كل عين قائمة فإنها من الثلج* ✓
+- al-Ḥasan al-Baṣrī cloud report → al-Qurṭubī: *وعن الحسن أنه كان إذا رأى السحاب قال لأصحابه : فيه والله رزقكم ولكنكم تحرمونه بخطاياكم* — quoted accurately and fully. ✓
+
+**مَا تُوعَدُونَ framed as the afterlife promise:** All four tafsir sources confirm this meaning (reward/punishment, Paradise/Hellfire, the ma'āb). The reflection's contextual framing is accurate. ✓
+
+**fī vs. min preposition distinction:** Correctly observed — the text uses فِى, not مِنَ. ✓
+
+**Unverifiable claim (minor note, not a flag):** The unnamed "early scholar who stopped and asked aloud" in the Introduction is framed as "is reported" with no attribution. The reference data neither confirms nor denies this specific report. The vague hedging is responsible — this is not a false attribution, just an un-sourced anecdote. Not flaggable as MODERATE given the framing.
+
+SUMMARY: Every verifiable scholar attribution and linguistic claim checks out against the provided tafsir sources; no errors found.

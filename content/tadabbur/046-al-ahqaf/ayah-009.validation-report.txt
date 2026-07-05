@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/046-al-ahqaf/ayah-009.md
+Ayah: 46:9
+Date: 2026-06-08T05:44:30
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: قُلْ=Say, | مَا=`Not | كُنتُ=I am | بِدْعًا=a new (one) | مِّنَ=among | ٱلرُّسُلِ=the Messengers | وَمَآ=and not | أَدْرِى=I know | مَا=what | يُفْعَلُ=will be done | بِى=with me | وَلَا=and not | بِكُمْ‌ۖ=with you. | إِنْ=Not | أَتَّبِعُ=I follow | إِلَّا=but | مَا=what | يُوحَىٰٓ=is revealed | إِلَىَّ=to me | وَمَآ=and not | أَنَا۟=I am | إِلَّا=but | نَذِيرٌ=a warner | مُّبِينٌ=clear.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "the one for whom — in one reading — the universe itself was brought into being" — This alludes to the *lawlāka lawlāka lam akhliq al-aflāk* tradition. That hadith is classified as weak to fabricated by the majority of muhaddithun (Ibn Taymiyya, Ibn Kathir, al-Albani all reject it). The hedge "in one reading" does soften the claim, but introducing it in a devotional context about the Prophet's ﷺ rank risks readers treating it as establishing a theological warrant. None of the four tafsir sources provided for 46:9 mention this tradition; it cannot be verified from the reference data supplied.
+
+PASSES (explicitly verified against reference data):
+
+- Root analysis of *bidʿ* (ب د ع) as "originate without precedent / first of its kind" — confirmed by Jalalayn (*أول مرسل*), Baghawi (*أول مرسل*), Qurtubi (*أول من أرسل*), Muyassar (*أول رسل الله*). The reflection's gloss is accurate.
+- Ibn ʿAbbās attribution — Qurtubi explicitly cites "عن ابن عباس وغيره." Attribution is sound.
+- *Al-Badīʿ* as a divine name and 2:117 as the locus — correct; this is a well-established theological point, not derivable from the provided tafsir but uncontested in ʿaqīdah literature.
+- Morphological labels (Form VIII *ittabaʿa*, Form IV participle *mubīn*, divine passive *yufʿalu/yūḥā*) — all accurate per word-by-word and standard Arabic morphology.
+- Core interpretive movement — negating novelty to affirm prophetic continuity — is exactly what all four tafsir sources say. No inflation or inversion.
+- Arabic text in the reflection matches the authenticated Arabic.
+
+SUMMARY: The reflection is linguistically precise and classically grounded throughout; the single moderate flag is the introduction of the weak *lawlāka* tradition, even under hedging, which no supplied reference supports and which many classical scholars reject as fabricated.

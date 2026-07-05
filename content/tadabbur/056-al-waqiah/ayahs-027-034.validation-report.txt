@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/056-al-waqiah/ayahs-027-034.md
+Ayah: 56:27
+Date: 2026-06-12T11:24:31
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَأَصْحَـٰبُ=And (the) companions | ٱلْيَمِينِ=(of) the right, | مَآ=what | أَصْحَـٰبُ=(are the) companions | ٱلْيَمِينِ=(of) the right?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] The reflection's central thesis — "the ordinary faithful... Not the elite saints" as a distinct third tier — draws on Qurtubi for the *taʿẓīm* point while leaving unaddressed that the same Qurtubi passage reads: **"وهم السابقون على ما تقدم"** — identifying Ashab al-Yamin *with* the Sabiqun, not as a separate lower tier. The reflection cites Qurtubi accurately on the narrow *taʿẓīm* claim, but the surrounding sentence in that very passage contradicts the reflection's framing. This is not a misattribution; it is an unengaged dissenting voice in the cited source itself. The majority tafsir position (Ibn Kathir, Tabari) *does* distinguish the three groups, so the framework is defensible — but the tension should be flagged for editorial awareness, not treated as resolved.
+
+Everything else checks out:
+
+- **Al-Baghawi attribution**: "ʿajiba min shaʾnihim" — confirmed verbatim against provided text (*ثم ذكر أصحاب اليمين وعجب من شأنهم*). Accurate.
+- **Al-Qurtubi attribution**: "li-taʿẓīm shaʾn al-naʿīm alladhī hum fīh" — confirmed verbatim against provided text (*والتكرير لتعظيم شأن النعيم الذي هم فيه*). Accurate.
+- **Mā al-taʿẓīm / istifhām lil-taʿẓīm**: Standard classical grammatical category. Application to this structure is sound.
+- **Seven passive participle forms**: مَخْضُودٍ، مَنضُودٍ، مَمْدُودٍ، مَسْكُوبٍ، مَقْطُوعَةٍ، مَمْنُوعَةٍ، مَرْفُوعَةٍ — all seven are Form I mafʿūl passive participles from their respective roots. Count and grammatical classification are correct.
+- **Sidr + thorns**: Reflection says the earthly sidr "was covered in thorns." Muyassar confirms the jannah counterpart is *"سِدْر لا شوك فيه"* — no thorns. The contrast is validly drawn.
+- **Ṭalḥ = banana trees**: Muyassar explicitly reads *"وموز متراكب بعضه على بعض"* — bananas stacked upon each other. The banana identification is sourced, not invented.
+- **Arabic text**: Matches authentic reference exactly.
+
+SUMMARY: Scholar attributions and linguistic analysis are accurate throughout; one MODERATE editorial gap — the Qurtubi passage cited for *taʿẓīm* also contains *"وهم السابقون"*, equating Ashab al-Yamin with the Sabiqun, a minority classical view the reflection neither acknowledges nor rebuts.

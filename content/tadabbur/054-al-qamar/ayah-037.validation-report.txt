@@ -1,0 +1,28 @@
+Enhanced Validation Report
+File: content/tadabbur/054-al-qamar/ayah-037.md
+Ayah: 54:37
+Date: 2026-06-10T06:50:38
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَلَقَدْ=And certainly | رَٲوَدُوهُ عَن=they demanded from him | ضَيْفِهِۦ=his guests, | فَطَمَسْنَآ=so We blinded | أَعْيُنَهُمْ=their eyes. | فَذُوقُواْ=`So taste | عَذَابِى=My punishment | وَنُذُرِ=and My warnings.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "why, at the end of the verse, are dead men commanded to *taste*" — All four tafsir sources consistently portray the men as alive-but-blinded at the moment the command is issued, not dead. Baghawi is most explicit: *"tarkahum ʿumyan yataraddadūna mutaḥayyirīna lā yahtadūna ilā l-bāb"* — "leaving them blind, wandering confused, unable to find the door." Muyassar: *"fa-ṭamasnā aʿyunahum fa-lam yubṣirū shayʾan"* — they could not see anything. Jalalayn similarly describes effacement of the eye-slit, with Jibrīl striking them with his wing. The tams was effacement of sight; the destruction of the city (ḥijāra) came later. The command *fa-dhūqū* is addressed to living, blinded, disoriented men, not dead ones. Framing them as "dead men" misrepresents the precise scene all four sources describe and blurs the article's later analysis of the dhawq command's rhetorical force.
+
+No other issues identified. The Qurtubi attribution is exact and confirmed by the provided excerpt (*rāda al-kalaʾ*, the hadith on seeking soft ground). Form III identification for رَٰوَدُوهُ is correct. The *ḍayf* as verbal noun (invariable singular/plural) is lexically sound. The Yusuf parallel (12:23) and the *rāwada... ʿan* construction analysis are accurate. The Arabic text matches the authenticated source exactly.
+
+SUMMARY: The reflection is linguistically precise and correctly grounded throughout — the single issue is that the introductory framing calls the blinded men "dead men" when all four classical sources depict them as alive and wandering after the tams, making the dhawq command an address to the living.

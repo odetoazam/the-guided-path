@@ -1,0 +1,38 @@
+Enhanced Validation Report
+File: content/tadabbur/034-saba/ayah-021.md
+Ayah: 34:21
+Date: 2026-05-15T15:07:09
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَمَا=And not | كَانَ=was | لَهُۥ=for him | عَلَيْهِم=over them | مِّن=any | سُلْطَـٰنٍ=authority | إِلَّا=except | لِنَعْلَمَ=that We (might) make evident | مَن=who | يُؤْمِنُ=believes | بِٱلْأَخِرَةِ=in the Hereafter | مِمَّنْ=from (one) who | هُوَ=[he] | مِنْهَا=about it | فِى=(is) in | شَكٍّۗ=doubt. | وَرَبُّكَ=And your Lord | عَلَىٰ=over | كُلِّ=all | شَىْءٍ=things | حَفِيظٌ=(is) a Guardian.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate issues found in the portion reviewed.
+
+Specific verifications:
+
+**Qurtubi attribution** — The reflection quotes: *"as-sulṭān: al-quwwah... wa qīla al-ḥujjah... lam yaqharhum Iblīs ʿalā al-kufr, wa innamā kāna minhu ad-duʿāʾ wat-tazyīn."* Verified verbatim against the provided ar.qurtubi: "والسلطان : القوة . وقيل الحجة... لم يقهرهم إبليس على الكفر ، وإنما كان منه الدعاء والتزيين." Exact match. No inversion, no overstatement.
+
+**min as zāʾidah li-l-istighrāq** — The grammatical claim about مِّن functioning as a totality-negation particle in *mā kāna lahu min sulṭānin* is standard Arabic grammar (nafy + min + nakirah = negation of the entire genus). Linguistically accurate, not overclaimed.
+
+**Translation: "distinguish"** for لِنَعْلَمَ — The literal meaning is "that We might know/make evident." The reflection renders it as "distinguish," which is directly supported by ar.muyassar (لنميز) and ar.baghawi (لنرى ونميز). Not a fabrication; it reflects the tafsir's gloss, not the bare root.
+
+**34:20 citation** — The paraphrase of *wa la-qad ṣaddaqa ʿalayhim Iblīsu ẓannahu fattabaʿūhu illā farīqan min al-muʾminīn* is accurate to the preceding ayah.
+
+**Arabic text** — Minor Unicode orthographic variants in the frontmatter (سُلْطَـٰنٍ vs سُلْطَٰنٍ, بِٱلْـَٔاخِرَةِ vs بِٱلْءَاخِرَةِ) are rendering differences only, not textual errors.
+
+SUMMARY: All identifiable claims in the provided text are either directly verified against the reference data or are standard, uncontroversial Arabic grammatical analysis — no errors found in the reviewed portion.

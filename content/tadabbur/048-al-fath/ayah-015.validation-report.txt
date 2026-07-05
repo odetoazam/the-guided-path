@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/048-al-fath/ayah-015.md
+Ayah: 48:15
+Date: 2026-06-08T15:10:22
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: سَيَقُولُ=Will say | ٱلْمُخَلَّفُونَ=those who remained behind | إِذَا=when | ٱنطَلَقْتُمْ=you set forth | إِلَىٰ=towards | مَغَانِمَ=(the) spoils of war | لِتَأْخُذُوهَا=to take it, | ذَرُونَا=`Allow us | نَتَّبِعْكُمْ‌ۖ=(to) follow you.` | يُرِيدُونَ=They wish | أَن=to | يُبَدِّلُواْ=change | كَلَـٰمَ=(the) Words | ٱللَّهِ‌ۚ=(of) Allah. | قُل=Say, | لَّن=`Never | تَتَّبِعُونَا=will you follow us. | كَذَٲلِكُمْ=Thus | قَالَ ٱللَّهُ=Allah said | مِن قَبْلُ‌ۖ=before.` | فَسَيَقُولُونَ=Then they will say, | بَلْ=`Nay, | تَحْسُدُونَنَا‌ۚ=you envy us.` | بَلْ=Nay, | كَانُواْ=they were | لَا=not | يَفْقَهُونَ=understanding | إِلَّا=except | قَلِيلاً=a little.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR] Arabic text in frontmatter uses `ۚ` (small high stop) after `مِن قَبْلُ` — the authenticated text has `ۖ` (small low stop) at that position. This is a typographical Unicode pause-mark variant between Quran editions, not a word-level error. Not flagged as CRITICAL.
+- [MINOR] Transliteration renders `مِن قَبْلُ` as `min qabl` — the damma on `قَبْلُ` is audible in recitation (pausal u-case: *qablu*). Minor convention issue, not a content error.
+
+VERIFIED CLAIMS (all confirmed against provided reference data):
+- "sixth year after the Hijrah" / Hudaybiyyah context — confirmed, all four tafsir sources situate this there.
+- Spoils of Khaybar promised *exclusively* to those present at Hudaybiyyah — confirmed verbatim in Jalalayn (*"أهل الحديبية خاصة"*), Baghawi (*"لمن شهد الحديبية خاصة"*), and Muyassar.
+- *Sa-yaqūlu* as future tense (sīn prefix) indicating foreknowledge — linguistically correct, word-by-word confirms `سَيَقُولُ = Will say`.
+- *Al-mukhallafūn* as Form II passive participle from root خ-ل-ف — correct morphology; word-by-word confirms "those who remained behind."
+- Form II doubling the middle radical, with intensifying/causative-transitive force — standard Arabic grammar, accurately stated.
+- *Yubaddilū kalāma-llāh* framed as attempting to alter Allah's prior decree/promise — directly confirmed by Jalalayn: *"أي مواعيده بغنائم خيبر أهل الحديبية خاصة."*
+- Bedouin excuses referenced to 48:11 — contextually accurate (outside this ayah's data but internally consistent with the surah).
+
+SUMMARY: The reflection is historically grounded, linguistically precise, and fully aligned with all four classical tafsir sources; no substantive errors found in the portion reviewed.

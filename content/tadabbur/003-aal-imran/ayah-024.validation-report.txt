@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayah-024.md
+Ayah: 3:24
+Date: 2026-06-22T06:51:43
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ذَٲلِكَ=That | بِأَنَّهُمْ=(is) because they | قَالُواْ=say, | لَن=`Never | تَمَسَّنَا=will touch us | ٱلنَّارُ=the Fire | إِلَّآ=except | أَيَّامًا=(for) days | مَّعْدُودَٲتٍ‌ۖ=numbered.` | وَغَرَّهُمْ=And deceived them | فِى=in | دِينِهِم=their religion | مَّا=what | كَانُواْ=they were | يَفْتَرُونَ=inventing.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE] The morphology comment describes `gharra` (root grr) as a "doubled-ʿayn intensive verb" — the doubled-ʿayn description is technically accurate (the ʿayn and lām of the root are identical: غ-ر-ر), but "intensive" is an overreach; this is Form I of a mudaʿʿaf root, not inherently more intensive than a simple Form I. This is metadata only, not surfaced to readers, so no reader-facing error.
+- [NOTE] The reflection's jamʿ al-qillah argument for أَيَّام (pattern أَفْعَال) is linguistically defensible — أَفْعَال is one of the four classical jamʿ al-qillah patterns. The Jalalayn glosses this as forty days, which exceeds the strict 3–10 range, but the grammatical claim about the form signaling a bounded/countable quantity remains supportable. The text cuts off before the argument is complete, so full assessment is not possible; what is visible raises no flag.
+
+CLAIMS VERIFIED AGAINST REFERENCE DATA:
+- `dhālika` connecting back to the turning-away of 3:23 — confirmed verbatim by Jalalayn ("ذلك التولي والإعراض") and Qurtubi ("إشارة إلى التولي والإعراض"). PASS.
+- Root `mss` for `tamassanā`, glossed as lightest-category contact — confirmed by word-by-word ("will touch us") and consistent with Mufradāt al-Rāghib. PASS.
+- `yaftarūn` as Form VIII of root f-r-y — correct; Baghawi confirms افتراء = "اختلاق الكذب" (fabrication of lies). PASS.
+- The verse describes affirmation of the Fire with minimized consequence, not outright denial — consistent with all three tafsir sources framing this as self-deception / false confidence, not simple kufr. PASS.
+- 3:25 as the counter-verse summoning the Day of Judgment — accurate contextual placement. PASS.
+
+SUMMARY: The visible content is linguistically precise and tafsir-grounded with no critical or moderate errors; the only minor concerns are in the hidden morphology metadata and an incomplete grammatical argument that cannot yet be fully assessed.

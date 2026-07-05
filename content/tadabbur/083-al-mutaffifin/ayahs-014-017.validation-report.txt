@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/083-al-mutaffifin/ayahs-014-017.md
+Ayah: 83:14
+Date: 2026-06-18T16:11:28
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: كَلَّا‌ۖ=Nay! | بَلْۜ=But, | رَانَ=(the) stain has covered | عَلَىٰ=[over] | قُلُوبِهِم=their hearts | مَّا=(for) what | كَانُواْ=they were | يَكْسِبُونَ=earning.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR NOTE] "both al-Qurṭubī and al-Baghawī cite it under precisely this verse" — al-Qurṭubī's citation of the Abū Hurayra/Tirmidhī hadith is confirmed in the provided excerpt ("وقيل: في الترمذي: عن أبي هريرة..."). Al-Baghawī's excerpt is truncated mid-chain (ending "عن القعقاع بن..."); the chain likely terminates in Abū Hurayra via al-Qaʿqāʿ ibn Ḥakīm (a known transmitter from him), making the attribution plausible but unconfirmable from the supplied data. Not a flaggable error — a verification gap from truncation.
+
+No other issues. All substantive claims check out:
+
+- **رَانَ** parsed correctly as perfect tense (فعل ماضٍ), meaning confirmed by word-by-word reference and al-Jalālayn's "غلب... فغشيها... فهو كالصدأ."
+- **Rust/film imagery** is lexically attested — al-Jalālayn explicitly uses *al-ṣadaʾ* (corrosion) as the gloss.
+- **Hadith content** ("نكتت في قلبه نكتة سوداء... صقل قلبه... حتى يعلو قلبه") matches al-Qurṭubī's excerpt verbatim at the points where it is not truncated. Tirmidhī grading as ḥasan ṣaḥīḥ is accurate for this report (Sunan al-Tirmidhī 3334).
+- **ṣuqila** rendered as "polished clean" — matches al-Qurṭubī's "صقل ق[لبه]."
+- **Surah described as Makkan** — correct.
+- **Verse 13 context** (*asāṭīr al-awwalīn*) — accurate; 83:13 is the immediate preceding verse.
+- **Translation** of 83:14 matches word-by-word reference.
+
+SUMMARY: The reflection is linguistically precise, hadith-grounded, and internally consistent with all verifiable classical sources; the only open item is an unresolvable truncation in the Baghawī chain, not an error.

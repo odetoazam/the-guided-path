@@ -1,0 +1,42 @@
+Enhanced Validation Report
+File: content/tadabbur/047-muhammad/ayah-038.md
+Ayah: 47:38
+Date: 2026-06-08T10:00:37
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: هَـٰٓأَنتُمْ=Here you are - | هَـٰٓؤُلَآءِ=these, | تُدْعَوْنَ=called | لِتُنفِقُواْ=to spend | فِى=in | سَبِيلِ=(the) way | ٱللَّهِ=(of) Allah - | فَمِنكُم=but among you | مَّن=(are some) who | يَبْخَلُ‌ۖ=withhold, | وَمَن=and whoever | يَبْخَلْ=withholds, | فَإِنَّمَا=then only | يَبْخَلُ=he withholds | عَن=from | نَّفْسِهِۦ‌ۚ=himself. | وَٱللَّهُ=But Allah | ٱلْغَنِىُّ=(is) Free of need, | وَأَنتُمُ=while you | ٱلْفُقَرَآءُ‌ۚ=(are) the needy. | وَإِن=And if | تَتَوَلَّوْاْ=you turn away | يَسْتَبْدِلْ=He will replace you | قَوْمًا=(with) a people | غَيْرَكُمْ=other than you, | ثُمَّ=then | لَا=not | يَكُونُوٓاْ=they will be | أَمْثَـٰلَكُم=(the) likes of you.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- None identified within the submitted portion.
+
+All verifiable claims hold against the reference data:
+
+**Arabic & Translation** — Text matches authentic Arabic exactly (minor Unicode encoding variant in أَمْثَـٰلَكُم is a rendering difference, not a content error). Translation is faithful.
+
+**Morphology** — `tunfiqū` (Form IV), `tatawallaw` (Form V), `yastabdil` (Form X) — all correct per Leeds corpus note in frontmatter.
+
+**هَا particle** — Characterized accurately as a particle of attention (*ḥarf al-tanbīh*), not a demonstrative proper. The "double pointing" intensity reading is well-supported; Jalālayn renders it as *yā hā'ulā'i*, Qurtubi as *ayyuhā l-mu'minūn*, Baghawi similarly — the reflection's attribution is verified.
+
+**`tudʿawna` root** — Correctly identified as root *d-ʿ-w*, passive Form I. The connection to *duʿā'* is lexically sound.
+
+**`yabkhalu ʿan nafsihi` preposition** — The reflection's interpretive pivot on *ʿan* (withholds *from* himself, not *ʿalā* him) is directly corroborated by Jalālayn's parenthetical: *"yuqālu bakhila ʿalayhi wa-ʿanhu"* — the source itself flags this preposition as notable.
+
+**Surah characterization** — Madani, thematic focus on hesitation and steadfastness, closing ayah status of 47:38 — all accurate. The citation of 47:35 ("do not grow faint...") is verbatim correct.
+
+**Scholar attributions** — No inversions or overstated positions. All three cited mufassirūn are quoted only for what they actually say.
+
+SUMMARY: The reflection is accurate throughout the submitted portion — linguistic claims are attested, tafsir attributions are verified, and the interpretive thesis (withholder as self-harmer) flows directly from both the ayah's grammar and classical commentary.

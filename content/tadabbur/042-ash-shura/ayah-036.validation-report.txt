@@ -1,0 +1,24 @@
+Enhanced Validation Report
+File: content/tadabbur/042-ash-shura/ayah-036.md
+Ayah: 42:36
+Date: 2026-06-06T16:57:55
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَمَآ=So whatever | أُوتِيتُم=you are given | مِّن=of | شَىْءٍ=a thing, | فَمَتَـٰعُ=(is) but a passing enjoyment | ٱلْحَيَوٲةِ=(for) the life | ٱلدُّنْيَا‌ۖ=(of) the world. | وَمَا=But what | عِندَ=(is) with | ٱللَّهِ=Allah | خَيْرٌ=(is) better | وَأَبْقَىٰ=and more lasting | لِلَّذِينَ=for those who | ءَامَنُواْ=believe | وَعَلَىٰ=and upon | رَبِّهِمْ=their Lord | يَتَوَكَّلُونَ=put (their) trust.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: ERROR
+ISSUES:
+- Could not run Claude check: Command failed: claude -p --system-prompt "You are a rigorous Islamic scholarship validator for Ayah
+SUMMARY: Claude semantic check failed

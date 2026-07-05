@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/070-al-maarij/ayahs-032-033.md
+Ayah: 70:32
+Date: 2026-06-15T03:20:15
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَٱلَّذِينَ=And those who | هُمْ=[they] | لِأَمَـٰنَـٰتِهِمْ=of their trusts | وَعَهْدِهِمْ=and their promise | رَٲعُونَ=(are) observers,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE — NOT A FLAG] The reflection covers both 70:32 and 70:33, but the tafsir reference data provided covers only 70:32. Claims about 70:33's roots (ش-ه-د → *shahādāt*, ق-و-م → *qāʾimūn*) and their meanings appear linguistically standard, but could not be cross-checked against provided sources. No error is visible — flagging scope of validation only.
+
+No CRITICAL or MODERATE issues found in the visible 8,000 characters. Specific checks:
+
+1. **Arabic text** — frontmatter and inline Arabic matches the authenticated text exactly. ✓
+2. **Root claim for رَٰعُونَ** — stated as "ر-ع-ي (*r-ʿ-y*), to graze / to pasture / to tend livestock." Correct. Al-Jalalain uses حافظون; Al-Muyassar uses حافظون; the pastoral root is the classical lexical base for both. ✓
+3. **Ism fāʿil claim** — "رَٰعُونَ is an active participle, not a verb, indicating permanent characterological quality rather than one-time act." Grammatically accurate. ✓
+4. **Hadith citation** — *"Kullukum rāʿin wa-kullukum masʾūlun ʿan raʿiyyatihi"* attributed to the Prophet ﷺ. Well-attested in Bukhari and Muslim; the root *rāʿin* is correctly identified as the same r-ʿ-y root. ✓
+5. **Word positions in morphology note** — Amn at W3, ʿahd at W4, r-ʿ-y at W5 — matches the authenticated Arabic word order. ✓
+6. **Surah frame (70:19–22 → 70:22–35)** — the *halūʿan* portrait followed by *illā l-muṣallīn* exception and the ring of qualities is structurally accurate for Al-Maʿārij. ✓
+7. **Amāna scope** — Al-Jalalain specifies "ما ائْتُمِنوا عليه من أمر الدين والدنيا"; Al-Muyassar adds "أمانات الله وأمانات العباد." The reflection's framing ("what can you safely hand to anyone") is consistent with both — no overclaim. ✓
+
+SUMMARY: All verifiable claims in the submitted excerpt are linguistically and textually sound; the one caveat is that the tafsir data supplied does not cover 70:33, so that verse's treatment cannot be fully validated from the provided references alone.

@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/076-al-insan/ayahs-005-006.md
+Ayah: 76:5
+Date: 2026-06-18T08:56:55
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّ=Indeed, | ٱلْأَبْرَارَ=the righteous | يَشْرَبُونَ=will drink | مِن=from | كَأْسٍ=a cup, | كَانَ=is | مِزَاجُهَا=its mixture | كَافُورًا=(of) Kafur,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "al-Qurtubi relays a beautiful narration of Ibn ʿUmar from the Prophet ﷺ that Allah named them al-abrār because barrū — they were dutiful, they kept fulfilling what they owed." — The provided Qurtubi excerpt ends abruptly at **"وروى"** ("and he narrated") without completing the narration. The specific isnād (Ibn ʿUmar → Prophet ﷺ) cannot be confirmed from the reference data provided. The linguistic claim that *abrār* derives from *barrū* is sound, but the prophetic hadith attribution requires independent verification against a full Qurtubi text.
+
+CONFIRMED ACCURATE (for the record):
+- "al-abrār are ahl aṣ-ṣidq, the people of truthfulness, and a single one of them is a barr — the one who complied with the command of Allah" — confirmed verbatim from Qurtubi: *"الأبرار : أهل الصدق واحدهم بر ، وهو من امتثل أمر الله تعالى"* ✓
+- "al-Baghawī says they are the believers, truthful in their faith, obedient to their Lord" — confirmed from Baghawi: *"المؤمنين الصادقين في إيمانهم المطيعين لربهم"* ✓
+- Root assignments (*b-r-r*, *ʿ-b-d*, *m-z-j*, *k-f-r*) all correctly identified ✓
+- *Kāna* as past-tense "was" and the interpretive move around pre-mixed coolness: linguistically grounded ✓
+- Two names (*al-abrār* in 76:5, *ʿibād Allāh* in 76:6) applied to the same group: textually accurate ✓
+
+SUMMARY: One hadith attribution to al-Qurtubi (Ibn ʿUmar isnād) cannot be confirmed from the truncated excerpt provided; all root analyses, scholar positions, and Arabic readings are accurate.

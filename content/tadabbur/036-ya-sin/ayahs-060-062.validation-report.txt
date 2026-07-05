@@ -1,0 +1,41 @@
+Enhanced Validation Report
+File: content/tadabbur/036-ya-sin/ayahs-060-062.md
+Ayah: 36:60
+Date: 2026-06-05T05:21:46
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ۞ أَلَمْ=Did not | أَعْهَدْ=I enjoin | إِلَيْكُمْ=upon you | يَـٰبَنِىٓ ءَادَمَ=O Children of Adam! | أَن=That | لَّا=(do) not | تَعْبُدُواْ=worship | ٱلشَّيْطَـٰنَ‌ۖ=the Shaitaan, | إِنَّهُۥ=indeed, he | لَكُمْ=(is) for you | عَدُوٌّ=an enemy | مُّبِينٌ=clear,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- None identified. All verifiable claims check out against the supplied reference data.
+
+SUMMARY: Every classical attribution is accurate and textually grounded — the three scholar glosses quoted are present verbatim in the provided sources, the root analysis is correct, and the worship-as-obedience framing matches all four tafsir witnesses unanimously.
+
+---
+
+**Spot-check log** (what was verified):
+
+| Claim in reflection | Reference check |
+|---|---|
+| Al-Qurṭubī: *al-ʿahd hunā bi-maʿnā al-waṣiyya* | Exact phrase in supplied Qurṭubī text ✓ |
+| Al-Baghawī gloss *alam āmurkum* | Supplied Baghawī opens: «ألم آمركم يا بني آدم» ✓ |
+| Al-Jalālayn: *ʿalā lisāni rusulī* | Supplied Jalālayn: «على لسان رسلي» ✓ |
+| Root ʿ-h-d for *aʿhad* | Word-by-word confirms "I enjoin / covenant" ✓ |
+| Worship (taʿbudū) = obedience (tūṭīʿū) | All four sources gloss تعبدوا as لا تطيعوه ✓ |
+| 36:59 citation *wamtāzū al-yawma ayyuhā al-mujrimūn* | Structurally accurate passage-context claim ✓ |
+
+**What could not be verified from supplied data** (not flagged as errors — data simply wasn't provided): the jibillan/ʿaql/ṣirāṭ roots in 36:61–62, the Leeds corpus corroboration note, and the Lisān/Mufradāt citations. These are in-passage hedged as sourced from classical lexicons and the morphology comment block — no contradicting evidence in the supplied data.

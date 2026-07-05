@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/072-al-jinn/ayah-013.md
+Ayah: 72:13
+Date: 2026-06-16T22:52:15
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَأَنَّا=And that | لَمَّا=when | سَمِعْنَا=we heard | ٱلْهُدَىٰٓ=the Guidance | ءَامَنَّا=we believed | بِهِۦ‌ۖ=in it. | فَمَن=And whoever | يُؤْمِنۢ=believes | بِرَبِّهِۦ=in his Lord, | فَلَا=then not | يَخَافُ=he will fear | بَخْسًا=any loss | وَلَا=and not | رَهَقًا=any burden.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "will fear neither loss nor burden" — رَهَقًا is consistently glossed across all four provided tafsir sources as **ظُلْم** (injustice/oppression), specifically the injustice of having sins added to one's account undeservedly: Jalalayn — *ظلما بالزيادة في سيئاته*; Muyassar — *ظلمًا يلحقه بزيادة في سيئاته*; Baghawi — *ظلماً* (with a secondary alternative: *مكروهاً يغشاه*, something unpleasant that overwhelms). "Burden" approximates only Baghawi's secondary reading and misses the foregrounded injustice dimension in all sources. Note: the reflection's own intro framing — "something you did not deserve will be laid on your shoulders" — *does* capture the ظلم sense accurately, so the conceptual development is sound; it is the translation line itself that understates it.
+
+No other issues found:
+- Arabic text matches authentic source (orthographic encoding variants on ٱلْهُدَىٰٓ and tanwīn are not errors)
+- Al-Qurṭubī attribution is accurate and verifiable against the provided text: the source explicitly states *آمنا به وبالله، وصدقنا محمداً على رسالته* and cites al-Ḥasan on the Prophet being sent to both humans and jinn — the reflection reproduces this faithfully
+- The naming shift from *qurʾānan ʿajabā* (72:1) to *al-hudā* (72:13) is textually grounded; all four sources confirm الهدى = القرآن here
+- Root assignments (smʿ, hdy, Amn, bxs, rhq, xwf) are correct per word-by-word reference
+- بَخْسًا rendered as "loss" accurately reflects the unanimous tafsir gloss: نقصان من الحسنات (deficiency in good deeds)
+
+SUMMARY: One translation imprecision — رَهَقًا rendered as "burden" rather than "injustice/oppression" — but the reflection's own prose framing corrects for this, and all factual claims, root analyses, and scholar attributions are accurate.

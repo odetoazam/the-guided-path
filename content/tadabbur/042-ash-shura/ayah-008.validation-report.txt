@@ -1,0 +1,24 @@
+Enhanced Validation Report
+File: content/tadabbur/042-ash-shura/ayah-008.md
+Ayah: 42:8
+Date: 2026-06-06T16:07:53
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَلَوْ=And if | شَآءَ ٱللَّهُ=Allah willed, | لَجَعَلَهُمْ=He could have made them | أُمَّةً=a community | وَٲحِدَةً=one, | وَلَـٰكِن=but | يُدْخِلُ=He admits | مَن=whom | يَشَآءُ=He wills | فِى=in (to) | رَحْمَتِهِۦ‌ۚ=His Mercy. | وَٱلظَّـٰلِمُونَ=And the wrongdoers, | مَا=not | لَهُم=for them | مِّن=any | وَلِىٍّ=protector | وَلَا=and not | نَصِيرٍ=any helper.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: ERROR
+ISSUES:
+- Could not run Claude check: Command failed: claude -p --system-prompt "You are a rigorous Islamic scholarship validator for Ayah
+SUMMARY: Claude semantic check failed

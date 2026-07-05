@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/048-al-fath/ayah-021.md
+Ayah: 48:21
+Date: 2026-06-08T15:34:34
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَأُخْرَىٰ=And others, | لَمْ=not | تَقْدِرُواْ=you had power | عَلَيْهَا=over them | قَدْ=surely | أَحَاطَ ٱللَّهُ=Allah encompassed | بِهَا‌ۚ=them, | وَكَانَ=and is | ٱللَّهُ=Allah | عَلَىٰ=over | كُلِّ=all | شَىْءٍ=things | قَدِيرًا=All-Powerful.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR] "a little over a thousand believers" — Sahih al-Bukhari (3577) and Muslim record the companions at Bay'at al-Ridwan at approximately 1,400; "a little over a thousand" undersells the figure by ~400. Not a tafsir error, but a historical imprecision in the narrative framing. (This detail is outside the provided reference data — flagged from hadith corpus, not the supplied tafsir.)
+
+- [MINOR] The claim "the classical commentators are nearly unanimous: this is Khaybar" is attributed to verse 20 — but the supplied reference data covers only verse 21. The Khaybar identification for verse 20 is a widely held position, but it cannot be confirmed or denied from the data provided. Not flagging as an error; flagging as an unverifiable claim in this validation pass.
+
+- [PASS] al-Jalālayn attribution is accurate: the reflection quotes "description of implied maghānim (*maghānim muqaddaran*), standing as subject" — this matches «وأخرى صفة مغانم مقدرا مبتدأ» exactly.
+
+- [PASS] *kāna* as eternal attribute is validated by al-Jalālayn's «أي لم يزل متصفا بذلك» ("He has never ceased to be described as such").
+
+- [PASS] *qad* of certainty before a past-tense verb is standard Arabic grammar and consistent with all four tafsir sources treating قَدْ أَحَاطَ as a completed, assured act.
+
+- [PASS] *ḥadhf* framing and the verse 20/21 structural contrast (near/named reward vs. distant/unnamed) are consistent with al-Baghawi's «حتى يفتحها لكم كأنه حفظها لكم ومنعها من غيركم» and al-Qurtubi citing Ibn Abbas on the unnamed future conquests.
+
+SUMMARY: The reflection is accurately grounded in the provided classical sources — no root errors, no inverted attributions, no Arabic text corruption; the only items are a minor historical undercount on companion numbers and one claim (verse 20 = Khaybar) that falls outside the supplied reference data.

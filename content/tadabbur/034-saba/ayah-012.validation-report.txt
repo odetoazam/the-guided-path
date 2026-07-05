@@ -1,0 +1,29 @@
+Enhanced Validation Report
+File: content/tadabbur/034-saba/ayah-012.md
+Ayah: 34:12
+Date: 2026-05-16T22:06:19
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَلِسُلَيْمَـٰنَ=And to Sulaiman, | ٱلرِّيحَ=the wind - | غُدُوُّهَا=its morning course | شَهْرٌ=(was) a month | وَرَوَاحُهَا=and its afternoon course | شَهْرٌۖ=(was) a month, | وَأَسَلْنَا=and We caused to flow | لَهُۥ=for him | عَيْنَ=a spring | ٱلْقِطْرِۖ=(of) molten copper. | وَمِنَ=And [of] | ٱلْجِنِّ=the jinn | مَن=who | يَعْمَلُ=worked | بَيْنَ يَدَيْهِ=before him | بِإِذْنِ=by the permission | رَبِّهِۖۦ=(of) his Lord. | وَمَن=And whoever | يَزِغْ=deviated | مِنْهُمْ=among them | عَنْ=from | أَمْرِنَا=Our Command, | نُذِقْهُ=We will make him taste | مِنْ=of | عَذَابِ=(the) punishment | ٱلسَّعِيرِ=(of) the Blaze.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+
+- [MODERATE] "Sulaymān, the next surah will tell us, said: 'O my Lord, gather me up while You are pleased with me.'" — This du'a does not appear in Surah 35 (Fāṭir), nor does any Quranic verse attribute the phrase "gather me up while You are pleased with me" to Sulaymān. Sulaymān's documented shukr du'a in the Quran is 27:19 (رَبِّ أَوْزِعْنِى أَنْ أَشْكُرَ نِعْمَتَكَ) — which asks for ability to give thanks, not to be "gathered up." The phrasing matches a popular hadith/du'a-book formula, not a Quranic verse. Presenting it with "the next surah will tell us" frames a non-Quranic phrase as revealed text. Cannot be confirmed from provided reference data, but the attribution as stated is unverifiable and suspect.
+
+- [MINOR] The formal translation renders رَوَاحُهَا as "its **evening** course" — the word-by-word reference gives "its **afternoon** course," and Jalalayn specifies *min al-zawāl ilā al-ghurūb* ("from midday to sunset"). "Evening" implies post-sunset and slightly mislocates the window. The reflection's own linguistic section correctly identifies rawāḥ as the "late afternoon returning journey," making the formal translation internally inconsistent.
+
+SUMMARY: The linguistic and tafsir engagement is accurate throughout, but one claim presents what appears to be a hadith/prayer-literature du'a as a Quranic verse attributed to Sulaymān in a named surah — this requires verification before publication.

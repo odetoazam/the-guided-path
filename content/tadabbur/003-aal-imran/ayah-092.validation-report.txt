@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayah-092.md
+Ayah: 3:92
+Date: 2026-06-21T11:56:11
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: لَن=Never | تَنَالُواْ=will you attain | ٱلْبِرَّ=[the] righteousness | حَتَّىٰ=until | تُنفِقُواْ=you spend | مِمَّا=from what | تُحِبُّونَ‌ۚ=you love. | وَمَا=And whatever | تُنفِقُواْ=you spend | مِن=of | شَىْءٍ=a thing | فَإِنَّ=then indeed, | ٱللَّهَ=Allah | بِهِۦ=of it | عَلِيمٌ=(is) All-Knowing.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] The entire reflection frames البر as "righteousness" — a spiritual quality — without engaging the dominant classical tafsir position that البر here specifically means الجنة (Paradise). Jalalayn: «أي ثوابه وهو الجنَّةُ»; Muyassar: «لن تدركوا الجنة»; Baghawi explicitly: «يعني : الجنة، قاله ابن عباس وابن مسعود ومجاهد». Baghawi does preserve minority views (Muqatil: taqwa; al-Hasan: being among the abrar), so "righteousness" is not fabricated — but rendering it as the settled meaning without acknowledging the majority position of three named Companions and tabi'in understates the classical consensus. The reflection's framing — "a chamber of righteousness," "the threshold of righteousness" — lands on the minority reading.
+
+No CRITICAL issues:
+- Morphology note is correct: تُنفِقُوا (Form IV, from أنفق), تُحِبُّونَ (Form IV, from أحب), تَنَالُوا (Form I, from نال/ينال) — all verified.
+- The linguistic reading of لَن as absolute future negation (not merely لا) is accurate.
+- تَنَالُوا from root ن-ي-ل with the physical sense of extending to reach/grasp is lexically attested in classical Arabic dictionaries.
+- The Abu Talha / Bayruḥā account is confirmed directly in the Qurtubi reference provided: «قال أبو طلحة : إن ربنا ليسألنا من أموالنا فأشهدك يا رسول الله أني جعلت أرضي لله».
+
+SUMMARY: The reflection is linguistically careful and narratively grounded, but consistently renders البر as "righteousness" without acknowledging the dominant classical reading — confirmed by Ibn Abbas, Ibn Masud, Mujahid, Jalalayn, and Muyassar — that البر here means specifically الجنة (Paradise); this interpretive gap should be acknowledged in at least one explicit tafsir note before publication.

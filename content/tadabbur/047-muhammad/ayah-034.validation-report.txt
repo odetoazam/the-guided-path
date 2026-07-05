@@ -1,0 +1,28 @@
+Enhanced Validation Report
+File: content/tadabbur/047-muhammad/ayah-034.md
+Ayah: 47:34
+Date: 2026-06-08T12:07:18
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّ=Indeed, | ٱلَّذِينَ=those who | كَفَرُواْ=disbelieve | وَصَدُّواْ=and turn away | عَن=from | سَبِيلِ=(the) way | ٱللَّهِ=(of) Allah, | ثُمَّ=then | مَاتُواْ=died | وَهُمْ=while they | كُفَّارٌ=(were) disbelievers, | فَلَن=never | يَغْفِرَ ٱللَّهُ=will Allah forgive | لَهُمْ=them.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE — not a flag] "Grammarians call its quality *al-tarākhī* — delay, spacing, an interval of time between the two events" — The grammatical claim itself is accurate and classically attested (thumma carrying tarākhī vs. fa carrying tawāquʿ). The theological inference built on it (the gap = open repentance window) is the reflection's own interpretive move and is not drawn from any of the four tafsir excerpts provided. It is a reasonable, non-contradicted extension for the tadabbur genre, but cannot be verified *from the supplied sources*. Flag for transparency, not error.
+- [NOTE] The word-by-word reference renders وَصَدُّوا as "and turn away" (intransitive), while the reflection consistently uses "barred others" (transitive). Al-Muyassar explicitly supports the transitive reading — "صدُّوا الناس عن دينه." No error; the transitive reading is tafsir-grounded.
+- [NOTE] The reflection does not mention the occasion of revelation (aṣḥāb al-qalīb, named in al-Jalālayn and al-Baghawī). Both al-Baghawī and al-Qurṭubī affirm "وحكمها عام" (its ruling is general), so treating the verse as general is consistent with classical tafsir. No error.
+
+SUMMARY: No critical or moderate errors found; the reflection's Arabic grammar is accurate, its transitive reading of ṣaddū is tafsir-supported, and its general framing of the verse aligns with al-Baghawī and al-Qurṭubī — the central thumma/tarākhī thesis is grammatically sound but is the reflection's own inferential move, unconfirmed by the supplied tafsir excerpts.

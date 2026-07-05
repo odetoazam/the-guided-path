@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/051-adh-dhariyat/ayah-045.md
+Ayah: 51:45
+Date: 2026-06-09T13:31:32
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَمَا=Then not | ٱسْتَطَـٰعُواْ=they were able | مِن=to | قِيَامٍ=stand | وَمَا=and not | كَانُواْ=they could | مُنتَصِرِينَ=help themselves.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical errors found.
+- The morphological analysis of `ٱسْتَطَـٰعُوا` as Form X (استفعل) from root ط-و-ع carrying the semantic force of "seeking that the world yields" is the mainstream classical analysis (attested in Lisān al-ʿArab and Mufradāt al-Rāghib, which the reflection explicitly cites in its morphology note). This is not an invention.
+- "To be able is to seek, and find, that the world yields to you" is clearly framed as a theological *tadabbur* extension of the root meaning, not stated as a tafsir citation. Within the genre, this is acceptable.
+- The ṭawʿ / karh polarity ("willing yielding" vs. compulsion) is confirmed by Quranic usage (3:83) and lexical tradition.
+- Tafsir citations are accurate: al-Jalālayn's `من النهوض`, al-Muyassar's inability to flee or rise, al-Qurṭubī and al-Baghawī's قتادة report (they could not rise from the blow) — all align with reference data. No inversions, no fabrications.
+- Quranic cross-references (15:82 for stone-carved homes, 51:44 for the thunderbolt while watching, 51:58 for al-Razzāq/Dhū al-Quwwa/al-Matīn) are accurately quoted and cited.
+- Narrative framing (Thamud as the nation, camel-hamstringing as the defiance, 51:44 immediately preceding) is accurate.
+
+SUMMARY: The reflection is morphologically sound, tafsir-grounded, and consistent with all four classical sources; the "borrowed pliancy" interpretation is clearly marked as tadabbur derivation, not attributed scholarship.

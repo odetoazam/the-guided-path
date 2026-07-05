@@ -1,0 +1,24 @@
+Enhanced Validation Report
+File: content/tadabbur/040-ghafir/ayah-066.md
+Ayah: 40:66
+Date: 2026-06-06T11:34:44
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ۞ قُلْ=Say, | إِنِّى=`Indeed, I | نُهِيتُ=[I] have been forbidden | أَنْ=to | أَعْبُدَ=worship | ٱلَّذِينَ=those whom | تَدْعُونَ=you call | مِن دُونِ=besides | ٱللَّهِ=Allah | لَمَّا=when | جَآءَنِىَ=have come to me | ٱلْبَيِّنَـٰتُ=the clear proofs | مِن=from | رَّبِّى=my Lord, | وَأُمِرْتُ=and I am commanded | أَنْ=to | أُسْلِمَ=submit | لِرَبِّ=to (the) Lord | ٱلْعَـٰلَمِينَ=(of) the worlds.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: ERROR
+ISSUES:
+- Could not run Claude check: Command failed: claude -p --system-prompt "You are a rigorous Islamic scholarship validator for Ayah
+SUMMARY: Claude semantic check failed

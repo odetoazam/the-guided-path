@@ -1,0 +1,38 @@
+Enhanced Validation Report
+File: content/tadabbur/084-al-inshiqaq/ayahs-010-015.md
+Ayah: 84:10
+Date: 2026-06-18T16:50:54
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَأَمَّا=But as for | مَنْ=(him) who | أُوتِىَ=is given | كِتَـٰبَهُۥ=his record | وَرَآءَ=behind | ظَهْرِهِۦ=his back,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No flaggable errors in the portion provided.
+
+Specific cross-checks performed against the reference data:
+
+**Al-Jalālayn + Al-Baghawī attribution** — "right hand chained to the neck and the left placed behind the back": both tafsirs say exactly this (الجلالين: "تغل يمناه إلى عنقه وتجعل يسراه وراء ظهره فيأخذ بها كتابه"; البغوي: "فتغل يده اليمنى إلى عنقه وتجعل يده الشمال وراء ظهره"). Attribution correct.
+
+**Ibn ʿAbbās via al-Qurṭubī** — "right hand reaches out, angel wrenches it back, dislocating it": al-Qurṭubī quotes Ibn ʿAbbās verbatim as "يمد يده اليمنى ليأخذ كتابه فيجذبه ملك، فيخلع يمينه، فيأخذ كتابه بشماله من وراء ظهره." The reflection's paraphrase is faithful and the chain (Ibn ʿAbbās → al-Qurṭubī) is correctly identified.
+
+**Qatāda and Muqātil** — "chest opened, hand passing through and emerging from the back": al-Qurṭubī: "يفك ألواح صدره وعظامه ثم تدخل يده وتخرج من ظهره." Accurate.
+
+**Root analysis** — أُوتِيَ from *a-t-y*, وَرَآءَ/*w-r-y*, ظَهْر/*ẓ-h-r*: consistent with the corpus note in the frontmatter (Leeds Corpus: Aty, wry, Zhr confirmed for 84:10).
+
+**3:187 (نَبَذُوهُ وَرَآءَ ظُهُورِهِمْ)**: Not in the supplied reference data for this ayah, so I cannot validate from provided sources alone — but this is a well-established Quranic cross-reference and the Arabic quoted is accurate. Not a flag, but noted as outside the provided dataset.
+
+SUMMARY: All tafsir attributions in the portion reviewed are correctly sourced, the scholarly disagreements are represented without flattening them, and no root, verb form, or attribution errors were found.

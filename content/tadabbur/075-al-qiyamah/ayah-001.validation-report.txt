@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/075-al-qiyamah/ayah-001.md
+Ayah: 75:1
+Date: 2026-06-18T07:53:02
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: لَآ=Nay! | أُقْسِمُ=I swear | بِيَوْمِ=by (the) Day | ٱلْقِيَـٰمَةِ=(of) the Resurrection.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "Al-Jalālayn reads the لَا here as *zāʾida*" — Confirmed. Jalālayn text explicitly reads «لا» زائدة في الموضعين.
+- [PASS] "Al-Qurṭubī records a closely related view: that the لَا is *ṣila* — a connective" — Confirmed. Qurṭubī: "قيل: إن لا صلة."
+- [PASS] Qurṭubī's rationale "القرآن متصل بعضه ببعض، فهو في حكم كلام واحد" — paraphrased accurately; source text matches verbatim.
+- [PASS] "Al-Baghawī preserves... a variant recitation... al-Qawwās, on the authority of Ibn Kathīr" — Confirmed. Baghawī: "قرأ القواس عن ابن كثير: لأقسم الحرف الأول بلا ألف قبل الهمزة." Attribution exact.
+- [PASS] Reading لَأُقْسِمُ as *lām al-tawkīd* — grammatically correct; the lām + imperfect construction for emphasis is standard Arabic syntax, consistent with what Baghawi's variant implies.
+- [PASS] Form IV attribution for أُقْسِمُ (root ق-س-م, Form IV أَقْسَمَ → first-person imperfect أُقْسِمُ) — morphologically accurate.
+- [UNVERIFIABLE — not an error] "a further, widely-reported angle... the *no* aimed at **the deniers**" — presented as a fourth angle, not asserted as the primary reading. This is a legitimate classical position (attested in Ibn ʿAbbās traditions), but the truncated sources provided do not explicitly confirm it. The hedge "widely-reported" is appropriately cautious; no misrepresentation.
+- [PASS] Surah described as Meccan — confirmed by both Baghawī ("مكية") and Qurṭubī ("مكية، وهي تسع وثلاثون آية").
+
+SUMMARY: All verifiable scholarly attributions (Jalālayn, Qurṭubī, Baghawī) check out against the provided sources — paraphrasing is precise, the recitation variant is correctly reported, and the reflection's multi-angle treatment of لَآ honestly presents interpretive diversity rather than collapsing it.

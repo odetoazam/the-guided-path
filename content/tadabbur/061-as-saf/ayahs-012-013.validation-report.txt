@@ -1,0 +1,42 @@
+Enhanced Validation Report
+File: content/tadabbur/061-as-saf/ayahs-012-013.md
+Ayah: 61:12
+Date: 2026-06-13T00:59:53
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَغْفِرْ=He will forgive | لَكُمْ=for you | ذُنُوبَكُمْ=your sins | وَيُدْخِلْكُمْ=and admit you | جَنَّـٰتٍ=(in) Gardens | تَجْرِى=flow | مِن=from | تَحْتِهَا=underneath it | ٱلْأَنْهَـٰرُ=the rivers | وَمَسَـٰكِنَ=and dwellings | طَيِّبَةً=pleasant | فِى=in | جَنَّـٰتِ=Gardens | عَدْنٍ‌ۚ=(of) Eternity. | ذَٲلِكَ=That | ٱلْفَوْزُ=(is) the success | ٱلْعَظِيمُ=the great.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No errors found within the submitted portion.
+
+Specific checks performed:
+
+1. **Jalālayn attribution** — "it is, in al-Jalālayn's phrasing, *jawāb sharṭ muqaddar*" — **verified exact**. The Jalālayn text reads: «يغفر» جواب شرط مقدر — word-for-word match.
+
+2. **Al-Zajjāj via al-Qurṭubī** — "He does not forgive them simply because He pointed them toward what benefits them; He forgives them when they truly believe and struggle" — **verified accurate**. Al-Qurṭubī quotes: «ليس إذا دلهم على ما ينفعهم يغفر لهم; إنما يغفر لهم إذا آمنوا وجاهدوا». The paraphrase faithfully renders this.
+
+3. **Grammatical claim (*majzūm*/jussive as apodosis)** — accurate. *yaghfir* in jussive is the standard marker of *jawāb al-sharṭ*; the analysis is consistent with classical naḥw.
+
+4. **"Forgiveness before entry" sequencing** — directly verifiable from word order: يَغْفِرْ لَكُمْ ذُنُوبَكُمْ → وَيُدْخِلْكُمْ جَنَّـٰتٍ. The interpretive weight the reflection places on this sequence is framed as theological reflection, not a documented scholarly claim — appropriate framing.
+
+5. **Arabic text** — matches authentic text; minor diacritical rendering differences (tanwīn style) are encoding variants, not errors.
+
+6. **"Gardens of perpetual residence" for *jannāt ʿadn*** — supported by al-Muyassar: «جنات إقامة دائمة لا تنقطع».
+
+7. **61:10 "tijārah" framing** — accurate contextual reference.
+
+SUMMARY: All verifiable claims in the submitted portion are grounded in the provided tafsir data; no factual, attributional, or Arabic errors detected.

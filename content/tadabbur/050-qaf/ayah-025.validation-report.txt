@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/050-qaf/ayah-025.md
+Ayah: 50:25
+Date: 2026-06-08T21:51:46
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: مَّنَّاعٍ=Forbidder | لِّلْخَيْرِ=of good, | مُعْتَدٍ=transgressor | مُّرِيبٍ=doubter,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "the doubled nūn makes you hold the sound — the air stops at the roof of the mouth and is blocked there, sustained, before it can release into the long āʿ. The very pronunciation enacts a withholding." — Phonetically inaccurate. Nūn (ن) is an alveolar **nasal** consonant, not a stop. When geminated, the nasal sound is lengthened but airflow continues unobstructed through the nasal passage; there is no complete blockage. The description ("air stops… blocked") correctly characterizes a stop consonant (like tāʾ or dāl) and cannot be applied to nūn. The poetic conclusion — "the word sounds like a closed gate" — cannot be grounded in this phonetic mechanism. The point would need to be reframed as aesthetic/impressionistic rather than articulatory fact.
+
+No other issues in the truncated material. All of the following check out:
+- Root م-ن-ع and the faʿʿāl/mubālagha analysis of *mannāʿ* are correct and consistent with Baghawi, Jalalayn, and Qurtubi
+- Plain agent noun *māniʿ* vs. intensive *mannāʿ* contrast is grammatically accurate
+- kādhib/kadhdhāb illustrative comparison is a valid analogue
+- لِلْخَيْرِ broadly construed then narrowed to zakāt/financial rights is precisely the classical sequence (Jalalayn: *kaz-zakāt*; Qurtubi/Baghawi: *az-zakāt al-mafruḍa wa-kull ḥaqq wājib*)
+- مُّرِيبٍ glossed "steeped in doubt" aligns with Jalalayn (*shākk fī dīnih*), Baghawi (*dākhil fī-l-rayb*)
+- The observation that this phrase recurs in 68:12 with a different final word (أَثِيمٍ vs. مُّرِيبٍ) is accurate
+- "Hell is not entered for a single failure… a self you spent a lifetime constructing" — theologically grounded in the mubālagha form; no overstatement
+
+SUMMARY: One factual phonetic error (nūn described as a stop rather than a nasal) undermines an otherwise well-constructed and classically grounded morphological reflection.

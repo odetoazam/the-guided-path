@@ -1,0 +1,38 @@
+Enhanced Validation Report
+File: content/tadabbur/036-ya-sin/ayahs-048-050.md
+Ayah: 36:48
+Date: 2026-06-05T06:50:05
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَيَقُولُونَ=And they say, | مَتَىٰ=`When (is) | هَـٰذَا=this | ٱلْوَعْدُ=promise, | إِن=if | كُنتُمْ=you are | صَـٰدِقِينَ=truthful?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate errors found in the verifiable content.
+
+Supporting checks:
+
+- **Arabic text (ayah 48)**: Matches the authentic Arabic exactly. ✓
+- **Al-Qurṭubī attribution**: The reflection quotes *kāna hādhā istihzā'an minhum* and adds "meaning, 'there is no reality to this threat at all.'" The Qurṭubī source confirms: "وكان هذا استهزاء منهم أيضا ، أي : لا تحقيق لهذا الوعيد" — the Arabic phrase, the mockery characterization, and the explanatory gloss are all present and correctly represented. ✓
+- **Qurṭubī + preceding warning (36:45)**: The reflection says Qurṭubī ties the question to the prior warning. The source confirms: "لما قيل لهم : اتقوا ما بين أيديكم وما خلفكم قالوا : متى هذا الوعد." ✓
+- **Al-Muyassar attribution**: The reflection renders *ʿalā wajhi-t-takdhīb wa-l-istiʿjāl* — "by way of denial and of demanding it be hastened." The source says "على وجه التكذيب والاستعجال." Exact match. ✓
+- **"They don't believe it's coming yet demand it hurry"**: This is the reflection's own interpretive synthesis of Muyassar's two-part descriptor (*takdhīb* + *istiʿjāl*). It is clearly framed as interpretation, not a misattributed scholar position. ✓
+- **يَقُولُونَ as habitual/ongoing**: Standard Arabic grammar for the mudāriʿ form. Accurate. ✓
+- **Qaṣr construction (مَا…إِلَّا)**: Correct rhetorical term for this syntactic frame. ✓
+
+One note: Qurṭubī's text includes "أيضا" (also), indicating the mockery echoes an earlier instance. The reflection omits this, but the omission does not misrepresent Qurṭubī — it simply doesn't claim to be exhaustive.
+
+SUMMARY: All verifiable claims — Arabic text, classical tafsir quotes, morphological characterizations, and rhetorical terminology — are accurate and correctly attributed; interpretive extensions are clearly marked as such.

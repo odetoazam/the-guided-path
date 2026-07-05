@@ -1,0 +1,37 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayah-002.md
+Ayah: 3:2
+Date: 2026-06-21T04:31:00
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ٱللَّهُ=Allah - | لَآ=(there is) no | إِلَـٰهَ=God | إِلَّا=except | هُوَ=Him, | ٱلْحَىُّ=the Ever-Living | ٱلْقَيُّومُ=the Sustainer of all that exists.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "al-Hayy and al-Qayyūm are intensive adjectival forms (ṣifa mushabbaha), not verbs" (frontmatter morphology comment) — al-Ḥayy (حَيّ, pattern فَيّ) can legitimately be classified as ṣifa mushabbaha, but al-Qayyūm (قَيُّوم, pattern فَيعُول from q-w-m) is more precisely ṣīghat mubālagha — an intensified/hyperbolic participial pattern — which classical grammarians distinguish from ṣifa mushabbaha. The practical claim (these are adjectival, not verbal) is correct; the categorical label applied to al-Qayyūm specifically is imprecise. Reference data does not resolve this, but it is standard Arabic morphology.
+
+**What passes:**
+
+- **Al-Baghawi attribution** — verified directly against the supplied tafsir: "الله ابتداء وما بعده خبر ، والحي القيوم نعت له" — accurately rendered as "Allāh is the subject... everything after it is the predicate... al-Hayy, al-Qayyūm are naʿt." ✓
+- **Madani status** — Qurtubi: "هذه السورة مدنية بإجماع" — the contextual framing (Madinah, surrounding communities, theological contestation) is confirmed. ✓
+- **Arabic text** — matches the authenticated source character-for-character. ✓
+- **lā an-nāfiya lil-jins + ilāha in accusative without tanwīn** — standard classical Arabic grammar, correctly described. The claim "the entire category of divinity is empty" accurately reflects the lil-jins scope. ✓
+- **Ayat al-Kursi claim** — the hadith that 2:255 is the greatest verse in the Quran is well-attested (Sahih Muslim, narrated by Ubayy ibn Ka'b); cannot be verified from the supplied reference data but is not contradicted by it and is a consensus-level hadith. ✓
+- **Word count: seven** — confirmed: ٱللَّهُ / لَآ / إِلَـٰهَ / إِلَّا / هُوَ / ٱلْحَىُّ / ٱلْقَيُّومُ. ✓
+
+**Note on truncation:** The reflection cuts off mid-sentence during the al-Ḥayy etymological section. The portion visible makes no errors; the ṣigha mubālagha issue above is in the frontmatter comment, not the body.
+
+SUMMARY: The reflection is substantively accurate with a single morphological classification imprecision in the frontmatter — al-Qayyūm is more correctly ṣīghat mubālagha than ṣifa mushabbaha, though the practical distinction (adjectival, not verbal) is correct.

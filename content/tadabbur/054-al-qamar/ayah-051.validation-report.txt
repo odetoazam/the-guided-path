@@ -1,0 +1,37 @@
+Enhanced Validation Report
+File: content/tadabbur/054-al-qamar/ayah-051.md
+Ayah: 54:51
+Date: 2026-06-10T08:01:12
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَلَقَدْ=And certainly | أَهْلَكْنَآ=We destroyed | أَشْيَاعَكُمْ=your kinds, | فَهَلْ=so is (there) | مِن=any | مُّدَّكِرٍ=who will receive admonition?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "the same eleven letters: **فَهَلْ مِن مُّدَّكِرٍ**" — The phrase contains 9 consonantal letters: ف+ه+ل (3) + م+ن (2) + م+د+ك+ر (4) = 9. The claim is stated as an emphatic literary fact and repeated for rhetorical effect; a reader who counts will find the discrepancy. Not a theological error, but a verifiable factual inaccuracy in a claim the reflection leans on heavily.
+
+No further issues found in the visible portion.
+
+**What checks out:**
+- Arabic text matches the authentic supplied text exactly.
+- *Ashyāʿ* from root ش-ي-ع, plural of *shīʿah*, "those who follow one way" — correct; both senses attributed correctly (resemblance-in-disbelief vs. partisan bond).
+- Scholar attributions verify precisely: al-Jalalayn, al-Muyassar, and al-Baghawi all give *ashbāhakum fī l-kufr* as the primary gloss; al-Qurtubi preserves both readings (*ashbāh* and *atbāʿakum wa-aʿwānakum*) exactly as the reflection states. No attribution is inverted or overstated.
+- *Ahlakṇā* as Form IV causative of ه-ل-ك, perfect tense, "We caused to perish" — confirmed by reference data and standard morphology.
+- *Muddakir* as Form VIII active participle of ذ-ك-ر — confirmed.
+- *Istifhām bi-maʿnā l-amr* framing (interrogative functioning as imperative) — confirmed by al-Jalalayn: *"استفهام بمعنى الأمر، أي اذكروا واتعظوا."*
+- Six occurrences of the refrain in 55 verses — consistent with the related_ayahs list (54:15, 17, 22, 32, 40, 51).
+
+SUMMARY: The reflection is scholarshpip-sound throughout — all tafsir attributions, root analyses, and morphological claims cross-check cleanly — but the emphatic "eleven letters" claim is a simple counting error (nine letters) that should be corrected before publication.

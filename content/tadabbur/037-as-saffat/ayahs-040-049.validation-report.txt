@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/037-as-saffat/ayahs-040-049.md
+Ayah: 37:40
+Date: 2026-06-05T23:14:59
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِلَّا=Except | عِبَادَ=(the) slaves | ٱللَّهِ=(of) Allah | ٱلْمُخْلَصِينَ=the chosen ones.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+**VERDICT: PASS**
+
+**ISSUES:**
+
+- [PASS] "The other reading — the one al-Jalalayn favours — is that this is **munqaṭiʿ**, severed" — Jalalayn text confirms explicitly: «استثناء منقطع». Attribution is exact. ✓
+
+- [PASS] "*istithnā' mimman yadhūqu al-ʿadhāb*" attributed to al-Qurtubi's connected reading — Qurtubi's text reads «استثناء ممن يذوق العذاب» as his primary position, then records the munqaṭiʿ view as «وقيل». The reflection correctly says Qurtubi "records both." ✓
+
+- [PASS] ٱلْمُخْلَصِينَ rendered as "chosen servants" — word-by-word reference gives "the chosen ones"; عِبَادَ contributes "servants." Combined rendering is accurate and draws on attested lexical content. ✓
+
+- [PASS] Morphology note references the qirāʾāt variant (open lam / kasra lam) "explicitly recorded by al-Qurtubi" — Qurtubi text confirms: «قراءة أهل المدينة والكوفة المخلصين بفتح اللام… الباقون بكسر اللام». ✓
+
+- [UNVERIFIABLE — not an error] The courtroom scene paraphrases (37:28–33 range) are outside the supplied reference data. They read as accurate Quranic narrative, but I cannot confirm from the data provided. Flag for cross-reference if a wider data pass is run.
+
+**SUMMARY:** All verifiable claims in the first 8000 characters — the istithnā' typology, both scholar attributions, the Arabic rendering, and the qirāʾāt note — are accurately grounded in the supplied Jalalayn, Qurtubi, Muyassar, and Baghawi sources; no errors detected.

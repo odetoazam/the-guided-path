@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/049-al-hujurat/ayah-006.md
+Ayah: 49:6
+Date: 2026-06-08T17:03:12
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ=O you who believe! | إِن=If | جَآءَكُمْ=comes to you | فَاسِقُۢ=a wicked person | بِنَبَإٍ=with information, | فَتَبَيَّنُوٓاْ=investigate, | أَن=lest | تُصِيبُواْ=you harm | قَوْمَۢا=a people | بِجَهَـٰلَةٍ=in ignorance, | فَتُصْبِحُواْ=then you become, | عَلَىٰ=over | مَا=what | فَعَلْتُمْ=you have done, | نَـٰدِمِينَ=regretful.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [INFORMATIONAL] "in al-Baghawī's telling, a whisper enters his chest — they mean to kill you — and his old fear rises to meet his old grudge" — the Baghawi excerpt provided is truncated at "فحدثه" before reaching this detail. The attribution is properly framed as "al-Baghawī's telling" rather than asserted as Quranic fact, and the surrounding narrative facts (Walid ibn Uqba, Banu al-Mustaliq, zakat mission, pre-Islamic enmity, tribe emerging to greet him) are all confirmed by the provided Baghawi text. Cannot verify this specific interior detail from the supplied excerpt alone, but no error is demonstrable.
+- [INFORMATIONAL] "weighty news" for **نَبَإٍ** — the word-by-word reference renders it as "information" without the qualifier. The reflection's "weighty news" reflects the standard classical lexical distinction between *nabā'* (significant, consequential report) and the more general *khabar*. This is a defensible and well-attested lexical choice, not an error.
+
+No issues found with:
+- Arabic text matches authentic text (encoding variants only, not substantive)
+- Historical attribution: Walid ibn Uqba named in both Qurtubi and Baghawi ✓
+- f-s-q etymology (date breaking its skin, *fasaqat al-ruṭabah*) is classically attested ✓
+- *fāsiqun* as indefinite active participle — grammatically correct ✓
+- The "verify, not discard" interpretive point — confirmed by Jalalayn: *"فتبينوا صدقه من كذبه"* (investigate whether it is true or false) ✓
+- Usul principle *al-ʿibratu bi-ʿumūm al-lafẓ lā bi-khuṣūṣ al-sabab* — correctly applied and correctly named ✓
+- No scholar positions inverted; no Arabic text corrupted; no root errors
+
+SUMMARY: Reflection is linguistically precise, historically grounded, and interpretively well-anchored; two details flagged are attributional hedges or lexically defensible choices, not errors.

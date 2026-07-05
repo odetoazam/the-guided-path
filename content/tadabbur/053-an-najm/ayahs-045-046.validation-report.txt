@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/053-an-najm/ayahs-045-046.md
+Ayah: 53:45
+Date: 2026-06-09T19:57:34
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَأَنَّهُۥ=And that He | خَلَقَ=created | ٱلزَّوْجَيْنِ=the pairs, | ٱلذَّكَرَ=the male | وَٱلْأُنثَىٰ=and the female
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "He created a *relationship*, a built-in incompleteness, a need stitched into the structure of the living world" — theologically resonant but stated as exegetical fact rather than reflective extension. Baghawi and Muyassar read *al-zawjayn* as applying universally to *every living creature* (من كل حيوان / من الإنسان والحيوان), not primarily through the lens of relational neediness. The reflection's zawj-as-incompleteness frame is a valid interpretive *angle* on the lexical data, not something the classical sources thematize.
+
+- [MINOR — no flag, observation only] The Jalalayn explicitly glosses *al-zawjayn* as **الصنفين** ("the two types/categories"), not as a marital-pair unit. The reflection's sustained focus on the spouse-and-counterpart semantic is lexically defensible but bypasses the taxonomic reading the classical tradition leads with. Not an error, but worth knowing the primary classical gloss leans categorical rather than relational.
+
+- [PASS — correctly handled] The Manāt/tumnā sound connection is *not* asserted as fact in this excerpt — it is explicitly deferred ("let me earn that for you by the end") and the frontmatter correctly labels the م-ن-ي destiny-resonance as interpretive extension. The prudence here is appropriate.
+
+- [PASS] *wa min kulli shayʾin khalaqnā zawjayn* cited as 51:49 — accurate.
+
+- [PASS] Dual form (*al-muthannā*) and z-w-j lexical analysis are linguistically sound. No root errors.
+
+- [PASS] Historical framing of al-Lāt, al-ʿUzzā, Manāt and the 53:19-22 rebuke is accurate and well-grounded in the surah context.
+
+SUMMARY: The reflection is linguistically and contextually accurate; the one genuine concern is presenting the "built-in incompleteness" reading of zawj as exegetical conclusion rather than tadabbur lens — the classical sources read *al-zawjayn* as categorical (male-type / female-type across all creatures), not primarily relational.

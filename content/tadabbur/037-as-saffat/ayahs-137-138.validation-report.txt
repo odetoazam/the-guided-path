@@ -1,0 +1,38 @@
+Enhanced Validation Report
+File: content/tadabbur/037-as-saffat/ayahs-137-138.md
+Ayah: 37:137
+Date: 2026-06-05T23:26:40
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَإِنَّكُمْ=And indeed, you | لَتَمُرُّونَ=surely pass | عَلَيْهِم=by them | مُّصْبِحِينَ=(in the) morning,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "you pile on emphasis — *inna* plus *lām* — for the one who is **denying with his whole chest**" — the underlying *muqtaḍā al-ḥāl* principle (inkārī emphasis signals outright rejection) is standard ʿilm al-maʿānī, but the specific diagnosis of "active denial of the obvious" is the author's interpretive application of the principle, not a claim sourced from the provided tafsir. It is defensible balāghah reasoning, but presented with a firmness that implies classical warrant rather than authorial inference. No provided source makes this diagnosis. Flag as interpretive extension, not error.
+
+No CRITICAL issues found. Specific checks:
+
+- **Arabic text**: Exact match to authenticated Arabic. ✓
+- **Word glosses**: All four components (وَإِنَّكُمْ / لَتَمُرُّونَ / عَلَيْهِم / مُّصْبِحِينَ) correctly rendered. ✓
+- **Quraysh / Mecca audience**: Directly confirmed — al-Muyassar: *"وإنكم -يا أهل مكة- لتمرون في أسفاركم على منازل قوم لوط"*. ✓
+- **Day/night split**: Reflection's treatment of morning + night correctly follows al-Muyassar's *"وتمرون عليها ليلا"*. ✓
+- **مُّصْبِحِينَ as temporal ("at the time of morning")**: Confirmed by al-Jalalayn (*وقت الصباح يعني بالنهار*) and al-Baghawi (*وقت الصباح*); aligns with the Form IV ingressive reading cited in the morphology note. ✓
+- **inna + lām al-tawkīd stacking**: Grammatically accurate description of two distinct emphatic devices. ✓
+- **Surah structure (salam refrains, Lut as the exception)**: Accurate — the salam seals appear for Nuh (37:79), Ibrahim (37:109), Musa/Harun (37:120), Ilyas (37:130); the Lut passage uniquely pivots to direct address instead. ✓
+- **iltifāt**: Correctly identified — shift from third-person narrative about Lut's people to second-person address of the Quraysh is a textbook instance. ✓
+- **ʿaql root meaning "to bind"**: Lexically attested (ʿiqāl); not contradicted by any provided source. ✓
+
+SUMMARY: The reflection is linguistically accurate and tafsir-consistent throughout; the one MODERATE flag is a rhetorical inference (the double emphasis as mirror of "active denial") presented with slightly more scholarly certainty than the provided sources warrant, but it is not a fabricated attribution.

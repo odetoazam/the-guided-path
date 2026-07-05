@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/004-an-nisa/ayahs-011-012.md
+Ayah: 4:11
+Date: 2026-06-23T07:03:37
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يُوصِيكُمُ ٱللَّهُ=Allah instructs you | فِىٓ=concerning | أَوْلَـٰدِكُمْ‌ۖ=your children - | لِلذَّكَرِ=for the male | مِثْلُ=like | حَظِّ=(the) portion | ٱلْأُنثَيَيْنِ‌ۚ=(of) two females. | فَإِن=But if | كُنَّ=there are | نِسَآءً=(only) women | فَوْقَ=more (than) | ٱثْنَتَيْنِ=two, | فَلَهُنَّ=then for them | ثُلُثَا=two thirds | مَا=(of) what | تَرَكَ‌ۖ=he left. | وَإِن=And if | كَانَتْ=(there) is | وَٲحِدَةً=(only) one, | فَلَهَا=then for her | ٱلنِّصْفُ‌ۚ=(is) half. | وَلِأَبَوَيْهِ=And for his parents, | لِكُلِّ=for each | وَٲحِدٍ=one | مِّنْهُمَا=of them | ٱلسُّدُسُ=a sixth | مِمَّا=of what | تَرَكَ=(is) left, | إِن=if | كَانَ لَهُۥ=for him is | وَلَدٌ‌ۚ=a child. | فَإِن=But if | لَّمْ=not | يَكُن لَّهُۥ=for him is | وَلَدٌ=any child | وَوَرِثَهُۥٓ=and inherit[ed] him | أَبَوَاهُ=his parents, | فَلِأُمِّهِ=then for his mother | ٱلثُّلُثُ‌ۚ=(is) one third. | فَإِن=And if | كَانَ لَهُۥٓ=for him are | إِخْوَةٌ=brothers and sisters, | فَلِأُمِّهِ=then for his mother | ٱلسُّدُسُ‌ۚ=(is) the sixth | مِنۢ بَعْدِ=after | وَصِيَّةٍ=any will | يُوصِى=he has made | بِهَآ=[of which] | أَوْ=or | دَيْنٍ‌ۗ=any debt. | ءَابَآؤُكُمْ=Your parents | وَأَبْنَآؤُكُمْ=and your children - | لَا=not | تَدْرُونَ=you know | أَيُّهُمْ=which of them | أَقْرَبُ=(is) nearer | لَكُمْ=to you | نَفْعًا‌ۚ=(in) benefit. | فَرِيضَةً=An obligation | مِّنَ=from | ٱللَّهِ‌ۗ=Allah. | إِنَّ=Indeed, | ٱللَّهَ=Allah | كَانَ=is | عَلِيمًا=All-Knowing, | حَكِيمًا=All-Wise.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "He says seven words that, once you hear them, you cannot un-hear" — The phrase ءَابَآؤُكُمْ وَأَبْنَآؤُكُمْ لَا تَدْرُونَ أَيُّهُمْ أَقْرَبُ لَكُمْ نَفْعًا contains **8** lexical units, not 7, per the word-by-word reference provided (8 separate entries: ءَابَآؤُكُمْ / وَأَبْنَآؤُكُمْ / لَا / تَدْرُونَ / أَيُّهُمْ / أَقْرَبُ / لَكُمْ / نَفْعًا). The claim is stated with rhetorical weight ("seven words") and readers who count will find the discrepancy. Correcting to "eight words" requires no other change.
+
+ITEMS VERIFIED AS ACCURATE:
+- Al-Baghawi attribution: "بِالذُّكُورَةِ وَالْقُوَّةِ" — confirmed verbatim in the provided Baghawi text ("كانت في الجاهلية بالذكورة والقوة"). The summary "wealth flowed to men who could ride and fight, nothing to women and children" maps accurately onto "يورثون الرجال دون النساء والصبيان."
+- يُوصِيكُمُ framed as "Allah writing the will" — the root وصى underlies both يُوصِيكُمُ and وَصِيَّة (will/bequest). Classical tafsirs gloss it as يأمركم (He commands you), so the will metaphor is a homiletical extension rather than a lexical claim, and the reflection is transparent that it is setting up a concept before analyzing the word. Acceptable.
+- Historical context of widows and Uhud is consistent with Madinan surah setting and Baghawi's opening.
+- Dual divine-name seal (عَلِيمًا حَكِيمًا / عَلِيمٌ حَلِيمٌ) is accurate per the Arabic.
+
+SUMMARY: One factual error — "seven words" should be eight — stated with enough rhetorical emphasis that a careful reader will catch it; all other verifiable claims are grounded in the provided sources.

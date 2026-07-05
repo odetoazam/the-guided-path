@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/036-ya-sin/ayahs-051-052.md
+Ayah: 36:51
+Date: 2026-06-05T05:42:57
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَنُفِخَ=And will be blown | فِى=[in] | ٱلصُّورِ=the trumpet, | فَإِذَا=and behold! | هُم=They | مِّنَ=from | ٱلْأَجْدَاثِ=the graves | إِلَىٰ=to | رَبِّهِمْ=their Lord | يَنسِلُونَ=[they] will hasten.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "wa-nufikha...passive verb, root n-f-kh" — Form I passive perfect confirmed; tafsir unanimously identifies this as the second blow (نفخة البعث/النفخة الثانية للبعث). The reflection's analysis of the hidden agent is consistent with the classical reading.
+- [PASS] "fa-idhā...idhā al-fujā'iyya — the idhā of suddenness" — Standard Arabic grammar (idhā mufāja'a); not addressed in the provided tafsir excerpts but is an established and uncontroversial grammatical category. Not verifiable from the supplied reference data, but not a disputable claim.
+- [PASS] "yansilūn...root n-s-l...To be born" (implied at cut-off) — Baghawi explicitly confirms the etymology: "ومنه قيل للولد: نسل لخروجه من بطن أمه." The n-s-l → nasل (offspring) connection the reflection is building toward is lexically grounded in the provided source.
+- [PASS] Arabic text of 36:51 matches authentic Arabic character-for-character.
+- [PASS] "al-Raḥmān" emphasis — textually accurate; the Arabic of 36:52 reads مَا وَعَدَ ٱلرَّحْمَٰنُ exactly as reflected.
+- [NOTE] Reference data covers 36:51 only; claims about 36:52 (marqad/sleep, al-Raḥmān framing) cannot be verified against the supplied tafsir excerpts. The translation "our place of sleep" for مَرْقَدِنَا is standard and uncontroversial, but deeper claims in Part 2 onward will require 36:52 tafsir data to validate fully.
+
+SUMMARY: The visible portion of this reflection is linguistically precise and tafsir-consistent; no errors in the 36:51 material, with one scope gap — the 36:52 analysis needs its own reference data before final sign-off.

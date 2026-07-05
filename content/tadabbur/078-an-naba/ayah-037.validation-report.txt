@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/078-an-naba/ayah-037.md
+Ayah: 78:37
+Date: 2026-06-18T12:51:29
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: رَّبِّ=Lord | ٱلسَّمَـٰوَٲتِ=(of) the heavens | وَٱلْأَرْضِ=and the earth | وَمَا=and whatever | بَيْنَهُمَا=(is) between both of them | ٱلرَّحْمَـٰنِ‌ۖ=the Most Gracious, | لَا=not | يَمْلِكُونَ=they have power | مِنْهُ=from Him | خِطَابًا=(to) address.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] Translation renders **ٱلرَّحْمَٰنِ** as "the Most Merciful" throughout, while the word-by-word reference explicitly provides "the Most Gracious." Ar-Raḥmān and Ar-Raḥīm are distinct Divine Names from the same root (r-h-m); the majority of translators reserve "Most Merciful" for Ar-Raḥīm and "Most Gracious/Most Beneficent" for Ar-Raḥmān. The reflection makes Ar-Raḥmān's mercy its central theological argument, so the imprecision in naming is load-bearing here. This is within the range of legitimate translation choices (Sahih International does use "the Entirely Merciful" for Ar-Raḥmān), but the word-by-word data on file says "Most Gracious" — the reflection should align with that or acknowledge the naming convention.
+
+- [MINOR, NON-FLAG] "They possess not, **before Him**, so much as a word" — the Arabic **مِنْهُ** is literally "from Him," not "before Him." The word-by-word says "from Him." The tafsir sense supports either rendering (Jalalayn: "لا يقدر أحد أن يخاطبه خوفا منه"), so this is a defensible interpretive translation, not an error. Noting only for transparency.
+
+All other claims validate cleanly against the provided data:
+- Arabic text matches the authentic Arabic exactly.
+- Root **r-b-b** analysis (owner, nurturer, stage-by-stage completion) is lexically attested.
+- **مَا بَيْنَهُمَا** rendered as "whatever is between them" — accurate; **mā** is correctly identified as an indefinite relative pronoun sweeping in the unnamed.
+- The qira'at discussion referenced in the cut-off section (case variation on **رَّبِّ** and **ٱلرَّحْمَٰنِ**) is explicitly confirmed by both Qurtubi and Baghawi.
+- Thematic framing (ownership + mercy + enforced silence) is supported by Muyassar and Jalalayn.
+
+SUMMARY: Theologically and linguistically sound; the sole issue is using "Most Merciful" for Ar-Raḥmān where the reference data says "Most Gracious" — a translation-convention imprecision that matters here because mercy is the reflection's central argument.

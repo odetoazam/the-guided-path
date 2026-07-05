@@ -1,0 +1,30 @@
+Enhanced Validation Report
+File: content/tadabbur/060-al-mumtahanah/ayah-001.md
+Ayah: 60:1
+Date: 2026-06-12T20:44:59
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ=O you who believe! | لَا=(Do) not | تَتَّخِذُواْ=take | عَدُوِّى=My enemies | وَعَدُوَّكُمْ=and your enemies | أَوْلِيَآءَ=(as) allies | تُلْقُونَ=offering | إِلَيْهِم=them | بِٱلْمَوَدَّةِ=love | وَقَدْ=while | كَفَرُواْ=they have disbelieved | بِمَا=in what | جَآءَكُم=came to you | مِّنَ=of | ٱلْحَقِّ=the truth, | يُخْرِجُونَ=driving out | ٱلرَّسُولَ=the Messenger | وَإِيَّاكُمْ‌ۙ=and yourselves | أَن=because | تُؤْمِنُواْ=you believe | بِٱللَّهِ=in Allah, | رَبِّكُمْ=your Lord. | إِن=If | كُنتُمْ=you | خَرَجْتُمْ=come forth | جِهَـٰدًا=(to) strive | فِى=in | سَبِيلِى=My way | وَٱبْتِغَآءَ=and (to) seek | مَرْضَاتِى‌ۚ=My Pleasure. | تُسِرُّونَ=You confide | إِلَيْهِم=to them | بِٱلْمَوَدَّةِ=love, | وَأَنَا۟=but I Am | أَعْلَمُ=most knowing | بِمَآ=of what | أَخْفَيْتُمْ=you conceal | وَمَآ=and what | أَعْلَنتُمْ‌ۚ=you declare. | وَمَن=And whoever | يَفْعَلْهُ=does it | مِنكُمْ=among you | فَقَدْ=then certainly | ضَلَّ=he has strayed | سَوَآءَ=(from the) straight | ٱلسَّبِيلِ=path.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "It is roughly the year six after the Hijrah" — The Ḥāṭib ibn Abī Baltaʿah incident, which the reflection immediately uses as the framing narrative, occurred in year **8 AH** during secret preparations for the conquest of Makkah — not year 6. Year 6 AH is when the Treaty of Ḥudaybiyyah was concluded. The reflection's own subsequent phrase ("the charged interval between the Treaty of Ḥudaybiyyah and the conquest of Makkah") correctly names the period, but then anchors it to the wrong year. A reader will come away with a false date for a key historical event.
+
+- [MODERATE] "the doubled verb of love" — This phrase implies the same verb appears twice. What actually doubles is the **noun** مَوَدَّة, which appears identically in both تُلْقُونَ إِلَيْهِم بِٱلْمَوَدَّةِ and تُسِرُّونَ إِلَيْهِم بِٱلْمَوَدَّةِ. The verbs are distinct (تُلْقُونَ / تُسِرُّونَ). The rhetorical observation the reflection is reaching for — public love vs. secret love, same noun, different verb — is real and valuable, but naming it "doubled verb" is morphologically imprecise and could mislead students of the language.
+
+No issues found with: Arabic text (matches authentic), Ḥāṭib narrative (confirmed by both Jalālayn and Baghawī chains), root analysis of ع-د-و, the claim that عَدُوّ can hold singular and plural semantically, the suspended-conditional (إن) rhetorical observation, or the word-order argument placing عَدُوِّى before عَدُوَّكُمْ.
+
+SUMMARY: The reflection's linguistic and theological core is accurate and well-grounded in the provided references, but it misplaces the revelation's historical occasion by two years (year 6 vs. year 8 AH) and mislabels the مَوَدَّة repetition as a "doubled verb" rather than a doubled noun.

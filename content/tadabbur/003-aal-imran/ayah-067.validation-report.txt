@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayah-067.md
+Ayah: 3:67
+Date: 2026-06-21T05:31:09
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: مَا=Not | كَانَ=was | إِبْرَٲهِيمُ=Ibrahim | يَهُودِيًّا=a Jew | وَلَا=and not | نَصْرَانِيًّا=a Christian | وَلَـٰكِن=and but | كَانَ=he was | حَنِيفًا=a true | مُّسْلِمًا=Muslim, | وَمَا=and not | كَانَ=he was | مِنَ=from | ٱلْمُشْرِكِينَ=the polytheists.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "he was a ḥanīf — one inclined wholly to the truth" — the inline definition treats حنيف as a positive inclination *toward* truth, but every classical source provided defines it with a two-part movement: **away from** all religions + toward the upright religion. Jalalayn: *"مائلا عن الأديان كلها إلى الدين القيِّم"* (inclining from all religions toward the upright religion). Baghawi mirrors this exactly: *"المائل عن الأديان كلها إلى الدين المستقيم."* The *"away from"* component is definitionally load-bearing — it is what distinguishes a ḥanīf from a sincere seeker in any tradition. Rendering it as "inclined wholly to the truth" collapses a term about renunciation-plus-orientation into a generic description of earnest truth-seeking. This is not a style choice; it is stated as the translation of a technical term and will govern how the reader understands every subsequent use of the word.
+
+- [PASS] The مَا كَانَ analysis (temporal negation spanning the whole life rather than a single moment) — defensible. Classical Arabic grammar supports this reading; the argument is careful and hedged ("tends to deny," "leans toward the second"). No claim is overstated as definitively proven.
+
+- [PASS] The three-kāna architectural observation (two negation walls / one affirmed kernel) — accurate to the text; not sourced from tafsir but the structure is verifiable in the verse itself and the interpretation is not contradicted by any tafsir provided.
+
+- [PASS] Arabic text in the frontmatter matches the authentic Arabic provided.
+
+- [PASS] The footnote on مُسْلِم as active participle of Form IV أسلم is morphologically correct and the "not labeled causative" caveat is appropriate.
+
+- [PASS] The chronological argument ("calling Ibrahim a Jew or Christian is chronologically impossible because Torah and Gospel came after him") accurately reflects 3:65 as cited.
+
+SUMMARY: One genuine definitional gap — حنيف rendered as "inclined wholly to the truth" loses the explicit *away-from-all-other-religions* movement that Jalalayn and Baghawi treat as the term's primary semantic content; everything else in the visible portion is accurate.

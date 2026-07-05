@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayah-044.md
+Ayah: 3:44
+Date: 2026-06-21T11:30:30
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ذَٲلِكَ=That | مِنْ=(is) from | أَنۢبَآءِ=(the) news | ٱلْغَيْبِ=(of) the unseen - | نُوحِيهِ=We reveal it | إِلَيْكَ‌ۚ=to you. | وَمَا=And not | كُنتَ=you were | لَدَيْهِمْ=with them | إِذْ=when | يُلْقُونَ=they cast | أَقْلَـٰمَهُمْ=their pens | أَيُّهُمْ=(as to) which of them | يَكْفُلُ=takes charge (of) | مَرْيَمَ=Maryam; | وَمَا=and not | كُنتَ=you were | لَدَيْهِمْ=with them | إِذْ=when | يَخْتَصِمُونَ=they (were) disputing.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "From the very same root comes the word **نَبِيّ** — *nabiyy* — **a Prophet**" — The derivation of *nabiyy* from the root **n-b-ʾ** is one of two classical positions. The competing view, held within Sibawayhi's grammatical tradition, derives it from **n-b-w** (نبا / ينبو — to be elevated, to rise). Al-Rāghib al-Iṣfahānī does support the n-b-ʾ derivation in the *Mufradāt* (cited in this file's own frontmatter), so the connection is classically attested — but the reflection states it as settled fact ("from the very same root *comes*") without acknowledging this is a debated *masʾala* in Arabic morphology. That overstates certainty.
+
+Everything else I can verify against the supplied reference data passes:
+
+- **Arabic text**: Matches the authentic source exactly. ✓
+- **anbāʾ / nabaʾ distinction from khabar**: Classically attested in the *Mufradāt* and broader lexicographic tradition. ✓
+- **نُوحِيهِ as Form IV from w-ḥ-y, first-person plural**: Correct — the past-tense Form IV is أَوْحَى, present نُوحِي; the suffix ـهِ is the direct object pronoun. Word-by-word confirms "We reveal it." ✓
+- **Context (Zakariyya, Maryam, guardianship contest)**: Confirmed by all four tafsirs. Jalalayn: "من أمر زكريا ومريم." Muyassar and Baghawi name Zakariyya as the winner of the lot. ✓
+- **Pens cast in water as lots**: Baghawi's "سهامهم في الماء للاقتراع" and Jalalayn's "في الماء يقترعون" confirm the casting-in-water method. The reflection's rendering is accurate. ✓
+- **The Prophet's absence as the argument for revelation**: Directly confirmed by Jalalayn's closing phrase — "وإنما عرفته من جهة الوحي" (you only came to know this through revelation). The reflection's framing that "his absence is the evidence" is precisely this classical argument. ✓
+- **min anbāʾ as "a portion drawn from" the unseen**: The word مِنْ as partitive is consistent with classical usage; no tafsir contradicts this reading. ✓
+
+SUMMARY: The reflection is linguistically careful and historically grounded; the single concern is presenting *nabiyy*'s derivation from **n-b-ʾ** as undisputed when classical grammarians are divided between **n-b-ʾ** (news-bearer) and **n-b-w** (elevated one) — a hedge in the text would resolve it without loss of rhetorical force.

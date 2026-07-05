@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/074-al-muddaththir/ayahs-049-056.md
+Ayah: 74:49
+Date: 2026-06-17T01:14:12
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَمَا=Then what | لَهُمْ=(is) for them, | عَنِ=(that) from | ٱلتَّذْكِرَةِ=the Reminder | مُعْرِضِينَ=they (are) turning away.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "مُعْرِضِينَ... an *ism al-fāʿil*... which describes not an event but a **state**, a settled condition" — grammatically correct. All three classical tafsirs (Jalalayn, Qurtubi, Baghawi) explicitly confirm *muʿriḍīn* is **manṣūb ʿalā al-ḥāl** (accusative circumstantial/state descriptor), which aligns precisely with the "continuous posture" reading. No overreach.
+
+- [PASS] "the root **ʿ-r-ḍ** (ع ر ض), and the core of that root is *ʿarḍ* — **width, breadth, the broad side of a thing**" — lexically grounded. Consistent with Mufradāt al-Rāghib and Lisān al-ʿArab on this root. The "present your broad side" gloss is an established classical explanation, not an innovation.
+
+- [PASS] "He did not say *aʿraḍū*... He said *muʿriḍīn*" — the contrast between finite past verb and active participle is a real grammatical distinction and is used here correctly.
+
+- [PASS] "the second surah, by most accounts, ever revealed" — the hedge "by most accounts" is appropriate. The traditional report (Bukhārī, Kitāb Bad' al-Waḥy) places Al-Muddaththir as the second revelation after Al-ʿAlaq. The qualifier covers the minority positions.
+
+- [UNVERIFIABLE FROM PROVIDED DATA — not an error] "Some of them, we are told, crept out at night to listen to the Prophet ﷺ recite" — this refers to the well-attested seerah report about Abū Sufyān, Abū Jahl, and Al-Akhnas ibn Shurayq (Ibn Hishām, Sīrah). Historically sound, but cannot be confirmed against the reference data supplied. No flag warranted; it is not presented as a Quranic claim.
+
+SUMMARY: The first eight thousand characters of this reflection are linguistically precise, grammatically well-grounded, and consistent with all four classical tafsir sources provided — no errors detected in Arabic analysis, root derivation, grammatical function, or historical framing.

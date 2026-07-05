@@ -1,0 +1,29 @@
+Enhanced Validation Report
+File: content/tadabbur/033-al-ahzab/ayah-058.md
+Ayah: 33:58
+Date: 2026-05-15T05:15:47
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَٱلَّذِينَ=And those who | يُؤْذُونَ=harm | ٱلْمُؤْمِنِينَ=the believing men | وَٱلْمُؤْمِنَـٰتِ=and the believing women | بِغَيْرِ=for other than | مَا=what | ٱكْتَسَبُواْ=they have earned, | فَقَدِ=then certainly, | ٱحْتَمَلُواْ=they bear | بُهْتَـٰنًا=false accusation | وَإِثْمًا=and sin | مُّبِينًا=manifest.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+
+- [MODERATE] "After legislating modesty (33:53-55), addressing the Prophet's ﷺ household, and **warning hypocrites who spread rumors in Madinah (33:60)**, Allah pauses on a single human dynamic" — Surah sequence error. 33:60 falls *after* 33:58 in the text (the sequence is 33:53-55 → 33:56-57 → **33:58** → 33:59 → 33:60). The phrasing "after...33:60, Allah pauses" reverses the actual order, implying this ayah is a response to 33:60 rather than preceding it.
+
+- [MODERATE] "Form VIII (*iftaʿala*)...often carries a sense of **taking on, loading oneself with, bearing voluntarily**" — The "voluntarily" gloss is an interpretive extension not confirmed by any of the four tafsir sources provided. Jalalayn renders احتملوا plainly as *taḥammalū kadhiban* ("they bore a lie"); Muyassar uses *irtakabū* ("they committed/incurred"); Qurtubi and Baghawi offer no volitional nuance. The Form VIII intensive/reflexive sense (loading oneself with the weight) is defensible, but attaching *voluntary* as a key semantic note exceeds what the references warrant.
+
+SUMMARY: Arabic text, root identifications, Form VIII morphology, and the 33:35 paired-gender observation are all accurate; the reflection errs moderately in inverting the surah sequence and in reading "voluntarily" into احتملوا beyond what the classical tafsirs support.

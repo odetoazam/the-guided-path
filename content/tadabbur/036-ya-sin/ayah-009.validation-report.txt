@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/036-ya-sin/ayah-009.md
+Ayah: 36:9
+Date: 2026-06-05T05:07:42
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَجَعَلْنَا=And We have made | مِنۢ بَيْنِ أَيْدِيهِمْ=before them | سَدًّا=a barrier | وَمِنْ خَلْفِهِمْ=and behind them | سَدًّا=a barrier. | فَأَغْشَيْنَـٰهُمْ=and We covered them, | فَهُمْ=so they | لَا=(do) not | يُبْصِرُونَ=see.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "In front of you is your future... Behind you is your past — history, the generations that came before" — This past/future interpretive framework for the two barriers is not found in any of the four provided tafsir sources. Jalalayn reads the bidirectionality as *tamthīl* for "sealing the paths of faith" generally; Muyassar and Baghawi treat it as complete spatial encirclement blocking *sabīl al-hudā*; Qurtubi focuses on the Abu Jahl occasion-of-revelation narrative. The reflection presents this framing with rhetorical confidence ("Because these are not merely the two directions of a body in space") without flagging it as the author's own extension. For tadabbur genre this is acceptable since it's voiced as contemplative observation ("here is where I want you to read...") rather than attributed to a classical position — but it sits at the outer edge of what the sources warrant.
+
+**Everything else checks out:**
+- Arabic text matches the authentic text exactly
+- *saddan* indefiniteness as magnification (tankīr li-l-taʿẓīm) is a well-attested balāghah principle
+- Root *s-d-d* and its doubled *dāl* are phonologically accurate; the Dhul-Qarnayn connection (18:95) is correct
+- *min bayni aydīhim* = "in front of them" is the correct idiomatic reading
+- *aghshaynāhum* as Form IV causative from *gh-sh-w/y* confirmed by Baghawi ("fa-aʿmaynāhum, from al-taghshiya which is al-taghṭiya")
+- The *tamthīl* framing is explicitly endorsed by Jalalayn ("tamthīlun ayḍan")
+- 36:6 *ghāfilūn* description is accurate; 36:8 yoke imagery is faithful to the Arabic
+
+SUMMARY: The reflection is linguistically precise and tafsir-grounded throughout; the sole concern is the past/future gloss on the two barriers, which is an interpretive extension beyond the provided sources but is appropriately voiced as contemplative insight rather than a classical scholarly claim.

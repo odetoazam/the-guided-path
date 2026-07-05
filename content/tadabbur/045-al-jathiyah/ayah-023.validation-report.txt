@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/045-al-jathiyah/ayah-023.md
+Ayah: 45:23
+Date: 2026-06-08T01:30:40
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَفَرَءَيْتَ=Have you seen | مَنِ=(he) who | ٱتَّخَذَ=takes | إِلَـٰهَهُۥ=(as) his god | هَوَٮٰهُ=his desire | وَأَضَلَّهُ ٱللَّهُ=and Allah lets him go astray | عَلَىٰ عِلْمٍ=knowingly, | وَخَتَمَ=and He sets a seal | عَلَىٰ=upon | سَمْعِهِۦ=his hearing | وَقَلْبِهِۦ=and his heart | وَجَعَلَ=and puts | عَلَىٰ=over | بَصَرِهِۦ=his vision | غِشَـٰوَةً=a veil? | فَمَن=Then who | يَهْدِيهِ=will guide him | مِنۢ بَعْدِ=after | ٱللَّهِ‌ۚ=Allah? | أَفَلَا=Then will not | تَذَكَّرُونَ=you receive admonition?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Saʿīd ibn Jubayr, quoted by al-Qurṭubī and al-Baghawī, paints the scene precisely: a man would worship a stone, and the moment he passed a more beautiful stone, he would throw the first one down and worship the new one." — The provided al-Qurṭubī excerpt attributes the "switching idols when finding something more beautiful" concept to **Ekrimah** (`وقال عكرمة: أفرأيت من جعل إلهه الذي يعبده ما يهواه أو يستحسنه، فإذا ا...`), not to Saʿīd ibn Jubayr. Al-Baghawī does quote Saʿīd ibn Jubayr but his statement is about Arabs worshipping stones, gold, and silver in general (`كانت العرب يعبدون الحجارة والذهب والفضة...`) — the full quote is truncated, so the "switching" detail cannot be confirmed under his name. The reflection merges what the reference data shows as distinct attributions: Ekrimah's anecdote (in al-Qurṭubī) is presented as Saʿīd ibn Jubayr's. This is unverifiable from the provided data and potentially a misattribution.
+
+- [PASS] Translation of `عَلَىٰ عِلْمٍ` as "despite knowledge" — this is one of two classical positions (knowledge belonging to the straying person, as al-Muyassar reads it: *"after the knowledge reached him and proof was established against him"*); al-Jalalayn reads it as Allah's foreknowledge. The reflection presents this as an open question rather than resolving it, which is appropriate given the genuine scholarly divergence.
+
+- [PASS] Form VIII analysis of `ٱتَّخَذَ` as "taking-for-oneself, deliberately acquiring" — lexically defensible and consistent with al-Muyassar's gloss (`لا يهوى شيئًا إلا فَعَله`).
+
+- [PASS] Root `h-w-y` carrying the secondary meaning of falling/plummeting — attested in Lisān al-ʿArab and al-Rāghib's Mufradāt, correctly invoked here.
+
+- [PASS] Word-order observation (`إِلَٰهَهُۥ هَوَىٰهُ` — "his god" preceding "his desire") as signifying the pre-existing throne of worship in the heart — a legitimate exegetical inference consistent with the classical reading; not overstated as a documented scholar position.
+
+SUMMARY: The reflection is substantively sound, with one MODERATE issue: the dramatic stone-switching anecdote is attributed to Saʿīd ibn Jubayr via both al-Qurṭubī and al-Baghawī, but the reference data shows that anecdote under Ekrimah in al-Qurṭubī, not under Saʿīd ibn Jubayr — the attribution requires verification against the full (untruncated) Qurṭubī passage before publication.

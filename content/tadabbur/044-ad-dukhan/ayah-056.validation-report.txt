@@ -1,0 +1,37 @@
+Enhanced Validation Report
+File: content/tadabbur/044-ad-dukhan/ayah-056.md
+Ayah: 44:56
+Date: 2026-06-08T01:02:48
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: لَا=Not | يَذُوقُونَ=they will taste | فِيهَا=therein | ٱلْمَوْتَ=the death | إِلَّا=except | ٱلْمَوْتَةَ=the death | ٱلْأُولَىٰ‌ۖ=the first. | وَوَقَـٰهُمْ=And He will protect them | عَذَابَ=(from the) punishment | ٱلْجَحِيمِ=(of) the Hellfire,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR NOTE] "its fruit like molten brass boiling in the stomach (44:43-46)" — "molten brass" is one of several translations for `ٱلْمُهْلِ` (44:45); classical lexicons also render it as dregs of oil or molten copper. The rendering is within the interpretive range but slightly specific for a summary. No distortion.
+- [MINOR NOTE] Frontmatter morphology encodes `*wq [dhawq]` using `*`=dh notation. The body text correctly spells out `dh-w-q (ذوق)` — consistent, not an error.
+
+Specific verifications that hold:
+
+1. **Root of يَذُوقُونَ** = dh-w-q (ذوق) — correct. ✓
+2. **3:185 citation** for *kullu nafsin dhā'iqatu al-mawt* — accurate. ✓
+3. **Ism al-marra claim** (المَوْتَةَ as "one instance of death") — grammatically sound; tā' marbūṭa on a masdar to mark single occurrence is a documented Arabic morphological pattern. ✓
+4. **Istithna munqati'** — explicitly supported by al-Qurtubi: "إلا الموتة الأولى على الاستثناء المنقطع"; al-Baghawi frames إلا as سوى/بعد (besides/after). ✓
+5. **Muttaqin in "maqam amin" from verse 51** — accurate; 44:51 opens the portrait of the muttaqin. ✓
+6. **Taqwa/wiqaya root connection** (w-q-y) — the frontmatter `wqy [waqa/taqwa]` notation confirms both terms share this root. ✓
+7. **"Where the damned die endlessly without dying"** — implicitly grounded in 87:13 (`لَا يَمُوتُ فِيهَا وَلَا يَحْيَىٰ`), listed in related_ayahs. ✓
+
+SUMMARY: The linguistic and grammatical claims are accurate, classical tafsir support for the istithna munqati' reading is solid, and no scholar positions are inverted or overstated in the text reviewed.

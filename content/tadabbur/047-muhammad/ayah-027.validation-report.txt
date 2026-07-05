@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/047-muhammad/ayah-027.md
+Ayah: 47:27
+Date: 2026-06-08T11:48:33
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَكَيْفَ=Then how, | إِذَا=when | تَوَفَّتْهُمُ=take them in death | ٱلْمَلَـٰٓئِكَةُ=the Angels, | يَضْرِبُونَ=striking | وُجُوهَهُمْ=their faces | وَأَدْبَـٰرَهُمْ=and their backs?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical errors found. The single verifiable scholar attribution — "Al-Qurṭubī, reading this verse, actually supplies the missing piece for us — he says the meaning is *fa-kayfa takūnu ḥāluhum*" — is confirmed by the Qurṭubī source provided: «أي فكيف تكون حالهم». The reflection's Arabic rendering of this gloss is accurate.
+- The morphology note claims "Form V of wfy (tawaffā)" — this is correct. Root و-ف-ي, Form V pattern تَفَعَّلَ, doubled ف yields تَوَفَّى. No error.
+- The merchant analogy for tawaffā ("to collect in full") is interpretive illustration, but (a) it is clearly framed as pedagogical, not attributed to a named scholar, and (b) the w-f-y = fulfillment/completeness sense is standard lexicography consistent with the Mufradāt and Lisān al-ʿArab as cited in the frontmatter.
+- "Two ayahs earlier... they turned their backs (47:25)" — the verse numbering is correct from 47:27.
+- The argument that *fa-kayfa* is rhetorically "an unanswered question" is an interpretive reading clearly owned by the author ("I will argue") — not stated as a documented tafsir position. No overreach.
+- Claims about 47:25 wording cannot be verified from the provided reference data for this ayah, but no specific scholar is being cited for it and the characterization is standard.
+
+SUMMARY: The reflection is linguistically grounded, its one explicit tafsir citation (Qurṭubī on *ḥāluhum*) is accurate, and interpretive claims are properly flagged as the author's own argument rather than attributed scholarly positions.

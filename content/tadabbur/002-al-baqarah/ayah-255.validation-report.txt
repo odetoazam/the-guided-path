@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/002-al-baqarah/ayah-255.md
+Ayah: 2:255
+Date: 2026-05-14T23:13:10
+
+[1] Arabic text: ❌ fail
+    → Arabic text mismatch. API: "ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ ۚ لَا تَأْخُذُهُۥ سِنَةٌۭ ..."
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ٱللَّهُ=Allah - | لَآ=(there is) no | إِلَـٰهَ=God | إِلَّا=except | هُوَ=Him, | ٱلْحَىُّ=the Ever-Living, | ٱلْقَيُّومُ‌ۚ=the Sustainer of all that exists. | لَا=Not | تَأْخُذُهُۥ=overtakes Him | سِنَةٌ=slumber | وَلَا=[and] not | نَوْمٌ‌ۚ=sleep. | لَّهُۥ=To Him (belongs) | مَا=what(ever) | فِى=(is) in | ٱلسَّمَـٰوَٲتِ=the heavens | وَمَا=and what(ever) | فِى=(is) in | ٱلْأَرْضِ‌ۗ=the earth. | مَن=Who | ذَا ٱلَّذِى=(is) the one who | يَشْفَعُ=(can) intercede | عِندَهُۥٓ=with Him | إِلَّا=except | بِإِذْنِهِۦ‌ۚ=by His permission. | يَعْلَمُ=He knows | مَا=what | بَيْنَ أَيْدِيهِمْ=(is) before them | وَمَا=and what | خَلْفَهُمْ‌ۖ=(is) behind them. | وَلَا=And not | يُحِيطُونَ=they encompass | بِشَىْءٍ=anything | مِّنْ=of | عِلْمِهِۦٓ=His Knowledge | إِلَّا=except | بِمَا=[of] what | شَآءَ‌ۚ=He willed. | وَسِعَ=Extends | كُرْسِيُّهُ=His Throne | ٱلسَّمَـٰوَٲتِ=(to) the heavens | وَٱلْأَرْضَ‌ۖ=and the earth. | وَلَا=And not | يَــُٔودُهُۥ=tires Him | حِفْظُهُمَا‌ۚ=(the) guarding of both of them. | وَهُوَ=And He | ٱلْعَلِىُّ=(is) the Most High, | ٱلْعَظِيمُ=the Most Great.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 1
+  Failed:   0
+
+⚠️  All verses matched but 1 had diacritics or partial differences.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "The hadith reported by Ibn Kathir states: 'The Kursi compared to the ʿArsh is like a ring thrown in a desert.'" — The Kursi-ʿArsh comparison (الكرسي بالنسبة للعرش كحلقة ملقاة في أرض فلاة) is an **athar** — a report traced to Ibn Abbas (a Companion), not a marfūʿ hadith traced to the Prophet ﷺ. Labeling it "hadith" overstates its textual authority. Ibn Kathir transmits it in his tafsir, but as a mawqūf narration from Ibn Abbas, not as a prophetic tradition. The content and the Ibn Kathir attribution are accurate; the genre label is wrong. This distinction matters in Islamic scholarship because athar from a Companion carries different evidentiary weight than a hadith.
+
+- [NOTE — cannot verify from provided data] "Ibn Kathir notes that سِنَة precedes نَوْم because drowsiness comes BEFORE sleep." This is a plausible and commonly cited observation in classical tafsir, consistent with al-Muyassar's "سِنَة أي: نعاس" and al-Jalalain's same gloss. However, the specific attribution to Ibn Kathir cannot be confirmed from the reference data provided. No flag raised — just unverifiable from these sources.
+
+- [NOTE — unverifiable] The morphological pattern claim "Al-Hayy (from ح-ي-ي) in the fa'yil intensive pattern" is debatable. The root ح-ي-ي with identical second and third radicals produces حَيّ via assimilation (idgham), which some grammarians analyze as فَعِيل reduced and others as فَعْل. Neither the word-by-word reference nor the tafsir excerpts provided specify the pattern, so this cannot be confirmed or denied from the supplied data.
+
+All other claims check out: Ubayy ibn Ka'b's kunya (Abu al-Mundhir), the Ibn Abbas narration on الكرسي as mawḍiʿ al-qadamayn, the Arabic root analyses (وسن for سِنَة, ح-و-ط for يُحِيطُونَ, ق-و-م for القيوم), the القيوم mubālaghah analysis confirmed by al-Jalalain ("المبالغ في القيام بتدبير خلقه"), and the Arabic text itself matches the authentic source exactly.
+
+SUMMARY: One genuine terminological error — an Ibn Abbas athar is labeled "hadith," overstating its chain of transmission — but the theology, root morphology, tafsir attributions, and Arabic text are all accurate and well-grounded.

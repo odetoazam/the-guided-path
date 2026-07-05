@@ -1,0 +1,28 @@
+Enhanced Validation Report
+File: content/tadabbur/079-an-naziat/ayahs-027-033.md
+Ayah: 79:27
+Date: 2026-06-18T13:49:03
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ءَأَنتُمْ=Are you | أَشَدُّ=a more difficult | خَلْقًا=creation | أَمِ=or | ٱلسَّمَآءُ‌ۚ=the heaven. | بَنَـٰهَا=He constructed it?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "al-Qurtubi, al-Baghawi, al-Muyassar — all converge on the same single point...This is not four opinions. It is four cameras on one truth." — Three commentators are named but the count is stated as four. The fourth source (al-Jalālayn) is provided in the reference data but is never named in this passage of the reflection. Readers will see three named scholars and one claimed count; the mismatch overstates the documented consensus. Either name the fourth source explicitly or correct to "three cameras."
+
+- [MODERATE] "*Min ʿindikum* — 'in your own estimation,' as al-Qurtubi and al-Baghawi both gloss this" — The reflection presents *min ʿindikum* as if it is a quoted Arabic phrase from these commentators. Al-Baghawi's actual phrase is **عندكم وفي تقديركم** (*ʿindakum wa fī taqdīrikum*); al-Qurtubi uses **في تقديركم** (*fī taqdīrikum*). The preposition *min* does not appear in either. The semantic meaning is correctly conveyed, but attributing a specific Arabic phrase that neither commentator uses is an overstated attribution.
+
+SUMMARY: The reflection is linguistically accurate and tafsir-grounded throughout, but contains two moderate attribution imprecisions — a miscounted scholarly consensus (three named, four claimed) and a paraphrased Arabic gloss presented as a direct quotation from al-Qurtubi and al-Baghawi.

@@ -1,0 +1,37 @@
+Enhanced Validation Report
+File: content/tadabbur/055-ar-rahman/ayah-055.md
+Ayah: 55:55
+Date: 2026-06-12T10:12:16
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَبِأَىِّ=So which | ءَالَآءِ=(of the) favors | رَبِّكُمَا=(of) your Lord | تُكَذِّبَانِ=will you both deny?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "the jinn would answer: *'Not one of Your favors, our Lord, do we deny — so to You belongs all praise'"* — The provided al-Qurtubi source confirms the hadith via al-Tirmidhī and that the jinn gave a better response ("للجن أحسن منكم ردا"), but does not supply the specific wording of the jinn's reply in the excerpted text. This direct quote is presented as established hadith speech; cannot verify the precise phrasing from the provided reference data.
+
+- [MODERATE] "Three open syllables, two long alifs, the mouth opening and opening and opening — *aaa-laaa*" — Standard Arabic phonology parses آلاء as two syllables (ʔā.lāʔ), not three. The reflection's own transliteration "aaa-laaa" shows two vowel units, contradicting the "three" count. Not a critical morphological claim, but factually imprecise.
+
+No issues found with:
+- Arabic text matches the authentic provided exactly
+- Root Alw for ālā' is a classically attested position
+- Dual address to jinn and humans confirmed by al-Qurtubi ("خطاب للإنس والجن")
+- Singular vs. plural tension in ālā' is lexically accurate (contested singular)
+- Verb Form II imperfect dual consistent with the provided word-by-word
+- 31 occurrences of the refrain is accurate
+- Hadith source attribution (al-Tirmidhī, cited by al-Qurtubi) is confirmed
+
+SUMMARY: Linguistically and theologically sound; two moderate issues — the jinn's direct-quoted response wording is unverifiable from the provided excerpts, and the syllable count for ālā' is imprecise.

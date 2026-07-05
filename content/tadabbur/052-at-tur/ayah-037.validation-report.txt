@@ -1,0 +1,37 @@
+Enhanced Validation Report
+File: content/tadabbur/052-at-tur/ayah-037.md
+Ayah: 52:37
+Date: 2026-06-09T16:03:25
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَمْ=Or | عِندَهُمْ=with them | خَزَآئِنُ=(are the) treasures | رَبِّكَ=(of) your Lord | أَمْ=or | هُمُ=(are) they | ٱلْمُصَۣيْطِرُونَ=the controllers?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE — metadata only, not reflection body] Frontmatter comment: "Form II participle مُصَيْطِر confirmed in Leeds corpus" — morphologically imprecise. سَيْطَرَ is a **quadriliteral** verb (س-ي-ط-ر, pattern فَعْلَلَ), not a Form II triliteral (فَعَّلَ). Al-Jalalayn confirms the quadriliteral class explicitly: "وفعله سيطر ومثله بيطر وبيقر" — grouping it with other quadriliterals. The active participle مُصَيْطِر follows مُفَعْلِل, not the Form II مُفَعِّل pattern. This error lives in an internal annotation, not the published body, but it could propagate in a validation pipeline.
+
+- [MODERATE — metadata only, not reflection body] Frontmatter comment: "ishmām of zāy per al-Baghawī" — the provided al-Baghawī excerpt confirms only the sīn/ṣād qirāʾāt variation ("ويجوز بالسين والصاد جميعا، قرأ ابن عامر بالسين") with no mention of ishmām. The ishmām reading is attested in the tradition (associated with Abū Jaʿfar), but cannot be attributed to al-Baghawī on the basis of the provided reference data. If this is cited in the body when the full reflection is complete, it needs a different attribution.
+
+**Body-level claims verified clean:**
+- Arabic text matches authentic Arabic exactly
+- Translation accurate against word-by-word reference
+- المصيطرون rendered as "in control" — confirmed: all four tafsir sources give المتسلطون الجبارون
+- خزائن root kh-z-n glossed as "store away, guard" — attested in Lisān and Mufradāt; al-Qurtubi's structural definition ("بيت يهيأ لجمع أنواع مختلفة من الذخائر") aligns
+- Contextual framing of 52:35–43 as a cascade of *am* questions is accurate
+- The ayahs attributed to vv. 35–36 (creation from nothing / creation of heavens) are correctly identified
+- No scholar attribution is inverted or fabricated; no Arabic text errors
+
+SUMMARY: The published reflection body is accurate and well-grounded; two morphological/attribution inaccuracies exist only in the internal metadata comment and should be corrected before the comment becomes source material for downstream automation.

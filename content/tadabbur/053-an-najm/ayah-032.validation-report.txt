@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/053-an-najm/ayah-032.md
+Ayah: 53:32
+Date: 2026-06-09T18:15:51
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ٱلَّذِينَ=Those who | يَجْتَنِبُونَ=avoid | كَبَـٰٓئِرَ=great | ٱلْإِثْمِ=sins | وَٱلْفَوَٲحِشَ=and the immoralities | إِلَّا=except | ٱللَّمَمَ‌ۚ=the small faults; | إِنَّ=indeed, | رَبَّكَ=your Lord | وَٲسِعُ=(is) vast | ٱلْمَغْفِرَةِ‌ۚ=(in) forgiveness. | هُوَ=He | أَعْلَمُ بِكُمْ=(is) most knowing about you | إِذْ=when | أَنشَأَكُم=He produced you | مِّنَ=from | ٱلْأَرْضِ=the earth | وَإِذْ=and when | أَنتُمْ=you were | أَجِنَّةٌ=fetuses | فِى=in | بُطُونِ=(the) wombs | أُمَّهَـٰتِكُمْ‌ۖ=(of) your mothers. | فَلَا=So (do) not | تُزَكُّوٓاْ=ascribe purity | أَنفُسَكُمْ‌ۖ=(to) yourselves. | هُوَ=He | أَعْلَمُ=knows best | بِمَنِ=(he) who | ٱتَّقَىٰٓ=fears.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+**VERDICT: PASS**
+
+**ISSUES:**
+
+- [MODERATE] "There is a particular pattern — grammarians call it Form VIII — where the action turns back on the doer. It is reflexive, self-involving." — Form VIII (افتعل) is not uniformly reflexive; it serves multiple semantic functions (reflexive, spontaneous, acquisitive, reciprocal, etc.). Presenting it as definitionally reflexive overstates the pattern. However, for *ijtanaba* specifically, the "self-positioning" derivation is lexically sound and the conclusion drawn (they place themselves away from sin) is attested. The error is in the morphological generalization, not the application to this verb.
+
+- [PASS note] The j-n-b root analysis ("side/flank → ajnabī → janīb") is lexically accurate per Lisān al-ʿArab and Mufradāt al-Rāghib; no issue there.
+
+- [PASS note] The lamam framing (minor slips vs. grave sins) aligns with Jalalayn ("صغار الذنوب") and Muyassar ("الذنوب الصغار التي لا يُصِرُّ صاحبها عليها"). The reflection does not yet explicitly treat lamam in the visible portion, so no claim to verify — but the frontmatter tag is consistent with the classical position.
+
+- [PASS note] Surah context (ẓann diagnosis, idols, verse 31 setup) is accurate and well-positioned against the visible text of 53:28–31.
+
+**SUMMARY:** One moderate morphological overgeneralization about Form VIII, but it leads to an accurate conclusion about this specific verb; no critical errors in roots, Arabic text, or scholar attribution in the visible portion.

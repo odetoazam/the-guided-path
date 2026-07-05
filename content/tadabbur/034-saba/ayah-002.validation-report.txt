@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/034-saba/ayah-002.md
+Ayah: 34:2
+Date: 2026-05-18T00:33:16
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَعْلَمُ=He knows | مَا=what | يَلِجُ=penetrates | فِى=in | ٱلْأَرْضِ=the earth | وَمَا=and what | يَخْرُجُ=comes out | مِنْهَا=from it, | وَمَا=and what | يَنزِلُ=descends | مِنَ=from | ٱلسَّمَآءِ=the heaven | وَمَا=and what | يَعْرُجُ=ascends | فِيهَاۚ=therein. | وَهُوَ=And He | ٱلرَّحِيمُ=(is) the Most Merciful, | ٱلْغَفُورُ=the Oft-Forgiving.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+**VERDICT: MODERATE**
+
+**ISSUES:**
+
+- [MODERATE] "Al-Muyassar says: 'every drop of water that enters the earth, every plant and mineral and water source'" — Al-Muyassar's text actually distributes these examples across two separate verbs. For **يَلِجُ** it says only "من قطرات الماء" (drops of water). The plants, minerals, and water sources (النبات والمعادن والمياه) are assigned to **يَخْرُجُ مِنْهَا** (what exits), not what enters. The reflection collapses both columns into a single attributed quote describing يلج, misrepresenting the tafsir's scope.
+
+No other issues found. Specifically:
+- Root w-l-j meaning (threading through a narrow opening, not generic *dakhala*) is lexically sound and consistent with the 7:40 camel/needle usage cited
+- Al-Baghawi attribution ("water, and the dead") is accurate — confirmed by "من الماء والأموات"
+- Al-Qurtubi attribution ("drops of water, treasures, buried things, the dead") is accurate — confirmed by "من قطر...من الكنوز والدفائن والأموات"
+- The mudāri' / continuous-tense observation on all four verbs (يَلِجُ، يَخْرُجُ، يَنزِلُ، يَعْرُجُ) is grammatically correct
+- The asymmetry argument (ar-Raḥīm al-Ghafūr instead of knowledge-names) is framed as interpretation throughout, not as a documented scholarly position — acceptable as tadabbur
+- Qaf 50:16 citation is textually accurate; the "waliyaja applied to inner life" bridge is clearly the author's own analogical reading, not a claimed scholarly attribution
+
+**SUMMARY:** One moderate error — al-Muyassar's يخرج examples are incorrectly folded into the يلج description, misrepresenting the tafsir's distribution; all other claims are accurate to the reference data.

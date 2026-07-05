@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/071-nuh/ayahs-017-018.md
+Ayah: 71:17
+Date: 2026-06-15T03:52:35
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَٱللَّهُ=And Allah | أَنۢبَتَكُم=has caused you to grow | مِّنَ=from | ٱلْأَرْضِ=the earth | نَبَاتًا=(as) a growth.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "Al-Jalālayn, al-Baghawī, and al-Qurṭubī all anchor this in the origin of Adam" — verified. Al-Jalalayn: *إذ خلق أباكم آدم منها*; al-Baghawi: *أراد مبدأ خلق آدم... والناس ولده*; al-Qurtubi: *يعني آدم عليه السلام خلقه من أديم الأرض*. All three confirmed.
+- [PASS] Form IV causative analysis of *anbata* — morphologically correct. Root ن-ب-ت, Form IV (أَفْعَلَ pattern) = *anbata* = "to cause to grow." The word-by-word confirms "has caused you to grow." No overclaim.
+- [PASS] "the word the scholars circled" / *nabātā* as *mafʿūl muṭlaq* placed on *ghayr al-maṣdar* — al-Qurtubi states this explicitly: *مصدر على غير المصدر ; لأن مصدره أنبت إنباتا*; al-Baghawi concurs: *اسم جعل في موضع المصدر أي إنباتاً*, citing al-Khalil. The reflection is building toward exactly this puzzle (text cuts off mid-sentence) — nothing stated is wrong.
+- [PASS] "Nine hundred and fifty years" — accurate computation from Q 29:14 (*أَلْفَ سَنَةٍ إِلَّا خَمْسِينَ عَامًا*); correctly attributed to "elsewhere" in the Quran, not to this surah.
+- [PASS] "put their fingers in their ears and covered themselves with their clothes" attributed to "this very surah" — confirmed from Q 71:7 (*جَعَلُوا أَصَابِعَهُمْ فِي آذَانِهِمْ وَاسْتَغْشَوْا ثِيَابَهُمْ*).
+- [PASS] Seven heavens / moon as light / sun as lamp — accurately drawn from Q 71:15–16, confirmed in context.
+- [PASS] Ayah 18 framing (return to earth, brought out again) — al-Muyassar: *ثم يعيدكم في الأرض بعد الموت، ويخرجكم يوم البعث إخراجاً محققاً*. ✓
+
+SUMMARY: The reflection is linguistically precise, its three tafsir attributions are directly verifiable from the provided sources, and the grammatical puzzle it sets up (the *ghayr al-maṣdar* substitution) is exactly what al-Qurtubi and al-Baghawi flag — no errors found in the portion submitted.

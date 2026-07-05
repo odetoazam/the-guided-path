@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/038-sad/ayah-013.md
+Ayah: 38:13
+Date: 2026-06-25T08:26:44
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَثَمُودُ=And Thamud | وَقَوْمُ=and (the) people | لُوطٍ=(of) Lut | وَأَصْحَـٰبُ=and (the) companions | لْــَٔيْكَةِ‌ۚ=(of) the wood. | أُوْلَـٰٓئِكَ=Those | ٱلْأَحْزَابُ=(were) the companies.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "And they said — and this is in Surah Al-A'raf, Surah Hud — something revealing: 'Does your prayer command you that we should leave what our fathers worshipped, or that we do what we like with our wealth?'" — This specific quote (أَصَلَاتُكَ تَأْمُرُكَ...) is from Hud 11:87 only. Surah Al-A'raf (7:85–93) contains Shu'ayb's story but not this line. The phrasing "this is in Surah Al-A'raf, Surah Hud" implies the specific quotation appears in both, which is incorrect. General cross-reference to Al-A'raf is fine; attributing the specific quote to it is not.
+
+PASS items for the record:
+- Arabic text uses ٱلْأَيْكَةِ — a recognized qirāʾāt variant; Al-Qurtubi explicitly documents both readings (with and without the definite article/hamza). Not an error.
+- الأيكة = غيضة (dense thicket) confirmed by Al-Jalalayn and Al-Qurtubi verbatim.
+- Aṣḥāb al-Aykah = people of Shu'ayb confirmed by Al-Jalalayn ("وهم قوم شعيب") and Al-Muyassar.
+- Root ṣ-ḥ-b / ṣāḥib analysis (sustained habitual companionship) is lexically standard; no overreach.
+- الأحزاب meaning "those who formed coalitions against the prophets" confirmed by Al-Baghawi ("الذين تحزبوا على الأنبياء") and Al-Muyassar.
+- "Thamud killed a she-camel / Lut's people / Aykah people cheated scales" — all accurate Quranic narrative summaries.
+- Nominal sentence أُوْلَـٰٓئِكَ ٱلْأَحْزَابُ as a classifying verdict is supported by Al-Qurtubi's gloss ("كقولك: فلان هو الرجل").
+- The interpretive application of ṣāḥib semantics to "companionship with the material" goes beyond what the provided tafsirs explicitly state, but the reflection appropriately frames it as a derived reading, not a documented classical position.
+
+SUMMARY: One citation error — the specific "your prayer commands you" quote (Hud 11:87) is incorrectly co-attributed to Surah Al-A'raf; all other linguistic, historical, and tafsir claims are accurate and well-grounded.

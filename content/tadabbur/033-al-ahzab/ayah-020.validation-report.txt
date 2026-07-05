@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/033-al-ahzab/ayah-020.md
+Ayah: 33:20
+Date: 2026-05-15T05:42:08
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَحْسَبُونَ=They think | ٱلْأَحْزَابَ=the confederates | لَمْ=(have) not | يَذْهَبُواْ‌ۖ=withdrawn. | وَإِن=And if | يَأْتِ=(should) come | ٱلْأَحْزَابُ=the confederates | يَوَدُّواْ=they would wish | لَوْ=if | أَنَّهُم=that they (were) | بَادُونَ=living in (the) desert | فِى=among | ٱلْأَعْرَابِ=the Bedouins, | يَسْــَٔلُونَ=asking | عَنْ=about | أَنۢبَآئِكُمْ‌ۖ=your news. | وَلَوْ=And if | كَانُواْ=they were | فِيكُم=among you | مَّا=not | قَـٰتَلُوٓاْ=they would fight | إِلَّا=except | قَلِيلاً=a little.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] Root attribution for يَحْسَبُونَ — ح-س-ب is correct; the "calculation/accounting" semantic gloss is lexically defensible (Rāghib's Mufradāt grounds ḥisāb in enumeration/reckoning) and the reflection frames it as a connotational observation, not a redefinition. No overstatement.
+- [PASS] Historical framing — Quraysh + Ghaṭafān + Jewish tribal coalition confirmed by al-Baghawī explicitly (قريشا وغطفان واليهود). "Ten thousand" is unverifiable from the reference data provided but is standard sīrah and not asserted as Quranic.
+- [PASS] Attribution of subjects as munāfiqūn — confirmed by all four sources (al-Jalālayn, al-Muyassar explicitly, al-Qurṭubī via جبن, al-Baghawī by name).
+- [PASS] Counterfactual wish structure — reflection's "spectator watching from afar, asking about news" maps cleanly to al-Muyassar's يستخبرون عن أخباركم ويسألون عن أنبائكم.
+- [PASS] إن vs. لو distinction (begun, text cut off) — the grammatical claim is correct: وَإِن يَأْتِ uses إن (real conditional, possible), لَوْ أَنَّهُم uses لو (counterfactual wish). This is a well-attested Arabic grammatical distinction.
+- [PASS] Hypervigilance analogy — framed explicitly as a modern parallel, not as a tafsīr claim. Within tadabbur scope.
+- [NOTE] قَاتَلُوا listed in concepts as "Form III mufa'alah" — this is accurate; قاتل is Form III of ق-ت-ل. Not a claim made in the prose (text cuts off), so no error to flag.
+- [NOTE] al-Jalālayn's explanation of إلا قليلا as "رياءً وخوفا من التعيير" is the only classical nuance not yet addressed in the provided text, but the text is truncated. Cannot flag absence as error.
+
+SUMMARY: All verifiable claims in the provided text align with the word-by-word data and classical tafsīr sources; no root errors, misattributions, or Arabic text discrepancies detected.

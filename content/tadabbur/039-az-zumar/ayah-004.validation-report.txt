@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/039-az-zumar/ayah-004.md
+Ayah: 39:4
+Date: 2026-06-06T04:22:34
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: لَّوْ=If | أَرَادَ ٱللَّهُ=Allah (had) intended | أَن=to | يَتَّخِذَ=take | وَلَدًا=a son, | لَّٱصْطَفَىٰ=surely, He (could) have chosen | مِمَّا=from what | يَخْلُقُ=He creates | مَا=whatever | يَشَآءُ‌ۚ=He willed. | سُبْحَـٰنَهُۥ‌ۖ=Glory be to Him! | هُوَ=He | ٱللَّهُ=(is) Allah | ٱلْوَٲحِدُ=the One, | ٱلْقَهَّارُ=the Irresistible.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "law is the particle of the impossible condition" — The grammatical characterization is precise. The classical definition ḥarf imtinaʿ li-imtinaʿ is accurately rendered as "the non-occurrence of one thing because of the non-occurrence of another." No inflation.
+- [PASS] "the pagans of Makkah looked at the angels and said: these are the daughters of Allah... those who said Uzayr — Ezra — was the son of God... the sonship of the Messiah" — All three groups match Jalalayn exactly: *"قالوا الملائكة بنات الله وعزير ابن الله والمسيح ابن الله."* No invented groupings.
+- [PASS] "This is the root *r-w-d*, in its Form IV pattern" — أَرَادَ is correctly identified as Form IV (أَفْعَلَ) of the root رود. Lisān al-ʿArab and Mufradāt al-Rāghib list it under this root. Accurate.
+- [PASS] "Entertains the premise... the building falls on its own" — This framing of the ayah as a conditional demolition rather than denunciation is consistent with what all four tafsir sources do: they accept the conditional structure (*law arāda*) and then immediately follow with *subḥānahu* as the refutation. The reflection does not overstate this as a scholar's documented interpretive position — it presents it as the rhetorical logic of the grammar itself.
+- [NOTE — not a flag] The reflection slightly simplifies the إذا / إن / لو triad by grouping إذا and إن together as "open if." This is pedagogically valid for a lay audience and not a doctrinal claim; it cannot be called a MODERATE error.
+- [NOTE — unverifiable from provided data] "Form IV signals the deliberate, directed willing" — this semantic gloss on Form IV is the author's own interpretive characterization, not a claim sourced from the provided lexicons. It is plausible and not contradicted, but the provided data does not confirm it. Given that it is framed as the author's linguistic reading rather than a scholar attribution, it does not rise to MODERATE.
+
+SUMMARY: The portion submitted is grammatically precise, historically grounded in the tafsir data, and presents counterfactual-*law* analysis that every provided source supports — no critical or moderate errors found.

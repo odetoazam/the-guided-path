@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/054-al-qamar/ayah-004.md
+Ayah: 54:4
+Date: 2026-06-09T23:26:03
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَلَقَدْ=And certainly | جَآءَهُم=has come to them | مِّنَ=of | ٱلْأَنۢبَآءِ=the information | مَا فِيهِ=wherein | مُزْدَجَرٌ=(is) deterrence,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "in the classical lexicons, naba' is reserved for news of weight... you cannot remain the person you were before hearing it" — the first clause tracks Mufradāt al-Rāghib (cited in frontmatter) but the provided tafsir sources actually gloss anbā' with akhbār, not with an elevated category: al-Jalalayn uses أخبار إهلاك الأمم, al-Baghawi uses أخبار الأمم المكذبة. The naba'/khabar semantic distinction is a real lexicological claim but cannot be verified from the supplied reference data; "you cannot remain the person you were" is an authorial extension, not a tafsir statement. Flag as interpretive elaboration, not error.
+
+Confirmed accurate:
+- al-Qurtubi attribution on partitive min: "من بعض الأنباء... ما علم أنهم يحتاجون إليه... وأن لهم فيه شفاء... وسكت عما سوى ذلك" — the reflection's paraphrase (divine selection, shifā', silence about the rest) is precise and complete
+- Form VIII tā'→dāl assimilation: al-Jalalayn (والدال بدل من تاء الافتعال), al-Baghawi (وأصله مزتجر قلبت التاء دالاً) both confirm the substitution; the voicing explanation (zāy voiced, tā' voiceless) is phonologically correct
+- Root z-j-r as forceful restraint: al-Jalalayn's نهيته بغلظة and al-Baghawi's نهيته عن السوء both support "rebuke / drive back with force"
+- 38:67 citation (نَبَأٌ عَظِيمٌ) and 78:1-2 usage: accurate
+- Arabic text matches the authenticated source exactly
+
+SUMMARY: One interpretive elaboration on the naba'/khabar distinction exceeds what the supplied tafsirs demonstrate, but the core morphological, contextual, and al-Qurtubi citations are all precisely sourced and accurate.

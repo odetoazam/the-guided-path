@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/045-al-jathiyah/ayah-033.md
+Ayah: 45:33
+Date: 2026-06-08T04:25:33
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَبَدَا=And (will) appear | لَهُمْ=to them | سَيِّـَٔـاتُ=(the) evil | مَا=(of) what | عَمِلُواْ=they did | وَحَاقَ=and (will) envelop | بِهِم=them | مَّا=what | كَانُواْ=they used | بِهِۦ=[at it] | يَسْتَهْزِءُونَ=(to) mock.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "al-Qurtubi tradition glosses *badā lahum* as *ẓahara lahum*... he says what appears is *jazāʾu sayyiʾāti mā ʿamilū*" — Accurately reproduced. Provided Qurtubi text reads exactly: *أي ظهر لهم جزاء سيئات ما عملوا*. Both the gloss and the interpretive addition are present verbatim.
+- [PASS] Root attribution **ب-د-و (badā)** = "to appear/become manifest" — Correct. *Badā yadbū* (ب-د-و) is the appearing verb; correctly distinguished from *badaʾa* (ب-د-أ, to begin). Jalalayn and Qurtubi both gloss it *ẓahara*, confirming the semantic field.
+- [PASS] Root attribution **ح-ي-ق (ḥāqa)** with meaning "envelop / close in / encircle" — Supported. Qurtubi gives *nāzala bihim wa-aḥāṭa* (descended and encircled), and the word-by-word gives "envelop." The reflection's "closed in from every side" is a fair rendering of *aḥāṭa*.
+- [PASS] "Form X of hzA (yastahziʾūn)" in metadata — Correct. يَسْتَهْزِئُونَ is Form X (يَسْتَفْعِلُ) of root ه-ز-أ.
+- [PASS] Bedouin (*badawī*) etymology from ب-د-و — Linguistically accurate. *Bādiya* (open desert) and *badawī* share this root.
+- [PASS] Translation "the very thing they used to mock" for *mā kānū bihi yastahziʾūn* — The word-by-word supports this rendering exactly.
+
+SUMMARY: All verifiable claims in the provided text are grounded in the reference data; the Qurtubi citation is reproduced with precision, root attributions are correct, and no scholar positions are inverted or overstated.

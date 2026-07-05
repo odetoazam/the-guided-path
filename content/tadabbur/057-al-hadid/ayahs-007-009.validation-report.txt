@@ -1,0 +1,26 @@
+Enhanced Validation Report
+File: content/tadabbur/057-al-hadid/ayahs-007-009.md
+Ayah: 57:7
+Date: 2026-06-12T17:29:23
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ءَامِنُواْ=Believe | بِٱللَّهِ=in Allah | وَرَسُولِهِۦ=and His Messenger | وَأَنفِقُواْ=and spend | مِمَّا=of what | جَعَلَكُم=He has made you | مُّسْتَخْلَفِينَ=trustees | فِيهِ‌ۖ=therein. | فَٱلَّذِينَ=And those | ءَامَنُواْ=who believe | مِنكُمْ=among you | وَأَنفَقُواْ=and spend, | لَهُمْ=for them | أَجْرٌ=(is) a reward | كَبِيرٌ=great.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- None identified.
+
+SUMMARY: Every verifiable claim in the provided excerpt is grounded in the supplied tafsir data — the Tabuk/al-ʿUsra occasion, the Uthman attribution (Jalālayn), Baghawī's Makkan-disbeliever address with the wealth-inheritance framing, Qurṭubī's four-opinion spread on "spend," and Qurṭubī's conclusion that *mustakhlafīn* proves divine root-ownership while the servant holds only *tasarruf* — all confirmed; the Form-X morphological analysis of خ-ل-ف is lexically standard and the *istaghfara* analogy is a correct illustration.

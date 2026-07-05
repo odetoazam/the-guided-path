@@ -1,0 +1,41 @@
+Enhanced Validation Report
+File: content/tadabbur/065-at-talaq/ayah-012.md
+Ayah: 65:12
+Date: 2026-06-13T11:32:33
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ٱللَّهُ=Allah | ٱلَّذِى=(is) He Who | خَلَقَ=created | سَبْعَ=seven | سَمَـٰوَٲتٍ=heavens | وَمِنَ=and of | ٱلْأَرْضِ=the earth, | مِثْلَهُنَّ=(the) like of them. | يَتَنَزَّلُ=Descends | ٱلْأَمْرُ=the command | بَيْنَهُنَّ=between them | لِتَعْلَمُوٓاْ=that you may know | أَنَّ=that | ٱللَّهَ=Allah | عَلَىٰ=(is) on | كُلِّ=every | شَىْءٍ=thing | قَدِيرٌ=All-Powerful. | وَأَنَّ=And that, | ٱللَّهَ=Allah | قَدْ=indeed, | أَحَاطَ=encompasses | بِكُلِّ=all | شَىْءٍ=things | عِلْمَۢا=(in) knowledge.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+**VERDICT: PASS**
+
+**ISSUES:**
+
+- [PASS] *"yatanazzalu = Form V (root nzl)"* — Confirmed. يَتَنَزَّلُ fits the يَتَفَعَّلُ (yatafaʿʿalu) imperfect pattern of Form V (تَنَزَّلَ perfect). The frontmatter note is morphologically correct.
+
+- [PASS] *"Form V takes a simple action and stretches it out. It makes it gradual. Progressive. Done in stages"* — Legitimate morphological claim. Form V is the reflexive of Form II (نَزَّلَ), which itself denotes gradual/repeated sending down; Form V intensifies that inward/progressive quality. Standard classical grammar supports this reading.
+
+- [PASS] *"present tense — the tense of the unfinished, the ongoing"* — Accurate characterization of the Arabic muḍāriʿ.
+
+- [PASS] *"seven earths"* — Directly confirmed by Jalalayn: «يعني سبع أرضين», and Muyassar: «وخلق سبعًا من الأرَضين».
+
+- [PASS] *"the classical scholars give us not one answer but several"* — Confirmed. Jalalayn limits *al-amr* to revelation (الوحي); Baghawi presents both the revelation reading (from the seventh heaven to the lowest earth) and the providential-management reading (rain, plants, day/night, seasons).
+
+- [PASS] *"aḥāṭa = Form IV (root HwT)"* — Correct. أَحَاطَ is the Form IV perfect of ح-و-ط with a wāw-medial ʿilla.
+
+- [PASS] All surah-internal cross-references (65:1 *wa-aḥṣū l-ʿiddata*, housing prohibition, 65:7 *sayyajʿalu llāhu baʿda ʿusrin yusrā*) accurately rendered.
+
+No factual, morphological, or attribution errors detected anywhere in the excerpt.
+
+**SUMMARY:** Every linguistic, morphological, and tafsir claim in this reflection is either directly verified by the provided reference data or is a well-grounded classical position — no errors found.

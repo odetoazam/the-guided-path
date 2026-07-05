@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/004-an-nisa/ayah-049.md
+Ayah: 4:49
+Date: 2026-06-24T09:23:54
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَلَمْ=Do not | تَرَ=you see | إِلَى=[towards] | ٱلَّذِينَ=those who | يُزَكُّونَ=claim purity | أَنفُسَهُم‌ۚ=(for) themselves? | بَلِ=Nay, | ٱللَّهُ=(it is) Allah, | يُزَكِّى=He purifies | مَن=whom | يَشَآءُ=He wills | وَلَا=and not | يُظْلَمُونَ=they will be wronged | فَتِيلاً=(even as much as) a hair on a date-seed.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "Al-Qurtubi reports there was no real disagreement that the verse pointed to a particular group" — Exact match: *"ولم يختلف أحد من المتأولين في أن المراد اليهود"* (Qurtubi). Accurate.
+- [PASS] "recorded by al-Qurtubi from Qatāda and al-Ḥasan, says it was their claim, 'We are the children of God and His beloved ones'" — Exact match: *"فقال قتادة والحسن: ذلك قولهم: نحن أبناء الله وأحباؤه"* (Qurtubi). Accurate.
+- [PASS] "al-Baghawī reports from al-Kalbī — describes men who brought their small children to the Prophet ﷺ...argued, 'We are no different from them; whatever we do by day is forgiven by night'" — Exact match in Baghawi: *"قال الكلبي...أتوا بأطفالهم...ما عملنا بالنهار يكفر عنا بالليل"*. Accurate.
+- [PASS] Root of *tara* identified as **رأى (r-ʾ-y)** — Correct.
+- [PASS] Root **z-k-w / z-k-y** glossed as "purity and growth" — Lexically attested; same root yields *zakāh*. Accurate.
+- [PASS] Form II (fa''ala) described as doubling the middle radical, with functions of intensification, causation, and declaration — Morphologically correct for *zakkā / yuzakkī*.
+- [PASS] Translation of *fatīlan* as "thread of a date-stone" — Aligns with Muyassar: *"الخيط الذي يكون في شق نَواة التمرة"*. The word-by-word reference gives "hair on a date-seed" (alternate rendering); both are classical positions; no error.
+- [PASS] "Notice these are *competing* occasions, not one settled story. Hold them loosely." — The reflection correctly presents the Qatada/Hasan and Kalbi narrations as distinct traditions without collapsing them. Methodologically sound.
+
+SUMMARY: All scholar attributions are verified against the provided tafsir sources, morphological claims are correct, and the reflection responsibly establishes the specific historical context before drawing the broader lesson — no errors detected.

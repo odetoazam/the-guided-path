@@ -1,0 +1,28 @@
+Enhanced Validation Report
+File: content/tadabbur/048-al-fath/ayah-020.md
+Ayah: 48:20
+Date: 2026-06-08T15:28:43
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَعَدَكُمُ ٱللَّهُ=Allah has promised you | مَغَانِمَ=spoils of war | كَثِيرَةً=much | تَأْخُذُونَهَا=that you will take it, | فَعَجَّلَ=and He has hastened | لَكُمْ=for you | هَـٰذِهِۦ=this | وَكَفَّ=and has withheld | أَيْدِىَ=(the) hands | ٱلنَّاسِ=(of) the people | عَنكُمْ=from you - | وَلِتَكُونَ=that it may be | ءَايَةً=a sign | لِّلْمُؤْمِنِينَ=for the believers | وَيَهْدِيَكُمْ=and He may guide you | صِرَٲطًا=(to the) Path | مُّسْتَقِيمًا=Straight.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR / NOTE] "Ibn ʿAbbās and Mujāhid, as al-Qurṭubī and al-Baghawī report" — Attribution is accurate for al-Qurṭubī (explicitly names both scholars: "قال ابن عباس ومجاهد . إنها المغانم التي تكون إلى يوم القيامة"), but the al-Baghawī excerpt provided does not name either scholar by name — it states the same interpretation without attribution. The reflection slightly overstates the citation chain for al-Baghawī. Not a scholarly error; a citation precision issue.
+- [UNVERIFIABLE from reference data] Historical claim of "roughly fourteen hundred men" — plausible and widely attested in sīrah literature, but not derivable from the tafsir excerpts provided. Cannot confirm or deny from the given sources.
+- [NOTE on incomplete text] The reflection cuts off before identifying what "هَـٰذِهِ" (hādhih) refers to. Al-Qurṭubī records a genuine ikhtilāf here: Mujāhid says Khaybar, Ibn ʿAbbās says the peace of Hudaybiyyah itself. Al-Jalālayn and al-Baghawī also identify it as Khaybar. When the reflection addresses this, it should surface the disagreement rather than defaulting silently to one position.
+
+SUMMARY: The morphological analysis (Form II ʿajjala, fa- as immediate consequence, perfect/imperfect tense contrast) is linguistically accurate and grounded in classical sources; the core attribution to Ibn ʿAbbās and Mujāhid is verified in al-Qurṭubī; no critical or moderate errors are present in the evaluated portion.

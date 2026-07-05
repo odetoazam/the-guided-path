@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/004-an-nisa/ayahs-098-099.md
+Ayah: 4:98
+Date: 2026-06-24T10:07:04
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِلَّا=Except | ٱلْمُسْتَضْعَفِينَ=the oppressed | مِنَ=among | ٱلرِّجَالِ=the men | وَٱلنِّسَآءِ=and the women | وَٱلْوِلْدَٲنِ=and the children | لَا يَسْتَطِيعُونَ=who are not able to | حِيلَةً=plan | وَلَا=and not | يَهْتَدُونَ=they are directed | سَبِيلاً=(to) a way.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR NOTE] "a letter pronounced by flattening the tongue against the roof of the mout" — text cuts off mid-sentence, so the full articulation description cannot be evaluated. The partial description is not wrong, but the ḍād's precise articulation (emphatic lateral) is more complex than a lay description can fully capture. Not a scholarly error.
+- [VERIFIED] "Form X for al-mustaḍʿafīn and yastaṭīʿūn; Form VIII for yahtadūn" — correct. mustaḍʿafīn = Form X passive participle (mustaFʿal) from ḌʿF; yastaṭīʿūna = Form X imperfect from ṬWʿ; yahtadūna = Form VIII imperfect from HDY. All three verified.
+- [VERIFIED] "kunnā mustaḍʿafīna fī l-arḍ" attributed to the people in 4:97 — accurate Quranic quotation, and the contrast between the same word appearing in 4:97 (rejected claim) and 4:98 (accepted reality) is a legitimate exegetical observation, not an overreach.
+- [VERIFIED] Translation of حيلة as "devise a way out" — Qurtubi explicitly calls حيلة a "general term for all types of means of escape" (lafẓ ʿāmm li-anwāʿ asbāb al-takhalluṣ), which the reflection's rendering captures accurately. Not an inflation.
+- [VERIFIED] The ḍuʿafāʾ vs. mustaḍʿafīn distinction — this is a real morphological distinction; the Form X passive places the agent of weakening outside the subject. The examples given (istaghfara, istaḥsana, istaṣghara) are correctly classified.
+- [VERIFIED] Baghawi and Muyassar align with the reflection's framing: Baghawi says "He excepted those with excuses among them" (istathnā ahl al-ʿudhr minhum); Muyassar says "He excuses the incapacitated who cannot repel oppression from themselves." The "genuine vs. claimed helplessness" thesis is squarely within the tafsir consensus.
+
+SUMMARY: The first 8000 characters are morphologically accurate, linguistically well-grounded, and fully consistent with Jalalayn, Baghawi, Qurtubi, and Muyassar — no critical or moderate errors found.

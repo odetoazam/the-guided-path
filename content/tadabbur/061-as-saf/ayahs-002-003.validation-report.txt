@@ -1,0 +1,44 @@
+Enhanced Validation Report
+File: content/tadabbur/061-as-saf/ayahs-002-003.md
+Ayah: 61:2
+Date: 2026-06-13T00:26:08
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ=O you who believe! | لِمَ=Why | تَقُولُونَ=(do) you say | مَا=what | لَا تَفْعَلُونَ=you do not do?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- None identified from the reference data provided.
+
+Detailed check:
+
+**Addressee claim** — "This is not spoken to hypocrites... yā ayyuhā alladhīna āmanū." Confirmed by the authentic Arabic and all four tafsir sources, which uniformly address believers.
+
+**Al-Baghawī attribution** — "a group of the companions sat together... 'we would pour out our wealth and our lives in it.'" Confirmed verbatim: al-Baghawī: *"ولبذلنا فيه أموالنا وأنفسنا."* PASS.
+
+**Al-Jalālayn / Uḥud connection** — "Another tradition, reflected in al-Jalālayn, ties the rebuke directly to that turning at Uḥud." Confirmed verbatim: *"إذ انهزمتم بأُحد."* PASS.
+
+**Al-Qurṭubī attribution** — The reflection groups Qurṭubī with Baghawī for the "most beloved deed" tradition. The Qurṭubī excerpt confirms the core narration (*"لو نعلم أي الأعمال أحب إلى الله لعملناه"*) via Ibn Salām, though the "wealth and lives" phrasing is truncated in the provided source. Not enough data to flag; the core attribution holds.
+
+**Morphology of *lima*** — Described as preposition *li* + interrogative *mā*. Correct Arabic grammar. PASS.
+
+**Fa-ʿa-la as the paradigm verb** — "the root grammarians use as the template for every other verb." Standard Arabic grammatical fact. PASS.
+
+**Related ayah 4:22** — The reflection lists 4:22 alongside the concept of *maqt*. 4:22 uses *maqtan* explicitly ("إِنَّهُ كَانَ فَاحِشَةً وَمَقْتًا"), confirming the lexical connection that supports the claim that Allah reserves this word for acts of extreme repugnance. PASS.
+
+**Phrase repetition** — "He repeats the phrase. Word for word." Confirmed by the Arabic text in the frontmatter: both ayahs 2 and 3 close on *mā lā tafʿalūn*. PASS.
+
+SUMMARY: All verifiable claims are accurately grounded in the provided tafsir and Arabic reference data; no errors in attribution, morphology, or textual quotation were found.

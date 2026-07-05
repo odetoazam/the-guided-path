@@ -1,0 +1,37 @@
+Enhanced Validation Report
+File: content/tadabbur/047-muhammad/ayah-011.md
+Ayah: 47:11
+Date: 2026-06-08T10:11:08
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ذَٲلِكَ=That | بِأَنَّ=(is) because | ٱللَّهَ=Allah | مَوْلَى=(is the) Protector | ٱلَّذِينَ=(of) those who | ءَامَنُواْ=believe, | وَأَنَّ=and because | ٱلْكَـٰفِرِينَ=the disbelievers - | لَا=(there is) no | مَوْلَىٰ=protector | لَهُمْ=for them.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate issues identified against the provided reference data.
+
+Supporting checks:
+
+- **Root w-l-y / "nearness"**: Linguistically standard; attested in Lisān al-ʿArab and consistent with the semantic field the reflection claims.
+- **"al-mawlā here is al-nāṣir, said by Ibn ʿAbbās"** → Confirmed in Qurtubī: *"فالمولى: الناصر هاهنا، قاله ابن عباس وغيره"*. Attribution is precise.
+- **"waliyyuhum wa nāṣiruhum" attributed to al-Baghawī** → Confirmed verbatim: *"وليهم وناصرهم"*.
+- **"naṣīruhum" attributed to al-Muyassar** → Confirmed: *"وليُّ المؤمنين ونصيرهم"*.
+- **Qatāda + day of Uḥud via al-Qurtubī** → Confirmed: *"قال قتادة: نزلت يوم أحد"*. The reflection handles the asbāb al-nuzūl appropriately — it states "the narrations differ" and does not assert the Uḥud occasion as certain.
+- **"Allāhu mawlānā wa lā mawlā lakum" chant exchange** → The reference data cuts off before completing the Qurtubī passage, so this cannot be fully verified from the supplied sources alone. However, the reflection attributes it to "authentic narration" (not solely to Qurtubī), and the exchange is attested in hadith literature for Uḥud. No false attribution is made.
+- **The asymmetric negation observation** — that the disbelievers' side is a total negation rather than a named-but-weaker protector — is a direct textual observation about *lā mawlā lahum* and requires no source beyond the verse itself. It is correct.
+- **Arabic text and transliteration** both match the authenticated verse exactly.
+
+SUMMARY: The reflection's scholarly attributions all check out against the provided tafsir data, the linguistic claims are lexically sound, and the one unverifiable claim (the Uḥud chant exchange) is appropriately hedged with a caveat about differing narrations.

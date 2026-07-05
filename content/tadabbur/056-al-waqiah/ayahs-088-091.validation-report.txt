@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/056-al-waqiah/ayahs-088-091.md
+Ayah: 56:88
+Date: 2026-06-12T10:52:57
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَأَمَّآ=Then | إِن=if | كَانَ=he was | مِنَ=of | ٱلْمُقَرَّبِينَ=those brought near,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE — not flagged, but flagging for transparency] "a word that comes from the very same root as the word for **breath** and the word for **spirit**" (re: rawḥ, 56:89) — The root ر-و-ح does connect rawḥ, rūḥ, and rīḥ etymologically, and this is attested in Lisān al-ʿArab and Mufradāt al-Rāghib (both cited in frontmatter). However, al-muyassar glosses rawḥ as "الرحمة الواسعة والفرح" (wide mercy and joy) — relief, not breath. The reflection frames this correctly as a *root-level* connection ("comes from the very same root"), not a primary lexical equivalence. No error; flagging only because the provided reference data for 56:89 shows tafsir emphasis on rest/mercy rather than breath, and a reader might push back.
+
+- [CONFIRMED ACCURATE] "Al-Qurtubi and al-Baghawi both gloss al-muqarrabīn with two words: wa hum al-sābiqūn" — Directly verified. Both provided tafsir excerpts contain the exact phrase وهم السابقون. Attribution is precise and not overstated.
+
+- [CONFIRMED ACCURATE] muqarrabīn parsed as passive participle of Form II (qarraba) — Morphologically correct. The active/passive distinction ("brought near" vs. "drew near") is linguistically sound; the frontmatter cites Leeds corpus confirmation for Form II at 56:88.
+
+- [CONFIRMED ACCURATE] Arabic text for 56:88 matches the authenticated reference exactly.
+
+SUMMARY: The reflection is morphologically accurate, the Qurtubi/Baghawi attributions are directly confirmed in the supplied tafsir data, and the rawḥ-breath connection — while not the primary lexical gloss — is a defensible root-level observation presented with appropriate framing.

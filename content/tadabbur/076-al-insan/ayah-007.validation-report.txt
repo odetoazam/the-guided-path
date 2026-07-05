@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/076-al-insan/ayah-007.md
+Ayah: 76:7
+Date: 2026-06-18T09:02:34
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يُوفُونَ=They fulfill | بِٱلنَّذْرِ=vows | وَيَخَافُونَ=and fear | يَوْمًا=a Day - | كَانَ شَرُّهُۥ=its evil is | مُسْتَطِيرًا=widespread.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE — unverifiable from provided data] "The Arabs used a sister-word, *al-wāfī*, for a measure of grain heaped until it could hold no more" — this lexical illustration is drawn from classical dictionaries (Lisān al-ʿArab) not included in the reference set. The semantic direction is consistent with the root, but cannot be confirmed from the sources provided. Not flagged as an error; flagged as unverifiable.
+
+All other checkable claims hold:
+
+- **Form IV identification of يُوفُونَ** (awfā/yūfī) — correct. The imperfect plural يُوفُونَ is Form IV of root wfy; Form I imperfect would be يَفِي, not يُوفُونَ. ✓
+- **Imperfect tense / habitual reading** — correct; يُوفُونَ is imperfect, confirming ongoing character rather than single event. ✓
+- **Al-Farrāʾ and al-Jurjānī attribution via al-Qurṭubī** — directly confirmed: *"وقال الفراء والجرجاني: وفي الكلام إضمار; أي كانوا يوفون بالنذر في الدنيا"* — the implied *kānū* claim is verbatim in the provided Qurṭubī text. ✓
+- **مُسْتَطِيرًا as Form X participle of root ṭyr, meaning "widespread"** — confirmed by all four tafsir sources rendering it *muntashiran* (spread out, pervading). ✓
+- **Structural claim that 76:7 pivots from reward to character** — consistent with Muyassar's sequencing of the passage. ✓
+- **Arabic text** — matches the authentic text; the omitted ۭ marks are waqf notation, not textual variants. ✓
+
+SUMMARY: The excerpt is morphologically precise, the single scholar attribution is directly traceable to the provided Qurṭubī text, and all tafsir-grounded claims are accurate to the sources given.

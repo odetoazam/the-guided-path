@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayah-020.md
+Ayah: 3:20
+Date: 2026-06-21T13:26:03
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَإِنْ=Then if | حَآجُّوكَ=they argue with you, | فَقُلْ=then say, | أَسْلَمْتُ=`I have submitted | وَجْهِىَ=myself | لِلَّهِ=to Allah | وَمَنِ=and (those) who | ٱتَّبَعَنِ‌ۗ=follow me.` | وَقُل=And say | لِّلَّذِينَ=to those who | أُوتُواْ=were given | ٱلْكِتَـٰبَ=the Book, | وَٱلْأُمِّيِّــۧنَ=and the unlettered people, | ءَأَسْلَمْتُمْ‌ۚ=`Have you submitted yourselves?` | فَإِنْ=Then if | أَسْلَمُواْ=they submit | فَقَدِ=then surely | ٱهْتَدَواْ‌ۖ=they are guided. | وَّإِن=But if | تَوَلَّوْاْ=they turn back | فَإِنَّمَا=then only | عَلَيْكَ=on you | ٱلْبَلَـٰغُ‌ۗ=(is) to [the] convey. | وَٱللَّهُ=And Allah | بَصِيرُۢ=(is) All-Seer | بِٱلْعِبَادِ=of [His] slaves.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Al-Qurtubi adds another angle: here *wajh* means *dhāt* — your very essence, your self in its entirety. He links it to the report, *'my face has prostrated to the One who created it and shaped it.'"* — The Qurtubi excerpt supplied covers the argument-dynamics reading ("جادلوك بالأقاويل المزورة والمغالطات، فأسند أمرك إلى ما كلفت من الإيمان والتبليغ") but does not include the wajh = dhāt gloss or the prostration-report citation for this ayah. The position exists in Qurtubi's broader corpus and is commonly attributed, but it cannot be verified from the provided reference data for 3:20 specifically. Stated as direct attribution ("He links it to the report"), which the data does not confirm.
+
+PASS elements (verified):
+
+- **Al-Baghawi paraphrase** — "the People of the Book said, in effect: Judaism and Christianity are our lineage, our inheritance — and the real religion, submission, is already ours" — confirmed verbatim: *"إنما اليهودية والنصرانية نسب، والدين هو الإسلام ونحن عليه"* (Baghawi).
+- **Al-Baghawi on wajh as *akram al-jawāriḥ*** — confirmed in the supplied excerpt: *"لأنه أكرم الجوارح من ال..."* (truncated but unambiguous).
+- **Morphology of *aslamtu*** — Form IV (أَفْعَلَ) from root s-l-m, perfect tense, meaning full surrender — all correct.
+- **"Direction" sense of wajh / *tawajjaha*** — sound Arabic morphology (Form V of w-j-h), not contradicted by any supplied source.
+- **Overall framework** — ḥājjūka = disputing/arguing (confirmed by Jalalayn: خاصمك; Baghawi: خاصموك; Muyassar: جادلك); balāgh = conveyance only, guidance belongs to Allah — grounded in all four sources.
+
+SUMMARY: One Al-Qurtubi attribution (wajh = dhāt + prostration report) is unverifiable from the supplied excerpt and should be footnoted or softened to "it is reported in classical tafsir" rather than attributed directly to Qurtubi for this ayah; all other claims are accurate and well-grounded.

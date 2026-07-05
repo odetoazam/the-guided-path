@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/067-al-mulk/ayahs-006-009.md
+Ayah: 67:6
+Date: 2026-06-13T13:41:03
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَلِلَّذِينَ=And for those who | كَفَرُواْ=disbelieved | بِرَبِّهِمْ=in their Lord | عَذَابُ=(is the) punishment | جَهَنَّمَ‌ۖ=(of) Hell, | وَبِئْسَ=and wretched is | ٱلْمَصِيرُ=the destination.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE — OUT OF SCOPE] All linguistic analysis in the reflection (shahīq, tafūr, tamayyaz, ghayz, the lām attribution) pertains to **ayahs 7–9**. The reference data provided covers **ayah 6 only**. These claims cannot be formally validated or falsified from the supplied sources. The morphology comment in the frontmatter correctly flags the Form V tamayyaz and the lām-attribution as interpretive — appropriate disclosure.
+
+- [PASS — verifiable] The translation of ayah 6 ("And for those who disbelieved in their Lord is the punishment of Hell — and what a wretched destination") maps accurately to every node in the word-by-word reference: كَفَرُوا = disbelieved, بِرَبِّهِمْ = in their Lord, عَذَابُ جَهَنَّمَ = punishment of Hell, وَبِئْسَ ٱلْمَصِيرُ = wretched destination. No lexical drift.
+
+- [PASS — classically grounded but unverifiable from supplied data] The shahīq/zafīr inhale-exhale distinction is defensible: classical lexicons (Lisān al-ʿArab) and tafsir of 11:106 do distinguish zafīr (exhalation) from shahīq (inhalation/indrawn gasp). The donkey-bray sense of shahīq is attested. The 31:19 cross-reference ("ankara l-aṣwāt") is accurate. However, none of this is confirmable from the reference data you supplied for this validation request.
+
+- [NOTE] No scholar attributions appear in the submitted excerpt, so inversion errors are not a risk here.
+
+SUMMARY: Ayah 6 is translated and rendered with full lexical fidelity to the supplied references; the deeper linguistic analysis in the reflection is classically coherent, but the reference data provided does not cover ayahs 7–9, so a complete validation requires those word-by-word and tafsir sources to be submitted alongside.

@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/084-al-inshiqaq/ayahs-007-009.md
+Ayah: 84:7
+Date: 2026-06-18T17:02:42
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَأَمَّا=Then as for | مَنْ=(him) who | أُوتِىَ=is given | كِتَـٰبَهُۥ=his record | بِيَمِينِهِۦ=in his right hand,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE] The reference data supplied covers only ayah 7. Claims about ḥisāb yasīr (ayah 8) and the inqilāb/masrūr of ayah 9 cannot be verified against the provided sources — they are standard and uncontroversial, but the validator should note the gap rather than treating them as checked.
+- [NOTE] "kadḥ... wears grooves into your hands" — the root كدح means to toil/scrape; the "grooves into hands" image is a rhetorical extension beyond the lexical record. Presented in clearly literary register, not as a documented definition, so no flag required — but sits at the edge of interpretive license.
+- [NOTE] The four-tafsir attribution ("every one of the classical commentators has to step in and tell you: huwa al-muʾmin") is confirmed by three of the four provided excerpts directly (Jalālayn: هو المؤمن; Muyassar: وهو مؤمن بربه; Qurṭubī: وهو المؤمن). The Baghawī excerpt provided is truncated before this identification — cannot confirm from the supplied text, though the broader Baghawī does make it. Attribution is not overstated.
+- [NOTE] "passive verb from the root that means to come, to bring, to give" — ūtiya is Form IV passive; the base root أتى means "to come," and it is the derived Form IV (آtā) that means "to give/bring to." The reflection slightly conflates root and derived-form meanings. The frontmatter correctly marks it Form IV. This is a pedagogical simplification, not a scholarly error.
+
+All four tafsirs' identification of the right-hand recipient as the believer is accurate and verified. The y-m-n root analysis (yamīn = right side; yumn = blessing; yamīn = oath) is lexically attested in classical sources and correctly presented as semantic range, not false etymology. The 69:19 quotation (hāʾumu-qraʾū kitābiyah) is accurate.
+
+SUMMARY: The reflection is linguistically sound and tafsir-grounded on every verifiable claim within the supplied reference data; no CRITICAL or MODERATE errors detected, though four minor precision notes are logged and ayahs 8–9 lacked supplied reference data for full coverage.

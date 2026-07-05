@@ -1,0 +1,30 @@
+Enhanced Validation Report
+File: content/tadabbur/035-fatir/ayah-015.md
+Ayah: 35:15
+Date: 2026-05-18T03:23:10
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ۞ يَـٰٓأَيُّهَا=O | ٱلنَّاسُ=mankind! | أَنتُمُ=You | ٱلْفُقَرَآءُ=(are) those in need | إِلَى=of | ٱللَّهِۖ=Allah, | وَٱللَّهُ=while Allah, | هُوَ=He | ٱلْغَنِىُّ=(is) Free of need | ٱلْحَمِيدُ=the Praiseworthy.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "The plural form here — فُقَرَاء, fuqarā' — comes in the pattern فُعَلَاء. This plural pattern in Arabic tends to attach to fixed qualities of a person, qualities that define them: shuʿarā' (poets), karamā' (the generous), ʿulamā' (the learned), ḥukamā' (the wise). These are not transient states. They are identities." — The morphological claim that فُعَلَاء *specifically* marks fixed/essential traits is overstated and not documented in the provided reference data or standard Arabic morphology. This is a standard broken plural for certain adjective forms used broadly for both transient and fixed qualities. The examples chosen happen to be stable traits, but the generalization about the pattern is an interpretive construction, not an attested grammatical rule. The identity-vs-state argument the reflection is building here is theologically valid and supported by the definite article evidence (which is rock-solid via Qurtubi/Zamakhshari), but the fuʿalāʾ-pattern argument is being presented as documented linguistic fact when it is interpretive framing.
+
+- [PASS-note] "Lisān al-ʿArab and the Mufradāt of al-Rāghib both preserve this image" [of faqr/faqār/spine] — This is accurate per those sources but unverifiable from the reference data provided. The lexical connection between faqr and faqār (vertebrae) is attested in al-Raghib's Mufradat; flagging only that it cannot be confirmed from the provided stack.
+
+Everything else passes: the Arabic text is correct, the Qurtubi/Zamakhshari attribution and quotation ("لشدة افتقارهم إليه هم جنس الفقراء") is accurately rendered and correctly attributed, the "genus of the poor" gloss on the definite article is directly supported by the Qurtubi excerpt, the surah context and the 35:16-17 connection are accurate, and al-Ghaniyy/al-Ḥamīd are correctly glossed against all four tafsir sources.
+
+SUMMARY: One moderate issue — the fuʿalāʾ plural-pattern argument overstates what Arabic morphology establishes; the identity/essence claim it supports is valid but should rest on the definite article evidence (solidly attested) rather than the plural pattern (unattested as a rule).

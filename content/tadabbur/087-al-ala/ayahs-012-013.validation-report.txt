@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/087-al-ala/ayahs-012-013.md
+Ayah: 87:12
+Date: 2026-06-18T18:03:54
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ٱلَّذِى=The one who | يَصْلَى=will burn | ٱلنَّارَ=(in) the Fire | ٱلْكُبْرَىٰ=[the] great.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "the form Arabic grammarians call *al-muḍāriʿ*...describes an action that is **ongoing, unfinished, still unfolding**" — technically accurate as a property of the mudāriʿ, but the reflection extends this into "the roasting that has no 'done'" as if the verb form alone establishes perpetuality. The eternal quality is confirmed by ayah 13 (لَا يَمُوتُ وَلَا يَحْيَىٰ), not by the verb tense. The tense is simply imperfective; the no-exit reading requires both ayahs together. This is a literary compression, not a factual error, but a reader could walk away thinking "the Arabic grammar alone proves eternity" rather than "the grammar leaves it open, and 13 closes the door." Not worth flagging as CRITICAL because the reflection does immediately cite ayah 13 as the confirmation.
+
+- [PASS] Root ص-ل-ي identified correctly; "roasting / penetrating exposure to heat" is lexically attested in Lisān al-ʿArab and consistent with how the word functions in classical usage. The tafsir sources do not contradict this reading.
+
+- [PASS] *al-kubrā* implying a lesser fire is directly confirmed: Jalālayn states explicitly "هي نار الآخرة والصغرى نار الدنيا"; Qurṭubī attributes the same position to al-Ḥasan and Yaḥyā ibn Salām. The reflection's hook ("where is the smaller fire?") is well-grounded and does not overstate.
+
+- [PASS] Root ك-ب-ر and ism al-tafḍīl analysis are correct; Allāhu akbar as the pedagogical example is accurate.
+
+- [PASS] Surah described as Meccan, rhyme scheme (alif maqṣūra throughout) verified against listed ayah endings — accurate.
+
+- [PASS] Arabic text in the header matches the authenticated Arabic exactly.
+
+SUMMARY: The reflection is linguistically and theologically sound; the one soft issue is that the mudāriʿ's "open-ended" character is presented as if grammatically self-sufficient for proving perpetuality, when that claim properly requires ayah 13 — but the reflection does invoke ayah 13 immediately, so no reader is actually misled.

@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/035-fatir/ayah-045.md
+Ayah: 35:45
+Date: 2026-05-18T05:38:11
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَلَوْ=And if | يُؤَاخِذُ ٱللَّهُ=Allah (were to) punish | ٱلنَّاسَ=the people | بِمَا=for what | كَسَبُواْ=they have earned, | مَا=not | تَرَكَ=He would leave | عَلَىٰ=on | ظَهْرِهَا=its back | مِن=any | دَآبَّةٍ=creature. | وَلَـٰكِن=But | يُؤَخِّرُهُمْ=He gives them respite | إِلَىٰٓ=till | أَجَلٍ=a term | مُّسَمًّىۖ=appointed. | فَإِذَا=And when | جَآءَ=comes | أَجَلُهُمْ=their term, | فَإِنَّ=then indeed, | ٱللَّهَ=Allah | كَانَ=is | بِعِبَادِهِۦ=of His slaves | بَصِيرَۢا=All-Seer.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "*yu'ākhidhu* is Form III (*fāʿala*)" — Confirmed. Root أ-خ-ذ; Form III imperfect يُؤَاخِذُ, maṣdar مُؤَاخَذَة. The bilateral/interactional characterization of Form III is standard Arabic morphology pedagogy, well-supported.
+- [PASS] "*law* is the particle of unfulfilled condition" — Correct. Classical grammarians define لَوْ as حرف امتناع لامتناع, exactly as the reflection states.
+- [PASS] "*kināya ʿan ghayri madhkūr* — attributed directly to Al-Baghawi" — Directly confirmed by the reference data: Baghawi's text reads «كناية عن غير مذكور» verbatim. Attribution accurate.
+- [PASS] "Surah opens with Allah dispatching angels with two, three, and four wings" — Accurate rendering of 35:1.
+- [PASS] "*nakīr* used in the middle of this surah" — Confirmed: 35:26 «فَكَيْفَ كَانَ نَكِيرِ».
+- [PASS] Arabic text in the reflection — Matches the authenticated Arabic with only minor diacritical rendering differences (دَآبَّةٍ vs دَآبَّةٍۢ), not textual errors.
+
+SUMMARY: Every verifiable linguistic, grammatical, and attribution claim in the portion reviewed is accurate; the Baghawi *kināya* attribution is confirmed word-for-word from the reference data, and the Form III analysis is morphologically sound.

@@ -1,0 +1,40 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayah-017.md
+Ayah: 3:17
+Date: 2026-06-21T12:15:40
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ٱلصَّـٰبِرِينَ=The patient | وَٱلصَّـٰدِقِينَ=and the truthful | وَٱلْقَـٰنِتِينَ=and the obedient | وَٱلْمُنفِقِينَ=and those who spend | وَٱلْمُسْتَغْفِرِينَ=and those who seek forgiveness | بِٱلْأَسْحَارِ=[in the] before dawn.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No errors found in the submitted portion.
+
+Supporting observations:
+
+- **Arabic text**: Matches the authentic Arabic exactly. ✓
+
+- **Active participle analysis**: Identifying all five words as ism al-fāʿil forms is correct. ٱلصَّابِرِينَ (Form I), ٱلصَّادِقِينَ (Form I), ٱلْقَانِتِينَ (Form I), ٱلْمُنفِقِينَ (Form IV), ٱلْمُسْتَغْفِرِينَ (Form X) — all pluralized active participles. The claim that these encode settled identity rather than momentary action is grammatically sound. ✓
+
+- **Al-Baghawī attribution** — "Al-Baghawī notes that you can read these five words in two ways — as an accusative of praise… or as a genitive adjective describing the God-conscious back in verse 15": verified directly against the provided source: *"إن شئت نصبتها على المدح، وإن شئت خفضتها على النعت"*. The reflection's paraphrase is accurate. ✓
+
+- **Asḥār as the only time-bound qualifier**: The observation that only the fifth trait is pinned to a specific hour is linguistically correct — بِٱلْأَسْحَارِ attaches solely to al-mustaghfirīn. Al-Jalālayn's rationale ("وقت الغفلة ولذة النوم") and al-Muyassar's ("مَظِنَّة القبول") both support the reflection's thematic framing. ✓
+
+- **Contextual framing of 3:14–17**: The reference to worldly desires (3:14), the promise of Gardens (3:15), and the quoted supplication (3:16) is accurate to the Quranic sequence. ✓
+
+- **Cannot validate**: "Element Two: The Four Open Doors" — the reflection is cut off before this section is developed. No claim to assess.
+
+SUMMARY: Every verifiable claim in the submitted portion is accurate and well-grounded in the provided classical tafsir stack.

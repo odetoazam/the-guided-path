@@ -1,0 +1,42 @@
+Enhanced Validation Report
+File: content/tadabbur/093-ad-duha/ayahs-009-011.md
+Ayah: 93:9
+Date: 2026-06-18T20:38:23
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَأَمَّا=So as for | ٱلْيَتِيمَ=the orphan, | فَلَا=then (do) not | تَقْهَرْ=oppress,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- None identified.
+
+SUMMARY: All linguistic claims, grammatical analysis, and thematic framing in the excerpt are well-grounded in the provided reference data and standard Arabic grammar, with no inverted attributions, root errors, or overstated scholarly positions.
+
+**Detailed check:**
+
+- **تَقْهَرْ → "oppress/crush"**: Accurate. Jalalayn confirms بأخذ ماله أو غير ذلك; Qurtubi confirms لا تسلط عليه بالظلم; Baghawi confirms لا تقهره على ماله. The reflection's "oppress" and "crush" are within the attested semantic range.
+
+- **أَمَّا particle analysis** ("detail and emphasis, demands a response clause marked with fa-"): Standard Arabic grammar (tafsīl + tawkīd function of ammā). Accurately described without over-attribution.
+
+- **Taqdīm of اليتيم** ("what is brought forward is what matters most"): Correct application of a recognized ʿilm al-maʿānī principle. Not attributed to a specific scholar who could be inverted — appropriately attributed to "the grammarians."
+
+- **Fatra al-wahy duration**: Appropriately hedged — "the reports differ on how long, some say a number of days, some longer." No false precision claimed.
+
+- **Three rescues reading of 93:6–8**: Accurate. Baghawi confirms the transition: ثم أوصاه باليتامى والفقراء, supporting the reflection's "having received, now give" framing.
+
+- **Arabic text in frontmatter**: Matches the authenticated Arabic and word-by-word reference exactly.
+
+- **No scholar names inverted or misattributed** anywhere in the excerpt.

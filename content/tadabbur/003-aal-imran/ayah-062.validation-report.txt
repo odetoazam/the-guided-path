@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayah-062.md
+Ayah: 3:62
+Date: 2026-06-21T06:03:14
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّ=Indeed | هَـٰذَا=this, | لَهُوَ=surely it (is) | ٱلْقَصَصُ=the narration - | ٱلْحَقُّ‌ۚ=[the] true. | وَمَا مِنْ إِلَـٰهٍ=And (there is) no god | إِلَّا=except | ٱللَّهُ‌ۚ=Allah. | وَإِنَّ=And indeed, | ٱللَّهَ=Allah, | لَهُوَ=surely He | ٱلْعَزِيزُ=(is) the All-Mighty, | ٱلْحَكِيمُ=the All-Wise.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] Arabic text in frontmatter uses slightly different Unicode diacritical codepoints (هَـٰذَا vs هَٰذَا, إِلَـٰهٍ vs إِلَٰهٍ) — cosmetic Unicode variation only, not a textual error.
+- [PASS] "al-Qurtubī states this directly in his commentary on this very verse, tell us that qaṣṣa originally means to follow a track" — **verified**. Provided Qurtubī text reads: *"سميت قصصا لأن المعاني تتتابع فيها ; فهو من قولهم : فلان يقص أثر فلان ، أي يتبعه"* — exactly the etymological claim the reflection makes, attributed to the correct source.
+- [PASS] "al-Qurtubī writes that a qaṣaṣ is called a qaṣaṣ 'because the meanings follow one upon another in it' — li-anna l-maʿānī tatatābaʿu fīhā" — the Arabic rendering matches the source precisely.
+- [PASS] "fulānun yaquṣṣu athara fulān" — the reflection's transliteration matches the Qurtubī text *فلان يقص أثر فلان* exactly.
+- [PASS] Translation "the true account / no god except Allah / All-Mighty, All-Wise" — consistent with all four tafsir sources and the word-by-word data.
+- [PASS] Concepts list includes *min-zaaida-total-negation* — confirmed by Jalalayn ("من زائدة"), Qurtubī ("من زائدة للتوكيد"), and Baghawi ("من صلة").
+- [PASS] The mubāhala context and Adam-Isa parallel (3:59–3:61) are accurately framed as the passage this verse seals.
+
+SUMMARY: All verifiable claims in the excerpt are accurate and well-grounded in the provided reference data; the al-Qurtubī root-meaning attribution is the reflection's key linguistic move and it holds verbatim.

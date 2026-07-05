@@ -1,0 +1,55 @@
+Enhanced Validation Report
+File: content/tadabbur/068-al-qalam/ayahs-017-018.md
+Ayah: 68:17
+Date: 2026-06-13T15:08:44
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّا=Indeed, We | بَلَوْنَـٰهُمْ=have tried them | كَمَا=as | بَلَوْنَآ=We tried | أَصْحَـٰبَ=(the) companions | ٱلْجَنَّةِ=(of) the garden, | إِذْ=when | أَقْسَمُواْ=they swore | لَيَصْرِمُنَّهَا=to pluck its fruit | مُصْبِحِينَ=(in the) morning,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate errors identified in the visible content.
+
+Supporting notes on key claims verified against reference data:
+
+**Tafsir attributions — CONFIRMED**
+> "The classical commentators — al-Qurtubī, al-Baghawī, the author of al-Jalālayn — are agreed on what the trial was: famine and hunger."
+
+All four provided sources confirm this explicitly: Jalālayn: *بالقحط والجوع*; Muyassar: *بالجوع والقحط*; Qurtubī: *بالجوع والقحط*; Baghawī: *بالقحط والجوع*. Attribution is accurate and not overstated.
+
+**Referent of "them" — CONFIRMED**
+> "The commentators fill it in for us: al-Qurtubī, al-Baghawī, and al-Jalālayn all say it refers to the people of Mecca."
+
+Confirmed by all sources provided.
+
+**وَلَا يَسْتَثْنُونَ gloss — CONFIRMED**
+> "they made no exception" / not saying "if Allah wills"
+
+Muyassar explicitly confirms: *ولم يقولوا: إن شاء الله*.
+
+**Root *b-l-w* lexical claim — DEFENSIBLE**
+> "the primary sense of this root is to wear out, to wear down, to make old and threadbare"
+
+This is standard in Lisān al-ʿArab and Mufradāt al-Rāghib (cited in morphology note). The word data and all tafsir sources use the root consistently with the "test/try" derivative sense. No overreach.
+
+**Morphological labels (in comment block) — ACCURATE**
+- *aqsamū* = Form IV: correct (أَفْعَلَ pattern, أَقْسَمَ)
+- *muṣbiḥīn* = Form IV active participle: correct
+- *yastathnūn* = Form X: correct (اِسْتَفْعَلَ, اِسْتَثْنَى)
+
+**One scoping note:** The reflection's text ends mid-section (Part 1 cuts off). Claims in Parts 2–end are unreviewed here and should be validated separately when the full text is submitted.
+
+SUMMARY: All verifiable claims in the provided excerpt are accurate and properly grounded in the supplied tafsir and word data; no distortions of scholar positions or linguistic errors detected.

@@ -1,0 +1,29 @@
+Enhanced Validation Report
+File: content/tadabbur/036-ya-sin/ayah-030.md
+Ayah: 36:30
+Date: 2026-06-05T04:56:10
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَـٰحَسْرَةً=Alas | عَلَى=for | ٱلْعِبَادِ‌ۚ=the servants! | مَا=Not | يَأْتِيهِم=came to them | مِّن=any | رَّسُولٍ=Messenger | إِلَّا=but | كَانُواْ=they did | بِهِۦ يَسْتَهْزِءُونَ=mock at him.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+
+- [MODERATE] "heaven answers his sigh with a sigh of its own" / "the divine voice itself speaks" — The reflection presents the divine-speech reading as the singular, obvious interpretation without acknowledging the live scholarly split. Al-Baghawi explicitly records two positions: (1) it is Allah's lament over the servants, and (2) it is the exclamation of the destroyed people themselves upon seeing the punishment — citing Abu al-ʿĀliya: *"لما عاينوا العذاب قالوا: يا حسرة."* Al-Muyassar also reads it as the servants' own regret on the Day of Judgment: *"يا حسرة العباد وندامتهم يوم القيامة إذا عاينوا العذاب."* Presenting one position as if it settles the question overstates the consensus.
+
+- [MODERATE] "the *ḥasīr* is the camel that has been driven so hard, across so much distance, that it collapses" — This specific camel image is not verifiable from any of the four provided tafsir sources. Al-Qurtubi gives: *"أن يلحق الإنسان من الندم ما يصير به حسيرا"* — a human brought to exhaustion by regret — but defines ḥasīr in human terms, not via a camel. The claim may be attested in Lisān al-ʿArab (cited in the frontmatter), but that source was not provided for verification; it cannot be confirmed from the data given.
+
+SUMMARY: The grammatical and rhetorical analysis is accurate and well-grounded in al-Qurtubi, but the reflection suppresses a documented scholarly debate about who utters the lament, and the camel etymology for ḥasīr exceeds what the provided reference data can support.

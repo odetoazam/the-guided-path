@@ -1,0 +1,24 @@
+Enhanced Validation Report
+File: content/tadabbur/042-ash-shura/ayah-040.md
+Ayah: 42:40
+Date: 2026-06-06T14:58:33
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَجَزَٲٓؤُاْ=(The) recompense | سَيِّئَةٍ=(of) an evil | سَيِّئَةٌ=(is) an evil | مِّثْلُهَا‌ۖ=like it. | فَمَنْ=But whoever | عَفَا=pardons | وَأَصْلَحَ=and makes reconciliation, | فَأَجْرُهُۥ=then his reward | عَلَى=(is) on | ٱللَّهِ‌ۚ=Allah. | إِنَّهُۥ=Indeed, He | لَا=(does) not | يُحِبُّ=like | ٱلظَّـٰلِمِينَ=the wrongdoers.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: ERROR
+ISSUES:
+- Could not run Claude check: Command failed: claude -p --system-prompt "You are a rigorous Islamic scholarship validator for Ayah
+SUMMARY: Claude semantic check failed

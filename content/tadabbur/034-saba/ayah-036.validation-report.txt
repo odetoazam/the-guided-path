@@ -1,0 +1,37 @@
+Enhanced Validation Report
+File: content/tadabbur/034-saba/ayah-036.md
+Ayah: 34:36
+Date: 2026-05-18T01:16:08
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: قُلْ=Say, | إِنَّ=`Indeed, | رَبِّى=my Lord | يَبْسُطُ=extends | ٱلرِّزْقَ=the provision | لِمَن=for whom | يَشَآءُ=He wills | وَيَقْدِرُ=and restricts, | وَلَـٰكِنَّ=but | أَكْثَرَ=most | ٱلنَّاسِ=[the] people | لَا=(do) not | يَعْلَمُونَ=know.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+**VERDICT: PASS**
+
+**ISSUES:**
+
+- [MODERATE] "The *Qul* ... appears nearly 300 times [in the Quran]" — Standard corpus counts put the imperative قُلْ at approximately 332 occurrences; "nearly 300" understates by ~10%. This cannot be verified from the provided reference set, but the undercount is knowable from standard Quranic concordances. The theological point built around it is unaffected.
+
+- [PASS — note, not an error] "Two ayahs before our verse, in 34:34-35" — The wealth-and-children declaration ("We are more in wealth and children and we will not be punished") sits at 34:35, one ayah before 34:36. 34:34 is the prior verse about rejecting the messenger. The reflection cites both as a range (34:34-35), which is technically accurate, though a reader could misread "two ayahs before" as pointing to 34:34 as the locus of the wealth claim. Not an error, but a potential clarity issue.
+
+**All core theological claims are directly grounded in the four tafsir sources:**
+- The ibtilā' framing (wealth/poverty as divine test, not verdict of favor or anger) is explicit in all four: Jalālayn (امتحانا / ابتلاءً), Muyassar (لا لمحبة ولا لبغض... اختبارًا), Qurṭubī (امتحانا لهم، فلا يدل شيء من ذلك على ما في العواقب), and Baghawī (لا يدل البسط على رضا الله عنه ولا التضييق على سخطه).
+- The Arabic text matches the authentic Arabic exactly.
+- The translation is accurate.
+- يَبْسُطُ (expand) and يَقْدِرُ (restrict/measure) are correctly derived from roots ب-س-ط and ق-د-ر with lexically attested meanings consistent with the tafsir glosses (يوسعه / يضيقه).
+- The muḍāriʿ continuity framing is grammatically sound.
+- No scholar attributions appear in this portion; no inversions to flag.
+
+**SUMMARY:** The reflection is theologically accurate and fully grounded in the provided tafsir sources; the only flagged item is a minor undercount on Qul frequency that does not affect any doctrinal claim.

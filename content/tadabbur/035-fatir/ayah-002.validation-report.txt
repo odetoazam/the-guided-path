@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/035-fatir/ayah-002.md
+Ayah: 35:2
+Date: 2026-06-04T23:49:45
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: مَّا=What | يَفْتَحِ ٱللَّهُ=Allah grants | لِلنَّاسِ=to mankind | مِن=of | رَّحْمَةٍ=Mercy, | فَلَا=then none | مُمْسِكَ=(can) withhold | لَهَاۖ=it. | وَمَا=And what | يُمْسِكْ=He withholds, | فَلَا=then none | مُرْسِلَ=(can) release | لَهُۥ=it | مِنۢ بَعْدِهِۚۦ=thereafter. | وَهُوَ=And He | ٱلْعَزِيزُ=(is) the All-Mighty, | ٱلْحَكِيمُ=the All-Wise.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No errors found in the portion provided.
+
+Specific checks:
+- **yaftaḥ Form I (f-t-ḥ)**: Correct. Pattern yafʿalu confirms Form I. ✓
+- **yumsik/mumsik Form IV (m-s-k)**: Correct. أَمْسَكَ → يُمْسِكُ / مُمْسِك follows the muFʿil active participle pattern. ✓
+- **mursil Form IV (r-s-l)**: Correct. أَرْسَلَ → مُرْسِل. ✓
+- **raḥma = rain, provision, health, knowledge**: Directly supported by al-Muyassar ("رزق ومطر وصحة وعلم وغير ذلك"). ✓
+- **Pronoun gender shift (لَهَا → لَهُۥ)**: Supported explicitly by al-Qurtubi, who notes grammarians discussed this exact shift — لها follows meaning (رحمة, feminine), له follows the wording of ما (masculine). ✓
+- **15:21 ("With Him are the treasuries of everything")** and **38:9 ("Or do they possess the treasuries of the mercy of your Lord…")**: Both quotes and attributions accurate. ✓
+- **Innā fataḥnā laka fatḥan mubīnā (48:1)**: Cited accurately as fatḥ = breakthrough/victory register. ✓
+- **Meccan context claim**: Surah Fatir is Makkan; accurate. ✓
+
+SUMMARY: All verifiable claims in the provided excerpt are accurate; no factual, morphological, or attribution errors detected.

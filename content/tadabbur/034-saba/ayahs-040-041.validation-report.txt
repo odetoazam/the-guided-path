@@ -1,0 +1,42 @@
+Enhanced Validation Report
+File: content/tadabbur/034-saba/ayahs-040-041.md
+Ayah: 34:40
+Date: 2026-05-17T21:31:36
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَيَوْمَ=And (the) Day | يَحْشُرُهُمْ=He will gather them | جَمِيعًا=all, | ثُمَّ=then | يَقُولُ=He will say | لِلْمَلَـٰٓئِكَةِ=to the Angels, | أَهَـٰٓؤُلَآءِ إِيَّاكُمْ=`Were these you | كَانُواْ=they were | يَعْبُدُونَ=worshipping?`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate issues found in the visible portion of the reflection.
+
+Specific verifications performed:
+
+**istifhām taqrīr attribution** — "Imam al-Baghawi cites Qatāda explicitly on this. He says the question here is istifhām taqrīr": VERIFIED directly against the Baghawi source provided: `قال قتادة : هذا استفهام تقرير`. Exact match, correctly attributed.
+
+**ʿĪsā comparison** — "Qatāda — and Baghawi reports this — compares this construction to another scene in the Quran where Allah asks ʿĪsā ibn Maryam": VERIFIED. Baghawi text: `كقوله تعالى لعيسى : " أأنت قلت للناس اتخذوني وأمي إلهين من دون الله "`. The reflection correctly cites this as 5:116 in the related_ayahs field; the supplied Baghawi excerpt erroneously labels it "مريم - 116" — that error is in the reference excerpt, not in the reflection.
+
+**Fronting of iyyākum** — The linguistic analysis of taqdim is consistent with the word-by-word data (`أَهَـٰٓؤُلَآءِ إِيَّاكُمْ`) and the claim about emphasis/restriction via position is standard Arabic morphosyntax, not an overreach.
+
+**Walayah rendering** — "You are our protector — not them" accurately renders `أَنتَ وَلِيُّنَا مِن دُونِهِم`.
+
+**Jinn clause** — Correctly included from ayah 41; confirmed by Qurtubi source.
+
+**Arabic text** — Matches authenticated text; minor Unicode rendering differences in diacritics are non-substantive.
+
+**Quraysh / angel-daughters claim** — Not verifiable from the supplied reference data alone, but this is established context from surahs Al-Najm 53:19–23 and Az-Zukhruf 43:19 and is not contested in classical tafsir.
+
+SUMMARY: All traceable scholarly attributions are accurate, the linguistic analysis of fronting is sound, and no factual errors appear in the visible portion of the reflection.

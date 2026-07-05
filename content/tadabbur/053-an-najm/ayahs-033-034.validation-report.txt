@@ -1,0 +1,44 @@
+Enhanced Validation Report
+File: content/tadabbur/053-an-najm/ayahs-033-034.md
+Ayah: 53:33
+Date: 2026-06-09T19:21:05
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَفَرَءَيْتَ=Did you see | ٱلَّذِى=the one who | تَوَلَّىٰ=turned away
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- None identified in the first 8000 characters provided.
+
+Detailed checks performed:
+
+**Arabic text**: `أَفَرَأَيْتَ الَّذِي تَوَلَّىٰ` matches the authentic Arabic provided. Ayah 34 addition (`وَأَعْطَىٰ قَلِيلًا وَأَكْدَىٰ`) is standard and correct.
+
+**Root r-'-y (ر-أ-ي)**: "The root is *r-'-y* (ر-أ-ي), the root of seeing" — correct, confirmed by word-by-word reference.
+
+**Morphological parsing of afa-ra'ayta**: "the *a-* of a question, and the *fa-* that means 'then'" — grammatically accurate. The hamza is the interrogative particle; the fa is the connective particle. Standard classical Arabic morphology, no overclaim.
+
+**The fa as surah-connective**: "ties what is about to be shown to everything that just came before it" — legitimate rhetorical reading of the fa-'atf function. Not overstated.
+
+**akdā / kudya metaphor**: "The hard layer of rock that stops the digger is *kudya*. And the verb for what the digger does when he strikes it — that verb is **akdā**" — this etymology is well-attested in Lisān al-ʿArab (frontmatter notes this). The well-digging image is the standard classical lexical explanation for this root. Not fabricated.
+
+**Cross-reference to 53:38** ("no bearer of burdens can carry another's load"): Directly supported by Jalalayn — the man was promised that another would bear his punishment if he returned to shirk. The surah's refutation in 53:38 makes this connection architecturally grounded, not a stretch.
+
+**Asbāb al-nuzūl (al-Walīd ibn al-Mughīra)**: Qurtubi, Baghawi, and Mujahid name al-Walīd. The reflection omits the name and treats the figure universally. This is a legitimate interpretive choice (universal application), not a factual error. No false attribution made.
+
+**Surah content summary** ("demolished the idols… named the people who have nothing but conjecture"): Accurate description of 53:19–32.
+
+SUMMARY: The reflection is linguistically and historically grounded throughout the excerpt; all verifiable claims align with the provided tafsir sources and word-by-word data, and no scholar position is misstated or overstretched.

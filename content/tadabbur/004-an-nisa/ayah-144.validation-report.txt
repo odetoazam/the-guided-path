@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/004-an-nisa/ayah-144.md
+Ayah: 4:144
+Date: 2026-06-24T10:49:34
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَـٰٓأَيُّهَا=O you | ٱلَّذِينَ=who | ءَامَنُواْ=believe[d]! | لَا=(Do) not | تَتَّخِذُواْ=take | ٱلْكَـٰفِرِينَ=the disbelievers | أَوْلِيَآءَ=(as) allies | مِن دُونِ=instead of | ٱلْمُؤْمِنِينَ‌ۚ=the believers. | أَتُرِيدُونَ=Do you wish | أَن=that | تَجْعَلُواْ=you make | لِلَّهِ=for Allah | عَلَيْكُمْ=against you | سُلْطَـٰنًا=an evidence | مُّبِينًا=clear?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Do you wish to *hand* Allah, against your own selves, a clear authority?" — The philosophical paraphrase renders سُلْطَانًا مُبِينًا as "a clear authority," but every classical source provided glosses it as proof/argument in the legal-evidential sense: Jalalayn gives **برهانا بينا** (a clear proof), Muyassar gives **حجة ظاهرة** (a manifest argument), Baghawi gives **حجة بينة في عذابكم** (a clear proof for your punishment). The word سُلْطَان can carry the meaning of authority etymologically, but the tafsirs are unanimous that in this ayah it functions as "evidence/proof." The official translation uses "warrant" (defensible, capturing the legal-evidential force), but the repeated "authority" language in the exploration section risks obscuring this — a reader could walk away thinking the verse is about sovereignty rather than self-incrimination.
+
+PASSES:
+- Al-Qurtubi attribution ("do not make them your **khāṣṣa** and your **biṭāna**") is verbatim accurate — the provided Qurtubi text reads exactly: *لا تجعلوا خاصتكم وبطانتكم منهم*.
+- Form VIII ittakhadha morphological analysis is correct: root أ-خ-ذ, iftiʿāl pattern, reflexive/appropriative sense, tāʾ insertion.
+- مُذَبْذَبِينَ gloss and 4:143 citation are accurate.
+- Prohibition's scope (inner-circle allegiance, not casual interaction) aligns with classical scope of the prohibition.
+
+SUMMARY: The reflection is substantively sound — the self-incrimination argument accurately renders the tafsir consensus — but the philosophical paraphrase leans on "authority" language where the unanimous classical reading is "proof/evidence," creating a framing imprecision that should be corrected before publication.

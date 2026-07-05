@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/034-saba/ayahs-051-053.md
+Ayah: 34:51
+Date: 2026-05-18T00:28:07
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَلَوْ=And if | تَرَىٰٓ=you (could) see | إِذْ=when | فَزِعُواْ=they will be terrified | فَلَا=but (there will be) no | فَوْتَ=escape, | وَأُخِذُواْ=and they will be seized | مِن=from | مَّكَانٍ=a place | قَرِيبٍ=near.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] Root assignments (f-z-ʿ, f-w-t, ʾ-kh-dh, q-r-b, m-k-n, r-ʾ-y) are all standard and confirmed by classical lexica; no mis-assignments detected.
+- [PASS] "makān appears three times in three ayahs — near, then far, then far" — verified directly from the Arabic of 51-53 in the frontmatter and consistent with the passage structure.
+- [PASS] The suppressed *jawāb al-law* analysis is standard Arabic rhetoric. The Jalalayn itself supplies the elided response — "لرأيت أمرا عظيما" — confirming that the tradition acknowledges something is withheld. Framing it as deliberate rhetorical suppression is defensible and not an over-claim.
+- [PASS] Surah Saba contextual glosses (ayahs 3, 7, 8, 29, 43) are accurate to the surah's themes; none are invented or inverted.
+- [PASS] The Saba/ʿArim flood narrative is accurate to 34:15-16.
+- [NOTICE — not an error] The provided reference data shows a *tafsir disagreement* about *when* the faza' occurs: Jalalayn and Baghawi/Qatada → at resurrection; Qurtubi cites Ibn Abbas for a dunya-death reading and al-Hasan for the grave-cry reading. The visible reflection text does not yet pin a specific timing, so no error can be recorded — but the author should acknowledge this ikhtilaf in whatever section handles it.
+- [NOTICE — scope limit] The reflection is cut mid-sentence before it treats *tanāwush* (the reaching-back motion) and *qadhf bil-ghayb* (the hurling at the unseen). Those are the two most interpretively loaded claims in 52-53 and cannot be validated from the text provided. A second-pass review is needed once those sections are complete.
+
+SUMMARY: No errors in the examined portion — roots, grammar, surah-context claims, and rhetorical analysis are all sound; the unreviewed back half (tanāwush and qadhf treatment) requires a follow-up validation pass.

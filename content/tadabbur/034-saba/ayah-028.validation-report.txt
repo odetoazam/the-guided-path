@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/034-saba/ayah-028.md
+Ayah: 34:28
+Date: 2026-05-15T15:21:41
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَمَآ=And not | أَرْسَلْنَـٰكَ=We have sent you | إِلَّا=except | كَآفَّةً=inclusively | لِّلنَّاسِ=to mankind | بَشِيرًا=(as) a giver of glad tidings | وَنَذِيرًا=and (as) a warner. | وَلَـٰكِنَّ=But | أَكْثَرَ=most | ٱلنَّاسِ=[the] people | لَا=(do) not | يَعْلَمُونَ=know.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "The grammarians call this the *hāʾ al-mubālaghah*" and "this word is in the accusative case (*nasb*), and it is describing the Prophet ﷺ" — al-Jalālayn explicitly states كافة is "حال من الناس قدم للاهتمام" (a ḥāl from الناس/mankind, placed forward for emphasis) — not from the Prophet ﷺ. The reflection presents only the "كافة describes the Prophet" reading as the grammatical baseline, then builds the mubālaghah argument on that foundation. But the Jalālayn source directly contradicts that grammatical starting point. The mubālaghah (تاء المبالغة / هاء المبالغة) framing for كافة does not appear in any of the four provided classical sources; Zajjāj (via Qurṭubī) reads it as meaning جامعاً (gatherer), Baghawī and Qurṭubī read it as كافّاً (restrainer) — neither invokes intensification via the feminine ending as the explanatory mechanism.
+
+- [MODERATE] "The grammarians call this the *hāʾ al-mubālaghah*" — the standard classical grammatical term is تاء المبالغة (*tāʾ al-mubālaghah*), not *hāʾ al-mubālaghah*. Calling the ة a "hāʾ" reflects its pause-form pronunciation (acceptable in some classical usages) but the choice of terminology as presented — as the grammarians' consensus label — overstates what is a minority terminological convention.
+
+Attributions that ARE confirmed accurate:
+- Zajjāj reading via Qurṭubī as جامعاً (gatherer): confirmed — "وقال الزجاج: أي وما أرسلناك إلا جامعا للناس ... والكافة بمعنى الجامع"
+- "Restrains people" reading attributed to Qurṭubī and Baghawī: confirmed — "وقيل: معناه كاف" (Qurṭubī) and "وقيل: كافة أي: كافا يكفهم" (Baghawī)
+
+SUMMARY: The scholar attributions are accurate and the overall contextual reading is sound, but the grammatical centerpiece — that كافة carries a mubālaghah feminine ending because it describes the Prophet ﷺ — is an interpretive extension not found in the provided classical sources, and directly competes with al-Jalālayn's explicit reading that كافة is a ḥāl from الناس rather than from the Prophet.

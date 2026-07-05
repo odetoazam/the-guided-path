@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/050-qaf/ayah-030.md
+Ayah: 50:30
+Date: 2026-06-08T19:10:12
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَوْمَ=(The) Day | نَقُولُ=We will say | لِجَهَنَّمَ=to Hell, | هَلِ=`Are | ٱمْتَلَأْتِ=you filled?` | وَتَقُولُ=And it will say, | هَلْ=`Are | مِن=(there) any | مَّزِيدٍ=more?`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "it is still hungry. It has not been satisfied. It wants more." — The opening hook presents the *haqīqī istifhām* reading (Hell genuinely asking for more souls) as the established meaning of هَلْ مِن مَّزِيدٍ. Al-Jalālayn explicitly reads this as *istifhām inkārī*: «أي لا أسع غير ما امتلأت به، أي قد امتلأت» — i.e., Hell is declaring *"I am full, I cannot hold more,"* not expressing hunger. Al-Baghawī records the same opinion: «قيل: معناه قد امتلأت». The concepts list correctly flags "istifham inkari vs istifham haqiqi," which confirms the author knows the dispute — but that awareness does not reach the prose. Because the hook is the interpretive frame the entire reflection will build on, resolving this silently in one direction against Jalālayn's dominant reading is an overstatement. (Note: Al-Muyassar does support the insatiability reading via the hadith sequence — «هل من زيادة من الجن والإنس؟ فيضع الرب قدمه فيها... وتقول قط قط» — so the reading is not fabricated, but it is one of two well-attested positions.)
+
+No other issues in the material reviewed:
+
+- Qirāʾāt attribution (Nāfiʿ + Abū Bakr reading *yaqūlu*): **confirmed** — Qurṭubī: «قرأ نافع وأبو بكر "يوم يقول" بالياء»; Baghawī: «قرأ نافع وأبو بكر "يقول" بالياء».
+- The justification linking the *yā'* reading to «لا تختصموا لدي»: **confirmed** — Qurṭubī: «اعتبارا بقوله: لا تختصموا لدي»; Baghawī: «لقوله: قال لا تختصموا».
+- Majority reading *naqūlu* with nūn al-ʿaẓama: **confirmed** — Qurṭubī: «الباقون بالنون على الخطاب من الله تعالى وهي نون العظمة».
+- Form VIII (iftaʿala) for ٱمْتَلَأْتِ: **correct** — the root م-ل-ء in the افتعل pattern produces امتلأ; the reflexive/internal reading is linguistically grounded.
+- Addressative use of *li* (نَقُولُ لِجَهَنَّمَ): **sound** — all four sources treat this as direct address to Hell, not mere mention.
+- Arabic text: matches the authentic Arabic provided.
+
+SUMMARY: No critical errors; the sole moderate issue is the introduction resolving the *haqīqī/inkārī* dispute in favor of insatiability without signaling the dispute — while al-Jalālayn (and one position in al-Baghawī) read هَلْ مِن مَّزِيدٍ as Hell declaring itself full, a divergence the concepts list knows but the prose must surface.

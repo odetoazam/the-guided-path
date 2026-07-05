@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/049-al-hujurat/ayah-017.md
+Ayah: 49:17
+Date: 2026-06-08T18:36:31
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَمُنُّونَ=They consider (it) a favor | عَلَيْكَ=to you | أَنْ=that | أَسْلَمُواْ‌ۖ=they have accepted Islam. | قُل=Say, | لَّا=`(Do) not | تَمُنُّواْ=consider a favor | عَلَىَّ=to me - | إِسْلَـٰمَكُم‌ۖ=your Islam. | بَلِ=Nay, | ٱللَّهُ=Allah | يَمُنُّ=has conferred a favor | عَلَيْكُمْ=upon you | أَنْ=that | هَدَٮٰكُمْ=He has guided you | لِلْإِيمَـٰنِ=to the faith, | إِن=if | كُنتُمْ=you are | صَـٰدِقِينَ=truthful.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "as al-Baghawi and al-Qurtubi preserve it — they came counting it up" — the specific detail of "households and heavy burdens" (الأثقال والعيال) is confirmed only in al-Qurtubi's provided text: "إشارة إلى قولهم: جئناك بالأثقال والعيال". The provided al-Baghawi excerpt contains no mention of this detail. Al-Jalalayn preserves the "without fighting" angle (من غير قتال), which the reflection also uses — but the "households" framing cannot be attributed to al-Baghawi from the reference data supplied. May be a partial-excerpt issue, but as written the dual attribution overstates al-Baghawi's contribution to that specific scene.
+
+No other issues found. Verified as accurate:
+- Form I (mnn) for yamunnūna / tamunnū / yamunnu — correct
+- Form IV (slm, Amn) for aslamū / islām / īmān — correct
+- Root *mann* dual semantic range (weighty gift → poisoned reminder) aligns with classical lexicography; al-Mannān and al-mann wa-al-salwā derivations are well-attested
+- 49:14 islām/īmān distinction accurately rendered
+- "Without fighting" framing confirmed by al-Jalalayn (من غير قتال بخلاف غيرهم ممن أسلم بعد قتاله)
+- Arabic text in body matches the authenticated Arabic provided
+- Triple repetition of the mnn root (yamunnūna / tamunnū / yamunnu) correctly identified and counted
+
+SUMMARY: One moderate attribution issue — the "households and burdens" detail is sourced to al-Qurtubi alone in the provided data, not al-Baghawi; all linguistic, morphological, and root-semantic claims are accurate.

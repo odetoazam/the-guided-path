@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/051-adh-dhariyat/ayah-059.md
+Ayah: 51:59
+Date: 2026-06-09T01:48:51
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَإِنَّ=So indeed, | لِلَّذِينَ=for those who | ظَلَمُواْ=do wrong, | ذَنُوبًا=(is) a portion | مِّثْلَ=like | ذَنُوبِ=(the) portion | أَصْحَـٰبِهِمْ=(of) their companions, | فَلَا يَسْتَعْجِلُونِ=so let them not ask Me to hasten.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] Intro translation renders أَصْحَـٰبِهِمْ as "predecessors" — the word means "companions/fellows." The tafsir explains they are companions who perished before (al-Jalalayn: *aṣḥābihim al-hālikīna qablahum*; al-Baghawi: *alladhīna halakū min qawmi Nūḥ wa-ʿĀd wa-Thamūd*), but that chronological fact is the commentary gloss, not the word's own meaning. "Predecessors" imports the explanation into the translation itself, losing the semantic weight of shared *method* (rejection → punishment) that أَصْحَاب carries. The reflection self-corrects — using "companions" correctly throughout the linguistic analysis sections.
+
+VERIFIED CLEAN:
+- **ذَنُوب etymology**: Core claim — "the great leather bucket filled with water, then used for one's lot and portion" — is word-for-word verified against both provided sources. Al-Baghawi: *wa-aṣl al-dhanūb fī'l-lugha al-dalw al-ʿaẓīma al-mamlū'a māʾan, thumma ustuʿmila fī'l-ḥaẓẓi wa'n-naṣīb* — exact match to the reflection's transliteration and attribution. Al-Qurtubi confirms the same via the water-division derivation.
+- **ذَنُوب ≠ ذَنْب distinction**: Linguistically sound and supported by all four tafsir sources rendering ذَنُوبًا as نصيب (portion/share), not sin.
+- **Destroyed nations listed**: Confirmed in al-Baghawi (قوم نوح وعاد وثمود) and al-Qurtubi (الأمم السالفة).
+- **Mockers demanding hastened punishment**: Al-Jalalayn and al-Muyassar both confirm *fa-lā yastaʿjilūn* addresses the demand to hurry the punishment.
+- **Contextual framing (51:58 preceding this verse)**: Cannot verify from the provided tafsir data for 51:59 specifically, but the reference is to a different verse and not contested by any source here.
+
+SUMMARY: The central etymological argument is impeccably sourced and verified against both al-Qurtubi and al-Baghawi verbatim; the only flag is a translation rendering that imports the tafsir gloss into the English of أَصْحَاب, which the reflection itself repairs in the body analysis.

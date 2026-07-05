@@ -1,0 +1,42 @@
+Enhanced Validation Report
+File: content/tadabbur/061-as-saf/ayahs-010-011.md
+Ayah: 61:10
+Date: 2026-06-13T00:42:44
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ=O you who believe! | هَلْ=Shall | أَدُلُّكُمْ=I guide you | عَلَىٰ=to | تِجَـٰرَةٍ=a transaction | تُنجِيكُم=(that) will save you | مِّنْ=from | عَذَابٍ=a punishment | أَلِيمٍ=painful?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate errors found in the excerpt provided.
+
+Supporting notes on specific verifiable claims:
+
+- **Jalalayn attribution** — "it is as if they said, 'Yes!' — *fa-ka-annahum qālū naʿam* — and so He said..." is an accurate quotation. The Jalalayn source reads exactly: *فكأنهم قالوا نعم فقال*. Representation is precise.
+
+- **Root of أَدُلُّ as dāl-lām-lām** — correct. The word-by-word reference gives "I guide you," and the lexical derivation (*dalīl* = guide/pointer/evidence) is standard and attested.
+
+- **هَلْ framed as "opening a door" rather than purely informational** — the reflection handles the nuance carefully; it does not over-claim that *hal* is purely rhetorical, instead calling it "a real question" that "creates hunger." This is compatible with Jalalayn's own reading of an implicit "yes" response without misrepresenting the particle's grammatical class.
+
+- **Surah As-Saf opening theme (saying what you do not do) and references to Musa and Isa** — accurately reflects 61:2–3 and 61:5–6.
+
+- **Quraysh two-journey reference** — correctly identifies Surah Quraysh (106:2) without over-claiming.
+
+- **Commerce metaphor framing ("profit" logic)** — aligns with al-Baghawi's own language: *"جعل ذلك بمنزلة التجارة لأنهم يربحون بها رضا الله"* ("He cast it in the form of a trade because through it they gain profit: Allah's pleasure"). The reflection's angle is well-grounded, not an unsupported extension.
+
+One observation (not a flag): The Qurtubi cites a narration about ʿUthmān ibn Maẓʿūn as the occasion of revelation; Baghawi cites a different occasion (believers asking which deeds Allah loves most). The reflection does not engage asbāb al-nuzūl at all — it focuses on the surah's internal logic, which is a legitimate tadabbur approach and does not constitute an error of omission.
+
+SUMMARY: All verifiable claims in this excerpt are accurate and well-grounded against the provided tafsir and morphological reference data; no critical or moderate issues identified.

@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/059-al-hashr/ayah-009.md
+Ayah: 59:9
+Date: 2026-06-12T19:40:13
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَٱلَّذِينَ=And those who | تَبَوَّءُو=settled | ٱلدَّارَ=(in) the home | وَٱلْإِيمَـٰنَ=and (accepted) faith | مِن قَبْلِهِمْ=before them | يُحِبُّونَ=love | مَنْ=(those) who | هَاجَرَ=emigrated | إِلَيْهِمْ=to them, | وَلَا=and not | يَجِدُونَ=they find | فِى=in | صُدُورِهِمْ=their breasts | حَاجَةً=any want | مِّمَّآ=of what | أُوتُواْ=they were given | وَيُؤْثِرُونَ=but prefer | عَلَىٰٓ=over | أَنفُسِهِمْ=themselves, | وَلَوْ=even though | كَانَ=was | بِهِمْ=with them | خَصَاصَةٌ‌ۚ=poverty. | وَمَن=And whoever | يُوقَ=is saved | شُحَّ=(from) stinginess | نَفْسِهِۦ=(of) his soul, | فَأُوْلَـٰٓئِكَ=then those | هُمُ=[they] | ٱلْمُفْلِحُونَ=(are) the successful ones.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Al-Qurtubi points out that *al-īmān* here is grammatically governed not by *tabawwa'a* itself — because you don't physically take up residence in a belief — but by an understood verb the listener is meant to supply" — The provided Qurtubi excerpt truncates at "لا خلاف أن الذين تبوءوا الدار هم..." without showing this grammatical discussion. The attribution cannot be confirmed from the reference data provided. Note: the underlying grammatical observation *is* grounded in the tradition — Jalalayn supplies the understood meaning with "أي ألفوه" (meaning: *they were familiar with it / embraced it*), which functions identically to what the reflection describes. The observation is sound; the specific Qurtubi attribution is unverified.
+
+CONFIRMED ACCURATE (for explicit record):
+
+- Historical context of fay' distribution to Muhajirun: confirmed — Jalalayn: "آتى النبي صلى الله عليه وسلم المهاجرين من أموال بني النضير المختصة بهم"
+- Al-Baghawi citation about mosques built before the Prophet's arrival: confirmed verbatim — "ابتنوا المساجد قبل قدوم النبي صلى الله عليه وسلم بسنتين"
+- تَبَوَّءُو root (b-w-'), Form V reflexive analysis: linguistically accurate
+- حاجة rendered as "need" rather than "envy": the Quranic word is حاجة (need/want); Jalalayn and Muyassar interpret it as حسد — the reflection correctly identifies the literal word and builds meaning from it without misrepresenting the tafsir tradition
+- Translation is faithful to the word-by-word reference throughout
+
+SUMMARY: One unverifiable scholar attribution (Qurtubi on al-īmān grammar) that is otherwise supported by Jalalayn's "أي ألفوه" — the reflection's logic holds, the specific citation does not.

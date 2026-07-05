@@ -1,0 +1,24 @@
+Enhanced Validation Report
+File: content/tadabbur/043-az-zukhruf/ayah-086.md
+Ayah: 43:86
+Date: 2026-06-07T00:45:53
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَلَا=And not | يَمْلِكُ=have power | ٱلَّذِينَ=those whom | يَدْعُونَ=they invoke | مِن دُونِهِ=besides Him | ٱلشَّفَـٰعَةَ=(for) the intercession; | إِلَّا=except | مَن=who | شَهِدَ=testifies | بِٱلْحَقِّ=to the truth, | وَهُمْ=and they | يَعْلَمُونَ=know.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: ERROR
+ISSUES:
+- Could not run Claude check: Command failed: claude -p --system-prompt "You are a rigorous Islamic scholarship validator for Ayah
+SUMMARY: Claude semantic check failed

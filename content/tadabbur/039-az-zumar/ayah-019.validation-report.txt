@@ -1,0 +1,44 @@
+Enhanced Validation Report
+File: content/tadabbur/039-az-zumar/ayah-019.md
+Ayah: 39:19
+Date: 2026-06-06T04:27:59
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَفَمَنْ=Then, is (one) who, | حَقَّ=became due | عَلَيْهِ=on him | كَلِمَةُ=the word | ٱلْعَذَابِ=(of) the punishment? | أَفَأَنتَ=Then can you | تُنقِذُ=save | مَن=(one) who | فِى=(is) in | ٱلنَّارِ=the Fire?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- None identified.
+
+SUMMARY: All attributions, root analyses, and tafsir citations check out against the reference data; no factual errors detected in the portion reviewed.
+
+---
+
+**Verification trail:**
+
+**Al-Qurṭubī attribution** — The reflection quotes: *"was striving with all his might for the belief of a people for whom wretchedness had already been written."* Source reads: *"كان النبي ﷺ يحرص على إيمان قوم وقد سبقت لهم من الله الشقاوة، فنزلت هذه الآية."* Accurate; "striving with all his might" is a mild intensification of *yaḥriṣu* but within legitimate rendering range.
+
+**Abū Lahab narration** — Correctly attributed to Ibn ʿAbbās *as recorded by* al-Qurṭubī, not claimed as al-Qurṭubī's own opinion. Attribution chain is accurate.
+
+**Al-Baghawī / Ibn ʿAbbās** — *"the one whom Allah foreknew, in His knowledge, to be among the people of the Fire"* maps precisely to: *"من سبق في علم الله أنه من أهل النار."* ✓
+
+**Al-Muyassar on agency** — *"because of his persisting in his deviance and his obstinacy"* maps precisely to: *"باستمراره على غيِّه وعناده."* ✓
+
+**Root Ḥ-Q-Q / perfect tense** — *ḥaqqa* is correctly parsed as a perfect-tense verb; the semantic range drawn (truth, reality, what is owed/due) is lexically sound and consistent with Jalālayn's gloss and Muyassar's *wajabat*.
+
+**Double istifhām inkārī** — Supported by both Jalālayn (*"al-hamzatu lil-inkār"*) and al-Qurṭubī (*"karrara al-istifhām... taʾkīdan"*). ✓
+
+**Theological synthesis (qadar + agency)** — Presenting Ibn ʿAbbās's foreknowledge angle and al-Muyassar's persistence angle as complementary rather than contradictory is a defensible and mainstream Sunni framing; no overclaim is made about either position.

@@ -1,0 +1,38 @@
+Enhanced Validation Report
+File: content/tadabbur/070-al-maarij/ayahs-019-021.md
+Ayah: 70:19
+Date: 2026-06-15T01:49:58
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ۞ إِنَّ=Indeed, | ٱلْإِنسَـٰنَ=the man | خُلِقَ=was created | هَلُوعًا=anxious -
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- None that rise to CRITICAL or MODERATE given the reference data provided.
+
+The following claims were spot-checked against the sources:
+
+**Al-Dahhak attribution (CONFIRMED)** — "Al-Qurṭubī even records that some, like al-Ḍaḥḥāk, read this as describing the one who leaves it untreated — the disbeliever." ar.qurtubi explicitly states: *يعني الكافر; عن الضحاك* — accurate and correctly hedged as one view, not the majority.
+
+**Vv. 20–21 as definition of halū' (CONFIRMED)** — The claim that Allah "defines His own word for us, immediately, in the very next breath" is directly supported: al-Jalalayn gives *وتفسيره* ("and its explanation") and al-Baghawi cites Ibn Abbas via Atiyya: *تفسيره ما بعده* ("its explanation is what follows it"). The reflection's framing of this as unusual Quranic self-definition is warranted.
+
+**faʿūl as ṣīghat al-mubālagha (CONFIRMED)** — All three tafsirs use *shidda* (intensity): Qurtubi *أشد الحرص وأسوأ الجزع*, Baghawi *شدة الحرص وقلة الصبر*. The intensification claim is sound.
+
+**Translation "restless and anxious" (NARROW BUT CONSISTENT)** — The tafsirs foreground *ḥirṣ* (covetousness/greed) as the primary dimension of halū' at least as heavily as *jazaʿ* (anxiety). "Restless and anxious" underweights the greed pole. However: (a) the provided word-by-word reference itself gives "anxious," (b) the greed pole is fully conveyed through *manūʿ* in the body, and (c) the pastoral framing is transparent. This is an editorial choice, not a factual error. Not worth flagging at MODERATE given how the reference data is structured.
+
+**khuliqa passive voice analysis (CONFIRMED)** — The reading that the passive elides the agent to keep the human under the lens while Allah remains implicit is standard tafsir grammar and not over-claimed.
+
+SUMMARY: The reflection is tightly grounded — every classical attribution checked against the provided sources holds, the halū' self-definition claim is confirmed by both Jalalayn and Ibn Abbas (via Baghawi), and the sole translation narrowness is consistent with the word-by-word reference supplied.

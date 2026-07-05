@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/035-fatir/ayah-028.md
+Ayah: 35:28
+Date: 2026-05-18T03:09:02
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَمِنَ=And among | ٱلنَّاسِ=men | وَٱلدَّوَآبِّ=and moving creatures | وَٱلْأَنْعَـٰمِ=and the cattle | مُخْتَلِفٌ=(are) various | أَلْوَٲنُهُۥ=[their] colors | كَذَٲلِكَۗ=likewise. | إِنَّمَا=Only | يَخْشَى=fear | ٱللَّهَ=Allah | مِنْ=among | عِبَادِهِ=His slaves | ٱلْعُلَمَـٰٓؤُاْۗ=those who have knowledge. | إِنَّ=Indeed, | ٱللَّهَ=Allah | عَزِيزٌ=(is) All-Mighty, | غَفُورٌ=Oft-Forgiving.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Allah did not say mukhtalafun — 'differentiated.' That would have been the passive — they were made to differ — implying an external imposition of difference upon a base of sameness... It means: the diversity of these creatures is not painted on top of a base sameness. The diversity is in their nature itself." — The linguistic distinction between active and passive participles is real and the Form VIII identification is correct. However, this theological inference — that the active form *proves* diversity is intrinsically embedded rather than externally imposed — is stated as linguistic fact when it is an interpretive extension. None of the four provided tafsir sources (Jalalayn, Muyassar, Qurtubi, Baghawi) make this active/passive distinction or derive this conclusion from the participle form. Qurtubi's comment on *kadhālik* is the closest analog ("likewise the states of servants differ in their fear"), but that supports the structural argument, not the intrinsic-diversity claim. This should be framed as a reflection observation, not a linguistic determination.
+
+- [PASS] Form VIII identification for مُخْتَلِفٌ (iftaʿala → muftaʿil from root خ-ل-ف) is morphologically accurate.
+
+- [PASS] Restriction particle إِنَّمَا (innamā) described as qasr/hasr — supported by Jalalayn's explicit contrast ("بخلاف الجهال") and Baghawi's reading.
+
+- [PASS] al-istidlāl bi-l-maḥsūs ʿalā al-maʿqūl framing — Qurtubi's "كذلك تختلف أحوال العباد في الخشية" directly supports using visible diversity as the bridge to invisible spiritual differentiation.
+
+- [PASS] Translation of ٱلدَّوَآبِّ as "crawling creatures" — within attested range for دَابَّة (root: دَبَّ, to creep/crawl on earth); the word-by-word gives "moving creatures" as an alternate rendering, neither is wrong.
+
+- [PASS] 35:27 description ("fruits of varying colors... mountains white and red... intensely black") — accurate to the preceding ayah.
+
+SUMMARY: The reflection contains one moderate issue — the active-vs-passive participle argument is linguistically valid but overstated as a definitive theological proof of intrinsic diversity, a claim the classical tafsir sources provided do not make; it should be flagged as interpretive rather than lexically established.

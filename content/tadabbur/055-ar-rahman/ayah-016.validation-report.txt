@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/055-ar-rahman/ayah-016.md
+Ayah: 55:16
+Date: 2026-06-10T08:37:10
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَبِأَىِّ=So which | ءَالَآءِ=(of the) favors | رَبِّكُمَا=(of) your Lord | تُكَذِّبَانِ=will you both deny?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "In that narration, they answered every single repetition: *'Not one of Your favors, our Lord, do we deny — so to You belongs all praise.'"* — The provided al-Qurtubi text only yields "للجن أحسن منكم ردا" from the Jabir/Tirmidhi chain — the summary that jinn *gave a better response*, not the verbatim words of that response. The specific phrasing attributed here ("لا بشيء من نعمك ربنا نكذب فلك الحمد" or equivalent) circulates in other transmissions (Ibn Abi Hatim route), not demonstrably in the Tirmidhi/Jabir narration the reflection cites. Tying the verbatim quote to *that* narration conflates two separate sources. Not fabricated, but overstated attribution.
+
+No other issues found:
+- Arabic text matches the authentic (the أَيِّ / أَىِّ variant is a rasm/font display difference, not an error).
+- Translation accurate per word-by-word reference.
+- Dual grammar (rabbikumā, tukadhdhibāni) correctly explained.
+- Al-Qurtubi's jomhoor attribution ("قول الجمهور"), Jabir hadith, Tirmidhi source, and "للجن أحسن منكم ردا" all accurately reproduced from provided data.
+- Verse placements (refrain at 13, human/jinn creation at 14–15, thaqalān at 31, yā maʿshara at 33) are consistent with surah structure and corroborated by the Qurtubi text (which references verse 15 for jānn explicitly).
+- Root claims (Alw, rbb, k-dh-b; Form II imperfect for tukadhdhibāni) are correct.
+
+SUMMARY: The reflection is accurate throughout; the sole issue is that the verbatim jinn response is presented as belonging to the Jabir/Tirmidhi narration, when the provided Qurtubi text from that chain only confirms the summary judgment ("better response"), not those specific words.

@@ -1,0 +1,40 @@
+Enhanced Validation Report
+File: content/tadabbur/090-al-balad/ayah-001.md
+Ayah: 90:1
+Date: 2026-06-18T19:02:32
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: لَآ=Nay! | أُقْسِمُ=I swear | بِهَـٰذَا=by this | ٱلْبَلَدِ=city,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [INFORMATIONAL] "Al-Qurtubi affirms this reading" — Qurtubi's text opens with **يجوز أن تكون لا زائدة** ("it is permissible/possible that lā is augmentative"), which is hedged introduction language, softer than "affirms." However, Qurtubi immediately follows with a positive proof argument (the 95:3 parallel: *فكيف يجحد القسم به وقد أقسم به*), making the overall stance closer to advocacy than mere permission. "Affirms" is defensible given that Qurtubi clinches the argument, but strictly it is a mild overage on his opening hedge.
+
+- [INFORMATIONAL] "The grounded scholarly consensus" — within the three sources provided (Jalalayn, Baghawi, Qurtubi all read lā as zā'idah), the claim holds. Whether it constitutes a wider consensus cannot be verified from the reference data supplied, but no counter-reading appears in any source provided.
+
+- [PASS] Al-Jalalayn attribution: «لا» زائدة — reflection states "Al-Jalalayn states it plainly: lā is augmentative" — exact match.
+
+- [PASS] Al-Baghawi attribution: "لا أقسم يعني أقسم" — reflection states "lā uqsimu means uqsimu — the lā is a particle of intensification" — exact match.
+
+- [PASS] Al-Qurtubi's 95:3 argument: reflection reconstructs Qurtubi's reasoning accurately — the source text *وقد أقسم به في قوله وهذا البلد الأمين فكيف يجحد القسم* maps directly onto the reflection's paraphrase.
+
+- [PASS] 75:1 cross-reference: لَآ أُقْسِمُ بِيَوْمِ ٱلْقِيَـٰمَةِ cited correctly as a parallel construction.
+
+- [PASS] Interpretive extension labeled appropriately: "I offer this as an interpretive extension beyond the morphological core" — the reading of lā as negating an unstated assumption is explicitly flagged as non-documented, not presented as tafsir fact.
+
+- [PASS] Form IV morphology: *uqsimu* as Form IV imperfect of q-s-m meaning "to swear" is correct; the pruning note in frontmatter is accurate.
+
+SUMMARY: All scholar attributions are verified against the provided sources and no claims are inverted, fabricated, or morphologically wrong; the one soft issue is characterizing Qurtubi's "يجوز" as "affirms," which the surrounding argument makes defensible.

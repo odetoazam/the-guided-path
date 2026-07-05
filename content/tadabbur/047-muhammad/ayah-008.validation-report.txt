@@ -1,0 +1,30 @@
+Enhanced Validation Report
+File: content/tadabbur/047-muhammad/ayah-008.md
+Ayah: 47:8
+Date: 2026-06-08T13:05:23
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَٱلَّذِينَ=But those who | كَفَرُواْ=disbelieve, | فَتَعْسًا=destruction is | لَّهُمْ=for them, | وَأَضَلَّ=and He will cause to be lost | أَعْمَـٰلَهُمْ=their deeds.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: CRITICAL
+
+ISSUES:
+- [CRITICAL] "The root is **ط-ع-س** (ṭ-ʿ-s). Say it slowly with me. Ṭ — a heavy, emphatic letter that sits at the back of the mouth and drops like a weight." — The Arabic word in the ayah is تَعْسًا, which begins with **تَ** (tā'), not **طَ** (emphatic ṭā'). The root is **ت-ع-س** (t-ʿ-s), found under that entry in Lisān al-ʿArab and confirmed by the word's own spelling. The entire phonetic argument — "the word falls," "dropped like a weight," "heavy emphatic letter" — is built on a misidentified consonant. ت and ط are distinct phonemes; conflating them is a morphological error, not a stylistic reading.
+
+- [MODERATE] "al-Suddī: **حُزْنًا لَهُم** — grief for them" — This attribution does not appear in any of the four tafsir sources provided (al-Jalālayn, al-Muyassar, al-Qurṭubī, al-Baghawī). Al-Baghawī lists Ibn ʿAbbās (بعدا), Abū al-ʿĀliya (سقوطا), al-Ḍaḥḥāk (خيبة), and Ibn Zayd (شقاء) — al-Suddī with حزنا is unverifiable from the reference data provided. It may exist elsewhere, but cannot be asserted here without a named source.
+
+All other claims check out: the taʿs/laʿ contrast is confirmed verbatim in al-Baghawī ("ويقال للعاثر: تعسا إذا لم يريدوا قيامه وضده لعا"); the maṣdar bi-sabīl al-duʿāʾ parsing attributed to al-Farrāʾ is confirmed in both al-Qurṭubī and al-Baghawī; the four remaining scholar attributions (Ibn ʿAbbās, Abū al-ʿĀliya, al-Ḍaḥḥāk, Ibn Zayd) are all accurate.
+
+SUMMARY: The reflection contains one critical morphological error — the root of تَعْسًا is ت-ع-س not ط-ع-س — which invalidates the phonetic centerpiece of Part One; plus one unverifiable scholar attribution (al-Suddī/حزنا) absent from all provided sources.

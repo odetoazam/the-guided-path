@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/034-saba/ayahs-029-030.md
+Ayah: 34:29
+Date: 2026-05-18T01:45:41
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَيَقُولُونَ=And they say, | مَتَىٰ=`When | هَـٰذَا=(is) this | ٱلْوَعْدُ=promise, | إِن=if | كُنتُمْ=you are | صَـٰدِقِينَ=truthful?`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "The morphological pattern (*mifʿāl*) often functions in Arabic to denote a locus or instrument" — Imprecise. *Mifʿāl* (مِفْعَال) is the standard Arabic instrument-noun pattern (اسم الآلة); the canonical locus/time patterns are مَفْعَل/مَفْعِل. The reflection states this as a grammar rule. That said, the semantic claim about *mīʿād* itself — that it denotes a fixed appointed meeting time — is well-attested in classical lexicons (Lisān, Mufradāt) and is not in dispute. The grammar-pattern label is imprecise; the word's meaning is correct.
+
+- [CANNOT VERIFY] The entire response ayah (34:30) and its exposition ("lā tastaʾkhirūna... lā tastaqdimūn") are outside the provided reference data. The translation and the "powerlessness" argument derived from it may be accurate, but this validator cannot confirm from the supplied sources.
+
+Verified accurate against reference data:
+- Mocking intent: confirmed. Al-Muyassar explicitly uses مستهزئين ("in mockery").
+- Promise = Resurrection/Hour: confirmed by all four tafsir sources (al-Jalālayn, al-Muyassar, al-Qurṭubī, al-Baghawī).
+- 34:3 attribution ("lā taʾtīnā al-sāʿah") and the ayah-count (34:29 − 34:3 = 26) are correct.
+- وَعْد/مِيعَاد shared root و-ع-د: correct.
+- Cross-surah parallels (Yūnus, al-Anbiyāʾ, al-Naml, Yāsīn, al-Mulk) match the related_ayahs listed and are standard.
+
+SUMMARY: One imprecise grammar-pattern label (mifʿāl ≠ locus pattern by standard Arabic grammar taxonomy) that does not undermine the semantic argument; 34:30 analysis unverifiable from supplied data but no red flags visible in what can be checked.

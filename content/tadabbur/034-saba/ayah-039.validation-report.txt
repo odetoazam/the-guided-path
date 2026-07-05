@@ -1,0 +1,40 @@
+Enhanced Validation Report
+File: content/tadabbur/034-saba/ayah-039.md
+Ayah: 34:39
+Date: 2026-05-17T21:37:04
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: قُلْ=Say, | إِنَّ=`Indeed, | رَبِّى=my Lord | يَبْسُطُ=extends | ٱلرِّزْقَ=the provision | لِمَن=for whom | يَشَآءُ=He wills | مِنْ=of | عِبَادِهِۦ=His slaves | وَيَقْدِرُ=and restricts | لَهُۥۚ=for him. | وَمَآ=But what | أَنفَقْتُم=you spend | مِّن=of | شَىْءٍ=anything | فَهُوَ=then He | يُخْلِفُهُۖۥ=will compensate it | وَهُوَ=and He | خَيْرُ=(is the) Best | ٱلرَّٲزِقِينَ=(of) the Providers.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate errors found.
+
+Spot-checks performed against reference data:
+
+**Root *b-s-ṭ***: "He spreads it out, opens it wide, unrolls it like a carpet" — accurate. Jalalain confirms يوسعه (widens/expands it); bisāṭ derivation is lexically standard.
+
+**Root *q-d-r* dual-meaning claim**: "power" and "measure/limit" — accurate. *Yaqdiru lah* rendered يضيقه (narrows it) across all four tafsir sources. The reflection correctly distinguishes the two semantic valences without conflating them.
+
+**Asymmetric grammar observation** — "expansion names servants (*min ʿibādihi*), restriction uses only the pronoun (*lahu*)" — verifiable directly from the authenticated Arabic: *yabsuṭu r-rizqa li-man yashāʾu min ʿibādihi wa-yaqdiru lah*. The asymmetry is real and present in the text. The reflection presents it as an interpretive question ("Why?") rather than a documented exegetical conclusion — appropriate register.
+
+**Both verbs imperfect tense** — *yabsuṭu / yaqdiru*: correct, both are muḍāriʿ (ongoing).
+
+**Historical context (wealthy elite, "wealth as verdict")**: Muyassar and Qurtubi both explicitly gloss *li-man yashāʾu min ʿibādih* with reference to *al-mughtarrīn bil-amwāl wal-awlād* (those deluded by wealth and children) — the framing in the reflection is warranted.
+
+**Reflection ends mid-sentence** ("I have") — incomplete, but that is a production artifact, not a content error.
+
+SUMMARY: All linguistic claims are accurate, the grammatical observation about asymmetry is textually verifiable, and no scholar positions are overstated or inverted; the reflection earns a clean pass.

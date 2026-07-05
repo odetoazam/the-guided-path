@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayah-071.md
+Ayah: 3:71
+Date: 2026-06-21T13:02:36
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَـٰٓأَهْلَ=O People | ٱلْكِتَـٰبِ=(of) the Book! | لِمَ=Why | تَلْبِسُونَ=do you mix | ٱلْحَقَّ=the truth | بِٱلْبَـٰطِلِ=with the falsehood | وَتَكْتُمُونَ=and conceal | ٱلْحَقَّ=the truth | وَأَنتُمْ=while you | تَعْلَمُونَ=know?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "al-Jalālayn and al-Qurṭubī among them, gloss it plainly: talbis here means khalṭ, to mix" — Confirmed. al-Jalālayn: «تخلطون»; al-Qurṭubī: «اللبس الخلط». Both sources use khalṭ explicitly.
+- [PASS] "Al-Qurṭubī notes the same root was already explained back in Sūrat al-Baqarah" — Confirmed. al-Qurṭubī: «وقد تقدم في البقرة».
+- [PASS] Root ل-ب-س yielding both talbis (confuse/mix) and libās (clothing) — Linguistically sound. The semantic overlap between "to clothe" and "to obscure" in this root is attested in classical Arabic lexicons and is not contested.
+- [PASS] "Verbs talbisūn, taktumūn, taʿlamūn are all Form I imperfect, 2nd person masculine plural" — Correct morphological classification for all three.
+- [PASS] Root ك-ت-م meaning to hide/suppress — Standard, uncontested.
+- [PASS] The talbis (addition/mixing) vs. kitman (subtraction/concealing) contrast as "two fundamental strategies" — Interpretive synthesis, but grounded in what both verbs actually mean lexically and confirmed by the tafsir sources which treat them as a paired indictment. Not overstated as a documented scholarly position; the reflection presents it as the author's analytical framing.
+- [UNVERIFIABLE — not flagged as error] The lexical detail about "labbasa ʿalayhi al-amr" (obscured the matter) from Lisān al-ʿArab — not in the provided reference data, but the frontmatter comment correctly names that source. Cannot confirm or refute from the materials supplied; the claim is linguistically plausible and consistent with classical Arabic usage.
+
+SUMMARY: All verifiable claims — root identities, morphology, tafsir attributions, the khalṭ gloss, the al-Baqarah back-reference — check out precisely against the provided reference data; no inversions, fabrications, or overstatements detected.

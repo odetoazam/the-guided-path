@@ -1,0 +1,46 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayah-091.md
+Ayah: 3:91
+Date: 2026-06-21T11:50:30
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّ=Indeed, | ٱلَّذِينَ=those who | كَفَرُواْ=disbelieve[d] | وَمَاتُواْ=and died | وَهُمْ=while they | كُفَّارٌ=(are) disbelievers, | فَلَن=then never | يُقْبَلَ=will be accepted | مِنْ=from | أَحَدِهِم=any one of them | مِّلْءُ ٱلْأَرْضِ=earth full | ذَهَبًا=(of) gold | وَلَوِ=[and] (even) if | ٱفْتَدَىٰ بِهِۦٓ‌ۗ=he offered it as ransom. | أُوْلَـٰٓئِكَ=Those - | لَهُمْ=for them | عَذَابٌ=(is) a punishment | أَلِيمٌ=painful | وَمَا=and not | لَهُم=(will be) for them | مِّن=from | نَّـٰصِرِينَ=any helpers.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+**VERDICT: PASS**
+
+**ISSUES:**
+- None found in the reviewed portion.
+
+**SUMMARY:** The reflection is linguistically rigorous and factually grounded — the ḥāl analysis of *wa hum kuffār* is grammatically correct, the Form VIII iftadā morphology claim is accurate, the translation matches the word-by-word data, and the contextual framing (following 3:90's apostasy thread) aligns with al-Muyassar and al-Qurtubi.
+
+---
+
+**Detail on each checkable claim:**
+
+**Arabic text** — Minor Unicode diacritic rendering differences (كُفَّارٌ vs كُفَّارٌۭ, بِهِۦ vs بِهِۦٓ) are formatting artifacts, not word errors. Substantively identical.
+
+**ḥāl analysis** — *wa hum kuffār* as a circumstantial clause is standard Arabic grammar; the reflection's reading ("the verdict is on your last frame, not your past") is a legitimate derivation from this construction and is consistent with the classical understanding that tawba remains open until death.
+
+**Form VIII iftadā (fdy)** — Correct. Root فدى, Form VIII pattern iftaʿala → aftadā, self-benefactive meaning (ransoming oneself) is morphologically attested.
+
+**"lan yuqbala"** — Emphatic future negation; accurately represented.
+
+**3:90 context** — The reflection's description ("those who disbelieved after their belief and only increased in disbelief — whose repentance is not accepted") matches 3:90 accurately.
+
+**"earth filled with gold"** — Al-Baghawi confirms *mil'u al-arḍi* means "the amount that fills the earth from east to west"; the reflection's image is precise.
+
+**People of the Book framing** — The reflection calls them "those who heard, recognized, and turned away." Al-Muyassar reads "those who denied the prophethood of Muhammad ﷺ" — the reflection's framing is a valid contextual reading for Aal-Imran's address without overstating specificity.
+
+**Note:** Validation covers the first ~8,000 characters only (through Part 1, Element One). Parts 2+ were not submitted.

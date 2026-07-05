@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/045-al-jathiyah/ayah-009.md
+Ayah: 45:9
+Date: 2026-06-08T05:09:38
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَإِذَا=And when | عَلِمَ=he knows | مِنْ=of | ءَايَـٰتِنَا=Our Verses, | شَيْــًٔا=anything, | ٱتَّخَذَهَا=he takes them | هُزُوًا‌ۚ=(in) ridicule. | أُوْلَـٰٓئِكَ=Those - | لَهُمْ=for them | عَذَابٌ=(is) a punishment | مُّهِينٌ=humiliating.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] Arabic text matches authentic source exactly ✓
+- [PASS] "al-affāk al-athīm — the one drowning in lies, soaked in sin" — Muyassar and Baghawi confirm الأفاك الأثيم as the subject of this passage ✓
+- [PASS] "ʿalima...same root from which comes ʿālim, a scholar" — root ع-ل-م is correct, lexically attested ✓
+- [PASS] "min...carries what grammarians call the partitive sense" — standard Arabic grammar, correctly applied to min āyātinā ✓
+- [PASS] "shay'an...indefinite...the language of the minimum" — the Jalalayn offers شيئاً without resistance; the interpretive weight placed on its indefiniteness is grammatically defensible ✓
+- [PASS] muhīn glossed as "humiliating" — Qurtubi confirms مذل مخز (humiliating, disgraceful); Muyassar confirms يهينهم ويخزيهم ✓
+- [PASS] Mirrored-recompense reading (mockery answered by humiliation) — al-jazāʾ min jins al-ʿamal is a well-established usul principle; nothing in the provided tafsir contradicts it ✓
+- [UNVERIFIABLE — not flagged] The claim that verse 8 uses samiʿa while verse 9 upgrades to ʿalima as a deliberate rhetorical escalation: plausible and internally consistent, but verse 8's word-by-word is not in the supplied reference data, so it cannot be positively confirmed or refuted from what is provided. It is not asserted as a documented classical position — only as a linguistic observation — so it does not rise to MODERATE.
+
+SUMMARY: All verifiable claims are accurate against the supplied word-by-word, classical tafsir, and standard Arabic morphology; no root errors, no inverted attributions, no factual overreach detected in the first 8,000 characters.

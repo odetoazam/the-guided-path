@@ -1,0 +1,29 @@
+Enhanced Validation Report
+File: content/tadabbur/099-az-zalzalah/ayahs-001-003.md
+Ayah: 99:1
+Date: 2026-06-20T06:34:27
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِذَا=When | زُلْزِلَتِ=is shaken | ٱلْأَرْضُ=the earth | زِلْزَالَهَا=with its earthquake,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "eight short verses about the ground shaking" — The Qurtubi source provided explicitly states **"وهي تسع آيات"** (it is nine verses). The reflection's count of eight contradicts this. Note: 8 is the count used in Hafs-based mushafs and is the majority modern count — so this may reflect a legitimate scholarly difference in verse counting (ikhtilāf fī ʿadad al-āyāt) rather than an outright error — but the claim is stated as flat fact with no qualification, and it directly contradicts the provided classical source. The reflection should either cite the counting tradition it is following or hedge ("eight verses by the Kufan count" / "eight in most modern editions").
+- [MODERATE] "recorded by al-Tirmidhī, who himself called it *gharīb*, a singular report" — The Tirmidhi narration on the surah's reward is confirmed by the Qurtubi excerpt provided ("روى الترمذي عن أنس بن مالك"). However, the *gharīb* grading does not appear anywhere in the provided reference data. This is accurate per the broader hadith tradition (Tirmidhi does grade it gharīb in his Sunan), but it is presented in the body of the reflection as a documented fact without a citation hedge, and cannot be verified from the sources supplied. It should carry a qualifier like "though scholars of hadith have questioned its chain" or a direct citation to where Tirmidhi records the grading.
+
+No CRITICAL issues found. Arabic text of Ayah 1 matches the reference exactly. The passive reading of *zulzilat*, the mafʿūl muṭlaq analysis of *zilzālahā*, the possessive suffix gloss ("its own earthquake"), and the eschatological framing (earthquake as the convulsion of the Last Hour) all align precisely with al-Jalālayn, al-Baghawī, al-Muyassar, and al-Qurtubī. The Makki/Madani hedge is appropriate given the disagreement documented in Qurtubi.
+
+SUMMARY: The reflection is linguistically rigorous and theologically grounded; the two moderate flags are a verse count that conflicts with the Qurtubi source (requires either a counting-tradition citation or a hedge) and a hadith grading qualifier asserted as fact that the provided references do not support.

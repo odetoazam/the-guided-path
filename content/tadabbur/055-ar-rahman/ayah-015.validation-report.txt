@@ -1,0 +1,45 @@
+Enhanced Validation Report
+File: content/tadabbur/055-ar-rahman/ayah-015.md
+Ayah: 55:15
+Date: 2026-06-10T08:32:03
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَخَلَقَ=And He created | ٱلْجَآنَّ=the jinn | مِن=from | مَّارِجٍ=a smokeless flame | مِّن=of | نَّارٍ=fire.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate errors found in the content submitted.
+
+Specific verification notes:
+
+**al-jānn attributions** — All three attributed readings check out against provided data:
+- "Al-Jalalayn writes: the father of the jinn" → ar.jalalayn: «أبا الجن وهو إبليس» ✓
+- "Al-Baghawi: the father of the jinn — and he reports from al-Ḍaḥḥāk that this is Iblis" → ar.baghawi: «وهو أبو الجن. وقال الضحاك: هو إبليس» ✓
+- "Tafsir al-Muyassar reads it the same way: Iblis, who is of the jinn" → ar.muyassar: «وخلق إبليس، وهو من الجن» ✓
+
+**al-insān = Adam (Qurtubi)** — "by the agreement of the people of interpretation" → ar.qurtubi: «باتفاق من أهل التأويل يعني آدم» ✓
+
+**mārij / Mujāhid via Baghawi** — "maraja amru-l-qawm, when it became mixed up" → ar.baghawi: «من قولهم: مرج أمر القوم، إذا اختلط» ✓
+
+**"smokeless" in translation** — Supported by Jalalayn: «لهبها الخالص من الدخان» and Baghawi: «لا دخان فيه» ✓
+
+**"Restless" in translation** — This is an interpretive gloss drawn from the mrj root's attested meaning of turbulent mixing. The reflection is transparent about this derivation and cites Mujāhid as its basis. Not overstated.
+
+**The two-fathers reading (Adam + al-jānn in parallel)** — Grounded in Qurtubi (Adam) and the consensus reading of al-jānn as progenitor. The structural observation is an interpretive move, but it is explicitly flagged as interpretation, not presented as a documented scholarly position.
+
+**One observation for the author (not a flag):** The reflection's translation leads with "restless, smokeless" in one place and "smokeless, restless" in another — minor inconsistency in word order, but not an error.
+
+SUMMARY: All scholar attributions are accurate to the provided tafsir texts, root claims are lexically standard, and interpretive extensions are correctly framed as interpretation rather than reported fact.

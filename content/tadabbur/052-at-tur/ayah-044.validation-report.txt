@@ -1,0 +1,30 @@
+Enhanced Validation Report
+File: content/tadabbur/052-at-tur/ayah-044.md
+Ayah: 52:44
+Date: 2026-06-09T15:29:10
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَإِن=And if | يَرَوْاْ=they were to see | كِسْفًا=a portion | مِّنَ=from | ٱلسَّمَآءِ=the sky | سَاقِطًا=falling, | يَقُولُواْ=they will say, | سَحَابٌ=`Clouds | مَّرْكُومٌ=heaped up.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Al-Qurṭubī, in his commentary, stops to define it for us: *kisf* is the plural of *kisfa*, and it means a piece, a fragment torn off of something. He gives a beautifully ordinary example: you'd say to someone, 'Give me a kisfa of your garment'" — The provided Qurṭubī excerpt ends abruptly at "والكسف ج" (mid-definition, clearly truncated). The garment analogy does not appear in the supplied reference data. The frontmatter note correctly cites Lisān al-ʿArab/Mufradāt al-Rāghib for morphology — attributing this specific example to Qurṭubī's *commentary* rather than classical lexicons cannot be confirmed from the data provided.
+
+- [MODERATE] "the four commentators — al-Jalālayn, al-Muyassar, al-Qurṭubī, and al-Baghawī — all converge on...this exact word is the answer to the deniers' own demand" — Three sources do explicitly frame the verse as *jawāb* (response) to the deniers' demand (al-Jalālayn: "كما قالوا: فأسقط علينا كسفا"; al-Qurṭubī: "قال ذلك جوابا لقولهم"; al-Baghawī: "هذا جواب لقولهم"). Al-Muyassar in the provided excerpt does not make this connection — it says only that the mushrikūn would not move from denial even if fragments fell as punishment. The "all four converge" claim overstates al-Muyassar's framing.
+
+All other core claims are well-grounded: the conditional grammar analysis (يَرَوْا / يَقُولُوا as imperfect, pattern-of-reflex reading), the root yaraw as direct visual perception, كِسْف as "fragment/portion" (confirmed by al-Baghawī: "قطعة"), سَاقِطًا as "falling," and مَّرْكُومٌ as "heaped up / stacked one upon another" (confirmed identically across al-Muyassar, al-Qurṭubī, and al-Baghawī: "بعضه فوق بعض/على بعض").
+
+SUMMARY: Reflection is substantively accurate and well-reasoned; two moderate issues — an unverifiable specific attribution to al-Qurṭubī for the garment analogy (may exist in the truncated text but cannot be confirmed from the data provided), and a mild overstatement of al-Muyassar's framing as explicit *jawāb* to the deniers' demand.

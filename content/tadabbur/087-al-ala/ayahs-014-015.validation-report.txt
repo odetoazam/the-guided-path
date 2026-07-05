@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/087-al-ala/ayahs-014-015.md
+Ayah: 87:14
+Date: 2026-06-18T18:08:33
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: قَدْ=Certainly, | أَفْلَحَ=has succeeded | مَن=(one) who | تَزَكَّىٰ=purifies (himself),
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR] "the form that, in this case, makes the meaning **transitive and brought-into-effect**" — أَفْلَحَ in this verse is used intransitively ("he succeeded," no direct object). Form IV *can* be causative/transitive, but here it functions intransitively. The description slightly overstates the Form IV mechanism for this specific instance. Not a factual inversion, but an imprecise framing that a student might misapply.
+
+No further issues in the visible text. Specific checks:
+
+- **Root f-l-ḥ, Form IV** — confirmed by the certified Leeds morphology note in the reflection itself and consistent with reference data. ✓
+- **تَزَكَّىٰ as Form V (reflexive)** — confirmed: root zkw, Form V. ✓
+- **قَدْ + perfect = certainty/confirmation** — grammatically sound. The "prophetic perfect" / تحقيق reading of the past tense to signal a sealed future outcome is a recognized classical Arabic rhetorical device; the reflection handles it accurately. ✓
+- **فَلَّاح / farmer etymology** — the root ف-ل-ح meaning "to split/cleave" is attested in Lisān al-ʿArab and Mufradāt al-Rāghib. The connection to the farmer image is lexically legitimate and not contradicted by any tafsir source provided. ✓
+- **Surah context: Makkan, verses 14–15 precede 87:16 "you prefer the worldly life"** — accurate. ✓
+- **No scholar attributions made** in this portion, so no inversion risk. ✓
+- **Tafsir note**: the classical sources (Qurtubi, Baghawi) record multiple views on تَزَكَّىٰ — purification from shirk, good deeds generally, and ṣadaqat al-fiṭr. The visible reflection has not yet engaged these. If the full text omits the ṣadaqat al-fiṭr and "purification from shirk" interpretations (Ibn Abbas, Qurtubi's *awwal* wajh) without acknowledgment, that would be a moderate gap — but cannot be flagged from the text provided, which is cut off mid-sentence.
+
+SUMMARY: The reflection is linguistically rigorous and etymologically grounded; the one imprecision (Form IV framed as transitive when it functions intransitively here) is minor and does not corrupt any theological claim.

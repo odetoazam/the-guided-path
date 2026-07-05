@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/004-an-nisa/ayah-127.md
+Ayah: 4:127
+Date: 2026-06-25T06:24:18
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَيَسْتَفْتُونَكَ=And they seek your ruling | فِى=concerning | ٱلنِّسَآءِ‌ۖ=the women. | قُلِ=Say, | ٱللَّهُ=`Allah | يُفْتِيكُمْ=gives you the ruling | فِيهِنَّ=about them | وَمَا=and what | يُتْلَىٰ=is recited | عَلَيْكُمْ=to you | فِى=in | ٱلْكِتَـٰبِ=the Book | فِى=concerning | يَتَـٰمَى=orphans | ٱلنِّسَآءِ=[the] girls | ٱلَّـٰتِى=(to) whom | لَا تُؤْتُونَهُنَّ=you (do) not give them | مَا=what | كُتِبَ=is ordained | لَهُنَّ=for them | وَتَرْغَبُونَ=and you desire | أَن=to | تَنكِحُوهُنَّ=marry them, | وَٱلْمُسْتَضْعَفِينَ=and the ones who are weak | مِنَ=of | ٱلْوِلْدَٲنِ=the children | وَأَن=and to | تَقُومُواْ=stand | لِلْيَتَـٰمَىٰ=for orphans | بِٱلْقِسْطِ‌ۚ=with justice. | وَمَا=And whatever | تَفْعَلُواْ=you do | مِنْ=of | خَيْرٍ=good | فَإِنَّ=then indeed, | ٱللَّهَ=Allah | كَانَ=is | بِهِۦ=about it | عَلِيمًا=All-Knowing.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "daughters of Umm Kuḥḥa" — The al-Baghawī text provided reads **أم كجة** (Umm Kujja, with jīm ج), not أم كحة (Umm Kuḥḥa, with ḥāʾ ح). These are distinct Arabic consonants. The broader attribution — Ibn ʿAbbās, via al-Kalbī from Abū Ṣāliḥ, daughters, inheritance — is correctly stated; only the name itself is inconsistent with the supplied source.
+
+No other issues found. Specific checks:
+
+- **Arabic text**: matches the authentic supplied text (minor diacritic rendering differences only, not content).
+- **Form X / Form IV analysis**: يَسْتَفْتُونَكَ as Form X (istafʿala = seeking) and يُفْتِيكُمْ as Form IV (afʿala = issuing) — both root and form identifications are correct.
+- **-ka suffix claim** ("that final -ka is 'you,' addressed to him ﷺ"): accurate; it is the direct-object pronominal suffix on the verb.
+- **al-Qurṭubī attribution** (ayah revealed due to Companions asking about women and inheritance): confirmed by the supplied Qurṭubī excerpt — "نزلت بسبب سؤال قوم من الصحابة عن أمر النساء وأحكامهن في الميراث."
+- **al-Baghawī / ʿĀʾisha narration** (beautiful+wealthy orphan sought for marriage below fair due, plain orphan blocked from all marriage): confirmed in the supplied Baghawī excerpt — "فيرغب في نكاحها إذا كانت ذات جمال ومال بأقل من سنتها." The second half of the scenario (plain girl, blocked) is consistent with the full Aisha hadith preserved in Bukhārī/Muslim though not fully visible in the truncated excerpt.
+- **Translation**: accurate against the word-by-word reference throughout.
+
+SUMMARY: The reflection is linguistically rigorous and correctly attributed across all major claims; the single issue is a one-letter consonant error in the name of the woman cited in the Ibn ʿAbbās occasion of revelation (كجة vs كحة).

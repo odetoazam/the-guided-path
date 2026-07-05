@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/052-at-tur/ayah-022.md
+Ayah: 52:22
+Date: 2026-06-09T17:55:34
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَأَمْدَدْنَـٰهُم=And We will provide them | بِفَـٰكِهَةٍ=with fruit | وَلَحْمٍ=and meat | مِّمَّا=from what | يَشْتَهُونَ=they desire.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR] "from all that they desire" — the Arabic مِّمَّا يَشْتَهُونَ means "from what they desire"; the word "all" is an interpretive addition not present in the root. Within normal translational latitude, but worth noting for precision.
+
+All three tafsir quotations are accurate against the provided sources:
+- Al-Jalalayn's *"زِدْنَاهُمْ فِي وَقْتٍ بَعْدَ وَقْتٍ"* — reproduced correctly and attributed correctly.
+- Al-Qurtubi's *"أَكْثَرْنَا لَهُمْ مِنْ ذَلِكَ زِيَادَةً مِنَ اللهِ"* — quoted accurately; the translation "We multiplied that for them — an addition from Allah" faithfully renders it.
+- Al-Baghawi's *"زِيَادَةٌ عَلَى مَا كَانَ لَهُمْ"* — quoted correctly.
+
+The Form IV morphological analysis is sound: وَأَمْدَدْنَـٰهُمْ is correctly identified as Form IV (أَفْعَلَ) of root م-د-د, with أَمَدَّ meaning to supply/reinforce. The description of Form I madda as "to stretch, to extend" is lexically standard.
+
+The al-Muyassar sequencing claim — fruit and meat before the cups — correctly reflects the tafsir's ordering (فواكه ولحوم → كأسًا).
+
+SUMMARY: The reflection's tafsir citations are accurate, root and form analysis is correct, and no scholar positions are overstated or inverted — the single note is a minor translation amplification that does not constitute a scholarly error.

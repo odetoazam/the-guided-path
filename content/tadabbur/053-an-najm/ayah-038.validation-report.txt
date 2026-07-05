@@ -1,0 +1,30 @@
+Enhanced Validation Report
+File: content/tadabbur/053-an-najm/ayah-038.md
+Ayah: 53:38
+Date: 2026-06-09T19:09:49
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَلَّا=That not | تَزِرُ=will bear | وَازِرَةٌ=a bearer of burdens | وِزْرَ=(the) burden | أُخْرَىٰ=(of) another,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: CRITICAL
+
+ISSUES:
+- [CRITICAL] "one of the Quraysh, in some reports al-Walīd ibn al-Mughīra, told people: 'Follow my way, abandon Muhammad's religion, and I will carry your sins for you.'" — Al-Baghawī's text inverts this: **"وفي هذا إبطال قول من ضمن للوليد بن المغيرة بأنه يحمل عنه الإثم"** — someone offered to carry **al-Walīd's** sin (al-Walīd is the *recipient* of the offer, not the offerer). The reflection makes al-Walīd the one promising to absorb others' sins; al-Baghawī has him as the beneficiary of someone else's promise. Direction fully inverted. The "Follow my way, I'll carry your sins" speech aligns with the *disbelievers* in 29:12 — but that is a different narration not attributed to al-Walīd in the reference data.
+
+- [MODERATE] "Al-Qurṭubī tells us something chilling about the world *before* Ibrāhīm: a man could be seized and killed" — al-Qurṭubī specifies **"between Nūḥ and Ibrāhīm"** (ما بين نوح وإبراهيم), not simply "before Ibrāhīm." Additionally, the Arabic says يُؤخذ (would be *seized/held accountable*); "and killed" is an interpretive addition absent from the cited text.
+
+- [PASS] Arabic text, triple w-z-r root analysis (تَزِرُ / وَازِرَةٌ / وِزْرَ), and the 6:31 cross-reference (awzār on backs) are all accurate against the reference data.
+
+SUMMARY: One critical error — the al-Walīd ibn al-Mughīra narrative is direction-inverted against al-Baghawī's actual text; the reflection must be corrected before publication.

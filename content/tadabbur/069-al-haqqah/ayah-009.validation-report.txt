@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/069-al-haqqah/ayah-009.md
+Ayah: 69:9
+Date: 2026-06-15T01:33:43
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَجَآءَ=And came | فِرْعَوْنُ=Firaun, | وَمَن قَبْلَهُۥ=and (those) before him, | وَٱلْمُؤْتَفِكَـٰتُ=and the overturned cities | بِٱلْخَاطِئَةِ=with sin.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Classical tafsir is unanimous: this refers to the cities of the people of Lot" — Al-Baghawi explicitly preserves a second position: "وَقِيلَ يُرِيدُ الْأُمَمَ الَّذِينَ ائْتَفَكُوا بِخَطِيئَتِهِمْ، أَيْ أَهْلَكُوا بِذُنُوبِهِمْ" — i.e., "the muʾtafikāt" refers to all nations destroyed by their sins, not exclusively Lot's cities. Al-Qurṭubī also records the variant reading tradition that expands scope. The dominant position (Jalālayn, Muyassar) is indeed Lot's cities, but "unanimous" overstates the consensus and erases a documented minority view in the classical tradition.
+
+- [MODERATE] The reflection's Form VIII morphological analysis ("reflexive or resultative dimension... the subject underwent this transformation completely") is linguistically defensible as a general description of the ifta'ala pattern, but the provided tafsir sources do not invoke this morphological frame. It is stated with scholarly certainty ("Form VIII, active participle, feminine plural — this is where Form VIII matters") but the claim that this specific nuance was intended or recognized in the classical tradition cannot be verified from the reference data provided. The reflection should hedge: "the form suggests..." rather than presenting it as established.
+
+All other content checks out:
+- Arabic text matches authentic source ✓
+- Qirāʾāt discussion of قِبَلَهُۥ vs قَبْلَهُۥ is directly confirmed by both Al-Qurṭubī and Al-Baghawi ✓
+- 11:82 citation ("We turned it completely upside down") is accurate ✓
+- Root أ-ف-ك dual-meaning analysis (physical inversion + moral falsehood) is lexically attested ✓
+- بِٱلْخَاطِئَةِ as definite "the sin" is correct ✓
+- The translation addition of "all" is an interpretive smoothing, not a semantic error ✓
+
+SUMMARY: Solidly grounded reflection with one factual overstatement ("unanimous" consensus on al-muʾtafikāt) and one morphological claim presented with more classical warrant than the reference data can confirm — both correctable with light hedging language.

@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/004-an-nisa/ayah-104.md
+Ayah: 4:104
+Date: 2026-06-25T07:34:53
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَلَا=And (do) not | تَهِنُواْ=be weak | فِى=in | ٱبْتِغَآءِ=pursuit | ٱلْقَوْمِ‌ۖ=(of) the people. | إِن=If | تَكُونُواْ=you are | تَأْلَمُونَ=suffering, | فَإِنَّهُمْ=then indeed, they | يَأْلَمُونَ=are (also) suffering | كَمَا=like what | تَأْلَمُونَ‌ۖ=you are suffering, | وَتَرْجُونَ=while you (have) hope | مِنَ=from | ٱللَّهِ=Allah | مَا=what | لَا=not | يَرْجُونَ‌ۗ=they hope. | وَكَانَ ٱللَّهُ=And Allah is | عَلِيمًا=All-Knowing, | حَكِيمًا=All-Wise.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+
+- [MODERATE] "Three hundred warriors abandoned the battle mid-fight. The archers abandoned their posts..." — The reflection presents these as two separate events but mischaracterizes the first. The ~300 men under Abdullah ibn Ubayy withdrew **before battle engagement**, while the army was still marching toward Uhud — not mid-fight. The archers (50) abandoned their posts mid-battle. Conflating the timing of the first group's withdrawal with the heat of battle is a factual inaccuracy. Note: the provided tafsir excerpts do not directly address this timeline, but it is established Islamic historical record (Ibn Hishām, Ibn Kathīr's sīrah sections on Uhud). The error affects the contextual narrative, not the Quranic/linguistic analysis.
+
+Everything else checks out against the provided reference data:
+
+- **تَهِنُوا root analysis** (wāw-hāʾ-nūn, "interior limpness/structural softness") — consistent with Jalalayn's تضعفوا and Muyassar's لا تضعفوا; the "interior collapse" elaboration is interpretively defensible, not an overstatement.
+- **Baghawi asbab al-nuzul** — attribution is accurate word-for-word against the provided excerpt (Abu Sufyan's withdrawal, Prophet sending pursuit party, companions complaining of wound-pain).
+- **Takrār claim** (ألم appears three times) — accurate; يَأْلَمُونَ + تَأْلَمُونَ + تَأْلَمُونَ are all present in the text.
+- **3:139 cross-reference** — وَلَا تَهِنُوا وَلَا تَحْزَنُوا quoted and translated accurately.
+- **Hope asymmetry reading** — grounded directly in the word-by-word data (وَتَرْجُونَ / مَا لَا يَرْجُونَ).
+- **ابتغاء as Form VIII masdar** — linguistically correct (ibtighāʾ from ibtaghā).
+
+SUMMARY: The Quranic linguistic and tafsir content is accurate and well-grounded; one factual imprecision in the historical narrative section conflates the pre-battle withdrawal of Abdullah ibn Ubayy's faction with the mid-battle abandonment of the archers.

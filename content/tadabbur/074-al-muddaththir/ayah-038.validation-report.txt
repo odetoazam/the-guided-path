@@ -1,0 +1,40 @@
+Enhanced Validation Report
+File: content/tadabbur/074-al-muddaththir/ayah-038.md
+Ayah: 74:38
+Date: 2026-06-17T01:07:41
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: كُلُّ=Every | نَفْسِۭ=soul, | بِمَا=for what | كَسَبَتْ=it has earned, | رَهِينَةٌ=(is) pledged,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No errors found against the provided reference data.
+
+Supporting verification:
+
+**Al-Qurtubī's *rahīnah* / *rahīn* distinction** — The reflection quotes him as saying *"innamā huwa ismun bi-maʿnā ar-rahn"* and attributes to him the observation that *faʿīl* with the meaning of *mafʿūl* is gender-invariant, so the *tā' marbūṭah* marks *rahīnah* as a noun rather than a feminine adjective. The provided Qurtubī text confirms this verbatim: *"وإنما هو اسم بمعنى الرهن كالشتيمة بمعنى الشتم"* and *"لأن فعيلا بمعنى مفعول يستوي فيه المذكر والمؤنث."* Attribution is accurate and not overstated.
+
+**52:21 comparator verse** — The reflection cites *kullu imri'in bimā kasaba rahīn* as the sister verse with *rahīn* (no *tā'*). The Qurtubī source confirms the reference: *"كل امرئ بما كسب رهين."* Accurate.
+
+**Al-Muyassar paraphrase** — The reflection renders al-Muyassar's position as "imprisoned, held in pledge… not released until it discharges what is upon it of obligations and penalties." The source text reads: *"محبوسة مرهونة بكسبها، لا تُفَكُّ حتى تؤدي ما عليها من الحقوق والعقوبات."* Direct match.
+
+**Shatīmah analogy** — Accurately drawn from Qurtubī; not embellished.
+
+**"Nineteen guardians" and surah sequence** — Consistent with 74:30 and the established Makkan revelation context.
+
+The theological amplification ("you are the pledge, not the debtor") follows directly and legitimately from Qurtubī's grammatical observation and does not exceed what the classical source warrants.
+
+SUMMARY: All attributed claims are verifiable against the provided tafsir data; the linguistic analysis of *rahīnah* is faithful to al-Qurtubī, and the al-Muyassar paraphrase is precise.

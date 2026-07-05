@@ -1,0 +1,40 @@
+Enhanced Validation Report
+File: content/tadabbur/068-al-qalam/ayahs-019-020.md
+Ayah: 68:19
+Date: 2026-06-13T17:50:02
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَطَافَ=So there came | عَلَيْهَا=upon it | طَآئِفٌ=a visitation | مِّن=from | رَّبِّكَ=your Lord, | وَهُمْ=while they | نَآئِمُونَ=were asleep.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No CRITICAL or MODERATE errors found. Every verifiable claim in this excerpt checks out against the provided reference data:
+
+**Confirmed accurate:**
+- Root Ṭ-W-F meaning "to circle/encompass" — lexically sound, connection to *ṭawāf* is attested
+- *ṭāʾif* as active participle ("one who circles") — grammatically correct
+- Al-Farrāʾ's observation that a *ṭāʾif* only comes at night: quoted as "والطائف لا يكون إلا بالليل ; قاله الفراء" in the provided Qurṭubī text — attribution exact and correct
+- Tanwīn on طَآئِفٌ as indefinite marker — grammatically accurate
+- Ibn ʿAbbās → *amrun min rabbik*: confirmed in Qurṭubī ("وقال ابن عباس : أمر من ربك")
+- Qatāda → *ʿadhābun min rabbik*: confirmed ("وقال قتادة : عذاب من ربك")
+- Ibn Jurayj → neck of fire from the valley of Hell: confirmed ("عنق من نار خرج من وادي جهنم")
+- Jibrīl opinion: confirmed ("قيل : الطائف جبريل عليه السلام")
+- Fire descending at night: confirmed across Jalālayn, Muyassar, Baghawī
+- The four views treated as complementary angles rather than competing claims — a defensible *ikhtilāf tanawwuʿ* framing, not a distortion
+
+**One note (not flagged, but worth flagging to the author):** The description of the garden as "somewhere in the lands of the south" (implying Yemen/Sana'a) is a detail from extended classical narrations not present in the reference excerpts provided. It's introduced with the hedge "the narrations preserved in the commentaries describe," which is appropriate epistemic framing — not an overstatement. No error.
+
+SUMMARY: Linguistic analysis is precise, all four scholar attributions are exact, and the al-Farrāʾ/al-Qurṭubī citation is verbatim-verifiable — this reflection reflects solid sourcing with no factual, morphological, or attribution errors.

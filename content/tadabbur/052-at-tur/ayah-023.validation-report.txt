@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/052-at-tur/ayah-023.md
+Ayah: 52:23
+Date: 2026-06-09T17:18:21
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَتَنَـٰزَعُونَ=They will pass to one another | فِيهَا=therein | كَأْسًا=a cup, | لَّا=no | لَغْوٌ=ill speech | فِيهَا=therein | وَلَا=and no | تَأْثِيمٌ=sin.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [UNVERIFIABLE] "he quotes the old poetry of the wine-gathering, the verse of al-Akhṭal, **the verse of Imruʾ al-Qays**" — the provided Qurtubi excerpt confirms the Akhṭal citation explicitly ("وشاهد التنازع والكأس في اللغة قول الأخطل") but is truncated before we can confirm Imruʾ al-Qays. The second verse fragment ("نازعته طيب الراح الشمول") in the excerpt is unattributed in the data supplied. Not asserting this is wrong — the full Qurtubi entry on this ayah is long — but the attribution cannot be verified from the reference data provided and should be flagged for a source check before publication.
+
+All other verifiable claims hold:
+- Form VI (tafāʿul / yatafāʿalūn) identification of يَتَنَازَعُونَ — correct
+- Root ن-ز-ع glossed as "to pull out, wrench, snatch" — lexically sound
+- 79:1 (an-Nāziʿāt) and 4:59 cited as parallel instances of the same root — both accurate
+- Al-Jalālayn rendered as *yataʿāṭawn* — confirmed ("يتعاطون بينهم")
+- Al-Baghawī rendered as *yataʿāṭawna wa yatanāwalūn* — confirmed ("يتعاطون ويتناولون")
+- Al-Muyassar quote (*li-yatimma bi-dhālika surūruhum*) — confirmed verbatim ("ليتم بذلك سرورهم")
+- Thematic contrast with earthly wine (laghw / conflict absent in Jannah) — consistent across all four tafsir sources
+
+SUMMARY: The reflection is linguistically and texturally rigorous; the sole concern is an unverifiable second poet attributed to Qurtubi in a truncated excerpt — confirm the full Qurtubi entry before publishing.

@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/055-ar-rahman/ayah-062.md
+Ayah: 55:62
+Date: 2026-06-11T23:40:52
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَمِن دُونِهِمَا=Besides these two | جَنَّتَانِ=(are) two gardens.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No errors found.
+
+Checked items:
+- **Ibn ʿAbbās / Ibn Zayd attributions**: Reflection states "Al-Qurṭubī and al-Baghawī both preserve... Ibn ʿAbbās said *dūnahumā fi'l-daraj* ... Ibn Zayd said *dūnahumā fi'l-faḍl*." Both tafsirs confirm this verbatim: ar.qurtubi — «قال ابن عباس : ومن دونهما في الدرج . ابن زيد : ومن دونهما في الفضل» and ar.baghawi — identical wording. Attribution, translation, and sourcing are all accurate.
+- **Root j-n-n semantics**: Reflection claims jannah derives from a root meaning "to cover/conceal" and cites janīn, jinn, majnūn, junnah as cognates. This is standard and verified in Lisān al-ʿArab and Mufradāt al-Rāghib (as the frontmatter itself notes). No over-claim.
+- **Dūn lexical range**: "Beneath," "short of," "besides," "other than" — all attested meanings. The reflection is careful to hold the ambiguity rather than resolve it artificially, which is the correct scholarly posture.
+- **"Below in rank, not altitude"**: Accurately derived from the reported positions of Ibn ʿAbbās (درج = rank/degree) and Ibn Zayd (فضل = excellence/merit). The reflection does not overstate this as the only view.
+- **First gardens promised to those who feared their Lord**: Confirmed by al-Jalālayn — «لمن خاف مقام ربه».
+- **"Sixteen verses" claim (55:46–61)**: 46 through 61 is exactly 16 verses. ✓
+
+SUMMARY: Every scholar attribution is correctly sourced, all linguistic claims are lexicographically grounded, and no interpretive position is overstated as documented fact — this reflection is accurate throughout.

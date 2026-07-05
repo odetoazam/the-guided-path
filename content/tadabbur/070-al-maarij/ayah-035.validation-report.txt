@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/070-al-maarij/ayah-035.md
+Ayah: 70:35
+Date: 2026-06-15T03:30:36
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أُوْلَـٰٓئِكَ=Those | فِى=(will be) in | جَنَّـٰتٍ=Gardens, | مُّكْرَمُونَ=honored.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- None identified within the visible text (first 8,000 characters). All verifiable claims check out:
+
+**Arabic/Morphology:** مُكْرَمُونَ correctly identified as passive participle of Form IV أَكْرَمَ (root ك-ر-م); جَنَّـٰتٍ correctly traced to root ج-ن-ن. No errors.
+
+**Verse citations:** 70:1 (*saʾala sā'ilun bi-ʿadhābin wāqiʿ*), 70:4 (fifty thousand years), 70:11–14 (ransom passage), 70:19–21 (*halūʿ*), and 70:22–34 quality list all match Quranic text. Count of "thirteen consecutive verses" (70:22–34) is arithmetically correct.
+
+**halūʿ treatment:** Root correctly given as ه-ل-ع. "The Quran does not call this sin — it calls it *khalq*" is accurate; 70:19 uses خُلِقَ and classical commentators treat it as innate disposition, not moral failing. The "disposition of extremes" description is consistent with Qurtubi and Ibn Kathir on this word.
+
+**Tafsir alignment:** Qurtubi's "أكرمهم الله فيها بأنواع الكرامات" (Allah honored them therein with all kinds of honors) is accurately reflected in the reflection's emphasis on divine honoring. No scholar is misquoted or inverted.
+
+**Interpretive extensions:** The psychological framing of 70:11–14 as terror of being "found without honor" is a tadabbur-register inference, clearly written as the author's lens, not as a documented scholarly position. Not a MODERATE flag.
+
+SUMMARY: The reflection is structurally accurate, linguistically sound, and all attributable claims either match the reference data or are clearly marked as the author's reflective inference rather than scholarly fact.

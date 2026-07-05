@@ -1,0 +1,38 @@
+Enhanced Validation Report
+File: content/tadabbur/048-al-fath/ayah-009.md
+Ayah: 48:9
+Date: 2026-06-08T14:38:00
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: لِّتُؤْمِنُواْ=That you may believe | بِٱللَّهِ=in Allah | وَرَسُولِهِۦ=and His Messenger | وَتُعَزِّرُوهُ=and (may) honor him | وَتُوَقِّرُوهُ=and respect him | وَتُسَبِّحُوهُ=and glorify Him | بُكْرَةً=morning | وَأَصِيلاً=and evening.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+**VERDICT: PASS**
+
+**ISSUES:**
+- No critical or moderate errors found in the text submitted.
+
+Specific verifications:
+
+- **Qirāʾāt attribution** — "Ibn Kathīr and Abū ʿAmr, as al-Qurṭubī and al-Baghawī both record, read it *li-yuʾminū*" — confirmed exactly by al-Qurṭubī ("قرأ ابن كثير وابن محيصن وأبو عمرو (ليؤمنوا) بالياء") and al-Baghawī ("قرأ ابن كثير، وأبو عمرو: 'ليؤمنوا... بالياء فيهن"). ✓
+
+- **"support him" for وَتُعَزِّرُوهُ** — Translation departs from the word-by-word gloss ("honor him") but is better grounded: al-Baghawī gives "تعينوه وتنصروه" (help/support) and al-Jalālayn gives "ينصروه" (support). Not an error. ✓
+
+- **Form II morphology of *ʿazzara*** — Root ʿ-z-r with z doubled in Form II (faʿʿala pattern) is correct; the intensification gloss is standard. ✓
+
+- **Pronoun-referent discussion** — The claim that classical scholars debated the referents is confirmed: al-Jalālayn ("وضميرها لله أو لرسوله") and al-Baghawī (who explicitly notes a waqf after وَتُوَقِّرُوهُ and assigns وَتُسَبِّحُوهُ to Allah). ✓
+
+- **Arabic text** — Matches the authenticated Arabic exactly. ✓
+
+**SUMMARY:** All verifiable claims in this reflection — qirāʾāt attribution, morphological analysis, tafsir-sourced meanings, and pronoun-reference discussion — are accurate and grounded in the provided classical sources; the reflection is cleared for publication contingent on completion of the cut-off Form II section.

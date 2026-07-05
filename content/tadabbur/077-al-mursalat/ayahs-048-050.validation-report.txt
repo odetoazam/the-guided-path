@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/077-al-mursalat/ayahs-048-050.md
+Ayah: 77:48
+Date: 2026-06-18T10:59:31
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَإِذَا=And when | قِيلَ=it is said | لَهُمُ=to them, | ٱرْكَعُواْ=`Bow`, | لَا=not | يَرْكَعُونَ=they bow.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE — not a flag] The reflection builds its entire qīla analysis on the passive concealing the agent, treating the command as "ambient" and "sourceless." This is sound linguistics, and none of the classical sources contradict it — but they also don't support it explicitly. The sources simply note the passive without drawing this theological inference. The reflection presents this as the author's own analysis rather than attributing it to a scholar, so it does not cross into MODERATE territory. Worth tracking as an interpretive extension that future advisors could probe.
+
+- [NOTE — not a flag] Baghawi preserves an Ibn Abbas position not addressed in these 8000 characters: "إنما يقال لهم هذا يوم القيامة حين يدعون إلى السجود فلا يستطيعون" — that this summons to bow may refer specifically to the Day of Judgment scene when they are physically incapable of prostrating (cf. 68:42). The reflection treats the refusal as a worldly, volitional one. Both readings coexist in the tradition. If the reflection's later sections don't acknowledge Ibn Abbas's eschatological reading, that would be a MODERATE flag on completeness.
+
+Verified accurate:
+- Mujahid attribution via al-Qurtubi (qāla mujāhid: irkaʿū = ṣallū) — confirmed verbatim in Qurtubi text
+- Al-Jalalayn, al-Baghawi, al-Muyassar all equating rukūʿ with ṣalāh — confirmed in all three sources
+- "Nearly one voice" characterization — accurate, all four sources concur
+- Refrain count (nine before this passage, tenth at 77:49) — confirmed; the refrain appears at 15, 19, 24, 28, 34, 37, 40, 45, 47 before verse 48; verse 49 is the tenth and final
+- qīla as passive perfect, irkaʿū as imperative — morphologically correct per word-by-word reference
+
+SUMMARY: All verifiable scholar attributions and linguistic claims are accurate; the passive-voice theological inference is the author's own analysis (not misattributed), and the Ibn Abbas alternate reading in Baghawi should be addressed in sections beyond the 8000-character window before publication.

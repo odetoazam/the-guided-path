@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/048-al-fath/ayah-003.md
+Ayah: 48:3
+Date: 2026-06-08T16:51:24
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَيَنصُرَكَ ٱللَّهُ=And Allah may help you | نَصْرًا=(with) a help | عَزِيزًا=mighty.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "After the fourfold purpose — forgiveness, blessing, straight path, guidance" — Verse 2 contains exactly three purpose-clause verbs: *liyaghfira* (forgiveness), *wayutimma* (completing blessing), *wayahdiyaka ṣirāṭan mustaqīmā* (guiding to a straight path). "Straight path" and "guidance" are not two distinct purposes — they are a single verb (*wayahdiyaka*) with its object (*ṣirāṭan mustaqīmā*). The fourfold count is internally contradicted by the frontmatter's own parenthetical, which lists only three verbs: "(liyaghfira, wayutimma, wayahdiyaka)." If the author intends a true fourfold, the fourth item should be verse 3's *naṣr*, not a split reading of *wayahdiyaka*.
+
+VERIFIED ACCURATE (from provided reference data):
+- Arabic text matches exactly.
+- Translation "mighty and beyond all humiliation" is directly grounded in al-Jalālayn ("ذا عز لا ذل له") and al-Qurṭubī ("لا يتبعه ذل").
+- *ʿazīzā* glossed as *ghālib* (dominant/prevailing) confirmed by al-Baghawī and al-Qurṭubī.
+- *mafʿūl muṭlaq* identification of *naṣran* as cognate object of *yanṣuraka* (root n-ṣ-r repeated) is morphologically correct.
+- *ʿUmar* narration attributed to al-Bukhārī: cannot verify from provided reference data, but the attribution is standard and not contradicted by any source here.
+
+SUMMARY: One moderate structural error — the "fourfold purpose" enumeration in verse 2 incorrectly splits *wayahdiyaka ṣirāṭan mustaqīmā* into two items; verse 2 has three purposes, not four, and the fourth (naṣr) belongs to verse 3.

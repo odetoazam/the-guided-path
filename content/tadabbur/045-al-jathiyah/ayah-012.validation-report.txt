@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/045-al-jathiyah/ayah-012.md
+Ayah: 45:12
+Date: 2026-06-08T04:07:33
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ۞ ٱللَّهُ=Allah | ٱلَّذِى=(is) the One Who | سَخَّرَ=subjected | لَكُمُ=to you | ٱلْبَحْرَ=the sea | لِتَجْرِىَ=that may sail | ٱلْفُلْكُ=the ships | فِيهِ=therein | بِأَمْرِهِۦ=by His Command, | وَلِتَبْتَغُواْ=and that you may seek | مِن=of | فَضْلِهِۦ=His Bounty | وَلَعَلَّكُمْ=and that you may | تَشْكُرُونَ=give thanks.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "The doubling, the intensity built into the word, carries a sense of something thorough and sustained... the sea is being held every hour" — The Form II (فَعَّلَ) pattern conveys intensity and causation in the *act* of subjection, not grammatical ongoing-ness. سَخَّرَ is a completed past tense verb (فعل ماضٍ). The "continuously sustained" reading is a valid theological claim about divine upholding (a standard Islamic doctrinal position), but the reflection presents it as derived from the morphology of Form II rather than from Islamic theology about divine sustaining power. The interpretive move is orthodox; the grammatical attribution is a slight overreach. No classical source in the data supports deriving duration from the Form II pattern here.
+
+No other issues found:
+- Arabic text matches authentic source exactly ✓
+- سَخَّرَ as Form II is correct (shaddah on خ confirms فَعَّلَ pattern) ✓
+- تَبْتَغُوا as Form VIII is correct (افتعل from root ب-غ-ي) ✓
+- Qurtubi attribution accurately rendered: "ذكر كمال قدرته وتمام نعمته على عباده، وبين أنه خلق ما خلق لمنافعهم" maps precisely to the quoted translation ✓
+- The لَعَلَّ vs لِـ (purpose particle) grammatical contrast is linguistically sound ✓
+- لَكُمُ placement and the "for you" emphasis are accurate to the word-by-word data ✓
+
+SUMMARY: The reflection is linguistically and texturally sound throughout; the single moderate issue is a pedagogical conflation of Form II morphological intensity with theological continuous sustaining — the claim is doctrinally correct but credited to grammar rather than theology.

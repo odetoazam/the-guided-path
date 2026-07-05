@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/055-ar-rahman/ayah-061.md
+Ayah: 55:61
+Date: 2026-06-12T08:47:26
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَبِأَىِّ=So which | ءَالَآءِ=(of the) favors | رَبِّكُمَا=(of) your Lord | تُكَذِّبَانِ=will you both deny?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "There is a narration carried by al-Tirmidhi, reported from Jābir ibn ʿAbdillāh... 'the jinn gave a better response than you'" — confirmed by Qurṭubī: *"يدل عليه حديث جابر المذكور أول السورة، وخرجه الترمذي وفيه 'للجن أحسن منكم ردا'"*
+- [PASS] "al-Qurṭubī lays out the reasoning carefully... he calls it the position of the *jumhūr*" — confirmed verbatim: *"وهذا قول الجمهور"*
+- [PASS] "sa-nafrughu lakum ayyuha th-thaqalān (55:31)" and "yā maʿshara l-jinni wa-l-ins (55:33)" cited as Qurṭubī's internal-surah proof — confirmed: *"وأيضا قال: سنفرغ لكم أيها الثقلان"* appears in the provided Qurṭubī excerpt
+- [PASS] Root annotations (Alw → ālāʾ; k-dh-b Form II → tukadhdhibān) — lexically sound; Form II identification is correct
+- [PASS] "a word with no singular in common use" for ālāʾ — well-attested lexicographic observation (Lisān al-ʿArab, Mufradāt)
+- [PASS] "Why weighty? Because these two carry... the freedom to refuse" — presented as interpretive framing, not attributed as a quoted scholar position; standard and broadly accepted
+- [PASS] Arabic text in reflection matches the authenticated Arabic exactly: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+- [PASS] The jinn's response ("Lā bi-shayʾin min niʿamika...") is correctly held as "a reported narration, not a verse" — appropriate epistemic hedge
+
+SUMMARY: Every verifiable claim maps cleanly to the provided tafsir data; attributions to Qurṭubī and al-Tirmidhī are accurate, the dual-grammar explanation is linguistically sound, and interpretive extensions are properly framed as such.

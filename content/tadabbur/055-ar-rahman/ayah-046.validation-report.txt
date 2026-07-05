@@ -1,0 +1,42 @@
+Enhanced Validation Report
+File: content/tadabbur/055-ar-rahman/ayah-046.md
+Ayah: 55:46
+Date: 2026-06-11T23:15:38
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَلِمَنْ=But for (him) who | خَافَ=fears | مَقَامَ=(the) standing | رَبِّهِۦ=(before) his Lord | جَنَّتَانِ=(are) two gardens.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- None. Every verifiable claim checks out against the provided reference data.
+
+Specific checks completed:
+
+**Root analysis** — *maqām* from q-w-m (ق‑و‑م) is correct. The *maṣdar mīmī* / noun-of-place ambiguity is legitimate Arabic morphology, not a confection.
+
+**al-Qurṭubī attribution** — The reflection quotes him as saying *maqām* is "a *maṣdar*, meaning *al-qiyām*... *bayna yaday rabbihi lil-ḥisāb*... fa-taraka al-maʿṣiya." The tafsir text reads: «ف "مقام" مصدر بمعنى القيام... مقامه بين يدي ربه للحساب فترك المعصية» — exact match.
+
+**Second reading (qiyāmu rabbihi ʿalayhi)** — The reflection attributes this to both al-Qurṭubī and al-Baghawī. Confirmed in both: ar.qurtubi has «وقيل: خاف قيام ربه عليه أي إشرافه واطلاعه عليه»; ar.baghawi has «وقيل: قيام ربه عليه».
+
+**13:33 cross-reference** — The reflection says al-Qurṭubī and al-Baghawī both anchor the second reading to *a-fa-man huwa qāʾimun ʿalā kulli nafsin bimā kasabat*. Both do, verbatim.
+
+**al-Jalālayn, al-Muyassar, al-Baghawī on the first reading** — All three support the "servant standing before Lord for the reckoning" reading. Confirmed.
+
+**Five-word count** — وَلِمَنْ / خَافَ / مَقَامَ / رَبِّهِۦ / جَنَّتَانِ — correct.
+
+**One claim outside provided data** — The "thirty-one times" refrain count is a well-established fact about Ar-Rahman, not disputed in any classical source. Not flagged as an error.
+
+SUMMARY: The reflection's linguistic analysis and all tafsir attributions are accurate and directly verifiable against the provided reference data; no inversions, fabricated positions, or root errors found.

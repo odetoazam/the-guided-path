@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/033-al-ahzab/ayah-044.md
+Ayah: 33:44
+Date: 2026-05-15T04:43:17
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: تَحِيَّتُهُمْ=Their greetings | يَوْمَ=(on the) Day | يَلْقَوْنَهُۥ=they will meet Him | سَلَـٰمٌۚ=(will be), `Peace.` | وَأَعَدَّ=and He has prepared | لَهُمْ=for them | أَجْرًا=a reward | كَرِيمًا=noble.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+
+- [MODERATE] "at its grammatical core, a deliberate transmission of life from one being to another" — The root Ḥ-Y-Y for *taḥiyyah* is lexically attested (Lisān al-ʿArab, Mufradāt), but presenting this as a grammatical structural fact rather than an etymological observation overstates the case. None of the four provided tafsir sources invoke the ḥayāh root connection. Al-Jalalayn, al-Muyassar, al-Baghawi, and al-Qurṭubī all describe the event as *Allāh greeting/saluting the believers* ("يسلم الله عليهم," "منه تعالى بلسان الملائكة") without drawing on the life-root interpretation. The reflection presents this as a *grammatical* conclusion, not a recognized classical reading.
+
+- [MODERATE] "Arabic has dozens of words... Allah chose this one. The one built on *life*." — This states as established fact that the divine selection of *taḥiyyah* was motivated by its ḥayāh root, a claim absent from all four provided tafsir sources. This is a modern etymological-theological interpretation, not a documented classical position.
+
+- [MODERATE] The reflection treats *yalqawnahu* as definitively meaning the believers meet Allah, without noting that al-Qurṭubī explicitly states: "اختلف في الضمير الذي في يلقونه على من يعود" — and al-Baghawi cites al-Barāʾ ibn ʿĀzib and Ibn Masʿūd holding that *yalqawnahu* refers to meeting the angel of death. The majority reading (and the word-by-word reference) supports meeting Allah, but the complete silence on this classical ikhtilāf is an omission for content at this level of claimed rigor.
+
+SUMMARY: The Arabic text and Form II morphological explanation are accurate, but three claims are stated as documented grammatical or divine-intentional facts when they are interpretive extensions unsupported by any of the four provided tafsir sources.

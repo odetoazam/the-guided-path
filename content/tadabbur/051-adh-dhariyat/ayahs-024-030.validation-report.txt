@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/051-adh-dhariyat/ayahs-024-030.md
+Ayah: 51:24
+Date: 2026-06-09T00:23:38
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: هَلْ=Has | أَتَـٰكَ=reached you | حَدِيثُ=(the) narration | ضَيْفِ=(of the) guests | إِبْرَٲهِيمَ=(of) Ibrahim | ٱلْمُكْرَمِينَ=the honored?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "Form IV, the pattern *afʿala / yufʿilu*" — Correct. ٱلْمُكْرَمِينَ is مُكْرَم, the Form IV passive participle (مُفْعَل pattern) of أَكْرَمَ, not the Form II مُكَرَّم. The absence of shadda on the rā confirms this. Attribution to Leeds corpus is plausible.
+- [PASS] "Al-Baghawi lays the options side by side... honored by Allah... bal ʿibādun mukramūn (21:26)" — Verified directly: Baghawi provides this reading verbatim: *"لأنهم كانوا ملائكة كراما عند الله، وقد قال الله تعالى في وصفهم: بل عباد مكرمون (الأنبياء - 26)"*
+- [PASS] "A second reading: they are al-mukramīn because Ibrahim honored them... the guest of a generous man is, by definition, an honored one" — Verified directly from Baghawi: *"وضيف الكرام مكرمون"*
+- [PASS] "Al-Qurtubi... lean here too: honored ʿinda Llāh" — Verified: Qurtubi states *"المكرمين أي عند الله"*
+- [PASS] "qawmun munkarūn — 'a people unknown'" — Verified from Muyassar: *"أنتم قوم غرباء لا نعرفكم"*
+- [PASS] "his tent, some narrations say, was open on all four sides" — Appropriately hedged with "some narrations say"; not verifiable from the provided tafsir data but not contradicted, and the hedge is explicit.
+- [PASS] Jalalayn attribution is slightly indirect — the provided Jalalayn text identifies the guests as angels but does not explicitly say *ʿinda Llāh*; however, the claim is covered by Qurtubi and Baghawi, so no overstatement occurs.
+
+SUMMARY: The reflection accurately represents all tafsir attributions verifiable from the provided sources, the Form IV morphological analysis is correct, and interpretive extensions are either hedged appropriately or traceable to the classical record.

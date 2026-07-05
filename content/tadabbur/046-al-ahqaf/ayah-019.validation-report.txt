@@ -1,0 +1,38 @@
+Enhanced Validation Report
+File: content/tadabbur/046-al-ahqaf/ayah-019.md
+Ayah: 46:19
+Date: 2026-06-08T08:03:32
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَلِكُلٍّ=And for all | دَرَجَـٰتٌ=(are) degrees | مِّمَّا=for what | عَمِلُواْ‌ۖ=they did, | وَلِيُوَفِّيَهُمْ=and that He may fully compensate them | أَعْمَـٰلَهُمْ=(for) their deeds, | وَهُمْ=and they | لَا يُظْلَمُونَ=will not be wronged.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate errors identified.
+
+Supporting confirmations from reference data:
+
+- **"for each one of the two groups"** — al-Qurtubi: *"ولكل واحد من الفريقين المؤمنين والكافرين... مراتب عند الله يوم القيامة بأعمالهم"* — confirmed verbatim.
+
+- **Ibn ʿAbbās attribution** ("even by an hour" / *wa law bi-sāʿah*) — al-Baghawi: *"من سبق إلى الإسلام، فهو أفضل ممن تخلف عنه ولو بساعة"* — confirmed verbatim. The reflection renders this faithfully without overstating it as a consensus position.
+
+- **Tanwīn al-ʿiwaḍ analysis of كُلٍّ** — the claim that the tanwīn compensates for a deleted mudāf ilayh is standard Arabic grammar (confirmed in Ibn ʿAqīl and others). The reflection presents this as *an* analysis, not the only one, which is accurate framing.
+
+- **Root د-ر-ج** (staircase, step-by-step progression, *tadarruj*, folding) — all attested in Lisān al-ʿArab and Mufradāt al-Rāghib. No invented meanings.
+
+- **Passage context (ayahs 15–18)** — the framing of the grateful forty-year-old (ayah 15) versus the scornful child (ayah 17 *uffin lakumā*) is accurate. Al-Muyassar: *"ولكل فريق من أهل الخير وأهل الشر منازل عند الله"* — confirms the two-group frame the passage builds toward.
+
+SUMMARY: The reflection is linguistically rigorous, its tafsir attributions are verified against the provided sources, and no claims exceed what the reference data supports.

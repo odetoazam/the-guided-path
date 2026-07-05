@@ -1,0 +1,42 @@
+Enhanced Validation Report
+File: content/tadabbur/047-muhammad/ayah-010.md
+Ayah: 47:10
+Date: 2026-06-08T12:36:09
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ۞ أَفَلَمْ=Do not | يَسِيرُواْ=they travel | فِى=in | ٱلْأَرْضِ=the earth | فَيَنظُرُواْ=and see | كَيْفَ=how | كَانَ=was | عَـٰقِبَةُ=(the) end | ٱلَّذِينَ=(of) those | مِن قَبْلِهِمْ‌ۚ=before them? | دَمَّرَ ٱللَّهُ=Allah destroyed | عَلَيْهِمْ‌ۖ=[over] them, | وَلِلْكَـٰفِرِينَ=and for the disbelievers | أَمْثَـٰلُهَا=its likeness.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate issues found in the submitted portion.
+
+Verification notes on the specific checkable claims:
+
+**Al-Qurṭubī attribution** — "Al-Qurṭubī...says the looking intended is فينظروا بقلوبهم" — **CONFIRMED**. The provided Qurṭubī passage contains this exact phrase: *"ليعتبروا بهم فينظروا بقلوبهم كيف كان آخر أمر الكافرين قبلهم"*. The attribution is precise, not paraphrased.
+
+**ʿĀd, Thamūd, and the people of Lūṭ** — **CONFIRMED** in the Qurṭubī source: *"في أرض عاد وثمود وقوم لوط وغيرهم"*.
+
+**Form II dammara intensification** — **CONFIRMED** by al-Jalālayn's gloss: *"أهلك أنفسهم وأولادهم وأموالهم"* (destroyed their persons, children, and wealth) — the expansion into three categories is consistent with the totality reading the reflection attributes to Form II.
+
+**Hamza of reproach / istifhām inkārī** — Standard Arabic grammatical term, correctly applied. The structure (hamza + fa + lam) is accurately parsed.
+
+**Purposive fa in fayanẓurū** — Grammatically accurate. The fa makes traveling the means, naẓar the consequence.
+
+**"Two parties" framing** — Supported by al-Qurṭubī: *"بين أحوال المؤمن والكافر تنبيهاً على وجوب الإيمان"*.
+
+---
+
+SUMMARY: Every checkable claim in the submitted portion is either directly confirmed by the provided tafsir/word data or is a standard, defensible grammatical observation — no errors detected.

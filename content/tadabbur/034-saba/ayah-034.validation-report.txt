@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/034-saba/ayah-034.md
+Ayah: 34:34
+Date: 2026-05-18T00:20:01
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَمَآ=And not | أَرْسَلْنَا=We sent | فِى=to | قَرْيَةٍ=a town | مِّن=any | نَّذِيرٍ=warner | إِلَّا=but | قَالَ=said | مُتْرَفُوهَآ=its wealthy ones, | إِنَّا=`Indeed we, | بِمَآ=in what | أُرْسِلْتُم=you have been sent | بِهِۦ=with, | كَـٰفِرُونَ=(are) disbelievers.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "In classical Arabic, *taraf* described the soft tip of a fresh palm shoot" — This specific etymology cannot be verified from the provided reference data. Classical definitions of the root ت-ر-ف (t-r-f) center on النعمة والتنعم (abundance and living in ease) — as confirmed by al-Muyassar's gloss "المنغمسون في اللذات والشهوات" and the Baghawi/Jalalayn alignment on رؤساؤها وأغنياؤها. The "soft tip of a shoot" image belongs lexically to the distinct root طَرَف (ṭāʾ-rāʾ-fāʾ), which means edge/tip/extremity. The two roots differ at the first radical (ت tāʾ vs. ط ṭāʾ) and their semantic fields do not overlap in the lexica (Lisān al-ʿArab, Mufradāt al-Rāghib). The rhetorical point — that *mutraf* implies someone softened by received ease — is linguistically defensible, but the palm shoot analogy as an *etymological* anchor is either unverifiable from the provided sources or a cross-contamination of roots.
+
+All other elements pass:
+- Arabic text matches the authenticated source exactly
+- Translation ("luxury-soaked ones said: 'We...are disbelievers'") is accurate
+- مُتْرَفُوهَا as wealthy/luxury élite is confirmed by all four tafsir sources (Jalalayn, Muyassar, Qurtubi citing Qatada, Baghawi)
+- The Form IV passive participle analysis of مُتْرَف (from أَتْرَفَ, "to be given luxury by") is morphologically correct
+- The mā...illā universal-negation structure is standard Arabic grammar and the reflection's explanation of it is accurate
+- No scholar attributions are made that could be inverted; no factual historical claims exceed what the sources support
+
+SUMMARY: The reflection is substantively sound in Arabic, translation, and tafsir alignment, but the palm shoot etymology for ت-ر-ف is either unverifiable from the provided data or a conflation with the distinct root ط-ر-ف and should be removed or replaced with the attested lexical definition (النعمة والتنعم).

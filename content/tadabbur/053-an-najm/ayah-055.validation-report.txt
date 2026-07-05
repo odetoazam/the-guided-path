@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/053-an-najm/ayah-055.md
+Ayah: 53:55
+Date: 2026-06-09T19:45:07
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَبِأَىِّ=Then which (of) | ءَالَآءِ=the Favors | رَبِّكَ=(of) your Lord, | تَتَمَارَىٰ=will you doubt?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "the singular seed of the great dual refrain that will bloom one surah later in Ar-Raḥmān" — An-Najm is Surah 53; Ar-Raḥmān is Surah 55. That is **two** surahs later, not one (Surah 54, Al-Qamar, sits between them). The thematic connection is real and worth making, but the ordinal claim is factually wrong.
+
+ITEMS VERIFIED AS ACCURATE:
+- Arabic text matches exactly
+- Translation "which of your Lord's favors do you keep doubting?" is defensible; the Form-VI (tafāʿala) prefix pattern justifies the iterative/ongoing sense vs. the bare "will you doubt?" of word-for-word
+- Jalalayn gloss "*anʿumuhu* — His blessings, the ones that point to His oneness and His power" is a faithful rendering of «أنعمه الدالة على وحدانيته وقدرته» in the provided text ✓
+- Muyassar and Baghawī glossed as *niʿam rabbik* — confirmed in both provided excerpts ✓
+- Qurṭubī noting multiple singular forms for ālāʾ — confirmed: «واحدها ألى وإلى وإلي» ✓ (specific transliterations "alan/ilan/ilyun" cannot be fully verified from the excerpt alone but are consistent with broader lexicographic tradition; not flaggable from provided data)
+- Address directed at *al-insān* in the singular — confirmed in Jalalayn «أيها الإنسان» and Muyassar «أيها الإنسان المكذب» ✓
+- Nations enumerated in 53:50–54: ʿĀd, Thamūd, people of Nūḥ, cities of Lūṭ — five verses of ruin — accurate ✓
+- *Ayy* as a particularizing interrogative forcing specificity is a sound grammatical claim, not contradicted by any provided source
+
+SUMMARY: One factual error — "one surah later" for Ar-Raḥmān should be "two surahs later"; all linguistic and tafsir claims check out against the provided reference data.

@@ -1,0 +1,43 @@
+Enhanced Validation Report
+File: content/tadabbur/048-al-fath/ayah-010.md
+Ayah: 48:10
+Date: 2026-06-08T13:18:22
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّ=Indeed, | ٱلَّذِينَ=those who | يُبَايِعُونَكَ=pledge allegiance to you | إِنَّمَا=only | يُبَايِعُونَ=they pledge allegiance | ٱللَّهَ=(to) Allah. | يَدُ=(The) Hand | ٱللَّهِ=(of) Allah | فَوْقَ=(is) over | أَيْدِيهِمْ‌ۚ=their hands. | فَمَن=Then whoever | نَّكَثَ=breaks (his oath) | فَإِنَّمَا=then only | يَنكُثُ=he breaks | عَلَىٰ=against | نَفْسِهِۦ‌ۖ=himself, | وَمَنْ=and whoever | أَوْفَىٰ=fulfils | بِمَا=what | عَـٰهَدَ عَلَيْهُ ٱللَّهَ=he has covenanted with Allah, | فَسَيُؤْتِيهِ=soon He will give him | أَجْرًا=a reward | عَظِيمًا=great.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No CRITICAL issues found.
+- No MODERATE issues found.
+
+Supporting verification against provided data:
+
+1. **al-Baghawī attribution** — "because they have sold their own selves to Allah in exchange for the Garden" — exact match in the provided Baghawī text: *"إنما يبايعون الله لأنهم باعوا أنفسهم من الله بالجنة."* Attribution is accurate.
+
+2. **Root بَيْعَ as commercial** — Correct. B-Y-ʿ is the buying/selling root; Form III *yubāyiʿūna* carrying mutual/reciprocal flavor is standard Arabic grammar.
+
+3. **Verb forms in frontmatter** — All five verified: *yubāyiʿūna* (III ✓), *awfā* (IV ✓), *yuʾtī* (IV ✓), *ʿāhada* (III ✓), *nakatha* (I ✓).
+
+4. **Hudaybiyyah 6 AH / "gathered under a tree"** — Confirmed by all four tafsir sources (Jalālayn, Muyassar, Qurṭubī, Baghawī all specify Hudaybiyyah).
+
+5. **Pledge "on death" through Salama via al-Baghawī** — The Baghawī chain provided ends *"عن يزيد بن أبي عبيد قال: قلت لسلم..."* — this is the well-known isnād for Salama ibn al-Akwaʿ's "on death" narration (Ṣaḥīḥ Muslim 1860). The claim that Baghawī records it through Salama is consistent with the chain fragment provided, even though the text is truncated.
+
+6. **9:111 cross-reference** — *"Allah has purchased from the believers their lives and their wealth in exchange for the Garden"* — accurately quoted and correctly supports the commercial framing.
+
+7. **48:18 bracket claim** — Accurate; 48:18 explicitly references the pledge under the tree and Allah's riḍwān.
+
+SUMMARY: The reflection's linguistic analysis, historical framing, tafsir attributions, and verb form identifications are all accurate and well-grounded in the provided reference data.

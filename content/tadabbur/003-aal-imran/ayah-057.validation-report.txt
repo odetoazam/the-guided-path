@@ -1,0 +1,37 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayah-057.md
+Ayah: 3:57
+Date: 2026-06-22T08:06:53
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَأَمَّا=And as for | ٱلَّذِينَ=those who | ءَامَنُواْ=believe[d] | وَعَمِلُواْ=and did | ٱلصَّـٰلِحَـٰتِ=[the] righteous deeds | فَيُوَفِّيهِمْ=then He will grant them in full | أُجُورَهُمْ‌ۗ=their reward. | وَٱللَّهُ=And Allah | لَا=(does) not | يُحِبُّ=love | ٱلظَّـٰلِمِينَ=the wrongdoers.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "This is the close of the longest sustained passage in the Quran about ʿĪsā" — unverifiable from the provided tafsir references, and potentially contested: Surah Maryam 19:16–40 is also a substantial consecutive passage on Jesus. Whether 3:33–64 is definitively "the longest" requires cross-surah comparison not available in the supplied sources. This is a comparative literary claim stated as fact.
+
+- [PASS — note only] "the form whose entire job in Arabic is intensification and thoroughness" — a pedagogical simplification of Form II (which also serves causative and denominative functions), but accurate for this specific root and this specific context. No correction needed.
+
+All verified claims check out:
+- Root **و-ف-ي** for *fa-yuwaffīhim*: confirmed by word-by-word data ("grant them in full")
+- Form II identification for *yuwaffī* (middle radical ف doubled in يُوَفِّي): morphologically correct
+- Form IV for *āmanū* (root أ-م-ن): correct
+- *Wafāʾ* (loyalty/faithfulness) from same root: lexically standard, consistent with Mufradāt al-Rāghib reference cited in frontmatter
+- *Tawaffā* as "receiving in full" for death: well-attested classical Arabic usage
+- Structural reading of 3:56/57 as paired contrasts: directly supported by al-Jalālayn and al-Muyassar
+- Asymmetry observation (reward stated, love withheld from believers / attached negatively to wrongdoers): a valid rhetorical observation grounded in the text itself; no source contradicts it
+
+SUMMARY: One unverifiable comparative claim about passage length; all linguistic, morphological, and structural claims are accurate and well-grounded.

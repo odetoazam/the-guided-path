@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/045-al-jathiyah/ayah-027.md
+Ayah: 45:27
+Date: 2026-06-08T03:48:31
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَلِلَّهِ=And for Allah | مُلْكُ=(is the) dominion | ٱلسَّمَـٰوَٲتِ=(of) the heavens | وَٱلْأَرْضِ‌ۚ=and the earth; | وَيَوْمَ=and (the) Day | تَقُومُ=is established | ٱلسَّاعَةُ=the Hour, | يَوْمَئِذٍ=that Day | يَخْسَرُ=will lose | ٱلْمُبْطِلُونَ=the falsifiers.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR — translation latitude] "peddlers of falsehood" renders مُبْطِلُونَ — the root و-ب-ط-ل and all four tafsir sources (Jalālayn, Muyassar, Qurṭubī, Baghawī) gloss this as الكافرون (disbelievers) or أصحاب الأباطيل (people of falsehoods). The active-participle literal meaning ("those who do bāṭil") is accurate, but "peddlers" imports a commercial-transaction metaphor that is not lexically attested in the root and not found in any tafsir source provided. This is a creative translation choice — not a factual error in the analysis — but the ayah's own scholarly analysis should not treat "peddling" as a documented semantic layer of the word. **Does not affect the verdict but warrants a note if the translation is cited as authoritative.**
+- [OBSERVATION] The reflection is truncated mid-sentence ("B"). Validation covers only what is present; the morphological walk through خ-س-ر and any scholar-attributed claims in the unpublished portion cannot be assessed.
+
+Verified as sound:
+- Arabic text matches the authentic source exactly ✓
+- Form IV identification (active participle of abṭala) is correct ✓
+- Taqdīm/ikhtiṣāṣ principle ("taqdīm mā ḥaqquhu-t-ta'khīr yufīd al-ikhtiṣāṣ") is a genuine and correctly stated classical balāghah rule ✓
+- The dahrī materialist reading of 45:24 as context is supported by classical tafsir framing ✓
+- Root list in the frontmatter comment is accurate for all nine roots cited ✓
+
+SUMMARY: The reflection is linguistically rigorous and tafsir-grounded; the only flag is that "peddlers" adds a commercial metaphor to مُبْطِلُونَ beyond what the root or any cited tafsir source warrants, and the full text requires a second pass once the truncation is resolved.

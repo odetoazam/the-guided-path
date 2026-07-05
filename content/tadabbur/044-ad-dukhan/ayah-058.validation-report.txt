@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/044-ad-dukhan/ayah-058.md
+Ayah: 44:58
+Date: 2026-06-08T00:56:41
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَإِنَّمَا=Indeed, | يَسَّرْنَـٰهُ=We have made it easy | بِلِسَانِكَ=in your tongue | لَعَلَّهُمْ=so that they may | يَتَذَكَّرُونَ=take heed.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: CRITICAL
+
+ISSUES:
+- [CRITICAL] "This is the final verse of Surah Ad-Dukhan" / "the surah closes not on a threat but on a gift: We made this speech easy upon your tongue" — Factually wrong. Surah Ad-Dukhan has **59 verses**, not 58. The actual closing verse is 44:59: *فَارْتَقِبْ إِنَّهُم مُّرْتَقِبُونَ* ("So wait — indeed they are waiting"), which is a warning to the Prophet and a veiled threat to the disbelievers. Al-Qurtubi's tafsir provided in the reference data quotes **both verses together** in sequence: "فإنما يسرناه بلسانك لعلهم يتذكرون **فارتقب إنهم مرتقبون**" — making explicit that 44:58 is the penultimate verse, not the final one. The entire introductory theological argument ("Allah does not close with a final threat... He closes with this...") is inverted: the surah actually *does* close with a warning-adjacent verse. The ring-composition claim linking the surah's opening to its "closing" via 44:58 is therefore structurally unsupported.
+
+ITEMS THAT PASS:
+- Form II analysis of *yassarnāhu* (doubling of middle radical, causative/rendering force) — linguistically sound
+- Root ي-س-ر / *yusr* as ease and lightness — correct per classical lexicons
+- Al-Baghawī's *kināyatun ʿan ghayri madhkūr* — correctly quoted and accurately attributed; Baghawī's text confirms: "كناية عن غير مذكور"
+- *yatadhakkarūn* as Form V imperfect of ذ-ك-ر — correct; tafsirs consistently gloss as *yattaʿiẓūn* (take admonition)
+- Surah narrative summary (descent in blessed night, smoke, Pharaoh, Zaqqum, gardens of taqwa, never tasting death after the first) — all accurate per 44:3, 44:10–11, 44:17–33, 44:43–46, 44:51–57
+- *qawlan thaqīlā* reference (73:5) — correctly invoked and not mis-attributed to Ad-Dukhan
+- Jalalayn gloss (ease so the Arabs understand from you) — consistent with "لتفهمه العرب منك"
+
+SUMMARY: One CRITICAL structural error invalidates the reflection's central theological frame — 44:58 is the penultimate verse, not the final verse; the surah actually closes on 44:59, a warning, which directly contradicts the core claim that "Allah chose to end on ease, not threat."

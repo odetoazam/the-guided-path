@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/048-al-fath/ayah-024.md
+Ayah: 48:24
+Date: 2026-06-08T14:56:39
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَهُوَ=And He | ٱلَّذِى=(is) the One Who | كَفَّ=withheld | أَيْدِيَهُمْ=their hands | عَنكُمْ=from you | وَأَيْدِيَكُمْ=and your hands | عَنْهُم=from them | بِبَطْنِ=within | مَكَّةَ=Makkah, | مِنۢ بَعْدِ=after | أَنْ=that | أَظْفَرَكُمْ=He gave you victory | عَلَيْهِمْ‌ۚ=over them. | وَكَانَ=And is | ٱللَّهُ=Allah | بِمَا=of what | تَعْمَلُونَ=you do | بَصِيرًا=All-Seer.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+
+- [MODERATE] "eighty armed men come down from the heights of Tanʿīm under the cover of the early morning" — all three provided tafsir sources confirm the eighty men (Jalalayn: "ثمانين منهم طافوا بعسكركم"; Muyassar: "نحو ثمانين رجلا"; Qurtubi: "ثمانين رجلا من أهل مكة هبطوا"), but none of the provided reference data specifies "Tanʿīm" as the origin point. Jalalayn says they "circled the camp" (طافوا بعسكركم); Qurtubi says they "came down" (هبطوا) from the Makkah side. The Tanʿīm localization may derive from narrations in Sahih Muslim not represented in the provided sources, but the reflection states it as plain narrative fact with geographic specificity that the provided reference data does not support.
+
+CONFIRMED ACCURATE (from provided sources):
+- Arabic text matches authentic Arabic exactly
+- Translation is accurate per word-by-word reference
+- Hudaybiyyah = bi-baṭni Makkata: confirmed (Jalalayn: "بالحديبية")
+- Prophet ﷺ pardoned and released the eighty: confirmed (Jalalayn: "فعفا عنهم وخلى سبيلهم"; Muyassar: "تركوهم ولم يقتلوهم")
+- k-f-f root: the kaff/palm dual meaning is standard Arabic lexicography (Lisān al-ʿArab), consistent with the frontmatter lexical note
+- Form IV of Zfr as causative-transitive: grammatically correct
+
+SUMMARY: The reflection is sound on all verifiable claims; the single moderate flag is geographic specificity ("heights of Tanʿīm") stated as narrative fact but unattested in the provided reference data.

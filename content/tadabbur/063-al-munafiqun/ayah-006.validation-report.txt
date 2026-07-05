@@ -1,0 +1,37 @@
+Enhanced Validation Report
+File: content/tadabbur/063-al-munafiqun/ayah-006.md
+Ayah: 63:6
+Date: 2026-06-13T08:57:10
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: سَوَآءٌ=(It) is same | عَلَيْهِمْ=for them | أَسْتَغْفَرْتَ=whether you ask forgiveness | لَهُمْ=for them | أَمْ=or | لَمْ=(do) not | تَسْتَغْفِرْ=ask forgiveness | لَهُمْ=for them. | لَن=Never | يَغْفِرَ ٱللَّهُ=will Allah forgive | لَهُمْ‌ۚ=[to] them. | إِنَّ=Indeed, | ٱللَّهَ=Allah | لَا=(does) not | يَهْدِى=guide | ٱلْقَوْمَ=the people, | ٱلْفَـٰسِقِينَ=the defiantly disobedient.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE] "the mightier among us will drive out the weaker" — this quote from ʿAbdullāh ibn Ubayy is accurate sīrah content, but the provided Baghawī excerpt for this ayah breaks off mid-sentence (about the Banu al-Mustaliq campaign) without confirming the exact wording. The attribution chain (Ibn Isḥāq via Baghawī) is correctly stated and the substance is established Islamic historical record. Cannot flag as error; noting the reference provided is incomplete for this specific detail.
+- [NOTE] "Even the preposition matters — *ʿalayhim*, 'upon them'" — the word-by-word reference renders عَلَيْهِمْ as "for them." The reflection uses "upon them" as the more literal rendering of عَلَى. Both are defensible; the literal rendering is actually more precise here. Not an error.
+- [NOTE] "whether you seek forgiveness for them or do not, even if you seek seventy times, Allah will not forgive them (9:80)" — accurate paraphrase of 9:80. The seventy-times detail is in the canonical text.
+
+Specific claims verified clean:
+- Root س-و-ي for *sawāʾ* is correct; connection to *taswiya* and *sawwāhu* (82:7, 91:7) is lexically attested.
+- Form X (istifʿāl) talab/seeking function for أَسْتَغْفَرْتَ is correct.
+- لَن as emphatic future negation ("never") matches the word-by-word reference exactly.
+- فَٰسِقِينَ as "breaking out" (of obedience) matches al-Muyassar: *al-khārijīna ʿan ṭāʿatihi*.
+- Banu al-Mustaliq campaign context confirmed directly in the Baghawī excerpt provided.
+- Arabic text in frontmatter matches authentic Arabic exactly (variance in ٱلْفَـٰسِقِينَ is Unicode diacritic rendering, not a text error).
+- The claim that the "leveling" (sawāʾ) is located *in them* (ʿalayhim) is supported by al-Qurṭubī: "لا ينفع استغفارك شيئا; لأن الله لا يغفر لهم" — the futility is framed as a property of their outcome, not the Prophet's act.
+
+SUMMARY: All verifiable claims align with the word-by-word reference and classical tafsir sources; the root analyses are linguistically sound, the contextual and cross-reference citations are accurate, and interpretive extensions are clearly framed as reflection rather than documented fact.

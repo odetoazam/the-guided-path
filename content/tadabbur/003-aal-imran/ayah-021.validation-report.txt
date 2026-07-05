@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayah-021.md
+Ayah: 3:21
+Date: 2026-06-21T12:56:52
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّ=Indeed, | ٱلَّذِينَ=those who | يَكْفُرُونَ=disbelieve | بِـَٔـايَـٰتِ=in (the) Signs (of) | ٱللَّهِ=Allah | وَيَقْتُلُونَ=and they kill | ٱلنَّبِيِّــۧنَ=the Prophets | بِغَيْرِ=without | حَقٍّ=right | وَيَقْتُلُونَ=and they kill | ٱلَّذِينَ=those who | يَأْمُرُونَ=order | بِٱلْقِسْطِ=[with] justice | مِنَ=among | ٱلنَّاسِ=the people, | فَبَشِّرْهُم=then give them tidings | بِعَذَابٍ=of a punishment | أَلِيمٍ=painful.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "There is a hadith principle that illuminates this exactly — that the one who is *pleased* with a deed is, in the scales, a partner to it though oceans and centuries separate him from the doer. The present tense *yaqtulūn* is the Quranic grammar of that principle." — The ḥadīth principle of ridā bi-l-fiʿl (الرضا بالفعل) is a real and attested concept in Islamic ethics. However, the explicit claim that it *explains the grammatical choice* of the muḍāriʿ here is a pedagogical bridge not made by any of the four tafsir sources provided. None of Al-Jalālayn, Al-Muyassar, Al-Qurṭubī, or Al-Baghawī draw this connection. It is an interpretive extension stated with the confidence of a documented exegetical move.
+
+All other verifiable claims check out:
+
+- **فَبَشِّرْهُم as tahakkum**: Directly confirmed. Al-Jalālayn states explicitly: *"وذكر البشارة تهكم بهم"* — "the mention of glad tidings is mockery/irony of them." This is not the reflection's inference; it is classical.
+- **Muḍāriʿ tense analysis** (يَكْفُرُونَ / يَقْتُلُونَ / يَقْتُلُونَ as ongoing disposition vs. closed past): Linguistically correct. All three verbs are unambiguously imperfect/present-tense forms.
+- **bashshir as Form II imperative**: Correct — فَعِّلْ pattern, imperative of the Form II stem بَشَّرَ.
+- **Al-Baghawī referent claim** ("includes those of the People of the Book in the Prophet's own time"): Supported — Al-Baghawī explicitly identifies the subject as *"اليهود والنصارى"* and contextualizes within the Prophet's era.
+- **qisṭ = justice**: Confirmed by word-by-word data.
+- **Contextual framing** (Madinan dialogue with People of the Book, 3:19–25 sequence): Accurate and consistent across all four sources.
+- **Arabic text in body**: Minor Unicode diacritical variants (حَقٍّ vs حَقٍّۢ) — encoding differences, not textual errors.
+
+SUMMARY: The reflection is accurate and well-grounded in the reference data — the tahakkum reading is classically confirmed, the morphological and grammatical analysis is sound — with one interpretive bridge (mapping the ḥadīth of ridā directly to the Quranic grammatical choice) that goes beyond what the provided tafsir sources warrant.

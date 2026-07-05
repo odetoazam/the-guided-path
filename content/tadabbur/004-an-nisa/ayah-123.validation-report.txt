@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/004-an-nisa/ayah-123.md
+Ayah: 4:123
+Date: 2026-06-24T08:08:26
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: لَّيْسَ=Not | بِأَمَانِيِّكُمْ=by your desire | وَلَآ=and not | أَمَانِىِّ=(by the) desire | أَهْلِ=(of the) People | ٱلْكِتَـٰبِ‌ۗ=(of) the Book. | مَن=Whoever | يَعْمَلْ=does | سُوٓءًا=evil | يُجْزَ=will be recompensed | بِهِۦ=for it | وَلَا=and not | يَجِدْ=he will find | لَهُۥ=for him | مِن دُونِ=besides | ٱللَّهِ=Allah | وَلِيًّا=any protector | وَلَا=and not | نَصِيرًا=any helper.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [CANNOT VERIFY] "al-Qurṭubī preserves another strand of the same moment, narrated from Ibn ʿAbbās: that the Jews and Christians said, 'None will enter Paradise except who is from us,' and the Quraysh said, 'We will not be resurrected at all.'" — The provided Qurṭubī text is truncated precisely at "ومن أحسن ما روي في نزولها ما رواه الحكم بن أبان عن عكرمة عن ابن" and does not show the content of that Ibn ʿAbbās narration. The Jews/Christians claim maps to 2:111 (well-established); the Quraysh-denying-resurrection detail cannot be confirmed or refuted from the data provided. It is not verifiably wrong, but it is not verifiable either.
+
+- [PASS] Attribution to Masrūq, Qatāda, and al-Ḍaḥḥāk via al-Baghawī is accurate: al-Baghawī's text explicitly reads "قال مسروق وقتادة والضحاك" with the same boasting-contest scene the reflection describes. ✓
+
+- [PASS] "*laysa* is a defective verb... its entire job is to negate" — linguistically accurate; *laysa* is a فعل ناقص in classical Arabic grammar. ✓
+
+- [PASS] "All verbs in this ayah are Form I" — yaʿmal (ع-م-ل), yujza (passive of Form I جزى), yajid (و-ج-د) are all Form I. ✓
+
+- [PASS] Word-order observation — "He puts *your* wishing first... addressed, grammatically, to the believers" — corroborated by al-Baghawī ("ليس بأمانيكم أيها المسلمون") and al-Muyassar ("أيها المسلمون"). ✓
+
+- [PASS] Translation is faithful to the word-by-word reference throughout. ✓
+
+SUMMARY: The reflection is accurate and well-grounded against all verifiable reference data; the sole flag is a cannot-verify on one Qurṭubī narration detail where the provided tafsir text is truncated before the relevant content.

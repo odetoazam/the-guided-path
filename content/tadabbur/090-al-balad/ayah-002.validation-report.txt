@@ -1,0 +1,28 @@
+Enhanced Validation Report
+File: content/tadabbur/090-al-balad/ayah-002.md
+Ayah: 90:2
+Date: 2026-06-18T19:13:34
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَأَنتَ=And you | حِلُّۢ=(are) free (to dwell) | بِهَـٰذَا=in this | ٱلْبَلَدِ=city.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Let me set the scene before we touch a single word. Makkah. The years before the migration… into that exact emotional climate — a surah begins with an oath" / "And you — you dwell freely in this city" — The entire frame positions 90:2 as present-tense consolation about the Prophet's sense of belonging during Makkan rejection. Three of four tafsir sources explicitly read حِلّ as a *future* divine promise, not a present comfort: Jalalayn states the ayah refers to what "will be permissible for you" (يحل لك أن تقاتل فيه) and confirms "Allah fulfilled this promise on the Day of Conquest" (أنجز الله له هذا الوعد يوم الفتح); Qurtubi says explicitly "يعني في المستقبل" (meaning: in the future), comparing it to the Quranic pattern of treating future events as present; Baghawi states "أحل الله تعالى لنبيه مكة يوم الفتح" — the permission was actualized at the Conquest, permitting killing and capture. The "dwelling/belonging" read is attested only in Muyassar among the classical sources cited. Presenting the consolation-of-belonging frame as the primary meaning — without acknowledging that the classical majority read حِلّ as a forward-pointing promise of conquest-permission — overstates one minority interpretation. (Note: the submission is truncated; if the reflection addresses the conquest reading later, the severity of this issue diminishes.)
+
+- [MODERATE] "Branch one: to alight, to dwell, to make camp" is linguistically attested (حَلَّ does carry this meaning), and the word-by-word reference does gloss حِلّ as "free (to dwell)." However, no classical source in the provided data applies this branch to interpret the ayah as literal or present dwelling. Treating this branch as the load-bearing interpretive frame here is an extension beyond what the provided tafsir data documents for this specific ayah.
+
+SUMMARY: The Arabic, morphology, iltifāt analysis, and root identification are all accurate, but the reflection's governing interpretive frame — Makkan consolation about belonging and present dwelling — runs contrary to the explicit majority tafsir position that حِلّ in 90:2 is a future-tense divine promise of conquest permission, a tension the visible portion of the text does not acknowledge.

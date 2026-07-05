@@ -1,0 +1,41 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayah-060.md
+Ayah: 3:60
+Date: 2026-06-21T13:14:24
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ٱلْحَقُّ=The truth | مِن=(is) from | رَّبِّكَ=your Lord, | فَلَا=so (do) not | تَكُن=be | مِّنَ=among | ٱلْمُمْتَرِينَ=the doubters.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+**VERDICT: PASS**
+
+**ISSUES:**
+
+- [PASS] "Seven words" — correct count of ٱلْحَقُّ مِن رَّبِّكَ فَلَا تَكُن مِّنَ ٱلْمُمْتَرِينَ.
+
+- [PASS] Grammatical triple-reading attributed to al-Qurṭubī — accurately rendered. The reflection gives three camera angles: (1) al-Farrāʾ's implied *huw* (confirmed: "مرفوع بإضمار هو"), (2) Abū ʿUbayda's resumed-statement with predicate *min rabbik* (confirmed: "استئناف كلام وخبره في قوله من ربك"), (3) *al-ḥaqq* as subject of implied *jāʾaka* (confirmed: "وقيل هو فاعل، أي جاءك الحق"). No attribution is inverted.
+
+- [PASS] "Addressed to the Prophet ﷺ, who was not in doubt" — Qurṭubī: "الخطاب للنبي ﷺ...لم يكن شاكًّا"; Baghawi: "الخطاب مع النبي ﷺ والمراد أمته." The reflection correctly sets this up as a rhetorical question and frontmatter lists *iltifāt-to-the-ummah* as a resolution concept.
+
+- [PASS] Form VIII reflexive claim on المُمتَرِينَ — *imtarā* is indeed Form VIII (iftaʿala pattern, root م-ر-ي); the reflexive-middle function is standard morphology. Classical sources gloss it as *al-shākkīn* (Jalalayn, Muyassar, Qurṭubī, Baghawi), which the reflection does not contradict — the Form VIII nuance is an addition, not a replacement.
+
+- [PASS] "Not the ordinary word for doubt" — accurate; the base Form I term is شَكّ; *imtirāʾ* is a derived form. The claim is linguistically defensible.
+
+- [PASS] Framing as *reassurance* rather than real command against real doubt — supported directly by Muyassar: "وفي هذا تثبيت وطمأنة لرسول الله ﷺ."
+
+- [PASS] Root r-b-b identified for *rabbik* — correct.
+
+- [UNVERIFIABLE FROM PROVIDED REFS, NOT AN ERROR] "Delegation came to Madinah" — the provided tafsir excerpts don't specify the location; this is standard sīra history (Year 9 AH) and consistent with the Najran context implied by 3:59-61.
+
+**SUMMARY:** No critical or moderate errors detected — linguistic analysis is accurate and verifiable against the provided tafsir data, all three grammatical readings are correctly attributed to their sources in Qurṭubī, and the Form VIII reflexive claim is morphologically sound.

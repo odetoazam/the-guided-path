@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/078-an-naba/ayah-040.md
+Ayah: 78:40
+Date: 2026-06-18T12:35:34
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّآ=Indeed We | أَنذَرْنَـٰكُمْ=[We] have warned you | عَذَابًا=(of) a punishment | قَرِيبًا=near | يَوْمَ=(the) Day | يَنظُرُ=will see | ٱلْمَرْءُ=the man | مَا=what | قَدَّمَتْ=have sent forth | يَدَاهُ=his hands | وَيَقُولُ=and will say | ٱلْكَافِرُ=the disbeliever, | يَـٰلَيْتَنِى=`O, I wish | كُنتُ=I were | تُرَٲبَۢا=dust!`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "the classical lexicons — Lisān al-ʿArab, the Mufradāt of al-Rāghib — note that *indhār* is not merely *to inform of danger.* It is **to give notice of something fearful while there is still time and space to avoid it.** The warning *presupposes* a gap." — The reference data supplied does not include Lisān or Mufradāt excerpts, so the attributed lexical definition cannot be verified from sources in scope. The *indhār* ↔ "window of escape" characterization is broadly consistent with classical usage and Quranic function, but framing it as an explicit lexical record of named works goes slightly beyond what can be confirmed here. Not wrong; unverifiable as stated.
+
+All other checkable claims are sound against the supplied data:
+- Root ن-ذ-ر and Form IV (أفعل) for *andhara* — correct
+- Perfect tense (*māḍī*) for *andharnākum* — correct
+- Surah opening with *ʿAmma yatasāʾalūn ʿani-n-nabaʾi-l-ʿaẓīm* and the audience identified as Meccan disbelievers — confirmed by al-Jalalayn ("يا كفار مكة") and al-Qurtubi ("كفار قريش ومشركي العرب")
+- Ayah 40 as the final verse of the surah — correct
+- Framing of "they said we will not be raised" as the denier position — confirmed by al-Qurtubi ("لأنهم قالوا: لا نبعث")
+- Arabic text matches the authentic text (minor diacritic rendering variation in تُرَٰبَۢا is typographic, not substantive)
+
+SUMMARY: The first 8000 characters contain no critical errors in morphology, attribution, or Arabic text; one moderate flag on an unverifiable lexical attribution to Lisān and Mufradāt that is directionally accurate but stated with more certainty than the supplied reference data can support.

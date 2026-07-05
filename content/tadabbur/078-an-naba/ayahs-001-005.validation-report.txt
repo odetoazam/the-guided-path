@@ -1,0 +1,26 @@
+Enhanced Validation Report
+File: content/tadabbur/078-an-naba/ayahs-001-005.md
+Ayah: 78:1
+Date: 2026-06-18T12:24:34
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: عَمَّ=About what | يَتَسَآءَلُونَ=are they asking one another?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "al-Qurtubi cites az-Zajjāj on the assimilation: the n merges into the m because the two letters share the ghunna, that nasal hum that lets one slide into the other." — The supplied al-Qurtubi text quotes az-Zajjāj only as: «قال الزجاج: أصل عم عن ما فأدغم» — he said assimilation occurred, full stop. The *reason* (shared ghunna) is not attributed to az-Zajjāj in this citation. The ghunna explanation is phonologically defensible (standard tajweed theory), but the reflection presents it as az-Zajjāj's documented rationale via al-Qurtubi. That specific attribution is not supported by the reference data supplied.
+
+SUMMARY: The reflection's morphological and contextual analysis is well-grounded in the provided tafsir, but it overstates one attribution — the ghunna mechanism is added to az-Zajjāj's statement beyond what al-Qurtubi actually quotes him as saying.

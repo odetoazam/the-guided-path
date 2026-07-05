@@ -1,0 +1,29 @@
+Enhanced Validation Report
+File: content/tadabbur/050-qaf/ayah-004.md
+Ayah: 50:4
+Date: 2026-06-08T20:16:32
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: قَدْ=Certainly, | عَلِمْنَا=We know | مَا=what | تَنقُصُ=diminishes | ٱلْأَرْضُ=the earth | مِنْهُمْ‌ۖ=of them, | وَعِندَنَا=and with Us | كِتَـٰبٌ=(is) a Book | حَفِيظُۢ=guarded.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "qad before a perfect-tense verb is what the grammarians call ḥarf taḥqīq — a particle of certainty" — This is accurate classical grammar (Ibn Hishām, Mughni al-Labīb), but note: none of the four tafsirs provided explicitly invoke the ḥarf taḥqīq framing. The claim is sound but draws on grammatical tradition not present in the supplied reference data. Acceptable as attested doctrine, not a fabrication.
+- [MODERATE] "The knowing did not arrive in response to the decomposition. The knowing preceded the decomposition. The earth has not yet taken a single atom from you, and it is already counted." — The temporal claim (pre-death divine knowledge) is a reasonable theological inference from *ʿilm azalī* (eternal divine knowledge) and the completed-past tense, but none of the four tafsirs provided make this specific temporal argument. Al-Qurtubi, Al-Baghawi, Al-Jalalayn, and Al-Muyassar all read the verse as straightforward affirmation of divine omniscience over what the earth consumes — not as a claim about the *timing* of that knowledge relative to death. This is interpretive extension, not tafsir-documented teaching. It does not contradict any source; it simply exceeds them.
+
+No critical errors found: Arabic text matches the authentic (minor diacritic rendering difference in كِتَـٰبٌ is non-substantive), *tanquṣu* as "diminishes" is confirmed by the word-by-word, 50:3 is quoted and translated accurately, the "nine words" count is correct, and the framing of 50:4 as a direct counter to 50:3's scoff is consistent with Al-Qurtubi's reading. No scholar names are attributed in this excerpt. The *kitāb ḥafīẓ* = Lawh Mahfūẓ identification in the tags is confirmed by Al-Jalalayn and Al-Baghawi.
+
+SUMMARY: Linguistically and textually clean; two moderate interpretive extensions (ḥarf taḥqīq framing drawn from grammatical tradition, temporal pre-knowledge inference drawn from theology) go beyond the supplied tafsir data but contradict none of it.

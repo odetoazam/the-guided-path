@@ -1,0 +1,46 @@
+Enhanced Validation Report
+File: content/tadabbur/054-al-qamar/ayah-034.md
+Ayah: 54:34
+Date: 2026-06-10T06:34:34
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّآ=Indeed, We | أَرْسَلْنَا=[We] sent | عَلَيْهِمْ=upon them | حَاصِبًا=a storm of stones, | إِلَّآ=except | ءَالَ=(the) family | لُوطٍ‌ۖ=(of) Lut, | نَّجَّيْنَـٰهُم=We saved them | بِسَحَرٍ=by dawn
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate errors found in the visible text.
+
+Specific verifications against reference data:
+
+**حَاصِبًا attributions — all confirmed:**
+- "Al-Jalalayn and al-Qurtubi describe it as a wind that hurls pebbles" — ✓ Both say *rīḥan tarmīhim bil-ḥaṣbāʾ*
+- "al-Naḍr said the ḥāṣib is the pebbles carried in the wind" — ✓ al-Qurtubi: *al-Naḍr: al-ḥāṣib: al-ḥaṣbāʾ fī al-rīḥ*
+- "the Ṣiḥāḥ defines it as the violent wind that whips up the gravel" — ✓ al-Qurtubi: *al-ḥāṣib al-rīḥ al-shadīda allatī tuthīr al-ḥaṣbāʾ*
+- "Abū ʿUbayda said simply: the stones themselves" — ✓ al-Qurtubi: *Abū ʿUbayda: al-ḥāṣib: al-ḥijāra*
+- "Al-Baghawi... transmitting from al-Ḍaḥḥāk that it means small pebbles, and noting that ḥāṣib can mean the thrower itself" — ✓ al-Baghawi: *qāla al-Ḍaḥḥāk: yaʿnī ṣighār al-ḥaṣā* and *wa-qad yakūnu al-ḥāṣib al-rāmī*
+
+**Verb form claims — confirmed:**
+- arsalnā = Form IV: ✓ (af'ala pattern, morphology note confirms)
+- najjaynāhum = Form II: ✓ (fa''ala pattern, doubled jīm, morphology note confirms)
+- Root of najjaynā = n-j-w: ✓ lexically standard
+
+**Translation of بِسَحَرٍ:** Reflection renders it "in the last hour of the night." Reference gives "by dawn." Al-Jalalayn: *waqt al-ṣubḥ*. Saḥar is the pre-dawn portion of the night — both renderings cover the same window. Not an error.
+
+**Arabic text:** Matches the authenticated Arabic exactly.
+
+**One observation (not an error):** The reflection's verb-contrast argument (arsalnā = mediated/instrumental; najjaynāhum = direct) is building toward a spiritual application that hasn't yet resolved in the excerpt. The linguistic premises supporting it are sound. The completed argument should be re-evaluated when the full text is available, specifically whether the claim "no instrument is named" for the rescue holds against 11:81 and 15:59–60 (where Jibrīl/angels are explicitly named as rescue agents). That cross-reference tension may warrant a MODERATE flag on completion — flag for review when the full text is submitted.
+
+SUMMARY: All scholar attributions, verb-form identifications, and root analyses in this excerpt are accurate and grounded in the provided classical sources; no errors detected in the visible portion.

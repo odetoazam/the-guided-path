@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/059-al-hashr/ayah-001.md
+Ayah: 59:1
+Date: 2026-06-12T20:26:23
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: سَبَّحَ=Glorifies | لِلَّهِ=[to] Allah | مَا=whatever | فِى=(is) in | ٱلسَّمَـٰوَٲتِ=the heavens | وَمَا=and whatever | فِى=(is) in | ٱلْأَرْضِ‌ۖ=the earth. | وَهُوَ=And He | ٱلْعَزِيزُ=(is) the All-Mighty, | ٱلْحَكِيمُ=the All-Wise.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: CRITICAL
+
+ISSUES:
+- [CRITICAL] "Several of them — Surah As-Saff, Surah Al-Jumuʿah, Surah At-Taghābun — open with *yusabbiḥu*, the present, ongoing form...But this surah, Al-Hashr, like Al-Hadid before it, opens with **sabbaḥa**" — Factual error about Quranic text. Surah As-Saff (61:1) opens with **سَبَّحَ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَهُوَ الْعَزِيزُ الْحَكِيمُ** — the same *sabbaḥa* (perfect tense) as Al-Hadid and Al-Hashr, not *yusabbiḥu*. Among the Musabbiḥāt, only Al-Jumuʿah (62:1) and At-Taghābun (64:1) use *yusabbiḥu*. The contrast the reflection builds its entire theological argument on — Al-Hashr as uniquely or distinctively in the past tense vs. other surahs in the present — is overstated; As-Saff shares the same perfect-tense opening. Note: this falls outside the provided reference data but is a directly verifiable Quranic textual fact, not a guess.
+
+Everything else checks out:
+- Arabic text matches authenticated source ✓
+- *Sabbaḥa* correctly identified as Form II perfect tense ✓  
+- *Lām mazīda* in *lillāhi* confirmed by al-Jalālayn ✓
+- *Mā* vs. *man* distinction confirmed by al-Jalālayn's *taghlīb* note ✓
+- Banu Nadir context confirmed by al-Baghawi and al-Qurtubi ✓
+- Madinan designation confirmed by al-Qurtubi: "مدنية في قول الجميع" ✓
+- The interpretive hedge on the tense contrast ("Hold it as illumination, not as the only possible camera angle") is appropriate ✓
+
+SUMMARY: One critical factual error — As-Saff 61:1 uses *sabbaḥa* (not *yusabbiḥu*), meaning the tense-contrast argument needs revision: three surahs (Al-Hadid, Al-Hashr, As-Saff) share the perfect-tense opening, and only Al-Jumuʿah and At-Taghābun use the present.

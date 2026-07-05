@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayahs-035-036.md
+Ayah: 3:35
+Date: 2026-06-21T04:14:05
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِذْ=When | قَالَتِ=[she] said | ٱمْرَأَتُ=(the) wife | عِمْرَٲنَ=(of) Imran, | رَبِّ=`My Lord! | إِنِّى=Indeed, I | نَذَرْتُ=[I] vowed | لَكَ=to You | مَا=what | فِى=(is) in | بَطْنِى=my womb, | مُحَرَّرًا=dedicated, | فَتَقَبَّلْ=so accept | مِنِّىٓ‌ۖ=from me. | إِنَّكَ=Indeed, You, | أَنتَ=You | ٱلسَّمِيعُ=(are) the All-Hearing, | ٱلْعَلِيمُ=the All-Knowing.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+
+- [MODERATE] "Al-Baghawi gives it to us in one line: النذر ما يوجبه الإنسان على نفسه" — The provided Baghawi snippet covers the identity of the wife (Hanna bint Qāfūdhā) and the disambiguation of Imran ibn Māthān from Imran the father of Musa, then moves to the meaning of *muḥarraran*. No definition of *nadhr* appears in the supplied text. This attribution cannot be confirmed from the reference data. The definition itself is textbook (it appears in fiqh literature across multiple madhhabs), but whether Baghawi states it at this ayah or the attribution is displaced from a fiqh source — unverifiable here. Mark for source check before publication.
+
+PASSES (explicitly verified):
+
+- "nَذَرْتُ... perfect verb — past tense" — confirmed by word-by-word ("[I] vowed") and morphologically sound.
+- "root ح-ر-ر... Form II structure [مُفَعَّل passive participle]" — structurally accurate; مُحَرَّر is the Form II (حَرَّرَ) passive participle, and the reflection's faʿʿala explanation is correct.
+- The freedom-servitude paradox is directly attested: Jalalayn renders *muḥarraran* as **عتيقا خالصا من شواغل الدنيا لخدمة بيتك المقدس** — freed, pure from worldly preoccupations for service of Bayt al-Maqdis. The reflection's central thesis is tafsir-grounded, not invented.
+- "A woman the Qur'an does not even name" — accurate; classical sources name her (Hanna, per Baghawi and Jalalayn), but the Qur'an text does not.
+- The Najran delegation context is the standard occasion narrative for this surah and uncontested.
+
+SUMMARY: One unverifiable scholar attribution (Baghawi on the definition of *nadhr*) — everything else is linguistically and exegetically sound; source-check that single quote before publishing.

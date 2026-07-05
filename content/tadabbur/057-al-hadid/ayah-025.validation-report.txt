@@ -1,0 +1,28 @@
+Enhanced Validation Report
+File: content/tadabbur/057-al-hadid/ayah-025.md
+Ayah: 57:25
+Date: 2026-06-12T11:36:07
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: لَقَدْ=Certainly | أَرْسَلْنَا=We sent | رُسُلَنَا=Our Messengers | بِٱلْبَيِّنَـٰتِ=with clear proofs | وَأَنزَلْنَا=and We sent down | مَعَهُمُ=with them | ٱلْكِتَـٰبَ=the Scripture | وَٱلْمِيزَانَ=and the Balance | لِيَقُومَ=that may establish | ٱلنَّاسُ=the people | بِٱلْقِسْطِ‌ۖ=justice. | وَأَنزَلْنَا=And We sent down | ٱلْحَدِيدَ=[the] iron, | فِيهِ=wherein | بَأْسٌ=(is) power | شَدِيدٌ=mighty | وَمَنَـٰفِعُ=and benefits | لِلنَّاسِ=for the people, | وَلِيَعْلَمَ ٱللَّهُ=and so that Allah may make evident | مَن=(he) who | يَنصُرُهُۥ=helps Him | وَرُسُلَهُۥ=and His Messengers, | بِٱلْغَيْبِ‌ۚ=unseen. | إِنَّ=Indeed, | ٱللَّهَ=Allah | قَوِىٌّ=(is) All-Strong | عَزِيزٌ=All-Mighty.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR NOTE] "Indeed, Allah is All-Powerful, Almighty" — the word-by-word reference gives قَوِىٌّ as "All-Strong" (root q-w-y, strength), not "All-Powerful." "All-Powerful" is within the range of accepted English renderings (Sahih International uses "Powerful") so this does not rise to MODERATE, but the root denotes *strength* (quwwa) not *power/ability* (qudra). Worth flagging for precision.
+
+- [OBSERVATION] The reflection ends its visible segment with "And iron — cold, heavy, dug out of the dark of the ground — *came down*" without yet resolving whether it treats *anzalnā* as literal celestial descent or as providential creation (al-Jalalayn reads: "We extracted it from mines"). This is not an error in the 8,000 characters provided — the reflection is clearly building to that discussion — but if the final article presents literal sky-fall as the sole or settled interpretation without noting the classical tafsir position (إخراج من المعادن), that would become MODERATE. Flag for the full-content review pass.
+
+SUMMARY: No critical or moderate errors in the visible content — Arabic text matches, linguistic analysis of Form IV *anzala* is correct, surah context is accurate, and no scholar positions are misattributed; one minor translation softening of قَوِيّ and a deferred cosmological question about the iron descent require confirmation in the unread portion.

@@ -1,0 +1,37 @@
+Enhanced Validation Report
+File: content/tadabbur/037-as-saffat/ayahs-133-136.md
+Ayah: 37:133
+Date: 2026-06-05T23:32:55
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَإِنَّ=And indeed, | لُوطًا=Lut | لَّمِنَ=(was) of | ٱلْمُرْسَلِينَ=the Messengers.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "The people of Lut spent their lives saying *he is a liar, expel him from your town, he is a man who claims to be pure*" — The Quran records the people's speech with plural pronouns: "أَخْرِجُوهُم" / "أَخْرِجُوا آلَ لُوطٍ" (7:82, 27:56) — targeting the whole household, not Lut alone. Rendering this as "expel *him*" (singular) is a factual slide. Minor, since it is framed as paraphrase not direct quotation, but the distinction matters: the hostility was directed at the entire family unit, which is actually the same family the passage then vindicates.
+
+**Cannot verify from provided reference stack (note, not errors):**
+- "she did not make it to morning" — timing inference drawn from other passages (e.g. 11:81 "al-mawʿid al-ṣubḥ") not in the provided data; verifiable externally but flag for completeness.
+- The Surah As-Saffat procession structure (Nuh → Ibrahim → Musa/Harun → Ilyas → Lut) and the 37:123 parallel — factually accurate and publicly verifiable, but outside the four-source stack provided here.
+
+**Confirmed accurate:**
+- Arabic text for 37:133–136 matches reference ✓
+- Double emphasis analysis (inna + lām al-tawkīd) is standard classical grammar; al-Jalalayn and al-Baghawi minimalism characterization is confirmed by the provided tafsir excerpts ✓
+- Form II for نجّيناه (najjaynā) and دمّرنا (dammarnā) is correct ✓
+- Form IV passive participle for المرسلين (from أرسل) is correct ✓
+- Root غبر for الغابرين ("those who remained/lagged behind") is correct ✓
+
+SUMMARY: Linguistically rigorous and well-grounded; one minor paraphrase shifts a Quranic plural to a singular in a contextual aside, worth correcting for precision but not a substantive interpretive error.

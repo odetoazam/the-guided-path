@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/079-an-naziat/ayahs-001-005.md
+Ayah: 79:1
+Date: 2026-06-18T13:31:16
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَٱلنَّـٰزِعَـٰتِ=By those who extract | غَرْقًا=violently,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Ibn Masʿud described it in terms that make you wince: the soul of the one who has rejected his Lord drawn out from beneath every hair, from beneath the nails, from the soles of the feet — like a barbed skewer dragged out of wet wool, catching, tearing, taking everything with it." — The Ibn Masʿud report in the supplied Al-Qurtubi reads only: *"ينزعها ملك الموت من أجسادهم"* (the Angel of Death extracts them from their bodies). The vivid anatomical sequence and the wet-wool metaphor are not present in the Ibn Masʿud attribution in any of the four supplied sources. That imagery is characteristic of the *ḥadīth al-Barāʾ ibn ʿĀzib* (Musnad Aḥmad) — a prophetic ḥadīth, not an Ibn Masʿud tafsir statement. Attributing it to Ibn Masʿud cannot be verified from the supplied data and may conflate two distinct sources.
+
+Everything else passes on the supplied data:
+- Root analysis of ن-ز-ع and the extraction-against-resistance meaning: confirmed by all four tafsir sources.
+- Companion consensus (ʿAlī, Ibn Masʿūd, Ibn ʿAbbās) for the angels interpretation: confirmed verbatim in Al-Qurtubi.
+- The ighrāq / archery explanation attributed to Al-Baghawi: confirmed word-for-word ("كما يغرق النازع في القوس فيبلغ بها غاية المد" and "الغرق اسم أقيم مقام الإغراق").
+- Restriction of the first oath's violent extraction to disbelievers (كفار): confirmed across Jalalayn, Muyassar, Qurtubi, and Baghawi.
+- Mafʿūl muṭlaq/cognate accusative grammatical explanation: standard and uncontested.
+
+SUMMARY: The reflection is linguistically and scholastically sound except for one moderate attribution issue — the anatomical wet-wool imagery is placed under Ibn Masʿūd's name but belongs to a separate prophetic ḥadīth tradition; the source should be corrected or the claim pulled back to "the tradition records."

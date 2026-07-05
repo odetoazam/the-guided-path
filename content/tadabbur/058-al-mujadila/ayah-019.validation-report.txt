@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/058-al-mujadila/ayah-019.md
+Ayah: 58:19
+Date: 2026-06-12T18:33:46
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ٱسْتَحْوَذَ=Has overcome | عَلَيْهِمُ=them | ٱلشَّيْطَـٰنُ=the Shaitaan, | فَأَنسَـٰهُمْ=so he made them forget | ذِكْرَ=(the) remembrance | ٱللَّهِ‌ۚ=(of) Allah. | أُوْلَـٰٓئِكَ=Those | حِزْبُ=(are the) party | ٱلشَّيْطَـٰنِ‌ۚ=(of) the Shaitaan. | أَلَآ=No doubt! | إِنَّ=Indeed, | حِزْبَ=(the) party | ٱلشَّيْطَـٰنِ=(of) the Shaitaan, | هُمُ=they | ٱلْخَـٰسِرُونَ=(will be) the losers.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE — unverifiable from provided data] "In the deep Arabic of the desert, *al-ḥawdh* is the driving of animals. Specifically, the *fast, hard driving* of a herd" — this root-lexical claim is attributed (in the frontmatter) to Lisān al-ʿArab and Mufradāt al-Rāghib, neither of which was supplied as reference data. The claim is consistent with al-Qurtubi's fourth meaning (jamaʿahum wa-ḍammahum — gathered and pressed together), which implies gathering/driving, but I cannot confirm the specific livestock-herding semantics from the provided data. Flag for independent lexicon check; no contradicting evidence found.
+
+- [NOTE — minor omission, not an error] "He says *istaḥwadha* means **ghalaba**" — al-Qurtubi's text reads *ghālaba wa-istaʿlā* (غلب واستعلى), pairing overcome with dominated/rose above. The reflection drops *istaʿlā*. The meaning is not misrepresented, but the pairing is lost.
+
+All four meanings attributed to al-Qurtubi are **accurately reproduced** against the provided text:
+1. غلب واستعلى → "overcame" ✓
+2. قوي عليهم → "grew strong over them" ✓
+3. وقال المفضل: أحاط بهم → attributed to al-Mufaḍḍal, "encompassed them" ✓
+4. ويحتمل رابعا: جمعهم وضمهم → fourth meaning, "gathered and pressed together" ✓
+
+Al-Qurtubi's synthesis ("وإذا جمعهم فقد غلبهم وقوي عليهم وأحاط بهم") is accurately rendered. Arabic text matches the authentic provided. Word-by-word glosses align. Form X and Form IV morphological notes are correct.
+
+SUMMARY: The reflection accurately represents al-Qurtubi's analysis without inversion or fabrication; the one unverifiable claim (root-lexical herding meaning) is sourced to named classical lexicons and is consistent with, though not directly confirmed by, the provided tafsir data.

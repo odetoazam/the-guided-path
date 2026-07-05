@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/054-al-qamar/ayah-050.md
+Ayah: 54:50
+Date: 2026-06-10T07:56:10
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَمَآ=And not | أَمْرُنَآ=(is) Our Command | إِلَّا=but | وَٲحِدَةٌ=one, | كَلَمْحِۭ=like the twinkling | بِٱلْبَصَرِ=(of) the eye.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR/EDITORIAL] "Eight words in English. Six words in Arabic." — The six-word Arabic count is correct. "Eight words in English" does not match the reflection's own translation ("And Our command is but a single one — like the glance of an eye," which yields ~14 words) nor any standard English rendering of this ayah. This is a counting slip, not a scholarly error, but it is a stated factual claim.
+
+- [MINOR/COLLOQUIAL] "The previous surah, An-Najm, had ended on an ominous note: azifat al-āzifah" — 53:57 occurs at ayah 57 of 62, not at the surah's close. The reflection's own `related_ayahs` correctly cites 53:57, so the author knows the reference. "Ended on an ominous note" reads as a characterization of the surah's final section, not a claim that 53:57 is the last ayah; this is within acceptable colloquial framing for tadabbur.
+
+- [CONFIRMABLE] All four core linguistic claims — the verbless nominal sentence (jumlah ismiyyah), the ḥaṣr structure (mā...illā), the feminine wāḥidatun understood as "marra wāḥida" per al-Baghawi and al-Jalalayn, and the lamḥ al-baṣar gloss per al-Qurtubi — are directly attested in the provided tafsir sources.
+
+- [CONFIRMABLE] The kun fa-yakūn connection to amr is explicitly stated in al-Jalalayn ("وهي قول: كن فيوجد") and al-Muyassar ("وهي 'كن', فيكون"). The reflection's treatment of this is accurate.
+
+- [CONFIRMABLE] Arabic text in the reflection header (وَمَآ أَمْرُنَآ إِلَّا وَٰحِدَةٌ كَلَمْحٍۭ بِٱلْبَصَرِ) omits the Quranic pause mark (ۭ) after وَٰحِدَةٌ present in the authenticated text. Typographic, not a content error.
+
+SUMMARY: The reflection is linguistically and theologically sound against all provided reference data — no root errors, attribution inversions, or interpretive overreach; the only flag is a word-count claim ("eight words in English") that doesn't hold, and should be corrected or removed before publication.

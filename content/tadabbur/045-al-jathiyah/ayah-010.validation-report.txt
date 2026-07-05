@@ -1,0 +1,45 @@
+Enhanced Validation Report
+File: content/tadabbur/045-al-jathiyah/ayah-010.md
+Ayah: 45:10
+Date: 2026-06-08T05:32:46
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: مِّن وَرَآئِهِمْ=Before them | جَهَنَّمُ‌ۖ=(is) Hell | وَلَا=and not | يُغْنِى=will avail | عَنْهُم=them | مَّا=what | كَسَبُواْ=they had earned | شَيْــًٔا=anything, | وَلَا=and not | مَا=what | ٱتَّخَذُواْ=they had taken | مِن دُونِ=besides | ٱللَّهِ=Allah | أَوْلِيَآءَ‌ۖ=(as) protectors. | وَلَهُمْ=And for them | عَذَابٌ=(is) a punishment | عَظِيمٌ=great.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No errors found in the portion provided.
+
+Spot-checks performed against reference data:
+
+**Tafsir attributions — all confirmed:**
+- "Al-Jalālayn says flatly: «من ورائهم» أي أمامهم" — matches the provided Jalālayn text exactly.
+- "Al-Baghawī says the same: (من ورائهم) أمامهم" — matches exactly.
+- "al-Qurṭubī brings the report of Ibn ʿAbbās: من ورائهم جهنم أي: أمامهم" — confirmed; the provided Qurṭubī text reads "قال ابن عباس : من ورائهم جهنم أي : أمامهم."
+
+**14:16 cross-reference — confirmed in the provided data:**
+The reflection claims Qurṭubī glosses warā' in 14:16 as amāmahu. This is directly confirmed in the provided Qurṭubī text: "نظيره : من ورائه جهنم ويسقى من ماء صديد أي : من أمامه." The attribution is accurate.
+
+**Morphology — correct:**
+- يُغْنِي as Form IV (أغنى يُغْنِي, "to avail / render free from need") — correct.
+- ٱتَّخَذُوا as Form VIII (افتعل pattern from أ-خ-ذ) — correct.
+
+**وَرَاء as al-aḍdād — well-supported:**
+The claim that warā' is a recognized contronym in Arabic (holding both "behind" and "in front") is supported by all four tafsirs provided, each independently resolving it as amāmahum.
+
+**One limitation to note:** The reflection text is cut off at "The destination he is closest to is the one he is lea—" — the remainder cannot be validated.
+
+SUMMARY: Every tafsir attribution, morphological claim, and cross-reference in the provided portion is accurate and directly verifiable from the supplied reference data.

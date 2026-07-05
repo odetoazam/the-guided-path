@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/038-sad/ayahs-030-033.md
+Ayah: 38:30
+Date: 2026-06-06T01:04:25
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَوَهَبْنَا=And We gave | لِدَاوُۥدَ=to Dawood | سُلَيْمَـٰنَ‌ۚ=Sulaiman, | نِعْمَ=an excellent | ٱلْعَبْدُ‌ۖ=slave. | إِنَّهُۥٓ=Indeed, he | أَوَّابٌ=was one who repeatedly turned.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE — NOT AN ERROR] "A *hiba* in the language, and later in Islamic law, is a transfer of ownership with no return expected, no price attached, no debt incurred. You cannot earn a *hiba*." — The lexical claim is well-grounded (Mufradāt al-Rāghib, Lisān al-ʿArab confirm wahaba/hiba as gratuitous gift). The fiqh characterization is accurate. The inferential bridge — "the moment you earn it, it stops being one" — is a valid interpretive extension of the lexical data, not a fabricated claim. No error; flagging only so the author knows it crosses from lexicon into theology.
+- [NOTE — SCOPE LIMIT] The submitted reflection discusses vv. 31–33 (the horses scene) in its introduction, but the reference data provided covers only ayah 30. The linguistic analyses of al-Ṣāfināt al-Jiyād, *tuwaarat bil-ḥijāb*, *ruddūhā*, and *masḥan bi-l-sūq wa-l-aʿnāq* cannot be validated against the tafsir sources from this dataset. Those claims may be accurate, but they are outside the scope of what can be confirmed here.
+
+The validated content (ayah 30) holds up cleanly:
+- **وَهَبْنَا root** — "no return expected, no debt incurred" matches lexical attestation.
+- **نِعْمَ as fiʿl jāmid** — accurate; classical grammarians (Sibawayh, Ibn Hishām) classify it exactly this way.
+- **al-makhṣūṣ bi-l-madḥ as implied/unspoken** — confirmed by Jalalayn's gloss *«أي سليمان»*.
+- **أَوَّابٌ as "ever-returning"** — word-by-word ("repeatedly turned"), Jalalayn ("رجّاع في التسبيح والذكر"), and Muyassar ("كثير الرجوع إلى الله") all align.
+- **38:44 parallel** (*niʿma al-ʿabd, innahu awwāb* for Ayyub "fourteen verses later") — accurate; the binding of Sulayman and Ayyub under that same refrain is a legitimate structural observation.
+- **Arabic text in frontmatter** — matches the authenticated Arabic exactly.
+
+SUMMARY: All checkable claims in ayah 30's linguistic and structural analysis are accurate and tafsir-grounded; validation of vv. 31–33 requires a separate reference dataset for those verses.

@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/053-an-najm/ayahs-050-051.md
+Ayah: 53:50
+Date: 2026-06-09T20:24:06
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَأَنَّهُۥٓ=And that He | أَهْلَكَ=destroyed | عَادًا=Aad | ٱلْأُولَىٰ=the first,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Others, following Ibn Ziyad (as..." — The Qurṭubī source explicitly names **ابن زيد** (Ibn Zayd — likely ʿAbd al-Raḥmān ibn Zayd ibn Aslam, the well-known Tābiʿī mufassir), not Ibn Ziyād (ابن زياد, a completely different figure, associated with Umayyad governance). The position itself is correctly represented — Qurṭubī quotes Ibn Zayd as saying *"قيل لها عاد الأولى لأنها أول أمة أهلكت بعد نوح"* — but the name transcription is wrong.
+
+Remaining claims verified against reference data:
+- **أَهْلَكَ as Form IV** of root ه-ل-ك, carrying causative/transitive force vs. intransitive Form I هَلَكَ: morphologically correct.
+- **Al-ūlā as "the first"** with the implication of a second ʿĀd: directly supported by Qurṭubī, al-Baghawī, and Ibn Isḥāq's two-ʿĀd position.
+- **Three scholarly positions on al-ūlā** (chronological priority over Thamud; Thamud-before-ʿĀd; first nation destroyed after Nūḥ): all three are faithfully present in the Qurṭubī passage provided.
+- **Ibn Isḥāq's two-ʿĀd distinction** (first by Ṣarṣar wind, second by screaming blast): matches *"ابن إسحاق : هما عادان ؛ فالأولى أهلكت بالريح الصرصر ، ثم كانت الأخرى فأهلكت بالصيحة"* exactly.
+- Arabic text, transliteration, and translation: accurate against the authentic text supplied.
+- Architectural echo between 53:25 (*al-ākhira wa-l-ūlā*) and 53:50 (*ʿĀdan l-ūlā*): a sound intertextual observation, presented as interpretation rather than documented fact.
+
+SUMMARY: One scholar name is misrendered — "Ibn Ziyad" should be "Ibn Zayd" — but the position attributed to him is correctly drawn from Qurṭubī; all other morphological, lexical, and tafsir claims check out.

@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/068-al-qalam/ayah-050.md
+Ayah: 68:50
+Date: 2026-06-13T17:55:36
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَٱجْتَبَـٰهُ=But chose him, | رَبُّهُۥ=his Lord, | فَجَعَلَهُۥ=and made him | مِنَ=of | ٱلصَّـٰلِحِينَ=the righteous.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "This same verb is used of Ibrahim — *'his Lord had already chosen him'* / *ijtabāhu rabbuh* (16:121)" — Surah 16:121 reads `ٱجْتَبَىٰهُ وَهَدَىٰهُ إِلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ`; the word *rabbuh* (his Lord) does not appear in that verse. The reflection presents the transliteration in italics with an explicit ayah reference, implying verbatim quotation. The subject of *ijtabāhu* in 16:121 is Allah from prior context — never made explicit as *rabbuh*. The substantive point (same verb applied to Ibrahim) is correct; only the attributed phrasing is inaccurate.
+
+ISSUES (confirmed accurate, listed for completeness):
+- Root *j-b-y* (جبي) carrying the primary meaning of "gathering/collecting," with *al-jābiyah* (cistern) as the attested lexical anchor — supported by Lisān al-ʿArab and Mufradāt al-Rāghib.
+- Form VIII (*iftaʿala*) analysis and the reflexive/toward-oneself dimension — standard Arabic morphological claim, not overstated.
+- *Ẓulumāt* (plural darknesses) at 21:87 — confirmed: `فَنَادَىٰ فِى ٱلظُّلُمَٰتِ`.
+- Yunus departing without divine permission — the classical position (confirmed implicitly by Qurṭubī's framing and Jalālayn).
+- *Fa* vs. *wāw* as sequential/consequential vs. neutral conjunction — accurate Arabic grammar.
+- Translation of *al-ṣāliḥīn* as "the righteous" — the Jalālayn specifies this means *al-anbiyāʾ* (the prophets), but the reflection's rendering is the literal gloss and does not contradict the tafsir; no contrary claim is made.
+
+SUMMARY: One citation inaccuracy — "ijtabāhu rabbuh" is attributed to 16:121 but that verse does not include *rabbuh*; all core morphological, lexical, and narrative claims are well-grounded in the reference data.

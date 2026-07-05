@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/098-al-bayyinah/ayah-008.md
+Ayah: 98:8
+Date: 2026-06-20T06:00:46
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: جَزَآؤُهُمْ=Their reward | عِندَ=(is) with | رَبِّهِمْ=their Lord - | جَنَّـٰتُ=Gardens | عَدْنٍ=(of) Eternity, | تَجْرِى=flow | مِن=from | تَحْتِهَا=underneath them | ٱلْأَنْهَـٰرُ=the rivers, | خَـٰلِدِينَ=will abide | فِيهَآ=therein | أَبَدًا‌ۖ=forever. | رَّضِىَ ٱللَّهُ=Allah (will be) pleased | عَنْهُمْ=with them | وَرَضُواْ=and they (will be) pleased | عَنْهُ‌ۚ=with Him. | ذَٲلِكَ=That | لِمَنْ=(is) for whoever | خَشِىَ=feared | رَبَّهُۥ=his Lord.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE] "And then he [Qurṭubī] gives you a cousin of the word that unlocks it completely: maʿdin" — the provided Qurṭubī excerpt is truncated (ends mid-sentence at "يعدن [عدنا وعدونا]") and does not include the maʿdin derivation. The connection itself is lexically valid and well-attested in Lisān al-ʿArab and Mufradāt al-Rāghib (cited in the frontmatter), and Qurṭubī's full tafsir on this verse does contain it ("المعدن من هذا، لأن المتاع يقيم فيه"). Cannot flag as error — the attribution is accurate; the provided excerpt is simply incomplete. No correction needed.
+
+Everything else checks out cleanly:
+
+- **ʿinda as nearness/safekeeping** — standard Arabic grammar, no overreach
+- **ʿinda rabbihim vs ʿinda-llāh** — the authentic Arabic confirms this exactly: عِندَ رَبِّهِمْ, not عند الله
+- **rabb / r-b-b as nurturing-to-completion** — standard, correct
+- **ʿadn as residence/permanence** — confirmed directly: Jalalayn says "إقامة," Muyassar says "إقامة واستقرار," Qurṭubī says "عدن أي إقامة" and explicitly cites "عدن بالمكان" (to settle in a place)
+- **khashiya rendered as "held in awe"** — defensible and well-grounded; the khashyah/khawf distinction (khashyah as knowledge-based reverential fear vs. general dread) is standard in Islamic scholarship. The provided tafsir sources render it as "feared," but the awe rendering is not an error — it captures the nuance the tradition itself recognizes
+- **98:6 / 98:7 context** — sharr al-bariyyah and khayr al-bariyyah identification is accurate
+- **Arabic text in the reflection** — matches the authentic Arabic provided (minor diacritic variation in ʿadnin: reflection shows عَدْنٍ, authentic shows عَدْنٍۢ — same word, standard rendering difference)
+
+SUMMARY: The reflection is philologically grounded and tafsir-faithful; no factual errors are present in the portion reviewed, and the one unverifiable claim (maʿdin attribution to Qurṭubī) is accurate from the full source — the provided excerpt is simply cut off before it appears.

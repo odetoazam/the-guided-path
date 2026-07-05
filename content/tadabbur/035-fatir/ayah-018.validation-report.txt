@@ -1,0 +1,29 @@
+Enhanced Validation Report
+File: content/tadabbur/035-fatir/ayah-018.md
+Ayah: 35:18
+Date: 2026-05-18T05:25:58
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَلَا=And not | تَزِرُ=will bear | وَازِرَةٌ=bearer of burdens | وِزْرَ=burden | أُخْرَىٰۚ=(of) another. | وَإِن=And if | تَدْعُ=calls | مُثْقَلَةٌ=a heavily laden | إِلَىٰ=to | حِمْلِهَا=(carry) its load, | لَا=not | يُحْمَلْ=will be carried | مِنْهُ=of it | شَىْءٌ=anything | وَلَوْ=even if | كَانَ=he be | ذَا قُرْبَىٰٓۗ=near of kin. | إِنَّمَا=Only | تُنذِرُ=you can warn | ٱلَّذِينَ=those who | يَخْشَوْنَ=fear | رَبَّهُم=their Lord - | بِٱلْغَيْبِ=unseen | وَأَقَامُواْ=and establish | ٱلصَّلَوٲةَۚ=the prayer. | وَمَن=And whoever | تَزَكَّىٰ=purifies himself, | فَإِنَّمَا=then only | يَتَزَكَّىٰ=he purifies | لِنَفْسِهِۚۦ=for his own self. | وَإِلَى=And to | ٱللَّهِ=Allah | ٱلْمَصِيرُ=(is) the destination.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+**VERDICT: CRITICAL**
+
+**ISSUES:**
+
+- [CRITICAL] "**ج-ز-ر** — *wāw, zāy, rā'.*" — The Arabic letters displayed are ج (jīm), ز (zāy), ر (rā'), which spell j-z-r — an entirely different root meaning "to slaughter/cut." The correct root for وِزْر is و-ز-ر (wāw, zāy, rā'). The phonetic romanization is correct but the Arabic script is wrong. This is a direct Arabic text error: ج-ز-ر ≠ و-ز-ر.
+
+- [MODERATE] "*Al-wizr*, as al-Qurtubi traces, originally referred to **the load carried on the back.**" — In the Qurtubi excerpt provided, "وَالْحَمْلُ مَا كَانَ عَلَى الظَّهْرِ" appears in his discussion of حِمْلِهَا (from root ح-م-ل), not of وِزْر. Qurtubi is distinguishing ḥiml from ḥaml, not defining wizr. The physical "burden on the back" gloss may be attested elsewhere for wizr (Rāghib's Mufradāt does describe wizr as heavy load), but attributing it specifically to Qurtubi's treatment of this ayah is unsupported by the reference data provided.
+
+**SUMMARY:** The reflection contains a critical Arabic script error — ج-ز-ر displayed for a root that is و-ز-ر — and misattributes to Qurtubi a lexical definition he gives for ḥaml, not wizr; both must be corrected before publication.

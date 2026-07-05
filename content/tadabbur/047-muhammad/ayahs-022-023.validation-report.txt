@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/047-muhammad/ayahs-022-023.md
+Ayah: 47:22
+Date: 2026-06-08T10:35:37
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَهَلْ=Then would | عَسَيْتُمْ=you perhaps, | إِن=if | تَوَلَّيْتُمْ=you are given authority | أَن=that | تُفْسِدُواْ=you cause corruption | فِى=in | ٱلْأَرْضِ=the earth | وَتُقَطِّعُوٓاْ=and cut off | أَرْحَامَكُمْ=your ties of kinship.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE — not an error] "if you turned away" — The reflection adopts the dominant classical reading of تَوَلَّيْتُمْ (إعراض / turning away from guidance), consistent with al-Jalālayn, al-Muyassar, and al-Baghawī. The word-by-word reference supplied with this validation uses the minority governance reading (من الولاية — "given authority"), which al-Qurṭubī documents as a valid but secondary position (Abu al-ʿĀliya, al-Kalbī). The reflection's choice is the correct dominant reading, not an error — the word-by-word reference is the outlier. The full piece may benefit from a single parenthetical acknowledging the governance interpretation exists, given al-Qurṭubī's explicit note of ikhtilāf, but its absence here is a stylistic gap, not a substantive one.
+
+- [VERIFIED] "وفيه التفات عن الغيبة إلى الخطاب" attributed to al-Jalālayn — verbatim confirmed in the provided source. Quote and attribution are accurate.
+
+- [VERIFIED] Frontmatter morphology note (Form V for تَوَلَّى, Form IV for تُفْسِدُ, Form II for تُقَطِّعُ) — all three are correct. Form IV imperfect of أَفْسَدَ = تُفْسِدُ; Form II imperfect of قَطَّعَ = تُقَطِّعُ; Form V perfect of تَوَلَّى = تَوَلَّيْتُمْ. ✓
+
+- [VERIFIED] عَسَى described as a "verb of hope" (afʿāl al-rajāʾ) — standard Arabic grammatical category; linguistically sound.
+
+- [VERIFIED] Arabic text in frontmatter matches the authenticated Arabic provided. ✓
+
+SUMMARY: The reflection is accurate and well-grounded across all verifiable claims in the excerpt; the only unresolved gap is that the piece does not surface al-Qurṭubī's documented ikhtilāf on تَوَلَّيْتُمْ, but the interpretation chosen is the majority classical position.

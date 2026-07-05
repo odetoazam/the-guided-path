@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/034-saba/ayah-035.md
+Ayah: 34:35
+Date: 2026-05-18T00:58:10
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَقَالُواْ=And they say, | نَحْنُ=`We | أَكْثَرُ=(have) more | أَمْوَٲلاً=wealth | وَأَوْلَـٰدًا=and children, | وَمَا=and not | نَحْنُ=we | بِمُعَذَّبِينَ=will be punished.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE] Reflection is cut off mid-sentence ("T" at end); the remaining portion of the text was unavailable for validation — this verdict covers only what was provided
+- [PASS] Arabic text matches the authentic text; tanwin diacritic rendering (ًۭ vs ًا) is a typographic variant, not a textual error
+- [PASS] Translation "And they said: 'We have more wealth and children, and we will not be punished'" is accurate per word-by-word reference; وَقَالُوا is correctly rendered as past tense (the word-by-word reference's "they say" is a presentation artifact, not a corrective)
+- [PASS] Morphological note in frontmatter — "Form II (mufaʿʿal pattern: muʿadhdhabīn)" — is accurate; بِمُعَذَّبِينَ is the passive participle of عَذَّبَ (Form II), following the mufaʿʿal template
+- [PASS] Grammatical analysis of أَكْثَرُ as *ism al-tafḍīl* requiring an implicit second party is standard Arabic grammar; al-Muyassar directly confirms the comparative: **"نحن أكثر منكم أموالا وأولادا"** (more than you) — the reflection's interpretive lens is textually grounded
+- [PASS] al-mutrafūn framing as the wealthy rejecters speaking against the believing poor is confirmed explicitly by al-Baghawi: "قال المترفون للفقراء الذين آمنوا"
+- [PASS] The theological argument attributed to them — that material abundance signals divine approval — is accurately derived from al-Muyassar ("والله لم يعطنا هذه النعم إلا لرضاه عنا") and al-Qurtubi ("ولو لم يكن ربكم راضيا بما نحن عليه من الدين والفضل لم يخولنا ذلك")
+- [PASS] No scholar attributions are made in the portion provided; no misattribution risk
+
+SUMMARY: The validated portion is morphologically precise, grammatically accurate, and interpretively grounded in the classical tafsir sources supplied — no errors detected in what was reviewable.

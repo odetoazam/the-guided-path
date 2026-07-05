@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayah-087.md
+Ayah: 3:87
+Date: 2026-06-22T06:57:15
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أُوْلَـٰٓئِكَ=Those - | جَزَآؤُهُمْ=their recompense, | أَنَّ=that | عَلَيْهِمْ=on them | لَعْنَةَ=(is the) curse | ٱللَّهِ=(of) Allah | وَٱلْمَلَـٰٓئِكَةِ=and the Angels | وَٱلنَّاسِ=and the people | أَجْمَعِينَ=all together.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "They are the ones who created the distance. They were near — they had believed... And then they stepped back. They put the distance there. And the very first word of their recompense simply names the distance they made." — The claim that *ulā'ika*'s distal demonstrative grammatically *describes the distance the subject themselves created* is an interpretive extension stated as a linguistic fact. Classical balāghah identifies two functions of إشارة البعيد in condemnation contexts: تعظيم (elevation) or تحقير (degradation/contempt). The standard reading here is تحقير — the distal form marks their degraded, contemptible status. It is Allah's grammar of rejection, not a mirror of their own movement. The reflection spiritualizes this into a self-authored distance, which is a valid homiletic move but not the linguistically documented meaning. None of the four provided tafsirs (Jalalayn, Muyassar, Qurtubi, Baghawi) comment on the demonstrative at all, so the reflection's confident framing — "the grammar does not invent their punishment, it describes the position they put themselves in" — exceeds what the reference data supports.
+
+- [PASS] *jazā'* as "exact correspondence/requital" rather than mere punishment — linguistically sound; the root j-z-y carries the attested sense of precise requital. The jizyah derivation from the same root is correct.
+
+- [PASS] *laʿnah* as distancing from mercy — directly supported: al-Muyassar explicitly states "فهم مطرودون من رحمة الله" (they are expelled from Allah's mercy).
+
+- [PASS] Arabic text matches the authenticated source exactly.
+
+- [PASS] The "door still open" framing via 3:89 aligns with Qurtubi's explicit conditional gloss: "أي إن داموا على كفرهم" — the curse holds only if they persist.
+
+SUMMARY: The reflection is substantively sound — no root errors, no inverted attributions, no Arabic errors — but its treatment of *ulā'ika* presents one interpretive framing (self-authored distance) as a documented linguistic conclusion when classical balāghah points instead to degradation/contempt as the primary function of the distal demonstrative in this condemnation context.

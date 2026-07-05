@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/033-al-ahzab/ayah-049.md
+Ayah: 33:49
+Date: 2026-05-15T04:49:22
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ=O you who believe! | إِذَا=When | نَكَحْتُمُ=you marry | ٱلْمُؤْمِنَـٰتِ=believing women | ثُمَّ=and then, | طَلَّقْتُمُوهُنَّ=divorce them | مِن قَبْلِ=before | أَن=[that] | تَمَسُّوهُنَّ=you have touched them, | فَمَا=then not | لَكُمْ=for you | عَلَيْهِنَّ=on them | مِنْ=any | عِدَّةٍ=waiting period | تَعْتَدُّونَهَاۖ=(to) count concerning them. | فَمَتِّعُوهُنَّ=So provide for them | وَسَرِّحُوهُنَّ=and release them | سَرَاحًا=(with) a release | جَمِيلاً=good.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "Al-Qurtubi notes that after the case of Zayd's divorce of Zaynab, Allah turned to address the believing men generally about the legal shape of divorce." — Supported. The Qurtubi excerpt explicitly states "لما جرت قصة زيد وتطليقه زينب" as the occasion context for this ayah. Attribution is accurate.
+- [PASS] All three Form II identifications are correct. ṭallaqtumūhunna (doubled lām on طلق), mattiʿūhunna (doubled tā on متع), sarriḥūhunna (doubled rā on سرح) — all carry the tashdīd that marks Form II. The morphological analysis is structurally sound.
+- [PASS] "Form I of this root literally means to let livestock out into open pasture" — lexically attested for سرح in Lisān al-ʿArab. Accurate.
+- [PASS] "Form I just means 'to enjoy.' Form II — make them enjoy. Cause them benefit." — The causative/intensive distinction between Form I and Form II of م-ت-ع is correctly rendered.
+- [PASS] "a verse of only twenty-two words" — manual count of the Arabic confirms 22 words exactly.
+- [PASS] The Form II symmetry argument (same grammatical weight in ending as in provisioning and releasing) is clearly presented as the author's homiletic observation, not a classical tafsir attribution. No overclaiming.
+- [NOTE — not an error] The Jalalayn specifies a fiqh nuance the reflection does not surface in the provided text: mut'a applies when no mahr was named; if a mahr was named, the woman receives half (per Ibn Abbas, adopted by al-Shafi'i). The reflection is cut off before engaging with fiqh details — if a later section discusses mut'a without acknowledging this, flag it then.
+
+SUMMARY: All verifiable claims — morphological, tafsir-attributed, and lexical — check out against the provided reference data; the one fiqh nuance from Jalalayn is not yet contradicted but should be confirmed in the unread portion.

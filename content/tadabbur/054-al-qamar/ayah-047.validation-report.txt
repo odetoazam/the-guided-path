@@ -1,0 +1,29 @@
+Enhanced Validation Report
+File: content/tadabbur/054-al-qamar/ayah-047.md
+Ayah: 54:47
+Date: 2026-06-10T07:44:51
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّ=Indeed, | ٱلْمُجْرِمِينَ=the criminals | فِى=(are) in | ضَلَـٰلٍ=an error | وَسُعُرٍ=and madness.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+
+- [MODERATE] Frontmatter `passage_context`: "Surah Al-Qamar's four punishment narratives — Nuh, 'Ad, Thamud, Lut, and the house of Pharaoh" — lists five nations while stating four. The reflection body correctly identifies "Five case files" (54:9, 18, 23, 33, 41). The frontmatter count is wrong; the prose count is right. No tafsir source groups these as four.
+
+- [MODERATE] Translation "Indeed, the criminals are deep in error and **in blazing madness**" — "blazing madness" conflates two distinct, non-overlapping tafsir readings for وَسُعُرٍ: Jalalayn and al-Baghawi read it as *nārun mustaʿira* (blazing fire, eschatological punishment); Qurtubi explicitly offers *junūn* (madness) as a second opinion, tracing it to the same phrase at 54:24. The reflection's own central argument — announced in the title "The Verdict in Their Own Words" and confirmed by `related_ayahs: ["54:24"]` — depends on the 54:24 echo, where Thamud deploy the identical phrase ضَلَالٍ وَسُعُرٍ to mean "we'd be mad to follow him." That echo requires سُعُر = madness (Qurtubi's reading), not fire. The word "blazing" smuggles in the fire reading without attribution, diluting the very inversion the reflection is built around. A clean translation would render سُعُر as "madness" here and note the fire reading separately.
+
+SUMMARY: No critical errors; two moderate issues — a frontmatter count that contradicts the prose (four vs. five narratives), and a translation that blends two irreconcilable tafsir readings of سُعُر in a way that partially obscures the reflection's own central interpretive claim.

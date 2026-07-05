@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/070-al-maarij/ayah-034.md
+Ayah: 70:34
+Date: 2026-06-15T03:15:07
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَٱلَّذِينَ=And those who, | هُمْ=[they] | عَلَىٰ=on | صَلَاتِهِمْ=their prayer | يُحَافِظُونَ=keep a guard -
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "Form III takes a root and stretches it... and the effect is to turn a simple act into a *sustained engagement, an effort directed at something, a thing you keep doing over and over with deliberate attention.*" — This presents **muwāẓaba** (iterative/persistent dedication) as the defining semantic function of Form III, but Arabic grammar classifies Form III (فَاعَل/يُفَاعِل) primarily under **muṣāraʿa/mushāraka** — mutual or reciprocal action between two parties. The reflection omits this entirely. This matters because the title "Guarding the Prayer That Guards You" and the frontmatter concepts list (`form-III-mufaala`) signal that a reciprocal reading is being built toward — but if it arrives as a morphological conclusion rather than an interpretive extension, it will be overstated. The frontmatter correctly flags "Reciprocal extension explicitly flagged as interpretive"; the body must follow through on that flag when the claim is developed. The sustained-action reading is a legitimate *secondary* function (al-Rāghib's muwāẓaba is pre-documented and cannot be verified or falsified from the provided references), but cannot be presented as the Form III's core mechanism without mentioning muṣāraʿa.
+
+- [NOTE, not an error] The al-Rāghib quotation (*muḥāfaẓa ʿalā al-shayʾ = al-muwāẓaba ʿalayhi*) cannot be confirmed or denied from the reference data provided. The frontmatter self-documents it as "attested in al-Rāghib." Treat as unverified but plausible; not flagged as an error.
+
+- [PASS] The structural "bracket" claim (70:23 dawām / 70:34 muḥāfaẓa as opening and closing frame) is directly supported by al-Qurtubi, who explicitly states *"al-dawām khilāf al-muḥāfaẓa"* and distinguishes the two prayer verses in exactly the way the reflection describes.
+
+- [PASS] Arabic text, transliteration, root identification (ح-ف-ظ), Form III parsing of يُحَافِظُونَ, and the halūʿ / jazūʿ / manūʿ glosses from 70:19–21 are all accurate.
+
+- [PASS] The kātaba/qātala examples used to illustrate Form III are standard Arabic pedagogy and correctly rendered.
+
+SUMMARY: The visible portion is structurally sound and linguistically defensible; the one genuine risk is that the Form III "sustained engagement" framing, while attested via al-Rāghib, sidelines muṣāraʿa (mutual action) — the primary classical function — which will become a CRITICAL issue if the reciprocal claim later in the reflection is presented as a grammatical conclusion rather than clearly marked interpretive extension.

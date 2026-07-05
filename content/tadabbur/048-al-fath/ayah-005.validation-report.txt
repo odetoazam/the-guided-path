@@ -1,0 +1,28 @@
+Enhanced Validation Report
+File: content/tadabbur/048-al-fath/ayah-005.md
+Ayah: 48:5
+Date: 2026-06-08T16:03:17
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: لِّيُدْخِلَ=That He may admit | ٱلْمُؤْمِنِينَ=the believing men | وَٱلْمُؤْمِنَـٰتِ=and the believing women | جَنَّـٰتٍ=(to) Gardens | تَجْرِى=flow | مِن=from | تَحْتِهَا=underneath them | ٱلْأَنْهَـٰرُ=the rivers | خَـٰلِدِينَ=(to) abide forever | فِيهَا=therein, | وَيُكَفِّرَ=and (to) remove | عَنْهُمْ=from them | سَيِّـَٔـاتِهِمْ‌ۚ=their misdeeds, | وَكَانَ=and is | ذَٲلِكَ=that | عِندَ=with | ٱللَّهِ=Allah | فَوْزًا=a success | عَظِيمًا=great.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Al-Qurṭubī points back to the verse just before, ayah 4 — *He is the One who sent down tranquillity (sakīna) into the hearts of the believers* — **so that** He may admit them into Gardens" — The provided Qurṭubī text reads: *"أي أنزل السكينة ليزدادوا إيمانا. ثم تلك الزيادة بسبب إدخالهم الجنة"* — i.e., He sent down sakīna **so they may increase in faith**, and *then* that increase in faith is the *sabab* (cause) of being admitted to Gardens. The reflection elides the intermediate step (ليزدادوا إيمانا) and presents the connection as direct: sakīna → Gardens. This overstates the simplicity of Qurṭubī's argument; the chain in his text is two-link, not one.
+
+- [MODERATE] The frontmatter tag `takfir` is technically derived from the verb *yukaffira* in this ayah (expiation of sins), but `takfīr` in modern Islamic discourse almost universally denotes declaring another Muslim an apostate — a heavily charged meaning with no relation to this ayah. On a platform indexed by AI and search, this tag creates a genuine mismatch risk. Prefer `takfir-al-sayyiat` or `expiation`.
+
+SUMMARY: The reflection is historically accurate, morphologically sound, and the lām al-taʿlīl analysis is well-grounded; the only substantive issue is a compression of Qurṭubī's two-step causal chain (sakīna → faith increase → Gardens) into a direct link, plus a metadata tag that carries misleading modern connotations.

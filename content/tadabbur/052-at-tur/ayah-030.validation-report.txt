@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/052-at-tur/ayah-030.md
+Ayah: 52:30
+Date: 2026-06-09T16:43:28
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَمْ=Or | يَقُولُونَ=do they say, | شَاعِرٌ=`A poet, | نَّتَرَبَّصُ=we wait | بِهِۦ=for him | رَيْبَ ٱلْمَنُونِ=a misfortune of time.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "al-Qurṭubī is explicit: what *am* carries in the Book of Allah here is **التقرير والتوبيخ** — *al-taqrīr wa-l-tawbīkh* — **affirmation and reproach**" — The provided al-Qurṭubī excerpt does not contain this phrase. The excerpt ends mid-discussion after the al-Aʿsha poetry example, before any such characterization could appear. The attribution is plausible (التقرير والتوبيخ is a recognized category for the emphatic *am* in classical grammar), but cannot be verified from the reference data provided and is presented as an explicit, direct statement from al-Qurṭubī. If this comes from a different part of his tafsir not included in the reference set, the reflection should not frame it as "al-Qurṭubī is explicit" without a source anchor the validator can confirm.
+
+PASSING items for the record:
+- *Am* = *bal* sourced correctly: al-Jalālayn ("«أم» بل"), al-Baghawī ("بل يقولون"), and al-Qurṭubī ("أي بل يقولون") all confirm this equivalence as stated.
+- Sībawayh via al-Qurṭubī on *am al-munqaṭiʿa* as "خروج من حديث إلى حديث" is accurately quoted and attributed.
+- *Natarabbaṣu* as Form V (*tafaʿʿala* pattern) is morphologically correct; the root *r-b-ṣ* inflected as *tarabbaṣa* is standard Form V.
+- *Rayb al-manūn* as "calamities/vicissitudes of time" is confirmed by al-Jalālayn ("حوادث الدهر") and al-Baghawī ("حوادث الدهر وصروفه").
+- Al-Baghawī's note that *manūn* carries dual senses (time/death) is accurately reflected in the passage context.
+
+SUMMARY: One moderate attribution — التقرير والتوبيخ assigned explicitly to al-Qurṭubī — cannot be verified from the provided reference excerpt and should be sourced or softened; all other linguistic and tafsir claims are accurate and well-grounded.

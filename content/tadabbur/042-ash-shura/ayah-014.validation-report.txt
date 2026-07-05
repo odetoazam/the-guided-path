@@ -1,0 +1,24 @@
+Enhanced Validation Report
+File: content/tadabbur/042-ash-shura/ayah-014.md
+Ayah: 42:14
+Date: 2026-06-06T16:13:12
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَمَا=And not | تَفَرَّقُوٓاْ=they became divided | إِلَّا=until | مِنۢ بَعْدِ=after | مَا=[what] | جَآءَهُمُ=came to them | ٱلْعِلْمُ=the knowledge | بَغْيَۢا=(out of) rivalry, | بَيْنَهُمْ‌ۚ=among them. | وَلَوْلَا=And if not | كَلِمَةٌ=(for) a word | سَبَقَتْ=that preceded | مِن=from | رَّبِّكَ=your Lord | إِلَىٰٓ=for | أَجَلٍ=a term | مُّسَمًّى=specified, | لَّقُضِىَ=surely, it (would have) been settled | بَيْنَهُمْ‌ۚ=between them. | وَإِنَّ=And indeed, | ٱلَّذِينَ=those who | أُورِثُواْ=were made to inherit | ٱلْكِتَـٰبَ=the Book | مِنۢ بَعْدِهِمْ=after them | لَفِى=(are) surely in | شَكٍّ=doubt | مِّنْهُ=concerning it - | مُرِيبٍ=disquieting.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: ERROR
+ISSUES:
+- Could not run Claude check: Command failed: claude -p --system-prompt "You are a rigorous Islamic scholarship validator for Ayah
+SUMMARY: Claude semantic check failed

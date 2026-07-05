@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayah-096.md
+Ayah: 3:96
+Date: 2026-06-21T12:32:41
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّ=Indeed, | أَوَّلَ=(the) first | بَيْتٍ=House | وُضِعَ=set up | لِلنَّاسِ=for the mankind | لَلَّذِى=(is) the one which | بِبَكَّةَ=(is) at Bakkah, | مُبَارَكًا=blessed | وَهُدًى=and a guidance | لِّلْعَـٰلَمِينَ=for the worlds.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR NOTE] "the māʾ lam yusamma fāʿiluh, 'that whose doer is not named'" — technically, classical grammarians use this phrase to refer to the passive verb/elevated object (the nāʾib al-fāʿil), not strictly "the unnamed doer." The reflection applies it to the phenomenon of the withheld agent, which is a slight popular broadening of a precise grammatical term. Defensible in a pedagogical context; not a factual error.
+- [UNVERIFIABLE FROM PROVIDED DATA] "appears only once in the entire Quran" (anticipated claim about بَكَّة, cut off at 8000 chars) — cannot confirm or deny from the reference data supplied. The claim is correct (Bakkah appears only in 3:96; Makkah in 48:24), but flagging that it falls outside the provided sources.
+
+Everything else checks out cleanly:
+
+- The dispute context is confirmed by Baghawi: *"اليهود قالوا للمسلمين: بيت المقدس قبلتنا وهو أفضل من الكعبة وأقدم"* — the reflection's portrayal of the Jewish interlocutors' claim about precedence is accurate.
+- The passive *wudiʿa* analysis is linguistically sound and the contrast with the active *yarfaʿu* in 2:127 is correct — 2:127 does use active voice with Ibrahim as named agent.
+- "Before, in one reading the early commentators preserved, even the earth was fully spread out" — appropriately hedged; the Jalalayn confirms: *"بناه الملائكة قبل خلق آدم"* and cites the tradition about foam/primordial earth.
+- Root attributions (ʾwl, byt, wḍʿ, brk Form III for mubārakan, hdy, ʿlm) are all correct. Form III (bāraka → mubārak as passive participle of fāʿala) is accurate.
+
+SUMMARY: The visible portion of this reflection is linguistically rigorous and contextually grounded in the classical sources — no critical or moderate errors detected in the first 8000 characters.

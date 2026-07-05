@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayah-039.md
+Ayah: 3:39
+Date: 2026-06-21T05:45:34
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَنَادَتْهُ=Then called him | ٱلْمَلَـٰٓئِكَةُ=the Angels | وَهُوَ=when he | قَآئِمٌ=(was) standing - | يُصَلِّى=praying | فِى=in | ٱلْمِحْرَابِ=the prayer chamber. | أَنَّ=`Indeed, | ٱللَّهَ=Allah | يُبَشِّرُكَ=gives you glad tidings | بِيَحْيَىٰ=of Yahya, | مُصَدِّقَۢا=confirming | بِكَلِمَةٍ=[of] a Word | مِّنَ=from | ٱللَّهِ=Allah | وَسَيِّدًا=and a noble | وَحَصُورًا=and chaste | وَنَبِيًّا=and a Prophet | مِّنَ=among | ٱلصَّـٰلِحِينَ=the righteous.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [INFO] "Hamza and al-Kisā'ī read **fa-nādā-hu** — the..." — reflection cuts off before completing this claim, but what is present is accurate: al-Qurtubi confirms "قرأ حمزة والكسائي فناداه بالألف على التذكير" (masculine alif form), and al-Baghawi adds the imāla note explaining why they tilted the alif toward yā' ("لأن أصلها الياء"). The explanation offered is sound.
+- [INFO] "winter fruit in summer, summer fruit in winter" — classical tafsir tradition (Ibn Kathir, Jalalayn in commentary on 3:37), not verifiable from the reference data supplied for 3:39 specifically. Not an error; just unverifiable from the provided sources.
+- [INFO] حصور rendered as "restrained" — Jalalayn specifies "ممنوعا من النساء" (withheld from women); Muyassar broadens it to "لا يأتي الذنوب والشهوات الضارة." "Restrained" is a defensible umbrella translation but softer than Jalalayn's classical reading. Acceptable as a translation choice, not an error.
+
+Everything verifiable checks out:
+- Root ن-د-و/ن-د-ي for nādā is correct
+- Shared root between Zakariyya's خَفِيًّا nidā' (Maryam 19:3) and the angels' فَنَادَتْهُ is accurate — the reflection correctly attributes the asymmetry to the modifier خَفِيًّا, not the root itself
+- Morphological forms (nādā Form III, yuṣallī Form II, yubashshiru Form II, muṣaddiq Form II) are all correct
+- Feminine verb reading explained correctly via malā'ika as collective (confirmed al-Baghawi)
+- كلمة من الله = ʿĪsā confirmed explicitly by Jalalayn ("بعيسى... سُمي كلمة لأنه خلق بكلمة كن")
+- Maryam 19:4 quotation ("My bones have grown feeble...") is accurate
+
+SUMMARY: No factual, morphological, or attribution errors are present; the reflection is well-grounded in the classical sources and may proceed to publication.

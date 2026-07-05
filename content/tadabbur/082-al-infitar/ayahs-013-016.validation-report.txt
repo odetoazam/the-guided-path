@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/082-al-infitar/ayahs-013-016.md
+Ayah: 82:13
+Date: 2026-06-18T16:06:08
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّ=Indeed, | ٱلْأَبْرَارَ=the righteous | لَفِى=(will be) surely in | نَعِيمٍ=bliss,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "Al-abrār. Al-fujjār. The devoted. The torn." — "The torn" for *al-fujjār* is an etymological gloss drawn from the root f-j-r (to burst/split open) rather than the standard classical rendering. No tafsir data for *al-fujjār* was supplied in the reference set, so it cannot be verified from the provided sources. It is presented alongside the standard translation ("the wicked") earlier in the passage, which limits the harm, but readers encountering only this poetic pairing could walk away with an unusual gloss as their primary association. The claim is an interpretive extension, not a documented tafsir position.
+
+All other checkable claims pass:
+- *Inna* + emphatic *lām* (la-fī) analysis is grammatically correct.
+- Both *naʿīm* and *jaḥīm* carrying tanwīn (indefinite) is confirmed by the Arabic text.
+- The *zāʾidah bāʾ* on the predicate of the negative *mā* in 82:16 is a recognized classical grammar point.
+- The surah narrative (82:1-4, 82:5, 82:6) is quoted accurately.
+- Definition of *al-abrār* as sincere believers fulfilling obligations aligns with Jalālayn, Muyassar, and Baghawī.
+- *Kirāman kātibīn* (82:11) gloss is accurate; the "miss nothing" claim is grounded in 82:12.
+
+SUMMARY: The reflection is grammatically and textually sound; the only flag is that "the torn" as a rendering of *al-fujjār* is an etymological riff without tafsir backing in the provided sources — acceptable as tadabbur poetry but should not be left as a reader's only gloss.

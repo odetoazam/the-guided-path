@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/053-an-najm/ayah-049.md
+Ayah: 53:49
+Date: 2026-06-09T18:46:31
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَأَنَّهُۥ=And that He | هُوَ=[He] | رَبُّ=(is the) Lord | ٱلشِّعْرَىٰ=(of) the Sirius
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "al-Suddī reports it was the tribes of Ḥimyar and Khuzāʿa" — the Ḥimyar attribution and the specific al-Suddī sourcing cannot be verified from any of the four provided tafsir excerpts. Baghawi and Muyassar confirm Khuzāʿa; none of the provided sources mention Ḥimyar or cite al-Suddī's transmission. The Khuzāʿa portion is solid, but stating "al-Suddī reports" for Ḥimyar presents an unverifiable attribution as documented fact from these sources.
+
+- [MODERATE] "al-Baghawī and al-Qurṭubī name Khuzāʿa" — Baghawi is confirmed: "كانت خزاعة تعبدها." The provided Qurtubi excerpt is truncated mid-sentence ("وا") before any explicit Khuzāʿa mention appears. Attributing Khuzāʿa to Qurtubi from these excerpts cannot be confirmed, though the text cutoff makes it neither confirmable nor refutable.
+
+All other claims check out against the provided data:
+- Arabic text is exact
+- Abū Kabsha as "the first to lead them to it" is confirmed by Baghawi: "أول من سن لهم ذلك رجل من أشرافهم يقال له أبو كبشة"
+- ḍamīr al-faṣl analysis (taqwiyah / ikhtiṣāṣ) is linguistically standard and correctly applied
+- The star-worship framing is confirmed across all four sources
+
+SUMMARY: The reflection is substantively sound and the linguistic analysis is careful; the only issue is that the al-Suddī/Ḥimyar attribution is presented as sourced documentation but falls outside the provided reference data, and the Qurtubi/Khuzāʿa pairing rests on a truncated excerpt.

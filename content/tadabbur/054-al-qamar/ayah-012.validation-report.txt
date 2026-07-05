@@ -1,0 +1,42 @@
+Enhanced Validation Report
+File: content/tadabbur/054-al-qamar/ayah-012.md
+Ayah: 54:12
+Date: 2026-06-10T00:34:50
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَفَجَّرْنَا=And We caused to burst | ٱلْأَرْضَ=the earth | عُيُونًا=(with) springs, | فَٱلْتَقَى=so met | ٱلْمَآءُ=the water(s) | عَلَىٰٓ=for | أَمْرٍ=a matter | قَدْ=already | قُدِرَ=predestined.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate errors found.
+
+Specific checks:
+
+**Form II claim** — "فَجَّرْنَا — Form II, the middle letter doubled, the jīm carrying a shadda" — Accurate. فَجَّرَ is the standard Form II of f-j-r; the Leeds corpus note in the frontmatter aligns. ✓
+
+**Tamyīz / grammatical construction** — "fajjarnā al-arḍa ʿuyūnan — literally, 'We burst the earth — as springs'" — The analysis that ʿuyūnān functions as a tamyīz (specification of the direct object) is a recognized grammatical reading. The word-by-word confirms the construction. ✓
+
+**ʿUbayd ibn ʿUmayr narration via Qurtubi** — "Al-Qurtubi relates a narration from ʿUbayd ibn ʿUmayr ... one spring delayed in answering, so its water was made bitter until the Day of Resurrection" — Verified directly against the Qurtubi source provided: *"عين تأخرت فغضب عليها فجعل ماءها مرا أجاجا إلى يوم القيامة"*. Attribution is to ʿUbayd ibn ʿUmayr (not Qurtubi himself), which the reflection correctly handles. The qualifier "a report from the early generations" appropriately signals its status. ✓
+
+**q-d-r dual meaning (measure + decree)** — "upon a matter already measured, already decreed" — The root carries both senses; Jalalayn confirms *"قضي به في الأزل"* (decreed in eternity); Muyassar confirms *"قدَّره الله لهم"*. Rendering "measured" alongside "decreed" is lexically warranted. ✓
+
+**Form VIII mutuality of iltaqā** — Referenced in frontmatter concepts as "form-viii-mutuality." Al-Baghawi explicitly confirms: *"الالتقاء لا يكون من واحد، إنما يكون بين اثنين فصاعدا"*. ✓
+
+**Two omissions (not errors, noting for completeness):**
+- Jalalayn specifies the "matter decreed" = *"هلاكهم غرقا"* (their destruction by drowning). The reflection leaves amr open-ended — an understandable scope choice in a meditative register.
+- Qurtubi preserves an alternate reading of *qudira*: equal proportion between sky-water and earth-water (*"على مقدار لم يزد أحدهما على الآخر"*). Not mentioning this reading is omission, not error.
+
+SUMMARY: The reflection's morphological analysis, classical source attributions, grammatical claims, and translation choices are all accurate and verifiable against the provided reference data.

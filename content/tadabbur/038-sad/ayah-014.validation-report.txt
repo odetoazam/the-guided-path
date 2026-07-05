@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/038-sad/ayah-014.md
+Ayah: 38:14
+Date: 2026-06-25T08:45:04
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِن=Not | كُلٌّ=all (of them) | إِلَّا=but | كَذَّبَ=denied | ٱلرُّسُلَ=the Messengers, | فَحَقَّ=so was just | عِقَابِ=My penalty.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "إِن كُلٌّ إِلَّا — the negation-exclusion construction" — confirmed by all four tafsir sources: Jalalayn (إن = ما), Qurtubi ("إن كل بمعنى ما كل"), Baghawi (ما كل). The linguistic analysis is accurate.
+- [PASS] "فَحَقَّ... became due — like a debt reaching its settlement date" — the word-by-word renders فَحَقَّ as "so was just," but Jalalayn and Baghawi both gloss it as *wajaba* (became obligatory/due). "Became due" is actually *closer* to the tafsir reading than "was just." No error here.
+- [PASS] "Six civilizations" enumeration (Noah, ʿĀd, Pharaoh, Thamud, Lot's people, Companions of the Thicket = Shuʿayb's community) — confirmed exactly by al-Muyassar's listing.
+- [PASS] "The people of ʿĀd, in 41:15, said: 'Who is stronger than us?'" — correct Quranic citation; 41:15 contains this statement.
+- [PASS] "kullun with tanwīn... unlimited, unrestricted sense" — grammatically accurate; Qurtubi and Jalalayn both read the verdict as universal in scope, not restricted to the named list.
+- [PASS] Form II *kaddhaba* described as intensive-transitive — the reflection is cut off before completing this analysis, but what is shown is morphologically correct.
+- [UNVERIFIABLE from provided data] "614 CE" — cannot confirm from the four tafsir sources provided. Surah Ṣād is Meccan; 614 CE is within the plausible range but is a historical specificity the reference data does not establish. Not flagged as an error, only noted as unverifiable from these sources.
+
+SUMMARY: The reflection is linguistically precise, its tafsir readings align with Jalalayn, Qurtubi, Baghawi, and al-Muyassar, and no claim has been stated as documented fact beyond what the sources support.

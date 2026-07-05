@@ -1,0 +1,37 @@
+Enhanced Validation Report
+File: content/tadabbur/102-at-takathur/ayahs-003-004.md
+Ayah: 102:3
+Date: 2026-06-20T07:23:22
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: كَلَّا=Nay! | سَوْفَ=Soon | تَعْلَمُونَ=you will know.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR NOTE] "kāf at the back of the throat" — the kāf (ك) is a velar stop (back of the mouth/soft palate), not pharyngeal. Pedagogically acceptable simplification; not a scholarship error, but a phonetics-aware reader might notice it.
+- [OBSERVATION] The graveyard-counting narrative ("There were tribes, the commentators tell us, who would go out to the graveyards and count their dead") is attributed appropriately with "the commentators tell us." The provided tafsir excerpts neither confirm nor deny it. This tradition is widely reported in sabab al-nuzul literature (Banu ʿAbd Manaf / Banu Sahm), so the attribution hedge is correct. No flag warranted.
+
+All substantive claims check out:
+
+- **كَلَّا as ḥarf radʿ wa zajr**: Confirmed by all three sources — Jalalayn (ردع), Qurtubi (ردع), Baghawi (وعيد لهم). The reflection's framing as "deterrence and rebuke" is textually precise.
+- **Distinction between kallā and lā**: The classical sources treat كلا as stronger than simple negation, aimed at behavior not just a proposition. The reflection's "aimed not at a statement but at a behavior in motion" captures this accurately.
+- **Ḥadhf al-mafʿūl (withheld object)**: Sound. The provided Qurtubi actually supplies what the text withholds — "سوف تعلمون عاقبة هذا" — which itself confirms the original text omits the object. The device is real and the reflection's treatment of it is coherent.
+- **تَعْلَمُونَ morphology**: Root ع-ل-م, Form I imperfect 2nd person masculine plural — correct.
+- **"Fire isn't described until verse 6"**: Accurate; لَتَرَوُنَّ الْجَحِيمَ appears at 102:6.
+- **Repetition of 102:3 in 102:4**: The reflection correctly notes the structural doubling with ثُمَّ added; this is standard exegetical observation.
+- **زُرْتُم as "visited" (temporary visit)**: Lexically accurate to the root ز-و-ر.
+
+SUMMARY: The reflection is linguistically precise, tafsir-aligned, and all interpretive extensions are framed as tadabbur rather than documented fact — no errors warranting CRITICAL or MODERATE flags.

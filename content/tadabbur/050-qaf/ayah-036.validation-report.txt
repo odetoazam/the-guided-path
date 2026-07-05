@@ -1,0 +1,26 @@
+Enhanced Validation Report
+File: content/tadabbur/050-qaf/ayah-036.md
+Ayah: 50:36
+Date: 2026-06-08T20:56:29
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَكَمْ=And how many | أَهْلَكْنَا=We destroyed | قَبْلَهُم=before them | مِّن=of | قَرْنٍ=a generation, | هُمْ=they | أَشَدُّ=(were) stronger | مِنْهُم=than them | بَطْشًا=(in) power. | فَنَقَّبُواْ=so they explored | فِى=throughout | ٱلْبِلَـٰدِ=the lands. | هَلْ=Is (there) | مِن=any | مَّحِيصٍ=place of escape?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "there is a specific Arabic word for the hole such a man makes in a wall: naqb. A breach. A bored-through passage. The same root gives us the mountain pass — the naqb — the gap pierced through what should have blocked you" — Al-Baghawi explicitly glosses the root as **"أصله من النقب، وهو الطريق"** (*al-naqb = al-ṭarīq*, the road/path), then renders the verb as "ضربوا وساروا وتقلبوا وطافوا وكأنهم سلكوا كل طريق" (they struck out, traveled, moved about, and roamed — as if they traversed every road). All four classical sources converge on traveling/roaming/exploring (al-Jalālayn: *fatashshū*; al-Muyassar: *ṭawwafū*; al-Qurṭubī: *sārū ṭalaban lil-mahrab / ṭāfū*; al-Baghawī: *ṭāfū*). The reflection builds its central structural contrast — "they could bore through into anywhere / but found no way out" — on the breach-in-wall register of naqb, while the tafsirs consistently apply the traversal-of-routes register to this specific verse. The root does carry both senses in Arabic, so this is not a root error; it is a metaphorical emphasis that displaces the tafsir's preferred reading without acknowledgment.
+
+SUMMARY: The reflection's morphology and derivations are accurate, but the naqqabū section elevates the "breach-in-wall" sense of naqb into the structural spine of the meditation while classical tafsir consensus reads the verse as traversing/roaming all roads — a significant tonal and interpretive divergence that should be either reconciled or flagged as a deliberate extension beyond the tafsir.

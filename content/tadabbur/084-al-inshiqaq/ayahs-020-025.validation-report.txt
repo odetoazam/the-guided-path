@@ -1,0 +1,40 @@
+Enhanced Validation Report
+File: content/tadabbur/084-al-inshiqaq/ayahs-020-025.md
+Ayah: 84:20
+Date: 2026-06-18T16:57:02
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَمَا=So what | لَهُمْ=(is) for them | لَا=not | يُؤْمِنُونَ=they believe,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- None identified within the verifiable scope of the provided reference data.
+
+**Specific checks run:**
+
+**Al-Qurtubi attribution** — The reflection states: "Al-Qurtubi says of *famā lahum lā yuʾminūn* — 'this is an *istifhām inkār*' — and then he adds a second reading: '*wa qīla: taʿajjub*' — 'be astonished at them, at their abandonment of belief *despite these signs*.'"
+
+Reference text: «وهذا استفهام إنكار. وقيل: تعجب أي اعجبوا منهم في ترك الإيمان مع هذه الآيات» — exact match on both the primary ruling and the secondary *qīla* attribution. No inversion, no overclaim.
+
+**Al-Baghawi attribution** — The reflection says "Al-Baghawi gives the same one-line ruling: *istifhām inkār*." Reference text: «استفهام إنكار» — confirmed verbatim.
+
+**Root claims (morphology note)** — All seven roots cited (ʾ-m-n, q-r-ʾ, s-j-d, k-dh-b Form II, w-ʿ-y, b-sh-r Form II, m-n-n) are classically attested and correctly identified. يُكَذِّبُونَ as Form II (intensified denial) is accurate.
+
+**يُوعُونَ / vessel framing** — Root w-ʿ-y meaning to contain/store is standard; characterizing the human chest as a *vessel* that conceals is a lexically grounded image, not an overreach.
+
+**Arabic text** — 84:20–25 as rendered in the frontmatter matches standard Uthmanic text.
+
+SUMMARY: Every tafsir attribution in the visible text is accurate and not overstated — al-Qurtubi's dual reading and al-Baghawi's ruling are quoted faithfully, roots are correct, and no claim extends beyond what the reference data supports.

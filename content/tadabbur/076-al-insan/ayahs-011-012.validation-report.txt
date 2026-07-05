@@ -1,0 +1,42 @@
+Enhanced Validation Report
+File: content/tadabbur/076-al-insan/ayahs-011-012.md
+Ayah: 76:11
+Date: 2026-06-18T09:08:28
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَوَقَـٰهُمُ ٱللَّهُ=But Allah will protect them | شَرَّ=(from the) evil | ذَٲلِكَ=(of) that | ٱلْيَوْمِ=Day | وَلَقَّـٰهُمْ=and will cause them to meet | نَضْرَةً=radiance | وَسُرُورًا=and happiness.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate errors found in the portion provided.
+
+Detailed cross-checks:
+
+**Arabic text** — matches the authenticated Arabic exactly (diacritical stops on نَضْرَةً and سُرُورًا are rendering variants, not errors).
+
+**w-q-y / taqwā etymology** — "from this exact root — w-q-y — comes the word taqwā" is philologically accurate. Taqwā is the maṣdar of Form VIII ittaqā, which is the Form VIII of root و-ق-ي with standard iʿlāl transformation. The core shielding meaning is correctly attested.
+
+**sharr reading** — "What Allah removes is its sharr — its harm... The Day happens; its evil simply cannot reach them" maps directly to Qurtubi's gloss: *"أي بأسه وشدته وعذابه"* (its severity, its hardship, its punishment). The distinction between presence-on-the-Day vs. immunity-from-its-harm is not an extension — it is what the text says.
+
+**fa- as immediate consequence** — reasonable Arabic grammar; the *fa-* of *fa-waqāhum* is broadly parsed as *fa-* of result/sequence in classical grammars.
+
+**Form II of l-q-y** — وَلَقَّىٰهُمْ is correctly identified as faʿʿala (gemination on qāf), and the causative gloss "to cause to meet / to bring joy to" is consistent with the word-by-word data ("and will cause them to meet") and classical usage.
+
+**naḍra / surūr distribution** — the faces/hearts split the reflection sets up matches Ḥasan al-Baṣrī and Mujāhid as recorded in Qurtubi and Baghawi: *نضرة في وجوههم وسرورا في قلوبهم*.
+
+One note: the reflection's treatment of ʿabūs and qamṭarīr (v.10) falls outside the provided reference data. The lexical readings given (frowning, severe/knotted) are standard but cannot be verified against the data supplied here — not flagged as an error, just outside scope.
+
+SUMMARY: The linguistic claims are philologically grounded, the tafsir-touching assertions align with Jalalayn, Muyassar, Qurtubi, and Baghawi as provided, and interpretive moves are clearly framed as reflection rather than attributed fact.

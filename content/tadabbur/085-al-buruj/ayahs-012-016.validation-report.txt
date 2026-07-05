@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/085-al-buruj/ayahs-012-016.md
+Ayah: 85:12
+Date: 2026-06-18T17:08:50
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّ=Indeed, | بَطْشَ=(the) Grip | رَبِّكَ=(of) your Lord | لَشَدِيدٌ=(is) surely strong.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [DATA GAP] "A name so tender it appears only twice in the entire Quran" — factually correct (11:90 and 85:14), but the provided reference data covers only verse 12; claims about verses 13–16 (al-Wadūd, al-Ghafūr, al-Majīd, Faʿʿāl) cannot be validated against supplied tafsir. Flag for a separate pass with reference data for vv.13–16.
+- [VERIFY] Root of *baṭsh* given as **ب-ط-ش** — consistent with the morphology note in the file header ("bT$ بطش") and lexicographic sources cited. No error, but the root label in the reflection ("bā-ṭā-shīn") should be confirmed against a Leeds-style lookup if this file will carry `validated: true`.
+
+Everything checkable against the supplied data holds:
+- Arabic text of v.12 matches exactly.
+- Translation "the seizing-grip of your Lord is severe" maps correctly to word-by-word.
+- Jawāb al-qasam attribution — "one major view reported by al-Qurtubi" — accurately reflects al-Mubarrad's position as quoted in the Qurtubi excerpt (also corroborated by Qatāda in al-Baghawī). The hedge "one major view" is precise and does not overclaim.
+- Ibn ʿAbbās gloss (seized upon the wrongdoers) cited correctly via al-Baghawī.
+- Root ش-د-د for *shadīd* confirmed by the morphology header.
+- Lexicographic sources (Lisān al-ʿArab, Mufradāt al-Rāghib) match the morphology provenance note.
+- 85:6–7 paraphrase ("seated by it… witnesses") is accurate.
+
+SUMMARY: The verse-12 content is rigorous and well-sourced; the only action item is a second validation pass with reference data for verses 13–16 before setting `validated: true`.

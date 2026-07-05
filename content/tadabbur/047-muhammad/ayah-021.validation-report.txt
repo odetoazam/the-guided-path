@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/047-muhammad/ayah-021.md
+Ayah: 47:21
+Date: 2026-06-08T12:19:47
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: طَاعَةٌ=(Is) obedience | وَقَوْلٌ=and a word | مَّعْرُوفٌ‌ۚ=kind. | فَإِذَا=And when | عَزَمَ=(is) determined | ٱلْأَمْرُ=the matter, | فَلَوْ=then if | صَدَقُواْ=they had been true | ٱللَّهَ=(to) Allah, | لَكَانَ=surely, it would have been | خَيْرًا=better | لَّهُمْ=for them.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+**VERDICT: PASS**
+
+**ISSUES:**
+
+- [MINOR IMPRECISION] "this is Sībawayh's, carried by al-Qurṭubī and al-Baghawī" — Al-Qurṭubī explicitly states "وهو مذهب سيبويه والخليل" — the *amthal* reading belongs to **both** Sībawayh and al-Khalīl jointly. The reflection mentions al-Khalīl two sentences earlier but then attributes the reading to Sībawayh alone. Not an inversion, and not MODERATE-worthy since al-Khalīl is named in context — but the attribution is incomplete. No correction required.
+
+All other claims verify cleanly:
+
+- The broken-sentence (ellipsis) analysis — confirmed by al-Qurṭubī ("طاعة وقول معروف **أمثل** وأحسن") and al-Baghawī ("طاعة وقول معروف **أمثل**، أي لو أطاعوا... كان أمثل وأحسن")
+- The "hypocrites' quotation" second reading with *amrunā ṭāʿah / minnā ṭāʿah* — confirmed verbatim by al-Baghawī ("أي **أمرنا طاعة** أو **منا طاعة**") and al-Qurṭubī ("إن التقدير **أمرنا طاعة** وقول معروف")
+- "عَزَمَ ٱلْأَمْرُ" as "the matter is resolved and binding" — consistent with Jalālayn's "أي فرض القتال" (the obligation was determined)
+- 47:20 context ("naẓara-l-maghshiyyi ʿalayhi mina-l-mawt") — confirmed by al-Muyassar ("نظر الذي قد غُشِيَ عليه خوفَ الموت")
+- طَاعَةٌ as nominative indefinite — morphologically correct
+
+**SUMMARY:** The reflection is accurate and rigorously grounded; the only note is a minor attribution incompleteness on the Sībawayh/al-Khalīl joint position, which does not rise to a flaggable error given that al-Khalīl is named in the same paragraph.

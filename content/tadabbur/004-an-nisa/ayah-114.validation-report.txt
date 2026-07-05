@@ -1,0 +1,41 @@
+Enhanced Validation Report
+File: content/tadabbur/004-an-nisa/ayah-114.md
+Ayah: 4:114
+Date: 2026-06-25T06:43:27
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ۞ لَّا=(There is) no | خَيْرَ=good | فِى=in | كَثِيرٍ=much | مِّن=of | نَّجْوَٮٰهُمْ=their secret talk | إِلَّا=except | مَنْ=(he) who | أَمَرَ=orders | بِصَدَقَةٍ=charity | أَوْ=or | مَعْرُوفٍ=kindness | أَوْ=or | إِصْلَـٰحِۭ=conciliation | بَيْنَ=between | ٱلنَّاسِ‌ۚ=the people. | وَمَن=And who | يَفْعَلْ=does | ذَٲلِكَ=that | ٱبْتِغَآءَ=seeking | مَرْضَاتِ=pleasure | ٱللَّهِ=(of) Allah | فَسَوْفَ=then soon | نُؤْتِيهِ=We will give him | أَجْرًا=a reward | عَظِيمًا=great.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR/NOTE] "najāh — نجاة — rescue, salvation, deliverance" — the romanization "najāh" is technically the pausal form of نجاة (tāʾ marbūṭa drops to h in pause). In connected speech it would be "najāt." Both are attested; this is not a scholarly error, merely an editorial choice worth flagging for consistency with the site's transliteration standard.
+- [VERIFY] The root gloss "raised up and set apart — high ground, a piece of land lifted clear" is attributed to the lexicographers (Lisān al-ʿArab, Mufradāt al-Rāghib) in the morphology note. This claim is not verifiable from the reference data supplied, but it is standard lexicographic knowledge for النَّجْوة. The reflection prudently flags the source in its pruning comment; no fabrication is present.
+
+No CRITICAL or MODERATE issues found. Specific checks:
+
+**Contextual attribution** — "as reported by al-Qurṭubī and al-Baghawī… the affair of a man known as Ṭuʿma ibn Ubayriq" — al-Baghawī explicitly says "يعني: قوم طعمة" and al-Qurṭubī says "قوم بني أبيرق من التدبير." Both sourced correctly. ✓
+
+**Mujāhid attribution** — "the verse is general — addressed to all people" — al-Baghawī verbatim: "وقال مجاهد: الآية عامة في حق جميع الناس." Exact match. ✓
+
+**Root connection (n-j-w → najwā and najāh)** — both words derive from the same triliteral root, confirmed by Arabic lexicography. The theological bridge ("He is the third on the island") correctly maps to 58:7 (two people + Allah = He is the third). ✓
+
+**The three exceptions** — ṣadaqah, maʿrūf, iṣlāḥ bayna n-nās — all three correctly identified and in correct sequence against word-by-word reference. ✓
+
+**Qirāʾāt note** — "نؤتيه / يؤتيه per al-Jalālayn" — al-Jalālayn confirms: "بالنون والياء أي الله." ✓
+
+**كَثِيرٍ qualifier** — the reflection correctly observes the verse condemns "much" not "all" private talk, creating space for the exceptions. ✓
+
+SUMMARY: The reflection is linguistically and scholastically sound; all verifiable claims match the supplied reference data, attributions are accurate, and interpretive extensions are clearly framed as interpretation rather than stated fact.

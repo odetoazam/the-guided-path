@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/087-al-ala/ayahs-006-007.md
+Ayah: 87:6
+Date: 2026-06-18T17:51:09
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: سَنُقْرِئُكَ=We will make you recite | فَلَا=so not | تَنسَىٰٓ=you will forget,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Al-Baghawi: *sanu'allimuka* — 'We will teach you.' Al-Jalalayn the same." — Al-Baghawi's text explicitly glosses سَنُقْرِئُكَ as سنعلمك بقراءة جبريل عليك, so that attribution is accurate. But the provided Al-Jalalayn text does not use سنعلمك; it reads «سنقرئك» القرآن «فلا تنسى» ما تقرؤه — a terse contextual expansion, not a lexical gloss. Saying "Al-Jalalayn the same" overstates what the text does. The causative reading is implicit in Jalalayn, but the claim that Jalalayn explicitly glosses it with سنعلمك is not supported by the provided source. This also appears in the morphology pruned note ("confirmed by al-Jalalayn and al-Baghawi glossing سنقرئك as سنعلمك/سنعلّمك"), compounding the attribution.
+
+Everything else checks out:
+
+- Form IV causative (*aqra'a* from *qara'a*) is linguistically accurate and confirmed by Al-Baghawi's gloss.
+- The Mujahid report — يتذكر مخافة أن ينسى — is directly present in the provided Al-Qurtubi text, with the phrase *mukhāfata an yansā* matching مخافة أن ينسى exactly.
+- The 75:16 cross-reference (*lā tuḥarrik bihi lisānaka li-ta'jala bih*) is a standard and accurate parallel.
+- The سـ as future particle and Prophet-as-grammatical-object analysis are correct.
+- The exception clause (إِلَّا مَا شَآءَ ٱللَّهُ) treatment aligns with Al-Muyassar's explicit note about divine wisdom in ordained forgetting.
+- Interpretive/meditative material is appropriately framed as reflection, not documented fact.
+
+SUMMARY: Solid, well-grounded reflection with one moderate attribution error — the claim that Al-Jalalayn explicitly glosses سَنُقْرِئُكَ as سنعلمك is not supported by the provided Jalalayn text, which only offers a contextual paraphrase, not the lexical gloss attributed to it.

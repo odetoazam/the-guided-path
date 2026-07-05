@@ -1,0 +1,40 @@
+Enhanced Validation Report
+File: content/tadabbur/050-qaf/ayah-012.md
+Ayah: 50:12
+Date: 2026-06-08T22:59:04
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: كَذَّبَتْ=Denied | قَبْلَهُمْ=before them | قَوْمُ=(the) people | نُوحٍ=(of) Nuh | وَأَصْحَـٰبُ=and (the) companions | ٱلرَّسِّ=(of) Ar-Raas | وَثَمُودُ=and Thamud,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- None found. All verifiable claims check out against the provided reference data.
+
+Supporting confirmation (not errors, but verification trail):
+
+- **Form II intensification claim** — "Denial is labor, not passive absence" is linguistically well-grounded. *Kadhdhaba* (Form II, k-dh-b) correctly distinguished from *kadhaba* (Form I). The directionality (active/transitive, aimed at an object) is standard Arabic morphology, uncontradicted by any tafsir source here.
+
+- **Dropped object** — The observation that no explicit object follows كَذَّبَتْ is accurate to the Arabic text. The rhetorical inference (totalized denial) is interpretive but clearly flagged as such, not stated as documented fact.
+
+- **الرَّسِّ = "the Well"** — Directly confirmed by Jalalayn: *"هي بئر كانوا مقيمين عليها"* ("it was a well they were settled beside").
+
+- **"No prophet whose name is universally agreed upon"** — Directly confirmed by Jalalayn: *"نبيهم: قيل حنظلة بن صفوان وقيل غيره"* ("their prophet: said to be Ḥanẓala ibn Ṣafwān, and said to be someone else").
+
+- **Meccans as the intended audience, warned by precedent** — Confirmed by Qurtubi: *"ذكرهم نبأ من كان قبلهم من المكذبين وخوفهم ما أخذهم"* ("He mentioned to them the news of the deniers before them and warned them of what befell those"). The "you are not the first" framing is accurate.
+
+- **50:3 quote and translation** — Correctly cited and rendered.
+
+SUMMARY: The reflection is linguistically rigorous, its morphological and rhetorical claims are sound, and every factual assertion about al-Rass and the classical tafsir uncertainty is corroborated by the provided sources.

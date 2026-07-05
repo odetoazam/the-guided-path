@@ -1,0 +1,40 @@
+Enhanced Validation Report
+File: content/tadabbur/037-as-saffat/ayahs-171-179.md
+Ayah: 37:171
+Date: 2026-06-05T23:02:47
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَلَقَدْ=And verily, | سَبَقَتْ=has preceded | كَلِمَتُنَا=Our Word | لِعِبَادِنَا=for Our slaves, | ٱلْمُرْسَلِينَ=the Messengers,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate errors found in this excerpt.
+
+Supporting observations:
+
+- **Root analysis**: The root **س-ب-ق (s-b-q)** and verb form **سَبَقَتْ** are correctly identified and the lexical glosses (outrun, precede, get there first) are consistent with Lisān al-ʿArab attestations and the word-by-word reference ("has preceded").
+
+- **Core meaning of كَلِمَتُنَا**: The reflection's claim that the Word refers to a divine decree of victory/help for the messengers is confirmed by all four tafsir sources. Al-Jalalayn and Al-Baghawi both link it explicitly to 58:21 ("لأغلبن أنا ورسلي"), and Al-Muyassar frames it as victory over enemies by proof and force. The reflection does not over-specify beyond what the tafsir warrants.
+
+- **Past-tense-for-certainty analysis** ("He reaches for the past tense to describe a victory that, on the ground, has not yet happened"): This is the classical concept of *māḍī li-l-taḥqīq* — the perfect tense used for certainty of divine decree. The analysis is legitimate and pedagogically sound; no error.
+
+- **Wa-laqad grammar** ("*wa* of oath, and the *qad* of confirmation"): A recognized pedagogical simplification. Technically the *la* in *laqad* is the assertive particle and *qad* the perfectivizer, with *wa* as conjunction/oath particle. The description is compressed but not incorrect in meaning.
+
+- **Prophet list** (Nuh, Ibrahim, Musa/Harun, Ilyas, Lut, Yunus): All six appear in As-Saffat in the correct order (37:75, 83, 114, 123, 133, 139). Characterizations of each (centuries of calling, thrown into fire, sent to tyrant, worshippers of Baʿl, etc.) are accurate to Quranic content.
+
+- **Al-Amīn reference**: Historically well-attested seerah fact; no issue.
+
+SUMMARY: The excerpt is linguistically precise, theologically consistent with all four classical tafsir sources provided, and makes no unsupported factual attributions.

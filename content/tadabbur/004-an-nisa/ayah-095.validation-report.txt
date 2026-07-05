@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/004-an-nisa/ayah-095.md
+Ayah: 4:95
+Date: 2026-06-24T07:18:29
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: لَّا=Not | يَسْتَوِى=(are) equal | ٱلْقَـٰعِدُونَ=the ones who sit | مِنَ=among | ٱلْمُؤْمِنِينَ=the believers, | غَيْرُ=other than | أُوْلِى=the ones (who are) | ٱلضَّرَرِ=[the] disabled, | وَٱلْمُجَـٰهِدُونَ=and the ones who strive | فِى=in | سَبِيلِ=(the) way | ٱللَّهِ=(of) Allah | بِأَمْوَٲلِهِمْ=with their wealth | وَأَنفُسِهِمْ‌ۚ=and their lives. | فَضَّلَ ٱللَّهُ=Allah (has) preferred | ٱلْمُجَـٰهِدِينَ=the ones who strive | بِأَمْوَٲلِهِمْ=with their wealth | وَأَنفُسِهِمْ=and their lives | عَلَى=to | ٱلْقَـٰعِدِينَ=the ones who sit | دَرَجَةً‌ۚ=(in) rank. | وَكُلاًّ=And (to) all | وَعَدَ ٱللَّهُ=Allah (has) promised | ٱلْحُسْنَىٰ‌ۚ=the best. | وَفَضَّلَ ٱللَّهُ=Allah (has) preferred | ٱلْمُجَـٰهِدِينَ=the ones who strive | عَلَى=over | ٱلْقَـٰعِدِينَ=the ones who sit | أَجْرًا=(with) a reward | عَظِيمًا=great,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: CRITICAL
+
+ISSUES:
+- [CRITICAL] "the morphology marks as **Form VIII** of this root" — يَسْتَوِي is Form X (اِسْتَفْعَلَ / يَسْتَفْعِلُ), not Form VIII (اِفْتَعَلَ / يَفْتَعِلُ). From root س-و-ي, Form X gives اِسْتَوَى → يَسْتَوِي, where the سـ prefix is the Form X marker, not a Form VIII infix-ت pattern. The interpretation drawn ("two parties coming to rest at the same level with each other") actually fits Form X's stative/resultative function for this root — but it is attributed to the wrong form number and supported by an inaccurate description of Form VIII semantics ("action settling *into* the subject").
+
+- [PASS] Ibn Umm Maktum narrative — presence in al-Baghawī's tafsir is confirmed by the provided excerpt (the hadith chain runs through Ṣaḥīḥ al-Bukhārī via Sahl ibn Saʿd al-Sāʿidī, as the Baghawī excerpt begins to trace). The ʿAbasa identification is classically standard. The paraphrase "if I were able, I would strive" is a legitimate rendering of the attested exchange, not a fabrication.
+
+- [PASS] Post-Uhud communal context for 4:95 — consistent with the surah's broad chronology and accepted in classical sources.
+
+- [PASS] All word-by-word glosses (qāʿidūna, ḍarar, mujāhidūna, darajah, al-ḥusnā) match the provided reference data exactly.
+
+- [PASS] Root s-w-y described as leveling/equalizing — lexically correct per classical usage.
+
+SUMMARY: One verifiable linguistic error — يَسْتَوِي is Form X (استفعل), not Form VIII (افتعل); the interpretive point about mutual leveling is defensible but must be regrounded in the correct form before publication.

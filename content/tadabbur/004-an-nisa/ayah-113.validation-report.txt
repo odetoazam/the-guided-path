@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/004-an-nisa/ayah-113.md
+Ayah: 4:113
+Date: 2026-06-24T07:55:17
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَلَوْلَا=And if not | فَضْلُ ٱللَّهِ=(for the) Grace of Allah | عَلَيْكَ=upon you | وَرَحْمَتُهُۥ=and His Mercy - | لَهَمَّت=surely (had) resolved | طَّآئِفَةٌ=a group | مِّنْهُمْ=of them | أَن=to | يُضِلُّوكَ=mislead you. | وَمَا=But not | يُضِلُّونَ=they mislead | إِلَّآ=except | أَنفُسَهُمْ‌ۖ=themselves, | وَمَا=and not | يَضُرُّونَكَ=they will harm you | مِن شَىْءٍ‌ۚ=(in) anything. | وَأَنزَلَ ٱللَّهُ=And Allah has sent down | عَلَيْكَ=to you | ٱلْكِتَـٰبَ=the Book | وَٱلْحِكْمَةَ=and [the] Wisdom | وَعَلَّمَكَ=and taught you | مَا=what | لَمْ تَكُن=you did not | تَعْلَمُ‌ۚ=know. | وَكَانَ=And is | فَضْلُ=(the) Grace | ٱللَّهِ=(of) Allah | عَلَيْكَ=upon you | عَظِيمًا=great.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "al-Qurtubī records this carefully" regarding the deleted predicate (خبر محذوف) after *lawlā* — fully confirmed by the provided Qurtubī excerpt: "ما بعد لولا مرفوع بالابتداء عند سيبويه، والخبر محذوف لا يظهر." Attribution chain is accurate (Qurtubī → Sībawayhi). The reflection omits Sībawayhi's name but does not misattribute anything.
+- [PASS] Form IV (aḍalla, يُضِلُّوكَ) as causative-transitive "to cause to stray" — morphologically correct per standard Arabic grammar and consistent with all four tafsir sources' readings.
+- [PASS] Form II (ʿallama, وَعَلَّمَكَ) as causative "to cause to know / to teach" — correct.
+- [PASS] Tuʿma ibn Ubayriq narrative and the delegation lobbying the Prophet ﷺ — confirmed by Jalālayn ("قوم طعمة") and Baghawī ("يعني: قوم طعمة... لهمت طائفة منهم أن يضلوك يخطئوك في الحكم ويلبسوا عليك الأمر").
+- [PASS] *lawlā* framing — the "door that never opened" / counterfactual structure is linguistically sound and the specific claim that the grace of Allah is the grammatically-certain subject while the threat is hypothetical follows directly from the Qurtubī grammatical note.
+- [PASS] Arabic text in reflection body — minor Unicode/diacritic encoding variants vs. the reference (no tanwin superscript markers, no pause glyphs), but identical consonantal text and voweling. Not a content error.
+- [PASS] *ʿiṣma* (protection/infallibility) in tags — confirmed by Jalālayn: "ورحمته: بالعصمة" and Muyassar: "فعصمك بتوفيقه."
+
+SUMMARY: All verifiable linguistic, grammatical, tafsir-attribution, and narrative claims in the visible text are accurate and well-grounded in the provided classical sources; no errors found.

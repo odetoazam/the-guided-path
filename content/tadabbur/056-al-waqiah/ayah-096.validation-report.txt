@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/056-al-waqiah/ayah-096.md
+Ayah: 56:96
+Date: 2026-06-12T11:30:08
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَسَبِّحْ=So glorify | بِٱسْمِ=(the) name | رَبِّكَ=(of) your Lord, | ٱلْعَظِيمِ=the Most Great.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR] "Six words. After ninety-five ayat, the surah closes on six words." — The ayah فَسَبِّحْ بِٱسْمِ رَبِّكَ ٱلْعَظِيمِ contains four Arabic words (فَسَبِّحْ / بِٱسْمِ / رَبِّكَ / ٱلْعَظِيمِ) per standard Arabic grammatical counting (كلمات). Even counting attached morphemes (fa-, bi-, -ka, al-) individually yields eight, not six. This is a rhetorical framing claim with no grounding — but it is not a theological or scholarly error and falls outside the core validation criteria.
+
+All other claims checked:
+
+- **Root etymology (s-b-ḥ → swimming/gliding)**: Attested in classical lexicons; Quranic usage in 21:33 and 36:40 confirms the "swimming in orbit" sense. ✓
+- **Form II as declarative/intensive (tanzīh)**: Morphologically sound. Qurtubi explicitly grounds this: *"نزه الله تعالى عن السوء"* — precisely the tanzīh framing the reflection develops. ✓
+- **Tasbīḥ ≠ praise-compliment; rather = distancing from imperfection**: Corroborated by Qurtubi's definition above and by al-Muyassar: *"سبِّح باسم ربك العظيم، ونزِّهه عما يقول الظالمون"*. ✓
+- **Ruku' connection ("the bow you make in your next prayer")**: Qurtubi cites the hadith of ʿUqba ibn ʿĀmir directly: the Prophet ﷺ said *"اجعلوها في ركوعكم"* upon revelation of this ayah. The allusion is grounded. ✓
+- **56:95 as** *ḥaqq al-yaqīn* **preceding this ayah**: Accurate to surah structure. ✓
+- **Creation arguments (seed, plant, water, fire) as resurrection proofs**: Accurate summary of 56:57–73. ✓
+- **Arabic text matches**: فَسَبِّحْ بِٱسْمِ رَبِّكَ ٱلْعَظِيمِ confirmed. ✓
+
+SUMMARY: The reflection's Islamic scholarship is sound — the root etymology, Form II morphology, tanzīh theology, and tafsir connections are all accurate and corroborated by the supplied sources; the only factual error is a word-count claim ("six words") that is literary, not scholarly.

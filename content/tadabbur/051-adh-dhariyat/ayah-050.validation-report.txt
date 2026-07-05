@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/051-adh-dhariyat/ayah-050.md
+Ayah: 51:50
+Date: 2026-06-09T00:41:19
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَفِرُّوٓاْ=So flee | إِلَى=to | ٱللَّهِ‌ۖ=Allah, | إِنِّى=indeed, I am | لَكُم=to you | مِّنْهُ=from Him | نَذِيرٌ=a warner | مُّبِينٌ=clear.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR/UNVERIFIABLE] "a phrase that the scholars never stopped repeating" — the Ibn Abbas statement *Firrū minhu ilayh* is confirmed in al-Baghawi ("قال ابن عباس: فروا منه إليه واعملوا بطاعته"), but the claim that scholars *never stopped repeating* it cannot be verified from the provided sources. It is plausible but is an assertion about reception history that exceeds the reference data. Not flagged as MODERATE because it is rhetorical framing, not a doctrinal claim.
+- [NOTE — no error] al-Qurtubi records a second Ibn Abbas statement ("فروا إلى الله بالتوبة من ذنوبكم") that differs slightly from the Baghawi version the reflection uses. The reflection uses the Baghawi form, which is legitimate; these are two separately reported statements, not a contradiction. No action required.
+
+Everything checkable is clean:
+- Root **ف-ر-ر**, Form I imperative — correct
+- *Shaddah* on the *rāʾ* described accurately
+- The *ilā* vs. *min* paradox — standard tafsir observation, consistent with al-Jalalayn, al-Baghawi, al-Muyassar
+- Ibn Abbas attribution "flee from Him to Him" — confirmed in al-Baghawi
+- Sahl ibn ʿAbd Allāh's "flee from all other than Allah to Allah" is in al-Baghawi (not quoted by the reflection, no issue)
+- Historical context (Nuh, ʿAd, Thamud, Pharaoh; sky/earth/pairs) — accurate for 51:31–49
+- "Man fleeing his brother and mother and father on the Day of Judgment" — accurate allusion to 80:34–36
+
+SUMMARY: The reflection is linguistically sound, doctrinally grounded, and the one named scholar attribution (Ibn Abbas, al-Baghawi) is confirmed; no errors requiring correction were found in the provided content.

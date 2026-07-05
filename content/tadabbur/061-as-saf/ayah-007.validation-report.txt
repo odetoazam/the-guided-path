@@ -1,0 +1,42 @@
+Enhanced Validation Report
+File: content/tadabbur/061-as-saf/ayah-007.md
+Ayah: 61:7
+Date: 2026-06-25T10:01:35
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَمَنْ=And who | أَظْلَمُ=(is) more wrong | مِمَّنِ=than (one) who | ٱفْتَرَىٰ=invents | عَلَى=upon | ٱللَّهِ=Allah | ٱلْكَذِبَ=the lie | وَهُوَ=while he | يُدْعَىٰٓ=is invited | إِلَى=to | ٱلْإِسْلَـٰمِ‌ۚ=Islam? | وَٱللَّهُ=And Allah | لَا=(does) not | يَهْدِى=guide | ٱلْقَوْمَ=the people | ٱلظَّـٰلِمِينَ=[the] wrongdoers.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate errors found in the visible portion (first ~8,000 chars through Part 1).
+
+Specific checks:
+
+**Arabic text** — Reflection's Arabic matches the authentic text. The ٱلْإِسْلَـٰمِ variant (taṭwīl ornament on alif) is a typographic rendering difference, not a textual error.
+
+**Al-Jalalayn attribution** — Reflection states: *"al-Jalalayn says simply on this verse: wa man aẓlamu means lā aḥada aẓlam."* Reference confirms: «ومن» أي لا أحد «أظلم» — exact match. ✓
+
+**Al-Qurtubi attribution** — Reflection states Qurtubi confirms *"there is no one more unjust than the one who invents a lie against Allah."* Reference confirms: *ومن أظلم أي لا أحد أظلم ممن افترى على الله الكذب* — exact match. ✓
+
+**Istifhām inkārī framing** — Grammatically accurate; the construction is confirmed by both Jalalayn and Qurtubi's gloss of *man* as *lā aḥada* (flat negation). ✓
+
+**ẓ-l-m as displacement + darkness** — Not verifiable from the classical tafsir snippets provided, but the frontmatter explicitly flags these as drawn from Lisān al-ʿArab and Mufradāt al-Rāghib, both authoritative primary lexicons. The dual meaning is well-attested. Appropriate sourcing. ✓
+
+**Contextual framing of fabrication** — Jalalayn specifies the lies as *"attributing partners and sons to Him and describing His signs as magic"*; the reflection keeps the category general without narrowing it to a specific sub-claim. No overreach. ✓
+
+**Hal clause / passive yudʿā** — Grammatically sound. يُدْعَىٰٓ is passive of daʿā; وَهُوَ introduces a simultaneous circumstantial clause (ḥāl). ✓
+
+SUMMARY: All verifiable claims in the visible portion are accurately sourced and grounded; Jalalayn and Qurtubi attributions are exact, and the linguistic analysis does not exceed what the classical lexicons attest.

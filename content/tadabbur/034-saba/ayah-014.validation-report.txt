@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/034-saba/ayah-014.md
+Ayah: 34:14
+Date: 2026-05-15T14:41:03
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَلَمَّا=Then when | قَضَيْنَا=We decreed | عَلَيْهِ=for him | ٱلْمَوْتَ=the death, | مَا=not | دَلَّهُمْ=indicated to them | عَلَىٰ=[on] | مَوْتِهِۦٓ=his death | إِلَّا=except | دَآبَّةُ=a creature | ٱلْأَرْضِ=(of) the earth | تَأْكُلُ=eating | مِنسَأَتَهُۖۥ=his staff. | فَلَمَّا=But when | خَرَّ=he fell down, | تَبَيَّنَتِ=became clear | ٱلْجِنُّ=(to) the jinn | أَن=that | لَّوْ=if | كَانُواْ=they had | يَعْلَمُونَ=known | ٱلْغَيْبَ=the unseen, | مَا=not | لَبِثُواْ=they (would have) remained | فِى=in | ٱلْعَذَابِ=the punishment | ٱلْمُهِينِ=humiliating.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] Arabic text matches the authenticated source exactly — diacritics, spacing, and orthography correct throughout.
+- [PASS] Translation "nothing showed them his death except a creature of the earth eating his staff" correctly renders مَا دَلَّهُمْ…إِلَّا دَآبَّةُ ٱلْأَرْضِ تَأْكُلُ مِنسَأَتَهُۥ per word-by-word data.
+- [PASS] "dābbatu l-arḍ" identified as termite/woodworm — confirmed by Jalalain, which explicitly names "الأرضة" (al-arḍah, wood-boring termite) as the creature.
+- [PASS] *muhīn* glossed as "humiliating" — exact match to word-by-word reference; the reflection's note that the Quran chose *muhīn* rather than "severe" or "painful" is a legitimate and defensible observation.
+- [PASS] *al-ḥaṣr* restriction structure (mā…illā) accurately described and its rhetorical weight correctly analyzed.
+- [PASS] Example *mā aḥabbahu illā hiya* is a correct and well-formed Arabic haṣr construction.
+- [PASS] Morphology comment roots (qDy, mwt, dll, dbb, etc.) all correctly correspond to the ayah's actual lexemes.
+- [PASS] Contextual framing — Meccan surah, Quraysh soothsayer economy, kuhhān claiming jinn-contact — is historically accurate for Saba's revelation context.
+- [PASS] Surah opening quotation "Al-ḥamdu lillāhi alladhī lahu mā fī s-samāwāti wa-mā fī l-arḍ — ʿālimi l-ghaybi": the dash notation signals a thematic paraphrase spanning 34:1 + 34:3, not a verbatim single-verse quote. Not an error.
+- [INFORMATIONAL — not an error] The reflection says the jinn worked "for an unspecified length of time." Jalalain specifies "حولاً" (a year). The Quran itself is silent on duration; the reflection stays to the Quranic text rather than committing to a narration. This is a defensible choice, not a factual mistake.
+
+SUMMARY: No critical or moderate errors detected in the first 8,000 characters; all linguistic claims, Arabic text, translation, and classical tafsir references are accurate and appropriately grounded.

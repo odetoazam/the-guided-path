@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/079-an-naziat/ayahs-034-041.md
+Ayah: 79:34
+Date: 2026-06-18T13:43:38
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَإِذَا=But when | جَآءَتِ=comes | ٱلطَّآمَّةُ=the Overwhelming Calamity | ٱلْكُبْرَىٰ=the great,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE — UNVERIFIABLE] "al-Qurtubi adds, from the great grammarian al-Mubarrad: among the Arabs, *aṭ-ṭāmmah* is *ad-dāhiyatu llatī lā tustaṭāʿ*" — The Arabic phrase appears verbatim in the provided al-Qurtubi excerpt ("والطامة عند العرب: الداهية التي لا تستطاع"), so the content is accurate. However, the attribution specifically to al-Mubarrad cannot be confirmed from the supplied data — the excerpt is truncated and does not name al-Mubarrad. This is not a demonstrated error (al-Mubarrad is a plausible source for al-Qurtubi), but it is unverifiable from the reference data provided.
+
+Everything else checked:
+- Root ط-م-م analysis and the flood imagery: confirmed by al-Baghawi and al-Qurtubi
+- al-Qurtubi proverb (*jarā l-wādī fa-ṭamma ʿalā l-qarā*): matches the Qurtubi text (truncated but consistent)
+- "Mufassirūn unanimous on the second trumpet blast": confirmed — al-Jalalayn, al-Baghawi, al-Muyassar, al-Qurtubi all give *an-nafkhatu th-thāniyah* as primary identification
+- al-Baghawi's exact phrase (*taṭummu ʿalā kulli hāʾilatin... fataʿlū fawqahā wa-taghmuru mā siwāhā*): the reflection's rendering is accurate to the supplied Baghawi text
+- ṭaghā/ṭāmmah water-overflow parallel: linguistically attested (cf. 69:11), handled as a rhetorical observation rather than a documented tafsir claim — appropriate
+
+SUMMARY: The reflection is soundly grounded in the supplied classical sources; the sole flag is an attribution to al-Mubarrad that matches al-Qurtubi's content but cannot be confirmed as al-Mubarrad's specifically from the truncated excerpt — verify against the full Qurtubi text before publishing.

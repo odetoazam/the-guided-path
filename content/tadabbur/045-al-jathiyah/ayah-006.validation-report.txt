@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/045-al-jathiyah/ayah-006.md
+Ayah: 45:6
+Date: 2026-06-08T02:06:28
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: تِلْكَ=These | ءَايَـٰتُ=(are the) Verses, | ٱللَّهِ=(of) Allah | نَتْلُوهَا=We recite them | عَلَيْكَ=to you | بِٱلْحَقِّ‌ۖ=in truth. | فَبِأَىِّ=Then in what | حَدِيثِۭ=statement | بَعْدَ=after | ٱللَّهِ=Allah | وَءَايَـٰتِهِۦ=and His Verses | يُؤْمِنُونَ=will they believe?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] The explanation of *tilka* as conveying "distance of majesty/rank" rather than geographic distance is a sound classical *balāghah* principle, but **none of the four tafsir sources provided explicitly name this reason for this verse**. Al-Qurtubi simply glosses "تلك أي هذه" (tilka meaning hādhihi), and the others follow similarly. The reflection presents this as "one of the most well-known movements in Arabic eloquence" with "a name" from grammarians — this is accurate as a general *balagha* principle (إشارة إلى القريب بلفظ البعيد للتعظيم), but since it goes beyond what the provided tafsir sources say about *this specific verse*, it reads as an interpretive extension stated with more certainty than the cited sources warrant. Not wrong — just unconfirmed by the reference set provided.
+
+- [PASS] Arabic text in the reflection (آيَاتُ vs. authentic ءَايَٰتُ) is an orthographic convention difference between madda and hamza-alef forms — not a content error.
+
+- [PASS] *Tilka* correctly identified as the far-pointing feminine demonstrative. The word-by-word reference translates it as "These" (a translation smoothing convention); the reflection's "Those" is linguistically more precise and the argument built on it is correct.
+
+- [PASS] Contextual summary of 45:3-5 (heavens, earth, animals scattered, night/day alternation, rain, winds) accurately represents the preceding passage.
+
+- [PASS] Makki provenance and Ukāẓ marketplace reference are historically accurate, outside the provided data but well-established.
+
+- [PASS] Translation "These are the verses of Allah which We recite to you in truth. Then in what statement, after Allah and His verses, will they believe?" matches the word-by-word data and tafsir sources faithfully.
+
+SUMMARY: The reflection is linguistically and theologically sound; the sole flag is that the *tilka*-as-majesty interpretation, while a legitimate classical *balāghah* principle, is stated with greater scholarly certainty than the four tafsir excerpts provided actually support for this verse.

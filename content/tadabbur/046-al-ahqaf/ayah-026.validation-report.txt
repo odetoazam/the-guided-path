@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/046-al-ahqaf/ayah-026.md
+Ayah: 46:26
+Date: 2026-06-08T06:17:08
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَلَقَدْ=And certainly, | مَكَّنَّـٰهُمْ=We had established them | فِيمَآ=in what | إِن=not | مَّكَّنَّـٰكُمْ=We have established you | فِيهِ=in it, | وَجَعَلْنَا=and We made | لَهُمْ=for them | سَمْعًا=hearing | وَأَبْصَـٰرًا=and vision | وَأَفْــِٔدَةً=and hearts. | فَمَآ=But not | أَغْنَىٰ=availed | عَنْهُمْ=them | سَمْعُهُمْ=their hearing | وَلَآ=and not | أَبْصَـٰرُهُمْ=their vision | وَلَآ=and not | أَفْــِٔدَتُهُم=their hearts | مِّن=any | شَىْءٍ=thing, | إِذْ=when | كَانُواْ=they were | يَجْحَدُونَ=rejecting | بِـَٔـايَـٰتِ=(the) Signs | ٱللَّهِ=(of) Allah | وَحَاقَ=and enveloped | بِهِم=them | مَّا=what | كَانُواْ=they used (to) | بِهِۦ=[at it] | يَسْتَهْزِءُونَ=ridicule.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "The scholars call this grammatical pattern Form II. Doubling the letter is like pressing down harder" — Accurate. مَكَّنَ is Form II (فَعَّلَ pattern) of root م-ك-ن. All four classical sources use مَكَّنَ/مَكَّنَّاهُمْ consistently. Frontmatter morphology note also flags "Form II (mkn)" as confirmed.
+- [PASS] "a strange grammatical wobble...a tiny particle that scholars have argued over for a thousand years" — The reflection correctly signals scholarly dispute over إِن in فِيمَآ إِن مَّكَّنَّٰكُمْ. Jalalayn gives two positions (نافية أو زائدة), Qurtubi documents the zāʾida reading with shāhid poetry, Baghawi follows al-Mubarrad in reading it as ما (negation). The dispute is real and well-documented.
+- [PASS] "turns, mid-sentence, and points its finger at *you* — at the Quraysh" — Confirmed by Muyassar: "على نحوٍ لم نمكنكم فيه معشر كفار قريش" — the direct addressees are explicitly identified as the disbelievers of Quraysh.
+- [PASS] "not in the least" for مِّن شَىْءٍ — The Jalalayn gloss confirms the من is zāʾida for emphasis ("من شيء أي شيئا من الإغناء ومن زائدة"), supporting a total-zero reading. Accurate.
+- [PASS] "knowingly rejecting" for يَجْحَدُونَ — The Jalalayn closes with "بحججه البين" (clear proofs), supporting the connotation of denial-of-what-one-knows encoded in جَحَدَ. Accurate rendering.
+- [PASS, minor simplification] "that little oath" for لَقَدْ — Calling the لام an oath particle is a standard classical Arabic gloss (implied قسم context); acceptable pedagogical shorthand, not an error.
+- [PASS] Arabic in the frontmatter field differs from the authenticated text only in Unicode tanwin representation (ًا vs. ًۭا) — a typographic encoding variant, not a textual error.
+
+SUMMARY: The excerpt contains no factual errors in root analysis, verb-form claims, tafsir representation, or historical framing; every verifiable claim maps cleanly to the provided reference data.

@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/047-muhammad/ayah-002.md
+Ayah: 47:2
+Date: 2026-06-08T12:42:01
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَٱلَّذِينَ=And those who | ءَامَنُواْ=believe | وَعَمِلُواْ=and do | ٱلصَّـٰلِحَـٰتِ=righteous deeds, | وَءَامَنُواْ=and believe | بِمَا=in what | نُزِّلَ=is revealed | عَلَىٰ=to | مُحَمَّدٍ=Muhammad, | وَهُوَ=and it | ٱلْحَقُّ=(is) the truth | مِن=from | رَّبِّهِمْ‌ۙ=their Lord, | كَفَّرَ=He will remove | عَنْهُمْ=from them | سَيِّـَٔـاتِهِمْ=their misdeeds, | وَأَصْلَحَ=and improve | بَالَهُمْ=their condition.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR NOTE] "sets right their inner state" for بَالَهُمْ — "inner state" is within the semantic range of بَال (Lisān al-ʿArab: "the heart/the state one is in"), and Mufradāt al-Rāghib supports it as the root meaning. However, al-Muyassar extends it explicitly to "شأنهم في الدنيا والآخرة" (their affair in this world and the hereafter), which is broader than a purely internal/psychological reading. The reflection's title and framing center entirely on the psychological dimension. This is a defensible narrowing — not an error — but the reflection never signals the worldly/eschatological scope that classical sources include. No flag required; worth noting for depth.
+
+- [VERIFIED] "kaffara/nuzzila = Form II (taḍʿīf), aṣlaḥa = Form IV" — correct. كَفَّرَ is Form II (doubled medial radical), نُزِّلَ is Form II passive, أَصْلَحَ is Form IV. All three verb forms are accurately identified.
+
+- [VERIFIED] Farmer etymology for k-f-r root (covering seeds, night as kāfir) — attested in Lisān al-ʿArab and standard in Arabic lexicography. The claim "This is grammar. This is not poetry" is accurate; this is a documented root, not an imposed metaphor.
+
+- [VERIFIED] Anṣār historical framing — directly supported by Ibn ʿAbbās, Mujāhid (via al-Jalālayn and al-Baghawī): "والذين آمنوا وعملوا الصالحات: الأنصار."
+
+- [VERIFIED] k-f-r symmetry between v.1 (كَفَرُوا) and v.2 (كَفَّرَ) — linguistically sound. The reflection presents this as structural observation, not as an explicit classical tafsir citation, which is the appropriate epistemic register.
+
+- [VERIFIED] Antithetical structure (v.1 deeds astray / v.2 sins buried) — supported by the tafsir pairing pattern and the classical sources' treatment of the two verses as a matched pair.
+
+SUMMARY: The reflection is linguistically precise and classically grounded throughout; the sole area to watch is the "inner state" framing of بَالَهُمْ, which is lexically defensible but silently omits the worldly/eschatological scope that al-Muyassar and others include.

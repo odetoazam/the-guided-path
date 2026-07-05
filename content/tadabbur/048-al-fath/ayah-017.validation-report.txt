@@ -1,0 +1,26 @@
+Enhanced Validation Report
+File: content/tadabbur/048-al-fath/ayah-017.md
+Ayah: 48:17
+Date: 2026-06-08T15:03:30
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: لَّيْسَ=Not is | عَلَى=upon | ٱلْأَعْمَىٰ=the blind | حَرَجٌ=any blame | وَلَا=and not | عَلَى=on | ٱلْأَعْرَجِ=the lame | حَرَجٌ=any blame | وَلَا=and not | عَلَى=on | ٱلْمَرِيضِ=the sick | حَرَجٌ‌ۗ=any blame. | وَمَن=And whoever | يُطِعِ=obeys | ٱللَّهَ=Allah | وَرَسُولَهُۥ=and His Messenger, | يُدْخِلْهُ=He will admit him | جَنَّـٰتٍ=(to) Gardens | تَجْرِى=flow | مِن=from | تَحْتِهَا=underneath them | ٱلْأَنْهَـٰرُ‌ۖ=the rivers, | وَمَن=but whoever | يَتَوَلَّ=turns away, | يُعَذِّبْهُ=He will punish him | عَذَابًا=(with) a punishment | أَلِيمًا=painful.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR NOTE] "reported by al-Qurṭubī and al-Baghawī on the authority of Ibn ʿAbbās" — al-Qurṭubī's attribution to Ibn ʿAbbās is fully confirmed ("قال ابن عباس"). The provided al-Baghawī excerpt mentions the same occasion of revelation ("فأنزل الله تعالى") but the provided snippet does not show the Ibn ʿAbbās isnād explicitly. Not flagging as MODERATE because the excerpt is partial and the core claim is robustly sourced in al-Qurṭubī; worth verifying in the fuller Baghawī text before publication.
+
+SUMMARY: All substantive claims — root semantics of ح‌ر‌ج, the phonetics of ḥā' as pharyngeal, the Hudaybiyyah historical frame, the ahl al-zamāna narration, the occasion of revelation, the twelve morphological roots, and the grammatical force of the indefinite under negation — are either confirmed by the provided classical sources or clearly framed as literary/interpretive analysis rather than reported fact; no critical or moderate errors detected in the evaluated portion.

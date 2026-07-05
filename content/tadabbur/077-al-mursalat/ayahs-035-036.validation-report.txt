@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/077-al-mursalat/ayahs-035-036.md
+Ayah: 77:35
+Date: 2026-06-18T11:16:32
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: هَـٰذَا=This | يَوْمُ=(is) a Day | لَا=not | يَنطِقُونَ=they will speak,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No CRITICAL issues found. The root attribution (ن-ط-ق for يَنطِقُونَ), verb form (Form I imperfect), and translation ("they will speak/articulate") all match the word-by-word reference exactly.
+- No scholar attributions are made in the provided text — the reflection attributes "al-ḥayawān al-nāṭiq" broadly to "classical thought," not to a specific Islamic scholar or tafsir, which is accurate (the definition is Aristotelian, transmitted through Islamic philosophy).
+- The multiple-stations-of-judgment reading ("a people defined entirely by speech... the instrument is taken away") is directly supported by both al-Qurtubi ("إن يوم القيامة له مواطن ومواقيت، فهذا من المواقيت التي لا يتكلمون فيها") and al-Baghawi ("وفي القيامة مواقف، ففي بعضها يختصمون ويتكلمون، وفي بعضها يختم على أفواههم فلا ينطقون").
+- The talionic framing ("the punishment is not arbitrary... the gift withdrawn at the exact site of the crime") is an interpretive extension not explicitly in the provided tafsir sources, but it is grounded in the established principle al-jazāʾu min jinsi-l-ʿamal and does not contradict any source — al-Muyassar's reading ("لا ينطق فيه المكذبون بكلام ينفعهم... لأنه لا عذر لهم") actually reinforces it. Not flagged as MODERATE because the reflection frames it as theological inference, not as a documented tafsir position.
+- The 10-fold refrain count for وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ is correct (verses 15, 19, 24, 28, 34, 37, 40, 45, 47, 49).
+- The morphology comment's claim that yuʾdhanu is "Form I passive" is correct: passive imperfect of أَذِنَ (Form I, to permit) → يُؤذَنُ.
+
+SUMMARY: The reflection is linguistically precise, does not over-attribute to named scholars, and its interpretive moves are either directly supported by the provided tafsir or clearly framed as theological inference — no errors found in the material evaluated.

@@ -1,0 +1,40 @@
+Enhanced Validation Report
+File: content/tadabbur/065-at-talaq/ayah-005.md
+Ayah: 65:5
+Date: 2026-06-13T12:32:38
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ذَٲلِكَ=That | أَمْرُ ٱللَّهِ=(is the) Command of Allah, | أَنزَلَهُۥٓ=which He has sent down | إِلَيْكُمْ‌ۚ=to you; | وَمَن=and whoever | يَتَّقِ ٱللَّهَ=fears Allah, | يُكَفِّرْ=He will remove | عَنْهُ=from him | سَيِّـَٔـاتِهِۦ=his misdeeds | وَيُعْظِمْ=and make great | لَهُۥٓ=for him | أَجْرًا=(his) reward.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No errors found in the content provided (first 8,000 characters, through end of Element One).
+
+Specific checks:
+
+**ذَٰلِكَ as anaphoric reference to preceding rulings** — PASS. All four tafsir sources confirm this explicitly: Jalālayn ("المذكور في العدة"), Muyassar ("ذلك الذي ذُكِر من أمر الطلاق والعدة"), Qurtubi ("الذي ذكر من الأحكام"), Baghawi ("ما ذكر من الأحكام"). The reflection's framing is directly grounded.
+
+**أَمْر as both "command" and "affair/matter"** — PASS. Lexically standard (Lisān al-ʿArab, Mufradāt al-Rāghib both document this). Not contradicted anywhere in the tafsir data.
+
+**أَنزَلَهُۥٓ as Form IV causative from نزل** — PASS. Morphologically correct. The comparison to revelation vocabulary (أَنزَلْنَا عَلَيْكَ الْكِتَابَ) is sound — same form, same root.
+
+**Arabic text in reflection** — PASS. Matches the authenticated Arabic, including diacritical precision on سَيِّـَٔـاتِهِۦ.
+
+**Surah context framing** — PASS. Accurately describes the legal content of 65:1–4 (ʿidda, expulsion prohibition, housing obligations) that ذَٰلِكَ seals.
+
+**Element Two (يُكَفِّرْ) section** — NOT EVALUABLE. The kfr-root paradox discussion is announced but the content was cut before the claim was made. Cannot validate what has not been written.
+
+SUMMARY: Everything in the submitted portion is linguistically accurate and tafsir-grounded; the kfr root section must be validated separately when the full draft is provided.

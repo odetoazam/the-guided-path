@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayah-065.md
+Ayah: 3:65
+Date: 2026-06-21T11:06:41
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَـٰٓأَهْلَ=O People | ٱلْكِتَـٰبِ=(of) the Book! | لِمَ=Why | تُحَآجُّونَ=(do) you argue | فِىٓ=concerning | إِبْرَٲهِيمَ=Ibrahim | وَمَآ=while not | أُنزِلَتِ=was revealed | ٱلتَّوْرَٮٰةُ=the Taurat | وَٱلْإِنجِيلُ=and the Injeel | إِلَّا=except | مِنۢ بَعْدِهِۦٓ‌ۚ=after him? | أَفَلَا=Then why donâ€™t | تَعْقِلُونَ=you use your intellect?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "according to the reported occasion of revelation preserved by al-Jalalayn, al-Qurtubi, and al-Baghawi, both the Jews and the Christians each claimed Ibrahim as belonging to their own religion" — attribution verified. Al-Jalalayn: "قال اليهود: إبراهيم يهودي ونحن على دينه، وقالت النصارى كذلك"; al-Qurtubi: "دعوى كل فريق من اليهود والنصارى أن إبراهيم كان على دينه"; al-Baghawi confirms same.
+- [PASS] "تُحَآجُّونَ Form III" — correct. Root ح-ج-ج, Form III stem حَاجَّ (ḥājja), imperfect 2mp تُحَاجُّونَ. The reciprocal/mutual-combat gloss for Form III is lexically sound and the examples (qātala, sābaqa) are accurate Form III reciprocal verbs.
+- [PASS] "أُنزِلَتِ Form IV passive" — correct. Form IV أَنزَلَ → passive أُنزِلَ. ✓
+- [PASS] "one of its words has had a letter quietly removed" — refers to لِمَ. Verified by al-Qurtubi explicitly: "الأصل 'لما' فحذفت الألف فرقا بين الاستفهام والخبر" (the origin is limā, alif dropped to distinguish interrogation from declarative). The reflection promises to explain this later and the underlying claim is accurate.
+- [PASS] "The same three letters — ḥ-j-j — give us the word Ḥajj" — lexically true. The reflection explicitly marks this as "a contemplative resonance rather than a grammatical claim," which is correct hedging. No overreach.
+- [NOTE — unverifiable from provided data] "in the aftermath of the Christian delegation of Najran" — this is standard classical tafsir context for Aal-Imran's opening but is not confirmed in the four reference excerpts provided. It is not refuted by them either. Cannot flag as error; flagging as unverified against *this* reference set.
+
+SUMMARY: All morphological claims are accurate, tafsir attributions match the provided sources verbatim, and the one speculative connection (Ḥajj/ḥujjah root resonance) is properly hedged as contemplative rather than grammatical — no errors found in the portion reviewed.

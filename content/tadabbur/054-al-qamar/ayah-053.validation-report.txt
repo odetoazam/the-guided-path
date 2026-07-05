@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/054-al-qamar/ayah-053.md
+Ayah: 54:53
+Date: 2026-06-10T08:10:20
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَكُلُّ=And every | صَغِيرٍ=small | وَكَبِيرٍ=and big | مُّسْتَطَرٌ=(is) written down.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "The small thing is named first because the small thing is the one you were planning to exempt" — and the entire taqdīm argument sustained across Part 1 — is presented with doctrinal confidence ("this is not decoration, it is data"; "a **pattern**") but none of the four classical sources provided comment on the significance of ṣaghīr preceding kabīr. More pointedly, al-Qurtubi's own explanatory gloss **reverses** the Quranic order: *"كل ذنب كبير وصغير"* (every great and small sin) — suggesting the classical tradition did not foreground this ordering as a theological signal. The rhetorical observation is linguistically plausible but is an interpretive extension, not an attested tafsir position.
+
+Everything else in the excerpt checks out:
+- Arabic text matches authentic source exactly ✓
+- *Mustaṭar* as Form VIII equivalent to passive Form I ("written") — confirmed by both al-Qurtubi (*"سطر يسطر سطرا كتب; واستطر مثله"*) and al-Baghawi (*"سطرت واستطرت وكتبت واكتتبت"*) ✓
+- Root س-ط-ر glossed as "to write in lines" — consistent with al-Qurtubi ✓
+- Surah context (54:52 → 54:53 → 54:54-55 sequence) accurate ✓
+- 18:49 pattern cite (*لَا يُغَادِرُ صَغِيرَةً وَلَا كَبِيرَةً*) — small before great, accurate ✓
+- 99:7 cite (atom's weight of good named first) — accurate ✓
+- "Four times" *laqad yassarnā* refrain (54:17, 22, 32, 40) — accurate ✓
+
+SUMMARY: The reflection is linguistically and contextually sound throughout; the single flag is the taqdīm argument (small-before-great as deliberate theological emphasis), which is stated as an established interpretive insight but lacks support in the provided classical sources — and is quietly contradicted by al-Qurtubi's own paraphrase reversing the order.

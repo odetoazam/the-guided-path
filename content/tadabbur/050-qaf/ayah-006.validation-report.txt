@@ -1,0 +1,40 @@
+Enhanced Validation Report
+File: content/tadabbur/050-qaf/ayah-006.md
+Ayah: 50:6
+Date: 2026-06-08T21:56:56
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَفَلَمْ=Then do not | يَنظُرُوٓاْ=they look | إِلَى=at | ٱلسَّمَآءِ=the sky | فَوْقَهُمْ=above them - | كَيْفَ=how | بَنَيْنَـٰهَا=We structured it | وَزَيَّنَّـٰهَا=and adorned it | وَمَا=and not | لَهَا=for it | مِن=any | فُرُوجٍ=rifts?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+**VERDICT: PASS**
+
+**ISSUES:**
+- No genuine errors found in the provided excerpt.
+
+Verification trail:
+
+1. **Qurṭubī attribution — CONFIRMED.** The reflection attributes *naẓar al-iʿtibār wa-t-tafakkur* to al-Qurṭubī. The provided source reads verbatim: "نظر اعتبار وتفكر" — exact match, correct attribution.
+
+2. **naẓar vs. raʾā distinction — SOUND.** The claim that naẓar (ن-ظ-ر) denotes directed/intentional gaze rather than passive optical reception is lexically attested and consistent with all four tafsir sources, which gloss the verb as deliberate contemplation (*iʿtibār*, *tafakkur*, *muʿtabirīn bi-ʿuqūlihim*).
+
+3. **furūj = "cracks/rifts" — CONFIRMED.** All four sources gloss as شقوق / فتوق / صدوع. Translation as "crack" is within the documented semantic range.
+
+4. **Verb form claim (zayyannā = Form II; banaynā = Form I) — CORRECT.** Consistent with standard morphology; no issue.
+
+5. **Passage context (50:3: "dhālika rajʿun baʿīd") — ACCURATE.** The framing of the disbelievers' objection is correctly cited.
+
+6. **afalam particle breakdown (hamza + fa + lam) — STANDARD.** Uncontroversial Arabic grammar; no issue.
+
+**SUMMARY:** All verifiable claims in this excerpt are accurate and well-grounded in the provided reference data; no errors, misattributions, or overstated positions were found.

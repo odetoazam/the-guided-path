@@ -1,0 +1,40 @@
+Enhanced Validation Report
+File: content/tadabbur/035-fatir/ayahs-033-035.md
+Ayah: 35:33
+Date: 2026-06-05T00:41:42
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: جَنَّـٰتُ=Gardens | عَدْنٍ=(of) Eternity, | يَدْخُلُونَهَا=they will enter them. | يُحَلَّوْنَ=They will be adorned | فِيهَا=therein | مِنْ=with | أَسَاوِرَ=bracelets | مِن=of | ذَهَبٍ=gold | وَلُؤْلُؤًاۖ=and pearls, | وَلِبَاسُهُمْ=and their garments | فِيهَا=therein | حَرِيرٌ=(will be of) silk.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No flaggable errors found in the 8,000-character excerpt.
+
+Supporting checks:
+
+**يُحَلَّوْنَ analysis** — The reflection correctly identifies this as passive Form II of root ح-ل-ي, translating the passive as "they are adorned." All four tafsir sources (Jalalayn: يُحلَّون, Baghawi: يحلون فيها, Muyassar: يُحلَّون فيها الأساور) confirm the passive construction. The Form II denominative explanation ("takes a noun 'ornament,' turns it into an action") is a recognized pedagogical description of this form — not an error.
+
+**ذ-ه-ب root connection (ذَهَب "gold" / أَذْهَبَ "took away")** — The reflection calls this "morphologically confirmed in the Leeds corpus and standard lexica." The root connection is real and standard in classical Arabic lexicography (Lisān al-ʿArab lists ذَهَب [gold] under root ذ-ه-ب; أَذْهَبَ is its Form IV causative). Cannot verify the Leeds corpus claim specifically from the provided reference data, but the root claim itself is not erroneous.
+
+**Three categories in 35:32 (ẓālimun li-nafsih / muqtaṣid / sābiq)** — Accurately described. Al-Baghawi confirms "the three kinds" (الأصناف الثلاثة) enter these gardens.
+
+**جَنَّات عَدْن as "Gardens of perpetual abode"** — Al-Muyassar: *جنات إقامة دائمة*. Consistent with the reflection's translation.
+
+**أَسَاوِر, لُؤْلُؤ, حَرِير** — All three lexical identifications match word-by-word reference and all four tafsir sources exactly.
+
+**nāʾib al-fāʿil explanation** — Standard Arabic grammar; no error.
+
+SUMMARY: The excerpt is linguistically precise, all morphological claims are grounded in classical lexica, and no scholar positions are misattributed or overstated.

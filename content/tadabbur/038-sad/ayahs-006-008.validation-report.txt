@@ -1,0 +1,40 @@
+Enhanced Validation Report
+File: content/tadabbur/038-sad/ayahs-006-008.md
+Ayah: 38:6
+Date: 2026-06-06T00:41:05
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَٱنطَلَقَ=And went forth | ٱلْمَلَأُ=the chiefs | مِنْهُمْ=among them | أَنِ=that, | ٱمْشُواْ=`Continue, | وَٱصْبِرُواْ=and be patient | عَلَىٰٓ=over | ءَالِهَتِكُمْ‌ۖ=your gods. | إِنَّ=Indeed, | هَـٰذَا=this | لَشَىْءٌ=(is) certainly a thing | يُرَادُ=intended.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate errors found in the analyzed portion (38:6, first ~8000 chars through Part One Element Two opening).
+
+Specific checks performed:
+
+**Form VII claim for *anṭalaqa***: ACCURATE. *Inṭalaqa* (انطلق) is correctly identified as Form VII (*infaʿala* pattern). The muṭāwaʿa characterization — "a thing yielding to a force" — is standard classical Arabic grammar. The example *infataḥa* (Form VII of *f-t-ḥ*) is also correct.
+
+**Al-Qurṭubī attribution**: ACCURATE. The reflection quotes: *"al-inṭilāq al-dhahāb bi-surʿa."* The reference reads verbatim: «والانطلاق الذهاب بسرعة». Direct match. No distortion.
+
+**Contextual claim (Abū Ṭālib's home)**: CORROBORATED. Al-Jalalayn: «من مجلس اجتماعهم عند أبي طالب»; Al-Baghawi: «انطلقوا من مجلسهم الذي كانوا فيه عند أبي طالب». The reflection correctly hedges with "some of the narrations."
+
+**"Qūlū lā ilāha illā Allāh" as the ask**: CORROBORATED by Al-Jalalayn's asbab al-nuzul note.
+
+**Root family for *ṭ-l-q*** (*ṭalāq*, *ṭalīq*, *inṭilāq* of an arrow): Standard lexical facts, attested in classical dictionaries.
+
+**Sabr inversion as literary observation**: Correctly framed as reflection, not overstated as a tafsir position.
+
+SUMMARY: The analyzed portion is linguistically and source-referentially sound — every attributed claim is verified against the provided tafsir, and interpretive extensions are clearly signaled as such rather than stated as documented fact.

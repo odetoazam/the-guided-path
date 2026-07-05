@@ -1,0 +1,28 @@
+Enhanced Validation Report
+File: content/tadabbur/049-al-hujurat/ayah-016.md
+Ayah: 49:16
+Date: 2026-06-08T18:41:32
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: قُلْ=Say, | أَتُعَلِّمُونَ=`Will you acquaint | ٱللَّهَ=Allah | بِدِينِكُمْ=with your religion | وَٱللَّهُ=while Allah | يَعْلَمُ=knows | مَا=what | فِى=(is) in | ٱلسَّمَـٰوَٲتِ=the heavens | وَمَا=and what | فِى=(is) in | ٱلْأَرْضِ‌ۚ=the earth. | وَٱللَّهُ=And Allah | بِكُلِّ=of every | شَىْءٍ=thing | عَلِيمٌ=(is) All-Knower.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Al-Jalālayn and al-Baghawī both note that ʿallama here carries the specific sense of إعلام (iʿlām)" — Al-Baghawī explicitly uses إعلام (✓), but Al-Jalālayn uses إشعار (*iʿlām* and *ishʿār* are semantically adjacent but distinct). The Jalalayn text reads: *"mḍaʿʿaf ʿilm bi-maʿnā shaʿara, ay a-tushʿirūhu"* — the operative term is إشعار, not إعلام. The frontmatter morphology comment correctly records both (إعلام/إشعار per al-Jalalayn and al-Baghawi), but the body text collapses both scholars under إعلام alone, overstating the Jalalayn position. Minor but a real conflation.
+
+- [MODERATE] "The verse just before this one (49:17) will name it exactly — they regard their entry into Islam as a favor they have done, a mann" — 49:17 comes *after* 49:16, not before it. The content attributed to 49:17 (the *mann*/favor dynamic) is correct; this is a directional error in the verse numbering reference, not a theological one. Nonetheless it is a factual mistake about sequence that a reader would notice.
+
+SUMMARY: Core morphological analysis (Form II as informing, al-Baghawī's *lā yaḥtāju ilā ikhbārikum*, the triple ع-ل-م root) is well-grounded and accurately sourced; two moderate errors require correction — the Jalalayn attribution should specify إشعار not إعلام, and the 49:17 reference should read "the verse just *after* this one."

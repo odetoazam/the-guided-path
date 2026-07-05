@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/034-saba/ayah-015.md
+Ayah: 34:15
+Date: 2026-05-15T14:17:03
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: لَقَدْ=Certainly, | كَانَ=(there) was | لِسَبَإٍ=for Saba | فِى=in | مَسْكَنِهِمْ=their dwelling place | ءَايَةٌۖ=a sign: | جَنَّتَانِ=Two gardens | عَن=on | يَمِينٍ=(the) right | وَشِمَالٍۖ=and (on the) left. | كُلُواْ=`Eat | مِن=from | رِّزْقِ=(the) provision | رَبِّكُمْ=(of) your Lord | وَٱشْكُرُواْ=and be grateful | لَهُۚۥ=to Him. | بَلْدَةٌ=A land | طَيِّبَةٌ=good | وَرَبٌّ=and a Lord | غَفُورٌ=Oft-Forgiving.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Classical commentators preserve descriptions of a woman walking through Sabaʾ with a basket on her head — and by the end of her journey, the basket would be full of fruit" — cannot be verified from any of the four provided tafsir excerpts. None of Al-Jalalayn, Al-Muyassar, the Al-Qurtubi excerpt, or Al-Baghawi contain this anecdote. The reflection attributes it to "classical commentators" as established fact; that attribution cannot be confirmed against the supplied reference data.
+
+- [MODERATE] "A stranger could walk into Sabaʾ with lice in his clothes — and the lice would die from the purity of the air" — same problem. Not present in any provided source. The Al-Jalalayn excerpt gives the pest-free list (سباخ، بعوضة، ذبابة، برغوث، عقرب) but this particular lice detail is absent from all four sources provided.
+
+- [LOW] The reflection renders Al-Jalalayn's pest-free list as "no marshes, no mosquitoes, no flies, no fleas, no scorpions, **no snakes**." The provided Al-Jalalayn text ends mid-sentence at و after عقرب — snakes are unconfirmed from the supplied excerpt. May be accurate from the full text, but cannot be verified here.
+
+Everything else is clean: Arabic text matches the authentic, word-by-word glosses are exact, root analyses (Ayy, s-k-n → sakīnah, $kr, jnn) are lexically accurate, the 34:13 cross-reference is correctly quoted, and the dual/*jannatān* grammatical observation is linguistically sound.
+
+SUMMARY: No critical errors; two MODERATE flags for historical anecdotes ("woman with basket," "lice in clothes") attributed to "classical commentators" but absent from all four provided tafsir sources — verify against Al-Tabari or the full Al-Qurtubi before publishing.

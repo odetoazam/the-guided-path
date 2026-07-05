@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/047-muhammad/ayah-007.md
+Ayah: 47:7
+Date: 2026-06-08T10:05:32
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ=O you who believe! | إِن=If | تَنصُرُواْ=you help | ٱللَّهَ=Allah, | يَنصُرْكُمْ=He will help you | وَيُثَبِّتْ=and make firm | أَقْدَامَكُمْ=your feet.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- None identified in the provided excerpt.
+
+Supporting checks:
+- **Tafsir attributions accurate**: al-Jalālayn and al-Baghawī both supply *ʿalā ʿaduwwikum* — confirmed verbatim in the reference data ("ينصركم على عدوكم"). al-Muyassar's plural "over your enemies" (*ʿalā aʿdāʾikum*) also confirmed.
+- **Root analysis correct**: nūn-ṣād-rā' (ن ص ر) as the shared root of *tansurū* and *yansurkum* is accurate; Form I for both, Form II for *yuthabbit* — all match Leeds corpus claims in the frontmatter.
+- **āmanū Form IV**: Correct — آمَنَ is Form IV from root أمن.
+- **"Surat al-Qitāl" as alternate name**: Attested alternate name for Surah 47, not an invented claim.
+- **Hadith qudsi on divine self-sufficiency**: Content matches Sahih Muslim 2577 accurately; framed as "a sacred narration" without over-attribution.
+- **Conditional grammar terms (sharṭ / jawāb)**: Correct Arabic grammatical terminology.
+- **"The verb has no object" observation**: Technically accurate — يَنصُرْكُمْ names the recipient (you) but omits "against what/whom"; the reference tafsirs confirm they supply this themselves.
+- **Theological extensions** (child-and-box analogy, ocean metaphor, "disguised rescue"): All framed as reflective interpretation, not presented as documented tafsir positions.
+
+SUMMARY: Every verifiable factual claim — tafsir attributions, root analysis, verb forms, grammatical terminology, and hadith content — checks out against the supplied reference data; interpretive extensions are properly framed as such.

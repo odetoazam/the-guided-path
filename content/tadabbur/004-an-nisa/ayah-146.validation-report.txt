@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/004-an-nisa/ayah-146.md
+Ayah: 4:146
+Date: 2026-06-25T06:31:02
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِلَّا=Except | ٱلَّذِينَ=those who | تَابُواْ=repent | وَأَصْلَحُواْ=and correct (themselves) | وَٱعْتَصَمُواْ=and hold fast | بِٱللَّهِ=to Allah | وَأَخْلَصُواْ=and are sincere | دِينَهُمْ=(in) their religion | لِلَّهِ=for Allah, | فَأُوْلَـٰٓئِكَ=then those (will be) | مَعَ=with | ٱلْمُؤْمِنِينَ‌ۖ=the believers. | وَسَوْفَ=And soon | يُؤْتِ ٱللَّهُ=Allah will give | ٱلْمُؤْمِنِينَ=the believers | أَجْرًا عَظِيمًا=a great reward.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "مَعَ ٱلْمُؤْمِنِينَ, *with* the believers. Not *of* them. *With* them." — The reflection presents the مَعَ/مِن distinction as grammatically settled and theologically significant (implying a lesser or distinct status), but Baghawi explicitly cites al-Farrāʾ: **"قال الفراء: من المؤمنين"** — al-Farrāʾ read مَعَ here as equivalent to مِن ("of the believers"), not a subordinate relationship. The reflection's emphatic "Not of them" overstates the case; this is a debated grammatical point, not a resolved one. The literary observation that follows (hypocrite-identity dissolving into "the believers") remains valid, but the bold مَعَ-versus-مِن distinction should be softened or attributed as one reading.
+
+PASSING notes (no flag needed, but confirming accuracy):
+- Verb form analysis in frontmatter is correct: تابوا (Form I), أصلحوا (IV), اعتصموا (VIII), أخلصوا (IV), يؤت (IV).
+- Qurtubi attribution is faithful. The quote "and otherwise he is not a repentant one" directly maps to **"وإلا فليس بتائب"** and the four conditions accurately summarize **"أن يصلح في قوله وفعله، ويعتصم بالله أي يجعله ملجأ ومعاذا، ويخلص دينه لله"**.
+- The istithnāʾ (إِلَّا) analysis is structurally and grammatically sound; the claim that the exception reaches *into* the condemned group rather than opening a fresh clause is consistent with how all four tafsir sources treat it as an exemption from the verdict of 4:145.
+- The description of 4:142–143 symptoms (lazy prayer, مُذَبْذَبِينَ wavering) is accurate.
+- Jalalayn's gloss on اعتصموا as "وثقوا بالله" (they trusted/relied on Allah) is consistent with the reflection's "held fast to Allah."
+
+SUMMARY: One MODERATE issue — the emphatic مَعَ-versus-مِن distinction is presented as settled when al-Farrāʾ (cited in Baghawi) explicitly equated the two; everything else is well-grounded in the provided reference data.

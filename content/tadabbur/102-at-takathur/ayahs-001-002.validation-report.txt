@@ -1,0 +1,26 @@
+Enhanced Validation Report
+File: content/tadabbur/102-at-takathur/ayahs-001-002.md
+Ayah: 102:1
+Date: 2026-06-20T07:18:27
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَلْهَـٰكُمُ=Diverts you | ٱلتَّكَاثُرُ=the competition to increase
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "The Jalalayn glosses ألهاكم simply: شغلكم — 'it preoccupied you'... And al-Baghawi adds the crucial second half that the grammar implies but does not yet name: it preoccupied you ʿan ṭāʿati rabbikum — away from your Lord" — The Jalalayn's full gloss is *شغلكم **عن طاعة الله*** — it already contains the directional object "away from obedience to Allah." The reflection selectively quotes only *شغلكم* from the Jalalayn, then frames Baghawi as the source adding the "away from" element. Baghawi's phrasing (*عن طاعة ربكم*) is correctly quoted, but claiming he *adds* what the Jalalayn allegedly omits is a misrepresentation of the Jalalayn text.
+
+SUMMARY: The reflection is linguistically sound (root ل-ه-و, Form IV causative analysis, Form VI reciprocal verbal noun for التكاثر, grammatical subject/object reversal, Makki/Madani attribution) and all Baghawi/Muyassar/Qurtubi references check out, but a partial Jalalayn quotation creates a false scholarly contrast — the "away from your Lord" element is present in both Jalalayn and Baghawi, not Baghawi alone.

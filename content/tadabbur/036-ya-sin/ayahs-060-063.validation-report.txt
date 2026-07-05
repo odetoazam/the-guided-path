@@ -1,0 +1,38 @@
+Enhanced Validation Report
+File: content/tadabbur/036-ya-sin/ayahs-060-063.md
+Ayah: 36:60
+Date: 2026-06-05T06:38:25
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ۞ أَلَمْ=Did not | أَعْهَدْ=I enjoin | إِلَيْكُمْ=upon you | يَـٰبَنِىٓ ءَادَمَ=O Children of Adam! | أَن=That | لَّا=(do) not | تَعْبُدُواْ=worship | ٱلشَّيْطَـٰنَ‌ۖ=the Shaitaan, | إِنَّهُۥ=indeed, he | لَكُمْ=(is) for you | عَدُوٌّ=an enemy | مُّبِينٌ=clear,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No CRITICAL or MODERATE issues found.
+
+Supporting observations on the cited material:
+
+- "Al-Jalālayn glosses it plainly: *āmurukum*" — confirmed: «ألم أعهد إليكم» **آمركم** in the provided Jalālayn text. Accurate.
+- "Al-Baghawī: *alam āmurkum*" — confirmed: ألم **آمركم** يا بني آدم. Accurate.
+- "Al-Qurṭubī: *al-ʿahd hunā bi-maʿnā al-waṣiyya*" — confirmed verbatim: **العهد هنا بمعنى الوصية**. Accurate.
+- "Al-Muyassar: *alam awṣikum ʿalā alsinati rusulī*" — confirmed: **ألم أوصكم على ألسنة رسلي**. Accurate.
+- Root identification ʿ-h-d (ʿayn-hā-dāl) for أَعْهَدْ — correct.
+- Worship-as-obedience frame — grounded: all four tafsirs gloss تَعْبُدُوا الشَّيْطَانَ as تطيعوه (obey him), which the reflection explicitly builds its core argument on.
+- The 7:172 primordial covenant is presented as a "second angle" without claiming the provided tafsirs confirm it — appropriately hedged.
+
+**Scope note**: Reference data covers ayah 60 only; ayahs 61–63 content in the reflection could not be validated against the provided tafsir excerpts. Those sections should be validated separately before marking `validated: true`.
+
+SUMMARY: All four tafsir citations are quoted accurately, root analysis is correct, and interpretive extensions are properly flagged as such — no factual errors detected in the portion verifiable from the supplied reference data.

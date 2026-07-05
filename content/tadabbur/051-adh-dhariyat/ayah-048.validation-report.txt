@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/051-adh-dhariyat/ayah-048.md
+Ayah: 51:48
+Date: 2026-06-09T02:58:09
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَٱلْأَرْضَ=And the earth, | فَرَشْنَـٰهَا=We have spread it, | فَنِعْمَ=how excellent | ٱلْمَـٰهِدُونَ=(are) the Spreaders.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: CRITICAL
+
+ISSUES:
+- [CRITICAL] "speaking *'min al-mahdi ṣabiyyā,'* 'from the cradle, as a child' (19:29)" — misquotation of the Quran. The actual text of 19:29 reads **فِي الْمَهْدِ صَبِيًّا** (*fī al-mahdi ṣabiyyā*), with the preposition *fī* (in), not *min* (from). The derived translation "from the cradle" is wrong; the correct rendering is "in the cradle." The same error appears in 3:46 (*fī al-mahdi wa kahlan*) — neither Quranic instance uses *min*. A Quranic text error is always CRITICAL regardless of how incidental the passage feels.
+
+No further issues. All other claims check out against the provided reference data:
+- Root ف-ر-ش → *firāsh* (bedding) is lexically attested and the semantic point about *farashnāhā* carrying "bed/furnishing" connotation is sound.
+- Root م-ه-د → *mahd* (cradle) is correct; the active participle *al-māhidūn* from this root is accurately parsed.
+- The tafsir synthesis (Jalālayn: *mahhadnāhā*; Muyassar: *firāshan li-l-khalq*; Baghawi: *basaṭnāhā wa mahhadnāhā*; Ibn ʿAbbās via Baghawi: *nuʿma mā waṭṭaʾtu li-ʿibādī*) aligns with the reflection's central argument without overstating any single scholar's position.
+- Contextual framing (51:47 → 51:48 → 51:49 → 51:50) is accurate.
+- Plural of Majesty treatment is correct per Jalālayn's explicit *naḥnu*.
+
+SUMMARY: One CRITICAL error — a misquoted Quranic preposition (*min* for *fī*) in the 19:29 cross-reference; fix the Arabic and the translation before publishing.

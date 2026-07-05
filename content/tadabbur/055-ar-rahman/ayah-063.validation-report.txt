@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/055-ar-rahman/ayah-063.md
+Ayah: 55:63
+Date: 2026-06-12T09:09:01
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَبِأَىِّ=So which | ءَالَآءِ=(of the) favors | رَبِّكُمَا=(of) your Lord | تُكَذِّبَانِ=will you both deny?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "a narration that al-Qurtubi brings in his commentary — reported through al-Tirmidhi — the Prophet ﷺ said that when he recited Surah Ar-Rahman to the jinn, they gave a better response than you (humans) did" — confirmed by the Qurtubi reference provided: «وخرجه الترمذي وفيه "للجن أحسن منكم ردا"». Attribution chain is accurate.
+- [PASS] "خطاب للإنس والجن" dual address — Qurtubi explicitly confirms this: «خطاب للإنس والجن». The reflection's claim that تُكَذِّبَانِ addresses both jinn and mankind is correct.
+- [PASS] Form II morphology of تُكَذِّبَانِ — root k-dh-b, doubled middle radical, tafʿīl pattern turning outward onto an object. Grammatically accurate; no distortion.
+- [PASS] "and besides those two, two other gardens" as the immediate antecedent of ayah 63 — confirmed by Muyassar: «ومن دون الجنتين السابقتين جنتان أخريان. فبأي نِعَم ربكما...»
+- [PASS] The ālā' / niʿmah distinction framed as "in the texture the classical usage gives it" — appropriately hedged. Consistent with Rāghib's treatment of ālā' as manifest/displayed bounty, cited in the frontmatter note. Not overstated as purely definitional fact.
+- [NOTE, not a flag] The specific wording of the jinn's response ("Not one of Your favors, our Lord, do we deny — so all praise be to You") is not quoted in the Qurtubi excerpt provided. The hadith exists (Tirmidhi) and this wording is attested in the fuller narration, but it cannot be verified against the data supplied here.
+
+SUMMARY: All verifiable claims — dual address, Qurtubi/Tirmidhi narration, morphological analysis, contextual placement after ayah 62, and translation — align precisely with the reference data; no errors found.

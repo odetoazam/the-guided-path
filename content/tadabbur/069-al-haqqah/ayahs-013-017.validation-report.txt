@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/069-al-haqqah/ayahs-013-017.md
+Ayah: 69:13
+Date: 2026-06-15T00:36:39
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَإِذَا=Then when | نُفِخَ=is blown | فِى=in | ٱلصُّورِ=the trumpet - | نَفْخَةٌ=a blast | وَٲحِدَةٌ=single.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+**VERDICT: PASS**
+
+**ISSUES:**
+- [PASS] Passive voice analysis (nufikha, ḥumilat, dukkatā) — all three verbs are correctly identified as passive (majhūl) and the grammatical observation that "the doer is hidden" is linguistically accurate.
+- [PASS] ism al-marra framing for نَفْخَةٌ — lexically correct; the tā' marbūṭa on a verb's maṣdar to mark a single occurrence is a well-documented Arabic morphological pattern.
+- [PASS] "Thamūd, who were destroyed by a thunderous blast" — 69:5 uses al-ṭāghiyah, which classical commentators render as the overwhelming cry/thunderbolt; "thunderous blast" is within the attested range.
+- [PASS] "ʿĀd, swept away by a screaming wind for seven nights and eight days, left lying hollow like the fallen trunks of palm trees" — 69:6-7 confirms rīḥ ṣarṣar ʿātiyah, seven nights/eight days duration, and the hollow palm-trunk simile exactly.
+- [PASS] Makkan classification and the triple-opening structure (Al-Haqqah / Mā-l-Haqqah / Wa mā adrāka…) — accurate.
+- [OBSERVE, not flagged] The framing "the instant the world ends" implicitly leans toward the first-blow reading. Muyassar, Baghawi, and Ibn Abbas (via Qurtubi) support this; Jalalayn says this is the *second* blow (للفصل بين الخلائق). The reflection does not make an explicit claim about first vs. second, so no error — but the ikhtilaf is real and worth a note if the discussion continues further.
+
+**SUMMARY:** The 8,000 characters provided contain no factual errors; every linguistic claim is grounded in attested Arabic grammar, and every narrative detail about the destroyed nations matches the Quranic text directly — the only open item is a tacit interpretive lean on first vs. second blow that doesn't rise to a flaggable claim.

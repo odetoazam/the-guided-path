@@ -1,0 +1,40 @@
+Enhanced Validation Report
+File: content/tadabbur/067-al-mulk/ayahs-020-021.md
+Ayah: 67:20
+Date: 2026-06-13T13:58:17
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَمَّنْ=Who is | هَـٰذَا=this, | ٱلَّذِى=the one, | هُوَ=he | جُندٌ=(is) an army | لَّكُمْ=for you | يَنصُرُكُم=to help you | مِّن دُونِ=besides | ٱلرَّحْمَـٰنِ‌ۚ=the Most Gracious? | إِنِ=Not | ٱلْكَـٰفِرُونَ=(are) the disbelievers | إِلَّا=but | فِى=in | غُرُورٍ=delusion.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- None identified. Every verifiable claim in the excerpt maps cleanly to the reference data.
+
+**Specific checks performed:**
+
+- **Istifhām inkārī attribution to al-Baghawi:** "استفهام إنكار" — al-Baghawi's text reads exactly that: *"استفهام إنكار"*. Attribution confirmed.
+
+- **Al-Qurtubi quotation** — "there is no army for you that can repel from you the punishment of Allah besides the Most Merciful" maps precisely to al-Qurtubi's: *"لا جند لكم يدفع عنكم عذاب الله من دون الرحمن."* Accurate.
+
+- **أَمَّنْ parsed as أَمْ + مَنْ** — Standard Arabic grammar; al-Jalalayn's *iʿrāb* treats «أمَّن» as mubtadaʾ with «هذا» as khabar, consistent with the connective-interrogative compound analysis the reflection presents.
+
+- **Connection to 67:19 (birds verse)** — al-Muyassar's commentary moves directly from the birds held aloft by the Merciful to the rhetorical challenge of this verse, confirming the structural link the reflection describes.
+
+- **Arabic text in the frontmatter** — Minor typographic diacritic variants (ٌۭ vs ٌ) relative to the canonical text; not a content error.
+
+- **جُند as "army/force"** — al-Qurtubi quotes Ibn Abbas: *"حزب ومنعة"* (party and protection); al-Baghawi: *"منعة"* (strength/force). The reflection's rendering as "army" is within the established semantic range.
+
+SUMMARY: The excerpt's linguistic analysis, rhetorical framing, and scholar attributions are all directly corroborated by the four tafsir sources; no factual errors detected in the portion reviewed.

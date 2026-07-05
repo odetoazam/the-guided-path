@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/067-al-mulk/ayahs-028-029.md
+Ayah: 67:28
+Date: 2026-06-13T13:52:26
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: قُلْ=Say, | أَرَءَيْتُمْ=`Have you seen, | إِنْ=if | أَهْلَكَنِىَ ٱللَّهُ=Allah destroys me | وَمَن=and whoever | مَّعِىَ=(is) with me | أَوْ=or | رَحِمَنَا=have mercy upon us, | فَمَن=then who | يُجِيرُ=(can) protect | ٱلْكَـٰفِرِينَ=the disbelievers | مِنْ=from | عَذَابٍ=a punishment | أَلِيمٍ=painful.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "Al-Qurtubi and al-Baghawi both tell us what the Meccans were doing in this period: they were wishing for his death." — Directly confirmed. Al-Qurtubi: *"وكانوا يتمنون موت محمد ﷺ"*; Al-Baghawi: *"لمشركي مكة الذين يتمنون [هلاكك]"*. Attribution is accurate and not inverted.
+- [PASS] Reference to 52:30 as the Meccan "poet / await the calamity of time" citation — Al-Qurtubi quotes this verse verbatim (*"أم يقولون شاعر نتربص به ريب المنون"*) in his tafsir for this very ayah. The contextual deployment is sound.
+- [PASS] "*Ahlakanī* — Form IV causative, subject is Allah" — linguistically accurate. *Ahlaka* is Form IV of *h-l-k*, causative valence confirmed. Al-Muyassar renders it *"أماتني الله"* (Allah causes me to die), corroborating the agent-centered framing. The contrast with the Meccan *rayba al-manūn* framing is a valid and well-supported interpretive move.
+- [PASS] "*Ara'aytum* — settled Arabic idiom meaning 'have you considered?' not literal sight" — lexically standard; the word-by-word marks it with a backtick indicating idiomatic use. The reflection does not overclaim.
+- [ADVISORY — not an error] "They were not, in their hearts, sure he was a liar" — presented as psychological reconstruction, not as a tafsir citation, so it doesn't cross into MODERATE territory. But no classical source in the provided data supports or refutes this inner-state claim; it should remain clearly framed as inference if it appears in a published piece.
+- [UNVALIDATABLE — content cut off] The *raḥimanā* analysis and the entire ayah 29 section (*huwa r-Raḥmān*, *tawakkalnā*, *ḍalāl mubīn*) are not present in the submitted text. Those sections require a separate validation pass before publication.
+
+SUMMARY: The submitted portion is accurate and well-grounded against the reference data — morphology, scholar attributions, and contextual framing all hold; the piece cannot be fully cleared for publication until the truncated second half (ayah 29 analysis) is validated.

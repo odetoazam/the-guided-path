@@ -1,0 +1,30 @@
+Enhanced Validation Report
+File: content/tadabbur/050-qaf/ayah-044.md
+Ayah: 50:44
+Date: 2026-06-08T20:43:03
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَوْمَ=(The) Day | تَشَقَّقُ=will split | ٱلْأَرْضُ=the earth | عَنْهُمْ=from them, | سِرَاعًا‌ۚ=hurrying. | ذَٲلِكَ=That | حَشْرٌ=(is) a gathering | عَلَيْنَا=for Us | يَسِيرٌ=easy.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR NOTE] "one of its core jobs is exactly this: to make a verb reflexive and gradual — the action turning back on the thing itself, happening to it and through it, often bit by bit" — "gradual/bit by bit" is one semantic register of Form V but not a universal defining feature; it applies contextually, not categorically. The Jalalayn confirms the form (تشقق بتخفيف الشين...بإدغام التاء الثانية) without characterizing it as gradual. This is a pedagogical simplification, not an error, but a scholar would want the hedge "often" to do more work than it does.
+
+- [VERIFY EXTERNALLY] "the two angels seated on their shoulders" (describing 50:17–18) — the Quran does use قعيد (stationed/seated, 50:17) but "on their shoulders" is a tafsir/hadith elaboration not present in the ayah text itself. Since this appears in the narrative overview rather than as a claim about 50:44, it does not affect the core reflection, but it is a minor unsourced addition.
+
+Both items are below the MODERATE threshold: the first is a defensible simplification flagged by "often," and the second is in a narrative framing passage rather than a doctrinal claim. No root errors, no inverted attributions, no Arabic text divergence from the authentic source. The Form V analysis is confirmed by Jalalayn's explicit discussion of the form; سراعًا as plural ḥāl of سريع is confirmed by both Jalalayn ("جمع سريع حال من مقدر") and Baghawi ("جمع سريع"); the baʿīd/yasīr structural reversal is linguistically sound and consistent with the surah's internal logic.
+
+SUMMARY: The reflection's linguistic and tafsir claims are well-grounded; two peripheral details merit softening but neither rises to a scholarly error.

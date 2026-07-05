@@ -1,0 +1,37 @@
+Enhanced Validation Report
+File: content/tadabbur/102-at-takathur/ayah-008.md
+Ayah: 102:8
+Date: 2026-06-20T07:28:43
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ثُمَّ=Then, | لَتُسْــَٔلُنَّ=surely you will be asked | يَوْمَئِذٍ=that Day | عَنِ=about | ٱلنَّعِيمِ=the pleasures.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [INFORMATIONAL] "The deletion of the questioner is itself a statement about *tawhīd*" — This interpretive bridge (omitted fā'il → tawhīd argument) is not found in Jalalayn, Baghawi, Qurtubi, or Muyassar as provided. It is a theologically coherent extension, and appropriate for the tadabbur genre, but should not be presented as a classical position. It is offered as the author's insight ("Here's what's remarkable"), so it reads as reflection rather than scholarship claim — no deduction, but worth monitoring in future drafts if the framing tightens.
+
+- [INFORMATIONAL] "The grammarians have a word for the one who is removed: *al-mahdhūf,* the omitted one" — Technically, *al-mahdhūf* is a general Arabic grammar term for any deleted element. The precise technical label for the deleted agent in a passive construction is *al-fā'il al-mahdhūf* or just the *fā'il* of the naibified sentence. The reflection's usage is a pedagogical simplification, not an error, and won't mislead readers.
+
+**Accurate items confirmed against reference data:**
+- Arabic text matches the authentic exactly ✓
+- **لَتُسْـَٔلُنَّ** correctly identified as passive — Jalalayn's grammatical note on nūn al-raf' deletion and the emphatic nūn confirms the passive form ✓
+- Root *sa'ala* (سأل) correctly identified ✓
+- Na'īm rendered as "comfort and ease" — within the attested semantic range (Jalalayn: health, free time, safety, food, drink; Ibn Masud via Baghawi: security and health) ✓
+- Surah escalation sequence (ayahs 1–7) quoted accurately with correct Arabic ✓
+- Nun al-tawkid in concepts list — confirmed by Jalalayn's grammatical analysis ✓
+- Passive voice spotlight analysis (subject becomes the scrutinized party) — standard Arabic rhetoric, correctly applied ✓
+
+SUMMARY: The reflection is linguistically precise and theologically grounded; the one creative extension (passive deletion as tawhīd statement) is appropriate for the tadabbur genre and framed as insight rather than documented fact.

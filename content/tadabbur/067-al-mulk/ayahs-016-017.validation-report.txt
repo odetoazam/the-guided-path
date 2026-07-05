@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/067-al-mulk/ayahs-016-017.md
+Ayah: 67:16
+Date: 2026-06-13T13:17:49
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ءَأَمِنتُم=Do you feel secure | مَّن=(from Him) Who | فِى=(is) in | ٱلسَّمَآءِ=the heaven | أَن=not | يَخْسِفَ=He will cause to swallow | بِكُمُ=you | ٱلْأَرْضَ=the earth | فَإِذَا=when | هِىَ=it | تَمُورُ=sways?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "root **ʾ-m-n**, a verb...in the **perfect tense**" — Correct. ءَأَمِنتُم is Form I (amina — to feel secure), perfect tense, 2nd person plural. The reflection correctly distinguishes this from Form IV āmana (to believe), and the semantic overlap between the two derivations is lexically attested.
+- [PASS] "*al-Muʾmin*, the Giver of security" as one of Allah's names — Correct. Attested in Quran 59:23.
+- [PASS] "*A-amintum* carries the sense: *Have you settled into security? Have you already made yourself safe?*" — Interpretive extension of the perfective aspect, but legitimate. Al-Muyassar renders it "هل أمنتم" supporting the settled/completed sense.
+- [PASS] "He called it **dhalūl** (67:15): tamed, docile, broken-in, like a camel made gentle enough for a child to ride" — Lexically accurate; dhalūl is a standard Arabic term for a tamed riding animal.
+- [PASS] Translation "He who is in the heaven will not cause the earth to swallow you, so that suddenly it sways" — Matches the word-by-word reference; does not over-commit theologically on "man fi's-samāʾ," consistent with Qurtubi and Baghawi reading it as referring to His authority and dominion rather than making a positional claim.
+- [PASS] *tamūr* rendered as "sways" — Within the attested range; Jalalayn has "تتحرك بكم" (moves with you), Baghawi has "تتحرك بأهلها" (moves with its people).
+- [NOTE — not flagged] The framing of ʾ-m-n as "the muscle of faith" is pedagogical metaphor, not a doctrinal claim; no issue.
+
+SUMMARY: The first 8,000 characters contain no factual errors in root analysis, verb morphology, Arabic text, translation, or tafsir-adjacent claims; all interpretive extensions are within the warrant of classical sources.

@@ -1,0 +1,38 @@
+Enhanced Validation Report
+File: content/tadabbur/034-saba/ayah-018.md
+Ayah: 34:18
+Date: 2026-05-18T01:39:38
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَجَعَلْنَا=And We made | بَيْنَهُمْ=between them | وَبَيْنَ=and between | ٱلْقُرَى=the towns | ٱلَّتِى=which | بَـٰرَكْنَا=We had blessed | فِيهَا=in it | قُرًى=towns | ظَـٰهِرَةً=visible. | وَقَدَّرْنَا=And We determined | فِيهَا=between them | ٱلسَّيْرَۖ=the journey. | سِيرُواْ=`Travel | فِيهَا=between them | لَيَالِىَ=(by) night | وَأَيَّامًا=and (by) day | ءَامِنِينَ=safely.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "Al-Baghawi reports that between Saba and Sham there ran a continuous chain of villages — by one tradition, four thousand seven hundred of them" — Accurate and appropriately hedged. Al-Baghawi: "وقيل: كانت قراهم أربعة آلاف وسبعمائة قرية متصلة من سب[أ]." Al-Qurtubi corroborates the figure. The "by one tradition" framing correctly mirrors Al-Baghawi's own "وقيل."
+
+- [PASS] "You took your midday nap in one village. You spent the night in another. You did not carry water from Yemen to Sham" — Directly sourced. Al-Baghawi: "يبيتون بقرية ويقيلون بأخرى وكانوا لا يحتاجون إلى حمل زاد." The specific mention of water (not just provisions) is confirmed by Al-Jalalayn: "لا يحتاجون فيه إلى حمل زاد وماء."
+
+- [PASS] "when you left one in the morning, the next was already visible on the horizon" — Al-Baghawi: "تظهر الثانية من الأولى لقربها منها." Accurate paraphrase.
+
+- [PASS] Definite/indefinite analysis of al-qurā vs. quran — Grammatically correct. First instance carries the definite article + relative clause (referring to the blessed towns of Sham); second is indefinite tanwīn (the waystations). The interpretive valence drawn from this distinction is exegetically warranted.
+
+- [PASS] Root ظ-ه-ر analysis — Lexically attested. The ẓuhr/ẓahr/ẓāhir derivations are standard, and the ẓāhir/bāṭin framing is classical Islamic epistemological vocabulary, not an invented extension.
+
+- [PASS] Form II (qaddarnā) / Form III (bāraknā) morphology claim — Confirmed by the word-by-word data. Both forms are correctly identified.
+
+- [UNVERIFIABLE — not flagged as error] "They are the same Saba whose queen visited Sulayman ﷺ centuries earlier" — Standard Islamic historical identification of the Sabaean kingdom with the Surah 27 narrative. Plausible but neither confirmed nor contradicted by the provided tafsir excerpts. Not a verifiable error; the claim is widely accepted and not contested by these sources.
+
+SUMMARY: The reflection is exegetically grounded, the classical source attributions are accurate, the grammatical analysis is sound, and the hedging on transmitted figures (4,700 villages) is appropriately calibrated — no errors warrant flagging.

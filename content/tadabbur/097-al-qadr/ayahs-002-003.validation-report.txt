@@ -1,0 +1,29 @@
+Enhanced Validation Report
+File: content/tadabbur/097-al-qadr/ayahs-002-003.md
+Ayah: 97:2
+Date: 2026-06-20T05:39:54
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَمَآ=And what | أَدْرَٮٰكَ=can make you know | مَا=what | لَيْلَةُ=(the) Night | ٱلْقَدْرِ=(of) Power (is)?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "al-Jalālayn reads our verse: he says wa mā adrāka mā laylatu-l-qadr is «تعظيم لشأنها وتعجيب منه»" — Accurately sourced. The Jalālayn text provided reads `تعظيم لشانها وتعجيب منه` (شانها without hamza vs. reflection's شأنها). This is a scribal/diacritic variant, not a semantic difference; شأن is the same word. Attribution and meaning are correct.
+- [PASS] "al-Muyassar makes the address explicit: wa mā adrāka — ayyuhā an-nabī — mā laylatu-l-qadr" — Verbatim match to the provided Muyassar text `وما أدراك -أيها النبي- ما ليلة القدر`. Accurate.
+- [PASS] "al-Qurṭubī preserves a precise observation from al-Farrāʾ, echoed by Sufyān: every single time the Qur'an says wa mā adrāka… Allah then proceeds to tell him… wa mā yudrīka… He did not tell him" — Directly attested in the provided Qurṭubī text: `كل ما في القرآن من قوله تعالى : وما أدراك فقد أدراه . وما كان من قوله : وما يدريك فلم يدره . وقاله سفيان`. Accurate on source, attribution, and both contrasted phrases.
+- [PASS] Form IV analysis of أَدْرَىٰكَ as causative-transitive ("to make someone know") — Consistent with the word-by-word reference (`can make you know`) and standard Arabic morphology. The root comment in the frontmatter (`<!-- morphology pruned: verb form IV of أدرى treated as causative-transitive per its lexical base -->`) correctly documents this.
+
+SUMMARY: Every verifiable claim in the visible text is accurately grounded in the provided tafsir and lexical data — no errors detected.

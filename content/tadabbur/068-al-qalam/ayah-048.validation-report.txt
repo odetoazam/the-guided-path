@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/068-al-qalam/ayah-048.md
+Ayah: 68:48
+Date: 2026-06-13T15:02:39
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَٱصْبِرْ=So be patient | لِحُكْمِ=for (the) decision | رَبِّكَ=(of) your Lord, | وَلَا=and (do) not | تَكُن=be | كَصَاحِبِ=like (the) companion | ٱلْحُوتِ=(of) the fish, | إِذْ=when | نَادَىٰ=he called out, | وَهُوَ=while he | مَكْظُومٌ=(was) distressed.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "نَادَىٰ is Form III (mufāʿala)" — Correct. Root ن-د-و/ي, Form III pattern فَاعَلَ yields نَادَى for this defective root class. Standard classical parsing.
+- [PASS] "مَكْظُومٌ is passive participle (ism mafʿūl) of كَظَمَ" — Correct morphology. Tafsirs confirm "مملوء غمًّا" (filled with grief), consistent with the suppressed/sealed-in meaning of كَظَمَ.
+- [PASS] The li- vs ʿalā preposition analysis — A legitimate Arabic grammatical observation. Not explicitly surfaced in the provided tafsir excerpts, but the distinction is defensible from classical grammar and does not contradict any source. Not an error.
+- [PASS] The four-angle rendering of al-Qurtubi (decree / mission / help / Qatada on rushing) — Verified verbatim against the provided Qurtubi text: القضاء, تبليغ الرسالة, ابن بحر/نصر, قتادة/لا تعجل. Accurate attribution.
+- [PASS] The abrogation note attributed to al-Qurtubi ("وقيل: إنه منسوخ بآية السيف") — Exact match to the provided Qurtubi text; the reflection correctly notes it as a minority held opinion.
+- [PASS] Yunus's failure framed as impatience / leaving before divine command — All four tafsirs converge on this: الضجر والعجلة (Jalalayn, Baghawi), غضبه وعدم صبره (Muyassar), الغضب (Qurtubi). The reflection reflects this accurately without overstating it as disbelief or betrayal.
+
+SUMMARY: All major linguistic, morphological, attribution, and theological claims are either directly verified against the provided reference data or represent defensible classical Arabic grammar; no factual errors detected.

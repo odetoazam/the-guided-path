@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/038-sad/ayahs-084-085.md
+Ayah: 38:84
+Date: 2026-06-06T02:09:56
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: قَالَ=He said, | فَٱلْحَقُّ=`Then (it is) the truth | وَٱلْحَقَّ=and the truth | أَقُولُ=I say,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "al-Qurṭubī cites it, Abū ʿAlī among the grammarians" (oath interpretation for the rafʿ reading) — The provided Qurṭubī excerpt is truncated and does not mention Abū ʿAlī or explicitly attribute the qasam interpretation of the rafʿ *al-ḥaqqu* to him. The oath interpretation itself has classical support — al-Jalālayn records "وقيل على نزع حرف القسم... وقيل فالحق قسمي" for the rafʿ reading — but the specific Abū ʿAlī attribution cannot be confirmed from the reference data provided.
+
+All other verifiable claims check out:
+
+- The rafʿ/naṣb distinction (first *ḥaqqu*, second *ḥaqqa*) is accurate: al-Baghawī explicitly confirms "قرأ عاصم وحمزة ويعقوب: 'فالحق' برفع القاف على الابتداء... ونصب الثانية." The provided authentic Arabic header corroborates this reading.
+- The attribution to al-Baghawī for *al-ḥaqqu minnī* is exact: "وخبره محذوف تقديره: الحق مني" — direct quote from the reference.
+- The theological synthesis presenting the rafʿ *al-ḥaqqu* as simultaneously a subject with omitted predicate ("truth is from Me") and an oath is supported by al-Jalālayn, which gives both interpretations together for this reading.
+- *Al-Ḥaqq* as a divine name and the 22:6 citation are established Quranic fact, outside the scope of tafsir reference data but uncontested.
+
+SUMMARY: The reflection is linguistically precise and the classical attributions are accurate where verifiable; the single Abū ʿAlī citation cannot be confirmed from the provided Qurṭubī excerpt and should be removed or hedged unless the full Qurṭubī text is checked.

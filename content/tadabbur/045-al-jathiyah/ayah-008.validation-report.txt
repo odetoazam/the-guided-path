@@ -1,0 +1,30 @@
+Enhanced Validation Report
+File: content/tadabbur/045-al-jathiyah/ayah-008.md
+Ayah: 45:8
+Date: 2026-06-08T04:19:54
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَسْمَعُ=Who hears | ءَايَـٰتِ=(the) Verses | ٱللَّهِ=(of) Allah | تُتْلَىٰ=recited | عَلَيْهِ=to him, | ثُمَّ=then | يُصِرُّ=persists | مُسْتَكْبِرًا=arrogantly | كَأَن=as if | لَّمْ=not | يَسْمَعْهَا‌ۖ=he heard them. | فَبَشِّرْهُ=So give him tidings | بِعَذَابٍ=(of) a punishment | أَلِيمٍ=painful.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "the animal that flattens its ears back against its skull and braces and will not, *will not*, move" — Qurṭubī's text reads: **"وهو أن ينحني عليها صارا أذنيه"** — the donkey *presses/leans forward toward* the herd of she-donkeys (العانة) while pinning its ears. The reflection inverts the directionality: Qurṭubī's image is of forward-pressing, dogged pursuit — not a creature bracing against movement. The ears detail is accurate; the "refuses to move" gloss is not.
+
+- [MODERATE] "*Yuṣirru* sits in the fourth pattern — *ifʿāl*, *iṣrār* — the pattern that here carries the sense of **entering fully into a state and locking into it**" — the Form IV identification is morphologically correct (أَصَرَّ → يُصِرُّ, maṣdar إصرار). However, the specific semantic gloss "entering fully into a state and locking into it" is an editorial morphological claim presented as established fact. None of the four provided tafsir sources use this framing; Jalalayn, Muyassar, and Qurṭubī all gloss *yuṣirru* as *yatamādā ʿalā kufrih* (continues/persists in his disbelief), not a Form IV state-entry semantics. The claim is defensible but exceeds what the provided reference data supports.
+
+The coin-purse etymology (*maʾkhūdh min ṣarr al-ṣurra idhā shaddahā*) is accurately quoted and correctly attributed to Qurṭubī. The Makkan night-listening narrative is a recognized sīra account (Ibn Isḥāq) and is presented as contextual backdrop, not an exegetical claim — this is acceptable framing.
+
+SUMMARY: Two moderate issues — the donkey image mischaracterizes Qurṭubī's directionality (pressing-toward, not bracing-away), and the Form IV semantic gloss is asserted without support from the provided sources; no critical errors in Arabic text, root analysis, or scholar attribution.

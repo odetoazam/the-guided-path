@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/004-an-nisa/ayah-092.md
+Ayah: 4:92
+Date: 2026-06-24T07:11:17
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَمَا=And not | كَانَ=is | لِمُؤْمِنٍ=for a believer | أَن=that | يَقْتُلَ=he kills | مُؤْمِنًا=a believer | إِلَّا=except | خَطَــًٔا‌ۚ=(by) mistake. | وَمَن=And whoever | قَتَلَ=killed | مُؤْمِنًا=a believer | خَطَــًٔا=(by) mistake, | فَتَحْرِيرُ=then freeing | رَقَبَةٍ مُّؤْمِنَةٍ=(of) a believing slave | وَدِيَةٌ=and blood money | مُّسَلَّمَةٌ=(is to be) paid | إِلَىٰٓ=to | أَهْلِهِۦٓ=his family | إِلَّآ=unless | أَن=that | يَصَّدَّقُواْ‌ۚ=they remit (as) charity. | فَإِن=But if | كَانَ=(he) was | مِن=from | قَوْمٍ=a people | عَدُوٍّ=hostile | لَّكُمْ=to you | وَهُوَ=and he was | مُؤْمِنٌ=a believer | فَتَحْرِيرُ=then freeing | رَقَبَةٍ مُّؤْمِنَةٍ‌ۖ=(of) a believing slave. | وَإِن=And if | كَانَ=(he) was | مِن=from | قَوْمِۭ=a people | بَيْنَكُمْ=between you | وَبَيْنَهُم=and between them, | مِّيثَـٰقٌ=(is) a treaty, | فَدِيَةٌ=then blood money | مُّسَلَّمَةٌ=(is to be) paid | إِلَىٰٓ=to | أَهْلِهِۦ=his family, | وَتَحْرِيرُ=and freeing | رَقَبَةٍ مُّؤْمِنَةٍ‌ۖ=(of) a believing slave. | فَمَن=And whoever | لَّمْ=(does) not | يَجِدْ=find, | فَصِيَامُ=then fasting | شَهْرَيْنِ=(for) two months | مُتَتَابِعَيْنِ=consecutively, | تَوْبَةً=(seeking) repentance | مِّنَ=from | ٱللَّهِ‌ۗ=Allah, | وَكَانَ ٱللَّهُ=and Allah is | عَلِيمًا=All-Knowing, | حَكِيمًا=All-Wise.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE — unverifiable, not an error] "Al-Qurtubī, opening this verse, glosses the meaning as *mā yanbaghī*" — The provided Qurtubī excerpt is truncated to the bare Quranic text followed by "فيه عش..." and does not display the gloss. Attribution cannot be confirmed from the reference data supplied. Al-Jalālayn *does* confirm the identical formulation (*mā yanbaghī an yaṣdura minhu*), so the substance of the claim is corroborated; the Qurtubī attribution is plausible but unverifiable from what was provided.
+
+CONFIRMED ACCURATE (explicitly checkable):
+- Jalālayn gloss: "mā yanbaghī an yaṣdura minhu" — verbatim in the supplied ar.jalalayn excerpt ✓
+- ʿAyyāsh ibn Abī Rabīʿah narration attributed to al-Baghawī — confirmed by the supplied ar.baghawi excerpt which opens "نزلت في عياش (بن أبي ربيعة) المخزومي" ✓
+- The caveat "Classical commentary preserves more than one occasion for this verse" — consistent with the multi-source data provided ✓
+- Three-case structure of the ayah (hostile tribe / treaty people / same community) — matches the word-by-word data exactly ✓
+- *Fasting two consecutive months* as the fallback for one who cannot find the means — confirmed by *fa-ṣiyāmu shahrayni mutaṭābi'ayni* ✓
+- The *istithnā' munqaṭiʿ* linguistic claim is a recognized classical position (the reflection ends before completing the argument, so no full evaluation is possible, but the framing is doctrinally standard)
+
+SUMMARY: The reflection is linguistically precise, its scholar attributions are either confirmed or consistent with classical sources, and no errors in root, verb form, or doctrinal claim were detected in the portion provided.

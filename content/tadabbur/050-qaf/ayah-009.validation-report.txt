@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/050-qaf/ayah-009.md
+Ayah: 50:9
+Date: 2026-06-08T23:04:34
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَنَزَّلْنَا=And We have sent down | مِنَ=from | ٱلسَّمَآءِ=the sky | مَآءً=water | مُّبَـٰرَكًا=blessed, | فَأَنۢبَتْنَا=then We made to grow | بِهِۦ=thereby | جَنَّـٰتٍ=gardens | وَحَبَّ=and grain | ٱلْحَصِيدِ=(for) the harvest,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+
+- [MODERATE] "the commentators tell us it was a crumbling old bone. He breaks it apart between his fingers, lets the dust fall, and he laughs" — This specific incident (a man crumbling a bone before the Prophet ﷺ as a taunt against resurrection) is documented in the classical tafsir tradition as the *sababul nuzul* for **Surah Yasin (36:78)**, where the text explicitly references "rotten bones." It is not recorded as the occasion or contextual frame for Surah Qaf's opening in the provided sources, nor in standard sababul nuzul collections for Qaf. Presenting it as "the commentators tell us" in a Qaf context overstates the sourcing — this is an interpolation of Yasin's narrative tradition into Qaf.
+
+- [NOTE — not flagged, cannot verify from provided data] "There is *anzala* — the plain Form IV: one motion. And there is *nazzala* — Form II: sent down portion after portion, in measure" — This Form II/IV distinction is a recognized morphological observation in the i'jaz al-Quran tradition, and it is linguistically defensible. However, none of the four provided sources (Jalalayn, Muyassar, Qurtubi, Baghawi) comment on this distinction for *nazzalnā* in this specific ayah. All four treat the word without remark on its form relative to *anzala*. The claim cannot be confirmed or denied from the reference data given; it is not fabricated, but it is unverified by the provided sources and should be hedged rather than stated as established tafsir.
+
+Everything else is accurate: the Arabic text matches the authentic, the translation is sound, the word-by-word readings are correct, the 50:6–7 and 50:11 cross-references are accurate, and the ayah's placement within Qaf's resurrection argument is correctly described.
+
+SUMMARY: One moderate issue — the crumbling bone incident belongs to Yasin's documented tradition, not Qaf's, and presenting it as "the commentators tell us" in a Qaf context is a factual overreach; the nazzalnā morphological analysis is linguistically plausible but not confirmed by the provided sources.

@@ -1,0 +1,46 @@
+Enhanced Validation Report
+File: content/tadabbur/036-ya-sin/ayah-047.md
+Ayah: 36:47
+Date: 2026-06-05T05:48:33
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَإِذَا=And when | قِيلَ=it is said | لَهُمْ=to them, | أَنفِقُواْ=`Spend | مِمَّا=from what | رَزَقَكُمُ=(has) provided you | ٱللَّهُ=Allah.` | قَالَ=Said | ٱلَّذِينَ=those who | كَفَرُواْ=disbelieved | لِلَّذِينَ=to those who | ءَامَنُوٓاْ=believed, | أَنُطْعِمُ=`Should we feed | مَن=whom | لَّوْ=if | يَشَآءُ ٱللَّهُ=Allah willed - | أَطْعَمَهُۥٓ=He would have fed him?` | إِنْ=Not | أَنتُمْ=(are) you | إِلَّا=except | فِى=in | ضَلَـٰلٍ=an error | مُّبِينٍ=clear.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- None found in the submitted portion.
+
+Specific checks performed:
+
+**Tafsir attributions — verified:**
+- "Al-Qurṭubī and al-Baghawī report that the poor companions would say to the wealthy of Makkah: *the wealth you yourselves claimed belonged to God — give some of it to us*" — confirmed verbatim against both sources: Qurṭubī: «قال لهم فقراء أصحاب النبي ﷺ: أعطونا ما زعمتم من أموالكم أنها لله»; Baghawī: «المؤمنين قالوا لكفار مكة: أنفقوا على المساكين مما زعمتم من أموالكم أنه لله».
+- "al-Ḥasan al-Baṣrī, as al-Qurṭubī records, read the address as concerning a group among the People of the Book" — confirmed: «قال الحسن: يعني اليهود أمروا بإطعام الفقراء». Attribution to al-Ḥasan al-Baṣrī from "الحسن" is the standard identification.
+- The *ikhtilāf* is presented accurately as two readings illuminating "the same disease from different angles" — editorially framed as interpretation, not as a documented classical position. Appropriate for tadabbur.
+
+**Grammar analysis — verified:**
+- قِيلَ as passive (al-fiʿl al-majhūl) of قَالَ is correct.
+- قَالَ ٱلَّذِينَ كَفَرُوا۟ as active with named subject is correct per word-by-word reference.
+- The asymmetry observation ("call to generosity is left anonymous; refusal is signed") is the author's own rhetorical insight, presented explicitly as such — not attributed to classical scholars. Legitimate and accurate.
+
+**Morphology — verified:**
+- anfiqū (nfq, Form IV imperative) ✓
+- nuṭʿimu / aṭʿamahu (ṭʿm, Form IV) ✓
+- āmanū (ʾmn, Form IV) ✓
+- mubīn (byn, Form IV active participle) ✓
+
+**Arabic text:** Minor Unicode variant in ضَلَـٰلٍ vs. ضَلَٰلٍۢ — same word, different encoding. Not an error.
+
+SUMMARY: All tafsir attributions, morphological claims, and grammatical observations are accurate and properly grounded in the provided reference data; no genuine errors detected in the submitted portion.

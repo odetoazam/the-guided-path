@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/072-al-jinn/ayahs-014-015.md
+Ayah: 72:14
+Date: 2026-06-16T22:58:09
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَأَنَّا=And that we, | مِنَّا=among us | ٱلْمُسْلِمُونَ=(are) Muslims | وَمِنَّا=and among us | ٱلْقَـٰسِطُونَ‌ۖ=(are) unjust. | فَمَنْ=And whoever | أَسْلَمَ=submits, | فَأُوْلَـٰٓئِكَ=then those | تَحَرَّوْاْ=have sought | رَشَدًا=(the) right path.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "al-qāsiṭ is the one who swerves away from the truth — jā'ir — because he deviates from what is right. al-muqsiṭ is the just one, because he deviates toward what is right" — accurate paraphrase of al-Qurtubi: *"والقاسط: الجائر، لأنه عادل عن الحق، والمقسط: العادل؛ لأنه عادل إلى الحق"*. Confirmed verbatim.
+- [PASS] "qasaṭa (Form I) = to deviate; aqsaṭa (Form IV, with one added letter — the hamza) = to act justly" — matches al-Qurtubi's explicit grammatical rule: *"يقال: قسط: أي جار، وأقسط: إذا عدل"*. Morphologically correct.
+- [PASS] "Ibn ʿAbbās said the qāsiṭūn here are 'those who set up a rival to Allah' — alladhīna jaʿalū lillāhi nidda" — accurately sourced from al-Baghawi (*"قال ابن عباس: هم الذين جعلوا لله ندا"*). The reflection correctly labels it an *athar* of a Companion, not a prophetic hadith. Attribution is precise.
+- [PASS] "Indeed Allah loves al-muqsiṭīn (49:9)" — valid Quranic cross-reference, accurately cited.
+- [PASS] "Wa aqīmū l-wazna bi-l-qisṭ (55:9)" — valid cross-reference, accurately cited.
+- [PASS] The *aḍdād* framing is introduced as pedagogical scaffolding, then the reflection pivots to the Form I/Form IV contrast without formally labeling the qsṭ root an *aḍdād*. The rhetorical structure is careful enough to avoid the technical error while still making the point. No overclaim.
+
+SUMMARY: Every verifiable claim — the Qurtubi grammatical distinction, the Ibn ʿAbbās athar via al-Baghawi, the Form I/IV morphological contrast, and both Quranic cross-references — checks out precisely against the provided reference data; no errors found in the portion shown.

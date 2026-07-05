@@ -1,0 +1,40 @@
+Enhanced Validation Report
+File: content/tadabbur/063-al-munafiqun/ayah-004.md
+Ayah: 63:4
+Date: 2026-06-13T02:01:01
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ۞ وَإِذَا=And when | رَأَيْتَهُمْ=you see them | تُعْجِبُكَ=pleases you | أَجْسَامُهُمْ‌ۖ=their bodies, | وَإِن=and if | يَقُولُواْ=they speak, | تَسْمَعْ=you listen | لِقَوْلِهِمْ‌ۖ=to their speech, | كَأَنَّهُمْ=as if they (were) | خُشُبٌ=pieces of wood | مُّسَنَّدَةٌ‌ۖ=propped up. | يَحْسَبُونَ=They think | كُلَّ=every | صَيْحَةٍ=shout | عَلَيْهِمْ‌ۚ=(is) against them. | هُمُ=They | ٱلْعَدُوُّ=(are) the enemy, | فَٱحْذَرْهُمْ‌ۚ=so beware of them. | قَـٰتَلَهُمُ ٱللَّهُ‌ۖ=May Allah destroy them! | أَنَّىٰ=How | يُؤْفَكُونَ=are they deluded?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No genuine errors found in the validated portion.
+
+Supporting notes on the claims I could verify:
+
+- **Ibn Abbas → Ibn Ubayy description**: "Ibn Abbas reported that...Abdullah ibn Ubayy, was *jasīm*...faṣīḥ...dhalq al-lisān. When he spoke, even the Prophet ﷺ would turn and listen" — matches al-Baghawi verbatim: *كان عبد الله بن أبي جسيما فصيحا ذلق اللسان، فإذا قال سمع النبي ﷺ قوله*. Al-Qurtubi corroborates the same figure. Attribution is accurate.
+
+- **تُعْجِبُكَ as Form IV causative**: Correctly identified as root ع-ج-ب Form IV (أَعْجَبَ), correctly glossed as "causes wonder in you" with the viewer on the receiving end. Consistent with morphology note and standard Arabic grammar.
+
+- **تَسْمَعْ لِقَوْلِهِمْ vs. تَسْمَعُهُمْ**: The lām distinction is a valid and lexically grounded observation, not an invented claim.
+
+- **مُسَنَّدَةٌ = "propped against a wall"**: Matches al-Jalalayn's *ممالة إلى الجدار* exactly.
+
+- **Arabic text in frontmatter**: Matches authentic text. Minor diacritic presentational differences (ۭ markers, ۞) are not errors.
+
+Note: Reflection truncates at *كَأَنَّهُمْ خُ*, so the خُشُبٌ مُّسَنَّدَةٌ linguistic analysis cannot be validated from the provided content.
+
+SUMMARY: All verifiable claims in the submitted portion are accurate and grounded in the classical tafsir sources provided; no errors detected.

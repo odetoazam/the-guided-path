@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/056-al-waqiah/ayahs-075-082.md
+Ayah: 56:75
+Date: 2026-05-14T23:14:12
+
+[1] Arabic text: ✅ pass
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ۞ فَلَآ=But nay, | أُقْسِمُ=I swear | بِمَوَٲقِعِ=by setting | ٱلنُّجُومِ=(of) the stars,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 8
+  Failed:   0
+
+⚠️  All verses matched but 8 had diacritics or partial differences.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+
+- [MODERATE] "A *fal* pattern derived noun of location (*ism makān*)" — The reflection's morphology table labels *mawqiʿ* (مَوْقِع) as a "*fal* pattern" ism makān. This is not a recognized morphological category. *Mawqiʿ* follows the *mafʿil* pattern (مَفْعِل), the standard ism makān/zamān form for Form I hollow verbs whose imperfect takes kasra (وَقَعَ → يَقَعُ → مَوْقِع). The underlying identification as an ism makān from root وقع is correct; the pattern label is wrong.
+
+- [MODERATE] "Al-Tabari, al-Zamakhshari, al-Razi discuss all three" positions on لَآ — The provided reference data confirms the scholarly debate (al-Baghawi: "قال أكثر المفسرين: معناه أقسم ولا صلة"; al-Qurtubi: al-Farra's dissent noted) but does not attribute the specific three-way taxonomy to al-Tabari, al-Zamakhshari, and al-Razi by name. The positions themselves are attested; the named attributions are not verifiable from the supplied sources.
+
+- [MODERATE] "Al-Tabari, Ibn Kathir, al-Jalalayn all treat the first [Preserved Tablet] as primary" for كِتَابٍ مَكْنُونٍ — The Jalalayn excerpt in the reference data does not address this verse at all, and the supplied sources do not confirm the other two attributions. This may well be accurate classical tafsir, but it cannot be verified from the data provided and should not be stated as a documented fact.
+
+No Arabic text errors. No root errors. No inverted scholar attributions against the supplied data. Form IV analysis of أُقْسِمُ (ḍamma on the imperfect prefix distinguishing it from Form I أَقْسِمُ) is correct. The مُطَهَّرُونَ/مُتَطَهِّرُونَ passive-versus-reflexive distinction is morphologically sound and well-grounded.
+
+SUMMARY: The reflection is substantively accurate with no critical errors; the primary flaw is mislabeling *mawqiʿ*'s morphological pattern ("*fal*" instead of *mafʿil*) in a table that presents itself as precise sarf analysis, plus two scholar attributions that exceed what the supplied reference data can confirm.

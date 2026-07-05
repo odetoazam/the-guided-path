@@ -1,0 +1,40 @@
+Enhanced Validation Report
+File: content/tadabbur/036-ya-sin/ayahs-053-054.md
+Ayah: 36:53
+Date: 2026-06-05T06:56:04
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِن=Not | كَانَتْ=it will be | إِلَّا=but | صَيْحَةً=a shout | وَٲحِدَةً=single, | فَإِذَا=so behold! | هُمْ=They | جَمِيعٌ=all | لَّدَيْنَا=before Us | مُحْضَرُونَ=(will be) brought.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No CRITICAL or MODERATE errors found in the visible portion (first ~8000 chars, cutting off mid-sentence at "the very pa").
+
+Specific checks performed:
+
+**إِن as negation**: "al-Jalālayn glosses it directly: «إن» means *mā*, 'not'" — confirmed. The Jalālayn source explicitly reads «إن» ما, and the word-by-word reference independently lists إِن = "Not." Claim of classical unanimity is supported by al-Baghawi, who also opens his gloss with ما كانت.
+
+**صَيْحَة as the final trumpet blast**: The reflection equates the single shout with resurrection. Confirmed by al-Baghawi ("النفخة الآخرة") and al-Muyassar ("نفخة واحدة في القرن").
+
+**qaṣr structure (إِن…إِلَّا as restriction)**: Linguistically accurate. The mechanics described — negation wiping the table, then exception placing one object — correctly represent this classical construct.
+
+**Form IV muḥḍarūn as causative-transitive**: Accurate. Root ḥ-ḍ-r, Form IV aḥḍara → passive participle muḥḍarūn ("ones brought/made present") is standard morphology.
+
+**36:52 quote and marqad as "sleeping place"**: Translation accurate. Root r-q-d = to sleep/lie down; the rendering is correct and the framing ("experienced death the way you experience a deep dreamless night") is interpretively grounded, not overstated.
+
+**"Heart of the Quran" (qalb al-Qurʾān)**: Presented as popular appellation ("they call"), not as a sahih hadith claim. Framing is appropriately hedged.
+
+SUMMARY: All verifiable linguistic and tafsir claims in the visible portion are accurate and well-grounded in the provided reference data; no errors of any severity detected.

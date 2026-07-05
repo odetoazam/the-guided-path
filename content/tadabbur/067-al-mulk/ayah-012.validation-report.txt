@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/067-al-mulk/ayah-012.md
+Ayah: 67:12
+Date: 2026-06-13T13:46:59
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّ=Indeed, | ٱلَّذِينَ=those who | يَخْشَوْنَ=fear | رَبَّهُم=their Lord | بِٱلْغَيْبِ=unseen, | لَهُم=for them | مَّغْفِرَةٌ=(is) forgiveness | وَأَجْرٌ=and a reward | كَبِيرٌ=great.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE — not a flag] "Allah did not say yakhāfūna here — the cowering word" — this characterization of *khawf* as purely cowering/slave-fear is pedagogically reductive. *Khawf* appears positively for believers elsewhere (e.g., 7:56 "khawfan wa-ṭamaʿan"). The distinction being drawn (khashya as knowledge-grounded reverence, deeper than khawf) is classically established and accurately rendered — this is a framing choice, not a factual error about 67:12. No flag warranted.
+- [UNVERIFIABLE — not a flag] Al-Rāghib al-Iṣfahānī attribution: "khashya is the fear that arises from knowledge of the greatness of the one feared" — cannot confirm exact wording from the reference data provided, but this is consistent with the well-documented position in *Mufradāt al-Rāghib*, referenced in the reflection's own morphology note. Would require the Mufradāt entry to fully verify; no countervailing evidence in supplied data.
+
+Everything checkable is clean:
+- Arabic text matches the authentic (ۭ markers are Tanzil technical markers, not textual variants)
+- Root خ ش ي correctly identified; Form I imperfect 3rd masculine plural (*yakhshawna*) is accurate
+- 35:28 quotation (*innamā yakhshā Llāha min ʿibādihi al-ʿulamāʾ*) is correctly rendered and applied
+- Contextual frame (67:6–11 confession of the people of the Fire leading into 67:12) is accurate
+- *Bil-ghayb* multi-valence claim is grounded: Jalālayn reads "absence from people's eyes," Muyassar adds fearing punishment before seeing it, Qurṭubī adds the unseen punishment of the Day of Judgment — the reflection's claim that it "points in more than one direction" is tafsir-supported
+
+SUMMARY: The reflection is linguistically accurate, contextually well-grounded, and does not misrepresent any scholar's position — the only softness is a pedagogically reductive contrast between khashya and khawf that does not constitute an error about the ayah itself.

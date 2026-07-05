@@ -1,0 +1,52 @@
+Enhanced Validation Report
+File: content/tadabbur/039-az-zumar/ayah-047.md
+Ayah: 39:47
+Date: 2026-06-06T04:12:01
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَلَوْ أَنَّ=And if | لِلَّذِينَ=those who | ظَلَمُواْ=did wrong | مَا=(had) whatever | فِى=(is) in | ٱلْأَرْضِ=the earth | جَمِيعًا=all | وَمِثْلَهُۥ=and (the) like of it | مَعَهُۥ=with it, | لَٱفْتَدَوْاْ=they would ransom | بِهِۦ=with it | مِن=from | سُوٓءِ=(the) evil | ٱلْعَذَابِ=(of) the punishment | يَوْمَ=(on the) Day | ٱلْقِيَـٰمَةِ‌ۚ=(of) the Resurrection. | وَبَدَا=And (will) appear | لَهُم=to them | مِّنَ=from | ٱللَّهِ=Allah | مَا=what | لَمْ=not | يَكُونُواْ=they had | يَحْتَسِبُونَ=taken into account.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate errors found in the portion reviewed.
+
+**Specific checks performed:**
+
+- **Arabic text**: Matches the authentic Arabic provided exactly. ✓
+
+- **لَٱفْتَدَوْا۟ root and form**: Root ف-د-ي (f-d-y) correctly identified. Form VIII (افتدى — iftiʿāl pattern) correctly identified. Reflexive/self-benefactive nuance is lexically attested and the frontmatter appropriately documents it. The *fidya* gloss (ransom, release payment) is accurate and its appearance in fasting/Hajj contexts is standard fiqh. ✓
+
+- **جَمِيعًۭا as totality-marker**: Accurately rendered "all of it, no exception." Word-by-word confirms. ✓
+
+- **وَمِثْلَهُۥ مَعَهُۥ — "the like of it with it"**: Correctly unpacked as doubling. Word-by-word confirms. ✓
+
+- **لَوْ as contrary-to-fact particle**: Accurate. The verse structure makes both the condition and its consequence impossible — standard Arabic grammar for لَوْ امتناعية. ✓
+
+- **Surah Az-Zumar framing** (sincerity/al-dīn al-khāliṣ, two processions to Garden and Fire): Accurately describes the surah's architecture (39:3, 39:71–73). ✓
+
+- **ظَلَمُوا interpretation**: Rendered as "those who did wrong" — aligns with al-Qurtubi's gloss (كذبوا وأشركوا — lied and associated partners) without overstating. ✓
+
+- **Morphology examples (general Arabic verb forms)**: The passage describes how roots can take different shapes ("he learned / he taught / he sought to learn / he taught one another") as illustrative of the broader morphological system — not claiming all are Form VIII. No confusion of Form VIII with Form X. ✓
+
+**One note — not an error, but a gap to watch:**
+
+The reflection is cut at the mid-sentence analysis of يَحْتَسِبُونَ — the verse's most interpretively significant word. The key classical divergence is:
+- Al-Jalalayn: يظنون (they *reckoned/expected*)
+- Al-Baghawi/Mujahid: they *thought their deeds were good* — but they appeared as sins
+
+That analysis has not yet appeared in the 8000 chars submitted. If the full reflection treats يَحْتَسِبُونَ as purely "failing to account for Allah's punishment" without engaging the Mujahid position (deeds miscounted as righteous), flag that as MODERATE on the next pass.
+
+SUMMARY: Everything validated in this excerpt is lexically accurate, classically grounded, and morphologically sound — no errors to correct before this portion goes live.

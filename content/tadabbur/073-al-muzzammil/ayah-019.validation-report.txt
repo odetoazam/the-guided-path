@@ -1,0 +1,28 @@
+Enhanced Validation Report
+File: content/tadabbur/073-al-muzzammil/ayah-019.md
+Ayah: 73:19
+Date: 2026-06-17T00:29:43
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّ=Indeed, | هَـٰذِهِۦ=this | تَذْكِرَةٌ‌ۖ=(is) a Reminder, | فَمَن=then whoever | شَآءَ=wills | ٱتَّخَذَ=let him take | إِلَىٰ=to | رَبِّهِۦ=his Lord | سَبِيلاً=a way.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "This is the primordial covenant — *alastu bi-rabbikum?* 'Am I not your Lord?' *Balā* — 'Yes.' Every soul, before this life, was asked and every soul said yes... So when revelation comes, it is not handing you a stranger's letter. It is handing you back **your own forgotten signature.**" — All four tafsir sources define *tadhkirah* here simply as **موعظة/عظة** (admonition/exhortation about the threatened punishment) without any reference to the mīthāq of 7:172. The reflection presents the primordial covenant as the *inherent explanatory framework* for why the Quran uses *tadhkirah* rather than *taʿlīm*, but this is a theological elaboration (found in Ghazali, Ibn Qayyim, Sufi commentary) being presented as the established lexical meaning of the word in this verse. Jalalayn explicitly glosses it as "وعظة" tied to the fearful verses (*al-āyāt al-mukhawwifah*) — not primordial knowledge. The mīthāq connection is not wrong as an interpretive lens, but it's stated with certainty that exceeds what the classical tafsir warrants for this specific ayah.
+
+No other errors found. Root attributions are accurate (*dh-k-r*, *sh-y-'*, *'-kh-dh*), verb forms are correct (Form II *dhakkara* → *tadhkirah*; Form VIII *ittakhadha*), the Arabic text matches, contextual verse references (73:12–18) are accurate, the grammatical observation about the missing object of *shā'a* is linguistically sound, and the tanwīn/indefiniteness note is correct.
+
+SUMMARY: One moderate issue — the mīthāq/alastu framework is stated as the inherent meaning of *tadhkirah* in this verse, but all four classical sources define it only as admonition; the primordial-covenant connection is a legitimate theological elaboration but is overstated as established exegesis rather than offered as an interpretive layer.

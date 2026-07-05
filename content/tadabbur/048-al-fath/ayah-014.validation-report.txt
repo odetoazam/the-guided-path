@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/048-al-fath/ayah-014.md
+Ayah: 48:14
+Date: 2026-06-08T15:56:43
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَلِلَّهِ=And for Allah | مُلْكُ=(is the) kingdom | ٱلسَّمَـٰوَٲتِ=(of) the heavens | وَٱلْأَرْضِ‌ۚ=and the earth. | يَغْفِرُ=He forgives | لِمَن=whom | يَشَآءُ=He wills | وَيُعَذِّبُ=and punishes | مَن=whom | يَشَآءُ‌ۚ=He wills. | وَكَانَ=And is | ٱللَّهُ=Allah | غَفُورًا=Oft-Forgiving, | رَّحِيمًا=Most Merciful.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] Frontmatter `concepts` tag `lam-of-benefit` — the لَام in وَلِلَّهِ is لَامُ الْمِلْكِ (lam of ownership/possession), not لَامُ النَّفْعِ (lam of benefit). These are distinct categories in Arabic grammar. The prose body does not make this error — it correctly describes the construction as fronted possessive ownership — but the metadata tag is imprecise. Not a factual claim in the reflection itself, so non-critical.
+
+No further issues found. Specifically verified:
+
+- **Arabic text** matches authentic text (rendering difference in tanwin Unicode combining marks is a display variant, not a text error).
+- **Translation** accurate against word-by-word reference; "ever Forgiving" is warranted by كَانَ, confirmed by Jalalayn: *لم يزل متصفا بما ذكر*.
+- **Taqdīm analysis** — fronting وَلِلَّهِ ahead of مُلْكُ as emphasis/restriction (ikhtiṣāṣ) is a standard and correct application of Arabic rhetoric. No overclaim.
+- **يُعَذِّبُ = Form II** (frontmatter note) — correct; yuʿadhdhibu is Form II (faʿʿala).
+- **Historical context** — bedouin mukhallafūn, 6th year after Hijra, Treaty of Hudaybiyyah described as *fatḥ mubīn*, 48:12's quote about the companions not returning — all accurate.
+- **No scholar attributions** made in the provided text; no inversion risk.
+- **Muyassar** framing of forgiveness as mercy (*يتجاوز برحمته*) and punishment as justice (*بعدله*) aligns with the reflection's interpretive direction without being overclaimed.
+
+SUMMARY: The prose analysis is linguistically sound and historically accurate; the only flag is a metadata concept tag using the wrong lam category, which does not affect the reflection's arguments.

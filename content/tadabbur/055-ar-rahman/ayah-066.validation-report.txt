@@ -1,0 +1,42 @@
+Enhanced Validation Report
+File: content/tadabbur/055-ar-rahman/ayah-066.md
+Ayah: 55:66
+Date: 2026-06-12T00:46:46
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فِيهِمَا=In both of them | عَيْنَانِ=(are) two springs, | نَضَّاخَتَانِ=gushing forth.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate issues found in the portion submitted.
+
+Specific checks performed against the provided reference data:
+
+**Arabic text:** فِيهِمَا عَيْنَانِ نَضَّاخَتَانِ matches the authentic Arabic exactly. ✓
+
+**Root identification:** The reflection assigns root n-ḍ-kh (ن-ض-خ) to نَضَّاخَتَانِ. Correct. ✓
+
+**Faʿʿāl morphological claim:** The reflection identifies نَضَّاخ as the فَعَّال intensification/mubālagha pattern (doubled middle radical with shadda on ض). Structurally accurate — ن=fāʾ, ضَّ=ʿayn doubled, ا+خ=lām with long vowel. The comparisons to غَفَّار and تَوَّاب as the same pattern are correct. ✓
+
+**Al-Muyassar citation (implied):** The reflection's claim about the springs gushing perpetually without cessation corresponds precisely to al-Muyassar's "فوَّارتان بالماء لا تنقطعان." ✓
+
+**Scholar attributions:** Ibn ʿAbbās credited for "goodness and blessing" interpretation — confirmed in al-Baghawi ("قال ابن عباس: تنضخان بالخير والبركة على أهل الجنة") and al-Qurtubi. Ibn Masʿūd and Anas for musk/camphor — confirmed in al-Baghawi. ✓
+
+**55:50 vs. 55:66 contrast:** The flow/gush contrast (تَجْرِيَانِ vs. نَضَّاخَتَانِ) is grounded in the Quranic text. Al-Qurtubi's note that "النضخ بالخاء أكثر من النضح بالحاء" (naDKH is more intense than naDH) implicitly supports the reflection's framing of the lower garden's spring as more forceful. ✓
+
+**Dual grammar analysis:** All three dual forms (فِيهِمَا, عَيْنَانِ, نَضَّاخَتَانِ) correctly identified. The theological observation about al-thaqalān as the surah's dual addressee is standard. ✓
+
+SUMMARY: The submitted portion is linguistically rigorous and tafsir-grounded throughout; all scholar attributions match the provided sources and the morphological analysis of the faʿʿāl pattern is sound.

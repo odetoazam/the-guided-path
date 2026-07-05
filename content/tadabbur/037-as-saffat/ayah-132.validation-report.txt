@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/037-as-saffat/ayah-132.md
+Ayah: 37:132
+Date: 2026-06-25T07:45:40
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّهُۥ=Indeed, he (was) | مِنْ=of | عِبَادِنَا=Our slaves | ٱلْمُؤْمِنِينَ=believing.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "classical commentators, drawing on various narrations, describe what followed: a man who had to leave his home, who was hunted, who found shelter in the mountains while the civilization he had stood before went on without him" — None of the four provided tafsir sources (Jalalayn, Muyassar, Qurtubi, Baghawi) mention the mountains, being hunted, or forced exile in their commentary on this ayah or the surrounding passage. These details likely derive from Qisas al-Anbiya' literature (Ibn Kathir et al.) and isrāʾīliyyāt, not from the canonical tafsir chain for this surah. The hedge "drawing on various narrations" is present but the phrasing "describe what followed" asserts this as a documented fact without naming the sources. Should either specify (e.g., "Ibn Kathir in Qisas al-Anbiya' narrates...") or soften to explicitly mark it as non-Quranic tradition.
+
+SUPPORTING NOTES (no flag warranted):
+- The ʿibādinā vs. ʿabīd distinction is supported: al-Qurtubi's gloss — "الذين أعطوا العبودية حقها حتى استحقوا الإضافة إلى الله" — directly grounds the reflection's core claim that عِبَادِنَا marks a category of freely-given, honored servitude, not generic subjection.
+- The inna-as-divine-testimony framing is grammatically standard and theologically uncontroversial.
+- The structural refrain observation (closing each prophetic narrative: 37:81, 37:111, 37:122, 37:132) is a textual claim verifiable against the Quran itself, not dependent on tafsir; no error.
+- Arabic text matches the authentic Arabic exactly.
+- Translation is accurate.
+
+SUMMARY: One moderate issue — narrative detail about Ilyas hiding in mountains is stated with factual confidence but cannot be verified from the provided tafsir sources and lacks source attribution; all core linguistic and theological claims are well-grounded.

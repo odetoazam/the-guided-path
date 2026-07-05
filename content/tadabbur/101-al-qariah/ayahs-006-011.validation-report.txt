@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/101-al-qariah/ayahs-006-011.md
+Ayah: 101:6
+Date: 2026-06-20T07:02:20
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَأَمَّا=Then as for | مَن=(him) whose | ثَقُلَتْ=are heavy | مَوَٲزِينُهُۥ=his scales,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "he also preserves a striking minority reading: that mawāzīn might mean the very proofs and weight of one's case — al-ḥujaj wa-l-dalāʾil" — the Qurtubi text provided for this ayah does not contain this reading. The excerpt shows Qurtubi discussing the physical scale (كفة ولسانا, pan and pointer; scrolls of deeds; singular vs. plural mizan debate). Qurtubi himself defers the full discussion: "قد تقدم القول في الميزان في الأعراف والكهف والأنبياء" — the mīzān discussion was already covered in Al-A'raf, Al-Kahf, and Al-Anbiya. The al-ḥujaj wa-l-dalāʾil reading may exist in those earlier chapters, but it cannot be confirmed from the data provided for 101:6. Presenting it as "a reading Qurtubi preserves here" overstates what the sourced text supports.
+
+No other issues found:
+- Roots ث-ق-ل, خ-ف-ف, و-ز-ن, أ-م-م, ه-و-ي are lexically correct
+- Arabic text matches the authenticated ayah
+- Translation is accurate per word-by-word reference
+- Jalalayn/Baghawi framing (good deeds outweighing bad = heavy scales) is faithfully rendered
+- The biṭāqah hadith content is accurate; "narrated in the Sunan" is a defensible but vague attribution (Tirmidhi and Ibn Majah)
+- The Bukhari/Muslim attribution for خَفِيفَتَانِ عَلَى اللِّسَانِ is correct
+
+SUMMARY: The reflection is linguistically sound and theologically accurate throughout; the single flag is one Qurtubi attribution — the mawāzīn-as-proofs reading — that the provided Qurtubi text for this surah does not confirm, making it an unverifiable claim rather than a verified one.

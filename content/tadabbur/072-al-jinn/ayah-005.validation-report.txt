@@ -1,0 +1,42 @@
+Enhanced Validation Report
+File: content/tadabbur/072-al-jinn/ayah-005.md
+Ayah: 72:5
+Date: 2026-06-16T23:27:33
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَأَنَّا=And that we | ظَنَنَّآ=thought | أَن=that | لَّن=never | تَقُولَ=will say | ٱلْإِنسُ=the men | وَٱلْجِنُّ=and the jinn, | عَلَى=against | ٱللَّهِ=Allah | كَذِبًا=any lie.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No CRITICAL or MODERATE issues identified.
+
+Supporting checks:
+
+**Arabic text** — Matches the authenticated text exactly. ✓
+
+**Jinn previously believing Allah had a consort and child** — The reflection's central contextual claim is directly confirmed by three of four tafsir sources: al-Muyassar ("في نسبة الصاحبة والولد إليه"), al-Baghawi ("كنا نظنهم صادقين في قولهم إن لله صاحبةً وولداً"), and al-Qurtubi ("فلذلك صدقناهم في أن لله صاحبة وولدا"). ✓
+
+**Ẓann vs. yaqīn distinction** — The analysis of *ẓann* as sub-certainty supposition is lexically standard (attested in Lisān al-ʿArab and Mufradāt al-Rāghib as the author notes). The phonetic observation about the doubled *nūn* in *ẓanannā* is an aesthetic/literary remark, not a factual claim; the doubling is real (geminated root ظ-ن-ن with 1st-plural suffix). ✓
+
+**Lan as emphatic future negation** — Correctly characterized. *Lan* is the categorical future negation particle; the contrast with softer negation (*lā* + imperfect) is standard Arabic grammar. ✓
+
+**72:1 quotation** — *innā samiʿnā qurʾānan ʿajabā* is correctly attributed to 72:1 and the transliteration is accurate. ✓
+
+**Jinn eavesdropping (72:8–9)** — The reference is accurate to the text of Surah Al-Jinn. ✓
+
+**No scholar attributions** are made in this excerpt, so inversion risk is zero.
+
+SUMMARY: The reflection's exegetical claims are consistently grounded in the provided tafsir sources and its linguistic observations about ẓann and lan are accurate — no errors found.

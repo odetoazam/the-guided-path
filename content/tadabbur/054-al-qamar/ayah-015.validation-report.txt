@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/054-al-qamar/ayah-015.md
+Ayah: 54:15
+Date: 2026-06-10T00:50:36
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَلَقَد=And certainly | تَّرَكْنَـٰهَآ=We left it | ءَايَةً=(as) a Sign, | فَهَلْ=so is (there) | مِن=any | مُّدَّكِرٍ=who will receive admonition?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR] "Nuh...driven off and threatened, until he finally turned to his Lord with four words — annī maghlūbun fa-ntaṣir" — 54:10 contains three orthographic Arabic words (أَنِّى / مَغْلُوبٌ / فَٱنتَصِرْ), not four. Counting أَنِّى as two morphological units (أَنَّ + ي) is non-standard when calling them "words." Does not affect any theological claim; worth a quiet correction.
+
+- [OBSERVATION, NOT FLAG] The reflection consistently renders مُّدَّكِرٍ as "remember" rather than the tafsir consensus gloss of مُتَعَظ / معتبر (one who takes admonition/draws a lesson). This is a defensible translation choice given the ذ-ك-ر root, and the reflection directly addresses the morphological complexity of the word later — so it is an intentional framing, not a slip. No flag warranted; noting for editorial awareness.
+
+All substantive claims check out against provided sources:
+- The taraka/jaʿala distinction with the 29:15 parallel is linguistically sound and verifiable
+- Al-Jalalayn's هذه الفعلة reading and al-Qurtubi/al-Baghawi's ship reading are accurately represented and correctly attributed
+- Qatadah's Bāqirdā report is accurately quoted and attributed (al-Qurtubi: "بباقردى من أرض الجزيرة... حتى نظرت إليها أوائل هذه الأمة"; al-Baghawi parallel confirmed)
+- The muddakir Form VIII assimilation from مذتكر is confirmed by al-Jalalayn's note: "وأصله مذتكر أبدلت التاء دالا مهملة"
+- The refrain appearing "four times" after 54:15 is accurate (54:17, 54:22, 54:32, 54:40)
+- The five destruction narratives are correctly enumerated
+
+SUMMARY: A well-sourced reflection with no Islamic scholarship errors; only a trivial word-count slip on 54:10 and a translation gloss that merits no correction but is worth editorial flagging.

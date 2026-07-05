@@ -1,0 +1,37 @@
+Enhanced Validation Report
+File: content/tadabbur/051-adh-dhariyat/ayahs-001-006.md
+Ayah: 51:1
+Date: 2026-06-09T00:18:07
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَٱلذَّٲرِيَـٰتِ=By those scattering, | ذَرْوًا=dispersing,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- None. All verifiable claims check out against the provided sources.
+
+Specific confirmations:
+- "The scatterers are the winds" — confirmed by all three classical sources: al-Jalālayn («الرياح تذرو التراب وغيره»), al-Baghawī («الرياح التي تذرو التراب ذرواً»), al-Muyassar («بالرياح المثيرات للتراب»). Attribution is accurate.
+- Clouds/ships/angels for ayahs 2–4 — confirmed by al-Muyassar's full sequence: «فالسحب الحاملات... فالسفن التي تجري... فالملائكة التي تُقَسِّم».
+- الْمُقَسِّمَاتِ identified as Form II (distributive-intensive) — morphologically correct (مُفَعِّلَات pattern).
+- All four as active participles (*ism fāʿil*) — correct: فَاعِلَات × 3, مُفَعِّلَات × 1.
+- تُوعَدُونَ as Form I passive imperfect — correct.
+- Makkan surah — confirmed: al-Qurtubi «مكية في قول الجميع».
+- Resurrection/Last Day as the surah's central thesis — confirmed by al-Muyassar: «إن الذي توعدون به من البعث والحساب لكائن حق يقين».
+
+Note (not a flag): The frontmatter root notation "ذ-ر-و *rw" appears to be a copy artifact (asterisk before "rw"). No semantic error, but worth cleaning before publish.
+
+SUMMARY: Every factual claim in the visible portion is supported by the reference data; the grammatical analysis is accurate and the tafsir attributions are correctly stated.

@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/049-al-hujurat/ayah-014.md
+Ayah: 49:14
+Date: 2026-06-08T16:57:24
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ۞ قَالَتِ=Say | ٱلْأَعْرَابُ=the Bedouins, | ءَامَنَّا‌ۖ=`We believe.` | قُل=Say, | لَّمْ=`Not | تُؤْمِنُواْ=you believe; | وَلَـٰكِن=but | قُولُوٓاْ=say, | أَسْلَمْنَا=`We have submitted,` | وَلَمَّا=and has not yet | يَدْخُلِ=entered | ٱلْإِيمَـٰنُ=the faith | فِى=in | قُلُوبِكُمْ‌ۖ=your hearts. | وَإِن=But if | تُطِيعُواْ=you obey | ٱللَّهَ=Allah | وَرَسُولَهُۥ=and His Messenger, | لَا=not | يَلِتْكُم=He will deprive you | مِّنْ=of | أَعْمَـٰلِكُمْ=your deeds | شَيْــًٔا‌ۚ=anything. | إِنَّ=Indeed, | ٱللَّهَ=Allah | غَفُورٌ=(is) Oft-Forgiving, | رَّحِيمٌ=Most Merciful.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "A major narration — reported by al-Qurtubi and al-Baghawi — places this in a year of drought. A group from the tribe of Banu Asad ibn Khuzayma" — confirmed verbatim in both sources: "في سنة جدبة" / "من بني أسد بن خزيمة". Attribution accurate.
+- [PASS] "Al-Jalalayn glosses *aslamnā* with two precise words: انقدنا ظاهرا — *inqadnā ẓāhiran*" — confirmed verbatim in the Jalalayn text provided: «ولكن قولوا أسلمنا» انقدنا ظاهرا. The quote is exact.
+- [PASS] "the first *no* and the second *no* are built from two different particles of negation" — confirmed by the Arabic. First: **لَمْ** (lam tuʾminū), simple past negation. Second: **وَلَمَّا** (wa-lammā yadkhuli), negation-with-expectation ("not yet, but anticipated"). The distinction is real and the word-by-word confirms لما = "and has not yet." The interpretive gloss that لما functions as "an invitation" is a sound extension of the classical semantic of لما (negation implying pending fulfillment), not an overclaim.
+- [PASS] "The same root gives us *amn* — security, safety. And *amāna* — a trust" — attested in Mufradāt al-Rāghib (cited in the morphology note). Not contradicted by any reference data here.
+- [PASS] Root assignments throughout (أ-م-ن for āmannā, س-ل-م for aslamnā) are correct.
+- [PASS] "He never says 'you lied.' He never says 'you are disbelievers.'" — accurate reading of the ayah; the correction replaces the word, not condemns the person. Consistent with Muyassar ("زجر لمن يُظهر الإيمان") — a rebuke to those who display belief, not a declaration of kufr.
+- [NOTE — not flagged as error] The detail about Bedouins "reminding the Prophet of the favor" is drawn from 49:17 context, not from the 49:14 tafsir excerpts provided. The Baghawi text is cut off mid-sentence and appears to be heading toward this narrative ("ويقولون : أتتك العر..."). The reflection correctly attributes this to "narrations" without overstating specificity. No fabrication; context is surah-internal.
+
+SUMMARY: All verifiable claims match the reference data precisely — the Jalalayn quote is verbatim, the asbāb al-nuzūl is confirmed in both Qurtubi and Baghawi, and the central linguistic distinction between لم and لما is grammatically sound.

@@ -1,0 +1,38 @@
+Enhanced Validation Report
+File: content/tadabbur/081-at-takwir/ayah-010.md
+Ayah: 81:10
+Date: 2026-06-18T15:27:33
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَإِذَا=And when | ٱلصُّحُفُ=the pages | نُشِرَتْ=are laid open,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "The Qur'an says it is **tied to your neck** — *fī ʿunuqihi.* It travels with you... deed-record to his own neck (17:13)" — The word in 17:13 is **طَائِرَهُ** (*ṭāʾirahu*, literally "his bird/omen/fate"), not "deed-record" (*ṣaḥīfa/kitāb*). The *ṣaḥīfa* that is *manshūran* (from the same root n-sh-r as this ayah) appears in **17:14**, not 17:13. The reflection presents a tafsir-derived conflation of both verses under the citation of 17:13 alone, without signaling it as interpretive. Classical tafsir does read *ṭāʾir* as one's deeds — so the content is defensible — but the framing ("the Qur'an says, with startling plainness: 'deed-record to his own neck'") overstates the literalness of 17:13 and suppresses 17:14's role.
+
+CONFIRMED ACCURATE:
+- Arabic text matches authentic source ✓
+- "Ninth of twelve *idhā* clauses" — count confirmed ✓
+- Al-Qurṭubī: *ṣuḥuf al-aʿmāl*, angels recording good and evil — exact match to provided tafsir ✓
+- Al-Jalālayn: *ṣuḥuf al-aʿmāl*, gloss *futiḥat wa busiṭat* — confirmed ("فتح وبسطت") ✓
+- Al-Baghawī: *ṣaḥāʾif al-aʿmāl* — confirmed ✓
+- Qirāʾāt: takhfīf/tashdīd variants reported by al-Baghawī and al-Jalālayn — confirmed ✓
+- Root n-sh-r → *an-nushūr* as Quranic term for resurrection — linguistically sound ✓
+- 82:10–12 paraphrase (Kirāman Kātibīn) — accurate ✓
+- *ṣaḥīfa* → modern *ṣaḥīfa*/newspaper, *ṣaḥafī*/journalist — accurate ✓
+- 81:8–9 sequence and the mawʾūdah's positioning — accurate ✓
+
+SUMMARY: One moderate issue — 17:13's *ṭāʾir* is rendered as "deed-record" and attributed to that verse alone, when the *kitāb manshūran* is in 17:14; all other linguistic, tafsir, and structural claims are well-grounded and correctly sourced.

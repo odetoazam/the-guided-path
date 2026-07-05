@@ -1,0 +1,26 @@
+Enhanced Validation Report
+File: content/tadabbur/052-at-tur/ayah-016.md
+Ayah: 52:16
+Date: 2026-06-09T15:02:40
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ٱصْلَوْهَا=Burn in it | فَٱصْبِرُوٓاْ=then be patient | أَوْ=or | لَا=(do) not | تَصْبِرُواْ=be patient, | سَوَآءٌ=(it is) same | عَلَيْكُمْ‌ۖ=for you. | إِنَّمَا=Only | تُجْزَوْنَ=you are being recompensed | مَا=(for) what | كُنتُمْ=you used (to) | تَعْمَلُونَ=do.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Al-Baghawi glosses it plainly: qāsū shiddatahā — 'they taste its severity.'" — The Arabic قاسوا (from قاسى) means **to endure, suffer, or experience intensely** — not "taste." The root for "taste" is ذ-و-ق (ذاق). The "taste" language belongs to al-Qurtubi, who writes *dhūqū ḥarrahā* (ذوقوا حرها). Al-Baghawi's gloss should be rendered: "they endure/experience its severity." The reflection imports Qurtubi's ذوق register into Baghawi's line, conflating two distinct tafsir voices.
+
+SUMMARY: One mistranslation of al-Baghawi's قاسوا shiddatahā (endure → taste) by importing al-Qurtubi's ذوق language; all theological claims, root identifications, khazana attribution to Qurtubi, and the core argument on the futility of ṣabr in the Fire are accurate and well-supported by all four tafsir sources.

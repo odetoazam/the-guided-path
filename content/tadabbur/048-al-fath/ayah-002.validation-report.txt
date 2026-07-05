@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/048-al-fath/ayah-002.md
+Ayah: 48:2
+Date: 2026-06-08T13:29:41
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: لِّيَغْفِرَ=That may forgive | لَكَ=for you | ٱللَّهُ=Allah | مَا=what | تَقَدَّمَ=preceded | مِن=of | ذَنۢبِكَ=your fault | وَمَا=and what | تَأَخَّرَ=will follow | وَيُتِمَّ=and complete | نِعْمَتَهُۥ=His favor | عَلَيْكَ=upon you | وَيَهْدِيَكَ=and guide you | صِرَٲطًا=(to) a Path | مُّسْتَقِيمًا=Straight,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [CANNOT VERIFY] "Abū Ḥātim al-Sijistānī proposed this lām was a lām of oath — a swearing. Al-Qurtubī..." — The Qurtubi excerpt supplied is truncated before reaching this grammatical debate. The claim is consistent with Qurtubi's known full commentary, but cannot be confirmed against the data provided here. Not a flag for error — a flag for unverifiable sourcing in the excerpt window.
+
+All other checkable claims hold:
+
+- **lām al-taʿlīl / lām kay identification** — confirmed: Baghawi explicitly: *"اللام في قوله : ( ليغفر ) لام كي"*; Jalalayn: *"اللام للعلة الغائية"*.
+- **Ibn al-Anbārī attribution via Qurtubi ("fatḥan mubīnan ghayru tāmm")** — confirmed verbatim: *"قال ابن الأنباري : فتحا مبينا غير تام ; لأن قوله : ليغفر لك الله ما تقدم متعلق بالفتح"*.
+- **Baghawi's "li-yajtamiʿa laka maʿa-l-maghfirati tamāmu-l-niʿma" formulation** — confirmed: *"لكي يجتمع لك مع المغفرة تمام النعمة في الفتح"*.
+- **Arabic text** — matches the authentic text exactly.
+- **ذنب rendered as "fault"** — matches the word-by-word reference.
+
+One observation for the author (not an error in the excerpt provided): the Jalalayn reads the forgiveness as *"bi-jihadika"* — through your striving — and links the lām's purpose to motivating the umma toward jihad, then immediately pivots to the ʿiṣmat al-anbiyāʾ framing. The reflection does not engage this reading in the first 8000 characters. If the full article reaches the theological question of the Prophet's ʿiṣma and the meaning of *dhanb* here, it will need to address this — the Jalalayn's is not a fringe position.
+
+SUMMARY: The linguistic and scholarly claims in this excerpt are accurate and correctly attributed; the sole gap is an unverifiable Abū Ḥātim attribution due to a truncated Qurtubi excerpt, and a Jalalayn ʿiṣma angle not yet addressed in the text supplied.

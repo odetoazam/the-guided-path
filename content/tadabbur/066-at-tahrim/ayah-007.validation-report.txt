@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/066-at-tahrim/ayah-007.md
+Ayah: 66:7
+Date: 2026-06-13T13:12:24
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَـٰٓأَيُّهَا ٱلَّذِينَ كَفَرُواْ=`O you who disbelieve! | لَا=(Do) not | تَعْتَذِرُواْ=make excuses | ٱلْيَوْمَ‌ۖ=today. | إِنَّمَا=Only | تُجْزَوْنَ=you will be recompensed | مَا=(for) what | كُنتُمْ=you used (to) | تَعْمَلُونَ=do.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No errors found in the visible 8,000-character portion.
+
+**Morphology check**: `تَعْتَذِرُواْ` as Form VIII (*ifta'ala*) of root ع-ذ-ر is correct — the pattern is alif + ع + ت + ذ + ر = اعتذر, confirmed Form VIII. The reflexive-intensive semantic characterization ("to reach/strain toward an excuse, not merely offer one") is a lexically defensible reading of the *ifta'ala* form and is consistent with Rāghib's Mufradāt on ع-ذ-ر.
+
+**Tafsir alignment**: The "preemptive sealing" reading — *do not even attempt*, not *your excuse is rejected* — maps directly to Qurtubi's phrase "وهذا النهي لتحقيق اليأس" (this prohibition is to confirm utter hopelessness), which the reflection was heading toward before the 8,000-character cutoff. No inversion or overstatement of the scholar's position is visible.
+
+**Structural claim**: The "triptych" framing (66:6 warning → 66:7 scene → 66:8 invitation) is consistent with the sequential flow of the surah and the Jalalayn gloss that v.7 is addressed to them *upon entering the fire*.
+
+**Arabic text**: Minor orthographic variant (واْ vs وا۟) between reflection and reference — both are standard renderings of the same word; not an error.
+
+**Unverifiable from provided data**: The *kāna al-muḍāriʿ* analysis referenced in the YAML concepts is not elaborated in the visible text, so it cannot be confirmed or denied here. No claim about it appears as prose.
+
+SUMMARY: The visible content is morphologically accurate, tafsir-consistent, and structurally sound — no critical or moderate errors detected.

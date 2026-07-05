@@ -1,0 +1,26 @@
+Enhanced Validation Report
+File: content/tadabbur/069-al-haqqah/ayahs-025-037.md
+Ayah: 69:25
+Date: 2026-06-15T00:49:24
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَأَمَّا=But as for | مَنْ=(him) who | أُوتِىَ=is given | كِتَـٰبَهُۥ=his record | بِشِمَالِهِۦ=in his left hand | فَيَقُولُ=will say, | يَـٰلَيْتَنِى=`O! I wish | لَمْ=not | أُوتَ=I had been given | كِتَـٰبِيَهْ=my record
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "Open Lisān al-ʿArab and you find it described as exactly this: a h of stillness, of settling, appended at the moment of pause" — the phrase "exactly this" implies a direct citation, but the rendering "stillness, of settling" reads as the author's own poetic paraphrase rather than a precise translation. The هاء السكت is a real, well-documented Arabic grammatical feature and the substance of the claim is correct; the concern is only the framing suggesting this is a verbatim description from the lexicon. Not falsifiable from the reference data provided, but worth flagging so it isn't taken as a direct quote.
+
+SUMMARY: The reflection is linguistically sound throughout the excerpt provided — the Arabic matches the authentic text, the Form IV root analysis for أُوتِيَ/أُوتَ (root ʾty) is confirmed by the word-by-word data, the description of هاء السكت as a pause-marker with no independent lexical meaning is standard Arabic grammar, and the parallel between كِتَابِيَهْ at 69:19 (right hand) and 69:25 (left hand) is a genuine Quranic device — the only flag is the precision implied by "exactly this" when citing Lisān al-ʿArab in a passage that is clearly the author's own paraphrase.

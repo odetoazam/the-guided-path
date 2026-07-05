@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/059-al-hashr/ayah-010.md
+Ayah: 59:10
+Date: 2026-06-12T19:52:05
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَٱلَّذِينَ=And those who | جَآءُو=came | مِنۢ بَعْدِهِمْ=after them | يَقُولُونَ=they say, | رَبَّنَا=`Our Lord, | ٱغْفِرْ=forgive | لَنَا=us | وَلِإِخْوَٲنِنَا=and our brothers | ٱلَّذِينَ=who | سَبَقُونَا=preceded us | بِٱلْإِيمَـٰنِ=in faith, | وَلَا=and (do) not | تَجْعَلْ=put | فِى=in | قُلُوبِنَا=our hearts | غِلاًّ=any rancor | لِّلَّذِينَ=towards those who | ءَامَنُواْ=believed. | رَبَّنَآ=Our Lord, | إِنَّكَ=indeed You | رَءُوفٌ=(are) Full of Kindness, | رَّحِيمٌ=Most Merciful.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Houses are being pulled down 'by the hands of the believers and the hands of the believers' enemies' (59:2)" — This is a misquote presented inside quotation marks. The actual Arabic of 59:2 reads **بِأَيْدِيهِمْ وَأَيْدِي الْمُؤْمِنِينَ** — "by *their own hands* and the hands of the believers," where "their" refers to Banū al-Naḍīr themselves. The reflection substitutes "the believers' enemies" for the Banū al-Naḍīr's *own hands* and reverses the order. The theological weight of the original is precisely that the exiled tribe dismantled their own homes — an act of self-destruction — not merely that enemies did it to them. (59:2 was not included in the provided reference data; this flag is based on well-attested Quranic text outside the supplied materials.)
+
+All claims directly touching 59:10 check out against the reference data:
+- **غِلّ = rancor** — confirmed: Jalalayn حقداً, Muyassar حسدًا وحقدًا, Baghawi غشًا وحسدًا وبغضًا ✓
+- **Three-circle portrait** (Muhajirun → Ansar → all later believers until Yawm al-Qiyāmah) — confirmed by all four tafsir sources ✓
+- **سبق as "racing" root** — lexically accurate; Form IV āmana/īmān noted correctly in morphology comment ✓
+- **Raʾūf / Raḥīm translations** — match word-by-word reference ✓
+- **57:21 cross-reference for سابقوا** — outside provided reference data; cannot verify from supplied materials, but consistent with well-known Quranic usage
+
+SUMMARY: The 59:10 reflection is linguistically and doctrinally sound; the only flag is a misquote of the contextual 59:2 — presented in quotation marks with the subject and order inverted — which should be converted to a prose paraphrase without quotation marks.

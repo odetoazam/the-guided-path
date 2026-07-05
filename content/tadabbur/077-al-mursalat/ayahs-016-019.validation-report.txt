@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/077-al-mursalat/ayahs-016-019.md
+Ayah: 77:16
+Date: 2026-06-18T11:22:02
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَلَمْ=Did not | نُهْلِكِ=We destroy | ٱلْأَوَّلِينَ=the former (people)?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE] The refrain count ("ten times — *ten* — Al-Mursalat returns to one line") cannot be verified from the provided reference data (which covers only ayah 16), but this is a well-established fact about the surah (refrains at vv. 15, 19, 24, 28, 34, 37, 40, 45, 47, 49) and is not an error — flagging only for completeness.
+- [NOTE] The reflection's treatment of ayahs 17–19 falls outside the provided word-by-word and tafsir data. The translation rendered ("Then We make the later ones follow them. Thus do We deal with the criminals. Woe, that Day, to the deniers!") is standard; no error detectable, but those ayahs were not formally validated by the supplied reference set.
+
+All verifiable claims check out:
+
+- **Morphology**: نُهْلِك correctly identified as root h-l-k, Form IV imperfect 1st person plural. الأولين root Awl (أول), sound masculine plural. Both match Leeds corpus claim and the provided word-by-word data.
+- **Istifhām taqrīrī**: The grammatical label and its mechanics (أ + لم fused to force affirmation rather than elicit information) are accurately described. Al-Jalalayn's gloss «أي أهلكناهم» confirms the rhetorical purpose — the question asserts the fact, not inquires about it.
+- **Cause of destruction as denial (takdhib)**: Al-Muyassar and Al-Jalalayn both name تكذيبهم as the cause. The reflection's framing that denial is "the one small, quiet act that sits underneath every single thing that has ever earned that woe" is interpretively sound and supported by the refrain structure (mukadhdhibīn, not mujrimīn, closes each cycle).
+- **Historical geography claim** ("the remains were not legends — they were geography"): Consistent with al-Muyassar's naming of Nuh, Aad, and Thamud as the destroyed nations — communities whose ruins the Quraysh passed on trade routes, referenced elsewhere in the Quran (e.g., 26:128–135, 89:6–13).
+- **Arabic text**: Matches the authenticated Arabic for ayah 16.
+- **"Second toll" (verse 19)**: Correct — verse 15 is the first occurrence, verse 19 is the second.
+
+SUMMARY: The reflection is linguistically accurate, morphologically sound, and interpretively grounded in the classical tafsir record; no errors detected in the material that could be evaluated against the provided reference data.

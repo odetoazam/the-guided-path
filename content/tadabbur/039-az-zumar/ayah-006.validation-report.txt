@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/039-az-zumar/ayah-006.md
+Ayah: 39:6
+Date: 2026-06-06T03:27:00
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: خَلَقَكُم=He created you | مِّن=from | نَّفْسٍ=a soul | وَٲحِدَةٍ=single. | ثُمَّ=Then | جَعَلَ=He made | مِنْهَا=from it | زَوْجَهَا=its mate. | وَأَنزَلَ=And He sent down | لَكُم=for you | مِّنَ=of | ٱلْأَنْعَـٰمِ=the cattle | ثَمَـٰنِيَةَ=eight | أَزْوَٲجٍ‌ۚ=kinds. | يَخْلُقُكُمْ=He creates you | فِى=in | بُطُونِ=(the) wombs | أُمَّهَـٰتِكُمْ=(of) your mothers, | خَلْقًا=creation | مِّنۢ بَعْدِ=after | خَلْقٍ=creation, | فِى=in | ظُلُمَـٰتٍ=darkness[es] | ثَلَـٰثٍ‌ۚ=three. | ذَٲلِكُمُ=That | ٱللَّهُ=(is) Allah | رَبُّكُمْ=your Lord; | لَهُ=for Him | ٱلْمُلْكُ‌ۖ=(is) the dominion. | لَآ=(There is) no | إِلَـٰهَ=god | إِلَّا=except | هُوَ‌ۖ=He. | فَأَنَّىٰ=Then how | تُصْرَفُونَ=you are turning away?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [UNVERIFIABLE] "Al-Baghawī also records: *jaʿalahā lakum nuzulan wa rizqā* — He made them for you as a **nuzul**" — The al-Baghawī excerpt provided is truncated at "الأنعا..." and does not include this phrase. The two preceding attributions to al-Baghawī are confirmed (iḥdāth wa-l-inshāʾ + garments parallel), but this third one — the nuzul-as-hospitality-meal reading — cannot be verified from the reference data supplied. The lexical claim about nuzul meaning a welcome-meal is sound classical Arabic (ن-ز-ل root; well attested in Lisān), but the specific attribution to al-Baghawī for *this ayah* requires a complete text to confirm. Flag for source-check, not a factual error.
+
+Verified accurate:
+- al-Qurṭubī attribution confirmed verbatim: "لأنها تكونت بالنبات، والنبات بالماء المنزل" — reflection renders this correctly
+- al-Baghawī iḥdāth/inshāʾ attribution confirmed: "الإحداث والإنشاء كقوله تعالى: أنزلنا عليكم لباسا" — exact match
+- *anzala* as Form IV causative of *nazala* — morphologically correct
+- Passive construction of *tuṣrafūna* ("you are turned away") — accurate; the active would be *taṣrifūna*
+- Tense shift from *khalaqa* (past) to *yakhluqukum* (imperfect) — linguistically accurate and a legitimate tafsir observation
+
+SUMMARY: All verifiable claims check out against the provided reference data; one al-Baghawī attribution cannot be confirmed because the excerpt is truncated — worth a source-check before publication but not a factual error.

@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/082-al-infitar/ayahs-001-005.md
+Ayah: 82:1
+Date: 2026-06-18T15:43:44
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِذَا=When | ٱلسَّمَآءُ=the sky | ٱنفَطَرَتْ=(is) cleft asunder,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "the original nature a thing is 'split off' into at creation" — The root ف-ط-ر does underlie both *anfaṭara* and *fiṭra*, but classical lexicographers treat the "originating/creating" sense and the "splitting" sense as distinct semantic branches of the root. Rāghib al-Iṣfahānī in *Mufradāt* covers both senses, but *fiṭra* as a Quranic term (Q 30:30) means the original created disposition/nature — not "that which is split off into being." Presenting "split off" as the meaning of *fiṭra* conflates etymological background with lexical definition; it is a poetic bridge the reflection builds, not a documented meaning of *fiṭra* itself.
+
+- [NOTE — not an error, but a scope flag] The word-by-word reference and tafsir data supplied cover 82:1 only (the Muyassar provides a brief summary over 82:1–5). Morphological claims about 82:2–4 — specifically the Form II passive reading of *fujjirat* (فُجِّرَتْ) and the contrast it draws with the Form VII of *anfaṭarat* — are linguistically accurate per standard morphological analysis but cannot be fully cross-checked against the reference data provided here.
+
+Verified as accurate:
+- *idhā* as marker of certainty rather than mere hypothesis — standard grammarians' position, correctly stated
+- Four suspended *idhā* clauses with the *jawāb al-sharṭ* delayed to verse 5 — syntactically correct
+- *anfaṭarat* as Form VII (انفعل pattern, root ف-ط-ر) with reflexive-intransitive ("befalls the subject") semantic force — correct
+- The "cosmos as subordinate clause" framing — consistent with the grammatical structure described and not overstated as a tafsir claim
+- Stars scattered, seas burst/merged, graves overturned — all consistent with Muyassar summary
+
+SUMMARY: The reflection's core linguistic analysis is accurate throughout; the single moderate issue is an etymological overreach in the *fiṭra* gloss, where an attested root connection is presented as a lexical definition the classical sources do not fully support.

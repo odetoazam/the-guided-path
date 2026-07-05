@@ -1,0 +1,40 @@
+Enhanced Validation Report
+File: content/tadabbur/045-al-jathiyah/ayah-029.md
+Ayah: 45:29
+Date: 2026-06-08T01:47:34
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: هَـٰذَا=This, | كِتَـٰبُنَا=Our Record, | يَنطِقُ=speaks | عَلَيْكُم=about you | بِٱلْحَقِّ‌ۚ=in truth. | إِنَّا=Indeed, We | كُنَّا=[We] used (to) | نَسْتَنسِخُ=transcribe | مَا=what | كُنتُمْ=you used (to) | تَعْمَلُونَ=do.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate errors found in the excerpt provided.
+
+Supporting spot-checks:
+
+**Qurtubi attribution (الاستعارة + second reading)**: Verified exact. The reflection quotes Qurtubi as: *"yuqālu naṭaqa al-kitābu bi-kadhā, ay bayyana"* — this maps precisely to the provided Qurtubi text: `وهو استعارة يقال : نطق الكتاب بكذا أي : بين`. The second reading (*"fa-ka-annahu yanṭiqu ʿalayhim"*) also maps directly: `وقيل : إنهم يقرءونه فيذكرهم الكتاب ما عملوا ، فكأنه ينطق عليهم`. Both attributions are accurate.
+
+**Sister-verse citations**: 18:49 and 23:62 both carry *yanṭiqu bil-ḥaqq* — correct references. The reflection implies Qurtubi cited these; the Qurtubi source is truncated at `ويقولو` (consistent with the opening of the 18:49 quotation), so this is plausible but not fully verifiable from the data supplied.
+
+**Morphology comment**: *nastansikhu* = Form X imperfect (√نسخ) and *yanṭiqu* = Form I imperfect (√نطق) — both correct.
+
+**Surah internal cross-references**: 45:8, 45:23, 45:24, 45:35 — all checked; content matches standard Arabic text of those verses.
+
+**nuṭq / al-ḥayawān al-nāṭiq**: Philosophically standard classical usage; no overreach.
+
+**One unverifiable claim** (not flagged as an error, noted for transparency): The reflection implies Qurtubi explicitly cited 18:49 and 23:62 as his own triangulating evidence. The Qurtubi provided is truncated before those verses are quoted, so this cannot be confirmed from the data given — but neither can it be refuted.
+
+SUMMARY: The reflection's linguistic analysis, Qurtubi attributions, verse cross-references, and morphological notes are all accurate against the supplied reference data; no errors found.

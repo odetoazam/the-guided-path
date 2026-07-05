@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/033-al-ahzab/ayahs-030-031.md
+Ayah: 33:30
+Date: 2026-05-15T03:53:31
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَـٰنِسَآءَ=O wives | ٱلنَّبِىِّ=(of) the Prophet! | مَن=Whoever | يَأْتِ=commits | مِنكُنَّ=from you | بِفَـٰحِشَةٍ=immorality | مُّبَيِّنَةٍ=clear, | يُضَـٰعَفْ=will be doubled | لَهَا=for her | ٱلْعَذَابُ=the punishment | ضِعْفَيْنِ‌ۚ=two fold. | وَكَانَ ذَٲلِكَ=And that is | عَلَى=for | ٱللَّهِ=Allah | يَسِيرًا=easy.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+
+- [MODERATE] "The root pulses three times in one short phrase, each time in a new costume" — The root ض ع ف appears **twice** in the phrase يُضَاعَفْ لَهَا الْعَذَابُ ضِعْفَيْنِ: once in the Form III passive verb يُضَاعَفْ and once in the dual noun ضِعْفَيْنِ. There is no third occurrence. The author appears to have conflated ضِعْفَيْنِ's dual *semantics* (representing two instances of ضِعْف) with two separate morphological root appearances — a category error. The rhetorical point about polyptoton still holds, but the count is wrong and the linguistic credibility of that section rests on precision.
+
+- [MINOR] "ضِعْفَيْنِ — *two-fold, a double dual*" — "double dual" is non-standard and potentially misleading. ضِعْفَيْنِ is the ordinary dual of ضِعْف (itself meaning "a fold/double"); calling it a "double dual" implies a dual-of-a-dual construction (which would mean four-fold). The correct description is "dual form of ضِعْف." The word-by-word reference simply glosses it "two fold," which is all that is warranted.
+
+- [NOTE — cannot verify, not an error] The reflection identifies Form III (fāʿala) for يُضَاعَفْ. This is correct for the dominant reading. The Jalalayn, however, notes a second canonical recitation يُضَعَّفْ (Form II passive, with shadda on ʿayn) — neither version is flagged in the reflection. The Form III reading is legitimate and uncontroversial; the omission of the qirāʾāt variation is not an error but limits the analysis.
+
+All other claims are sound: the takhyīr framing (33:28-29) is accurate and confirmed by Qurtubi; the proximity-as-amplifier thesis matches Muyassar's "فلما كانت مكانتهن رفيعة ناسب أن يجعل الله الذنب الواقع منهن عقوبته مغلظة"; the Form II identification of مُبَيِّنَةٍ is correct; the Arabic text matches the authentic; the asymmetric structure reading is appropriately hedged as an interpretive lens.
+
+SUMMARY: The reflection is theologically grounded and contextually accurate, but contains one factual error in its central linguistic argument — the DEf root appears twice in the phrase, not three times — which must be corrected before publication.

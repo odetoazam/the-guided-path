@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayah-019.md
+Ayah: 3:19
+Date: 2026-06-21T03:38:16
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّ=Indeed, | ٱلدِّينَ=the religion | عِندَ=near | ٱللَّهِ=Allah | ٱلْإِسْلَـٰمُ‌ۗ=(is) Islam. | وَمَا=And not | ٱخْتَلَفَ=differed | ٱلَّذِينَ=those who | أُوتُواْ=were given | ٱلْكِتَـٰبَ=the Book | إِلَّا=except | مِنۢ بَعْدِ=after | مَا=[what] | جَآءَهُمُ=came to them | ٱلْعِلْمُ=[the] knowledge | بَغْيَۢا=out of envy | بَيْنَهُمْ‌ۗ=among them. | وَمَن=And whoever | يَكْفُرْ=disbelieves | بِـَٔـايَـٰتِ=in (the) Verses | ٱللَّهِ=(of) Allah, | فَإِنَّ=then indeed, | ٱللَّهَ=Allah | سَرِيعُ=(is) swift | ٱلْحِسَابِ=(in taking) account.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "Form IV — the form built by taking a root and adding a shape that means, roughly, 'to actively bring something about, to hand something over, to make oneself enter into a state'" — Form IV (أَفْعَلَ) description is accurate for this root. *Aslama* (IV of *s-l-m*) means to surrender/submit oneself; *islām* as its masdar is textbook Arabic morphology confirmed by the Leeds corpus and classical grammars. The gloss "hand something over" is also attested for *aslama* (to hand over/deliver), so no overreach.
+- [PASS] "The root is peace. The form is surrender. The religion is the peace that comes through surrender." — Al-Muyassar explicitly defines Islam as **الانقياد لله وحده بالطاعة والاستسلام له بالعبودية** (submission/following Allah alone in obedience and surrender in worship), which directly supports this formulation. Not an invention.
+- [PASS] Translation renders *baghyan* as "out of rivalry" while the word-by-word reference gives "out of envy." Both are within the attested semantic range of *baghy* (transgression, jealous animosity, rivalry). Sahih International gives "jealous animosity," Pickthall gives "rivalry," Yusuf Ali gives "selfish contumacy." No error.
+- [PASS] "Islām is a verbal noun — the noun of an action" — *Islām* is the masdar of *aslama*; calling it the noun of an action is the standard Arabic grammar definition of a masdar. Accurate.
+- [PASS] Arabic text in the reflection matches the authentic Arabic (minor orthographic variant ٱلْإِسْلَـٰمُ vs ٱلْإِسْلَٰمُ is typographic, not substantive).
+- [PASS] No specific scholar attributions are made in the provided excerpt, so no inversion risk.
+
+SUMMARY: All linguistic and morphological claims in the visible text are accurate and well-grounded in classical lexical sources and the tafsir reference data; no corrections needed.

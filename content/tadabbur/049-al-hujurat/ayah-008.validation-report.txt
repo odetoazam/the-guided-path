@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/049-al-hujurat/ayah-008.md
+Ayah: 49:8
+Date: 2026-06-08T18:57:32
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَضْلاً=A Bounty | مِّنَ ٱللَّهِ=from Allah | وَنِعْمَةً‌ۚ=and favor. | وَٱللَّهُ=And Allah | عَلِيمٌ=(is) All-Knower, | حَكِيمٌ=All-Wise.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "In Arabic, this indefiniteness in a context like this is the *tanwīn of magnification*: not 'a small thing among many' but 'a bounty of a kind you cannot fully measure.'" — The concept of *tanwīn al-taʿẓīm* is a recognized classical Arabic rhetorical device (appears in Ibn ʿĀshūr and Zamakhsharī's Kashshāf), but none of the four provided reference sources (Jalālayn, Muyassar, Qurṭubī, Baghawī) mention it for this word. The claim is linguistically defensible but is stated as definitive fact without a source, and cannot be verified from the provided data.
+
+All other major claims check out cleanly:
+
+- **Jalālayn attribution** ("maṣdar manṣūb bi-fiʿlihi al-muqaddar") — accurate. The source text reads exactly: «مصدر منصوب بفعله المقدر» ✓
+- **Qurṭubī attribution** ("mafʿūl lahu") — accurate. Source reads: «فهو مفعول له» ✓
+- Arabic text matches the authentic. ✓
+- Translation ("As a bounty from Allah and a favor. And Allah is All-Knowing, All-Wise.") matches word-by-word reference. ✓
+- The paraphrase of 49:7 ("Allah has made faith beloved to you... made disbelief and defiance and disobedience hateful to you") is accurate to the ayah. ✓
+- The framing of ʿAlīm and Ḥakīm as governing wisdom in who receives this gift is consistent with Qurṭubī ("All-Knowing about what is right for you, Wise in managing your affairs") and Muyassar ("All-Knowing about who thanks His blessings"). ✓
+
+SUMMARY: Reflection is accurate and well-grounded; the sole flag is the *tanwīn of magnification* claim, which is a defensible classical concept but goes beyond the provided reference data and should carry a source citation.

@@ -1,0 +1,37 @@
+Enhanced Validation Report
+File: content/tadabbur/036-ya-sin/ayahs-031-032.md
+Ayah: 36:31
+Date: 2026-06-05T07:07:46
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَلَمْ=Do not | يَرَوْاْ=they see | كَمْ=how many | أَهْلَكْنَا=We destroyed | قَبْلَهُم=before them | مِّنَ=of | ٱلْقُرُونِ=the generations? | أَنَّهُمْ=That they | إِلَيْهِمْ=to them | لَا يَرْجِعُونَ=will not return.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR/NOTE] "a structure you could never hang off a real question" — the reflection frames this as a sequencing rule, but Sībawayh's actual point (via al-Qurṭubī: "أن بدل من كم") is that *anna* functions as a **badal** (appositive substitute) *from* كم — a grammatical substitution relationship, not a simple sequential constraint. The conclusion (anna here is only possible because كم is khabariyyah) is correct; the mechanism is slightly simplified. This is acceptable pedagogy, not a factual error.
+
+All verifiable claims check out against the supplied sources:
+
+| Claim | Source confirmation |
+|---|---|
+| Istifhām lil-taqrīr | al-Jalālayn: "والاستفهام للتقرير" — verbatim |
+| Kam khabariyyah bi-maʿnā kathīran, attributed to al-Jalālayn | al-Jalālayn: "كم خبرية بمعنى كثيرا" — verbatim |
+| Al-Qurṭubī bringing Sībawayh on khabariyyah reading | al-Qurṭubī: "قال سيبويه: أن بدل من كم، ومعنى كم هاهنا الخبر" — confirmed |
+| Qarn = iqtirān (togetherness in existence) | al-Baghawī: "سموا بذلك لاقترانهم في الوجود" — confirmed |
+| Lā yarjiʿūn = no return to *this world* | al-Muyassar: "لا يرجعون إلى هذه الدنيا" — confirmed |
+| "Two directions of return" thesis (v.31 closes dunya door; v.32 opens resurrection court) | Consistent with all four tafsir sources; not over-stated as a single-scholar ruling |
+
+SUMMARY: The reflection's linguistic analysis is rigorously grounded — every major grammatical claim (taqrīr, khabariyyah, Sībawayh's badal analysis) maps directly to the supplied tafsir sources with no inversions or fabrications.

@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/059-al-hashr/ayahs-003-004.md
+Ayah: 59:3
+Date: 2026-06-12T20:32:27
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَلَوْلَآ=And if not | أَن=[that] | كَتَبَ ٱللَّهُ=Allah (had) decreed | عَلَيْهِمُ=for them | ٱلْجَلَآءَ=the exile, | لَعَذَّبَهُمْ=certainly He (would) have punished them | فِى=in | ٱلدُّنْيَا‌ۖ=the world, | وَلَهُمْ=and for them | فِى=in | ٱلْأَخِرَةِ=the Hereafter | عَذَابُ=(is) a punishment | ٱلنَّارِ=(of) the Fire.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+
+- [MODERATE] "The tafsir of al-Jalalayn, al-Muyassar, al-Qurtubi, and al-Baghawi all reach for that exact comparison... as was done to Banu Qurayza" — Al-Muyassar's provided excerpt says only «بالقتل والسبي» (by killing and captivity) without naming Banu Qurayza. The Banu Qurayza comparison by name is explicit in three of the four (Jalalayn: «كما فعل بقريظة من اليهود»; Qurtubi: «كما فعل ببني قريظة»; Baghawi: «كما فعل ببني قريظة»). Attributing it to all four cannot be confirmed from the supplied data.
+
+- [MODERATE] "every one of the four — al-Jalalayn, al-Muyassar, al-Qurtubi, al-Baghawi — glosses it with قضى, qaḍā" — Al-Baghawi's excerpt does not use قضى. It paraphrases الجلاء as «الخروج من الوطن» and moves directly to the punishment clause, with no qaḍā framing in the provided text. The three-of-four attestation (Jalalayn: «قضى»; Muyassar: «وقضاه»; Qurtubi: «أي لولا أنه قضى») is solid; the Baghawi arm of the claim is unverifiable from the supplied reference data.
+
+All other elements pass:
+- Arabic text matches the authentic text exactly
+- k-t-b root analysis (Form I perfect, settled-decree semantics) is correct and lexically grounded
+- Al-Qurtubi's extended reason — «أنه سيجليهم عن دارهم وأنهم يبقون مدة فيؤمن بعضهم ويولد لهم من يؤمن» — is accurately translated and quoted
+- Form III mushāqqa (sh-q-q) for ayah 4 is correctly identified and the reflection properly flags it as an interpretive extension beyond the supplied corpus
+- Word-by-word glosses align with the reference throughout
+
+SUMMARY: Two moderate over-claims in all-four-tafsir attribution (Banu Qurayza by name; qaḍā gloss); no errors in Arabic text, root analysis, or translation.

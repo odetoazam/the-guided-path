@@ -1,0 +1,38 @@
+Enhanced Validation Report
+File: content/tadabbur/054-al-qamar/ayah-045.md
+Ayah: 54:45
+Date: 2026-06-10T07:34:13
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: سَيُهْزَمُ=Soon will be defeated | ٱلْجَمْعُ=(their) assembly, | وَيُوَلُّونَ=and they will turn | ٱلدُّبُرَ=(their) backs.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "All four of our classical commentators — al-Jalalayn, al-Muyassar, al-Qurtubi, al-Baghawi" — al-Muyassar (التفسير الميسر) is a contemporary simplified tafsir published by the King Fahd Quran Complex, not a classical source. Grouping it with al-Jalalayn (medieval), al-Qurtubi (d. 671 AH), and al-Baghawi (d. 516 AH) under the label "classical commentators" is a categorization error. The claim is accurate in substance, but the framing misrepresents al-Muyassar's provenance.
+
+- [MODERATE] "All four of our classical commentators... say the same thing about where this landed: the day of Badr" — The provided Baghawi excerpt covers only the qiraat discussion (يعقوب / نصب / رفع) and does not include a Badr attribution in the text supplied. Al-Jalalayn (ببدر), al-Muyassar (يوم بدر), and al-Qurtubi (يوم بدر وغيره) all confirm it explicitly; Baghawi's Badr reference cannot be verified from the provided data. The claim may be accurate but rests on a source excerpt that doesn't support it as given.
+
+Everything else checks out:
+- Arabic text matches the authenticated source exactly.
+- Passive form سَيُهْزَمُ (mabni lil-majhul, root h-z-m) correctly identified.
+- سَـ prefix described accurately as marking a settled future.
+- Ruways/Yaʿqūb qiraat (سَنَهْزِمُ, first-person plural, الجمع in nasb) accurately sourced — confirmed in both al-Qurtubi and al-Baghawi.
+- يُوَلُّونَ correctly parsed as Form II of root w-l-y.
+- Singular ٱلدُّبُرَ observation is accurate; al-Baghawi explicitly explains the singular is used for fasilah/end-rhyme and carries plural meaning (وحد لأجل رءوس الآي).
+- Al-Qurtubi's "and other occasions besides it" (وغيره) accurately quoted.
+- The two-reading theological synthesis (defeat as agentless from below / divine act from above) is interpretive tadabbur, not presented as a scholar's documented statement — appropriate.
+
+SUMMARY: Substantively sound reflection with one mislabeled source (al-Muyassar is contemporary, not classical) and one attribution to Baghawi that the provided excerpt cannot corroborate.

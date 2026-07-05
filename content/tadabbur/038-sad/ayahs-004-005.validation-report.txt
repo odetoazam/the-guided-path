@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/038-sad/ayahs-004-005.md
+Ayah: 38:4
+Date: 2026-06-06T02:52:00
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَعَجِبُوٓاْ=And they wonder | أَن=that | جَآءَهُم=has come to them | مُّنذِرٌ=a warner | مِّنْهُمْ‌ۖ=from among themselves. | وَقَالَ=And said | ٱلْكَـٰفِرُونَ=the disbelievers, | هَـٰذَا=`This | سَـٰحِرٌ=(is) a magician, | كَذَّابٌ=a liar.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "built on a form (Form IV, *anḏara*)" — Form IV root أنذر → active participle مُنذِر is correctly identified. The root n-dh-r and the Form IV derivation are accurate.
+- [PASS] "the faʿʿāl intensive of kadhdhāb" — كَذَّاب is indeed on the فَعَّال pattern from root ك-ذ-ب, which is a ṣīghat al-mubālagha. Morphologically correct.
+- [PASS] "the fuʿāl intensive of ʿujāb" — عُجَاب on فُعَال from root ع-ج-ب is attested as ṣīghat al-mubālagha. Correct.
+- [PASS] "Allah conferred a favor upon the believers when He raised among them a Messenger from themselves (3:164)" — citation and framing of minhum as mercy is an established tafsir move; both al-Baghawi and al-Muyassar treat the minhum qualifier as a divine grace-feature, not a liability.
+- [PASS] "passage_context: a people sunk in arrogance and schism (38:1-3)" — Qurtubi explicitly links this passage to في عزة وشقاق, confirming the framing.
+- [UNVERIFIABLE from provided data, not an error] The al-Amīn / Black Stone sīra narrative — historically well-attested in Ibn Hisham; the provided reference data simply does not cover it. No contradiction present.
+
+SUMMARY: All factual, morphological, and cross-Quranic claims in the reviewed portion are accurate and consistent with the provided tafsir corpus; no errors were found.

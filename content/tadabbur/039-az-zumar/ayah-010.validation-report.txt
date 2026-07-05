@@ -1,0 +1,24 @@
+Enhanced Validation Report
+File: content/tadabbur/039-az-zumar/ayah-010.md
+Ayah: 39:10
+Date: 2026-06-06T05:22:11
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: قُلْ=Say, | يَـٰعِبَادِ=`O My slaves | ٱلَّذِينَ=[those] who | ءَامَنُواْ=believe! | ٱتَّقُواْ=Fear | رَبَّكُمْ‌ۚ=your Lord. | لِلَّذِينَ=For those who | أَحْسَنُواْ=do good | فِى=in | هَـٰذِهِ=this | ٱلدُّنْيَا=world | حَسَنَةٌ‌ۗ=(is) good, | وَأَرْضُ=and the earth | ٱللَّهِ=(of) Allah | وَٲسِعَةٌ‌ۗ=(is) spacious. | إِنَّمَا=Only | يُوَفَّى=will be paid back in full | ٱلصَّـٰبِرُونَ=the patient | أَجْرَهُم=their reward | بِغَيْرِ=without | حِسَابٍ=account.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: ERROR
+ISSUES:
+- Could not run Claude check: Command failed: claude -p --system-prompt "You are a rigorous Islamic scholarship validator for Ayah
+SUMMARY: Claude semantic check failed

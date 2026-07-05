@@ -1,0 +1,40 @@
+Enhanced Validation Report
+File: content/tadabbur/051-adh-dhariyat/ayahs-052-053.md
+Ayah: 51:52
+Date: 2026-06-09T01:18:24
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: كَذَٲلِكَ=Likewise | مَآ=not | أَتَى=came | ٱلَّذِينَ=(to) those | مِن قَبْلِهِم=before them | مِّن=any | رَّسُولٍ=Messenger | إِلَّا=but | قَالُواْ=they said, | سَاحِرٌ=`A magician | أَوْ=or | مَجْنُونٌ=a madman.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate issues found.
+
+Supporting spot-checks:
+
+1. **Qurtubi tasliya attribution** — "Al-Qurṭubī says plainly: this is **تسلية للنبي**" — exact match. Qurtubi's text: *"هذا تسلية للنبي صلى الله عليه وسلم"*. ✓
+
+2. **Baghawi/Jalalayn characterization** — "just as your people called you a sorcerer and a madman, so did the peoples before them call their messengers" — accurately represents both. Baghawi: *"كما كذبك قومك وقالوا ساحر أو مجنون كذلك..."*; Jalalayn: *"مثل تكذيبهم لك بقولهم إنك ساحر أو مجنون..."*. ✓
+
+3. **Kadhālika morphology** — "built from the particle of resemblance, the *kāf* of comparison" — correct. كَ (likeness) + ذَٰلِكَ (that). ✓
+
+4. **mā...illā as universal negation (istithna mufrarragh)** — correct. The construction negates universally and admits no exception to the rule of rejection. ✓
+
+5. **Nations listed (Nūḥ, Mūsā, ʿĀd, Thamūd)** — all explicitly appear in Surah Adh-Dhariyat prior to this verse (38–46). ✓
+
+6. **Root claims in morphology note** — جنن, سحر, وصي, طغو/طغي — all correct for their respective words. ✓
+
+SUMMARY: Every verifiable claim — scholar attributions, Arabic morphology, tafsir characterizations — checks out against the provided reference data; no fabrications or overstatements detected.

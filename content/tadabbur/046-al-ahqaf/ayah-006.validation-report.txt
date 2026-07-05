@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/046-al-ahqaf/ayah-006.md
+Ayah: 46:6
+Date: 2026-06-08T07:14:52
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَإِذَا=And when | حُشِرَ=are gathered | ٱلنَّاسُ=the people, | كَانُواْ=they will be | لَهُمْ=for them | أَعْدَآءً=enemies | وَكَانُواْ=and they will be | بِعِبَادَتِهِمْ=of their worship | كَـٰفِرِينَ=deniers.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE] "The lexicographers tell us it carries the texture of **driving** — herding, the way a herder drives livestock together into a confined space" — the herding/compulsion texture for root ح-ش-ر is a legitimate lexical claim (attested in Lisān al-ʿArab), but cannot be verified from the tafsir data provided for this ayah. Stated with confidence as "lexicographers tell us" without naming a source. Not an error — just an unverifiable-from-provided-data assertion. Flagged for transparency, not correction.
+- [NOTE] The reflection cites 46:5 ("ghāfilūn — utterly unaware of the prayers directed at them") as contextual setup — accurate framing, but 46:5 reference data was not supplied, so its characterization cannot be cross-checked here. The claim is consistent with standard tafsir of 46:5.
+- [NOTE] Review covers only the first ~8,000 characters (through mid-Part 1). The full reflection was not available for validation.
+
+**Verified accurate against provided data:**
+- Arabic text matches the authentic Arabic exactly
+- Translation is faithful to the word-by-word reference
+- Passive voice analysis of حُشِرَ is correct ("are gathered" per reference)
+- Identification of كَٰفِرِينَ as "deniers" of worship matches Jalalayn (جاحدين) and Baghawi (جاحدين)
+- The false-gods-as-enemies framing is precisely what all four tafsirs confirm: Jalalayn ("الأصنام... أعداء"), Muyassar ("تلعنهم وتتبرأ منهم"), Qurtubi and Baghawi both affirm the disownment
+- The disownment cross-reference to 28:63 is cited by Baghawi explicitly ("تبرأنا إليك ما كانوا إيانا يعبدون")
+
+SUMMARY: The partial reflection is linguistically sound, theologically accurate against all four tafsir sources, and makes no CRITICAL errors; the two unverified claims are lexically standard and clearly framed as scholarly elaboration rather than fabricated attribution.

@@ -1,0 +1,39 @@
+Enhanced Validation Report
+File: content/tadabbur/051-adh-dhariyat/ayah-047.md
+Ayah: 51:47
+Date: 2026-06-09T00:11:47
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَٱلسَّمَآءَ=And the Heaven | بَنَيْنَـٰهَا=We constructed it | بِأَيْيْدٍ=with strength, | وَإِنَّا=and indeed, We | لَمُوسِعُونَ=(are) surely (its) Expanders.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR / NOT FLAGGED] "For the last forty verses, Adh-Dhariyat has been walking you through a graveyard of nations" — the explicit nations passage is 51:38–46 (~9 verses, not forty). This is rhetorical framing, not a scholarly claim, so it doesn't rise to MODERATE; flagged only for editorial awareness.
+
+Specific accuracy checks on the scholarly content provided:
+
+**Tafsir attributions** — all three citations are correctly attributed and accurately rendered from the reference data:
+- "Al-Jalalayn: bi-quwwah" ✓ (reference: *bi-quwwah*)
+- "Al-Baghawi: bi-quwwah wa-qudrah" ✓ (reference: *bi-quwwah wa-qudrah*)
+- "Al-Qurtubi reports it from Ibn ʿAbbas and others: bi-quwwah wa-qudrah" ✓ (reference: *عن ابن عباس وغيره*)
+
+**Grammar (ishtighal construction)** — the analysis of وَٱلسَّمَآءَ as a fronted accusative with resumptive pronoun هَا is accurate and classically attested.
+
+**Rasm observation** — the extra yāʾ in بِأَيْي۟دٍ is accurate per the muṣḥaf orthography; the distinction from أَيْدٍ (which could resemble the plural of يَد) is a legitimate observation. It is presented as the author's own insight, not a tafsir citation, which is appropriate.
+
+**Translation** — "ever expanding [it]" for لَمُوسِعُونَ is defensible: Al-Muyassar explicitly reads *lāmūsiʿūna li-arjāʾihā* (expanding its reaches), and the word-by-word reference gives "Expanders." The dominant classical reading (Ibn ʿAbbas via Al-Jalalayn, Al-Baghawi, Al-Qurtubi: *qādirūn*, "capable") is not cited in this excerpt — flag for the mūsiʿūn discussion section to ensure it acknowledges the *qādirūn* tradition alongside the expansion reading.
+
+SUMMARY: All specific scholarly claims in the provided excerpt are accurately sourced and correctly attributed; no errors found.

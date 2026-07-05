@@ -1,0 +1,38 @@
+Enhanced Validation Report
+File: content/tadabbur/054-al-qamar/ayah-025.md
+Ayah: 54:25
+Date: 2026-06-10T01:43:14
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَءُلْقِىَ=Has been sent | ٱلذِّكْرُ=the Reminder | عَلَيْهِ=to him | مِنۢ=from | بَيْنِنَا=among us? | بَلْ=Nay, | هُوَ=he | كَذَّابٌ=(is) a liar | أَشِرٌ=insolent.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR NOTE] "drunk on himself" (rendering of أَشِرٌ) — creative but interpretive. All four classical sources gloss *ashir* as *baṭar*, *mutakabbir*, *marḥ*, *tajabbar* (insolence, arrogance, self-aggrandizement). "Drunk on himself" captures the self-inflation but drifts from the lexical core. Not an error — a translation choice — but worth flagging if this site targets scholars who will compare it to *Lisān al-ʿArab*.
+- [CANNOT VERIFY] "Leeds corpus confirms: ulqiya = Form IV passive perfect of lqy" — the morphological claim itself is correct per standard Arabic grammar (root l-q-y, Form IV active *alqā*, passive perfect *ulqiya*), but I cannot verify the Leeds corpus citation from the reference data provided. The grammar is sound independent of that citation.
+- [CANNOT VERIFY] Remaining ~3,000+ words after the cut ("Thamud meant *ulqiya* to make r...") — the text was truncated. Validation covers only what was submitted.
+
+What was checked and passed:
+- Arabic text matches the authentic (minor Unicode orthographic variant only, not substantive)
+- *ulqiya* as Form IV passive perfect of l-q-y: correct
+- *kadhdhāb* as fa'ʿāl intensive noun, root k-dh-b: correct
+- 38:8 parallel (*a-unzila ʿalayhi-dh-dhikru min bayninā*): accurate attribution and quotation
+- 73:5 parallel (*innā sanulqī ʿalayka qawlan thaqīlā*): correct root, form, and verse reference
+- 40:15 parallel (*yulqī ar-rūḥa min amrihi*): correct
+- *ashir* glossed as arrogance/self-aggrandizement: consistent with all four tafsir sources
+- Qurtubi's "استفهام معناه الإنكار" framing: accurately applied in the "self-answering question" analysis
+
+SUMMARY: The reflection is linguistically rigorous and theologically grounded on all verifiable claims; the only soft flag is the evocative but defensible translation of *ashir*, and the truncated text prevents full validation of the latter half.

@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/035-fatir/ayahs-005-006.md
+Ayah: 35:5
+Date: 2026-06-05T00:00:45
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَـٰٓأَيُّهَا=O | ٱلنَّاسُ=mankind! | إِنَّ=Indeed, | وَعْدَ=(the) promise | ٱللَّهِ=(of) Allah | حَقٌّۖ=(is) true. | فَلَا=So (let) not | تَغُرَّنَّكُمُ=deceive you | ٱلْحَيَوٲةُ=the life | ٱلدُّنْيَاۖ=(of) the world, | وَلَا=and (let) not | يَغُرَّنَّكُم=deceive you | بِٱللَّهِ=about Allah | ٱلْغَرُورُ=the Deceiver.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "the root of deception — three times" — Confirmed: تَغُرَّنَّكُمُ, يَغُرَّنَّكُم, and ٱلْغَرُورُ all derive from غ ر ر; three occurrences in a single verse is accurate.
+- [PASS] "nūn al-tawkīd ath-thaqīla — the heavy nūn of emphasis" — Morphologically accurate; تَغُرَّنَّكُمُ carries the emphatic doubled nūn; the grammatical characterization is sound.
+- [PASS] "the Arabic addresses the prohibition to the deceiver, not to you...the subject of the verb...is al-ḥayāt ad-dunyā" — Correct reading of لا الناهية with a third-person subject; the worldly life is grammatically the agent being prohibited.
+- [PASS] al-gharūr = Shaytan — Not yet stated explicitly in the excerpt, but the concepts field implies it; all four tafsir sources (Jalalayn, Muyassar, Qurtubi, Baghawi) unanimously confirm الغرور = الشيطان.
+- [PASS] Surah Fatir is Makkan and opens with al-ḥamdu lillāhi fāṭiri as-samāwāti wal-arḍ — Accurate on both counts.
+- [UNVERIFIABLE FROM PROVIDED DATA, NOT AN ERROR] Attribution of ghirra as heedlessness/lowered guard to Ar-Rāghib's Mufradāt — Cannot confirm against provided references, but this is a well-established attribution in classical lexicography; flag only if the full file cites a specific page/definition that misrepresents him.
+
+SUMMARY: The excerpt reviewed is linguistically disciplined, morphologically accurate, and fully consistent with all four tafsir sources; no genuine errors detected in the portion provided.

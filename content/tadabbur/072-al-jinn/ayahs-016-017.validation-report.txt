@@ -1,0 +1,26 @@
+Enhanced Validation Report
+File: content/tadabbur/072-al-jinn/ayahs-016-017.md
+Ayah: 72:16
+Date: 2026-06-15T09:19:30
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَأَلَّوِ=And if | ٱسْتَقَـٰمُواْ=they had remained | عَلَى=on | ٱلطَّرِيقَةِ=the Way, | لَأَسْقَيْنَـٰهُم=surely We (would) have given them to drink | مَّآءً=water | غَدَقًا=(in) abundance,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Ibn Baḥr, as al-Qurṭubī reports, observed that every place in this surah where you read *anna* with the fatḥa — the open 'a' — is no longer the jinn speaking. It is revelation. It is Allah's own voice, spoken directly to His Prophet ﷺ." — The Qurṭubī text provided states the opposite direction: Ibn Baḥr said *"كل ما في هذه السورة من إن المكسورة المثقلة فهي حكاية لقول الجن"* — that the **kasra** (*inna*) forms are the jinn's reported speech. The reflection flips this into a positive claim about the **fatḥa** (*anna*) forms being Allah's direct voice, and attributes that positive claim to Ibn Baḥr. While the logical converse is valid, Ibn Baḥr did not make that positive statement per the text provided — he defined the kasra-jinn side, not the fatḥa-revelation side. The substantive point (this verse is revelation, not jinn speech) is supported by al-Qurṭubī's own framing — *"وهذا محمول على الوحي"* — but that is Qurṭubī's gloss, not Ibn Baḥr's observation. Attributing the fatḥa claim to Ibn Baḥr specifically overstates the source.
+
+SUMMARY: A single moderate attribution error — the Ibn Baḥr observation is inverted from kasra-defines-jinn-speech to fatḥa-defines-divine-speech — while the underlying substantive point is supported by al-Qurṭubī's own text; all morphological claims, root etymologies, and tafsir interpretations are accurate and well-grounded.

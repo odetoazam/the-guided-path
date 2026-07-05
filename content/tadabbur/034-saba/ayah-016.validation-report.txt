@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/034-saba/ayah-016.md
+Ayah: 34:16
+Date: 2026-05-18T00:52:10
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَأَعْرَضُواْ=But they turned away, | فَأَرْسَلْنَا=so We sent | عَلَيْهِمْ=upon them | سَيْلَ=(the) flood | ٱلْعَرِمِ=(of) the dam, | وَبَدَّلْنَـٰهُم=and We changed for them | بِجَنَّتَيْهِمْ=their two gardens | جَنَّتَيْنِ=(with) two gardens | ذَوَاتَىْ أُكُلٍ=producing fruit | خَمْطٍ=bitter, | وَأَثْلٍ=and tamarisks | وَشَىْءٍ=and (some)thing | مِّن=of | سِدْرٍ=lote trees | قَلِيلٍ=few.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+
+- [MODERATE] "In Arabic, the word for 'the face' or 'the side' of something is ʿarḍ" — ʿarḍ (عَرْض) means *breadth* or *width*, not *face*. The Arabic word for face is وجه (wajh). The iʿrāḍ etymology being drawn (pivoting one's broad surface away) is directionally sound, but calling ʿarḍ "the word for the face" is a lexical inaccuracy that could mislead readers who check this claim.
+
+- [MODERATE] "In Form IV — af'ala, the form of aʿraḍū — the verb often carries a sense of causing the action upon oneself" — Form IV (af'ala) is causative in Arabic grammar, typically causing an action upon *something else*, not reflexively upon oneself. Reflexive/self-directed action is the domain of Forms V and VIII. The practical conclusion — that this is an *active, deliberate* turning — is correct, but the morphological explanation as stated is imprecise and would not survive scrutiny from an Arabic grammar audience.
+
+- [MODERATE] "Fa-aʿraḍū. That's it. That's the entire description of what the people of Saba did wrong." — The classical tafsir sources uniformly expand iʿrāḍ beyond ingratitude: Muyassar adds "وكذبوا الرسل" (they denied the messengers); Baghawi and Qurtubi document that Allah sent *thirteen prophets* to Saba who were rejected. The reflection's framing — that the sin was purely failing to say Bismillah and acknowledge provision — captures one authentic strand (kufr al-niʿma) but suppresses the prophetic rejection dimension that all four cited sources foreground. Presenting the meal-gratitude angle as the *complete* account overstates what the ayah alone establishes.
+
+SUMMARY: No root errors or attribution inversions; the core gratitude-collapse narrative is tafsir-sound, but three morphological/lexical claims require tightening before publication.

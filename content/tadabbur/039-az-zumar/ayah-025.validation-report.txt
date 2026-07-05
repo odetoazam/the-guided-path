@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/039-az-zumar/ayah-025.md
+Ayah: 39:25
+Date: 2026-06-25T08:55:22
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: كَذَّبَ=Denied | ٱلَّذِينَ=those who | مِن قَبْلِهِمْ=(were) before them, | فَأَتَـٰهُمُ=so came upon them | ٱلْعَذَابُ=the punishment | مِنْ=from | حَيْثُ=where | لَا=not | يَشْعُرُونَ=they perceive.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE] "al-Baghawi states: *kadhdhaba al-rusul*" — the italicized Arabic is a condensed paraphrase, not a verbatim quote. Baghawi's actual text reads "كذبوا الرسل" (plural perfect). The meaning rendered is accurate; the framing as a direct citation is slightly imprecise. Does not rise to MODERATE because no meaning is distorted.
+- [NOTE] "Surah of Decisions" — an interpretive label, not a classical designation for Az-Zumar. Presented as the author's framing rather than attributed to any scholar, so this is a stylistic choice, not a factual claim. Permissible.
+
+Validated claims:
+- Form II كَذَّبَ as declarative-intensive ("to call a liar / direct rejection at the messenger") vs. Form I كَذَبَ ("to lie") — linguistically well-attested and correctly distinguished.
+- Baghawi's tafsir: "they called the messengers liars" — confirmed in the provided text ("كذبوا الرسل").
+- al-Muyassar: denial of messengers + "had they known the consequence they would have been admonished" — confirmed verbatim ("لو كان هؤلاء المشركون يعلمون... لاتَّعظوا").
+- Passage sequence 39:21–26 (water sign → breast expansion → trembling skin → face-shielding → historical witness → 39:26 worldly humiliation) — accurately described.
+- يَشْعُرُونَ as Form I imperfect 3mp from root شعر denoting intuitive/felt perception — morphologically correct; the lexical connection to شعر (hair/poetry) and sensory awareness is attested in Mufradāt al-Rāghib and Lisān al-ʿArab as claimed in the frontmatter note.
+- Historical peoples (ʿĀd, Thamūd, Lūṭ, Shuʿayb, Pharaoh) — all Quranic, all correctly characterized.
+
+SUMMARY: The reflection is accurate and well-grounded; the Form II linguistic analysis and tafsir attributions hold against the reference data, with only one minor paraphrase-vs-direct-quote imprecision that carries no doctrinal risk.

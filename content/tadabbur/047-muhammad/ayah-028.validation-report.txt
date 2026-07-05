@@ -1,0 +1,30 @@
+Enhanced Validation Report
+File: content/tadabbur/047-muhammad/ayah-028.md
+Ayah: 47:28
+Date: 2026-06-08T12:25:08
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ذَٲلِكَ=That | بِأَنَّهُمُ=(is) because they | ٱتَّبَعُواْ=followed | مَآ=what | أَسْخَطَ=angered | ٱللَّهَ=Allah | وَكَرِهُواْ=and hated | رِضْوَٲنَهُۥ=His pleasure, | فَأَحْبَطَ=so He made worthless | أَعْمَـٰلَهُمْ=their deeds.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR] "Form VIII — the iftaʿala pattern — characteristically folds the action back onto the doer. It makes the act reflexive, deliberate" — slightly overstated as a *characteristic* function; Form VIII (iftaʿala) covers multiple roles (reflexive, middle, and sometimes simply intransitive intensification). The reflexive-deliberate reading is defensible for **ٱتَّبَعُوا** specifically and the interpretive point lands correctly, but presenting it as Form VIII's defining characteristic is a morphology-pedagogy simplification. Classical lexicons do not derive the deliberateness claim from the binyan alone — they derive it from context and usage. Not wrong enough to flag MODERATE; note for future revision.
+
+- [MINOR] The reflection treats "these people" as a unified group (hypocrites) without acknowledging the tafsir split: Al-Qurtubi and Al-Baghawi both transmit Ibn Abbas reading this as the **Ahl al-Kitāb** (concealing the description of the Prophet in the Torah), with hypocrites as a secondary application. The reflection's framing is compatible with the hypocrite reading but presents no ambiguity. The omission is not a factual error but narrows the verse beyond what the provided classical sources support.
+
+No CRITICAL issues: Arabic text matches exactly, all three verb form identifications (Form VIII ٱتَّبَعُوا, Form IV أَسْخَطَ, Form IV فَأَحْبَطَ) are correct, roots ت-ب-ع / س-خ-ط / ح-ب-ط are correctly identified, the 47:27 contextual framing is accurate, and the ihbāṭ claim — "you cannot render worthless what was never there, these people had deeds" — is directly supported by Al-Muyassar (صدقة وصلة رحم).
+
+SUMMARY: Linguistically and textually sound; the only revisable point is that the Form VIII reflexive-deliberate gloss, while defensible for this verb, is presented as morphological law rather than one attested function, and the tafsir's Ahl al-Kitāb application deserves at least a passing acknowledgment.

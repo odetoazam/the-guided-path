@@ -1,0 +1,30 @@
+Enhanced Validation Report
+File: content/tadabbur/058-al-mujadila/ayah-008.md
+Ayah: 58:8
+Date: 2026-06-12T18:54:00
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَلَمْ=Do not | تَرَ=you see | إِلَى=[to] | ٱلَّذِينَ=those who | نُهُواْ=were forbidden | عَنِ=from | ٱلنَّجْوَىٰ=secret counsels, | ثُمَّ=then | يَعُودُونَ=they return | لِمَا=to what | نُهُواْ=they were forbidden | عَنْهُ=from [it], | وَيَتَنَـٰجَوْنَ=and they hold secret counsels | بِٱلْإِثْمِ=for sin | وَٱلْعُدْوَٲنِ=and aggression | وَمَعْصِيَتِ=and disobedience | ٱلرَّسُولِ=(to) the Messenger? | وَإِذَا=And when | جَآءُوكَ=they come to you, | حَيَّوْكَ=they greet you | بِمَا=with what | لَمْ=not | يُحَيِّكَ=greets you | بِهِ=therewith | ٱللَّهُ=Allah, | وَيَقُولُونَ=and they say | فِىٓ=among | أَنفُسِهِمْ=themselves, | لَوْلَا=`Why (does) not | يُعَذِّبُنَا ٱللَّهُ=Allah punish us | بِمَا=for what | نَقُولُ‌ۚ=we say?` | حَسْبُهُمْ=Sufficient (for) them | جَهَنَّمُ=(is) Hell, | يَصْلَوْنَهَا‌ۖ=they will burn in it | فَبِئْسَ=and worst is | ٱلْمَصِيرُ=the destination.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE] "Al-Baghawi describes the scene with a precision that makes your skin crawl. They would sit in clusters and lean in toward one another — and then they would glance over at the believers. A flick of the eyes. A smirk passed between them." — Accurate representation. Baghawi states explicitly: "وينظرون إلى المؤمنين ويتغامزون بأعينهم يوهمون المؤمنين أنهم يتناجون فيما يسوءهم فيحزنون" — the eye-signaling, the deliberate distress, the grief induced. The reflection's "psychologically tortured" is an intensification of Baghawi's فيحزنون ("they would grieve"), but it's framed as narrative immersion, not attributed to a scholar.
+- [NOTE] "الرُّوحِ النَّجَاة / نَجْوَة as high ground" root analysis — cited to Lisān al-ʿArab and Mufradāt al-Rāghib, neither of which is in the provided reference data. The semantic connection of ن-ج-و across najwā/najāh/najwah is well-established in Arabic lexicography and uncontroversial, but cannot be confirmed against the supplied sources. The reflection correctly frames these as lexicographic, not tafsir, claims.
+- [NOTE] "they would slur it, just slightly, into as-sāmu ʿalayka. And as-sām means death." — Confirmed by both Jalalayn ("السام عليك، أي الموت") and Muyassar ("السام عليك أي: الموت"). ✓
+- [NOTE] Interior-monologue interpretation — "If this man were really a prophet, God would strike us dead... So he must be nothing." — Accurately renders the Jalalayn gloss: "وأنه ليس بنبي إن كان نبيا" (they were inwardly saying he is not a prophet — because if he were, God would have punished them). The reflection's syllogism matches the source exactly. ✓
+- [NOTE] Form VI يَتَنَاجَوْنَ and Form II حَيَّوْكَ flagged in morphology header — both correct. Reciprocal/cooperative form for mutual whispering; Form II (فعّل) for the causative greeting action. ✓
+
+SUMMARY: The reflection is accurately grounded throughout — Baghawi's scene reconstruction, the as-sām/death reading, and the Jalalayn interior-monologue gloss are all faithfully rendered; the root analysis is lexicographically sound though unverifiable from the provided reference set.

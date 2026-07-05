@@ -1,0 +1,42 @@
+Enhanced Validation Report
+File: content/tadabbur/111-al-masad/ayahs-004-005.md
+Ayah: 111:4
+Date: 2026-06-20T21:09:21
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَٱمْرَأَتُهُۥ=And his wife, | حَمَّالَةَ=(the) carrier | ٱلْحَطَبِ=(of) firewood,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- None identified in the visible portion of this reflection.
+
+Supporting checks:
+
+**Morphology (ṣīghat al-mubālagha claim):** The reflection states حَمَّالَة is on the *faʿʿāla* pattern indicating intensity and habituality — this is morphological fact, not interpretation. The distinction drawn between *ḥāmila* (plain active participle) and *ḥammāla* (intensity form) is technically correct.
+
+**Divine name examples (al-Ghaffār, al-Tawwāb, al-Razzāq):** All three are correctly on the *faʿʿāl/faʿʿāla* pattern. The pedagogical use is accurate.
+
+**Historical identification:** "Umm Jamil, sister of Abu Sufyan" — confirmed by Baghawi verbatim: *"أم جميل بنت حرب بن أمية أخت أبي سفيان."* ✓
+
+**"Mother of beauty":** Standard translation of her kunya Umm Jamil. ✓
+
+**Relational claim ("his own nephew"):** Abu Lahab was the Prophet's paternal uncle, making the Prophet ﷺ Abu Lahab's nephew — correctly stated. ✓
+
+**"Tabban laka" incident on the hill:** Well-documented in Ṣaḥīḥ al-Bukhārī. ✓
+
+**One observation (not an error):** The tafsir sources (Jalalayn, Muyassar, Baghawi) specify the *ḥaṭab* was specifically الشوك (thorns), not generic firewood, while the reflection translates it as "firewood." This is the literal Quranic word, and the thorn specification belongs to tafsir commentary. The reflection's concepts include "firewood-as-slander," suggesting the naminah interpretation (Qurtubi: Ibn Abbas, Mujahid, Qatada) will be addressed — the cut-off text hasn't reached it yet. Not an error.
+
+SUMMARY: The reflection's morphological, historical, and interpretive claims are all accurately grounded in the reference data; no errors detected in the visible portion.

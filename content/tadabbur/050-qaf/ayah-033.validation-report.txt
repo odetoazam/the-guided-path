@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/050-qaf/ayah-033.md
+Ayah: 50:33
+Date: 2026-06-08T19:51:35
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: مَّنْ=Who | خَشِىَ=feared | ٱلرَّحْمَـٰنَ=the Most Gracious | بِٱلْغَيْبِ=in the unseen, | وَجَآءَ=and came | بِقَلْبٍ=with a heart | مُّنِيبٍ=returning.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE — NOT A FLAG] "Ar-Rāghib al-Iṣfahānī, in his *Mufradāt*, defines *khashya* as a fear shot through with *taʿẓīm*... arising *mostly from knowledge*" — The Mufradāt is not among the provided reference sources, so this attribution cannot be directly verified from the data given. The claim is consistent with standard classical lexicographic tradition and is not contradicted by any provided source, but it sits outside the verifiable evidence window for this validation pass.
+- [NOTE — NOT A FLAG] The *faʿlān* pattern analysis for Raḥmān ("floods its possessor") is linguistically standard and defensible, though it reads as interpretive linguistic commentary rather than a falsifiable factual claim — appropriate for tadabbur framing.
+
+All other verifiable claims check out:
+
+- Arabic text matches the authentic (the ۢ marker on بِقَلْبٍۢ is a diacritical variant, not a textual error).
+- khashya / khawf distinction is lexically sound; the 35:28 citation ("إِنَّمَا يَخْشَى ٱللَّهَ مِنْ عِبَادِهِ ٱلْعُلَمَـٰٓؤُاْ") is accurate and directly supports the knowledge-fear link.
+- *baʿīd* (50:3) / *ghayra baʿīd* (50:31) reversal is a real structural feature, not an invented claim.
+- 50:32 awwāb + ḥafīẓ correctly transcribed; verse 33 as appositive specifier of awwāb is confirmed in al-Qurtubi ("من في محل خفض على البدل من قوله لكل أواب حفيظ") and al-Baghawi ("محل من جر على نعت الأواب").
+- munīb as Form IV active participle of root n-w-b is morphologically correct.
+- 50:16 jugular-vein reference is accurate.
+
+SUMMARY: The reflection is linguistically and exegetically sound against all verifiable reference data; the one unverifiable citation (Rāghib) is consistent with classical lexicographic consensus and warrants no flag.

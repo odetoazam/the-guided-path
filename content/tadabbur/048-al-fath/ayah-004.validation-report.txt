@@ -1,0 +1,37 @@
+Enhanced Validation Report
+File: content/tadabbur/048-al-fath/ayah-004.md
+Ayah: 48:4
+Date: 2026-06-08T13:55:36
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: هُوَ=He | ٱلَّذِىٓ=(is) the One Who | أَنزَلَ=sent down | ٱلسَّكِينَةَ=[the] tranquility | فِى=in(to) | قُلُوبِ=(the) hearts | ٱلْمُؤْمِنِينَ=(of) the believers | لِيَزْدَادُوٓاْ=that they may increase | إِيمَـٰنًا=(in) faith | مَّعَ=with | إِيمَـٰنِهِمْ‌ۗ=their faith. | وَلِلَّهِ=And for Allah | جُنُودُ=(are the) hosts | ٱلسَّمَـٰوَٲتِ=(of) the heavens | وَٱلْأَرْضِ‌ۚ=and the earth, | وَكَانَ ٱللَّهُ=and Allah | عَلِيمًا=(is) All-Knower, | حَكِيمًا=All-Wise.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+**VERDICT: PASS**
+
+**ISSUES:**
+
+- [PASS] "ʿUmar ibn al-Khaṭṭāb… 'Are you not truly the Messenger of Allah? Then why are we giving up our religion in this?'" — Paraphrase of the well-attested Ḥudaybiyya narrative (Bukhārī, Kitāb al-Shurūṭ). The spirit and substance are accurate; no inversion or fabrication.
+
+- [PASS] "*anzala* — the verb of rain… of revelation… of things that arrive from the sky" — Lexically sound. The verb *anzala* is used for rain, Quranic revelation, and angelic descent throughout the Quran. No overclaim.
+
+- [PASS] "*sakīna* is built from the same root as ***maskan*** — a home, a dwelling" — Lexically verified. Both derive from root *s-k-n*; *maskan* (مَسْكَن) is a well-attested Form I noun of place from the same root. This root-family argument is a standard classical hermeneutical move (Rāghib al-Iṣfahānī's *Mufradāt* documents it), and the reflection's morphological note even flags this source.
+
+- [PASS] *Sakīna* = al-ṭumaʾnīna (tranquility/stillness) — Confirmed identically by all four tafsir sources provided: al-Jalālayn, al-Muyassar, al-Qurṭubī (citing Ibn ʿAbbās), and al-Baghawī (citing Ibn ʿAbbās).
+
+- [PASS] Ḥudaybiyya as the context for this sakīna — Explicitly confirmed by al-Muyassar: *"يوم الحديبية فسكنت"* ("on the Day of Ḥudaybiyya, so it [the heart] grew still").
+
+- [PASS] "This tranquility descended while circumstances were still, by every outward measure, a defeat" — Supported by the Ḥudaybiyya context across the tafsir. The ayah is about a peace that arrived *against* the conditions, which is precisely what al-Muyassar and al-Qurṭubī confirm.
+
+**SUMMARY:** All linguistic, historical, and doctrinal claims in the first 8,000 characters are lexically grounded and consistent with the classical tafsir record — no fabrications, no inverted attributions, no root errors.

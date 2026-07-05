@@ -1,0 +1,30 @@
+Enhanced Validation Report
+File: content/tadabbur/038-sad/ayahs-071-072.md
+Ayah: 38:71
+Date: 2026-06-06T01:20:15
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِذْ=When | قَالَ=said | رَبُّكَ=your Lord | لِلْمَلَـٰٓئِكَةِ=to the Angels, | إِنِّى=`Indeed, I Am | خَـٰلِقُۢ=going to create | بَشَرًا=a human being | مِّن=from | طِينٍ=clay.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "innī khāliqun basharan — Indeed, I am the One creating a human being" — Ism al-fāʿil identification is correct. The word-by-word reference gives "going to create," confirming khāliqun is used for imminent/ongoing action, not a simple past or future verb form. Accurate.
+- [PASS] "The word Rabb doesn't only mean master — it means the one who nurtures a thing, who takes it from stage to stage" — Linguistically attested. Rabb from r-b-b carries this nurturing/tending semantic range in classical lexicons. Consistent with the tafsir framing.
+- [PASS] "Not light, like the angels. Not fire, like the jinn" — Not derivable from the reference data provided (this comes from Sahih Muslim and Quran 15:27/55:15), but this is standard Islamic theology and not contested. Cannot verify from these sources alone, but not an error.
+- [PASS] Form II (sawwaytu) claim — The text is cut off before the argument completes ("Now here is our"), so only the setup can be assessed. The general characterization of Form II as deliberate/thorough shaping is linguistically sound. The علم → عَلَّمَ example given is a standard causative illustration. No error in what is present.
+- [MODERATE] "It flows from His very nature. When you announce 'I am about to lift this boulder,' there's effort in the announcement. When the One who is Al-Khāliq says innī khāliqun, there is no strain" — The reflection presents the ism al-fāʿil as expressing Allah's essential nature as Creator. The word-by-word reference and classical sources confirm khāliqun as "going to create" (near-future/imminent). The "nature of the doer" reading is a valid secondary inference, but the primary grammatical function here is imminence — stating this as a clear reveal of divine nature goes slightly beyond what this form strictly demonstrates in this context. Interpretive extension, not an error, but worth flagging.
+
+SUMMARY: The reflection is linguistically careful and tafsir-consistent through the portion provided; the one MODERATE flag is a minor overstatement of what the ism al-fāʿil form grammatically proves versus what is theologically inferred.

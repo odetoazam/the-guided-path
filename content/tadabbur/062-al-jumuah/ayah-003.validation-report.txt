@@ -1,0 +1,37 @@
+Enhanced Validation Report
+File: content/tadabbur/062-al-jumuah/ayah-003.md
+Ayah: 62:3
+Date: 2026-06-13T01:33:41
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَءَاخَرِينَ=And others | مِنْهُمْ=among them | لَمَّا يَلْحَقُواْ=who have not yet joined | بِهِمْ‌ۚ=them; | وَهُوَ=and He | ٱلْعَزِيزُ=(is) the All-Mighty, | ٱلْحَكِيمُ=the All-Wise.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+**VERDICT: PASS**
+
+**ISSUES:**
+
+- [MINOR IMPRECISION] "Al-Qurṭubī and al-Baghawī *both* explain that ākharīn is coupled onto the unlettered ones" — accurate but slightly flattens the nuance. Al-Qurṭubī states this as the primary reading ("هو عطف على الأميين"), while al-Baghawī presents it as one of two grammatical options ("أحدهما الخفض، على الرد إلى الأميين"). The reflection's framing implies equal weight between them on this point. Not a factual error — both scholars do affirm the coupling — but the asymmetry is worth knowing. No correction required.
+
+- [UNVERIFIABLE FROM PROVIDED DATA] The scene-setting date "somewhere around 630" for the revelation of Surah Al-Jumuʿah. Standard chronologies place it earlier (2–6 AH / 623–628 CE). The provided tafsir sources don't address revelation chronology, so this cannot be confirmed or refuted from the reference data supplied. Flag for separate asbāb al-nuzūl verification.
+
+All three substantive claims in the excerpt check out against the provided sources:
+
+1. The ʿaṭf grammar — both coupling targets (al-ummiyyīn and the pronoun in yuʿallimuhum) — is correctly attributed and matches al-Qurṭubī ("هو عطف على الأميين" / "ويجوز أن يكون منصوبا بالعطف على الهاء والميم في يعلمهم") and al-Baghawī.
+2. The "chain of teaching ascribed back to the Prophet" is a direct rendering of al-Qurṭubī's "لأن التعليم إذا تناسق إلى آخر الزمان كان كله مسندا إل..." — accurately attributed.
+3. The grammatical treatment of لَمَّا as negation with expectation of future occurrence is standard naḥw and consistent with the word-by-word gloss ("have not *yet* joined").
+
+Arabic text matches the authentic Arabic exactly.
+
+**SUMMARY:** The 8,000-character excerpt is linguistically precise and tafsir-grounded; all scholar attributions verify against the provided classical sources, with one minor asymmetry in how equally the two imams are weighted on the primary coupling.

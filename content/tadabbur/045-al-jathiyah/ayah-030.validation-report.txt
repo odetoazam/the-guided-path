@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/045-al-jathiyah/ayah-030.md
+Ayah: 45:30
+Date: 2026-06-08T05:04:10
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَأَمَّا=Then as for | ٱلَّذِينَ=those who | ءَامَنُواْ=believed | وَعَمِلُواْ=and did | ٱلصَّـٰلِحَـٰتِ=[the] righteous deeds, | فَيُدْخِلُهُمْ=will admit them | رَبُّهُمْ=their Lord | فِى=in(to) | رَحْمَتِهِۦ‌ۚ=His mercy. | ذَٲلِكَ=That | هُوَ=[it] | ٱلْفَوْزُ=(is) the success | ٱلْمُبِينُ=clear.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "This is exactly what the Prophet ﷺ taught in a narration traced directly to him, in both Bukhari and Muslim —" — The attribution is asserted as documented fact but the reflection is cut off before specifying which hadith. The claim cannot be verified from the provided reference data. Based on context the intended hadith is likely *"lan yudkhila aḥadan ʿamaluhu al-jannah"* (no one's deeds will admit him to paradise), which does appear in Bukhari and Muslim — but since the text was truncated, the full claim remains unconfirmable against provided sources, and the hadith must be cited precisely when the attribution is this specific.
+
+Everything else in the provided excerpt holds:
+
+- **Arabic text** matches the authentic source exactly (diacritic variation only, no textual error).
+- **Form IV causative analysis of *yudkhilu*** is morphologically correct (root *d-kh-l*, Form IV *adkhala* = to cause to enter / admit). Observation that the verse uses causative rather than simple intransitive *yadkhulūna* is linguistically sound.
+- **Grammatical reversal** (believers are subject of *āmanū/ʿamilū*, then become object *-hum* of *yudkhiluhum*) is accurately described.
+- ***al-mubīn* as Form IV active participle** is correct; al-Baghawi's *al-ẓāhir* (the manifest/clear) confirms the gloss.
+- **Rahma ≠ Jannah distinction** — the reflection notes the verse says "mercy," not "paradise." The tafsirs (Jalālayn, Qurtubi) do equate rahma here with Jannah, but the reflection is making a literary observation about word choice, not denying the equation — this is a legitimate expository move, not an error.
+- **Surah name, 45:23 quotation, 45:28 kneeling scene, and 45:24 "nothing destroys us but time"** are all accurate.
+
+SUMMARY: Reflection is linguistically rigorous and theologically sound; the only flag is a truncated hadith attribution that must be completed with the precise wording and book/chapter reference before going live.

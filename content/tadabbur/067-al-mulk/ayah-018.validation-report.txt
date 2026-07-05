@@ -1,0 +1,42 @@
+Enhanced Validation Report
+File: content/tadabbur/067-al-mulk/ayah-018.md
+Ayah: 67:18
+Date: 2026-06-13T14:44:33
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَلَقَدْ=And indeed, | كَذَّبَ=denied | ٱلَّذِينَ=those | مِن قَبْلِهِمْ=before them, | فَكَيْفَ=and how | كَانَ=was | نَكِيرِ=My rejection.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- None identified. All verifiable claims align with the reference data.
+
+Spot-checks performed:
+
+**Arabic text** — exact match to authentic Arabic provided. ✓
+
+**وَلَقَدْ triple-emphasis analysis** — wāw (conjunction), lām (oath-particle), qad (perfective emphasizer) is standard Arabic grammar. The claim that all three stack into a single insistent assertion is linguistically sound. ✓
+
+**كَذَّبَ Form II analysis** — root ك-ذ-ب correctly identified; Form I/Form II distinction (intensification, not causative) is accurate. The frontmatter note explicitly flags this and the prose stays inside it. ✓
+
+**نَكِيرِ as "My rejection"** — matches word-by-word reference. Classical sources (Jalālayn, Muyassar, Baghawī, Qurṭubī) all gloss it as إنكاري عليهم — divine rejection manifested as punishment/destruction. The translation's implied "[terrible]" is a reasonable rhetorical inference from that context, not an invention. ✓
+
+**Historical framing (Mecca, Quraysh climate)** — Al-Mulk is Meccan; the "fifth or sixth year" placement and the seerah detail about Quraysh listening secretly at night are consistent with documented sīrah tradition. These are framed as narrative context, not tafsīr claims, so no flag warranted. ✓
+
+**"Motivated reasoning" modern bridge** — clearly presented as a modern psychological parallel, not attributed to classical sources. Framing is clean. ✓
+
+**One observation (non-flag):** The tafsir sources (Muyassar, Qurṭubī) name specific nations — Nūḥ, ʿĀd, Thamūd, Lūṭ, Madyan, Firʿawn — as the referents of الَّذِينَ مِن قَبْلِهِمْ. The visible portion of the reflection does not yet engage these specific nations; if a later section does, verify that any nation listed matches what the tafsir sources name, not a broader or narrower set.
+
+SUMMARY: The reflection's morphological, grammatical, and tafsīr-grounded claims are all accurate within the reference data provided; no errors detected in the visible 8,000 characters.

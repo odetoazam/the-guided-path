@@ -1,0 +1,38 @@
+Enhanced Validation Report
+File: content/tadabbur/060-al-mumtahanah/ayah-010.md
+Ayah: 60:10
+Date: 2026-06-12T20:56:00
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ=O you who believe! | إِذَا=When | جَآءَكُمُ=come to you | ٱلْمُؤْمِنَـٰتُ=the believing women | مُهَـٰجِرَٲتٍ=(as) emigrants, | فَٱمْتَحِنُوهُنَّ‌ۖ=then examine them. | ٱللَّهُ=Allah | أَعْلَمُ=(is) most knowing | بِإِيمَـٰنِهِنَّ‌ۖ=of their faith. | فَإِنْ=And if | عَلِمْتُمُوهُنَّ=you know them | مُؤْمِنَـٰتٍ=(to be) believers, | فَلَا=then (do) not | تَرْجِعُوهُنَّ=return them | إِلَى=to | ٱلْكُفَّارِ‌ۖ=the disbelievers. | لَا=Not | هُنَّ=they | حِلٌّ=(are) lawful | لَّهُمْ=for them | وَلَا=and not | هُمْ=they | يَحِلُّونَ=are lawful | لَهُنَّ‌ۖ=for them. | وَءَاتُوهُم=But give them | مَّآ=what | أَنفَقُواْ‌ۚ=they have spent. | وَلَا=And not | جُنَاحَ=any blame | عَلَيْكُمْ=upon you | أَن=if | تَنكِحُوهُنَّ=you marry them | إِذَآ=when | ءَاتَيْتُمُوهُنَّ=you have given them | أُجُورَهُنَّ‌ۚ=their (bridal) dues. | وَلَا=And (do) not | تُمْسِكُواْ=hold | بِعِصَمِ ٱلْكَوَافِرِ=to marriage bonds with disbelieving women, | وَسْــَٔلُواْ=but ask (for) | مَآ=what | أَنفَقْتُمْ=you have spent, | وَلْيَسْــَٔلُواْ=and let them ask | مَآ=what | أَنفَقُواْ‌ۚ=they have spent. | ذَٲلِكُمْ=That | حُكْمُ=(is the) Judgment | ٱللَّهِ‌ۖ=(of) Allah. | يَحْكُمُ=He judges | بَيْنَكُمْ‌ۚ=between you. | وَٱللَّهُ=And Allah | عَلِيمٌ=(is) All-Knowing, | حَكِيمٌ=All-Wise.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No CRITICAL or MODERATE issues found within the 8,000 characters reviewed.
+
+Supporting verifications:
+
+**Historical framing** — The Hudaybiyya return-clause description ("anyone who flees from Mecca to Medina must be returned; one-directional") is accurately rendered. The attribution "Al-Baghawi preserves the long narration — reported through al-Bukhārī's chain — of how Suhayl ibn ʿAmr... drove that very condition into the document" is confirmed by the Baghawi excerpt: the chain reads محمد بن يوسف → محمد بن إسماعيل (= al-Bukhārī) → Yahyā ibn Bukayr → al-Layth → ʿUqayl → Ibn Shihāb → ʿUrwa ibn al-Zubayr. That is the canonical Hudaybiyya chain. Suhayl ibn ʿAmr as Quraysh's treaty negotiator is consistent with this narration.
+
+**Umm Kulthūm bint ʿUqba** — Traditional attribution for this ayah's occasion; not contradicted by any reference provided.
+
+**Root م-ح-ن and Form VIII** — فَٱمْتَحِنُوهُنَّ is correctly identified as Form VIII (افتعل pattern: a + م + ت-infix + ح + ن = امتحن). The characterization of Form VIII as deliberate/sustained is a sound pedagogical description. The root's base sense of testing/examining is lexically correct; the silver-in-fire illustration is a pedagogical gloss, not a direct lexical claim, and does not overstate the evidence.
+
+**Theological claim** — "the test adds nothing to the knowledge of the One who commanded it" is directly entailed by the ayah's syntax (command to test, immediately followed by اللَّهُ أَعْلَمُ بِإِيمَانِهِنَّ) and is consistent with the al-Muyassar framing ("examine them to know the truthfulness of their faith" — i.e., the examination is for the community's legal reckoning, not divine information). This is not overstated.
+
+**Arabic text** — Minor Unicode diacritic encoding variations between the frontmatter Arabic and the authentic Arabic (ٓاْ vs ٓا۟, ـٰ vs ٰ). These are encoding conventions, not textual errors.
+
+SUMMARY: Every verifiable historical, linguistic, and theological claim in the reviewed portion is accurate and grounded in the provided reference data; no errors of any severity detected.

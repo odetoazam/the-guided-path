@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/038-sad/ayahs-041-044.md
+Ayah: 38:41
+Date: 2026-06-06T00:28:38
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَٱذْكُرْ=And remember | عَبْدَنَآ=Our slave | أَيُّوبَ=Ayyub, | إِذْ=when | نَادَىٰ=he called | رَبَّهُۥٓ=his Lord, | أَنِّى=`That [I], | مَسَّنِىَ=has touched me | ٱلشَّيْطَـٰنُ=Shaitaan | بِنُصْبٍ=with distress | وَعَذَابٍ=and suffering.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: CRITICAL
+
+ISSUES:
+- [CRITICAL] `translation: "...when he called upon his Lord: 'Affliction has touched me, and You are the Most Merciful of the merciful' — distress has touched me, and suffering."` — The phrase "and You are the Most Merciful of the merciful" (وَأَنتَ أَرْحَمُ الرَّاحِمِينَ) does not exist anywhere in 38:41. The authentic Arabic of 38:41 is exclusively: "أَنِّي مَسَّنِيَ الشَّيْطَانُ بِنُصْبٍ وَعَذَابٍ." That phrase is imported from the parallel Ayyub passage at 21:83. The reflection's body text correctly reads only "distress has touched me, and suffering" throughout — making this a frontmatter-only contamination, but it is still an error that puts words into the ayah that are not there.
+
+PASS-WORTHY ITEMS (confirmed accurate):
+- Nuṣb rendered as "distress/hardship" — confirmed by Jalalayn (ضر), Baghawi (بمشقة وضر)
+- Attribution of harm to Shaytan as adab with Allah — explicitly confirmed by Jalalayn: "ونسب ذلك إلى الشيطان وإن كانت الأشياء كلها من الله تأدبا معه تعالى"
+- "Baghawi reminds us the story of Ayyub and duration of trial were touched in Surah al-Anbiya" — confirmed verbatim: "وقد ذكرنا قصة أيوب ومدة بلائه في سورة الأنبياء"
+- Surah Sad as prophetic consolation for Makkan hardship — confirmed by Qurtubi: "أمر للنبي ﷺ بالاقتداء بهم في الصبر على المكاره"
+- ʿabdanā / niʿma al-ʿabd inclusio — lexically grounded and structurally sound
+- "Description, not demand" interpretive reading — consistent with the text; no tafsir source contradicts it
+
+SUMMARY: The reflection body is accurate and well-grounded throughout; the sole error is in the frontmatter translation field, where a phrase from 21:83 has been incorrectly appended to the translation of 38:41 — fix by removing "and You are the Most Merciful of the merciful" from the ayah 41 translation.

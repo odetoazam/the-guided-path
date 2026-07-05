@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/075-al-qiyamah/ayah-006.md
+Ayah: 75:6
+Date: 2026-06-18T08:45:09
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَسْــَٔلُ=He asks, | أَيَّانَ=`When | يَوْمُ=(is the) Day | ٱلْقِيَـٰمَةِ=(of) the Resurrection?`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR, UNVERIFIABLE FROM PROVIDED DATA] "Four scholars. Different centuries. Different methodologies. And they arrive at the same portrait: this question is not a request for information. It is a refusal of reality dressed as an inquiry." — The grouping of al-Qurtubi as a fourth witness to this portrait is not verifiable from the provided excerpt. The supplied al-Qurtubi text reads only: *يسأل أيان يوم القيامة أي متى يوم القيامة* — a bare lexical gloss (أيان = متى), with no denial or mockery framing. The other three scholars explicitly confirm the portrait (Jalalayn: *سؤال استهزاء وتكذيب*; Baghawi: *تكذيباً به*; Muyassar: *مستبعداً*), but Qurtubi's inclusion in the "same portrait" claim rests on an excerpt that doesn't say it. The full Qurtubi commentary almost certainly contains the standard denial framing, but "say so rather than guessing" applies — this cannot be confirmed from the data supplied.
+
+All other claims check out:
+- Al-Jalalayn: *سؤال استهزاء وتكذيب* — quoted correctly, exact match.
+- Al-Baghawi: *تكذيباً به* — quoted correctly, exact match.
+- Al-Muyassar: *مستبعداً* — correctly identified and reasonably rendered as "considering it remote, treating it as impossible."
+- The linguistic contrast of أَيَّانَ vs. مَتَى (remoteness/enormity connotation) is consistent with classical Arabic grammar (Ibn Hisham, Mugni al-Labib) and is noted in the reflection's own morphology comment as drawing on classical lexicons — not contradicted by any provided reference.
+- Cross-references to 79:42 and 7:187 for أَيَّانَ are accurate Quranic uses.
+- The imperfect (muḍāriʿ) aspect analysis of يَسْأَلُ as habitual is morphologically sound.
+- The structural observation that يَوْمُ الْقِيَامَةِ appears in both the oath (75:1) and the mocking question (75:6) is accurate and represents legitimate literary analysis.
+
+SUMMARY: The reflection is accurately grounded in the provided tafsir data on all direct quotations and attributions; the only gap is that the Qurtubi snippet supplied does not corroborate the claim that he too frames the asking as denial, though the other three scholars clearly do.

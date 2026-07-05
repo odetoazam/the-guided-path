@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/033-al-ahzab/ayah-048.md
+Ayah: 33:48
+Date: 2026-05-15T05:54:50
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَلَا=And (do) not | تُطِعِ=obey | ٱلْكَـٰفِرِينَ=the disbelievers | وَٱلْمُنَـٰفِقِينَ=and the hypocrites, | وَدَعْ=and disregard | أَذَٮٰهُمْ=their harm, | وَتَوَكَّلْ=and put your trust | عَلَى=in | ٱللَّهِۚ=Allah. | وَكَفَىٰ بِٱللَّهِ=And sufficient is Allah | وَكِيلاً=(as) a Trustee.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "the munāfiqūn — Ibn Ubayy, Ibn Saʿd, Ṭuʿma ibn Ubayriq — were urging the Prophet ﷺ to respond to them under the pretext of maṣlaḥa, of 'the greater good'" — This is presented inside the sentence "Al-Qurtubi captures the social mechanism explicitly," making it read as a Qurtubi-sourced claim. The provided Qurtubi excerpt confirms the three names and begins "حثوا النبي صلى الله عليه وسلم على إجاب..." but the text is cut off before completing the description of what they urged. The word maṣlaḥa appears nowhere in the provided excerpt. The "greater good / maṣlaḥa" framing cannot be verified from the reference data as given, and attributing it to Qurtubi's account overstates what is shown.
+
+All other verifiable claims pass:
+- The three kāfirūn names (Abu Sufyan, ʿIkrima, Abu al-Aʿwar al-Sulami) and their exact statement ("lā tadhkur ālihatanā bi-sūʾ nattabiʿka") match the Qurtubi extract precisely.
+- The three munāfiqūn names (Ibn Ubayy, Ibn Saʿd, Ṭuʿma ibn Ubayriq) are correctly drawn from Qurtubi.
+- The Jalalayn gloss ("fīmā yukhālifu sharīʿatak") is quoted accurately.
+- The Form IV analysis of ṭ-w-ʿ (aṭāʿa/yuṭīʿu → jussive tuṭiʿ) is morphologically correct, with the kasra explained by the following ال.
+- The lā + jussive as absolute prohibition is grammatically accurate.
+- The five honorific titles (33:45–46) are counted correctly.
+- The preventative-armor reading is interpretive but consistent with al-Muyassar's emphasis on continued tablīgh despite harm.
+
+SUMMARY: The reflection is linguistically careful and scholar-grounded throughout; the single MODERATE flag is a maṣlaḥa characterization placed inside a Qurtubi attribution that the truncated excerpt does not support — either cut the "maṣlaḥa / greater good" gloss or mark it clearly as the author's inference rather than Qurtubi's account.

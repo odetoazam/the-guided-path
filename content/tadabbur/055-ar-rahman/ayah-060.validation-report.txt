@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/055-ar-rahman/ayah-060.md
+Ayah: 55:60
+Date: 2026-06-11T23:20:34
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: هَلْ=Is | جَزَآءُ=(the) reward | ٱلْإِحْسَـٰنِ=for the good | إِلَّا=but | ٱلْإِحْسَـٰنُ=good?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate errors found in this excerpt.
+
+For completeness, three claims I verified against the provided data:
+
+1. **Al-Qurtubī's four registers of هَلْ** — The reflection accurately reproduces all four: *qad* (هل أتى على الإنسان), *istifhām* (فهل وجدتم), *amr* (فهل أنتم منتهون), and *mā* in *al-jaḥd* (negation). All four examples match the provided Qurtubī excerpt verbatim. The attribution is secure and the excerpt is explicitly from his tafsir of this very ayah (*قوله تعالى: هل جزاء الإحسان إلا الإحسان*), so applying the negation reading to 55:60 is directly supported — not inferred.
+
+2. **Root Ḥ-S-N and Form IV verbal noun** — Linguistically correct. *Iḥsān* is the maṣdar of Form IV *aḥsana*; the field note in the frontmatter cites Lisān al-ʿArab and Rāghib's Mufradāt, both standard and appropriate sources for this root.
+
+3. **Qaṣr/ḥaṣr construction via هَلْ + إِلَّا** — The analysis is textbook Arabic rhetoric. The Jalālayn gloss (*«هَلْ» ما*) independently confirms the negation reading, corroborating the structural claim.
+
+One observation, not an error: the reflection asserts "al-Qurtubī tells us, *hal* ... means 'there is not'" and implies he applies this specifically to 55:60. Strictly, the provided excerpt documents the four registers without explicitly stating which one governs this verse — the application is the reader's (standard and defensible) inference. The excerpt cuts off before Qurtubī's verdict. This is not wrong, but a careful teacher might say "Qurtubī documents the negation register of *hal*, which classical commentators apply here" rather than implying Qurtubī makes the application explicit in this excerpt.
+
+SUMMARY: The reflection is linguistically precise and correctly grounded in the provided tafsir data; no errors requiring correction.

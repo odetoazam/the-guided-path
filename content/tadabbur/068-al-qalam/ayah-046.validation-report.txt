@@ -1,0 +1,38 @@
+Enhanced Validation Report
+File: content/tadabbur/068-al-qalam/ayah-046.md
+Ayah: 68:46
+Date: 2026-06-15T00:21:26
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَمْ=Or | تَسْــَٔلُهُمْ=you ask them | أَجْرًا=a payment, | فَهُم=so they | مِّن=from | مَّغْرَمٍ=(the) debt | مُّثْقَلُونَ=(are) burdened?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "The classical scholars recognized this sequence as a form of *istifsār taqrīrī* — a confirmatory interrogation" — this specific Arabic rhetorical label is attributed to "classical scholars" as if established terminology, but it does not appear in any of the four provided sources (Jalalayn, Muyassar, Qurtubi, Baghawi). The underlying concept — that the أَمْ sequence closes off justifications one by one — is genuinely present in Qurtubi ("عاد الكلام إلى ما تقدم" and his contextual chaining), but presenting *istifsār taqrīrī* as a term the classical tradition explicitly applied here cannot be verified from the provided data. Should be hedged: "a pattern classical rhetoricians identify as..." or the term sourced to a specific work.
+
+No other flags in the visible 8000 characters:
+
+- **Arabic text**: accurate (ۭ/ۢ omissions are recitation annotation marks only, not letters — PASS)
+- **Translation**: accurate against word-by-word reference ✓
+- **أجر = no payment for conveying the message**: confirmed by all four tafsirs ✓
+- **مغرم as burden/debt**: Qurtubi explicitly glosses غرامة as financial burden ("لما يشق عليهم من بذل المال") ✓
+- **مثقلون as passive participle of Form IV ثقل**: grammatically correct; note is in the pruned header, not the body ✓
+- **"possibly the second revelation after Iqra"**: appropriately hedged with *possibly* — PASS
+- **أَمْ muttasila/munqatiʿa distinction**: standard classical Arabic grammar, accurately described ✓
+- **Surrounding sequence 68:39–47 (covenant, partnership, knowledge of unseen)**: consistent with Qurtubi's reference to "أم لهم شركاء" and the chain framing ✓
+- **Prophet asking no wage**: confirmed by Jalalayn ("على تبليغ الرسالة"), Muyassar ("أجرا دنيويا على تبليغ الرسالة"), Qurtubi ("ليس عليهم كلفة") ✓
+
+SUMMARY: The reflection is substantively accurate against all four tafsirs; the single moderate issue is presenting *istifsār taqrīrī* as an established classical term rather than a modern analytical label applied to a concept the classical sources do describe but do not name with this phrase.

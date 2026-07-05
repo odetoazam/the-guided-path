@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/052-at-tur/ayah-031.md
+Ayah: 52:31
+Date: 2026-06-09T17:02:21
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: قُلْ=Say, | تَرَبَّصُواْ=`Wait, | فَإِنِّى=for indeed I am, | مَعَكُم=with you, | مِّنَ=among | ٱلْمُتَرَبِّصِينَ=those who wait.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] Root identification **ر-ب-ص (r-b-ṣ)** is correct. Both *tarabbaṣū* (Form V imperative) and *al-mutarabbiṣīn* (Form V active participle *mutafaʿʿil*) are accurately identified, consistent with the Leeds corpus note in the frontmatter.
+- [PASS] "The same word they just used — their word, their whole strategy — and hand it right back" — linguistically accurate. 52:30 contains *natarabbaṣu bihi* (same root, same form), and this verse responds with *tarabbaṣū* + *al-mutarabbiṣīn*. The mirroring is real, not fabricated.
+- [PASS] Form V characterization: *ta-* prefix + doubled middle radical described as intensive + reflexive/self-directed. This is a lay-accessible simplification that is technically defensible — Form V (*tafaʿʿala*) does carry reflexive and intensive semantics derived from its Form II base. Not an error.
+- [PASS] "One side knows what's coming" framing maps directly onto all four tafsir sources: al-Jalālayn: *mutarabbiṣīn* = waiting for "هلاككم" (your destruction); al-Muyassar: "المنتظرين بكم العذاب"; al-Qurṭubī and al-Baghawī: "المنتظرين بكم العذاب حتى يأتي أمر الله." The asymmetry the reflection builds its argument on is the classical reading, not an interpretive extension.
+- [PASS] *Rayb al-manūn* glossed as "disasters of time, the accidents of fate, and above all, death" — standard Arabic lexical meaning of the phrase from 52:30; not contested.
+- [PASS] Word count "six words in the Arabic": قُلْ — تَرَبَّصُوا — فَإِنِّى — مَعَكُم — مِّنَ — ٱلْمُتَرَبِّصِينَ. Correct.
+
+SUMMARY: All verifiable claims — root, verb form, tafsir framing, and contextual mirroring from 52:30 — are accurate and supported by the provided reference data; no errors detected.

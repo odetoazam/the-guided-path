@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/071-nuh/ayahs-005-009.md
+Ayah: 71:5
+Date: 2026-06-15T04:08:15
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: قَالَ=He said, | رَبِّ=`My Lord! | إِنِّى=Indeed, I | دَعَوْتُ=invited | قَوْمِى=my people | لَيْلاً=night | وَنَهَارًا=and day.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate errors found.
+
+Minor observations (non-flagged, informational only):
+- The morphology comment uses "Srr" (capital S for ص ر ر, persist) vs "srr" (lowercase for س ر ر, speak secretly) to distinguish two separate roots sharing the same romanization. The distinction is marked but relies on transliteration capitalization alone — not an error, but a potential source of confusion for readers checking the note.
+- The Jalalayn gloss "دائما متصلا" (continuously, uninterruptedly) directly supports the reflection's "every hour" framing. The reflection does not overstate this — it presents it as implication of the temporal merism, not as a distinct scholarly claim.
+- The 950-year reference (29:14: أَلْفَ سَنَةٍ إِلَّا خَمْسِينَ عَامًا) is cited correctly and used as contextual weight, not as part of a legal or theological argument.
+- The *firār* root analysis (ف ر ر, bolting/flight) is lexically sound; Muyassar's "هربًا وإعراضًا عنه" corroborates the flight imagery without contradiction.
+- No named scholar positions are inverted or misattributed — the reflection avoids attribution claims entirely for these ayahs.
+
+SUMMARY: The reflection is linguistically rigorous, all Arabic text matches the Uthmani rasm, root and form claims are attested in classical lexicons, the Quranic cross-reference is accurate, and interpretive extensions are presented as such rather than as documented scholarly positions.

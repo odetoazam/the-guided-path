@@ -1,0 +1,24 @@
+Enhanced Validation Report
+File: content/tadabbur/033-al-ahzab/ayah-018.md
+Ayah: 33:18
+Date: 2026-05-15T05:59:51
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ۞ قَدْ=Verily, | يَعْلَمُ ٱللَّهُ=Allah knows | ٱلْمُعَوِّقِينَ=those who hinder | مِنكُمْ=among you | وَٱلْقَآئِلِينَ=and those who say | لِإِخْوَٲنِهِمْ=to their brothers, | هَلُمَّ=`Come | إِلَيْنَا‌ۖ=to us,` | وَلَا=and not | يَأْتُونَ=they come | ٱلْبَأْسَ=(to) the battle | إِلَّا=except | قَلِيلاً=a few,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: ERROR
+ISSUES:
+- Could not run Claude check: Command failed: claude -p --system-prompt "You are a rigorous Islamic scholarship validator for Ayah
+SUMMARY: Claude semantic check failed

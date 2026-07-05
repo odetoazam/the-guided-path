@@ -1,0 +1,30 @@
+Enhanced Validation Report
+File: content/tadabbur/070-al-maarij/ayahs-006-007.md
+Ayah: 70:6
+Date: 2026-06-15T02:29:44
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّهُمْ=Indeed, they | يَرَوْنَهُۥ=see it | بَعِيدًا=(as) far off.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "they see it as far off" / "the Day" (used as pronoun referent throughout) — All four provided classical sources are unanimous that the pronoun هُ in يَرَوْنَهُۥ / نَرَىٰهُ refers to **العذاب** (the punishment/torment), not the Day of Judgment. Jalalayn: «أي العذاب»; Muyassar: «يستبعدون العذاب»; Qurtubi: «يرون العذاب بالنار بعيدا»; Baghawi: «يعني العذاب». The reflection's entire thesis — "perceiving the Day wrongly," "the Day is not ahead," "the map of time," "the Day of Judgment is not ahead. It simply is" — is built on an unanchored pronoun assignment that contradicts the classical consensus.
+
+- [MODERATE] "For the One outside of time, the Day of Judgment is not ahead. It simply is." — The tafsir sources gloss قَرِيبًا as certain/inevitable, not as eternally present to a timeless God. Muyassar: «نراه واقعًا قريبًا لا محالة» (we see it as certainly occurring, inevitably). The "outside of time / already in view" theological framing is an interpretive extension that exceeds what the provided sources establish for this verse.
+
+PASS items: Root identification ر-أ-ي for يَرَوْنَهُۥ and نَرَىٰهُ is correct. The parallel-verb observation (same root, same tense, different seer) is linguistically accurate. Muḍāriʿ tense analysis is sound. Arabic text matches the authentic Arabic provided. The reference to verse 5's ṣabran jamīlā is accurate.
+
+SUMMARY: The reflection is linguistically careful and grammatically sound, but its central organizing concept — "they see the Day far; We see the Day near" — diverges from the unanimous classical position that the pronoun refers to العذاب (punishment), a substitution that shapes every major interpretive move in the piece.

@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/052-at-tur/ayah-026.md
+Ayah: 52:26
+Date: 2026-06-09T16:32:34
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: قَالُوٓاْ=They will say, | إِنَّا=`Indeed, we | كُنَّا=[we] were | قَبْلُ=before | فِىٓ=among | أَهْلِنَا=our families | مُشْفِقِينَ=fearful,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "قَالُوٓا۟ إِنَّا كُنَّا قَبْلُ فِىٓ أَهْلِنَا مُشْفِقِينَ" — Arabic matches the authentic text exactly.
+- [PASS] "before — back among our families — we were apprehensive, fearful" — Translation is accurate. Word-by-word reference confirms all elements.
+- [PASS] "The word qablu sits there with its object removed... ending on that rounded u-sound, a form Arabic uses precisely when the expected completion has been cut away" — Grammatically correct. قَبْلُ used as a mabnī adverb with its muḍāf ilayh elided is standard Arabic grammar; the ḍamma marks this "cut-off" construction. The semantic consequence (object removal expands reference to entire prior life) is a legitimate rhetorical observation.
+- [PASS] "from the root ش-ف-ق (sh-f-q): ishfāq, and its active participle mushfiq" — Root attribution confirmed. All four tafsir sources (Jalalayn, Muyassar, Qurtubi, Baghawi) gloss مُشْفِقِينَ as خَائِفِينَ without contradicting the sh-f-q root. The upcoming lexical distinction between ishfāq, khawf, and khashya is cut off in the submitted text — cannot validate the specific nuance claimed, but the setup is attested in Mufradāt al-Rāghib (referenced in the morphology note).
+- [PASS] "So Allah conferred favor upon us and shielded us from the punishment of the scorching Fire" — Accurate rendering of 52:27, correctly identified as the completing next ayah.
+- [PASS] "Wa aqbala baʿḍuhum ʿalā baʿḍin yatasāʾalūn" — Accurate quotation of 52:25 contextualizing the scene.
+- [NOTE] The ishfāq exposition (Part 1, Element Two) is cut off mid-sentence at "I want you to hold it care..." — the full distinguishing claim about mushfiq vs. khawf/khashya cannot be validated from the submitted text. If that passage makes claims beyond what classical lexicons attest, resubmit the completed section.
+
+SUMMARY: All verifiable content is accurate and well-grounded in the tafsir record; the one pending validation is the incomplete ishfāq exposition which was cut off before its thesis was stated.

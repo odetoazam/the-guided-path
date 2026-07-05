@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/068-al-qalam/ayah-034.md
+Ayah: 68:34
+Date: 2026-06-13T18:34:38
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّ=Indeed, | لِلْمُتَّقِينَ=for the righteous | عِندَ=with | رَبِّهِمْ=their Lord | جَنَّـٰتِ=(are) Gardens | ٱلنَّعِيمِ=(of) Delight.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Al-Qurṭubī preserves it for us: they looked at their own abundance and the poverty of the Muslims who followed Muhammad ﷺ, and they reasoned, 'If we really are raised up again like Muhammad claims, then surely our standing carries over. At worst we'll be equal to these poor believers. We certainly won't be beneath them.'" — The provided al-Qurṭubī text confirms the setup (صناديد قريش يرون وفور حظهم من الدنيا وقلة حظوظ المسلمين منها; فإذا سمعوا بحديث الآخرة... قالوا: إن صح أنا نبعث كم...) but is truncated before reaching the specific words the reflection attributes to them. The framing is consistent with the source opening, but the three-sentence paraphrase — presented as al-Qurṭubī's preserved account — cannot be verified from the reference excerpt provided. It may be accurate; it is not confirmable here.
+
+No other issues found:
+
+- Arabic text matches the authentic ayah.
+- Translation ("Indeed, for those who guarded themselves, with their Lord, are Gardens of Delight") is accurate against the word-by-word reference.
+- Root analysis of و-ق-ى (w-q-y) as "to guard, shield, protect" is correct and lexically attested.
+- Form VIII identification (ittaqā → al-muttaqīn as reflexive/middle "to take up a shield for oneself") is morphologically accurate; the frontmatter correctly flags this against the causative reading.
+- The parable framing (aṣḥāb al-jannah, dawn harvest oath, كَٱلصَّرِيمِ) is contextually accurate for 68:17–20.
+- The interpretive emphasis on ʿinda rabbihim as the gift of nearness rather than inventory of contents is a legitimate tadabbur extension; al-Muyassar and al-Qurṭubī both use ʿinda locatively without ruling out the relational reading.
+
+SUMMARY: One moderate flag — a specific three-sentence paraphrase is attributed to al-Qurṭubī, but the provided Qurṭubī excerpt is truncated before those words appear; all other linguistic, morphological, and contextual claims check out against the reference data.

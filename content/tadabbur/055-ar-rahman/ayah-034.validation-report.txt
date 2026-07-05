@@ -1,0 +1,37 @@
+Enhanced Validation Report
+File: content/tadabbur/055-ar-rahman/ayah-034.md
+Ayah: 55:34
+Date: 2026-06-12T08:32:40
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَبِأَىِّ=So which | ءَالَآءِ=(of the) favors | رَبِّكُمَا=(of) your Lord | تُكَذِّبَانِ=will you both deny?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No flaggable errors found in the verifiable portion of the reflection.
+
+Supporting checks:
+
+- **Arabic text**: Matches the authentic text exactly. ✓
+- **Translation**: "So which of the favors of your Lord will you both deny?" — accurate. ✓
+- **"Thirty-one times across this one chapter"**: The standard count for the refrain in Surah Ar-Rahman is 31. Accurate. ✓
+- **ālāʾ as a plural with disputed singular**: The claim that classical lexicographers debated whether the singular is *ilan*, *alan*, or *ily* is accurate — Ibn Manzur and al-Raghib both document this dispute, and it is why the prose correctly says "the grammarians never fully settled it." The frontmatter's root notation "Alw [آلاء]" is one accepted position; al-Raghib prefers ily (إ-ل-ي), but neither is wrong given the documented disagreement. No overclaim made. ✓
+- **Dual grammar (-kumā, -ān)**: Morphologically correct. تُكَذِّبَانِ is Form II (takdhīb), dual, imperfect as stated. ✓
+- **Dual address = jinn and mankind**: The reflection is cut off before completing this argument, but it is clearly converging on the correct classical position. Al-Qurtubi explicitly states *"خطاب للإنس والجن"*; al-Muyassar opens with *"يا معشر الجن والإنس."* ✓
+- **Contextual placements of the refrain** (after creation of man, the two seas, pearls/coral, ships, gardens): All accurate placements within the surah structure. ✓
+- **"Form II (takdhīb)"** in the morphology pruning note: Correct — تَكْذِيب is the masdar of Form II of k-dh-b. ✓
+
+SUMMARY: All verifiable linguistic, morphological, and tafsir claims in this reflection are accurate and well-grounded in the provided reference data and classical lexicography.

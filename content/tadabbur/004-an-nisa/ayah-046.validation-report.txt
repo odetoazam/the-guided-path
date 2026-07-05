@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/004-an-nisa/ayah-046.md
+Ayah: 4:46
+Date: 2026-06-24T07:42:42
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: مِّنَ=Of | ٱلَّذِينَ=those who | هَادُواْ=are Jews, | يُحَرِّفُونَ=they distort | ٱلْكَلِمَ=the words | عَن=from | مَّوَاضِعِهِۦ=their places | وَيَقُولُونَ=and they say, | سَمِعْنَا=`We hear[d] | وَعَصَيْنَا=and we disobey[ed]` | وَٱسْمَعْ=and `Hear | غَيْرَ=not | مُسْمَعٍ=to be heard | وَرَٲعِنَا=and `Raina` | لَيَّۢا=twisting | بِأَلْسِنَتِهِمْ=[with] their tongues | وَطَعْنًا=and defaming | فِى=[in] | ٱلدِّينِ‌ۚ=the religion. | وَلَوْ=And if | أَنَّهُمْ=[that] they | قَالُواْ=(had) said, | سَمِعْنَا=`We hear[d] | وَأَطَعْنَا=and we obey[ed]` | وَٱسْمَعْ=and `Hear | وَٱنظُرْنَا=and look (at) us,` | لَكَانَ=surely it (would) have been | خَيْرًا=better | لَّهُمْ=for them | وَأَقْوَمَ=and more suitable. | وَلَـٰكِن=[And] but | لَّعَنَهُمُ ٱللَّهُ=Allah cursed them | بِكُفْرِهِمْ=for their disbelief, | فَلَا=so not | يُؤْمِنُونَ=they believe | إِلَّا=except | قَلِيلاً=a few.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "The classical commentators — al-Baghawī, al-Qurṭubī among them — note that the 'words' here include the very description of the Prophet ﷺ that they slid out of position" — The provided Baghawi and Qurtubi excerpts are truncated and do not explicitly confirm this attribution in the data given. This point is explicitly stated in al-Jalalayn: *"يُحرِّفون الكلم الذي أنزل الله في التوراة من نعت محمد ﷺ"*. Citing Baghawi and Qurtubi as the carriers of this claim is unverifiable from the provided reference material. The position itself is sound; the named attribution is unsupported.
+
+NOTES (not errors — confirmations):
+- *yuḥarrifūna* as Form II denominative from *ḥarf* is linguistically correct and well-stated.
+- The *ḥarf* = edge/brink etymology and the 22:11 parallel (*yaʿbudu Allāha ʿalā ḥarf*) are both accurate.
+- Tahrif as dislocation (*ʿan mawāḍiʿih*) rather than deletion is well-grounded in all four tafsir sources provided.
+- *Ghayra musmaʿin* rendered as "may you hear nothing" matches al-Jalalayn's *lā samiʿta*.
+- *Rāʿinā* as a tongue-twisting slur is confirmed by al-Muyassar: *يريدون الدعاء عليه بالرعونة*.
+- *Layyā bi-alsinatihim* = "twisting their tongues" matches word-by-word reference exactly.
+
+SUMMARY: Solid linguistic and tafsir content throughout; one moderate attribution issue where a well-established Jalalayn claim is re-credited to Baghawi and Qurtubi without supporting evidence in the provided data.

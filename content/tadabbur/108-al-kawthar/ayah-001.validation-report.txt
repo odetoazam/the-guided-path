@@ -1,0 +1,38 @@
+Enhanced Validation Report
+File: content/tadabbur/108-al-kawthar/ayah-001.md
+Ayah: 108:1
+Date: 2026-06-20T20:23:23
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّآ=Indeed, We | أَعْطَيْنَـٰكَ=have given you | ٱلْكَوْثَرَ=Al-Kauthar,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- None identified in the visible portion of this reflection.
+
+Specific checks performed:
+
+**إِنَّا analysis** — The reflection correctly identifies *inna* as a particle of emphasis/certainty and *nā* as the majestic plural. The theological note ("not many gods — the entire Quran is the demolition of that idea") is sound and non-controversial. No overstatement.
+
+**Verb form** — أَعْطَيْنَٰكَ is correctly identified as perfect tense (completed action) with root ʿ-ṭ-w meaning "to give/bestow." The morphology note claiming Form IV (aʿṭaynā) is correct — أَعْطَى is the Af'ala pattern. The caveat "not auto-glossed as causative" reflects lexical precision: the causative Form IV has lexicalized to mean "to give" in classical usage, not a mechanical causative construction.
+
+**ٱلْكَوْثَرَ rendered as "abundance"** — Consistent with Jalalayn (*الخير الكثير* — abundant good) and Muyassar (*الخير الكثير في الدنيا والآخرة*). Jalalayn also identifies the river specifically; this reflection uses the broader meaning, which is lexically warranted and the text is cut off before the full discussion of al-Kawthar's scope.
+
+**Historical context (abtar)** — Not confirmed by the reference data provided, but this is so consistently documented across hadith collections (Bukhari, Muslim, Ibn Kathir) that its absence from the word-by-word data is expected. The meaning of *abtar* as "tail-docked/severed" is lexically accurate.
+
+**Makkan revelation** — Confirmed by Qurtubi (quoting Ibn Abbas, al-Kalbi, Muqatil).
+
+SUMMARY: The linguistic analysis is accurate, the theological framing is sound and does not overstate any scholarly position, and all major claims are either directly supported by the provided tafsir data or traceable to well-documented tradition.

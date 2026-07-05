@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/052-at-tur/ayah-019.md
+Ayah: 52:19
+Date: 2026-06-09T17:24:34
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: كُلُواْ=`Eat | وَٱشْرَبُواْ=and drink | هَنِيٓـــَٔۢا=(in) satisfaction | بِمَا=for what | كُنتُمْ=you used (to) | تَعْمَلُونَ=do.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+**VERDICT: PASS**
+
+**ISSUES:**
+- [MINOR NOTE] "iltifāt...and Allah uses it here at the precise moment of intimacy" — The grammatical shift from third-person description (52:17–18) to second-person imperative (52:19) is real and the iltifāt identification is linguistically sound. However, none of the four provided tafsir sources name it as iltifāt here. The reflection treats a valid textual observation as if it carries classical authority behind it. It is an accurate observation, not an error — but worth flagging that it's the author's rhetorical reading, not a reported classical attribution.
+
+- [MINOR NOTE] "The verbs are left open, unbounded, with nothing to limit them" — Grammatically correct; no direct object is specified in the verse. The tafsirs don't develop this absence explicitly, so the theological weight placed on it ("the verbs are unbounded, infinite") is the author's interpretive extension. Defensible but not sourced.
+
+- [CONFIRMED ACCURATE] hanī'an framing as "pleasure without aftermath" — directly supported by Al-Baghawi: "مأمون العاقبة من التخمة والسقم" (safe in consequence from indigestion and illness) and Al-Qurtubi: "ما لا تنغيص فيه ولا نكد ولا كدر."
+
+- [CONFIRMED ACCURATE] bā' of causation — Al-Jalalayn explicitly: "الباء سببية."
+
+- [CONFIRMED ACCURATE] al-ibāḥa/al-ikrām reading of the imperative — recognized grammatical category; not contradicted by any source provided.
+
+- [CONFIRMED ACCURATE] Arabic text in frontmatter matches authenticated Arabic exactly.
+
+**SUMMARY:** No factual errors, root errors, or scholar misattributions found; two interpretive extensions (iltifāt framing and the significance of the unspecified object) are defensible but go slightly beyond what the provided tafsir sources document — minor transparency issue, not a correction.

@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayah-064.md
+Ayah: 3:64
+Date: 2026-06-21T05:13:23
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: قُلْ=Say, | يَـٰٓأَهْلَ=`O People | ٱلْكِتَـٰبِ=(of) the Book! | تَعَالَوْاْ=Come | إِلَىٰ=to | كَلِمَةٍ=a word | سَوَآءِۭ=equitable | بَيْنَنَا=between us | وَبَيْنَكُمْ=and between you - | أَلَّا=that not | نَعْبُدَ=we worship | إِلَّا=except | ٱللَّهَ=Allah, | وَلَا=and not | نُشْرِكَ=we associate partners | بِهِۦ=with Him - | شَيْــًٔا=anything. | وَلَا=And not | يَتَّخِذَ=take | بَعْضُنَا=some of us | بَعْضًا=(to) others | أَرْبَابًا=(as) lords | مِّن دُونِ ٱللَّهِ‌ۚ=besides Allah.` | فَإِن=Then if | تَوَلَّوْاْ=they turn away, | فَقُولُواْ=then say, | ٱشْهَدُواْ=`Bear witness | بِأَنَّا=that we | مُسْلِمُونَ=(are) Muslims.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] Metadata comment: "تَعَالَوْا (Elw, IV imperative)" — تَعَالَوْا derives from Form VI (تَفَاعَلَ pattern: يَتَعَالَى / تَعَالَى), not Form IV (أَفْعَلَ). Form IV of ع-ل-و is أَعْلَى ("to raise/exalt something else") — a completely different verb. This error is confined to the hidden comment block and does not appear in the reader-facing prose, which correctly identifies only the root (ع-ل-و) and its semantic field (elevation, height). Future validators or editors reading the comment would be misled. The other form attributions in that same comment are correct: نُشْرِكَ (IV ✓), يَتَّخِذَ (VIII ✓), تَوَلَّوْا (V ✓), مُسْلِمُونَ (IV active participle ✓).
+
+No issues with prose content:
+- Al-Baghawi attribution of the Najran/Ibrahim dispute is accurate verbatim against the provided source.
+- Root ع-ل-و and the semantic claim ("come up / ascend / elevation") are lexically correct and attested.
+- The al-ʿAlī divine name connection to root ع-ل-و is accurate.
+- سَوَاء rendered as "level/equitable" is confirmed by al-Jalalayn ("مصدر بمعنى مستو").
+- Translation matches the Arabic text with no omissions or distortions.
+- The prophet's response about Ibrahim being a ḥanīf is appropriately hedged ("as the report goes") and consistent with 3:67 (cited in related_ayahs).
+
+SUMMARY: The reflection's prose is accurate and well-grounded against all provided reference data, but the morphology comment misclassifies تَعَالَوْا as Form IV — fix to Form VI before using this metadata block as a validation record.

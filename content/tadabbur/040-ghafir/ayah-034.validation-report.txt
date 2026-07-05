@@ -1,0 +1,24 @@
+Enhanced Validation Report
+File: content/tadabbur/040-ghafir/ayah-034.md
+Ayah: 40:34
+Date: 2026-06-06T08:56:53
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَلَقَدْ=And indeed, | جَآءَكُمْ=came to you | يُوسُفُ=Yusuf | مِن قَبْلُ=before | بِٱلْبَيِّنَـٰتِ=with clear proofs, | فَمَا=but not | زِلْتُمْ=you ceased | فِى=in | شَكٍّ=doubt | مِّمَّا=about what | جَآءَكُم=he brought to you | بِهِۦۖ=[with it], | حَتَّىٰٓ=until | إِذَا=when | هَلَكَ=he died, | قُلْتُمْ=you said, | لَن=`Never | يَبْعَثَ ٱللَّهُ=will Allah raise | مِنۢ بَعْدِهِۦ=after him | رَسُوۚلاً=a Messenger.` | كَذَٲلِكَ=Thus, | يُضِلُّ ٱللَّهُ=Allah lets go astray | مَنْ=who | هُوَ=[he] | مُسْرِفٌ=(is) a transgressor, | مُّرْتَابٌ=a doubter.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: ERROR
+ISSUES:
+- Could not run Claude check: Command failed: claude -p --system-prompt "You are a rigorous Islamic scholarship validator for Ayah
+SUMMARY: Claude semantic check failed

@@ -1,0 +1,42 @@
+Enhanced Validation Report
+File: content/tadabbur/062-al-jumuah/ayahs-006-007.md
+Ayah: 62:6
+Date: 2026-06-13T01:39:29
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: قُلْ=Say, | يَـٰٓأَيُّهَا ٱلَّذِينَ هَادُوٓاْ=`O you who are Jews! | إِن=If | زَعَمْتُمْ=you claim | أَنَّكُمْ=that you | أَوْلِيَآءُ=(are) allies | لِلَّهِ=of Allah. | مِن دُونِ=excluding | ٱلنَّاسِ=the people, | فَتَمَنَّوُاْ=then wish | ٱلْمَوْتَ=(for) the death, | إِن=if | كُنتُمْ=you are | صَـٰدِقِينَ=truthful.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate issues found in the submitted portion.
+
+Supporting checks:
+
+**Arabic text** — Reflection text matches the authentic reference (orthographic diacritical variants only, not errors).
+
+**5:18 attribution** — "We are the children of God and His beloved ones" (5:18) is correctly placed; the Qurṭubī source independently confirms this claim was made, and 5:18 is the Qur'anic locus for that exact wording (وَقَالَتِ الْيَهُودُ وَالنَّصَارَى نَحْنُ أَبْنَاءُ اللَّهِ وَأَحِبَّاؤُهُ).
+
+**zaʿama lexical claim** — "in most of its usage a statement that is suspect, a claim that leans toward falsehood" accurately reflects the classical position. The proverb *zaʿamū maṭiyyat al-kadhib* is attested in Lisān al-ʿArab and multiple lexicographers. The reflection does not claim *all* uses are false — it says "in most of its usage," which is the precise classical qualification.
+
+**62:5 context** — Donkey/books parable placed correctly as one ayah prior.
+
+**2:94-95 echo** — Structurally accurate parallel; the same death-wish challenge appears there.
+
+**Jalālayn reading** — The reflection's core interpretive point (the friend of God *prefers* the next world; wishing for death would be natural if the claim were real) directly matches Jalālayn: *"al-walī yu'thirul-ākhirata wa mabdaʾuhā al-mawt fa-tamannāh."*
+
+**abadan** — Used correctly; the reflection does not overread it.
+
+SUMMARY: The submitted portion is linguistically precise, contextually grounded, and does not overstate any scholar's position or lexical claim — all major assertions trace cleanly to the provided reference data.

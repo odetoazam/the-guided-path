@@ -1,0 +1,42 @@
+Enhanced Validation Report
+File: content/tadabbur/099-az-zalzalah/ayahs-004-005.md
+Ayah: 99:4
+Date: 2026-06-20T06:28:15
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَوْمَئِذٍ=That Day, | تُحَدِّثُ=it will report | أَخْبَارَهَا=its news,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No CRITICAL or MODERATE errors found in the visible text.
+
+Supporting notes (not errors — confirmations):
+
+- **Form II analysis of تُحَدِّثُ**: The claim that this is Form II of root ḥ-d-th, carrying intensification and transitivity ("to relate, narrate, tell"), is linguistically accurate. The doubling on the dāl is correct.
+
+- **ḥadīth meaning "that which is new"**: Accurate — ḥadīth as adjective (حديث) means "new/recent" in opposition to qadīm, as attested in classical lexicons.
+
+- **Earth reports good and evil done on it**: Directly confirmed by Jalalayn ("تخبر بما عمل عليها من خير وشر"), Muyassar (identical), Qurtubi, and Baghawi.
+
+- **Divine command as the mechanism**: The claim that the earth speaks only because Allah commanded it is confirmed by Muyassar ("بأن الله سبحانه وتعالى أمرها بأن تخبر").
+
+- **"mā lahā" as human bewilderment**: The reflection reads this as the human's cry of confusion. Baghawi confirms this reading ("فيقول الإنسان: ما لها"), and Qurtubi lists it as a valid opinion alongside the alternative that it is Allah's speech — treating it as the human's exclamation is well within classical consensus.
+
+- **Hadith from Tirmidhi via Abu Huraira**: The reflection alludes to the Prophet ﷺ naming the day and deed. Qurtubi's excerpt (cut off mid-sentence) begins "في الترمذي عن أبي هريرة قال: قرأ رسول الله" — this hadith exists and is referenced, though it cannot be fully verified from the truncated source provided. The allusion is responsible (flagged as "as we will see," not asserted yet).
+
+- **Frontmatter morphology note ("root Hdv")**: An internal notation artifact, not reproduced in the body text, which correctly uses ḥ-d-th throughout.
+
+SUMMARY: All linguistic and tafsir claims visible in the submitted text are accurate and grounded in the provided reference data; no errors warranting a CRITICAL or MODERATE flag were found.

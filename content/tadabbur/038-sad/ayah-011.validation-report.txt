@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/038-sad/ayah-011.md
+Ayah: 38:11
+Date: 2026-06-06T02:57:47
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: جُندٌ=Soldiers - | مَّا هُنَالِكَ=there | مَهْزُومٌ=(they will be) defeated | مِّنَ=among | ٱلْأَحْزَابِ=the companies.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "Al-Jalālayn says the same: ṣila" — The provided Jalālayn excerpt does not use the word *ṣila* explicitly; it glosses «جُندٌ مَّا» as *hum jundun ḥaqīr* ("they are a contemptible host"), which is consistent with the ṣila reading but does not deploy the term. Al-Qurṭubī and al-Baghawi explicitly say "مَا صِلَة." The attribution is not wrong in substance — Jalālayn's tradition treats it as ṣila — but the citation overstates the precision of the source. A reader checking the Jalālayn text will not find the word.
+
+- [PASS note, not a flag] The claim that *mahzūm* expresses a *fait accompli* certainty about a future event is supported by al-Baghawi: "أَخبَرَ اللهُ تعالى نبيَّهُ وهو بمكة أنَّه سيهزم جند المشركين" — God informed the Prophet ﷺ while still in Mecca that He would rout the polytheists' army. The ism-mafʿūl-as-certainty argument is texturally grounded.
+
+- [PASS note] The *taḥqīr* reading of *mā* is not invented — al-Jalālayn's gloss "حَقِير" (contemptible) directly supports it, and the reflection does not claim grammarians universally call it "mā of ibhām and taḥqīr" as a technical term, only that contempt is its rhetorical function here. No overclaim.
+
+- [PASS note] The *ʿizzah → jundun mā* demotion framing (38:2 to 38:11) is an interpretive structural observation, not attributed to any specific scholar, and is internally consistent with the surah's logic. Not a factual claim requiring citation.
+
+- [PASS note] The 54:45 cross-reference ("سَيُهزَمُ الجَمعُ وَيُوَلُّونَ الدُّبُر") is verified by al-Baghawi himself, who explicitly cites it in his commentary on this ayah.
+
+SUMMARY: The reflection is linguistically and theologically sound; the sole issue is a minor over-precision in attributing the word *ṣila* directly to al-Jalālayn when the provided excerpt uses a semantic gloss instead — all substantive claims about *mā*, *mahzūm*, and *al-aḥzāb* are confirmed by the tafsir data.

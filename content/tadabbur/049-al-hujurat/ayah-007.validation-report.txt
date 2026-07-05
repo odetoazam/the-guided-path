@@ -1,0 +1,30 @@
+Enhanced Validation Report
+File: content/tadabbur/049-al-hujurat/ayah-007.md
+Ayah: 49:7
+Date: 2026-06-08T17:09:28
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَٱعْلَمُوٓاْ=And know | أَنَّ=that | فِيكُمْ=among you | رَسُولَ ٱللَّهِ‌ۚ=(is the) Messenger of Allah. | لَوْ=If | يُطِيعُكُمْ=he were to obey you | فِى=in | كَثِيرٍ=much | مِّنَ=of | ٱلْأَمْرِ=the matter, | لَعَنِتُّمْ=surely you would be in difficulty, | وَلَـٰكِنَّ=but | ٱللَّهَ=Allah | حَبَّبَ=has endeared | إِلَيْكُمُ=to you | ٱلْإِيمَـٰنَ=the Faith | وَزَيَّنَهُۥ=and has made it pleasing | فِى=in | قُلُوبِكُمْ=your hearts | وَكَرَّهَ=and has made hateful | إِلَيْكُمُ=to you | ٱلْكُفْرَ=disbelief | وَٱلْفُسُوقَ=and defiance | وَٱلْعِصْيَانَ‌ۚ=and disobedience. | أُوْلَـٰٓئِكَ=Those | هُمُ=(are) they - | ٱلرَّٲشِدُونَ=the guided ones.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "Not *ahabba* (he loved). Not the simple statement that someone loves." — The reflection implicitly treats *ahabba* as the Form I base verb, but *ahabba* is Form IV (أَفْعَلَ pattern). Form I of ḥ-b-b would be *ḥabba*. The theological contrast drawn (ḥabbaba = causative vs. simple love expression) is functionally correct, but the morphological framing as written would mislead a student trying to understand the form system. Not verifiable from the provided tafsir excerpts but checkable against any morphology reference.
+
+- [MODERATE] "you would surely be in hardship" for *laʿanittum* — The word-by-word provided supports "in difficulty," but Al-Baghawi explicitly glosses it as *athimtum wa halamtum* (you would sin and perish), with *al-ʿanat* carrying the sense of sin and destruction, not merely hardship. The reflection's rendering is softer than the classical lexical weight warrants. Not a critical error, but the full semantic range (ruin + sin, not just difficulty) is lost.
+
+- No CRITICAL issues found. The Form II factitive analysis of *ḥabbaba* is linguistically sound and consistent with the word-by-word data. The *ilā* preposition reading ("toward you," motion-across-distance) is accurate. The contextual framing of 49:6 (false report, zakāh, Companion's zeal) matches standard *asbāb al-nuzūl* tradition, though it is not directly verifiable from the tafsir excerpts provided for 49:7. Scholar positions are not inverted. The translation is accurate.
+
+SUMMARY: Reflection is theologically grounded and linguistically careful; two moderate imprecisions (Form I/IV conflation in the morphology lesson, softened rendering of *laʿanittum*) would benefit from tightening but do not misrepresent the ayah's meaning.

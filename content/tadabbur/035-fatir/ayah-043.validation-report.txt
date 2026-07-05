@@ -1,0 +1,41 @@
+Enhanced Validation Report
+File: content/tadabbur/035-fatir/ayah-043.md
+Ayah: 35:43
+Date: 2026-06-04T23:55:53
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ٱسْتِكْبَارًا=(Due to) arrogance | فِى=in | ٱلْأَرْضِ=the land | وَمَكْرَ=and plotting | ٱلسَّيِّىِٕۚ=(of) the evil; | وَلَا=but not | يَحِيقُ=encompasses | ٱلْمَكْرُ=the plot | ٱلسَّيِّئُ=(of) the evil | إِلَّا=except | بِأَهْلِهِۚۦ=its own people. | فَهَلْ=Then do | يَنظُرُونَ=they wait | إِلَّا=except | سُنَّتَ=(the) way | ٱلْأَوَّلِينَۚ=(of) the former (people)? | فَلَن=But never | تَجِدَ=you will find | لِسُنَّتِ=in (the) way | ٱللَّهِ=(of) Allah | تَبْدِيلاًۖ=any change, | وَلَن=and never | تَجِدَ=you will find | لِسُنَّتِ=in (the) way | ٱللَّهِ=(of) Allah | تَحْوِيلاً=any alteration.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No CRITICAL issues found.
+- No MODERATE issues found.
+
+Supporting checks:
+
+**Root and morphology** — `yaḥīq` from root ḥ-y-q is correct. Meaning "to encompass/hem in" is confirmed by Jalalayn (يحيط) and the word-by-word data. Istikbār as Form X estimative/reflexive is standard Arabic grammar. Tabdīl and taḥwīl as Form II maṣdars — both correct (baddala / ḥawwala).
+
+**Cross-references for ḥāqa** — The reflection cites 6:10 and Hud 11:8 for the pattern of mockery/schemes returning to their originators. Both are accurate usages of the ḥāqa root in that exact semantic context. 6:10 ends with "فَحَاقَ بِٱلَّذِينَ سَخِرُواْ مِنۡهُم مَّا كَانُواْ بِهِۦ يَسۡتَهۡزِءُونَ"; Hud 11:8 ends with "وَحَاقَ بِهِم مَّا كَانُوا بِهِ يَسْتَهْزِئُونَ." Both confirmed.
+
+**Tafsir alignment** — The framing of makr al-sayyiʾ as the evil deeds of the Quraysh (shirk, scheming against the Prophet) is confirmed by Baghawi ("اجتماعهم على الشرك وقتل النبي") and Jalalayn ("من الشرك وغيره"). The reflection wisely keeps the application general rather than over-specifying.
+
+**Context of 35:42** — The description of the Quraysh oath (*jahda aymānihim*) and the subsequent *nufūr* is an accurate reading of the preceding ayah.
+
+**Arabic text** — Matches the authentic Arabic with standard Unicode/diacritic variation only.
+
+**Interpretive extensions** — The net/encirclement imagery is clearly framed as the author's explanatory metaphor, not a classical source claim. Hedging language ("tends to show up," "almost never") is appropriately cautious for literary observations that extend beyond the provided reference data.
+
+SUMMARY: All verifiable claims — roots, verb forms, cross-references, tafsir sourcing, and contextual framing — check out against the reference data; no factual errors found in the portion reviewed.

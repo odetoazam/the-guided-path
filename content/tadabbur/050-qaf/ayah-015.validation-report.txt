@@ -1,0 +1,28 @@
+Enhanced Validation Report
+File: content/tadabbur/050-qaf/ayah-015.md
+Ayah: 50:15
+Date: 2026-06-08T19:58:22
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَفَعَيِينَا=Were We then tired | بِٱلْخَلْقِ=with the creation | ٱلْأَوَّلِ‌ۚ=the first? | بَلْ=Nay, | هُمْ=they | فِى=(are) in | لَبْسٍ=doubt | مِّنْ=about | خَلْقٍ=a creation | جَدِيدٍ=new.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "the English translation has been quietly lying to you... ʿAyy is not running out of strength. It is not knowing how." — The Qurtubī lexical gloss is accurately quoted from the provided reference ("يقال : عييت بالأمر إذا لم تعرف وجهه"), but the reflection presents this single lexical note as the *primary and definitive* meaning while dismissing "wearied" as deceptive. Both Baghawi and Muyassar gloss *ʿayīnā* as **عجز** (incapacity/inability — "أعجزنا" / "أفَعَجَزْنا"), which is the broader classical consensus reading. The Qurtubī note is a lexicographer's aside on usage; it coexists with عجز rather than replacing it. Stating that standard translations are "quietly lying" overstates one tafsir's gloss against the consensus.
+
+No CRITICAL issues found in the visible text. Arabic text matches the authentic source. Istifhām inkārī identification is sound and consistent with all four tafsirs. Translation of لَبْس as "confusion" is defensible (tafsirs use both شك and حيرة; "confusion" covers both). Narrative framing of 50:2–3 and the rain/dead-land argument (50:9–11) cannot be verified against the reference data provided for 50:15, but are not contested by anything in it.
+
+SUMMARY: The reflection is substantively sound and the Qurtubī citation is verbatim accurate, but the contrast between ʿayy-as-"not-knowing-how" and ʿayy-as-"wearied/incapable" is overstated — the classical mainstream (Baghawi, Muyassar) uses عجز, making the dismissal of "wearied" more polemical than the evidence warrants.

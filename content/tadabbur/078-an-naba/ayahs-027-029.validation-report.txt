@@ -1,0 +1,41 @@
+Enhanced Validation Report
+File: content/tadabbur/078-an-naba/ayahs-027-029.md
+Ayah: 78:27
+Date: 2026-06-18T13:25:51
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّهُمْ=Indeed, they | كَانُواْ=were | لَا=not | يَرْجُونَ=expecting | حِسَابًا=an account,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate issues found in the submitted portion.
+
+**Scholar attribution check** (all four cited):
+- "al-Jalālayn glosses *lā yarjūna* as يخافون" — **confirmed**: `«إنهم كانوا لا يرجون» يخافون «حسابا»` ✓
+- "al-Muyassar: not fearing the Day of Reckoning, so they did not work for it" — **confirmed**: `لا يخافون يوم الحساب فلم يعملوا له` ✓
+- "al-Baghawī: did not fear that they would be brought to account" — **confirmed**: `لا يخافون أن يحاسبوا` ✓
+- "al-Qurṭubī: did not fear a reckoning of their deeds" — **confirmed**: `لا يخافون حسابا أي محاسبة على أعمالهم` ✓
+
+**Root/morphology check:**
+- yarjūna ← r-j-w: confirmed by word-by-word reference and all four tafsirs
+- Dual hope/fear semantic of *rajā'* under negation: directly evidenced by the unanimous يخافون gloss across all four sources ✓
+
+**Cross-reference check:**
+- Surah Nūḥ 71:13 (*mā lakum lā tarjūna lillāhi waqārā*): verse exists, uses same root, same negated-rajā' construction ✓
+
+**One unverifiable claim** (not flagged as error — standard lexicographic sources not in scope of provided data): the Lisān al-ʿArab and Mufradāt al-Rāghib root attestations mentioned in the frontmatter comment cannot be spot-checked against the supplied reference data. The claims are morphologically uncontroversial, but they are outside the provided evidence window.
+
+SUMMARY: Every scholar attribution is textually exact, the r-j-w dual-semantic analysis is directly evidenced by the unanimous classical gloss, and the surah's structural framing is accurate — this reflection is well-grounded in the provided reference data.

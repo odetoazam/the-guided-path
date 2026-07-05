@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/067-al-mulk/ayahs-025-027.md
+Ayah: 67:25
+Date: 2026-06-13T14:03:17
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَيَقُولُونَ=And they say, | مَتَىٰ=`When | هَـٰذَا=(is) this | ٱلْوَعْدُ=promise, | إِن=if | كُنتُمْ=you are | صَـٰدِقِينَ=truthful?`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "al-Qurtubi calls it plainly *istihzāʾ* — mockery" — verified verbatim: ar.qurtubi source reads «وهذا استهزاء منهم», attribution is accurate and not overstated
+- [PASS] Arabic text in reflection (`وَيَقُولُونَ مَتَىٰ هَـٰذَا ٱلْوَعْدُ`) — matches authentic reference; minor Unicode diacritic variant on `هَـٰذَا` vs `هَٰذَا` is rendering difference, not a textual error
+- [PASS] "وعد = promise of resurrection" — Jalalayn confirms: «وعد الحشر», and Muyassar confirms the question targets الحشر specifically
+- [PASS] Transliterations (*matā*, *hādhā-l-waʿd*, *nadhīrun mubīn*, *zulfatan*, *sīʾat*) — all phonologically correct against the Arabic
+- [PASS] "To ask *when* is to grammatically concede existence" — presented as the author's own tadabbur reflection, clearly flagged with "Let me teach you something about questions," not attributed to any classical scholar; within legitimate interpretive bounds
+- [PASS] The *hādhā* thread connecting v.25 → v.27 — textually grounded; both verses contain هَـٰذَا, the structural observation is valid
+- [NOTE] Verse 26–27 Arabic/translation cannot be fully verified against word-by-word reference data (only 67:25 was provided); the translation "you used to call for" (تَدَّعُونَ) is a documented reading, though some classical sources favor "you used to claim/deny" — difference is interpretive, not an error
+
+SUMMARY: No critical or moderate errors detected; all verifiable claims are accurate and the single named scholarly attribution (Qurtubi's *istihzāʾ*) is confirmed word-for-word in the source.

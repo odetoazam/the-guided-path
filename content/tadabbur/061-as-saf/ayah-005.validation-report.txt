@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/061-as-saf/ayah-005.md
+Ayah: 61:5
+Date: 2026-06-13T00:37:36
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَإِذْ=And when | قَالَ=said | مُوسَىٰ=Musa | لِقَوْمِهِۦ=to his people, | يَـٰقَوْمِ=`O my people! | لِمَ=Why | تُؤْذُونَنِى=do you hurt me | وَقَد=while certainly | تَّعْلَمُونَ=you know | أَنِّى=that I am | رَسُولُ ٱللَّهِ=(the) Messenger of Allah | إِلَيْكُمْ‌ۖ=to you?` | فَلَمَّا=Then when | زَاغُوٓاْ=they deviated, | أَزَاغَ ٱللَّهُ=Allah caused to deviate | قُلُوبَهُمْ‌ۚ=their hearts. | وَٱللَّهُ=And Allah | لَا=(does) not | يَهْدِى=guide | ٱلْقَوْمَ=the people, | ٱلْفَـٰسِقِينَ=the defiantly disobedient.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "There is that heavy Arabic letter in the middle, the *ghayn*" — The ghayn (غ) is the *third/final* root letter of ز-ي-غ (zayn–ya–ghayn), not the middle letter. The middle root letter is the ya (ي). This is a factual morphological error that could mislead readers studying the Arabic root structure.
+
+The remainder of the linguistic analysis is sound:
+- The Form I (*zāghū*) / Form IV (*azāgha*) causative analysis is accurate — the af'ala pattern (hamza prefix) as a causative marker is standard Quranic morphology and the distinction is verified by the word-by-word data
+- Root meaning of *zaygh* as deviation/inclination away from a straight course is confirmed by both Jalalayn ("عدلوا عن الحق") and Baghawi ("عدلوا عن الحق")
+- The sequence "they swerved → Allah swerved their hearts" as divine consequence matching human-initiated deviation is confirmed by Muyassar ("صرف الله قلوبهم عن قَبول الهداية؛ عقوبة لهم على زيغهم الذي اختاروه لأنفسهم")
+- Contextual framing (word-deed gap in 61:2-3, consolation to the Prophet ﷺ) is consistent with Qurtubi's note that the verse is addressed to Muhammad's community as a reminder
+
+SUMMARY: One factual morphological error — the ghayn is the final root letter of ز-ي-غ, not the middle one; fix before publication.

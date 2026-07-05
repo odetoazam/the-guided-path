@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/068-al-qalam/ayahs-021-024.md
+Ayah: 68:21
+Date: 2026-06-13T18:29:11
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَتَنَادَوْاْ=And they called one another | مُصْبِحِينَ=(at) morning,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "in their wealth is a **known** right for the one who asks and the one who is denied (51:19)" — The Arabic quoted (حَقٌّ لِّلسَّائِلِ وَالْمَحْرُومِ) is correct for 51:19, but the English translation injects "known" (مَّعْلُومٌ) which does not appear in that verse. "Known right" (حَقٌّ مَّعْلُومٌ) belongs to 70:24. The Arabic text cited does not support the translation given.
+
+- [MODERATE] "four people are walking" / "Four people waking up" — The reflection asserts this number three times as if established. The Quran does not specify the count of the garden owners, and none of the provided tafsir sources (Jalālayn, Muyassar, Qurṭubī, Baghawī) give a number. Presenting "four" as a narrative fact is unsupported by the reference data.
+
+- [MODERATE] "while the poor were still sleeping" — The reflection presents this as the rationale for the dawn harvest timing. Al-Muyassar says they called each other "at the time of morning" and that they were "insistent on cutting the fruit," but does not state the poor were sleeping. This is a plausible inference from 68:24 context but is stated as descriptive fact, not interpretation.
+
+PASS ELEMENTS:
+- Arabic text for 68:21 is correctly reproduced.
+- Translation "they called one another at morning" accurately renders فَتَنَادَوْا مُصْبِحِينَ per the word-by-word data.
+- Form VI (tafāʿala) identification for تَنَادَوْا is linguistically correct and consistent with all four tafsir sources' gloss "نادى بعضهم بعضا" (each called the other).
+
+SUMMARY: The core linguistic analysis of 68:21 is sound, but the reflection contains one cross-verse translation conflation (51:19 rendered with wording from 70:24) and two interpretive claims stated as established fact without tafsir support.

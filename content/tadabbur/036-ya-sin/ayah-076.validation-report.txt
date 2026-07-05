@@ -1,0 +1,40 @@
+Enhanced Validation Report
+File: content/tadabbur/036-ya-sin/ayah-076.md
+Ayah: 36:76
+Date: 2026-06-05T07:29:10
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَلَا=So (let) not | يَحْزُنكَ=grieve you | قَوْلُهُمْ‌ۘ=their speech. | إِنَّا=Indeed, We | نَعْلَمُ=[We] know | مَا=what | يُسِرُّونَ=they conceal | وَمَا=and what | يُعْلِنُونَ=they declare.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate errors found in the portion submitted.
+
+Supporting checks:
+
+**Grammar claim (فَلَا يَحْزُنكَ قَوْلُهُمْ):** The reflection correctly identifies قَوْلُهُمْ as the grammatical subject of يَحْزُنكَ and the Prophet ﷺ as the object (suffix -ka). This is accurate Arabic syntax — the verb takes a causative agent as subject, not the one who experiences the grief.
+
+**Two dialectal forms attributed to al-Qurtubī:** The reference data confirms this directly — al-Qurtubī writes: *"هذه اللغة الفصيحة. ومن العرب من يقول: يحزنك"* — acknowledging two valid Arabic forms of the verb. The reflection's attribution is accurate and the two forms (Form I yaḥzunuka / Form IV yuḥzinuka) are a documented qirāʾāt/lughat distinction.
+
+**Contextual framing (36:69-70 → 36:76 → 36:77-83):** Accurately reflects the surah's movement. The Jalālayn confirms the "you are not a messenger" taunt as the specific speech being addressed.
+
+**Arabic text:** Matches the authenticated Arabic exactly.
+
+**Form IV identification of يُسِرُّونَ / يُعْلِنُونَ:** Correct — both are Form IV (أَسَرَّ / أَعْلَنَ).
+
+**One note (not an error):** The reflection cuts off mid-sentence before addressing يُسِرُّونَ and يُعْلِنُونَ directly. The second half of the verse — and any claims about divine omniscience as comfort — cannot be validated from this excerpt alone. Validation of Parts 2+ should be deferred until that content is submitted.
+
+SUMMARY: Part 1 is linguistically precise and all scholar attributions are supported by the reference data provided.

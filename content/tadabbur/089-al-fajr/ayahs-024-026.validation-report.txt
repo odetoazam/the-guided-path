@@ -1,0 +1,39 @@
+Enhanced Validation Report
+File: content/tadabbur/089-al-fajr/ayahs-024-026.md
+Ayah: 89:24
+Date: 2026-06-18T18:37:23
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَقُولُ=He will say, | يَـٰلَيْتَنِى=`O! I wish | قَدَّمْتُ=I had sent forth | لِحَيَاتِى=for my life.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR / NOT FLAGGED] "Pharaoh, the man of stakes and armies" — 89:10 reads only فِرْعَوْنَ ذِى ٱلْأَوْتَادِ ("the one of stakes/pegs"); "armies" is not in this verse. It is common cross-Quranic background knowledge but is an unmarked elaboration. Not an error requiring correction, but worth noting it is not from 89:10 itself.
+
+No other issues found in the visible text (~8,000 chars reviewed).
+
+**What held up:**
+
+| Claim | Verdict |
+|---|---|
+| *Layta* = *tamannī*, wishing for the impossible/beyond-reach, contrasted with *rajāʾ* | Accurate — standard Arabic grammar, consistent with the sources |
+| *Yā* in *yā laytanī* = *tanbīh* (intensification, not a true vocative) | Confirmed directly by al-Jalālayn: «يا» للتنبيه |
+| Object of *qaddamtu* omitted in the Quranic text | Accurate — al-Jalālayn supplies الخير والإيمان; al-Muyassar supplies "deeds that would benefit"; the blank is real and classical tafsir fills it interpretively |
+| *Li-ḥayātī* read as the Hereafter, "the life with no death" | Directly attested in al-Baghawī ("لآخرتي التي لا موت فيها") and al-Qurṭubī ("حياة لا موت فيها"); the interpretive hook the author is building toward is classical, not invented |
+| Surah arc (dawn oaths → destroyed civilizations → wealth diagnosis → the Day) | Accurate to the surah structure |
+| Translation of *yawma'idhin yatadhakkaru-l-insān* (89:23) | Accurate |
+
+SUMMARY: The reflection is linguistically precise and every major interpretive move — the *tanbīh* function of *yā*, the impossible-wish force of *layta*, the omitted object, and the reading of *ḥayātī* as the eternal life — is grounded in the classical tafsir sources provided; no fabricated attributions or morphological errors detected.

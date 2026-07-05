@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayah-038.md
+Ayah: 3:38
+Date: 2026-06-21T06:16:10
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: هُنَالِكَ=There only, | دَعَا زَكَرِيَّا=Zakariya invoked | رَبَّهُۥ‌ۖ=his Lord, | قَالَ=he said, | رَبِّ=`My Lord | هَبْ=grant | لِى=[for] me | مِن=from | لَّدُنكَ=Yourself | ذُرِّيَّةً=offspring | طَيِّبَةً‌ۖ=pure. | إِنَّكَ=Indeed, You | سَمِيعُ=(are) All-Hearer | ٱلدُّعَآءِ=(of) the prayer
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "Al-Qurtubi pauses on this exact word. He notes that *hunālika* is, at its root, **a word for place**... He even cites the grammarian al-Mufaḍḍal ibn Salama, who tried to split them — *hunālika* for time, *hunāka* for place" — accurately represents al-Qurtubi verbatim: "أصله للمكان" (root = place) and "هنالك في الزمان و هناك في المكان" (al-Mufaḍḍal: hunālika = time, hunāka = place). Attribution and position are correctly inverted from al-Qurtubi's own view and correctly attributed to al-Mufaḍḍal. No error.
+- [PASS] "Every time he entered her chamber, he found provision" — consistent with كُلَّمَا دَخَلَ (3:37).
+- [PASS] "He looks at the people who will inherit his role after him and he fears for what they will do with the trust (19:5)" — interpretive expansion of وَإِنِّي خِفْتُ الْمَوَالِيَ مِن وَرَائِي, presented as reflection not attributed scholarship. Within tadabbur license.
+- [PASS] "lما رأى زكريا ذلك وعلم أن القادر على الإتيان بالشيء في غير حينه" — the reflection's thesis (witnessing Maryam's provision triggered the prayer) is directly supported by al-Jalalayn and al-Muyassar.
+- [PASS] hunā/hunāka/hunālika as a near/middle/far triad — standard Arabic demonstrative grammar, no objection from tafsir sources or morphology reference.
+- [PASS] "My bones have grown feeble, and my head is aflame with grey" (19:4) — standard, widely attested translation of وَهَنَ الْعَظْمُ / وَاشْتَعَلَ الرَّأْسُ شَيْبًا.
+- [NOTE] Arabic in reflection omits the ۭ diacritic on ذُرِّيَّةً (Uthmani nasalization mark before ط). Not a content error — orthographic variant only.
+
+SUMMARY: The first 8,000 characters are clean — the al-Qurtubi/al-Mufaḍḍal linguistic analysis is accurately reported, no scholar positions are inverted or overstated, and interpretive expansions are framed as reflection rather than documented fact.

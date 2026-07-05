@@ -429,13 +429,18 @@ with this skill in the `scripts/` directory.
 authentic and correctly rendered against the complete Uthmani text database
 (6,236 verses).
 
-**Tagging requirement:** When writing the output, tag every quoted Quranic Arabic
-with an ayah reference:
+**Tagging requirement:** Tag ONLY a complete, exact verse quotation with an ayah
+reference:
 - `[ayah:103:1] وَٱلْعَصْرِ`
 - `<!-- ayah:103:1 --> Arabic text`
 
-The introduction always presents the full ayah text — tag it. Any Arabic quoted
-within the linguistic journey or thematic depths — tag it.
+The verifier checks tagged text against the *complete* verse — a tag on a partial
+phrase will always fail, even if the phrase is a real, correctly-quoted piece of
+that ayah. So: tag the full verse in the introduction blockquote. Do NOT tag
+individual words or partial phrases discussed in the Linguistic Journey or
+Thematic Depths — write those in plain italics or transliteration without an
+`ayah:` tag. Word-level grounding is verified through the Layer 2 morphology
+tags instead, not through Layer 1 ayah tags.
 
 **Run:** `node scripts/verify_arabic.mjs output.md --scan`
 

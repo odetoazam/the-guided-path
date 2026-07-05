@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/060-al-mumtahanah/ayah-004.md
+Ayah: 60:4
+Date: 2026-06-12T20:50:12
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: قَدْ=Indeed, | كَانَتْ=(there) is | لَكُمْ=for you | أُسْوَةٌ=an example | حَسَنَةٌ=good | فِىٓ=in | إِبْرَٲهِيمَ=Ibrahim | وَٱلَّذِينَ=and those | مَعَهُۥٓ=with him, | إِذْ=when | قَالُواْ=they said | لِقَوْمِهِمْ=to their people, | إِنَّا=`Indeed, we | بُرَءَٲٓؤُاْ=(are) disassociated | مِنكُمْ=from you | وَمِمَّا=and from what | تَعْبُدُونَ=you worship | مِن دُونِ=besides | ٱللَّهِ=Allah. | كَفَرْنَا=We have denied | بِكُمْ=you, | وَبَدَا=and has appeared | بَيْنَنَا=between us | وَبَيْنَكُمُ=and between you | ٱلْعَدَٲوَةُ=enmity | وَٱلْبَغْضَآءُ=and hatred | أَبَدًا=forever | حَتَّىٰ=until | تُؤْمِنُواْ=you believe | بِٱللَّهِ=in Allah | وَحْدَهُۥٓ=Alone.` | إِلَّا=Except | قَوْلَ=(the) saying | إِبْرَٲهِيمَ=(of) Ibrahim | لِأَبِيهِ=to his father, | لَأَسْتَغْفِرَنَّ=`Surely I ask forgiveness | لَكَ=for you, | وَمَآ=but not | أَمْلِكُ=I have power | لَكَ=for you | مِنَ=from | ٱللَّهِ=Allah | مِن=of | شَىْءٍ‌ۖ=anything.` | رَّبَّنَا=`Our Lord, | عَلَيْكَ=upon You | تَوَكَّلْنَا=we put our trust, | وَإِلَيْكَ=and to You | أَنَبْنَا=we turn, | وَإِلَيْكَ=and to You | ٱلْمَصِيرُ=(is) the final return.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "comes from a root the lexicographers connect to *consolation, mending, the setting of a broken thing back into wholeness*" — The wound-dressing/mending sense is accurate for the root أسو (Lane: "he treated/dressed the wound; he mended the thing"). The *consolation* sense, however, belongs primarily to the cognate root أسى (grief/consoling grief). The two roots are related and al-Rāghib treats them in proximity in the Mufradāt, so this is defensible as a synthesis — but the reflection presents "consolation" as equally lexically attested when it is a secondary inference from the root family, not the primary signification of أسوة itself. The bone-splint illustration that follows is a creative but non-lexical extension. Because the text hedges with "the lexicographers *connect* to" rather than "it means," this does not rise to CRITICAL.
+
+- [PASS] "Hatib" identification — Al-Baghawi explicitly names him: "يأمر حاطبًا والمؤمنين بالاقتداء بإبراهيم." The "man of Badr" characterization is consistent with the classical sīrah record.
+
+- [PASS] Forever/until tension (أَبَدًا / حَتَّىٰ) — The Arabic text confirms both words in the same clause. The interpretive observation is linguistically grounded and not overstated.
+
+- [PASS] Indefiniteness of *uswatun* as tankīr lil-tafkhīm — Standard Arabic rhetorical principle; correctly applied.
+
+- [PASS] Morphology frontmatter (Amn=IV, gfr=X, wkl=V, nwb=IV) — All verb forms correctly identified against the word-by-word data.
+
+- [PASS] Arabic text matches the authentic text provided — no scribal errors detected.
+
+SUMMARY: The reflection is linguistically careful and classically grounded; the single moderate flag is a defensible but slightly overclaimed etymology that blends the primary wound-dressing root (أسو) with the consolation sense of the cognate (أسى) without distinguishing them — hedged language in the text keeps it out of CRITICAL territory.

@@ -1,0 +1,40 @@
+Enhanced Validation Report
+File: content/tadabbur/039-az-zumar/ayahs-014-015.md
+Ayah: 39:14
+Date: 2026-06-06T04:17:03
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: قُلِ=Say, | ٱللَّهَ أَعْبُدُ=`I worship Allah | مُخْلِصًا=(being) sincere | لَّهُۥ=to Him | دِينِى=(in) my religion.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No genuine errors identified in the portion reviewed.
+
+Supporting notes (not errors — confirmations against provided reference data):
+
+- [CONFIRMED] *Allāha aʿbudu* fronting claim: The reflection attributes to al-Qurtubi the observation that "Allāh is in the accusative case, governed by the verb aʿbudu." The provided Qurtubi text reads exactly: **«الله نصب ب أعبد»** — *naṣb* = accusative, *bi-aʿbudu* = governed by "I worship." The attribution is accurate and the quotation is a fair characterization, not an overstatement.
+
+- [CONFIRMED] *taqdīm mā ḥaqquhu-t-taʾkhīr* / *qaṣr-ḥaṣr* analysis: Standard classical ʿilm al-maʿānī; the terminology is applied correctly and the natural order (*aʿbudu-llāha* → *Allāha aʿbudu*) reversal is an established device for restriction. No over-claim.
+
+- [CONFIRMED] Surah framing (39:2 *mukhlisan*, 39:3 *al-dīnu-l-khāliṣ*, 39:11 *umirtu an aʿbuda*): all accurately cited and the passage context is correctly described as the opening tawhid movement of Az-Zumar.
+
+- [CONFIRMED] Arabic text: matches the provided authentic Arabic for 39:14. The 39:15 Arabic in the reflection is not in scope of the provided reference data, but no error is detectable against the word-by-word breakdown.
+
+- [UNVERIFIABLE FROM PROVIDED DATA] The "360 idols" historical claim — this is widely attested in sīra literature (Ibn Hishām, al-Azraqī) but is outside the supplied tafsir sources. Cannot confirm or deny from the data given; not flagged as an error.
+
+**Note on scope:** Validation covers the first 8,000 characters only. Claims in the second half of the reflection (the khusrān-al-nafs analysis of 39:15, any further scholar citations) are unreviewed.
+
+SUMMARY: The grammatical core of this tadabbur — the fronting/qaṣr analysis with its Qurtubi citation — is correctly grounded in the provided reference data; no factual, linguistic, or attribution errors detected in the reviewed portion.

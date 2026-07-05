@@ -1,0 +1,26 @@
+Enhanced Validation Report
+File: content/tadabbur/054-al-qamar/ayah-041.md
+Ayah: 54:41
+Date: 2026-06-10T07:11:45
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَلَقَدْ=And certainly | جَآءَ=came | ءَالَ=(to the) people | فِرْعَوْنَ=(of) Firaun | ٱلنُّذُرُ=warnings.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "warnings came," "The Warning That Arrived," "the question this ayah raises was never *did the warning go out?*" — the entire reflection is built on reading ٱلنُّذُرُ as "warnings" (messages/acts). But of the four tafsirs provided, two explicitly identify *an-nudhur* here as the warners themselves — **people**, not messages: al-Baghawi states plainly «يعني: موسى وهارون» and al-Qurtubi states «يعني القبط والنذر موسى وهارون» while noting «وقد يطلق لفظ الجمع على الاثنين» (the plural can apply to two). Al-Muyassar uses the verbal noun إنذارُنا (Our warning), and only al-Jalalayn takes it as the act of warning (الإنذار). The reflection picks the minority verbal-noun reading and presents it as the reading, without flagging that the dominant classical position makes an-nudhur refer to Musa and Harun as persons. This is not a rendering error but an omission that overstates one interpretive lane — and it materially shapes the title, the frame ("the warning that arrived"), and the central theological argument ("the question was never did the warning go out").
+
+SUMMARY: All Arabic grammar analysis, tafsir attributions, and word-by-word definitions are accurate, but the reflection suppresses a major tafsir split on the core noun (*nudhur* = warners vs. warnings), presenting the minority reading as though it were uncontested and building the entire theological architecture on it.

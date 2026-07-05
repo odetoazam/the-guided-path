@@ -1,0 +1,24 @@
+Enhanced Validation Report
+File: content/tadabbur/040-ghafir/ayahs-013-014.md
+Ayah: 40:13
+Date: 2026-06-06T08:52:09
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: هُوَ=He | ٱلَّذِى=(is) the One Who | يُرِيكُمْ=shows you | ءَايَـٰتِهِۦ=His Signs | وَيُنَزِّلُ=and sends down | لَكُم=for you | مِّنَ=from | ٱلسَّمَآءِ=the sky | رِزْقًاۚ=provision. | وَمَا=But (does) not | يَتَذَكَّرُ=take heed | إِلَّا=except | مَن=(one) who | يُنِيبُ=turns.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: ERROR
+ISSUES:
+- Could not run Claude check: Command failed: claude -p --system-prompt "You are a rigorous Islamic scholarship validator for Ayah
+SUMMARY: Claude semantic check failed

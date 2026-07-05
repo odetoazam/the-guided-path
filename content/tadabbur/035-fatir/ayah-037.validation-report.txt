@@ -1,0 +1,40 @@
+Enhanced Validation Report
+File: content/tadabbur/035-fatir/ayah-037.md
+Ayah: 35:37
+Date: 2026-05-18T03:39:29
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَهُمْ=And they | يَصْطَرِخُونَ=will cry | فِيهَا=therein, | رَبَّنَآ=`Our Lord! | أَخْرِجْنَا=Bring us out; | نَعْمَلْ=we will do | صَـٰلِحًا=righteous (deeds) | غَيْرَ=other than | ٱلَّذِى=(that) which | كُنَّا=we used | نَعْمَلُۚ=(to) do.` | أَوَلَمْ=Did not | نُعَمِّرْكُم=We give you life long enough | مَّا=that | يَتَذَكَّرُ=(would) receive admonition | فِيهِ=therein | مَن=whoever | تَذَكَّرَ=receives admonition? | وَجَآءَكُمُ=And came to you | ٱلنَّذِيرُۖ=the warner. | فَذُوقُواْ=So taste, | فَمَا=then not | لِلظَّـٰلِمِينَ=(is) for the wrongdoers | مِن=any | نَّصِيرٍ=helper.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No errors found in the portion provided.
+
+Specific verification against reference data:
+
+**Root and form analysis** — The reflection identifies *yaṣṭarikhūn* as Form VIII (iftiʿāl) of root ṣ-r-kh. Correct. The phonetic assimilation (Form VIII ت → ط after emphatic ص) is standard Arabic morphophonology, accurate.
+
+**Al-Qurṭubī attribution** — The reflection quotes: *"al-ṣārikh al-mustaghīth, wa-l-muṣrikh al-mughīth."* The provided Qurṭubī text reads verbatim: «والصارخ المستغيث، والمصرخ المغيث» — confirmed. ✓
+
+**"Istighātha bi-l-ṣawt al-ʿālī"** — Qurṭubī text reads: «يستغيثون في النار بالصوت العالي» — the reflection's rendering is accurate. ✓
+
+**Surah cross-references** — 35:29 (those who recite and give), 35:32 (inheritance of the book, "ahead in good"), 35:33–34 (garden entry, hamd utterance) are all correctly cited and characterised against the surah's content.
+
+**Form VIII described as "reflexive-intensive, happening from inside the subject"** — This is a pedagogical simplification, not a factual claim contradicted by any tafsir source. The classical sources (Jalālayn: *yastāghīthūna bi-shidda wa-ʿawīl*; Baghawī: *yastaghīthūna wa-yaṣīḥūn*) reinforce the intensified, desperate quality the reflection assigns to the form. Acceptable.
+
+Nothing in the reflection inverts a scholar position, misattributes a root, or states an interpretive extension as documented fact.
+
+SUMMARY: All linguistic, morphological, and tafsir-attribution claims in this passage are accurate and grounded in the provided reference data.

@@ -1,0 +1,37 @@
+Enhanced Validation Report
+File: content/tadabbur/055-ar-rahman/ayah-059.md
+Ayah: 55:59
+Date: 2026-06-12T10:06:39
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَبِأَىِّ=So which | ءَالَآءِ=(of the) favors | رَبِّكُمَا=(of) your Lord | تُكَذِّبَانِ=will you both deny?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR/UNVERIFIABLE] "Lisān al-ʿArab and al-Rāghib's Mufradāt, gloss ālāʾ simply as al-niʿam" — neither Lisān nor Mufradāt is in the provided reference set. The gloss *niʿam* is confirmed only by al-Muyassar ("نِعَم ربكما"). The attribution to those two lexicons may be accurate but cannot be verified from the data supplied; it reads as a stated fact, not as hedged.
+- [MINOR/UNVERIFIABLE] "the grammarians debated for centuries what its singular even is — ilan? alan? ily?" — The provided sources do not address the singular of *ālāʾ*. The claim is consistent with classical Arabic grammar discourse, but the specific forms listed (*ily*? in particular) go beyond what can be confirmed here. Not flaggable as wrong, but not attestable from provided data.
+
+**Everything else clears cleanly:**
+- Arabic text matches the authenticated verse exactly.
+- Transliteration (*Fa-bi-ayyi ālāʾi rabbikumā tukadhdhibān*) is correct.
+- Dual address to humans and jinn confirmed verbatim by al-Qurtubi: "خطاب للإنس والجن" and "أيها الثقلان."
+- *Ālāʾ* glossed as *niʿam* confirmed by al-Muyassar: "نِعَم ربكما."
+- Verb analysis (Form II *kadhdhaba* = declarative/intensive vs. Form I *kadhaba*) is linguistically correct.
+- Root *Alw* for *ālāʾ* is standard and consistent with the Leeds corpus reference.
+- The 31-occurrence count is a documented fact, though absent from the provided tafsir excerpts.
+- Contextual placement after 55:56–58 is accurate.
+
+SUMMARY: The reflection is linguistically careful and tafsir-consistent throughout; the only gaps are two scholarly citations (Lisān al-ʿArab, Mufradāt) and one specific grammatical detail (singular forms of *ālāʾ*) that the provided reference data cannot confirm or deny.

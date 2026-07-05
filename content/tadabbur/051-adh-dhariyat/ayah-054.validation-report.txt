@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/051-adh-dhariyat/ayah-054.md
+Ayah: 51:54
+Date: 2026-06-09T02:34:53
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَتَوَلَّ=So turn away | عَنْهُمْ=from them, | فَمَآ=for not | أَنتَ=you | بِمَلُومٍ=(are) to be blamed.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+**VERDICT: PASS**
+
+**ISSUES:**
+
+- [MODERATE] "Mujāhid reads it beautifully. He says fa-tawalla 'anhum means: turn away — meaning, your Lord does not blame you for any shortcoming on your part." — The al-Qurtubi source provided truncates the Mujāhid quote at "أي ليس يلو..." and the specific gloss "your Lord does not blame you for any shortcoming on your part" cannot be confirmed from the supplied reference data. The surrounding meaning is consistent with all tafsir sources, but this precise formulation is stated as a direct quotation from Mujāhid when the reference does not fully support it. Flag as interpretive extension.
+
+- [PASS] al-Baghawi narration about the Prophet ﷺ grieving and the Companions fearing the revelation had been cut off — directly attested verbatim: "حزن رسول الله ﷺ واشتد ذلك على أصحابه وظنوا أن الوحي قد انقطع." Attribution is accurate.
+
+- [PASS] Root analysis of و-ل-ي and Form V reflexive meaning — linguistically correct; the walī/tawallā polarity is standard lexical material from Lisān al-ʿArab and attested in the classical sources.
+
+- [PASS] The reflection frames the 51:54–55 relationship as "pause in a posture" rather than using the term نسخ (abrogation). Al-Qurtubi explicitly applies naskh here. The reflection's framing is softer but not factually wrong for a devotional context — it captures the functional outcome of the naskh reading without misrepresenting any scholar's position.
+
+- [PASS] Arabic text, transliteration, and translation are accurate against word-by-word reference.
+
+**SUMMARY:** One unverifiable attribution (Mujāhid's precise gloss, truncated in the Qurtubi source) prevents a clean pass, but no root errors, inverted attributions, or Arabic text errors were found; the reflection is otherwise well-grounded in the supplied tafsir.

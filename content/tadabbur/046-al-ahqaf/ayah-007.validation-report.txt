@@ -1,0 +1,29 @@
+Enhanced Validation Report
+File: content/tadabbur/046-al-ahqaf/ayah-007.md
+Ayah: 46:7
+Date: 2026-06-08T08:38:57
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَإِذَا=And when | تُتْلَىٰ=are recited | عَلَيْهِمْ=to them | ءَايَـٰتُنَا=Our Verses | بَيِّنَـٰتٍ=clear, | قَالَ=say | ٱلَّذِينَ=those who | كَفَرُواْ=disbelieve | لِلْحَقِّ=of the truth | لَمَّا=when | جَآءَهُمْ=it comes to them, | هَـٰذَا=`This | سِحْرٌ=(is) a magic | مُّبِينٌ=clear.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS-NOTE] "They posted guards to keep people from listening... crept out at night, separately, in secret... caught by one another" — the Abu Sufyan/Abu Jahl/al-Akhnas night-listening account is accurately drawn from Sirah Ibn Hisham (Ibn Ishaq), but the provided reference data is tafsir-only and cannot confirm it. Not an error; accurate seerah citation presented within appropriate framing ("what history records").
+- [PASS-NOTE] "court-grade clarity" — interpretive metaphor for *bayyina*'s evidentiary weight. Lexically defensible: *bayyina* does carry legal-evidentiary force in classical fiqh usage (Lisān al-ʿArab, Rāghib's Mufradāt). However the provided tafsirs use ظاهرات (Jalālayn) and واضحات (Muyassar) — plain/evident — without the specifically juridical frame. This is a legitimate modern bridge, not an error.
+- [PASS] Root b-y-n appearing as *bayyināt* (Form II masdar-adjacent adjective) at the front and *mubīn* (Form IV active participle, ism al-fāʿil of *abāna*) at the close — morphologically accurate. Both derive from ب-ي-ن. The claim that the rejecters' own word choice retained the root of clarity is linguistically sound and not contradicted by any classical source.
+- [PASS] No scholar attributions made, so no inversion risk. Tafsir-grounded claims (Quran as target of *siḥr mubin* accusation, the disbelievers of Mecca as referent) match all four provided sources exactly.
+
+SUMMARY: The reflection is linguistically rigorous — the b-y-n inclusio analysis is morphologically accurate, word glosses match the word-by-word reference, and the central insight (disbelievers conceded *mubīn* clarity while renaming the source) is a defensible tadabbur reading not contradicted by Jalālayn, Muyassar, Qurṭubī, or Baghawī.

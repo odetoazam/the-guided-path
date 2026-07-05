@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/063-al-munafiqun/ayah-008.md
+Ayah: 63:8
+Date: 2026-06-13T08:40:26
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَقُولُونَ=They say, | لَئِن=`If | رَّجَعْنَآ=we return | إِلَى=to | ٱلْمَدِينَةِ=Al-Madinah, | لَيُخْرِجَنَّ=surely, will expel | ٱلْأَعَزُّ=the more honorable | مِنْهَا=from it | ٱلْأَذَلَّ‌ۚ=the more humble.` | وَلِلَّهِ=But for Allah | ٱلْعِزَّةُ=(is) the honor | وَلِرَسُولِهِۦ=and for His Messenger | وَلِلْمُؤْمِنِينَ=and for the believers, | وَلَـٰكِنَّ=but | ٱلْمُنَـٰفِقِينَ=the hypocrites | لَا=(do) not | يَعْلَمُونَ=know.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "recorded in al-Jalālayn all place these words in his mouth" — the provided al-Jalālayn excerpt uses "عنوا به أنفسهم" (they meant themselves, i.e., the munafiqun generally) and does not name Ibn Ubayy explicitly. Ibn Ubayy is named directly only in al-Qurtubī ("القائل ابن أبي كما تقدم") and implied by context in al-Baghawī. Attributing explicit mouth-placing to al-Jalālayn overstates what the provided excerpt shows.
+
+- [INFORMATIONAL] "the young companion who overheard them — Zayd ibn Arqam — carried them back, and was nearly disbelieved" — this is accurate per the standard hadith narrations (Sahih Muslim, Tirmidhi) but is not verifiable from the four tafsir excerpts provided. Not an error; just outside the reference data scope. No flag needed if wider hadith literature is considered in-scope for historical framing.
+
+All linguistic claims are accurate:
+- *al-aʿazz* from ʿ-z-z (عزز) — correct
+- *al-adhall* from dh-l-l (ذلل) — correct
+- Elative (*afʿal*) form analysis is grammatically sound and the interpretive move (unnamed slots, Allah inverting the assignment) is cleanly framed as reflection, not asserted as tafsir consensus
+
+SUMMARY: Reflection is sound; the single moderate issue is a minor attribution overstatement about al-Jalālayn naming Ibn Ubayy explicitly — all other historical, linguistic, and tafsir claims are well-grounded in the provided reference data.

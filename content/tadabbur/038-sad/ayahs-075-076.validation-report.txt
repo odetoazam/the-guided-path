@@ -1,0 +1,38 @@
+Enhanced Validation Report
+File: content/tadabbur/038-sad/ayahs-075-076.md
+Ayah: 38:75
+Date: 2026-06-06T01:31:53
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: قَالَ=He said, | يَـٰٓإِبْلِيسُ=`O Iblis! | مَا=What | مَنَعَكَ=prevented you | أَن=that | تَسْجُدَ=you (should) prostrate | لِمَا=to (one) whom | خَلَقْتُ=I created | بِيَدَىَّ‌ۖ=with My Hands? | أَسْتَكْبَرْتَ=Are you arrogant | أَمْ=or | كُنتَ=are you | مِنَ=of | ٱلْعَالِينَ=the exalted ones.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Al-Qurtubi says: Allah *added the creation of Adam to Himself as an honoring of him* — *tashrīfan lahu, takrīman lahu*" — **takrīman lahu** (تكريما له) is confirmed in the Qurtubi excerpt provided. However, **tashrīfan** (تشريفا) does not appear in the Qurtubi excerpt; it appears in Jalalayn ("وهذا تشريف لآدم"). Presenting both Arabic terms under a single "al-Qurtubi says" conflates two distinct sources. The underlying meaning is correct across both; the error is in the attribution bundling.
+
+- [PASS — note, not an error] "only on the path of magnification and honor" completing the al-Qurtubi sentence — the Qurtubi text in the reference data is truncated ("إلا على سبيل ا..."). The completion is plausible given context but cannot be confirmed from the data supplied. Not flagged as an error since the surrounding framing is accurate and the truncation is a data artifact, but any production version should verify against a full Qurtubi text.
+
+- [PASS] *Bi-yadayya* as grammatical dual — correctly distinguished from *bi-yadī* (singular) and *bi-aydī* (plural). Linguistically accurate.
+
+- [PASS] al-Muyassar quote on affirmation of the two Hands attribute — accurately reflects "وفي الآية إثبات صفة اليدين لله تبارك وتعالى، على الوجه اللائق به سبحانه."
+
+- [PASS] Iblis described as "of the jinn, not an angel by origin" — consistent with Quran 18:50, correctly sourced via related_ayahs.
+
+- [PASS] The two-option interrogative structure (arrogant **or** among the exalted) — confirmed by Baghawi: "استفهام توبيخ وإنكار" with both branches explicitly stated.
+
+- [PASS] Aqeedah handling of *yadayya* — the reflection adopts the tafwīḍ/ithbāt position correctly, affirming the attribute without tashbīh or taʾwīl, consistent with all four classical sources cited.
+
+SUMMARY: The reflection is doctrinally sound and linguistically careful; the single genuine issue is a source-conflation error — "tashrīfan" is Jalalayn's vocabulary, not al-Qurtubi's, and presenting both terms under one attribution is a misattribution that should be corrected before publication.

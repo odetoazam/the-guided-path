@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/057-al-hadid/ayah-024.md
+Ayah: 57:24
+Date: 2026-06-12T17:58:23
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ٱلَّذِينَ=Those who | يَبْخَلُونَ=are stingy | وَيَأْمُرُونَ=and enjoin | ٱلنَّاسَ=(on) the people | بِٱلْبُخْلِ‌ۗ=stinginess. | وَمَن=And whoever | يَتَوَلَّ=turns away, | فَإِنَّ=then indeed, | ٱللَّهَ=Allah, | هُوَ=He | ٱلْغَنِىُّ=(is) Free of need, | ٱلْحَمِيدُ=the Praiseworthy.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Saʿīd ibn Jubayr, as al-Qurṭubī reports, read it as stinginess with knowledge — those who hoard what they know and command others to hoard it too, 'that they not teach the people anything.'" — The provided al-Qurṭubī excerpt attributes the "leaders who withheld knowledge of the Prophet's description so people would not believe" reading specifically to **al-Suddī and al-Kalbī** ("قال السدي والكلبي"), not to Saʿīd ibn Jubayr. The specific phrasing "that they not teach the people anything" also does not appear in the supplied tafsir text. The Qurṭubī excerpt is truncated, so it is possible Saʿīd ibn Jubayr appears later — but the attribution cannot be confirmed from the reference data as provided, and the available text points to different narrators.
+
+Everything else checks out:
+- Arabic text matches the authenticated source exactly. ✓
+- The grammatical claim that *alladhīna* "hangs off the boaster from the verse before" is confirmed by both al-Qurṭubī ("في موضع خفض نعتاً للمختال") and al-Baghawī ("في محل الخفض على نعت المختال"). ✓
+- The double *bukhl* root analysis (verb → noun, self → social) is linguistically accurate per the ayah's own structure. ✓
+- The *yaʾmurūna* / *amr* root observation is lexically sound. ✓
+- The claim that al-Qurṭubī "preserves the reading that it pointed at certain leaders who withheld the truth they recognized... so that the people would not believe" is substantiated ("رؤساء اليهود الذين يبخلون ببيان صفة محمد... لئلا يؤمن به الناس"). ✓
+
+SUMMARY: The reflection is well-grounded throughout, but the attribution to Saʿīd ibn Jubayr for the "knowledge-hoarding" reading is unverifiable from the reference data and conflicts with the explicit attribution in the supplied Qurṭubī excerpt, which credits al-Suddī and al-Kalbī instead.

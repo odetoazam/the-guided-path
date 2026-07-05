@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/046-al-ahqaf/ayah-014.md
+Ayah: 46:14
+Date: 2026-06-08T09:19:45
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أُوْلَـٰٓئِكَ=Those | أَصْحَـٰبُ=(are the) companions | ٱلْجَنَّةِ=(of) Paradise | خَـٰلِدِينَ=abiding forever | فِيهَا=therein, | جَزَآءَۢ=a reward | بِمَا=for what | كَانُواْ=they used (to) | يَعْمَلُونَ=do.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "early years of Islam — somewhere around 615 CE" — Sūrah Al-Aḥqāf is part of the Ḥawāmīm group (Sūrahs 40–46), placed by classical and modern scholarship consistently in the **late** Meccan period, generally *after* 615 CE, not the early years. The early Meccan period (610–613 CE) is typically associated with Sūrahs like Al-ʿAlaq, Al-Muddaththir, Al-Muzzammil. Labeling 46:14 as "early years" conflates two distinct phases of the Meccan period. The persecution context is accurate throughout Mecca, but the chronological framing is imprecise and could mislead readers about the revelatory sequence.
+
+No issues found in:
+- **Root analysis**: ص-ح-ب for *aṣḥāb* is correct; the claim of *mulāzama* (continuous association) as the lexical core of *ṣuḥba* accurately reflects Al-Rāghib al-Iṣfahānī's *Mufradāt*.
+- **Arabic text**: matches the authentic Arabic provided (minor taṭwīl mark variants are scribal convention, not error).
+- **Structural claims**: 46:13 → 46:14 → 46:15 sequencing is accurate; *istaqāmū* in 46:13 and the parent-child passage beginning at 46:15 are both correct.
+- **Quranic parallel**: *aṣḥābu l-nār* symmetry is a real and well-attested Quranic pattern.
+- **Tafsir alignment**: the reflection does not contradict Jalālayn, Muyassar, Qurtubi, or Baghawi on any stated point.
+
+SUMMARY: One moderate chronological imprecision places a late Meccan surah in "the early years of Islam"; all linguistic, morphological, and tafsir claims in the visible text are accurate.

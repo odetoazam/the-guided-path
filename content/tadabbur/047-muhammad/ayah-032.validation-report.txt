@@ -1,0 +1,28 @@
+Enhanced Validation Report
+File: content/tadabbur/047-muhammad/ayah-032.md
+Ayah: 47:32
+Date: 2026-06-08T12:01:04
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّ=Indeed, | ٱلَّذِينَ=those who | كَفَرُواْ=disbelieve | وَصَدُّواْ=and turn away | عَن=from | سَبِيلِ ٱللَّهِ=(the) way of Allah | وَشَآقُّواْ=and opposed | ٱلرَّسُولَ=the Messenger | مِنۢ بَعْدِ=after | مَا=[what] | تَبَيَّنَ=has been made clear | لَهُمُ=to them | ٱلْهُدَىٰ=the guidance, | لَن=never | يَضُرُّواْ=will they harm | ٱللَّهَ=Allah | شَيْــًٔا=(in) anything, | وَسَيُحْبِطُ=and He will make worthless | أَعْمَـٰلَهُمْ=their deeds.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "It uses a word for that collapse that does not mean 'erased.' It means something much more unsettling. It means something *bloated.*" — The root ḥ-b-ṭ does carry the etymological image of a livestock animal whose belly swells from overeating until it dies (attested in Lane's Lexicon and al-Rāghib al-Iṣfahānī's *Mufradāt*). However, all four classical tafsir sources provided gloss يُحبِط uniformly as "يبطلها" and "لا يرون لها ثوابا في الآخرة" — straightforward nullification of reward, with no elaboration on the bloating imagery. The reflection presents "bloated" as what the word *means*, which conflates root etymology with the Quranic semantic content. As written, a reader would understand "bloated" to be the primary operative meaning here, not a root image that classical scholars did not foreground in their glosses of this ayah. The downstream text may resolve this, but as framed at the cut-off point it overstates the etymological layer without anchoring it to the tafsir consensus on nullification.
+
+No CRITICAL issues found: root identifications (sh-q-q Form III, b-y-n Form V, ḥ-b-ṭ Form IV) are all correct; the Form III *mufāʿala* analysis of شاقّوا and its implication of two-sided confrontation is linguistically sound; the Form V reflexive reading of تبيَّن ("made itself clear") is accurate; the three-verb structure (disbelieve / bar / oppose) correctly maps to كفروا / صدّوا / شاقّوا; and the contextual framing as Madinan and directed at knowing rejecters aligns with al-Jalālayn, al-Qurṭubī, and al-Baghawī.
+
+SUMMARY: The reflection is linguistically rigorous and doctrinally grounded throughout; the single flag is on ḥ-b-ṭ, where presenting root etymology as the word's meaning — without the classical gloss of nullification alongside it — is an interpretive extension stated as lexical fact.

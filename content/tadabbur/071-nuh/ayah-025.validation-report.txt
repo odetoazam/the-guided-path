@@ -1,0 +1,26 @@
+Enhanced Validation Report
+File: content/tadabbur/071-nuh/ayah-025.md
+Ayah: 71:25
+Date: 2026-06-15T03:57:04
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: مِّمَّا=Because of | خَطِيٓـَٔـٰتِهِمْ=their sins | أُغْرِقُواْ=they were drowned, | فَأُدْخِلُواْ=then made to enter | نَارًا=(the) Fire, | فَلَمْ=and not | يَجِدُواْ=they found | لَهُم=for themselves | مِّن دُونِ=besides | ٱللَّهِ=Allah | أَنصَارًا=any helpers.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "Others, like Muqātil as al-Baghawī also narrates, read the Fire as the Fire of the Hereafter **that received them the instant the water released them**" — Al-Baghawī's actual text records Muqātil as saying only *"fa-udkhilū nāran fi-l-ākhira"* (the Fire in the Hereafter). The temporal gloss "the instant the water released them" is the author's own inference from the *fā*, not from Muqātil's reported statement. The *fā* argument is sound; it simply should not be blended into Muqātil's position as if he said it.
+
+SUMMARY: The reflection is linguistically accurate throughout — Form IV passive identification for *ughriqū/udkhilū* is correct, the al-Ḍaḥḥāk attribution matches al-Baghawī's text word-for-word, and the *fā* vs *wāw* distinction is standard — with one moderate issue where the author's own *fā*-instantaneity inference is embedded into Muqātil's cited position rather than presented as a separate analytical step.

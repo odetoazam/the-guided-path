@@ -1,0 +1,40 @@
+Enhanced Validation Report
+File: content/tadabbur/033-al-ahzab/ayah-015.md
+Ayah: 33:15
+Date: 2026-05-15T05:48:52
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَلَقَدْ=And certainly | كَانُواْ=they had | عَـٰهَدُواْ=promised | ٱللَّهَ=Allah | مِن قَبْلُ=before, | لَا=not | يُوَلُّونَ=they would turn | ٱلْأَدْبَـٰرَ‌ۚ=their backs. | وَكَانَ=And is | عَهْدُ=(the) promise | ٱللَّهِ=(to) Allah | مَسْــُٔولاً=to be questioned.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR/UNVERIFIABLE] "Muqātil preserves a similar narration" — Muqatil ibn Sulayman does have a major tafsir and such narrations are plausible, but this specific claim cannot be confirmed or denied from the provided reference sources. No error is asserted; the source simply cannot be checked here.
+
+All other verifiable claims hold:
+
+- **Qatada attribution**: Matches ar.Qurtubi precisely — absence from Badr, witnessing the honor given to the men of Badr, the oath "if Allah grants us presence at a battle, we will fight" (لئن أشهدنا الله قتالا لنقاتلن). Accurate.
+
+- **Yazīd ibn Rūmān attribution**: Matches ar.Baghawi precisely — Banū Ḥāritha, the near-faltering at Uhud alongside Banū Salima, the subsequent covenant not to return to such conduct (عاهدوا الله أن لا يعودوا لمثلها). Accurate, including both tribal names.
+
+- **Form III morphology (ʿāhadū)**: Root ʿ-h-d confirmed. Form III (fāʿala pattern → ʿāhada) is correctly identified, and the reciprocity interpretation is a standard grammatical principle. Form II identification of yuwallūna (root w-l-y) is also correct.
+
+- **Form I contrast (ʿahida)**: Linguistically accurate; the author's claim that Form I would lack the bilateral sense is sound.
+
+- **2:40 cross-reference** (awfū bi-ʿahdī ūfi bi-ʿahdikum): Accurate; the ayah text matches. The author explicitly marks the theological extrapolation from Form III as "stepping past pure grammar into interpretive application" — appropriate epistemic flagging.
+
+- **Pre-Khandaq timing**: Consistent with ar.Muyassar (من قبل غزوة الخندق) and ar.Baghawi (من قبل غزوة الخندق).
+
+SUMMARY: The reflection accurately attributes all classical positions to their correct sources, its morphological analysis is sound, and interpretive extensions are properly flagged as such — no factual errors identified.

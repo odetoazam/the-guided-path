@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/081-at-takwir/ayahs-012-013.md
+Ayah: 81:12
+Date: 2026-06-18T15:32:31
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَإِذَا=And when | ٱلْجَحِيمُ=the Hellfire | سُعِّرَتْ=is set ablaze,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [UNVERIFIABLE] "a narration al-Qurṭubī preserves, reported through Abū Hurayra, that...the Fire was kindled a thousand years until it glowed red, then a thousand years until it turned white, then a thousand more" — The al-Qurṭubī text in the reference data is cut off at "وفي الترمذي عن أبي هريرة عن النبي - صلى الله علي" — the citation chain (Qurṭubī → Tirmidhī → Abū Hurayra) is partially confirmed, but the specific three-stage content cannot be verified from the data provided. The reflection's framing ("hold the image, not the arithmetic") is appropriate hedging, but the claim is unverifiable here.
+
+All verified claims:
+- Form II passive analysis of سُعِّرَتْ (root s-ʿ-r) is correct per frontmatter morphology note and all four tafsir sources.
+- Recitation attribution — "Nāfiʿ of Madinah, Ibn Dhakwān of Damascus, and Ruways" for the heavy (mushaddada) reading — matches al-Qurṭubī exactly: "وقرأ نافع وابن ذكوان ورويس بالتشديد."
+- The gloss "kindled time after time" attributed to al-Qurṭubī matches verbatim: "لأنها أوقدت مرة بعد مرة."
+- Qatāda attribution ("It is stoked by the wrath of Allah and the sins of the children of Adam") matches al-Qurṭubī verbatim: "قال قتادة: سعرها غضب الله وخطايا بني آدم."
+- Arabic text matches the authentic source exactly.
+
+SUMMARY: All attributable claims check out against the provided sources; the one Abu Huraira narration detail (the three color stages) is unverifiable from the truncated reference but is handled with appropriate epistemic caution in the text.

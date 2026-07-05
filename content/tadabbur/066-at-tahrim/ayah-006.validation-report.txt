@@ -1,0 +1,38 @@
+Enhanced Validation Report
+File: content/tadabbur/066-at-tahrim/ayah-006.md
+Ayah: 66:6
+Date: 2026-06-13T12:44:15
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ=O you who believe! | قُوٓاْ=Protect | أَنفُسَكُمْ=yourselves | وَأَهْلِيكُمْ=and your families | نَارًا=(from) a Fire | وَقُودُهَا=whose fuel | ٱلنَّاسُ=(is) people | وَٱلْحِجَارَةُ=and stones, | عَلَيْهَا=over it | مَلَـٰٓئِكَةٌ=(are) Angels | غِلَاظٌ=stern, | شِدَادٌ=severe; | لَّا=not | يَعْصُونَ=they disobey | ٱللَّهَ=Allah | مَآ=(in) what | أَمَرَهُمْ=He Commands them | وَيَفْعَلُونَ=but they do | مَا=what | يُؤْمَرُونَ=they are commanded.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "One narration carried through ʿAlī ibn Abī Ṭalḥa from Ibn ʿAbbās frames it as: 'teach them the remembrance and the supplication, so that Allah protects them through you.'" — The ʿAlī ibn Abī Ṭalḥa → Ibn ʿAbbās chain is confirmed present in al-Qurṭubī ("وروى علي بن أبي طلحة عن ابن عباس"), but the provided text truncates immediately after ("قو"). The specific paraphrase given in the reflection — *dhikr*, *duʿāʾ*, and Allah protecting through the parent — cannot be verified from the reference data supplied. The chain is real; the attributed content is unverifiable here and should not be presented as a documented quote.
+
+- [PASS, note] "a class of verbs the grammarians call 'defective'" — Technically, و-ق-ي is classified in classical Arabic grammar as *mithāl* (assimilated, first radical is wāw), not *nāqiṣ* (defective, weak final radical). However, "defective" is used as a broad cover term for weak-radical verbs in much English-language pedagogy, and the mechanical description that follows (wāw drops in the imperative, collapsing to قُوا) is correct. This is a pedagogical simplification, not a factual error.
+
+- [PASS] Root w-q-y → taqwā → wiqāya as "protective shielding" — well-attested in Lisān al-ʿArab and Mufradāt al-Rāghib, both cited in the file's morphology note.
+
+- [PASS] Al-Ḍaḥḥāk attribution: "protect yourselves, and let each member of the household protect their own soul" — confirmed verbatim in al-Qurṭubī: *"قال الضحاك: معناه قوا أنفسكم، وأهلوكم فليقوا أنفسهم نارا."*
+
+- [PASS] "Command them toward good and forbid them from evil; teach them and refine their character" attributed as preserved in al-Baghawī — confirmed: *"مروهم بالخير وانهوهم عن الشر وعلموهم وأدبوهم تقوهم بذلك نارا"* (via ʿAṭāʾ from Ibn ʿAbbās in al-Baghawī).
+
+- [PASS] Al-Muyassar summary ("shield yourself by doing what He commanded") — confirmed: *"احفظوا أنفسكم بفعل ما أمركم الله به."*
+
+- [PASS] Arabic text in the reflection body matches the authenticated Arabic with only minor orthographic diacritic variation (acceptable in different Quran print traditions).
+
+SUMMARY: One unverifiable narration paraphrase (the ʿAlī ibn Abī Ṭalḥa → Ibn ʿAbbās chain content is truncated in the reference data, so the specific dhikr/duʿāʾ framing cannot be confirmed); all other linguistic and attribution claims check out against the supplied tafsir sources.

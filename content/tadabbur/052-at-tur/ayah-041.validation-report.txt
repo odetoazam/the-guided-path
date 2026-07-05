@@ -1,0 +1,37 @@
+Enhanced Validation Report
+File: content/tadabbur/052-at-tur/ayah-041.md
+Ayah: 52:41
+Date: 2026-06-09T17:35:32
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَمْ=Or | عِندَهُمُ=with them | ٱلْغَيْبُ=(is) the unseen, | فَهُمْ=so they | يَكْتُبُونَ=write (it) down?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No genuine errors identified in the portion reviewed.
+
+Supporting confirmations:
+- Arabic text is letter-perfect against the authentic source.
+- "Am ʿindahumu-l-ghaybu fahum yaktubūn" transliteration is accurate; "possess" for ʿindahum is a legitimate rendering (classical ʿinda carries the sense of "in one's possession/custody").
+- The 52:30 connection (naṭarabbaṣu bihi rayba-l-manūn as the trigger for this rhetorical cascade) is explicitly confirmed by Qatada's narration in both al-Qurtubi and al-Baghawi.
+- Verse numbering for the am-cascade (35, 35, 36, 37, 38, 41) is accurate; both halves of 52:35 correctly attributed to the same verse.
+- yaktubūna = Form I imperfect of k-t-b is morphologically correct.
+- Hamzat al-tawbikh / taqrir framing is standard Arabic balāgha and consistent with al-Jalalayn's gloss ("حتى يمكنهم منازعة النبي") — the questions expose the illegitimacy of the claim rather than seek information.
+- The "wager on the future" interpretive frame maps cleanly onto al-Muyassar ("لا يعلم الغيب في السموات والأرض إلا الله") and al-Baghawi ("أعندهم علم الغيب حتى علموا أن محمداً يموت قبلهم").
+
+One minor observation (not a flag): The prose says the ayah arrives "right in the middle of this storm" — it's actually near the tail-end of the cascade (verse 41 of a run beginning at 35). This is rhetorical color in the reflection's own prose, not a factual claim, so no flag warranted.
+
+SUMMARY: The reflection is linguistically precise, tafsir-grounded, and free of attribution errors or unsupported factual claims in the portion reviewed.

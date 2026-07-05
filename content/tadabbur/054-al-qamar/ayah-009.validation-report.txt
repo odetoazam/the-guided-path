@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/054-al-qamar/ayah-009.md
+Ayah: 54:9
+Date: 2026-06-10T00:18:37
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ۞ كَذَّبَتْ=Denied | قَبْلَهُمْ=before them | قَوْمُ=(the) people | نُوحٍ=(of) Nuh, | فَكَذَّبُواْ=and they denied | عَبْدَنَا=Our slave | وَقَالُواْ=and said, | مَجْنُونٌ=`A madman,` | وَٱزْدُجِرَ=and he was repelled.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+
+- [MODERATE] "The second angle, also preserved by al-Qurtubi from al-Zamakhshari: they had already denied the very idea of messengers — rejected prophethood at the root — so when Our servant came, of course they denied him too" — The provided ar.qurtubi text shows Zamakhshari posing a single Q&A: *"فإن قلت ما معنى قوله : فكذبوا بعد قوله : كذبت؟ قلت : معناه كذبوه تكذيبا على عقب تكذيب."* One question, one answer. Only the "denial upon the heels of denial" reading is attributed to Zamakhshari in the reference data. The "rejected prophethood at the root" reading carries the same attribution weight in the reflection ("also preserved by al-Qurtubi from al-Zamakhshari") but does not appear in the provided ar.qurtubi excerpt. This may be the author's own interpretive extension — which is valid as interpretation — but cannot be verified as a documented Zamakhshari/Qurtubi position from the data supplied.
+
+CONFIRMED PASSES:
+
+- *"Al-Qurtubi says these narratives came as ta'nīs — companionship — and taʿziya — consolation"* — Exact match: ar.qurtubi "تأنيسا للنبي صلى الله عليه وسلم وتعزية له" ✓
+- *"denial upon the heels of denial — takdhīban ʿalā ʿaqibi takdhīb"* — Direct quote from ar.qurtubi's Zamakhshari extract ✓
+- *"the first verb is feminine — kadhdhabat — agreeing, as al-Jalalayn notes, with the collective sense of qawm"* — ar.jalalayn: "تأنيث الفعل لمعنى قوم" ✓
+- *"kadhdhaba... Form II"* — Correct; Form II (faʿʿala) carries the intensive "to actively declare a liar" sense ✓
+- *"izdujira Form VIII perfect passive"* — Correct; izdujira (اِزْدُجِرَ) is Form VIII passive of root z-j-r, with the standard ت→د assimilation after ز ✓
+- *"nine hundred and fifty years (29:14)"* — Accurate Quranic cross-reference ✓
+
+SUMMARY: The reflection is otherwise linguistically precise and well-sourced, but one interpretive angle is attributed to al-Zamakhshari via al-Qurtubi without support in the provided reference data; it should either be re-attributed as the author's own reading or sourced to a specific passage in al-Kashshaf.

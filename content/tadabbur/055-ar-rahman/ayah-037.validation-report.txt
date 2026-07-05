@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/055-ar-rahman/ayah-037.md
+Ayah: 55:37
+Date: 2026-06-11T23:36:05
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَإِذَا=Then when | ٱنشَقَّتِ=is split | ٱلسَّمَآءُ=the heaven, | فَكَانَتْ=and it becomes | وَرْدَةً=rose-colored | كَٱلدِّهَانِ=like murky oil.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+
+- [MODERATE] "And *wardah* is the rose — the flower" / "what He reaches for is a **flower**" / section title "The Flower at the End of the World" — All four supplied tafsir sources read وَرْدَةً as a **color term**, not a flower-form metaphor. Jalālayn: *"محمرة"* (reddish); Muyassar: *"حمراء كلون الورد"* (red like the color of the rose); Qurṭubī: *"فكانت حمراء"* (it became red); Baghawī: *"كلون الفرس الورد، وهو الأبيض الذي يضرب إلى الحمرة والصفرة"* (like the color of a roan horse, white tending to red and yellow). The reflection's own translation correctly says "rose-red," but the dominant interpretive frame — built up as a linguistic discovery — presents the sky as metaphorically *becoming a flower*, which no tafsir source supports. Wardah lexically encompasses the flower, but its use here is unanimous across the four sources as a color descriptor. Elevating the flower image to the primary claim overstates what the linguistic evidence actually yields.
+
+- [PASS] Form VII (*inshaqqat*) identified as muṭāwaʿa (yielding/compliant form) — correct and well-explained. Root *sh-q-q* accurate. The absence of a named agent in the construction is a legitimate grammatical observation.
+
+- [PASS] Arabic text matches the authentic Arabic provided (the missing ۭ is a recitation pause mark, not a content variant).
+
+- [PASS] Translation of كَٱلدِّهَانِ as "molten oil" — the word-by-word reference gives "murky oil," but Muyassar's *"الزيت المغلي"* (boiling/heated oil) provides tafsir backing for the "molten" reading, so this is a defensible rendering, not an error.
+
+SUMMARY: No critical morphological or attribution errors; the single moderate issue is that the reflection's central rhetorical frame ("He reached for a flower") presents the flower as the primary linguistic referent of وَرْدَةً when all four classical sources read it as a color metaphor (redness), a distinction the reflection obscures even while its own translation correctly says "rose-red."

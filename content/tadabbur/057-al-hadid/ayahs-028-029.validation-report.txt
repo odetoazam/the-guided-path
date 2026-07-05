@@ -1,0 +1,44 @@
+Enhanced Validation Report
+File: content/tadabbur/057-al-hadid/ayahs-028-029.md
+Ayah: 57:28
+Date: 2026-06-12T17:36:15
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ=O you who believe! | ٱتَّقُواْ=Fear | ٱللَّهَ=Allah | وَءَامِنُواْ=and believe | بِرَسُولِهِۦ=in His Messenger; | يُؤْتِكُمْ=He will give you | كِفْلَيْنِ=double portion | مِن=of | رَّحْمَتِهِۦ=His Mercy | وَيَجْعَل=and He will make | لَّكُمْ=for you | نُورًا=a light, | تَمْشُونَ=you will walk | بِهِۦ=with it, | وَيَغْفِرْ=and He will forgive | لَكُمْ‌ۚ=you. | وَٱللَّهُ=And Allah | غَفُورٌ=(is) Oft-Forgiving, | رَّحِيمٌ=Most Merciful.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- None identified in the provided text.
+
+Checking each verifiable claim against the reference data:
+
+**Tafsir attributions:**
+- "According to the major reading preserved by al-Qurtubi and al-Baghawi, this verse is spoken directly into that fear [of People of the Book]" — confirmed. al-Qurtubi: *āmanū bi-Mūsā wa-ʿĪsā*; al-Baghawi: *al-khiṭāb li-ahl al-kitābayn min al-Yahūd wa-al-Naṣārā*. Jalalayn corroborates (those who believed in ʿĪsā). All four sources align.
+- "Al-Baghawi states it plainly: the address is to the People of the two Books, the Jews and the Christians — believe in Allah's Messenger, Muhammad" — direct paraphrase of al-Baghawi's text; accurate.
+
+**Morphology:**
+- *āmanū* attributed to root Amn, perfect tense, Form IV — correct. آمَنَ is Form IV of أمن; plural perfect آمَنُوا is accurate.
+- *ittaqū* as Form VIII imperative of wqy — correct per the frontmatter note; اتَّقَى is the standard Form VIII derivation from و-ق-ي.
+- *kiflayn* glossed as "double portion" — confirmed by word-by-word data, Jalalayn (*naṣībayn*), Qurtubi (*al-ḥaẓẓ wa-al-naṣīb*), and Baghawi (*naṣībayn*).
+
+**Contextual/structural claims:**
+- "Closing two verses of Surah al-Hadid" — Surah al-Hadid runs 57:1–29; verses 28–29 are indeed the final two.
+- "Āmanū (title) and āminū (command) share the same root" — correct; both from Amn.
+
+**Interpretive framing:**
+- The reflection consistently marks non-lexical claims as interpretive (e.g., "belief is not a wall you build once…" is homiletical, not presented as a tafsir citation). The frontmatter comment explicitly flags ayah 29's grammatical subtleties as interpretive. No overreach found in the portion validated.
+
+SUMMARY: All tafsir attributions, morphological claims, and factual assertions in the provided text are accurately grounded in the reference sources with no misattributions or overstated positions detected.

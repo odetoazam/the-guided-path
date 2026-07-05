@@ -1,0 +1,42 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayah-109.md
+Ayah: 3:109
+Date: 2026-06-22T06:45:49
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَلِلَّهِ=And to Allah (belongs) | مَا=whatever | فِى=(is) in | ٱلسَّمَـٰوَٲتِ=the heavens | وَمَا=and whatever | فِى=(is) in | ٱلْأَرْضِ‌ۚ=the earth. | وَإِلَى=And to | ٱللَّهِ=Allah | تُرْجَعُ=will be returned | ٱلْأُمُورُ=the matters.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- None identified. All verifiable claims check out against the provided reference data.
+
+Specific checks performed:
+
+1. **Arabic text** — Reflection's Arabic matches the authentic text exactly (diacritic variation in ٱلسَّمَـٰوَٰتِ vs ٱلسَّمَٰوَٰتِ is a display encoding difference, not a textual error).
+
+2. **Jalālayn citation** — "mulkan wa khalqan wa ʿabīdan" is quoted verbatim and correctly attributed. Jalālayn source confirms: «ملكا وخلقا وعبيدا».
+
+3. **Muyassar citation** — "khalqan wa tadbīran" is accurate. Muyassar source confirms: «خلقًا وتدبيرًا».
+
+4. **Taqdīm/ḥaṣr claim** — "taqdīm mā ḥaqquhu at-taʾkhīr yufīdu al-ḥaṣr" is a standard and well-attested principle in classical Arabic grammar (Ibn Hishām, Suyūtī). Attributed to "the grammarians" — not to a named individual — which is the correct attribution. No overstatement.
+
+5. **Lām al-milk** — Standard Arabic grammatical category, correctly defined as the lam of possession.
+
+6. **3:108 cross-reference** — "Allah does not intend injustice to the worlds" is an accurate citation of the preceding ayah's content.
+
+7. **Structural claim** — That 3:110 ("best community") follows is accurate; that 3:109 closes a courtroom-style passage weighing believers/disbelievers is consistent with Qurtubi's own framing: «لما ذكر أحوال المؤمنين والكافرين... وصله بذكر اتساع قدرته».
+
+SUMMARY: The reflection is linguistically disciplined, tafsir citations are verified and not overstated, and the grammatical analysis is grounded in attested classical principles — no errors detected in the portion submitted.

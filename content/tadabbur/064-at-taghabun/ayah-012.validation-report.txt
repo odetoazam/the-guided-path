@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/064-at-taghabun/ayah-012.md
+Ayah: 64:12
+Date: 2026-06-13T10:44:22
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَأَطِيعُواْ=So obey | ٱللَّهَ=Allah | وَأَطِيعُواْ=and obey | ٱلرَّسُولَ‌ۚ=the Messenger; | فَإِن=but if | تَوَلَّيْتُمْ=you turn away, | فَإِنَّمَا=then only | عَلَىٰ=upon | رَسُولِنَا=Our Messenger | ٱلْبَلَـٰغُ=(is) the conveyance | ٱلْمُبِينُ=clear.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR / NOTE] Tag `iltifat` — the body text correctly describes "a tiny grammatical shift" without labeling it, but the tag applies the term loosely. Classical iltifāt (التفات) denotes a shift in grammatical *person* (e.g., third → second person). The shift here — from the definite "al-Rasūl" to the possessive "rasūlinā" — is a pronominal/possessive shift, not a person shift in the classical sense. This is a metadata imprecision, not a body-text error, and none of the provided tafsir sources comment on it either way.
+- [VERIFY PENDING] "Allah is the walī of those who believe" — the reflection cites this as a support for the w-l-y root meaning. The quote matches 2:257 (اللَّهُ وَلِيُّ الَّذِينَ آمَنُوا) and is linguistically correct, but it falls outside the provided reference data for this ayah. The claim is sound per standard Quranic reference, not a guess.
+
+All positively verifiable items check out:
+- Arabic text matches the authentic text (the ـٰ kashida in البَلَـٰغُ is a typographic rendering variant, not a textual error)
+- Morphology: *tawallaytum* as Form V perfect is correct; *aṭīʿū* as Form IV imperative is correct per the footnote and standard morphology
+- Root w-l-y → walī, walāya: correctly attested; the reflexive character of Form V is a standard description
+- Al-Qurtubi citation: "make the calamities light upon yourselves, busy yourselves with obedience of Allah, acting by His Book and the Sunnah of His Messenger" is a faithful paraphrase of the provided Qurtubi text (هوِّنوا على أنفسكم المصائب / واشتغلوا بطاعة الله / واعملوا بكتابه / أطيعوا الرسول في العمل بسنته)
+- The "Our Messenger" possessive shift is a direct textual observation, not an attributed scholarly claim — correctly framed as such
+- The silence about consequences for those who turn away accurately reflects the verse's structure
+
+SUMMARY: The reflection is linguistically rigorous and the single tafsir attribution is accurate to the provided source; the only flag is a metadata tag using "iltifāt" in a non-classical sense, which is a minor terminological imprecision rather than a substantive error.

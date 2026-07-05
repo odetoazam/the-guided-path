@@ -1,0 +1,38 @@
+Enhanced Validation Report
+File: content/tadabbur/105-al-fil/ayah-001.md
+Ayah: 105:1
+Date: 2026-06-20T08:10:04
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَلَمْ=Have not | تَرَ=you seen | كَيْفَ=how | فَعَلَ=dealt | رَبُّكَ=your Lord | بِأَصْحَـٰبِ=with (the) Companions | ٱلْفِيلِ=(of the) Elephant?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "Arabic has a precise name for this. The grammarians call it **istifhām** — a question in form — that carries the meaning of **taqrīr**" — The reflection presents taqrīr as the singular, definitive characterization. Al-Qurṭubī does explicitly state "اللفظ استفهام، والمعنى تقرير" — but al-Jalālayn, equally authoritative, characterizes the same construction as "استفهام تعجب" (istifhām of wonder/amazement), which carries a meaningfully different rhetorical weight. These are not contradictory — they describe different dimensions of the question's force — but presenting taqrīr as "the precise name Arabic gives this phenomenon" without acknowledging taʿajjub creates a false impression of scholarly consensus around one frame. A tadabbur at this depth of grammatical analysis should surface both.
+
+- [NOTE — not an error] "ʿAbd al-Muṭṭalib... turned to the Kaaba and said, in effect: this is Your House; if You will not protect it, no one can." — This narration does not appear in any of the four provided tafsir extracts; it derives from Seerah literature. The reflection appropriately hedges with "is said to have," so this is not a factual misattribution. Flagging only because it cannot be validated from the reference data supplied here.
+
+- [PASS] All three Qurṭubī readings of *alam tara* (tukhbar / taʿlam / tasmaʿ via Ibn ʿAbbās) are accurately transcribed against the provided Arabic: "ألم تخبر... وقيل: ألم تعلم... وقال ابن عباس: ألم تسمع؟" ✓
+
+- [PASS] Al-Muyassar rendering "alam taʿlam ayyuhā ar-rasūl" accurately mirrors "ألم تعلم -أيها الرسول-" ✓
+
+- [PASS] Abraha's church in Ṣanʿāʾ, the defilement by a man, Abraha's oath to destroy the Kaaba — all confirmed verbatim in al-Jalālayn ✓
+
+- [PASS] Root r-ʾ-y for تَرَ is correct ✓
+
+- [PASS] Frontmatter Arabic matches the authenticated text exactly ✓
+
+SUMMARY: Scholarship is sound and citations are accurate; the one moderate issue is that the linguistic analysis presents taqrīr as the sole classical framing of *alam tara*, suppressing al-Jalālayn's equally attested taʿajjub reading and narrowing the rhetorical picture without warrant.

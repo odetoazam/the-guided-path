@@ -1,0 +1,38 @@
+Enhanced Validation Report
+File: content/tadabbur/062-al-jumuah/ayah-011.md
+Ayah: 62:11
+Date: 2026-06-13T01:45:02
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَإِذَا=And when | رَأَوْاْ=they saw | تِجَـٰرَةً=a transaction | أَوْ=or | لَهْوًا=a sport, | ٱنفَضُّوٓاْ=they rushed | إِلَيْهَا=to it | وَتَرَكُوكَ=and left you | قَآئِمًا‌ۚ=standing. | قُلْ=Say, | مَا=`What | عِندَ=(is) with | ٱللَّهِ=Allah | خَيْرٌ=(is) better | مِّنَ=than | ٱللَّهْوِ=the sport | وَمِنَ=and from | ٱلتِّجَـٰرَةِ‌ۚ=(any) transaction. | وَٱللَّهُ=And Allah | خَيْرُ=(is the) Best | ٱلرَّٲزِقِينَ=(of) the Providers.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE] "only about twelve remained" — specific number unverifiable from the provided tafsir excerpts (Al-Qurtubi's text is truncated at "فجاءت عير" before reaching the headcount detail). The claim is not wrong — this number appears in the full Qurtubi and standard hadith commentary — but it cannot be confirmed from the reference data supplied. Flag for the validator to supply the full Qurtubi passage before publication.
+
+- [NOTE] "A trade caravan from Syria" — the Syria provenance is not present in any of the four provided tafsir excerpts (all use ʿīr without specifying origin). Again, this is a standard detail in the broader hadith literature; unverifiable from provided sources alone.
+
+- [PASS-WITH-OBSERVATION] The word-by-word reference glosses ٱنفَضُّوٓاْ as "they rushed," but the reflection renders it "they scattered." The reflection's reading is actually more accurate: Al-Muyassar uses تفرَّقوا (they dispersed/scattered), and Form VII *infaʿala* is the morphologically correct reflexive/resultative of f-ḍ-ḍ. The "rushed" gloss in the reference is underprecise; no error in the reflection.
+
+- [PASS] Form VII analysis (*muṭāwiʿ*, reflexive/resultative) is morphologically correct. The pearl-thread imagery for root f-ḍ-ḍ is attested in Lisān al-ʿArab as cited in the reflection's morphology note. Cannot be directly cross-checked against the provided reference data, but the claim is standard and the root/form identification is sound.
+
+- [PASS] Historical occasion (Ṣaḥīḥ Muslim, Jābir ibn ʿAbdillāh, Prophet standing on minbar, Friday sermon interrupted by caravan) confirmed by both Al-Qurtubi ("في صحيح مسلم عن جابر بن عبد الله أن النبي صلى الله عليه وسلم كان يخطب قائما يوم الجمعة، فجاءت عير") and Al-Baghawi (same chain, same occasion).
+
+- [PASS] qāʾiman/standing confirmed by Arabic text and word-by-word reference. The reflection's emphasis on this word is interpretively defensible and not overstated as documented fact.
+
+- [PASS] Arabic text in the reflection matches the authenticated Arabic exactly.
+
+SUMMARY: No critical or moderate errors found; two minor details (headcount of twelve, Syria origin) are standard hadith tradition but unverifiable from the four provided tafsir excerpts — supply full Qurtubi passage before marking validated.

@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/037-as-saffat/ayahs-038-039.md
+Ayah: 37:38
+Date: 2026-06-05T23:38:30
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّكُمْ=Indeed, you | لَذَآئِقُواْ=(will) surely taste | ٱلْعَذَابِ=the punishment | ٱلْأَلِيمِ=painful,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR] Arabic in frontmatter and body uses `لَذَآئِقُو` — the Uthmani Quranic orthography adds a silent alef after the jama' waw: `لَذَآئِقُوا۟`. This is a display/typography issue, not a meaning error. Notably, al-Qurṭubī's own prose discussion uses the shorter form, so this is not a scholarly mistake — but a Quranic citation field should carry the full rasm.
+
+- [UNVERIFIABLE from provided data, not flagged as error] The reflection's interpretive claim that dhawq is chosen because it is "the most intimate, most personal, most undeniable of all the senses" is presented as authorial insight, not as a documented tafsir position. The provided sources do not comment on why this verb was chosen over others. This is a legitimate interpretive observation, but should not be stated as if classically documented. In the portion provided (through Element One), the author does frame it as a question to explore — so no flag warranted yet. Watch Element Two to ensure this doesn't harden into an asserted fact.
+
+- [ACCURATE, CONFIRMED] "The great commentator al-Jalālayn pauses right here and notes one word: *Innakum — fīhi iltifāt*" — confirmed verbatim: `«إنكم» فيه التفات`. Attribution, label, and application are all correct.
+
+- [ACCURATE] Word-by-word translations match the reference data exactly.
+
+- [ACCURATE] Contextual framing (oath of ranged angels, the gathered deniers, the mutual blame scene) aligns with As-Saffat's opening movement.
+
+- [NOTE] Reflection is cut at Element Two. Full verdict covers only the portion submitted. If Element Two makes claims about dhawq being unique to punishment language in the Qur'an, or attributes specific positions on taste-as-sensation to named scholars, those will need a second pass against extended tafsir data.
+
+SUMMARY: The portion provided is sound — the iltifāt attribution is precise and confirmed, morphology is handled correctly, and no claim is overstated beyond what the sources permit; the only flag is a minor Uthmanic orthography omission in the Arabic display field.

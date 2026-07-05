@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/054-al-qamar/ayah-018.md
+Ayah: 54:18
+Date: 2026-06-10T01:05:05
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: كَذَّبَتْ=Denied | عَادٌ=Aad; | فَكَيْفَ=so how | كَانَ=was | عَذَابِى=My punishment | وَنُذُرِ=and My warnings?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "Al-Jalalayn supplies: they denied *their prophet Hud*" — confirmed verbatim: «كذبت عاد» نبيهم هودا (Al-Jalalayn). Accurate citation.
+- [PASS] "Tafsir al-Muyassar says the same: *kadhdhabat ʿĀdun Hūdan*" — confirmed: كذبت عاد هودًا (Al-Muyassar). Accurate citation.
+- [PASS] "in every muṣḥaf, in all six places this refrain appears in this surah, the last word is missing a letter" — confirmed by Al-Qurtubi verbatim: وقعت "نذر" في هذه السورة في ستة أماكن محذوفة الياء في جميع المصاحف. The claim is exact.
+- [PASS] Form II intensification analysis of كَذَّبَ (doubled middle consonant = declaring-false rather than simple lying) — standard Arabic morphology, well-grounded.
+- [PASS] فَ as immediate connective vs. ثُمَّ — standard Arabic grammar, no overclaim.
+- [PASS] "What this invites us to consider — and I flag this as a reflection the ellipsis opens, not a rule the grammar dictates" — the interpretive extension is explicitly self-qualified. Not a fact claim; not flaggable as MODERATE.
+- [PASS] Arabic in frontmatter (عَادٞ vs. authentic عَادٌۭ, عَذَابِي vs. عَذَابِى) — encoding/font rendering differences only, not substantive text errors.
+- [UNVERIFIABLE FROM PROVIDED DATA] 54:9 "they denied Our servant" and 54:23 "Thamud denied the warnings" — cited for structural comparison. Both are accurate per the Quranic text but fall outside the reference data supplied; I cannot verify from what was provided. No red flag — these are standard Quranic cross-references that align with the text.
+
+SUMMARY: Every verifiable factual claim is either confirmed by the supplied tafsir sources or correctly flagged as interpretation; no critical or moderate errors found.

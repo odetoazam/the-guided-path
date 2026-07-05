@@ -1,0 +1,42 @@
+Enhanced Validation Report
+File: content/tadabbur/053-an-najm/ayah-027.md
+Ayah: 53:27
+Date: 2026-06-09T20:02:35
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّ=Indeed, | ٱلَّذِينَ=those who | لَا=(do) not | يُؤْمِنُونَ=believe | بِٱلْأَخِرَةِ=in the Hereafter, | لَيُسَمُّونَ=surely they name | ٱلْمَلَـٰٓئِكَةَ=the Angels | تَسْمِيَةَ=name(s) | ٱلْأُنثَىٰ=(of) female,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No errors found in the reviewed portion.
+
+Specific checks performed:
+
+**Arabic text**: Matches the authentic Arabic exactly.
+
+**Morphology**: Form IV `yuʾminūna` (آمَنَ, Form IV أَفْعَلَ) and Form II `yusammūna`/`tasmiyah` (سَمَّى, Form II فَعَّلَ, masdar تَفْعِلَة) are both correctly identified. Root س-م-و assignment for `tasmiyah` is standard per Lisān al-ʿArab.
+
+**Maf'ūl muṭlaq analysis**: Accurate. `لَيُسَمُّونَ ... تَسْمِيَةَ` is a textbook cognate accusative; the three-layer emphasis reading (`إِنَّ` + emphatic `لَ` + cognate accusative) is grammatically sound and appropriately presented as interpretive observation, not fabricated fact.
+
+**Al-Muyassar paraphrase**: "they have no sound knowledge that confirms what they said — they follow nothing but conjecture" is a faithful rendering of `وَمَا لَهُم بِذَٰلِكَ مِنْ عِلْمٍ صَحِيحٍ يُصَدِّقُ مَا قَالُوهُ، مَا يَتَّبِعُونَ إِلَّا الظَّنَّ`. Attribution is not inverted.
+
+**Tafsir consensus claim**: The characterization that al-Jalālayn, al-Muyassar, al-Qurtubī, and al-Baghawī "converge with one voice" on the Hereafter-denial framing is supported by all four provided sources, which uniformly anchor the false naming in the absence of sound knowledge/accountability.
+
+**Quraysh admitting Allah as Creator**: Attributed to Surah Luqmān and az-Zukhruf — both are correct Quranic loci (31:25, 43:9).
+
+**Angels as "daughters of Allah"**: Al-Jalālayn (`قَالُوا: هُمْ بَنَاتُ اللهِ`) and al-Qurtubī (`الملائكة بنات الله`) confirm this exactly as stated.
+
+SUMMARY: The linguistic analysis, tafsir attributions, and theological framing in the reviewed portion are all accurate and grounded in the reference data provided.

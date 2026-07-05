@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/060-al-mumtahanah/ayah-006.md
+Ayah: 60:6
+Date: 2026-06-13T00:15:31
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: لَقَدْ=Certainly, | كَانَ=(there) is | لَكُمْ=for you | فِيهِمْ=in them | أُسْوَةٌ=an example | حَسَنَةٌ=good | لِّمَن=for (he) who | كَانَ يَرْجُواْ=is hopeful | ٱللَّهَ=(in) Allah | وَٱلْيَوْمَ=and the Day | ٱلْأَخِرَ‌ۚ=the Last. | وَمَن=And whoever | يَتَوَلَّ=turns away, | فَإِنَّ=then indeed, | ٱللَّهَ=Allah, | هُوَ=He, | ٱلْغَنِىُّ=(is) Free of need, | ٱلْحَمِيدُ=the Praiseworthy.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE] "Al-Qurtubi records the question openly. Some said: it is repeated *kurrira lil-taʾkīd.* Others said: the second was revealed *after a span of time* following the first." — The Qurtubi excerpt provided covers only 60:6; it discusses the referent of *fīhim* (Ibrahim and the prophets/saints) and the meaning of *uswah ḥasanah* as disassociation from disbelievers, but contains no discussion of the repetition between 60:4 and 60:6. The attribution is plausible (that discussion would naturally appear in the 60:4 entry, which was not provided), and the Arabic terminology *kurrira lil-taʾkīd* is standard, but it cannot be confirmed from the reference data supplied. Not flagging as MODERATE because there is no counter-evidence — only absence of confirmation.
+
+All other claims check out against the provided sources:
+
+- Root **أ-س-و** for *uswah*, with the muwāsāh/consolation semantic field: attested in classical lexicons and consistent with the reflection's framing.
+- **Badal ishtimāl** of *lakum* → *li-man kāna yarjū*: confirmed verbatim in al-Jalālayn ("بدل اشتمال من كم بإعادة الجار") and al-Baghawī ("هذا بدل من قوله لكم").
+- *Fīhim* = Ibrahim and those with him: confirmed by Muyassar, Baghawī, and Qurtubī.
+- Verb form V (*yatawallā*, root و-ل-ي): correct.
+- Indefinite *uswatun* (no definite article): accurate Arabic observation.
+- *Lakum* as a broad address that is then narrowed: supported by the badal structure identified in Jalālayn and Baghawī.
+
+SUMMARY: The reflection is grammatically sound, lexically accurate, and its central grammatical argument (badal ishtimāl narrowing *lakum* to *li-man kāna yarjū*) is directly confirmed by two classical sources; one scholar attribution cannot be verified from the supplied excerpt but is not contradicted by it.

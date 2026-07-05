@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/052-at-tur/ayahs-001-006.md
+Ayah: 52:1
+Date: 2026-06-09T14:20:05
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَٱلطُّورِ=By the Mount,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [INFO] "Jubayr ibn Muṭʿim — at the time still a polytheist — came to Madinah after the Battle of Badr to negotiate the release of prisoners… 'It was as if my heart was about to fly.' (Reported in al-Bukhārī.)" — The core of this hadith is partially within scope: the provided Qurṭubī excerpt directly references «روى الأئمة عن جبير بن مطعم قال: سمعت رسول الله ﷺ يقرأ بالطور في المغرب. متفق عليه». The additional details (Badr prisoner context, polytheist status at the time, the specific verse 52:35 quotation, the exact "heart about to fly" wording) are from the broader Bukhārī transmission (no. 3050/765) which is outside the provided reference slice. These details are consistent with that well-established ḥadīth and do not contradict anything in the provided data, but they cannot be positively confirmed from the material supplied.
+
+- [INFO] Translation of البَحْرِ الْمَسْجُورِ as "sea set brimming" — the reflection adopts the "full of water" reading, consistent with the Muyassar's gloss «المملوء بالمياه». The "kindled/set ablaze" reading (eschatological interpretation of *masjūr* from root s-j-r) is not engaged. This is a defensible choice, not an error, but the full range of classical opinion on *masjūr* is narrower than stated if the reflection intends to represent consensus.
+
+All core claims for verse 1 are clean:
+- الطور = Mount Sinai where Allah spoke to Mūsā: confirmed unanimously by Jalālayn, Baghawī, Qurṭubī, and Muyassar.
+- Root Ṭ-w-r: confirmed by provided data and frontmatter note.
+- wāw al-qasam analysis (genitive case marker, oath construction): standard Arabic grammar, correctly stated.
+- Attribution of scholar positions: no inversions; all four sources quoted accurately against the provided text.
+
+SUMMARY: The reflection is linguistically accurate and tafsīr-grounded for verse 1; the two flagged items are scope-of-data notes rather than errors, and neither constitutes a factual misrepresentation.

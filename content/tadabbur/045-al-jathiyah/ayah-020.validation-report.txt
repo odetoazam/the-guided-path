@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/045-al-jathiyah/ayah-020.md
+Ayah: 45:20
+Date: 2026-06-08T03:17:57
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: هَـٰذَا=This | بَصَـٰٓئِرُ=(is) enlightenment | لِلنَّاسِ=for mankind | وَهُدًى=and guidance | وَرَحْمَةٌ=and mercy | لِّقَوْمٍ=for a people | يُوقِنُونَ=who are certain.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [ADVISORY — not flaggable yet] The reflection announces it will analyze *yūqinūn* and "the tense it is written in, which changes everything," but the text cuts off before that section appears. Al-Jalālayn specifies the object of *yūqinūn* as **bi-l-baʿth** (certainty about the Resurrection specifically), while al-Muyassar specifies certainty about the Quran's authenticity as divine revelation. If the continuation treats *yaqīn* purely as a phenomenological/psychological quality without acknowledging any classical object-specification, that would cross into MODERATE territory. Flag for review when the full text is available.
+
+- [PASS] "al-Jalālayn, al-Baghawī, al-Qurṭubī gloss *baṣāʾir* as *maʿālim*, 'in the limits and the rulings'" — verified directly: all three use the phrase *maʿālim fī-l-ḥudūd wa-l-aḥkām* or equivalent. Citation is accurate.
+
+- [PASS] "Al-Muyassar: the Quran is that by which people see truth distinguished from falsehood, and come to know the road of right guidance" — exact paraphrase of *بصائر يبصر به الناس الحق من الباطل، ويعرفون به سبيل الرشاد*. Accurate.
+
+- [PASS] Root analysis (b-ṣ-r), *baṣar* = physical sight, *baṣīrah* = inner sight/heart's perception, *baṣāʾir* = broken plural of *baṣīrah* — standard, well-attested lexical distinction. Lisān al-ʿArab and Mufradāt al-Rāghib citations are appropriate for this claim.
+
+- [PASS] The structural asymmetry (*baṣāʾir li-n-nās* = universal; *hudā wa raḥmah li-qawmin yūqinūn* = particular) — correctly read from the grammar and confirmed by all four tafsir sources, which uniformly preserve that two-address structure.
+
+- [PASS] Surah context (Makkan, named for the kneeling of nations, 45:16–18 narrative framing of the Children of Israel) — accurate and consistent with the surah's content.
+
+SUMMARY: The first 8000 characters are linguistically and tafsir-citation accurate; the one live risk is in the *yūqinūn* analysis not yet shown — validate that section against al-Jalālayn's *bi-l-baʿth* specification before publishing.

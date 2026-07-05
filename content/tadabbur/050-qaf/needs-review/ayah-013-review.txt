@@ -1,0 +1,9 @@
+VERDICT: CRITICAL
+
+ISSUES:
+
+1. **CRITICAL — miscount of the nations listed (seven vs. eight).** The text states *"Seven communities. Seven dismissals. One verdict."* and the frontmatter `passage_context` says *"Three of the seven communities are compressed into this single ayah."* But 50:12–14 names **eight** communities: (1) قوم نوح, (2) أصحاب الرس, (3) ثمود, (4) عاد, (5) فرعون, (6) إخوان لوط, (7) أصحاب الأيكة, (8) قوم تبع. This is a verifiable factual error about the Quranic text itself, stated prominently and in the frontmatter. It also creates an internal contradiction: the later section correctly lists **seven collectives** and treats **Pharaoh as the eighth/exceptional** entry ("every one is a multitude… except one"), which only works if the total is eight. The "Seven communities. Seven dismissals" flourish must be corrected to eight (or rephrased), and `passage_context` fixed.
+
+2. **MODERATE — lexical claim stated as fact.** *"The plural form **ikhwān** is specifically the warm plural: it's used not for organizational membership but for affective closeness."* The إخوة/إخوان distinction is genuine but not this clean — إخوان is also used generically for brothers, and the Quran uses إخوة affectively for believers (49:10 *إنما المؤمنون إخوة*). The intimacy reading is a defensible tadabbur reflection (and is elsewhere appropriately hedged with "invites us to consider"), but the bolded sentence presents an interpretive nuance as settled lexical fact. Soften to interpretive framing.
+
+Note (not flagged): root أخ → أ-خ-و and 79:24 (*أنا ربكم الأعلى*) attribution are correct; al-Muyassar/al-Jalalayn confirm the bare referent (قوم لوط), and the qawm-vs-ikhwān contrast at 7:80 / 27:54 / 29:28 is accurate.

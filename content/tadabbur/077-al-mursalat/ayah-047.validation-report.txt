@@ -1,0 +1,28 @@
+Enhanced Validation Report
+File: content/tadabbur/077-al-mursalat/ayah-047.md
+Ayah: 77:47
+Date: 2026-06-18T11:48:01
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَيْلٌ=Woe | يَوْمَئِذٍ=that Day | لِّلْمُكَذِّبِينَ=to the deniers.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Some narrations in classical commentary describe the Companions pausing at this refrain when it was recited in congregation — responding aloud, 'We are not among those who deny.'" — A response to this refrain is attested (narrated in Abu Dawud and others, citing the Prophet ﷺ instructing recitors to respond "آمنا بالله"), but the specific wording "We are not among those who deny" (لسنا من المكذبين or equivalent) does not match the commonly transmitted version. The provided tafsir sources (Qurtubi, Baghawi, Jalalayn, Muyassar) contain no mention of this congregational response. The claim is presented as a narration with a specific quoted response — that specificity cannot be verified from the provided data and diverges from the better-attested version.
+
+- [MODERATE] "Classical Arabic rhetoricians in the tradition of balāghah noted that this phonetic pressure in the word's center mirrors what it describes: a person who encounters truth and presses back against it, repeatedly, with force." — Stated as a documented observation by classical rhetoricians, but no classical source is named and this goes beyond what any provided reference supports. The morphological description of Form II (doubling the middle radical) is accurate; the claim that classical balāghah scholars specifically linked the tashdīd's phonetics to that semantic image is an interpretive extension presented as recorded scholarship.
+
+SUMMARY: No critical errors — Arabic text, translation, and Form II morphological analysis (كَذَبَ → كَذَّبَ, redirected denial) are all accurate and well-grounded; two moderate issues arise from claims stated as documented fact (a specific Companion wording, a specific classical rhetorician observation) that exceed what the provided reference data can verify.

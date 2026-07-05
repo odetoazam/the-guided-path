@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/045-al-jathiyah/ayah-028.md
+Ayah: 45:28
+Date: 2026-06-08T01:35:53
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَتَرَىٰ=And you will see | كُلَّ=every | أُمَّةٍ=nation | جَاثِيَةً‌ۚ=kneeling. | كُلُّ=Every | أُمَّةٍ=nation | تُدْعَىٰٓ=will be called | إِلَىٰ=to | كِتَـٰبِهَا=its record, | ٱلْيَوْمَ=`Today | تُجْزَوْنَ=you will be recompensed | مَا=(for) what | كُنتُمْ=you used (to) | تَعْمَلُونَ=do.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [UNVERIFIABLE] "And Ibn ʿAbbās gave another reading: mujtamiʿah — gathered together, crowded in" — The Qurtubi excerpt in the reference data is truncated after the second entry ("الضحاك : ذل..."), so the Ibn ʿAbbās attribution for *mujtamiʿah* cannot be confirmed from the supplied data. This may be accurate — Qurtubi does enumerate five readings — but the source clip does not reach it. Not flagged as an error, but the validator cannot sign off on the specific attribution.
+
+All other verifiable claims check out:
+
+- Al-Baghawi: "جلسة المخاصم بين يدي الحاكم ينتظر القضاء" is quoted accurately in substance ("sitting of the disputant before the judge awaiting the verdict").
+- Al-Qurtubi: five readings are confirmed; Mujāhid = *mustawfizah* confirmed; Sufyān's gloss ("the one of whom nothing touches the ground except his knees and the tips of his fingers") matches the Arabic exactly.
+- Morphology: *jāthiyah* as ism fāʿil of root j-th-w is correct; the "frozen state" / non-past-tense reading of the active participle is sound classical Arabic grammar.
+- The *iltifāt* (address shift from third-person description to second-person direct address at *tujzawna*) is confirmed by the word-by-word data and is a recognized rhetorical device.
+- Arabic text in the reflection matches the authentic text.
+- 45:23 (desire taken as god) is correctly referenced as the preceding argument context.
+
+SUMMARY: The reflection is linguistically and tafsir-grounded throughout; the one Ibn ʿAbbās attribution exceeds what the truncated Qurtubi excerpt can confirm, but no factual inversion or error is present in the verifiable material.

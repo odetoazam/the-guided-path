@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/068-al-qalam/ayahs-032-033.md
+Ayah: 68:32
+Date: 2026-06-13T15:21:21
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: عَسَىٰ=Perhaps, | رَبُّنَآ=our Lord, | أَن=[that] | يُبْدِلَنَا=will substitute for us | خَيْرًا=a better | مِّنْهَآ=than it. | إِنَّآ=Indeed, we | إِلَىٰ=to | رَبِّنَا=our Lord | رَٲغِبُونَ=turn devoutly.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "That phrase — *wa lā yastathnūn* — the scholars read in two layers at once. They made no exception for the poor in their plan. And they spoke their oath about the future without saying in shā' Allāh" — this dual-layer interpretation is classically attested across tafsir tradition, but the provided reference data covers 68:32 only. It cannot be verified or refuted from the supplied sources. The claim is accurate but presented as a straightforward scholarly consensus when it is an interpretive synthesis. Flag for sourcing, not for error.
+
+- [MODERATE] "the heavy *lām* of swearing at the front" — technically imprecise. The "heavy" (thaqīla) descriptor in Arabic grammar belongs to the *nūn al-tawkīd al-thaqīla* at the end of لَيَصْرِمُنَّهَا, not the lām. The lām here is the *lām al-tawkīd* (lām of emphasis). The functional point about emphatic oath structure is correct, but the grammar label is misapplied. Minor; not a substantive error.
+
+No CRITICAL issues found. The core linguistic claims are sound:
+- ʿasā classified as *af'āl al-muqāraba*: correct
+- يُبْدِلَنَا treated as Form IV transitive: consistent with the unvoweled (takhfīf) reading confirmed by Jalalayn ("بالتشديد والتخفيف")
+- rāghibūn rendered as "longing/turning toward": lexically accurate for رغب إلى
+- Narrative sequence (denial of the garden, the most upright one speaking, their confession): all confirmed in al-Muyassar
+
+SUMMARY: No critical errors; the reflection is linguistically precise and narratively faithful to the tafsir record, with two minor notes — one about a claim outside the supplied reference data, one about a misattributed grammatical label.

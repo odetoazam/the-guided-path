@@ -1,0 +1,37 @@
+Enhanced Validation Report
+File: content/tadabbur/035-fatir/ayah-022.md
+Ayah: 35:22
+Date: 2026-05-18T05:32:08
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَمَا=And not | يَسْتَوِى=equal | ٱلْأَحْيَآءُ=(are) the living | وَلَا=and not | ٱلْأَمْوَٲتُۚ=the dead. | إِنَّ=Indeed, | ٱللَّهَ=Allah | يُسْمِعُ=causes to hear | مَن=whom | يَشَآءُۖ=He wills, | وَمَآ=and not | أَنتَ=you | بِمُسْمِعٍ=can make hear | مَّن=(those) who | فِى=(are) in | ٱلْقُبُورِ=the graves.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "two surahs earlier Allah will say to him: *fa-laʿallaka bākhiʿun nafsaka* — 'are you going to destroy yourself, grieving after them?' (18:6)" — Surah 18 (Al-Kahf) is not two surahs before Surah 35 (Fāṭir); they are seventeen surahs apart in the Muṣḥaf. No known canonical ordering places them two apart. The citation itself (18:6) is correct and the quotation is accurately rendered, but the positional claim "two surahs earlier" is a factual error in the contextual framing.
+
+**All other checked claims PASS:**
+
+- **Arabic text** matches the authentic reference (differences are Unicode diacritic rendering variants only, not textual errors).
+- **yastawī as Form VIII** is morphologically correct: root s-w-y, Form VIII pattern yaf-ta-ʿi-lu inserts tāʾ after the first root consonant → ya-s-ta-wī ✓. Frontmatter note "Form VIII (yastawī) confirmed via Leeds corpus" is accurate.
+- **Reflexive/middle characterization of Form VIII** is standard pedagogical Arabic grammar and not overclaimed.
+- **Four-contrast series (35:19–22)** accurately identified; confirmed by al-Muyassar which lists exactly these four pairs in sequence.
+- **"Living and dead" = believers and disbelievers** is directly supported by all four tafsir sources: Jalālayn ("al-muʾminūn wa-lā al-kuffār"), Baghawī ("al-muʾminīn wa-l-kuffār"), Qurṭubī (Ibn Qutayba: "al-ʿuqalāʾ wa-l-juhhal"), Muyassar ("aḥyāʾ al-qulūb bi-l-īmān, amwāt al-qulūb bi-l-kufr").
+- **من في القبور = disbelievers** confirmed by Jalālayn, Baghawī, and Qurṭubī unanimously.
+- **Doubled negation (mā… wa-lā) as emphasis** is confirmed directly by Jalālayn: وَزِيَادَةُ لَا فِي الثَّلَاثَةِ تَأْكِيدٌ — "the addition of lā in all three is for emphasis." ✓
+- **26:3 transliteration** (*laʿallaka bākhiʿun nafsaka allā yakūnū muʾminīn*) is accurate.
+
+SUMMARY: One factual error in the contextual frame — "two surahs earlier" misstates the Muṣḥaf position of 18:6 relative to Surah 35; all linguistic morphology, tafsir interpretation, and Quranic cross-references are accurate and well-grounded.

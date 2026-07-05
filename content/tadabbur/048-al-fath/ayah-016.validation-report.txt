@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/048-al-fath/ayah-016.md
+Ayah: 48:16
+Date: 2026-06-08T15:50:42
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: قُل=Say | لِّلْمُخَلَّفِينَ=to those who remained behind | مِنَ=of | ٱلْأَعْرَابِ=the Bedouins, | سَتُدْعَوْنَ=`You will be called | إِلَىٰ=to | قَوْمٍ=a people, | أُوْلِى بَأْسٍ=possessors of military might | شَدِيدٍ=great; | تُقَـٰتِلُونَهُمْ=you will fight them, | أَوْ=or | يُسْلِمُونَ‌ۖ=they will submit. | فَإِن=Then if | تُطِيعُواْ=you obey, | يُؤْتِكُمُ ٱللَّهُ=Allah will give you | أَجْرًا=a reward | حَسَنًا‌ۖ=good; | وَإِن=but if | تَتَوَلَّوْاْ=you turn away | كَمَا=as | تَوَلَّيْتُم=you turned away | مِّن قَبْلُ=before, | يُعَذِّبْكُمْ=He will punish you | عَذَابًا=(with) a punishment | أَلِيمًا=painful.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+**VERDICT: PASS**
+
+**ISSUES:**
+- No genuine errors found across all checkable dimensions.
+
+Specific confirmations:
+- **Arabic text**: Matches the authentic text; diacritical differences (ۢ/ۭ tajweed marks on بَأْسٍ, حَسَنًا, أَلِيمًا) are rendering variants only, not text corruption.
+- **Translation**: Accurately reflects the word-by-word reference (مُخَلَّفِينَ = "those who were left behind," أُوْلِى بَأْسٍ شَدِيدٍ = "possessors of great might," etc.).
+- **Morphological claim** — *mukhallafīn* as passive participle of Form II *khallafa* (doubled-middle-letter causative-transitive): correct. The contrast drawn between active *mukhallifīn* vs. passive *mukhallafīn* is lexically sound and consistent with Mufradāt al-Rāghib (cited in frontmatter note).
+- **Form II "deliberate" descriptor**: Pedagogically supportable — *khallafa* in classical usage implies intentional causation, and the Rāghib reference licenses it. Not an overreach.
+- **Historical context** (6 AH, ʿUmrah intent, ~1400 companions, Bedouin excuse narrative): consistent with established sīrah and with Jalalayn/Qurtubi framing of the mukhallafīn as those who stayed home from Hudaybiyyah.
+- **Ayah cross-references** (48:11 excuse quote, 48:12 suspicion of non-return, 48:15 profit-motivated request): all accurately characterised against standard tafsir.
+- **"The Quran itself calls [it] al-Fath"**: Standard shorthand — surah name + 48:1's *fatḥan mubīnā* applied to Hudaybiyyah is the consensus classical position; not an overstatement.
+- **"Unarmed" framing**: Presented explicitly from the fearful Bedouin *perspective* ("this looks, to a certain kind of calculating mind, like a march toward death"), not as an objective historical claim — no flag warranted.
+
+**SUMMARY:** The reflection is morphologically precise, historically grounded, and all interpretive moves are clearly marked as such rather than asserted as documented fact.

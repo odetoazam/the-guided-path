@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/047-muhammad/ayah-012.md
+Ayah: 47:12
+Date: 2026-06-08T11:43:24
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّ=Indeed, | ٱللَّهَ=Allah | يُدْخِلُ=will admit | ٱلَّذِينَ=those who | ءَامَنُواْ=believe | وَعَمِلُواْ=and do | ٱلصَّـٰلِحَـٰتِ=righteous deeds | جَنَّـٰتٍ=(to) gardens, | تَجْرِى=flow | مِن=from | تَحْتِهَا=underneath it | ٱلْأَنْهَـٰرُ‌ۖ=the rivers, | وَٱلَّذِينَ=but those who | كَفَرُواْ=disbelieve | يَتَمَتَّعُونَ=they enjoy | وَيَأْكُلُونَ=and eat | كَمَا=as | تَأْكُلُ=eat | ٱلْأَنْعَـٰمُ=the cattle, | وَٱلنَّارُ=and the Fire | مَثْوًى=(will be) an abode | لَّهُمْ=for them.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "the One who said, three verses earlier, that He is their *mawlā*" — The mawlā verse is 47:11, immediately preceding 47:12 (one verse prior, not three). The reflection's own passage context section correctly says "just before our verse," making this an internal inconsistency compounding the miscounting error. A reader fact-checking the reference will land on the wrong verse range.
+
+- [PASS] "The verb is **yudkhilu**, from the root *d-kh-l*… it is in the **fourth form**, *yudkhilu*, which takes the action and makes it transitive" — Morphologically accurate. يُدْخِلُ is the imperfect of Form IV (أَدْخَلَ, afʿala pattern), correctly distinguished from the Form I intransitive يَدْخُلُ. The causative gloss "He admits / He brings them in" matches the word-by-word reference and all four tafsir sources.
+
+- [PASS] "They enjoy. They eat. Allah has stepped out of the verb." — The grammatical observation is sound. The tafsir sources confirm this reading: Jalalayn isolates the cattle comparison as reflecting that their only concern is "their stomachs and private parts" with no regard for the hereafter; Baghawi's tripartite saying ("the believer provisions himself, the hypocrite adorns himself, the disbeliever enjoys himself") maps directly onto the grammar shift the reflection describes.
+
+- [PASS] "The early commentators also called it *Sūrat al-Qitāl*" — Historically attested dual name, not a fabrication.
+
+- [PASS] Arabic text in the frontmatter matches the authentic Arabic provided.
+
+- [CANNOT VERIFY] The reflection's body is cut off before it completes its linguistic and thematic analysis. The cattle-image section and any scholar attributions in the remaining text cannot be validated from the excerpt provided.
+
+SUMMARY: One verifiable factual error — the mawlā verse is miscounted as three verses prior when it is 47:11 (one verse prior) — but the morphological analysis, grammatical argument, and tafsir-grounded interpretation are all accurate.

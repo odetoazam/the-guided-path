@@ -1,0 +1,39 @@
+Enhanced Validation Report
+File: content/tadabbur/033-al-ahzab/ayah-013.md
+Ayah: 33:13
+Date: 2026-05-15T04:15:22
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَإِذْ=And when | قَالَت=said | طَّآئِفَةٌ=a party | مِّنْهُمْ=of them, | يَـٰٓأَهْلَ=`O People | يَثْرِبَ=(of) Yathrib! | لَا=No | مُقَامَ=stand | لَكُمْ=for you, | فَٱرْجِعُواْ‌ۚ=so return.` | وَيَسْتَــْٔذِنُ=And asked permission | فَرِيقٌ=a group | مِّنْهُمُ=of them | ٱلنَّبِىَّ=(from) the Prophet, | يَقُولُونَ=saying, | إِنَّ=`Indeed, | بُيُوتَنَا=our houses | عَوْرَةٌ=(are) exposed,` | وَمَا=and not | هِىَ=they | بِعَوْرَةٍ‌ۖ=(were) exposed. | إِن=Not | يُرِيدُونَ=they wished | إِلَّا=but | فِرَارًا=to flee.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Allah responds to the entire construction with three Arabic words: إِن يُرِيدُونَ إِلَّا فِرَارًا" — The phrase contains **four** Arabic words: إِن / يُرِيدُونَ / إِلَّا / فِرَارًا. This is a countable factual error, not a stylistic choice. The rhetorical point the author intends — that فِرَارًا is the single noun that names the concealed motive — is valid and well-grounded, but the "three words" framing is wrong and will fail any reader who counts.
+
+---
+
+**Everything else I can verify checks out:**
+
+- "Al-Jalālayn identifies it and defines it: the land on which the city sat" — matches: *«هي أرض المدينة»* ✓
+- "Al-Muyassar calls it 'the old name of Madinah'" — matches: *«وهو الاسم القديم للمدينة»* ✓
+- "Al-Baghawi records that the Prophet ﷺ disliked this name and preferred *Ṭābah*" — matches: *«نهى أن تسمى المدينة يثرب، وقال: هي طابة، كأنه كره هذه ا...»* ✓
+- "Al-Qurtubi names the speaker: Aws ibn Qayẓī and his companions" — matches: *«وعني به هنا أوس بن قيظي والد عرابة بن أوس»* ✓
+- Qirāʾāt note on maqām/muqām (two readings) — matches al-Jalālayn: *«بضم الميم وفتحها»* ✓
+- Divine refutation of the house-exposure claim as a pretext for flight — affirmed across all four sources ✓
+
+**Fix required:** Change "three Arabic words" to "four Arabic words" (إِن يُرِيدُونَ إِلَّا فِرَارًا). The literary point about فِرَارًا being the single revelatory noun can be preserved — just correct the count.
+
+SUMMARY: The reflection is accurate and well-sourced throughout, with one verifiable factual error: a four-word phrase is described as three words.

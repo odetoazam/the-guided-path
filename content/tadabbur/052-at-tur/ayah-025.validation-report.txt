@@ -1,0 +1,37 @@
+Enhanced Validation Report
+File: content/tadabbur/052-at-tur/ayah-025.md
+Ayah: 52:25
+Date: 2026-06-09T16:48:56
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَأَقْبَلَ=And will approach | بَعْضُهُمْ=some of them | عَلَىٰ=to | بَعْضٍ=others | يَتَسَآءَلُونَ=inquiring.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "wholly, with their full and undivided presence" as the gloss for *aqbala ʿalā* — this is a reasonable lexical extension (Lisān al-ʿArab supports *aqbala ʿalā* as devoted engagement), but none of the four tafsir sources provided explicitly gloss the phrase this way. Jalalayn, Baghawi, and Qurtubi describe it as mutual questioning/remembrance; the "undivided presence" framing is the author's derivation, not a documented tafsir position. Should be flagged as a linguistic inference, not a reported meaning — it reads as documented fact.
+- [MINOR OBSERVATION] The reflection calls it "five words" — the Arabic token count is أَقْبَلَ / بَعْضُهُمْ / عَلَىٰ / بَعْضٍ / يَتَسَآءَلُونَ. That is five. Correct.
+
+VERIFIED ACCURATE:
+- Arabic text matches authentic source (minor orthographic ۢ on بَعْضٍ is a recitation mark, not a content error)
+- أَقْبَلَ as Form IV (أَفْعَلَ pattern from ق-ب-ل) — correct
+- يَتَسَآءَلُونَ as Form VI (تَفَاعَلَ, reciprocal) — correct
+- Root derivatives: *qabila*, *qabūl*, *qiblah*, *mustaqbal* — all attested from ق-ب-ل
+- Verse 17 as the Paradise pivot ("إِنَّ الْمُتَّقِينَ") — correct
+- Verses 26–28 containing the content of their conversation (fear → gratitude) — confirmed by Muyassar: "إنا كنا قبل في الدنيا خائفين ربنا"
+- At-Tur as Makkan — correct
+- Ibn Abbas attribution (via Baghawi): remembering worldly toil and fear — the reflection uses this framing without misattributing it
+
+SUMMARY: One moderate interpretive extension — the "undivided presence" gloss on *aqbala ʿalā* is lexically defensible but is presented as a documented meaning rather than a reasoned inference; all morphological, structural, and tafsir-grounded claims are accurate.

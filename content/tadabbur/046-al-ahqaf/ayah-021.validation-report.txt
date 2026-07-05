@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/046-al-ahqaf/ayah-021.md
+Ayah: 46:21
+Date: 2026-06-08T07:01:11
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ۞ وَٱذْكُرْ=And mention | أَخَا=(the) brother | عَادٍ=(of) Aad, | إِذْ=when | أَنذَرَ=he warned | قَوْمَهُۥ=his people | بِٱلْأَحْقَافِ=in the Al-Ahqaf - | وَقَدْ خَلَتِ=and had already passed away | ٱلنُّذُرُ=[the] warners | مِنۢ بَيْنِ يَدَيْهِ=before him | وَمِنْ خَلْفِهِۦٓ=and after him, | أَلَّا=`That not | تَعْبُدُوٓاْ=you worship | إِلَّا=except | ٱللَّهَ=Allah. | إِنِّىٓ=Indeed, I | أَخَافُ=[I] fear | عَلَيْكُمْ=for you | عَذَابَ=a punishment | يَوْمٍ=(of) a Day | عَظِيمٍ=Great.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR/UNVERIFIABLE] "Al-Baghawi says the same" (re: *fī al-nasab lā fī al-dīn*) — the provided Baghawi excerpt is cut off before reaching this phrase; the claim is almost certainly correct (it is the unanimous classical position), but it cannot be confirmed from the supplied reference data alone. Not a genuine error — a documentation gap.
+
+All other attributions and claims check out against the supplied sources:
+
+- "al-Qurtubi writes that Hud was their brother *fī al-nasab lā fī al-dīn*" — exact match: Qurtubi *"كان أخاهم في النسب لا في الدين."* ✓
+- "Al-Muyassar renders it plainly: *akhā ʿĀdin fī al-nasab lā fī al-dīn*" — exact match: Muyassar *"أخا عاد في النَّسب لا في الدين."* ✓
+- "al-Jalalayn names him, al-Baghawi names him, al-Qurtubi names him" — all three opening lines identify Hud by name. ✓
+- The grammar claim on *al-asmāʾ al-khamsa* (the five nouns) and the accusative form *akhā* is textbook Arabic morphology; the word-by-word data confirms *أَخَا* as the object of *وَٱذْكُرْ*. ✓
+- Translation of *وَقَدْ خَلَتِ ٱلنُّذُرُ مِنۢ بَيْنِ يَدَيْهِ وَمِنْ خَلْفِهِ* as "warners had already passed away before him and after him" aligns with the word-by-word and Jalalayn's gloss *"من قبل هود ومن بعده إلى أقوامهم."* ✓
+- The Aad quotation ("Who is mightier than us in power?") is correctly flagged as coming from *elsewhere* in the Quran (41:15), not attributed to this ayah. ✓
+- All theological/reflective extensions (warning as love, insider vs. outsider dynamic) are presented as authorial reflection, not stated as documented scholarly positions. No overstating of sources. ✓
+
+SUMMARY: The reflection is linguistically precise, scholar attributions are accurate against the provided data, and interpretive claims are appropriately framed as reflection rather than documented fact — one minor attribution (Baghawi) cannot be confirmed from the truncated excerpt but is not contradicted.

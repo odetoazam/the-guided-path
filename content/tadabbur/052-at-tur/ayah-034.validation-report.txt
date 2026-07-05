@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/052-at-tur/ayah-034.md
+Ayah: 52:34
+Date: 2026-06-09T14:37:58
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَلْيَأْتُواْ=Then let them bring | بِحَدِيثٍ=a statement | مِّثْلِهِۦٓ=like it, | إِن=if | كَانُواْ=they | صَـٰدِقِينَ=(are) truthful.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE — OUTSIDE REFERENCE DATA SCOPE] "They hung their finest poems on the walls of the Kaʿbah" — The Muʿallaqāt tradition is widely repeated in Islamic studies contexts but is historically debated; modern philologists (e.g., Alan Jones) note that *muʿallaqa* may mean "the precious ones" rather than "the hung ones," and no classical Arabic source contemporaneous with the practice definitively records physical hanging at the Kaaba. The claim is not falsified by the provided reference data, but it is not verifiable from it either. Presented here as cultural atmosphere rather than a Quranic claim, so this does not affect the core scholarly verdict — flag only if the piece is ever cited in an academic context.
+
+All core claims check out against the provided data:
+- **Root ʾ-t-y and the lām al-amr analysis** are grammatically accurate.
+- **The taḥaddī framing** is solidly grounded — Muyassar explicitly: *"فليأتوا بكلام مثل القرآن"*; Baghawi: *"مثل القرآن ونظمه وحسن بيانه."*
+- **The 52:33 paraphrase** ("he has invented it") matches the tafsir context in Muyassar and Jalalayn.
+- **The third-person command rhetoric** (sovereign distance, speaking *about* rather than *to* the deniers) is presented as interpretive analysis, not a documented scholar attribution — the framing is honest.
+- **The *iftirāʾ* gloss** ("fabrication, invention… stamped God's name on them") is lexically and contextually accurate.
+- Arabic text in the frontmatter matches the authentic Arabic exactly.
+
+SUMMARY: The reflection is linguistically grounded and tafsir-consistent through the portion provided; the only flagged item is a culturally contested historical detail about the Muʿallaqāt that lies outside the scope of the provided reference data and does not touch any Quranic claim.

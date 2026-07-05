@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/058-al-mujadila/ayah-007.md
+Ayah: 58:7
+Date: 2026-06-12T18:04:02
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَلَمْ=Do not | تَرَ=you see | أَنَّ=that | ٱللَّهَ=Allah | يَعْلَمُ=knows | مَا=whatever | فِى=(is) in | ٱلسَّمَـٰوَٲتِ=the heavens | وَمَا=and whatever | فِى=(is) in | ٱلْأَرْضِ‌ۖ=the earth? | مَا=Not | يَكُونُ=there is | مِن=any | نَّجْوَىٰ=secret counsel | ثَلَـٰثَةٍ=(of) three | إِلَّا=but | هُوَ=He (is) | رَابِعُهُمْ=(the) fourth of them, | وَلَا=and not | خَمْسَةٍ=five | إِلَّا=but | هُوَ=He (is) | سَادِسُهُمْ=(the) sixth of them, | وَلَآ=and not | أَدْنَىٰ=less | مِن=than | ذَٲلِكَ=that | وَلَآ=and not | أَكْثَرَ=more | إِلَّا=but | هُوَ=He | مَعَهُمْ=(is) with them | أَيْنَ مَا=wherever | كَانُواْ‌ۖ=they are. | ثُمَّ=Then | يُنَبِّئُهُم=He will inform them | بِمَا=of what | عَمِلُواْ=they did | يَوْمَ=(on the) Day | ٱلْقِيَـٰمَةِ‌ۚ=(of) the Resurrection. | إِنَّ=Indeed, | ٱللَّهَ=Allah | بِكُلِّ=of every | شَىْءٍ=thing | عَلِيمٌ=(is) All-Knower.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "ʿA'isha...later said: Blessed is the One whose hearing encompasses all things. I could hear some of what she said, and some of it escaped me — and Allah heard it all from above the seven heavens." — This narration (Musnad Aḥmad 25/298, Ibn Mājah) is well-attested in hadith literature and not factually wrong, but it falls outside the reference data provided. Cannot be verified from the supplied tafsir corpus; flag for sourcing completeness in production, not for content error.
+
+All other verifiable claims check out cleanly:
+
+- **Qurṭubī citation on najwā as maṣdar** — directly confirmed: *"والنجوى : السرار ، وهو مصدر ، والمصدر قد يوصف به ، يقال : قوم نجوى"* — the reflection's paraphrase is accurate.
+- **bi-ʿilmihi gloss** — all four sources confirm: al-Jalālayn ("رابعهم بعلمه"), al-Muyassar ("بعلمه وإحاطته"), al-Baghawī ("بالعلم"). The morphology note in the frontmatter stating no source supports bodily presence is correct.
+- **najwā root n-j-w → najāt/anjā** — lexically sound per classical Arabic (Lisān al-ʿArab confirms shared root).
+- **Arabic text in frontmatter** — matches the authenticated Arabic exactly.
+- **Contextual framing** (vv. 1–4 / v. 7 / vv. 8–10) — structurally accurate.
+- **"missing number" observation** (3→4th, 5→6th; "four" conspicuously absent) — a legitimate structural observation, not a factual claim; no error.
+
+SUMMARY: Reflection is theologically accurate and tafsir-grounded; the one flagged item is a hadith citation that is authentic but unverifiable from the provided reference corpus — not an error, a sourcing gap.

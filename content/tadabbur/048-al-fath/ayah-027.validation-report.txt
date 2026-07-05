@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/048-al-fath/ayah-027.md
+Ayah: 48:27
+Date: 2026-06-08T14:02:13
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: لَّقَدْ=Certainly, | صَدَقَ ٱللَّهُ=Allah has fulfilled | رَسُولَهُ=His Messengerâ€™s | ٱلرُّءْيَا=vision | بِٱلْحَقِّ‌ۖ=in truth. | لَتَدْخُلُنَّ=Surely, you will enter | ٱلْمَسْجِدَ ٱلْحَرَامَ=Al-Masjid Al-Haraam | إِن=if | شَآءَ ٱللَّهُ=Allah wills, | ءَامِنِينَ=secure, | مُحَلِّقِينَ=having shaved | رُءُوسَكُمْ=your heads | وَمُقَصِّرِينَ=and shortened, | لَا=not | تَخَافُونَ‌ۖ=fearing. | فَعَلِمَ=But He knew | مَا=what | لَمْ=not | تَعْلَمُواْ=you knew, | فَجَعَلَ=and He made | مِن دُونِ=besides | ذَٲلِكَ=that | فَتْحًا=a victory | قَرِيبًا=near.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "He had a dream — a true dream, the kind that for a Prophet is a form of revelation — that he and his companions would enter the Sacred Mosque, safe, their heads shaved" — confirmed by Jalalayn ("رأى رسول الله صلى الله عليه وسلم في النوم عام الحديبية... أنه يدخل مكة هو وأصحابه آمنين ويحلقون ويقصرون") and Baghawi (dream seen in Medina before departure)
+- [PASS] "He told the companions, and they rejoiced" — direct Jalalayn support: "فأخبر بذلك أصحابه ففرحوا"
+- [PASS] ʿUmar exchange paraphrased from a well-documented Bukhari report; Qurtubi corroborates companion distress and hypocrite doubt ("ارتاب المنافقون")
+- [PASS] Grammatical analysis of *ṣadaqa*: Allah as subject, *al-ruʾyā* as object — matches word-by-word reference (صَدَقَ ٱللَّهُ = Allah has fulfilled; ٱلرُّءْيَا = vision [object]); root ṣ-d-q correctly identified
+- [PASS] *al-Ṣādiq al-Amīn* as pre-prophetic title — historically established, not contradicted by any reference provided
+- [PASS] Root ḥ-q-q for *ḥaqq* — correct; Muyassar confirms *bil-ḥaqq* as grounding the divine confirmation
+- [PASS] "near victory" identified as something prior to the Mecca entry — Muyassar directly supports: "فجعل مِن دون دخولكم 'مكة'... فتحًا قريبًا"
+- [UNVERIFIABLE — not an error] "more than a thousand" companions — not in provided tafsir excerpts; consistent with seerah (Bay'at al-Ridwan, Bukhari), but cannot be verified from the supplied reference data
+
+SUMMARY: The reflection is linguistically precise, historically grounded against the provided tafsir, and its central grammatical argument (Allah as active subject of *ṣadaqa*, closing the gap between promise and reality) is fully supported by the word-by-word data and classical sources.

@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/079-an-naziat/ayahs-042-046.md
+Ayah: 79:42
+Date: 2026-06-18T14:01:37
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَسْــَٔلُونَكَ=They ask you | عَنِ=about | ٱلسَّاعَةِ=the Hour, | أَيَّانَ=when | مُرْسَـٰهَا=(is) its arrival?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] Morphology comment (frontmatter): "the single Form IV verb مُرْسَىٰهَا" — مُرْسَى is not a conjugated verb. It is a noun of place/time (ism makān/zamān) derived from the Form IV verb أَرْسَى. The verb is Form IV; the word in the ayah is its derived noun. The error is confined to the metadata comment and does not propagate into the reflection body, but it is a factual linguistic misclassification.
+
+- [UNVERIFIABLE — flag, not error] "Listen to al-Farrāʾ, the early grammarian, quoted directly by al-Qurtubī in his commentary on this very verse. He says: *rusūhā: qiyāmuhā ka-rusū al-safīna*" — The Qurtubī text supplied is truncated (cuts off at إلى ربك م) before this passage would appear. The attribution is plausible — al-Farrāʾ is a documented Kufan grammarian Qurtubī does cite, and the root meaning r-s-w = anchoring is lexically attested — but the exact quotation and citation chain cannot be confirmed from the reference data provided. Treat as unverified, not wrong.
+
+- [PASS] "al-Jalālayn names them plainly as kuffār Makka" — confirmed verbatim in the supplied Jalālayn text.
+
+- [PASS] "al-Qurtubī preserves a tradition on the authority of Ibn ʿAbbās that they asked istihzāʾan — mockingly" — confirmed verbatim: سأل مشركو مكة... استهزاء.
+
+- [PASS] The root r-s-w meaning "to anchor, to moor" and the wa-l-jibāla arsāhā parallel (79:32) — linguistically sound and internally consistent with the surah's own vocabulary.
+
+- [PASS] Arabic text in the body matches the authenticated Arabic exactly.
+
+SUMMARY: One metadata-level morphological misclassification (مُرْسَىٰهَا labeled verb rather than Form IV-derived noun) and one unverifiable citation chain; all verifiable body claims are accurate against the supplied reference data.

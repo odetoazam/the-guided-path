@@ -4,7 +4,7 @@ The *mifʿāl* pattern in Arabic is the pattern of **instruments and appointed p
 
 [PAUSE]
 
-This is staggering when you let it land. They didn't say "Allah does not break His *word*." They said Allah does not break **the appointment** — a thing with coordinates, a thing already scheduled. The Day of Gathering is not a hope. It is a **date.** It is on the calendar of the cosmos. And the verb — *lā yukhlifu* — "He does not fail it, does not leave it behind, does not let the appointment lapse."
+This is staggering when you let it land. They didn't say "Allah does not break His *word*." They said Allah does not break **the appointment** — a thing with coordinates, a thing already scheduled. The Day of Gathering is not a hope. It is a **date.** It is on the calendar of the cosmos. And al-Jalālayn is precise about *which* appointment this is: the *mīʿād* here is His *mawʿid bi-l-baʿth* — the pledged raising of the dead, the promise that the buried will be brought back for exactly this Day. Not a general reliability floating over everything, but one specific, staggering commitment: *you will be raised, and you will be gathered.* And the verb — *lā yukhlifu* — "He does not fail it, does not leave it behind, does not let the appointment lapse."
 
 Hear the word: *mīʿād* — those long, open vowels, *mī-ʿād*, stretching out like a horizon you are walking toward. The sound of the word is the shape of the thing: an appointment that lies ahead of you, wide and waiting, getting no further away no matter how long the road.
 
@@ -12,9 +12,11 @@ And al-Ṭabarī makes a quiet but consequential observation about the verse at 
 
 Why? Because they do not need to. They have placed themselves before the One who knows what the chests contain, who heard every unsaid word before it formed. The very act of naming the Day — of holding the *mīʿād* up before the face of God — is itself the plea. This is tawakkul at the level of language itself. The most completely stated prayer is sometimes the one where the explicit request is withheld, because it has already been entrusted to the hearing of the One who knows.
 
+There is a second fingerprint of that trust, and it is hidden in the grammar. Listen to how the verse turns. It opens in direct address — *Rabbanā innaka*, "Our Lord, indeed **You**" — the servants speaking straight into the face of God. But it does not close there. It closes in the third person: *inna-llāha lā yukhlifu-l-mīʿād*, "indeed **Allah** does not break the appointment." The address has shifted from *You* to *Allah*. Al-Jalālayn names this turn — *iltifāt*, the deliberate pivot away from direct address — and then adds something that opens the whole verse: it is possible, he says, that this final clause is no longer the servants' speech at all, but God's own voice, breaking in to seal the prayer they left unfinished. Read that way, the ellipsis and the turn are a single gesture. The rooted ones drop their petition mid-sentence and hand it upward — and the sentence is completed, from above, in the third person, by the very One to whom it was addressed. They trail off in trust; He finishes in certainty.
+
 [PAUSE]
 
-So three discoveries, and they are one discovery seen from three sides. **Jāmiʿ:** the gathering is not a future event but an attribute of God — and the Gatherer who assembles all of humanity also recompenses them according to their deeds. **Lā rayba fīh:** the doubt that disturbs is categorically abolished. **Lā yukhlifu al-mīʿād:** the whole thing rests not on your feeling but on the fixed, appointed reliability of the One named Allah — a certainty so total that the pray-er did not even need to finish the second half of the sentence.
+So three discoveries, and they are one discovery seen from three sides. **Jāmiʿ:** the gathering is not a future event but an attribute of God — and the Gatherer who assembles all of humanity also recompenses them according to their deeds. **Lā rayba fīh:** the doubt that disturbs is categorically abolished. **Lā yukhlifu al-mīʿād:** the whole thing rests not on your feeling but on the fixed, appointed reliability of the One named Allah — a promise, al-Muyassar is careful to note, made *to His servants* (*mā waʿadta bihi ʿibādak*), not an impersonal law of the cosmos but a word given by a Lord to those who are His — a certainty so total that the pray-er did not even need to finish the second half of the sentence.
 
 Now let's ask what this reveals not just about words — but about reality itself, and about the shape of a soul that can stand inside this verse.
 
@@ -57,6 +59,8 @@ When is the most completely expressed prayer the one where the explicit request 
 You have had conversations with someone who knows you so well that you don't need to finish. You begin a sentence — *"I just don't know how I'm going to—"* — and they stop you. *"I know."* You don't need to say the rest. The relationship has made the rest redundant.
 
 The rooted ones have that relationship with their Lord. Their prayer says: *You are the Gatherer. We will be there. We know what that means. You know what we need.* The *ḥadhf* — the grammatical ellipsis — is not a silence born of forgetting. It is a silence born of trust. Of saying: *I am placing the second half of this sentence in the hands of the One who already heard it before I thought it.*
+
+And notice how far that trust is vindicated by the text itself. If the closing words are God's own — as al-Jalālayn allows in his second reading — then the assurance the servants were reaching for does not even rest on their finishing the prayer. They fall silent, and the guarantee is spoken *for* them, in a voice they could never doubt: *inna-llāha lā yukhlifu-l-mīʿād.* The turn from *You* to *Allah* is the exact seam where the human petition is set down and the divine promise lifts it up.
 
 [PAUSE]
 

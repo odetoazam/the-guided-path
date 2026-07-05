@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/054-al-qamar/ayah-008.md
+Ayah: 54:8
+Date: 2026-06-10T00:12:30
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: مُّهْطِعِينَ=Racing ahead | إِلَى=toward | ٱلدَّاعِ‌ۖ=the caller. | يَقُولُ=Will say | ٱلْكَـٰفِرُونَ=the disbelievers, | هَـٰذَا=`This | يَوْمٌ=(is) a Day | عَسِرٌ=difficult.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "He even quotes pre-Islamic poetry of camels described as *muhṭiʿ*: necks extended, straining toward something." — The al-Qurtubi text provided quotes one line of poetry: *"bidajlata dāruhum wa-laqad arāhum — bidajlata muhṭiʿīna ilā-s-samāʿ"* — this is about **people** near the Tigris (Dijla) racing toward hearing/listening, not camels. The camel attestation for the root exists in Arabic lexicons (Lisān al-ʿArab), but al-Qurtubi's quoted verse as supplied is mischaracterized. Note: the al-Qurtubi text in the reference is truncated ("وأهطع إذا مد عنقه و..."), so if a camel reference appears after the cut, this flag would resolve — but based on the provided data, the attribution is incorrect.
+
+Everything else checks out:
+
+- Form I / Form IV distinction attributed to al-Qurtubi: **exact match** — *haṭaʿa* = *aqbala ʿalā-sh-shayʾi bi-baṣarihi lā yuqliʿu ʿanhu*; *ahṭaʿa* = *madda ʿunuqahu*.
+- All five scholar attributions (Abū ʿUbaydah: *musriʿīn*; al-Ḍaḥḥāk: *muqbilīn*; Qatādah: *ʿāmidīn*; Ibn ʿAbbās: *nāẓirīn*; ʿIkrimah: *fātiḥīna ādhānahum*): **verified verbatim** from al-Qurtubi.
+- *"wa-l-maʿnā mutaqārib"* closure: **exact quote**, correctly attributed.
+- Orthographic drop of final *yāʾ* in **ٱلدَّاعِ**: **confirmed** by the authentic Arabic supplied.
+- *ʿAsir* = difficult: **confirmed** by Jalalayn (*ṣaʿb*), Muyassar (*shadīd al-hawl*), Baghawi (*ṣaʿb shadīd*).
+
+SUMMARY: One moderate flag — the camel-poetry attribution mischaracterizes al-Qurtubi's quoted verse (which describes people near the Tigris, not camels), though the reference data is truncated and the full Qurtubi entry may contain a camel reference beyond the cut point.

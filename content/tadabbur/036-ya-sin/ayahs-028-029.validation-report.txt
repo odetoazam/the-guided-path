@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/036-ya-sin/ayahs-028-029.md
+Ayah: 36:28
+Date: 2026-06-05T06:26:37
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ۞ وَمَآ=And not | أَنزَلْنَا=We sent down | عَلَىٰ=upon | قَوْمِهِۦ=his people | مِنۢ بَعْدِهِۦ=after him | مِن=any | جُندٍ=host | مِّنَ=from | ٱلسَّمَآءِ=the heaven, | وَمَا=and not | كُنَّا=were We | مُنزِلِينَ=(to) send down.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "it is in the intensive-transitive form the grammarians call Form IV" — Form IV (afʿala) is the **causative** form, not the intensive form. Intensive is Form II (faʿʿala — e.g., *nazzala*). Both roots exist in the Quran for n-z-l: *nazzala* (Form II, repeated/intensive descent) vs. *anzala* (Form IV, causative dispatch). The verse uses Form IV correctly, and the functional gloss ("deliberate, directed bringing-down," "a King dispatching") is accurate — only the label "intensive" is wrong and would mislead a reader trying to learn morphology. A tadabbur audience building on this will carry forward a false equation of Form IV = intensity.
+
+- [PASS] The istighrāqiyya reading of *min jundin* — the min of total negation sweeping the denial to zero — is a legitimate grammatical observation consistent with standard Arabic grammar analysis of *mā + verb + min + indefinite noun* constructions.
+
+- [PASS] The punishment-army interpretation (Allah didn't need to send a heavenly host; the cry was sufficient) is well-grounded in the provided sources: Muyassar ("فهم أضعف من ذلك وأهون"), Baghawi ("بل الأمر في إهلاكهم كان أيسر مما يظنون"). The "honor asymmetry" framing — that withheld armies signal the town's worthlessness rather than Allah's restraint toward the believer — maps cleanly onto these classical glosses.
+
+- [PASS] Ḥabīb al-Najjār as traditional identification is presented as tradition, not Quranic text. Qurtubi confirms "قتل حبيب" (the killing of Ḥabīb), so the attribution is grounded.
+
+- [PASS] The Badr angel citation ("three thousand angels sent down," 3:124) is accurate and the root connection to *munzalīn* is sound.
+
+- [NOTE — not an error] The Qurtubi excerpt records a dissenting interpretation: al-Ḥasan, Qatāda, and Mujāhid held that *jund* here means revelation-bearing angels, and the verse means no further prophet was dispatched to the town after Ḥabīb's death. The reflection presents only the punishment-army reading without acknowledging this ikhtilāf. This is an interpretive choice, not a factual error — but for an audience that includes Khalil (the convert) or Yusuf (the student), noting the second reading would strengthen interpretive transparency.
+
+SUMMARY: The reflection is substantively accurate and tafsir-grounded; the one flaggable issue is mislabeling Form IV (causative) as "intensive-transitive" — a morphological description error that, while not distorting the meaning drawn from it, would mislead readers building an Arabic grammar foundation.

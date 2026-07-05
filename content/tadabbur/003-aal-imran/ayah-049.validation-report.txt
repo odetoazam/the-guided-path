@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayah-049.md
+Ayah: 3:49
+Date: 2026-06-21T05:19:12
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَرَسُولاً=And (make him) a Messenger | إِلَىٰ=to | بَنِىٓ=(the) Children | إِسْرَٲٓءِيلَ=(of) Israel, | أَنِّى=`Indeed, I | قَدْ=[surely] | جِئْتُكُم=[I] (have) come (to) you | بِـَٔـايَةٍ=with a sign | مِّن=from | رَّبِّكُمْ‌ۖ=your Lord | أَنِّىٓ=that I | أَخْلُقُ=[I] design | لَكُم=for you | مِّنَ=from | ٱلطِّينِ=[the] clay | كَهَيْــَٔةِ=like (the) form | ٱلطَّيْرِ=(of) the bird, | فَأَنفُخُ=then I breath | فِيهِ=into it | فَيَكُونُ=and it becomes | طَيْرَۢا=a bird | بِإِذْنِ=by (the) permission | ٱللَّهِ‌ۖ=(of) Allah. | وَأُبْرِئُ=And I cure | ٱلْأَكْمَهَ=the blind, | وَٱلْأَبْرَصَ=and the leper, | وَأُحْىِ=and I give life | ٱلْمَوْتَىٰ=(to) the dead | بِإِذْنِ=by (the) permission | ٱللَّهِ‌ۖ=(of) Allah. | وَأُنَبِّئُكُم=And I inform you | بِمَا=of what | تَأْكُلُونَ=you eat | وَمَا=and what | تَدَّخِرُونَ=you store | فِى=in | بُيُوتِكُمْ‌ۚ=your houses. | إِنَّ=Indeed, | فِى=in | ذَٲلِكَ=that | لَأَيَةً=(is) surely a sign | لَّكُمْ=for you, | إِن=if | كُنتُم=you are | مُّؤْمِنِينَ=believers.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE] "Al-Jalālayn glosses أَخْلُقُ not as origination from nothing but as أُصَوِّر" — CONFIRMED verbatim from the Jalālayn excerpt: «أخلق أصوِّر». Attribution accurate.
+- [NOTE] "Al-Muyassar reads it the same way: I make for you, out of clay, the shape of a bird" — CONFIRMED: «أصنع لكم من الطين مثل شكل الطير». Attribution accurate.
+- [NOTE] "the Arabs spoke of a craftsman who yakhluqu al-adīm — who cuts and shapes the leather before sewing it" — This lexical example (خلق الأديم: قدّره) is attested in Lisān al-ʿArab and Mufradāt al-Rāghib cited in the frontmatter comment, but is not verifiable from the reference data provided here. The claim is standard classical Arabic lexicography; flag only that it cannot be confirmed from the supplied sources, not that it is wrong.
+- [NOTE] "I heal the one born blind" for الأَكْمَهَ — more precise than "the blind." Confirmed by al-Muyassar: «أَشفي مَن وُلِد أعمى». Reflection correctly uses "born blind."
+- [NOTE] The theological claim that khalq in its absolute sense belongs to Allah alone is standard kalām doctrine, not directly derivable from the word-by-word data supplied. It is correct but is an interpretive/theological layer, not something the provided reference data explicitly confirms. Acceptable as established Islamic theology, not an error.
+
+No factual errors, inverted attributions, or Arabic text misrepresentations found in the portion validated. The bi-idhn Allāh structural analysis is consistent with the authentic Arabic as supplied. The tafsir citations are accurate and precisely quoted.
+
+SUMMARY: All verifiable claims in the reflection check out against the supplied word-by-word data and classical tafsir excerpts; one lexical example (al-adīm) falls outside the provided reference scope but is otherwise standard.

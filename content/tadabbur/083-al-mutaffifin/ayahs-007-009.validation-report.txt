@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/083-al-mutaffifin/ayahs-007-009.md
+Ayah: 83:7
+Date: 2026-06-18T16:17:10
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: كَلَّآ=Nay! | إِنَّ=Indeed, | كِتَـٰبَ=(the) record | ٱلْفُجَّارِ=(of) the wicked | لَفِى=(is) surely in | سِجِّينٍ=Sijjin.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR/INFORMATIONAL] "al-Qurtubi reports this as the view of the grammarians... says kallā here is رَدْع" — accurate, but al-Qurtubi's text pairs it as "ردع وتنبيه" (radʿ *and* tanbīh/alerting). The reflection omits tanbīh. Not a factual error, but a slight abbreviation of the classical formulation.
+
+No other issues found. Every checkable claim holds:
+
+- **kallā as radʿ** attributed to "the grammarians" via al-Qurtubi: confirmed — "قال قوم من أهل العلم بالعربية: كلا ردع وتنبيه"
+- **al-Baghawi affirms radʿ as primary**: confirmed — "كلا ردع، أي ليس الأمر على ما هم عليه"
+- **al-Ḥasan reads kallā as ḥaqqan**: confirmed in both al-Qurtubi ("وقال الحسن: كلا بمعنى حقا") and al-Baghawi ("وقال الحسن: كلا ابتداء... على معنى حقا")
+- **"their record is in Sijjīn" vs. "the wicked are in Sijjīn"**: correctly draws the distinction the Arabic demands — كِتَابَ, not the fujjār themselves, is the subject
+- **Root f-j-r**: "cleave, split open, burst through" is lexically standard; fajr/dawn from the same root is uncontroversial (Lisān al-ʿArab confirms)
+- **Diptych structure (Sijjīn 83:7-9 / ʿIlliyyīn 83:18-21)**: structurally accurate per surah layout
+- **83:4 quotation and translation**: accurate
+
+SUMMARY: The reflection's scholar attributions, root analysis, and tafsir-drawn distinctions all hold against the provided reference data; the only gap is omitting tanbīh alongside radʿ in the al-Qurtubi citation, which is an abbreviation rather than an error.

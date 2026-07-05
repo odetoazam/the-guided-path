@@ -1,0 +1,30 @@
+Enhanced Validation Report
+File: content/tadabbur/072-al-jinn/ayah-025.md
+Ayah: 72:25
+Date: 2026-06-16T23:08:27
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: قُلْ=Say, | إِنْ=`Not | أَدْرِىٓ=I know | أَقَرِيبٌ=whether is near | مَّا=what | تُوعَدُونَ=you are promised | أَمْ=or (whether) | يَجْعَلُ=will appoint | لَهُۥ=for it | رَبِّىٓ=my Lord | أَمَدًا=a (distant) term.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE] "قُلْ appears more than three hundred times" — unverifiable from the supplied reference data. The figure is widely cited and likely accurate (~332 occurrences), but I cannot confirm it from what was provided. Not a flaggable error; noting the verification gap.
+- [NOTE] "أَمَدًا" rendered "a distant term" throughout — the word-by-word gives "(distant)" in parentheses, indicating the distance sense is contextually implied rather than the root's bare meaning. Baghawi confirms "أجلاً وغاية تطول مدتها" (a term/end of long duration), so "distant" is warranted by tafsir, just not the lexical bare form. No error.
+- [NOTE] The reflection's passage_context description — "verses 26–28 declare that the unseen belongs to Allah alone, disclosed only to a messenger He has approved" — is directly corroborated by Muyassar's continuation: "فلا يظهر على غيبه أحدًا من خلقه، إلا من اختاره الله لرسالته وارتضاه." Accurate framing.
+
+The 8,000-character excerpt contains no root errors, no verb form errors, no inverted scholar positions, and no Arabic text divergence from the authentic source. Interpretive moves ("the 'I don't know' *is* his credibility," authority-from-truthfulness argument) are consistently framed as rhetorical reflection, not attributed to named classical scholars. The grammatical identification of إِنْ as a negation particle is correct per the word-by-word reference.
+
+SUMMARY: The reflection is linguistically grounded, tafsir-consistent, and careful to mark interpretive extensions as such — no errors to flag in the portion reviewed.

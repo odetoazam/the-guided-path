@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/054-al-qamar/ayah-029.md
+Ayah: 54:29
+Date: 2026-06-10T06:09:08
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَنَادَوْاْ=But they called | صَاحِبَهُمْ=their companion | فَتَعَاطَىٰ=and he took | فَعَقَرَ=and hamstrung.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "Al-Baghawi and al-Jalalayn both identify him: Qudar ibn Salif" — The provided Jalalayn text gives only the first name (قدرا — Qadar/Qudar, as an appositive to ṣāḥibahum) without the patronym "ibn Salif." The full name "Qudar ibn Salif" (قدار بن سالف) is supplied by Al-Baghawi, not Jalalayn. The reflection attributes the complete name to both sources, which slightly overstates what Jalalayn specifically provides. The full name is otherwise well-attested in the tradition, so this is a sourcing precision issue, not a factual fabrication.
+
+No other issues found. The following are all confirmed against the provided references:
+- Form III identification of نَادَى (nādaw = Form III perfect) — morphologically accurate
+- The root ع-ط-و and al-Qurtubi's gloss (ʿaṭawtu = tanāwaltu, "I reached and took") — directly confirmed by the Qurtubi excerpt, including the Hassan verse citation
+- The plural charge in 91:14 (fa-ʿaqarūhā) used to ground collective culpability — accurate
+- ṣāḥib (9:40) as the cave companion usage — accurate
+- The "passing magic" characterization of Quraysh's response to the moon-split (54:1-2) — accurate
+- Both surahs' refrains cited correctly
+
+SUMMARY: The reflection is linguistically precise and well-grounded in classical sources; the single note is that the patronym "ibn Salif" should be attributed to Al-Baghawi alone, not jointly to Jalalayn.

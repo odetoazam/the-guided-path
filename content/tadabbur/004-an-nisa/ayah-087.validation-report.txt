@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/004-an-nisa/ayah-087.md
+Ayah: 4:87
+Date: 2026-06-24T09:12:05
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ٱللَّهُ=Allah - | لَآ=(there is) no | إِلَـٰهَ=god | إِلَّا=except | هُوَ‌ۚ=Him, | لَيَجْمَعَنَّكُمْ=surely He will gather you | إِلَىٰ=to | يَوْمِ=(the) Day | ٱلْقِيَـٰمَةِ=(of) Resurrection - | لَا=no | رَيْبَ=doubt | فِيهِ‌ۗ=about it. | وَمَنْ=And who | أَصْدَقُ=(is) more truthful | مِنَ=than | ٱللَّهِ=Allah | حَدِيثًا=(in) statement.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "al-Qurtubi and al-Baghawi both linger on the picture: human beings in death, beneath the earth — *fī-l-mawt wa taḥta-l-arḍ*" — The Arabic phrase *taḥta-l-arḍ* appears in neither provided source. Al-Baghawi says **"في الموت وفي القبور"** (*fī-l-mawt wa fī-l-qubūr* — in death and in the graves); the al-Qurtubi excerpt provided does not contain this phrase at all. The reflection presents a reconstructed Arabic phrase as a double-sourced attribution. "Graves" ≠ "beneath the earth" as a direct quote, and al-Qurtubi cannot be confirmed from the reference data supplied.
+
+- [MODERATE] The *ilā* analysis (Element Two) presents the preposition as purposefully directional without noting that al-Qurtubi explicitly records the counter-opinion: **"وقال بعضهم: إِلَى صلة في الكلام"** — some scholars hold *ilā* is a connective particle (صلة) without directional force. The reflection is not wrong to read it as directional, but presenting that reading as the settled grammatical picture without flagging the scholarly disagreement overstates certainty. (Note: the reflection text cuts off mid-sentence here, so this may be addressed in the unprovided remainder.)
+
+ALL OTHER CLAIMS PASS:
+- Arabic text matches authentic source exactly ✓
+- Occasion of revelation: "nazalat fī-lladhīna shakkū fī-l-baʿth / fa-aqsama-llāhu taʿālā bi-nafsihi" — confirmed verbatim in ar.qurtubi ✓
+- Lām al-qasam rule quoted: "wa kullu lāmin baʿdahā nūnun mushaddadatun fa-huwa lāmu-l-qasam" — confirmed verbatim in ar.qurtubi ✓
+- Both al-Qurtubi and al-Baghawi affirming lām al-qasam — confirmed in both sources ✓
+- Root j-m-ʿ analysis (gathering/scattering) — lexically sound ✓
+- Conceptual framing of oath-by-Himself (no higher witness) — theologically grounded and not overstated ✓
+
+SUMMARY: Solid and well-sourced tadabbur with one attribution error (a composite Arabic phrase assigned to both scholars that neither source confirms verbatim) and one missed scholarly dissent on the *ilā* preposition that al-Qurtubi himself records.

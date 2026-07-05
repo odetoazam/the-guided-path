@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayah-013.md
+Ayah: 3:13
+Date: 2026-06-21T12:04:00
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: قَدْ=Surely | كَانَ=it was | لَكُمْ=for you | ءَايَةٌ=a sign | فِى=in | فِئَتَيْنِ=(the) two hosts | ٱلْتَقَتَا‌ۖ=which met - | فِئَةٌ=one group | تُقَـٰتِلُ=fighting | فِى=in | سَبِيلِ=(the) way | ٱللَّهِ=(of) Allah | وَأُخْرَىٰ=and another | كَافِرَةٌ=disbelievers. | يَرَوْنَهُم=They were seeing them | مِّثْلَيْهِمْ=twice of them | رَأْىَ ٱلْعَيْنِ‌ۚ=with their eyes. | وَٱللَّهُ=And Allah | يُؤَيِّدُ=supports | بِنَصْرِهِۦ=with His help | مَن=whom | يَشَآءُ‌ۗ=He wills. | إِنَّ=Indeed, | فِى=in | ذَٲلِكَ=that | لَعِبْرَةً=surely (is) a lesson | لِّأُوْلِى=for the owners | ٱلْأَبْصَـٰرِ=(of) vision.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+
+- [MODERATE] "a handful of horses" — Al-Jalalayn explicitly uses **فرسَان**, the Arabic dual form, meaning exactly two horses, not "a handful" (which implies several). This is the only classical source in the reference data covering Badr troop composition, and "handful" overstates the count. Other classical sources outside the provided data may vary, but the imprecision is real.
+
+- [MODERATE] "On the same field, on the same afternoon, at the same battle — Allah showed the same scene two opposite ways. To the believers: the enemy is few, don't fear, go forward. To the disbelievers: they are doubled, more than you thought, be afraid." — The reflection presents this as a clean complementary pairing of 3:13 and 8:44. However, 8:44 contains a second clause — **وَيُقَلِّلُكُمْ فِي أَعْيُنِهِمْ** ("He made you [believers] appear few in their [disbelievers'] eyes") — which directly conflicts with 3:13's **مِّثْلَيْهِمْ** (the disbelievers saw believers as *doubled*, i.e., larger, not fewer). The "two opposite ways" synthesis is a known classical reconciliation (typically resolved by positing different battle phases), but the reflection presents it as a straightforward factual complement rather than an interpretive position resolving an apparent contradiction. Note: 8:44's full text falls outside the provided reference data, so I am flagging the tension rather than ruling on which reconciliation is correct.
+
+No issues found with: Arabic text rendering, root identification (r-'-y, b-ṣ-r, '-b-r all correctly traced), the maf'ūl muṭlaq analysis of *ra'ya-l-ʿayn*, the identification of Badr as the referenced battle (confirmed by all four tafsirs), the interpretation that **yarawnahum** = the disbelievers saw the believers (confirmed by Jalalayn: "أي الكفار مثليهم أي المسلمين"), or the ʿayn/baṣar perceptual contrast.
+
+SUMMARY: The reflection is linguistically careful and tafsir-grounded on all central claims; the two moderate issues are a loose Badr horse count against Jalalayn's explicit dual form, and a clean 8:44 synthesis that presents a contested classical reconciliation as settled without flagging the apparent conflict between 3:13 (believers appeared doubled to disbelievers) and 8:44's second clause (believers appeared *few* to disbelievers).

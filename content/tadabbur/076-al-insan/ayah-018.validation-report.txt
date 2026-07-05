@@ -1,0 +1,27 @@
+Enhanced Validation Report
+File: content/tadabbur/076-al-insan/ayah-018.md
+Ayah: 76:18
+Date: 2026-06-18T09:58:52
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: عَيْنًا=A spring | فِيهَا=therein, | تُسَمَّىٰ=named | سَلْسَبِيلاً=Salsabil.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+
+- [MODERATE] "al-Baghawī reports the reading of most scholars that تُسَمَّىٰ here leans toward 'is described' as much as 'is titled' — tusammā meaning tūṣaf, it is characterized" — The provided al-Baghawī excerpt does not contain this formulation. What al-Baghawī actually reports (in the provided text) is three opinions on the *meaning of the word* salsabīl: Qatāda ("it flows continuously, steerable by its inhabitants"), Mujāhid ("strong/swift current"), and Abū al-ʿĀliya/Muqātil ("named salsabīl because it flows along their roads and homes, originating from the Throne"). None of these frame the verb تُسَمَّىٰ as meaning tūṣaf. The provided al-Baghawī excerpt also ends mid-sentence ("قال الزجاج"), so the full text is not available here — per the validation instruction, this claim cannot be verified from the reference data as provided, and what IS provided contradicts the specific attribution. The *substance* of the dual name/description reading is, however, supported by the other provided sources: al-Qurṭubī explicitly analyses سلسبيل as "لذيذ من السلالة" (a lexical descriptor of smoothness), and al-Muyassar explains the name functionally as "لسلامة شرابها وسهولة مساغه" — confirming the word is characterizing quality. The correct attribution for the descriptive reading in the provided data is al-Qurṭubī and al-Muyassar, not al-Baghawī.
+
+SUMMARY: The reflection is linguistically and structurally sound throughout — the s-m-w root analysis, Form II passive reading, tanwīn argument, and structural arc from 76:1 to 76:18 are all accurate — but the specific attribution to al-Baghawī for "most scholars read تُسَمَّىٰ as tūṣaf" is not verifiable from the provided excerpt and should be reattributed to al-Qurṭubī and al-Muyassar, which do support the substance.

@@ -1,0 +1,42 @@
+Enhanced Validation Report
+File: content/tadabbur/050-qaf/ayah-041.md
+Ayah: 50:41
+Date: 2026-06-08T20:04:26
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَٱسْتَمِعْ=And listen! | يَوْمَ=(The) Day | يُنَادِ=will call | ٱلْمُنَادِ=the caller | مِن=from | مَّكَانٍ=a place | قَرِيبٍ=near,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical errors found in the portion provided.
+
+Specific checks performed:
+
+**al-Qurtubi attribution** — The reflection states: *"Al-Qurtubi states it plainly — mafʿūl al-istimāʿ maḥdhūf — the object of the listening has been deleted."* The provided Qurtubi text reads exactly: «مفعول الاستماع محذوف ; أي : استمع النداء والصوت أو الصيحة». Attribution is precise and accurate. ✓
+
+**Form VIII morphology** — The reflection identifies istamiʿ as Form VIII (ifta'ala), contrasting it with Form I samiʿa. The frontmatter note «istamiʿ = Form VIII (smE)» is correct. The ifta'ala pattern for root s-m-ʿ yields istamaʿa via infix of ت after the first radical — verified. ✓
+
+**Deliberate/intentional meaning of Form VIII** — The pedagogical gloss ("turn an action inward and deliberate") is a simplification but not an error; the lexically attested meaning of istamaʿa is precisely "to lend the ear, to listen attentively" as distinct from passive samiʿa. ✓
+
+**Arabic text** — The reflection's Arabic matches the authentic text; the only difference (absence of the ۢ nasalization diacritic) is a rendering convention, not a textual error. ✓
+
+**50:3 and 50:16 quotations** — Both appear accurate against standard Uthmanic text. ✓
+
+**Caller identity** — The reflection wisely does not name al-munādi (sources conflict: Jalalain/Baghawi favor Israfil, Qurtubi records Jibril and a third position). No claim made, no error. ✓
+
+**Near place (مكان قريب)** — The reflection uses qarīb thematically against baʿīd (50:3) without asserting the Sakhra Bayt al-Maqdis identification. This is a legitimate choice, not an error.
+
+SUMMARY: All verifiable claims in the provided text are grounded accurately in the reference data, with the single explicit tafsir attribution (al-Qurtubi on the deleted object) matching the source verbatim.

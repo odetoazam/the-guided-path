@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/078-an-naba/ayahs-021-026.md
+Ayah: 78:21
+Date: 2026-06-18T13:04:26
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّ=Indeed, | جَهَنَّمَ=Hell | كَانَتْ=is | مِرْصَادًا=lying in wait,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "Imam al-Qurṭubī tells us plainly: *mirṣād* is the *mifʿāl* form of *raṣd*, and *al-raṣad*, he says, is 'everything that lies in front of you'" — verified directly against provided Qurtubi text: «مفعال من الرصد والرصد : كل شيء كان أمامك». Accurate paraphrase.
+- [PASS] "Al-Ḥasan al-Baṣrī said there is a *raṣad* set upon the Fire — no one crosses to the Garden except by passing it; whoever comes with a pass, passes, and whoever comes without one is detained" — verified against Qurtubi: «قال الحسن : إن على النار رصدا ، لا يدخل أحد الجنة حتى يجتاز عليه ، فمن جاء بجواز جاز ، ومن لم يجئ بجواز حبس». Faithful rendering.
+- [PASS] "Sufyān spoke of bridges to be crossed" — verified: «عليها ثلاث قناطر». The reflection omits the specific number three but does not misrepresent the content.
+- [PASS] "Imam al-Baghawī says simply, 'it watches the disbelievers'" — verified: «إن جهنم كانت مرصادا أي ترصد الكفار». Exact.
+- [PASS] Root r-ṣ-d identified correctly; mifʿāl pattern described correctly with accurate Arabic examples (miftāḥ, mizmār); mirṣād correctly parsed as mifʿāl of r-ṣ-d.
+- [NOTE] The "prey/predator asymmetry" argument (the denier's ease is "what an ambush feels like from the inside") is the reflection's own theological extension, not sourced from the provided tafsir. It is logically coherent with the lexical meaning of mirṣād and presents itself as interpretive reasoning, not attributed fact — no flag warranted.
+- [NOTE] The Baghawi Ibn Abbas narration (seven checkpoints) begins but is cut off before attribution. Cannot evaluate the completion, but the setup is consistent with the provided Baghawi text.
+
+SUMMARY: All sourced claims in the visible portion check against the provided reference data without distortion; scholar attributions are correctly placed and quotes are faithful paraphrases.

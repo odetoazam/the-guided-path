@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/004-an-nisa/ayah-036.md
+Ayah: 4:36
+Date: 2026-06-24T09:45:18
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ۞ وَٱعْبُدُواْ=And worship | ٱللَّهَ=Allah | وَلَا=And (do) not | تُشْرِكُواْ=associate | بِهِۦ=with Him | شَيْــًٔا‌ۖ=anything, | وَبِٱلْوَٲلِدَيْنِ=and to the parents | إِحْسَـٰنًا=(do) good, | وَبِذِى ٱلْقُرْبَىٰ=and with the relatives, | وَٱلْيَتَـٰمَىٰ=and the orphans, | وَٱلْمَسَـٰكِينِ=and the needy | وَٱلْجَارِ=and the neighbor | ذِى ٱلْقُرْبَىٰ=(who is) near, | وَٱلْجَارِ=and the neighbor | ٱلْجُنُبِ=(who is) farther away, | وَٱلصَّاحِبِ=and the companion | بِٱلْجَنۢبِ=by your side | وَٱبْنِ ٱلسَّبِيلِ=and the traveler | وَمَا=and what | مَلَكَتْ=possess[ed] | أَيْمَـٰنُكُمْ‌ۗ=your right hands. | إِنَّ=Indeed, | ٱللَّهَ=Allah | لَا=(does) not | يُحِبُّ=love | مَن=(the one) who | كَانَ=is | مُخْتَالاً=[a] proud | فَخُورًا=(and) [a] boastful.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+
+- [MODERATE] "ten concentric circles of human proximity" / "ten kinds of human being" — Counting directly from the word-by-word reference yields **nine** categories: (1) parents, (2) relatives, (3) orphans, (4) needy, (5) near neighbor, (6) far neighbor, (7) companion at side, (8) traveler, (9) those your right hand possesses. No classical source in the provided tafsir data supports a count of ten. This claim appears in both the `passage_context` frontmatter field and twice in the body text — a systematic overcounting that will be read as a factual statement about the ayah's structure.
+
+- [PASS — note only] "the one who is self-deluding" for مُخْتَالًا — The word-by-word gives "proud" and the Muyassar uses المتكبرين (the arrogant/haughty). Deriving "self-deluding" from the root خ-ي-ل (imagination, illusion) is lexically defensible — the title concept "phantom self" is built on this — but it extends beyond the documented primary meaning. It reads as an interpretive frame, not an error. If the body text argues the etymology explicitly (as it appears to plan to, given the morphology note), it will be grounded; if the etymology argument is cut off before it appears, it would need flagging.
+
+Everything else in the submitted portion passes:
+- The grammar observation about the dropped verb (وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًا as a bare noun rather than an imperative) is accurate and consistent with how Jalalayn supplies أحسنوا as an elided verb.
+- The ح-س-ن root meaning "beauty" and the iḥsān-over-ʿadl ranking are lexically and classically sound.
+- The Arabic text in both frontmatter and body matches the authentic Arabic (the absent ۞ rub-el-hizb mark is a rendering detail, not a content error).
+- The transliteration is accurate throughout.
+
+SUMMARY: One factual structural error — the ayah enumerates nine categories of people, not ten — appears consistently enough to require a targeted fix before publication.

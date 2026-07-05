@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/045-al-jathiyah/ayah-035.md
+Ayah: 45:35
+Date: 2026-06-08T03:55:13
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ذَٲلِكُم=That | بِأَنَّكُمُ=(is) because you | ٱتَّخَذْتُمْ=took | ءَايَـٰتِ=(the) Verses | ٱللَّهِ=(of) Allah | هُزُوًا=(in) ridicule | وَغَرَّتْكُمُ=and deceived you | ٱلْحَيَوٲةُ=the life | ٱلدُّنْيَا‌ۚ=(of) the world.` | فَٱلْيَوْمَ=So this Day | لَا=not | يُخْرَجُونَ=they will be brought forth | مِنْهَا=from it | وَلَا=and not | هُمْ=they | يُسْتَعْتَبُونَ=will be asked to appease.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "the classical commentators — al-Qurṭubī, al-Baghawī, al-Jalālayn — are agreed: here āyāt Allāh means the Quran itself" — Jalālayn (القرآن) and Qurtubi (يعني القرآن) explicitly confirm this reading, but the provided Baghawi excerpt does not define *āyāt Allāh* at this verse. Baghawi doesn't contradict the position, but attributing explicit agreement to him overstates the evidence available in the reference data. The claim should be attributed only to Jalālayn and Qurtubi, or qualified with "among others."
+
+All other checkable claims hold:
+
+- Root **أ-خ-ذ** for *ittakhadhtum* and Form VIII (*iftiʿāl*) identification: correct
+- Two-object construction (X → Y: "you took *āyāt* and made them *huzuwan*"): grammatically accurate
+- Root **هـ-ز-أ** for *huzuwan* and classical gloss as *laʿib*: confirmed by Jalālayn (*لعباً*) and Muyassar (*لعباً*)
+- Root **غ-ر-ر** for *gharrat*: confirmed by word-by-word reference
+- *Yustaʿtabūn* rendered as "will not be asked to make amends": matches Baghawi (لا يطلب منهم أن يرجعوا) and Jalālayn (لا تنفع يومئذ توبة)
+- Surah positioned as near-end of 37-verse surah (ayah 35): accurate
+- The dhālikum + bi-anna construction as backward-pointing causal: accurate
+
+SUMMARY: One minor overstatement attributing Baghawi's explicit agreement on *āyāt = Quran*; the core linguistic, grammatical, and tafsir-grounded claims are accurate.

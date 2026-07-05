@@ -1,0 +1,41 @@
+Enhanced Validation Report
+File: content/tadabbur/047-muhammad/ayah-018.md
+Ayah: 47:18
+Date: 2026-06-08T11:20:52
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَهَلْ=Then do | يَنظُرُونَ=they wait | إِلَّا=but | ٱلسَّاعَةَ=(for) the Hour | أَن=that | تَأْتِيَهُم=it should come to them | بَغْتَةً‌ۖ=suddenly? | فَقَدْ=But indeed, | جَآءَ=have come | أَشْرَاطُهَا‌ۚ=its indications. | فَأَنَّىٰ=Then how | لَهُمْ=to them | إِذَا=when | جَآءَتْهُمْ=has come to them | ذِكْرَٮٰهُمْ=their reminder.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate errors found in the portion reviewed (first ~8,000 chars through the *qaṣr* section).
+
+Specific checks:
+
+- **Arabic text**: Matches the authentic text exactly. ✓
+- **Translation**: Accurate rendering; "will their remembrance avail them" correctly captures the implied *lā yanfaʿuhum* of Jalālayn's gloss. ✓
+- **yanẓurūna dual meaning (look/wait)**: Linguistically sound. Jalālayn glosses it directly as *mā yantaẓirūn* (they await), and the "looking-toward" origin the reflection describes is lexically attested. ✓
+- **qaṣr construction (restriction via illā)**: Standard Arabic grammar, accurately described. ✓
+- **47:16 characterization**: The "turns to the people of knowledge and says 'What did he just say?'" paraphrase is a defensible reading of the verse and not overstated. ✓
+- **47:17 citation**: Paraphrased accurately ("increases in guidance / grants God-consciousness"). ✓
+- **Word count "fifteen words"**: Verified — 15 tokens in the ayah. ✓
+- **Morphology footnote** (Form I for *yanẓurūn, taʾtī, jāʾa*): Correct; no derived-form claims made. ✓
+- **"sūrat al-qitāl"**: A known classical name for Surah 47; not contested. ✓
+- **badal ishtimāl** (listed in concepts): Directly confirmed by Jalālayn — *badal ishtimāl min al-sāʿa*. ✓
+
+The one interpretive extension worth noting — "the most dangerous heedlessness looks like vigilance" — is clearly framed as reflection, not a tafsir citation, and is well-supported by the ayah's rhetorical structure. Not a flag.
+
+SUMMARY: The reflection is linguistically accurate, tafsir-aligned, and properly distinguishes interpretive extension from documented fact throughout the reviewed portion.

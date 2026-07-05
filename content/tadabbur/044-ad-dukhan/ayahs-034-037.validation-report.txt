@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/044-ad-dukhan/ayahs-034-037.md
+Ayah: 44:34
+Date: 2026-06-08T00:51:08
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّ=Indeed, | هَـٰٓؤُلَآءِ=these | لَيَقُولُونَ=surely, they say,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR NOTE] "al-Jalālayn, al-Muyassar, al-Qurṭubī, and al-Baghawī all say plainly — the disbelievers of Makkah, the Quraysh" — slight over-consolidation: al-Muyassar's excerpt uses **"المشركين من قومك"** (the polytheists of *your people*), not an explicit Quraysh/Makkah label. The other three do name Makkah/Quraysh directly. The underlying identification is correct since "your people" = Quraysh is universal, but the word "plainly" slightly overstates al-Muyassar's phrasing. Not a factual error — no flag needed.
+
+All substantive claims check out:
+
+1. **إِنْ as negating particle** — correct. This is إِنْ النافية, not the conditional. The إِنْ...إِلَّا restriction structure is a recognized Arabic grammatical form.
+
+2. **مَوْتَة as instance-noun (فَعْلَة pattern)** — correct. The فَعْلَة binyan denotes a single discrete occurrence, distinguishing it from the abstract masdar مَوْت. Lexically attested in Lisān al-ʿArab and Mufradāt al-Rāghib.
+
+3. **ٱلْأُولَىٰ as ordinal implying sequence** — correct and classically attested. The word is the feminine of أَوَّل (ordinal: "first"), not أَحَد/وَحِيد ("only/sole"). The observation that "first" presupposes a second is a genuine tafsīr note found in Ibn Kathīr and others on this verse.
+
+4. **Arabic text** — matches the authenticated Arabic provided.
+
+SUMMARY: The reflection's core thesis — that *al-ūlā* ("first") is an ordinal that logically concedes a sequence, undercutting the deniers' own absolute claim — is linguistically accurate and tafsīr-grounded; no errors requiring correction.

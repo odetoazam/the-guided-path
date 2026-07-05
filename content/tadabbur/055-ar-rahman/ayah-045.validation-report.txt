@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/055-ar-rahman/ayah-045.md
+Ayah: 55:45
+Date: 2026-06-12T07:42:17
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَبِأَىِّ=So which | ءَالَآءِ=(of the) favors | رَبِّكُمَا=(of) your Lord | تُكَذِّبَانِ=will you both deny?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE — UNVERIFIABLE FROM PROVIDED DATA] *"Lā bi-shayʾin min niʿamika rabbanā nukadhdhib, fa-laka l-ḥamd"* — Al-Qurtubī's text (provided) confirms the Jābir/Tirmidhī hadith and that "the jinn gave a better response" (وفيه للجن أحسن منكم ردا), but does **not** reproduce the exact wording quoted in the reflection. The wording is consistent with the known hadith text, but I cannot cross-check the precise Arabic against the reference slice given. Not an error claim — a gap in the provided data.
+
+- [NOTE — UNVERIFIABLE FROM PROVIDED DATA] *"it is only a plural... the word itself refuses to be counted one at a time"* — The reflection attributes this to Mufradāt al-Rāghib (noted in the pruned morphology comment), but that source was not provided. The lexicographic claim is standard in classical Arabic scholarship; I simply cannot verify the specific phrasing against the reference data given.
+
+All substantive claims check out cleanly:
+
+- **Dual address** (tukadhdhibān, rabbikumā): confirmed by word-by-word and Qurtubī.
+- **Jinn + mankind as the two / qawl al-jumhūr**: Qurtubī states this explicitly — *خطاب للإنس والجن... وهذا قول الجمهور*.
+- **Warning-as-favor thesis**: Al-Baghawī states it directly — *وكل ذلك نعمة من الله تعالى لأنها تزجر عن المعاصي* — "all of that is a blessing from Allah because it deters from sin." The reflection's core theological argument rests precisely on this.
+- **Arabic text**: matches the authentic Arabic exactly.
+- **Hinge-verse positioning** (55:45 as seam between punishment and Paradise): structurally accurate per surah sequence.
+
+SUMMARY: No critical or moderate errors; the reflection's central thesis — that the warning itself is the mercy — is directly corroborated by al-Baghawī, and the dual-address / jinn-mankind framing is confirmed by al-Qurtubī as the majority position.

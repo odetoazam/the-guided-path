@@ -1,0 +1,28 @@
+Enhanced Validation Report
+File: content/tadabbur/005-al-maidah/ayah-051.md
+Ayah: 5:51
+Date: 2026-05-14T22:58:25
+
+[1] Arabic text: ❌ fail
+    → Arabic text mismatch. API: "۞ يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَّخِذُوا۟ ٱلْيَهُودَ وَٱلنَّصَٰرَىٰٓ ..."
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ۞ يَـٰٓأَيُّهَا=O you | ٱلَّذِينَ=who | ءَامَنُواْ=believe! | لَا=(Do) not | تَتَّخِذُواْ=take | ٱلْيَهُودَ=the Jews | وَٱلنَّصَـٰرَىٰٓ=and the Christians | أَوْلِيَآءَ‌ۘ=(as) allies. | بَعْضُهُمْ=Some of them | أَوْلِيَآءُ=(are) allies | بَعْضٍ‌ۚ=(to) others. | وَمَن=And whoever | يَتَوَلَّهُم=takes them as allies | مِّنكُمْ=among you, | فَإِنَّهُۥ=then indeed, he | مِنْهُمْ‌ۗ=(is) of them. | إِنَّ=Indeed, | ٱللَّهَ=Allah | لَا=(does) not | يَهْدِى=guide | ٱلْقَوْمَ ٱلظَّـٰلِمِينَ=the wrongdoing people.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 1
+  Failed:   0
+
+⚠️  All verses matched but 1 had diacritics or partial differences.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "In English, *awliyāʾ* is usually translated as *friends* or *allies.* Both are wrong." — The provided word-by-word reference renders أَوْلِيَآءَ directly as "allies," and al-Muyassar uses حلفاءَ وأنصارًا (allies and supporters). Calling "allies" simply *wrong* overclaims. The reflection's *subsequent* elaboration — that the structural-legal depth of *walāʾ* exceeds what modern English "allies" typically conveys — is a legitimate scholarly position; the flat "both are wrong" formulation presents an interpretive preference as lexical fact and cannot be sustained against the reference data as supplied.
+
+- [CANNOT VERIFY FROM PROVIDED DATA] "Al-Tabari (d. 310 AH), in *Jāmiʿ al-Bayān*, narrates the sabab al-nuzūl... including one tradition naming ʿUbāda ibn al-Ṣāmit, who declared himself free from his old ḥilf (alliance) with the **Banū Qaynuqāʿ**" — The sabab al-nuzūl pairing ʿUbāda ibn al-Ṣāmit with ʿAbdullāh ibn Ubayy ibn Salūl appears in the provided al-Baghawi text and is classically attested, so the narrative is not fabricated. However, the specific attribution to al-Tabari's *Jāmiʿ al-Bayān* and the tribal identification "Banū Qaynuqāʿ" cannot be confirmed against the reference data provided here. These are verifiable claims that require cross-check against the primary source before publication; flag for editorial verification, not retraction.
+
+SUMMARY: The reflection's root analysis, *walāʾ* vs. *ṣadāqa*/*birr* distinctions, and structural reading of *baʿḍuhum awliyāʾu baʿḍ* are well-grounded in the provided tafsir and lexical data; the only substantive issue is one rhetorical overclaim — "both are wrong" applied to "allies" — where the reference data itself uses that rendering, plus one al-Tabari citation requiring direct primary-source verification.

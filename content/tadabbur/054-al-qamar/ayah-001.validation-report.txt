@@ -1,0 +1,39 @@
+Enhanced Validation Report
+File: content/tadabbur/054-al-qamar/ayah-001.md
+Ayah: 54:1
+Date: 2026-06-09T23:09:08
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ٱقْتَرَبَتِ=Has come near | ٱلسَّاعَةُ=the Hour | وَٱنشَقَّ=and has split | ٱلْقَمَرُ=the moon.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+
+- [MODERATE] "Al-Qurtubi preserves the answer the early community gave. He transmits from Qatadah, from Anas: the Prophet ﷺ taught that most of the dunya has already elapsed." — The provided Qurtubi text is truncated at "اقتربت : أي قربت مثل أزفت الآزفة على م" and does not reach this narration or isnād. The claim is stated as a documented transmission with a specific chain (Qatadah ← Anas), but that chain cannot be verified from the reference data supplied. The underlying idea ("most of time has passed") is attested in Islamic tradition via other routes, but presenting it as a Qurtubi-confirmed chain is an overstatement given the evidence in hand.
+
+PASSES (confirmed against reference data):
+
+- al-Jalalayn for Abu Qubays and Qayqaʿan geography: confirmed — "انفلق فلقتين على أبي قبيس وقيقعان"
+- al-Baghawi transmitting via al-Bukhari's chain from Anas: confirmed — the full isnād is visible in the Baghawi excerpt back to Muhammad ibn Ismaʿil (al-Bukhari)
+- "Ishhadū — Bear witness" attributed to the Jalalayn: confirmed — "فقال (اشهدوا)"
+- al-Jalalayn gloss as "qurbat al-qiyāmah": confirmed — "قربت القيامة"
+- al-Muyassar as "danati-l-qiyāmah": confirmed — "دنت القيامة"
+- Al-Qurtubi connecting iqtarabat to azifati-l-āzifah: confirmed — "اقتربت : أي قربت مثل أزفت الآزفة"
+- Form VIII (iqtaraba) for ق-ر-ب and Form VII (inshaqqa) for ش-ق-ق: morphologically correct
+- taḥqīq device (past tense used for certain future): legitimate classical balāghah category, accurately described
+- 21:1 quoted as "iqtaraba li-n-nāsi ḥisābuhum": Arabic correct
+
+SUMMARY: One narration is stated with a specific isnād (Qurtubi → Qatadah → Anas) that the truncated reference data cannot confirm; all other linguistic, morphological, and attribution claims are accurate and well-grounded.

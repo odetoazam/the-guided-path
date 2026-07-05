@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/064-at-taghabun/ayah-015.md
+Ayah: 64:15
+Date: 2026-06-13T10:03:00
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّمَآ=Only | أَمْوَٲلُكُمْ=your wealth | وَأَوْلَـٰدُكُمْ=and your children | فِتْنَةٌ‌ۚ=(are) a trial, | وَٱللَّهُ=and Allah - | عِندَهُۥٓ=with Him | أَجْرٌ=(is) a reward | عَظِيمٌ=great.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE] "Among the narrations preserved in classical commentary, this addressed men in Makkah who longed to emigrate to the Prophet ﷺ but whose wives and children clung to them" — This is the standard sabab al-nuzūl narration for 64:14 (transmitted via Ibn ʿAbbās in Tirmidhī and others) and is accurately hedged as "among the narrations." The provided tafsir excerpts do not cover 64:14 directly, so it cannot be confirmed from the supplied data — but the phrasing is epistemically honest and the narration itself is well-attested in the broader classical corpus. No fabrication here.
+- [NOTE] The *taghābun* marketplace gloss ("one trader walks away having made the deal of his life, the other having been fleeced") is a reasonable rendering of the Form VI mutual-action root. Classical usage supports it (ghabn = shortchanging in a transaction; yawm al-taghābun = the day mutual advantage/disadvantage is disclosed). Not overstated.
+
+CLAIMS POSITIVELY VERIFIED:
+- **Innamā as qasr (restriction)** — linguistically established; the "wall-builder" framing is an accurate pedagogical description of the hasr function.
+- **The min / no-min distinction between 64:14 and 64:15** — directly confirmed by al-Baghawi: *"لما ذكر الله العداوة أدخل فيه 'من' للتبعيض... ولم يذكر 'من' في قوله: 'إنما أم[والكم]'"* — the reflection's entire structural argument rests on this, and the primary source explicitly makes the same observation.
+- **Fitnah = balāʾ wa-ikhtibār (trial and test)** — all four supplied tafsirs (Jalālayn, Muyassar, Qurṭubī, Baghawī) agree verbatim on this gloss. The reflection's framing of fitnah as "exam" rather than condemnation is consistent with the tafsir tradition.
+- **Arabic text** — matches the authenticated Arabic provided exactly.
+
+SUMMARY: The reflection's core linguistic arguments (innamā as restriction, the structurally significant absence of min versus 64:14) are directly corroborated by the classical sources provided, and all tafsir-grounded claims fall within attested positions.

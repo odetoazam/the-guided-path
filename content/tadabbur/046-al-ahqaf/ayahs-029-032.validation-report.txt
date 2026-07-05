@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/046-al-ahqaf/ayahs-029-032.md
+Ayah: 46:29
+Date: 2026-06-08T06:42:24
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَإِذْ=And when | صَرَفْنَآ=We directed | إِلَيْكَ=to you | نَفَرًا=a party | مِّنَ=of | ٱلْجِنِّ=the jinn, | يَسْتَمِعُونَ=listening | ٱلْقُرْءَانَ=(to) the Quran. | فَلَمَّا=And when | حَضَرُوهُ=they attended it, | قَالُوٓاْ=they said, | أَنصِتُواْ‌ۖ=`Listen quietly.` | فَلَمَّا=And when | قُضِىَ=it was concluded, | وَلَّوْاْ=they turned back | إِلَىٰ=to | قَوْمِهِم=their people | مُّنذِرِينَ=(as) warners.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "صَرَفْنَآ... from the root ṣ-r-f (صرف)... to turn something, to divert it, to redirect its course" — Jalalayn confirms with "أملنا" (We inclined/directed); the root's lexical range (winds, fortunes, currency exchange) is standard in Lisān al-ʿArab and uncontested here.
+- [PASS] "Al-Baghawi, among the commentators, places the broader episode... after the death of Abu Talib, when he had gone out to Ta'if" — Baghawi excerpt provided confirms exactly this: "لما مات أبو طالب خرج رسول الله ﷺ وحده إلى الطائف يلتمس من ثقيف النصر."
+- [PASS] "a small company" for نَفَرًا — Jalalayn specifies "سبعة أو تسعة" (seven or nine); "small company" is accurate.
+- [PASS] "The jinn are not the subject of the first verb" — grammatically sound: نَفَرًا is the object of صَرَفْنَآ, with Allah as subject; the reflection's structural point holds.
+- [PASS] "from audience to messenger in a single breath" — directly supported by فَلَمَّا قُضِىَ وَلَّوْاْ إِلَىٰ قَوْمِهِم مُّنذِرِينَ and Muyassar's "رجعوا إلى قومهم منذرين ومحذرين."
+- [PASS] Qurtubi contrast framing (jinn believed, Quraysh turned away) — Qurtubi excerpt confirms: "هذا توبيخ لمشركي قريش، أي: إن الجن سمعوا القرآن فآمنوا به... وأنتم معرضون مصرون على الكفر." The reflection's core rhetorical frame is sound. Note: the excerpt cuts off mid-attribution ("Al-Qurtubi captures it precisely") — this is a truncation artifact, not an error.
+
+SUMMARY: All verifiable claims in this reflection are grounded in or consistent with the provided classical tafsir and word-by-word data; no errors detected.

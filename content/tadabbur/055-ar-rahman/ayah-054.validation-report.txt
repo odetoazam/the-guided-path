@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/055-ar-rahman/ayah-054.md
+Ayah: 55:54
+Date: 2026-06-12T00:30:55
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: مُتَّكِــِٔينَ=Reclining | عَلَىٰ=on | فُرُشِۭ=couches, | بَطَآئِنُهَا=(whose) inner linings | مِنْ=(are) of | إِسْتَبْرَقٍ‌ۚ=brocade, | وَجَنَى=and (the) fruit | ٱلْجَنَّتَيْنِ=(of) both the gardens | دَانٍ=(is) near.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "the most precious fabric named in the entire Qur'an" (applied to istabraq in the introduction's hook) — Classical tafsir unanimously defines istabraq as the **coarser** of the two jannah fabrics. Jalalayn: «ما غلظ من الديباج وخشن» (what is thick and rough of brocade); Baghawi repeats the same verbatim. The same sources note the *outer* faces (ẓawāhir) are of **sundus** (fine silk), which classical scholarship treats as the more refined material. Calling istabraq "the most precious fabric in the entire Qur'an" inverts the classical hierarchy and contradicts the very tafsir tradition the article's main argument rests on.
+
+- [MODERATE] "the Prophet ﷺ called [Ar-Rahman] 'the beauty of the Qur'an'" — not verifiable from the reference data provided, and the designation most commonly cited in hadith literature for Sūrat ar-Raḥmān is *ʿarūs al-Qurʾān* (bride of the Qur'an), a report with acknowledged isnād weakness. "Beauty of the Qur'an" maps more closely to traditions about Sūrat Yāsīn. The attribution should be verified against a hadith source or the phrasing adjusted to the attested designation.
+
+ITEMS THAT PASS:
+- Form VIII identification for *muttaki'īn* and root *w-k-'*: correct
+- *baṭā'in* derived from root *b-ṭ-n*: correct
+- The core theological argument (linings described, outer surface withheld) is directly supported by the Ibn Masʿūd / Abū Hurayra report quoted in both Qurtubi and Baghawi: «هذه البطائن فما ظنكم بالظواهر؟»
+- *dān* glossed as "near/accessible": consistent with Jalalayn («يناله القائم والقاعد والمضطجع»)
+- The 31-occurrence count for the refrain: accurate
+
+SUMMARY: The reflection's central exegetical argument is classically grounded and well-executed, but two moderate errors require correction before publication — the istabraq superlative inverts the coarse/fine distinction that underlies the very argument being made, and the hadith attribution needs verification or replacement with the attested *ʿarūs al-Qurʾān* designation.

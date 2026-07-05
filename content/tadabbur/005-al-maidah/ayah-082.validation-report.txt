@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/005-al-maidah/ayah-082.md
+Ayah: 5:82
+Date: 2026-05-14T22:59:35
+
+[1] Arabic text: ❌ fail
+    → Arabic text mismatch. API: "۞ لَتَجِدَنَّ أَشَدَّ ٱلنَّاسِ عَدَٰوَةًۭ لِّلَّذِينَ ءَامَنُوا۟ ٱلْيَهُودَ وَٱل..."
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ۞ لَتَجِدَنَّ=Surely you will find | أَشَدَّ=strongest | ٱلنَّاسِ=(of) the people | عَدَٲوَةً=(in) enmity | لِّلَّذِينَ=to those who | ءَامَنُواْ=believe, | ٱلْيَهُودَ=the Jews | وَٱلَّذِينَ=and those who | أَشْرَكُواْ‌ۖ=(are) polytheists; | وَلَتَجِدَنَّ=and surely you will find | أَقْرَبَهُم=nearest of them | مَّوَدَّةً=(in) affection | لِّلَّذِينَ=to those who | ءَامَنُواْ=believe, | ٱلَّذِينَ=those who | قَالُوٓاْ=say, | إِنَّا=`We | نَصَـٰرَىٰ‌ۚ=(are) Christians.` | ذَٲلِكَ=That (is) | بِأَنَّ=because | مِنْهُمْ=among them | قِسِّيسِينَ=(are) priests | وَرُهْبَانًا=and monks, | وَأَنَّهُمْ=and that they | لَا=(are) not | يَسْتَكْبِرُونَ=arrogant.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 1
+  Failed:   0
+
+⚠️  All verses matched but 1 had diacritics or partial differences.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "the classical narrations record that he asked them whether the words they recited and the words his prophet ʿĪsā received did not come from the same niche of light" — The standard sira narration (Ibn Ishaq via Ibn Hisham) has Najashi draw a line on the ground and say the gap between what Jaʿfar recited and what ʿĪsā brought is no greater than that mark. The "niche of light" (mishkāt) framing is not attested in the standard narration; it appears to conflate sira detail with Quranic imagery from 24:35. Presenting this specific formulation as what "classical narrations record" overstates the textual evidence.
+
+- [MODERATE] "Classical commentators (al-Tabari, al-Qurtubi, Ibn Kathir, al-Razi) tie the verse to the encounter with Najashi" — The Najashi asbāb al-nuzūl connection is broadly attested, but cannot be confirmed for all four named authorities from the provided excerpts. The provided Qurtubi and Baghawi passages make no mention of Najashi; Baghawi's excerpt instead explicitly limits the verse's scope ("لم يرد به جميع النصارى"), a qualification the reflection does not engage in the portion shown.
+
+- [PASS] The grammatical observation that *qālū innā naṣārā* documents a self-claim without ratifying it is linguistically sound and directly supported by the Arabic text.
+
+- [PASS] The mawadda / walāʾ distinction is accurate; both terms appear in Al-Māʾidah and carry distinct semantic registers.
+
+- [PASS] The asymmetric ʿillah analysis — reasons given (bi-anna) for the mawadda side, no corresponding ʿillah for the ʿadāwa side — is textually accurate and all four tafsir sources confirm the bi-anna construction.
+
+- [PASS] "priest-scholars" for *qissīsīn* is a defensible composite: the word-by-word gives "priests"; Jalalayn and Muyassar both gloss the term as *ʿulamāʾ* (scholars). The synthesis is honest.
+
+SUMMARY: The reflection's linguistic and structural analysis is well-grounded; the single actionable issue is the "niche of light" characterization of the Najashi narration, which embellishes beyond what standard sira sources record and should be corrected or attributed to a specific secondary source if one exists.

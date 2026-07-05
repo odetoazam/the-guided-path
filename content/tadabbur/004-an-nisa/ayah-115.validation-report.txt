@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/004-an-nisa/ayah-115.md
+Ayah: 4:115
+Date: 2026-06-24T07:36:40
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَمَن=And whoever | يُشَاقِقِ=opposes | ٱلرَّسُولَ=the Messenger | مِنۢ بَعْدِ=after | مَا=what | تَبَيَّنَ=(has) become clear | لَهُ=to him | ٱلْهُدَىٰ=(of) the guidance, | وَيَتَّبِعْ=and he follows | غَيْرَ=other than | سَبِيلِ=(the) way | ٱلْمُؤْمِنِينَ=(of) the believers, | نُوَلِّهِۦ=We will turn him | مَا=(to) what | تَوَلَّىٰ=he (has) turned | وَنُصْلِهِۦ=and We will burn him | جَهَنَّمَ‌ۖ=(in) Hell | وَسَآءَتْ=and evil it is | مَصِيرًا=(as) a destination.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR] "Form III, the *mufāʿala* pattern" — *mufāʿala* is technically the masdar/verbal noun of Form III; the verb pattern itself is named *fāʿala*. This is standard English-medium Arabic pedagogy (Madinah books, etc.) and does not mislead. Not a flag.
+
+All material claims check out against the reference data:
+
+- **Arabic text**: Matches the authentic Arabic exactly ✓
+- **Asbab al-nuzul**: Attribution to al-Qurtubī and al-Baghawī is accurate. Al-Qurtubī: *"وهرب إلى مكة وارتد"* (fled to Mecca and apostatized). Al-Baghawī: *"فهرب إلى مكة وارتد عن الدين"* — both confirm the flight to Mecca and apostasy ✓
+- **Name "Ṭuʿma ibn Ubayriq"**: Al-Baghawī gives the full name *طعمة بن أبيرق*; al-Qurtubī uses *ابن أبيرق* — reflection's attribution is correct ✓
+- **Root ش-ق-ق meaning "to split/cleave"**: Lexically sound; confirmed by Lisān al-ʿArab (cited in frontmatter). *shaqqa-l-arḍ* appears in 80:26 (فَشَقَقْنَا ٱلْأَرْضَ شَقًّا) ✓
+- **yushāqiq as Form III**: Morphology note confirms *yushāqiq (W2, $qq, Form III)*; Form III imperfect *yufāʿilu* pattern holds ✓
+- **nuwallihi / tawallā verbal echo**: Frontmatter confirms both from root *w-l-y* (W14 Form II, W16 Form V) — the "sentence built from the crime" observation is linguistically sound ✓
+- **Form III expressing mutual/reciprocal action**: Valid pedagogical framing; the kātaba/qātala examples are standard and correct ✓
+
+SUMMARY: All linguistic and historical claims are accurate and well-grounded in the reference data; no errors warranting a CRITICAL or MODERATE flag.

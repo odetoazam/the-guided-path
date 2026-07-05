@@ -1,0 +1,30 @@
+Enhanced Validation Report
+File: content/tadabbur/081-at-takwir/ayahs-015-018.md
+Ayah: 81:15
+Date: 2026-06-18T14:59:22
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَلَآ=But nay! | أُقْسِمُ=I swear | بِٱلْخُنَّسِ=by the retreating planets,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR, NO FLAG] "retreating stars" used throughout translation and body — the provided word-by-word reference gives "retreating planets," and al-Qurṭubī specifies the five bright planets (Saturn, Jupiter, Mercury, Mars, Venus). Al-Muyassar does use النجوم (stars/celestial bodies) more broadly, so this is a longstanding interpretive split rather than an error. Not flaggable as MODERATE since the broader reading has classical precedent. Worth a footnote, not a correction.
+- [INTERPRETIVE, NO FLAG] "Many read the lā as pushing back against something unspoken — the doubt, the dismissal..." — this rhetorical elaboration on the lā zāʾida is not present in the three provided tafsir sources, which only establish the grammatical point. However, the reflection phrases it explicitly as "many read" and "on this reading," which correctly marks it as an interpretation rather than a documented fact. Not an overstating issue.
+- All three lā zāʾida citations are accurate and directly supported: al-Jalālayn (لا زائدة), al-Baghawī (لا زائدة، معناه: أقسم بالخنس), al-Qurṭubī (كما تقدم). No inversion or misattribution.
+- Form IV identification for أُقْسِمُ (root ق-س-م, pattern أُفْعِلُ) is morphologically correct.
+- The Arabic text quoted in the frontmatter matches the authentic Arabic provided.
+
+SUMMARY: The reflection is philologically sound and scholastically honest — lā zāʾida is correctly attributed to three tafsir sources with accurate quotes, the verb form is right, and interpretive extensions are properly hedged as readings rather than documented positions.

@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/109-al-kafirun/ayahs-001-006.md
+Ayah: 109:1
+Date: 2026-06-20T20:38:52
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: قُلْ=Say, | يَـٰٓأَيُّهَا ٱلْكَـٰفِرُونَ=`O disbelievers!
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "al-Baghawi names a group of Quraysh among them al-Walid ibn al-Mughira and al-ʿAs ibn Wa'il" — Confirmed against the Baghawi excerpt: "والعاص بن وائل، والوليد بن المغيرة" appear explicitly. The reflection cites two of the six names Baghawi lists; this is selective but not incorrect.
+- [PASS] "You worship our gods for a year, we'll worship your God for a year" — Confirmed directly from Baghawi: "تعبد آلهتنا سنة ونعبد إلهك سنة". Accurate paraphrase.
+- [PASS] "according to one major tradition" / "one of the major narrations" — Appropriate hedge. The Qurtubi excerpt confirms scholarly disagreement (Makkan per Ibn Masʿud, Hasan, Ikrimah; Madani in one opinion of Ibn Abbas and Qatadah). Framing as one tradition is correct.
+- [PASS] Root analysis of قُلْ as qwl (قول), bare imperative, "plain speech" — linguistically unimpeachable.
+- [PASS] Verb/active-participle asymmetry claim (aʿbudu as action vs. ʿābid as settled identity) — the Arabic text of ayahs 2–5 supports this exactly; it is a standard observation in Arabic morphology and does not exceed what the forms warrant.
+- [NOTE] The Baghawi text also includes "ونشركك في أمرنا كله" (we'll make you a partner in all our affairs) — a wealth/power dimension the reflection omits entirely. Not an error; contextual enrichment the reader misses, but no false claim is made.
+
+**Scope caveat:** Reference word-by-word data covers only 109:1. Ayahs 2–6 (the verb/participle analysis, the closing *dīn* verse) are validated against the Arabic text and standard morphology only — not against the provided tafsir excerpts.
+
+SUMMARY: The reflection makes no attributional inversions, root errors, or unsupported factual claims; all verifiable assertions match the Baghawi source and the Arabic morphological record.

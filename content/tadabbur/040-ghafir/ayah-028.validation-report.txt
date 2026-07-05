@@ -1,0 +1,24 @@
+Enhanced Validation Report
+File: content/tadabbur/040-ghafir/ayah-028.md
+Ayah: 40:28
+Date: 2026-06-06T07:21:26
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَقَالَ=And said | رَجُلٌ=a man, | مُّؤْمِنٌ=believing, | مِّنْ=from | ءَالِ=(the) family | فِرْعَوْنَ=(of) Firaun | يَكْتُمُ=who conceal(ed) | إِيمَـٰنَهُۥٓ=his faith, | أَتَقْتُلُونَ=`Will you kill | رَجُلاً=a man | أَن=because | يَقُولَ=he says, | رَبِّىَ=`My Lord | ٱللَّهُ=(is) Allah,` | وَقَدْ=and indeed | جَآءَكُم=he has brought you | بِٱلْبَيِّنَـٰتِ=clear proofs | مِن=from | رَّبِّكُمْۖ=your Lord? | وَإِن=And if | يَكُ=he is | كَـٰذِبًا=a liar, | فَعَلَيْهِ=then upon him | كَذِبُهُۥۖ=(is) his lie; | وَإِن=and if | يَكُ=he is | صَادِقًا=truthful, | يُصِبْكُم=(there) will strike you | بَعْضُ=some (of) | ٱلَّذِى=(that) which | يَعِدُكُمْۖ=he threatens you. | إِنَّ=Indeed, | ٱللَّهَ=Allah | لَا=(does) not | يَهْدِى=guide | مَنْ=(one) who | هُوَ=[he] | مُسْرِفٌ=(is) a transgressor, | كَذَّابٌ=a liar.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: ERROR
+ISSUES:
+- Could not run Claude check: Command failed: claude -p --system-prompt "You are a rigorous Islamic scholarship validator for Ayah
+SUMMARY: Claude semantic check failed

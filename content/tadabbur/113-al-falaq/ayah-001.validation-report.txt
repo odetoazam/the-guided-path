@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/113-al-falaq/ayah-001.md
+Ayah: 113:1
+Date: 2026-06-20T21:14:19
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: قُلْ=Say, | أَعُوذُ=`I seek refuge | بِرَبِّ=in (the) Lord | ٱلْفَلَقِ=(of) the dawn,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [UNVERIFIABLE — not an error] "The Arabs used a related form, *ʿawdha*, for a child who clings tightly to its mother, and for the plant that grows pressed up against the trunk of a great tree" — this is a lexical claim from Lisān al-ʿArab / Mufradāt al-Rāghib, neither of which was supplied as reference data. The claim is standard in Islamic linguistic commentary and the root meaning of shelter/refuge is confirmed by the word-by-word data, but the specific derived form *ʿawdha* with the child-and-mother imagery cannot be verified from what was provided. Not flagging as an error — flagging as outside scope of supplied data.
+
+Verified clean:
+- **Arabic text**: matches authentic supplied text exactly ✓
+- **Translation** ("the Lord of the daybreak"): confirmed by Jalālayn ("الصبح") and Muyassar ("الصبح") ✓
+- **al-Falaq = daybreak/dawn**: both Jalālayn and Muyassar explicitly gloss it as الصبح ✓
+- **Muʿawwidhatān**: Qurtubi uses "المعوذتين" — reflection's rendering "the two surahs of seeking refuge" is accurate ✓
+- **Sorcery narration attributed to "al-Baghawī from Ibn ʿAbbās and ʿĀʾisha"**: Baghawi excerpt opens "قال ابن عباس ، وعائشة - رضي الله عنهما -" and names Labīd ibn al-Aʿṣam — attribution is precise ✓
+- **Makkī/Madanī positions**: reflection lists "al-Ḥasan, ʿIkrima, ʿAṭāʾ and Jābir" as Makkan — Qurtubi says exactly "الحسن وعكرمة وعطاء وجابر"; reflection lists Ibn ʿAbbās and Qatāda as Madanī — Qurtubi says "أحد قولي ابن عباس وقتادة" ✓; Baghawi's Madanī position confirmed by "مدنية" at the head of his tafsir ✓
+- **aʿūdhu as muḍāriʿ (ongoing/continuous)**: grammatically correct, consistent with Leeds Corpus morphology noted in frontmatter ✓
+- **Hedge language on the sorcery occasion**: "I want to be careful here: this is one of the transmitted occasions" — appropriate epistemic framing, does not over-claim ✓
+
+SUMMARY: Every attributable claim in this reflection — Arabic text, translation, tafsir glosses on al-falaq, scholar attribution for the sorcery narration, and the Makkī/Madanī scholarly positions — maps precisely onto the supplied classical sources with no inversions, fabrications, or overstated positions detected.

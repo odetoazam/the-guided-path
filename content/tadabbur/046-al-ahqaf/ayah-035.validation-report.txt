@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/046-al-ahqaf/ayah-035.md
+Ayah: 46:35
+Date: 2026-06-08T05:50:43
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَٱصْبِرْ=So be patient, | كَمَا=as | صَبَرَ=had patience | أُوْلُواْ ٱلْعَزْمِ=those of determination | مِنَ=of | ٱلرُّسُلِ=the Messengers, | وَلَا=and (do) not | تَسْتَعْجِل=seek to hasten | لَّهُمْ‌ۚ=for them. | كَأَنَّهُمْ=As if they had, | يَوْمَ=(the) Day | يَرَوْنَ=they see | مَا=what | يُوعَدُونَ=they were promised, | لَمْ=not | يَلْبَثُوٓاْ=remained | إِلَّا=except | سَاعَةً=an hour | مِّن=of | نَّهَارِۭ‌ۚ=a day. | بَلَـٰغٌ‌ۚ=A clear Message, | فَهَلْ=But will | يُهْلَكُ=(any) be destroyed | إِلَّا=except | ٱلْقَوْمُ=the people - | ٱلْفَـٰسِقُونَ=the defiantly disobedient?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR — translation choice, not error] "the people who break faith" renders **الْقَوْمُ الْفَٰسِقُونَ** — the word-by-word gives "defiantly disobedient" and the classical sources carry no covenant-violation gloss on this word here. "Break faith" is a literary narrowing of *fisq* (stepping outside the bounds of obedience). It is not a mistranslation, but it is more specific than the lexicon supports and could mislead a reader into thinking *fasiq* here refers uniquely to oath-breakers rather than the generically disobedient.
+
+- [MINOR — translation choice, not error] **بَلَـٰغٌ** rendered as "A clear delivery." The word means conveyance / a message conveyed; "delivery" is defensible from the root بلغ, but the classical sources (Muyassar: *هذا بلاغ لهم ولغيرهم*) frame it as "this is a conveyance for them and others" — i.e., a sufficient public declaration. "Clear" is not lexically present in بلاغ itself (that would be *mubīn*); the adjective appears to be inferred from context rather than the word. Not wrong, but slightly augmented.
+
+- [VERIFY IF CONTINUATION EXISTS] The claim that **لَا تَسْتَعْجِل** encodes the temptation to *want* punishment to come (rather than mere impatience) is grounded — Jalalayn explicitly states *قيل كأنه ضجر منهم فأحب نزول العذاب* ("it was said it was as if he was weary of them and wished for the punishment to descend"). The reflection's framing is supported.
+
+- All linguistic claims about the imperative/perfect tense pairing (اصبر / صبر), the root صبر, كَمَا as "just as," and the historical identification of the people of ʿĀd with al-aḥqāf are accurate and consistent with the reference data.
+
+SUMMARY: No critical or moderate errors in the provided excerpt; two translation choices slightly over-specify the source words but are within defensible literary range and do not misrepresent the ayah's meaning.

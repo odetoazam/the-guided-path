@@ -1,0 +1,29 @@
+Enhanced Validation Report
+File: content/tadabbur/057-al-hadid/ayahs-012-015.md
+Ayah: 57:12
+Date: 2026-06-12T11:48:43
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَوْمَ=(On the) Day | تَرَى=you will see | ٱلْمُؤْمِنِينَ=the believing men | وَٱلْمُؤْمِنَـٰتِ=and the believing women, | يَسْعَىٰ=running, | نُورُهُم=their light | بَيْنَ أَيْدِيهِمْ=before them | وَبِأَيْمَـٰنِهِم=and on their right, | بُشْرَٮٰكُمُ=`Glad tidings for you | ٱلْيَوْمَ=this Day - | جَنَّـٰتٌ=gardens | تَجْرِى=flowing | مِن=from | تَحْتِهَا=underneath it | ٱلْأَنْهَـٰرُ=the rivers, | خَـٰلِدِينَ=abiding forever | فِيهَا‌ۚ=therein. | ذَٲلِكَ=That | هُوَ=[it] (is) | ٱلْفَوْزُ=the success | ٱلْعَظِيمُ=the great.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+**VERDICT: PASS**
+
+**ISSUES:**
+- [PASS] `"يَسْعَىٰ نُورُهُم" — "their light **races**"` — Root س-ع-ى is correctly identified. The word-by-word reference gives "running"; the reflection's "races" is within legitimate semantic range. Al-Muyassar, al-Baghawi, and al-Qurtubi all place this explicitly on the Ṣirāṭ (`على الصراط`), which the reflection renders as "vast darkness with people moving." Jalalayn makes no Ṣirāṭ restriction — so the broader framing is not an error, but the Ṣirāṭ reading is the dominant classical position. The reflection appears to be building toward it (text cuts off mid-sentence referencing al-Hasan via al-Qurtubi, which is precisely where al-Qurtubi records: `يمضي على الصراط في قول الحسن`). No mismatch — incomplete, not wrong.
+- [PASS] `"This is the same root used for the *running* between Safa and Marwa"` — The Ḥajj saʿy and yas'ā in this ayah share root س-ع-ى. The connection is lexically sound and unremarkable.
+- [PASS] Front-matter morphology: `naqtabis Form VIII` (ق-ب-س → اقتبس, Form VIII iftaʿala ✓), `tarabbasa Form V` (ر-ب-ص, Form V tafaʿʿala ✓), `irtaba Form VIII` (ر-ي-ب → ارتاب ✓). All three identifications are correct.
+- [PASS] Al-Hasan al-Baṣrī attribution routed through al-Qurtubī — reference data confirms: `في قول الحسن`. Attribution chain is accurate.
+
+**SUMMARY:** The visible 8,000 characters contain no factual errors; root analyses, form identifications, translations, and scholar attributions are all verifiable against the provided data.

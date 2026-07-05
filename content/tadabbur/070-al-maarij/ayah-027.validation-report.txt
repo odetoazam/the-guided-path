@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/070-al-maarij/ayah-027.md
+Ayah: 70:27
+Date: 2026-06-15T03:08:43
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَٱلَّذِينَ=And those who | هُم=[they] | مِّنْ=of | عَذَابِ=(the) punishment | رَبِّهِم=(of) their Lord | مُّشْفِقُونَ=(are) fearful -
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE — unverifiable from provided data] "And he explains *why* the word carries both at once: because the one who is mushfiq loves the one he is concerned about, and fears for him at the same time" — this elaboration is attributed to al-Rāghib's *Mufradāt* but the provided reference set contains no *Mufradāt* excerpt to confirm it. The primary definition (*ʿināyatun makhlūṭatun bi-khawf*) is a well-documented classical citation; the "loves the one he fears" extension appears in standard *Mufradāt* commentary and is consistent with the lexical relationship between *ishfāq* and *shafaqah*, but a validator working only from the supplied sources cannot independently confirm the attribution. Recommend spot-checking the printed Mufradāt entry before publication.
+
+All verifiable claims check out:
+- Arabic text matches the authentic form exactly.
+- Translation ("apprehensive") faithfully renders the classical glosses خائفون without overstating.
+- Morphological note (Form IV active participle *mushfiqūn* ← *ashfaqa min*) is correct; no root or verb-form error.
+- *Shafaq* = twilight glow / *shafaqah* = tender compassion from root *sh-f-q* is lexically attested.
+- Isha timing tied to the disappearance of the red *shafaq* is the dominant and well-sourced fiqh position.
+- Fear vocabulary taxonomy (*khawf*, *khashyah*, *wajal*, *jazaʿ*) correctly distinguishes attested terms.
+- Surah structural claims (70:19–21 diagnosis → 70:22 exception → 70:27 inner trait) are textually accurate.
+- No scholar attribution is inverted; no position is overstated as consensus that is actually contested.
+
+SUMMARY: The reflection is linguistically rigorous and theologically sound for the verifiable portion reviewed; the single annotation concerns an elaborative detail attributed to al-Rāghib that exceeds the supplied reference data and warrants a direct Mufradāt spot-check before the file is marked validated.

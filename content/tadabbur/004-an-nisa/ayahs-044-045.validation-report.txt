@@ -1,0 +1,42 @@
+Enhanced Validation Report
+File: content/tadabbur/004-an-nisa/ayahs-044-045.md
+Ayah: 4:44
+Date: 2026-06-25T06:01:52
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَلَمْ=Did not | تَرَ=you see, | إِلَى=[towards] | ٱلَّذِينَ=those who | أُوتُواْ=were given | نَصِيبًا=a portion | مِّنَ=of | ٱلْكِتَـٰبِ=the Book, | يَشْتَرُونَ=purchasing | ٱلضَّلَـٰلَةَ=[the] error | وَيُرِيدُونَ=and wishing | أَن=that | تَضِلُّواْ=you stray | ٱلسَّبِيلَ=(from) the way?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No errors found in the portion reviewed.
+
+Specific checks performed:
+
+**Historical attribution**: "Al-Qurtubi and al-Baghawi place these verses among the Jewish communities of Madinah" — al-Qurtubi explicitly: *نزلت في يهود المدينة وما والاها*; al-Baghawi: *يعني: يهود المدينة*. ✓
+
+**Ibn ʿAbbās / Ibn Isḥāq attribution split**: The reflection correctly assigns the Rifāʿa ibn Zayd tongue-twisting narrative to *al-Baghawi via Ibn ʿAbbās* and separately names *al-Qurtubi via Ibn Isḥāq*. Al-Baghawi's text reads: *قال ابن عباس... نزلت في رفاعة بن زيد ومالك بن دخشم، كان إذا تكلم رسول الله... لويا بألسنتهما وعاباه* — attribution is accurate. ✓ (Note: al-Baghawi names *two* figures — Rifāʿa AND Mālik ibn Dukhshum — the reflection says "figures like Rifāʿa ibn Zayd," which is appropriately hedged.)
+
+**Root r-ʾ-y for تَرَ**: Correct. ✓
+
+**al-Muyassar renders *alam tara* as "do you not know"**: The reflection states this and it is confirmed: *ألم تعلم -أيها الرسول-*. ✓
+
+**"The root for knowledge appears one verse later, in *aʿlam*"**: Verse 45 (within the declared ayah range) contains *وَٱللَّهُ أَعْلَمُ بِأَعْدَآئِكُمْ*. ✓
+
+**Commerce metaphor (yashtarūna-ḍ-ḍalāla)**: Grounded in all four sources — al-Jalalayn: *يشترون الضلالة بالهدى*; al-Baghawi: *يشترون يستبدلون الضلالة يعني بالهدى*. ✓
+
+**Baṣīra concept**: Invoked as a recognized Islamic theological concept, not attributed to a specific classical source in the provided data. This is an interpretive extension but well within established usage — not a misattribution.
+
+SUMMARY: Every verifiable factual claim — historical context, scholarly attributions, morphological roots, and the al-Muyassar rendering — maps cleanly to the supplied reference data with no inversions or fabrications.

@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/047-muhammad/ayah-016.md
+Ayah: 47:16
+Date: 2026-06-08T11:14:31
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَمِنْهُم=And among them | مَّن=(are some) who | يَسْتَمِعُ=listen | إِلَيْكَ=to you, | حَتَّىٰٓ=until | إِذَا=when | خَرَجُواْ=they depart | مِنْ=from | عِندِكَ=you, | قَالُواْ=they say | لِلَّذِينَ=to those who | أُوتُواْ=were given | ٱلْعِلْمَ=the knowledge, | مَاذَا=`What | قَالَ=has he said | ءَانِفًا‌ۚ=just now?` | أُوْلَـٰٓئِكَ=Those - | ٱلَّذِينَ=(are) the ones | طَبَعَ ٱللَّهُ=Allah has set a seal | عَلَىٰ=upon | قُلُوبِهِمْ=their hearts | وَٱتَّبَعُوٓاْ=and they follow | أَهْوَآءَهُمْ=their desires.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Al-Baghawi tells us the Prophet ﷺ would, in these sermons, name the disease of hypocrisy and expose it — and these men sat there and heard themselves described" — overstates the provided al-Baghawi excerpt. Al-Baghawi says only that they listened *"فلا يعونه ولا يفهمونه، تهاونًا به وتغافلًا"* (they did not absorb it or understand it, out of negligence and feigned ignorance). The claim that the Prophet specifically named hypocrisy in a way that made them hear themselves described is an interpretive embellishment attributed to al-Baghawi that is not in the provided reference. It may be supported by other hadith or sirah material, but it cannot be sourced to the al-Baghawi excerpt here.
+
+CONFIRMED ACCURATE (for completeness):
+- Form VIII analysis of *yastamiʿu* (يَسْتَمِعُ): Correct. Pattern is *yaftaʿilu* with the Form VIII *tāʾ* inserted after the first radical (س), yielding deliberate/attentive listening vs. plain Form I *yasmaʿu*. The semantic characterization (reflexive, effortful, self-directed) is linguistically grounded.
+- Ibn Masʿūd and Ibn ʿAbbās as recipients of the question: Confirmed by al-Jalalayn ("لعلماء الصحابة منهم ابن مسعود وابن عباس").
+- Mockery reading of the question: Confirmed by both al-Jalalayn ("استهزاءً وسخرية") and al-Muyassar ("على سبيل الاستهزاء").
+- ʿAbdullāh ibn Ubayy ibn Salūl attribution: Confirmed by al-Qurtubi.
+- Friday sermon context: Confirmed by al-Jalalayn ("في خطبة الجمعة").
+- *Ānif* as "the beginning/just now": Al-Baghawi confirms "يعني الآن، هو من الائتناف… ائتنفت الأمر أي ابتدأته."
+
+SUMMARY: One moderate attribution error — a narrative detail presented as al-Baghawi's testimony is not in the provided al-Baghawi excerpt; all morphological, translation, and tafsir attributions are otherwise accurate.

@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/076-al-insan/ayahs-027-028.md
+Ayah: 76:27
+Date: 2026-06-18T09:25:02
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّ=Indeed, | هَـٰٓؤُلَآءِ=these | يُحِبُّونَ=love | ٱلْعَاجِلَةَ=the immediate, | وَيَذَرُونَ=and leave | وَرَآءَهُمْ=behind them | يَوْمًا=a Day | ثَقِيلاً=grave.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "al-Qurṭubī also preserves a narration relating it to others who knew the truth and concealed it" — The supplied al-Qurṭubī excerpt identifies *hāʾulāʾi* exclusively as the people of Mecca ("والمراد أهل مكة"), then cuts off mid-sentence with "وقيل: نزلت" without specifying what that second narration concerns. No narration about people who "knew the truth and concealed it" appears in the reference data provided. The claim is presented as an established tafsir position; it may exist in the fuller commentary but cannot be confirmed here and should not be stated this specifically without a direct citation.
+
+No other issues found in the portion submitted:
+- Root attribution for *yuḥibbūna* (ح-ب-ب, Form IV *aḥabba*) is correct.
+- al-Baghawī's identification of *hāʾulāʾi* as كفار مكة is accurately cited.
+- al-Qurṭubī's rebuke framing ("توبيخ وتقريع") is accurate.
+- The translation renders *yawman thaqīlā* as "a heavy Day" — consistent with all four tafsirs (شديد/عسير).
+- The cited cross-references (75:36 *ayaḥsabu*, 77's *waylun* refrain) are accurate.
+- The reflection does not yet engage with the *warāʾahum* directional ambiguity (before them vs. behind them) that al-Baghawī and al-Qurṭubī both note — this is not yet an error since Element Two is cut off, but that point will need handling when the spatial meaning is treated.
+
+SUMMARY: Linguistically and doctrinally sound in what is visible; one al-Qurṭubī attribution is overstated as a documented narration when the reference data does not supply the supporting text.

@@ -1,0 +1,24 @@
+Enhanced Validation Report
+File: content/tadabbur/043-az-zukhruf/ayah-088.md
+Ayah: 43:88
+Date: 2026-06-07T00:55:41
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَقِيلِهِۦ=And his saying, | يَـٰرَبِّ=`O my Lord! | إِنَّ=Indeed, | هَـٰٓؤُلَآءِ=these | قَوْمٌ=(are) a people | لَّا=(who do) not | يُؤْمِنُونَ=believe.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: ERROR
+ISSUES:
+- Could not run Claude check: Command failed: claude -p --system-prompt "You are a rigorous Islamic scholarship validator for Ayah
+SUMMARY: Claude semantic check failed

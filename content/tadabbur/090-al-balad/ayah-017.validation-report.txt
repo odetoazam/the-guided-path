@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/090-al-balad/ayah-017.md
+Ayah: 90:17
+Date: 2026-06-18T19:29:00
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ثُمَّ=Then | كَانَ=he is | مِنَ=of | ٱلَّذِينَ=those who | ءَامَنُواْ=believe | وَتَوَاصَوْاْ=and enjoin each other | بِٱلصَّبْرِ=to patience, | وَتَوَاصَوْاْ=and enjoin each other | بِٱلْمَرْحَمَةِ=to compassion.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical errors found.
+- [PASS] "Al-Jalālayn states it plainly — *thumma* here is *li'l-tartīb al-dhikrī*, ordering by mention, not by time" — Accurate. Jalalayn text reads «وثم للترتيب الذكري» verbatim.
+- [PASS] "Al-Qurṭubī is even more direct: a person does not break through the steep pass...until he is among those who believe — because the condition for the acceptance of righteous deeds is faith. Faith arriving *after* the spending does not retroactively rescue the deed." — Accurate paraphrase of «فإن شرط قبول الطاعات الإيمان بالله. فالإيمان بالله بعد الإنفاق لا ينفع».
+- [PASS] "the sense is that *at the time of the climbing*, he was already among those who believed" — Matches Jalalayn's «كان وقت الاقتحام من الذين آمنوا» precisely.
+- [PASS] Hypocrites quotation attributed to Qurtubi — Consistent with the Qurtubi source, which opens that citation («قال الله تعالى في المنافقين: وما منعهم أن تقبل من...»); the quoted verse (9:54) is the standard completion of that passage.
+- [PASS] Morphology note: آمَنُوا Form IV (Amn), تَوَاصَوْا Form VI reciprocal (wSy), كَانَ perfect (kwn) — All three verb form identifications are correct.
+- [PASS] The interpretive move that *thumma* signals rank/elevation (faith as foundation beneath the deeds) rather than mere temporal sequence — Supported by both Jalalayn's tartīb dhikrī framing and Qurtubi's explicit شرط (prerequisite) framing. Not an overstatement.
+
+SUMMARY: The validated portion of this reflection cites Jalalayn and Qurtubi accurately, applies tartīb dhikrī correctly, and draws no conclusions that exceed what the provided tafsir sources warrant.

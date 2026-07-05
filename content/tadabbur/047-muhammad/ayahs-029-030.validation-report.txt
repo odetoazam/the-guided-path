@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/047-muhammad/ayahs-029-030.md
+Ayah: 47:29
+Date: 2026-06-08T10:48:29
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَمْ=Or do | حَسِبَ=think | ٱلَّذِينَ=those who | فِى=in | قُلُوبِهِم=their hearts | مَّرَضٌ=(is) a disease | أَن=that | لَّن=never | يُخْرِجَ ٱللَّهُ=will Allah bring forth | أَضْغَـٰنَهُمْ=their hatred?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Al-Rāghib and the lexicographers tie the root to the sense of something **bent, folded, tucked away**" — The provided reference data does not include the Mufradāt al-Rāghib text. This claim is stated with scholarly attribution as documented lexical fact, but cannot be verified from the supplied sources. Classical lexicons (Lisān al-ʿArab entry for ض-غ-ن) give "al-ḥiqd wa-l-ʿadāwah" (grudge and enmity) and "al-mayl" (inclination), not a "bent/folded" primary sense. The "folded blade" gloss may be extrapolation from mayl rather than a recorded lexical meaning. Not demonstrably wrong, but overstated as settled lexicographic fact.
+
+VERIFIED ACCURATE:
+- All four Qurṭubī attributions check out precisely against the supplied text: al-Suddī → ghishsh, Ibn ʿAbbās → ḥasad, Quṭrub → ʿadāwah, "wa-qīla" → aḥqād — quoted in correct sequence and correctly attributed.
+- "mā yuḍmaru min al-makrūh" accurately renders Qurṭubī's core definition of al-aḍghān.
+- Al-Baghawī attribution of "ḥasadahum" to Ibn ʿAbbās confirmed in supplied Baghawī text.
+- Singular ḍighn confirmed by Al-Baghawī: "wāḥiduhā: ḍighn."
+- Identification of the sick-hearted as the munāfiqūn matches all four tafsir sources unanimously.
+- "Buried rancor" as a translation of aḍghānahum is defensible given the full semantic field documented across the four sources.
+
+SUMMARY: One unverifiable lexical attribution (the "bent/folded" sense from Al-Rāghib, stated as documented fact from sources not in the reference data) prevents a full PASS; all scholar attributions in the body are accurate.

@@ -1,0 +1,24 @@
+Enhanced Validation Report
+File: content/tadabbur/039-az-zumar/ayah-008.md
+Ayah: 39:8
+Date: 2026-06-06T05:31:46
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ۞ وَإِذَا=And when | مَسَّ=touches | ٱلْإِنسَـٰنَ=[the] man | ضُرٌّ=adversity, | دَعَا=he calls | رَبَّهُۥ=(to) his Lord | مُنِيبًا=turning | إِلَيْهِ=to Him; | ثُمَّ=then | إِذَا=when | خَوَّلَهُۥ=He bestows on him | نِعْمَةً=a favor | مِّنْهُ=from Himself, | نَسِىَ=he forgets | مَا=(for) what | كَانَ يَدْعُوٓاْ=he used to call | إِلَيْهِ=[to] Him | مِن قَبْلُ=before, | وَجَعَلَ=and he sets up | لِلَّهِ=to Allah | أَندَادًا=rivals | لِّيُضِلَّ=to mislead | عَن=from | سَبِيلِهِۦ‌ۚ=His Path. | قُلْ=Say, | تَمَتَّعْ=`Enjoy | بِكُفْرِكَ=in your disbelief | قَلِيلاً‌ۖ=(for) a little. | إِنَّكَ=Indeed, you | مِنْ=(are) of | أَصْحَـٰبِ=(the) companions | ٱلنَّارِ=(of) the Fire.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: ERROR
+ISSUES:
+- Could not run Claude check: Command failed: claude -p --system-prompt "You are a rigorous Islamic scholarship validator for Ayah
+SUMMARY: Claude semantic check failed

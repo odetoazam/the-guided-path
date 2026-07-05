@@ -1,0 +1,37 @@
+Enhanced Validation Report
+File: content/tadabbur/004-an-nisa/ayah-119.md
+Ayah: 4:119
+Date: 2026-06-24T07:49:22
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَلَأُضِلَّنَّهُمْ=`And I will surely mislead them | وَلَأُمَنِّيَنَّهُمْ=and surely arouse desires in them, | وَلَأَمُرَنَّهُمْ=and surely I will order them | فَلَيُبَتِّكُنَّ=so they will surely cut off | ءَاذَانَ=(the) ears | ٱلْأَنْعَـٰمِ=(of) the cattle | وَلَأَمُرَنَّهُمْ=and surely I will order them | فَلَيُغَيِّرُنَّ=so they will surely change | خَلْقَ=(the) creation | ٱللَّهِ‌ۚ=(of) Allah.` | وَمَن=And whoever | يَتَّخِذِ=takes | ٱلشَّيْطَـٰنَ=the Shaitaan | وَلِيًّا=(as) a friend | مِّن دُونِ=besides | ٱللَّهِ=Allah, | فَقَدْ=then surely | خَسِرَ=he (has) lost - | خُسْرَانًا=a loss | مُّبِينًا=manifest.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+
+- [MODERATE] "Five verbs in a row, every single one of them slammed shut with the heavy nūn" — The count is wrong. The ayah contains **six** emphatic verb forms: وَلَأُضِلَّنَّهُمْ, وَلَأُمَنِّيَنَّهُمْ, وَلَآمُرَنَّهُمْ (first), فَلَيُبَتِّكُنَّ, وَلَآمُرَنَّهُمْ (second), فَلَيُغَيِّرُنَّ. The verb وَلَآمُرَنَّهُمْ appears **twice** — once before يُبَتِّكُنَّ and once before يُغَيِّرُنَّ, as is clear from both the authentic Arabic and the reflection's own transliteration (`wa-la-āmurannahum fa-la-yubattikunna … wa-la-āmurannahum fa-la-yughayyirunna`). The body text then lists only five, silently collapsing the two āmur instances into one. The core linguistic point stands; only the count is wrong.
+
+- [PASS] Root م-ن-ي, Form II analysis of وَلَأُمَنِّيَنَّهُمْ — accurate. The shadda on the nūn confirms Form II (مَنَّى); the semantic shift to "actively planting desires in another" is well-attested in Baghawi ("أمنينهم ركوب الأهواء") and Jalālayn ("ألقي في قلوبهم"). The reflection's characterization is consistent with the tafsir record.
+
+- [PASS] Arabic text in frontmatter — وَلَآمُرَنَّهُمْ vs. the authentic وَلَءَامُرَنَّهُمْ is a typographic variant (alef-madda vs. hamza-alef), not a textual error. No letters are missing or changed.
+
+- [PASS] "This is Iblīs's direct speech" — confirmed by Baghawi ("يقوله إبليس") and the tafsir tradition generally.
+
+- [PASS] nūn al-tawkīd al-thaqīlah + lām analysis — grammatically sound; the combination (لَـ prefix + ـنَّ suffix) is the standard strongest oath-form in Arabic.
+
+- [PASS] Claim that Iblīs's power is suggestion not compulsion — grounded in the grammar (he swears what *he* will do vs. what *they* will do as consequence) and supported by 14:22, which the reflection correctly cross-references.
+
+SUMMARY: The reflection is linguistically and tafsir-faithful throughout; the single correctable error is a counting slip — the emphatic-verb count should be six, not five, and the body text list needs a second وَلَآمُرَنَّهُمْ entry to match the ayah itself.

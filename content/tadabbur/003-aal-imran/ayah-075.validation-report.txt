@@ -1,0 +1,45 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayah-075.md
+Ayah: 3:75
+Date: 2026-06-21T11:43:33
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ۞ وَمِنْ=And from | أَهْلِ=(the) People | ٱلْكِتَـٰبِ=(of) the Book | مَنْ=(is he) who, | إِن=if | تَأْمَنْهُ=you entrust him | بِقِنطَارٍ=with a great amount of wealth | يُؤَدِّهِۦٓ=he will return it | إِلَيْكَ=to you. | وَمِنْهُم=And from them | مَّنْ=(is he) who, | إِن=if | تَأْمَنْهُ=you entrust him | بِدِينَارٍ=with a single coin | لَّا=not | يُؤَدِّهِۦٓ=he will return it | إِلَيْكَ=to you | إِلَّا=except | مَا دُمْتَ=you keep constantly | عَلَيْهِ=over him | قَآئِمًا‌ۗ=standing. | ذَٲلِكَ=That | بِأَنَّهُمْ=(is) because they | قَالُواْ=said, | لَيْسَ=`Not | عَلَيْنَا=on us | فِى ٱلْأُمِّيِّــۧنَ=concerning the unlettered people | سَبِيلٌ=any [way] (accountability).` | وَيَقُولُونَ=And they say | عَلَى=about | ٱللَّهِ=Allah | ٱلْكَذِبَ=the lie | وَهُمْ=while they | يَعْلَمُونَ=know.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical errors found.
+- No moderate errors found.
+
+DETAIL on key claims checked against reference data:
+
+**Root أ-م-ن analysis** ("تَأْمَنْهُ, amāna, amīn, and īmān are siblings from the same root"): Accurate. The morphology note in the frontmatter lists "Amn أمن" as the root for تَأْمَنْهُ, and the connection between إيمان/أمانة/أمن/أمين from this root is a foundational lexical fact attested in Lisān al-ʿArab and al-Rāghib's Mufradāt — both cited in the frontmatter morphology note.
+
+**قنطار as "great fortune/wealth"** ("if you entrust him with a great fortune"): Confirmed by both the word-by-word reference ("a great amount of wealth") and al-Baghawi ("القنطار عبارة عن المال الكثير") and al-Jalālayn ("أي بمال كثير").
+
+**دينار as "a single coin"**: Confirmed by word-by-word reference and al-Baghawi ("والدينار عبارة عن المال القليل").
+
+**Translation of الأُمِّيِّين as "the unlettered"**: Matches the word-by-word reference exactly. Al-Muyassar expands this to mean the Arabs whose wealth they deemed licit — the reflection's "unlettered" stays within Quranic text rather than over-specifying, which is the safer choice.
+
+**Prophet ﷺ's title al-Amīn predating revelation**: Universally attested sīrah fact; not verifiable from the provided tafsir excerpts, but no reference data contradicts it.
+
+**Arabic text in the reflection** vs. authentic Arabic provided: Matches correctly; the reflection omits Quran-specific tanwīn diacritics (ۢ ۭ) which is acceptable in non-muṣḥaf typesetting.
+
+**Transliteration** (*ta'manhu, yu'addihi, qā'imā, ummiyyīna, kadhiba*): All accurate against the Arabic.
+
+The reflection is cut off mid-sentence at Part 1's conclusion, so validation covers only the submitted content.
+
+SUMMARY: All factual, linguistic, and textual claims in the submitted portion are accurately grounded in the provided reference data and classical lexical sources; no errors detected.

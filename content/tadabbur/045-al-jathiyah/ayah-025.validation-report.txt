@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/045-al-jathiyah/ayah-025.md
+Ayah: 45:25
+Date: 2026-06-08T03:28:52
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَإِذَا=And when | تُتْلَىٰ=are recited | عَلَيْهِمْ=to them | ءَايَـٰتُنَا=Our Verses | بَيِّنَـٰتٍ=clear, | مَّا=not | كَانَ=is | حُجَّتَهُمْ=their argument | إِلَّآ=except | أَن=that | قَالُواْ=they say, | ٱئْتُواْ=`Bring | بِـَٔـابَآئِنَآ=our forefathers | إِن=if | كُنتُمْ=you are | صَـٰدِقِينَ=truthful.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Al-Jalālayn and al-Qurtubi both read bayyināt as a ḥāl — a circumstantial state" — Jalalayn is confirmed (the provided text explicitly reads «بينات» واضحات **حال**). Qurtubi's provided excerpt does not use the word ḥāl or identify the grammatical function; it only paraphrases meaning ("وإذ تقرأ على هؤلاء المشركين آياتنا المنزلة في جواز البعث"). Attributing the ḥāl designation specifically to Qurtubi cannot be verified from the reference data supplied. The reading may be defensible, but the attribution is overstated.
+
+VERIFIED AS ACCURATE:
+- Jalalayn gloss of bayyināt as wāḍiḥāt — confirmed directly: «واضحات»
+- Demand framed as bringing forefathers back alive — confirmed by Jalalayn («أحياء»), Muyassar, and Qurtubi
+- "mā...illā" restrictive structure — matches the Arabic text and Qurtubi's grammatical note (حجتهم خبر كان والاسم إلا أن قالوا)
+- Root b-y-n lexical claims and Form I verb claim — consistent with the reference and frontmatter caveat; no derived-form errors introduced
+- Context of 45:24 preceding this verse — aligned with all three tafsir sources confirming this is about resurrection denial
+
+SUMMARY: One MODERATE attribution error — the ḥāl designation is verifiable for Jalalayn only; Qurtubi's excerpt does not use that grammatical term, so co-attributing it to him overstates the sourcing. Everything else is accurate and well-grounded.

@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/004-an-nisa/ayah-160.md
+Ayah: 4:160
+Date: 2026-06-24T09:06:14
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَبِظُلْمٍ=Then for (the) wrongdoing | مِّنَ=of | ٱلَّذِينَ=those who | هَادُواْ=were Jews, | حَرَّمْنَا=We made unlawful | عَلَيْهِمْ=for them | طَيِّبَـٰتٍ=good things | أُحِلَّتْ=which had been lawful | لَهُمْ=for them | وَبِصَدِّهِمْ=and for their hindering | عَن=from | سَبِيلِ=(the) way | ٱللَّهِ=(of) Allah - | كَثِيرًا=many.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] Translation renders هَادُوا as "became Jews" — the provided word-by-word says "were Jews," but هَادُوا is a verb form from the root h-w-d meaning "to Judaize/turn to Judaism." The factitive rendering "became Jews" is linguistically defensible and used by classical translators. Not an error.
+- [PASS] Attribution to al-Qurtubī: "qaddama-ẓ-ẓulma ʿalā at-taḥrīm — because it is the very point that was meant to be conveyed: that it is the cause of the prohibition." Directly corroborated by the provided Qurtubī text: *"وقدم الظلم على التحريم إذ هو الغرض الذي قصد إلى الإخبار عنه بأنه سب..."* — an accurate paraphrase.
+- [PASS] The passage context summary (covenant-breaking, calf worship, killing prophets, Maryam slander, Messiah boast) matches the Baghawi source directly: *"نقضهم الميثاق وكفرهم بآيات الله وبهتانهم على مريم وقولهم إنا قتلنا المسيح."*
+- [UNVERIFIABLE, NOT AN ERROR] The claim that indefinite *ẓulmin* functions as *tanwīn al-taʿẓīm* ("magnifying indefiniteness") is a recognized classical Arabic rhetorical category but is not explicitly cited in the provided tafsir excerpts. The Jalālayn simply gloss it as *"فبسبب ظلم"* without elaborating. The reflection presents this as a teaching fact — it is standard classical Arabic grammar but cannot be verified against the sources provided. No error; note the absence of source-citation for this specific move.
+- [PASS] Morphology notes (Form II *ḥarramnā* as factitive, Form IV passive *uḥillat* as declarative passive) are correct per standard Arabic verb morphology.
+- [PASS] Arabic text in frontmatter is accurate; minor diacritical differences from the reference (ghunna marks on *ẓulmin*, *kathīrā*) are orthographic variants, not errors in the consonantal text or meaning.
+
+SUMMARY: The reflection is linguistically precise, the Qurtubī attribution is directly verifiable from the provided text, and no roots, verb forms, or scholar positions are misrepresented — the only unverifiable move is the *tanwīn al-taʿẓīm* gloss, which is standard grammar but lacks a cited source in this document.

@@ -1,0 +1,42 @@
+Enhanced Validation Report
+File: content/tadabbur/052-at-tur/ayahs-007-008.md
+Ayah: 52:7
+Date: 2026-06-09T14:50:00
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّ=Indeed, | عَذَابَ=(the) punishment | رَبِّكَ=(of) your Lord | لَوَٲقِعٌ=(will) surely occur.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR NOTE] "Five oaths" — the reflection counts five objects (combining 52:2 وَكِتَابٍ مَّسْطُورٍ and 52:3 فِي رَقٍّ مَّنشُورٍ as a single oath about the Book). Standard counts run five or six depending on whether the parchment clause is treated as an extension or a separate muqsam bihi. The reflection's use of "..." signals awareness of the compression. Defensible; not an error.
+
+Checking all substantive technical claims:
+
+**jawāb al-qasam** — Qurtubi explicitly: "هذا جواب القسم" ✓
+
+**inna as emphatic particle** — Standard Arabic grammar, consistent with the four-layer stacking argument ✓
+
+**lām al-muzaḥlaqa** — "the lām that slipped" / "slid down to attach to the predicate" is the precise classical description of the lāmu al-ibtidāʾ that shifts to the khabar of inna. Correctly identified, correctly described ✓
+
+**Nominal sentence / no verb** — Confirmed by the word-by-word reference (إِنَّ + accusative noun + predicate, no verb forms). The claim that this conveys a "standing reality untethered from a clock-tick" is a well-attested Arabic grammar principle (al-jumlah al-ismiyyah for fixed states) ✓
+
+**Jubayr ibn Muṭʿim narrative** — Qurtubi records it verbatim: came to Madinah over Badr prisoners, heard the Prophet reciting Al-Tur in Maghrib, "فكأنما صدع قلبي، فأسلمت خوفا من نزول العذاب." The reflection foreshadows this story without yet attributing it — consistent with what Qurtubi attests ✓
+
+**Arabic text** — إِنَّ عَذَابَ رَبِّكَ لَوَٰقِعٌ matches authentic reference exactly (trailing ۭ in authentic is a Unicode tanwin encoding variant, not a substantive difference) ✓
+
+**"Emphasis as diagnosis of denial"** — interpretive framing, not attributed as a narrated position from a specific scholar. Clearly presented as the author's reflection, not a documented fact. No overclaim ✓
+
+SUMMARY: All linguistic, grammatical, and narrative claims in this passage are accurate and well-grounded in the provided tafsir and word-by-word data; no errors requiring correction.

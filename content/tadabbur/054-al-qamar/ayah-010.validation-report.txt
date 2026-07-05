@@ -1,0 +1,44 @@
+Enhanced Validation Report
+File: content/tadabbur/054-al-qamar/ayah-010.md
+Ayah: 54:10
+Date: 2026-06-10T00:23:36
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَدَعَا=So he called | رَبَّهُۥٓ=his Lord, | أَنِّى=`I am | مَغْلُوبٌ=one overpowered, | فَٱنتَصِرْ=so help.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No errors found in the visible portion.
+
+Verification against provided reference data:
+
+**Tafsir attributions — all accurate:**
+- "Al-Baghawi glosses maghlūb with maqhūr" — Baghawi text confirms: *"(مغلوب) مقهور"*. Exact match.
+- "Tafsir al-Muyassar renders it as 'I am too weak to resist these people'" — Muyassar text: *"ضعيف عن مقاومة هؤلاء"*. Accurate paraphrase.
+- "al-Qurtubi explains: they overcame him through their sheer defiance" — Qurtubi text: *"غلبوني بتمردهم"*. Direct match.
+
+**Morphology — accurate:**
+- *maghlūb* as ism mafʿūl (passive participle) from root غلب is correct.
+- *fa-ntaṣir* as Form VIII imperative from root نصر is confirmed in the frontmatter morphology note and consistent with classical Arabic grammar.
+- The Form VIII gloss — "take up one's cause / vindicate" rather than simple help — is supported by Baghawi's *"فانتقم لي منهم"* and Muyassar's *"فانتصر لي بعقاب من عندك"*, both pointing to active divine intervention, not mere assistance.
+
+**Translation:** "I am overpowered — so take up my cause" — defensible and well-grounded. The word-by-word gives "so help" as a minimal rendering; the tafsir sources (انتقم, vindication, punishment from Allah) fully support the stronger "take up my cause" reading.
+
+**950 years:** Correct per Quran 29:14.
+
+**Cross-referenced ayahs (26:117, 71:26):** 26:117 (*"My Lord, indeed my people have denied me"*) is an accurate citation. Contrast with the distilled form in 54:10 is a legitimate literary observation.
+
+SUMMARY: The reflection is linguistically rigorous and tafsir-grounded throughout — all three scholar glosses are accurately quoted and the Form VIII morphological analysis is supported by the classical sources provided.

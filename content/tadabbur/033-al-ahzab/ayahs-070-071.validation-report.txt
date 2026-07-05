@@ -1,0 +1,29 @@
+Enhanced Validation Report
+File: content/tadabbur/033-al-ahzab/ayahs-070-071.md
+Ayah: 33:70
+Date: 2026-05-15T04:04:35
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ=O you who believe! | ٱتَّقُواْ=Fear | ٱللَّهَ=Allah | وَقُولُواْ=and speak | قَوْلاً=a word | سَدِيدًا=right.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "Form VIII — the form of ittaqū — has a very particular flavor: it is most often reflexive" — The reflexive characterization of Form VIII is a common pedagogical generalization, not a rule. That said, for *ittaqā* specifically the reflexive reading is well-attested: classical commentators consistently gloss taqwā as *taking* a wiqāya (shield) for oneself. The generalization is imprecise but the specific application here is sound.
+- [MODERATE] The "gap-free / wall-and-dam" framework for *sadīd* is built from the lexical root s-d-d (sadda = to block a breach, stop a gap) and is defensible from Lisān al-ʿArab. However, every tafsir source provided glosses *sadīd* as ṣawāb (correct/right), ʿadl (just), ṣidq (truthful), or mustaqīm (upright) — not through the gap-filling image. The reflection presents the root-level etymology as a deeper layer *below* those glosses, which is methodologically fine, but the "gap-free" framing is lexical inference that extends beyond the transmitted scholarly definitions. It should not be presented as what the Arabs *heard* without acknowledging those tafsir glosses.
+
+No attribution errors, no Arabic text errors, no inverted scholar positions, no root errors. The Form VIII claim for ittaqū (root w-q-y, not khawf roots) is correct. The jussive *yuṣliḥ* as jawāb al-amr is standard and accurate. Surah contextual framing (Trench, Zayd-Zaynab whispers, amanah verse) is historically grounded.
+
+SUMMARY: The reflection is linguistically rigorous and theologically accurate; the two moderate flags are pedagogical over-generalization on Form VIII reflexivity and a gap-filling etymology for sadīd that goes beyond the tafsir record but does not contradict it.

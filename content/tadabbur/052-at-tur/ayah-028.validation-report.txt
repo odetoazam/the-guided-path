@@ -1,0 +1,28 @@
+Enhanced Validation Report
+File: content/tadabbur/052-at-tur/ayah-028.md
+Ayah: 52:28
+Date: 2026-06-09T15:09:57
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّا=Indeed, we | كُنَّا=[we] used (to) | مِن قَبْلُ=before | نَدْعُوهُ‌ۖ=call Him. | إِنَّهُۥ=Indeed, He | هُوَ=[He] | ٱلْبَرُّ=(is) the Most Kind, | ٱلرَّحِيمُ=the Most Merciful.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "We used to call upon Him" / "du'a as calling/supplication" (framed throughout as the primary meaning of نَدْعُوهُ) — The classical tafsir sources consistently give ʿibādah/worship as the primary or co-primary meaning, not just supplication. Jalalayn: *نعبده موحدين* ("we worship Him as monotheists"); Baghawi: *نخلص له العبادة* ("we dedicate worship purely to Him"); Qurtubi gives both *نعبده* and supplication. The reflection collapses this into du'a alone, dropping the worship dimension that the tafsir emphasizes.
+
+- [MODERATE] "The present-tense verb nadʿūhu means that, even in Paradise, [cut off]" — The text is truncated at a sentence clearly heading toward a claim that the muḍāriʿ form *nadʿūhu* carries a present-tense meaning into the believers' state in Paradise. That would be a grammatical overextension. In the كَانَ + muḍāriʿ construction, كَانَ anchors the entire frame in the past; the present-tense quality of the muḍāriʿ signals habituality within that past frame, not a claim about their current state in Jannah. If that argument is completed in the full text, flag it as MODERATE.
+
+SUMMARY: The kāna + muḍāriʿ grammatical analysis is accurate and well-executed, but the reflection narrows *nadʿūhu* to supplication while classical sources consistently foreground it as *ʿibādah*, and a truncated sentence appears to be building toward an unsupported reading of the present-tense verb as evidence of ongoing calling in Paradise.

@@ -1,0 +1,42 @@
+Enhanced Validation Report
+File: content/tadabbur/050-qaf/ayah-002.md
+Ayah: 50:2
+Date: 2026-06-08T19:45:05
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: بَلْ=Nay, | عَجِبُوٓاْ=they wonder | أَن=that | جَآءَهُم=has come to them | مُّنذِرٌ=a warner | مِّنْهُمْ=from them. | فَقَالَ=So say | ٱلْكَـٰفِرُونَ=the disbelievers, | هَـٰذَا=`This | شَىْءٌ=(is) a thing | عَجِيبٌ=amazing.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate errors found in the verifiable portion of this reflection.
+
+Supporting observations:
+
+- [PASS] **Root ʿ-j-b appearing twice** — `عَجِبُوا` and `عَجِيب` confirmed by word-by-word data; the framing of both words bracketing the central phrase is structurally accurate.
+
+- [PASS] **Baghawi attribution** — reflection paraphrases Baghawi as linking *bal* back to the oath. Baghawi's supplied text reads: `و " بل " كقوله : " والقرآن المجيد - بل عجبوا "` — this is exactly the link the reflection describes. No distortion.
+
+- [PASS] **Elided jawāb al-qasam** — the claim that the oath's response is left unspoken is a recognized classical grammatical reading, supported by Baghawi's notation connecting *bal* to the oath structure. Not overstated.
+
+- [PASS] **Iḍrāb function of *bal*** — standard Arabic grammar; well within classical lexical warrant.
+
+- [PASS] **Warner identified as Muhammad ﷺ, known for truthfulness and trustworthiness** — Baghawi confirms: `يعرفون نسبه وصدقه وأمانته`.
+
+- [PASS] **izhar fī mawdiʿ al-iḍmār** (explicit noun instead of pronoun for *al-kāfirūna*) — listed as a concept tag only, not claimed in the body text visible here; Qurtubi supports it: `فقال الكافرون ولم يقل فقالوا`.
+
+- [NOTE] The reflection is **truncated** — it ends mid-sentence ("The word *bal* is a h"). Validation covers only what is present.
+
+SUMMARY: All verifiable linguistic and scholarly claims in the available text are accurate and well-grounded in the supplied tafsir sources; the reflection ends mid-sentence and cannot be fully evaluated.

@@ -1,0 +1,39 @@
+Enhanced Validation Report
+File: content/tadabbur/080-abasa/ayahs-017-023.md
+Ayah: 80:17
+Date: 2026-06-18T14:18:49
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: قُتِلَ=Is destroyed | ٱلْإِنسَـٰنُ=the man, | مَآ=how | أَكْفَرَهُۥ=ungrateful is he!
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- None found. All verifiable claims check out against the reference data provided.
+
+**Verified citations (spot-checked):**
+
+- "Al-Jalālayn glosses *qutila l-insān* simply as *luʿina l-kāfir*" — confirmed: «قتل الإنسان» لعن الكافر ✓
+- "Al-Qurṭubī: *qutila — ay luʿina*" — confirmed: قتل أي لعن ✓
+- "Al-Baghawī, the same" — confirmed: قتل الإنسان أي لعن الكافر ✓
+- ʿUtba ibn Abī Lahab chain "al-Qurṭubī through al-Ḍaḥḥāk from Ibn ʿAbbās" — confirmed: روى الضحاك عن ابن عباس قال : نزلت في عتبة بن أبي لهب ✓
+- "al-Baghawī from Muqātil" — confirmed: قال مقاتل : نزلت في عتبة بن أبي لهب ✓
+- ʿUtba "turned back, declaring he rejected one particular sūrah" — confirmed in Qurṭubī (al-Najm, unnamed in reflection, accurate) ✓
+- Mujāhid via al-Aʿmash citation — confirmed verbatim in Qurṭubī ✓
+- Passive verb form of *qutila* — grammatically correct ✓
+
+**One note, not an error:** The reflection presents *mā akfarahu* as pure taʿajjub (astonishment). Jalālayn reads it as *istifhām tawbīkh* (interrogative of rebuke) rather than a verb of wonder — al-Baghawī records both via al-Zajjāj. The reflection's reading is classically attested (Baghawī: على طريق التعجب); it simply does not surface the alternative. This is an editorial choice within the range of valid positions, not a misrepresentation.
+
+SUMMARY: Every scholar attribution, chain of transmission, and linguistic claim in the validated portion is accurate and stays within the range of positions recorded in the provided tafsir sources.

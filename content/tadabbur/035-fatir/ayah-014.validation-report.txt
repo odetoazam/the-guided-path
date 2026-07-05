@@ -1,0 +1,26 @@
+Enhanced Validation Report
+File: content/tadabbur/035-fatir/ayah-014.md
+Ayah: 35:14
+Date: 2026-06-05T00:11:24
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِن=If | تَدْعُوهُمْ=you invoke them | لَا=not | يَسْمَعُواْ=they hear | دُعَآءَكُمْ=your call; | وَلَوْ=and if | سَمِعُواْ=they heard, | مَا=not | ٱسْتَجَابُواْ=they (would) respond | لَكُمْۖ=to you. | وَيَوْمَ=And (on the) Day | ٱلْقِيَـٰمَةِ=(of) the Resurrection | يَكْفُرُونَ=they will deny | بِشِرْكِكُمْۚ=your association. | وَلَا=And none | يُنَبِّئُكَ=can inform you | مِثْلُ=like | خَبِيرٍ=(the) All-Aware.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE — UNVERIFIABLE, NOT AN ERROR] "Qatāda reads it: even if they heard, *it would not benefit you*" — The Qurṭubī source provided cuts off mid-sentence at "وقال قتادة : المع..." before the Qatāda quotation is visible. The attribution may be correct (it is a plausible classical reading and fits the Qurṭubī context), but it cannot be confirmed or denied from the reference data given. Flag for source verification against a complete Qurṭubī text, not a retraction.
+
+SUMMARY: All checkable claims are accurate — the Qurṭubī *li-annahā jamādāt* quotation matches verbatim, root derivations (د-ع-و, ج-و-ب, ل-و-ب Form X) are correct, *law* as the contrary-to-fact conditional is grammatically sound, the iltifāt observation on يُنَبِّئُكَ is textually grounded, and the يَكْفُرُونَ → "disown" rendering aligns with the tafsir consensus of *tabarruʾ*; the only open item is a single Qatāda attribution that cannot be verified from the truncated excerpt supplied.

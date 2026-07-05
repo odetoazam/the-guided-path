@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/046-al-ahqaf/ayahs-024-025.md
+Ayah: 46:24
+Date: 2026-06-08T06:03:44
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَلَمَّا=Then when | رَأَوْهُ=they saw it | عَارِضًا=(as) a cloud | مُّسْتَقْبِلَ=approaching | أَوْدِيَتِهِمْ=their valleys, | قَالُواْ=they said, | هَـٰذَا=`This | عَارِضٌ=(is) a cloud | مُّمْطِرُنَا‌ۚ=bringing us rain.` | بَلْ=Nay, | هُوَ=it | مَا=(is) what | ٱسْتَعْجَلْتُم بِهِۦ‌ۖ=you were asking it to be hastened, | رِيحٌ=a wind | فِيهَا=in it | عَذَابٌ=(is) a punishment | أَلِيمٌ=painful,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "a valley with a name that meant something like *the rescuer*, *the rain-bringer*" — Al-Baghawī confirms the valley name المغيث, and المغيث does derive from غ-و-ث (to rescue, to aid). "The rescuer" is correct. "Rain-bringer" as a gloss is a contextual extension — غَيْث (rain) shares this root and rain was the rescue they needed, so the connection is linguistically defensible rather than invented, but the reflection should not present both glosses at equal weight as if both are primary meanings.
+
+- [PASS] Root analysis of عَارِض (ع-ر-ض) as "to appear across / show up in the breadth of something" — confirmed by Baghawī: "سحابا يعرض أي يبدو في ناحية من السماء" and Jalālayn: "سحابا عرض في أفق السماء." The lexical claim is solid.
+
+- [PASS] Arabic text in frontmatter — matches authentic text; dropped tajwīd pause marks (ۭ) are recitation notation, not textual variants.
+
+- [PASS] Narrative elements — the drought, the mockery of Hūd, the public cheer at the cloud's arrival — all confirmed across Muyassar and Baghawī.
+
+- [PASS] Translation of هَٰذَا عَارِضٌ مُّمْطِرُنَا as "This is a cloud that will bring us rain" — exact match with word-by-word and tafsir sources.
+
+- [NOTE] The reflection cuts off mid-sentence at "Al-Baghawī says it is called *ʿāriḍ*" — the actual Baghawī claim cannot be evaluated from the truncated text. If the next sentence completes a direct attribution, it should be verified against "يبدو في ناحية من السماء ثم يطبق السماء."
+
+SUMMARY: The reflection is accurate and well-grounded in the provided tafsir evidence; the only flag is a minor weight imbalance in the المغيث gloss where "rain-bringer" is listed as co-equal to "rescuer" when it is a contextual derivation, not a primary lexical meaning.

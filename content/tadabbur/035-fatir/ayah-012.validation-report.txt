@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/035-fatir/ayah-012.md
+Ayah: 35:12
+Date: 2026-05-18T06:33:01
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَمَا=And not | يَسْتَوِى=are alike | ٱلْبَحْرَانِ=the two seas. | هَـٰذَا=This | عَذْبٌ=(is) fresh, | فُرَاتٌ=sweet, | سَآئِغٌ=pleasant | شَرَابُهُۥ=its drink, | وَهَـٰذَا=and this | مِلْحٌ=salty | أُجَاجٌۖ=(and) bitter. | وَمِن=And from | كُلٍّ=each | تَأْكُلُونَ=you eat | لَحْمًا=meat | طَرِيًّا=fresh | وَتَسْتَخْرِجُونَ=and you extract | حِلْيَةً=ornaments | تَلْبَسُونَهَاۖ=you wear them, | وَتَرَى=and you see | ٱلْفُلْكَ=the ships | فِيهِ=in it, | مَوَاخِرَ=cleaving, | لِتَبْتَغُواْ=so that you may seek | مِن=of | فَضْلِهِۦ=His Bounty, | وَلَعَلَّكُمْ=and that you may | تَشْكُرُونَ=be grateful.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+**Morphological claims verified first, then content.**
+
+**Form VIII for yastawī:** Confirmed correct. For root *s-w-y* (س-و-ي), Form VIII (ifte'ala: اِفْتَعَلَ) inserts the *tāʾ* between the first root letter *sīn* and the second root letter *wāw* → اِسْتَوَى. The *sīn* here IS the first root letter, not part of a Form X prefix. (Form X of *s-w-y* would be اِسْتَسْوَى — a different word entirely.) The reflexive/stative semantic profile described is also accurate for Form VIII of this root. No error here.
+
+**Form X for tastakhrijūna:** Confirmed correct. For root *kh-r-j*, the اِسْتَ is a genuine prefix added to all three root letters → اِسْتَخْرَجَ. ✓
+
+**Form VIII for li-tabtaghū:** Confirmed correct. اِبْتَغَى is standard Form VIII of *b-gh-y*. ✓
+
+---
+
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "from each of them, you eat the same fresh fish flesh. From each comes ornament" — The reflection presents ornament extraction from both seas as established fact. Baghawi is explicit: *"من المالح دون"* (from the salt water, not the fresh). Jalalayn gives the same as the primary reading: *"تستخرجون من الملح، وقيل منهما"* (from salt; some say from both). The Quranic *min kullin* is ambiguous enough that the ẓāhir reading supports both seas, but stating it flatly without acknowledging the stronger classical restriction overstates the position. This is the one place the reflection should hedge: "the ẓāhir reading suggests both; classical scholars debate whether this applies to ornaments."
+
+SUMMARY: Morphology and structural analysis are sound throughout; the single issue is presenting ornament extraction from both seas as settled when the dominant classical position (Baghawi, Jalalayn) restricts ḥilya to the salt water.

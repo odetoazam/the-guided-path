@@ -1,0 +1,24 @@
+Enhanced Validation Report
+File: content/tadabbur/040-ghafir/ayah-015.md
+Ayah: 40:15
+Date: 2026-06-06T07:53:41
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: رَفِيعُ ٱلدَّرَجَـٰتِ=Possessor of the Highest Ranks, | ذُو ٱلْعَرْشِ=Owner (of) the Throne; | يُلْقِى=He places | ٱلرُّوحَ=the inspiration | مِنْ=by | أَمْرِهِۦ=His Command | عَلَىٰ=upon | مَن=whom | يَشَآءُ=He wills | مِنْ=of | عِبَادِهِۦ=His slaves, | لِيُنذِرَ=to warn | يَوْمَ=(of the) Day | ٱلتَّلَاقِ=(of) the Meeting.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: ERROR
+ISSUES:
+- Could not run Claude check: Command failed: claude -p --system-prompt "You are a rigorous Islamic scholarship validator for Ayah
+SUMMARY: Claude semantic check failed

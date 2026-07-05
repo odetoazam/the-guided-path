@@ -1,0 +1,42 @@
+Enhanced Validation Report
+File: content/tadabbur/046-al-ahqaf/ayah-013.md
+Ayah: 46:13
+Date: 2026-06-08T07:45:29
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّ=Indeed, | ٱلَّذِينَ=those who | قَالُواْ=say, | رَبُّنَا=`Our Lord | ٱللَّهُ=(is) Allah,` | ثُمَّ=then | ٱسْتَقَـٰمُواْ=remain firm, | فَلَا=then no | خَوْفٌ=fear | عَلَيْهِمْ=on them | وَلَا=and nor | هُمْ=they | يَحْزَنُونَ=will grieve.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE] "Twelve words. A claim so total it should stop us cold." — The ayah contains 13 orthographic words by standard count (إِنَّ ٱلَّذِينَ قَالُوا۟ رَبُّنَا ٱللَّهُ ثُمَّ ٱسْتَقَٰمُوا۟ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ = 13). The count of 12 is defensible only if رَبُّنَا ٱللَّهُ is treated as a single semantic unit (which the word-by-word reference hints at with its bracketed grouping). Not a scholarship error — note the counting convention before publication.
+
+**Linguistic claims — all verified:**
+- *thumma* = tarākhī (sequence with interval): correct standard Arabic grammar ✓
+- *fa* = immediate consequence (*fa-lā khawfun*): confirmed by the Arabic text ✓
+- *thumma* encoding rank/elevation in addition to temporal sequence: attested in classical Arabic rhetoric (Ibn Hishām et al.) ✓
+- Root q-w-m: standing/uprightness ✓; *qiyām*, *qawm*, *mustaqīm* all from this root ✓
+- "seventeen times a day in al-Fātiḥah": 17 obligatory rakʿahs × one Fātiḥah per rakʿah = accurate ✓
+- *istaqāmū* as Form X of q-w-m: confirmed ✓ (text is cut off before the Form X semantic analysis — that section cannot be validated from the excerpt provided)
+
+**Tafsir alignment:**
+- Jalalayn frames istiqāmah as *ʿalā al-ṭāʿa* (on obedience) — consistent with the reflection's "lifetime of steadfastness" framing ✓
+- Muyassar explicitly separates *khawf* (dread of Judgment Day) from *ḥuzn* (grief over what is left behind after death) — the reflection's "two tyrants of time" (future fear / past grief) maps precisely onto this ✓
+- Qurtubi's Ibn ʿAbbās attribution (revealed regarding Abū Bakr, though the verse is general) is not invoked in the visible text — no attribution error ✓
+
+**Cannot verify from provided data:**
+- The Form X semantic analysis (text cuts off at "This verb is in wh") — flagged as unreviewed, not as an error
+
+SUMMARY: All verifiable linguistic and tafsir claims in the visible portion are accurate and well-grounded; the "two tyrants" framing is directly supported by Muyassar's explicit gloss on khawf/ḥuzn; no critical or moderate errors found.

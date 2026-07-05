@@ -1,0 +1,38 @@
+Enhanced Validation Report
+File: content/tadabbur/055-ar-rahman/ayah-029.md
+Ayah: 55:29
+Date: 2026-06-11T23:04:54
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَسْــَٔلُهُۥ=Asks Him | مَن=whoever | فِى=(is) in | ٱلسَّمَـٰوَٲتِ=the heavens | وَٱلْأَرْضِ‌ۚ=and the earth. | كُلَّ=Every | يَوْمٍ=day | هُوَ=He | فِى=(is) in | شَأْنٍ=a matter.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE] Frontmatter Arabic `ٱلسَّمَـٰوَٰتِ` and body Arabic both include a tatweel extension character (ـ) absent from the authentic and omit the final combining mark on `شَأْنٍ`. These are Unicode rendering variants, not substantive textual errors — the words are identical. No meaning affected.
+
+- [PASS] "That word *man*, 'whoever,' is the word Arabic uses for beings with intellect — angels, jinn, human beings." — Correct. مَن is standard Arabic for rational beings (العقلاء). Verified against the word-by-word reference.
+
+- [PASS] "The classical commentators — al-Baghawi, al-Qurtubi — note that this sweeps in *every* sentient creature: angel and human and jinn alike." — Accurately grounded. Al-Baghawi explicitly: *"من ملك وإنس وجن"*; al-Qurtubi's passage confirms the same scope.
+
+- [PASS] "Allah leads with the verb: *Yas'aluhu* — *Asks-Him* — and only *then* tells you who." — The verb-first (فعل قبل الفاعل) construction is accurate; يَسْـَٔلُهُۥ precedes مَن in the ayah.
+
+- [PASS] The muḍāriʿ/imperfect tense analysis of يَسْـَٔلُهُۥ as ongoing/perpetual is correct Arabic grammar (يَفْعَلُ pattern). The interpretation of perpetual asking is fully supported — al-Jalalayn and al-Muyassar both read this as ongoing dependence.
+
+- [PASS] The contextual framing connecting 55:26-27 (impermanence) to 55:29 (asking) is accurate to the surah's sequence and is consistent with how classical commentators situate this ayah.
+
+- [UNVERIFIABLE FROM PROVIDED DATA] The claim "The luminous angels who never disobey...they ask" implies universality of angelic asking without the Ibn Abbas nuance (Baghawi/Qurtubi: heavenly beings ask specifically for forgiveness, not provision). The reflection does not yet address this distinction in the 8,000 characters provided — not an error, but a gap the author should address in Part One or Two.
+
+SUMMARY: The portion validated is linguistically accurate, grammatically sound, and well-grounded in the provided classical sources; no critical or moderate errors detected, with one unaddressed classical nuance (angels ask forgiveness, not provision) that the full reflection should eventually acknowledge.

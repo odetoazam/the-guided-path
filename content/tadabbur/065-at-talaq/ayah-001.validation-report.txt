@@ -1,0 +1,38 @@
+Enhanced Validation Report
+File: content/tadabbur/065-at-talaq/ayah-001.md
+Ayah: 65:1
+Date: 2026-06-13T11:27:04
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَـٰٓأَيُّهَا ٱلنَّبِىُّ=O Prophet! | إِذَا=When | طَلَّقْتُمُ=you divorce | ٱلنِّسَآءَ=[the] women, | فَطَلِّقُوهُنَّ=then divorce them | لِعِدَّتِهِنَّ=for their waiting period, | وَأَحْصُواْ=and keep count | ٱلْعِدَّةَ‌ۖ=(of) the waiting period, | وَٱتَّقُواْ=and fear | ٱللَّهَ=Allah, | رَبَّكُمْ‌ۖ=your Lord. | لَا=(Do) not | تُخْرِجُوهُنَّ=expel them | مِنۢ=from | بُيُوتِهِنَّ=their houses, | وَلَا=and not | يَخْرُجْنَ=they should leave | إِلَّآ=except | أَن=that | يَأْتِينَ=they commit | بِفَـٰحِشَةٍ=an immorality | مُّبَيِّنَةٍ‌ۚ=clear. | وَتِلْكَ=And these | حُدُودُ=(are the) limits | ٱللَّهِ‌ۚ=(of) Allah. | وَمَن=And whoever | يَتَعَدَّ=transgresses | حُدُودَ=(the) limits | ٱللَّهِ=(of) Allah | فَقَدْ=then certainly | ظَلَمَ=he has wronged | نَفْسَهُۥ‌ۚ=himself. | لَا=Not | تَدْرِى=you know; | لَعَلَّ=Perhaps | ٱللَّهَ=Allah | يُحْدِثُ=will bring about, | بَعْدَ=after | ذَٲلِكَ=that, | أَمْرًا=a matter.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate issues found.
+
+**Verification notes against provided reference data:**
+
+- **"madaniyya fī qawl al-jamīʿ"** attributed to al-Qurtubī — confirmed verbatim: the Qurtubi excerpt opens "مدنية في قول الجميع." Accurate.
+
+- **Singular-to-plural shift** (يَا أَيُّهَا النَّبِيُّ → طَلَّقْتُمُ) — confirmed by word-by-word corpus (طَلَّقْتُمُ = "you [pl.] divorce"). All four tafsir sources address this exact shift: Jalalayn says المراد أمته ("the community is meant"), Baghawi says نادى النبي ثم خاطب أمته ("He called the Prophet, then addressed his community"). The reflection's treatment is textually grounded and not overclaimed.
+
+- **Root ن-ب-أ for nabiyy** — the connection to *naba'* (tidings/news) is classically attested in Lisān al-ʿArab and Mufradāt al-Rāghib (which the reflection's morphology note cites). The "unseen into the seen" gloss is standard and not an extension beyond lexical warrant.
+
+- **The Companion who divorced during menstruation** — appropriately hedged: "we should hold it lightly, as one well-known account among several." This is the Ibn ʿUmar narration (Bukhari/Muslim), which the classical tafsirs use as the occasion of revelation. The reflection does not fabricate a source or over-specify. Pass.
+
+- **Translation of لِعِدَّتِهِنَّ as "at [the onset of] their waiting period"** — consistent with Jalalayn's clarification (لأولها, "at its beginning") and Muyassar (مستقبلات لعدتهن, "facing toward their waiting period"). Not a mistranslation.
+
+SUMMARY: Every verifiable claim in the examined text is either confirmed by the provided tafsir and word-by-word data, or appropriately hedged where the reference data does not extend — no errors detected.

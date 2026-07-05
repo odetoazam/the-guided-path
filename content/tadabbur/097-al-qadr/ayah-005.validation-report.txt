@@ -1,0 +1,40 @@
+Enhanced Validation Report
+File: content/tadabbur/097-al-qadr/ayah-005.md
+Ayah: 97:5
+Date: 2026-06-20T05:44:45
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: سَلَـٰمٌ=Peace | هِىَ=it (is) | حَتَّىٰ=until | مَطْلَعِ=(the) emergence | ٱلْفَجْرِ=(of) the dawn.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- None found. All verifiable claims trace directly to the supplied reference data.
+
+Spot-checks conducted:
+
+1. **Al-Muyassar quotation** — "hiya amnun kulluhā, lā sharra fīhā" matches ar.muyassar exactly: *هي أمن كلها، لا شرَّ فيها إلى مطلع الفجر*. Accurate.
+
+2. **Al-Ḍaḥḥāk via al-Qurṭubī** — "lā yuqaddiru-llāhu fī tilka-l-laylati illā-s-salāmah" matches ar.qurtubi exactly: *لا يقدر الله في تلك الليلة إلا السلامة*. The contrast claim ("on other nights, calamity and safety mixed") also matches: *وفي سائر الليالي يقضي بالبلايا والسلامة*. Accurate.
+
+3. **Al-Kalbī attribution** — the reflection attributes al-Kalbī's angel-greeting report to al-Baghawī, which is correct: *الملائكة ينزلون فيه كلما لقوا مؤمنا أو مؤمنة سلموا عليه من ربه* appears in ar.baghawi, not al-Jalālayn directly. The reflection says "al-Jalālayn and al-Baghawī narrate… al-Kalbī reports" — this does not misplace al-Kalbī inside al-Jalālayn; the phrasing is sufficiently separated. No inversion.
+
+4. **Fronted predicate (khabar muqaddam)** — the grammatical analysis of *salāmun hiya* as a nominal sentence with fronted predicate is confirmed by al-Jalālayn: *خبر مقدم ومبتدأ*. Accurate.
+
+5. **Morphology footnote claim** — "No verb forms present in the ayah — all three content words are nouns." The word-by-word confirms this: سَلَـٰمٌ (noun), هِىَ (pronoun), مَطْلَعِ (maṣdar/verbal noun), ٱلْفَجْرِ (noun). Accurate.
+
+6. **Noun-vs-adjective rhetorical point** — presented as balāghah analysis, not attributed to a specific scholar. Grounded in classical Arabic rhetoric (khabar as essence rather than quality); no over-claim detected.
+
+SUMMARY: All scholar attributions verify verbatim against the supplied tafsir data, morphological claims are correct, and philosophical extensions are clearly framed as interpretive rather than sourced assertions — no errors to flag.

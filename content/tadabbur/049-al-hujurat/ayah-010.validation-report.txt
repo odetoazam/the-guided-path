@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/049-al-hujurat/ayah-010.md
+Ayah: 49:10
+Date: 2026-06-08T18:11:03
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّمَا=Only | ٱلْمُؤْمِنُونَ=the believers | إِخْوَةٌ=(are) brothers, | فَأَصْلِحُواْ=so make peace | بَيْنَ=between | أَخَوَيْكُمْ‌ۚ=your brothers, | وَٱتَّقُواْ ٱللَّهَ=and fear Allah | لَعَلَّكُمْ=so that you may | تُرْحَمُونَ=receive mercy.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR-TYPOGRAPHIC] Frontmatter and body Arabic omit `ۭ` after `إِخْوَةٌ` and the `ۚ` pause mark after `أَخَوَيْكُمْ` present in the authenticated text. These are rendering variants in Uthmanic script, not textual errors — the consonantal skeleton and meaning are unaffected.
+- [VERIFY-PENDING] "the Arabic in 49:9 is blunt about it: *iqtatalū*, they fought" — the classical sources consistently use the dual *iqtatalā* (اقتتلا), since 49:9 addresses two specific warring parties, not a general plural. The reflection's plural romanization is a simplification but does not invert the meaning; the verb, root (q-t-l Form VIII), and semantic content are correct. Low severity.
+- [NOTE] "Brotherhood is the entire definition of their relationship to one another" — this is a strong interpretive gloss on *qasr* (restriction) that goes one step further than the tafsir sources, which say *ikhwatun fī l-dīn* (brothers in religion). The claim is not contradicted by any source and is defensible from the *innamā* grammar, but it is the reflection's own synthesis, not a documented classical position. It is framed rhetorically, not as scholarly citation, so this does not rise to MODERATE.
+- [CONFIRMED ACCURATE] *Innamā* as particle of *qasr* restricting the predicate — correct, standard Arabic grammar.
+- [CONFIRMED ACCURATE] Nominal sentence (*jumla ismiyya*) as expressing a fixed, permanent state vs. verbal sentence — linguistically standard; well-grounded.
+- [CONFIRMED ACCURATE] Morphology note: `أَصْلِحُوا` (SlH Form IV imperative), `اتَّقُوا` (wqy Form VIII imperative), `تُرْحَمُونَ` (rHm Form I passive imperfect) — all three correct per Leeds corpus classification.
+- [CONFIRMED ACCURATE] Context of 49:10 following 49:9's legislation about fighting believers — directly supported by al-Muyassar ("إذا اقتتلا") and al-Baghawi ("إذا اختلفا واقتتلا").
+
+SUMMARY: No critical or moderate errors; the Arabic analysis is technically sound, morphology notes are accurate, and contextual framing matches classical sources — minor typographic diacritics and a rhetorical intensification of *qasr* are the only items worth a second look.

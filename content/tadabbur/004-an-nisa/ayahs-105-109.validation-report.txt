@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/004-an-nisa/ayahs-105-109.md
+Ayah: 4:105
+Date: 2026-06-24T08:34:41
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّآ=Indeed, | أَنزَلْنَآ=We (have) sent down | إِلَيْكَ=to you | ٱلْكِتَـٰبَ=the Book | بِٱلْحَقِّ=with the truth | لِتَحْكُمَ=so that you may judge | بَيْنَ=between | ٱلنَّاسِ=the people | بِمَآ=with what | أَرَٮٰكَ ٱللَّهُ‌ۚ=Allah has shown you. | وَلَا=And (do) not | تَكُن=be | لِّلْخَآئِنِينَ=for the deceitful | خَصِيمًا=a pleader.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "According to al-Qurṭubī, the Prophet ﷺ was nearly inclined to speak on Tuʿma's behalf" — The provided al-Qurṭubī excerpt confirms تأنيب (rebuke/reproach) and تقويم على الجادة في الحكم (a straightening on the path of judgment), which supports the correction theme, but the specific claim that the Prophet was "nearly inclined to speak on Tuʿma's behalf" is not present in the provided excerpt. This is an attribution to al-Qurṭubī that exceeds what the supplied reference data can confirm.
+
+- [MODERATE] "he hides the armor in the house of a Jewish man, Zayd ibn al-Samīn" — The Jalalayn confirms only "وخبأها عند يهودي" (he hid it with a Jewish man), and the al-Baghawi excerpt does not name the Jewish man in the passage provided. The name "Zayd ibn al-Samīn" cannot be verified from the supplied reference data. It appears in some classical narrations, but presenting it as a simple narrative fact — without attribution — overstates what is confirmable here.
+
+CONFIRMED ACCURATE (from provided data):
+- Tuʿma ibn Ubayriq / Qatāda ibn al-Nuʿmān / armor in a flour sack / flour trail — all confirmed by al-Baghawi ✓
+- Root *kh-ṣ-m*, *faʿīl* pattern, *lā takun* construction — linguistically correct ✓
+- Arabic in the reflection matches the authentic text within normal encoding variation ✓
+- *yakhtānūna anfusahum* rendered as betraying themselves — consistent with al-Muyassar's يخونون أنفسهم ✓
+
+SUMMARY: The reflection is linguistically rigorous and narratively well-grounded; two MODERATE issues arise from a specific scholar attribution and a proper name that go beyond what the supplied reference data can confirm.

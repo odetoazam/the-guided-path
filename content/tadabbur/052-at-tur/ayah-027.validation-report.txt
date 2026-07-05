@@ -1,0 +1,28 @@
+Enhanced Validation Report
+File: content/tadabbur/052-at-tur/ayah-027.md
+Ayah: 52:27
+Date: 2026-06-09T17:12:37
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَمَنَّ ٱللَّهُ=But Allah conferred favor | عَلَيْنَا=upon us, | وَوَقَـٰنَا=and protected us | عَذَابَ=(from the) punishment | ٱلسَّمُومِ=(of) the Scorching Fire.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR / INFORMATIONAL] "In 52:26 they were fearful. Fa-manna — and so, immediately, as the direct result, Allah favored." — The reflection reads the *fa* as strictly causal ("direct result"). The *fa* is a particle of sequence/consequence, and asserting direct causation slightly outruns what grammar alone establishes. However, this is rescued by al-Muyassar, which itself sequences their fear directly into divine favor: "إنا كنا...خائفين ربنا...فمنَّ الله علينا" — so the theological reading is tafsir-supported, not invented. Not a flag, a note.
+
+- [INFORMATIONAL] The waqānā section (Element Two, root *w-q-y*) is truncated in the submitted text. Cannot validate the "They Guarded, So He Guarded Them" argument beyond the heading. If that section builds a taqwā/wiqāya reciprocity claim, it should cite the semantic overlap of the roots — which is lexically sound (both from *wāw-qāf-yā*) — but the argument needs to stop short of implying mechanical exchange. Flag for review when the full section is submitted.
+
+SUMMARY: The submitted portion is linguistically accurate (roots *m-n-n*, *w-q-y*, *ʿ-dh-b*, *s-m-m* all correct; Arabic text matches), the *mann*-duality analysis is well-grounded and classically defensible, the 2:264 parallel is apt, and no scholar positions are misstated or inverted; the waqānā section cannot be fully validated from the truncated submission.

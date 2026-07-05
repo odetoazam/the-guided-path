@@ -1,0 +1,28 @@
+Enhanced Validation Report
+File: content/tadabbur/055-ar-rahman/ayah-033.md
+Ayah: 55:33
+Date: 2026-06-11T23:10:15
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَـٰمَعْشَرَ=O assembly | ٱلْجِنِّ=(of) the jinn | وَٱلْإِنسِ=and the men! | إِنِ=If | ٱسْتَطَعْتُمْ=you are able | أَن=to | تَنفُذُواْ=pass beyond | مِنْ=[of] | أَقْطَارِ=(the) regions | ٱلسَّمَـٰوَٲتِ=(of) the heavens | وَٱلْأَرْضِ=and the earth, | فَٱنفُذُواْ‌ۚ=then pass. | لَا=Not | تَنفُذُونَ=you (can) pass | إِلَّا=except | بِسُلْطَـٰنٍ=by authority.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "The classical commentators were unanimous on this. Al-Jalālayn names it directly: this is amr taʿjīz" — The Jalalayn attribution is precisely confirmed (`أمر تعجيز` + `ولا قوة لكم على ذلك`). However, "unanimous" overstates the provided evidence: al-Baghawi frames the impossibility through escape-from-death (`إن استطعتم أن تهربوا من الموت`) and al-Muyassar through escape from Allah's decree (`هاربين من أمر الله وحكمه`), neither using the technical term *amr al-taʿjīz*. The concept is consistent across sources; the unanimity of *nomenclature* is not established by the provided data.
+
+- [MODERATE] "نفذ...the word used for an arrow that does not merely strike the target but passes clean through it" — This is a sound Arabic lexical claim (Lisān al-ʿArab supports it) and the frontmatter correctly cites that source. However, none of the four tafsir sources provided use the arrow analogy; they gloss تنفذوا as تخرجوا / تجوزوا / تهربوا. The claim is lexically defensible but not confirmable from the supplied reference data. Flag for verification against Lisān al-ʿArab entry directly.
+
+SUMMARY: The reflection is substantially accurate and the Jalalayn citation is precise, but two claims are stated with more certainty than the supplied reference data supports — "unanimous" should be softened to "al-Jalalayn explicitly" and the arrow etymology should cite Lisān al-ʿArab directly rather than floating as assumed lexical fact.

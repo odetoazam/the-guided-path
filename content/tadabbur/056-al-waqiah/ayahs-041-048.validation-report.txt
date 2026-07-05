@@ -1,0 +1,27 @@
+Enhanced Validation Report
+File: content/tadabbur/056-al-waqiah/ayahs-041-048.md
+Ayah: 56:41
+Date: 2026-06-12T11:05:03
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَأَصْحَـٰبُ=And (the) companions | ٱلشِّمَالِ=(of) the left, | مَآ=what | أَصْحَـٰبُ=(are the) companions | ٱلشِّمَالِ=(of) the left?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE — cannot verify from supplied data] "interrogative of magnification and dread — *istifhām lit-tafkhīm wat-tahwīl*" — the compound term is not contradicted by any supplied tafsir source, and *istifhām lit-tafkhīm* is a recognized balāghah category, but the specific pairing *tafkhīm wat-tahwīl* as a single label cannot be confirmed from the Jalalayn/Muyassar/Qurtubi/Baghawi excerpts provided. Not flagged as an error — flagged as unverifiable against supplied references only.
+- [NOTE — coverage gap] Reference data covers ayah 41 only; the reflection treats ayahs 42–48 (samūm, ḥamīm, yaḥmūm, lā bārid wa lā karīm, mutrafīn, ḥinth al-ʿaẓīm, resurrection-denial). Those claims cannot be validated against supplied sources. The Muyassar excerpt does independently confirm the punishment imagery (hot wind, boiling water, black smoke), so ayah 42–43 claims check out. Ayahs 44–48 remain unvalidated at reference level.
+
+SUMMARY: All verifiable claims in ayah 41 — root ṣ-ḥ-b as close companionship, the magnifying *mā* construction, the structural parallel with 56:27, and the punishment imagery corroborated by al-Muyassar — are accurate and well-grounded; no critical or moderate errors detected in the supplied portion.

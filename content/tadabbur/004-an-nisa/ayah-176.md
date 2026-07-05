@@ -6,14 +6,15 @@ ayah_end: 176
 title: "Allah Clarifies So You Do Not Go Astray"
 slug: "004-176"
 category: tadabbur
-arabic: "يَسْتَفْتُونَكَ قُلِ ٱللَّهُ يُفْتِيكُمْ فِى ٱلْكَلَـٰلَةِ ۚ إِنِ ٱمْرُؤٌا۟ هَلَكَ لَيْسَ لَهُۥ وَلَدٌ وَلَهُۥٓ أُخْتٌ فَلَهَا نِصْفُ مَا تَرَكَ ۚ وَهُوَ يَرِثُهَآ إِن لَّمْ يَكُن لَّهَا وَلَدٌ ۚ فَإِن كَانَتَا ٱثْنَتَيْنِ فَلَهُمَا ٱلثُّلُثَانِ مِمَّا تَرَكَ ۚ وَإِن كَانُوٓا۟ إِخْوَةً رِّجَالًا وَنِسَآءً فَلِلذَّكَرِ مِثْلُ حَظِّ ٱلْأُنثَيَيْنِ ۗ يُبَيِّنُ ٱللَّهُ لَكُمْ أَن تَضِلُّوا۟ ۗ وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌۢ"
-translation: "They request from you a legal ruling. Say, 'Allah gives you a ruling concerning one leaving neither direct heirs in the usual line. If a man dies, leaving no child but only a sister, she will have half of what he left. And he inherits from her if she has no child. But if there are two sisters, they will have two-thirds of what he left. If there are brothers and sisters, then for the male is the share of two females. Allah makes clear to you lest you go astray. And Allah is Knowing of all things.'"
+arabic: "يَسْتَفْتُونَكَ قُلِ ٱللَّهُ يُفْتِيكُمْ فِى ٱلْكَلَـٰلَةِ ۚ إِنِ ٱمْرُؤٌا۟ هَلَكَ لَيْسَ لَهُۥ وَلَدٌ وَلَهُۥٓ أُخْتٌ فَلَهَا نِصْفُ مَا تَرَكَ ۚ وَهُوَ يَرِثُهَآ إِن لَّمْ يَكُن لَّهَا وَلَدٌ ۚ فَإِن كَانَتَا ٱثْنَتَيْنِ فَلَهُمَا ٱلثُّلُثَانِ مِمَّا تَرَكَ ۚ وَإِن كَانُوٓا۟ إِخْوَةً رِّجَالًا وَنِسَآءً فَلِلذَّكَرِ مِثْلُ حَظِّ ٱلْأُنثَيَيْنِ ۗ يُبَيِّنُ ٱللَّهُ لَكُمْ أَن تَضِلُّوا۟ ۗ وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌۢ"
+translation: "They request from you a legal ruling. Say, 'Allah gives you a ruling concerning al-kalālah — one who dies leaving neither child nor parent. If a man dies, leaving no child but only a sister, she will have half of what he left. And he inherits from her if she has no child. But if there are two sisters, they will have two-thirds of what he left. If there are brothers and sisters, then for the male is the share of two females. Allah makes clear to you lest you go astray. And Allah is Knowing of all things.'"
 word_count: 2140
 estimated_duration: "45-55 minutes"
-passage_context: "Surah An-Nisa closes by returning to family law after long passages on hypocrisy, revelation, prophetic truth, and the correction of theological excess. The ending itself is instructive: after all the surah's moral and doctrinal clarifications, Allah concludes with an inheritance ruling, teaching us that guidance must descend into the most painful and practical moments of family life."
+passage_context: "Surah An-Nisa closes by returning to family law after long passages on hypocrisy, revelation, prophetic truth, and the correction of theological excess. Classical commentators add a chronological frame the placement itself invites: Ibn Kathir, citing al-Bara' ibn 'Azib in al-Bukhari, records that the verse of al-kalālah was among the very last passages of legislation to be revealed — a ruling the Companions pressed the Prophet ﷺ about with unusual urgency near the end of his life. So the ending is instructive on two levels: after all the surah's moral and doctrinal clarifications, revelation concludes with an inheritance ruling, teaching us that guidance must descend into the most painful and practical moments of family life."
 generated_by: "codex-tadabbur"
 validated: true
 validation_date: "2026-04-18"
+semantic_review: "enriched-2026-07-02"
 tags: [fatwa, inheritance, family, clarity, guidance]
 concepts: [family, law-and-ethics, hidayah, taqwa, rizq]
 ---
@@ -35,17 +36,19 @@ concepts: [family, law-and-ethics, hidayah, taqwa, rizq]
 
 ## Surah An-Nisa (4:176)
 
-[ayah:4:176] يَسْتَفْتُونَكَ قُلِ ٱللَّهُ يُفْتِيكُمْ فِى ٱلْكَلَـٰلَةِ ۚ إِنِ ٱمْرُؤٌا۟ هَلَكَ لَيْسَ لَهُۥ وَلَدٌ وَلَهُۥٓ أُخْتٌ فَلَهَا نِصْفُ مَا تَرَكَ ۚ وَهُوَ يَرِثُهَآ إِن لَّمْ يَكُن لَّهَا وَلَدٌ ۚ فَإِن كَانَتَا ٱثْنَتَيْنِ فَلَهُمَا ٱلثُّلُثَانِ مِمَّا تَرَكَ ۚ وَإِن كَانُوٓا۟ إِخْوَةً رِّجَالًا وَنِسَآءً فَلِلذَّكَرِ مِثْلُ حَظِّ ٱلْأُنثَيَيْنِ ۗ يُبَيِّنُ ٱللَّهُ لَكُمْ أَن تَضِلُّوا۟ ۗ وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌۢ
+[ayah:4:176] يَسْتَفْتُونَكَ قُلِ ٱللَّهُ يُفْتِيكُمْ فِى ٱلْكَلَـٰلَةِ ۚ إِنِ ٱمْرُؤٌا۟ هَلَكَ لَيْسَ لَهُۥ وَلَدٌ وَلَهُۥٓ أُخْتٌ فَلَهَا نِصْفُ مَا تَرَكَ ۚ وَهُوَ يَرِثُهَآ إِن لَّمْ يَكُن لَّهَا وَلَدٌ ۚ فَإِن كَانَتَا ٱثْنَتَيْنِ فَلَهُمَا ٱلثُّلُثَانِ مِمَّا تَرَكَ ۚ وَإِن كَانُوٓا۟ إِخْوَةً رِّجَالًا وَنِسَآءً فَلِلذَّكَرِ مِثْلُ حَظِّ ٱلْأُنثَيَيْنِ ۗ يُبَيِّنُ ٱللَّهُ لَكُمْ أَن تَضِلُّوا۟ ۗ وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌۢ
 
 *Yastaftunaka quli Allahu yuftikum fi al-kalalah. Ini imru'un halaka laysa lahu waladun wa lahu ukhtun falaha nisfu ma tarak. Wa huwa yarithuha in lam yakun laha walad. Fa in kanata ithnatayni falahuma al-thuluthani mimma tarak. Wa in kanu ikhwatan rijalan wa nisa'an falildhakari mithlu hazzi al-unthayayni. Yubayyinu Allahu lakum an tadillu. Wallahu bikulli shay'in 'alim.*
 
-**They request from you a legal ruling. Say, "Allah gives you a ruling concerning one leaving neither direct heirs in the usual line. If a man dies, leaving no child but only a sister, she will have half of what he left. And he inherits from her if she has no child. But if there are two sisters, they will have two-thirds of what he left. If there are brothers and sisters, then for the male is the share of two females. Allah makes clear to you lest you go astray. And Allah is Knowing of all things."**
+**They request from you a legal ruling. Say, "Allah gives you a ruling concerning al-kalālah — one who dies leaving neither child nor parent. If a man dies, leaving no child but only a sister, she will have half of what he left. And he inherits from her if she has no child. But if there are two sisters, they will have two-thirds of what he left. If there are brothers and sisters, then for the male is the share of two females. Allah makes clear to you lest you go astray. And Allah is Knowing of all things."**
 
 [PAUSE]
 
 ## Introduction
 
 It is striking that Surah An-Nisa ends here.
+
+And the striking placement is not only literary. The classical scholars remembered this ayah as one of the very last pieces of legislation to descend. Ibn Kathir opens his commentary on it by citing al-Bara' ibn 'Azib, who reported in al-Bukhari that among the last verses revealed was, "They ask you for a legal ruling." The Companions felt its weight before it came: 'Umar is remembered as asking the Prophet ﷺ about *kalalah* more than he asked about anything else, and Ibn Kathir preserves the scene of Jabir ibn 'Abdullah, gravely ill and slipping in and out of consciousness, being visited by the Messenger ﷺ — the setting in which the ruling on this exact case was pressed and clarified. So the verse that closes the surah is not a calm postscript. It answered a question people were losing sleep over, near the end of the Prophet's own life.
 
 After long sections on justice, marriage, inheritance, hypocrisy, warfare, revelation, Isa, the People of the Book, and the truthfulness of the Messenger, the surah closes not with abstraction but with a family case. Someone has died. The house is grieving. Property remains. Siblings remain. Questions rise. Emotions rise. Confusion becomes dangerous very quickly. And into that moment the Qur'an does not say, "Handle it however feels compassionate." It says: Allah clarifies.
 
@@ -89,7 +92,9 @@ Then the ruling is named as being:
 
 fi al-kalalah.
 
-The ayah introduces a particular inheritance situation and then immediately spells out the concrete case rather than leaving the word floating in abstraction. A person dies, leaving no child, while a sister remains. Then the verse continues through related sibling configurations.
+Al-kalalah is a technical term, and the classical scholars were careful about what it does and does not include. Al-Tabari defines it as "what is other than child and parent" — *mā ʿadā al-walad wa'l-wālid* — that is, the deceased left behind neither offspring below him nor a father or mother above him. Al-Muyassar states the same two conditions plainly: *kalalah* is "one who dies having no child and no parent." This double condition matters for the whole ruling, because the shares in this ayah only take effect once both the descending line (children) and the ascending line (parents) are absent. A softer reading that hears only "no children" would misplace the case entirely. It is worth knowing, too, that al-Tabari notes there was genuine *ikhtilaf* among the early scholars over the precise scope of *kalalah* — the definition was disputed before it settled — so the tradition arrived at "neither child nor parent" through debate, not by assuming it.
+
+The ayah introduces this particular inheritance situation and then immediately spells out the concrete case rather than leaving the word floating in abstraction. A man dies, leaving no child, while a sister remains. And the classical commentators are precise about *which* sister: al-Muyassar specifies that the sister here is a full sister (by the same father and mother) or a paternal half-sister — not a maternal half-sister, whose case was already settled earlier in the surah. The Qur'an is not repeating itself; it is completing a map. Then the verse continues through related sibling configurations.
 
 That movement is itself instructive. The Qur'an does not glorify legal terminology for its own sake. It names the case, then turns quickly to lived reality: who died, who remains, what share belongs where.
 
@@ -107,7 +112,9 @@ This concreteness matters. The Qur'an could have ended with a general exhortatio
 
 [PAUSE]
 
-There is wisdom in that. People often agree on justice until justice costs them something countable. As long as justice is a sermon, everyone praises it. Once justice becomes half, or two-thirds, or less than what the ego hoped to take, sincerity is exposed. The verse does not allow righteousness to remain poetic. It turns righteousness into numbers that must be honored.
+There is a subtle asymmetry worth pausing on. When the sister survives her brother, she receives a fixed half — a named fraction (*nisf*). But when the case is reversed — "and he inherits from her" — al-Muyassar notes that the brother takes *all* her estate when she dies leaving no child and no parent. She receives a designated share; he inherits as the residuary heir. This is not favoritism dressed as law; it is the architecture of the inheritance system, in which some heirs take fixed portions (*farḍ*) and others take what remains (*ʿaṣabah*), carrying with that residual role the wider obligations of maintenance and protection that fall on the brother. The numbers are not arbitrary; they sit inside a structure.
+
+There is wisdom in that concreteness. People often agree on justice until justice costs them something countable. As long as justice is a sermon, everyone praises it. Once justice becomes half, or two-thirds, or less than what the ego hoped to take, sincerity is exposed. The verse does not allow righteousness to remain poetic. It turns righteousness into numbers that must be honored.
 
 This is one of the quiet strengths of Shari'ah. It protects the vulnerable not merely by urging kindness, but by fixing claims. And fixed claims are often kinder than vague goodwill, because vague goodwill can be rewritten by whoever has more power in the room.
 
@@ -121,7 +128,7 @@ yubayyinu Allahu lakum an tadillu.
 
 Allah makes things clear to you lest you go astray.
 
-Yubayyinu comes from clarification, making something distinct, removing blur. This means the legal detail itself is an act of divine bayan. The explanation is mercy.
+Yubayyinu comes from clarification, making something distinct, removing blur. This means the legal detail itself is an act of divine bayan. The explanation is mercy. Al-Muyassar reads the phrase exactly this way: Allah clarifies the division of inheritance and the ruling of *kalalah* "so that you do not stray from the truth in the matter of inheritance." The clarity is aimed at a specific danger — drifting from the right in the very place people are most tempted to drift.
 
 [PAUSE]
 
@@ -145,7 +152,7 @@ This ayah protects us from romanticizing those moments. It assumes that families
 
 [PAUSE]
 
-There is also a lesson here about how we think of "spiritual" versus "technical." Many people feel alive when reading verses about tawakkul, sabr, tawbah, or Jannah, but go emotionally flat when the Qur'an speaks with legal precision. Yet this ending of Surah An-Nisa teaches the opposite instinct. Precision is spiritual when it protects souls from zulm.
+There is also a lesson here about how we think of "spiritual" versus "technical." Many people feel alive when reading verses about tawakkul, sabr, tawbah, or Jannah, but go emotionally flat when the Qur'an speaks with legal precision. Yet this ending of Surah An-Nisa teaches the opposite instinct. Precision is spiritual when it protects souls from zulm. And it is worth remembering that this precision was so needed that the Companions kept returning to the Prophet ﷺ about it, and that a version of its answer came in the difficult hour of illness and mortality — not as dry jurisprudence, but as guidance handed down where death was close and real.
 
 Think about what happens when rights are unclear. One sibling carries bitterness for years. Another learns that power is what determines fairness. A widow or sister is pressured to accept less "for the sake of family harmony." A brother tells himself he is only being practical. Children grow up watching money expose what their elders really worship. The estate gets distributed, but the moral wreckage remains.
 
@@ -161,7 +168,7 @@ So the verse leaves us with a form of taqwa that is very concrete: honor Allah i
 
 Surah An-Nisa ends by showing us that revelation is not complete until it reaches the most practical edges of human life.
 
-The ayah begins with a question for ruling and answers it with Allah's own decisive clarification. It moves through counted shares because justice must become measurable if the vulnerable are to be protected. Then it closes by unveiling the mercy inside the detail: Allah explains so you do not go astray. That means the law here is not a dry appendix to faith. It is one of faith's safeguards.
+The ayah begins with a question for ruling and answers it with Allah's own decisive clarification. It names the case — *kalalah*, the one who leaves behind neither child nor parent — and moves through counted shares because justice must become measurable if the vulnerable are to be protected. Then it closes by unveiling the mercy inside the detail: Allah explains so you do not go astray. That means the law here is not a dry appendix to faith. It is one of faith's safeguards.
 
 If the surah has spent so much time teaching justice, responsibility, trust, truthfulness, resistance to hypocrisy, and proper submission to revelation, then it is fitting that it ends in the family estate. Because that is where all those values are tested without applause.
 
@@ -176,4 +183,4 @@ Ask yourself:
 
 The distillation of the ayah is this: **Allah clarifies the most delicate human rights because a grieving heart can still go astray, and divine precision is one of His mercies.**
 
-O Allah, make us people who accept Your clarification with trust, honor the rights You assign, and do not let grief, fear, or desire turn us away from justice.
+O Allah, make us people who accept Your clarification with trust, honor the rights You have fixed even when they cost us, and never disguise our own desire as justice. You are Knowing of all things — so guide us where our own hearts cannot see, and keep us from going astray in the very places we thought we were being kind. Ameen.

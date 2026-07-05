@@ -1,0 +1,30 @@
+Enhanced Validation Report
+File: content/tadabbur/058-al-mujadila/ayahs-009-010.md
+Ayah: 58:9
+Date: 2026-06-12T19:10:51
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ=O you who believe! | إِذَا=When | تَنَـٰجَيْتُمْ=you hold secret counsel | فَلَا=then (do) not | تَتَنَـٰجَوْاْ=hold secret counsel | بِٱلْإِثْمِ=for sin | وَٱلْعُدْوَٲنِ=and aggression | وَمَعْصِيَتِ=and disobedience | ٱلرَّسُولِ=(to) the Messenger, | وَتَنَـٰجَوْاْ=but hold secret counsel | بِٱلْبِرِّ=for righteousness | وَٱلتَّقْوَىٰ‌ۖ=and piety. | وَٱتَّقُواْ=And fear | ٱللَّهَ=Allah, | ٱلَّذِىٓ=the One Who, | إِلَيْهِ=to Him | تُحْشَرُونَ=you will be gathered.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "al-Baghawī and al-Qurṭubī among them — describe a practice of the hypocrites and some of the Jewish factions of Madinah" — **confirmed**. Both sources use near-identical wording: *"كفعل المنافقين واليهود"* (like the practice of the hypocrites and the Jews). Attribution is accurate and not overstated.
+- [PASS] "Form VI, *tafāʿala*... reciprocity" — **confirmed grammatically**. *tanājaytum*, *tatanājaw*, and *tanājaw* are all Form VI (tafāʿala pattern) of root ن-ج-و. The reciprocal reading ("mutual, between two parties") is lexically correct for this binyan.
+- [PASS] "the core sense of this root is not 'secret' at all… to be delivered, to be rescued, to reach safety… *najāt* — salvation" — **cannot verify from the provided reference snippets**, which cite the tafsir texts only. However, this is a well-attested claim in Arabic lexicology (Lisān al-ʿArab, Mufradāt al-Rāghib as cited in the reflection); it is not contradicted by any provided source. No error can be identified.
+- [PASS] Arabic text in the frontmatter and body — minor diacritical presentation differences from the authenticated Arabic (hamza seats, sukūn rendering) are typographic variants, not textual errors.
+- [NOTE — not an error] The reflection covers **ayahs 9–10** but the supplied reference data covers only ayah 9. Verse 10's treatment (*li-yaḥzuna*, *bi-idhni-llāh*, *tawakkul*) cannot be cross-checked against the tafsir sources provided. Nothing in the cut-off text flags as erroneous, but the validator's confidence on verse 10 claims is lower.
+
+SUMMARY: All verifiable claims in the first 8,000 characters are accurate and well-grounded — historical context attributions to al-Baghawī and al-Qurṭubī are confirmed by the provided sources, morphological analysis is correct, and no Arabic text errors are present.

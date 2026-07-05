@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/036-ya-sin/ayahs-078-083.md
+Ayah: 36:78
+Date: 2026-05-14T23:16:06
+
+[1] Arabic text: ❌ fail
+    → Arabic text mismatch. API: "وَضَرَبَ لَنَا مَثَلًۭا وَنَسِىَ خَلْقَهُۥ ۖ قَالَ مَن يُحْىِ ٱلْعِظَٰمَ وَهِىَ ..."
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَضَرَبَ=And he sets forth | لَنَا=for Us | مَثَلاً=an example | وَنَسِىَ=and forgets | خَلْقَهُۥ‌ۖ=his (own) creation. | قَالَ=He says, | مَن=`Who | يُحْىِ=will give life | ٱلْعِظَـٰمَ=(to) the bones | وَهِىَ=while they | رَمِيمٌ=(are) decomposed?`
+
+[4] quran-validator: ✅ pass
+  Passed:   1
+  Warnings: 5
+  Failed:   0
+
+⚠️  All verses matched but 5 had diacritics or partial differences.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+
+- [MODERATE] passage_context field: "The surah began with a dead city and sealed hearts" — The qaryah (city) narrative does not open the surah. Surah Ya-Sin opens with the oath, the Prophet's mission (36:1–6), and then the sealed-hearts passage (36:7–12). The city story (ahl al-qaryah) begins at 36:13 — after the surah has already established its central frame. Characterizing the city narrative as part of the surah's beginning misrepresents the compositional structure. "Sealed hearts" is accurate for the surah's opening movement; "dead city" is not.
+
+- [CANNOT VERIFY — not flagged as error] "The narrations identify him as Ubayy ibn Khalaf — or, in some reports, al-'As ibn Wa'il" — None of the four tafsir sources provided (Jalalayn, Muyassar, Qurtubi, Baghawi) name the individual. The Jalalayn narrates the bone-crumbling incident without attribution. The names are verifiable from Ibn Kathir and Tabari, and the disputed attribution between these two figures is a documented scholarly position — but it cannot be confirmed or denied from the reference data supplied here. The hedge ("or, in some reports") is appropriately calibrated.
+
+Everything else in the provided text is well-grounded:
+- Root ض ر ب analyzed correctly as "to strike"; the idiom *daraba mathal* is standard
+- Root ن س ي and its moral weight is consistent with the tafsir tradition (Jalalayn: "وهو أغرب من مثله"; Qurtubi: "جوابه من نفسه حاضر")
+- *Khalqahu* read as "how he was made" is the dominant reading across all four sources (from nutfa/semen); the ambiguity note is linguistically honest
+- لَنَا ("for Us") interpretation is accurate to the text
+
+SUMMARY: One MODERATE structural error in the metadata misplaces the city narrative at the surah's opening; the linguistic and theological core of the reflection is accurate and tafsir-consistent.

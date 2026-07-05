@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/070-al-maarij/ayahs-038-039.md
+Ayah: 70:38
+Date: 2026-06-15T02:13:52
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَيَطْمَعُ=Does long | كُلُّ=every | ٱمْرِىٍٕ=person, | مِّنْهُمْ=among them | أَن=that | يُدْخَلَ=he enters | جَنَّةَ=a Garden | نَعِيمٍ=(of) Delight?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE] Word-by-word reference translates يُدْخَلَ as "he enters" (active), but the reflection correctly identifies it as passive (*yudkhala* = "he be admitted"). The reflection's linguistic analysis is more precise than the provided word-by-word gloss — no error in the reflection.
+- [NOTE] The ṭ-m-ʿ lexical characterization ("coveting," greed, grasping beyond one's right) is cited against Lisān al-ʿArab and Mufradāt al-Rāghib in the frontmatter comment. Those sources cannot be verified from the reference data supplied here. The characterization is lexically standard and uncontroversial, but the validator flags it as unverifiable from the provided corpus.
+
+VERIFIED CLEAN:
+- Al-Qurtubi attribution: "If these people are going to enter Paradise, then we'll enter it before them…" matches `ar.qurtubi` verbatim (لئن دخل هؤلاء الجنة لندخلنها قبلهم، ولئن أعطوا منها شيئا لنعطين أكثر منه).
+- Ibn ʿAbbās via al-Baghawī: "does each of them really expect to enter My Garden, the way the Muslims enter it… while he has called My Prophet a liar?" matches `ar.baghawi` faithfully (أيطمع كل رجل منهم أن يدخل جنتي كما يدخلها المسلمون ويتنعم فيها وقد كذب نبيي؟). Attribution chain (Ibn ʿAbbās → al-Baghawī) is correct.
+- *Istifhām inkārī* (denying interrogative hamza): standard grammatical designation, applied correctly.
+- Passive voice analysis of *yudkhala*: morphologically correct — يُدْخَلَ is Form I passive imperfect, not active.
+- Arabic text in frontmatter matches the authenticated Arabic for 70:38.
+
+SUMMARY: The reflection is linguistically precise, scholar attributions are verified against the supplied tafsir, and no factual errors are present in the material that can be checked against the provided reference data.

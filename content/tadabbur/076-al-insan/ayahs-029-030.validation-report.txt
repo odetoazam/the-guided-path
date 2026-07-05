@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/076-al-insan/ayahs-029-030.md
+Ayah: 76:29
+Date: 2026-06-18T08:51:27
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّ=Indeed, | هَـٰذِهِۦ=this | تَذْكِرَةٌ‌ۖ=(is) a reminder, | فَمَن=so whoever | شَآءَ=wills, | ٱتَّخَذَ=let him take | إِلَىٰ=to | رَبِّهِۦ=his Lord | سَبِيلاً=a way.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE] "Here is what the word itself insists on: you cannot remind someone of something they never knew... The truth of your Lord is not foreign to you. It is native. It was placed in you before you were a person worth mentioning." — This draws a fitra/mithaq connection directly from the word tadhkira. The claim that dhikr semantically requires prior knowledge is linguistically sound (you cannot remember what you never knew). However, the leap to pre-existential innate knowledge of one's Lord goes beyond what the provided sources say about this ayah. Al-Qurṭubī, al-Baghawī, and al-Jalālayn all gloss tadhkira as mawʿiẓa (admonition) without the fitra inference. The reflection presents this as the author's deduction rather than attributing it to a named scholar — so there is no misattribution — but readers may receive it as a stronger claim than the classical sources support at this ayah.
+
+Verified clean:
+- **Scholar attributions**: al-Qurṭubī → "تذكرة أي موعظة" ✓; al-Baghawī → "تذكير وعظة" ✓; al-Jalālayn → "عظة للخلق" (ʿiẓa lil-khalq) ✓ — all three confirmed verbatim against provided tafsir.
+- **hādhihi = the surah**: Confirmed by all four sources (Jalālayn, Muyassar, Qurṭubī, Baghawī). ✓
+- **Root dh-k-r, Form II tadhkira (causative/intensive)**: Linguistically accurate; the intensification-toward-other reading of Form II is standard Quranic morphology. ✓
+- **sabil as path of obedience**: Jalālayn "طريقا بالطاعة," Qurṭubī "طريقا موصلا إلى طاعته," Baghawī "وسيلة بالطاعة" — all consistent with the reflection's treatment. ✓
+- **76:3 Arabic and translation quoted**: Appears accurate; within scope of reflection context. ✓
+
+SUMMARY: The reflection is linguistically precise and all three scholar attributions verify against the provided tafsir data; the one flag is the fitra extension drawn from tadhkira's semantics, which is theologically orthodox but goes beyond what these specific sources say about this ayah — presented as interpretive deduction rather than documented fact, keeping it out of MODERATE territory.

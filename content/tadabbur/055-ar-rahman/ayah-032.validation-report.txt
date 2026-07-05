@@ -1,0 +1,30 @@
+Enhanced Validation Report
+File: content/tadabbur/055-ar-rahman/ayah-032.md
+Ayah: 55:32
+Date: 2026-06-12T08:14:04
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَبِأَىِّ=So which | ءَالَآءِ=(of the) favors | رَبِّكُمَا=(of) your Lord | تُكَذِّبَانِ=will you both deny?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [INFORMATIONAL] "Some said the singular is *ilan*, some said *ilun*, some said *aluwwun*" — Cannot verify these exact singular forms against the supplied reference data (no Lisān al-ʿArab or Mufradāt excerpt provided). The claim that the singular of آلاء is lexicographically disputed is sound and widely attested, but the specific forms listed go beyond what the supplied sources confirm. This is a documentation gap, not a demonstrated error.
+- [INFORMATIONAL] "the verb تُكَذِّبَان is Form II (taḍʿīf), imperfect, dual" — The label "taḍʿīf" is used loosely (it names the morphological process — gemination of the middle radical — rather than the form number), but the analysis itself is correct: Form II, imperfect, dual subject. No error.
+- [NOTE] The theological extension — that ālāʾ's plural-only character means "favors only come in crowds / braided together" — is interpretive reflection not sourced to any tafsir. It is, however, explicitly framed as devotional reasoning ("What is Allah teaching us…"), not as a documented scholarly position. Within the genre of tadabbur this is appropriate; it would be a MODERATE flag only if presented as classical consensus.
+- The identification of verse 31 (سَنَفْرُغُ لَكُمْ أَيُّهَ ٱلثَّقَلَانِ) as announcing the Reckoning and the dual address to jinn and mankind is confirmed by al-Qurtubi's commentary supplied.
+- The 31-occurrence count, the Arabic text, the translation, and the Form II morphology of تُكَذِّبَانِ are all accurate.
+
+SUMMARY: The reflection is linguistically and contextually sound; the one unverifiable claim (specific singular forms of آلاء) hedges appropriately by naming the scholarly disagreement rather than asserting a single answer.

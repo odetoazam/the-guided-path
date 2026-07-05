@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/056-al-waqiah/ayahs-013-014.md
+Ayah: 56:13
+Date: 2026-06-12T10:18:06
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ثُلَّةٌ=A company | مِّنَ=of | ٱلْأَوَّلِينَ=the former people,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Al-Qurtubi preserves the moment this verse landed on the Companions. He reports — and his text breaks off right at the wound — that when this was revealed, *'shaqqa 'alā aṣḥāb...'*" — The provided Al-Qurtubi text is truncated and does not contain the phrase *shaqqa 'alā aṣḥāb* or any report of the Companions being grieved. The underlying historical claim is authentic — the incident where the Companions were distressed by 56:13-14 is documented in Ṣaḥīḥ al-Bukhārī and Muslim via Ibn Masʿūd, using the verb *ḥazina* (they grieved), not *shaqqa*. However, sourcing this incident specifically to Al-Qurtubi with an Arabic phrase that does not appear in the provided excerpt is an unverifiable attribution from the supplied reference data. The reflection should cite this to Bukhari/Muslim directly rather than attributing the specific verbal report to Qurtubi.
+
+- [MODERATE] "They heard 'and few of the later,' and they understood: *the door to the very front rank is closing behind the first generations*" — this frames *al-ākhirīn* as broadly meaning later generations of the ummah (including us, 14 centuries downstream). The provided Al-Qurtubi text, however, explicitly records Al-Ḥasan al-Baṣrī's position: *"ثلة ممن قد مضى قبل هذه الأمة، وقليل من أصحاب محمد ﷺ"* — meaning *al-ākhirīn* refers specifically to the Companions of the Prophet, not later generations at all. Al-Muyassar similarly reads *al-ākhirīn* as the later portion of *this ummah* (not all subsequent history). The reflection presents only the Baghawi/Jalalayn reading (awwalīn = pre-Islamic nations; ākhirīn = the Islamic ummah broadly) without acknowledging the competing classical interpretation. This is an interpretive flattening, not a factual error, but it misstates the scope of scholarly consensus.
+
+CONFIRMED ACCURATE:
+- The Al-Baghawi quote is exact. The provided source reads *"والثلة: جماعة غير محصورة العدد"* — the reflection renders this as *"jamāʿatun ghayru maḥṣūrati-l-ʿadad"*, a precise transliteration of the same Arabic.
+- Root assignment ث-ل-ل for *thullah* is correct per Arabic morphology. The pastoral etymology (a shorn portion of a flock) is lexically attested in Lisān al-ʿArab, as the frontmatter comment notes.
+- The Arabic text of both ayahs is reproduced without error.
+
+SUMMARY: The Al-Baghawi lexical analysis is accurate and well-sourced, but the reflection attributes a specific *shaqqa* report to Al-Qurtubi that cannot be verified from the provided data (the hadith is real but lives in Bukhari/Muslim, not demonstrably in this Qurtubi passage), and it silently collapses a live scholarly debate about who *al-ākhirīn* refers to by presenting only one of at least three classical positions.

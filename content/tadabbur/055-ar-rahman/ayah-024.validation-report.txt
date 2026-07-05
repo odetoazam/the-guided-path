@@ -1,0 +1,30 @@
+Enhanced Validation Report
+File: content/tadabbur/055-ar-rahman/ayah-024.md
+Ayah: 55:24
+Date: 2026-06-12T00:20:30
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَلَهُ=And for Him | ٱلْجَوَارِ=(are) the ships | ٱلْمُنشَـَٔـاتُ=elevated | فِى=in | ٱلْبَحْرِ=the sea | كَٱلْأَعْلَـٰمِ=like mountains.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "And to Him belong the ships, raised high, running through the sea like mountains." — Translation accurately reflects the word-by-word data: وَلَهُ = And for Him, ٱلْجَوَارِ = ships (root jry/running), ٱلْمُنشَـَٔـاتُ = elevated (fath reading = المرفوعات, confirmed by al-Baghawi and al-Muyassar), كَٱلْأَعْلَـٰمِ = like mountains (Jalalayn: *ka'l-jibāl ʿiẓaman wa-rtifāʿan*). No translation error.
+- [PASS] "putting a word first is how Arabic raises its voice… very often it is restriction" — Taqdīm of predicate (*lahu* before *al-jawāri*) producing ikhtiṣāṣ/emphasis is a standard Arabic grammatical principle; the reflection applies it correctly and without overclaiming.
+- [PASS] Root analysis: الجوار from جري (running), المنشآت from ن-ش-أ (raising into being / المرفوعات) — both are lexically attested and confirmed by al-Qurṭubī (Mujāhid's reading: ships whose sails are raised), al-Baghawī, and al-Jalālayn.
+- [PASS] Passage sequencing (55:19-20 two seas → 55:22 pearls/coral → 55:24 ships) — accurate per surah structure.
+- [MODERATE] "You own the wood. He owns the holding-up." / "He gave it the sea that holds the shape up" — The buoyancy-as-the-owned-thing framing is an interpretive extension not found in the classical sources provided, which focus on the ship's greatness and motion as the sign, not on buoyancy physics specifically as the locus of divine ownership. It is theologically coherent and clearly presented as tadabbur reflection rather than reported tafsir fact, so it does not rise to CRITICAL — but it should not be presented as the intended meaning of *lahu*.
+
+SUMMARY: The reflection's Arabic, root analysis, grammatical observations, and classical framing are all sound; the single moderate flag is the buoyancy gloss ("He owns the holding-up") which is a legitimate tadabbur extension but exceeds what the referenced tafsir actually states about *lahu*.

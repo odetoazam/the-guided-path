@@ -1,0 +1,29 @@
+Enhanced Validation Report
+File: content/tadabbur/036-ya-sin/ayahs-033-040.md
+Ayah: 36:33
+Date: 2026-05-14T23:06:17
+
+[1] Arabic text: ✅ pass
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَءَايَةٌ=And a Sign | لَّهُمُ=for them | ٱلْأَرْضُ=(is) the earth | ٱلْمَيْتَةُ=dead. | أَحْيَيْنَـٰهَا=We give it life | وَأَخْرَجْنَا=and We bring forth | مِنْهَا=from it | حَبًّا=grain, | فَمِنْهُ=and from it | يَأْكُلُونَ=they eat.
+
+[4] quran-validator: ❌ fail
+Command failed: node scripts/verify_arabic.mjs "content/tadabbur/036-ya-sin/ayahs-033-040.md" --scan
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "called 'the heart of the Quran' by the Prophet ﷺ" — The hadith ("inna li kulli shay'in qalban wa qalbu al-Qur'an Yasin," Ibn Majah/Tirmidhi) is widely cited in traditional literature but its chain contains weakness; Ibn al-Salah and others flagged narrators. Presenting it as unqualified prophetic attribution rather than "as narrated" or "in a widely-cited hadith" overstates its standing. This is a recurring pattern in popular Islamic writing, not a fabrication — but qualifications are warranted.
+
+- [NOTE — NOT AN ERROR] "istidlal al-ma'qul bil-mahsus" — The phrase parses correctly as "demonstration of the intelligible by means of the perceptible." The Arabic construction is sound and the gloss "using the visible to reveal the invisible" is accurate.
+
+Morphology verified clean: root=حبب for حَبًّا (Form I noun, correct), root=سلخ Form I for نَسْلَخُ (correct — the "butcher's verb" characterization is lexically accurate), root=قرر Form X for مُسْتَقَرّ (correct), root=بغي Form VII for يَنۢبَغِى (correct), root=سبح Form I for يَسْبَحُونَ (correct — "swimmer" gloss accurate).
+
+Translation matches word-by-word reference with no divergence. Tafsir consensus captured correctly: Baghawi, Jalalayn, Muyassar, and Qurtubi all frame 36:33 as a sign toward resurrection (al-ba'th) — the passage_context's "all point in one direction" is a sound characterization.
+
+**Caveat:** The reflection body is truncated at "You have held a date in your hand." — only frontmatter, morphology annotations, and the passage_context paragraph were available for validation. The substantive prose claims (linguistic analysis of individual ayahs, any scholar attributions, interpretive bridges) could not be assessed. Flag this file for a second-pass validation once the full body is submitted.
+
+SUMMARY: Structurally and morphologically sound with one hadith-authenticity qualification needed; full prose validation is blocked by truncation.

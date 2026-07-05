@@ -1,0 +1,30 @@
+Enhanced Validation Report
+File: content/tadabbur/048-al-fath/ayah-007.md
+Ayah: 48:7
+Date: 2026-06-08T14:50:16
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَلِلَّهِ=And for Allah | جُنُودُ=(are the) hosts | ٱلسَّمَـٰوَٲتِ=(of) the heavens | وَٱلْأَرْضِ‌ۚ=and the earth. | وَكَانَ ٱللَّهُ=and Allah | عَزِيزًا=(is) All-Mighty, | حَكِيمًا=All-Wise.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [INFORMATIONAL] The central premise — "this exact sentence appears twice in this same surah, just three verses apart, and each time ends with a different name of Allah" — cannot be verified from the reference data provided, which covers only 48:7. The claim (that 48:4 closes with ʿAlīm-Ḥakīm while 48:7 closes with ʿAzīz-Ḥakīm) is textually accurate per the Quran itself and is a legitimate structural observation, but the validator cannot cross-check it against supplied tafsir excerpts. Flag for the pipeline to supply 48:4 data in future runs.
+- [INFORMATIONAL] The Qurṭubī anecdote is quoted accurately and attributed correctly. The reflection renders it as "one of the leading hypocrites" without naming him; the Arabic source names "Ibn Abi" (ابن أبي — ʿAbdullāh ibn Ubayy). Omitting the name is a stylistic choice, not an error.
+- [INFORMATIONAL] The ʿUmar distress-at-Hudaybiyya exchange is accurately paraphrased against its Sira/Bukhārī base. No over-attribution.
+- [INFORMATIONAL] Morphological claims are correct: kāna is Form I perfect; ʿazīz and ḥakīm are faʿīl-pattern adjectives. The taqdīm/fronting analysis and the lām of possession claim are standard Arabic grammar and are not overstated.
+- [INFORMATIONAL] The passage cuts off mid-sentence at "First word. Befor[e]" — validation covers only what was submitted; the remainder of the article could not be assessed.
+
+SUMMARY: No errors detected in the submitted portion; all tafsir citations, morphological claims, historical narrative, and grammatical analysis are accurate and appropriately scoped.

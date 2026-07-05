@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/033-al-ahzab/ayah-014.md
+Ayah: 33:14
+Date: 2026-05-15T05:22:20
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَلَوْ=And if | دُخِلَتْ=had been entered | عَلَيْهِم=upon them | مِّنْ=from | أَقْطَارِهَا=all its sides | ثُمَّ=then | سُئِلُواْ=they had been asked | ٱلْفِتْنَةَ=the treachery, | لَأَتَوْهَا=they (would) have certainly done it | وَمَا=and not | تَلَبَّثُواْ=they (would) have hesitated | بِهَآ=over it | إِلَّا=except | يَسِيرًا=a little.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- MODERATE: "The same Quran that...names Banū Naḍīr" — Banū Naḍīr does not appear by that tribal name anywhere in the Quranic text. Surah 59 (Al-Ḥashr) addresses them only as *alladhīna kafarū min ahl al-kitāb* (59:2); the identification with Banū Naḍīr comes from the tafsīr tradition, not the Quranic text itself. The reflection's rhetorical point (that the Quran elsewhere names enemies specifically) holds via the Quraysh and Abū Lahab examples — the Banū Naḍīr example should be removed or reframed as "whom the tafsīr tradition identifies as Banū Naḍīr."
+
+- NOTE (cannot verify from provided data, flag for full-reflection check): All four classical sources — Jalālayn, Muyassar, Qurṭubī, Baghawī — explicitly gloss **الْفِتْنَةَ** here as *al-shirk* (apostasy from Islam / return to polytheism), not merely "treachery" in the generic sense. The visible portion of the reflection uses "fitnah" neutrally without defining it. If the sections beyond this excerpt define fitnah without anchoring it to the shirk/apostasy consensus, that would rise to MODERATE.
+
+Everything else passes:
+- Both passives (دُخِلَتْ, سُئِلُوا) correctly identified and their absence-of-agent analysis is textually grounded
+- Al-Qurṭubī's gloss on *aqṭārihā* as *nawāḥīhā wa jawānibuhā*, referring to "either the houses or the city," is accurately represented
+- Historical framing (10,000-man coalition, Salmān's trench, Banū Qurayẓa, 5 AH) is standard in the sīra tradition
+- The double-passive as a theological/rhetorical device is presented as the author's interpretive observation, not attributed to a named scholar — appropriate for tadabbur
+
+SUMMARY: One factual overstatement in a supporting rhetorical example (the Quran "naming" Banū Naḍīr by tribal name), plus an unresolvable flag on the fitnah = shirk definition that must be checked against the full text; the linguistic and scholarly core is sound.

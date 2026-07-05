@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/055-ar-rahman/ayahs-068-069.md
+Ayah: 55:68
+Date: 2026-06-12T08:41:10
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فِيهِمَا=In both of them | فَـٰكِهَةٌ=(are) fruits | وَنَخْلٌ=and date-palms | وَرُمَّانٌ=and pomegranates.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "Al-Qurtubi...lays the question out plainly. He reports that some of the scholars said...the pomegranate and the date-palm must not be counted among 'fruit' at all; that, he says, is the apparent surface of the words." — Accurate. Qurtubi: «ليس الرمان والنخل من الفاكهة، لأن الشيء لا يعطف على نفسه...وهذا ظاهر الكلام». The reflection captures the minority position and its grammatical rationale correctly.
+
+- [PASS] "*li-faḍlihimā wa ḥusni mawqiʿihimā* — 'because of their excellence and the beauty of their standing'" attributed to the jumhūr position — Accurate. Qurtubi's exact phrasing: «لفضلهما وحسن موقعهما على الفاكهة». Attributed to the correct camp.
+
+- [PASS] Al-Baghawi's phrase "*lil-takhṣīṣ wa-l-tafṣīl*" — Accurate. Baghawi: «للتخصيص والتفصيل». No distortion.
+
+- [PASS] "al-Jalālayn the same" (on the majority view) — Accurate. Jalalayn leads with «هما منها» before noting the alternative, consistent with the majority position the reflection describes.
+
+- [UNVERIFIABLE, not an error] "When the Prophet ﷺ spoke of the believer, he reached for this tree as the image: like a date-palm, always giving, never harming." — This narration (Bukhari/Muslim) is well-documented and accurately paraphrased, but it is outside the reference data supplied for this validation pass. No fabrication; the sourcing is sound from external hadith corpora.
+
+- [PASS] ʿaṭf al-khāṣṣ ʿalā al-ʿāmm framing — Not contradicted by any supplied source; the tafsir sources confirm the rhetorical move (separate naming of specific items already subsumed under the general) without necessarily using that precise technical label. The label is legitimate classical balagha terminology.
+
+SUMMARY: All three tafsir sources are quoted with precision and attributed correctly; no root errors, no scholar-position inversions, and no Arabic text errors are present in the submitted portion.

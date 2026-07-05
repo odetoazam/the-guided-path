@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/033-al-ahzab/ayah-052.md
+Ayah: 33:52
+Date: 2026-05-15T04:23:09
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: لَّا=(It is) not | يَحِلُّ=lawful | لَكَ=for you | ٱلنِّسَآءُ=(to marry) women | مِنۢ بَعْدُ=after (this) | وَلَآ=and not | أَن=to | تَبَدَّلَ=exchange | بِهِنَّ=them | مِنْ=for | أَزْوَٲجٍ=(other) wives | وَلَوْ=even if | أَعْجَبَكَ=pleases you | حُسْنُهُنَّ=their beauty, | إِلَّا=except | مَا=whom | مَلَكَتْ يَمِينُكَۗ=you rightfully possess | وَكَانَ ٱللَّهُ=And Allah is | عَلَىٰ=over | كُلِّ=all | شَىْءٍ=things | رَّقِيبًا=an Observer.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE — not flagged] "The women who stood by him in the moment of testing are being honored by being made permanent" / "The household of the Messenger is being sealed" — The Qurtubi (provided in the reference data) leads with seven scholarly positions, the first being that this ayah was abrogated by the Sunnah (ḥadīth of ʿĀʾisha that the Prophet ﷺ died while still able to marry). The reflection presents the "permanent/sealed" framing as settled without acknowledging this dispute. However, since the reflection makes no explicit fiqh claim ("the Prophet was legally prohibited…") and frames everything thematically for tadabbur, this does not rise to MODERATE. A future revision could add a single-sentence acknowledgment that scholars differ on the ruling's legal force, while preserving the spiritual reading intact.
+
+- [PASS] Form V (*tabaddala*) analysis — accurate. Root b-d-l, Form II *baddala* → Form V *tabaddala* (ta-fʿʿala pattern). Characterization as "reflexive of Form II / self-initiated action" is well-attested in classical morphology. The distinction drawn between Form II (transitive exchange) and Form V (the inner movement toward self-serving replacement) is linguistically sound and not an overreach.
+
+- [PASS] Arabic text in reflection body matches the authenticated Arabic provided. Minor typographic diacritic variants (tanwin notation) are not errors.
+
+- [PASS] Transliteration is accurate throughout.
+
+- [PASS] Takhyīr framing (33:28–29 → wives choosing to remain → 33:50 expansion → 33:52 seal) is consistent with Al-Jalalayn, Al-Baghawi, and Al-Muyassar. No inversion or distortion.
+
+- [PASS] *wa-law* clause identified correctly as the conditional "even if" construction.
+
+SUMMARY: All linguistic and tafsir claims are accurate and defensible; the one scholarly debate worth noting (abrogation, per Qurtubi) is absent but not contradicted, so no flag is warranted for a tadabbur context.

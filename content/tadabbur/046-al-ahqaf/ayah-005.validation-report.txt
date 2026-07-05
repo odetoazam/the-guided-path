@@ -1,0 +1,44 @@
+Enhanced Validation Report
+File: content/tadabbur/046-al-ahqaf/ayah-005.md
+Ayah: 46:5
+Date: 2026-06-08T06:09:32
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَمَنْ=And who | أَضَلُّ=(is) more astray | مِمَّن=than (he) who | يَدْعُواْ=calls | مِن دُونِ=besides | ٱللَّهِ=Allah, | مَن=who | لَّا يَسْتَجِيبُ=will not respond | لَهُۥٓ=to him | إِلَىٰ=until | يَوْمِ=(the) Day | ٱلْقِيَـٰمَةِ=(of) Resurrection, | وَهُمْ=and they | عَن=of | دُعَآئِهِمْ=their calls | غَـٰفِلُونَ=(are) unaware.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [INFO] "The Prophet ﷺ said *al-duʿāʾ huwa-l-ʿibādah*" — Not verifiable from the provided reference data (four tafsir excerpts). The hadith is well-attested in Abu Dawud and Tirmidhi, but lies outside the supplied sources. No error; flagging only because the instruction requires noting unverifiable claims.
+
+Detailed check against provided data:
+
+**Arabic text:** Reflection matches the authentic Arabic. The rendering of ٱلْقِيَـٰمَةِ vs ٱلْقِيَٰمَةِ is a font/diacritic display variant, not a textual error.
+
+**Root ض-ل-ل for أَضَلُّ:** Correct. *Aḍallu* is the *ism al-tafḍīl* (أَفْعَلُ pattern) of ضَلَّ يَضِلُّ. Claim is accurate.
+
+**Al-istifhām bi-maʿnā al-nafy attribution:** Reflection states "every classical commentator… al-Jalālayn, al-Qurṭubī, al-Baghawī, al-Muyassar" confirm this. All four provided excerpts support it: al-Jalālayn explicitly writes «استفهام بمعنى النفي، أي لا أحد أضل»; al-Qurṭubī writes «لا أحد أضل وأجهل»; al-Muyassar writes «لا أحد أضلُّ وأجهل». Al-Baghawī is the one source that does not explicitly use this formula in the excerpt, but the meaning of the paraphrase is consistent. The attribution is not overstated.
+
+**Al-Qurṭubī direct quote:** Reflection paraphrases: "Al-Qurṭubī writes it plainly: *wa man aḍallu* means **lā aḥada aḍallu**." The source confirms: «ومن أضل أي لا أحد أضل وأجهل». Accurate.
+
+**Root د-ع-و for يَدْعُوا۟ and دُعَآئِهِمْ:** Correct. Both forms derive from دعا, root د-ع-و.
+
+**Gloss of دُعَآئِهِمْ as "their calling/supplication":** Al-Jalālayn glosses it as عبادتهم ("their worship"), which is a semantic extension of the same root. The reflection's rendering as "calling/supplication" is the primary lexical meaning and is not wrong; it simply does not adopt the interpretive gloss. Not an error.
+
+**Idols as referent of مَن لَّا يَسْتَجِيبُ:** All four sources confirm: al-Jalālayn «وهم الأصنام», al-Muyassar «من الأموات أو الأحجار والأشجار», al-Qurṭubī «وهي الأوثان», al-Baghawī «يعني الأصنام». Reflection's contextual reconstruction of Meccan idol-worship is consistent.
+
+**غَافِلُونَ interpretation:** Reflection conveys total unawareness/heedlessness. Al-Jalālayn: «لا يعقلون»; al-Qurṭubī: «لا يسمعون ولا يفهمون»; al-Baghawī: «لا تسمع ولا تفهم». Accurate.
+
+SUMMARY: All verifiable claims in the provided excerpt are linguistically and exegetically sound and consistent with the four classical tafsir sources; one hadith citation falls outside the supplied reference data but is itself well-attested.

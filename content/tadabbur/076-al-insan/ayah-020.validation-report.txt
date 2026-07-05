@@ -1,0 +1,38 @@
+Enhanced Validation Report
+File: content/tadabbur/076-al-insan/ayah-020.md
+Ayah: 76:20
+Date: 2026-06-18T09:42:45
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَإِذَا=And when | رَأَيْتَ=you look, | ثَمَّ=then | رَأَيْتَ=you will see | نَعِيمًا=blessings | وَمُلْكًا=and a kingdom | كَبِيرًا=great.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR NOTE] "Al-Zajjāj refined it" — the Qurtubī text shows Al-Zajjāj agreeing with Al-Farrā' ("ما موصولة بـ'ثم' على ما ذكره الفراء"), not refining a distinct position. Calling it a "refinement" is a slight framing overreach, but not a factual inversion. No misattribution.
+
+- [VERIFY] The reflection states "Al-Qurtubī says the meaning is: 'when you cast your sight, there'" — this is an accurate paraphrase of "وإذا رأيت ببصرك ثم" from the provided Qurtubī excerpt. ✓
+
+- [VERIFY] The claim that Al-Farrā' "suggested an implied word — 'when you see *what is* there'" — confirmed verbatim in Qurtubī: "في الكلام ما مضمرة; أي وإذا رأيت ما ثم." ✓
+
+- [VERIFY] ثَمَّ as ẓarf makān — confirmed by Qurtubī: "ثم: ظرف مكان أي هناك في الجنة." ✓
+
+- [VERIFY] Both instances of رَأَيْتَ as perfect-form verbs — confirmed by frontmatter morphology note "W2 rAy (V, perfect), W4 rAy (V, perfect)." The conditional (idhā) construction rendering them as present/future in translation is standard Arabic grammar. ✓
+
+- [VERIFY] Translation of كَبِيرًا as "vast" — word-by-word says "great"; both Muyassar ("واسعاً") and Baghawī ("واسعاً") gloss it as expansive/vast, so "vast" is not only defensible but supported by the classical glosses. ✓
+
+- [OBSERVATION] The theological claim that "there is no 'best part' of the Garden because there is no part that is *not* the best part" is presented as contemplative inference from the missing object, not as a documented tafsir position. It is grounded in the Jalālayn's "نعيماً لا يوصف" and Muyassar's "نعيماً لا يُدركه الوصف," and is offered transparently as tadabbur. No inflation to documented fact. ✓
+
+SUMMARY: All scholar attributions (Qurtubī, Farrā', Zajjāj) are accurately sourced from the provided tafsir; grammatical claims are confirmed; theological elaborations are correctly framed as reflection rather than transmitted fact — no critical or moderate errors found in the text reviewed.

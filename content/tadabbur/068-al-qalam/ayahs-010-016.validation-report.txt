@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/068-al-qalam/ayahs-010-016.md
+Ayah: 68:10
+Date: 2026-06-13T15:27:04
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَلَا=And (do) not | تُطِعْ=obey | كُلَّ=every | حَلَّافٍ=habitual swearer | مَّهِينٍ=worthless,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+
+- [MODERATE] "al-mahāna — lowness, the smallness of a soul in its own eyes" — Baghawi defines *al-mahāna* as **قلة الرأي والتمييز** (lack of judgment and discernment), not "smallness of a soul in its own eyes." The reflection conflates Baghawi's formal lexical definition with the *causal* phrase that appears later in his commentary — **لمهانة نفسه عليه** ("due to the worthlessness of himself to him") — and merges both into a single paraphrase that misrepresents the definition.
+
+- [MODERATE] "a person only lies, *and only swears*, because of the worthlessness of his own self to him" — Baghawi's text reads **إنما يكذب لمهانة نفسه عليه** — "a person only *lies*." The addition of "and only swears" is not in Baghawi and is presented as part of the attribution rather than the reflection author's extension.
+
+- [CANNOT VERIFY] "Al-Qurtubi gathers the readings: Mujahid says it means *weak of heart*; Ibn ʿAbbas says *the liar*; al-Hasan says *the one overflowing with evil*" — The provided Qurtubi excerpt is truncated mid-word ("والمهي") before reaching any commentary on *mahīn*. These specific scholar attributions cannot be confirmed or denied from the reference data supplied. Ibn Abbas as "liar" is verifiable via al-Baghawi, but attribution to Qurtubi specifically, and the Mujahid and al-Hasan readings, remain unverifiable here.
+
+SUMMARY: No CRITICAL errors — Arabic text, root analysis, and the *faʿʿāl* mubālagha discussion are accurate — but two moderate attribution issues exist in the Baghawi passage: the definition of *mahāna* is misrendered, and Baghawi's claim about lying is extended to include swearing without textual basis.

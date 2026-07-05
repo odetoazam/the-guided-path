@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/061-as-saf/ayah-004.md
+Ayah: 61:4
+Date: 2026-06-13T00:31:52
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّ=Indeed, | ٱللَّهَ=Allah | يُحِبُّ=loves | ٱلَّذِينَ=those who | يُقَـٰتِلُونَ=fight | فِى=in | سَبِيلِهِۦ=His Way | صَفًّا=(in) a row | كَأَنَّهُم=as if they | بُنْيَـٰنٌ=(were) a structure | مَّرْصُوصٌ=joined firmly.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [INFORMATIONAL] "at Uhud, you may remember, the believers were winning...the archers left their position" used as direct contextual frame for As-Saff — the Uhud connection is plausible sīra background but none of the four provided classical sources mention it in their commentary on 61:4. The reflection presents it as narrative illustration rather than a sourced tafsir claim, which keeps it within bounds, but a reader could mistake it for documented asbāb al-nuzūl. No error, but worth a light hedge ("some scholars connect...").
+
+No critical issues found. Specific verifications:
+
+- **yuḥibbu as Form IV** — correct. The aḥabba/yuḥibbu pattern (أَفْعَلَ / يُفْعِلُ) is standard Form IV; imperfect yu- prefix confirms it. No error.
+- **Jalalayn gloss "yanṣuru wa-yukrimu" (يَنْصُر وَيُكْرِم)** — directly verified against the provided Jalalayn text: «إن الله يحب» ينصر ويكرم. Quote is accurate and the interpretive move ("divine love acts upon the beloved as aid and honor") faithfully renders the gloss.
+- **ṣaffan as ḥāl (circumstantial accusative)** — confirmed by Jalalayn: «صفا» حال، أي صافين. The grammatical explanation is correct.
+- **Root H-b-b connecting ḥubb (love) and ḥabb (seed)** — attested under a single triliteral entry in Lisān al-ʿArab; the reflection's frontmatter correctly cites Lisān and Mufradāt al-Rāghib as its lexical basis. No error.
+- **yuqātilūna as Form III (mutuality in qitāl)** — correct morphology; Form III (فَاعَلَ) implies directed, bilateral action. Consistent with all four sources rendering the verse as fighters arrayed against an enemy.
+- **Title metaphor "no gaps"** — directly grounded in Baghawi: "فليس فيه فرجة ولا خلل" (no gap, no breach).
+
+SUMMARY: The reflection is linguistically precise, its one Jalalayn quotation is verbatim accurate, all grammatical claims check out against the reference data, and the only note is that the Uhud framing is homiletical color rather than sourced asbāb al-nuzūl — flagged but not an error.

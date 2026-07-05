@@ -1,0 +1,30 @@
+Enhanced Validation Report
+File: content/tadabbur/045-al-jathiyah/ayah-014.md
+Ayah: 45:14
+Date: 2026-06-08T03:24:28
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: قُل=Say | لِّلَّذِينَ=to those who | ءَامَنُواْ=believe | يَغْفِرُواْ=(to) forgive | لِلَّذِينَ=those who | لَا=(do) not | يَرْجُونَ=hope | أَيَّامَ=(for the) days | ٱللَّهِ=(of) Allah; | لِيَجْزِىَ=that He may recompense | قَوْمَۢا=a people | بِمَا=for what | كَانُواْ=they used (to) | يَكْسِبُونَ=earn.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Al-Qurtubi narrates a similar account of a man from Quraysh who reviled him" — The provided Qurtubi excerpt contains only grammatical analysis of the jussive construction (three readings of *yaghfirū*) and attribution to ʿAlī ibn ʿĪsā. No occasion-of-revelation narrative about a Qurashī insulting ʿUmar appears in the supplied reference text. The claim may be in the full Qurtubi that extends beyond this excerpt, but it cannot be verified from the data provided. The Baghawi text, by contrast, *does* give this sababu al-nuzūl (a man from Banī Ghifār — not Quraysh). The reflection may be conflating two sources or retroping the Baghawi narration onto Qurtubi.
+
+- [MODERATE] "al-Qurtubi attributes to ʿAlī ibn ʿĪsā and says Ibn al-ʿArabī preferred" — The Qurtubi excerpt ends: *qālahu ʿAlī ibn ʿĪsā*. The attribution of the third reading to ʿAlī ibn ʿĪsā is confirmed. However, no mention of Ibn al-ʿArabī's *preference* appears anywhere in the supplied Qurtubi text. Presenting this as something Qurtubi "says" is an unverifiable specific attribution stated as documented fact; it should either be bracketed as uncertain or sourced to a specific volume/chapter reference.
+
+Everything else validates cleanly: the Arabic matches exactly, *yarjūna* as "hope/anticipate" (rather than the Jalalayn's interpretive *yakhāfūna*) is lexically sound and the word-by-word confirms it, the Baghawi + Ibn ʿAbbās + Muqātil + ʿUmar narration is accurately rendered (man from Banī Ghifār), the mention of al-Qurazī and al-Suddī is grounded in the Baghawi text, and the three grammatical readings of the jussive are an accurate and well-ordered representation of the Qurtubi passage.
+
+SUMMARY: Two moderate attribution issues — a Qurtubi occasion-of-revelation narration that appears in Baghawi (not Qurtubi) and an unverifiable Ibn al-ʿArabī preference claim — but no root errors, no inverted scholar positions, and no Arabic text problems.

@@ -1,0 +1,30 @@
+Enhanced Validation Report
+File: content/tadabbur/034-saba/ayah-005.md
+Ayah: 34:5
+Date: 2026-05-18T02:16:58
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَٱلَّذِينَ=But those who | سَعَوْ=strive | فِىٓ=against | ءَايَـٰتِنَا=Our Verses | مُعَـٰجِزِينَ=(to) cause failure - | أُوْلَـٰٓئِكَ=those - | لَهُمْ=for them | عَذَابٌ=(is) a punishment | مِّن=of | رِّجْزٍ=foul nature, | أَلِيمٌ=painful.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE] Historical narrative (caravans, whistling, Persian stories) — accurate sīrah material (Naḍr ibn al-Ḥārith, Abū Lahab) but not verifiable from the provided tafsir excerpts. Presented as atmosphere, not as documented Quranic exegesis, so this does not constitute an error. No flag.
+- [NOTE] Translation of rijz as "vile defilement" — the word-by-word reference gives "foul nature"; Jalālayn gives "سيء العذاب" (worst of punishment); Qatāda cited by Baghawī gives "سوء العذاب." "Vile defilement" captures the filth/abomination sense of rijz correctly and is within the range of classical readings. No flag.
+- [NOTE] "seeking to outstrip [Us]" for مُعَاجِزِينَ — Jalālayn gives two readings: "imagining Our incapacity" (مقدرين عجزنا) OR "racing ahead of Us to escape" (مسابقين لنا فيفوتونا). The reflection anchors on the second, which is also Qurṭubī's emphasis ("مسابقين يحسبون أنهم يفوتوننا"). Both are attested. No flag.
+- [NOTE] Form III morphology claim (مُفَاعِل pattern for مُعَاجِزِينَ) — correct. Root ع ج ز, Form III active participle, attested by all four tafsir sources which also note the alternate reading مُعَجِّزِين (Form II) in some qirāʾāt. The reflection treats Form III only, which is the standard ḥafṣ reading. No flag.
+- [NOTE] Quranic cross-references (62:9 fasʿaw, 37:102 balagha maʿahu al-saʿy) — both verified as correct citations with accurate wording.
+
+SUMMARY: All linguistic claims, morphological readings, classical tafsir framings, and Quranic cross-references in the submitted portion are accurate and well-grounded; no errors were identified.

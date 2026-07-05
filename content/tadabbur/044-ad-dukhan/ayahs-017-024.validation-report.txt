@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/044-ad-dukhan/ayahs-017-024.md
+Ayah: 44:17
+Date: 2026-06-08T00:38:17
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ۞ وَلَقَدْ=And certainly, | فَتَنَّا=We tried | قَبْلَهُمْ=before them | قَوْمَ=(the) people | فِرْعَوْنَ=(of) Firaun, | وَجَآءَهُمْ=and came to them | رَسُولٌ=a Messenger | كَرِيمٌ=noble.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE] "the original, physical meaning of *fatana* in the Arabic of the Quran is exactly this: **to put gold or silver into the fire to test it**" — The gold/fire etymology for root f-t-n is widely attested in Mufradāt al-Rāghib and Lisān al-ʿArab (both cited in the frontmatter morphology note), but this derivation is not directly verifiable from the four tafsir snippets provided. The claim is lexicographically sound; flagging only that the provided reference data does not confirm it on its own.
+
+- [PASS] "Al-Baghawī and al-Jalālayn both gloss *fatannā* simply as **balawnā**" — Precisely accurate. al-Jalālayn: «ولقد فتنا» **بلونا**; al-Baghawī: (ولقد فتنا) **بلونا**. Exact match.
+
+- [PASS] "Al-Qurṭubī goes deeper... *the meaning of this fitna, this ibtilāʾ, is the command to obedience*" — Accurately drawn from al-Qurṭubī: «ومعنى هذه الفتنة، والابتلاء الأمر بالطاعة. والمعنى عاملناهم معاملة المختبر ببعثة موسى إليهم». The paraphrase is faithful.
+
+- [PASS] "Al-Qurṭubī records a second reading... **ʿadhdhabnāhum** ... by drowning ... **taqdīm wa-taʾkhīr**" — Confirmed verbatim in the provided al-Qurṭubī text: «وقيل: فتناهم عذبناهم بالغرق. وفي الكلام تقديم وتأخير». Accurately attributed.
+
+- [PASS] **كَرِيمٌ** glossed as "noble" — confirmed by word-by-word reference and all four tafsir sources (al-Baghawī: «كريم على الله»; al-Jalālayn: «كريم على الله تعالى»).
+
+- [PASS] References to the magicians in sujūd, the believer of Pharaoh's family, and Āsiya — these are Quranic cross-references (7:120–121, 40:28, 66:11), not attributed to any scholar in this passage, and correctly framed as illustrative examples of "gold revealed by fire."
+
+SUMMARY: All four classical scholar attributions are verified accurate against the provided tafsir data; the one un-verifiable claim (gold/fire root etymology) is lexicographically standard and is appropriately sourced in the frontmatter rather than attributed to the provided tafsir snippets.

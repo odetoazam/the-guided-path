@@ -6,13 +6,14 @@ ayah_end: 99
 title: "When the Barrier Opens Into the Gathering"
 slug: "018-099"
 category: tadabbur
-arabic: "۞ وَتَرَكْنَا بَعْضَهُمْ يَوْمَئِذٍ يَمُوجُ فِى بَعْضٍ ۖ وَنُفِخَ فِى ٱلصُّورِ فَجَمَعْنَـٰهُمْ جَمْعًا"
+arabic: "۞ وَتَرَكْنَا بَعْضَهُمْ يَوْمَئِذٍ يَمُوجُ فِى بَعْضٍ ۖ وَنُفِخَ فِى ٱلصُّورِ فَجَمَعْنَـٰهُمْ جَمْعًا"
 translation: "And We will leave some of them, that Day, surging into others. And the Horn will be blown, so We will gather them all together."
 word_count: 4720
 estimated_duration: "40-50 minutes"
 passage_context: "After Dhul-Qarnayn calls the completed barrier a mercy from his Lord and admits that Allah's promise will one day level it, the surah turns from temporary protection to the promised upheaval, the blowing of the Horn, and the total gathering before Allah."
 generated_by: "codex-tadabbur"
 validated: true
+semantic_review: "enriched-2026-07-02"
 tags: [dhul-qarnayn, yajuj-majuj, akhirah, qiyamah, hashr]
 ---
 
@@ -30,7 +31,7 @@ tags: [dhul-qarnayn, yajuj-majuj, akhirah, qiyamah, hashr]
 
 ## Surah Al-Kahf (18:99)
 
-[ayah:18:99] ۞ وَتَرَكْنَا بَعْضَهُمْ يَوْمَئِذٍ يَمُوجُ فِى بَعْضٍ ۖ وَنُفِخَ فِى ٱلصُّورِ فَجَمَعْنَـٰهُمْ جَمْعًا
+[ayah:18:99] ۞ وَتَرَكْنَا بَعْضَهُمْ يَوْمَئِذٍ يَمُوجُ فِى بَعْضٍ ۖ وَنُفِخَ فِى ٱلصُّورِ فَجَمَعْنَـٰهُمْ جَمْعًا
 
 *Wa tarakna ba'dahum yawma'idhin yamuju fi ba'din, wa nufikha fi al-suri fa-jama'nahum jam'a.*
 
@@ -42,7 +43,7 @@ tags: [dhul-qarnayn, yajuj-majuj, akhirah, qiyamah, hashr]
 
 The wall has just been built.
 
-Iron has been stacked. Fire has been blown. Molten copper has been poured. The vulnerable people who could hardly understand speech now stand behind a barrier that Ya'juj and Ma'juj can neither scale nor pierce. Dhul-Qarnayn looks at the work and refuses to let anyone mistake it for a monument to him. He says: this is a mercy from my Lord. Then, before admiration can harden into illusion, he says the thing every builder struggles to say: when the promise of my Lord comes, He will level it. The promise of my Lord is true.
+Iron has been stacked. Fire has been blown. Molten copper has been poured. The vulnerable people who could hardly understand speech now stand behind a barrier that Ya'juj and Ma'juj can neither scale nor pierce. Ibn Kathir notices that the previous ayah shifts the very shape of its verb to register this: the lighter form is used for their failure to climb over the wall, and the fuller, heavier form for their failure to bore through it, as if the grammar itself strains under the difficulty of the two actions. The barrier defeats both approaches. Dhul-Qarnayn looks at the work and refuses to let anyone mistake it for a monument to him. He says: this is a mercy from my Lord. Then, before admiration can harden into illusion, he says the thing every builder struggles to say: when the promise of my Lord comes, He will level it. The promise of my Lord is true.
 
 Then comes this ayah.
 
@@ -78,7 +79,7 @@ This is a profound shift from the earlier scenes of Al-Kahf. The companions of t
 
 That does not mean persons cease to matter. The next movement of the surah will bring every soul to account. But before accountability is individualized, the ayah lets us feel the crowd. The human being who once trusted in borders, walls, tribes, status, and private insulation is suddenly inside the mass. "Some of them" is the language of humanity when the categories by which people sorted themselves begin to fail.
 
-Al-Tabari's report that speaks of jinn and humans surging together belongs to this larger sense of mixed creation before the final gathering. Al-Muyassar's focus on Ya'juj and Ma'juj keeps the immediate narrative thread alive. Both readings teach something valuable: whether the first image is the enormous multitude of Ya'juj and Ma'juj or the wider turbulence of creation near the Hour, the grammar makes separations unstable. Some are inside others. Groups lose their neat edges.
+Al-Tabari's reading takes the pronoun broadly: he explains "some of them surging into some" as the jinn becoming intermingled with the humankind, the two orders of creation losing the boundary that normally keeps them apart. He even transmits an early report, on the authority of an elder of Banu Fazara, that pictures the confusion of that surge as so total that Iblis himself moves through it, offering to go and bring back news, still scheming even as the world dissolves. Whatever weight one gives such a narration, it dramatizes the point the grammar already makes: the categories we relied on to keep one kind of being separate from another give way. Al-Muyassar's focus on Ya'juj and Ma'juj keeps the immediate narrative thread alive. Both readings teach something valuable: whether the first image is the enormous multitude of Ya'juj and Ma'juj or the wider turbulence of creation near the Hour, the grammar makes separations unstable. Some are inside others. Groups lose their neat edges.
 
 This is why the repetition of *ba'd* is spiritually uncomfortable. We spend so much of life trying to become distinct from the crowd. We curate identity. We manage reputation. We say, "I am not like them." Sometimes that distinction is morally necessary. But the ayah reminds us that there is a day when the crowd will swallow our illusions of distance. Before Allah gathers us for exact judgment, He can show us how fragile our social boundaries were.
 
@@ -87,6 +88,8 @@ This is why the repetition of *ba'd* is spiritually uncomfortable. We spend so m
 ### 3. "That Day" - A Near Demonstrative for a Certain Future
 
 The phrase *yawma'idhin* means "that Day" or "on that day." It is built from *yawm*, day, joined to the demonstrative sense of "then" or "at that time." The grammar points back to the promise just mentioned in the previous ayah: when the promise of my Lord comes, He will make it leveled. That promised moment becomes "that Day."
+
+Al-Tabari fills in what that promise contains. He glosses "the day Our promise comes to them" as the day Allah pounds the mountains and scatters them from the earth until He leaves it a bare, level plain. The word chosen for the wall in the previous ayah, *dakka'*, made flat, is the same fate that awaits the mountains themselves. So "that Day" is not only the moment a single barrier falls. It is the moment when the largest, most immovable landmarks of the earth are reduced to open ground. If the mountains do not survive that Day as mountains, no wall was ever going to survive it as a wall.
 
 The Quran often uses "that Day" to make the unseen future feel grammatically present. It is not treated as a vague someday. It has an appointed reality. The listener may not know its date, but revelation speaks of it as a day already fixed in Allah's knowledge.
 
@@ -118,7 +121,7 @@ The ayah does not tell us to admire the wave. It tells us Allah can leave it to 
 
 Then the ayah turns: *wa nufikha fi al-sur* - and the Horn was blown.
 
-The verb *nufikha* is passive. The blower is not named in the wording of the ayah. The root field of *nafkh* is blowing, breathing into, sending air through. The object is *al-sur*, the Horn or Trumpet. Classical tafsir identifies this with the eschatological blowing connected to resurrection and gathering.
+The verb *nufikha* is passive. The blower is not named in the wording of the ayah. The root field of *nafkh* is blowing, breathing into, sending air through. The object is *al-sur*, the Horn or Trumpet. Al-Muyassar glosses the word plainly as *al-qarn*, the horn that is sounded, and specifies its purpose: it is blown *li-l-ba'th*, for the resurrection. The single act does two things at once. It ends the surging world and it raises the dead to be gathered. So the blowing is not only a signal that something is over; it is the summons by which everything scattered is called back into being. Classical tafsir identifies this with the eschatological blowing connected to resurrection and gathering.
 
 The passive matters. Throughout the Dhul-Qarnayn passage, human actors were named and active. The people said. Dhul-Qarnayn said. They brought iron. They blew the fire. He poured copper. They could not scale or pierce. The scene was full of human speech and work. But here, when the Horn is blown, the grammar removes human management from the center. The subject is hidden because the act belongs to the unseen order Allah commands.
 

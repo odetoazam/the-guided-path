@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/034-saba/ayah-017.md
+Ayah: 34:17
+Date: 2026-05-16T22:58:55
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ذَٲلِكَ=That | جَزَيْنَـٰهُم=We recompensed them | بِمَا=because | كَفَرُواْۖ=they disbelieved. | وَهَلْ=And not | نُجَـٰزِىٓ=We recompense | إِلَّا=except | ٱلْكَفُورَ=the ungrateful.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+
+- [MODERATE] "Listen to what Mujahid says, preserved in al-Baghawi's tafsir: *yujāzā ay yuʿāqab* — 'to be *jūziya* is to be punished with strictness. There is a difference,' he says, 'between *jazā* and *jāzā.*'" — The Baghawi excerpt provided contains no mention of Mujahid and no phrase *yujāzā ay yuʿāqab*. Baghawi's comment on this half-ayah discusses the qira'āt variants (Hamza, Kisa'i, Hafs, Ya'qub reading with nūn; others with yā') and the i'rāb of *al-kafūr*, but not this distinction. The Baghawi excerpt is truncated, so the attribution may appear later in the full text — but it cannot be confirmed from the reference data supplied. A specific verbatim Mujahid quote with this phrasing should not be presented as fact without a verifiable source.
+
+- [MODERATE] "Al-Jalalayn glosses the second verb with one word: *yunāqash* — 'to be put to strict accounting, audited line by line, with nothing waived.'" — The Jalalayn attribution is **accurate**: the text provided reads `أي ما يناقش إلا هو`, confirming the *yunāqash* gloss. However, the elaboration "audited line by line, with nothing waived" is the reflection's own interpretive expansion of *yunāqash*, not anything Jalalayn states. The bare claim checks out; the embellishment does not.
+
+- [PASS] Morphological analysis of Form I *jazaynā* vs. Form III *nujāzī* — linguistically correct. The root j-z-y, Form I perfect, Form III imperfect, and the functional difference (simple recompense vs. reciprocal/exacting reckoning) are all defensible from standard Arabic grammar and are consistent with the way Jalalayn uses *yunāqash* to gloss the Form III instance.
+
+- [PASS] Arabic text, transliteration, and translation are accurate and consistent with the word-by-word reference.
+
+- [PASS] Contextual narrative of Saba (two gardens, dam, *khamṭ*/*athl*/*sidr*, *baldatun ṭayyibatun*) aligns with Muyassar and Qurtubi. Minor: the reflection says "stunted lote-trees" where the Quran says *sidrin qalīl* (few lote-trees) and Muyassar adds *kathīr al-shawk* (many thorns) — "stunted" is an unsourced interpretive coloring but not a factual error.
+
+SUMMARY: Reflection is linguistically rigorous and narratively sound, but the verbatim Mujahid-in-Baghawi attribution requires verification against the full Baghawi text before publication, and the al-Jalalayn gloss expansion should be trimmed to what the source actually says.

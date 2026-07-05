@@ -1,0 +1,38 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayahs-014-015.md
+Ayah: 3:14
+Date: 2026-06-21T03:56:28
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: زُيِّنَ=[It is] beautified | لِلنَّاسِ=for mankind | حُبُّ=(is) love | ٱلشَّهَوَٲتِ=(of) the (things they) desire - | مِنَ=of | ٱلنِّسَآءِ=[the] women | وَٱلْبَنِينَ=and [the] sons | وَٱلْقَنَـٰطِيرِ=and [the] heaps | ٱلْمُقَنطَرَةِ=[the] stored up | مِنَ=of | ٱلذَّهَبِ=[the] gold | وَٱلْفِضَّةِ=and [the] silver, | وَٱلْخَيْلِ=and [the] horses | ٱلْمُسَوَّمَةِ=[the] branded, | وَٱلْأَنْعَـٰمِ=and [the] cattle | وَٱلْحَرْثِ‌ۗ=and [the] tilled land. | ذَٲلِكَ=That | مَتَـٰعُ=(is) provision | ٱلْحَيَوٲةِ=(of) life | ٱلدُّنْيَا‌ۖ=(of) the world | وَٱللَّهُ=but Allah - | عِندَهُۥ=with Him | حُسْنُ=(is an) excellent | ٱلْمَـَٔـابِ=[the] abode to return.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- None identified in the text provided.
+
+Supporting checks:
+
+**Arabic text**: The reflection's Arabic for 3:14 matches the authenticated text exactly — no orthographic errors.
+
+**زُيِّنَ (zuyyina) morphology**: Correctly identified as the Form II passive (*al-majhūl*) of *zayyana*. The claim that Form II carries an intensive/thorough sense of adornment is lexically sound (confirmed by the Baghawi's gloss "جمع شهوة وهي ما تدعو النفس إليه" and Jalalayn's "زُيَّن للناس"). The description of *al-majhūl* as the construction that removes the doer is grammatically accurate.
+
+**Classical disagreement on who beautified**: The reflection sets up Qurṭubī's report of the dispute before the text cuts off. The reference data confirms this: Jalalayn explicitly preserves both positions — "زينها الله ابتلاءً أو الشيطانُ" — and Qurṭubī's excerpt opens with "اختلف الناس من المزين; فقالت فرقة: الله زين ذلك." The framing that commentators "hand us two camera angles on one reality" rather than cancelling each other out is editorially interpretive but not a factual overstatement.
+
+**Translation accuracy**: All seven enumerated items render correctly against the word-by-word reference. "Heaped-up hoards" for *al-qanāṭīr al-muqanṭara* aligns with "heaps / stored up" in the reference and *al-māl al-kathīr* in Muyassar. "Branded horses" follows the provided word-by-word ("branded"); the classical tafsirs favor *al-ḥisān* (beautiful/distinguished), but the reflection is using the system's own reference translation — not a reflection-authored error.
+
+**Conceptual framing**: The ayah-pair structure (14 warns, 15 redirects) is an accurate reading confirmed by Muyassar's close: "والله عنده حسن المرجع والثواب، وهو الجنَّة" immediately following the dunya catalogue.
+
+SUMMARY: All verifiable linguistic, morphological, and tafsir-sourced claims in the provided text are accurate and well-grounded; no errors detectable within the 8,000-character excerpt.

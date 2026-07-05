@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/039-az-zumar/ayah-005.md
+Ayah: 39:5
+Date: 2026-06-06T04:00:56
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: خَلَقَ=He created | ٱلسَّمَـٰوَٲتِ=the heavens | وَٱلْأَرْضَ=and the earth | بِٱلْحَقِّ‌ۖ=in [the] truth. | يُكَوِّرُ=He wraps | ٱلَّيْلَ=the night | عَلَى=over | ٱلنَّهَارِ=the day | وَيُكَوِّرُ=and wraps | ٱلنَّهَارَ=the day | عَلَى=over | ٱلَّيْلِ‌ۖ=the night. | وَسَخَّرَ=And He subjected | ٱلشَّمْسَ=the sun | وَٱلْقَمَرَ‌ۖ=and the moon, | كُلٌّ=each | يَجْرِى=running | لِأَجَلٍ=for a term | مُّسَمًّى‌ۗ=specified. | أَلَا=Unquestionably, | هُوَ=He | ٱلْعَزِيزُ=(is) the All-Mighty, | ٱلْغَفَّـٰرُ=the Oft-Forgiving.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] Verb form attribution of *yukawwiru* as Form II is correct per the morphology note and consistent with doubled middle radical pattern (kawwara).
+- [PASS] "Al-Ḍaḥḥāk said it means He throws one over the other" — matches al-Qurṭubī's reference: "قال الضحاك: أي: يلقي هذا على هذا وهذا على هذا"
+- [PASS] "Qatāda said it is like 'He covers the night with the day' (7:54)" — matches al-Baghawī: "قال قتادة: يغشي هذا هذا، كما قال: يغشي الليل النهار (الأعراف-54)"
+- [PASS] "Al-Ḥasan and al-Kalbī said it is the gradual thing: night shortens and day lengthens" — matches al-Baghawī: "وقال الحسن والكلبي: ينقص من الليل فيزيد في ال[نهار]"
+- [PASS] The tense-shift observation (past *khalaqa* → present imperfect *yukawwiru*) is linguistically accurate and theologically well-grounded.
+- [PASS] *k-w-r* root / turban-winding etymology matches classical lexical use (attested in Lisān al-ʿArab); the claim is accurately flagged as lexically documented, not over-extended.
+- [PASS] Framing of the Quraysh as affirming a Creator but not continuous divine governance is consistent with the Quranic record (e.g., 29:61, 39:38) and the argument of 39:4–5.
+- [PASS] Arabic text in frontmatter and body matches the authentic Arabic provided, including diacritics.
+
+SUMMARY: All three mufassir attributions are traceable to the provided tafsir sources, the morphological claims are accurate, and no scholarly position is overstated; the reflection passes validation.

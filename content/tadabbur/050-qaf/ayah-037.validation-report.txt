@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/050-qaf/ayah-037.md
+Ayah: 50:37
+Date: 2026-06-08T19:21:36
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّ=Indeed, | فِى=in | ذَٲلِكَ=that | لَذِكْرَىٰ=surely, is a reminder | لِمَن=for (one) who, | كَانَ=is - | لَهُۥ=for him | قَلْبٌ=a heart | أَوْ=or | أَلْقَى ٱلسَّمْعَ=(who) gives ear | وَهُوَ=while he | شَهِيدٌ=(is) a witness.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "He even quotes another verse to seal it: 'that he may warn whoever is alive' (li-yunḏira man kāna ḥayyā, 36:70)" — The al-Qurtubi excerpt provided shows him supporting the *nafs ḥayya mumayyiza* reading with a line of *poetry* by Imru' al-Qays ("كما قال امرؤ القيس : أغرك مني أن حبك قاتلي"), not with Surah 36:70. The reflection attributes a Quranic cross-reference to Qurtubi that the provided data does not support — and positively contradicts with a different citation. The excerpt is truncated, so 36:70 may appear later in Qurtubi's passage, but presenting it as Qurtubi's closing evidence cannot be confirmed from the data given.
+
+All other claims verified:
+
+- **Ibn ʿAbbas → qalb = ʿaql**: Confirmed in al-Baghawi ("قال ابن عباس : أي عقل") and al-Qurtubi.
+- **Mujahid → same**: Confirmed in al-Qurtubi ("قال معناه مجاهد وغيره").
+- **Qurtubi's mechanism — heart as *seat* (موضعه) of ʿaql**: Confirmed verbatim ("فكنى بالقلب عن العقل لأنه موضعه").
+- **Second angle — *nafs ḥayya mumayyiza***: Confirmed in al-Qurtubi ("وقيل : لمن كان له حياة ونفس مميزة").
+- **Arabic text**: Exact match to authenticated Arabic.
+- **Root ق-ل-ب (turning/flipping), *taqallub*, *inqilāb***: Standard Arabic lexicography, not contested.
+- **dhikrā as recovery of what was forgotten**: Consistent with the word-by-word gloss and root *dh-k-r*; no overreach.
+
+SUMMARY: The reflection is substantively accurate and well-grounded in the provided tafsir, with one unconfirmed Quranic cross-reference (36:70) attributed to Qurtubi when the available Qurtubi text shows him citing Imru' al-Qays instead — a presentation that overstates Qurtubi's evidentiary chain unless the full untruncated passage confirms it.

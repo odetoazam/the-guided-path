@@ -1,0 +1,48 @@
+Enhanced Validation Report
+File: content/tadabbur/054-al-qamar/ayah-016.md
+Ayah: 54:16
+Date: 2026-06-10T00:55:18
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَكَيْفَ=So how | كَانَ=was | عَذَابِى=My punishment | وَنُذُرِ=and My warnings?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No genuine errors found in the text provided (first 8000 characters).
+
+Specific verification against reference data:
+
+**Al-Jalalayn citations — accurate.**
+Reflection: "Al-Jalalayn states it directly: this is *istifhām taqrīr*... its purpose is **to carry the addressees themselves to acknowledge** that Allah's punishment truly fell upon those who denied Nuh."
+Jalalayn source: «استفهام تقرير... حمل المخاطبين على الإقرار بوقوع عذابه تعالى بالمكذبين لنوح موقعه» — word-for-word match on both the device name and purpose. ✓
+
+Reflection: "*kayfa* here functions as the predicate of *kāna*, and that it asks *ʿan al-ḥāl* — about the **state** of the thing."
+Jalalayn source: «وكيف خبر كان وهي للسؤال عن الحال» — exact match. ✓
+
+**Al-Muyassar citation — accurate.**
+Reflection: "the account of Nuh was kept as an *ʿibrah*, a lesson and a proof of divine power, for everyone who came after Nuh — so that they would take heed."
+Muyassar source: «ولقد أبقينا قصة نوح مع قومه عبرة ودليلا على قدرتنا لمن بعد نوح؛ ليعتبروا ويتعظوا» — accurate rendering. ✓
+
+**Al-Farrāʾ's maṣdar analysis via al-Qurtubi and al-Baghawi — accurate.**
+Both sources do attribute the dual-maṣdar claim to al-Farrāʾ. Baghawi's fuller citation includes the Arab usage examples (*andhartu indhāran wa nudhran*) that the reflection references, and the text is correctly attributed to both intermediaries. ✓
+
+**Root assignment for *nudhur* (n-dh-r) — accurate.** ✓
+
+**Contextual claims (moon-splitting, *siḥrun mustamirr*, *majnūn*, Nuh's prayer, dual-water meeting, planks-and-nails, 54:15 sign-verse)** — all verifiable against 54:1–15 and consistent with the passage context provided. ✓
+
+**Rhetorical framing ("handing us hindsight before our own event")** — presented throughout as the author's own reflection, not as a scholar attribution. No claim-laundering issue. ✓
+
+SUMMARY: The reflection is philologically grounded, attributes classical sources accurately, and clearly distinguishes scholarly citation from interpretive commentary; no errors were found in the provided text.

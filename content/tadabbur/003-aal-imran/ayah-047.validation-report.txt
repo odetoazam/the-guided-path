@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayah-047.md
+Ayah: 3:47
+Date: 2026-06-21T05:25:01
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: قَالَتْ=She said, | رَبِّ=`My Lord | أَنَّىٰ=how | يَكُونُ=is [it] | لِى=for me | وَلَدٌ=a boy, | وَلَمْ=and (has) not | يَمْسَسْنِى=touch(ed) me | بَشَرٌ‌ۖ=any man?` | قَالَ=He said, | كَذَٲلِكِ=`Thus | ٱللَّهُ=Allah | يَخْلُقُ=creates | مَا=what | يَشَآءُ‌ۚ=He wills. | إِذَا=When | قَضَىٰٓ=He decrees | أَمْرًا=a matter | فَإِنَّمَا=then only | يَقُولُ=He says | لَهُۥ=to it, | كُن=`Be,` | فَيَكُونُ=and it becomes.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR NOTE] "al-Qurtubi and al-Baghawi both note it directly" (re: taʿajjub vs. takdhīb) — Baghawi is confirmed verbatim: "قالت ذلك تعجبا إذ لم تكن جرت العادة" and Muyassar corroborates with "قالت مريم متعجبة." The Qurtubi excerpt provided cuts off before the explicit taʿajjub statement, so that attribution cannot be verified from the supplied text — though the substance is correct and standard across classical tafsir.
+
+- [INFORMATIONAL] The claim that *annā* carries dual meaning (kayfa + min ayna) is accurate per classical Arabic lexicography, though Jalalayn glosses it simply as *kayfa*. The simplified gloss does not contradict the fuller lexical range — the reflection correctly cites Lisān al-ʿArab for the richer definition rather than over-reading Jalalayn's shorthand.
+
+- All word-by-word mappings in the reflection align with the reference data. *Walad* rendered as "child" is accurate (broader than ghulam/boy and the word-by-word confirms this). Arabic quotation in the frontmatter matches the authentic text.
+
+- The distinction between Jibreel speaking and Allah speaking (a real scholarly discussion flagged by Baghawi and Qurtubi) is left appropriately open — the reflection does not over-claim by assigning the reply to one speaker definitively.
+
+SUMMARY: The reflection is linguistically precise and theologically grounded; all verifiable claims check out against the supplied tafsir, with one attribution (Qurtubi on taʿajjub) that cannot be confirmed from the excerpt provided but is not contradicted.

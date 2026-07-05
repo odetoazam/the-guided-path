@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/054-al-qamar/ayah-048.md
+Ayah: 54:48
+Date: 2026-06-10T07:50:32
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَوْمَ=(The) Day | يُسْحَبُونَ=they will be dragged | فِى=into | ٱلنَّارِ=the Fire | عَلَىٰ=on | وُجُوهِهِمْ=their faces, | ذُوقُواْ=`Taste | مَسَّ=(the) touch | سَقَرَ=(of) Hell.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] frontmatter `passage_context`: "historically anchored to a *delegation* of Quraysh who came disputing divine decree" — the Qurtubi source reads «جاء مشركو قريش يخاصمون» (the polytheists of Quraysh came disputing), with no indication of a formal delegation. The body text corrects this accurately ("the mushrikūn of Quraysh came to the Prophet ﷺ disputing about qadar"), so the error is contained to the frontmatter summary.
+
+VERIFIED CLEAN:
+- Arabic text matches the authentic Arabic exactly ✓
+- Translation "dragged into the Fire on their faces: 'Taste the touch of Saqar'" aligns with word-by-word reference ✓
+- Hadith attribution — "Al-Qurtubi records — citing the narration in Sahih Muslim from Abu Hurayrah — that the mushrikūn of Quraysh came to the Prophet ﷺ disputing about qadar" — confirmed verbatim against the provided Qurtubi text: «في صحيح مسلم عن أبي هريرة قال : جاء مشركو قريش يخاصمون رسول الله ﷺ في القدر فنزلت» ✓
+- سحب/سحاب etymology (clouds as "the dragged things") is a standard lexical connection attested in Lisān al-ʿArab; not overclamed ✓
+- *al-mabnī lil-majhūl* terminology and imperfect-as-vivid-present (ḥikāyat al-ḥāl) are both correct classical grammatical usages ✓
+- The reflection correctly flags where it steps from grammar into interpretive reflection — intellectual honesty preserved ✓
+
+SUMMARY: Substantively accurate throughout; the sole issue is "delegation" in the frontmatter passage_context overstating what the source says, which the body text itself corrects.

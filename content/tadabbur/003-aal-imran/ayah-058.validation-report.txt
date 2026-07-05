@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayah-058.md
+Ayah: 3:58
+Date: 2026-06-22T07:14:31
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ذَٲلِكَ=That | نَتْلُوهُ=(is what) We recite [it] | عَلَيْكَ=to you | مِنَ=of | ٱلْأَيَـٰتِ=the Verses | وَٱلذِّكْرِ=and the Reminder - | ٱلْحَكِيمِ=[the] Wise.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] Arabic text matches the authentic source exactly; transliteration (*dhālika natlūhu ʿalayka mina-l-āyāti wa-dh-dhikri-l-ḥakīm*) is accurate.
+- [PASS] "That is what We recite to you of the verses and the wise reminder" — translation aligns with word-by-word reference and Jalālayn/Muyassar readings.
+- [PASS] Narrative summary (Maryam, cradle-speech, miracles, disciples saying "We are helpers of God," raising of ʿĪsā) — all elements draw directly from 3:45–55; no fabricated narrative detail.
+- [PASS] Mubāhala framing: "before the surah turns to the great challenge — the mubāhala (3:61)" — structurally accurate; 3:59–60 bridge to 3:61.
+- [PASS] *dhālika* vs. *hādhā* distinction (far/near demonstrative) — standard Arabic grammar; the elevation (*taʿẓīm*) function of the far demonstrative for nearby referents is a classically attested usage, applied correctly here.
+- [PASS] Al-Baqarah 2:2 parallel (*dhālika-l-kitāb*) invoked to support the elevation reading — this is the canonical tafsir example for precisely this phenomenon; not overstated.
+- [PASS] Al-Baghawī invocation (text cuts off mid-quote) — the paraphrase direction ("reports of the unseen brought down across distance") is consistent with his commentary: *"هذا الذي ذكرته لك من الخبر عن عيسى ومريم"* and the framing of these as signs recited by Jibrīl. No inversion detected.
+- [PASS] *al-Ḥakīm* handled as "the firmly constructed / protected from falsehood" — consistent with Maqātil via al-Baghawī (*"المحكم الممنوع من الباطل"*) and Jalālayn (*"المحكم"*). Reflection appears to be building toward this; no premature or incorrect claim visible.
+
+**Note:** The reflection is truncated at 8,000 characters, mid-sentence while developing the al-Baghawī citation. The unread portion cannot be validated here. Everything visible is accurate and well-sourced.
+
+SUMMARY: All verifiable claims in the provided excerpt are linguistically accurate, contextually grounded, and consistent with the supplied classical tafsir sources; no errors detected in the visible portion, though the truncated remainder requires a second validation pass.

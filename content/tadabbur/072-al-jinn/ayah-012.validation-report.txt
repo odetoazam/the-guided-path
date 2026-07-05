@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/072-al-jinn/ayah-012.md
+Ayah: 72:12
+Date: 2026-06-16T23:36:42
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَأَنَّا=And that we | ظَنَنَّآ=[we] have become certain | أَن=that | لَّن=never | نُّعْجِزَ ٱللَّهَ=we will cause failure to Allah | فِى=in | ٱلْأَرْضِ=the earth | وَلَن=and never | نُّعْجِزَهُۥ=we can escape Him | هَرَبًا=(by) flight.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [INFORMATIONAL] "The scholars of tafsir, including al-Baghawi, report among the narrations that this occurred at one of the most painful stretches of the mission — after the rejection at Ta'if" — The provided Baghawi excerpt covers only the specific ayah commentary, not the surah introduction where this historical context would appear. Attribution to al-Baghawi specifically cannot be confirmed from the provided reference data. The Ta'if narrative itself is well-attested across the tradition (Ibn Kathir, etc.), but "including al-Baghawi" is unverifiable from data supplied here.
+
+- [INFORMATIONAL] "The word ẓanna, at its root, carries a quality of something that settles" — No classical lexicon in the provided data supports "settles" as an attested root meaning for ظ-ن-ن. However, this is clearly framed as a pedagogical metaphor ("Here is what I want you to sit with"), not a cited linguistic claim — so it reads as homiletical illustration rather than misattribution.
+
+**All three core scholar citations verified clean:**
+- Al-Qurtubi's *"al-ẓann hāhunā bi-maʿnā l-ʿilm wa l-yaqīn"* — exact match to provided text
+- Al-Baghawi's *"ʿalimnā wa ayqannā"* — exact match ("علمنا وأيقنا")
+- Al-Muyassar's *"ayqannā"* — exact match ("أيقنا")
+
+Arabic text, transliteration, and translation all accurate against the authentic ayah.
+
+SUMMARY: The reflection is linguistically and scholastically sound — all three tafsir citations are accurate verbatim, the ẓann-as-yaqīn analysis is fully grounded in the provided sources, and no claims are inverted or fabricated; the only flags are an attribution that cannot be confirmed from the excerpt provided and a clearly signposted rhetorical metaphor.

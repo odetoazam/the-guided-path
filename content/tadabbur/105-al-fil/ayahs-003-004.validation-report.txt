@@ -1,0 +1,28 @@
+Enhanced Validation Report
+File: content/tadabbur/105-al-fil/ayahs-003-004.md
+Ayah: 105:3
+Date: 2026-06-20T08:15:47
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَأَرْسَلَ=And He sent | عَلَيْهِمْ=against them | طَيْرًا=birds | أَبَابِيلَ=(in) flocks.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "When Allah *arsala* something, it is almost always a gift descending toward you" — Overstated as a linguistic claim. The construction أَرْسَلَ/أَرْسَلْنَا + عَلَيْهِمْ is a standard punitive pattern used repeatedly in the Qur'an (7:133 — sending floods and locusts on Pharaoh's people; 54:19/41:16 — sending the frigid wind on ʿĀd). The reflection frames the preposition عَلَيْهِمْ as the signal that a mercy-verb is being redirected toward judgment, as if this is an unusual rhetorical move. But أَرْسَلَ + عَلَى is not a novel repurposing: it is an established Qur'anic idiom for divine punishment. The observation is elegant as a literary reading but is presented as a factual linguistic claim about the verb's dominant Qur'anic register, which the corpus does not support.
+
+- [MODERATE] "it is what's called a diptote, a word that resists the normal endings" — The text arrives at this via the absence of tanwīn. Diptotes (ممنوع من الصرف) are a defined morphological category, typically including singulars or broken plurals on specific weight patterns. The reason أَبَابِيل lacks tanwīn is more precisely its status as a word with disputed or absent singular — as al-Farrā' and al-Kisā'ī attest in the supplied Baghawī passage — not because it fits the classical diptote pattern. Labeling it a diptote conflates two distinct Arabic grammatical phenomena. The classical sources provided do not use this framing.
+
+SUMMARY: No critical errors in Arabic text, root analysis, or scholar attribution; two moderate issues where interpretive literary observations are framed as established linguistic facts — the "mercy-verb redirected by preposition" framing overstates the contrast given the standard Qur'anic punitive use of أَرْسَلَ عَلَيْهِمْ, and the diptote label is a category mismatch for why أَبَابِيل lacks tanwīn.

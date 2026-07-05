@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/076-al-insan/ayah-017.md
+Ayah: 76:17
+Date: 2026-06-18T10:25:12
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَيُسْقَوْنَ=And they will be given to drink | فِيهَا=therein | كَأْسًا=a cup - | كَانَ=is | مِزَاجُهَا=its mixture | زَنجَبِيلاً=(of) Zanjabil,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "the lexicographers note that this verb sits in **Form IV** (*asqā*) — and Form IV of this root carries the sense not of a single sip handed over once, but of *being provided with drink, supplied, kept watered.*" — The passive يُسْقَوْنَ is morphologically identical whether derived from Form I سَقَى or Form IV أَسْقَى; the passive imperfect collapses both into the same pattern (يُفْعَلُونَ). Classical grammarians do sometimes assign it to Form IV, but the specific semantic distinction drawn here — *one-time pour* vs. *standing provision* — is the reflection's own elaboration, not a lexicographic distinction attested in the sources provided. Attributing this reading to "the lexicographers" overstates the documentary authority. The broader point about the passive voice and its theological weight is valid; the Form IV gloss is the overclaim.
+
+VERIFIED (no issues found):
+- يُسْقَوْنَ as passive voice conveying being-served — accurate per word-by-word and Jalalayn.
+- Root *s-q-y* meaning to give drink — confirmed.
+- Arabs' preference for zanjabīl-mixed drinks and the *why* (طيب الرائحة, aids digestion) — confirmed verbatim in Qurtubi: *"كانت العرب تستلذ من الشراب ما يمزج بالزنجبيل لطيب رائحته"*.
+- Maqātil's statement that Paradise ginger resembles nothing in this world — confirmed in Baghawi: *"لا يشبه زنجبيل الدنيا"*.
+- Ibn ʿAbbās: Quranic Paradise names have no worldly equivalent — confirmed in Baghawi: *"كل ما ذكر الله في القرآن مما في الجنة وسماه ليس له في الدنيا مثل"*.
+- Three-stage spring sequence (kāfūr / zanjabīl / salsabīl) — consistent with the surah's structure; Muyassar confirms salsabīl as a spring (*"عينٍ في الجنة تسمى سلسبيلا"*) and Baghawi confirms zanjabīl may also be a spring (*"هو عين في الجنة"*).
+- The *ka's* lexical distinction (vessel named *ka's* only when filled, otherwise *qaḍaḥ*) — not verifiable from the tafsir excerpts provided, but the frontmatter explicitly cites Lisān al-ʿArab and Mufradāt al-Rāghib for this root; the claim is well-attested in that tradition and flagged appropriately as external.
+
+SUMMARY: One moderate overclaim — the Form IV morphological distinction is presented as lexicographic consensus when it is actually the reflection's own interpretive reading; everything else checks out against the provided sources.

@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/071-nuh/ayahs-013-014.md
+Ayah: 71:13
+Date: 2026-06-15T03:47:35
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: مَّا=What | لَكُمْ=(is) for you, | لَا=not | تَرْجُونَ=you attribute | لِلَّهِ=to Allah | وَقَارًا=grandeur?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+**VERDICT: MODERATE**
+
+**ISSUES:**
+
+- [MODERATE] "Listen to what al-Qurtubī records. He says plainly: 'الرجاء هنا بمعنى الخوف'" — The provided Qurtubī text introduces this position with **قيل** ("it is said"), a passive/transmitted form indicating a reported opinion, not Qurtubī's own definitive judgment. "Says plainly" overstates the directness of Qurtubī's endorsement of this position.
+
+- [MODERATE] The reflection presents the hope/fear convergence as the comprehensive classical reading without acknowledging al-Jalālayn's substantially different interpretation: **"تأملون وقار الله إياكم بأن تؤمنوا"** — which renders the verse as *you do not hope for Allah's waqār toward you, by believing.* Jalālayn inverts the directional axis entirely: the question is not why the people fail to reverence Allah, but why they do not even hope that Allah would dignify them with His regard through īmān. Presenting one interpretive strand as definitive when a provided classical source reads the verse differently is an overstated claim.
+
+- [MODERATE] "He brings a narration through Ibn ʿAbbās — that you do not dread His punishment while you hope for His reward" — the provided Qurtubī excerpt is truncated before this content appears (ending at **"وقال سعيد بن جبير عن ابن عبا"**). This specific formulation cannot be confirmed from the supplied reference data.
+
+**SUMMARY:** Morphology and root identification are accurate, and the Saʿīd ibn Jubayr/Abū al-ʿĀliya/ʿAṭāʾ group attribution and the al-Baghawī/al-Kalbī/al-Ḥasan citations all check out against the provided sources — but the reflection overstates Qurtubī's personal endorsement, omits Jalālayn's directionally distinct reading, and asserts one Ibn ʿAbbās attribution the supplied excerpt cannot support.

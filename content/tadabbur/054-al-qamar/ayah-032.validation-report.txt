@@ -1,0 +1,46 @@
+Enhanced Validation Report
+File: content/tadabbur/054-al-qamar/ayah-032.md
+Ayah: 54:32
+Date: 2026-06-10T06:24:59
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَلَقَدْ=And certainly | يَسَّرْنَا=We have made easy | ٱلْقُرْءَانَ=the Quran | لِلذِّكْرِ=for remembrance, | فَهَلْ=so is (there) | مِن=any | مُّدَّكِرٍ=who will receive admonition?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- None identified against the reference data provided.
+
+Verified claims in detail:
+
+**يَسَّرْنَا morphology** — The reflection correctly identifies Form II (doubled second radical), correctly characterizes it as causative ("We *made* it easy"), and correctly contrasts it with a simple descriptive reading. The ʿallama example is accurate.
+
+**Al-Qurtubi's camel-preparedness reading** — The attribution is precise and accurate. Al-Qurtubi's text reads: *"ويجوز أن يكون المعنى: ولقد هيأناه للذكر مأخوذ من يسر ناقته للسفر: إذا رحلها ويسر فرسه للغزو إذا أسرجه وألجمه"* — exactly the "saddled camel / bridled horse" imagery the reflection describes. Verified.
+
+**Poetry line** — Al-Qurtubi quotes *"وقمت إليه باللجام ميسرا"* ("I rose to him with the bridle, having readied him"). The reflection's rendering is accurate.
+
+**Refrain placement** — 54:17, 22, 32, 40 is correct; "third of four" after Thamud is correct.
+
+**54:31 — ṣayḥatan wāḥidah** — Arabic and contextual rendering accurate.
+
+**54:28 — water-rights** — "divided between her and the town" accurately reflects *قِسْمَةٌ بَيْنَهُمْ*.
+
+**54:2 — siḥrun mustamirr** — Accurately quoted and translated.
+
+**Epistemic transparency** — The reflection explicitly labels the Thamud/camel intertextual resonance as "invitation" rather than documented tafsir. This is correct handling; the adjacency is textual fact, the thematic connection is interpretive. No overclaiming.
+
+**مُدَّكِر Form VIII analysis** (visible in the cut-off portion's setup) — correctly identified in the morphology note as Form VIII derivative of ذ-ك-ر with assimilation (ذ→د before doubled consonant). Standard and accurate.
+
+SUMMARY: All morphological claims, tafsir attributions, and Quranic cross-references in the visible portion are accurate and properly sourced; interpretive extensions are appropriately flagged as such.

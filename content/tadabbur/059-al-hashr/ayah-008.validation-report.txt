@@ -1,0 +1,26 @@
+Enhanced Validation Report
+File: content/tadabbur/059-al-hashr/ayah-008.md
+Ayah: 59:8
+Date: 2026-06-12T20:10:01
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: لِلْفُقَرَآءِ=For the poor | ٱلْمُهَـٰجِرِينَ=emigrants, | ٱلَّذِينَ=those who | أُخْرِجُواْ=were expelled | مِن=from | دِيَـٰرِهِمْ=their homes | وَأَمْوَٲلِهِمْ=and their properties, | يَبْتَغُونَ=seeking | فَضْلاً=bounty | مِّنَ ٱللَّهِ=from Allah | وَرِضْوَٲنًا=and pleasure | وَيَنصُرُونَ=and helping | ٱللَّهَ=Allah | وَرَسُولَهُۥٓ‌ۚ=and His Messenger. | أُوْلَـٰٓئِكَ=Those, | هُمُ=they | ٱلصَّـٰدِقُونَ=(are) the truthful.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Qatādah, an early authority, describes them in words preserved by al-Baghawī: men who left their homes, their wealth, and their clans purely out of love for Allah and His Messenger — until, he says, a man would tie a stone against his stomach to straighten his back against the hunger." — The first clause of this Qatādah attribution is confirmed by the provided al-Baghawī excerpt ("تركوا الديار والأموال والعشائر وخرجوا حبا لله ولرسوله"). However, the al-Baghawī text cuts off at "واختاروا الإسلا..." before the stone-tying detail appears. The stone-against-the-stomach image is a well-attested tradition in the Khandaq narrations (Bukhārī/Muslim) but is not sourced to Qatādah's commentary on this verse in the provided data. The reflection presents it as a continuous quote from Qatādah via al-Baghawī, which cannot be confirmed from the excerpt supplied. The attribution may be accurate in the untruncated text, but as presented it conflates or extends the verified quotation.
+
+SUMMARY: Linguistically and theologically the reflection is sound — root analysis of kh-r-j, the active/passive asymmetry, the faṣl pronoun *humu*, and the ṣādiqūn gloss ("الذين صدَّقوا قولهم بفعلهم") all check out against the reference data; the single issue is the stone-tying detail appended to the Qatādah citation, which is unverifiable from the truncated al-Baghawī excerpt provided and may represent a conflation with a separate hadith tradition.

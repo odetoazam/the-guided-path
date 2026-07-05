@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/033-al-ahzab/ayah-060.md
+Ayah: 33:60
+Date: 2026-05-15T05:02:14
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ۞ لَّئِن=If | لَّمْ=(do) not | يَنتَهِ=cease | ٱلْمُنَـٰفِقُونَ=the hypocrites | وَٱلَّذِينَ=and those who | فِى=in | قُلُوبِهِم=their hearts | مَّرَضٌ=(is) a disease | وَٱلْمُرْجِفُونَ=and those who spread rumors | فِى=in | ٱلْمَدِينَةِ=the city, | لَنُغْرِيَنَّكَ بِهِمْ=We will let you overpower them, | ثُمَّ=then | لَا=not | يُجَاوِرُونَكَ=they will remain your neighbors | فِيهَآ=therein | إِلَّا=except | قَلِيلاً=(for) a little,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+
+- [MODERATE] "Three categories. With surgical precision" / "He separates them" / the extended treatment of three distinct sociological cohorts (hypocrites, heart-diseased, rumor-spreaders as separate *types*) — Al-Qurtubi explicitly cites the dominant classical position: **"أهل التفسير على أن الأوصاف الثلاثة لشيء واحد"** — the scholars of tafsir hold the three attributes describe *one group*, not three distinct strata. The reflection's framing inverts this: it treats separation as the Quranic move and unity as the surprising insight, when classically the unity is the base position. The reflection acknowledges "He treats them as a single threat" but then spends three full subsections developing them as separate psychological archetypes without disclosing it is departing from the majority view.
+
+- [PASS] "Some, including al-Baghawi and al-Jalalayn, read *maraḍ* as the disease of *zinā*" — directly confirmed by both sources. Al-Jalalayn: «والذين في قلوبهم مرض» **بالزنا**; al-Baghawi: «فجور، يعني الزناة». Attribution is accurate.
+
+- [UNVERIFIABLE from provided data] The *nāfiqā'* / desert-rodent-burrow etymology for *nifāq*. Widely attested in classical lexicography (Lisān al-ʿArab) and commonly cited in tafsir tradition, but this specific derivation does not appear in any of the four provided tafsir excerpts. Cannot confirm or flag as error from the reference set given — note it is interpretive tradition, not a morphological claim verifiable here.
+
+- [PASS] *lā nughriyannaka bihim* rendered as "incite you against them" — consistent with al-Jalalayn («لنسلطنك عليهم») and al-Muyassar («لنسلِّطنَّك عليهم»); the root gh-r-w carrying the sense of setting/empowering against is attested.
+
+SUMMARY: The reflection's Arabic attributions are accurate where checkable, but its structuring premise — that Quran is presenting three analytically discrete social categories — runs against the explicit classical majority position cited by al-Qurtubi, and this divergence is nowhere flagged for the reader.

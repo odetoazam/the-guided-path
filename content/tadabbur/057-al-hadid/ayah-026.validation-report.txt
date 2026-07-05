@@ -1,0 +1,41 @@
+Enhanced Validation Report
+File: content/tadabbur/057-al-hadid/ayah-026.md
+Ayah: 57:26
+Date: 2026-06-25T09:51:52
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَلَقَدْ=And certainly | أَرْسَلْنَا=We sent | نُوحًا=Nuh | وَإِبْرَٲهِيمَ=and Ibrahim, | وَجَعَلْنَا=and We placed | فِى=in | ذُرِّيَّتِهِمَا=their offspring | ٱلنُّبُوَّةَ=Prophethood | وَٱلْكِتَـٰبَ‌ۖ=and the Scripture; | فَمِنْهُم=and among them | مُّهْتَدٍ‌ۖ=(is) a guided one, | وَكَثِيرٌ=but most | مِّنْهُمْ=of them | فَـٰسِقُونَ=(are) defiantly disobediently.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+
+- [MODERATE] "Al-Qurṭubī preserves another reading from Ibn ʿAbbās: that *al-kitāb* here means *al-khaṭṭ bil-qalam* — writing itself, the pen, the very capacity to inscribe." — The Qurṭubī excerpt provided is truncated mid-sentence at **"وقال ابن عباس : " الك"** and does not complete. The reflection presents this as a documented, sourced attribution, but it cannot be confirmed from the reference data supplied. The reading itself (Ibn ʿAbbās: kitāb = khaṭṭ) exists in classical tafsir literature, but a validator working from this data set cannot verify the Qurṭubī citation. The claim should be hedged ("some report from Ibn ʿAbbās...") or the full Qurṭubī text should be retrieved before publication.
+
+- [MODERATE] "Its root carries the resonance of scattering, of dispersal — the same family of meaning that gives us *dharra*, the tiny scattered mote, the speck." — The root of *dhurriyya* is disputed among classical grammarians. Al-Rāghib in the Mufradāt discusses multiple derivations (ذَرَأَ / ذَرَّ). The reflection presents the scattering derivation as settled and primary. It is one attested position, not consensus. The morphology note in the frontmatter lists the root as ذرر, which is one scholarly assignment, but the reflection's prose states it as definitive fact. Softer framing ("one reading of the root suggests...") would be more accurate.
+
+- [PASS] Jalālayn attribution: **"يعني الكتب الأربعة: التوراة والإنجيل والزبور والفرقان"** — confirmed verbatim in the provided Jalālayn source. The reflection's summary ("Torah, Injīl, Zabūr, Furqān") is accurate.
+
+- [PASS] Form VIII of hdy (*muhtadin* ← *ihtadā*) and Form IV of rsl (*arsalnā*) — both morphologically correct and consistent with the word-by-word data.
+
+- [PASS] *nubuwwa* from root *naba'* (news, tidings) — lexically accurate per Mufradāt al-Rāghib; the gloss "one who carries the news" is a fair rendering.
+
+- [PASS] *jaʿala fī* vs. *ātā* distinction — the semantic weight of *jaʿalnā fī* ("placed within") over against bare giving is a sound lexical observation, consistent with how *jaʿala* functions across the Quran (cf. 2:30, 21:73).
+
+- [PASS] Arabic text in body and frontmatter matches the authenticated text (diacritic differences in tanwīn marks are typographic, not errors).
+
+- [PASS] Contextual framing (Madinan surah, 57:16 as the surah's interior question, 57:25 preceding with Balance and Iron) — all accurate.
+
+SUMMARY: The reflection is linguistically careful and theologically grounded, but two claims are stated with more certainty than the provided reference data supports — the Qurṭubī/Ibn ʿAbbās attribution (source is truncated and cannot be confirmed) and the *dhurriyya* root etymology (presented as settled when it is one position among several).

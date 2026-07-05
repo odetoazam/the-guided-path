@@ -1,0 +1,39 @@
+Enhanced Validation Report
+File: content/tadabbur/037-as-saffat/ayah-107.md
+Ayah: 37:107
+Date: 2026-06-05T08:54:41
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَفَدَيْنَـٰهُ=And We ransomed him | بِذِبْحٍ=with a sacrifice | عَظِيمٍ=great,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+**VERDICT: PASS**
+
+**ISSUES:**
+
+- [PASS] "Al-Muyassar renders it plainly: 'We rescued Ismail, and made in his place a great ram.'" — Accurate verbatim citation. The Arabic source states exactly: *واستنقذنا إسماعيل، فجعلنا بديلا عنه كبشًا عظيمًا.*
+
+- [PASS] "Al-Jalalayn: 'And We ransomed him' — the one who had been commanded to be slaughtered — 'with a ram.'" — Accurate paraphrase. The source says: *«وفديناه» أي المأمور بذبحه... «بذبح» بكبش.*
+
+- [PASS] Root of *fadaynāhu* stated as *fa-dā-ya* (ف د ي), Form I perfect — correct per word-by-word data.
+
+- [PASS] Title claim "greatness of worth, not size" — directly supported by Al-Qurtubi: *عظيم القدر، ولم يرد عظيم الجثة* and the consensus note that *عظيم* here means *الشريف* (noble/honored) or *المتقبَّل* (accepted), not large in body.
+
+- [PASS] Concept tag "the-unnamed-son" — prudent, since Al-Jalalayn explicitly presents two opinions: *وهو إسماعيل أو إسحاق قولان.* The narrative consistently says "the boy" and "the son" without asserting a position, then cites Al-Muyassar's Ismail reading as attributed opinion only. No overstatement.
+
+- [PASS] *fadaynā* framed as "We ransomed" with Allah as subject after Ibrahim-centered narrative — grammatically and thematically accurate; matches the shift the tafsirs themselves foreground.
+
+- [OBSERVE — not a flag] "The whole drama, for a hundred verses" — rhetorical hyperbole, not a literal verse count. The Ibrahim-Ismail passage is 37:99–113 (fifteen verses). No scholarly claim is made about the count, so this is a style note only.
+
+**SUMMARY:** All tafsir citations check out against the provided sources, linguistic claims are correct, and interpretive extensions are appropriately framed as theological reflection rather than documented fact — no errors requiring correction.

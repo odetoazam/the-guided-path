@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/091-ash-shams/ayahs-014-015.md
+Ayah: 91:14
+Date: 2026-06-18T19:47:49
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَكَذَّبُوهُ=But they denied him, | فَعَقَرُوهَا=and they hamstrung her. | فَدَمْدَمَ=So destroyed | عَلَيْهِمْ=them | رَبُّهُم=their Lord | بِذَنۢبِهِمْ=for their sin | فَسَوَّٮٰهَا=and leveled them.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "After eleven verses of oaths swearing by the sun, moon, sky, earth, and finally the human soul that was 'leveled into proportion'" — Ash-Shams contains exactly **7** qasam (oath) verses (91:1–7: sun, moon, day, night, sky, earth, soul). Verses 8–10 (فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا / قَدْ أَفْلَحَ / وَقَدْ خَابَ) are the **jawāb al-qasam** — the conclusion/verdict — not oaths. Verse 11 (كَذَّبَتْ ثَمُودُ) opens the Thamud narrative. Describing "eleven verses of oaths" conflates the qasam structure with its resolution. Notably, the reflection's own body correctly lists only seven oath-objects (sun, moon, day, night, sky, earth, soul), creating an internal contradiction with the frontmatter.
+
+No other issues found. Specifically confirmed clean:
+- Arabic text matches authenticated source exactly
+- فَسَوَّىٰهَا / سَوَّىٰهَا echo (91:14 ↔ 91:7) is seven verses apart — arithmetic correct
+- Three-فَ analysis (immediate consequential sequence) is linguistically sound
+- damdama as reduplicated quadriliteral (د-م-د-م) is morphologically accurate; Baghawi's "إهلاك باستئصال" supports the "complete/total" destruction framing
+- Collective attribution of the hamstringing consistent with Qurtubi: "أضيف إلى الكل؛ لأنهم رضوا بفعله"
+- Salih's three-day warning is from Quran 11:65, not external hadith — accurately sourced
+- فَسَوَّىٰهَا rendered "leveled them flat" consistent with Jalalayn: "عمهم بها فلم يفلت منهم أحد"
+
+SUMMARY: The reflection is linguistically rigorous and tafsir-accurate throughout the body; the sole issue is a factual structural error in the frontmatter passage_context that miscounts the qasam as eleven verses when there are seven — an error the body text itself contradicts.

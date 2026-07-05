@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/052-at-tur/ayahs-048-049.md
+Ayah: 52:48
+Date: 2026-06-09T14:43:39
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَٱصْبِرْ=So be patient, | لِحُكْمِ=for (the) Command | رَبِّكَ=(of) your Lord, | فَإِنَّكَ=for indeed, you | بِأَعْيُنِنَا‌ۖ=(are) in Our Eyes. | وَسَبِّحْ=And glorify | بِحَمْدِ=(the) praise | رَبِّكَ=(of) your Lord | حِينَ=when | تَقُومُ=you arise,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Al-Qurṭubī records that *ḥukm rabbik* can mean...the decree your Lord will issue against your enemies — His coming judgment on those who mocked. Al-Baghawī leans into this second one explicitly" — This conflates two distinct scholars into a single "second reading." Al-Qurṭubī's actual second reading is *لبلائه فيما ابتلاك به من قومك* — the Prophet's own affliction/trial at the hands of his people — not a coming judgment against enemies. Al-Baghawī's reading (*إلى أن يقع بهم العذاب الذي حكمنا عليهم*) is a separate interpretive position, not an elaboration of al-Qurṭubī's second option. The reflection presents them as co-authors of one reading; they are actually advancing different readings.
+
+- [PASS] The *li* vs *ʿalā* preposition distinction is linguistically sound and implicitly supported by al-Baghawī's forward-pointing reading ("until the punishment comes to pass") and al-Jalālayn's *بإمهالهم* framing.
+
+- [PASS] The abrogation note is accurately cited from al-Qurṭubī (*ثم نسخ بآية السيف*) and the hedge ("many scholars...did not accept") is stated as a general position rather than sourced to a specific text — appropriate epistemic framing.
+
+- [PASS] Arabic text matches the authentic Arabic provided. Translation is accurate.
+
+SUMMARY: One moderate attribution error — the "judgment against enemies" reading belongs to al-Baghawī alone; al-Qurṭubī's second reading concerns the Prophet's own trial from his people, which is meaningfully distinct.

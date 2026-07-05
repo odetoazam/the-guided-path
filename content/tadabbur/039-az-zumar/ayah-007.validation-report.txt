@@ -1,0 +1,40 @@
+Enhanced Validation Report
+File: content/tadabbur/039-az-zumar/ayah-007.md
+Ayah: 39:7
+Date: 2026-06-06T03:38:27
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِن=If | تَكْفُرُواْ=you disbelieve | فَإِنَّ=then indeed, | ٱللَّهَ=Allah | غَنِىٌّ=(is) free from need | عَنكُمْ‌ۖ=of you. | وَلَا=And not | يَرْضَىٰ=He likes | لِعِبَادِهِ=in His slaves | ٱلْكُفْرَ‌ۖ=ungratefulness. | وَإِن=And if | تَشْكُرُواْ=you are grateful | يَرْضَهُ=He likes it | لَكُمْ‌ۗ=in you. | وَلَا=And not | تَزِرُ=will bear | وَازِرَةٌ=bearer of burdens | وِزْرَ=(the) burden | أُخْرَىٰ‌ۗ=(of) another. | ثُمَّ=Then | إِلَىٰ=to | رَبِّكُم=your Lord | مَّرْجِعُكُمْ=(is) your return, | فَيُنَبِّئُكُم=then He will inform you | بِمَا=about what | كُنتُمْ=you used (to) | تَعْمَلُونَ‌ۚ=do. | إِنَّهُۥ=Indeed, He | عَلِيمُۢ=(is) the All-Knower | بِذَاتِ ٱلصُّدُورِ=of what (is) in the breasts.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- None identified in the provided excerpt.
+
+Specific checks performed against reference data:
+
+**Root غ-ن-ي analysis** — "the root...carries the sense of self-sufficiency, of having no want, of being so full that nothing outside you is required to complete you" — *Verified.* Word-by-word confirms غَنِىٌّ = "free from need"; Muyassar corroborates: *"فإنه غنيٌّ عنكم، ليس بحاجة إليكم، وأنتم الفقراء إليه"* (He is free of need of you, you are the ones in need of Him).
+
+**ʿankum preposition** — The "away from you / aimed at you" framing is a valid Arabic grammatical analysis. The preposition ʿan with ghani is attested as conveying directed self-sufficiency, not merely abstract richness.
+
+**Al-Ghaniyy as a divine name** — Standard Islamic theology, uncontested.
+
+**"He would lose precisely nothing"** — Directly supported by Muyassar's "ليس بحاجة إليكم."
+
+**Verse structure** — The double-move the reflection identifies (He needs nothing *and yet* does not want disbelief for you) is exactly what Jalalayn and Muyassar both capture without contradiction.
+
+**One item to watch in later sections** (not flagged as an error here since the excerpt doesn't reach it): Baghawi records that Ibn ʿAbbas and al-Suddi read *li-ʿibādihi* as specifically the believing servants, not all humanity. If the reflection makes a universal claim ("He does not want disbelief for *any* person") without acknowledging this classical restriction, that would warrant a MODERATE flag. The excerpt ends before this territory is entered.
+
+SUMMARY: The linguistic and theological claims in this excerpt are accurate, tightly grounded in the word-by-word data and classical tafsir, and contain no attributional or morphological errors.

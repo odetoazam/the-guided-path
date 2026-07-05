@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/054-al-qamar/ayah-021.md
+Ayah: 54:21
+Date: 2026-06-10T01:22:41
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَكَيْفَ=So how | كَانَ=was | عَذَابِى=My punishment | وَنُذُرِ=and My warnings?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS-NOTE] "Siḥrun mustamirr — 'passing magic'" — *mustamirr* (م-ر-ر) carries the primary classical meaning of "persistent/continuing," not "passing." This is a minority translation choice, not a factual error, but leans against the dominant reading. The provided reference data does not cover 54:2 so this cannot be fully adjudicated here.
+- [PASS-NOTE] The structural claim that "ʿĀd is the only story in Al-Qamar where the question brackets the punishment on both sides" — the provided tafsir sources do not address surah-level structure, so this cannot be verified from reference data alone. It is however confirmable directly from the Quran text (54:18 precedes the wind scene, 54:21 follows it), and the claim appears structurally accurate.
+- [PASS] "Al-Qurṭubī records the reading of the grammarian al-Farrāʾ: both words are *maṣdars*" — accurately reflects the Qurṭubī source: *قال الفراء: إنذاري; قال مصدران*.
+- [PASS] "the way *nakīr* relates to *inkār*" — correctly paraphrases Qurṭubī's analogy: *كنكير بمعنى الإنكار*.
+- [PASS] "The tafsir al-Muyassar spells out what is implied — *it was immense, painful*" — exact match: *إنه كان عظيمًا مؤلمًا*.
+- [PASS] *Tahwīl* as a rhetorical term for magnifying dread — this is تهويل from هول (dread), a recognized classical balāghah term used in Quranic rhetorical analysis, not تحويل (transformation). Usage is correct.
+
+SUMMARY: The reflection is linguistically precise, all three scholar attributions (al-Farrāʾ via Qurṭubī, Muyassar's elaboration, the plural-of-nadhīr reading) faithfully track the provided sources, and no root, verb form, or attribution errors are present.

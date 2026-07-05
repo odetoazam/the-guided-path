@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/047-muhammad/ayah-003.md
+Ayah: 47:3
+Date: 2026-06-08T11:26:16
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ذَٲلِكَ=That | بِأَنَّ=(is) because | ٱلَّذِينَ=those who | كَفَرُواْ=disbelieve | ٱتَّبَعُواْ=follow | ٱلْبَـٰطِلَ=falsehood | وَأَنَّ=and because | ٱلَّذِينَ=those who | ءَامَنُواْ=believe | ٱتَّبَعُواْ=follow | ٱلْحَقَّ=(the) truth | مِن=from | رَّبِّهِمْ‌ۚ=their Lord. | كَذَٲلِكَ=Thus | يَضْرِبُ ٱللَّهُ=Allah presents | لِلنَّاسِ=to the people | أَمْثَـٰلَهُمْ=their similitudes.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE] al-bāṭil glossed throughout as "falsehood" (lexical meaning) — Jalalayn and Baghawi both gloss it specifically as *al-Shayṭān*, Muyassar as following the Shayṭān. The reflection's rendering is not wrong (it is the lexical base), but the tafsiri specification is absent. Since the reflection does not claim the lexical meaning is the full tafsiri content, this is an omission rather than an error. No flag required.
+- [NOTE] al-ḥaqq similarly glossed as "truth" — Jalalayn and Baghawi specify it as *al-Qurʾān*; Muyassar as the Messenger and what he brought. Same situation: lexical rendering is accurate, tafsiri specification not contradicted, no error.
+- [CONFIRM] Form VIII morphology claim (*ittabaʿa*, iftaʿala pattern, reflexive/self-directed nuance) — correct. Root *t-b-ʿ*, Form VIII assimilation (اِتْتَبَعَ → اِتَّبَعَ) is standard; the characterization of Form VIII as pulling the action toward the self is attested in classical Arabic grammar. No error.
+- [CONFIRM] Shared verb *ittabaʿū* used identically for both groups — verified against the Arabic text. The structural observation ("Allah refuses to flatter the believer with a nobler verb") is a sound literary reading, not a factual claim beyond what the text supports.
+- [CONFIRM] Surah Muhammad as Medinan, context of Madinan confrontation — accurate.
+- [CONFIRM] Summary of 47:1–2 (deeds rendered astray / state set right) — accurate paraphrases.
+
+SUMMARY: The first 8000 characters contain no factual errors in morphology, translation, or tafsir; al-bāṭil and al-ḥaqq are rendered by their lexical values rather than the tafsiri specifications (Shayṭān / Qurʾān), which is a legitimate approach for accessible reflection and does not contradict the sources.

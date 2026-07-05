@@ -1,0 +1,30 @@
+Enhanced Validation Report
+File: content/tadabbur/055-ar-rahman/ayah-076.md
+Ayah: 55:76
+Date: 2026-06-12T00:36:38
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: مُتَّكِــِٔينَ=Reclining | عَلَىٰ=on | رَفْرَفٍ=cushions | خُضْرٍ=green, | وَعَبْقَرِىٍّ=and carpets | حِسَانٍ=beautiful.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR — cannot flag as error] The section heading "Green That Flutters" and the claim that doubling "almost always means repeated, rippling motion" present the phonaesthetic reading of رَفْرَف as its primary semantic content. The provided tafsir sources (Jalalayn, Muyassar, Qurtubi, Baghawi) uniformly give concrete meanings — بسط (spreads), وسائد (cushions), طنافس (thick carpets), رياض الجنة (garden meadows) — not motion or flutter. The "fluttering" sense is lexically supportable from Lisān al-ʿArab (the root does cover wing-motion and rippling), but the reflection cannot verify it from the provided tafsir data. It is an interpretive-literary layer on top of attested meanings, not a substitution for them. The reflection's own translation ("cushions") correctly preserves the tafsir consensus, so no false claim is being made — just an unverified extension added through phonaesthetics.
+
+- [OBSERVATION — not an error] The Form VIII analysis of مُتَّكِئِينَ (root و-ك-أ, iftiʿāl pattern, reflexive sense) is morphologically accurate and consistent with the Leeds corpus citation in the metadata. The active participle vs. verb distinction (state-of-being vs. event) is a sound pedagogical framing.
+
+- [OBSERVATION — not an error] عَبْقَرِيّ as "superhuman/jinn craftsmanship" (telegraphed in the title) is lexically attested in classical Arabic (ʿAbqar as a jinn-inhabited place known for fine work) and does not contradict any provided tafsir source; Jalalayn confirms the carpet meaning (طنافس). The claim is verifiable from Arabic lexicography even though it goes beyond the specific tafsir excerpts provided.
+
+SUMMARY: No critical or moderate errors are present in the visible text; the morphology is accurate, the translation respects classical consensus, and the "fluttering" reading is a layered literary interpretation that does not contradict tafsir — it simply cannot be sourced from the reference data provided.

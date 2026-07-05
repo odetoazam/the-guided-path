@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/054-al-qamar/ayah-013.md
+Ayah: 54:13
+Date: 2026-06-10T00:40:00
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَحَمَلْنَـٰهُ=And We carried him | عَلَىٰ=on | ذَاتِ أَلْوَٲحٍ=(ark) made of planks | وَدُسُرٍ=and nails,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [ADVISORY] "a thing of planks and nails" / "planks and nails" used throughout — The translation of دُسُر as "nails" is the majority position (Qatadah, Ibn Abbas via al-Walibi, Ibn Zayd, Ibn Jubayr — confirmed by al-Jalalayn, al-Qurtubi, al-Baghawi) and matches the word-by-word reference provided. However, al-Qurtubi and al-Baghawi both record a second attested position from al-Hasan, Ikrimah, and Shahr ibn Hawshab: دُسُر = the *prow* of the ship (صدر السفينة) that "pushes the water" (تدسر الماء). The reflection omits this ikhtilaf entirely. The theological argument — ordinary materials, carpenter's vocabulary — holds under either reading, so this does not constitute a MODERATE flag, but a platform that emphasizes scholarly honesty would benefit from a one-line acknowledgment.
+
+- [VERIFY] "Al-Baghawi states it plainly: ذَكَرَ النَّعْتَ وَتَرَكَ الِاسْمَ" — The quote is **accurately attributed and verbatim from al-Baghawi** per the provided source ("ذكر النعت وترك الاسم، أراد بالألواح خشب السفينة العريضة"). Attribution confirmed.
+
+- [VERIFY] "*dhāti* — 'possessor of' — is feminine... the one that isn't there: *safīnah*, ship — a feminine word" — Grammatically sound. *Dhāt* is the feminine of *dhū*; the elided noun *safīnah* is feminine. The classical sources implicitly confirm the referent is the ship. No error.
+
+- [VERIFY] All Quranic cross-references cited (54:9, 54:11–12, 11:37, 11:41) are correctly attributed and paraphrased accurately.
+
+SUMMARY: The reflection is linguistically rigorous and all explicit tafsir citations are accurate; the only advisory gap is an unacknowledged ikhtilaf on دُسُر that the provided sources contain and the platform's scholarly-honesty standards would warrant noting.

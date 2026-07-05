@@ -1,0 +1,38 @@
+Enhanced Validation Report
+File: content/tadabbur/004-an-nisa/ayah-088.md
+Ayah: 4:88
+Date: 2026-06-24T09:29:45
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ۞ فَمَا=So what | لَكُمْ=(is the matter) with you | فِى=concerning | ٱلْمُنَـٰفِقِينَ=the hypocrites (that) | فِئَتَيْنِ=(you have become) two parties? | وَٱللَّهُ=While Allah | أَرْكَسَهُم=cast them back | بِمَا=for what | كَسَبُوٓاْ‌ۚ=they earned. | أَتُرِيدُونَ=Do you wish | أَن=that | تَهْدُواْ=you guide | مَنْ=whom | أَضَلَّ ٱللَّهُ‌ۖ=Allah has let go astray? | وَمَن=And whoever | يُضْلِلِ ٱللَّهُ=Allah lets go astray, | فَلَن=then never | تَجِدَ=will you find | لَهُۥ=for him | سَبِيلاً=a way.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate errors found within the validated portion (first 8000 chars, ending mid-morphology discussion of *arkasahum*).
+
+Supporting checks:
+
+**Historical context**: The narrative of believers splitting into two camps over hypocrites who withdrew at Uhud is confirmed across all four tafsir sources. The reflection's characterization ("one group: kill them, another: pardon them — they said the shahada") maps precisely to Baghawi's account: *"اقتلهم فإنهم منافقون، وقال بعضهم: اعف عنهم فإنهم تكلموا بالإسلام."* The detail that they "marched out and then turned back" is confirmed by Qurtubi citing Muslim via Zayd ibn Thabit: *"فرجع ناس ممن كان معه."*
+
+**فِئَتَيْنِ dual grammar**: The claim of "exactly two — Arabic's dedicated grammatical shape for twoness" is morphologically correct. The literary observation that the dual form mirrors the munafiq's internal split is framed explicitly as analysis, not attributed scholarship — no flag warranted.
+
+**Root r-k-s (ر-ك-س) and Form IV**: *Arkasa* as Form IV (af'ala pattern) causing transitivity is accurate. The gloss "cast them back / overturned to their origin" aligns with Jalalayn's *"ردهم"* and the word-by-word reference. No overclaim in the classical lexicon attribution.
+
+**فَمَا لَكُمْ diagnostic framing**: The gaze-inversion reading ("the question aimed at believers, not hypocrites") is sound and grounded — the interrogative *famā lakum* is standardly used in Arabic for reproach/diagnosis of the addressee's state, not the subject they're discussing.
+
+**Arabic text**: Minor diacritic rendering variants between frontmatter and body, but no word-form errors against the authenticated Arabic.
+
+SUMMARY: All verifiable claims in the first 8000 characters — historical occasion, grammatical observations, root analysis, and tafsir-backed narrative — are accurate and appropriately hedged; the one area not yet visible (the continuation of the *arkasahum* morphology section) should be re-validated once the full text is available.

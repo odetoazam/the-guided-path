@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/064-at-taghabun/ayah-004.md
+Ayah: 64:4
+Date: 2026-06-13T10:26:18
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَعْلَمُ=He knows | مَا=what | فِى=(is) in | ٱلسَّمَـٰوَٲتِ=the heavens | وَٱلْأَرْضِ=and the earth, | وَيَعْلَمُ=and He knows | مَا=what | تُسِرُّونَ=you conceal | وَمَا=and what | تُعْلِنُونَ‌ۚ=you declare. | وَٱللَّهُ=And Allah | عَلِيمُۢ=(is) All-Knowing | بِذَاتِ=of what | ٱلصُّدُورِ=(is in) the breasts.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Allah does not say He knows *what is in* the breasts. He uses a word — *dhāt* — that means something closer to *the companion of the breasts*, *the very intimate of the chest*." — The reflection presents "companion" as the primary, definitional meaning of ذات in this phrase and builds the entire title around it. The four classical tafsir sources provided uniformly render بِذَاتِ الصُّدُورِ as "what is within/contained in the chests": Jalalayn glosses it بما فيها من الأسرار والمعتقدات ("what is in them of secrets and beliefs"); Muyassar بما تضمره الصدور وما تخفيه النفوس ("what the chests contain and what the souls hide"); Qurtubi لا يخفى عليه شيء مما في صدوركم ("nothing in your chests is hidden from Him"). None of these render ذات as "companion." The "companion" reading is a legitimate lexical extension — ذو/ذات does carry the semantic range of "possessor/associate of" — but it is an interpretive choice, not the documented primary gloss. Presenting it as what the word "means" (rather than "can mean" or "scholars have noted") overstates the warrant. It should be framed explicitly as one reading rather than a lexical definition.
+
+No issues found with:
+- Arabic text (orthographically matches the reference)
+- Form IV identification of both تُسِرُّونَ (from أَسَرَّ, root س-ر-ر) and تُعْلِنُونَ (from أَعْلَنَ, root ع-ل-ن) — both are correctly identified
+- The factitive-transitive description of Form IV function — pedagogically sound and consistent with the frontmatter note
+- Surah structure summary (verses 1–3 content accurately characterized)
+- The musabbihat classification — accurate within the standard scholarly grouping (surahs 57–64)
+- Rhetorical analysis of verb repetition (yaʿlamu… wa yaʿlamu) and the cosmic-to-personal descent structure — not sourced from tafsir but consistent with it and not factually disputable
+- Ordering of sirr before iʿlān — a valid rhetorical observation, not a factual claim requiring external validation
+
+SUMMARY: The reflection is accurate in morphology, tafsir alignment, and structural analysis; the sole flag is that the ذات = "companion" rendering is presented as a lexical definition rather than an interpretive extension, unsupported as a primary gloss by any of the four classical tafsir sources provided.

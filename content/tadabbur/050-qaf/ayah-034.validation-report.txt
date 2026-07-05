@@ -1,0 +1,26 @@
+Enhanced Validation Report
+File: content/tadabbur/050-qaf/ayah-034.md
+Ayah: 50:34
+Date: 2026-06-08T21:38:50
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ٱدْخُلُوهَا=Enter it | بِسَلَـٰمٍ‌ۖ=in peace. | ذَٲلِكَ=That | يَوْمُ=(is) a Day | ٱلْخُلُودِ=(of) Eternity.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "al-Qurtubi, al-Baghawi, al-Jalalayn each open their explanation with *'yuqāl'"* — The provided al-Jalalayn excerpt does **not** use this framing; it opens directly with a gloss: *«ادخلوها بسلام» سالمين من كل مخوف أو مع سلام*. Qurtubi and Baghawi do both explicitly deploy *يقال لأهل هذه الصفات/الصفة* — that attribution holds. But the "all three, identically" claim cannot be verified from the reference data as supplied. Overstatement of unanimity, not fabrication.
+
+SUMMARY: One moderate issue — the Jalalayn attribution to the *yuqāl* framing is not supported by the provided excerpt; all other contextual references, grammar analysis, cross-verse citations from Surah Qaf, and interpretive reflections are accurate or clearly marked as literary/theological observation rather than documented fact.

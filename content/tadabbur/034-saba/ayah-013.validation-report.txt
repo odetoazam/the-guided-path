@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/034-saba/ayah-013.md
+Ayah: 34:13
+Date: 2026-05-15T14:24:52
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَعْمَلُونَ=They worked | لَهُۥ=for him | مَا=what | يَشَآءُ=he willed | مِن=of | مَّحَـٰرِيبَ=elevated chambers | وَتَمَـٰثِيلَ=and statues | وَجِفَانٍ=and bowls | كَٱلْجَوَابِ=like reservoirs | وَقُدُورٍ=and cooking-pots | رَّاسِيَـٰتٍۚ=fixed. | ٱعْمَلُوٓاْ=`Work, | ءَالَ=O family | دَاوُۥدَ=(of) Dawood! | شُكْرًاۚ=(in) gratitude.` | وَقَلِيلٌ=But few | مِّنْ=of | عِبَادِىَ=My slaves | ٱلشَّكُورُ=(are) grateful.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+**VERDICT: MODERATE**
+
+**ISSUES:**
+
+- [MODERATE] "The Arabic word شُكْرًا here is functioning as what classical grammarians call a *maf'ūl mutlaq* or a *maf'ūl li-ajlih*" — The maf'ūl mutlaq reading is linguistically strained. A maf'ūl mutlaq must share the root of its governing verb; اعملوا derives from ع م ل while شُكْرًا derives from ش ك ر — different roots. Classical Arabic grammar does occasionally permit maf'ūl mutlaq from a synonymous root (المفعول المطلق من غير لفظ الفعل), but this is a minority and contested position. The more standard analyses — maf'ūl li-ajlih and ḥāl — are solid. Presenting maf'ūl mutlaq as an equivalent co-equal reading overstates its grammatical standing.
+
+- [MODERATE] "al-Qurtubi, in particular, lays them out as compatible angles on a single meaning" — The al-Qurtubi excerpt provided does not contain this grammatical analysis of شُكْرًا (the text is cut off before reaching this point). This specific attribution — that al-Qurtubi frames all three readings as "compatible angles" — cannot be verified from the reference data supplied. It may be accurate, but stating it as a documented fact exceeds what the evidence here supports.
+
+**PASS items confirmed:** Arabic text matches the authentic Arabic exactly. The ع م ل root repetition (يَعْمَلُونَ / ٱعْمَلُوٓاْ) is linguistically accurate and the interpretive weight placed on it is well-grounded. Translation of محاريب as "sanctuaries," تماثيل as "statues," جفان as "bowls like cisterns," and قدور راسيات as "cauldrons fixed in place" all align with al-Jalalayn, al-Muyassar, and al-Baghawi. No scholar positions are inverted. No Arabic text errors.
+
+**SUMMARY:** The reflection is theologically sound and linguistically careful throughout, but overstates the grammatical case for maf'ūl mutlaq (roots differ) and attributes a specific synthesis to al-Qurtubi that the provided reference data cannot confirm.

@@ -1,0 +1,37 @@
+Enhanced Validation Report
+File: content/tadabbur/075-al-qiyamah/ayahs-034-035.md
+Ayah: 75:34
+Date: 2026-06-18T08:11:02
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَوْلَىٰ=Woe | لَكَ=to you, | فَأَوْلَىٰ=and woe!
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+
+- [MODERATE] "Six words. That is the entire passage." — The two-verse passage (75:34–35) contains **7** Arabic words: أَوْلَىٰ / لَكَ / فَأَوْلَىٰ / ثُمَّ / أَوْلَىٰ / لَكَ / فَأَوْلَىٰ. The frontmatter likewise has `word_count: 6`. The error is minor but the claim is made emphatically ("That is the entire passage") and anchors the rhetorical setup, so it should be corrected.
+
+- [MODERATE] "Some commentators read awlā instead as connected to al-wayl — 'woe,' the cry of one who is destroyed." — No provided source links أَوْلَىٰ etymologically to **وَيْل** (wayl, root w-y-l). Al-Muyassar renders it **هلاك** (halāk, destruction/ruin), not wayl. Al-Jalālayn grounds the meaning in the w-l-y root semantics (nearness/befitting). Presenting "connected to al-wayl" as a parallel classical reading overstates what is attested in the provided sources; the two roots are distinct (w-l-y vs. w-y-l), and conflating them could mislead readers about the lexical basis.
+
+PASSING CHECKS (explicit verification):
+
+- Root attribution w-l-y for أَوْلَىٰ: confirmed by Jalālayn ("اسم فعل… أي وليك ما تكره") and the file's morphology note citing Leeds corpus + Lisān al-ʿArab.
+- Jalālayn paraphrase ("what you hate has drawn near to you — more befitting of you than to anyone else"): accurate to "أي وليك ما تكره… فهو أولى بك من غيرك."
+- Iltifāt claim (shift from third to second person): supported by Jalālayn's "فيه التفات عن الغيبة."
+- Abu Jahl attribution: appropriately hedged ("hold that report gently… not a certainty of creed"); grounded in Qurtubi's "كما روي أنها نزلت في أبي جهل."
+- Fourfold repetition as escalating threat: supported by Qurtubi's "تهديد بعد تهديد، ووعيد بعد وعيد… وعيد أربعة لأربعة."
+
+SUMMARY: The reflection is theologically sound and its core linguistic argument (w-l-y root, Jalālayn's nearness reading, iltifāt, Abu Jahl hedging) is well-grounded; two corrections are needed — fix the word count from 6 to 7, and either cite a specific source for the wayl connection or reframe it as a functional/translational gloss rather than a competing etymological reading.

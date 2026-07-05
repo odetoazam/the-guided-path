@@ -1,0 +1,28 @@
+Enhanced Validation Report
+File: content/tadabbur/048-al-fath/ayah-013.md
+Ayah: 48:13
+Date: 2026-06-08T15:22:36
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَمَن=And whoever | لَّمْ يُؤْمِنۢ=(has) not believed | بِٱللَّهِ=in Allah | وَرَسُولِهِۦ=and His Messenger | فَإِنَّآ=then indeed, We | أَعْتَدْنَا=[We] have prepared | لِلْكَـٰفِرِينَ=for the disbelievers | سَعِيرًا=a Blazing Fire.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE — not an error] "The particle *lam* before it negates it and pulls it toward the past, but the verb itself stays in that open, unfinished shape" — strictly speaking, *lam* + jussive forms a definite past negation; the claim that the form "stays open" is a pedagogical framing of Arabic aspect theory, not a classical grammar statement. It is not wrong — the contrast with the pure perfect (*aʿtadnā*) is real — but it is stated with slightly more grammatical authority than the raw rule warrants. Does not rise to MODERATE because it does not misrepresent any named scholar or documented position, and the aspect contrast itself is sound.
+
+- [NOTE — not an error] The tense-certainty argument ("The Blaze was finished before the refusal was final") is not sourced to any of the four tafsirs provided — Jalalayn glosses *saʿīrā* only as *nāran shadīdah*, Muyassar reads *aʿtadnā* simply as "we have made ready," Qurtubi calls the verse *waʿīd* (a threat), Baghawi cites without comment. The principle invoked (māḍī li-l-taḥqīq — perfect tense for certainty of consequence) is classically attested but not demonstrated by the provided snippets. The reflection treats it as a direct textual observation rather than a named interpretive tradition. This is an honest interpretive extension — nothing is falsely attributed — but a citation to Ibn ʿĀshūr or Zamakhshari on this device would tighten the claim.
+
+SUMMARY: No morphological errors, no false attributions, no Arabic text discrepancies — historical context, root analysis (Amn Form IV imperfect, ʿtd Form IV perfect), and the grammatical naming-shift observation (man → al-kāfirīn) are all accurate; the one gap is that the tense-certainty argument is presented as direct observation rather than a named classical principle, which is an interpretive extension but not a factual error.

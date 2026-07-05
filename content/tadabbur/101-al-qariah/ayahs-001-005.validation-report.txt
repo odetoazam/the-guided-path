@@ -1,0 +1,28 @@
+Enhanced Validation Report
+File: content/tadabbur/101-al-qariah/ayahs-001-005.md
+Ayah: 101:1
+Date: 2026-06-20T07:07:42
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ٱلْقَارِعَةُ=The Striking Calamity!
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Notice what every one of them reached for. Not 'it strikes the earth.' Not 'it strikes the mountains.' **It strikes the hearts.**" — This meta-summary overstates the consensus. Three sources (Jalālayn: «تقرع القلوب بأهوالها», Muyassar: «تقرع قلوب الناس بأهوالها», Baghawī: «تقرع القلوب بالفزع») explicitly target *al-qulūb*. But al-Qurtubī's text reads «تقرع الخلائق بأهوالها وأفزاعها» — **it strikes the *creation/creatures***, not specifically the hearts. The "every one" framing is inaccurate. Notably, the reflection then correctly quotes Qurtubī as "strikes the creation with its horrors and its terrors," which internally contradicts the meta-claim — so this is a framing error, not a fabrication.
+
+No other issues found. The four Arabic quotations from the classical sources are transcribed without distortion. The active-participle analysis (*ism al-fāʿil* from **ق-ر-ع**) is lexically sound. The Meccan designation is confirmed by Qurtubī's «مكية بإجماع». The *istidlāl al-maʿqūl bil-mahsūs* framing is applied appropriately as a rhetorical category, not as a attributed scholar position.
+
+SUMMARY: Reflection is rigorously sourced and the tafsir quotations are accurate; the single moderate issue is the meta-claim that "every one" of the mufassirūn located the strike in the hearts, when Qurtubī's wording is the broader *al-khalaʾiq* (the creation) — an overgeneralization the reflection's own accurate Qurtubī quote exposes.

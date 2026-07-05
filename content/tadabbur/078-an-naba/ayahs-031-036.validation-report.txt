@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/078-an-naba/ayahs-031-036.md
+Ayah: 78:31
+Date: 2026-06-18T12:57:53
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّ=Indeed, | لِلْمُتَّقِينَ=for the righteous | مَفَازًا=(is) success,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "the name they gave to the deadliest, most waterless desert a traveler could ever cross" — al-Qurtubi's formulation is more precise: *"قيل للفلاة إذا قل ماؤها: مفازة، تفاؤلاً بالخلاص منها"* — the desert was called this **when its water was scarce**, and the naming was euphemistic (*tafāʾul* — hoping for deliverance). The reflection omits the tafāʾul dimension that explains *why* the desert received this name; it presents mafāza as straightforwardly meaning the wasteland, when it was actually applied to the desert as a hopeful name. The rhetorical point still holds, but the mechanism is compressed in a way that slightly misrepresents the semantic history.
+
+- [NOTE — outside reference scope] The translation "companions of equal age" is given for **وَكَوَاعِبَ أَتْرَابًا**. Word-by-word reference was only provided for 78:31; the provided reference data cannot confirm this translation. Al-Muyassar's Arabic for these ayahs uses *"نواهد مستويات في سن واحدة"* — which includes a physical descriptor (*nawāhid*, full-breasted) that the translation omits. Not flagging as CRITICAL since it falls outside the supplied reference scope, but it warrants a separate verification pass against the full word data for 78:33.
+
+Core claims verified against provided sources:
+- Root **و-ق-ي** and Form VIII (*ittaqā* → *muttaqīn*): accurate
+- Lām of ownership/entitlement: valid Arabic grammar, not overstated
+- مَفَازًا from **ف-و-ز**: confirmed by all four tafsir sources
+- Desert-etymology connection: confirmed by al-Qurtubi
+- Contrast with "those who expected no reckoning": valid structural reading of the surah
+
+SUMMARY: Linguistically and texturally sound; the one MODERATE issue is a presentational compression of al-Qurtubi's tafāʾul explanation that understates the euphemistic mechanism behind the desert naming, and the kawāʿib translation should be cross-checked against complete word-by-word data for 78:33.

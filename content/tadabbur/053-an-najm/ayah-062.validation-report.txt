@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/053-an-najm/ayah-062.md
+Ayah: 53:62
+Date: 2026-06-09T18:26:31
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَٱسْجُدُواْ=So prostrate | لِلَّهِ=to Allah | وَٱعْبُدُواْ ۩=and worship (Him).
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: CRITICAL
+
+ISSUES:
+- [CRITICAL] "53:62 is the first prostration verse in the order of the mushaf" — This is factually wrong. Surah 7 (Al-Aʿraf) verse 206 is the first sajdat al-tilawa in mushaf order, followed by 13:15, 16:50, 17:109, 19:58, 22:18, 25:60, 27:26, 32:15, 38:24, and 41:38 — all before 53:62. The reflection itself lists 7:206 in `related_ayahs`, making the internal contradiction visible. This error would mislead any reader.
+
+- [PASS] Bukhari narration from Ibn Abbas — "the Muslims and the polytheists and the jinn and humankind all prostrated" — confirmed verbatim by al-Baghawi (citing al-Bukhari via the full isnad) and corroborated by al-Qurtubi.
+
+- [PASS] Translation "So prostrate to Allah, and worship (Him)" — matches word-by-word reference exactly.
+
+- [PASS] Both verbs described as "Form I imperatives" — confirmed by the frontmatter morphology note and linguistically sound.
+
+- [PASS] The فَ analysis (fa of consequence/conclusion) — the word-by-word gloss renders it "So prostrate," consistent with the fa-l-fasīḥa reading. The pedagogical framing is accurate and not overstated.
+
+- [PASS] sāmidūn described as "standing tall in arrogant heedlessness, even to singing over the recitation" — the provided sources give "heedless and turning away" (al-Muyassar). The "singing" interpretation (from Ibn Abbas, Yemeni dialect usage) is a well-attested tafsir tradition found in al-Tabari and others, though it is not present in the four provided sources. The reflection presents it as what "early commentators connected" it to — a hedged framing, not an overclaim. Not flaggable with the reference set provided.
+
+SUMMARY: One critical factual error in the passage_context header — 53:62 is not the first prostration verse in mushaf order; 7:206 holds that position — but the core Arabic analysis, hadith citation, and grammatical claims are all accurate.

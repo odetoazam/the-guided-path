@@ -1,0 +1,24 @@
+Enhanced Validation Report
+File: content/tadabbur/042-ash-shura/ayah-045.md
+Ayah: 42:45
+Date: 2026-06-06T16:38:56
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَتَرَٮٰهُمْ=And you will see them | يُعْرَضُونَ=being exposed | عَلَيْهَا=to it, | خَـٰشِعِينَ=humbled | مِنَ=by | ٱلذُّلِّ=disgrace, | يَنظُرُونَ=looking | مِن=with | طَرْفٍ=a glance | خَفِىٍّ‌ۗ=stealthy. | وَقَالَ=And will say | ٱلَّذِينَ=those who | ءَامَنُوٓاْ=believed, | إِنَّ=`Indeed, | ٱلْخَـٰسِرِينَ=the losers | ٱلَّذِينَ=(are) those who | خَسِرُوٓاْ=lost | أَنفُسَهُمْ=themselves | وَأَهْلِيهِمْ=and their families | يَوْمَ=(on the) Day | ٱلْقِيَـٰمَةِ‌ۗ=(of) the Resurrection. | أَلَآ=Unquestionably! | إِنَّ=Indeed, | ٱلظَّـٰلِمِينَ=the wrongdoers | فِى=(are) in | عَذَابٍ=a punishment | مُّقِيمٍ=lasting.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: ERROR
+ISSUES:
+- Could not run Claude check: Command failed: claude -p --system-prompt "You are a rigorous Islamic scholarship validator for Ayah
+SUMMARY: Claude semantic check failed

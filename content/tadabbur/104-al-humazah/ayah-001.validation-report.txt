@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/104-al-humazah/ayah-001.md
+Ayah: 104:1
+Date: 2026-06-20T07:40:05
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَيْلٌ=Woe | لِّكُلِّ=to every | هُمَزَةٍ=slanderer | لُّمَزَةٍ=backbiter!
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] Translation renders هُمَزَةٍ as "backbiter" and لُّمَزَةٍ as "faultfinder," while the supplied word-by-word reference assigns هُمَزَةٍ = slanderer and لُّمَزَةٍ = backbiter — a reversed pairing. Not an error: the classical sources are genuinely split. Ibn Abbas (in Qurtubi and Baghawi) holds both terms mean the same thing; Maqatil assigns hamz = defaming behind the back and lamz = defaming to the face; Abu al-ʿAliya and al-Hasan invert Maqatil. The reflection's rendering follows the Maqatil line ("backbiter" for the behind-the-back sense of hamz; "faultfinder" for the face-directed sense of lamz), which is a documented scholarly position. Flag for disclosure in the reflection — not a correction.
+
+- [MINOR OBSERVATION] "The Quran does this deliberately" regarding sound symbolism of hamz/lamz is stated as established fact rather than as a recognized literary reading. Classical balāghah scholarship does treat this as intentional (sound-meaning iconicity is a feature of Quranic rhetoric), but framing it as certain is interpretive. Acceptable in a tadabbur context; would need softening ("classical rhetoricians observed…") in a more strictly academic register.
+
+- All named figures — al-Walīd ibn al-Mughīra and Umayya ibn Khalaf — are confirmed by the Jalalayn (أُمية بن خلف والوليد بن المغيرة وغيرهما). Attribution is accurate.
+
+- The fuʿalah (فُعَلَة) analysis and the mubālagha / habitual-character claim are morphologically correct and well-attested across classical commentaries.
+
+- وَيْلٌ rendered as "woe, ruin, a sentence of punishment" matches both the Jalalayn (كلمة عذاب) and the Muyassar (شر وهلاك). Accurate.
+
+SUMMARY: No critical or moderate errors — the morphological analysis, named-individual attribution, and waylun rendering are all verified against the provided sources; the translation ordering follows a legitimate classical school, and only the sound-symbolism certainty claim warrants mild softening.

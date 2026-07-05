@@ -1,0 +1,10 @@
+VERDICT: CRITICAL
+
+ISSUES:
+- **CRITICAL — Wrong sūrah attribution for a quoted verse.** The text states: *"Hūd warns them in Sūrat al-Aʿrāf: 'Do you build on every height a monument out of vanity?'"* This verse is **al-Shuʿarāʾ 26:128** (*أَتَبْنُونَ بِكُلِّ رِيعٍ آيَةً تَعْبَثُونَ*), not al-Aʿrāf. In al-Aʿrāf, Hūd's address to ʿĀd (7:65–72) contains no such line; the carving/building imagery in al-Aʿrāf (7:74) refers to Thamud, not ʿĀd. A quoted ayah placed in the wrong sūrah is a factual error that will be caught by informed readers (and by the Khalil/Yusuf citation-checking personas).
+
+- **MODERATE — "Twelve Arabic words" stated twice as a precise factual anchor, but the passage has ~7 words** (*wa-annahu · ahlaka · ʿĀdan · l-ūlā · wa-Thamūda · fa-mā · abqā*) — at most ~10 even when counting proclitic particles separately. The number is used as a load-bearing rhetorical claim ("In twelve Arabic words, they erase two civilizations… In twelve words.") and is simply not accurate. Recommend recounting or softening to a defensible figure.
+
+- **MODERATE — Attribution to "Ibn Ziyad (as recorded by al-Qurṭubī)" is unverifiable against the supplied sources** and the name is ambiguous. The surrounding two-ʿĀd material (Ibn Isḥāq's two ʿĀds; al-Baghawī's *ʿĀd al-ākhira*) is genuinely classical and consistent with al-Jalalayn/al-Muyassar in the tafsir report, so the *substance* is sound — but the specific "Ibn Ziyad" citation should be confirmed against al-Qurṭubī directly before publishing, or generalized.
+
+Note (not blocking): The core morphology is correct — *hlk* Form I *halaka* (intransitive) → Form IV *ahlaka* (transitive/causative), and *abqā* (Form IV, b-q-y); the *al-ūlā* echo with 53:25 is real. Linguistic spine is publishable; fix the citation errors above.

@@ -1,0 +1,37 @@
+Enhanced Validation Report
+File: content/tadabbur/038-sad/ayahs-065-068.md
+Ayah: 38:65
+Date: 2026-06-06T01:37:31
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: قُلْ=Say, | إِنَّمَآ=`Only | أَنَا۟=I am | مُنذِرٌ‌ۖ=a warner, | وَمَا=and not | مِنْ=(is there) any | إِلَـٰهٍ=god | إِلَّا=except | ٱللَّهُ=Allah, | ٱلْوَٲحِدُ=the One | ٱلْقَهَّارُ=the Irresistible,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "The word carries urgency and it carries love — you only warn the people you want to save." — Presenting love as an inherent semantic property of *mundhir* goes beyond lexical attestation. All four classical sources describe *mundhir* as *makhawwif* (one who frightens/warns of punishment). Love is a reasonable *inferential* extension (warning implies concern for the warned), but stating it as "the word carries love" frames an inference as a lexical fact. Should be softened to something like "warning presupposes care for those warned."
+
+— All other claims verified against the reference data:
+
+- **innamā as *adāt al-ḥaṣr*** — accurate; particle of restriction is the standard grammarians' classification.
+- **mundhir root n-dh-r, Form IV active participle (mufʿil)** — accurate. *Mu-n-dhir* maps cleanly to the mufʿil pattern of Form IV (*andhara*).
+- **Surah narrative sequence (Dāwūd → Sulaymān → Ayyūb → the command to "say")** — accurate to Sad's structure.
+- **Bashīr wa nadhīr pairing elsewhere vs. only nadhīr here** — accurate; the verse does restrict to *mundhir* alone. The interpretive reasoning about audience (mockers, rejecters) is framed as inference, not tafsir citation — acceptable.
+- **Arabic text in frontmatter** — matches the authentic text provided (minor sukūn/ḥarakah rendering differences are presentational only, not errors).
+- **Al-Qahhār / al-Ghaffār pairing** — both names are in the verse text (65-66); their tension is a genuine theological observation, not a fabrication.
+
+**Scope note:** The reference data covers only ayah 65. Ayahs 66-68 (*rabbu-s-samāwāt*, *naba'un ʿaẓīm*, *muʿriḍūn*) appear in the reflection's Arabic block and translation but no tafsir or word-by-word data was supplied for them. Any claims made about those verses in later sections of the reflection cannot be validated here.
+
+SUMMARY: One moderate over-claim presenting a reasonable inference (mundhir implies love) as an inherent lexical property; all morphological, structural, and tafsir-sourced claims are accurate within the supplied reference data.

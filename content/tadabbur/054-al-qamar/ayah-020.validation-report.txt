@@ -1,0 +1,37 @@
+Enhanced Validation Report
+File: content/tadabbur/054-al-qamar/ayah-020.md
+Ayah: 54:20
+Date: 2026-06-10T01:16:55
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: تَنزِعُ=Plucking out | ٱلنَّاسَ=men | كَأَنَّهُمْ=as if they (were) | أَعْجَازُ=trunks | نَخْلٍ=(of) date-palms | مُّنقَعِرٍ=uprooted.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+
+- [MODERATE] "Al-Qurtubi additionally records a narration, transmitted through Muhammad ibn Kaʿb, that the wind tore people even from their graves" — The provided al-Qurtubi text confirms he cites Muhammad ibn Kaʿb with a hadith (truncated at "انتزعت الر..."), but the truncation prevents confirming the *graves* content. The explicit graves narration appears in al-Baghawi ("وروي أنها كانت تنزع الناس من قبورهم"), not in confirmed al-Qurtubi text. The reflection fuses two distinct source attestations: al-Qurtubi's ibn Kaʿb isnad (confirmed) with the graves content (from al-Baghawi). This is an overstatement of what the al-Qurtubi reference supports.
+
+No other issues found. Specifically passing:
+
+- **Verb tense analysis** (أَرْسَلْنَا past vs. تَنزِعُ imperfect): linguistically accurate.
+- **Root ن-ز-ع** semantics (wrench, strip against resistance) and cross-references to 7:27 and 79:1: both correct.
+- **Form I imperfect / Form VII participle** morphology claims: accurate.
+- **Pit-digging view** (ʿĀd hid in ground, wind extracted them): confirmed in al-Jalalayn — "تقلعهم من حفر الأرض المندسين فيها."
+- **Mujahid's view** (lifted, thrown on heads, necks crushed): confirmed in al-Qurtubi, al-Baghawi, and al-Muyassar.
+- **From houses view**: confirmed in al-Qurtubi ("وقيل: تنزع الناس من البيوت").
+- **41:15 attribution** for ʿĀd's "Who is stronger" boast: correct surah.
+
+SUMMARY: One moderate attribution issue — the graves narration's explicit textual support is in al-Baghawi, not the provided al-Qurtubi fragment; the reflection overstates the al-Qurtubi sourcing for that specific detail.

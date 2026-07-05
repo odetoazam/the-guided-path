@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/034-saba/ayah-020.md
+Ayah: 34:20
+Date: 2026-05-15T14:47:18
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَلَقَدْ=And certainly, | صَدَّقَ=found true | عَلَيْهِمْ=about them | إِبْلِيسُ=Iblis | ظَنَّهُۥ=his assumption, | فَٱتَّبَعُوهُ=so they followed him | إِلَّا=except | فَرِيقًا=a group | مِّنَ=of | ٱلْمُؤْمِنِينَ=the believers.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "the classical commentaries describe it as a place where a woman could walk between two cities with a basket on her head, and by the time she arrived at the second city, the basket was full of fruit" — This specific prosperity narrative about Saba cannot be verified from the four tafsir excerpts provided (Jalalayn, Muyassar, Qurtubi, Baghawi). It circulates in Ibn Kathir and related sources, often flagged as isrā'īliyyāt via Ka'b al-Aḥbār. The hedging phrase "the classical commentaries describe it as" partially mitigates the issue, but the story is specific enough that a reader may treat it as established tafsir consensus when it is not. No source is named.
+
+All other claims check out:
+
+- **ẓann = conjecture/assumption, not knowledge** — confirmed by Muyassar explicitly: *"ظنًا غير يقين"* (a suspicion that was not certainty). Accurate.
+- **Iblis "found his assumption true against them"** — Jalalayn: *"وجده صادقا"*; Baghawi: *"فصدق ظنه وحققه"*. The Form I/II qirāʾāt distinction is correctly noted from Qurtubi. Accurate.
+- **The boast "By Your might, I will mislead them all"** — Baghawi quotes 38:82 (*"فبعزتك لأغوينهم أجمعين"*) in direct connection with this ayah. Accurate.
+- **Iblis has no sulṭān** — legitimate cross-reference to 17:65 (listed in related_ayahs); not claimed as content of this ayah.
+- **aḥādīth, the flood of al-ʿArim, two gardens, kulū min rizqi rabbikum** — all direct quotations from 34:15-19. Accurate.
+- **Ṣ-d-q root analysis** (cut off at 8000 chars) — what is visible is correct: root identification, related derivations (ṣidq, ṣiddīq, ṣadaqah), Form II reading consistent with Baghawi and Jalalayn.
+
+SUMMARY: The linguistic and theological core is accurate and well-grounded in all provided sources; the one flagged item is a narrative flourish about Saba's prosperity that is attributed to "classical commentaries" without naming a source, which a careful editor should either pin to Ibn Kathir specifically or soften further.

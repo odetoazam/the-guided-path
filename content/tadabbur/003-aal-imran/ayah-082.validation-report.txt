@@ -1,0 +1,44 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayah-082.md
+Ayah: 3:82
+Date: 2026-06-22T07:38:26
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَمَن=Then whoever | تَوَلَّىٰ=turns away | بَعْدَ=after | ذَٲلِكَ=that, | فَأُوْلَـٰٓئِكَ=then those | هُمُ=they | ٱلْفَـٰسِقُونَ=(are) the defiantly disobedient.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No genuine errors found in the verifiable claims.
+
+Specific checks:
+
+**Root & form analysis** — The assignment of *tawallā* to root **و-ل-ي (w-l-y)** is correct. The Form V (tafaʿʿala) reflexive reading ("he turned *himself* away, not caused-by-another") is the standard documented function of this binyan and is linguistically uncontroversial.
+
+**Jalālayn gloss** — "Al-Jalālayn glosses *tawallā* simply as *aʿraḍa*" — confirmed exact: the source reads «فمن تولَّى» أعرض, making *aʿraḍa* the explicit substitution gloss. Attribution is precise.
+
+**Al-Muyassar paraphrase** — "he turned away from the call of Islam after this clarification and this covenant" matches the source verbatim: *أعرض عن دعوة الإسلام بعد هذا البيان وهذا العهد*. Accurate.
+
+**Fisq etymology (date splitting from skin)** — classically attested in Lisān al-ʿArab under ف-س-ق; not contradicted by any reference data here, and consistent with the sources' definition of *fāsiqūn* as *al-khārij* (the one who exits/breaks out). The Qurtubi source even glosses it with "والفاسق الخارج" — the fāsiq is the one who exits — which the date-skin image directly illustrates.
+
+**Fisq definition** — "defiantly disobedient" is the standard English rendering. The classical sources give *al-ʿāṣūna al-khārijn ʿan al-īmān* (al-Baghawi) and *al-khārijn ʿan dīn Allāh* (al-Muyassar). The translation is an acceptable compression, not a distortion.
+
+**Arabic text** — frontmatter Arabic matches the authenticated reference text character-for-character.
+
+**Word count** — frontmatter `word_count: 7` is correct (فَمَن / تَوَلَّىٰ / بَعْدَ / ذَٰلِكَ / فَأُو۟لَـٰٓئِكَ / هُمُ / ٱلْفَـٰسِقُونَ).
+
+The ḍamīr al-faṣl (هُمُ) section is cut off in the submitted text before the claim is completed — no verdict can be issued on the unwritten portion, but the setup is grammatically sound.
+
+SUMMARY: Every verifiable linguistic claim, tafsir citation, and root analysis in this reflection checks out against the reference data; the reflection earns a clean pass.

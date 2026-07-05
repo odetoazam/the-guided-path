@@ -1,0 +1,24 @@
+Enhanced Validation Report
+File: content/tadabbur/039-az-zumar/ayah-048.md
+Ayah: 39:48
+Date: 2026-06-06T06:45:58
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَبَدَا=And will become apparent | لَهُمْ=to them | سَيِّـَٔـاتُ=(the) evils | مَا=(of) what | كَسَبُواْ=they earned, | وَحَاقَ=and will surround | بِهِم=them | مَّا=what | كَانُواْ=they used (to) | بِهِۦ=[in it] | يَسْتَهْزِءُونَ=mock.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: ERROR
+ISSUES:
+- Could not run Claude check: Command failed: claude -p --system-prompt "You are a rigorous Islamic scholarship validator for Ayah
+SUMMARY: Claude semantic check failed

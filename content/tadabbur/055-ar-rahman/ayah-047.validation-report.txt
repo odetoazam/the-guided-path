@@ -1,0 +1,37 @@
+Enhanced Validation Report
+File: content/tadabbur/055-ar-rahman/ayah-047.md
+Ayah: 55:47
+Date: 2026-06-12T08:53:47
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَبِأَىِّ=So which | ءَالَآءِ=(of the) favors | رَبِّكُمَا=(of) your Lord | تُكَذِّبَانِ=will you both deny?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE — unverifiable from provided data] "The classical grammarians offer four or five candidate singulars for it — *ilā*, *alan*, *ilan*, *ulā* — and they don't settle." — The linguistic phenomenon (disputed singular of آلاء) is real and well-attested, but the specific list of candidates cannot be confirmed from the reference data supplied. No tafsir source here addresses it. This is a standard point in Arabic morphology literature, so it is not wrong — but the validator cannot independently confirm this exact enumeration from the provided sources. Flag as unverifiable, not as erroneous.
+- [NOTE — interpretive synthesis] "Here He chose a *word for favors that is itself almost uncountable*" — connecting the morphological property of آلاء to 16:18 is the reflection's own literary observation. It is not presented as a documented classical position, and it is framed honestly as "Here's what's remarkable." Acceptable as reflection rather than false attribution.
+
+Verified clean:
+- Arabic text matches exactly. ✓
+- Verb form analysis (Form II imperfect, 2nd-person dual, intensive meaning "to pronounce false") is correct. ✓
+- Muyassar gloss of ālāʾ as *niʿam rabbikum* matches provided source verbatim. ✓
+- Al-Qurtubī dual-address narration (إنس و جن, Hadith of Jabir) correctly attributed and matches provided Qurtubi text. ✓
+- Ayah 55:46 content ("two gardens for the one who fears the standing before his Lord") accurately summarized. ✓
+- 16:18 cross-reference translation is accurate. ✓
+- Refrain count of 31 is standard and correct. ✓
+- Contextual placement (55:47 as pivot after warning, before garden description) is accurate to surah structure. ✓
+
+SUMMARY: The reflection is linguistically precise and tafsir-grounded throughout; the one unverifiable claim (specific list of singular candidates for آلاء) is framed as a scholarly dispute rather than a settled fact, which is the correct epistemic posture.

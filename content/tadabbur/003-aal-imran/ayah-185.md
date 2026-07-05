@@ -6,7 +6,7 @@ ayah_end: 185
 title: "The Success That Counts Only at the End"
 slug: "003-185"
 category: tadabbur
-arabic: "كُلُّ نَفْسٍ ذَآئِقَةُ ٱلْمَوْتِ ۗ وَإِنَّمَا تُوَفَّوْنَ أُجُورَكُمْ يَوْمَ ٱلْقِيَـٰمَةِ ۖ فَمَن زُحْزِحَ عَنِ ٱلنَّارِ وَأُدْخِلَ ٱلْجَنَّةَ فَقَدْ فَازَ ۗ وَمَا ٱلْحَيَوٰةُ ٱلدُّنْيَآ إِلَّا مَتَـٰعُ ٱلْغُرُورِ"
+arabic: "كُلُّ نَفْسٍ ذَآئِقَةُ ٱلْمَوْتِ ۗ وَإِنَّمَا تُوَفَّوْنَ أُجُورَكُمْ يَوْمَ ٱلْقِيَـٰمَةِ ۖ فَمَن زُحْزِحَ عَنِ ٱلنَّارِ وَأُدْخِلَ ٱلْجَنَّةَ فَقَدْ فَازَ ۗ وَمَا ٱلْحَيَوٰةُ ٱلدُّنْيَآ إِلَّا مَتَـٰعُ ٱلْغُرُورِ"
 translation: "Every soul will taste death, and you will only be given your full rewards on the Day of Resurrection. So whoever is moved away from the Fire and admitted into Paradise has truly succeeded. And the life of this world is nothing but the enjoyment of delusion."
 word_count: null
 estimated_duration: "45-55 minutes"
@@ -14,6 +14,7 @@ passage_context: "After recounting denial, prophetic rejection, and the moral co
 generated_by: "codex-tadabbur"
 validated: true
 validation_date: "2026-04-18"
+semantic_review: "enriched-2026-07-03"
 tags: [akhirah, qiyamah, dunya, jannah, jahannam]
 concepts: [akhirah, resurrection, jannah, jahannam, time-and-urgency]
 ---
@@ -35,7 +36,7 @@ concepts: [akhirah, resurrection, jannah, jahannam, time-and-urgency]
 
 ## Surah Aal-Imran (3:185)
 
-[ayah:3:185] كُلُّ نَفْسٍ ذَآئِقَةُ ٱلْمَوْتِ ۗ وَإِنَّمَا تُوَفَّوْنَ أُجُورَكُمْ يَوْمَ ٱلْقِيَـٰمَةِ ۖ فَمَن زُحْزِحَ عَنِ ٱلنَّارِ وَأُدْخِلَ ٱلْجَنَّةَ فَقَدْ فَازَ ۗ وَمَا ٱلْحَيَوٰةُ ٱلدُّنْيَآ إِلَّا مَتَـٰعُ ٱلْغُرُورِ
+[ayah:3:185] كُلُّ نَفْسٍ ذَآئِقَةُ ٱلْمَوْتِ ۗ وَإِنَّمَا تُوَفَّوْنَ أُجُورَكُمْ يَوْمَ ٱلْقِيَـٰمَةِ ۖ فَمَن زُحْزِحَ عَنِ ٱلنَّارِ وَأُدْخِلَ ٱلْجَنَّةَ فَقَدْ فَازَ ۗ وَمَا ٱلْحَيَوٰةُ ٱلدُّنْيَآ إِلَّا مَتَـٰعُ ٱلْغُرُورِ
 
 *Kullu nafsin dha'iqatu al-mawt. Wa innama tuwaffawna ujurakum yawma al-qiyamah. Fa-man zuhziha 'ani al-nari wa udkhila al-jannata faqad faz. Wa ma al-hayatu al-dunya illa mata'u al-ghurur.*
 
@@ -69,6 +70,8 @@ The verse opens with one of the Quran's most universal sentences: **kullu nafsin
 
 Every soul. No exception hidden in status, power, learning, beauty, lineage, youth, or wealth. The scope is absolute.
 
+The classical commentators widen that scope even further than we tend to imagine. Ibn Kathir reads this as a general and all-encompassing decree that reaches beyond humanity — to the jinn, and even to the angels, including those who bear the Throne of the Most Merciful. Every created soul tastes death; Allah alone is *al-Hayy*, the Ever-Living who never dies. Another ayah frames the same truth from the other side: *everything upon the earth will perish, and there remains only the Face of your Lord, full of majesty and honor* (55:26–27). Mortality, then, is not a human peculiarity. It is the signature of createdness itself.
+
 But then notice the wording. The ayah does not simply say every soul will "meet" death. It says every soul is **dha'iqah** of death, from the root **dh-w-q**, tasting. A taste is intimate. It crosses from outside to inside. It is experienced personally, not abstractly.
 
 [PAUSE]
@@ -77,11 +80,15 @@ That changes the emotional feel of the verse. Death is not merely an event on th
 
 And this is part of the mercy of the wording. It strips away comparison. The verse does not say, "some souls die while others keep building." It says all of them are already moving toward the same appointment. The race we are impressed by in the dunya is happening under a sky where everyone is mortal.
 
+And death is not a full stop. Al-Muyassar reads this opening precisely as the reason all creation returns to its Lord: the tasting of death is the doorway through which every soul is brought back to be held to account. Which is exactly why the next clause turns, without pause, to wages.
+
 ### 2. **Innama tuwaffawna ujurakum**: Full Payment Is Delayed on Purpose
 
 Then the ayah says: **wa innama tuwaffawna ujurakum yawma al-qiyamah**.
 
 The verb **tuwaffawna** comes from the root **w-f-y**, to give in full, to complete without shortfall, to deliver something whole. And **ujurakum**, your wages or rewards, from **a-j-r**, names the recompense due for what was done.
+
+Al-Muyassar draws out both halves of the word at once: your wages are measured *against your deeds* and handed over *in full, undiminished* (wafiyah ghayr manqusa) — nothing rounded down, nothing quietly withheld. The completeness the root promises is not vague generosity. It is exact justice, paid without the slightest shortfall.
 
 The key word here is **innama** - only, exclusively. You will only receive your full compensation on the Day of Resurrection.
 
@@ -109,6 +116,8 @@ And only then: **faqad faz** - then he has truly succeeded.
 
 This is extraordinary. The ayah defines victory not first by what you gained, but by what you were spared. Not first by crown, status, recognition, or worldly enlargement, but by being moved away from the Fire and brought into Jannah.
 
+Al-Muyassar captures the weight of *faza* in a single phrase: the one whom his Lord honors, rescues from the Fire, and admits into the Garden *has attained the very utmost of what could ever be sought* (nala ghayata ma yutlab). It is not one success among many. It is the ceiling of all wanting — the point beyond which there is nothing left to desire.
+
 The order matters. Human beings often define success by nearness to what flatters them. The Quran defines it by distance from what destroys them and entry into what Allah prepared for them.
 
 This is why many of our worldly success metrics are so spiritually unstable. They can call a person "winning" while his soul is moving toward ruin. The ayah tears those metrics down and replaces them with one that only the Hereafter can reveal in full.
@@ -126,6 +135,8 @@ The ayah does not deny that the dunya has enjoyment. It denies that this enjoyme
 The dunya becomes **mata'u al-ghurur** when we let temporary utility pose as final worth, temporary praise pose as salvation, temporary possession pose as security.
 
 It is not the existence of worldly beauty that deceives us. It is our willingness to crown it with a permanence it never had.
+
+And this is why al-Muyassar does not leave the phrase as mere description. It reads the ayah's closing word as a warning turned directly toward us: the worldly life is only a fleeting enjoyment — *so do not be deceived by it* (fa-la taghtarru biha). The grammar diagnoses; the meaning commands. To see the dunya rightly is already to be told what to do about it.
 
 [PAUSE]
 
@@ -164,7 +175,7 @@ But the ayah gives us a definition that survives death.
 
 Moved away from the Fire.
 Admitted into Jannah.
-Then, and only then, true success.
+Then, and only then, true success — the utmost of everything a soul could seek.
 
 This does not make worldly responsibilities irrelevant. We still work, build, earn, grieve, marry, teach, serve, and struggle here. But it rescues all of that from becoming our god. Dunya can be field; it cannot be final verdict.
 

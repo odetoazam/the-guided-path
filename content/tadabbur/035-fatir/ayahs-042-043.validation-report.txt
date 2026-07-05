@@ -1,0 +1,40 @@
+Enhanced Validation Report
+File: content/tadabbur/035-fatir/ayahs-042-043.md
+Ayah: 35:42
+Date: 2026-06-05T00:29:19
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَأَقْسَمُواْ=And they swore | بِٱللَّهِ=by Allah | جَهْدَ=(the) strongest | أَيْمَـٰنِهِمْ=(of) their oaths | لَئِن=that if | جَآءَهُمْ=came to them | نَذِيرٌ=a warner, | لَّيَكُونُنَّ=surely, they would be | أَهْدَىٰ=more guided | مِنْ=than | إِحْدَى=any | ٱلْأُمَمِۖ=(of) the nations. | فَلَمَّا=But when | جَآءَهُمْ=came to them | نَذِيرٌ=a warner, | مَّا=not | زَادَهُمْ=it increased them | إِلَّا=but | نُفُورًا=(in) aversion,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- None identified in the first 8,000 characters of the reflection.
+
+Specific checks performed against the reference data:
+
+1. **Quraysh historical context** — "They were watching... the People of the Book... sent messengers — and they rejected them." Confirmed by al-Baghawi: *"لما بلغهم أن أهل الكتاب كذبوا رسلهم"* and al-Qurtubi: *"قبل أن يبعث الله رسوله محمدا"* — the oath was sworn before the Prophet's mission, in response to seeing the People of the Book reject their prophets. Accurate.
+
+2. **Root *q-s-m* for *aqsamū*** — Correct. Standard Arabic morphology, uncontested.
+
+3. **Root *y-m-n* for *aymān* / right-hand etymology** — "The oath is named after the gesture of the hand that gives it." This is classically attested in Lisān al-ʿArab and Rāghib al-Iṣfahānī's *Mufradāt*, which the frontmatter cites as reference lexicons. The reference data neither confirms nor contradicts this, but the claim is within established Arabic philological tradition. Not flaggable as an error.
+
+4. ***Jahda aymānihim* = "full exertion of their oaths"** — The reflection renders this as "they swore with the full exertion of their oaths... the ceiling of what a person can give." Al-Jalālayn gives *"غاية اجتهادهم فيها"* (the utmost of their striving in it) and al-Muyassar gives *"أشد الأيمان"* (the most intense of oaths). Both directly support this rendering.
+
+5. **Root *j-h-d* connecting *jahd* to *jihād* and *mujāhada*** — Correct. All three derive from the same triconsonantal root. The semantic field of "utmost exertion/striving" is accurate for this root.
+
+6. ***Nufūr* = "aversion"** — Matches word-by-word reference and al-Jalālayn's *"تباعد"* (distancing/fleeing).
+
+SUMMARY: All linguistic, etymological, and historical claims in the visible segment are accurate and consistent with the provided tafsir sources and word-by-word reference; no errors detected.

@@ -1,0 +1,37 @@
+Enhanced Validation Report
+File: content/tadabbur/051-adh-dhariyat/ayah-035.md
+Ayah: 51:35
+Date: 2026-06-09T13:52:34
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَأَخْرَجْنَا=Then We brought out | مَن=(those) who | كَانَ=were | فِيهَا=therein | مِنَ=of | ٱلْمُؤْمِنِينَ=the believers.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+
+- [MODERATE] "Form IV of خرج identified as transitive function (not causative) per Leeds corpus" — The classical Arabic grammatical tradition (naḥw) consistently terms Form IV of an intransitive root the *causative* (muta'addī bi-ḥamzat al-ta'diyah). Labeling it "transitive (not causative)" is a contested modern terminological reframing that the reflection presents as if it were an established corpus finding. The theological conclusion — that Allah is the direct agent and the believers are the direct object — is fully supported by all four tafsir sources regardless of this terminological choice. The framing overstates a disputed terminological distinction as settled linguistic fact.
+
+- [MODERATE] "Not even *khurrijū* — 'they were made to go out' in the passive" — In a passage explicitly teaching Arabic morphology, citing the wrong passive form is a concrete error. خُرِّجوا is the passive of Form II (kharraja, تفعيل). The passive of Form IV أَخْرَجَ would be أُخرِجوا (*ukhrijū*). This will mislead any reader following the morphological argument carefully.
+
+- [PASS] Al-Qurtubi attribution — "Al-Qurtubi states the purpose plainly: *li'allā yahlaka al-mu'minūn*" — confirmed verbatim in the supplied ar.qurtubi source (لئلا يهلك المؤمنون). Accurate.
+
+- [PASS] All four tafsir sources cited as reading the extraction as a direct divine act — confirmed by al-Jalalayn, al-Muyassar, al-Qurtubi, and al-Baghawi in the supplied data.
+
+- [PASS] فَ as connective particle of immediate consequence — standard Arabic grammar, uncontested.
+
+- [PASS] مُؤْمِنِينَ as active participle from Form IV root أمن — morphologically correct.
+
+SUMMARY: Two moderate issues — an overstated terminological claim about Form IV (transitive vs. causative) presented as an established corpus finding, and a wrong passive form cited in the morphology walkthrough; all tafsir attributions and the theological core are sound.

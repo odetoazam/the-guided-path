@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/035-fatir/ayah-044.md
+Ayah: 35:44
+Date: 2026-06-05T01:03:52
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَوَلَمْ=Have they not | يَسِيرُواْ=traveled | فِى=in | ٱلْأَرْضِ=the land | فَيَنظُرُواْ=and seen | كَيْفَ=how | كَانَ=was | عَـٰقِبَةُ=(the) end | ٱلَّذِينَ=(of) those who | مِن قَبْلِهِمْ=(were) before them? | وَكَانُوٓاْ=And they were | أَشَدَّ=stronger | مِنْهُمْ=than them | قُوَّۚةً=(in) power. | وَمَا=But not | كَانَ=is | ٱللَّهُ=Allah | لِيُعْجِزَهُۥ=that can escape (from) Him | مِن=any | شَىْءٍ=thing | فِى=in | ٱلسَّمَـٰوَٲتِ=the heavens | وَلَا=and not | فِى=in | ٱلْأَرْضِۚ=the earth. | إِنَّهُۥ=Indeed, He | كَانَ=is | عَلِيمًا=All-Knower, | قَدِيرًا=All-Powerful.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Just before this verse, in 35:43, Allah has said something stark: that the deniers had sworn solemn oaths that *if* a warner ever came to them, they would be more guided than any nation before" — this oath belongs to **35:42**, not 35:43. 35:43 is the verse containing the arrogance/plotting passage and the sunnat-Allāh closing declaration ("you will never find any change in the way of Allah"). The reflection's own `passage_context` header correctly attributes the sunnat-Allāh statement to 35:43; the body then collapses the 35:42 oath content into that same verse reference, misstating which verse contains which material.
+
+All other verifiable claims in the provided excerpt pass:
+- Arabic text matches the authentic (diacritical Unicode variation only, no content error)
+- Transliteration is accurate
+- Root *s-y-r* for *yasīrū* — correct; the *sayyārah* cognate is lexically sound
+- Root *n-ẓ-r* for *fa-yanẓurū* as deliberate/considered seeing — correct and well-attested
+- *Fā'* as sequential-consequential (vs. neutral *wa*) — correct Arabic grammar
+- ʿĀd and Thamūd as the nations referenced — grounded in al-Muyassar and al-Qurṭubī explicitly
+- "Frustrate" rendering of *yuʿjizahu* — acceptable; Jalalayn glosses it as *yasbiquhu wa-yafūtahu* (to outrun/escape), which "frustrate" captures
+
+SUMMARY: One misattribution in the body conflates the Meccan oath (35:42) with the sunnat-Allāh verse (35:43); all morphological, grammatical, and tafsir-grounded claims in the excerpt are accurate.

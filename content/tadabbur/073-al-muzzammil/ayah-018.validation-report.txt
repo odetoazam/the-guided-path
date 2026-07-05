@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/073-al-muzzammil/ayah-018.md
+Ayah: 73:18
+Date: 2026-06-17T00:24:42
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ٱلسَّمَآءُ=The heaven | مُنفَطِرُۢ=(will) break apart | بِهِۦ‌ۚ=therefrom, | كَانَ=is | وَعْدُهُۥ=His Promise | مَفْعُولاً=to be fulfilled.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR NOTE] "Others note that *samāʾ* can carry the sense of *that which is elevated above you*, the roof, which takes the masculine" — this explanation for the masculine/feminine mismatch is not found in the four provided tafsir sources (Jalalayn explains it differently via *dhātu infiṭār*). However, it is a legitimate classical Arabic linguistic point and is presented with vague attribution ("others note"), not falsely credited to a specific scholar. Not an error — a minor transparency gap the author could tighten.
+
+Verified clean:
+- **Arabic text** matches authentic exactly ✓
+- **Form VII / *muṭāwaʿah* analysis** (*infaṭara* → *munfaṭir*, "giving way of itself") is lexically sound ✓
+- **Jalalayn attribution** (*dhātu infiṭār*) is confirmed verbatim in source: "ذات انفطار، أي انشقاق" ✓
+- **Qurtubi attribution** (*muthqalatun bihi*) confirmed verbatim: "مثقلة به إثقالا يؤدي إلى انفطارها" ✓
+- **7:187 cross-reference** (*thaqulat fī as-samāwāti wa-l-arḍ*) correctly identified — Qurtubi uses this exact verse in his comment on this ayah ✓
+- **21:32 cross-reference** (*saqfan maḥfūẓā*) is accurate ✓
+- **82:1 cross-reference** (*idhā as-samāʾu infaṭarat*) correct, same root and Form VII ✓
+- **"Trembling grammar" observation** explicitly flagged as reflection with "I don't insist on it" — epistemically honest, not presented as fact ✓
+
+SUMMARY: All verifiable factual claims in this reflection are grounded in the provided tafsir sources; the only gap is a vague "others note" attribution for one Arabic grammar point that does not falsely credit any scholar.

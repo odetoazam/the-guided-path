@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/039-az-zumar/ayah-022.md
+Ayah: 39:22
+Date: 2026-06-06T03:15:34
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَفَمَن=So is (one for) whom | شَرَحَ ٱللَّهُ=Allah has expanded | صَدْرَهُۥ=his breast | لِلْإِسْلَـٰمِ=for Islam | فَهُوَ=so he | عَلَىٰ=(is) upon | نُورٍ=a light | مِّن=from | رَّبِّهِۦ‌ۚ=his Lord. | فَوَيْلٌ=So woe | لِّلْقَـٰسِيَةِ=to (those are) hardened | قُلُوبُهُم=their hearts | مِّن=from | ذِكْرِ ٱللَّهِ‌ۚ=(the) remembrance of Allah. | أُوْلَـٰٓئِكَ=Those | فِى=(are) in | ضَلَـٰلٍ=error | مُّبِينٍ=clear.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "It comes just after Allah describes the one who fears the Hereafter and stands in the night" — the night-standing description is 39:9 ("Is one who is devoutly obedient during periods of the night..."), not the immediately preceding 39:21, which describes the water/rain cycle (Allah sending down rain from the sky, guiding it through the earth, then bringing forth crops). The phrasing "comes just after" implies immediate sequential position, which is factually incorrect. The claim about what follows is accurate (39:23 does describe skins trembling at the Quran's recitation).
+
+VERIFIED AS ACCURATE:
+- Ibn ʿAbbās attribution via al-Qurtubi: "وسع صدره للإسلام حتى ثبت فيه" — the reflection renders this as "He widened his breast for Islam until it settled firmly within." Exact match. ✓
+- al-Suddī attribution via al-Qurtubi: "وسع صدره بالإسلام للفرح به والطمأنينة إليه" — the reflection renders this as "He widened his breast with Islam so that he found joy in it and tranquillity toward it." Exact match. ✓
+- Root ش-ر-ح as Form I, with primary physical sense of opening/spreading, confirmed by al-Qurtubi ("شرح فتح ووسع"), al-Baghawi ("وسعه لقبول الحق"), al-Muyassar ("وسَّع الله صدره"). ✓
+- Elliptical sentence structure (comparison left unstated): confirmed by Jalalayn supplying "كمن طبع على قلبه" as the implied second term. ✓
+- Mūsā's prayer 20:25 cited correctly. ✓
+- The bracketed completion in the translation `[like one whose heart is hardened]` is properly flagged as implied, not stated. ✓
+
+SUMMARY: One factual error in the passage context section misidentifies 39:9 as the immediately preceding ayah; all linguistic claims, scholar attributions, and root analysis are verified accurate against the provided reference data.

@@ -1,0 +1,46 @@
+Enhanced Validation Report
+File: content/tadabbur/048-al-fath/ayah-025.md
+Ayah: 48:25
+Date: 2026-06-08T14:08:48
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: هُمُ=They | ٱلَّذِينَ=(are) those who | كَفَرُواْ=disbelieved | وَصَدُّوكُمْ=and hindered you | عَنِ=from | ٱلْمَسْجِدِ ٱلْحَرَامِ=Al-Masjid Al-Haraam | وَٱلْهَدْىَ=while the offering | مَعْكُوفًا=(was) prevented | أَن=from | يَبْلُغَ=reaching | مَحِلَّهُۥ‌ۚ=its place (of sacrifice). | وَلَوْلَا=And if not | رِجَالٌ=(for) men | مُّؤْمِنُونَ=believing | وَنِسَآءٌ=and women | مُّؤْمِنَـٰتٌ=believing | لَّمْ=not | تَعْلَمُوهُمْ=you knew them | أَن=that | تَطَــُٔوهُمْ=you may trample them | فَتُصِيبَكُم=and would befall you | مِّنْهُم=from them | مَّعَرَّةُۢ=any harm | بِغَيْرِ=without | عِلْمٍ‌ۖ=knowledge. | لِّيُدْخِلَ ٱللَّهُ=That Allah may admit | فِى=to | رَحْمَتِهِۦ=His Mercy | مَن=whom | يَشَآءُ‌ۚ=He wills. | لَوْ=If | تَزَيَّلُواْ=they had been apart | لَعَذَّبْنَا=surely, We would have punished | ٱلَّذِينَ=those who | كَفَرُواْ=disbelieved | مِنْهُمْ=among them | عَذَابًا=(with) a punishment | أَلِيمًا=painful.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate errors found in the content reviewed (first 8,000 characters).
+
+Specific checks performed against the provided reference data:
+
+**Arabic text**: Matches authentic Arabic. Minor Unicode diacritic rendering differences (e.g., tanwīn placement) are not substantive errors.
+
+**Historical figures**: "Fourteen hundred men" — al-Baghawī (via al-Zuhrī → ʿUrwa → al-Miswar and Marwān) gives "بضع عشرة مائة" (roughly 1,300–1,600+); the traditional 1,400 figure is standard across sīra. No error.
+
+**Seventy camels**: Reflection says "drove seventy garlanded camels." Al-Baghawī confirms "ساق معه سبعين بدنة." Accurate.
+
+**Direct Baghawī citation**: "يريدون زيارة البيت، لا يريد قتالا" — al-Baghawī's text confirms this wording. Reflection's transliteration "*yurīdūna ziyārata l-bayt, lā yurīdu qitālā*" is accurate.
+
+**Root ع-ك-ف and the iʿtikāf–maʿkūf connection**: Linguistically sound. Both words share the same triliteral root.
+
+**Al-Jalālayn gloss of مَعْكُوفًا as مَحْبُوسًا**: The provided tafsir reads "معكوفا محبوسا حال" — the reflection quotes this exactly: "al-Jalālayn glosses *maʿkūfan* simply: **maḥbūsan**." Accurate.
+
+**Identification of مَحِلَّهُ as the Ḥaram**: Al-Jalālayn: "أي مكانه الذي ينحر فيه عادة وهو الحرم"; al-Muyassar: "وهو الحرم." Reflection's claim that both sources identify it as the sacred precinct is confirmed.
+
+**ʿUmar's anguished question**: Not verifiable from the reference data provided, but this is a well-attested sīra report (Ṣaḥīḥ al-Bukhārī, Kitāb al-Shurūṭ) and nothing in the reference data contradicts it.
+
+**Frontmatter root list**: All eight roots (ع-ك-ف, ع-ر-ر, ز-ي-ل, أ-م-ن, ع-ل-م, و-ط-أ, ص-د-د, د-خ-ل, ع-ذ-ب) are correctly identified for their respective words.
+
+SUMMARY: The reflection is linguistically precise, tafsir citations are accurately reproduced, historical figures check out against al-Baghawī, and the root analysis is sound; no errors found in the portion submitted.

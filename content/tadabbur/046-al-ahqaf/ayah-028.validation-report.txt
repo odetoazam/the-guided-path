@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/046-al-ahqaf/ayah-028.md
+Ayah: 46:28
+Date: 2026-06-08T07:52:06
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَلَوْلَا=Then why (did) not | نَصَرَهُمُ=help them | ٱلَّذِينَ=those whom | ٱتَّخَذُواْ=they had taken | مِن دُونِ=besides | ٱللَّهِ=Allah | قُرْبَانًا ءَالِهَةَۢ‌ۖ=gods as a way of approach? | بَلْ=Nay, | ضَلُّواْ=they were lost | عَنْهُمْ‌ۚ=from them. | وَذَٲلِكَ=And that | إِفْكُهُمْ=(was) their falsehood | وَمَا=and what | كَانُواْ=they were | يَفْتَرُونَ=inventing.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "a nation the Quran describes as towering, powerful, master-builders, **carvers of mountains**" — "carvers of mountains" (نَحْت الجبال) is the Quran's description of **Thamūd**, not ʿĀd (7:74 — "تَنْحِتُونَ مِنَ ٱلْجِبَالِ بُيُوتًا"; 26:149; 15:82). ʿĀd are described as builders of lofty structures and strongholds (26:128–130) and the towering Iram of the Pillars (89:7–8), but mountain-carving is Thamūd's Quranic marker. This conflates two distinct destroyed nations in the contextual framing. The reference data provided does not address this claim directly, but it is an established Quranic distinction.
+
+Everything else reviewed passes:
+
+- **qurbānan** root (q-r-b) and its meaning as "a means of drawing near" — confirmed by al-Jalālayn, al-Muyassar, al-Qurṭubī, and al-Baghawī.
+- **Word order inversion** (qurbānan placed before ālihatun) and the grammatical analysis (deleted first object pronoun, qurbānan as second object, ālihatun as badal) — confirmed exactly by al-Jalālayn: "مفعول اتخذ الأول ضمير محذوف يعود على الموصول أي هم، وقربانا الثاني وآلهة بدل منه."
+- **Al-Kisāʾī's definition** ("al-qurbān is everything by which one seeks nearness to Allah") attributed to al-Qurṭubī — confirmed: "قال الكسائي: القربان كل..." Al-Baghawī carries the same definition ("كل ما يتقرب به إلى الله") with the plural form qarābīn also confirmed.
+- **39:3 and 10:18 citations** as the polytheists' own reported justification for intercession — accurate.
+- **ḍallū ʿanhum** rendered as the idols vanishing/being lost from their worshippers at the moment of punishment — confirmed by al-Baghawī (Maqātil's reading) and al-Jalālayn ("بل ضلوا غابوا عنهم عند نزول العذاب").
+- **ifk** as "falsehood/fabrication" — confirmed by all four tafsir sources.
+
+SUMMARY: One moderate factual conflation — mountain-carving attributed to ʿĀd when it is Thamūd's Quranic description — but all core linguistic, grammatical, and tafsir claims are accurate and well-grounded in the provided sources.

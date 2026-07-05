@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/036-ya-sin/ayahs-055-058.md
+Ayah: 36:55
+Date: 2026-06-05T05:54:35
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّ=Indeed, | أَصْحَـٰبَ=(the) companions | ٱلْجَنَّةِ=(of) Paradise | ٱلْيَوْمَ=this Day | فِى=[in] | شُغُلٍ=will be occupied | فَـٰكِهُونَ=(in) amusement,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+
+- [MODERATE] "al-Ḥasan said it is being absorbed in the sheer abundance around them" — This attribution is not present in any of the four provided tafsir sources. Al-Qurṭubī names Ibn Masʿūd, Ibn ʿAbbās, Qatāda, and Mujāhid (intimate relations). Al-Baghawī names Ibn ʿAbbās (intimate relations), Wakīʿ ibn al-Jarrāḥ (samāʿ), and al-Kalbī (occupied away from the Fire). Al-Ḥasan al-Baṣrī does not appear. The reflection presents this as a documented scholarly position alongside two verified ones. It may exist in fuller classical sources omitted here, but it cannot be confirmed from the provided reference data and should not be asserted as established fact.
+
+- [PASS — note only] "Elsewhere in the Quran, people are made *busy* — *shaghalat* — by their wealth and families *away from* the remembrance of Allah" — The sh-gh-l root does appear in 48:11 ("shaghalatna amwaluna wa-ahluna") for worldly preoccupation, so the root claim is sound. The "away from remembrance of Allah" framing slightly conflates 48:11 with 63:9 (which uses a different root, l-h-w), but the general semantic point is defensible and not a scholarly error.
+
+All other elements — the tanwīn-as-indefiniteness reading, the fākihūn/fākiha root connection, and the Ibn ʿAbbās and al-Kalbī attributions via al-Qurṭubī and al-Baghawī — are accurate against the provided sources.
+
+SUMMARY: One scholarly attribution (al-Ḥasan) is stated as established fact but is absent from all four provided tafsir sources; the two flanking attributions are correctly sourced.

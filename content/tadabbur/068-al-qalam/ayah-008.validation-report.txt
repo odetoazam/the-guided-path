@@ -1,0 +1,40 @@
+Enhanced Validation Report
+File: content/tadabbur/068-al-qalam/ayah-008.md
+Ayah: 68:8
+Date: 2026-06-13T18:40:22
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَلَا=So (do) not | تُطِعِ=obey | ٱلْمُكَذِّبِينَ=the deniers.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE — cannot verify from provided reference data] The extended root analysis claims: antonym كَرْه, the form مِطْواع meaning "supple, compliant, easily led," and تَطَوُّع as voluntary worship all derived from ط-و-ع. These are standard classical lexicography (Lisān al-ʿArab, Mufradāt al-Rāghib, as the frontmatter cites) and nothing in the reference data contradicts them — but they cannot be positively confirmed from the sources provided. Not flagged as an error; flagged as unverifiable from this data set.
+
+All other claims check out:
+
+- **Tafsir attributions verified.** "Al-Qurtubī and al-Baghawī both record that the Meccan leaders were calling him back to *dīn ābāʾihi*" — al-Qurtubī: «نزلت في مشركي قريش حين دعوه إلى دين آبائه» ✓; al-Baghawī: «فإنهم كانوا يدعونه إلى دين آبائه» ✓
+
+- **The deal framing verified.** "You ease off us, and we'll ease off you" — al-Qurtubī: «وكانوا يدعونه إلى أن يكف عنهم ليكفوا عنه» ✓
+
+- **The ممايلة quote verified.** "نهاه عن ممايلة المشركين — He forbade him from inclining toward the polytheists" — direct quote from al-Qurtubī ✓; translation of ممايلة as "inclining/tilting" (from root م-ي-ل) is etymologically correct ✓
+
+- **17:74 cross-reference verified.** Reflection quotes «وَلَوْلَا أَن ثَبَّتْنَاكَ لَقَدْ كِدتَّ تَرْكَنُ إِلَيْهِمْ شَيْـًٔا قَلِيلًا» — this verse appears verbatim in al-Qurtubī's commentary on this ayah ✓; Arabic orthography (ثَبَّتْنَاكَ, Form II with shaddah) matches the Quranic text ✓
+
+- **Morphology verified.** تُطِعِ: root ط-و-ع, Form IV imperfect jussive (after لا النهي, ي drops) ✓; مُكَذِّبِينَ: root ك-ذ-ب, Form II active participle ✓
+
+- **Arabic text exact match** to authentic Arabic provided ✓
+
+SUMMARY: The reflection is rigorously grounded in the provided tafsir sources — every specific attribution, Arabic quotation, and cross-reference is directly verifiable from the reference data; the only unverifiable claims are standard classical lexicography the frontmatter itself cites.

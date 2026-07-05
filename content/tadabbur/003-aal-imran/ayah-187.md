@@ -6,7 +6,7 @@ ayah_end: 187
 title: "When Truth Is Hidden for a Small Price"
 slug: "003-187"
 category: tadabbur
-arabic: "وَإِذْ أَخَذَ ٱللَّهُ مِيثَـٰقَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ لَتُبَيِّنُنَّهُۥ لِلنَّاسِ وَلَا تَكْتُمُونَهُۥ فَنَبَذُوهُ وَرَآءَ ظُهُورِهِمْ وَٱشْتَرَوْا۟ بِهِۦ ثَمَنًا قَلِيلًا ۖ فَبِئْسَ مَا يَشْتَرُونَ"
+arabic: "وَإِذْ أَخَذَ ٱللَّهُ مِيثَـٰقَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ لَتُبَيِّنُنَّهُۥ لِلنَّاسِ وَلَا تَكْتُمُونَهُۥ فَنَبَذُوهُ وَرَآءَ ظُهُورِهِمْ وَٱشْتَرَوْا۟ بِهِۦ ثَمَنًا قَلِيلًا ۖ فَبِئْسَ مَا يَشْتَرُونَ"
 translation: "And when Allah took the covenant of those who were given the Scripture: 'You must make it clear to the people and not conceal it.' But they threw it behind their backs and sold it for a small price. Miserable indeed is what they purchased."
 word_count: null
 estimated_duration: "45-55 minutes"
@@ -14,6 +14,7 @@ passage_context: "After warning believers to expect trial and hurtful speech, Su
 generated_by: "codex-tadabbur"
 validated: true
 validation_date: "2026-04-18"
+semantic_review: "enriched-2026-07-02"
 tags: [ahl-al-kitab, quran, sidq]
 concepts: [covenant, quran, hidayah, ahl-al-kitab, law-and-ethics]
 ---
@@ -35,7 +36,7 @@ concepts: [covenant, quran, hidayah, ahl-al-kitab, law-and-ethics]
 
 ## Surah Aal-Imran (3:187)
 
-[ayah:3:187] وَإِذْ أَخَذَ ٱللَّهُ مِيثَـٰقَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ لَتُبَيِّنُنَّهُۥ لِلنَّاسِ وَلَا تَكْتُمُونَهُۥ فَنَبَذُوهُ وَرَآءَ ظُهُورِهِمْ وَٱشْتَرَوْا۟ بِهِۦ ثَمَنًا قَلِيلًا ۖ فَبِئْسَ مَا يَشْتَرُونَ
+[ayah:3:187] وَإِذْ أَخَذَ ٱللَّهُ مِيثَـٰقَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ لَتُبَيِّنُنَّهُۥ لِلنَّاسِ وَلَا تَكْتُمُونَهُۥ فَنَبَذُوهُ وَرَآءَ ظُهُورِهِمْ وَٱشْتَرَوْا۟ بِهِۦ ثَمَنًا قَلِيلًا ۖ فَبِئْسَ مَا يَشْتَرُونَ
 
 *Wa idh akhadha Allahu mithaqa alladhina utu al-kitaba la-tubayyinunnahu li-al-nasi wa la taktumunahu. Fa-nabadhuhu wara'a zuhurihim wa ishtaraw bihi thamanan qalilan. Fa-bi'sa ma yashtarun.*
 
@@ -54,6 +55,10 @@ That is the atmosphere of this ayah. The verse is not speaking first about peopl
 And that is always more frightening.
 
 Because the one far away from revelation may still be seeking it. But the one entrusted with revelation can corrupt entire communities if he begins treating divine trust as a tool of self-protection, social standing, or gain.
+
+It is worth being precise here about what the classical commentators say the covenant actually contained, because they do not all draw its circle the same way. For Ibn Kathir and al-Tabari, the primary referent is specific and pointed: the People of the Book were bound by the covenant Allah took through their own prophets to announce and describe the coming Prophet Muhammad ﷺ — to make plain to the people the matter of "your affair, O Muhammad" (as al-Tabari phrases it), the description of him already present in the Torah and the Injil, so that when Allah sent him they would recognize and follow him. On this reading the "small price" is precisely what they gained by suppressing that recognition. Al-Muyassar reads the covenant more broadly: that both communities — the Jews with the Torah, the Christians with the Injil — were bound to act upon their scriptures and clarify what they contained rather than conceal or distort it. Al-Muyassar even names the betrayal as including *taḥrīf* — altering and substituting the text itself, not merely staying silent about it.
+
+Both readings are worth carrying. The specific reading anchors the verse in its historical accusation; the broader reading is what lets it reach us. For the concealment of a particular prophecy and the concealment of any entrusted truth share one root: knowledge held, then hidden, when honesty grew costly.
 
 The hook of the ayah is this: **the gravest religious betrayal is not merely to disbelieve the truth, but to know it, hold it, and then hide it when truth becomes costly.**
 
@@ -81,7 +86,7 @@ Then the covenant itself is stated in two paired commands: **la-tubayyinunnahu l
 
 You must make it clear to the people, and you must not conceal it.
 
-The verb **tubayyinunnahu** from the root **b-y-n** means to clarify, make distinct, bring out of ambiguity. The charge is not merely to preserve the text physically. It is to make its truth plain.
+The verb **tubayyinunnahu** from the root **b-y-n** means to clarify, make distinct, bring out of ambiguity. The charge is not merely to preserve the text physically. It is to make its truth plain. And notice the force of the form: the doubled emphatic *nūn* (*la-tubayyinunna-hu*) turns this into an oath-like insistence — *you shall most surely make it clear*. The grammar itself will not let the obligation be softened into an option.
 
 Then comes the negation: **la taktumunahu**, from the root **k-t-m**, to conceal, hide, keep something covered inside.
 
@@ -93,7 +98,7 @@ Religious fidelity is not fulfilled only by not destroying the text. It requires
 
 That should stop us.
 
-How often do people imagine they are innocent because they did not explicitly lie, while they carefully withheld the truth that would have disrupted comfort, power, or popularity? This verse says concealment can be its own disobedience.
+How often do people imagine they are innocent because they did not explicitly lie, while they carefully withheld the truth that would have disrupted comfort, power, or popularity? This verse says concealment can be its own disobedience. And al-Muyassar reminds us it can go one step further still: from *katm* (hiding) into *taḥrīf* (bending the text to say what one wishes it said) — the same betrayal wearing a scholar's clothing.
 
 ### 3. **Fa-nabadhuhu wara'a zuhurihim**: They Did Not Lose the Trust; They Threw It Away
 
@@ -119,7 +124,7 @@ They purchased with it a small price.
 
 The verb from **sh-r-y** is the language of transaction again. Revelation keeps exposing moral corruption as a bargain. Something is being exchanged. Something of immense worth is being converted into something paltry.
 
-And the word **qalilan** - small, little, meager - is devastating. Even if the worldly gain looked large in human eyes, the ayah calls it small. Why? Because anything purchased at the cost of betrayed revelation is small by definition.
+And the word **qalilan** - small, little, meager - is devastating. Even if the worldly gain looked large in human eyes, the ayah calls it small. Al-Muyassar sharpens the same point with a different word — he calls the price *bakhs*, not merely little but *defrauded*, the kind of sum a cheated seller receives — as though the concealers were themselves swindled in the very deal they thought clever. Why? Because anything purchased at the cost of betrayed revelation is small by definition.
 
 [PAUSE]
 
@@ -156,7 +161,7 @@ This ayah warns us that such concealment is not neutral caution. It is a covenan
 
 This verse is painfully current.
 
-People still sell truth for small prices. The prices have different names now, but the market is the same.
+Its first accusation was historically specific — Ibn Kathir and al-Tabari read it as an indictment of scholars who recognized the Prophet ﷺ in their own scriptures and suppressed what they knew. But the mechanism they describe is not locked in the past. People still sell truth for small prices. The prices have different names now, but the market is the same.
 
 Praise.
 Platform.

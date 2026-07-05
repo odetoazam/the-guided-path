@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayah-076.md
+Ayah: 3:76
+Date: 2026-06-22T07:08:47
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: بَلَىٰ=Nay, | مَنْ=whoever | أَوْفَىٰ=fulfills | بِعَهْدِهِۦ=his covenant | وَٱتَّقَىٰ=and fears (Allah) , | فَإِنَّ=then indeed, | ٱللَّهَ=Allah | يُحِبُّ=loves | ٱلْمُتَّقِينَ=those who fear (Him).
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Seven words in Arabic. One syllable of correction." — The ayah contains **nine** Arabic words by standard count: بَلَىٰ / مَنْ / أَوْفَىٰ / بِعَهْدِهِۦ / وَٱتَّقَىٰ / فَإِنَّ / ٱللَّهَ / يُحِبُّ / ٱلْمُتَّقِينَ. No recognized counting convention — including grouping attached particles with their host words — reduces this to seven. This is a verifiable factual claim embedded in the rhetorical build; it is wrong and easily checked by any reader.
+
+No other issues found in the provided portion:
+
+- The بَلَىٰ vs. نَعَم grammatical distinction is accurately described and classically attested.
+- The Form IV (أَوْفَىٰ as transitive) and Form VIII (اِتَّقَىٰ as reflexive-protective) morphological characterizations are correct.
+- The tafsir framing — بَلَىٰ as a refutation of the in-group ethics claim in 3:75 — aligns with Jalālayn, Muyassar, Baghawī, and Qurtubī without overstating any single position.
+- The pronoun ambiguity in بِعَهْدِهِۦ (does *hi* refer to Allah or the covenant-keeper?) is noted implicitly by not resolving it, which is appropriate given Qurtubī's explicit split.
+- The passage context, Madinan provenance, and Uhud-era framing are standard and uncontested.
+
+SUMMARY: One verifiable factual error — the word count claim "Seven words" should be nine — but the reflection is theologically sound, linguistically careful, and well-aligned with all four tafsir sources provided.

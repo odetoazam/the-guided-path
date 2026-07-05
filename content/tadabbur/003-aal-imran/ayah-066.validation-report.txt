@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayah-066.md
+Ayah: 3:66
+Date: 2026-06-21T13:51:28
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: هَـٰٓأَنتُمْ=Here you are - | هَـٰٓؤُلَآءِ=those who | حَـٰجَجْتُمْ=argued | فِيمَا=about what | لَكُم=[for] you | بِهِۦ=of it | عِلْمٌ=(have some) knowledge. | فَلِمَ=Then why | تُحَآجُّونَ=(do) you argue | فِيمَا=about what | لَيْسَ=not | لَكُم=for you | بِهِۦ=of it | عِلْمٌ‌ۚ=(any) knowledge. | وَٱللَّهُ=And Allah | يَعْلَمُ=knows, | وَأَنتُمْ=while you | لَا=(do) not | تَعْلَمُونَ=know.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "the root tells you the danger is built into the act of arguing itself" — the conclusion that *muḥājja* structurally implicates ego-contest over truth is a homiletic inference, not a documented tafsir position. The four classical sources simply identify the first clause as arguing about Moses/Jesus/Muhammad ﷺ (matters they had textual basis for) and the second as arguing about Ibrahim (no basis). The reflection presents the inference with certainty ("notice what that quietly exposes"), though it is framed as reflection rather than as a scholar's documented claim — borderline MODERATE.
+
+CONFIRMED ACCURATE:
+- Form III (mufāʿala) identification of حاجج/تحاجّ — correct per standard Arabic morphology and the frontmatter's own Leeds corpus note.
+- Root ح-ج-ج core meaning as *qaṣd* — attested in al-Raghib's Mufradāt: "الحجّ: القصد" and Ibn Manzur's Lisān; the three derivatives (ḥujja, maḥajja, Ḥajj) are all genuine.
+- kātaba/qātala as Form III examples — textbook-standard, accurate.
+- Perfect/imperfect tense distinction (ḥājajtum vs. tuḥājjūn) — grammatically correct.
+- Context: first clause = matters they had basis to argue (their own scriptures/prophets); second clause = Ibrahim — confirmed by all four sources (Jalalayn explicitly: Moses and Jesus; Muyassar: Prophet Muhammad ﷺ; Qurtubi: Muhammad ﷺ from their own scriptures; Baghawi: matches).
+- 3:65 reference ("Torah and Gospel came down long after him") — accurate.
+- Frontmatter Arabic text matches authentic source within acceptable Unicode diacritical variation (هَـٰٓ vs. هَٰٓ); no semantic difference.
+
+SUMMARY: Linguistically rigorous and contextually accurate throughout — the single soft flag is an interpretive moral inference presented with high certainty, but it is framed as tadabbur reflection rather than as a documented scholarly claim, keeping it within genre norms.

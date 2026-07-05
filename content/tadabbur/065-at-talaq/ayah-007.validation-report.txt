@@ -1,0 +1,38 @@
+Enhanced Validation Report
+File: content/tadabbur/065-at-talaq/ayah-007.md
+Ayah: 65:7
+Date: 2026-06-13T11:49:02
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: لِيُنفِقْ=Let spend | ذُو سَعَةٍ=owner of ample means | مِّن=from | سَعَتِهِۦ‌ۖ=his ample means, | وَمَن=and (he) who, | قُدِرَ=is restricted | عَلَيْهِ=on him | رِزْقُهُۥ=his provision, | فَلْيُنفِقْ=let him spend | مِمَّآ=from what | ءَاتَـٰهُ ٱللَّهُ‌ۚ=Allah has given him. | لَا يُكَلِّفُ ٱللَّهُ=Allah does not burden | نَفْسًا=any soul | إِلَّا=except | مَآ=(with) what | ءَاتَـٰهَا‌ۚ=He has given it. | سَيَجْعَلُ ٱللَّهُ=Allah will bring about | بَعْدَ=after | عُسْرٍ=hardship | يُسْرًا=ease.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate errors found in the submitted portion.
+
+Spot-checked claims against reference data:
+
+**Root analysis of سَعَة (saʿah):** Correctly identified as root و-س-ع (*wāw-sīn-ʿayn*). The initial wāw drops in nominal forms — standard morphology for hollow/wāw-initial roots. Connections to *wāsiʿ*, *wasiʿta kulla shayʾin* (40:7), and *wasiʿa kursiyyuhu* (2:255) are all lexically accurate.
+
+**قُدِرَ = "restricted":** Confirmed by word-by-word reference ("is restricted") and Jalalayn's gloss ضيق ("tightness/constriction"). ✓
+
+**Spousal/child maintenance context:** All four tafsir sources confirm the ayah addresses spending on the divorced wife and young child — Jalalayn (المطلقات والمرضعات), Muyassar (زوجته المطلقة وولده), Qurtubi (زوجته وولده الصغير), Baghawi (النفقة). The reflection's framing ("a child who belongs to both of them") is well-grounded. ✓
+
+**Frontmatter morphology note** — all four verb forms are correct: yunfiq (Form IV, أنفق), yukallif (Form II, كلَّف), ātā (Form IV, آتى), qudira (Form I passive). ✓
+
+**"One tiny letter" (the sīn prefix):** The reflection alludes to سَيَجْعَلُ but does not yet explain the grammatical point — the excerpt ends before that analysis. No claim is made that can be verified or flagged here.
+
+SUMMARY: All linguistic and contextual claims in the first 8,000 characters are accurately grounded in the reference data; no errors detected.

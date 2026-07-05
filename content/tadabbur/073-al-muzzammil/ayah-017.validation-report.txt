@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/073-al-muzzammil/ayah-017.md
+Ayah: 73:17
+Date: 2026-06-16T23:55:53
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَكَيْفَ=Then how | تَتَّقُونَ=will you guard yourselves, | إِن=if | كَفَرْتُمْ=you disbelieve, | يَوْمًا=a Day | يَجْعَلُ=(that) will make | ٱلْوِلْدَٲنَ=the children | شِيبًا=gray-headed?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "the infant who has done nothing, who owes nothing, who fears nothing yet" — This framing of *why* children are chosen as the image (their innocence/lack of burden) is the reflection's own interpretive thesis. The classical sources (Jalalayn, Muyassar, Baghawi) explain the graying as caused by *shiddat al-hawl* (severity of the terror), full stop — none of them make the point about children being unburdened or innocent. The reflection presents this as explanatory fact rather than personal tadabbur inference. Acceptable in a reflection context, but not sourced.
+
+Verifiable claims that CHECK OUT:
+- Root **و-ق-ي** as "shield/barrier" — correct and lexically attested
+- *Tattaqūna* as Form VIII (*iftiʿāl* pattern) with reflexive sense — linguistically accurate; the واو-initial assimilation to اِتَّقَى is standard morphology
+- *Istifhām al-tawbīkh wa-l-taqrīʿ* — **directly confirmed** by Qurṭubī: «هو توبيخ وتقريع»
+- Al-Ḥasan al-Baṣrī attribution via Qurṭubī: **exact match** — «بأي صلاة تتقون العذاب؟ بأي صوم تتقون العذاب؟» rendered faithfully and sourced correctly
+- The literal-vs-metaphor question on children graying: Jalalayn notes both possibilities; the reflection treats it as literal, which aligns with Muyassar and Baghawi's framing
+
+SUMMARY: The reflection is linguistically rigorous and classically grounded; the one interpretive extension (children as innocent/unburdened) is the author's own theological framing not drawn from the tafsir sources, but it does not contradict them and is clearly positioned as the reflection's own reasoning rather than a scholar attribution.

@@ -1,0 +1,42 @@
+Enhanced Validation Report
+File: content/tadabbur/045-al-jathiyah/ayah-036.md
+Ayah: 45:36
+Date: 2026-06-08T04:31:18
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَلِلَّهِ=Then for Allah | ٱلْحَمْدُ=(is) all the praise, | رَبِّ=(the) Lord | ٱلسَّمَـٰوَٲتِ=(of) the heavens | وَرَبِّ=and (the) Lord | ٱلْأَرْضِ=(of) the earth, | رَبِّ=(the) lord | ٱلْعَـٰلَمِينَ=(of) the worlds.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- None identified.
+
+**Specific checks performed:**
+
+1. **Arabic text**: Matches authentic text provided — minor Unicode diacritic variant only, not an error.
+
+2. **"al-Muyassar reads it exactly this way — fa-lillāhi subḥānahu wa-taʿālā waḥdahu l-ḥamd"**: Confirmed against source — ar.muyassar reads *فلله سبحانه وتعالى وحده الحمد* — the word *waḥdahu* ("alone") is genuinely in the tafsir, not an interpolation. Attribution accurate.
+
+3. **Word-order inversion claim (taqdīm → qasr)**: The contrast with Fatiha 1:2 (*al-ḥamdu lillāhi*) vs. 45:36 (*fa-lillāhi l-ḥamdu*) is real. The grammatical term *taqdīm mā ḥaqquhu al-taʾkhīr* and its qasr/restriction function are standard classical naḥw/balāghah — not an invented claim.
+
+4. **Istighrāq al-jins on al-ḥamd**: Standard tafsir methodology for a definite-article noun sweeping the entire category. No misrepresentation.
+
+5. **"Penultimate verse"**: Surah Al-Jathiyah has 37 ayahs; verse 36 is the penultimate. Accurate.
+
+6. **Jalalayn framing (praise as response to fulfilled promise against deniers)**: ar.jalalayn reads *"الوصف بالجميل على وفاء وعده في المكذبين"* — praising Allah for fulfilling His promise concerning the deniers. The reflection's framing ("praise as verdict after judgment") is consistent with this.
+
+7. **Triple Rabb repetition**: Quran text confirms three instances; ar.Qurtubi attests alternative readings all holding the Rabb triad. No overclaim.
+
+SUMMARY: All linguistic, grammatical, and mufassir claims in the submitted portion are traceable to the provided reference data with no inversions, fabrications, or overclaims.

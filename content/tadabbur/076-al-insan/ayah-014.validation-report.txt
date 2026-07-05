@@ -1,0 +1,28 @@
+Enhanced Validation Report
+File: content/tadabbur/076-al-insan/ayah-014.md
+Ayah: 76:14
+Date: 2026-06-18T10:19:52
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَدَانِيَةً=And near | عَلَيْهِمْ=above them | ظِلَـٰلُهَا=(are) its shades | وَذُلِّلَتْ=and will hang low | قُطُوفُهَا=its cluster of fruits | تَذْلِيلاً=very low.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "It comes from the root that, everywhere else in the Arabic language, means humiliation. Abasement. Being brought low. Being subdued and made to grovel." — This overstates the semantic range of root ذلل. Classical lexicography distinguishes two semantic fields: ذُلّ (dhull, humiliation/abasement) and ذِلّ (dhil, gentleness/tractability). The tractability field is well-attested throughout the Quran — 36:72 uses ذَلَّلْنَاهَا for animals made subservient, 67:15 uses ذَلُولًا for the earth made passable/walkable, and a ذَلُول mount is a gentle, easy-to-ride animal (not a humiliated one). Mufradāt al-Rāghib (cited in the reflection's own footnote) explicitly separates these two fields. The core rhetorical move — that the fruit is brought low using a root associated with subjugation — is theologically valid and the reversal argument holds; the problem is the absolute framing "everywhere else." A linguist reading this will flag it immediately.
+
+- [MODERATE] "Imam al-Qurtubi notes precisely this — that dāniyah here is grammatically a ḥāl, a description of the state the shade is in." — The provided al-Qurtubi excerpt does not identify the grammatical function of *dāniyatan* as ḥāl; it focuses on meaning ("قريبة من الأبرار"). The ḥāl identification in the reference data comes from al-Jalalayn ("عطف على محل لا يرون") and al-Baghawi ("نصب دانيةً بالعطف على قوله: متكئين"). The grammatical analysis itself is correct; the attribution is not verified from the provided sources.
+
+SUMMARY: The reflection is theologically grounded and exegetically rich, but overstates the root ذلل as exclusively meaning "humiliation" — a claim classical lexicography contradicts — and attributes a grammatical observation to al-Qurtubi that the reference data places in al-Baghawi and al-Jalalayn.

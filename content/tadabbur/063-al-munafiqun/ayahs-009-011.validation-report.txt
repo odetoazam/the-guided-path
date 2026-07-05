@@ -1,0 +1,38 @@
+Enhanced Validation Report
+File: content/tadabbur/063-al-munafiqun/ayahs-009-011.md
+Ayah: 63:9
+Date: 2026-06-13T08:51:46
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ=O you who believe! | لَا=(Let) not | تُلْهِكُمْ=divert you | أَمْوَٲلُكُمْ=your wealth | وَلَآ=and not | أَوْلَـٰدُكُمْ=your children | عَن=from | ذِكْرِ=(the) remembrance | ٱللَّهِ‌ۚ=(of) Allah. | وَمَن=And whoever | يَفْعَلْ=does | ذَٲلِكَ=that, | فَأُوْلَـٰٓئِكَ=then those | هُمُ=[they] | ٱلْخَـٰسِرُونَ=(are) the losers.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- None found in the text provided.
+
+Supporting observations confirming accuracy:
+
+- [PASS] "لَا تُلْهِكُمْ أَمْوَٰلُكُمْ — wealth is the grammatical subject, believers are the object" — Correct. أَمْوَٰلُكُمْ is the فاعل; -kum is مفعول به. All four tafsir sources render it identically: Jalalayn "تشغلكم," Baghawi "لا تشغلكم" — the wealth doing the acting.
+
+- [PASS] Root ل-ه-و with Form IV causative (alhā = to cause someone to enter the state of lahw) — Linguistically sound. تُلْهِكُمْ is Form IV mudāriʿ (تُفْعِلُ pattern). The Mufradāt al-Rāghib reference in the frontmatter is the appropriate lexical anchor for this claim.
+
+- [PASS] Qurtubi attribution — "warns the believers against the character of the hypocrites" maps precisely to **"حذر المؤمنين أخلاق المنافقين"** in the provided Qurtubi source. Quote is accurate.
+
+- [PASS] Hypocrites' "do not spend" context — The reflection's summary ("Do not spend on those around the Messenger") is confirmed by Qurtubi's own gloss: "كما فعل المنافقون إذ قالوا... لا تنفقوا على من عند رسول الله."
+
+- [PASS] Dhikr — The reflection uses dhikr broadly without narrowing to one interpretation. Appropriate given that Jalalayn/Baghawi say "الصلوات الخمس" and Muyassar says "عبادة الله وطاعته" — the range is real; the reflection doesn't overclaim.
+
+SUMMARY: The linguistic analysis, morphological framing, and Qurtubi attribution are all accurate to the reference data; no errors detected in the portion validated.

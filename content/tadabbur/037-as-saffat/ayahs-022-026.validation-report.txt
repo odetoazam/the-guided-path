@@ -1,0 +1,40 @@
+Enhanced Validation Report
+File: content/tadabbur/037-as-saffat/ayahs-022-026.md
+Ayah: 37:22
+Date: 2026-06-05T08:20:43
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ۞ ٱحْشُرُواْ=Gather | ٱلَّذِينَ=those who | ظَلَمُواْ=wronged, | وَأَزْوَٲجَهُمْ=and their kinds | وَمَا=and what | كَانُواْ=they used (to) | يَعْبُدُونَ=worship
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No errors found in the 8,000-character excerpt. Specific verifications below.
+
+**Root ḥ-sh-r claim** — "the word the Arabs used for *driving a herd together* — pressing scattered animals into a single mass" — consistent with classical lexical usage (Lisān al-ʿArab); Muyassar confirms the force of the action: *"سوقوهم سوقًا عنيفًا"* (drive them with forceful herding).
+
+**Zulm = shirk equation** — "wronged" interpreted as shirk — directly confirmed by Jalalayn (*"أنفسهم بالشرك"*), Baghawi (*"أي أشركوا"*), and Qurtubi citing 31:13 (*"إن الشرك لظلم عظيم"*). No overstatement.
+
+**Command addressed to angels** — confirmed by Muyassar: *"ويقال للملائكة"*. The grammar observation (wrongdoers as object, no verb of agency) is a sound morpho-syntactic reading.
+
+**37:19 quotation** — Arabic text and attribution accurate: *"فَإِنَّمَا هِيَ زَجْرَةٌ وَاحِدَةٌ فَإِذَا هُمْ يَنظُرُونَ."*
+
+**Yawm al-Ḥashr name** — well-established Islamic term; the connection between the imperative *uḥshurū* and the Day's name is lexically accurate, not a stretch.
+
+**Azwāj translated "kinds"** — matches the word-by-word reference and sits within the range of classical positions (Qurtubi: *أشياعهم*, Baghawi: *أشباههم وأمثالهم*). Neutral enough to be uncontroversial.
+
+**Cannot validate** (excerpt truncated): Element Two (*fa-hdūhum* / هدي root treatment) and the full azwāj interpretive development were cut off before completion. If the reflection draws on the Jalalayn reading of azwāj as *"قرناءهم من الشياطين"* (devil-companions), that is one of two equally attested classical positions — it should be presented as one view among several, not the sole meaning.
+
+SUMMARY: The excerpt is linguistically rigorous, tafsir-grounded, and makes no unsupported factual claims; validation of Element Two and the azwāj interpretive arc requires seeing the remainder of the text.

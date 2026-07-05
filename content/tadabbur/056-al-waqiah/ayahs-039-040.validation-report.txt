@@ -1,0 +1,29 @@
+Enhanced Validation Report
+File: content/tadabbur/056-al-waqiah/ayahs-039-040.md
+Ayah: 56:39
+Date: 2026-06-12T10:40:10
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ثُلَّةٌ=A company | مِّنَ=of | ٱلْأَوَّلِينَ=the former people,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+
+- [MODERATE] "Too late for the Prophet ﷺ. Too late for the Companions. Too late for the generation that the sky itself was watching" — the reflection builds its entire emotional architecture on al-awwalīn = early Muslims (Companions) and al-ākhirīn = later Muslims. Al-Qurtubi supports this (يعني من سابقي هذه الأمة — "forerunners of this ummah"), but Al-Baghawi holds the opposite: al-awwalīn for this verse = "من المؤمنين الذين كانوا قبل هذه الأمة" — believers from nations before Islam entirely. The reflection presents one contested reading as the assumed frame without flagging ikhtilāf.
+
+- [MODERATE] "you'll find this in Lisān al-ʿArab — gloss thullah as a substantial company... a flock crowded thick upon a hillside" — the specific pastoral image (flock on a hillside) cannot be verified from the reference data provided. Al-Muyassar confirms the quantitative sense ("جماعة كثيرة"), which is sufficient, but the Lisān citation should be confirmed before publication.
+
+SUMMARY: The core linguistic argument (thullah vs. qalīl asymmetry between 56:13–14 and 56:39–40) is accurate and internally coherent, but the reflection silently adopts one of two competing tafsir positions on who al-awwalīn refers to — a meaningful gap given how central that frame is to the article's thesis.

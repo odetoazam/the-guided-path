@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/045-al-jathiyah/ayah-034.md
+Ayah: 45:34
+Date: 2026-06-08T02:13:14
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَقِيلَ=And it will be said, | ٱلْيَوْمَ=`Today | نَنسَـٰكُمْ=We forget you | كَمَا=as | نَسِيتُمْ=you forgot | لِقَآءَ=(the) meeting | يَوْمِكُمْ هَـٰذَا=(of) this Day of yours, | وَمَأْوَٮٰكُمُ=and your abode | ٱلنَّارُ=(is) the Fire, | وَمَا=and not | لَكُم=for you | مِّن=any | نَّـٰصِرِينَ=helpers.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "nansākum — 'We leave you in the Fire'" attributed to Al-Jalālayn, Al-Baghawī, Al-Qurṭubī, Al-Muyassar — all four sources confirmed: Jalālayn نترككم في النار, Baghawī نترككم في النار, Qurṭubī نترككم في النار, Muyassar نترككم في عذاب جهنم. Attributions are accurate and the unanimous nature of the glosses is correctly stated.
+- [PASS] "My Lord neither errs nor forgets" cited as 20:52 — accurate; Quranic text لَا يَضِلُّ رَبِّي وَلَا يَنسَى confirms this root (nasiya) is denied of Allah, supporting the reflection's foundational claim that نَنسَىٰكُمْ cannot be literal.
+- [PASS] *mushākalah* device applied to *nansākum* — not explicitly named in the four provided tafsir excerpts, but their unanimous gloss of *nansākum* as *natarakukum* (abandonment, not cognitive forgetting) implicitly confirms the rhetorical non-literalness the device explains. No source contradicts the framing.
+- [PASS] 42:40 cited as a mushākalah example — the verse text وَجَزَاءُ سَيِّئَةٍ سَيِّئَةٌ مِّثْلُهَا is a canonical *balāghah* illustration of the device; the reflection's explanation (second "evil" means just recompense, not genuine evil) is accurate.
+- [PASS] Arabic text — minor diacritic rendering difference (هَـٰذَا vs هَٰذَا) is a font/encoding variant, not a textual error. Core text matches the authentic provided.
+- [NOTE] The morphology comment claims "Verb form III appears only in لِقَاء (root lqy)" — correct; لِقَاء is the Form III maṣdar of لَاقَى. No other Form III derivative appears in the ayah.
+
+SUMMARY: All verifiable claims in the first 8000 characters — tafsir attributions, Arabic text, 20:52 citation, mushākalah framing, surah-context cross-references — check out cleanly against the provided reference data with no distortions or overstatements.

@@ -1,0 +1,42 @@
+Enhanced Validation Report
+File: content/tadabbur/054-al-qamar/ayah-031.md
+Ayah: 54:31
+Date: 2026-06-10T06:19:34
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّآ=Indeed, We | أَرْسَلْنَا=[We] sent | عَلَيْهِمْ=upon them | صَيْحَةً=thunderous blast | وَٲحِدَةً=single, | فَكَانُواْ=and they became | كَهَشِيمِ=like dry twig fragments | ٱلْمُحْتَظِرِ=(used by) a fence builder.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No genuine errors found in the portion provided.
+
+Verification trail:
+
+**Tafsir attributions (verified):** "al-Qurtubi, al-Baghawi (reporting from ʿAṭā'), and the Tafsir al-Muyassar all relay that it was the cry of Jibril" — confirmed against all four sources. Qurtubi: *yurīdu ṣayḥata Jibrīl*. Baghawi: *qāla ʿAṭāʾ: yurīdu ṣayḥata Jibrīl*. Muyassar: *arsalnā ʿalayhim Jibrīl fa-ṣāḥa bihim ṣayḥatan wāḥidatan*. Attribution is precise, including the *min ʿAṭāʾ* chain in Baghawi.
+
+**Hashim/muhtazir gloss (verified):** "dried twig-fragments that fall from a shepherd's thorn fence and get crushed under the feet of sheep" — aligns exactly with Jalalayn (*fa-dāsathu huwa l-hashīm*) and Ibn ʿAbbas via Baghawi (*fa-dāsathu l-ghanam fa-huwa l-hashīm*). The "trampled" in the translation is tafsir-supported, not invented.
+
+**Morphology note (verified):** *muḥtaẓir* as Form VIII active participle of ḥ-ẓ-r is correct (iḥtaẓara → muḥtaẓir). *arsalnā* as Form IV perfect 1cp is correct.
+
+**15:82 cross-reference (verified):** *wa-kānū yanḥitūna min al-jibāl buyūtan āminīn* — reflection renders *āminīn* as "secure," which is the correct gloss.
+
+**Wāḥidatan emphasis (verified):** The linguistic argument — that *ṣayḥatan* is already grammatically singular, so *wāḥidatan* adds emphatic force rather than semantic information — is a sound classical Arabic observation, not an overreach.
+
+**54:50 intertextual link:** Literary observation about the surah planting *wāḥidah* in v.31 and harvesting it as a universal law in v.50 is interpretive but well-grounded and presented as such, not as documented tafsir fact.
+
+**One note (not an error):** The translation "trampled twigs" adds "trampled" beyond the word-by-word gloss, but it is explicitly warranted by the tafsir's *fa-dāsathu l-ghanam*. A reader who checks word-by-word without tafsir might question it; the reflection would benefit from a brief parenthetical acknowledgment. Minor — not flaggable.
+
+SUMMARY: Every tafsir attribution, morphological claim, and cross-reference in the visible portion is accurate against the supplied reference data; no critical or moderate errors detected.

@@ -1,0 +1,42 @@
+Enhanced Validation Report
+File: content/tadabbur/035-fatir/ayah-024.md
+Ayah: 35:24
+Date: 2026-06-05T00:16:26
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّآ=Indeed, We | أَرْسَلْنَـٰكَ=[We] have sent you | بِٱلْحَقِّ=with the truth, | بَشِيرًا=(as) a bearer of glad tidings | وَنَذِيرًاۚ=and (as) a warner. | وَإِن=And not | مِّنْ=(was) any | أُمَّةٍ=nation | إِلَّا=but | خَلَا=had passed | فِيهَا=within it | نَذِيرٌ=a warner.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate errors identified.
+
+Supporting observations:
+
+1. **Arabic text** matches the authenticated source exactly.
+
+2. **Translation** — "there was no nation but that a warner had passed within it" — aligns with all four tafsir sources: Jalalayn ("سلف فيها نبي"), Baghawi ("سلف فيها نبي منذر"), Qurtubi ("سلف فيها نبي").
+
+3. **Morphological claims** (frontmatter + body) are accurate: arsalnāka as Form IV (أَفْعَلَ from root ر-س-ل) is correct; bashīr and nadhīr on the faʿīl (فَعِيل) intensive pattern is standard; min as zāʾidah after negation is a well-attested grammatical rule.
+
+4. **Bā particle analysis** — the three-function treatment (instrument, accompaniment, basis/license) accurately reflects classical Arabic grammar categories (bā al-istiʿāna, muṣāḥaba, sabab). Not directly verifiable from the provided tafsir excerpts but is lexicographically standard.
+
+5. **"Nadhīr appears twice, bashīr once"** — textually accurate. The ayah gives bashīr and nadhīr in the first clause; the second clause (the universal law) names only nadhīr. The structural observation is a legitimate reading of the text, not a fabricated claim.
+
+6. **Passage context** (graves reference immediately before this ayah) — confirmed by the Muyassar excerpt provided, which quotes 35:22's "وما أنت بمسمع من في القبور" in the same passage block.
+
+7. **ḥaqq as "firmly established, rightfully due, weight-bearing"** — consistent with Mufradāt al-Rāghib (cited in frontmatter). Cannot verify from the provided tafsir snippets directly, but no classical source contradicts it.
+
+SUMMARY: The reflection is linguistically disciplined and tafsir-grounded; all verifiable claims align with the provided reference data and no facts are overstated or inverted.

@@ -1,0 +1,24 @@
+Enhanced Validation Report
+File: content/tadabbur/043-az-zukhruf/ayahs-046-050.md
+Ayah: 43:46
+Date: 2026-06-07T01:32:33
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَلَقَدْ=And certainly | أَرْسَلْنَا=We sent | مُوسَىٰ=Musa | بِـَٔـايَـٰتِنَآ=with Our Signs | إِلَىٰ=to | فِرْعَوْنَ=Firaun | وَمَلَإِيْهِۦ=and his chiefs, | فَقَالَ=and he said, | إِنِّى=`Indeed, I am | رَسُولُ=a Messenger | رَبِّ=(of the) Lord | ٱلْعَـٰلَمِينَ=(of) the worlds.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: ERROR
+ISSUES:
+- Could not run Claude check: Command failed: claude -p --system-prompt "You are a rigorous Islamic scholarship validator for Ayah
+SUMMARY: Claude semantic check failed

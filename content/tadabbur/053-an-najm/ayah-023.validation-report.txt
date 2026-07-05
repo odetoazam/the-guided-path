@@ -1,0 +1,40 @@
+Enhanced Validation Report
+File: content/tadabbur/053-an-najm/ayah-023.md
+Ayah: 53:23
+Date: 2026-06-09T18:09:39
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنْ=Not | هِىَ=they | إِلَّآ=(are) except | أَسْمَآءٌ=names | سَمَّيْتُمُوهَآ=you have named them, | أَنتُمْ=you | وَءَابَآؤُكُم=and your forefathers, | مَّآ=not | أَنزَلَ ٱللَّهُ=has Allah sent down | بِهَا=for it | مِن=any | سُلْطَـٰنٍ‌ۚ=authority. | إِن=Not | يَتَّبِعُونَ=they follow | إِلَّا=except | ٱلظَّنَّ=assumption | وَمَا=and what | تَهْوَى=desire | ٱلْأَنفُسُ‌ۖ=the(ir) souls. | وَلَقَدْ=And certainly | جَآءَهُم=has come to them | مِّن=from | رَّبِّهِمُ=their Lord | ٱلْهُدَىٰٓ=the guidance.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "The word for 'name,' *ism*, comes from the root **s-m-w** (سمو)" — presented as settled, but classical grammarians are divided: Basrans derive *ism* from s-m-w, Kufans from w-s-m (وسم, "mark/sign"). The reflection's morphology note cites Lisān al-ʿArab and Mufradāt al-Rāghib, both of which do support s-m-w, so this is not wrong — but stating it without acknowledging the debate slightly overstates the consensus. The literary argument built on it (ism ↔ samāʾ symmetry) stands on legitimate ground but is literary analysis, not transmitted tafsir.
+
+No CRITICAL issues found in the portion reviewed.
+
+What holds up cleanly against the reference data:
+
+- **Arabic text**: matches the authentic Arabic; minor diacritical encoding differences (هِىَ vs هِيَ, trailing hamza on الْهُدَى) are orthographic conventions, not errors
+- **in...illā restriction structure**: "إِنْ = Not" confirmed word-by-word; the grammar analysis is correct
+- **sulṭān = authority/proof**: Jalālayn gives حجة وبرهان, Baghawi حجة — "authority" is an accurate rendering
+- **ẓann = conjecture**: exact match with word-by-word and all four tafsir sources
+- **hawā al-anfus = soul's desire/cravings**: confirmed by word-by-word (tahwā = desire, al-anfus = the souls); Jalālayn specifies it as what Shaytan beautified for them
+- **Iltifāt (second→third person shift)**: explicitly noted by Baghawi ("ثم رجع إلى الخبر بعد المخاطبة") and Qurtubi ("عاد من الخطاب إلى الخبر") — the concept label is valid
+- **al-ʿUzzā from ʿizz (might)**: etymologically sound
+- **Passage context** (53:19-22 setup, three idol names): accurate to the surah structure
+- **Historical detail on Manāt** (pilgrims shaving heads at her station): not verifiable from the provided tafsir data, but consistent with documented sīra sources; cannot confirm or deny from these references alone
+
+SUMMARY: The reflection is linguistically careful and tafsir-grounded; the one flag is presenting the *ism*-from-s-m-w derivation as univocal when it is the Basran position in a classical two-school debate — the argument built on it is valid but should be framed as one attested scholarly view.

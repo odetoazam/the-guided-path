@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/034-saba/ayahs-024-025.md
+Ayah: 34:24
+Date: 2026-05-16T22:22:06
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ۞ قُلْ=Say, | مَن=`Who | يَرْزُقُكُم=provides (for) you | مِّنَ=from | ٱلسَّمَـٰوَٲتِ=the heavens | وَٱلْأَرْضِۖ=and the earth?` | قُلِ=Say, | ٱللَّهُۖ=`Allah. | وَإِنَّآ=And indeed, we | أَوْ=or | إِيَّاكُمْ=you | لَعَلَىٰ=(are) surely upon | هُدًى=guidance | أَوْ=or | فِى=in | ضَلَـٰلٍ=error | مُّبِينٍ=clear.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "Al-Qurṭubī notes that this is because the answer is so undeniable that delay would only let them squirm into a worse position." — The provided Qurtubi excerpt does not contain this reasoning. Qurtubi establishes the rhetorical sequence (false gods shown to own nothing → question posed to polytheists) but says nothing about "delay" or an opponent being driven into a "worse position." The excerpt is truncated, so this *may* exist in the full commentary, but it cannot be verified from the supplied reference data. The attribution should be softened or left unattributed.
+
+All other verifiable claims check out:
+
+- **Double *qul* structure**: Accurately observed from the Arabic text. ✓
+- **Jalālayn "in lam yaqūlūhu"**: The reflection renders this as "if they don't say it" — matches «إن لم يقولوه» exactly. ✓
+- **Muyassar paraphrase**: "They will inevitably acknowledge it, but if they refuse to acknowledge it openly, you say it" — matches «فإنهم لا بدَّ أن يُقِرُّوا بأنه الله، وإن لم يُقِرُّوا بذلك فقل لهم» accurately. ✓
+- **29:61 / 43:9 cross-references** (polytheists acknowledging Allah as Creator): Standard Quranic data, well-attested. ✓
+- **Taqrīr as rhetorical device**: Applied correctly to استفهام تقريري — a confirmatory rhetorical question whose answer the speaker already states. ✓
+- **Historical frame (Makkan period, Quraysh as non-atheist polytheists)**: Accurate. ✓
+
+SUMMARY: The reflection is textually and theologically sound through the first 8,000 characters; one Qurtubi attribution states a specific interpretive point that is not present in the supplied reference excerpt and should be either verified against the full Qurtubi text or de-attributed.

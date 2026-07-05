@@ -1,0 +1,26 @@
+Enhanced Validation Report
+File: content/tadabbur/037-as-saffat/ayahs-123-130.md
+Ayah: 37:123
+Date: 2026-06-05T09:31:42
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَإِنَّ=And indeed, | إِلْيَاسَ=Ilyas | لَمِنَ=(was) surely of | ٱلْمُرْسَلِينَ=the Messengers.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Some, like Ibn ʿAbbās as reported by al-Baghawī and al-Qurṭubī, say he was the **cousin** of al-Yasaʿ" — The two sources give different relationships. Al-Baghawī reports Ibn ʿAbbās saying **ابن عم اليسع** (son of the uncle = cousin), which the reflection renders correctly. But al-Qurṭubī reports Ibn ʿAbbās saying **عم اليسع** (uncle of al-Yasaʿ), not cousin. Citing both sources for "cousin" misrepresents al-Qurṭubī's transmitted position.
+
+SUMMARY: The reflection is otherwise linguistically sound and the scholar hedging is appropriately careful, but it conflates two divergent Ibn ʿAbbās reports — one says uncle (al-Qurṭubī), the other says cousin (al-Baghawī) — by attributing both to the "cousin" reading.

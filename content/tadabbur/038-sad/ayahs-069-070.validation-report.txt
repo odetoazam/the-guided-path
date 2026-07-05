@@ -1,0 +1,30 @@
+Enhanced Validation Report
+File: content/tadabbur/038-sad/ayahs-069-070.md
+Ayah: 38:69
+Date: 2026-06-06T01:15:20
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: مَا=Not | كَانَ=is | لِىَ=for me | مِنْ=any | عِلْمِۭ=knowledge | بِٱلْمَلَإِ=(of) the chiefs, | ٱلْأَعْلَىٰٓ=the exalted | إِذْ=when | يَخْتَصِمُونَ=they were disputing.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "mā kāna liya min ʿilm — three layers of denial" — The triple-negation analysis (مَا as flat negation + كَانَ throwing the denial across time + مِنْ as comprehensive particle emptying the category) is linguistically accurate and well-attested. The reflection's description of min li-taʾkīd al-nafy (min for affirming totality of negation) matches classical grammar doctrine correctly.
+- [PASS] "kāna — He doesn't say I have no knowledge. He says there never was knowledge for me." — Accurate. kāna's past tense force here is correctly interpreted as indicating the absence was not merely present-tense but extended across the prophet's entire prior existence. Consistent with how Baghawi and Jalalayn frame the verse as establishing the impossibility of independent access.
+- [PASS] "the Highest Assembly when they were disputing — regarding the creation of Adam" — All four tafsir sources provided (Jalalayn, Muyassar, Qurtubi, Baghawi) confirm al-Malaʾ al-Aʿlā = the angels, and that the dispute was over Adam's creation, including the angels' question in 2:30 and Iblis's claim of superiority. The reflection's framing is fully supported.
+- [PASS] Arabic quotation in header — The orthographic difference لِيَ vs. لِىَ is a script variant only, not a textual error; pronunciation and meaning are identical.
+- [NOTE] The reflection ends mid-analysis before discussing al-malaʾ in depth. No claims visible in the cut-off portion can be validated or flagged from the provided data.
+
+SUMMARY: All verifiable claims in the provided excerpt are accurate, the morphological analysis is technically sound, and the theological framing is consistent with the classical tafsir consensus that this verse establishes the necessity of revelation as the sole source of the Prophet's knowledge of the heavenly council.

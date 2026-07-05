@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/057-al-hadid/ayah-018.md
+Ayah: 57:18
+Date: 2026-06-12T17:52:56
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّ=Indeed, | ٱلْمُصَّدِّقِينَ=the men who give charity | وَٱلْمُصَّدِّقَـٰتِ=and the women who give charity, | وَأَقْرَضُواْ=and who lend | ٱللَّهَ=(to) Allah | قَرْضًا=a loan | حَسَنًا=goodly, | يُضَـٰعَفُ=it will be multiplied | لَهُمْ=for them, | وَلَهُمْ=and for them | أَجْرٌ=(is) a reward | كَرِيمٌ=noble.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE] "The Prophet ﷺ said: *aṣ-ṣadaqatu burhān* — 'charity is **proof**'" — Accurate hadith (Sahih Muslim 223, Kitab al-Taharah), but it does not appear in the provided reference data. Cannot confirm from supplied sources; verify independently before publishing.
+
+Everything else checks out against the reference data:
+
+- **Idghām claim** — verified. Al-Jalālayn explicitly states *udghimat al-tā' fī al-ṣād*; the reflection quotes and translates this correctly.
+- **Two qirāʾāt (heavy/light ṣād)** — verified. Both al-Qurṭubī and al-Baghawī attribute the light reading (*taṣdīq* → "those who believe") to Ibn Kathīr and Abū Bakr ʿan ʿĀṣim, exactly as the reflection states. The distinction between *ṣadaqah*-givers vs. *taṣdīq*-affirmers is correctly drawn from those sources.
+- **Root ṣ-d-q** — correct. The morphological derivation (*al-mutaṣaddiqīn* → *al-muṣṣaddiqīn*) is standard Arabic Form V assimilation, confirmed by Jalālayn.
+- **Contextual placement** (57:18 as two ayat after 57:16, "goodly loan" motif first at 57:11) — accurate.
+- **Translation** — aligns with word-by-word reference.
+- No scholar attributions are inverted. No Arabic text errors. No overstatement of any classical position.
+
+SUMMARY: The reflection is linguistically and source-critically sound; the single unverifiable element is the hadith citation, which should be footnoted with a collection reference before publication.

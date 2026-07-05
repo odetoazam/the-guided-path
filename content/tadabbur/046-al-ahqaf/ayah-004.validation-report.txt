@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/046-al-ahqaf/ayah-004.md
+Ayah: 46:4
+Date: 2026-06-08T06:35:50
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: قُلْ=Say, | أَرَءَيْتُم=`Do you see | مَّا=what | تَدْعُونَ=you call | مِن دُونِ=besides | ٱللَّهِ=Allah? | أَرُونِى=Show me | مَاذَا=what | خَلَقُواْ=they have created | مِنَ=of | ٱلْأَرْضِ=the earth | أَمْ=or | لَهُمْ=for them | شِرْكٌ=(is) any share | فِى=in | ٱلسَّمَـٰوَٲتِ‌ۖ=the heavens? | ٱئْتُونِى=Bring me | بِكِتَـٰبٍ=a book | مِّن قَبْلِ=before | هَـٰذَآ=this | أَوْ=or | أَثَـٰرَةٍ=traces | مِّنْ=of | عِلْمٍ=knowledge, | إِن=if | كُنتُمْ=you are | صَـٰدِقِينَ=truthful.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+**VERDICT: PASS**
+
+**ISSUES:**
+- [PASS] "Its core meaning is to call, to call upon, to summon, to cry out to" — root د-ع-و confirmed by word-by-word reference (`تَدْعُونَ = you call`); semantic range is attested.
+- [PASS] "Allah does not say *man tadʿūn*... He says *mā tadʿūn*" — the authentic Arabic confirms مَّا, not مَن; the grammar observation (mā for things, man for rational beings) is a standard Arabic morphosyntactic distinction and accurately applied here.
+- [PASS] "Form IV of that root — *arā* — transitive-causative... 'to cause someone to see'" — أَرُونِى is the Form IV imperative plural of root ر-أ-ي; the causative reading ("cause me to see" → "show me") is morphologically correct and consistent with the word-by-word gloss (`أَرُونِى = Show me`).
+- [PASS] "'We only worship them so that they may bring us closer to Allah' — az-Zumar (39:3)" — accurate citation of a real Quranic verse; the paraphrase faithfully captures مَا نَعْبُدُهُمْ إِلَّا لِيُقَرِّبُونَا إِلَى اللَّهِ زُلْفَىٰ.
+- [PASS] "Three hundred and sixty of them, the reports say" — appropriately hedged; not a Quranic claim, so not verifiable against tafsir reference data, but the hedge ("the reports say") marks it correctly as a historical transmission, not a revealed fact.
+- [PASS] Translation "some lingering trace of knowledge" for أَثَـٰرَةٍ مِّنْ عِلْمٍ — all four classical sources gloss أَثَارَة as *baqiyyah* (remnant/trace); Jalalayn adds "transmitted from the ancients," Baghawi records Mujahid/Ikrimah as "transmission from the prophets." "Lingering trace" is within the attested semantic range.
+
+**SUMMARY:** Every verifiable linguistic, morphological, and cross-reference claim in the submitted portion is accurate and well-grounded in the reference data; no errors detected.

@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/062-al-jumuah/ayah-004.md
+Ayah: 62:4
+Date: 2026-06-25T10:06:28
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ذَٲلِكَ=That | فَضْلُ ٱللَّهِ=(is the) Bounty of Allah, | يُؤْتِيهِ=He gives it | مَن=(to) whom | يَشَآءُ‌ۚ=He wills. | وَٱللَّهُ=And Allah | ذُو ٱلْفَضْلِ=(is the) Possessor of Bounty | ٱلْعَظِيمِ=the Great.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] Arabic text matches the authentic Arabic exactly, including diacritics and waqf marker ۚ
+- [PASS] "يُؤْتِيهِ confirmed Form IV imperfect (root Aty)" — correct; Form IV of أَتَى yields يُؤْتِي; يَشَآءُ as imperfect of شاء (root $yA) is accurate
+- [PASS] "dhālika al-kitāb" parallel (2:2) — the elevated-honor reading of the far demonstrative is attested in classical grammar and tafsir literature, not an invented claim; this is the dominant explanation
+- [PASS] "gather all of it — the Messenger, the cleansing, the wisdom, the reach across the centuries" — al-Jalālayn: «النبي ومن ذكر معه»; al-Muyassar: «ذلك البعث للرسول»; al-Baghawi: «يعني الإسلام والهداية» — all confirm dhālika points back across the preceding description
+- [PASS] faḍl characterized as "overflow / more than was owed" — the root f-Ḍ-l carries the attested sense of surplus/excess in Lisān al-ʿArab and Rāghib's Mufradāt; this is a legitimate lexical frame, not an invention
+- [PASS] Extension to "peoples not yet born" in verse 3 — al-Qurṭubī's «حيث ألحق العجم بقريش» (the non-Arabs joined to Quraysh) supports the cross-peoples, cross-time reading
+- [NOTE] The faḍl section (Element Two) is truncated in the submitted text — that portion cannot be validated here; flag for re-submission when complete
+
+SUMMARY: All verifiable claims in the submitted portion are linguistically attested and tafsir-grounded; the far-demonstrative analysis, the faḍl lexical framing, and the scope of dhālika are each consistent with Jalālayn, Muyassar, Baghawi, and Qurṭubī — no errors found in the content reviewed.

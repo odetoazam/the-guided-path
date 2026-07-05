@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/083-al-mutaffifin/ayahs-018-028.md
+Ayah: 83:18
+Date: 2026-06-18T16:23:27
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: كَلَّآ=Nay! | إِنَّ=Indeed, | كِتَـٰبَ=(the) record | ٱلْأَبْرَارِ=(of) the righteous | لَفِى=(will be) surely in | عِلِّيِّينَ=Illiyin.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Mujahid and Muqatil add yet another angle: *kallā* — they do not even believe in the punishment they are walking toward." — Both Qurtubi and Baghawi attribute this reading of *kallā* exclusively to Muqatil ("قال مقاتل: كلا، أي لا يؤمنون بالعذاب الذي يصلونه"). Mujahid does not appear in either provided source for this position. Adding his name inflates the attribution without support from the reference data.
+
+Confirmed accurate from sources:
+- Al-Qurtubi: *kallā* = *ḥaqqan* — verbatim ("كلا بمعنى حقا") ✓
+- Al-Qurtubi: *kallā* draws the dividing line between Sijjin and Illiyyin — verbatim ("كتابهم في سجين، وكتاب المؤمنين في عليين") ✓
+- Muqatil's "non-belief in punishment" reading — confirmed in both Qurtubi and Baghawi ✓
+- Root *ʿ-l-w* (علو) for *ʿIlliyyīn* — consistent with frontmatter note and not contradicted by any provided source ✓
+
+SUMMARY: One scholar attribution overreach — Mujahid is co-credited with Muqatil for a reading the provided tafsir sources assign to Muqatil alone; all other verifiable claims in the submitted portion are accurate.

@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayah-085.md
+Ayah: 3:85
+Date: 2026-06-21T11:12:54
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَمَن=And whoever | يَبْتَغِ=seeks | غَيْرَ=other than | ٱلْإِسْلَـٰمِ=[the] Islam | دِينًا=(as) religion | فَلَن=then never | يُقْبَلَ=will be accepted | مِنْهُ=from him, | وَهُوَ=and he | فِى=in | ٱلْأَخِرَةِ=the Hereafter, | مِنَ=(will be) from | ٱلْخَـٰسِرِينَ=the losers.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+**VERDICT: MODERATE**
+
+**ISSUES:**
+
+- [MODERATE] "The grammar itself excludes them — because *yabtaghi* describes someone who has the truth in front of them and **goes seeking past it.**" — The Form VIII argument is linguistically sound (ibtaghā does carry intentional, effortful seeking), but the specific conclusion that the grammar *by itself* excludes those in honest ignorance is overstated. The provided classical tafsir sources (Baghawi, Qurtubi) derive the "knowing apostate" frame from asbab al-nuzul (the Harith ibn Suwayd case; the twelve who apostatized and left Medina), not from a morphological argument about Form VIII. The reflection collapses a theological position well-attested across other ayahs (17:15, etc.) into a grammatical proof the form alone doesn't sustain. The conclusion may be correct; the derivation path is not.
+
+**What holds up:**
+
+- Form VIII identification of *yabtaghi* from root b-gh-y is correct. The Leeds corpus citation in the frontmatter is accurate.
+- *Al-islām* as Form IV maṣdar of s-l-m is exactly right, and the "verbal noun, not a proper name" pedagogical move is well-grounded — the Muyassar source explicitly defines islām here as "submission to Allah in tawhid, obedience, and servitude," supporting the reflection's framing.
+- The 3:83 (*yabghūn*, Form I) → 3:85 (*yabtaghi*, Form VIII) echo and intensification is a legitimate literary observation.
+- The lexical note connecting b-gh-y to *baghy* (transgression/overstepping) is attested in classical lexicons (Mufradāt al-Rāghib explicitly draws this connection).
+- The contextual sequencing (3:83 → 3:84 → 3:85 as argument-then-conclusion) is well-supported by the tafsir and the passage context is accurately described.
+- No Arabic text errors, no inverted scholar attributions.
+
+**SUMMARY:** The morphological analysis is accurate and the passage framing is sound, but the reflection overstates one inference — presenting the Form VIII grammar as grammatically decisive proof that the verse excludes the unreached, when the classical sources ground that reading in occasion-of-revelation context, not verbal morphology alone.

@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/072-al-jinn/ayah-004.md
+Ayah: 72:4
+Date: 2026-06-16T23:23:15
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَأَنَّهُۥ=And that he | كَانَ=used | يَقُولُ=(to) speak - | سَفِيهُنَا=the foolish among us | عَلَى=against | ٱللَّهِ=Allah | شَطَطًا=an excessive transgression.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Al-Qurṭubī then preserves a second reading from Qatāda: that it refers to the foolish among the jinn more broadly — 'the foolish of the jinn disobeyed Him just as the foolish of mankind disobeyed Him.'" — The provided al-Qurṭubī text truncates after "قال قتادة : عصاه" and does not show the parallel-to-mankind phrasing. Qatāda's second reading is partially confirmed (polytheists among the jinn, not Iblīs specifically), but the quoted comparison to "the foolish of mankind" cannot be verified from the data supplied. May be accurate from the full text, but should not be presented in quotation marks on this basis.
+
+All other verifiable claims pass:
+- Attribution of *safīhunā* = Iblīs to Mujāhid, Ibn Jurayj, and Qatāda via al-Qurṭubī is correct: "السفيه هنا إبليس في قول مجاهد وابن جريج وقتادة" ✓
+- Al-Baghawī glossing *safīhunā* as *jāhilunā* is confirmed verbatim: «جاهلنا» ✓
+- Al-Muyassar independently confirms Iblīs identification: "وهو إبليس" ✓
+- Root س-ف-ه analyzed correctly; the classical lexical contrasts with *ḥilm* and *rushd* are standard and noted as drawn from Lisān al-ʿArab and Mufradāt al-Rāghib, which the frontmatter honestly declares
+- Arabic text is reproduced exactly ✓
+- 72:3 cross-reference (no wife, no son) is accurate ✓
+- شَطَطًا rendered "outrageous transgression" aligns with al-Jalālayn's "غلوا في الكذب" and al-Baghawī's "كذباً وعدواناً" ✓
+
+SUMMARY: The reflection is well-grounded and tafsir attributions are solid; the single moderate flag is a partially unverifiable Qatāda quotation whose comparative clause ("just as the foolish of mankind") exceeds what the supplied al-Qurṭubī excerpt confirms.

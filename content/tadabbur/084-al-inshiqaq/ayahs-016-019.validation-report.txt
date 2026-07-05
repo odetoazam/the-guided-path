@@ -1,0 +1,29 @@
+Enhanced Validation Report
+File: content/tadabbur/084-al-inshiqaq/ayahs-016-019.md
+Ayah: 84:16
+Date: 2026-06-18T16:44:35
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَلَآ=But nay! | أُقْسِمُ=I swear | بِٱلشَّفَقِ=by the twilight glow,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [INFORMATIONAL] "The Arabs had a word for exactly this light, this specific redness" — Accurate for the dominant view. Al-Jalālayn, al-Qurṭubī, al-Muyassar, and al-Baghawī all confirm *ash-shafaq* = redness in the horizon after sunset. Al-Baghawī does note a minority position ("*al-bayāḍ alladhī yaʿqubu tilka l-ḥumra*" — the whiteness that follows that redness) and Mujāhid's fringe view (the whole day), neither mentioned in the reflection. Omitting minority positions in a tadabbur is not an error; it's within editorial discretion.
+- [INFORMATIONAL] "the verb is in Form IV, *uqsimu*" — Correct. أُقْسِمُ carries a ḍamma on the alif, confirming Form IV (Afʿala: *aqsama* → *uqsimu*), distinguished from Form I present *aqsimu* which would carry a fatḥa. The reflection's claim holds.
+- Al-Jalālayn citation (*lā zāʾida*) — verified exactly: «لا زائدة». Accurate.
+- Al-Qurṭubī citation (*lā ṣila*, reading as *fa-uqsimu*) — verified exactly: «فلا أقسم أي فأقسم و(لا) صلة». Accurate.
+
+SUMMARY: All linguistic and tafsir claims in the provided text are accurate and consistent with the reference data; no errors warranting a flag.

@@ -1,0 +1,24 @@
+Enhanced Validation Report
+File: content/tadabbur/039-az-zumar/ayahs-056-058.md
+Ayah: 39:56
+Date: 2026-06-06T04:32:43
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَن=Lest | تَقُولَ=should say | نَفْسٌ=a soul, | يَـٰحَسْرَتَىٰ=`Oh! My regret | عَلَىٰ=over | مَا=what | فَرَّطتُ=I neglected | فِى=in | جَنۢبِ=regard to | ٱللَّهِ=Allah | وَإِن=and that | كُنتُ=I was | لَمِنَ=surely, among | ٱلسَّـٰخِرِينَ=the mockers.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: ERROR
+ISSUES:
+- Could not run Claude check: Command failed: claude -p --system-prompt "You are a rigorous Islamic scholarship validator for Ayah
+SUMMARY: Claude semantic check failed

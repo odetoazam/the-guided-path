@@ -1,0 +1,28 @@
+Enhanced Validation Report
+File: content/tadabbur/057-al-hadid/ayah-021.md
+Ayah: 57:21
+Date: 2026-06-12T17:47:43
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: سَابِقُوٓاْ=Race | إِلَىٰ=to | مَغْفِرَةٍ=(the) forgiveness | مِّن=from | رَّبِّكُمْ=your Lord, | وَجَنَّةٍ=and a Garden | عَرْضُهَا=its width | كَعَرْضِ=(is) like (the) width | ٱلسَّمَآءِ=(of) the heaven | وَٱلْأَرْضِ=and the earth, | أُعِدَّتْ=prepared | لِلَّذِينَ=for those who | ءَامَنُواْ=believe | بِٱللَّهِ=in Allah | وَرُسُلِهِۦ‌ۚ=and His Messengers. | ذَٲلِكَ=That | فَضْلُ=(is the) Bounty | ٱللَّهِ=(of) Allah, | يُؤْتِيهِ=He gives | مَن=(to) whom | يَشَآءُ‌ۚ=He wills. | وَٱللَّهُ=And Allah | ذُو ٱلْفَضْلِ=(is) the Possessor of Bounty, | ٱلْعَظِيمِ=the Great.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "Both are Form III. Both summon you to a race." — The Form III identification of both سَابِقُوٓاْ and سَارِعُوٓاْ is morphologically correct, and the root-level distinction between s-b-q (precedence) and s-r-ʿ (speed) is lexically sound. However, the reflection presents the "mutual competition requiring an other" interpretation of Form III as the primary theological payload with high confidence, when classical mufassirun (Baghawi, Jalalayn, Muyassar) uniformly gloss سَابِقُوٓاْ simply as سَارِعُوٓاْ — hastening — without foregrounding the reciprocal-opponent dimension. The morphological reasoning is not wrong; it is stated more categorically than the tafsir tradition warrants.
+
+No CRITICAL issues found. Arabic text in the reflection matches the authentic Arabic (diacritical variation only). أُعِدَّتْ correctly identified as Form IV passive of ع-د-د. The 3:133 comparison is accurate — سَارِعُوٓاْ does appear there. The passage context (57:21 following 57:20's dunya diagnosis) is accurate. Baghawi's فبين أن أحداً لا يدخل الجنة إلا بفضل الله is consistent with the reflection's "striving-and-grace" framing.
+
+SUMMARY: Morphologically rigorous and tafsir-consistent; one moderate flag for presenting the Form III "mutual opponent" reading as a settled conclusion where the classical commentators simply gloss it as "hasten" without drawing that dimension out explicitly.

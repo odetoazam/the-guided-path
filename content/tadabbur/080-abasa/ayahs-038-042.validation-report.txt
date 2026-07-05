@@ -1,0 +1,29 @@
+Enhanced Validation Report
+File: content/tadabbur/080-abasa/ayahs-038-042.md
+Ayah: 80:38
+Date: 2026-06-18T14:31:06
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وُجُوهٌ=Faces, | يَوْمَئِذٍ=that Day | مُّسْفِرَةٌ=(will be) bright,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+
+- [MODERATE] "Al-Qurtubī catches exactly this when he says these are faces 'shining, luminous — having already known the success and the bliss that is theirs.'" — Al-Qurtubī's text (مشرقة مضيئة، قد علمت مالها من الفوز والنعيم) confirms radiance and prior knowledge of reward, but says nothing about the "light uncovered vs. applied" distinction that is the reflection's central claim for musfira. Crediting him as validation of that specific theological frame — that the light was always there and is merely unveiled — overstates what his gloss supports. That interpretive angle comes from the s-f-r root analysis, not from Qurtubī.
+
+- [MODERATE] "Sufra (سُفْرَة) — the spread of food laid out, uncovered, revealed for the meal" — The reflection presents "uncovering" as the primary etymological force connecting sufra to s-f-r, but the classical connection runs through safar/travel: sufra in the lexicons means travel provisions (food for the road), not primarily food that is unveiled. The "uncovering" reading is a secondary or inferential sense. Presenting it alongside safar, sifr, and asfara — all of which have direct lexical grounding in "uncovering" — inflates this example and could mislead a reader into treating the chain as uniformly solid.
+
+SUMMARY: The core root analysis of س-ف-ر is linguistically defensible and the tafsir citations (Jalālayn, Baghawī, Qurtubī) are accurately quoted, but the reflection overstates Qurtubī's support for its central "unveiled light" frame, and the sufra etymological example is the weakest link in an otherwise well-grounded root chain.

@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/074-al-muddaththir/ayahs-032-037.md
+Ayah: 74:32
+Date: 2026-06-17T01:20:21
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: كَلَّا=Nay! | وَٱلْقَمَرِ=By the moon,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR — no severity flag required] The explanation of Form IV as something that "makes it happen — can begin a state, enter into it, turn something on" is a pedagogical simplification. In classical Arabic grammar Form IV (أفعل) is primarily *causative* (making an external object do something), not inchoative. *Adbara* and *asfara* are better described as intransitive/stative lexical exceptions within Form IV, not as canonical examples of "beginning a state." This does not misidentify the root or verb form — the root analysis for د-ب-ر is lexically correct — but a grammar-literate reader may notice the framing. It does not reach MODERATE because the claim is not stated as a technical definition, no false authority is cited for it, and the downstream image ("the night turned its back") is accurate regardless.
+
+- [UNVERIFIABLE from provided data] "Classical commentary relates that one of their leaders scoffed — *only nineteen?* — boasting that a handful of his men could overpower the keepers of Hell." The Qurtubi excerpt provided does confirm the category ("الذين زعموا أنهم يقاومون خزنة جهنم") which corroborates the general incident, but the specific detail about "a handful of his men" is not present in the provided reference data. This is widely attested in Ibn Kathir and elsewhere, but should be noted as unverifiable from the supplied sources alone.
+
+All four scholar attributions check out exactly against the provided texts:
+- Al-Farrā' via al-Qurtubi → *ṣilat al-qasam* ✓
+- Al-Baghawi → *ḥaqqan* ✓
+- Al-Jalālayn → *istiftāḥ bi-maʿnā alā* ✓
+- Al-Ṭabari via al-Qurtubi → *waqf* as rebuttal to the boasters ✓
+
+The composite "both readings are true at once" synthesis is presented honestly as the author's interpretive position, not as a reported scholarly consensus. No inversions.
+
+SUMMARY: The reflection accurately renders all four classical positions on *kallā* and derives the *adbara* image correctly from the root; only a simplified Form IV characterization and one unverifiable narrative detail fall short of strict rigor, neither rising to MODERATE.

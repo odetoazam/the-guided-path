@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/009-at-tawbah/ayah-029.md
+Ayah: 9:29
+Date: 2026-05-14T23:00:48
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: قَـٰتِلُواْ=Fight | ٱلَّذِينَ=those who | لَا=(do) not | يُؤْمِنُونَ=believe | بِٱللَّهِ=in Allah | وَلَا=and not | بِٱلْيَوْمِ=in the Day | ٱلْأَخِرِ=the Last, | وَلَا=and not | يُحَرِّمُونَ=they make unlawful | مَا=what | حَرَّمَ ٱللَّهُ=Allah has made unlawful | وَرَسُولُهُۥ=and His Messenger, | وَلَا=and not | يَدِينُونَ=they acknowledge | دِينَ=(the) religion | ٱلْحَقِّ=(of) the truth, | مِنَ=from | ٱلَّذِينَ=those who | أُوتُواْ=were given | ٱلْكِتَـٰبَ=the Scripture, | حَتَّىٰ=until | يُعْطُواْ=they pay | ٱلْجِزْيَةَ=the jizyah | عَن يَدٍ=willingly, | وَهُمْ=while they | صَـٰغِرُونَ=(are) subdued.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+
+- [MODERATE] "Ibn Kathīr, al-Ṭabarī, and al-Qurṭubī all locate its sabab in that frontier crisis" — The provided al-Baghawī records an explicit competing tradition via al-Kalbī: **"نزلت في قريظة والنضير من اليهود"** (revealed concerning Banū Qurayẓa and Banū al-Naḍīr, not the Tabuk/Roman frontier). Mujāhid's Tabuk reading also appears in al-Baghawī, confirming this is a real ikhtilāf — not a settled question. Further, the provided al-Qurṭubī excerpt says nothing about the sabab or Tabuk; that attribution cannot be confirmed from the reference data supplied.
+
+- [MODERATE] "Al-Rāzī, in his Mafātīḥ al-Ghayb, explicitly notes that the partitive force here means the verse is not a blanket ruling on all Jews and Christians" — Al-Rāzī's Mafātīḥ al-Ghayb is not among the provided reference sources. The claim may be accurate, but it cannot be verified from the data given; it should not appear as a confirmed citation without the source present.
+
+- [MODERATE] "Ibn Kathīr ties the four descriptions tightly to that historical group whose hostility had become open and military" — Ibn Kathīr is not among the provided reference sources. Same note: cannot verify from what was supplied.
+
+No CRITICAL errors found. The Arabic text matches the authenticated source. The partitive *min* analysis is linguistically sound and well-attested. The translation of عَن يَدٍ as "out of hand" is a recognized classical reading (al-Muyassar confirms the submission/humiliation frame: "خاضعين أذلاء"), and the reflection correctly notes it is a composite sketch of multiple interpretations rather than a collapsed single reading.
+
+SUMMARY: Linguistically and textually clean, but the sabab is presented as unanimous consensus when al-Baghawī preserves a direct competing tradition (Banū Qurayẓa/Naḍīr vs. Tabuk), and two specific attributions to al-Rāzī and Ibn Kathīr fall outside the provided reference data.

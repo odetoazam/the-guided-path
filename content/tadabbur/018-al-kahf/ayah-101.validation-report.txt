@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/018-al-kahf/ayah-101.md
+Ayah: 18:101
+Date: 2026-05-14T23:14:17
+
+[1] Arabic text: ✅ pass
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ٱلَّذِينَ=Those | كَانَتْ=had been | أَعْيُنُهُمْ=their eyes | فِى=within | غِطَآءٍ=a cover | عَن=from | ذِكْرِى=My remembrance, | وَكَانُواْ=and were | لَا=not | يَسْتَطِيعُونَ=able | سَمْعًا=(to) hear.
+
+[4] quran-validator: ✅ pass
+  Passed:   1
+  Warnings: 0
+  Failed:   0
+
+✅ All 1 verse(s) verified against authentic Uthmani text.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Ibn Kathir says these were people who neglected Allah's reminder, turning a blind eye and a deaf ear to it, refusing guidance and truth." — Ibn Kathir is not among the provided reference sources (Jalalayn, Muyassar, Qurtubi, Baghawi). This specific paraphrase cannot be verified from the data supplied. It is presented as a documented scholarly position, not as an interpretive claim. The paraphrase is plausible for Ibn Kathir's style but is unverifiable here.
+
+- [MODERATE] "Al-Tabari explains that they did not look into Allah's signs in a way that would make them reflect, remember, turn back, affirm Allah's oneness, and submit to His command and prohibition. He also transmits from Mujahid that 'they could not hear' means they did not understand or know." — Al-Tabari is likewise absent from the provided reference data. Both the direct attribution and the Mujahid transmission are stated as documented fact and cannot be confirmed from the supplied sources.
+
+**All verifiable content passes:**
+- Arabic text is correctly reproduced. ✓
+- Translation is accurate to the word-by-word reference. ✓
+- Morphology comments (roots كون, عين, غطو, ذكر, طوع, سمع) are correct. ✓
+- Al-Muyassar attribution is precise and faithful to the Arabic text. ✓
+- Grammatical claim that *alladhina* functions as a descriptor of the disbelievers from the prior ayah is confirmed by both Jalalayn (*badal min al-kafirin*) and Qurtubi (*na't lil-kafirin*). ✓
+- The discussion of *ghita'* as a covering over sight of the signs aligns with Baghawi (*ما يغطى به الشيء ويستره*) and Qurtubi (*بمنزلة من عينه مغطاة فلا ينظر إلى دلائل الله*). ✓
+- The treatment of *la yastati'una sam'an* as spiritual incapacity rather than physical deafness aligns with Baghawi (*سمع القبول والإيمان*). ✓
+
+SUMMARY: The reflection is linguistically and theologically sound against all verifiable sources; the only flag is two introductory scholar citations — Ibn Kathir and Al-Tabari — that are stated as documented fact but fall outside the provided reference data and cannot be confirmed here.

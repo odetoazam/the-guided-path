@@ -1,0 +1,29 @@
+Enhanced Validation Report
+File: content/tadabbur/064-at-taghabun/ayah-002.md
+Ayah: 64:2
+Date: 2026-06-13T09:57:21
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: هُوَ=He | ٱلَّذِى=(is) the One Who | خَلَقَكُمْ=created you | فَمِنكُمْ=and among you | كَافِرٌ=(is) a disbeliever | وَمِنكُم=and among you | مُّؤْمِنٌ‌ۚ=(is) a believer. | وَٱللَّهُ=And Allah | بِمَا=of what | تَعْمَلُونَ=you do | بَصِيرٌ=(is) All-Seer.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+
+- [MODERATE] "The fork is *after* the source... Allah did not say He created the believer and the disbeliever. He said He created *you*, and *then* the two appeared. The naming of the two parties comes after His creating verb has already finished its work." — The fā' argument is linguistically defensible, but the reflection uses it to establish a free-will framing (the split is temporally and causally *downstream* of creation) without disclosing that the dominant classical position reads the verse differently. Al-Jalalayn glosses the division as "في أصل الخلقة" — *in the very origin of creation* — and both Qurtubi and Baghawi cite Ibn Abbas explicitly: "إن الله خلق بني آدم مؤمنا وكافرا" (Allah created the children of Adam as believer and disbeliever), treating the two categories as intrinsic to the creative act itself, not produced by subsequent human choice. The reflection presents its grammatical reading as if it were the plain sense of the verse, but it is a contested theological inference that the major classical mufassirūn would not have endorsed in that framing.
+
+- [MODERATE] Translation of مُّؤْمِنٌ as "one who has come into trust" — while the root ʾ-m-n does carry the semantic field of safety/security/trust (confirmed in Mufradāt al-Rāghib), rendering muʾmin primarily through this dimension rather than the standard "believer/one who believes" presents an interpretive emphasis as though it were the primary lexical meaning. This is a legitimate secondary sense, but without flagging it as such it reads as a settled translation rather than a chosen lens.
+
+SUMMARY: The reflection's morphological and etymological analysis is accurate throughout, but its fā'-based argument for a free-will-favoring "downstream" reading of the kufr/imān split is stated as plain grammatical fact while quietly suppressing the dominant classical tafsir position — Ibn Abbas via Qurtubi and Baghawi — that the division belongs to the original act of creation itself.

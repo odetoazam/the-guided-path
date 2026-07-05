@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/070-al-maarij/ayahs-040-041.md
+Ayah: 70:40
+Date: 2026-06-15T02:08:11
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَلَآ=But nay! | أُقْسِمُ=I swear | بِرَبِّ=by (the) Lord | ٱلْمَشَـٰرِقِ=(of) the rising | وَٱلْمَغَـٰرِبِ=and the settings, | إِنَّا=that We | لَقَـٰدِرُونَ=(are) surely Able
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Here is the texture many of the reciters and commentators feel in it: the **lā** reaches backward, not forward. It is brushing something aside before the oath even begins." — The four provided classical sources report only two documented positions: al-Jalālayn (لا زائدة, added for emphasis) and al-Qurṭubī (لا صلة, connective/linking particle). Neither source — nor al-Muyassar nor al-Baghawī — describes a "backward-reaching dismissal" function. This reading is the author's own rhetorical synthesis, presented under the cover of unnamed "reciters and commentators." The synthesis is plausible as tadabbur, but it should not be attributed, even loosely, to unspecified classical scholars.
+
+VERIFIED ACCURATE (no action needed):
+- لا as **زائدة** attributed to al-Jalālayn: exact match (لا زائدة in the provided text ✓)
+- لا as **صلة** attributed to al-Qurṭubī: exact match (و"لا" صلة in the provided text ✓)
+- Plural mashāriq/maghārib: confirmed across all four tafsirs (al-Baghawī: مشرق كل يوم من أيام السنة ومغربه; al-Jalālayn: للشمس والقمر وسائر الكواكب ✓)
+- Arabic text and transliteration: match the authentic Arabic exactly ✓
+
+SUMMARY: The reflection's two explicit tafsir attributions are correct and well-sourced; the single MODERATE issue is attributing the "backward-pointing dismissal" reading of لا to unspecified classical authorities when no provided source supports that specific function.

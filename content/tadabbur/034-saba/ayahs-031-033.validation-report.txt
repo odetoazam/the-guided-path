@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/034-saba/ayahs-031-033.md
+Ayah: 34:31
+Date: 2026-05-16T22:32:19
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَقَالَ=And say | ٱلَّذِينَ=those who | كَفَرُواْ=disbelieve, | لَن=`Never will | نُّؤْمِنَ=we believe | بِهَـٰذَا=in this | ٱلْقُرْءَانِ=Quran | وَلَا=and not | بِٱلَّذِى=in (that) which | بَيْنَ يَدَيْهِۗ=(was) before it.` | وَلَوْ=But if | تَرَىٰٓ=you (could) see | إِذِ=when | ٱلظَّـٰلِمُونَ=the wrongdoers | مَوْقُوفُونَ=will be made to stand | عِندَ=before | رَبِّهِمْ=their Lord, | يَرْجِعُ=will throw back | بَعْضُهُمْ=some of them | إِلَىٰ=to | بَعْضٍ=others | ٱلْقَوْلَ=the word. | يَقُولُ=Will say | ٱلَّذِينَ=those who | ٱسْتُضْعِفُواْ=were oppressed | لِلَّذِينَ=to those who | ٱسْتَكْبَرُواْ=were arrogant, | لَوْلَآ=`If not | أَنتُمْ=(for) you | لَكُنَّا=certainly we (would) have been | مُؤْمِنِينَ=believers.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "That word — لن (*lan*) — is the strongest negation Arabic has for the future... We absolutely never will." — The directional claim (لن is stronger than لا for future negation) is broadly correct and accepted by classical grammarians. However, the gloss "absolutely never will" imports a sense of ta'bīd (eternal/absolute negation) that classical grammarians explicitly dispute. Ibn Hisham in Mughni al-Labib refutes the position that لن grammatically entails eternality, treating it as emphatic future negation, not absolute. The word-by-word reference provided here gives simply "Never will" — not "absolutely never will." The contextual reading (these disbelievers are making an emphatic confident refusal) is defensible, but the grammatical claim overstates what لن itself encodes. A careful reader taught "لن means absolutely never" will misapply it elsewhere in the Quran.
+
+Everything else checked:
+- Form X active/passive distinction (اسْتَكْبَرُوا active vs. اسْتُضْعِفُوا passive) — morphologically accurate; vowel pattern (fatḥa on sīn = active, ḍamma = passive) is correctly stated
+- Three-round argument structure across 31-33 — accurate to the text
+- "bayna yadayhi" = previous scriptures — confirmed by all four tafsir sources (Jalālayn, Muyassar, Qurṭubī, Baghawī)
+- Identification of the two groups as followers/weak vs. leaders/arrogant — confirmed by Baghawī ("الأتباع" vs. "القادة والأشراف") and Jalālayn
+- Form X flavors (seek, consider-oneself, reflexive action) with istaghfara and istakbara as examples — lexically sound
+- Arabic text in the frontmatter matches the authentic Arabic provided
+
+SUMMARY: The reflection is morphologically rigorous and tafsir-grounded throughout; the single moderate issue is an overstated gloss on لن that conflates emphatic future negation with absolute eternal negation, a distinction classical grammarians took seriously.

@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/076-al-insan/ayahs-015-016.md
+Ayah: 76:15
+Date: 2026-06-18T10:03:30
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَيُطَافُ=And will be circulated | عَلَيْهِم=among them | بِـَٔـانِيَةٍ=vessels | مِّن=of | فِضَّةٍ=silver | وَأَكْوَابٍ=and cups | كَانَتْ=that are | قَوَارِيرَا۟=(of) crystal.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical errors found. Roots cited (Twf, Any, fDD, kwb, kwn, qrr) are all correct per the morphology note and word-by-word reference.
+- The passive-voice theology ("no server named so no debt is felt") is interpretive meditation, appropriately presented as the author's reflection — not attributed to a classical scholar. Al-Qurtubi does name the servants (*al-khadam*) explicitly, but the reflection pre-empts this by acknowledging them at 76:19; no contradiction.
+- "ʿalā ḥubbihi" rendered as "in spite of love for it" — standard, attested reading. Not a claim that needs flagging.
+- *qawārīrā* glossed as "crystal" aligns with the word-by-word data; the silver-crystal paradox is confirmed by al-Muyassar ("zujāj min fiḍḍah"). No overreach here.
+- The *jazāʾ wifāqā* invocation (from 78:26) applied as a structural frame for 76:15 is cross-referential tadabbur, not a misattribution.
+- No Arabic text errors; the quoted Arabic matches the authentic text provided.
+
+SUMMARY: Linguistic analysis is accurate, scholar attributions are absent (no one to invert), and all interpretive extensions are properly framed as contemplation rather than documented fact — no errors to correct.

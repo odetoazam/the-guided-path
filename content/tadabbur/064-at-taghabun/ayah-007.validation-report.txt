@@ -1,0 +1,29 @@
+Enhanced Validation Report
+File: content/tadabbur/064-at-taghabun/ayah-007.md
+Ayah: 64:7
+Date: 2026-06-13T09:34:48
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: زَعَمَ=Claim | ٱلَّذِينَ=those who | كَفَرُوٓاْ=disbelieve | أَن=that | لَّن=never | يُبْعَثُواْ‌ۚ=will they be raised. | قُلْ=Say, | بَلَىٰ=`Yes, | وَرَبِّى=by my Lord, | لَتُبْعَثُنَّ=surely you will be raised; | ثُمَّ=then | لَتُنَبَّؤُنَّ=surely you will be informed | بِمَا=of what | عَمِلْتُمْ‌ۚ=you did. | وَذَٲلِكَ=And that | عَلَى=for | ٱللَّهِ=Allah | يَسِيرٌ=(is) easy.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] Al-Qurtubī quote "الزَّعْمُ هو القول بالظن" — confirmed verbatim from provided Qurtubi tafsir: "والزعم هو القول بالظن"
+- [PASS] Shurayḥ quote "لكل شيء كنية وكنية الكذب زعموا" — confirmed verbatim; attribution to Shurayḥ correct per Qurtubi: "وقال شريح : لكل شيء كنية وكنية الكذب زعموا"
+- [PASS] "a figure named al-ʿĀṣ ibn Wā'il" — Qurtubi names him directly in this verse's context: "نزلت في العاص بن وائل السهمي مع خباب"; the reflection hedges appropriately ("the tradition reports") and omits Khabbāb, which is a narrative simplification not an inversion
+- [CANNOT VERIFY] "the last of the surahs that open with tasbīḥ" — outside scope of provided reference data. Note: Surah 87 (Al-Aʿlā) also opens with tasbīḥ and follows 64 in ordering. If the author means the consecutive musabbiḥāt group (57, 59, 61, 62, 64), the claim is defensible as a recognized classical grouping; if read as "last tasbīḥ-opening surah in the Quran," it is incorrect. The provided tafsir sources do not address this, so I cannot rule on it — the author should verify their intended scope.
+
+SUMMARY: All verifiable linguistic and scholarly claims are accurate and honestly hedged; the one structural claim about At-Taghabun's place among the musabbiḥāt surahs cannot be confirmed from the supplied reference data and warrants a secondary check against the full Quranic sequence.

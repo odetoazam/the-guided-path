@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/098-al-bayyinah/ayah-004.md
+Ayah: 98:4
+Date: 2026-06-20T06:06:25
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَمَا=And not | تَفَرَّقَ=became divided | ٱلَّذِينَ=those who | أُوتُواْ=were given | ٱلْكِتَـٰبَ=the Book, | إِلَّا=until | مِنۢ بَعْدِ مَا=after what | جَآءَتْهُمُ=came (to) them | ٱلْبَيِّنَةُ=(of) the clear evidence.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "This is not my invention. This is what the classical commentators describe" — followed by the specific speech: *"A prophet is coming. We know his signs. When he arrives, we will be the first behind him, and we will defeat you."* — The unity-before-arrival claim is supported by Al-Baghawi ("لم يزل أهل الكتاب مجتمعين في تصديق محمد حتى بعثه الله") and Al-Muyassar ("فكانوا مجتمعين على صحة نبوته"). However, the specific confrontational dialogue addressed to idol-worshippers is not found in any of the four tafsir sources provided for this ayah. The closest parallel tradition (People of the Book invoking this expectation against pagans) appears in tafsirs of 2:89, not in the Jalalayn, Muyassar, Qurtubi, or Baghawi excerpts given here. Attributing this specific speech to "what the classical commentators describe" — for *this* ayah — overstates what the provided references support.
+
+All other claims pass:
+- Al-Baghawi attribution is accurately rendered, including the correct framing that he is gathering "the mufassireen" (قال المفسرون), which the reflection captures with "gathering the words of the early exegetes."
+- Al-Muyassar attribution is accurate: "تبينوا" (they verified/ascertained) is correctly rendered as "they verified it."
+- Form V morphological analysis (*tafaʿʿala*, reflexive, intensifying shadda) is linguistically sound.
+- Root f-r-q → *furqān*, *firqah* is lexically correct.
+- The theological framing (division emerging from within, Bayyinah as occasion not cause) is well supported by the grammar and consistent with the classical commentaries.
+
+SUMMARY: One MODERATE overstatement — a specific confrontational speech to idol-worshippers is attributed to "classical commentators" on this ayah, but the provided reference tafsirs do not contain it; the broader unity-before-arrival narrative they *do* support is sufficient, and the unsupported dialogue should either be removed or clearly marked as a scholarly reconstruction drawn from traditions on 2:89.

@@ -1,0 +1,39 @@
+Enhanced Validation Report
+File: content/tadabbur/054-al-qamar/ayah-002.md
+Ayah: 54:2
+Date: 2026-06-09T23:15:00
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَإِن=And if | يَرَوْاْ=they see | ءَايَةً=a Sign, | يُعْرِضُواْ=they turn away | وَيَقُولُواْ=and say, | سِحْرٌ=`Magic | مُّسْتَمِرٌّ=continuing.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+**VERDICT: PASS**
+
+**ISSUES:**
+
+- [MINOR/NOTE] Translation field renders *mustamirr* as "continuing on" — this commits to the Jalalayn *dāʾim* (permanent/ongoing) reading, but the provided tafsir data contains a directly contradictory reading: al-Muyassar gives "سحر باطل ذاهب مضمحل لا دوام له" (false, passing magic with *no* permanence), and al-Baghawi attributes the "ذاهب يبطل" (it will pass and be invalidated) reading to Mujahid and Qatada. The frontmatter `translation:` field presents no hedge. This is not a factual error — Jalalayn's *dāʾim* is a documented scholarly position — but the translation locks a genuinely contested word. The body text explicitly announces the ambiguity and calls it a deliberate setup ("the greatest commentators could not agree on it"), so the reflection itself handles this honestly. Flag for editorial consistency between frontmatter and body only.
+
+- [CONFIRM ACCURATE] Al-Qurtubi narration attributed to Ibn Abbas with mountain names Abū Qubays and Quʿayqiʿān — confirmed verbatim against the supplied Qurtubi excerpt: "نصف على أبي قبيس ونصف على قعيقعان."
+
+- [CONFIRM ACCURATE] Claim that Qurtubi uses this ayah to prove they *saw* the splitting — confirmed: "هذا يدل على أنهم رأوا انشقاق القمر."
+
+- [CONFIRM ACCURATE] Root ع-ر-ض analysed as "width/breadth/the side of a thing," Form IV *aʿraḍa* = "to turn away" — lexically sound and consistent with the classical lexicon tradition cited in the morphology note.
+
+- [CONFIRM ACCURATE] *Mustamirr* identified as Form X active participle of م-ر-ر — morphologically correct (pattern مُسْتَفْعِل from اِسْتَمَرَّ).
+
+- [CONFIRM ACCURATE] Grammatical argument that the conditional *in yaraw* with imperfect verbs shifts the event from a single past incident to a standing behavioral pattern — this is sound Arabic grammar analysis.
+
+- [CONFIRM ACCURATE] *Āyatan* (indefinite) analysed as deliberately un-specifying the sign — consistent with the Jalalayn reading which says "معجزة له" without specifying, and the conditional structure supports this reading.
+
+**SUMMARY:** No critical or moderate errors; the reflection is linguistically careful, its Qurtubi attribution is precise, its morphological claims are correct, and the one translation commitment to a contested word is disclosed and addressed in the body text itself.

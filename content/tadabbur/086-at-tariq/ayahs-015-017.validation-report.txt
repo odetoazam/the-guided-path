@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/086-at-tariq/ayahs-015-017.md
+Ayah: 86:15
+Date: 2026-06-18T17:39:47
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّهُمْ=Indeed, they | يَكِيدُونَ=are plotting | كَيْدًا=a plot,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "This is a known rhetorical move in the Quran called *mushākala* or *muqābala* — answering speech with its own shape" — the two terms are used as synonyms but are technically distinct devices. *Mushākala* is the precise term here: using a word in the form/manner of another word used by the interlocutor, even when the literal sense differs (Allah "plotting" in response to human "plotting"). *Muqābala* refers to parallel or contrasting structural matching. The underlying phenomenon described is correct and the example at 3:54 is apt, but presenting them as interchangeable overstates their equivalence. This is a terminological imprecision, not a claim error.
+
+NOTES (non-flagged, for completeness):
+- Root k-y-d, verb form (imperfect), and cognate accusative analysis all align with the word-by-word reference provided.
+- The tafsir sources (Jalalayn, Muyassar, Qurtubi) confirming the verses address the disbelievers' schemes against the Prophet ﷺ are consistent with the historical framing in the reflection.
+- The Sīra detail about the assassination plot (blood spread across clans) is standard sīra material and does not conflict with provided sources; it is not verifiable against the tafsir excerpts given, but makes no false claim.
+- The *mafʿūl muṭlaq* explanation is linguistically accurate. The example *kallama llāhu mūsā taklīmā* (4:164) is a canonical classroom example of the device.
+- 8:30 and 3:54 cross-references are correctly quoted and contextually apt.
+- 86:4 and 86:13-14 quoted accurately.
+
+SUMMARY: The reflection is linguistically sound and tafsir-consistent throughout; the only flag is using *mushākala* and *muqābala* interchangeably where *mushākala* is the more precise term for this device.

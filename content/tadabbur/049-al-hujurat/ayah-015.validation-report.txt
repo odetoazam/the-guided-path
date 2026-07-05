@@ -1,0 +1,44 @@
+Enhanced Validation Report
+File: content/tadabbur/049-al-hujurat/ayah-015.md
+Ayah: 49:15
+Date: 2026-06-08T17:14:59
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّمَا=Only | ٱلْمُؤْمِنُونَ=the believers | ٱلَّذِينَ=(are) those who | ءَامَنُواْ=believe | بِٱللَّهِ=in Allah | وَرَسُولِهِۦ=and His Messenger, | ثُمَّ=then | لَمْ=(do) not | يَرْتَابُواْ=doubt | وَجَـٰهَدُواْ=but strive | بِأَمْوَٲلِهِمْ=with their wealth | وَأَنفُسِهِمْ=and their lives | فِى=in | سَبِيلِ=(the) way | ٱللَّهِ‌ۚ=(of) Allah. | أُوْلَـٰٓئِكَ=Those | هُمُ=[they] | ٱلصَّـٰدِقُونَ=(are) the truthful.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- None identified.
+
+SUMMARY: All linguistic claims, tafsir attributions, and morphological data in the visible portion of this reflection are accurate and well-grounded in the provided reference material.
+
+---
+
+**Spot-checks performed:**
+
+- **إِنَّمَا as ḥaṣr particle** — Standard grammatical analysis; correct. The restriction/exclusivity function is uncontested in Arabic grammar.
+
+- **Morphology note** — آمَنُوا Form IV (√أ-م-ن), يَرْتَابُوا Form VIII (√ر-ي-ب = "ryb"), جَاهَدُوا Form III (√ج-ه-د) — all three are correct per classical verb patterns.
+
+- **Al-Qurtubi sabab attribution** — "when these verses came down, the Bedouin swore oaths that they were believers in secret and in public — and they were not being truthful" maps exactly to the provided Qurtubi text: *فلما نزلت حلف الأعراب أنهم مؤمنون في السر والعلانية وكذبوا* — accurate, no overstatement.
+
+- **The shift from المؤمنون to الصادقون** — The central thesis is grounded. Jalalayn opens by glossing «إِنَّمَا الْمُؤْمِنُونَ» as *أي الصادقون في إيمانهم* — the equation of true believers with ṣādiqūn is the tafsir tradition's own reading, not an interpretive leap.
+
+- **49:14 context** — The description of the Bedouin claiming *āmannā* and being redirected to *aslamnā* is accurate Quranic context consistent with all four provided tafsir sources.
+
+- **Damir al-faṣl (هُمُ)** rendered as "precisely they" — grammatically correct; the pronoun of separation adds exclusivity, and the translation captures it without exaggerating.
+
+No claims are stated as documented facts that exceed what the sources support. Interpretive passages ("a wall that keeps the unworthy out is also a wall that keeps the worthy safe") are appropriately framed as theological reflection, not attributed scholarship.

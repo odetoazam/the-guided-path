@@ -1,0 +1,37 @@
+Enhanced Validation Report
+File: content/tadabbur/033-al-ahzab/ayah-065.md
+Ayah: 33:65
+Date: 2026-05-15T13:12:42
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: خَـٰلِدِينَ=Abiding | فِيهَآ=therein | أَبَدًاۖ=forever, | لَّا=not | يَجِدُونَ=they will find | وَلِيًّا=any protector | وَلَا=and not | نَصِيرًا=any helper.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+**VERDICT: PASS**
+
+**ISSUES:**
+
+- [PASS] Root identifications (خ-ل-د, و-ج-د, و-ل-ي, ن-ص-ر) are all correct. Word-by-word reference confirms: *yajidūna* = "they will find," *waliyyan* = "any protector," *naṣīrā* = "any helper." No root errors.
+
+- [PASS] "they will find no protector and no helper" — the wali/nasir distinction maps directly onto Jalalayn's gloss: wali = *yaḥfaẓuhum ʿanhā* (preserves them from it); nasir = *yadfaʿuhā ʿanhum* (repels it from them). The reflection's downstream theological distinction between the two is consistent.
+
+- [PASS] Word-order claim (*khālidīna fīhā abadan* vs. *abadan khālidīna*) — verifiable from the provided Arabic text. Order is accurate.
+
+- [PASS] *Saʿīrā* attribution to the preceding ayah — Qurtubi confirms: *"al-saʿīr"* is the word used (33:64), and al-Muyassar confirms it describes a kindled, intensely hot fire. The contextual framing is accurate.
+
+- [UNVERIFIABLE — not an error] The Lisān al-ʿArab citation (*al-dahr al-ṭawīl alladhī laysa bi-maḥdūd* for *abad*), the pre-Islamic usage notes for *khulūd*, and the Mufradāt al-Rāghib citation on *wajada* cannot be confirmed from the reference data provided. The definitions cited are consistent with standard classical Arabic lexicography and are not linguistically implausible, but I cannot positively verify them from the sources supplied here.
+
+- [NOTE] The reflection cuts off mid-sentence during the *wajada* analysis ("hitting upon the thing") — the remaining sections on *waliyyan* and *naṣīrā* were not submitted for review.
+
+**SUMMARY:** Everything verifiable from the provided reference data is accurate — roots, word order, wali/nasir distinction, tafsir alignment, and surah context; three classical lexicon citations cannot be confirmed from the supplied sources but contain nothing linguistically implausible.

@@ -1,0 +1,37 @@
+Enhanced Validation Report
+File: content/tadabbur/076-al-insan/ayah-021.md
+Ayah: 76:21
+Date: 2026-06-18T09:31:16
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: عَـٰلِيَهُمْ=Upon them | ثِيَابُ=(will be) garments | سُندُسٍ=(of) fine silk | خُضْرٌ=green | وَإِسْتَبْرَقٌ‌ۖ=and heavy brocade. | وَحُلُّوٓاْ=And they will be adorned | أَسَاوِرَ=(with) bracelets | مِن=of | فِضَّةٍ=silver, | وَسَقَـٰهُمْ رَبُّهُمْ=and their Lord will give them to drink, | شَرَابًا=a drink | طَهُورًا=pure.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "The ones who poured water for others (76:8) are now poured for — by Allah Himself" — 76:8 reads وَيُطْعِمُونَ الطَّعَامَ (they give food/ṭaʿām), not water or drink. The reflection maps a water-pouring parallel onto a food-giving verse. The thematic contrast (serving → being served; giving → being given to drink) is valid, but the specific citation pins "poured water" to a verse about food. The drink-giving theme is the surah's overall arc, not the act described in 76:8.
+
+- [MINOR] "Al-Qurṭubī and al-Baghawī both record that some of the early reciters — Nāfiʿ, Ḥamzah, Ibn Muḥayṣin — read it ʿāliyahum with a quieted yāʾ" — The provided Baghawī text identifies only "people of Medina and Ḥamzah" for the sākin yāʾ reading; Ibn Muḥayṣin appears exclusively in Qurṭubī's list. Attributing the identical three-name list to both scholars is a mild conflation. Not critical because the qirāʾa itself is accurately documented, just the attribution scope is slightly overstated for Baghawī.
+
+CONFIRMED ACCURATE (against provided reference data):
+- Root ع-ل-و for ʿāliyahum and its link to al-ʿAliyy: correct
+- Both grammatical readings (ẓarf/adverb vs. mubtadaʾ): confirmed by Jalālayn and Qurṭubī
+- Ibn ʿAbbās quote أما رأيت الرجل عليه ثياب يعلوها أفضل منها: verbatim match in Qurṭubī
+- Nāfiʿ/Ḥamzah/Ibn Muḥayṣin for sākin reading: confirmed in Qurṭubī
+- sundus = fine silk / istabraq = heavy brocade distinction: confirmed by all four tafsir sources
+- ḥullū as Form II passive (taḥliya): grammatically correct
+- rabbuhum as sole named agent in the verse: accurate structural observation
+
+SUMMARY: One genuine citation error (76:8 cites food-giving as water-pouring) and a minor scholar-attribution conflation; the core linguistic and tafsir claims are otherwise solidly grounded in the provided reference data.

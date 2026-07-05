@@ -1,0 +1,40 @@
+Enhanced Validation Report
+File: content/tadabbur/077-al-mursalat/ayah-024.md
+Ayah: 77:24
+Date: 2026-06-18T11:58:51
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَيْلٌ=Woe | يَوْمَئِذٍ=that Day | لِّلْمُكَذِّبِينَ=to the deniers.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [INFORMATIONAL] "Some of the early commentators even spoke of it as a valley, a place, in the Fire" — Cannot be verified from the provided reference data (this derives from hadith tradition, e.g. Tirmidhi-line narrations, not the Jalalain/muyassar/Qurtubi/Baghawi excerpts supplied). The hedging ("some of the early commentators even spoke of it") is appropriate and does not overstate; flagging only that the sourcing lies outside the provided data set.
+
+- [INFORMATIONAL] Balaghah claims — jumla ismiyya / thubūt wa dawām permanence, and tanwīn as ta'zīm/taksīr — are classically sound Arabic grammar and rhetoric but are not derivable from the provided tafsir excerpts. They do not contradict any supplied source.
+
+Everything else checks out against reference data:
+
+- وَيْلٌ / يَوْمَئِذٍ / لِّلْمُكَذِّبِينَ word-by-word meanings match exactly.
+- "Third time" at ayah 24 is correct (prior occurrences: 77:15, 77:19).
+- "Ten times in all" is accurate for Al-Mursalat.
+- muyassar's هلاك وعذاب شديد directly supports the characterization of wayl as total doom.
+- Qurtubi explicitly confirms the refrain is repeated throughout the surah proportionate to degrees of denial — consistent with the "tolling bell" framing.
+- Passage context (preceding 77:20–23, the مَاءٍ مَّهِينٍ / firm lodging / measured term sequence) is accurately described and quoted.
+- مُكَذِّبِينَ morphology: root k-dh-b, Form II active participle, is correct.
+- 36:78 paraphrase is accurate.
+- مَهِين glossed as "despised/contemptible" is correct.
+
+SUMMARY: The reflection is linguistically precise and tafsir-consistent; the two informational flags are about sourcing transparency, not errors, and the hedged language in both cases is appropriately cautious.

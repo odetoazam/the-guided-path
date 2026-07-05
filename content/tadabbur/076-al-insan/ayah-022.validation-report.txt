@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/076-al-insan/ayah-022.md
+Ayah: 76:22
+Date: 2026-06-18T09:48:35
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّ=`Indeed, | هَـٰذَا=this | كَانَ=is | لَكُمْ=for you | جَزَآءً=a reward, | وَكَانَ=and has been | سَعْيُكُم=your effort | مَّشْكُورًا=appreciated.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Al-Jalālayn glosses it plainly: kāna lakum jazā'an — this established, this confirmed, is for you a reward. The kāna is the grammar of a promise that was kept." — The provided Jalalayn text inserts only النعيم (the blessing/bounty) as a clarifying gloss on هذا, then restates the verse: «إن هذا» النعيم «كان لكم جزاءً وكان سعيكم مشكورا». It says nothing about kāna conveying establishment or confirmation. The words "established" and "confirmed" are the reflection's own interpretive extension, attributed to Jalalayn as if he wrote them. The observation about kāna is a defensible Arabic grammatical point, but presenting it as a Jalalayn gloss overstates the source.
+
+No other issues detected in this portion:
+- Arabic text matches authentic exactly.
+- Root assignments are correct: sh-k-r → mashkūr (passive participle), s-ʿ-y → saʿy (verbal noun of striving), k-w-n → kāna (Form I perfect, twice), j-z-y → jazāʾ (noun). All confirmed by morphology note and word-by-word reference.
+- 53:39 citation ("wa an laysa lil-insāni illā mā saʿā") is accurate and from the correct surah.
+- The Ṣafā-Marwa / Hājar connection for saʿy is accurate — saʿy is the canonical term for that rite.
+- The rendering of mashkūrā as "thanked" rather than "appreciated" (the word-by-word default) is linguistically valid; Qurtubi explicitly confirms shukr from Allah to the servant encompasses praise and acceptance ("شكره للعبد قبول طاعته وثناؤه عليه"), not just reward-dispensing, which supports the reflection's central thesis.
+- The phonetic claim about ʿayn being effortful to produce is accurate (pharyngeal consonant).
+
+SUMMARY: One moderate issue — a valid linguistic observation about kāna is misattributed to Al-Jalālayn beyond what the supplied text actually says; everything else in the reviewed portion is accurate and well-grounded.

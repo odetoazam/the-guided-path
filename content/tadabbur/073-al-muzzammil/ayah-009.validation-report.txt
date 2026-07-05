@@ -1,0 +1,51 @@
+Enhanced Validation Report
+File: content/tadabbur/073-al-muzzammil/ayah-009.md
+Ayah: 73:9
+Date: 2026-06-16T23:49:47
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: رَّبُّ=(The) Lord | ٱلْمَشْرِقِ=(of) the east | وَٱلْمَغْرِبِ=and the west; | لَآ=(there is) no | إِلَـٰهَ=god | إِلَّا=except | هُوَ=Him, | فَٱتَّخِذْهُ=so take Him | وَكِيلاً=(as) Disposer of Affairs.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- None identified.
+
+SUMMARY: Every linguistic, morphological, and tafsir-grounded claim in this reflection is accurate and well-attested; the interpretive extensions are presented as interpretation, not as documented fact.
+
+---
+
+**Detailed trace (for record):**
+
+**Morphology — PASS**
+- *Ism makān* analysis of **al-mashriq / al-maghrib** (place of rising / place of setting) is correct. Pattern *mafʿil/mafʿal* is the standard ism makān mould; both roots *sh-r-q* and *gh-r-b* are correct.
+- Form VIII (*ittakhadha*) from root *ʾ-kh-dh* is correct. The description "reflexive" is a common pedagogical gloss for the "take for oneself" sense of Form VIII and is acceptable in a general-audience reflection — not a scholarly over-claim.
+- Root *w-k-l* for *wakīl* is correct.
+
+**Qirāʾāt claim — PASS**
+The footnote references qirāʾāt in al-Qurṭubī and al-Baghawī. Both supplied sources explicitly discuss the rāfaʿ / khafd readings of *rabbu*: Qurṭubī names the Ḥaramayn, Ibn Muḥayṣin, Abū ʿAmr, and Ḥafṣ (rafaʿ); al-Baghawī confirms the same split. Citation is accurate.
+
+**Plural / dual / singular comparison — PASS**
+- 70:40 (*rabbu-l-mashāriqi wa-l-maghārib*) — plural: correct.
+- 55:17 (*rabbu-l-mashriqayn wa rabbu-l-maghribayn*) — dual: correct.
+- Singular here for 73:9 — correct, and the rhetorical interpretation (totality through merism; singular for psychological enclosure) is consistent with classical sources. Al-Qurṭubī's statement "مَنْ عَلِمَ أَنَّهُ رَبُّ الْمَشَارِقِ وَالْمَغَارِبِ انْقَطَعَ بِعَمَل" supports the totality-of-reliance reading.
+
+**Wakīl rendering — PASS**
+The reflection renders *wakīl* as "Disposer of affairs." Al-Jalālayn: "موكلاً له أمورك"; al-Baghawī: "قيِّماً بأمورك ففوضها إليه"; al-Muyassar: "فوِّض أمورك إليه." All three align with this rendering.
+
+**Contextual framing of passage — PASS**
+- Early Meccan designation: correct.
+- Verse 5 as *qawlan thaqīlā*: correct (73:5).
+- Structural logic (commands 1–8 → verse 9 as foundation) is accurate to the surah's flow and is presented as reflection, not tafsir fact.

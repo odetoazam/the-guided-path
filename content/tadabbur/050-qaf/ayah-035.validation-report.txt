@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/050-qaf/ayah-035.md
+Ayah: 50:35
+Date: 2026-06-08T19:27:50
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: لَهُم=For them | مَّا=whatever | يَشَآءُونَ=they wish | فِيهَا=therein | وَلَدَيْنَا=and with Us | مَزِيدٌ=(is) more.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] Arabic text in frontmatter and body renders لَّهُم (with shadda on the lam) — the authentic text provided is لَهُم (no shadda). No phonological assimilation rule applies here; verse 34 ends in الْخُلُودِ, which does not trigger lam gemination. The meaning is unchanged, but the printed Arabic is inaccurate. Fix both the frontmatter `arabic:` field and the bolded display in the body.
+
+- [PASS] "the scholars who knew this verse best understood that the 'more' is of a completely different kind" — supported. Al-Qurtubi, al-Baghawi, and al-Muyassar all identify the *mazīd* as the beatific vision (النظر إلى وجه الله), explicitly distinguishing it from the ordinary pleasures of the garden. The reflection's framing of "gift vs. Giver" is a fair reader-facing restatement of that distinction.
+
+- [PASS] مَّا as unbounded/unspecified generosity — this is standard tafsir methodology (إطلاق). The argument is linguistically attested and not overstated.
+
+- [PASS] Contrast of فِيهَا (therein/in Paradise) vs. لَدَيْنَا (with Us) as a structural element of the verse — valid. Al-Baghawi's reading distinguishes what they ask for (granted in the garden) from what Allah adds from Himself (mazīd), precisely paralleling the spatial contrast the reflection draws.
+
+- [PASS] "Enter it in peace — that is the Day of Eternity" (50:34), "nearer to him than his jugular vein" (50:16), "a driver and a witness" (50:21) — all quotations accurately rendered.
+
+- [PASS] Root identifications: يَشَآءُونَ ← ش-ي-أ (imperfect verb), مَزِيدٌ ← ز-ي-د (verbal noun/passive participle form) — correct per word-by-word reference.
+
+SUMMARY: One textual error — a spurious shadda on لَّهُم — requires correction; all interpretive claims, scholar-derived positions, and linguistic analysis are accurate and appropriately grounded in the provided tafsir sources.

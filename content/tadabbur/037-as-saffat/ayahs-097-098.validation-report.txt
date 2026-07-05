@@ -1,0 +1,42 @@
+Enhanced Validation Report
+File: content/tadabbur/037-as-saffat/ayahs-097-098.md
+Ayah: 37:97
+Date: 2026-06-05T09:11:47
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: قَالُواْ=They said, | ٱبْنُواْ=`Build | لَهُۥ=for him | بُنْيَـٰنًا=a structure | فَأَلْقُوهُ=and throw him | فِى=into | ٱلْجَحِيمِ=the blazing Fire.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No issues found against the provided reference data.
+
+SUMMARY: All root identifications, grammatical analysis, tafsir cross-references, and narrative claims in the provided text are accurate and well-grounded against the supplied word-by-word and classical tafsir data.
+
+---
+
+**Supporting notes (why nothing was flagged):**
+
+**Roots** — قَالُوا from ق-و-ل, ٱبْنُوا / بُنْيَانًا from ب-ن-ي, أَلْقُوهُ from ل-ق-ي, الْجَحِيم from ج-ح-م: all four confirmed correct per the corpus note and consistent with word-by-word reference.
+
+**Faceless-plural claim** — "No ringleader named, only *qālū*": Al-Jalalayn explicitly uses "قالوا بينهم" (they said among themselves); Al-Qurtubi uses "تشاوروا في أمره لما غلبهم بالحجة" (they conferred after he defeated them in argument). The reflection's observation that no individual is named is textually grounded.
+
+**"Defeated by argument" framing** — "he had silenced them with an argument they cannot answer": Al-Muyassar states "فلما قامت عليهم الحجة لجؤوا إلى القوة" (when proof was established against them they resorted to force). The reflection's characterisation is a direct parallel of this tafsir reading.
+
+**الجحيم = "blazing fire"** — Al-Baghawi glosses it as "معظم النار" (the greatest/most intense fire). "Blazing fire" is an accurate and conservative English rendering.
+
+**Diffusion of responsibility** — This modern psychological parallel is framed throughout as tadabbur observation, not as a claim attributed to any classical scholar. It does not overstate or misrepresent any scholarly position, so it does not meet the threshold for MODERATE.
+
+**21:64–65 cross-reference** — The Ibrahim parallel narrative cited falls outside the supplied reference data. The reflection quotes it accurately from the standard Quranic text ("Indeed, it is you who are the wrongdoers" / "they were turned upside down upon their heads"), so no error is detectable, but this cannot be formally verified from the data provided here.

@@ -1,0 +1,40 @@
+Enhanced Validation Report
+File: content/tadabbur/034-saba/ayah-023.md
+Ayah: 34:23
+Date: 2026-05-15T15:01:24
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَلَا=And not | تَنفَعُ=benefits | ٱلشَّفَـٰعَةُ=the intercession | عِندَهُۥٓ=with Him | إِلَّا=except | لِمَنْ=for (one) whom | أَذِنَ=He permits | لَهُۚۥ=for him. | حَتَّىٰٓ=Until | إِذَا=when | فُزِّعَ=fear is removed | عَن=on | قُلُوبِهِمْ=their hearts, | قَالُواْ=they will say, | مَاذَا=`What is that - | قَالَ رَبُّكُمْۖ=your Lord has said?` | قَالُواْ=They will say, | ٱلْحَقَّۖ=`The truth.` | وَهُوَ=And He | ٱلْعَلِىُّ=(is) the Most High, | ٱلْكَبِيرُ=the Most Great.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate errors identified in the submitted portion.
+
+Supporting checks:
+
+1. **Arabic text** — Frontmatter Arabic matches the authenticated text exactly. ✓
+
+2. **Translation of فُزِّعَ** — Rendered as "terror is lifted." Word-by-word reference confirms `فُزِّعَ = fear is removed`. Al-Jalalayn confirms the removal reading explicitly: «كشف عنها الفزع بالإذن فيها» — "the fright was removed from them by the permission." ✓
+
+3. **Form II izālah analysis** — The reflection claims فُزِّعَ ʿan qulūbihim = passive Form II with preposition ʿan marking removal of the state (not installation of it). This is a documented grammatical function (التَّفْعِيل لِلسَّلْب). The examples cited in the frontmatter note (قَذَّى = remove the mote; مَرَّضَ = tend to remove illness) are standard classical Arabic grammar attestations of this pattern. The preposition ʿan ("off of / away from") sealing the directional reading is linguistically sound. ✓
+
+4. **Polemical context** — The framing that this ayah refutes the pagan intercessor theology is directly confirmed by al-Jalalayn: «ردا لقولهم إن آلهتهم تشفع عنده» — "a refutation of their claim that their gods intercede with Him." ✓
+
+5. **Quranic cross-references** — 39:3 and 10:18 quoted for pagan theology of mediated access are accurate. ✓
+
+6. **The angelic subjects** — Identifying "them" (قلوبهم) as heavenly beings / angels is confirmed by al-Muyassar: «أهل السماوات كلامه أُرعدوا من الهيبة حتى يلحقهم مثل الغشي» — the people of the heavens tremble until something like fainting overtakes them. ✓
+
+SUMMARY: Every major linguistic and exegetical claim in the submitted portion is either directly confirmed by the reference data or is a well-attested classical grammar analysis; no factual errors detected.

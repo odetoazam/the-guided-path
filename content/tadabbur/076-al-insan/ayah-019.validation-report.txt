@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/076-al-insan/ayah-019.md
+Ayah: 76:19
+Date: 2026-06-18T09:53:55
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ۞ وَيَطُوفُ=And will circulate | عَلَيْهِمْ=among them | وِلْدَٲنٌ=young boys | مُّخَلَّدُونَ=made eternal. | إِذَا=When | رَأَيْتَهُمْ=you see them, | حَسِبْتَهُمْ=you would think them | لُؤْلُؤًا=(as) pearls | مَّنثُورًا=scattered.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR/NOTE] "pearls, spilled loose across a dark cloth" — the author's scene-setting embellishment. Al-Baghawī specifies *al-bisāṭ* (a carpet/rug): "اللؤلؤ إذا نثر من الخيط على البساط." "Dark cloth" is not sourced from the provided tafsir data. This is narrative framing, not a tafsir claim, so it does not rise to MODERATE — but the carpet reference is the stronger image and the author may wish to use it.
+- [INFORMATIONAL] The ṭawāf-inversion argument ("the one who circled for Allah is now circled") is presented throughout as meditative reflection, not scholarly attribution. No tafsir source in the provided data makes this specific connection. This is appropriate tadabbur extension — clearly framed as the author's analysis — so it is not a flag, but the reviewer should be aware no classical source is being cited for it.
+
+No root errors, no verb-form errors, no inverted scholar attributions, no Arabic text errors detected.
+
+- Root Ṭ-W-F: correctly identified, correctly linked to ṭawāf.
+- Root W-L-D: correctly identified.
+- Root KH-L-D with Form II *mukhalladūn*: correctly described as "set in permanence / made to remain" — consistent with the word-by-word gloss ("made eternal") and al-Qurṭubī's "باقون على ما هم عليه."
+- Al-Qurṭubī citation ("gathers the readings… remaining as they are"): verified against the provided Qurṭubī text — accurate.
+- Ayah count ("eleven ayahs later," 76:8 → 76:19): correct.
+- Word count ("nine words"): correct.
+
+SUMMARY: The reflection is linguistically rigorous and scholar-attributions are either accurate or absent; the only thing to note is a minor scene-setting embellishment (dark cloth vs. al-Baghawī's carpet) that the author may wish to sharpen.

@@ -1,0 +1,29 @@
+Enhanced Validation Report
+File: content/tadabbur/045-al-jathiyah/ayah-016.md
+Ayah: 45:16
+Date: 2026-06-08T04:02:08
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَلَقَدْ=And certainly, | ءَاتَيْنَا=We gave | بَنِىٓ إِسْرَٲٓءِيلَ=(the) Children of Israel | ٱلْكِتَـٰبَ=the Book | وَٱلْحُكْمَ=and the wisdom | وَٱلنُّبُوَّةَ=and the Prophethood, | وَرَزَقْنَـٰهُم=and We provided them | مِّنَ=of | ٱلطَّيِّبَـٰتِ=the good things | وَفَضَّلْنَـٰهُمْ=and We preferred them | عَلَى=over | ٱلْعَـٰلَمِينَ=the worlds.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+
+- [MODERATE] "And then look at the chain of verbs that follows: *We gave… We provided… We favored.* Five times in one verse, the hand is His." — The verse contains exactly **three** first-person plural divine verbs: آتَيْنَا, رَزَقْنَا (embedded in رَزَقْنَٰهُم), and فَضَّلْنَا (embedded in فَضَّلْنَٰهُمْ). The author lists the correct three verbs in the very same sentence, then claims "five." The likely confusion is between the count of distinct **gifts** (five: Scripture, judgment, prophethood, good things, and the favoring) and the count of **divine verb instances** (three). Any reader who counts the Arabic will find three, not five — the overclaim undermines the grammatical argument the passage is building.
+
+- [MODERATE] "Every one of the four major commentators — al-Jalālayn, al-Baghawī, al-Qurṭubī, al-Muyassar — reads the final phrase… and quietly adds three words that are not in the verse. **The same three words. All of them.**" — From the provided reference data: al-Baghawi adds "عالمي زمانهم" (of their time); al-Muyassar adds "عالمي زمانهم"; al-Jalālayn adds "عالمي زمانهم **العقلاء**" (of their time, the rational ones) — an additional qualifier absent from the other two; and al-Qurtubi's excerpt ends before reaching وَفَضَّلْنَٰهُمْ عَلَى ٱلْعَٰلَمِينَ entirely. The core observation — that classical commentators unanimously restrict the favoring to its historical era — is accurate and theologically significant. But "the same three words, all of them" asserts a precision and unanimity the data does not support. Al-Jalālayn's version is materially longer; al-Qurtubi's is unverifiable from the supplied excerpt.
+
+SUMMARY: The reflection's theological core — divine-agency grammar, time-bounded favor, gift-as-trust — is well-grounded in the classical sources, but two moderate factual overclaims need correction: the verse has three divine verbs, not five, and the four commentators do not add identical language when qualifying العالمين.

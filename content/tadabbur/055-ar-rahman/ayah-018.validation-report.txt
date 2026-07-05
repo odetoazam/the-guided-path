@@ -1,0 +1,38 @@
+Enhanced Validation Report
+File: content/tadabbur/055-ar-rahman/ayah-018.md
+Ayah: 55:18
+Date: 2026-06-10T08:47:22
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَبِأَىِّ=So which | ءَالَآءِ=(of the) favors | رَبِّكُمَا=(of) your Lord | تُكَذِّبَانِ=will you both deny?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "In Surah An-Najm — the surah immediately preceding Ar-Rahman in the mushaf — the question comes in the singular address: *'Then which of the ālāʾ of your Lord do you dispute?'* (53:55)" — Factually wrong on surah order. Al-Qamar (54) immediately precedes Ar-Rahman (55); An-Najm is surah 53, two positions away. The verse reference and its content are correct, but "immediately preceding" is a verifiable error of mushaf sequence.
+
+- [MODERATE] "Every single time this word appears, **it appears in confrontation**" — Stated as documented fact but is an interpretive analytical claim. The reflection correctly identifies 7:69, 7:74, and 53:55 as confrontational contexts, but a universal claim ("every single time") cannot be verified from the provided references and overstates what the lexical data supports. This should be framed as an observed pattern, not a lexical rule.
+
+PASS items confirmed from references:
+- Jabir narration → al-Tirmidhi → cited by al-Qurtubi: confirmed ("حديث جابر المذكور أول السورة , وخرجه الترمذي وفيه للجن أحسن منكم ردا")
+- "Jinn gave a better response": confirmed ("للجن أحسن منكم ردا")
+- al-Muyassar using *niʿam* instead of *ālāʾ*: confirmed ("فبأي نِعَم ربكما")
+- Dual address to jinn and humans: confirmed by Qurtubi ("خطاب للإنس والجن") and Muyassar ("أيها الثقلان")
+- Root ʾ-l-w for ءَالَآء: lexically sound
+- Form II imperfect dual for تُكَذِّبَانِ: morphologically correct
+- 31 occurrences of the refrain: accurate
+- Arabic text matches authentic Arabic provided exactly
+
+SUMMARY: Two moderate issues — a factual mushaf-ordering error placing An-Najm (53) as "immediately preceding" Ar-Rahman when Al-Qamar (54) intervenes, and a universal claim about ālāʾ's contextual usage stated as documented fact rather than interpretive observation; all substantive scholarly attributions and linguistic claims are verified.

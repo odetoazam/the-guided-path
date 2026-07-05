@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/034-saba/ayah-047.md
+Ayah: 34:47
+Date: 2026-05-18T01:32:38
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: قُلْ=Say, | مَا=`Not | سَأَلْتُكُم=I ask you | مِّنْ=for | أَجْرٍ=any payment, | فَهُوَ=but it (is) | لَكُمْۖ=for you. | إِنْ=Not | أَجْرِىَ=(is) my payment | إِلَّا=but | عَلَى=from | ٱللَّهِۖ=Allah. | وَهُوَ=And He | عَلَىٰ=(is) over | كُلِّ=all | شَىْءٍ=things | شَهِيدٌ=a Witness.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE] "The Quraysh had even tried to pay him to stop. They had offered him money. They had offered him the daughters of their nobles. They had offered him the chieftainship of Makkah itself." — Accurate Sira narrative (Ibn Hisham), but unverifiable from the four tafsir excerpts provided. Not an error; flagging only because the reference data set cannot confirm it.
+- [NOTE] "The grammarians call this *min al-istighrāq* — the 'encompassing *min*'" — Legitimate and well-attested Arabic grammatical term. The tafsir excerpts don't use the technical label, but all four sources confirm the underlying meaning ("لا أسألكم عليه أجرا" / "ما سألتكم على الخير... من أجر"), so the linguistic analysis is fully supported.
+- [PASS] Al-Baghawi attribution — "mā lī min hādhā, fa-qad wahabtuhu lak" — matches Baghawi's text precisely: "كقول القائل: ما لي من هذا فقد وهبته لك يريد ليس لي فيه شيء". Accurate.
+- [PASS] Al-Qurtubi attribution — "that hypothetical payment is yours, if I had ever asked you for it" — matches Qurtubi's text precisely: "ذلك الجعل لكم إن كنت سألتكموه". Accurate.
+- [PASS] Arabic text in frontmatter matches the authentic text. The minor differences (ۢ superscript marks on أَجْرٍۢ and شَىْءٍۢ, and the ۭ on شَهِيدٌۭ) are Uthmani script recitation markers, not part of the written word — their absence is not an error.
+- [PASS] Translation is faithful and consistent with all four tafsir sources.
+
+SUMMARY: The reflection's linguistic analysis, scholar attributions, and Arabic handling are all accurate; no errors were found in the content visible within the 8,000-character window.

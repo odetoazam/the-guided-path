@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/072-al-jinn/ayah-024.md
+Ayah: 72:24
+Date: 2026-06-16T23:13:20
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: حَتَّىٰٓ=Until, | إِذَا=when | رَأَوْاْ=they see | مَا=what | يُوعَدُونَ=they are promised, | فَسَيَعْلَمُونَ=then they will know | مَنْ=who | أَضْعَفُ=(is) weaker | نَاصِرًا=(in) helpers | وَأَقَلُّ=and fewer | عَدَدًا=(in) number.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "Al-Jalālayn calls this *ḥattā ibtidā'iyya*... *fīhā maʿnā al-ghāya li-muqaddarin qablahā*" — accurately quotes Jalālayn verbatim; the implied supplied clause ("they continue in their disbelief until they see") matches *lā yazālūna ʿalā kufrihim* from the same source ✓
+- [PASS] "The word رَأَوْا — *ra'aw* — 'they saw' — is in the past tense... *fa-sa-yaʿlamūn* — 'then they will know' — with that little prefix سَ" — morphologically correct per word-by-word data ✓
+- [PASS] Tags include "badr" — Jalālayn explicitly offers *yawm Badr* as one fulfillment; Qurtubi confirms *al-qatl bi-Badr* ✓
+- [PASS] "Weaker in helpers... fewer in number" framed as comparative mockery — all four tafsir sources confirm the comparison is *aham am al-mu'minūn* (them or the believers), supporting this as the core dynamic ✓
+- [PASS] Concepts *tamyīz* and *ism-tafdīl* — نَاصِرًا/عَدَدًا as tamyīz accusatives for أَضْعَفُ/أَقَلُّ is standard grammar; both comparatives are isms on *af'al* form ✓
+- [NOTE] Reflection is cut off mid-sentence ("describing a certain future event in the past te") — the past-tense-for-future-certainty device is classically attested but the full claim cannot be evaluated from what's provided; no error visible in the fragment
+
+SUMMARY: All verifiable claims in the submitted portion are accurate and traceable to the provided tafsir and morphological data; no critical or moderate errors detected.

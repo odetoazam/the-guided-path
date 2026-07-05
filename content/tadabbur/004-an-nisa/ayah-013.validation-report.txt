@@ -1,0 +1,28 @@
+Enhanced Validation Report
+File: content/tadabbur/004-an-nisa/ayah-013.md
+Ayah: 4:13
+Date: 2026-06-24T08:47:19
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: تِلْكَ=These | حُدُودُ=(are the) limits | ٱللَّهِ‌ۚ=(of) Allah, | وَمَن=and whoever | يُطِعِ=obeys | ٱللَّهَ=Allah | وَرَسُولَهُۥ=and His Messenger, | يُدْخِلْهُ=He will admit him | جَنَّـٰتٍ=(to) Gardens | تَجْرِى=flows | مِن=from | تَحْتِهَا=underneath them | ٱلْأَنْهَـٰرُ=the rivers - | خَـٰلِدِينَ=(will) abide forever | فِيهَا‌ۚ=in it. | وَذَٲلِكَ=And that | ٱلْفَوْزُ=(is) the success | ٱلْعَظِيمُ=[the] great.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "The primary image of ḥadd in classical Arabic is the edge of a sword" — The blade-edge meaning of *ḥadd* is lexically attested (Lisān al-ʿArab, Mufradāt al-Rāghib), but calling it the *primary* image overstates its weight relative to the boundary/limit sense. All four provided tafsir sources interpret ḥudūd here as laws and defined boundaries — Jalalayn: "شرائعه التي حدَّها لعباده"; Baghawi: "الفروض المحدودة"; Qurtubi: "هذه أحكام الله"; Muyassar: "الأحكام الإلهية التي شرعها الله." None invoke sword-edge imagery. The reflection is doing legitimate root-pedagogy, but framing sword-edge as *primary* is an interpretive extension not supported by the provided tafsir data.
+
+No CRITICAL issues detected in this section. Arabic text matches the authentic, word-by-word meanings are accurately applied, the Medinan/inheritance-law context is correct, the inheritance fractions stated (daughter ½ of son, wife ¼ or ⅛, mother ⅓ or ⅙) all align with 4:11–12, and the Form IV transitive-causative identification of *yudkhilhu* is morphologically accurate.
+
+SUMMARY: The reflection is sound in Arabic, grammar, and historical framing; the one moderate flag is characterizing the sword-edge sense of *ḥadd* as "primary" when every classical source provided reads ḥudūd contextually as divine laws and defined limits — the sword-edge etymology is a valid pedagogical enrichment, not the primary semantic frame.

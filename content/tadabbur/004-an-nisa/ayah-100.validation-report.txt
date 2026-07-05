@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/004-an-nisa/ayah-100.md
+Ayah: 4:100
+Date: 2026-06-24T09:18:41
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ۞ وَمَن=And whoever | يُهَاجِرْ=emigrates | فِى=in | سَبِيلِ=(the) way | ٱللَّهِ=(of) Allah, | يَجِدْ=will find | فِى=in | ٱلْأَرْضِ=the earth | مُرَٲغَمًا=place(s) of refuge - | كَثِيرًا=many, | وَسَعَةً‌ۚ=and abundance. | وَمَن=And whoever | يَخْرُجْ=leaves | مِنۢ=from | بَيْتِهِۦ=his home | مُهَاجِرًا=(as) an emigrant | إِلَى=to | ٱللَّهِ=Allah | وَرَسُولِهِۦ=and His Messenger, | ثُمَّ=then | يُدْرِكْهُ=overtakes him | ٱلْمَوْتُ=[the] death, | فَقَدْ=then certainly | وَقَعَ=(became) incumbent | أَجْرُهُۥ=his reward | عَلَى=on | ٱللَّهِ‌ۗ=Allah. | وَكَانَ ٱللَّهُ=And Allah is | غَفُورًا=Oft-Forgiving, | رَّحِيمًا=Most Merciful.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "Form III...whose special job is to express an action that goes *between* two parties" — accurate pedagogically; Form III (mufāʿala) conveys action directed toward/against another party, and the reflection's examples (qātala, sābaqa) are well-chosen and correct.
+- [PASS] "root هـ-ج-ر, Form III" — يُهَاجِرْ is correctly identified as Form III (يُفَاعِلُ pattern) of the root ه-ج-ر. The bare root meaning (forsake/sever) is accurate; this is attested throughout classical lexicons and the Qurʾān's own usage (wahjurhum hajran jamīlā, 73:10).
+- [PASS] "a root that means *to rub a face in the dust*" — رغم/رغام: رغام = dust/earth; رغم = to press the nose to the ground, to humiliate, to do despite another's wishes. The rendering is vivid but within the attested semantic range. Al-Qurṭubī records Mujāhid (متزحزحا عما يكره), Ibn ʿAbbās (متحولا), Abū ʿUbayda (راغمت قومي — to spite one's people); the reflection's "place with teeth in it" framing is consistent with all three glosses.
+- [PASS] "the reward **fell** — like a debt coming due" — وَقَعَ أَجْرُهُۥ عَلَى ٱللَّهِ: Jalālayn glosses وقع as ثبت (became established/incumbent). The "fell due" framing captures the sense of obligation landing with finality, consistent with all four sources.
+- [PASS] The three-fears structure (refuge / abundance / dying en route) maps correctly onto مُرَٰغَمًا كَثِيرًا / وَسَعَةً / فَقَدْ وَقَعَ أَجْرُهُۥ. Muyassar confirms وسعة as رزق وعيش (provision and livelihood).
+- [PASS] Contextual claim that 4:97–99 address those who stayed behind with means to leave — accurate; Jalālayn's occasion of revelation (Jundaʿ ibn Ḍamra al-Laythī dying mid-road) is consistent with the reflection's framing, though the reflection does not name him.
+
+SUMMARY: The portion provided is linguistically precise, morphologically accurate, and consistent with all four classical tafsir sources — no critical or moderate errors found.

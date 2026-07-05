@@ -1,0 +1,30 @@
+Enhanced Validation Report
+File: content/tadabbur/061-as-saf/ayah-006.md
+Ayah: 61:6
+Date: 2026-06-13T00:21:07
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَإِذْ=And when | قَالَ=said | عِيسَى=Isa, | ٱبْنُ=son | مَرْيَمَ=(of) Maryam, | يَـٰبَنِىٓ إِسْرَٲٓءِيلَ=`O Children of Israel! | إِنِّى=Indeed, I am | رَسُولُ ٱللَّهِ=(the) Messenger of Allah | إِلَيْكُم=to you, | مُّصَدِّقًا=confirming | لِّمَا=that which | بَيْنَ يَدَىَّ=(was) before me | مِنَ=of | ٱلتَّوْرَٮٰةِ=the Taurat | وَمُبَشِّرَۢا=and bringing glad tidings | بِرَسُولٍ=(of) a Messenger | يَأْتِى=to come | مِنۢ بَعْدِى=after me, | ٱسْمُهُۥٓ=whose name (will be) | أَحْمَدُ‌ۖ=Ahmad.` | فَلَمَّا=But when | جَآءَهُم=he came to them | بِٱلْبَيِّنَـٰتِ=with clear proofs, | قَالُواْ=they said, | هَـٰذَا=`This | سِحْرٌ=(is) a magic | مُّبِينٌ=clear.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "Al-Qurtubi, al-Jalalayn — they say it plainly. He did not say 'O my people,' as Musa did, because he had no lineage among them." — Directly confirmed. Al-Jalalayn: «ولم يقل: يا قوم لأنه لم يكن له فيهم قرابة»; Al-Qurtubi (truncated but readable): «ولم يقل يا قوم كما قال موسى ; لأنه لا نس[ب]...». Attribution is correct, both scholars are invoked for the same point.
+- [PASS] "*ibn* and *banī* come from the same root: *bā-nūn-yāʾ*" — Morphologically sound. Both *ibn* (ابن) and *banī* (بني) derive from root ب-ن-و/ي. This is standard lexical fact, not an extension.
+- [PASS] "There is a single root used for both the proof of God and the slander against it" — The hook refers to root ب-ي-ن: *bil-bayyināti* (with clear proofs) and *siḥrun mubīn* (obvious magic) are both Form IV / maṣdar derivatives of the same root. The observation is linguistically precise and can be independently verified from the word-by-word data provided.
+- [PASS] "Nuh, Hud, Salih, Shuʿayb, Musa — over and over, they call out *yā qawmi*" — Al-Qurtubi explicitly contrasts Isa's address with Musa's use of *yā qawm*, and the broader claim about the other prophets is consistent with the Quranic record (7:59, 7:65, 7:73, 7:85, 7:93 etc.).
+- [PASS] Arabic text in the reflection — content matches the authentic Arabic; differences are presentation only (simplified Unicode, no tashkil), not textual variants.
+
+SUMMARY: All verifiable claims in the submitted portion check directly against the provided tafsir references and word-by-word data; no factual errors, misattributions, or unsupported morphological claims detected.

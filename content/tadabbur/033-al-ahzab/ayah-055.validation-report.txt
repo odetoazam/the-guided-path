@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/033-al-ahzab/ayah-055.md
+Ayah: 33:55
+Date: 2026-05-15T13:29:14
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: لَّا=(There is) no | جُنَاحَ=blame | عَلَيْهِنَّ=upon them | فِىٓ=concerning | ءَابَآئِهِنَّ=their fathers | وَلَآ=and not | أَبْنَآئِهِنَّ=their sons | وَلَآ=and not | إِخْوَٲنِهِنَّ=their brothers | وَلَآ=and not | أَبْنَآءِ=sons | إِخْوَٲنِهِنَّ=(of) their brothers | وَلَآ=and not | أَبْنَآءِ=sons | أَخَوَٲتِهِنَّ=(of) their sisters | وَلَا=and not | نِسَآئِهِنَّ=their women | وَلَا=and not | مَا=what | مَلَكَتْ أَيْمَـٰنُهُنَّۗ=they rightfully possess. | وَٱتَّقِينَ=And fear | ٱللَّهَۚ=Allah. | إِنَّ=Indeed, | ٱللَّهَ=Allah | كَانَ=is | عَلَىٰ=over | كُلِّ=all | شَىْءٍ=things | شَهِيدًا=a Witness.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+**Running scholarship validation against provided reference data.**
+
+---
+
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "Al-Qurtubi preserves in his tafsir...the fathers and sons and close relatives of the Prophet's wives came to him ﷺ and asked: 'Do we also speak to them from behind a curtain?'" — Confirmed directly by the Qurtubi excerpt provided: "لما نزلت آية الحجاب قال الآباء والأبناء والأقارب لرسول الله صلى الله عليه وسلم : ونحن أيضا نكلمهن من وراء..." The occasion-of-revelation attribution is accurate.
+- [PASS] "The root of جُنَاح is ج-ن-ح, jnH...its primary meaning — documented in the classical lexicons — is wing...from that image of a wing comes a secondary meaning: to lean, to tilt, to incline" — The morphological chain (wing → lean/incline → moral deviation) is attested in Lisān al-ʿArab and Mufradāt al-Rāghib, which the frontmatter correctly cites. Not overstated.
+- [PASS] "six repetitions of وَلَآ and وَلَا...seven doors" — Count is accurate against the word-by-word data: seven categories, six occurrences of the particle after the first.
+- [PASS] Form VIII identification of اتَّقِينَ (root w-q-y, imperative) — Correct. The افتعل pattern is well-established here.
+- [PASS] iltifāt shift from third-person (عَلَيْهِنَّ) to second-person imperative (وَٱتَّقِينَ) — The Muyassar confirms the direct address: "خفن الله -أيتها النساء-" making the grammatical observation accurate.
+- [PASS] "لا جناح does not say 'yes, this is permitted.' It says: there is no blame in this" — This nuance (removal of guilt vs. positive grant) is linguistically defensible and not a claim that contradicts any of the four tafsir sources, which all use لا إثم / لا جناح framing themselves.
+- [NOTE, not an error] The reflection does not address the Jalalayn/Baghawi qualification that نِسَآئِهِنَّ refers specifically to Muslim women (Jalalayn: "أي المؤمنات"; Baghawi: "قيل أراد به النساء المسلمات"). The content visible in the 8000-char excerpt does not cover that category yet, so no misstatement has occurred — but the validator for the full file should confirm this nuance is addressed when the reflection reaches that category.
+
+SUMMARY: All verifiable scholarly claims in this excerpt are accurate and well-grounded in the reference data; the one category-scope qualification (nisāʾihinna = Muslim women per Jalalayn/Baghawi) has not yet been treated in the visible portion and should be checked in the full file.

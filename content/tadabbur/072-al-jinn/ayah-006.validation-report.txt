@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/072-al-jinn/ayah-006.md
+Ayah: 72:6
+Date: 2026-06-15T09:24:22
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَأَنَّهُۥ=And that | كَانَ=(there) were | رِجَالٌ=men | مِّنَ=among | ٱلْإِنسِ=mankind | يَعُوذُونَ=who sought refuge | بِرِجَالٍ=in (the) men | مِّنَ=from | ٱلْجِنِّ=the jinn, | فَزَادُوهُمْ=so they increased them | رَهَقًا=(in) burden.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Al-Qurṭubī, citing Muqātil, even traces its spread: it began, he says, among a people of Yemen, then Banū Ḥanīfa, 'then it spread' — *thumma fashā* — through the Arabs." — The provided Qurṭubī excerpt is truncated ("قاله الح...") and does not reach this passage. The Yemen/Banū Ḥanīfa geographic chain cannot be verified against the reference data supplied. The claim may be accurate but is unverifiable here; presenting it as a direct Qurṭubī citation is a risk.
+
+- [MODERATE] "This verse is not Allah describing the Arabs from the outside. This verse is **the jinn themselves talking**." — Stated as fact, but Al-Qurṭubī explicitly preserves the ikhtilāf: *"وقيل: انقطع الإخبار عن الجن هاهنا فقال الله تعالى"* — some classical scholars hold that the jinn's speech ended before this ayah and it is Allah speaking directly. The reflection presents the jinn-narration reading as the only frame without acknowledging this disagreement.
+
+**Items that cleared validation:**
+- ع-و-ذ root analysis (habitual imperfect *yaʿūdhūna*, clinging/fleeing-toward meaning) — linguistically sound and consistent with classical lexicons.
+- The pre-Islamic traveler formula ("*aʿūdhu bi-sayyid hādhā-l-wādī...*") — confirmed verbatim in Al-Baghawī and Al-Qurṭubī.
+- Al-Baghawī citation ("he would pass the night in safety until morning") — directly verified: *فيبيت في أمن وجوار منهم حتى يصبح*.
+- The *rijālun...bi-rijālin* indefiniteness observation — grammatically accurate; both nouns are tanwīn-indefinite, the parallel structure is real.
+- *Rahaqā* as "burden" — consistent with the word-by-word reference and Al-Muyassar's elaboration (fear/terror/dread).
+- The shirk framing — Al-Muyassar explicitly calls this *al-shirk al-akbar*, which the reflection handles appropriately.
+
+SUMMARY: Solid and well-grounded overall; two moderate flags — one unverifiable geographic attribution to Al-Qurṭubī from a truncated excerpt, and one instance of presenting a single position on a classical ikhtilāf (jinn's speech vs. Allah's words) as settled fact.

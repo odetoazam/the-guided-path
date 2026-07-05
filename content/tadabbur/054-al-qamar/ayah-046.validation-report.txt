@@ -1,0 +1,46 @@
+Enhanced Validation Report
+File: content/tadabbur/054-al-qamar/ayah-046.md
+Ayah: 54:46
+Date: 2026-06-10T07:39:09
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: بَلِ=Nay, | ٱلسَّاعَةُ=the Hour | مَوْعِدُهُمْ=(is) their promised time, | وَٱلسَّاعَةُ=and the Hour | أَدْهَىٰ=(will be) more grievous | وَأَمَرُّ=and more bitter.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate issues found.
+
+Supporting checks:
+
+1. **Arabic text** — matches the authenticated Arabic exactly. ✓
+
+2. **ʿUmar narration attribution** — "a narration al-Baghawi preserves from Saʿīd ibn al-Musayyib" is accurate. Al-Baghawi's text reads: *قال سعيد بن المسيب : سمعت عمر بن الخطاب...* — the chain is correctly identified. ✓
+
+3. **"Leaping in his armor"** — reflection says the Prophet ﷺ was "leaping in his armor as the lines formed." Al-Baghawi: *رأيت النبي يثب في درعه* — يثب = leaping/bounding. Accurate. ✓
+
+4. **Al-Muyassar paraphrase** — "the Hour is greater and harsher than what befell them of punishment on the day of Badr" maps directly to *أعظم وأقسى مما لحقهم من العذاب يوم بدر*. ✓
+
+5. **Al-Jalalayn paraphrase** — "more bitter than the punishment of this world" maps to *أشد مرارة عذاب الدنيا*. ✓
+
+6. **Root analyses** — w-ʿ-d for مَوْعِدُهُمْ, d-h-y for أَدْهَىٰ (Qurtubi: *من الداهية وهي الأمر العظيم*), m-r-r for أَمَرُّ — all correct per sources and frontmatter. ✓
+
+7. **Iḍrāb grammar** — بَلِ as a particle of retraction/escalation is a standard Arabic grammatical fact, accurately applied. ✓
+
+8. **Nominal sentence claim** — zero verbs confirmed by word-by-word reference and frontmatter note. ✓
+
+9. **Yawm al-Furqān** — reflection attributes this name to the Quran itself; 8:41 uses this exact phrase for the day the two armies met (Badr). ✓
+
+SUMMARY: All factual claims, tafsir citations, root analyses, and narration attributions are verifiably accurate against the provided reference data; no errors detected.

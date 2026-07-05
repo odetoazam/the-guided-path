@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/089-al-fajr/ayahs-021-023.md
+Ayah: 89:21
+Date: 2026-06-18T18:31:29
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: كَلَّآ=Nay! | إِذَا=When | دُكَّتِ=is leveled | ٱلْأَرْضُ=the earth, | دَكًّا دَكًّا=pounded and crushed,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "He cites al-Mubarrad with an even more vivid image: the earth is *flattened* — its elevation stripped away — and he reaches for the word *nāqa dakkāʾ*, a she-camel that has no hump." — The provided Qurtubī excerpt truncates at "وقال" before completing any further attribution. The al-Mubarrad name and the *nāqa dakkāʾ* example cannot be confirmed from the reference data supplied. The linguistic claim is plausible (the example appears in classical lexicons), but the specific attribution is unverifiable from what was provided here. Flag for source verification against the full Qurtubī text.
+
+All other verifiable claims check out:
+
+- Kallā as a hard rebuke: all four tafsirs confirm ("ردع لهم عن ذلك" / "ما هكذا ينبغي أن يكون الأمر") ✓
+- Al-Qurtubī's "*al-kasr wad-daqq*": confirmed verbatim ("والدك : الكسر والدق") ✓
+- Al-Zajjāj via Qurtubī ("earth convulsed until parts crush each other"): confirmed ("زلزلت فدك بعضها بعضا") ✓
+- Al-Baghawī "*marratan baʿda marra*": confirmed ("مرة بعد مرة") ✓
+- Al-Baghawī "nothing remains on its surface": confirmed ("فلم يبق على ظهرها شيء") ✓
+- Passive/active grammar asymmetry (*dukkati* passive, *jāʾa rabbuka* active, *jīʾa bi-jahannam* passive): accurate per Arabic text ✓
+- Form V *yatadhakkaru* identification: correct (*tafaʿʿala*, doubled middle radical) ✓
+
+SUMMARY: One attribution (al-Mubarrad / *nāqa dakkāʾ*) cannot be confirmed from the truncated reference excerpt and should be sourced-checked before publication; everything else is accurately grounded in the supplied tafsir and word data.

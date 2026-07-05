@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayah-073.md
+Ayah: 3:73
+Date: 2026-06-21T12:21:45
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَلَا=And (do) not | تُؤْمِنُوٓاْ=believe | إِلَّا=except | لِمَن=(the one) who | تَبِعَ=follows | دِينَكُمْ=your religion.` | قُلْ=Say, | إِنَّ=`Indeed | ٱلْهُدَىٰ=the (true) guidance | هُدَى ٱللَّهِ=(is the) Guidance of Allah - | أَن=lest | يُؤْتَىٰٓ=is given | أَحَدٌ=(to) one - | مِّثْلَ=(the) like | مَآ=(of) what | أُوتِيتُمْ=was given to you | أَوْ=or | يُحَآجُّوكُمْ=they may argue with you | عِندَ=near | رَبِّكُمْ‌ۗ=your Lord.` | قُلْ=Say, | إِنَّ=`Indeed, | ٱلْفَضْلَ=the Bounty | بِيَدِ ٱللَّهِ=(is) in the Hand of Allah. | يُؤْتِيهِ=He gives it | مَن=(to) whom | يَشَآءُ‌ۗ=He wills, | وَٱللَّهُ=and Allah | وَٲسِعٌ=(is) All-Encompassing, | عَلِيمٌ=All-Knowing.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "al-Jalālayn, al-Baghawī, al-Muyassar — all gloss it here with the same word: *tuṣaddiqū*" — directly confirmed. Al-Jalalayn: "تصدَّقوا"; al-Baghawi: "لا تصدقوا"; al-Muyassar: "ولا تصدِّقوا تصديقًا صحيحًا."
+- [PASS] "al-Baghawī, pause on this lām and note it is *ṣila*" — confirmed verbatim: "واللام في 'لمن' صلة."
+- [PASS] Allah's voice is an interruption mid-sentence — al-Jalalayn confirms: "الجملةُ اعتراض" (the sentence is a parenthetical/interruption).
+- [PASS] Opening words are quotation of People of the Book, not Divine command — confirmed across all four sources (Qurtubi: "هذا نهي، وهو من كلام اليهود بعضهم لبعض"; Baghawi: "من قول اليهود بعضهم لبعض").
+- [PASS] Arabic text in frontmatter and body matches the authentic Arabic. The only difference (أَحَدٌ vs أَحَدٌۭ) is a mushaf diacritic rendering variant, not a textual error.
+- [PASS] Translation is accurate and the bracketed interpolation "[they say this] lest" correctly captures the Jalalayn reading of أَن as purpose/fear clause.
+- [PASS] Form IV description of تُؤْمِنُوا is morphologically correct. The pedagogical gloss ("inner state directed outward") is a simplification but not an error that inverts meaning.
+
+SUMMARY: Every verifiable claim — root glosses, scholar citations, grammatical notes on the lām, the interpolative nature of the Divine interjection — is directly supported by the provided tafsir sources; no factual errors detected.

@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/034-saba/ayah-043.md
+Ayah: 34:43
+Date: 2026-05-18T01:03:58
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَإِذَا=And when | تُتْلَىٰ=are recited | عَلَيْهِمْ=to them | ءَايَـٰتُنَا=Our Verses | بَيِّنَـٰتٍ=clear | قَالُواْ=they say, | مَا=`Not | هَـٰذَآ=(is) this | إِلَّا=but | رَجُلٌ=a man | يُرِيدُ=who wishes | أَن=to | يَصُدَّكُمْ=hinder you | عَمَّا=from what | كَانَ=used | يَعْبُدُ=(to) worship | ءَابَآؤُكُمْ=your forefathers.` | وَقَالُواْ=And they say, | مَا=`Not | هَـٰذَآ=(is) this | إِلَّآ=except | إِفْكٌ=a lie | مُّفْتَرًىۚ=invented.` | وَقَالَ=And said | ٱلَّذِينَ=those who | كَفَرُواْ=disbelieved | لِلْحَقِّ=about the truth | لَمَّا=when | جَآءَهُمْ=it came to them, | إِنْ=`Not | هَـٰذَآ=(is) this | إِلَّا=except | سِحْرٌ=a magic | مُّبِينٌ=obvious.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+**VERDICT: PASS**
+
+**ISSUES:**
+
+- [MODERATE] "We know they did this. The classical sources preserve the meetings." — This refers to the well-known sīra account of Quraysh leaders (including al-Walīd ibn al-Mughīra) convening to coordinate counter-messaging before ḥajj season, and the separate account of leaders listening secretly to the Prophet's ﷺ recitation at night. Both are attested in Ibn Hishām's *Sīra* and are historically credible. However, **none of the four tafsir sources provided** (Jalālayn, Muyassar, Qurṭubī, Baghawī) reference these meetings or the nighttime-listening account. The reflection presents them as established fact with zero qualification. This is not fabrication — it is legitimate sīra context — but the phrasing "We know they did this" overstates certainty given that the provided references speak only to the Makkans (كفار مكة per Muyassar) without attesting the specific narrative. A softening hedge ("the sīra tradition records...") would be warranted.
+
+- [PASS] The *mā... illā* analysis (al-ḥaṣr bi-l-nafy wa-l-istithnā') is linguistically accurate and well-documented in classical Arabic grammar. The observation that *in* substitutes for *mā* in the third construction is correct and verified directly against the authentic Arabic (إِنْ هَـٰذَآ إِلَّا سِحْرٌ مُّبِينٌ).
+
+- [PASS] The shift from *qālū* to *wa qāla alladhīna kafarū* is a real structural feature of the ayah and the reflection's question "why does Allah change how He names the speakers" is a legitimate iltifāt observation worth developing.
+
+- [PASS] All three accusation labels (ifk, iftirā', siḥr mubīn) match word-by-word reference and all four tafsir sources exactly.
+
+- [PASS] Arabic text in the reflection matches the authentic Arabic with only standard diacritic normalization — no substantive variant.
+
+**SUMMARY:** Linguistically and textually sound throughout; the single concern is one assertive historical claim that goes beyond what the provided tafsir references can verify, though it is attested in sīra tradition outside those sources.

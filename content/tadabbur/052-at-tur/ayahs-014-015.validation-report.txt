@@ -1,0 +1,44 @@
+Enhanced Validation Report
+File: content/tadabbur/052-at-tur/ayahs-014-015.md
+Ayah: 52:14
+Date: 2026-06-09T16:57:36
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: هَـٰذِهِ=`This | ٱلنَّارُ=(is) the Fire | ٱلَّتِى=which | كُنتُم=you used (to) | بِهَا=[of it] | تُكَذِّبُونَ=deny.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No issues found across all analyzed claims.
+
+Specific checks performed:
+
+**Arabic text**: Matches the authentic Arabic exactly. ✓
+
+**kāna + imperfect construction** — "kuntum bihā tukadhdhibūn... Used to deny": The *kāna* + present-tense imperfect structure conveying habitual past action is grammatically standard and correctly described. The word-by-word reference confirms *kuntum* = "you used (to)" + *tukadhdhibūn* = "deny." ✓
+
+**Form II analysis of تُكَذِّبُونَ** — root *k-dh-b*, doubled middle radical, meaning "to actively declare something false / brand it a lie aimed outward": Morphologically accurate. Form II (*faʿʿala* pattern with tashdīd on the medial radical) does carry the intensified/transferred sense distinguished from base Form I *kadhaba*. ✓
+
+**Root n-w-r for نار** — frontmatter notes *n-w-r "fire/light"*: Correct per Lisān al-ʿArab; نار and نور share the root n-w-r, with fire understood as the illuminating/burning phenomenon. ✓
+
+**52:13 narrative frame** — "shoved toward it: yudaʿʿūna ilā nāri jahannama daʿʿā": Confirmed by ar.muyassar: *يُدْفَع هؤلاء المكذبون دفعًا بعنف ومَهانة إلى نار جهنم*. ✓
+
+**74:24 cross-reference** — paraphrased as "This is nothing but magic handed down": Reasonable rendering of *إِنْ هَـٰذَا إِلَّا سِحْرٌ يُؤْثَرُ*. ✓
+
+**Interpretive framing** — the "magic as force-granting-but-truth-denying" reading of the accusation of siḥr is presented as meditation, not as attributed scholarly position. Appropriately bounded for tadabbur. ✓
+
+**Note on scope**: The provided reference data covers only 52:14. Verse 15 (s-ḥ-r / b-ṣ-r analysis) appears later in the reflection and could not be fully validated against the submitted reference data — a second validation pass with 52:15 word data would be needed to clear that section.
+
+SUMMARY: All verifiable linguistic and tafsir-grounded claims in this excerpt are accurate; no critical or moderate errors detected within the scope of the provided reference data.

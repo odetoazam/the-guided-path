@@ -1,0 +1,29 @@
+Enhanced Validation Report
+File: content/tadabbur/051-adh-dhariyat/ayah-013.md
+Ayah: 51:13
+Date: 2026-06-09T01:36:09
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَوْمَ=A Day, | هُمْ=they | عَلَى=over | ٱلنَّارِ=the Fire | يُفْتَنُونَ=will be tried,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "Al-Qurtubī, commenting on *this exact ayah*, tells us plainly..." — The Arabic quoted (*wa huwa min qawlihim: fatantu adh-dhahaba, ay aḥraqtuhu li-takhtabirah; wa aṣl al-fitnati al-ikhtibār*) is a direct transliteration of the provided Qurtubi source: "وهو من قولهم : فتنت الذهب أي أحرقته لتختبره ; وأصل الفتنة الاختبار" — attribution is accurate, quote is accurate, ayah context is correct.
+- [PASS] "*yuftanūn* — 'built for the unknown [agent]'" — Grammatically correct. The form is passive imperfect (Form I passive), and the classical sources (Jalalayn, Muyassar, Baghawi, Qurtubi) all read it as something done *to* the deniers: *yuʿadhdhabūn*, *yuḥraqūn*.
+- [PASS] Goldsmith simile: "The fire does not *create* the difference. The fire *reveals* it." — Interpretive extension of the attested etymology, clearly signaled as such with "as if to say." Baghawi independently corroborates the gold metaphor: "كما يفتن الذهب بالنار."
+- [UNVERIFIABLE from provided data, not flagged as error] "Notice the texture of that word, *ayyāna*. It isn't the neutral 'when.' It carries impatience, almost contempt" — This is a rhetorical characterization of 51:12, outside the reference scope for 51:13. The claim is not wrong (it's a mainstream observation), but the provided data cannot confirm or refute it.
+
+SUMMARY: The reflection's core linguistic and scholarly claims are well-grounded — the Qurtubi quote is precise, the fitna etymology is correctly sourced, and the passive-voice reading aligns with all four classical commentaries; no errors detected in the portion provided.

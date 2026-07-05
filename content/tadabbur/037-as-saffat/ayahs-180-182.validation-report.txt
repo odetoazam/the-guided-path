@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/037-as-saffat/ayahs-180-182.md
+Ayah: 37:180
+Date: 2026-06-05T10:10:14
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: سُبْحَـٰنَ=Glory | رَبِّكَ=(be to) your Lord, | رَبِّ=(the) Lord | ٱلْعِزَّةِ=(of) Honor, | عَمَّا=above what | يَصِفُونَ=they attribute.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [INFORMATIONAL] "They are declaring. They are reciting... the declaration that Allah is One" — The *ṣāffāt* (37:1) are the subject of an oath, not explicitly stated as the speakers of the tawhid declaration in 37:4. Classical tafsir (Baghawi, Jalalayn) identifies them as angels in worshipful ranks; the tawhid statement in 37:4 is Allah's own declaration. The reflection's framing is a defensible contextual read but slightly collapses the grammatical distinction. Does not rise to MODERATE because it is not stated as a documented tafsir position — it reads as narrative exposition.
+
+- [INFORMATIONAL] "'pushed the slander off and away across an infinite sea'" — The metaphorical extension of *s-b-ḥ* (swimming → infinite distancing) is an interpretive elaboration not found in the reference tafsirs (which give *tanzīh* as the standard gloss). It is clearly framed as reflection, not classical lexical fact, so it does not violate citability standards. But the root meaning "to swim / move swiftly through a medium" is lexically accurate per Lisān al-ʿArab.
+
+All verifiable claims check out:
+- Arabic text matches authentic source exactly.
+- *Subḥāna* as *maf'ūl muṭlaq* with suppressed verb (*usabbiḥu*) is correct classical grammar.
+- Root *s-b-ḥ* = swim / glide is attested.
+- *ʿIzzah* rendered as "might" aligns with Jalalayn ("الغلبة") and Baghawi ("الغلبة والقوة") — stronger than the word-by-word's "honor," but grounded in the primary sources.
+- *ʿAmmā yaṣifūn* correctly glossed as the false attributions of daughters and jinn-lineage (confirmed by Qurtubi, Baghawi: "من الصاحبة والولد").
+- All seven messengers named (Nuh, Ibrahim, Musa, Harun, Ilyas, Lut, Yunus) are present in Surah As-Saffat.
+
+SUMMARY: No root errors, attribution inversions, or factual misrepresentations; the two informational flags are framing choices within legitimate interpretive range.

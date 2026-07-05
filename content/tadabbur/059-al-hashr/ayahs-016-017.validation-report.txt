@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/059-al-hashr/ayahs-016-017.md
+Ayah: 59:16
+Date: 2026-06-12T19:46:20
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: كَمَثَلِ=Like (the) example | ٱلشَّيْطَـٰنِ=(of) the Shaitaan, | إِذْ=when | قَالَ=he says | لِلْإِنسَـٰنِ=to man, | ٱكْفُرْ=`Disbelieve.` | فَلَمَّا=But when | كَفَرَ=he disbelieves, | قَالَ=he says, | إِنِّى=`Indeed, I am | بَرِىٓءٌ=disassociated | مِّنكَ=from you. | إِنِّىٓ=Indeed, [I] | أَخَافُ=I fear | ٱللَّهَ=Allah, | رَبَّ=(the) Lord | ٱلْعَـٰلَمِينَ=(of) the worlds.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical errors found in the portion reviewed.
+- [NOTE, not flagged] "A Jewish tribe inside the city had broken its treaty" — the treaty-breaking framing is standard sīrah narrative (Ibn Kathir, Ṭabarī) but is not verifiable from the four tafsir excerpts provided. These sources only describe *takhādhul* (mutual abandonment) without detailing the casus belli. Not an error; the claim is mainstream and uncontradicted here.
+- [NOTE, not flagged] 2:268 cited as "Shaytan promises you poverty and commands you to indecency" — *yaʿidukum al-faqr* is more precisely "threatens you with poverty" (a menace dressed as a promise), but the reflection's paraphrase is within accepted translation range and does not misrepresent the verse.
+- All morphological claims in the header check out: *ukfur*, *kafara*, *qāla*, *akhāfu* are all Form I. No causative/Form IV claim is made in the body.
+- The parable-for-munafiqun context is confirmed by all four classical sources (Jalālayn: *ka-mathali-sh-shaytān... kādhibatan minhu wa-riyāʾan*; Muyassar, Qurṭubī, Baghawī all name the munafiqun explicitly).
+- Cross-references (8:48, 14:22, 59:11–12) are accurate parallels.
+- The "bare imperative with no stated reward" observation is textually defensible — the verse provides no attached inducement, and the reflection correctly attributes this to the parable structure rather than claiming it is Shaytan's universal operating mode.
+
+SUMMARY: The reflection is linguistically precise, historically grounded in the provided tafsir, and its interpretive leaps are clearly marked as such — no genuine errors detected in the portion reviewed.

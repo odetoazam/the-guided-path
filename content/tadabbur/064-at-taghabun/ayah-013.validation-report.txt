@@ -1,0 +1,37 @@
+Enhanced Validation Report
+File: content/tadabbur/064-at-taghabun/ayah-013.md
+Ayah: 64:13
+Date: 2026-06-13T10:31:44
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ٱللَّهُ=Allah, | لَآ=(there is) no | إِلَـٰهَ=god | إِلَّا=except | هُوَ‌ۚ=Him. | وَعَلَى=And upon | ٱللَّهِ=Allah | فَلْيَتَوَكَّلِ=let put (their) trust | ٱلْمُؤْمِنُونَ=the believers.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR NOTE, NOT FLAGGED] "you create what they called **qaṣr** or **ikhtiṣāṣ**" — technically, *taqdīm* (fronting) is the *mechanism*; qaṣr is the *restriction effect* it signals. The reflection conflates the device with the result. This is a widely-used pedagogical simplification (Zamakhsharī applies it to this exact construction) and not a factual error, but a specialist would distinguish the two. No flag warranted.
+
+All other claims check out:
+
+- **Arabic text**: matches authentic reference exactly, including the waqf marker ۚ
+- **Translation**: faithful to word-by-word reference (`فَلْيَتَوَكَّلِ` = "let put their trust," `ٱلْمُؤْمِنُونَ` = "the believers")
+- **Morphology note**: Form V `تَوَكَّلَ` for `فَلْيَتَوَكَّلِ` is correct; Form IV active participle `مُؤْمِن` → plural `ٱلْمُؤْمِنُونَ` is correct
+- **Taghabun etymology**: ghabn (غبن) as trade-deception → yawm at-taghabun as "Day of Mutual Loss and Gain" is lexically grounded and consistent with classical tafsir framing
+- **Structural placement** (between 64:11 and 64:14–15): verified accurate; the surah architecture claim is exegetically defensible and framed as literary observation, not documented hadith
+- **64:11, 64:12, 64:14 quotes**: accurate renderings, consistent with standard translations
+- **Qaṣr applied to `وَعَلَى ٱللَّهِ` fronting**: the preposition phrase preceding `فَلْيَتَوَكَّلِ` is a real taqdīm construction; the exclusivity reading ("upon Allah alone") is attested in the rhetorical tradition and confirmed by Qurṭubī's framing ("so trust in Him") and Muyassar's ("in all their affairs")
+- **No scholar attributions appear** in the validated section; no inversions possible
+
+SUMMARY: Linguistically accurate, morphologically sound, and contextually well-situated — the single pedagogical simplification (taqdīm described as "creating" qaṣr rather than signaling it) does not rise to a flaggable error.

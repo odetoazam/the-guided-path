@@ -1,0 +1,27 @@
+Enhanced Validation Report
+File: content/tadabbur/038-sad/ayahs-009-010.md
+Ayah: 38:9
+Date: 2026-06-06T02:15:24
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَمْ=Or | عِندَهُمْ=have they | خَزَآئِنُ=(the) treasures | رَحْمَةِ=(of the) Mercy | رَبِّكَ=(of) your Lord | ٱلْعَزِيزِ=the All-Mighty, | ٱلْوَهَّابِ=the Bestower?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR STYLE NOTE] "Ceaseless Giver" for ٱلْوَهَّابِ — the root w-h-b and the classical sources (Baghawi: "وهب النبوة لمحمد ﷺ") support "Bestower" as the primary rendering; "Ceaseless Giver" reads the intensive mubalāgha form into the translation. This is a defensible rendering of the hyperbolic pattern (فعّال) and not an error, but the word-by-word reference says "the Bestower."
+- [VERIFY] The reflection treats *both* أَمْ instances as am munqatia — this is grammatically sound and Qurtubi confirms التقريع for this passage, but the second أَمْ (أَمْ لَهُم مُّلْكُ) is not explicitly addressed in the tafsir snippets provided. The analysis is defensible but cannot be confirmed against the supplied references alone.
+
+SUMMARY: The reflection is linguistically accurate, the Qurtubi attribution (التقريع, speech connected to prior speech) is quoted correctly and verbatim-verifiable, the 43:31 cross-reference is appropriate, and the core argument — that the two أَمْ particles expose an assumed authority rather than debate a theological point — is fully supported by the classical tafsir data provided.

@@ -1,0 +1,26 @@
+Enhanced Validation Report
+File: content/tadabbur/045-al-jathiyah/ayah-015.md
+Ayah: 45:15
+Date: 2026-06-08T04:58:18
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: مَنْ=Whoever | عَمِلَ=does | صَـٰلِحًا=a righteous deed, | فَلِنَفْسِهِۦ‌ۖ=then it is for his soul, | وَمَنْ=and whoever | أَسَآءَ=does evil, | فَعَلَيْهَا‌ۖ=then it (is) against it. | ثُمَّ=Then | إِلَىٰ=to | رَبِّكُمْ=your Lord | تُرْجَعُونَ=you will be returned.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "the *lām al-manfaʿa* — or the *lām al-milk*, the *lām* of belonging and advantage" — presents these as synonyms, but they are distinct classical grammatical categories: *lām al-milk* (ملكية) denotes possession/ownership; *lām al-manfaʿa* denotes benefit/advantage. Classical grammarians classify the *lam* in فَلِنَفْسِهِ as *lām al-manfaʿa* specifically. Treating them as interchangeable with "or" is an oversimplification. The core meaning conveyed is not wrong, but the technical label is imprecise. None of the provided tafsir sources address this grammatical distinction explicitly, so this cannot be verified from the given data — flagged as a grammatical nomenclature issue rather than a meaning error.
+
+SUMMARY: The reflection is substantively accurate — the preposition analysis (*lī* vs *ʿalā*), the pronoun referent (*hā* → *nafs*), the contextual framing (45:14 and 45:24), the word count, and the Arabic text all check out against the provided references; the only imprecision is a slight conflation of two related but distinct grammatical terms for the *lām*.

@@ -1,0 +1,26 @@
+Enhanced Validation Report
+File: content/tadabbur/004-an-nisa/ayah-047.md
+Ayah: 4:47
+Date: 2026-06-24T08:54:04
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَـٰٓأَيُّهَا=O you | ٱلَّذِينَ=who | أُوتُواْ=(have) been given | ٱلْكِتَـٰبَ=the Book, | ءَامِنُواْ=believe | بِمَا=in what | نَزَّلْنَا=We (have) revealed | مُصَدِّقًا=confirming | لِّمَا=what is | مَعَكُم=with you, | مِّن قَبْلِ=before | أَن=[that] | نَّطْمِسَ=We efface | وُجُوهًا=faces | فَنَرُدَّهَا=and turn them | عَلَىٰٓ=on | أَدْبَارِهَآ=their backs | أَوْ=or | نَلْعَنَهُمْ=We curse them | كَمَا=as | لَعَنَّآ=We cursed | أَصْحَـٰبَ=companions | ٱلسَّبْتِ‌ۚ=(of) the Sabbath. | وَكَانَ=And | أَمْرُ ٱللَّهِ=command of Allah | مَفْعُولاً=is (always) executed.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "ʿAbdullāh ibn Salām, one of their own scholars, came to faith" — Both al-Qurṭubī and al-Baghawī, on the authority of Ibn Isḥāq, name **ʿAbdullāh ibn Ṣūriyā al-Aʿwar** as the scholar in the scene behind this verse — a different figure, known precisely for *refusing* to convert despite privately acknowledging the truth. The reflection conflates him with ʿAbdullāh ibn Salām (who did convert, but whose conversion is not tied to this verse in the provided sources). The rhetorical spine of the introduction — "a threat that produces a believer" — rests entirely on this attribution and would be inverted if the person named is actually the one who hardened.
+
+SUMMARY: The linguistic analysis of *muṣaddiq* (Form II, root ṣ-d-q, the Quran-as-witness framing) is accurate and well-grounded in all four tafsir sources, but the opening anecdote names ʿAbdullāh ibn Salām where the classical sources place ʿAbdullāh ibn Ṣūriyā — a person with an opposite outcome — which requires correction before publication.

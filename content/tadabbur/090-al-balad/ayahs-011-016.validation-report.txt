@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/090-al-balad/ayahs-011-016.md
+Ayah: 90:11
+Date: 2026-06-18T18:43:14
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَلَا=But not | ٱقْتَحَمَ=he has attempted | ٱلْعَقَبَةَ=the steep path.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR NOTE] "Al-Qurṭubī and al-Baghawī both tell us the tradition here: this man was willing to hurl his wealth…" — Accurate that both mention it, but al-Baghawī explicitly frames the *ʿadāwat Muḥammad* context as a reported view: *"hādhā qawlu Ibn Zayd wa-jamāʿah"* (this is the view of Ibn Zayd and a group). Al-Qurṭubī presents it more as established exegetical context. The reflection bundles them as equally assertive without noting that Baghawī is relaying rather than endorsing. Not a misattribution, but a flattened attribution. Does not affect the core argument.
+
+All other claims check out cleanly:
+
+- **Root and form**: ٱقْتَحَمَ as Form VIII (*iftiʿāl*) from ق-ح-م is correct.
+- **Qurṭubī on *iqtiḥām***: *"ar-ramyu bi-n-nafsi fī shayʾin min ghayri rawiyyah"* — quoted accurately, translated accurately.
+- **Horse/cavalry image**: *"qaḥama-l-farasu fārisahu"* — in the provided Qurṭubī source (*"waqaḥama-l-farasu fārisahu taqḥīman ʿalā wajhihi idhā ramāhu"*). Accurate.
+- **Baghawī on *iqtiḥām***: *"ad-dukhūlu fī-l-amri-sh-shadīd"* — exact match to provided source.
+- **The *fī ʿadāwati Muḥammad* attribution**: sourced squarely from al-Qurṭubī's provided text: *"māla-lladhī yazʿumu annahu anfaqahu fī ʿadāwati Muḥammad"* — accurate.
+- **فَلَا** rendered as "But he has not attempted" — consistent with the word-by-word reference and a legitimate reading alongside Jalalayn's *fahallā* (remonstrative) reading; the reflection doesn't misrepresent either.
+
+SUMMARY: All linguistic claims, verb-form identifications, and scholar attributions are accurate against the provided reference data; the only nuance is that Baghawī's endorsement of the Ibn Zayd tradition is slightly stronger in the reflection than in his actual text.

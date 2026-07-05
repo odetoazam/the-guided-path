@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/050-qaf/ayah-024.md
+Ayah: 50:24
+Date: 2026-06-08T21:09:42
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَلْقِيَا=`Throw | فِى=into | جَهَنَّمَ=Hell | كُلَّ=every | كَفَّارٍ=disbeliever | عَنِيدٍ=stubborn,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "A second reading, narrated from Ibn Zayd, says the address includes the qarīn, the constant companion who just spoke in verse 23" — Al-Qurṭubī's transmission reads: *"إنه قرينه من الإنس، فيقول الله تعالى لقرينه: ألقيا في جهنم"* — "It is his companion from among humans, and Allah says **to his companion**: 'Throw, you two.'" Ibn Zayd is placing this within the "dual form addressed to a singular" tradition (Allah commands the one qarīn using the grammatical dual), not identifying the qarīn as one member of a pair alongside the sā'iq or shahīd. The reflection frames it as "the two = some pair that includes the qarīn," which is a different claim than what al-Qurṭubī attests. The text is cut off before the full treatment, so this may be corrected downstream — but as written it misrepresents the Ibn Zayd position.
+
+All other claims check out cleanly:
+- **Al-Zajjāj attribution** ("the two are the driver and the witness") — confirmed verbatim in al-Baghawī: *"قال الزجاج: هذا أمر للسائق والشهيد"* ✓
+- **Al-Farrāʾ and al-Khalīl** as discussants of the dual-for-singular phenomenon — confirmed in both al-Qurṭubī and al-Baghawī ✓
+- **Root l-q-y** etymology (encounter/meet → fourth-form transitive "to cast") — lexically sound, consistent with Mufradāt al-Rāghib ✓
+- **Contextual sequencing** (50:16, 50:19, 50:21-23 → 50:24) — accurate ✓
+- **Arabic text** — matches the authenticated Arabic exactly ✓
+
+SUMMARY: One moderate issue — the Ibn Zayd view as transmitted in al-Qurṭubī places the dual as a singular address to the qarīn, not as the qarīn being one of an identified pair; the remaining linguistic analysis and all other scholar attributions are accurate against the provided reference data.

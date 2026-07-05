@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/052-at-tur/ayah-043.md
+Ayah: 52:43
+Date: 2026-06-09T15:23:05
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَمْ=Or | لَهُمْ=for them | إِلَـٰهٌ=a god | غَيْرُ=other than | ٱللَّهِ‌ۚ=Allah. | سُبْحَـٰنَ=Glory be | ٱللَّهِ=(to) Allah | عَمَّا=from what | يُشْرِكُونَ=they associate (with Him).
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR / UNVERIFIABLE FROM STACK] "Al-Khalil ibn Aḥmad al-Farāhīdī, the man who first systematized Arabic grammar and meter" — Al-Khalil's credit for Arabic **prosody/meter** (ʿarūḍ) is uncontested; however, the codification of Arabic **grammar** as a systematic discipline is more standardly attributed to his student Sibawayhi (*al-Kitāb*). Calling al-Khalil the systematizer of grammar is common in popular Islamic education contexts but is imprecise in strict scholarly terms. This claim cannot be confirmed or denied from the provided tafsir stack. Crucially, the al-Khalil citation itself — "every 'am' in Sūrat al-Ṭūr is interrogative, not a connector" — is correctly sourced from both al-Qurṭubī (*"قال الخليل: كل ما في سورة والطور من ذكر أم فكلمة استفهام وليس بعطف"*) and al-Baghawī (*"قال الخليل: ما في هذه السورة من ذكر أم كله استفهام وليس بعطف"*), so the substantive claim is verified.
+
+All other checks pass:
+- Arabic text matches the authentic text exactly.
+- The ʿāṭifah / munqaṭiʿah grammatical distinction is standard and correctly applied.
+- The eight-question staircase (52:35–42) is accurately enumerated and paraphrased.
+- Form IV *ashraka → yushrikūna* as factitive-transitive is morphologically correct.
+- The tawbīkh / taqbīḥ framing aligns with al-Jalālayn's explicit "*للتقبيح والتوبيخ*."
+- The Qurtubi/Baghawi citations are used accurately and without inversion.
+
+SUMMARY: The reflection is accurate and well-sourced throughout; the only imprecision is describing al-Khalil as systematizer of "grammar" when his primary legacy is prosody, but this does not affect the theological or philological argument, and the al-Khalil citation it depends on is independently verified from two classical tafsir sources.

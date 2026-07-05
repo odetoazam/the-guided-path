@@ -1,0 +1,30 @@
+Enhanced Validation Report
+File: content/tadabbur/074-al-muddaththir/ayahs-026-029.md
+Ayah: 74:26
+Date: 2026-06-17T01:27:15
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: سَأُصْلِيهِ=Soon I will admit him | سَقَرَ=(in) Hell.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "the tradition preserves what he **allegedly** concluded in private…He **saw** it." — The reflection introduces al-Walīd's private acknowledgment with appropriate hedging ("allegedly") but then drops the hedge entirely with the declarative "He saw it." The report that al-Walīd privately recognized the Quran's superiority appears in classical tafsir (attributed to Ibn Abbās via various chains) but the strength of those chains is contested. Presenting it as settled interiority — "He saw it" — overstates what the tradition confirms. "The tradition reports he saw it" would be accurate; "He saw it" is not.
+
+- [MODERATE] The entire al-Walīd ibn al-Mughīra identification and the verses 74:11–25 interior-mind framing — the reference data supplied covers only verse 26; this validator cannot confirm the identification against the provided sources. The attribution is widely cited in classical tafsir (Qurṭubī, Ibn Kathīr, Ṭabarī) and is not itself an error, but it sits outside the verifiable reference data for this validation pass.
+
+Linguistic analysis checks out: root Ṣ-L-Y is correct, Form IV causative (*uṣlīhi* = "I will cause him to roast / consign him") is confirmed by all four tafsir sources using *sa-udkhiluhu* equivalents. Translation of *lā tubqī wa lā tadhar* is accurate. *Lawwāḥatun lil-bashar* as "scorching to the human surface" is grounded in Qurṭubī's "aḥraqat jildat wajhihi" and Muyassar's *mughayyiratun lil-basharah*. The *sa-* vs *sawfa* distinction is appropriately hedged ("many of the classical grammarians"). No root errors, no inverted attributions, no Arabic text errors found.
+
+SUMMARY: One genuine hedging inconsistency — "He saw it" contradicts the "allegedly" hedge two sentences earlier and overstates a tradition whose chain strength is debated; all linguistic and morphological claims are well-grounded.

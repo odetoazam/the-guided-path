@@ -1,0 +1,44 @@
+Enhanced Validation Report
+File: content/tadabbur/038-sad/ayah-003.md
+Ayah: 38:3
+Date: 2026-06-06T03:03:48
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: كَمْ=How many | أَهْلَكْنَا=We destroyed | مِن قَبْلِهِم=before them | مِّن=of | قَرْنٍ=a generation, | فَنَادَواْ=then they called out | وَّلَاتَ=when there (was) no longer | حِينَ=time | مَنَاصٍ=(for) escape.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No errors found in the portion provided.
+
+Supporting checks against the reference data:
+
+**كَمْ as kam khabariyya / takhthīr** — The reflection quotes Qurtubi as **"wa-kam lafẓatu al-takthīr."** The provided Qurtubi text reads: **"و 'كم' لفظة التكثير"** — exact match. ✓
+
+**Qurtubi's "amnaʿ min hāʾulāʾ"** — Attributed correctly. Qurtubi source: **"أي قوم كانوا أمنع من هؤلاء"** — the reflection's rendering ("more fortified, more unassailable, than these") is accurate. ✓
+
+**Root of نادى as n-d-w, Form III (fāʿala)** — Linguistically correct. Form III characterization as directing action toward another party is standard Arabic grammar and not contradicted by any provided source. ✓
+
+**فَ as fāʾ al-taʿqīb** — Consistent with Jalalayn's framing: **"فنادوا حين نزول العذاب بهم"** (they cried out *at the moment* the punishment descended). The immediacy the reflection describes is textually supported. ✓
+
+**لات analysis (lā + added tāʾ)** — Frontmatter footnote correctly attributes this to Baghawi and al-Naḥḥās. Jalalayn confirms: **"والتاء زائدة."** ✓
+
+**مَنَاص as "escape"** — Baghawi: **"والمناص مصدر ناص ينوص وهو الفوت"** (manaṣ is the verbal noun of nāṣa meaning flight/evasion). Reflection's use of "escape" is accurate. ✓
+
+**قَرْن as "generation / contemporaries"** — Jalalayn: **"أمة من الأمم الماضية"**; Baghawi: **"من الأمم الخالية."** The reflection's gloss ("people bound together in one stretch of time") stays within the attested lexical range. ✓
+
+**Note on truncation:** The text cuts off mid-sentence at "It is the form of *reac—*" (Form III elaboration). The partial claim is linguistically sound up to that point; the remainder cannot be evaluated from what was provided.
+
+SUMMARY: Every verifiable linguistic and tafsir claim in the submitted portion aligns with the reference data; no fabricated attributions, root errors, or overstated scholar positions detected.

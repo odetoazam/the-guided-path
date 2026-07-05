@@ -1,0 +1,30 @@
+Enhanced Validation Report
+File: content/tadabbur/051-adh-dhariyat/ayah-014.md
+Ayah: 51:14
+Date: 2026-06-09T13:25:35
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ذُوقُواْ=`Taste | فِتْنَتَكُمْ=your trial. | هَـٰذَا=This | ٱلَّذِى=(is) what | كُنتُم=you were | بِهِۦ=for it | تَسْتَعْجِلُونَ=seeking to hasten.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] Translation line renders فِتْنَتَكُمْ as "your trial" — all four tafsirs in the validation stack (Jalālayn: *تعذيبكم*; Muyassar: *عذابكم*; Qurṭubī: *عذابكم* citing Ibn Zayd, Mujahid, and al-Farrāʾ; Baghawī: *عذابكم*) render it as "your punishment/torment," not "your trial." Ibn ʿAbbās's reading (*تكذيبكم* = your denial, meaning its *jazāʾ*/recompense) is also heavier than a neutral "trial." The base lexical range of فتن does include testing/trial, but the classical consensus in this eschatological, punitive context is uniformly *ʿadhāb*. Presenting "trial" without acknowledgment understates the severity the classical scholars unanimously understood. (Part 2 on fitnatakum is cut off — if that section corrects this and addresses the classical reading explicitly, this may resolve to PASS.)
+
+- [MODERATE] "verse 14 — our ayah — is not narration anymore. It is direct speech ... spoken *to* them, in that moment, by the keepers of that place." — The reference data does not identify who speaks the sentence. Jalālayn and Baghawī leave the speaker implicit; Muyassar uses the passive *yuqālu lahum* ("it is said to them"). Attributing the speech specifically to "the keepers of that place" is an inference beyond what the provided tafsirs attest. It is not contradicted by them, but it is stated as fact rather than interpretation.
+
+PASS items: Root identification for *dhūqū* (ذ-و-ق) is correct. The Form X analysis of *tastaʿjilūn* is morphologically accurate. The characterization of 51:12 as mockery (*استهزاء*) is directly confirmed by Jalālayn. Contextual sequencing (51:12 → 51:13 → 51:14) is accurate. No scholar attributions are made in the visible portion, so no inversion risk. Arabic text matches the authentic with only minor typographic diacritic variation (superscript alif rendering), not a genuine error.
+
+SUMMARY: The reflection is linguistically careful and contextually grounded, but translating فِتْنَتَكُمْ as "your trial" against a unanimous classical consensus for "your punishment" is the material issue — pending whether Part 2 corrects it.

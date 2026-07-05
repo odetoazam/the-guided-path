@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/082-al-infitar/ayah-006.md
+Ayah: 82:6
+Date: 2026-06-18T15:37:55
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَـٰٓأَيُّهَا=O | ٱلْإِنسَـٰنُ=man! | مَا=What | غَرَّكَ=has deceived you | بِرَبِّكَ=concerning your Lord | ٱلْكَرِيمِ=the Most Noble,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "al-Insān — the human — the root *a-n-s* carries *uns*, intimacy, familiarity, the one made for closeness. You are not a stranger who misjudged a stranger. You are the one who *knew*." — The reflection presents the derivation of al-insān from root أ-ن-س (uns/intimacy) as settled linguistic fact, then builds a core theological argument on it ("the one who *knew*"). Classical Arabic lexicography records two competing derivations: أ-ن-س (uns = intimacy, al-Rāghib's position, which the reflection follows) and ن-س-ي (nasiya = to forget, held by al-Khalīl, al-Azharī, and others in Lisān al-ʿArab). The forgetting derivation would invert the argument entirely — insān is called insān *because he forgets*, not because he is inherently intimate/knowing. Neither position can be verified from the provided reference data; both are attested in classical lexicons. The reflection does not acknowledge the competing derivation, presenting one interpretive choice as uncontested etymology.
+
+CONFIRMED ACCURATE (from provided reference data):
+- Arabic text matches authentic source exactly
+- *gharraka* correctly identified as perfect tense, root غ-ر-ر (al-Qurṭubī: "ما الذي غرك حتى كفرت")
+- Qatāda attribution ("his shayṭān deceived him") confirmed by al-Qurṭubī: "قال قتادة: غره شيطانه المسلط عليه"
+- al-Ḥasan al-Baṣrī pairing with Qatāda supported by al-Qurṭubī (text reads "الحسن: غره" — truncated but present)
+- *iltifāt* usage is valid rhetorical framing, not falsifiable from this data
+- al-Karīm rendered "Most Generous" — al-Qurṭubī glosses it as "المتجاوز عنك" (the One who overlooks/pardons), which aligns with the reflection's theological point about generosity turned alibi
+
+SUMMARY: One moderate issue — the insān etymology is presented as a resolved linguistic fact when it is a classical two-position dispute, and the unchosen position (forgetting, not intimacy) would substantially alter the theological argument anchored to it.

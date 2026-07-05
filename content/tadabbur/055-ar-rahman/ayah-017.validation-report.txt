@@ -1,0 +1,42 @@
+Enhanced Validation Report
+File: content/tadabbur/055-ar-rahman/ayah-017.md
+Ayah: 55:17
+Date: 2026-06-10T08:42:39
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: رَبُّ=Lord | ٱلْمَشْرِقَيْنِ=(of) the two Easts | وَرَبُّ=and Lord | ٱلْمَغْرِبَيْنِ=(of) the two Wests.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate errors identified.
+
+Detailed trace:
+
+**Arabic text**: "رَبُّ ٱلْمَشْرِقَيْنِ وَرَبُّ ٱلْمَغْرِبَيْنِ" — exact match to authenticated text. ✓
+
+**Dual-solstice attribution**: The reflection attributes the winter/summer rising-point reading to al-Jalalayn, al-Baghawi, and al-Muyassar in unanimous agreement. This holds: al-Jalalayn gives "مشرق الشتاء ومشرق الصيف," al-Baghawi gives "مشرق الصيف ومشرق الشتاء," al-Muyassar explicitly adds the setting-points and frames it as rububiyyah. All three attributions are accurate. ✓
+
+**Al-Qurtubi cross-reference**: The reflection says Qurtubi "points across to Surah As-Saffat (37:5) and notes that the discussion of how these fit together belongs to that family of verses." The provided Qurtubi text says exactly "وفي (الصافات) ورب المشارق وقد مضى الكلام في ذلك هنالك." Perfect match. ✓
+
+**Three-grammar taxonomy**: Singular at 73:9 (رَبُّ الْمَشْرِقِ وَالْمَغْرِبِ), plural at 70:40 (بِرَبِّ الْمَشَارِقِ وَالْمَغَارِبِ), dual here — all three are real and correctly cited. ✓
+
+**Root and morphology**: ش-ر-ق for mashriq, *maf'il* as ism makān template, majlis/masjid as parallel examples — all lexically standard. ✓
+
+**55:5 and 55:7 citations**: "sun and moon run bi-husban" (55:5) and "sky was raised and the balance was set" (55:7) — both accurate to the surah text. ✓
+
+**One note, not flagged as an error**: The frontmatter passage_context says 55:17 is "the first descriptive verse after the surah's famous refrain begins." Strictly, 55:14–15 (the clay/fire creation verses) also follow the first refrain at 55:13. The claim is defensible only if read as "first verse after the *second* refrain instance at 55:16," which is technically true. This is minor contextual framing in metadata, not a claim in the reflection body — not worth flagging.
+
+SUMMARY: Every tafsir attribution, root analysis, cross-surah reference, and grammatical claim checks out cleanly against the provided reference data; this reflection can proceed to publication pending completion of the truncated Part 1 close.

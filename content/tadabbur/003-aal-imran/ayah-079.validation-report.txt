@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayah-079.md
+Ayah: 3:79
+Date: 2026-06-21T06:27:03
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: مَا=Not | كَانَ=is | لِبَشَرٍ=for a human | أَن=that | يُؤْتِيَهُ ٱللَّهُ=Allah gives him | ٱلْكِتَـٰبَ=the Book, | وَٱلْحُكْمَ=and the wisdom, | وَٱلنُّبُوَّةَ=and the Prophethood, | ثُمَّ=then | يَقُولَ=he says | لِلنَّاسِ=to the people, | كُونُواْ=`Be | عِبَادًا=worshippers | لِّى=of me | مِن دُونِ ٱللَّهِ=besides Allah, | وَلَـٰكِن=but (would say) | كُونُواْ=`Be | رَبَّـٰنِيِّــۧنَ=worshippers of the Lord | بِمَا=because | كُنتُمْ=you have been | تُعَلِّمُونَ=teaching | ٱلْكِتَـٰبَ=the Book | وَبِمَا=and because | كُنتُمْ=you have been | تَدْرُسُونَ=studying (it).`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Al-Qurṭubī notes it covers the one and the many alike" — this specific claim about بَشَر is attributed as a direct Qurtubi observation, but the provided Qurtubi text is truncated ("وما يكون لنا أن نتكلم بهذا يعني ما...") and does not contain this statement. The linguistic observation is accurate — بَشَر functions as both singular and collective in Arabic — but the citation is unverifiable from the provided reference data and should not be presented as a confirmed Qurtubi note.
+
+All other claims check out:
+
+- **Najran context** — confirmed directly by both Baghawi ("أن نصارى نجران كانوا يقولون إن عيسى أمرهم أن يتخذوه ربا") and Jalalayn.
+- **Muslims requesting prostration** — confirmed by Jalalayn ("ولما طلب بعض المسلمين السجود له صلى الله عليه وسلم").
+- **Ibn ʿAbbās and ʿAṭāʾ linking verse to Muhammad ﷺ via Baghawi** — confirmed verbatim ("وقال ابن عباس وعطاء: ما كان لبشر يعني محمدا").
+- **"ما كان معناه ما ينبغي" attributed to Qurtubi** — confirmed verbatim.
+- **Parallel verse مَا كَانَ لِلَّهِ أَن يَتَّخِذَ مِن وَلَدٍ cited from Qurtubi** — confirmed.
+- **الحكم rendered as "authority of judgment"** — well-supported by Muyassar ("حكمًا بين خلقه"); Jalalayn's "الفهم للشريعة" is complementary, not contradictory.
+- **Disagreement across asbāb al-nuzūl framed as a scholarly gift** — accurately reflects the actual divergence in Baghawi between Muqatil/Dahhak (Jesus) and Ibn Abbas/Ata (Muhammad).
+
+SUMMARY: One moderate issue — a Qurtubi attribution about بَشَر covering singular and plural cannot be verified from the provided (truncated) text; strip the attribution or qualify it as "classical grammarians note" rather than citing Qurtubi specifically.

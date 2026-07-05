@@ -1,0 +1,40 @@
+Enhanced Validation Report
+File: content/tadabbur/044-ad-dukhan/ayahs-051-054.md
+Ayah: 44:51
+Date: 2026-06-08T00:26:40
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّ=Indeed, | ٱلْمُتَّقِينَ=the righteous | فِى=(will be) in | مَقَامٍ=a place | أَمِينٍ=secure,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- None flagged.
+
+Verification notes on every checkable claim in the submitted text:
+
+**Al-Qurtubi paraphrase**: "having shown you the abode of the deniers and their torment, Allah now shows you the welcome of the believers and their ease" — matches ar.qurtubi verbatim: *لما ذكر مستقر الكافرين وعذابهم ذكر نزل المؤمنين ونعيمهم*. Accurate.
+
+**Root wqy + Form VIII for muttaqīn**: Correct. Form VIII (iftaʿala pattern → ittaqā) with a reflexive nuance is the standard morphological analysis, and the reflection's application — "done to the self, by the self" — is appropriate for this specific derivation. Not an overreach.
+
+**Nāfiʿ and Ibn ʿĀmir reading muqām (ḍamma)**: Verified in both supplied sources. Ar.qurtubi: *وقرأ نافع وابن عامر في مقام بضم الميم*. Ar.baghawi: *قرأ أهل المدينة والشام في مقام بضم الميم على المصدر أي في إقامة*. The reflection's gloss ("leans toward residence, a staying, a permanent dwelling") matches Baghawi's *إقامة* exactly.
+
+**Al-Jawharī on maqām/muqām**: Referenced in the correct context. Ar.qurtubi cites him in this precise discussion (*قال الجوهري: وأما المقام والمقام فقد يكون كل واحد منهما بمعن*) — the excerpt is truncated but his appearance is confirmed.
+
+**Amīn applied to a place**: Ar.jalalayn — *مجلس أمين يؤمن فيه الخوف* ("a gathering where fear is made safe"). Ar.baghawi — *أمنوا فيه من الغير أي من الموت ومن الخروج منه*. The reflection's framing — "a word that describes a kind of person you can trust, pinned onto a place" — is a clean, legitimate observation, not a fabrication.
+
+**Root a-m-n for amīn**: Standard and correct. Text cuts off before any further claim is made, so nothing beyond this is checkable.
+
+SUMMARY: Every verifiable linguistic and tafsir claim in the submitted text is corroborated by the supplied reference data; no factual errors, attribution inversions, or Arabic text mistakes detected.

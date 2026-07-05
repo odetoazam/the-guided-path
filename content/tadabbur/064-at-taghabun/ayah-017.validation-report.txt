@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/064-at-taghabun/ayah-017.md
+Ayah: 64:17
+Date: 2026-06-13T10:09:18
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِن=If | تُقْرِضُواْ=you loan | ٱللَّهَ=(to) Allah | قَرْضًا=a loan | حَسَنًا=goodly, | يُضَـٰعِفْهُ=He will multiply it | لَكُمْ=for you | وَيَغْفِرْ=and will forgive | لَكُمْ‌ۚ=you. | وَٱللَّهُ=And Allah | شَكُورٌ=(is) Most Appreciative, | حَلِيمٌ=Most Forbearing,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "He calls Himself **Shakūr**. *The One who is grateful. The One who appreciates. The One who says thank you.*" — Ash-Shakūr as a divine name carries the meaning of greatly rewarding acts of obedience, not human-like gratitude. Al-Jalalayn glosses it explicitly as "مجاز على الطاعة" (figuratively, in recompense for obedience), not as an expression of Allah experiencing thankfulness. The reflection's "says thank you" framing is clearly rhetorical device rather than a doctrinal claim, and the rhetorical move is self-aware ("let me find this almost impossible to sit with"), so this does not rise to CRITICAL — but a reader could lift the phrase out of context and misread it as anthropomorphism.
+
+- [PASS] Root qaraḍa (ق ر ض) = "to cut"; miqrāḍ = scissors — standard Lisān al-ʿArab lexicology, cannot verify against the provided reference data directly, but this is well-attested classical morphology and no counter-indication exists in the references provided.
+
+- [PASS] Verb forms (tuqriḍū Form IV, yuḍāʿifhu Form III, yaghfir Form I) — correct. Form III ḍāʿafa → yuḍāʿifu is the primary reading; Jalalayn notes the Form II variant (yuḍaʿʿifhu, geminated) without invalidating the primary, and the reflection does not deny this variant.
+
+- [PASS] Contextual claims for 64:14–16 (wealth/children as fitnah; fear, listen, obey, spend) — accurate per surah context.
+
+- [PASS] Arabic in frontmatter and body matches authentic text (minor Unicode diacritic rendering differences only, no substantive divergence).
+
+- [PASS] Multiplication framing — reflection does not assign a specific ratio (10×, 700×), which avoids overstating; Jalalayn gives "ten to seven hundred and more" as the range, leaving the upper bound open as the reflection implies.
+
+SUMMARY: The reflection is linguistically careful and theologically grounded; the single flag is the "says thank you" gloss on Ash-Shakūr, which is a deliberate literary provocation rather than a doctrinal claim, but warrants awareness given its quotability out of context.

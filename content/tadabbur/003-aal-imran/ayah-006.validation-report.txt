@@ -1,0 +1,30 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayah-006.md
+Ayah: 3:6
+Date: 2026-06-21T06:21:57
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: هُوَ=He | ٱلَّذِى=(is) the One Who | يُصَوِّرُكُمْ=shapes you | فِى=in | ٱلْأَرْحَامِ=the wombs | كَيْفَ=how(ever) | يَشَآءُ‌ۚ=He wills. | لَآ=(There is) no | إِلَـٰهَ=god | إِلَّا=except | هُوَ=Him | ٱلْعَزِيزُ=the All-Mighty, | ٱلْحَكِيمُ=the All-Wise.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE] "Al-Baghawī and al-Qurṭubī both note that this ayah carries, folded inside it, a response to the delegation of Najran" — Baghawī is explicitly confirmed: "وهذا في الرد على وفد نجران من النصارى" ✓. The provided Qurṭubī excerpt cuts off before reaching the Najran discussion (it stops at the etymology of ṣūra), so the dual attribution cannot be *verified* from the data supplied. The full Qurṭubī does address it, but this validator can only confirm what the data shows. Not an error — a data-coverage gap.
+- [NOTE] "He shapes you in the wombs — as male and female, as light-skinned and dark, and so on" attributed to al-Jalālayn — the provided Jalālayn text reads "من ذكورة وأنوثة وبياض وسواد وغير ذلك" ✓. Accurate quotation.
+- [NOTE] "Al-Baghawī expands the list further: male or female, light or dark, beautiful or plain, complete or lacking" — Baghawī: "ذكرا أو أنثى، أبيض أو أسود، حسنا أو قبيحا، تاما أو ناقصا" ✓. Accurate summary.
+- [NOTE] Form II analysis of يُصَوِّرُ (root ṣ-w-r, doubled middle radical, faʿʿala pattern) — grammatically correct; the claim that it intensifies deliberate action is standard Arabic morphology and consistent with all four tafsir sources treating the verb as purposeful divine artistry.
+- [NOTE] "it is as if it says: how could ʿĪsā be a god, when ʿĪsā himself was among those shaped in a womb?" — Baghawī's exact wording: "فكأنه يقول: كيف يكون لله ولد وقد صوره الله تعالى في الرحم" ✓. The reflection's paraphrase is a fair rendering.
+
+SUMMARY: All factual, linguistic, and attribution claims in the visible portion of this reflection are either directly confirmed by the provided reference data or are sound classical Arabic morphology; no errors detected.

@@ -1,0 +1,40 @@
+Enhanced Validation Report
+File: content/tadabbur/064-at-taghabun/ayah-001.md
+Ayah: 64:1
+Date: 2026-06-13T09:52:00
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يُسَبِّحُ=Glorifies | لِلَّهِ=[to] Allah | مَا=whatever | فِى=(is) in | ٱلسَّمَـٰوَٲتِ=the heavens | وَمَا=and whatever | فِى=(is) in | ٱلْأَرْضِ‌ۖ=the earth. | لَهُ=For Him | ٱلْمُلْكُ=(is the) dominion | وَلَهُ=and for Him | ٱلْحَمْدُ‌ۖ=(is) the praise. | وَهُوَ=And He | عَلَىٰ=(is) on | كُلِّ=every | شَىْءٍ=thing | قَدِيرٌ=All-powerful.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate errors found in the visible content.
+
+Supporting checks:
+
+**يُسَبِّحُ as muḍāriʿ (ongoing tense):** Correct. The form is unambiguously muḍāriʿ. The reflection's contrast with the past-tense *sabbaḥa* openings of Al-Hadid (57:1), Al-Hashr (59:1), and As-Saff (61:1) is accurate — all three do open with *sabbaḥa* (past). Al-Jumuʿah (62:1) and At-Taghabun (64:1) both open with *yusabbiḥu* (present). Claim is verifiable.
+
+**"Last surah in the Quran's order to begin by declaring that all creation glorifies Allah":** Accurate. Surahs 65–114 contain no further declaration-of-creation-glorifying opening. Al-Aʿlā (87:1) is an imperative (*sabbiḥi*), not a declarative report about creation — the reflection correctly omits it from this category.
+
+**مَا vs مَن / taghlib:** The frontmatter lists *taghlib* and *ma-vs-man* as concepts. Al-Jalalayn explicitly confirms: *"wa atā bi-mā dūna man taghlīban lil-akthar"* — "He used مَا instead of مَن by taghlib to emphasize the majority." The reflection's allusion to this ("a tiny, two-letter word… the choice rewrites who is included") is grounded in classical tafsir.
+
+**Surah name translation:** *At-taghābun* as "mutual loss and gain" is the standard classical reading. No overreach.
+
+**Arabic text:** Matches the authenticated Arabic exactly.
+
+**Translation:** "To Him belongs the dominion, and to Him belongs all praise" accurately renders *lahu al-mulku wa lahu al-ḥamd* per the word-by-word data.
+
+SUMMARY: All verifiable claims in the visible content are linguistically and exegetically sound, with the tense analysis, musabbiḥāt taxonomy, and taghlib reference all corroborated by the classical sources provided.

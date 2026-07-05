@@ -1,0 +1,37 @@
+Enhanced Validation Report
+File: content/tadabbur/059-al-hashr/ayah-005.md
+Ayah: 59:5
+Date: 2026-06-12T19:58:00
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: مَا=Whatever | قَطَعْتُم=you cut down | مِّن=of | لِّينَةٍ=(the) palm-trees | أَوْ=or | تَرَكْتُمُوهَا=you left them | قَآئِمَةً=standing | عَلَىٰٓ=on | أُصُولِهَا=their roots, | فَبِإِذْنِ=it (was) by the permission | ٱللَّهِ=(of) Allah, | وَلِيُخْزِىَ=and that He may disgrace | ٱلْفَـٰسِقِينَ=the defiantly disobedient.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+**VERDICT: PASS**
+
+**ISSUES:**
+
+- [MINOR / UNVERIFIABLE FROM PROVIDED DATA] "conspiring, in the reports, to assassinate him" — the assassination-plot narrative is well-attested in sīrah sources (Ibn Hishām, al-Ṭabarī), but the four tafsir excerpts provided cite only covenant-breaking through Quraysh alliance (*"نقضوا العهد بمعونة قريش"* — al-Qurṭubī). The reflection appropriately hedges with "in the reports," so this is not a factual error, but it cannot be confirmed from the reference data as supplied.
+
+- [VERIFIABLE / ACCURATE] "Jalāl al-Dīn glosses it simply: *līna* — a date-palm" — confirmed: *«من لينة» نخلة* (Jalālayn). Attribution precise.
+
+- [VERIFIABLE / ACCURATE] The Baghawī taunt quotation paraphrased in the reflection (*"Is it 'good' to cut down fruitful trees?... a license for corruption in the land?"*) matches the Arabic faithfully: *"أفمن الصلاح عقر الشجر وقطع النخيل فهل وجدت فيما زعمت أنه أنزل عليك الفساد في الأرض؟"* No distortion.
+
+- [VERIFIABLE / ACCURATE] "The Muslims found something in themselves — *wajada al-muslimūna fī anfusihim*" — consistent with Baghawī's truncated passage *"فوجد المسلمون في أ..."* which begins the identical formulation.
+
+- [VERIFIABLE / ACCURATE] Root *l-y-n* meaning softness/tenderness is lexically standard (Lisān al-ʿArab, Mufradāt al-Rāghib cited in morphology note); the interpretive move connecting the root texture to the theological reframe is within bounds for tadabbur and is not presented as tafsir consensus.
+
+- [VERIFIABLE / ACCURATE] Jalālayn's *"خيَّركم في ذلك"* (He gave you the choice in that) is correctly reflected in the theological framing of "both roads held by divine permission."
+
+**SUMMARY:** All core linguistic, historical, and theological claims are accurate against the provided reference data; one piece of historical background (assassination plot) is unverifiable from the tafsir excerpts given but is appropriately hedged in the text.

@@ -1,0 +1,27 @@
+Enhanced Validation Report
+File: content/tadabbur/046-al-ahqaf/ayah-020.md
+Ayah: 46:20
+Date: 2026-06-08T06:30:13
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَيَوْمَ=And (the) Day | يُعْرَضُ=will be exposed | ٱلَّذِينَ=those who | كَفَرُواْ=disbelieved | عَلَى=to | ٱلنَّارِ=the Fire. | أَذْهَبْتُمْ=`You exhausted | طَيِّبَـٰتِكُمْ=your good things | فِى=in | حَيَاتِكُمُ=your life | ٱلدُّنْيَا=(of) the world, | وَٱسْتَمْتَعْتُم=and you took your pleasures | بِهَا=therein. | فَٱلْيَوْمَ=So today | تُجْزَوْنَ=you will be recompensed | عَذَابَ=(with) a punishment | ٱلْهُونِ=humiliating | بِمَا=because | كُنتُمْ=you were | تَسْتَكْبِرُونَ=arrogant | فِى=in | ٱلْأَرْضِ=the earth | بِغَيْرِ=without | ٱلْحَقِّ=[the] right | وَبِمَا=and because | كُنتُمْ=you were | تَفْسُقُونَ=defiantly disobedient.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE] "Al-Baghawī and al-Qurṭubī both note that some of the early reciters — Ibn Kathīr, Ibn ʿĀmir, and others — read this not as a flat statement... but as a question" — The al-Baghawī attribution is confirmed verbatim: "قرأ ابن كثير ، وابن عامر ، وأبو جعفر ، ويعقوب : 'أأذهبتم' ، بالاستفهام." The al-Qurṭubī excerpt is truncated at exactly "أذهبتم طي..." before any qirāʾāt discussion appears, so this attribution cannot be verified from the provided data — though it is plausible given al-Qurṭubī's characteristic coverage of qirāʾāt. Not flagging as MODERATE because the claim is not demonstrably false; it is unverifiable from the supplied excerpt only.
+- [NOTE] The reflection omits Abū Jaʿfar and Yaʿqūb from the list of reciters using the interrogative form — covered by "and others," so not an error.
+
+SUMMARY: All morphological, qirāʾāt, contextual, and translation claims are accurate and grounded in the provided reference data; the sole unresolved item is the Qurṭubī attribution for the interrogative reading, which is plausible but cannot be confirmed from the truncated excerpt supplied.

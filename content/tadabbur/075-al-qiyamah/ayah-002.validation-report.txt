@@ -1,0 +1,37 @@
+Enhanced Validation Report
+File: content/tadabbur/075-al-qiyamah/ayah-002.md
+Ayah: 75:1
+Date: 2026-05-14T23:20:30
+
+[1] Arabic text: ❌ fail
+    → Arabic text mismatch. API: "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ لَآ أُقْسِمُ بِيَوْمِ ٱلْقِيَٰمَةِ..."
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: لَآ=Nay! | أُقْسِمُ=I swear | بِيَوْمِ=by (the) Day | ٱلْقِيَـٰمَةِ=(of) the Resurrection.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 2
+  Failed:   0
+
+⚠️  All verses matched but 2 had diacritics or partial differences.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+
+- [MODERATE] "Form IV adds formality — this isn't casual speech. It's a performative, solemn declaration." — The morphological reasoning is imprecise in a way that could mislead readers learning Arabic. أَقْسَمَ (Form IV) and قَسَمَ (Form I) are not the same verb at different registers; they are entirely different verbs with different semantic fields: Form I (قَسَمَ) means "to divide/distribute," Form IV (أَقْسَمَ) means "to swear an oath." The solemnity belongs to the verb's meaning, not to the Form IV pattern as such. The conclusion reached ("performative, solemn") is correct; the morphological path taken to get there is not.
+
+- [UNVERIFIABLE FROM PROVIDED DATA] "Ibn Kathir (who quotes Hasan al-Basri: 'the believer is always censuring himself')" — Ibn Kathir's tafsir was not included in the reference sources. This attribution is widely circulated in Islamic literature and is plausible, but cannot be confirmed against the provided data. If sourced, it should be verifiable.
+
+CHECKS THAT PASS:
+
+- لا زائدة debate: both readings (emphatic and genuine negation of necessity) are documented in classical tafsir. Al-Jalalain and al-Qurtubi both support the emphatic reading as dominant; the reflection presents it as such while acknowledging the alternative. Accurate.
+- Parallel occurrences of لا أقسم (56:75, 69:38, 70:40, 90:1): all four references are correct.
+- Root assignments (قسم, يوم, قوم, نفس, لوم) and the القيامة ← قوم derivation: accurate.
+- fa''ālah intensive pattern for لَوَّامَة: correct. The comparison to عَلَّامَة and فَهَّامَة is legitimate and pedagogically sound.
+- Arabic text in the blockquote matches the authenticated Arabic for 75:1.
+
+SUMMARY: One morphological explanation conflates Form IV with "added formality" when the two verb forms are semantically unrelated roots; the conclusion (solemn oath) is correct but the reasoning is a teaching error that should be corrected before publication.

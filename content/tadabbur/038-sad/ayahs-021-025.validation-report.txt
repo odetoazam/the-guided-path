@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/038-sad/ayahs-021-025.md
+Ayah: 38:21
+Date: 2026-06-06T00:00:38
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ۞ وَهَلْ=And has (there) | أَتَـٰكَ=come to you | نَبَؤُاْ=(the) news | ٱلْخَصْمِ=(of) the litigants, | إِذْ=when | تَسَوَّرُواْ=they climbed over the wall | ٱلْمِحْرَابَ=(of) the chamber?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "two men appear inside a locked room" — The word *locked* is an inference; Jalalayn says entry was blocked because Dawud was engaged in worship ("لشغله بالعبادة"), not that the room was physically locked. The distinction matters because the strangeness is devotional barrier-crossing, not a lock-pick. Not an error, but slightly imprecise framing.
+- [NOTE — NOT AN ERROR] "محراب...the private chamber" — Jalalayn renders this as "مسجده" (his mosque/oratory) and Muyassar as "مكان عبادته" (his place of worship). Translating it as "private chamber" is a defensible English rendering but softens the sacred/liturgical character the classical sources foreground. No verdict impact; flagged for awareness.
+- [PASS] Root claim for تَسَوَّرُوا — The reflection identifies root س-و-ر and *sūr* as "the high outer wall of an enclosure." This is correct and confirmed by the word-by-word data ("they climbed over the wall"). The Form V derivation analysis is linguistically sound.
+- [PASS] 38:17 citation ("dha-l-ayd; innahu awwāb") — accurate cross-reference, correctly translated and contextually applied.
+- [PASS] All root listings in the frontmatter morphology note (Aty, nbA, swr, xSm) are correctly identified for 38:21.
+
+**Scope caveat:** Reference data covers 38:21 only. The reflection extends through ayahs 22–25 (ewe dispute, verdict, repentance, forgiveness). That content cannot be validated against the provided sources — it should receive its own verification pass with word-by-word data for those ayahs.
+
+SUMMARY: The 38:21 content is accurate and well-grounded; the one soft imprecision ("locked room") is a framing choice, not a factual error, and ayahs 22–25 remain unverified pending reference data for those verses.

@@ -1,0 +1,27 @@
+Enhanced Validation Report
+File: content/tadabbur/068-al-qalam/ayah-047.md
+Ayah: 68:47
+Date: 2026-06-15T00:30:27
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَمْ=Or | عِندَهُمُ=(is) with them | ٱلْغَيْبُ=the unseen, | فَهُمْ=so they | يَكْتُبُونَ=write it?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE] "Or do they have associates who will vouch for them?" (paraphrase of 68:41) — slightly interpretive ("vouch for them" implies intercession); the Arabic أَمْ لَهُمْ شُرَكَاءُ is literally "Or do they have partners?" The intercession framing is classically attested but the reflection presents it as a paraphrase, not a translation, so this is within bounds.
+- [NOTE] The reflection's account of ghayb's root غ-ي-ب as evoking "something that has *set* — the way the sun sets" is lexically attested (غابت الشمس = "the sun set") and the morphology note correctly credits Lisān al-ʿArab and Mufradāt al-Rāghib; no objection, but the text is cut off before the full classical definition can be evaluated.
+
+SUMMARY: All verifiable claims — the grammatical identification of أَمْ as *munqaṭiʿa*, the cascade structure of 68:37/39/41/47, the Jalālayn's identification of الغيب with the Preserved Tablet, the word-by-word translation, the root analysis — are accurate against the provided reference data and Quranic text; no critical or moderate errors found.

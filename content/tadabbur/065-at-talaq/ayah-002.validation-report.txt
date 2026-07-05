@@ -1,0 +1,27 @@
+Enhanced Validation Report
+File: content/tadabbur/065-at-talaq/ayah-002.md
+Ayah: 65:2
+Date: 2026-06-13T11:37:16
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَإِذَا=Then when | بَلَغْنَ=they have reached | أَجَلَهُنَّ=their term, | فَأَمْسِكُوهُنَّ=then retain them | بِمَعْرُوفٍ=with kindness | أَوْ=or | فَارِقُوهُنَّ=part with them | بِمَعْرُوفٍ=with kindness. | وَأَشْهِدُواْ=And take witness | ذَوَىْ=two men | عَدْلٍ=just | مِّنكُمْ=among you | وَأَقِيمُواْ=and establish | ٱلشَّهَـٰدَةَ=the testimony | لِلَّهِ‌ۚ=for Allah. | ذَٲلِكُمْ=That | يُوعَظُ=is instructed, | بِهِۦ=with it, | مَن=whoever | كَانَ=[is] | يُؤْمِنُ=believes | بِٱللَّهِ=in Allah | وَٱلْيَوْمِ=and the Day | ٱلْأَخِرِ‌ۚ=the Last. | وَمَن=And whoever | يَتَّقِ ٱللَّهَ=fears Allah, | يَجْعَل=He will make | لَّهُۥ=for him | مَخْرَجًا=a way out,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Al-Qurtubī explains *fāriqūhunna bi-maʿrūf* as: 'leave them until their term expires, without intending harm.'" — The provided Qurtubī excerpt reads only "اتركوهن حتى تنقضي عدتهن فيم..." (truncated). "Leave them until their term expires" is present; "without intending harm" is not explicitly stated in the available Qurtubī text for the parting clause. The clearest source for that formulation in the reference data is Muyassar: "دون المضارَّة لهن." The attribution to Qurtubī specifically exceeds what the provided excerpt demonstrates.
+- [MODERATE] "al-Baghawī, al-Jalālayn, the entire stack — they read the parting *bi-maʿrūf* as parting without *ḍirār*" — Baghawī's excerpt for the parting clause ("اتركوهن حتى تنقضي عدتهن فتبين منكم") contains no mention of *ḍirār*. Jalālayn's "ولا تضاروهن بالمراجعة" appears under the *fāriqūhunna* clause but anchors the harm specifically to the act of revocation (*murājaʿa*) as a weapon, not to parting as a standalone. Extending "the entire stack" to Baghawī overstates the consensus the provided excerpts support.
+
+SUMMARY: The reflection's core linguistic claims (root ع-ر-ف, double *bi-maʿrūf* symmetry, *makhraj* promise) are accurate and well-grounded, but two attributions claim more explicit classical support than the provided tafsir excerpts supply — reassigning "without intending harm" from Muyassar to Qurtubī, and extending the *ḍirār* reading to Baghawī without textual basis.

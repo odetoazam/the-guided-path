@@ -1,0 +1,42 @@
+Enhanced Validation Report
+File: content/tadabbur/064-at-taghabun/ayah-009.md
+Ayah: 64:9
+Date: 2026-06-13T09:23:34
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَوْمَ=(The) Day | يَجْمَعُكُمْ=He will assemble you | لِيَوْمِ=for (the) Day | ٱلْجَمْعِ‌ۖ=(of) the Assembly, | ذَٲلِكَ=that | يَوْمُ=(will be the) Day | ٱلتَّغَابُنِ‌ۗ=(of) mutual loss and gain. | وَمَن=And whoever | يُؤْمِنۢ=believes | بِٱللَّهِ=in Allah | وَيَعْمَلْ=and does | صَـٰلِحًا=righteousness, | يُكَفِّرْ=He will remove | عَنْهُ=from him | سَيِّـَٔـاتِهِۦ=his misdeeds, | وَيُدْخِلْهُ=and He will admit him | جَنَّـٰتٍ=(to) Gardens | تَجْرِى=flow | مِن=from | تَحْتِهَا=underneath it | ٱلْأَنْهَـٰرُ=the rivers, | خَـٰلِدِينَ=abiding | فِيهَآ=therein | أَبَدًا‌ۚ=forever. | ذَٲلِكَ=That | ٱلْفَوْزُ=(is) the success | ٱلْعَظِيمُ=the great.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- None identified.
+
+Detailed checks against provided reference data:
+
+1. **Al-Qurtubi attribution** — "al-ghabnu: an-naqṣ" and the gloss "to get less than the thing was worth": Qurtubi text reads "الغبن: النقص. يقال: غبنه غبنا إذا أخذ الشيء منه بدون قيمته" — exact match on the quote, accurate gloss.
+
+2. **Al-Baghawi Form VI citation** — "wa huwa tafāʿulun min al-ghabn": Baghawi text reads "وهو تفاعل من الغبن" — verbatim match.
+
+3. **Al-Baghawi on the believer's ghabn** — "wa ghabnu kulli mu'minin bi-taqṣīrihi fī-l-iḥsān": Baghawi text reads "وغبن كل مؤمن بتقصيره في الإحسان" — verbatim match.
+
+4. **Al-Jalalayn / Al-Baghawi on believers inheriting the disbeliever's would-be station**: Jalalayn reads "يغبن المؤمنون الكافرين بأخذ منازلهم وأهليهم في الجنة لو آمنوا" — the reflection's paraphrase ("the believer takes possession of what the disbeliever forfeited — the disbeliever's would-be place in the Garden") is accurate and not overstated.
+
+5. **Form VI linguistic claim (tafāʿul = mutuality)**: Grammatically correct; *taghābun* (تَغَابُن) is standard Form VI.
+
+6. **"Only place in the Quran where the word at-Taghabun appears"**: Accurate — the root in this exact nominal Form VI construction is hapax in the Quran.
+
+7. **Arabic text in frontmatter**: Minor Unicode diacritic differences from the authentic text (e.g., ۢ/ۭ Quranic pause marks absent) — these are encoding variations, not textual errors.
+
+SUMMARY: Every classical tafsir citation is verbatim-accurate against the provided sources, the Form VI linguistic analysis is correct, and no interpretive claim is stated as documented fact beyond what the tafsir data supports.

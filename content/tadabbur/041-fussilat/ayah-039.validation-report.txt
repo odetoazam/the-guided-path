@@ -1,0 +1,24 @@
+Enhanced Validation Report
+File: content/tadabbur/041-fussilat/ayah-039.md
+Ayah: 41:39
+Date: 2026-06-06T12:55:28
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَمِنْ=And among | ءَايَـٰتِهِۦٓ=His Signs | أَنَّكَ=(is) that you | تَرَى=see | ٱلْأَرْضَ=the earth | خَـٰشِعَةً=barren, | فَإِذَآ=but when | أَنزَلْنَا=We send down | عَلَيْهَا=upon it | ٱلْمَآءَ=water | ٱهْتَزَّتْ=it is stirred (to life) | وَرَبَتْ‌ۚ=and grows. | إِنَّ=Indeed, | ٱلَّذِىٓ=the One Who | أَحْيَاهَا=gives it life, | لَمُحْىِ=(is) surely the Giver of life | ٱلْمَوْتَىٰٓ‌ۚ=(to) the dead. | إِنَّهُۥ=Indeed, He | عَلَىٰ=(is) on | كُلِّ=every | شَىْءٍ=thing | قَدِيرٌ=All-Powerful.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: ERROR
+ISSUES:
+- Could not run Claude check: Command failed: claude -p --system-prompt "You are a rigorous Islamic scholarship validator for Ayah
+SUMMARY: Claude semantic check failed

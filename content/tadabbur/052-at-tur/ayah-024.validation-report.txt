@@ -1,0 +1,38 @@
+Enhanced Validation Report
+File: content/tadabbur/052-at-tur/ayah-024.md
+Ayah: 52:24
+Date: 2026-06-09T15:56:37
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ۞ وَيَطُوفُ=And will circulate | عَلَيْهِمْ=among them | غِلْمَانٌ=boys | لَّهُمْ=for them, | كَأَنَّهُمْ=as if they (were) | لُؤْلُؤٌ=pearls | مَّكْنُونٌ=well-protected.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+**VERDICT: PASS**
+
+**ISSUES:**
+- No critical or moderate errors found in the provided portion.
+
+Specific checks performed:
+
+1. **يَطُوفُ root (ṭ-w-f)** — The ṭawāf connection is lexically sound. The reversal framing ("the one who circled is now the one who is circled") is presented explicitly as *reflective application*, not a tafsir claim. No misattribution.
+
+2. **غِلْمَانٌ rendered "young servants"** — Al-Jalālayn (arqāʾ), al-Muyassar (muʿaddūn li-khidmatihim), and al-Baghawī (bi-l-khidma) all confirm servant function. The reflection wisely avoids the contested identity question (whose children? created beings?) that al-Qurṭubī flags — it simply says "young servants," which all sources support.
+
+3. **لُؤْلُؤٌ مَّكْنُونٌ** — Translated "pearls kept hidden and protected." Al-Jalālayn: *makhzūn fī al-ṣadaf*; al-Baghawī: *makhzūn maṣūn lam tamasshu al-aydī*. The "kept hidden" rendering is accurate to the concealment sense confirmed by both.
+
+4. **يَطُوفُ as muḍāriʿ (ongoing/renewing)** — Grammatically correct. The tense claim is standard Arabic grammar, not an interpretive leap.
+
+5. **2:125 as related ayah** — Legitimate given the ṭawāf thematic link explicitly developed in the reflection.
+
+**SUMMARY:** The reflection is linguistically precise, its interpretive moves are clearly framed as reflection rather than scholarly citation, and no factual claims exceed what the reference data supports.

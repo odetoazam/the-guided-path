@@ -1,0 +1,30 @@
+Enhanced Validation Report
+File: content/tadabbur/050-qaf/ayah-001.md
+Ayah: 50:1
+Date: 2026-06-08T19:04:11
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: قٓ‌ۚ=Qaf. | وَٱلْقُرْءَانِ=By the Quran, | ٱلْمَجِيدِ=the Glorious.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "every Friday and on the two Eids from the minbar" — The Qurṭubī excerpt confirms the Umm Hishām hadith (Ṣaḥīḥ Muslim) and her shared-oven proximity, but the provided reference text only surfaces the oven detail. The Eid recitation claim derives from a separate narration (Jābir ibn Samurah, also in Muslim) that is not present in any of the four provided tafsīr sources. The passage-context frontmatter merges both traditions under a single citation as if they are one narration. The body text correctly quotes only the Friday detail from Umm Hishām, which is internally consistent — but the framing sentence conflates them.
+
+- [MODERATE] "And some said its meaning is قُضِيَ الأمر — 'the matter has been decreed'" attributed to "Baghawī and elsewhere" — this position does not appear in any of the four provided tafsīr sources. The Baghawī excerpt is truncated at "ويقال ه..." so it may continue there, but it cannot be verified from the reference data supplied. Attributing it to Baghawī on the basis of a truncated excerpt overstates what the reference data confirms.
+
+No CRITICAL issues found. The Jalālayn quote («ق» الله أعلم بمراده به) is a verbatim match. The Muyassar cross-reference to Sūrat al-Baqarah ("سبق الكلام على الحروف المقطعة في أول سورة البقرة") is accurately rendered. The Baghawī positions — Ibn ʿAbbās (قسم), name of the surah, name of the Qur'an, and al-Qurazī's key-to-divine-names (القدير، القادر، القاهر، القريب، القابض) — all match the provided text, though the reflection omits al-Qadīr from the list, leaving four of five names. The mountain narration is correctly placed on Ikrimah and Dahhāk and correctly flagged as unauthenticated. The qalqala identification is accurate, and the jawāb al-qasam observation is a legitimate classical linguistic position.
+
+SUMMARY: The core scholarship is precise and textually honest, but two claims — the Eid recitation detail and the قُضِيَ الأمر position — are stated as documented facts that exceed what the provided reference data can confirm.

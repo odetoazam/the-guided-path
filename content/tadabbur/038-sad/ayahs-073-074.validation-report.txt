@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/038-sad/ayahs-073-074.md
+Ayah: 38:73
+Date: 2026-06-06T01:26:13
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَسَجَدَ=So prostrated | ٱلْمَلَـٰٓئِكَةُ=the Angels | كُلُّهُمْ=all of them | أَجْمَعُونَ=together.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR NOTE] "became one of the disbelievers" — renders **وَكَانَ مِنَ ٱلْكَـٰفِرِينَ** with "became" (صار), but the verb is **كَانَ** ("was"). The Muyassar glosses this as *"كان من الكافرين في علم الله تعالى"* — he *was already* among the disbelievers in Allah's foreknowledge, not that he transitioned into kufr at the moment of refusal. The "became" rendering implies a processual change the Arabic does not carry. This is a defensible English choice with some classical support, but it occludes the major classical reading. Worth a translator's note; not a disqualifying error.
+
+No other issues found. All claims checked against provided data:
+
+- **Double tawkīd** on كُلُّهُمْ أَجْمَعُونَ — confirmed directly by Jalalayn: «فيه تأكيدان»
+- **فَ of immediacy** — standard Arabic grammar, correctly described
+- **38:2 ʿizzah/shiqāq** — quote and attribution accurate
+- **38:72 command** — correctly cited as immediate antecedent
+- **istakbara Form X** — classically attested reflexive/declarative reading; Muyassar confirms أنَفَةً وتكبرًا
+- **Thematic arc** (38:2 → 38:73) — interpretive but well-grounded in the surah's own framing; no overstated scholar claim attached to it
+- No root errors, no inverted attributions, no fabricated Arabic
+
+SUMMARY: The reflection is linguistically and interpretively sound; the sole minor issue is "became" for كَانَ, which should ideally be "was" to preserve the Muyassar's reading of divine foreknowledge.

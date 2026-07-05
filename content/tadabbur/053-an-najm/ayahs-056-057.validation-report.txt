@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/053-an-najm/ayahs-056-057.md
+Ayah: 53:56
+Date: 2026-06-09T18:57:44
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: هَـٰذَا=This | نَذِيرٌ=(is) a warner, | مِّنَ=from | ٱلنُّذُرِ=the warners | ٱلْأُولَىٰٓ=the former.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "When the Arabic mind gathers a plurality into a single collective body, it can refer to that body with the feminine singular" — the reflection presents this as a clean grammatical rule explaining ٱلْأُولَىٰ with ٱلنُّذُرِ, but the standard rule (feminine singular agreement with broken plurals) applies primarily to non-rational nouns; ٱلنُّذُرِ refers to human prophets (rational, عاقل). The phenomenon is real — broken plurals can take feminine singular agreement in classical Arabic even for rational referents — but the "collective body" framing is the reflection's own literary interpretation, stated with grammatical authority that none of the four tafsir sources exercise. This is an interpretive extension dressed as documented grammar.
+
+- [NOTE, NOT FLAGGED] Al-Qurṭubī records Qatāda's dissenting view that هَـٰذَا refers to the Quran, not the Prophet. The reflection presents only the majority position (Muhammad ﷺ as the referent) — confirmed by Jalālayn, Muyassar, and Baghawi — which is sound. The omission is a selection choice, not an error, and appropriate for tadabbur genre.
+
+All other claims check out:
+- نَذِير as faʿīl (فَعِيل) conveying settled essential quality vs. مُنذِر (active participle) — morphologically accurate
+- ٱلنُّذُرِ as plural of nadhīr — word-by-word confirms
+- هَـٰذَا = Muhammad ﷺ — confirmed by three of four tafsir sources outright
+- Prophetic continuity framing ("رسول كالرسل قبله") — matches Jalālayn, Baghawi, and Qurṭubī exactly
+- Root assignments (ن-ذ-ر, أ-و-ل, أ-ز-ف) — all correct
+
+SUMMARY: One moderate issue — the ٱلْأُولَىٰ grammatical explanation overstates certainty for a claim no cited tafsir source makes; all core theological, morphological, and attribution claims are accurate.

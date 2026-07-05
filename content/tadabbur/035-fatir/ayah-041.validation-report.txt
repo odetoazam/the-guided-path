@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/035-fatir/ayah-041.md
+Ayah: 35:41
+Date: 2026-05-18T05:45:45
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ۞ إِنَّ=Indeed, | ٱللَّهَ=Allah | يُمْسِكُ=upholds | ٱلسَّمَـٰوَٲتِ=the heavens | وَٱلْأَرْضَ=and the earth, | أَن=lest | تَزُولَاۚ=they cease. | وَلَئِن=And if | زَالَتَآ=they should cease, | إِنْ=not | أَمْسَكَهُمَا=can uphold them | مِنْ=any | أَحَدٍ=one | مِّنۢ بَعْدِهِۚۦٓ=after Him. | إِنَّهُۥ=Indeed, He | كَانَ=is | حَلِيمًا=Most Forbearing, | غَفُورًا=Oft-Forgiving.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+
+- [MODERATE] "Form IV — *yumsiku* — which adds a hamza at the start" — This accurately describes the *perfect* Form IV (أَمْسَكَ), but the verb under analysis is the *imperfect* يُمْسِكُ, which carries no hamza. In the imperfect, Form IV is identified by the kasra on the middle radical (يُمْسِكُ vs. Form I يَمْسُكُ). The reflection is explicitly "teaching the form" to readers, so this imprecision in a morphological instruction context is worth flagging. The *functional* conclusion drawn (ongoing transitive grip) is correct; only the morphological identification rule is imprecise.
+
+- [MODERATE] "Form IV puts the holding *onto something*, making the object the focus of the action" — This is a non-standard characterization of Form IV function. Form IV (أَفْعَلَ) is primarily causative or makes an intransitive verb transitive; "object focus" is not its classical grammarians' description, and Form I can also take direct objects. The functional analysis is directionally sound but the framing is idiosyncratic and could mislead readers who use it as a morphology reference.
+
+All theological claims are well-grounded: the connection of ḥilm/ghafūr to *ta'khīr al-ʿiqāb* (delaying punishment of disbelievers) is confirmed by Jalālayn, Muyassar, and Baghawī. The Qurtubī attribution ("nothing comes into existence except by His bringing it into existence, nothing remains except by His sustaining") matches the provided excerpt exactly: *fā lā yūjadu ḥādithun illā bi-ījādih, wa lā yabqā illā bi-baqā'ih*. The imperfect/perfect contrast (yumsiku ≠ amsaka as ongoing vs. completed) is morphologically accurate and theologically supported across all four sources.
+
+SUMMARY: The reflection is theologically accurate and well-grounded in the provided tafsir, with two moderate pedagogical imprecisions in the Form IV morphology instruction that should be tightened before publication.

@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/045-al-jathiyah/ayah-031.md
+Ayah: 45:31
+Date: 2026-06-08T02:42:00
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَأَمَّا=But as for | ٱلَّذِينَ=those who | كَفَرُوٓاْ=disbelieved, | أَفَلَمْ تَكُنْ=`Then were not | ءَايَـٰتِى=My Verses | تُتْلَىٰ=recited | عَلَيْكُمْ=to you | فَٱسْتَكْبَرْتُمْ=but you were proud | وَكُنتُمْ=and you became | قَوْمًا=a people | مُّجْرِمِينَ=criminals?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "you became a people who earned their crimes" (as the inline translation and frontmatter translation) — This renders *qawman mujrimīn* through Qurtubi's etymological gloss ("al-mujrim is one who earns sins for himself," من أكسب نفسه المعاصي) and presents it as the translation. The word-by-word reference and all four tafsir sources render *mujrimīn* as "criminals / sinners / mushrikūn" — not "earners of crimes." The kasb-etymology reading is a valid classical derivation (Qurtubi supports it), but it belongs in the linguistic commentary, not the translation line. A reader will take the frontmatter translation as the standard meaning.
+
+- [PASS] "Al-Qurtubi says it plainly: 'wa huwa istifhāmu tawbīkh'" — Direct quote verified. Qurtubi's text reads exactly: وهو استفهام توبيخ. Attribution is accurate.
+
+- [PASS] All root identifications (k-b-r for *istakbartum*, j-r-m for *mujrimīn*, t-l-w for *tutlā*) are correct and consistent with the word-by-word data.
+
+- [PASS] The asymmetry between 45:30 (mercy, action is Allah's) and 45:31 (question before sentence) is structurally accurate and not overclaimed.
+
+- [PASS] *Iltifāt* tag is linguistically defensible — the verse shifts from third-person reference (alladhīna kafarū) to second-person address (ʿalaykum, stakbartum), a canonical iltifāt pattern.
+
+- [PASS] Arabic text in frontmatter matches the authentic Arabic apart from minor Unicode diacritic rendering variants (ءَايَـٰتِى vs ءَايَٰتِى, tanwīn ghunayniyyah mark) — not errors in content.
+
+SUMMARY: The reflection is accurate and classically grounded throughout; the sole issue is one interpretive etymological reading of *mujrimīn* ("earned their crimes") presented as the translation rather than as a linguistic commentary point, which Qurtubi supports but does not make the standard rendition.

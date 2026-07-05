@@ -1,0 +1,37 @@
+Enhanced Validation Report
+File: content/tadabbur/108-al-kawthar/ayah-003.md
+Ayah: 108:3
+Date: 2026-06-20T20:33:31
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّ=Indeed, | شَانِئَكَ=your enemy - | هُوَ=he (is) | ٱلْأَبْتَرُ=the one cut off.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate errors identified in the text provided.
+
+Supporting checks:
+- **Arabic text**: Matches the authentic Arabic exactly. ✓
+- **Root ش-ن-ء for شانئك**: Correctly identified. Leeds corpus note in the frontmatter confirms "W2 شانئك root ش-ن-ء (noun/active participle)." ✓
+- **Active participle (ism al-fāʿil) grammar**: Correctly explained — شانئ is indeed an ism fāʿil denoting an ongoing, trait-defining action, not a past event. ✓
+- **al-ʿĀṣ ibn Wāʾil attribution**: The reflection says "most of the classical commentators name al-ʿĀṣ ibn Wāʾil." Jalalayn, Qurtubi, and Baghawi all confirm this — accurate, and the hedge "early sources differ on the exact occasion" is appropriate rather than overclaiming. ✓
+- **Which son died**: The reflection says "some name ʿAbdullāh, others name al-Qāsim." Jalalayn specifies al-Qāsim; multiple traditions name ʿAbdullāh. The reflection handles the genuine ikhtilaff honestly rather than collapsing it. ✓
+- **Abtar meaning**: Described as originally denoting an animal with its tail cut off, then applied to a man with no surviving sons. Consistent with Baghawi's "المنقطع دابره" and Jalalayn's "المنقطع العقب." ✓
+- **The core reversal exegesis**: That Allah takes the exact word thrown at the Prophet ﷺ and redirects it to the one who threw it — this is the dominant reading in all four tafsir sources provided. ✓
+- **Unnamed hater vs. named Abū Lahab**: Interpretive observation, clearly framed as such, not presented as a documented source claim. No issue. ✓
+- **Phonetics of شانئ / hamza**: Literary observation framed as literary observation. Not a factual claim against which the reference data could adjudicate. ✓
+
+SUMMARY: The reflection is linguistically accurate in its root analysis and grammar, historically grounded in the classical tafsir on al-ʿĀṣ ibn Wāʾil, and appropriately hedged wherever genuine ikhtilaff exists in the sources.

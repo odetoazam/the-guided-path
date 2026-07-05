@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/038-sad/ayahs-059-064.md
+Ayah: 38:59
+Date: 2026-06-06T02:03:31
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: هَـٰذَا=This | فَوْجٌ=(is) a company | مُّقْتَحِمٌ=bursting in | مَّعَكُمْ‌ۖ=with you. | لَا=No | مَرْحَبَۢا=welcome | بِهِمْ‌ۚ=for them. | إِنَّهُمْ=Indeed, they | صَالُواْ=(will) burn | ٱلنَّارِ=(in) the Fire.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: CRITICAL
+
+ISSUES:
+- [CRITICAL] `إِنَّهُمْ صَالُو النَّارِ` (frontmatter Arabic block, and again in the body Arabic block) — the authenticated Uthmanic text writes `صَالُوا` with the alif after the waw, even though that alif is elided in recitation before the hamzat al-waṣl of `ٱلنَّارِ`. The reflection drops the alif entirely, producing a spelling that deviates from the established Muṣḥaf orthography. One character, but sacred text accuracy requires the exact Uthmanic spelling.
+
+Everything else passes:
+
+- **Scene attribution (who says what):** Correctly handled. The reflection has "a voice announces them" (matching the passive `ويقال` in Jalālayn and the khazana attribution in Qurṭubī/Baghawī) and separately has the leaders say "no welcome for them." This maps precisely onto Ibn ʿAbbās via Baghawī: khazana announce the followers to the leaders, leaders curse them back.
+- **Root q-ḥ-m analysis:** Sound. Baghawī confirms the core meaning directly — `والاقتحام الدخول في الشيء رميا بنفسه فيه` — "entering something by throwing oneself into it" — which is exactly what the reflection describes. Form VIII (muqtaḥim) as reflexive/middle is standard morphology.
+- **Surah al-Balad reference:** Accurate. 90:11 reads `فَلَا اقْتَحَمَ الْعَقَبَةَ` — same root, same form.
+- **marḥaban / spaciousness contrast:** Linguistically grounded. Qurṭubī explicitly: `لا اتسعت منازلهم في النار، والرحب السعة` — the contrast the reflection draws between the garden's spaciousness and the "no welcome" curse is lexically attested.
+- **The absent believers (38:62–63):** The interpretive move — that the Fire's people cannot find the believers because they are in Paradise — is a well-established tafsir reading, presented appropriately as an implicit inference rather than a stated fact.
+
+SUMMARY: One orthographic error — a missing alif in `صَالُوا` — against an otherwise rigorous and source-consistent reflection; fix the Arabic text in both the frontmatter and body blocks.

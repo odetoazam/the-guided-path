@@ -1,0 +1,42 @@
+Enhanced Validation Report
+File: content/tadabbur/037-as-saffat/ayahs-103-106.md
+Ayah: 37:103
+Date: 2026-06-05T08:49:25
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَلَمَّآ=Then when | أَسْلَمَا=both of them had submitted | وَتَلَّهُۥ=and he put him down | لِلْجَبِينِ=upon his forehead,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate errors found in the portion submitted.
+
+Checking each verifiable claim against the reference data:
+
+**Dual verb أَسْلَمَا (Form IV, s-l-m):** Accurate. Form IV of s-l-m = aslama (أَفْعَلَ pattern). The word-by-word confirms "both of them had submitted." Meaning "giving oneself over / surrendering" is consistent with all four tafsirs ("انقادا لأمر الله," "خضعا وانقادا").
+
+**Variant reading *sallamā* attributed to Ibn Masʿūd, Ibn ʿAbbās, and ʿAlī via al-Qurṭubī:** Directly confirmed. Qurtubi: "وقرأ ابن مسعود وابن عباس وعلي رضوان الله عليهم 'فلما سلما' أي: فوضا أمرهما إلى الله." The reflection's gloss ("they entrusted their affair entirely to Allah") matches "فوضا أمرهما إلى الله" precisely.
+
+**Qatada's observation that each party submitted differently:** Confirmed in both Qurtubi ("أسلم أحدهما نفسه لله وأسلم الآخر ابنه") and Baghawi ("أسلم إبراهيم ابنه وأسلم الابن نفسه"). The reflection's literary development of "father surrenders his future / son surrenders his life" is a valid extension of this, presented as reflection not citation.
+
+**وَتَلَّهُ = Form I (t-l-l), meaning "laid him down":** Accurate. Tafsirs confirm: "صرعه على الأرض" (Jalalayn, Baghawi), "ألقى إبراهيم ابنه على جبينه" (Muyassar).
+
+**Location Minā:** Confirmed by Jalalayn ("وكان ذلك بمنى").
+
+**The "silence" observation (slaughter not narrated):** A valid literary-Quranic observation, not a doctrinal claim — presented as such.
+
+**Note on scope:** Reference data covers ayah 103 only. Claims about ayahs 104–106 (ṣaddaqta al-ru'yā, al-balā' al-mubīn) cannot be verified against the provided sources, but nothing in the submitted 8,000 characters makes specific attributive claims about those verses that would require flagging.
+
+SUMMARY: The reflection is linguistically precise, the one variant-reading attribution is directly confirmed in Qurtubi, and all doctrinal extensions are framed as reflection rather than reported fact — no errors found in the submitted portion.

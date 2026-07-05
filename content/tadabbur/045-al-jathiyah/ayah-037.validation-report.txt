@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/045-al-jathiyah/ayah-037.md
+Ayah: 45:37
+Date: 2026-06-08T02:56:06
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَلَهُ=And for Him | ٱلْكِبْرِيَآءُ=(is) the greatness | فِى=in | ٱلسَّمَـٰوَٲتِ=the heavens | وَٱلْأَرْضِ‌ۖ=and the earth, | وَهُوَ=and He | ٱلْعَزِيزُ=(is) the All-Mighty, | ٱلْحَكِيمُ=the All-Wise.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Al-Rāghib al-Aṣfahānī... says al-kibriyāʾ is 'al-taraffuʿ ʿan al-inqiyād'... and that is deserved by none other than Allah" — presented as a direct quotation, but the Mufradāt is not among the reference sources provided, so the exact Arabic phrase cannot be confirmed. The *substance* is sound — al-Muyassar explicitly uses "وله وحده سبحانه" (to Him alone, glorified) and al-Qurtubi defines kibriyāʾ as العظمة والجلال والبقاء والسلطان والقدرة والكمال, all consistent with exclusivity to Allah — but the specific Arabic phrase "al-taraffuʿ ʿan al-inqiyād" as a Rāghib quotation requires direct text verification before publication. Phrase-for-phrase Mufradāt citations carry scholarly weight and must be exact.
+
+PASSES (explicit confirmation from reference data):
+- Arabic text in frontmatter matches the authentic Arabic ✓
+- Translation ("grandeur... All-Mighty... All-Wise") matches word-by-word reference precisely ✓
+- Root k-b-r producing both kibriyāʾ and kibr is linguistically accurate; the root's dual range is real ✓
+- Kibriyāʾ as exclusively divine is confirmed by al-Muyassar ("وله وحده سبحانه") and the hadith qudsi "الكبرياء ردائي" directly grounds the title's "cloak" metaphor ✓
+- وَلَهُ taqdīm implying exclusivity is supported by al-Muyassar's "وله وحده" ✓
+- al-ʿAzīz as "the All-Mighty" / al-Ḥakīm as "the All-Wise" match word-by-word reference ✓
+- Abstract noun form kibriyāʾ described as conveying an absolute/unbounded quality — morphologically sound ✓
+
+SUMMARY: One Rāghib quotation is stated as verbatim but cannot be confirmed against the supplied reference data; verify the exact Arabic phrase in Mufradāt before publishing, as everything else is well-grounded.

@@ -1,0 +1,40 @@
+Enhanced Validation Report
+File: content/tadabbur/046-al-ahqaf/ayah-015.md
+Ayah: 46:15
+Date: 2026-06-08T05:38:22
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَوَصَّيْنَا=And We have enjoined | ٱلْإِنسَـٰنَ=(on) man | بِوَٲلِدَيْهِ=to his parents | إِحْسَـٰنًا‌ۖ=kindness. | حَمَلَتْهُ=Carried him | أُمُّهُۥ=his mother | كُرْهًا=(with) hardship | وَوَضَعَتْهُ=and gave birth to him | كُرْهًا‌ۖ=(with) hardship. | وَحَمْلُهُۥ=And (the) bearing of him | وَفِصَـٰلُهُۥ=and (the) weaning of him | ثَلَـٰثُونَ=(is) thirty | شَهْرًا‌ۚ=month(s) | حَتَّىٰٓ=until, | إِذَا=when | بَلَغَ=he reaches | أَشُدَّهُۥ=his maturity | وَبَلَغَ=and reaches | أَرْبَعِينَ=forty | سَنَةً=year(s), | قَالَ=he says, | رَبِّ=`My Lord, | أَوْزِعْنِىٓ=grant me (the) power | أَنْ=that | أَشْكُرَ=I may be grateful | نِعْمَتَكَ=(for) Your favor | ٱلَّتِىٓ=which | أَنْعَمْتَ=You have bestowed | عَلَىَّ=upon me | وَعَلَىٰ=and upon | وَٲلِدَىَّ=my parents | وَأَنْ=and that | أَعْمَلَ=I do | صَـٰلِحًا=righteous (deeds) | تَرْضَـٰهُ=which please You, | وَأَصْلِحْ=and make righteous | لِى=for me | فِى=among | ذُرِّيَّتِىٓ‌ۖ=my offspring, | إِنِّى=indeed, | تُبْتُ=I turn | إِلَيْكَ=to You | وَإِنِّى=and indeed, I am | مِنَ=of | ٱلْمُسْلِمِينَ=those who submit.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+**VERDICT: PASS**
+
+**ISSUES:**
+- No critical or moderate errors found in the portion submitted.
+
+Specific checks:
+
+- [PASS] **وَصَّيْنَا as Form II intensive** — Correct. The shaddah on ص confirms the Form II (*fa''ala*) pattern, distinguishing it from plain Form I *waṣā*. The waṣiyya/testament semantic connection is lexically sound (attested in Lisān al-ʿArab as the reflection's own frontmatter notes).
+
+- [PASS] **كُرْهًا = hardship** — Confirmed by al-Jalālayn: *"على مشقة"* (upon difficulty). Al-Baghawi notes the Hijazi/Kufan qira'āt variance (fatha vs. damma on the kāf), but the reflection does not claim either variant exclusively — no error.
+
+- [PASS] **وَفِصَٰلُهُۥ = weaning** — Confirmed by al-Baghawi: *"فطامه"* (his weaning). Correct.
+
+- [PASS] **أَوْزِعْنِي appearing on the lips of only two figures, one "a prophet-king at the absolute summit of worldly power"** — This refers to Sulayman in 27:19 (listed in related_ayahs). The claim is accurate; the verb in this exact form (*awzi'nī*) occurs at 27:19 and 46:15 only.
+
+- [PASS] **"Royal plural" analysis of نَا in وَصَّيْنَا** — Standard Quranic usage; not challenged by any tafsir source provided.
+
+- [PASS] **Diptych framing (46:15 vs. 46:16–17)** — The contrast with the son who says *"uff"* (أُفٍّ) in 46:17 is structurally accurate and consistent with the passage_context.
+
+**SUMMARY:** The submitted portion is linguistically precise, structurally grounded in the tafsir corpus, and contains no factual or attributional errors detectable from the reference data provided.

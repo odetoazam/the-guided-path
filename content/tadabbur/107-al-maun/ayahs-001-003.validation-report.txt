@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/107-al-maun/ayahs-001-003.md
+Ayah: 107:1
+Date: 2026-06-20T20:18:47
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَرَءَيْتَ=Have you seen | ٱلَّذِى=the one who | يُكَذِّبُ=denies | بِٱلدِّينِ=the Judgment?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR, NOT FLAGGED] "from the root **rā'-yā** (ر أ ي)" — the romanization skips the hamza (the root is rā'-hamza-yā), but the Arabic parenthetical correctly displays all three letters (ر أ ي). Too minor to flag; the Arabic is right.
+
+No CRITICAL or MODERATE issues found. Specific checks:
+
+- **Arabic text** — ayah 1 matches the authentic Arabic exactly. ✓
+- **Meccan attribution "per ʿAṭāʾ and Jābir"** — verified against Qurtubi: "مكية في قول عطاء وجابر." Attribution is precise and correctly hedged. ✓
+- **al-dīn = "Recompense/Reckoning"** — all four tafsirs confirm "بالجزاء والحساب." The reflection uses "Day of Recompense" and "Day of Reckoning" throughout, consistent with the classical reading. ✓
+- **Perfect tense claim on أَرَءَيْتَ** — grammatically correct; ra'ayta is māḍī. ✓
+- **ara'ayta carrying the sense of "have you come to know / considered"** — supported by Jalalain's gloss "أي هل عرفته" (do you know him). The reflection's expansion of visual seeing into grasping/understanding is exegetically grounded. ✓
+- **Orphan defined as child whose father has died** — standard Islamic legal definition of yatīm; accurate. ✓
+
+SUMMARY: The reflection's linguistic, grammatical, and tafsir-sourced claims are all accurate and well-grounded; no factual errors identified in the text provided (Element Two analysis was cut off before it could be validated).

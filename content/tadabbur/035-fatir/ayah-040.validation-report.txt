@@ -1,0 +1,40 @@
+Enhanced Validation Report
+File: content/tadabbur/035-fatir/ayah-040.md
+Ayah: 35:40
+Date: 2026-06-05T00:46:24
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: قُلْ=Say, | أَرَءَيْتُمْ=`Have you seen | شُرَكَآءَكُمُ=your partners | ٱلَّذِينَ=those whom | تَدْعُونَ=you call | مِن دُونِ=besides | ٱللَّهِ=Allah?` | أَرُونِى=Show Me | مَاذَا=what | خَلَقُواْ=they have created | مِنَ=from | ٱلْأَرْضِ=the earth, | أَمْ=or | لَهُمْ=for them | شِرْكٌ=(is) a share | فِى=in | ٱلسَّمَـٰوَٲتِ=the heavens. | أَمْ=Or | ءَاتَيْنَـٰهُمْ=have We given them | كِتَـٰبًا=a Book | فَهُمْ=so they | عَلَىٰ=(are) on | بَيِّنَتٍ=a clear proof | مِّنْهُۚ=therefrom? | بَلْ=Nay, | إِن=not | يَعِدُ=promise | ٱلظَّـٰلِمُونَ=the wrongdoers | بَعْضُهُم=some of them | بَعْضًا=(to) others | إِلَّا=except | غُرُورًا=delusion.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate errors found in the reviewed portion.
+
+Notes on what was verified:
+
+**Root analysis (r-ʾ-y):** The claim that *araʾaytum* and *arūnī* are both from root ر-أ-ي, and that *arūnī* is the causative form ("make someone see" = "show me"), is morphologically correct. The word-by-word reference confirms أَرَءَيْتُمْ = "Have you seen" and أَرُونِى = "Show Me" — the causative shift is standard Form IV Arabic and accurately described.
+
+**Root analysis (sh-r-k):** *Shurakāʾakum* from ش-ر-ك is confirmed across all four tafsir sources and the word-by-word reference.
+
+**Surah theme:** "Creator who makes, against the partners who make nothing" accurately reflects the thrust of this ayah as framed in al-Jalalayn, al-Muyassar, and al-Baghawi.
+
+**Translation of *ghurūr* as "delusion":** Confirmed by word-by-word ("delusion") and al-Muyassar ("غرورًا وخداعًا" — delusion and deception).
+
+**Arabic text in frontmatter vs. authenticated text:** The frontmatter omits some extended tanwin diacritics (ۭ on شِرْكٌ, ۭ on كِتَٰبًا, ۢ on بَيِّنَتٍ) present in the authenticated Unicode. These are encoding variants, not textual errors.
+
+**One note on scope:** The reflection cuts off before the *shurakāʾakum* possessive analysis is completed. The portion reviewed contains no errors; any claims in the unreviewed continuation cannot be assessed from this excerpt.
+
+SUMMARY: The first 8,000 characters are linguistically accurate, morphologically sound, and consistent with all four classical tafsir sources provided — no errors warranting flagging.

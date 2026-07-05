@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/056-al-waqiah/ayahs-049-056.md
+Ayah: 56:49
+Date: 2026-06-12T11:17:59
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: قُلْ=Say, | إِنَّ=`Indeed, | ٱلْأَوَّلِينَ=the former | وَٱلْأَخِرِينَ=and the later people
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [UNVERIFIABLE] "nuzul was one of the warmest words in the language" — the balaghah reading of nuzul as ironic hospitality is classically attested and the root n-z-l etymology is correct, but none of the four supplied tafsir sources (Jalalayn, Muyassar, Qurtubi, Baghawi) comment on this word's emotional register for this passage. The claim cannot be confirmed *from the data provided*, though it is lexically defensible from Lisān al-ʿArab.
+- [UNVERIFIABLE] "The same word names the mīqāt of Hajj — the precise boundary station" — mīqāt in the Hajj context refers to both spatial and temporal designated points; calling it purely a "boundary station" is a simplification. The supplied data does not address this, so flagged for transparency rather than as an error.
+
+What is directly verifiable checks out:
+- Root assignments all correct: *q-w-l* → قُلْ, *ʾ-w-l* → الأولين, *ʾ-x-r* → الآخرين, *w-q-t* → مِيقَات, *ʿ-l-m* → مَعْلُوم, *n-z-l* → نُزُل, *h-y-m* → الهِيم, *ḥ-m-m* → الحَمِيم — all attested.
+- الأولين = "former peoples," الآخرين = "later peoples" — matches word-by-word reference exactly.
+- Gathering on the Day of Judgment framing matches al-Muyassar: «سيُجمَعون في يوم مؤقت».
+- al-hīm rendered as "thirst-crazed camels" — classically attested interpretation (Ibn Abbas and others via the *huyām* disease reading).
+- The mīqāt of Mūsā / forty nights — correct per Q 7:142.
+- No scholar attributions to verify or invert in the submitted excerpt.
+
+SUMMARY: The reflection is linguistically rigorous and morphologically accurate throughout; the two flagged items are cultural framing claims that outrun the sparse supplied tafsir data rather than positive errors.

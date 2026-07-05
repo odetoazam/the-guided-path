@@ -1,0 +1,40 @@
+Enhanced Validation Report
+File: content/tadabbur/060-al-mumtahanah/ayah-011.md
+Ayah: 60:11
+Date: 2026-06-13T00:04:54
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَإِن=And if | فَاتَكُمْ=have gone from you | شَىْءٌ=any | مِّنْ=of | أَزْوَٲجِكُمْ=your wives | إِلَى=to | ٱلْكُفَّارِ=the disbelievers | فَعَاقَبْتُمْ=then your turn comes, | فَـَٔـاتُواْ=then give | ٱلَّذِينَ=(to) those who | ذَهَبَتْ=have gone, | أَزْوَٲجُهُم=their wives, | مِّثْلَ=(the) like | مَآ=(of) what | أَنفَقُواْ‌ۚ=they had spent. | وَٱتَّقُواْ=And fear | ٱللَّهَ=Allah | ٱلَّذِىٓ=(in) Whom, | أَنتُم=you, | بِهِۦ=[in Him] | مُؤْمِنُونَ=(are) believers.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate errors found in the 8,000 characters provided.
+
+Specific checks performed:
+
+**Root f-w-t (فَاتَ):** The reflection's gloss — "to escape, to slip away, to get past you" — is consistent with classical lexical attestation (Lisān al-ʿArab, Mufradāt al-Rāghib). The reflection correctly distinguishes it from *dhahaba*. The dual-verb observation (*fātakum* vs. *dhahabat azwājuhum*) is textually verifiable: the word-by-word reference confirms both forms and both roots. Presented as interpretive observation, not stated fact. Sound.
+
+**Apostasy framing:** "fled back to Mecca, abandoned not just him but the faith itself" — confirmed by all three tafsir sources: Jalalayn ("مرتدات"), Muyassar ("مرتدات إلى الكفار"), Baghawi ("فلحقن بهم مرتدات"). Accurate.
+
+**Mahr loss claim:** "The Meccans kept it. They would not send it back." — confirmed by Muyassar: "ولم يعطكم الكفار مهورهن التي دفعتموها لهن." Accurate.
+
+**Hudaybiyyah context:** The clause about returning defectors is historically documented. The framing that 60:10 preceded 60:11 and addressed the opposite movement (women fleeing *toward* Medina) is correct per standard sīrah chronology and consistent with the tafsir sources.
+
+**Morphology footnote:** Form III for *ʿāqabtum* (عاقب), Form IV for *ātū/anfaqū*, Form VIII for *ittaqū* — all correct.
+
+**فَعَاقَبْتُمْ translation:** Rendered as "then your turn comes" (reciprocity reading). The word-by-word reference uses identical phrasing; Baghawi offers this as one of several valid readings alongside the spoils reading. No error. The reflection hasn't analyzed this word in detail yet within the provided text.
+
+SUMMARY: All verifiable linguistic, morphological, historical, and tafsir-grounded claims in this excerpt are accurate; no fabricated attributions or root errors detected.

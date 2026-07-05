@@ -1,0 +1,28 @@
+Enhanced Validation Report
+File: content/tadabbur/037-as-saffat/ayahs-006-010.md
+Ayah: 37:6
+Date: 2026-06-05T07:54:27
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّا=Indeed, We | زَيَّنَّا=[We] adorned | ٱلسَّمَآءَ=the heaven | ٱلدُّنْيَا=nearest | بِزِينَةٍ=with an adornment | ٱلْكَوَاكِبِ=(of) the stars.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "In Arabic, when you want to say why you did something... you can put a noun in what is called the accusative case... بِزِينَةٍ ... وَحِفْظًا" — The reflection groups both words as accusative purpose-nouns (mafʿūl li-ajlihi), but بِزِينَةٍ is *not* in the accusative. It carries the preposition بِ, making زِينَةٍ majrūr (genitive) — either as the muḍāf ilayh in an iḍāfah (standard Hafs reading: بِزِينَةِ الْكَوَاكِبِ) or as a tanwīned genitive governed by بِ. Only وَحِفْظًا is unambiguously manṣūb (accusative), functioning as a purpose noun or ḥāl. The reflection frames this as a formal grammar lesson ("the entire force of this passage hangs on it"), so the error is load-bearing pedagogically — a reader will come away believing they've learned something about Arabic case-marking that is wrong for one of the two words. The theological conclusion (both indicate purpose/function) is sound and supported by Baghawi's discussion of the qira'at and by Qurtubi citing Qatada's three-purpose tradition, but it arrives via an inaccurate case description.
+
+All other claims check out: the Form II intensive analysis of زَيَّنَّا (*z-y-n*, Form II = *zayyana*, intensive/thoroughgoing beautification) is correct. Root assignments for ḥ-f-ẓ and the connection to al-Ḥāfiẓ and ḥāfiẓ al-Qur'ān are accurate. The surah-opening summary (37:1–4, oath-sequences culminating in لَوَٰحِدٌ) is accurate. The kāhin/soothsayer historical framing is appropriate for the passage's polemical context against claiming access to the unseen.
+
+SUMMARY: One moderate pedagogical error — the grammar lesson teaching that both بِزِينَةٍ and وَحِفْظًا are accusatives is incorrect for the first word, which is genitive under a preposition; the theological insight the grammar is meant to support is itself valid and tafsir-grounded.

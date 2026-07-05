@@ -1,0 +1,46 @@
+Enhanced Validation Report
+File: content/tadabbur/036-ya-sin/ayah-012.md
+Ayah: 36:12
+Date: 2026-06-05T04:50:38
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّا=Indeed, We | نَحْنُ=We | نُحْىِ=[We] give life | ٱلْمَوْتَىٰ=(to) the dead | وَنَكْتُبُ=and We record | مَا=what | قَدَّمُواْ=they have sent before | وَءَاثَـٰرَهُمْۚ=and their footprints, | وَكُلَّ=and every | شَىْءٍ=thing | أَحْصَيْنَـٰهُ=We have enumerated it | فِىٓ=in | إِمَامٍ=a Register | مُّبِينٍ=clear.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No CRITICAL or MODERATE errors found in the visible portion.
+
+Supporting observations:
+
+**Morphology — accurate throughout.**
+- "قَدَّمُوا is Form II (doubled middle letter dāl)" — correct. Form I of q-d-m is *qadama*; Form II *qaddama* doubles the middle radical, yielding the factitive/causative shift the reflection describes ("they put forward" vs. "they went forward"). Standard Arabic grammar, correctly applied.
+- "nuḥyī (Hyy, Form IV)" — correct. Root ḥ-y-y, Form IV aḥyā → yuḥyī → nuḥyī. Causative meaning ("to give life to") is exactly what tafsir sources use (إنا نحن نحيي الموتى = we give life to the dead).
+- "aḥṣaynāhu (ḤṢy, Form IV)" — correct. أَحْصَيْنَا is Form IV causative of ḥ-ṣ-y.
+
+**Āthār interpretation — grounded in all four tafsir sources.**
+The reflection treats *āthār* as ongoing traces/legacy (good precedents set, knowledge left behind, etc.). Al-Jalalayn: *"ما استنَّ به بعدهم"* (what became practice after them). Al-Baghawi cites the hadith on sunnah ḥasanah directly. Al-Muyassar lists: righteous children, beneficial knowledge, ongoing charity. The reflection's treatment is consistent with all sources and does not overstate.
+
+**imām mubīn = Lawh al-Maḥfūẓ — confirmed by all sources.** Al-Jalalayn and al-Muyassar both identify it explicitly. No claim made that goes beyond tafsir.
+
+**Cross-references verified.**
+- 75:13: "*مَا قَدَّمَ وَأَخَّرَ*" — reflection quotes this accurately.
+- 82:5: "*عَلِمَتْ نَفْسٌ مَّا قَدَّمَتْ*" — accurate (reflection quotes the first clause only, which is fine — not a misrepresentation).
+
+**One non-issue worth noting:** The description of Form II as "usually does one of two things: intensifies or makes transitive/factitive" is a simplification for a general audience, but it is not incorrect, and the application to *qaddama* is sound.
+
+**Note on scope:** Validation covers only the ~8,000 characters submitted. The section on *āthār* (Element Two) is cut off mid-sentence — that portion cannot be assessed.
+
+SUMMARY: The visible text contains no factual, morphological, or attribution errors; all major claims align with the provided tafsir sources and the word-by-word reference data.

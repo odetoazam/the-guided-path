@@ -1,0 +1,40 @@
+Enhanced Validation Report
+File: content/tadabbur/036-ya-sin/ayahs-071-073.md
+Ayah: 36:71
+Date: 2026-06-05T07:02:06
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَوَلَمْ=Do not | يَرَوْاْ=they see | أَنَّا=that We | خَلَقْنَا=[We] created | لَهُم=for them | مِّمَّا=from what | عَمِلَتْ=have made | أَيْدِينَآ=Our hands, | أَنْعَـٰمًا=cattle, | فَهُمْ=then they | لَهَا=[for them] | مَـٰلِكُونَ=(are the) owners?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- None identified.
+
+Verification notes on each checkable claim:
+
+**Al-Qurtubi attribution** — "هذه رؤية القلب، أي: أولم ينظروا ويعتبروا ويتفكروا" is quoted verbatim and attributed correctly. The ar.qurtubi source confirms word-for-word.
+
+**Al-Jalalayn on *istifhām li-t-taqrīr*** — "والاستفهام للتقرير" appears verbatim in the ar.jalalayn source. The characterization of the *wāw* as conjunctive (*ʿatf*) likewise matches: "والواو الداخلة عليه للعطف." Attribution and paraphrase are accurate.
+
+**Root identification ر-أ-ي** — correct for يَرَوْا.
+
+**Translation of مَالِكُونَ as "owners"** — the word-by-word reference gives "owners"; al-Jalalayn and al-Baghawi gloss it as *ḍābiṭūn/qāhirūn* (controllers/subduing), which is a semantic overlap, not a contradiction. The translation is within acceptable range and matches the supplied word-by-word data.
+
+**Arabic text** — matches the authenticated Arabic; diacritical rendering differences (أَنْعَـٰمًا vs أَنْعَٰمًۭا) are typographic, not substantive.
+
+**Caveat**: Ayat 72–73 content (وَذَلَّلْنَـٰهَا, مَنَافِعُ, مَشَارِبُ, شُكْر) falls outside the 8,000-character excerpt. No opinion is rendered on that portion — re-submit when available.
+
+SUMMARY: All verifiable scholarly citations and linguistic claims in the submitted portion are accurate and directly supported by the provided reference data.

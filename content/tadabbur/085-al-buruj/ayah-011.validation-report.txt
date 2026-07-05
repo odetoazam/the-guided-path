@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/085-al-buruj/ayah-011.md
+Ayah: 85:11
+Date: 2026-06-18T17:29:11
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّ=Indeed, | ٱلَّذِينَ=those who | ءَامَنُواْ=believe | وَعَمِلُواْ=and do | ٱلصَّـٰلِحَـٰتِ=the righteous deeds, | لَهُمْ=for them | جَنَّـٰتٌ=(will be) Gardens | تَجْرِى=flow | مِن=from | تَحْتِهَا=underneath it | ٱلْأَنْهَـٰرُ‌ۚ=the rivers. | ذَٲلِكَ=That | ٱلْفَوْزُ=(is) the success | ٱلْكَبِيرُ=the great.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "given one offer: renounce your Lord, or go into the fire" — the Quran (85:8) states only that the persecutors resented the believers *for believing*; the explicit ransom-or-burn offer derives from hadith (Sahih Muslim, the story of the boy and the monk), not from the ayah text or the tafsir sources provided. Presenting it as established narrative fact without sourcing attribution is an extension beyond the Quranic text. Acceptable in tadabbur context but worth noting.
+- [PASS] "āmanū / ʿamilū" as completed (perfect) form and "tajrī" as ongoing (imperfect) — linguistically accurate. The morphological contrast is real and the spiritual inference (finite deed → open-ended reward) is an interpretive extension, but it is clearly framed as reflection, not as a transmitted scholarly position.
+- [PASS] "Qutila aṣḥābu al-ukhdūd — Cursed were the people of the ditch" — the rendering "cursed" is a defensible translation; the Arabic can carry both "killed/destroyed" and an imprecatory sense. No error.
+- [PASS] *fawz* glossed as "winning, triumph" — confirmed by Al-Qurtubi (`العظيم الذي لا فوز يشبهه`) and Al-Muyassar (`الفوز العظيم`). The ironic juxtaposition with the tyrant's apparent victory is an interpretive move, but it is not contradicted by any source provided.
+- [PASS] Arabic text in the frontmatter and body matches the authenticated source text exactly.
+- [PASS] No named scholar positions appear in the visible excerpt; no attribution errors possible.
+
+SUMMARY: The reflection is linguistically accurate and contextually grounded — the one notable extension (the explicit ransom offer at the trench) draws on hadith rather than the Quranic text alone, but is not a fabrication and is within normal tadabbur practice.

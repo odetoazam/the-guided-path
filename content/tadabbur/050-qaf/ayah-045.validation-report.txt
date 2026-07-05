@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/050-qaf/ayah-045.md
+Ayah: 50:45
+Date: 2026-06-08T21:02:50
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: نَّحْنُ=We | أَعْلَمُ=know best | بِمَا=[of] what | يَقُولُونَ‌ۖ=they say, | وَمَآ=and not | أَنتَ=(are) you | عَلَيْهِم=over them | بِجَبَّارٍ‌ۖ=the one to compel. | فَذَكِّرْ=But remind | بِٱلْقُرْءَانِ=with the Quran | مَن=whoever | يَخَافُ=fears | وَعِيدِ=My threat.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Al-Baghawi and al-Muyassar say it is their *iftirāʾ ʿalā Allāh*, their fabrications against Allah, and their mockery of His signs." — The *iftirāʾ ʿalā Allāh* + *takdhīb bi-āyātihi* framing is al-Muyassar's language only ("من افتراء على الله وتكذيب بآياته"). Al-Baghawi's text reads "يعني: كفار مكة في تكذيبك" — he uses only *takdhīb* directed at the Prophet, not *iftirāʾ ʿalā Allāh*. Attributing the *iftirāʾ* framing to both scholars is an overextension.
+
+- [PASS] Al-Qurtubi attribution is exact: "أي من تكذيبك وشتمك" maps precisely to the reflection's "takdhīb and shatm, their calling him a liar and their insults."
+
+- [PASS] The grammatical claim about *naḥnu* as an emphatic standalone pronoun (tawkīd via pronoun separation) is a standard Arabic grammatical observation, not contradicted by any provided source.
+
+- [PASS] The intra-surah connection between *yaqūlūn* (50:45) and *qawl* in 50:18 (the recording-angels ayah) is lexically valid — both from root ق-و-ل — and the narrative use is well-reasoned.
+
+- [PASS] Arabic text in frontmatter matches the authentic Arabic. The ۢ vs ۖ difference is a Unicode encoding variant, not a textual error.
+
+SUMMARY: Reflection is linguistically and exegetically sound overall; the one issue is conflating al-Muyassar's *iftirāʾ ʿalā Allāh* language with al-Baghawi, who limits himself to *takdhīb* of the Prophet.

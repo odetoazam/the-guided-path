@@ -1,0 +1,38 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayah-086.md
+Ayah: 3:86
+Date: 2026-06-21T11:35:53
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: كَيْفَ=How | يَهْدِى ٱللَّهُ=(shall) Allah guide | قَوْمًا=a people | كَفَرُواْ=(who) disbelieved | بَعْدَ=after | إِيمَـٰنِهِمْ=their belief | وَشَهِدُوٓاْ=and (had) witnessed | أَنَّ=that | ٱلرَّسُولَ=the Messenger | حَقٌّ=(is) true, | وَجَآءَهُمُ=and came to them | ٱلْبَيِّنَـٰتُ‌ۚ=the clear proofs? | وَٱللَّهُ=And Allah | لَا=(does) not | يَهْدِى=guide | ٱلْقَوْمَ=the people | ٱلظَّـٰلِمِينَ=[the] wrongdoers.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate issues found.
+
+Three spot-checks on specific scholarly citations against the provided reference data:
+
+**Al-Baghawī quote** — reflection renders «لفظه استفهام ومعناه جحد». Baghawī source reads: *"لفظه استفهام ومعناه جحد ، أي : لا يهدي الله"*. Exact match. ✓
+
+**Al-Jalālayn gloss** — reflection claims Jalālayn glosses *kayfa* with «أي لا». Jalālayn source reads: *"«كيف» أي لا «يهدي الله»"*. Exact match. ✓
+
+**Al-Muyassar / *yahdī* as *yuwaffiq*** — reflection claims al-Muyassar renders this verb as *yuwaffiq*. Muyassar source opens with: *"كيف يوفق الله للإيمان"*. Confirmed. ✓
+
+**Ibn ʿAbbās / Qurṭubī narration** — reflection summarises: Anṣārī man apostatized, regretted, sent word asking *"hل لي من توبة؟"*. Qurṭubī source reads: *"إن رجلا من الأنصار أسلم ثم ارتد ولحق بالشرك ثم ندم ; فأرسل إلى قومه : سلوا لي رسول الله هل لي من توبة"*. Accurate summary, and the reflection correctly hedges it as "one major thread, not the only one." ✓
+
+**One omission worth noting (not flagged as MODERATE because it is editorial, not an error):** Al-Baghawī preserves a second reading — *"كيف يهديهم الله في الآخرة إلى الجنة والثواب"* — that the withheld guidance is eschatological (to paradise/reward), not only tawfīq in this life. The reflection focuses exclusively on the tawfīq reading. This is a legitimate choice supported by al-Muyassar, but a complete treatment would acknowledge the alternative.
+
+SUMMARY: All three direct scholarly quotations are verbatim-accurate, the asbāb narration is faithfully rendered, and the core theological inference (withheld guidance = tawfīq, not informational) is grounded in al-Muyassar; the reflection passes validation.

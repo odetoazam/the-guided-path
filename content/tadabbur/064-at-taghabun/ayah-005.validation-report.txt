@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/064-at-taghabun/ayah-005.md
+Ayah: 64:5
+Date: 2026-06-13T11:16:15
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَلَمْ=Has not | يَأْتِكُمْ=come to you | نَبَؤُاْ=(the) news | ٱلَّذِينَ=(of) those who | كَفَرُواْ=disbelieved | مِن قَبْلُ=before? | فَذَاقُواْ=So they tasted | وَبَالَ=(the) bad consequence | أَمْرِهِمْ=(of) their affair, | وَلَهُمْ=and for them | عَذَابٌ=(is) a punishment | أَلِيمٌ=painful.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "al-Rāghib al-Iṣfahānī in *Mufradāt alfāẓ al-Qurʾān* notes that naba' carries what khabar does not require: it concerns something of great significance, it comes from a reliable source, and **it carries consequence for the one who receives it**" — The Mufradāt is not among the provided reference sources, so full verification is impossible here. However, al-Rāghib's actual formulation defines naba' as خبر ذو فائدة عظيمة يحصل به علم أو غلبة ظن (news of great utility that produces knowledge or strong probability), with conditions of great importance and truthfulness — not "consequence for the recipient" as a discrete third criterion. "Consequence" is the reflection author's interpretive gloss presented as al-Rāghib's stated condition. The naba'/khabar distinction itself is sound, but the third criterion is an extension attributed to al-Rāghib that he does not explicitly state in those terms.
+
+Everything else checks out against the provided reference data:
+
+- Two-tier consequence (dunya wabāl / akhira ʿadhāb) is confirmed explicitly by all four tafsirs (Jalālayn, Muyassar, Qurṭubī, Baghawī)
+- Address to Quraysh/kuffār Makkah is confirmed by Jalālayn («يا كفار مكة»), Qurṭubī («الخطاب لقريش»), and Baghawī («يخاطب كفار مكة»); Muyassar says «أيها المشركون» (polytheists broadly), so attributing the consensus of all four to "Quraysh specifically" is a minor overgeneralization but not an error
+- فَذَاقُواْ as worldly punishment is confirmed (Baghawi: «ما لحقهم من العذاب في الدنيا»)
+- وَبَالَ rendered "crushing consequence" is within the attested semantic range of وبل (heavy, harmful weight)
+- Istifhām taqrīrī reading is standard for أَلَمْ constructions and uncontested
+
+SUMMARY: Tafsir interpretations are well-grounded and confirmed across all four classical sources; one moderate flag on the Mufradāt attribution where "consequence for the recipient" is the author's own gloss presented as al-Rāghib's explicit criterion rather than his actual formulation.

@@ -1,0 +1,37 @@
+Enhanced Validation Report
+File: content/tadabbur/037-as-saffat/ayahs-035-037.md
+Ayah: 37:35
+Date: 2026-06-05T08:00:52
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّهُمْ=Indeed, they | كَانُوٓاْ=were, | إِذَا=when | قِيلَ=it was said | لَهُمْ=to them, | لَآ=`(There is) no | إِلَـٰهَ=god | إِلَّا=except | ٱللَّهُ=Allah,` | يَسْتَكْبِرُونَ=were arrogant
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+
+- [MODERATE] "stood among them and said five syllables. *Lā ilāha illā Allah.*" — The shahada is not five syllables. Counting: lā / i-lā-ha / il-lā / Al-lāh = 8–9 syllables in standard Arabic phonology. The reflection may intend "five words" (also a stretch — it's four lexical units), but as written it is a countable factual error about the Arabic. A reader will walk away with a wrong phonological claim about the kalimat al-tawhid. Cannot verify from provided reference data that any classical source uses the "five syllables" framing.
+
+- [MODERATE] The reflection covers ayahs 36–37 in the translation block and promises to treat them, but the supplied reference data covers only ayah 35. Claims about 36 ("mad poet" / shāʿir majnūn) and 37 ("bal jāʾa bil-ḥaqq") cannot be validated against the provided word-by-word or tafsir corpus. No errors detected in those translations from general knowledge, but the validator cannot certify them from the provided data.
+
+CONFIRMED ACCURATE (from reference data):
+
+- Form X morphology of يَسْتَكْبِرُونَ (istafʿala pattern = "seeking/claiming/considering oneself to possess") is linguistically correct and aligns with Baghawi's يتكبرون عن كلمة التوحيد and Muyassar's يستكبرون عنها.
+- The kāna + imperfect (كَانُوٓا۟ ... يَسْتَكْبِرُونَ) analysis as habitual/settled past is grammatically sound.
+- The hadith qudsi framing of kibriyāʾ as Allah's "cloak/garment" is a documented hadith (Sunan Abu Dawud, Ibn Majah) — accurately referenced without misattribution.
+- No Arabic text errors detected in the ayah 35 block.
+- Passage context description of As-Saffat's opening oaths and Day of Judgment frame is accurate.
+
+SUMMARY: One countable factual error ("five syllables" for a phrase with 8–9) and one coverage gap (ayahs 36–37 unverifiable from supplied data); the morphological and grammatical analysis is rigorous and tafsir-grounded.

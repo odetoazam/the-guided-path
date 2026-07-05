@@ -1,0 +1,30 @@
+Enhanced Validation Report
+File: content/tadabbur/037-as-saffat/ayahs-088-096.md
+Ayah: 37:88
+Date: 2026-06-05T08:38:19
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَنَظَرَ=Then he glanced | نَظْرَةً=a glance | فِى=at | ٱلنُّجُومِ=the stars,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "Al-Qurṭubī notes they were people of cultivation and husbandry, and both of those livelihoods leaned on watching the sky; the science of the stars was *current among them, looked into*" — accurately reflects the Qurṭubī source: «كانوا أهل رعاية وفلاحة، وهاتان المعيشتان يحتا[جان إلى النجوم]» and «علم النجوم مستعملا عندهم منظورا فيه». Paraphrase is faithful.
+- [PASS] "He is performing, for one second, the gesture of a man consulting the omens — the very gesture they would trust" — consistent with Jalālayn: «إيهاماً لهم أنه يعتمد عليها ليعتمدوه» (feigning reliance on the stars so they would trust him). Accurate.
+- [PASS] *Naẓratan* as "single instance" via the *faʿla* pattern — morphologically sound. The maf'ūl muṭlaq analysis is standard Arabic grammar; the claim that this particular noun form signals a single discrete occurrence is defensible from classical morphology.
+- [PASS] *Fa-rāgha* glossed as "slipped away" — consistent with the root *rawgh* carrying connotations of stealth and sidelong movement, as used in 51:26 (رَاغَ إِلَىٰ أَهْلِهِ). Not contradicted by any reference provided.
+- [PASS] The framing of *saqīm* as strategic *taʿrīḍ* (allusion/implication rather than outright lie) — consistent with Muyassar: «وهذا تعريض منه». Accurately sourced.
+
+SUMMARY: The reflection is linguistically precise, tafsir-grounded, and does not overstate any classical position — all flagged claims trace directly to the provided reference data.

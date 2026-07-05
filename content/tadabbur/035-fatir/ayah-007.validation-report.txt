@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/035-fatir/ayah-007.md
+Ayah: 35:7
+Date: 2026-06-05T04:45:00
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ٱلَّذِينَ=Those who | كَفَرُواْ=disbelieve, | لَهُمْ=for them | عَذَابٌ=(will be) a punishment | شَدِيدٌۖ=severe, | وَٱلَّذِينَ=and those | ءَامَنُواْ=who believe | وَعَمِلُواْ=and do | ٱلصَّـٰلِحَـٰتِ=righteous deeds, | لَهُم=for them | مَّغْفِرَةٌ=(will be) forgiveness | وَأَجْرٌ=and a reward | كَبِيرٌ=great.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] Root analysis of كَفَرُوا (k-f-r = "to cover/bury") is lexically accurate and well-attested in Lisān al-ʿArab and Mufradāt al-Rāghib. The agricultural derivation (*kāfir* = farmer who covers seed) is a legitimate classical lexical point.
+- [PASS] Reference to 57:20 ("ka-mathali ghaythin aʿjaba al-kuffāra nabātuh") is quoted accurately and the dual reading of *kuffār* (disbelievers / tillers) is documented.
+- [PASS] Root of مَّغْفِرَةٌ (gh-f-r = "to cover/protect") is attested — the *mighfar* (head-covering/helmet) derivation is standard in classical lexicons. The structural parallel between k-f-r and gh-f-r as two kinds of "covering" is a recognized literary observation, not an invented one.
+- [PASS] Asymmetry claim (one outcome for disbelievers vs. two for believers) is verifiable from the text itself: عَذَابٌ شَدِيدٌ (one) vs. مَّغْفِرَةٌ وَأَجْرٌ كَبِيرٌ (two). No tafsir source contradicts this structural reading; al-Jalalayn's framing of "what befalls those who follow Shaytan vs. those who oppose him" is consistent with it.
+- [PASS] Contextual placement (following 35:6's Shaytan warning, within Fatir's contrast-pair architecture) is accurate.
+- [MODERATE — minor] "The picture is someone who **found it**, and pulled the soil over it" — the root k-f-r establishes *covering*, not necessarily *prior encounter* with truth. The stronger claim (that kufr implies suppressing a known truth) is a legitimate classical theological position (al-Muyassar's use of *jaḥada* supports it; see also the fitrah argument common in tafsir literature), but the reflection presents it as what "the root says" rather than what the root *implies when read theologically*. Mild overstatement of what etymology alone proves.
+- [NOTE — unverifiable from supplied data] "Night is described as covering the day" — if this is meant as a k-f-r usage specifically, I cannot confirm that from the reference data provided. If it is a general Arabic illustration (not claiming k-f-r is the word used), it is unproblematic.
+
+SUMMARY: The reflection's core linguistic and structural claims are well-grounded; the single MODERATE flag is a common pedagogical overreach where etymology is made to prove a theological conclusion that actually requires an additional step of classical argument — the root alone shows *covering*, not *covering of a previously encountered truth*.

@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/035-fatir/ayah-032.md
+Ayah: 35:32
+Date: 2026-05-18T03:16:26
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ثُمَّ=Then | أَوْرَثْنَا=We caused to inherit | ٱلْكِتَـٰبَ=the Book | ٱلَّذِينَ=those whom | ٱصْطَفَيْنَا=We have chosen | مِنْ=of | عِبَادِنَاۖ=Our slaves; | فَمِنْهُمْ=and among them | ظَالِمٌ=(is he) who wrongs | لِّنَفْسِهِۦ=himself, | وَمِنْهُم=and among them | مُّقْتَصِدٌ=(is he who is) moderate, | وَمِنْهُمْ=and among them | سَابِقُۢ=(is he who is) foremost | بِٱلْخَيْرَٲتِ=in good deeds | بِإِذْنِ=by permission | ٱللَّهِۚ=(of) Allah. | ذَٲلِكَ=That | هُوَ=is | ٱلْفَضْلُ=the Bounty | ٱلْكَبِيرُ=the great.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+**VERDICT: PASS**
+
+**ISSUES:**
+- [MODERATE] "he cites Mujahid for the same lexical point" (attributed to Baghawi re: *awratha* = *aʿṭā*) — the Baghawi excerpt in the provided reference data truncates at "لأن الميرا..." before any Mujahid citation appears. The *aʿṭā* gloss itself is confirmed ("ومعنى أورثنا أعطينا"), but the Mujahid attribution cannot be verified from the supplied data. This may be accurate from a fuller Baghawi text, but as stated it is a specific scholarly attribution that goes beyond what the reference data supports.
+
+**Confirmed accurate:**
+- Qurtubi's *mushkila* designation — verbatim confirmed: "هذه الآية مشكلة"
+- Baghawi's gloss *awrathnā* = *aʿṭaynā* — verbatim confirmed
+- Root **w-r-th**, Form IV causative analysis — linguistically correct
+- *iṣṭafā* and *iqtaṣada* as Form VIII — correct
+- The three-category descriptions are consistent with both Jalalain and Muyassar
+- The framing that the *ẓālim li-nafsihi* is still among the *muṣṭafā* (chosen) is the dominant classical position, accurately presented
+
+**One omission worth noting (not flagged as an error):** Qurtubi records a minority Ibn Abbas view (via Ibn ʿUyayna chain) that *ẓālim* here = the *kāfir*, not the sinful believer. The reflection does not engage this position. For a full-length 50-minute tadabbur on a *mushkila* verse, acknowledging and then rebutting this minority view would strengthen the ikhtilāf transparency the methodology requires — but its absence is not a factual error.
+
+**SUMMARY:** The reflection is substantively accurate; the sole verifiable concern is a Mujahid attribution to Baghawi that cannot be confirmed from the truncated reference text provided.

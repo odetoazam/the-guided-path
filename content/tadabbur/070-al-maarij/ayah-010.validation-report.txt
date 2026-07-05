@@ -1,0 +1,30 @@
+Enhanced Validation Report
+File: content/tadabbur/070-al-maarij/ayah-010.md
+Ayah: 70:10
+Date: 2026-06-15T02:52:41
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَلَا=And not | يَسْــَٔلُ=will ask | حَمِيمٌ=a friend | حَمِيمًا=(of) a friend.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Ibn al-Rāghib, in his lexicon of Quranic words, ties *ḥamīm* to the one whose care is *ardent*" — The author of *Mufradāt alfāẓ al-Qurʾān* is **al-Rāghib al-Iṣfahānī** (al-Ḥusayn ibn Muḥammad). "Ibn al-Rāghib" implies he is the *son of* someone named al-Rāghib; in fact, al-Rāghib is his own *laqab* (epithet), not his father's name. The correct citation form is "al-Rāghib al-Iṣfahānī." Minor name-form error, but it will confuse any reader who tries to locate the source.
+
+- [MODERATE — unverifiable from provided data] "...they will be given to drink boiling water (ḥamīm) that will rip apart their insides (47:15)" and "Boiling water will be poured over their heads (22:19)" — Both cross-references are used to support the ḥamīm dual-meaning argument. They are not in the supplied reference data, so I cannot confirm the paraphrases against the actual Arabic. The broader linguistic claim (ḥamīm = boiling water elsewhere in the Quran) is a well-established lexical fact, but the parenthetical description "will rip apart their insides" reads as a loose paraphrase that goes slightly beyond what most translations render for 47:15. Flag for spot-check against a verified translation.
+
+No CRITICAL issues identified. Arabic text matches the authentic source. Morphological root analysis (ḥ-m-m → heat) is lexically sound and consistent with Lisān al-ʿArab and Mufradāt al-Rāghib. The tafsir core claim — that no friend asks because every soul is preoccupied with itself — is accurately grounded in Jalālayn, Muyassar, Qurṭubī, and Baghawī as supplied. The grammatical observation (ḥamīmun as nominative subject, ḥamīmā as accusative object) is correct.
+
+SUMMARY: One correctable attribution error (al-Rāghib al-Iṣfahānī misnamed "Ibn al-Rāghib") and two cross-surah paraphrases that should be spot-checked against the source verses; the core Arabic analysis, tafsir grounding, and theological framing are accurate.

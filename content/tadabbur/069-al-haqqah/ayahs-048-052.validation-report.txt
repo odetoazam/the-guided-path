@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/069-al-haqqah/ayahs-048-052.md
+Ayah: 69:48
+Date: 2026-06-15T01:07:52
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَإِنَّهُۥ=And indeed, it | لَتَذْكِرَةٌ=(is) surely a reminder | لِّلْمُتَّقِينَ=for the Allah-fearing.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+**VERDICT: PASS**
+
+**ISSUES:**
+
+- [NOTE] "The word only works if the knowledge is already inside them" — the linguistic claim is sound (tadhkirah does semantically presuppose prior knowledge; this is what "reminder" means in any language), but the reflection then grounds this in the primordial covenant: *"The covenant where every soul testified 'Yes, You are our Lord' (7:172)"*. This is a well-attested classical interpretive move (found in Ibn Kathīr, Rāghib al-Iṣfahānī's Mufradāt), but it is a theological extension, not a morphological derivation. The text presents it as insight rather than citing it as scholarly consensus, so it does not cross into MODERATE — but it is an interpretive step beyond what the morphology alone establishes.
+
+- [NOTE] The morphological claim — root *dh-k-r*, Form II (*dhakkara*, causative), *tadhkirah* as its maṣdar on the *tafʿila* pattern — is accurate and matches the frontmatter's documentation. The *ʿallama/ʿalima* analogy used to explain the causative function is also correctly stated.
+
+- [NOTE] The three-fold *wa innahu* anaphora (48, 50, 51) is correctly observed; verse 49 breaks with *wa innā*, so the pattern the reflection describes is real.
+
+- [NOTE] The reflection text is truncated before "Element Two: Muttaqīn." Claims about the *w-q-y* root and Form VIII (*ittaqā*) cannot be validated from the excerpt provided.
+
+- [NOTE] Contextual framing of 69:44-47 (fabrication charge, *al-watīn* "life-vein") and the surah's narrative arc (ʿĀd, Thamūd, Record scenes) are all accurately represented.
+
+**SUMMARY:** No critical or moderate errors found in the validated portion; morphology is accurate, tafsir sources are not misrepresented, and the mīthāq extension is interpretively sound even if it exceeds what the word-form alone proves.

@@ -1,0 +1,30 @@
+Enhanced Validation Report
+File: content/tadabbur/037-as-saffat/ayahs-001-005.md
+Ayah: 37:1
+Date: 2026-06-05T07:49:12
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَٱلصَّـٰٓفَّـٰتِ=By those lined | صَفًّا=(in) rows,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [INFORMATIONAL] "a sanctuary...now crowded with three hundred and sixty of them" — the 360-idol figure is historically attested in conquest-of-Mecca narrations (referenced in Bukhari and Muslim traditions) but cannot be verified from the reference data provided. It is not an error, but flagged as unverifiable from the supplied sources.
+- [INFORMATIONAL] "Al-Baghawī reports from Ibn ʿAbbās, al-Ḥasan, and Qatāda that the ranged ones are the angels, lined up in the heavens as ranks of worshippers line up on earth" — CONFIRMED. Baghawi text reads: *قال ابن عباس، والحسن، وقتادة: هم الملائكة في السماء يصفون كصفوف الخلق في الدنيا للصلاة*. Attribution and paraphrase are accurate.
+- [INFORMATIONAL] "Al-Muyassar draws the full picture across the three: angels arraying themselves in tight rows of worship; angels driving the clouds onward by God's command; angels reciting the remembrance and the word of God" — CONFIRMED against Muyassar text: *صفوفًا متراصة… تزجر السحاب وتسوقه بأمر الله… تتلو ذكر الله وكلامه*. Paraphrase is accurate and complete.
+- [INFORMATIONAL] The Jalalayn offers an alternative that الصافات may refer to angels arraying their *wings* (أجنحتها في الهواء) rather than their persons in worship rows. The reflection presents only the worship-rows reading without noting this variant. This is an omission, not an error — the reading cited is valid.
+- [INFORMATIONAL] The fāʾ al-taʿqīb analysis (wāw on the first group, fā on the second and third signaling sequential procession) is grammatically sound and verifiable directly from the Arabic text. No overreach.
+
+SUMMARY: All scholar attributions check out against the provided tafsir data, the linguistic analysis of wāw/fā is accurate, and interpretive extensions (formation → force → word as a spiritual arc) are framed as reflection rather than documented claims — no genuine errors detected.

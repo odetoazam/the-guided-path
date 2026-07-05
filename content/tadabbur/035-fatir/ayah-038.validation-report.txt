@@ -1,0 +1,26 @@
+Enhanced Validation Report
+File: content/tadabbur/035-fatir/ayah-038.md
+Ayah: 35:38
+Date: 2026-06-05T01:09:14
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّ=Indeed, | ٱللَّهَ=Allah | عَـٰلِمُ=(is the) Knower | غَيْبِ=(of the) unseen | ٱلسَّمَـٰوَٲتِ=(of) the heavens | وَٱلْأَرْضِۚ=and the earth. | إِنَّهُۥ=Indeed, He | عَلِيمُۢ=(is the) All-Knower | بِذَاتِ ٱلصُّدُورِ=of what (is) in the breasts.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "the cosmos, vast as it is, is the *easy* part. The hard, hidden, slippery, ever-shifting thing — the thing that requires a knowing so total it needs its own intensified grammatical form — is the inside of a single human being" — the grammatical observation (ʿĀlim = ism fāʿil; ʿAlīm = ṣīghat al-mubālagha / faʿīl) is lexically and grammatically correct and well-attested. However, the causal interpretation built on it — that the intensified form was chosen *because* the chest is somehow harder or more elusive to know than the entire cosmos — is the author's own inferential reading. None of the four provided tafsir sources draw this conclusion. Al-Jalalayn reads the second clause as an a fortiori argument in the opposite direction: "فعلمه بغيره أولى بالنظر إلى حال الناس" (so His knowledge of other things is even more fitting, given the condition of people) — i.e., the heart-knowledge is the harder case that anchors the easier inference about the cosmos, not a claim about cosmological difficulty. The reflection presents this as what the grammar definitively shows rather than as a tadabbur inference.
+
+SUMMARY: The Arabic grammar is accurately identified and the contextual framing (35:37 connection) is confirmed by Qurtubi, but the interpretive payoff — that the ʿAlīm / ʿĀlim shift encodes the chest as a harder object of knowledge than the universe — is stated with doctrinal confidence that exceeds what the provided tafsir sources explicitly support; it should be framed as reflection, not grammatical conclusion.

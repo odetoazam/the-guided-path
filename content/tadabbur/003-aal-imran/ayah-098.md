@@ -6,7 +6,7 @@ ayah_end: 98
 title: "Why Do You Disbelieve While You Are Seen? — The Terror and Mercy of Being Witnessed"
 slug: "003-098"
 category: tadabbur
-arabic: "قُلْ يَـٰٓأَهْلَ ٱلْكِتَـٰبِ لِمَ تَكْفُرُونَ بِـَٔايَـٰتِ ٱللَّهِ وَٱللَّهُ شَهِيدٌ عَلَىٰ مَا تَعْمَلُونَ"
+arabic: "قُلْ يَـٰٓأَهْلَ ٱلْكِتَـٰبِ لِمَ تَكْفُرُونَ بِـَٔايَـٰتِ ٱللَّهِ وَٱللَّهُ شَهِيدٌ عَلَىٰ مَا تَعْمَلُونَ"
 translation: "Say: O People of the Book, why do you disbelieve in the signs of Allah while Allah is Witness over what you do?"
 word_count: null
 estimated_duration: "45-55 minutes"
@@ -14,6 +14,7 @@ passage_context: "After 3:97 described the House, its clear signs, and the oblig
 generated_by: "codex-tadabbur"
 validated: true
 validation_date: "2026-04-18"
+semantic_review: "enriched-2026-07-02"
 tags: []
 concepts: [signs-of-allah, ahl-al-kitab, iman, ihsan, accountability]
 ---
@@ -30,7 +31,7 @@ concepts: [signs-of-allah, ahl-al-kitab, iman, ihsan, accountability]
 
 ## Surah Aal-Imran (3:98)
 
-[ayah:3:98] قُلْ يَـٰٓأَهْلَ ٱلْكِتَـٰبِ لِمَ تَكْفُرُونَ بِـَٔايَـٰتِ ٱللَّهِ وَٱللَّهُ شَهِيدٌ عَلَىٰ مَا تَعْمَلُونَ
+[ayah:3:98] قُلْ يَـٰٓأَهْلَ ٱلْكِتَـٰبِ لِمَ تَكْفُرُونَ بِـَٔايَـٰتِ ٱللَّهِ وَٱللَّهُ شَهِيدٌ عَلَىٰ مَا تَعْمَلُونَ
 
 *Qul ya ahla al-kitabi lima takfuruna bi-ayati Allahi wa Allahu shahidun 'ala ma ta'malun.*
 
@@ -46,6 +47,8 @@ This ayah is the second kind.
 
 It comes in a stretch where Surah Aal-Imran is exposing a painful contradiction. A people associated with scripture, argument, inheritance, and learning are being confronted with the fact that proximity to revelation does not automatically produce surrender. You can live near the Book, argue from the Book, even claim lineage through the people of the Book, and still refuse the signs of Allah when they arrive in a form you do not want.
 
+Al-Tabari widens the address deliberately: the "People of the Book" here are the Jews of the Children of Israel and, with them, everyone who lays claim to a religion built on what Allah revealed in His earlier scriptures yet rejects Muhammad ﷺ and denies his prophethood. So the verse is not aimed at outsiders who never received a Book; it is aimed at insiders who received one and turned from the proofs it contained. And Ibn Kathir adds a second charge underneath the first: their crime is not only that they reject the truth for themselves, but that they *block the path of Allah for others*, hindering those who are trying to believe — and they do this while knowing, from their own prophets, that the Messenger came with the truth.
+
 So the verse opens not with explanation, but with address: **O People of the Book.** The title itself carries dignity, responsibility, and indictment all at once. Then it asks: **why do you disbelieve in the signs of Allah?** And before anyone can hide inside a performance of interpretation or a politics of image, the ayah closes the room: **Allah is Witness over what you do.**
 
 The hook of the verse is this: **the deepest crisis here is not lack of information. It is committing resistance while fully seen.**
@@ -56,7 +59,7 @@ The hook of the verse is this: **the deepest crisis here is not lack of informat
 
 ### 1. **Lima takfurun**: The question assumes there is no good reason
 
-The phrase **lima takfurun** means more than a neutral "why." In Quranic rhetoric, this kind of question often exposes a moral absurdity rather than opening a genuine uncertainty. It is not: help me understand your thoughtful case. It is: what could possibly justify this?
+The phrase **lima takfurun** means more than a neutral "why." Here it functions as a rebuke rather than an open inquiry — what classical rhetoricians call *istifhām tawbīkhī*, a reproachful question. It is not: help me understand your thoughtful case. It is: what could possibly justify this? The classical commentators read the verse in exactly this register; al-Muyassar glosses the whole close of the ayah as *tahdīd wa waʿīd* — a threat and a warning folded inside the question itself.
 
 Then comes **takfurun**, from the root **k-f-r**, whose concrete sense is covering, concealing, laying something over what is already there. That matters here. The ayah does not describe them as simple strangers to revelation. It addresses them as **People of the Book** and then names their response as **kufr** toward Allah's signs. This is not distance from light. It is the act of drawing a cover over light already encountered.
 
@@ -64,7 +67,7 @@ Then comes **takfurun**, from the root **k-f-r**, whose concrete sense is coveri
 
 That is why the question burns.
 
-When a person has not seen, the primary problem may be absence. When a person has seen and still covers, the primary problem becomes honesty. And the Quran is ruthlessly precise about that distinction. Not every failure is the same. This verse is not aimed at the one still searching in darkness. It is aimed at the one who has inherited enough light that resistance now requires covering.
+When a person has not seen, the primary problem may be absence. When a person has seen and still covers, the primary problem becomes honesty. And the Quran is ruthlessly precise about that distinction. Not every failure is the same. This verse is not aimed at the one still searching in darkness. It is aimed at the one who has inherited enough light that resistance now requires covering. Al-Tabari sharpens exactly this point: the rejection here is a rejection *while knowing* — "you deny this from His affair while you know his truthfulness." The covering is not innocent, because there is something already known underneath the cloth.
 
 That is uncomfortably relevant to us as well. There are moments when the issue in our lives is genuinely confusion. And there are moments when the issue is no longer confusion at all. The ayah landed. The truth became visible. The pattern exposed itself. And then we covered it. *Lima takfurun?* Why are you still doing that?
 
@@ -74,7 +77,7 @@ That is uncomfortably relevant to us as well. There are moments when the issue i
 
 The verse does not say: why do you disbelieve in Muhammad's argument, or in this community's claim, or in a disputed interpretation. It says: **bi-ayati Allah**. In the signs of Allah.
 
-An **ayah** is a sign, mark, indicator, a thing that points beyond itself to the One who placed it. And the construction here matters: these are not signs floating ownerless in public debate. They are the signs **of Allah**.
+An **ayah** is a sign, mark, indicator, a thing that points beyond itself to the One who placed it. Al-Tabari and al-Muyassar both read *ayat* here in its evidentiary sense — as the *hujaj*, the proofs and arguments of Allah, the very evidences that establish that His religion is Islam. And here is the sting the classical reading uncovers: those proofs were not foreign to the People of the Book. Al-Muyassar notes they were rejecting "what is in their own books" — the indicators and demonstrations already sitting inside their own scripture. The sign they are covering is one their own tradition had been carrying all along. The construction seals it: these are not signs floating ownerless in public debate. They are the signs **of Allah**.
 
 [PAUSE]
 
@@ -82,7 +85,7 @@ That changes the moral register of rejection.
 
 Human beings often reduce truth to tribal contest. Your camp, my camp. Your scholars, my scholars. Your reading, my reading. The Quran repeatedly tears through that reduction by re-attaching the matter to Allah Himself. If the sign is His, then rejecting it is not merely disagreeing with another human faction. It is refusing a pointer that leads back to the Lord who authored the sign in the first place.
 
-This helps us understand why kufr is such a grave word. A sign from Allah is a mercy. It is guidance sent outward so the heart can turn inward. To reject the sign is not just to lose an argument. It is to refuse a mercy designed for your return.
+This helps us understand why kufr is such a grave word. A sign from Allah is a mercy. It is guidance sent outward so the heart can turn inward. To reject the sign is not just to lose an argument. It is to refuse a mercy designed for your return — and, as Ibn Kathir stresses, to stand in the way of others who are reaching for it.
 
 [PAUSE]
 
@@ -92,13 +95,13 @@ The verse ends: **wa Allahu shahidun 'ala ma ta'malun**.
 
 The word **shahid** from the root **sh-h-d** carries the sense of witnessing, being present to, testifying with full awareness. A shahid is not someone who heard rumors. A shahid is one before whom the matter stands exposed.
 
-And notice the verse does not say merely that Allah knows. Of course He knows. But **shahid** adds the atmosphere of presence. The rejection is not happening offstage. The performance, the argument, the inward motive, the public maneuvering, the private calculation, all of it is occurring before the Witness.
+And notice the verse does not say merely that Allah knows. Of course He knows. But **shahid** adds the atmosphere of presence. The rejection is not happening offstage. The performance, the argument, the inward motive, the public maneuvering, the private calculation, all of it is occurring before the Witness. This is precisely why al-Muyassar hears the clause as *tahdīd wa waʿīd* — threat and warning: to be told "Allah is Witness over your doing" is to be told the ledger is already being kept.
 
 [PAUSE]
 
 Then comes **ma ta'malun**. What you do. Not only what you claim. Not only what you say you believe. What you actually do.
 
-That is another incision from the ayah. It places the matter not in the realm of self-description but in enacted reality. Divine witness is falling on deeds, strategies, postures, alignments, suppressions, manipulations, and choices. The verse closes the gap between theology and behavior. If your mouth speaks one way while your actions work another, the Witness is not fooled by the split.
+That is another incision from the ayah. It places the matter not in the realm of self-description but in enacted reality. Divine witness is falling on deeds, strategies, postures, alignments, suppressions, manipulations, and choices. The verse closes the gap between theology and behavior. If your mouth speaks one way while your actions work another, the Witness is not fooled by the split. And the classical reading widens *ma ta'malun* beyond private belief to the outward work of obstruction Ibn Kathir named — the blocking of the path, the hindering of seekers. The witness covers not only what the heart hides but what the hands do to others.
 
 [PAUSE]
 
@@ -108,7 +111,7 @@ That is another incision from the ayah. It places the matter not in the realm of
 
 The address **O People of the Book** should make us tremble in a useful way.
 
-Because it means the verse is talking to people near revelation, not far from it. People with inherited language for truth, not people with none. People who can cite, recall, discuss, and locate themselves inside sacred history.
+Because it means the verse is talking to people near revelation, not far from it. People with inherited language for truth, not people with none. People who can cite, recall, discuss, and locate themselves inside sacred history. This is the force of al-Tabari's reading that the rejection came "while you know his truthfulness": the tragedy is not an empty mind but an informed one refusing what it has already recognized.
 
 And still the question comes: **why do you disbelieve?**
 
@@ -148,7 +151,7 @@ First, an address of dignity and responsibility: **O People of the Book**.
 Then, a question that exposes moral contradiction: **why do you commit kufr toward Allah's signs?**
 Then, a closure that makes evasion impossible: **Allah is Witness over what you do.**
 
-So the ayah does not merely criticize disbelief. It diagnoses a very specific kind of disbelief: the kind that happens in the presence of inherited religious knowledge and under the gaze of the Witness. It is a verse about the terror of proximity without surrender.
+So the ayah does not merely criticize disbelief. It diagnoses a very specific kind of disbelief: the kind that happens in the presence of inherited religious knowledge and under the gaze of the Witness. It is a verse about the terror of proximity without surrender — the rejection of proofs one's own scripture was already carrying.
 
 [PAUSE]
 

@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/068-al-qalam/ayah-043.md
+Ayah: 68:43
+Date: 2026-06-13T15:38:57
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: خَـٰشِعَةً=Humbled, | أَبْصَـٰرُهُمْ=their eyes, | تَرْهَقُهُمْ=will cover them | ذِلَّةٌ‌ۖ=humiliation. | وَقَدْ=And indeed, | كَانُواْ=they were | يُدْعَوْنَ=called | إِلَى=to | ٱلسُّجُودِ=prostrate | وَهُمْ=while they | سَـٰلِمُونَ=(were) sound.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "Al-Jalālayn captures the second sense precisely: here *khāshiʿah* carries the meaning of *dhalīlah*" — **Confirmed.** Jalālayn explicitly glosses: «خاشعة» أي ذليلة. Attribution is exact and accurate.
+- [PASS] "Both al-Qurtubi and the grammarians note its accusative case marks it precisely this way [as a *ḥāl*]" — **Confirmed.** Qurtubi states «ونصبها على الحال» directly. Jalālayn independently identifies it as «حال من ضمير يدعون». Both sources align on the grammatical classification.
+- [PASS] Root identifications: *kh-sh-ʿ* for خاشعة, *r-h-q* for ترهقهم, *dh-l-l* for ذلة — all **confirmed** by word-by-word and classical lexicon citation in frontmatter.
+- [PASS] 23:1–2 quotation (*khāshiʿūn*) — accurate and not overstated; the reflection correctly draws a conceptual parallel without claiming Quranic mufassirun made this explicit link.
+- [PASS] *Sālimūn* glossed as "sound/healthy/able" — **Confirmed.** Muyassar states «وهم أصحَّاء قادرون عليها» (healthy and capable of it).
+- [UNVERIFIABLE — not flagged as error] The Rāghib al-Iṣfahānī *Mufradāt* claim on *r-h-q* — text cuts off mid-sentence before the specific claim is stated. Cannot validate the definition that follows. Not an error in what was provided; flag for review when full text is available.
+- [PASS] Restraint on 68:42 "uncovering of the shin" debate — the reflection explicitly defers rather than asserting a position. Methodologically sound given genuine scholarly disagreement.
+
+SUMMARY: Every verifiable claim in the excerpted text is grounded accurately in the provided reference data, with no root errors, no inverted attributions, and no facts stated as documented positions that exceed their classical warrant.

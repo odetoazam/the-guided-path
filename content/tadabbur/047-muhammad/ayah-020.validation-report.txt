@@ -1,0 +1,30 @@
+Enhanced Validation Report
+File: content/tadabbur/047-muhammad/ayah-020.md
+Ayah: 47:20
+Date: 2026-06-08T10:28:03
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَيَقُولُ=And say | ٱلَّذِينَ=those who | ءَامَنُواْ=believe, | لَوْلَا=`Why not | نُزِّلَتْ=has been revealed | سُورَةٌ‌ۖ=a Surah?` | فَإِذَآ=But when | أُنزِلَتْ=is revealed | سُورَةٌ=a Surah | مُّحْكَمَةٌ=precise | وَذُكِرَ=and is mentioned | فِيهَا=in it | ٱلْقِتَالُ‌ۙ=the fighting, | رَأَيْتَ=you see | ٱلَّذِينَ=those who, | فِى=in | قُلُوبِهِم=their hearts, | مَّرَضٌ=(is) a disease | يَنظُرُونَ=looking | إِلَيْكَ=at you - | نَظَرَ=a look | ٱلْمَغْشِىِّ عَلَيْهِ=(of) one fainting | مِنَ=from | ٱلْمَوْتِ‌ۖ=the death. | فَأَوْلَىٰ=But more appropriate | لَهُمْ=for them
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "Qurtubi says it plainly: *ishtiyāqan lil-waḥy wa-ḥirṣan ʿalā l-jihād*" — the provided Qurtubi text reads «اشتياقا للوحي وحرصا على الجهاد **وثوابه**»; the reflection silently drops *wa-thawābih* ("and its reward"). The truncation does not invert the meaning, but the reflection presents this as a verbatim quote ("says it plainly") when it is partial.
+
+- [MODERATE] "al-Rāghib al-Aṣfahānī foremost among them, give us a distinction that has long been recognized: Form II, *nazzala*, carries the sense of the gradual… Form IV, *anzala*, carries the sense of the whole thing, sent down at once" — the Form II/IV distinction is correctly attested in al-Rāghib's *Mufradāt* and is linguistically sound. However, the reflection then extends this to a psychological frame: the believers "perhaps without even knowing it" reached for the gentler form because they wanted a "soft arrival." No classical mufassir commenting on this specific ayah makes that observation about believer psychology. The linguistic claim is grounded; the psychological inference applied to the believers' word choice is the reflection's own construal, presented in close proximity to the al-Rāghib citation in a way that implies scholarly backing it does not have.
+
+Everything else checks out against the reference data: the identification of *maraḍ* with hypocrisy is confirmed by Jalālayn («هم المنافقون») and Baghawī («يعني المنافقين»); the Form II and Form IV verbal forms (*nuzzilat*, *unzilat*) are correctly identified in the Arabic text; the Arabic in the frontmatter matches the authentic text within normal Unicode encoding variation; the description of *muḥkamah* as "decisive" is an acceptable rendering given Jalālayn's «لم ينسخ منها شيء» and Muyassar's «محكمة بالبيان والفرائض».
+
+SUMMARY: The reflection is substantively accurate — no root errors, no inverted attributions, no fabricated claims — but the Qurtubi quote should be completed or marked as an excerpt, and the psychological inference about the believers' choice of *nuzzilat* should be flagged as the author's interpretive reading rather than a reported classical position.

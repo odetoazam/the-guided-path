@@ -1,0 +1,42 @@
+Enhanced Validation Report
+File: content/tadabbur/039-az-zumar/ayah-003.md
+Ayah: 39:3
+Date: 2026-06-06T03:21:52
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَلَا=Unquestionably, | لِلَّهِ=for Allah | ٱلدِّينُ=(is) the religion | ٱلْخَالِصُ‌ۚ=the pure. | وَٱلَّذِينَ=And those who | ٱتَّخَذُواْ=take | مِن دُونِهِۦٓ=besides Him | أَوْلِيَآءَ=protectors, | مَا=`Not | نَعْبُدُهُمْ=we worship them | إِلَّا=except | لِيُقَرِّبُونَآ=that they may bring us nearer | إِلَى=to | ٱللَّهِ=Allah | زُلْفَىٰٓ=(in) position.` | إِنَّ=Indeed, | ٱللَّهَ=Allah | يَحْكُمُ=will judge | بَيْنَهُمْ=between them | فِى=in | مَا=what | هُمْ=they | فِيهِ=[in it] | يَخْتَلِفُونَ‌ۗ=differ. | إِنَّ=Indeed, | ٱللَّهَ=Allah | لَا=(does) not | يَهْدِى=guide | مَنْ=(one) who | هُوَ=[he] | كَـٰذِبٌ=(is) a liar | كَفَّارٌ=and a disbeliever.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- None identified in the portion reviewed (first ~8,000 characters through Part 1, Element One).
+
+Specific checks performed against reference data:
+
+**Arabic text** — matches the authentic Arabic exactly, including all diacritics.
+
+**أَلَا as ḥarf istiftāḥ** — correct. The grammatical classification and gloss ("a particle of opening") is standard Arabic grammar. The pedagogical rendering ("Behold — now hear this — let there be no doubt") is well within acceptable range.
+
+**Fronting of لِلَّهِ and qaṣr claim** — well-supported. Al-Jalalayn: *"لا يستحقه غيره"* (none other deserves it). Al-Baghawi: *"لا يستحق الدين الخالص إلا الله"* (none deserves the pure religion except Allah). The reflection's claim of exclusivity via word-fronting is confirmed by classical tafsir reading the same construction identically.
+
+**Quraysh theological context** — accurately represented. The ayah itself quotes their rationale directly; Al-Jalalayn and Al-Muyassar both identify them as Makkan mushrikeen who believed in Allah but used idols as intermediaries (*"تشفع لنا عند الله، وتقربنا عنده منزلة"* — Al-Muyassar).
+
+**زُلْفَىٰ rendered as "drawing-near/nearness"** — more accurate than the word-by-word gloss ("position"). Root z-l-f unambiguously means proximity/nearness in classical Arabic lexica; the Quran.com "position" translation is the weaker rendering.
+
+**Intercession-broker framing** — directly grounded in Al-Muyassar's reading of the intermediary claim.
+
+**One note, not a flag:** The reflection presents the qaṣr effect of taqdīm (fronting) using the term *qaṣr* directly. Strictly in classical balagha, taqdīm produces *ikhtiṣāṣ* (specification) which implies restriction, while *qaṣr* technically requires constructions like إنما or negation + exception. However, the practical meaning the reflection draws — exclusive belonging to Allah — is identical to what the classical sources conclude, so this is a terminological simplification for a lay audience, not an error.
+
+SUMMARY: The first substantive portion of this tadabbur is linguistically precise, classically grounded, and its core theological claims are directly confirmed by Al-Jalalayn, Al-Muyassar, Al-Baghawi, and the word-by-word data — no errors detected.

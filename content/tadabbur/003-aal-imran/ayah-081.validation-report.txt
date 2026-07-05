@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayah-081.md
+Ayah: 3:81
+Date: 2026-06-21T10:49:26
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَإِذْ=And when | أَخَذَ ٱللَّهُ=Allah took | مِيثَـٰقَ=covenant | ٱلنَّبِيِّــۧنَ=(of) the Prophets, | لَمَآ=`Certainly, whatever | ءَاتَيْتُكُم=I (have) given you | مِّن=of | كِتَـٰبٍ=(the) Book | وَحِكْمَةٍ=and wisdom | ثُمَّ=then | جَآءَكُمْ=comes to you | رَسُولٌ=a Messenger | مُّصَدِّقٌ=confirming | لِّمَا=that which | مَعَكُمْ=(is) with you, | لَتُؤْمِنُنَّ=you must believe | بِهِۦ=in him | وَلَتَنصُرُنَّهُۥ‌ۚ=and you must help him.` | قَالَ=He said, | ءَأَقْرَرْتُمْ=`Do you affirm | وَأَخَذْتُمْ=and take | عَلَىٰ=on | ذَٲلِكُمْ=that (condition) | إِصْرِى‌ۖ=My Covenant?` | قَالُوٓاْ=They said, | أَقْرَرْنَا‌ۚ=`We affirm.` | قَالَ=He said, | فَٱشْهَدُواْ=`Then bear witness, | وَأَنَا۟=and I (am) | مَعَكُم=with you | مِّنَ=among | ٱلشَّـٰهِدِينَ=the witnesses.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [UNVERIFIABLE] "al-Qurtubi gathers the views of Saʿīd ibn Jubayr, Qatāda, Ṭāwūs, al-Suddī, and al-Ḥasan" — the provided al-Qurtubi excerpt is truncated at "فذلك معنى النصرة بالتصديق" and does not reach the named-scholar section. The underlying claim (covenant with prophets themselves, each affirming the others) is confirmed by the excerpt; the specific isnād list cannot be verified from the reference data supplied. Flag for full-text Qurtubi check before publication.
+
+Verified accurate:
+- Root و-ث-ق for مِيثَاق, wazn مِفْعَال with wāw → yāʾ shift: correct. Semantic field (wuthqā / wathāq / binding-cord) lexically attested.
+- أَخَذَ rendered as "took" with the volitional force the reflection claims: confirmed by word-by-word.
+- لَتُؤْمِنُنَّ / وَلَتَنصُرُنَّهُۥ described as emphatic-locked via nūn al-tawkīd: grammatically accurate.
+- رَسُولٌ مُّصَدِّقٌ identified as Muhammad ﷺ: Jalalayn explicit ("وهو محمد صلى الله عليه وسلم").
+- إِصْرِى rendered "binding pledge": root أ-ص-ر (burden/tight bond) supports this; not an error over the word-by-word "My Covenant."
+- Contextual frame (covenant with prophets themselves, not merely their followers; each affirming the others): confirmed by Qurtubi excerpt and Muyassar.
+- Arabic text in the reflection matches the authentic Arabic; minor diacritical encoding differences (no tanwīn marks ۢ/ۭ) are typographic, not textual errors.
+
+SUMMARY: The reflection is linguistically careful and interpretively grounded across all verifiable claims; the sole flag is a scholar-attribution list in al-Qurtubi that requires a full-text source check before the file goes live.

@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/052-at-tur/ayahs-011-012.md
+Ayah: 52:11
+Date: 2026-06-09T15:38:35
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَوَيْلٌ=Then woe, | يَوْمَئِذٍ=that Day, | لِّلْمُكَذِّبِينَ=to the deniers,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "In Arabic, you can take a simple verb and put it through a kind of intensifying machine. You double the middle letter, and the word's force multiplies" — for the root k-dh-b specifically, Form II (كَذَّبَ) functions primarily as a **declarative/estimative** form — "to declare/brand something as a lie" — not as a pure intensification of "to lie." The doubled letter in this root signals *attribution of a quality to the object*, not amplification of the base meaning. The reflection's final interpretive conclusion ("actively, deliberately brand something as a lie") is correct and well-phrased, but the morphological mechanism it cites to get there is a partial mischaracterization. A reader who absorbs the explanation and moves to another Form II verb may carry a misleading model.
+
+CONFIRMED ACCURATE (verified against provided sources):
+- Al-Qurtubi on the fā': *"li-anna fī al-kalām maʿnā al-mujāzāh"* — exact match to «وإنما دخلت الفاء لأن في الكلام معنى المجازاة» ✓
+- Al-Qurtubi on *wayl*: *"kalimat tuqāl lil-hālik"* — exact match to «ويل كلمة تقال للهالك» ✓
+- Arabic frontmatter text matches the authenticated ayah ✓
+- Root k-dh-b, Form II for مكذبين — confirmed by morphology note ✓
+- *Khawd* + *laʿib* pairing — confirmed by Muyassar: «في خوض بالباطل يلعبون به» ✓
+
+SUMMARY: The two Qurtubi citations are letter-perfect and the interpretive conclusions are sound, but the reflection teaches Form II as a generic intensifier when كَذَّبَ is a declarative form — the mechanism is oversimplified even though the destination is correct.

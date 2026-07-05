@@ -1,0 +1,46 @@
+Enhanced Validation Report
+File: content/tadabbur/054-al-qamar/ayah-043.md
+Ayah: 54:43
+Date: 2026-06-10T07:22:55
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَكُفَّارُكُمْ=Are your disbelievers, | خَيْرٌ=better | مِّنْ=than | أُوْلَـٰٓئِكُمْ=those, | أَمْ=or | لَكُم=for you | بَرَآءَةٌ=(is) an exemption | فِى=in | ٱلزُّبُرِ=the Scriptures?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No errors found in the portion reviewed (first 8,000 chars; reflection ends mid-sentence at "Second p").
+
+Detailed checks:
+
+**Arabic text** — Frontmatter arabic field matches authentic text (tanwin rendering differences are font/encoding variation, not content errors). PASS.
+
+**"Not a single verb"** — Confirmed. أَكُفَّارُكُمْ (noun), خَيْرٌ (adj/noun), أُولَئِكُمْ (demonstrative), بَرَآءَةٌ (noun), ٱلزُّبُرِ (noun); all four content words nominal as stated. PASS.
+
+**Kāf al-khiṭāb on أُولَئِكُمْ** — Grammatically sound; the dhālikum/dhālikumu-llāhu analogy is a standard example. PASS.
+
+**Al-Qurtubi attribution** ("address is to the Arabs... others extended it to the disbelievers of this ummah generally") — Source confirms: *خاطب العرب. وقيل: أراد كفار أمة محمد ﷺ*. Accurately reproduced. PASS.
+
+**Al-Jalalayn gloss *yā Quraysh*** — Source confirms: *«أكفاركم» يا قريش*. Exact match. PASS.
+
+**Al-Jalalayn on istifhām inkārī** ("the interrogative in both places carries the meaning of negation") — Source confirms: *والاستفهام في الموضعين بمعنى النفي*. Accurate paraphrase. PASS.
+
+**Al-Baghawi *istifhām bi-maʿnā al-inkār*** — Source confirms: *وهذا استفهام بمعنى الإنكار*. Accurate. PASS.
+
+**Al-Muyassar on ulā'ikum referent** ("those previously mentioned, who were destroyed because of their denial") — Source confirms: *ممن هلكوا بسبب تكذيبهم*. Accurate. PASS.
+
+**Five destroyed peoples** — Consistent with surah sequence and Al-Jalalayn's *من قوم نوح إلى فرعون*. PASS.
+
+SUMMARY: Every tafsir attribution in the reviewed portion maps precisely to the supplied sources, grammatical claims are sound, and no scholar position is overstated or inverted.

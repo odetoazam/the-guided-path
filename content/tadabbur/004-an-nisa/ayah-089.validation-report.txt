@@ -1,0 +1,30 @@
+Enhanced Validation Report
+File: content/tadabbur/004-an-nisa/ayah-089.md
+Ayah: 4:89
+Date: 2026-06-25T06:36:53
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَدُّواْ=They wish | لَوْ=if | تَكْفُرُونَ=you disbelieve | كَمَا=as | كَفَرُواْ=they disbelieved | فَتَكُونُونَ=and you would be | سَوَآءً‌ۖ=alike. | فَلَا=So (do) not | تَتَّخِذُواْ=take | مِنْهُمْ=from them | أَوْلِيَآءَ=allies | حَتَّىٰ=until | يُهَاجِرُواْ=they emigrate | فِى=in | سَبِيلِ=(the) way | ٱللَّهِ‌ۚ=(of) Allah. | فَإِن=But if | تَوَلَّوْاْ=they turn back, | فَخُذُوهُمْ=seize them | وَٱقْتُلُوهُمْ=and kill them | حَيْثُ=wherever | وَجَدتُّمُوهُمْ‌ۖ=you find them. | وَلَا=And (do) not | تَتَّخِذُواْ=take | مِنْهُمْ=from them | وَلِيًّا=any ally | وَلَا=and not | نَصِيرًا=any helper,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "The grammar is telling you this is not the open enemy on the battlefield, snarling from a distance. This is someone near enough to wish upon you" — this presents a proximity/intimacy claim as lexically derived, but the provided tafsirs (Jalalayn, Baghawi, Qurtubi) all gloss وَدُّوا simply as "تمنوا" (they wished/desired) without drawing any implication about social closeness from the root. The distinction between *wudd* and *tamannā* is real in Rāghib's Mufradāt, but the leap to "someone near enough to wish upon you" is an interpretive bridge the provided reference data does not supply. It should be flagged as reflection, not grammatical finding.
+
+- [MODERATE] "there is a kind of love that is really a wish for sameness, and it longs for your fall the way true love longs for your rising" — the claim about their motivation being "asymmetry intolerable to them" is a psychological elaboration not stated in any of the four tafsirs provided. Muyassar and Qurtubi both focus on the doctrinal content (they wished you would join them in kufr/nifaq) without the emotional-asymmetry framing. This is presented as a derived insight but is editorial. Not wrong; not supported by the reference data as stated.
+
+No CRITICAL issues found. The root w-d-d, the Form VIII ittakhadha analysis, the سَوَآءً gloss as "alike/equal," and the Madinan hypocrite context are all consistent with the word-by-word data and the four tafsir sources.
+
+SUMMARY: The linguistic and morphological claims are accurate; the two moderate flags are interpretive psychological elaborations — the wudd-as-proximity argument and the asymmetry-as-wound framing — presented with more lexical authority than the provided reference data warrants.

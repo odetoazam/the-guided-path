@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/034-saba/ayah-008.md
+Ayah: 34:8
+Date: 2026-05-18T02:10:36
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَفْتَرَىٰ=Has he invented | عَلَى=about | ٱللَّهِ=Allah | كَذِبًا=a lie | أَم=or | بِهِۦ=in him | جِنَّۗةُۢ=(is) madness?` | بَلِ=Nay, | ٱلَّذِينَ=those who | لَا=(do) not | يُؤْمِنُونَ=believe | بِٱلْأَخِرَةِ=in the Hereafter | فِى=(will be) in | ٱلْعَذَابِ=the punishment | وَٱلضَّلَـٰلِ=and error | ٱلْبَعِيدِ=far.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "It does not ask *whether*. It asks *which*. It assumes the speaker has already accepted that one of the options is true. The only thing left to decide is which one." — The first two sentences accurately characterize أم المعادلة in classical Arabic grammar (confirmed by al-Qurtubi: لما دخلت ألف الاستفهام استغنيت عن ألف الوصل فحذفتها, and al-Baghawi: ألف استفهام دخلت على ألف الوصل). But the third and fourth sentences overstate the case: classical grammarians describe this construction as presenting two open alternatives for the listener to pick between — not as structurally presupposing one is already accepted as true. The false-dichotomy argument is a valid rhetorical observation about the Meccans' intent, but it should be framed as what they are *doing with* the construction, not as a property *of* the construction itself.
+
+**Items confirmed against reference data:**
+- al-Qurtubi attribution on hamza displacing alif al-wasl: verbatim confirmed
+- aftarā as Form VIII (ifta'ala) of root ف-ر-ي: morphologically correct; both word-by-word ("Has he invented") and tafsirs support fabrication/invention as the meaning
+- Form VIII carrying deliberate, engaged-manufacture sense: linguistically sound
+- jinnah root ج-ن-ن carrying "concealment/hiddenness" meaning: lexically attested (Lisān al-ʿArab confirms)
+- bal as divine reversal redirecting the accusation: confirmed by al-Muyassar ("ليس الأمر كما قال الكفار، بل محمد أصدق الصادقين") and al-Jalalayn
+- Punishment being in the Hereafter AND error being in the dunya: confirmed explicitly by al-Jalalayn ("في العذاب فيها والضلال البعيد عن الحق في الدنيا") and al-Baghawi
+
+SUMMARY: One moderate overstatement attributes the false-dichotomy effect to the grammar of أم المعادلة rather than to the Meccans' rhetorical intent; all root claims, tafsir attributions, and morphological assertions check out against the provided data.

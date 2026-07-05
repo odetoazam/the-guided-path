@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/045-al-jathiyah/ayah-013.md
+Ayah: 45:13
+Date: 2026-06-08T02:35:07
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَسَخَّرَ=And He has subjected | لَكُم=to you | مَّا=whatever | فِى=(is) in | ٱلسَّمَـٰوَٲتِ=the heavens | وَمَا=and whatever | فِى=(is) in | ٱلْأَرْضِ=the earth - | جَمِيعًا=all | مِّنْهُ‌ۚ=from Him. | إِنَّ=Indeed, | فِى=in | ذَٲلِكَ=that | لَأَيَـٰتٍ=surely are Signs | لِّقَوْمٍ=for a people | يَتَفَكَّرُونَ=who give thought.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "just two letters and a vowel: *minhu*" — مِنْهُ contains three consonants (م، ن، ه), not two. Morphologically it parses as the preposition مِنْ (two letters, nun with sukoon) + the pronoun هُ (one consonant with damma vowel). Calling هُ "a vowel" is factually wrong; ه is a consonant (the letter hāʾ). This misdescription appears in the Linguistic Journey section specifically, where precision is load-bearing.
+
+SUPPORTING PASSES (confirmed against reference data):
+- سَخَّرَ as Form II perfect with doubled middle radical (خّ) is correct; header comment confirms "سَخَّرَ Form II perfect." The causative/factitive characterization is standard Arabic grammar.
+- The taskhīr framing ("created for your benefit," cosmos serving humanity) is confirmed verbatim across all four tafsirs — Jalalayn: "خلق ذلك لمنافعكم," Baghawi: "خلقها لمنافعنا."
+- The claim that "scholars have argued over" مِنْهُ with "one early reading changing the emotional temperature" is confirmed by Qurtubi, who records Ibn ʿAbbas and al-Juhdari reading جَمِيعًا مِنَّةً (favor/grace) with kasra + shaddah on the nun — a genuine variant reading that shifts the word from "from Him" to "as a favor from Him."
+- "The verb has a hidden subject — He" is grammatically accurate; سَخَّرَ's implied subject is Allah from surah context.
+- يَتَفَكَّرُونَ as Form V imperfect is confirmed in the header metadata.
+
+SUMMARY: The reflection is theologically well-grounded and exegetically accurate throughout; the only flagged issue is a factual linguistic error in a section dedicated to linguistic precision — مِنْهُ is described as "two letters and a vowel" when it has three consonants.

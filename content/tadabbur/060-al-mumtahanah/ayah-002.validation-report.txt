@@ -1,0 +1,40 @@
+Enhanced Validation Report
+File: content/tadabbur/060-al-mumtahanah/ayah-002.md
+Ayah: 60:2
+Date: 2026-06-13T00:10:08
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِن=If | يَثْقَفُوكُمْ=they gain dominance over you, | يَكُونُواْ=they would be | لَكُمْ=to you | أَعْدَآءً=enemies | وَيَبْسُطُوٓاْ=and extend | إِلَيْكُمْ=against you | أَيْدِيَهُمْ=their hands | وَأَلْسِنَتَهُم=and their tongues | بِٱلسُّوٓءِ=with evil, | وَوَدُّواْ=and they desire | لَوْ=that | تَكْفُرُونَ=you would disbelieve.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate errors found in the content provided.
+
+Supporting verification:
+
+**Qurtubī attribution** — "Al-Qurtubī opens it for us. He says *yathqafūkum* means *'yulqūkum wa yuṣādifūkum'*... it comes from al-muthāqafa... *'ṭalab muṣādafat al-ghirra fī al-musāyafa'*" — matches the Qurtubī source verbatim: «يلقوكم ويصادفوكم... المثاقفة; أي طلب مصادفة الغرة في المسايفة وشبهها». Both the definition and the swordplay etymology are reproduced accurately.
+
+**Baghawī/Jalālayn attribution** — "'yaẓfarū bikum'" attributed to both — confirmed in both sources exactly: Baghawī «يظفروا بكم»; Jalālayn «يظفروا بكم».
+
+**Root w-d-d claim** — The claim that وَوَدُّوا (60:2) shares the root و-د-د with مودة (60:1) is linguistically correct. The reflection frames this as an observation building to a payoff rather than a bare assertion, which is appropriate.
+
+**Form I verb claim** — يَثْقَفُوكُمْ, يَكُونُوا, يَبْسُطُوا, وَوَدُّوا are all correctly identified as Form I.
+
+**Sabab al-nuzūl** — The companion-and-letter backstory is the standard narration (Ḥāṭib ibn Abī Baltaʿa, documented in Bukhārī/Muslim). The reflection omits the name but characterizes the act correctly ("not out of disbelief, but out of lingering attachment") — this matches the classical ijtihad on Ḥāṭib's state.
+
+**One observation, not an error**: The conditional-as-present-confession argument ("the 'if' quietly confesses something about the present") is presented as the reflection author's rhetorical framing, not attributed to a classical source. That's handled correctly — it's a sound linguistic inference, not an overclaim.
+
+SUMMARY: Every verifiable attribution to Qurtubī, Baghawī, and Jalālayn checks out word-for-word against the provided sources; the morphological and root claims are accurate; no CRITICAL or MODERATE issues found.

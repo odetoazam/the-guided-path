@@ -1,0 +1,28 @@
+Enhanced Validation Report
+File: content/tadabbur/078-an-naba/ayahs-017-020.md
+Ayah: 78:17
+Date: 2026-06-18T12:46:26
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّ=Indeed, | يَوْمَ=(the) Day | ٱلْفَصْلِ=(of) the Judgment | كَانَ=is | مِيقَـٰتًا=an appointed time,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Al-Jalalayn glosses it plainly: *kāna* here means *waqtan* — it simply **is** a fixed time, established, settled." — Jalalayn's actual text glosses the full phrase **«كان ميقاتا»** as **«وقتا للثواب والعقاب»**. The word *waqtan* is Jalalayn's synonym for the *noun* **مِيقَٰتًا**, not a comment on the *verb* **كَانَ**. The reflection attributes the *waqtan* gloss to *kāna* specifically, which inverts Jalalayn's actual grammatical target. The tense-as-certainty argument is a legitimate Arabic rhetorical device (māḍī fī maʿnā al-mustaqbal), but the reflection overstates Jalalayn as its authority — Jalalayn is simply substituting a synonym for the noun.
+
+- [MODERATE] "Al-Baghawi and al-Qurtubi say the same: it is *waqtan wa mīʿādan*" — Al-Qurtubi lists **three** elements: **«وقتا ومجمعا وميعادا»** (a time, a gathering-place, and a promised meeting). The reflection silently drops *mujmaʿan*, understating Qurtubi's reading by one dimension.
+
+SUMMARY: The reflection's core theological and linguistic arguments are well-grounded, but it misattributes what Jalalayn is commenting on — the *waqtan* gloss belongs to the noun *mīqātā*, not the verb *kāna* — and renders Qurtubi's threefold gloss as twofold.

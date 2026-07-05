@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/051-adh-dhariyat/ayah-037.md
+Ayah: 51:37
+Date: 2026-06-09T03:41:27
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَتَرَكْنَا=And We left | فِيهَآ=therein | ءَايَةً=a Sign | لِّلَّذِينَ=for those who | يَخَافُونَ=fear | ٱلْعَذَابَ=the punishment | ٱلْأَلِيمَ=the painful.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical errors found. Root identification (ت-ر-ك for *taraknā*), verb form (Form I, perfect, 1st person plural), and grammatical analysis are all correct.
+- The *fīhā* = land of Lūt's people reading is confirmed by Al-Baghawi ("أي في مدينة قوم لوط") and Al-Jalalayn.
+- The trade route claim ("caravans going north toward Syria passed the ruins") is not in the provided tafsir sources, but the reflection correctly cites Quranic corroboration (37:137-138) rather than presenting it as tafsir consensus — within bounds for tadabbur contextual framing.
+- The phonological observation about *t* and *k* as "hard, abrupt consonants" is rhetorical/stylistic commentary, not a linguistic fact claim — not flaggable.
+- The reframe of *taraknā* as "preservation within destruction" aligns with Al-Baghawi's language ("علامة للخائفين تدلهم") and Al-Muyassar's ("أثرًا من العذاب باقيًا") — both emphasize a *remaining trace*, consistent with the reflection's argument.
+- The translation "And We left therein a Sign for those who fear the painful punishment" matches word-by-word exactly.
+
+SUMMARY: All linguistic, morphological, and tafsir-derived claims in the provided excerpt are accurate and grounded in the reference data; no errors detected.

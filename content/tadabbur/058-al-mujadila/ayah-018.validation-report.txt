@@ -1,0 +1,44 @@
+Enhanced Validation Report
+File: content/tadabbur/058-al-mujadila/ayah-018.md
+Ayah: 58:18
+Date: 2026-06-12T19:04:59
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَوْمَ=(On the) Day | يَبْعَثُهُمُ ٱللَّهُ=Allah will raise them | جَمِيعًا=all, | فَيَحْلِفُونَ=then they will swear | لَهُۥ=to Him | كَمَا=as | يَحْلِفُونَ=they swear | لَكُمْ‌ۖ=to you. | وَيَحْسَبُونَ=And they think | أَنَّهُمْ=that they | عَلَىٰ=(are) on | شَىْءٍ‌ۚ=something. | أَلَآ=No doubt! | إِنَّهُمْ=Indeed, they | هُمُ=[they] | ٱلْكَـٰذِبُونَ=(are) the liars.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- None detected.
+
+SUMMARY: All verifiable claims — root identifications, the al-Qurṭubī quotations, the kamā parallelism, and the muḍāriʿ grammar argument — check out precisely against the reference data; the interpretive extensions are clearly framed as reflection, not reported fact.
+
+---
+
+**Spot-checks performed:**
+
+**Al-Qurṭubī attribution (3 phrases quoted):**
+- *amrun ʿajīb* → matches "هذا أمر عجيب" ✓
+- *mughālaṭatuhum bil-yamīni ghadan* → matches "مغالطتهم باليمين غدا" ✓
+- *wa qad ṣārati-l-maʿārif ḍarūriyya* → matches "وقد صارت المعارف ضرورية" ✓
+All three are verbatim from the Qurṭubī source provided.
+
+**Root claim:** "The root here is **ḥ-l-f**" — confirmed by word-by-word (يَحْلِفُونَ = they swear, root ح-ل-ف).
+
+**Grammatical argument (muḍāriʿ as ongoing/reflexive):** Standard classical Arabic grammar; consistent with the observation that the same form يَحْلِفُونَ appears twice in the same ayah for both the eschatological scene and the worldly one — the parallelism is real and textually grounded.
+
+**Interpretive framing:** Claims like "the oath will simply come out of them" and "as if He were one more person to be talked around" are presented as reflection, not tafsir attribution. They are supported by the *mughālaṭa* framing in al-Qurṭubī and the "كالدنيا" parallel in al-Jalālayn (they think it will benefit them in the next life *as it did in this one*).
+
+**Nothing to flag.** The reflection is linguistically disciplined, the single direct-quote set from al-Qurṭubī is accurate, and the interpretive prose stays within what the texts warrant.

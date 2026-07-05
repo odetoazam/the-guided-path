@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/113-al-falaq/ayah-004.md
+Ayah: 113:4
+Date: 2026-06-20T21:19:17
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَمِن=And from | شَرِّ=(the) evil | ٱلنَّفَّـٰثَـٰتِ=(of) the blowers | فِى=in | ٱلْعُقَدِ=the knots,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "the great grammarians also noted that the feminine plural pattern naturally embraces al-anfus an-naffāthāt — the breathing souls themselves, every self that blows its whispered poison onto the resolve of another" — this broader metaphorical extension is presented as a documented grammarian position, but none of the four provided tafsir sources (Jalālayn, Muyassar, Qurtubī, Baghawī) mention it. All four treat نفاثات exclusively and without reservation as as-sawāḥir / as-sāḥirāt (sorceresses). The reflection softens this with "I offer that not to overturn the..." but the setup phrase "the great grammarians also noted" claims scholarly authority that cannot be verified from the provided data. This should either be attributed to a specific grammarian or reframed as the author's own spiritual extension.
+
+VERIFIED ACCURATE (explicit confirmation from provided sources):
+- as-sawāḥir reading attributed to all four classical commentators: confirmed (Jalālayn: "السواحر تنفث," Muyassar: "الساحرات اللاتي ينفخن," Qurtubī: "الساحرات اللائي ينفثن," Baghawī: "السواحر اللاتي ينفثن")
+- "al-Baghawī reporting on the authority of Abū ʿUbayda the tradition naming the daughters of Labīd ibn al-Aʿṣam": confirmed verbatim ("قال أبو عبيدة: هن بنات لبيد بن الأعصم")
+- Jalālayn connection to daughters of Labīd: confirmed ("بنات لبيد المذكور")
+- نفّاثات as faʿʿālah intensive (ṣīghat al-mubālagha): morphologically correct, doubled fāʾ on root n-f-th
+- Arabic text: matches authentic source exactly
+- Translation: accurate
+
+SUMMARY: One moderate issue — an interpretive extension (naffāthāt as "breathing souls" in a general spiritual sense) is attributed to "great grammarians" without a citable source; the established tafsir consensus is unanimous for the literal sorceress reading, and this secondary layer should be presented as the author's own reflection rather than grammarian documentation.

@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/046-al-ahqaf/ayah-002.md
+Ayah: 46:2
+Date: 2026-06-08T08:33:44
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: تَنزِيلُ=(The) revelation | ٱلْكِتَـٰبِ=(of) the Book | مِنَ=(is) from | ٱللَّهِ=Allah | ٱلْعَزِيزِ=the All-Mighty, | ٱلْحَكِيمِ=the All-Wise
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR/NOTE] "There is **inzāl** — Form IV — which describes a sending-down as a single act, a one-time delivery. The whole thing, at once." — Pedagogically simplified, but not an error. The classical framework (Ibn Abbas via al-Bayhaqi and others, reflected in tafsirs of 97:1 and 17:106) does draw exactly this line: *inzāl* for the one-night descent to Bayt al-ʿIzza, *tanzīl* for the 23-year graduated delivery to the Prophet. The reflection is working within that framework, not inventing it.
+
+- [CONFIRMED ACCURATE] "Al-Rāghib al-Iṣfahānī, in his *Mufradāt*, draws exactly this distinction — that *tanzīl* is used for the descent that comes in parts and across intervals, while *inzāl* is the more general, collective sending." — Cannot verify the exact Mufradāt phrasing from the supplied reference data, but this characterization is the standard secondary citation of al-Rāghib's entry on **ن-ز-ل** and is consistent with the classical record. No inversion or fabrication.
+
+- [CONFIRMED ACCURATE] Nominal-sentence parse: *tanzīl* as mubtadaʾ, *min Allāh* as khabar — matches al-Jalālayn verbatim: «تنزيل الكتاب» مبتدأ «من الله» خبره.
+
+- [CONFIRMED ACCURATE] *al-ʿAzīz* glossed as unvanquishable/all-mighty — matches al-Muyassar (الذي لا يغالَب) and al-Qurṭubī (المنيع). *al-Ḥakīm* glossed as wise in His planning and crafting — matches al-Jalālayn (في صنعه) and al-Muyassar (في تدبيره وصنعه).
+
+- [CONFIRMED ACCURATE] "The last of the seven Ḥā-Mīm surahs" — Al-Ahqaf (46) is the final surah of the Ḥawāmīm group (40–46). Correct.
+
+- [CONFIRMED ACCURATE] Arabic text in frontmatter and body matches the supplied authentic Arabic. Form II masdar تَنزِيل correctly identified.
+
+SUMMARY: Every verifiable linguistic claim, tafsir reading, and scholar attribution in the visible text is accurate and well-grounded; no critical or moderate errors detected.

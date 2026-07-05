@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/033-al-ahzab/ayah-063.md
+Ayah: 33:63
+Date: 2026-05-15T04:54:57
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَسْــَٔلُكَ=Ask you | ٱلنَّاسُ=the people | عَنِ=about | ٱلسَّاعَةِۖ=the Hour. | قُلْ=Say, | إِنَّمَا=`Only | عِلْمُهَا=its knowledge | عِندَ=(is) with | ٱللَّهِۚ=Allah. | وَمَا=And what | يُدْرِيكَ=will make you know? | لَعَلَّ=Perhaps | ٱلسَّاعَةَ=the Hour | تَكُونُ=is | قَرِيبًا=near.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "the classical commentators including al-Qurtubi and al-Baghawi point this out — is that the question about the Hour was so widespread, so endemic, that it had become a shared posture... the disease has spread beyond the diseased" — The provided al-Qurtubi excerpt moves in the *opposite* direction: "هؤلاء المؤذون لرسول الله صلى الله عليه وسلم لما توعدوا بالعذاب سألوا عن الساعة" — he specifically identifies the askers as *those harassers* (the preceding group), narrowing rather than broadening. Al-Baghawi's excerpt does not comment on why the general term *an-nās* was chosen. The "spread beyond the diseased" reading is a valid interpretive possibility but is presented as something these scholars "point out" — which the provided evidence does not support.
+
+Everything else checks out against the provided reference data:
+
+- Arabic text matches the authentic Arabic exactly ✓
+- Translation is accurate to the word-by-word reference ✓
+- *Muḍāriʿ* analysis of *yas'aluka* (ongoing/repeated action vs. completed *māḍī*) is linguistically sound ✓
+- *Innamā* as *adāt al-ḥaṣr* (particle of restriction) is standard Arabic grammar, correctly stated ✓
+- Contextual framing of the question as *istiʿbādan wa-takdhīban* (dismissal and mockery) aligns with al-Muyassar and al-Qurtubi ✓
+- *ʿilmuhā ʿinda Llāh* formulation is accurate ✓
+
+SUMMARY: One MODERATE attribution error — the "widespread disease" reading of *an-nās* is presented as al-Qurtubi and al-Baghawi's position, but the provided al-Qurtubi text actually restricts the askers to the specific harassers mentioned in preceding verses; downgrade the attribution to "one reading" or "a possible reading" without naming those scholars.

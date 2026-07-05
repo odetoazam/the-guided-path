@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayah-069.md
+Ayah: 3:69
+Date: 2026-06-22T08:27:11
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَدَّت=Wished | طَّآئِفَةٌ=a group | مِّنْ=from | أَهْلِ=(the) People | ٱلْكِتَـٰبِ=(of) the Book | لَوْ=if | يُضِلُّونَكُمْ=they could lead you astray, | وَمَا=and not | يُضِلُّونَ=they lead astray | إِلَّآ=except | أَنفُسَهُمْ=themselves | وَمَا=and not | يَشْعُرُونَ=they perceive.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR NOTE] "They are *circulating*. Going around. Approaching this Companion, then that one." — The ṭ-w-f root etymology is real, but the tafsirs (al-Qurṭubī, al-Baghawī) describe a single invitation event, not repeated circulation among companions. The image is a homiletical extension of the root; it isn't falsified by the sources, but the reflection presents it with some confidence as if describing what actually happened.
+
+All other claims verified clean:
+
+- **asbab al-nuzūl** (Muʿādh, Ḥudhayfa, ʿAmmār): exactly matches al-Qurṭubī ("نزلت في معاذ بن جبل وحذيفة بن اليمان وعمار بن ياسر") and al-Baghawī (verbatim same names). ✓
+- **w-d-d as root of love/mawadda/al-Wadūd**: lexically correct; 30:21 citation is accurate. ✓
+- **waddat = perfect tense, feminine agreeing with ṭā'ifa**: grammatically correct. ✓
+- **yuḍillūna = Ḍ-l-l Form IV causative, imperfect plural**: correct. ✓
+- **"they lead astray none but themselves"**: direct translation of وَمَا يُضِلُّونَ إِلَّآ أَنفُسَهُمْ, supported by Jalalayn ("لأن إثم إضلالهم عليهم"). ✓
+- **يَشْعُرُونَ = "they do not perceive it"**: matches word-by-word. ✓
+
+SUMMARY: The reflection is linguistically rigorous and the asbab al-nuzūl are correctly sourced; the only caveat is a minor homiletical over-read of ṭā'ifa's etymology that the sources don't contradict but don't specifically support.

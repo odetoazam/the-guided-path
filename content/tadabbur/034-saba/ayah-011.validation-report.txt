@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/034-saba/ayah-011.md
+Ayah: 34:11
+Date: 2026-05-18T02:03:48
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَنِ=That | ٱعْمَلْ=make | سَـٰبِغَـٰتٍ=full coats of mail | وَقَدِّرْ=and measure precisely | فِى=[of] | ٱلسَّرْدِۖ=the links (of armor), | وَٱعْمَلُواْ=and work | صَـٰلِحًاۖ=righteousness. | إِنِّى=Indeed, I Am | بِمَا=of what | تَعْمَلُونَ=you do | بَصِيرٌ=All-Seer.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+**VERDICT: MODERATE**
+
+**ISSUES:**
+
+- [MODERATE] *"Dāwūd is being asked to image, in iron, what Allah does in mercy. That is what sābighāt means here. Not just armor. Armor that mirrors the way mercy covers."* — The root s-b-gh connection to 31:20 is linguistically legitimate, and noting the echo is valid reflection. But the phrase "That is what sābighāt means here" presents this theological parallel as the word's definition. None of the referenced sources (Jalalayn: *durūʿ kawāmil*; Baghawī: *durūʿ kawāmil wāsiʿāt ṭiwāl tashub fī-l-arḍ*; Qurṭubī: *kāmilat tāmmāt wāsiʿāt*; Muyassar: *tāmmāt wāsiʿāt*) invoke this mercy-mirroring inference. The connection should be framed as a tadabbur observation ("the word echoes...") rather than as the settled meaning of the term.
+
+**Everything else holds:**
+- Qatāda's ṣafāʾiḥ attribution via al-Qurṭubī: confirmed verbatim (*كانت الدروع قبله صفائح فكانت ثقالاً*)
+- Form II identification of *qaddir*: correct
+- Al-Baghawī on *al-sard* as rivet/nail (*al-masāmīr fī ḥilaq al-dirʿ*) and craftsman as *sarrād/zarrād*: confirmed
+- Singular-to-plural shift in the ayah: grammatically accurate; Jalalayn confirms the plural refers to Āl Dāwūd (*آل داود معه*)
+- *dirʿ* absent from the ayah text: correct — the commentators supply it as gloss, it is not in the wording
+
+**SUMMARY:** One MODERATE issue — a valid root-echo insight is elevated to a definitional claim that the classical sources do not support; frame it as reflection, not lexical meaning.

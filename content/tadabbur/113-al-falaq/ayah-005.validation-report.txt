@@ -1,0 +1,45 @@
+Enhanced Validation Report
+File: content/tadabbur/113-al-falaq/ayah-005.md
+Ayah: 113:5
+Date: 2026-06-20T21:34:26
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَمِن=And from | شَرِّ=(the) evil | حَاسِدٍ=(of) an envier | إِذَا=when | حَسَدَ=he envies.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate issues found against the provided reference data.
+
+Supporting checks:
+
+**Arabic & morphology**
+- Arabic text matches the authenticated source exactly.
+- حَاسِدٍ correctly identified as indefinite (no al- prefix, tanwīn present). The contrast with the definite النَّفَّاثَاتِ in 113:4 is factually accurate.
+- حَاسِد correctly parsed as active participle (ism fāʿil) from root ḥ-s-d. حَسَدَ correctly called a perfect-tense verb. Both match the Leeds Corpus morphology annotation referenced in the frontmatter.
+- Root glosses ($rr for sharr, Hsd for hasad) are accurate per standard lexicons.
+
+**Grammar claim (idhā vs. in)**
+- The distinction between إِذَا (near-certain temporal "when") and إِنْ (conditional doubt "if") is a well-established classical Arabic grammatical distinction. The reflection's framing is accurate and does not overstate.
+
+**Structural claims about Al-Falaq**
+- "Final verse of Surah Al-Falaq, the second-to-last surah of the Quran" — correct (113 of 114).
+- The descending specificity structure (all creation → darkness → sorcerers → the envier) accurately reflects the surah's sequence.
+
+**Tafsir alignment**
+- The reflection makes no specific scholar attributions that can be inverted or overstated. Its linguistic observations (indefiniteness as danger, idhā as actualization threshold) are consistent with what Jalalayn emphasizes ("when he made his envy manifest and acted on it") and with Muyassar's framing of hasad as active harm against a blessing-holder — not contradicted by any provided source.
+- No claims are presented as "documented fact" that are actually contested or interpretively extended beyond warrant.
+
+SUMMARY: The reflection is linguistically precise and tafsir-consistent throughout the validated portion; no errors found against the provided reference data.

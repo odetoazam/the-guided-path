@@ -1,0 +1,42 @@
+Enhanced Validation Report
+File: content/tadabbur/054-al-qamar/ayah-006.md
+Ayah: 54:6
+Date: 2026-06-09T23:35:55
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَتَوَلَّ=So turn away | عَنْهُمْ‌ۘ=from them. | يَوْمَ=(The) Day, | يَدْعُ=will call | ٱلدَّاعِ=the caller | إِلَىٰ=to | شَىْءٍ=a thing | نُّكُرٍ=terrible,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No genuine errors found in the portion reviewed.
+
+Supporting observations on accuracy:
+
+**Form V morphology (فَتَوَلَّ):** The reflection correctly identifies the root as و-ل-ي (wly) and the form as Form V imperative. The description of Form V as carrying a reflexive/"turned back onto the doer" sense is a defensible pedagogical simplification. Confirmed against the Leeds Quranic Arabic Corpus note in the frontmatter.
+
+**Al-Qurtubi on naskh:** "Al-Qurtubi reports that some early authorities read this command as later superseded by the verses of fighting." Reference confirms: *قيل: هذا منسوخ بآية السيف*. Accurately represented.
+
+**Al-Baghawi on naskh:** "Al-Baghawi records the same position." Reference confirms: *نسختها آية القتال*. Accurately represented.
+
+**Al-Jalalayn as "completion of previous sentence":** "Al-Jalalayn takes this second view: the turning away is simply the natural consequence of ayah 5." Reference confirms: *هو فائدة ما قبله وتم به الكلام*. Accurately represented.
+
+**نُكُر as "beyond recognition":** Translating نُكُر as "a thing beyond recognition" is interpretively defensible. Al-Baghawi's *لم يروا مثله فينكرونه استعظاما* ("they have not seen its like, so they deny/reject it out of awe") directly supports the unrecognizability framing. Not a distortion.
+
+**"The Caller is never named" in the ayah:** Accurate — the ayah text uses the definite noun without naming; classical tafsir names Israfil (Jalalayn, Baghawi/Mujahid), but the reflection is making a textual observation, not a tafsir claim. No error.
+
+**Interpretive extensions flagged as such:** The reflection explicitly marks its own application-level extensions ("here I'm extending, so hear it as invitation"), which is proper scholarly honesty and not a validation concern.
+
+SUMMARY: All linguistic claims, morphological identifications, and tafsir attributions in this portion are accurate and properly sourced against the reference data provided.

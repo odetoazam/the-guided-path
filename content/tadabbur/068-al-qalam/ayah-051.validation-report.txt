@@ -1,0 +1,40 @@
+Enhanced Validation Report
+File: content/tadabbur/068-al-qalam/ayah-051.md
+Ayah: 68:51
+Date: 2026-06-13T15:15:11
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَإِن=And indeed, | يَكَادُ=would almost | ٱلَّذِينَ=those who | كَفَرُواْ=disbelieve, | لَيُزْلِقُونَكَ=surely make you slip | بِأَبْصَـٰرِهِمْ=with their eyes | لَمَّا=when | سَمِعُواْ=they hear | ٱلذِّكْرَ=the Message, | وَيَقُولُونَ=and they say, | إِنَّهُۥ=`Indeed, he | لَمَجْنُونٌ=(is) surely mad.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate errors found in the excerpt provided.
+
+Supporting checks against reference data:
+
+1. **Arabic text**: Frontmatter and body rendering match the authentic text. The sole difference — لَمَجْنُونٌ vs authentic لَمَجْنُونٌۭ — is an Uthmanic script diacritic rendering variant, not a textual error.
+
+2. **Translation**: "would almost make you slip with their eyes when they hear the Reminder, and they say: 'Indeed, he is mad'" matches the word-by-word reference exactly (yakādu = "would almost," yuzliqūnaka = "make you slip," bi-abṣārihim = "with their eyes").
+
+3. **Evil eye (al-ayn) interpretation**: "these people who reject you — they would almost make you slip. With their eyes." is confirmed by all four classical sources. Al-Jalālayn: *ينظرون إليك نظرا شديدا يكاد أن يصرعك*; Al-Muyassar: *ليصيبونك بالعين*; Al-Qurṭubī: *يعتانونك*; Al-Baghawī: *أرادوا أن يصيبوا رسول الله بالعين*.
+
+4. **Ring composition (68:2 → 68:51)**: The claim that the surah opens with *majnūn* denied (68:2) and closes with it repeated (68:51) is a legitimate and widely noted structural observation, not overreach.
+
+5. **af'āl al-muqāraba**: Describing kāda as the chief of "the verbs of nearness/approach" whose function is to describe an action "on the verge" is standard Arabic grammar, accurately stated.
+
+6. **Revelation context**: "By many accounts the second surah to come down" is correctly hedged — there is genuine scholarly disagreement about early revelation order.
+
+SUMMARY: Every factual claim in this excerpt is either confirmed by the supplied tafsir and word-by-word data, or is appropriately hedged where scholarly disagreement exists — no errors to flag.

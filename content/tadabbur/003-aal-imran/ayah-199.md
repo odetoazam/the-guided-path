@@ -6,16 +6,17 @@ ayah_end: 199
 title: "Not All Who Inherited Scripture Betrayed It"
 slug: "003-199"
 category: tadabbur
-arabic: "وَإِنَّ مِنْ أَهْلِ ٱلْكِتَـٰبِ لَمَن يُؤْمِنُ بِٱللَّهِ وَمَآ أُنزِلَ إِلَيْكُمْ وَمَآ أُنزِلَ إِلَيْهِمْ خَـٰشِعِينَ لِلَّهِ لَا يَشْتَرُونَ بِـَٔايَـٰتِ ٱللَّهِ ثَمَنًا قَلِيلًا ۗ أُو۟لَـٰٓئِكَ لَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ ۗ إِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ"
+arabic: "وَإِنَّ مِنْ أَهْلِ ٱلْكِتَـٰبِ لَمَن يُؤْمِنُ بِٱللَّهِ وَمَآ أُنزِلَ إِلَيْكُمْ وَمَآ أُنزِلَ إِلَيْهِمْ خَـٰشِعِينَ لِلَّهِ لَا يَشْتَرُونَ بِـَٔايَـٰتِ ٱللَّهِ ثَمَنًا قَلِيلًا ۗ أُو۟لَـٰٓئِكَ لَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ ۗ إِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ"
 translation: "And indeed among the People of the Book are those who believe in Allah and in what was revealed to you and what was revealed to them, humbling themselves before Allah. They do not trade Allah's signs for a small price. Those will have their reward with their Lord. Indeed, Allah is swift in reckoning."
 word_count: null
 estimated_duration: "45-55 minutes"
-passage_context: "After repeatedly exposing distortions, concealment, vanity, and betrayal among some People of the Book, Surah Aal-Imran closes with moral precision: there are also those among them who believe humbly, honor revelation rather than selling it cheaply, and are promised reward with their Lord."
+passage_context: "After repeatedly exposing distortions, concealment, vanity, and betrayal among some People of the Book, Surah Aal-Imran turns, in its penultimate ayah, to moral precision: there are also those among them who believe humbly, honor revelation rather than selling it cheaply, and are promised reward with their Lord."
 generated_by: "codex-tadabbur"
 validated: true
 validation_date: "2026-04-18"
+semantic_review: "enriched-2026-07-02"
 tags: [ahl-al-kitab, iman, khushu, sidq]
-concepts: [ahl-al-kitab, iman, hidayah, quran, khashyah]
+concepts: [ahl-al-kitab, iman, hidayah, quran, khushu]
 ---
 
 <!-- morphology:3:199:4 root=أهل pos=N -->
@@ -38,7 +39,7 @@ concepts: [ahl-al-kitab, iman, hidayah, quran, khashyah]
 
 ## Surah Aal-Imran (3:199)
 
-[ayah:3:199] وَإِنَّ مِنْ أَهْلِ ٱلْكِتَـٰبِ لَمَن يُؤْمِنُ بِٱللَّهِ وَمَآ أُنزِلَ إِلَيْكُمْ وَمَآ أُنزِلَ إِلَيْهِمْ خَـٰشِعِينَ لِلَّهِ لَا يَشْتَرُونَ بِـَٔايَـٰتِ ٱللَّهِ ثَمَنًا قَلِيلًا ۗ أُو۟لَـٰٓئِكَ لَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ ۗ إِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ
+[ayah:3:199] وَإِنَّ مِنْ أَهْلِ ٱلْكِتَـٰبِ لَمَن يُؤْمِنُ بِٱللَّهِ وَمَآ أُنزِلَ إِلَيْكُمْ وَمَآ أُنزِلَ إِلَيْهِمْ خَـٰشِعِينَ لِلَّهِ لَا يَشْتَرُونَ بِـَٔايَـٰتِ ٱللَّهِ ثَمَنًا قَلِيلًا ۗ أُو۟لَـٰٓئِكَ لَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ ۗ إِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ
 
 *Wa inna min ahli al-kitabi la-man yu'minu bi-Allahi wa ma unzila ilaykum wa ma unzila ilayhim khashi'ina li-Llah la yashtaruna bi-ayati Allahi thamanan qalilan. Ula'ika lahum ajruhum 'inda rabbihim. Inna Allaha sari'u al-hisab.*
 
@@ -55,6 +56,8 @@ But the Quran refuses flattening.
 That refusal matters. Because truth is not only precision in doctrine. It is also precision in moral sight. If some among a people betrayed revelation, that does not entitle us to pretend none among them were sincere. If some sold Allah's signs for a small price, that does not erase those who trembled before those same signs and believed.
 
 This ayah arrives as a mercy of moral accuracy.
+
+The classical commentators, in fact, disagreed about *whom* precisely the verse first named. Al-Tabari opens his commentary by flagging the dispute outright - the exegetes differed over who was intended - and then records the prominent report that it was revealed about Aṣḥamah the Negus (al-Najashi), the Abyssinian king who had sheltered the early Muslims. When word of his death reached Madinah, the Prophet ﷺ announced it and led the community in a funeral prayer for a man who had died among a people not his own in faith, and this verse is reported to have descended in that setting. Others read it more broadly as a description of the sincere among the People of the Book - believers like those who had recognized the truth without selling it. It is worth knowing the tradition holds both: a concrete face and a wider horizon. Whether one hears the Negus behind the words or a whole class of humble believers, the moral geometry is the same.
 
 The hook of the verse is this: **the Quran does not let injury turn into caricature; it keeps enough justice in the heart to still recognize the sincere even among communities earlier verses had criticized.**
 
@@ -96,7 +99,7 @@ Then the ayah gives the inner quality: **khashi'ina li-Llah**.
 
 Humbled before Allah.
 
-The root **kh-sh-'** carries the sense of loweredness, softness, reverent humility, the inward settling that comes when the self is subdued before truth. This is crucial. Their distinguishing mark is not mere information. It is posture.
+The root **kh-sh-'** carries the sense of loweredness, softness, reverent humility, the inward settling that comes when the self is subdued before truth. This is crucial. Their distinguishing mark is not mere information. It is posture. (It is worth not confusing this with its near-neighbor *khashyah*, from **kh-sh-y**, which names fear and awe; *khushu'* here is the bodily and inward lowering of one already surrendered, not the trembling of dread.) Al-Muyassar glosses the word as being *mutadhallilin lillah, khadi'in lahu* - abasing themselves before Allah, yielding to Him - which is exactly this settledness of a self that has stopped resisting.
 
 [PAUSE]
 
@@ -118,7 +121,9 @@ This is brilliant.
 
 The sincere are not described only by what they affirm, but by what they refuse to monetize. They do not convert divine signs into social capital, institutional comfort, worldly safety, or profitable ambiguity.
 
-That means the issue is never merely formal theology. It is moral economy. What are you willing to sell? What will you keep unsold even if the whole world offers terms?
+Here the classical commentary sharpens the point in a way easy to miss. Ibn Kathir ties this refusal directly to *concealment*: the sincere among the People of the Book "do not hide what they know of the glad tidings about the description" of the Prophet ﷺ found in their own scriptures. Al-Muyassar reads it the same way - they neither conceal what Allah revealed nor distort it, *unlike others* among their people who did. So the "small price" is not an abstract bribe. Its most concrete form, in the setting of these verses, was the temptation to bury a truth one already recognized: to keep the prophecy of Muhammad ﷺ quiet in order to protect one's standing. Selling Allah's signs cheaply, at its root, is often just this - the suppression of a truth you carry, because carrying it openly would cost you.
+
+That means the issue is never merely formal theology. It is moral economy. What are you willing to sell? What will you keep unsold even if the whole world offers terms? What do you know that you have gone quiet about?
 
 The believers named here passed that test.
 
@@ -128,7 +133,7 @@ Then comes the promise: **ula'ika lahum ajruhum 'inda rabbihim**.
 
 Those - they will have their reward with their Lord.
 
-The word **ajr** is recompense, due reward, what returns to a person for truthful labor. And **'inda rabbihim** gives it nearness. With their Lord. Not in some impersonal vault of moral accounting, but with the Lord before whom they humbled themselves.
+The word **ajr** is recompense, due reward, what returns to a person for truthful labor. And **'inda rabbihim** gives it nearness. With their Lord. Not in some impersonal vault of moral accounting, but with the Lord before whom they humbled themselves. Al-Muyassar fills in the texture of the promise: a *great* reward, given on the day they meet Him, paid to them *in full and undiminished*. Nothing is skimmed on the way. The one who refused to trade truth for a small price is met, in turn, with a reward that is not shaved down.
 
 [PAUSE]
 
@@ -136,7 +141,7 @@ Then the verse closes: **inna Allaha sari'u al-hisab**.
 
 Allah is swift in reckoning.
 
-This is not a threat only. Here it is also reassurance. The sincere need not fear being buried under the noise of history. Allah's reckoning is quick, exact, and not delayed by human confusion.
+This is not a threat only. Here it is also reassurance. The sincere need not fear being buried under the noise of history. Allah's reckoning is quick, exact, and not delayed by human confusion. Al-Muyassar draws out the note of power in it: nothing overwhelms Him in tallying their deeds - the sheer volume of human lives does not slow or exhaust the account. What history loses track of, He does not.
 
 ## Part 2: The Thematic Depths
 

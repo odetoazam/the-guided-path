@@ -1,0 +1,28 @@
+Enhanced Validation Report
+File: content/tadabbur/043-az-zukhruf/ayah-073.md
+Ayah: 43:73
+Date: 2026-06-25T09:26:38
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: لَكُمْ=For you | فِيهَا=therein | فَـٰكِهَةٌ=(are) fruits | كَثِيرَةٌ=abundant, | مِّنْهَا=from it | تَأْكُلُونَ=you will eat.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Now here is what al-Qurtubi records in his tafsir, drawing on a report attributed to Ibn Abbas: 'For them in paradise — beyond food and drink — is abundant fākiha from which they eat.'" — The quotation conflates two distinct layers in al-Qurtubi's text. Ibn Abbas's actual athar reads: «هي الثمار كلها، رطبها ويابسها» — "it is all fruits, their fresh and their dry." The "siwā al-ṭaʿām wal-sharāb" (beyond food and drink) framing is al-Qurtubi's own explanatory gloss, introduced by «أي» (meaning/i.e.), not a continuation of Ibn Abbas's statement. The reflection presents that gloss as though it derives directly from Ibn Abbas, which overstates what the athar itself says. The underlying theological point (fākiha as surplus beyond sustenance) is accurate to al-Qurtubi's reading — the error is attribution, not substance.
+
+No CRITICAL issues found. Arabic text matches authentic reference exactly. Taqdīm wa taʾkhīr analysis of لَكُمْ fronting is grammatically sound. The fākiha/taʿām/ghidhāʾ register distinction is lexically attested. Imperfect-tense continuity claim for تَأْكُلُونَ is legitimate. Surah-level thematic frame (zukhruf contrast) is accurate to the sūrah's argument.
+
+SUMMARY: One moderate attribution slip — the "siwā al-ṭaʿām wal-sharāb" framing is al-Qurtubi's exegetical gloss, not Ibn Abbas's athar; the reflection should attribute that clause to al-Qurtubi's interpretation of Ibn Abbas, not to Ibn Abbas directly.

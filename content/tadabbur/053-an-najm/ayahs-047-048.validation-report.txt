@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/053-an-najm/ayahs-047-048.md
+Ayah: 53:47
+Date: 2026-06-09T19:03:38
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَأَنَّ=And that | عَلَيْهِ=upon Him | ٱلنَّشْأَةَ=(is) bringing forth | ٱلْأُخْرَىٰ=another,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "He offered them a garden... The word He chose does not mean I will collect your scattered pieces and glue them. It means I will make you grow again" — The seed-and-garden framing is presented as the definitive, authoritative meaning of النَّشْأَة, but none of the four provided tafsir sources frame the word this way. Jalālayn gives "الخلقة الأخرى للبعث," Baghawī gives "الخلق الثاني للبعث يوم القيامة," Muyassar gives "إعادة خلقهم بعد مماتهم," Qurṭubī gives "إعادة الأرواح في الأشباح للبعث." All four use خلق/إعادة (creation/return) language, not botanical emergence. The root n-sh-ʾ does carry meanings of arising and organic development (nāshiʾ, nāshiʾat al-layl are valid), but the reflection elevates one lexical metaphor to a thesis the provided tafsir stack does not endorse. The frontmatter flags this is claimed via Lisān al-ʿArab and Mufradāt — sources not in the provided reference data, so the botanical interpretation cannot be verified from what is given.
+
+- [MODERATE] "He places this second growing... as something that rests upon Him. A weight on His own side of the ledger" — The divine-obligation reading of عَلَيْهِ is linguistically defensible and partially supported (Muyassar explicitly says "على ربك… إعادة خلقهم," Qurṭubī says "وعده صدق"), so this is not wrong. However, the phrase "a weight on His own side of the ledger" frames عليه as a kind of divine debt or accounting obligation — an extension beyond what any of the four provided sources say. Flag as interpretive extension, not error.
+
+ISSUES (no-flag, confirmed accurate):
+- Root identification n-sh-ʾ for النَّشْأَة: correct.
+- Arabic text matches the authentic text exactly.
+- Cross-references to 56:62 (nashʾata-l-ūlā) and 29:20 (yunshiʾu-n-nashʾata-l-ākhirah): linguistically accurate Quranic citations.
+- nāshiʾat al-layl (73:6) and nāshiʾ as youth: both attested Quranic/lexical uses.
+- الْأُخْرَىٰ as "second/other" bringing-forth: confirmed by all four tafsirs.
+
+SUMMARY: No critical errors; the reflection's core vulnerability is presenting the botanical seed-and-garden metaphor as the established meaning of النَّشْأَة when the entire four-tafsir stack provided uses creation/recreation language exclusively — the interpretive extension is creative but overstated as definitional.

@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/037-as-saffat/ayahs-069-074.md
+Ayah: 37:69
+Date: 2026-06-05T09:17:58
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّهُمْ=Indeed, they | أَلْفَوْاْ=found | ءَابَآءَهُمْ=their fathers | ضَآلِّينَ=astray.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "Arabic has words that sit on both sides of that line. There is a word for finding-after-seeking. And there is a word for coming-upon-what-is-already-there." — Presented as a categorical lexical fact, but the provided reference data supports only that Qurṭubī glosses *alfaw* with *ṣādafūhum* (they came upon them). The broader claim that Arabic systematically divides "finding" into two lexical categories is an interpretive extension beyond what the supplied tafsir data confirms. It may be defensible via al-Rāghib's *Mufradāt* (cited in the morphology note) but that source is not in the reference data provided — so this claim cannot be verified from what was supplied.
+
+All three tafsir citations check out exactly:
+- Al-Jalālayn (*wajadū*) — correctly rendered, source confirms.
+- Al-Baghawī (*wajadū*) — correctly rendered, source confirms.
+- Al-Qurṭubī (*ṣādafūhum kadhālik fa-qtadaw bihim*) — Arabic quoted accurately, English gloss ("they came upon them in that state, and so they imitated them") is a faithful translation.
+
+Root identification (*lām-fāʾ-wāw*), Form IV classification, and Arabic text are all accurate. The "two passives" thesis (*yuhraʿūn* / *mukhlaṣīn*) is linguistically sound and uncontested by the reference data.
+
+SUMMARY: All tafsir citations are precise and fairly rendered; the one weak point is a lexical claim about *alfaw* stated with more categorical certainty than the supplied reference data can support, though it is directionally consistent with Qurṭubī's *ṣādafū*.

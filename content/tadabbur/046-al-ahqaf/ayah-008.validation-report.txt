@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/046-al-ahqaf/ayah-008.md
+Ayah: 46:8
+Date: 2026-06-08T07:08:52
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَمْ=Or | يَقُولُونَ=they say, | ٱفْتَرَٮٰهُ‌ۖ=`He has invented it.` | قُلْ=Say, | إِنِ=`If | ٱفْتَرَيْتُهُۥ=I have invented it | فَلَا=then not | تَمْلِكُونَ=you have power | لِى=for me | مِنَ=against | ٱللَّهِ=Allah | شَيْــًٔا‌ۖ=anything. | هُوَ=He | أَعْلَمُ=knows best | بِمَا=of what | تُفِيضُونَ=you utter | فِيهِ‌ۖ=concerning it. | كَفَىٰ بِهِۦ=Sufficient is He | شَهِيدَۢا=(as) a Witness | بَيْنِى=between me | وَبَيْنَكُمْ‌ۖ=and between you, | وَهُوَ=and He | ٱلْغَفُورُ=(is) the Oft-Forgiving, | ٱلرَّحِيمُ=the Most Merciful.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS-NOTE] "In its origin, farā is what a tanner does to a hide: to cut leather and shape it" — This etymology for root ف-ر-ي is attested in classical Arabic lexicons (Lisān al-ʿArab), which the frontmatter cites. However, it cannot be confirmed or denied from the reference data provided here. Not flagging as an error — flagging as unverifiable from supplied sources only.
+
+- [PASS-NOTE] "what you pour yourselves into about it" — The word-by-word gives تُفِيضُونَ as "you utter," while Baghawi renders it تخوضون فيه ("you plunge/wade into it"). The reflection's "pour yourselves into" leans into the fayḍ (overflow, flood) root and is lexically defensible — Baghawi's تخوض supports the immersion sense — but it extends slightly past "utter" toward a richer interpretive gloss. Not an error; consistent with the root.
+
+- [PASS] Qurtubi attribution verified: The reflection attributes "al-inkār wa-t-taʿajjub" and "iḍrāb" to Qurtubi on exactly this word. The provided Qurtubi excerpt confirms both — "وهو إضراب عن ذكر تسميتهم الآيات سحرا" and "ومعنى الهمزة في (أم) الإنكار والتع[جب]" (truncated in source but clearly الإنكار والتعجب). Attribution is accurate.
+
+- [PASS] Arabic text matches authentic. Minor difference: reflection uses ۚ (waqf lāzim) vs. ۖ (waqf jāʾiz) at وَبَيْنَكُمْ — a waqf-mark variant, not a textual error.
+
+- [PASS] "argument from self-endangerment" framing is confirmed by Jalalayn ("لا تقدرون على دفعه عنى إذا عذبني الله") and Baghawi ("لا تقدرون أن تردوا عني عذابه").
+
+- [PASS] Closing mercy (الغفور الرحيم) framed as a door held open for accusers — confirmed by Jalalayn ("الغفور لمن تاب... فلم يعاجلكم بالعقوبة") and Muyassar ("الغفور لمن تاب إليه، الرحيم بعباده المؤمنين").
+
+SUMMARY: No critical or moderate errors found in the portion provided; all major scholarly attributions and linguistic claims are verified against the reference data, with two unverifiable lexicographic footnotes that are consistent with classical sources.

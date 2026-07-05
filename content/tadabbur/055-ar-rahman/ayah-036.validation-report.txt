@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/055-ar-rahman/ayah-036.md
+Ayah: 55:36
+Date: 2026-06-12T07:47:48
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَبِأَىِّ=So which | ءَالَآءِ=(of the) favors | رَبِّكُمَا=(of) your Lord | تُكَذِّبَانِ=will you both deny?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE] "The lexicographers — Ar-Rāghib in his *Mufradāt*, and the tradition of *Lisān al-ʿArab* — build *Rabb* around the idea of gradual nurturing to completion" — accurate as a lexicographic claim; cannot verify against the reference data provided (no lexicographic source was included), but this is a well-attested position in both works. Not a flag, just a documentation gap in the reference package.
+- [NOTE] "molten brass" for *nuḥās* — classical commentators split between "molten copper/brass" and "smoke"; both are attested readings. The reflection's choice is defensible and not an error, but the word carries a debated meaning.
+
+All verifiable claims check out against the reference data:
+
+- Al-Qurtubi attribution is exact: *qawl al-jumhūr* that the dual addresses jinn and mankind — the Arabic tafsir confirms هذا قول الجمهور.
+- The citation of 55:31 (*sa-nafrughu lakum ayyuhā al-thaqalān*) as al-Qurtubi's grounding argument is accurate — the text explicitly mentions it (سنفرغ لكم أيها الثقلان).
+- Arabic dual grammar on *Rabbikumā* and *tukadhdhibān* is correctly explained and applied.
+- Root identifications (r-b-b, k-dh-b, form II verb) are correct.
+- The 31-occurrence count for the refrain is the standard documented figure.
+- The frame of "warning as favor" is interpretive theological reflection, not a factual claim — no tafsir source is being misrepresented.
+
+SUMMARY: The reflection is linguistically precise, its tafsir citations accurately represent al-Qurtubi's position, and its interpretive frame stays within scholarly warrant; no errors detected in the portion reviewed.

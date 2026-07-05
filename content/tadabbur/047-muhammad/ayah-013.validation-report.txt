@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/047-muhammad/ayah-013.md
+Ayah: 47:13
+Date: 2026-06-08T11:54:23
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَكَأَيِّن=And how many | مِّن=of | قَرْيَةٍ=a town, | هِىَ=which | أَشَدُّ=(was) stronger | قُوَّةً=(in) strength | مِّن=than | قَرْيَتِكَ=your town | ٱلَّتِىٓ=which | أَخْرَجَتْكَ=has driven you out? | أَهْلَكْنَـٰهُمْ=We destroyed them, | فَلَا=so no | نَاصِرَ=helper | لَهُمْ=for them.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "he quotes the poet Labīd to show its flavor in the living Arabic" — Slight attribution compression. Al-Qurtubi's text reads: *"wa-anshada al-Akhfashu qawla Labīd"* — Al-Qurtubi is citing Al-Akhfash as the transmitter of Labīd's verse, not quoting Labīd directly. The poem is correctly attributed to Labīd, but the intermediate link (Al-Akhfash) is dropped. Not a factual inversion, but a chain shortcut that a linguist could flag.
+- [MODERATE] "a word that means *uncountably many*" / "beyond counting" — The tafsir sources (Al-Qurtubi, Al-Jalalayn, Al-Baghawi) uniformly gloss *wa-ka'ayyin* as *bi-maʿnā kam* ("meaning: how many"), indicating great number. The "uncountable / beyond counting" characterization is a rhetorical extension the reflection asserts as inherent to the word's structure, which the reference data does not explicitly support. The word conveys rhetorical amplitude, but "uncountable" is the reflection's own elaboration, not a documented lexical feature.
+- [PASS] "Al-Baghawi narrates that the Prophet ﷺ… said: *'You are the most beloved of Allah's lands…'"* — Confirmed in Al-Baghawi's text (transmitted via Ibn Abbas: *"qāla Ibn ʿAbbās: lammā kharaja rasūlu-llāh… iltafata ilā Makkata wa-qāl…"*). Attribution to Al-Baghawi is accurate; the isnād-level attribution to Ibn Abbas is omitted but this is within tadabbur norms.
+- [PASS] *qaryatika* retaining the possessive suffix *-ka* despite expulsion — Correctly observed and exegetically grounded; Al-Jalalayn and Al-Baghawi both treat the pronoun *-ka* as anchored to the Prophet ﷺ without comment suggesting severance.
+- [PASS] Arabic text in reflection body — Matches authentic Arabic; minor orthographic variant (*هِيَ* vs. *هِىَ*) is a rendering convention, not a textual error.
+- [PASS] Form IV identification of *akhrajatka* — Correct per morphology note; Form IV (أَفْعَلَ) of root خ-ر-ج is standard.
+
+SUMMARY: The reflection is linguistically careful and tafsir-grounded throughout; the two moderate flags are a chain-of-transmission shortcut on the Labīd citation and a rhetorical overreach on *ka'ayyin* as structurally "uncountable" — neither misrepresents a core claim.

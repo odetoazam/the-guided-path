@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/053-an-najm/ayah-052.md
+Ayah: 53:52
+Date: 2026-06-09T20:14:35
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَقَوْمَ=And (the) people | نُوحٍ=(of) Nuh | مِّن قَبْلُ‌ۖ=before. | إِنَّهُمْ=Indeed, they | كَانُواْ هُمْ=they were | أَظْلَمَ=more unjust | وَأَطْغَىٰ=and more rebellious.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "There were no centuries of distortion to blame, no inherited skepticism, no worn-out familiarity. The light came to them clean — and they refused it clean." — This framing directly contradicts a specific detail in Al-Qurtubi's tafsir, which describes rejection among the people of Nuh as explicitly *inherited*: fathers would take their sons by the hand to Nuh and say "beware of him, he is a liar — and my own father took me to him and told me the same." Al-Qurtubi's account shows that later generations within the 950-year mission had precisely the *inherited* skepticism the reflection denies. The classical sources unanimously ground the "more unjust and more rebellious" verdict in the *length* of the mission (Jalalayn: *li-ṭūl lubth Nūḥ fīhim*; Al-Baghawi: *li-ṭūl daʿwat Nūḥ iyyāhum*) and the *compounding* of multi-generational rejection — not in the message arriving to a pristine, skepticism-free audience. The reflection's "freshness = no excuse" argument is an original literary deduction, not grounded in the provided tafsir sources, and partially inverts the classical logic.
+
+- [PASS — note] The grammatical analysis of *min qablu* (*al-qaṭʿ ʿan al-iḍāfah*, the severed *-u* ending) and the *ḍamīr al-faṣl* analysis of the inserted *hum* are both sound classical Arabic grammar. Neither is verifiable from the tafsir excerpts provided, but both are well-attested in Arabic grammatical tradition and the descriptions here are accurate.
+
+- [PASS] The structural observation — that the ayah characterizes the people of Nuh rather than merely stating their destruction, unlike the treatment of ʿĀd and Thamūd — is textually accurate and consistent with how the ayahs read in sequence.
+
+- [PASS] The elative reading of *aẓlama wa-aṭghā* as "more unjust and more rebellious" (comparative against the other nations) is confirmed by Al-Muyassar: *ashad tamarrudan wa-aʿẓam kufrān*.
+
+SUMMARY: The reflection is linguistically rigorous and structurally sound, but its central literary thesis — that the people of Nuh bore the heaviest indictment because they received the message fresh, without inherited skepticism — partially inverts the classical tafsir logic, which roots their greater culpability specifically in multi-generational, sustained rejection across a 950-year mission.

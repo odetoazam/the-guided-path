@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/048-al-fath/ayah-012.md
+Ayah: 48:12
+Date: 2026-06-08T14:32:37
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: بَلْ=Nay, | ظَنَنتُمْ=you thought | أَن=that | لَّن=(would) never | يَنقَلِبَ=return | ٱلرَّسُولُ=the Messenger | وَٱلْمُؤْمِنُونَ=and the believers | إِلَىٰٓ=to | أَهْلِيهِمْ=their families | أَبَدًا=ever, | وَزُيِّنَ ذَٲلِكَ=that was made fair-seeming | فِى=in | قُلُوبِكُمْ=your hearts. | وَظَنَنتُمْ=And you assumed | ظَنَّ=an assumption | ٱلسَّوْءِ=evil, | وَكُنتُمْ=and you became | قَوْمَۢا=a people | بُورًا=ruined.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+**VERDICT: PASS**
+
+**ISSUES:**
+
+- [PASS] "أَكَلَةُ رَأْسٍ... 'a single head's meal' — meaning: so few they could be swallowed in one bite" — Phrase is attested verbatim in both al-Qurtubi ("إن محمدا وأصحابه أكلة رأس لا يرجعون") and al-Baghawi ("إن محمدا وأصحابه أكلة رأس، فلا يرجعون"). Translation accurate.
+
+- [PASS] "بَلْ… a particle of إِضْرَاب — *iḍrāb*, which literally carries the sense of 'turning away from' what was just said" — Grammatically correct. The use of *bal* as an iḍrāb particle pivoting from the external excuse (48:11) to the internal assumption is a standard classical analysis.
+
+- [PASS] Morphology header note — Form VII of qlb (*yanqalib*) as reflexive-intransitive, Form II of zyn (*zuyyina*) as intensive-causative passive, Form IV of ʾmn (*muʾminūn*) as active participle — all three are correct per classical Arabic grammar.
+
+- [PASS] "بُورًا... 'ruined'" — Al-Jalalayn explicitly glosses this as جمع بائر، أي هالكين ("plural of *bāʾir*, meaning destroyed"). Translation is accurate.
+
+- [MINOR OBSERVATION — not flaggable] The agent of *zuyyina* (who did the beautifying) is left unspecified in the visible text. Al-Muyassar and al-Baghawi both explicitly name Shaytan: "حسَّن الشيطان ذلك في قلوبكم" / "زين الشيطان ذلك الظن في قلوبكم." The reflection preserves the Quranic passive without contradiction, so this is not an error — but if the later text (beyond the 8000-char cutoff) discusses tazyin without naming Shaytan's agency, that gap should be addressed.
+
+**SUMMARY:** All verifiable factual claims — historical context, lexical meanings, morphological analysis, and the attested phrase أكلة رأس — are accurate and well-sourced; the one minor gap (Shaytan as agent of tazyin) is not present in the visible text but is not contradicted by it.

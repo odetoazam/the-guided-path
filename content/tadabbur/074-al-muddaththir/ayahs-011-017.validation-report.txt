@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/074-al-muddaththir/ayahs-011-017.md
+Ayah: 74:11
+Date: 2026-06-17T01:02:24
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ذَرْنِى=Leave Me | وَمَنْ=and whom | خَلَقْتُ=I created | وَحِيدًا=alone,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "He had ten sons — some say more" — The specific number "ten" is not verifiable from any of the four provided tafsir sources. Al-Muyassar and al-Baghawī say only "children present with him in Mecca" and "sons, present at his side." The number comes from sīrah literature (Ibn Hishām, etc.) outside the reference data supplied. The hedge "some say more" partially mitigates this, but the claim is stated as biographical fact without a source anchor.
+
+- [NOTE, not an error] The reflection attributes al-Walīd's famous words about the Quran ("its lowest branch hung heavy with fruit…") to "the early biographers preserve" — this is correctly sourced to sīrah, not to the tafsir sources provided. The attribution is proper.
+
+**What verified cleanly:**
+- Qurṭubī quote *"wa hiya kalimatu waʿīdin wa tahdīd"* — exact Arabic present in the provided Qurṭubī text ✓
+- All four sources (Jalālayn, Muyassar, Qurṭubī, Baghawī) identify al-Walīd ibn al-Mughīra — reflection's claim of "consensus of the mufassirūn" is accurate ✓
+- Addressee of *dharnī* as the Prophet ﷺ — confirmed by al-Muyassar's explicit *"ayya al-rasūl"* ✓
+- *waḥīdā* as ḥāl meaning "alone, without wealth or children at birth" — confirmed by Jalālayn, Muyassar, and Baghawī ✓
+- Root analysis w-dh-r, kh-l-q, w-ḥ-d — all lexically standard ✓
+- The "register of threat" reading of *dharnī* — grounded directly in Qurṭubī's text ✓
+
+SUMMARY: The reflection is accurate and tightly sourced; the sole flag is the unverifiable "ten sons" figure, which is a minor biographical claim from sīrah literature not present in the provided tafsir data but appropriately hedged by the author.

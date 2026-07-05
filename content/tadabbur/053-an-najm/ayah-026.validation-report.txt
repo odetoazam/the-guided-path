@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/053-an-najm/ayah-026.md
+Ayah: 53:26
+Date: 2026-06-09T18:51:26
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ۞ وَكَم=And how many | مِّن=of | مَّلَكٍ=(the) Angels | فِى=in | ٱلسَّمَـٰوَٲتِ=the heavens | لَا=not | تُغْنِى=will avail | شَفَـٰعَتُهُمْ=their intercession | شَيْــًٔا=anything | إِلَّا=except | مِنۢ بَعْدِ=after | أَن=[that] | يَأْذَنَ ٱللَّهُ=Allah has given permission | لِمَن=for whom | يَشَآءُ=He wills | وَيَرْضَىٰٓ=and approves.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] The *kam khabariyyah* analysis is linguistically accurate — this is a standard classical grammar category applied correctly.
+- [PASS] "الملك واحد ومعناه جمع" — the reflection attributes this observation to al-Akhfash via al-Qurtubi and al-Baghawi. Al-Baghawi's tafsir in the reference data explicitly states: *"وجمع الكناية في قوله: 'شفاعتهم' والملك واحد"* — confirming exactly this grammatical point. Attribution is accurate.
+- [PASS] The singular-to-plural pronoun shift (*malakin* → *shafāʿatuhum*) is directly attested in the Arabic text and confirmed by al-Baghawi's note.
+- [PASS] The idol-worship context (al-Lat, al-Uzza, Manat as intercessors, the *"we only worship them to bring us nearer"* motive) is well-grounded; al-Qurtubi explicitly frames the ayah as *"توبيخ من الله تعالى لمن عبد الملائكة والأصنام"* — rebuke for those who worshipped angels and idols believing they would bring them near.
+- [PASS] The double condition of *yashāʾu wa yarḍā* (permission + approval) is accurately described. Al-Baghawi and Ibn Abbas are cited in the reference that *yarḍā* applies specifically to the *ahl al-tawḥīd*, which is consistent with the reflection's framing.
+- [PASS] تُغْنِى identified as Form IV — correct; root gh-n-y, Form IV *aghnā* meaning "to avail/suffice/enrich." يَأْذَنَ / يَشَآءُ / يَرْضَىٰ correctly identified as Form I imperfects.
+- [NOTE — not an error] The reflection references *"one narration"* about an angel's feather filling the horizon. This is not verifiable from the reference data provided, but it is a well-circulated hadith tradition. It is not presented as Quranic text, so it falls outside this validation scope. Flag for hadith grading review if desired.
+
+SUMMARY: The reflection is linguistically precise, contextually grounded, and correctly traces every major grammatical and tafsir claim back to attested sources — no critical or moderate errors found in the portion validated.

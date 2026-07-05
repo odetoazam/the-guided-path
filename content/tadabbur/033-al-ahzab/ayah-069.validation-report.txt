@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/033-al-ahzab/ayah-069.md
+Ayah: 33:69
+Date: 2026-05-15T04:36:54
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ=O you who believe! | لَا=(Do) not | تَكُونُواْ=be | كَٱلَّذِينَ=like those who | ءَاذَوْاْ=annoyed | مُوسَىٰ=Musa | فَبَرَّأَهُ ٱللَّهُ=then Allah cleared him | مِمَّا=of what | قَالُواْۚ=they said. | وَكَانَ=And he was | عِندَ=near | ٱللَّهِ=Allah | وَجِيهًا=honorable.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [OBSERVATION] "Lisān al-ʿArab and the Mufradāt of al-Rāghib consistently distinguish adhā from ḍarar (substantial damage) and from qatl (killing) and from jurḥ (wounding)" — the general characterization of adhā as speech/dignity-class harm is consistent with all four tafsir sources provided (Jalalayn, Muyassar, Qurtubi, Baghawi all use it for speech-based hurt), but the specific tripartite distinction against ḍarar / qatl / jurḥ is not verifiable from the provided reference data. The claim is lexicographically defensible; it is not verifiable here. No severity assigned — flagged for transparency.
+
+All other checkable claims hold:
+
+- **آذَوْا as Form IV**: Correct. أَ-prefix + root أ-ذ-ي → hamza collapse → آذَى (ādhā). Form IV causative-transitive. Accurate.
+- **برّأ as Form II**: Correct. Doubled middle radical. Accurate.
+- **وَجِيهًا translation ("of high standing")**: Aligns with Baghawi ("كريما ذا جاه وقدر"), Jalalayn ("ذا جاه"), Muyassar ("عظيم القدر والجاه"). Accurate.
+- **"Allah does not repeat what they said"**: The text reads مِمَّا قَالُوا — "of what they said" — without specifying content. The observation is an accurate reading of the ayah's own ellipsis. Supported by text.
+- **Contextual framing (Trench, Banu Qurayza, ifk atmosphere)**: Historically standard for Surah Al-Ahzab's Madinan context. Consistent with Qurtubi's contextual opening ("لما ذكر الله تعالى المنافقين والكفار الذين آذوا رسول الله"). Accurate.
+- **Arabic text reproduction**: Matches the authenticated text exactly.
+
+SUMMARY: The reflection is linguistically precise, contextually grounded, and free of misattributions; the only note is one lexicographic citation pair (Lisān / Mufradāt) that goes beyond the supplied reference data and cannot be independently confirmed here.

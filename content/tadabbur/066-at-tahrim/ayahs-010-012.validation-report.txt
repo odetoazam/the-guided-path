@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/066-at-tahrim/ayahs-010-012.md
+Ayah: 66:10
+Date: 2026-06-13T12:38:48
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ضَرَبَ ٱللَّهُ=Allah presents | مَثَلاً=an example | لِّلَّذِينَ=for those who | كَفَرُواْ=disbelieved - | ٱمْرَأَتَ=(the) wife | نُوحٍ=(of) Nuh | وَٱمْرَأَتَ=(and the) wife | لُوطٍ‌ۖ=(of) Lut. | كَانَتَا=They were | تَحْتَ=under | عَبْدَيْنِ=two [slaves] | مِنْ=of | عِبَادِنَا=Our slaves | صَـٰلِحَيْنِ=righteous, | فَخَانَتَاهُمَا=but they both betrayed them, | فَلَمْ=so not | يُغْنِيَا=they availed, | عَنْهُمَا=both of them, | مِنَ=from | ٱللَّهِ=Allah | شَيْــًٔا=(in) anything, | وَقِيلَ=and it was said, | ٱدْخُلَا=`Enter | ٱلنَّارَ=the Fire | مَعَ=with | ٱلدَّٲخِلِينَ=those who enter.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR/NOTE] "the single worst tyrant in the Qur'an" (describing Pharaoh) — interpretive ranking not derivable from 66:11 itself; however, Fir'awn's self-proclaimed divinity (79:24) and his role as the archetypal oppressor are classical consensus positions, so this does not rise to MODERATE. Flag only if the full reflection escalates this to a sourced scholarly claim.
+- [NOTE — UNVERIFIABLE] The sentence cut off at "The very same word the surah will use, by the w..." appears to claim تَحْتَ recurs in 66:11 or 66:12. The word-by-word reference provided covers 66:10 only, and the Arabic of 66:11–12 quoted in the reflection does not visibly contain تَحْتَ. If the full text argues تَحْتَ appears in a later verse of this surah, that claim should be verified against the full Arabic of 66:11–12 before publication.
+
+CONFIRMED ACCURATE:
+- Arabic text of 66:10 matches the authentic source (minor orthographic diacritic variation only, substantively identical).
+- تَحْتَ = "under/beneath" (position) vs. "with/inside" — confirmed by word-by-word reference; the distinction is linguistically sound.
+- يُغْنِيَا as "availed" (transitive, not merely causative) — confirmed by word-by-word: "they availed."
+- The nature of betrayal as religious (كفر), not sexual — all four tafsir sources (Jalalayn, Muyassar, Qurtubi, Baghawi) are unanimous and explicit: فخانتاهما في الدين. The reflection does not contradict this in the visible portion.
+- Individual-accountability thesis ("no relationship transfers") — directly stated in Qurtubi: *"لا يغني أحد في الآخرة عن قريب ولا نسيب إذا فرق بينهما الدين."*
+- Ibn Abbas position (implicit in Baghawi) that prophets' wives did not commit zinā — the reflection makes no claim of sexual betrayal, consistent with this.
+
+SUMMARY: The visible 8,000 characters contain no critical or moderate errors; the core linguistic and theological claims are directly corroborated by the reference data, with one unverifiable sentence cut mid-claim that warrants a spot-check of تَحْتَ's occurrence in 66:11–12 before final publication.

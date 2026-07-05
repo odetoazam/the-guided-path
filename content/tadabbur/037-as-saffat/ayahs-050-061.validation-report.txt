@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/037-as-saffat/ayahs-050-061.md
+Ayah: 37:50
+Date: 2026-06-05T08:28:04
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَأَقْبَلَ=And (will) approach | بَعْضُهُمْ=some of them | عَلَىٰ=to | بَعْضٍ=others | يَتَسَآءَلُونَ=questioning one another.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [SCOPE] The provided reference data covers ayah 50 only. The reflection runs through ayah 61 (the *qarin* narrative, "By Allah, you almost ruined me," *fawz al-ʿaẓīm*, *lā yuftanūn*). Those eleven verses carry most of the theological weight and cannot be validated from the supplied sources — treat this as a partial pass, not a clean bill of health for the full passage.
+
+- [MODERATE] "aqbala doesn't just mean 'moved' or 'went.' It means to turn the front of yourself toward someone." — The word-by-word reference gives `فَأَقْبَلَ = And (will) approach`. The reflection's root expansion (q-b-l → qibla, qabūl, istiqbāl) is lexicographically legitimate (Lisān al-ʿArab and Mufradāt al-Rāghib both support the "facing/fronting" semantic core), but presenting "facing fully" as the primary gloss rather than "approach/turn toward" slightly elevates a secondary nuance. Not wrong — interpretive extension.
+
+- [PASS] Form VI identification of *yatasāʾalūn* (s-ʾ-l, reciprocal) is morphologically correct.
+- [PASS] Form IV identification of *aqbala* in the morphology note is correct; the caveat "no causative function is claimed" is apt — *aqbala* is a lexicalized Form IV, not a productive causative.
+- [PASS] Tafsir claim that the conversation is about "the world they left behind" aligns precisely with all four supplied sources: Jalalayn (*عما مر بهم في الدنيا*), Muyassar (*أحوالهم في الدنيا*), Baghawi (*عن حاله في الدنيا*), Qurtubi (*أحاديثهم في الدنيا*).
+- [PASS] "deep, unhurried ease" framing aligns with Qurtubi and Muyassar's gloss *من تمام الأنس* ("from the completeness of intimate companionship").
+- [PASS] Arabic text in body and frontmatter matches authentic Arabic within acceptable diacritic variation.
+
+SUMMARY: The reflection is accurate and well-grounded for everything verifiable from the supplied ayah-50 reference data; one interpretive overreach on *aqbala*'s primary gloss is minor, but the eleven verses of the *qarin* narrative (51–61) require a second validation pass with dedicated reference data before this file can be marked validated.

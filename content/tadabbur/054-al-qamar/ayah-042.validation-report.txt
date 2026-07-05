@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/054-al-qamar/ayah-042.md
+Ayah: 54:42
+Date: 2026-06-10T07:17:52
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: كَذَّبُواْ=They denied | بِـَٔـايَـٰتِنَا=Our Signs, | كُلِّهَا=all of them, | فَأَخَذْنَـٰهُمْ=so We seized them | أَخْذَ=(with) a seizure | عَزِيزٍ=(of) All-Mighty, | مُّقْتَدِرٍ=(the) Powerful One.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Al-Qurtubi names them one by one: … The obliteration of their crops." — Al-Qurtubi's actual text (provided) lists الطمسة without elaborating its content: "العصا ، واليد ، والسنون ، والطمسة ، والطوفان …". The reflection presents "their crops" as if it is Qurtubi's gloss, but it is not. The standard derivation of الطمسة in this context draws from Musa's dua in 10:88 (اطمس على أموالهم — "obliterate their wealth/possessions"), making it an obliteration of wealth broadly, not specifically crops. Presenting "crops" as Qurtubi's description is an interpretive extension not attested in the supplied reference data.
+
+All other verifiable claims pass:
+- كَذَّبُوا as Form II (emphatic/repeated denial) — confirmed by lexical note and Leeds corpus reference in the frontmatter
+- Nine signs attributed to al-Jalalayn, al-Baghawi, al-Qurtubi — confirmed in all three supplied sources
+- السنون glossed as "years of famine" — supported by 7:130 cross-reference (years + decrease in fruits)
+- al-Qurtubi's three readings of an-nudhur (signs / messengers from Yusuf onward / the act of warning) — confirmed verbatim in his supplied text
+- عَزِيز = All-Mighty, مُقْتَدِر = All-Capable — confirmed by word-by-word and all three tafsir sources
+- Literary observation that no instrument of destruction is named in Pharaoh's account — accurate textual observation about Al-Qamar, not a scholar attribution
+- Arabic text matches the authentic Arabic exactly
+
+SUMMARY: One moderate issue — "obliteration of their crops" is attributed to al-Qurtubi's list but is an unattested narrowing of الطمسة; Qurtubi supplies the bare term without elaboration, and the sourced interpretation points to wealth/possessions broadly, not crops specifically.

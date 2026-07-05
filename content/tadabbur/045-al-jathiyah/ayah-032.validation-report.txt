@@ -1,0 +1,40 @@
+Enhanced Validation Report
+File: content/tadabbur/045-al-jathiyah/ayah-032.md
+Ayah: 45:32
+Date: 2026-06-08T03:41:58
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَإِذَا=And when | قِيلَ=it was said | إِنَّ=indeed | وَعْدَ=(the) Promise | ٱللَّهِ=(of) Allah | حَقٌّ=(is) true | وَٱلسَّاعَةُ=and the Hour - | لَا=(there is) no | رَيْبَ=doubt | فِيهَا=about it, | قُلْتُم=you said, | مَّا=`Not | نَدْرِى=we know | مَا=what | ٱلسَّاعَةُ=the Hour (is). | إِن=Not | نَّظُنُّ=we think | إِلَّا=except | ظَنًّا=an assumption, | وَمَا=and not | نَحْنُ=we | بِمُسْتَيْقِنِينَ=(are) convinced.``
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate errors found in the portion provided.
+
+Supporting observations (all verified against reference data):
+
+**Grammar — قِيلَ vs. قُلْتُم contrast**: The passive/active asymmetry is linguistically real and substantively correct. The Jalalayn confirms the framing — it opens with "وإذا قيل لكم" (passive recipient) and closes with "قلتم" (active speaker). The reflection's theological gloss ("truth needs no spokesman; denial has an owner") is interpretive extension but does not overstate the grammar.
+
+**إِن as negative particle**: The reflection correctly identifies إِن in *in naẓunnu illā ẓannan* as a negative, not a conditional. This is explicitly confirmed by the Jalalayn: "إن ما نظن إلا ظنا" — glossing إِن as ما (not). Al-Mubarrad's reading cited there ("أصله إن نحن إلا نظن ظنا") confirms the same. The reflection's claim that this creates ḥaṣr (restriction) through the إِن…إِلَّا frame is sound classical grammar.
+
+**Maṣdar / mafʿūl muṭlaq**: *naẓunnu…ẓannan* is a legitimate cognate accusative. Root ظ-ن-ن for both verb and noun is correct. The Baghawi paraphrase ("ما نعلم ذلك إلا حدسا وتوهما") and the Muyassar ("وما نتوقع وقوعها إلا توهمًا") both render the construction as total confinement to conjecture — consistent with the reflection's analysis.
+
+**45:24 citation**: The rendering of 45:24 ("there is nothing but our life in this world… nothing destroys us except time") accurately represents the text and is contextually appropriate for setting the materialist frame.
+
+**Root attributions in morphology note**: All nine roots listed (Alh, Hqq, Znn, dry, qwl, ryb, swE, wEd, yqn) correctly correspond to the words in the ayah.
+
+**One caveat**: The reflection is truncated mid-sentence at "Word for word: *We do…" — the analysis of ظَنًّا is not yet complete in the submitted text. This validation covers only what was submitted; the continuation should be resubmitted for full review.
+
+SUMMARY: The portion submitted is linguistically disciplined, tafsir-grounded, and free of factual errors — every grammatical and lexical claim checked out against the Jalalayn, Baghawi, Muyassar, and Qurtubi sources provided.

@@ -1,0 +1,26 @@
+Enhanced Validation Report
+File: content/tadabbur/034-saba/ayah-027.md
+Ayah: 34:27
+Date: 2026-05-18T01:10:16
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: قُلْ=Say, | أَرُونِىَ=`Show me | ٱلَّذِينَ=those whom | أَلْحَقْتُم=you have joined | بِهِۦ=with Him | شُرَكَآءَۖ=(as) partners. | كَلَّاۚ=By no means! | بَلْ=Nay, | هُوَ=He | ٱللَّهُ=(is) Allah | ٱلْعَزِيزُ=the All-Mighty, | ٱلْحَكِيمُ=the All-Wise.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "al-Qurṭubī notices something extraordinary about the verb. He says: this *arūnī* could be understood in two senses. It could be *ruʾyat al-baṣar* — vision of the eye — or it could be *ruʾyat al-qalb* — vision of the heart" — The provided al-Qurṭubī excerpt does not present a two-option framing. It reads: *"يكون (أروني) هنا من رؤية القلب، فيكون (شركاء) المفعول الثالث"* — al-Qurṭubī is making a *grammatical* argument: because this *arūnī* is from *ruʾyat al-qalb*, شركاء becomes the third object in a triple-object construction. He is *assigning* it to رؤية القلب, not presenting both types as equally valid options. The reflection reconstructs this as "He says it could be either/or — hold both," which converts a grammatical ruling into a philosophical both/and the excerpt does not support. The excerpt is truncated so the full Qurṭubī may say more, but the attribution "He says... could be understood in two senses" overstates what the provided text shows.
+
+SUMMARY: Arabic, translation, and Form IV morphology (أَرُونِىَ, أَلْحَقْتُم) are all sound; the sole issue is that al-Qurṭubī's رؤية القلب observation is accurately cited but then reframed as a bilateral "hold both" endorsement he does not make in the provided excerpt — a moderate overstatement of his position.

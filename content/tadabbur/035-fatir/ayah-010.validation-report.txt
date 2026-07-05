@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/035-fatir/ayah-010.md
+Ayah: 35:10
+Date: 2026-05-18T05:10:02
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: مَن=Whoever | كَانَ يُرِيدُ=[is] desires | ٱلْعِزَّةَ=the honor, | فَلِلَّهِ=then for Allah | ٱلْعِزَّةُ=(is) the Honor | جَمِيعًاۚ=all. | إِلَيْهِ=To Him | يَصْعَدُ=ascends | ٱلْكَلِمُ=the words | ٱلطَّيِّبُ=good, | وَٱلْعَمَلُ=and the deed | ٱلصَّـٰلِحُ=righteous | يَرْفَعُهُۚۥ=raises it. | وَٱلَّذِينَ=But those who | يَمْكُرُونَ=plot | ٱلسَّيِّـَٔـاتِ=the evil, | لَهُمْ=for them | عَذَابٌ=(is) a punishment | شَدِيدٌۖ=severe, | وَمَكْرُ=and (the) plotting | أُوْلَـٰٓئِكَ=(of) those - | هُوَ=it | يَبُورُ=(will) perish.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical errors identified in this excerpt.
+- One observation worth noting (not a flag): "the honor you are chasing and the honor Allah owns...They are one" — this is an interpretive extension of the grammatical co-reference argument, not an attested tafsir claim verbatim. However, it is logically consistent with al-Farrāʾ's own reading (the ayah is a lesson in *geography* of honor, implying there is only one locus), and the Muyassar supports the directional argument ("فمن اعتز بالمخلوق أذله الله"). Stated with enough philosophical framing that it reads as reflection rather than false attribution. No flag warranted.
+- al-Farrāʾ attribution ("preserved in both Qurṭubī and Baghawī...man kāna yurīdu ʿilma-l-ʿizzati"): **VERIFIED**. Qurṭubī: "التقدير عند الفراء: من كان يريد علم العزة"; Baghawī: "من كان يريد أن يعلم لمن العزة فلله العزة جميعا." Both sources confirmed in provided data, rendering is faithful.
+- al-istighrāq grammatical claim: **SOUND**. "جَمِيعًا = all" confirmed in word-by-word; totality reading consistent with classical usage.
+- Translation: **Accurate** against word-by-word reference throughout.
+- Arabic text in frontmatter: Substantively matches the authenticated Arabic; minor Unicode diacritic encoding differences only, not a content error.
+
+SUMMARY: The reflection is linguistically rigorous and scholastically honest — all attributed positions are verifiable in the provided tafsir data, grammatical claims are technically sound, and no claims are stated as documented fact beyond what the sources support.

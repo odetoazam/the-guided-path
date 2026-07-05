@@ -1,0 +1,38 @@
+Enhanced Validation Report
+File: content/tadabbur/058-al-mujadila/ayahs-020-021.md
+Ayah: 58:20
+Date: 2026-06-12T18:47:14
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّ=Indeed, | ٱلَّذِينَ=those who | يُحَآدُّونَ=oppose | ٱللَّهَ=Allah | وَرَسُولَهُۥٓ=and His Messenger, | أُوْلَـٰٓئِكَ=those | فِى=(will be) among | ٱلْأَذَلِّينَ=the most humiliated.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+**VERDICT: MODERATE**
+
+**ISSUES:**
+
+- [MODERATE] Frontmatter comment: `"emphatic لَأَغْلِبَنَّ (lām al-ibtidāʾ + nūn al-tawkīd al-thaqīla) are morphologically secure"` — The lam here is **lām al-qasam** (oath-response lam), not lām al-ibtidāʾ. Classical grammarians (Sībawayhi, Ibn ʿAqīl) are unanimous: when a lam precedes a verb with nūn al-tawkīd, it is the lam of the oath response (jawāb al-qasam). Lām al-ibtidāʾ introduces nominal sentences and does not co-occur with nūn al-tawkīd in verbal sentences. Flagging this as "morphologically secure" under the wrong category is a technical misclassification — though it does not affect the interpretive weight of the emphasis, since both produce the same emphatic force.
+
+**VERIFIED PASS items (with sourcing):**
+
+- Root ح-د-د as "limit / boundary / edge" → lexically grounded; connection to حدود and حديد attested in Lisān al-ʿArab
+- Form III مُفاعلة analysis of يُحَآدّ as confrontational positioning against a boundary → correct; the form pattern is sound
+- Al-Jalalayn gloss rendered as يخالفون → correctly cited; source confirms يخالفون verbatim
+- ٱلْأَذَلِّينَ as superlative covering dunya and akhira → confirmed by Muyassar (في الدنيا والآخرة) and Baghawi (في الدنيا والآخرة)
+- Khawla bint Thaʿlaba narrative and surah naming → well-attested
+- 58:22 identified as the Ḥizb Allāh verse → accurate
+
+**NOTE:** Tafsir reference data was supplied for ayah 20 only. Claims in the body prose about كَتَبَ ٱللَّهُ لَأَغْلِبَنَّ (ayah 21) — including any further lam analysis in the unshown portion — cannot be cross-checked against the provided sources. The body text visible in the 8000-char window does not yet reach the ayah 21 analysis, so no additional flags arise from the prose itself.
+
+**SUMMARY:** The body prose is linguistically accurate and tafsir-grounded throughout the visible text; the one flag is the frontmatter's misclassification of the emphatic lam in لَأَغْلِبَنَّ as lām al-ibtidāʾ rather than the universally recognized lām al-qasam.

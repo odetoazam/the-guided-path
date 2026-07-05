@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/053-an-najm/ayah-050.md
+Ayah: 53:50
+Date: 2026-06-09T22:58:28
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَأَنَّهُۥٓ=And that He | أَهْلَكَ=destroyed | عَادًا=Aad | ٱلْأُولَىٰ=the first,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+**VERDICT: MODERATE**
+
+**ISSUES:**
+
+- [MODERATE] "Al-Baghawi, commenting on our very ayah, identifies them as the people of Hud, destroyed by the rīḥ ṣarṣar" — The Baghawi text provided for this ayah is entirely qirāʾāt discussion (the lām-mushaddada reading, qālūn's hamza) with no mention of Hud or rīḥ ṣarṣar. The "people of Hud" identification appears in al-Muyassar ("وهم قوم هود"), and the rīḥ ṣarṣar attribution for 'Ādan al-ūlā comes from al-Qurtubi quoting Ibn Ishaq ("فالأولى أهلكت بالريح الصرصر"). The underlying claims are accurate and classically sourced — the error is attribution specificity: citing Baghawi on this ayah for content that, per the provided reference data, is in Muyassar and Qurtubi.
+
+**All other claims verified:**
+
+- Arabic text and translation match word-by-word reference ✓
+- Form IV morphology (*ahlaka* as causative of *halaka*) is correct ✓
+- *al-ūlā* implying sequence — supported by Qurtubi ("سماها الأولى لأنهم كانوا من قبل ثمود"), Jalalayn ("والأخرى قوم صالح"), and Ibn Ishaq via Qurtubi (two 'Āds) ✓
+- wa-annahu cascade framing is structurally accurate ✓
+- 69:6-7 citation (seven nights, eight days, hollowed palm trunks) is accurate ✓
+- 41:15 and 89:8 cross-references appear correctly applied ✓
+
+**SUMMARY:** One scholar misattribution — the rīḥ ṣarṣar/people-of-Hud details credited to Baghawi on this ayah are actually sourced in al-Muyassar and al-Qurtubi per the reference data; fix the attribution before publishing.

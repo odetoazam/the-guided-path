@@ -1,0 +1,44 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayah-030.md
+Ayah: 3:30
+Date: 2026-06-21T05:39:00
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَوْمَ=(On the) day | تَجِدُ=will find | كُلُّ=every | نَفْسٍ=soul | مَّا=what | عَمِلَتْ=it did | مِنْ=of | خَيْرٍ=good - | مُّحْضَرًا=presented, | وَمَا=and what | عَمِلَتْ=it did | مِن=of | سُوٓءٍ=evil, | تَوَدُّ=it will wish | لَوْ=[if] | أَنَّ=that | بَيْنَهَا=between itself | وَبَيْنَهُۥٓ=and between it (evil) | أَمَدَۢا بَعِيدًا‌ۗ=(was) a great distance. | وَيُحَذِّرُكُمُ ٱللَّهُ=And Allah warns you | نَفْسَهُۥ‌ۗ=(against) Himself, | وَٱللَّهُ=and Allah | رَءُوفُۢ=(is) Most Kind | بِٱلْعِبَادِ=to (His) [the] slaves.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] Arabic text in both frontmatter and body writes **رَءُوفُۢ** — the authenticated text has **رَءُوفٌۢ** (tanwin ḍamma required: it is an unqualified predicate, not definite and not in iḍāfa, so nunation is obligatory). The transliteration in the body correctly gives *raʾūfun*, which confirms the author knows the grammar — this is a transcription/encoding drop, not a misunderstanding, but the Arabic text is technically wrong in both locations.
+
+WHAT PASSES:
+
+- **Form IV muḥḍar analysis** — correct. Root Ḥ-Ḍ-R, base *ḥaḍara* → causative-transitive Form IV *aḥḍara* → passive participle *muḥḍar* ("brought-present"). Linguistically attested, consistent with the word-by-word reference.
+
+- **Baghawi citation** — traceable and accurate. The provided Baghawi excerpt does record the grammatical debate about whether *muḥḍar* governs both halves, and does cite Kahf 18:49 ("وَوَجَدُوا مَا عَمِلُوا حَاضِرًا"). The reflection renders the Kahf citation as "they will find what they did present before them" — accurate.
+
+- **yuḥadhdhir as Form II intensive** — defensible. The frontmatter note flags it as "intensive-transitive, not causative" which is the standard position (Form IV carries causation; Form II here carries forcefulness/urgency). Consistent with classical usage.
+
+- **The warning phrase repetition (3:28 → 3:30)** — confirmed by Jalalayn: *"كرر للتأكيد"* (repeated for emphasis). The reflection's framing of this as a deliberate structural echo is grounded.
+
+- **Passage context (3:28–30 as a unit)** — accurate. 3:28: loyalty/protection, 3:29: hidden knowledge of the chest, 3:30: eschatological disclosure. Standard contextual reading, no overreach.
+
+- **tawaddu as wishing/longing** — root *w-d-d*, word-by-word confirms "it will wish." Accurate.
+
+- **amad as "distance"** — within range. The word-by-word reference renders it "a great distance," Jalalayn uses "البُعد" (distance/remoteness) language. Tafsir al-Muyassar uses "زمنًا بعيدًا" (a distant time), which is the temporal reading. The reflection leans spatial ("distance") without explicitly dismissing the temporal sense — the reference data supports this as one valid framing, not a claim requiring correction.
+
+- **Translation of *raʾūf* as "deeply tender"** — interpretively generous but not inaccurate. Classical dictionaries gloss it as compassionate/merciful/kind; "deeply tender" is a legitimate poetic rendering, not a distortion.
+
+SUMMARY: The reflection is substantively sound — its tafsir citations are traceable, its morphological analysis is correct, and its contextual framing is accurate; the only flagged issue is a consistent diacritical drop (missing tanwin on رَءُوفٌۢ) in the Arabic text, not in the scholarship.

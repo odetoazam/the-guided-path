@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/034-saba/ayah-038.md
+Ayah: 34:38
+Date: 2026-05-18T02:22:17
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَٱلَّذِينَ=And those who | يَسْعَوْنَ=strive | فِىٓ=against | ءَايَـٰتِنَا=Our Verses | مُعَـٰجِزِينَ=(to) cause failure, | أُوْلَـٰٓئِكَ=those | فِى=into | ٱلْعَذَابِ=the punishment | مُحْضَرُونَ=(will be) brought.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "The classical commentators — al-Qurtubi, al-Baghawi, al-Jalalayn — all explain this fī āyātinā the same way: fī ibṭāli ḥujajinā" — The claim of uniform phrasing across all three does not hold for Jalalayn. The provided Jalalayn text reads: «في آياتنا» القرآن بالإبطال — using *bi-l-ibṭāl* (with invalidation), not *fī ibṭāli ḥujajinā*. The phrase "fī ibṭāli ḥujajinā" matches Muyassar precisely and Baghawi/Qurtubi closely, but attributing it to "all" three commentators as a single shared formulation overstates consensus and puts words in Jalalayn that are not there. The meaning is consonant; the uniformity claim is not.
+
+PASS items verified from reference data:
+- يَسْعَوْنَ root (s-ʿ-y), physical gait sense, Jumuʿah 62:9 usage — lexically attested, uncontested
+- مُعَاجِزِينَ as Form III (mutual/competitive action), glossed as "seeking to outstrip / cause failure" — consistent with word-by-word reference and Qurtubi/Baghawi (*yufawwitūnanā*, *yaʿjizūnanā*)
+- Contextual framing: 34:37 (wealth/children don't draw near) preceding, 34:39 (spending replaced) following — accurate
+- Saba civilization summary (dam, gardens, flood) — accurate to surah content
+- *fī* as "in the enterprise of invalidating" — consistent with all four tafsir sources even if the arena metaphor is an authorial extension (not a fabrication)
+
+SUMMARY: One moderate attribution error — Jalalayn's actual wording is *bi-l-ibṭāl* not *fī ibṭāli ḥujajinā*, so the "all explain it the same way" claim overclaims consensus; everything else checks out against the reference data.

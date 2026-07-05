@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/050-qaf/ayah-013.md
+Ayah: 50:13
+Date: 2026-06-09T00:03:54
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَعَادٌ=And Aad | وَفِرْعَوْنُ=and Firaun | وَإِخْوَٲنُ=and (the) brothers | لُوطٍ=(of) Lut,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] Arabic text "وَعَادٌ وَفِرْعَوْنُ وَإِخْوَٰنُ لُوطٍ" — matches authentic Arabic exactly.
+- [PASS] "their brother Hud" (7:65), "their brother Ṣāliḥ" (7:73), "their brother Lot" (26:161) — all three references are accurate; the Quranic formula أَخَاهُمْ / أَخُوهُمْ is correctly cited for each prophet.
+- [PASS] Root **أ-خ-و** (*Axw*) for إِخْوَانُ — correct. The morphology note is sound.
+- [PASS] "Only this one is called 'the brothers of'" — accurate within this catalogue (50:12–15). Others use قَوْمُ, أَصْحَابُ, or just the bare name. The observation is textually verifiable.
+- [PASS] "The tafsir scholars note… each civilization received its messenger, and the axis of judgment is كَذَّبُوا" — directly attested. Al-Muyassar: "كل هؤلاء الأقوام كذَّبوا رسلهم." Al-Qurṭubī: "كما كذب هؤلاء فكذلك كذب أولئك فحل بهم العقاب." Attribution is accurate and not overstated.
+- [PASS] The grammatical flip ("their brother Lot" → "brothers of Lot") is presented as the reflection's own literary analysis, not attributed to a specific scholar. Scope of attribution is honest.
+- [PASS] إِخْوَانُ described as "plural of abundance" — a legitimate classical Arabic morphological classification (jam' al-kathra), distinct from إِخْوَةٌ (jam' al-qilla). Not contradicted by any provided source.
+
+No critical or moderate issues identified in the portion submitted.
+
+SUMMARY: The reflection's linguistic analysis, Quranic cross-references, and tafsir attributions are all accurate and correctly scoped; no claims exceed what the reference data supports.

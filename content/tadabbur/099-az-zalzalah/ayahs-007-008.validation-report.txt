@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/099-az-zalzalah/ayahs-007-008.md
+Ayah: 99:7
+Date: 2026-06-20T06:22:22
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَمَن=So whoever | يَعْمَلْ=does | مِثْقَالَ=(equal to the) weight | ذَرَّةٍ=(of) an atom | خَيْرًا=good, | يَرَهُۥ=will see it,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] *"Al-Qurtubī, commenting on this very verse, cites a striking report: 'al-dharratu lā zinata lahā' — the dharrah has no weight at all"* — The al-Qurtubī excerpt in the reference data contains no such phrase. What the provided Qurtubī text actually records is Ibn ʿAbbās's distinction between how believers and disbelievers experience the recompense of their deeds across dunya and akhira. "Al-dharratu lā zinata lahā" may exist elsewhere in the fuller tafsir, but it cannot be sourced from the reference data supplied. Presenting it as a direct Qurtubī citation on this verse is unverifiable here and risks a false attribution.
+
+All other claims check out:
+
+- *dharrah* as "the smallest ant / aṣghar mā yakūn min al-naml" — confirmed in al-Jalālayn ("زنة نملة صغيرة"), al-Muyassar ("وزن نملة صغيرة"), and al-Baghawī verbatim.
+- *mithqāl* from root ث-ق-ل (heaviness, weight) — linguistically correct; the connection to *athqālahā* in 99:2 is a legitimate same-root resonance within the surah.
+- The *al-thaqalān* (humankind and jinn as "the two weighty ones") connection is a recognized usage of the same root, not an invention.
+- The mote-of-dust-in-sunlight description of *dharrah* is classically attested in Arabic lexicography (Lisān al-ʿArab), though absent from the four sources provided; the reflection does not attribute it to any specific source, so no false citation.
+- The grammatical observation that *khayran* and *sharran* are indefinite (nakirah) is morphologically accurate.
+- Translation and transliteration match the authentic Arabic.
+
+SUMMARY: The reflection is linguistically precise and tafsir-grounded throughout, but one Qurtubī quotation is presented as a direct citation that the supplied reference data cannot confirm — verify against a full edition of al-Jāmiʿ li-Aḥkām al-Qurʾān before publishing.

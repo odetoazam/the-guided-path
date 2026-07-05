@@ -1,0 +1,37 @@
+Enhanced Validation Report
+File: content/tadabbur/054-al-qamar/ayah-040.md
+Ayah: 54:40
+Date: 2026-06-10T07:06:36
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَلَقَدْ=And certainly | يَسَّرْنَا=We have made easy | ٱلْقُرْءَانَ=the Quran | لِلذِّكْرِ=for remembrance, | فَهَلْ=so is (there) | مِن=any | مُّدَّكِرٍ=who will receive admonition?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE] "Qurtubi also relays the report of Sa'id ibn Jubayr...no scripture of Allah is recited in full from memory, by heart, except this Quran" — the provided Qurtubi excerpt truncates at "وقال سعيد بن جبي" before giving Ibn Jubayr's statement; the attribution is plausible (the name appears in exactly the right location) but the specific content cannot be confirmed from the reference data supplied. The claim is well-attested in classical tafsir broadly, but this validator can only confirm the name, not the substance.
+
+- [NOTE] "saddled her, loaded her, made her ready to ride" paraphrases رَحَلَهَا (Qurtubi: إذا رحلها) — رَحَلَ denotes fitting the saddle/litter, not general loading; "loaded" is a slight expansion. Not an error given the journey framing, but slightly beyond what the word strictly attests.
+
+All other claims check out cleanly:
+- يَسَّرْنَا as Form II with intensification/causation function: correct.
+- Qurtubi's memorization-and-divine-help interpretation ("سهلناه للحفظ وأعنا عليه من أراد حفظه"): accurately paraphrased.
+- Qurtubi's camel/horse imagery (يسر ناقته للسفر / يسر فرسه للغزو / إذا أسرجه وألجمه): directly confirmed in the reference.
+- The poetry citation of مُيَسَّرًا: confirmed ("وقمت إليه باللجام ميسرا").
+- al-Muyassar's dual-dimension reading ("لفظ القرآن للتلاوة والحفظ، ومعانيه للفهم والتدبر لمن أراد أن يتذكر"): accurately represented.
+- مُدَّكِر as Form VIII derivative of dh-k-r with phonetic assimilation (ذ+ت→دّ): morphologically correct.
+- Fourth occurrence of the refrain at 17, 22, 32, 40: accurate per surah structure.
+
+SUMMARY: The reflection is rigorously grounded — every Qurtubi citation is traceable to the supplied text, morphological claims are sound, and the al-Muyassar attribution is precise; the only flags are a truncated Ibn Jubayr quote that cannot be confirmed from the supplied excerpt and a marginal expansion of رَحَلَ, neither of which constitutes an error.

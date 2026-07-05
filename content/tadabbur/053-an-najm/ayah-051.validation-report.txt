@@ -1,0 +1,40 @@
+Enhanced Validation Report
+File: content/tadabbur/053-an-najm/ayah-051.md
+Ayah: 53:51
+Date: 2026-06-09T23:04:19
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَثَمُودَاْ=And Thamud, | فَمَآ=so not | أَبْقَىٰ=He spared,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate errors found in the verifiable claims.
+
+Supporting notes on what was checked:
+
+**ʿAṭf analysis** — "Al-Qurtubi states it precisely: Thamud 'is in the accusative case, appended (ʿaṭf) to ʿAad'" is verified verbatim: *وانتصب على العطف على عاد*. The Jalalayn attribution *maʿṭūf ʿalā ʿĀdan* is verified: *وهو معطوف على عادا*. Both accurate.
+
+**Qiraat claim** — "With full declension (ثَمُودَا۟), treated as the name of the forefather; without declension, it names the tribe" maps correctly to Jalalayn's *بالصرف اسم للأب وبلا صرف للقبيلة*. The reflection preserves the distinction correctly and does not conflate the two readings.
+
+**Governing verb** — The claim that *ahlaka* from 53:50 governs Thamud grammatically (no fresh verb) is supported by both Qurtubi and Jalalayn via the ʿaṭf ruling. The Muyassar supplies *ahlaka* for both nations in its paraphrase, but that is summary prose, not a refutation of the grammatical dependency the reflection describes.
+
+**Translation** — "He spared not a single one" aligns with the word-by-word (*فَمَآ أَبْقَىٰ* = so not / He spared) and with all four tafsir sources (*منهم أحدا* / *فلم يُبْقِ منهم أحدًا*).
+
+**Related ayahs** — 89:9, 15:82, 7:74 quotations in the text are rendered accurately against standard Quranic text; no misquotation detected.
+
+**Thamud = people of Salih** — confirmed by all four sources (*وهم قوم صالح*).
+
+SUMMARY: All verifiable scholarly claims and grammatical attributions in this portion are accurate and grounded in the provided classical sources; no errors warranting a flag were found.

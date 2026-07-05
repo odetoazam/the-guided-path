@@ -1,0 +1,24 @@
+Enhanced Validation Report
+File: content/tadabbur/041-fussilat/ayahs-013-014.md
+Ayah: 41:13
+Date: 2026-06-06T14:23:51
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَإِنْ=But if | أَعْرَضُواْ=they turn away, | فَقُلْ=then say, | أَنذَرْتُكُمْ=`I have warned you | صَـٰعِقَةً=(of) a thunderbolt | مِّثْلَ=like | صَـٰعِقَةِ=(the) thunderbolt | عَادٍ=(of) Aad | وَثَمُودَ=and Thamud.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: ERROR
+ISSUES:
+- Could not run Claude check: Command failed: claude -p --system-prompt "You are a rigorous Islamic scholarship validator for Ayah
+SUMMARY: Claude semantic check failed

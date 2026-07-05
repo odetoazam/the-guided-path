@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/004-an-nisa/ayahs-117-118.md
+Ayah: 4:117
+Date: 2026-06-24T10:00:19
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِن=Not | يَدْعُونَ=they invoke | مِن دُونِهِۦٓ=besides Him | إِلَّآ=but | إِنَـٰثًا=female (deities) | وَإِن=and not | يَدْعُونَ=they invoke | إِلَّا=except | شَيْطَـٰنًا=Shaitaan - | مَّرِيدًا=rebellious.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE — NOT AN ERROR] The reflection covers verses 117–118, but the reference data supplied covers only verse 117 (authentic Arabic, word-by-word, tafsir excerpts). Claims about verse 118 (لَّعَنَهُ ٱللَّهُ / naṣīban mafrūḍā) cannot be verified or falsified from the data provided. They appear conventionally sound but fall outside the scope of this validation pass.
+- [PASS] "Al-Qurtubi states it plainly: 'In here is a negating particle, meaning not.'" — Confirmed verbatim. Qurtubi text reads: *وإن نافية بمعنى "ما"* — exact match, no overstatement.
+- [PASS] إناثا as "female idols" (specifically al-Lāt, al-ʿUzzā, Manāt) — confirmed by Jalālayn (*أصناما مؤنثة كاللات والعزى ومناة*), Qurtubi (*أصناما، يعني اللات والعزى ومناة*), and Baghawi (*أراد بالإناث الأوثان*). All three converge.
+- [PASS] مَرِيد glossed via root مرد as "stripped bare" then mapped to "rebellious" — Jalālayn confirms *خارجا عن الطاعة* (one who has exited obedience), which is the classical sense of the root. The etymological detour through "stripped bare" is attested and does not misrepresent the root.
+- [PASS] إِن read as *nāfiya* (not conditional "if") — explicitly confirmed by Qurtubi and consistent with Jalālayn's translation of the full clause as negation.
+- [PASS] Double hasr (إِن…إِلَّا appearing twice) framed as two sealed restriction structures — structurally accurate; both occurrences in the ayah deploy the *in nāfiya + illā* construction, which classical commentators treat as *qaṣr/ḥasr*.
+- [PASS] لَأَتَّخِذَنَّ identified in frontmatter as Form VIII (افتعل) of أ-خ-ذ with energetic nūn al-tawkīd — morphologically correct.
+
+SUMMARY: Every verifiable linguistic and attribution claim in the first 8,000 characters is accurate against the provided reference data; the sole gap is that verse 118 reference material was not included in the validator input, so that half of the passage remains unvalidated by this pass.

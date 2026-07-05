@@ -1,0 +1,40 @@
+Enhanced Validation Report
+File: content/tadabbur/090-al-balad/ayahs-018-020.md
+Ayah: 90:18
+Date: 2026-06-18T19:35:29
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أُوْلَـٰٓئِكَ=Those | أَصْحَـٰبُ=(are the) companions | ٱلْمَيْمَنَةِ=(of) the right hand.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+**VERDICT: MODERATE**
+
+**ISSUES:**
+
+- [MODERATE] "In Surah Al-Humazah, Allah uses the identical structure: that crushing Fire is described, and then *ʿalayhim nārun muʾṣadah* appears again — the same closed fire." — The actual text of Al-Humazah 104:8 is **إِنَّهَا عَلَيْهِمْ مُّؤْصَدَةٌ** ("Indeed, it is closed upon them"), not *ʿalayhim nārun muʾṣadah*. The word *nārun* is absent from 104:8; the fire is named earlier in 104:6 (*nāru-llāhi-l-mūqadah*) and referred back to via the pronoun *hā* in 104:8. The thematic parallel is entirely valid — both surahs describe a sealed fire over the same category of people — but the reflection presents a paraphrase as if it were the same Arabic formula, and calls it "the identical structure." That is textually imprecise and a reader checking the mushaf will notice the discrepancy. *(Al-Humazah reference data was not provided; this finding draws on Quranic text.)*
+
+---
+
+**What passes cleanly (from the provided window):**
+
+- Arabic in the frontmatter matches the authentic text provided.
+- Root ṣ-ḥ-b for *aṣḥāb* is correct; root y-m-n for *maymanah* is correct — both confirmed against the word-by-word reference and the morphology note.
+- The characterization of *ṣāḥib/ṣuḥba* as implying closeness and constancy rather than mere locational membership is lexically defensible and does not overstate.
+- The surah context reconstruction (al-ʿaqabah, fakku raqabah, feeding, *tawāṣaw bi-ṣ-ṣabr wa-l-marḥamah*) is accurate to Al-Balad's text.
+- Qurtubi's multiple interpretations of *maymanah* (book given in right hand, self-blessing, taken from Adam's right side, position at the right) are not cited yet in this window, so no attribution risk exists in the provided text.
+- The "fire as companionship via *aṣḥāb*" reading is a legitimate extension — the grammar supports it and Muyassar's framing (*yūʾkhadhu bihim dhāta-l-yamīn ilā-l-jannah*) reinforces the relational, directional language without contradicting it.
+
+---
+
+**SUMMARY:** The reflection is linguistically rigorous and contextually accurate in the window provided, but one sentence presents the thematic Al-Humazah parallel as verbal identity — *nārun muʾṣadah* appears in 90:20, not in 104:8 — and that claim needs softening to "a parallel construction" or "the same image" rather than "the same" phrase or "identical structure."

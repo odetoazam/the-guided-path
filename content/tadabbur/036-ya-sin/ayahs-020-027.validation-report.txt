@@ -1,0 +1,30 @@
+Enhanced Validation Report
+File: content/tadabbur/036-ya-sin/ayahs-020-027.md
+Ayah: 36:20
+Date: 2026-06-05T05:13:16
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَجَآءَ=And came | مِنْ=from | أَقْصَا=(the) farthest end | ٱلْمَدِينَةِ=(of) the city | رَجُلٌ=a man | يَسْعَىٰ=running. | قَالَ=He said, | يَـٰقَوْمِ=`O my People! | ٱتَّبِعُواْ=Follow | ٱلْمُرْسَلِينَ=the Messengers.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "most call him Ḥabīb the carpenter" — Accurate and appropriately hedged. Jalalayn, Baghawi's main position, and Qurtubi citing Ibn Abbās/Mujāhid/Muqātil all give *Ḥabīb al-Najjār* (carpenter). Qurtubi does record cobbler and fuller as minority positions, and Baghawi adds a silk-worker view from Wahb, so "most" is the right qualifier.
+- [PASS] Root analysis of أَقْصَا as q-ṣ-w in the afʿal superlative pattern — linguistically correct; the Al-Aqṣā parallel is a standard and well-attested comparison.
+- [PASS] يَسْعَىٰ rendered as "running" — Jalalayn glosses it *yashtaddu ʿadwan* (hastening at a run); Muyassar gives *musriʿ* (speeding). The translation is accurate.
+- [PASS] "he came from the farthest wall, the last house" — Baghawi explicitly states *kāna manziluhū ʿinda aqṣā bābin min abwāb al-madīna* (his dwelling was at the farthest gate of the city), which grounds the reflection's geographical language.
+- [PASS] The narrative contrast of "center vs. periphery" is interpretive framing, not a factual claim; it is clearly offered as invitation to reflect, not as attributed scholarship.
+
+SUMMARY: The reflection is linguistically precise, its tafsir references are consistent with the provided classical sources, and all interpretive claims are appropriately framed as such rather than stated as documented fact.

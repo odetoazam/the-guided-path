@@ -6,7 +6,7 @@ ayah_end: 193
 title: "We Heard the Caller, So Forgive What Still Remains"
 slug: "003-193"
 category: tadabbur
-arabic: "رَّبَّنَآ إِنَّنَا سَمِعْنَا مُنَادِيًا يُنَادِى لِلْإِيمَـٰنِ أَنْ ءَامِنُوا۟ بِرَبِّكُمْ فَـَٔامَنَّا ۚ رَبَّنَا فَٱغْفِرْ لَنَا ذُنُوبَنَا وَكَفِّرْ عَنَّا سَيِّـَٔاتِنَا وَتَوَفَّنَا مَعَ ٱلْأَبْرَارِ"
+arabic: "رَّبَّنَآ إِنَّنَا سَمِعْنَا مُنَادِيًا يُنَادِى لِلْإِيمَـٰنِ أَنْ ءَامِنُوا۟ بِرَبِّكُمْ فَـَٔامَنَّا ۚ رَبَّنَا فَٱغْفِرْ لَنَا ذُنُوبَنَا وَكَفِّرْ عَنَّا سَيِّـَٔاتِنَا وَتَوَفَّنَا مَعَ ٱلْأَبْرَارِ"
 translation: "Our Lord, indeed we heard a caller calling to faith, 'Believe in your Lord,' so we believed. Our Lord, then forgive our sins, erase from us our misdeeds, and take us in death with the righteous."
 word_count: null
 estimated_duration: "45-55 minutes"
@@ -14,6 +14,7 @@ passage_context: "The closing prayer of Surah Aal-Imran now becomes more persona
 generated_by: "codex-tadabbur"
 validated: true
 validation_date: "2026-04-18"
+semantic_review: "enriched-2026-07-02"
 tags: [iman, maghfirah, akhirah, abrar]
 concepts: [iman, hidayah, tawbah, dua, raja]
 ---
@@ -38,7 +39,7 @@ concepts: [iman, hidayah, tawbah, dua, raja]
 
 ## Surah Aal-Imran (3:193)
 
-[ayah:3:193] رَّبَّنَآ إِنَّنَا سَمِعْنَا مُنَادِيًا يُنَادِى لِلْإِيمَـٰنِ أَنْ ءَامِنُوا۟ بِرَبِّكُمْ فَـَٔامَنَّا ۚ رَبَّنَا فَٱغْفِرْ لَنَا ذُنُوبَنَا وَكَفِّرْ عَنَّا سَيِّـَٔاتِنَا وَتَوَفَّنَا مَعَ ٱلْأَبْرَارِ
+[ayah:3:193] رَّبَّنَآ إِنَّنَا سَمِعْنَا مُنَادِيًا يُنَادِى لِلْإِيمَـٰنِ أَنْ ءَامِنُوا۟ بِرَبِّكُمْ فَـَٔامَنَّا ۚ رَبَّنَا فَٱغْفِرْ لَنَا ذُنُوبَنَا وَكَفِّرْ عَنَّا سَيِّـَٔاتِنَا وَتَوَفَّنَا مَعَ ٱلْأَبْرَارِ
 
 *Rabbana innana sami'na munadiyan yunadi li-al-imani an aminu bi-rabbikum fa-amanna. Rabbana fa-ghfir lana dhunubana wa kaffir 'anna sayyi'atina wa tawaffana ma'a al-abrar.*
 
@@ -68,13 +69,15 @@ The verse says: **innana sami'na munadiyan yunadi li-al-iman**.
 
 Indeed, we heard a caller calling to faith.
 
-The root **s-m-'** is hearing, and the word **munadi** from **n-d-y** is a caller, one who raises a summons publicly, one whose voice reaches others and gathers them.
+The root **s-m-'** is hearing, and the word **munadi** from **n-d-w** (nūn-dāl-wāw) is a caller, one who raises a summons publicly, one whose voice reaches others and gathers them.
 
 [PAUSE]
 
 This is beautiful because it gives iman the texture of response.
 
 Faith is not portrayed here as something generated in sealed isolation. It is hearing and answering. A voice reached us. A call entered our awareness. The soul was addressed and then moved.
+
+The classical commentators paused over who this caller actually was, and here there is a genuine disagreement worth knowing. Al-Tabari opens his commentary by noting that the people of interpretation differed over the *munadi*: some of the early exegetes held that the caller is the Qur'an itself — the recited summons that reaches every listener; others held that he is the Prophet Muhammad ﷺ, the living human voice calling his people to belief. Al-Muyassar reads it plainly as the Prophet ﷺ. The verse itself does not settle the question, and perhaps that openness is fitting, because whether the call arrives through the recited Book or the messenger who recites it, the shape of faith is the same: a summons that came toward us first, and a soul that answered.
 
 That means humility is built into the verse from the beginning. We believe, yes, but our belief is already framed as response to a grace that came toward us first.
 
@@ -85,6 +88,8 @@ And notice the phrase **li-al-iman**. The caller is not calling to himself, not 
 Then the call is quoted: **an aminu bi-rabbikum**. Believe in your Lord.
 
 This is not simply "believe in God" in an abstract sense. It is **bi-rabbikum** - in your Lord, the One who raised, sustained, shaped, and cared for you. The command to iman is rooted in relationship.
+
+Al-Muyassar unfolds what this single command was actually asking for, and it is fuller than bare assent: to affirm the truth of your Lord (*tasdiq*), to acknowledge His oneness (*al-iqrar bi-wahdaniyyatih*), and to live by His law (*al-'amal bi-shar'ih*). Faith here is not a passing thought in the mind; it is confession of tawhid and a life reshaped to match it.
 
 Then comes the believers' answer: **fa-amanna**. So we believed.
 
@@ -105,7 +110,7 @@ Then the du'a unfolds: **fa-ghfir lana dhunubana wa kaffir 'anna sayyi'atina**.
 
 Forgive for us our sins, and efface from us our misdeeds.
 
-The root **gh-f-r** carries the sense of covering, forgiving, shielding. It is not mere legal cancellation. It carries mercy, concealment, and protection from the consequences of what would otherwise expose us.
+The root **gh-f-r** carries the sense of covering, forgiving, shielding. It is not mere legal cancellation. It carries mercy, concealment, and protection from the consequences of what would otherwise expose us. Al-Muyassar's own gloss confirms this covering texture: he renders the plea as *ustur 'uyubana* — conceal our faults. To be forgiven, in this reading, is to have what would shame us drawn back behind the veil of divine mercy.
 
 Then **kaffir 'anna** from **k-f-r** in this verbal form means to cover over, efface, wipe away. The pairing is remarkable.
 
@@ -127,7 +132,7 @@ Then the du'a rises to its final request: **wa tawaffana ma'a al-abrar**.
 
 Take us fully in death with the righteous.
 
-The root **w-f-y** in **tawaffana** carries completeness: to take fully, to gather the soul at death in full taking. And **al-abrar** from **b-r-r** are the truly righteous, the people of deep moral goodness, breadth of virtue, and truthful alignment.
+The root **w-f-y** in **tawaffana** carries completeness: to take fully, to gather the soul at death in full taking. And **al-abrar** from **b-r-r** are the truly righteous, the people of deep moral goodness, breadth of virtue, and truthful alignment. Al-Muyassar reads the request as *alhiqna bil-salihin* — join us to the company of the righteous — so the plea is not only about the moment of death but about the belonging that death delivers us into.
 
 [PAUSE]
 
@@ -155,7 +160,7 @@ Yes, they say, "So we believed."
 
 And then immediately they ask for forgiveness, expiation, and a righteous death.
 
-That is the psychology of the sincere believer. Faith does not make him complacent; it makes him more lucid. The closer he comes to Allah, the less impressed he is by himself and the more urgent his need for mercy becomes.
+That is the psychology of the sincere believer. Faith does not make him complacent; it makes him more lucid. The closer he comes to Allah, the less impressed he is by himself and the more urgent his need for mercy becomes. It is worth remembering, as Ibn Kathir notes, that this whole prayer is placed in the mouths of the *ulul-albab* — the people of understanding who first looked long at the heavens and the earth and the alternation of night and day. These are not careless souls; they are the most reflective of people, and yet their reflection ends not in self-assurance but in a plea to be forgiven.
 
 ### Theme 2: The Healthiest Faith Is Neither Self-Congratulating Nor Despairing
 

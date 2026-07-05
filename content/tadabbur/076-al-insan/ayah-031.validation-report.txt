@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/076-al-insan/ayah-031.md
+Ayah: 76:31
+Date: 2026-06-18T09:18:38
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يُدْخِلُ=He admits | مَن=whom | يَشَآءُ=He wills | فِى=to | رَحْمَتِهِۦ‌ۚ=His mercy, | وَٱلظَّـٰلِمِينَ=but (for) the wrongdoers, | أَعَدَّ=He has prepared | لَهُمْ=for them | عَذَابًا=a punishment | أَلِيمَۢا=painful.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "He keeps admitting, He goes on admitting, the door keeps opening" — The imperfect (*mudāriʿ*) aspect of يُدْخِلُ does carry habituality/ongoing-action in Arabic, but applying this eschatologically (mercy as an ever-opening door *after* judgment) is an interpretive extension beyond what the tafsir sources state. None of the four sources — Jalalayn, Muyassar, Qurtubi, Baghawi — draw this inference from the tense. The tense observation itself is linguistically valid; the eschatological gloss is the addition. Worth softening from assertion to reflection ("*as if* the door keeps opening") rather than presenting it as what the grammar means.
+
+- No issues found with:
+  - **Form IV verb claim**: يُدْخِلُ as causative ("He admits" vs base *dakhala* "he entered") — lexically correct and confirmed by the word-by-word reference.
+  - **Jalalayn gloss**: "Al-Jalalayn glosses *His mercy* as *His Garden*" — confirmed exactly: «جنته وهم المؤمنون».
+  - **Elided verb structure**: The concepts field flags "elided-verb," supported by both Jalalayn (فعل مقدر) and Qurtubi (بإضمار يعذب).
+  - **أَعَدَّ as perfect/past tense vs يُدْخِلُ as imperfect** — tense contrast is real and accurately described.
+  - **76:30 summary**, **76:1–3 summary**, **closing-ayah status of 76:31** — all accurate.
+
+SUMMARY: One interpretive overreach on the eschatological reading of the imperfect tense; everything else is linguistically and traditionally well-grounded.

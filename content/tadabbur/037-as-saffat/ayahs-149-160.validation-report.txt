@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/037-as-saffat/ayahs-149-160.md
+Ayah: 37:149
+Date: 2026-06-05T09:58:23
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَٱسْتَفْتِهِمْ=Then ask them, | أَلِرَبِّكَ=`Does your Lord | ٱلْبَنَاتُ=(have) daughters | وَلَهُمُ=while for them | ٱلْبَنُونَ=(are) sons?`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "فَٱسْتَفْتِهِمْ… Form X of the verb — istaf-ʿala… to seek a ruling" — Morphologically accurate. استفتى is Form X (استفعل) from root ف-ت-ي/و; the Leeds corpus note in the frontmatter confirms "verb form X (istafti)." The semantic gloss "to seek the thing the root names" is standard Arabic morphology doctrine.
+- [PASS] "fatā — a young man, in his prime… from the same root you get… fatwā" — The root connection (ف-ت-ي/و → فتى, فتوى, استفتاء) is lexically attested in Mufradāt al-Rāghib; not contradicted by any provided reference.
+- [PASS] "سؤال توبيخ… deepest sarcasm in the most dignified possible register" — Baghawi explicitly calls this "سؤال توبيخ" (question of rebuke); Jalalayn uses "توبيخاً لهم." The reflection's register-of-deference framing is a faithful literary expansion of what the classical sources encode.
+- [PASS] "those very men were saying, about… the angels — those are God's daughters" — Confirmed by all four tafsir sources: Jalalayn (بزعمهم أن الملائكة بنات الله), Muyassar, Qurtubi, Baghawi all state the Quraysh attributed daughters to Allah while reserving sons for themselves.
+- [PASS] Procession of prophets (Nuh, Ibrahim, Musa, Harun, Ilyas, Lut, Yunus) — matches the surah's actual sequence; the "salāmun ʿalā / min ʿibādinā l-muʾminīn" refrain accurately reflects 37:79, 37:109, 37:120, 37:130.
+- [NOTE] Validation scope: only 37:149 word-by-word data was supplied. Claims touching 37:150–160 (ifk etymology, mukhlaṣīn, the jinn-kinship verse) are internally coherent but cannot be fully verified against the provided reference set. No errors detected in what is checkable.
+
+SUMMARY: Every verifiable linguistic and exegetical claim in the excerpt is accurate and well-grounded; no critical or moderate errors found, and the formal sarcasm reading is directly supported by the classical توبيخ characterization.

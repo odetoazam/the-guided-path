@@ -1,0 +1,37 @@
+Enhanced Validation Report
+File: content/tadabbur/036-ya-sin/ayah-010.md
+Ayah: 36:10
+Date: 2026-06-05T07:23:51
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَسَوَآءٌ=And it (is) same | عَلَيْهِمْ=to them | ءَأَنذَرْتَهُمْ=whether you warn them | أَمْ=or | لَمْ=(do) not | تُنذِرْهُمْ=warn them, | لَا=not | يُؤْمِنُونَ=they will believe.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- None found. All checkable claims verify against the provided reference data.
+
+Checked items:
+- **Arabic text**: Matches authentic Arabic exactly. ✓
+- **Root س-و-ي (s-w-y)** for سَوَاء: Correct — *sawāʾ* derives from s-w-y (istiwāʾ = levelness/equality). ✓
+- **82:7 cross-reference** (*فَسَوَّىٰكَ فَعَدَلَكَ*): Accurate partial quote from Surat al-Infiṭār; attribution and verse number correct. ✓
+- **أنذر/تنذر as Form IV**: Correct — أَنذَرْتَهُمْ and تُنذِرْهُمْ are both Form IV (أفعل) transitive. ✓
+- **يُؤْمِنُونَ as Form IV**: Correct — آمن يؤمن is Form IV. ✓
+- **"Eight words"**: Verified by count: وَسَوَآءٌ / عَلَيْهِمْ / ءَأَنذَرْتَهُمْ / أَمْ / لَمْ / تُنذِرْهُمْ / لَا / يُؤْمِنُونَ = 8. ✓
+- **36:8–9 paraphrases**: Accurate summaries of the shackle/barrier imagery. ✓
+- **No scholar attributions made**: The reflection makes no named tafsir attributions that could be inverted or overstated. ✓
+- **Qadar angle** (tagged in frontmatter): Qurtubi explicitly notes this ayah refutes the Qadariyyah — the reflection's engagement with divine knowledge vs. human choice is within warranted territory. ✓
+
+SUMMARY: The reflection's linguistic analysis, morphological claims, cross-references, and contextual framing are all accurate against the provided data; no errors detected in the validated portion.

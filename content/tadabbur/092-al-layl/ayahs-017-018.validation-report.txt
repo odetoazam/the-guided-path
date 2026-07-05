@@ -1,0 +1,46 @@
+Enhanced Validation Report
+File: content/tadabbur/092-al-layl/ayahs-017-018.md
+Ayah: 92:17
+Date: 2026-06-18T20:16:28
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَسَيُجَنَّبُهَا=But will be removed from it | ٱلْأَتْقَى=the righteous,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- None identified.
+
+SUMMARY: All linguistic, morphological, and tafsir-grounded claims in the reviewed portion are accurate and defensible from the provided reference data.
+
+---
+
+**Supporting verification notes** (for the record):
+
+**Root j-n-b:** Correctly identified as "side/flank" — lexically attested and consistent with classical usage (ʿalā junūbihim etc.). ✓
+
+**Form II passive analysis:** يُجَنَّبُ is correctly identified as passive Form II (pattern: yu-fannabu vs. active yu-fannibu). The doubling is on the middle radical nūn — accurate. ✓
+
+**Active vs. passive contrast (yaṣlā / yujannab):** The claim that yaṣlāhā (92:15) is active while yujannabuhā is passive is morphologically correct and the theological inference drawn from it ("the wretched walks in; the righteous is pulled back") is a legitimate interpretive move, not an overstatement. ✓
+
+**sa- as future particle:** Accurate. ✓
+
+**Root attributions in morphology note** (wqy → taqwā/atqā, ʾty → yuʾtī, zkw → yatazakkā): All standard and correct. ✓
+
+**Al-Jalālayn alignment:** The reflection's rendering "kept far from it" maps directly to يبعد عنها in al-Jalālayn. ✓
+
+**Al-Qurṭubī (Ibn ʿAbbās / Abū Bakr tradition):** The reflection does not mention this narration — that is a non-issue. Omitting a particular tafsir opinion is not an error.
+
+**No scholar positions overstated.** No attributions made that contradict or invert the provided sources.

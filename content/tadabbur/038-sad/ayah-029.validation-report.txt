@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/038-sad/ayah-029.md
+Ayah: 38:29
+Date: 2026-06-06T00:57:48
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: كِتَـٰبٌ=(This is) a Book | أَنزَلْنَـٰهُ=We have revealed it | إِلَيْكَ=to you, | مُبَـٰرَكٌ=blessed, | لِّيَدَّبَّرُوٓاْ=that they may ponder | ءَايَـٰتِهِۦ=(over) its Verses | وَلِيَتَذَكَّرَ=and may be reminded | أُوْلُواْ ٱلْأَلْبَـٰبِ=those of understanding.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR — NOT FLAGGED AS MODERATE] "Grammarians call this tanwīn al-tafkhīm or tanwīn al-taʿẓīm" — the underlying phenomenon (using nakirah for ta'zīm) is a real and attested balāghah device, but the specific term "tanwīn al-tafkhīm" is not in the provided reference data and is more accurately categorized under balāghah (rhetoric) than naḥw (grammar). Classical tafsirs here (Jalalayn, Qurtubi, Baghawi) all explain kitābun as the predicate of a deleted demonstrative — hādhā kitāb — without invoking tafkhīm terminology. The rhetorical observation is sound; the labeling slightly overstates its standardization. This is too minor to rise to MODERATE.
+
+All other claims verified:
+
+- **Deleted demonstrative / kitābun as khabar**: Confirmed verbatim from all three tafsirs. Jalalayn: خبر مبتدأ محذوف أي هذا. Qurtubi: أي هذا كتاب. Baghawi: أي هذا الكتاب. Attribution accurate.
+- **Idghām of tāʾ into dāl in li-yaddabbarū**: Confirmed by Jalalayn (أدغمت التاء في الدال) and Qurtubi (فأدغمت التاء في الدال).
+- **Root د-ب-ر meaning "back/rear/consequence"**: Attested in Lisān al-ʿArab and Mufradāt al-Rāghib as the reflection notes. Form V tadabbur as "following a thing to its end" is lexically accurate.
+- **al-Mudabbir and tadbīr**: Quranic usage confirmed (10:3, 32:5).
+- **Awwāb applied to Dawud, Sulayman, Ayyub in Surah Sad**: Accurate — 38:17, 38:30, 38:44.
+- **Two-audience split (unnamed "they" vs. ūlū al-albāb)**: Accurately observed from the text itself; not an over-claim.
+- **Arabic text**: Matches authentic Arabic (minor Unicode rendering difference only, not a content error).
+
+SUMMARY: The reflection is linguistically rigorous, tafsir citations are accurate and correctly attributed, and all grammatical and morphological claims are grounded — the only note is that "tanwīn al-tafkhīm" is a balāghah term not standardized in naḥw literature, but the rhetorical phenomenon it describes is real.

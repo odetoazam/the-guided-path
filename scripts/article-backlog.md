@@ -30791,6 +30791,12 @@ Topics surfacing from web research (Reddit inaccessible this run; signals from G
 ## Session Log
 | Date | Entity | Articles Written | Notes |
 |------|--------|-----------------|-------|
+| 2026-07-05 | regeneration (tadabbur) | 1 ayah record | 38:36-40 — REPAIRED via regenerate-destroyed.py (enricher-destroyed stub). Validators + completeness gate pass. ✅ |
+| 2026-07-05 | regeneration (tadabbur) | 1 ayah record | 26:96-102 — REPAIRED via regenerate-destroyed.py (enricher-destroyed stub). Validators + completeness gate pass. ✅ |
+| 2026-07-05 | regeneration (tadabbur) | 1 ayah record | 26:52-60 — REPAIRED via regenerate-destroyed.py (enricher-destroyed stub). Validators + completeness gate pass. ✅ |
+| 2026-07-05 | regeneration (tadabbur) | 1 ayah record | 22:56-57 — REPAIRED via regenerate-destroyed.py (enricher-destroyed stub). Validators + completeness gate pass. ✅ |
+| 2026-07-05 | regeneration (tadabbur) | 1 ayah record | 28:23-28 — REPAIRED (tag cleanup on earlier regeneration; prose untouched, verified). All validators pass. ✅ |
+| 2026-07-05 | regeneration (tadabbur) | 1 ayah record | 25:63-74 — REPAIRED (tag cleanup on earlier regeneration; prose untouched, verified). All validators pass. ✅ |
 | 2026-07-05 | regeneration (tadabbur) | 1 ayah record | 52:48-49 — REPAIRED via regenerate-destroyed.py (enricher-destroyed stub). Validators + completeness gate pass. ✅ |
 | 2026-07-05 | regeneration (tadabbur) | 1 ayah record | 51:38-40 — REPAIRED via regenerate-destroyed.py (enricher-destroyed stub). Validators + completeness gate pass. ✅ |
 | 2026-07-05 | regeneration (tadabbur) | 1 ayah record | 43:63-65 — REPAIRED via regenerate-destroyed.py (enricher-destroyed stub). Validators + completeness gate pass. ✅ |

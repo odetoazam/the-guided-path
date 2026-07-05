@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/045-al-jathiyah/ayah-022.md
+Ayah: 45:22
+Date: 2026-06-08T02:29:20
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَخَلَقَ ٱللَّهُ=And Allah created | ٱلسَّمَـٰوَٲتِ=the heavens | وَٱلْأَرْضَ=and the earth | بِٱلْحَقِّ=in truth | وَلِتُجْزَىٰ=and that may be recompensed | كُلُّ=every | نَفْسِۭ=soul | بِمَا=for what | كَسَبَتْ=it has earned, | وَهُمْ=and they | لَا يُظْلَمُونَ=will not be wronged.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] Arabic text matches the AUTHENTIC ARABIC exactly, including all diacritics and Unicode forms.
+- [PASS] "Al-Qurtubi glosses it as *bil-amr al-ḥaqq*" — verified directly: Qurtubi provides "أي بالأمر الحق" word for word.
+- [PASS] "Al-Jalalayn notes that *bil-ḥaqq* is grammatically attached to *khalaqa*, 'created,' and that it points to Allah's power and His oneness" — verified directly: Jalalayn reads "متعلق بخلق ليدل على قدرته ووحدانيته," matched verbatim.
+- [PASS] The three contrasting terms (bāṭil from 38:27, laʿib from 44:38-39, ʿabath from 23:115) are derived from Quranic cross-references, not falsely attributed to a tafsir. The reflection presents them as a synthesis, not a classical ruling.
+- [PASS] The muyassar adds "والعدل والحكمة" (justice and wisdom) to bil-ḥaqq — the reflection omits these but does not contradict them. Omission is not an error.
+- [PASS] 45:21 paraphrase ("equal in their life and their death") accurately renders سَوَآءً مَّحْيَاهُمْ وَمَمَاتُهُمْ.
+- [PASS] Morphological header note ("all verbs are Form I") is consistent with the three verbs visible in the ayah (خَلَقَ, كَسَبَتْ, يُظْلَمُونَ — the last being Form I passive).
+
+SUMMARY: Every verifiable scholarly attribution checks out against the provided tafsir data; no root errors, no inverted positions, no undocumented factual claims.

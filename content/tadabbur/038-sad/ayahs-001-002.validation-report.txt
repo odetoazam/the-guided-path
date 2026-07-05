@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/038-sad/ayahs-001-002.md
+Ayah: 38:1
+Date: 2026-06-06T00:11:30
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: صٓ‌ۚ=Saad. | وَٱلْقُرْءَانِ=By the Quran | ذِى ٱلذِّكْرِ=full (of) reminder.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "Allah knows best what He intends by it" attributed to Al-Jalālayn — confirmed verbatim: «الله أعلم بمراده به»
+- [PASS] "jawāb hādhā al-qasam maḥdhūf" attributed to Al-Jalālayn — confirmed: «وجواب هذا القسم محذوف»
+- [PASS] Muḥammad ibn Kaʿb al-Quraẓī → *aṣ-Ṣamad* + *Ṣādiq al-waʿd* — confirmed in Al-Baghawī: «مفتاح اسم الصمد، وصادق الوعد»
+- [PASS] Al-Ḍaḥḥāk → *ṣadaqa Allāh* — confirmed in Al-Baghawī: «معناه صدق الله»
+- [PASS] Ibn ʿAbbās → *ṣadaqa Muḥammadun ﷺ* — confirmed in Al-Baghawī: «صدق محمد ﷺ»
+- [PASS] "Makkan, by the agreement of the commentators" — confirmed in Al-Qurtubī: «مكية في قول الجميع»
+- [NOTE] "full of reminder" for *ذِى ٱلذِّكْرِ* — the word-by-word reference supports this reading; Al-Jalālayn additionally gives *al-bayān* (clarification) and *al-sharaf* (honor). The frontmatter tag `dhikr-as-honor` signals awareness of the fuller range. Not an error; the base translation is defensible.
+
+SUMMARY: All four scholar attributions verify cleanly against the provided tafsir sources, the omitted-oath-answer analysis is directly corroborated by Al-Jalālayn's explicit *maḥdhūf* notation, and no factual claims exceed what the reference data supports.

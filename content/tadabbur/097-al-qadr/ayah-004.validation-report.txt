@@ -1,0 +1,37 @@
+Enhanced Validation Report
+File: content/tadabbur/097-al-qadr/ayah-004.md
+Ayah: 97:4
+Date: 2026-06-20T05:34:58
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: تَنَزَّلُ=Descend | ٱلْمَلَـٰٓئِكَةُ=the Angels | وَٱلرُّوحُ=and the Spirit | فِيهَا=therein, | بِإِذْنِ=by (the) permission | رَبِّهِم=(of) their Lord, | مِّن=for | كُلِّ=every | أَمْرٍ=affair,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+
+- [MODERATE] "He **compresses the word itself**... The descent is so eager, so unhindered, that even the *word* sheds weight to come down faster. The grammar does not lumber. It hurries." — The elision of one tā' in *tanazzalu* (from *tatanazzalu*) is **obligatory Arabic morphophonology**, not a compositional choice unique to this ayah. Every Form V verb (*tafaʿʿala*) in the present tense (*mudāriʿ*) drops one tā' throughout the Quran and the language (e.g., *tabayyana*, *tabayyanu*; *taqallaba*, *taqallabu*). Jalalayn's *bi-ḥadhfi iḥdā-t-tā'ayn* is a descriptive grammatical note explaining the surface form — it carries no implication of urgency or divine eagerness. Presenting a universal grammar rule as a theologically intentional act of "lightening" specific to this descent overstates what the sources license.
+
+- [PASS] Jalalayn citation — "bi-ḥadhfi iḥdā-t-tā'ayn min al-aṣl" — quoted accurately and sourced correctly from the provided tafsir text.
+
+- [PASS] Qurtubi paraphrase — "from every heaven, and from Sidrat al-Muntahā… until the rising of the dawn" — matches the Qurtubi source verbatim (*min kulli samā', wa-min sidrat al-muntahā… ilā waqt ṭulūʿ al-fajr*).
+
+- [PASS] Form V (*tafaʿʿala*) as gradual/iterative descent — linguistically standard and not contradicted by any of the provided sources.
+
+- [PASS] Present tense (*mudāriʿ*) reading as habitual/perennial — defensible; supported by Muyassar's use of *yakthurun* (present habitual) for the same event.
+
+- [PASS] Root n-z-l, Arabic text in frontmatter, and translation — all accurate.
+
+SUMMARY: One moderate issue — the tā' elision is framed as a purposive divine compression ("eager," "sheds weight") when it is obligatory Arabic grammar applying universally to all Form V present-tense verbs; no critical errors found in the reviewed portion.

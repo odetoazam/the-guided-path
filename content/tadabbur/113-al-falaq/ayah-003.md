@@ -14,7 +14,7 @@ passage_context: "Surah Al-Falaq begins with a command to take refuge in the Lor
 generated_by: "fable-tadabbur-auto"
 validated: true
 validation_date: "2026-06-20"
-semantic_review: "opus-generated-2026-06-20"
+semantic_review: "enriched-2026-07-03"
 tags: [refuge, darkness, fear, vulnerability, al-falaq, muawwidhatayn, anxiety, the-unseen]
 concepts: [istiadha, ghasiq, waqaba, undefined-fear, moment-of-vulnerability, light-and-dark]
 related_ayahs: ["113:1", "113:2", "113:4", "113:5", "114:1", "92:1", "2:257"]
@@ -46,7 +46,7 @@ Hold onto that feeling. Because that feeling — the dread that has no name, the
 
 Let me rebuild the world this surah was given into.
 
-Surah Al-Falaq is one of the two surahs we call *al-Muʿawwidhatān* — "the two surahs of seeking refuge." They are among the most repeated words in a Muslim's life. We say them after every prayer. We say them blowing into our hands at night. We teach them to children who cannot yet read. They are, for most of us, so familiar that they have gone almost silent — like a phrase you've said ten thousand times until you no longer hear it.
+Surah Al-Falaq is one of the two surahs we call *al-Muʿawwidhatān* — "the two surahs of seeking refuge." They are among the most repeated words in a Muslim's life. We say them after every prayer. We say them blowing into our hands at night. We teach them to children who cannot yet read. And the early commentators preserve how they came to us: Ubayy ibn Kaʿb related that the Prophet ﷺ told him Jibrīl himself brought these words — *Qul aʿūdhu bi-Rabbi-l-falaq*, *Qul aʿūdhu bi-Rabbi-n-nās* — dictated from the unseen for the very purpose we still put them to. They are, for most of us, so familiar that they have gone almost silent — like a phrase you've said ten thousand times until you no longer hear it.
 
 But step back into the world of the first listeners. Imagine the Arabian night before electricity — a darkness we, who can banish night with a switch, can barely conceive of. When the sun went down, the world genuinely *disappeared*. The predator, the enemy, the snake, the raiding party — all of them belonged to the dark. The night was not a poetic image of fear. It was the literal container of almost everything a person had reason to fear. And there was nothing to do about it but wait for the dawn.
 
@@ -139,6 +139,8 @@ Darkness, in the grammar of this ayah, is not absence. It is **an active presenc
 And here the Arabic does something so precise it should stop your breath. Remember *al-waqb* — the *cavity*, the *socket*. What is the most familiar socket in your own body? **The eye.** The eye sits in its *waqb*, its hollow. And what is it that pours into the hollow of your eye when the light fails? The dark. *Waqaba* is, at the root, the verb of darkness entering the very socket through which you were supposed to see. **It floods the instrument of your vision and fills it with itself.**
 
 This is not me adding poetry to the text. This is the lexical bedrock — *waqb*, the cavity; *waqaba*, the entering-into-the-cavity — sitting right there in the word Allah chose, when He could have chosen a dozen flatter verbs for "it got dark."
+
+And you can hear the classical *mufassirūn* refusing that flatter reading too. Al-Muyassar, whose entire task is to give the plainest, most careful sense of the word, does not gloss *waqaba* as "grew dark" and stop. He renders the night *idhā dakhala wa-taghalghal* — **when it entered and infiltrated deep** — reaching for *two* verbs of penetration where one word of arrival would have sufficed. Even the most sober, unornamented reading of this ayah heard the dark not merely falling, but *getting in.*
 
 [PAUSE]
 

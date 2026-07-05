@@ -1,0 +1,28 @@
+Enhanced Validation Report
+File: content/tadabbur/004-an-nisa/ayah-161.md
+Ayah: 4:161
+Date: 2026-06-25T06:07:30
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَأَخْذِهِمُ=And for their taking | ٱلرِّبَوٲاْ=(of) [the] usury | وَقَدْ=while certainly | نُهُواْ=they were forbidden | عَنْهُ=from it | وَأَكْلِهِمْ=and (for) their consuming | أَمْوَٲلَ=wealth | ٱلنَّاسِ=(of) the people | بِٱلْبَـٰطِلِ‌ۚ=wrongfully. | وَأَعْتَدْنَا=And We have prepared | لِلْكَـٰفِرِينَ=for the disbelievers | مِنْهُمْ=among them | عَذَابًا=a punishment | أَلِيمًا=painful.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Of those who consume the wealth of orphans unjustly, Allah says they are 'only eating fire into their bellies' (2:174)" — The citation is wrong. Ayah 2:174 applies the fire-eating image to scholars who conceal scripture for worldly gain: *"those who conceal what Allah has sent down of the Book and exchange it for a small price — those consume not into their bellies except the Fire."* The verse that ties the fire-eating image specifically to orphan wealth is **4:10**: *"إِنَّ الَّذِينَ يَأْكُلُونَ أَمْوَالَ الْيَتَامَىٰ ظُلْمًا إِنَّمَا يَأْكُلُونَ فِي بُطُونِهِمْ نَارًا."* The rhetorical point (eating wrongful wealth = eating fire) is sound and Quranic; the citation reference is simply wrong.
+
+Everything else in the truncated text holds up: the Arabic matches exactly; the maṣdar (verbal noun) analysis of *akhdhihim* and *aklihim* is linguistically accurate; the passage context (4:153–162 ledger, the hinge at 4:160, the mercy toward the firmly grounded at 4:162) is correct; the partitive reading of *lil-kāfirīna minhum* ("among them") is well-grounded and consistent with all four tafsir sources provided; al-Baghawi's specification that the prohibition was in the Torah is not overstated. No CRITICAL issues identified in the portion reviewed.
+
+SUMMARY: One wrong cross-reference — 2:174 for orphan wealth, should be 4:10 — in an otherwise linguistically careful and tafsir-consistent reflection.

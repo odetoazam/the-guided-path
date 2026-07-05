@@ -1,0 +1,28 @@
+Enhanced Validation Report
+File: content/tadabbur/055-ar-rahman/ayah-022.md
+Ayah: 55:22
+Date: 2026-06-12T00:03:16
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَخْرُجُ=Come forth | مِنْهُمَا=from both of them | ٱللُّؤْلُؤُ=the pearl | وَٱلْمَرْجَانُ=and the coral.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "One vowel. One internal shift." — The passive/active alternation involves **two** vowel changes, not one. Al-Qurtubi records this precisely: passive is read **"بضم الياء وفتح الراء"** (damma on the yā, fatha on the rā) versus active **"بفتح الياء وضم الراء"** (fatha on the yā, damma on the rā). Al-Baghawi confirms the same dual shift. Telling a lay reader "one vowel" misstates the morphological mechanism and will mislead anyone who tries to verify it or apply the principle elsewhere.
+
+No other issues found. The qirāʾāt attribution to Nāfiʿ and Abū ʿAmr for the passive reading is confirmed by both al-Qurtubi and al-Baghawi (who names them as "ahl al-Madinah wa al-Basrah," which maps to exactly those two imams). The "pearls from salt water only" tension is accurately grounded — al-Baghawi states plainly "إنما يخرج من المالح دون العذب," al-Jalalayn confirms "وهو الملح," and the reflection's framing of that tension as the surah's deliberate rhetorical move is interpretively coherent without overclaiming factual status. The Arabic passive grammar explanation (hidden agent / majhūl) is correct.
+
+SUMMARY: The reflection is linguistically and tafsir-grounded throughout; the single issue is a factual oversimplification — two vowel changes described as one — which should be corrected before publication.

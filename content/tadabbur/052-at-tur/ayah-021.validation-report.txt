@@ -1,0 +1,30 @@
+Enhanced Validation Report
+File: content/tadabbur/052-at-tur/ayah-021.md
+Ayah: 52:21
+Date: 2026-06-09T14:31:31
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَٱلَّذِينَ=And those who | ءَامَنُواْ=believed | وَٱتَّبَعَتْهُمْ=and followed them | ذُرِّيَّتُهُم=their offspring | بِإِيمَـٰنٍ=in faith, | أَلْحَقْنَا=We will join | بِهِمْ=with them | ذُرِّيَّتَهُمْ=their offspring | وَمَآ=and not | أَلَتْنَـٰهُم=We will deprive them | مِّنْ=of | عَمَلِهِم=their deeds | مِّن=(in) any | شَىْءٍ‌ۚ=thing. | كُلُّ=Every | ٱمْرِىِٕۭ=person | بِمَا=for what | كَسَبَ=he earned | رَهِينٌ=(is) pledged.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR NOTE] "sits in the eighth form — a form that carries a sense of the subject *taking on* the action themselves" — Form VIII (افتعل) has multiple functions; characterizing it as inherently reflexive/self-involving is a pedagogical simplification. However, it holds accurately for اتَّبَعَ specifically, so this is not an error.
+- [CONFIRMED ACCURATE] Root ت-ب-ع for وَاتَّبَعَتْهُمْ as Form VIII, and the feminine singular agreement of *ittaba'at* with the collective feminine *dhurriyya* — both correct.
+- [CONFIRMED ACCURATE] Root ل-ح-ق for أَلْحَقْنَا as Form IV, meaning "to cause to catch up / to attach the trailing one to the one ahead" — confirmed in lexicons and in the causative-transitive usage attested here.
+- [CONFIRMED ACCURATE] Core theological narrative (children elevated to parents' rank without diminishing parents' deeds) — directly supported by al-Jalalayn ("فيكونون في درجتهم وإن لم يعملوا تكرمة للآباء"), al-Muyassar ("في منزلتهم في الجنة، وإن لم يبلغوا عمل آبائهم؛ لتَقَرَّ أعين الآباء"), with both sources naming *qurrat al-ʿayn* as the divine motive.
+- [CONFIRMED ACCURATE] Arabic text in the reflection matches the authentic Arabic (Unicode representation differs; substantive text is identical).
+
+SUMMARY: The first 8,000 characters contain no factual, morphological, or attributional errors — all verb form analyses, root identifications, and theological claims are consistent with the word-by-word data and the four tafsir sources provided.

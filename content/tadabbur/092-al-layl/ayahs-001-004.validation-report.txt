@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/092-al-layl/ayahs-001-004.md
+Ayah: 92:1
+Date: 2026-06-18T19:59:25
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَٱلَّيْلِ=By the night | إِذَا=when | يَغْشَىٰ=it covers,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "wal-layli idhā yaghshā" — root and form correct; Leeds corpus note (W3 g$w=Verb imperfect) aligns with standard morphological analysis
+- [PASS] "al-Qurtubī stops on exactly this and writes: wa lam yadhkur maʿahu mafʿūlan lil-ʿilmi bihi" — exact match to reference: «ولم يذكر معه مفعولا للعلم به». Quote is accurate and translation ("because it is already known") is correct
+- [PASS] "Qurtubī lists them. The night covers the day… the earth… the creatures, al-khalāʾiq… kulla shayʾin bi-ẓulmatihi" — exact match to reference sequence: «وقيل: يغشى النهار. وقيل: الأرض. وقيل: الخلائق. وقيل: يغشى كل شيء بظلمته»
+- [PASS] "Al-Baghawī reads it as the night covering the day with its darkness until the light is gone" — exact match: «يغشى النهار بظلمة فيذهب بضوئه»
+- [PASS] "Al-Jalālayn: covering with its darkness everything between the heaven and the earth" — exact match: «بظلمته كل ما بين السماء والأرض»
+- [PASS] "The same root gives us the word for a veil, a film over the eyes" — root غ-ش-ي gives *ghishāwah* (used in 2:7), attested in Mufradāt al-Rāghib
+- [NOTE] Reference data covers ayah 1 only. Ayahs 2–4 claims (tajallā, dhakara/unthā, shattā) are standard and consistent with al-Muyassar's provided summary but cannot be line-by-line verified from the supplied data
+
+SUMMARY: Every claim verifiable against the supplied reference data is precisely accurate — the Qurtubī quote, its translation, the full list of mafʿūl candidates, and both al-Baghawī and al-Jalālayn summaries all match exactly; no fabricated attributions or root errors detected.

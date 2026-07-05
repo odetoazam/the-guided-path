@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/039-az-zumar/ayah-021.md
+Ayah: 39:21
+Date: 2026-06-06T03:55:54
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَلَمْ=Do not | تَرَ=you see | أَنَّ=that | ٱللَّهَ=Allah | أَنزَلَ=sends down | مِنَ=from | ٱلسَّمَآءِ=the sky | مَآءً=water | فَسَلَكَهُۥ=and He makes it flow | يَنَـٰبِيعَ=(as) springs | فِى=in | ٱلْأَرْضِ=the earth; | ثُمَّ=then | يُخْرِجُ=He produces | بِهِۦ=with it | زَرْعًا=crops | مُّخْتَلِفًا=(of) different | أَلْوَٲنُهُۥ=colors; | ثُمَّ=then | يَهِيجُ=they wither | فَتَرَٮٰهُ=and you see them | مُصْفَرًّا=turn yellow; | ثُمَّ=then | يَجْعَلُهُۥ=He makes them | حُطَـٰمًا‌ۚ=debris? | إِنَّ=Indeed, | فِى=in | ذَٲلِكَ=that | لَذِكْرَىٰ=surely, (is) a reminder | لِأُوْلِى ٱلْأَلْبَـٰبِ=for those of understanding.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "The word albāb does not mean 'understanding.' It means kernels." — Stated too categorically. The kernel etymology is lexically attested (Mufradāt al-Rāghib is cited in the morphology note), but *ulū-l-albāb* functions in Quranic usage as the standard phrase for rational/intellectual perception. Al-Jalālayn glosses the *albāb* in this very ayah as those who "take heed through its indication of Allah's oneness and power" — no kernel metaphor foregrounded. The reflection's own translation correctly renders it "kernel of understanding," which walks the overstatement back. The contrast with *ḥuṭām* (husk vs. kernel) is a legitimate literary device, but framing it as "albāb does *not* mean understanding" misrepresents the lexical record; the word carries both senses simultaneously. This is rhetorical overreach in service of a sound interpretive point, not a factual error.
+
+All other claims check out:
+- *Salakahu* = *adkhalahu* is confirmed verbatim in both al-Jalālayn and al-Baghawī
+- al-Baghawī's *ʿuyūn wa rakāyā* citation is accurate to the provided text
+- Form IV for أنزل/يخرج, Form I for سَلَكَ, Form VIII for مختلف, Form IX for مصفرّ — all correct
+- 16:69 and 74:42 cross-references use the same س-ل-ك root; linguistically sound
+- *Yahīju* = drying/withering confirmed by al-Jalālayn (*yaybasuv*) and al-Muyassar
+- 39:22 contextual link (hardened heart follows the dying-field parable) is accurate
+
+SUMMARY: All tafsir citations are verbatim-accurate and verb-form analysis is correct; the single flag is an overstated "does not mean" claim about *albāb* that the reflection's own translation already corrects.

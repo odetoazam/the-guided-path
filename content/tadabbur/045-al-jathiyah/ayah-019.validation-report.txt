@@ -1,0 +1,44 @@
+Enhanced Validation Report
+File: content/tadabbur/045-al-jathiyah/ayah-019.md
+Ayah: 45:19
+Date: 2026-06-08T04:13:55
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّهُمْ=Indeed, they | لَن=never | يُغْنُواْ=will avail | عَنكَ=you | مِنَ=against | ٱللَّهِ=Allah | شَيْــًٔا‌ۚ=(in) anything. | وَإِنَّ=And indeed, | ٱلظَّـٰلِمِينَ=the wrongdoers | بَعْضُهُمْ=some of them | أَوْلِيَآءُ=(are) allies | بَعْضٍ‌ۖ=(of) others, | وَٱللَّهُ=and Allah | وَلِىُّ=(is the) Protector | ٱلْمُتَّقِينَ=(of) the righteous.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate issues found in the submitted portion.
+
+Specific checks performed:
+
+**Arabic text:** Matches the authentic Arabic exactly. ✓
+
+**Root غ-ن-ي analysis:** "The verb here is in Form IV — *aghnā / yughnī*" — يُغْنُوا is correctly identified as Form IV (أغنى). The semantic claim that Form IV takes the root outward ("to make sufficient/avail") is morphologically accurate. ✓
+
+**Particle لَن characterization:** Described as emphatic, sealed future negation — standard Arabic grammar, not overstated. ✓
+
+**شَيْئًا as total sweeping negation:** Accurate. Indefinite in negative context carries universal scope. ✓
+
+**Tafsir attribution on مِنَ ٱللَّهِ:** The reflection states "Al-Qurtubī, al-Baghawī, and the Jalālayn all gloss it the same way: they will not repel from you anything of Allah's punishment." This is directly verifiable from the provided sources — Qurtubī: *لا يدفعون عنك من عذاب الله شيئا*, Baghawī: *لن يدفعوا عنك من عذاب الله شيئا*, Jalālayn: *يدافعوا عنك من الله من عذابه شيئاً*. The claim of unanimity holds for all four provided sources. ✓
+
+**Contextual framing (45:18):** The characterization of the crowd as offering "belonging" and the Prophet ﷺ being commanded to follow the sharīʿah instead is consistent with al-Muyassar's framing (*الذين يدعونك إلى اتباع أهوائهم*). ✓
+
+**"Two kinds of belonging" framework:** Presented as interpretive analysis, not as a documented tafsir position. Structurally grounded in the verse's own contrast (awliyāʾ of ẓālimīn vs. Allah as waliyy of muttaqīn). ✓
+
+**One note (not a flag):** The Muyassar and Qurtubī specify that ظالمين includes munafiqīn and Jews in the Madinan context. The reflection uses the broad "wrongdoers" — which is accurate and non-misleading, but a deeper treatment might acknowledge the classical identification if the full reflection addresses that dimension.
+
+SUMMARY: The submitted portion is linguistically rigorous, all three tafsir attributions are directly verifiable from the provided sources, and interpretive claims are properly framed as such — no errors found.

@@ -1,0 +1,28 @@
+Enhanced Validation Report
+File: content/tadabbur/075-al-qiyamah/ayah-005.md
+Ayah: 75:5
+Date: 2026-06-18T08:05:27
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: بَلْ=Nay! | يُرِيدُ=Desires | ٱلْإِنسَـٰنُ=[the] man | لِيَفْجُرَ=to give (the) lie | أَمَامَهُۥ=(to) what is before him.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "The man's denial of the Day was never sitting in his head. It was sitting in his heart all along." — This frames the verse's meaning as exclusively about willful moral transgression (the Baghawi / Mujahid / Hasan reading: *"yurīdu an yafjura amāmahu"* = he wants to continue in sin for as long as he lives). But the word-by-word reference you supplied explicitly gives لِيَفْجُرَ = **"to give the lie"** (takdhīb), and both al-Jalalayn and al-Qurṭubī (citing Ibn ʿAbbās and ʿAbd al-Raḥmān ibn Zayd) read *fujūr* here as *takdhīb bi-l-Qiyāmah* — the specific act of *denying the resurrection*, not generic moral transgression. Al-Muyassar gives both readings explicitly side by side. The reflection adopts one branch of the ikhtilāf and presents it as the settled meaning, erasing the Ibn ʿAbbās / Jalalayn tradition entirely. The central thesis — "*this was never an intellectual argument, it was always about wanting to sin*" — is coherent under Baghawi's read but is itself a contested interpretive move, not an unambiguous Quranic verdict.
+
+- [MODERATE] Translation: **"to keep breaking loose"** for لِيَفْجُرَ encodes the Baghawi / moral-transgression reading at the level of the rendered English, with no signal to the reader that the dominant word-by-word meaning is "to give the lie / deny." A single parenthetical — *(or: "to keep denying what lies before him")* — would honestly represent the fork without diluting the reflection.
+
+SUMMARY: The reflection is linguistically sound (بَلْ as iḍrāb is correct, roots are correct, Arabic text matches), but its central argumentative turn depends on silently choosing Baghawi's reading of لِيَفْجُرَ over Ibn ʿAbbās's, presenting one branch of a live ikhtilāf as the definitive meaning of the ayah.

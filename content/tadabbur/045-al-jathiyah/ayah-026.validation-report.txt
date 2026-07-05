@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/045-al-jathiyah/ayah-026.md
+Ayah: 45:26
+Date: 2026-06-08T03:35:42
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: قُلِ=Say, | ٱللَّهُ=`Allah | يُحْيِيكُمْ=gives you life, | ثُمَّ=then | يُمِيتُكُمْ=causes you to die; | ثُمَّ=then | يَجْمَعُكُمْ=He will gather you | إِلَىٰ=to | يَوْمِ=(the) Day | ٱلْقِيَـٰمَةِ=(of) the Resurrection, | لَا=no | رَيْبَ=doubt | فِيهِ=about it.` | وَلَـٰكِنَّ=But | أَكْثَرَ=most | ٱلنَّاسِ=(of) the people | لَا=(do) not | يَعْلَمُونَ=know.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Al-Jalālayn, al-Qurṭubī, and al-Baghawī all anchor it the same way: *yuḥyīkum* — He gives you life — when you were a nuṭfa" — The Jalālayn and Qurṭubī attributions are directly confirmed by the provided reference data (Jalālayn: *حين كنتم نطفاً*; Qurṭubī: *بعد كونكم نطفا أمواتا*). The Baghawī excerpt provided contains no nuṭfa gloss — it reads only: *"قل الله يحييكم ثم يميتكم ثم يجمعكم إلى يوم القيامة"* with no elaboration on the origin. Baghawī's full Maʿālim al-Tanzīl may well contain this reading, but it cannot be verified from the reference data supplied, so presenting it as a confirmed three-scholar consensus overstates what the evidence supports.
+
+Everything else validates cleanly:
+- All three verbs (yuḥyī, yumīt, yajmaʿ) correctly identified as muḍāriʿ — confirmed by word-by-word data.
+- Form IV causative classification for yuḥyī and yumīt is linguistically accurate.
+- Qurṭubī's exact phrase *baʿda kawnikum nuṭafan amwātan* is quoted faithfully from the provided text.
+- Translation is accurate against the word-by-word reference.
+- Contextual framing (45:24 dahrite denial → 45:25 taunt → 45:26 rebuttal) aligns with Muyassar and Qurṭubī.
+
+SUMMARY: One moderate attribution overreach — the Baghawī nuṭfa claim cannot be confirmed from the provided reference data and should either be dropped from the three-scholar list or sourced independently.

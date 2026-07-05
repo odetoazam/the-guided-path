@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/091-ash-shams/ayahs-007-010.md
+Ayah: 91:7
+Date: 2026-05-14T23:20:52
+
+[1] Arabic text: ✅ pass
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَنَفْسٍ=And (the) soul | وَمَا=and He Who | سَوَّٮٰهَا=proportioned it,
+
+[4] quran-validator: ✅ pass
+  Passed:   1
+  Warnings: 3
+  Failed:   0
+
+⚠️  All verses matched but 3 had diacritics or partial differences.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "It is not decorative imagery. It is the **architecture of the ayahs themselves**." — The agricultural thread is etymologically grounded: *falaha* (plow), *zakkaha* (cultivate), *dassaha* (bury) all carry these connotations, and the observation is legitimate. But stating it as structural *fact* rather than interpretive *observation* overstates the case. None of the provided classical sources (Qurtubi, Baghawi, Jalalayn, Muyassar) describe these four ayahs as architecturally unified by an agricultural framework. They note meanings individually without drawing the connective thread the reflection draws. The insight is real; the certitude ("*not* decorative") is not sourced.
+
+All other claims check out:
+
+- **سَوَّىٰهَا as Form II (fa''ala)**: Correct. Intensive/deliberate proportioning vs. Form I's stative sense — accurate morphological distinction.
+- **أَلْهَمَ as Form IV causative from ل-ه-م**: Correct. Etymology from *lahima* (to swallow/gulp) is lexicographically attested in Lisan al-Arab; the "placed within, feels native" distinction from *ta'lim* and *wahy* is standard in Islamic epistemology.
+- **Root ف-ج-ر yielding both *fajr* and *fujur***: Correct. Both derive from the sense of splitting/bursting open — this is not a rhetorical flourish but a documented lexical relationship.
+- **Root و-ق-ي for *taqwa***: Confirmed by morphology annotation; "shield/protect" is the standard meaning.
+- **Possessive suffix *-ha* returning to the nafs**: Grammatically accurate. The theological reading ("they are native to it") is a reasonable and common inference.
+- **Fujur named before taqwa**: Factually accurate; the reflection presents this as a question to explore, not a claim attributed to a specific scholar — appropriate for tadabbur.
+- **Translation of *wa ma sawwaha* as "the One who proportioned it"**: The Jalalayn explicitly validates this reading (*ma* = *man*, referring to Allah) alongside the masdariyya reading. The choice is documented.
+- **Root ز-ك-و / د-س-و attributions**: Both match the morphology annotations exactly.
+
+SUMMARY: Morphologically precise throughout — every root, verb form, and Form II/IV analysis is accurate; the single moderate flag is one sentence that presents an etymologically sound but classically unsourced structural claim with more certainty than the reference material warrants.

@@ -1,0 +1,42 @@
+Enhanced Validation Report
+File: content/tadabbur/055-ar-rahman/ayah-053.md
+Ayah: 55:53
+Date: 2026-06-12T09:58:34
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَبِأَىِّ=So which | ءَالَآءِ=(of the) favors | رَبِّكُمَا=(of) your Lord | تُكَذِّبَانِ=will you both deny?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No errors detected in the verified portion.
+
+Specific checks against reference data:
+
+**Root/morphology claims** — All accurate. Root k-dh-b for تُكَذِّبَانِ correct; Form II (fa''ala) confirmed; dual endings (-kumā on رَبِّكُمَا, -āni on تُكَذِّبَانِ) correctly identified and explained.
+
+**"The dominant view — the view of the majority, recorded by al-Qurtubī — is that the two are al-thaqalān: the jinn and mankind."** — Qurtubī source verbatim: *"وهذا قول الجمهور"*. Attribution is exact. ✓
+
+**"Al-Qurtubī even preserves a narration — reported through Jābir and transmitted by al-Tirmidhī — in which...the jinn gave a more beautiful response than you did."** — Qurtubī source verbatim: *"يدل عليه حديث جابر المذكور أول السورة وخرجه الترمذي وفيه للجن أحسن منكم ردا."* Attribution, transmitter chain, and quoted content all match. The reflection appropriately hedges this as a narration, not a verse. ✓
+
+**Reference to 55:31 ("سنفرغ لكم أيها الثقلان")** — Confirmed in Qurtubī source as internal Quranic corroboration for the dual address. ✓
+
+**Reference to 55:33 ("O company of jinn and mankind")** — Consistent with the surah's own framing of al-thaqalān. ✓
+
+**Jinn from smokeless fire / humans from clay** — 55:14–15 (not in the provided reference slice but well-established Quranic text; the reflection does not cite these as anything other than Quranic facts). ✓
+
+**"Thirty-one times"** — Standard scholarly count for this refrain in Ar-Rahman; no dispute in the literature. ✓
+
+SUMMARY: Every verifiable claim in this reflection — dual grammar, tafsir attribution, hadith chain, Quranic cross-references, and root analysis — is accurate and appropriately qualified; no corrections warranted.

@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/092-al-layl/ayahs-012-013.md
+Ayah: 92:12
+Date: 2026-06-18T20:04:52
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّ=Indeed, | عَلَيْنَا=upon Us | لَلْهُدَىٰ=(is) the guidance.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "He places guidance on Himself the way you place a *debt* on a debtor — as something *owed,* something *incumbent,* something He has taken upon Himself" — The debt/obligation framing is a legitimate pedagogical use of ʿalā's incumbency register, and the Quran uses similar construction in 6:54 (كَتَبَ رَبُّكُمْ عَلَىٰ نَفْسِهِ الرَّحْمَةَ). However, al-Muyassar explicitly qualifies this as "بفضلنا وحكمتنا" — *by Our grace and wisdom* — a qualifier the reflection omits entirely. Stating Allah "obligated upon His own self" without the grace qualifier edges past what the classical sources preserve. Not a critical error, but the grace framing should appear somewhere to balance the incumbency reading.
+
+ISSUES (passing items confirmed):
+- Arabic text for 92:12 matches authentic Arabic exactly ✓
+- Taqdīm analysis is linguistically accurate: khabar (ʿalaynā) is advanced before ism (la-l-hudā); the principle "taqdīm mā ḥaqquhu al-taʾkhīr yufīdu al-ikhtiṣāṣ" is classically attested ✓
+- Hudā glossed as clarification of the path — confirmed by all four sources (Jalalayn: تبيين طريق الهدى; Qurtubi: نبين طريق الهدى من طريق الضلالة; Baghawi: البيان) ✓
+- Passage context (two roads of Al-Layl preceding these verses) is accurate ✓
+- fa-sanuyassiruhu li-l-yusrā / li-l-ʿusrā cited accurately from 92:7 and 92:10 ✓
+- No scholar attributions inverted or fabricated ✓
+- Root hdy as noun confirmed ✓
+
+SUMMARY: Linguistically and tafsirically sound; the one MODERATE flag is that the debt/obligation metaphor, while defensible via the ʿalā construction, strips out al-Muyassar's explicit grace qualifier ("بفضلنا وحكمتنا") — a balance the final text should restore.

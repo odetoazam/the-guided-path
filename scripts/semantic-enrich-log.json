@@ -1,0 +1,6281 @@
+[
+  {
+    "path": "content/tadabbur/033-al-ahzab/ayah-061.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "sonnet",
+    "enriched_at": "2026-05-28T11:12:31"
+  },
+  {
+    "path": "content/tadabbur/021-al-anbiya/ayahs-071-072.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-05-28T11:18:55"
+  },
+  {
+    "path": "content/tadabbur/019-maryam/ayahs-064-065.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-05-28T11:27:07"
+  },
+  {
+    "path": "content/tadabbur/021-al-anbiya/ayahs-011-013.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "sonnet",
+    "enriched_at": "2026-05-28T12:02:24"
+  },
+  {
+    "path": "content/tadabbur/020-ta-ha/ayahs-105-107.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "sonnet",
+    "enriched_at": "2026-06-01T07:22:21"
+  },
+  {
+    "path": "content/tadabbur/020-ta-ha/ayahs-133-135.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "sonnet",
+    "enriched_at": "2026-06-01T07:29:43"
+  },
+  {
+    "path": "content/tadabbur/023-al-muminun/ayahs-081-083.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "sonnet",
+    "enriched_at": "2026-06-01T07:57:04"
+  },
+  {
+    "path": "content/tadabbur/024-an-nur/ayahs-051-052.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "sonnet",
+    "enriched_at": "2026-06-01T08:05:08"
+  },
+  {
+    "path": "content/tadabbur/026-ash-shuara/ayahs-083-084.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "sonnet",
+    "enriched_at": "2026-06-01T08:40:24"
+  },
+  {
+    "path": "content/tadabbur/026-ash-shuara/ayahs-132-135.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "sonnet",
+    "enriched_at": "2026-06-01T08:56:47"
+  },
+  {
+    "path": "content/tadabbur/027-an-naml/ayahs-089-090.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "sonnet",
+    "enriched_at": "2026-06-01T09:24:36"
+  },
+  {
+    "path": "content/tadabbur/020-ta-ha/ayah-101.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "sonnet",
+    "enriched_at": "2026-06-01T17:21:37"
+  },
+  {
+    "path": "content/tadabbur/021-al-anbiya/ayah-108.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "sonnet",
+    "enriched_at": "2026-06-01T17:31:53"
+  },
+  {
+    "path": "content/tadabbur/025-al-furqan/ayahs-017-019.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "sonnet",
+    "enriched_at": "2026-06-01T19:34:10"
+  },
+  {
+    "path": "content/tadabbur/026-ash-shuara/ayahs-121-127.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "sonnet",
+    "enriched_at": "2026-06-01T19:55:45"
+  },
+  {
+    "path": "content/tadabbur/026-ash-shuara/ayahs-155-158.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "sonnet",
+    "enriched_at": "2026-06-01T20:01:36"
+  },
+  {
+    "path": "content/tadabbur/005-al-maidah/ayah-013.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "sonnet",
+    "enriched_at": "2026-06-01T20:17:39"
+  },
+  {
+    "path": "content/tadabbur/027-an-naml/ayahs-091-093.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "sonnet",
+    "enriched_at": "2026-06-01T21:23:50"
+  },
+  {
+    "path": "content/tadabbur/028-al-qasas/ayah-070.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "sonnet",
+    "enriched_at": "2026-06-01T21:33:00"
+  },
+  {
+    "path": "content/tadabbur/028-al-qasas/ayah-075.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "sonnet",
+    "enriched_at": "2026-06-01T21:45:00"
+  },
+  {
+    "path": "content/tadabbur/028-al-qasas/ayah-078.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "sonnet",
+    "enriched_at": "2026-06-01T21:51:44"
+  },
+  {
+    "path": "content/tadabbur/028-al-qasas/ayah-081.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "sonnet",
+    "enriched_at": "2026-06-01T22:00:54"
+  },
+  {
+    "path": "content/tadabbur/028-al-qasas/ayah-082.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "sonnet",
+    "enriched_at": "2026-06-01T22:09:55"
+  },
+  {
+    "path": "content/tadabbur/028-al-qasas/ayahs-072-073.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "sonnet",
+    "enriched_at": "2026-06-01T22:17:11"
+  },
+  {
+    "path": "content/tadabbur/031-luqman/ayah-031.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "sonnet",
+    "enriched_at": "2026-06-01T22:26:12"
+  },
+  {
+    "path": "content/tadabbur/033-al-ahzab/ayah-058.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "sonnet",
+    "enriched_at": "2026-06-01T22:37:06"
+  },
+  {
+    "path": "content/tadabbur/033-al-ahzab/ayah-065.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "sonnet",
+    "enriched_at": "2026-06-01T22:45:59"
+  },
+  {
+    "path": "content/tadabbur/033-al-ahzab/ayahs-070-071.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "sonnet",
+    "enriched_at": "2026-06-01T22:57:30"
+  },
+  {
+    "path": "content/tadabbur/035-fatir/ayah-001.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "sonnet",
+    "enriched_at": "2026-06-01T23:08:24"
+  },
+  {
+    "path": "content/tadabbur/035-fatir/ayah-009.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "sonnet",
+    "enriched_at": "2026-06-01T23:30:55"
+  },
+  {
+    "path": "content/tadabbur/009-at-tawbah/ayah-123.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-02T15:45:18"
+  },
+  {
+    "path": "content/tadabbur/019-maryam/ayahs-005-006.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T01:05:38"
+  },
+  {
+    "path": "content/tadabbur/019-maryam/ayahs-012-015.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T01:38:53"
+  },
+  {
+    "path": "content/tadabbur/019-maryam/ayahs-034-037.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T01:59:42"
+  },
+  {
+    "path": "content/tadabbur/019-maryam/ayahs-042-045.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T02:05:45"
+  },
+  {
+    "path": "content/tadabbur/019-maryam/ayahs-054-055.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T02:14:41"
+  },
+  {
+    "path": "content/tadabbur/019-maryam/ayahs-059-060.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T02:23:18"
+  },
+  {
+    "path": "content/tadabbur/019-maryam/ayahs-073-074.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T02:39:23"
+  },
+  {
+    "path": "content/tadabbur/019-maryam/ayahs-075-076.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T02:49:32"
+  },
+  {
+    "path": "content/tadabbur/020-ta-ha/ayah-096.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T02:58:33"
+  },
+  {
+    "path": "content/tadabbur/020-ta-ha/ayah-111.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T03:09:34"
+  },
+  {
+    "path": "content/tadabbur/020-ta-ha/ayah-113.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T03:33:32"
+  },
+  {
+    "path": "content/tadabbur/020-ta-ha/ayah-114.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T03:43:38"
+  },
+  {
+    "path": "content/tadabbur/020-ta-ha/ayah-115.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T03:51:42"
+  },
+  {
+    "path": "content/tadabbur/020-ta-ha/ayah-116.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T03:59:46"
+  },
+  {
+    "path": "content/tadabbur/020-ta-ha/ayah-117.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T04:06:11"
+  },
+  {
+    "path": "content/tadabbur/020-ta-ha/ayah-120.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T04:20:11"
+  },
+  {
+    "path": "content/tadabbur/020-ta-ha/ayah-132.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T04:30:32"
+  },
+  {
+    "path": "content/tadabbur/020-ta-ha/ayahs-017-021.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T04:42:48"
+  },
+  {
+    "path": "content/tadabbur/020-ta-ha/ayahs-025-028.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T04:51:01"
+  },
+  {
+    "path": "content/tadabbur/020-ta-ha/ayahs-047-048.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T05:02:58"
+  },
+  {
+    "path": "content/tadabbur/020-ta-ha/ayahs-074-076.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T05:10:48"
+  },
+  {
+    "path": "content/tadabbur/020-ta-ha/ayahs-077-079.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T05:39:22"
+  },
+  {
+    "path": "content/tadabbur/020-ta-ha/ayahs-090-091.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T05:43:42"
+  },
+  {
+    "path": "content/tadabbur/020-ta-ha/ayahs-102-103.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T06:03:13"
+  },
+  {
+    "path": "content/tadabbur/020-ta-ha/ayahs-109-110.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T06:12:09"
+  },
+  {
+    "path": "content/tadabbur/020-ta-ha/ayahs-121-122.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T06:48:46"
+  },
+  {
+    "path": "content/tadabbur/020-ta-ha/ayahs-123-124.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T06:57:35"
+  },
+  {
+    "path": "content/tadabbur/020-ta-ha/ayahs-125-126.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T07:05:09"
+  },
+  {
+    "path": "content/tadabbur/020-ta-ha/ayahs-127-128.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T07:11:56"
+  },
+  {
+    "path": "content/tadabbur/021-al-anbiya/ayah-097.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T07:51:06"
+  },
+  {
+    "path": "content/tadabbur/021-al-anbiya/ayah-103.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T07:59:56"
+  },
+  {
+    "path": "content/tadabbur/021-al-anbiya/ayah-104.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T08:07:31"
+  },
+  {
+    "path": "content/tadabbur/021-al-anbiya/ayah-105.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T08:17:24"
+  },
+  {
+    "path": "content/tadabbur/021-al-anbiya/ayah-106.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T08:26:02"
+  },
+  {
+    "path": "content/tadabbur/021-al-anbiya/ayah-107.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T08:33:06"
+  },
+  {
+    "path": "content/tadabbur/021-al-anbiya/ayah-112.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T08:42:16"
+  },
+  {
+    "path": "content/tadabbur/021-al-anbiya/ayahs-038-040.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T08:48:35"
+  },
+  {
+    "path": "content/tadabbur/021-al-anbiya/ayahs-057-058.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T08:58:42"
+  },
+  {
+    "path": "content/tadabbur/021-al-anbiya/ayahs-059-061.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T09:09:33"
+  },
+  {
+    "path": "content/tadabbur/021-al-anbiya/ayahs-062-064.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T09:18:13"
+  },
+  {
+    "path": "content/tadabbur/021-al-anbiya/ayahs-065-067.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T09:27:39"
+  },
+  {
+    "path": "content/tadabbur/021-al-anbiya/ayahs-074-075.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T09:37:02"
+  },
+  {
+    "path": "content/tadabbur/021-al-anbiya/ayahs-078-079.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T09:56:06"
+  },
+  {
+    "path": "content/tadabbur/021-al-anbiya/ayahs-080-081.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T10:05:40"
+  },
+  {
+    "path": "content/tadabbur/021-al-anbiya/ayahs-087-088.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T10:29:36"
+  },
+  {
+    "path": "content/tadabbur/021-al-anbiya/ayahs-098-100.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T10:37:39"
+  },
+  {
+    "path": "content/tadabbur/021-al-anbiya/ayahs-101-102.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T10:44:48"
+  },
+  {
+    "path": "content/tadabbur/022-al-hajj/ayahs-003-004.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T10:55:35"
+  },
+  {
+    "path": "content/tadabbur/022-al-hajj/ayahs-006-007.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T11:04:19"
+  },
+  {
+    "path": "content/tadabbur/022-al-hajj/ayahs-023-024.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T11:12:15"
+  },
+  {
+    "path": "content/tadabbur/022-al-hajj/ayahs-042-044.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T11:20:42"
+  },
+  {
+    "path": "content/tadabbur/022-al-hajj/ayahs-063-064.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T11:52:25"
+  },
+  {
+    "path": "content/tadabbur/023-al-muminun/ayah-090.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T12:00:47"
+  },
+  {
+    "path": "content/tadabbur/023-al-muminun/ayah-091.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T12:08:47"
+  },
+  {
+    "path": "content/tadabbur/023-al-muminun/ayah-095.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T12:12:50"
+  },
+  {
+    "path": "content/tadabbur/023-al-muminun/ayahs-005-007.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T12:21:03"
+  },
+  {
+    "path": "content/tadabbur/023-al-muminun/ayahs-031-032.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T12:41:46"
+  },
+  {
+    "path": "content/tadabbur/023-al-muminun/ayahs-033-034.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T12:49:31"
+  },
+  {
+    "path": "content/tadabbur/023-al-muminun/ayahs-036-037.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T12:59:36"
+  },
+  {
+    "path": "content/tadabbur/023-al-muminun/ayahs-039-041.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T13:10:03"
+  },
+  {
+    "path": "content/tadabbur/023-al-muminun/ayahs-047-049.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T13:19:34"
+  },
+  {
+    "path": "content/tadabbur/023-al-muminun/ayahs-053-054.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T13:30:47"
+  },
+  {
+    "path": "content/tadabbur/023-al-muminun/ayahs-055-056.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T13:38:36"
+  },
+  {
+    "path": "content/tadabbur/023-al-muminun/ayahs-057-059.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T13:46:01"
+  },
+  {
+    "path": "content/tadabbur/023-al-muminun/ayahs-060-061.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T13:54:35"
+  },
+  {
+    "path": "content/tadabbur/023-al-muminun/ayahs-063-065.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T14:01:44"
+  },
+  {
+    "path": "content/tadabbur/023-al-muminun/ayahs-066-067.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T14:11:14"
+  },
+  {
+    "path": "content/tadabbur/023-al-muminun/ayahs-072-074.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T14:23:11"
+  },
+  {
+    "path": "content/tadabbur/023-al-muminun/ayahs-078-080.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T14:30:57"
+  },
+  {
+    "path": "content/tadabbur/023-al-muminun/ayahs-093-094.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T14:40:02"
+  },
+  {
+    "path": "content/tadabbur/023-al-muminun/ayahs-096-098.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T14:48:39"
+  },
+  {
+    "path": "content/tadabbur/023-al-muminun/ayahs-106-108.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-03T15:27:25"
+  },
+  {
+    "path": "content/tadabbur/005-al-maidah/ayah-014.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "sonnet",
+    "enriched_at": "2026-06-12T00:37:45"
+  },
+  {
+    "path": "content/tadabbur/022-al-hajj/ayahs-061-062.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-12T01:43:43"
+  },
+  {
+    "path": "content/tadabbur/025-al-furqan/ayahs-004-006.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-12T02:46:14"
+  },
+  {
+    "path": "content/tadabbur/025-al-furqan/ayahs-027-029.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-12T03:07:08"
+  },
+  {
+    "path": "content/tadabbur/025-al-furqan/ayahs-045-047.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-12T03:16:14"
+  },
+  {
+    "path": "content/tadabbur/025-al-furqan/ayahs-075-077.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-12T03:40:56"
+  },
+  {
+    "path": "content/tadabbur/026-ash-shuara/ayah-159.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-12T03:48:16"
+  },
+  {
+    "path": "content/tadabbur/026-ash-shuara/ayah-220.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-12T03:55:54"
+  },
+  {
+    "path": "content/tadabbur/026-ash-shuara/ayahs-005-009.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-12T04:03:09"
+  },
+  {
+    "path": "content/tadabbur/026-ash-shuara/ayahs-018-022.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-12T04:13:05"
+  },
+  {
+    "path": "content/tadabbur/026-ash-shuara/ayahs-030-035.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-12T04:34:35"
+  },
+  {
+    "path": "content/tadabbur/026-ash-shuara/ayahs-046-048.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-12T04:52:38"
+  },
+  {
+    "path": "content/tadabbur/026-ash-shuara/ayahs-064-068.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-12T05:10:00"
+  },
+  {
+    "path": "content/tadabbur/026-ash-shuara/ayahs-078-082.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-12T05:16:40"
+  },
+  {
+    "path": "content/tadabbur/026-ash-shuara/ayahs-085-086.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-12T05:26:09"
+  },
+  {
+    "path": "content/tadabbur/026-ash-shuara/ayahs-090-095.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-12T05:37:50"
+  },
+  {
+    "path": "content/tadabbur/026-ash-shuara/ayahs-103-104.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-12T05:58:28"
+  },
+  {
+    "path": "content/tadabbur/026-ash-shuara/ayahs-111-115.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-12T06:14:52"
+  },
+  {
+    "path": "content/tadabbur/026-ash-shuara/ayahs-128-130.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-12T06:33:47"
+  },
+  {
+    "path": "content/tadabbur/026-ash-shuara/ayahs-136-138.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-12T06:43:33"
+  },
+  {
+    "path": "content/tadabbur/026-ash-shuara/ayahs-146-150.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-12T07:28:27"
+  },
+  {
+    "path": "content/tadabbur/026-ash-shuara/ayahs-151-154.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-12T08:09:16"
+  },
+  {
+    "path": "content/tadabbur/026-ash-shuara/ayahs-160-164.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-12T08:23:12"
+  },
+  {
+    "path": "content/tadabbur/026-ash-shuara/ayahs-165-166.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-12T08:30:44"
+  },
+  {
+    "path": "content/tadabbur/026-ash-shuara/ayahs-167-173.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-12T08:39:15"
+  },
+  {
+    "path": "content/tadabbur/026-ash-shuara/ayahs-174-175.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-12T08:45:36"
+  },
+  {
+    "path": "content/tadabbur/026-ash-shuara/ayahs-181-183.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-12T08:49:09"
+  },
+  {
+    "path": "content/tadabbur/026-ash-shuara/ayahs-198-203.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-12T08:59:14"
+  },
+  {
+    "path": "content/tadabbur/026-ash-shuara/ayahs-204-209.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-12T09:08:10"
+  },
+  {
+    "path": "content/tadabbur/026-ash-shuara/ayahs-210-215.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-12T09:18:49"
+  },
+  {
+    "path": "content/tadabbur/026-ash-shuara/ayahs-216-217.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-12T09:27:04"
+  },
+  {
+    "path": "content/tadabbur/026-ash-shuara/ayahs-221-223.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-12T09:45:53"
+  },
+  {
+    "path": "content/tadabbur/026-ash-shuara/ayahs-224-226.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-12T09:53:59"
+  },
+  {
+    "path": "content/tadabbur/027-an-naml/ayahs-010-011.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-12T10:02:28"
+  },
+  {
+    "path": "content/tadabbur/028-al-qasas/ayah-074.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-12T10:25:28"
+  },
+  {
+    "path": "content/tadabbur/028-al-qasas/ayah-080.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-12T10:45:34"
+  },
+  {
+    "path": "content/tadabbur/028-al-qasas/ayahs-062-063.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-12T11:07:25"
+  },
+  {
+    "path": "content/tadabbur/028-al-qasas/ayahs-065-066.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-12T11:13:55"
+  },
+  {
+    "path": "content/tadabbur/029-al-ankabut/ayahs-058-059.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-12T11:21:02"
+  },
+  {
+    "path": "content/tadabbur/030-ar-rum/ayahs-014-016.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-12T11:29:59"
+  },
+  {
+    "path": "content/tadabbur/031-luqman/ayahs-002-003.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-12T11:37:13"
+  },
+  {
+    "path": "content/tadabbur/033-al-ahzab/ayah-069.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-12T12:17:36"
+  },
+  {
+    "path": "content/tadabbur/033-al-ahzab/ayahs-066-068.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-12T12:28:23"
+  },
+  {
+    "path": "content/tadabbur/034-saba/ayahs-040-041.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-12T12:43:17"
+  },
+  {
+    "path": "content/tadabbur/035-fatir/ayahs-019-021.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "sonnet",
+    "enriched_at": "2026-06-12T12:52:25"
+  },
+  {
+    "path": "content/tadabbur/005-al-maidah/ayah-054.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "sonnet",
+    "enriched_at": "2026-06-13T01:12:40"
+  },
+  {
+    "path": "content/tadabbur/020-ta-ha/ayahs-129-130.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-13T14:44:59"
+  },
+  {
+    "path": "content/tadabbur/021-al-anbiya/ayah-093.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-13T15:01:01"
+  },
+  {
+    "path": "content/tadabbur/023-al-muminun/ayah-092.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-13T15:10:23"
+  },
+  {
+    "path": "content/tadabbur/023-al-muminun/ayahs-028-030.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-13T15:19:09"
+  },
+  {
+    "path": "content/tadabbur/023-al-muminun/ayahs-084-089.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-13T15:28:24"
+  },
+  {
+    "path": "content/tadabbur/026-ash-shuara/ayah-227.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-13T15:57:40"
+  },
+  {
+    "path": "content/tadabbur/026-ash-shuara/ayahs-069-076.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-13T16:08:36"
+  },
+  {
+    "path": "content/tadabbur/026-ash-shuara/ayahs-176-180.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-13T16:16:59"
+  },
+  {
+    "path": "content/tadabbur/035-fatir/ayahs-025-026.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-13T22:20:14"
+  },
+  {
+    "path": "content/tadabbur/035-fatir/ayahs-033-035.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-13T22:29:27"
+  },
+  {
+    "path": "content/tadabbur/035-fatir/ayahs-042-043.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-13T22:32:50"
+  },
+  {
+    "path": "content/tadabbur/036-ya-sin/ayahs-048-050.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-13T22:58:30"
+  },
+  {
+    "path": "content/tadabbur/036-ya-sin/ayahs-060-062.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-13T23:06:17"
+  },
+  {
+    "path": "content/tadabbur/036-ya-sin/ayahs-060-063.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-13T23:17:46"
+  },
+  {
+    "path": "content/tadabbur/036-ya-sin/ayahs-066-067.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-13T23:28:19"
+  },
+  {
+    "path": "content/tadabbur/036-ya-sin/ayahs-068-070.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-13T23:39:41"
+  },
+  {
+    "path": "content/tadabbur/036-ya-sin/ayahs-071-073.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-13T23:49:52"
+  },
+  {
+    "path": "content/tadabbur/037-as-saffat/ayah-107.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-14T00:17:20"
+  },
+  {
+    "path": "content/tadabbur/037-as-saffat/ayah-131.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-14T00:23:11"
+  },
+  {
+    "path": "content/tadabbur/037-as-saffat/ayahs-006-010.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-14T00:34:34"
+  },
+  {
+    "path": "content/tadabbur/037-as-saffat/ayahs-022-026.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-14T00:53:18"
+  },
+  {
+    "path": "content/tadabbur/037-as-saffat/ayahs-035-037.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-14T01:01:37"
+  },
+  {
+    "path": "content/tadabbur/037-as-saffat/ayahs-040-049.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-14T01:12:17"
+  },
+  {
+    "path": "content/tadabbur/037-as-saffat/ayahs-062-068.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-14T01:27:19"
+  },
+  {
+    "path": "content/tadabbur/037-as-saffat/ayahs-069-074.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-14T01:34:28"
+  },
+  {
+    "path": "content/tadabbur/037-as-saffat/ayahs-075-082.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-14T01:41:27"
+  },
+  {
+    "path": "content/tadabbur/037-as-saffat/ayahs-088-096.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-14T01:54:33"
+  },
+  {
+    "path": "content/tadabbur/037-as-saffat/ayahs-097-098.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-14T02:01:40"
+  },
+  {
+    "path": "content/tadabbur/037-as-saffat/ayahs-099-101.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-14T02:10:17"
+  },
+  {
+    "path": "content/tadabbur/037-as-saffat/ayahs-103-106.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-14T02:19:32"
+  },
+  {
+    "path": "content/tadabbur/037-as-saffat/ayahs-108-113.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-14T02:25:33"
+  },
+  {
+    "path": "content/tadabbur/037-as-saffat/ayahs-114-122.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-14T02:36:22"
+  },
+  {
+    "path": "content/tadabbur/037-as-saffat/ayahs-123-130.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-14T02:44:44"
+  },
+  {
+    "path": "content/tadabbur/037-as-saffat/ayahs-133-136.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-14T02:52:25"
+  },
+  {
+    "path": "content/tadabbur/037-as-saffat/ayahs-139-148.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-14T03:08:07"
+  },
+  {
+    "path": "content/tadabbur/037-as-saffat/ayahs-164-166.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-14T03:31:42"
+  },
+  {
+    "path": "content/tadabbur/037-as-saffat/ayahs-167-170.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-14T03:40:06"
+  },
+  {
+    "path": "content/tadabbur/037-as-saffat/ayahs-171-179.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-14T03:50:38"
+  },
+  {
+    "path": "content/tadabbur/037-as-saffat/ayahs-180-182.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-14T03:59:15"
+  },
+  {
+    "path": "content/tadabbur/038-sad/ayahs-004-005.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-14T04:08:45"
+  },
+  {
+    "path": "content/tadabbur/038-sad/ayahs-017-020.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-14T04:16:53"
+  },
+  {
+    "path": "content/tadabbur/038-sad/ayahs-045-048.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-14T04:41:56"
+  },
+  {
+    "path": "content/tadabbur/038-sad/ayahs-049-054.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-14T04:53:52"
+  },
+  {
+    "path": "content/tadabbur/038-sad/ayahs-055-058.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-14T05:04:18"
+  },
+  {
+    "path": "content/tadabbur/038-sad/ayahs-059-064.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-14T05:13:06"
+  },
+  {
+    "path": "content/tadabbur/038-sad/ayahs-065-068.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-14T05:27:50"
+  },
+  {
+    "path": "content/tadabbur/038-sad/ayahs-069-070.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-14T05:37:24"
+  },
+  {
+    "path": "content/tadabbur/038-sad/ayahs-071-072.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-14T05:42:41"
+  },
+  {
+    "path": "content/tadabbur/038-sad/ayahs-075-076.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-14T06:04:46"
+  },
+  {
+    "path": "content/tadabbur/038-sad/ayahs-077-082.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-14T06:13:12"
+  },
+  {
+    "path": "content/tadabbur/038-sad/ayahs-086-088.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-14T06:23:53"
+  },
+  {
+    "path": "content/tadabbur/039-az-zumar/ayahs-011-013.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-14T06:34:46"
+  },
+  {
+    "path": "content/tadabbur/039-az-zumar/ayahs-056-058.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-14T06:58:30"
+  },
+  {
+    "path": "content/tadabbur/039-az-zumar/ayahs-064-066.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-14T07:07:26"
+  },
+  {
+    "path": "content/tadabbur/040-ghafir/ayah-068.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-14T07:16:39"
+  },
+  {
+    "path": "content/tadabbur/040-ghafir/ayahs-023-025.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-14T07:28:39"
+  },
+  {
+    "path": "content/tadabbur/040-ghafir/ayahs-047-050.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-14T07:39:55"
+  },
+  {
+    "path": "content/tadabbur/040-ghafir/ayahs-061-063.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-14T07:48:11"
+  },
+  {
+    "path": "content/tadabbur/040-ghafir/ayahs-064-065.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-14T07:57:13"
+  },
+  {
+    "path": "content/tadabbur/040-ghafir/ayahs-073-076.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-14T08:17:44"
+  },
+  {
+    "path": "content/tadabbur/040-ghafir/ayahs-084-085.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-14T14:52:12"
+  },
+  {
+    "path": "content/tadabbur/041-fussilat/ayahs-049-051.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-14T19:42:50"
+  },
+  {
+    "path": "content/tadabbur/042-ash-shura/ayahs-032-034.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-14T19:53:02"
+  },
+  {
+    "path": "content/tadabbur/043-az-zukhruf/ayah-067.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-14T19:59:40"
+  },
+  {
+    "path": "content/tadabbur/043-az-zukhruf/ayah-071.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-14T20:15:49"
+  },
+  {
+    "path": "content/tadabbur/043-az-zukhruf/ayah-072.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-14T20:36:51"
+  },
+  {
+    "path": "content/tadabbur/043-az-zukhruf/ayah-081.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-14T21:00:11"
+  },
+  {
+    "path": "content/tadabbur/043-az-zukhruf/ayah-084.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-14T21:25:34"
+  },
+  {
+    "path": "content/tadabbur/043-az-zukhruf/ayah-085.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-14T22:22:18"
+  },
+  {
+    "path": "content/tadabbur/043-az-zukhruf/ayah-086.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-14T22:27:38"
+  },
+  {
+    "path": "content/tadabbur/043-az-zukhruf/ayah-087.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-14T22:35:38"
+  },
+  {
+    "path": "content/tadabbur/043-az-zukhruf/ayah-089.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-14T22:52:35"
+  },
+  {
+    "path": "content/tadabbur/043-az-zukhruf/ayahs-001-002.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-14T22:59:31"
+  },
+  {
+    "path": "content/tadabbur/043-az-zukhruf/ayahs-006-008.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-14T23:05:24"
+  },
+  {
+    "path": "content/tadabbur/043-az-zukhruf/ayahs-022-024.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-14T23:22:23"
+  },
+  {
+    "path": "content/tadabbur/043-az-zukhruf/ayahs-046-050.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-15T00:09:47"
+  },
+  {
+    "path": "content/tadabbur/043-az-zukhruf/ayahs-055-056.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-15T00:15:57"
+  },
+  {
+    "path": "content/tadabbur/043-az-zukhruf/ayahs-074-076.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-15T00:27:38"
+  },
+  {
+    "path": "content/tadabbur/044-ad-dukhan/ayahs-009-016.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-15T00:52:08"
+  },
+  {
+    "path": "content/tadabbur/044-ad-dukhan/ayahs-034-037.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-15T01:34:01"
+  },
+  {
+    "path": "content/tadabbur/044-ad-dukhan/ayahs-038-039.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-15T01:41:51"
+  },
+  {
+    "path": "content/tadabbur/044-ad-dukhan/ayahs-040-042.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-15T01:51:02"
+  },
+  {
+    "path": "content/tadabbur/044-ad-dukhan/ayahs-043-050.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-15T02:02:20"
+  },
+  {
+    "path": "content/tadabbur/044-ad-dukhan/ayahs-051-054.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-15T02:11:22"
+  },
+  {
+    "path": "content/tadabbur/045-al-jathiyah/ayahs-003-005.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-15T02:24:49"
+  },
+  {
+    "path": "content/tadabbur/051-adh-dhariyat/ayahs-015-016.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-15T02:44:54"
+  },
+  {
+    "path": "content/tadabbur/051-adh-dhariyat/ayahs-024-030.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-15T02:52:15"
+  },
+  {
+    "path": "content/tadabbur/051-adh-dhariyat/ayahs-031-032.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-15T03:02:27"
+  },
+  {
+    "path": "content/tadabbur/051-adh-dhariyat/ayahs-038-040.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-15T03:05:46"
+  },
+  {
+    "path": "content/tadabbur/051-adh-dhariyat/ayahs-041-042.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-15T03:17:23"
+  },
+  {
+    "path": "content/tadabbur/051-adh-dhariyat/ayahs-052-053.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-15T03:26:00"
+  },
+  {
+    "path": "content/tadabbur/051-adh-dhariyat/ayahs-057-058.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-15T03:32:39"
+  },
+  {
+    "path": "content/tadabbur/052-at-tur/ayahs-001-006.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-15T03:43:06"
+  },
+  {
+    "path": "content/tadabbur/052-at-tur/ayahs-007-008.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-15T03:50:44"
+  },
+  {
+    "path": "content/tadabbur/052-at-tur/ayahs-035-036.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-15T03:59:36"
+  },
+  {
+    "path": "content/tadabbur/053-an-najm/ayahs-021-022.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-15T04:20:29"
+  },
+  {
+    "path": "content/tadabbur/053-an-najm/ayahs-024-025.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-15T04:25:20"
+  },
+  {
+    "path": "content/tadabbur/053-an-najm/ayahs-029-031.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-15T04:27:58"
+  },
+  {
+    "path": "content/tadabbur/053-an-najm/ayahs-033-034.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-15T04:38:16"
+  },
+  {
+    "path": "content/tadabbur/053-an-najm/ayahs-036-037.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-15T04:41:26"
+  },
+  {
+    "path": "content/tadabbur/053-an-najm/ayahs-043-044.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-15T04:47:59"
+  },
+  {
+    "path": "content/tadabbur/053-an-najm/ayahs-045-046.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-15T04:56:11"
+  },
+  {
+    "path": "content/tadabbur/053-an-najm/ayahs-047-048.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-15T05:05:41"
+  },
+  {
+    "path": "content/tadabbur/053-an-najm/ayahs-056-057.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-15T05:22:22"
+  },
+  {
+    "path": "content/tadabbur/006-al-anam/ayah-019.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-20T14:19:33"
+  },
+  {
+    "path": "content/tadabbur/006-al-anam/ayah-020.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-20T20:59:34"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-019.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-20T21:25:57"
+  },
+  {
+    "path": "content/tadabbur/037-as-saffat/ayahs-161-163.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-20T21:31:58"
+  },
+  {
+    "path": "content/tadabbur/053-an-najm/ayahs-053-054.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-20T21:36:31"
+  },
+  {
+    "path": "content/tadabbur/053-an-najm/ayahs-058-061.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-20T21:42:56"
+  },
+  {
+    "path": "content/tadabbur/054-al-qamar/ayah-041.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-20T21:56:19"
+  },
+  {
+    "path": "content/tadabbur/054-al-qamar/ayah-044.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-20T22:02:46"
+  },
+  {
+    "path": "content/tadabbur/055-ar-rahman/ayah-032.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-20T22:09:11"
+  },
+  {
+    "path": "content/tadabbur/055-ar-rahman/ayah-033.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-20T22:18:28"
+  },
+  {
+    "path": "content/tadabbur/055-ar-rahman/ayah-045.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-20T22:28:00"
+  },
+  {
+    "path": "content/tadabbur/055-ar-rahman/ayah-053.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-20T22:34:04"
+  },
+  {
+    "path": "content/tadabbur/055-ar-rahman/ayah-054.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-20T22:39:57"
+  },
+  {
+    "path": "content/tadabbur/055-ar-rahman/ayah-055.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-20T22:42:42"
+  },
+  {
+    "path": "content/tadabbur/055-ar-rahman/ayah-057.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-20T23:02:49"
+  },
+  {
+    "path": "content/tadabbur/055-ar-rahman/ayah-059.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-20T23:12:34"
+  },
+  {
+    "path": "content/tadabbur/055-ar-rahman/ayah-060.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-20T23:22:36"
+  },
+  {
+    "path": "content/tadabbur/055-ar-rahman/ayah-061.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-20T23:25:12"
+  },
+  {
+    "path": "content/tadabbur/055-ar-rahman/ayah-062.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-20T23:28:06"
+  },
+  {
+    "path": "content/tadabbur/055-ar-rahman/ayah-063.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-20T23:32:30"
+  },
+  {
+    "path": "content/tadabbur/055-ar-rahman/ayah-064.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-20T23:35:27"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-001.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-21T23:44:27"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-002.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-21T23:51:49"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-005.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-21T23:59:44"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-006.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-22T00:06:32"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-017.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-22T00:41:16"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-020.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-22T00:50:58"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-021.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-22T01:15:56"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-029.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-22T01:46:11"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-030.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-22T01:53:17"
+  },
+  {
+    "path": "content/tadabbur/079-an-naziat/ayahs-027-033.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-25T23:10:15"
+  },
+  {
+    "path": "content/tadabbur/009-at-tawbah/ayah-029.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-26T18:38:56"
+  },
+  {
+    "path": "content/tadabbur/009-at-tawbah/ayah-060.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-26T18:54:46"
+  },
+  {
+    "path": "content/tadabbur/009-at-tawbah/ayah-081.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-26T19:00:09"
+  },
+  {
+    "path": "content/tadabbur/009-at-tawbah/ayah-100.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-26T19:06:23"
+  },
+  {
+    "path": "content/tadabbur/009-at-tawbah/ayah-101.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-26T19:11:16"
+  },
+  {
+    "path": "content/tadabbur/028-al-qasas/ayah-016.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-26T19:37:51"
+  },
+  {
+    "path": "content/tadabbur/028-al-qasas/ayah-025.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-26T19:45:20"
+  },
+  {
+    "path": "content/tadabbur/028-al-qasas/ayah-026.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-26T19:51:37"
+  },
+  {
+    "path": "content/tadabbur/002-al-baqarah/ayah-269.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-26T20:02:26"
+  },
+  {
+    "path": "content/tadabbur/025-al-furqan/ayahs-068-069.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-26T20:35:47"
+  },
+  {
+    "path": "content/tadabbur/056-al-waqia/ayahs-075-080.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-26T21:12:19"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-010.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-26T21:20:42"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-011.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-26T21:25:44"
+  },
+  {
+    "path": "content/tadabbur/072-al-jinn/ayahs-026-028.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-26T21:47:21"
+  },
+  {
+    "path": "content/tadabbur/073-al-muzzammil/ayahs-012-014.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-26T21:52:13"
+  },
+  {
+    "path": "content/tadabbur/074-al-muddaththir/ayahs-026-029.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-26T22:03:04"
+  },
+  {
+    "path": "content/tadabbur/074-al-muddaththir/ayahs-030-031.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-26T22:10:33"
+  },
+  {
+    "path": "content/tadabbur/074-al-muddaththir/ayahs-049-056.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-26T22:26:43"
+  },
+  {
+    "path": "content/tadabbur/075-al-qiyamah/ayahs-020-021.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-26T22:31:46"
+  },
+  {
+    "path": "content/tadabbur/075-al-qiyamah/ayahs-031-033.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-26T22:36:31"
+  },
+  {
+    "path": "content/tadabbur/075-al-qiyamah/ayahs-034-035.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-26T22:40:14"
+  },
+  {
+    "path": "content/tadabbur/076-al-insan/ayahs-005-006.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-26T22:45:12"
+  },
+  {
+    "path": "content/tadabbur/076-al-insan/ayahs-015-016.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-26T22:48:36"
+  },
+  {
+    "path": "content/tadabbur/077-al-mursalat/ayah-034.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-26T22:57:48"
+  },
+  {
+    "path": "content/tadabbur/077-al-mursalat/ayahs-001-007.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-26T23:02:29"
+  },
+  {
+    "path": "content/tadabbur/077-al-mursalat/ayahs-008-015.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-26T23:06:49"
+  },
+  {
+    "path": "content/tadabbur/077-al-mursalat/ayahs-020-023.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-26T23:12:29"
+  },
+  {
+    "path": "content/tadabbur/077-al-mursalat/ayahs-038-040.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-26T23:22:51"
+  },
+  {
+    "path": "content/tadabbur/077-al-mursalat/ayahs-041-044.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-26T23:26:28"
+  },
+  {
+    "path": "content/tadabbur/077-al-mursalat/ayahs-048-050.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-26T23:30:41"
+  },
+  {
+    "path": "content/tadabbur/078-an-naba/ayah-023.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-26T23:33:03"
+  },
+  {
+    "path": "content/tadabbur/078-an-naba/ayahs-031-036.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-26T23:42:02"
+  },
+  {
+    "path": "content/tadabbur/079-an-naziat/ayahs-034-041.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-26T23:55:37"
+  },
+  {
+    "path": "content/tadabbur/079-an-naziat/ayahs-042-046.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-27T00:04:56"
+  },
+  {
+    "path": "content/tadabbur/080-abasa/ayahs-017-023.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-27T00:12:28"
+  },
+  {
+    "path": "content/tadabbur/080-abasa/ayahs-033-037.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-27T00:18:09"
+  },
+  {
+    "path": "content/tadabbur/080-abasa/ayahs-038-042.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-27T00:21:57"
+  },
+  {
+    "path": "content/tadabbur/009-at-tawbah/ayah-028.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-28T13:27:01"
+  },
+  {
+    "path": "content/tadabbur/028-al-qasas/ayah-015.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-28T13:38:36"
+  },
+  {
+    "path": "content/tadabbur/028-al-qasas/ayah-024.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-28T13:42:56"
+  },
+  {
+    "path": "content/tadabbur/028-al-qasas/ayah-033.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-28T13:47:00"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-037.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-28T14:08:43"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-038.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-28T14:13:51"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-039.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-28T14:18:59"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-042.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-28T14:25:03"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-054.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-28T14:42:29"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-057.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-28T14:49:09"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-063.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-28T15:01:13"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-066.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-28T15:08:56"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-068.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-28T15:13:11"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-069.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-28T15:17:53"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-070.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-28T15:22:29"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-071.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-28T15:25:54"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-077.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-28T15:38:16"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-078.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-28T15:42:06"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-079.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-28T15:46:20"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-082.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-28T15:52:32"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-083.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-28T15:56:25"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-085.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-28T16:02:35"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-086.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-28T16:07:08"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-090.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-28T16:15:52"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-109.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-28T16:22:24"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayahs-003-004.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-28T16:27:16"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayahs-033-034.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-28T16:34:24"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayah-035.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-28T16:51:28"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayah-041.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-28T16:59:29"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayah-046.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-28T17:03:37"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayah-048.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-28T17:10:13"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayah-049.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-28T17:13:34"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayah-080.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-28T17:17:46"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayah-087.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-28T17:21:56"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayah-088.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-28T17:26:08"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayah-094.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-28T17:37:06"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayah-095.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-28T17:42:04"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayah-097.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-28T17:49:27"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayah-103.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-28T17:56:57"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayah-110.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-28T18:02:59"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayah-112.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-28T18:10:58"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayah-114.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-28T18:17:46"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayah-144.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-28T18:27:32"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayah-146.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-28T18:35:44"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayah-160.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-28T18:39:54"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayah-161.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-28T18:43:31"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayahs-098-099.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-28T18:58:18"
+  },
+  {
+    "path": "content/tadabbur/035-fatir/ayah-043.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-28T19:14:27"
+  },
+  {
+    "path": "content/tadabbur/038-sad/ayah-014.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-28T19:27:08"
+  },
+  {
+    "path": "content/tadabbur/038-sad/ayah-083.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-28T19:30:59"
+  },
+  {
+    "path": "content/tadabbur/039-az-zumar/ayah-025.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-28T19:35:08"
+  },
+  {
+    "path": "content/tadabbur/040-ghafir/ayah-059.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-28T19:41:12"
+  },
+  {
+    "path": "content/tadabbur/043-az-zukhruf/ayah-073.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-28T19:48:52"
+  },
+  {
+    "path": "content/tadabbur/053-an-najm/ayah-051.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-28T19:58:43"
+  },
+  {
+    "path": "content/tadabbur/055-ar-rahman/ayah-067.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-28T20:02:28"
+  },
+  {
+    "path": "content/tadabbur/055-ar-rahman/ayahs-068-069.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-28T20:07:08"
+  },
+  {
+    "path": "content/tadabbur/055-ar-rahman/ayahs-070-074.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-28T20:13:29"
+  },
+  {
+    "path": "content/tadabbur/056-al-waqiah/ayahs-035-038.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-28T20:22:51"
+  },
+  {
+    "path": "content/tadabbur/056-al-waqiah/ayahs-039-040.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-28T20:26:26"
+  },
+  {
+    "path": "content/tadabbur/056-al-waqiah/ayahs-083-084.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-28T20:35:04"
+  },
+  {
+    "path": "content/tadabbur/056-al-waqiah/ayahs-085-086.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-28T20:41:36"
+  },
+  {
+    "path": "content/tadabbur/056-al-waqiah/ayahs-088-091.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-28T20:46:16"
+  },
+  {
+    "path": "content/tadabbur/056-al-waqiah/ayahs-092-095.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-28T20:49:58"
+  },
+  {
+    "path": "content/tadabbur/057-al-hadid/ayah-026.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-28T20:53:39"
+  },
+  {
+    "path": "content/tadabbur/009-at-tawbah/ayah-040.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-29T00:19:26"
+  },
+  {
+    "path": "content/tadabbur/009-at-tawbah/ayah-041.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-29T00:21:35"
+  },
+  {
+    "path": "content/tadabbur/025-al-furqan/ayah-070.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-29T00:24:59"
+  },
+  {
+    "path": "content/tadabbur/053-an-najm/ayahs-039-042.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-29T00:30:56"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-016.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-29T00:55:13"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-022.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-29T00:59:15"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-040.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-29T01:04:29"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-043.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-29T01:07:43"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-044.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-29T01:10:57"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-045.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-29T01:15:02"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-050.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-29T01:19:07"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-051.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-29T01:22:13"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-055.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-29T01:26:25"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-058.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-29T01:30:56"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-060.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-29T01:34:22"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-061.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-29T01:37:35"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-064.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-29T01:41:43"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-065.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-29T01:44:48"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-072.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-29T01:49:13"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-074.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-29T01:52:41"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-075.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-29T01:56:55"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-076.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-29T02:01:23"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-081.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-29T02:05:49"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-084.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-29T02:09:18"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-091.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-29T02:13:06"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayahs-014-015.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-29T02:17:27"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayahs-035-036.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-29T02:21:43"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayahs-052-053.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-29T02:26:05"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayah-024.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-29T02:30:06"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayah-033.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-29T02:33:24"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayah-036.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-29T02:38:06"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayah-047.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-29T02:42:20"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayah-089.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-29T02:45:46"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-062.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-29T08:20:38"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayah-093.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-29T08:28:23"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayah-096.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-29T08:32:11"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayah-100.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-29T08:36:35"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayah-104.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-29T08:40:38"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayah-111.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-29T08:44:39"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayah-113.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-29T08:48:04"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayah-115.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-29T08:52:37"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayah-116.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-29T08:56:28"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayah-119.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-29T09:01:47"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayah-122.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-29T09:05:58"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayah-123.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-29T09:11:17"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayah-124.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-29T09:14:41"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayah-125.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-29T09:18:57"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayah-126.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-29T09:22:21"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayah-127.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-29T09:26:35"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayah-128.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-29T09:30:15"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayah-145.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-29T09:33:56"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayahs-044-045.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-29T09:43:51"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayahs-117-118.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-29T10:00:20"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayahs-120-121.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-29T10:04:33"
+  },
+  {
+    "path": "content/tadabbur/037-as-saffat/ayah-132.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-29T10:09:04"
+  },
+  {
+    "path": "content/tadabbur/038-sad/ayah-012.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-29T10:13:11"
+  },
+  {
+    "path": "content/tadabbur/038-sad/ayah-013.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-29T10:16:44"
+  },
+  {
+    "path": "content/tadabbur/039-az-zumar/ayah-065.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-29T10:21:06"
+  },
+  {
+    "path": "content/tadabbur/042-ash-shura/ayah-031.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-29T10:24:20"
+  },
+  {
+    "path": "content/tadabbur/050-qaf/ayah-030.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-29T10:28:17"
+  },
+  {
+    "path": "content/tadabbur/053-an-najm/ayah-050.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-29T10:32:11"
+  },
+  {
+    "path": "content/tadabbur/056-al-waqiah/ayahs-027-034.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-29T10:35:49"
+  },
+  {
+    "path": "content/tadabbur/056-al-waqiah/ayahs-041-048.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-29T10:40:44"
+  },
+  {
+    "path": "content/tadabbur/056-al-waqiah/ayahs-083-087.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-29T10:45:21"
+  },
+  {
+    "path": "content/tadabbur/059-al-hashr/ayah-015.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T00:24:03"
+  },
+  {
+    "path": "content/tadabbur/061-as-saf/ayah-007.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T00:27:44"
+  },
+  {
+    "path": "content/tadabbur/061-as-saf/ayahs-010-011.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T00:31:56"
+  },
+  {
+    "path": "content/tadabbur/062-al-jumuah/ayah-004.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T00:35:56"
+  },
+  {
+    "path": "content/tadabbur/062-al-jumuah/ayahs-009-010.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T00:41:13"
+  },
+  {
+    "path": "content/tadabbur/067-al-mulk/ayahs-006-009.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T00:45:52"
+  },
+  {
+    "path": "content/tadabbur/067-al-mulk/ayahs-025-027.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T00:49:32"
+  },
+  {
+    "path": "content/tadabbur/068-al-qalam/ayah-052.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T00:53:14"
+  },
+  {
+    "path": "content/tadabbur/068-al-qalam/ayahs-010-016.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T00:58:22"
+  },
+  {
+    "path": "content/tadabbur/068-al-qalam/ayahs-026-027.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T01:03:35"
+  },
+  {
+    "path": "content/tadabbur/068-al-qalam/ayahs-035-041.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T01:08:04"
+  },
+  {
+    "path": "content/tadabbur/069-al-haqqah/ayahs-013-017.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T01:13:39"
+  },
+  {
+    "path": "content/tadabbur/069-al-haqqah/ayahs-019-024.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T01:18:45"
+  },
+  {
+    "path": "content/tadabbur/069-al-haqqah/ayahs-038-047.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T01:28:30"
+  },
+  {
+    "path": "content/tadabbur/069-al-haqqah/ayahs-048-052.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T01:33:04"
+  },
+  {
+    "path": "content/tadabbur/070-al-maarij/ayahs-011-018.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T01:38:56"
+  },
+  {
+    "path": "content/tadabbur/070-al-maarij/ayahs-024-025.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T01:42:40"
+  },
+  {
+    "path": "content/tadabbur/070-al-maarij/ayahs-029-031.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T01:47:10"
+  },
+  {
+    "path": "content/tadabbur/070-al-maarij/ayahs-032-033.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T01:50:56"
+  },
+  {
+    "path": "content/tadabbur/070-al-maarij/ayahs-036-037.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T01:54:29"
+  },
+  {
+    "path": "content/tadabbur/070-al-maarij/ayahs-038-039.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T01:58:07"
+  },
+  {
+    "path": "content/tadabbur/070-al-maarij/ayahs-040-041.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T02:01:55"
+  },
+  {
+    "path": "content/tadabbur/070-al-maarij/ayahs-042-044.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T02:06:27"
+  },
+  {
+    "path": "content/tadabbur/071-nuh/ayahs-005-009.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T02:12:18"
+  },
+  {
+    "path": "content/tadabbur/071-nuh/ayahs-010-012.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T02:16:11"
+  },
+  {
+    "path": "content/tadabbur/071-nuh/ayahs-013-014.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T02:20:08"
+  },
+  {
+    "path": "content/tadabbur/071-nuh/ayahs-019-020.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T02:24:15"
+  },
+  {
+    "path": "content/tadabbur/071-nuh/ayahs-021-024.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T02:29:07"
+  },
+  {
+    "path": "content/tadabbur/072-al-jinn/ayahs-016-017.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T02:34:31"
+  },
+  {
+    "path": "content/tadabbur/072-al-jinn/ayahs-019-023.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T02:41:43"
+  },
+  {
+    "path": "content/tadabbur/074-al-muddaththir/ayahs-011-017.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T02:46:59"
+  },
+  {
+    "path": "content/tadabbur/074-al-muddaththir/ayahs-018-025.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T02:51:16"
+  },
+  {
+    "path": "content/tadabbur/074-al-muddaththir/ayahs-032-037.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T02:54:46"
+  },
+  {
+    "path": "content/tadabbur/074-al-muddaththir/ayahs-039-041.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T02:57:50"
+  },
+  {
+    "path": "content/tadabbur/074-al-muddaththir/ayahs-042-048.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T03:02:51"
+  },
+  {
+    "path": "content/tadabbur/076-al-insan/ayahs-029-030.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T03:06:36"
+  },
+  {
+    "path": "content/tadabbur/077-al-mursalat/ayahs-025-028.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T03:09:53"
+  },
+  {
+    "path": "content/tadabbur/077-al-mursalat/ayahs-030-033.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T03:14:26"
+  },
+  {
+    "path": "content/tadabbur/078-an-naba/ayahs-021-026.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T03:19:19"
+  },
+  {
+    "path": "content/tadabbur/078-an-naba/ayahs-027-029.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T03:23:34"
+  },
+  {
+    "path": "content/tadabbur/080-abasa/ayahs-001-010.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T03:27:06"
+  },
+  {
+    "path": "content/tadabbur/080-abasa/ayahs-024-032.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T03:31:56"
+  },
+  {
+    "path": "content/tadabbur/081-at-takwir/ayah-027.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T03:35:22"
+  },
+  {
+    "path": "content/tadabbur/081-at-takwir/ayahs-015-018.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T03:39:34"
+  },
+  {
+    "path": "content/tadabbur/081-at-takwir/ayahs-022-025.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T03:43:38"
+  },
+  {
+    "path": "content/tadabbur/081-at-takwir/ayahs-028-029.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T03:47:47"
+  },
+  {
+    "path": "content/tadabbur/082-al-infitar/ayahs-009-012.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T03:52:35"
+  },
+  {
+    "path": "content/tadabbur/082-al-infitar/ayahs-013-016.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T03:57:29"
+  },
+  {
+    "path": "content/tadabbur/076-al-insan/ayahs-027-028.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T17:04:41"
+  },
+  {
+    "path": "content/tadabbur/082-al-infitar/ayahs-017-019.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T17:09:47"
+  },
+  {
+    "path": "content/tadabbur/083-al-mutaffifin/ayahs-010-013.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T17:13:39"
+  },
+  {
+    "path": "content/tadabbur/083-al-mutaffifin/ayahs-014-017.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T17:17:07"
+  },
+  {
+    "path": "content/tadabbur/083-al-mutaffifin/ayahs-018-028.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T17:21:47"
+  },
+  {
+    "path": "content/tadabbur/083-al-mutaffifin/ayahs-029-036.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T17:27:05"
+  },
+  {
+    "path": "content/tadabbur/084-al-inshiqaq/ayahs-007-009.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T17:28:58"
+  },
+  {
+    "path": "content/tadabbur/084-al-inshiqaq/ayahs-010-015.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T17:33:42"
+  },
+  {
+    "path": "content/tadabbur/084-al-inshiqaq/ayahs-020-025.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T17:39:56"
+  },
+  {
+    "path": "content/tadabbur/085-al-buruj/ayahs-012-016.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T17:45:25"
+  },
+  {
+    "path": "content/tadabbur/085-al-buruj/ayahs-017-020.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T17:49:27"
+  },
+  {
+    "path": "content/tadabbur/085-al-buruj/ayahs-021-022.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T17:53:26"
+  },
+  {
+    "path": "content/tadabbur/086-at-tariq/ayahs-011-014.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T17:57:48"
+  },
+  {
+    "path": "content/tadabbur/086-at-tariq/ayahs-015-017.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T18:01:29"
+  },
+  {
+    "path": "content/tadabbur/087-al-ala/ayahs-008-011.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T18:06:32"
+  },
+  {
+    "path": "content/tadabbur/087-al-ala/ayahs-016-019.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T18:11:34"
+  },
+  {
+    "path": "content/tadabbur/089-al-fajr/ayahs-006-014.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T18:16:16"
+  },
+  {
+    "path": "content/tadabbur/089-al-fajr/ayahs-021-023.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T18:20:26"
+  },
+  {
+    "path": "content/tadabbur/089-al-fajr/ayahs-024-026.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T18:25:18"
+  },
+  {
+    "path": "content/tadabbur/090-al-balad/ayahs-008-010.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T18:28:42"
+  },
+  {
+    "path": "content/tadabbur/090-al-balad/ayahs-011-016.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T18:32:49"
+  },
+  {
+    "path": "content/tadabbur/090-al-balad/ayahs-018-020.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T18:36:47"
+  },
+  {
+    "path": "content/tadabbur/091-ash-shams/ayahs-011-013.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T18:41:13"
+  },
+  {
+    "path": "content/tadabbur/092-al-layl/ayahs-001-004.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T18:46:05"
+  },
+  {
+    "path": "content/tadabbur/092-al-layl/ayahs-012-013.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T18:49:59"
+  },
+  {
+    "path": "content/tadabbur/092-al-layl/ayahs-014-016.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T18:54:37"
+  },
+  {
+    "path": "content/tadabbur/092-al-layl/ayahs-017-018.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T18:58:57"
+  },
+  {
+    "path": "content/tadabbur/092-al-layl/ayahs-019-021.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T19:03:24"
+  },
+  {
+    "path": "content/tadabbur/096-al-alaq/ayahs-009-014.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T19:08:40"
+  },
+  {
+    "path": "content/tadabbur/096-al-alaq/ayahs-015-019.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T19:13:42"
+  },
+  {
+    "path": "content/tadabbur/098-al-bayyinah/ayahs-002-003.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T19:18:03"
+  },
+  {
+    "path": "content/tadabbur/099-az-zalzalah/ayahs-007-008.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T19:21:41"
+  },
+  {
+    "path": "content/tadabbur/100-al-adiyat/ayahs-006-008.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T19:24:45"
+  },
+  {
+    "path": "content/tadabbur/100-al-adiyat/ayahs-009-011.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T19:28:52"
+  },
+  {
+    "path": "content/tadabbur/101-al-qariah/ayahs-001-005.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-06-30T19:32:07"
+  },
+  {
+    "path": "content/tadabbur/104-al-humazah/ayahs-006-007.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-30T22:28:31"
+  },
+  {
+    "path": "content/tadabbur/101-al-qariah/ayahs-006-011.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-30T22:49:24"
+  },
+  {
+    "path": "content/tadabbur/111-al-masad/ayahs-001-003.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-30T23:00:38"
+  },
+  {
+    "path": "content/tadabbur/102-at-takathur/ayahs-005-007.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-sonnet-4-6",
+    "enriched_at": "2026-06-30T23:11:23"
+  },
+  {
+    "path": "content/tadabbur/002-al-baqarah/ayahs-006-017.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T10:28:43"
+  },
+  {
+    "path": "content/tadabbur/002-al-baqarah/ayahs-234-235.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T10:42:37"
+  },
+  {
+    "path": "content/tadabbur/002-al-baqarah/ayahs-236-237.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T10:49:29"
+  },
+  {
+    "path": "content/tadabbur/002-al-baqarah/ayahs-243-245.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T10:55:34"
+  },
+  {
+    "path": "content/tadabbur/002-al-baqarah/ayahs-258-260.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T11:02:14"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-193.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T11:04:17"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayahs-118-120.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T11:07:36"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayahs-146-148.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T11:09:50"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayahs-152-155.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T11:13:47"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayahs-161-164.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T11:15:50"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayahs-017-018.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T11:19:00"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayahs-071-073.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T11:23:04"
+  },
+  {
+    "path": "content/tadabbur/005-al-maidah/ayah-075.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T11:28:18"
+  },
+  {
+    "path": "content/tadabbur/005-al-maidah/ayahs-072-074.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T11:31:03"
+  },
+  {
+    "path": "content/tadabbur/005-al-maidah/ayahs-076-077.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T11:33:18"
+  },
+  {
+    "path": "content/tadabbur/005-al-maidah/ayahs-106-107.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T11:37:48"
+  },
+  {
+    "path": "content/tadabbur/006-al-anam/ayahs-035-039.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T11:43:15"
+  },
+  {
+    "path": "content/tadabbur/007-al-araf/ayahs-127-129.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T11:46:01"
+  },
+  {
+    "path": "content/tadabbur/007-al-araf/ayahs-161-162.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T11:47:41"
+  },
+  {
+    "path": "content/tadabbur/007-al-araf/ayahs-172-174.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T11:49:47"
+  },
+  {
+    "path": "content/tadabbur/007-al-araf/ayahs-189-190.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T11:51:51"
+  },
+  {
+    "path": "content/tadabbur/009-at-tawbah/ayahs-111-112.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T12:03:27"
+  },
+  {
+    "path": "content/tadabbur/010-yunus/ayahs-080-082.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T12:05:11"
+  },
+  {
+    "path": "content/tadabbur/017-al-isra/ayah-070.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T12:10:37"
+  },
+  {
+    "path": "content/tadabbur/017-al-isra/ayahs-073-075.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T12:14:50"
+  },
+  {
+    "path": "content/tadabbur/017-al-isra/ayahs-090-093.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T12:19:14"
+  },
+  {
+    "path": "content/tadabbur/017-al-isra/ayahs-094-095.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T12:23:08"
+  },
+  {
+    "path": "content/tadabbur/017-al-isra/ayahs-097-099.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T12:30:04"
+  },
+  {
+    "path": "content/tadabbur/018-al-kahf/ayah-099.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T12:34:40"
+  },
+  {
+    "path": "content/tadabbur/018-al-kahf/ayahs-050-053.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T12:43:08"
+  },
+  {
+    "path": "content/tadabbur/018-al-kahf/ayahs-054-056.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T12:49:30"
+  },
+  {
+    "path": "content/tadabbur/018-al-kahf/ayahs-060-065.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T12:59:07"
+  },
+  {
+    "path": "content/tadabbur/019-maryam/ayahs-016-021.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T13:09:32"
+  },
+  {
+    "path": "content/tadabbur/020-ta-ha/ayahs-092-094.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T13:12:01"
+  },
+  {
+    "path": "content/tadabbur/026-ash-shuara/ayahs-010-017.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T13:25:21"
+  },
+  {
+    "path": "content/tadabbur/026-ash-shuara/ayahs-184-190.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T13:28:09"
+  },
+  {
+    "path": "content/tadabbur/089-al-fajr/ayahs-027-030.md",
+    "status": "ENRICHED",
+    "prior_verdict": "CRITICAL",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T13:39:49"
+  },
+  {
+    "path": "content/tadabbur/002-al-baqarah/ayah-255.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T13:52:41"
+  },
+  {
+    "path": "content/tadabbur/002-al-baqarah/ayahs-030-034.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T13:58:26"
+  },
+  {
+    "path": "content/tadabbur/002-al-baqarah/ayahs-040-043.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T14:03:58"
+  },
+  {
+    "path": "content/tadabbur/002-al-baqarah/ayahs-044-046.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T14:09:21"
+  },
+  {
+    "path": "content/tadabbur/002-al-baqarah/ayahs-067-071.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T14:15:41"
+  },
+  {
+    "path": "content/tadabbur/002-al-baqarah/ayahs-083-086.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T14:24:40"
+  },
+  {
+    "path": "content/tadabbur/002-al-baqarah/ayahs-092-093.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T14:29:59"
+  },
+  {
+    "path": "content/tadabbur/002-al-baqarah/ayahs-122-123.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T14:35:40"
+  },
+  {
+    "path": "content/tadabbur/002-al-baqarah/ayahs-130-134.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T14:40:12"
+  },
+  {
+    "path": "content/tadabbur/002-al-baqarah/ayahs-135-141.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T14:47:30"
+  },
+  {
+    "path": "content/tadabbur/002-al-baqarah/ayahs-149-152.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T14:54:52"
+  },
+  {
+    "path": "content/tadabbur/002-al-baqarah/ayahs-153-157.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T15:04:29"
+  },
+  {
+    "path": "content/tadabbur/002-al-baqarah/ayahs-158-162.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T15:14:59"
+  },
+  {
+    "path": "content/tadabbur/002-al-baqarah/ayahs-163-167.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T15:22:56"
+  },
+  {
+    "path": "content/tadabbur/002-al-baqarah/ayahs-168-171.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T15:28:22"
+  },
+  {
+    "path": "content/tadabbur/002-al-baqarah/ayahs-172-176.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T15:37:15"
+  },
+  {
+    "path": "content/tadabbur/002-al-baqarah/ayahs-177-177.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T15:44:22"
+  },
+  {
+    "path": "content/tadabbur/002-al-baqarah/ayahs-178-182.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T15:51:08"
+  },
+  {
+    "path": "content/tadabbur/002-al-baqarah/ayahs-183-187.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T15:59:58"
+  },
+  {
+    "path": "content/tadabbur/002-al-baqarah/ayahs-188-191.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T16:09:24"
+  },
+  {
+    "path": "content/tadabbur/002-al-baqarah/ayahs-192-196.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T16:15:40"
+  },
+  {
+    "path": "content/tadabbur/002-al-baqarah/ayahs-197-203.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T16:23:41"
+  },
+  {
+    "path": "content/tadabbur/002-al-baqarah/ayahs-211-216.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T16:32:00"
+  },
+  {
+    "path": "content/tadabbur/002-al-baqarah/ayahs-217-220.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T16:39:37"
+  },
+  {
+    "path": "content/tadabbur/002-al-baqarah/ayahs-221-224.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T16:45:52"
+  },
+  {
+    "path": "content/tadabbur/002-al-baqarah/ayahs-238-239.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T16:59:31"
+  },
+  {
+    "path": "content/tadabbur/002-al-baqarah/ayahs-240-242.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T17:05:20"
+  },
+  {
+    "path": "content/tadabbur/002-al-baqarah/ayahs-246-252.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T17:13:05"
+  },
+  {
+    "path": "content/tadabbur/002-al-baqarah/ayahs-253-254.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T17:21:18"
+  },
+  {
+    "path": "content/tadabbur/002-al-baqarah/ayahs-256-257.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T17:26:40"
+  },
+  {
+    "path": "content/tadabbur/002-al-baqarah/ayahs-261-266.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T17:35:29"
+  },
+  {
+    "path": "content/tadabbur/002-al-baqarah/ayahs-267-274.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T17:43:24"
+  },
+  {
+    "path": "content/tadabbur/002-al-baqarah/ayahs-275-281.md",
+    "error": "output too short (17187c vs 33686c original) \u2014 refused to overwrite (likely stub/changelog response)",
+    "status": "ERROR",
+    "raw": "---\nsurah: 2\nsurah_name: \"Al-Baqarah\"\nayah_start: 275\nayah_end: 281\ntitle: \"A War from Allah \u2014 When the Quran Declared Riba the Only Sin That Triggers a Divine Declaration of War\"\narabic: \"\u0671\u0644\u064e\u0651\u0630\u0650\u064a\u0646\u064e \u064a\u064e\u0623\u0652\u0643\u064f\u0644\u064f\u0648\u0646\u064e \u0671\u0644\u0631\u0650\u0651\u0628\u064e\u0648\u0670\u0627\u06df \u0644\u064e\u0627 \u064a\u064e\u0642\u064f\u0648\u0645\u064f\u0648\u0646\u064e \u0625\u0650\u0644\u064e\u0651\u0627 \u0643\u064e\u0645\u064e\u0627 \u064a\u064e\u0642\u064f\u0648\u0645\u064f \u0671\u0644\u064e\u0651\u0630\u0650\u0649 \u064a\u064e\u062a\u064e\u062e\u064e\u0628\u064e\u0651\u0637\u064f\u0647\u064f \u0671\u0644\u0634\u064e\u0651\u064a\u0652\u0637\u064e\u0640\u0670\u0646\u064f \u0645\u0650\u0646\u064e "
+  },
+  {
+    "path": "content/tadabbur/002-al-baqarah/ayahs-282-286.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T17:55:59"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-098.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T17:57:34"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-181.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T18:02:26"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-182.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T18:04:04"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-186.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T18:05:54"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-187.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T18:07:24"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-188.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T18:08:50"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-189.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T18:10:26"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-192.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T18:11:56"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-194.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T18:13:45"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-195.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T18:15:48"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-198.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T18:17:41"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-199.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T18:20:29"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayahs-113-115.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T18:22:54"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayahs-116-117.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T18:25:44"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayahs-121-123.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T18:27:56"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayahs-124-126.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T18:31:39"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayahs-130-132.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T18:33:43"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayahs-156-158.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T18:35:45"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayahs-165-168.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T18:38:05"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayahs-169-171.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T18:39:46"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayahs-172-175.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T18:42:45"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayahs-196-197.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T18:44:45"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayah-176.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T18:47:25"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayahs-053-055.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T18:49:30"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayahs-060-064.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T18:54:57"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayahs-071-074.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T18:57:29"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayahs-131-134.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T19:00:57"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayahs-136-137.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T19:03:10"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayahs-138-141.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T19:06:17"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayahs-142-143.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T19:08:57"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayahs-147-149.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T19:11:44"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayahs-150-152.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T19:14:16"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayahs-153-155.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T19:19:40"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayahs-156-159.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T19:23:50"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayahs-163-165.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T19:26:40"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayahs-166-169.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T19:28:55"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayahs-172-173.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T19:31:22"
+  },
+  {
+    "path": "content/tadabbur/005-al-maidah/ayahs-020-026.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T19:37:45"
+  },
+  {
+    "path": "content/tadabbur/005-al-maidah/ayahs-043-045.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T19:42:34"
+  },
+  {
+    "path": "content/tadabbur/006-al-anam/ayahs-059-062.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T19:46:09"
+  },
+  {
+    "path": "content/tadabbur/006-al-anam/ayahs-066-069.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T19:48:12"
+  },
+  {
+    "path": "content/tadabbur/006-al-anam/ayahs-095-099.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T19:51:33"
+  },
+  {
+    "path": "content/tadabbur/006-al-anam/ayahs-100-104.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T19:56:27"
+  },
+  {
+    "path": "content/tadabbur/006-al-anam/ayahs-112-113.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T19:58:47"
+  },
+  {
+    "path": "content/tadabbur/006-al-anam/ayahs-126-127.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T20:00:18"
+  },
+  {
+    "path": "content/tadabbur/006-al-anam/ayahs-128-132.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T20:03:13"
+  },
+  {
+    "path": "content/tadabbur/006-al-anam/ayahs-141-144.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T20:08:53"
+  },
+  {
+    "path": "content/tadabbur/007-al-araf/ayahs-011-015.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T20:16:08"
+  },
+  {
+    "path": "content/tadabbur/007-al-araf/ayahs-037-039.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T20:18:34"
+  },
+  {
+    "path": "content/tadabbur/007-al-araf/ayahs-112-122.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T20:21:45"
+  },
+  {
+    "path": "content/tadabbur/007-al-araf/ayahs-130-131.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T20:27:30"
+  },
+  {
+    "path": "content/tadabbur/007-al-araf/ayahs-132-137.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T20:30:19"
+  },
+  {
+    "path": "content/tadabbur/007-al-araf/ayahs-141-143.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T20:32:46"
+  },
+  {
+    "path": "content/tadabbur/007-al-araf/ayahs-144-145.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T20:34:55"
+  },
+  {
+    "path": "content/tadabbur/007-al-araf/ayahs-146-147.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T20:38:02"
+  },
+  {
+    "path": "content/tadabbur/007-al-araf/ayahs-159-160.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T20:40:25"
+  },
+  {
+    "path": "content/tadabbur/007-al-araf/ayahs-167-169.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T20:42:47"
+  },
+  {
+    "path": "content/tadabbur/007-al-araf/ayahs-170-171.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T20:44:43"
+  },
+  {
+    "path": "content/tadabbur/007-al-araf/ayahs-191-193.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T20:47:36"
+  },
+  {
+    "path": "content/tadabbur/007-al-araf/ayahs-199-202.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T20:52:30"
+  },
+  {
+    "path": "content/tadabbur/009-at-tawbah/ayahs-055-057.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T20:57:58"
+  },
+  {
+    "path": "content/tadabbur/009-at-tawbah/ayahs-113-114.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T21:04:54"
+  },
+  {
+    "path": "content/tadabbur/009-at-tawbah/ayahs-115-116.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T21:09:37"
+  },
+  {
+    "path": "content/tadabbur/009-at-tawbah/ayahs-120-122.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T21:16:13"
+  },
+  {
+    "path": "content/tadabbur/009-at-tawbah/ayahs-124-127.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T21:21:36"
+  },
+  {
+    "path": "content/tadabbur/009-at-tawbah/ayahs-128-129.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T21:26:20"
+  },
+  {
+    "path": "content/tadabbur/010-yunus/ayahs-076-079.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T21:29:38"
+  },
+  {
+    "path": "content/tadabbur/010-yunus/ayahs-090-092.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T21:31:39"
+  },
+  {
+    "path": "content/tadabbur/010-yunus/ayahs-094-098.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T21:34:04"
+  },
+  {
+    "path": "content/tadabbur/011-hud/ayahs-053-056.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T21:36:37"
+  },
+  {
+    "path": "content/tadabbur/011-hud/ayahs-082-083.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T21:38:16"
+  },
+  {
+    "path": "content/tadabbur/011-hud/ayahs-084-086.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T21:40:23"
+  },
+  {
+    "path": "content/tadabbur/011-hud/ayahs-087-090.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T21:44:19"
+  },
+  {
+    "path": "content/tadabbur/011-hud/ayahs-100-103.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T21:47:39"
+  },
+  {
+    "path": "content/tadabbur/011-hud/ayahs-116-119.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T21:50:12"
+  },
+  {
+    "path": "content/tadabbur/012-yusuf/ayahs-050-052.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T21:53:25"
+  },
+  {
+    "path": "content/tadabbur/012-yusuf/ayahs-063-068.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T21:59:34"
+  },
+  {
+    "path": "content/tadabbur/012-yusuf/ayahs-080-083.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T22:05:31"
+  },
+  {
+    "path": "content/tadabbur/012-yusuf/ayahs-105-108.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T22:08:09"
+  },
+  {
+    "path": "content/tadabbur/013-ar-rad/ayahs-041-043.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T22:10:54"
+  },
+  {
+    "path": "content/tadabbur/015-al-hijr/ayahs-016-018.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T22:12:17"
+  },
+  {
+    "path": "content/tadabbur/015-al-hijr/ayahs-034-038.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T22:15:34"
+  },
+  {
+    "path": "content/tadabbur/015-al-hijr/ayahs-067-072.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T22:17:51"
+  },
+  {
+    "path": "content/tadabbur/015-al-hijr/ayahs-073-077.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T22:19:37"
+  },
+  {
+    "path": "content/tadabbur/015-al-hijr/ayahs-080-084.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T22:21:24"
+  },
+  {
+    "path": "content/tadabbur/015-al-hijr/ayahs-087-089.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T22:23:02"
+  },
+  {
+    "path": "content/tadabbur/015-al-hijr/ayahs-094-096.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T22:24:29"
+  },
+  {
+    "path": "content/tadabbur/016-an-nahl/ayahs-033-036.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T22:28:06"
+  },
+  {
+    "path": "content/tadabbur/016-an-nahl/ayahs-061-064.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T22:31:01"
+  },
+  {
+    "path": "content/tadabbur/016-an-nahl/ayahs-065-069.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T22:34:33"
+  },
+  {
+    "path": "content/tadabbur/016-an-nahl/ayahs-070-072.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T22:39:33"
+  },
+  {
+    "path": "content/tadabbur/016-an-nahl/ayahs-077-081.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T22:44:20"
+  },
+  {
+    "path": "content/tadabbur/016-an-nahl/ayahs-082-089.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T22:48:55"
+  },
+  {
+    "path": "content/tadabbur/016-an-nahl/ayahs-090-097.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T22:57:26"
+  },
+  {
+    "path": "content/tadabbur/016-an-nahl/ayahs-101-105.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T23:01:35"
+  },
+  {
+    "path": "content/tadabbur/016-an-nahl/ayahs-112-119.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T23:06:54"
+  },
+  {
+    "path": "content/tadabbur/017-al-isra/ayahs-018-021.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T23:09:08"
+  },
+  {
+    "path": "content/tadabbur/017-al-isra/ayahs-032-039.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T23:15:00"
+  },
+  {
+    "path": "content/tadabbur/017-al-isra/ayahs-063-066.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T23:20:33"
+  },
+  {
+    "path": "content/tadabbur/017-al-isra/ayahs-082-084.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T23:25:23"
+  },
+  {
+    "path": "content/tadabbur/017-al-isra/ayahs-085-088.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T23:28:32"
+  },
+  {
+    "path": "content/tadabbur/017-al-isra/ayahs-101-104.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T23:34:37"
+  },
+  {
+    "path": "content/tadabbur/017-al-isra/ayahs-105-106.md",
+    "error": "output too short (18229c vs 35278c original) \u2014 refused to overwrite (likely stub/changelog response)",
+    "status": "ERROR",
+    "raw": "---\nsurah: 17\nsurah_name: \"Al-Isra\"\nayah_start: 105\nayah_end: 106\ntitle: \"Sent With Truth, Recited With Patience\"\nslug: \"017-105-106\"\ncategory: tadabbur\narabic: \"\u0648\u064e\u0628\u0650\u0671\u0644\u0652\u062d\u064e\u0642\u0650\u0651 \u0623\u064e\u0646\u0632\u064e\u0644\u0652\u0646\u064e\u0640\u0670\u0647\u064f \u0648\u064e\u0628\u0650\u0671\u0644\u0652\u062d\u064e\u0642\u0650\u0651 \u0646\u064e\u0632\u064e\u0644\u064e \u06d7 \u0648\u064e\u0645\u064e\u0622 \u0623\u064e\u0631\u0652\u0633\u064e\u0644\u0652\u0646\u064e\u0640\u0670\u0643\u064e \u0625\u0650\u0644\u064e\u0651\u0627 \u0645\u064f\u0628\u064e\u0634\u0650\u0651\u0631\u064b\u0627 \u0648\u064e\u0646\u064e\u0630\u0650\u064a\u0631\u064b\u0627 \u06dd \u0648\u064e\u0642\u064f\u0631\u0652\u0621\u064e\u0627\u0646\u064b\u0627 \u0641\u064e\u0631\u064e\u0642\u0652\u0646\u064e\u0640\u0670\u0647\u064f \u0644\u0650\u062a\u064e\u0642\u0652\u0631\u064e\u0623\u064e\u0647"
+  },
+  {
+    "path": "content/tadabbur/017-al-isra/ayahs-107-109.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T23:42:03"
+  },
+  {
+    "path": "content/tadabbur/017-al-isra/ayahs-110-111.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T23:48:35"
+  },
+  {
+    "path": "content/tadabbur/018-al-kahf/ayahs-032-036.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T23:54:01"
+  },
+  {
+    "path": "content/tadabbur/018-al-kahf/ayahs-107-108.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-02T23:58:42"
+  },
+  {
+    "path": "content/tadabbur/019-maryam/ayahs-007-011.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T00:05:17"
+  },
+  {
+    "path": "content/tadabbur/019-maryam/ayahs-088-092.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T00:11:41"
+  },
+  {
+    "path": "content/tadabbur/020-ta-ha/ayahs-118-119.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T00:16:13"
+  },
+  {
+    "path": "content/tadabbur/021-al-anbiya/ayahs-076-077.md",
+    "error": "output too short (337c vs 3812c original) \u2014 refused to overwrite (likely stub/changelog response)",
+    "status": "ERROR",
+    "raw": "---` frontmatter. If it's on disk I can also just read it directly; say the word and I'll open it.\n\nOne substantive flag while we're here: the changelog sets `semantic_review: \"enriched-2026-06-03\"`, but today is **2026-07-03**. Per the task spec that field should be `\"enriched-2026-07-03\"`. I'll co"
+  },
+  {
+    "path": "content/tadabbur/023-al-muminun/ayahs-099-100.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T00:19:10"
+  },
+  {
+    "path": "content/tadabbur/023-al-muminun/ayahs-101-103.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T00:20:58"
+  },
+  {
+    "path": "content/tadabbur/023-al-muminun/ayahs-104-105.md",
+    "error": "output missing frontmatter (2 attempts)",
+    "status": "ERROR",
+    "raw": "I have to stop here and give you the real situation rather than emit a file, Azam \u2014 because producing one would mean forging sacred content, which your standing rules forbid.\n\n## The file has no reflection to enrich \u2014 it's corrupted\n\n`content/tadabbur/023-al-muminun/ayahs-104-105.md` does **not** co"
+  },
+  {
+    "path": "content/tadabbur/023-al-muminun/ayahs-109-111.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T00:26:05"
+  },
+  {
+    "path": "content/tadabbur/023-al-muminun/ayahs-112-115.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T00:27:40"
+  },
+  {
+    "path": "content/tadabbur/023-al-muminun/ayahs-116-118.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T00:29:31"
+  },
+  {
+    "path": "content/tadabbur/025-al-furqan/ayahs-063-074.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T00:32:27"
+  },
+  {
+    "path": "content/tadabbur/026-ash-shuara/ayahs-023-029.md",
+    "error": "output too short (2058c vs 3479c original) \u2014 refused to overwrite (likely stub/changelog response)",
+    "status": "ERROR",
+    "raw": "---` with no fields, never closed)\n- No reflection body, no ayah text, no linguistic journey\n- **Zero `<!-- morphology:... -->` comments** to preserve\n- None of the passages the prior review quoted (the al-Razi/al-Qurtubi sentence, the \"Pharaoh's prisons\" sentence, the `[PAUSE]` markers) actually ex"
+  },
+  {
+    "path": "content/tadabbur/026-ash-shuara/ayahs-040-045.md",
+    "error": "output too short (1517c vs 2532c original) \u2014 refused to overwrite (likely stub/changelog response)",
+    "status": "ERROR",
+    "raw": "---` and produce \"complete enriched markdown,\" I would be **inventing** the frontmatter, the entire reflection body, and the morphology tags from scratch \u2014 then presenting the invention as an enriched version of a real file. On a Quranic tadabbur platform that publishes to readers, that's not a form"
+  },
+  {
+    "path": "content/tadabbur/026-ash-shuara/ayahs-052-060.md",
+    "error": "output too short (1386c vs 2445c original) \u2014 refused to overwrite (likely stub/changelog response)",
+    "status": "ERROR",
+    "raw": "---`.\n- The reflection prose \u2014 \"Element One,\" \"Element Two,\" the *qal\u012bl\u016bn* paragraph, the linguistic journey, and critically **all the `<!-- morphology:... -->` tags** I'm required to preserve verbatim.\n\n**Why I won't reconstruct it anyway:** To \"return the complete enriched markdown file,\" I'd have"
+  },
+  {
+    "path": "content/tadabbur/026-ash-shuara/ayahs-088-089.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T00:41:04"
+  },
+  {
+    "path": "content/tadabbur/026-ash-shuara/ayahs-096-102.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T00:42:39"
+  },
+  {
+    "path": "content/tadabbur/026-ash-shuara/ayahs-105-110.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T00:44:17"
+  },
+  {
+    "path": "content/tadabbur/026-ash-shuara/ayahs-116-120.md",
+    "error": "output too short (1597c vs 2792c original) \u2014 refused to overwrite (likely stub/changelog response)",
+    "status": "ERROR",
+    "raw": "---`:** To \"return the complete enriched markdown,\" I'd have to author an entire tadabbur reflection from scratch \u2014 the body is gone. That would:\n\n1. Violate the project's **#1 critical rule**: never generate Quranic tadabbur via a custom prompt/agent; always invoke `/quranic-tadabbur` + run the 3 v"
+  },
+  {
+    "path": "content/tadabbur/026-ash-shuara/ayahs-139-140.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T00:51:02"
+  },
+  {
+    "path": "content/tadabbur/026-ash-shuara/ayahs-141-145.md",
+    "error": "output too short (616c vs 2684c original) \u2014 refused to overwrite (likely stub/changelog response)",
+    "status": "ERROR",
+    "raw": "---`, `validated: false`, `status: needs-regeneration`, and a corruption note. I also preserved the verified tafsir anchors (Ibn Kathir on Al-\u1e24ijr/Tabuk, al-Muyassar on the \u0627\u0644\u0652\u0645\u064f\u0631\u0652\u0633\u064e\u0644\u0650\u064a\u0646\u064e plural, al-Tabari on \u0623\u064e\u0644\u064e\u0627 \u062a\u064e\u062a\u064e\u0651\u0642\u064f\u0648\u0646\u064e and \u0623\u064e\u0645\u0650\u064a\u0646\u064c) so the eventual skill-driven regeneration has a clean, source"
+  },
+  {
+    "path": "content/tadabbur/026-ash-shuara/ayahs-218-219.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T00:57:46"
+  },
+  {
+    "path": "content/tadabbur/027-an-naml/ayahs-067-068.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T00:59:33"
+  },
+  {
+    "path": "content/tadabbur/028-al-qasas/ayahs-023-028.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T01:01:43"
+  },
+  {
+    "path": "content/tadabbur/036-ya-sin/ayahs-078-083.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T01:07:21"
+  },
+  {
+    "path": "content/tadabbur/036-yasin/ayahs-037-040.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T01:13:29"
+  },
+  {
+    "path": "content/tadabbur/036-yasin/ayahs-078-083.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T01:18:59"
+  },
+  {
+    "path": "content/tadabbur/042-ash-shura/ayahs-049-050.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T01:25:54"
+  },
+  {
+    "path": "content/tadabbur/042-ash-shura/ayahs-051-053.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T01:30:07"
+  },
+  {
+    "path": "content/tadabbur/043-az-zukhruf/ayahs-031-035.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T01:36:31"
+  },
+  {
+    "path": "content/tadabbur/043-az-zukhruf/ayahs-036-039.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T01:43:36"
+  },
+  {
+    "path": "content/tadabbur/050-qaf/ayahs-019-022.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T01:48:49"
+  },
+  {
+    "path": "content/tadabbur/053-an-najm/ayahs-013-018.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T01:55:09"
+  },
+  {
+    "path": "content/tadabbur/055-ar-rahman/ayahs-001-013.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T01:59:02"
+  },
+  {
+    "path": "content/tadabbur/056-al-waqiah/ayahs-001-012.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T02:04:12"
+  },
+  {
+    "path": "content/tadabbur/056-al-waqiah/ayahs-057-074.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T02:11:56"
+  },
+  {
+    "path": "content/tadabbur/056-al-waqiah/ayahs-075-082.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T02:22:54"
+  },
+  {
+    "path": "content/tadabbur/067-al-mulk/ayahs-013-015.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T02:33:58"
+  },
+  {
+    "path": "content/tadabbur/075-al-qiyamah/ayahs-007-013.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T02:40:57"
+  },
+  {
+    "path": "content/tadabbur/080-abasa/ayah-019.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T02:42:07"
+  },
+  {
+    "path": "content/tadabbur/088-al-ghashiyah/ayahs-002-007.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T02:51:47"
+  },
+  {
+    "path": "content/tadabbur/088-al-ghashiyah/ayahs-008-016.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MODERATE",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T02:54:18"
+  },
+  {
+    "path": "content/tadabbur/002-al-baqarah/ayahs-075-079.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T03:01:18"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-184.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T03:03:58"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-185.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T03:06:21"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-190.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T03:08:19"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-200.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T03:10:36"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayahs-137-141.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T03:15:00"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayahs-142-145.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T03:17:37"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayahs-149-151.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T03:19:35"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayah-135.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T03:24:57"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayah-162.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T03:27:11"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayahs-065-070.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T03:30:06"
+  },
+  {
+    "path": "content/tadabbur/006-al-anam/ayahs-027-031.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T03:35:24"
+  },
+  {
+    "path": "content/tadabbur/006-al-anam/ayahs-052-054.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T03:37:46"
+  },
+  {
+    "path": "content/tadabbur/006-al-anam/ayahs-070-073.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T03:42:18"
+  },
+  {
+    "path": "content/tadabbur/006-al-anam/ayahs-074-079.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T03:48:07"
+  },
+  {
+    "path": "content/tadabbur/006-al-anam/ayahs-084-090.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T03:50:47"
+  },
+  {
+    "path": "content/tadabbur/006-al-anam/ayahs-091-094.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T03:54:19"
+  },
+  {
+    "path": "content/tadabbur/006-al-anam/ayahs-114-117.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T03:56:38"
+  },
+  {
+    "path": "content/tadabbur/006-al-anam/ayahs-118-121.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T03:59:07"
+  },
+  {
+    "path": "content/tadabbur/006-al-anam/ayahs-122-125.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T04:05:20"
+  },
+  {
+    "path": "content/tadabbur/006-al-anam/ayahs-136-140.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T04:10:50"
+  },
+  {
+    "path": "content/tadabbur/006-al-anam/ayahs-148-150.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T04:13:36"
+  },
+  {
+    "path": "content/tadabbur/006-al-anam/ayahs-151-153.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T04:16:28"
+  },
+  {
+    "path": "content/tadabbur/006-al-anam/ayahs-158-160.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T04:19:32"
+  },
+  {
+    "path": "content/tadabbur/006-al-anam/ayahs-161-165.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T04:21:54"
+  },
+  {
+    "path": "content/tadabbur/007-al-araf/ayahs-004-009.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T04:24:02"
+  },
+  {
+    "path": "content/tadabbur/007-al-araf/ayahs-046-049.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T04:26:31"
+  },
+  {
+    "path": "content/tadabbur/007-al-araf/ayahs-065-072.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T04:32:23"
+  },
+  {
+    "path": "content/tadabbur/007-al-araf/ayahs-073-079.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T04:35:12"
+  },
+  {
+    "path": "content/tadabbur/007-al-araf/ayahs-100-102.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T04:38:01"
+  },
+  {
+    "path": "content/tadabbur/007-al-araf/ayahs-103-108.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T04:40:21"
+  },
+  {
+    "path": "content/tadabbur/007-al-araf/ayahs-123-126.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T04:42:15"
+  },
+  {
+    "path": "content/tadabbur/007-al-araf/ayahs-138-140.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T04:44:43"
+  },
+  {
+    "path": "content/tadabbur/007-al-araf/ayahs-148-152.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T04:48:37"
+  },
+  {
+    "path": "content/tadabbur/007-al-araf/ayahs-153-156.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T04:51:20"
+  },
+  {
+    "path": "content/tadabbur/007-al-araf/ayahs-163-166.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T04:54:18"
+  },
+  {
+    "path": "content/tadabbur/007-al-araf/ayahs-175-176.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T04:57:55"
+  },
+  {
+    "path": "content/tadabbur/007-al-araf/ayahs-177-179.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T05:01:12"
+  },
+  {
+    "path": "content/tadabbur/007-al-araf/ayahs-180-181.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T05:03:26"
+  },
+  {
+    "path": "content/tadabbur/007-al-araf/ayahs-182-183.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T05:05:20"
+  },
+  {
+    "path": "content/tadabbur/007-al-araf/ayahs-184-186.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T05:08:43"
+  },
+  {
+    "path": "content/tadabbur/007-al-araf/ayahs-187-188.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T05:11:46"
+  },
+  {
+    "path": "content/tadabbur/007-al-araf/ayahs-194-198.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T05:14:33"
+  },
+  {
+    "path": "content/tadabbur/007-al-araf/ayahs-203-206.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T05:16:59"
+  },
+  {
+    "path": "content/tadabbur/008-al-anfal/ayahs-050-054.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T05:24:22"
+  },
+  {
+    "path": "content/tadabbur/008-al-anfal/ayahs-067-069.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T05:27:14"
+  },
+  {
+    "path": "content/tadabbur/009-at-tawbah/ayahs-082-087.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T05:33:52"
+  },
+  {
+    "path": "content/tadabbur/009-at-tawbah/ayahs-117-119.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T05:40:07"
+  },
+  {
+    "path": "content/tadabbur/010-yunus/ayahs-045-049.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T05:42:28"
+  },
+  {
+    "path": "content/tadabbur/010-yunus/ayahs-099-103.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T05:45:05"
+  },
+  {
+    "path": "content/tadabbur/010-yunus/ayahs-104-109.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T05:47:44"
+  },
+  {
+    "path": "content/tadabbur/011-hud/ayahs-069-073.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T05:50:23"
+  },
+  {
+    "path": "content/tadabbur/011-hud/ayahs-091-095.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T05:53:11"
+  },
+  {
+    "path": "content/tadabbur/011-hud/ayahs-096-099.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T05:55:04"
+  },
+  {
+    "path": "content/tadabbur/011-hud/ayahs-120-123.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T05:57:35"
+  },
+  {
+    "path": "content/tadabbur/012-yusuf/ayahs-036-042.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T06:03:45"
+  },
+  {
+    "path": "content/tadabbur/012-yusuf/ayahs-043-049.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T06:09:11"
+  },
+  {
+    "path": "content/tadabbur/012-yusuf/ayahs-054-057.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T06:11:30"
+  },
+  {
+    "path": "content/tadabbur/012-yusuf/ayahs-058-062.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T06:13:44"
+  },
+  {
+    "path": "content/tadabbur/012-yusuf/ayahs-084-087.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T06:16:11"
+  },
+  {
+    "path": "content/tadabbur/012-yusuf/ayahs-093-096.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T06:18:42"
+  },
+  {
+    "path": "content/tadabbur/013-ar-rad/ayahs-032-035.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T06:21:47"
+  },
+  {
+    "path": "content/tadabbur/014-ibrahim/ayahs-031-034.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T06:24:23"
+  },
+  {
+    "path": "content/tadabbur/015-al-hijr/ayahs-043-048.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T06:26:05"
+  },
+  {
+    "path": "content/tadabbur/015-al-hijr/ayahs-051-056.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T06:28:06"
+  },
+  {
+    "path": "content/tadabbur/015-al-hijr/ayahs-057-060.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T06:30:07"
+  },
+  {
+    "path": "content/tadabbur/015-al-hijr/ayahs-061-066.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T06:32:16"
+  },
+  {
+    "path": "content/tadabbur/016-an-nahl/ayahs-005-008.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T06:34:38"
+  },
+  {
+    "path": "content/tadabbur/016-an-nahl/ayahs-019-025.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T06:37:09"
+  },
+  {
+    "path": "content/tadabbur/016-an-nahl/ayahs-028-032.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T06:40:24"
+  },
+  {
+    "path": "content/tadabbur/016-an-nahl/ayahs-051-055.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T06:42:29"
+  },
+  {
+    "path": "content/tadabbur/016-an-nahl/ayahs-056-060.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T06:45:47"
+  },
+  {
+    "path": "content/tadabbur/016-an-nahl/ayahs-106-110.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T06:49:24"
+  },
+  {
+    "path": "content/tadabbur/016-an-nahl/ayahs-120-124.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T06:52:18"
+  },
+  {
+    "path": "content/tadabbur/016-an-nahl/ayahs-125-128.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T06:54:39"
+  },
+  {
+    "path": "content/tadabbur/017-al-isra/ayahs-040-044.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T07:00:08"
+  },
+  {
+    "path": "content/tadabbur/017-al-isra/ayahs-053-057.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T07:05:16"
+  },
+  {
+    "path": "content/tadabbur/017-al-isra/ayahs-058-060.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T07:08:02"
+  },
+  {
+    "path": "content/tadabbur/017-al-isra/ayahs-067-070.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T07:13:27"
+  },
+  {
+    "path": "content/tadabbur/018-al-kahf/ayahs-077-078.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T07:18:17"
+  },
+  {
+    "path": "content/tadabbur/018-al-kahf/ayahs-079-082.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T07:28:03"
+  },
+  {
+    "path": "content/tadabbur/020-ta-ha/ayahs-037-041.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T07:36:59"
+  },
+  {
+    "path": "content/tadabbur/020-taha/ayahs-011-014.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T07:45:45"
+  },
+  {
+    "path": "content/tadabbur/024-an-nur/ayahs-036-038.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T07:51:37"
+  },
+  {
+    "path": "content/tadabbur/025-al-furqan/ayahs-063-067.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T07:55:33"
+  },
+  {
+    "path": "content/tadabbur/026-ash-shuara/ayahs-192-197.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T08:11:48"
+  },
+  {
+    "path": "content/tadabbur/036-ya-sin/ayahs-033-040.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T08:20:55"
+  },
+  {
+    "path": "content/tadabbur/091-ash-shams/ayahs-007-010.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T08:28:43"
+  },
+  {
+    "path": "content/tadabbur/092-al-layl/ayahs-005-010.md",
+    "status": "ENRICHED",
+    "prior_verdict": "MINOR",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T08:36:25"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-183.md",
+    "status": "ENRICHED",
+    "prior_verdict": "PASS",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T08:38:05"
+  },
+  {
+    "path": "content/tadabbur/005-al-maidah/ayahs-083-085.md",
+    "status": "ENRICHED",
+    "prior_verdict": "PASS",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T08:40:04"
+  },
+  {
+    "path": "content/tadabbur/006-al-anam/ayahs-145-147.md",
+    "status": "ENRICHED",
+    "prior_verdict": "PASS",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T08:42:24"
+  },
+  {
+    "path": "content/tadabbur/006-al-anam/ayahs-154-157.md",
+    "status": "ENRICHED",
+    "prior_verdict": "PASS",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T08:44:52"
+  },
+  {
+    "path": "content/tadabbur/007-al-araf/ayahs-085-093.md",
+    "status": "ENRICHED",
+    "prior_verdict": "PASS",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T08:51:55"
+  },
+  {
+    "path": "content/tadabbur/007-al-araf/ayahs-157-158.md",
+    "status": "ENRICHED",
+    "prior_verdict": "PASS",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T08:55:39"
+  },
+  {
+    "path": "content/tadabbur/009-at-tawbah/ayahs-075-078.md",
+    "status": "ENRICHED",
+    "prior_verdict": "PASS",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T08:57:27"
+  },
+  {
+    "path": "content/tadabbur/012-yusuf/ayahs-102-104.md",
+    "status": "ENRICHED",
+    "prior_verdict": "PASS",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T08:59:26"
+  },
+  {
+    "path": "content/tadabbur/014-ibrahim/ayahs-038-041.md",
+    "status": "ENRICHED",
+    "prior_verdict": "PASS",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T09:01:15"
+  },
+  {
+    "path": "content/tadabbur/017-al-isra/ayahs-049-052.md",
+    "status": "ENRICHED",
+    "prior_verdict": "PASS",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T09:03:31"
+  },
+  {
+    "path": "content/tadabbur/018-al-kahf/ayahs-066-070.md",
+    "status": "ENRICHED",
+    "prior_verdict": "PASS",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T09:08:13"
+  },
+  {
+    "path": "content/tadabbur/039-az-zumar/ayahs-071-075.md",
+    "status": "ENRICHED",
+    "prior_verdict": "PASS",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T09:14:03"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-008.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T09:18:43"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-009.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T09:22:35"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-018.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T09:32:52"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-023.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T09:34:09"
+  },
+  {
+    "path": "content/tadabbur/003-aal-imran/ayah-028.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T09:37:11"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayah-092.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T09:42:33"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayahs-011-012.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T09:48:15"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayahs-022-023.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T09:52:10"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayahs-090-091.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T09:56:38"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayahs-101-102.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T10:01:38"
+  },
+  {
+    "path": "content/tadabbur/004-an-nisa/ayahs-105-109.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T10:06:35"
+  },
+  {
+    "path": "content/tadabbur/011-hud/ayahs-104-108.md",
+    "status": "ENRICHED",
+    "prior_verdict": "UNKNOWN",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T10:08:44"
+  },
+  {
+    "path": "content/tadabbur/036-ya-sin/ayahs-013-019.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T10:13:55"
+  },
+  {
+    "path": "content/tadabbur/036-ya-sin/ayahs-020-027.md",
+    "error": "output too short (1235c vs 2508c original) \u2014 refused to overwrite (likely stub/changelog response)",
+    "status": "ERROR",
+    "raw": "---`,\" the only way to do that is to **write an entire tadabbur reflection from scratch**. That violates two hard rules I can't override:\n\n1. **Never generate Quranic tadabbur via a custom prompt** \u2014 it must go through the `/quranic-tadabbur` skill, with all three validators (`verify_arabic`, `verif"
+  },
+  {
+    "path": "content/tadabbur/036-ya-sin/ayahs-074-075.md",
+    "error": "output missing frontmatter (2 attempts)",
+    "status": "ERROR",
+    "raw": "Done. This turned out to be a recovery job, not a routine enrichment \u2014 worth explaining rather than silently returning a file.\n\n## What happened\n\nThe file passed to me as the \"reflection\" was **not a reflection at all** \u2014 it was the leftover meta-summary of a *previous* enrichment pass (\"\u2460 Element T"
+  },
+  {
+    "path": "content/tadabbur/037-as-saffat/ayah-102.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T10:30:01"
+  },
+  {
+    "path": "content/tadabbur/037-as-saffat/ayahs-011-021.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T10:34:23"
+  },
+  {
+    "path": "content/tadabbur/037-as-saffat/ayahs-050-061.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T10:36:25"
+  },
+  {
+    "path": "content/tadabbur/037-as-saffat/ayahs-137-138.md",
+    "error": "output too short (1434c vs 2534c original) \u2014 refused to overwrite (likely stub/changelog response)",
+    "status": "ERROR",
+    "raw": "---` file:**\n\nTo satisfy the \"start with `---`, output only markdown\" demand, I'd have to *write a tadabbur reflection from scratch* \u2014 inventing the prose the changelog alludes to. That violates the single highest-priority rule in your own instructions:\n\n> **NEVER generate Quranic tadabbur content v"
+  },
+  {
+    "path": "content/tadabbur/037-as-saffat/ayahs-149-160.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T10:46:34"
+  },
+  {
+    "path": "content/tadabbur/038-sad/ayahs-036-040.md",
+    "error": "output too short (770c vs 2863c original) \u2014 refused to overwrite (likely stub/changelog response)",
+    "status": "ERROR",
+    "raw": "---`\" instruction is pushing toward exactly the outcome those rules exist to prevent, so I'm not complying with the fabrication.\n\n## The correct fix\n\n1. **Regenerate** `ayahs-036-040.md` (38:36\u201340) via the `Skill \u2192 quranic-tadabbur` pipeline \u2014 not this enrichment prompt.\n2. Run the 3 validators (`ve"
+  },
+  {
+    "path": "content/tadabbur/038-sad/ayahs-073-074.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T10:56:10"
+  },
+  {
+    "path": "content/tadabbur/039-az-zumar/ayahs-051-052.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T10:58:00"
+  },
+  {
+    "path": "content/tadabbur/040-ghafir/ayahs-069-072.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T11:00:33"
+  },
+  {
+    "path": "content/tadabbur/040-ghafir/ayahs-079-081.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T11:02:05"
+  },
+  {
+    "path": "content/tadabbur/043-az-zukhruf/ayahs-063-065.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T11:03:49"
+  },
+  {
+    "path": "content/tadabbur/043-az-zukhruf/ayahs-079-080.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T11:05:18"
+  },
+  {
+    "path": "content/tadabbur/044-ad-dukhan/ayahs-001-008.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T11:07:23"
+  },
+  {
+    "path": "content/tadabbur/044-ad-dukhan/ayahs-017-024.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T11:11:44"
+  },
+  {
+    "path": "content/tadabbur/044-ad-dukhan/ayahs-025-029.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T11:13:11"
+  },
+  {
+    "path": "content/tadabbur/046-al-ahqaf/ayahs-029-032.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T11:14:03"
+  },
+  {
+    "path": "content/tadabbur/052-at-tur/ayahs-048-049.md",
+    "error": "output too short (1055c vs 2675c original) \u2014 refused to overwrite (likely stub/changelog response)",
+    "status": "ERROR",
+    "raw": "---`,\" I'd have to hand-fabricate the entire reflection \u2014 frontmatter fields I've never seen, morphology roots/forms invented from scratch (the rules demand I *preserve* these, not author them), and the full body. That's fabricating sacred Quranic content, which your `critical_skill_enforcement` rul"
+  },
+  {
+    "path": "content/tadabbur/055-ar-rahman/ayah-056.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T11:19:12"
+  },
+  {
+    "path": "content/tadabbur/057-al-hadid/ayahs-012-015.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T11:23:29"
+  },
+  {
+    "path": "content/tadabbur/058-al-mujadila/ayahs-002-004.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T11:28:53"
+  },
+  {
+    "path": "content/tadabbur/069-al-haqqah/ayahs-025-037.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T11:33:21"
+  },
+  {
+    "path": "content/tadabbur/079-an-naziat/ayahs-015-026.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T11:38:31"
+  },
+  {
+    "path": "content/tadabbur/102-at-takathur/ayahs-001-002.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T11:42:30"
+  },
+  {
+    "path": "content/tadabbur/104-al-humazah/ayahs-008-009.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T11:46:30"
+  },
+  {
+    "path": "content/tadabbur/107-al-maun/ayahs-004-007.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T11:50:15"
+  },
+  {
+    "path": "content/tadabbur/109-al-kafirun/ayahs-001-006.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T11:54:20"
+  },
+  {
+    "path": "content/tadabbur/111-al-masad/ayahs-004-005.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T11:57:39"
+  },
+  {
+    "path": "content/tadabbur/113-al-falaq/ayah-003.md",
+    "status": "ENRICHED",
+    "prior_verdict": "none",
+    "model": "claude-opus-4-8",
+    "enriched_at": "2026-07-03T12:01:28"
+  }
+]

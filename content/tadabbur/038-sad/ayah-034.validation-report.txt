@@ -1,0 +1,26 @@
+Enhanced Validation Report
+File: content/tadabbur/038-sad/ayah-034.md
+Ayah: 38:34
+Date: 2026-06-06T00:22:22
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَلَقَدْ=And certainly | فَتَنَّا=We tried | سُلَيْمَـٰنَ=Sulaiman, | وَأَلْقَيْنَا=and We placed | عَلَىٰ=on | كُرْسِيِّهِۦ=his throne | جَسَدًا=a body; | ثُمَّ=then | أَنَابَ=he turned.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "A *jasad*, here, is precisely a body that **does not eat** — a form without the living functions of a living being." — The logic from 21:8 is inverted. The verse reads *"wa-mā jaʿalnāhum jasadan lā yaʾkulūna l-ṭaʿām"* — "We did not make them a jasad that does not eat." The verse DENIES that the prophets were non-eating bodies, confirming they were normal living humans. The semantic weight of "doesn't eat / lifeless form" comes from the relative clause *lā yaʾkulūna*, not from *jasad* alone. The reflection extracts *jasad* in isolation and says it "is precisely a body that does not eat" — that attribution belongs to the compound phrase, not the root. The supporting argument from 7:148 and 20:88 (the golden calf) is valid and sufficient; the 21:8 reasoning overstates.
+
+SUMMARY: No critical errors in Arabic, roots, scholar attribution, or Quranic citation; the reflection appropriately withholds identification of the jasad (consistent with classical disagreement across Jalalayn, Muyassar, Qurtubi, and Baghawi); the sole issue is an imprecise grammatical argument from 21:8 that inverts the negation to define *jasad* alone as a lifeless form, when that meaning is carried by the full phrase *jasad lā yaʾkul*, not the root by itself.

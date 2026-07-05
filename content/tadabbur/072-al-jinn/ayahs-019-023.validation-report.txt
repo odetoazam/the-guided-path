@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/072-al-jinn/ayahs-019-023.md
+Ayah: 72:19
+Date: 2026-06-15T09:35:35
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَأَنَّهُۥ=And that | لَمَّا=when | قَامَ=stood up | عَبْدُ=(the) slave | ٱللَّهِ=(of) Allah | يَدْعُوهُ=calling (upon) Him, | كَادُواْ=they almost | يَكُونُونَ=became | عَلَيْهِ=around him | لِبَدًا=a compacted mass.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "Al-Jalālayn writes that *libad* is the plural of *lubda*, 'like felt — *kal-libd* — in the way some of them mounted upon others, crowding, out of eagerness to hear the Qurʾān'" — accurate rendering; Jalālayn text confirms "جمع لبدة كاللبد في ركوب بعضهم بعضا ازدحاما حرصا على سماع القرآن" exactly.
+- [PASS] "Al-Muyassar renders the picture as *jamāʿāt mutarākima, baʿḍuhā fawqa baʿḍ*" — confirmed verbatim: "جماعات متراكمة، بعضها فوق بعض"
+- [PASS] "Al-Baghawī: *yarkabu baʿḍuhum baʿḍan wa yazdaḥimūn*" — confirmed: "يركب بعضهم بعضا ويزدحمون"
+- [PASS] Identification of ʿabd Allāh as the Prophet ﷺ at Baṭn Nakhla — confirmed by all four tafsir sources; Qurṭubī and Baghawī both specify the Baṭn Nakhla location explicitly
+- [PASS] Recitation variant *libadā* / *lubadā* — Jalālayn confirms "بكسر اللام وضمها" (kasra and ḍamma), both cited
+- [PASS] كَادُوا attributed to the jinn — all sources confirm "الجن المستمعون" (the listening jinn)
+- [PASS] Root ل-ب-د for لِبَدًا — confirmed by all tafsir sources discussing lubda/libd
+- [NOTE] "The kind that gathers on the chest of a lion" — plausible classical lexical detail (Lisān al-ʿArab does associate lubda with lion's mane/chest hair), but not derivable from the reference data provided; cannot flag as error, but cannot confirm from supplied sources
+
+SUMMARY: All tafsir attributions, morphological claims, and Arabic citations in the reviewed passage are accurate and faithfully rendered against the provided reference data; no factual or scholarly errors detected.

@@ -1,0 +1,28 @@
+Enhanced Validation Report
+File: content/tadabbur/047-muhammad/ayah-037.md
+Ayah: 47:37
+Date: 2026-06-08T12:31:23
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِن=If | يَسْــَٔلْكُمُوهَا=He were to ask you for it | فَيُحْفِكُمْ=and press you, | تَبْخَلُواْ=you will withhold | وَيُخْرِجْ=and He will bring forth | أَضْغَـٰنَكُمْ=your hatred.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "He would drag out of you the rancor you keep buried" — The translation assigns وَيُخْرِجْ to Allah as direct agent. Both Jalālayn and Qurtubī explicitly gloss the grammatical subject as *al-bukhl* (stinginess): "يخرج البخل أضغانكم" / "أي يخرج البخل أضغانكم." The causal chain is: pressing → you withhold → *your own withholding* surfaces the buried rancor. The reflection follows the word-by-word reference supplied (which reads "He will bring forth"), but that reference itself flattens the classical reading. As presented, the translation forecloses a significant exegetical alternative that carries distinct theological weight — whether Allah extracts the rancor directly, or whether the person's own stinginess exposes it.
+
+No other issues found. Root identifications (ḥ-f-w, ḍ-g-n, x-r-j, b-x-l, s-ʾ-l) are accurate. Both Form IV attributions (yuḥfi, yukhrij) are correct. The Qurtubī gloss يُلِحَّ عليكم and Baghawī gloss يُجْهِدُكُمْ are cited accurately and sourced directly from the provided tafsir data. The *aḥfā shāribahu* illustration appears in the Qurtubī text supplied. The إِن/إِذا conditional distinction is linguistically defensible and the interpretive use of it (the hypothetical Allah has already foreclosed in 47:36) aligns with Muyassar's reading: "ولا يسألكم إخراج أموالكم جميعها."
+
+SUMMARY: The reflection is linguistically rigorous and tafsir-grounded throughout; the single MODERATE flag is the translation's direct attribution of وَيُخْرِجْ to Allah, which bypasses the Jalālayn/Qurtubī reading that *al-bukhl* itself is the grammatical subject and the mechanism of exposure.

@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/047-muhammad/ayah-035.md
+Ayah: 47:35
+Date: 2026-06-08T11:07:30
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَلَا=So (do) not | تَهِنُواْ=weaken | وَتَدْعُوٓاْ=and call | إِلَى=for | ٱلسَّلْمِ=peace | وَأَنتُمُ=while you | ٱلْأَعْلَوْنَ=(are) superior, | وَٱللَّهُ=and Allah | مَعَكُمْ=(is) with you | وَلَن=and never | يَتِرَكُمْ=will deprive you | أَعْمَـٰلَكُمْ=(of) your deeds.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "The Qur'an does not use *wahn* for the weakness of the body. There's another famous verse — in Sūrat Maryam — where Zakariyyā says 'my bones have grown feeble' — and even there the image is of structure failing." — This claim is self-undermining as stated. Q 19:4 ("وَهَنَ الْعَظْمُ مِنِّي") applies the root w-h-n directly to bones, which are physical/bodily. The reflection immediately contradicts its own generalization by citing this verse. The distinction it draws between "body weakness" and "structural failure" is a rhetorical gloss, not a lexically documented distinction — none of the provided tafsir sources draw this line. The reflection could say "wahn carries the sense of structural collapse, not mere surface injury" without making an absolute claim about Quranic usage that its own example refutes.
+
+All other checkable claims pass cleanly against the provided reference data:
+- Arabic text: matches authentic text exactly
+- al-Qurṭubī's definition *al-wahn: aḍ-ḍaʿf* — confirmed (ar.qurtubi: "والوهن : الضعف")
+- al-Baghawī gloss *lā taḍʿufū* — confirmed (ar.baghawi: "لا تضعفوا")
+- al-Qurṭubī's bidirectionality claim *wahana l-insānu wa wahanahu ghayruhu* — confirmed verbatim (ar.qurtubi: "وقد وهن الإنسان ووهنه غيره، يتعدى ولا يتعدى")
+- Variant readings al-salm/al-silm on السَّلْم — confirmed (ar.jalalayn: "بفتح السين وكسرها")
+- *yatirakum* = deprive/diminish — confirmed (ar.jalalayn: "ينقصكم"; ar.muyassar: "لن يُنْقصكم")
+- Jussive form after lā nāhiya — grammatically sound, consistent with prohibitive context
+
+SUMMARY: One MODERATE issue — an overreached universal claim about Quranic wahn usage that the reflection's own cited example (19:4, bones) contradicts; fix by removing the absolute framing and restating it as a characterization of the *typical texture* of wahn rather than a categorical rule.

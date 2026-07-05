@@ -1,0 +1,28 @@
+Enhanced Validation Report
+File: content/tadabbur/060-al-mumtahanah/ayahs-008-009.md
+Ayah: 60:8
+Date: 2026-06-12T20:39:04
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: لَّا يَنْهَـٰكُمُ ٱللَّهُ=Allah (does) not forbid you | عَنِ=from | ٱلَّذِينَ=those who | لَمْ=(do) not | يُقَـٰتِلُوكُمْ=fight you | فِى=in | ٱلدِّينِ=the religion | وَلَمْ=and (do) not | يُخْرِجُوكُم=drive you out | مِّن=of | دِيَـٰرِكُمْ=your homes | أَن=that | تَبَرُّوهُمْ=you deal kindly | وَتُقْسِطُوٓاْ=and deal justly | إِلَيْهِمْ‌ۚ=with them. | إِنَّ=Indeed, | ٱللَّهَ=Allah | يُحِبُّ=loves | ٱلْمُقْسِطِينَ=those who act justly.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] The entire reflection presents 60:8 as straightforwardly and permanently applicable without acknowledging the classical naskh debate that appears in two of the four provided tafsir sources. Jalalyn explicitly states **"وهذا قبل الأمر بجهادهم"** ("and this was before the command to fight them"), and Qurtubi quotes Ibn Zayd — **"كان هذا في أول الإسلام عند الموادعة وترك الأمر بالقتال ثم نسخ"** — and Qatada: **"نسختها فاقتلوا المشركين حيث وجدتموهم."** The reflection opens with the phrase "rebuilding the world" and presents the verse as offering a universal behavioral principle without surfacing this ikhtilāf at any point in the visible 8,000 characters. The non-abrogation position does have strong classical and contemporary support (Ṭabarī, Ibn ʿĀshūr, and others), but presenting this verse to an audience asking hard questions about "peaceful coexistence" without disclosing that a significant strand of classical tafsir considers it superseded — and that the site's own methodology pages promise ikhtilāf transparency — is an interpretive overstep that could be cited adversarially.
+
+No CRITICAL issues found. Arabic text matches the authentic source exactly. All root and form analysis in the morphology note (Form III qātala as mufāʿala, Form IV akhraja as causative, Form IV aqsaṭa with hamzat al-salb) is linguistically defensible and attested. Historical framing (Madinan, post-Hudaybiyya refugee context) aligns with the Qurtubi's "مواددعة" framing. The "withheld prohibition" rhetorical reading of lā yanhākum is a valid grammatical observation.
+
+SUMMARY: Linguistically accurate throughout, but publishing this reflection without acknowledging the classical abrogation position documented in Jalalyn and Qurtubi — sources provided for this very ayah — would contradict the site's stated methodology on contested verses.

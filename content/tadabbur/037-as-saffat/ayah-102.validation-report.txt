@@ -1,0 +1,42 @@
+Enhanced Validation Report
+File: content/tadabbur/037-as-saffat/ayah-102.md
+Ayah: 37:102
+Date: 2026-06-05T08:43:52
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَلَمَّا=Then when | بَلَغَ=he reached | مَعَهُ ٱلسَّعْىَ=the (age of) working with him | قَالَ=he said, | يَـٰبُنَىَّ=`O my son! | إِنِّىٓ=Indeed, I | أَرَىٰ=have seen | فِى=in | ٱلْمَنَامِ=the dream | أَنِّىٓ=that I am | أَذْبَحُكَ=sacrificing you, | فَٱنظُرْ=so look | مَاذَا=what | تَرَىٰ‌ۚ=you consider.` | قَالَ=He said, | يَـٰٓأَبَتِ=`O my father! | ٱفْعَلْ=Do | مَا=what | تُؤْمَرُ‌ۖ=you are commanded. | سَتَجِدُنِىٓ=You will find me, | إِن=if | شَآءَ ٱللَّهُ=Allah wills, | مِنَ=of | ٱلصَّـٰبِرِينَ=the patient ones.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate errors found in the portion reviewed.
+
+Specific verifications:
+
+**Al-Qurtubi attribution** — "the boy reached the age where he could strive alongside his father in his affairs, helping him in his work" — confirmed: Qurtubi text reads *"بلغ معه المبلغ الذي يسعى مع أبيه في أمور دنياه معينا له على أعماله"*. Accurate.
+
+**Al-Baghawi / Ibn ʿAbbas + Qatadah attribution** — "he could now walk with him — to the mountain, on the journey" — confirmed: Baghawi reads *"قال ابن عباس وقتادة: يعني المشي معه إلى الجبل"*. Accurate.
+
+**Mujahid attribution** — "his striving matched Ibrahim's striving" — confirmed: Baghawi reads *"لما شب حتى بلغ سعيه سعي إبراهيم"*. Accurate.
+
+**Al-Hasan and Muqatil attribution** — *as-saʿy* read as worship — confirmed: Baghawi reads *"وهو قول الحسن ومقاتل بن حيان وابن زيد، قالوا: هو العبادة لله تعالى"*. Accurate.
+
+**Jalalayn note on *tā'* of *abati*** — frontmatter cites *al-Jalalayn* for the *tā'* replacing *yā' al-iḍāfa* — confirmed: Jalalayn reads *"التاء عوض عن ياء الإضافة"*. Accurate.
+
+**Arabic text** — frontmatter and body Arabic match the authenticated text. Unicode rendering variations (dagger alif encoding) are display conventions, not errors.
+
+**37:100 prayer text** (*Rabbi hab lī mina ṣ-ṣāliḥīn*) and **37:101 glad tidings** (*ghulāmin ḥalīm*) are accurately quoted and placed two verses prior — confirmed by surah structure.
+
+SUMMARY: Every scholar attribution, lexical claim, and Arabic text in the reviewed portion is accurately grounded in the provided reference data; no errors identified.

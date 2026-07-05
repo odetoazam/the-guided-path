@@ -1,0 +1,27 @@
+Enhanced Validation Report
+File: content/tadabbur/037-as-saffat/ayahs-027-034.md
+Ayah: 37:27
+Date: 2026-06-05T08:14:36
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَأَقْبَلَ=And will approach | بَعْضُهُمْ=some of them | عَلَىٰ=to | بَعْضٍ=others | يَتَسَآءَلُونَ=questioning one another.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [OBSERVATION] "from it comes *qabl* — 'before,' what is ahead of you in time" — the gloss "what is ahead of you in time" is an imprecise mnemonic. *Qabl* temporally means "prior to / what has already passed," not what is coming. The spatial-to-temporal bridge the reflection is drawing (front of body → future) is pedagogically motivated but inverts the standard temporal usage. Not a tafsir claim, so not raiseable as MODERATE, and the provided reference data does not address this point — flagging for author awareness only.
+- [OBSERVATION] The reflection covers 37:27–34 but reference data was supplied only for 37:27. Claims about the remaining seven ayahs (sulṭān, ṭāghīn, fa-ḥaqqa, ghāwīn, mushtarikūn) cannot be validated or invalidated from the supplied sources. This is a scope note, not a detected error.
+
+SUMMARY: Against the reference data supplied, the reflection is sound — its leaders/followers framing is confirmed by Baghawi and Qurtubi (الرؤساء والأتباع), its reading of *yatasāʾalūn* as mutual blame rather than neutral inquiry aligns with all four tafsir sources (يتلاومون ويتخاصمون), the Arabic text matches the authentic text, and the Form VI identification of *yatasāʾalūn* is morphologically correct.

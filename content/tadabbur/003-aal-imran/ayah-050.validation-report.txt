@@ -1,0 +1,30 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayah-050.md
+Ayah: 3:50
+Date: 2026-06-21T13:39:43
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَمُصَدِّقًا=And confirming | لِّمَا=that which | بَيْنَ يَدَىَّ=(was) before me | مِنَ=of | ٱلتَّوْرَٮٰةِ=the Taurat, | وَلِأُحِلَّ=and so that I make lawful | لَكُم=for you | بَعْضَ=some | ٱلَّذِى=(of) that which | حُرِّمَ=was forbidden | عَلَيْكُمْ‌ۚ=to you. | وَجِئْتُكُم=And I (have) come to you | بِـَٔـايَةٍ=with a sign | مِّن=from | رَّبِّكُمْ=your Lord. | فَٱتَّقُواْ=So fear | ٱللَّهَ=Allah | وَأَطِيعُونِ=and obey me.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "Form II — *ṣaddaqa* — means to actively declare something true, to certify it, to vouch for it" — confirmed. *muṣaddiqan* is the Form II (faʿʿala) active participle (ism al-fāʿil) of ṣ-d-q. Jalalayn, Baghawi, and Qurtubi all gloss this as an active participial attribute, consistent with the deliberate/certifying nuance the reflection draws out.
+- [PASS] Morphology footnote: "Form II muṣaddiq/ḥurrima, Form IV uḥilla/aṭīʿū, Form VIII ittaqū" — all correct. *ḥurrima* is Form II passive of *ḥarrama*; *uḥilla* is Form IV of *aḥalla* (h-l-l); *aṭīʿū* is Form IV imperative of *aṭāʿa* (ṭ-w-ʿ); *ittaqū* is Form VIII of w-q-y with standard wāw assimilation. No errors.
+- [PASS] "between my two hands" rendered as "what stands in front of you, present, close enough to hold" — the idiom's core meaning ("before me / what preceded me") is correctly given first; the literary elaboration of nearness is homiletical, not a factual claim. Jalalayn glosses the phrase simply as *qablī* (before me), and the reflection accurately reports that meaning. The physical-image reading is clearly framed as *tadabbur* extension, not tafsir fact.
+- [PASS] The lifting of prohibitions claim — all four tafsir sources confirm Jesus abrogated certain food prohibitions. Jalalayn specifies fish and birds without spurs; Baghawi specifies meats and fats; Muyassar frames it as divine *takhfīf* (relief) and mercy. The reflection's claim that Jesus "lifts a prohibition" is fully supported.
+- [PASS] No scholar positions are attributed, inverted, or overstated anywhere in the visible text.
+
+SUMMARY: All verifiable linguistic and doctrinal claims in the first 8,000 characters are accurate and consistent with the classical tafsir sources provided; no critical or moderate issues detected.

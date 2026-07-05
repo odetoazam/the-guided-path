@@ -1,0 +1,29 @@
+Enhanced Validation Report
+File: content/tadabbur/055-ar-rahman/ayah-035.md
+Ayah: 55:35
+Date: 2026-06-11T23:58:15
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يُرْسَلُ=Will be sent | عَلَيْكُمَا=against both of you | شُوَاظٌ=a flame | مِّن=of | نَّارٍ=fire | وَنُحَاسٌ=and smoke, | فَلَا=and not | تَنتَصِرَانِ=you will (be able to) defend yourselves.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+
+- [MODERATE] "The whole surah is built on Allah speaking in the first person, in majesty. *We* taught the Qur'an. *We* created man. *We* lowered the balance." — This is grammatically incorrect. Surah Ar-Rahman uses sustained third-person constructions throughout: *الرَّحْمَٰنُ عَلَّمَ الْقُرْآنَ* (The Most Merciful taught the Quran — He-form), *خَلَقَ الْإِنسَانَ* (He created man), *رَفَعَهَا وَوَضَعَ الْمِيزَانَ* (He raised it and set the balance). None of these are first-person ("We/I"). The provided tafsir sources confirm this — the Jalalayn and Muyassar paraphrase in third person throughout. The reflection's central theological argument — that يُرْسَلُ represents a significant *departure* from first-person divine speech — is built on a false grammatical premise. The actual contrast is third-person active → passive, which is a far subtler shift than what the reflection claims.
+
+- [MODERATE] "The Most Merciful does not put His name on the fire the way He puts His name on the pearls... He declines to sign the fire" — presented with high rhetorical confidence as the reflection's thesis. None of the four tafsir sources provided (Jalalayn, Muyassar, Qurtubi, Baghawi) comment on the passive as theologically significant in this way. The Qurtubi even paraphrases the passive *actively* — "لو خرجتم أرسل عليكم شواظ من نار" — suggesting classical readers did not read the passive as obscuring the divine agent. The framing "what this invites us to consider" partially softens this, but the surrounding rhetoric ("the grammar itself is merciful") presents it as near-established.
+
+SUMMARY: The reflection's linguistic and vocabulary claims are accurate (root r-s-l, passive of Form IV, شُوَاظ as flame, نُحَاس as smoke per Jalalayn), but its central thesis mischaracterizes Surah Ar-Rahman as first-person divine speech, invalidating the grammatical contrast on which the "unsigned fire" argument depends.

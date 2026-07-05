@@ -1,0 +1,15 @@
+VERDICT: CRITICAL
+
+ISSUES:
+
+1. **Unverifiable/likely-fabricated narrator attributions (CRITICAL).** The piece attributes two specific named narrations to al-Qurtubi:
+   - *"One narration recorded in al-Qurtubi, from **Ibn Ziyād**: He will guide them in the grave — to answering the questions of Munkar and Nakīr."*
+   - *"And **Abū al-Maʿālī**, cited in al-Qurtubi as well: hidāyah here refers to guidance to the masālik al-jannān."*
+
+   Neither al-Qurtubi nor al-Baghawi appears in the provided ground-truth tafsir report (which contains only Ibn Kathir, al-Tabari, al-Muyassar, al-Jalalayn). The header comment claims attributions were "drawn exclusively from al-Jalalayn, al-Muyassar, al-Qurtubi, and al-Baghawi **as provided in ground-truth data**" — but al-Qurtubi and al-Baghawi were *not* provided at all, so that statement is false and these two named attributions ("Ibn Ziyād," "Abū al-Maʿālī") are unsourced and unverifiable. Specific named-narrator attributions of this kind are exactly the fabrication-risk category. Must be verified against the actual al-Qurtubi text or removed before publishing.
+
+2. **sa- vs. sawfa stated as settled fact (MODERATE).** *"This sa- is different in both grammar and feeling: it signals the near future... Sawfa holds the promise at arm's length."* The near/far distinction is a common pedagogical claim but is contested among classical grammarians (many treat them as near-synonyms, with sawfa carrying only more extension). It is presented here as established linguistic fact rather than as one interpretive position.
+
+3. **hidāyah glossed as "accompaniment/walking alongside" presented as classical usage (MODERATE).** *"the hādī — the one who guides — is the one who accompanies... walks with the one being led."* The core lexical meaning of h-d-y is to show/point the way (with gentleness); the "walking alongside / presence" framing is an interpretive/spiritual embellishment stated as if it were attested classical usage. Acceptable as reflection if flagged as such, but currently asserted as lexical fact.
+
+The Form IV ṣ-l-ḥ handling, the taghlīb point (confirmed in al-Jalalayn), and the al-Tabari/al-Jalalayn "dunya wal-akhira" framing are all sound.

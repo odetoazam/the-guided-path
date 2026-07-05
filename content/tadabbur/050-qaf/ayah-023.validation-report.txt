@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/050-qaf/ayah-023.md
+Ayah: 50:23
+Date: 2026-06-08T20:50:07
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَقَالَ=And (will) say | قَرِينُهُۥ=his companion, | هَـٰذَا=`This | مَا=(is) what | لَدَىَّ=(is) with me | عَتِيدٌ=ready.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "the companion-angel speaks a single sentence" (passage_context) and "his companion [the assigned angel]" (translation bracket) — the identity of *qarīn* here is a classical point of ikhtilāf, not settled. Qurtubi explicitly records both positions: the majority view (al-Hasan, Qatada, al-Dahhak: the *assigned recording angel*) and Mujahid's alternate view (*al-qarin alladhī quyyida lahu* — the devil yoked to him). The reflection builds its entire framework around the angel identity, presenting it as the only reading. This is compounded by the fact that 43:36 — where *qarīn* unambiguously refers to the shaytan — appears in the reflection's own `related_ayahs` field, yet the ikhtilāf is never surfaced in the body. An accurate reflection would disclose the scholarly disagreement before proceeding with the majority view.
+
+- [PASS] Root analysis of **ق-ر-ن** (q-r-n: to yoke, pair, conjoin) is lexically sound and aligns with classical dictionaries.
+
+- [PASS] The intra-surah *ʿatīd* connection between 50:18 (*raqībun ʿatīd*) and 50:23 is a genuine textual observation, not an invention.
+
+- [PASS] All four Quranic quotes referenced in the visible text (50:16, 50:17, 50:18, 50:21, 50:22) are accurate in Arabic and translation.
+
+- [PASS] Morphological header claims (q-w-l, q-r-n, ʿ-t-d roots) are correct.
+
+SUMMARY: The reflection is linguistically careful and Quranically accurate throughout, but presenting the *qarīn* as definitively "the assigned angel" — without disclosing Mujahid's recorded view that it is the shaytan — overstates the consensus and should be corrected before publication.

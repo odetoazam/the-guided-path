@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/064-at-taghabun/ayah-003.md
+Ayah: 64:3
+Date: 2026-06-13T09:45:52
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: خَلَقَ=He created | ٱلسَّمَـٰوَٲتِ=the heavens | وَٱلْأَرْضَ=and the earth | بِٱلْحَقِّ=with truth, | وَصَوَّرَكُمْ=and He formed you | فَأَحْسَنَ=and made good | صُوَرَكُمْ‌ۖ=your forms, | وَإِلَيْهِ=and to Him | ٱلْمَصِيرُ=(is) the final return.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical errors found in the validated excerpt.
+- One nuance worth noting (not flagged as MODERATE since the reflection handles it correctly): The title "He Shaped You by Hand" imports the *bi-yadihi* phrasing from Muqātil's Adam-specific reading via Qurtubi. The reflection is transparent about this — it attributes "by hand" explicitly to "one view, narrated from Muqātil" and frames the universal application as a theological extension ("the dignity given to the first human... extended down to your own face"), not a direct textual claim. No overstatement.
+- Verb form claims (ṣawwara = Form II taf'īl, aḥsana = Form IV) are linguistically accurate and match the frontmatter comment citing the Leeds corpus.
+- Qurtubi attribution is precise: "خلقه بيده كرامة له ; قاله مقاتل" matches the provided source text exactly, and the reflection renders it faithfully.
+- Al-Muṣawwir in Surah al-Hashr (59:24) is a well-attested divine name — accurate.
+- The khalaqa (Form I) vs. ṣawwara (Form II) contrast is linguistically grounded and supported by the word-by-word reference and tafsir sources.
+
+SUMMARY: The reflection's linguistic, attributional, and tafsir claims are all verifiable against the supplied reference data with no inversions, fabrications, or factual errors detected.

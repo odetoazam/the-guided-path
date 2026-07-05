@@ -1,0 +1,42 @@
+Enhanced Validation Report
+File: content/tadabbur/057-al-hadid/ayah-027.md
+Ayah: 57:27
+Date: 2026-06-12T11:54:20
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ثُمَّ=Then | قَفَّيْنَا=We sent | عَلَىٰٓ=on | ءَاثَـٰرِهِم=their footsteps | بِرُسُلِنَا=Our Messengers | وَقَفَّيْنَا=and We followed | بِعِيسَى=with Isa, | ٱبْنِ=son | مَرْيَمَ=(of) Maryam, | وَءَاتَيْنَـٰهُ=and We gave him | ٱلْإِنجِيلَ=the Injeel. | وَجَعَلْنَا=And We placed | فِى=in | قُلُوبِ=(the) hearts | ٱلَّذِينَ=(of) those who | ٱتَّبَعُوهُ=followed him | رَأْفَةً=compassion | وَرَحْمَةً=and mercy. | وَرَهْبَانِيَّةً=But monasticism | ٱبْتَدَعُوهَا=they innovated - | مَا=not | كَتَبْنَـٰهَا=We prescribed it | عَلَيْهِمْ=for them - | إِلَّا=only | ٱبْتِغَآءَ=seeking | رِضْوَٲنِ=(the) pleasure | ٱللَّهِ=(of) Allah, | فَمَا=but not | رَعَوْهَا=they observed it | حَقَّ=(with) right | رِعَايَتِهَا‌ۖ=observance. | فَـَٔـاتَيْنَا=So We gave | ٱلَّذِينَ=those who | ءَامَنُواْ=believed | مِنْهُمْ=among them | أَجْرَهُمْ‌ۖ=their reward, | وَكَثِيرٌ=but most | مِّنْهُمْ=of them | فَـٰسِقُونَ=(are) defiantly disobediently.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate errors found in the content reviewed.
+
+Specific checks performed:
+
+**Arabic text**: Frontmatter Arabic matches the authentic text. Minor diacritical differences (tanwin with superscript nun omitted in reflection) are typographic rendering variants, not textual errors.
+
+**Root q-f-w / qaffaynā**: Claim that the root is q-f-w and that *al-qafā* means "back of the neck/nape" is lexically correct (attested in Lisān al-ʿArab). The Form II characterization (*qaffā* as fa''ala pattern with gemination) is accurate. The derivation of *qāfiya* (rhyme) from the same root is sound.
+
+**āthār = traces/footprints**: Matches word-by-word reference exactly.
+
+**jaʿalnā vs. mā katabnāhā distinction**: The reflection is setting up a valid linguistic contrast — what God *placed* (jaʿalnā, a verb of creation/installation) versus what He *did not prescribe* (mā katabnāhā). This distinction is fully supported by the text and consistent with classical readings. No overclaim here.
+
+**57:16 citation**: "Has the time not come... do not become like those given Scripture before you, whose time stretched out, so their hearts hardened" — accurate paraphrase of 57:16 (listed in related_ayahs).
+
+**Monasticism as self-invented**: The reflection's framing that rahbāniyya was "a print where none was laid" (ibtadaʿū / bidʿa) is consistent with all four tafsir sources provided, including al-Jalalayn ("من قبل أنفسهم") and al-Muyassar ("هم الذين التزموا بها من تلقاء أنفسهم").
+
+**Translation**: Accurate throughout. Using "many" for كَثِيرٌ is the more literal rendering versus the word-by-word gloss "most" — not an error.
+
+SUMMARY: All linguistic, textual, and contextual claims in the reviewed portion are well-grounded and consistent with the reference data; no errors detected.

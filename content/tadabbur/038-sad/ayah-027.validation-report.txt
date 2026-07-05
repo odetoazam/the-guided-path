@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/038-sad/ayah-027.md
+Ayah: 38:27
+Date: 2026-06-06T00:16:36
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَمَا=And not | خَلَقْنَا=We created | ٱلسَّمَآءَ=the heaven | وَٱلْأَرْضَ=and the earth | وَمَا=and whatever | بَيْنَهُمَا=(is) between them | بَـٰطِلاً‌ۚ=without purpose. | ذَٲلِكَ=That | ظَنُّ=(is the) assumption | ٱلَّذِينَ=(of) those who | كَفَرُواْ‌ۚ=disbelieve. | فَوَيْلٌ=So woe | لِّلَّذِينَ=to those | كَفَرُواْ=who disbelieve, | مِنَ=from | ٱلنَّارِ=the Fire.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "before this ayah, the surah has just walked us through three of the greatest lives ever lived. Dawud...Sulayman...Ayyub" — structurally inverted. Only Dawud precedes verse 27 (38:21–26). Sulayman appears at 38:30–40 and Ayyub at 38:41–44, both *after* this ayah. The frontmatter's `passage_context` repeats the same error: "after the great procession of prophets — Dawud, Sulayman, Ayyub." The ayah is positioned mid-procession, not after it.
+
+- [MODERATE] "just before the surah turns to the two destinies of the righteous and the corrupt" — also displaced. The two-destinies section (the people of jannah vs. the people of fire) runs from approximately 38:49–64, separated from verse 27 by the full Sulayman and Ayyub narratives plus intervening material. The "just before" framing overstates the proximity.
+
+All tafsir attributions check out cleanly against the provided sources:
+- Qurtubi's *hazlan wa laʿiban* ✓
+- Muyassar's *lahwan* ✓
+- Baghawi's Ibn ʿAbbas report (*lā li-thawābin wa lā li-ʿiqāb*) — exact match ✓
+
+The *ḥāl* parsing of *bāṭilan* is grammatically standard. The ḥaqq/bāṭil semantic analysis is lexically grounded and does not overreach.
+
+SUMMARY: All scholar citations and Arabic lexical analysis are accurate; the single substantive error is a structural misplacement — the reflection frames verse 27 as following all three prophets when only Dawud precedes it, requiring a correction to both frontmatter and body.

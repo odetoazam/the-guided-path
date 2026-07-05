@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/037-as-saffat/ayah-131.md
+Ayah: 37:131
+Date: 2026-06-05T23:44:11
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّا=Indeed, We | كَذَٲلِكَ=thus | نَجْزِى=reward | ٱلْمُحْسِنِينَ=the good-doers.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "Jazāʾ is the settling of an account — not a gift exceeding the deed, but the precise return of it" — this lexical claim overstates the strictness of j-z-y. The root does carry a sense of requital/recompense, but the framing "not a gift exceeding the deed" is an editorial addition not grounded in the word-by-word data or any of the four tafsir sources provided. It also sits in tension with the broader Quranic principle of faḍl (Allah's generosity exceeding the deed), which appears elsewhere in the Quran. The claim is not inverted, but it is stated as settled lexical fact when it is interpretive framing.
+
+VERIFIED (no issues):
+
+- Qurtubi attribution #1 — "We perpetuate upon them the beautiful praise / al-thanāʾ al-ḥasan" is directly confirmed: «نبقي عليهم الثناء الحسن»
+- Qurtubi attribution #2 — "deliverance from hardships in this world and the next" is directly confirmed: «نجزيهم بالخلاص من الشدائد في الدنيا والآخرة»
+- Muyassar summary — "beautiful recompense given for obedience" is confirmed: «جزيناه الجزاء الحسن على طاعته»
+- Morphology — najzī as Form I imperfect is correct; muḥsinīn as Form IV active participle (ahsana → muḥsin) is correct
+- kadhālika etymology (ka- + dhālika = "like that") is accurate
+- Tense shift analysis — past-tense narrative verbs before 37:131, imperfect najzī in the verdict — linguistically accurate and a sound rhetorical observation
+- The refrain pattern (37:80, 37:110, 37:121 parallels) is accurate; this verse does function as a repeated structural verdict across As-Saffat
+
+SUMMARY: One moderate issue — the jazāʾ definition overstates strict equivalence beyond what the lexical data warrants — but all tafsir attributions and morphological claims are accurate; the reflection is well-grounded overall.

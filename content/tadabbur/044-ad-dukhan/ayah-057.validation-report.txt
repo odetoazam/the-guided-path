@@ -1,0 +1,40 @@
+Enhanced Validation Report
+File: content/tadabbur/044-ad-dukhan/ayah-057.md
+Ayah: 44:57
+Date: 2026-06-08T01:13:47
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَضْلاً=A Bounty | مِّن=from | رَّبِّكَ‌ۚ=your Lord. | ذَٲلِكَ=That - | هُوَ=it | ٱلْفَوْزُ=(will be) the success | ٱلْعَظِيمُ=the great.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate errors found in the portion reviewed.
+
+Specific checks against reference data:
+
+- **Al-Jalālayn attribution**: "faḍlan is a maṣdar — a verbal noun — standing in for an implied verb, tafaḍḍala" — accurately reflects «فضلاً» مصدر بمعنى تفضلاً منصوب بتفضل مقدراً. Faithful. ✓
+
+- **Al-Qurtubi's four governing-word candidates**: The reflection lists yudʿawna, waqāhum, implied verb, and "the entire preceding meaning" — all four map precisely to Qurtubi's يدعون / ووقاهم / فعل مضمر / معنى الكلام الذي قبله. No compression or invention. ✓
+
+- **Root f-ḍ-l as "excess/surplus beyond what is owed"**: Standard lexicographic position; consistent with the tafaḍḍul frame in every source cited. ✓
+
+- **Indefinite tanwīn on faḍlan (unbounded, not al-faḍl)**: Grammatically correct; the indefinite form is present in the authenticated Arabic text. ✓
+
+- **Contextual summary of 44:51–56** (maqāmin amīn, gardens, springs, silk, deliverance from death, rescue from jaḥīm): Accurately represents the Muyassar and passage frame. ✓
+
+- **Makkan context and audience address (rabbik → the Prophet)**: Surah ad-Dukhān is Makkan; the second-person address in rabbika is standard exegetical fact. ✓
+
+SUMMARY: Every linguistic claim, tafsir attribution, and grammatical observation in the reviewed portion is accurate and faithful to the reference data; no distortions, inversions, or unsupported assertions detected.

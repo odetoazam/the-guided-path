@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/069-al-haqqah/ayahs-038-047.md
+Ayah: 69:38
+Date: 2026-06-15T00:42:39
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَلَآ=But nay! | أُقْسِمُ=I swear | بِمَا=by what | تُبْصِرُونَ=you see,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- None detected.
+
+**Specific verification against supplied sources:**
+
+- [CHECKED] "you find it in **al-Jalālayn**" — treats *lā* as zāʾida: **Accurate.** ar.jalalayn explicitly reads «فلا» زائدة. Attribution correct, characterization correct.
+- [CHECKED] "**al-Baghawī** states it directly" — *lā* as *radd li-kalām al-mushrikīn*: **Accurate.** ar.baghawi: «لا رد لكلام المشركين، كأنه قال: ليس كما يقول المشركون أقسم». Attribution and quote accurate.
+- [CHECKED] Root *q-s-m* for أُقْسِمُ, described as first-person imperfect: **Accurate.** Morphology note confirms Form IV imperfect; body text's "first-person imperfect" is correct without being wrong by omitting the form number.
+- [CHECKED] Synthesis: "these two readings are not rivals" — This is the author's interpretive bridge between al-Jalālayn and al-Baghawī, not a factual claim about what either scholar said. It does not misrepresent either position and falls within normal tadabbur analysis.
+- [CHECKED] Contextual framing of surahs 1–37 (Thamud, ʿĀd, Pharaoh, Trumpet, book-in-right-hand scene): Accurate to the surah's content.
+- [NOT CHECKABLE from supplied data] Claims about the root *b-ṣ-r* and the later roots (*q-w-l*, *w-t-n*, etc.) — the morphology comment names them but the supplied reference data does not extend to those roots. No verifiable error in what is written; the morphology comment acknowledges these are "documented in classical lexicons" rather than asserting novel meanings.
+
+SUMMARY: All verifiable scholar attributions and linguistic claims in the submitted text are accurate against the supplied tafsir sources; no factual errors detected.

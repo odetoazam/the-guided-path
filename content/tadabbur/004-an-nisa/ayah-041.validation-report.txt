@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/004-an-nisa/ayah-041.md
+Ayah: 4:41
+Date: 2026-06-24T07:30:48
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَكَيْفَ=So how (will it be) | إِذَا=when | جِئْنَا=We bring | مِن=from | كُلِّ=every | أُمَّةِۭ=nation | بِشَهِيدٍ=a witness | وَجِئْنَا=and We bring | بِكَ=you | عَلَىٰ=against | هَـٰٓؤُلَآءِ=these (people) | شَهِيدًا=(as) a witness.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "He is *al-Bayān*, the One of perfect clarity" — *al-Bayān* is not an established divine name (ism) or classical attribute (ṣifa) in Islamic theology. The root *b-y-n* appears Quranic contexts (e.g., 55:4 "ʿallamahu al-bayān"; 75:19 "inna ʿalaynā bayānahu") but always as a verbal noun or action of Allah — never as a proper name. Presenting it as "the One of perfect clarity" in the format of a divine name ("He is *al-X*...") implies canonical theological status it does not have. This risks normalizing an invented name for Allah in a reflection read as authoritative scholarship.
+
+All other verifiable claims pass:
+
+- **Hadith attribution** — "narrated in Ṣaḥīḥ al-Bukhārī, a sound *marfūʿ* hadith" with the *ḥasbuk* / weeping narration: accurate and well-documented. The Qurtubī and Baghawī excerpts both preserve the isnād.
+- **Qurtubī citation on *ẓarf zamān*** — "إذا ظرف زمان والعامل فيه جئنا" is verbatim in the provided Qurtubī text. Accurately cited.
+- **Witnesses = prophets** — all four tafsirs confirm (Jalalayn: "وهو نبيها"; Muyassar: "برسولها"; Baghawi: "بنبيها"). The reflection's framing matches consensus.
+- **Unfinished-question / *ḥadhf al-jawāb* analysis** — linguistically sound. The *fa-kayfa* opens an interrogative whose apodosis is structurally absent, a recognized Quranic rhetorical device. Not over-claimed.
+- **4:40 and 4:42 contextual claims** — accurate to both verses.
+- **Word count (twelve), transliteration, Arabic text** — all verified correct against the authentic Arabic provided.
+
+SUMMARY: One moderate issue — attributing to Allah an unestablished divine name (*al-Bayān*) in a form that implies canonical theological status; all other linguistic, hadith, and tafsir claims are well-grounded and accurately cited.

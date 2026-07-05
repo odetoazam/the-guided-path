@@ -1,0 +1,42 @@
+Enhanced Validation Report
+File: content/tadabbur/066-at-tahrim/ayah-008.md
+Ayah: 66:8
+Date: 2026-06-13T12:49:47
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ=O you who believe! | تُوبُوٓاْ=Turn | إِلَى=to | ٱللَّهِ=Allah | تَوْبَةً=(in) repentance | نَّصُوحًا=sincere! | عَسَىٰ=Perhaps | رَبُّكُمْ=your Lord | أَن=[that] | يُكَفِّرَ=will remove | عَنكُمْ=from you | سَيِّـَٔـاتِكُمْ=your misdeeds | وَيُدْخِلَكُمْ=and admit you | جَنَّـٰتٍ=(into) Gardens | تَجْرِى=flow | مِن=from | تَحْتِهَا=underneath it | ٱلْأَنْهَـٰرُ=the rivers, | يَوْمَ=(on the) Day | لَا=not | يُخْزِى ٱللَّهُ=Allah will disgrace | ٱلنَّبِىَّ=the Prophet | وَٱلَّذِينَ=and those who | ءَامَنُواْ=believed | مَعَهُۥ‌ۖ=with him. | نُورُهُمْ=Their light | يَسْعَىٰ=will run | بَيْنَ أَيْدِيهِمْ=before them | وَبِأَيْمَـٰنِهِمْ=and on their right; | يَقُولُونَ=they will say, | رَبَّنَآ=`Our Lord | أَتْمِمْ=Perfect | لَنَا=for us | نُورَنَا=our light | وَٱغْفِرْ=and grant forgiveness | لَنَآ‌ۖ=to us. | إِنَّكَ=Indeed, You | عَلَىٰ=(are) over | كُلِّ=every | شَىْءٍ=thing | قَدِيرٌ=All-Powerful.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate issues found in the visible portion.
+
+Supporting spot-checks against the provided reference data:
+
+- **Root ن-ص-ح analysis**: Accurate. The reflection's gloss "a repentance possessing counsel, which counsels its owner to never return to what he repented from" quotes al-Baghawi verbatim (*tawbatun dhātu naṣḥin tanṣaḥu ṣāḥibahā bi-tarki al-ʿawdi ilā mā tāba minhu*). ✓
+
+- **Companion attribution (milk simile)**: The reflection attributes the simile to *ʿUmar, Ubayy ibn Kaʿb, and Muʿādh*. Al-Baghawi's text reads *"qāla ʿUmar wa-Ubayy wa-Muʿādh"* — exact match. ✓
+
+- **Reading notation**: The reflection correctly identifies *naṣūḥā* (fatḥa) as the majority reading, consistent with al-Baghawi's *"wa-qaraʾa al-ʿāmmah bi-fatḥihā."* The damma variant (Ḥasan/Abū Bakr) is not addressed in this section but is not contradicted either. ✓
+
+- **Translation of نُورُهُمْ يَسْعَىٰ بَيْنَ أَيْدِيهِمْ وَبِأَيْمَٰنِهِمْ**: Rendered as "Their light runs ahead of them and on their right" — matches the word-by-word and al-Jalālayn (*"amāmahum"* = before/ahead). ✓
+
+- **Hadith "al-dīnu al-naṣīḥah"**: Not in the provided tafsir data, but it is a well-authenticated hadith (Ṣaḥīḥ Muslim #55). No issue with the citation. ✓
+
+- **Surah context framing** (66:6 guard family from Fire; 66:7 excuses closed for disbelievers): Accurately reflects the surah's sequence. ✓
+
+One observation (not an error): The reflection's claim that Allah "reached for the word that personifies sincerity" rather than using *ṣādiqah* or *khāliṣah* is an interpretive stylistic observation — the classical sources don't frame the lexical contrast this way explicitly, but the substance is fully consistent with al-Baghawi's explanation and is not overstated as a documented scholarly position.
+
+SUMMARY: All verifiable claims in the visible portion are grounded in or consistent with the provided word-by-word data and classical tafsir sources; no factual errors, inverted attributions, or morphological mistakes detected.

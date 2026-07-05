@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/053-an-najm/ayahs-021-022.md
+Ayah: 53:21
+Date: 2026-06-09T18:21:38
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَلَكُمُ=Is for you | ٱلذَّكَرُ=the male | وَلَهُ=and for Him | ٱلْأُنثَىٰ=the female?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] Al-Qurtubī attribution — "He said it by way of *taqrīʿ* and *tawbīkh* — reproach and censure — as a refutation of their statement that the angels are the daughters of God, and the idols are the daughters of God" — matches the provided ar.qurtubi source verbatim: *"قال على جهة التقريع والتوبيخ... ردا عليهم قولهم: الملائكة بنات الله, والأصنام بنات الله"*. Attribution is precise.
+- [PASS] Arabic text — أَلَكُمُ ٱلذَّكَرُ وَلَهُ ٱلْأُنثَىٰ matches the provided authentic text exactly.
+- [PASS] Root claims — ذ-ك-ر (dhakar, "the male") and أ-ن-ث (unthā, "the female") are correctly identified and match the word-by-word reference.
+- [PASS] ḍīzā caveat — the reflection correctly flags that ضِيزَىٰ is absent from the Leeds slice and sources its gloss only from classical lexicons (Lisān al-ʿArab). This is appropriate scholarly transparency, not an error.
+- [PASS] Cross-references — 16:58 Arabic quote (ظَلَّ وَجْهُهُ مُسْوَدًّا وَهُوَ كَظِيمٌ), 81:8-9 (buried-alive girl), and 53:19-20 (naming al-Lāt, al-ʿUzzā, Manāt) are all accurate.
+- [PASS] taqdīm analysis — fronting the preposition for emphasis is a well-attested Arabic grammatical principle; the claim is correctly applied to the verse structure.
+- [PASS] istifhām li-t-tawbīkh / at-taqrīʿ terminology — correctly defined and directly supported by al-Qurtubī's tafsir of this ayah.
+
+SUMMARY: All verifiable claims are accurate and well-sourced; the one lexically unverifiable term (ḍīzā) is appropriately caveated, and the sole named scholar attribution matches the provided source exactly.

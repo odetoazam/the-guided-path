@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/036-ya-sin/ayahs-074-075.md
+Ayah: 36:74
+Date: 2026-06-05T06:32:32
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَٱتَّخَذُواْ=But they have taken | مِن دُونِ=besides | ٱللَّهِ=Allah | ءَالِهَةً=gods, | لَّعَلَّهُمْ=that they may | يُنصَرُونَ=be helped.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+**VERDICT: PASS**
+
+**ISSUES:**
+
+- [PASS] **Form VIII analysis of *ittakhadhū*** — The reflection states this verb is Form VIII (*iftiʿāl*) from root أخذ, characterized as "reflexive, self-serving, done for oneself." This is the mainstream classical analysis (Lisān al-ʿArab, the frontmatter morphology note also marks it "form VIII"). The "for oneself/self-serving" gloss is a recognized tendency of Form VIII and fits this usage accurately — the tafsirs confirm the taking was for their own hoped-for protection (*laʿallahum yunṣarūn*).
+
+- [PASS] **Qurtubi attribution** — "they had seen these signs of Our power... and then they took, besides Us, gods that have no power to do anything at all" is a close paraphrase of the provided Qurtubi text (*قد رأوا هذه الآيات من قدرتنا، ثم اتخذوا من دوننا آلهة لا قدرة لها على فعل*). No inversion, no overstating.
+
+- [PASS] **لَّعَلَّهُمْ يُنصَرُونَ as hope-under-uncertainty** — All three tafsirs gloss this as hoped-for rescue from Allah's punishment (*يمنعون من عذاب الله*, *إنقاذهم من عذاب الله*, *لتمنعهم من عذاب الله*). Treating *laʿalla* as expressing uncertain hope is standard Arabic grammar and accurate here.
+
+- [PASS] **Translation accuracy** — "And they have taken, besides Allah, [other] gods, that perhaps they might be helped" maps correctly to the word-by-word reference.
+
+- [NOTE — outside provided data] The reflection covers **ayah 75** (*lā yastaṭīʿūna naṣrahum wa-hum lahum jundun muḥḍarūn*) extensively — the *jund/muḥḍar* analysis and the "commander/infantry inversion" thesis depend on it — but no tafsir sources for ayah 75 were provided. Those claims cannot be confirmed or denied from the reference data given. Request tafsir for 36:75 (Jalalayn, Qurtubi, Baghawi on *muḥḍarūn*) before clearing that portion.
+
+**SUMMARY:** All verifiable claims in the ayah 74 analysis are accurate and grounded in the provided reference data; the ayah 75 analysis requires a separate validation pass with 36:75 tafsir sources.

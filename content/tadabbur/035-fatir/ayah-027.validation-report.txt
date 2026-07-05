@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/035-fatir/ayah-027.md
+Ayah: 35:27
+Date: 2026-05-18T06:24:40
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَلَمْ=Do not | تَرَ=you see | أَنَّ=that | ٱللَّهَ=Allah | أَنزَلَ=sends down | مِنَ=from | ٱلسَّمَآءِ=the sky | مَآءً=water, | فَأَخْرَجْنَا=then We bring forth | بِهِۦ=therewith | ثَمَرَٲتٍ=fruits | مُّخْتَلِفًا=(of) various | أَلْوَٲنُهَاۚ=[their] colors? | وَمِنَ=And in | ٱلْجِبَالِ=the mountains | جُدَدُۢ=(are) tracts, | بِيضٌ=white | وَحُمْرٌ=and red | مُّخْتَلِفٌ=(of) various | أَلْوَٲنُهَا=[their] colors, | وَغَرَابِيبُ سُودٌ=and intensely black.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "and others raven-black" — The translation inserts "others" (not present in the Arabic). Al-Jalālayn explicitly states **"وغرابيب سود عطف على جدد"** — the غرابيب is grammatically conjoined to جُدَد, making them a third type of mountain *tract*, not a separate category. "Others" subtly implies a different category of thing rather than another stripe of mountain path. The Arabic structure should read: "In the mountains are tracts — white, red, and raven-black." This is a common translator convenience but mildly obscures the grammatical coordination.
+
+All other verifiable claims check out cleanly:
+
+- **Al-Qurtubi quote** — "هذه الرؤية رؤية القلب والعلم" is verbatim in the provided Qurtubi text. ✓
+- **Root r-ʾ-y** for تَرَ — correct. ✓
+- **istifhām taqrīrī** characterization — Jalālayn glosses ألم تر as تعلم (know/understand), supporting a non-literal rhetorical reading. ✓
+- **لَمْ + muḍāriʿ = past negation** — standard Arabic grammar, accurately stated. ✓
+- **gharābīb named after the raven** — Al-Baghawī: "شديدة السواد تشبيها بلون الغراب." ✓
+- **Arabic text** — matches authentic text; minor missing tanwīn-ghunna markers (ًۭ) in frontmatter are rendering differences, not content errors. ✓
+- Iltifāt setup (Element Two, cut off before completion) is on firm ground — Jalālayn notes **"فيه التفات عن الغيبة"** on this exact transition. ✓
+
+SUMMARY: One minor translation convention (inserting "others" where the Arabic has a simple grammatical conjunction) lightly obscures the tafsir's structural point, but no critical errors are present in the visible text.

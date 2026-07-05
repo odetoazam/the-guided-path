@@ -1,0 +1,42 @@
+Enhanced Validation Report
+File: content/tadabbur/034-saba/ayah-003.md
+Ayah: 34:3
+Date: 2026-05-15T14:32:37
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَقَالَ=But say | ٱلَّذِينَ=those who | كَفَرُواْ=disbelieve, | لَا=`Not | تَأْتِينَا=will come to us | ٱلسَّاعَةُۖ=the Hour.` | قُلْ=Say, | بَلَىٰ=`Nay, | وَرَبِّى=by my Lord | لَتَأْتِيَنَّكُمْ=surely it will come to you. | عَـٰلِمِ=(He is the) Knower | ٱلْغَيْبِۖ=(of) the unseen.` | لَا=Not | يَعْزُبُ=escapes | عَنْهُ=from Him | مِثْقَالُ=(the) weight | ذَرَّةٍ=(of) an atom | فِى=in | ٱلسَّمَـٰوَٲتِ=the heavens | وَلَا=and not | فِى=in | ٱلْأَرْضِ=the earth | وَلَآ=and not | أَصْغَرُ=smaller | مِن=than | ذَٲلِكَ=that | وَلَآ=and not | أَكْبَرُ=greater, | إِلَّا=but | فِى=(is) in | كِتَـٰبٍ=a Record | مُّبِينٍ=Clear.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No flaggable errors found in the submitted portion.
+
+Supporting checks:
+
+**balā/naʿam distinction** — The reflection's core grammatical claim ("balā reverses a negation; naʿam affirms whatever was said, including a negation") is standard Arabic grammar and correctly applied here. The deniers' sentence *lā ta'tīnā as-sāʿah* is indeed negated, making balā the grammatically required reversal particle. Accurate.
+
+**lā ta'tīnā vs. lā ta'tī** — The reflection correctly observes that the verb encodes a first-person plural object ("to us"), not merely a bare negation of the Hour's coming. Accurate.
+
+**mithqāl dharrah** — Rendered "weight of a mote." The Jalālayn defines dharrah as "أصغر نملة" (the smallest ant). "Mote" is a defensible translation (weightless particle) and does not misrepresent the root. No error.
+
+**ʿālim al-ghayb grammatical note** — The reflection does not overreach here. The Baghawi and Jalālayn both record the jarr/rafʿ qirāʾāt (adjective qualifying Rabb vs. predicate standing alone). The reflection uses "He is the Knower" (rafʿ reading) without falsely attributing a single reading as unanimous. Accurate.
+
+**kitāb mubīn** — "Clarifying record" is a valid rendering. Jalālayn and Muyassar both identify it as al-Lawḥ al-Maḥfūẓ; the reflection uses "clarifying record" without contradicting that identification. No overclaim.
+
+**360 idols claim** — Widely attested in Sīra literature (Ibn Hisham, reports in Ṣaḥīḥ Bukhārī on the Conquest of Mecca). Not refuted by the reference data provided, and the reflection uses it as historical context, not a doctrinal statement.
+
+**Arabic text** — Minor Unicode diacritic variants (ذَرَّةٍۢ vs. ذَرَّةٍ) are rendering differences, not textual errors.
+
+SUMMARY: The first 8,000 characters are linguistically grounded and doctrinally clean — no inverted attributions, no root errors, and no interpretive claims stated as documented consensus.

@@ -1,0 +1,40 @@
+Enhanced Validation Report
+File: content/tadabbur/058-al-mujadila/ayahs-016-017.md
+Ayah: 58:16
+Date: 2026-06-12T19:22:33
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ٱتَّخَذُوٓاْ=They have taken | أَيْمَـٰنَهُمْ=their oaths | جُنَّةً=(as) a cover, | فَصَدُّواْ=so they hinder | عَن=from | سَبِيلِ ٱللَّهِ=(the) way of Allah, | فَلَهُمْ=so for them | عَذَابٌ=(is) a punishment | مُّهِينٌ=humiliating.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No genuine errors found in the portion reviewed.
+
+Supporting verifications:
+
+**Root y-m-n and oath/right-hand connection** — The claim that *aymān* derives from y-m-n (right hand → oath) is lexically sound. No issue.
+
+**Variant reading attribution** — "Imam al-Qurtubi records that al-Hasan al-Baṣrī and Abū al-ʿĀliya recited…*īmānahum*" — directly confirmed by the Qurtubi excerpt: *"وقرأ الحسن وأبو العالية 'إيمانهم' بكسر الهمزة هنا."* Attribution, reading, and vowel difference are all accurately stated.
+
+**Qurtubi paraphrase** — "their tongues believed out of fear of being killed, while their hearts disbelieved" — accurate rendering of *"فآمنت ألسنتهم من خوف القتل، وكفرت قلوبهم"* from the provided Qurtubi text.
+
+**Shield framing (junnah)** — all four tafsir sources confirm the munāfiqūn used oaths as a junnah to ward off being fought and having wealth seized; the reflection's framing is consistent with this consensus.
+
+**Hedging on the variant reading** — "I am not collapsing the two… the recitation transmitted to the vast majority of the ummah is *aymān*" — this is the correct scholarly posture and matches the evidence.
+
+**One note, not an error:** The Jalalayn excerpt in the reference data appears to open with *"اتخذوا إيمانهم"* (kasra), which could be a transcription variant or the Jalalayn following the alternate reading. The reflection makes no claim about the Jalalayn on this point, so there is no issue to flag — just worth noting if this file is cross-checked again later.
+
+SUMMARY: The first 8,000 characters are linguistically accurate, the variant-reading attribution is verified against Qurtubi, and all tafsir-grounded claims are appropriately hedged — no errors detected.

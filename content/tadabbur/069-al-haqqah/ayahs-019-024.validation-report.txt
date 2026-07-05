@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/069-al-haqqah/ayahs-019-024.md
+Ayah: 69:19
+Date: 2026-06-15T01:01:55
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَأَمَّا=Then as for | مَنْ=(him) who | أُوتِىَ=is given | كِتَـٰبَهُۥ=his record | بِيَمِينِهِۦ=in his right hand | فَيَقُولُ=will say, | هَآؤُمُ=`Here, | ٱقْرَءُواْ=read | كِتَـٰبِيَهْ=my record!
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Al-Qurṭubī, drawing on the early commentary, captures the spirit exactly: he says this because he is speaking *thiqatan bi-l-najāh wa surūran*" — the phrase "thiqatan bi-l-najāh wa surūran" does not appear in the Qurṭubī excerpt provided. The provided Qurṭubī text focuses on "إعطاء الكتاب باليمين دليل على النجاة" and the Ibn ʿAbbās narration about Umar. The sentiment (joy, assurance of salvation) is well-attested — Jalālayn has "لما سر به" and Muyassar has "ابتهاجًا وسرورًا" — but the specific Arabic phrase is attributed to Qurṭubī without verification from the reference data supplied. This is an overstated attribution, not a fabrication.
+
+All other substantive claims check out:
+- هَآؤُمُ glossed as "khudhū" from Jalālayn — confirmed ("خذوا")
+- Al-Baghawī rendered as "taʿālaw-qraʾū" — confirmed ("تعالوا اقرءوا")
+- The -um plural reading is linguistically standard
+- ẓanantu rendered as "I was certain" — confirmed by Muyassar's "أيقنت في الدنيا"
+- Surah opening quoted as "al-Ḥāqqah, mā-l-Ḥāqqah, wa mā adrāka mā-l-Ḥāqqah" — accurate (69:1-3)
+- Grammatical description of هَآؤُمُ as ism al-fiʿl is a standard classical position, consistent with Jalālayn's tanāzuʿ note
+
+SUMMARY: One Qurṭubī attribution uses Arabic phrasing that cannot be confirmed from the supplied excerpt — the sentiment is real but the specific quote should be sourced to Jalālayn/Muyassar where it actually appears, or the Qurṭubī citation removed.

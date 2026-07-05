@@ -1,0 +1,40 @@
+Enhanced Validation Report
+File: content/tadabbur/069-al-haqqah/ayah-018.md
+Ayah: 69:18
+Date: 2026-06-15T01:12:58
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَوْمَئِذٍ=That Day, | تُعْرَضُونَ=you will be exhibited, | لَا=not | تَخْفَىٰ=will be hidden | مِنكُمْ=among you | خَافِيَةٌ=any secret.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No genuine errors found in this excerpt.
+
+Supporting notes on what was checked:
+
+**Root etymology (ع-ر-ض = width/breadth):** Accurate. Classical lexicons (Lisān al-ʿArab, Mufradāt) confirm ʿarḍ as the broad side of a thing, opposite of ṭūl. The connection to ʿirḍ (honor/dignity) as the face of a person exposed to praise and blame is lexically attested.
+
+**Morphology:** Correct. تُعْرَضُونَ is Form I passive imperfect (ع-ر-ض); تَخْفَىٰ Form I imperfect (خ-ف-ي); خَافِيَةٌ active participle, fem., indefinite (خ-ف-ي). All as stated in the pruning note.
+
+**Passive voice claim:** Accurate. تُعْرَضُونَ is passive — the agent is withheld, which grammatically supports the "agency stripped" reading.
+
+**Al-Qurṭubī attribution:** Precisely rendered. The tafsir states: *وليس ذلك عرضًا يعلم به ما لم يكن عالمًا به، بل معناه الحساب وتقرير الأعمال عليهم للمجازاة* — the presentation is not for Allah to discover what He did not know; its meaning is the reckoning and the establishing of deeds for recompense. The reflection quotes this accurately and does not overstate it.
+
+**Contextual description of 69:13-17:** The single blow (*nafkhatun wāḥidah*, *dakkatan wāḥidah*), the sky becoming *wāhiyah*, and the angels at the edges bearing the Throne — all match the passage and are consistent with what al-Muyassar covers in the provided excerpt.
+
+**Arabic text:** Matches the authentic text. The missing special tanwin diacritics (ۢ ۭ) are a typographic presentation choice, not a content error.
+
+SUMMARY: Every verifiable linguistic, morphological, and scholarly claim in this excerpt is accurate and grounded in the reference data; the Qurṭubī attribution is the most checkable specific claim and it holds precisely.

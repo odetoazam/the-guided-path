@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/108-al-kawthar/ayah-002.md
+Ayah: 108:2
+Date: 2026-06-20T20:29:07
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَصَلِّ=So pray | لِرَبِّكَ=to your Lord | وَٱنْحَرْ=and sacrifice.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical errors found in the visible excerpt.
+
+One observation, not a flag:
+
+The reflection presents "صَلِّ = form II imperative, root Slw" in its morphology note — this is correct per the classical analysis (صَلَّى = فَعَّلَ from root ص-ل-و). The Leeds Quranic Arabic Corpus agrees. No error here.
+
+The reflection does not specify *which* prayer the command refers to, wisely sidestepping the well-documented ikhtilāf in the classical sources: al-Jalalayn and Qurtubi (via Qatada, ʿAṭāʾ, ʿIkrima) restrict it to Eid al-Adha prayer, while Ibn ʿAbbas (via al-Ḍaḥḥāk) reads it as the obligatory prayers generally, and Saʿīd ibn Jubayr/Mujāhid specify the prayers at Muzdalifa. Since the reflection doesn't commit to any of these positions in the visible excerpt, there is no overstatement to flag. If later in the reflection a specific reading is asserted as the only or dominant one without acknowledging the plurality, that would warrant a MODERATE flag — but none appears here.
+
+The fāʾ-of-consequence analysis is linguistically standard and well-supported. The lām of exclusivity reading aligns directly with al-Muyassar's "أخلص لربك صلاتك كلها." The al-abtar context is historically grounded. The "gift before response" theological frame is clearly presented as reflection, not as an attributed scholarly ruling.
+
+SUMMARY: All factual and morphological claims in the visible excerpt are accurate and appropriately calibrated between established linguistics and interpretive reflection.

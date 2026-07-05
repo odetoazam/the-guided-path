@@ -1,0 +1,47 @@
+Enhanced Validation Report
+File: content/tadabbur/004-an-nisa/ayah-097.md
+Ayah: 4:97
+Date: 2026-06-23T07:09:53
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّ=Indeed, | ٱلَّذِينَ=those whom - | تَوَفَّـٰهُمُ=take them (in death) | ٱلْمَلَـٰٓئِكَةُ=the Angels | ظَالِمِىٓ=(while) they (were) wronging | أَنفُسِهِمْ=themselves | قَالُواْ=they say, | فِيمَ=`In what (condition) | كُنتُمْ‌ۖ=were you?` | قَالُواْ=They said, | كُنَّا=`We were | مُسْتَضْعَفِينَ=oppressed | فِى=in | ٱلْأَرْضِ‌ۚ=the earth.` | قَالُوٓاْ=They said, | أَلَمْ=`Not | تَكُنْ=was | أَرْضُ=(the) earth | ٱللَّهِ=(of) Allah | وَٲسِعَةً=spacious (enough) | فَتُهَاجِرُواْ=so that you (could) emigrate | فِيهَا‌ۚ=in it?` | فَأُوْلَـٰٓئِكَ=Then those | مَأْوَٮٰهُمْ=(will have) their abode | جَهَنَّمُ‌ۖ=(in) Hell - | وَسَآءَتْ=and it is an evil | مَصِيرًا=destination.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate errors found in the reviewed portion.
+
+Detailed checks:
+
+**Arabic text**: The reflection's Arabic matches the authentic text. The only difference is a minor Unicode diacritical rendering variant (وَٰسِعَةً vs وَٰسِعَةًۭ) — not a textual error.
+
+**Morphological claims (header note)**: All three verb form identifications are correct:
+- تَوَفَّىٰهُمُ as Form V (*tafaʿʿala*) of root و-ف-ي ✓
+- مُسْتَضْعَفِينَ as Form X passive participle of root ض-ع-ف ✓
+- فَتُهَاجِرُوا۟ as Form III of root ه-ج-ر ✓
+
+**Root analysis for *tawaffā***: "Built on root w-f-y, the root of paying in full... *tawaffā* is to take in full, to collect every portion of what is owed" — lexically accurate. Confirmed by Lisān al-ʿArab and Mufradāt al-Rāghib (cited in the morphology note), and consistent with the classical meaning used throughout tafsir.
+
+**Historical context and Baghawi attribution**: The reflection states "Al-Baghawī names some of them: people of Mecca who had spoken the words of Islam... and when the people of Mecca marched out to fight at Badr, these men marched out with them — and were killed there." This matches Baghawi's text precisely: *"نزلت في ناس من أهل مكة تكلموا بالإسلام ولم يهاجروا... فلما خرج المشركون إلى بدر خرجوا معهم فقتلوا مع الكفار."* ✓
+
+**"More than one narration" hedge**: Accurate — Baghawi names specific individuals while Qurtubi frames it as a broader group (*"جماعة من أهل مكة"*). The reflection correctly notes scholarly plurality without overspecifying. ✓
+
+**Jalalayn's *ẓālimī anfusihim* gloss**: Reflection frames their self-wronging as remaining in Mecca while professing Islam. Jalalayn gives: *"بالمقام مع الكفار وترك الهجرة"* — "by staying with the disbelievers and abandoning emigration." ✓
+
+**Translation of *mustaḍʿafīna***: Rendered "We were made weak / oppressed in the land" — accurate for the passive participle, consistent with Muyassar's *"كنا ضعفاء في أرضنا، عاجزين عن دفع الظلم"* and the word-by-word reference. ✓
+
+**Interpretive framing**: The "account being closed" metaphor and the "gap between the word and the foot" framing are clearly presented as reflective/accessible reading, not attributed to a scholar. No overclaiming.
+
+SUMMARY: The reflection accurately handles all morphological, historical, and tafsir-grounded claims in the reviewed portion — no errors detected across linguistic analysis, Baghawi/Qurtubi attribution, or translation of key terms.

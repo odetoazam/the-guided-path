@@ -1,0 +1,27 @@
+Enhanced Validation Report
+File: content/tadabbur/055-ar-rahman/ayah-028.md
+Ayah: 55:28
+Date: 2026-06-12T07:53:32
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَبِأَىِّ=So which | ءَالَآءِ=(of the) favors | رَبِّكُمَا=(of) your Lord | تُكَذِّبَانِ=will you both deny?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE] "the singular of *ālā'* is genuinely disputed. Was it *ilā*? *Alan*? *Iluww*? *Ily*?" — The classical disputation over the singular is accurate and attested in Lisān al-ʿArab and Mufradāt al-Rāghib, but the specific four candidate forms cannot be verified from the reference data supplied. Not flagging as an error — the *fact* of the dispute is well-documented — but a future validation pass with the full lexical entries would confirm the exact forms cited.
+- [NOTE] The morphology comment marks the root as "ʾ-l-w / Alw." The root of ālā' is itself disputed (alif-lam-waw vs. alif-lam-yā'), which is precisely why the singular is contested. The reflection handles this correctly by presenting both the root and the singular as unresolved, so no error — but worth flagging that citing one root as canonical would be an overstatement.
+
+SUMMARY: All verifiable claims — Arabic text, translation, dual address to jinn and mankind (confirmed by Qurtubi: *خطاب للإنس والجن*), verb form II for تُكَذِّبَان, contextual placement after 55:26-27, refrain count of 31 — are accurate and well-grounded; the reflection passes validation on the content visible within the 8,000-character window.

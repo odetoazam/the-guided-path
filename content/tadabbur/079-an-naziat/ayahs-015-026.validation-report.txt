@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/079-an-naziat/ayahs-015-026.md
+Ayah: 79:15
+Date: 2026-06-18T13:37:16
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: هَلْ=Has | أَتَـٰكَ=(there) come to you | حَدِيثُ=(the) story | مُوسَىٰٓ=(of) Musa?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+
+- [MODERATE] "Allah is about to send the gentlest, most tender invitation in the entire Quran" — presented as a definitive, rankable fact about the whole Quran, not as interpretive framing. The provided tafsir sources confirm the gentleness of the call (supported by 20:43–44 context referenced in `related_ayahs`), but no provided source ranks it as superlative across all of scripture. The claim goes beyond what the reference data can ground.
+
+- [MODERATE] "the worst human being who ever lived" (characterizing Pharaoh) — stated as established fact rather than authorial framing. The provided al-Qurtubi source characterizes Pharaoh as *aqwā min kuffāri ʿaṣrik* ("mightier than the disbelievers of your age") in the tasliya reading, not as an absolute worst-ever. The absolute superlative is the author's interpretive escalation, not a sourced position in the excerpts provided.
+
+VERIFIED AS ACCURATE:
+- Arabic text of 79:15 matches the authenticated text exactly (minor orthographic difference on `مُوسَىٰٓ` is a Quranic recitation mark, not an error).
+- Translation "Has the story of Musa reached you?" aligns with the word-by-word reference.
+- Al-Qurtubi *tasliya* attribution — the reflection quotes and summarizes it correctly: the Arabic source explicitly says "هذا تسلية للنبي ﷺ. أي إن فرعون كان أقوى من كفار عصرك، ثم أخذناه" — the reflection's rendering is faithful.
+- Root ṭ-gh-y / flooding-water semantic noted in the morphology section is consistent with attested Quranic usage (69:11: *lammā ṭaghā al-māʾ*), though not confirmable from the excerpt data provided here.
+
+SUMMARY: No critical errors; two moderate issues arise from superlatives presented as sourced fact rather than as the author's rhetorical framing — both are easy to soften without losing the pedagogical force.

@@ -1,0 +1,37 @@
+Enhanced Validation Report
+File: content/tadabbur/034-saba/ayah-048.md
+Ayah: 34:48
+Date: 2026-05-18T00:39:44
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: قُلْ=Say, | إِنَّ=`Indeed, | رَبِّى=my Lord | يَقْذِفُ=projects | بِٱلْحَقِّ=the truth, | عَلَّـٰمُ=(the) All-Knower | ٱلْغُيُوبِ=(of) the unseen.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "None of them anyone's personal Lord, because the pagan system is fundamentally tribal, not personal. You belong to a god the way you belong to a clan." — Stated as settled fact; it is a reasonable characterization of pre-Islamic Arabian religion, but this interpretive-historical claim is not anchored in the reference data provided. No tafsir source here addresses the relational structure of Makkan polytheism. The point is plausible and standard in sīra literature, but it should carry a hedging marker ("historically understood as…") rather than be asserted as self-evident.
+
+- [MODERATE — partial only, flagged for when Part 2 arrives] The translation "hurls the truth" treats *al-ḥaqq* as the direct object (the thing hurled). Al-Muyassar reads *bil-ḥaqq* as the instrument: "يقذف الباطل بحجج من الحق" — he *hurls falsehood down* using proofs of truth. Jalalayn and Baghawi both support the reflection's reading (truth / revelation is what is projected toward the prophets). The reflection's choice is defensible, but when Part 2 opens the verb it should acknowledge this tafsir split rather than present one stream as the plain meaning.
+
+PASSING ITEMS (confirmed against reference data):
+- Arabic text matches the authentic Arabic exactly.
+- "Violent verb / verb of weaponry" for *yaqdhifu* — directly confirmed by Baghawi: "القذف الرمي بالسهم والحصى" (throwing arrows and pebbles).
+- Contextual framing of the Makkan polemic and the *qul* sequence (34:46–50) — accurate.
+- Paraphrases of 34:46 and 34:47 — standard and uncontroversial.
+- Grammatical distinction between *al-Rabb*, *Rabb*, and *Rabbī* (possessive suffix carrying personal claim) — linguistically sound.
+- No scholar attributions are made in this section, so none can be inverted.
+- No root errors, no morphological misreadings, no Arabic text errors.
+
+SUMMARY: The reflection is clean; two MODERATE flags — one for an unanchored historical claim about pagan religion and one pre-emptive note for Part 2 to acknowledge the Muyassar's instrumental reading of *bil-ḥaqq* — neither undermines the core thesis.

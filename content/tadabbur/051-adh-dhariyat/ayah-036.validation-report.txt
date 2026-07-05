@@ -1,0 +1,30 @@
+Enhanced Validation Report
+File: content/tadabbur/051-adh-dhariyat/ayah-036.md
+Ayah: 51:36
+Date: 2026-06-09T02:01:29
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَمَا=But not | وَجَدْنَا=We found | فِيهَا=therein | غَيْرَ=other than | بَيْتٍ=a house | مِّنَ=of | ٱلْمُسْلِمِينَ=the Muslims.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "The verb *wajada* — to find — is also, in the Arabic ear, the verb of one who is **looking for something he hopes to find**. You do not 'find' what you were not seeking." — The root و-ج-د in Quranic Arabic is attested in contexts of encountering or coming upon something *without* prior seeking (e.g. 93:7: *wa-wajadaka ḍāllan*). The claim that wajada semantically implies hopeful prior search is an interpretive gloss beyond what the provided word-by-word or classical tafsir data confirms. The emotional point being made is defensible as a tadabbur observation, but the framing as lexical fact ("in the Arabic ear") overstates it slightly.
+
+- [MODERATE — unverifiable from provided data] "down in those cities lives his nephew. Lut" — the nephew relationship between Ibrahim and Lut is traditional Islamic scholarly consensus, but it is not stated in this ayah, not present in the provided tafsir excerpts, and cannot be verified against the reference data supplied. It is almost certainly correct, but should be flagged as unverifiable within this validation's scope.
+
+No CRITICAL issues: Arabic text matches authentic source exactly, word roots (و-ج-د, ب-ي-ت, غ-ي-ر) are correctly identified, the iman/islam distinction raised as a question is genuinely attested in Jalalayn and Baghawi, the indefinite tanwīn on *baytin* is correctly parsed, and no scholar positions are inverted or fabricated.
+
+SUMMARY: Two moderate observations — one semantic overreach on وَجَدَ, one relationship claim outside the provided evidence — but no factual errors or misattributions; the reflection is well-grounded.

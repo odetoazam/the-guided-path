@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/069-al-haqqah/ayah-010.md
+Ayah: 69:10
+Date: 2026-06-15T01:39:12
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَعَصَوْاْ=And they disobeyed | رَسُولَ=(the) Messenger | رَبِّهِمْ=(of) their Lord, | فَأَخَذَهُمْ=so He seized them | أَخْذَةً=(with) a seizure | رَّابِيَةً=exceeding.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+**VERDICT: PASS**
+
+**ISSUES:**
+- [MODERATE] "ʿAad — gone, swept away by a wind that howled for seven nights" — 69:7 specifies سَبْعَ لَيَالٍ وَثَمَانِيَةَ أَيَّامٍ حُسُومًا (seven nights *and eight days* consecutively). The reflection drops the eight days. This is a passing scene-setter, not the focus of the ayah under review, so it does not poison the reflection — but the incomplete citation could mislead a reader who looks up 69:7.
+
+**What checks out against the reference data provided:**
+
+- **Arabic text** matches the authentic Arabic exactly. ✓
+- **رَّابِيَةً translation** ("rose beyond all measure") is consistent with all four tafsir sources: Jalalayn (زائدة في الشدة على غيرها — exceeding in severity), Baghawi (نامية — growing/swelling; Ibn Abbas: شديدة — severe), Muyassar (بالغة في الشدة — reaching the utmost in severity). The root ربو (r-b-w, rising/swelling) is correctly identified in the morphology note. ✓
+- **Dual fa-analysis** (فَعَصَوْا / فَأَخَذَهُمْ) is structurally accurate — both conjunctions are present in the ayah and the grammatical distinction between fa (sequenced consequence) and wa (simple conjunction) is standard. ✓
+- **رَبِّهِمْ etymology** (nurturer who brings something to completion, stage by stage) is well-attested in Lisān al-ʿArab and Mufradāt al-Rāghib, cited in the morphology note. The claim is not overstated as a tafsir position — it is introduced as lexical grounding. ✓
+- **bil-khāṭiʾah identification** (69:9 as the preceding verse; the definite article making it "the sin," not "sins") is lexically accurate. ✓
+- **The reflection wisely avoids** the contested question of which specific messenger رَسُولَ refers to (Qurtubi lists four opinions: Moses, Lot, both, or "message"). No attribution is made, preserving ikhtilāf. ✓
+- **Interpretive extensions** (the eschatological reading of the fa-grammar; mercy collapsing in hindsight) are framed as invitations to reflect ("what this construction invites us to consider"), not as documented tafsir positions. No scholar is misquoted. ✓
+
+**SUMMARY:** Reflection is linguistically grounded and tafsir-honest; the one flag is an incomplete citation of ʿAad's punishment duration (seven nights without the eight days of 69:7), minor in context but worth a one-word correction.

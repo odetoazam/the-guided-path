@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/072-al-jinn/ayah-007.md
+Ayah: 72:7
+Date: 2026-06-16T23:18:34
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَأَنَّهُمْ=And that they | ظَنُّواْ=thought | كَمَا=as | ظَنَنتُمْ=you thought | أَن=that | لَّن=never | يَبْعَثَ ٱللَّهُ=will Allah raise | أَحَدًا=anyone.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE — not flagged] The reflection blends both classical readings of يَبْعَثَ: "not from the dead, not as a guide." This is defensible — Qurtubi explicitly records Al-Kalbi's minority view (sending a messenger) alongside the majority resurrection reading (Jalalayn, Baghawi, Muyassar). Presenting both is accurate, not an error.
+- [NOTE — not flagged] "small band of jinn" is sīra background not present in the provided reference data. It is traditional context found widely in tafsir literature; I cannot verify or refute it from the supplied sources. Not a flag — a documentation note.
+- [NOTE — not flagged] 6:116 is cited as Quranic critique of ẓann-based belief. Its primary referent in context is following the majority in shirk, not resurrection denial specifically. The reflection does not misrepresent the verse — it uses it thematically as one of several Quranic passages criticizing ẓann as a foundation for religious conclusions. Accurate and fair use.
+
+All claims that can be checked against the provided reference data hold:
+- Root analysis of ظَنّ (Form I, perfect, shared root ẓnn in both ظَنُّوا / ظَنَنتُمْ) is correct
+- يَبْعَثَ as Form I imperfect subjunctive after لَّن is correct
+- أَحَدًا as indefinite accusative is correct
+- Definition of ẓann as supposition between knowledge and doubt is classically attested
+- 45:24 quotation and attribution to deniers of resurrection is accurate
+- The jinn's testimony framing is consistent with Qurtubi's majority reading: Allah addressing humans, reporting that the jinn assumed as you (humans) assumed
+
+SUMMARY: The reflection is linguistically precise and tafsir-consistent throughout the visible text; no errors warranting a CRITICAL or MODERATE flag are present.

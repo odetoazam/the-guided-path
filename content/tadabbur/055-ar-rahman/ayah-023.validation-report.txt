@@ -1,0 +1,26 @@
+Enhanced Validation Report
+File: content/tadabbur/055-ar-rahman/ayah-023.md
+Ayah: 55:23
+Date: 2026-06-12T09:38:45
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَبِأَىِّ=So which | ءَالَآءِ=(of the) favors | رَبِّكُمَا=(of) your Lord | تُكَذِّبَانِ=will you both deny?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- None identified.
+
+SUMMARY: All core claims — the 31-fold refrain count, the dual addressee (mankind and jinn) attributed to the majority position and sourced to Qurtubi's explicit wording ("قول الجمهور"), the internal surah proofs at 55:3/55:15/55:31/55:33, the pearl-and-coral reference at 55:22, the meaning of ālā' as favors/blessings, and the dual morphology of *-kumā* and *-ān* — are accurate and consistent with the provided reference data.

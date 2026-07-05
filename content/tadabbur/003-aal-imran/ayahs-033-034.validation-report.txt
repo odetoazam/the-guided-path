@@ -1,0 +1,40 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayahs-033-034.md
+Ayah: 3:33
+Date: 2026-06-21T04:07:28
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ۞ إِنَّ=Indeed, | ٱللَّهَ=Allah | ٱصْطَفَىٰٓ=chose | ءَادَمَ=Adam | وَنُوحًا=and Nuh, | وَءَالَ=and (the) family | إِبْرَٲهِيمَ=(of) Ibrahim | وَءَالَ=and (the) family | عِمْرَٲنَ=(of) Imran | عَلَى=over | ٱلْعَـٰلَمِينَ=the worlds.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate issues found in the portion validated.
+
+Supporting notes on what was checked against the provided references:
+
+**Root ṣ-f-w (صفو) and Form VIII** — Confirmed by al-Baghawi directly: *"اصطفى: افتعل من الصفوة وهي الخالص من كل شيء"* — Form VIII from al-ṣafwah, meaning the pure/clear of everything. The "cream" metaphor is lexically consistent with "الخالص من كل شيء."
+
+**Phonological assimilation (t → ṭ after ص)** — Standard Arabic morphophonology (إبدال); not contradicted by any reference. Accurate.
+
+**Al-Muṣṭafā etymology** — Same root, same form. Well-established; no reference contradicts it.
+
+**The narrative context attributed to al-Baghawi** — The reflection says "one of the narrations preserved by al-Baghawi puts it on the lips of those who said: *'We are the children of Ibrahim and Ishaq and Yaʿqub. We are on their religion.'"* Al-Baghawi's text reads: *"قال ابن عباس: قالت اليهود نحن من أبناء إبراهيم وإسحاق ويعقوب، ونحن على دينهم."* Attribution is accurate — the reflection correctly frames it as a narration *preserved by* al-Baghawi (via Ibn Abbas), not as al-Baghawi's own statement.
+
+**Form VIII "turns action back toward the doer"** — The reflection presents this as a pedagogical simplification of one Form VIII function. It is defensible and not contradicted by the Baghawi text, though Form VIII has multiple functions. This is a style choice for audience accessibility, not a morphological error.
+
+One item unverifiable from the provided references: the specific quotation from *Lisān al-ʿArab* and *Mufradāt al-Rāghib*. The reflection cites these correctly as sources for ṣ-f-w, and the Baghawi text corroborates the meaning, so no flag is warranted — but those primary sources were not supplied for direct cross-check.
+
+SUMMARY: All checkable linguistic, morphological, and narrative claims in this portion are accurate and well-grounded in the supplied tafsir sources.

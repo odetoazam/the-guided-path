@@ -1,0 +1,30 @@
+Enhanced Validation Report
+File: content/tadabbur/080-abasa/ayahs-033-037.md
+Ayah: 80:33
+Date: 2026-06-18T14:25:19
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَإِذَا=But when | جَآءَتِ=comes | ٱلصَّآخَّةُ=the Deafening Blast,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "the form **صَآخَّة** — is an intensive pattern, the kind of form Arabic reserves for something whose very nature, whose *profession*, is to do this" — Morphologically inaccurate. **صَآخَّة** is a feminine active participle (*ism fāʿil*, pattern *fāʿilah*) from the doubled root ص-خ-خ, not an intensive/mubalāghah form. Intensive patterns in Arabic are *faʿʿāl*, *faʿūl*, *mifʿāl*, *faʿīl*, etc. The *fāʿilah* pattern in this position (naming an eschatological event, cf. الحاقة، الطامة، القارعة) does carry agent-noun force — "the Deafening One" — but that semantic weight flows from its use as a title noun, not from a morphological intensification pattern. The claim as written is a teachable error that a reader with any Arabic training will flag.
+
+- [MODERATE] "al-Qurtubi catches exactly what is happening here. He says: 'when Allah had mentioned the matter of the living — the food, the harvest, the sustenance — He then mentioned the matter of the return, so that people would store up provision **of a different kind** for that Day.'" — The paraphrase drops the operative clause. Al-Qurtubi's actual text reads: *ليتزودوا له بالأعمال الصالحة وبالإنفاق مما امتن به عليهم* — "so that they would take provision for it with **righteous deeds** and **by spending from what He had bestowed upon them**." The reflection flattens this to a vague "provision of a different kind," losing the specific jurisprudential weight (ʿamal + infāq) that distinguishes Qurtubi's framing from a generic eschatological pivot. Not an inversion, but an overstatement of what the attribution covers.
+
+- [MODERATE] "a word that, the scholars tell us, does two opposite things at the same time: it **deafens** every ear, and it makes every ear **strain to listen**" — The reflection presents this as a unified property of one word. Al-Qurtubi's text actually records these as two distinct scholarly readings drawn from two different verbal forms: *tuṣakhkhu* (ص-خ-خ: to deafen) and *tuṣīkhu* (from أصاخ: to prick the ear attentively), and the second reading is introduced with *"ذكر ناس من المفسرين"* — attributed to unnamed scholars as a minority position. Presenting both as co-equal properties of الصاخة itself overstates what the reference data supports. (Note: the reflection text is cut before the full exposition, so the final framing cannot be fully assessed.)
+
+SUMMARY: No critical errors in Arabic text, root identification, or scholar attribution inversions, but the reflection contains a morphological mislabeling of صَآخَّة as an "intensive pattern," a thinned Qurtubi paraphrase, and a potentially conflated dual-meaning claim — all moderate issues that should be corrected before publication.

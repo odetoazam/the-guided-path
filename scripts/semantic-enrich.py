@@ -105,6 +105,59 @@ def load_json(path: Path, default):
 # rewrite, no matter what the model returned.
 _MORPH_LINE_RE = re.compile(r"^<!-- morphology:\d+:\d+:\d+ .*-->$", re.MULTILINE)
 
+_FM_RE = re.compile(r"^---\n(.*?)\n---\n", re.DOTALL)
+_FM_FIELD_RE = re.compile(r"^([A-Za-z_][A-Za-z0-9_]*):", re.M)
+# fields the enricher is ALLOWED to change; everything else is frozen
+_FM_MUTABLE = {"semantic_review", "validated", "word_count"}
+
+
+def restore_frontmatter_fields(original: str, enriched: str) -> str:
+    """The model must not drop or rewrite frontmatter fields (it deleted a
+    scholarly_note on one file). Mechanically enforce: keep the ORIGINAL
+    frontmatter wholesale, adopting from the model's output only the fields
+    it is allowed to change (semantic_review, validated, word_count)."""
+    om = _FM_RE.match(original)
+    em = _FM_RE.match(enriched)
+    if not om or not em:
+        return enriched
+    orig_fm, enr_fm = om.group(1), em.group(1)
+
+    def field_value(fm: str, name: str) -> str | None:
+        m = re.search(rf"^{name}:.*?(?=\n[A-Za-z_][A-Za-z0-9_]*:|\Z)", fm, re.DOTALL | re.M)
+        return m.group(0).rstrip() if m else None
+
+    new_fm = orig_fm
+    for name in _FM_MUTABLE:
+        enr_val = field_value(enr_fm, name)
+        if enr_val is None:
+            continue
+        orig_val = field_value(new_fm, name)
+        if orig_val is not None:
+            new_fm = new_fm.replace(orig_val, enr_val, 1)
+        else:
+            new_fm = new_fm + "\n" + enr_val
+    return f"---\n{new_fm}\n---\n" + enriched[em.end():]
+
+
+_BIG_COMMENT_RE = re.compile(r"<!--(?:(?!-->).){500,}?-->", re.DOTALL)
+
+
+def restore_internal_comments(original: str, enriched: str) -> str:
+    """The internal grounding blocks (Step 0 table, scholarly notes inside
+    large HTML comments) must survive enrichment. If the model dropped a
+    large comment block that existed in the original, re-insert it right
+    after the frontmatter."""
+    orig_blocks = _BIG_COMMENT_RE.findall(original)
+    if not orig_blocks:
+        return enriched
+    missing = [b for b in orig_blocks if b not in enriched]
+    if not missing:
+        return enriched
+    fm = _FM_RE.match(enriched)
+    insert_at = fm.end() if fm else 0
+    return enriched[:insert_at] + "\n" + "\n\n".join(missing) + "\n" + enriched[insert_at:]
+
+
 def restore_morphology_block(original: str, enriched: str) -> str:
     """Force the enriched output to carry the ORIGINAL morphology tag lines."""
     orig_tags = _MORPH_LINE_RE.findall(original)
@@ -187,11 +240,16 @@ def enrich_file(tadabbur_path: Path, review_entry: dict | None, model: str) -> d
     tafsir_raw = tafsir_path.read_text() if tafsir_path else "[No tafsir report]"
     today = datetime.now().strftime("%Y-%m-%d")
 
-    # Cap inputs for very large files to avoid timeouts
-    MAX_REFLECTION = 15_000
+    # NEVER truncate the reflection input — a truncated input means the model
+    # never sees the tail and silently returns a file missing everything past
+    # the cut (this destroyed content on 12 files before being caught).
+    # Oversized files are SKIPPED, not truncated.
+    MAX_REFLECTION = 60_000
     MAX_TAFSIR     = 3_000
     if len(content) > MAX_REFLECTION:
-        content = content[:MAX_REFLECTION] + f"\n\n[... reflection truncated at {MAX_REFLECTION} chars for enrichment pass ...]"
+        return {"path": str(tadabbur_path.relative_to(REPO)),
+                "error": f"file too large for enrichment ({len(content)}c > {MAX_REFLECTION}c) — skipped, NOT truncated",
+                "status": "SKIPPED_TOO_LARGE"}
     tafsir_content = tafsir_raw[:MAX_TAFSIR]
     if len(tafsir_raw) > MAX_TAFSIR:
         tafsir_content += f"\n[... tafsir truncated at {MAX_TAFSIR} chars ...]"
@@ -311,6 +369,9 @@ Original task:
     # Mechanically restore the frozen morphology block — never trust the LLM to
     # reproduce word positions. (See restore-morphology-tags.py for the backfill.)
     output = restore_morphology_block(original_full, output)
+    # Mechanically enforce what the model was only ASKED to preserve:
+    output = restore_frontmatter_fields(original_full, output)
+    output = restore_internal_comments(original_full, output)
     tadabbur_path.write_text(output)
 
     return {

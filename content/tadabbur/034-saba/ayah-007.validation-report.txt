@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/034-saba/ayah-007.md
+Ayah: 34:7
+Date: 2026-05-18T00:45:25
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَقَالَ=But say | ٱلَّذِينَ=those who | كَفَرُواْ=disbelieve, | هَلْ=`Shall | نَدُلُّكُمْ=we direct you | عَلَىٰ=to | رَجُلٍ=a man | يُنَبِّئُكُمْ=who informs you | إِذَا=when | مُزِّقْتُمْ=you have disintegrated | كُلَّ=(in) total | مُمَزَّقٍ=disintegration, | إِنَّكُمْ=indeed you | لَفِى=surely (will be) in | خَلْقٍ=a creation | جَدِيدٍ=new?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR/NOTATION] Arabic in frontmatter omits the small ۢ (ghunna marker) after رَجُلٍۢ and خَلْقٍۢ present in the authenticated text — tajweed notation only, not a textual error in the consonantal skeleton or meaning. No doctrinal consequence.
+- [VERIFY-ONLY] "the verb that, elsewhere in the Quran, is used when the believers are invited to truth" — broadly accurate for root د-ل-ل (e.g., 7:30, 25:31) but this cross-Quranic claim is not verifiable from the reference data provided. It is stated as illustrative context, not as a documented scholarly position, so no flag is raised — noting only that the validator cannot confirm it from supplied sources.
+
+Everything checkable against the supplied reference data holds:
+
+- **Root د-ل-ل and نَدُلُّكُمْ as first-person plural imperfect** — confirmed by word-by-word ("we direct you") and grammatically correct.
+- **dalīl as technical term for evidence in Islamic scholarship** — lexically and usulically standard; Mufradāt al-Rāghib cited in the pruning comment covers this root.
+- **"a man" as deliberately indefinite** — رَجُلٍ without *al-* is grammatically indefinite; all four tafsir sources confirm the intended referent is Muhammad ﷺ but the disbelievers withheld the name. Jalalayn: *هو محمد*, Baghawi: *يعنون محمدا* — exactly supporting the reflection's claim that the indefiniteness was a rhetorical choice of the speakers, not of the Quran.
+- **Collective mockery (first-person plural)** — Muyassar confirms بعضهم لبعض ("some to others"), validating the "we, the group" framing.
+- **Form II intensification for مُزِّقْتُمْ and يُنَبِّئُكُمْ** — both are grammatically Form II; Jalalayn's gloss قطعتم كل ممزق and Muyassar's تفرقت أجسامكم كل تفرق both reflect the intensive/completive sense the reflection attributes to Form II.
+- **The "inversion of guidance vocabulary" argument** — this is literary-theological analysis, clearly framed as the author's interpretation, not attributed to any named scholar. No overstatement.
+
+SUMMARY: The reflection is linguistically precise and theologically grounded throughout the 8,000 characters reviewed; every verifiable factual claim aligns with the supplied word-by-word data and classical tafsir, and interpretive moves are correctly scoped as literary analysis rather than documented scholarly positions.

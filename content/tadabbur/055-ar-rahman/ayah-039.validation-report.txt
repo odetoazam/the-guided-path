@@ -1,0 +1,30 @@
+Enhanced Validation Report
+File: content/tadabbur/055-ar-rahman/ayah-039.md
+Ayah: 55:39
+Date: 2026-06-11T23:25:23
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَيَوْمَئِذٍ=Then on that Day | لَّا=not | يُسْــَٔلُ=will be asked | عَن=about | ذَنۢبِهِۦٓ=his sin | إِنسٌ=any man | وَلَا=and not | جَآنٌّ=any jinn.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "across this entire Day, from every possible direction, the question does not come" — The passive-voice analysis is grammatically sound, but this phrasing presents the non-asking as absolute and Day-wide. Jalalayn explicitly reconciles the apparent contradiction with 15:92 by noting "ويُسألون في وقت آخر" (they are asked at another time), and Qurtubi gives the standard mawāṭin resolution: "القيامة مواطن لطول ذلك اليوم، فيسأل في بعض ولا يسأل في بعض" — the Day has multiple stations; questioning occurs at some, not at others. The word "cancellation" compounds this — what the verse describes is a suspension at one station, not an erasure across the whole Day. The author signals an incoming resolution ("stay with me") but the linguistic framing here is stated definitively enough that a reader could absorb it as the settled meaning before the resolution arrives.
+
+- [MODERATE] "the thing that follows behind you" (on *dhanb* / *dhanab* = tail) — The lexicographic connection is real (Lisān al-ʿArab, Mufradāt al-Rāghib do link the roots), but the reflection presents this as the primary semantic weight of the word in this verse without qualification. This is an interpretive extension grounded in etymology, not a tafsir consensus on how *dhanb* functions in 55:39 specifically. It belongs under "some lexicographers note" rather than as a standalone meaning.
+
+No CRITICAL errors found. Arabic matches the authentic text. Passive-voice morphology (mabnī lil-majhūl, Form I imperfect) is correct. The 15:92 cross-reference is exactly the verse Jalalayn uses to establish the same tension, and the dual-address framing (thaqalān, Rabbikumā) is accurate throughout.
+
+SUMMARY: The reflection is linguistically careful and theologically honest about the core tension, but the passive-voice commentary overstates the absoluteness of the non-asking in ways the classical mawāṭin reconciliation directly contradicts — the "cancellation" framing needs to be softened or held explicitly as a rhetorical tension-building move, not a linguistic conclusion.

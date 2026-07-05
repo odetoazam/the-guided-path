@@ -1,0 +1,38 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayah-008.md
+Ayah: 3:8
+Date: 2026-06-21T05:00:47
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: رَبَّنَا=`Our Lord! | لَا=(Do) not | تُزِغْ=deviate | قُلُوبَنَا=our hearts | بَعْدَ=after | إِذْ=[when] | هَدَيْتَنَا=You (have) guided us, | وَهَبْ=and grant | لَنَا=(for) us | مِن=from | لَّدُنكَ=Yourself | رَحْمَةً‌ۚ=mercy. | إِنَّكَ=Indeed You, | أَنتَ=You | ٱلْوَهَّابُ=(are) the Bestower.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate issues found in the excerpt provided.
+
+Supporting checks:
+
+**تُزِغْ as Form IV causative** — CONFIRMED. All four tafsir sources use the causative reading: Jalalayn says "تملها عن الحق" (cause it to incline away), Baghawi explicitly parallels "لا تزغ قلوبنا" with "كما أزغت قلوب الذين في قلوبهم زيغ" — confirming Allah as the agent. The reflection's distinction between the base verb and Form IV is linguistically correct.
+
+**61:5 cross-reference** (*fa-lammā zāghū, azāgha-llāhu qulūbahum*) — The reflection quotes it accurately and the base→Form IV progression it describes ("first the human tilt, then the divine confirmation") is the correct reading of that verse's grammar.
+
+**Rasikhin attribution** — CONFIRMED. Qurtubi: "وهذا حكاية عن الراسخين." Baghawi: "ويقول الراسخون: ربنا لا تزغ قلوبنا." The reflection's framing — that the *most* grounded scholars are the ones making this dua — is exactly what the classical sources say.
+
+**Zaygh as "drift/tilt/lean away"** — CONFIRMED by Jalalayn ("تملها عن الحق") and Muyassar ("لا تَصْرِف قلوبنا عن الإيمان"). The reflection's "quiet leaning-away" matches the classical gloss.
+
+**qalb root (ق-ل-ب) meaning "to flip"** — The excerpt is cut off before completing this claim. The root meaning itself is standard classical lexicology (Lisān al-ʿArab, Mufradāt al-Rāghib), not verifiable from the provided tafsir excerpts, but it is not contested in any source.
+
+SUMMARY: The linguistic analysis is tight and accurate — Form IV, the rasikhin attribution, and the 61:5 parallel are all confirmed by the provided classical tafsir data; no errors, inversions, or overstatements detected in the portion reviewed.

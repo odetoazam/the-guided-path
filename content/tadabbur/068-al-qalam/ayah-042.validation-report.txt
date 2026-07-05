@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/068-al-qalam/ayah-042.md
+Ayah: 68:42
+Date: 2026-06-13T14:49:39
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَوْمَ=(The) Day | يُكْشَفُ=will be uncovered | عَن=from | سَاقٍ=the shin | وَيُدْعَوْنَ=and they will be called | إِلَى=to | ٱلسُّجُودِ=prostrate, | فَلَا=but not | يَسْتَطِيعُونَ=they will be able,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "the classical commentators, drawing on the earliest authorities, explain the phrase as the uncovering of unbearable severity" — This presents the metaphorical/severity interpretation as the classical consensus, but the reference data does not support that characterization. Al-Muyassar explicitly takes the literal divine-attribute position ("يكشف عن ساقه الكريمة التي لا يشبهها شيء") and anchors it in a Bukhari-Muslim hadith ("يكشف ربنا عن ساقه، فيسجد له كل مؤمن ومؤمنة"). While Al-Jalalayn and Al-Baghawi do support the severity reading (and Baghawi cites Ibn Abbas: "أشد ساعة في القيامة"), presenting one side as "the" classical view without flagging the equally classical hadith-grounded attribute position overstates the consensus. The reflection signals awareness ("we must slow down and be both honest and careful") but the visible text has not yet balanced the two positions — it may do so after the cutoff, but what is visible is one-sided on a genuinely disputed point.
+
+No other issues found. All cross-checkable claims pass:
+- **Arabic text**: matches authentic, minor diacritical variance in سَاقٍ (no ۢ superscript) is trivial.
+- **Passive form yukshafu**: correctly identified, root k-sh-f correctly given.
+- **Dominant reading qualification**: accurate — Qurtubi confirms nūn and feminine tāʾ readings exist as minority qirāʾāt.
+- **Arabic idiom "كشفت الحرب عن ساق"**: correctly cited and glossed; Jalalayn confirms "إذا اشتد الأمر فيها."
+- **Ibn ʿAbbās attribution through Baghawī**: verified — "هو أشد ساعة في القيامة" appears in Baghawi attributed to Ibn Abbas.
+- **Indefiniteness of sāqin**: correctly analyzed.
+- **Form X of ṭ-w-ʿ (yastaṭīʿūna)**: correct.
+
+SUMMARY: The reflection is linguistically accurate and correctly sources the severity interpretation, but the visible portion presents that interpretation as classical consensus while omitting the equally classical hadith-based attribute position attested in Bukhari and Muslim — a MODERATE overstatement on an ikhtilāf that requires explicit acknowledgment.

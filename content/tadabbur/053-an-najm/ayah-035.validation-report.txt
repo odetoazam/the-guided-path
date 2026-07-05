@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/053-an-najm/ayah-035.md
+Ayah: 53:35
+Date: 2026-06-09T20:08:44
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَعِندَهُۥ=Is with him | عِلْمُ=(the) knowledge | ٱلْغَيْبِ=(of) the unseen, | فَهُوَ=so he | يَرَىٰٓ=sees?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE] "akdā — is from the language of digging a well. You dig...your shovel hits kudya — hard rock" — This etymology (53:34, not 53:35) is linguistically sound per classical Arabic lexicography, but falls outside the provided reference data for 53:35. Cannot independently verify from the supplied sources; it is not contradicted, and the root derivation is standard in dictionaries like Lisān al-ʿArab. Not an error, but unverifiable from the data provided.
+- [NOTE] "Arabic grammarians have a precise name for this...istifhām inkārī — the interrogative of denial...tawbīkh — rebuke" — The reflection presents this as a grammatical-rhetorical framework without attributing it to a specific scholar, which is appropriate since it is a standard Arabic rhetorical category. The provided tafsir sources do not use the term explicitly, but al-Qurṭubī's conclusion "كفى بهذا جهلا وحمقا" (sufficient folly and stupidity) aligns precisely with the tawbīkh function described. No error.
+- [VERIFIED] "al-Jalālayn itself hedges, saying 'him or someone else'" — Accurately reflects "وهو الوليد بن المغيرة أو غيره" in the Jalalayn text. ✓
+- [VERIFIED] "al-Qurṭubī...says the question lands as an exposure of jahl and ḥumq — ignorance and folly" — Accurately drawn from "وكفى بهذا جهلا وحمقا" in the provided Qurṭubī passage. ✓
+- [VERIFIED] The "deleted object" of yarā noted in the concepts frontmatter — supported directly by al-Qurṭubī: "والمفعولان محذوفان; كأنه قال فهو يرى الغيب مثل الشهادة." ✓
+- [VERIFIED] The narrative of someone promising to carry the man's punishment — supported by al-Jalālayn ("أن غيره يتحمل عنه عذاب الآخرة"), al-Baghawi ("يعلم أن صاحبه يتحمل عنه عذابه"), and al-Qurṭubī ("يضمن حمل العذاب عن غيره"). ✓
+
+SUMMARY: No critical or moderate errors found in the portion reviewed; all named scholar attributions are accurate against the provided sources, the grammatical analysis of istifhām inkārī is sound and aligned with al-Qurṭubī's language, and the narrative framing is consistent across Jalālayn, Baghawi, and Qurṭubī.

@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/034-saba/ayah-010.md
+Ayah: 34:10
+Date: 2026-05-15T14:54:48
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ۞ وَلَقَدْ=And certainly, | ءَاتَيْنَا=We gave | دَاوُۥدَ=Dawood | مِنَّا=from Us | فَضْلاًۖ=Bounty. | يَـٰجِبَالُ=`O mountains! | أَوِّبِى=Repeat praises | مَعَهُۥ=with him, | وَٱلطَّيْرَۖ=and the birds.` | وَأَلَنَّا=And We made pliable | لَهُ=for him | ٱلْحَدِيدَ=[the] iron,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Al-Qurṭubī...reports nine different opinions on what specific bounty this verse is naming" — The Qurṭubī excerpt in the reference data is truncated and does not enumerate opinions. The number "nine" cannot be confirmed from the provided reference. If inflated, it misrepresents the tradition. This is a specific numerical claim stated as documented fact.
+
+- [MODERATE] "Al-Baghawī...says one strong position is that the faḍl in this ayah is 'everything he was given...'" — Baghawi introduces this view with *wa-qīla* (وقيل = "and it is said"), a neutral reporting formula, not an endorsement or a marked "strong position." The reflection slightly overstates the weight Baghawi assigns to it. The view itself is accurately quoted.
+
+CONFIRMED ACCURATE:
+- Verb forms in the morphology note are correct: *ātaynā* = Form IV perfect 1pl (root ʾ-t-y), *awwibī* = Form II imperative 2fs (root ʾ-w-b), *alannā* = Form IV perfect 1pl (root l-y-n).
+- Baghawi's list (prophethood, scripture, beautiful voice, softening of iron, other distinctions) is faithfully rendered — the Arabic reads: *ḥusn al-ṣawt wa-tlyīn al-ḥadīd wa-ghayru dhālika mimmā khuṣṣa bih.*
+- Muyassar attribution (prophethood, scripture, knowledge + cosmic command) is accurate: *nubuwwa wa-kitāban wa-ʿilman, wa-qulnā lil-jibāl wa-l-ṭayr: sabbiḥī maʿahu.*
+- The *tanwīn al-taʿẓīm* framing is a legitimate classical Arabic rhetorical category applied without false attribution — the reflection presents it as a grammatical principle, not a specific scholar's claim, which is appropriate.
+- The Dawud/Saba structural contrast is a standard tafsir observation grounded in the surah's own text and consistent with Qurṭubī's framing of the passage as a proof of prophethood against deniers.
+- Translation and Arabic text match the authentic source.
+
+SUMMARY: One unverifiable specific number ("nine opinions" in Qurṭubī) and one mild overstatement of Baghawī's editorial weight; the morphology, translations, tafsir attributions, and structural analysis are all sound.

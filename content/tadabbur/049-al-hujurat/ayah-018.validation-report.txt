@@ -1,0 +1,40 @@
+Enhanced Validation Report
+File: content/tadabbur/049-al-hujurat/ayah-018.md
+Ayah: 49:18
+Date: 2026-06-08T18:52:00
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّ=Indeed, | ٱللَّهَ=Allah | يَعْلَمُ=knows | غَيْبَ=(the) unseen | ٱلسَّمَـٰوَٲتِ=(of) the heavens | وَٱلْأَرْضِ‌ۚ=and the earth. | وَٱللَّهُ=And Allah | بَصِيرُۢ=(is) All-Seer | بِمَا=of what | تَعْمَلُونَ=you do.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- None identified.
+
+SUMMARY: The visible portion of this reflection is linguistically accurate, contextually sound, and makes no claims that exceed what the reference data supports.
+
+---
+
+**Verification notes:**
+
+- **Arabic text** — matches the authentic Arabic exactly. ✓
+- **Root analysis** — `يَعْلَمُ` from ʿ-l-m, `بَصِيرٌ` from b-ṣ-r, `غَيْبَ` as "the unseen/hidden" — all lexically correct. ✓
+- **Core claim (knowledge/sight division)** — "For the hidden — the *ghayb* — He uses the language of knowing... And for your deeds... He uses the language of seeing" — valid. Al-Muyassar's rendering confirms the same split: *"إن الله يعلم غيب السموات والأرض... والله بصير بأعمالكم"* — the tafsir itself pairs `يعلم` with the unseen and `بصير` with deeds. ✓
+- **"No third category" claim** — interpretive, but grounded. Both al-Jalalayn (*"لا يخفى عليه شيء منه"*) and al-Muyassar (*"لا يخفى عليه شيء من ذلك"*) assert comprehensive coverage. The reflection's framing is a defensible extension, not a fabrication. ✓
+- **Surah summary (49:1–14)** — the characterization of 49:12 (suspicion, spying, backbiting) and 49:14 (bedouin submission-vs-faith correction) is accurate to the text. ✓
+- **Qirāʾāt note** (front-matter only) — mentions ياء vs. تاء variant, confirmed in both al-Qurtubi (*"قرأ ابن كثير... وأبو عمرو بالياء"*) and al-Baghawi (*"قرأ ابن كثير يعملون بالياء"*). ✓
+- **No scholar attributions** appear in the visible text, so no inversion risk. ✓
+
+One stylistic note for awareness (not a flag): the reflection calls `بَصِيرٌ` "the verb of the eye" — it is grammatically an adjective (intensive *ism*), not a verb. The context makes clear this is pedagogical shorthand for the word-family, not a morphological claim, so it does not constitute an error.

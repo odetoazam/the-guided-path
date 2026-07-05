@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayah-080.md
+Ayah: 3:80
+Date: 2026-06-21T13:08:14
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَلَا=And not | يَأْمُرَكُمْ=he will order you | أَن=that | تَتَّخِذُواْ=you take | ٱلْمَلَـٰٓئِكَةَ=the Angels, | وَٱلنَّبِيِّــۧنَ=and the Prophets | أَرْبَابًا‌ۗ=(as) lords. | أَيَأْمُرُكُم=Would he order you | بِٱلْكُفْرِ=to [the] disbelief | بَعْدَ=after | إِذْ=[when] | أَنتُم=you (have become) | مُّسْلِمُونَ=Muslims?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "As al-Jalālayn and al-Muyassar gloss it: 'And Allah does not command you to take the angels and prophets as lords.'" — Al-Jalālayn explicitly supports this (بالرفع استئنافا أي الله), but al-Muyassar's text reads "وما كان لأحد منهم أن يأمركم باتخاذ الملائكة والنبيين أربابًا" — "it was not for *any of them*" — referring to the prophets/humans, not Allah. Al-Muyassar is being cited as a witness to the rafʿ/Allah-as-subject reading; its actual phrasing aligns more naturally with the naṣb/human-as-subject reading. The attribution overstates what al-Muyassar says.
+
+All other claims verify cleanly:
+- Qirāʾāt attribution: Ibn ʿĀmir, ʿĀṣim, Ḥamza for naṣb confirmed in both al-Qurṭubī and al-Baghawī; al-Baghawī adding Yaʿqūb is correct.
+- *Istiʾnāf* (new-start construction) for rafʿ reading: al-Jalālayn explicitly uses "استئنافا."
+- *Maʿṭūf* (connected) for naṣb reading: al-Baghawī and al-Qurṭubī both use "عطفا."
+- The al-Qurṭubī tradition about the Jews' challenge ("أتريد أن نتخذك يا محمد ربا؟") matches the provided text exactly.
+- Example triumvirate (Sabeans/angels, Jews/ʿUzayr, Christians/ʿĪsā) confirmed in al-Jalālayn.
+- Root attributions (أمر, أخذ→ittakhadha, رب→arbāb, كفر, سلم) are all correct.
+
+SUMMARY: One moderate citation error — al-Muyassar is claimed as a witness to the rafʿ/Allah-as-subject reading, but its actual phrasing ("none of them") fits the naṣb/human-as-subject reading; all other linguistic, tafsir, and qirāʾāt claims are accurate and well-sourced.

@@ -1,0 +1,28 @@
+Enhanced Validation Report
+File: content/tadabbur/058-al-mujadila/ayah-022.md
+Ayah: 58:22
+Date: 2026-06-12T18:15:14
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: لَّا تَجِدُ=You will not find | قَوْمًا=a people | يُؤْمِنُونَ=who believe | بِٱللَّهِ=in Allah | وَٱلْيَوْمِ=and the Day | ٱلْأَخِرِ=the Last | يُوَآدُّونَ=loving | مَنْ=(those) who | حَآدَّ=oppose | ٱللَّهَ=Allah | وَرَسُولَهُۥ=and His Messenger | وَلَوْ=even if | كَانُوٓاْ=they were | ءَابَآءَهُمْ=their fathers | أَوْ=or | أَبْنَآءَهُمْ=their sons | أَوْ=or | إِخْوَٲنَهُمْ=their brothers | أَوْ=or | عَشِيرَتَهُمْ‌ۚ=their kindred. | أُوْلَـٰٓئِكَ=Those - | كَتَبَ=He has decreed | فِى=within | قُلُوبِهِمُ=their hearts | ٱلْإِيمَـٰنَ=faith | وَأَيَّدَهُم=and supported them | بِرُوحٍ=with a spirit | مِّنْهُ‌ۖ=from Him. | وَيُدْخِلُهُمْ=And He will admit them | جَنَّـٰتٍ=(to) Gardens, | تَجْرِى=flow | مِن=from | تَحْتِهَا=underneath it | ٱلْأَنْهَـٰرُ=the rivers, | خَـٰلِدِينَ=will abide forever | فِيهَا‌ۚ=in it. | رَضِىَ ٱللَّهُ=Allah is pleased | عَنْهُمْ=with them, | وَرَضُواْ=and they are pleased | عَنْهُ‌ۚ=with Him. | أُوْلَـٰٓئِكَ=Those | حِزْبُ=(are the) party | ٱللَّهِ‌ۚ=(of) Allah. | أَلَآ=No doubt! | إِنَّ=Indeed, | حِزْبَ=(the) party | ٱللَّهِ=(of) Allah, | هُمُ=they | ٱلْمُفْلِحُونَ=(are) the successful ones.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "The tradition reported by al-Baghawī connects this revelation to the agony of real men — Companions whose own fathers stood in the enemy line at Badr, who watched a brother raise a sword on the wrong side of the field." — The al-Baghawī excerpt in the provided reference reads: *"قيل: نزلت في حاطب بن أبي بلتعة حين كتب إلى أهل مكة"* ("it was said: revealed regarding Ḥāṭib ibn Abī Balṭaʿa when he wrote to the people of Mecca"). Al-Baghawī's cited occasion is Ḥāṭib's letter warning Mecca ahead of the conquest — not Companions at Badr. The Badr-conflict narrative exists in tafsir literature for related verses but is not what al-Baghawī's text (as provided) attributes here. The scholar is named but the content attributed to him does not match.
+
+- [MODERATE] "this is the warmest word for love in the entire Arabic language" — stated as categorical fact about *wadd*. Classical Arabic distinguishes multiple love-registers (*wadd*, *maḥabba*, *ḥubb*, *ʿishq*) with overlapping intensities; none of the provided reference sources rank *wadd* as definitively "warmest" among all. This is a reasonable interpretive description of *wadd*'s quality (tender, mutual, sincere) but is presented as an absolute comparative claim the reference data cannot sustain.
+
+SUMMARY: The Form III morphological analysis, root etymologies, and translation choices are all accurate and well-grounded; the two moderate flags are a misattributed asbāb al-nuzūl (Badr conflated with Ḥāṭib/Mecca in al-Baghawī) and an overclaimed superlative about *wadd*.

@@ -1,0 +1,33 @@
+Enhanced Validation Report
+File: content/tadabbur/036-ya-sin/ayahs-045-046.md
+Ayah: 36:45
+Date: 2026-06-05T07:34:53
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَإِذَا=And when | قِيلَ=it is said | لَهُمُ=to them, | ٱتَّقُواْ=`Fear | مَا=what | بَيْنَ أَيْدِيكُمْ=(is) before you | وَمَا=and what | خَلْفَكُمْ=(is) behind you | لَعَلَّكُمْ=so that you may | تُرْحَمُونَ=receive mercy.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Al-Baghawī states it directly: *wa'l-jawāb maḥdhūf* — the answer is deleted — *taqdīruhu: idhā qīla lahum hādhā aʿraḍū*" — The Baghawī excerpt provided terminates mid-sentence at "والجواب" before completing the discussion. The specific Arabic phrasing attributed to Baghawī as a direct quotation cannot be confirmed from the data provided. The jawāb maḥdhūf analysis itself is well-grounded (Jalalayn clearly supplies أعرضوا as the implied deleted answer), but presenting an unverifiable verbatim attribution as "Al-Baghawī states it directly" overstates certainty of sourcing.
+
+No other issues found:
+- Arabic text matches authenticated source exactly.
+- Morphology header is accurate: قِيلَ passive perfect (√qwl), ٱتَّقُوا Form VIII imperative (√wqy), تُرْحَمُونَ passive imperfect (√rHm), مُعْرِضِينَ Form IV active participle (√ʿrḍ) — all correct.
+- Rendering ٱتَّقُوا as "Take cover" is an interpretive extension of the root wqy (to shield/guard), not an error; the shielding dimension is lexically attested.
+- The multiple tafsir opinions on "mā bayna aydīkum / mā khalfakum" (Jalalayn: dunya/ākhirah punishment; Qurtubi: past nations / ākhirah; Ibn Abbas via Baghawi: ākhirah / dunya) are not contradicted — the reflection wisely does not adjudicate between them.
+- No scholar positions inverted. No claims stated as documented fact that exceed what the sources support.
+
+SUMMARY: The reflection is exegetically sound and linguistically accurate; the sole issue is a specific direct-quotation attribution to Baghawī that the truncated tafsir excerpt cannot confirm, though the underlying grammatical analysis (jawāb maḥdhūf → أعرضوا) is independently supported by Jalalayn.

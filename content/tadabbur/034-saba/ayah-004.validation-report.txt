@@ -1,0 +1,39 @@
+Enhanced Validation Report
+File: content/tadabbur/034-saba/ayah-004.md
+Ayah: 34:4
+Date: 2026-05-18T01:25:14
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: لِّيَجْزِىَ=That He may reward | ٱلَّذِينَ=those who | ءَامَنُواْ=believe | وَعَمِلُواْ=and do | ٱلصَّـٰلِحَـٰتِۚ=righteous deeds. | أُوْلَـٰٓئِكَ=Those - | لَهُم=for them | مَّغْفِرَةٌ=(will be) forgiveness | وَرِزْقٌ=and a provision | كَرِيمٌ=noble.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+**VERDICT: PASS**
+
+**ISSUES:**
+
+No errors found in the submitted portion. Specific checks:
+
+- **[PASS]** *"يَجْزِيَ (Form I imperfect, from the root ج-ز-ي)"* — Correct. جَزَى يَجْزِي is Form I. Al-Qurtubi confirms the lam: "منصوب بلام كي" — this is the lām al-ta'līl. Grammatically accurate.
+
+- **[PASS]** *"The Leeds corpus confirms: آمَنُوا is Form IV of the root أ-م-ن"* — Correct. āmana (آمَنَ) is Form IV (أَفْعَلَ), the initial hamzah + alif combining to produce the madd. The "inchoative/declarative, not causative" gloss is linguistically defensible and consistent with how classical lexicons treat this verb.
+
+- **[PASS]** *"the first purpose announced is the honoring of the believers, before the punishment of the deniers"* — Supported. Al-Qurtubi explicitly sequences: "الذين آمنوا وعملوا الصالحات بالثواب، والكافرين بالعقاب" — reward for believers named first, punishment of disbelievers second. The sequencing observation is accurate.
+
+- **[PASS]** *"أُولَٰئِكَ... the distal demonstrative... singling out with elevated distinction"* — Correct Arabic morphology; the rhetorical use of distal deictic for elevation is classically attested.
+
+- **[PASS]** *"وَعَمِلُوا الصَّالِحَاتِ — Form I perfect, third person plural"* — Correct.
+
+**NOTE:** The reflection text cuts off mid-analysis at "مَّغْف" before treating مَّغْفِرَةٌ and رِزْقٌ كَرِيمٌ in full. Al-Jalalayn and Al-Baghawi both gloss "رزق كريم" as Paradise specifically ("حسن في الجنة") — the submitted text does not yet reach these terms, so that section cannot be validated here. Ensure the continuation does not describe رزق كريم in exclusively worldly terms.
+
+**SUMMARY:** All verifiable claims in the submitted portion are accurate and well-grounded in the reference tafsir and word data; no errors found, pending validation of the truncated مَّغْفِرَةٌ / كَرِيمٌ section.

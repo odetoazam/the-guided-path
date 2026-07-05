@@ -1,0 +1,40 @@
+Enhanced Validation Report
+File: content/tadabbur/055-ar-rahman/ayahs-070-074.md
+Ayah: 55:70
+Date: 2026-06-12T00:25:43
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فِيهِنَّ=In them | خَيْرَٲتٌ=(are) good | حِسَانٌ=and beautiful ones.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate issues identified.
+
+Supporting observations (confirming accuracy, not flagging errors):
+
+1. **Root kh-y-r for خَيْرَٰتٌ** — correct. The word-by-word reference and all four tafsir sources confirm "good," rooted in khayr.
+
+2. **"Al-Qurṭubī notes that khayrāt here means dhawāt khayr — possessors of goodness"** — directly supported. Qurṭubī text reads: *الواحدة خيرة على معنى ذوات خير*. Exact match.
+
+3. **"the word may be a softened form of khayyirāt... smoothed in pronunciation the way Arabic smooths hayyin into hayn"** — directly supported. Qurṭubī text reads: *وقيل: خيرات بمعنى خيّرات فخُفِّف، كهين ولين*. The كهين ولين (hayn/layn) analogy the reflection cites matches precisely.
+
+4. **Umm Salama narration attributed to al-Baghawī: "khayrāt al-akhlāq ḥisān al-wujūh"** — correctly attributed. Al-Baghawī text reads: *قال: "خيرات الأخلاق حسان الوجوه"*. Verbatim match.
+
+5. **Hedging the hadith chain as "debated"** — appropriately cautious. The chain (al-Ḥasan ʿan abīhi ʿan Umm Salama) is a known weak isnad; the reflection neither dismisses the narration nor overstates its authenticity.
+
+6. **Character-before-beauty ordering as the central thesis** — fully corroborated by all four sources. Al-Jalālayn: *خيرات أخلاقاً حسان وجوهاً*. Al-Muyassar: *طيبات الأخلاق حسان الوجوه*. Al-Jalālayn and al-Muyassar independently confirm the same sequence unprompted by the reflection.
+
+SUMMARY: Every factual claim in this passage is either directly confirmed by the provided tafsir sources or appropriately hedged where the evidential basis is weaker.

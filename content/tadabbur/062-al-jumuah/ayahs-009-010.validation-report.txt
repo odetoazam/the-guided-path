@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/062-al-jumuah/ayahs-009-010.md
+Ayah: 62:9
+Date: 2026-06-13T01:27:44
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ=O you who believe! | إِذَا=When | نُودِىَ=(the) call is made | لِلصَّلَوٲةِ=for (the) prayer | مِن=on | يَوْمِ=(the) day | ٱلْجُمُعَةِ=(of) Friday, | فَٱسْعَوْاْ=then hasten | إِلَىٰ=to | ذِكْرِ=(the) remembrance | ٱللَّهِ=(of) Allah | وَذَرُواْ=and leave | ٱلْبَيْعَ‌ۚ=the business. | ذَٲلِكُمْ=That | خَيْرٌ=(is) better | لَّكُمْ=for you, | إِن=if | كُنتُمْ=you | تَعْلَمُونَ=know.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "al-Baghawī tells us — citing the practice recorded in Bukhārī through al-Sā'ib ibn Yazīd — gave the adhān the moment the imām sat down for the khuṭbah" — Al-Baghawī's tafsir excerpt confirms the ruling (أراد بهذا النداء الأذان عند قعود الإمام على المنبر للخطبة) and begins a transmission chain (أخبرنا عبد الواحد المليحي... أخبرنا محمد بن يوسف... حدثن[ا]) that is truncated in the reference data before the Companion narrator is named. The specific attribution "through al-Sā'ib ibn Yazīd" cannot be confirmed from the supplied excerpt. The hadith itself is authentic (Bukhārī 912) and the claim is almost certainly correct, but the reflection presents it as directly verifiable from al-Baghawī when the provided source doesn't surface that name. Flag for a secondary check against the full al-Baghawī text.
+
+What holds:
+- نُودِيَ correctly identified as passive (majhūl) of Form III نادى (root ن-د-ي/و) — accurate morphologically
+- Form III described as directing action "toward" another party — simplified but not wrong; standard pedagogical framing
+- وَذَرُوا correctly tagged as defective verb in the concepts list
+- Jalālayn reading فامضوا and al-Muyassar's "فامضوا إلى سماع الخطبة" are consistent with the reflection's treatment of فَٱسْعَوْا as purposeful movement (the reflection doesn't over-claim literal rushing)
+- Passive-voice theology (the unnamed caller implies a vertical summons) is an interpretive extension, but clearly marked as reflection, not stated as documented tafsir fact — no overreach
+- Arabic text in frontmatter matches authentic text within standard mushaf orthographic variants
+
+SUMMARY: Linguistically and theologically sound; one specific hadith-chain attribution to al-Sā'ib ibn Yazīd needs verification against the untruncated al-Baghawī text before finalizing.

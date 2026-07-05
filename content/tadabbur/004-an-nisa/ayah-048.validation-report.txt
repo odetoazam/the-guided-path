@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/004-an-nisa/ayah-048.md
+Ayah: 4:48
+Date: 2026-06-22T08:42:35
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّ=Indeed, | ٱللَّهَ=Allah | لَا=(does) not | يَغْفِرُ=forgive | أَن=that | يُشْرَكَ=partners be associated | بِهِۦ=with Him, | وَيَغْفِرُ=but He forgives | مَا دُونَ=other than | ذَٲلِكَ=that | لِمَن=for whom | يَشَآءُ‌ۚ=He wills. | وَمَن=And whoever | يُشْرِكْ=associates partners | بِٱللَّهِ=with Allah, | فَقَدِ=then surely | ٱفْتَرَىٰٓ=he has fabricated | إِثْمًا=a sin - | عَظِيمًا=tremendous.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "the man who, by the most widely cited tradition, prompted a verse like this was Waḥshī ibn Ḥarb" — al-Baghawī's report (the only tafsir source here providing an occasion of revelation) introduces it as "qāla al-Kalbī" (Muḥammad ibn al-Sāʾib al-Kalbī said), attributing it to a narrator widely considered weak in hadith sciences. The content of the narrative is accurately represented, and the Waḥshī association is genuinely prevalent across tafsir literature, but "most widely cited tradition" overstates the chain's standing without qualification.
+
+- [MODERATE] "Waḥshī and his companions wrote to the Prophet ﷺ from Mecca, terrified" — al-Baghawī says "ندم" (regretted); the reflection's "terrified" is an embellishment not in the source. Minor, as the fear-of-punishment reading is contextually implied by the narrative, but it is an addition beyond what the reference text states.
+
+No issues with:
+- Arabic text — matches authentic text exactly ✓
+- Passive/active distinction (yushraka vs. yushrik) — linguistically accurate; passive Form IV imperfect and active Form IV jussive are correctly identified and meaningfully distinguished ✓
+- Form IV (ashraka) claim — correct; the active Form IV imperfect يُشْرِكُ and its passive يُشْرَكُ are standard; the reflection's description of Form IV as "to *set up* a partner" (causative/factitive) is lexically attested ✓
+- iftarā as Form VIII of root f-r-y — correct; the ta infix pattern إفتعل applied to f-r-y yields افترى ✓
+- Core theological claim (shirk unforgivable; everything else subject to divine will) — confirmed by all four tafsir sources ✓
+- al-Qurtubi's muḥkam characterization — not yet cited in the portion provided; cannot flag absence
+
+SUMMARY: The reflection is linguistically rigorous and theologically accurate; the only substantive issue is characterizing the Waḥshī narration's pedigree as "most widely cited" when the reference traces it to al-Kalbī, a weak narrator.

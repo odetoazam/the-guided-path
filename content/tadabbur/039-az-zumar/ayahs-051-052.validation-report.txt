@@ -1,0 +1,24 @@
+Enhanced Validation Report
+File: content/tadabbur/039-az-zumar/ayahs-051-052.md
+Ayah: 39:51
+Date: 2026-06-06T06:36:45
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَأَصَابَهُمْ=Then struck them | سَيِّـَٔـاتُ=(the) evils | مَا=(of) what | كَسَبُواْ‌ۚ=they earned. | وَٱلَّذِينَ=And those who | ظَلَمُواْ=have wronged | مِنْ=of | هَـٰٓؤُلَآءِ=these, | سَيُصِيبُهُمْ=will strike them | سَيِّـَٔـاتُ=(the) evils | مَا=(of) what | كَسَبُواْ=they earned; | وَمَا=and not | هُم=they | بِمُعْجِزِينَ=will be able to escape.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: ERROR
+ISSUES:
+- Could not run Claude check: Command failed: claude -p --system-prompt "You are a rigorous Islamic scholarship validator for Ayah
+SUMMARY: Claude semantic check failed

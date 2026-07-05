@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/067-al-mulk/ayahs-001-005.md
+Ayah: 67:1
+Date: 2026-05-14T23:06:09
+
+[1] Arabic text: ❌ fail
+    → Arabic text mismatch. API: "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ تَبَٰرَكَ ٱلَّذِى بِيَدِهِ ٱلْمُلْكُ وَهُ..."
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: تَبَـٰرَكَ=Blessed is | ٱلَّذِى=He | بِيَدِهِ=in Whose Hand | ٱلْمُلْكُ=(is) the Dominion, | وَهُوَ=and He | عَلَىٰ=(is) over | كُلِّ=every | شَىْءٍ=thing | قَدِيرٌ=All-Powerful.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 5
+  Failed:   0
+
+⚠️  All verses matched but 5 had diacritics or partial differences.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+
+- [MODERATE] "It is Form VI — *tafa'ala* — which in Arabic typically means reflexive or mutual action. *Ta'allama* means to learn (reflexive of being taught)." — *Ta'allama* (تَعَلَّمَ) is **Form V** (*tafa''ala*, تَفَعَّلَ — doubled middle consonant), not Form VI. Form VI (*tafa'ala*, تَفَاعَلَ — long alif after first radical) is correctly illustrated by *tasharaka* later in the same sentence. The reflection correctly identifies *tabaraka* as Form VI, but cites *ta'allama* as a Form VI example. This is a morphological misclassification that will mislead readers on Arabic grammar.
+
+- [UNVERIFIABLE from provided data] "Al-Zajjaj said: *ta'ala*... Al-Tabari said: *ta'azama*... Ibn Kathir connected it back to *barakah*... Al-Razi said the Form VI pattern indicates inherent, self-generated quality" — None of these four attributions appear in the provided reference corpus (Jalalayn, Muyassar, Qurtubi, Baghawi). They may be accurate — the general thrust is consistent with classical usage — but they cannot be confirmed here and should be sourced before publication.
+
+- [PASS] Hadith of the companion's tent over the grave attributed to Ibn Abbas, transmitted by al-Tirmidhi — confirmed by the Qurtubi source: *"روى الترمذي عن ابن عباس قال: ضرب رجل... خباءه على قبر."*
+
+- [PASS] *Tabaraka* root ب ر ك, morphology tag `root=برك pos=V`, and the claim that this verb form is used exclusively for Allah in the Quran — all accurate.
+
+- [PASS] Al-Muyassar's note that the attribute of the Hand (*ṣifat al-yad*) is affirmed for Allah as befits His majesty — the reflection's treatment of sovereignty is consistent with this and does not overreach into tashbih or ta'til.
+
+SUMMARY: One genuine morphological error (ta'allama wrongly given as a Form VI exemplar) and four unverifiable scholar attributions require correction or sourcing before this file is marked `validated: true`.

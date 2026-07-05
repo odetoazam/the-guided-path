@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/060-al-mumtahanah/ayah-003.md
+Ayah: 60:3
+Date: 2026-06-12T21:13:21
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: لَن=Never | تَنفَعَكُمْ=will benefit you | أَرْحَامُكُمْ=your relatives | وَلَآ=and not | أَوْلَـٰدُكُمْ‌ۚ=your children | يَوْمَ=(on the) Day | ٱلْقِيَـٰمَةِ=(of) the Resurrection. | يَفْصِلُ=He will judge | بَيْنَكُمْ‌ۚ=between you. | وَٱللَّهُ=And Allah | بِمَا=of what | تَعْمَلُونَ=you do | بَصِيرٌ=(is) All-Seer.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical errors found.
+- [NOTE — UNVERIFIABLE FROM PROVIDED DATA] "Narrated by al-Tirmidhī and Abū Dāwūd, graded authentic" — the hadith *"I am al-Raḥmān, I created the raḥim and derived for it a name from My own name"* is authentic and exists in both referenced collections, but the most prominent chain is in Bukhārī (not cited). The attribution is not *wrong*, just incomplete. Cannot verify exact grading from the reference data provided. Low-risk in context but worth a citation cross-check before publication.
+
+Specific validations that passed:
+- **Ḥāṭib incident**: accurately reconstructed; Qurṭubī and Baghawī both confirm the excuse of unprotected family and the direct response from this ayah.
+- **Al-Qurṭubī attribution**: "when Ḥāṭib offered the excuse that he had children and relatives among them, Allah made clear that family and children benefit nothing..." — matches الجامع لأحكام القرآن verbatim in substance: *"بين الرب عز وجل أن الأهل والأولاد لا ينفعون شيئا يوم القيامة إن عصي من أجل ذلك."*
+- **أَرْحَام = womb (root r-ḥ-m)**: lexically correct; classical sources gloss as *qarābāt/qurb* (relatives by proximity) but the root *raḥim* = womb is undisputed.
+- **r-ḥ-m root shared with al-Raḥmān/al-Raḥīm**: standard Arabic morphology, uncontested.
+- **لَن as emphatic future negation**: accurate grammatical claim — *lan* carries stronger categorical negation than *lā* for the future.
+- **يَفْصِلُ root f-ṣ-l**: the active reading (*yafṣilu*) matches the authenticated Arabic provided; Jalālayn notes a passive variant (*yufṣal*) but active is the majority reading and the text uses it correctly. Classical glosses (*yufarriqu*, separating believers to Paradise and disbelievers to Fire) align with the reflection's treatment.
+
+SUMMARY: The reflection is linguistically rigorous and historically accurate throughout the visible text; the sole flag is an incomplete hadith citation (missing Bukhārī) that poses no doctrinal risk but should be corrected for scholarly completeness.

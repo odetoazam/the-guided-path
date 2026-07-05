@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/055-ar-rahman/ayah-067.md
+Ayah: 55:67
+Date: 2026-06-25T09:46:32
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَبِأَىِّ=So which | ءَالَآءِ=(of the) favors | رَبِّكُمَا=(of) your Lord | تُكَذِّبَانِ=will you both deny?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "*Āla'* in its classical usage tends toward something more specific: blessings that are *witnessed*, *experienced*, *felt* in the body. Not abstract entitlements, but the weight of a thing you can hold." — This tangible/sensory distinction between *āla'* and *ni'mah* is presented as an established linguistic fact, but the reference data (word-by-word: simply "favors") does not support this specificity. Classical lexicographers (Rāghib, Ibn Manẓūr) discuss *āla'* and *ni'mah* with considerable overlap; the "bodily-registered" framing is a plausible interpretive gloss but overstates what the root *Alw* lexically commits to. The argument would stand if hedged ("some commentators hold..." / "the word tends to evoke...") rather than asserted as settled lexical usage.
+
+CONFIRMED ACCURATE:
+- The 26th-occurrence count at ayah 67 is correct (31 total refrains; 13, 16, 18... 65, **67**, 69...).
+- "Thirty-one times across seventy-eight verses" — correct.
+- Al-Qurtubi + Jabir + al-Tirmidhi attribution is directly confirmed by the Qurtubi excerpt: *"وخرجه الترمذي وفيه 'للجن أحسن منكم ردا'"*.
+- Form II analysis of *tukadhdhibān* (doubled middle root consonant = "to *call* something a lie" vs. Form I "to lie") is linguistically sound.
+- First garden (46–61) / second garden (62–76) structural framing and the *naddākhatān* vs. *tajriyān* spring distinction are accurately rendered.
+- Arabic text matches the authentic reference.
+
+SUMMARY: The reflection is rigorously grounded; the sole issue is one semantic claim about *āla'* being categorically "tangible/experiential" stated as documented lexical fact rather than interpretive framing — a hedge fixes it without touching the argument.

@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/004-an-nisa/ayah-116.md
+Ayah: 4:116
+Date: 2026-06-24T08:01:45
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّ=Indeed, | ٱللَّهَ=Allah | لَا=does not | يَغْفِرُ=forgive | أَن=that | يُشْرَكَ=partners be associated | بِهِۦ=with Him, | وَيَغْفِرُ=but He forgives | مَا=[what] | دُونَ=other than | ذَٲلِكَ=that | لِمَن=for whom | يَشَآءُ‌ۚ=He wills. | وَمَن=And whoever | يُشْرِكْ=associates partners | بِٱللَّهِ=with Allah | فَقَدْ=then surely | ضَلَّ=he lost (the) way, | ضَلَـٰلاَۢ=straying | بَعِيدًا=far away.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "a narration al-Qurtubī preserves — reported through al-Tirmidhī from ʿAlī ibn Abī Ṭālib... there is no verse in the Qur'an more beloved to me than this one" — confirmed verbatim in the Qurtubī source: *وروى الترمذي عن علي بن أبي طالب رضي الله عنه قال: ما في القرآن آية أحب إلي من هذه الآية*
+- [PASS] "Al-Tirmidhī himself graded the report *gharīb*" — confirmed in Qurtubī: *قال: هذا حديث غريب* (the *qāla* following the chain is al-Tirmidhī's own grading, per convention)
+- [PASS] Passive/active analysis: *an yushraka bihi* identified as passive (Form IV passive subjunctive, damma on prefix + fatha on final: يُشْرَكَ) and *man yushrik* as active jussive (يُشْرِكْ) — morphologically accurate on both counts
+- [PASS] *sh-r-k* root glossed as a commercial partnership word, Form IV read in factitive/causative sense ("to install as a partner") — lexically well-grounded, consistent with classical lexicon usage
+- [PASS] *ḍalāl* framed as "lost / wanderer" rather than "guilty" — al-Baghawī confirms: *ذهب عن الطريق* ("strayed from the path"), supporting the reflection's deliberate word choice
+- [NOTE, not an error] Tags frontmatter contains "ralal" — apparent typo for "dalal," invisible to readers but worth correcting in metadata
+
+SUMMARY: All verifiable claims — the Tirmidhī/ʿAlī narration, the gharīb grading, the passive/active voice switch, the root etymology, and the semantics of ḍalāl — are confirmed against the reference data; no doctrinal or linguistic errors found in the portion reviewed.

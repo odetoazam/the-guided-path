@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/036-ya-sin/ayah-059.md
+Ayah: 36:59
+Date: 2026-06-05T07:12:57
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَٱمْتَـٰزُواْ=`But stand apart | ٱلْيَوْمَ=this Day, | أَيُّهَا ٱلْمُجْرِمُونَ=O criminals!
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [UNVERIFIABLE] "Al-Rāghib says it plainly: aṣl al-jarm — qaṭʿ al-thamara ʿan al-shajar" — The j-r-m root analysis is consistent with classical Arabic lexicography (Lisān al-ʿArab does attest جَرَمَ النخلَ meaning to cut/harvest dates from a tree, and al-Rāghib's Mufradāt does treat j-r-m under a severing-root meaning), but this lexicographical source was not supplied in the reference data for this validation pass. The claim reads as a direct quotation; if it is a paraphrase or reconstruction, that should be flagged in the methodology note. No error is evident — just unconfirmable from the data provided.
+
+**Everything verifiable is accurate:**
+
+- Arabic text matches the authenticated source exactly.
+- Form VIII imperative analysis of *imtāzū* (root م-ي-ز, reflexive/auto-enacted separation) is morphologically correct.
+- Al-Qurtubī citation is faithful: the reflection renders "tamayyazū, amāzū, and imtāzū" and the pair "miztuhu fa-nmāza wa-mtāza" — these map precisely to "تميزوا وأمازوا وامتازوا بمعنى ، ومزته فانماز وامتاز" in the provided Qurtubī text.
+- Al-Jalālayn citation "ʿinda ikhtilāṭihim bihim" is directly present in the provided Jalālayn source ("عند اختلاطهم بهم") and the contextual reading — "mixed in the same crowd until this command" — correctly derives from it.
+- The theological framing (self-sorting rather than externally imposed separation) is consistent with the classical tafsir consensus: Jalālayn (انفردوا عن المؤمنين), Baghawī (اعتزلوا / انفردوا / كونوا على حدة), and Muyassar (تميَّزوا عن المؤمنين وانفصلوا عنهم) all support the separation-of-the-mixed-assembly reading the reflection builds from.
+- Passage context (36:55–58 Garden scene → 36:59 command → 36:60–62 indictment) is accurate.
+
+SUMMARY: The reflection is linguistically rigorous and tafsir-faithful throughout the verifiable portion; the only open item is the al-Rāghib direct-quote on j-r-m, which cannot be confirmed from the supplied reference data but is consistent with classical lexicographical attestation.

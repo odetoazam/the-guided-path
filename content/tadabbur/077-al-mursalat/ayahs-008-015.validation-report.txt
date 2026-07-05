@@ -1,0 +1,37 @@
+Enhanced Validation Report
+File: content/tadabbur/077-al-mursalat/ayahs-008-015.md
+Ayah: 77:8
+Date: 2026-06-18T10:36:22
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَإِذَا=So when | ٱلنُّجُومُ=the stars | طُمِسَتْ=are obliterated,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE] Reflection covers ayahs 8–15, but reference data supplied covers ayah 8 only. Claims about فُرِجَتْ, نُسِفَتْ, أُقِّتَتْ, and يَوْمُ ٱلْفَصْلِ could not be checked against classical tafsir from the provided sources. The linguistic deep-dive anchors on طُمِسَتْ, which is the validated root — no error, but the scope gap should be noted.
+
+All checkable claims pass:
+
+- **Root attribution**: ط-م-س correctly identified, perfect passive correctly parsed.
+- **Al-Jalālayn quote** ("*muḥiya nūruhā*"): matches source exactly — محي نورها.
+- **Al-Baghawī quote** ("*muḥiya nūruhā*, word for word"): matches source exactly — محي نورها.
+- **Al-Muyassar quote** ("*ṭumisat wa-dhahaba ḍiyā'uhā*"): matches source — طُمست وذهب ضياؤها.
+- **Al-Qurṭubī quote** ("*dhahaba ḍaw'uhā wa-muḥiya nūruhā ka-ṭamsi l-kitāb*"): matches source — ذهب ضوءها ومحي نورها كطمس الكتاب.
+- **Al-Qurṭubī lexical example** ("*ṭumisa l-shay'u idhā darasa*"): matches source — طمس الشيء إذا درس.
+- **Al-Qurṭubī wind example** ("*al-rīḥu taṭmisu l-āthār*"): matches source — والريح تطمس الآثار.
+- **Unanimity claim**: accurate — all four sources converge on light-erasure as the meaning.
+
+SUMMARY: Every quoted scholar attribution and transliteration for طُمِسَتْ checks out against the supplied tafsir; the only gap is that reference data for ayahs 9–15 was not provided, so those strophes are unverifiable from this dataset.

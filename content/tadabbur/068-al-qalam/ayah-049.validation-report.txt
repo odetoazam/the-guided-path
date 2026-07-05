@@ -1,0 +1,26 @@
+Enhanced Validation Report
+File: content/tadabbur/068-al-qalam/ayah-049.md
+Ayah: 68:49
+Date: 2026-06-13T15:49:29
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: لَّوْلَآ=If not | أَن=that | تَدَٲرَكَهُۥ=overtook him | نِعْمَةٌ=a Favor | مِّن=from | رَّبِّهِۦ=his Lord, | لَنُبِذَ=surely he would have been thrown | بِٱلْعَرَآءِ=onto (the) naked shore | وَهُوَ=while he | مَذْمُومٌ=(was) blamed.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Form VI is the form of mutuality and succession…The form carries the texture of mercy arriving in successive waves, layer upon layer, reaching and reaching until it catches him" — The Form VI identification (تَفَاعَلَ) is correct per the frontmatter note, and the examples given (تراسل, تتابع) are valid. But the specific semantic coloring — "successive waves, layer upon layer" — is an interpretive/homiletic extension, not a documented morphological property of Form VI. The classical sources provided (Jalalayn: *أدركه*; Baghawi: *أدركته*) gloss the verb with Form IV (simple attainment/reaching), with no successive-layering connotation. Qurtubi's entry discusses a reading variant (tashdid on the dal) but similarly does not support the "waves" reading. Form VI's documented meanings are reciprocal action, simulation, or gradual action — not "reaching in repeated waves." This is stated in the reflection as if it is an inherent morphological fact rather than a homiletic elaboration.
+
+SUMMARY: The linguistic and narrative content is otherwise sound, but the Form VI "successive waves" claim is presented with the confidence of a documented morphological property when the classical glosses and standard morphology support only simple attainment — making it an interpretive extension that should be framed as such, not as what "the form carries."

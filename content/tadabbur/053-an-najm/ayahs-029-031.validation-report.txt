@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/053-an-najm/ayahs-029-031.md
+Ayah: 53:29
+Date: 2026-06-09T18:40:38
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَأَعْرِضْ=So turn away | عَن=from | مَّن=(him) who | تَوَلَّىٰ=turns away | عَن=from | ذِكْرِنَا=Our Reminder | وَلَمْ=and not | يُرِدْ=he desires | إِلَّا=except | ٱلْحَيَوٲةَ=the life | ٱلدُّنْيَا=(of) the world.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "It will sound like the kindest thing that could be said — to the man, to the Prophet, and to you" — Both al-Jalālayn ("وهذا قبل الأمر بالجهاد") and al-Qurṭubī ("وهذا منسوخ بآية السيف") explicitly note this command was pre-jihad and, per Qurṭubī, abrogated by the sword verse. The reflection extends فَأَعْرِضْ as a universally operative spiritual lesson for all readers without engaging this classical position. This overstates the command's scope as documented in the provided tafsir.
+
+Everything else holds:
+
+- Arabic text matches the authentic text exactly ✓
+- ʿRḌ root (breadth/side) for فَأَعْرِضْ is lexically accurate ✓
+- WLY root for تَوَلَّىٰ is correct; contrast of the two roots is factually sound ✓
+- Al-Naḍr asbāb al-nuzūl matches Qurṭubī ("نزلت في النضر"); al-Walīd also matches ("وقيل: في الوليد"); the reflection hedges both as traditions rather than settled fact ✓
+- *mā kadhaba l-fuʾādu mā raʾā* (53:11) and *in hiya illā asmāʾun sammaytumūhā* (53:23) are accurately quoted ✓
+- *laʿallaka bākhiʿun nafsaka* attributed to the grief verses — cannot verify from the provided reference data, but the attribution to the Quran (18:6) is standard ✓
+- *dhālika mablaghuhum mina l-ʿilm* rendered "the farthest their knowledge reaches" aligns with al-Muyassar: "منتهى علمهم وغايتهم" ✓
+
+SUMMARY: Linguistically rigorous and tafsir-accurate throughout; the single flag is that the reflection universalizes the "turn away" command to all readers without acknowledging the naskh position documented by both Jalālayn and Qurṭubī in the provided sources.

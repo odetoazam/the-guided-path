@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/063-al-munafiqun/ayah-001.md
+Ayah: 63:1
+Date: 2026-06-13T01:55:57
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِذَا=When | جَآءَكَ=come to you | ٱلْمُنَـٰفِقُونَ=the hypocrites, | قَالُواْ=they say, | نَشْهَدُ=`We testify | إِنَّكَ=that you | لَرَسُولُ=(are) surely (the) Messenger | ٱللَّهِ‌ۗ=(of) Allah.` | وَٱللَّهُ=And Allah | يَعْلَمُ=knows | إِنَّكَ=that you | لَرَسُولُهُۥ=(are) surely His Messenger, | وَٱللَّهُ=and Allah | يَشْهَدُ=testifies | إِنَّ=that | ٱلْمُنَـٰفِقِينَ=the hypocrites | لَكَـٰذِبُونَ=(are) surely liars.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "Lisān al-ʿArab, al-Rāghib's Mufradāt — trace the word munāfiq back to a specific animal: the jerboa" — the jerboa/nāfiqāʾ etymology is a real classical Arabic lexicographic tradition and is not wrong, but it cannot be verified from the tafsir reference data provided for this session. The reflection correctly attributes it to lexicographic rather than tafsir sources, so this is not an error — noting only that I cannot cross-check it against the supplied materials.
+- [MODERATE] "Form III (the fāʿala pattern) characteristically carries the sense of directing an action at someone" — the grammatical claim is sound and the examples (qātala, sābaqa) are valid Form III illustrations. The extension that nifāq is therefore "a thing done at you" is interpretive but lexically defensible; no classical source in the reference set makes this specific inference. It should be understood as the author's linguistic elaboration, not a reported tafsir position.
+
+All factual anchors check out against the supplied data:
+- Madinan surah: confirmed (Qurtubi "مدنية في قول الجميع," Baghawi "مدنية").
+- Zayd ibn Arqam narration / ʿAbdullah ibn Ubayy: confirmed (Qurtubi cites Bukhari via Zayd ibn Arqam; Baghawi names Ibn Ubayy and his circle explicitly).
+- "The sentence is true but the speakers are liars": confirmed by Jalalayn's "فيما أضمروه مخالفا لما قالوه" and Muyassar's "أضمروا الكفر به" — the lie is in the concealed interior, not the surface proposition.
+- Arabic text in frontmatter matches the authenticated ayah text; no scribal errors.
+- Word-by-word renderings (nashhadu, yaʿlamu, yashhadu, kādhibūn) match the reference data exactly.
+
+SUMMARY: The reflection is linguistically careful and historically grounded; the two flagged items are attributable sourcing limitations and a clearly-labelled linguistic inference, not factual errors.

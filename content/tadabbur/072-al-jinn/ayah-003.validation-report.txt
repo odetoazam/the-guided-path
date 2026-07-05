@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/072-al-jinn/ayah-003.md
+Ayah: 72:3
+Date: 2026-06-15T09:02:48
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَأَنَّهُۥ=And that He - | تَعَـٰلَىٰ=Exalted is | جَدُّ=(the) Majesty | رَبِّنَا=(of) our Lord - | مَا=not | ٱتَّخَذَ=He has taken | صَـٰحِبَةً=a wife | وَلَا=and not | وَلَدًا=a son,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "al-Jalalayn: *al-ḍamīr li-l-shaʾn* — 'the pronoun is for the matter.'" — Accurately reflects the source: «الضمير للشأن فيه وفي الموضعين بعده». Attribution is correct and direct.
+- [PASS] "al-Jalalayn glosses the phrase as *tanazzaha jalāluhu wa ʿaẓamatuhu*" — Source reads «تنزه جلاله وعظمته عما نُسب إليه». The reflection's paraphrase accurately captures both jalāl and ʿaẓama; the omitted tail ("above what was attributed to Him") is not a distortion.
+- [PASS] "al-Muyassar: *taʿālat ʿaẓamatu rabbinā wa jalāluhu*" — Source reads «تعالَتْ عظمة ربنا وجلاله». Exact match.
+- [PASS] Form VIII identification of *ittakhadha* — اتّخذ is morphologically Form VIII (افتعل) from root أ-خ-ذ. Correct.
+- [PASS] *ṣāḥibatan* rendered "consort" — al-Jalalayn glosses it as زوجة (wife). "Consort" is a legitimate literary register for this meaning; not an error.
+- [NOTE — cannot verify] The reflection references 72:4 (*wa annahu kāna yaqūlu safīhunā ʿalā-llāhi shaṭaṭā*) as supporting the jinn's prior falsehood. This verse is not in the provided reference data. The translation ("our foolish one used to utter outrageous things against Allah") is consistent with standard translations, but I cannot confirm against the supplied sources.
+- [NOTE] The reflection is cut off mid-sentence before completing the discussion of the root ج-د-د. The section on jadd's semantic range cannot be validated from what was provided.
+
+SUMMARY: All verifiable claims in the submitted portion are accurately sourced and morphologically sound; no errors detected in the excerpt received.

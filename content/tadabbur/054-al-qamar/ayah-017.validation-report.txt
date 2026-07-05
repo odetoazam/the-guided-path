@@ -1,0 +1,37 @@
+Enhanced Validation Report
+File: content/tadabbur/054-al-qamar/ayah-017.md
+Ayah: 54:17
+Date: 2026-06-10T00:59:56
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَلَقَدْ=And certainly | يَسَّرْنَا=We have made easy | ٱلْقُرْءَانَ=the Quran | لِلذِّكْرِ=for remembrance, | فَهَلْ=so is (there) | مِن=any | مُّدَّكِرٍ=who will receive admonition?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- None identified in the portion reviewed.
+
+SUMMARY: All tafsir attributions, morphological claims, and structural observations in the reviewed portion accurately reflect the provided reference data with no fabricated or inverted claims.
+
+---
+
+**Validation notes for record:**
+
+- **Form II claim for يَسَّرْنَا** — correctly identified as Form II (fa''ala), middle letter doubled, conveying thoroughness. Linguistically sound.
+- **Al-Jalalayn paraphrase** (*sahhalnāhu lil-ḥifẓ*) — matches the source text directly: «سهلناه للحفظ وهيأناه للتذكر». ✓
+- **Al-Muyassar paraphrase** (wording easy for recitation/memorization; meanings easy for understanding/tadabbur) — accurate rendering of «سَهَّلْنا لفظ القرآن للتلاوة والحفظ، ومعانيه للفهم والتدبر». ✓
+- **Al-Qurtubi camel/horse imagery** (*yassara nāqatahu lis-safar*, *yassara farasahu lil-ghazw*) — matches source («إذا رحلها... إذا أسرجه وألجمه»). Poetry citation (*muyassaran*) also confirmed in the Qurtubi excerpt. ✓
+- **Saʿīd ibn Jubayr attribution** ("no scripture of Allah is recited in its entirety from memory except the Quran") — confirmed via al-Baghawi: «وليس شيء من كتب الله يقرأ كله ظاهرا إلا القرآن». Attribution to Saʿīd as student of Ibn ʿAbbās is historically established. ✓
+- **Refrain count of four** (54:17, 54:22, 54:32, 54:40) — accurate per surah structure. ✓

@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/057-al-hadid/ayahs-010-011.md
+Ayah: 57:10
+Date: 2026-06-12T12:01:31
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَمَا=And what | لَكُمْ=(is) for you | أَلَّا=that not | تُنفِقُواْ=you spend | فِى=in | سَبِيلِ=(the) way | ٱللَّهِ=(of) Allah? | وَلِلَّهِ=while for Allah | مِيرَٲثُ=(is the) heritage | ٱلسَّمَـٰوَٲتِ=(of) the heavens | وَٱلْأَرْضِ‌ۚ=and the earth? | لَا=Not | يَسْتَوِى=are equal | مِنكُم=among you | مَّنْ=(those) who | أَنفَقَ=spent | مِن قَبْلِ=before | ٱلْفَتْحِ=the victory | وَقَـٰتَلَ‌ۚ=and fought. | أُوْلَـٰٓئِكَ=Those | أَعْظَمُ=(are) greater | دَرَجَةً=(in) degree | مِّنَ=than | ٱلَّذِينَ=those who | أَنفَقُواْ=spent | مِنۢ بَعْدُ=afterwards | وَقَـٰتَلُواْ‌ۚ=and fought. | وَكُلاًّ=But to all, | وَعَدَ ٱللَّهُ=Allah has promised | ٱلْحُسْنَىٰ‌ۚ=the best. | وَٱللَّهُ=And Allah | بِمَا=of what | تَعْمَلُونَ=you do | خَبِيرٌ=(is) All-Aware.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "If Allah had said 'to Allah belongs the *ownership* of the heavens and the earth'... But by saying mīrāth... He has made a statement about **you**" — The mīrāth/mulk contrast is presented as deliberate divine word-choice ("He chose a different word on purpose"), but no provided tafsir source explicitly documents this contrast. The *conclusion* is strongly supported — al-Baghawi states "وأنتم ميتون تاركون أموالكم" and al-Muyassar states "ولا يبقى أحد مالكًا لشيء فيهما" — but the framing as a mulk-vs-mīrāth rhetorical decision is the author's balagha inference, not a sourced claim. Should be softened from certainty ("He chose a different word on purpose") to an analytical observation.
+
+Everything else checks out:
+
+- Root **w-r-th** (و-ر-ث) correctly identified; mīrāth's inheritance meaning is lexically accurate
+- The inference that mīrāth implies human mortality is explicitly supported by al-Baghawi's "وأنتم ميتون تاركون أموالكم" and al-Muyassar's "ولا يبقى أحد مالكًا لشيء فيهما"
+- Mustakhlafīn reference to 57:7 is accurate; no false attribution
+- Arabic text in the frontmatter matches the authentic text (minor encoding variants in diacritics only — ى/ي and the ۭ cantillation mark — not substantive errors)
+- The qard hasan framing (57:11) is introduced but not yet analyzed in the provided text; no claims to validate there
+
+SUMMARY: One mildly overstated rhetorical-intent claim (mīrāth vs. mulk as deliberate contrast) presented with more certainty than the classical sources warrant, but the underlying conclusion is fully supported by multiple tafsir sources; no critical errors.

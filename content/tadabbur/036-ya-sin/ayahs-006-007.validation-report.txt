@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/036-ya-sin/ayahs-006-007.md
+Ayah: 36:6
+Date: 2026-06-05T06:44:44
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: لِتُنذِرَ=That you may warn | قَوْمًا=a people | مَّآ=not | أُنذِرَ=were warned | ءَابَآؤُهُمْ=their forefathers, | فَهُمْ=so they | غَـٰفِلُونَ=(are) heedless.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "reported from Ibn ʿAbbās and ʿIkrima" — the attribution of the *mā mawṣūla* reading to these two scholars cannot be verified from the provided reference data. Al-Baghawī introduces the second reading with the anonymous **وقيل** ("it is said") without naming any authority; the al-Qurṭubī excerpt provided does not attribute the *mawṣūla* reading to Ibn ʿAbbās or ʿIkrima. The attribution may be accurate from wider tafsir literature (e.g. Ibn Kathīr), but the provided sources do not support presenting it as documented fact.
+
+Verified accurate:
+- **"al-Baghawī tells us plainly: no prophet had come to them before Muḥammad ﷺ"** — confirmed verbatim: *لأن قريشا لم يأتهم نبي قبل محمد ﷺ* (al-Baghawī)
+- **"Qatāda and, al-Qurṭubī tells us, the majority of the people of tafsīr"** for the negation reading — confirmed: *أكثر أهل التفسير، منهم قتادة* (al-Qurṭubī)
+- **مَّا as negation vs. relative pronoun** — both readings correctly sourced; the tension between them faithfully reflects al-Baghawī and al-Qurṭubī
+- **غافلون glossed as heedlessness of faith and right guidance** — confirmed across Jalālayn, al-Muyassar, al-Baghawī (*عن الإيمان والرشد*)
+- **Arab / Quraysh identification of the addressed people** — confirmed by al-Muyassar (*وهم العرب*) and al-Baghawī (Quraysh)
+- Arabic text in reflection matches the authenticated source ayah
+
+SUMMARY: One moderate issue — the specific attribution of the *mawṣūla* reading to Ibn ʿAbbās and ʿIkrima is asserted as documented fact but is not supported by the provided reference data, which uses only the anonymous *وقيل*; all other linguistic and tafsir claims are accurately grounded.

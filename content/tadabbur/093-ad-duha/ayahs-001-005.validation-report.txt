@@ -1,0 +1,29 @@
+Enhanced Validation Report
+File: content/tadabbur/093-ad-duha/ayahs-001-005.md
+Ayah: 93:1
+Date: 2026-05-14T23:18:35
+
+[1] Arabic text: ✅ pass
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَٱلضُّحَىٰ=By the morning brightness,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 5
+  Failed:   0
+
+⚠️  All verses matched but 5 had diacritics or partial differences.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "Form II takes a simple action and makes it deliberate, thorough, and intensified" — the characterization of وَدَّعَ as Form II (فَعَّلَ) with intensified/volitional meaning is morphologically correct, confirmed by frontmatter `root=ودع pos=V` and the shaddah on the dāl. The examples given (عَلِمَ → عَلَّمَ, كَسَرَ → كَسَّرَ) are accurate analogues. Minor pedagogical note: Form I وَدَعَ was largely obsolete in Classical Arabic even by Sibawayh's time — the contrast is a teaching device, not a live competing form — but this does not misstate what Form II وَدَّعَ means.
+- [PASS] "the DROPPED object pronoun: Allah won't attach 'you' to the verb 'detest' even in negation" — this is a documented rhetorical observation (hadhf al-maf'ūl) noted in classical balagha literature, including Al-Zamakhshari's Kashshaf and Ibn Ashur's Tahrir wa al-Tanwir. Not an interpretive invention.
+- [PASS] "A woman — reported in some narrations as Umm Jamil" — appropriately hedged. The Baghawi reference provided names only "a woman" (فجاءت امرأة); the Umm Jamil identification comes from other chains. The qualifier "in some narrations" is accurate and sufficient.
+- [PASS] "narrations range from twelve days to forty. Some say months" — legitimate scholarly disagreement on the fatra; properly presented as a range rather than a fixed fact.
+- [PASS] All Arabic text in the body matches the AUTHENTIC ARABIC and frontmatter arabic fields exactly.
+
+SUMMARY: The reflection's morphological, rhetorical, and asbab al-nuzul claims are all accurate and appropriately qualified; no errors identified.

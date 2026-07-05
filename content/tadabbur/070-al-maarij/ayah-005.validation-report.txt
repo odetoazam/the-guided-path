@@ -1,0 +1,42 @@
+Enhanced Validation Report
+File: content/tadabbur/070-al-maarij/ayah-005.md
+Ayah: 70:5
+Date: 2026-06-15T02:42:05
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَٱصْبِرْ=So be patient, | صَبْرًا=a patience | جَمِيلاً=good.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate errors found in the reviewed excerpt.
+
+Supporting observations:
+
+**Arabic text** — "فَٱصْبِرْ صَبْرًا جَمِيلًا" matches the authentic Arabic exactly (the ۭ in the reference is a tajweed diacritic, not a letter difference). PASS.
+
+**Morphological frontmatter** — "Verb is Form I imperative (iṣbir); ṣabran is the cognate accusative (maf'ūl muṭlaq); jamīlan is the qualifying adjective on the faʿīl pattern." All three claims are correct. PASS.
+
+**Contextual setup (50,000 years / "they see far, We see near")** — The reflection correctly locates this ayah as the response to the mockers' taunt and accurately cites 70:4 (fifty thousand years) and 70:6–7 (*yarawnahu baʿīdā wa narāhu qarībā*). PASS.
+
+**Ṣabr jamīl framing** — The reflection frames beautiful patience as the opposite of suppression, implying grieving to Allah is permitted. This is precisely what the tafsir sources establish: al-Qurtubi defines it as "لا جزع فيه ولا شكوى لغير الله" (no panic, no complaint to other-than-Allah), which logically permits complaint *to* Allah. The reflection's concept list includes "complaint-to-Allah-alone" — consistent with this definition. PASS.
+
+**The *fa-* analysis** — Standard Arabic grammar; described accurately as a consequence/sequence particle yoking prior context to the command. PASS.
+
+**One unverifiable claim (not flagged as error):** "early reports name him, a specific mocker among the Quraysh" — the reference data provided does not include asbāb al-nuzūl narrations for 70:1. The reflection is appropriately hedged ("early reports name him"), so no error is introduced; the claim just cannot be confirmed from the provided data alone.
+
+**Omission noted (not an error in tadabbur):** Al-Jalalayn and al-Baghawi note this command pre-dates the order to fight ("قبل أن يؤمر بالقتال"); Ibn Zayd via al-Qurtubi calls it abrogated by the sword verse. The reflection does not address naskh, which is appropriate for a spiritual reflection rather than a fiqh piece.
+
+SUMMARY: All verifiable linguistic, morphological, and theological claims in this excerpt are accurate and well-grounded in the provided tafsir sources; no errors require correction.

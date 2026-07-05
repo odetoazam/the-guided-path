@@ -1,0 +1,43 @@
+Enhanced Validation Report
+File: content/tadabbur/054-al-qamar/ayah-011.md
+Ayah: 54:11
+Date: 2026-06-10T00:28:59
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَفَتَحْنَآ=So We opened | أَبْوَٲبَ=(the) gates | ٱلسَّمَآءِ=(of) heaven | بِمَآءٍ=with water | مُّنْهَمِرٍ=pouring down
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No errors found in the portion provided. All verifiable claims check out:
+
+**Scholar attributions — verified:**
+- "al-Muyassar glosses the ayah as *fa-ajabnā duʿā'ahu, fa-fataḥnā*" — ar.muyassar text confirms: «فأجبنا دعاءه، ففتحنا أبواب السماء». Accurate and exactly quoted.
+- "al-Qurtubi opens his commentary the same way: *ay fa-ajabnā duʿā'ahu*" — ar.qurtubi confirms: «أي فأجبنا دعاءه وأمرناه باتخاذ السفينة». Accurate.
+
+**Grammatical claims — accurate:**
+- *fa* as immediate-sequence connector (vs. *thumma* for gap): standard Arabic grammar, correctly described.
+- The "ellipsis of the answer" observation — that the text omits *fa-ajabnāhu* and jumps directly to the cosmic response — is the reflection's own valid interpretive point, and the tafsir sources are cited correctly as supplying the missing step, not as endorsing this framing directly. No overstatement.
+
+**Form VII / morphology:**
+- *munhamir* from root همر as Form VII (*انفعال*, giving انهمر → منهمر) is correct. Jalalayn's qirā'āt note (تخفيف/تشديد on ففتحنا) is accurately preserved in the frontmatter; the reflection does not misstate it.
+
+**Arabic text:**
+- The ayah in the frontmatter (أَبْوَٲبَ vs. authentic أَبْوَٰبَ) is a Unicode encoding variant (ٲ vs. ٰ over أ), not an Arabic error.
+
+**One observation, not a flag:**
+- The "gate implies something held back" theological meditation is original interpretive prose — it is not sourced to any classical authority. That is appropriate for tadabbur; it is not stated as a documented tafsir position. No issue.
+
+SUMMARY: The excerpt is accurate, scholar citations are verified against the supplied tafsir data, and no root errors, inverted attributions, or factual misstatements are present.

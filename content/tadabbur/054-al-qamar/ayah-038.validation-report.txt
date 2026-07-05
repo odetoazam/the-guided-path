@@ -1,0 +1,37 @@
+Enhanced Validation Report
+File: content/tadabbur/054-al-qamar/ayah-038.md
+Ayah: 54:38
+Date: 2026-06-10T06:56:10
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَلَقَدْ=And certainly | صَبَّحَهُم=seized them in the morning | بُكْرَةً=early | عَذَابٌ=a punishment | مُّسْتَقِرٌّ=abiding.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate errors identified in this portion of the reflection.
+
+Supporting notes on what was verified:
+
+- **Arabic text** matches the authentic text exactly.
+- **صَبَّحَهُم as Form II** ("ṣabbaḥa = Form II perfect verb"): confirmed by the morphology annotation. The denominative framing — "a verb made from the word morning" — is accurate as a pedagogical gloss; the root ṣ-b-ḥ underlies both the noun ṣabāḥ and the Form II verb ṣabbaḥa.
+- **يَا صَبَاحَاهْ as the dawn-raid alarm cry**: well-attested in pre-Islamic Arabic lexical tradition (Lisān al-ʿArab documents this cry); nothing in the provided reference data contradicts it.
+- **بُكْرَةً as indefinite (nakirah)**: the Al-Qurtubi attribution is accurate — the provided Qurtubi source explicitly states "وَ'بُكْرَةٌ' هُنَا نَكِرَةٌ فَلِذَلِكَ صُرِفَتْ." The reflection's paraphrase ("no particular date attached — which is why it takes the form it does") is a fair rendering of that grammatical point.
+- **مُسْتَقِرٌّ as Form X active participle**: correct. Pattern مُسْتَفْعِلٌ from root q-r-r via اسْتَقَرَّ.
+- **مُسْتَقِرٌّ rendered as "settled, fixed, taken up residence"**: confirmed by all four classical sources (Jalalayn: *dāʾim muttaṣil bi-ʿadhāb al-ākhira*; Muyassar, Qurtubi, Baghawi all: *dāʾim istaqarra fīhim ḥattā yufḍiya bihim ilā ʿadhāb al-ākhira*).
+- **11:81 quotation and 15:73 cross-reference**: both cited accurately in context; 11:81 is the angels' announcement of the morning appointment to Lut, and 15:73 does record the blast at sunrise (مُشْرِقِينَ).
+- **54:37 طَمَسْنَا أَعْيُنَهُمْ**: quoted accurately; the distinction "not blinded — erased" is lexically warranted (root ṭ-m-s = complete effacement) and is not overstated as a specific scholar's position.
+
+SUMMARY: The reflection's linguistic analysis, tafsir citations, and cross-reference chain are all accurate within the 8,000-character excerpt; no factual errors or attribution inversions are present.

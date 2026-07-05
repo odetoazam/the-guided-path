@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/092-al-layl/ayahs-014-016.md
+Ayah: 92:14
+Date: 2026-06-18T20:27:23
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَأَنذَرْتُكُمْ=So I warn you | نَارًا=(of) a Fire | تَلَظَّىٰ=blazing,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "Form IV of the verb, in the perfect tense, first person" — أَنذَرَ as Form IV (af'ala) perfect, first-person singular with كُمْ object suffix is morphologically correct. Confirmed against standard Arabic morphology; consistent with Quranic Arabic Corpus tagging.
+- [PASS] "the missing letter that was deliberately dropped" — Jalalayn explicitly states «بحذف إحدى التاءين من الأصل» (one of the two tā's elided from the original تتلظى); Qurtubi confirms «وأصله تتلظى». The reflection's framing of this as deliberate and meaningful is well-grounded.
+- [PASS] Root attribution ن-ذ-ر for فَأَنذَرْتُكُمْ — correct. Root ن-و-ر for نارًا — correct. Root ل-ظ-ي for تلظى — correct (the transliteration "l-z-y" is an imprecision for ظ/ẓ, not a factual error in the root itself).
+- [UNVERIFIABLE FROM PROVIDED DATA, NOT FLAGGED AS ERROR] "Al-Rāghib... and Ibn Manẓūr... inḏār is to give notice of something fearful, specifically with enough time left to act on it" — the four tafsir sources here confirm خوفتكم / حذرتكم (frightening/warning) but do not elaborate the "time to act" nuance. This is a real and accurate position in Mufradāt al-Rāghib, but I cannot corroborate it from the provided reference data. Nothing in the provided data contradicts it.
+- [PASS] Perfect-tense framing ("the completed act is the warning, not the punishment") — morphologically sound, and consistent with the classical sources' framing of this as a completed notification already delivered.
+- [PASS] Passage context (92:12–13 quotations, two-portrait structure of the surah, iltifāt observation) — accurate to Al-Layl's sequence and rhetorical structure.
+
+SUMMARY: The reflection contains no critical or moderate errors; all morphological claims are accurate, the tā-elision observation is directly confirmed by Jalalayn and Qurtubi, and the one extended lexical claim (inḏār implying time to act) is a real position in classical Arabic lexicography even though it exceeds what the provided reference data can directly corroborate.

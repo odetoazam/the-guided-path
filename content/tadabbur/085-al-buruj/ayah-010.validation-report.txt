@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/085-al-buruj/ayah-010.md
+Ayah: 85:10
+Date: 2026-06-18T17:14:04
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّ=Indeed, | ٱلَّذِينَ=those who | فَتَنُواْ=persecuted | ٱلْمُؤْمِنِينَ=the believing men | وَٱلْمُؤْمِنَـٰتِ=and the believing women, | ثُمَّ=then | لَمْ=not | يَتُوبُواْ=they repented, | فَلَهُمْ=then for them | عَذَابُ=(is) the punishment | جَهَنَّمَ=(of) Hell | وَلَهُمْ=and for them | عَذَابُ=(is the) punishment | ٱلْحَرِيقِ=(of) the Burning Fire.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "Al-Baghawi glosses it plainly: ʿadhdhabū wa aḥraqū — they tortured and they burned" — Accurate. Al-Baghawi: *عذبوا وأحرقوا* exact match.
+- [PASS] "Al-Muyassar says the same: they burned the believing men and women with fire to turn them from the religion of Allah" — Accurate. Al-Muyassar: *حرقوا المؤمنين والمؤمنات بالنار؛ ليصرفوهم عن دين الله* exact match.
+- [PASS] "Al-Qurtubi... the Arabs say 'fatana the dirham and the dīnār'... to test whether it was pure... the goldsmith himself was called al-fattān" — Accurate. Al-Qurtubi: *والعرب تقول: فتن فلان الدرهم والدينار إذا أدخله الكور لينظر جودته... ويسمى الصائغ الفتان*. "Pure" for *جودته* (quality/excellence) is within the semantic range, not a distortion.
+- [PASS] "The surah describes the tormentors sitting at the edge of it. Watching. Seated by the flames" — Grounded in 85:6 *إذ هم عليها قعود*.
+- [UNVERIFIABLE FROM PROVIDED DATA — not an error] Bilal on burning sand, Sumayyah being pinned — sīrah accounts not in the tafsir sources provided. These are well-attested Islamic historical tradition but cannot be confirmed against the reference data given. The reflection does not present them as Quranic — they are contextual framing, which is appropriate.
+- [NOTE] Al-Qurtubi also mentions that Satan (*al-Shayṭān*) is called *al-fattān* (*وكذلك الشيطان*). The reflection does not mention this; it is an omission, not an error, since the focus is the goldsmith meaning.
+
+SUMMARY: All direct tafsir attributions are accurately cited and the linguistic analysis of *فَتَنُوا* correctly draws on al-Qurtubi, al-Baghawi, and al-Muyassar without overstating or inverting any position.

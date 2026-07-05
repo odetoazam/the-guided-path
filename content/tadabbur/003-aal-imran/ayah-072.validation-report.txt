@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayah-072.md
+Ayah: 3:72
+Date: 2026-06-21T13:31:50
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَقَالَت=And said | طَّآئِفَةٌ=a group | مِّنْ=of | أَهْلِ=(the) People | ٱلْكِتَـٰبِ=(of) the Book, | ءَامِنُواْ=`Believe | بِٱلَّذِىٓ=in what | أُنزِلَ=was revealed | عَلَى=on | ٱلَّذِينَ=those who | ءَامَنُواْ=believe[d] | وَجْهَ=(at the) beginning | ٱلنَّهَارِ=(of) the day, | وَٱكْفُرُوٓاْ=and reject | ءَاخِرَهُۥ=at its end, | لَعَلَّهُمْ=perhaps they may | يَرْجِعُونَ=return.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No errors found.
+
+Three claims checked against the reference data deserve specific confirmation:
+
+1. **ṭāʾifa root (ṭ-w-f) / ṭawāf connection** — Lexically attested and accurate. The claim that the word means "a piece that has detached and is circling" is drawn from the core root meaning, which is correct.
+
+2. **Al-Qurtubi on wajh** — The reflection quotes al-Qurtubi as saying "the most beautiful part, and the first part of it to meet you is its front." The tafsir text provided reads exactly: **"وسمي وجها لأنه أحسنه، وأول ما يواجه منه أوله"** — "It was called a face because it is the most beautiful part of it, and the first part of it to face you is its beginning." The attribution is precise, not paraphrased beyond what the source supports.
+
+3. **The "weapon" / manufactured doubt framing** — Presented as reflective interpretation, not attributed as a documented fact. Fully supported by al-Baghawi's account of the plot (profess belief by tongue without conviction in the morning, then apostatize in the evening citing scholarly rejection) and al-Jalalayn's gloss on *laʿallahum yarjiʿūn* ("perhaps they will return [from their religion]").
+
+One minor note, not a flag: the reflection's Arabic omits the subscript diacritic on طَّآئِفَةٌۭ present in the authenticated text. This is a display encoding difference, not a textual error.
+
+SUMMARY: All linguistic claims, classical source attributions, and contextual framing in the portion reviewed are accurate and well within the bounds of the tafsir record.

@@ -1,0 +1,40 @@
+Enhanced Validation Report
+File: content/tadabbur/056-al-waqiah/ayahs-035-038.md
+Ayah: 56:35
+Date: 2026-06-12T10:24:21
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّآ=Indeed, We | أَنشَأْنَـٰهُنَّ=[We] have produced them | إِنشَآءً=(into) a creation,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical errors found in the visible portion. All root attributions, form identifications, and lexical claims check out against the reference data.
+
+**Specific verifications:**
+
+- [PASS] Root ن-ش-أ and Form IV identification for أَنشَأْنَٰهُنَّ: confirmed correct. The word-by-word reference gives "[We] have produced them," consistent with Form IV af'ala causative-origination reading.
+
+- [PASS] "This root is not a manufacturing word. It is a *growing* word... for a cloud to rise and build on the horizon" — lexically attested; Lisān al-ʿArab and Mufradāt al-Rāghib support these semantic ranges for ن-ش-أ.
+
+- [PASS] "The verb at the center, أَنشَأْنَا...is the same root the surah will use again in 56:62" — accurate; 56:62 uses النَّشْأَةَ الْأُولَىٰ, same root.
+
+- [PASS] إِنشَآءً as cognate accusative (mafʿūl muṭlaq) for emphasis — grammatically sound for a masdar following its own verb.
+
+- [PASS] Elderly-woman anecdote is explicitly hedged: "there is a report — we will come back to how to weigh it." No spurious attribution to a specific hadith collection.
+
+- [OBSERVATION — not a flag] The reflection's visible portion does not yet address the classical split between ḥūr al-ʿayn (Jalālayn) vs. restored elderly women of Adam's line (Ibn ʿAbbās via Baghawī, Qurṭubī). The text is cut at 8,000 chars and appears to be building toward that discussion. If the later sections do not surface the Ibn ʿAbbās tarjīḥ from Baghawī ("يعني الآدميات العجز الشمط"), that would be a MODERATE omission — but it cannot be flagged on the visible text alone.
+
+SUMMARY: The linguistic and morphological claims in the visible portion are accurate and carefully hedged; no errors warrant flagging on what can be verified here.

@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/082-al-infitar/ayahs-009-012.md
+Ayah: 82:9
+Date: 2026-06-18T15:59:47
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: كَلَّا=Nay! | بَلْ=But | تُكَذِّبُونَ=you deny | بِٱلدِّينِ=the Judgment.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "grammarians call it a ḥarf radʿ wa zajr" — Standard Arabic grammatical terminology, well-established; Qurtubī's entry implicitly applies this framing in his connection to "مَا غَرَّكَ."
+- [PASS] Three readings attributed to al-Qurtubī: (1) بمعنى حقا, (2) بمعنى لا, (3) ردع وزجر — All three are verifiable. Qurtubī text explicitly confirms: "يجوز أن تكون كلا بمعنى حقا و ( ألا ) فيبتدأ بها. ويجوز أن تكون بمعنى ( لا )." The third (ردع وزجر) is the standard grammatical definition and supported by Qurtubī tying كلا back to "ما غرك بربك الكريم."
+- [PASS] "Al-Qurtubī ties this directly back to the previous verse" — Confirmed verbatim: "يدل على ذلك قوله تعالى: ما غرك بربك الكريم."
+- [PASS] بِٱلدِّينِ rendered as "the Recompense" — All four tafsirs gloss it as الجزاء or الجزاء والحساب. Translation is accurate.
+- [PASS] تُكَذِّبُونَ identified as Form II from root k-dh-b — Morphologically correct; Form II (كَذَّبَ) is the intensive/causative of the root.
+- [UNVERIFIABLE — not a flag] "the calm water deceives the swimmer" metaphor for غَرَّ — Clearly marked as the author's illustrative voice, not a scholarly claim. غَرَّ meaning "to be lulled/deceived" is lexically sound; the specific metaphor is creative elaboration, which the reflection makes no attempt to attribute to a source.
+- [NOTE] Reflection is truncated before Element Two (تُكَذِّبُونَ). Validation covers only Ayah 9 and the structural framing. Ayahs 10–12 content is not available for this pass.
+
+SUMMARY: The accessible portion of this reflection handles كَلَّا with scholarly precision — Qurtubī's readings are faithfully represented, morphology is correct, and the translation of بِٱلدِّينِ as Recompense is confirmed by all four tafsir sources; the reflection earns a clean pass on everything it can be checked against.

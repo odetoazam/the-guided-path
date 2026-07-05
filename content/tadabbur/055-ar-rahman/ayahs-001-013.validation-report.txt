@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/055-ar-rahman/ayahs-001-013.md
+Ayah: 55:1
+Date: 2026-05-14T23:06:08
+
+[1] Arabic text: ❌ fail
+    → Arabic text mismatch. API: "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ ٱلرَّحْمَٰنُ..."
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ٱلرَّحْمَـٰنُ=The Most Gracious
+
+[4] quran-validator: ✅ pass
+  Passed:   3
+  Warnings: 10
+  Failed:   0
+
+⚠️  All verses matched but 10 had diacritics or partial differences.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+
+- [MODERATE] "The most concise verse in the Quran — two words in Arabic (the article *al-* and Rahman)" — Two errors in one sentence. First, ال in Arabic is a bound prefix, not a separate word; ٱلرَّحْمَـٰنُ is one orthographic word. Second, the "most concise" claim is factually wrong: single-word verses exist elsewhere (e.g., وَالْفَجْرِ [89:1], وَالْعَصْرِ [103:1]). Neither the reference data nor Quranic structure supports this superlative.
+
+- [MODERATE] "The Quran was taught before the human was created... This is not a mistake. This is not a rhetorical reshuffling. This is a theological statement of the highest order" — Presented as a settled conclusion, but none of the four provided tafsir sources (Jalalayn, Muyassar, Qurtubi, Baghawi) endorse this chronological reading. Al-Muyassar simply links ar-Rahman's teaching of the Quran to facilitation for humans ("بتيسير تلاوته وحفظه وفهم معانيه") — a functional description, not a chronological one. The sequence in 55:2–3 is a legitimate interpretive angle, but stating definitively that it encodes a pre-creation timeline overstates what the reference data and mainstream tafsir establish.
+
+Everything else checks out: the Hudaybiyyah incident (Suhayl ibn ʿAmr's objection to the name ar-Rahman is corroborated by al-Baghawi's "قيل: نزلت حين قالوا: وما الرحمن"), the fa'lan pattern analysis, Form II ʿallama morphology, the 31-refrain count, and the dual address to humans and jinn are all accurate.
+
+SUMMARY: Two moderate claims — one factual error about Quranic concision, one interpretive position stated with more certainty than the tafsir record supports — but no critical errors in Arabic, roots, or scholar attributions.

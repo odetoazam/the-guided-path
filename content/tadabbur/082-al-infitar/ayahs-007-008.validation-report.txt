@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/082-al-infitar/ayahs-007-008.md
+Ayah: 82:7
+Date: 2026-06-18T15:48:31
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ٱلَّذِى=Who | خَلَقَكَ=created you, | فَسَوَّٮٰكَ=then fashioned you | فَعَدَلَكَ=then balanced you?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "Al-Jalālayn glosses it: *baʿda an lam takun* — 'after you were nothing at all'" — accurately renders the Jalālayn text (بعد أن لم تكن); the paraphrase is faithful.
+- [PASS] "the root is **س-و-ي (s-w-y)**, which gives us the idea of *evenness, levelness, proportion*" — consistent with Jalālayn (مستوي الخلقة), Qurtubi (معتدلاً سوي الخلق), and Baghawi.
+- [PASS] "the doubled, stressed middle — *saw-wā*. In Arabic grammar this is **Form II**" — morphologically correct. The شدّة on the waw is the Form II doubling of the ʿayn-radical; confirmed by the Leeds corpus note in the front matter and consistent with all four tafsir sources treating سَوَّى as the intensive/deliberate shaping verb.
+- [PASS] The *fāʾ* as sequential-consequential connector is standard Arabic grammar, no overstatement.
+- [PASS] Arabic text of 82:7 matches authentic Arabic exactly.
+
+**Advisory (not an error — forward risk flag):** The reflection lists "qiraat" as a tag and the text is cut off before analyzing **فَعَدَلَكَ** (the third verb). This is where the critical qirāʾāt split lives: the light reading (*takhfīf*, Kufan) = "He turned/inclined you toward whatever form He willed" (صرفك وأمالك — Baghawi), while the heavy reading (*tashdīd*, majority) = "He made you proportioned and upright" (قوّمك وجعلك معتدل — Baghawi, Jalālayn, Qurtubi). These carry meaningfully different theological weights. If the reflection treats only one reading as the meaning without flagging the other, that would be a MODERATE flag. Validate that section when it is produced.
+
+SUMMARY: Everything in the provided text is linguistically and exegetically accurate; no errors to flag, but the عَدَلَكَ qirāʾāt section not yet visible is the one live risk zone in this passage.

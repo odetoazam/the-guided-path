@@ -1,0 +1,42 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayah-059.md
+Ayah: 3:59
+Date: 2026-06-21T04:36:34
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّ=Indeed, | مَثَلَ=(the) likeness | عِيسَىٰ=(of) Isa | عِندَ=near | ٱللَّهِ=Allah | كَمَثَلِ=(is) like (the) likeness | ءَادَمَ‌ۖ=(of) Adam. | خَلَقَهُۥ=He created him | مِن=from | تُرَابٍ=dust | ثُمَّ=then | قَالَ=He said | لَهُۥ=to him, | كُن=`Be,` | فَيَكُونُ=and he was.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- None identified within the excerpt reviewed.
+
+Supporting observations:
+
+- [PASS] The Baghawi attribution is accurate. The paraphrase "Have you ever seen a human being born without a father?" directly renders "هل رأيت إنسانا قط من غير أب" from the Baghawi excerpt. The Prophet's ﷺ quoted response — "servant of Allah, His Messenger, and His word which He cast to Maryam the virgin" — matches "هو عبد الله ورسوله وكلمته ألقاها إلى مريم العذراء البتول" verbatim in sense.
+
+- [PASS] The *tashbīh al-gharīb bil-aghrab* framing ("relocating the wonder to a greater one") is not the author's invention — Jalalayn states it explicitly: "وهو من تشبيه الغريب بالأغرب ليكون أقطع للخصم وأوقع في النفس." The reflection renders this correctly.
+
+- [PASS] The analysis of **عِندَ** (presence, estimation, reckoning) is lexically sound. The reflection does not overclaim a technical morphological definition; it uses the attested semantic range.
+
+- [PASS] The reflection correctly identifies Adam as the referent of **خَلَقَهُ** (He created *him*, i.e., Adam), consistent with Jalalayn: "خلقه أي آدم." It does not misassign the pronoun to Isa.
+
+- [PASS] The elevation of Adam's case — *no father and no mother* — over Isa's case (*no father only*) is drawn directly from Muyassar: "من غير أب ولا أم." The logic is not the author's extension.
+
+- [PASS] The morphology header comment ("all verbs Form I: khalaqa, qāla, kāna") is accurate.
+
+- [UNVERIFIABLE FROM PROVIDED DATA, NOT FLAGGED] Calling the delegates "bishops" — the Baghawi excerpt does not specify ecclesiastical titles in the truncated passage, but this is standard historical record for the Najran delegation and is not a theological claim requiring flag.
+
+SUMMARY: The excerpt reviewed is accurately grounded in the provided classical sources, correctly attributes the Najran context to Baghawi, draws its key rhetorical concept directly from Jalalayn, and makes no overclaims on morphology or scholar positions.

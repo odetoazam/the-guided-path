@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/035-fatir/ayah-013.md
+Ayah: 35:13
+Date: 2026-05-18T06:12:48
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يُولِجُ=He causes to enter | ٱلَّيْلَ=the night | فِى=in (to) | ٱلنَّهَارِ=the day | وَيُولِجُ=and He causes to enter | ٱلنَّهَارَ=the day | فِى=in (to) | ٱلَّيْلِ=the night, | وَسَخَّرَ=and He has subjected | ٱلشَّمْسَ=the sun | وَٱلْقَمَرَ=and the moon | كُلٌّ=each | يَجْرِى=running | لِأَجَلٍ=for a term | مُّسَمًّىۚ=appointed. | ذَٲلِكُمُ=That (is) | ٱللَّهُ=Allah, | رَبُّكُمْ=your Lord, | لَهُ=for Him | ٱلْمُلْكُۚ=(is) the Dominion. | وَٱلَّذِينَ=And those whom | تَدْعُونَ=you invoke | مِن دُونِهِۦ=besides Him, | مَا=not | يَمْلِكُونَ=they possess | مِن=even | قِطْمِيرٍ=(as much as) the membrane of a date-seed.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR] "He uses Form IV — *aflaʿa*, which here makes the verb transitive" — "aflaʿa" is a transliteration typo for "afʿala" (أَفْعَلَ). The Form IV identification itself is correct, and the causative analysis (yūliju = He causes to enter) is confirmed by Al-Jalālayn's gloss *yudkhilu* and the word-by-word data. Not a conceptual error; safe to fix editorially.
+- [MINOR] "the membrane on the inside of a date-stone" (body text) — Al-Baghawi and Al-Muyassar specify *lufāfat al-nawāh* / *al-qishrat al-raqīqah allatī takūnu ʿalā al-nawāh*: the thin skin **on** the date-stone, not **inside** it. The reflection's own translation ("thin skin on a date-stone") is accurate; the body phrasing introduces a slight spatial ambiguity but no doctrinal error. Worth a one-word fix.
+
+What holds:
+- Root w-l-j and Form IV causative analysis: confirmed by Jalālayn and Muyassar
+- Imperfect tense (*mudāriʿ*) reading as ongoing present: linguistically correct
+- Tafsir citations for *yūliju* = *yudkhilu*: accurate quotation
+- Hour-transfer elaboration attributed to Al-Muyassar: matches the Arabic source exactly
+- Quranic theology of Makkan shirk (admitted Creator, disputed sole intermediary): well-attested pattern across multiple surahs
+- *Qiṭmīr* as hapax legomenon: confirmed (appears only in 35:13)
+- *Ajal musammā* left undefined (not forced to mean Day of Judgment as Al-Jalālayn specifies): acceptable, no overclaim made
+
+SUMMARY: Reflection is linguistically and theologically sound; two minor copy-level imprecisions (a transliteration typo and a spatial preposition) with no doctrinal or attribution errors.

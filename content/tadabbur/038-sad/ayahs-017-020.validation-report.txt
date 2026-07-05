@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/038-sad/ayahs-017-020.md
+Ayah: 38:17
+Date: 2026-06-06T02:21:06
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ٱصْبِرْ=Be patient | عَلَىٰ=over | مَا=what | يَقُولُونَ=they say, | وَٱذْكُرْ=and remember | عَبْدَنَا=Our slave, | دَاوُۥدَ=Dawood, | ذَا ٱلْأَيْدِ‌ۖ=the possessor of strength. | إِنَّهُۥٓ=Indeed, he (was) | أَوَّابٌ=repeatedly turning.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "He also records that some scholars held this gentle command of patience was later, legally, superseded" — The attribution is accurate but the framing understates Qurtubi's actual position. The provided Qurtubi text reads directly: **وهذه منسوخة بآية السيف** — "this is abrogated by the verse of the sword." Qurtubi states this as his own ruling, not as one among competing views. Rendering it "some scholars held" quietly demotes Qurtubi's explicit position to a minority opinion. A reader following the citation would not know Qurtubi speaks in the first person here.
+
+- [MODERATE] "The most outwardly powerful prophet in the Qur'an" — This characterisation of Dawud is presented as a grounding premise for the entire consolation argument, but it is the reflection's own framing, not derivable from any of the four tafsir sources provided. None of the sources make a comparative ranking. Stating it as received fact before a rhetorical question ("why would you hand a mocked, exhausted man...") gives it more weight than the evidence supports.
+
+- [PASS] The ṣabr etymology (active restraint, holding firm) and the ʿalā preposition analysis (positional command, standing over) are standard classical lexical positions. They are not contradicted by any provided source; I cannot verify them from the specific tafsir texts supplied, but the reflection appropriately attributes these to "lexicographers" rather than to any of the four named tafsirs.
+
+- [PASS] All direct Arabic quotations match the authenticated text. Word meanings (awwāb, dhā al-ayd, iṣbir) align exactly with the word-by-word reference and the Jalalayn/Baghawi data (القوة في العبادة, رجّاع إلى مرضاة الله).
+
+- [PASS] The consolation-versus-abrogation distinction ("the medicine offered to a hurting heart is never abrogated") is clearly framed as the author's own reasoning, not a tafsir citation. That framing is honest and does not misrepresent any source.
+
+SUMMARY: The reflection is doctrinally sound and linguistically careful; the one genuine issue is attributing Qurtubi's direct ruling on naskh to "some scholars" rather than to Qurtubi himself, which misrepresents the source it cites.

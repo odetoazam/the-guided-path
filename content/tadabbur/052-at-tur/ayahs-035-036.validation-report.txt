@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/052-at-tur/ayahs-035-036.md
+Ayah: 52:35
+Date: 2026-06-09T14:25:20
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَمْ=Or | خُلِقُواْ=were they created | مِنْ=of | غَيْرِ شَىْءٍ=nothing, | أَمْ=or | هُمُ=(are) they | ٱلْخَـٰلِقُونَ=the creators?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "roughly fifteen questions" (in 52:35–43) — Counting the *am* occurrences across 52:35–43 yields approximately 10 instances, not fifteen. The hedge "roughly" saves it from CRITICAL, but it is likely an overcount. The provided reference data does not cover 52:36–43, so I cannot verify the exact total from the data given; I flag this as unverifiable rather than confirmed wrong.
+- [MODERATE] "that final phrase points to is not the mind at all" (re: *bal lā yūqinūn*, 52:36) — The heart-vs.-intellect framing of *yūqinūn* is presented as a substantive interpretive finding, not as the reflection's own reading. It is a defensible tadabbur move, but the provided reference data covers 52:35 only; no tafsir on *bal lā yūqinūn* was supplied to verify or ground this claim. Stated as discovery ("stay with me, because the place…") rather than acknowledged as interpretive extension.
+
+CONFIRMED ACCURATE:
+- Arabic text matches the authentic source exactly.
+- *خُلِقُوا* correctly identified as passive voice (Form I passive); the grammar point is sound.
+- *Am munqaṭiʿa* = *bal* + *hamzat al-istifhām* is the standard classical definition (Ibn Hishām, *Mughnī al-Labīb*); not contradicted by Qurṭubī's *ṣila zā'ida* reading, which is a parallel grammatical school's description of the same phenomenon.
+- *Istifhām inkārī* characterisation is confirmed by Jalālayn ("لا يعقل مخلوق بغير خالق ولا معدوم يخلق") and Baghawī ("ذلك في البطلان أشد").
+- The three-door logical structure (no creator → self-created → created the cosmos) maps precisely onto Muyassar ("وكلا الأمرين باطل ومستحيل") and Baghawī's enumeration. No doors are invented or mis-sequenced.
+- Ibn ʿAbbās's position ("من غير رب") is not misattributed; the reflection does not cite him at all, so no inversion risk.
+
+SUMMARY: The core linguistic and theological architecture is accurate and classically grounded; the only issues are a likely overcount of questions (hedged) and an interpretive claim about *yūqinūn* presented without scholarly anchor, neither of which rises to CRITICAL.

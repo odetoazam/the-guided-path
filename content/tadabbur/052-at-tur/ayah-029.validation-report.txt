@@ -1,0 +1,40 @@
+Enhanced Validation Report
+File: content/tadabbur/052-at-tur/ayah-029.md
+Ayah: 52:29
+Date: 2026-06-09T14:56:26
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَذَكِّرْ=Therefore remind, | فَمَآ=for not | أَنتَ=you | بِنِعْمَتِ=(are) by (the) grace | رَبِّكَ=(of) your Lord | بِكَاهِنٍ=a soothsayer, | وَلَا=and not | مَجْنُونٍ=a madman.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [OBSERVATION] "The Quran's word for that buried knowledge runs all through it" — the reflection links *tadhkīr* to the fiṭrah concept (pre-existing knowledge) and states this as an assumed framework of the entire mission. This is a recognized and mainstream scholarly position (Ibn Qayyim, Rāghib al-Isfahānī), but the four tafsir sources provided frame *dhakkir* more simply as "continue reminding" (Jalālayn: *dūm ʿalā tаdhkīr al-mushrikīn*) without explicitly invoking fiṭrah. The claim is not wrong — it's well-attested elsewhere — but it is stated with more certainty than the provided reference data supports. Not a flag, just a documentation gap.
+
+Everything else checks out:
+
+**Root analysis** — *dhāl-kāf-rā* for *dhikr* is correct; Form II *dhakkir* (doubled middle consonant, causative-intensive, "make another remember") is standard Arabic morphology and verified against the Leeds corpus note in the frontmatter.
+
+**"Fa" as causal/consecutive** — accurate; Jalālayn's *dūm ʿalā tаdhkīr... wa lā tarjiʿ ʿanhu* confirms the particle anchors the command to prior context.
+
+**Accusations of kahānah and junūn** — Qurṭubī names Uqba ibn Abī Muʿayṭ (*majnūn*) and others; the reflection's historical framing matches this exactly.
+
+**Parenthetical structure of *bi-niʿmati Rabbik*** — grammatically accurate; it is indeed suspended between the *mā* negation and its predicate (*bi-kāhin*), functioning as the *bā* of *mā al-ḥijāziyyah*.
+
+**Oaths of At-Ṭūr** — Mount, Book, Frequented House, canopy, sea — correctly enumerated from 52:1–6.
+
+**"Adh-Dhikr" as Quranic self-reference** — attested (15:9 and elsewhere).
+
+SUMMARY: Linguistically precise, historically grounded, and structurally sound; the only gap is an undocumented (but defensible) fiṭrah inference attached to the tadhkīr command.

@@ -1,0 +1,40 @@
+Enhanced Validation Report
+File: content/tadabbur/035-fatir/ayah-023.md
+Ayah: 35:23
+Date: 2026-06-05T01:20:14
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنْ=Not | أَنتَ=you (are) | إِلَّا=but | نَذِيرٌ=a warner.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate issues found in the content visible within the provided excerpt.
+
+Specific verifications against reference data:
+
+**إِنْ as negation** — the reflection claims al-Jalalayn glosses «إن» as «ما». The provided Jalalayn text confirms exactly this: «إن» ما «أنت إلا نذير». Accurate citation. ✓
+
+**Qasr construction framing** — the reflection teaches إِنْ...إِلَّا as a restriction structure. Linguistically sound; this is the standard analysis in Arabic grammar for this particle pair. ✓
+
+**Al-Qurtubi attribution** — the reflection quotes: *"laysa laka min al-hudā shay', innamā al-hudā bi-yad Allāh"* and attributes it to al-Qurtubi. The provided Qurtubi text reads: *فليس عليك إلا التبليغ ، ليس لك من الهدى شيء إنما الهدى بيد الله تبارك وتعالى*. The quotation is accurate and the transliteration matches the Arabic. ✓
+
+**Root of نَذِيرٌ** — attributed to n-dh-r (ن-ذ-ر). Correct. ✓
+
+**Surah cross-references** — 26:3 (grief), 35:22 (graves), 35:8 (sorrow over them) are all contextually accurate and the sense of each is theologically sound. ✓
+
+**Nothing verifiable conflicts** with al-Baghawi (*"ما أنت إلا منذر تخوفهم بالنار"*) or al-Muyassar as supplied. The reflection does not make claims that contradict either source.
+
+SUMMARY: All verifiable claims in the excerpt — the grammatical analysis of إِنْ as negation, the qasr framing, and the al-Qurtubi quote on guidance belonging solely to Allah — are confirmed by the provided reference data with no distortion.

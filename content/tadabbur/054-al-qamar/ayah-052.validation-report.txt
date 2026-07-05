@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/054-al-qamar/ayah-052.md
+Ayah: 54:52
+Date: 2026-06-10T08:05:39
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَكُلُّ=And every | شَىْءٍ=thing | فَعَلُوهُ=they did | فِى=(is) in | ٱلزُّبُرِ=the written records.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "In the classical lexicons, *zabara* is not writing in the sense of ink gliding over paper. It is writing in the sense of **engraving**" — The root z-b-r carrying the sense of forceful inscription is attested (Lisān al-ʿArab, Mufradāt al-Rāghib are cited in the pruned morphology note), and the 18:96 *zubar al-ḥadīd* cross-reference is a genuine Quranic parallel that establishes the "iron" association. Claim is sound.
+- [PASS] "Al-Jalalayn says plainly: the *zubur* are *kutub al-ḥafaẓa*" — Reference data confirms: «كتب الحفظة». Attribution accurate.
+- [PASS] "Al-Muyassar agrees: everything done by the predecessors of the Quraysh" — Reference data confirms: «مكتوب في الكتب التي كتبتها الحفظة» with the same scope (predecessors, good or evil). Accurate.
+- [PASS] The grammatical fronting analysis (*kullu shay'in* as fronted topic, *-hu* as resumptive pronoun) is linguistically correct. The homiletical inference that the structure "individuates" each deed is presented explicitly as interpretive reflection, not as a classical scholarly position, so no overclaiming.
+- [PASS] The tense claim — *fa'alū* is perfect, 3rd masculine plural — is confirmed by the word-by-word reference data (W3: fʿl, perfect).
+- [PASS] All four tafsir sources are represented without inversion or conflation. Al-Qurtubi's three-way split (Lawh Mahfuz / kutub al-ḥafaẓa / Umm al-Kitab) and Al-Baghawi's two-way split are not yet reached in the visible text, but where the tafsirs do appear they are cited accurately.
+
+SUMMARY: No critical or moderate errors found — all linguistic claims, root derivations, Quranic cross-references, and tafsir attributions in the visible portion are accurate and well-grounded.

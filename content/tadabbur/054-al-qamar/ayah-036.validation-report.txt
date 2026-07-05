@@ -1,0 +1,40 @@
+Enhanced Validation Report
+File: content/tadabbur/054-al-qamar/ayah-036.md
+Ayah: 54:36
+Date: 2026-06-10T06:44:22
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَلَقَدْ=And certainly | أَنذَرَهُم=he warned them | بَطْشَتَنَا=(of) Our seizure, | فَتَمَارَوْاْ=but they disputed | بِٱلنُّذُرِ=the warnings.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [OBSERVATION] Arabic in frontmatter `بَطْشَتَنَآ` vs. authentic `بَطْشَتَنَا` — the madda marker (آ) on the final alif is a digital encoding variant, not a textual error; both represent the same phoneme and the same Quranic word. Not flagged as CRITICAL.
+- [OBSERVATION] "they disputed **with** the warnings, **by means of** the warnings... the very words sent to save them used as chips on the table" — this bi- reading extends slightly beyond what the classical sources emphasize. Qurtubi says *shakkū fīmā andharahum bihi al-rasūl* (they doubted what the messenger warned them of); the "warnings as instrument of the game" is a rhetorical elaboration. It is not false — the preposition bears this reading — but it is presented as if the grammar directly yields it rather than as the reflection's own extension. Within tadabbur genre this is acceptable; in a scholarly tafsir it would need hedging.
+
+CONFIRMED ACCURATE:
+- Qurtubi attribution: "وهو تفاعل من المرية" — exact match to `ar.qurtubi` reference
+- Qurtubi paraphrase "*shakkū fīmā andharahum bihi al-rasūl*" — exact match: "أي شكوا فيما أنذرهم به الرسول ولم يصدقوه"
+- Baghawi paraphrase "*shakkū bil-indhār wa-kadhdhabū*" — exact match: "شكوا بالإنذار وكذبوا ولم يصدقوا"
+- Jalalayn rendering *tajādalū* — exact match: "تجادلوا وكذبوا"
+- Form VI (tafāʿula) marking mutuality for تَمَارَوْا — correct; confirmed by Qurtubi's explicit identification
+- Root assignments (n-dh-r, b-ṭ-sh, m-r-y) — all correct
+- أَنذَرَهُم as Form IV perfect — morphologically correct
+- Surah structure (Nuh → ʿAad → Thamud → Lut, panels at 54:9, 54:18, 54:23, 54:33) — accurate
+- Refrain *fa-kayfa kāna ʿadhābī wa-nudhur* — accurate
+- 54:23 quoted as *kadhdhabat Thamūdu bil-nudhur* — accurate
+- *faʿlah* pattern marking single instance (بَطْشَة vs. بَطْش) — standard Arabic morphology, correctly applied
+
+SUMMARY: Every tafsir attribution and morphological claim checks out precisely against the reference data; the one creative interpretive move (bi- reading) is genre-appropriate for tadabbur and not a factual error.

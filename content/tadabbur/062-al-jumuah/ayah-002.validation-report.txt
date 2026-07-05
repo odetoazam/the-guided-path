@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/062-al-jumuah/ayah-002.md
+Ayah: 62:2
+Date: 2026-06-13T01:16:21
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: هُوَ=He | ٱلَّذِى=(is) the One Who | بَعَثَ=sent | فِى=among | ٱلْأُمِّيِّــۧنَ=the unlettered | رَسُولاً=a Messenger | مِّنْهُمْ=from themselves | يَتْلُواْ=reciting | عَلَيْهِمْ=to them | ءَايَـٰتِهِۦ=His Verses, | وَيُزَكِّيهِمْ=and purifying them | وَيُعَلِّمُهُمُ=and teaching them | ٱلْكِتَـٰبَ=the Book | وَٱلْحِكْمَةَ=and the wisdom | وَإِن=although | كَانُواْ=they were | مِن قَبْلُ=before | لَفِى=surely in | ضَلَـٰلٍ=an error | مُّبِينٍ=clear.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Al-Baghawi says plainly: before the Messenger came, they were *yaʿbudūna-l-awthān* — worshipping the idols" — The provided Baghawi excerpt contains no such phrase. It closes with: *"ما كانوا قبل بعثة الرسول إلا في ضلال مبين"* — they were in clear error before the mission. The idol-worship characterization is doctrinally sound (Jalalayn glosses يُزَكِّيهِمْ as *"يطهرهم من الشرك"*, confirming polytheism is the ḍalāl in view), but the specific phrase and direct Baghawi attribution cannot be verified from the reference data provided.
+
+All other claims hold:
+
+- **بَعَثَ as resurrection-root**: Accurate. Root ب-ع-ث yields *al-baʿth* (the Resurrection, Yawm al-Baʿth); the verb choice over أَرْسَلَ is a real distinction, and the claim that *rasūlan* (r-s-l) is from a different root than *baʿatha* (b-ʿ-th) is correct.
+- **ummiyyūn = unlettered Arabs without scripture**: All four tafsir sources confirm this. Jalalayn: *"من لا يكتب ولا يقرأ"*; Qurtubi cites Ibn ʿAbbās extending it to all Arabs as a non-People-of-the-Book.
+- **Al-Muyassar: "corrupt beliefs and corrupted character"**: Accurately derived — the text says tazkiyah purifies *"من العقائد الفاسدة والأخلاق السيئة"*, so the pre-tazkiyah state is their inverse. The inference is clean.
+- **Sequence recite → purify → teach**: Matches the ayah exactly (يَتْلُوا → يُزَكِّي → يُعَلِّمُ).
+- **Arabic text and translation**: Matches the authenticated source; rendering بَعَثَ as "raised up" is a disclosed interpretive gloss, not a mistranslation.
+
+SUMMARY: The reflection is linguistically rigorous and doctrinally sound; the single issue is one direct Baghawi attribution using a phrase absent from the provided excerpt — the underlying claim is confirmed by Jalalayn, so it needs a source adjustment, not a content correction.

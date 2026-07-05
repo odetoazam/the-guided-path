@@ -1,0 +1,38 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayah-025.md
+Ayah: 3:25
+Date: 2026-06-22T06:40:56
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَكَيْفَ=Then how (will it be) | إِذَا=when | جَمَعْنَـٰهُمْ=We will gather them | لِيَوْمٍ=on a Day - | لَّا=no | رَيْبَ=doubt | فِيهِ=in it. | وَوُفِّيَتْ=And will be paid in full | كُلُّ=every | نَفْسٍ=soul | مَّا=what | كَسَبَتْ=it earned | وَهُمْ=and they | لَا=(will) not | يُظْلَمُونَ=be wronged.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate errors found in the portion submitted.
+
+Supporting observations (confirming claims, not flagging them):
+
+- "Al-Jalālayn supplies a word that isn't in the verse: ḥāluhum" — confirmed: Jalalayn text reads «فكيف» حالهم «إذا جمعناهم», inserting *ḥāluhum* between the two words.
+
+- "fa-kayfa ḥāluhum aw kayfa yaṣnaʿūn — He offers two fillings" — confirmed: Baghawi reads أي فكيف حالهم أو كيف يصنعون, giving both alternatives verbatim.
+
+- "Al-Qurṭubī adds a third reading: when those adornments they claimed in this world have crumbled away" — confirmed: Qurtubi reads واضمحلت عنهم تلك الزخارف التي ادعوها في الدنيا, exactly this image.
+
+- "ʿalā jihat al-tawqīf wa-l-taʿajjub" attributed to al-Qurṭubī — confirmed verbatim: على جهة التوقيف والتعجب appears in Qurtubi's text.
+
+- Morphology note (wuffiyat = wuffirat from al-Baghawī) — confirmed: Baghawi glosses ووفيت as وفرت (given in full/abundantly).
+
+SUMMARY: Every tafsir attribution and linguistic claim in the submitted portion is directly verifiable against the provided reference texts — no errors found.

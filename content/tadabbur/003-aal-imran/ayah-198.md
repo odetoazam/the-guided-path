@@ -6,7 +6,7 @@ ayah_end: 198
 title: "What Is With Allah Is Better for the Righteous"
 slug: "003-198"
 category: tadabbur
-arabic: "لَـٰكِنِ ٱلَّذِينَ ٱتَّقَوْا۟ رَبَّهُمْ لَهُمْ جَنَّـٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَا نُزُلًا مِّنْ عِندِ ٱللَّهِ ۗ وَمَا عِندَ ٱللَّهِ خَيْرٌ لِّلْأَبْرَارِ"
+arabic: "لَـٰكِنِ ٱلَّذِينَ ٱتَّقَوْا۟ رَبَّهُمْ لَهُمْ جَنَّـٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَا نُزُلًا مِّنْ عِندِ ٱللَّهِ ۗ وَمَا عِندَ ٱللَّهِ خَيْرٌ لِّلْأَبْرَارِ"
 translation: "But those who were mindful of their Lord will have gardens beneath which rivers flow, abiding therein, as a welcoming gift from Allah. And what is with Allah is better for the righteous."
 word_count: null
 estimated_duration: "45-55 minutes"
@@ -14,6 +14,7 @@ passage_context: "After warning believers not to be deceived by the worldly circ
 generated_by: "codex-tadabbur"
 validated: true
 validation_date: "2026-04-18"
+semantic_review: "enriched-2026-07-02"
 tags: [taqwa, jannah, akhirah, abrar]
 concepts: [taqwa, jannah, akhirah, ihsan, khashyah]
 ---
@@ -33,7 +34,7 @@ concepts: [taqwa, jannah, akhirah, ihsan, khashyah]
 
 ## Surah Aal-Imran (3:198)
 
-[ayah:3:198] لَـٰكِنِ ٱلَّذِينَ ٱتَّقَوْا۟ رَبَّهُمْ لَهُمْ جَنَّـٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَا نُزُلًا مِّنْ عِندِ ٱللَّهِ ۗ وَمَا عِندَ ٱللَّهِ خَيْرٌ لِّلْأَبْرَارِ
+[ayah:3:198] لَـٰكِنِ ٱلَّذِينَ ٱتَّقَوْا۟ رَبَّهُمْ لَهُمْ جَنَّـٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَا نُزُلًا مِّنْ عِندِ ٱللَّهِ ۗ وَمَا عِندَ ٱللَّهِ خَيْرٌ لِّلْأَبْرَارِ
 
 *Lakini alladhina ittaqaw rabbahum lahum jannatun tajri min tahtiha al-anharu khalidina fiha nuzulan min 'indi Allah. Wa ma 'inda Allahi khayrun li-al-abrar.*
 
@@ -48,6 +49,8 @@ After warning the believer not to be deceived by the movement of those who disbe
 It gives us the alternative.
 
 That matters. The Quran is not content merely to take away false glamour. It wants to replace it with something truer and more beautiful. So after saying that the disbelievers' circulation is only a little enjoyment and that their refuge is Jahannam, this verse says: **but**. But those who had taqwa of their Lord have something else entirely.
+
+Ibn Kathir sharpens the setup. The respite the disbelievers are given, he notes, is itself part of the deception: Allah gives them time, and that very time — the ease, the freedom of movement, the delights — is what deceives them, when all they truly have is *mata'un qalil*, a brief enjoyment, before Jahannam. The dazzle is not a sign of favor. It is a loan running out.
 
 The hook of the ayah is this: **the way the Quran heals envy is not only by exposing the smallness of what dazzled you, but by reintroducing you to what is actually better.**
 
@@ -65,11 +68,11 @@ And that other people are defined first not by what they visibly had, but by wha
 
 They had taqwa of their Lord.
 
-The root **w-q-y** is protection, guarding, shielding oneself. Taqwa is not merely fear in a flat sense. It is a guarded nearness to Allah, a life shaped by serious awareness of Him.
+The root **w-q-y** is protection, guarding, shielding oneself. Taqwa is not merely fear in a flat sense — but neither is it a vague spiritual mood. When al-Tabari and al-Muyassar gloss *ittaqaw rabbahum* here, they render it in concrete, active terms: to fear one's Lord *by obeying Him* — following what pleases Him, doing what He commanded, and avoiding what He forbade. Taqwa in this ayah is not an atmosphere in the chest; it is awareness of Allah that has already been translated into command kept and prohibition avoided.
 
 [PAUSE]
 
-This is significant. The verse does not begin the contrast with status, heroism, platform, or even outward suffering. It begins with an inner posture before the Lord. The real difference between these two destinies lies first in relation to Allah.
+This is significant. The verse does not begin the contrast with status, heroism, platform, or even outward suffering. It begins with an inner posture before the Lord that has become a way of living. The real difference between these two destinies lies first in relation to Allah — a fear that obeys.
 
 ### 2. **Lahum jannatun tajri min tahtiha al-anhar**: Lasting Abundance Replaces Brief Enjoyment
 
@@ -77,7 +80,7 @@ Then the verse names what is for them: **lahum jannat**.
 
 For them are gardens.
 
-Not one enclosed, meager patch, but gardens - abundance, fertility, shaded life, beauty that does not wither under the sun of time. Then: **tajri min tahtiha al-anhar** - rivers flow beneath them.
+Al-Tabari glosses **jannat** with a plain, earthy word - *basatin*, orchards, cultivated and irrigated grounds. Not one enclosed, meager patch, but gardens - abundance, fertility, shaded life, beauty that does not wither under the sun of time. Then: **tajri min tahtiha al-anhar** - rivers flow beneath them. Al-Muyassar reads the *beneath* precisely: the rivers run *beneath their trees*, so that the whole garden is fed and living from underneath, its greenery standing over moving water.
 
 [PAUSE]
 
@@ -91,11 +94,11 @@ The Qur'an often heals the soul by contrast. It does not merely tell you that on
 
 ### 3. **Khalidina fiha nuzulan min 'indi Allah**: This Is Not Bare Survival; It Is Hospitality
 
-Then comes **khalidina fiha** - abiding therein, remaining without expiration.
+Then comes **khalidina fiha** - abiding therein, remaining without expiration. Al-Tabari does not soften it: *baqina fiha abadan*, remaining in it forever. Al-Muyassar adds the note that seals the contrast with the wandering disbelievers - it is *their permanent dwelling, which they never leave*. The people who once had no settled home in a world that misunderstood them are given the one address they never have to depart.
 
 And then a very beautiful word: **nuzulan**.
 
-From the root **n-z-l**, it carries the sense of what is laid out for a guest, a hospitable welcome, an arrival gift prepared for one who has come and is being received with honor.
+From the root **n-z-l**, it carries the sense of what is laid out for a guest, a hospitable welcome, an arrival gift prepared for one who has come and is being received with honor. Al-Tabari glosses it as *inzal* - a lodging, a being-settled-in, provision set down and made ready for the one arriving.
 
 [PAUSE]
 
@@ -113,7 +116,7 @@ Then the verse closes: **wa ma 'inda Allahi khayrun li-al-abrar**.
 
 What is with Allah is better for the righteous.
 
-The word **khayr** - better, خير - matters because it is comparative. The verse knows there is something in the dunya that can attract, please, and impress. But it says what is with Allah is better.
+The word **khayr** - better, خير - matters because it is comparative. The verse knows there is something in the dunya that can attract, please, and impress. But it says what is with Allah is better. Al-Muyassar unfolds exactly what is being compared: what is with Allah is *greater and more excellent for the people of obedience than the worldly delights the disbelievers are turning about in* - the very *taqallub*, the circulation and reveling, that the earlier passage warned against. The same restless "turning" that dazzles in the dunya is here weighed against what is *'inda Allah* and found lighter.
 
 [PAUSE]
 
@@ -135,7 +138,7 @@ This ayah breaks the spell not only by criticizing what others have, but by rest
 
 What is with Allah is better.
 
-That sentence is enough to rescue a believer from many humiliating comparisons if he lets it sink deeply enough. Not because the dunya stops existing, but because it stops being the highest available horizon.
+That sentence is enough to rescue a believer from many humiliating comparisons if he lets it sink deeply enough. Not because the dunya stops existing, but because it stops being the highest available horizon. Notice how the classical reading keeps the two things side by side rather than denying the first: al-Muyassar does not say the disbelievers have *nothing* — he grants them their *na'im al-dunya*, their worldly delight, and only then declares what is with Allah greater. The believer is not asked to pretend. He is asked to weigh.
 
 The righteous person is not someone who felt no temptation. He is someone who kept returning to the better.
 
@@ -143,7 +146,7 @@ The righteous person is not someone who felt no temptation. He is someone who ke
 
 The word **nuzul** should stay with us.
 
-Many people imagine the Hereafter in moral and legal terms alone: judgment, scales, reward, punishment. All of that is true. But this verse adds another register: welcome.
+Many people imagine the Hereafter in moral and legal terms alone: judgment, scales, reward, punishment. All of that is true. But this verse adds another register: welcome. And the classical gloss makes the welcome permanent — al-Muyassar's *manzil da'im la yakhrujuna minhu*, a lodging that is never vacated, is the opposite of the disbelievers' *taqallub*, their endless moving-about through the lands that ends in Jahannam.
 
 [PAUSE]
 
@@ -153,7 +156,7 @@ And perhaps that is why the verse is such a needed contrast after the previous w
 
 ## Closing Synthesis
 
-This verse contrasts directly with the brief, deceptive enjoyment of the previous passage. It begins with taqwa, unfolds into abiding gardens and flowing rivers, deepens into the language of divine hospitality, and then seals the whole comparison with one decisive sentence: what is with Allah is better for the righteous.
+This verse contrasts directly with the brief, deceptive enjoyment of the previous passage. It begins with taqwa - understood by the commentators as a fear that obeys - unfolds into abiding gardens and flowing rivers, deepens into the language of divine hospitality, and then seals the whole comparison with one decisive sentence: what is with Allah is better for the righteous.
 
 So the verse is not only a promise. It is a recalibration of desire.
 

@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/004-an-nisa/ayah-014.md
+Ayah: 4:14
+Date: 2026-06-24T09:38:02
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَمَن=And whoever | يَعْصِ=disobeys | ٱللَّهَ=Allah | وَرَسُولَهُۥ=and His Messenger | وَيَتَعَدَّ=and transgresses | حُدُودَهُۥ=His limits - | يُدْخِلْهُ=He will admit him | نَارًا=(to) Fire | خَـٰلِدًا=(will) abide forever | فِيهَا=in it. | وَلَهُۥ=And for him | عَذَابٌ=(is) a punishment | مُّهِينٌ=humiliating.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] Arabic text in the reflection ("وَمَن يَعْصِ ٱللَّهَ وَرَسُولَهُۥ وَيَتَعَدَّ حُدُودَهُۥ يُدْخِلْهُ نَارًا خَـٰلِدًا فِيهَا وَلَهُۥ عَذَابٌ مُّهِينٌ") matches the authentic text; minor diacritical rendering differences (nunation marks) are typographic, not substantive.
+- [PASS] "the specific 'limits' being crossed are the divinely assigned inheritance shares" — confirmed by al-Qurtubi: *"يريد في قسمة المواريث فلم يقسمها ولم يعمل بها"* (the disobedience here refers specifically to the inheritance distribution).
+- [PASS] يُدْخِلْهُ identified as Form IV causative — correct. Al-Baghawi and al-Jalalayn both confirm this reading (alongside the ندخله variant); the reflection uses the Hafs قراءة without misrepresenting the text.
+- [PASS] يَتَعَدَّ identified as Form V (تَفَعَّلَ) from root ع-د-و — morphologically correct. The imperfect يَتَعَدَّى / jussive يَتَعَدَّ from تَعَدَّى is textbook Form V.
+- [NOTE — not flagged MODERATE] "Form V tends to indicate that the action is self-directed, deliberate, and intensified" is a simplified pedagogical gloss. Classical grammarians characterize Form V primarily as reflexive/medio-passive of Form II (with *takalluf*, effortful undertaking, as a secondary sense). The description of "deliberateness" is contextually defensible for يَتَعَدَّى specifically and not contradicted by the reference data, but a strict Arabic morphology course would be more precise. The reflection's practical conclusion — that the verb implies a willful step rather than an accidental drift — is sound for this lexeme.
+- [PASS] "Al-Muyassar describes the transgression as active" — the visible portion of that quote aligns with al-Muyassar's actual text: *"بإنكاره لأحكام الله، وتجاوزه ما شرعه الله لعباده بتغييرها، أو تعطيل العمل بها"* (active rejection, alteration, or nullification of Allah's rulings).
+- [PASS] The يَعْصِ / يَتَعَدَّ distinction drawn in the reflection (orientation of disobedience vs. deliberate crossing) is linguistically defensible; no reference source provided contradicts it, and the roots ع-ص-ي and ع-د-و carry semantically distinct fields in classical lexicons.
+
+SUMMARY: The reflection is accurately grounded — the Arabic text is clean, the hudūd-as-inheritance framing is tafsīr-confirmed, the morphological identifications are correct, and no scholar position is inverted or overstated; the only imprecision is a pedagogically simplified description of Form V semantics that does not constitute an error for this specific verb.

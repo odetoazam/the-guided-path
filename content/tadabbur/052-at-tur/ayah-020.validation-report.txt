@@ -1,0 +1,37 @@
+Enhanced Validation Report
+File: content/tadabbur/052-at-tur/ayah-020.md
+Ayah: 52:20
+Date: 2026-06-09T16:26:30
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: مُتَّكِــِٔينَ=Reclining | عَلَىٰ=on | سُرُرٍ=thrones | مَّصْفُوفَةٍ‌ۖ=lined up, | وَزَوَّجْنَـٰهُم=and We will marry them | بِحُورٍ=to fair ones | عِينٍ=with large eyes.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Ibn ʿAbbās, as Imam al-Qurṭubī reports, described them as thrones of gold, studded with emerald and pearl and ruby" — The al-Qurṭubī excerpt in the provided reference data cuts off at "قال ابن عباس : هي سرر من ذه" — almost certainly "ذهب" (gold), but the text is truncated. The gold attribution is plausible; the addition of "emerald and pearl and ruby" cannot be verified from the reference data supplied. A specific scholar attribution with that level of detail should be verifiable from the actual text, not inferred.
+
+- [MODERATE] "Arabic verbs come in patterns... Form VIII... often carries a quiet, inward quality: the sense of doing something to yourself, for yourself... It is reflexive." — Form VIII (افتعل) carries reflexive force in *some* verbs, but classical Arabic grammarians (Sībawayhi, Ibn ʿAqīl) do not characterize it as definitionally reflexive. The self-settling nuance applied specifically to اتّكأ is defensible and evocative, but framing Form VIII itself as *often reflexive* is an overstatement of a pattern that has multiple semantic functions. This is interpretive extension stated as grammatical rule.
+
+ITEMS THAT PASS:
+- Root و-ك-أ for مُتَّكِئِينَ: correct per lexical note and morphology comment
+- Form VIII active participle identification: confirmed by frontmatter morphology note
+- مُتَّكِئِينَ as a ḥāl (circumstantial accusative): confirmed by al-Jalālayn ("حال من الضمير المستكن في قوله في جنات")
+- مَّصْفُوفَةٍ as thrones placed side-by-side/in rows: confirmed by al-Baghawi ("موضوعة بعضها إلى جنب بعض") and al-Qurṭubī quoting Ibn al-Aʿrābī ("موصولة بعضها إلى بعض حتى تصير صفا")
+- زَوَّجْنَاهُم translated as "pair/join": confirmed by al-Jalālayn ("قرناهم")
+- حُورٍ عِينٍ as beautiful, wide-eyed companions: confirmed by al-Jalālayn ("عظام الأعين حسانها")
+- Translation "We will pair them": grammatically consistent with زَوَّجْنَاهُم Form II
+
+SUMMARY: One attributed quotation contains specific details (emerald, pearl, ruby) not verifiable from the provided reference text, and the grammatical characterization of Form VIII as reflexive is stated as a general rule when it is actually a selective feature — both are moderate issues of overstatement, not fundamental errors of root, verb form, or scholar inversion.

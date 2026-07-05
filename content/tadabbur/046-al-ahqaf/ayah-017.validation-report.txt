@@ -1,0 +1,26 @@
+Enhanced Validation Report
+File: content/tadabbur/046-al-ahqaf/ayah-017.md
+Ayah: 46:17
+Date: 2026-06-08T05:56:47
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَٱلَّذِى=But the one who | قَالَ=says | لِوَٲلِدَيْهِ=to his parents, | أُفٍّ=`Uff | لَّكُمَآ=to both of you! | أَتَعِدَانِنِىٓ=Do you promise me | أَنْ=that | أُخْرَجَ=I will be brought forth, | وَقَدْ خَلَتِ=and have already passed away | ٱلْقُرُونُ=the generations | مِن قَبْلِى=before me?` | وَهُمَا=And they both | يَسْتَغِيثَانِ=seek help | ٱللَّهَ=(of) Allah. | وَيْلَكَ=`Woe to you! | ءَامِنْ=Believe! | إِنَّ=Indeed, | وَعْدَ=(the) Promise | ٱللَّهِ=(of) Allah | حَقٌّ=(is) true.` | فَيَقُولُ=But he says, | مَا=`Not | هَـٰذَآ=(is) this | إِلَّآ=but | أَسَـٰطِيرُ=(the) stories | ٱلْأَوَّلِينَ=(of) the former (people).`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "The same forty years, the lexicographers tell us the same maturity is in view" — This presents a specific classical-source attribution as established fact, but none of the four provided tafsirs (Jalalayn, Muyassar, Qurtubi, Baghawi) state that the subject of v.17 is also at forty years. Al-Muyassar says only "إذ دعواه إلى الإيمان" (when they called him to faith) with no age reference. The parallel with v.15's forty-year threshold is a plausible thematic reading, but attributing it to "lexicographers" overstates its documentary basis.
+
+SUMMARY: One claim — that classical lexicographers confirm the forty-year threshold applies equally to the ingrate of v.17 — is stated as documented fact but is interpretive extension unsupported by the provided sources; all other linguistic claims (أُفّ as ism fi'l, qirāʾāt from Qurtubi, Form X for يَسْتَغِيثَانِ, Form IV imperative for ءَامِنْ, connection to 17:23) are accurate and well-grounded.

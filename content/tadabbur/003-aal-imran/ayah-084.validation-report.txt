@@ -1,0 +1,41 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayah-084.md
+Ayah: 3:84
+Date: 2026-06-21T11:18:29
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: قُلْ=Say, | ءَامَنَّا=`We believed | بِٱللَّهِ=in Allah | وَمَآ=and what | أُنزِلَ=(is) revealed | عَلَيْنَا=on us | وَمَآ=and what | أُنزِلَ=was revealed | عَلَىٰٓ=on | إِبْرَٲهِيمَ=Ibrahim, | وَإِسْمَـٰعِيلَ=and Ismail, | وَإِسْحَـٰقَ=and Ishaq, | وَيَعْقُوبَ=and Yaqub, | وَٱلْأَسْبَاطِ=and the descendents | وَمَآ=and what | أُوتِىَ=was given | مُوسَىٰ=(to) Musa, | وَعِيسَىٰ=and Isa, | وَٱلنَّبِيُّونَ=and the Prophets | مِن=from | رَّبِّهِمْ=their Lord. | لَا=Not | نُفَرِّقُ=we make distinction | بَيْنَ=between | أَحَدٍ=any | مِّنْهُمْ=of them | وَنَحْنُ=and we | لَهُۥ=to Him | مُسْلِمُونَ=(are) submissive.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate issues found in the portion provided.
+
+Supporting notes on each checkable claim:
+
+- **"qul is singular, āmannā is plural (we)"** — Confirmed by word-by-word reference: ءَامَنَّا = "We believed." Grammatically accurate.
+- **"Root a-m-n, root of faith, security, trust"** — Correct; listed in frontmatter morphology comment as root Amn.
+- **"āmannā is in the perfect tense"** — Accurate; Arabic māḍī form, correctly glossed as settled/accomplished.
+- **"unzila from root n-z-l, Form IV passive"** — Correct. Form IV anzala → passive unzila. Frontmatter confirms "nazala in Form IV."
+- **"ūtiya as the second verb — 'was given'"** — Confirmed by word-by-word: أُوتِىَ = "was given." Frontmatter confirms ātā in Form IV (ātā → ūtiya passive).
+- **"nufarriqu in Form II"** — Frontmatter explicitly states "farraqa in Form II." Correct.
+- **"muslimūn as active participle of Form IV aslama"** — Root s-l-m, Form IV aslama, active participle muslim, plural muslimūn. Correct.
+- **"al-asbāṭ = descendants/tribes"** — Word-by-word gives "descendants." Jalālayn confirms أولاده; al-Muyassar specifies the 12 tribes of Banī Isrāʾīl. Both consistent with the reflection's rendering.
+- **"3:81 covenant taken from the prophets themselves"** — Standard tafsir reading; consistent with context the reflection assigns to the ayah.
+- **Arabic text in body** — Matches the authenticated Arabic exactly.
+
+The text is cut off mid-sentence in Element Two ("the form that takes a simple actio..."), so the Form IV description cannot be fully evaluated, but the fragment contains no error.
+
+SUMMARY: All verifiable morphological, grammatical, and contextual claims in the provided reflection are accurate and grounded in the reference data; no errors detected.

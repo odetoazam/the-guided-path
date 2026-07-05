@@ -6,7 +6,7 @@ ayah_end: 135
 title: "Against Yourself First — The Stand No One Wants to Take"
 slug: "004-135"
 category: tadabbur
-arabic: "۞ يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوا۟ قَوَّٰمِينَ بِٱلْقِسْطِ شُهَدَآءَ لِلَّهِ وَلَوْ عَلَىٰٓ أَنفُسِكُمْ أَوِ ٱلْوَٰلِدَيْنِ وَٱلْأَقْرَبِينَ ۚ إِن يَكُنْ غَنِيًّا أَوْ فَقِيرًا فَٱللَّهُ أَوْلَىٰ بِهِمَا ۖ فَلَا تَتَّبِعُوا۟ ٱلْهَوَىٰٓ أَن تَعْدِلُوا۟ ۚ وَإِن تَلْوُۥٓا۟ أَوْ تُعْرِضُوا۟ فَإِنَّ ٱللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًا"
+arabic: "۞ يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوا۟ قَوَّٰمِينَ بِٱلْقِسْطِ شُهَدَآءَ لِلَّهِ وَلَوْ عَلَىٰٓ أَنفُسِكُمْ أَوِ ٱلْوَٰلِدَيْنِ وَٱلْأَقْرَبِينَ ۚ إِن يَكُنْ غَنِيًّا أَوْ فَقِيرًا فَٱللَّهُ أَوْلَىٰ بِهِمَا ۖ فَلَا تَتَّبِعُوا۟ ٱلْهَوَىٰٓ أَن تَعْدِلُوا۟ ۚ وَإِن تَلْوُۥٓا۟ أَوْ تُعْرِضُوا۟ فَإِنَّ ٱللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًا"
 translation: "O you who have believed, be persistently standing firm for justice, witnesses for Allah, even if it be against yourselves, or your parents, or your relatives. Whether the person is rich or poor, Allah is more worthy of both. So do not follow desire, lest you not be just. And if you twist or turn away, then indeed Allah is ever, of what you do, All-Aware."
 word_count: 2650
 estimated_duration: "48-58 minutes"
@@ -14,6 +14,7 @@ passage_context: "After four ayahs resetting the heart through declarations of d
 generated_by: "opus-tadabbur"
 validated: true
 validation_date: "2026-04-18"
+semantic_review: "enriched-2026-07-03"
 tags: [justice, qist, self-accountability, bias, hawaa, qawwam, divine-names]
 concepts: [social-justice, nafs, taqwa, accountability, qalb]
 ---
@@ -94,6 +95,8 @@ Because justice is physical before it is intellectual. Think about what standing
 [PAUSE]
 
 That is the metaphor. Justice is not a decision you make once. It is a posture you maintain against a force that never lets up — the gravitational pull of desire, loyalty, self-interest, tribalism, comfort. The *qawwām* is not the person who decided to be fair yesterday. The *qawwām* is the person who is still standing this morning, after a night of pressure to sit down.
+
+Ibn Kathīr draws out exactly this in his commentary: the believer is to stand up for justice and fairness and *not deviate from it, right or left* — undeterred by the blame of any blamer, letting no one frighten or flatter them off the stand — because the standing is done for Allah's sake, not for human approval. And he adds a communal dimension we tend to miss: the *qawwāmīn* are told to support and aid one another in this standing. Justice, in his reading, is not a lonely heroism. It is a posture a community holds up together, so that the one on the stand is not standing alone.
 
 And what are they standing for? **بِٱلْقِسْطِ** — *bil-qisṭ*. Not *bil-'adl*. The word *qisṭ* carries a specific dimension of justice that *'adl* does not. *Qisṭ* is justice as fairness in distribution — equitable, measured, proportional. It carries the echo of the *qisṭās*, the scale. The *qawwām bil-qisṭ* is not just a person who stands for what is right. They are a person who stands with a scale in their hand — and they do not tip it for anyone. Not for themselves. Not for those they love.
 
@@ -183,6 +186,8 @@ Do you see the distinction?
 *Tu'riḍū* — you leave. You refuse to show up. You recuse yourself. Deliberate. Active. Form IV.
 
 The verb forms are not accidental. The twisting is presented with the simplest, most basic morphology because it happens almost unconsciously — your bias twists your words before your conscience catches up. But the turning away is presented with a causative form because walking away from justice is always a *decision*. No one accidentally absents themselves from a case where their testimony matters. You know you are needed. You know your silence will cost someone their rights. And you **choose** to turn your back.
+
+The classical commentators read this turning-away in two registers. Al-Muyassar glosses *tu'riḍū* as either refusing to deliver the testimony at all — or *kitmān*, concealing it, burying a truth someone was depending on. Both are folded into the single verb. This matters, because we tend to imagine "turning away" as a dramatic walk-out. Most of the time it is quieter than that: it is the truth you had, and simply did not offer. Silence, when speech is owed, is itself a form of turning away — and the ayah names it as one of the two sealed exits.
 
 [PAUSE]
 
@@ -276,6 +281,8 @@ Or: a poor person stands before you. Poverty creates its own gravity — sympath
 
 Both biases are real. Both are active. And both destroy justice.
 
+And this is not an abstraction. Al-Ṭabarī records that behind this command lies a concrete episode: people came interceding with the Prophet ﷺ over the affair of the clan of Banū Ubayriq, after one of their own had been caught in wrongdoing — making excuses for them, defending them, and dressing up their case by insisting they were people of poverty and hardship. The plea *"but they are poor"* was being wielded as a lever to bend the truth. So when the ayah says *whether he is rich or poor*, it is not naming a hypothetical. It is answering a real dispute in Madinah where a man's poverty had just been used to argue him out of accountability — and telling the believers, in effect, *do not do what those people did.*
+
 [PAUSE]
 
 Now watch what Allah does. He addresses both biases in a single breath — *ghaniyyan aw faqīrā* — and then obliterates them with a dual pronoun: *bihimā*. Both of them. Allah is more worthy of **both** of them.
@@ -285,6 +292,8 @@ Now watch what Allah does. He addresses both biases in a single breath — *ghan
 This is devastating in its economy. Three words — *Allāhu awlā bihimā* — and both directions of bias are addressed simultaneously. You don't get separate instructions for each case. You don't get a paragraph about not favouring the rich and another paragraph about not favouring the poor. You get one sentence that says: **it doesn't matter who they are. Allah's claim on them comes before your feeling about them.**
 
 The word *awlā* is the elative form of *walī* — the one who is closer, more deserving, more entitled to care. Allah is not just "also" concerned about the rich and the poor. He is **more** entitled to concern for both of them than you are. Your sympathy for the poor person does not outrank Allah's concern for truth. Your deference to the rich person does not outrank Allah's claim on justice. He is *awlā* — prior, closer, more worthy — in both directions.
+
+And al-Muyassar draws out a second layer inside that word. Allah is more worthy of both of them than you are — *and He knows better what is genuinely in their interest*, their true *ṣalāḥ*. This quietly dismantles the excuse before you can even finish forming it. When you tip the scale toward the poor man out of pity, you tell yourself you are helping him. When you tip it toward the rich man, you tell yourself you are being sensible. But you are not actually qualified to assess what serves either of them. Allah is. And injustice — even injustice dressed as protection — never serves anyone. The favour you imagine you are doing is a favour you were never in a position to judge.
 
 [PAUSE]
 
@@ -299,6 +308,8 @@ Allah is more worthy of both. Your cousin and the stranger. The poor one and the
 This is not a command to be cold. It is a command to be honest about why your heart is pulling you sideways — and to recognise that Allah's stake in every human being is higher than yours.
 
 And then the ayah names the mechanism: *fa-lā tattabi'ū al-hawā* — "do not follow desire." The verb *tattabi'ū* is Form VIII of *tabi'a* — to follow. Form VIII is the reflexive: it means to **choose to follow of your own volition**, to step after something deliberately, step by step. This is not a sudden fall. This is a slow walk in the wrong direction. You follow desire the way you follow a path — one step at a time, each step feeling perfectly reasonable, until you look up and realise you are nowhere near justice.
+
+And *hawā* here is not only private appetite. Al-Muyassar pairs *al-hawā* with *al-taʿaṣṣub* — partisanship, the reflexive loyalty to your own side. The pull that bends the scale is sometimes raw self-interest, but just as often it is tribal: the quiet, unexamined certainty that *my* people, *my* camp, *my* side must be the ones in the right. That certainty rarely feels like desire. It feels like solidarity, like loyalty, even like virtue. But the ayah files it under *hawā* — and it is walked into one reasonable step at a time, exactly like every other bias in this verse.
 
 *An ta'dilū* — "lest you not be just." The destination of the walk. The place where following desire takes you: the loss of *'adl*, the very thing you were supposed to embody.
 

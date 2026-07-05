@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/081-at-takwir/ayah-011.md
+Ayah: 81:11
+Date: 2026-06-18T15:16:07
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَإِذَا=And when | ٱلسَّمَآءُ=the sky | كُشِطَتْ=is stripped away,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "The reports tell us they were undone by this surah" — stated as established fact but no specific hadith or athar is cited, and the provided reference data contains no such tradition. There is a well-known narration about the Prophet ﷺ being moved by the eschatological surahs, but "undone" applied specifically to the Makkan Arabs hearing At-Takwir cannot be verified from the supplied sources. Flag as unverified claim, not fabricated.
+
+All other specific attributions check out against the provided reference data:
+
+- Root ك-ش-ط and passive form كُشِطَتْ: correct
+- Al-Qurṭubī's "قلع عن شدة التزاق" rendered as "al-qalʿ ʿan shiddat al-tizāq": accurate
+- Qurṭubī on camel vocabulary: "لا يقال سلخته ... لا يقال في البعير إلا كشطته أو جلدته" — the reflection's claim about kashṭ/jaladtu vs. salakha maps exactly to the source
+- Al-Jalālayn's sheep simile "كما ينزع الجلد عن الشاة": quoted accurately
+- Al-Baghawī: al-Farrāʾ's "نزعت فطويت," al-Zajjāj's "قلعت كما يقلع السقف," and the master definition "رفعك شيئاً عن شيء قد غطاه ... كما يكشط الجلد عن السنام" — all three attributed correctly and translated accurately
+- Structural claim that 81:11 follows the deed-scrolls (81:10) and precedes Hellfire (81:12): correct
+- Count of twelve idhā clauses resolving in 81:14: correct
+
+SUMMARY: The reflection is linguistically and scholastically sound — every tafsīr attribution and Arabic claim is verifiable from the provided sources — with one unverifiable historical claim about reports of the Makkan Arabs' reaction that should either be removed or sourced.

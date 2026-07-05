@@ -1,0 +1,38 @@
+Enhanced Validation Report
+File: content/tadabbur/090-al-balad/ayahs-005-007.md
+Ayah: 90:5
+Date: 2026-06-18T19:23:51
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَيَحْسَبُ=Does he think | أَن=that | لَّن=not | يَقْدِرَ=has power | عَلَيْهِ=over him | أَحَدٌ=anyone?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+**VERDICT: MODERATE**
+
+**ISSUES:**
+
+- [MODERATE] *"the very words he uses to say no are built from the names of the One he is denying"* — This foreshadows (and the `concepts` frontmatter confirms with `"al-Ahad"`) an equation between أَحَدٌ (*ahadun* = "anyone," indefinite pronoun) and the Divine Name *al-Ahad*. None of the four provided classical sources — al-Jalālayn, al-Muyassar, al-Qurṭubī, al-Baghawī — make this connection; they all treat أَحَدٌ here straightforwardly as the indefinite pronoun "anyone." The ḥ-s-b/ḥisāb parallelism is linguistically solid and attested. The أَحَدٌ/al-Ahad move is an interpretive extension presented as though it is a structural feature baked into the Arabic, not the author's observation. It needs either classical warrant or explicit framing as a literary reflection.
+
+**CONFIRMED PASSES (verifiable against provided data):**
+- Glossing *yaḥsabu* as *yaẓunnu*: confirmed by all four tafsir sources.
+- Attributing that gloss specifically to al-Jalālayn, al-Muyassar, and al-Qurṭubī: accurate.
+- Root ḥ-s-b → al-ḥisāb irony: linguistically valid; the word family is well-established.
+- *lan* as emphatic absolute future negation ("never"): grammatically accurate.
+- Surah framing (oath by al-balad, *kabad* at 90:4): accurate.
+
+**NOTE:** The reflection is truncated mid-sentence before completing the claim about the root of *yaqdira*. That section cannot be validated from the provided text.
+
+---
+
+**SUMMARY:** One flagged item — the implicit أَحَدٌ/al-Ahad equation is stated as an embedded structural irony without classical support or authorial framing; all other verifiable claims in the provided excerpt are accurate and well-grounded.

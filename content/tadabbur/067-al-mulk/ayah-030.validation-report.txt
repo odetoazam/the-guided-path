@@ -1,0 +1,28 @@
+Enhanced Validation Report
+File: content/tadabbur/067-al-mulk/ayah-030.md
+Ayah: 67:30
+Date: 2026-06-13T13:23:02
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: قُلْ=Say, | أَرَءَيْتُمْ=`Have you seen, | إِنْ=if | أَصْبَحَ=becomes | مَآؤُكُمْ=your water | غَوْرًا=sunken, | فَمَن=then who | يَأْتِيكُم=could bring you | بِمَآءٍ=water | مَّعِينِۭ=flowing?`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "The morning verb captures the one thing a plain 'sank' could never capture: the suddenness of waking to find that the unquestionable thing is gone." — The morning etymology of أَصْبَحَ from ṣ-b-ḥ is linguistically accurate (the root does denote dawn/morning), and the sister-of-kāna classification is correct. However, none of the four provided classical tafsirs (Jalalayn, Muyassar, Qurtubi, Baghawi) comment on the morning dimension in this verse — they uniformly gloss أَصْبَحَ as a plain state-change verb and focus entirely on غَوْرًا and مَّعِينٍ. Presenting the "waking suddenness" interpretation as what the verb *definitively captures* ("the one thing… could never capture") elevates a valid literary insight to a documented linguistic fact. It should be framed as the author's rhetorical reading, not established commentary.
+
+No other issues found. The Arabic text matches the authentic source exactly. غَوْرًا is correctly identified as a masdar (versus the active participle غَائِر that the Jalalayn and Qurtubi use in their *explanation*). مَّعِينٍ as "flowing" is confirmed by Qatada, al-Dahhak (via Qurtubi), Ibn Abbas (via Baghawi), and all four tafsirs. The Form IV classification of أَصْبَحَ is correct. The sister-of-kāna grammar is correct. The surah structure (67:30 as the final verse) is accurate. The hadith about reciting Al-Mulk before sleep is a well-attested report (Tirmidhi and others) and not overstated here.
+
+SUMMARY: The reflection is linguistically grounded and free of factual errors; the single flag is that the morning-connotation meditation on أَصْبَحَ is the author's own literary reading, not a point raised by the classical sources provided, and should be marked interpretive rather than presented as definitive.

@@ -1,0 +1,40 @@
+Enhanced Validation Report
+File: content/tadabbur/056-al-waqiah/ayahs-085-086.md
+Ayah: 56:85
+Date: 2026-06-12T10:35:06
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَنَحْنُ=And We | أَقْرَبُ=(are) nearer | إِلَيْهِ=to him | مِنكُمْ=than you | وَلَـٰكِن=but | لَّا تُبْصِرُونَ=you (do) not see,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate errors found in the excerpt provided.
+
+Supporting checks:
+
+- [PASS] **Root q-r-b for *aqrab*** — confirmed via word-by-word reference; *aqrab* as the *af'al al-tafḍīl* comparative form is standard Arabic morphology.
+
+- [PASS] **Triple interpretation (knowledge, power, sight)** — "Al-Qurṭubī and al-Baghawī both gather it: He is nearer *bil-ʿilmi wal-qudrati wal-ruʾyah*" accurately reflects both sources. Qurṭubī: *bial-qudrati wal-ʿilmi wal-ruʾyah*; Baghawī: *bil-ʿilmi wal-qudrati wal-ruʾyah*. Order differs between sources; the reflection's synthesis is honest.
+
+- [PASS] **Angel interpretation attribution** — "al-Muyassar, with al-Qurṭubī and al-Baghawī noting it as a second window" correctly represents the source hierarchy: al-Muyassar presents the angel reading as the primary frame (*bimalāʾikatinā*), while Qurṭubī and Baghawī both introduce it with *wa-qīla* (secondary, attributed view). Attribution is accurate.
+
+- [PASS] **lā tubṣirūn rendered as "you do not see"** — standard translation; al-Jalālayn's gloss specifying *min al-baṣīra* (inner insight, not physical sight) is the more precise reading, but the reflection's concepts list "inner-sight-vs-physical-sight" as a key theme and the introduction explicitly frames the whole piece around that distinction ("the whole reflection"). The excerpt ends before Part Two addresses it; no misrepresentation has occurred.
+
+- [PASS] **Contextual frame (56:83–84)** — *idhā balaghati-l-ḥulqūm* and *wa-antum ḥīna'idhin tanẓurūn* quoted and translated accurately.
+
+- [PASS] **Arabic text** — matches the authentic text provided; verse 86 is noted as a partial quote with ellipsis in the translation, which is appropriate.
+
+SUMMARY: The reflection accurately draws on all four classical sources, represents the primary/secondary distinction between the knowledge-power-sight reading and the angel reading, and commits no morphological, attribution, or textual errors in the material submitted.

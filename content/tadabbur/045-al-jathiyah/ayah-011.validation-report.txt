@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/045-al-jathiyah/ayah-011.md
+Ayah: 45:11
+Date: 2026-06-08T05:28:04
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: هَـٰذَا=This | هُدًى‌ۖ=(is) guidance. | وَٱلَّذِينَ=And those who | كَفَرُواْ=disbelieve | بِـَٔـايَـٰتِ=in (the) Verses | رَبِّهِمْ=(of) their Lord, | لَهُمْ=for them | عَذَابٌ=(is) a punishment | مِّن=of | رِّجْزٍ=filth, | أَلِيمٌ=painful.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE — interpretive extension, not error] "the guidance of the Qur'an is offered to all of humanity without price, without precondition" — this universalist framing goes beyond the provided sources. Muyassar explicitly qualifies: *يهدي إلى طريق مستقيم مَن اتبعه وعمل به* ("it guides to the straight path **whoever follows and acts on it**"), implying conditionality of benefit. The reflection's own cross-reference (2:2's *hudan lil-muttaqīn*) further complicates the "no precondition" claim. The reflection does distinguish the *nature* of the guidance from the *benefit* of it — a theologically defensible distinction — but presents the universalism as a settled conclusion rather than an interpretive reading. Worth softening the language (e.g., "offered without being addressed to any one group" rather than "without precondition").
+
+- [PASS — no issue] *tanwīn al-taʿẓīm* — the grammatical term is correct and the concept (indefinite noun as magnification device) is recognized in classical Arabic grammar. The application to *hudan* here is consistent with how grammarians treat comparable Quranic indefinites. No specific classical authority is invoked, so there is no misattribution risk.
+
+- [PASS — no issue] The grammatical asymmetry observation (*hudan* with no recipient vs. *lahum* pinning punishment to specific people) — this is textually verifiable directly from the verse. The observation is accurate and not overstated.
+
+- [PASS — no issue] 2:2 comparison (*hudan lil-muttaqīn*) — quoted correctly, used accurately as a foil.
+
+- [PASS — no issue] Contextual framing (ayahs 8–9 describing the arrogant listener with "deafness in his ears") — accurate to the surah.
+
+- [PASS — no issue] Arabic text in frontmatter — minor diacritic rendering variants from the authentic text, no semantic difference.
+
+SUMMARY: The reflection is linguistically precise and theologically grounded; the sole flag is that its "without precondition" universalism is stated as conclusion rather than as an interpretive reading, creating mild tension with both Muyassar's qualified framing and the reflection's own 2:2 citation.

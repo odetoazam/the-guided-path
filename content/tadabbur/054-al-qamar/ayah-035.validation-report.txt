@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/054-al-qamar/ayah-035.md
+Ayah: 54:35
+Date: 2026-06-10T06:39:17
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: نِّعْمَةً=(As) a favor | مِّنْ=from | عِندِنَا‌ۚ=Us. | كَذَٲلِكَ=Thus | نَجْزِى=We reward | مَن=(one) who | شَكَرَ=(is) grateful.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Any gratitude. Anywhere. From anyone. The door is left open exactly as wide as the grammar leaves it." — All four classical sources narrow *man shakar* specifically to faith and obedience. Jalalayn: *"man shakar: anʿamnā wa-huwa muʾmin aw man āmana bi-Llāhi wa-rasūlihi wa-aṭāʿahumā."* Qurtubi: *"man āmana bi-Llāhi wa-aṭāʿahu."* Baghawi quotes Muqatil: *"man waḥḥada Llāh."* The grammatical observation that the object of *shakara* is withheld is sound, but the reflection converts that syntactic openness into a universalist reading ("any gratitude, by anyone") that directly contradicts the unanimous classical interpretation: shukr here means iman-grounded gratitude, not generic thankfulness. This distinction matters for how readers apply the verse.
+
+PASS items:
+- Tense analysis (*shakara* perfect / *najzī* imperfect) is linguistically accurate and confirmed by the word-by-word data.
+- The *min ʿindinā* vs. *minnā* locative distinction is standard Arabic grammar and not contradicted by any of the sources (though none of the four tafsirs elaborate on it — the claim is linguistically defensible, just not explicitly sourced here).
+- Surah narrative context (Nuh, ʿAad, Thamud, Lut sequence; rescue in the final hours of the night) is accurate relative to the surrounding passage.
+- Translation is faithful to the word-by-word reference.
+
+SUMMARY: One genuine issue — the reflection's "any gratitude from anyone" framing universalizes *man shakar* beyond what all four classical commentators permit; they consistently gloss it as faith in Allah and obedience to His messenger, not ungoverned gratitude.

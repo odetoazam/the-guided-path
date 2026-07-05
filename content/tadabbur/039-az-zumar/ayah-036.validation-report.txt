@@ -1,0 +1,26 @@
+Enhanced Validation Report
+File: content/tadabbur/039-az-zumar/ayah-036.md
+Ayah: 39:36
+Date: 2026-06-06T04:06:14
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَلَيْسَ=Is not | ٱللَّهُ=Allah | بِكَافٍ=sufficient | عَبْدَهُۥ‌ۖ=(for) His slave? | وَيُخَوِّفُونَكَ=And they threaten you | بِٱلَّذِينَ=with those | مِن دُونِهِۦ‌ۚ=besides Him. | وَمَن=And whoever | يُضْلِلِ ٱللَّهُ=Allah lets go astray - | فَمَا=then not | لَهُۥ=for him | مِنْ=any | هَادٍ=guide.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "The classical commentators — al-Baghawi reports this among the narrations around this ayah — record that they warned him: *stop insulting our gods, or one of them will strike you. You'll be touched with harm. You'll lose your mind.*" — The specific *takhbīl* detail (affliction/madness) is explicitly present in the provided al-Jalalayn text: "أن تقتله أو تخبله" (that they would kill him or afflict him with harm/madness). The al-Baghawi excerpt in the reference data breaks off at "وذلك أنهم خوفوا..." before this content can be confirmed. The underlying event is real and corroborated across sources, but the attribution of this specific detail to al-Baghawi cannot be verified from the provided data; the visible source is al-Jalalayn, not al-Baghawi.
+
+SUMMARY: The reflection is linguistically rigorous and the core tafsir reading is well-grounded across all four provided sources; the single issue is an attribution to al-Baghawi of the "madness/takhbīl" threat detail that the provided reference data places in al-Jalalayn, with al-Baghawi's excerpt truncated at the relevant point.

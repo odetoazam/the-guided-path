@@ -1,0 +1,24 @@
+Enhanced Validation Report
+File: content/tadabbur/041-fussilat/ayah-029.md
+Ayah: 41:29
+Date: 2026-06-06T14:10:41
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَقَالَ=And (will) say | ٱلَّذِينَ=those who | كَفَرُواْ=disbelieve, | رَبَّنَآ=`Our Lord! | أَرِنَا=Show us | ٱلَّذَيْنِ=those who | أَضَلَّانَا=misled us | مِنَ=of | ٱلْجِنِّ=the jinn | وَٱلْإِنسِ=and the men, | نَجْعَلْهُمَا=(so) we may put them | تَحْتَ=under | أَقْدَامِنَا=our feet, | لِيَكُونَا=that they be | مِنَ=of | ٱلْأَسْفَلِينَ=the lowest.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: ERROR
+ISSUES:
+- Could not run Claude check: Command failed: claude -p --system-prompt "You are a rigorous Islamic scholarship validator for Ayah
+SUMMARY: Claude semantic check failed

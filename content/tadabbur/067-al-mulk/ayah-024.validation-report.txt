@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/067-al-mulk/ayah-024.md
+Ayah: 67:24
+Date: 2026-06-13T14:08:32
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: قُلْ=Say, | هُوَ=`He | ٱلَّذِى=(is) the One Who | ذَرَأَكُمْ=multiplied you | فِى=in | ٱلْأَرْضِ=the earth | وَإِلَيْهِ=and to Him | تُحْشَرُونَ=you will be gathered.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "The very word for 'offspring,' *dhurriyya*, the seed of your seed spreading down through time, is woven from this same idea of dispersal-and-multiplication" — The etymology of *dhurriyya* (ذُرِّيَّة) is contested in classical Arabic lexicography. Al-Rāghib al-Iṣfahānī does connect it to *dhara'a* in *Mufradāt al-Qurʾān*, but major lexicographers also trace it to *dharr* (ذَرّ, tiny particles/atoms) or *dharra* (ants). Stating the connection as settled fact ("woven from this same idea") overstates what remains an unresolved etymological debate. This should be hedged: "some classical lexicographers connect *dhurriyya* to *dhara'a*" or simply remove the etymological claim and keep the semantic illustration.
+
+- [CANNOT VERIFY] "the Arabs used a word from this same family for salt scattered over food" — No supporting data in the supplied references. The *Lisān al-ʿArab* would be required to confirm this specific usage. It cannot be falsified here, but it also cannot be verified — flag for independent lexical check before publication.
+
+Everything else holds up cleanly against the supplied data:
+- The dual Qurtubī readings (Ibn ʿAbbās: "created"; Ibn Shajara: "spread and dispersed across its surface") are cited accurately and in balance.
+- The Jalālayn's *للحساب* (for reckoning) maps directly onto the accountability framing.
+- Verb-form analysis (Form I perfect active / Form I imperfect passive) is correct.
+- No scholar attributions are inverted; no Arabic text errors are present.
+- The sowing metaphor is presented as interpretive teaching, not as attributed tafsir — appropriate framing.
+
+SUMMARY: The reflection is substantively sound; the one actionable fix is hedging the *dhurriyya*–*dhara'a* etymology from assertion to acknowledged classical opinion, since the derivation is debated even within the tradition it cites.

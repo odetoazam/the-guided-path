@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayah-070.md
+Ayah: 3:70
+Date: 2026-06-22T08:01:42
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَـٰٓأَهْلَ=O People | ٱلْكِتَـٰبِ=(of) the Book! | لِمَ=Why do | تَكْفُرُونَ=you deny | بِـَٔـايَـٰتِ=[in] the Signs | ٱللَّهِ=(of) Allah | وَأَنتُمْ=while you | تَشْهَدُونَ=bear witness?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR] "sanded down to a single sharp syllable: *lima*" — *lima* (لِمَ) is two syllables: *li* + *ma*. The phonetic compression claim is real (the *alif* of *mā* is elided before a prefixed preposition — grammatically accurate), but calling the result "a single sharp syllable" is technically incorrect. This is loose rhetorical language, not a theological error, and does not affect the interpretive point being made.
+
+- [UNVERIFIABLE FROM PROVIDED DATA] "There were communities who had moved to that very region, according to the historical reports, partly in anticipation of where this awaited one would appear." — None of the four tafsir sources provided speak to the migration motive. The provided sources (Muyassar, Baghawi, Qurtubi) affirm that the People of the Book *had* descriptions of the Prophet in their scriptures and that recognition is what *tashhadūn* points to — but the migration-in-anticipation claim rests on historical reports outside the provided reference data. As stated by the reflection, it is hedged ("according to the historical reports"), so this is not an overreach but warrants external sourcing if the full file carries it as fact.
+
+Everything substantive checks out:
+- The *lima* → *li* + *mā* contraction analysis is grammatically attested.
+- The rhetorical-question framing (استفهام توبيخي, rebuke-question) is consistent with the ayah's tone in all four classical sources.
+- *Tashhadūn* as internal knowledge ("تعلمون أنه الحق" — Jalalayn; "وأنتم تشهدون بذلك؟ ولكنكم تنكرونه" — Muyassar) directly supports the reflection's "recognition followed by refusal" thesis.
+- The historical framing (Madinah, scholars knowing the descriptions, 3:64 as shared-ground prelude) aligns with Muyassar and Baghawi.
+- The Arabic text in the frontmatter and body is identical to the provided authentic text.
+- Translation ("Why do you deny the signs of Allah while you yourselves bear witness?") faithfully renders the word-by-word reference.
+
+SUMMARY: The reflection is well-grounded in the classical sources; the only technical inaccuracy is calling *lima* a single syllable, and one historical claim lies outside the provided reference data but is appropriately hedged.

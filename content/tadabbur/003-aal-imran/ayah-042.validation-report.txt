@@ -1,0 +1,31 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayah-042.md
+Ayah: 3:42
+Date: 2026-06-21T05:06:45
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَإِذْ=And when | قَالَتِ=said | ٱلْمَلَـٰٓئِكَةُ=the Angels, | يَـٰمَرْيَمُ=`O Maryam! | إِنَّ=Indeed, | ٱللَّهَ=Allah | ٱصْطَفَـٰكِ=(has) chosen you | وَطَهَّرَكِ=and purified you | وَٱصْطَفَـٰكِ=and chosen you | عَلَىٰ=over | نِسَآءِ=(the) women | ٱلْعَـٰلَمِينَ=(of) the worlds.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "every one of them preserves the flavor of the root: not chosen at random — chosen as the choice one" — overstates what the four tafsirs actually say. All four (al-Jalālayn, al-Muyassar, al-Qurṭubī, al-Baghawī) gloss *iṣṭafāki* simply as *ikhtāraki* ("He chose you") without elaborating on the ṣ-f-w root's "cream/choicest-part" flavor. That flavor is lexically attested (Lisān al-ʿArab, Mufradāt al-Rāghib — correctly cited in the pruned morphology note), but it comes from the lexical tradition, not from these commentators. The reflection presents a lexicographic reading as something the commentators themselves "preserve," which the provided texts do not support.
+
+ADDITIONAL OBSERVATION (not an error, but a gap to watch for):
+The reflection has not yet addressed the *ʿālamīn* scope debate — whether "women of the worlds" means all women of all time or women of her era. Al-Jalālayn and al-Muyassar explicitly limit it to *ahl zamānikā* (women of her time); al-Qurṭubī cites al-Ḥasan and Ibn Jarīr for the same restriction; al-Baghawī records both opinions. The reflection is cut off before Element Two is complete, so this isn't yet an error — but if it later asserts universal elevation without acknowledging the era-limited opinion, that would be MODERATE.
+
+Everything else checks out: Arabic text matches exactly, translation is accurate, Form VIII analysis of *iṣṭafā* is correct, perfect-tense claim is correct, Maryam's grammatical-object status is correctly observed, and all four tafsir attributions for *ikhtāraki* are verified against the provided texts.
+
+SUMMARY: The reflection is linguistically sound and well-sourced, with one moderate overstatement that attributes the root's "cream" flavor to the classical commentators rather than to the Arabic lexicographers where it actually lives.

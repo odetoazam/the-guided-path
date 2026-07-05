@@ -1,0 +1,24 @@
+Enhanced Validation Report
+File: content/tadabbur/039-az-zumar/ayah-061.md
+Ayah: 39:61
+Date: 2026-06-06T06:55:59
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَيُنَجِّى ٱللَّهُ=And Allah will deliver | ٱلَّذِينَ=those who | ٱتَّقَوْاْ=feared (Him) | بِمَفَازَتِهِمْ=to their place of salvation; | لَا=not | يَمَسُّهُمُ=will touch them | ٱلسُّوٓءُ=the evil, | وَلَا=and not | هُمْ=they | يَحْزَنُونَ=will grieve.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: ERROR
+ISSUES:
+- Could not run Claude check: Command failed: claude -p --system-prompt "You are a rigorous Islamic scholarship validator for Ayah
+SUMMARY: Claude semantic check failed

@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/064-at-taghabun/ayah-016.md
+Ayah: 64:16
+Date: 2026-06-13T09:41:16
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَٱتَّقُواْ=So fear | ٱللَّهَ=Allah | مَا=as much as | ٱسْتَطَعْتُمْ=you are able | وَٱسْمَعُواْ=and listen | وَأَطِيعُواْ=and obey | وَأَنفِقُواْ=and spend; | خَيْرًا=(it is) better | لِّأَنفُسِكُمْ‌ۗ=for your souls. | وَمَن=And whoever | يُوقَ=is saved | شُحَّ=(from the) greediness | نَفْسِهِۦ=(of) his soul, | فَأُوْلَـٰٓئِكَ=then those | هُمُ=[they] | ٱلْمُفْلِحُونَ=(are) the successful ones.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Five commands and a promise, packed into sixteen words" — the verse contains four imperatives: *ittaqū* (fear), *ismaʿū* (listen), *aṭīʿū* (obey), *anfiqū* (spend). The phrase *khayran li-anfusikum* is not an imperative; al-Jalālayn explicitly parses it as "خبر يكن مقدرة جواب الأمر" — the predicate of an implied *yakūn*, functioning as the *result* of the command, not a command itself. Al-Muyassar and al-Baghawi read it the same way. Stating "five commands" as a plain fact is incorrect by one.
+
+ISSUES (clean):
+- The ṭ-w-ʿ root analysis (*istaṭaʿtum* / *aṭīʿū* as siblings from the same root) is accurate and lexically well-grounded.
+- The naskh attribution — Qatāda, al-Rabīʿ ibn Anas, al-Suddī, Ibn Zayd via al-Qurtubi and al-Baghawi — matches the provided tafsir texts exactly.
+- The anti-naskh position ("it explains rather than cancels 3:102") is a recognized classical stance, though the provided excerpts don't document it; the reflection handles the uncertainty responsibly by presenting it as "other scholars" without overclaiming.
+- Arabic text, translation, and word-by-word glosses all match the reference data.
+
+SUMMARY: The reflection is scholarly and well-sourced except for one verifiable counting error — there are four imperative commands in the verse, not five.

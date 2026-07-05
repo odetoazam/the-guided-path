@@ -1,0 +1,30 @@
+Enhanced Validation Report
+File: content/tadabbur/004-an-nisa/ayah-033.md
+Ayah: 4:33
+Date: 2026-06-25T06:56:36
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَلِكُلٍّ=And for all | جَعَلْنَا=We (have) made | مَوَٲلِىَ=heirs | مِمَّا=of what | تَرَكَ=(is) left | ٱلْوَٲلِدَانِ=(by) the parents | وَٱلْأَقْرَبُونَ‌ۚ=and the relatives. | وَٱلَّذِينَ=And those whom | عَقَدَتْ=pledged | أَيْمَـٰنُكُمْ=your right hands - | فَـَٔـاتُوهُمْ=then give them | نَصِيبَهُمْ‌ۚ=their share. | إِنَّ=Indeed, | ٱللَّهَ=Allah | كَانَ=is | عَلَىٰ=over | كُلِّ=every | شَىْءٍ=thing | شَهِيدًا=a Witness.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR / frontmatter only] The frontmatter note attributes the qirāʾāt variant `ʿaqadat / ʿāqadat` to "al-Baghawī" — the provided Baghawī excerpt is truncated and does not include this variant discussion. The Jalalayn excerpt does confirm it (`بألف ودونها`). Attribution to Baghawī specifically cannot be confirmed from the supplied data. Not a body-text claim; no body text needs correction.
+- [VERIFIED ACCURATE] "Al-Baghawī explains it as *ʿaṣaba* — the kin who inherit" — Baghawī text confirms: `أي : عصبة يعطون`.
+- [VERIFIED ACCURATE] "Al-Qurtubī opens his commentary by saying Allah has made clear that every single human being has heirs and people who are near — *fa-liyantafiʿ kullu wāḥidin bimā qasama llāhu lahu* — so let each person benefit from what Allah has apportioned to him, and not long for another's wealth" — Qurtubī text confirms verbatim: `بين تعالى أن لكل إنسان ورثة وموالي ؛ فلينتفع كل واحد بما قسم الله له من الميراث ، ولا يتمن مال غيره`.
+- [UNVERIFIABLE FROM SUPPLIED DATA] Root w-l-y analysis (walī, mawlā, wilāya, awlā, tawallā) draws on Lisān al-ʿArab and Mufradāt al-Rāghib as noted in the frontmatter. These are standard classical lexicographic claims and nothing contradicts them in the supplied tafsir, but the reference data does not include the lexicons themselves. No error found.
+- [NOTE] The abrogation of ḥilf inheritance (`رُفع حكمه بنزول آيات المواريث`, confirmed in Muyassar) is listed in the concepts field as `abrogation-ikhtilaf` but does not appear in the 8,000-character excerpt. Presumably addressed later in the reflection; cannot flag as missing on a truncated text.
+
+SUMMARY: All verifiable scholar attributions in the body text are accurate and the root analysis is lexically sound; no critical or moderate errors are present in the supplied portion.

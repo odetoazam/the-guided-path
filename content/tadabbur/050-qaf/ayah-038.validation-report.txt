@@ -1,0 +1,30 @@
+Enhanced Validation Report
+File: content/tadabbur/050-qaf/ayah-038.md
+Ayah: 50:38
+Date: 2026-06-08T19:39:35
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَلَقَدْ=And certainly, | خَلَقْنَا=We created | ٱلسَّمَـٰوَٲتِ=the heavens | وَٱلْأَرْضَ=and the earth | وَمَا=and whatever | بَيْنَهُمَا=(is) between both of them | فِى=in | سِتَّةِ=six | أَيَّامٍ=periods, | وَمَا=and (did) not | مَسَّنَا=touch Us | مِن=any | لُّغُوبٍ=fatigue.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "recorded by the classical commentators, by al-Qurṭubī and al-Baghawī and others — a claim that God created the world in six days and then rested" — directly confirmed: al-Jalālayn explicitly states "نزل ردا على اليهود في قولهم: إن الله استراح يوم السبت", al-Baghawī "نزلت في اليهود", al-Qurṭubī quotes Qatāda and al-Kalbī to the same effect.
+- [PASS] "the faintest touch" characterization of مَسَّ — not directly verifiable from the provided word-by-word or tafsir excerpts, which render it simply as "touch." The linguistic claim (مَسَّ as lighter-register contact versus verbs like أَصَابَ or ضَرَبَ) is well-attested in classical lexicons (Mufradāt al-Rāghib, Lisān al-ʿArab) and is referenced in the morphology note at the top of the file. The Quranic parallels cited (21:83, 7:201) are lexically correct usages of the same root. Not contradicted by any reference provided — characterization is defensible.
+- [PASS] لُغُوب described as "the heaviest, most bone-deep exhaustion" — the tafsir sources gloss it as تعب and إعياء (fatigue, exhaustion). "Bone-deep" is expressive amplification, not a factual claim about the lexical range; it doesn't invert or contradict the documented meaning.
+- [PASS] A fortiori argument for resurrection — al-Muyassar makes this explicit: "دليل على قدرته -سبحانه - على إحياء الموتى من باب أولى." Reflection's framing is confirmed.
+- [PASS] Arabic text in frontmatter matches the authenticated text (minor tanwin diacritic encoding difference only, not a textual error).
+
+SUMMARY: All substantive theological, linguistic, and attribution claims in this reflection are either directly confirmed by the provided tafsir references or are defensible linguistic characterizations consistent with classical lexicography and not contradicted by any supplied data.

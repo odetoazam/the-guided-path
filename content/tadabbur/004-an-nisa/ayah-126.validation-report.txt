@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/004-an-nisa/ayah-126.md
+Ayah: 4:126
+Date: 2026-06-25T07:15:59
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَلِلَّهِ=And for Allah | مَا=(is) what | فِى=(is) in | ٱلسَّمَـٰوَٲتِ=the heavens | وَمَا=and what | فِى=(is) in | ٱلْأَرْضِ‌ۚ=the earth, | وَكَانَ=and is | ٱللَّهُ=Allah | بِكُلِّ=of every | شَىْءٍ=thing | مُّحِيطًا=All-Encompassing.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "a friendship so deep that it penetrates (takhalluṣ) into the innermost layers of the heart" — The parenthetical Arabic term is wrong root. **takhalluṣ** (تَخَلُّص) derives from خ-ل-ص (liberation/extraction — as in "getting free from something"). The etymological concept behind *khalīl* — deep mutual permeation — is **takhallul** (تَخَلُّل), from the same root خ-ل-ل as khalīl itself. The English gloss is roughly defensible; the Arabic parenthetical names a semantically unrelated root. Note: this is in the 4:125 contextual framing; the provided reference data does not cover 4:125, so full tafsir verification is outside scope here.
+
+CONFIRMED PASSES (against provided sources):
+- **Perpetual kān** — Jalalayn explicitly: *"لم يزل متصفا بذلك"* ("He has never ceased to be characterized by that") — directly confirms the كَانَ الدَّائِمَة reading.
+- **Sovereignty-not-from-need framing** — Qurtubi explicitly: *"لا لحاجته إلى مخالته ولا للتكثير به"* — confirms the reflection's claim that Allah chose Ibrahim from abundance, not need.
+- **Form IV morphology of مُحِيط** — أَحَاطَ as Form IV from ح-و-ط is morphologically correct; active participle مُحِيط follows the مُفْعِل hollow-root pattern accurately.
+- **iḥāṭa as knowledge-encompassing** — Al-Baghawi: *"أحاط علمه بجميع الأشياء"*; Jalalayn: *"علما وقدرة"* — both support the reflection's treatment.
+
+SUMMARY: One moderate etymological slip (takhalluṣ ≠ takhallul in the khalīl parenthetical); all core claims about 4:126 — the perpetual kān, Form IV morphology, and the sovereignty-over-Ibrahim contextual argument — are accurately grounded in the provided classical sources.

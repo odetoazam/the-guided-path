@@ -1,0 +1,40 @@
+Enhanced Validation Report
+File: content/tadabbur/035-fatir/ayah-008.md
+Ayah: 35:8
+Date: 2026-05-18T05:19:11
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَفَمَن=Then is (he) who - | زُيِّنَ=is made fair-seeming | لَهُۥ=to him | سُوٓءُ=(the) evil | عَمَلِهِۦ=(of) his deed - | فَرَءَاهُ=so that he sees it | حَسَنًاۖ=(as) good? | فَإِنَّ=For indeed, | ٱللَّهَ=Allah | يُضِلُّ=lets go astray | مَن=whom | يَشَآءُ=He wills | وَيَهْدِى=and guides | مَن=whom | يَشَآءُۖ=He wills. | فَلَا=So (let) not | تَذْهَبْ=go out | نَفْسُكَ=your soul | عَلَيْهِمْ=for them | حَسَرَٲتٍۚ=(in) regrets. | إِنَّ=Indeed, | ٱللَّهَ=Allah | عَلِيمُۢ=(is) All-Knower | بِمَا=of what | يَصْنَعُونَ=they do.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No genuine errors found in the portion provided.
+
+Supporting checks:
+
+**Sabab al-Nuzul**: Reflection correctly attributes occasion of revelation to Abu Jahl and Qurayshi chiefs. Both Jalalayn ("نزل في أبي جهل وغيره") and Al-Baghawi ("نزلت في أبي جهل ومشركي مكة") confirm this. ✓
+
+**Zuyyina as Form II passive**: The analysis — Form II (zayyana) carrying deliberateness + beautification, rendered passive to hide the agent — is linguistically accurate. Root z-y-n, doubled middle radical, passive prefix u/passive infix yi: all correct. ✓
+
+**The elliptical predicate claim**: "He starts the sentence… and simply does not finish it." Al-Qurtubi explicitly notes: "من في موضع رفع بالابتداء، وخبره محذوف" — the subject has no stated predicate; it is omitted. The observation is not the reflection's invention; it mirrors classical grammatical analysis. ✓
+
+**yuḍillu as Form IV**: The morphology note (aḍalla → yuḍillu) is correct — Form IV of ḍ-l-l, causative sense ("to lead astray" vs. Form I "to go astray"). ✓
+
+**Translation of yaṣnaʿūn as "craft"**: Word-by-word gives "what they do." The root ṣ-n-ʿ carries artisanal/deliberate-making connotations; "craft" is a defensible lexical choice, not a distortion. ✓
+
+**Prophetic grief framing**: The reflection's core pastoral claim — that the final clause addresses a grief that is consuming the Prophet ﷺ — is confirmed by Al-Muyassar: "فلا تُهْلك نفسك حزنًا على كفر هؤلاء الضالين." ✓
+
+SUMMARY: All verifiable claims in the provided 8,000 characters are accurate and well-grounded in the reference data; no corrections are warranted.

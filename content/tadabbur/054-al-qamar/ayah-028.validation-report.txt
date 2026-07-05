@@ -1,0 +1,29 @@
+Enhanced Validation Report
+File: content/tadabbur/054-al-qamar/ayah-028.md
+Ayah: 54:28
+Date: 2026-06-10T06:03:29
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَنَبِّئْهُمْ=And inform them | أَنَّ=that | ٱلْمَآءَ=the water | قِسْمَةُۢ=(is) to be shared | بَيْنَهُمْ‌ۖ=between them, | كُلُّ=each | شِرْبٍ=drink | مُّحْتَضَرٌ=attended.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [PASS] "the verb He reserves for momentous news" / nabaʾ vs khabar distinction attributed to al-Rāghib al-Iṣfahānī — the distinction is well-established in Arabic lexicography and the frontmatter cites Mufradāt al-Rāghib as a source; cannot be verified from the tafsir snippets provided but is not contradicted by them and is a standard, documented position
+- [PASS] "this is a Form II verb, the pattern Arabic uses when a basic action is dialed upward" — نَبِّئْ from root ن-ب-أ with shaddah on ب is correctly identified as Form II (nabbaʾa → nabbiʾ imperative); the morphological description is accurate
+- [PASS] taghlīb: "every classical commentator says so" regarding بَيْنَهُمْ covering both people and she-camel — verified by all four provided sources: al-Jalalayn (بينهم وبين الناقة يوم لهم ويوم لها), al-Muyassar (بين قومك والناقة), al-Qurtubi (بين آل ثمود وبين الناقة), al-Baghawi (وبين الناقة يوم لها ويوم لهم); the al-Baghawi also confirms taghlīb explicitly as a grammatical feature
+- [PASS] Cross-references 54:27, 91:13, 26:149, 78:2 — all correctly identified and quoted
+
+SUMMARY: The first 8,000 characters are linguistically rigorous, the taghlīb analysis is confirmed by all four tafsir sources, and no factual errors are present.

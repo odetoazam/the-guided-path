@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/092-al-layl/ayahs-005-010.md
+Ayah: 92:5
+Date: 2026-05-14T23:18:17
+
+[1] Arabic text: ✅ pass
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَأَمَّا=Then as for | مَنْ=(him) who | أَعْطَىٰ=gives | وَٱتَّقَىٰ=and fears,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 6
+  Failed:   0
+
+⚠️  All verses matched but 6 had diacritics or partial differences.
+
+[5] Claude semantic check:
+**VERDICT: PASS**
+
+**ISSUES:**
+- No CRITICAL or MODERATE issues found in the provided excerpt.
+
+Supporting observations from the reference data:
+
+- Arabic text `فَأَمَّا مَنْ أَعْطَىٰ وَٱتَّقَىٰ` matches the authenticated source exactly.
+- Morphological annotations are accurate throughout: root `عطو` for أعطى (Form IV, ✓), root `وقي` for اتَّقى (Form VIII, ✓), root `صدق` for صَدَّق (Form II, ✓), root `يسر` for نُيَسِّرُ (Form II, ✓), root `غني` for اسْتَغْنَى (Form X, ✓), root `كذب` for كَذَّبَ (Form II, ✓), root `عسر` for عُسْرَى (✓).
+- The central rhetorical claim — same root-يسر verb applied to opposite destinations (يُسْرَى vs. عُسْرَى), creating the "root clash" — is linguistically sound and is a recognized balāghah observation on this surah.
+- Translation of al-ḥusnā as "the Most Beautiful" is a defensible superlative rendering of the feminine form of ḥasan; al-Muyassar specifies it as lā ilāha illā Allāh, but the generic superlative is not wrong — just less specific than some classical positions. Not a MODERATE flag, since the reflection makes no exclusive factual claim about its referent.
+- The reflection does not mention the well-known classical identification (Ibn Masʿood, Qurtubi) that this triad specifically describes Abu Bakr (ra). Omitting an asbāb al-nuzūl tradition is a methodological choice, not an error.
+- No scholar attributions appear in the provided excerpt, so none are at risk of inversion.
+
+**SUMMARY:** The excerpt is morphologically precise, the central grammatical observation about the paired triads and root clash is accurate, and no claim in the provided text contradicts the reference tafsir data.

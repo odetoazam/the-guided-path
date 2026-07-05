@@ -1,0 +1,30 @@
+Enhanced Validation Report
+File: content/tadabbur/048-al-fath/ayah-026.md
+Ayah: 48:26
+Date: 2026-06-08T13:50:28
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِذْ=When | جَعَلَ=had put | ٱلَّذِينَ=those who | كَفَرُواْ=disbelieved | فِى=in | قُلُوبِهِمُ=their hearts | ٱلْحَمِيَّةَ=disdain - | حَمِيَّةَ=(the) disdain | ٱلْجَـٰهِلِيَّةِ=(of) the time of ignorance. | فَأَنزَلَ ٱللَّهُ=Then Allah sent down | سَكِينَتَهُۥ=His tranquility | عَلَىٰ=upon | رَسُولِهِۦ=His Messenger | وَعَلَى=and upon | ٱلْمُؤْمِنِينَ=the believers | وَأَلْزَمَهُمْ=and made them adhere | كَلِمَةَ=(to the) word | ٱلتَّقْوَىٰ=(of) righteousness, | وَكَانُوٓاْ=and they were | أَحَقَّ=more deserving | بِهَا=of it | وَأَهْلَهَا‌ۚ=and worthy of it. | وَكَانَ=And is | ٱللَّهُ=Allah | بِكُلِّ=of every | شَىْءٍ=thing | عَلِيمًا=All-Knower.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR/OBSERVE] "Quraysh knew they were in the wrong" — presented as a confident historical fact, but the tafsir sources frame their position differently: al-Baghawi records that Quraysh cited "they killed our sons and brothers" as internal justification (قال مقاتل: قد قتلوا أبناءنا وإخواننا), and al-Muyassar frames their refusals as stemming from not acknowledging Muhammad's prophethood. The more defensible framing would be that they acted against *customary obligation* (turning away pilgrims), not that they privately admitted wrongdoing. This is narrative color, not a theological claim — not flaggable at MODERATE, but worth noting.
+- [VERIFY] Root derivation ḥ-m-y → ḥummā (fever): linguistically standard and the morphology note cites Lisān al-ʿArab, but cannot be verified directly from the reference data provided. No counterevidence either — the tafsirs confirm الأنفة as the semantic range, and the reflection correctly layers etymology atop conventional meaning rather than replacing it.
+- The Ḥudaybiyya historical details (companions ~1400, pilgrim garb, sacrificial animals, envoy's objection to Bismillāh and "Rasūlullāh" in the treaty text) are directly confirmed by al-Muyassar: "امتناعهم أن يكتبوا بسم الله الرحمن الرحيم وأبوا أن يكتبوا هذا ما قاضى عليه محمد رسول الله." No error.
+- The grammatical contrast — disbelievers *made/put* (جَعَلَ) vs. Allah *sent down* (أَنزَلَ) — is directly supported by the ayah's structure and is the theological hinge the reflection builds on. Sound.
+- kalimata al-taqwā is not yet interpreted in the provided 8000-char excerpt; the article ends mid-linguistic-section. No claim to validate there.
+
+SUMMARY: The provided portion is historically accurate, lexically sound, and exegetically grounded in the tafsir sources — no errors requiring correction.

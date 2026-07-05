@@ -1,0 +1,37 @@
+Enhanced Validation Report
+File: content/tadabbur/051-adh-dhariyat/ayahs-031-032.md
+Ayah: 51:31
+Date: 2026-06-09T03:10:34
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ۞ قَالَ=He said, | فَمَا=`Then what | خَطْبُكُمْ=(is) your mission, | أَيُّهَا ٱلْمُرْسَلُونَ=O messengers?`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "the surah told us, at its very start, that there are beings whose entire function is to *distribute* what has been decreed. The angels." — 51:4 (*fa-l-muqassimāti amrā*) has multiple classical positions: angels distributing commands (Ibn Masʿūd, Qurṭubī), winds distributing rain, and others. Presenting the angels reading as the surah's definitive message overstates one interpretation. That said, the framing is literary ("the surah told us") rather than a hard scholarly claim, so it reads as thematic bridge rather than misattributed fact. No authoritative source from the provided data confirms or contradicts it.
+- [MODERATE] "somewhere on the plains near the Dead Sea" — geographic identification not sourced in the provided tafsir data. It is a standard traditional inference (destination is Sodom/Gomorrah, associated with the Dead Sea region), and the hedging word "somewhere" softens it. No error, but unsourced as presented.
+
+No issues with:
+- Arabic text of 51:31 and 51:32 — matches the authenticated text
+- Root analysis of خ-ط-ب: *khaṭb*, *khuṭba*, *khiṭāb*, *khāṭib* — all lexically correct from the same root; the semantic claim that "grave matter" and "formal address" share a well is consistent with classical lexicography (Mufradāt al-Rāghib)
+- Translation "Then what is your weighty errand" — consistent with word-by-word reference (*fa-mā khaṭbukum*)
+- Ibrahim naming them *al-mursalūn* after recognizing them — confirmed by all three tafsir sources (Jalālayn, Qurṭubī, Muyassar)
+- "the Quran preserve his exact question... in **two** different surahs" — accurate; the phrase *fa-mā khaṭbukum ayyuhā l-mursalūn* appears verbatim in both 51:31 and 15:57 (listed in related_ayahs)
+- Narrative of food not eaten → dread → glad tidings sequence — faithfully reconstructed from 11:69–70 and 51:26–28; reflection does not misattribute details to the wrong surah
+
+**Note:** Review covers the first ~8,000 characters only (through mid-Part 1). Validate the remainder of the reflection — particularly any hadith attributions, fiqh claims, or tafsir citations introduced in Parts 2–4 — before publishing.
+
+SUMMARY: The visible portion is clean — root analysis accurate, narrative faithful to Quranic sources, no critical errors; two soft moderate flags for a definitive reading of an ambiguous verse and an unsourced geographic detail.

@@ -1,0 +1,40 @@
+Enhanced Validation Report
+File: content/tadabbur/106-quraysh/ayah-003.md
+Ayah: 106:3
+Date: 2026-06-20T08:40:52
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَلْيَعْبُدُواْ=So let them worship | رَبَّ=(the) Lord | هَـٰذَا=(of) this | ٱلْبَيْتِ=House,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No genuine errors found in the text examined (8,000 chars, cut off mid-sentence at the Jalālayn synthesis).
+
+Specific checks performed:
+
+**Arabic text:** `فَلْيَعْبُدُوا۟ رَبَّ هَـٰذَا ٱلْبَيْتِ` matches the authentic text exactly. ✓
+
+**Qurtubī attribution:** The reflection quotes "li-ajli mā fī al-kalām min maʿnā al-sharṭ" — this maps precisely to the source text: *ودخلت الفاء لأجل ما في الكلام من معنى الشرط*. The subsequent paraphrase ("if they will not worship Him for the sake of all His countless favors — then let them at least worship Him for the sake of this single one") accurately renders *فإن لم يعبدوه لسائر نعمه، فليعبدوه لشأن هذه الواحدة*. No inversion, no overstatement. ✓
+
+**Jalālayn attribution:** The reflection correctly reports two claims — (1) the *fa* is *zāʾida* (extra, grammatically), and (2) it connects *fal-yaʿbudū* back to the *īlāf*. The source reads: *والفاء زائدة* and *تعلق به لإيلاف*. Both accurate. The explanation that *zāʾida* means "the sentence's core meaning would stand without it" is standard Arabic grammar usage, not a misrepresentation. ✓
+
+**Root analysis:** ع-ب-د (worship), ر-ب-ب (lord), ب-ي-ت (house) are the correct triliteral roots for their respective words. ✓
+
+**Word-by-word:** The four-word breakdown (فَلْيَعْبُدُوا / رَبَّ / هَـٰذَا / ٱلْبَيْتِ) matches the reference exactly. ✓
+
+**Historical framing (caravan routes):** Winter-to-Yemen, summer-to-Syria — consistent with classical tafsir on 106:1–2. The Year of the Elephant detail (birds, stones) is Surah 105 cross-reference, well-attested. ✓
+
+SUMMARY: All scholar attributions are accurately quoted and paraphrased, Arabic text is correct, and no claim exceeds what the reference sources document — the reflection is clear to publish pending completion validation of the remaining content.

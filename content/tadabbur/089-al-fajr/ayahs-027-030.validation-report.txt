@@ -1,0 +1,40 @@
+Enhanced Validation Report
+File: content/tadabbur/089-al-fajr/ayahs-027-030.md
+Ayah: 89:27
+Date: 2026-05-14T23:20:52
+
+[1] Arabic text: ❌ fail
+    → Arabic text mismatch. API: "يَٰٓأَيَّتُهَا ٱلنَّفْسُ ٱلْمُطْمَئِنَّةُ..."
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَـٰٓأَيَّتُهَا ٱلنَّفْسُ=`O soul! | ٱلْمُطْمَئِنَّةُ=who is satisfied,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 4
+  Failed:   0
+
+⚠️  All verses matched but 4 had diacritics or partial differences.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+
+- [MODERATE] "Form I active participle (mufa'ilah pattern with hamza)" (Step 0 grounding table, row for ٱلْمُطْمَئِنَّةُ) — This is morphologically wrong. اطمأنّ is Form XII (افعألّ) of the trilateral root ط-م-ن, not Form I (فَعَلَ). The active participle مُطمئنّ follows the مُفْعَئِلّ pattern of Form XII, not the mufa'ilah (مُفَاعِلَة) pattern of Form III. "mufa'ilah" is the active participle of Form III; it does not describe this word. The root is also tagged inconsistently: frontmatter comment has `root=طمأن` (quadriliteral) while the Step 0 table shows `root=طمن` (trilateral). Neither analysis is wrong per se — grammarians disagree on whether to treat the hamza as radical — but the two should be reconciled, and the form label must be corrected either way.
+
+- [MODERATE] "form the most intimate divine address in the entire Quran" (passage_context field) — This is a superlative framing asserted as established fact. None of the four tafsir sources provided (Jalalayn, Muyassar, Qurtubi, Baghawi) make this ranking claim. It is an interpretive editorial judgment. Stated without qualification ("arguably" / "among the most"), it exceeds what the sources warrant.
+
+- [MINOR] Duplicate morphology tag: `<!-- morphology:89:28:5 root=رضو pos=N -->` appears twice at the same position, which will cause downstream validator ambiguity. One entry should be 28:4 for رَاضِيَةً and one 28:5 for مَّرْضِيَّةً.
+
+PASSES (explicitly confirmed against provided data):
+- Arabic text for 89:27 matches the authenticated source
+- Root identifications for رجع (28:1), ربب (28:3), عبد (29:3), جنن (30:2) are correct
+- rāḍiyah (active) / marḍiyyah (passive) participle distinction is linguistically accurate and consistent with the tafsir sources (Muyassar and Baghawi both note the mutual-pleasure sense)
+- Feminine singular address analysis is grammatically correct (nafs is grammatically feminine; singular address creates the one-soul intimacy the reflection describes)
+- First-person divine possessive on 'ibādī and jannatī: correctly observed and the interpretive weight placed on it is consistent with Muyassar's rendering
+- Context shift from 89:23-26 (condemned soul, no address) to 89:27 (direct address to tranquil soul): accurate and textually grounded
+- 75:2 citation for nafs al-lawwāmah is correct
+
+SUMMARY: Content is substantively sound and linguistically careful, but requires two corrections before publication — fix the Form XII mislabeling in the Step 0 table and qualify the "most intimate divine address in the entire Quran" superlative to a clearly framed interpretive claim.

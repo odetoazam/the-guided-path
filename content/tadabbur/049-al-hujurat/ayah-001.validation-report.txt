@@ -1,0 +1,37 @@
+Enhanced Validation Report
+File: content/tadabbur/049-al-hujurat/ayah-001.md
+Ayah: 49:1
+Date: 2026-06-08T17:47:32
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ=O you who believe! | لَا=(Do) not | تُقَدِّمُواْ=put (yourselves) forward - | بَيْنَ يَدَىِ ٱللَّهِ=before Allah | وَرَسُولِهِۦ‌ۖ=and His Messenger | وَٱتَّقُواْ ٱللَّهَ‌ۚ=and fear Allah. | إِنَّ=Indeed, | ٱللَّهَ=Allah | سَمِيعٌ=(is) All-Hearer, | عَلِيمٌ=All-Knower.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+
+- [MODERATE] "Do not put forward... Put forward *what?*... Allah does not say what... the dropping of the object opens the meaning to *everything*" — The reflection builds its entire linguistic centerpiece on the claim that تُقَدِّمُوا is a transitive verb with a dramatically withheld object. Al-Baghawi directly contradicts this: he states the majority reading (tuqaddimū, Form II, ḍamm of tāʾ, kasra of dāl) is **lāzim bi-maʿnā al-taqaddum** — *intransitive*, meaning simply "to advance/go ahead." The word-by-word reference corroborates this: "put (yourselves) forward" — the implicit object is reflexive, not missing. Al-Jalālayn also glosses it as "lā taqaddamū" (intransitive advance). There is no elided transitive object creating generality; the verb was never transitive in this usage. The breadth of prohibition (covering word and deed) is real and supported by the tafsir sources, but the mechanism the reflection uses to derive it is grammatically inaccurate.
+
+- [MODERATE] "the two men whose faith, if weighed against the faith of the whole community, the Prophet ﷺ said would outweigh it" — This ḥadīth claim about both Abu Bakr *and* ʿUmar jointly is stated as a direct prophetic report. None of the four tafsir sources provided contain or support this attribution. I cannot verify it from the supplied reference data; it may be a conflation with narrations that attribute this specifically to Abu Bakr alone.
+
+- [PASS] The core historical context (Abu Bakr and ʿUmar disputing the appointment of al-Aqraʿ ibn Ḥābis / al-Qaʿqāʿ ibn Maʿbad) is confirmed by Al-Jalālayn verbatim.
+
+- [PASS] "Al-Jalālayn reads it as: do not go ahead by word or by deed" — confirmed: *lā taqaddamū bi-qawlin wa-lā fiʿlin*.
+
+- [PASS] "Al-Muyassar reads it as: do not decide any matter ahead of Allah's command… do not innovate" — confirmed: *lā taqḍū amran dūna amri-llāhi wa-rasūlihi min sharāʾiʿi dīnikum fa-tabtadiʿū*.
+
+- [PASS] Al-Qurṭubī jafāʾ note confirmed by the excerpt: *kāna fī al-ʿArabī jafāʾun wa-sūʾu adabin fī khiṭāb…*
+
+SUMMARY: The reflection's theological conclusions are sound and tafsir-supported, but its central linguistic argument — that a transitive verb's missing object generates unlimited generality — rests on a false premise; Al-Baghawi explicitly identifies this Form II verb as intransitive (lāzim), so there is no "elided object" and the dramatic reveal does not hold grammatically.

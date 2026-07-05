@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/110-an-nasr/ayah-003.md
+Ayah: 110:3
+Date: 2026-06-20T20:43:53
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَسَبِّحْ=Then glorify | بِحَمْدِ=(the) praises | رَبِّكَ=(of) your Lord | وَٱسْتَغْفِرْهُ‌ۚ=and ask His forgiveness. | إِنَّهُۥ=Indeed, He | كَانَ=is | تَوَّابَۢا=Oft-Returning.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR NOTE] Translation renders `تَوَّابًا` as "the One who turns back, again and again, **in mercy**" — the phrase "in mercy" has no direct lexical basis in the word itself (`Oft-Returning` per the word-by-word; `يتوب عليهم ويرحمهم` per Muyassar links mercy to a *separate* verb). This is a mild interpretive enrichment, not an error, and sits within tadabbur license. Worth flagging only because the framing presents it as the translation rather than a gloss.
+
+Everything else in the visible content (first 8,000 chars) is well-grounded:
+
+- **Root س-ب-ح as "glide/swim"**: Confirmed by Quranic usage (21:33, 36:40). The tanzīh derivation ("declaring Allah far from imperfection") is explicitly supported by Qurtubi: *"معنى سبح: التنزيه؛ أي نزهه عما لا يجوز عليه."*
+- **Form II as intensive/declarative**: Morphologically correct (taf'īl pattern).
+- **بِ as accompaniment (mulābasa)**: Confirmed by Jalalayn: *"متلبسًا بحمده"* — precisely the bā' of accompaniment the reflection describes.
+- **كَانَ as permanence**: Accepted grammatical reading, consistent with Muyassar's framing of ongoing divine quality.
+- **تَوَّاب as faʿʿāl / mubālagha**: Correct intensive nominal form.
+- **Form X of استغفر as "seeking"**: Accurate.
+- **Surah as among the last revealed / announcement of departure**: Confirmed by Jalalayn and Baghawi.
+
+SUMMARY: The first 8,000 characters are linguistically precise and tafsir-consistent; the sole issue is a translation enrichment ("in mercy") that is contextually defensible but should be marked as a gloss rather than a direct rendering. Note that the reflection is truncated mid-section — validate the remaining content (Element Two expansion onward) separately.

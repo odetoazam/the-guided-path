@@ -1,0 +1,26 @@
+Enhanced Validation Report
+File: content/tadabbur/054-al-qamar/ayah-026.md
+Ayah: 54:26
+Date: 2026-06-10T01:48:05
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: سَيَعْلَمُونَ=They will know | غَدًا=tomorrow | مَّنِ=who | ٱلْكَذَّابُ=(is) the liar, | ٱلْأَشِرُ=the insolent one.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate issues found.
+
+SUMMARY: Every checkable claim — the indefinite-to-definite grammatical shift between 54:25 and 54:26, the *faʿʿāl* intensive pattern for *kadhdhāb*, the *ʾ-sh-r* root semantics, the identification of *ghadan* as rhetorical imminence rather than a literal calendar day, the surah's structural refrains, and the Thamud mountain-dwelling detail — is either directly confirmed by the provided tafsir sources or is lexically standard and explicitly attributed to "the lexicons" rather than stated as tafsir consensus. The one potentially contestable point (attributing the speech to Allah rather than to Salih) reflects the majority *qirāʾāt* reading (*sīn* + third-person *yaʿlamūna*) which Al-Baghawi and Al-Qurtubi both document as the majority position, and the reflection correctly lists "qiraat-variance" in its concepts without overclaiming.

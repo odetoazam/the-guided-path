@@ -1,0 +1,32 @@
+Enhanced Validation Report
+File: content/tadabbur/004-an-nisa/ayah-024.md
+Ayah: 4:24
+Date: 2026-06-24T08:27:43
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ۞ وَٱلْمُحْصَنَـٰتُ=And (prohibited are) the ones who are married | مِنَ=of | ٱلنِّسَآءِ=the women | إِلَّا=except | مَا=whom | مَلَكَتْ أَيْمَـٰنُكُمْ‌ۖ=you rightfully possess. | كِتَـٰبَ ٱللَّهِ=Decree of Allah | عَلَيْكُمْ‌ۚ=upon you. | وَأُحِلَّ=And are lawful | لَكُم=to you | مَّا=what | وَرَآءَ=(is) beyond | ذَٲلِكُمْ=that; | أَن=that | تَبْتَغُواْ=you seek | بِأَمْوَٲلِكُم=with your wealth | مُّحْصِنِينَ=desiring to be chaste | غَيْرَ=not | مُسَـٰفِحِينَ‌ۚ=(to be) lustful. | فَمَا=So what | ٱسْتَمْتَعْتُم=you benefit[ed] | بِهِۦ=of it | مِنْهُنَّ=from them, | فَـَٔـاتُوهُنَّ=so you give them | أُجُورَهُنَّ=their bridal due | فَرِيضَةً‌ۚ=(as) an obligation. | وَلَا=And (there is) no | جُنَاحَ=sin | عَلَيْكُمْ=on you | فِيمَا=concerning what | تَرَٲضَيْتُم=you mutually agree | بِهِۦ=of it | مِنۢ بَعْدِ=beyond | ٱلْفَرِيضَةِ‌ۚ=the obligation. | إِنَّ=Indeed, | ٱللَّهَ=Allah | كَانَ=is | عَلِيمًا=All-Knowing, | حَكِيمًا=All-Wise.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] The reflection does not engage with **"فَمَا ٱسْتَمْتَعْتُم بِهِۦ"** — the phrase at the center of the most significant ikhtilāf in this ayah. The Shia tradition reads this as permitting nikāḥ mutʿah (temporary marriage); the Sunni majority, including al-Jalālayn and al-Muyassar, reads it as referring to the mahr owed after consummation of a regular marriage. Al-Qurṭubī flags fourteen scholarly issues in this ayah (فيه أربع عشرة مسائل). The reflection is cut at 8,000 chars and may address this in the unshown portion — but if it does not, a tadabbur of 4:24 that omits this debate would be a genuine scholarly gap, not a style choice.
+
+- [MODERATE] "Al-Rāghib in his Mufradāt traces it directly: *as-safḥ* is the pouring of water" — the Mufradāt text is not among the supplied reference data. The claim is consistent with standard Arabic lexicography and almost certainly accurate, but cannot be verified from the materials provided. Flag as citation-unverifiable within this validation set.
+
+- [PASS NOTE] The root analysis of ح ص ن (ḥiṣn/fortress → muḥṣanāt as passive, muḥṣinīn as Form IV active) is morphologically correct. The active/passive distinction the reflection draws — "not *fortified by* something, **Fortifying**" — is accurate. All four tafsir sources confirm muḥṣanāt = ذوات الأزواج (married women), consistent with the reflection.
+
+- [PASS NOTE] The root etymology of س ف ح (safaḥa → spilling/pouring) and the connection to sifāḥ (illicit intercourse named for its uncontained, vessel-less nature) is well-attested in classical lexicons. No error here.
+
+SUMMARY: The shown portion is linguistically and morphologically sound — no root errors, no false attributions — but the reflection's credibility hinges on whether the unshown text addresses the famā-stamtaʿtum/mutʿah dispute, which is the dominant scholarly flashpoint of this ayah and cannot be left unacknowledged in any rigorous tadabbur of 4:24.

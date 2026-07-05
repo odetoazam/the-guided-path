@@ -1,0 +1,42 @@
+Enhanced Validation Report
+File: content/tadabbur/052-at-tur/ayah-039.md
+Ayah: 52:39
+Date: 2026-06-09T16:13:47
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَمْ=Or | لَهُ=for Him | ٱلْبَنَـٰتُ=(are) daughters | وَلَكُمُ=while for you | ٱلْبَنُونَ=(are) sons?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: **PASS**
+
+ISSUES:
+- None found. All verifiable claims check out against the provided reference data.
+
+Specific spot-checks:
+
+**Al-Qurtubī attribution** — The reflection quotes "توبيخًا لهم وتقريعًا" and "سفه أحلامهم." The provided Qurtubī source reads *"سفه أحلامهم توبيخا لهم وتقريعا"* verbatim. Accurate.
+
+**Al-Baghawī attribution** — The reflection paraphrases "when they assigned to Allah what they themselves hate" and uses the label **إنكار**. The Baghawī source reads *"هذا إنكار عليهم حين جعلوا لله ما يكرهون"* exactly. Accurate.
+
+**Al-Jalālayn attribution** — The reflection attributes *bi-zaʿmikum* and *"تعالى الله عما زعمتموه."* The Jalālayn source provides both phrases in those exact words. Accurate.
+
+**أم المنقطعة / استفهام إنكاري analysis** — The claim that the *am* here is disconnected (*munqaṭiʿa*), carrying the force of *bal* + hamza al-istifhām, and functions as *istifhām inkārī* (denial and rebuke) is standard Arabic grammatical doctrine and is consistent with all four tafsīr sources, each of which renders this as rebuke and denial rather than a genuine question. Accurate.
+
+**Root identification** — ب-ن-ي (b-n-y) for both *al-banāt* and *al-banūn* is correct.
+
+**Word count** — "Five words in the Arabic" is accurate: أَمْ / لَهُ / ٱلْبَنَٰتُ / وَلَكُمُ / ٱلْبَنُونَ.
+
+**Arab theology on angels as daughters** — The reflection's framing ("they called the angels the daughters of Allah") is consistent with Al-Muyassar's *"كما تزعمون افتراء وكذبًا"* and is directly paralleled in the related ayah (37:149) cited by Al-Baghawī as the comparandum.
+
+SUMMARY: The reflection's Arabic, morphological analysis, all three explicit scholar attributions, and the grammatical framework for *am al-munqaṭiʿa* / *istifhām inkārī* are accurate and well-grounded in the provided classical sources.

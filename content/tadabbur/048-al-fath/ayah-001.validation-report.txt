@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/048-al-fath/ayah-001.md
+Ayah: 48:1
+Date: 2026-06-08T13:23:46
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّا=Indeed, | فَتَحْنَا=We have given victory, | لَكَ=to you | فَتْحًا=a victory | مُّبِينًا=clear.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "In the two years after this 'defeat,' more people entered Islam than in all the years before combined." — Stated as a quantified historical fact, but none of the four provided classical sources confirm this specific statistical claim. Al-Muyassar supports the *qualitative* point (widened circle, mass entry) and so does the broader sīrah tradition, but "more than all years before combined" is a comparative claim that exceeds what the reference data supplied here can verify. It should be framed as "scholars of sīrah note that..." or left qualitative.
+
+PASS items (explicitly verified):
+- Revelation context: "revealed at night, on the road between Mecca and Medina, concerning Hudaybiyyah, from first verse to last" — confirmed verbatim in Qurṭubī (نزلت...بين مكة والمدينة في شأن الحديبية من أولها إلى آخرها) and consistent with Baghawī's chain.
+- Al-Muyassar paraphrase: accurate to the Arabic (أمن الناس بسببها بعضهم بعضًا، فاتسعت دائرة الدعوة).
+- Jalalayn attribution: "قضينا بفتح مكة وغيرها في المستقبل" → "decree of the opening of Mecca and other places in the future" — exact.
+- The "hinge vs. door" synthesis presenting both Muyassar (Hudaybiyyah-as-fatḥ) and Jalalayn (Mecca-as-fatḥ) as complementary rather than competing — this is accurate; neither source excludes the other, and Muyassar itself ends on Mecca implicitly.
+- Morphology note: مُبِينًا as Form IV active participle (from أَبَانَ) is correct.
+- فَتَحْنَا فَتْحًا identified as cognate accusative (maf'ūl muṭlaq) — grammatically sound.
+- Translation renders فَتَحْنَا as "opened" rather than reference's "given victory" — this is an intentional lexical argument the reflection explicitly constructs, not an error.
+- Umar's distress and the Sahīḥayn attribution — Qurṭubī's excerpt references الصحيحين in the same passage, consistent.
+
+SUMMARY: One moderate overstep — a quantified comparative claim about conversion rates stated as historical fact without backing from the provided classical sources; all linguistic analysis, tafsir citations, and revelation-context claims are accurate and well-sourced.

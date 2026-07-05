@@ -1,0 +1,29 @@
+Enhanced Validation Report
+File: content/tadabbur/047-muhammad/ayah-024.md
+Ayah: 47:24
+Date: 2026-06-08T09:36:50
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَفَلَا=Then do not | يَتَدَبَّرُونَ=they ponder | ٱلْقُرْءَانَ=(over) the Quran | أَمْ=or | عَلَىٰ=upon | قُلُوبٍ=(their) hearts | أَقْفَالُهَآ=(are) locks?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+
+- [MODERATE] Title "The Locks They Forged Themselves" and "the most unsettling word in the entire verse is one tiny suffix...that tells you *whose lock it is*" — The reflection's central thesis frames the possessive suffix on أَقْفَالُهَآ as evidence of *self-sealing* (human agency). Qurtubi explicitly states the opposite: *"أقفالا أقفلها الله عز وجل عليهم"* — "locks that **Allah** locked upon them," and he uses this verse specifically to refute the Qadariyya (who champion human determination). The self-forging reading is a defensible interpretive tradition (cf. 83:14, which the reflection cites in its related_ayahs), but the reflection presents it as *the* reading derived from the pronoun suffix, without acknowledging that Qurtubi draws the contrary conclusion from the same possessive. Stating this as the "answer" hidden in the grammar overstates the claim.
+
+- [MODERATE] Translation renders أَقْفَالُهَآ as "their **own** locks" — adding the word "own" is an interpretive gloss that smuggles the self-sealing thesis into the rendering itself. The word-by-word provides simply "(are) locks" / "their locks." A translation is not the place to embed a contested interpretive position.
+
+SUMMARY: No philological or attribution errors; the root analysis, Form V identification, and surah context are sound, but the reflection's governing thesis — that the pronoun suffix reveals self-forged locking — is presented as lexical fact while Qurtubi's tafsir explicitly attributes the locking to Allah, a tension the piece must acknowledge before going live.

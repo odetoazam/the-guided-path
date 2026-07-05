@@ -1,0 +1,37 @@
+Enhanced Validation Report
+File: content/tadabbur/075-al-qiyamah/ayahs-003-004.md
+Ayah: 75:3
+Date: 2026-06-18T07:48:00
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَيَحْسَبُ=Does think | ٱلْإِنسَـٰنُ=[the] man | أَلَّن=that not | نَّجْمَعَ=We will assemble | عِظَامَهُۥ=his bones?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "al-Qurṭubī and al-Baghawī among them — preserve a tradition that these verses were revealed concerning a specific person: ʿAdī ibn Rabīʿa" — The provided al-Qurṭubī excerpt discusses only the verse's meaning and the grammar of the oath's response; it does not name ʿAdī ibn Rabīʿa or any occasion of revelation. Only al-Baghawī explicitly names him in the provided reference data. Attributing the asbāb to both scholars overstates what the excerpts confirm.
+
+- [MODERATE] "Even if I saw that Day with my own eyes, I would not believe you." — Presented in direct quotation marks as if drawn from a narration, but cannot be verified from the provided reference data. The al-Baghawī excerpt begins the dialogue ("أتى النبي - صلى الله عليه وسلم - فقال: يا محمد حدثني عن القيامة") but is cut off before any such statement appears.
+
+- [MODERATE] The scene of ʿAdī crushing a crumbling bone and scattering its dust is narrated with scene-level specificity and attributed to this occasion — but the provided excerpts do not confirm that detail for ʿAdī ibn Rabīʿa specifically. The "bone-crushing" motif appears widely in tafsir for this surah but is typically associated with Ubayy ibn Khalaf or unspecified Makkans; tying it to ʿAdī here goes beyond what the provided reference data supports.
+
+CONFIRMED ACCURATE (no flags needed):
+- al-insān = al-kāfir: confirmed by al-Jalālayn, al-Qurṭubī, al-Muyassar
+- al-Baghawī's identification of ʿAdī as ḥalīf Banī Zuhra and khatan al-Akhnas: exact match
+- The prophetic supplication "اللهم اكفني جاري السوء": exact match in al-Baghawī
+- ḥ-s-b root analysis and its link to ḥisāb: linguistically sound and consistent with classical lexicography
+- The oaths (75:1–2) as the grammatical setup for these verses as jawāb al-qasam: confirmed in al-Qurṭubī and al-Zajjāj citation therein
+
+SUMMARY: The reflection's core linguistic and theological content is well-grounded, but it attributes the ʿAdī ibn Rabīʿa asbāb al-nuzūl to al-Qurṭubī without textual support in the provided excerpt, and presents two narrative details — a specific spoken quote and the bone-crushing scene — at quotation-level specificity that exceeds what the provided reference data confirms.

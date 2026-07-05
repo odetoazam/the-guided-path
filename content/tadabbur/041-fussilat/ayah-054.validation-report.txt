@@ -1,0 +1,24 @@
+Enhanced Validation Report
+File: content/tadabbur/041-fussilat/ayah-054.md
+Ayah: 41:54
+Date: 2026-06-06T12:38:18
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: أَلَآ=Unquestionably, | إِنَّهُمْ=they | فِى=(are) in | مِرْيَةٍ=doubt | مِّن=about | لِّقَآءِ=(the) meeting | رَبِّهِمْ‌ۗ=(with) their Lord? | أَلَآ=Unquestionably, | إِنَّهُۥ=indeed, He | بِكُلِّ=(is) of all | شَىْءٍ=things | مُّحِيطُۢ=encompassing.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: ERROR
+ISSUES:
+- Could not run Claude check: Command failed: claude -p --system-prompt "You are a rigorous Islamic scholarship validator for Ayah
+SUMMARY: Claude semantic check failed

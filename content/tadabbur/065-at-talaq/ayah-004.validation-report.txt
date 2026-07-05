@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/065-at-talaq/ayah-004.md
+Ayah: 65:4
+Date: 2026-06-13T11:54:25
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَٱلَّــٰٓــِٔى=And those who | يَئِسْنَ=have despaired | مِنَ=of | ٱلْمَحِيضِ=the menstruation | مِن=among | نِّسَآئِكُمْ=your women, | إِنِ=if | ٱرْتَبْتُمْ=you doubt, | فَعِدَّتُهُنَّ=then their waiting period | ثَلَـٰثَةُ=(is) three | أَشْهُرٍ=months, | وَٱلَّــٰٓــِٔى=and the one who | لَمْ=not | يَحِضْنَ‌ۚ=[they] menstruated. | وَأُوْلَـٰتُ ٱلْأَحْمَالِ=And those who (are) pregnant, | أَجَلُهُنَّ=their term (is) | أَن=until | يَضَعْنَ=they deliver | حَمْلَهُنَّ‌ۚ=their burdens. | وَمَن=And whoever | يَتَّقِ=fears | ٱللَّهَ=Allah, | يَجْعَل=He will make | لَّهُۥ=for him | مِنْ=of | أَمْرِهِۦ=his affair | يُسْرًا=ease.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+
+- [MODERATE] "**Al-Qurṭubī** reports the question through **Ubayy ibn Kaʿb**" — The al-Qurṭubī excerpt provided is truncated mid-sentence and names only **Abū ʿUthmān ʿUmar ibn Sālim** before cutting off. The provided reference data does not confirm a narration through Ubayy ibn Kaʿb in al-Qurṭubī's text. Stated as documented fact; cannot be verified from the data supplied. The reflection's hedge ("more than one narration… hold them as a chorus") is appropriately cautious, but the specific attribution is ungrounded in the evidence at hand.
+
+- [MODERATE] "do not despair of the **mercy** of Allah" (12:87) — The Arabic of 12:87 uses **رَوْح** (*rawḥ* — relief, breath, solace) not *raḥma*. Rendering *rawḥ* as "mercy" is within the range of accepted English translations (Yusuf Ali, Pickthall both do so), but it blurs a lexically distinct word. In a reflection explicitly foregrounding root-level precision, the elision is worth flagging.
+
+VERIFIED as accurate:
+- Al-Baghawī naming **Khallād ibn an-Nuʿmān** — confirmed verbatim in the provided al-Baghawī excerpt ("خلاد بن النعمان بن قيس الأنصاري").
+- Root **ي-أ-س** (y-'-s) for *yaʾisna*, Form VIII for ٱرْتَبْتُمْ (r-y-b) and يَتَّقِ (w-q-y) — all correct per word-by-word and morphological notes.
+- Hamza as glottal stop in *yaʾisna* — phonetically accurate.
+- The verse-opens-in-despair / closes-in-ease structural observation — directly supported by the text.
+
+SUMMARY: One specific scholar attribution (al-Qurṭubī → Ubayy ibn Kaʿb) is asserted as documented fact but is not supported by the provided excerpt; everything else is accurate and well-grounded.

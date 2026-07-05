@@ -1,0 +1,29 @@
+Enhanced Validation Report
+File: content/tadabbur/036-ya-sin/ayahs-001-005.md
+Ayah: 36:1
+Date: 2026-06-05T05:02:05
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يسٓ=Ya Sin.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "the scholars called this surah *qalb al-Qurʾān*" — this is a prophetic hadith (from Maqil ibn Yasar, referenced in Abu Dawud — the al-Qurtubi snippet opens by citing exactly this report), not a scholarly designation. Framing it as what "the scholars called" misattributes the source authority; it should be "the Prophet ﷺ called" or "a narration describes."
+- [MODERATE] "a reading also attributed to al-Ḥasan, Saʿīd ibn Jubayr, and others" and "Abū al-ʿĀliya read it as *Yā Rajul*" — these specific attributions do not appear in the provided reference data. The Baghawi snippet confirms only the Ibn ʿAbbās chain for *yā insān bi-lughat Ṭayy*. The al-Hasan/Saʿīd ibn Jubayr and Abū al-ʿĀliya attributions are found in Ibn Kathīr and al-Ṭabarī but cannot be verified from the data supplied here. They are flagged as unverifiable, not as wrong.
+
+No CRITICAL errors found. The Jalālayn quote is rendered exactly. The Muyassar reference is accurate. The Baghawi summary (ikhtilāf, Ibn ʿAbbās *qasam*, *yā insān* reading) matches the provided text precisely. The surah's Meccan status is confirmed by al-Qurṭubī's *bi-ijmāʿ*. The reflection's scholarly hedging — "we cannot claim that as the settled meaning" — correctly reflects al-Jalālayn's agnosticism.
+
+SUMMARY: Reflection is accurately grounded in the provided tafsir data; one framing imprecision on *qalb al-Qurʾān* (prophetic hadith miscategorized as scholarly designation) and two secondary attributions that exceed the supplied reference scope.

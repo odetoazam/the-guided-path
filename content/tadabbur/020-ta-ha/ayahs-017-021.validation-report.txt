@@ -1,0 +1,30 @@
+Enhanced Validation Report
+File: content/tadabbur/020-ta-ha/ayahs-017-021.md
+Ayah: 20:17
+Date: 2026-05-14T23:08:49
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَمَا=And what | تِلْكَ=(is) that | بِيَمِينِكَ=in your right hand, | يَـٰمُوسَىٰ=O Musa?"
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Some classical commentators — Ar-Rāzī among them — note that *tilka* can also carry the connotation of something *of significance, of stature, of importance set apart*" — The Rāzī attribution for this specific gloss on *tilka* is unverifiable from the provided reference data. The four classical sources provided (Jalālayn, Muyassar, Qurṭubī, Baghawī) explain the question uniformly as *su'āl taqrīr* (a question of affirmation, to establish that it is a staff before the miracle, so the transformation registers). None invoke the "lofty significance" reading of *tilka*. The Rāzī attribution may be accurate in his *Mafātīḥ al-Ghayb*, but it cannot be confirmed from the supplied sources — and it is presented as a documented classical position, not the author's inference.
+
+- [MODERATE] The *tilka* vs. *hādhihi* defamiliarization reading — "the grammar is forcing Musa to defamiliarize the staff… the grammar is opening the eye" — is an interpretive extension beyond what the provided tafsirs support. Baghawī and Jalālayn ground the *taqrīr* reading in pedagogical purpose (ensure Musa consciously acknowledges the staff *before* it transforms), not in the psychological/perceptual theory of defamiliarization. The grammatical observation itself (distal demonstrative for a proximate object) is real and linguistically accurate, but the reflection presents the defamiliarization reading as though it is the consensus scholarly derivation rather than a contemporary interpretive layer built on top of the *tilka* observation.
+
+No errors in the Arabic text, word-for-word meanings, or the passage's narrative framing (the sequence: sandals removed → "I am your Lord" → staff question is accurate to 20:11–14 and 20:17).
+
+SUMMARY: No critical errors; two moderate concerns — an unverifiable Rāzī attribution and a contemporary interpretive reading (defamiliarization) presented with more classical warrant than the provided tafsirs actually supply.

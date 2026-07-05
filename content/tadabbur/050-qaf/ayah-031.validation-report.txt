@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/050-qaf/ayah-031.md
+Ayah: 50:31
+Date: 2026-06-08T21:27:23
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَأُزْلِفَتِ=And will be brought near | ٱلْجَنَّةُ=the Paradise | لِلْمُتَّقِينَ=to the righteous, | غَيْرَ=not | بَعِيدٍ=far.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [INFORMATIONAL] "wa inna lahu ʿindanā la-zulfā — 'and indeed he has nearness with Us' (38:25, of Dawud)" — This cross-reference to Ṣ:38:25 falls outside the provided reference data and cannot be verified against it. The citation is factually standard (the verse does exist with this wording, attributed to Dāwūd), but it is unverifiable from the supplied sources alone. Not a MODERATE flag — just a note for the validator record.
+
+- [INFORMATIONAL] "The root zalafa on its own carries the idea of nearness almost as a state. Form IV takes that quiet, intransitive nearness and turns it into something done" — This pedagogical framing of Form I as stative vs. Form IV as causative is a simplification (Form I zalafa can itself be transitive in classical usage), but it is directionally sound as an explanation of the afʿala causative pattern and does not misrepresent the theological point being made. No flagging warranted.
+
+All core claims check out against the provided data:
+- أُزْلِفَتِ correctly identified as root ز-ل-ف, Form IV passive perfect, consistent with the frontmatter corpus note and standard morphology.
+- Passive-voice/hidden-agent analysis is a well-attested Arabic rhetorical convention; all four tafsir sources confirm قُرِّبَت ("it was brought near") without naming the agent explicitly.
+- غَيْرَ بَعِيدٍ treated as emphatic reinforcement aligns with al-Jalālayn (مكانًا غير بعيد منهم) and al-Qurṭubī ("وهذا تأكيد").
+- The "honor/rank" dimension of the zulfa root (muzdalifa, zulfā as proximity of favor) is lexically standard in al-Rāghib al-Iṣfahānī and is not contradicted by any of the provided sources.
+- 50:30 (Hell's هَلْ مِن مَّزِيدٍ) and 50:16 (jugular vein) contextual framing are accurate.
+
+SUMMARY: The reflection's morphological, lexical, and tafsir-grounded claims are all accurate and internally consistent; no corrections required.

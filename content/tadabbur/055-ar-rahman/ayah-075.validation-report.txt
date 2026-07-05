@@ -1,0 +1,40 @@
+Enhanced Validation Report
+File: content/tadabbur/055-ar-rahman/ayah-075.md
+Ayah: 55:75
+Date: 2026-06-12T09:31:55
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَبِأَىِّ=So which | ءَالَآءِ=(of the) favors | رَبِّكُمَا=(of) your Lord | تُكَذِّبَانِ=will you both deny?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "The two lesser gardens, dark green with foliage" — calling the second pair of gardens (55:62-74) "lesser" is a widely held classical interpretation (Ibn Kathir, al-Qurtubi discuss a gradation between the two pairs), but the text itself does not use the word "lesser." The reflection presents this ranking as established fact rather than an interpretive position. This is background context rather than core analysis, and the view is well-attested, so it does not rise to CRITICAL — but it would be more precise to hedge ("what classical commentators generally regard as the second, lesser pair").
+
+- [PASS] "thirty-one times" — the standard scholarly count of the refrain in Ar-Rahman is 31 occurrences. Accurate.
+
+- [PASS] Root attribution "hamza-lām-wāw (أ ل و)" for آلاء — this is one of the two positions in classical lexicography (أ-ل-و vs. أ-ل-ى). Lane's Lexicon and Lisān al-ʿArab both treat it under ألو. Defensible.
+
+- [PASS] Glossing ālāʾ as niʿam — directly supported by al-Muyassar: "فبأي نِعَم ربكما."
+
+- [PASS] Dual address to jinn and humans — al-Qurtubi explicitly: "خطاب للإنس والجن ... وهذا قول الجمهور." Accurate and sourced to the majority position.
+
+- [PASS] تُكَذِّبَانِ as Form II imperfect dual — morphologically correct (k-dh-b, faʿʿala pattern).
+
+- [PASS] Ibrahim 14:34 citation ("if you should count the favor of Allah, you could not enumerate it") — accurate quotation of وَإِن تَعُدُّوا نِعْمَتَ اللَّهِ لَا تُحْصُوهَا.
+
+- [PASS] *Ayy* forcing specification rather than blanket denial — this is a legitimate rhetorical-grammatical observation about the interrogative's demand for particularization, not an overclaim. Not contradicted by any reference data.
+
+SUMMARY: The reflection is linguistically precise and tafsir-grounded throughout; the single flag is that the "lesser gardens" ranking is presented as fact rather than the widely-held but interpretive scholarly position it is — a minor hedging gap, not a substantive error.

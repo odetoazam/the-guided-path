@@ -1,0 +1,34 @@
+Enhanced Validation Report
+File: content/tadabbur/076-al-insan/ayahs-024-026.md
+Ayah: 76:24
+Date: 2026-06-18T09:37:44
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَٱصْبِرْ=So be patient | لِحُكْمِ=for (the) Command | رَبِّكَ=(of) your Lord | وَلَا=and (do) not | تُطِعْ=obey | مِنْهُمْ=from them | ءَاثِمًا=any sinner | أَوْ=or | كَفُورًا=disbeliever.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Another tradition, reported by Muqātil, names ʿUtba ibn Rabīʿa and al-Walīd ibn al-Mughīra, who said to him: *if you are doing all this for the sake of women and wealth, we will give them to you — just turn back from this affair.*" — The Muqātil tradition provided in both Jalalayn and Baghawi records only **"ارجع عن هذا الأمر"** (turn back from this affair). The specific "women and wealth" offer dialogue is absent from the provided tafsir references for this verse. Its insertion under Muqātil's name conflates a circulating seerah-tradition detail with a verse-specific tafsir attribution that the provided sources do not support.
+
+CONFIRMED ACCURATE (for the record):
+- لِ vs عَلَى preposition distinction: well-grounded; 73:10 is a correct contrast example
+- Al-Qurṭubī paraphrase ("await the decree...He promised victory...do not be hasty, for it is coming without fail"): accurate rendering of **"انتظر حكم الله إذ وعدك أنه ينصرك عليهم، ولا تستعجل فإنه كائن لا محالة"**
+- Al-Muyassar's split of ḥukm into qadarī/dīnī: accurately reflects **"لحكم ربك القدري...ولحكمه الديني"**
+- Qatāda → Abū Jahl + neck-stamping narration: accurate per Baghawi's **"قال قتادة: أراد بالآثم الكفور أبا جهل...لأطأن عنقه"**
+- kafūr echo between 76:3 and 76:24: textually sound
+- ṣabr root as "binding/holding firm": lexically standard (Lisān al-ʿArab attests this; not contradicted by provided data)
+
+SUMMARY: One MODERATE issue — the specific "women and wealth" dialogue is loaded into the Muqātil tradition for this verse, but the provided classical sources for 76:24 record only the generic "turn back from this affair"; the reflection should either source this to seerah literature (Ibn Hisham) rather than the tafsir tradition for this verse, or strip the added dialogue.

@@ -1,0 +1,38 @@
+Enhanced Validation Report
+File: content/tadabbur/077-al-mursalat/ayah-034.md
+Ayah: 77:34
+Date: 2026-06-18T11:53:32
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَيْلٌ=Woe | يَوْمَئِذٍ=that Day | لِّلْمُكَذِّبِينَ=to the deniers.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] *passage_context*: "Here it lands after the deniers have been shown, in the verses just before, that on that Day they will not even be permitted to speak" — The sequence is inverted. The "not speaking" imagery (هَٰذَا يَوْمُ لَا يَنطِقُونَ, 77:35) falls *after* this refrain, not before it. Verses 77:29–33 (which precede 77:34) depict the deniers being driven toward the three-branched shadow and the fire — not the "no speech" motif. That motif belongs to 77:35–36, which follows the refrain. The passage_context has cause and effect running in the wrong direction.
+
+---
+
+Everything else in the submitted portion holds:
+
+- Root **ك-ذ-ب** is correctly identified
+- Form II (مُكَذِّبِينَ vs. simple كَذَبَ) and its transitive/intensifying force are accurately described — "he called something a lie" vs. "he lied" is the established distinction in classical lexicons
+- Active participle analysis (frozen-identity reading) is sound
+- The Qurtubi claim — that repetition is not redundancy but *apportionment* per each act of denial ("لكل مكذب بشيء عذابا سوى تكذيبه بشيء آخر") — is directly attested in the provided Qurtubi excerpt and is accurately represented in the reflection
+- Translation "Woe, that Day, to the deniers" matches the word-by-word reference exactly
+- The claim that the refrain sounds ten times in Al-Mursalat is correct (77:15, 19, 24, 28, 34, 37, 40, 45, 47, 49)
+- Arabic display text is accurate
+
+SUMMARY: One factual error in the passage_context inverts the surah's verse order — the "deniers will not speak" motif (77:35) comes after 77:34, not before it; all linguistic and attribution claims in the body are well-grounded.

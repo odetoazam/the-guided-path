@@ -1,0 +1,42 @@
+Enhanced Validation Report
+File: content/tadabbur/055-ar-rahman/ayah-030.md
+Ayah: 55:30
+Date: 2026-06-12T07:59:57
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: فَبِأَىِّ=So which | ءَالَآءِ=(of the) favors | رَبِّكُمَا=(of) your Lord | تُكَذِّبَانِ=will you both deny?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- None identified. All verifiable claims hold against the reference data.
+
+Specific checks performed:
+
+**Refrain count — "thirty-one times"**: Accurate. The refrain falls at verses 13, 16, 18, 21, 23, 25, 28, 30, 32, 34, 36, 38, 40, 42, 45, 47, 49, 51, 53, 55, 57, 59, 61, 63, 65, 67, 69, 71, 73, 75, 77 — 31 occurrences.
+
+**Dual address to jinn and mankind**: Confirmed directly by Qurtubi's tafsir: *"خطاب للإنس والجن"* — the reflection's claim is not an extension; it is the mainstream position (Qurtubi: *"وهذا قول الجمهور"*).
+
+**55:29 quotation**: "Whoever is in the heavens and earth asks Him; every day He is bringing about a matter" — accurate rendering of the preceding ayah as positioned context.
+
+**Root k-dh-b and Form II analysis**: The identification of تُكَذِّبَانِ as root ك-ذ-ب, Form II (*kadhdhaba*), with the declarative/intensive force ("to pronounce false, to belie") versus Form I (*kadhaba*, "to lie") is morphologically sound and consistent with classical Arabic grammar. The Leeds Corpus citation in the morphology note corroborates the form classification.
+
+**Root of آلاء as ʾ-l-w**: Attested in both Lisān al-ʿArab and the Leeds Corpus note in the file; no conflict with reference data.
+
+**Surah content walkthrough** (sun/moon, trees prostrating, sky raised, balance, two seas, ships): All correspond accurately to the actual sequence of 55:5–24.
+
+**No unsupported scholar attributions** appear in the first 8,000 characters reviewed.
+
+SUMMARY: The reflection's linguistic, morphological, and tafsir claims are all accurate and well-grounded; the Form II *kadhdhaba* analysis is the theological and grammatical spine of the piece and holds under scrutiny.

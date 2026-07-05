@@ -1,0 +1,45 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayah-046.md
+Ayah: 3:46
+Date: 2026-06-21T12:44:42
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَيُكَلِّمُ=And he will speak | ٱلنَّاسَ=(to) the people | فِى=in | ٱلْمَهْدِ=the cradle | وَكَهْلاً=and (in) maturity; | وَمِنَ=and (he will be) of | ٱلصَّـٰلِحِينَ=the righteous.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate errors found in the portion submitted.
+
+Specific checks performed against the provided reference data:
+
+**Linguistic claims:**
+- "yukallimu = Form II" — confirmed. The verb يُكَلِّمُ shows the doubled ل (shadda on ʿayn al-fiʿl), the defining mark of Form II (faʿʿala). Frontmatter note "Verb forms confirmed against Leeds corpus" is consistent.
+- The description of Form II as "deliberate, repeated, intensive, directed at someone" — standard Arabic morphology. PASS.
+
+**Tafsir attributions:**
+- *Al-Baghawi*: reflection quotes "as a small child, before the time of speech" (qabla awāni al-kalām) and ties it to Maryam 19:30. Source text reads: "صغيرا قبل أوان الكلام" and "كما ذكره في سورة مريم قال: إني عبد الله آتاني الكتاب" — exact match. PASS.
+- *Al-Muyassar*: reflection quotes "the speech of prophethood, of calling and guiding" (taklīm an-nubuwwa wa-d-daʿwa wa-l-irshād). Source text reads: "وهذا تكليم النبوَّة والدعوة والإرشاد" — verbatim match. PASS.
+- *Al-Qurtubi*: reflection quotes maḍjaʿu aṣ-ṣabiyyi fī riḍāʿih. Source text reads: "مضجع الصبي في رضاعه" — exact match. PASS.
+
+**Cross-references:**
+- Maryam 19:23 (Maryam's lament) — correct verse and Arabic phrase yā laytanī mittu qabla hādhā. PASS.
+- Maryam 19:30 (innī ʿabdu-llāh) — correct verse, confirmed by Baghawi's own citation of it. PASS.
+
+**Word count:** Seven words — confirmed against word-by-word breakdown. PASS.
+
+**One note (not a flag):** The "missing middle" observation (cradle and maturity named; childhood and youth left absent) is a legitimate rhetorical-theological inference, presented clearly as an interpretive observation, not attributed to any classical source. This is honest framing and does not constitute a MODERATE flag.
+
+SUMMARY: All factual claims, tafsir citations, root analyses, and cross-references in the submitted portion are accurate against the provided reference data; no errors warrant flagging.

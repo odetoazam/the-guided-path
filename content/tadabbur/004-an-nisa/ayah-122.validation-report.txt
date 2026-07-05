@@ -1,0 +1,40 @@
+Enhanced Validation Report
+File: content/tadabbur/004-an-nisa/ayah-122.md
+Ayah: 4:122
+Date: 2026-06-25T06:17:45
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَٱلَّذِينَ=And those who | ءَامَنُواْ=believe[d] | وَعَمِلُواْ=and do | ٱلصَّـٰلِحَـٰتِ=[the] righteous deeds | سَنُدْخِلُهُمْ=We will admit them | جَنَّـٰتٍ=(in) Gardens | تَجْرِى=flow | مِن=from | تَحْتِهَا=underneath it | ٱلْأَنْهَـٰرُ=the rivers, | خَـٰلِدِينَ=will abide | فِيهَآ=in it | أَبَدًا‌ۖ=forever. | وَعْدَ=A Promise | ٱللَّهِ=(of) Allah | حَقًّا‌ۚ=(in) truth, | وَمَنْ=and who | أَصْدَقُ=(is) truer | مِنَ=than | ٱللَّهِ=Allah | قِيلاً=(in) statement?
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR NOTE] "There is *sawfa* — a fuller word that pushes the action out into a more distant, more drawn-out future" — the sa- vs. sawfa temporal distinction is contested among classical grammarians (Ibn Hisham and Sibawayhi treat them as largely equivalent in remoteness, differing mainly in emphasis). The reflection's framing is the standard pedagogical presentation and not an error, but it is a simplification of a debated grammatical point. No flag warranted.
+
+All verified claims hold:
+
+1. **سَنُدْخِلُهُمْ as causative Form IV** — linguistically correct. Root *dakhala* (Form I, intransitive "to enter") vs. *adkhala* (Form IV, causative "to cause to enter / to admit"). The grammar analysis is accurate.
+
+2. **Al-Muyassar "bi-faḍlihi" citation** — directly confirmed in the provided text: «سيدخلهم الله -بفضله- جنات». The citation is verbatim accurate.
+
+3. **ghurūr vs. ḥaqq contrast** — contextually grounded. 4:120 ends in *ghurūran* (delusion), 4:122 ends in *ḥaqqan* (truth). The rhetorical architecture is accurately described.
+
+4. **Rhetorical question analysis** — Al-Jalalayn confirms: «ومن أي لا أحد أصدق من الله قيلا» — no one is more truthful than Allah. The elative *aṣdaqu* from root Ṣ-d-q is morphologically correct.
+
+5. **14:22 Shaytan quotation** — accurately rendered and correctly attributed.
+
+6. **Arabic text** — matches the authentic source with only minor Unicode encoding variants (ءَامَنُوا۟ vs. ءَامَنُواْ), not errors.
+
+SUMMARY: The reflection is rigorously grounded — all tafsir citations are accurate, the morphological analysis of the causative admission verb is correct, and the al-Muyassar "bi-faḍlihi" gloss is directly verified from the provided source data.

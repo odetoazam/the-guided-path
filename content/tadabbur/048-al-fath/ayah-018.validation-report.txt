@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/048-al-fath/ayah-018.md
+Ayah: 48:18
+Date: 2026-06-08T13:43:30
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: ۞ لَّقَدْ=Certainly | رَضِىَ ٱللَّهُ=Allah was pleased | عَنِ=with | ٱلْمُؤْمِنِينَ=the believers | إِذْ=when | يُبَايِعُونَكَ=they pledged allegiance to you | تَحْتَ=under | ٱلشَّجَرَةِ=the tree, | فَعَلِمَ=and He knew | مَا=what | فِى=(was) in | قُلُوبِهِمْ=their hearts, | فَأَنزَلَ=so He sent down | ٱلسَّكِينَةَ=the tranquility | عَلَيْهِمْ=upon them | وَأَثَـٰبَهُمْ=and rewarded them | فَتْحًا=(with) a victory | قَرِيبًا=near,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MODERATE] "Roughly fourteen hundred of them" (used three times) — Jalālayn explicitly states "ألف وثلثمائة أو أكثر" (1,300 or more). The reflection consistently rounds to 1,400. The "أو أكثر" clause technically admits 1,400, and the figure does appear in Ṣaḥīḥ Bukhārī (not in the supplied reference data), so this is not a fabrication — but the Jalālayn source provided here says 1,300 as the base number. No other provided tafsir gives a figure. Recommend either "roughly 1,300–1,400" or footnoting the ḥadīth source.
+
+- [MINOR / note, not a flag] "Allah…refused to tell us what it was" (re: the hearts) — rhetorically effective, but the provided tafsir does fill the blank: Jalālayn says "من الصدق والوفاء," Muyassar adds "الإيمان والصدق والوفاء." The reflection is making a point about the Quranic text's own silence vs. tafsir commentary, which is a defensible literary observation, not an error. Flag only if the final article presents it as an absolute claim rather than a textual observation.
+
+- All core elements verified against reference data:
+  - *Samura* = thorny acacia ✓ (Jalālayn: "هي سمرة"; Baghawī: "كانت سمرة")
+  - Form III *mufāʿala* (yubāyiʿūnaka) conveying mutuality ✓ (morphology note in file header confirmed; root بيع analysis is lexically sound)
+  - Pledge content = not to flee / fight to the death ✓ (Jalālayn: "أن لا يفروا من الموت"; Baghawī: "يناجزوا قريشا ولا يفروا")
+  - Sakīna = tranquility/reassurance ✓ (Muyassar: "الطمأنينة وثبَّت قلوبهم")
+  - 9:111 "purchase" parallel ✓ (standard, well-attested intertextual reference)
+  - Arabic text in reflection matches authentic Arabic provided ✓
+
+SUMMARY: Solid, well-grounded tadabbur — the only substantive discrepancy is the 1,400 figure against Jalālayn's stated 1,300; acceptable if footnoted to a ḥadīth source, otherwise tighten to "roughly 1,300–1,400."

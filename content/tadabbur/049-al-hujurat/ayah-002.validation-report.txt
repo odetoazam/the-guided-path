@@ -1,0 +1,37 @@
+Enhanced Validation Report
+File: content/tadabbur/049-al-hujurat/ayah-002.md
+Ayah: 49:2
+Date: 2026-06-08T17:53:57
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ=O you who believe! | لَا=(Do) not | تَرْفَعُوٓاْ=raise | أَصْوَٲتَكُمْ=your voices | فَوْقَ=above | صَوْتِ=(the) voice | ٱلنَّبِىِّ=(of) the Prophet, | وَلَا=and (do) not | تَجْهَرُواْ=be loud | لَهُۥ=to him | بِٱلْقَوْلِ=in speech | كَجَهْرِ=like (the) loudness | بَعْضِكُمْ=(of) some of you | لِبَعْضٍ=to others, | أَن=lest | تَحْبَطَ=become worthless | أَعْمَـٰلُكُمْ=your deeds | وَأَنتُمْ=while you | لَا=(do) not | تَشْعُرُونَ=perceive.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE] "The classical commentators, al-Qurtubī and al-Baghawī among them, preserve the moment behind this revelation. A delegation arrives. A question comes up about whom to appoint over them. Abū Bakr names one man. ʿUmar names another." — The Qurtubi excerpt explicitly cites "روى البخاري والترمذي عن ابن أبي مليكة," which is the well-known Bukhari hadith about the Banū Tamīm delegation and the Abū Bakr/ʿUmar appointment dispute. That attribution is supported. However, the provided Baghawī excerpt is truncated mid-chain ("أخبرنا إسماعيل بن عبد القاهر، أخب...") before any narrative content is visible. The Baghawī attribution for this specific occasion cannot be confirmed or denied from the provided reference data. The underlying hadith is authentic and Qurtubi's citation is solid; the Baghawī co-attribution is simply unverifiable here.
+
+Everything else holds:
+
+- **Root r-f-ʿ (رفع) = to lift/elevate**: correct; word-by-word confirms تَرْفَعُواْ = "raise."
+- **فَوْقَ = above/over**: correct.
+- **Root j-h-r (جهر) = to speak loudly/openly**: confirmed by word-by-word (تَجْهَرُواْ = "be loud") and by Jalālayn's gloss distinguishing the second prohibition as governing private address (إذا ناجيتموه).
+- **Two-prohibition distinction (volume vs. register/manner)**: supported. Jalālayn separates the two clauses — first as general speech in his presence (إذا نطقتم), second as direct address to him (إذا ناجيتموه). Muyassar similarly separates "مخاطبتكم له" from "بمناداته."
+- **أَن تَحْبَطَ أَعْمَالُكُمْ = lest deeds become worthless**: correct; Jalālayn glosses as "خشية ذلك" (out of fear of that), consistent with the reflection's framing as a warning rather than a certain outcome.
+- **وَأَنتُمْ لَا تَشْعُرُونَ = while you do not perceive**: root ش-ع-ر (shaʿara = to sense/feel) is correctly handled; the reflection's emphasis on imperceptible loss is textually grounded.
+- **Abū Bakr and ʿUmar as the corrected parties**: Jalālayn confirms "ونزل فيمن كان يخفض صوته عند النبي ﷺ كأبي بكر وعمر وغيرهما," placing them centrally in the revelation context.
+- **Adab framing and habt al-ʿamal**: theologically sound; Baghawī confirms "أمرهم أن يبجلوه ويفخموه" (commanded them to venerate and honor him).
+
+SUMMARY: Linguistically precise and classically grounded throughout; the sole note is that the Baghawī attribution for the specific asbab al-nuzul narrative is unverifiable from the provided excerpt, though the underlying hadith and the Qurtubī citation are fully supported.

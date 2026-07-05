@@ -1,0 +1,27 @@
+Enhanced Validation Report
+File: content/tadabbur/003-aal-imran/ayah-074.md
+Ayah: 3:74
+Date: 2026-06-21T13:45:50
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: يَخْتَصُّ=He chooses | بِرَحْمَتِهِۦ=for His Mercy | مَن=whom | يَشَآءُ‌ۗ=He wills. | وَٱللَّهُ=And Allah | ذُو ٱلْفَضْلِ=(is) the Possessor of Bounty - | ٱلْعَظِيمِ=[the] great.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [INFORMATIONAL] "He singles out for His mercy whom He wills" — kept general throughout; the dominant classical position (Hasan, Mujahid, Baghawi, Qurtubi) specifies *raḥmah* here as prophethood and guidance (*bi-nubuwwatihi wa-hidāyatihi*), and Ibn Jurayj as Islam and the Quran. The reflection's generalization is not wrong — it is explicitly covered by Abu ʿUthmān's ruling preserved in Qurtubi (*"ajmala al-qawl li-yabqā maʿahu rajāʾ al-rājī wa-khawf al-khāʾif"* — he kept the statement unspecified so that hope and fear both remain) — but a reader doing serious tafsir work should know the classical narrowing exists.
+- [INFORMATIONAL] "al-Rāghib, in his Mufradāt, lists al-ikhtiṣāṣ as the act of singling something out and drawing it specially to oneself" — the Mufradāt is not in the provided reference data, so this attribution cannot be verified here. The Form VIII self-directed/appropriative analysis is linguistically standard and uncontroversial; the Rāghib citation is plausible and widely accepted. Flag is for auditability only, not error.
+
+SUMMARY: No factual errors detected — the morphological analysis of يَخْتَصُّ is sound, the Arabic matches exactly, no scholar positions are inverted, and the deliberate generality of the reflection is defensible via the Abu ʿUthmān ruling in Qurtubi; the only gap is that the classical consensus narrowing (*raḥmah* = prophethood/guidance) is unreferenced, which is a transparency note rather than a defect.

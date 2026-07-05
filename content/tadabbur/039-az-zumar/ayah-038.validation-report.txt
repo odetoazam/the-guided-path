@@ -1,0 +1,24 @@
+Enhanced Validation Report
+File: content/tadabbur/039-az-zumar/ayah-038.md
+Ayah: 39:38
+Date: 2026-06-06T04:59:02
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: وَلَئِن=And if | سَأَلْتَهُم=you ask them | مَّنْ=who | خَلَقَ=created | ٱلسَّمَـٰوَٲتِ=the heavens | وَٱلْأَرْضَ=and the earth? | لَيَقُولُنَّ=Surely, they will say, | ٱللَّهُ‌ۚ=`Allah.` | قُلْ=Say, | أَفَرَءَيْتُم=`Then do you see | مَّا=what | تَدْعُونَ=you invoke | مِن دُونِ=besides | ٱللَّهِ=Allah? | إِنْ=if | أَرَادَنِىَ ٱللَّهُ=Allah intended for me | بِضُرٍّ=harm, | هَلْ=are | هُنَّ=they | كَـٰشِفَـٰتُ=removers | ضُرِّهِۦٓ=(of) harm (from) Him; | أَوْ=or | أَرَادَنِى=if He intended for me | بِرَحْمَةٍ=mercy, | هَلْ=are | هُنَّ=they | مُمْسِكَـٰتُ=withholders | رَحْمَتِهِۦ‌ۚ=(of) His mercy?` | قُلْ=Say, | حَسْبِىَ ٱللَّهُ‌ۖ=`Sufficient (is) Allah for me; | عَلَيْهِ=upon Him | يَتَوَكَّلُ=put trust | ٱلْمُتَوَكِّلُونَ=those who trust.`
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: ERROR
+ISSUES:
+- Could not run Claude check: Command failed: claude -p --system-prompt "You are a rigorous Islamic scholarship validator for Ayah
+SUMMARY: Claude semantic check failed

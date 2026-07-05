@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/054-al-qamar/ayah-054.md
+Ayah: 54:54
+Date: 2026-06-10T08:15:35
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: إِنَّ=Indeed, | ٱلْمُتَّقِينَ=the righteous | فِى=(will be) in | جَنَّـٰتٍ=gardens | وَنَهَرٍ=and river,
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [NOTE] "Form VIII often does something remarkable: it takes an action and bends it back toward the doer, for the doer's own benefit" — accurate for *ittaqā* specifically, and the reflection hedges with "often," but Form VIII carries this reflexive/benefactive meaning in many (not all) verbs. The *kasaba/iktasaba* example is textbook. Not an error; a fair pedagogical frame for this particular root.
+- [NOTE] "The Prophet ﷺ is reported in the hadith literature to have used the related word *junnah* — a shield — to describe fasting" — verifiable and correct (Bukhari 3/29, Muslim); the root link to *jnn* is accurate. No issue here, confirming for completeness.
+- [NOTE] The nahar section is truncated in the 8000 chars provided. The tafsir sources contain Al-Ḍaḥḥāk's minority reading (*ضياء وسعة*, "light and spaciousness") and the Aʿraj's variant reading (plural of *nahār* = days, not river). If the reflection cites these, they must be clearly marked as minority positions against the majority consensus that *nahar* is singular-for-genus (*أريد به الجنس*) per Jalalayn, Qurtubi, and Baghawi.
+
+VERIFICATION OF KEY CLAIMS:
+- Root **و-ق-ي** for *muttaqīn* — confirmed, lexically attested (Lisān, Mufradāt)
+- Form VIII nominal analysis for *muttaqīn* — correct; *ittaqā* = Form VIII of *wqy*, active participle *muttaqin*
+- Root **ج-ن-ن** meaning "to cover/conceal" — confirmed; *jinn*, *janīn*, *junnah*, *jannah* etymology family is lexically sound
+- Singular *nahar* as unusual — confirmed by all four tafsir sources; the reflection's structural observation is supported
+- Fivefold destruction narrative and fourfold refrain count — correct (54:17, 22, 32, 40)
+- Structural mirroring with 54:47 (*inna l-mujrimīna fī ḍalālin wa suʿur* → *inna l-muttaqīna fī jannātin wa nahar*) — architecturally accurate, same إِنَّ + subject + فِى pattern
+
+SUMMARY: Through the 8000 characters provided, all morphological, etymological, and structural claims are accurate and well-grounded; the nahar treatment (not yet shown) is the one section requiring careful handling of the minority interpretations.

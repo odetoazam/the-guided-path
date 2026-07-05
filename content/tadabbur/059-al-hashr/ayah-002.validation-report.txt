@@ -1,0 +1,36 @@
+Enhanced Validation Report
+File: content/tadabbur/059-al-hashr/ayah-002.md
+Ayah: 59:2
+Date: 2026-06-12T19:28:38
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: هُوَ=He | ٱلَّذِىٓ=(is) the One Who | أَخْرَجَ=expelled | ٱلَّذِينَ=those who | كَفَرُواْ=disbelieved | مِنْ=from | أَهْلِ=(the) People | ٱلْكِتَـٰبِ=(of) the Scripture | مِن=from | دِيَـٰرِهِمْ=their homes | لِأَوَّلِ=at (the) first | ٱلْحَشْرِ‌ۚ=gathering. | مَا=Not | ظَنَنتُمْ=you think | أَن=that | يَخْرُجُواْ‌ۖ=they would leave, | وَظَنُّوٓاْ=and they thought | أَنَّهُم=that [they] | مَّانِعَتُهُمْ=would defend them | حُصُونُهُم=their fortresses | مِّنَ=against | ٱللَّهِ=Allah. | فَأَتَـٰهُمُ ٱللَّهُ=But Allah came to them | مِنْ=from | حَيْثُ=where | لَمْ=not | يَحْتَسِبُواْ‌ۖ=they expected, | وَقَذَفَ=and He cast | فِى=into | قُلُوبِهِمُ=their hearts | ٱلرُّعْبَ‌ۚ=[the] terror, | يُخْرِبُونَ=they destroyed | بُيُوتَهُم=their houses | بِأَيْدِيهِمْ=with their hands | وَأَيْدِى=and the hands | ٱلْمُؤْمِنِينَ=(of) the believers. | فَٱعْتَبِرُواْ=So take a lesson, | يَـٰٓأُوْلِى ٱلْأَبْصَـٰرِ=O those endowed with insight!
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR — not a flag] "Grammarians call this construction a form of *qaṣr* — restriction, exclusivity" — The reflection accurately notes the emphatic force of the fronted pronoun + *alladhī*, and many classical rhetoricians (including Ibn ʿĀshūr) do classify taqdīm of the munfaṣil pronoun as producing a qaṣr-adjacent restriction effect. This is a defensible and commonly cited rhetorical observation, not a fabrication. It would be an overstatement only if the reflection claimed it was *full* qaṣr via *inna-mā* or *mā…illā* particles — it does not.
+- [UNVERIFIABLE FROM PROVIDED DATA] "the best date-palm land in the region" describing Banu Nadir's holdings — this is extra-textual historical detail absent from the four tafsir excerpts supplied. It is consistent with Sīra sources but cannot be confirmed or denied from the reference data given. No flag, but noted as unverifiable here.
+
+Positive confirmations against reference data:
+- **Banu Nadir identification** — confirmed by Jalalayn, Muyassar, Baghawi, and Qurtubi excerpts
+- **Location near Madinah/Yathrib** — confirmed ("بيثرب" Baghawi; "حول المدينة" Muyassar)
+- **مَا ظَنَنتُمْ addressed to believers** — confirmed by Jalalayn ("أيها المؤمنون")
+- **أَخْرَجَ as Form IV causative of خرج** — morphologically correct
+- **Self-demolition of houses (يُخْرِبُونَ بُيُوتَهُم بِأَيْدِيهِمْ)** — confirmed by ayah text
+- **Two-group framing (Muslims doubting, Banu Nadir confident in fortresses)** — accurately maps to both clauses of the ayah (مَا ظَنَنتُمْ / وَظَنُّوٓا أَنَّهُم مَّانِعَتُهُمْ حُصُونُهُم)
+- **"first gathering" for لِأَوَّلِ ٱلْحَشْرِ** — translation accurate; Jalalayn context (exile to Syria, second under ʿUmar) not mentioned but translation itself is not wrong
+
+SUMMARY: All verifiable claims are accurate against the provided Arabic, morphology, and tafsir reference data; the qaṣr characterization is a defensible rhetorical reading, not an error.

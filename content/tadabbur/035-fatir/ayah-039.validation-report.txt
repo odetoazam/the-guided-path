@@ -1,0 +1,42 @@
+Enhanced Validation Report
+File: content/tadabbur/035-fatir/ayah-039.md
+Ayah: 35:39
+Date: 2026-06-05T00:52:09
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: هُوَ=He | ٱلَّذِى=(is) the One Who | جَعَلَكُمْ=made you | خَلَـٰٓئِفَ=successors | فِى=in | ٱلْأَرْضِۚ=the earth. | فَمَن=And whoever | كَفَرَ=disbelieves, | فَعَلَيْهِ=then upon him | كُفْرُهُۖۥ=(is) his disbelief. | وَلَا=And not | يَزِيدُ=increase | ٱلْكَـٰفِرِينَ=the disbelievers | كُفْرُهُمْ=their disbelief | عِندَ=near | رَبِّهِمْ=their Lord, | إِلَّا=except | مَقْتًاۖ=(in) hatred; | وَلَا=and not | يَزِيدُ=increase | ٱلْكَـٰفِرِينَ=the disbelievers | كُفْرُهُمْ=their disbelief | إِلَّا=except | خَسَارًا=(in) loss.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- No critical or moderate issues found in the excerpt reviewed.
+
+Supporting checks against the reference data:
+
+**Root خ-ل-ف and khalāʾif:** The reflection's analysis ("to come behind, to follow after, to succeed, to take the place of") matches Jalalayn ("يخلف بعضكم بعضا") and Baghawi ("يخلف بعضكم بعضا") exactly. The plural reading is also confirmed: "جمع خليفة" (Jalalayn).
+
+**Qatāda attribution — "خلفًا بعد خلف، قرنًا بعد قرن":** Verified verbatim in Qurtubi: "قال قتادة : خلفا بعد خلف ، قرنا بعد قرن." Attribution is accurate.
+
+**Verb form claims (morphology note):** jaʿala as perfect Form I ✓, kafara as perfect Form I ✓, yazīdu as imperfect Form I ✓ — no Form II or X intensification falsely claimed.
+
+**مَقْتًا = "loathing":** Word-by-word reference gives "hatred"; Muyassar gives "بغضًا وغضبًا." Classical Arabic مقت denotes extreme abhorrence/loathing — a stronger term than Jalalayn's simplified gloss "غضبا." "Loathing" is the more precise rendering, not an overstatement.
+
+**خَسَارًا = "loss":** Confirmed by word-by-word reference and Muyassar ("ضلالا وهلاكًا" — loss/destruction).
+
+**Structural observation (عند ربهم only in first clause):** Textually accurate — the qualifier is present in the first يزيد clause and absent from the second. The interpretive weight the reflection assigns to this is clearly framed as reflection-in-progress, not stated as a documented scholarly position.
+
+**Arabic text in body:** Minor diacritic encoding variants (مَقْتًا vs مَقْتًۭا) are Unicode rendering differences, not textual errors.
+
+SUMMARY: All specific claims in the excerpt — root analysis, Qatāda attribution, verb forms, word translations, and structural observations — are either directly verified by the reference data or accurately framed as interpretive reflection rather than documented fact.

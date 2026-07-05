@@ -1,0 +1,37 @@
+Enhanced Validation Report
+File: content/tadabbur/065-at-talaq/ayah-011.md
+Ayah: 65:11
+Date: 2026-06-13T11:43:16
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: رَّسُولاً=A Messenger | يَتْلُواْ=reciting | عَلَيْكُمْ=to you | ءَايَـٰتِ=(the) Verses | ٱللَّهِ=(of) Allah | مُبَيِّنَـٰتٍ=clear, | لِّيُخْرِجَ=that he may bring out | ٱلَّذِينَ=those who | ءَامَنُواْ=believe | وَعَمِلُواْ=and do | ٱلصَّـٰلِحَـٰتِ=righteous deeds | مِنَ=from | ٱلظُّلُمَـٰتِ=the darkness[es] | إِلَى=towards | ٱلنُّورِ‌ۚ=the light. | وَمَن=And whoever | يُؤْمِنۢ=believes | بِٱللَّهِ=in Allah | وَيَعْمَلْ=and does | صَـٰلِحًا=righteousness, | يُدْخِلْهُ=He will admit him | جَنَّـٰتٍ=(into) Gardens | تَجْرِى=flow | مِن=from | تَحْتِهَا=underneath it | ٱلْأَنْهَـٰرُ=the rivers, | خَـٰلِدِينَ=abiding | فِيهَآ=therein | أَبَدًا‌ۖ=forever. | قَدْ=Indeed, | أَحْسَنَ ٱللَّهُ=Allah has (granted) good | لَهُۥ رِزْقًا=provision for him.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: PASS
+
+ISSUES:
+- [MINOR, UNVERIFIABLE] "a third, which al-Qurtubī and al-Baghawī both preserve: that 'the Reminder' simply **is** the Messenger" — Al-Baghawī's confirmation is clean: "وقيل: 'الذكر' هو الرسول." The Qurtubī excerpt provided ends mid-sentence at "ويكون ذكره الرسول قوله: م" — the fragment is consistent with preserving this view but the excerpt is truncated before the full statement closes. The attribution is *probable* but cannot be fully confirmed from the data supplied. Not flagged as a genuine error given the fragment's direction.
+
+All other verifiable claims check out:
+
+- Az-Zajjāj attribution via al-Qurtubī is exact: "قال الزجاج: إنزال الذكر دليل على إضمار أرسل" → reflection renders this accurately.
+- Al-Baghawī *badal* claim is exact: "(رسولا) بدل من الذكر" → reflection renders as *rasūlan badalun mina-dh-dhikr*, accurate.
+- Al-Muyassar paraphrase "this Reminder is the Messenger, reciting to you the verses" matches: "وهذا الذكر هو الرسول يقرأ عليكم" verbatim.
+- *liyukhrij* as Form IV of خ-ر-ج ("bring out / extract") confirmed by word-by-word reference.
+- *mubayyinātun* analyzed as Form II active participle (muFaʿʿiL pattern, kasra reading) is correct; Jalalayn notes both readings (fatha/kasra), and the authentic Arabic supplied carries the kasra form مُبَيِّنَٰتٍۢ, so the reflection analyzes the correct variant.
+- *rasūlan* as accusative dependent on an implied verb from 65:10 (*qad anzala-llāhu ilaykum dhikrā*) is grammatically sound and confirmed by the tafsir sources.
+- Form IV verbs (yukhrij, yudkhil, āmana/yuʾmin, aḥsana) correctly identified.
+- "Made beautiful for him a provision" for *qad aḥsana-llāhu lahu rizqā* is within the attested semantic range of Form IV ḥ-s-n.
+
+SUMMARY: The reflection is linguistically precise and tafsir-grounded throughout; the only unresolved point is the Qurtubī attribution for one position, which the truncated excerpt suggests is likely correct but cannot be confirmed from the data provided.

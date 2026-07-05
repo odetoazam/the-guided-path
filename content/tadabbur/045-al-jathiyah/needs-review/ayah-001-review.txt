@@ -1,0 +1,10 @@
+VERDICT: CRITICAL
+
+ISSUES:
+- **CRITICAL — wrong Quranic citation:** "a book that says, explicitly: *if this is human speech, produce something like it* (41:13)." Q 41:13 (Fuṣṣilat) is *not* the challenge verse — it reads "But if they turn away, then say: I have warned you of a thunderbolt (ṣāʿiqa) like the thunderbolt of ʿĀd and Thamūd." The taḥaddī ("produce something like it") verses are 2:23, 10:38, 11:13, 17:88, 52:34 — not 41:13. This is a factual misattribution presented as an explicit quotation and must be corrected (likely intended 2:23 or 10:38).
+
+- **MODERATE — attribution stated as fact:** "The Kufan grammarians saw them as *fawātiḥ* — attention-capture devices." *Fawātiḥ al-suwar* simply means "openings of the surahs" (a descriptive category), not specifically a Kufan-grammarian doctrine of attention-capture. The "attention-capture / istiftāḥ" reading is one interpretive view but the specific ascription to "the Kufan grammarians" is not well-grounded and should be softened or sourced.
+
+- Note (not blocking): The composite "al-Jalālayn, al-Muyassar, al-Baghawī, al-Qurṭubī … the conclusion is the same: 'Allah knows best'" is defensible — al-Jalālayn's wording (اللَّه أعْلَم بِمُرادِهِ بِهِ) is confirmed in the tafsir report — but al-Qurṭubī in fact canvasses many views at length before tafwīḍ; the sketch flattens him slightly. Acceptable, but tighten if convenient.
+
+All factual claims about the Ḥawāmīm sequence (surahs 40–46, 45 as the sixth, 42 adding ʿAyn Sīn Qāf, 29 muqaṭṭaʿāt surahs, Meccan provenance, surah-by-surah themes) are accurate.

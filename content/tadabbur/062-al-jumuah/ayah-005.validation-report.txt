@@ -1,0 +1,35 @@
+Enhanced Validation Report
+File: content/tadabbur/062-al-jumuah/ayah-005.md
+Ayah: 62:5
+Date: 2026-06-13T01:10:44
+
+[1] Arabic text: ❌ fail
+    → No tagged Arabic quotations found — add [ayah:S:A] tags to Arabic text
+
+[2] Tafsirs: ar.jalalayn, ar.muyassar, ar.qurtubi, ar.baghawi
+
+[3] Word-by-word: مَثَلُ=(The) likeness | ٱلَّذِينَ=(of) those who | حُمِّلُواْ=were entrusted | ٱلتَّوْرَٮٰةَ=(with) the Taurat | ثُمَّ=then | لَمْ=not | يَحْمِلُوهَا=they bore it, | كَمَثَلِ=(is) like | ٱلْحِمَارِ=the donkey | يَحْمِلُ=who carries | أَسْفَارَۢا‌ۚ=books. | بِئْسَ=Wretched is | مَثَلُ=(the) example | ٱلْقَوْمِ=(of) the people | ٱلَّذِينَ=who | كَذَّبُواْ=deny | بِـَٔـايَـٰتِ=(the) Signs | ٱللَّهِ‌ۚ=(of) Allah. | وَٱللَّهُ=And Allah | لَا=(does) not | يَهْدِى=guide | ٱلْقَوْمَ=the people, | ٱلظَّـٰلِمِينَ=the wrongdoers.
+
+[4] quran-validator: ✅ pass
+  Passed:   0
+  Warnings: 0
+  Failed:   0
+
+⚠️  No tagged Arabic references found. Add ayah tags to enable verification.
+
+[5] Claude semantic check:
+VERDICT: MODERATE
+
+ISSUES:
+- [MODERATE] "Allah uses the root for 'carrying' — *ḥ-m-l* — **four times** in a single verse" — Factually incorrect count. The root ح-م-ل appears **three** times: حُمِّلُوا, يَحْمِلُوهَا, يَحْمِلُ. The word الْحِمَارِ (donkey) derives from the root ح-م-ر (ḥ-m-r), an entirely separate root — as the reflection's *own frontmatter* correctly distinguishes: "Hml حمل, Hmr حمر." The body text contradicts its own morphology note.
+
+- [MODERATE] "al-Qurṭubī even records a second shade from al-Jurjānī: it carries the sense of *kafāla,* of taking on a guarantee, a sacred liability" — The Qurṭubī excerpt provided reads only "وَقَالَ الجُرجاني : هو مِن الحمَالة بم" and is **truncated**. الحمالة can mean guarantee/surety, which is consistent with the kafāla gloss, but the full sentence is cut off. This claim cannot be confirmed as stated from the provided data. It should be hedged as a plausible reading of a fragment, not a confirmed attribution.
+
+CONFIRMED ACCURATE (explicitly verifiable):
+- حُمِّلُوا as passive Form II glossed as *kullifū*: all three sources confirm (Jalālayn: "كُلِّفُوا العمل بها"; Baghawī: "كُلِّفُوا القيام بها"; Qurṭubī: "حملوا التوراة أي كُلِّفُوا العمل بها عن ابن عباس") ✓
+- يَحْمِلُوهَا as Form I (simple, personal carry) vs. حُمِّلُوا as Form II (imposed, entrusted carry) ✓
+- أَسْفَار as "great books": Baghawī confirms "الكتب العظام" (Farrā') ✓
+- كذّبوا as Form II ✓
+- ثُمَّ implying temporal gap/delay ✓
+
+SUMMARY: One factual morphological error (the ح-م-ل root count is three, not four — the donkey's root is ح-م-ر) and one unverifiable scholar attribution from a truncated source; the core linguistic and tafsir claims are otherwise accurate.
