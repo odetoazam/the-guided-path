@@ -30791,6 +30791,10 @@ Topics surfacing from web research (Reddit inaccessible this run; signals from G
 ## Session Log
 | Date | Entity | Articles Written | Notes |
 |------|--------|-----------------|-------|
+| 2026-07-05 | regeneration (tadabbur) | 1 ayah record | 26:167-173 — REGENERATED via regenerate-destroyed.py (enricher-destroyed stub). Validators + completeness gate pass. ✅ |
+| 2026-07-05 | regeneration (tadabbur) | 1 ayah record | 26:116-120 — REGENERATED via regenerate-destroyed.py (enricher-destroyed stub). Validators + completeness gate pass. ✅ |
+| 2026-07-05 | regeneration (tadabbur) | 1 ayah record | 23:112-115 — REGENERATED via regenerate-destroyed.py (enricher-destroyed stub). Validators + completeness gate pass. ✅ |
+| 2026-07-05 | regeneration (tadabbur) | 1 ayah record | 23:104-105 — REGENERATED via regenerate-destroyed.py (enricher-destroyed stub). Validators + completeness gate pass. ✅ |
 | 2026-07-05 | regeneration (tadabbur) | 1 ayah record | 27:67-68 — REPAIRED via regenerate-destroyed.py (enricher-destroyed stub). Validators + completeness gate pass. ✅ |
 | 2026-07-05 | regeneration (tadabbur) | 1 ayah record | 36:20-27 — REPAIRED (canonical Uthmani text swapped into full-verse tags; prose untouched). All validators pass. ✅ |
 | 2026-07-05 | regeneration (tadabbur) | 1 ayah record | 26:218-219 — REPAIRED (canonical Uthmani text swapped into full-verse tags; prose untouched). All validators pass. ✅ |

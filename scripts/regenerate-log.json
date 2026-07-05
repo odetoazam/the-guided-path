@@ -1793,5 +1793,39 @@
     "path": "content/tadabbur/043-az-zukhruf/ayahs-079-080.md",
     "status": "REPAIR_INSUFFICIENT",
     "ref": "43:79-80"
+  },
+  {
+    "path": "content/tadabbur/023-al-muminun/ayahs-104-105.md",
+    "status": "DONE",
+    "ref": "23:104-105",
+    "how": "REGENERATED",
+    "at": "2026-07-05T11:08:56"
+  },
+  {
+    "path": "content/tadabbur/023-al-muminun/ayahs-112-115.md",
+    "status": "DONE",
+    "ref": "23:112-115",
+    "how": "REGENERATED",
+    "at": "2026-07-05T11:14:29"
+  },
+  {
+    "path": "content/tadabbur/026-ash-shuara/ayahs-116-120.md",
+    "status": "DONE",
+    "ref": "26:116-120",
+    "how": "REGENERATED",
+    "at": "2026-07-05T11:22:04"
+  },
+  {
+    "path": "content/tadabbur/026-ash-shuara/ayahs-167-173.md",
+    "status": "DONE",
+    "ref": "26:167-173",
+    "how": "REGENERATED",
+    "at": "2026-07-05T11:29:18"
+  },
+  {
+    "path": "content/tadabbur/043-az-zukhruf/ayahs-079-080.md",
+    "status": "ERROR",
+    "error": "output structurally incomplete: no morphology tags",
+    "ref": "43:79-80"
   }
 ]
