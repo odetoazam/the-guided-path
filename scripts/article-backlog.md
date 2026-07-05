@@ -30791,6 +30791,30 @@ Topics surfacing from web research (Reddit inaccessible this run; signals from G
 ## Session Log
 | Date | Entity | Articles Written | Notes |
 |------|--------|-----------------|-------|
+| 2026-07-05 | regeneration (tadabbur) | 1 ayah record | 55:56 — REGENERATED via regenerate-destroyed.py (enricher-destroyed stub). Validators + completeness gate pass. ✅ |
+| 2026-07-05 | regeneration (tadabbur) | 1 ayah record | ?:50-51 — REGENERATED via regenerate-destroyed.py (enricher-destroyed stub). Validators + completeness gate pass. ✅ |
+| 2026-07-05 | regeneration (tadabbur) | 1 ayah record | 47:29-30 — REGENERATED via regenerate-destroyed.py (enricher-destroyed stub). Validators + completeness gate pass. ✅ |
+| 2026-07-05 | regeneration (tadabbur) | 1 ayah record | 44:25-29 — REGENERATED via regenerate-destroyed.py (enricher-destroyed stub). Validators + completeness gate pass. ✅ |
+| 2026-07-05 | regeneration (tadabbur) | 1 ayah record | 44:17-24 — REGENERATED via regenerate-destroyed.py (enricher-destroyed stub). Validators + completeness gate pass. ✅ |
+| 2026-07-05 | regeneration (tadabbur) | 1 ayah record | 43:88 — REGENERATED via regenerate-destroyed.py (enricher-destroyed stub). Validators + completeness gate pass. ✅ |
+| 2026-07-05 | regeneration (tadabbur) | 1 ayah record | 43:86 — REGENERATED via regenerate-destroyed.py (enricher-destroyed stub). Validators + completeness gate pass. ✅ |
+| 2026-07-05 | regeneration (tadabbur) | 1 ayah record | 43:71 — REGENERATED via regenerate-destroyed.py (enricher-destroyed stub). Validators + completeness gate pass. ✅ |
+| 2026-07-05 | regeneration (tadabbur) | 1 ayah record | 40:79-81 — REGENERATED via regenerate-destroyed.py (enricher-destroyed stub). Validators + completeness gate pass. ✅ |
+| 2026-07-05 | regeneration (tadabbur) | 1 ayah record | 40:1-3 — REGENERATED via regenerate-destroyed.py (enricher-destroyed stub). Validators + completeness gate pass. ✅ |
+| 2026-07-05 | regeneration (tadabbur) | 1 ayah record | 38:73-74 — REGENERATED via regenerate-destroyed.py (enricher-destroyed stub). Validators + completeness gate pass. ✅ |
+| 2026-07-05 | regeneration (tadabbur) | 1 ayah record | 37:137-138 — REGENERATED via regenerate-destroyed.py (enricher-destroyed stub). Validators + completeness gate pass. ✅ |
+| 2026-07-05 | regeneration (tadabbur) | 1 ayah record | 37:102 — REGENERATED via regenerate-destroyed.py (enricher-destroyed stub). Validators + completeness gate pass. ✅ |
+| 2026-07-05 | regeneration (tadabbur) | 1 ayah record | 26:128-130 — REGENERATED via regenerate-destroyed.py (enricher-destroyed stub). Validators + completeness gate pass. ✅ |
+| 2026-07-05 | regeneration (tadabbur) | 1 ayah record | 26:23-29 — REGENERATED via regenerate-destroyed.py (enricher-destroyed stub). Validators + completeness gate pass. ✅ |
+| 2026-07-05 | regeneration (tadabbur) | 1 ayah record | 23:101-103 — REGENERATED via regenerate-destroyed.py (enricher-destroyed stub). Validators + completeness gate pass. ✅ |
+| 2026-07-05 | regeneration (tadabbur) | 1 ayah record | 22:61-62 — REGENERATED via regenerate-destroyed.py (enricher-destroyed stub). Validators + completeness gate pass. ✅ |
+| 2026-07-05 | regeneration (tadabbur) | 1 ayah record | 21:94 — REGENERATED via regenerate-destroyed.py (enricher-destroyed stub). Validators + completeness gate pass. ✅ |
+| 2026-07-05 | regeneration (tadabbur) | 1 ayah record | 21:89 — REGENERATED via regenerate-destroyed.py (enricher-destroyed stub). Validators + completeness gate pass. ✅ |
+| 2026-07-05 | regeneration (tadabbur) | 1 ayah record | 20:97-98 — REGENERATED via regenerate-destroyed.py (enricher-destroyed stub). Validators + completeness gate pass. ✅ |
+| 2026-07-05 | regeneration (tadabbur) | 1 ayah record | 20:92-94 — REGENERATED via regenerate-destroyed.py (enricher-destroyed stub). Validators + completeness gate pass. ✅ |
+| 2026-07-05 | regeneration (tadabbur) | 1 ayah record | 6:21 — REGENERATED via regenerate-destroyed.py (enricher-destroyed stub). Validators + completeness gate pass. ✅ |
+| 2026-07-05 | regeneration (tadabbur) | 1 ayah record | 5:17 — REGENERATED via regenerate-destroyed.py (enricher-destroyed stub). Validators + completeness gate pass. ✅ |
+| 2026-07-05 | regeneration (tadabbur) | 1 ayah record | 5:12 — REGENERATED via regenerate-destroyed.py (enricher-destroyed stub). Validators + completeness gate pass. ✅ |
 | 2026-07-05 | regeneration (tadabbur) | 1 ayah record | 55:58 — REGENERATED via regenerate-destroyed.py (enricher-destroyed stub). Validators + completeness gate pass. ✅ |
 | 2026-07-05 | regeneration (tadabbur) | 1 ayah record | 55:36 — REGENERATED via regenerate-destroyed.py (enricher-destroyed stub). Validators + completeness gate pass. ✅ |
 | 2026-07-05 | regeneration (tadabbur) | 1 ayah record | 43:46-50 — REGENERATED via regenerate-destroyed.py (enricher-destroyed stub). Validators + completeness gate pass. ✅ |
