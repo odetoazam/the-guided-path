@@ -1,11 +1,5 @@
-content/tadabbur/020-ta-ha/ayahs-017-021.md
-content/tadabbur/023-al-muminun/ayahs-023-025.md
 content/tadabbur/023-al-muminun/ayahs-104-105.md
 content/tadabbur/023-al-muminun/ayahs-112-115.md
 content/tadabbur/026-ash-shuara/ayahs-116-120.md
 content/tadabbur/026-ash-shuara/ayahs-167-173.md
-content/tadabbur/026-ash-shuara/ayahs-192-197.md
-content/tadabbur/026-ash-shuara/ayahs-218-219.md
-content/tadabbur/027-an-naml/ayahs-067-068.md
-content/tadabbur/036-ya-sin/ayahs-020-027.md
 content/tadabbur/043-az-zukhruf/ayahs-079-080.md

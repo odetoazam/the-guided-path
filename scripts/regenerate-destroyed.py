@@ -128,9 +128,19 @@ def _norm_ar(s: str) -> str:
     s = re.sub(r"[إأآٱا]", "ا", s)
     s = s.replace("ة", "ه").replace("ى", "ي").replace("ئ", "ء").replace("ؤ", "ء")
     s = s.replace("ۖ", "").replace("ۗ", "").replace("ۚ", "").replace("۝", "")
+    s = s.replace("ـ", "")  # tatweel/kashida
     s = re.sub(r"[\s ]+", "", s)
     s = re.sub(r"[^؀-ۿ]", "", s)
+    s = s.replace("ا", "")  # bare alef, orthographic-only
     return s
+
+
+def _ar_similar(a: str, b: str, threshold: float = 0.9) -> bool:
+    import difflib
+    na, nb = _norm_ar(a), _norm_ar(b)
+    if not na or not nb:
+        return False
+    return difflib.SequenceMatcher(None, na, nb).ratio() >= threshold
 
 
 def _norm_root(root: str) -> str:
@@ -148,6 +158,25 @@ def _verse_norm(surah: str, ayah: str) -> str | None:
     if not entries:
         return None
     return _norm_ar("".join(t.get("word", "") for t in entries))
+
+
+_canonical_cache: dict = {}
+
+
+def canonical_verse(surah: str, ayah: str) -> str | None:
+    """Exact Uthmani verse text from the quran-validator database (the same
+    source the Arabic verifier checks against). Cached per run."""
+    key = f"{surah}:{ayah}"
+    if key in _canonical_cache:
+        return _canonical_cache[key]
+    try:
+        r = subprocess.run(["node", "scripts/canonical-verse.mjs", surah, ayah],
+                           cwd=REPO, capture_output=True, text=True, timeout=30)
+        val = r.stdout.strip() if r.returncode == 0 and r.stdout.strip() else None
+    except Exception:
+        val = None
+    _canonical_cache[key] = val
+    return val
 
 
 def fix_ayah_tags(text: str) -> str:
@@ -185,11 +214,8 @@ def fix_ayah_tags(text: str) -> str:
             last = m.end()          # partial phrase — drop tag, keep Arabic
             continue
 
-        # Full-verse quote — keep the tag, but clean the segment the
-        # verifier will read: markdown bold (**) and any prose after the
-        # Arabic pollute the match. Strip ** and push the trailing prose
-        # to the next line (same markdown paragraph, so rendering is
-        # unchanged). Words are never altered — formatting only.
+        # Full-verse quote. Split the line into the Arabic run and any
+        # trailing prose (strip markdown bold first).
         cleaned = segment.replace("**", "")
         arabic_end = 0
         for i, ch in enumerate(cleaned):
@@ -199,6 +225,15 @@ def fix_ayah_tags(text: str) -> str:
                 break  # first non-Arabic char ends the contiguous quote run
         head = cleaned[:arabic_end].rstrip()
         tail = cleaned[arabic_end:].strip()
+
+        # Replace the model's Arabic with the exact canonical Uthmani text
+        # for this verse — same words, authentic orthography, guaranteed to
+        # pass the verifier. Only done when it IS a full-verse match (the
+        # 0.9 gate above), so we never overwrite a deliberately-partial quote.
+        canon = canonical_verse(surah, ayah)
+        if canon and _ar_similar(canon, head, 0.85):
+            head = canon
+
         replacement = m.group(0) + " " + head
         if tail:
             replacement += "\n" + tail

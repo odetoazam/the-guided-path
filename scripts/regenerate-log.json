@@ -1726,5 +1726,72 @@
     "ref": "55:56",
     "how": "REGENERATED",
     "at": "2026-07-05T10:57:52"
+  },
+  {
+    "path": "content/tadabbur/020-ta-ha/ayahs-017-021.md",
+    "status": "DONE",
+    "ref": "20:17-21",
+    "how": "REPAIRED (canonical-verse swap)",
+    "at": "2026-07-05T11:02:22"
+  },
+  {
+    "path": "content/tadabbur/023-al-muminun/ayahs-023-025.md",
+    "status": "DONE",
+    "ref": "23:23-25",
+    "how": "REPAIRED (canonical-verse swap)",
+    "at": "2026-07-05T11:02:22"
+  },
+  {
+    "path": "content/tadabbur/026-ash-shuara/ayahs-192-197.md",
+    "status": "DONE",
+    "ref": "26:192-197",
+    "how": "REPAIRED (canonical-verse swap)",
+    "at": "2026-07-05T11:02:22"
+  },
+  {
+    "path": "content/tadabbur/026-ash-shuara/ayahs-218-219.md",
+    "status": "DONE",
+    "ref": "26:218-219",
+    "how": "REPAIRED (canonical-verse swap)",
+    "at": "2026-07-05T11:02:22"
+  },
+  {
+    "path": "content/tadabbur/036-ya-sin/ayahs-020-027.md",
+    "status": "DONE",
+    "ref": "36:20-27",
+    "how": "REPAIRED (canonical-verse swap)",
+    "at": "2026-07-05T11:02:22"
+  },
+  {
+    "path": "content/tadabbur/023-al-muminun/ayahs-104-105.md",
+    "status": "REPAIR_INSUFFICIENT",
+    "ref": "23:104-105"
+  },
+  {
+    "path": "content/tadabbur/023-al-muminun/ayahs-112-115.md",
+    "status": "REPAIR_INSUFFICIENT",
+    "ref": "23:112-115"
+  },
+  {
+    "path": "content/tadabbur/026-ash-shuara/ayahs-116-120.md",
+    "status": "REPAIR_INSUFFICIENT",
+    "ref": "26:116-120"
+  },
+  {
+    "path": "content/tadabbur/026-ash-shuara/ayahs-167-173.md",
+    "status": "REPAIR_INSUFFICIENT",
+    "ref": "26:167-173"
+  },
+  {
+    "path": "content/tadabbur/027-an-naml/ayahs-067-068.md",
+    "status": "DONE",
+    "ref": "27:67-68",
+    "how": "REPAIRED",
+    "at": "2026-07-05T11:02:29"
+  },
+  {
+    "path": "content/tadabbur/043-az-zukhruf/ayahs-079-080.md",
+    "status": "REPAIR_INSUFFICIENT",
+    "ref": "43:79-80"
   }
 ]
