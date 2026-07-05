@@ -369,20 +369,42 @@ def generate_reflection(ref: str, skill_text: str) -> tuple[str | None, str | No
         datetime.now().strftime("%Y-%m-%d") + "\", tags. "
         "No commentary before or after the file."
     )
-    out, err = run_claude(system_prompt, user_prompt)
-    if err:
-        return None, err
-    out = out.strip()
-    out = re.sub(r"^```(?:markdown)?\n?", "", out)
-    out = re.sub(r"\n?```$", "", out.rstrip())
-    fm_idx = out.find("---")
-    if fm_idx == -1:
-        return None, "output missing frontmatter"
-    out = out[fm_idx:]
-    ok, why = looks_complete(apply_all_fixes(out))
-    if not ok:
-        return None, f"output structurally incomplete: {why}"
-    return out, None
+    def _attempt(prompt):
+        out, err = run_claude(system_prompt, prompt)
+        if err:
+            return None, err
+        out = out.strip()
+        out = re.sub(r"^```(?:markdown)?\n?", "", out)
+        out = re.sub(r"\n?```$", "", out.rstrip())
+        fm_idx = out.find("---")
+        if fm_idx == -1:
+            return None, "output missing frontmatter"
+        out = out[fm_idx:]
+        ok, why = looks_complete(apply_all_fixes(out))
+        if not ok:
+            return None, f"output structurally incomplete: {why}"
+        return out, None
+
+    out, err = _attempt(user_prompt)
+    if out is not None or (err and err.startswith("SESSION_LIMIT")):
+        return out, err
+
+    # One corrective retry: tell the model exactly what its attempt was
+    # missing. Format lapses (missing tags/frontmatter) usually fix on a
+    # second pass with explicit feedback.
+    print(f"   retry with feedback ({err})...", flush=True)
+    correction = (
+        f"IMPORTANT: A previous attempt at this exact task was REJECTED "
+        f"because: {err}.\n"
+        "Your output MUST:\n"
+        "- start with YAML frontmatter (--- on the very first line)\n"
+        "- include the tagged full-verse quote: <!-- ayah:S:A --> in the "
+        "introduction blockquote\n"
+        "- include individually-wrapped morphology tags, one per line: "
+        "<!-- morphology:S:A:W root=xxx pos=XXX -->\n"
+        "- be the COMPLETE reflection (4000+ words), not a summary\n\n"
+    )
+    return _attempt(correction + user_prompt)
 
 
 def run_validators(path: Path) -> dict:

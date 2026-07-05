@@ -1170,5 +1170,322 @@
     "path": "content/tadabbur/055-ar-rahman/ayah-058.md",
     "status": "STUB_NEEDS_REGEN",
     "ref": "55:58"
+  },
+  {
+    "path": "content/tadabbur/005-al-maidah/ayah-012.md",
+    "status": "ERROR",
+    "error": "API Error: Response stalled mid-stream. The response above may be incomplete.\n",
+    "ref": "5:12"
+  },
+  {
+    "path": "content/tadabbur/005-al-maidah/ayah-017.md",
+    "status": "ERROR",
+    "error": "output structurally incomplete: no morphology tags",
+    "ref": "5:17"
+  },
+  {
+    "path": "content/tadabbur/005-al-maidah/ayah-055.md",
+    "status": "DONE",
+    "ref": "5:55",
+    "how": "REGENERATED",
+    "at": "2026-07-05T01:28:29"
+  },
+  {
+    "path": "content/tadabbur/006-al-anam/ayah-021.md",
+    "status": "ERROR",
+    "error": "output structurally incomplete: no morphology tags",
+    "ref": "6:21"
+  },
+  {
+    "path": "content/tadabbur/020-ta-ha/ayahs-017-021.md",
+    "status": "NEEDS_FIX",
+    "ref": "20:17-21",
+    "arabic_failed_count": 4,
+    "morph_failed_count": 0
+  },
+  {
+    "path": "content/tadabbur/020-ta-ha/ayahs-092-094.md",
+    "status": "ERROR",
+    "error": "output missing frontmatter",
+    "ref": "20:92-94"
+  },
+  {
+    "path": "content/tadabbur/020-ta-ha/ayahs-097-098.md",
+    "status": "ERROR",
+    "error": "output structurally incomplete: no morphology tags",
+    "ref": "20:97-98"
+  },
+  {
+    "path": "content/tadabbur/021-al-anbiya/ayah-089.md",
+    "status": "ERROR",
+    "error": "output structurally incomplete: no tagged ayah quote",
+    "ref": "21:89"
+  },
+  {
+    "path": "content/tadabbur/021-al-anbiya/ayah-094.md",
+    "status": "ERROR",
+    "error": "output missing frontmatter",
+    "ref": "21:94"
+  },
+  {
+    "path": "content/tadabbur/022-al-hajj/ayahs-061-062.md",
+    "status": "ERROR",
+    "error": "output structurally incomplete: no morphology tags",
+    "ref": "22:61-62"
+  },
+  {
+    "path": "content/tadabbur/023-al-muminun/ayahs-015-016.md",
+    "status": "DONE",
+    "ref": "23:15-16",
+    "how": "REGENERATED",
+    "at": "2026-07-05T02:16:07"
+  },
+  {
+    "path": "content/tadabbur/023-al-muminun/ayahs-023-025.md",
+    "status": "ERROR",
+    "error": "output structurally incomplete: no tagged ayah quote",
+    "ref": "23:23-25"
+  },
+  {
+    "path": "content/tadabbur/023-al-muminun/ayahs-101-103.md",
+    "status": "ERROR",
+    "error": "output structurally incomplete: no tagged ayah quote",
+    "ref": "23:101-103"
+  },
+  {
+    "path": "content/tadabbur/023-al-muminun/ayahs-104-105.md",
+    "status": "ERROR",
+    "error": "output missing frontmatter",
+    "ref": "23:104-105"
+  },
+  {
+    "path": "content/tadabbur/023-al-muminun/ayahs-112-115.md",
+    "status": "ERROR",
+    "error": "output structurally incomplete: no morphology tags",
+    "ref": "23:112-115"
+  },
+  {
+    "path": "content/tadabbur/025-al-furqan/ayahs-012-014.md",
+    "status": "DONE",
+    "ref": "25:12-14",
+    "how": "REGENERATED",
+    "at": "2026-07-05T02:45:11"
+  },
+  {
+    "path": "content/tadabbur/026-ash-shuara/ayahs-023-029.md",
+    "status": "ERROR",
+    "error": "output missing frontmatter",
+    "ref": "26:23-29"
+  },
+  {
+    "path": "content/tadabbur/026-ash-shuara/ayahs-040-045.md",
+    "status": "DONE",
+    "ref": "26:40-45",
+    "how": "REGENERATED",
+    "at": "2026-07-05T02:58:28"
+  },
+  {
+    "path": "content/tadabbur/026-ash-shuara/ayahs-105-110.md",
+    "status": "DONE",
+    "ref": "26:105-110",
+    "how": "REGENERATED",
+    "at": "2026-07-05T03:05:05"
+  },
+  {
+    "path": "content/tadabbur/026-ash-shuara/ayahs-116-120.md",
+    "status": "ERROR",
+    "error": "output structurally incomplete: no morphology tags",
+    "ref": "26:116-120"
+  },
+  {
+    "path": "content/tadabbur/026-ash-shuara/ayahs-128-130.md",
+    "status": "ERROR",
+    "error": "output structurally incomplete: no tagged ayah quote",
+    "ref": "26:128-130"
+  },
+  {
+    "path": "content/tadabbur/026-ash-shuara/ayahs-141-145.md",
+    "status": "DONE",
+    "ref": "26:141-145",
+    "how": "REGENERATED",
+    "at": "2026-07-05T03:23:05"
+  },
+  {
+    "path": "content/tadabbur/026-ash-shuara/ayahs-167-173.md",
+    "status": "ERROR",
+    "error": "output structurally incomplete: no morphology tags",
+    "ref": "26:167-173"
+  },
+  {
+    "path": "content/tadabbur/026-ash-shuara/ayahs-181-183.md",
+    "status": "DONE",
+    "ref": "26:181-183",
+    "how": "REGENERATED",
+    "at": "2026-07-05T03:36:27"
+  },
+  {
+    "path": "content/tadabbur/026-ash-shuara/ayahs-192-197.md",
+    "status": "ERROR",
+    "error": "output structurally incomplete: no morphology tags",
+    "ref": "26:192-197"
+  },
+  {
+    "path": "content/tadabbur/026-ash-shuara/ayahs-218-219.md",
+    "status": "NEEDS_FIX",
+    "ref": "26:218-219",
+    "arabic_failed_count": 1,
+    "morph_failed_count": 0
+  },
+  {
+    "path": "content/tadabbur/027-an-naml/ayahs-067-068.md",
+    "status": "ERROR",
+    "error": "output missing frontmatter",
+    "ref": "27:67-68"
+  },
+  {
+    "path": "content/tadabbur/036-ya-sin/ayahs-020-027.md",
+    "status": "ERROR",
+    "error": "output missing frontmatter",
+    "ref": "36:20-27"
+  },
+  {
+    "path": "content/tadabbur/037-as-saffat/ayah-102.md",
+    "status": "ERROR",
+    "error": "output structurally incomplete: no morphology tags",
+    "ref": "37:102"
+  },
+  {
+    "path": "content/tadabbur/037-as-saffat/ayahs-050-061.md",
+    "status": "DONE",
+    "ref": "37:50-61",
+    "how": "REGENERATED",
+    "at": "2026-07-05T04:10:57"
+  },
+  {
+    "path": "content/tadabbur/037-as-saffat/ayahs-137-138.md",
+    "status": "ERROR",
+    "error": "output structurally incomplete: no morphology tags",
+    "ref": "37:137-138"
+  },
+  {
+    "path": "content/tadabbur/038-sad/ayahs-073-074.md",
+    "status": "ERROR",
+    "error": "output missing frontmatter",
+    "ref": "38:73-74"
+  },
+  {
+    "path": "content/tadabbur/040-ghafir/ayahs-001-003.md",
+    "status": "ERROR",
+    "error": "output structurally incomplete: no morphology tags",
+    "ref": "40:1-3"
+  },
+  {
+    "path": "content/tadabbur/040-ghafir/ayahs-079-081.md",
+    "status": "ERROR",
+    "error": "output structurally incomplete: no morphology tags",
+    "ref": "40:79-81"
+  },
+  {
+    "path": "content/tadabbur/041-fussilat/ayahs-001-004.md",
+    "status": "DONE",
+    "ref": "41:1-4",
+    "how": "REGENERATED",
+    "at": "2026-07-05T04:41:16"
+  },
+  {
+    "path": "content/tadabbur/041-fussilat/ayahs-027-028.md",
+    "status": "DONE",
+    "ref": "41:27-28",
+    "how": "REGENERATED",
+    "at": "2026-07-05T04:46:48"
+  },
+  {
+    "path": "content/tadabbur/043-az-zukhruf/ayah-071.md",
+    "status": "ERROR",
+    "error": "output structurally incomplete: no tagged ayah quote",
+    "ref": "43:71"
+  },
+  {
+    "path": "content/tadabbur/043-az-zukhruf/ayah-082.md",
+    "status": "DONE",
+    "ref": "43:82",
+    "how": "REGENERATED",
+    "at": "2026-07-05T04:59:02"
+  },
+  {
+    "path": "content/tadabbur/043-az-zukhruf/ayah-083.md",
+    "status": "DONE",
+    "ref": "43:83",
+    "how": "REGENERATED",
+    "at": "2026-07-05T05:05:41"
+  },
+  {
+    "path": "content/tadabbur/043-az-zukhruf/ayah-086.md",
+    "status": "ERROR",
+    "error": "output structurally incomplete: no tagged ayah quote",
+    "ref": "43:86"
+  },
+  {
+    "path": "content/tadabbur/043-az-zukhruf/ayah-088.md",
+    "status": "ERROR",
+    "error": "output missing frontmatter",
+    "ref": "43:88"
+  },
+  {
+    "path": "content/tadabbur/043-az-zukhruf/ayahs-046-050.md",
+    "status": "DONE",
+    "ref": "43:46-50",
+    "how": "REGENERATED",
+    "at": "2026-07-05T05:25:25"
+  },
+  {
+    "path": "content/tadabbur/043-az-zukhruf/ayahs-079-080.md",
+    "status": "ERROR",
+    "error": "output structurally incomplete: no morphology tags",
+    "ref": "43:79-80"
+  },
+  {
+    "path": "content/tadabbur/044-ad-dukhan/ayahs-017-024.md",
+    "status": "ERROR",
+    "error": "output structurally incomplete: no morphology tags",
+    "ref": "44:17-24"
+  },
+  {
+    "path": "content/tadabbur/044-ad-dukhan/ayahs-025-029.md",
+    "status": "ERROR",
+    "error": "output structurally incomplete: no morphology tags",
+    "ref": "44:25-29"
+  },
+  {
+    "path": "content/tadabbur/047-muhammad/ayahs-029-030.md",
+    "status": "ERROR",
+    "error": "output structurally incomplete: no morphology tags",
+    "ref": "47:29-30"
+  },
+  {
+    "path": "content/tadabbur/053-an-najm/needs-review/ayahs-050-051.md",
+    "status": "ERROR",
+    "error": "output missing frontmatter",
+    "ref": "?:50-51"
+  },
+  {
+    "path": "content/tadabbur/055-ar-rahman/ayah-036.md",
+    "status": "DONE",
+    "ref": "55:36",
+    "how": "REGENERATED",
+    "at": "2026-07-05T06:02:41"
+  },
+  {
+    "path": "content/tadabbur/055-ar-rahman/ayah-056.md",
+    "status": "ERROR",
+    "error": "output structurally incomplete: no morphology tags",
+    "ref": "55:56"
+  },
+  {
+    "path": "content/tadabbur/055-ar-rahman/ayah-058.md",
+    "status": "DONE",
+    "ref": "55:58",
+    "how": "REGENERATED",
+    "at": "2026-07-05T06:12:55"
   }
 ]
