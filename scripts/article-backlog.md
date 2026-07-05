@@ -30791,6 +30791,7 @@ Topics surfacing from web research (Reddit inaccessible this run; signals from G
 ## Session Log
 | Date | Entity | Articles Written | Notes |
 |------|--------|-----------------|-------|
+| 2026-07-05 | regeneration (tadabbur) | 1 ayah record | 43:79-80 — REGENERATED (az-Zukhruf, the twisted plot: root ب-ر-م abrama/mubrimun; najwa/sirr overheard; recording angels). Frontmatter + morphology backfilled from corpus. All validators pass. ✅ |
 | 2026-07-05 | regeneration (tadabbur) | 1 ayah record | 26:167-173 — REGENERATED via regenerate-destroyed.py (enricher-destroyed stub). Validators + completeness gate pass. ✅ |
 | 2026-07-05 | regeneration (tadabbur) | 1 ayah record | 26:116-120 — REGENERATED via regenerate-destroyed.py (enricher-destroyed stub). Validators + completeness gate pass. ✅ |
 | 2026-07-05 | regeneration (tadabbur) | 1 ayah record | 23:112-115 — REGENERATED via regenerate-destroyed.py (enricher-destroyed stub). Validators + completeness gate pass. ✅ |

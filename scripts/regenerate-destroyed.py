@@ -52,6 +52,7 @@ RANGE_RE  = re.compile(r"^ayahs-(\d+)-(\d+)$")
 CORPUS_FILE = REPO / "scripts" / ".corpus-cache" / "quranic-corpus.json"
 ARABIC_RE   = re.compile(r"[؀-ۿ]")
 AYAH_TAG_RE = re.compile(r"<!--\s*ayah:(\d+):(\d+)\s*-->")
+_FM_DELIM_RE = re.compile(r"^---\\n.*?\\n---\\n", re.DOTALL)
 MORPH_TAG_RE = re.compile(
     r"<!--\s*morphology:(\d+):(\d+):(\d+)\s+(?:root=(\S+)\s+)?pos=(\S+?)\s*-->")
 
@@ -300,10 +301,55 @@ def fix_morphology_tags(text: str) -> str:
     return MORPH_TAG_RE.sub(_fix, text)
 
 
-def apply_all_fixes(text: str) -> str:
+def _expand_ayahs(ref: str):
+    """'43:79-80' -> [('43','79'), ('43','80')]; '3:8' -> [('3','8')]."""
+    surah, rest = ref.split(":")
+    if "-" in rest:
+        a, b = rest.split("-")
+        return [(surah, str(n)) for n in range(int(a), int(b) + 1)]
+    return [(surah, rest)]
+
+
+def ensure_morphology_tags(text: str, ref: str) -> str:
+    """If a reflection is missing its Step 0 morphology tags (the model
+    sometimes writes the whole reflection but skips them), synthesize a
+    baseline set from the authoritative corpus — every content word's
+    root+POS is deterministic — and inject them right after the frontmatter.
+    Only fires when there are essentially no tags already, so we never
+    clobber a real Step 0 table."""
+    if len(MORPH_TAG_RE.findall(text)) >= 3:
+        return text
+    _load_corpus()
+    if not _corpus_cache:
+        return text
+    tags = []
+    for surah, ayah in _expand_ayahs(ref):
+        entries = _corpus_cache.get(f"{surah}:{ayah}")
+        if not entries:
+            continue
+        for i, e in enumerate(entries):
+            if e.get("root"):
+                tags.append(
+                    f"<!-- morphology:{surah}:{ayah}:{i+1} "
+                    f"root={e['root']} pos={e.get('pos','N')} -->")
+    if not tags:
+        return text
+    block = "<!-- Step 0 morphology grounding (auto-filled from corpus) -->\n" + "\n".join(tags)
+    fm = _FM_DELIM_RE.match(text)
+    insert_at = fm.end() if fm else 0
+    return text[:insert_at] + "\n" + block + "\n\n" + text[insert_at:]
+
+
+def apply_all_fixes(text: str, ref: str | None = None) -> str:
     """Run all repairers to a fixpoint — one repair can expose another
     (e.g. splitting a bold-wrapped quote reveals a partial tag), so iterate
-    until the text stops changing (max 4 rounds as a safety valve)."""
+    until the text stops changing (max 4 rounds as a safety valve).
+
+    When `ref` is given, also backfill missing Step 0 morphology tags from
+    the corpus (the model occasionally writes the whole reflection but omits
+    them)."""
+    if ref:
+        text = ensure_morphology_tags(text, ref)
     for _ in range(4):
         before = text
         text = fix_bare_morphology_lines(text)
@@ -415,7 +461,7 @@ def generate_reflection(ref: str, skill_text: str) -> tuple[str | None, str | No
         if fm_idx == -1:
             return None, "output missing frontmatter"
         out = out[fm_idx:]
-        ok, why = looks_complete(apply_all_fixes(out))
+        ok, why = looks_complete(apply_all_fixes(out, ref))
         if not ok:
             return None, f"output structurally incomplete: {why}"
         return out, None
@@ -506,7 +552,7 @@ def try_repair(path: Path, rel_path: str, ref: str) -> dict | None:
     file passes everything afterward, else None (leaving the file as-is on
     disk — repairs are conservative and never remove prose)."""
     original = path.read_text()
-    repaired = apply_all_fixes(original)
+    repaired = apply_all_fixes(original, ref)
     ok, _why = looks_complete(repaired)
     if not ok:
         return None
@@ -555,7 +601,7 @@ def process_file(rel_path: str, skill_text: str | None, repair_only: bool) -> di
         status = "ABORT_SESSION_LIMIT" if err.startswith("SESSION_LIMIT") else "ERROR"
         return {"path": rel_path, "status": status, "error": err, "ref": ref}
 
-    content = apply_all_fixes(content)
+    content = apply_all_fixes(content, ref)
     path.write_text(content)
 
     val = run_validators(path)

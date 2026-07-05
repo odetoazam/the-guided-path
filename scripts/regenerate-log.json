@@ -1827,5 +1827,12 @@
     "status": "ERROR",
     "error": "output structurally incomplete: no morphology tags",
     "ref": "43:79-80"
+  },
+  {
+    "path": "content/tadabbur/043-az-zukhruf/ayahs-079-080.md",
+    "status": "DONE",
+    "ref": "43:79-80",
+    "how": "REGENERATED (frontmatter + morphology backfilled)",
+    "at": "2026-07-05T11:47:10"
   }
 ]
