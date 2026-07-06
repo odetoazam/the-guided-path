@@ -10,27 +10,27 @@ generated_by: "opus-tadabbur"
 
 <!-- STEP 0: LINGUISTIC GROUNDING TABLE (Internal — for verification) -->
 <!-- Corpus uses flat sub-word token positions. Tagging content words only. -->
-<!-- morphology:49:12:3 root=أمن pos=V --> <!-- ءَامَنُ — verb, Form IV, perfect (who have believed) -->
-<!-- morphology:49:12:4 root=جنب pos=V --> <!-- ٱجْتَنِبُ — verb, Form VIII imperative 2mp (avoid) -->
-<!-- morphology:49:12:5 root=كثر pos=N --> <!-- كَثِيرًا — adjective/noun, accusative, indefinite (much) -->
-<!-- morphology:49:12:10 root=ظنن pos=N --> <!-- ظَّنِّ — verbal noun, genitive (assumption) -->
-<!-- morphology:49:12:16 root=بعض pos=N --> <!-- بَعْضَ — noun, accusative (some) -->
-<!-- morphology:49:12:10 root=ظنن pos=N --> <!-- ظَّنِّ — verbal noun, genitive (assumption) -->
-<!-- morphology:49:12:11 root=أثم pos=N --> <!-- إِثْمٌ — noun, nominative, indefinite (sin) -->
-<!-- morphology:49:12:13 root=جسس pos=V --> <!-- تَجَسَّسُ — verb, Form V imperfect 2mp (spy) -->
-<!-- morphology:49:12:15 root=غيب pos=V --> <!-- يَغْتَب — verb, Form VIII imperfect jussive 3ms (backbite) -->
-<!-- morphology:49:12:17 root=بعض pos=N --> <!-- بَّعْضُ — noun, nominative (some of you) -->
-<!-- morphology:49:12:17 root=بعض pos=N --> <!-- بَعْضًا — noun, accusative (one another) -->
-<!-- morphology:49:12:18 root=حبب pos=V --> <!-- يُحِبُّ — verb, Form IV imperfect 3ms (love) -->
-<!-- morphology:49:12:19 root=أحد pos=N --> <!-- أَحَدُ — noun (one) -->
-<!-- morphology:49:12:21 root=أكل pos=V --> <!-- يَأْكُلَ — verb, Form I imperfect subjunctive (eat) -->
-<!-- morphology:49:12:22 root=لحم pos=N --> <!-- لَحْمَ — noun, accusative (flesh) -->
-<!-- morphology:49:12:23 root=أخو pos=N --> <!-- أَخِي — noun, genitive (brother) -->
-<!-- morphology:49:12:24 root=موت pos=N --> <!-- مَيْتًا — adjective/noun, accusative (dead), ḥāl -->
-<!-- morphology:49:12:25 root=كره pos=V --> <!-- كَرِهْ — verb, Form I perfect 2mp (detested) -->
-<!-- morphology:49:12:26 root=وقي pos=V --> <!-- ٱتَّقُ — verb, Form VIII imperative 2mp (guard/fear) -->
-<!-- morphology:49:12:30 root=توب pos=N --> <!-- تَوَّابٌ — intensive active participle (Ever-Returning) -->
-<!-- morphology:49:12:31 root=رحم pos=N --> <!-- رَّحِيمٌ — intensive adjective/divine name (Merciful) -->
+<!-- morphology:49:12:5 root=أمن pos=V --> <!-- ءَامَنُ — verb, Form IV, perfect (who have believed) -->
+<!-- morphology:49:12:7 root=جنب pos=V --> <!-- ٱجْتَنِبُ — verb, Form VIII imperative 2mp (avoid) -->
+<!-- morphology:49:12:9 root=كثر pos=N --> <!-- كَثِيرًا — adjective/noun, accusative, indefinite (much) -->
+<!-- morphology:49:12:12 root=ظنن pos=N --> <!-- ظَّنِّ — verbal noun, genitive (assumption) -->
+<!-- morphology:49:12:14 root=بعض pos=N --> <!-- بَعْضَ — noun, accusative (some) -->
+<!-- morphology:49:12:12 root=ظنن pos=N --> <!-- ظَّنِّ — verbal noun, genitive (assumption) -->
+<!-- morphology:49:12:17 root=أثم pos=N --> <!-- إِثْمٌ — noun, nominative, indefinite (sin) -->
+<!-- morphology:49:12:20 root=جسس pos=V --> <!-- تَجَسَّسُ — verb, Form V imperfect 2mp (spy) -->
+<!-- morphology:49:12:24 root=غيب pos=V --> <!-- يَغْتَب — verb, Form VIII imperfect jussive 3ms (backbite) -->
+<!-- morphology:49:12:14 root=بعض pos=N --> <!-- بَّعْضُ — noun, nominative (some of you) -->
+<!-- morphology:49:12:14 root=بعض pos=N --> <!-- بَعْضًا — noun, accusative (one another) -->
+<!-- morphology:49:12:29 root=حبب pos=V --> <!-- يُحِبُّ — verb, Form IV imperfect 3ms (love) -->
+<!-- morphology:49:12:30 root=أحد pos=N --> <!-- أَحَدُ — noun (one) -->
+<!-- morphology:49:12:33 root=أكل pos=V --> <!-- يَأْكُلَ — verb, Form I imperfect subjunctive (eat) -->
+<!-- morphology:49:12:34 root=لحم pos=N --> <!-- لَحْمَ — noun, accusative (flesh) -->
+<!-- morphology:49:12:35 root=أخو pos=N --> <!-- أَخِي — noun, genitive (brother) -->
+<!-- morphology:49:12:37 root=موت pos=N --> <!-- مَيْتًا — adjective/noun, accusative (dead), ḥāl -->
+<!-- morphology:49:12:39 root=كره pos=V --> <!-- كَرِهْ — verb, Form I perfect 2mp (detested) -->
+<!-- morphology:49:12:43 root=وقي pos=V --> <!-- ٱتَّقُ — verb, Form VIII imperative 2mp (guard/fear) -->
+<!-- morphology:49:12:48 root=توب pos=N --> <!-- تَوَّابٌ — intensive active participle (Ever-Returning) -->
+<!-- morphology:49:12:49 root=رحم pos=N --> <!-- رَّحِيمٌ — intensive adjective/divine name (Merciful) -->
 
 ---
 

@@ -8,9 +8,25 @@ validated: true
 created: "2026-04-02"
 ---
 
-<!-- ayah:39:53 -->
+<!-- Step 0 morphology grounding (auto-filled from corpus) -->
+<!-- morphology:39:53:1 root=قول pos=V -->
+<!-- morphology:39:53:3 root=عبد pos=N -->
+<!-- morphology:39:53:6 root=سرف pos=V -->
+<!-- morphology:39:53:9 root=نفس pos=N -->
+<!-- morphology:39:53:12 root=قنط pos=V -->
+<!-- morphology:39:53:15 root=رحم pos=N -->
+<!-- morphology:39:53:16 root=أله pos=N -->
+<!-- morphology:39:53:18 root=أله pos=N -->
+<!-- morphology:39:53:19 root=غفر pos=V -->
+<!-- morphology:39:53:21 root=ذنب pos=N -->
+<!-- morphology:39:53:22 root=جمع pos=N -->
+<!-- morphology:39:53:27 root=غفر pos=N -->
+<!-- morphology:39:53:29 root=رحم pos=N -->
 
-[ayah:39:53] ۞ قُلْ يَـٰعِبَادِىَ ٱلَّذِينَ أَسْرَفُوا۟ عَلَىٰٓ أَنفُسِهِمْ لَا تَقْنَطُوا۟ مِن رَّحْمَةِ ٱللَّهِ ۚ إِنَّ ٱللَّهَ يَغْفِرُ ٱلذُّنُوبَ جَمِيعًا ۚ إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ
+
+
+
+[ayah:39:53] ۞ قُلْ يَـٰعِبَادِىَ ٱلَّذِينَ أَسْرَفُوا۟ عَلَىٰٓ أَنفُسِهِمْ لَا تَقْنَطُوا۟ مِن رَّحْمَةِ ٱللَّهِ ۚ إِنَّ ٱللَّهَ يَغْفِرُ ٱلذُّنُوبَ جَمِيعًا ۚ إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ
 
 *Qul yā ʿibādiya-lladhīna asrafū ʿalā anfusihim lā taqnaṭū min raḥmatillāh. Innallāha yaghfiru-dhdhunūba jamīʿā. Innahū huwa al-Ghafūru ar-Raḥīm.*
 
@@ -133,26 +149,26 @@ One-sentence distillation (drafted now):
 Proceed — all anchor points, themes, and architecture survive scrutiny.
 -->
 
-<!-- morphology:39:53:1 root=qwl pos=V form=I -->
-<!-- morphology:39:53:2 root=Ebd pos=N -->
-<!-- morphology:39:53:3 root=— pos=REL -->
-<!-- morphology:39:53:4 root=srf pos=V form=IV -->
-<!-- morphology:39:53:5 root=— pos=P -->
-<!-- morphology:39:53:6 root=nfs pos=N -->
-<!-- morphology:39:53:7 root=— pos=NEG -->
-<!-- morphology:39:53:8 root=qnT pos=V form=I -->
-<!-- morphology:39:53:9 root=— pos=P -->
-<!-- morphology:39:53:10 root=rHm pos=N -->
-<!-- morphology:39:53:11 root=— pos=PN -->
-<!-- morphology:39:53:12 root=— pos=ACC -->
-<!-- morphology:39:53:13 root=— pos=PN -->
-<!-- morphology:39:53:14 root=gfr pos=V form=I -->
-<!-- morphology:39:53:15 root=*nb pos=N -->
-<!-- morphology:39:53:16 root=jmE pos=N -->
-<!-- morphology:39:53:17 root=— pos=ACC -->
-<!-- morphology:39:53:18 root=— pos=PRON -->
-<!-- morphology:39:53:19 root=gfr pos=N -->
-<!-- morphology:39:53:20 root=rHm pos=N -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
@@ -178,7 +194,7 @@ Let's find it.
 
 ### "My Servants" — The Word That Should Have Been Withdrawn
 
-[ayah:39:53] قُلْ يَـٰعِبَادِىَ
+ قُلْ يَـٰعِبَادِىَ
 
 Notice the first thing Allah does. Before He mentions the sin. Before the prohibition. Before the promise. He addresses them.
 
@@ -200,7 +216,7 @@ The possessive is not withdrawn. The relationship is not severed by the action. 
 
 Now watch what Allah does. Because it's even more extraordinary than the parent analogy. The parent says "my kid" and *then* you find out what the kid did. Allah does it in the opposite order — or rather, in the *same breath*. He says "My servants" and then *immediately identifies them by their worst:*
 
-[ayah:39:53] يَـٰعِبَادِىَ ٱلَّذِينَ أَسْرَفُوا۟
+ يَـٰعِبَادِىَ ٱلَّذِينَ أَسْرَفُوا۟
 
 "My servants **who have been extravagant.**"
 
@@ -220,7 +236,7 @@ Stay with me — because there's a second layer here that most people miss entir
 
 **Who is delivering this message?**
 
-[ayah:39:53] قُلْ
+ قُلْ
 
 *Qul* — "Say." This is an imperative addressed to the Prophet Muhammad ﷺ. Allah is not addressing the sinners directly. He is telling His Beloved ﷺ to carry this message to them.
 
@@ -234,7 +250,7 @@ The *qul* is not just a command to the Prophet ﷺ. It's mercy before the mercy.
 
 ### The Damage Report — Who Got Hurt?
 
-[ayah:39:53] أَسْرَفُوا۟ عَلَىٰٓ أَنفُسِهِمْ
+ أَسْرَفُوا۟ عَلَىٰٓ أَنفُسِهِمْ
 
 Now let's look at how Allah describes the sin. Because this is where the entire psychology of guilt in this ayah is constructed.
 
@@ -282,7 +298,7 @@ Notice what's absent, too. Allah does not name the sins. He says they were "extr
 
 ### The Prohibition That Changes Everything
 
-[ayah:39:53] لَا تَقْنَطُوا۟ مِن رَّحْمَةِ ٱللَّهِ
+ لَا تَقْنَطُوا۟ مِن رَّحْمَةِ ٱللَّهِ
 
 Here is the command. And it is not what you'd expect.
 
@@ -332,7 +348,7 @@ The sin you committed? It happened. You'll need to address it. But despairing th
 
 ### The Promise — And Why the Tense Matters
 
-[ayah:39:53] إِنَّ ٱللَّهَ يَغْفِرُ ٱلذُّنُوبَ جَمِيعًا
+ إِنَّ ٱللَّهَ يَغْفِرُ ٱلذُّنُوبَ جَمِيعًا
 
 Now the promise. And every word in this promise is doing maximum work.
 
@@ -454,7 +470,7 @@ But if sin is primarily self-harm — if what you did was damage *yourself* — 
 
 And that is exactly who Allah presents Himself as in the closing of this ayah.
 
-[ayah:39:53] إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ
+ إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ
 
 **Al-Ghafūr. Ar-Raḥīm.** The Perpetually Forgiving. The Bestower of Mercy.
 

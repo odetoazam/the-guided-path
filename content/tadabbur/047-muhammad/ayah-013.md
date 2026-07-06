@@ -20,6 +20,16 @@ concepts: [categorical-negation, meaning-over-form, rhetorical-innumerability, t
 related_ayahs: ["47:11", "8:30", "9:40", "22:45", "47:10", "40:21", "30:9"]
 ---
 
+<!-- Step 0 morphology grounding (auto-filled from corpus) -->
+<!-- morphology:47:13:4 root=قري pos=N -->
+<!-- morphology:47:13:6 root=شدد pos=N -->
+<!-- morphology:47:13:7 root=قوي pos=N -->
+<!-- morphology:47:13:9 root=قري pos=N -->
+<!-- morphology:47:13:12 root=خرج pos=V -->
+<!-- morphology:47:13:14 root=هلك pos=V -->
+<!-- morphology:47:13:19 root=نصر pos=N -->
+
+
 <!-- morphology pruned: key roots ($dd/shidda, hlk/halāk, nSr/naṣr, qry/qarya, qwy/quwwa, xrj/khurūj→Form IV akhraja) documented in classical lexicons (Lisān al-ʿArab, Mufradāt al-Rāghib); linguistic journey draws only on lexically attested meanings. Verb forms per Leeds corpus: akhrajatka (IV, perfect), ahlaknāhum (IV, perfect). -->
 
 # The Town That Cast You Out — and the Ruins That Were Stronger

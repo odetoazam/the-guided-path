@@ -20,6 +20,36 @@ concepts: [tawakkul, ghurur, i'tibar, divine-power, false-security, qasr, dhann]
 related_ayahs: ["59:1", "59:3", "65:3", "8:12", "3:160", "59:21"]
 ---
 
+<!-- Step 0 morphology grounding (auto-filled from corpus) -->
+<!-- morphology:59:2:3 root=خرج pos=V -->
+<!-- morphology:59:2:5 root=كفر pos=V -->
+<!-- morphology:59:2:8 root=أهل pos=N -->
+<!-- morphology:59:2:10 root=كتب pos=N -->
+<!-- morphology:59:2:12 root=دور pos=N -->
+<!-- morphology:59:2:15 root=أول pos=N -->
+<!-- morphology:59:2:17 root=حشر pos=N -->
+<!-- morphology:59:2:19 root=ظنن pos=V -->
+<!-- morphology:59:2:22 root=خرج pos=V -->
+<!-- morphology:59:2:25 root=ظنن pos=V -->
+<!-- morphology:59:2:29 root=منع pos=N -->
+<!-- morphology:59:2:31 root=حصن pos=N -->
+<!-- morphology:59:2:34 root=أله pos=N -->
+<!-- morphology:59:2:36 root=أتي pos=V -->
+<!-- morphology:59:2:38 root=أله pos=N -->
+<!-- morphology:59:2:40 root=حيث pos=N -->
+<!-- morphology:59:2:42 root=حسب pos=V -->
+<!-- morphology:59:2:45 root=قذف pos=V -->
+<!-- morphology:59:2:47 root=قلب pos=N -->
+<!-- morphology:59:2:50 root=رعب pos=N -->
+<!-- morphology:59:2:51 root=خرب pos=V -->
+<!-- morphology:59:2:53 root=بيت pos=N -->
+<!-- morphology:59:2:56 root=يدي pos=N -->
+<!-- morphology:59:2:59 root=يدي pos=N -->
+<!-- morphology:59:2:61 root=أمن pos=N -->
+<!-- morphology:59:2:63 root=عبر pos=V -->
+<!-- morphology:59:2:68 root=بصر pos=N -->
+
+
 <!-- morphology pruned: key roots (xrj, kfr, Ahl, ktb, dwr, Awl, H$r, Znn, mnE, HSn, Alh, Aty, Hsb, q*f, qlb, rEb, xrb, byt, ydy, Amn, Ebr, Awl, bSr) documented in classical lexicons (Lisān al-ʿArab, Mufradāt al-Rāghib); linguistic journey draws only on lexically attested meanings. Verb-form functions verified against Leeds morphology: أَخْرَجَ (xrj, Form IV, causative-transitive of خرج "to go out"); يَحْتَسِبُوا (Hsb, Form VIII); يُخْرِبُونَ (xrb, Form IV); ٱعْتَبِرُوا (Ebr, Form VIII, imperative). -->
 
 # The Fortress and the Heart: Where Security Actually Lives

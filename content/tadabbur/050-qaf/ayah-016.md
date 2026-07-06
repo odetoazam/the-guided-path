@@ -8,7 +8,18 @@ validated: true
 created: "2026-04-03"
 ---
 
-<!-- ayah:50:16 -->
+<!-- Step 0 morphology grounding (auto-filled from corpus) -->
+<!-- morphology:50:16:4 root=خلق pos=V -->
+<!-- morphology:50:16:7 root=أنس pos=N -->
+<!-- morphology:50:16:9 root=علم pos=V -->
+<!-- morphology:50:16:11 root=وسوس pos=V -->
+<!-- morphology:50:16:14 root=نفس pos=N -->
+<!-- morphology:50:16:18 root=قرب pos=N -->
+<!-- morphology:50:16:22 root=حبل pos=N -->
+<!-- morphology:50:16:24 root=ورد pos=N -->
+
+
+
 
 [ayah:50:16] وَلَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ وَنَعْلَمُ مَا تُوَسْوِسُ بِهِۦ نَفْسُهُۥ ۖ وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ ٱلْوَرِيدِ
 

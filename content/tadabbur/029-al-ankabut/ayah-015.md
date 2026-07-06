@@ -22,12 +22,12 @@ related_ayahs: ["29:14", "54:15", "11:37", "11:44", "7:64", "26:119", "1:2"]
 
 <!-- morphology pruned: key roots (ن-ج-و, ص-ح-ب, س-ف-ن, ج-ع-ل, أ-ي-ي, ع-ل-م) documented in classical lexicons (Lisān al-ʿArab, Mufradāt al-Rāghib); linguistic journey draws only on lexically attested meanings. -->
 
-<!-- morphology:29:15:1 root=نجو pos=V -->
-<!-- morphology:29:15:2 root=صحب pos=N -->
-<!-- morphology:29:15:3 root=سفن pos=N -->
-<!-- morphology:29:15:4 root=جعل pos=V -->
-<!-- morphology:29:15:5 root=أيي pos=N -->
-<!-- morphology:29:15:6 root=علم pos=N -->
+<!-- morphology:29:15:2 root=نجو pos=V -->
+<!-- morphology:29:15:6 root=صحب pos=N -->
+<!-- morphology:29:15:8 root=سفن pos=N -->
+<!-- morphology:29:15:10 root=جعل pos=V -->
+<!-- morphology:29:15:13 root=أيي pos=N -->
+<!-- morphology:29:15:16 root=علم pos=N -->
 
 <!-- Step 0: Linguistic Grounding Table (Internal — completed before writing)
 

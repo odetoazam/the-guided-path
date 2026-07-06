@@ -13,7 +13,7 @@ surah_name: "Ghafir"
 word_count: 3677
 ---
 
-<!-- ayah:40:60 -->
+
 
 <!--
 STEP 0: LINGUISTIC GROUNDING AUDIT (Internal)
@@ -119,21 +119,21 @@ One-sentence distillation: "The simplest act in all of worship is asking — and
 Decision: PROCEED.
 -->
 
-[ayah:40:60] وَقَالَ رَبُّكُمُ ٱدْعُونِىٓ أَسْتَجِبْ لَكُمْ ۚ إِنَّ ٱلَّذِينَ يَسْتَكْبِرُونَ عَنْ عِبَادَتِى سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ
+[ayah:40:60] وَقَالَ رَبُّكُمُ ٱدْعُونِىٓ أَسْتَجِبْ لَكُمْ ۚ إِنَّ ٱلَّذِينَ يَسْتَكْبِرُونَ عَنْ عِبَادَتِى سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ
 
-<!-- morphology:40:60:1 root=قول pos=V -->
-<!-- morphology:40:60:2 root=ربب pos=N -->
-<!-- morphology:40:60:3 root=دعو pos=V -->
-<!-- morphology:40:60:4 root=جوب pos=V -->
-<!-- morphology:40:60:5 root=— pos=P -->
-<!-- morphology:40:60:6 root=— pos=CONJ -->
-<!-- morphology:40:60:7 root=— pos=REL -->
-<!-- morphology:40:60:8 root=كبر pos=V -->
-<!-- morphology:40:60:9 root=— pos=P -->
-<!-- morphology:40:60:10 root=عبد pos=N -->
-<!-- morphology:40:60:11 root=دخل pos=V -->
-<!-- morphology:40:60:12 root=— pos=PN -->
-<!-- morphology:40:60:13 root=دخر pos=ADJ -->
+<!-- morphology:40:60:2 root=قول pos=V -->
+<!-- morphology:40:60:3 root=ربب pos=N -->
+<!-- morphology:40:60:5 root=دعو pos=V -->
+<!-- morphology:40:60:8 root=جوب pos=V -->
+
+
+
+<!-- morphology:40:60:13 root=كبر pos=V -->
+
+<!-- morphology:40:60:16 root=عبد pos=N -->
+<!-- morphology:40:60:19 root=دخل pos=V -->
+
+<!-- morphology:40:60:22 root=دخر pos=N -->
 
 *Wa-qāla rabbukumu-d'ūnī astajib lakum. Inna-lladhīna yastakbirūna 'an 'ibādatī sa-yadkhulūna jahannama dākhirīn.*
 
@@ -171,7 +171,7 @@ Form X is a verb of internal excavation. You dig into yourself — or into someo
 
 Now listen to what Allah says.
 
-[ayah:40:60] **أَسْتَجِبْ**
+ **أَسْتَجِبْ**
 
 *Astajib.* Form X. From the root *jīm-wāw-bā'* — ج و ب — which means to answer, to respond.
 
@@ -205,7 +205,7 @@ But we're not done with Form X. Because Allah uses it one more time in this ayah
 
 Hold *astajib* in one hand. Now listen to the second half of the ayah.
 
-[ayah:40:60] **إِنَّ ٱلَّذِينَ يَسْتَكْبِرُونَ عَنْ عِبَادَتِى**
+ **إِنَّ ٱلَّذِينَ يَسْتَكْبِرُونَ عَنْ عِبَادَتِى**
 
 *Yastakbirūn.* Form X. From the root *kāf-bā'-rā'* — ك ب ر — which means to be great, to be large.
 
@@ -254,7 +254,7 @@ When you refuse to ask, you're not just denying yourself the response. You're wi
 
 The closing phrase of this ayah is where most people stop listening, because they've already taken the comfort from the first half. But the grammar of the second half is doing something extraordinary.
 
-[ayah:40:60] **سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ**
+ **سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ**
 
 *Sa-yadkhulūna jahannama dākhirīn.*
 

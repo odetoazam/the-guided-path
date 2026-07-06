@@ -32,7 +32,7 @@ related_ayahs: ["30:4", "30:6", "30:2", "30:3", "29:69", "3:160", "8:10", "22:40
 ## The Ayah
 
 **Arabic:**
-[ayah:30:5] بِنَصْرِ ٱللَّهِ ۚ يَنصُرُ مَن يَشَآءُ ۖ وَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ
+[ayah:30:5] بِنَصْرِ ٱللَّهِ ۚ يَنصُرُ مَن يَشَآءُ ۖ وَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ
 
 **Transliteration:**
 *Bi-naṣri llāh. Yanṣuru man yashāʾ. Wa huwa l-ʿazīzu r-raḥīm.*
@@ -78,9 +78,9 @@ We're going to sit with that for a while — because it may be the most disrupti
 
 ### Element 1 — يَنصُرُ مَن يَشَآءُ: The Permanent, Unconditional Verb
 
-<!-- morphology:30:5:4 root=نصر pos=V form=I-imperf-3ms -->
-<!-- morphology:30:5:5 root=N/A pos=REL -->
-<!-- morphology:30:5:6 root=شيأ pos=V form=I-imperf-3ms -->
+<!-- morphology:30:5:4 root=نصر pos=V -->
+
+<!-- morphology:30:5:6 root=شيأ pos=V -->
 
 Let's start with something about how Arabic works — and then watch what happens when you bring it to this ayah.
 
@@ -128,9 +128,9 @@ That is the weight of يَنصُرُ مَن يَشَآءُ. Not a formula. Not a
 
 ### Element 2 — وَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ: The Pairing That Should Stop You
 
-<!-- morphology:30:5:8 root=N/A pos=PRON -->
-<!-- morphology:30:5:9 root=عزز pos=ADJ form=faʿīl-definite -->
-<!-- morphology:30:5:10 root=رحم pos=ADJ form=faʿīl-definite -->
+
+<!-- morphology:30:5:10 root=عزز pos=N -->
+<!-- morphology:30:5:12 root=رحم pos=N -->
 
 Before we open these two divine names, let me teach you something about how divine name pairs work in the Quran — because it will make this pairing feel like what it is.
 
@@ -154,7 +154,7 @@ The second name is stunning. And we need to sit with the first one before we can
 
 **ٱلْعَزِيزُ** — *al-ʿAzīz.* The root *ʿ-z-z* in Arabic carries a cluster of meanings that are bound together: rarity, preciousness, and unconquerability. Something *ʿazīz* is so rare it cannot be found easily — and so powerful it cannot be overcome. In the *Mufradāt* of al-Rāghib al-Iṣfahānī, *al-ʿizz* is defined as "a state in which the one who possesses it cannot be subdued." Al-ʿAzīz, as a divine name, means: He is the One whom nothing can overcome. No army. No empire. No natural force. No collective human will. Absolute invincibility.
 
-<!-- morphology:30:5:9 root=عزز pos=ADJ form=faʿīl-definite -->
+<!-- morphology:30:5:10 root=عزز pos=N -->
 
 And notice the *morphological form*: *faʿīl* — this is not a participle describing a recent action. It is a *ṣifa mushabbaha* — a form expressing a permanent, inherent, inseparable characteristic. Al-ʿAzīz is not "recently victorious." He is *constitutionally* unconquerable. This is who He *is,* not what He *did.*
 
@@ -166,7 +166,7 @@ Now.
 
 *Al-Raḥīm.* The root *r-ḥ-m* is the root of *raḥm* — womb. The mother's womb, which is the place of the most total, unconditional care a human being ever receives. Before you deserved anything. Before you earned anything. Before you could ask for anything. The mercy of the womb was already there.
 
-<!-- morphology:30:5:10 root=رحم pos=ADJ form=faʿīl-definite -->
+<!-- morphology:30:5:12 root=رحم pos=N -->
 
 Again: *faʿīl* form. Not *rāḥim* (one who showed mercy once) — but *Raḥīm*: mercy as a permanent, inherent, constitutional reality of His being. He is perpetually in the state of mercying — active, ongoing, directed.
 

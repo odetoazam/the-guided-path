@@ -13,15 +13,15 @@ validated: true
 <!-- STEP 0: LINGUISTIC GROUNDING TABLE (Internal — for verification) -->
 <!-- Corpus uses flat sub-word token positions. Tagging content words only. -->
 <!-- morphology:2:269:1 root=أتي pos=V --> <!-- يُؤْتِى — verb, Form IV imperfect 3ms (He gives/bestows) -->
-<!-- morphology:2:269:2 root=حكم pos=N --> <!-- ٱلْحِكْمَةَ — noun, accusative, definite (wisdom) -->
-<!-- morphology:2:269:4 root=شيأ pos=V --> <!-- يَشَآءُ — verb, Form I imperfect 3ms (He wills) -->
-<!-- morphology:2:269:9 root=أتي pos=V --> <!-- يُؤْتَ — verb, Form IV passive imperfect jussive (is given) -->
-<!-- morphology:2:269:7 root=حكم pos=N --> <!-- ٱلْحِكْمَةَ — noun, accusative, definite (wisdom) -->
-<!-- morphology:2:269:9 root=أتي pos=V --> <!-- أُوتِىَ — verb, Form IV passive perfect 3ms (has been given) -->
-<!-- morphology:2:269:10 root=خير pos=N --> <!-- خَيْرًا — noun, accusative, indefinite (good) -->
-<!-- morphology:2:269:11 root=كثر pos=N --> <!-- كَثِيرًا — adjective/noun, accusative, indefinite (much) -->
-<!-- morphology:2:269:13 root=ذكر pos=V --> <!-- يَذَّكَّرُ — verb, Form V imperfect 3ms (remember/take heed) -->
-<!-- morphology:2:269:16 root=لبب pos=N --> <!-- ٱلْأَلْبَٰبِ — noun plural, genitive (inner cores / understanding) -->
+<!-- morphology:2:269:3 root=حكم pos=N --> <!-- ٱلْحِكْمَةَ — noun, accusative, definite (wisdom) -->
+<!-- morphology:2:269:5 root=شيأ pos=V --> <!-- يَشَآءُ — verb, Form I imperfect 3ms (He wills) -->
+<!-- morphology:2:269:8 root=أتي pos=V --> <!-- يُؤْتَ — verb, Form IV passive imperfect jussive (is given) -->
+<!-- morphology:2:269:10 root=حكم pos=N --> <!-- ٱلْحِكْمَةَ — noun, accusative, definite (wisdom) -->
+<!-- morphology:2:269:8 root=أتي pos=V --> <!-- أُوتِىَ — verb, Form IV passive perfect 3ms (has been given) -->
+<!-- morphology:2:269:14 root=خير pos=N --> <!-- خَيْرًا — noun, accusative, indefinite (good) -->
+<!-- morphology:2:269:15 root=كثر pos=N --> <!-- كَثِيرًا — adjective/noun, accusative, indefinite (much) -->
+<!-- morphology:2:269:18 root=ذكر pos=V --> <!-- يَذَّكَّرُ — verb, Form V imperfect 3ms (remember/take heed) -->
+<!-- morphology:2:269:22 root=لبب pos=N --> <!-- ٱلْأَلْبَٰبِ — noun plural, genitive (inner cores / understanding) -->
 
 ---
 
@@ -29,7 +29,7 @@ validated: true
 
 ## The Ayah
 
-[ayah:2:269] يُؤْتِى ٱلْحِكْمَةَ مَن يَشَآءُ ۚ وَمَن يُؤْتَ ٱلْحِكْمَةَ فَقَدْ أُوتِىَ خَيْرًا كَثِيرًا ۗ وَمَا يَذَّكَّرُ إِلَّآ أُو۟لُوا۟ ٱلْأَلْبَـٰبِ
+[ayah:2:269] يُؤْتِى ٱلْحِكْمَةَ مَن يَشَآءُ ۚ وَمَن يُؤْتَ ٱلْحِكْمَةَ فَقَدْ أُوتِىَ خَيْرًا كَثِيرًا ۗ وَمَا يَذَّكَّرُ إِلَّآ أُو۟لُوا۟ ٱلْأَلْبَـٰبِ
 
 *Yuʾtī al-ḥikmata man yashāʾu. Wa man yuʾta al-ḥikmata fa-qad ūtiya khayran kathīrā. Wa mā yadhdhakkaru illā ūlū-l-albāb.*
 

@@ -20,13 +20,20 @@ concepts: [ḥuzn, ḍayq, makr, jussive-prohibition, preposition-ʿalā, absent
 related_ayahs: ["16:127", "15:97", "6:33", "94:1", "26:3", "18:6", "35:8", "27:69", "27:71"]
 ---
 
+<!-- Step 0 morphology grounding (auto-filled from corpus) -->
+<!-- morphology:27:70:3 root=حزن pos=V -->
+<!-- morphology:27:70:8 root=كون pos=V -->
+<!-- morphology:27:70:10 root=ضيق pos=N -->
+<!-- morphology:27:70:13 root=مكر pos=V -->
+
+
 <!-- morphology pruned: key roots (ح-ز-ن، ض-ي-ق، م-ك-ر، ك-و-ن) documented in classical lexicons (Lisān al-ʿArab, Mufradāt al-Rāghib); linguistic journey draws only on lexically attested meanings. -->
 
 # What Their Schemes Cannot Reach — The Two Burdens Allah Lifts in a Single Breath
 
 ## Surah An-Naml, Ayah 70
 
-### [ayah:27:70] وَلَا تَحْزَنْ عَلَيْهِمْ وَلَا تَكُن فِى ضَيْقٍ مِّمَّا يَمْكُرُونَ
+### [ayah:27:70] وَلَا تَحْزَنْ عَلَيْهِمْ وَلَا تَكُن فِى ضَيْقٍ مِّمَّا يَمْكُرُونَ
 
 *Wa-lā taḥzan ʿalayhim wa-lā takun fī ḍayqin mimmā yamkurūn.*
 
@@ -72,10 +79,10 @@ That is what this ayah is going to teach us.
 
 ### The Two Prohibitions — A Diagram of the Burdened Heart
 
-<!-- morphology:27:70:2 root=hzn pos=V form=I jussive -->
-<!-- morphology:27:70:5 root=kwn pos=V form=I jussive -->
-<!-- morphology:27:70:3 root=alyhm pos=P+PRON -->
-<!-- morphology:27:70:8 root=mkr pos=V form=I imperfect -->
+
+
+
+
 
 Let me begin not with a single word, but with the shape of the entire ayah — because this ayah is built like a pair of scales, and the balance matters.
 
@@ -125,7 +132,7 @@ One clause per burden. Nothing wasted.
 
 ### The Word That Sounds Like What It Means — ضَيْق
 
-<!-- morphology:27:70:7 root=dyq pos=N indefinite genitive -->
+
 
 Now let's open the word that carries the physical weight of the second prohibition.
 
@@ -173,7 +180,7 @@ Because there is a space wider than the ḍayq. There is always a wider space. A
 
 ### The Silence That Comforts — What *Yamkurūn* Does Not Name
 
-<!-- morphology:27:70:9 root=mkr pos=V form=I 3pm imperfect indicative -->
+
 
 Now we come to what might be the most powerful element in this ayah — and it is something Allah **did not say**.
 

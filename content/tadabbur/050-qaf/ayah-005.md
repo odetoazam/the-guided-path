@@ -20,6 +20,14 @@ concepts: [takdhib-as-intensive-denial, al-haqq-the-fixed-reality, amr-marij-the
 related_ayahs: ["50:2", "50:4", "55:15", "55:19", "10:39"]
 ---
 
+<!-- Step 0 morphology grounding (auto-filled from corpus) -->
+<!-- morphology:50:5:2 root=كذب pos=V -->
+<!-- morphology:50:5:6 root=حقق pos=N -->
+<!-- morphology:50:5:8 root=جيأ pos=V -->
+<!-- morphology:50:5:13 root=أمر pos=N -->
+<!-- morphology:50:5:14 root=مرج pos=N -->
+
+
 <!-- morphology pruned: key roots (Amr, Hqq, jyA, k*b, mrj) documented in classical lexicons (Lisān al-ʿArab, Mufradāt al-Rāghib); linguistic journey draws only on lexically attested meanings. Form II of k-dh-b (kadhdhabū) read as intensive/iterative-transitive (takdhīb), not causative. -->
 
 # The Floating Mind: When the Anchor Is Refused

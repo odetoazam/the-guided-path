@@ -10,13 +10,13 @@ generated_by: "opus-tadabbur"
 
 <!-- STEP 0: LINGUISTIC GROUNDING TABLE (Internal — verified against corpus.quran.com) -->
 <!-- morphology:3:7:3 root=نزل pos=V --> <!-- أَنزَلَ — verb, Form IV perfect 3ms (He sent down) -->
-<!-- morphology:3:7:7 root=أيي pos=N --> <!-- ءَايَاتٌ — noun, nominative plural (signs / verses) -->
-<!-- morphology:3:7:8 root=حكم pos=N --> <!-- مُّحْكَمَاتٌ — Form IV passive participle, fem pl (made-firm) -->
-<!-- morphology:3:7:11 root=كتب pos=N --> <!-- ٱلْكِتَابِ — noun, genitive definite (the Book / umm al-kitāb) -->
-<!-- morphology:3:7:17 root=قلب pos=N --> <!-- قُلُوبِ — noun, plural (hearts) -->
-<!-- morphology:3:7:18 root=زيغ pos=N --> <!-- زَيْغٌ — verbal noun (swerve / deviation) -->
-<!-- morphology:3:7:24 root=فتن pos=N --> <!-- فِتْنَةِ — noun (trial / strife) -->
-<!-- morphology:3:7:29 root=أول pos=N --> <!-- تَأْوِيلَ — Form II verbal noun (ultimate interpretation) -->
+<!-- morphology:3:7:10 root=أيي pos=N --> <!-- ءَايَاتٌ — noun, nominative plural (signs / verses) -->
+<!-- morphology:3:7:11 root=حكم pos=N --> <!-- مُّحْكَمَاتٌ — Form IV passive participle, fem pl (made-firm) -->
+<!-- morphology:3:7:7 root=كتب pos=N --> <!-- ٱلْكِتَابِ — noun, genitive definite (the Book / umm al-kitāb) -->
+<!-- morphology:3:7:23 root=قلب pos=N --> <!-- قُلُوبِ — noun, plural (hearts) -->
+<!-- morphology:3:7:25 root=زيغ pos=N --> <!-- زَيْغٌ — verbal noun (swerve / deviation) -->
+<!-- morphology:3:7:35 root=فتن pos=N --> <!-- فِتْنَةِ — noun (trial / strife) -->
+<!-- morphology:3:7:38 root=أول pos=N --> <!-- تَأْوِيلَ — Form II verbal noun (ultimate interpretation) -->
 
 ---
 
@@ -24,7 +24,7 @@ generated_by: "opus-tadabbur"
 
 ## The Ayah
 
-[ayah:3:7] هُوَ ٱلَّذِىٓ أَنزَلَ عَلَيْكَ ٱلْكِتَـٰبَ مِنْهُ ءَايَـٰتٌ مُّحْكَمَـٰتٌ هُنَّ أُمُّ ٱلْكِتَـٰبِ وَأُخَرُ مُتَشَـٰبِهَـٰتٌ ۖ فَأَمَّا ٱلَّذِينَ فِى قُلُوبِهِمْ زَيْغٌ فَيَتَّبِعُونَ مَا تَشَـٰبَهَ مِنْهُ ٱبْتِغَآءَ ٱلْفِتْنَةِ وَٱبْتِغَآءَ تَأْوِيلِهِۦ ۗ وَمَا يَعْلَمُ تَأْوِيلَهُۥٓ إِلَّا ٱللَّهُ ۗ وَٱلرَّٰسِخُونَ فِى ٱلْعِلْمِ يَقُولُونَ ءَامَنَّا بِهِۦ كُلٌّ مِّنْ عِندِ رَبِّنَا ۗ وَمَا يَذَّكَّرُ إِلَّآ أُولُوا۟ ٱلْأَلْبَـٰبِ
+[ayah:3:7] هُوَ ٱلَّذِىٓ أَنزَلَ عَلَيْكَ ٱلْكِتَـٰبَ مِنْهُ ءَايَـٰتٌ مُّحْكَمَـٰتٌ هُنَّ أُمُّ ٱلْكِتَـٰبِ وَأُخَرُ مُتَشَـٰبِهَـٰتٌ ۖ فَأَمَّا ٱلَّذِينَ فِى قُلُوبِهِمْ زَيْغٌ فَيَتَّبِعُونَ مَا تَشَـٰبَهَ مِنْهُ ٱبْتِغَآءَ ٱلْفِتْنَةِ وَٱبْتِغَآءَ تَأْوِيلِهِۦ ۗ وَمَا يَعْلَمُ تَأْوِيلَهُۥٓ إِلَّا ٱللَّهُ ۗ وَٱلرَّٰسِخُونَ فِى ٱلْعِلْمِ يَقُولُونَ ءَامَنَّا بِهِۦ كُلٌّ مِّنْ عِندِ رَبِّنَا ۗ وَمَا يَذَّكَّرُ إِلَّآ أُو۟لُوا۟ ٱلْأَلْبَـٰبِ
 
 *Huwa-lladhī anzala ʿalayka-l-kitāba minhu āyātun muḥkamātun hunna ummu-l-kitābi wa ukharu mutashābihāt. Fa-ammā-lladhīna fī qulūbihim zayghun fa-yattabiʿūna mā tashābaha minhu-btighāʾa-l-fitnati wa-btighāʾa taʾwīlih. Wa mā yaʿlamu taʾwīlahu illā-llāh. Wa-r-rāsikhūna fī-l-ʿilmi yaqūlūna āmannā bihi kullun min ʿindi rabbinā. Wa mā yadhdhakkaru illā ūlū-l-albāb.*
 

@@ -15,15 +15,15 @@ generated_by: "opus-tadabbur"
 <!-- morphology:33:40:4 root=أبو pos=N --> <!-- أَبَآ — noun, accusative (father) -->
 <!-- morphology:33:40:5 root=أحد pos=N --> <!-- أَحَدٍ — noun, genitive, indefinite (any one) -->
 <!-- morphology:33:40:7 root=رجل pos=N --> <!-- رِّجَالِ — noun plural, genitive (men) -->
-<!-- morphology:33:40:9 root=رسل pos=N --> <!-- رَّسُولَ — noun, accusative (Messenger) -->
-<!-- morphology:33:40:10 root=أله pos=N --> <!-- ٱللَّهِ — divine name, genitive -->
-<!-- morphology:33:40:11 root=ختم pos=N --> <!-- خَاتَمَ — noun, accusative (seal/final) -->
-<!-- morphology:33:40:12 root=نبأ pos=N --> <!-- نَّبِيِّۦنَ — noun plural, genitive (prophets) -->
-<!-- morphology:33:40:13 root=كون pos=V --> <!-- كَانَ — verb, Form I perfect, "was/is" -->
-<!-- morphology:33:40:14 root=أله pos=N --> <!-- ٱللَّهُ — divine name, nominative -->
-<!-- morphology:33:40:15 root=كلل pos=N --> <!-- كُلِّ — noun, genitive (all/every) -->
-<!-- morphology:33:40:16 root=شيأ pos=N --> <!-- شَىْءٍ — noun, genitive, indefinite (thing) -->
-<!-- morphology:33:40:17 root=علم pos=N --> <!-- عَلِيمًا — intensive active participle / divine attribute (All-Knowing) -->
+<!-- morphology:33:40:11 root=رسل pos=N --> <!-- رَّسُولَ — noun, accusative (Messenger) -->
+<!-- morphology:33:40:12 root=أله pos=N --> <!-- ٱللَّهِ — divine name, genitive -->
+<!-- morphology:33:40:14 root=ختم pos=N --> <!-- خَاتَمَ — noun, accusative (seal/final) -->
+<!-- morphology:33:40:16 root=نبأ pos=N --> <!-- نَّبِيِّۦنَ — noun plural, genitive (prophets) -->
+<!-- morphology:33:40:18 root=كون pos=V --> <!-- كَانَ — verb, Form I perfect, "was/is" -->
+<!-- morphology:33:40:12 root=أله pos=N --> <!-- ٱللَّهُ — divine name, nominative -->
+<!-- morphology:33:40:21 root=كلل pos=N --> <!-- كُلِّ — noun, genitive (all/every) -->
+<!-- morphology:33:40:22 root=شيأ pos=N --> <!-- شَىْءٍ — noun, genitive, indefinite (thing) -->
+<!-- morphology:33:40:23 root=علم pos=N --> <!-- عَلِيمًا — intensive active participle / divine attribute (All-Knowing) -->
 
 ---
 

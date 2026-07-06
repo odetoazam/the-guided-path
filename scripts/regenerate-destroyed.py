@@ -52,9 +52,11 @@ RANGE_RE  = re.compile(r"^ayahs-(\d+)-(\d+)$")
 CORPUS_FILE = REPO / "scripts" / ".corpus-cache" / "quranic-corpus.json"
 ARABIC_RE   = re.compile(r"[؀-ۿ]")
 AYAH_TAG_RE = re.compile(r"<!--\s*ayah:(\d+):(\d+)\s*-->")
-_FM_DELIM_RE = re.compile(r"^---\\n.*?\\n---\\n", re.DOTALL)
+BRACKET_TAG_RE = re.compile(r"\[ayah:(\d+):(\d+)\]")
+_FM_DELIM_RE = re.compile(r"^---\n.*?\n---\n", re.DOTALL)
 MORPH_TAG_RE = re.compile(
-    r"<!--\s*morphology:(\d+):(\d+):(\d+)\s+(?:root=(\S+)\s+)?pos=(\S+?)\s*-->")
+    r"<!--\s*morphology:(\d+):(\d+):(\d+)\s+(?:root=(\S+)\s+)?pos=(\S+?)"
+    r"[^\n>]*-->")
 
 # Signatures of the enricher's changelog-stub failure mode
 STUB_SIG_RE = re.compile(
@@ -181,7 +183,9 @@ def canonical_verse(surah: str, ayah: str) -> str | None:
 
 
 def fix_ayah_tags(text: str) -> str:
-    """Three repairs on <!-- ayah:S:A --> tags:
+    """Three repairs on ayah tags — handles both <!-- ayah:S:A --> (HTML
+    comment) and [ayah:S:A] (square-bracket) styles, since both appear in
+    the corpus and the verifier checks both:
     1. Move a tag that sits before a blockquote '>' marker to after it
        (the verifier reads to end-of-line and chokes on the '>').
     2. Drop tags not followed by Arabic script at all (mis-tagged English).
@@ -191,13 +195,26 @@ def fix_ayah_tags(text: str) -> str:
        tag is removed. Word-level grounding lives in morphology tags instead."""
     text = BLOCKQUOTE_GAP_RE.sub(lambda m: f"> {m.group(1)} ", text)
 
+    matches = sorted(
+        list(AYAH_TAG_RE.finditer(text)) + list(BRACKET_TAG_RE.finditer(text)),
+        key=lambda m: m.start())
+
     out = []
     last = 0
-    for m in AYAH_TAG_RE.finditer(text):
+    for m in matches:
+        if m.start() < last:
+            continue  # overlapping with a previously-processed match — skip
         surah, ayah = m.group(1), m.group(2)
         line_end = text.find("\n", m.end())
         if line_end == -1:
             line_end = len(text)
+        # bracket-style tags stop reading at the next '[' too (mirrors the
+        # verifier's own [^\n\[]+ extraction) — an inline markdown link or
+        # the next tag on the same line must not bleed into this segment.
+        if m.re is BRACKET_TAG_RE:
+            bracket_end = text.find("[", m.end())
+            if bracket_end != -1 and bracket_end < line_end:
+                line_end = bracket_end
         segment = text[m.end():line_end]
         seg_norm = _norm_ar(segment)
 
@@ -310,14 +327,26 @@ def _expand_ayahs(ref: str):
     return [(surah, rest)]
 
 
+def _real_tag_count(text: str) -> int:
+    """Count only PLAUSIBLY REAL morphology tags — root is Arabic script (or
+    absent, for particles). A romanized/Latin 'root' (e.g. root=qwl instead
+    of root=قول) is a fabricated tag, not a real one, and must not count
+    toward 'this file already has a Step 0 table'."""
+    n = 0
+    for _s, _a, _w, root, _pos in MORPH_TAG_RE.findall(text):
+        if not root or ARABIC_RE.search(root):
+            n += 1
+    return n
+
+
 def ensure_morphology_tags(text: str, ref: str) -> str:
-    """If a reflection is missing its Step 0 morphology tags (the model
-    sometimes writes the whole reflection but skips them), synthesize a
-    baseline set from the authoritative corpus — every content word's
-    root+POS is deterministic — and inject them right after the frontmatter.
-    Only fires when there are essentially no tags already, so we never
-    clobber a real Step 0 table."""
-    if len(MORPH_TAG_RE.findall(text)) >= 3:
+    """If a reflection is missing its Step 0 morphology tags — or only has
+    fabricated ones (romanized roots that were never real to begin with) —
+    synthesize a baseline set from the authoritative corpus — every content
+    word's root+POS is deterministic — and inject them right after the
+    frontmatter. Only fires when there are essentially no REAL tags already,
+    so we never clobber a genuine Step 0 table."""
+    if _real_tag_count(text) >= 3:
         return text
     _load_corpus()
     if not _corpus_cache:

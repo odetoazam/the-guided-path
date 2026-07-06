@@ -20,6 +20,18 @@ concepts: [istidlal-al-maqul-bil-mahsus, qiyas-al-awla, kibr, baath, ism-al-tafd
 related_ayahs: ["40:56", "79:27", "36:81", "46:33", "2:255", "31:18"]
 ---
 
+<!-- Step 0 morphology grounding (auto-filled from corpus) -->
+<!-- morphology:40:57:2 root=خلق pos=N -->
+<!-- morphology:40:57:4 root=سمو pos=N -->
+<!-- morphology:40:57:7 root=أرض pos=N -->
+<!-- morphology:40:57:8 root=كبر pos=N -->
+<!-- morphology:40:57:10 root=خلق pos=N -->
+<!-- morphology:40:57:12 root=أنس pos=N -->
+<!-- morphology:40:57:15 root=كثر pos=N -->
+<!-- morphology:40:57:17 root=أنس pos=N -->
+<!-- morphology:40:57:19 root=علم pos=V -->
+
+
 <!-- morphology pruned: key roots (xlq خ-ل-ق, smw س-م-و, ArD أ-ر-ض, kbr ك-ب-ر, nws ن-و-س, kvr ك-ث-ر, Elm ع-ل-م) documented in classical lexicons (Lisān al-ʿArab, Mufradāt al-Rāghib); linguistic journey draws only on lexically attested meanings. -->
 
 # The Greater and the Lesser

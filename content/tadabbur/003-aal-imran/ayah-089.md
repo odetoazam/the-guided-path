@@ -20,6 +20,15 @@ concepts: [tawba, islah, ghafur, rahim, istithna, divine-mercy, identity-foreclo
 related_ayahs: ["3:86", "3:87", "3:88", "3:90", "4:146", "25:70", "39:53"]
 ---
 
+<!-- Step 0 morphology grounding (auto-filled from corpus) -->
+<!-- morphology:3:89:3 root=توب pos=V -->
+<!-- morphology:3:89:6 root=بعد pos=N -->
+<!-- morphology:3:89:11 root=صلح pos=V -->
+<!-- morphology:3:89:15 root=أله pos=N -->
+<!-- morphology:3:89:16 root=غفر pos=N -->
+<!-- morphology:3:89:17 root=رحم pos=N -->
+
+
 <!-- morphology pruned: key roots (twb, SlH, gfr, rHm, bEd, Alh) documented in classical lexicons (Lisān al-ʿArab, Mufradāt al-Rāghib); linguistic journey draws only on lexically attested meanings. Verb-form claims (tābū = Form I; aṣlaḥū = Form IV factitive-transitive) per Leeds Quranic Corpus morphology. -->
 
 ---

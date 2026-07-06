@@ -13,9 +13,43 @@ surah_name: "Al-Hadid"
 word_count: 3679
 ---
 
-<!-- ayah:57:20 -->
+<!-- Step 0 morphology grounding (auto-filled from corpus) -->
+<!-- morphology:57:20:1 root=علم pos=V -->
+<!-- morphology:57:20:6 root=حيي pos=N -->
+<!-- morphology:57:20:8 root=دنو pos=N -->
+<!-- morphology:57:20:9 root=لعب pos=N -->
+<!-- morphology:57:20:11 root=لهو pos=N -->
+<!-- morphology:57:20:13 root=زين pos=N -->
+<!-- morphology:57:20:15 root=فخر pos=N -->
+<!-- morphology:57:20:16 root=بين pos=N -->
+<!-- morphology:57:20:19 root=كثر pos=N -->
+<!-- morphology:57:20:22 root=مول pos=N -->
+<!-- morphology:57:20:25 root=ولد pos=N -->
+<!-- morphology:57:20:27 root=مثل pos=N -->
+<!-- morphology:57:20:28 root=غيث pos=N -->
+<!-- morphology:57:20:29 root=عجب pos=V -->
+<!-- morphology:57:20:31 root=كفر pos=N -->
+<!-- morphology:57:20:32 root=نبت pos=N -->
+<!-- morphology:57:20:35 root=هيج pos=V -->
+<!-- morphology:57:20:37 root=رأي pos=V -->
+<!-- morphology:57:20:39 root=صفر pos=N -->
+<!-- morphology:57:20:41 root=كون pos=V -->
+<!-- morphology:57:20:42 root=حطم pos=N -->
+<!-- morphology:57:20:46 root=أخر pos=N -->
+<!-- morphology:57:20:47 root=عذب pos=N -->
+<!-- morphology:57:20:48 root=شدد pos=N -->
+<!-- morphology:57:20:50 root=غفر pos=N -->
+<!-- morphology:57:20:52 root=أله pos=N -->
+<!-- morphology:57:20:54 root=رضو pos=N -->
+<!-- morphology:57:20:58 root=حيي pos=N -->
+<!-- morphology:57:20:60 root=دنو pos=N -->
+<!-- morphology:57:20:62 root=متع pos=N -->
+<!-- morphology:57:20:64 root=غرر pos=N -->
 
-[ayah:57:20] ٱعْلَمُوٓا۟ أَنَّمَا ٱلْحَيَوٰةُ ٱلدُّنْيَا لَعِبٌ وَلَهْوٌ وَزِينَةٌ وَتَفَاخُرٌۢ بَيْنَكُمْ وَتَكَاثُرٌ فِى ٱلْأَمْوَٰلِ وَٱلْأَوْلَـٰدِ ۖ كَمَثَلِ غَيْثٍ أَعْجَبَ ٱلْكُفَّارَ نَبَاتُهُۥ ثُمَّ يَهِيجُ فَتَرَىٰهُ مُصْفَرًّا ثُمَّ يَكُونُ حُطَـٰمًا ۖ وَفِى ٱلْـَٔاخِرَةِ عَذَابٌ شَدِيدٌ وَمَغْفِرَةٌ مِّنَ ٱللَّهِ وَرِضْوَٰنٌ ۚ وَمَا ٱلْحَيَوٰةُ ٱلدُّنْيَآ إِلَّا مَتَـٰعُ ٱلْغُرُورِ
+
+
+
+[ayah:57:20] ٱعْلَمُوٓا۟ أَنَّمَا ٱلْحَيَوٰةُ ٱلدُّنْيَا لَعِبٌ وَلَهْوٌ وَزِينَةٌ وَتَفَاخُرٌۢ بَيْنَكُمْ وَتَكَاثُرٌ فِى ٱلْأَمْوَٰلِ وَٱلْأَوْلَـٰدِ ۖ كَمَثَلِ غَيْثٍ أَعْجَبَ ٱلْكُفَّارَ نَبَاتُهُۥ ثُمَّ يَهِيجُ فَتَرَىٰهُ مُصْفَرًّا ثُمَّ يَكُونُ حُطَـٰمًا ۖ وَفِى ٱلْـَٔاخِرَةِ عَذَابٌ شَدِيدٌ وَمَغْفِرَةٌ مِّنَ ٱللَّهِ وَرِضْوَٰنٌ ۚ وَمَا ٱلْحَيَوٰةُ ٱلدُّنْيَآ إِلَّا مَتَـٰعُ ٱلْغُرُورِ
 
 *I'lamū annamā al-ḥayātu ad-dunyā la'ibun wa lahwun wa zīnatun wa tafākhurūn baynakum wa takāthurun fī al-amwāli wal-awlād. Kamathali ghaythin a'jaba al-kuffāra nabātuhū thumma yahīju fa-tarāhu muṣfarran thumma yakūnu ḥuṭāmā. Wa fī al-ākhirati 'adhābun shadīdun wa maghfiratun mina Allāhi wa riḍwān. Wa mā al-ḥayātu ad-dunyā illā matā'u al-ghurūr.*
 
@@ -133,26 +167,26 @@ One-sentence distillation:
 Proceed.
 -->
 
-<!-- morphology:57:20:1 root=Elm pos=V form=I -->
-<!-- morphology:57:20:4 root=Hyw pos=N -->
-<!-- morphology:57:20:5 root=dnw pos=N -->
-<!-- morphology:57:20:6 root=lEb pos=N -->
-<!-- morphology:57:20:7 root=lhw pos=N -->
-<!-- morphology:57:20:8 root=zyn pos=N -->
-<!-- morphology:57:20:9 root=fxr pos=N -->
-<!-- morphology:57:20:10 root=kvr pos=N -->
-<!-- morphology:57:20:13 root=gyv pos=N -->
-<!-- morphology:57:20:14 root=Ejb pos=V form=IV -->
-<!-- morphology:57:20:15 root=kfr pos=N -->
-<!-- morphology:57:20:16 root=nbt pos=N -->
-<!-- morphology:57:20:18 root=hyj pos=V form=I -->
-<!-- morphology:57:20:20 root=Sfr pos=N -->
-<!-- morphology:57:20:22 root=HTm pos=N -->
-<!-- morphology:57:20:25 root=E*b pos=N -->
-<!-- morphology:57:20:27 root=gfr pos=N -->
-<!-- morphology:57:20:30 root=rDw pos=N -->
-<!-- morphology:57:20:34 root=mtE pos=N -->
-<!-- morphology:57:20:35 root=grr pos=N -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
@@ -174,7 +208,7 @@ Here's what to watch for: five words. Each one a stage. Each stage heavier than 
 
 ### The Command Before the Content
 
-[ayah:57:20] ٱعْلَمُوٓا۟ أَنَّمَا ٱلْحَيَوٰةُ ٱلدُّنْيَا
+ ٱعْلَمُوٓا۟ أَنَّمَا ٱلْحَيَوٰةُ ٱلدُّنْيَا
 
 **ٱعْلَمُوٓا** — "Know."
 
@@ -250,7 +284,7 @@ And then — without warning — the taxonomy ends and a parable begins.
 
 ### The Rain That Amazed the Farmer
 
-[ayah:57:20] كَمَثَلِ غَيْثٍ أَعْجَبَ ٱلْكُفَّارَ نَبَاتُهُۥ
+ كَمَثَلِ غَيْثٍ أَعْجَبَ ٱلْكُفَّارَ نَبَاتُهُۥ
 
 "Like the example of rain whose vegetation amazed the tillers."
 
@@ -278,7 +312,7 @@ One word. Two meanings. Both true at once. The farmer and the disbeliever are no
 
 ### The Yellowing — And Who Watches It Happen
 
-[ayah:57:20] ثُمَّ يَهِيجُ فَتَرَىٰهُ مُصْفَرًّا ثُمَّ يَكُونُ حُطَـٰمًا
+ ثُمَّ يَهِيجُ فَتَرَىٰهُ مُصْفَرًّا ثُمَّ يَكُونُ حُطَـٰمًا
 
 "Then it dries up, and you see it turned yellow, then it becomes debris."
 
@@ -314,7 +348,7 @@ No human actor tends the plant. No one waters it. No one harvests it. Rain falls
 
 ### The Closing That Reframes Everything
 
-[ayah:57:20] وَمَا ٱلْحَيَوٰةُ ٱلدُّنْيَآ إِلَّا مَتَـٰعُ ٱلْغُرُورِ
+ وَمَا ٱلْحَيَوٰةُ ٱلدُّنْيَآ إِلَّا مَتَـٰعُ ٱلْغُرُورِ
 
 "And the life of this world is nothing but the enjoyment of delusion."
 

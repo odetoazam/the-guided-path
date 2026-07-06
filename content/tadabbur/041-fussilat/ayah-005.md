@@ -20,6 +20,20 @@ concepts: [chosen-deafness, the-self-built-barrier, akinnah-coverings, waqr-heav
 related_ayahs: ["6:25", "17:46", "18:57", "2:88", "41:4", "41:44", "83:14", "42:51"]
 ---
 
+<!-- Step 0 morphology grounding (auto-filled from corpus) -->
+<!-- morphology:41:5:2 root=قول pos=V -->
+<!-- morphology:41:5:4 root=قلب pos=N -->
+<!-- morphology:41:5:7 root=كنن pos=N -->
+<!-- morphology:41:5:10 root=دعو pos=V -->
+<!-- morphology:41:5:16 root=أذن pos=N -->
+<!-- morphology:41:5:18 root=وقر pos=N -->
+<!-- morphology:41:5:21 root=بين pos=N -->
+<!-- morphology:41:5:24 root=بين pos=N -->
+<!-- morphology:41:5:26 root=حجب pos=N -->
+<!-- morphology:41:5:28 root=عمل pos=V -->
+<!-- morphology:41:5:31 root=عمل pos=N -->
+
+
 <!-- morphology pruned: key roots (qwl, qlb, knn, dEw, A*n, wqr, byn, Hjb, Eml) documented in classical lexicons (Lisān al-ʿArab, Mufradāt al-Rāghib); linguistic journey draws only on lexically attested meanings. Verb morphology: all verbs here are Form I (qālū perfect, tadʿū imperfect, iʿmal imperative, ʿāmilūn active participle) — no derived forms present per Leeds corpus. -->
 
 # The Covering They Called Protection

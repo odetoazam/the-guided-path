@@ -20,13 +20,24 @@ concepts: [sīr, naẓar, ʿāqibah, jurm, kayfa, sunnat-allah, iʿtibār, istid
 related_ayahs: ["29:20", "30:9", "47:10", "6:11", "12:109", "35:44", "40:82", "27:66", "15:80", "22:46"]
 ---
 
+<!-- Step 0 morphology grounding (auto-filled from corpus) -->
+<!-- morphology:27:69:1 root=قول pos=V -->
+<!-- morphology:27:69:2 root=سير pos=V -->
+<!-- morphology:27:69:6 root=أرض pos=N -->
+<!-- morphology:27:69:8 root=نظر pos=V -->
+<!-- morphology:27:69:10 root=كيف pos=N -->
+<!-- morphology:27:69:11 root=كون pos=V -->
+<!-- morphology:27:69:12 root=عقب pos=N -->
+<!-- morphology:27:69:14 root=جرم pos=N -->
+
+
 <!-- morphology pruned: key roots (س-ي-ر، ن-ظ-ر، ع-ق-ب، ج-ر-م، ك-و-ن) documented in classical lexicons (Lisān al-ʿArab, Mufradāt al-Rāghib); linguistic journey draws only on lexically attested meanings. -->
 
 # The Feet Before the Heart — Journey, Sight, and the Ruins That Wait
 
 ## Surah An-Naml, Ayah 69
 
-### [ayah:27:69] قُلْ سِيرُوا فِى ٱلْأَرْضِ فَٱنظُرُوا كَيْفَ كَانَ عَٰقِبَةُ ٱلْمُجْرِمِينَ
+### [ayah:27:69] قُلْ سِيرُوا۟ فِى ٱلْأَرْضِ فَٱنظُرُوا۟ كَيْفَ كَانَ عَـٰقِبَةُ ٱلْمُجْرِمِينَ
 
 *Qul sīrū fī l-arḍi fanẓurū kayfa kāna ʿāqibatu l-mujrimīn.*
 
@@ -66,9 +77,9 @@ That is what this ayah is going to teach us.
 
 ### The Sequence That Changes Everything
 
-<!-- morphology:27:69:1 root=qwl pos=V -->
-<!-- morphology:27:69:2 root=syr pos=V -->
-<!-- morphology:27:69:5 root=nzr pos=V -->
+
+
+
 
 Let me begin with what seems like the simplest feature of this ayah — not a word, but a sequence. There are two commands, and they arrive in a specific order.
 
@@ -112,7 +123,7 @@ Allah is not sending them somewhere new. He is saying: you have already been the
 
 ### The Heel of History: What *ʿĀqibah* Actually Means
 
-<!-- morphology:27:69:8 root=aqb pos=N -->
+
 
 Now let's open the word that carries the heart of this ayah.
 
@@ -154,7 +165,7 @@ This is *ʿāqibah*. The heel-print of a civilization's choices, preserved in th
 
 ### The Ones Who Severed: Why *Mujrimīn* Is the Right Word
 
-<!-- morphology:27:69:9 root=jrm pos=N -->
+
 
 Now we come to the word that should make us pause the longest: *الْمُجْرِمِينَ* — *al-mujrimīn*.
 

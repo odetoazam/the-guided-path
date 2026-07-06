@@ -11,12 +11,12 @@ generated_by: "opus-tadabbur"
 <!-- STEP 0: LINGUISTIC GROUNDING TABLE (Internal — verified against corpus.quran.com) -->
 <!-- morphology:64:11:2 root=صوب pos=V --> <!-- أَصَابَ — Form IV perfect 3ms (it struck / hit its mark) -->
 <!-- morphology:64:11:4 root=صوب pos=N --> <!-- مُصِيبَةٍ — Form IV active participle as noun, fem indef genitive (a striking-thing) -->
-<!-- morphology:64:11:6 root=أذن pos=N --> <!-- إِذْنِ — verbal noun, genitive (permission / conscious authorization) -->
-<!-- morphology:64:11:9 root=أمن pos=V --> <!-- يُؤْمِن — Form IV imperfect jussive 3ms (he believes / trusts) -->
-<!-- morphology:64:11:11 root=هدي pos=V --> <!-- يَهْدِ — Form I imperfect jussive 3ms (He guides) -->
-<!-- morphology:64:11:12 root=قلب pos=N --> <!-- قَلْبَهُ — noun + pronoun suffix, accusative (his heart) -->
-<!-- morphology:64:11:15 root=شيأ pos=N --> <!-- شَيْءٍ — noun, indef genitive (thing) -->
-<!-- morphology:64:11:16 root=علم pos=N --> <!-- عَلِيمٌ — intensive noun/adj faʿīl, nominative (all-Knowing) -->
+<!-- morphology:64:11:7 root=أذن pos=N --> <!-- إِذْنِ — verbal noun, genitive (permission / conscious authorization) -->
+<!-- morphology:64:11:11 root=أمن pos=V --> <!-- يُؤْمِن — Form IV imperfect jussive 3ms (he believes / trusts) -->
+<!-- morphology:64:11:14 root=هدي pos=V --> <!-- يَهْدِ — Form I imperfect jussive 3ms (He guides) -->
+<!-- morphology:64:11:15 root=قلب pos=N --> <!-- قَلْبَهُ — noun + pronoun suffix, accusative (his heart) -->
+<!-- morphology:64:11:21 root=شيأ pos=N --> <!-- شَيْءٍ — noun, indef genitive (thing) -->
+<!-- morphology:64:11:22 root=علم pos=N --> <!-- عَلِيمٌ — intensive noun/adj faʿīl, nominative (all-Knowing) -->
 
 ---
 
@@ -24,7 +24,7 @@ generated_by: "opus-tadabbur"
 
 ## The Ayah
 
-[ayah:64:11] مَآ أَصَابَ مِن مُّصِيبَةٍ إِلَّا بِإِذْنِ ٱللَّهِ ۗ وَمَن يُؤْمِنۢ بِٱللَّهِ يَهْدِ قَلْبَهُۥ ۚ وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌ
+[ayah:64:11] مَآ أَصَابَ مِن مُّصِيبَةٍ إِلَّا بِإِذْنِ ٱللَّهِ ۗ وَمَن يُؤْمِنۢ بِٱللَّهِ يَهْدِ قَلْبَهُۥ ۚ وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌ
 
 *Mā aṣāba min muṣībatin illā bi-idhni-llāh. Wa man yuʾmin bi-llāhi yahdi qalbah. Wa-llāhu bi-kulli shayʾin ʿalīm.*
 
