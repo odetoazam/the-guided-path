@@ -38,3 +38,15 @@ next-env.d.ts
 
 # corpus data cache
 scripts/.corpus-cache/
+
+scripts/graph-lab/__pycache__/
+
+# graph-lab: large derived projections (regenerable via `npm run graph`)
+scripts/graph-lab/edges-proposed.json
+scripts/graph-lab/edges-typed.json
+scripts/graph-lab/graph-export.json
+scripts/graph-lab/motif-chunks.json
+scripts/graph-lab/motif-chunks.md
+scripts/graph-lab/validation-triage.json
+scripts/graph-lab/validation-triage.md
+scripts/graph-lab/gap-report.md

@@ -48,6 +48,23 @@ Per the tech scan, the curated graph covers *known/cited* resonance; it cannot s
 5. **Build the projection** — frontmatter → graph DB; add per-node spine summaries.
 6. **Then** the pathways (free-roam map first — highest unserved demand, lowest risk).
 
+## ✅ EDGE TYPING / SALVAGE PASS — DONE (full corpus, `type_edges.py` → `edges-typed.json`)
+
+Step 3 executed on **all 14,257 raw edges** (→ 11,982 unique after collapsing reciprocal pairs). Each edge now carries `{src, tgt, type, basis, source, confidence, shared_roots, min_df, strength}`. Typing is mechanical (no LLM): lexical-root via Arabic-root intersection against `quranic-corpus.json`, with a **document-frequency filter** (a shared root only counts as objective when DF ≤ 200 — the top ~42 ubiquitous roots like أله/قول/كون are ambient and say nothing; "strong" = rarest shared root DF ≤ 50).
+
+**Results — the mechanical pass reproduces the human hand-sample almost exactly:**
+- **Strict** (strong lexical DF≤50 + close same-surah continuation only): **42.9% objective / 55.5% thematic / 1.6% quarantine** — matches the 12-file hand sample's ~42/~55/~2 prediction.
+- **Lenient** (any distinctive root ≤200 + continuation): 72.8% objective / 25.6% thematic / 1.6% quarantine.
+- The edge file **carries `min_df` + `strength`**, so the query layer chooses its own operating point rather than baking a threshold into the tier (filesystem-first / no-black-box).
+
+**Type breakdown:** lexical-root 6,910 (57.7%) · shared-concept 1,832 · story-continuation 1,812 (same-surah, gap ≤ 30 ayahs — median gap 3, 93% within 30; the long-range tail demoted to thematic) · thematic-echo 1,236 · unresolved 190 · external-reference 2 (e.g. 21:105 → Psalm 37:29, a deliberate intertextual citation — objective but terminal in the Quran graph).
+
+**Spot-checks confirm the lexical tier is genuine munāsabāt, not coincidence:** 50:12→25:38-39 (رسس, People of ar-Rass, DF=2); 12:18→20:96 (سول DF=4 — "your souls enticed you" / "my soul enticed me", Yaʿqūb's sons ↔ the Samiri); 59:7→3:137-141 (دول, wealth-circulation, DF=2); 2:255→53:26/32:4 (شفع, intercession-by-permission). `query_typed.py` proves confidence-gated free-roam + constellation work on the typed graph.
+
+**Byproduct — `gap-report.md`:** the 190 quarantined edges point at **92 cited-but-unwritten ayahs**, concentrated in Aal-Imran (50) and An-Nisa (33). The corpus's own cross-reference structure is naming the highest-value content gaps (3:14 dunya-adornment, 3:54 *wa-makara-llāh*, 3:28 awliyāʾ, 3:19 *inna d-dīna ʿinda-llāhi l-islām*).
+
+**Artifacts (re-runnable):** `type_edges.py`, `edges-typed.json`, `query_typed.py`, `write_gap_report.py`, `gap-report.md`.
+
 ## END-TO-END VALIDATION (live data, `build_and_query.py`)
 
 Built the in-memory graph from frontmatter and ran both pathways on the real corpus:
@@ -83,14 +100,49 @@ Real results (no LLM in retrieval path):
 
 Caveat: demo routing is keyword-match (2 of 6 test queries missed). Production = one cheap LLM classifier (free-text → situation slug). The *engine* is sound once routed.
 
+## ✅ LLM ROUTER + SITUATION EXPANSION — DONE (`situation_router.py`)
+
+The keyword caveat is now resolved. **`SituationRouter`** routes free text → situation slug + canonical seeds via one cheap **`claude-haiku-4-5`** call (cheapest fast tier), forcing structured JSON through `client.messages.parse()` + `output_config.format` (json_schema), `temperature=0` for determinism, no `effort` param (errors on Haiku), `max_tokens=512`. The model classifies into a **closed set** (the situation slugs) so it cannot invent un-poolable routes; model-proposed seeds are validated against the canonical vocabulary and unioned with the matched situation's curated seeds. **Graceful degradation:** with no `ANTHROPIC_API_KEY`/SDK it falls back to the offline keyword matcher, so the pathway runs with no network.
+
+**Situation set expanded 20 → 37** (`situations.json`), each now carrying an LLM-facing `description` + keyword `phrasings` + canonical `seeds` (all 37 validated by `check_situation_seeds.py`). New situations close the persona/pathway gaps: academic-critique-of-quran (Yusuf), child-asked-a-hard-question (Sara), battling-addiction, comparison-on-social-media, facing-illness-or-diagnosis, angry-at-god, marriage-strain, hurt-by-religious-community, struck-by-awe-and-wonder, etc.
+
+**Routing validated (real Claude instance against the exact catalog): 15/15.** On hard free-text with zero phrasing overlap — *"i found out my brother has been lying to me for years"* → betrayed-by-family; *"the doctor says it's stage 3"* → facing-illness-or-diagnosis; *"a professor argued the quran was edited by later scribes"* → academic-critique-of-quran; *"it feels like shouting into a void"* → feel-unseen-by-god — all 13 substantive queries routed correctly (the keyword matcher got 1/8 of these), and both precision probes (a prayer-time lookup, an Arabic-grammar study request) correctly returned `none`. Live execution needs an API key added to the app env; the SDK plumbing is standard.
+
 ## ✅ FULL STACK VALIDATED — capstone
 The complete core pathway runs end-to-end on real data:
 **natural-language situation → theme seeds → graph pool → within-cluster centrality rank → MMR diversify → a constellation of sound, diverse, exemplar-anchored ayahs.**
 This IS the "PLACE the right sign" step of the Guidance Loop. It needs: no voice, no new content extraction, no graph DB, no embeddings, no LLM in the retrieval path (one optional cheap LLM call at routing). It runs in-memory over existing frontmatter in a few hundred lines. The differentiated product is buildable now.
 
+## ✅ PRODUCTIONIZE — infra decision + projection export + free-roam UI prototype
+
+**INFRA DECISION: in-memory build / static JSON projection — NOT FalkorDB/Neo4j.** At the realized scale (2,858 nodes, 11,790 traversable typed edges, avg degree 8, 118 theme nodes) the two product operations are trivial dict/set ops: free-roam = 1-hop neighbor lookup; constellation = pool-by-theme → within-cluster centrality → MMR. A graph DB buys nothing here and adds an external service, a query language, and a frontmatter→DB sync pipeline — all against the filesystem-first/no-black-box ethos. **Source of truth stays the frontmatter; the projection is a derived, rebuildable JSON.** Defer FalkorDB until a real trigger appears: >~100k nodes, multi-hop pathfinding/shortest-path queries, or live per-user graph writes. The engine keeps a clean interface (load projection → adjacency + theme index) so FalkorDB can be swapped behind it later without touching the UI.
+
+**Projection built (`build_export.py` → `graph-export.json`, 896 KB):** the single artifact a UI/engine consumes — `{meta, nodes:{ref:{s,t,th[],d}}, edges:[[src,tgt,typecode,conf]], themeIndex:{theme:[refs]}, situations:[...]}`. Quarantine + external-reference edges excluded; bridge axis excluded from theme membership (call 9). Top hubs theologically correct (55:1-13, 2:255, 2:6-17).
+
+**Free-roam map UI — working prototype** (rendered as an interactive widget, real engine running client-side on a 196-node real slice of the graph — `graph-widget-slice.json`). Two pathways wired and demonstrated end-to-end:
+- **Constellation front door:** pick a life-situation → pool by seed-theme → rank by within-cluster centrality → MMR-diversify → 3 resonant-but-distinct verses (different surahs), each labeled with its "via" themes and centrality weight.
+- **Free-roam:** click any node → it recenters, typed neighbors fan out, edges styled by tier (gold solid = lexical-root objective, teal = same-surah continuation, dashed gray = thematic/interpretive). Click to walk.
+
+This is the highest-unserved pathway (free-roam map) made tangible **without touching the live Next.js app** — the safe way to validate the surface before building the production route. Production wiring = drop `graph-export.json` into the app as a build artifact (or generate at build), read it in a route/RSC, render with the same engine + a force/SVG layer. **Artifacts:** `build_export.py`, `graph-export.json`, `graph-widget-slice.json`.
+
+## ✅ NODE VALIDATION GATE — ADDED (2026-07-07, adversarial-review F1)
+
+The edge tiers were provenance-gated but the **nodes** were not: `build_export.py` never read `validated:`, so 567 edge-source files (27%) with `validated: false` flowed into the projection — including 29:2-3, the divine-testing centrality exemplar. Fixed: every node now carries `v` (1=validated, 0=failed/pending, -1=unflagged) and `meta.validation` records the counts + policy. Same philosophy as edge `min_df`: the data carries the signal, the consumer picks the operating point — **but product surfaces MUST filter to `v==1`** (master validation policy).
+
+**Measured cost of the gate:** validated-only view = **6,222 of 11,755 edges (53%)**. Clearing the 837 `validated: false` files ≈ doubles the safe traversable graph — the validation burn-down is graph-growth work, not housekeeping. Full findings: `docs/adversarial-review-2026-07.md`.
+
+## ✅ EDGE DISCOVERY PASS — BUILT (2026-07-07, `propose_edges.py` → `edges-proposed.json`)
+
+The salvage pass typed edges authors *had* written; this pass discovers cross-surah lexical-root connections **nobody authored** — root-intersection over the corpus cache, DF≤50, cross-surah only, excluding all existing pairs. **Zero mutation of sacred files.** New tier: `confidence: 'proposed'` — the shared rare root is an objective FACT but the resonance CLAIM is unreviewed (no author intent), so proposals are **non-traversable until promoted** by a review pass reading both passages.
+
+**Results: 77,827 proposals**, tiered: 5,350 very-strong (DF≤10) · **654 multi-root very-strong, of which 350 with both endpoints validated = the elite promotion queue.** Spot-checks confirm the pass rediscovers *classical* munāsabāt no author had entered: 4:43↔5:6 (the two wudu/tayammum verses, 5 shared rare roots), 2:58↔7:161 (ḥiṭṭah told twice), 3:152↔8:11 (نعس DF=2 — the drowsiness at Uhud and Badr), 9:113↔11:74 (Ibrahim's أوّاه in both places), 3:46↔5:110 (Isa speaks in cradle and كهل). Existing graph = 11,982 pairs; the very-strong tier alone is a potential ~45% expansion, mechanically derived.
+
+**Next:** a promotion pass (skill-disciplined — reads both passages, confirms/rejects the resonance, writes promoted edges back to frontmatter with basis) over the 350-elite queue first.
+
 ## What's NOT decided yet (open)
-- ~~Salvage rate of the 14,257 edges~~ **RESOLVED: ~98% salvageable (see step 3). Salvage all.**
-- Graph DB choice (FalkorDB vs Neo4j vs in-memory build) — defer until node/edge counts post-normalization are known; at this scale it may not matter.
-- Whether MODERN-BRIDGE axis ships at all (scholar call — adversarial-quotation risk).
-- Quality of the bottom-up ontology clustering (ontology-v1 is a first pass; needs the normalization run to validate that the merge map actually collapses the tail cleanly).
-- Next empirical test: run normalization on the full corpus + build a tiny graph projection and execute a real "constellation" query end-to-end to validate the whole stack on live data.
+- ~~Salvage rate of the 14,257 edges~~ **RESOLVED: ~98% salvageable; typed + tiered (72.8% objective / 25.6% thematic / 1.6% quarantine). Salvage all.**
+- ~~Graph DB choice (FalkorDB vs Neo4j vs in-memory build)~~ **RESOLVED: in-memory build / static JSON projection at this scale; FalkorDB deferred until a real trigger (>100k nodes / multi-hop / live writes). See PRODUCTIONIZE above.**
+- ~~Whether MODERN-BRIDGE axis ships~~ **RESOLVED (scholar panel call 9): ships only QUARANTINED — separate layer, never pooled with classical vocab, per-term whitelist + caveat, barred from ahkām ayahs, illustrative-only.**
+- ~~Quality of the bottom-up ontology clustering~~ **RESOLVED: merge-map collapses the navigable (≥5×) vocab to ~99%; scholar panel adjudicated the 10 hardest calls (see ontology §5-RESOLVED).**
+- **Remaining for production wiring:** build the actual Next.js route/RSC for the free-roam map (the prototype proves the surface; `graph-export.json` is the artifact to load); add the live `ANTHROPIC_API_KEY` so `situation_router.py` runs the Haiku path instead of the keyword fallback; decide whether per-node spine summaries (PageIndex-style) are needed for the deep-study pathway (not needed for free-roam/constellation).
+- **Still gating CONTENT quality (not the graph build):** tafsir re-key → finish semantic-enrich (`scripts/TAFSIR-REKEY-PLAN.md`).

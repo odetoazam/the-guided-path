@@ -7,7 +7,14 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "carousel": "tsx scripts/carousel/index.ts"
+    "carousel": "tsx scripts/carousel/index.ts",
+    "post": "tsx scripts/post.ts",
+    "auto-post": "tsx scripts/auto-post.ts",
+    "post-reel": "tsx scripts/post-reel.ts",
+    "reel": "tsx scripts/reel-export.ts",
+    "topup": "tsx scripts/topup-queue.ts",
+    "graph": "python3 scripts/graph-lab/build_graph.py",
+    "graph:check": "python3 scripts/graph-lab/build_graph.py --check"
   },
   "dependencies": {
     "@marsidev/react-turnstile": "^1.4.2",

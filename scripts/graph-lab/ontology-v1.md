@@ -370,6 +370,29 @@ So: 1,002 raw → ~350 curated canonical concepts across 7 curated axes, + an au
 
 ---
 
+## 5-RESOLVED. Advisor-panel verdicts (Hasan al-Qāsimī / Zaynab al-Mansūrī / Tāriq al-Dimashqī, 2026-06-20)
+
+The panel (run via `/advisors`) adjudicated all 10 flagged calls. Alias re-keys are applied by `apply-scholar-verdicts.py` → `merge-map.csv` (idempotent); edge-layer decisions are honoured in `type_edges.py` and the build.
+
+| # | Call | Verdict | Implemented as |
+|---|------|---------|----------------|
+| 1 | mercy/justice theme-vs-attribute | **DUAL-TAG** — one theme slug + `:REVEALS_ATTRIBUTE`→divine-Name edge. Mercy→ar-Raḥmān (safe). **Do not reify `divine-justice` as a Name** (al-ʿAdl rests on a weak Tirmidhī chain, not in the agreed 99) — justice→al-Ḥakīm or theme-only. | edge-layer (build); CSV keeps `divine-mercy`/`divine-justice` themes + `al-mulk`/`rabb` attributes |
+| 2 | khashyah/khawf/taqwa | **SPLIT** the collapsed `fear` state into `khashyah` (knowledge-based awe; +awe, reverence — al-Rāghib: *khawf maqrūn bi-taʿẓīm*, 35:28) and `khawf` (dread; +fear, ishfaq, dread). `taqwa` stays its own theme. | CSV re-key |
+| 3 | taqlīd→social-proof | **REMOVE** `taqlid` (Tāriq: a positive usul term — *taqlīd al-ʿāmmī wājib* — never the Quran's blameworthy attitude). Blameworthy ancestral following → classical theme `ittiba-al-aba` (2:170, 5:104). | CSV: delete `taqlid`; `inherited-belief` moved off bridge → `ittiba-al-aba` theme |
+| 4 | death as a node | **KEEP** `death` standalone (mawt = threshold, not a subset of ākhirah); **evict `aging`** → `creation` (30:54 weakness→strength→weakness is a sign-of-power over the self). barzakh stays separate. | CSV re-key |
+| 5 | hidayah/dalāl | **SPLIT** `dalal` (+misguidance, idlal, dalalah, astray) out of the `hidayah` super-cluster; bind by a **`:CONTRASTS` (ṭibāq) edge** rather than merging. Allah's active *idlāl* (14:4) is too loaded to be a mere "negative pole." | CSV re-key + edge-layer contrast |
+| 6 | rabb / rubūbiyya·ulūhiyya | **ENCODE** the distinction (the Makkan argument: mushrikūn affirmed rubūbiyya 29:61/43:87, denied ulūhiyya). Already largely present: rubūbiyya→`rabb`/`al-mulk` (attribute), ulūhiyya→`tawhid` (theme). Added `uluhiyya` aliases. **Ground in the Quranic argument, not Taymiyyan three-fold framing.** | CSV: add `uluhiyya`→tawhid |
+| 7 | passive-voice C/D/A seam | Feature stays **grammatical (D)**; the theology is an **EDGE, not a slug**. Collapsed `divine-passive` + `passive-voice-theology` into the single feature `passive-voice`. `iltifat` stays a device (C) with its payload as an edge. | CSV re-key (3→1) |
+| 8 | shaytan/iblis | **CONFIRM split** — `iblis` = character (the named refuser; jinn-vs-angel ikhtilāf attaches here), `shaytan` = theme (waswasah/ʿadāwah + the 6:112 category). Matches the live hub. | no change needed |
+| 9 | modern-bridge warrant | **SHIP ONLY QUARANTINED** — bridge axis is a separately-labelled layer **never pooled with classical vocabulary**, every term whitelisted with a caveat, **barred from ahkām-bearing ayahs**, direction strictly *illustrative* (Quran→modern), never constitutive. | `type_edges.py`: bridge axis excluded from theme pooling |
+| 10 | period vs surah | **CONFIRM** REVELATION-PERIOD facet, not SURAH axis; collapse makki=meccan=makkan, madani=medinan. Coarse tag (per-ayah makkī/madanī has classical ikhtilāf). | facet-layer (build) |
+
+**Only real intra-panel tension:** call 1 — Zaynab is unreservedly pro-dual-tag (the morphology *raḥmah* vs *ar-Raḥmān* already encodes the act/Name split); Hasan accepts the shape but vetoes reifying `divine-justice` as a Name. Resolution above.
+
+**Honesty check (what the all-scholar panel did not voice):** every SPLIT shrinks a theme pool — a node with 4 ayahs is a poor constellation seed. The engineering/growth counter-voice: split only where the pool stays viable, and don't kill the bridge axis (it's the relatability hook for younger readers). Resolution = call 9's roped-off layer: bridges live, but never contaminate the classical graph.
+
+---
+
 ## 6. Implementation note (non-binding)
 
 Store the merge map as a flat `alias → canonical → axis` table (CSV/JSON) so re-tagging is deterministic and reversible. Tag each passage on multiple axes; model attribute/theme/character/device as separate node *labels* in the graph with typed edges (`:ABOUT`, `:REVEALS`, `:FEATURES_DEVICE`, `:USES_GRAMMAR`, `:DEPICTS_CHARACTER`, `:EVOKES_STATE`, `:BRIDGES_TO`). The axis a term lives on determines its node label; aliases never become nodes.

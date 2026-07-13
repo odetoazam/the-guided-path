@@ -1,0 +1,802 @@
+{
+ "meta": {
+  "generator": "manual aggregation — session hit usage limit mid-review",
+  "chunks_completed": "8/24",
+  "pairs_reviewed": "110/350",
+  "verdict_counts": {
+   "CONFIRM": 80,
+   "REJECT": 30
+  },
+  "remaining_chunks": [
+   2,
+   4,
+   6,
+   7,
+   8,
+   11,
+   13,
+   14,
+   16,
+   17,
+   18,
+   19,
+   20,
+   21,
+   22,
+   23
+  ],
+  "note": "INCOMPLETE. 16 chunks did not run due to session rate limit (resets 3:30am PT). Resume by re-running the missing chunk numbers against chunk-NN.json, same prompt as before."
+ },
+ "edges": [
+  {
+   "src": "4:43",
+   "tgt": "5:6",
+   "verdict": "CONFIRM",
+   "connection_type": "twin-ruling",
+   "note": "Verbatim tayammum clause (illness, travel, gha'it, lamastum, sa'id tayyib) in both — the canonical wudu/tayammum twin legislation."
+  },
+  {
+   "src": "2:58-59",
+   "tgt": "7:161-162",
+   "verdict": "CONFIRM",
+   "connection_type": "retelling",
+   "note": "Same hittah event: Bani Israel enter the town, change the word, rijz from the sky. Near-identical wording."
+  },
+  {
+   "src": "16:65-69",
+   "tgt": "47:15",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Four worldly drinks (water, laban, sakar, honey) map onto 47:15's four Paradise rivers; laban + lil-sharibin phrasing echoes."
+  },
+  {
+   "src": "5:106-107",
+   "tgt": "18:21-22",
+   "verdict": "REJECT",
+   "connection_type": "coincidental-vocabulary",
+   "note": "'uthira/a'tharna same rare discovery verb, but unrelated pericopes: perjured bequest witnesses vs Cave sleepers. No shared event or scene."
+  },
+  {
+   "src": "4:25",
+   "tgt": "5:4-5",
+   "verdict": "CONFIRM",
+   "connection_type": "twin-ruling",
+   "note": "Identical chastity formula — muhsanat ghayr musafihat wa-la muttakhidhat akhdan — gender-mirrored across the two marriage-law passages."
+  },
+  {
+   "src": "2:275-281",
+   "tgt": "3:137-141",
+   "verdict": "REJECT",
+   "connection_type": "coincidental-vocabulary",
+   "note": "yamhaq applied to riba vs to kafirin — same divine verb, unrelated domains (usury legislation vs Uhud consolation)."
+  },
+  {
+   "src": "5:3",
+   "tgt": "9:120-122",
+   "verdict": "REJECT",
+   "connection_type": "coincidental-vocabulary",
+   "note": "makhmasah = famine dispensation for forbidden food vs campaign hunger rewarded at Tabuk; same rare noun, unrelated rulings."
+  },
+  {
+   "src": "3:46",
+   "tgt": "5:110",
+   "verdict": "CONFIRM",
+   "connection_type": "retelling",
+   "note": "Identical phrase 'yukallimu al-nasa fi al-mahdi wa-kahlan' about Isa: annunciation promise retold by Allah on Judgment Day."
+  },
+  {
+   "src": "14:42-44",
+   "tgt": "21:97",
+   "verdict": "CONFIRM",
+   "connection_type": "shared-scene",
+   "note": "Same eschatological image: shakhasa + absar, disbelievers' eyes frozen staring on the Day; ghaflah paired in both."
+  },
+  {
+   "src": "2:225-232",
+   "tgt": "4:19-21",
+   "verdict": "CONFIRM",
+   "connection_type": "twin-ruling",
+   "note": "la ta'duluhunna in both: twin prohibitions of coercively constraining women (blocking remarriage 2:232; extorting back mahr 4:19)."
+  },
+  {
+   "src": "2:178-182",
+   "tgt": "5:3",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "janaf paired with ithm in its only two occurrences, both intent-qualifiers in dispensation clauses closing with Ghafur Rahim."
+  },
+  {
+   "src": "44:43-50",
+   "tgt": "68:10-16",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "Same figure-type: wealthy arrogant denier branded athim in both; 'utull (68:13) mirrors fa'tiluhu (44:47) — brute brutally dragged."
+  },
+  {
+   "src": "41:47",
+   "tgt": "55:1-13",
+   "verdict": "REJECT",
+   "connection_type": "coincidental-vocabulary",
+   "note": "akmam (fruit sheaths) incidental botany in both: exclusive-knowledge-of-the-Hour argument vs Rahman's provision list. Different rhetorical loads."
+  },
+  {
+   "src": "2:113-115",
+   "tgt": "59:2",
+   "verdict": "REJECT",
+   "connection_type": "coincidental-vocabulary",
+   "note": "kharab of mosques (universal wrongdoing principle) vs Banu Nadir wrecking their own homes — different buildings, events, agents."
+  },
+  {
+   "src": "21:78-79",
+   "tgt": "101:1-5",
+   "verdict": "REJECT",
+   "connection_type": "coincidental-vocabulary",
+   "note": "nafash = sheep straying at night vs manfush carded wool; same root, different senses, unrelated contexts (courtroom vs apocalypse)."
+  },
+  {
+   "src": "71:15-16",
+   "tgt": "84:16-19",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "Rare t-b-q: layered heavens vs stage-upon-stage ascent; tafsir strand reads 84:19 as heaven-after-heaven; moon central in both."
+  },
+  {
+   "src": "35:12",
+   "tgt": "56:57-74",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Ujaj (bitter-salt) as foil for drinkable water in both provision-sign passages, each closing with call to gratitude (tashkurun)."
+  },
+  {
+   "src": "16:65-69",
+   "tgt": "35:12",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Sa'igh (pleasant-to-swallow) describes God-given drink (milk / fresh water) in twin signs-of-provision lists; identical conceptual load."
+  },
+  {
+   "src": "76:17",
+   "tgt": "83:18-28",
+   "verdict": "CONFIRM",
+   "connection_type": "shared-scene",
+   "note": "Same scene: abrar's Paradise cup with mizaj (mixture) from named spring; yusqawna in both; zanjabil parallels Tasnim."
+  },
+  {
+   "src": "78:31-36",
+   "tgt": "80:24-32",
+   "verdict": "REJECT",
+   "connection_type": "coincidental-vocabulary",
+   "note": "Hada'iq+grapes: Paradise reward list vs earthly food-providence list; stock garden imagery, different referents (akhirah vs dunya)."
+  },
+  {
+   "src": "20:9-16",
+   "tgt": "79:15-26",
+   "verdict": "CONFIRM",
+   "connection_type": "retelling",
+   "note": "Same event: Musa called in sacred valley Tuwa; both share wadi muqaddas Tuwa and hal ataka hadithu Musa."
+  },
+  {
+   "src": "2:261-266",
+   "tgt": "12:43-49",
+   "verdict": "REJECT",
+   "connection_type": "coincidental-vocabulary",
+   "note": "False friends: sunbul parable vs dream-ears; i'sar whirlwind vs ya'sirun pressing; halim attribute vs ahlam dreams."
+  },
+  {
+   "src": "4:11-12",
+   "tgt": "18:21-22",
+   "verdict": "REJECT",
+   "connection_type": "coincidental-vocabulary",
+   "note": "Number roots as inheritance fractions vs sleepers' ordinal guessing; unrelated legal vs narrative contexts."
+  },
+  {
+   "src": "18:21-22",
+   "tgt": "58:7",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Identical three-fourth/five-sixth counting construction; both turn on Allah's exclusive knowledge of hidden company (sleepers' number / secret counsel)."
+  },
+  {
+   "src": "11:82-83",
+   "tgt": "15:73-77",
+   "verdict": "CONFIRM",
+   "connection_type": "retelling",
+   "note": "Same event near-verbatim: ja'alna 'aliyaha safilaha, rained hijara min sijjil — destruction of Lut's city."
+  },
+  {
+   "src": "43:71",
+   "tgt": "56:15-26",
+   "verdict": "CONFIRM",
+   "connection_type": "shared-scene",
+   "note": "Same Paradise banquet: yutafu 'alayhim with akwab and whatever souls desire (sh-h-w); identical service scene."
+  },
+  {
+   "src": "4:11-12",
+   "tgt": "58:7",
+   "verdict": "REJECT",
+   "connection_type": "coincidental-vocabulary",
+   "note": "Sixth/quarter/third as estate fractions vs ordinal counting of najwa companions; same roots, different function and context."
+  },
+  {
+   "src": "18:54-56",
+   "tgt": "40:5",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Verbatim formula jadalu bil-batili li-yudhidu bihi al-haqq in both; rare d-h-d carries identical load."
+  },
+  {
+   "src": "4:24",
+   "tgt": "5:4-5",
+   "verdict": "CONFIRM",
+   "connection_type": "twin-ruling",
+   "note": "Twin marriage rulings: muhsinina ghayra musafihin plus mahr (atuhunna ujurahunna) verbatim in both."
+  },
+  {
+   "src": "5:4-5",
+   "tgt": "6:59-62",
+   "verdict": "REJECT",
+   "connection_type": "coincidental-vocabulary",
+   "note": "J-r-h as jawarih hunting animals vs jarahtum deeds earned by day; food law vs divine-knowledge passage, unrelated."
+  },
+  {
+   "src": "6:59-62",
+   "tgt": "20:77-79",
+   "verdict": "REJECT",
+   "connection_type": "coincidental-vocabulary",
+   "note": "yabis = dry thing in omniscience merism (6:59) vs dry path through sea (20:77); unrelated contexts."
+  },
+  {
+   "src": "5:43-45",
+   "tgt": "6:59-62",
+   "verdict": "REJECT",
+   "connection_type": "coincidental-vocabulary",
+   "note": "jarh = literal wounds in qisas law (5:45) vs metaphorical 'earning' deeds by day (6:60); different senses."
+  },
+  {
+   "src": "4:60-64",
+   "tgt": "78:21-26",
+   "verdict": "REJECT",
+   "connection_type": "coincidental-vocabulary",
+   "note": "wfq = hypocrites' claimed 'reconciliation' (4:62) vs 'fitting recompense' wifaqan (78:26); different loads, unrelated scenes."
+  },
+  {
+   "src": "4:35",
+   "tgt": "11:87-90",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Same cluster: amid shiqaq, sincere iradat islah draws Allah's tawfiq — marital arbitration and Shu'ayb state the identical equation."
+  },
+  {
+   "src": "18:17-18",
+   "tgt": "69:25-37",
+   "verdict": "REJECT",
+   "connection_type": "coincidental-vocabulary",
+   "note": "dhr' = dog's forelegs (18:18) vs seventy-cubit chain (69:32); shimal = turning direction vs left hand. Unrelated."
+  },
+  {
+   "src": "5:46-48",
+   "tgt": "57:27",
+   "verdict": "CONFIRM",
+   "connection_type": "retelling",
+   "note": "Near-identical formula: qaffayna 'ala atharihim bi-'Isa ibn Maryam + given the Injil — same event, same wording."
+  },
+  {
+   "src": "7:141-143",
+   "tgt": "69:13-17",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Rare dakk crushes mountains before divine power in both: Sinai tajalli (7:143) prefigures Qiyamah's dakkah wahidah (69:14)."
+  },
+  {
+   "src": "69:19-24",
+   "tgt": "77:41-44",
+   "verdict": "CONFIRM",
+   "connection_type": "shared-scene",
+   "note": "Identical Paradise address: kulu wa-shrabu hani'an bima (aslaftum/kuntum ta'malun) — same scene, deed-earned reward."
+  },
+  {
+   "src": "15:87-89",
+   "tgt": "26:210-215",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Identical command: wa-khfid janahaka lil-mu'minin — lower your wing to believers, both paired with warner role."
+  },
+  {
+   "src": "2:111-112",
+   "tgt": "28:75",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Same challenge formula hatu burhanakum: issued via Prophet in dunya (2:111), by Allah at Judgment (28:75)."
+  },
+  {
+   "src": "6:145-147",
+   "tgt": "16:112-119",
+   "verdict": "CONFIRM",
+   "connection_type": "twin-ruling",
+   "note": "Same four-item food prohibition + necessity clause; 16:118 explicitly back-references the Jewish restrictions detailed in 6:146."
+  },
+  {
+   "src": "2:172-176",
+   "tgt": "5:3",
+   "verdict": "CONFIRM",
+   "connection_type": "twin-ruling",
+   "note": "Same dietary prohibition law: four items + idturra necessity exception; 5:3 expands the identical ruling."
+  },
+  {
+   "src": "2:172-176",
+   "tgt": "6:145-147",
+   "verdict": "CONFIRM",
+   "connection_type": "twin-ruling",
+   "note": "Twin statements of the four prohibited foods with matching ghayra baghin wa-la 'adin necessity exception."
+  },
+  {
+   "src": "2:172-176",
+   "tgt": "16:112-119",
+   "verdict": "CONFIRM",
+   "connection_type": "twin-ruling",
+   "note": "2:172-173 and 16:114-115 are near-verbatim twins: eat tayyibat, be grateful, four prohibitions, necessity clause."
+  },
+  {
+   "src": "5:3",
+   "tgt": "6:145-147",
+   "verdict": "CONFIRM",
+   "connection_type": "twin-ruling",
+   "note": "Same food-prohibition ruling: maytah, blood, khinzir flesh, uhilla li-ghayri-llah, plus compelled-person mercy exception."
+  },
+  {
+   "src": "16:56-60",
+   "tgt": "43:16-19",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Verbatim clause 'zalla wajhuhu muswaddan wa-huwa kazim' in both; same daughters-assigned-to-Allah argument and scene."
+  },
+  {
+   "src": "6:95-99",
+   "tgt": "80:24-32",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "Same sign-argument: rain then identical crop catalogue (grain, grapes, olives, date-palms) with command to look at food/fruit."
+  },
+  {
+   "src": "7:132-137",
+   "tgt": "43:46-50",
+   "verdict": "CONFIRM",
+   "connection_type": "retelling",
+   "note": "Same Musa-Fir'awn plague-bargaining scene, near-identical wording: bima 'ahida 'indak, kashf of punishment, idha hum yankuthun."
+  },
+  {
+   "src": "4:46",
+   "tgt": "5:41-42",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Near-identical tahrif formula about the same faction: yuharrifuna al-kalima 'an/min ba'di mawadi'ih."
+  },
+  {
+   "src": "2:163-167",
+   "tgt": "39:56-58",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Identical 'law anna li/lana karratan' wish plus hasrah upon seeing the punishment — same eschatological moment."
+  },
+  {
+   "src": "2:258-260",
+   "tgt": "35:27",
+   "verdict": "REJECT",
+   "connection_type": "coincidental-vocabulary",
+   "note": "himar (donkey) vs humr (red tracts); maghrib (west) vs gharabib (raven-black) — same roots, unrelated referents."
+  },
+  {
+   "src": "6:141-144",
+   "tgt": "12:43-49",
+   "verdict": "REJECT",
+   "connection_type": "coincidental-vocabulary",
+   "note": "Agrarian terms incidental: harvest-due and livestock-taboo law vs dream-symbol cows and famine planning; unrelated contexts."
+  },
+  {
+   "src": "2:168-171",
+   "tgt": "17:97-99",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "summ bukm 'umy: worldly spiritual deafness (2:171) literalized at resurrection gathering (17:97); measure-for-measure echo."
+  },
+  {
+   "src": "2:18-20",
+   "tgt": "17:97-99",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Same triad summ bukm 'umy (2:18) re-enacted bodily at the gathering (17:97); recognized retributive echo."
+  },
+  {
+   "src": "2:192-196",
+   "tgt": "9:5",
+   "verdict": "CONFIRM",
+   "connection_type": "twin-ruling",
+   "note": "Sacred-month combat legislation; identical cessation-then-Ghafur-Rahim clemency structure; classically paired in naskh discussions."
+  },
+  {
+   "src": "4:90-91",
+   "tgt": "9:5",
+   "verdict": "CONFIRM",
+   "connection_type": "twin-ruling",
+   "note": "Twin combat rulings: seize/kill wherever found (thaqiftumuhum/wajadtumuhum) plus conditional stand-down clause."
+  },
+  {
+   "src": "2:197-203",
+   "tgt": "6:161-165",
+   "verdict": "REJECT",
+   "connection_type": "coincidental-vocabulary",
+   "note": "manasik = Hajj rites vs nusuki = personal sacrifice-devotion; sari' epithets formulaic; passages otherwise unrelated."
+  },
+  {
+   "src": "5:3",
+   "tgt": "6:136-140",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "Both target jahili food-consecration: 5:3 outlaws idol-dedicated slaughter (nusub); 6:136-140 diagnoses idol shares, invented taboos."
+  },
+  {
+   "src": "9:5",
+   "tgt": "72:8-10",
+   "verdict": "REJECT",
+   "connection_type": "coincidental-vocabulary",
+   "note": "qa'ada+rasad ambush idiom in both, but military siege vs meteors guarding heaven from jinn — unrelated scenes."
+  },
+  {
+   "src": "4:43",
+   "tgt": "16:65-69",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "Both stations of the classical khamr-prohibition arc: 16:67 sakar as provision, 4:43 bans prayer while sukara."
+  },
+  {
+   "src": "7:132-137",
+   "tgt": "48:10",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "nakth+ahd both mark covenant-breach with Allah: Pharaoh's broken plague-pledge is the archetype 48:10's bay'ah warning legislates against."
+  },
+  {
+   "src": "43:46-50",
+   "tgt": "48:10",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "Same nakth+ahd collocation: foxhole pledge broken on relief (43:50) vs whoever breaks bay'ah breaks against himself (48:10)."
+  },
+  {
+   "src": "7:132-137",
+   "tgt": "16:90-97",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "Narrative exemplar vs command: Pharaoh's people yankuthun (7:135); 16:91-92 commands fulfilling ahd, forbids unraveling oaths into ankath."
+  },
+  {
+   "src": "16:90-97",
+   "tgt": "43:46-50",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "16:92's unraveled-thread ankath image is exactly what 43:50 narrates: Pharaoh's court yankuthun once punishment lifts."
+  },
+  {
+   "src": "6:95-99",
+   "tgt": "24:35",
+   "verdict": "REJECT",
+   "connection_type": "coincidental-vocabulary",
+   "note": "Olive as listed crop vs parable lamp-oil; isbah (dawn) vs misbah (lamp) — different referents and conceptual loads."
+  },
+  {
+   "src": "3:11",
+   "tgt": "8:50-54",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Verbatim ka-da'bi ali Fir'awn formula (only 3:11, 8:52, 8:54 in Quran), identical akhadhahum bi-dhunubihim clause."
+  },
+  {
+   "src": "2:127-129",
+   "tgt": "6:161-165",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "Ibrahim asks to be shown manasik (2:128); Prophet consecrates his nusuk within millat Ibrahim (6:161-162), answering that du'a."
+  },
+  {
+   "src": "2:6-17",
+   "tgt": "24:35",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Contrastive parable pair: istawqada/ada'at false light stripped (2:17) vs yuqadu/yudi'u divine light granted — same kindling-illumination lexicon."
+  },
+  {
+   "src": "2:188-191",
+   "tgt": "4:90-91",
+   "verdict": "CONFIRM",
+   "connection_type": "twin-ruling",
+   "note": "Identical combat formula wa-qtuluhum haythu thaqiftumuhum in both engagement rulings, each fenced by peace/withdrawal conditions."
+  },
+  {
+   "src": "4:36",
+   "tgt": "57:22-23",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Identical closing censure: Allah la yuhibbu (kulla) mukhtalan fakhuran — same rare epithet pair, same pride diagnosis."
+  },
+  {
+   "src": "6:141-144",
+   "tgt": "80:24-32",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "Same provision catalog — grain, olives, palms, gardens — ending in eat/provision for you and your an'am, inviting gratitude."
+  },
+  {
+   "src": "39:21",
+   "tgt": "56:57-74",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Same rare image: Allah makes zar' into hutam (yaj'aluhu / laja'alnahu hutaman) — crops to debris proving divine control."
+  },
+  {
+   "src": "2:168-171",
+   "tgt": "6:35-39",
+   "verdict": "CONFIRM",
+   "connection_type": "shared-epithet",
+   "note": "summ bukm epithet for sign-deniers in both: blind father-followers as livestock (2:171); deniers deaf and dumb (6:39)."
+  },
+  {
+   "src": "2:18-20",
+   "tgt": "6:35-39",
+   "verdict": "CONFIRM",
+   "connection_type": "shared-epithet",
+   "note": "summ bukm (umy) plus zulumat in both: hypocrites in storm darknesses (2:18-19); deniers deaf, dumb in darknesses (6:39)."
+  },
+  {
+   "src": "6:35-39",
+   "tgt": "17:97-99",
+   "verdict": "CONFIRM",
+   "connection_type": "shared-epithet",
+   "note": "6:39's deaf-dumb deniers of ayat become literally blind, dumb, deaf at resurrection (17:97); both pair with yahdi/yudlil man yasha."
+  },
+  {
+   "src": "2:261-266",
+   "tgt": "37:139-148",
+   "verdict": "REJECT",
+   "connection_type": "coincidental-vocabulary",
+   "note": "Hundred grains in charity parable vs hundred thousand of Yunus's people; grain growth vs gourd vine — incidental arithmetic and botany."
+  },
+  {
+   "src": "2:109-110",
+   "tgt": "64:14",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Rare paired imperative fa'fu wa-sfahu: pardon commanded toward hostile People of Book and toward family 'enemies' — identical ethical formula, same load."
+  },
+  {
+   "src": "2:109-110",
+   "tgt": "5:13",
+   "verdict": "CONFIRM",
+   "connection_type": "twin-ruling",
+   "note": "Identical command fa'fu wa-sfah toward People of the Book's hostility/treachery; twin directives, discussed together in naskh literature."
+  },
+  {
+   "src": "5:13",
+   "tgt": "64:14",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Fa'fu wa-sfah toward covenant-breakers echoed as ta'fu wa-tasfahu toward family; same rare pardon formula, same conceptual load."
+  },
+  {
+   "src": "4:176",
+   "tgt": "73:20",
+   "verdict": "REJECT",
+   "connection_type": "coincidental-vocabulary",
+   "note": "Half/two-thirds as inheritance shares vs fractions of the night vigil; arithmetic terms in unrelated legal and devotional contexts."
+  },
+  {
+   "src": "4:11-12",
+   "tgt": "73:20",
+   "verdict": "REJECT",
+   "connection_type": "coincidental-vocabulary",
+   "note": "Inheritance fractions (half, third, two-thirds) vs durations of night prayer; functional arithmetic, unrelated referents."
+  },
+  {
+   "src": "23:39-41",
+   "tgt": "26:155-158",
+   "verdict": "CONFIRM",
+   "connection_type": "shared-scene",
+   "note": "Same moment: deniers 'become regretful' (asbaha nadimin) then seized by punishment; Tabari names 23:40's prophet as Salih — likely same Thamud event."
+  },
+  {
+   "src": "26:155-158",
+   "tgt": "49:6",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Thamud's fa-asbahu nadimin after hamstringing echoed in warning fa-tusbihu nadimin: rash irreversible harm followed by morning regret."
+  },
+  {
+   "src": "5:27-31",
+   "tgt": "26:155-158",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Qabil and Thamud both 'became regretful' (asbaha nadimin) immediately after a forbidden killing; identical formula marking too-late remorse."
+  },
+  {
+   "src": "5:51-53",
+   "tgt": "26:155-158",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Same idiom asbaha nadimin: hypocrites' regret when Allah's victory exposes them, Thamud's regret before punishment — too-late regret."
+  },
+  {
+   "src": "23:39-41",
+   "tgt": "49:6",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Promise deniers 'will wake regretful' (la-yusbihunna nadimin) echoed in warning to believers lest they wake regretful; same idiom, same load."
+  },
+  {
+   "src": "5:27-31",
+   "tgt": "23:39-41",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Qabil 'became of the regretful'; deniers promised to wake regretful — same asbaha nadimin formula for remorse arriving with consequence."
+  },
+  {
+   "src": "5:51-53",
+   "tgt": "23:39-41",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Both prospective: hypocrites and deniers promised they 'will become regretful' when Allah's action arrives; identical idiom and conceptual moment."
+  },
+  {
+   "src": "5:27-31",
+   "tgt": "49:6",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Qabil's regret after killing his brother mirrors warning against striking a people in ignorance then waking regretful; same formula."
+  },
+  {
+   "src": "5:51-53",
+   "tgt": "49:6",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Nearly identical construction: fa-yusbihu/fa-tusbihu 'ala ma asarru/fa'altum nadimin — closest syntactic parallel of the regret idiom."
+  },
+  {
+   "src": "3:124-126",
+   "tgt": "18:21-22",
+   "verdict": "REJECT",
+   "connection_type": "coincidental-vocabulary",
+   "note": "Numerals three/five count Badr angels vs. cave sleepers — unrelated referents; numeric co-occurrence, not munasabat."
+  },
+  {
+   "src": "3:124-126",
+   "tgt": "70:1-4",
+   "verdict": "REJECT",
+   "connection_type": "coincidental-vocabulary",
+   "note": "Five thousand angels (troop count) vs. fifty-thousand-year Day (time measure) — numerals incidental, contexts unrelated."
+  },
+  {
+   "src": "6:95-99",
+   "tgt": "22:63-64",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "Same sign-argument: rain sent down, earth/growth turns green (khadir/mukhdarrah) as ayah of divine power."
+  },
+  {
+   "src": "2:233",
+   "tgt": "6:151-153",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Identical maxim 'la tukallafu/nukallifu nafsun illa wus'aha' — taklif capped at capacity, same formula in both legal passages."
+  },
+  {
+   "src": "6:151-153",
+   "tgt": "65:7",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Same kallafa-formula: burden only per capacity/what He gave; wsʿ root carries same load (wusʿ/saʿah) in both."
+  },
+  {
+   "src": "3:40",
+   "tgt": "19:5-6",
+   "verdict": "CONFIRM",
+   "connection_type": "retelling",
+   "note": "Same event: Zakariyya's prayer for an heir, identical phrase 'imra'ati ʿaqir' (my wife is barren) in both surahs."
+  },
+  {
+   "src": "7:73-79",
+   "tgt": "19:7-11",
+   "verdict": "REJECT",
+   "connection_type": "coincidental-vocabulary",
+   "note": "ʿaqara = hamstringing she-camel vs. ʿaqir = barren wife; ʿataw = rebellion vs. ʿitiyy = decrepit age. Different senses entirely."
+  },
+  {
+   "src": "2:275-281",
+   "tgt": "4:22-23",
+   "verdict": "CONFIRM",
+   "connection_type": "twin-ruling",
+   "note": "Same amnesty clause at new prohibition: 'ma salafa' pardons past riba / past Jahili marriages, within halal/haram declarations."
+  },
+  {
+   "src": "2:275-281",
+   "tgt": "5:94-96",
+   "verdict": "CONFIRM",
+   "connection_type": "twin-ruling",
+   "note": "Tight twin formula: pardon of what is past (salafa) plus 'wa man ʿada' recidivism warning plus ahalla/hurrima pair in both."
+  },
+  {
+   "src": "4:22-23",
+   "tgt": "5:94-96",
+   "verdict": "CONFIRM",
+   "connection_type": "twin-ruling",
+   "note": "Same legal principle: 'illa ma qad salafa' / 'ʿafa Allahu ʿamma salaf' — pre-prohibition conduct sealed when new haram declared."
+  },
+  {
+   "src": "5:33-34",
+   "tgt": "7:123-126",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Identical rare collocation: cutting hands and feet 'min khilaf' plus crucifixion — hirabah penalty echoes Pharaoh's threat verbatim."
+  },
+  {
+   "src": "5:33-34",
+   "tgt": "20:70-71",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Same exact punishment-complex: qatʿ of hands/feet min khilaf plus salb; Pharaoh's Ta-Ha threat shares 5:33's precise wording."
+  },
+  {
+   "src": "4:19-21",
+   "tgt": "33:58",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Identical fixed phrase 'buhtanan wa-ithman mubina' in both — wronging the innocent branded slander plus manifest sin."
+  },
+  {
+   "src": "38:30-33",
+   "tgt": "42:51-53",
+   "verdict": "REJECT",
+   "connection_type": "coincidental-vocabulary",
+   "note": "'Tawarat bil-hijab' = sun setting in Sulayman narrative vs. 'min wara'i hijab' = mode of divine speech. Unrelated referents."
+  },
+  {
+   "src": "6:35-39",
+   "tgt": "16:61-64",
+   "verdict": "REJECT",
+   "connection_type": "coincidental-vocabulary",
+   "note": "farratna = nothing omitted from Book vs. mufratun = abandoned to Fire; dabbah in different arguments. Senses diverge."
+  },
+  {
+   "src": "7:132-137",
+   "tgt": "16:112-119",
+   "verdict": "REJECT",
+   "connection_type": "coincidental-vocabulary",
+   "note": "Dam: Egypt plague vs dietary prohibition; sanaa: Pharaoh's razed works vs generic deeds formula. Unrelated referents."
+  },
+  {
+   "src": "7:132-137",
+   "tgt": "20:37-41",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Same Musa arc: the yamm carries infant Musa, later drowns Pharaoh; divine istanatuka contrasts Pharaoh's destroyed sun'."
+  },
+  {
+   "src": "9:82-87",
+   "tgt": "83:29-36",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "Same load: wrongdoers' derisive laughter divinely reversed — laugh little then weep much; mocked believers laugh last."
+  },
+  {
+   "src": "7:132-137",
+   "tgt": "16:65-69",
+   "verdict": "REJECT",
+   "connection_type": "coincidental-vocabulary",
+   "note": "Dam: plague vs milk physiology; ya'rishun: destroyed Pharaonic structures vs bee trellises. Incidental co-occurrence."
+  },
+  {
+   "src": "12:18",
+   "tgt": "16:112-119",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Wasf+kadhib collocation in both: tongues fabricating decorated falsehood — fake-blood story, invented halal/haram. Blood root itself coincidental."
+  }
+ ]
+}
