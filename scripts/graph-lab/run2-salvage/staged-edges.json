@@ -1,0 +1,2516 @@
+{
+ "meta": {
+  "staged": 303,
+  "files_with_edges": 20,
+  "invalid_or_unresolved": 0,
+  "duplicates_skipped": 22,
+  "reviewed_roots": 79
+ },
+ "edges": [
+  {
+   "src": "6:18",
+   "tgt": "6:59-62",
+   "verdict": "CONFIRM",
+   "connection_type": "shared-epithet",
+   "note": "identical phrase 'wa huwa l-qāhiru fawqa ʿibādih' repeats verbatim between 6:18 and 6:61",
+   "source_task": "a028d9bb00ce2ae5a.output"
+  },
+  {
+   "src": "6:18",
+   "tgt": "12:36-42",
+   "verdict": "CONFIRM",
+   "connection_type": "shared-epithet",
+   "note": "12:39 pairs 'Allāhu l-Wāḥidu l-Qahhār' in Yusuf's prison da'wah, same root-family divine epithet as 6:18's al-Qāhir",
+   "source_task": "a028d9bb00ce2ae5a.output"
+  },
+  {
+   "src": "6:18",
+   "tgt": "13:16-18",
+   "verdict": "CONFIRM",
+   "connection_type": "shared-epithet",
+   "note": "13:16 closes the creation-argument with 'huwa l-Wāḥidu l-Qahhār'",
+   "source_task": "a028d9bb00ce2ae5a.output"
+  },
+  {
+   "src": "6:18",
+   "tgt": "14:45-48",
+   "verdict": "CONFIRM",
+   "connection_type": "shared-epithet",
+   "note": "14:48 closes the passage with 'lillāhi l-wāḥidi l-qahhār' as all creation stands exposed",
+   "source_task": "a028d9bb00ce2ae5a.output"
+  },
+  {
+   "src": "6:18",
+   "tgt": "38:65-68",
+   "verdict": "CONFIRM",
+   "connection_type": "shared-epithet",
+   "note": "38:65 opens the Prophet's self-description of his mission with 'Allāhu l-Wāḥidu l-Qahhār'",
+   "source_task": "a028d9bb00ce2ae5a.output"
+  },
+  {
+   "src": "6:18",
+   "tgt": "39:4",
+   "verdict": "CONFIRM",
+   "connection_type": "shared-epithet",
+   "note": "39:4 uses 'huwa Allāhu l-Wāḥidu l-Qahhār' to dismiss the son-attribution premise",
+   "source_task": "a028d9bb00ce2ae5a.output"
+  },
+  {
+   "src": "6:18",
+   "tgt": "40:16-17",
+   "verdict": "CONFIRM",
+   "connection_type": "shared-epithet",
+   "note": "40:16 stages the Day-of-Judgment self-answered question 'lillāhi l-Wāḥidi l-Qahhār'",
+   "source_task": "a028d9bb00ce2ae5a.output"
+  },
+  {
+   "src": "22:19-22",
+   "tgt": "4:56-57",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "Both depict hellfire scenes where the skins (julud) of the damned are melted/renewed as continual torment — 4:56 skins burn and are replaced, 22:20 boiling water melts what is in the bellies and skins.",
+   "source_task": "a0a227046544b49c9.output"
+  },
+  {
+   "src": "24:2",
+   "tgt": "24:4-5",
+   "verdict": "CONFIRM",
+   "connection_type": "twin-ruling",
+   "note": "Adjacent hudud rulings sharing the ijlidu-lashing verb — 100 lashes for zina (24:2) paired with 80 lashes for false accusation (24:4) in the same legal unit of Surah an-Nur.",
+   "source_task": "a0a227046544b49c9.output"
+  },
+  {
+   "src": "41:19-23",
+   "tgt": "39:23",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "Skin (julud) as the register of a soul's relationship to revelation, in opposite fates — shudders then softens at the Quran (39:23) vs. testifies against the denier at the Fire (41:20).",
+   "source_task": "a0a227046544b49c9.output"
+  },
+  {
+   "src": "31:29",
+   "tgt": "3:26-27",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Verbatim repeated refrain 'yuliju al-layla fi al-nahari wa yuliju al-nahara fi al-layl' as a tawhid-formula; 31:29's own metadata names this a recurring cross-surah refrain.",
+   "source_task": "a0a227046544b49c9.output"
+  },
+  {
+   "src": "31:29",
+   "tgt": "22:61-62",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Same verbatim night/day merging formula used as proof of divine power.",
+   "source_task": "a0a227046544b49c9.output"
+  },
+  {
+   "src": "31:29",
+   "tgt": "35:13",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Same verbatim formula, paired with the identical sakhkhara-sun-and-moon clause found in 31:29.",
+   "source_task": "a0a227046544b49c9.output"
+  },
+  {
+   "src": "31:29",
+   "tgt": "57:1-6",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "57:6 repeats the identical night/day formula as the closing line of Al-Hadid's cosmic opening.",
+   "source_task": "a0a227046544b49c9.output"
+  },
+  {
+   "src": "34:2",
+   "tgt": "57:1-6",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Word-for-word repeated formula 'what enters the earth, what emerges, what descends from heaven, what ascends' — 57:4 repeats 34:2 verbatim.",
+   "source_task": "a0a227046544b49c9.output"
+  },
+  {
+   "src": "36:8",
+   "tgt": "13:5-7",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Disbelievers fitted with aghlal (shackles) on their necks; 36:8's own metadata names 13:5 as the parallel verse.",
+   "source_task": "a0a227046544b49c9.output"
+  },
+  {
+   "src": "36:8",
+   "tgt": "34:31-33",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Same aghlal-on-necks punishment formula for mutually-blaming disbelievers in the Fire.",
+   "source_task": "a0a227046544b49c9.output"
+  },
+  {
+   "src": "36:8",
+   "tgt": "40:69-72",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Same 'al-aghlalu fi a'naqihim' formula; 36:8's metadata names 40:71 as the parallel verse.",
+   "source_task": "a0a227046544b49c9.output"
+  },
+  {
+   "src": "62:8",
+   "tgt": "33:16",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Both state that fleeing death is futile — '33:16 fleeing will never benefit you if you flee from death' and '62:8 the death you flee will meet you.'",
+   "source_task": "a0a227046544b49c9.output"
+  },
+  {
+   "src": "62:8",
+   "tgt": "75:7-13",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "75:10's 'where is the escape / no refuge' directly parallels 62:8's 'the death you flee will meet you' — both deny the possibility of escape from the reckoning.",
+   "source_task": "a0a227046544b49c9.output"
+  },
+  {
+   "src": "62:8",
+   "tgt": "80:33-37",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "Both are Judgment-Day scenes of futile flight — 80:34's man fleeing even his own family under the deafening blast mirrors 62:8's inescapable flight-response.",
+   "source_task": "a0a227046544b49c9.output"
+  },
+  {
+   "src": "62:8",
+   "tgt": "51:50",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Deliberate reversal of the same root: fleeing FROM death is futile (33:16/62:8) while 51:50 commands fleeing TO Allah — same verb redirected from futile escape to salvific approach, a contrast the corpus's own commentary draws explicitly.",
+   "source_task": "a0a227046544b49c9.output"
+  },
+  {
+   "src": "71:5-9",
+   "tgt": "74:49-56",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "Hardened hearts fleeing (firar) a call to guidance — Nuh's people fleeing his da'wah (71:6) and deniers fleeing the Reminder 'like startled donkeys fleeing a lion' (74:50-51).",
+   "source_task": "a0a227046544b49c9.output"
+  },
+  {
+   "src": "18:42-44",
+   "tgt": "28:81",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Near-identical refrain 'wa lam takun/mā kāna lahu min fiʾatin yanṣurūnahu min dūni Allāh' (no group to help him besides Allah) applied to both the ruined garden-owner and the swallowed Qarun.",
+   "source_task": "a0de1363980cbe507.output"
+  },
+  {
+   "src": "3:13",
+   "tgt": "8:47-49",
+   "verdict": "CONFIRM",
+   "connection_type": "shared-scene",
+   "note": "Both describe the same Badr encounter using the dual 'fiʾatāni' — 3:13's 'fiʾatayni-ltaqatā' and 8:47's 'tarāʾati l-fiʾatāni' depict the two armies sighting/meeting each other.",
+   "source_task": "a0de1363980cbe507.output"
+  },
+  {
+   "src": "2:246-252",
+   "tgt": "8:45-46",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "2:249's explicit maxim 'a small fiʾah has often overcome a large fiʾah by Allah's permission' (Talut/Jalut) is the classical interpretive lens applied to the outnumbered believers' stand commanded in 8:45-46, also a Badr-context fiʾah encounter.",
+   "source_task": "a0de1363980cbe507.output"
+  },
+  {
+   "src": "3:7",
+   "tgt": "61:5",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "3:8's du'a 'lā tuzigh qulūbanā' uses the same causative Form IV of zaygh applied to qulūb as 61:5's 'azāgha Allāhu qulūbahum' — the rāsikhūn explicitly pray not to become the people of 61:5; 33:10's own tadabbur cites 61:5 to gloss this exact mechanism.",
+   "source_task": "a1bfe2f44df7a8721.output"
+  },
+  {
+   "src": "3:7",
+   "tgt": "9:117-119",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "Both use 'qulūb + zaygh' explicitly (3:7 'fī qulūbihim zaygh' vs 9:117 'kāda yazighu qulūbu farīqin minhum') but represent opposite outcomes: willful interpretive deviation (3:7) vs hearts that nearly swerved under Tabuk hardship and were mercifully caught (9:117) — a real paired vocabulary of near-swerve-forgiven vs swerve-completed-condemned.",
+   "source_task": "a1bfe2f44df7a8721.output"
+  },
+  {
+   "src": "33:10",
+   "tgt": "38:59-64",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "Both use the identical idiom 'zāghat...al-abṣār' (eyes swerved) for vision losing its fixation under overwhelming stimulus: terror at the Trench (33:10) vs the damned's self-deceiving search for the believers they mocked (38:63).",
+   "source_task": "a1bfe2f44df7a8721.output"
+  },
+  {
+   "src": "33:10",
+   "tgt": "53:13-18",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "53:17's 'mā zāgha al-baṣar' is a direct grammatical negation of the same eye-swerve idiom used descriptively in 33:10 — the Prophet's disciplined vision at the Sidrah is the explicit antidote to ordinary human eyes swerving under intensity.",
+   "source_task": "a1bfe2f44df7a8721.output"
+  },
+  {
+   "src": "28:81",
+   "tgt": "28:82",
+   "verdict": "CONFIRM",
+   "connection_type": "shared-scene",
+   "note": "Same Qarun episode — 28:82 is the community's next-morning reaction quoting the very khasf that swallowed him.",
+   "source_task": "a1bfe2f44df7a8721.output"
+  },
+  {
+   "src": "28:81",
+   "tgt": "16:45-47",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "16:45's 'afa-amina...an yakhsifa Allahu bihimu al-ard' is a reused rhetorical-question formula warning the arrogant of Qarun's exact fate.",
+   "source_task": "a1bfe2f44df7a8721.output"
+  },
+  {
+   "src": "28:81",
+   "tgt": "17:67-70",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "17:68 'afa-amintum an yakhsifa bikum janiba al-barr' repeats the identical construction as 16:45, both invoking the Qarun-style earth-swallowing fate.",
+   "source_task": "a1bfe2f44df7a8721.output"
+  },
+  {
+   "src": "28:81",
+   "tgt": "29:40",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "29:40 explicitly catalogs khasf alongside hasib/sayha/ighraq as one of four historical methods of divine seizure, naming Qarun's fate as one instance in the roll call.",
+   "source_task": "a1bfe2f44df7a8721.output"
+  },
+  {
+   "src": "28:81",
+   "tgt": "34:9",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "34:9's conditional 'in nasha' nakhsif bihim al-ard' offers the same threat actualized in Qarun's story as an ongoing possibility to a complacent audience.",
+   "source_task": "a1bfe2f44df7a8721.output"
+  },
+  {
+   "src": "28:81",
+   "tgt": "67:16-17",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "67:16 'a-amintum man fi's-sama' an yakhsifa bikum al-ard' repeats the same rhetorical-question formula as 16:45/17:68; its own related_ayahs already cross-reference Qarun (28:81) and 29:40.",
+   "source_task": "a1bfe2f44df7a8721.output"
+  },
+  {
+   "src": "2:282-286",
+   "tgt": "2:233",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Both carry the identical Quranic formula 'lā tukallafu/yukallifu nafsun illā wus'ahā' verbatim.",
+   "source_task": "a1bfe2f44df7a8721.output"
+  },
+  {
+   "src": "2:282-286",
+   "tgt": "6:151-153",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Same recurring capacity-limit formula applied to moral/legal obligation.",
+   "source_task": "a1bfe2f44df7a8721.output"
+  },
+  {
+   "src": "2:282-286",
+   "tgt": "7:42-43",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Same recurring capacity-limit formula, here sealing the description of Paradise's people.",
+   "source_task": "a1bfe2f44df7a8721.output"
+  },
+  {
+   "src": "2:282-286",
+   "tgt": "23:62",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Same recurring capacity-limit formula in the believers' description.",
+   "source_task": "a1bfe2f44df7a8721.output"
+  },
+  {
+   "src": "2:282-286",
+   "tgt": "65:7",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Same recurring capacity-limit formula applied to spousal maintenance according to means.",
+   "source_task": "a1bfe2f44df7a8721.output"
+  },
+  {
+   "src": "5:33-34",
+   "tgt": "26:49-51",
+   "verdict": "CONFIRM",
+   "connection_type": "retelling",
+   "note": "Same Pharaoh-threatens-magicians-with-crucifixion scene as 20:70-71, retold.",
+   "source_task": "a1bfe2f44df7a8721.output"
+  },
+  {
+   "src": "5:33-34",
+   "tgt": "12:36-42",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "Yusuf's prophecy that the baker 'fa-yuslabu fa-ta'kulu al-tayru min ra'sihi' is another literal crucifixion-as-capital-punishment scene, joining the magicians'-threat and hirabah-penalty instances in the same semantic field.",
+   "source_task": "a1bfe2f44df7a8721.output"
+  },
+  {
+   "src": "24:36-38",
+   "tgt": "2:282-286",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "2:282's exemption of immediate trade transactions from the debt-writing requirement and 24:37's praise of men undistracted by trade both treat tijarah as legitimate but subordinate to higher obligation.",
+   "source_task": "a1bfe2f44df7a8721.output"
+  },
+  {
+   "src": "24:36-38",
+   "tgt": "4:29-30",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "4:29's conditional permission ('illa an takuna tijaratan 'an taradin minkum') and 24:37's men whom trade does not divert from dhikr both frame tijarah as legitimate when properly ordered.",
+   "source_task": "a1bfe2f44df7a8721.output"
+  },
+  {
+   "src": "24:36-38",
+   "tgt": "9:23-24",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "9:24's rebuke of loving 'tijaratun takhshawna kasadaha' more than Allah is the direct negative mirror of 24:37's praise of men whom trade cannot divert from remembrance.",
+   "source_task": "a1bfe2f44df7a8721.output"
+  },
+  {
+   "src": "24:36-38",
+   "tgt": "62:11",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "62:11 narrates the very failure 24:37 praises avoidance of: the congregation abandoning the Prophet mid-sermon for a passing trade caravan — direct positive/negative mirror.",
+   "source_task": "a1bfe2f44df7a8721.output"
+  },
+  {
+   "src": "24:36-38",
+   "tgt": "35:29-30",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "35:29's 'tijaratan lan taboor' inverts worldly tijarah into a spiritual metaphor, answering 24:37's literal-trade-undistracted men.",
+   "source_task": "a1bfe2f44df7a8721.output"
+  },
+  {
+   "src": "24:36-38",
+   "tgt": "61:10-11",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "61:10's 'tijaratin tunjikum min 'adhabin alim' is the same positive re-purposing of the commerce metaphor as 35:29-30, part of the same semantic field as 24:37/9:24/62:11.",
+   "source_task": "a1bfe2f44df7a8721.output"
+  },
+  {
+   "src": "23:5-7",
+   "tgt": "70:29-31",
+   "verdict": "CONFIRM",
+   "connection_type": "retelling",
+   "note": "Word-for-word identical ayah pair (wa-lladhina hum li-furujihim hafizun ... illa 'ala azwajihim), a repeated Quranic formula.",
+   "source_task": "a2c55989b9c5d22e1.output"
+  },
+  {
+   "src": "23:5-7",
+   "tgt": "33:35",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Same chastity-guarding formula (al-hafizina furujahum wal-hafizat), restructured into the paired-list style of the 'ten qualities' passage.",
+   "source_task": "a2c55989b9c5d22e1.output"
+  },
+  {
+   "src": "23:5-7",
+   "tgt": "24:30",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "Same 'guard the private parts' injunction, but here paired with lowering the gaze rather than the spousal-exception clause of 23:5-7.",
+   "source_task": "a2c55989b9c5d22e1.output"
+  },
+  {
+   "src": "23:5-7",
+   "tgt": "24:31",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "Feminine counterpart command sharing the hifz al-furuj injunction, embedded in the gaze-lowering pericope.",
+   "source_task": "a2c55989b9c5d22e1.output"
+  },
+  {
+   "src": "24:30",
+   "tgt": "24:31",
+   "verdict": "CONFIRM",
+   "connection_type": "twin-ruling",
+   "note": "Directly adjacent mirrored commands to men then women in the same passage, near-identical phrasing (yaghuddu/yaghdudna, yahfazu/yahfazna furuj).",
+   "source_task": "a2c55989b9c5d22e1.output"
+  },
+  {
+   "src": "21:91",
+   "tgt": "66:10-12",
+   "verdict": "CONFIRM",
+   "connection_type": "retelling",
+   "note": "Verbatim-identical phrase ahsanat farjaha describing Maryam, repeated near word-for-word in the closing four-women passage of At-Tahrim.",
+   "source_task": "a2c55989b9c5d22e1.output"
+  },
+  {
+   "src": "50:6",
+   "tgt": "77:8-15",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Same root/cosmic sense of the sky 'cracking' (furuj/furijat), set as a deliberate before/after contrast: flawless now (Qaf) vs. split apart at the Hour (Mursalat).",
+   "source_task": "a2c55989b9c5d22e1.output"
+  },
+  {
+   "src": "5:110",
+   "tgt": "2:87-88",
+   "verdict": "CONFIRM",
+   "connection_type": "shared-epithet",
+   "note": "Both use the identical phrase 'ayyadnāhu bi-rūḥi l-qudus' naming Jibril's support of Isa specifically.",
+   "source_task": "a37d905191235d8ac.output"
+  },
+  {
+   "src": "5:110",
+   "tgt": "2:253-254",
+   "verdict": "CONFIRM",
+   "connection_type": "shared-epithet",
+   "note": "Same 'ayyadnāhu bi-rūḥi l-qudus' clause repeated verbatim in the list of Isa's divine favors.",
+   "source_task": "a37d905191235d8ac.output"
+  },
+  {
+   "src": "5:110",
+   "tgt": "16:101-105",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "Same entity (Jibril, rūḥ al-qudus) named as the agent of divine support, here delivering the Quran to Muhammad rather than fortifying Isa's miracles.",
+   "source_task": "a37d905191235d8ac.output"
+  },
+  {
+   "src": "59:22-24",
+   "tgt": "62:1",
+   "verdict": "CONFIRM",
+   "connection_type": "shared-epithet",
+   "note": "62:1 echoes 59:23's exact divine-name sequence (al-Malik al-Quddūs ... al-ʿAzīz al-Ḥakīm), naming Allah's holiness as one of His beautiful names.",
+   "source_task": "a37d905191235d8ac.output"
+  },
+  {
+   "src": "2:58-59",
+   "tgt": "29:34",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "2:59 and 29:34 share the verbatim closing formula 'rijzan mina s-samā'i bimā kānū yafsuqūn' applied to two different destroyed communities.",
+   "source_task": "a38eb0237d9a2554c.output"
+  },
+  {
+   "src": "34:5",
+   "tgt": "45:11",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Both verses use the identical phrase 'ʿadhābun min rijzin alīm' as the sentence on disbelievers.",
+   "source_task": "a38eb0237d9a2554c.output"
+  },
+  {
+   "src": "5:90-92",
+   "tgt": "22:30",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Both use the command 'ijtanibū...ar-rijs' aimed at idols (5:90 lists idols among the rijs to avoid; 22:30 repeats the identical avoid-the-rijs-of-idols formula).",
+   "source_task": "a38eb0237d9a2554c.output"
+  },
+  {
+   "src": "6:122-125",
+   "tgt": "10:99-103",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Near-identical formula 'yajʿalu Llāhu r-rijsa ʿalā lladhīna lā yuʾminūn/yaʿqilūn' — Allah placing rijs on those who refuse belief/reason.",
+   "source_task": "a38eb0237d9a2554c.output"
+  },
+  {
+   "src": "6:122-125",
+   "tgt": "9:124-127",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "Both treat rijs as the spiritual filth Allah lets accumulate on a heart already diseased by kufr, though the specific verbs differ (yajʿalu vs. zādathum).",
+   "source_task": "a38eb0237d9a2554c.output"
+  },
+  {
+   "src": "7:73-79",
+   "tgt": "51:44",
+   "verdict": "CONFIRM",
+   "connection_type": "retelling",
+   "note": "Same Thamūd/she-camel hamstringing event, both using '(fa)ʿataw ʿan amri rabbihim' almost verbatim.",
+   "source_task": "a38eb0237d9a2554c.output"
+  },
+  {
+   "src": "7:73-79",
+   "tgt": "65:8-9",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "65:8-9 generalizes the exact Thamūd condemnation-formula ('ʿatat ʿan amri rabbihā wa rusulihi') into a universal warning to any town.",
+   "source_task": "a38eb0237d9a2554c.output"
+  },
+  {
+   "src": "19:68-70",
+   "tgt": "25:21-22",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "Both stage a Judgment-Day scene where angels appear to the arrogant, whose defining crime is named 'ʿutuww' against Ar-Raḥmān/the encounter, ending in Hell.",
+   "source_task": "a38eb0237d9a2554c.output"
+  },
+  {
+   "src": "7:80-84",
+   "tgt": "11:82-83",
+   "verdict": "CONFIRM",
+   "connection_type": "retelling",
+   "note": "Same Lūṭ stone-rain destruction, formula 'amṭarnā ʿalayhā ḥijāratan min sijjīl' repeated almost verbatim.",
+   "source_task": "a38eb0237d9a2554c.output"
+  },
+  {
+   "src": "7:80-84",
+   "tgt": "15:73-77",
+   "verdict": "CONFIRM",
+   "connection_type": "retelling",
+   "note": "Same event and near-identical phrase 'amṭarnā ʿalayhim ḥijāratan min sijjīl'.",
+   "source_task": "a38eb0237d9a2554c.output"
+  },
+  {
+   "src": "7:80-84",
+   "tgt": "25:40",
+   "verdict": "CONFIRM",
+   "connection_type": "retelling",
+   "note": "Explicit later reference back to 'the town that was rained on with the rain of evil,' i.e. the same Lūṭ event.",
+   "source_task": "a38eb0237d9a2554c.output"
+  },
+  {
+   "src": "7:80-84",
+   "tgt": "26:167-173",
+   "verdict": "CONFIRM",
+   "connection_type": "retelling",
+   "note": "Same event, identical closing formula 'wa amṭarnā ʿalayhim maṭaran'.",
+   "source_task": "a38eb0237d9a2554c.output"
+  },
+  {
+   "src": "7:80-84",
+   "tgt": "27:58",
+   "verdict": "CONFIRM",
+   "connection_type": "retelling",
+   "note": "Same event; 27:58 and 26:173 share the verbatim ending 'fa-sāʾa maṭaru l-mundharīn'.",
+   "source_task": "a38eb0237d9a2554c.output"
+  },
+  {
+   "src": "7:80-84",
+   "tgt": "8:30-33",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "The Quraysh's sarcastic dare 'fa-amṭir ʿalaynā ḥijāratan mina s-samāʾ' directly invokes the Lūṭ stone-rain punishment-type against themselves.",
+   "source_task": "a38eb0237d9a2554c.output"
+  },
+  {
+   "src": "22:19-22",
+   "tgt": "3:181",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Both end on the identical refrain 'ʿadhāb al-ḥarīq' as the sentence on the guilty (mockers of Allah / the two disputing camps).",
+   "source_task": "a38eb0237d9a2554c.output"
+  },
+  {
+   "src": "22:19-22",
+   "tgt": "8:50-54",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Both use 'dhūqū ʿadhāba l-ḥarīq' as the verdict pronounced on disbelievers at the moment of reckoning.",
+   "source_task": "a38eb0237d9a2554c.output"
+  },
+  {
+   "src": "22:19-22",
+   "tgt": "22:8-9",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Both, within the same surah, close on 'ʿadhāb al-ḥarīq' as the fate of those who oppose Allah without warrant.",
+   "source_task": "a38eb0237d9a2554c.output"
+  },
+  {
+   "src": "22:19-22",
+   "tgt": "85:10",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Both use 'ʿadhāb al-ḥarīq' as the named punishment for those who wronged the believers/disputed against their Lord.",
+   "source_task": "a38eb0237d9a2554c.output"
+  },
+  {
+   "src": "21:68",
+   "tgt": "29:24",
+   "verdict": "CONFIRM",
+   "connection_type": "retelling",
+   "note": "Same Ibrāhīm-thrown-into-the-fire narrative, with the people's cry 'ḥarriqūhu' / 'uqtulūhu aw ḥarriqūhu' repeated near-verbatim.",
+   "source_task": "a38eb0237d9a2554c.output"
+  },
+  {
+   "src": "70:1-4",
+   "tgt": "32:5",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Both use the identical Day-measure formula 'fī yawmin kāna miqdāruhu ... sanah' (32:5: alfa sanah; 70:4: khamsīna alfa sanah) paired with 'ya'ruju/ta'ruju ilayhi' — ascent 'to Him' on a cosmically-measured Day, sharing both grammar and formulaic structure.",
+   "source_task": "a3d38bbedbcb23d5f.output"
+  },
+  {
+   "src": "6:10",
+   "tgt": "11:7-8",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Identical closing clause 'ḥāqa bihim mā kānū bihi yastahziʾūn' — mockery of the delayed punishment encircles the mockers.",
+   "source_task": "a48f3bad185dc3a26.output"
+  },
+  {
+   "src": "6:10",
+   "tgt": "16:33-36",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Identical clause 'wa ḥāqa bihim mā kānū bihi yastahziʾūn' following 'fa-asābahum sayyiʾātu mā ʿamilū'.",
+   "source_task": "a48f3bad185dc3a26.output"
+  },
+  {
+   "src": "6:10",
+   "tgt": "21:41",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "21:41 is the verbatim-identical ayah to 6:10, word for word, restating the messengers-mocked idiom.",
+   "source_task": "a48f3bad185dc3a26.output"
+  },
+  {
+   "src": "6:10",
+   "tgt": "39:48",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Identical clause 'wa ḥāqa bihim mā kānū bihi yastahziʾūn' paired with deeds surfacing (badā).",
+   "source_task": "a48f3bad185dc3a26.output"
+  },
+  {
+   "src": "6:10",
+   "tgt": "40:83",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Identical clause, applied to those who rejoiced in worldly knowledge over the messengers' clear proofs.",
+   "source_task": "a48f3bad185dc3a26.output"
+  },
+  {
+   "src": "6:10",
+   "tgt": "45:33",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Identical clause, paired with 'badā lahum sayyiʾātu mā ʿamilū' as in 39:48.",
+   "source_task": "a48f3bad185dc3a26.output"
+  },
+  {
+   "src": "6:10",
+   "tgt": "46:26",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Identical clause closing the 'Aad narrative — faculties availed nothing, then the mocked punishment encircled them.",
+   "source_task": "a48f3bad185dc3a26.output"
+  },
+  {
+   "src": "6:10",
+   "tgt": "35:42-43",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "Sibling formula 'wa lā yaḥīqu l-makru s-sayyiʾu illā bi-ahlihi' — recoil-on-the-agent logic applied to plotting rather than mockery.",
+   "source_task": "a48f3bad185dc3a26.output"
+  },
+  {
+   "src": "6:10",
+   "tgt": "40:45-46",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "'Wa ḥāqa bi-āli Firʿawn sūʾu l-ʿadhāb' — same root/recoil logic on Pharaoh's plot against the believer, distinct grammatical formula from the mockery refrain.",
+   "source_task": "a48f3bad185dc3a26.output"
+  },
+  {
+   "src": "10:11-12",
+   "tgt": "6:109-111",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Both end with the verbatim formula 'We/He leave(s) them in their transgression, wandering blind' (fi tughyanihim ya'mahun), describing hearts unmoved even by signs or mercy.",
+   "source_task": "a5a07e253d55fd736.output"
+  },
+  {
+   "src": "10:11-12",
+   "tgt": "7:184-186",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Identical closing refrain 'wa yadharhum fi tughyanihim ya'mahun' after arguing that clear evidence (the Prophet's character, the cosmos, mortality) still fails to move a hardened denier.",
+   "source_task": "a5a07e253d55fd736.output"
+  },
+  {
+   "src": "10:11-12",
+   "tgt": "23:75-77",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "Same tughyan+ya'mahun collocation (lalajju fi tughyanihim ya'mahun) making the identical point as 10:11: mercy/relief does not soften a heart already given over to denial.",
+   "source_task": "a5a07e253d55fd736.output"
+  },
+  {
+   "src": "10:11-12",
+   "tgt": "2:6-17",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "2:15's 'wa yamudduhum fi tughyanihim ya'mahun' is the same formula describing Allah prolonging hypocrites in their transgression while they wander blind, structurally identical to 10:11's diagnosis.",
+   "source_task": "a5a07e253d55fd736.output"
+  },
+  {
+   "src": "10:11-12",
+   "tgt": "27:4",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "27:4's 'zayyanna lahum a'malahum fahum ya'mahun' mirrors the same theological mechanism (divine non-intervention facilitating wandering blindness) though it substitutes beautification for the tughyan formula.",
+   "source_task": "a5a07e253d55fd736.output"
+  },
+  {
+   "src": "20:9-16",
+   "tgt": "28:29",
+   "verdict": "CONFIRM",
+   "connection_type": "retelling",
+   "note": "Verbatim retelling of the same event: Musa tells his family 'imkuthu... inni anastu naran' (stay here, I perceive a fire) at the burning bush in both surahs, word-for-word identical clause.",
+   "source_task": "a5a07e253d55fd736.output"
+  },
+  {
+   "src": "18:1-5",
+   "tgt": "43:77",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Both use the mākith active-participle construction for permanent abiding: 18:3 'makithina fihi abada' (abiding in Paradise's reward forever) vs 43:77 'innakum makithun' (you will remain in the Fire) — same grammatical form for opposite eternal destinies.",
+   "source_task": "a5a07e253d55fd736.output"
+  },
+  {
+   "src": "13:12-13",
+   "tgt": "24:43",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "24:43's 'yakadu sana barqihi yadhhabu bil-absar' (the flash of its lightning almost takes the sight) is textually near-identical to 2:20's phrasing, part of the same lightning-glare motif; 24:43 file explicitly cross-references 13:12.",
+   "source_task": "a5a07e253d55fd736.output"
+  },
+  {
+   "src": "13:12-13",
+   "tgt": "30:24",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Verbatim shared formula 'yurikumu(l)-barqa khawfan wa tama'an' (He shows you lightning, causing fear and hope) appears identically in both passages; 30:24's own reflection explicitly quotes and cross-references 13:12-13.",
+   "source_task": "a5a07e253d55fd736.output"
+  },
+  {
+   "src": "12:43-49",
+   "tgt": "29:14",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Both passages anchor the documented classical Arabic lexical distinction between sanah (hardship/grinding year) and 'am (ease/relief year): 12:49's 'amun fihi yughathu al-nas' (a year of relief) is the exact model the 29:14 reflection cites and quotes when parsing 'alfa sanatin illa khamsina 'aman'.",
+   "source_task": "a5a07e253d55fd736.output"
+  },
+  {
+   "src": "24:4-5",
+   "tgt": "4:112",
+   "verdict": "CONFIRM",
+   "connection_type": "shared-epithet",
+   "note": "Both use ramā/yarmi metaphorically for 'casting a false accusation' onto an innocent/chaste person rather than literal throwing; 24:23's reflection explicitly cross-references 4:112 as the same verb-sense.",
+   "source_task": "a5a07e253d55fd736.output"
+  },
+  {
+   "src": "24:4-5",
+   "tgt": "24:6-10",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "Sequential rulings in the same sura on the same verb-sense (yarmuna): general accusation of chaste women (4-5) and the li'an procedure for a husband's accusation of his wife (6-10), both treating ramā as slander/assault requiring a high evidentiary bar.",
+   "source_task": "a5a07e253d55fd736.output"
+  },
+  {
+   "src": "24:4-5",
+   "tgt": "24:23",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "24:23 escalates the same qadhf legislation to its paradigmatic case (the Ifk slander against A'isha), using the identical yarmuna-as-throwing-a-stone metaphor established in 24:4-5.",
+   "source_task": "a5a07e253d55fd736.output"
+  },
+  {
+   "src": "28:76",
+   "tgt": "26:52-60",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "Twin tyrant-treasuries: Pharaoh's abandoned kunūz (gardens, springs, treasures, honorable station left behind in flight) and Qarun's crushing kunūz (whose keys weigh down strong men) both dramatize wealth of the arrogant stripped away as divine judgment.",
+   "source_task": "a5d1920789cd16e44.output"
+  },
+  {
+   "src": "35:22",
+   "tgt": "60:13",
+   "verdict": "CONFIRM",
+   "connection_type": "shared-epithet",
+   "note": "Both explicitly invoke 'those/companions of the graves' (man fī-l-qubūr / aṣḥāb al-qubūr) as the Quran's chosen image of total, unreachable finality, applied metaphorically to the living disbelieving heart — verified via both files' own classical-commentary discussion (al-Baghawī/al-Jalālayn in 35:22, al-Muyassar in 60:13).",
+   "source_task": "a5d1920789cd16e44.output"
+  },
+  {
+   "src": "22:6-7",
+   "tgt": "80:17-23",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "Both state the identical doctrinal claim in near-parallel construction: Allah will raise the person from the grave (yabʿathu man fī-l-qubūr / amātahu fa-aqbarahu thumma... ansharahu) as the concrete mechanism proving the Hour/resurrection.",
+   "source_task": "a5d1920789cd16e44.output"
+  },
+  {
+   "src": "2:49-50",
+   "tgt": "14:4-6",
+   "verdict": "CONFIRM",
+   "connection_type": "retelling",
+   "note": "14:6 repeats 2:49 near-verbatim: 'yudhabbihūna abnā'akum wa yastaḥyūna nisā'akum ... wa fī dhālikum balā'un min rabbikum 'azīm' — same historical episode, matching phrasing including the closing trial-clause, in Musa's own retelling to his people.",
+   "source_task": "a86e1e5a43c83b744.output"
+  },
+  {
+   "src": "2:49-50",
+   "tgt": "28:4",
+   "verdict": "CONFIRM",
+   "connection_type": "retelling",
+   "note": "28:4 uses the same core clause 'yudhabbiḥu abnā'ahum wa yastaḥyī nisā'ahum' (3rd-person narrator variant of the 2MP direct-address form in 2:49) describing the identical Pharaoh scene, though it drops the balā' 'azīm closing line.",
+   "source_task": "a86e1e5a43c83b744.output"
+  },
+  {
+   "src": "14:4-6",
+   "tgt": "28:4",
+   "verdict": "CONFIRM",
+   "connection_type": "retelling",
+   "note": "Both narrate the same Pharaoh-slaughter episode with the shared dhabaḥa/istaḥyā pairing; 14:6 and 2:49 are the closer verbatim pair, 28:4 the parallel third-person recounting.",
+   "source_task": "a86e1e5a43c83b744.output"
+  },
+  {
+   "src": "26:90-95",
+   "tgt": "50:31",
+   "verdict": "CONFIRM",
+   "connection_type": "shared-epithet",
+   "note": "Both use the identical formulaic phrase 'wa uzlifati l-jannatu lil-muttaqīn' (Paradise brought near for the righteous).",
+   "source_task": "aa5535d277a1a599b.output"
+  },
+  {
+   "src": "26:90-95",
+   "tgt": "81:12-13",
+   "verdict": "CONFIRM",
+   "connection_type": "shared-epithet",
+   "note": "Same passive Form IV verb 'uzlifat' describing Paradise being brought near on the Day of Judgment.",
+   "source_task": "aa5535d277a1a599b.output"
+  },
+  {
+   "src": "50:31",
+   "tgt": "81:12-13",
+   "verdict": "CONFIRM",
+   "connection_type": "shared-epithet",
+   "note": "50:31's file explicitly cross-references 81:13's 'uzlifat' as the same eschatological Paradise-nearness phrase.",
+   "source_task": "aa5535d277a1a599b.output"
+  },
+  {
+   "src": "26:90-95",
+   "tgt": "26:64-68",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "Same surah pairs 'azlafnā' (Pharaoh's army brought near to drowning) with 'uzlifat' (Paradise brought near) as a deliberate root-echo contrast, per Al-Tabari's gloss cited in the file.",
+   "source_task": "aa5535d277a1a599b.output"
+  },
+  {
+   "src": "2:6-17",
+   "tgt": "2:142-145",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "Both use the identical form ٱلسُّفَهَآءُ as a taunt leveled at the believing community over an identity-defining matter (creed at 2:13, qiblah at 2:142), with the Quran reversing the charge onto the accusers.",
+   "source_task": "aab63a218a8356de3.output"
+  },
+  {
+   "src": "2:26-27",
+   "tgt": "13:25-29",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Verbatim shared clause 'alladhina yanquduna 'ahda Allahi min ba'di mithaqihi' (breaking Allah's covenant after it was confirmed) appears identically in both.",
+   "source_task": "aac99c93f7cfcc192.output"
+  },
+  {
+   "src": "4:153-155",
+   "tgt": "5:13",
+   "verdict": "CONFIRM",
+   "connection_type": "retelling",
+   "note": "Word-for-word identical clause 'fa-bima naqdihim mithaqahum' (because of their breaking their covenant) opens both indictments of Bani Israel.",
+   "source_task": "aac99c93f7cfcc192.output"
+  },
+  {
+   "src": "13:19-24",
+   "tgt": "13:25-29",
+   "verdict": "CONFIRM",
+   "connection_type": "twin-ruling",
+   "note": "Same sura's antithetical pair: 19-24 praises those who 'la yanquduna al-mithaq' (do not break the pact); 25-29 curses those who do — one discourse-arc split across two files.",
+   "source_task": "aac99c93f7cfcc192.output"
+  },
+  {
+   "src": "2:26-27",
+   "tgt": "8:55-58",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "Shared verb yanquduna 'ahdahum (they break their covenant/pact), 2:26-27 general theological indictment vs 8:55-58 specific treaty-breach case.",
+   "source_task": "aac99c93f7cfcc192.output"
+  },
+  {
+   "src": "2:26-27",
+   "tgt": "16:90-97",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "Both use 'ba'da... (tawkidiha/mithaqihi)' — the 'after it was confirmed/strengthened' qualifier attached to covenant/oath-breaking.",
+   "source_task": "aac99c93f7cfcc192.output"
+  },
+  {
+   "src": "13:25-29",
+   "tgt": "8:55-58",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "Shared yanquduna 'ahda-formula linking the general Quranic covenant-breaker profile to the specific treaty-violator case of the Anfal context.",
+   "source_task": "aac99c93f7cfcc192.output"
+  },
+  {
+   "src": "13:25-29",
+   "tgt": "16:90-97",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "Shared 'min ba'di mithaqihi / ba'da tawkidiha' after-confirmation qualifier on covenant/oath breaking.",
+   "source_task": "aac99c93f7cfcc192.output"
+  },
+  {
+   "src": "5:13",
+   "tgt": "2:26-27",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "Both use naqd al-mithaq as grounds for a divine curse/loss verdict, though 5:13 (Bani Israel specific) vs 2:26-27 (general hypocrite/kafir profile).",
+   "source_task": "aac99c93f7cfcc192.output"
+  },
+  {
+   "src": "34:34",
+   "tgt": "21:11-13",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "34:34 states the universal law 'no warner was sent except its mutrafūn rejected him'; 21:11-13 shows the same mutrafūn fleeing destruction and being mocked with 'return to the taraf you were given' — same luxury-elite-rejects-warner pattern already cross-linked to the rest of this cluster from the 34:34 hub.",
+   "source_task": "ade645fd9ebd5bb96.output"
+  },
+  {
+   "src": "21:18",
+   "tgt": "34:48",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "(already linked) Both use the identical phrase 'yaqdhifu/naqdhifu bil-ḥaqq' — Allah hurling truth as a projectile against falsehood — a verbatim shared idiom, not coincidence.",
+   "source_task": "ade645fd9ebd5bb96.output"
+  },
+  {
+   "src": "33:26-27",
+   "tgt": "59:2",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "(already linked) Both use the exact formula 'wa qadhafa fī qulūbihim al-ruʿb' for two parallel historical expulsions (Banu Qurayza, Banu Nadir) — verbatim phrase reused for structurally identical events.",
+   "source_task": "ade645fd9ebd5bb96.output"
+  },
+  {
+   "src": "2:258-260",
+   "tgt": "21:38-40",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "Both use the verb بهت for a denier left speechless/stunned — in 2:258 by Ibrahim's unanswerable proof, in 21:40 by the sudden arrival of punishment — the same image of confident denial reduced to silence.",
+   "source_task": "ade645fd9ebd5bb96.output"
+  },
+  {
+   "src": "33:58",
+   "tgt": "4:156-159",
+   "verdict": "CONFIRM",
+   "connection_type": "shared-epithet",
+   "note": "33:58 (hub, already linked to 24:16-17, 4:19-21, 4:112) and 4:156-159 both use 'buhtānan/buhtānun ʿaẓīm(an)' for a grave false accusation — the false-accusation category (buhtān) is a real recurring fiqh/ethics term the corpus already treats as connected.",
+   "source_task": "ade645fd9ebd5bb96.output"
+  },
+  {
+   "src": "33:58",
+   "tgt": "60:12",
+   "verdict": "CONFIRM",
+   "connection_type": "shared-epithet",
+   "note": "60:12's pledge against 'bringing a buhtān they invent' belongs to the same buhtān-as-false-accusation category already linked through the 33:58 hub.",
+   "source_task": "ade645fd9ebd5bb96.output"
+  },
+  {
+   "src": "54:36",
+   "tgt": "43:6-8",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "43:6-8 and 50:36 share the near-verbatim phrase 'ashaddu minhum baṭshan' (mightier than them in violent grip) describing destroyed civilizations; 54:36 (already linked to 44:9-16 and 85:12-16) belongs to the same divine-seizure-of-deniers cluster.",
+   "source_task": "ade645fd9ebd5bb96.output"
+  },
+  {
+   "src": "54:36",
+   "tgt": "50:36",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Same verbatim-phrase cluster ('ashaddu minhum baṭshan') tying destroyed mightier nations to the surrounding warning; joins the existing 54:36 hub.",
+   "source_task": "ade645fd9ebd5bb96.output"
+  },
+  {
+   "src": "26:128-130",
+   "tgt": "28:19",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "Both pair baṭsh (striking) directly with jabbār (tyrant) — Hud indicts 'Ad for striking as tyrants, and the Israelite accuses Musa of wanting to be a jabbār when about to strike again — a real shared moral pairing of violent strength with tyranny.",
+   "source_task": "ade645fd9ebd5bb96.output"
+  },
+  {
+   "src": "19:16-21",
+   "tgt": "33:53",
+   "verdict": "CONFIRM",
+   "connection_type": "shared-epithet",
+   "note": "Both use ḥijāb for a literal physical screen/partition a woman uses for privacy and modesty — Maryam withdrawing behind a screen before the annunciation, and the hijab-ayah instructing believers to address the Prophet's wives from behind a partition.",
+   "source_task": "ade645fd9ebd5bb96.output"
+  },
+  {
+   "src": "67:13-15",
+   "tgt": "6:100-104",
+   "verdict": "CONFIRM",
+   "connection_type": "shared-epithet",
+   "note": "Both close with the divine-name pairing 'huwa al-Laṭīf al-Khabīr' in a tawhid/creation context — part of the recurring Al-Latif/Al-Khabir formula.",
+   "source_task": "ade645fd9ebd5bb96.output"
+  },
+  {
+   "src": "67:13-15",
+   "tgt": "12:99-101",
+   "verdict": "CONFIRM",
+   "connection_type": "shared-epithet",
+   "note": "Yusuf's 'inna rabbī laṭīfun li-mā yashā' is the same Al-Latif attribute applied to providential orchestration of his life story — part of the same divine-name cluster.",
+   "source_task": "ade645fd9ebd5bb96.output"
+  },
+  {
+   "src": "67:13-15",
+   "tgt": "22:63-64",
+   "verdict": "CONFIRM",
+   "connection_type": "shared-epithet",
+   "note": "22:63's 'inna Allāha laṭīfun khabīr' after the rain-greens-the-earth sign is the same verbatim divine-name pairing.",
+   "source_task": "ade645fd9ebd5bb96.output"
+  },
+  {
+   "src": "67:13-15",
+   "tgt": "31:16-19",
+   "verdict": "CONFIRM",
+   "connection_type": "shared-epithet",
+   "note": "Luqman's 'inna Allāha laṭīfun khabīr' (Allah reaches the hidden mustard seed) is the same verbatim divine-name pairing applied to Allah's total knowledge/subtlety.",
+   "source_task": "ade645fd9ebd5bb96.output"
+  },
+  {
+   "src": "67:13-15",
+   "tgt": "33:34",
+   "verdict": "CONFIRM",
+   "connection_type": "shared-epithet",
+   "note": "33:34's 'inna Allāha kāna laṭīfan khabīrā' closing the address to the Prophet's wives is the same recurring divine-name formula.",
+   "source_task": "ade645fd9ebd5bb96.output"
+  },
+  {
+   "src": "67:13-15",
+   "tgt": "42:19",
+   "verdict": "CONFIRM",
+   "connection_type": "shared-epithet",
+   "note": "42:19's 'Allāhu laṭīfun bi-ʿibādihi' (gentleness+provision) is the same Al-Latif attribute, paired here with Qawiyy/Aziz instead of Khabir but part of the same divine-name cluster.",
+   "source_task": "ade645fd9ebd5bb96.output"
+  },
+  {
+   "src": "20:120",
+   "tgt": "61:10-11",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Both use the exact rhetorical formula 'hal adullu(ka/kum) ala' (shall I direct you to...), inverted from Shaytan's false offer (tree of eternity) to Allah's true offer (a saving trade).",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "20:120",
+   "tgt": "34:7",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Disbelievers mockingly echo the same 'hal nadullukum ala' formula Shaytan used on Adam, pointing others toward a man who claims resurrection, inverting the temptation formula into scorn.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "20:120",
+   "tgt": "20:37-41",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Musa's sister's innocent 'hal adullukum ala man yakfuluhu' (shall I direct you to one who will nurse him) uses the identical formula Shaytan later weaponizes against Adam in the same surah.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "20:120",
+   "tgt": "28:12",
+   "verdict": "CONFIRM",
+   "connection_type": "retelling",
+   "note": "28:12 retells the same sister-and-basket scene as 20:37-41 with the identical phrase 'hal adullukum ala ahli baytin', both instances of the benign 'point-you-to' formula.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "10:90-92",
+   "tgt": "10:50-53",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Both use 'al-ana' ('now?!') as the exact word marking belated, rejected confession of belief once punishment has already arrived, within the same surah.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "10:90-92",
+   "tgt": "4:17-18",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Pharaoh's drowning 'al-ana' ('now I believe') and the deathbed sinner's 'inni tubtu al-ana' ('now I repent') both use the identical word to mark a repentance/confession too late to count.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "3:113-115",
+   "tgt": "20:129-130",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Both use the identical phrase 'ana'a al-layl' (the watches/hours of the night) to mark devout night-worship, one describing believers, the other commanding the Prophet.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "3:113-115",
+   "tgt": "39:9",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "39:9 repeats the same 'ana'a al-layl' (hours of the night) phrase describing the devoutly obedient worshipper prostrating and standing, as in 3:113.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "55:41-44",
+   "tgt": "88:2-7",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Both use 'anin/aniyah' (having reached boiling/max heat) to describe the same image of scalding water given to the people of Hellfire.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "17:16-17",
+   "tgt": "7:132-137",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "17:16's general principle 'fadammarnaha tadmiran' (We destroy it utterly) states the rule of which Pharaoh's drowned works ('dammarna') in 7:137 is a concrete instance.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "17:16-17",
+   "tgt": "25:35-36",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "Shares the identical 'fadammarnahum tadmiran' (utter destruction) formula applied to a nation that denied Musa and Harun's signs.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "17:16-17",
+   "tgt": "26:167-173",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "Lut's people are destroyed ('thumma dammarna al-akharin') as a specific instance of the general town-destruction rule stated in 17:16.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "17:16-17",
+   "tgt": "27:50-51",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "The plotters against Salih are 'dammarnahum wa qawmahum ajma'in' (utterly destroyed), another instance of the same divine destruction formula.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "17:16-17",
+   "tgt": "37:133-136",
+   "verdict": "CONFIRM",
+   "connection_type": "retelling",
+   "note": "Near-identical retelling of Lut's destruction ('thumma dammarna al-akharin') as in 26:167-173, both instances of the recurring 'dammara' verdict formula.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "17:16-17",
+   "tgt": "46:24-25",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "The wind of Ad 'tudammiru kulla shay'in bi-amri rabbiha' (destroys everything by its Lord's command), the same destruction-verb applied to a different nation.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "17:16-17",
+   "tgt": "47:10",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "'Dammara Allahu alayhim' generalizes the same destruction-formula as a lesson for those who travel the land and see the end of prior deniers.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "7:10",
+   "tgt": "15:19-25",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Both use the near-verbatim phrase 'wa ja'alna lakum fiha ma'ayish' (We placed for you therein means of livelihood) describing Allah's provision on earth.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "7:10",
+   "tgt": "20:123-124",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "Both concern 'ma'ishah' (livelihood/life) granted by Allah, here inverted into 'ma'ishatan dankan' (a constricted life) as consequence of turning away from remembrance.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "7:10",
+   "tgt": "28:58",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "'Batirat ma'ishataha' (grew reckless in its livelihood) reuses the same 'ma'ishah' word for the very provision described positively in 7:10, now abused into ruin.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "7:10",
+   "tgt": "43:31-35",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "'Qasamna baynahum ma'ishatahum fi al-hayati al-dunya' (We divided their livelihood among them) directly extends 7:10's theme of Allah-apportioned worldly provision.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "7:10",
+   "tgt": "78:6-11",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "'Ja'alna al-nahara ma'ashan' (made the day a means of livelihood) is the same root-word for provision as 7:10's 'ma'ayish', within a catalogue of creation's design for human sustenance.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "101:6-11",
+   "tgt": "69:19-24",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Both use the identical phrase 'fahuwa fi 'ishatin radiyah' (he will be in a pleasing life) verbatim to describe the reward of the successful on Judgment Day.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "52:44",
+   "tgt": "17:90-93",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Both depict disbelievers demanding/denying a piece of sky ('kisafan min al-sama' saqitan/tusqita') falling, the same falling-sky challenge motif.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "52:44",
+   "tgt": "26:184-190",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Shu'ayb's people demand 'fa-asqit alayna kisafan min al-sama' (cause fragments of sky to fall), the identical challenge-formula as the other 'kisaf' passages.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "52:44",
+   "tgt": "34:9",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Allah's warning 'nusqit alayhim kisafan min al-sama' repeats the same falling-sky-fragment image as 52:44's disbelievers rationalizing it as mere clouds.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "17:1-8",
+   "tgt": "11:77-81",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "The divine command 'fa-asri bi-ahlika' (set out with your family by night) to Lut mirrors the same root-verb used for the Prophet's own night journey in 17:1 ('asra').",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "17:1-8",
+   "tgt": "15:61-66",
+   "verdict": "CONFIRM",
+   "connection_type": "retelling",
+   "note": "Repeats the identical 'fa-asri bi-ahlika bi-qit'in mina al-layl' command to Lut found in 11:77-81, both instances of the night-escape formula.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "17:1-8",
+   "tgt": "20:77-79",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Musa is commanded 'an asri bi-ibadi' (travel by night with My servants), the same night-journey verb as the Prophet's isra' in 17:1.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "17:1-8",
+   "tgt": "26:52-60",
+   "verdict": "CONFIRM",
+   "connection_type": "retelling",
+   "note": "Retells the identical 'an asri bi-ibadi' command to Musa found in 20:77-79, both instances of the divinely-ordained night-departure formula.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "17:1-8",
+   "tgt": "44:17-24",
+   "verdict": "CONFIRM",
+   "connection_type": "retelling",
+   "note": "A third retelling of 'fa-asri bi-ibadi laylan' for Musa's exodus, matching 20:77-79 and 26:52-60 verbatim.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "17:1-8",
+   "tgt": "89:1-5",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "'Wal-layli idha yasri' (by the night as it journeys) personifies the night itself traveling, using the same root as the Prophet's and the prophets' night-journeys.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "3:137-141",
+   "tgt": "3:146-148",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "'Fama wahanu lima asabahum' (they did not weaken for what befell them) directly answers the command 'la tahinu wa la tahzanu' (do not weaken or grieve) of 3:139, both post-Uhud.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "3:137-141",
+   "tgt": "4:104",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Repeats the identical battle-exhortation verb 'la tahinu' (do not weaken) in pursuit of the enemy, the same formula as 3:139.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "3:137-141",
+   "tgt": "47:35",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "'Fala tahinu' (so do not lose heart) reuses the identical Uhud-era battle command found in 3:139.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "3:137-141",
+   "tgt": "8:17-19",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "Complements the 'do not weaken' exhortations: here Allah Himself is described as 'muhinu kaydi al-kafirin' (the weakener of the disbelievers' plot), the same root's active counterpart at Badr.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "2:6-17",
+   "tgt": "6:46",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Both use 'khatama Allahu ala qulubihim/qulubikum' (Allah sealed their/your hearts) as the identical formula for divine sealing of the heart against guidance.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "2:6-17",
+   "tgt": "42:24",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "'Yakhtim ala qalbika' (He could seal your heart) reuses the same sealing-verb as 2:7, here as a hypothetical directed at the Prophet in response to an accusation.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "2:6-17",
+   "tgt": "45:23",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "'Khatama ala sam'ihi wa qalbihi' repeats the exact heart-and-hearing sealing formula of 2:7 for the one who takes desire as a god.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "2:6-17",
+   "tgt": "36:65",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "'Nakhtimu ala afwahihim' (We seal over their mouths) extends the same divine-sealing action to a different faculty (speech) on the Day of Judgment.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "4:22-23",
+   "tgt": "8:38-40",
+   "verdict": "CONFIRM",
+   "connection_type": "twin-ruling",
+   "note": "'Yughfar lahum ma qad salaf' (what has passed will be forgiven them) reuses the same legal-transition pardon formula for disbelievers who desist.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "69:19-24",
+   "tgt": "10:28-30",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "'Bima aslaftum' (for what you sent ahead) and 'ma aslafat' (what it sent ahead) share the same 'deeds sent forward' sense of the root, both describing a soul's reckoning with its past deeds.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "68:32-33",
+   "tgt": "9:58-59",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Both use 'ila Allahi/rabbina raghibun' (to Allah/our Lord we turn in longing) as the identical devotional formula of hopeful reliance on Allah after loss or complaint.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "68:32-33",
+   "tgt": "94:1-8",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "'Wa ila rabbika farghab' (and to your Lord turn with longing) closes Ash-Sharh with the same devotional verb as the garden-owners' 'ila rabbina raghibun'.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "68:32-33",
+   "tgt": "21:90",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "'Yad'unana raghaban wa rahaban' (they called upon Us in longing and fear) shares the same devotional 'turning toward Allah in hope' sense as the garden-owners' repentance.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "2:130-134",
+   "tgt": "19:46-48",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "'Man yarghabu an millati Ibrahim' (who turns away from Ibrahim's way) and Azar's 'a-raghibun anta an alihati' (are you renouncing my gods) both use 'raghiba an' as the identical verb for religious renunciation/turning-away.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "2:130-134",
+   "tgt": "9:120-122",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "'La yarghabu bi-anfusihim an nafsihi' (not to prefer themselves over him) reuses the same 'raghiba an' construction for refusing to turn away from accompanying the Prophet.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "40:5",
+   "tgt": "4:113",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "'Lahammat ta'ifatun minhum an yudillooka' (a group of them nearly resolved to mislead you) is an instance of the same 'hamma bi' hostile-intent-against-a-messenger pattern generalized in 40:5's 'hammat kullu ummatin bi-rasulihim'.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "40:5",
+   "tgt": "5:9-11",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "'Idh hamma qawmun an yabsutu ilaykum aydiyahum' (a people intended to extend their hands against you) repeats the same hostile-intent-restrained-by-Allah pattern as 40:5's general rule.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "40:5",
+   "tgt": "9:13-16",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "'Hammu bi-ikhraji al-rasul' (they intended to expel the Messenger) is a concrete instance of 'every nation intended [harm] against their messenger' stated generally in 40:5.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "40:5",
+   "tgt": "9:73-74",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "'Hammu bima lam yanalu' (they intended what they could not attain, i.e. an assassination plot) is another instance of the hostile-intent-against-the-Prophet pattern of 40:5.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "2:35-39",
+   "tgt": "2:61",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "'Ihbitu misran' (go down to a settlement) reuses the same divine 'ihbitu' (descend) command marking a decisive transition, as in Adam's exile from the Garden.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "2:35-39",
+   "tgt": "7:11-15",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Iblis is told 'fahbit minha' (then descend from it), the identical exile-command verb used for Adam's own descent in 2:36.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "2:35-39",
+   "tgt": "7:23-25",
+   "verdict": "CONFIRM",
+   "connection_type": "retelling",
+   "note": "Retells the same 'ihbitu ba'dukum li-ba'din 'aduwwun' (descend, some of you enemies to others) command to Adam and Hawwa' found nearly verbatim in 2:36.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "2:35-39",
+   "tgt": "11:48-49",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Nuh is commanded 'ihbit bi-salamin minna' (descend with peace from Us), the same pivotal-transition 'ihbit' command marking the end of the flood as Adam's marks the end of the Garden.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "2:35-39",
+   "tgt": "20:123-124",
+   "verdict": "CONFIRM",
+   "connection_type": "retelling",
+   "note": "'Ihbita minha jami'an' (descend from it together) retells the same Garden-exile command to Adam and Hawwa' as 2:36, with the identical 'ba'dukum li-ba'din 'aduwwun' clause.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "7:80-84",
+   "tgt": "15:57-60",
+   "verdict": "CONFIRM",
+   "connection_type": "retelling",
+   "note": "'Innaha lamina al-ghabirin' (she was among those who remained behind) is the identical formula for Lut's wife's fate repeated across this retelling.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "7:80-84",
+   "tgt": "27:57",
+   "verdict": "CONFIRM",
+   "connection_type": "retelling",
+   "note": "'Qaddarnaha mina al-ghabirin' (We decreed her among those who remained behind) repeats the identical wife-of-Lut refrain.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "7:80-84",
+   "tgt": "29:32",
+   "verdict": "CONFIRM",
+   "connection_type": "retelling",
+   "note": "'Kanat mina al-ghabirin' reuses the same formulaic verdict on Lut's wife as in 7:83 and the other retellings.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "7:80-84",
+   "tgt": "29:33",
+   "verdict": "CONFIRM",
+   "connection_type": "retelling",
+   "note": "Continues the same 'illa imra'ataka kanat mina al-ghabirin' refrain within the same surah's second telling of the Lut episode.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "7:80-84",
+   "tgt": "37:133-136",
+   "verdict": "CONFIRM",
+   "connection_type": "retelling",
+   "note": "'Illa 'ajuzan fi al-ghabirin' repeats the identical wife-left-behind formula found across all the Lut retellings.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "2:111-112",
+   "tgt": "21:24",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Both use 'hatu burhanakum' (bring your proof) as the identical apologetic-challenge formula demanding evidence for false religious claims.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "2:111-112",
+   "tgt": "23:116-118",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "'La burhana lahu bihi' (he has no proof for it) states the same 'lack of burhan for false deities' principle demanded explicitly in 2:111's 'hatu burhanakum'.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "2:111-112",
+   "tgt": "27:64",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Repeats 'qul hatu burhanakum in kuntum sadiqin' verbatim as the closing challenge to those who cannot answer who truly originates and sustains creation.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "46:8",
+   "tgt": "10:61",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Both use 'tufiduna fihi' (you delve/engage into it) as the identical idiom for human talk and activity that Allah witnesses in full.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "46:8",
+   "tgt": "24:13-14",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "'Ma afadtum fihi' (what you plunged into) reuses the same 'afadha fi' idiom for engaging in talk, here applied to the slander affair.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "7:54-56",
+   "tgt": "10:1-6",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Both state 'khalaqa al-samawati wal-arda fi sittati ayyamin thumma istawa 'ala al-'arsh' nearly verbatim, the recurring six-days-of-creation formula.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "7:54-56",
+   "tgt": "11:7-8",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Repeats the identical 'khalaqa al-samawati wal-arda fi sittati ayyamin' formula found in 7:54.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "7:54-56",
+   "tgt": "25:59",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Same 'khalaqa al-samawati wal-arda wa ma baynahuma fi sittati ayyamin thumma istawa 'ala al-'arsh' six-day-creation formula.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "7:54-56",
+   "tgt": "32:4",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Identical 'fi sittati ayyamin thumma istawa 'ala al-'arsh' formula repeated verbatim.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "7:54-56",
+   "tgt": "50:38",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Repeats the same 'khalaqna al-samawati wal-arda... fi sittati ayyamin' six-day creation statement, here adding 'wa ma massana min lughub'.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "7:54-56",
+   "tgt": "57:1-6",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Same 'khalaqa al-samawati wal-arda fi sittati ayyamin thumma istawa 'ala al-'arsh' formula recurring a seventh time.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "7:54-56",
+   "tgt": "6:42-45",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "'La'allahum yatadarra'un' / 'tadarra'u' (that they might humble themselves in plea) uses the same tadarru' root as 7:55's 'ud'u rabbakum tadarru'an wa khufyatan' for the proper response to hardship.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "7:54-56",
+   "tgt": "6:63-65",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "'Tad'unahu tadarru'an wa khufyatan' (you call upon Him humbly and privately) is a verbatim match of 7:55's 'ud'u rabbakum tadarru'an wa khufyatan'.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "7:54-56",
+   "tgt": "7:94-95",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "'La'allahum yaddarra'un' repeats, within the same surah, the same tadarru' (humble supplication under hardship) root as 7:55's command.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "7:54-56",
+   "tgt": "7:203-206",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "'Tadarru'an wa khifatan' (in humility and fear) reuses the identical devotional-humility phrase from 7:55, closing the same surah.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "7:54-56",
+   "tgt": "23:75-77",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "'Ma yatadarra'un' (they do not humble themselves in plea) describes the failure to do what 7:55 commands believers to do under hardship.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "6:122-125",
+   "tgt": "72:16-17",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "'Ka'annama yassa'adu fi al-sama'' (as if climbing into the sky, describing a disbeliever's suffocating chest) and ''adhaban sa'ada' (an arduous, climbing punishment) share the same metaphor of an unnatural, straining ascent as a figure for spiritual difficulty/punishment.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "6:122-125",
+   "tgt": "74:11-17",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "'Sa-urhiquhu sa'udan' (I will burden him with a steep climb) reuses the same 'arduous ascent as punishment' metaphor as 6:125's suffocating-climb image for the disbeliever's constricted chest.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "18:6-8",
+   "tgt": "18:37-41",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "'Sa'idan juruzan' (barren, level ground) and 'sa'idan zalaqa' (slippery bare ground) both use 'sa'id' within the same surah for fertile land reduced to barren surface as a lesson on the transience of worldly adornment/wealth.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "2:163-167",
+   "tgt": "31:10",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "'Wa baththa fiha min kulli dabbah' (and He scattered therein every kind of creature) is repeated near-verbatim in both as part of a catalogue of creation-signs.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "2:163-167",
+   "tgt": "42:29",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "'Wa ma baththa fihima min dabbah' (whatever creatures He has scattered throughout them) reuses the identical creature-dispersal phrase as a sign of Allah's power.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "2:163-167",
+   "tgt": "45:3-5",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "'Wa ma yabuthu min dabbah' (what He scatters of moving creatures) repeats the same formula within an identical 'signs in creation' catalogue as 2:164.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "101:1-5",
+   "tgt": "56:1-12",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "'Kal-farashi al-mabthuth' (people like scattered moths) and 'fakanat haba'an munbaththan' (mountains becoming scattered dust) both use the same 'scattered/pulverized' root for the cosmic collapse of the Day of Judgment.",
+   "source_task": "group_3_result.json"
+  },
+  {
+   "src": "23:8",
+   "tgt": "70:32-33",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "The identical phrase 'li-amanatihim wa 'ahdihim ra'un' (shepherds of their trusts and covenant) appears verbatim in both 23:8 and 70:32, describing believers with the same active-participle image of a vigilant shepherd of what is entrusted to them.",
+   "source_task": "group_4_result1.json"
+  },
+  {
+   "src": "23:8",
+   "tgt": "57:27",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "57:27 uses the same root as a contrast: monks 'did not observe/shepherd it (ma ra'awha) with the observance it deserved,' directly inverting 23:8's praise of believers who ARE shepherds (ra'un) of their trusts — same idiom, opposite outcome.",
+   "source_task": "group_4_result1.json"
+  },
+  {
+   "src": "87:1-5",
+   "tgt": "79:27-33",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Both use the near-identical phrase 'akhraja ... al-mar'a' ('brought forth ... the pasture') inside a catalog of Allah's creative provisions — 79:31 'akhraja minha ma'aha wa mar'aha' and 87:4 'alladhi akhraja al-mar'a.'",
+   "source_task": "group_4_result1.json"
+  },
+  {
+   "src": "87:1-5",
+   "tgt": "20:53-54",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "20:54's command 'kulu wa-r'aw an'amakum' (eat, and let your livestock graze) belongs to the same catalog-of-provision genre as 87:4-5's 'brought forth the pasture, then made it dark debris' — both name grazing/pasture as part of Allah's provision within a creation-catalog ayah.",
+   "source_task": "group_4_result1.json"
+  },
+  {
+   "src": "2:104-105",
+   "tgt": "4:46",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "4:46 explicitly reworks the same ra'ina wordplay that 2:104 legislates against, using the identical word ra'ina (from ر-ع-ي, 'attend to us') and its replacement unzurna; the 4:46 tadabbur file itself names 2:104 as the source of the prohibition.",
+   "source_task": "group_4_result1.json"
+  },
+  {
+   "src": "3:106-108",
+   "tgt": "39:60",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Both use the rare Form IX color-verb for faces 'blackening' (taswaddu wujuh / wujuhuhum muswaddah) to depict Day-of-Judgment exposure of disbelief; 39:60's own file lists 3:106 as a directly related ayah.",
+   "source_task": "group_4_result1.json"
+  },
+  {
+   "src": "22:48",
+   "tgt": "3:176-180",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Both use the divine-forbearance formula 'numli lahum' / 'amlaytu' (We/I grant them respite) for wrongdoers before reckoning; 22:48's own related_ayahs list explicitly cites 3:178.",
+   "source_task": "group_4_result1.json"
+  },
+  {
+   "src": "22:48",
+   "tgt": "7:182-183",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "The istidraj formula 'wa umli lahum' (I grant them a long rope) is shared between the two, and 22:48's file explicitly cross-references 7:182 as a related ayah.",
+   "source_task": "group_4_result1.json"
+  },
+  {
+   "src": "22:48",
+   "tgt": "13:32-35",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Both use the same 'amlaytu ... thumma akhadhtuhum' (I gave them respite, then I seized them) formula describing how Allah dealt with deniers of past messengers before punishment.",
+   "source_task": "group_4_result1.json"
+  },
+  {
+   "src": "22:48",
+   "tgt": "22:42-44",
+   "verdict": "CONFIRM",
+   "connection_type": "retelling",
+   "note": "Same surah, virtually the same sentence — 'fa-amlaytu lil-kafirina thumma akhadhtuhum' — applied first to the seven historically-named denying nations (22:42-44) and then generalized to 'how many a town' (22:48).",
+   "source_task": "group_4_result1.json"
+  },
+  {
+   "src": "22:48",
+   "tgt": "47:25",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Both describe a prolonged false hope/rope extended to those who turn away — 'amla lahum' in 47:25 mirrors the amlaytu/imla' vocabulary of respite-before-seizure used across the istidraj verses.",
+   "source_task": "group_4_result1.json"
+  },
+  {
+   "src": "22:48",
+   "tgt": "68:44-45",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "68:45's 'wa umli lahum inna kaydi matin' is a near-verbatim match to 7:183 and belongs to the same amlaytu/istidraj refrain; 22:48's own related_ayahs list cites 68:45 directly.",
+   "source_task": "group_4_result1.json"
+  },
+  {
+   "src": "87:16-19",
+   "tgt": "53:36-37",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Both name 'suhuf Musa (wa Ibrahim)' as the ancient scriptures using the identical phrase, and 87:16-19's own related_ayahs list cites 53:36-37 directly.",
+   "source_task": "group_4_result1.json"
+  },
+  {
+   "src": "87:16-19",
+   "tgt": "20:133-135",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Both use the identical phrase 'al-suhuf al-ula' (the former scriptures) to describe previously revealed scripture as containing clear proof of the message the deniers demand a new sign for.",
+   "source_task": "group_4_result1.json"
+  },
+  {
+   "src": "87:16-19",
+   "tgt": "80:11-16",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "Both describe revelation using the noun suhuf as a physical, honored written form — 80:13's 'suhuf mukarramah' (honored pages) and 87's suhuf-al-ula tradition both frame scripture as literal pages carried through a preservation process.",
+   "source_task": "group_4_result1.json"
+  },
+  {
+   "src": "87:16-19",
+   "tgt": "98:2-3",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "80:14 and 98:2 both apply the identical descriptor 'mutahharah' (purified) to suhuf — the same purified-pages vocabulary that frames 87's suhuf-al-ula as the enduring form of revealed truth.",
+   "source_task": "group_4_result1.json"
+  },
+  {
+   "src": "87:16-19",
+   "tgt": "74:49-56",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "74:52's mocking demand for personally-addressed 'suhufan munashsharatan' (open scrolls) plays against the same suhuf-as-scripture concept 87:18-19 affirms already exists in the suhuf of Ibrahim and Musa; 74:49-56's own related_ayahs cite 80:11, tying it into the same scriptural-suhuf family.",
+   "source_task": "group_4_result1.json"
+  },
+  {
+   "src": "3:186",
+   "tgt": "31:16-19",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "The identical closing idiom 'min 'azmi al-umur' (of the matters of firm resolve) is used verbatim in both to name patience under trial as one of the weightiest acts of the human will.",
+   "source_task": "group_4_result1.json"
+  },
+  {
+   "src": "3:186",
+   "tgt": "42:43",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "42:43 closes with 'la-min 'azmi al-umur,' the same idiom 3:186 uses for patience-under-abuse, now applied to patience joined with forgiveness.",
+   "source_task": "group_4_result1.json"
+  },
+  {
+   "src": "3:186",
+   "tgt": "46:35",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "46:35 commands patience 'as the ulul-'azm (possessors of resolve) messengers were patient' — the same root-family idiom that 3:186/31:17/42:43 use for the virtue of 'azm al-umur,' here naming its highest human exemplars.",
+   "source_task": "group_4_result1.json"
+  },
+  {
+   "src": "2:225-232",
+   "tgt": "2:234-235",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "Both use 'azama' as the verb for a binding legal decision within the same surah's continuous marriage/divorce legislation — 2:227's 'in 'azamu al-talaq' (if they resolve on divorce) and 2:235's 'la ta'zimu 'uqdata al-nikah' (do not resolve the marriage-contract).",
+   "source_task": "group_4_result1.json"
+  },
+  {
+   "src": "8:41-42",
+   "tgt": "8:67-69",
+   "verdict": "CONFIRM",
+   "connection_type": "retelling",
+   "note": "Both address the same Battle of Badr's aftermath and the legal status of ghanimah — 8:41's fifth-share ruling and 8:69's declaration that the taken spoils are now halal.",
+   "source_task": "group_4_result1.json"
+  },
+  {
+   "src": "8:41-42",
+   "tgt": "4:94",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "4:94 warns against killing a professing believer out of desire for worldly maghanim ('fa-'inda Allahi maghanimu kathirah'), directly engaging the same battlefield-spoils ethics 8:41-42 legislates.",
+   "source_task": "group_4_result1.json"
+  },
+  {
+   "src": "8:41-42",
+   "tgt": "48:15",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "48:15's maghanim (Khaybar spoils) extends the same legislated-distribution logic established for Badr's ghanimah in 8:41-42, now contested by those who stayed behind.",
+   "source_task": "group_4_result1.json"
+  },
+  {
+   "src": "8:41-42",
+   "tgt": "48:19",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "48:19's 'maghanima kathiratan' promised to the people of Hudaybiyyah continues the same divine ghanimah-legislation thread inaugurated at Badr in 8:41-42.",
+   "source_task": "group_4_result1.json"
+  },
+  {
+   "src": "8:41-42",
+   "tgt": "48:20",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "48:20 frames the Khaybar maghanim as a promise fulfilled, paralleling 8:41-42's foundational ruling on how Allah allocates and legislates the spoils of battle.",
+   "source_task": "group_4_result1.json"
+  },
+  {
+   "src": "3:14-15",
+   "tgt": "16:5-8",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "Both list 'al-khayl' (horses) inside an enumerated catalog of worldly goods/adornments Allah has provided — 3:14's list of desires (women, sons, gold, silver, branded horses, cattle, land) and 16:5-8's list of livestock and riding animals given for use and zinah (adornment).",
+   "source_task": "group_4_result1.json"
+  },
+  {
+   "src": "40:16-17",
+   "tgt": "18:47-49",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "Both describe total exposure on Judgment Day using 'barz' language — 40:16 'the Day they are barizun, nothing hidden from Allah' matches 18:49's earth made 'barizatan' and a record that 'leaves out neither small nor great.'",
+   "source_task": "group_4_result2.json"
+  },
+  {
+   "src": "40:16-17",
+   "tgt": "14:21",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "Both stage the same scene of creation coming forth ('barazu'/'barizun') before Allah at the Resurrection, exposed with no protector or veil remaining.",
+   "source_task": "group_4_result2.json"
+  },
+  {
+   "src": "40:16-17",
+   "tgt": "14:45-48",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "14:48's climactic 'wa barazu lillahi al-wahid al-qahhar' (they come out before Allah, the One, the Overwhelming) is the same 'yawm al-baraz' unveiling scene 40:16 opens with, both ending on Allah's singular, irresistible sovereignty that Day.",
+   "source_task": "group_4_result2.json"
+  },
+  {
+   "src": "40:16-17",
+   "tgt": "26:90-95",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "Part of the same Day-of-unveiling motif: where 40:16 exposes the people ('hum barizun'), 26:91 exposes the Fire itself ('wa burrizat al-jahim lil-ghawin') as the other half of that Day's total revelation.",
+   "source_task": "group_4_result2.json"
+  },
+  {
+   "src": "40:16-17",
+   "tgt": "79:34-41",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "79:36 uses the same passive 'wa burrizat al-jahim' (the Blaze is brought into view) found in 26:91, part of the same total-exposure Judgment scene that 40:16-17 frames explicitly as 'yawma hum barizun.'",
+   "source_task": "group_4_result2.json"
+  },
+  {
+   "src": "35:33-35",
+   "tgt": "18:31",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Both use the near-identical formula 'yuhallawna fiha min asawira min dhahab... wa yalbasuna thiyaban' describing Paradise-dwellers adorned with gold bracelets and fine garments — a repeated stock description of the same reward scene.",
+   "source_task": "group_4_result2.json"
+  },
+  {
+   "src": "35:33-35",
+   "tgt": "22:23-24",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "35:33 and 22:23 share the verbatim clause 'yuhallawna fiha min asawira min dhahabin wa lu'lu'an wa libasuhum fiha harir' word for word, the Quran's standing formula for Paradise adornment.",
+   "source_task": "group_4_result2.json"
+  },
+  {
+   "src": "35:33-35",
+   "tgt": "76:21",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "76:21's 'wa hullu asawira min fiddah' (adorned with bracelets of silver) is the same formulaic Paradise-adornment scene as 35:33's gold-bracelet formula, varying only the metal.",
+   "source_task": "group_4_result2.json"
+  },
+  {
+   "src": "16:13-18",
+   "tgt": "35:12",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Both contain the near-verbatim clause 'tastakhrijuna hilyatan talbasunaha' (you extract from it an ornament you wear) describing pearls drawn from the sea as a sign of Allah's favor — the same sentence repeated across two surahs.",
+   "source_task": "group_4_result2.json"
+  },
+  {
+   "src": "19:71-72",
+   "tgt": "11:96-99",
+   "verdict": "CONFIRM",
+   "connection_type": "shared-epithet",
+   "note": "Both use 'wird/awrada' for arrival at Hell as if coming to water: 11:98 'fa-awradahumu al-nar... bi'sa al-wirdu al-mawrud' and 19:71 'wa in minkum illa wariduha' apply the same watering-place image to the Fire.",
+   "source_task": "group_4_result2.json"
+  },
+  {
+   "src": "19:71-72",
+   "tgt": "19:85-87",
+   "verdict": "CONFIRM",
+   "connection_type": "shared-epithet",
+   "note": "Same surah, same eschatological image: 19:71's universal 'wariduha' (all will come to it) is answered a few ayat later by 19:86's 'wa nasuqu al-mujrimina ila jahannama wirdan' — criminals driven to Hell as a herd driven to water.",
+   "source_task": "group_4_result2.json"
+  },
+  {
+   "src": "19:71-72",
+   "tgt": "21:98-100",
+   "verdict": "CONFIRM",
+   "connection_type": "shared-epithet",
+   "note": "21:98's 'antum laha waridun' (you will come to it) and 21:99's 'law kana ha'ula'i alihatan ma waraduha' reuse the identical arrival-at-Hell-as-water-source image found in 19:71's 'wariduha.'",
+   "source_task": "group_4_result2.json"
+  },
+  {
+   "src": "26:69-76",
+   "tgt": "20:90-91",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "Both use 'akifin/akifan' for stubborn devotion to a false object of worship (Ibrahim's people to their idols; the Israelites to the golden calf, 'lan nabraha 'alayhi 'akifin'), the same critique of misplaced devotion recurring across two idol-narratives.",
+   "source_task": "group_4_result2.json"
+  },
+  {
+   "src": "26:69-76",
+   "tgt": "20:97-98",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "Samiri's devotion to the calf ('zalta 'alayhi 'akifan') is condemned in the same terms Ibrahim uses against his father's idols ('fa-nazallu laha 'akifin') — the same root-word critique of devoted idol-worship.",
+   "source_task": "group_4_result2.json"
+  },
+  {
+   "src": "26:69-76",
+   "tgt": "21:51-52",
+   "verdict": "CONFIRM",
+   "connection_type": "retelling",
+   "note": "Both dramatize the same encounter — Ibrahim challenging his father and people over statues 'la-ha 'akifun'/'akifin' — as parallel tellings of Ibrahim's confrontation with his father's idolatry.",
+   "source_task": "group_4_result2.json"
+  },
+  {
+   "src": "22:25",
+   "tgt": "2:124-126",
+   "verdict": "CONFIRM",
+   "connection_type": "shared-epithet",
+   "note": "Both apply 'al-'akif' specifically to devoted worshippers/residents at the Sacred House: 2:125 charges Ibrahim and Isma'il to purify the House 'lil-ta'ifina wal-'akifina,' and 22:25 declares the Masjid al-Haram equal for 'al-'akifu fihi wal-badi.'",
+   "source_task": "group_4_result2.json"
+  },
+  {
+   "src": "22:25",
+   "tgt": "48:25",
+   "verdict": "CONFIRM",
+   "connection_type": "shared-scene",
+   "note": "Both concern access to and within al-Masjid al-Haram: 22:25 legislates equal standing for resident and visitor there, and 48:25 describes the sacrificial animal held 'ma'kufan' — barred from reaching that same sacred place during Hudaybiyyah.",
+   "source_task": "group_4_result2.json"
+  },
+  {
+   "src": "6:66-69",
+   "tgt": "4:138-141",
+   "verdict": "CONFIRM",
+   "connection_type": "twin-ruling",
+   "note": "Both give the identical instruction, nearly word for word — 'fa-a'rid 'anhum hatta yakhudu fi hadithin ghayrihi' (6:68) and 'fa la taq'udu ma'ahum hatta yakhudu fi hadithin ghayrihi' (4:140) — not to sit with those mocking Allah's verses until they change the subject.",
+   "source_task": "group_4_result2.json"
+  },
+  {
+   "src": "52:11-12",
+   "tgt": "70:42-44",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "Both describe deniers 'wading and playing' (yakhudu wa yal'abun/fi khawdin yal'abun) as their defining vice before the promised Day arrives.",
+   "source_task": "group_4_result2.json"
+  },
+  {
+   "src": "52:11-12",
+   "tgt": "9:63-66",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "9:65's hypocrite excuse 'innama kunna nakhudu wa nal'abu' (we were only chatting and playing) uses the same khaud-plus-play pairing that 52:12 uses to characterize deniers of the Day.",
+   "source_task": "group_4_result2.json"
+  },
+  {
+   "src": "52:11-12",
+   "tgt": "6:91-94",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "6:91's 'dharhum fi khawdihim yal'abun' (leave them in their vain talk, playing) and 52:12's 'fi khawdin yal'abun' are near-verbatim, the same command/description of mockers left to their idle talk.",
+   "source_task": "group_4_result2.json"
+  },
+  {
+   "src": "52:11-12",
+   "tgt": "74:42-48",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "74:45's confession 'wa kunna nakhudu ma'a al-kha'idin' (we used to wade with those who waded) names the same vice — idle wading in false talk about religion — that 52:11-12 condemns as the deniers' defining trait.",
+   "source_task": "group_4_result2.json"
+  },
+  {
+   "src": "52:11-12",
+   "tgt": "9:67-70",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "9:69's 'wa khudtum ka-alladhi khadu' (you have plunged into idle talk as they plunged) applies the same khaud-as-vice charge against hypocrites that 52:11-12 levels at deniers of Judgment.",
+   "source_task": "group_4_result2.json"
+  },
+  {
+   "src": "52:11-12",
+   "tgt": "43:83",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "43:83's 'fa-dharhum yakhudu wa yal'abu' is the same 'leave them to their wading and play' formula found (verbatim) in 70:42, itself already tied to 52:11-12's identical characterization of deniers.",
+   "source_task": "group_4_result2.json"
+  },
+  {
+   "src": "6:95-99",
+   "tgt": "2:25",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "2:25's Paradise fruit given 'mutashabihan' (resembling what they knew before, yet different) mirrors the same resemblance-yet-difference paradox 6:99's worldly olives and pomegranates embody — outward likeness masking real difference.",
+   "source_task": "group_4_result2.json"
+  },
+  {
+   "src": "3:7",
+   "tgt": "39:23",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "3:7 names 'mutashabihat' as a category of the Quran's own ayat, and 39:23 describes the whole Quran itself as 'kitaban mutashabihan mathaniya' (a Book resembling itself, paired in twos) — both apply 'mutashabih' reflexively to the Quran's own text.",
+   "source_task": "group_4_result2.json"
+  },
+  {
+   "src": "62:11",
+   "tgt": "3:159-160",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Both use the verb infaḍḍū/la-infaḍḍū (root فضض, Form VII 'to scatter like a snapped string of pearls') to picture people physically dispersing away from the Prophet's presence — one hypothetical (had you been harsh, they would have scattered), one realized (they saw a caravan and scattered, leaving him standing).",
+   "source_task": "group_4_result3.json"
+  },
+  {
+   "src": "62:11",
+   "tgt": "63:7",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Both use the same 'scattering' verb from فضض and the same classical 'necklace of pearls snapping' image to describe a community's bond being threatened by money/trade — 62:11 the believers scattering toward a caravan, 63:7 the hypocrites' scheme to make the believers scatter by starving them financially.",
+   "source_task": "group_4_result3.json"
+  },
+  {
+   "src": "43:31-35",
+   "tgt": "3:14-15",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Both passages list gold/silver and worldly luxuries then close with the near-identical clause 'matāʿu al-ḥayāti al-dunyā' ('the matāʿ [travel-rations] of worldly life'), using silver as the paradigm case of wealth wrongly treated as the destination rather than travel-food.",
+   "source_task": "group_4_result3.json"
+  },
+  {
+   "src": "9:34-35",
+   "tgt": "76:15-16",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "9:34-35 shows hoarded silver becoming the very metal branded onto the hoarder's skin in Hell; 76:15-16 shows silver freely circulated as crystal cups to those who gave away food they loved — the same metal is instrument of torment for withholding and instrument of honor for giving.",
+   "source_task": "group_4_result3.json"
+  },
+  {
+   "src": "9:34-35",
+   "tgt": "76:21",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "Same inversion as above: silver hoarded and refused to be spent (9:34-35) returns as the branding heat of punishment, while silver given as bracelets (76:21) is the unearned adornment of those who fed the poor 'in spite of love for it' (76:8) — one root, opposite fates tied to generosity vs. withholding.",
+   "source_task": "group_4_result3.json"
+  },
+  {
+   "src": "78:6-11",
+   "tgt": "25:45-47",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Both use the near-identical formula 'al-layla libāsan wa-n-nawma subātan' / 'wa-n-nawma subātā' within an ayāt-catalogue of night, sleep, and day as designed cosmic signs — the same sign-sequence (garment/rest/livelihood) appears in both surahs.",
+   "source_task": "group_4_result3.json"
+  },
+  {
+   "src": "78:6-11",
+   "tgt": "30:23",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "Both belong to the same genre of sign-catalogue pairing sleep with productive daytime activity — 78:11 'made the day a place for your livelihood (maʿāshan)' and 30:23 'your sleep... and your seeking of His bounty' — sleep and work named together as twin designed rhythms.",
+   "source_task": "group_4_result3.json"
+  },
+  {
+   "src": "78:6-11",
+   "tgt": "39:42",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "78:9 names sleep as subāt, a designed rest-cycle built into creation; 39:42 makes explicit what that designed rest actually is — a nightly rehearsal of death in which Allah takes the soul (yatawaffā) and returns it — the same 'sleep as engineered mini-death' claim, one describing the mechanism as gift, the other as theology.",
+   "source_task": "group_4_result3.json"
+  },
+  {
+   "src": "39:42",
+   "tgt": "2:255",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "39:42 says Allah takes every soul in sleep, a nightly taste of death for mortals; 2:255 says of Allah Himself 'neither drowsiness overtakes Him nor sleep' — the two ayahs form a deliberate contrast between the human creature who dies a little every night and the Living, Self-Sustaining God who never does.",
+   "source_task": "group_4_result3.json"
+  },
+  {
+   "src": "68:19-20",
+   "tgt": "7:96-99",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Both use the identical clause 'wa hum nā'imūn' ('while they were asleep') to describe a divine decree striking people who had felt falsely secure — the garden-owners in Al-Qalam and the complacent towns in Al-A'raf are both punished precisely in the state of sleep that symbolized their misplaced confidence.",
+   "source_task": "group_4_result3.json"
+  },
+  {
+   "src": "37:102",
+   "tgt": "8:43-44",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Both use manām for a divinely-shown dream-vision (not ordinary sleep) that directly determines a decisive, history-shaping prophetic action: Ibrahim's dream of sacrificing Ismail, and the Prophet's dream at Badr showing the enemy as few, which steadied the believers before the battle.",
+   "source_task": "group_4_result3.json"
+  },
+  {
+   "src": "2:246-252",
+   "tgt": "22:39-40",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Both contain the verbatim cosmic-balance clause 'wa lawlā dafʿu Allāhi an-nāsa baʿḍahum bi-baʿḍin' ('were it not for Allah's checking/repelling of some people by means of others') — in 2:251 applied to Dawud defeating Jalut, in 22:40 applied to defending houses of worship, both naming the same principle that Allah prevents corruption of the earth by using human agents against tyranny.",
+   "source_task": "group_4_result3.json"
+  },
+  {
+   "src": "41:34-35",
+   "tgt": "23:96-98",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Both contain the identical command 'idfaʿ bi-llatī hiya aḥsan' ('repel [evil] with that which is better') as the core ihsan-ethic for responding to harm — 41:34 promises the enemy becomes an intimate friend, 23:96 pairs the same command with seeking refuge from the shaytan's prods that would sabotage the response.",
+   "source_task": "group_4_result3.json"
+  },
+  {
+   "src": "70:1-4",
+   "tgt": "52:7-8",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Both use the same paired vocabulary — an active participle of falling/befalling (wāqiʿ) plus a negated dāfiʿ ('no one/nothing to repel it') — to describe the divine punishment as already in motion and absolutely unstoppable; 70:2 'laysa lahu dāfiʿ' and 52:8 'mā lahu min dāfiʿ' are near-identical constructions in adjacent eschatological contexts.",
+   "source_task": "group_4_result3.json"
+  },
+  {
+   "src": "24:44",
+   "tgt": "3:13",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Both close with the identical formula 'la-ʿibratan li-ulī al-abṣār' ('a crossing-lesson for those who possess sight') — 24:44 applied to the night-day alternation, 3:13 applied to the two armies at Badr — both using the same root-sense of ʿibrah as 'a crossing from the seen to the One who holds it,' addressed to the same named audience of 'possessors of sight.'",
+   "source_task": "group_4_result3.json"
+  },
+  {
+   "src": "24:44",
+   "tgt": "59:2",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "59:2 closes with the imperative form of the same phrase, 'fa-ʿtabirū yā ulī al-abṣār' ('so cross over, O people of vision'), addressed to the same audience-category as 24:44's 'la-ʿibratan li-ulī al-abṣār' — both call the reader to cross from a visible event (the turning day; the fallen fortresses of Banu Nadir) to the invisible truth that real security/power belongs only to Allah.",
+   "source_task": "group_4_result3.json"
+  },
+  {
+   "src": "16:65-69",
+   "tgt": "23:21-22",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Near-identical parallel verses: both open 'wa inna lakum/lakum fi al-anʿām la-ʿibratan' and describe milk drawn pure from the animal's belly as a crossing-lesson pointing to the Creator — the two passages are explicitly cross-referenced as parallels in the classical and modern commentary on both ayahs.",
+   "source_task": "group_4_result3.json"
+  },
+  {
+   "src": "79:15-26",
+   "tgt": "12:109-111",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "Both close an extended prophetic narrative by naming the story itself an ʿibrah for a qualified receiver — 79:26 'la-ʿibratan li-man yakhshā' (for one who is in awe) and 12:111 'la-qad kāna fī qaṣaṣihim ʿibratun li-ulī al-albāb' (for people of understanding) — both insisting the story must be crossed into, not merely heard, and that only a prepared heart receives it.",
+   "source_task": "group_4_result3.json"
+  },
+  {
+   "src": "41:5",
+   "tgt": "6:25-26",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Both use the recurring Quranic formula 'wa fī ādhānihim waqran' ('and in their ears is a heaviness') describing hearts covered and ears made heavy so revelation cannot be understood — in 41:5 the disbelievers boast of this state themselves; in 6:25 it is described as their condition when they come to argue and dismiss the Quran as old tales.",
+   "source_task": "group_4_result3.json"
+  },
+  {
+   "src": "41:5",
+   "tgt": "17:45-48",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Identical phrase 'wa fī ādhānihim waqran' paired with 'akinnatan' (coverings on the heart) — both passages describe a hidden veil/heaviness that blocks reception of the Quran specifically when Allah is mentioned alone (tawḥīd), and both note the listeners still 'attend' outwardly while inwardly sealed.",
+   "source_task": "group_4_result3.json"
+  },
+  {
+   "src": "41:5",
+   "tgt": "18:57-59",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Same recurring formula 'wa fī ādhānihim waqran' with 'akinnatan ʿalā qulūbihim' — 18:57 attaches it to someone reminded of Allah's signs who turns away and forgets his own deeds, the same self-inflicted deafness that 41:5 has the disbelievers proudly confess as their own possession.",
+   "source_task": "group_4_result3.json"
+  },
+  {
+   "src": "41:5",
+   "tgt": "31:7",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "31:7 uses the same root in 'ka-anna fī udhunayhi waqran' (as if there were a heaviness in his two ears) to describe the arrogant individual who turns away from recited verses — a singular-addressee variant of the same recurring 'heaviness in the ears blocking revelation' formula found six times across the corpus.",
+   "source_task": "group_4_result3.json"
+  },
+  {
+   "src": "41:5",
+   "tgt": "41:44",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Within the same surah, 41:44 answers 41:5's self-description almost word for word: 'fī ādhānihim waqrun' — the disbelievers' own boast in verse 5 ('our ears have a heaviness') is confirmed as Allah's verdict on them in verse 44, closing a loop with their own vocabulary.",
+   "source_task": "group_4_result3.json"
+  },
+  {
+   "src": "71:13-14",
+   "tgt": "48:9",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "Both use the positive sense of the same root (waqār/tuwaqqirūhu, 'to give weight/reverence') rather than the negative 'deafness' sense — 71:13 rebukes people for giving Allah no waqār at all, while 48:9 commands believers to give the Messenger tawqīr (reverence); both treat 'weight' as something that must be rightly placed, in the heart toward Allah or toward His Messenger, or else it curdles into the same root's other sense of heaviness/deafness.",
+   "source_task": "group_4_result3.json"
+  },
+  {
+   "src": "14:1-3",
+   "tgt": "3:99-101",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Both contain the recurring formula 'yaṣudduna ʿan sabīli Allāh wa yabghūnahā ʿiwajan' ('they turn people away from Allah's path and seek to make it crooked') describing knowledgeable people who obstruct the straight path and try to make it appear morally bent — a formula repeated verbatim across at least five surahs in this corpus.",
+   "source_task": "group_4_result3.json"
+  },
+  {
+   "src": "14:1-3",
+   "tgt": "7:44-45",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Identical recurring phrase 'yaṣudduna ʿan sabīli Allāh wa yabghūnahā ʿiwajan' — in 7:44-45 pronounced as the curse-defining description of the wrongdoers publicly announced between the people of Paradise and the Fire, matching 14:3's description of those who prefer dunya and bend Allah's path.",
+   "source_task": "group_4_result3.json"
+  },
+  {
+   "src": "14:1-3",
+   "tgt": "7:85-93",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Same formula appears in Shuʿayb's warning at 7:86 ('lā taqʿudū bi-kulli ṣirāṭin tūʿidūna wa taṣudduna ʿan sabīli Allāhi... wa tabghūnahā ʿiwajan') — obstructing the path and bending it, describing coercive public intimidation, the same disease named generically in 14:3.",
+   "source_task": "group_4_result3.json"
+  },
+  {
+   "src": "14:1-3",
+   "tgt": "11:19-22",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "11:19 uses the identical clause 'alladhīna yaṣudduna ʿan sabīli Allāhi wa yabghūnahā ʿiwajan' immediately followed by the same 'disbelievers in the Hereafter' clause found in 14:1-3, both texts tying denial of the Hereafter to the specific project of bending Allah's path for others.",
+   "source_task": "group_4_result3.json"
+  },
+  {
+   "src": "39:27-28",
+   "tgt": "18:1-5",
+   "verdict": "CONFIRM",
+   "connection_type": "deliberate-echo",
+   "note": "Both make the identical theological claim about the Quran itself using the same root: 18:1 'wa lam yajʿal lahu ʿiwajā' (He placed no crookedness in it) and 39:28 'ghayra dhī ʿiwaj' (without any crookedness) — the Book's own straightness as opposed to human beings who bend Allah's path, explicitly cross-referenced in the tafsir of both passages.",
+   "source_task": "group_4_result3.json"
+  },
+  {
+   "src": "20:105-107",
+   "tgt": "20:108",
+   "verdict": "CONFIRM",
+   "connection_type": "thematic-parallel",
+   "note": "Consecutive verses in the same Day-of-Judgment scene both use 'iwaj' for total absence of deviation: 20:107 the leveled earth has 'no crookedness and not even the smallest hump,' and 20:108 the Caller that Day has 'lā ʿiwaja lahu' — the same word describing first the flattened topography and then the flawless authority summoning everyone to it.",
+   "source_task": "group_4_result3.json"
+  }
+ ],
+ "reviewed_roots": [
+  "أني",
+  "أون",
+  "بثث",
+  "برز",
+  "برق",
+  "برهن",
+  "بطش",
+  "بقر",
+  "بهت",
+  "تجر",
+  "ترف",
+  "جلد",
+  "حجب",
+  "حرق",
+  "حلي",
+  "حيق",
+  "ختم",
+  "خسف",
+  "خضر",
+  "خمس",
+  "خوض",
+  "خيل",
+  "دفع",
+  "دلل",
+  "دمر",
+  "دمو",
+  "دوم",
+  "رجز",
+  "رجس",
+  "رعي",
+  "رغب",
+  "رمي",
+  "زلف",
+  "زيغ",
+  "ستت",
+  "سري",
+  "سفل",
+  "سفه",
+  "سقط",
+  "سلف",
+  "سود",
+  "شبه",
+  "صحف",
+  "صعد",
+  "صلب",
+  "ضرع",
+  "عبر",
+  "عتو",
+  "عزم",
+  "عقر",
+  "عكف",
+  "عمه",
+  "عنق",
+  "عوج",
+  "عوم",
+  "عيش",
+  "غبر",
+  "غنم",
+  "فرر",
+  "فرط",
+  "فضض",
+  "فيض",
+  "قبر",
+  "قدس",
+  "قذف",
+  "قهر",
+  "كلف",
+  "كنز",
+  "لطف",
+  "مطر",
+  "مكث",
+  "ملو",
+  "نوم",
+  "هبط",
+  "همم",
+  "ورد",
+  "وقر",
+  "ولج",
+  "وهن"
+ ]
+}
