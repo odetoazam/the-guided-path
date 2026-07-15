@@ -207,7 +207,12 @@ def find_tafsir_report(tadabbur_path: Path) -> Path | None:
         key = f"{surah}:{ayah_start}"
         report_name = _tafsir_index.get(key)
         if report_name:
-            candidate = TAFSIR_DIR / report_name
+            # rekey_tafsir.py's verified index stores repo-relative paths
+            # (in-content sibling reports win over the surah-blind output dir);
+            # fall back to the legacy TAFSIR_DIR/name form for compatibility.
+            candidate = REPO / report_name
+            if not candidate.exists():
+                candidate = TAFSIR_DIR / report_name
             if candidate.exists():
                 return candidate
     return None

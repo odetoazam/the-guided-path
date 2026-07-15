@@ -1,10 +1,10 @@
 {
  "meta": {
   "buckets": {
-   "EXACT": 1244,
-   "MISSING": 1754,
+   "EXACT": 1808,
+   "MISSING": 1189,
    "COVERED": 15,
-   "PARTIAL": 5
+   "PARTIAL": 6
   },
   "total": 3018
  },
@@ -7638,40 +7638,40 @@
    "surah": 21,
    "lo": 4,
    "hi": 4,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/021-al-anbiya/tafsir-report-004.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/021-al-anbiya/ayah-005.md",
    "surah": 21,
    "lo": 5,
    "hi": 5,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/021-al-anbiya/tafsir-report-005.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/021-al-anbiya/ayah-006.md",
    "surah": 21,
    "lo": 6,
    "hi": 6,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/021-al-anbiya/tafsir-report-006.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/021-al-anbiya/ayah-009.md",
    "surah": 21,
    "lo": 9,
    "hi": 9,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/021-al-anbiya/tafsir-report-009.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/021-al-anbiya/ayah-010.md",
    "surah": 21,
    "lo": 10,
    "hi": 10,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/021-al-anbiya/tafsir-report-010.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/021-al-anbiya/ayah-018.md",
@@ -7686,8 +7686,8 @@
    "surah": 21,
    "lo": 21,
    "hi": 21,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/021-al-anbiya/tafsir-report-021.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/021-al-anbiya/ayah-022.md",
@@ -7710,8 +7710,8 @@
    "surah": 21,
    "lo": 24,
    "hi": 24,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/021-al-anbiya/tafsir-report-024.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/021-al-anbiya/ayah-025.md",
@@ -7726,8 +7726,8 @@
    "surah": 21,
    "lo": 29,
    "hi": 29,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/021-al-anbiya/tafsir-report-029.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/021-al-anbiya/ayah-030.md",
@@ -7750,8 +7750,8 @@
    "surah": 21,
    "lo": 34,
    "hi": 34,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/021-al-anbiya/tafsir-report-034.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/021-al-anbiya/ayah-035.md",
@@ -7766,8 +7766,8 @@
    "surah": 21,
    "lo": 36,
    "hi": 36,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/021-al-anbiya/tafsir-report-036.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/021-al-anbiya/ayah-037.md",
@@ -7782,120 +7782,120 @@
    "surah": 21,
    "lo": 41,
    "hi": 41,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/021-al-anbiya/tafsir-report-041.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/021-al-anbiya/ayah-044.md",
    "surah": 21,
    "lo": 44,
    "hi": 44,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/021-al-anbiya/tafsir-report-044.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/021-al-anbiya/ayah-045.md",
    "surah": 21,
    "lo": 45,
    "hi": 45,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/021-al-anbiya/tafsir-report-045.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/021-al-anbiya/ayah-046.md",
    "surah": 21,
    "lo": 46,
    "hi": 46,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/021-al-anbiya/tafsir-report-046.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/021-al-anbiya/ayah-047.md",
    "surah": 21,
    "lo": 47,
    "hi": 47,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/021-al-anbiya/tafsir-report-047.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/021-al-anbiya/ayah-050.md",
    "surah": 21,
    "lo": 50,
    "hi": 50,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/021-al-anbiya/tafsir-report-050.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/021-al-anbiya/ayah-055.md",
    "surah": 21,
    "lo": 55,
    "hi": 55,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/021-al-anbiya/tafsir-report-055.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/021-al-anbiya/ayah-056.md",
    "surah": 21,
    "lo": 56,
    "hi": 56,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/021-al-anbiya/tafsir-report-056.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/021-al-anbiya/ayah-068.md",
    "surah": 21,
    "lo": 68,
    "hi": 68,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/021-al-anbiya/tafsir-report-068.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/021-al-anbiya/ayah-069.md",
    "surah": 21,
    "lo": 69,
    "hi": 69,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/021-al-anbiya/tafsir-report-069.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/021-al-anbiya/ayah-070.md",
    "surah": 21,
    "lo": 70,
    "hi": 70,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/021-al-anbiya/tafsir-report-070.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/021-al-anbiya/ayah-073.md",
    "surah": 21,
    "lo": 73,
    "hi": 73,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/021-al-anbiya/tafsir-report-073.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/021-al-anbiya/ayah-082.md",
    "surah": 21,
    "lo": 82,
    "hi": 82,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/021-al-anbiya/tafsir-report-082.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/021-al-anbiya/ayah-083.md",
    "surah": 21,
    "lo": 83,
    "hi": 83,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/021-al-anbiya/tafsir-report-083.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/021-al-anbiya/ayah-084.md",
    "surah": 21,
    "lo": 84,
    "hi": 84,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/021-al-anbiya/tafsir-report-084.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/021-al-anbiya/ayah-089.md",
@@ -7910,24 +7910,24 @@
    "surah": 21,
    "lo": 90,
    "hi": 90,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/021-al-anbiya/tafsir-report-090.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/021-al-anbiya/ayah-091.md",
    "surah": 21,
    "lo": 91,
    "hi": 91,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/021-al-anbiya/tafsir-report-091.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/021-al-anbiya/ayah-092.md",
    "surah": 21,
    "lo": 92,
    "hi": 92,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/021-al-anbiya/tafsir-report-092.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/021-al-anbiya/ayah-093.md",
@@ -7950,8 +7950,8 @@
    "surah": 21,
    "lo": 95,
    "hi": 95,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/021-al-anbiya/tafsir-report-095.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/021-al-anbiya/ayah-096.md",
@@ -8030,16 +8030,16 @@
    "surah": 21,
    "lo": 2,
    "hi": 3,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/021-al-anbiya/tafsir-report-002-003.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/021-al-anbiya/ayahs-007-008.md",
    "surah": 21,
    "lo": 7,
    "hi": 8,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/021-al-anbiya/tafsir-report-007-008.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/021-al-anbiya/ayahs-011-013.md",
@@ -8054,8 +8054,8 @@
    "surah": 21,
    "lo": 14,
    "hi": 15,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/021-al-anbiya/tafsir-report-014-015.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/021-al-anbiya/ayahs-016-017.md",
@@ -8078,16 +8078,16 @@
    "surah": 21,
    "lo": 26,
    "hi": 28,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/021-al-anbiya/tafsir-report-026-028.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/021-al-anbiya/ayahs-031-032.md",
    "surah": 21,
    "lo": 31,
    "hi": 32,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/021-al-anbiya/tafsir-report-031-032.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/021-al-anbiya/ayahs-038-040.md",
@@ -8102,32 +8102,32 @@
    "surah": 21,
    "lo": 42,
    "hi": 43,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/021-al-anbiya/tafsir-report-042-043.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/021-al-anbiya/ayahs-048-049.md",
    "surah": 21,
    "lo": 48,
    "hi": 49,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/021-al-anbiya/tafsir-report-048-049.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/021-al-anbiya/ayahs-051-052.md",
    "surah": 21,
    "lo": 51,
    "hi": 52,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/021-al-anbiya/tafsir-report-051-052.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/021-al-anbiya/ayahs-053-054.md",
    "surah": 21,
    "lo": 53,
    "hi": 54,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/021-al-anbiya/tafsir-report-053-054.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/021-al-anbiya/ayahs-057-058.md",
@@ -8206,8 +8206,8 @@
    "surah": 21,
    "lo": 85,
    "hi": 86,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/021-al-anbiya/tafsir-report-085-086.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/021-al-anbiya/ayahs-087-088.md",
@@ -8230,176 +8230,176 @@
    "surah": 21,
    "lo": 101,
    "hi": 102,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/021-al-anbiya/tafsir-report-101-102.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/021-al-anbiya/ayahs-109-111.md",
    "surah": 21,
    "lo": 109,
    "hi": 111,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/021-al-anbiya/tafsir-report-109-111.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/022-al-hajj/ayah-005.md",
    "surah": 22,
    "lo": 5,
    "hi": 5,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/022-al-hajj/tafsir-report-005.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/022-al-hajj/ayah-010.md",
    "surah": 22,
    "lo": 10,
    "hi": 10,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/022-al-hajj/tafsir-report-010.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/022-al-hajj/ayah-011.md",
    "surah": 22,
    "lo": 11,
    "hi": 11,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/022-al-hajj/tafsir-report-011.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/022-al-hajj/ayah-014.md",
    "surah": 22,
    "lo": 14,
    "hi": 14,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/022-al-hajj/tafsir-report-014.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/022-al-hajj/ayah-015.md",
    "surah": 22,
    "lo": 15,
    "hi": 15,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/022-al-hajj/tafsir-report-015.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/022-al-hajj/ayah-016.md",
    "surah": 22,
    "lo": 16,
    "hi": 16,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/022-al-hajj/tafsir-report-016.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/022-al-hajj/ayah-017.md",
    "surah": 22,
    "lo": 17,
    "hi": 17,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/022-al-hajj/tafsir-report-017.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/022-al-hajj/ayah-018.md",
    "surah": 22,
    "lo": 18,
    "hi": 18,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/022-al-hajj/tafsir-report-018.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/022-al-hajj/ayah-025.md",
    "surah": 22,
    "lo": 25,
    "hi": 25,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/022-al-hajj/tafsir-report-025.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/022-al-hajj/ayah-026.md",
    "surah": 22,
    "lo": 26,
    "hi": 26,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/022-al-hajj/tafsir-report-026.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/022-al-hajj/ayah-027.md",
    "surah": 22,
    "lo": 27,
    "hi": 27,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/022-al-hajj/tafsir-report-027.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/022-al-hajj/ayah-030.md",
    "surah": 22,
    "lo": 30,
    "hi": 30,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/022-al-hajj/tafsir-report-030.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/022-al-hajj/ayah-031.md",
    "surah": 22,
    "lo": 31,
    "hi": 31,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/022-al-hajj/tafsir-report-031.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/022-al-hajj/ayah-032.md",
    "surah": 22,
    "lo": 32,
    "hi": 32,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/022-al-hajj/tafsir-report-032.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/022-al-hajj/ayah-033.md",
    "surah": 22,
    "lo": 33,
    "hi": 33,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/022-al-hajj/tafsir-report-033.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/022-al-hajj/ayah-036.md",
    "surah": 22,
    "lo": 36,
    "hi": 36,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/022-al-hajj/tafsir-report-036.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/022-al-hajj/ayah-037.md",
    "surah": 22,
    "lo": 37,
    "hi": 37,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/022-al-hajj/tafsir-report-037.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/022-al-hajj/ayah-038.md",
    "surah": 22,
    "lo": 38,
    "hi": 38,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/022-al-hajj/tafsir-report-038.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/022-al-hajj/ayah-041.md",
    "surah": 22,
    "lo": 41,
    "hi": 41,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/022-al-hajj/tafsir-report-041.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/022-al-hajj/ayah-045.md",
    "surah": 22,
    "lo": 45,
    "hi": 45,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/022-al-hajj/tafsir-report-045.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/022-al-hajj/ayah-046.md",
@@ -8414,160 +8414,160 @@
    "surah": 22,
    "lo": 47,
    "hi": 47,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/022-al-hajj/tafsir-report-047.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/022-al-hajj/ayah-048.md",
    "surah": 22,
    "lo": 48,
    "hi": 48,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/022-al-hajj/tafsir-report-048.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/022-al-hajj/ayah-052.md",
    "surah": 22,
    "lo": 52,
    "hi": 52,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/022-al-hajj/tafsir-report-052.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/022-al-hajj/ayah-053.md",
    "surah": 22,
    "lo": 53,
    "hi": 53,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/022-al-hajj/tafsir-report-053.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/022-al-hajj/ayah-054.md",
    "surah": 22,
    "lo": 54,
    "hi": 54,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/022-al-hajj/tafsir-report-054.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/022-al-hajj/ayah-055.md",
    "surah": 22,
    "lo": 55,
    "hi": 55,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/022-al-hajj/tafsir-report-055.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/022-al-hajj/ayah-060.md",
    "surah": 22,
    "lo": 60,
    "hi": 60,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/022-al-hajj/tafsir-report-060.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/022-al-hajj/ayah-065.md",
    "surah": 22,
    "lo": 65,
    "hi": 65,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/022-al-hajj/tafsir-report-065.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/022-al-hajj/ayah-066.md",
    "surah": 22,
    "lo": 66,
    "hi": 66,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/022-al-hajj/tafsir-report-066.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/022-al-hajj/ayah-067.md",
    "surah": 22,
    "lo": 67,
    "hi": 67,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/022-al-hajj/tafsir-report-067.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/022-al-hajj/ayah-070.md",
    "surah": 22,
    "lo": 70,
    "hi": 70,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/022-al-hajj/tafsir-report-070.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/022-al-hajj/ayah-071.md",
    "surah": 22,
    "lo": 71,
    "hi": 71,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/022-al-hajj/tafsir-report-071.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/022-al-hajj/ayah-072.md",
    "surah": 22,
    "lo": 72,
    "hi": 72,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/022-al-hajj/tafsir-report-072.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/022-al-hajj/ayah-073.md",
    "surah": 22,
    "lo": 73,
    "hi": 73,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/022-al-hajj/tafsir-report-073.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/022-al-hajj/ayah-074.md",
    "surah": 22,
    "lo": 74,
    "hi": 74,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/022-al-hajj/tafsir-report-074.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/022-al-hajj/ayah-075.md",
    "surah": 22,
    "lo": 75,
    "hi": 75,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/022-al-hajj/tafsir-report-075.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/022-al-hajj/ayah-076.md",
    "surah": 22,
    "lo": 76,
    "hi": 76,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/022-al-hajj/tafsir-report-076.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/022-al-hajj/ayah-077.md",
    "surah": 22,
    "lo": 77,
    "hi": 77,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/022-al-hajj/tafsir-report-077.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/022-al-hajj/ayah-078.md",
    "surah": 22,
    "lo": 78,
    "hi": 78,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/022-al-hajj/tafsir-report-078.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/022-al-hajj/ayahs-001-002.md",
    "surah": 22,
    "lo": 1,
    "hi": 2,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/022-al-hajj/tafsir-report-001-002.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/022-al-hajj/ayahs-003-004.md",
@@ -8590,24 +8590,24 @@
    "surah": 22,
    "lo": 8,
    "hi": 9,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/022-al-hajj/tafsir-report-008-009.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/022-al-hajj/ayahs-012-013.md",
    "surah": 22,
    "lo": 12,
    "hi": 13,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/022-al-hajj/tafsir-report-012-013.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/022-al-hajj/ayahs-019-022.md",
    "surah": 22,
    "lo": 19,
    "hi": 22,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/022-al-hajj/tafsir-report-019-022.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/022-al-hajj/ayahs-023-024.md",
@@ -8622,24 +8622,24 @@
    "surah": 22,
    "lo": 28,
    "hi": 29,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/022-al-hajj/tafsir-report-028-029.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/022-al-hajj/ayahs-034-035.md",
    "surah": 22,
    "lo": 34,
    "hi": 35,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/022-al-hajj/tafsir-report-034-035.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/022-al-hajj/ayahs-039-040.md",
    "surah": 22,
    "lo": 39,
    "hi": 40,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/022-al-hajj/tafsir-report-039-040.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/022-al-hajj/ayahs-042-044.md",
@@ -8654,8 +8654,8 @@
    "surah": 22,
    "lo": 49,
    "hi": 51,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/022-al-hajj/tafsir-report-049-051.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/022-al-hajj/ayahs-056-057.md",
@@ -8670,8 +8670,8 @@
    "surah": 22,
    "lo": 58,
    "hi": 59,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/022-al-hajj/tafsir-report-058-059.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/022-al-hajj/ayahs-061-062.md",
@@ -8694,112 +8694,112 @@
    "surah": 22,
    "lo": 68,
    "hi": 69,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/022-al-hajj/tafsir-report-068-069.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/023-al-muminun/ayah-003.md",
    "surah": 23,
    "lo": 3,
    "hi": 3,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/023-al-muminun/tafsir-report-003.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/023-al-muminun/ayah-004.md",
    "surah": 23,
    "lo": 4,
    "hi": 4,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/023-al-muminun/tafsir-report-004.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/023-al-muminun/ayah-008.md",
    "surah": 23,
    "lo": 8,
    "hi": 8,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/023-al-muminun/tafsir-report-008.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/023-al-muminun/ayah-009.md",
    "surah": 23,
    "lo": 9,
    "hi": 9,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/023-al-muminun/tafsir-report-009.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/023-al-muminun/ayah-026.md",
    "surah": 23,
    "lo": 26,
    "hi": 26,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/023-al-muminun/tafsir-report-026.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/023-al-muminun/ayah-027.md",
    "surah": 23,
    "lo": 27,
    "hi": 27,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/023-al-muminun/tafsir-report-027.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/023-al-muminun/ayah-035.md",
    "surah": 23,
    "lo": 35,
    "hi": 35,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/023-al-muminun/tafsir-report-035.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/023-al-muminun/ayah-038.md",
    "surah": 23,
    "lo": 38,
    "hi": 38,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/023-al-muminun/tafsir-report-038.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/023-al-muminun/ayah-044.md",
    "surah": 23,
    "lo": 44,
    "hi": 44,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/023-al-muminun/tafsir-report-044.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/023-al-muminun/ayah-050.md",
    "surah": 23,
    "lo": 50,
    "hi": 50,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/023-al-muminun/tafsir-report-050.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/023-al-muminun/ayah-062.md",
    "surah": 23,
    "lo": 62,
    "hi": 62,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/023-al-muminun/tafsir-report-062.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/023-al-muminun/ayah-068.md",
    "surah": 23,
    "lo": 68,
    "hi": 68,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/023-al-muminun/tafsir-report-068.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/023-al-muminun/ayah-071.md",
    "surah": 23,
    "lo": 71,
    "hi": 71,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/023-al-muminun/tafsir-report-071.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/023-al-muminun/ayah-090.md",
@@ -8838,8 +8838,8 @@
    "surah": 23,
    "lo": 1,
    "hi": 2,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/023-al-muminun/tafsir-report-001-002.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/023-al-muminun/ayahs-005-007.md",
@@ -8854,8 +8854,8 @@
    "surah": 23,
    "lo": 10,
    "hi": 11,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/023-al-muminun/tafsir-report-010-011.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/023-al-muminun/ayahs-012-014.md",
@@ -8878,24 +8878,24 @@
    "surah": 23,
    "lo": 17,
    "hi": 18,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/023-al-muminun/tafsir-report-017-018.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/023-al-muminun/ayahs-019-020.md",
    "surah": 23,
    "lo": 19,
    "hi": 20,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/023-al-muminun/tafsir-report-019-020.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/023-al-muminun/ayahs-021-022.md",
    "surah": 23,
    "lo": 21,
    "hi": 22,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/023-al-muminun/tafsir-report-021-022.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/023-al-muminun/ayahs-023-025.md",
@@ -8950,16 +8950,16 @@
    "surah": 23,
    "lo": 42,
    "hi": 43,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/023-al-muminun/tafsir-report-042-043.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/023-al-muminun/ayahs-045-046.md",
    "surah": 23,
    "lo": 45,
    "hi": 46,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/023-al-muminun/tafsir-report-045-046.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/023-al-muminun/ayahs-047-049.md",
@@ -8974,8 +8974,8 @@
    "surah": 23,
    "lo": 51,
    "hi": 52,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/023-al-muminun/tafsir-report-051-052.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/023-al-muminun/ayahs-053-054.md",
@@ -9030,8 +9030,8 @@
    "surah": 23,
    "lo": 69,
    "hi": 70,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/023-al-muminun/tafsir-report-069-070.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/023-al-muminun/ayahs-072-074.md",
@@ -9046,8 +9046,8 @@
    "surah": 23,
    "lo": 75,
    "hi": 77,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/023-al-muminun/tafsir-report-075-077.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/023-al-muminun/ayahs-078-080.md",
@@ -9150,152 +9150,152 @@
    "surah": 24,
    "lo": 1,
    "hi": 1,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/024-an-nur/tafsir-report-001.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/024-an-nur/ayah-002.md",
    "surah": 24,
    "lo": 2,
    "hi": 2,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/024-an-nur/tafsir-report-002.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/024-an-nur/ayah-003.md",
    "surah": 24,
    "lo": 3,
    "hi": 3,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/024-an-nur/tafsir-report-003.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/024-an-nur/ayah-011.md",
    "surah": 24,
    "lo": 11,
    "hi": 11,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/024-an-nur/tafsir-report-011.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/024-an-nur/ayah-012.md",
    "surah": 24,
    "lo": 12,
    "hi": 12,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/024-an-nur/tafsir-report-012.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/024-an-nur/ayah-015.md",
    "surah": 24,
    "lo": 15,
    "hi": 15,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/024-an-nur/tafsir-report-015.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/024-an-nur/ayah-018.md",
    "surah": 24,
    "lo": 18,
    "hi": 18,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/024-an-nur/tafsir-report-018.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/024-an-nur/ayah-019.md",
    "surah": 24,
    "lo": 19,
    "hi": 19,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/024-an-nur/tafsir-report-019.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/024-an-nur/ayah-020.md",
    "surah": 24,
    "lo": 20,
    "hi": 20,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/024-an-nur/tafsir-report-020.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/024-an-nur/ayah-021.md",
    "surah": 24,
    "lo": 21,
    "hi": 21,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/024-an-nur/tafsir-report-021.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/024-an-nur/ayah-022.md",
    "surah": 24,
    "lo": 22,
    "hi": 22,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/024-an-nur/tafsir-report-022.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/024-an-nur/ayah-023.md",
    "surah": 24,
    "lo": 23,
    "hi": 23,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/024-an-nur/tafsir-report-023.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/024-an-nur/ayah-026.md",
    "surah": 24,
    "lo": 26,
    "hi": 26,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/024-an-nur/tafsir-report-026.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/024-an-nur/ayah-029.md",
    "surah": 24,
    "lo": 29,
    "hi": 29,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/024-an-nur/tafsir-report-029.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/024-an-nur/ayah-030.md",
    "surah": 24,
    "lo": 30,
    "hi": 30,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/024-an-nur/tafsir-report-030.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/024-an-nur/ayah-031.md",
    "surah": 24,
    "lo": 31,
    "hi": 31,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/024-an-nur/tafsir-report-031.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/024-an-nur/ayah-032.md",
    "surah": 24,
    "lo": 32,
    "hi": 32,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/024-an-nur/tafsir-report-032.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/024-an-nur/ayah-033.md",
    "surah": 24,
    "lo": 33,
    "hi": 33,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/024-an-nur/tafsir-report-033.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/024-an-nur/ayah-034.md",
    "surah": 24,
    "lo": 34,
    "hi": 34,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/024-an-nur/tafsir-report-034.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/024-an-nur/ayah-035.md",
@@ -9310,200 +9310,200 @@
    "surah": 24,
    "lo": 41,
    "hi": 41,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/024-an-nur/tafsir-report-041.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/024-an-nur/ayah-042.md",
    "surah": 24,
    "lo": 42,
    "hi": 42,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/024-an-nur/tafsir-report-042.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/024-an-nur/ayah-043.md",
    "surah": 24,
    "lo": 43,
    "hi": 43,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/024-an-nur/tafsir-report-043.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/024-an-nur/ayah-044.md",
    "surah": 24,
    "lo": 44,
    "hi": 44,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/024-an-nur/tafsir-report-044.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/024-an-nur/ayah-045.md",
    "surah": 24,
    "lo": 45,
    "hi": 45,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/024-an-nur/tafsir-report-045.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/024-an-nur/ayah-046.md",
    "surah": 24,
    "lo": 46,
    "hi": 46,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/024-an-nur/tafsir-report-046.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/024-an-nur/ayah-047.md",
    "surah": 24,
    "lo": 47,
    "hi": 47,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/024-an-nur/tafsir-report-047.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/024-an-nur/ayah-053.md",
    "surah": 24,
    "lo": 53,
    "hi": 53,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/024-an-nur/tafsir-report-053.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/024-an-nur/ayah-054.md",
    "surah": 24,
    "lo": 54,
    "hi": 54,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/024-an-nur/tafsir-report-054.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/024-an-nur/ayah-055.md",
    "surah": 24,
    "lo": 55,
    "hi": 55,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/024-an-nur/tafsir-report-055.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/024-an-nur/ayah-056.md",
    "surah": 24,
    "lo": 56,
    "hi": 56,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/024-an-nur/tafsir-report-056.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/024-an-nur/ayah-057.md",
    "surah": 24,
    "lo": 57,
    "hi": 57,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/024-an-nur/tafsir-report-057.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/024-an-nur/ayah-058.md",
    "surah": 24,
    "lo": 58,
    "hi": 58,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/024-an-nur/tafsir-report-058.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/024-an-nur/ayah-059.md",
    "surah": 24,
    "lo": 59,
    "hi": 59,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/024-an-nur/tafsir-report-059.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/024-an-nur/ayah-060.md",
    "surah": 24,
    "lo": 60,
    "hi": 60,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/024-an-nur/tafsir-report-060.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/024-an-nur/ayah-061.md",
    "surah": 24,
    "lo": 61,
    "hi": 61,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/024-an-nur/tafsir-report-061.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/024-an-nur/ayah-062.md",
    "surah": 24,
    "lo": 62,
    "hi": 62,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/024-an-nur/tafsir-report-062.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/024-an-nur/ayah-063.md",
    "surah": 24,
    "lo": 63,
    "hi": 63,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/024-an-nur/tafsir-report-063.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/024-an-nur/ayah-064.md",
    "surah": 24,
    "lo": 64,
    "hi": 64,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/024-an-nur/tafsir-report-064.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/024-an-nur/ayahs-004-005.md",
    "surah": 24,
    "lo": 4,
    "hi": 5,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/024-an-nur/tafsir-report-004-005.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/024-an-nur/ayahs-006-010.md",
    "surah": 24,
    "lo": 6,
    "hi": 10,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/024-an-nur/tafsir-report-006-010.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/024-an-nur/ayahs-013-014.md",
    "surah": 24,
    "lo": 13,
    "hi": 14,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/024-an-nur/tafsir-report-013-014.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/024-an-nur/ayahs-016-017.md",
    "surah": 24,
    "lo": 16,
    "hi": 17,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/024-an-nur/tafsir-report-016-017.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/024-an-nur/ayahs-024-025.md",
    "surah": 24,
    "lo": 24,
    "hi": 25,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/024-an-nur/tafsir-report-024-025.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/024-an-nur/ayahs-027-028.md",
    "surah": 24,
    "lo": 27,
    "hi": 28,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/024-an-nur/tafsir-report-027-028.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/024-an-nur/ayahs-036-038.md",
@@ -9518,16 +9518,16 @@
    "surah": 24,
    "lo": 39,
    "hi": 40,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/024-an-nur/tafsir-report-039-040.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/024-an-nur/ayahs-048-050.md",
    "surah": 24,
    "lo": 48,
    "hi": 50,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/024-an-nur/tafsir-report-048-050.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/024-an-nur/ayahs-051-052.md",
@@ -9542,248 +9542,248 @@
    "surah": 25,
    "lo": 1,
    "hi": 1,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/025-al-furqan/tafsir-report-001.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/025-al-furqan/ayah-002.md",
    "surah": 25,
    "lo": 2,
    "hi": 2,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/025-al-furqan/tafsir-report-002.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/025-al-furqan/ayah-003.md",
    "surah": 25,
    "lo": 3,
    "hi": 3,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/025-al-furqan/tafsir-report-003.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/025-al-furqan/ayah-009.md",
    "surah": 25,
    "lo": 9,
    "hi": 9,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/025-al-furqan/tafsir-report-009.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/025-al-furqan/ayah-010.md",
    "surah": 25,
    "lo": 10,
    "hi": 10,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/025-al-furqan/tafsir-report-010.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/025-al-furqan/ayah-011.md",
    "surah": 25,
    "lo": 11,
    "hi": 11,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/025-al-furqan/tafsir-report-011.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/025-al-furqan/ayah-015.md",
    "surah": 25,
    "lo": 15,
    "hi": 15,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/025-al-furqan/tafsir-report-015.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/025-al-furqan/ayah-016.md",
    "surah": 25,
    "lo": 16,
    "hi": 16,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/025-al-furqan/tafsir-report-016.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/025-al-furqan/ayah-020.md",
    "surah": 25,
    "lo": 20,
    "hi": 20,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/025-al-furqan/tafsir-report-020.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/025-al-furqan/ayah-023.md",
    "surah": 25,
    "lo": 23,
    "hi": 23,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/025-al-furqan/tafsir-report-023.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/025-al-furqan/ayah-024.md",
    "surah": 25,
    "lo": 24,
    "hi": 24,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/025-al-furqan/tafsir-report-024.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/025-al-furqan/ayah-030.md",
    "surah": 25,
    "lo": 30,
    "hi": 30,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/025-al-furqan/tafsir-report-030.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/025-al-furqan/ayah-031.md",
    "surah": 25,
    "lo": 31,
    "hi": 31,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/025-al-furqan/tafsir-report-031.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/025-al-furqan/ayah-032.md",
    "surah": 25,
    "lo": 32,
    "hi": 32,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/025-al-furqan/tafsir-report-032.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/025-al-furqan/ayah-033.md",
    "surah": 25,
    "lo": 33,
    "hi": 33,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/025-al-furqan/tafsir-report-033.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/025-al-furqan/ayah-034.md",
    "surah": 25,
    "lo": 34,
    "hi": 34,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/025-al-furqan/tafsir-report-034.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/025-al-furqan/ayah-037.md",
    "surah": 25,
    "lo": 37,
    "hi": 37,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/025-al-furqan/tafsir-report-037.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/025-al-furqan/ayah-040.md",
    "surah": 25,
    "lo": 40,
    "hi": 40,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/025-al-furqan/tafsir-report-040.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/025-al-furqan/ayah-048.md",
    "surah": 25,
    "lo": 48,
    "hi": 48,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/025-al-furqan/tafsir-report-048.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/025-al-furqan/ayah-051.md",
    "surah": 25,
    "lo": 51,
    "hi": 51,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/025-al-furqan/tafsir-report-051.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/025-al-furqan/ayah-052.md",
    "surah": 25,
    "lo": 52,
    "hi": 52,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/025-al-furqan/tafsir-report-052.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/025-al-furqan/ayah-053.md",
    "surah": 25,
    "lo": 53,
    "hi": 53,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/025-al-furqan/tafsir-report-053.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/025-al-furqan/ayah-054.md",
    "surah": 25,
    "lo": 54,
    "hi": 54,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/025-al-furqan/tafsir-report-054.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/025-al-furqan/ayah-055.md",
    "surah": 25,
    "lo": 55,
    "hi": 55,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/025-al-furqan/tafsir-report-055.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/025-al-furqan/ayah-056.md",
    "surah": 25,
    "lo": 56,
    "hi": 56,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/025-al-furqan/tafsir-report-056.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/025-al-furqan/ayah-057.md",
    "surah": 25,
    "lo": 57,
    "hi": 57,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/025-al-furqan/tafsir-report-057.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/025-al-furqan/ayah-058.md",
    "surah": 25,
    "lo": 58,
    "hi": 58,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/025-al-furqan/tafsir-report-058.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/025-al-furqan/ayah-059.md",
    "surah": 25,
    "lo": 59,
    "hi": 59,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/025-al-furqan/tafsir-report-059.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/025-al-furqan/ayah-060.md",
    "surah": 25,
    "lo": 60,
    "hi": 60,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/025-al-furqan/tafsir-report-060.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/025-al-furqan/ayah-061.md",
    "surah": 25,
    "lo": 61,
    "hi": 61,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/025-al-furqan/tafsir-report-061.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/025-al-furqan/ayah-062.md",
    "surah": 25,
    "lo": 62,
    "hi": 62,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/025-al-furqan/tafsir-report-062.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/025-al-furqan/ayah-070.md",
@@ -9806,8 +9806,8 @@
    "surah": 25,
    "lo": 7,
    "hi": 8,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/025-al-furqan/tafsir-report-007-008.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/025-al-furqan/ayahs-012-014.md",
@@ -9830,16 +9830,16 @@
    "surah": 25,
    "lo": 21,
    "hi": 22,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/025-al-furqan/tafsir-report-021-022.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/025-al-furqan/ayahs-025-026.md",
    "surah": 25,
    "lo": 25,
    "hi": 26,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/025-al-furqan/tafsir-report-025-026.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/025-al-furqan/ayahs-027-029.md",
@@ -9854,24 +9854,24 @@
    "surah": 25,
    "lo": 35,
    "hi": 36,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/025-al-furqan/tafsir-report-035-036.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/025-al-furqan/ayahs-038-039.md",
    "surah": 25,
    "lo": 38,
    "hi": 39,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/025-al-furqan/tafsir-report-038-039.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/025-al-furqan/ayahs-041-042.md",
    "surah": 25,
    "lo": 41,
    "hi": 42,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/025-al-furqan/tafsir-report-041-042.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/025-al-furqan/ayahs-043-044.md",
@@ -9894,8 +9894,8 @@
    "surah": 25,
    "lo": 49,
    "hi": 50,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/025-al-furqan/tafsir-report-049-050.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/025-al-furqan/ayahs-063-067.md",
@@ -9934,72 +9934,72 @@
    "surah": 26,
    "lo": 3,
    "hi": 3,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/026-ash-shuara/tafsir-report-003.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/026-ash-shuara/ayah-004.md",
    "surah": 26,
    "lo": 4,
    "hi": 4,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/026-ash-shuara/tafsir-report-004.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/026-ash-shuara/ayah-036.md",
    "surah": 26,
    "lo": 36,
    "hi": 36,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/026-ash-shuara/tafsir-report-036.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/026-ash-shuara/ayah-061.md",
    "surah": 26,
    "lo": 61,
    "hi": 61,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/026-ash-shuara/tafsir-report-061.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/026-ash-shuara/ayah-062.md",
    "surah": 26,
    "lo": 62,
    "hi": 62,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/026-ash-shuara/tafsir-report-062.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/026-ash-shuara/ayah-063.md",
    "surah": 26,
    "lo": 63,
    "hi": 63,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/026-ash-shuara/tafsir-report-063.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/026-ash-shuara/ayah-077.md",
    "surah": 26,
    "lo": 77,
    "hi": 77,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/026-ash-shuara/tafsir-report-077.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/026-ash-shuara/ayah-087.md",
    "surah": 26,
    "lo": 87,
    "hi": 87,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/026-ash-shuara/tafsir-report-087.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/026-ash-shuara/ayah-131.md",
    "surah": 26,
    "lo": 131,
    "hi": 131,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/026-ash-shuara/tafsir-report-131.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/026-ash-shuara/ayah-159.md",
@@ -10038,8 +10038,8 @@
    "surah": 26,
    "lo": 1,
    "hi": 2,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/026-ash-shuara/tafsir-report-001-002.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/026-ash-shuara/ayahs-005-009.md",
@@ -10086,8 +10086,8 @@
    "surah": 26,
    "lo": 36,
    "hi": 39,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/026-ash-shuara/tafsir-report-036.md",
+   "bucket": "PARTIAL"
   },
   {
    "file": "content/tadabbur/026-ash-shuara/ayahs-040-045.md",
@@ -10110,8 +10110,8 @@
    "surah": 26,
    "lo": 49,
    "hi": 51,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/026-ash-shuara/tafsir-report-049-051.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/026-ash-shuara/ayahs-052-060.md",
@@ -10414,392 +10414,392 @@
    "surah": 27,
    "lo": 1,
    "hi": 1,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-001.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-002.md",
    "surah": 27,
    "lo": 2,
    "hi": 2,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-002.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-003.md",
    "surah": 27,
    "lo": 3,
    "hi": 3,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-003.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-004.md",
    "surah": 27,
    "lo": 4,
    "hi": 4,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-004.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-005.md",
    "surah": 27,
    "lo": 5,
    "hi": 5,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-005.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-006.md",
    "surah": 27,
    "lo": 6,
    "hi": 6,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-006.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-007.md",
    "surah": 27,
    "lo": 7,
    "hi": 7,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-007.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-008.md",
    "surah": 27,
    "lo": 8,
    "hi": 8,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-008.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-009.md",
    "surah": 27,
    "lo": 9,
    "hi": 9,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-009.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-014.md",
    "surah": 27,
    "lo": 14,
    "hi": 14,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-014.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-015.md",
    "surah": 27,
    "lo": 15,
    "hi": 15,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-015.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-016.md",
    "surah": 27,
    "lo": 16,
    "hi": 16,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-016.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-017.md",
    "surah": 27,
    "lo": 17,
    "hi": 17,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-017.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-018.md",
    "surah": 27,
    "lo": 18,
    "hi": 18,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-018.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-019.md",
    "surah": 27,
    "lo": 19,
    "hi": 19,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-019.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-020.md",
    "surah": 27,
    "lo": 20,
    "hi": 20,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-020.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-021.md",
    "surah": 27,
    "lo": 21,
    "hi": 21,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-021.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-022.md",
    "surah": 27,
    "lo": 22,
    "hi": 22,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-022.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-023.md",
    "surah": 27,
    "lo": 23,
    "hi": 23,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-023.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-024.md",
    "surah": 27,
    "lo": 24,
    "hi": 24,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-024.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-025.md",
    "surah": 27,
    "lo": 25,
    "hi": 25,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-025.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-026.md",
    "surah": 27,
    "lo": 26,
    "hi": 26,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-026.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-027.md",
    "surah": 27,
    "lo": 27,
    "hi": 27,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-027.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-028.md",
    "surah": 27,
    "lo": 28,
    "hi": 28,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-028.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-029.md",
    "surah": 27,
    "lo": 29,
    "hi": 29,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-029.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-030.md",
    "surah": 27,
    "lo": 30,
    "hi": 30,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-030.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-031.md",
    "surah": 27,
    "lo": 31,
    "hi": 31,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-031.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-034.md",
    "surah": 27,
    "lo": 34,
    "hi": 34,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-034.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-035.md",
    "surah": 27,
    "lo": 35,
    "hi": 35,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-035.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-036.md",
    "surah": 27,
    "lo": 36,
    "hi": 36,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-036.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-037.md",
    "surah": 27,
    "lo": 37,
    "hi": 37,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-037.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-038.md",
    "surah": 27,
    "lo": 38,
    "hi": 38,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-038.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-039.md",
    "surah": 27,
    "lo": 39,
    "hi": 39,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-039.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-040.md",
    "surah": 27,
    "lo": 40,
    "hi": 40,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-040.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-041.md",
    "surah": 27,
    "lo": 41,
    "hi": 41,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-041.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-044.md",
    "surah": 27,
    "lo": 44,
    "hi": 44,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-044.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-045.md",
    "surah": 27,
    "lo": 45,
    "hi": 45,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-045.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-046.md",
    "surah": 27,
    "lo": 46,
    "hi": 46,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-046.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-047.md",
    "surah": 27,
    "lo": 47,
    "hi": 47,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-047.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-052.md",
    "surah": 27,
    "lo": 52,
    "hi": 52,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-052.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-053.md",
    "surah": 27,
    "lo": 53,
    "hi": 53,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-053.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-054.md",
    "surah": 27,
    "lo": 54,
    "hi": 54,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-054.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-055.md",
    "surah": 27,
    "lo": 55,
    "hi": 55,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-055.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-056.md",
    "surah": 27,
    "lo": 56,
    "hi": 56,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-056.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-057.md",
    "surah": 27,
    "lo": 57,
    "hi": 57,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-057.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-058.md",
    "surah": 27,
    "lo": 58,
    "hi": 58,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-058.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-059.md",
    "surah": 27,
    "lo": 59,
    "hi": 59,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-059.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-060.md",
    "surah": 27,
    "lo": 60,
    "hi": 60,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-060.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-061.md",
    "surah": 27,
    "lo": 61,
    "hi": 61,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-061.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-062.md",
@@ -10814,32 +10814,32 @@
    "surah": 27,
    "lo": 63,
    "hi": 63,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-063.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-064.md",
    "surah": 27,
    "lo": 64,
    "hi": 64,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-064.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-065.md",
    "surah": 27,
    "lo": 65,
    "hi": 65,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-065.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-066.md",
    "surah": 27,
    "lo": 66,
    "hi": 66,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-066.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-069.md",
@@ -10862,144 +10862,144 @@
    "surah": 27,
    "lo": 71,
    "hi": 71,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-071.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-072.md",
    "surah": 27,
    "lo": 72,
    "hi": 72,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-072.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-073.md",
    "surah": 27,
    "lo": 73,
    "hi": 73,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-073.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-074.md",
    "surah": 27,
    "lo": 74,
    "hi": 74,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-074.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-075.md",
    "surah": 27,
    "lo": 75,
    "hi": 75,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-075.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-076.md",
    "surah": 27,
    "lo": 76,
    "hi": 76,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-076.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-077.md",
    "surah": 27,
    "lo": 77,
    "hi": 77,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-077.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-078.md",
    "surah": 27,
    "lo": 78,
    "hi": 78,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-078.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-079.md",
    "surah": 27,
    "lo": 79,
    "hi": 79,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-079.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-080.md",
    "surah": 27,
    "lo": 80,
    "hi": 80,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-080.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-081.md",
    "surah": 27,
    "lo": 81,
    "hi": 81,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-081.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-082.md",
    "surah": 27,
    "lo": 82,
    "hi": 82,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-082.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-083.md",
    "surah": 27,
    "lo": 83,
    "hi": 83,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-083.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-084.md",
    "surah": 27,
    "lo": 84,
    "hi": 84,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-084.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-085.md",
    "surah": 27,
    "lo": 85,
    "hi": 85,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-085.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-086.md",
    "surah": 27,
    "lo": 86,
    "hi": 86,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-086.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-087.md",
    "surah": 27,
    "lo": 87,
    "hi": 87,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-087.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayah-088.md",
    "surah": 27,
    "lo": 88,
    "hi": 88,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-088.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayahs-010-011.md",
@@ -11014,40 +11014,40 @@
    "surah": 27,
    "lo": 12,
    "hi": 13,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-012-013.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayahs-032-033.md",
    "surah": 27,
    "lo": 32,
    "hi": 33,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-032-033.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayahs-042-043.md",
    "surah": 27,
    "lo": 42,
    "hi": 43,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-042-043.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayahs-048-049.md",
    "surah": 27,
    "lo": 48,
    "hi": 49,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-048-049.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayahs-050-051.md",
    "surah": 27,
    "lo": 50,
    "hi": 51,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/027-an-naml/tafsir-report-050-051.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/027-an-naml/ayahs-067-068.md",
@@ -11078,48 +11078,48 @@
    "surah": 28,
    "lo": 1,
    "hi": 1,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/028-al-qasas/tafsir-report-001.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/028-al-qasas/ayah-002.md",
    "surah": 28,
    "lo": 2,
    "hi": 2,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/028-al-qasas/tafsir-report-002.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/028-al-qasas/ayah-003.md",
    "surah": 28,
    "lo": 3,
    "hi": 3,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/028-al-qasas/tafsir-report-003.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/028-al-qasas/ayah-004.md",
    "surah": 28,
    "lo": 4,
    "hi": 4,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/028-al-qasas/tafsir-report-004.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/028-al-qasas/ayah-005.md",
    "surah": 28,
    "lo": 5,
    "hi": 5,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/028-al-qasas/tafsir-report-005.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/028-al-qasas/ayah-006.md",
    "surah": 28,
    "lo": 6,
    "hi": 6,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/028-al-qasas/tafsir-report-006.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/028-al-qasas/ayah-007.md",
@@ -11134,40 +11134,40 @@
    "surah": 28,
    "lo": 10,
    "hi": 10,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/028-al-qasas/tafsir-report-010.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/028-al-qasas/ayah-011.md",
    "surah": 28,
    "lo": 11,
    "hi": 11,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/028-al-qasas/tafsir-report-011.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/028-al-qasas/ayah-012.md",
    "surah": 28,
    "lo": 12,
    "hi": 12,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/028-al-qasas/tafsir-report-012.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/028-al-qasas/ayah-013.md",
    "surah": 28,
    "lo": 13,
    "hi": 13,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/028-al-qasas/tafsir-report-013.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/028-al-qasas/ayah-014.md",
    "surah": 28,
    "lo": 14,
    "hi": 14,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/028-al-qasas/tafsir-report-014.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/028-al-qasas/ayah-015.md",
@@ -11190,48 +11190,48 @@
    "surah": 28,
    "lo": 17,
    "hi": 17,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/028-al-qasas/tafsir-report-017.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/028-al-qasas/ayah-018.md",
    "surah": 28,
    "lo": 18,
    "hi": 18,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/028-al-qasas/tafsir-report-018.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/028-al-qasas/ayah-019.md",
    "surah": 28,
    "lo": 19,
    "hi": 19,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/028-al-qasas/tafsir-report-019.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/028-al-qasas/ayah-020.md",
    "surah": 28,
    "lo": 20,
    "hi": 20,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/028-al-qasas/tafsir-report-020.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/028-al-qasas/ayah-021.md",
    "surah": 28,
    "lo": 21,
    "hi": 21,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/028-al-qasas/tafsir-report-021.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/028-al-qasas/ayah-022.md",
    "surah": 28,
    "lo": 22,
    "hi": 22,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/028-al-qasas/tafsir-report-022.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/028-al-qasas/ayah-024.md",
@@ -11262,32 +11262,32 @@
    "surah": 28,
    "lo": 29,
    "hi": 29,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/028-al-qasas/tafsir-report-029.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/028-al-qasas/ayah-030.md",
    "surah": 28,
    "lo": 30,
    "hi": 30,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/028-al-qasas/tafsir-report-030.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/028-al-qasas/ayah-031.md",
    "surah": 28,
    "lo": 31,
    "hi": 31,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/028-al-qasas/tafsir-report-031.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/028-al-qasas/ayah-032.md",
    "surah": 28,
    "lo": 32,
    "hi": 32,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/028-al-qasas/tafsir-report-032.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/028-al-qasas/ayah-033.md",
@@ -11302,216 +11302,216 @@
    "surah": 28,
    "lo": 34,
    "hi": 34,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/028-al-qasas/tafsir-report-034.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/028-al-qasas/ayah-035.md",
    "surah": 28,
    "lo": 35,
    "hi": 35,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/028-al-qasas/tafsir-report-035.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/028-al-qasas/ayah-036.md",
    "surah": 28,
    "lo": 36,
    "hi": 36,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/028-al-qasas/tafsir-report-036.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/028-al-qasas/ayah-037.md",
    "surah": 28,
    "lo": 37,
    "hi": 37,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/028-al-qasas/tafsir-report-037.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/028-al-qasas/ayah-038.md",
    "surah": 28,
    "lo": 38,
    "hi": 38,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/028-al-qasas/tafsir-report-038.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/028-al-qasas/ayah-041.md",
    "surah": 28,
    "lo": 41,
    "hi": 41,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/028-al-qasas/tafsir-report-041.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/028-al-qasas/ayah-042.md",
    "surah": 28,
    "lo": 42,
    "hi": 42,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/028-al-qasas/tafsir-report-042.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/028-al-qasas/ayah-043.md",
    "surah": 28,
    "lo": 43,
    "hi": 43,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/028-al-qasas/tafsir-report-043.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/028-al-qasas/ayah-044.md",
    "surah": 28,
    "lo": 44,
    "hi": 44,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/028-al-qasas/tafsir-report-044.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/028-al-qasas/ayah-045.md",
    "surah": 28,
    "lo": 45,
    "hi": 45,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/028-al-qasas/tafsir-report-045.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/028-al-qasas/ayah-046.md",
    "surah": 28,
    "lo": 46,
    "hi": 46,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/028-al-qasas/tafsir-report-046.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/028-al-qasas/ayah-047.md",
    "surah": 28,
    "lo": 47,
    "hi": 47,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/028-al-qasas/tafsir-report-047.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/028-al-qasas/ayah-048.md",
    "surah": 28,
    "lo": 48,
    "hi": 48,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/028-al-qasas/tafsir-report-048.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/028-al-qasas/ayah-049.md",
    "surah": 28,
    "lo": 49,
    "hi": 49,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/028-al-qasas/tafsir-report-049.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/028-al-qasas/ayah-050.md",
    "surah": 28,
    "lo": 50,
    "hi": 50,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/028-al-qasas/tafsir-report-050.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/028-al-qasas/ayah-054.md",
    "surah": 28,
    "lo": 54,
    "hi": 54,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/028-al-qasas/tafsir-report-054.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/028-al-qasas/ayah-055.md",
    "surah": 28,
    "lo": 55,
    "hi": 55,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/028-al-qasas/tafsir-report-055.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/028-al-qasas/ayah-056.md",
    "surah": 28,
    "lo": 56,
    "hi": 56,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/028-al-qasas/tafsir-report-056.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/028-al-qasas/ayah-057.md",
    "surah": 28,
    "lo": 57,
    "hi": 57,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/028-al-qasas/tafsir-report-057.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/028-al-qasas/ayah-058.md",
    "surah": 28,
    "lo": 58,
    "hi": 58,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/028-al-qasas/tafsir-report-058.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/028-al-qasas/ayah-059.md",
    "surah": 28,
    "lo": 59,
    "hi": 59,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/028-al-qasas/tafsir-report-059.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/028-al-qasas/ayah-060.md",
    "surah": 28,
    "lo": 60,
    "hi": 60,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/028-al-qasas/tafsir-report-060.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/028-al-qasas/ayah-061.md",
    "surah": 28,
    "lo": 61,
    "hi": 61,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/028-al-qasas/tafsir-report-061.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/028-al-qasas/ayah-064.md",
    "surah": 28,
    "lo": 64,
    "hi": 64,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/028-al-qasas/tafsir-report-064.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/028-al-qasas/ayah-067.md",
    "surah": 28,
    "lo": 67,
    "hi": 67,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/028-al-qasas/tafsir-report-067.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/028-al-qasas/ayah-068.md",
    "surah": 28,
    "lo": 68,
    "hi": 68,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/028-al-qasas/tafsir-report-068.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/028-al-qasas/ayah-069.md",
    "surah": 28,
    "lo": 69,
    "hi": 69,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/028-al-qasas/tafsir-report-069.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/028-al-qasas/ayah-070.md",
@@ -11526,8 +11526,8 @@
    "surah": 28,
    "lo": 71,
    "hi": 71,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/028-al-qasas/tafsir-report-071.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/028-al-qasas/ayah-074.md",
@@ -11550,16 +11550,16 @@
    "surah": 28,
    "lo": 76,
    "hi": 76,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/028-al-qasas/tafsir-report-076.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/028-al-qasas/ayah-077.md",
    "surah": 28,
    "lo": 77,
    "hi": 77,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/028-al-qasas/tafsir-report-077.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/028-al-qasas/ayah-078.md",
@@ -11606,56 +11606,56 @@
    "surah": 28,
    "lo": 83,
    "hi": 83,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/028-al-qasas/tafsir-report-083.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/028-al-qasas/ayah-084.md",
    "surah": 28,
    "lo": 84,
    "hi": 84,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/028-al-qasas/tafsir-report-084.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/028-al-qasas/ayah-085.md",
    "surah": 28,
    "lo": 85,
    "hi": 85,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/028-al-qasas/tafsir-report-085.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/028-al-qasas/ayah-086.md",
    "surah": 28,
    "lo": 86,
    "hi": 86,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/028-al-qasas/tafsir-report-086.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/028-al-qasas/ayah-087.md",
    "surah": 28,
    "lo": 87,
    "hi": 87,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/028-al-qasas/tafsir-report-087.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/028-al-qasas/ayah-088.md",
    "surah": 28,
    "lo": 88,
    "hi": 88,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/028-al-qasas/tafsir-report-088.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/028-al-qasas/ayahs-008-009.md",
    "surah": 28,
    "lo": 8,
    "hi": 9,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/028-al-qasas/tafsir-report-008-009.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/028-al-qasas/ayahs-023-028.md",
@@ -11670,16 +11670,16 @@
    "surah": 28,
    "lo": 39,
    "hi": 40,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/028-al-qasas/tafsir-report-039-040.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/028-al-qasas/ayahs-051-053.md",
    "surah": 28,
    "lo": 51,
    "hi": 53,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/028-al-qasas/tafsir-report-051-053.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/028-al-qasas/ayahs-062-063.md",
@@ -11710,96 +11710,96 @@
    "surah": 29,
    "lo": 1,
    "hi": 1,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/029-al-ankabut/tafsir-report-001.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/029-al-ankabut/ayah-004.md",
    "surah": 29,
    "lo": 4,
    "hi": 4,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/029-al-ankabut/tafsir-report-004.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/029-al-ankabut/ayah-005.md",
    "surah": 29,
    "lo": 5,
    "hi": 5,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/029-al-ankabut/tafsir-report-005.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/029-al-ankabut/ayah-006.md",
    "surah": 29,
    "lo": 6,
    "hi": 6,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/029-al-ankabut/tafsir-report-006.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/029-al-ankabut/ayah-007.md",
    "surah": 29,
    "lo": 7,
    "hi": 7,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/029-al-ankabut/tafsir-report-007.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/029-al-ankabut/ayah-008.md",
    "surah": 29,
    "lo": 8,
    "hi": 8,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/029-al-ankabut/tafsir-report-008.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/029-al-ankabut/ayah-009.md",
    "surah": 29,
    "lo": 9,
    "hi": 9,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/029-al-ankabut/tafsir-report-009.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/029-al-ankabut/ayah-010.md",
    "surah": 29,
    "lo": 10,
    "hi": 10,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/029-al-ankabut/tafsir-report-010.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/029-al-ankabut/ayah-011.md",
    "surah": 29,
    "lo": 11,
    "hi": 11,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/029-al-ankabut/tafsir-report-011.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/029-al-ankabut/ayah-012.md",
    "surah": 29,
    "lo": 12,
    "hi": 12,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/029-al-ankabut/tafsir-report-012.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/029-al-ankabut/ayah-013.md",
    "surah": 29,
    "lo": 13,
    "hi": 13,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/029-al-ankabut/tafsir-report-013.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/029-al-ankabut/ayah-014.md",
    "surah": 29,
    "lo": 14,
    "hi": 14,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/029-al-ankabut/tafsir-report-014.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/029-al-ankabut/ayah-015.md",
@@ -11814,376 +11814,376 @@
    "surah": 29,
    "lo": 16,
    "hi": 16,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/029-al-ankabut/tafsir-report-016.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/029-al-ankabut/ayah-017.md",
    "surah": 29,
    "lo": 17,
    "hi": 17,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/029-al-ankabut/tafsir-report-017.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/029-al-ankabut/ayah-018.md",
    "surah": 29,
    "lo": 18,
    "hi": 18,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/029-al-ankabut/tafsir-report-018.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/029-al-ankabut/ayah-021.md",
    "surah": 29,
    "lo": 21,
    "hi": 21,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/029-al-ankabut/tafsir-report-021.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/029-al-ankabut/ayah-022.md",
    "surah": 29,
    "lo": 22,
    "hi": 22,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/029-al-ankabut/tafsir-report-022.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/029-al-ankabut/ayah-023.md",
    "surah": 29,
    "lo": 23,
    "hi": 23,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/029-al-ankabut/tafsir-report-023.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/029-al-ankabut/ayah-024.md",
    "surah": 29,
    "lo": 24,
    "hi": 24,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/029-al-ankabut/tafsir-report-024.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/029-al-ankabut/ayah-025.md",
    "surah": 29,
    "lo": 25,
    "hi": 25,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/029-al-ankabut/tafsir-report-025.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/029-al-ankabut/ayah-026.md",
    "surah": 29,
    "lo": 26,
    "hi": 26,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/029-al-ankabut/tafsir-report-026.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/029-al-ankabut/ayah-027.md",
    "surah": 29,
    "lo": 27,
    "hi": 27,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/029-al-ankabut/tafsir-report-027.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/029-al-ankabut/ayah-028.md",
    "surah": 29,
    "lo": 28,
    "hi": 28,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/029-al-ankabut/tafsir-report-028.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/029-al-ankabut/ayah-029.md",
    "surah": 29,
    "lo": 29,
    "hi": 29,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/029-al-ankabut/tafsir-report-029.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/029-al-ankabut/ayah-030.md",
    "surah": 29,
    "lo": 30,
    "hi": 30,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/029-al-ankabut/tafsir-report-030.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/029-al-ankabut/ayah-031.md",
    "surah": 29,
    "lo": 31,
    "hi": 31,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/029-al-ankabut/tafsir-report-031.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/029-al-ankabut/ayah-032.md",
    "surah": 29,
    "lo": 32,
    "hi": 32,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/029-al-ankabut/tafsir-report-032.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/029-al-ankabut/ayah-033.md",
    "surah": 29,
    "lo": 33,
    "hi": 33,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/029-al-ankabut/tafsir-report-033.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/029-al-ankabut/ayah-034.md",
    "surah": 29,
    "lo": 34,
    "hi": 34,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/029-al-ankabut/tafsir-report-034.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/029-al-ankabut/ayah-035.md",
    "surah": 29,
    "lo": 35,
    "hi": 35,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/029-al-ankabut/tafsir-report-035.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/029-al-ankabut/ayah-036.md",
    "surah": 29,
    "lo": 36,
    "hi": 36,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/029-al-ankabut/tafsir-report-036.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/029-al-ankabut/ayah-037.md",
    "surah": 29,
    "lo": 37,
    "hi": 37,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/029-al-ankabut/tafsir-report-037.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/029-al-ankabut/ayah-038.md",
    "surah": 29,
    "lo": 38,
    "hi": 38,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/029-al-ankabut/tafsir-report-038.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/029-al-ankabut/ayah-039.md",
    "surah": 29,
    "lo": 39,
    "hi": 39,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/029-al-ankabut/tafsir-report-039.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/029-al-ankabut/ayah-040.md",
    "surah": 29,
    "lo": 40,
    "hi": 40,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/029-al-ankabut/tafsir-report-040.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/029-al-ankabut/ayah-041.md",
    "surah": 29,
    "lo": 41,
    "hi": 41,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/029-al-ankabut/tafsir-report-041.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/029-al-ankabut/ayah-042.md",
    "surah": 29,
    "lo": 42,
    "hi": 42,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/029-al-ankabut/tafsir-report-042.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/029-al-ankabut/ayah-043.md",
    "surah": 29,
    "lo": 43,
    "hi": 43,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/029-al-ankabut/tafsir-report-043.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/029-al-ankabut/ayah-044.md",
    "surah": 29,
    "lo": 44,
    "hi": 44,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/029-al-ankabut/tafsir-report-044.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/029-al-ankabut/ayah-045.md",
    "surah": 29,
    "lo": 45,
    "hi": 45,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/029-al-ankabut/tafsir-report-045.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/029-al-ankabut/ayah-046.md",
    "surah": 29,
    "lo": 46,
    "hi": 46,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/029-al-ankabut/tafsir-report-046.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/029-al-ankabut/ayah-047.md",
    "surah": 29,
    "lo": 47,
    "hi": 47,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/029-al-ankabut/tafsir-report-047.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/029-al-ankabut/ayah-048.md",
    "surah": 29,
    "lo": 48,
    "hi": 48,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/029-al-ankabut/tafsir-report-048.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/029-al-ankabut/ayah-049.md",
    "surah": 29,
    "lo": 49,
    "hi": 49,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/029-al-ankabut/tafsir-report-049.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/029-al-ankabut/ayah-050.md",
    "surah": 29,
    "lo": 50,
    "hi": 50,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/029-al-ankabut/tafsir-report-050.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/029-al-ankabut/ayah-051.md",
    "surah": 29,
    "lo": 51,
    "hi": 51,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/029-al-ankabut/tafsir-report-051.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/029-al-ankabut/ayah-052.md",
    "surah": 29,
    "lo": 52,
    "hi": 52,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/029-al-ankabut/tafsir-report-052.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/029-al-ankabut/ayah-053.md",
    "surah": 29,
    "lo": 53,
    "hi": 53,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/029-al-ankabut/tafsir-report-053.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/029-al-ankabut/ayah-054.md",
    "surah": 29,
    "lo": 54,
    "hi": 54,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/029-al-ankabut/tafsir-report-054.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/029-al-ankabut/ayah-055.md",
    "surah": 29,
    "lo": 55,
    "hi": 55,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/029-al-ankabut/tafsir-report-055.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/029-al-ankabut/ayah-056.md",
    "surah": 29,
    "lo": 56,
    "hi": 56,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/029-al-ankabut/tafsir-report-056.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/029-al-ankabut/ayah-057.md",
    "surah": 29,
    "lo": 57,
    "hi": 57,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/029-al-ankabut/tafsir-report-057.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/029-al-ankabut/ayah-060.md",
    "surah": 29,
    "lo": 60,
    "hi": 60,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/029-al-ankabut/tafsir-report-060.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/029-al-ankabut/ayah-064.md",
    "surah": 29,
    "lo": 64,
    "hi": 64,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/029-al-ankabut/tafsir-report-064.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/029-al-ankabut/ayah-065.md",
    "surah": 29,
    "lo": 65,
    "hi": 65,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/029-al-ankabut/tafsir-report-065.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/029-al-ankabut/ayah-066.md",
    "surah": 29,
    "lo": 66,
    "hi": 66,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/029-al-ankabut/tafsir-report-066.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/029-al-ankabut/ayah-067.md",
    "surah": 29,
    "lo": 67,
    "hi": 67,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/029-al-ankabut/tafsir-report-067.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/029-al-ankabut/ayah-068.md",
    "surah": 29,
    "lo": 68,
    "hi": 68,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/029-al-ankabut/tafsir-report-068.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/029-al-ankabut/ayah-069.md",
    "surah": 29,
    "lo": 69,
    "hi": 69,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/029-al-ankabut/tafsir-report-069.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/029-al-ankabut/ayahs-002-003.md",
@@ -12198,8 +12198,8 @@
    "surah": 29,
    "lo": 19,
    "hi": 20,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/029-al-ankabut/tafsir-report-019-020.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/029-al-ankabut/ayahs-058-059.md",
@@ -12214,40 +12214,40 @@
    "surah": 29,
    "lo": 61,
    "hi": 63,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/029-al-ankabut/tafsir-report-061-063.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/030-ar-rum/ayah-001.md",
    "surah": 30,
    "lo": 1,
    "hi": 1,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/030-ar-rum/tafsir-report-001.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/030-ar-rum/ayah-002.md",
    "surah": 30,
    "lo": 2,
    "hi": 2,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/030-ar-rum/tafsir-report-002.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/030-ar-rum/ayah-003.md",
    "surah": 30,
    "lo": 3,
    "hi": 3,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/030-ar-rum/tafsir-report-003.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/030-ar-rum/ayah-004.md",
    "surah": 30,
    "lo": 4,
    "hi": 4,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/030-ar-rum/tafsir-report-004.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/030-ar-rum/ayah-005.md",
@@ -12262,384 +12262,384 @@
    "surah": 30,
    "lo": 6,
    "hi": 6,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/030-ar-rum/tafsir-report-006.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/030-ar-rum/ayah-007.md",
    "surah": 30,
    "lo": 7,
    "hi": 7,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/030-ar-rum/tafsir-report-007.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/030-ar-rum/ayah-008.md",
    "surah": 30,
    "lo": 8,
    "hi": 8,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/030-ar-rum/tafsir-report-008.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/030-ar-rum/ayah-009.md",
    "surah": 30,
    "lo": 9,
    "hi": 9,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/030-ar-rum/tafsir-report-009.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/030-ar-rum/ayah-010.md",
    "surah": 30,
    "lo": 10,
    "hi": 10,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/030-ar-rum/tafsir-report-010.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/030-ar-rum/ayah-011.md",
    "surah": 30,
    "lo": 11,
    "hi": 11,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/030-ar-rum/tafsir-report-011.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/030-ar-rum/ayah-012.md",
    "surah": 30,
    "lo": 12,
    "hi": 12,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/030-ar-rum/tafsir-report-012.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/030-ar-rum/ayah-013.md",
    "surah": 30,
    "lo": 13,
    "hi": 13,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/030-ar-rum/tafsir-report-013.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/030-ar-rum/ayah-019.md",
    "surah": 30,
    "lo": 19,
    "hi": 19,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/030-ar-rum/tafsir-report-019.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/030-ar-rum/ayah-020.md",
    "surah": 30,
    "lo": 20,
    "hi": 20,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/030-ar-rum/tafsir-report-020.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/030-ar-rum/ayah-021.md",
    "surah": 30,
    "lo": 21,
    "hi": 21,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/030-ar-rum/tafsir-report-021.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/030-ar-rum/ayah-022.md",
    "surah": 30,
    "lo": 22,
    "hi": 22,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/030-ar-rum/tafsir-report-022.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/030-ar-rum/ayah-023.md",
    "surah": 30,
    "lo": 23,
    "hi": 23,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/030-ar-rum/tafsir-report-023.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/030-ar-rum/ayah-024.md",
    "surah": 30,
    "lo": 24,
    "hi": 24,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/030-ar-rum/tafsir-report-024.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/030-ar-rum/ayah-025.md",
    "surah": 30,
    "lo": 25,
    "hi": 25,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/030-ar-rum/tafsir-report-025.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/030-ar-rum/ayah-026.md",
    "surah": 30,
    "lo": 26,
    "hi": 26,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/030-ar-rum/tafsir-report-026.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/030-ar-rum/ayah-027.md",
    "surah": 30,
    "lo": 27,
    "hi": 27,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/030-ar-rum/tafsir-report-027.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/030-ar-rum/ayah-028.md",
    "surah": 30,
    "lo": 28,
    "hi": 28,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/030-ar-rum/tafsir-report-028.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/030-ar-rum/ayah-029.md",
    "surah": 30,
    "lo": 29,
    "hi": 29,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/030-ar-rum/tafsir-report-029.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/030-ar-rum/ayah-030.md",
    "surah": 30,
    "lo": 30,
    "hi": 30,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/030-ar-rum/tafsir-report-030.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/030-ar-rum/ayah-031.md",
    "surah": 30,
    "lo": 31,
    "hi": 31,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/030-ar-rum/tafsir-report-031.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/030-ar-rum/ayah-032.md",
    "surah": 30,
    "lo": 32,
    "hi": 32,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/030-ar-rum/tafsir-report-032.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/030-ar-rum/ayah-033.md",
    "surah": 30,
    "lo": 33,
    "hi": 33,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/030-ar-rum/tafsir-report-033.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/030-ar-rum/ayah-034.md",
    "surah": 30,
    "lo": 34,
    "hi": 34,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/030-ar-rum/tafsir-report-034.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/030-ar-rum/ayah-035.md",
    "surah": 30,
    "lo": 35,
    "hi": 35,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/030-ar-rum/tafsir-report-035.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/030-ar-rum/ayah-036.md",
    "surah": 30,
    "lo": 36,
    "hi": 36,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/030-ar-rum/tafsir-report-036.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/030-ar-rum/ayah-037.md",
    "surah": 30,
    "lo": 37,
    "hi": 37,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/030-ar-rum/tafsir-report-037.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/030-ar-rum/ayah-038.md",
    "surah": 30,
    "lo": 38,
    "hi": 38,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/030-ar-rum/tafsir-report-038.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/030-ar-rum/ayah-039.md",
    "surah": 30,
    "lo": 39,
    "hi": 39,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/030-ar-rum/tafsir-report-039.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/030-ar-rum/ayah-040.md",
    "surah": 30,
    "lo": 40,
    "hi": 40,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/030-ar-rum/tafsir-report-040.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/030-ar-rum/ayah-041.md",
    "surah": 30,
    "lo": 41,
    "hi": 41,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/030-ar-rum/tafsir-report-041.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/030-ar-rum/ayah-042.md",
    "surah": 30,
    "lo": 42,
    "hi": 42,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/030-ar-rum/tafsir-report-042.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/030-ar-rum/ayah-043.md",
    "surah": 30,
    "lo": 43,
    "hi": 43,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/030-ar-rum/tafsir-report-043.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/030-ar-rum/ayah-044.md",
    "surah": 30,
    "lo": 44,
    "hi": 44,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/030-ar-rum/tafsir-report-044.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/030-ar-rum/ayah-045.md",
    "surah": 30,
    "lo": 45,
    "hi": 45,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/030-ar-rum/tafsir-report-045.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/030-ar-rum/ayah-046.md",
    "surah": 30,
    "lo": 46,
    "hi": 46,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/030-ar-rum/tafsir-report-046.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/030-ar-rum/ayah-047.md",
    "surah": 30,
    "lo": 47,
    "hi": 47,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/030-ar-rum/tafsir-report-047.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/030-ar-rum/ayah-048.md",
    "surah": 30,
    "lo": 48,
    "hi": 48,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/030-ar-rum/tafsir-report-048.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/030-ar-rum/ayah-049.md",
    "surah": 30,
    "lo": 49,
    "hi": 49,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/030-ar-rum/tafsir-report-049.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/030-ar-rum/ayah-050.md",
    "surah": 30,
    "lo": 50,
    "hi": 50,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/030-ar-rum/tafsir-report-050.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/030-ar-rum/ayah-051.md",
    "surah": 30,
    "lo": 51,
    "hi": 51,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/030-ar-rum/tafsir-report-051.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/030-ar-rum/ayah-054.md",
    "surah": 30,
    "lo": 54,
    "hi": 54,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/030-ar-rum/tafsir-report-054.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/030-ar-rum/ayah-055.md",
    "surah": 30,
    "lo": 55,
    "hi": 55,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/030-ar-rum/tafsir-report-055.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/030-ar-rum/ayah-056.md",
    "surah": 30,
    "lo": 56,
    "hi": 56,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/030-ar-rum/tafsir-report-056.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/030-ar-rum/ayah-057.md",
    "surah": 30,
    "lo": 57,
    "hi": 57,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/030-ar-rum/tafsir-report-057.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/030-ar-rum/ayah-058.md",
    "surah": 30,
    "lo": 58,
    "hi": 58,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/030-ar-rum/tafsir-report-058.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/030-ar-rum/ayah-059.md",
    "surah": 30,
    "lo": 59,
    "hi": 59,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/030-ar-rum/tafsir-report-059.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/030-ar-rum/ayah-060.md",
    "surah": 30,
    "lo": 60,
    "hi": 60,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/030-ar-rum/tafsir-report-060.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/030-ar-rum/ayahs-014-016.md",
@@ -12654,96 +12654,96 @@
    "surah": 30,
    "lo": 17,
    "hi": 18,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/030-ar-rum/tafsir-report-017-018.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/030-ar-rum/ayahs-052-053.md",
    "surah": 30,
    "lo": 52,
    "hi": 53,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/030-ar-rum/tafsir-report-052-053.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/031-luqman/ayah-001.md",
    "surah": 31,
    "lo": 1,
    "hi": 1,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/031-luqman/tafsir-report-001.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/031-luqman/ayah-004.md",
    "surah": 31,
    "lo": 4,
    "hi": 4,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/031-luqman/tafsir-report-004.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/031-luqman/ayah-005.md",
    "surah": 31,
    "lo": 5,
    "hi": 5,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/031-luqman/tafsir-report-005.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/031-luqman/ayah-006.md",
    "surah": 31,
    "lo": 6,
    "hi": 6,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/031-luqman/tafsir-report-006.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/031-luqman/ayah-007.md",
    "surah": 31,
    "lo": 7,
    "hi": 7,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/031-luqman/tafsir-report-007.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/031-luqman/ayah-008.md",
    "surah": 31,
    "lo": 8,
    "hi": 8,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/031-luqman/tafsir-report-008.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/031-luqman/ayah-009.md",
    "surah": 31,
    "lo": 9,
    "hi": 9,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/031-luqman/tafsir-report-009.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/031-luqman/ayah-010.md",
    "surah": 31,
    "lo": 10,
    "hi": 10,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/031-luqman/tafsir-report-010.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/031-luqman/ayah-011.md",
    "surah": 31,
    "lo": 11,
    "hi": 11,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/031-luqman/tafsir-report-011.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/031-luqman/ayah-012.md",
    "surah": 31,
    "lo": 12,
    "hi": 12,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/031-luqman/tafsir-report-012.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/031-luqman/ayah-013.md",
@@ -12758,88 +12758,88 @@
    "surah": 31,
    "lo": 20,
    "hi": 20,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/031-luqman/tafsir-report-020.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/031-luqman/ayah-021.md",
    "surah": 31,
    "lo": 21,
    "hi": 21,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/031-luqman/tafsir-report-021.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/031-luqman/ayah-022.md",
    "surah": 31,
    "lo": 22,
    "hi": 22,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/031-luqman/tafsir-report-022.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/031-luqman/ayah-023.md",
    "surah": 31,
    "lo": 23,
    "hi": 23,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/031-luqman/tafsir-report-023.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/031-luqman/ayah-024.md",
    "surah": 31,
    "lo": 24,
    "hi": 24,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/031-luqman/tafsir-report-024.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/031-luqman/ayah-025.md",
    "surah": 31,
    "lo": 25,
    "hi": 25,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/031-luqman/tafsir-report-025.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/031-luqman/ayah-026.md",
    "surah": 31,
    "lo": 26,
    "hi": 26,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/031-luqman/tafsir-report-026.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/031-luqman/ayah-027.md",
    "surah": 31,
    "lo": 27,
    "hi": 27,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/031-luqman/tafsir-report-027.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/031-luqman/ayah-028.md",
    "surah": 31,
    "lo": 28,
    "hi": 28,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/031-luqman/tafsir-report-028.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/031-luqman/ayah-029.md",
    "surah": 31,
    "lo": 29,
    "hi": 29,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/031-luqman/tafsir-report-029.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/031-luqman/ayah-030.md",
    "surah": 31,
    "lo": 30,
    "hi": 30,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/031-luqman/tafsir-report-030.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/031-luqman/ayah-031.md",
@@ -12854,24 +12854,24 @@
    "surah": 31,
    "lo": 32,
    "hi": 32,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/031-luqman/tafsir-report-032.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/031-luqman/ayah-033.md",
    "surah": 31,
    "lo": 33,
    "hi": 33,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/031-luqman/tafsir-report-033.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/031-luqman/ayah-034.md",
    "surah": 31,
    "lo": 34,
    "hi": 34,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/031-luqman/tafsir-report-034.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/031-luqman/ayahs-002-003.md",
@@ -12902,296 +12902,296 @@
    "surah": 32,
    "lo": 1,
    "hi": 1,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/032-as-sajdah/tafsir-report-001.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/032-as-sajdah/ayah-002.md",
    "surah": 32,
    "lo": 2,
    "hi": 2,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/032-as-sajdah/tafsir-report-002.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/032-as-sajdah/ayah-003.md",
    "surah": 32,
    "lo": 3,
    "hi": 3,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/032-as-sajdah/tafsir-report-003.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/032-as-sajdah/ayah-004.md",
    "surah": 32,
    "lo": 4,
    "hi": 4,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/032-as-sajdah/tafsir-report-004.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/032-as-sajdah/ayah-005.md",
    "surah": 32,
    "lo": 5,
    "hi": 5,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/032-as-sajdah/tafsir-report-005.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/032-as-sajdah/ayah-006.md",
    "surah": 32,
    "lo": 6,
    "hi": 6,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/032-as-sajdah/tafsir-report-006.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/032-as-sajdah/ayah-009.md",
    "surah": 32,
    "lo": 9,
    "hi": 9,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/032-as-sajdah/tafsir-report-009.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/032-as-sajdah/ayah-010.md",
    "surah": 32,
    "lo": 10,
    "hi": 10,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/032-as-sajdah/tafsir-report-010.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/032-as-sajdah/ayah-011.md",
    "surah": 32,
    "lo": 11,
    "hi": 11,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/032-as-sajdah/tafsir-report-011.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/032-as-sajdah/ayah-012.md",
    "surah": 32,
    "lo": 12,
    "hi": 12,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/032-as-sajdah/tafsir-report-012.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/032-as-sajdah/ayah-013.md",
    "surah": 32,
    "lo": 13,
    "hi": 13,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/032-as-sajdah/tafsir-report-013.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/032-as-sajdah/ayah-014.md",
    "surah": 32,
    "lo": 14,
    "hi": 14,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/032-as-sajdah/tafsir-report-014.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/032-as-sajdah/ayah-015.md",
    "surah": 32,
    "lo": 15,
    "hi": 15,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/032-as-sajdah/tafsir-report-015.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/032-as-sajdah/ayah-016.md",
    "surah": 32,
    "lo": 16,
    "hi": 16,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/032-as-sajdah/tafsir-report-016.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/032-as-sajdah/ayah-017.md",
    "surah": 32,
    "lo": 17,
    "hi": 17,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/032-as-sajdah/tafsir-report-017.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/032-as-sajdah/ayah-018.md",
    "surah": 32,
    "lo": 18,
    "hi": 18,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/032-as-sajdah/tafsir-report-018.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/032-as-sajdah/ayah-019.md",
    "surah": 32,
    "lo": 19,
    "hi": 19,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/032-as-sajdah/tafsir-report-019.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/032-as-sajdah/ayah-020.md",
    "surah": 32,
    "lo": 20,
    "hi": 20,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/032-as-sajdah/tafsir-report-020.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/032-as-sajdah/ayah-021.md",
    "surah": 32,
    "lo": 21,
    "hi": 21,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/032-as-sajdah/tafsir-report-021.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/032-as-sajdah/ayah-022.md",
    "surah": 32,
    "lo": 22,
    "hi": 22,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/032-as-sajdah/tafsir-report-022.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/032-as-sajdah/ayah-023.md",
    "surah": 32,
    "lo": 23,
    "hi": 23,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/032-as-sajdah/tafsir-report-023.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/032-as-sajdah/ayah-024.md",
    "surah": 32,
    "lo": 24,
    "hi": 24,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/032-as-sajdah/tafsir-report-024.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/032-as-sajdah/ayah-025.md",
    "surah": 32,
    "lo": 25,
    "hi": 25,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/032-as-sajdah/tafsir-report-025.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/032-as-sajdah/ayah-026.md",
    "surah": 32,
    "lo": 26,
    "hi": 26,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/032-as-sajdah/tafsir-report-026.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/032-as-sajdah/ayah-027.md",
    "surah": 32,
    "lo": 27,
    "hi": 27,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/032-as-sajdah/tafsir-report-027.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/032-as-sajdah/ayah-028.md",
    "surah": 32,
    "lo": 28,
    "hi": 28,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/032-as-sajdah/tafsir-report-028.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/032-as-sajdah/ayah-029.md",
    "surah": 32,
    "lo": 29,
    "hi": 29,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/032-as-sajdah/tafsir-report-029.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/032-as-sajdah/ayah-030.md",
    "surah": 32,
    "lo": 30,
    "hi": 30,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/032-as-sajdah/tafsir-report-030.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/032-as-sajdah/ayahs-007-008.md",
    "surah": 32,
    "lo": 7,
    "hi": 8,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/032-as-sajdah/tafsir-report-007-008.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/033-al-ahzab/ayah-001.md",
    "surah": 33,
    "lo": 1,
    "hi": 1,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/033-al-ahzab/tafsir-report-001.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/033-al-ahzab/ayah-002.md",
    "surah": 33,
    "lo": 2,
    "hi": 2,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/033-al-ahzab/tafsir-report-002.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/033-al-ahzab/ayah-003.md",
    "surah": 33,
    "lo": 3,
    "hi": 3,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/033-al-ahzab/tafsir-report-003.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/033-al-ahzab/ayah-006.md",
    "surah": 33,
    "lo": 6,
    "hi": 6,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/033-al-ahzab/tafsir-report-006.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/033-al-ahzab/ayah-009.md",
    "surah": 33,
    "lo": 9,
    "hi": 9,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/033-al-ahzab/tafsir-report-009.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/033-al-ahzab/ayah-010.md",
    "surah": 33,
    "lo": 10,
    "hi": 10,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/033-al-ahzab/tafsir-report-010.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/033-al-ahzab/ayah-011.md",
    "surah": 33,
    "lo": 11,
    "hi": 11,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/033-al-ahzab/tafsir-report-011.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/033-al-ahzab/ayah-012.md",
    "surah": 33,
    "lo": 12,
    "hi": 12,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/033-al-ahzab/tafsir-report-012.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/033-al-ahzab/ayah-013.md",
@@ -13230,8 +13230,8 @@
    "surah": 33,
    "lo": 17,
    "hi": 17,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/033-al-ahzab/tafsir-report-017.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/033-al-ahzab/ayah-018.md",
@@ -13246,8 +13246,8 @@
    "surah": 33,
    "lo": 19,
    "hi": 19,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/033-al-ahzab/tafsir-report-019.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/033-al-ahzab/ayah-020.md",
@@ -13262,24 +13262,24 @@
    "surah": 33,
    "lo": 21,
    "hi": 21,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/033-al-ahzab/tafsir-report-021.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/033-al-ahzab/ayah-022.md",
    "surah": 33,
    "lo": 22,
    "hi": 22,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/033-al-ahzab/tafsir-report-022.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/033-al-ahzab/ayah-023.md",
    "surah": 33,
    "lo": 23,
    "hi": 23,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/033-al-ahzab/tafsir-report-023.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/033-al-ahzab/ayah-024.md",
@@ -13294,24 +13294,24 @@
    "surah": 33,
    "lo": 25,
    "hi": 25,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/033-al-ahzab/tafsir-report-025.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/033-al-ahzab/ayah-032.md",
    "surah": 33,
    "lo": 32,
    "hi": 32,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/033-al-ahzab/tafsir-report-032.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/033-al-ahzab/ayah-033.md",
    "surah": 33,
    "lo": 33,
    "hi": 33,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/033-al-ahzab/tafsir-report-033.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/033-al-ahzab/ayah-034.md",
@@ -13326,40 +13326,40 @@
    "surah": 33,
    "lo": 35,
    "hi": 35,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/033-al-ahzab/tafsir-report-035.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/033-al-ahzab/ayah-036.md",
    "surah": 33,
    "lo": 36,
    "hi": 36,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/033-al-ahzab/tafsir-report-036.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/033-al-ahzab/ayah-037.md",
    "surah": 33,
    "lo": 37,
    "hi": 37,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/033-al-ahzab/tafsir-report-037.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/033-al-ahzab/ayah-038.md",
    "surah": 33,
    "lo": 38,
    "hi": 38,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/033-al-ahzab/tafsir-report-038.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/033-al-ahzab/ayah-039.md",
    "surah": 33,
    "lo": 39,
    "hi": 39,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/033-al-ahzab/tafsir-report-039.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/033-al-ahzab/ayah-040.md",
@@ -13390,8 +13390,8 @@
    "surah": 33,
    "lo": 43,
    "hi": 43,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/033-al-ahzab/tafsir-report-043.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/033-al-ahzab/ayah-044.md",
@@ -13430,16 +13430,16 @@
    "surah": 33,
    "lo": 50,
    "hi": 50,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/033-al-ahzab/tafsir-report-050.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/033-al-ahzab/ayah-051.md",
    "surah": 33,
    "lo": 51,
    "hi": 51,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/033-al-ahzab/tafsir-report-051.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/033-al-ahzab/ayah-052.md",
@@ -13454,8 +13454,8 @@
    "surah": 33,
    "lo": 53,
    "hi": 53,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/033-al-ahzab/tafsir-report-053.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/033-al-ahzab/ayah-054.md",
@@ -13478,16 +13478,16 @@
    "surah": 33,
    "lo": 56,
    "hi": 56,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/033-al-ahzab/tafsir-report-056.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/033-al-ahzab/ayah-057.md",
    "surah": 33,
    "lo": 57,
    "hi": 57,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/033-al-ahzab/tafsir-report-057.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/033-al-ahzab/ayah-058.md",
@@ -13502,8 +13502,8 @@
    "surah": 33,
    "lo": 59,
    "hi": 59,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/033-al-ahzab/tafsir-report-059.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/033-al-ahzab/ayah-060.md",
@@ -13526,8 +13526,8 @@
    "surah": 33,
    "lo": 62,
    "hi": 62,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/033-al-ahzab/tafsir-report-062.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/033-al-ahzab/ayah-063.md",
@@ -13582,32 +13582,32 @@
    "surah": 33,
    "lo": 4,
    "hi": 5,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/033-al-ahzab/tafsir-report-004-005.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/033-al-ahzab/ayahs-007-008.md",
    "surah": 33,
    "lo": 7,
    "hi": 8,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/033-al-ahzab/tafsir-report-007-008.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/033-al-ahzab/ayahs-026-027.md",
    "surah": 33,
    "lo": 26,
    "hi": 27,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/033-al-ahzab/tafsir-report-026-027.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/033-al-ahzab/ayahs-028-029.md",
    "surah": 33,
    "lo": 28,
    "hi": 29,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/033-al-ahzab/tafsir-report-028-029.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/033-al-ahzab/ayahs-030-031.md",
@@ -13622,8 +13622,8 @@
    "surah": 33,
    "lo": 45,
    "hi": 46,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/033-al-ahzab/tafsir-report-045-046.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/033-al-ahzab/ayahs-066-068.md",
@@ -14118,8 +14118,8 @@
    "surah": 35,
    "lo": 18,
    "hi": 18,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/035-fatir/tafsir-report-018.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/035-fatir/ayah-022.md",
@@ -15006,8 +15006,8 @@
    "surah": 38,
    "lo": 41,
    "hi": 44,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/038-sad/tafsir-report-041-044.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/038-sad/ayahs-045-048.md",
@@ -15662,8 +15662,8 @@
    "surah": 40,
    "lo": 34,
    "hi": 34,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/040-ghafir/tafsir-report-034.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/040-ghafir/ayah-035.md",
@@ -16022,8 +16022,8 @@
    "surah": 41,
    "lo": 18,
    "hi": 18,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/041-fussilat/tafsir-report-018.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/041-fussilat/ayah-024.md",
@@ -16726,8 +16726,8 @@
    "surah": 43,
    "lo": 44,
    "hi": 44,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/043-az-zukhruf/tafsir-report-044.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/043-az-zukhruf/ayah-045.md",
@@ -17094,8 +17094,8 @@
    "surah": 44,
    "lo": 58,
    "hi": 58,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/044-ad-dukhan/tafsir-report-058.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/044-ad-dukhan/ayah-059.md",
@@ -17542,8 +17542,8 @@
    "surah": 46,
    "lo": 10,
    "hi": 10,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/046-al-ahqaf/tafsir-report-010.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/046-al-ahqaf/ayah-011.md",
@@ -17774,8 +17774,8 @@
    "surah": 47,
    "lo": 8,
    "hi": 8,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/047-muhammad/tafsir-report-008.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/047-muhammad/ayah-009.md",
@@ -17822,8 +17822,8 @@
    "surah": 47,
    "lo": 14,
    "hi": 14,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/047-muhammad/tafsir-report-014.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/047-muhammad/ayah-015.md",
@@ -18270,8 +18270,8 @@
    "surah": 49,
    "lo": 5,
    "hi": 5,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/049-al-hujurat/tafsir-report-005.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/049-al-hujurat/ayah-006.md",
@@ -18398,8 +18398,8 @@
    "surah": 50,
    "lo": 3,
    "hi": 3,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/050-qaf/tafsir-report-003.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/050-qaf/ayah-004.md",
@@ -18782,8 +18782,8 @@
    "surah": 51,
    "lo": 44,
    "hi": 44,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/051-adh-dhariyat/tafsir-report-044.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/051-adh-dhariyat/ayah-045.md",
@@ -18814,8 +18814,8 @@
    "surah": 51,
    "lo": 48,
    "hi": 48,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/051-adh-dhariyat/tafsir-report-048.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/051-adh-dhariyat/ayah-049.md",
@@ -19158,8 +19158,8 @@
    "surah": 52,
    "lo": 38,
    "hi": 38,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/052-at-tur/tafsir-report-038.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/052-at-tur/ayah-039.md",
@@ -19334,8 +19334,8 @@
    "surah": 53,
    "lo": 38,
    "hi": 38,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/053-an-najm/tafsir-report-038.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/053-an-najm/ayah-049.md",
@@ -19382,8 +19382,8 @@
    "surah": 53,
    "lo": 62,
    "hi": 62,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/053-an-najm/tafsir-report-062.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/053-an-najm/ayahs-001-012.md",
@@ -20750,8 +20750,8 @@
    "surah": 59,
    "lo": 1,
    "hi": 1,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/059-al-hashr/tafsir-report-001.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/059-al-hashr/ayah-002.md",
@@ -22734,8 +22734,8 @@
    "surah": 77,
    "lo": 45,
    "hi": 45,
-   "report": null,
-   "bucket": "MISSING"
+   "report": "content/tadabbur/077-al-mursalat/tafsir-report-045.md",
+   "bucket": "EXACT"
   },
   {
    "file": "content/tadabbur/077-al-mursalat/ayah-046.md",
