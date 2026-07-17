@@ -14,7 +14,7 @@ passage_context: "This ayah sits at the climax of the Ibrahim narrative in Surah
 generated_by: "opus-tadabbur-auto"
 validated: false
 validation_date: "2026-04-29"
-semantic_review: "agent-2026-05-27-critical"
+semantic_review: "enriched-2026-07-16"
 tags: [ibrahim, plotting, divine-decree, reversal, fire-narrative, kayd, sovereignty, nafs-of-control]
 concepts: [kayd, irada-vs-jaʿl, akhsar-superlative, futility-of-scheming, divine-reversal, fire-narrative, ibn-al-arabi-on-control]
 related_ayahs: ["3:54", "8:30", "27:50", "35:43", "40:25", "52:42", "86:15-17", "21:68", "21:69", "37:98"]
@@ -162,6 +162,8 @@ Stay with me on this, because Arabic grammar does something here that does not s
 Think of it this way. If I say someone is "*a* fastest runner," in English that is grammatically odd; we'd say "*the* fastest." Arabic uses the article similarly. *Al-akhsarīn* is "**the** [definite, exclusive, archetypal] greatest losers."
 
 Allah is not saying they lost more than someone else. He is saying: when humanity needs an example of what total, archetypal loss looks like, *here it is.*
+
+The classical exegetes sharpen this even further, and their sharpening matters. Al-Jalalayn glosses the phrase as *al-akhsarīn fī murādihim* — "the greatest losers **in what they were aiming for**." That small addition, *fī murādihim*, is doing real work. It ties the loss directly back to their own *murād* — their intended object, the very thing named by the root of *arādū* at the ayah's opening. The loss the ayah names is not vague or general misfortune. It is measured with precision against the one thing they had organized their entire will around: killing Ibrahim. Al-Muyassar states the same collapse even more starkly — *abtala Allāhu kaydahum, wa jaʿalahum al-maghlūbīn al-asfalīn*, "Allah nullified their plotting, and made them the vanquished, the lowest." Two classical glosses, two angles of approach, and both confirm what the grammar already suggested: this is not incidental damage picked up along the way. It is total defeat, measured exactly against the target they had aimed at.
 
 [PAUSE]
 

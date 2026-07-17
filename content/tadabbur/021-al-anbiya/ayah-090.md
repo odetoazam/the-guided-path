@@ -14,7 +14,7 @@ passage_context: "Surah Al-Anbiya catalogs prophet after prophet — Musa, Ibrah
 generated_by: "opus-tadabbur-auto"
 validated: false
 validation_date: "2026-04-29"
-semantic_review: "agent-2026-05-27-critical"
+semantic_review: "enriched-2026-07-16"
 tags: [dua, prophetic-character, hope-and-fear, khushu, response, zakariyya, ihsan, inner-life]
 concepts: [istijabah, raghab-rahab, khushu, musara'ah-fil-khayrat, prophetic-disposition, aslaha]
 related_ayahs: ["7:55", "7:56", "17:57", "23:60", "23:61", "32:16", "21:89"]
@@ -62,6 +62,8 @@ Watch that pronoun. It's the door into everything.
 
 In Arabic, the verbs *istajāba*, *wahaba*, and *aṣlaḥa* in the opening of this verse all point to a single addressee — Zakariyya. *We responded to **him**. We gave **him** Yahya. We restored **his** wife for **him**.* Four times *lahu*. The man is right in front of us.
 
+There is a specific claim packed into that third verb, *aṣlaḥnā* — "We set right." Classical exegetes are explicit about what needed setting right. Zakariyya's wife had been *ʿāqir* — barren, incapable of conceiving — for her entire life, and al-Muyassar and al-Jalalayn both read *aṣlaḥnā lahu zawjahu* as a double repair: her disposition was made righteous, and her body was made fit for pregnancy and childbirth, so that she carried and bore the child after her barrenness had defined her whole life. The miracle isn't only that a son arrived. It's that an entire physical impossibility was quietly reversed in the same verb that grants Yahya his existence — restoration reaching backward into her body before it reaches forward into the boy.
+
 Then, at the precise center of the verse, Allah says: ***innahum*** *kānū yusāriʿūna fil-khayrāt*. "Indeed **they** used to race in good deeds."
 
 They? Who is *they*?
@@ -73,6 +75,8 @@ Let me teach you the rhetorical device first, before we go further. In classical
 Now look at what Allah is doing here.
 
 He is taking Zakariyya — this single, specific, almost forgotten old man praying in a corner — and quietly absorbing him into a much larger company. The "they" has no antecedent in the verse because **the antecedent is the entire surah.** Every prophet you've just walked past. Ibrahim. Lut. Nuh. Dawud. Sulayman. Ayyub. Yunus. Maryam. The "they" reaches back across forty ayāt and gathers all of them up.
+
+Classical commentators read it exactly this way. Al-Jalalayn glosses *innahum* directly as *man dhukira min al-anbiyāʾ* — "those of the prophets already mentioned" — confirming, from within the exegetical tradition itself, that the pronoun is doing precisely what it looks like it's doing: reaching backward to gather up every prophet named in the surah, not just Zakariyya.
 
 [PAUSE]
 

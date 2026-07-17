@@ -14,7 +14,7 @@ passage_context: "Ibrahim has challenged his people about the statues they inher
 generated_by: "opus-tadabbur-auto"
 validated: false
 validation_date: "2026-04-29"
-semantic_review: "agent-2026-05-21-critical"
+semantic_review: "enriched-2026-07-16"
 tags: [ibrahim, fitra, witnessing, idolatry, creation, tawhid, bal, correction]
 concepts: [fitra, fatara-splitting, witnessing-community, corrective-bal, your-Lord-not-mine, faith-as-reality-not-opinion]
 related_ayahs: ["21:51", "21:52", "21:53", "21:54", "21:55", "21:57", "30:30", "6:14", "6:79", "35:1", "42:11"]
@@ -162,6 +162,8 @@ That is what *faṭara* does in this sentence. It is not vocabulary. It is an ar
 
 This is the genius of what Ibrahim has done. He has not used a verb that distances God from his audience. He has used a verb that *implicates them in their own creation*. They are not strangers to the One who made the heavens. They were split open by the same hand. They have a *fiṭra* — and his job, in this confrontation, is to crack open the layer that has covered it.
 
+There is a classical gloss on this exact word that sharpens the point further. Commentators such as al-Jalalayn read *faṭarahunna* as *khalaqahunna ʿalā ghayri mithālin sabaq* — "He created them with no prior model to copy." Sit with that phrase in this scene. Ibrahim is standing among statues that are, by definition, made *after* a model — a design his father drew, a template handed down, a shape copied from the idol carved before it. Every idol in that room owes its existence to a precedent. The Lord who *faṭara* the heavens owes His act to no precedent at all. The contrast is not incidental to the confrontation; it is the confrontation. Their gods are secondhand shapes, copied from a mold. His Lord is the Uncopied Origin.
+
 So now look at the sentence again. *Bal* — refuse the framing. *Rabbukum* — *your* Lord, not mine, not someone else's, *yours* — *rabbu's-samāwāti wa'l-arḍ* — the Lord of the heavens and the earth — *alladhī faṭarahunna* — the One who split them open into being.
 
 The verb has been chosen so that everyone in the room — the idol-carver, the priest, the child watching, Ibrahim himself — is reminded: *this same verb is in you. The splitting that produced the heavens is the splitting that produced your soul.*
@@ -257,6 +259,8 @@ What does Ibrahim actually say?
 Stay with me. He does not say *rabbī* — my Lord. He does not say *Allāh* — neutral. He uses a possessive pronoun and attaches it to the very people who have just questioned him. *Your* Lord. Not yours-in-belief; you have not believed yet. Yours by *fact.* Yours by the structure of who made you. Yours whether you acknowledge it or not.
 
 This is one of the most generous theological moves in the Quran, and it is easy to miss because the word *rabbukum* is so common. But notice the context. He is not addressing fellow believers. He is addressing people who are, at this very moment, in active idolatry. And he tells them: *the Lord of the heavens and the earth is YOURS. He is your real Lord. The statues are not. You have a true Lord; you have just attached the word "Lord" to the wrong objects.*
+
+Classical exegesis catches something in this word that is easy to rush past. Al-Jalalayn glosses *rabbukum* here as *al-mustaḥiqqu li'l-ʿibādah* — "the One who deserves worship." Not merely master, not merely sustainer — the One to whom worship is *owed.* Ibrahim is not simply correcting a metaphysical fact; he is naming who holds the claim that the idols have been wrongly collecting. Al-Muyassar's plain-language rendering makes the same move even more directly, paraphrasing Ibrahim as saying: "your Lord — whom I am calling you to worship." The ayah is already, in its earliest received readings, understood as an act of daʿwah, an invitation, not merely a correction.
 
 This changes everything about how you understand calling people to faith.
 

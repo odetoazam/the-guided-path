@@ -14,7 +14,7 @@ passage_context: "This is Allah's response to the most restrained du'a in the Qu
 generated_by: "opus-tadabbur-auto"
 validated: false
 validation_date: "2026-04-29"
-semantic_review: "agent-2026-05-27-critical"
+semantic_review: "enriched-2026-07-16"
 tags: [ayyub, divine-response, restoration, multiplication, worship-through-trial, istajaba, dua, mercy, reminder]
 concepts: [form-x-istif'al, istajaba-vs-ajaba, mithlahum-ma'ahum, asymmetric-word-choice, abidin-vs-sabirin, divine-treasury, kashf, raf'-ad-darr]
 related_ayahs: ["21:83", "38:42", "38:43", "38:44", "2:155", "2:156", "2:157", "65:2", "65:3", "94:5", "94:6", "12:18"]
@@ -174,6 +174,8 @@ Others, citing other narrations, hold that some of his family had survived and w
 
 The opinions differ on the mechanism. **They agree on the grammar.** The grammar insists: *what came after the trial was greater than what was lost.* Not equal. Not restored. *Multiplied.*
 
+One narration preserved in al-Jalalayn's commentary tries to picture what *ma'ahum* looked like concretely, and it is worth sitting with even as a narration rather than a certainty: it holds that his children — male and female — were given back to life, and that each kind was doubled to three or seven; that his wife's youth was renewed to her; and that Allah sent two clouds over his threshing floors, one emptying gold onto the wheat and the other emptying silver onto the barley, until both overflowed. Held up against the treasury language later in the verse — *raḥmatan min 'indinā*, "a mercy from Our own presence" — this image stops reading like folklore and starts reading like commentary on the grammar itself: the mercy that comes from Allah's own presence is pictured, in this narration, as gold falling out of the sky onto the floor of a man who never once complained.
+
 Here's the analogy. Suppose you lent a friend a hundred dollars and they couldn't pay it back for years. Then one day they show up at your door. They hand you a hundred dollars — your money returned. And then they hand you another hundred. They say, "I owed you this. I'm giving you this also."
 
 That second hundred is *ma'ahum*. It is the part that breaks the math.
@@ -299,6 +301,8 @@ A man can have ṣabr toward his disease *and* keep praying *and* keep dhikr *an
 What Allah is saying in this final word — *'ābidīn* — is that **the Ayyub story was never primarily about endurance. It was about whether you continued to worship while in pain.**
 
 The miracle of Ayyub is not that he survived. It is that he stayed *facing Allah* the entire time. The trial did not redirect his worship. The trial *was the place where his worship was happening.*
+
+Even al-Muyassar's own gloss on this ayah — a plain-language rendering, not a lengthy exegesis — layers both words together rather than choosing one: it describes Ayyub as a model for "every *ṣābir* enduring affliction, hoping in his Lord's mercy, *worshipping* Him." Ṣabr is named, but it is not left standing alone; it is folded into hope and into *'ibādah* in the same breath. Even the simplest classical gloss seems to sense that endurance by itself was never the whole story.
 
 Here is the analogy. Imagine two runners caught in a sudden rainstorm during a marathon. One of them slows down, hunches his shoulders, puts his head down, and grimly endures until the rain passes. He is patient. He does not quit. He gets through it.
 

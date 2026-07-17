@@ -14,7 +14,7 @@ passage_context: "This ayah sits inside the great prophetic gallery of Surah Al-
 generated_by: "opus-tadabbur-auto"
 validated: false
 validation_date: "2026-04-29"
-semantic_review: "agent-2026-05-21-critical"
+semantic_review: "enriched-2026-07-16"
 tags: [du'a, suffering, adab, ayyub, prophets, restraint, mercy, names-of-allah, prophetic-prayer]
 concepts: [adab-with-Allah, attribute-anchored-prayer, restraint-in-du'a, asymmetric-absence, prophetic-gallery, raḥmah, ḍurr, form-III-verb-distance]
 related_ayahs: ["21:84", "21:87", "21:89", "38:41", "38:42", "38:43", "38:44", "12:18", "12:86", "2:155", "2:156"]
@@ -47,6 +47,8 @@ And then, in a sequence the Quran does not narrate in detail because the detail 
 The classical tradition fills in what the Quran intentionally leaves blank. The children — gone. The wealth — gone. The community — gone. The body — covered, year after year, in an affliction so disfiguring that those who once gathered for his hospitality now cross the road to avoid him. He sits, in the traditions, on an ash heap, on the edge of the town. He has lost the use of nearly everything that once made him recognizable as himself.
 
 Different traditions count the years differently — seven, twelve, eighteen. Whatever the count, it is not days. It is not months. It is *years*.
+
+And the classical exegetes are careful about what they call what carried him through those years. Not mere endurance — the word they reach for is *iḥtisāb* alongside *ṣabr*: patience that consciously entrusts its reward to Allah, rather than a man simply outlasting pain because there is no alternative. It is patience *aimed* somewhere, not patience that has given up aiming.
 
 And during those years — and this is the part the Quran will not let us miss — he does not lose his Lord.
 
@@ -478,11 +480,13 @@ The whole ayah is a *diptych*. Two panels joined by a single *wāw*. Panel one: 
 
 And then look at the very next ayah:
 
-> فَاسْتَجَبْنَا لَهُ فَكَشَفْنَا مَا بِهِ مِن ضُرٍّ
+> فَاسْتَجَبْنَا لَهُ فَكَشَفْنَا مَا بِهِ مِن ضُرٍّ وَآتَيْنَاهُ أَهْلَهُ وَمِثْلَهُم مَّعَهُمْ رَحْمَةً مِّنْ عِندِنَا وَذِكْرَىٰ لِلْعَابِدِينَ
 >
-> *So We responded to him and removed what was upon him of harm...* [21:84]
+> *So We responded to him and removed what was upon him of harm, and We gave him back his family, and the like of them with them, as a mercy from Us and a reminder for the worshippers.* [21:84]
 
 Allah's response begins with *fa-staj-ab-nā* — *So We responded*. Allah calls it a *response* — *istijābah*. Even though Ayyūb did not ask. Even though the prayer had no third clause.
+
+And notice how the verse closes: *raḥmatan min ʿindinā wa dhikrā lil-ʿābidīn* — *a mercy from Us, and a reminder for the worshippers*. The restoration is not only for Ayyūb. It is named, in the very grammar of the ayah, as *dhikrā* — a reminder, a thing to be carried forward — *for those who worship*. Which means this two-clause prayer was never sealed inside Ayyūb's own story. It was placed in the Book precisely so that *al-ʿābidīn* — the worshippers, all of us who come after — would have it to reach for on our own ash heaps.
 
 Allah heard the silence as a request. Allah heard the trust as a request. Allah heard the names being placed next to the state and *responded as if Ayyūb had asked outright*.
 

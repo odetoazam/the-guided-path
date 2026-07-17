@@ -14,7 +14,7 @@ passage_context: "This ayah sits in the Ibrahim narrative (21:51-73), at the pre
 generated_by: "opus-tadabbur-auto"
 validated: false
 validation_date: "2026-04-29"
-semantic_review: "agent-2026-05-21-critical"
+semantic_review: "enriched-2026-07-16"
 tags: [ibrahim, la-ib, haqq, idolatry, perception, false-binary, categorial-identity, mockery, surah-architecture]
 concepts: [la-ib, haqq, exclusive-disjunction, sincere-error, categorial-identity, dunya-as-play, surah-level-rhyme]
 related_ayahs: ["21:2", "21:3", "21:16", "21:17", "21:54", "21:56", "6:32", "29:64", "47:36", "57:20"]
@@ -139,6 +139,8 @@ In Arabic, the word *lāʿibīn* (لَاعِبِين) is what's called an **acti
 And then they pair it with *min* (مِنَ) — "from, among." This particle, in this context, indicates **belonging to a category.**
 
 So the literal grammatical force of their question is: *"Are you from the tribe of the players?"*
+
+Classical commentators paraphrasing this line make the charge even more specific than the English translation lets on. One well-known paraphrase renders their question as asking whether Ibrahim's words carry *ḥaqqan wa jiddan* — truth and seriousness — or whether what he speaks is *kalām lāʿibin mustahziʾin lā yadrī mā yaqūl*: "the speech of a player, a mocker, one who doesn't know what he is saying." Notice how three separate charges are bundled into that single dismissal — playful, mocking, and incoherent. They are not merely asking whether he is unserious. They are pre-loading the second box with layers of disqualification: not just "not serious," but "not even in command of his own words."
 
 Notice what they have done. They have not asked about his *action.* They have asked about his *identity.* They are not saying "Ibrahim, you may be momentarily kidding around." They are saying, "Ibrahim, perhaps you are the kind of person who is not serious — perhaps you belong to a category of people whose words we don't have to weigh."
 

@@ -14,7 +14,7 @@ passage_context: "This ayah closes the Sulayman segment within the prophet seque
 generated_by: "opus-tadabbur-auto"
 validated: false
 validation_date: "2026-04-29"
-semantic_review: "agent-2026-05-21-critical"
+semantic_review: "enriched-2026-07-16"
 tags: [sulayman, shayatin, unseen-workforce, divine-guarding, dominion, hifz, partitive-min, asymmetric-absence]
 concepts: [hifz-as-continuous-protection, partitive-min, ʿamalan-duna-dhalika-the-unspecified-work, the-pronoun-ambiguity-of-lahum, authority-requires-guarding, the-stepping-stone-of-the-unseen]
 related_ayahs: ["21:81", "21:79", "21:80", "21:83", "34:12", "34:13", "38:37", "38:38"]
@@ -46,7 +46,7 @@ Imagine the laborers cannot be seen. Imagine they descend into the deepest parts
 
 This is Sulayman's kingdom.
 
-The surah has been climbing. In 21:79, Allah subjected the mountains and birds to praise alongside Dawud. In 21:80, He taught Sulayman the craft of armor — *to protect you from your own violence.* In 21:81, the wind itself was placed under Sulayman's command — moving by his order to wherever he willed. And now, in 21:82, the climb reaches its summit.
+The surah has been climbing. In 21:79, Allah subjected the mountains and birds to praise alongside Dawud. In 21:80, He taught Dawud the craft of armor — *to protect you from your own violence.* In 21:81, the wind itself was placed under Sulayman's command — moving by his order to wherever he willed. And now, in 21:82, the climb reaches its summit.
 
 Not the wind anymore. **The unseen.**
 
@@ -91,7 +91,7 @@ Not *the devils dived for him.* Not *all the devils were his workers.*
 
 Let's sit with this.
 
-The shayāṭīn — the rebellious unseen beings whose job description across the Quran is opposition — were not collectively conscripted. Sulayman did not command the entire host of rebellion. He commanded a **subset** that Allah specifically subjugated.
+The shayāṭīn — the rebellious unseen beings whose job description across the Quran is opposition — were not collectively conscripted. Sulayman did not command the entire host of rebellion. He commanded a **subset** that Allah specifically subjugated. Al-Muyassar's reading captures this precisely: Allah employed a portion of the shayāṭīn for him in tasks other creatures were incapable of performing — divers cannot be human labor, this is a workforce assembled *from* the unseen for what the seen world cannot do.
 
 Notice the absence here: where is the rest? The rest is doing what shayāṭīn do. The rest is whispering. The rest is conspiring. The rest is testing every human heart on earth.
 
@@ -127,7 +127,7 @@ He says **وَيَعْمَلُونَ عَمَلًۭا دُونَ ذَٰلِكَ*
 
 Stop on those words.
 
-عَمَلًۭا is **indefinite.** Not *the work.* Not *the building of the temple* or *the carrying of the throne* or *the construction of the high arches* — though other ayahs (Saba 34:13) tell us they built such things. Here, in this ayah, in this surah, Allah simply says: **"a work" — other than that.**
+عَمَلًۭا is **indefinite.** Not *the work.* Not *the building of the temple* or *the carrying of the throne* or *the construction of the high arches* — though other ayahs (Saba 34:13) tell us they built such things, and al-Tabari, glossing this very ayah, names the category further still: construction, statuary, and prayer-niches. Yet even having named the category, the classical exegete still leaves the ayah's own wording untouched — the verse itself, in this surah, refuses the inventory. Here, in this ayah, in this surah, Allah simply says: **"a work" — other than that.**
 
 دُونَ ذَٰلِكَ — *besides that, beyond that, other than that.*
 
@@ -167,9 +167,9 @@ And here we hit the question the classical commentators have wrestled with for c
 
 Two readings exist in the tradition, and the grammar permits both. They are not contradictions — they are two camera angles on the same reality. Let me build the composite.
 
-**Reading One:** "Them" refers to the shayāṭīn themselves. Allah was guarding *them* — meaning, holding them in their assigned task, preventing them from rebelling, escaping, or sabotaging the work. Sulayman commanded; Allah enforced. The chain that held them was not Sulayman's — it was Allah's.
+**Reading One:** "Them" refers to the shayāṭīn themselves. Allah was guarding *them* — meaning, holding them in their assigned task, preventing them from rebelling, escaping, or sabotaging the work. Sulayman commanded; Allah enforced. The chain that held them was not Sulayman's — it was Allah's. Al-Muyassar makes the enforcement explicit: the shayāṭīn "were not able to refuse" what was demanded of them, held there by Allah's power and might. That detail matters — these are the same beings whose nature, everywhere else in the Quran, is to resist and rebel. Here, refusal itself was taken off the table.
 
-**Reading Two:** "Them" refers to the work, or to Sulayman's kingdom, or implicitly to Sulayman himself. Allah was guarding *what they did* — preventing the shayāṭīn from corrupting the output, from inserting harm into the diving and the work, from turning their service into sabotage.
+**Reading Two:** "Them" refers to the work, or to Sulayman's kingdom, or implicitly to Sulayman himself. Allah was guarding *what they did* — preventing the shayāṭīn from corrupting the output, from inserting harm into the diving and the work, from turning their service into sabotage. Al-Jalalayn gives this reading a strikingly concrete reason: left to themselves, if they finished a task before nightfall, they would go back and *undo* it — unless kept occupied with something else. The guarding, on this reading, was not abstract oversight. It was Allah preventing a workforce that would otherwise sabotage its own labor the moment it was left idle.
 
 Now hold both at once.
 

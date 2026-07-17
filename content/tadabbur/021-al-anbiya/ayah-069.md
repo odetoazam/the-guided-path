@@ -14,7 +14,7 @@ passage_context: "Ibrahim has just shattered every idol in the temple except the
 generated_by: "opus-tadabbur-auto"
 validated: false
 validation_date: "2026-04-29"
-semantic_review: "agent-2026-05-27-critical"
+semantic_review: "enriched-2026-07-16"
 tags: [ibrahim, fire, divine-command, mercy, tawakkul, trial, salam, miracle, prophets, nature]
 concepts: [divine-address-to-creation, paired-mercy, targeted-protection, contingent-laws-of-nature, salam-as-completion, transformation-not-removal]
 related_ayahs: ["21:68", "21:70", "29:24", "37:97-98", "11:69", "19:47", "6:75-79", "2:131"]
@@ -38,7 +38,7 @@ related_ayahs: ["21:68", "21:70", "29:24", "37:97-98", "11:69", "19:47", "6:75-7
 
 Before we open this ayah, we need to stand where the original listener stood.
 
-A young man — by most traditions, in his twenties — has walked into the central temple of his city while the people are away at festival. He carries an axe. He moves from idol to idol. He destroys every one of them except the largest, and he leaves the axe resting on the shoulder of that last remaining statue.
+A young man — his exact age is not fixed by the Quran and is debated across the traditions, though many place him in his twenties — has walked into the central temple of his city while the people are away at festival. He carries an axe. He moves from idol to idol. He destroys every one of them except the largest, and he leaves the axe resting on the shoulder of that last remaining statue.
 
 He returns home.
 
@@ -54,7 +54,7 @@ And then, as the Quran says, *"They were turned upon their heads"* (21:65) — m
 
 They choose to burn him.
 
-The traditions tell us they spent days, perhaps weeks, gathering wood. The fire was so large that no one could approach it to throw him in. They built a catapult. They bound him. They flung him into the heart of the flames.
+The traditions tell us they spent days, perhaps weeks, gathering wood. The fire was so large that no one could approach it to throw him in, so — according to these transmitted accounts — they built a catapult, bound him, and flung him into the heart of the flames.
 
 This is the moment.
 
@@ -128,7 +128,7 @@ If Allah had only said بَرْدًۭا — *bardan*, "cold" — without adding 
 
 Stay with that.
 
-Pure cold is also lethal. A fire's heat will burn you in seconds. A fire's *opposite* — extreme cold, the sudden absolute absence of heat — will freeze you almost as fast. The roaring inferno that the people of Ibrahim built was so vast that if Allah had merely flipped its temperature, Ibrahim would have died from the cold instead of the heat.
+Pure cold is also lethal. A fire's heat will burn you in seconds. A fire's *opposite* — extreme cold, the sudden absolute absence of heat — will freeze you almost as fast. The roaring inferno that the people of Ibrahim built was so vast that if Allah had merely flipped its temperature, Ibrahim would have died from the cold instead of the heat. Al-Jalalayn preserves the same reading in a single compact line: it was specifically by the word *"and peace"* that he was saved from death by the fire's coldness — the *salām* is not an extra blessing layered on top of the rescue, it is what makes the rescue a rescue at all.
 
 So Allah does not just neutralize the fire. He does not just say *"don't burn him."* He says: **be cool — AND be peace.**
 
@@ -166,7 +166,7 @@ Notice what this means.
 
 The fire was not commanded to stop being fire. It was commanded to be **coolness and peace specifically upon Ibrahim**. Everywhere else, it could continue to burn. To the people watching from the safe distance, it was still a fire. The heat they felt on their faces was still real. The flames they saw rising were still consuming.
 
-The classical traditions report that the ropes binding Ibrahim's hands and feet burned away in the fire — but his body did not burn. The miracle was not the suspension of fire's nature in general; it was the precise, surgical, **targeted** suspension of fire's nature **upon his person**.
+The classical traditions report that the ropes binding Ibrahim's hands and feet burned away in the fire — but his body did not burn. The miracle was not the suspension of fire's nature in general; it was the precise, surgical, **targeted** suspension of fire's nature **upon his person**. Al-Jalalayn adds a detail worth sitting with: the fire's heat left him, but its light did not. It still shone. It still illuminated the space around him — it simply forgot how to harm him. The miracle, in other words, was not that the fire vanished from around Ibrahim or turned invisible; it was that the fire kept doing everything fire does — glowing, radiating, lighting the dark — except burn.
 
 [PAUSE]
 

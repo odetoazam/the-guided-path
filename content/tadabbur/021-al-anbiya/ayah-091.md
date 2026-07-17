@@ -14,7 +14,7 @@ passage_context: "This ayah closes a tight catalogue of prophets in distress and
 generated_by: "opus-tadabbur-auto"
 validated: false
 validation_date: "2026-04-29"
-semantic_review: "agent-2026-05-27-critical"
+semantic_review: "enriched-2026-07-16"
 tags: [maryam, mary, chastity, divine-spirit, sign, fortification, virgin-birth, motherhood, ayah-singular, prophets-catalogue]
 concepts: [ihsan-al-faraj, nafkh-al-ruh, aya-singular-vs-dual, ruh-min-allah, identification-by-deed, partitive-min]
 related_ayahs: ["19:16", "19:17", "19:20", "19:21", "66:12", "3:42", "3:47", "4:171", "32:9", "15:29", "38:72"]
@@ -26,7 +26,7 @@ related_ayahs: ["19:16", "19:17", "19:20", "19:21", "66:12", "3:42", "3:47", "4:
 
 ## Maryam, Her Son, and the Singular Sign
 
-> **وَالَّتِىٓ أَحْصَنَتْ فَرْجَهَا فَنَفَخْنَا فِيهَا مِن رُّوحِنَا وَجَعَلْنَـٰهَا وَٱبْنَهَآ ءَايَةًۭ لِّلْعَـٰلَمِينَ**
+> **وَالَّتِي أَحْصَنَتْ فَرْجَهَا فَنَفَخْنَا فِيهَا مِن رُّوحِنَا وَجَعَلْنَـٰهَا وَٱبْنَهَآ ءَايَةًۭ لِّلْعَـٰلَمِينَ**
 >
 > *Wa-llatī aḥṣanat farjahā fa-nafakhnā fīhā min rūḥinā wa-jaʿalnāhā wa-bnahā āyatan lil-ʿālamīn.*
 >
@@ -43,6 +43,8 @@ Zakariyya — the old man who refused to die without an heir.
 Yahya — the boy granted when his mother was thought barren.
 
 Each of them named. Each of them a prophet. Each of them announced.
+
+Classical exegesis notes why Maryam's story follows immediately after Zakariyya and Yahya's — Ibn Kathir observes that the one is connected to the other. Zakariyya's story is a child granted to a father of advanced years and a mother regarded as barren — already startling. Maryam's is the far edge of that same scale: a child granted to a mother with no father in the account at all.
 
 Then — without warning — the names stop.
 
@@ -128,6 +130,8 @@ Now look at the verb form Allah uses. *Aḥṣanat*. This is **Form IV** — the
 
 So *aḥṣanat farjahā* does not mean "her chastity happened" or "she remained chaste passively." It means **she actively made it a fortress.** She caused her own fortification. She was the architect of her own protection.
 
+Classical commentators record an ikhtilaf over exactly what that fortification reached. Al-Ṭabarī preserves both readings: some understood *farjahā* narrowly, as her own chastity guarded against any illicit act; others traced the fortification more literally, to the very neckline of her garment (*jayb dirʿihā*), which she held closed against Jibrīl himself in the moment before she recognized him as a messenger of her Lord rather than a stranger. Either reading serves the same architecture — a woman who had built walls at every level, from interior conviction down to the very seam of her clothing. And it is at that guarded opening, according to al-Muyassar and al-Jalālayn, that the breath is said to have entered — into the collar she had fortified, reaching down until it formed new life in her womb.
+
 [PAUSE]
 
 Let's sit with this.
@@ -184,7 +188,7 @@ Two people. One sign.
 
 [PAUSE]
 
-Stay with this. This is not a grammatical error and it is not a stylistic flourish. Arabic grammarians since the earliest period have noted this construction precisely because it is so unusual. Al-Zamakhsharī, al-Rāzī, al-Bayḍāwī, and others all pause on this word.
+Stay with this. This is not a grammatical error and it is not a stylistic flourish. Classical commentators have long paused on this word, noting how unusual the construction is.
 
 Why does Allah bundle two people into one sign?
 
@@ -214,7 +218,7 @@ And neither of them is a sign by themselves. **Together they are one sign for th
 
 [PAUSE]
 
-Now look one more layer. The phrase *lil-ʿālamīn* — *"for the worlds."* Plural. Not for her contemporaries. Not for Bani Israʾīl. For the worlds — every era, every community, every system of meaning that humanity has built. This sign is portable. It travels.
+Now look one more layer. The phrase *lil-ʿālamīn* — *"for the worlds."* Plural. Not for her contemporaries. Not for Bani Israʾīl. For the worlds — every era, every community, every system of meaning that humanity has built. Al-Jalālayn glosses the phrase even more concretely: mankind, jinn, and angels — every order of creation capable of witnessing a sign, not human history alone. And al-Muyassar frames its reach across time as well as space — a lesson for creation, it says, lasting until the establishment of the Hour. This sign is portable. It travels.
 
 And it travels as one piece. You cannot extract Maryam from the sign and leave only Jesus. You cannot extract Jesus from the sign and leave only Maryam. Allah has soldered them grammatically with a singular noun. **Āyatan**.
 
@@ -326,7 +330,7 @@ Now here is the move that the verse makes that most people miss. The sign is not
 
 What is the sign saying? It is saying: a fortified woman, breathed into by Allah, produces a son who comes into the world without the ordinary human pathway, and this entire arrangement is *evidence* — for all the worlds — that Allah is not bound by the patterns He has established. He created Adam from dust without a mother or a father. He created Jesus from a mother without a father. He creates each of you from a mother *and* a father. **Four kinds of creation, one Creator, one architecture of power.**
 
-(The classical scholars enumerate this point — al-Rāzī especially. Each of the four pathways exists so that no one can claim Allah is bound to a single mode.)
+(Classical commentators enumerate this point: each of the four pathways of human creation exists so that no one can claim Allah is bound to a single mode.)
 
 [PAUSE]
 

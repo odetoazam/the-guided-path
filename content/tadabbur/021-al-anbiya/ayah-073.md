@@ -14,7 +14,7 @@ passage_context: "Ayah 73 closes the Ibrāhīm cluster of Sūrat al-Anbiyāʾ. A
 generated_by: "opus-tadabbur-auto"
 validated: false
 validation_date: "2026-04-29"
-semantic_review: "agent-2026-05-21-critical"
+semantic_review: "enriched-2026-07-16"
 tags: [imamate, guidance, prophethood, leadership, ibadah, ikhlas, action, revelation]
 concepts: [divine-appointment, hidayah, iqama-al-salah, taqdim, fi'l, a'immah, 'ibadah]
 related_ayahs: ["21:72", "21:71", "28:41", "32:24", "2:124", "25:74"]
@@ -56,7 +56,7 @@ This ayah says something else. Something almost shocking when you really sit wit
 
 The verb is in the first person plural of divine majesty. The active subject is Allah. The prophets and their descendants — Ibrāhīm, Isḥāq, Yaʿqūb, after a life of trials we have just read about across the previous ayahs — were not *self-made*. They were *made*. By Someone Else.
 
-And the surah we are sitting inside — *Sūrat al-Anbiyāʾ*, the surah of the Prophets — has spent thirty ayahs preparing us for this moment. We have watched Ibrāhīm take a hammer to idols (21:58). We have watched him thrown into a fire (21:68). We have watched the fire be commanded to be cool (21:69). We have watched him migrate to "the land We have blessed for the worlds" (21:71). We have watched him be given Isḥāq, and Yaʿqūb as a *bonus on top* of the gift (21:72).
+And the surah we are sitting inside — *Sūrat al-Anbiyāʾ*, the surah of the Prophets — has spent thirty ayahs preparing us for this moment. We have watched Ibrāhīm take an axe to idols (21:58). We have watched him thrown into a fire (21:68). We have watched the fire be commanded to be cool (21:69). We have watched him migrate to "the land We have blessed for the worlds" (21:71). We have watched him be given Isḥāq, and Yaʿqūb as a *bonus on top* of the gift (21:72).
 
 And then this ayah arrives — *and the whole journey is named*. All of that was Allah making them imams.
 
@@ -160,6 +160,8 @@ Here is what the contrast is teaching us. **Every imam is sourced somewhere and 
 
 The prophet's *bi-amrinā* says: my source is not me. I draw from above. The fire-leader's *ilā n-nār* says: my destination is the fire I am leading my followers into. Both are real leaders. Only one is real guidance.
 
+*Tafsīr al-Muyassar* glosses our ayah in almost these same terms: Ibrāhīm, Isḥāq, and Yaʿqūb were made *qudwatan lil-nās* — a model for people — calling them to the worship of Allah and obedience to Him, *bi-idhnihī*, "by His permission." Two different tafsīr traditions, two different words — *amr* here, *idhn* there — landing on the identical claim: the calling was licensed from above. It was never self-authorized.
+
 [PAUSE]
 
 And this is where the ayah pierces our modern condition.
@@ -223,6 +225,8 @@ And here is the part that comes back to us. If you are sitting somewhere right n
 Notice the specific actions Allah names:
 
 *Iqām al-ṣalāh* — "**establishing** prayer." The verb here is *aqāma* (form IV), built on the root *qāf-wāw-mīm*, which means *to stand upright*. *Iqām* is not just *praying*. It is *making prayer stand*. It is *uprighting* the prayer. There is a prayer that lies down — performed, technically valid, but not *standing*. There is a prayer that *qāma* — that holds itself upright. The revealed *fiʿl* is the second.
+
+There is even a small grammatical fingerprint of this in the word's shape. The full noun-form of the verbal-noun would be *iqāmah*, with a closing *tāʾ marbūṭah*. Here it appears clipped — *iqām*, the *tāʾ* dropped. Al-Jalālayn's gloss notes this is *takhfīf*, a lightening, because the word sits in construct (*iḍāfah*) with what follows it, *al-ṣalāh*. A small mechanical fact of Arabic grammar — and yet fitting: the word for "establishing" is itself pared down to what is load-bearing, nothing decorative left hanging off it, exactly as the *fiʿl* it names is meant to be — plain, upright, without ornament.
 
 *Ītāʾ al-zakāh* — "**giving** zakāh." The verb here is from *atā*, *to come*. *Ītāʾ* is *making zakāh come* — bringing it to where it belongs. There is a giving that throws. There is a giving that brings. The revealed *fiʿl* is the second — the zakāh that *comes* to the recipient as if delivered, not flung.
 

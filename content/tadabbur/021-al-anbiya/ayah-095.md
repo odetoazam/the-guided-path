@@ -14,7 +14,7 @@ passage_context: "This single ayah sits as a hinge between two of the surah's de
 generated_by: "opus-tadabbur-auto"
 validated: false
 validation_date: "2026-04-29"
-semantic_review: "agent-2026-05-20-critical"
+semantic_review: "enriched-2026-07-16"
 tags: [thresholds, accountability, repentance, divine-decree, eschatology, no-return, ḥarām, sacred-language]
 concepts: [point-of-no-return, sacred-impossibility, ḥarām-as-mumtaniʿ, the-closing-door, destroyed-town, divine-barring, the-window-of-return]
 related_ayahs: ["21:94", "21:96", "21:97", "10:90", "10:91", "40:85", "6:158", "23:99", "23:100", "39:53", "39:54"]
@@ -36,7 +36,7 @@ Nine words. One sentence. A statement so quiet it is easy to read past it withou
 
 But stop here.
 
-The word at the front — **ḥarām** — is the same word that names the sacred precinct of Makkah. The same word your grandmother used when she told you something was forbidden. The same word that gives us *iḥrām* — the white cloth a pilgrim wears to mark that he has crossed into a different category of being.
+The word at the front — **ḥarām** — is the same word that names the sacred precinct of Makkah. The same word your grandmother used when she told you something was forbidden. The same word that gives us *iḥrām* — the white cloth a pilgrim wears to mark that he has crossed into a different category of being, though exactly which sense of the word is doing the work here is something we need to slow down and untangle before we lean on it.
 
 And Allah is using it here to describe **the impossibility of return**.
 
@@ -161,17 +161,17 @@ This is what we call in tadabbur an **eloquent silence**. A gap that speaks.
 
 [PAUSE]
 
-The classical mufassirūn split here, and instead of treating their differences as a multiple-choice question with one right answer, listen to them as a series of camera angles on the same reality:
+The classical mufassirūn converge here more than they diverge, and it is worth being precise about who says what before we listen to them as camera angles on the same reality:
 
-**Ibn ʿAbbās, Mujāhid, and Qatāda**: They will not return *to dunya*. Once destroyed, the destruction is final. They cannot come back to walk the earth again.
+**Ibn ʿAbbās, Mujāhid, and Qatāda — and, grammatically, al-Jalālayn**: the *lā* is **zāʾida**, grammatically extra, carrying emphasis rather than a second negation. Al-Jalālayn state this plainly: *annahum lā zāʾidatun, ay mumtaniʿun rujūʿuhum ilā al-dunyā* — the *lā* is extra, meaning their return to this world is barred. This is the reading the tafsir tradition leans on most heavily, and al-Muyassar renders it the same way: their return to the dunyā *before the Day of Resurrection* is *mumtaniʿ* — prevented, so that they might make up for what they neglected. So: they will not return *to dunya*. Once destroyed, the destruction is final. They cannot come back to walk the earth again, not before the Hour.
 
-**Al-Ṭabarī**: They will not return *to repentance*. Once the destruction came down, the window for tawba closed. They are barred from the path back.
+**Other exegetes locate the closed door differently but keep the same grammar**: not return *to repentance*. Once the destruction came down, the window for tawba closed. They are barred from the path back.
 
-**Some other early scholars**: The *lā* here is **zāʾida** — extra, non-negating — which would make the meaning "it is impossible upon them *that they should* return [to Us for judgment]." In other words: *they MUST return to Us; there is no escape from accountability.*
+**A minority grammatical reading** takes the *lā* as fully meaningful rather than extra, which produces a double negative — "impossible that they should **not** return [to Us for judgment]." On this reading the meaning flips: *they MUST return to Us; there is no escape from accountability.* It is a real possibility within the grammar of the verse, though the sources available to me here lean overwhelmingly toward the zāʾida reading above.
 
 **Al-Rāzī**: They will not return *to their previous state of unbelief* — the destruction is the closing of a chapter that cannot be reopened.
 
-Now here's the wonder. Each of these readings is grammatically defensible. Each leads to a different theological emphasis. But notice what they share: **every single reading is about a closed door**.
+Now here's the wonder. Even where these readings differ on grammar or destination, notice what they share: **every single reading is about a closed door**.
 
 The destination changes. The closure does not.
 
@@ -215,6 +215,8 @@ And here is what that openness does to the verse:
 It transforms the statement from a piece of *historical reportage* into a **structural rule of reality**.
 
 It is not "*the people of ʿĀd cannot return*." It is "**any town that meets these conditions cannot return**." Past tense, future tense, near, far, named, unnamed — the rule holds. Wherever destruction of this kind has occurred, the door is sealed.
+
+One more thing the grammarians note here, quietly, and it matters more than it looks. *Qaryah* literally means the town itself — the buildings, the wells, the ground. But no building has ever repented, and no building has ever failed to return anywhere. Al-Jalālayn make explicit what the sentence assumes: *urīda ahluhā* — "its **people** are meant." The destruction, the barred return, all of it was never really about the town as stone and street. It was always about the people who lived there. The town is the grammatical subject. The people are the actual one.
 
 And the listener — the one in Makkah, listening to the Prophet ﷺ recite this in the early 600s, surrounded by the social and spiritual landscape of his own people — that listener cannot help but ask: *am I in such a town?*
 
@@ -352,7 +354,7 @@ This is what the Qur'an elsewhere calls **the sealed heart**.
 
 > *Wa ṭubiʿa ʿalā qulūbihim fa-hum lā yafqahūn* (9:87) — And their hearts have been stamped shut, so they do not understand.
 
-Notice that in every one of these verses, the sealing is described as Allah's act — *but the trigger is their own choice*. They sealed themselves; Allah confirmed the sealing. Their inward town was *muhlak* by their own hands; the *ḥarām* of return descended afterward.
+Notice that in every one of these verses, the sealing is described as Allah's act — *but the trigger is their own choice*. They sealed themselves; Allah confirmed the sealing. Their inward town was *muhlak* by their own hands; the *ḥarām* of return descended afterward. Al-Muyassar's gloss on this very ayah names the trigger without softening it: their return is barred *bi-sababi kufrihim wa ẓulmihim* — because of their disbelief and their wrongdoing. The barring is not arbitrary. It is anchored, exactly, to what they chose.
 
 This is the coherence of the universe Allah has built. **Mercy is offered until it is rejected enough times that rejection becomes the structure of the soul.** At that point, the door does not slam shut by divine cruelty. It becomes *ḥarām* by divine sanctification of the choice the person has made.
 
