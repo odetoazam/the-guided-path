@@ -14,7 +14,7 @@ passage_context: "This ayah sits in the middle of Surah Al-Anbiya, after a long 
 generated_by: "opus-tadabbur-auto"
 validated: false
 validation_date: "2026-04-29"
-semantic_review: "agent-2026-05-21-critical"
+semantic_review: "enriched-2026-07-16"
 tags: [prophethood, guidance, spiritual-deafness, dawah, limits-of-the-caller, iltifat, restriction]
 concepts: [innama, wahy, sam, du'a, indhar, hidayah-vs-bayan, the-passive-voice]
 related_ayahs: ["28:56", "27:80", "30:52", "2:171", "11:24", "8:24"]
@@ -85,6 +85,8 @@ Stay with this. This is a relief disguised as a sentence. Every caller to truth 
 And here is what is remarkable: the *innamā* is followed by *bi'l-waḥy* — "by the revelation." This is the **instrumental** *bā'* in Arabic — the *bā'* that names the tool. *I warn you with this one tool, and only this tool.* Not with rhetoric. Not with force. Not with cleverness. Not with crowd-pleasing or threat-making. The Prophet ﷺ has been given exactly one instrument for this work, and it is the revelation itself.
 
 Think about what that excludes. He is not allowed to invent persuasive arguments outside the wahy. He is not allowed to bribe, to pressure, to manipulate. He is not allowed to soften the message to make it easier to swallow, or to harden it to make it more dramatic. The instrument is fixed. *Bi'l-waḥy.* Whatever the wahy says — that, and nothing else, is what he carries.
+
+Classical exegesis sharpens this fence on both ends. Al-Jalalayn glosses the phrase as *bi'l-waḥy min Allāh, lā min qibali nafsī* — "by revelation from Allah, not of my own accord" — making explicit that the restriction excludes not only force and rhetoric but the Prophet's ﷺ own initiative: even his own reasoning is not the tool he was given. And Qatada, as transmitted by al-Tabari, glossed "the revelation" here as *hādhā al-Qurʾān* — "this Qur'an," specifically — the wahy in this ayah is not some diffuse spiritual pressure or private inspiration; it is this recited, memorized, transmitted text, and nothing beyond it.
 
 [PAUSE]
 
@@ -207,6 +209,8 @@ What is spiritual deafness?
 It is not the absence of access to the truth. The disbelievers in this ayah had *full* access. The Prophet ﷺ was right in front of them. They could hear the words. They could repeat the words. They could analyze the words. They could mock the words. And still — *lā yasmaʿu aṣ-ṣummu ad-duʿāʾa.* They did not hear.
 
 Hearing, in the Quran, is not what the ear does. It is what the heart does *after* the ear. It is the moment in which the meaning lands somewhere inside you and rearranges something. Without that moment, no matter how clean the audio, no matter how loud the speaker, no matter how brilliant the rhetoric — the call has not been heard. It has only been processed.
+
+Classical tafsir names this precisely. Al-Muyassar glosses the clause as *lā yasmaʿūna samāʿa tadabbur* — "they do not hear with the hearing of tadabbur" — a hearing that turns the words over, that lets them settle, that reflects. Not sama' in the sense of sound striking an eardrum, but sama' in the very sense this whole practice of tadabbur is named for. And al-Jalalayn ties the deafness to something even more concrete: they are "like the deaf" precisely *li-tarkihim al-ʿamal bi-mā samiʿūhu* — "because of their abandoning action upon what they heard." In this reading, the deafness is not a failure of comprehension at all. It is what happens when hearing does not travel all the way to the hands and the feet. You can understand every word and still be counted among the deaf, if nothing in your life moves because of it.
 
 [PAUSE]
 

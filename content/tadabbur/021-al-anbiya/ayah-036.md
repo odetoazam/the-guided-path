@@ -14,7 +14,7 @@ passage_context: "Ayah 36 opens a tightly woven sequence (36-41) on Quraysh mock
 generated_by: "opus-tadabbur-auto"
 validated: false
 validation_date: "2026-04-29"
-semantic_review: "agent-2026-05-21-critical"
+semantic_review: "enriched-2026-07-16"
 tags: [mockery, dhikr, ar-rahman, prophethood, kufr, perception, defense-mechanism]
 concepts: [huzuwan, dhikr, ar-rahman, ittikhadh, kufr-as-covering, iltifat-of-attribute]
 related_ayahs: ["25:41", "25:60", "6:10", "11:38", "21:41", "43:36", "36:30"]
@@ -46,6 +46,8 @@ Picture Mecca. Not the Mecca of pilgrimage with millions in white. The pre-Hijra
 Into this town, for years, a man has been walking. Quietly at first. Then less quietly. He has been telling them that the stones they prostrate to are nothing. That there is one God, the Most Merciful, who sees them and to whom they will return.
 
 This is not abstract for the Quraysh leaders. The idols around the Ka'ba are not merely religious objects. They are an entire economic and political system. Pilgrimage trade. Tribal alliances. The whole social architecture rests on those stones. To hear the stones called nothing is to hear your inheritance, your business, your status, your family identity, called nothing.
+
+These were not anonymous faces in a crowd. Ibn Kathir names names: Abu Jahl and men like him — specific leaders with specific fortunes riding on the idols staying exactly as they were.
 
 So when this man walks through the marketplace — when he passes the gathered notables sitting in their circles — what happens?
 
@@ -96,6 +98,8 @@ Let's sit with this.
 Imagine being in a room where someone walks in, and the people in the room don't insult you, exactly — they just look at you and *laugh*. Not at a thing you did. Just at you. Your face is now, for them, a punchline. Your existence is now, for them, the joke.
 
 That is what the verb is doing here.
+
+Al-Muyassar's paraphrase makes the scene almost cinematic: they *gestured toward you, mocking, saying to one another* — a physical pointing, a nudge of the elbow, a nod across the circle. This is not an interior sneer kept private. It is a coordinated, outward performance, men signaling to each other: *look, there he goes again.* Al-Tabari, too, frames their question — *"Is this the one who mentions your gods?"* — as spoken *taʿajjuban*, out of theatrical astonishment, men playing at disbelief for one another's benefit as much as expressing it.
 
 When Allah uses Form VIII — *yattakhidhūnaka* — He is telling us this is not a passive overflow of contempt. **It is a chosen posture.** They have *taken him up* as their entertainment. They have made him into an item in their internal inventory: the mockery-figure. He has been filed.
 
@@ -202,6 +206,8 @@ Not Allah. Not al-Jabbār (the Compeller). Not al-Qahhār (the Subduer). Not al-
 This is not random. There are at least two layers here, and we have to honor both.
 
 **The first layer:** ar-Raḥmān, in Mecca, was a contested name. The Quraysh used the name *Allāh* — they knew it, they swore by it, they had it in their poetry. But *ar-Raḥmān* as a divine name was something they pushed back against. We see this elsewhere in the Quran: when believers were told to make *sujūd* to ar-Raḥmān, the Quraysh asked, *"What is ar-Raḥmān? Should we prostrate to whatever you order us?"* (Al-Furqan 25:60). The classical commentators record that the Quraysh found this name unfamiliar and resisted it specifically.
+
+Al-Jalalayn's gloss on this very ayah confirms it directly: when the *dhikr* of ar-Raḥmān was raised with them, their own recorded response was *"mā naʿrifuh"* — *"we do not know it."* Not "we reject it" as a considered verdict, but a shrug of unfamiliarity, a refusal even to recognize the name being offered to them — the same posture that surfaces again in Al-Furqan.
 
 So when Allah says **بِذِكْرِ ٱلرَّحْمَـٰنِ هُمْ كَـٰفِرُونَ** — *they bury the* dhikr *of ar-Raḥmān* — He is naming with precision the very name they rejected. **Their kufr is not a vague disbelief in some general deity. It is a targeted refusal of the Mercy-Name.** They could tolerate an Allah who was distant. They could not tolerate an Allah whose self-introduction was Mercy.
 

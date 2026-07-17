@@ -14,7 +14,7 @@ passage_context: "This ayah sits inside the great refutation of 21:26-29, where 
 generated_by: "opus-tadabbur-auto"
 validated: false
 validation_date: "2026-04-29"
-semantic_review: "agent-2026-05-21-critical"
+semantic_review: "enriched-2026-07-16"
 tags: [tawhid, shirk, angels, hypothetical-conditional, zulm, hell, divine-justice]
 concepts: [absoluteness-of-tawhid, hypothetical-grammar, shirk-as-injustice, displacement-of-self, divine-singularity]
 related_ayahs: ["21:26", "21:27", "21:28", "31:13", "5:72", "5:116", "112:1", "39:65"]
@@ -108,6 +108,8 @@ This is what classical scholars sometimes called the *muḥāl* — the impossib
 
 Here, in our ayah, the same move. **The hypothetical does not weaken the rule. It seals it.**
 
+It's worth noting that the exegetical tradition names this framing directly rather than leaving it to inference. Al-Muyassar glosses the verse as *"whoever of the angels claims to be a god alongside Allah — على سبيل الفرض, on the basis of a hypothesis — his recompense is Hell."* That phrase, *على سبيل الفرض*, "by way of supposition," is the tradition confirming exactly what we just derived from the grammar: this is a case constructed to test the boundary of the law, not a report of something that happened.
+
 [MAJOR PAUSE]
 
 ### Element Two: The Geometry of *min dūnihi* — "Besides Him"
@@ -165,6 +167,8 @@ Notice something. Did Allah say this hypothetical would be *kufr*? *Shirk* in te
 Why does this matter?
 
 Because it tells us what shirk *is, ontologically*. Shirk is not first a doctrinal error. Shirk is first **a misplacement**. It is taking the place that is not yours. The doctrinal error is the surface. The displacement is the substance.
+
+This is not just a reading we're layering on. Al-Jalalayn glosses **الظَّالِمِينَ** in this very verse directly as **المُشْرِكِينَ** — the wrongdoers *are* the doers of shirk. The exegetical tradition closes the definitional loop for us: this isn't zulm-in-general standing in loosely for shirk. The commentators are naming shirk itself as the referent of "wrongdoing" — the two words describing the same act from two angles.
 
 This connects with Surah Luqman's famous verse:
 
@@ -231,6 +235,8 @@ Sometimes the misplacement is not arrogance. Sometimes it is *reverence*.
 This is the strange and important thing about the ayah's context. The people Allah is correcting were not crude polytheists who built rocks and prostrated. They were people who **revered the angels too much**. They thought they were honoring God by exalting His creatures. They thought *bigger reverence for the angels* = *bigger glory for God*. They were sincere. They were attempting devotion.
 
 And the verse comes down on them. Because what they thought was reverence had become *displacement*. They had taken the angels and quietly slid them onto a shelf that wasn't theirs.
+
+Worth pausing on here: while the primary reading of "whoever of them" treats the claim as a pure impossibility — a hypothesis about beings who, per ayahs 26-28, would never actually say such a thing — the commentators do not leave the verse floating in the abstract. Al-Tabari records an alternate reading (*wa qīla*, "and it is said") that the referent is Iblis specifically, and al-Jalalayn states it more directly still: the one who said "I am a god besides Him" is Iblis, who "called to the worship of himself and commanded obedience to it." Scholars differ on how tightly this reading attaches to our verse, so it's worth holding loosely rather than as settled tafsir — but it adds a layer worth sitting with: the hypothetical net this ayah casts is wide enough to catch not only an impossible case among the angels, but an actual claimant in history, one who took reverence that was owed elsewhere and redirected it toward himself.
 
 Now think about the human analogue.
 

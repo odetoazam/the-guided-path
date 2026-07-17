@@ -14,7 +14,7 @@ passage_context: "This ayah closes the surah's opening movement on the messenger
 generated_by: "opus-tadabbur-auto"
 validated: false
 validation_date: "2026-04-29"
-semantic_review: "agent-2026-05-21-critical"
+semantic_review: "enriched-2026-07-16"
 tags: [promise, divine-truthfulness, mercy, justice, prophets, asymmetry, isrāf, salvation]
 concepts: [ṣidq, waʿd, najāh, ihlāk, isrāf, divine-pattern, asymmetric-mercy]
 related_ayahs: ["21:7", "21:8", "21:11", "21:105", "6:34", "39:74", "10:103", "7:31", "40:43"]
@@ -80,9 +80,9 @@ Hold that distinction in your hand. Now look at what Allah says.
 
 He does not say *anjaznāhumul-waʿd* — "we executed the promise for them." He does not say *waffaynāhumul-waʿd* — "we paid them what we owed." He says **ṣadaqnāhumul-waʿd**.
 
-The verb is from the root **ṣ-d-q** — the root of *truthfulness*, of *truth-telling*, of being so aligned with reality that what you say IS what is. And it is in **Form II** — *ṣaddaqa* — which in Arabic morphology carries the meaning of *making something true*, of *verifying it*, of *confirming it as real*.
+The verb is from the root **ṣ-d-q** — the root of *truthfulness*, of *truth-telling*, of being so aligned with reality that what you say IS what is. And it is in **Form I** — *ṣadaqa*, the bare, unadorned form of the root, not a derived form manufacturing truth from outside. Here it is doubly transitive — *ṣadaqnāhum* ("We were true to them") plus *al-waʿd* (its object, "the promise") — a classical construction the lexicons record (cf. *ṣadaqahu al-qitāl* — "he was in earnest with him in battle"). It does not mean "kept" a promise the way a debtor discharges a debt. It means **was true** — sincere, aligned, without gap between word and reality — *in the matter of* the promise.
 
-So *ṣadaqnāhumul-waʿd* is not "we kept the promise to them." It is closer to: **"We were truthful to them with the promise. We verified Ourselves through what We said. We made the promise true."**
+So *ṣadaqnāhumul-waʿd* is not "we kept the promise to them" in the transactional sense. It is closer to: **"We were true to them in the matter of the promise."** And because the verb never leaves the plain sense of *truthfulness* — this is the root form itself, not a form built to *cause* truth after the fact — the reading holds even more directly: Allah is not described as manufacturing truth from outside the promise. He is simply, in this matter, **being what He is.**
 
 Stay with this for a moment. The promise is not the central thing. **Allah's truthfulness is the central thing.** The promise is the *vehicle* through which Allah demonstrates that He is *al-Ṣādiq* — the Truthful One. The fulfillment is not the satisfaction of a debt to His servants. It is the unfolding of who He IS.
 
@@ -129,7 +129,7 @@ Who are *wa-man nashāʾ*?
 
 Classical commentators offer several layers, and we should hear them as a composite, not as alternatives.
 
-Some see *wa-man nashāʾ* as **the believers around each messenger** — Nuh's family on the ark, Lūṭ's followers fleeing the city, the believers who were saved alongside their prophet.
+Some see *wa-man nashāʾ* as **the believers around each messenger** — Nuh's family on the ark, Lūṭ's followers fleeing the city, the believers who were saved alongside their prophet. Al-Jalalayn glosses it plainly this way: *al-muṣaddiqīna lahum* — "those who affirmed them [the messengers] as true." On that reading, the saved are, quite simply, everyone who believed.
 
 Others see it as **anyone Allah determined to save in any moment of judgment** — sometimes for reasons known only to Him. A child. A righteous person hidden in a wicked city. A late convert who slipped under the wire.
 
@@ -177,7 +177,9 @@ Stay with this. Because Allah is telling us something about what disbelief actua
 
 [PAUSE]
 
-Disbelief is not, in the Quran's frame, primarily an intellectual mistake. It is **a form of excess.** It is taking the small portion of being, of breath, of awareness that Allah loaned you — and *claiming more than your portion*. Claiming to need no Lord. Claiming to author yourself. Claiming the universe was given to you to use as you please. Claiming that there is no accounting beyond your own.
+Two classical glosses sharpen this. Al-Jalalayn reads *al-musrifīn* here as *al-mukadhdhibīna lahum* — "those who denied them [the messengers] as liars" — anchoring the "excess" directly in the act of rejection. Al-Muyassar goes further still, describing them as *musrifīn ʿalā anfusihim* — those who exceeded the limit **against themselves** — destroyed specifically *bi-kufrihim bi-rabbihim*, "for their disbelief in their Lord." So the excess is not first a crime against the messenger or the community. Classical exegesis locates it as something a soul does to its own portion — which is the direction this reading is about to take.
+
+Disbelief is not only, in the Quran's frame, an intellectual mistake. It is also **a form of excess.** It is taking the small portion of being, of breath, of awareness that Allah loaned you — and *claiming more than your portion*. Claiming to need no Lord. Claiming to author yourself. Claiming the universe was given to you to use as you please. Claiming that there is no accounting beyond your own.
 
 That is what *isrāf* names. Not too much money. **Too much self.**
 

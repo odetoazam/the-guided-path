@@ -14,7 +14,7 @@ passage_context: "This ayah sits inside Surah Al-Anbiya's central reasoned chall
 generated_by: "opus-tadabbur-auto"
 validated: false
 validation_date: "2026-04-29"
-semantic_review: "agent-2026-05-20-critical"
+semantic_review: "enriched-2026-07-16"
 tags: [tawhid, shirk, resurrection, idolatry, divine-criteria, modern-idols, arguments-for-tawhid, surah-anbiya]
 concepts: [ittikhadh-of-gods, ilah, al-ardh, nashr-resurrection, criterion-of-divinity, dependent-deities, modern-idolatry]
 related_ayahs: ["21:22", "21:24", "21:25", "16:20", "16:21", "25:3", "29:17", "46:4", "53:23"]
@@ -77,6 +77,8 @@ When Arabic wants to ask a real question — "did you do this?" — it uses *hal
 
 Think of how you might confront a friend who keeps avoiding the truth. You say: "Are you telling me you didn't see it? Or are you telling me you saw it and didn't care?" That second "or" — that is *am*. It is not adding an option. It is closing one door so that the listener has to walk through the other one.
 
+Classical commentators read this precise particle the same way. Al-Jalalayn glosses the *am* here as functioning *bi-ma'na bal* — "in the sense of *bal*," a shift-marker moving the discourse from one register to a harder one — and notes that the interrogative hamza folded inside it carries the force of *inkār*: denial, rejection, incredulity. The grammar itself, on this reading, is not neutral curiosity. It is already refusing the premise before the sentence finishes.
+
 Now look back at the surrounding ayahs. Allah has just said:
 
 - The heavens and the earth were not created in play (21:16).
@@ -131,7 +133,7 @@ What is being underlined here?
 
 The classical scholars — Tabari, Razi, Qurtubi, Ibn Kathir — read this in two complementary ways, and both are doing something profound. They are not alternatives. They are angles on the same reality.
 
-**One angle:** *hum yunshirūn* = "is it *they* who raise the dead?" The pronoun is sarcastic, incredulous. As if Allah is saying: *do you genuinely look at these stones, these inherited names, and think — yes, these are the ones who are going to raise me from my grave?* The construction throws the absurdity back into the worshipper's face.
+**One angle:** *hum yunshirūn* = "is it *they* who raise the dead?" The pronoun is sarcastic, incredulous. As if Allah is saying: *do you genuinely look at these stones, these inherited names, and think — yes, these are the ones who are going to raise me from my grave?* The construction throws the absurdity back into the worshipper's face. Al-Muyassar renders the whole ayah in exactly this register, glossing it as: how could it ever be right for the polytheists to take, from the earth, gods that are *ʿājizah* — utterly powerless — unable even to bring the dead back to life? The word *ʿājizah* is doing real work here: it names incapacity as the deity's defining trait, not a side note.
 
 **Another angle, mentioned by Ar-Razi:** there is a possible reading where *hum* refers to the worshippers, not the gods. The phrase becomes: "have they taken gods from the earth, while *they themselves* are the ones giving these gods their existence?" In other words: the worshippers prop up the deities. The flow of life, in this picture, runs *from* the human *to* the idol. The deity is dependent on the devotee. Without the worshipper, the god has no standing at all.
 
@@ -139,7 +141,7 @@ Both readings end at the same place. **A god that is taken cannot raise. A god t
 
 [PAUSE]
 
-Here is what is remarkable about this construction. The whole question is being answered by the test it embeds. The criterion of divinity is hidden inside the question itself: **resurrection**. Allah does not list ten criteria. He does not say "creator, sustainer, knower of the unseen, hearer, seer, judge…" He picks one. The hardest one. The one that mocks every claim because every claim has to walk past the grave.
+Here is what is remarkable about this construction. The whole question is being answered by the test it embeds. The criterion of divinity is hidden inside the question itself: **resurrection**. Allah does not list ten criteria. He does not say "creator, sustainer, knower of the unseen, hearer, seer, judge…" He picks one. The hardest one. The one that mocks every claim because every claim has to walk past the grave. Al-Jalalayn states the underlying rule almost as a syllogism: *lā — wa lā yakūnu ilāhan illā man yuḥyī al-mawtā* — "no, and none can be a true god except one who gives life to the dead." That is the whole test, stated flatly, with nothing left to interpret.
 
 If your god cannot raise the dead, your god is a placeholder.
 
@@ -209,7 +211,7 @@ But Allah does not waste words. Every word in the Quran is doing labor. So why t
 
 Here is the answer. **The phrase "from the earth" is itself the argument.**
 
-The deities the Quraysh worshipped were stones. Stones are *of* the earth. They came out of the earth, and one day they would return to it. They had a beginning in the earth and an end in the earth. They were, every atom of them, earth.
+The deities the Quraysh worshipped were stones. Stones are *of* the earth. They came out of the earth, and one day they would return to it. They had a beginning in the earth and an end in the earth. They were, every atom of them, earth. Al-Jalalayn's gloss on this very phrase names three concrete examples of what "from the earth" meant on the ground in Makkah: *ka-ḥajarin wa-dhahabin wa-fiḍḍah* — "like stone, and gold, and silver." Notice that two of the three are not idols carved into shapes at all. They are raw wealth. The commentary is already telling us, thirteen centuries ago, that "gods from the earth" was never only about statues in a shrine — it included the precious metal itself, hoarded and trusted the way we trust a bank balance today.
 
 And here is the unseen reality the physical image is pointing to: **whatever has its origin in the earth cannot rescue you from the earth**. The river cannot save you from drowning in itself. The chain cannot unlock itself. The cage cannot let itself out. Anything bounded by the same condition you are trapped in cannot be the rescuer.
 
@@ -223,7 +225,7 @@ The earth, in the Quran's vocabulary, is not just the planet. It is the realm of
 
 So now the ayah is asking something far larger than "don't worship a stone." It is asking: **will you orient your entire life around something whose category is perishable?**
 
-This is the core of why modern idolatry is so hard to see. The new "gods from the earth" do not look like stones. They look like dashboards, brand identities, ideologies, careers, even communities. But every one of them has its origin in the earth. Every one of them has a half-life. Every empire ends. Every algorithm gets replaced. Every hero falls. Every reputation gets rewritten by the next generation. Every body gives out.
+This is the core of why modern idolatry is so hard to see. The new "gods from the earth" do not look like stones. They look like dashboards, brand identities, ideologies, careers, even communities. But every one of them has its origin in the earth. Every one of them has a half-life. Every empire ends. Every algorithm gets replaced. Every hero falls. Every reputation gets rewritten by the next generation. Every body gives out. And, as al-Jalalayn's plain reading reminds us, gold and silver themselves were already on the classical list — the same substance that fills a vault today was named, in the earliest tafsir, among the things "taken from the earth" and set up in Allah's place.
 
 If your meaning is built on something *mina-l-arḍ*, then your meaning is on a foundation that, by definition, does not survive the earth.
 
@@ -253,11 +255,11 @@ The *am* refused to let you stay neutral.
 
 The *ittakhadhū* exposed every god as something the worshipper adopted, and therefore as something smaller than the one who took it.
 
-The *mina-l-arḍ* placed all such gods in the category of the perishable.
+The *mina-l-arḍ* placed all such gods in the category of the perishable — stone, gold, silver, or whatever their modern equivalent turns out to be.
 
 The *hum yunshirūn* gave you a single instrument, sharp as a scalpel, that you can apply to any object of devotion in any century: *can this raise the dead?*
 
-Together they form a complete argument. Subject ineligible by virtue of being chosen. Substance ineligible by virtue of being earth-bound. Function ineligible by virtue of being unable to resurrect.
+Together they form a complete argument. Subject ineligible by virtue of being chosen. Substance ineligible by virtue of being earth-bound. Function ineligible by virtue of being unable to resurrect. Ibn Kathir places this ayah at the head of a short run that carries the same argument forward from a different angle: had there truly been other gods in the heavens and the earth besides Allah, both would have fallen into ruin — the classical proof from mutual exclusion (*tamānuʿ*) that a shared universe cannot have two ultimate rulers. Ayah 21 asks the question at ground level, from what you can touch and take; the ayah after it answers the same question from the level of the cosmos itself. Both arrive at the same floor.
 
 It is one of the most compact theological arguments in the Quran. Seven words. No technical vocabulary. No prerequisites. Just the apparatus of any honest mind, applied to the things it has placed in its highest seat.
 

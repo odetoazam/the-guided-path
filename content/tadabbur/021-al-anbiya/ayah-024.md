@@ -14,13 +14,13 @@ passage_context: "We are deep inside Surah Al-Anbiya — the surah of 'the proph
 generated_by: "opus-tadabbur-auto"
 validated: false
 validation_date: "2026-04-29"
-semantic_review: "agent-2026-05-21-critical"
+semantic_review: "enriched-2026-07-16"
 tags: [tawhid, evidence, prophets, dhikr, kalam, burden-of-proof, continuity, scripture]
 concepts: [burhān, dhikr, iʿrāḍ, demand-for-proof, unity-of-revelation, epistemic-honesty, courtroom-rhetoric]
 related_ayahs: ["21:21", "21:22", "2:111", "27:64", "28:75", "23:117", "12:104", "38:87", "81:27", "21:7", "21:25"]
 ---
 
-<!-- morphology pruned: key roots (ʾ-kh-dh, h-w-y/h-ā-t, b-r-h, dh-k-r, ʿ-r-ḍ) documented in classical lexicons (Lisān al-ʿArab, Mufradāt al-Rāghib, Tāj al-ʿArūs); linguistic journey draws only on lexically attested meanings. -->
+<!-- morphology pruned: key roots (ʾ-kh-dh, h-t-y — hātū treated by the grammarians as ism fiʿl al-amr, not a fully conjugated triliteral verb, b-r-h, dh-k-r, ʿ-r-ḍ) documented in classical lexicons (Lisān al-ʿArab, Mufradāt al-Rāghib, Tāj al-ʿArūs); linguistic journey draws only on lexically attested meanings. -->
 
 # Bring Your Proof: The Quran's Demand for Evidence and the Unity of the Dhikr
 
@@ -79,7 +79,7 @@ Notice something about this word *hātū*. In Arabic, when you tell someone to "
 
 Allah did not choose those.
 
-He chose *hātū* — a peculiar, almost exclamatory imperative. The classical grammarians spent ink on this word because it does not behave like a normal verb. It has no full conjugation. It exists almost only in the imperative. It is, structurally, a *demand-word* — a verb that exists primarily to issue a challenge.
+He chose *hātū* — a peculiar, almost exclamatory imperative. The classical grammarians spent ink on this word because it does not behave like a normal verb. It is not, properly speaking, a conjugated verb at all: grammarians such as Ibn Hishām classify *hāti/hātū* as an *ism fiʿl al-amr* — an imperative particle standing in for a verb, lexically frozen in the command form. It has no full conjugation because it was never built to have one. It exists almost only in the imperative. It is, structurally, a *demand-word* — a verb-shaped challenge, not a verb.
 
 Listen to it: *hā-tū*. Two open syllables. The mouth opens, the breath pushes out, and the word is gone. There is no time to deliberate. It is the verbal equivalent of a hand thrust forward, palm up.
 
@@ -128,7 +128,7 @@ This is staggering when you sit with it.
 
 Allah is not setting a low bar so the deniers can stumble across it. He is setting the *highest* bar — and asking them to clear it. He is, in effect, saying: I will not even contest your weak arguments. Bring me your *strongest*. Bring me your *burhān*.
 
-And of course — there is none. Because there cannot be one. A *burhān* for shirk is a category error: it is a luminous proof for something that, by its very structure, cannot be true.
+And of course — there is none. Because there cannot be one. A *burhān* for shirk is a category error: it is a luminous proof for something that, by its very structure, cannot be true. Al-Muyassar's gloss on this ayah is blunt about why none was ever produced: *wa mā ashrakū illā jahlan wa taqlīdan* — they fell into shirk only out of *jahl* (ignorance) and *taqlīd* (blind imitation of their forebears). Not conviction earned through inquiry. Not a *burhān* once examined and found sound. Only the unexamined weight of what came before them.
 
 But notice what this also reveals. The Qurʾān does not fear evidence. It does not say "do not investigate." It does not say "faith means turning off the mind." It says: **bring your burhān.** Bring the brightest argument you can find. We will meet it.
 
@@ -168,7 +168,7 @@ So when Allah says *hādhā dhikr* — this is the reminder — He is making a c
 
 And this is why the next phrase lands like a hammer.
 
-*Dhikru man maʿiya wa dhikru man qablī.* The reminder of those with me — meaning the believers gathering around the Prophet ﷺ — *and* the reminder of those before me — meaning Nūḥ's people, Ibrāhīm's people, Mūsā's people, every prophet who ever stood up and called to one God.
+*Dhikru man maʿiya wa dhikru man qablī.* The reminder of those with me — meaning the believers gathering around the Prophet ﷺ — *and* the reminder of those before me — meaning Nūḥ's people, Ibrāhīm's people, Mūsā's people, every prophet who ever stood up and called to one God. The classical exegetes are specific about what this means in practice, not just in principle: al-Jalālayn glosses *dhikru man maʿiya* as *ummatī, wa huwa al-Qurʾān* — my community, that is, this very Qurʾān — and *dhikru man qablī* as *min al-umam, wa huwa al-Tawrāh wal-Injīl wa ghayruhumā min kutubi Llāh* — the earlier nations' scriptures: the Torah, the Gospel, and the other books of Allah. And then the point that gives the whole verse its teeth: *laysa fī wāḥidin minhā anna maʿa Llāhi ilāhan* — not one of them contains the claim that there is a god beside Allah. The unity being claimed here is not a vague family resemblance between religions. It is a specific, checkable claim: go and open the Torah, open the Gospel, and find the partner-god the mushrikūn have invented. It is not there.
 
 [PAUSE]
 
@@ -178,9 +178,9 @@ You asked for proof? **Here is mine.**
 
 The proof is not a single argument. The proof is the *cumulative dhikr* of every prophet across every century, all converging on the same message. The proof is that this Qurʾān, in your hands now, in your language, is structurally identical in essence to what was given to those before. The proof is the *unity of the call across history.*
 
-And do you know what this verse is doing, structurally, in the surah? Look at what comes *after* it. The rest of Surah Al-Anbiya is the parade of prophets — Mūsā, Ibrāhīm, Lūṭ, Nūḥ, Dāwūd, Sulaymān, Ayyūb, Yūnus, Zakariyya. Allah does not just *claim* the dhikr is unified. **He demonstrates it.** The next sixty verses are exhibits in the courtroom. *Dhikru man qablī* — and here, page after page, are the dhikrs.
+And do you know what this verse is doing, structurally, in the surah? Look at what comes *after* it. The rest of Surah Al-Anbiya is the parade of prophets — Mūsā, Ibrāhīm, Lūṭ, Nūḥ, Dāwūd, Sulaymān, Ayyūb, Yūnus, Zakariyya. Allah does not just *claim* the dhikr is unified. **He demonstrates it.** The very next ayah says it in plain terms — *We did not send a messenger before you except that We revealed to him: there is no god but Me, so worship Me* (21:25) — before the sixty verses of prophetic narrative arrive as the exhibits in the courtroom. *Dhikru man qablī* — and here, page after page, are the dhikrs.
 
-This is what scholars call the Qurʾān commenting on itself in real time. The challenge is issued in v. 24, and the proof is delivered for the next sixty verses.
+This is what scholars call the Qurʾān commenting on itself in real time. The challenge is issued in v. 24, the principle is restated in v. 25, and the proof is delivered for the next sixty verses.
 
 Notice also a quiet asymmetry. *Man maʿiya* (those with me) comes *first*; *man qablī* (those before me) comes second. In Arabic, primacy of mention often signals primacy of emphasis. The Prophet ﷺ is being told: *this is the dhikr of the people gathered around you right now — first.* It is alive. It is current. It is not nostalgia for ancient prophets. It is the same scripture, delivered for *this* generation, recapitulating *all* generations.
 

@@ -14,7 +14,7 @@ passage_context: "Surah Al-Anbiya opens with the Quraysh treating the Prophet �
 generated_by: "opus-tadabbur-auto"
 validated: false
 validation_date: "2026-04-29"
-semantic_review: "agent-2026-05-21-critical"
+semantic_review: "enriched-2026-07-16"
 tags: [mockery, consolation, divine-justice, pattern-of-prophets, irony, retribution, prophetic-experience]
 concepts: [istihza, sukhriyah, hawq, encirclement, prophetic-consolation, boomerang-of-derision, divine-pattern]
 related_ayahs: ["6:10", "11:8", "16:34", "39:48", "45:33", "46:26"]
@@ -202,7 +202,7 @@ What was the thing they were mocking?
 
 Allah does not say. He does not say "the punishment." He does not say "the Hour." He does not say "the Quran." He does not say "the warning." He just says *mā* — *that which.*
 
-This is a deliberate gap. And it is doing real work.
+This is a deliberate gap. And it is doing real work. Al-Muyassar's paraphrase of the ayah does resolve the pronoun, rendering it as *al-ʿadhāb* — "the punishment" — the very thing whose approach they had jeered at. That gloss is not a contradiction of the gap; it is a specific answer inside a general frame. It tells us what the pronoun cashes out to whenever the mocked object is a divine warning of consequence — but it does not undo the fact that the Quran's own wording leaves the blank open rather than naming it once, for every people, in every age.
 
 [PAUSE]
 
@@ -330,6 +330,8 @@ This is consolation by **shape**, not by content. He does not promise that the m
 
 You are not improvising. You are not on the wrong side. You are not the strange one. **You are inside a pattern, and the pattern has an ending, and the ending is in Allah's hands.**
 
+Classical commentators make this explicit rather than leaving it to inference. Al-Jalalayn names the opening clause outright as *tasliyah* — consolation for the Prophet ﷺ — and then reads the closing clause as reaching past the ancient nations into the room the Prophet was standing in, glossing it as "and thus it will encircle whoever mocks you." The ayah, on this reading, is not simply filing a historical report for its own interest. It is asserting, in the same breath, that the men jeering at Muhammad ﷺ in Makkah's streets already stand inside the same structure as the mockers of every messenger before him — the pattern is not only comfort by analogy, it is comfort by direct promise.
+
 [PAUSE]
 
 Notice what He shows next. *"So the very thing they used to mock enveloped those of them who scorned."* The pattern has an ending. The ending is not "they kept laughing forever." The ending is "the laughter became the cage."
@@ -384,11 +386,11 @@ So the ayah moves from **passive (consoling the mocked)** through **the connecto
 
 The linguistic discoveries and the themes are the same insight from two directions.
 
-The two verbs of mockery — *istihzā'* and *sukhriyah* — showed us that **scorn at the messenger and dismissal of the message are two different motions, but they happen together**. The verb *ḥāqa* showed us that **mockery does not get rid of what it pushes against — it arranges it into a perimeter.** The unspecified *mā* showed us that **whatever you mocked, fill in the blank, becomes what surrounds you.**
+The two verbs of mockery — *istihzā'* and *sukhriyah* — showed us that **scorn at the messenger and dismissal of the message are two different motions, but they happen together**. The verb *ḥāqa* showed us that **mockery does not get rid of what it pushes against — it arranges it into a perimeter.** The unspecified *mā* showed us that **whatever you mocked, fill in the blank, becomes what surrounds you** — even where, as al-Muyassar shows, the classical paraphrase resolves that blank to "the punishment" for the case at hand.
 
 The first theme — mockery as structural error — was the same insight from the side of physics. **Reality has its own mass. If you do not build rooms for it, it will arrive with no walls to receive it.**
 
-The second theme — the pattern that holds you — was the same insight from the side of consolation. **You are not alone in the shape you are in. The shape has an ending. The ending favors the patient, not the loud.**
+The second theme — the pattern that holds you — was the same insight from the side of consolation. **You are not alone in the shape you are in. The shape has an ending. The ending favors the patient, not the loud** — and, as al-Jalalayn makes explicit, the ending was already being promised, in this very ayah, to the specific men mocking Muhammad ﷺ in his own lifetime.
 
 Both directions converge on a single sentence: **the cage is being built right now, by every laugh, by every brick, by every accumulating dismissal — and the only question is whose cage you are reinforcing, the mocker's or your own architecture of seriousness.**
 

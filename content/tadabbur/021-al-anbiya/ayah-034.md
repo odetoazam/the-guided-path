@@ -14,7 +14,7 @@ passage_context: "This ayah sits in the central polemical core of Surah Al-Anbiy
 generated_by: "opus-tadabbur-auto"
 validated: false
 validation_date: "2026-04-29"
-semantic_review: "agent-2026-05-21-critical"
+semantic_review: "enriched-2026-07-16"
 tags: [mortality, prophethood, mockery, immortality, patience, dependence, rhetorical-question, bashariyyah]
 concepts: [khuld, bashar, iltifat, rhetorical-interrogative, mortality-of-prophets, independence-of-message-from-messenger, the-waiting-psychology]
 related_ayahs: ["3:144", "21:8", "39:30", "28:88", "55:26-27", "21:35"]
@@ -44,7 +44,7 @@ You don't have to refute the message. You don't have to debate the messenger. Yo
 
 He's a man. Men die. His voice will go quiet. His followers will scatter. His words will fade into the noise of history. You don't have to do anything except wait.
 
-This was, in fact, one of the open strategies of the Quraysh against the Prophet ﷺ. Not the only strategy — there was open mockery, there was economic boycott, there was assassination plotted in Dār al-Nadwa. But underneath all of those, there was something quieter: a confidence that **time was on their side**. Eventually he would die. And when he died, this strange new thing he was saying about One God and accountability and resurrection — all of it would die with him. They could go back to the way things were.
+This was, in fact, one of the open strategies of the Quraysh against the Prophet ﷺ. Not the only strategy — there was open mockery, there was economic boycott, there was assassination plotted in Dār al-Nadwa. Al-Jalālayn even preserves the occasion directly: this ayah descended, the commentary notes, after the disbelievers said outright that Muhammad ﷺ would die — not a private hope whispered among themselves, but a claim spoken aloud, as though his mortality were already an argument won. But underneath all of those, there was something quieter: a confidence that **time was on their side**. Eventually he would die. And when he died, this strange new thing he was saying about One God and accountability and resurrection — all of it would die with him. They could go back to the way things were.
 
 [PAUSE]
 
@@ -64,7 +64,7 @@ Before we go to the ayah, let me teach you something about Arabic that English f
 
 In English, "human" is a single word. In Arabic, there are at least three different words that all translate as "human" or "person" — and each one **highlights a different dimension** of what it means to be human.
 
-There's *insān* (إنسان) — which the classical lexicographers connect to roots meaning forgetfulness (*nasiya*) and sociality (*uns*). It's the human as a relational, forgetful, meaning-making creature.
+There's *insān* (إنسان) — and here the classical lexicographers didn't all agree on its root. Some trace it to *nasiya* (forgetfulness); others, al-Rāghib al-Iṣfahānī among them, favor *uns* (sociality, intimacy). Either derivation points the same direction: the human as a relational, forgetful, meaning-making creature.
 
 There's *adam* (آدم) — connected to *adīm al-arḍ*, the surface or skin of the earth, recalling the dust we were made from. The human as creature-of-clay.
 
@@ -72,7 +72,7 @@ And there's a third word: *bashar* (بشر) — connected to *basharah*, the out
 
 [PAUSE]
 
-When the Quran wants to highlight the human as a meaning-making being, it tends to use *insān*. When it wants to highlight the human as a biological organism — when it wants to remind you that prophets are made of the same flesh as everyone else — it tends to use *bashar*.
+When the Quran wants to highlight the human as a meaning-making being, it tends to use *insān*. When it wants to highlight the human as a biological organism — when it wants to remind you that prophets are made of the same flesh as everyone else — it tends to use *bashar*. This is a tendency in the usage, not an exceptionless law — both words shift with context — but it's a real enough pattern that the choice here rewards a pause.
 
 Now look at the word Allah chose here.
 
@@ -81,6 +81,8 @@ Now look at the word Allah chose here.
 Not *li-insānin*. Not *li-adamiyyin*. **Li-basharin.** The very word that emphasizes biological mortality. The word that says: this is a body. This is something that decays.
 
 And notice — it's **indefinite**. There's no *al-* on it. The grammar isn't "we did not grant *the* human" — it's "we did not grant *any* human at all." Not even one.
+
+Some classical commentators press this word further than you'd expect. Al-Muyassar notes that this very ayah is cited as evidence that even al-Khiḍr — the mysterious righteous servant of Surah al-Kahf, around whom popular legend has grown claiming he still walks the earth — has died, because he too is *bashar*. If the word closes around a figure people are tempted to exempt from it, then the sweep of *li-basharin* really does mean no one. Not the greatest prophets. Not even the most legendary of the righteous.
 
 Then comes **مِّن قَبْلِكَ** — "from before you."
 

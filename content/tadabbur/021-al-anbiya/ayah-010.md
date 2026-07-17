@@ -14,7 +14,7 @@ passage_context: "This ayah sits in the opening movement of Surah Al-Anbiya, imm
 generated_by: "opus-tadabbur-auto"
 validated: false
 validation_date: "2026-04-29"
-semantic_review: "agent-2026-05-20-critical"
+semantic_review: "enriched-2026-07-16"
 tags: [dhikr, honor, revelation, identity, reasoning, aql, book-of-allah, dignity]
 concepts: [dhikrukum, aql-as-binding, indefinite-kitab, book-as-honor, identity-from-revelation]
 related_ayahs: ["15:9", "21:50", "38:1", "43:44", "94:4"]
@@ -113,9 +113,9 @@ So when Allah says *fīhi dhikrukum* — "in it is your *dhikr*" — He is sayin
 
 **In this Book is your mention. In this Book is your reminder. In this Book is your honor.**
 
-Tabari emphasizes the third meaning as the dominant one — your *sharaf*, your dignity. Ibn ʿAshur develops it further: your standing in the world, your elevation among the nations, your worth in the eyes of your Lord — all of this depends on what is in this Book and your relationship to it. Razi adds the second layer — what you needed to know about yourselves, what reminds you of who you are. Ibn Kathir holds all three together.
+Al-Muyassar renders the phrase directly: *fīhi ʿizzukum wa sharafukum fī-d-dunyā wa-l-ākhirah* — in it is your might and your honor, in this world and the next. Mujahid, as transmitted through Tabari, glosses *dhikrukum* differently — as *ḥadīthukum*, "your discourse," the account of you, what will be said of you. And al-Jalalayn adds a third angle entirely: your *dhikr* is here because the Book came down *bi-lughatikum* — in your own tongue. Not a foreign scripture in a foreign voice, but revelation addressing you, by name, in the words you already speak.
 
-This is what we call a composite sketch, not multiple choice. Each scholar is angling a different camera at the same reality. The full meaning is all of them simultaneously.
+This is what we call a composite sketch, not multiple choice. Honor. Discourse. Address in your own language. Each angle is a different camera on the same reality — and notice that even the third one, the most modest-sounding, is doing quiet work: a Book that speaks your language is a Book that assumes you are worth speaking to directly.
 
 [PAUSE — let this sit]
 

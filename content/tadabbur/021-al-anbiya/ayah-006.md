@@ -14,7 +14,7 @@ passage_context: "This ayah lands inside the opening polemic of Surah Al-Anbiya.
 generated_by: "opus-tadabbur-auto"
 validated: false
 validation_date: "2026-04-29"
-semantic_review: "agent-2026-05-21-critical"
+semantic_review: "enriched-2026-07-16"
 tags: [faith-and-evidence, motivated-reasoning, demand-for-miracles, hidayah, history-as-proof, qaryah, locked-heart, mercy-in-withholding]
 concepts: [motivated-reasoning, ihlak, qaryah, demanded-signs, prophetic-pattern, taqdim, indefinite-under-negation, divine-rhetorical-question]
 related_ayahs: ["21:5", "6:7", "6:25", "10:96", "10:97", "17:59", "26:4", "54:2"]
@@ -98,6 +98,8 @@ And there's a small word in between, **مِن** (*min*), often translated *of* o
 
 Together, these three elements build something English needs five or six words to express: **Not one single town, of any kind, anywhere in the entire history of human civilization, ever once believed.**
 
+There is one more layer classical exegetes add to this word *qaryah* itself. Al-Jalalayn glosses it plainly: *qaryah* here means *ahluhā* — "its people." The town, as a word, is standing in for the people who lived in it. This is not incidental. It means that when Allah later says "We destroyed it," the "it" was never really stone and mudbrick — it was hearts, choices, a community's collective refusal. The ayah is not a story about geography. It is a story about people, dressed in the grammar of a place.
+
 [PAUSE]
 
 Stay with me on this. Allah is not making a probabilistic statement here. He is not saying *most* of them didn't believe. He is not saying *the majority* didn't believe. He is making the strongest possible negative claim: in the entire archive of communities that received the demanded sign and were ultimately destroyed, the rate of belief was zero.
@@ -139,6 +141,8 @@ Allah does not say it the second way. He says it the first way.
 > *Min qaryatin ahlaknāhā* — *of any town that We destroyed.*
 
 The destruction is **already past** in the architecture of the sentence. It is treated as a known, finished, completed feature of these communities. As if Allah is saying: *let me describe the kind of community I am talking about. They are the ones We destroyed. Now — back to the point about belief.*
+
+Classical commentators, including al-Tabari and al-Muyassar, fill in the detail this description compresses: these were communities whose own people had asked their own messengers for miracles — the very demand the Quraysh are now repeating — and the miracles came, exactly as requested, fulfilled (*taḥaqqaqat*, in al-Muyassar's phrase). Only then did they deny. Only then did the destruction follow. The ayah is not describing a hypothetical failure mode. It is naming an already-completed experiment: sign asked for, sign given, sign rejected, community erased.
 
 [PAUSE]
 
