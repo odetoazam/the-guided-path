@@ -14,7 +14,7 @@ passage_context: "Surah Al-Hajj opens with the cosmic earthquake of the Hour (22
 generated_by: "opus-tadabbur-auto"
 validated: false
 validation_date: "2026-04-29"
-semantic_review: "agent-2026-05-21-critical"
+semantic_review: "enriched-2026-07-15"
 tags: [resurrection, embryology, dead-earth, doubt, signs-in-the-self, ba'th, rayb, hamidah]
 concepts: [istidlal-al-maqul-bil-mahsus, ayat-anfusikum, ba'th, embryological-stages, dead-earth-parable, agitating-doubt, the-body-as-sign]
 related_ayahs: ["23:12-14", "75:36-40", "41:39", "30:19", "36:78-79", "50:11", "51:21"]
@@ -42,7 +42,7 @@ And then — almost without warning — the surah pivots. From the cosmic shakin
 
 It turns to **the one who argues about Allah without knowledge.** The one who, when told the dead will be raised, feels something inside them that won't settle. A flicker of unease. A whisper that says: *Really? From dust? From bones? From the scattered atoms of a body the worms ate a thousand years ago?*
 
-The Quraysh of Mecca had that whisper. They would crumble a bone in their fingers, blow the dust into the air, and laugh: *Who will give life to this?*
+The Quraysh of Mecca had that whisper. They would crumble a bone in their fingers, blow the dust into the air, and laugh: *Who will give life to this?* Al-Jalalayn notes that the address *yā ayyuhā al-nās* — "O humanity" — landed first on exactly these people, *ahl Makkah*, before it ever widened, as the Quran's addresses always do, to carry every generation after them.
 
 But the whisper isn't unique to them. It crosses every era. The skeptic in 7th-century Arabia and the skeptic in your university dorm room are listening to the same voice. *How can it be? It defies what I know about decay and entropy and biology.*
 
@@ -52,7 +52,7 @@ Most thinkers, when they argue, give you a logical proof. They build a chain of 
 
 Allah does something else here. [PAUSE]
 
-He doesn't argue with you. He **walks you through what has already happened to you.**
+He doesn't argue with you. He **walks you through what has already happened to you.** Al-Tabari frames the ayah in exactly these terms: this is Allah's own *iḥtijāj* — His direct rebuttal — aimed at the very disputer just described a verse earlier, the one who argues about Allah without knowledge, following a rebellious Shayṭān. The refutation isn't abstract. It is aimed, personally, at the doubt sitting in your chest right now.
 
 He says: you don't need a proof of resurrection. You **are** the proof of resurrection. The body you are sitting in right now is the case study. The earth you watched come back to life last spring is the demonstration.
 
@@ -118,7 +118,7 @@ When Allah uses *thumma*, He is telling you: **these are not adjacent moments. T
 
 Now hold that in mind, and look at the chain again.
 
-Between **dust and a drop**, there is a vast gap. The minerals of the earth become food, the food becomes blood, the blood becomes the substance of reproduction. Years pass.
+Between **dust and a drop**, the gap is wider than a single lifetime. Al-Jalalayn reads *khalaqnākum min turāb* as reaching all the way back to Adam himself — *aṣlukum Ādam*, "your origin is Adam" — molded directly from clay. The *thumma* that follows, *min nuṭfah*, turns the address to his descendants, created "from a drop" ever since. You did not personally pass through the dust stage; Adam did that once, for all of us, and every womb since has picked up the thread at the drop. And yet the dust never really leaves the chain — the minerals of the earth still become the food that becomes the substance carried into a womb, generation folding into generation, so that even your own body, this year, is dust that took the long way.
 
 Between **a drop and a clinging thing**, there is biology so subtle that humanity could not see it without microscopes invented in the last few centuries.
 
@@ -128,7 +128,7 @@ And between each stage, Allah places that small word: **thumma. Thumma. Thumma.*
 
 Here is the argument, hiding in the grammar:
 
-You are skeptical that scattered dust can return to a living body? **Allah has already done that to you.** You started as scattered dust, scattered minerals in the earth your great-grandparents walked on. Then those minerals became the food your parents ate. Then your father's body produced a single drop. Then that drop, in your mother's womb, attached itself like a leech. Then it became a chewed-looking mass. Then bones. Then flesh on bones. Then a child crying in the cold of the world.
+You are skeptical that scattered dust can return to a living body? **Allah has already done that to you.** Adam was gathered from scattered earth once; you are gathered, every time, from a single drop — itself descended from that same dust through an unbroken chain of food and blood and generation. Then that drop, in your mother's womb, attached itself like a leech. Then it became a chewed-looking mass. Then bones. Then flesh on bones. Then a child crying in the cold of the world.
 
 **Every stage was a resurrection.** Every *thumma* was a closed door that, if you had been the dust, you would have sworn could not open.
 
@@ -138,11 +138,11 @@ Allah is not arguing the case for resurrection. He is saying: *you are the case.
 
 [PAUSE]
 
-Notice one more thing. He says *mukhallaqatin wa-ghayri mukhallaqah* — "formed and unformed." The classical scholars give two readings here. Some say it refers to the embryo developing through stages of formedness — at one moment its features are indistinct, at another they are taking shape. Others say it refers to the simple fact that some embryos make it to birth and some do not. Both readings are part of the picture. Allah is reminding the listener that even within the womb, life and not-yet-life sit side by side, and only He decides which becomes which.
+Notice one more thing. He says *mukhallaqatin wa-ghayri mukhallaqah* — "formed and unformed." Al-Muyassar and al-Jalalayn both read this the same way: *mukhallaqah* is the fully formed lump, the one whose creation is completed and that goes on to be born alive; *ghayr mukhallaqah* is the one whose formation is not completed, and that falls away before term. Some commentators extend this to the embryo's own developing stages — indistinct at one moment, taking shape at another — but the core classical reading is starker than that: even inside the womb, at the same instant, life and non-life sit side by side, and only Allah decides which becomes which.
 
 Then He places a parenthesis: *li-nubayyina lakum* — "**that We may make [things] clear for you.**"
 
-Sit with that for a moment. The whole biological cascade exists, in part, **so that you might understand.** The stages are a teaching. The embryo is a lecture. You did not just happen — you were narrated, slowly, deliberately, so that one day you could look back at the narration and say: *this could not be by accident.*
+Sit with that for a moment. Al-Jalalayn is precise about what is being made clear: not a vague wonder at biology, but *kamāl qudratinā* — the completeness of Our power — placed there so that you might *infer from it*, reasoning from how creation **began** (*ibtidāʾ*) to how it will be **repeated** (*iʿādah*). The embryo is not simply a lecture on life. It is a lecture on return. You did not just happen — you were narrated, slowly, deliberately, so that one day you could look back at the narration and say: *this could not be by accident.*
 
 ### Element Three: هَامِدَةً and the Three-Verb Resurrection
 
@@ -150,7 +150,7 @@ Allah completes the human journey — childhood, full strength, the one who is t
 
 (I want to pause here briefly. Allah does not skip our decline. He includes it in the argument. The Alzheimer's patient who no longer recognizes their child. The brilliant scholar who can no longer remember a single ayah he memorized as a boy. *Likay-lā yaʿlama min baʿdi ʿilmin shay'ā* — "so that he knows nothing after [having had] knowledge." Allah is reminding us: even the mind, the most stable thing we own, is on loan. Even consciousness can be unwound.)
 
-But then — without transition, without a connective phrase like "and consider also" — Allah pivots away from the body. He turns your face to the ground:
+But then — without transition, without a connective phrase like "and consider also" — Allah pivots away from the body. He turns your face toward the ground:
 
 > *wa-tarā al-arḍa hāmidatan — fa-idhā anzalnā ʿalayhā al-mā'a ihtazzat wa-rabat wa-anbatat min kulli zawjin bahīj*
 
@@ -315,7 +315,7 @@ Now, having walked through both the linguistic journey and the themes, look at w
 It moves through **two parallel resurrections, side by side, woven together.**
 
 The human journey:
-**Dust** → drop → clinging clot → chewed lump → child → full strength → death **OR** decline into the most despicable age (forgetting what was known)
+**Dust** (Adam) → drop → clinging clot → chewed lump → child → full strength → death **OR** decline into the most despicable age (forgetting what was known)
 
 The earth's journey:
 **Dead, collapsed, finished** (hāmidah) → trembling → swelling → bringing forth every beautiful pair
@@ -330,11 +330,11 @@ If you say: "I do not trust the parable of the earth," Allah replies: "Then look
 
 The two doors of doubt are closed at the same time, by the same Hand. There is no exit from the argument that does not require willful blindness to one or the other.
 
-This is why this ayah, in classical tafsir, is called the *āyat al-burhān* of resurrection — the ayah of demonstration. It is not a proof you read. It is a proof you **inhabit.** You are inside the demonstration as you read it.
+This is the kind of ayah classical scholars point to as *burhān* — demonstration rather than mere argument. It is not a proof you read. It is a proof you **inhabit.** You are inside the demonstration as you read it.
 
 ### Bringing It Together
 
-Linguistically, we found three things. The unsettled doubt that this ayah is addressed to. The cascade of *thumma* that hides the proof inside the syntax. The three verbs of resurrection that mirror the embryological stages.
+Linguistically, we found three things. The unsettled doubt that this ayah is addressed to. The cascade of *thumma* that hides the proof inside the syntax — a proof that runs from Adam's dust to your own drop, and asks you to infer the ending (*iʿādah*) from the beginning (*ibtidāʾ*). The three verbs of resurrection that mirror the embryological stages.
 
 Thematically, we found two things. That your body is itself the argument you were searching for. That the earth has been teaching you the lesson of the Hour every year of your life.
 

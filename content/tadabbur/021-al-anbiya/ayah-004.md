@@ -14,7 +14,7 @@ passage_context: "Surah Al-Anbiya opens with a portrait of humanity sleepwalking
 generated_by: "opus-tadabbur-auto"
 validated: false
 validation_date: "2026-04-29"
-semantic_review: "agent-2026-05-27-critical"
+semantic_review: "enriched-2026-07-15"
 tags: [privacy, najwa, divine-knowledge, sami, alim, surveillance, secret-speech, divine-attributes, conspiracy, illusion]
 concepts: ["as-Sami'", "al-'Alim", "najwā", "ya'lamu al-qawl", "divine omniscience", "illusion of privacy", "hearing vs knowing", "asarrū", "cosmic scope"]
 related_ayahs: ["21:3", "58:7", "50:16", "17:110", "87:7", "67:13", "20:7"]
@@ -44,13 +44,15 @@ Mecca, late in the daʿwah. The Prophet ﷺ is being mocked publicly. But behind
 
 The ayah right before ours — 21:3 — describes them with two devastating phrases. Their hearts are *lāhiya* — distracted, drifting. And then: **وَأَسَرُّوا۟ ٱلنَّجْوَى** — "and they concealed the najwā." A *najwā* is not just a conversation. It is a specific kind of speech — the private consultation, the whispered exchange between two or three people who do not want others to hear. They didn't just have a najwā. They *concealed* it. A double layer of privacy. A whisper hidden inside a whisper.
 
-And in their minds, this gave them safety. A closed room. Trusted faces. Lowered voices. Nobody in earshot. Whatever they were planning — whatever venom about the Prophet ﷺ, whatever mockery, whatever scheme — it was *theirs*. Sealed. Owned. Private.
+And in their minds, this gave them safety. A closed room. Trusted faces. Lowered voices. Nobody in earshot. We actually know, from the rest of ayah 3 itself, roughly what moved through that whisper — the same tired case dressed up as private consensus: *"Is this not but a human being like yourselves? Would you then approach magic while you can see?"* Not a new argument. The same accusation Quraysh had been throwing in public — he's just a man, and this must be sorcery — now rehearsed quietly, as though saying it in a closed room made it truer. Whatever else moved through that circle, this was its center. Sealed. Owned. Private.
 
 Now hold that picture: the closed door, the lowered voices, the conspiratorial circle, the certainty that nobody knows.
 
 [PAUSE]
 
 This is the room into which ayah 4 speaks.
+
+(Worth a pause on the grammar before we go further: the classical qurrāʾ transmit two valid readings of the ayah's opening word. Most read it *qāla* — "he said" — meaning the Prophet ﷺ, faced with their whisper, simply handed the matter back to his Lord. A minority reading has it *qul* — "say" — meaning Allah is directly commanding him to speak these words to the very people who had just called him a sorcerer. Two different grammatical shapes, the same content: either way, the answer to a private conspiracy comes from the same Source.)
 
 ### The Hook
 
@@ -168,6 +170,8 @@ Together, *as-Samīʿ* and *al-ʿAlīm* perform a kind of double witnessing that
 
 This is the architectural completeness of the closing pairing.
 
+Classical commentary makes this pairing's target explicit rather than leaving it as general theology. Al-Jalalayn glosses *as-Samīʿ* here as the Hearer "of what they concealed" and *al-ʿAlīm* as the Knower "of it" — tying both names, without ambiguity, back to that one verb from 21:3, *asarrū*, what they concealed. The names are not decoration dropped into the close of the verse. They are the precise rebuttal to the precise verb the conspirators used to describe their own safety.
+
 And notice the order. Earlier in the ayah Allah said *yaʿlamu* — He knows. Now at the end the names come *Samīʿ* first, then *ʿAlīm*. Knowledge wraps around the verse — opening with knowing, closing with hearing-and-knowing — and inside that envelope, the speech of all creation has been caught from both sides.
 
 The verse is a sealed room — sealed not against meaning escaping, but sealed in the sense that no speech and no thought can escape *out* of it.
@@ -204,7 +208,7 @@ Now think about what we've added in the last twenty years. The encrypted message
 
 This ayah is the demolition of that assumption.
 
-Not as a threat. Read it again — there is no threat language here. No *"and We will recompense them."* No *"and We have prepared for them..."* The ayah is not punishing — it is *informing*. Stating a fact about the structure of reality. Privacy, as we have constructed it in our minds, does not exist. *as-Samīʿ al-ʿAlīm* is not a security camera that we forgot was there. He is the medium in which the speech is happening. There is no "outside" of His hearing because there is no "outside" of Him at all.
+Not primarily as a threat — though it's worth being honest that classical commentators don't read it as pure comfort either. Al-Muyassar glosses the verse as carrying *tahdīd* and *waʿīd* — a warning and a threat — aimed squarely at the conspirators of 21:3, and that reading is right about the room this ayah was first spoken into. But notice what the ayah itself withholds: there is no explicit threat language here. No *"and We will recompense them."* No *"and We have prepared for them..."* The ayah does not need to add a punishment clause — it simply *informs*, and stating a fact about the structure of reality turns out to already be enough: a warning to the conspirator, and in the very same breath, a comfort to everyone else standing in that same reality. Privacy, as we have constructed it in our minds, does not exist. *as-Samīʿ al-ʿAlīm* is not a security camera that we forgot was there. He is the medium in which the speech is happening. There is no "outside" of His hearing because there is no "outside" of Him at all.
 
 And here is where this becomes life-altering rather than merely terrifying.
 
