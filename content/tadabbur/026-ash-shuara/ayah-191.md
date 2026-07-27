@@ -5,6 +5,7 @@ ayah_start: 191
 ayah_end: 191
 slug: "026-191"
 category: tadabbur
+---
 
 ### Element Two: *La-Huwa* — The Triple Emphasis
 
@@ -44,7 +45,6 @@ Because — and this is the quiet edge of the verse — Quraysh would have agree
 
 The pronoun is doing theological work no other word in the sentence can do.
 
----
 
 ### Element Three: *Al-'Azīzu ar-Raḥīm* — The Pairing and Its Order
 

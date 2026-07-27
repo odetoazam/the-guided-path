@@ -18,6 +18,7 @@ semantic_review: "agent-2026-05-21-critical"
 tags: [modesty, hijab, gaze, community, tawbah, falah, zinah, khimar, iltifat, women, an-nur]
 concepts: [ghadd-al-basar, hifz-al-furuj, zinah, khumur, juyub, tawbah-jamaiyyah, falah, iltifat]
 related_ayahs: ["24:30", "33:59", "33:33", "24:60", "7:26"]
+---
 
 <!-- morphology pruned: key roots (غ-ض-ض، ح-ف-ظ، ز-ي-ن، خ-م-ر، ج-ي-ب، ض-ر-ب، ت-و-ب، ف-ل-ح) documented in classical lexicons (Lisān al-ʿArab, Mufradāt al-Rāghib); linguistic journey draws only on lexically attested meanings. -->
 
@@ -52,7 +53,6 @@ Stay with that question. We'll arrive at it.
 
 [PAUSE]
 
----
 
 ## PART 1: The Linguistic Journey
 
