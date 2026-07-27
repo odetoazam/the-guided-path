@@ -60,10 +60,15 @@ export const ROADMAP = {
     'Interpretive-read workflow for the 272 auto-verified files (Fable first-pass flagger + human final call?) and executing the tafsir re-key plan to unlock enrichment of the 566.',
     'Definition of "substrate v1.0 done" — measurable gates so graph work has a finish line (deliberation F5); discovery below DF≤10 stays closed pending a phrase-level method.',
     'Do we collect user reflections? Unlocks longitudinal memory (the Blomma moat).',
+    'Paths bet review 2026-09-25: do article/hub attribution strips (?src=) beat the old homepage baseline (9 visitors/60d)? If not, archive paths.',
     'Monetization + scholar endorsements: who first, what the ask looks like.',
   ],
 
   shipped: [
+    { title: 'Landing redesign (advisor/persona-tested): content-forward hero, articles surfaced, honest paths band', date: 'Jul 2026' },
+    { title: 'Paths distribution: /paths index + attribution strips on article/hub pages (instrumented)', date: 'Jul 2026' },
+    { title: 'FAQ AEO layer: 36 Q&As across top-10 organic articles (FAQPage schema 1→11)', date: 'Jul 2026' },
+    { title: 'Quranic economics article cluster (5 corpus-verified articles + Fable QA pass)', date: 'Jul 2026' },
     { title: 'Motif-level munāsabāt review: 643 roots, +669 confirmed edges with quotable bases', date: 'Jul 2026' },
     { title: 'Graph substrate hardening: freshness gate, provenance-preserving promotion, validation triage (0 defects)', date: 'Jul 2026' },
     { title: 'Corpus coverage COMPLETE — all 6,236 ayahs', date: 'Jul 2026' },
