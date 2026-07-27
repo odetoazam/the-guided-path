@@ -1,4 +1,7 @@
 ---
+ayah_start: 23
+ayah_end: 23
+category: tadabbur
 title: "The Quran Enters Through the Skin"
 surah: 39
 surah_name: "Az-Zumar"

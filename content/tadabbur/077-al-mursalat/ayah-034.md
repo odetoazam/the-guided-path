@@ -1,4 +1,11 @@
 ---
+surah: 77
+surah_name: "Al-Mursalat"
+ayah_start: 34
+ayah_end: 34
+title: "Woe Without a Name: The Refrain That Counts Every Denial"
+slug: "077-034"
+category: tadabbur
 
 ```
 ---

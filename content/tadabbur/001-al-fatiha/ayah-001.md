@@ -39,10 +39,10 @@ ABSENCE FLAGS:
 MORPHOLOGY TAGS:
 -->
 <!-- morphology:1:1:1 pos=P -->
-<!-- morphology:1:1:2 root=s-m-w pos=N -->
-<!-- morphology:1:1:3 root=a-l-h pos=N -->
-<!-- morphology:1:1:5 root=r-h-m pos=N -->
-<!-- morphology:1:1:7 root=r-h-m pos=N -->
+<!-- morphology:1:1:2 root=سمو pos=N -->
+<!-- morphology:1:1:3 root=أله pos=N -->
+<!-- morphology:1:1:5 root=رحم pos=N -->
+<!-- morphology:1:1:7 root=رحم pos=N -->
 
 ---
 

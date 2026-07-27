@@ -1,4 +1,7 @@
 ---
+surah_name: "Az-Zumar"
+ayah_start: 42
+ayah_end: 42
 surah: 39
 ayah: 42
 surahName: Az-Zumar

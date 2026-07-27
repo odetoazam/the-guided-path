@@ -1,4 +1,7 @@
 ---
+ayah_start: 7
+ayah_end: 7
+category: tadabbur
 title: "The Oath He Made for One Side and Refused to Make for the Other"
 surah: 14
 surah_name: "Ibrahim"

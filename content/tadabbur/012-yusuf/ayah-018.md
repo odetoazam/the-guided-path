@@ -1,4 +1,8 @@
 ---
+ayah_start: 18
+ayah_end: 18
+slug: "012-018"
+category: tadabbur
 title: "The Verbless Center — Where Yaqub Stood When the World Brought Him a Decorated Lie"
 surah: 12
 surah_name: "Yusuf"

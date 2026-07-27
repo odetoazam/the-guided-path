@@ -1,4 +1,7 @@
 ---
+ayah_start: 22
+ayah_end: 22
+category: tadabbur
 title: "The Question Is Not Which Path — The Question Is Where You Are Looking"
 surah: 67
 surah_name: "Al-Mulk"

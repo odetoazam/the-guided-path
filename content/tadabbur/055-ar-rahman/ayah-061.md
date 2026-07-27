@@ -1,4 +1,11 @@
 ---
+surah: 55
+surah_name: "Ar-Rahman"
+ayah_start: 61
+ayah_end: 61
+title: "So Which of the Favors of Your Lord Will You Both Deny?"
+slug: "055-061"
+category: tadabbur
 
 ---
 surah: 55

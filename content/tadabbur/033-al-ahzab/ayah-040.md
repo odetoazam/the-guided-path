@@ -1,4 +1,8 @@
 ---
+surah_name: "Al-Ahzab"
+ayah_start: 40
+ayah_end: 40
+category: tadabbur
 title: "The Seal — Why Prophethood Ended With Him, and What a Seal Actually Is"
 ayah: "33:40"
 surah: "Al-Ahzab"

@@ -1,4 +1,8 @@
 ---
+surah_name: "Aal-Imran"
+ayah_start: 7
+ayah_end: 7
+category: tadabbur
 title: "Muḥkam and Mutashābih — The Ayah That Teaches You How to Read the Quran"
 ayah: "3:7"
 surah: "Aal-Imran"

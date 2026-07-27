@@ -1,4 +1,7 @@
 ---
+surah_name: "Al-Mulk"
+ayah_start: 19
+ayah_end: 19
 surah: 67
 ayah: 19
 surahName: Al-Mulk

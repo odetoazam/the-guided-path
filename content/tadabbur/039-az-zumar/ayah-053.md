@@ -1,4 +1,9 @@
 ---
+surah_name: "Az-Zumar"
+ayah_start: 53
+ayah_end: 53
+slug: "039-053"
+category: tadabbur
 title: "The Door You Cannot Lock From the Outside — Why Allah Still Calls You 'Mine'"
 ayah: "39:53"
 surah: "Az-Zumar"

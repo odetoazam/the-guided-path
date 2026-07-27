@@ -1,4 +1,8 @@
 ---
+ayah_start: 53
+ayah_end: 53
+slug: "012-053"
+category: tadabbur
 title: "The Soul That Commands — What Yusuf Knew About the Voice Inside"
 surah: 12
 surah_name: "Yusuf"

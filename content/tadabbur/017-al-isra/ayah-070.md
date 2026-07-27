@@ -1,4 +1,8 @@
 ---
+surah_name: "Al-Isra"
+ayah_start: 70
+ayah_end: 70
+category: tadabbur
 title: "You Were Honored Before You Did Anything — The Verb That Made Dignity Your Nature"
 ayah: "17:70"
 surah: "Al-Isra"

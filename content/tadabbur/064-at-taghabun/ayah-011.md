@@ -1,4 +1,8 @@
 ---
+surah_name: "At-Taghabun"
+ayah_start: 11
+ayah_end: 11
+category: tadabbur
 title: "No Calamity Except by His Permission — The Arrow That Became Direction"
 ayah: "64:11"
 surah: "At-Taghabun"

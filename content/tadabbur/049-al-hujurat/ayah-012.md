@@ -1,4 +1,8 @@
 ---
+surah_name: "Al-Hujurat"
+ayah_start: 12
+ayah_end: 12
+category: tadabbur
 title: "The Dead Brother's Flesh — The Ayah That Made the Invisible Sin Visible"
 ayah: "49:12"
 surah: "Al-Hujurat"

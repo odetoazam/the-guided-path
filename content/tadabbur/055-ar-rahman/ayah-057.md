@@ -1,4 +1,11 @@
 ---
+surah: 55
+surah_name: "Ar-Rahman"
+ayah_start: 57
+ayah_end: 57
+title: "The Question Asked Thirty-One Times"
+slug: "055-057"
+category: tadabbur
 
 ```
 ---

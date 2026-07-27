@@ -1,4 +1,9 @@
 ---
+surah_name: "Qaf"
+ayah_start: 16
+ayah_end: 16
+slug: "050-016"
+category: tadabbur
 title: "Closer Than Your Own Pulse — The Ayah That Collapses Every Distance You Thought Existed Between You and Allah"
 ayah: "50:16"
 surah: "Qaf"

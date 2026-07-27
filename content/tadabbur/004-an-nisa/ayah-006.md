@@ -1,4 +1,6 @@
 ---
+ayah_start: 6
+ayah_end: 6
 surah: 4
 surah_name: An-Nisa
 ayahs: "6"

@@ -1,4 +1,10 @@
 ---
+surah: 3
+surah_name: "Aal-Imran"
+ayah_start: 9
+ayah_end: 9
+slug: "003-009"
+category: tadabbur
 
 The *mifʿāl* pattern in Arabic is the pattern of **instruments and appointed places and fixed times** — think *miftāḥ* (a key, the instrument of opening), *mīqāt* (an appointed time and place). So *al-mīʿād* is not a vague promise floating in the air. It is **the appointed tryst.** The fixed rendezvous. The meeting that has a time stamped on it and a place marked for it.
 

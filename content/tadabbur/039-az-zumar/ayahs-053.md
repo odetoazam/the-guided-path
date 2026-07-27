@@ -1,4 +1,7 @@
 ---
+ayah_start: 53
+ayah_end: 53
+category: tadabbur
 title: "The One You Wronged Still Calls You 'Mine'"
 surah: 39
 surah_name: "Az-Zumar"

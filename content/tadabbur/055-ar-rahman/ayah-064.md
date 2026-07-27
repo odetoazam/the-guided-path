@@ -1,4 +1,11 @@
 ---
+surah: 55
+surah_name: "Ar-Rahman"
+ayah_start: 64
+ayah_end: 64
+title: "Dark Green: The One Word So Full It Darkens"
+slug: "055-064"
+category: tadabbur
 
 ```
 ---

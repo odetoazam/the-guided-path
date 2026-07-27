@@ -1,4 +1,11 @@
 ---
+surah: 3
+surah_name: "Aal-Imran"
+ayah_start: 30
+ayah_end: 30
+title: "The Distance You Cannot Buy"
+slug: "003-030"
+category: tadabbur
 
 ```
 ---

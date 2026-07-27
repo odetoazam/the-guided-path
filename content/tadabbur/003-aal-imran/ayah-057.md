@@ -1,4 +1,11 @@
 ---
+surah: 3
+surah_name: "Aal-Imran"
+ayah_start: 57
+ayah_end: 57
+title: "Paid in Full: The Wage That Is Settled and the Love That Cannot Be"
+slug: "003-057"
+category: tadabbur
 
 ```markdown
 ---

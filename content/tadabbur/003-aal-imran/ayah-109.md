@@ -1,4 +1,11 @@
 ---
+surah: 3
+surah_name: "Aal-Imran"
+ayah_start: 109
+ayah_end: 109
+title: "And To Him Return All Matters"
+slug: "003-109"
+category: tadabbur
 
 ```
 ---

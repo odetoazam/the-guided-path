@@ -1,4 +1,8 @@
 ---
+surah_name: "Al-Baqarah"
+ayah_start: 269
+ayah_end: 269
+category: tadabbur
 title: "Hikmah — The Gift That Contains Every Other Gift"
 ayah: "2:269"
 surah: "Al-Baqarah"
