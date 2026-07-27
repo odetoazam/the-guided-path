@@ -14,7 +14,7 @@ import type { Metadata } from 'next'
 const HOMEPAGE_OG_IMAGE = '/api/og/quote?text=A%20contemplative%20companion%20for%20reading%20the%20Qur%27an.&cite=AyahGuide'
 
 export const metadata: Metadata = {
-  description: 'Deep Quranic reflections (tadabbur) grounded in Ibn Kathir, al-Tabari, and classical Arabic morphology. 114 surahs, 160+ articles.',
+  description: 'Deep Quranic reflections (tadabbur) grounded in Ibn Kathir, al-Tabari, and classical Arabic morphology. 114 surahs, 200+ articles.',
   alternates: {
     canonical: CANONICAL_URL,
   },
@@ -25,6 +25,40 @@ export const metadata: Metadata = {
   twitter: {
     images: [HOMEPAGE_OG_IMAGE],
   },
+}
+
+interface HomeArticle {
+  title: string
+  slug: string
+  excerpt: string | null
+  reading_time_minutes: number | null
+  entity_tags: { is_primary: boolean; entities: { name_arabic: string | null } | null }[]
+}
+
+async function getLatestArticles(): Promise<{ articles: HomeArticle[]; total: number }> {
+  try {
+    const supabase = await createClient()
+    const [{ data }, { count }] = await Promise.all([
+      supabase
+        .from('posts')
+        .select(
+          'title, slug, excerpt, reading_time_minutes, featured, published_at, entity_tags ( is_primary, entities:entity_id ( name_arabic ) )'
+        )
+        .eq('status', 'published')
+        .eq('type', 'article')
+        .order('featured', { ascending: false })
+        .order('published_at', { ascending: false })
+        .limit(4),
+      supabase
+        .from('posts')
+        .select('id', { count: 'exact', head: true })
+        .eq('status', 'published')
+        .eq('type', 'article'),
+    ])
+    return { articles: (data as unknown as HomeArticle[]) || [], total: count ?? 0 }
+  } catch {
+    return { articles: [], total: 0 }
+  }
 }
 
 async function getPublishedSurahs(): Promise<number[]> {
@@ -42,7 +76,10 @@ async function getPublishedSurahs(): Promise<number[]> {
 }
 
 export default async function LandingPage() {
-  const publishedSurahs = await getPublishedSurahs()
+  const [publishedSurahs, { articles, total: articleCount }] = await Promise.all([
+    getPublishedSurahs(),
+    getLatestArticles(),
+  ])
 
   const websiteJsonLd = {
     '@context': 'https://schema.org',
@@ -228,6 +265,72 @@ export default async function LandingPage() {
 
       {/* Surah Map Teaser */}
       <SurahMapTeaser publishedSurahs={publishedSurahs} />
+
+      {/* Article library */}
+      {articles.length > 0 && (
+        <section id="articles" className="relative border-t border-zinc-200 dark:border-zinc-800/50 py-20 px-6">
+          <div className="mx-auto max-w-5xl">
+            <ScrollReveal>
+              <p className="text-center text-xs font-medium tracking-[0.2em] uppercase text-zinc-400 dark:text-cream/30">
+                From the article library
+              </p>
+              <h2 className="mt-3 text-center font-serif text-2xl sm:text-3xl font-bold text-navy dark:text-cream">
+                What the Arabic is actually doing
+              </h2>
+              <p className="mx-auto mt-3 max-w-xl text-center text-sm leading-relaxed text-zinc-500 dark:text-cream/50">
+                {articleCount} close readings — character studies, cross-surah connections, and single-word discoveries, every claim checked against the corpus and classical tafsir.
+              </p>
+            </ScrollReveal>
+
+            <div className="mt-10 grid gap-4 sm:grid-cols-2">
+              {articles.map((article, i) => {
+                const arabic = article.entity_tags?.find(t => t.is_primary && t.entities)?.entities?.name_arabic
+                return (
+                  <ScrollReveal key={article.slug} delay={i * 80}>
+                    <Link
+                      href={`/posts/${article.slug}`}
+                      className="group relative flex h-full flex-col overflow-hidden rounded-2xl border border-zinc-200 bg-white p-6 transition-colors duration-300 hover:border-[rgba(212,175,55,0.35)] dark:border-white/[0.06] dark:bg-white/[0.02] dark:hover:border-[rgba(212,175,55,0.3)]"
+                    >
+                      {arabic && (
+                        <div
+                          aria-hidden
+                          className="pointer-events-none absolute right-5 top-4 select-none leading-none text-[rgba(212,175,55,0.12)] transition-colors duration-300 group-hover:text-[rgba(212,175,55,0.2)]"
+                          style={{ fontFamily: "var(--font-amiri,'Amiri'),serif", fontSize: '2.6rem', direction: 'rtl' }}
+                        >
+                          {arabic}
+                        </div>
+                      )}
+                      <h3 className="relative max-w-[85%] font-serif text-lg font-semibold leading-snug text-navy-dark dark:text-cream group-hover:text-[#b8953f] dark:group-hover:text-[rgba(212,175,55,0.85)] transition-colors">
+                        {article.title}
+                      </h3>
+                      {article.excerpt && (
+                        <p className="relative mt-2.5 text-sm leading-relaxed text-zinc-500 dark:text-zinc-400 line-clamp-2">
+                          {article.excerpt}
+                        </p>
+                      )}
+                      <div className="relative mt-auto pt-4 flex items-center gap-2 text-xs text-zinc-400 dark:text-cream/30">
+                        <span className="font-medium text-[rgba(212,175,55,0.65)]">Read</span>
+                        {article.reading_time_minutes && <span>· {article.reading_time_minutes} min</span>}
+                      </div>
+                    </Link>
+                  </ScrollReveal>
+                )
+              })}
+            </div>
+
+            <ScrollReveal delay={200}>
+              <div className="mt-8 text-center">
+                <Link
+                  href="/articles"
+                  className="inline-flex items-center gap-2 rounded-full border border-zinc-300 dark:border-navy-light/40 px-6 py-2.5 text-sm font-medium text-navy dark:text-cream/80 hover:bg-zinc-100 dark:hover:bg-navy-medium/50 transition-colors"
+                >
+                  Browse all {articleCount} articles →
+                </Link>
+              </div>
+            </ScrollReveal>
+          </div>
+        </section>
+      )}
 
       {/* Subscribe Section */}
       <section id="subscribe" className="relative border-t border-zinc-200 dark:border-zinc-800/50 py-28 px-6">
