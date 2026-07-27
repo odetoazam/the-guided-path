@@ -11,6 +11,7 @@ import { CANONICAL_URL, SITE_NAME } from '@/lib/constants'
 import { extractFaqFromHtml, buildArticleFaqJsonLd } from '@/lib/article-faqs'
 import type { Entity, EntityCategory } from '@/types'
 import { ArticleContent } from '@/components/ArticleContent'
+import { PathAttribution } from '@/components/paths/PathAttribution'
 import { PostActions } from '@/components/PostActions'
 import { ReflectionEditor } from '@/components/ReflectionEditor'
 import { SelectionQuoteShare } from '@/components/share/SelectionQuoteShare'
@@ -475,6 +476,8 @@ export default async function PostPage({ params }: Props) {
 
         {/* Content */}
         <ArticleContent html={contentHtml} ayahGroundings={ayahGroundings} />
+
+        <PathAttribution type="article" slug={post.slug} source="article-strip" />
 
         {/* Entity tag pills — all tagged entities (primary + secondary) */}
         {entityTags.length > 0 && (

@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import { ScrollReveal } from '@/components/ui/scroll-reveal'
-import { BookOpen, Mail } from 'lucide-react'
+import { BookOpen } from 'lucide-react'
 import { NewsletterSignup } from '@/components/blog/newsletter-signup'
 import { SiteNav } from '@/components/ui/site-nav'
 import { Logo } from '@/components/ui/logo'
@@ -141,8 +141,8 @@ export default async function LandingPage() {
     <div className="min-h-screen bg-white dark:bg-navy-dark">
       <SiteNav />
 
-      {/* Hero */}
-      <section className="relative flex min-h-screen items-center justify-center overflow-hidden px-6">
+      {/* Hero — compact: route readers into content, no email capture */}
+      <section className="relative overflow-hidden px-6 pb-16 pt-24 sm:pb-20 sm:pt-28">
         {/* Conic gradient tessellation */}
         <div
           aria-hidden
@@ -158,28 +158,26 @@ export default async function LandingPage() {
         />
         {/* Radial gold glow */}
         <div className="absolute inset-0 bg-[radial-gradient(ellipse_600px_400px_at_50%_40%,_rgba(212,175,55,0.08),_transparent)]" />
-        <div className="absolute inset-0 bg-[radial-gradient(ellipse_800px_600px_at_50%_60%,_rgba(212,175,55,0.04),_transparent)]" />
 
         <div className="relative mx-auto max-w-4xl text-center">
           {/* Bismillah */}
-          <div className="mb-10 font-amiri text-4xl sm:text-5xl text-gold-500/40 leading-relaxed select-none" dir="rtl">
+          <div className="mb-8 font-amiri text-3xl sm:text-4xl text-gold-500/40 leading-relaxed select-none" dir="rtl">
             بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
           </div>
 
-          <h1 className="text-4xl font-bold leading-tight tracking-tight sm:text-5xl lg:text-6xl">
-            <span className="text-navy dark:text-cream">Receive Spiritual Guidance</span>
-            <br />
-            <span className="text-gold-gradient">From Quranic Contemplation</span>
+          <h1 className="text-4xl font-bold leading-tight tracking-tight sm:text-5xl">
+            <span className="text-navy dark:text-cream">Read the Quran </span>
+            <span className="text-gold-gradient">the way it asks to be read</span>
           </h1>
 
-          <p className="mx-auto mt-6 max-w-2xl text-lg text-zinc-500 dark:text-cream/60 leading-relaxed">
-            A contemplative companion for reading the Quran. Grounded in classical tafsir and the Arabic corpus, AyahGuide helps you move past translation into the layered linguistic, thematic, and structural depth the text itself invites — a practice the Quran calls <em>tadabbur</em>.
+          <p className="mx-auto mt-5 max-w-2xl text-lg text-zinc-500 dark:text-cream/60 leading-relaxed">
+            Close readings of what the Arabic is doing — grounded in classical
+            tafsir, honest when it isn&apos;t simple, for any reader willing to go
+            slowly. The Quran calls the practice <em>tadabbur</em>.
           </p>
 
-          {/* Scholarly DNA */}
-          <div className="mt-5 flex flex-wrap items-center justify-center gap-x-2 gap-y-1 text-xs text-zinc-400 dark:text-cream/30">
-            <span>Grounded in classical tafsir</span>
-            <span aria-hidden className="text-zinc-300 dark:text-cream/20">·</span>
+          {/* Scholarly DNA + methodology */}
+          <div className="mt-4 flex flex-wrap items-center justify-center gap-x-2 gap-y-1 text-xs text-zinc-400 dark:text-cream/30">
             <span>Ibn Kathir</span>
             <span aria-hidden className="text-zinc-300 dark:text-cream/20">·</span>
             <span>Al-Tabari</span>
@@ -187,84 +185,41 @@ export default async function LandingPage() {
             <span>Al-Qurtubi</span>
             <span aria-hidden className="text-zinc-300 dark:text-cream/20">·</span>
             <span>Al-Zamakhshari</span>
+            <span aria-hidden className="text-zinc-300 dark:text-cream/20">·</span>
+            <Link href="/methodology" className="underline underline-offset-2 text-[#C9A84C]/60 hover:text-[#C9A84C] transition-colors">
+              How we read →
+            </Link>
           </div>
 
-          <div className="mt-10 flex flex-col items-center gap-4 sm:flex-row sm:justify-center">
+          <div className="mt-8 flex flex-col items-center gap-3 sm:flex-row sm:justify-center">
             <Link
               href="/surahs"
-              className="inline-flex items-center gap-2 rounded-full bg-gold-500 px-8 py-3.5 text-base font-semibold text-navy-dark hover:bg-gold-600 transition-colors shadow-lg shadow-gold-500/20"
+              className="inline-flex items-center gap-2 rounded-full bg-gold-500 px-8 py-3 text-base font-semibold text-navy-dark hover:bg-gold-600 transition-colors shadow-lg shadow-gold-500/20"
             >
               <BookOpen className="h-5 w-5" />
-              Begin with the Surahs
+              Read the Surahs
             </Link>
             <Link
-              href="#subscribe"
-              className="inline-flex items-center gap-2 rounded-full border border-zinc-300 dark:border-navy-light/40 px-8 py-3.5 text-base font-medium text-navy dark:text-cream/80 hover:bg-zinc-100 dark:hover:bg-navy-medium/50 transition-colors"
+              href="/articles"
+              className="inline-flex items-center gap-2 rounded-full border border-zinc-300 dark:border-navy-light/40 px-8 py-3 text-base font-medium text-navy dark:text-cream/80 hover:bg-zinc-100 dark:hover:bg-navy-medium/50 transition-colors"
             >
-              <Mail className="h-5 w-5" />
-              Follow the Journey
+              Read the Articles
             </Link>
           </div>
 
           {/* Start here hint */}
-          <div className="mt-5 flex flex-col items-center gap-1.5 text-sm text-zinc-400 dark:text-cream/40">
-            <p>
-              ✦ New here?{' '}
-              <Link href="/surahs/al-fatiha" className="underline underline-offset-2 text-[#C9A84C]/70 hover:text-[#C9A84C] transition-colors">
-                Begin with Al-Fatiha — the original dua for guidance
-              </Link>
-            </p>
-            <p className="text-xs">
-              or{' '}
-              <Link href="#paths" className="underline underline-offset-2 text-[#C9A84C]/60 hover:text-[#C9A84C] transition-colors">
-                start from where you are →
-              </Link>
-            </p>
-          </div>
-
-          {/* Geometric star divider */}
-          <div className="mt-16 flex items-center justify-center gap-3">
-            <div className="h-px w-12 bg-gradient-to-r from-transparent to-[#C9A84C]/30" />
-            <svg width="24" height="24" viewBox="0 0 24 24" aria-hidden className="text-[#C9A84C]/30">
-              <polygon
-                points="12,2 14.5,8.5 21.5,9 16,13.5 17.5,21 12,17 6.5,21 8,13.5 2.5,9 9.5,8.5"
-                fill="none"
-                stroke="currentColor"
-                strokeWidth="0.8"
-              />
-              <circle cx="12" cy="12" r="2.5" fill="none" stroke="currentColor" strokeWidth="0.6" strokeOpacity="0.5" />
-            </svg>
-            <div className="h-px w-12 bg-gradient-to-l from-transparent to-[#C9A84C]/30" />
-          </div>
-
-          {/* Scroll indicator */}
-          <div className="mt-8 flex flex-col items-center gap-2 animate-gentle-bounce">
-            <div className="h-8 w-[1px] bg-gradient-to-b from-transparent via-gold-500/40 to-transparent" />
-            <div className="h-1.5 w-1.5 rounded-full bg-gold-500/50 animate-scroll-dot" />
+          <div className="mt-4 text-sm text-zinc-400 dark:text-cream/40">
+            ✦ New here?{' '}
+            <Link href="/surahs/al-fatiha" className="underline underline-offset-2 text-[#C9A84C]/70 hover:text-[#C9A84C] transition-colors">
+              Al-Fatiha — the original prayer for guidance
+            </Link>
+            {' '}· or{' '}
+            <Link href="/paths" className="underline underline-offset-2 text-[#C9A84C]/60 hover:text-[#C9A84C] transition-colors">
+              start from where you are →
+            </Link>
           </div>
         </div>
       </section>
-
-      {/* Guided Paths — entry points for seekers */}
-      <section id="paths" className="relative border-t border-zinc-200 dark:border-zinc-800/50 py-20 px-6 scroll-mt-20">
-        <div className="mx-auto max-w-4xl">
-          <ScrollReveal>
-            <p className="text-center text-xs font-medium tracking-[0.2em] uppercase text-zinc-400 dark:text-cream/30 mb-10">
-              Most people find their way in through one of these
-            </p>
-          </ScrollReveal>
-          <div className="grid gap-4 sm:grid-cols-2">
-            {PATHS.map((path, i) => (
-              <ScrollReveal key={path.slug} delay={i * 80}>
-                <PathCard path={path} index={i} />
-              </ScrollReveal>
-            ))}
-          </div>
-        </div>
-      </section>
-
-      {/* Surah Map Teaser */}
-      <SurahMapTeaser publishedSurahs={publishedSurahs} />
 
       {/* Article library */}
       {articles.length > 0 && (
@@ -275,10 +230,10 @@ export default async function LandingPage() {
                 From the article library
               </p>
               <h2 className="mt-3 text-center font-serif text-2xl sm:text-3xl font-bold text-navy dark:text-cream">
-                What the Arabic is actually doing
+                The latest close readings
               </h2>
               <p className="mx-auto mt-3 max-w-xl text-center text-sm leading-relaxed text-zinc-500 dark:text-cream/50">
-                {articleCount} close readings — character studies, cross-surah connections, and single-word discoveries, every claim checked against the corpus and classical tafsir.
+                {articleCount} articles — character studies, cross-surah connections, and single-word discoveries, every claim checked against the corpus and classical tafsir.
               </p>
             </ScrollReveal>
 
@@ -324,13 +279,46 @@ export default async function LandingPage() {
                   href="/articles"
                   className="inline-flex items-center gap-2 rounded-full border border-zinc-300 dark:border-navy-light/40 px-6 py-2.5 text-sm font-medium text-navy dark:text-cream/80 hover:bg-zinc-100 dark:hover:bg-navy-medium/50 transition-colors"
                 >
-                  Browse all {articleCount} articles →
+                  All {articleCount} articles →
                 </Link>
               </div>
             </ScrollReveal>
           </div>
         </section>
       )}
+
+      {/* Surah Map Teaser */}
+      <SurahMapTeaser publishedSurahs={publishedSurahs} />
+
+
+      {/* Guided paths — honest, compact band */}
+      <section id="paths" className="relative border-t border-zinc-200 dark:border-zinc-800/50 py-20 px-6 scroll-mt-20">
+        <div className="mx-auto max-w-4xl">
+          <ScrollReveal>
+            <p className="text-center text-xs font-medium tracking-[0.2em] uppercase text-zinc-400 dark:text-cream/30">
+              If you&apos;d rather be walked through it
+            </p>
+            <p className="mx-auto mt-3 mb-10 max-w-lg text-center text-sm leading-relaxed text-zinc-500 dark:text-cream/50">
+              Four short curated sequences — each one starts from a real arrival
+              state and moves stop by stop through ayahs, concepts, and close readings.
+            </p>
+          </ScrollReveal>
+          <div className="grid gap-4 sm:grid-cols-2">
+            {PATHS.map((path, i) => (
+              <ScrollReveal key={path.slug} delay={i * 80}>
+                <PathCard path={path} index={i} />
+              </ScrollReveal>
+            ))}
+          </div>
+          <ScrollReveal delay={200}>
+            <p className="mt-6 text-center text-sm">
+              <Link href="/paths" className="text-[rgba(212,175,55,0.65)] hover:text-[#C9A84C] transition-colors">
+                All paths — including the study-circle plan →
+              </Link>
+            </p>
+          </ScrollReveal>
+        </div>
+      </section>
 
       {/* Subscribe Section */}
       <section id="subscribe" className="relative border-t border-zinc-200 dark:border-zinc-800/50 py-28 px-6">
@@ -400,6 +388,9 @@ export default async function LandingPage() {
             </Link>
             <Link href="/articles" className="hover:text-navy dark:hover:text-cream transition-colors">
               Articles
+            </Link>
+            <Link href="/paths" className="hover:text-navy dark:hover:text-cream transition-colors">
+              Paths
             </Link>
             <Link href="#subscribe" className="hover:text-navy dark:hover:text-cream transition-colors">
               Subscribe

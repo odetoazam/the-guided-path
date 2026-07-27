@@ -70,7 +70,7 @@ const pathSomethingMissing: Path = {
   arrivalStatement: 'I grew up with this but something feels distant now',
   title: 'Finding Your Way Back',
   description:
-    'Distance from the Quran is not a sign you are broken — it is often a sign the connection was never explained properly. This path starts with what you already carry.',
+    'Often the connection was never explained properly — the distance is not a sign you are broken. This path starts with what you already carry, including years of recitation waiting to be received.',
   estimatedMinutes: 30,
   stops: [
     {
@@ -113,7 +113,7 @@ const pathWantToUnderstand: Path = {
   arrivalStatement: 'I want to understand what the Quran is actually saying',
   title: 'Reading the Quran Differently',
   description:
-    'Most people have heard the Quran their whole lives without being shown how to read it. This path introduces the tools — linguistic, structural, contemplative — that change what you see.',
+    'Whether you have heard the Quran your whole life or came to it last year, almost nobody is shown how to read it. This path introduces the tools — linguistic, structural, contemplative — that change what you see.',
   estimatedMinutes: 40,
   stops: [
     {

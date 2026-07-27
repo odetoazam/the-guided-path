@@ -25,6 +25,7 @@ const topLinks = [
 ]
 
 const learnLinks = [
+  { href: '/paths', label: 'Guided Paths', desc: 'Short curated sequences — start from where you are' },
   { href: '/understanding-quran', label: 'Understanding Quran', desc: 'The tools for receiving guidance' },
   { href: '/ulum-al-quran', label: 'Sciences of the Quran', desc: '18 disciplines, mapped' },
   { href: '/glossary', label: 'Glossary', desc: 'Doorways into the key concepts' },
