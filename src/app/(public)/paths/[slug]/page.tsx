@@ -181,11 +181,11 @@ export default async function PathPage({
         <div className="mx-auto max-w-2xl">
           {/* Breadcrumb */}
           <Link
-            href="/articles"
+            href="/paths"
             className="mb-8 inline-flex items-center gap-1.5 text-xs text-zinc-400 dark:text-cream/30 hover:text-zinc-600 dark:hover:text-cream/50 transition-colors"
           >
             <span>←</span>
-            <span>Find your path</span>
+            <span>All paths</span>
           </Link>
 
           {/* Arrival statement */}

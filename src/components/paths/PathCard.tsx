@@ -22,15 +22,14 @@ export function PathCard({ path }: PathCardProps) {
         }}
       />
 
-      {/* Arrival statement — the emotional hook */}
-      <p className="relative text-sm italic text-zinc-400 dark:text-cream/30 leading-relaxed">
-        &ldquo;{path.arrivalStatement}&rdquo;
-      </p>
-
-      {/* Path title */}
+      {/* Path title leads — the arrival quote supports it */}
       <h3 className="relative font-serif text-lg font-bold text-navy dark:text-cream leading-snug group-hover:text-[#b8953f] dark:group-hover:text-[rgba(212,175,55,0.85)] transition-colors">
         {path.title}
       </h3>
+
+      <p className="relative text-sm italic text-zinc-400 dark:text-cream/30 leading-relaxed">
+        &ldquo;{path.arrivalStatement}&rdquo;
+      </p>
 
       {/* Footer */}
       <div className="relative mt-auto flex items-center justify-between pt-1">
