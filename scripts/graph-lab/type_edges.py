@@ -42,6 +42,7 @@ ROOT = ''  # run from repo root
 CORPUS = 'scripts/.corpus-cache/quranic-corpus.json'
 MERGEMAP = 'scripts/graph-lab/merge-map.csv'
 PROMOTED = 'scripts/graph-lab/edges-promoted.json'   # promotion-review overlay (F2)
+REMOVED = 'scripts/graph-lab/edges-removed.json'     # reviewer-flagged removals (F3)
 OUT = 'scripts/graph-lab/edges-typed.json'
 
 # Promotion review confirmed a discovered cross-surah connection by READING both
@@ -296,6 +297,29 @@ try:
 except FileNotFoundError:
     pass
 
+# ---------- 4c. reviewer-flagged removals (F3 — provenance-preserving) --------
+# Motif review flagged some AUTHORED edges as coincidental same-root matches
+# (cross-sense links). The frontmatter stays untouched; edges-removed.json is
+# the reversible ledger of record. Filtering here (after all sources merge)
+# suppresses a flagged pair no matter which path produced it.
+removed_pairs, removed_count = set(), 0
+try:
+    _rem = json.load(open(REMOVED, encoding='utf-8'))
+    removed_pairs = {frozenset((r['src'], r['tgt'])) for r in _rem.get('removed', [])}
+except FileNotFoundError:
+    pass
+if removed_pairs:
+    _before = len(edge_records)
+    kept_records = []
+    for rec in edge_records:
+        if frozenset((rec['src'], rec['tgt'])) in removed_pairs:
+            type_counts[rec['type']] -= 1
+            conf_counts[rec['confidence']] -= 1
+            continue
+        kept_records.append(rec)
+    edge_records = kept_records
+    removed_count = _before - len(edge_records)
+
 # ---------- 5. write + report -------------------------------------------------
 meta = {
     'generator': 'scripts/graph-lab/type_edges.py',
@@ -304,6 +328,7 @@ meta = {
     'strong_df_threshold': STRONG_DF,
     'raw_edges_parsed': len(raw_edges),
     'promoted_overlay_edges': promoted_added,
+    'reviewer_removed_edges': removed_count,
     'unique_edges': len(edge_records),
     'type_counts': dict(type_counts),
     'confidence_counts': dict(conf_counts),
@@ -330,6 +355,7 @@ print("BY TYPE:")
 for t, c in type_counts.most_common():
     print(f"   {t:20s} {c:6d}  ({100*c/max(1,total):4.1f}%)")
 print()
+print(f"reviewer-flagged edges removed (F3): {removed_count}")
 print(f"written -> {OUT}")
 
 # strength breakdown of the lexical-root (objective) tier

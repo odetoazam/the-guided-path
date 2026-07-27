@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "purpose": "Reviewer-flagged EXISTING-edge removals (F3 — provenance-preserving). These pairs are suppressed at build time by type_edges.py; the authored related_ayahs frontmatter is never touched, so every removal is reversible by deleting its record here.",
+    "provenance": "Motif review runs 1+2 (2026-07-13) flagged these during DF<=10 root review; verdicts recovered verbatim from review-agent transcripts (session 2d2eee89, agents ae5f8873/add9d02560/a7d431fa). Azam delegated resolution 2026-07-17 ('do what's safe and right'): reviewer-flagged coincidental same-root links removed from the traversable graph.",
+    "discipline": "Only pairs with an explicit reviewer verdict enter this ledger. Reviewer-CONFIRMED siblings are listed in kept_for_contrast and must never be added."
+  },
+  "removed": [
+    {
+      "src": "18:79-82", "tgt": "72:6", "root": "رهق",
+      "reason": "Cross-sense: parental-overwhelming (yurhiqahuma, Khidr) vs jinn-transaction (rahaqan) — coincidental same-root match, reviewer verdict REJECT",
+      "flagged": "2026-07-13", "resolved": "2026-07-17"
+    },
+    {
+      "src": "10:26-27", "tgt": "72:13", "root": "رهق",
+      "reason": "Cross-sense: eschatological facial-covering (la yarhaqu wujuhahum qatar) vs jinn-transaction (bakhsan wa-la rahaqan) — reviewer verdict REJECT",
+      "flagged": "2026-07-13", "resolved": "2026-07-17"
+    },
+    {
+      "src": "10:26-27", "tgt": "72:6", "root": "رهق",
+      "reason": "Cross-sense: facial-humiliation vs jinn-burdening — reviewer verdict REJECT",
+      "flagged": "2026-07-13", "resolved": "2026-07-17"
+    },
+    {
+      "src": "70:42-44", "tgt": "72:6", "root": "رهق",
+      "reason": "Cross-sense: humiliation covering faces (tarhaquhum dhillah) vs jinn-burdening — reviewer verdict REJECT",
+      "flagged": "2026-07-13", "resolved": "2026-07-17"
+    },
+    {
+      "src": "22:15", "tgt": "3:118-120", "root": "غيظ",
+      "reason": "Register mismatch: personal despair-rage at not being helped (22:15) vs collective disbeliever-rage at believers (3:119) — reviewer: 'should be dropped'",
+      "flagged": "2026-07-13", "resolved": "2026-07-17"
+    },
+    {
+      "src": "73:1-8", "tgt": "76:24-26", "root": "طول",
+      "reason": "Both use tawil as literal time-duration adjective in unrelated domains (daytime toil vs long night of prostration) — 'no deliberate thematic resonance found; looks coincidental'",
+      "flagged": "2026-07-13", "resolved": "2026-07-17"
+    },
+    {
+      "src": "24:26", "tgt": "7:57-58", "root": "خبث",
+      "reason": "khabithat as moral people-matching in marriage (24:26) vs khabith soil metaphor (7:58) — 'same root, unrelated senses, coincidental'",
+      "flagged": "2026-07-13", "resolved": "2026-07-17"
+    }
+  ],
+  "kept_for_contrast": [
+    { "src": "72:13", "tgt": "72:6", "root": "رهق", "verdict": "reviewer CONFIRM — same jinn-context sense" },
+    { "src": "10:26-27", "tgt": "80:38-42", "root": "رهق", "verdict": "reviewer CONFIRM — same facial-covering formula, also shares قتر" }
+  ]
+}

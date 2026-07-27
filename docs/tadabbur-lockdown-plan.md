@@ -86,3 +86,56 @@ this. That scan should run as a post-batch gate on every enrichment run:
 ```
 files whose first body heading matches /PART 2|THEMATIC DEPTHS|CLOSING|Theme (One|Two)/
 ```
+
+---
+
+# Session close — 2026-07-24
+
+## Final state
+
+| Check | Result |
+|---|---|
+| Ayah coverage | 6,236 / 6,236 (100%) |
+| Quran text — all 3,029 files, `--scan` | **0 failures.** Every tagged verse authentic |
+| Quran text — byte-exact vs Uthmani reference | **~1,557 verses normalized**; corpus now canonical |
+| Morphology — `verify_morphology`, whole corpus | **0 failures** |
+| Morphology root tags | 20,808 checked, **0 wrong** |
+| Leeds prose-claim checker | 338 reported → **6 real, all fixed** |
+| Frontmatter integrity | 95 repaired; 7 files had content trapped in YAML — freed |
+| Damaged files | 12 opened → 9 genuinely damaged, **all 9 rebuilt**; 3 were merely thin |
+| Semantic graph | rebuilt, **fresh** against corpus `bfb6eb611d26feee` |
+
+## Real content errors found and fixed this session (6)
+
+1. `071-nuh/ayahs-026-028.md` — *tabār* attributed to root b-w-r; it is **t-b-r**.
+2. `001-al-fatiha/ayah-001.md` — morphology tags in Latin transliteration, invisible to validators.
+3. `002-al-baqarah/ayahs-120-121.md` — 4 hamza/weak-root spellings + all 21 word positions.
+4. `043-az-zukhruf/ayah-044.md` — root of *dhikr* written **د-ك-ر**; it is **ذ-ك-ر**.
+5. `033-al-ahzab/ayah-032.md` — the *word* م-ع-ر-و-ف called a "root"; the root is **ع-ر-ف**.
+6. `075-al-qiyamah/ayah-002.md` — a range correction I made, then reverted after checking the tags.
+
+## Duplicate coverage resolved
+
+The graph's invariant check flagged 49 ayahs claimed by more than one node. Nine were **exact
+duplicates in Surah At-Tawbah** — the same ayah written twice, once by the older Codex era
+(`ayahs-NNN.md`, `validated: false`, no enrichment) and once by the newer Opus era (`ayah-NNN.md`,
+`validated: true`, enriched June 2026). The Codex versions were archived to
+`009-at-tawbah/_superseded/` using the convention already present in `003-aal-imran/`. Nothing was
+deleted; `git mv` back restores any of them.
+
+Warning count is now 40. **Those 40 are a different, probably intentional pattern** — a single-ayah
+deep dive overlapping a passage-level reflection (e.g. `2:269` inside `2:267-274`). They are not
+duplicates, but they do leave graph edge-attachment glob-order-dependent.
+
+**Open question for Azam:** when a single-ayah node and a passage node both claim an ayah, which
+should own the edge — the narrower node, the newer one, or both? That is a graph-semantics decision,
+not a content fix, so it was left alone.
+
+## Still open (deliberately)
+
+- **874 files remain `validated: false`.** Every mechanical check passes; the voice check is the human
+  gate and policy is explicit that automated systems cannot self-approve. **This flip is Azam's call.**
+- **+1,322 promotable graph edges** built and waiting on approval since July.
+- **~527 files still shallow** — the enrichment pipeline's backlog (39 of 566 done).
+- **The Leeds checker needs repair** before it can gate anything: negation-blindness,
+  root-resolution failure, qirāʾāt-blindness, cross-surah-blindness.
