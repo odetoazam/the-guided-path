@@ -23,7 +23,7 @@ tags: [qadar, nafs, akhirah]
 
 ## Surah 'Abasa (80:19)
 
-[ayah:80:19] مِن نُّطْفَةٍ خَلَقَهُۥ فَقَدَّرَهُۥ
+[ayah:80:19] مِن نُّطْفَةٍ خَلَقَهُۥ فَقَدَّرَهُۥ
 
 *Min nutfatin khalaqahu faqaddarahu.*
 

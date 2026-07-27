@@ -1,0 +1,16 @@
+{
+  "slug": "jamil-seven-beautiful-things-quran",
+  "title": "God Calls Exactly Seven Things \"Beautiful\" — and Every One Is a Letting-Go",
+  "excerpt": "The descriptor jamil appears seven times in the Quran and never lands on a face, a garden, or a possession. All seven modify an act of release — patience, pardon, dignified parting. In the Quran's vocabulary, beauty is the open hand.",
+  "seo_title": "The Seven 'Beautiful' Things in the Quran (Jamil)",
+  "seo_description": "The Arabic jamil describes seven things in the Quran — and every one is an act of release: beautiful patience, beautiful pardon, beautiful parting. A close reading of what the Quran calls beautiful.",
+  "tags": ["sabr", "jamil", "yaqub", "yusuf", "sabr-jamil", "concepts", "quranic-vocabulary"],
+  "quran_refs": ["12:18", "12:83", "15:85", "33:28", "33:49", "70:5", "73:10"],
+  "reading_time_minutes": 7,
+  "html_path": "docs/articles-source/jamil-seven-beautiful.html",
+  "entity_tags": [
+    { "slug": "sabr", "is_primary": true },
+    { "slug": "yaqub", "is_primary": false },
+    { "slug": "yusuf", "is_primary": false }
+  ]
+}

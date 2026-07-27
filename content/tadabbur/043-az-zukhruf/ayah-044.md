@@ -91,7 +91,7 @@ All four. Unanimously. They do not first read *dhikr* as "reminder." They read i
 
 [PAUSE]
 
-This is not the scholars inventing a meaning. This is *dhikr* doing what *dhikr* does in Arabic. The root د-ك-ر carries, at its core, the idea of something being *brought to mind, mentioned, spoken of.* And here is the bridge: **the thing people mention is the thing that has stature.** We speak of the great. We name the noble. To be *mentioned* — to be on the tongues of people, to have a name that is carried — *that* is honor. So the very same root that gives us "remembrance" gives us "renown," and from renown, "eminence." Al-Rāghib documents this in his *Mufradāt*: *dhikr* includes *al-sharaf*, elevated standing — the good remembrance that lifts a name.
+This is not the scholars inventing a meaning. This is *dhikr* doing what *dhikr* does in Arabic. The root ذ-ك-ر carries, at its core, the idea of something being *brought to mind, mentioned, spoken of.* And here is the bridge: **the thing people mention is the thing that has stature.** We speak of the great. We name the noble. To be *mentioned* — to be on the tongues of people, to have a name that is carried — *that* is honor. So the very same root that gives us "remembrance" gives us "renown," and from renown, "eminence." Al-Rāghib documents this in his *Mufradāt*: *dhikr* includes *al-sharaf*, elevated standing — the good remembrance that lifts a name.
 
 So now hold both faces of the word at once, the way the Arabic intends:
 

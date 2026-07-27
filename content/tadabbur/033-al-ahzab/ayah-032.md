@@ -244,7 +244,7 @@ And then comes the resolution that this ayah gives us, the one we haven't quoted
 
 "And speak a word that is **fitting**."
 
-The root م-ع-ر-و-ف — *ma'rūf* — comes from *'arafa*, to recognize, to know. *Al-ma'rūf* is "the known good" — the kind of speech that any healthy soul recognizes as appropriate. It is not stiff. It is not cold. It is not harsh. It is not silent. It is the speech that a clean heart hears and says: *yes, this is what speech is supposed to be.*
+The word *ma'rūf* is built on the root ع-ر-ف — from *'arafa*, to recognize, to know. *Al-ma'rūf* is "the known good" — the kind of speech that any healthy soul recognizes as appropriate. It is not stiff. It is not cold. It is not harsh. It is not silent. It is the speech that a clean heart hears and says: *yes, this is what speech is supposed to be.*
 
 This is the genius of the ayah. Allah does not end on the negative. He does not just say "stop softening." That alone would be a constriction — a closing down. He immediately opens a door: **speak ma'rūf**. There is a register of speech that is warm, dignified, clear, and recognizable as good — and **that** is the register the believer lives in.
 

@@ -35,7 +35,7 @@ tags: ["grief", "dua", "prophet-muhammad", "dawah", "rejection", "salam", "tawak
 
 ## The Ayah
 
-> <!-- ayah:43:88 -->     وَقِيلِهِۦ يَٰرَبِّ إِنَّ هَٰٓؤُلَآءِ قَوْمٌ لَّا يُؤْمِنُونَ
+> <!-- ayah:43:88 -->     وَقِيلِهِۦ يَـٰرَبِّ إِنَّ هَـٰٓؤُلَآءِ قَوْمٌ لَّا يُؤْمِنُونَ
 >
 > *wa qīlihi yā Rabbi inna hāʾulāʾi qawmun lā yuʾminūn*
 >

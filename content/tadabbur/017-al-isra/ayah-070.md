@@ -45,7 +45,7 @@ validated: true
 4. Methodology: Primarily tafsir bil-dirayah (morphological analysis of Form II verbs and the kathīr/kull distinction), supported by bil-riwayah (classical opinions on the scope of tafḍīl).
 -->
 
-[ayah:17:70] وَلَقَدْ كَرَّمْنَا بَنِىٓ ءَادَمَ وَحَمَلْنَـٰهُمْ فِى ٱلْبَرِّ وَٱلْبَحْرِ وَرَزَقْنَـٰهُم مِّنَ ٱلطَّيِّبَـٰتِ وَفَضَّلْنَـٰهُمْ عَلَىٰ كَثِيرٍ مِّمَّنْ خَلَقْنَا تَفْضِيلًا
+[ayah:17:70] ۞ وَلَقَدْ كَرَّمْنَا بَنِىٓ ءَادَمَ وَحَمَلْنَـٰهُمْ فِى ٱلْبَرِّ وَٱلْبَحْرِ وَرَزَقْنَـٰهُم مِّنَ ٱلطَّيِّبَـٰتِ وَفَضَّلْنَـٰهُمْ عَلَىٰ كَثِيرٍ مِّمَّنْ خَلَقْنَا تَفْضِيلًا
 
 *wa-laqad karramnā banī ādama wa-ḥamalnāhum fī l-barri wa-l-baḥri wa-razaqnāhum min al-ṭayyibāti wa-faḍḍalnāhum 'alā kathīrin mimman khalaqnā tafḍīlā*
 

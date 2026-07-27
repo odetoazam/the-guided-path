@@ -116,7 +116,7 @@ STEP 2: SECOND-PASS AUDIT
 <!-- morphology:41:33:14 root=قول pos=V -->
 <!-- morphology:41:33:19 root=سلم pos=N -->
 
-[ayah:41:33] وَمَنْ أَحْسَنُ قَوْلًا مِّمَّن دَعَا إِلَى ٱللَّهِ وَعَمِلَ صَـٰلِحًا وَقَالَ إِنَّنِى مِنَ ٱلْمُسْلِمِينَ
+[ayah:41:33] وَمَنْ أَحْسَنُ قَوْلًا مِّمَّن دَعَآ إِلَى ٱللَّهِ وَعَمِلَ صَـٰلِحًا وَقَالَ إِنَّنِى مِنَ ٱلْمُسْلِمِينَ
 
 *Wa-man aḥsanu qawlan mim-man daʿā ilā-llāhi wa-ʿamila ṣāliḥan wa-qāla innanī mina-l-muslimīn.*
 

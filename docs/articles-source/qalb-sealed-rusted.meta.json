@@ -1,0 +1,15 @@
+{
+  "slug": "qalb-sealed-rusted-heart-quran",
+  "title": "Sealed by God, Rusted by You: The Quran's First and Last Word on the Heart",
+  "excerpt": "The heart enters the Quran sealed by God (2:7) and exits rusted by what a person earned (83:14) — same frame, reversed hand. The Book's own architecture answers the objection its opening page raises.",
+  "seo_title": "Why Does Allah Seal Hearts? Quran 2:7 and 83:14",
+  "seo_description": "The word for heart enters the Quran sealed by God (2:7) and makes its final appearance rusted by what people earned (83:14). A close reading of the Book's own answer.",
+  "tags": ["qalb", "tawbah", "nafs", "contested-verses", "heart", "al-baqarah", "al-mutaffifin"],
+  "quran_refs": ["2:7", "83:14", "39:53"],
+  "reading_time_minutes": 7,
+  "html_path": "docs/articles-source/qalb-sealed-rusted.html",
+  "entity_tags": [
+    { "slug": "tawbah", "is_primary": true },
+    { "slug": "nafs", "is_primary": false }
+  ]
+}

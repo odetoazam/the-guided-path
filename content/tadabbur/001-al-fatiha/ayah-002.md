@@ -51,7 +51,7 @@ MORPHOLOGY TAGS:
 
 ## Introduction
 
-[ayah:1:2] ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ
+[ayah:1:2] ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ
 
 *Al-ḥamdu lillāhi Rabbi l-'ālamīn*
 

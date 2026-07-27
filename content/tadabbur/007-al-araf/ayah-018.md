@@ -59,7 +59,7 @@ One-sentence distillation: "The sentence for Iblis was spoken in the singular, b
 
 <blockquote class="ayah-quote">
 <p class="arabic" dir="rtl" style="font-family: var(--font-amiri,'Amiri'),serif; font-size: 1.5rem; line-height: 2.2; color: rgba(201,168,76,0.85);">
-<!-- ayah:7:18 --> قَالَ ٱخْرُجْ مِنْهَا مَذْءُومًا مَّدْحُورًا لَّمَن تَبِعَكَ مِنْهُمْ لَأَمْلَأَنَّ جَهَنَّمَ مِنكُمْ أَجْمَعِينَ
+<!-- ayah:7:18 --> قَالَ ٱخْرُجْ مِنْهَا مَذْءُومًا مَّدْحُورًا ۖ لَّمَن تَبِعَكَ مِنْهُمْ لَأَمْلَأَنَّ جَهَنَّمَ مِنكُمْ أَجْمَعِينَ
 </p>
 <p class="translation">He said: Get out from it, despised and expelled. Whoever follows you among them — I will surely fill Jahannam with you, all together.</p>
 <cite>Al-A'raf (7:18)</cite>

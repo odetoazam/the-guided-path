@@ -20,7 +20,7 @@ tags: [badr, perception, tawakkul, sight, insight, ibrah, certainty, numbers, fa
 
 ## INTRODUCTION
 
-> <!-- ayah:3:13 --> قَدْ كَانَ لَكُمْ آيَةٌ فِي فِئَتَيْنِ الْتَقَتَا ۖ فِئَةٌ تُقَاتِلُ فِي سَبِيلِ اللَّهِ وَأُخْرَىٰ كَافِرَةٌ يَرَوْنَهُم مِّثْلَيْهِمْ رَأْيَ الْعَيْنِ ۚ وَاللَّهُ يُؤَيِّدُ بِنَصْرِهِ مَن يَشَاءُ ۗ إِنَّ فِي ذَٰلِكَ لَعِبْرَةً لِّأُولِي الْأَبْصَارِ
+> <!-- ayah:3:13 --> قَدْ كَانَ لَكُمْ ءَايَةٌ فِى فِئَتَيْنِ ٱلْتَقَتَا ۖ فِئَةٌ تُقَـٰتِلُ فِى سَبِيلِ ٱللَّهِ وَأُخْرَىٰ كَافِرَةٌ يَرَوْنَهُم مِّثْلَيْهِمْ رَأْىَ ٱلْعَيْنِ ۚ وَٱللَّهُ يُؤَيِّدُ بِنَصْرِهِۦ مَن يَشَآءُ ۗ إِنَّ فِى ذَٰلِكَ لَعِبْرَةً لِّأُو۟لِى ٱلْأَبْصَـٰرِ
 
 *Qad kāna lakum āyatun fī fi'atayni-ltaqatā, fi'atun tuqātilu fī sabīlillāhi wa-ukhrā kāfiratun yarawnahum mithlayhim ra'yal-'ayn; wallāhu yu'ayyidu bi-naṣrihi man yashā'; inna fī dhālika la-'ibratan li-ulī-l-abṣār.*
 

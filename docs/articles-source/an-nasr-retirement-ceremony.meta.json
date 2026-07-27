@@ -1,0 +1,15 @@
+{
+  "slug": "an-nasr-final-words-corpus-quran",
+  "title": "The Quran's Retirement Ceremony: How the Corpus Confirms Ibn Abbas Read a Death Into Surah An-Nasr",
+  "excerpt": "Seven of the Quran's heaviest words — praise, help, victory, religion, glorification, forgiveness, repentance — all take their final appearance inside the three verses of An-Nasr. After it, the only command left in the Book is 'Say.'",
+  "seo_title": "Surah An-Nasr: Ibn Abbas Read a Death Into It",
+  "seo_description": "Seven of the Quran's heaviest roots make their final appearance inside Surah An-Nasr's three verses, and only 'Say' remains after it. A close reading of Ibn Abbas's famous interpretation.",
+  "tags": ["an-nasr", "tawbah", "tawhid", "surah-structure", "ibn-abbas", "quranic-architecture"],
+  "quran_refs": ["110:1", "110:2", "110:3", "1:2", "112:1"],
+  "reading_time_minutes": 6,
+  "html_path": "docs/articles-source/an-nasr-retirement-ceremony.html",
+  "entity_tags": [
+    { "slug": "tawbah", "is_primary": true },
+    { "slug": "tawhid", "is_primary": false }
+  ]
+}

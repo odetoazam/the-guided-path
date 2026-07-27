@@ -34,7 +34,7 @@ concepts: [taqwa, jannah, akhirah, ihsan, khashyah]
 
 ## Surah Aal-Imran (3:198)
 
-[ayah:3:198] لَـٰكِنِ ٱلَّذِينَ ٱتَّقَوْا۟ رَبَّهُمْ لَهُمْ جَنَّـٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَا نُزُلًا مِّنْ عِندِ ٱللَّهِ ۗ وَمَا عِندَ ٱللَّهِ خَيْرٌ لِّلْأَبْرَارِ
+[ayah:3:198] لَـٰكِنِ ٱلَّذِينَ ٱتَّقَوْا۟ رَبَّهُمْ لَهُمْ جَنَّـٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَا نُزُلًا مِّنْ عِندِ ٱللَّهِ ۗ وَمَا عِندَ ٱللَّهِ خَيْرٌ لِّلْأَبْرَارِ
 
 *Lakini alladhina ittaqaw rabbahum lahum jannatun tajri min tahtiha al-anharu khalidina fiha nuzulan min 'indi Allah. Wa ma 'inda Allahi khayrun li-al-abrar.*
 

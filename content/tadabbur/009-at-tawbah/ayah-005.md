@@ -40,7 +40,7 @@ concepts: [tawbah, law-and-ethics, mercy, accountability, covenant]
 
 # The Blade That Opens With Waiting and Closes With Mercy
 
-[ayah:9:5] فَإِذَا ٱنسَلَخَ ٱلْأَشْهُرُ ٱلْحُرُمُ فَٱقْتُلُوا۟ ٱلْمُشْرِكِينَ حَيْثُ وَجَدتُّمُوهُمْ وَخُذُوهُمْ وَٱحْصُرُوهُمْ وَٱقْعُدُوا۟ لَهُمْ كُلَّ مَرْصَدٍ ۚ فَإِن تَابُوا۟ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَءَاتَوُا۟ ٱلزَّكَوٰةَ فَخَلُّوا۟ سَبِيلَهُمْ ۚ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
+[ayah:9:5] فَإِذَا ٱنسَلَخَ ٱلْأَشْهُرُ ٱلْحُرُمُ فَٱقْتُلُوا۟ ٱلْمُشْرِكِينَ حَيْثُ وَجَدتُّمُوهُمْ وَخُذُوهُمْ وَٱحْصُرُوهُمْ وَٱقْعُدُوا۟ لَهُمْ كُلَّ مَرْصَدٍ ۚ فَإِن تَابُوا۟ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَءَاتَوُا۟ ٱلزَّكَوٰةَ فَخَلُّوا۟ سَبِيلَهُمْ ۚ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
 
 *Fa-idhā nsalakha l-ashhuru l-ḥurumu fa-qtulū l-mushrikīna ḥaythu wajadtumūhum wa-khudhūhum wa-ḥṣurūhum wa-qʿudū lahum kulla marṣad; fa-in tābū wa-aqāmū ṣ-ṣalāta wa-ātawu z-zakāta fa-khallū sabīlahum; inna llāha ghafūrun raḥīm.*
 

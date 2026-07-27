@@ -31,7 +31,7 @@ concepts: [prophethood, prophetic-stories, hidayah, sabr]
 
 ## Surah Aal-Imran (3:184)
 
-[ayah:3:184] فَإِن كَذَّبُوكَ فَقَدْ كُذِّبَ رُسُلٌ مِّن قَبْلِكَ جَآءُو بِٱلْبَيِّنَـٰتِ وَٱلزُّبُرِ وَٱلْكِتَـٰبِ ٱلْمُنِيرِ
+[ayah:3:184] فَإِن كَذَّبُوكَ فَقَدْ كُذِّبَ رُسُلٌ مِّن قَبْلِكَ جَآءُو بِٱلْبَيِّنَـٰتِ وَٱلزُّبُرِ وَٱلْكِتَـٰبِ ٱلْمُنِيرِ
 
 *Fa-in kadhdhabuka faqad kudhdhiba rusulun min qablika ja'u bi-al-bayyinat wa al-zubur wa al-kitabi al-munir.*
 

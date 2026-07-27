@@ -36,7 +36,7 @@ concepts: [akhirah, resurrection, jannah, jahannam, time-and-urgency]
 
 ## Surah Aal-Imran (3:185)
 
-[ayah:3:185] كُلُّ نَفْسٍ ذَآئِقَةُ ٱلْمَوْتِ ۗ وَإِنَّمَا تُوَفَّوْنَ أُجُورَكُمْ يَوْمَ ٱلْقِيَـٰمَةِ ۖ فَمَن زُحْزِحَ عَنِ ٱلنَّارِ وَأُدْخِلَ ٱلْجَنَّةَ فَقَدْ فَازَ ۗ وَمَا ٱلْحَيَوٰةُ ٱلدُّنْيَآ إِلَّا مَتَـٰعُ ٱلْغُرُورِ
+[ayah:3:185] كُلُّ نَفْسٍ ذَآئِقَةُ ٱلْمَوْتِ ۗ وَإِنَّمَا تُوَفَّوْنَ أُجُورَكُمْ يَوْمَ ٱلْقِيَـٰمَةِ ۖ فَمَن زُحْزِحَ عَنِ ٱلنَّارِ وَأُدْخِلَ ٱلْجَنَّةَ فَقَدْ فَازَ ۗ وَمَا ٱلْحَيَوٰةُ ٱلدُّنْيَآ إِلَّا مَتَـٰعُ ٱلْغُرُورِ
 
 *Kullu nafsin dha'iqatu al-mawt. Wa innama tuwaffawna ujurakum yawma al-qiyamah. Fa-man zuhziha 'ani al-nari wa udkhila al-jannata faqad faz. Wa ma al-hayatu al-dunya illa mata'u al-ghurur.*
 

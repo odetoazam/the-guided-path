@@ -1,0 +1,15 @@
+{
+  "slug": "musa-fire-three-tellings-quran",
+  "title": "One Fire, Three Tellings: The Night Musa Went to Borrow a Flame",
+  "excerpt": "Musa announced the fire to his family once — the Quran quotes him three times, differently. Guidance in Ta-Ha, news in An-Naml, an ember in Al-Qasas: each surah keeps the piece of his sentence it needs. And the rare words in his shopping list echo in places you would never expect.",
+  "seo_title": "Why Does the Quran Tell Musa's Fire Story Three Different Ways? (20:10, 27:7, 28:29)",
+  "seo_description": "Musa's fire announcement appears in Ta-Ha, An-Naml, and Al-Qasas with different wording. A corpus-verified reading: what never changes, what each surah keeps, and where the rare words (qabas, jadhwa, khabar) reappear.",
+  "tags": ["musa", "connection-reveal", "ta-ha", "an-naml", "al-qasas", "guidance", "wahy"],
+  "quran_refs": ["20:10", "27:7", "28:29", "57:13"],
+  "reading_time_minutes": 9,
+  "html_path": "docs/articles-source/musa-fire-three-tellings.html",
+  "entity_tags": [
+    { "slug": "musa", "is_primary": true },
+    { "slug": "nifaq", "is_primary": false }
+  ]
+}

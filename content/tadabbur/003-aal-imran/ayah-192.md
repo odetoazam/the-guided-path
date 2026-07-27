@@ -30,7 +30,7 @@ concepts: [jahannam, accountability, akhirah, tawbah, nafs]
 
 ## Surah Aal-Imran (3:192)
 
-[ayah:3:192] رَبَّنَآ إِنَّكَ مَن تُدْخِلِ ٱلنَّارَ فَقَدْ أَخْزَيْتَهُۥ ۖ وَمَا لِلظَّـٰلِمِينَ مِنْ أَنصَارٍ
+[ayah:3:192] رَبَّنَآ إِنَّكَ مَن تُدْخِلِ ٱلنَّارَ فَقَدْ أَخْزَيْتَهُۥ ۖ وَمَا لِلظَّـٰلِمِينَ مِنْ أَنصَارٍ
 
 *Rabbana innaka man tudkhili al-nara faqad akhzaytahu. Wa ma li-al-zalimina min ansar.*
 

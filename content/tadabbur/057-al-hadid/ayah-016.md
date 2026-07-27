@@ -34,7 +34,7 @@ tags: [khushu, heart-hardening, time, spiritual-renewal, believers, amad, qaswa]
 <!-- morphology:57:16:44 root=كثر pos=N -->
 <!-- morphology:57:16:47 root=فسق pos=N -->
 
-[ayah:57:16] أَلَمْ يَأْنِ لِلَّذِينَ ءَامَنُوٓا۟ أَن تَخْشَعَ قُلُوبُهُمْ لِذِكْرِ ٱللَّهِ وَمَا نَزَلَ مِنَ ٱلْحَقِّ وَلَا يَكُونُوا۟ كَٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ مِن قَبْلُ فَطَالَ عَلَيْهِمُ ٱلْأَمَدُ فَقَسَتْ قُلُوبُهُمْ ۖ وَكَثِيرٌ مِّنْهُمْ فَـٰسِقُونَ
+[ayah:57:16] ۞ أَلَمْ يَأْنِ لِلَّذِينَ ءَامَنُوٓا۟ أَن تَخْشَعَ قُلُوبُهُمْ لِذِكْرِ ٱللَّهِ وَمَا نَزَلَ مِنَ ٱلْحَقِّ وَلَا يَكُونُوا۟ كَٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ مِن قَبْلُ فَطَالَ عَلَيْهِمُ ٱلْأَمَدُ فَقَسَتْ قُلُوبُهُمْ ۖ وَكَثِيرٌ مِّنْهُمْ فَـٰسِقُونَ
 
 *Alam ya'ni lilladhīna āmanū an takhsha'a qulūbuhum li-dhikri Allāhi wa mā nazala min al-ḥaqq, wa lā yakūnū ka-alladhīna ūtū al-kitāba min qablu fa-ṭāla 'alayhim al-amadu fa-qasat qulūbuhum, wa kathīrun minhum fāsiqūn.*
 

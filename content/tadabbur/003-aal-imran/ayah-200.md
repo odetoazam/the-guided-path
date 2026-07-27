@@ -32,7 +32,7 @@ concepts: [sabr, taqwa, iman, divine-testing, ummah]
 
 ## Surah Aal-Imran (3:200)
 
-[ayah:3:200] يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱصْبِرُوا۟ وَصَابِرُوا۟ وَرَابِطُوا۟ وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تُفْلِحُونَ
+[ayah:3:200] يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱصْبِرُوا۟ وَصَابِرُوا۟ وَرَابِطُوا۟ وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تُفْلِحُونَ
 
 *Ya ayyuha alladhina amanu isbiru wa sabiru wa rabitu wa ittaqu Allaha la'allakum tuflihun.*
 

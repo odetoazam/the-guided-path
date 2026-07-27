@@ -59,7 +59,7 @@ One-sentence distillation: "The most devastating exchange in the Quran is three 
 
 <blockquote class="ayah-quote">
 <p class="arabic" dir="rtl" style="font-family: var(--font-amiri,'Amiri'),serif; font-size: 1.5rem; line-height: 2.2; color: rgba(201,168,76,0.85);">
-<!-- ayah:43:77 --> وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ
+<!-- ayah:43:77 --> وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ
 </p>
 <p class="translation">And they will cry out: O Malik, let your Lord put an end to us. He will say: Indeed, you will remain.</p>
 <cite>Az-Zukhruf (43:77)</cite>

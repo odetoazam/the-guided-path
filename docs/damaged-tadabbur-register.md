@@ -18,9 +18,9 @@ Each needs regeneration through the `/quranic-tadabbur` skill + all 3 validators
 | ~~3,358B~~ **17.5KB** | `content/tadabbur/040-ghafir/ayahs-069-072.md` | ✅ **FRONT-REBUILT 2026-07-24** (Fable, via skill). Thematic half preserved verbatim; linguistic journey rebuilt: jidāl rope-root + Form III, the 2-active→3-passive verb machine (yuṣrafūn/yusḥabūn/yusjarūn), aghlāl lemma = **غِلّ** (chest-rancor → neck-iron, cf. 7:43). Verified: Ghafir's 5 jadal occurrences are the Quran's densest (next surah: 3). Validators: Arabic 4/4, morphology 16/16 + Leeds 18✓/0✗, tafsir aligned (Muyassar's yūqadu bihim = "fed as fuel"). |
 | ~~4,983B~~ **31KB** | `content/tadabbur/044-ad-dukhan/ayahs-001-008.md` | ✅ **FRONT-REBUILT 2026-07-24** (Fable, via skill). The "stub" was actually the surviving **closing synthesis** of the original (Jalalayn on Ḥā-Mīm, Ibn Ṣayyād account, Ṭabarī ikhtilāf on the night) — preserved verbatim; Introduction + Part 1 + Part 2 rebuilt to land on it. Validators: Arabic 8/8 exact, morphology 27/27 (Leeds 27✓/0✗), tafsir report written — al-Muyassar confirms the annual-decree reading (في تلك السنة) and Laylat-al-Qadr identification. |
 | ~~10.8KB~~ **21.6KB** | `content/tadabbur/026-ash-shuara/ayahs-184-190.md` | ✅ **FRONT-REBUILT 2026-07-24** (Fable, via skill). Had **no frontmatter at all** (`---\n---`) and no Introduction/Part 1. Built both; preserved Parts 2–3, Distillation, Duʿā verbatim. Finds: **مُسَحَّر** (Form II passive participle) occurs exactly **2×** in the Quran — 26:153 (Thamūd→Ṣāliḥ) and 26:185 (Aykah→Shuʿayb) — the *identical sentence*, showing rejection follows a script; the ك-ذ-ب hand-back (*kādhibīn* accusation → *fa-kadhdhabūhu*); and Shuʿayb refusing the dare **without cursing** (*rabbī aʿlamu*). Sets up the preserved 'Shadow That Became Fire' — **ظُلَّة** also occurs only 2× (7:171 mountain-canopy, 26:189). Validators: Arabic 7/7 exact, morphology all verified, Leeds 28✓/0✗. |
-| 6,986B | `content/tadabbur/021-al-anbiya/ayah-096.md` | body only 6,986B |
-| 7,219B | `content/tadabbur/065-at-talaq/ayah-003.md` | body only 7,219B |
-| 8,330B | `content/tadabbur/080-abasa/ayah-019.md` | body only 8,330B |
+| 7.7KB | `content/tadabbur/021-al-anbiya/ayah-096.md` | ⚪ **NOT DAMAGED — thin.** Assessed 2026-07-24: full structure present (Introduction, 3 linguistic elements, 2 themes, Closing, Questions, Distillation, Duʿā) and **all validators clean**. It is simply short (7.7KB vs 26KB corpus median). Belongs to the *enrichment* backlog (566 shallow files), not the damage register. |
+| 8.4KB | `content/tadabbur/065-at-talaq/ayah-003.md` | ⚪ **NOT DAMAGED — thin.** Same assessment: complete structure, Arabic 1/1, morphology 8/8, Leeds 8✓/0✗. Enrichment backlog. |
+| 9.1KB | `content/tadabbur/080-abasa/ayah-019.md` | ⚪ **NOT DAMAGED — thin.** Complete structure, morphology 3/3, Leeds 3✓/0✗. Enrichment backlog. |
 | 8,771B | `content/tadabbur/003-aal-imran/_superseded/ayah-101.md` | body only 8,771B |
 
 ## Notes
@@ -50,3 +50,19 @@ Each needs regeneration through the `/quranic-tadabbur` skill + all 3 validators
 - `026-ash-shuara/ayah-191.md` was checked and is **healthy** (full Part 1 present, just unheaded);
   it needs only a `title:` and is not listed here.
 - Median healthy body size in this corpus is ~26,000B, so everything here is well below half.
+
+## Status as of 2026-07-24 (end of session)
+
+**12 files were opened. 9 were genuinely damaged and all 9 are rebuilt.** The remaining 3 turned out
+not to be damaged at all — they are structurally complete and validator-clean, merely *thin*, and
+belong to the enrichment backlog rather than here. One archived file under `_superseded/` is ignored
+by design.
+
+Every rebuilt file is left `validated: false`. The voice check is the human gate; policy is explicit
+that automated systems cannot self-approve.
+
+### A caution worth keeping
+
+`085-al-buruj/ayahs-001-009.md` carried `validated: true` while missing its entire Introduction and
+Part 1. Whatever set that flag was not looking at the body. Treat pre-2026-07 `validated: true` as
+unverified until re-checked.

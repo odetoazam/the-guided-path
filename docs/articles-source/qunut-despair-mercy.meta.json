@@ -1,0 +1,15 @@
+{
+  "slug": "qunut-despair-mercy-quran",
+  "title": "I Checked Every Verse That Uses the Word \"Despair.\" Mercy Is Always Right There.",
+  "excerpt": "The Quran's word for total despair (qunut) appears exactly six times. Every single time, the word for God's mercy sits in the same verse or the verse right next to it — four in the same breath, all six within one verse. A corpus-checked walk through all six.",
+  "seo_title": "Every Time the Quran Says \"Despair,\" Mercy Is Right Next To It",
+  "seo_description": "The Arabic word for total despair (qunut) occurs exactly six times in the Quran. All six sit beside the word for mercy — same verse or the verse adjacent. A verse-by-verse, corpus-verified count.",
+  "tags": ["rahmah", "raja", "tawbah", "connection-reveal", "al-hijr", "ar-rum", "az-zumar", "fussilat", "ash-shura"],
+  "quran_refs": ["15:55", "15:56", "30:36", "39:53", "41:49", "41:50", "42:28"],
+  "reading_time_minutes": 8,
+  "html_path": "docs/articles-source/qunut-despair-mercy.html",
+  "entity_tags": [
+    { "slug": "rahmah", "is_primary": true },
+    { "slug": "raja", "is_primary": false }
+  ]
+}

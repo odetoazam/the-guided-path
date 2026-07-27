@@ -84,7 +84,7 @@ STEP 2 SECOND-PASS AUDIT:
 
 ## The Ayah
 
-[ayah:51:56] وَمَا خَلَقْتُ ٱلْجِنَّ وَٱلْإِنسَ إِلَّا لِيَعْبُدُونِ
+[ayah:51:56] وَمَا خَلَقْتُ ٱلْجِنَّ وَٱلْإِنسَ إِلَّا لِيَعْبُدُونِ
 
 *Wa mā khalaqtu al-jinna wa al-insa illā li-ya'budūn*
 

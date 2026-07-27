@@ -29,7 +29,7 @@ concepts: [tawhid, signs-of-allah, creation, tawakkul]
 
 ## Surah Aal-Imran (3:189)
 
-[ayah:3:189] وَلِلَّهِ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۗ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
+[ayah:3:189] وَلِلَّهِ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۗ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
 
 *Wa li-Llahi mulku al-samawati wa al-ard. Wa Allahu 'ala kulli shay'in qadir.*
 

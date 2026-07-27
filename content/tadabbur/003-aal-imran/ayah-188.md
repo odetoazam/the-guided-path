@@ -35,7 +35,7 @@ concepts: [nafs, ihsan, accountability, tawbah]
 
 ## Surah Aal-Imran (3:188)
 
-[ayah:3:188] لَا تَحْسَبَنَّ ٱلَّذِينَ يَفْرَحُونَ بِمَآ أَتَوا۟ وَّيُحِبُّونَ أَن يُحْمَدُوا۟ بِمَا لَمْ يَفْعَلُوا۟ فَلَا تَحْسَبَنَّهُم بِمَفَازَةٍ مِّنَ ٱلْعَذَابِ ۖ وَلَهُمْ عَذَابٌ أَلِيمٌ
+[ayah:3:188] لَا تَحْسَبَنَّ ٱلَّذِينَ يَفْرَحُونَ بِمَآ أَتَوا۟ وَّيُحِبُّونَ أَن يُحْمَدُوا۟ بِمَا لَمْ يَفْعَلُوا۟ فَلَا تَحْسَبَنَّهُم بِمَفَازَةٍ مِّنَ ٱلْعَذَابِ ۖ وَلَهُمْ عَذَابٌ أَلِيمٌ
 
 *La tahsabanna alladhina yafrahuna bima ataw wa yuhibbuna an yuhmadu bima lam yaf'alu fa-la tahsabannahum bi-mafazatin mina al-'adhab. Wa lahum 'adhabun alim.*
 

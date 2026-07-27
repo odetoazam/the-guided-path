@@ -1,0 +1,17 @@
+{
+  "slug": "hal-adulluka-shall-i-show-you-quran",
+  "title": "\"Shall I Show You…\": The One Sentence the Deceiver and the Guide Both Use",
+  "excerpt": "The offer of guidance — hal adulluka/kum ʿalā, 'shall I show you the way to…' (root d-l-l) — is spoken in the Quran by Shaytan luring Adam (20:120), by Musa's sister inside Pharaoh's palace (28:12), and by God calling the believers (61:10). One identical sentence, three fingers pointing. The counterfeit of guidance uses guidance's own opening line — and the only tell is the direction the finger points.",
+  "seo_title": "Shall I Show You: When the Deceiver Borrows Guidance's Own Words (20:120, 28:12, 61:10)",
+  "seo_description": "The phrase 'shall I show you the way to…' (hal adulluka, root d-l-l) is used by Shaytan (20:120), Musa's sister (28:12), and God (61:10). A corpus-verified reading of how the counterfeit of guidance copies its grammar exactly — and how to tell them apart.",
+  "tags": ["hidayah", "shaytan", "connection-reveal", "waswasa", "tawhid", "ta-ha", "al-qasas", "as-saff"],
+  "quran_refs": ["20:120", "28:12", "61:10", "20:40"],
+  "reading_time_minutes": 6,
+  "html_path": "docs/articles-source/hal-adulluka-shall-i-show-you.html",
+  "entity_tags": [
+    { "slug": "shaytan", "is_primary": true },
+    { "slug": "musa" },
+    { "slug": "adam" },
+    { "slug": "tawhid" }
+  ]
+}

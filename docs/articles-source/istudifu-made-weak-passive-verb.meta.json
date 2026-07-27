@@ -1,0 +1,40 @@
+{
+  "slug": "istudifu-made-weak-passive-verb-quran",
+  "title": "The Quran's Word for the Powerless Is a Verb in the Passive",
+  "excerpt": "Where English says \"the weak,\" the Quran uses istuḍʿifū — a passive verb meaning they were made weak. Its opposite number, istakbarū, is the same grammatical pattern in the active. Of the five occurrences, four sit inside an argument that outlives death; the fifth is God announcing He will reverse the whole arrangement.",
+  "seo_title": "Istuḍʿifū vs Istakbarū: The Grammar of Power in the Quran",
+  "seo_description": "The Quran's word for the oppressed is a passive form X verb — they were made weak — set against the active istakbarū, they made themselves great. Five occurrences, corpus-verified, ending in 28:5.",
+  "tags": [
+    "zulm",
+    "adl",
+    "oppression",
+    "quranic-economics",
+    "what-the-arabic-does",
+    "saba",
+    "al-qasas",
+    "al-araf",
+    "firaun"
+  ],
+  "entity_tags": [
+    {
+      "slug": "zulm",
+      "is_primary": true
+    },
+    {
+      "slug": "firaun"
+    },
+    {
+      "slug": "adl"
+    }
+  ],
+  "quran_refs": [
+    "7:75",
+    "28:4",
+    "28:5",
+    "34:31",
+    "34:32",
+    "34:33"
+  ],
+  "reading_time_minutes": 7,
+  "html_path": "docs/articles-source/istudifu-made-weak-passive-verb.html"
+}

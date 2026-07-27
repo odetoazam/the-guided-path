@@ -29,7 +29,7 @@ concepts: [accountability, akhirah, tawbah, nafs]
 
 ## Surah Aal-Imran (3:182)
 
-[ayah:3:182] ذَٰلِكَ بِمَا قَدَّمَتْ أَيْدِيكُمْ وَأَنَّ ٱللَّهَ لَيْسَ بِظَلَّـٰمٍ لِّلْعَبِيدِ
+[ayah:3:182] ذَٰلِكَ بِمَا قَدَّمَتْ أَيْدِيكُمْ وَأَنَّ ٱللَّهَ لَيْسَ بِظَلَّامٍ لِّلْعَبِيدِ
 
 *Dhalika bima qaddamat aydikum wa anna Allaha laysa bi-zallamin lil-'abid.*
 

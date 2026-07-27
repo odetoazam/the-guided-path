@@ -13,7 +13,7 @@ validated: false
 tags: ["mercy", "forgiveness", "despair", "repentance", "hope", "divine-names", "self-harm", "identity", "prohibition"]
 ---
 
-<!-- ayah:39:53 --> قُلْ يَـٰعِبَادِىَ ٱلَّذِينَ أَسْرَفُوا۟ عَلَىٰٓ أَنفُسِهِمْ لَا تَقْنَطُوا۟ مِن رَّحْمَةِ ٱللَّهِ ۚ إِنَّ ٱللَّهَ يَغْفِرُ ٱلذُّنُوبَ جَمِيعًا ۚ إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ
+<!-- ayah:39:53 --> ۞ قُلْ يَـٰعِبَادِىَ ٱلَّذِينَ أَسْرَفُوا۟ عَلَىٰٓ أَنفُسِهِمْ لَا تَقْنَطُوا۟ مِن رَّحْمَةِ ٱللَّهِ ۚ إِنَّ ٱللَّهَ يَغْفِرُ ٱلذُّنُوبَ جَمِيعًا ۚ إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ
 
 *qul yaa 'ibaadiya-lladheena asrafoo 'alaa anfusihim laa taqnatoo min rahmatillaah. inna-llaaha yaghfiru-dh-dhunooba jamee'aa. innahu huwa-l-ghafooru-r-raheem.*
 

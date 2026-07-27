@@ -31,7 +31,7 @@ tags: [dhul-qarnayn, yajuj-majuj, akhirah, qiyamah, hashr]
 
 ## Surah Al-Kahf (18:99)
 
-[ayah:18:99] ۞ وَتَرَكْنَا بَعْضَهُمْ يَوْمَئِذٍ يَمُوجُ فِى بَعْضٍ ۖ وَنُفِخَ فِى ٱلصُّورِ فَجَمَعْنَـٰهُمْ جَمْعًا
+[ayah:18:99] ۞ وَتَرَكْنَا بَعْضَهُمْ يَوْمَئِذٍ يَمُوجُ فِى بَعْضٍ ۖ وَنُفِخَ فِى ٱلصُّورِ فَجَمَعْنَـٰهُمْ جَمْعًا
 
 *Wa tarakna ba'dahum yawma'idhin yamuju fi ba'din, wa nufikha fi al-suri fa-jama'nahum jam'a.*
 

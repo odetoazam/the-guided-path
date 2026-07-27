@@ -1,0 +1,15 @@
+{
+  "slug": "ibrahim-wife-laugh-strike-quran",
+  "title": "Ibrahim's Wife Hears She'll Have a Son. She Laughs in One Surah and Strikes Her Own Face in Another.",
+  "excerpt": "The Quran tells the annunciation to Ibrahim's household twice. The same three-word phrase (awjasa minhum khifah) pins both to one visit — but where Surah Hud preserves her laugh (11:71), Surah Adh-Dhariyat preserves her striking her own face (51:29, a one-time verb in the whole Quran). Two true gestures of one overwhelmed moment.",
+  "seo_title": "She Laughed (11:71) and Struck Her Face (51:29): One Scene, Two Gestures",
+  "seo_description": "Ibrahim's wife hears she'll bear a son in old age — and the Quran preserves a different gesture in each telling: a laugh in Hud 11:71, a strike to her own face in Adh-Dhariyat 51:29 (sakkat, a hapax). A corpus-verified reading anchored by a verbatim shared phrase.",
+  "tags": ["ibrahim", "connection-reveal", "repeated-scene", "hud", "adh-dhariyat", "bushra"],
+  "quran_refs": ["11:70", "11:71", "11:72", "51:28", "51:29"],
+  "reading_time_minutes": 5,
+  "html_path": "docs/articles-source/ibrahim-wife-laugh-strike.html",
+  "entity_tags": [
+    { "slug": "ibrahim", "is_primary": true },
+    { "slug": "ishaq", "is_primary": false }
+  ]
+}

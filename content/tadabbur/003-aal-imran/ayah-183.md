@@ -33,7 +33,7 @@ concepts: [iman, covenant, prophetic-stories, hidayah, ahl-al-kitab]
 
 ## Surah Aal-Imran (3:183)
 
-[ayah:3:183] ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ عَهِدَ إِلَيْنَآ أَلَّا نُؤْمِنَ لِرَسُولٍ حَتَّىٰ يَأْتِيَنَا بِقُرْبَانٍ تَأْكُلُهُ ٱلنَّارُ ۗ قُلْ قَدْ جَآءَكُمْ رُسُلٌ مِّن قَبْلِى بِٱلْبَيِّنَـٰتِ وَبِٱلَّذِى قُلْتُمْ فَلِمَ قَتَلْتُمُوهُمْ إِن كُنتُمْ صَـٰدِقِينَ
+[ayah:3:183] ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ عَهِدَ إِلَيْنَآ أَلَّا نُؤْمِنَ لِرَسُولٍ حَتَّىٰ يَأْتِيَنَا بِقُرْبَانٍ تَأْكُلُهُ ٱلنَّارُ ۗ قُلْ قَدْ جَآءَكُمْ رُسُلٌ مِّن قَبْلِى بِٱلْبَيِّنَـٰتِ وَبِٱلَّذِى قُلْتُمْ فَلِمَ قَتَلْتُمُوهُمْ إِن كُنتُمْ صَـٰدِقِينَ
 
 *Alladhina qalu inna Allaha 'ahida ilayna alla nu'mina li-rasulin hatta ya'tiyana bi-qurbanin ta'kuluhu al-nar. Qul qad ja'akum rusulun min qabli bi-al-bayyinat wa bi-alladhi qultum fa-lima qataltumuhum in kuntum sadiqin.*
 

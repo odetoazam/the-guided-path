@@ -1,0 +1,17 @@
+{
+  "slug": "ya-abati-vocative-righteous-children-quran",
+  "title": "Every \"O My Dear Father\" in the Quran Is Spoken by a Child Who Turned Out Right",
+  "excerpt": "The vocative yā abati occurs eight times in the Quran, from four speakers — Yusuf, Ibrahim, the daughter of Madyan, Ismail — every one of them upright. And the one son shown withholding the word answers his father's summons with a mountain, and drowns.",
+  "seo_title": "'O My Father' (Ya Abati) in the Quran: A Vocative Pattern",
+  "seo_description": "The Quranic vocative ya abati is spoken only by righteous children — Yusuf, Ibrahim, Ismail, the daughter of Madyan — while Nuh's drowning son withholds it. A close reading of address and adab.",
+  "tags": ["ibrahim", "yusuf", "ismail", "nuh", "quranic-grammar", "prophets", "family"],
+  "quran_refs": ["12:4", "19:42", "19:43", "19:44", "19:45", "28:26", "37:102", "11:42", "11:43"],
+  "reading_time_minutes": 6,
+  "html_path": "docs/articles-source/ya-abati-vocative-quran.html",
+  "entity_tags": [
+    { "slug": "ibrahim", "is_primary": true },
+    { "slug": "yusuf", "is_primary": false },
+    { "slug": "ismail", "is_primary": false },
+    { "slug": "nuh", "is_primary": false }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "quran-never-names-eve-quran",
+  "title": "Everyone \"Knows\" Eve Caused the Fall. The Quran Never Even Names Her.",
+  "excerpt": "The assumption that Eve is to blame for the first sin is one of the most settled in the religious imagination — yet the Quran's account of the fall never names the woman at all. The eating is told in the dual (both, together), the one clause of disobedience names Adam (20:121), and the repentance is a shared 'we have wronged ourselves' (7:23). A corpus-grounded reading set beside the more famous telling.",
+  "seo_title": "Does the Quran Blame Eve for the Fall? She Is Never Even Named",
+  "seo_description": "The Quran's account of the fall never names Eve: the eating is dual (20:121), the one disobedience-clause names Adam, and the couple repents jointly (7:23). A corpus-verified reading of how the Quran refuses to gender the first sin — with an honest comparison to Genesis.",
+  "tags": ["adam", "contested-verses", "connection-reveal", "intertextual", "ta-ha", "al-araf", "tawbah"],
+  "quran_refs": ["20:121", "7:23"],
+  "reading_time_minutes": 6,
+  "html_path": "docs/articles-source/quran-never-names-eve.html",
+  "entity_tags": [
+    { "slug": "adam", "is_primary": true },
+    { "slug": "tawbah", "is_primary": false }
+  ]
+}

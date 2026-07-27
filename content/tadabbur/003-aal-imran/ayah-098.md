@@ -31,7 +31,7 @@ concepts: [signs-of-allah, ahl-al-kitab, iman, ihsan, accountability]
 
 ## Surah Aal-Imran (3:98)
 
-[ayah:3:98] قُلْ يَـٰٓأَهْلَ ٱلْكِتَـٰبِ لِمَ تَكْفُرُونَ بِـَٔايَـٰتِ ٱللَّهِ وَٱللَّهُ شَهِيدٌ عَلَىٰ مَا تَعْمَلُونَ
+[ayah:3:98] قُلْ يَـٰٓأَهْلَ ٱلْكِتَـٰبِ لِمَ تَكْفُرُونَ بِـَٔايَـٰتِ ٱللَّهِ وَٱللَّهُ شَهِيدٌ عَلَىٰ مَا تَعْمَلُونَ
 
 *Qul ya ahla al-kitabi lima takfuruna bi-ayati Allahi wa Allahu shahidun 'ala ma ta'malun.*
 

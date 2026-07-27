@@ -1,0 +1,16 @@
+{
+  "slug": "forgetting-blindness-remembering-sight-quran",
+  "title": "Forgetting Is a Kind of Blindness. Remembering Is Sight.",
+  "excerpt": "The Quran describes the whisperer's opening as failing eyesight: whoever goes 'dim-sighted' toward remembrance (yaʿshu, 43:36) is assigned a companion, and the one who turns from remembrance is raised blind (20:124). Recovery is the same faculty reversed — the God-conscious 'remember, and at once they see' (7:201). And the whisperer's own name, al-Khannās, means 'the one who retreats' — he withdraws the instant God is remembered. The disease and the cure are one dial: how clearly you are seeing God right now.",
+  "seo_title": "Forgetting as Blindness, Remembering as Sight: The Whisper's One Dial (43:36, 7:201, 114:4)",
+  "seo_description": "A corpus-verified reading: the Quran frames heedlessness as dimming eyesight (yaʿshu, 43:36; raised blind, 20:124) and recovery as restored sight (tadhakkaru fa-mubsirun, 7:201). Al-Khannās, 'the retreater,' withdraws the moment God is remembered. Dhikr is the switch.",
+  "tags": ["dhikr", "shaytan", "waswasa", "connection-reveal", "sirat", "hidayah", "an-nas", "al-araf"],
+  "quran_refs": ["43:36", "43:37", "20:124", "114:4", "114:5", "7:201"],
+  "reading_time_minutes": 6,
+  "html_path": "docs/articles-source/forgetting-blindness-remembering-sight.html",
+  "entity_tags": [
+    { "slug": "sirat", "is_primary": true },
+    { "slug": "shaytan" },
+    { "slug": "nafs" }
+  ]
+}

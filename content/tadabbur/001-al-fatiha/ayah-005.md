@@ -65,7 +65,7 @@ FORM DECISIONS:
 
 ## Introduction
 
-[ayah:1:5] إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ
+[ayah:1:5] إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ
 
 *Iyyāka na'budu wa iyyāka nasta'īn*
 

@@ -1,0 +1,15 @@
+{
+  "slug": "ayat-al-kursi-throne-twin-quran",
+  "title": "You Recite Ayat al-Kursi Before Sleep. Its Only Twin Verse Holds a Corpse.",
+  "excerpt": "The word 'throne' (kursi) appears exactly twice in the Quran: God's throne that holds the cosmos without tiring (2:255), and Sulaymān's throne with a lifeless body cast upon it (38:34). And the verse's rarest words — drowsiness, burden, severance — are each used once in the whole Book.",
+  "seo_title": "Ayat al-Kursi: Its Only Twin Throne Holds a Body",
+  "seo_description": "The word kursi (throne) appears exactly twice in the Quran — God's throne over the cosmos and Sulaymān's throne with a body cast on it. A close reading of Ayat al-Kursi's rarest words.",
+  "tags": ["ayat-al-kursi", "tawhid", "sulayman", "al-baqarah", "kursi", "quranic-vocabulary"],
+  "quran_refs": ["2:255", "2:256", "38:34", "38:35"],
+  "reading_time_minutes": 6,
+  "html_path": "docs/articles-source/kursi-twin-throne-corpse.html",
+  "entity_tags": [
+    { "slug": "tawhid", "is_primary": true },
+    { "slug": "sulayman", "is_primary": false }
+  ]
+}

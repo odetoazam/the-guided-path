@@ -39,7 +39,7 @@ concepts: [iman, hidayah, tawbah, dua, raja]
 
 ## Surah Aal-Imran (3:193)
 
-[ayah:3:193] رَّبَّنَآ إِنَّنَا سَمِعْنَا مُنَادِيًا يُنَادِى لِلْإِيمَـٰنِ أَنْ ءَامِنُوا۟ بِرَبِّكُمْ فَـَٔامَنَّا ۚ رَبَّنَا فَٱغْفِرْ لَنَا ذُنُوبَنَا وَكَفِّرْ عَنَّا سَيِّـَٔاتِنَا وَتَوَفَّنَا مَعَ ٱلْأَبْرَارِ
+[ayah:3:193] رَّبَّنَآ إِنَّنَا سَمِعْنَا مُنَادِيًا يُنَادِى لِلْإِيمَـٰنِ أَنْ ءَامِنُوا۟ بِرَبِّكُمْ فَـَٔامَنَّا ۚ رَبَّنَا فَٱغْفِرْ لَنَا ذُنُوبَنَا وَكَفِّرْ عَنَّا سَيِّـَٔاتِنَا وَتَوَفَّنَا مَعَ ٱلْأَبْرَارِ
 
 *Rabbana innana sami'na munadiyan yunadi li-al-imani an aminu bi-rabbikum fa-amanna. Rabbana fa-ghfir lana dhunubana wa kaffir 'anna sayyi'atina wa tawaffana ma'a al-abrar.*
 

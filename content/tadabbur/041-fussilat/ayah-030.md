@@ -92,7 +92,7 @@ SECOND-PASS AUDIT:
 <!-- morphology:41:30:29 root=جنن pos=N -->
 <!-- morphology:41:30:33 root=وعد pos=V -->
 
-[ayah:41:30] إِنَّ ٱلَّذِينَ قَالُوا۟ رَبُّنَا ٱللَّهُ ثُمَّ ٱسْتَقَـٰمُوا۟ تَتَنَزَّلُ عَلَيْهِمُ ٱلْمَلَـٰٓئِكَةُ أَلَّا تَخَافُوا۟ وَلَا تَحْزَنُوا۟ وَأَبْشِرُوا۟ بِٱلْجَنَّةِ ٱلَّتِى كُنتُمْ تُوعَدُونَ
+[ayah:41:30] إِنَّ ٱلَّذِينَ قَالُوا۟ رَبُّنَا ٱللَّهُ ثُمَّ ٱسْتَقَـٰمُوا۟ تَتَنَزَّلُ عَلَيْهِمُ ٱلْمَلَـٰٓئِكَةُ أَلَّا تَخَافُوا۟ وَلَا تَحْزَنُوا۟ وَأَبْشِرُوا۟ بِٱلْجَنَّةِ ٱلَّتِى كُنتُمْ تُوعَدُونَ
 
 *Inna alladheena qaaloo Rabbuna Allahu thumma istaqaamoo tatanazzalu 'alayhimu al-malaa'ikatu alla takhaafoo wa laa tahzanoo wa abshiroo bil-jannatil-latee kuntum too'adoon*
 

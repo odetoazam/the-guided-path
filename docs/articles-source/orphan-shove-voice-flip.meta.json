@@ -1,0 +1,15 @@
+{
+  "slug": "orphan-shove-voice-flip-quran",
+  "title": "You Shove the Orphan Away. The Same Verb Shoves You Into the Fire.",
+  "excerpt": "The violent verb yadu''u (\"he shoves\") is used as a plain verb only twice in the Quran: active at 107:2, where a man shoves the orphan away from his right, and passive at 52:13, where the deniers are shoved into the Fire. Same verb, flipped from active to passive — and both scenes are bracketed by the root for denying the Faith.",
+  "seo_title": "The Verb Used Twice: Shoving the Orphan (107:2) and the Fire (52:13)",
+  "seo_description": "The Quran's verb for a violent shove, yadu''u, appears as a verb only at 107:2 (a man shoves the orphan) and 52:13 (the deniers are shoved into Hell) — active, then passive. A corpus-verified voice-flip reading of Surah Al-Ma'un and Surah At-Tur.",
+  "tags": ["kufr", "qiyamah", "grammar", "connection-reveal", "al-maun", "at-tur", "yatim"],
+  "quran_refs": ["107:1", "107:2", "52:13", "52:14"],
+  "reading_time_minutes": 5,
+  "html_path": "docs/articles-source/orphan-shove-voice-flip.html",
+  "entity_tags": [
+    { "slug": "kufr", "is_primary": true },
+    { "slug": "qiyamah", "is_primary": false }
+  ]
+}

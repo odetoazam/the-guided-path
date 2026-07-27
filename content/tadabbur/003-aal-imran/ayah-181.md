@@ -33,7 +33,7 @@ concepts: [tawhid, nafs, shukr, accountability, akhirah]
 
 ## Surah Aal-Imran (3:181)
 
-[ayah:3:181] لَّقَدْ سَمِعَ ٱللَّهُ قَوْلَ ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ فَقِيرٌ وَنَحْنُ أَغْنِيَآءُ ۘ سَنَكْتُبُ مَا قَالُوا۟ وَقَتْلَهُمُ ٱلْأَنۢبِيَآءَ بِغَيْرِ حَقٍّ وَنَقُولُ ذُوقُوا۟ عَذَابَ ٱلْحَرِيقِ
+[ayah:3:181] لَّقَدْ سَمِعَ ٱللَّهُ قَوْلَ ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ فَقِيرٌ وَنَحْنُ أَغْنِيَآءُ ۘ سَنَكْتُبُ مَا قَالُوا۟ وَقَتْلَهُمُ ٱلْأَنۢبِيَآءَ بِغَيْرِ حَقٍّ وَنَقُولُ ذُوقُوا۟ عَذَابَ ٱلْحَرِيقِ
 
 *Laqad sami'a Allahu qawla alladhina qalu inna Allaha faqirun wa nahnu aghniya'. Sanaktubu ma qalu wa qatlahumu al-anbiya'a bi-ghayri haqqin wa naqulu dhuqu 'adhaba al-hariq.*
 

@@ -42,7 +42,7 @@ tags:
 
 ### Surah az-Zukhruf, Ayah 70
 
-> <!-- ayah:43:70 --> ٱدْخُلُوا۟ ٱلْجَنَّةَ أَنتُمْ وَأَزْوَٰجُكُمْ تُحْبَرُونَ
+> <!-- ayah:43:70 --> ٱدْخُلُوا۟ ٱلْجَنَّةَ أَنتُمْ وَأَزْوَٰجُكُمْ تُحْبَرُونَ
 
 *Udkhulū al-jannata antum wa-azwājukum tuḥbarūn.*
 
@@ -58,7 +58,7 @@ I want you to picture a gathering. Not a formal one. The kind you actually have.
 
 Now hear what Allah says will happen to that bond on the Day of Judgment:
 
-> <!-- ayah:43:67 --> ٱلْأَخِلَّآءُ يَوْمَئِذٍۭ بَعْضُهُمْ لِبَعْضٍ عَدُوٌّ إِلَّا ٱلْمُتَّقِينَ
+> <!-- ayah:43:67 --> ٱلْأَخِلَّآءُ يَوْمَئِذٍۭ بَعْضُهُمْ لِبَعْضٍ عَدُوٌّ إِلَّا ٱلْمُتَّقِينَ
 
 *"Close friends, that Day, will be enemies to one another — except the God-conscious."*
 
@@ -68,7 +68,7 @@ Sit with that. **The people you love most in this world — that Day, they turn 
 
 And here is the emotional pivot of the entire passage. Having described this scene of universal betrayal — where the whole architecture of human closeness collapses into mutual enmity — Allah does not keep speaking *about* people. He turns. He addresses them directly:
 
-> <!-- ayah:43:68 --> يَٰعِبَادِ لَا خَوْفٌ عَلَيْكُمُ ٱلْيَوْمَ وَلَآ أَنتُمْ تَحْزَنُونَ
+> <!-- ayah:43:68 --> يَـٰعِبَادِ لَا خَوْفٌ عَلَيْكُمُ ٱلْيَوْمَ وَلَآ أَنتُمْ تَحْزَنُونَ
 
 *"O My servants — no fear upon you this Day, nor shall you grieve."*
 

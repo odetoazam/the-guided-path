@@ -1,0 +1,15 @@
+{
+  "slug": "qatalahum-allah-curse-quran",
+  "title": "The Four Words People Read as a Curse — and the Half of Them Everyone Drops",
+  "excerpt": "The phrase qatalahumu-llah — quoted as proof the Quran curses its enemies — appears in exactly two verses (9:30, 63:4), both ending the same way. The commentators do read it as an imprecation, but its verb is the figurative Form III \"fight-against,\" and the half everyone drops — anna yu'fakun, \"how are they so deluded\" — recurs three more times with no curse at all.",
+  "seo_title": "What Does \"Qatalahumu-llah\" Mean? Quran 9:30 and 63:4 in Full",
+  "seo_description": "\"May God curse them\" (qatalahumu-llah) appears in exactly two Quran verses, 9:30 and 63:4. A corpus-verified reading: the classical imprecation, the Form III verb, and the astonishment half — anna yu'fakun — that recurs curse-free at 5:75, 29:61, 43:87.",
+  "tags": ["contested-verses", "grammar", "connection-reveal", "at-tawbah", "al-munafiqun", "shirk", "nifaq"],
+  "quran_refs": ["9:30", "63:4", "5:75", "29:61", "43:87"],
+  "reading_time_minutes": 6,
+  "html_path": "docs/articles-source/qatalahum-allah-curse-idiom.html",
+  "entity_tags": [
+    { "slug": "shirk", "is_primary": true },
+    { "slug": "nifaq", "is_primary": false }
+  ]
+}

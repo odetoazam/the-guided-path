@@ -1,5 +1,5 @@
 # Leeds Morphology Validation Report
-Generated: Thu Jul 23 20:32:12 PDT 2026
+Generated: Mon Jul 27 00:45:41 PDT 2026
 
 Files with morphology root/form mismatches against Leeds Quranic Corpus:
 
@@ -22,6 +22,16 @@ Summary:  1 ✓  |  0 ⚠  |  1 ✗
 
 ──────────────────────────────────────────────────
 Summary:  35 ✓  |  0 ⚠  |  2 ✗
+```
+
+## content/tadabbur/003-aal-imran/ayah-009.md
+
+```
+  ✗ أنس — root "Ans" not found in any word of 3:9-9
+
+
+──────────────────────────────────────────────────
+Summary:  7 ✓  |  0 ⚠  |  1 ✗
 ```
 
 ## content/tadabbur/003-aal-imran/ayahs-142-145.md
@@ -103,16 +113,6 @@ Summary:  13 ✓  |  0 ⚠  |  2 ✗
 
 ──────────────────────────────────────────────────
 Summary:  5 ✓  |  0 ⚠  |  1 ✗
-```
-
-## content/tadabbur/071-nuh/ayahs-026-028.md
-
-```
-  ✗ bwr — root "bwr" not found in any word of 71:26-28
-
-
-──────────────────────────────────────────────────
-Summary:  2 ✓  |  0 ⚠  |  1 ✗
 ```
 
 ## content/tadabbur/059-al-hashr/ayah-021.md
@@ -402,20 +402,6 @@ Summary:  0 ✓  |  0 ⚠  |  1 ✗
 
 ──────────────────────────────────────────────────
 Summary:  1 ✓  |  0 ⚠  |  1 ✗
-```
-
-## content/tadabbur/075-al-qiyamah/ayah-002.md
-
-```
-  ✗ قوم — root "qwm" not found in any word of 75:2-2
-  ✗ يوم — root "ywm" not found in any word of 75:2-2
-  ✗ قوم — root "qwm" not found in any word of 75:2-2
-  ✗ يوم — root "ywm" not found in any word of 75:2-2
-  ✗ قوم — root "qwm" not found in any word of 75:2-2
-
-
-──────────────────────────────────────────────────
-Summary:  10 ✓  |  0 ⚠  |  5 ✗
 ```
 
 ## content/tadabbur/075-al-qiyamah/ayahs-026-030.md
@@ -784,12 +770,11 @@ Summary:  35 ✓  |  0 ⚠  |  1 ✗
 ```
   ✗ رضي — root "rDy" not found in any word of 2:120-121
   ✗ هود — root "hwd" not found in any word of 2:120-121
-  ✗ رضي — root "rDy" not found in any word of 2:120-121
   ✗ هود — root "hwd" not found in any word of 2:120-121
 
 
 ──────────────────────────────────────────────────
-Summary:  41 ✓  |  0 ⚠  |  4 ✗
+Summary:  42 ✓  |  0 ⚠  |  3 ✗
 ```
 
 ## content/tadabbur/002-al-baqarah/ayahs-094-096.md
@@ -883,18 +868,6 @@ Summary:  31 ✓  |  0 ⚠  |  5 ✗
 
 ──────────────────────────────────────────────────
 Summary:  85 ✓  |  0 ⚠  |  6 ✗
-```
-
-## content/tadabbur/001-al-fatiha/ayah-001.md
-
-```
-  ✗ a-l-h — root "alh" not found in any word of 1:1-1
-  ✗ r-h-m — root "rhm" not found in any word of 1:1-1
-  ✗ r-h-m — root "rhm" not found in any word of 1:1-1
-
-
-──────────────────────────────────────────────────
-Summary:  5 ✓  |  0 ⚠  |  3 ✗
 ```
 
 ## content/tadabbur/001-al-fatiha/ayah-005.md
@@ -1249,16 +1222,6 @@ Summary:  38 ✓  |  0 ⚠  |  2 ✗
 Summary:  1 ✓  |  0 ⚠  |  1 ✗
 ```
 
-## content/tadabbur/033-al-ahzab/ayah-032.md
-
-```
-  ✗ معرو — root "mErw" not found in any word of 33:32-32
-
-
-──────────────────────────────────────────────────
-Summary:  0 ✓  |  0 ⚠  |  1 ✗
-```
-
 ## content/tadabbur/033-al-ahzab/ayah-014.md
 
 ```
@@ -1585,16 +1548,6 @@ Summary:  16 ✓  |  0 ⚠  |  2 ✗
 
 ──────────────────────────────────────────────────
 Summary:  47 ✓  |  0 ⚠  |  1 ✗
-```
-
-## content/tadabbur/043-az-zukhruf/ayah-044.md
-
-```
-  ✗ دكر — root "dkr" not found in any word of 43:44-44
-
-
-──────────────────────────────────────────────────
-Summary:  0 ✓  |  0 ⚠  |  1 ✗
 ```
 
 ## content/tadabbur/031-luqman/ayah-029.md
@@ -2203,6 +2156,16 @@ Summary:  0 ✓  |  0 ⚠  |  1 ✗
 Summary:  1 ✓  |  0 ⚠  |  1 ✗
 ```
 
+## content/tadabbur/021-al-anbiya/ayahs-076-077.md
+
+```
+  ✗ ندي — root "ndy" not found in any word of 21:76-77
+
+
+──────────────────────────────────────────────────
+Summary:  17 ✓  |  0 ⚠  |  1 ✗
+```
+
 ## content/tadabbur/021-al-anbiya/ayah-093.md
 
 ```
@@ -2218,6 +2181,6 @@ Summary:  0 ✓  |  0 ⚠  |  1 ✗
 
 ## Summary
 - Total files scanned: 3024
-- Files with morphology claims: 2285
-- ✅ Passed (all claims verified): 2077
-- ❌ Failed (one or more mismatches): 208
+- Files with morphology claims: 2286
+- ✅ Passed (all claims verified): 2081
+- ❌ Failed (one or more mismatches): 205

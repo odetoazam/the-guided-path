@@ -32,7 +32,7 @@ word_count: 2912
 
 ## INTRODUCTION
 
-[ayah:90:4] لَقَدْ خَلَقْنَا ٱلْإِنسَٰنَ فِى كَبَدٍ
+[ayah:90:4] لَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ فِى كَبَدٍ
 
 *Laqad khalaqnā-l-insāna fī kabad.*
 

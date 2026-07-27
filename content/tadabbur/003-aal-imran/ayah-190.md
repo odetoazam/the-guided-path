@@ -32,7 +32,7 @@ concepts: [signs-of-allah, aql, creation, nature, tawhid]
 
 ## Surah Aal-Imran (3:190)
 
-[ayah:3:190] إِنَّ فِى خَلْقِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَٱخْتِلَـٰفِ ٱلَّيْلِ وَٱلنَّهَارِ لَـَٔايَـٰتٍ لِّأُو۟لِى ٱلْأَلْبَـٰبِ
+[ayah:3:190] إِنَّ فِى خَلْقِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَٱخْتِلَـٰفِ ٱلَّيْلِ وَٱلنَّهَارِ لَـَٔايَـٰتٍ لِّأُو۟لِى ٱلْأَلْبَـٰبِ
 
 *Inna fi khalqi al-samawati wa al-ard wa ikhtilafi al-layli wa al-nahari la-ayatin li-uli al-albab.*
 

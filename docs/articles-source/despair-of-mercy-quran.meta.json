@@ -1,0 +1,16 @@
+{
+  "slug": "despair-of-mercy-unbelief-quran",
+  "title": "The One Despair the Quran Files Under Unbelief",
+  "excerpt": "The Quran lets grief, fear, and exhaustion stand uncorrected. But every time it names the despairing of God's mercy, it either forbids it outright or hands it to the disbelievers as the mark of who they are.",
+  "seo_title": "Despairing of God's Mercy in the Quran (Qunut, Ya's)",
+  "seo_description": "Every time the Quran names despairing of God's mercy, it forbids it or assigns it to the disbelievers and the astray. A close reading of 12:87, 15:56, 39:53, and 29:23.",
+  "tags": ["tawbah", "rahmah", "qunut", "yaqub", "ibrahim", "concepts", "quranic-vocabulary"],
+  "quran_refs": ["12:87", "39:53", "15:56", "29:23", "30:12"],
+  "reading_time_minutes": 6,
+  "html_path": "docs/articles-source/despair-of-mercy-quran.html",
+  "entity_tags": [
+    { "slug": "tawbah", "is_primary": true },
+    { "slug": "yaqub", "is_primary": false },
+    { "slug": "ibrahim", "is_primary": false }
+  ]
+}

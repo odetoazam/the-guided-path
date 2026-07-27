@@ -80,7 +80,7 @@ SECOND-PASS AUDIT:
 - PROCEED
 -->
 
-[ayah:19:4] قَالَ رَبِّ إِنِّى وَهَنَ ٱلْعَظْمُ مِنِّى وَٱشْتَعَلَ ٱلرَّأْسُ شَيْبًا وَلَمْ أَكُنۢ بِدُعَآئِكَ رَبِّ شَقِيًّا
+[ayah:19:4] قَالَ رَبِّ إِنِّى وَهَنَ ٱلْعَظْمُ مِنِّى وَٱشْتَعَلَ ٱلرَّأْسُ شَيْبًا وَلَمْ أَكُنۢ بِدُعَآئِكَ رَبِّ شَقِيًّا
 
 *Qaala Rabbi innee wahana al-'azmu minnee wash-ta'ala ar-ra'su shayban wa lam akun bi-du'aa'ika rabbi shaqiyya*
 

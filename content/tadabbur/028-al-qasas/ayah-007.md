@@ -94,7 +94,7 @@ SECOND-PASS AUDIT:
 <!-- morphology:28:7:37 root=جعل pos=N -->
 <!-- morphology:28:7:41 root=رسل pos=N -->
 
-[ayah:28:7] وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ
+[ayah:28:7] وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ
 
 *Wa awhaynaa ilaa ummi Moosaa an arDi'eehi fa-idhaa khifti 'alayhi fa-alqeehi fil-yammi wa laa takhaafee wa laa tahzanee innaa raaddoohu ilayki wa jaa'iloohu minal-mursaleen*
 

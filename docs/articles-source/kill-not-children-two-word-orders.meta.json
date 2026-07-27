@@ -1,0 +1,15 @@
+{
+  "slug": "kill-not-children-two-word-orders-quran",
+  "title": "Two Verses Forbid the Same Thing. The Word Order Tells You Who Was Afraid.",
+  "excerpt": "The Quran forbids killing children out of poverty twice — 6:151 and 17:31 — and rearranges two things between them. In 6:151 the poverty is present (min imlāq) and God says 'We provide for you and for them'; in 17:31 the poverty is feared (khashyata imlāq) and the order flips to 'We provide for them and for you.' The reassurance names first, in each case, exactly the person the parent's fear was circling — the already-poor parent's own hands, the anxious parent's child.",
+  "seo_title": "Kill Not Your Children: How 6:151 and 17:31 Reorder the Same Command (min imlāq vs khashyata imlāq)",
+  "seo_description": "A corpus-verified reading of the Quran's two prohibitions on killing children: 6:151 (present poverty, 'you and them') vs 17:31 (feared poverty, 'them and you'). The pronoun order and the poverty-word both flip to answer two different parental fears.",
+  "tags": ["rahmah", "tawhid", "what-the-arabic-does", "balagha", "al-anam", "al-isra", "rizq"],
+  "quran_refs": ["6:151", "17:31"],
+  "reading_time_minutes": 5,
+  "html_path": "docs/articles-source/kill-not-children-two-word-orders.html",
+  "entity_tags": [
+    { "slug": "rahmah", "is_primary": true },
+    { "slug": "tawhid" }
+  ]
+}

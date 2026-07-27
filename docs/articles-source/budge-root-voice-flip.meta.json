@@ -1,0 +1,15 @@
+{
+  "slug": "budge-root-voice-flip-death-quran",
+  "title": "The Funeral Verse Is Passive. Its Only Twin Isn't.",
+  "excerpt": "The rare root behind \"drawn away\" (zuhziha) appears only twice in the Quran: denied in the active voice at 2:96 (a lifespan cannot budge you from punishment), granted in the passive voice at 3:185 (the funeral verse). One word, two verses, one complete answer to who actually does the rescuing.",
+  "seo_title": "Why Is 3:185 in the Passive Voice? Quran's Rare Zahzaha Root",
+  "seo_description": "The root behind \"drawn away from the Fire\" in Quran 3:185 appears only once more, in 2:96 — in the active voice, and denied. A corpus-verified reading of the Quran's only voice-flip on rescue from punishment.",
+  "tags": ["mawt", "qiyamah", "grammar", "connection-reveal", "aal-imran", "al-baqarah"],
+  "quran_refs": ["2:96", "3:185"],
+  "reading_time_minutes": 6,
+  "html_path": "docs/articles-source/budge-root-voice-flip.html",
+  "entity_tags": [
+    { "slug": "mawt", "is_primary": true },
+    { "slug": "qiyamah", "is_primary": false }
+  ]
+}

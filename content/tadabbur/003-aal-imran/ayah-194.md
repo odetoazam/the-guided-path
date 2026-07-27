@@ -33,7 +33,7 @@ concepts: [prophethood, akhirah, resurrection, raja, tawakkul]
 
 ## Surah Aal-Imran (3:194)
 
-[ayah:3:194] رَبَّنَا وَءَاتِنَا مَا وَعَدتَّنَا عَلَىٰ رُسُلِكَ وَلَا تُخْزِنَا يَوْمَ ٱلْقِيَـٰمَةِ ۗ إِنَّكَ لَا تُخْلِفُ ٱلْمِيعَادَ
+[ayah:3:194] رَبَّنَا وَءَاتِنَا مَا وَعَدتَّنَا عَلَىٰ رُسُلِكَ وَلَا تُخْزِنَا يَوْمَ ٱلْقِيَـٰمَةِ ۗ إِنَّكَ لَا تُخْلِفُ ٱلْمِيعَادَ
 
 *Rabbana wa atina ma wa'adtana 'ala rusulika wa la tukhzina yawma al-qiyamah. Innaka la tukhlifu al-mi'ad.*
 

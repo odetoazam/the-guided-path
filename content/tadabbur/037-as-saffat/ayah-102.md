@@ -37,7 +37,7 @@ tags: [ibrahim, ismail, sacrifice, submission, tawakkul, sabr, consultation, in-
 # The Vision and the Consent
 ### As-Saffat 37:102
 
-> <!-- ayah:37:102 -->     فَلَمَّا بَلَغَ مَعَهُ ٱلسَّعْىَ قَالَ يَٰبُنَىَّ إِنِّىٓ أَرَىٰ فِى ٱلْمَنَامِ أَنِّىٓ أَذْبَحُكَ فَٱنظُرْ مَاذَا تَرَىٰ ۚ قَالَ يَٰٓأَبَتِ ٱفْعَلْ مَا تُؤْمَرُ ۖ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّٰبِرِينَ
+> <!-- ayah:37:102 -->     فَلَمَّا بَلَغَ مَعَهُ ٱلسَّعْىَ قَالَ يَـٰبُنَىَّ إِنِّىٓ أَرَىٰ فِى ٱلْمَنَامِ أَنِّىٓ أَذْبَحُكَ فَٱنظُرْ مَاذَا تَرَىٰ ۚ قَالَ يَـٰٓأَبَتِ ٱفْعَلْ مَا تُؤْمَرُ ۖ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّـٰبِرِينَ
 >
 > *Fa-lammā balagha maʿahu s-saʿya qāla yā bunayya innī arā fi-l-manāmi annī adhbaḥuka fa-nẓur mādhā tarā. Qāla yā abati-fʿal mā tuʾmaru, satajidunī in shāʾa Llāhu mina ṣ-ṣābirīn.*
 >

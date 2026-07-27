@@ -1,0 +1,16 @@
+{
+  "slug": "verb-fork-zakariyya-maryam-quran",
+  "title": "God Changed One Verb: Zakariyya, Maryam, and the Grammar of Two Miracles",
+  "excerpt": "Two people ask God almost the same question seven verses apart. Both answers run word for word in parallel until the verb: God 'does' for Zakariyya, 'creates' for Maryam. The whole theology of how ʿIsa began sits in one substitution.",
+  "seo_title": "Zakariyya and Maryam: One Verb Apart — Quran 3:47",
+  "seo_description": "Seven verses apart in Aal-Imran, God answers two annunciations with one verb changed — 'does' for Zakariyya, 'creates' for Maryam. A close reading of how the Quran narrates the birth of ʿIsa.",
+  "tags": ["isa", "maryam", "zakariyya", "aal-imran", "annunciation", "khalq", "quranic-grammar"],
+  "quran_refs": ["3:40", "3:47", "3:59", "19:8", "19:9"],
+  "reading_time_minutes": 8,
+  "html_path": "docs/articles-source/verb-fork-zakariyya-maryam.html",
+  "entity_tags": [
+    { "slug": "isa", "is_primary": true },
+    { "slug": "maryam", "is_primary": true },
+    { "slug": "zakariyya", "is_primary": false }
+  ]
+}

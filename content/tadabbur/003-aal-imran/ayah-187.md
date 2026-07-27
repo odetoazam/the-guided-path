@@ -36,7 +36,7 @@ concepts: [covenant, quran, hidayah, ahl-al-kitab, law-and-ethics]
 
 ## Surah Aal-Imran (3:187)
 
-[ayah:3:187] وَإِذْ أَخَذَ ٱللَّهُ مِيثَـٰقَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ لَتُبَيِّنُنَّهُۥ لِلنَّاسِ وَلَا تَكْتُمُونَهُۥ فَنَبَذُوهُ وَرَآءَ ظُهُورِهِمْ وَٱشْتَرَوْا۟ بِهِۦ ثَمَنًا قَلِيلًا ۖ فَبِئْسَ مَا يَشْتَرُونَ
+[ayah:3:187] وَإِذْ أَخَذَ ٱللَّهُ مِيثَـٰقَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ لَتُبَيِّنُنَّهُۥ لِلنَّاسِ وَلَا تَكْتُمُونَهُۥ فَنَبَذُوهُ وَرَآءَ ظُهُورِهِمْ وَٱشْتَرَوْا۟ بِهِۦ ثَمَنًا قَلِيلًا ۖ فَبِئْسَ مَا يَشْتَرُونَ
 
 *Wa idh akhadha Allahu mithaqa alladhina utu al-kitaba la-tubayyinunnahu li-al-nasi wa la taktumunahu. Fa-nabadhuhu wara'a zuhurihim wa ishtaraw bihi thamanan qalilan. Fa-bi'sa ma yashtarun.*
 

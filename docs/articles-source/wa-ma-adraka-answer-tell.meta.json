@@ -1,0 +1,15 @@
+{
+  "slug": "wa-ma-adraka-answer-tell-quran",
+  "title": "The Quran Has a Tell for Whether It Will Answer Its Own Question",
+  "excerpt": "The Quran keeps asking 'and what will make you know what this is?' — and a single letter tells you if an answer is coming. With the perfect-tense verb adrāka (13 times), the very next line always answers (al-Ḥuṭamah, Laylat al-Qadr, al-Qariah). With the imperfect-tense yudrīka (exactly 3 times), the answer never comes — only 'perhaps': the Hour's timing (33:63, 42:17) and a soul's future (80:3). The tense sorts what the Quran opens from what it keeps sealed.",
+  "seo_title": "Wa-mā adrāka vs wa-mā yudrīka: How One Verb Tense Signals a Quranic Answer",
+  "seo_description": "A corpus-verified reading: the Quran's rhetorical question uses adrāka (perfect, 13×) when an answer follows in the next line, and yudrīka (imperfect, 3×) when the answer is withheld — the Hour and a soul's end. The verb aspect marks knowable from sealed.",
+  "tags": ["qiyamah", "tawhid", "what-the-arabic-does", "balagha", "al-ghayb", "al-qariah", "al-humazah", "abasa"],
+  "quran_refs": ["101:10", "101:11", "104:5", "104:6", "33:63", "80:3"],
+  "reading_time_minutes": 6,
+  "html_path": "docs/articles-source/wa-ma-adraka-answer-tell.html",
+  "entity_tags": [
+    { "slug": "qiyamah", "is_primary": true },
+    { "slug": "tawhid" }
+  ]
+}

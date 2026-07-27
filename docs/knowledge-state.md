@@ -1,7 +1,7 @@
 # AyahGuide Knowledge State
 
 *Maintained by the hub-article-pipeline skill. Updated at the end of every writing session.*
-*Last updated: 2026-04-05*
+*Last updated: 2026-07-26*
 
 ---
 
@@ -70,6 +70,24 @@ This document is read by the hub-article-pipeline skill at the start of every se
 | Dunya | 1 ✅ | Being vs. having (Al-Kahf two gardens parable — complete scene + philosophy + surah positioning) |
 | Shukr | 0 — | Not started |
 | Ikhlas | 0 — | Not started |
+
+---
+
+### Quranic Economics (new cluster, 2026-07-26 — 5 articles)
+
+Seeded by a Nouman Ali Khan khutbah transcript ("Quranic Economics 101"): the Makkan Quran argues with the **elite**, and economic corruption is one of its main lines of criticism. Corpus-first selection; all five published.
+
+| Article | Hook (corpus-verified) |
+|---|---|
+| `/posts/mutrafun-affluent-rejected-every-prophet-quran` | مُتْرَف = passive participle (form IV, ت-ر-ف), 5×, all negative; stated as a rule twice (34:34, 43:23). Jalālayn glosses it *ruʾasāʾihā*, chiefs. |
+| `/posts/istudifu-made-weak-passive-verb-quran` | ٱسْتُضْعِفُوا form X **passive** ×5 vs ٱسْتَكْبَرُوا form X **active**; 28:4 active-with-Pharaoh → 28:5 passive-with-God's-reversal. |
+| `/posts/wealthy-arguments-always-theology-quran` | Every argument the Quran quotes from the wealthy is a claim about God: 36:47, 34:35, 11:87, 43:31→32. |
+| `/posts/riba-only-declaration-of-war-quran` | Root ح-ر-ب ×11; only 2:279 runs a war God→humans, over a financial practice. Guardrail: no ruling on modern instruments. |
+| `/posts/aqabah-steep-climb-al-balad-quran` | Root ق-ح-م ×2, both form VIII: plunging *down* into fire (38:59) vs never plunging *up* the pass (90:11). Hapax-dense definition, all economic. |
+
+**Unwritten, corpus-verified, same cluster:** `qāla al-malaʾ` ×10 (opposition always named by job title; 11:27's slur *arādhilunā*) · the identical `yabkhalūna wa-yaʾmurūna'n-nāsa bi'l-bukhl` at 4:37 // 57:24 · 9:34 *yaknizūn* + religious office as economic actor · **أكل as the Quran's verb for financial crime** (2:188, 4:2, 4:10, 4:29, 9:34, 2:275 — corruption as *eating*) · Al-Fajr 89:15–20's pivot from ancient civilisations to "you do not honour the orphan" · 93:6–11, the Prophet's biography mirrored clause-for-clause in the commands.
+
+**Overlap guard used:** Shuʿayb fair-trade, Qārūn wealth-theology, two-garden-owners, and al-Māʿūn's *yaduʿʿu* were already published and own their angles; these five avoid them.
 
 ---
 
@@ -170,13 +188,13 @@ These are connections that exist implicitly in already-published articles but ha
 
 ## Priority Gaps
 
-### Tier 5: What the Arabic Does (0 of 14 written)
+### Tier 5: What the Arabic Does (2 of 14 written)
 These are the most differentiated articles on the site — nowhere else does this exist in English with this quality. Highest priority after entity hubs are complete.
 
 Top 3 to write first (by editorial impact):
-1. **"Why the Quran Changes Who It's Talking To Mid-Verse"** — iltifat as rhetorical device. Foundation article that would contextualize dozens of existing tadabbur records.
-2. **"The Same Prohibition, Two Word Orders, Two Audiences"** — don't kill your children (6:151 vs 17:31). Accessible, shareable, single surprising insight.
-3. **"Wa-Ma Adra-ka: The Question the Quran Only Asks When It's About to Answer"** — knowable vs unknowable, perfect vs imperfect tense. Very high shareability.
+1. **"Why the Quran Changes Who It's Talking To Mid-Verse"** — iltifat as rhetorical device. Foundation article that would contextualize dozens of existing tadabbur records. *(Note: a scene-specific iltifat piece exists — `/posts/storm-changes-the-grammar-quran`, Yunus 10:22 — but the foundational overview is still unwritten.)*
+2. ~~**"The Same Prohibition, Two Word Orders, Two Audiences"** — don't kill your children (6:151 vs 17:31).~~ ✅ WRITTEN 2026-07-22 → `/posts/kill-not-children-two-word-orders-quran` — min imlāq (present poverty, "you and them") vs khashyata imlāq (feared poverty, "them and you"); the pronoun order flips to name first the person each parent feared for. Pronoun-flip reasoning flagged as balāgha reading (not in the 4 core tafsirs); al-Muyassar grounds the present-vs-feared split.
+3. ~~**"Wa-Ma Adra-ka: The Question the Quran Only Asks When It's About to Answer"**~~ ✅ WRITTEN 2026-07-22 → `/posts/wa-ma-adraka-answer-tell-quran` — perfect *adrāka* (13×, answer always follows next line) vs imperfect *yudrīka* (3× — 33:63/42:17 the Hour, 80:3 a soul — always followed by *laʿalla*, answer withheld). The verb aspect signals knowable-because-I'll-tell-you vs sealed-off. Pure corpus fact (counts + always-answers/never-answers); the "why" framed as the reader takeaway, no unverified attribution.
 
 ### Tier 6: Prophetic Parallels & Cross-Story (3 of 8 written)
 The most intellectually ambitious articles on the site. Require the entity hub articles as foundation (which now exist).

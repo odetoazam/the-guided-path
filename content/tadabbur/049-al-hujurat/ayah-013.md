@@ -49,7 +49,7 @@ word_count: 3952
 4. Methodology: Primarily tafsir bil-dirayah (linguistic analysis) supported by tafsir bil-riwayah (historical context of the Farewell Sermon and conquest).
 -->
 
-[ayah:49:13] يَـٰٓأَيُّهَا ٱلنَّاسُ إِنَّا خَلَقْنَـٰكُم مِّن ذَكَرٍ وَأُنثَىٰ وَجَعَلْنَـٰكُمْ شُعُوبًا وَقَبَآئِلَ لِتَعَارَفُوٓا۟ ۚ إِنَّ أَكْرَمَكُمْ عِندَ ٱللَّهِ أَتْقَىٰكُمْ ۚ إِنَّ ٱللَّهَ عَلِيمٌ خَبِيرٌ
+[ayah:49:13] يَـٰٓأَيُّهَا ٱلنَّاسُ إِنَّا خَلَقْنَـٰكُم مِّن ذَكَرٍ وَأُنثَىٰ وَجَعَلْنَـٰكُمْ شُعُوبًا وَقَبَآئِلَ لِتَعَارَفُوٓا۟ ۚ إِنَّ أَكْرَمَكُمْ عِندَ ٱللَّهِ أَتْقَىٰكُمْ ۚ إِنَّ ٱللَّهَ عَلِيمٌ خَبِيرٌ
 
 *yā ayyuhā n-nāsu innā khalaqnākum min dhakarin wa-unthā wa-ja'alnākum shu'ūban wa-qabā'ila li-ta'ārafū — inna akramakum 'inda llāhi atqākum — inna llāha 'alīmun khabīr*
 

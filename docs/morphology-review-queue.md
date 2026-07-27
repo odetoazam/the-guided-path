@@ -138,3 +138,40 @@ and, in several cases, unusually good.
 Fix `scripts/validate-morphology-leeds.mjs` to (a) resolve roots through the same corpus data the
 other validators use, and (b) skip mentions inside a negation window. Until then its output is
 ~85% noise and must not gate anything.
+
+
+---
+
+# QUEUE CLOSED — 2026-07-24
+
+All remaining flagged items were opened and read in context. Final disposition:
+
+## Real errors found and FIXED (2 more, bringing the session total to 6)
+
+1. **`043-az-zukhruf/ayah-044.md`** — prose read *"The root **د-ك-ر** carries, at its core, the idea of
+   something being brought to mind."* The root of ذِكْر is **ذ-ك-ر** (dhāl), not **د-ك-ر** (dāl). One
+   letter, but it is a factual claim about an Arabic root. Fixed → Leeds now 1✓/0✗.
+2. **`033-al-ahzab/ayah-032.md`** — prose read *"The root **م-ع-ر-و-ف** — *maʿrūf* — comes from
+   *ʿarafa*."* That string is the **word spelled out**, not a root; the root is **ع-ر-ف**, which the
+   very same sentence then states correctly. Self-contradictory. Rewritten to
+   *"The word *maʿrūf* is built on the root ع-ر-ف — from *ʿarafa*."* Leeds now 1✓/0✗.
+   (The file's own frontmatter pruning-note already listed ع-ر-ف correctly — only the prose was wrong.)
+
+## Everything else: dispositioned, no change needed
+
+| Pattern | Files | Verdict |
+|---|---|---|
+| **Generic grammar teaching example** — "take the root ك-ت-ب…", "take the root ك-ر-م…" used to explain how verb forms work, nothing to do with the ayah | 34:19, 51:35, 5:75, 21:37, 28:69, 21:83 | Checker artifact. Correct as written. |
+| **Cross-surah / adjacent-verse reference** — 87:16-19 citing *al-Aʿlā* from 87:1; 74:39-41 explicitly saying *"the verse directly before ours — 74:38"* | 87:16-19, 74:39-41 | Correct and well-signposted. |
+| **Latin-transliterated roots in prose** (`k-s-b`, `s-b-r`, `a-l-h`) used as teaching examples | 47:1, 31:31, 70:11-18 | Prose only — **not** the Al-Fatiha tag defect. No morphology tags affected. Fine. |
+| **Step 0 grounding-table rows for words the corpus assigns no root** — proper nouns and particles: مَرْيَم (PN), أَنَّىٰ (INTG), يَـٰلَيْتَ (particle), جَهَنَّم (PN) | 19:16-21, 19:22-26, 2:204-210 | The corpus lists these with **no root**, so any root given is an unverifiable derivation rather than a corpus fact. Low risk (internal tables, not reader-facing claims) but worth softening if these files are ever revised. Logged, not changed. |
+| **In-range after all** — 37:40-49 claiming معن, which is present at 37:45 (*maʿīn*) | 37:40-49 | Checker range bug. Correct. |
+
+## Bottom line
+
+Of **338** problems the Leeds checker reported across the corpus, **6 were real**, and all 6 are now
+fixed. The remaining ~332 are the four documented checker bugs: negation-blindness, root-resolution
+failure, qirāʾāt-blindness, and cross-surah-blindness.
+
+**The checker still must not be used as a pass/fail gate until it is repaired.** Its value is as a
+*lead generator* for human review — which is exactly how it was used here.

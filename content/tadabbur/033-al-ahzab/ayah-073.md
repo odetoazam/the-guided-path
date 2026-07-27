@@ -36,7 +36,7 @@ Step 0 morphology anchors (flat sub-token positions; prefixes/suffixes each coun
 
 ## The Ayah
 
-> <!-- ayah:33:73 --> لِّيُعَذِّبَ ٱللَّهُ ٱلْمُنَٰفِقِينَ وَٱلْمُنَٰفِقَٰتِ وَٱلْمُشْرِكِينَ وَٱلْمُشْرِكَٰتِ وَيَتُوبَ ٱللَّهُ عَلَى ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ ۗ وَكَانَ ٱللَّهُ غَفُورًۭا رَّحِيمًۢا
+> <!-- ayah:33:73 --> لِّيُعَذِّبَ ٱللَّهُ ٱلْمُنَـٰفِقِينَ وَٱلْمُنَـٰفِقَـٰتِ وَٱلْمُشْرِكِينَ وَٱلْمُشْرِكَـٰتِ وَيَتُوبَ ٱللَّهُ عَلَى ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ ۗ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًۢا
 
 **Liyu'adhdhiba Allāhu al-munāfiqīna wa-l-munāfiqāti wa-l-mushrikīna wa-l-mushrikāti wa-yatūba Allāhu 'alā al-mu'minīna wa-l-mu'mināti, wa-kāna Allāhu ghafūran rahīmā.**
 

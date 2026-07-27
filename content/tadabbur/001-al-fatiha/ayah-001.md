@@ -48,7 +48,7 @@ MORPHOLOGY TAGS:
 
 ## Introduction
 
-[ayah:1:1] بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ
+[ayah:1:1] بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ
 
 *Bismillāhi r-Raḥmāni r-Raḥīm*
 

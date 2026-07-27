@@ -42,7 +42,7 @@ tags: [al-maidah, wilaya, walī, belonging, humility, ruku, zakah, salah, loyalt
 
 ## The Ayah
 
-> <!-- ayah:5:55 -->     إِنَّمَا وَلِيُّكُمُ اللَّهُ وَرَسُولُهُ وَالَّذِينَ آمَنُوا الَّذِينَ يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ رَاكِعُونَ
+> <!-- ayah:5:55 -->     إِنَّمَا وَلِيُّكُمُ ٱللَّهُ وَرَسُولُهُۥ وَٱلَّذِينَ ءَامَنُوا۟ ٱلَّذِينَ يُقِيمُونَ ٱلصَّلَوٰةَ وَيُؤْتُونَ ٱلزَّكَوٰةَ وَهُمْ رَٰكِعُونَ
 >
 > *Innamā waliyyukumu-llāhu wa rasūluhu walladhīna āmanū alladhīna yuqīmūna-ṣ-ṣalāta wa yu'tūna-z-zakāta wa hum rāki'ūn.*
 >

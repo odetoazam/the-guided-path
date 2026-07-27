@@ -1,0 +1,15 @@
+{
+  "slug": "khawiya-collapsed-roofs-quran",
+  "title": "The Quran Has One Picture of a Caved-In Building. It Uses It Three Times, for Three Different Reasons.",
+  "excerpt": "The exact phrase khawiyatun 'ala 'urushiha — a place \"fallen in upon its own roofs\" — appears in exactly three Quran verses, and each time it backs a different lesson: a question about resurrection (2:259), the ruin of misplaced trust in wealth (18:42), and the fall of a wrongdoing nation (22:45). One collapse-image, spent three ways.",
+  "seo_title": "\"Fallen in Upon Its Roofs\": The Phrase in Quran 2:259, 18:42, 22:45",
+  "seo_description": "The phrase khawiyatun 'ala 'urushiha (\"fallen in upon its roofs\") appears in exactly three Quran verses, each carrying a different lesson: resurrection (2:259), misplaced trust (18:42), and the fall of the unjust (22:45). A corpus-verified reading — the word khawiya alone appears five times.",
+  "tags": ["qiyamah", "connection-reveal", "al-baqarah", "al-kahf", "al-hajj"],
+  "quran_refs": ["2:259", "18:42", "22:45"],
+  "reading_time_minutes": 5,
+  "html_path": "docs/articles-source/khawiya-collapsed-roofs.html",
+  "entity_tags": [
+    { "slug": "qiyamah", "is_primary": true },
+    { "slug": "shirk", "is_primary": false }
+  ]
+}
