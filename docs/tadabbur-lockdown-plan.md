@@ -206,6 +206,73 @@ migration and a separate decision. Body `[ayah:]` lines — the surface that act
 and the one `verify_arabic` gates on — run **0 changes across all 3,029 files**, confirming
 both that last session's normalization held and that this tool has no false positives.
 
+## ⚠ THE BIG ONE — "0 failures" mostly means "nothing was examined"
+
+The 2026-07-24 close reports *Quran text — all 3,029 files `--scan`: **0 failures*** and
+*Morphology whole corpus: **0 failures***. Both are true. Neither means what it looks like.
+
+A file is only checked by `verify_arabic` if it carries an `[ayah:S:A]` tag, and only by
+`verify_morphology` if it carries a `<!-- morphology:... -->` tag. Measured 2026-07-27:
+
+| | Files | % of corpus |
+|---|---|---|
+| No `[ayah:S:A]` tag — `verify_arabic` has nothing to check | 2,270 | **75.3%** |
+| No morphology tag — `verify_morphology` has nothing to check | 2,126 | **70.5%** |
+| **Neither — both validators silent, file passes vacuously** | **2,120** | **70.3%** |
+
+File list: `scripts/review-v2/validator-blind-files.txt`.
+
+So the mechanical green light covers **under a third of the corpus**. The remaining 70%
+is not "verified clean" — it is *unexamined*. This is the same shape as the June 29
+enricher lesson: a passing check that was never actually looking. It also explains how
+`085-al-buruj/ayahs-001-009.md` could sit at `validated: true` while missing its entire
+front half, and how the two Quran-text defect classes (fabricated ayah, subject-dropping
+elision) survived every automated pass.
+
+**Consequence for the validated-flag decision:** flipping any file to `validated: true`
+on the strength of "all validators pass" is, for ~70% of the corpus, flipping it on the
+strength of no evidence at all. That makes the human voice-check gate more necessary,
+not less. Do not treat validator-green as evidence for these files.
+
+**The fix is a tagging pass, not a validator change.** The validators are correct; they
+are simply not being given anything to check. Adding `[ayah:S:A]` tags to the 2,270
+untagged files would bring the Arabic verifier from 25% to full coverage, and is
+mechanical (each file's frontmatter already declares `surah`, `ayah_start`, `ayah_end`).
+That is the highest-leverage integrity work left in this corpus.
+
+## Review re-run — the ~94%-artifact assumption is WRONG
+
+20 files re-reviewed against correct pairing (Opus, `scripts/review-v2/batch-0*.json`):
+
+| New verdict | Count |
+|---|---|
+| CRITICAL | 4 |
+| MODERATE | 7 |
+| MINOR | 5 |
+| PASS | 4 |
+
+Only **4 of 20 came back clean.** The old log was wrong in *both* directions — many
+CRITICALs dissolved, but `035-fatir/ayah-018.md` carried only MODERATE while containing a
+flatly wrong root (`ج-ز-ر` printed for `و-ز-ر`, contradicted by the transliteration on
+the same line). **So the log cannot be bulk-cleared either.** Real defects confirmed:
+
+- `002-al-baqarah/ayahs-146-148.md` — `فَٱسْتَبِقُوا۟` labelled Form X in frontmatter,
+  body and the `VF:10` tag. It is Form VIII; Form X (`استسبق`) does not exist. The body
+  hedge "Form VIII or X — there is scholarly discussion" invents a controversy. Plus
+  al-Tabari listed as holding the Prophet-referent reading when his block in the report
+  takes the other side.
+- `030-ar-rum/ayah-045.md` — the whole second-half thesis ("divine non-engagement, not
+  hatred… Allah does not say 'He punishes them'") is contradicted by its own report:
+  al-Jalalayn glosses `أي يعاقبهم`, al-Muyassar `لسخطه وغضبه عليهم`.
+- `076-al-insan/ayahs-008-010.md` — `يُطْعِمُونَ ٱلطَّعَامَ` called a cognate object
+  (*mafʿūl muṭlaq*); it is a plain *mafʿūl bihi*, and a whole section rests on the
+  non-existent construction. Plus an apparently invented al-Zamakhsharī position.
+- `035-fatir/ayah-018.md` — wrong root. **Fixed.**
+
+Sensitive-content check came back clean where it was most likely to fail: no evolutionary
+over-reading on 29:20, no political framing on 76:8-10, and the *asīr*-as-POW reading
+matches al-Muyassar.
+
 ## Graph rebuilt
 
 `npm run graph` → fresh against corpus `894d68ed79fb6fd9`, 3,009 files, 3,008 nodes,
