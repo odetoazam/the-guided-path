@@ -242,19 +242,31 @@ That is the highest-leverage integrity work left in this corpus.
 
 ## Review re-run — the ~94%-artifact assumption is WRONG
 
-20 files re-reviewed against correct pairing (Opus, `scripts/review-v2/batch-0*.json`):
+30 files re-reviewed against correct pairing (Opus, `scripts/review-v2/ALL-RESULTS.json`):
 
-| New verdict | Count |
-|---|---|
-| CRITICAL | 4 |
-| MODERATE | 7 |
-| MINOR | 5 |
-| PASS | 4 |
+| New verdict | Count | | Old verdict | Count |
+|---|---|---|---|---|
+| CRITICAL | **7** | | CRITICAL | 22 |
+| MODERATE | **12** | | MODERATE | 8 |
+| MINOR | 5 | | | |
+| PASS | **6** | | | |
 
-Only **4 of 20 came back clean.** The old log was wrong in *both* directions — many
-CRITICALs dissolved, but `035-fatir/ayah-018.md` carried only MODERATE while containing a
-flatly wrong root (`ج-ز-ر` printed for `و-ز-ر`, contradicted by the transliteration on
-the same line). **So the log cannot be bulk-cleared either.** Real defects confirmed:
+**Artifact rate: 16/30 = 53%, not the assumed ~94%.** And only **6 of 30 came back
+clean** — 20%. The old log was wrong in *both* directions. Three files were *escalated*
+MODERATE → CRITICAL:
+
+- `035-fatir/ayah-018.md` — printed root `ج-ز-ر` where the transliteration on the very
+  same line says "wāw, zāy, rāʾ". **Fixed.**
+- `076-al-insan/ayahs-008-010.md` — a whole section built on a non-existent grammatical
+  construction.
+- `002-al-baqarah/ayahs-261-266.md` — `ٱحْتَرَقَتْ` glossed as internal self-combustion
+  when the ayah itself names the external agent (`إعصار فيه نار`).
+
+**So the log can neither be trusted nor bulk-cleared.** Both shortcuts were on the table
+at the start of this session; the sample killed both. The 824-file review queue has to be
+worked file by file.
+
+Real defects confirmed (all 7 CRITICALs listed in `ALL-RESULTS.json`):
 
 - `002-al-baqarah/ayahs-146-148.md` — `فَٱسْتَبِقُوا۟` labelled Form X in frontmatter,
   body and the `VF:10` tag. It is Form VIII; Form X (`استسبق`) does not exist. The body
