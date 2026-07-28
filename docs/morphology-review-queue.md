@@ -199,6 +199,38 @@ footnote and narration numbers rather than ayah markers. A reliable detector mus
 on the ayah number that terminates his `القول في تأويل قوله … (NNN)` formula *and*
 exclude footnote markers — until then, treat the scale as open.
 
+## ✅ THE OFFSET DEFECT IS NOW MEASURABLE TOO (2026-07-27)
+
+`scripts/detect_tafsir_offset.mjs` sidesteps the counting problem by **never parsing a
+number**. It reads the Arabic each block actually quotes and asks which ayah of the
+report's own passage contains it — the same method the enrichment agents use by hand.
+
+Over 1,367 reports: **710 blocks in 302 reports quote an ayah other than their heading.**
+
+| Commentator | Blocks |
+|---|---|
+| Ibn Kathir (English) | 526 |
+| al-Tabari (Arabic) | 163 |
+| al-Muyassar (Arabic) | 21 |
+
+| Pattern | Count |
+|---|---|
+| off by exactly 1 **backward** (the classic signature) | 354 |
+| off by exactly 1 forward | 69 |
+| off by more than 1, same surah | 278 |
+| points at a different surah entirely | 9 |
+| **quoting nothing at all from their own heading ayah** | **686** |
+
+**Read this as a lead list, not a hard count.** Known false-positive mode: a commentator
+may legitimately quote the *previous* ayah while setting up the current one, and if he
+quotes it more than the current one the block is flagged. The **686 that quote nothing
+from their own heading ayah** are the defensible core. The 526 Ibn Kathir figure also
+overlaps the duplicate-block measurement below, since a block pasted under every heading
+is necessarily wrong under all but one.
+
+Either way the operational conclusion is settled: **per-ayah attribution cannot be taken
+from the heading in these reports.** List: `scripts/review-v2/tafsir-offset-blocks.json`.
+
 ## ✅ SCALE NOW MEASURED for one sub-class (2026-07-27)
 
 The *offset* defect still resists counting. But the **duplicate-block** sub-class —
