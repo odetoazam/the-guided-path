@@ -234,11 +234,39 @@ on the strength of "all validators pass" is, for ~70% of the corpus, flipping it
 strength of no evidence at all. That makes the human voice-check gate more necessary,
 not less. Do not treat validator-green as evidence for these files.
 
-**The fix is a tagging pass, not a validator change.** The validators are correct; they
-are simply not being given anything to check. Adding `[ayah:S:A]` tags to the 2,270
-untagged files would bring the Arabic verifier from 25% to full coverage, and is
-mechanical (each file's frontmatter already declares `surah`, `ayah_start`, `ayah_end`).
-That is the highest-leverage integrity work left in this corpus.
+**The Arabic half is fixed.** `scripts/add_ayah_tags.mjs` tagged 2,760 verses across
+1,845 files, taking `verify_arabic` coverage from **24.7% → 85.9%**, and immediately
+exposed **2,692 verses in 1,829 files carrying drift nothing had ever checked** (all
+normalized). 425 files remain untagged and 683 lines were near-misses — Arabic that
+resembles a verse without matching it. Those are deliberately left for a human, because
+"resembles" is exactly how the elision and fabrication defects would slip through.
+
+### The morphology half has a cause, and it is a convention
+
+Found via `021-al-anbiya/ayahs-053-054.md`, whose three false grammar claims
+`verify_morphology` could never have caught:
+
+| | Files |
+|---|---|
+| Using the `<!-- morphology pruned: ... -->` convention | 2,136 |
+| Of those, with **zero** machine-checkable morphology tags | **2,123** (70%) |
+
+The convention replaces per-word tags with a prose note — *"key roots documented in
+classical lexicons (Lisān al-ʿArab, Mufradāt al-Rāghib); linguistic journey draws only
+on lexically attested meanings."* That sentence is not checkable by anything. So the
+morphology blind spot is **not missing work — it is a deliberate design choice** that
+removed the machine guard from 70% of the corpus.
+
+And the defects found on 2026-07-27 are precisely the class it hides: verb form
+(Form VIII labelled Form X), pronoun number (`هَا` called feminine plural), and
+governance (a required *lām al-taqwiya* sold as an elective stylistic choice). Every
+grammar assertion in those 2,123 files is unguarded and always has been.
+List: `scripts/review-v2/morphology-pruned-unguarded.txt`.
+
+**This is the decision Azam has to make**, because un-pruning is a real cost and the
+prose notes may have been a deliberate size/noise tradeoff: either restore per-word
+tags in those files, or accept that grammar claims there are human-review-only forever
+and stop treating a green `verify_morphology` as meaning anything about them.
 
 ## Review re-run — the ~94%-artifact assumption is WRONG
 
