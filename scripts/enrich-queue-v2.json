@@ -1,0 +1,2648 @@
+[
+ {
+  "path": "content/tadabbur/010-yunus/ayahs-085-086.md",
+  "bytes": 6283,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/010-yunus/tafsir-report-085-086.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 3618
+ },
+ {
+  "path": "content/tadabbur/010-yunus/ayah-087.md",
+  "bytes": 6549,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/010-yunus/tafsir-report-087.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 2209
+ },
+ {
+  "path": "content/tadabbur/010-yunus/ayah-093.md",
+  "bytes": 6575,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/010-yunus/tafsir-report-093.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 2506
+ },
+ {
+  "path": "content/tadabbur/007-al-araf/ayahs-040-041.md",
+  "bytes": 6953,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/007-al-araf/tafsir-report-040-041.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4188
+ },
+ {
+  "path": "content/tadabbur/014-ibrahim/ayah-023.md",
+  "bytes": 7051,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/014-ibrahim/tafsir-report-023.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 2088
+ },
+ {
+  "path": "content/tadabbur/021-al-anbiya/ayah-096.md",
+  "bytes": 7274,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/021-al-anbiya/tafsir-report-096.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4208
+ },
+ {
+  "path": "content/tadabbur/015-al-hijr/ayahs-078-079.md",
+  "bytes": 7286,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/015-al-hijr/tafsir-report-078-079.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4028
+ },
+ {
+  "path": "content/tadabbur/014-ibrahim/ayahs-019-020.md",
+  "bytes": 7549,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/014-ibrahim/tafsir-report-019-020.md",
+  "old": "MODERATE",
+  "enriched": false,
+  "tafsir_bytes": 3738
+ },
+ {
+  "path": "content/tadabbur/014-ibrahim/ayah-018.md",
+  "bytes": 7571,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/014-ibrahim/tafsir-report-018.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 2247
+ },
+ {
+  "path": "content/tadabbur/007-al-araf/ayahs-044-045.md",
+  "bytes": 7840,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/007-al-araf/tafsir-report-044-045.md",
+  "old": "MINOR",
+  "enriched": false,
+  "tafsir_bytes": 4407
+ },
+ {
+  "path": "content/tadabbur/009-at-tawbah/ayahs-047-048.md",
+  "bytes": 7920,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/009-at-tawbah/tafsir-report-047-048.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4464
+ },
+ {
+  "path": "content/tadabbur/015-al-hijr/ayahs-097-099.md",
+  "bytes": 7925,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/015-al-hijr/tafsir-report-097-099.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4510
+ },
+ {
+  "path": "content/tadabbur/010-yunus/ayahs-062-064.md",
+  "bytes": 7957,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/010-yunus/tafsir-report-062-064.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 5688
+ },
+ {
+  "path": "content/tadabbur/007-al-araf/ayahs-001-003.md",
+  "bytes": 7964,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/007-al-araf/tafsir-report-001-003.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 5829
+ },
+ {
+  "path": "content/tadabbur/009-at-tawbah/ayahs-045-046.md",
+  "bytes": 7979,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/009-at-tawbah/tafsir-report-045-046.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4186
+ },
+ {
+  "path": "content/tadabbur/010-yunus/ayahs-057-058.md",
+  "bytes": 8072,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/010-yunus/tafsir-report-057-058.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4516
+ },
+ {
+  "path": "content/tadabbur/011-hud/ayah-035.md",
+  "bytes": 8139,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/011-hud/tafsir-report-035.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 2154
+ },
+ {
+  "path": "content/tadabbur/011-hud/ayah-044.md",
+  "bytes": 8196,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/011-hud/tafsir-report-044.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 2166
+ },
+ {
+  "path": "content/tadabbur/007-al-araf/ayahs-057-058.md",
+  "bytes": 8224,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/007-al-araf/tafsir-report-057-058.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4776
+ },
+ {
+  "path": "content/tadabbur/007-al-araf/ayahs-031-032.md",
+  "bytes": 8333,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/007-al-araf/tafsir-report-031-032.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4535
+ },
+ {
+  "path": "content/tadabbur/010-yunus/ayahs-013-014.md",
+  "bytes": 8378,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/010-yunus/tafsir-report-013-014.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4116
+ },
+ {
+  "path": "content/tadabbur/010-yunus/ayahs-083-084.md",
+  "bytes": 8408,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/010-yunus/tafsir-report-083-084.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4093
+ },
+ {
+  "path": "content/tadabbur/015-al-hijr/ayahs-090-093.md",
+  "bytes": 8499,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/015-al-hijr/tafsir-report-090-093.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 8185
+ },
+ {
+  "path": "content/tadabbur/009-at-tawbah/ayahs-038-039.md",
+  "bytes": 8508,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/009-at-tawbah/tafsir-report-038-039.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4470
+ },
+ {
+  "path": "content/tadabbur/012-yusuf/ayahs-001-003.md",
+  "bytes": 8621,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/012-yusuf/tafsir-report-001-003.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 5274
+ },
+ {
+  "path": "content/tadabbur/007-al-araf/ayahs-052-053.md",
+  "bytes": 8630,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/007-al-araf/tafsir-report-052-053.md",
+  "old": "MINOR",
+  "enriched": false,
+  "tafsir_bytes": 4630
+ },
+ {
+  "path": "content/tadabbur/014-ibrahim/ayahs-016-017.md",
+  "bytes": 8660,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/014-ibrahim/tafsir-report-016-017.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 3928
+ },
+ {
+  "path": "content/tadabbur/009-at-tawbah/ayahs-071-072.md",
+  "bytes": 8680,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/009-at-tawbah/tafsir-report-071-072.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4477
+ },
+ {
+  "path": "content/tadabbur/007-al-araf/ayahs-023-025.md",
+  "bytes": 8730,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/007-al-araf/tafsir-report-023-025.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 5579
+ },
+ {
+  "path": "content/tadabbur/010-yunus/ayahs-074-075.md",
+  "bytes": 8736,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/010-yunus/tafsir-report-074-075.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4542
+ },
+ {
+  "path": "content/tadabbur/015-al-hijr/ayahs-049-050.md",
+  "bytes": 8752,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/015-al-hijr/tafsir-report-049-050.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 3733
+ },
+ {
+  "path": "content/tadabbur/007-al-araf/ayahs-042-043.md",
+  "bytes": 8755,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/007-al-araf/tafsir-report-042-043.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4515
+ },
+ {
+  "path": "content/tadabbur/011-hud/ayahs-074-076.md",
+  "bytes": 8755,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/011-hud/tafsir-report-074-076.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 5592
+ },
+ {
+  "path": "content/tadabbur/010-yunus/ayahs-088-089.md",
+  "bytes": 8835,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/010-yunus/tafsir-report-088-089.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4358
+ },
+ {
+  "path": "content/tadabbur/015-al-hijr/ayahs-085-086.md",
+  "bytes": 8881,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/015-al-hijr/tafsir-report-085-086.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4265
+ },
+ {
+  "path": "content/tadabbur/009-at-tawbah/ayahs-073-074.md",
+  "bytes": 8933,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/009-at-tawbah/tafsir-report-073-074.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4484
+ },
+ {
+  "path": "content/tadabbur/005-al-maidah/ayah-081.md",
+  "bytes": 8974,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/005-al-maidah/tafsir-report-081.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 3986
+ },
+ {
+  "path": "content/tadabbur/009-at-tawbah/ayahs-017-018.md",
+  "bytes": 9032,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/009-at-tawbah/tafsir-report-017-018.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 3840
+ },
+ {
+  "path": "content/tadabbur/008-al-anfal/ayahs-015-016.md",
+  "bytes": 9075,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/008-al-anfal/tafsir-report-015-016.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4051
+ },
+ {
+  "path": "content/tadabbur/010-yunus/ayah-061.md",
+  "bytes": 9077,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/010-yunus/tafsir-report-061.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 2388
+ },
+ {
+  "path": "content/tadabbur/014-ibrahim/ayah-021.md",
+  "bytes": 9091,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/014-ibrahim/tafsir-report-021.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 2450
+ },
+ {
+  "path": "content/tadabbur/010-yunus/ayahs-011-012.md",
+  "bytes": 9093,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/010-yunus/tafsir-report-011-012.md",
+  "old": "MODERATE",
+  "enriched": false,
+  "tafsir_bytes": 4517
+ },
+ {
+  "path": "content/tadabbur/010-yunus/ayahs-007-010.md",
+  "bytes": 9190,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/010-yunus/tafsir-report-007-010.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 7528
+ },
+ {
+  "path": "content/tadabbur/009-at-tawbah/ayahs-042-044.md",
+  "bytes": 9246,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/009-at-tawbah/tafsir-report-042-044.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 6431
+ },
+ {
+  "path": "content/tadabbur/008-al-anfal/ayahs-024-025.md",
+  "bytes": 9275,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/008-al-anfal/tafsir-report-024-025.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4450
+ },
+ {
+  "path": "content/tadabbur/009-at-tawbah/ayahs-063-066.md",
+  "bytes": 9328,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/009-at-tawbah/tafsir-report-063-066.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 7951
+ },
+ {
+  "path": "content/tadabbur/006-al-anam/ayah-046.md",
+  "bytes": 9339,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/006-al-anam/tafsir-report-046.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 2356
+ },
+ {
+  "path": "content/tadabbur/009-at-tawbah/ayahs-034-035.md",
+  "bytes": 9346,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/009-at-tawbah/tafsir-report-034-035.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4379
+ },
+ {
+  "path": "content/tadabbur/010-yunus/ayahs-059-060.md",
+  "bytes": 9347,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/010-yunus/tafsir-report-059-060.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4498
+ },
+ {
+  "path": "content/tadabbur/009-at-tawbah/ayahs-011-012.md",
+  "bytes": 9378,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/009-at-tawbah/tafsir-report-011-012.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4113
+ },
+ {
+  "path": "content/tadabbur/018-al-kahf/ayah-098.md",
+  "bytes": 9600,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/018-al-kahf/tafsir-report-098.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4519
+ },
+ {
+  "path": "content/tadabbur/011-hud/ayahs-025-026.md",
+  "bytes": 9625,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/011-hud/tafsir-report-025-026.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 3689
+ },
+ {
+  "path": "content/tadabbur/007-al-araf/ayahs-026-027.md",
+  "bytes": 9690,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/007-al-araf/tafsir-report-026-027.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4582
+ },
+ {
+  "path": "content/tadabbur/012-yusuf/ayahs-097-098.md",
+  "bytes": 9725,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/012-yusuf/tafsir-report-097-098.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 3370
+ },
+ {
+  "path": "content/tadabbur/014-ibrahim/ayahs-028-030.md",
+  "bytes": 9795,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/014-ibrahim/tafsir-report-028-030.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 6651
+ },
+ {
+  "path": "content/tadabbur/011-hud/ayahs-023-024.md",
+  "bytes": 9808,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/011-hud/tafsir-report-023-024.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4020
+ },
+ {
+  "path": "content/tadabbur/003-aal-imran/ayah-191.md",
+  "bytes": 9894,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/003-aal-imran/tafsir-report-191.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 2112
+ },
+ {
+  "path": "content/tadabbur/004-an-nisa/ayahs-174-175.md",
+  "bytes": 9900,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/004-an-nisa/tafsir-report-174-175.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4111
+ },
+ {
+  "path": "content/tadabbur/011-hud/ayahs-042-043.md",
+  "bytes": 9916,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/011-hud/tafsir-report-042-043.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4292
+ },
+ {
+  "path": "content/tadabbur/017-al-isra/ayahs-016-017.md",
+  "bytes": 9924,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/017-al-isra/tafsir-report-016-017.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 3923
+ },
+ {
+  "path": "content/tadabbur/010-yunus/ayahs-068-070.md",
+  "bytes": 9926,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/010-yunus/tafsir-report-068-070.md",
+  "old": "PASS",
+  "enriched": false,
+  "tafsir_bytes": 5903
+ },
+ {
+  "path": "content/tadabbur/014-ibrahim/ayahs-049-052.md",
+  "bytes": 9961,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/014-ibrahim/tafsir-report-049-052.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 7652
+ },
+ {
+  "path": "content/tadabbur/007-al-araf/ayahs-054-056.md",
+  "bytes": 9970,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/007-al-araf/tafsir-report-054-056.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 6570
+ },
+ {
+  "path": "content/tadabbur/010-yunus/ayahs-065-067.md",
+  "bytes": 9975,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/010-yunus/tafsir-report-065-067.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 6232
+ },
+ {
+  "path": "content/tadabbur/009-at-tawbah/ayahs-025-027.md",
+  "bytes": 9982,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/009-at-tawbah/tafsir-report-025-027.md",
+  "old": "MINOR",
+  "enriched": false,
+  "tafsir_bytes": 5707
+ },
+ {
+  "path": "content/tadabbur/007-al-araf/ayahs-080-084.md",
+  "bytes": 9987,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/007-al-araf/tafsir-report-080-084.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 9468
+ },
+ {
+  "path": "content/tadabbur/008-al-anfal/ayahs-038-040.md",
+  "bytes": 9994,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/008-al-anfal/tafsir-report-038-040.md",
+  "old": "MINOR",
+  "enriched": false,
+  "tafsir_bytes": 6731
+ },
+ {
+  "path": "content/tadabbur/016-an-nahl/ayahs-098-100.md",
+  "bytes": 10000,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/016-an-nahl/tafsir-report-098-100.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 5348
+ },
+ {
+  "path": "content/tadabbur/010-yunus/ayahs-054-056.md",
+  "bytes": 10056,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/010-yunus/tafsir-report-054-056.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 5781
+ },
+ {
+  "path": "content/tadabbur/010-yunus/ayahs-018-020.md",
+  "bytes": 10057,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/010-yunus/tafsir-report-018-020.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 6565
+ },
+ {
+  "path": "content/tadabbur/004-an-nisa/ayah-040.md",
+  "bytes": 10076,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/004-an-nisa/tafsir-report-040.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 7737
+ },
+ {
+  "path": "content/tadabbur/005-al-maidah/ayahs-078-079.md",
+  "bytes": 10105,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/005-al-maidah/tafsir-report-078-079.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 3923
+ },
+ {
+  "path": "content/tadabbur/011-hud/ayahs-048-049.md",
+  "bytes": 10128,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/011-hud/tafsir-report-048-049.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4151
+ },
+ {
+  "path": "content/tadabbur/013-ar-rad/ayahs-014-015.md",
+  "bytes": 10139,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/013-ar-rad/tafsir-report-014-015.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4339
+ },
+ {
+  "path": "content/tadabbur/011-hud/ayahs-109-111.md",
+  "bytes": 10172,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/011-hud/tafsir-report-109-111.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 6311
+ },
+ {
+  "path": "content/tadabbur/018-al-kahf/ayahs-095-097.md",
+  "bytes": 10242,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/018-al-kahf/tafsir-report-095-097.md",
+  "old": "MODERATE",
+  "enriched": false,
+  "tafsir_bytes": 7415
+ },
+ {
+  "path": "content/tadabbur/016-an-nahl/ayahs-001-004.md",
+  "bytes": 10257,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/016-an-nahl/tafsir-report-001-004.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 7968
+ },
+ {
+  "path": "content/tadabbur/015-al-hijr/ayahs-026-027.md",
+  "bytes": 10276,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/015-al-hijr/tafsir-report-026-027.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 3801
+ },
+ {
+  "path": "content/tadabbur/009-at-tawbah/ayahs-023-024.md",
+  "bytes": 10286,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/009-at-tawbah/tafsir-report-023-024.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4775
+ },
+ {
+  "path": "content/tadabbur/007-al-araf/ayahs-028-030.md",
+  "bytes": 10287,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/007-al-araf/tafsir-report-028-030.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 6171
+ },
+ {
+  "path": "content/tadabbur/014-ibrahim/ayahs-045-048.md",
+  "bytes": 10303,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/014-ibrahim/tafsir-report-045-048.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 14349
+ },
+ {
+  "path": "content/tadabbur/011-hud/ayahs-036-037.md",
+  "bytes": 10350,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/011-hud/tafsir-report-036-037.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4090
+ },
+ {
+  "path": "content/tadabbur/007-al-araf/ayahs-094-095.md",
+  "bytes": 10362,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/007-al-araf/tafsir-report-094-095.md",
+  "old": "MINOR",
+  "enriched": false,
+  "tafsir_bytes": 5830
+ },
+ {
+  "path": "content/tadabbur/008-al-anfal/ayahs-020-023.md",
+  "bytes": 10368,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/008-al-anfal/tafsir-report-020-023.md",
+  "old": "MODERATE",
+  "enriched": false,
+  "tafsir_bytes": 8208
+ },
+ {
+  "path": "content/tadabbur/007-al-araf/ayahs-033-036.md",
+  "bytes": 10378,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/007-al-araf/tafsir-report-033-036.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 8452
+ },
+ {
+  "path": "content/tadabbur/010-yunus/ayahs-015-017.md",
+  "bytes": 10402,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/010-yunus/tafsir-report-015-017.md",
+  "old": "MODERATE",
+  "enriched": false,
+  "tafsir_bytes": 6408
+ },
+ {
+  "path": "content/tadabbur/011-hud/ayahs-112-115.md",
+  "bytes": 10515,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/011-hud/tafsir-report-112-115.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 7199
+ },
+ {
+  "path": "content/tadabbur/011-hud/ayahs-040-041.md",
+  "bytes": 10550,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/011-hud/tafsir-report-040-041.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4611
+ },
+ {
+  "path": "content/tadabbur/011-hud/ayahs-038-039.md",
+  "bytes": 10570,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/011-hud/tafsir-report-038-039.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 3951
+ },
+ {
+  "path": "content/tadabbur/010-yunus/ayahs-041-044.md",
+  "bytes": 10580,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/010-yunus/tafsir-report-041-044.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 7976
+ },
+ {
+  "path": "content/tadabbur/005-al-maidah/ayah-069.md",
+  "bytes": 10607,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/005-al-maidah/tafsir-report-069.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4552
+ },
+ {
+  "path": "content/tadabbur/007-al-araf/ayahs-059-064.md",
+  "bytes": 10625,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/007-al-araf/tafsir-report-059-064.md",
+  "old": "MINOR",
+  "enriched": false,
+  "tafsir_bytes": 11071
+ },
+ {
+  "path": "content/tadabbur/009-at-tawbah/ayahs-036-037.md",
+  "bytes": 10628,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/009-at-tawbah/tafsir-report-036-037.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 5160
+ },
+ {
+  "path": "content/tadabbur/014-ibrahim/ayahs-013-015.md",
+  "bytes": 10657,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/014-ibrahim/tafsir-report-013-015.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 5807
+ },
+ {
+  "path": "content/tadabbur/008-al-anfal/ayahs-074-075.md",
+  "bytes": 10678,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/008-al-anfal/tafsir-report-074-075.md",
+  "old": "MODERATE",
+  "enriched": false,
+  "tafsir_bytes": 4395
+ },
+ {
+  "path": "content/tadabbur/011-hud/ayahs-045-047.md",
+  "bytes": 10700,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/011-hud/tafsir-report-045-047.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 5773
+ },
+ {
+  "path": "content/tadabbur/013-ar-rad/ayahs-012-013.md",
+  "bytes": 10766,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/013-ar-rad/tafsir-report-012-013.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4017
+ },
+ {
+  "path": "content/tadabbur/004-an-nisa/ayah-042.md",
+  "bytes": 10782,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/004-an-nisa/tafsir-report-042.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4137
+ },
+ {
+  "path": "content/tadabbur/009-at-tawbah/ayahs-019-022.md",
+  "bytes": 10829,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/009-at-tawbah/tafsir-report-019-022.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 7679
+ },
+ {
+  "path": "content/tadabbur/005-al-maidah/ayah-088.md",
+  "bytes": 10835,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/005-al-maidah/tafsir-report-088.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 3990
+ },
+ {
+  "path": "content/tadabbur/010-yunus/ayahs-050-053.md",
+  "bytes": 10897,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/010-yunus/tafsir-report-050-053.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 7794
+ },
+ {
+  "path": "content/tadabbur/015-al-hijr/ayahs-010-015.md",
+  "bytes": 10904,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/015-al-hijr/tafsir-report-010-015.md",
+  "old": "MODERATE",
+  "enriched": false,
+  "tafsir_bytes": 11776
+ },
+ {
+  "path": "content/tadabbur/008-al-anfal/ayahs-045-046.md",
+  "bytes": 10911,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/008-al-anfal/tafsir-report-045-046.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4168
+ },
+ {
+  "path": "content/tadabbur/006-al-anam/ayahs-050-051.md",
+  "bytes": 10911,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/006-al-anam/tafsir-report-050-051.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4571
+ },
+ {
+  "path": "content/tadabbur/006-al-anam/ayahs-133-135.md",
+  "bytes": 10920,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/006-al-anam/tafsir-report-133-135.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 6063
+ },
+ {
+  "path": "content/tadabbur/006-al-anam/ayahs-047-049.md",
+  "bytes": 10921,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/006-al-anam/tafsir-report-047-049.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 6117
+ },
+ {
+  "path": "content/tadabbur/011-hud/ayahs-015-016.md",
+  "bytes": 10923,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/011-hud/tafsir-report-015-016.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 3637
+ },
+ {
+  "path": "content/tadabbur/004-an-nisa/ayah-086.md",
+  "bytes": 10935,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/004-an-nisa/tafsir-report-086.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 2015
+ },
+ {
+  "path": "content/tadabbur/012-yusuf/ayahs-004-006.md",
+  "bytes": 10945,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/012-yusuf/tafsir-report-004-006.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 5944
+ },
+ {
+  "path": "content/tadabbur/008-al-anfal/ayahs-070-071.md",
+  "bytes": 10956,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/008-al-anfal/tafsir-report-070-071.md",
+  "old": "MODERATE",
+  "enriched": false,
+  "tafsir_bytes": 4619
+ },
+ {
+  "path": "content/tadabbur/006-al-anam/ayahs-040-041.md",
+  "bytes": 10994,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/006-al-anam/tafsir-report-040-041.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4177
+ },
+ {
+  "path": "content/tadabbur/016-an-nahl/ayahs-009-012.md",
+  "bytes": 10995,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/016-an-nahl/tafsir-report-009-012.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 7919
+ },
+ {
+  "path": "content/tadabbur/012-yusuf/ayahs-007-010.md",
+  "bytes": 11064,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/012-yusuf/tafsir-report-007-010.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 7660
+ },
+ {
+  "path": "content/tadabbur/008-al-anfal/ayahs-062-064.md",
+  "bytes": 11067,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/008-al-anfal/tafsir-report-062-064.md",
+  "old": "MINOR",
+  "enriched": false,
+  "tafsir_bytes": 6197
+ },
+ {
+  "path": "content/tadabbur/007-al-araf/ayahs-109-111.md",
+  "bytes": 11094,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/007-al-araf/tafsir-report-109-111.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 15543
+ },
+ {
+  "path": "content/tadabbur/009-at-tawbah/ayahs-030-033.md",
+  "bytes": 11109,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/009-at-tawbah/tafsir-report-030-033.md",
+  "old": "MODERATE",
+  "enriched": false,
+  "tafsir_bytes": 7954
+ },
+ {
+  "path": "content/tadabbur/016-an-nahl/ayahs-048-050.md",
+  "bytes": 11130,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/016-an-nahl/tafsir-report-048-050.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 5314
+ },
+ {
+  "path": "content/tadabbur/010-yunus/ayahs-031-032.md",
+  "bytes": 11149,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/010-yunus/tafsir-report-031-032.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4552
+ },
+ {
+  "path": "content/tadabbur/008-al-anfal/ayahs-017-019.md",
+  "bytes": 11155,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/008-al-anfal/tafsir-report-017-019.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 6869
+ },
+ {
+  "path": "content/tadabbur/014-ibrahim/ayahs-035-037.md",
+  "bytes": 11205,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/014-ibrahim/tafsir-report-035-037.md",
+  "old": "MINOR",
+  "enriched": false,
+  "tafsir_bytes": 6141
+ },
+ {
+  "path": "content/tadabbur/016-an-nahl/ayahs-045-047.md",
+  "bytes": 11228,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/016-an-nahl/tafsir-report-045-047.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 7049
+ },
+ {
+  "path": "content/tadabbur/003-aal-imran/ayah-097.md",
+  "bytes": 11256,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/003-aal-imran/tafsir-report-097.md",
+  "old": "MODERATE",
+  "enriched": false,
+  "tafsir_bytes": 4400
+ },
+ {
+  "path": "content/tadabbur/017-al-isra/ayahs-026-030.md",
+  "bytes": 11335,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/017-al-isra/tafsir-report-026-030.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 9950
+ },
+ {
+  "path": "content/tadabbur/003-aal-imran/ayah-093.md",
+  "bytes": 11336,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/003-aal-imran/tafsir-report-093.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 2606
+ },
+ {
+  "path": "content/tadabbur/015-al-hijr/ayahs-039-042.md",
+  "bytes": 11351,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/015-al-hijr/tafsir-report-039-042.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 7826
+ },
+ {
+  "path": "content/tadabbur/008-al-anfal/ayahs-030-033.md",
+  "bytes": 11351,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/008-al-anfal/tafsir-report-030-033.md",
+  "old": "MODERATE",
+  "enriched": false,
+  "tafsir_bytes": 7645
+ },
+ {
+  "path": "content/tadabbur/011-hud/ayahs-050-052.md",
+  "bytes": 11358,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/011-hud/tafsir-report-050-052.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 5933
+ },
+ {
+  "path": "content/tadabbur/004-an-nisa/ayah-031.md",
+  "bytes": 11387,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/004-an-nisa/tafsir-report-031.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 5828
+ },
+ {
+  "path": "content/tadabbur/010-yunus/ayahs-071-073.md",
+  "bytes": 11389,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/010-yunus/tafsir-report-071-073.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 6285
+ },
+ {
+  "path": "content/tadabbur/008-al-anfal/ayahs-065-066.md",
+  "bytes": 11462,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/008-al-anfal/tafsir-report-065-066.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4210
+ },
+ {
+  "path": "content/tadabbur/007-al-araf/ayahs-096-099.md",
+  "bytes": 11495,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/007-al-araf/tafsir-report-096-099.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 6040
+ },
+ {
+  "path": "content/tadabbur/011-hud/ayahs-019-022.md",
+  "bytes": 11516,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/011-hud/tafsir-report-019-022.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 7514
+ },
+ {
+  "path": "content/tadabbur/009-at-tawbah/ayahs-007-010.md",
+  "bytes": 11607,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/009-at-tawbah/tafsir-report-007-010.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 8017
+ },
+ {
+  "path": "content/tadabbur/003-aal-imran/ayahs-159-160.md",
+  "bytes": 11702,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/003-aal-imran/tafsir-report-159-160.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4270
+ },
+ {
+  "path": "content/tadabbur/008-al-anfal/ayahs-005-008.md",
+  "bytes": 11764,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/008-al-anfal/tafsir-report-005-008.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 7646
+ },
+ {
+  "path": "content/tadabbur/004-an-nisa/ayah-085.md",
+  "bytes": 11825,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/004-an-nisa/tafsir-report-085.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 2030
+ },
+ {
+  "path": "content/tadabbur/006-al-anam/ayahs-109-111.md",
+  "bytes": 11890,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/006-al-anam/tafsir-report-109-111.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 6584
+ },
+ {
+  "path": "content/tadabbur/015-al-hijr/ayahs-019-025.md",
+  "bytes": 11931,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/015-al-hijr/tafsir-report-019-025.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 12566
+ },
+ {
+  "path": "content/tadabbur/010-yunus/ayahs-026-027.md",
+  "bytes": 11948,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/010-yunus/tafsir-report-026-027.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4262
+ },
+ {
+  "path": "content/tadabbur/016-an-nahl/ayahs-026-027.md",
+  "bytes": 11948,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/016-an-nahl/tafsir-report-026-027.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4696
+ },
+ {
+  "path": "content/tadabbur/008-al-anfal/ayahs-059-061.md",
+  "bytes": 11959,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/008-al-anfal/tafsir-report-059-061.md",
+  "old": "PASS",
+  "enriched": false,
+  "tafsir_bytes": 6154
+ },
+ {
+  "path": "content/tadabbur/017-al-isra/ayahs-009-011.md",
+  "bytes": 11976,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/017-al-isra/tafsir-report-009-011.md",
+  "old": "MODERATE",
+  "enriched": false,
+  "tafsir_bytes": 6166
+ },
+ {
+  "path": "content/tadabbur/006-al-anam/ayahs-063-065.md",
+  "bytes": 11986,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/006-al-anam/tafsir-report-063-065.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 6204
+ },
+ {
+  "path": "content/tadabbur/007-al-araf/ayahs-019-022.md",
+  "bytes": 11998,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/007-al-araf/tafsir-report-019-022.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 8217
+ },
+ {
+  "path": "content/tadabbur/008-al-anfal/ayahs-001-004.md",
+  "bytes": 12080,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/008-al-anfal/tafsir-report-001-004.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 7935
+ },
+ {
+  "path": "content/tadabbur/017-al-isra/ayahs-022-025.md",
+  "bytes": 12085,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/017-al-isra/tafsir-report-022-025.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 8137
+ },
+ {
+  "path": "content/tadabbur/005-al-maidah/ayah-093.md",
+  "bytes": 12115,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/005-al-maidah/tafsir-report-093.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 8678
+ },
+ {
+  "path": "content/tadabbur/005-al-maidah/ayah-001.md",
+  "bytes": 12121,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/005-al-maidah/tafsir-report-001.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 2533
+ },
+ {
+  "path": "content/tadabbur/011-hud/ayahs-027-028.md",
+  "bytes": 12140,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/011-hud/tafsir-report-027-028.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4385
+ },
+ {
+  "path": "content/tadabbur/008-al-anfal/ayahs-041-042.md",
+  "bytes": 12159,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/008-al-anfal/tafsir-report-041-042.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 5082
+ },
+ {
+  "path": "content/tadabbur/004-an-nisa/ayah-016.md",
+  "bytes": 12179,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/004-an-nisa/tafsir-report-016.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4953
+ },
+ {
+  "path": "content/tadabbur/005-al-maidah/ayahs-036-037.md",
+  "bytes": 12214,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/005-al-maidah/tafsir-report-036-037.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 3874
+ },
+ {
+  "path": "content/tadabbur/017-al-isra/ayahs-045-048.md",
+  "bytes": 12240,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/017-al-isra/tafsir-report-045-048.md",
+  "old": "MODERATE",
+  "enriched": false,
+  "tafsir_bytes": 7865
+ },
+ {
+  "path": "content/tadabbur/003-aal-imran/ayahs-127-129.md",
+  "bytes": 12281,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/003-aal-imran/tafsir-report-127-129.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 5771
+ },
+ {
+  "path": "content/tadabbur/010-yunus/ayahs-028-030.md",
+  "bytes": 12329,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/010-yunus/tafsir-report-028-030.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 6459
+ },
+ {
+  "path": "content/tadabbur/012-yusuf/ayahs-019-022.md",
+  "bytes": 12340,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/012-yusuf/tafsir-report-019-022.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 64642
+ },
+ {
+  "path": "content/tadabbur/011-hud/ayahs-029-031.md",
+  "bytes": 12351,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/011-hud/tafsir-report-029-031.md",
+  "old": "MINOR",
+  "enriched": false,
+  "tafsir_bytes": 5764
+ },
+ {
+  "path": "content/tadabbur/008-al-anfal/ayahs-043-044.md",
+  "bytes": 12398,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/008-al-anfal/tafsir-report-043-044.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4443
+ },
+ {
+  "path": "content/tadabbur/012-yusuf/ayahs-109-111.md",
+  "bytes": 12400,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/012-yusuf/tafsir-report-109-111.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 6846
+ },
+ {
+  "path": "content/tadabbur/006-al-anam/ayahs-022-024.md",
+  "bytes": 12415,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/006-al-anam/tafsir-report-022-024.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 5751
+ },
+ {
+  "path": "content/tadabbur/006-al-anam/ayahs-080-083.md",
+  "bytes": 12456,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/006-al-anam/tafsir-report-080-083.md",
+  "old": "MODERATE",
+  "enriched": false,
+  "tafsir_bytes": 8263
+ },
+ {
+  "path": "content/tadabbur/011-hud/ayahs-061-063.md",
+  "bytes": 12504,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/011-hud/tafsir-report-061-063.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 6340
+ },
+ {
+  "path": "content/tadabbur/006-al-anam/ayahs-105-108.md",
+  "bytes": 12531,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/006-al-anam/tafsir-report-105-108.md",
+  "old": "MINOR",
+  "enriched": false,
+  "tafsir_bytes": 8345
+ },
+ {
+  "path": "content/tadabbur/008-al-anfal/ayahs-034-037.md",
+  "bytes": 12555,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/008-al-anfal/tafsir-report-034-037.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 8364
+ },
+ {
+  "path": "content/tadabbur/009-at-tawbah/ayahs-067-070.md",
+  "bytes": 12608,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/009-at-tawbah/tafsir-report-067-070.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 8978
+ },
+ {
+  "path": "content/tadabbur/018-al-kahf/ayahs-084-085.md",
+  "bytes": 12630,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/018-al-kahf/tafsir-report-084-085.md",
+  "old": "MODERATE",
+  "enriched": false,
+  "tafsir_bytes": 3655
+ },
+ {
+  "path": "content/tadabbur/011-hud/ayahs-017-018.md",
+  "bytes": 12642,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/011-hud/tafsir-report-017-018.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4692
+ },
+ {
+  "path": "content/tadabbur/011-hud/ayahs-057-060.md",
+  "bytes": 12649,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/011-hud/tafsir-report-057-060.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 7829
+ },
+ {
+  "path": "content/tadabbur/008-al-anfal/ayahs-055-058.md",
+  "bytes": 12701,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/008-al-anfal/tafsir-report-055-058.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 7492
+ },
+ {
+  "path": "content/tadabbur/006-al-anam/ayahs-025-026.md",
+  "bytes": 12722,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/006-al-anam/tafsir-report-025-026.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4520
+ },
+ {
+  "path": "content/tadabbur/012-yusuf/ayahs-077-079.md",
+  "bytes": 12734,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/012-yusuf/tafsir-report-077-079.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 5884
+ },
+ {
+  "path": "content/tadabbur/016-an-nahl/ayahs-013-018.md",
+  "bytes": 12738,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/016-an-nahl/tafsir-report-013-018.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 11029
+ },
+ {
+  "path": "content/tadabbur/008-al-anfal/ayahs-072-073.md",
+  "bytes": 12789,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/008-al-anfal/tafsir-report-072-073.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4475
+ },
+ {
+  "path": "content/tadabbur/005-al-maidah/ayah-109.md",
+  "bytes": 12823,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/005-al-maidah/tafsir-report-109.md",
+  "old": "MINOR",
+  "enriched": false,
+  "tafsir_bytes": 2252
+ },
+ {
+  "path": "content/tadabbur/005-al-maidah/ayahs-070-071.md",
+  "bytes": 12828,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/005-al-maidah/tafsir-report-070-071.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 6789
+ },
+ {
+  "path": "content/tadabbur/012-yusuf/ayahs-088-092.md",
+  "bytes": 12848,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/012-yusuf/tafsir-report-088-092.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 9316
+ },
+ {
+  "path": "content/tadabbur/011-hud/ayahs-009-011.md",
+  "bytes": 12866,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/011-hud/tafsir-report-009-011.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 5745
+ },
+ {
+  "path": "content/tadabbur/004-an-nisa/ayahs-056-057.md",
+  "bytes": 12874,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/004-an-nisa/tafsir-report-056-057.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 16141
+ },
+ {
+  "path": "content/tadabbur/003-aal-imran/ayahs-111-112.md",
+  "bytes": 12886,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/003-aal-imran/tafsir-report-111-112.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4519
+ },
+ {
+  "path": "content/tadabbur/006-al-anam/ayahs-007-009.md",
+  "bytes": 12939,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/006-al-anam/tafsir-report-007-009.md",
+  "old": "MINOR",
+  "enriched": false,
+  "tafsir_bytes": 6331
+ },
+ {
+  "path": "content/tadabbur/004-an-nisa/ayahs-129-130.md",
+  "bytes": 12947,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/004-an-nisa/tafsir-report-129-130.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4150
+ },
+ {
+  "path": "content/tadabbur/010-yunus/ayahs-033-036.md",
+  "bytes": 13142,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/010-yunus/tafsir-report-033-036.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 8377
+ },
+ {
+  "path": "content/tadabbur/004-an-nisa/ayah-084.md",
+  "bytes": 13187,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/004-an-nisa/tafsir-report-084.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 2126
+ },
+ {
+  "path": "content/tadabbur/005-al-maidah/ayah-089.md",
+  "bytes": 13225,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/005-al-maidah/tafsir-report-089.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 6454
+ },
+ {
+  "path": "content/tadabbur/012-yusuf/ayahs-011-017.md",
+  "bytes": 13228,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/012-yusuf/tafsir-report-011-017.md",
+  "old": "UNKNOWN",
+  "enriched": false,
+  "tafsir_bytes": 39298
+ },
+ {
+  "path": "content/tadabbur/006-al-anam/ayahs-012-013.md",
+  "bytes": 13241,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/006-al-anam/tafsir-report-012-013.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4375
+ },
+ {
+  "path": "content/tadabbur/006-al-anam/ayahs-055-058.md",
+  "bytes": 13280,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/006-al-anam/tafsir-report-055-058.md",
+  "old": "UNKNOWN",
+  "enriched": false,
+  "tafsir_bytes": 8044
+ },
+ {
+  "path": "content/tadabbur/005-al-maidah/ayah-108.md",
+  "bytes": 13363,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/005-al-maidah/tafsir-report-108.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 7310
+ },
+ {
+  "path": "content/tadabbur/005-al-maidah/ayah-019.md",
+  "bytes": 13366,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/005-al-maidah/tafsir-report-019.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 2380
+ },
+ {
+  "path": "content/tadabbur/005-al-maidah/ayah-056.md",
+  "bytes": 13406,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/005-al-maidah/tafsir-report-056.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4250
+ },
+ {
+  "path": "content/tadabbur/006-al-anam/ayahs-014-016.md",
+  "bytes": 13547,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/006-al-anam/tafsir-report-014-016.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 5806
+ },
+ {
+  "path": "content/tadabbur/016-an-nahl/ayahs-073-076.md",
+  "bytes": 13564,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/016-an-nahl/tafsir-report-073-076.md",
+  "old": "MINOR",
+  "enriched": false,
+  "tafsir_bytes": 8559
+ },
+ {
+  "path": "content/tadabbur/010-yunus/ayahs-037-040.md",
+  "bytes": 13568,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/010-yunus/tafsir-report-037-040.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 8289
+ },
+ {
+  "path": "content/tadabbur/013-ar-rad/ayahs-005-007.md",
+  "bytes": 13574,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/013-ar-rad/tafsir-report-005-007.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 6536
+ },
+ {
+  "path": "content/tadabbur/015-al-hijr/ayahs-001-009.md",
+  "bytes": 13613,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/015-al-hijr/tafsir-report-001-009.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 15373
+ },
+ {
+  "path": "content/tadabbur/014-ibrahim/ayahs-001-003.md",
+  "bytes": 13626,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/014-ibrahim/tafsir-report-001-003.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 5630
+ },
+ {
+  "path": "content/tadabbur/004-an-nisa/ayahs-050-052.md",
+  "bytes": 13638,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/004-an-nisa/tafsir-report-050-052.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 6132
+ },
+ {
+  "path": "content/tadabbur/011-hud/ayahs-005-006.md",
+  "bytes": 13690,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/011-hud/tafsir-report-005-006.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4012
+ },
+ {
+  "path": "content/tadabbur/004-an-nisa/ayahs-170-171.md",
+  "bytes": 13753,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/004-an-nisa/tafsir-report-170-171.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 5155
+ },
+ {
+  "path": "content/tadabbur/005-al-maidah/ayahs-007-008.md",
+  "bytes": 13758,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/005-al-maidah/tafsir-report-007-008.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 6834
+ },
+ {
+  "path": "content/tadabbur/012-yusuf/ayahs-099-101.md",
+  "bytes": 13856,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/012-yusuf/tafsir-report-099-101.md",
+  "old": "MODERATE",
+  "enriched": false,
+  "tafsir_bytes": 6378
+ },
+ {
+  "path": "content/tadabbur/013-ar-rad/ayahs-008-011.md",
+  "bytes": 13865,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/013-ar-rad/tafsir-report-008-011.md",
+  "old": "MODERATE",
+  "enriched": false,
+  "tafsir_bytes": 8015
+ },
+ {
+  "path": "content/tadabbur/011-hud/ayahs-012-014.md",
+  "bytes": 13866,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/011-hud/tafsir-report-012-014.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 6939
+ },
+ {
+  "path": "content/tadabbur/006-al-anam/ayahs-042-045.md",
+  "bytes": 13882,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/006-al-anam/tafsir-report-042-045.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 8198
+ },
+ {
+  "path": "content/tadabbur/005-al-maidah/ayahs-097-099.md",
+  "bytes": 13904,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/005-al-maidah/tafsir-report-097-099.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 13228
+ },
+ {
+  "path": "content/tadabbur/011-hud/ayahs-064-068.md",
+  "bytes": 13906,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/011-hud/tafsir-report-064-068.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 9654
+ },
+ {
+  "path": "content/tadabbur/011-hud/ayahs-007-008.md",
+  "bytes": 13930,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/011-hud/tafsir-report-007-008.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4468
+ },
+ {
+  "path": "content/tadabbur/005-al-maidah/ayahs-038-039.md",
+  "bytes": 13982,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/005-al-maidah/tafsir-report-038-039.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 3757
+ },
+ {
+  "path": "content/tadabbur/012-yusuf/ayahs-030-035.md",
+  "bytes": 13985,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/012-yusuf/tafsir-report-030-035.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 116182
+ },
+ {
+  "path": "content/tadabbur/005-al-maidah/ayah-018.md",
+  "bytes": 13996,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/005-al-maidah/tafsir-report-018.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 2537
+ },
+ {
+  "path": "content/tadabbur/017-al-isra/ayahs-012-015.md",
+  "bytes": 14017,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/017-al-isra/tafsir-report-012-015.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 8282
+ },
+ {
+  "path": "content/tadabbur/006-al-anam/ayahs-005-006.md",
+  "bytes": 14031,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/006-al-anam/tafsir-report-005-006.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4615
+ },
+ {
+  "path": "content/tadabbur/016-an-nahl/ayahs-041-044.md",
+  "bytes": 14126,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/016-an-nahl/tafsir-report-041-044.md",
+  "old": "MINOR",
+  "enriched": false,
+  "tafsir_bytes": 7697
+ },
+ {
+  "path": "content/tadabbur/004-an-nisa/ayah-032.md",
+  "bytes": 14131,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/004-an-nisa/tafsir-report-032.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 2324
+ },
+ {
+  "path": "content/tadabbur/004-an-nisa/ayahs-081-083.md",
+  "bytes": 14186,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/004-an-nisa/tafsir-report-081-083.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 6647
+ },
+ {
+  "path": "content/tadabbur/006-al-anam/ayahs-001-003.md",
+  "bytes": 14201,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/006-al-anam/tafsir-report-001-003.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 6150
+ },
+ {
+  "path": "content/tadabbur/008-al-anfal/ayahs-047-049.md",
+  "bytes": 14328,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/008-al-anfal/tafsir-report-047-049.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 6295
+ },
+ {
+  "path": "content/tadabbur/011-hud/ayahs-077-081.md",
+  "bytes": 14401,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/011-hud/tafsir-report-077-081.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 9862
+ },
+ {
+  "path": "content/tadabbur/014-ibrahim/ayahs-009-012.md",
+  "bytes": 14459,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/014-ibrahim/tafsir-report-009-012.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 8504
+ },
+ {
+  "path": "content/tadabbur/014-ibrahim/ayahs-004-006.md",
+  "bytes": 14460,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/014-ibrahim/tafsir-report-004-006.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 6407
+ },
+ {
+  "path": "content/tadabbur/004-an-nisa/ayahs-037-039.md",
+  "bytes": 14541,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/004-an-nisa/tafsir-report-037-039.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 7989
+ },
+ {
+  "path": "content/tadabbur/005-al-maidah/ayahs-057-058.md",
+  "bytes": 14563,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/005-al-maidah/tafsir-report-057-058.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 5671
+ },
+ {
+  "path": "content/tadabbur/006-al-anam/ayahs-032-034.md",
+  "bytes": 14591,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/006-al-anam/tafsir-report-032-034.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 6763
+ },
+ {
+  "path": "content/tadabbur/010-yunus/ayahs-021-024.md",
+  "bytes": 14745,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/010-yunus/tafsir-report-021-024.md",
+  "old": "MINOR",
+  "enriched": false,
+  "tafsir_bytes": 9086
+ },
+ {
+  "path": "content/tadabbur/011-hud/ayahs-001-004.md",
+  "bytes": 14756,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/011-hud/tafsir-report-001-004.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 7864
+ },
+ {
+  "path": "content/tadabbur/013-ar-rad/ayahs-030-031.md",
+  "bytes": 14837,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/013-ar-rad/tafsir-report-030-031.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4752
+ },
+ {
+  "path": "content/tadabbur/010-yunus/ayahs-001-006.md",
+  "bytes": 14844,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/010-yunus/tafsir-report-001-006.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 12232
+ },
+ {
+  "path": "content/tadabbur/005-al-maidah/ayahs-067-068.md",
+  "bytes": 14862,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/005-al-maidah/tafsir-report-067-068.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4653
+ },
+ {
+  "path": "content/tadabbur/005-al-maidah/ayahs-061-063.md",
+  "bytes": 14885,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/005-al-maidah/tafsir-report-061-063.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 5989
+ },
+ {
+  "path": "content/tadabbur/005-al-maidah/ayah-006.md",
+  "bytes": 14892,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/005-al-maidah/tafsir-report-006.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 2643
+ },
+ {
+  "path": "content/tadabbur/004-an-nisa/ayah-043.md",
+  "bytes": 14963,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/004-an-nisa/tafsir-report-043.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 2610
+ },
+ {
+  "path": "content/tadabbur/004-an-nisa/ayahs-026-028.md",
+  "bytes": 14983,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/004-an-nisa/tafsir-report-026-028.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 15693
+ },
+ {
+  "path": "content/tadabbur/005-al-maidah/ayahs-059-060.md",
+  "bytes": 15083,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/005-al-maidah/tafsir-report-059-060.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4466
+ },
+ {
+  "path": "content/tadabbur/088-al-ghashiyah/ayahs-021-026.md",
+  "bytes": 15287,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/088-al-ghashiyah/tafsir-report-021-026.md",
+  "old": "MODERATE",
+  "enriched": false,
+  "tafsir_bytes": 43450
+ },
+ {
+  "path": "content/tadabbur/004-an-nisa/ayahs-029-030.md",
+  "bytes": 15327,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/004-an-nisa/tafsir-report-029-030.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 3991
+ },
+ {
+  "path": "content/tadabbur/005-al-maidah/ayahs-090-092.md",
+  "bytes": 15328,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/005-al-maidah/tafsir-report-090-092.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 6474
+ },
+ {
+  "path": "content/tadabbur/039-az-zumar/ayahs-034-035.md",
+  "bytes": 15464,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/039-az-zumar/tafsir-report-034-035.md",
+  "old": null,
+  "enriched": false,
+  "tafsir_bytes": 4244
+ },
+ {
+  "path": "content/tadabbur/004-an-nisa/ayahs-075-077.md",
+  "bytes": 15478,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/004-an-nisa/tafsir-report-075-077.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 7065
+ },
+ {
+  "path": "content/tadabbur/088-al-ghashiyah/ayah-001.md",
+  "bytes": 15511,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/088-al-ghashiyah/tafsir-report-001.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 43450
+ },
+ {
+  "path": "content/tadabbur/016-an-nahl/ayahs-037-040.md",
+  "bytes": 15535,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/016-an-nahl/tafsir-report-037-040.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 7355
+ },
+ {
+  "path": "content/tadabbur/114-an-nas/ayahs-001-006.md",
+  "bytes": 15577,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/114-an-nas/tafsir-report-001-006.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 24422
+ },
+ {
+  "path": "content/tadabbur/013-ar-rad/ayahs-001-004.md",
+  "bytes": 15619,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/013-ar-rad/tafsir-report-001-004.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 8356
+ },
+ {
+  "path": "content/tadabbur/013-ar-rad/ayahs-025-029.md",
+  "bytes": 15686,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/013-ar-rad/tafsir-report-025-029.md",
+  "old": "MINOR",
+  "enriched": false,
+  "tafsir_bytes": 9819
+ },
+ {
+  "path": "content/tadabbur/088-al-ghashiyah/ayahs-017-020.md",
+  "bytes": 15711,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/088-al-ghashiyah/tafsir-report-017-020.md",
+  "old": "MODERATE",
+  "enriched": false,
+  "tafsir_bytes": 43450
+ },
+ {
+  "path": "content/tadabbur/005-al-maidah/ayahs-033-034.md",
+  "bytes": 15717,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/005-al-maidah/tafsir-report-033-034.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4741
+ },
+ {
+  "path": "content/tadabbur/005-al-maidah/ayah-003.md",
+  "bytes": 15730,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/005-al-maidah/tafsir-report-003.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 2617
+ },
+ {
+  "path": "content/tadabbur/013-ar-rad/ayahs-036-040.md",
+  "bytes": 15787,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/013-ar-rad/tafsir-report-036-040.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 10075
+ },
+ {
+  "path": "content/tadabbur/005-al-maidah/ayah-002.md",
+  "bytes": 15798,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/005-al-maidah/tafsir-report-002.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 2632
+ },
+ {
+  "path": "content/tadabbur/005-al-maidah/ayahs-103-104.md",
+  "bytes": 15909,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/005-al-maidah/tafsir-report-103-104.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 9058
+ },
+ {
+  "path": "content/tadabbur/005-al-maidah/ayahs-015-016.md",
+  "bytes": 15943,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/005-al-maidah/tafsir-report-015-016.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4158
+ },
+ {
+  "path": "content/tadabbur/005-al-maidah/ayahs-041-042.md",
+  "bytes": 16158,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/005-al-maidah/tafsir-report-041-042.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4660
+ },
+ {
+  "path": "content/tadabbur/003-aal-imran/ayahs-176-180.md",
+  "bytes": 16309,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/003-aal-imran/tafsir-report-176-180.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 11007
+ },
+ {
+  "path": "content/tadabbur/005-al-maidah/ayahs-049-050.md",
+  "bytes": 16321,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/005-al-maidah/tafsir-report-049-050.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4237
+ },
+ {
+  "path": "content/tadabbur/004-an-nisa/ayahs-019-021.md",
+  "bytes": 16376,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/004-an-nisa/tafsir-report-019-021.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 6466
+ },
+ {
+  "path": "content/tadabbur/012-yusuf/ayahs-069-076.md",
+  "bytes": 16488,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/012-yusuf/tafsir-report-069-076.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 15191
+ },
+ {
+  "path": "content/tadabbur/005-al-maidah/ayahs-004-005.md",
+  "bytes": 16683,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/005-al-maidah/tafsir-report-004-005.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 4927
+ },
+ {
+  "path": "content/tadabbur/043-az-zukhruf/ayah-077.md",
+  "bytes": 16747,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/043-az-zukhruf/tafsir-report-077.md",
+  "old": "MODERATE",
+  "enriched": false,
+  "tafsir_bytes": 42239
+ },
+ {
+  "path": "content/tadabbur/003-aal-imran/ayahs-106-108.md",
+  "bytes": 16838,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/003-aal-imran/tafsir-report-106-108.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 11830
+ },
+ {
+  "path": "content/tadabbur/005-al-maidah/ayahs-111-115.md",
+  "bytes": 16851,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/005-al-maidah/tafsir-report-111-115.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 14737
+ },
+ {
+  "path": "content/tadabbur/013-ar-rad/ayahs-019-024.md",
+  "bytes": 16938,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/013-ar-rad/tafsir-report-019-024.md",
+  "old": "MODERATE",
+  "enriched": false,
+  "tafsir_bytes": 11568
+ },
+ {
+  "path": "content/tadabbur/005-al-maidah/ayahs-094-096.md",
+  "bytes": 16959,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/005-al-maidah/tafsir-report-094-096.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 9258
+ },
+ {
+  "path": "content/tadabbur/007-al-araf/ayah-018.md",
+  "bytes": 16988,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/007-al-araf/tafsir-report-018.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 16785
+ },
+ {
+  "path": "content/tadabbur/003-aal-imran/ayahs-104-105.md",
+  "bytes": 17033,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/003-aal-imran/tafsir-report-104-105.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 8299
+ },
+ {
+  "path": "content/tadabbur/004-an-nisa/ayah-001.md",
+  "bytes": 17252,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/004-an-nisa/tafsir-report-001.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 2283
+ },
+ {
+  "path": "content/tadabbur/005-al-maidah/ayahs-027-031.md",
+  "bytes": 17260,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/005-al-maidah/tafsir-report-027-031.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 9526
+ },
+ {
+  "path": "content/tadabbur/003-aal-imran/ayahs-102-103.md",
+  "bytes": 17286,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/003-aal-imran/tafsir-report-102-103.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 10517
+ },
+ {
+  "path": "content/tadabbur/005-al-maidah/ayahs-064-066.md",
+  "bytes": 17500,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/005-al-maidah/tafsir-report-064-066.md",
+  "old": "MODERATE",
+  "enriched": false,
+  "tafsir_bytes": 8885
+ },
+ {
+  "path": "content/tadabbur/003-aal-imran/ayahs-099-101.md",
+  "bytes": 17562,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/003-aal-imran/tafsir-report-099-101.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 6211
+ },
+ {
+  "path": "content/tadabbur/001-al-fatiha/ayahs-003-004.md",
+  "bytes": 17581,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/001-al-fatiha/tafsir-report-003-004.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 10447
+ },
+ {
+  "path": "content/tadabbur/013-ar-rad/ayahs-016-018.md",
+  "bytes": 17603,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/013-ar-rad/tafsir-report-016-018.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 7292
+ },
+ {
+  "path": "content/tadabbur/054-al-qamar/ayah-049.md",
+  "bytes": 17668,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/054-al-qamar/tafsir-report-049.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 13141
+ },
+ {
+  "path": "content/tadabbur/004-an-nisa/ayahs-002-003.md",
+  "bytes": 17813,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/004-an-nisa/tafsir-report-002-003.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 6628
+ },
+ {
+  "path": "content/tadabbur/004-an-nisa/ayah-025.md",
+  "bytes": 17852,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/004-an-nisa/tafsir-report-025.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 9812
+ },
+ {
+  "path": "content/tadabbur/005-al-maidah/ayahs-116-119.md",
+  "bytes": 18205,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/005-al-maidah/tafsir-report-116-119.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 8824
+ },
+ {
+  "path": "content/tadabbur/004-an-nisa/ayah-007.md",
+  "bytes": 18428,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/004-an-nisa/tafsir-report-007.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 8759
+ },
+ {
+  "path": "content/tadabbur/025-al-furqan/ayah-048.md",
+  "bytes": 18542,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/025-al-furqan/tafsir-report-048.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 2861
+ },
+ {
+  "path": "content/tadabbur/001-al-fatiha/ayahs-006-007.md",
+  "bytes": 18551,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/001-al-fatiha/tafsir-report-006-007.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 15054
+ },
+ {
+  "path": "content/tadabbur/040-ghafir/ayahs-069-072.md",
+  "bytes": 18603,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/040-ghafir/tafsir-report-069-072.md",
+  "old": null,
+  "enriched": false,
+  "tafsir_bytes": 9186
+ },
+ {
+  "path": "content/tadabbur/075-al-qiyamah/ayah-002.md",
+  "bytes": 18611,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/075-al-qiyamah/tafsir-report-002.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 21472
+ },
+ {
+  "path": "content/tadabbur/005-al-maidah/ayahs-051-053.md",
+  "bytes": 18685,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/005-al-maidah/tafsir-report-051-053.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 6766
+ },
+ {
+  "path": "content/tadabbur/017-al-isra/ayahs-080-081.md",
+  "bytes": 18781,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/017-al-isra/tafsir-report-080-081.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 9546
+ },
+ {
+  "path": "content/tadabbur/017-al-isra/ayahs-076-077.md",
+  "bytes": 18937,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/017-al-isra/tafsir-report-076-077.md",
+  "old": "MODERATE",
+  "enriched": false,
+  "tafsir_bytes": 15265
+ },
+ {
+  "path": "content/tadabbur/022-al-hajj/ayah-075.md",
+  "bytes": 19027,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/022-al-hajj/tafsir-report-075.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 2837
+ },
+ {
+  "path": "content/tadabbur/001-al-fatiha/ayah-005.md",
+  "bytes": 19031,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/001-al-fatiha/tafsir-report-005.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 10447
+ },
+ {
+  "path": "content/tadabbur/009-at-tawbah/ayahs-053-054.md",
+  "bytes": 19034,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/009-at-tawbah/tafsir-report-053-054.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 30749
+ },
+ {
+  "path": "content/tadabbur/090-al-balad/ayah-004.md",
+  "bytes": 19038,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/090-al-balad/tafsir-report-004.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 8389
+ },
+ {
+  "path": "content/tadabbur/001-al-fatiha/ayah-002.md",
+  "bytes": 19055,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/001-al-fatiha/tafsir-report-002.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 8611
+ },
+ {
+  "path": "content/tadabbur/017-al-isra/ayahs-001-008.md",
+  "bytes": 19132,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/017-al-isra/tafsir-report-001-008.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 16702
+ },
+ {
+  "path": "content/tadabbur/023-al-muminun/ayahs-012-014.md",
+  "bytes": 19433,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/023-al-muminun/tafsir-report-012-014.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 5462
+ },
+ {
+  "path": "content/tadabbur/029-al-ankabut/ayah-035.md",
+  "bytes": 19496,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/029-al-ankabut/tafsir-report-035.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 2051
+ },
+ {
+  "path": "content/tadabbur/003-aal-imran/ayah-056.md",
+  "bytes": 19621,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/003-aal-imran/tafsir-report-056.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 6625
+ },
+ {
+  "path": "content/tadabbur/044-ad-dukhan/ayahs-030-033.md",
+  "bytes": 19864,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/044-ad-dukhan/tafsir-report-030-033.md",
+  "old": null,
+  "enriched": false,
+  "tafsir_bytes": 7614
+ },
+ {
+  "path": "content/tadabbur/030-ar-rum/ayah-046.md",
+  "bytes": 19894,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/030-ar-rum/tafsir-report-046.md",
+  "old": "CRITICAL",
+  "enriched": false,
+  "tafsir_bytes": 3011
+ },
+ {
+  "path": "content/tadabbur/024-an-nur/ayahs-027-028.md",
+  "bytes": 19987,
+  "tafsir": true,
+  "tafsir_path": "content/tadabbur/024-an-nur/tafsir-report-027-028.md",
+  "old": "MODERATE",
+  "enriched": false,
+  "tafsir_bytes": 5405
+ }
+]
