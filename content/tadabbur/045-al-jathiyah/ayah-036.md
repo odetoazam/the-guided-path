@@ -28,7 +28,7 @@ related_ayahs: ["1:2", "45:37", "6:45", "37:182", "27:59", "10:10", "39:74", "45
 
 Let me give you the verse first. Hold it lightly for now — we'll come back and open it slowly.
 
-> فَلِلَّهِ ٱلْحَمْدُ رَبِّ ٱلسَّمَـٰوَٰتِ وَرَبِّ ٱلْأَرْضِ رَبِّ ٱلْعَـٰلَمِينَ
+> [ayah:45:36] فَلِلَّهِ ٱلْحَمْدُ رَبِّ ٱلسَّمَـٰوَٰتِ وَرَبِّ ٱلْأَرْضِ رَبِّ ٱلْعَـٰلَمِينَ
 >
 > *Fa-lillāhi l-ḥamdu, rabbi s-samāwāti wa rabbi l-arḍi, rabbi l-ʿālamīn.*
 >

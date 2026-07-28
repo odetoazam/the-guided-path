@@ -60,7 +60,7 @@ related_ayahs:
 
 The ayah we are sitting with today has only four words.
 
-**أُوْلَـٰٓئِكَ فِى جَنَّـٰتٍ مُّكْرَمُونَ**
+[ayah:70:35] أُو۟لَـٰٓئِكَ فِى جَنَّـٰتٍ مُّكْرَمُونَ
 
 *Ulā'ika fī jannātin mukramūn.*
 

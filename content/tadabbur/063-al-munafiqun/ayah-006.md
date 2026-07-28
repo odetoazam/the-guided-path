@@ -28,7 +28,7 @@ related_ayahs: ["2:6", "9:80", "7:193", "63:5", "2:18"]
 
 Let me give you the words first. Sit with them before we do anything else.
 
-> **سَوَآءٌ عَلَيْهِمْ أَسْتَغْفَرْتَ لَهُمْ أَمْ لَمْ تَسْتَغْفِرْ لَهُمْ لَن يَغْفِرَ ٱللَّهُ لَهُمْ ۚ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَـٰسِقِينَ**
+> [ayah:63:6] سَوَآءٌ عَلَيْهِمْ أَسْتَغْفَرْتَ لَهُمْ أَمْ لَمْ تَسْتَغْفِرْ لَهُمْ لَن يَغْفِرَ ٱللَّهُ لَهُمْ ۚ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَـٰسِقِينَ
 
 > *Sawāʾun ʿalayhim astaghfarta lahum am lam tastaghfir lahum, lan yaghfira-llāhu lahum. Inna-llāha lā yahdi-l-qawma-l-fāsiqīn.*
 

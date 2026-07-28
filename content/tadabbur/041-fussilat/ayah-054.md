@@ -28,7 +28,7 @@ related_ayahs: ["41:53", "65:12", "72:28", "2:19", "85:20", "4:126", "18:29"]
 
 Let me put the words in front of you first. Hear them in Arabic, even if you don't read Arabic:
 
-> **أَلَآ إِنَّهُمْ فِى مِرْيَةٍ مِّن لِّقَآءِ رَبِّهِمْ ۗ أَلَآ إِنَّهُۥ بِكُلِّ شَىْءٍ مُّحِيطٌۢ**
+> [ayah:41:54] أَلَآ إِنَّهُمْ فِى مِرْيَةٍ مِّن لِّقَآءِ رَبِّهِمْ ۗ أَلَآ إِنَّهُۥ بِكُلِّ شَىْءٍ مُّحِيطٌۢ
 >
 > *Alā innahum fī miryatin min liqāʾi rabbihim. Alā innahu bi-kulli shayʾin muḥīṭ.*
 >

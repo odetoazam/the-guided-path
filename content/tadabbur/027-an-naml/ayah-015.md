@@ -26,7 +26,7 @@ related_ayahs: ["27:16", "27:19", "27:40", "2:251", "38:20"]
 
 ## Surah An-Naml, Ayah 15
 
-> وَلَقَدْ ءَاتَيْنَا دَاوُۥدَ وَسُلَيْمَـٰنَ عِلْمًۭا ۖ وَقَالَا ٱلْحَمْدُ لِلَّهِ ٱلَّذِى فَضَّلَنَا عَلَىٰ كَثِيرٍۢ مِّنْ عِبَادِهِ ٱلْمُؤْمِنِينَ
+> [ayah:27:15] وَلَقَدْ ءَاتَيْنَا دَاوُۥدَ وَسُلَيْمَـٰنَ عِلْمًا ۖ وَقَالَا ٱلْحَمْدُ لِلَّهِ ٱلَّذِى فَضَّلَنَا عَلَىٰ كَثِيرٍ مِّنْ عِبَادِهِ ٱلْمُؤْمِنِينَ
 
 > *"And We had certainly given Dawud and Sulayman knowledge, and they said, 'All praise belongs to Allah who has favored us over many of His believing servants.'"*
 

@@ -28,7 +28,7 @@ related_ayahs: ["108:1", "108:2", "93:3", "93:4", "26:84", "94:4"]
 
 Let me give you the words first. Hold them lightly — we have a long way to travel before they open.
 
-> **إِنَّ شَانِئَكَ هُوَ ٱلْأَبْتَرُ**
+> [ayah:108:3] إِنَّ شَانِئَكَ هُوَ ٱلْأَبْتَرُ
 >
 > *Inna shāni'aka huwa-l-abtar.*
 >

@@ -24,7 +24,7 @@ related_ayahs: ["56:17", "76:19", "56:23", "55:58", "2:125"]
 
 # The Ones Who Are Circled: When the Servant Becomes the Served
 
-> وَيَطُوفُ عَلَيْهِمْ غِلْمَانٌ لَّهُمْ كَأَنَّهُمْ لُؤْلُؤٌ مَّكْنُونٌ
+> [ayah:52:24] ۞ وَيَطُوفُ عَلَيْهِمْ غِلْمَانٌ لَّهُمْ كَأَنَّهُمْ لُؤْلُؤٌ مَّكْنُونٌ
 >
 > *wa-yaṭūfu ʿalayhim ghilmānun lahum ka-annahum luʾluʾun maknūn*
 >

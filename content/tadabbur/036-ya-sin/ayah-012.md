@@ -28,7 +28,7 @@ related_ayahs: ["75:13", "99:7", "17:13", "18:49", "15:79", "82:10"]
 
 Listen to the ayah first. Let it move through you before we understand a single word of it.
 
-> **إِنَّا نَحْنُ نُحْىِ ٱلْمَوْتَىٰ وَنَكْتُبُ مَا قَدَّمُوا۟ وَءَاثَـٰرَهُمْ ۚ وَكُلَّ شَىْءٍ أَحْصَيْنَـٰهُ فِىٓ إِمَامٍ مُّبِينٍ**
+> [ayah:36:12] إِنَّا نَحْنُ نُحْىِ ٱلْمَوْتَىٰ وَنَكْتُبُ مَا قَدَّمُوا۟ وَءَاثَـٰرَهُمْ ۚ وَكُلَّ شَىْءٍ أَحْصَيْنَـٰهُ فِىٓ إِمَامٍ مُّبِينٍ
 
 *Innā naḥnu nuḥyi'l-mawtā wa naktubu mā qaddamū wa āthārahum, wa kulla shay'in aḥṣaynāhu fī imāmin mubīn.*
 

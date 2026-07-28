@@ -49,7 +49,7 @@ related_ayahs:
 
 ## Introduction
 
-**Arabic:** حمٓ
+[ayah:45:1] حمٓ
 
 **Transliteration:** *Ḥā Mīm*
 

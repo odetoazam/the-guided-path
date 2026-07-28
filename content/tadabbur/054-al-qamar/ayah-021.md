@@ -44,7 +44,7 @@ Our ayah sits inside the second case file. ʿĀd — the towering people of the 
 
 And then, while that image is still hanging in the air, comes our ayah:
 
-**فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ** — *So how was My punishment, and My warnings?*
+[ayah:54:21] فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ
 
 Here is the thing you need to notice, and it is the question this entire reflection exists to answer:
 

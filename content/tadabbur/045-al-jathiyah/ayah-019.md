@@ -28,7 +28,7 @@ related_ayahs: ["45:18", "8:73", "2:257", "9:71", "47:11", "4:139", "3:28"]
 
 Let me give you the verse first. Sit with the sound of it before we touch a single word of meaning.
 
-> إِنَّهُمْ لَن يُغْنُوا۟ عَنكَ مِنَ ٱللَّهِ شَيْـًٔا ۚ وَإِنَّ ٱلظَّـٰلِمِينَ بَعْضُهُمْ أَوْلِيَآءُ بَعْضٍ ۖ وَٱللَّهُ وَلِىُّ ٱلْمُتَّقِينَ
+> [ayah:45:19] إِنَّهُمْ لَن يُغْنُوا۟ عَنكَ مِنَ ٱللَّهِ شَيْـًٔا ۚ وَإِنَّ ٱلظَّـٰلِمِينَ بَعْضُهُمْ أَوْلِيَآءُ بَعْضٍ ۖ وَٱللَّهُ وَلِىُّ ٱلْمُتَّقِينَ
 
 *Innahum lan yughnū ʿanka mina-llāhi shayʾā. Wa-inna-ẓ-ẓālimīna baʿḍuhum awliyāʾu baʿḍ. Wa-llāhu waliyyu-l-muttaqīn.*
 

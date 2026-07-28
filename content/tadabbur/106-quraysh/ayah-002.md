@@ -24,7 +24,7 @@ related_ayahs: ["106:1", "106:3", "106:4", "105:1", "14:37", "28:57", "16:112", 
 
 # The Two Journeys: When the Rhythm You Stopped Noticing Is the Gift Itself
 
-> **إِۦلَـٰفِهِمْ رِحْلَةَ ٱلشِّتَآءِ وَٱلصَّيْفِ**
+> [ayah:106:2] إِۦلَـٰفِهِمْ رِحْلَةَ ٱلشِّتَآءِ وَٱلصَّيْفِ
 >
 > *īlāfihim riḥlata-sh-shitāʾi waṣ-ṣayf*
 >

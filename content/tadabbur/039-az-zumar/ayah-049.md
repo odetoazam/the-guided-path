@@ -28,7 +28,7 @@ related_ayahs: ["28:78", "41:50", "10:12", "16:53", "30:33", "89:15"]
 
 Let me begin with the words themselves. Listen to them first in Arabic, and let the rhythm settle before we know what it means:
 
-> **فَإِذَا مَسَّ ٱلْإِنسَـٰنَ ضُرٌّ دَعَانَا ثُمَّ إِذَا خَوَّلْنَـٰهُ نِعْمَةً مِّنَّا قَالَ إِنَّمَآ أُوتِيتُهُۥ عَلَىٰ عِلْمٍۭ ۚ بَلْ هِىَ فِتْنَةٌ وَلَـٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ**
+> [ayah:39:49] فَإِذَا مَسَّ ٱلْإِنسَـٰنَ ضُرٌّ دَعَانَا ثُمَّ إِذَا خَوَّلْنَـٰهُ نِعْمَةً مِّنَّا قَالَ إِنَّمَآ أُوتِيتُهُۥ عَلَىٰ عِلْمٍۭ ۚ بَلْ هِىَ فِتْنَةٌ وَلَـٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ
 
 *Fa-idhā massa-l-insāna ḍurrun daʿānā, thumma idhā khawwalnāhu niʿmatan minnā qāla innamā ūtītuhu ʿalā ʿilm. Bal hiya fitnatun, wa-lākinna aktharahum lā yaʿlamūn.*
 

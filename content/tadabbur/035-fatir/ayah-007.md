@@ -28,7 +28,7 @@ related_ayahs: ["35:6", "6:125", "57:20", "39:9", "2:271", "67:12", "106:4"]
 
 Let me give you the verse first. Then I want to spend a long time inside it, because it looks simple, and it is not.
 
-> ٱلَّذِينَ كَفَرُوا۟ لَهُمْ عَذَابٌ شَدِيدٌۖ وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَهُم مَّغْفِرَةٌ وَأَجْرٌ كَبِيرٌ
+> [ayah:35:7] ٱلَّذِينَ كَفَرُوا۟ لَهُمْ عَذَابٌ شَدِيدٌ ۖ وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَهُم مَّغْفِرَةٌ وَأَجْرٌ كَبِيرٌ
 
 *Alladhīna kafarū lahum ʿadhābun shadīd. Wa-lladhīna āmanū wa-ʿamilū aṣ-ṣāliḥāti lahum maghfiratun wa-ajrun kabīr.*
 

@@ -28,7 +28,7 @@ related_ayahs: ["39:2", "39:3", "39:11", "39:14", "30:28", "16:75", "33:4", "2:2
 
 Let me give you the words first. Sit with them before we go anywhere.
 
-> **ضَرَبَ ٱللَّهُ مَثَلًا رَّجُلًا فِيهِ شُرَكَآءُ مُتَشَـٰكِسُونَ وَرَجُلًا سَلَمًا لِّرَجُلٍ هَلْ يَسْتَوِيَانِ مَثَلًاۚ ٱلْحَمْدُ لِلَّهِۚ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ**
+> [ayah:39:29] ضَرَبَ ٱللَّهُ مَثَلًا رَّجُلًا فِيهِ شُرَكَآءُ مُتَشَـٰكِسُونَ وَرَجُلًا سَلَمًا لِّرَجُلٍ هَلْ يَسْتَوِيَانِ مَثَلًا ۚ ٱلْحَمْدُ لِلَّهِ ۚ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ
 
 *Ḍaraba Allāhu mathalan rajulan fīhi shurakāʾu mutashākisūna wa rajulan salaman li-rajulin, hal yastawiyāni mathalā? Al-ḥamdu lillāh, bal aktharuhum lā yaʿlamūn.*
 

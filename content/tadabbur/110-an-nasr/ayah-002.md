@@ -48,7 +48,7 @@ And today we are going to sit inside it.
 
 ### The Hook
 
-وَرَأَيْتَ ٱلنَّاسَ يَدْخُلُونَ فِى دِينِ ٱللَّهِ أَفْوَاجًا
+[ayah:110:2] وَرَأَيْتَ ٱلنَّاسَ يَدْخُلُونَ فِى دِينِ ٱللَّهِ أَفْوَاجًا
 
 *And you see the people entering into the religion of Allah in multitudes.*
 

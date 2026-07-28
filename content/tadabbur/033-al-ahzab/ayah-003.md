@@ -60,7 +60,7 @@ Ayah 1: Fear Allah. Do not obey the disbelievers and the hypocrites.
 Ayah 2: Follow what has been revealed to you.
 Ayah 3:
 
-**وَتَوَكَّلْ عَلَى اللَّهِ ۚ وَكَفَىٰ بِاللَّهِ وَكِيلًا**
+[ayah:33:3] وَتَوَكَّلْ عَلَى ٱللَّهِ ۚ وَكَفَىٰ بِٱللَّهِ وَكِيلًا
 
 *Wa tawakkal ʿalā Allāh. Wa kafā billāhi wakīlā.*
 

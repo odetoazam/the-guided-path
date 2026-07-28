@@ -16,7 +16,7 @@ ayah_end: 57
 title: "The Question Asked Thirty-One Times: Which Favor Will the Two of You Deny?"
 slug: "055-057"
 category: tadabbur
-arabic: "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+[ayah:55:57] فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
 translation: "So which of the favors of your Lord will you both deny?"
 word_count: 6700
 estimated_duration: "52-59 minutes"

@@ -28,7 +28,7 @@ related_ayahs: ["55:13", "55:46", "55:48", "55:31", "55:33", "16:18", "14:34"]
 
 Let me give you the ayah first. Four words. Listen to them before we say anything about them.
 
-> فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+> [ayah:55:47] فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
 
 *Fa-bi-ayyi ālāʾi rabbikumā tukadhdhibān.*
 

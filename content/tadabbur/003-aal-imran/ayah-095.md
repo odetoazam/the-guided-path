@@ -24,7 +24,7 @@ related_ayahs: ["3:93", "3:94", "3:96", "2:135", "6:161", "16:120", "16:123", "4
 
 # Allah Spoke the Truth: Belonging to Ibrahim by Leaning, Not by Blood
 
-> قُلْ صَدَقَ ٱللَّهُ ۗ فَٱتَّبِعُوا۟ مِلَّةَ إِبْرَٰهِيمَ حَنِيفًا وَمَا كَانَ مِنَ ٱلْمُشْرِكِينَ
+> [ayah:3:95] قُلْ صَدَقَ ٱللَّهُ ۗ فَٱتَّبِعُوا۟ مِلَّةَ إِبْرَٰهِيمَ حَنِيفًا وَمَا كَانَ مِنَ ٱلْمُشْرِكِينَ
 >
 > *Qul ṣadaqa-llāhu fa-ttabiʿū millata Ibrāhīma ḥanīfan wa mā kāna mina-l-mushrikīn.*
 >

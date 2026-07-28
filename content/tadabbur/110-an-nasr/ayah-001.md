@@ -28,7 +28,7 @@ related_ayahs: ["48:1", "61:13", "3:126", "8:10", "30:5", "110:2", "110:3"]
 
 Let me give you the words first. Sit with their sound before we touch their meaning.
 
-> **إِذَا جَآءَ نَصْرُ ٱللَّهِ وَٱلْفَتْحُ**
+> [ayah:110:1] إِذَا جَآءَ نَصْرُ ٱللَّهِ وَٱلْفَتْحُ
 >
 > *Idhā jāʾa naṣru-llāhi wa-l-fatḥ*
 >

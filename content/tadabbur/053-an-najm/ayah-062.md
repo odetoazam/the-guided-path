@@ -23,7 +23,7 @@ related_ayahs: ["53:59", "53:60", "53:61", "7:206", "22:18", "96:19", "41:37"]
 
 # So Go Down: The Two Verbs That End the Surah of the Heights
 
-> فَٱسْجُدُوا۟ لِلَّهِ وَٱعْبُدُوا۩
+> [ayah:53:62] فَٱسْجُدُوا۟ لِلَّهِ وَٱعْبُدُوا۟ ۩
 >
 > *Fasjudū lillāhi waʿbudū.*
 >

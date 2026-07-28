@@ -15,7 +15,7 @@ ayah_end: 61
 title: "The Question You Cannot Answer: 'Which of Your Lord's Favors Will You Both Deny?'"
 slug: "055-061"
 category: tadabbur
-arabic: "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+[ayah:55:61] فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
 translation: "So which of the favors of your Lord will you both deny?"
 word_count: 5600
 estimated_duration: "50-58 minutes"

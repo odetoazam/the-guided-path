@@ -50,7 +50,7 @@ Not with peace. Not with the garden. With a city.
 
 This city. Right here. The one that is, in this moment, trying to silence the revelation.
 
-Four words arrive: **لَآ أُقْسِمُ بِهَـٰذَا ٱلْبَلَدِ**
+[ayah:90:1] لَآ أُقْسِمُ بِهَـٰذَا ٱلْبَلَدِ
 
 *Nay — I swear by this city.*
 

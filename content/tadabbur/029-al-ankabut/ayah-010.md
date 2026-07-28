@@ -27,7 +27,7 @@ related_ayahs: ["29:2", "29:3", "29:11", "9:56", "4:142", "33:18", "59:11"]
 ## Surah 29, Ayah 10
 
 **Arabic:**
-وَمِنَ ٱلنَّاسِ مَن يَقُولُ ءَامَنَّا بِٱللَّهِ فَإِذَآ أُوذِىَ فِى ٱللَّهِ جَعَلَ فِتْنَةَ ٱلنَّاسِ كَعَذَابِ ٱللَّهِ وَلَئِن جَآءَ نَصْرٌ مِّن رَّبِّكَ لَيَقُولُنَّ إِنَّا كُنَّا مَعَكُمْ ۚ أَوَلَيْسَ ٱللَّهُ بِأَعْلَمَ بِمَا فِى صُدُورِ ٱلْعَـٰلَمِينَ
+[ayah:29:10] وَمِنَ ٱلنَّاسِ مَن يَقُولُ ءَامَنَّا بِٱللَّهِ فَإِذَآ أُوذِىَ فِى ٱللَّهِ جَعَلَ فِتْنَةَ ٱلنَّاسِ كَعَذَابِ ٱللَّهِ وَلَئِن جَآءَ نَصْرٌ مِّن رَّبِّكَ لَيَقُولُنَّ إِنَّا كُنَّا مَعَكُمْ ۚ أَوَلَيْسَ ٱللَّهُ بِأَعْلَمَ بِمَا فِى صُدُورِ ٱلْعَـٰلَمِينَ
 
 **Translation:**
 "And of the people are some who say, 'We believe in Allah,' but when one of them is harmed for the sake of Allah, he treats the trial inflicted by people as if it were the punishment of Allah. And if victory comes from your Lord, they will surely say, 'Indeed, we were with you.' Is not Allah most knowing of what is within the breasts of all creatures?"

@@ -24,7 +24,7 @@ related_ayahs: ["95:4", "82:7", "40:64", "7:11", "23:14", "32:7", "3:191"]
 
 # He Shaped You by Hand: The Beautiful Form Between Truth and Return
 
-> خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ وَصَوَّرَكُمْ فَأَحْسَنَ صُوَرَكُمْ ۖ وَإِلَيْهِ ٱلْمَصِيرُ
+> [ayah:64:3] خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ وَصَوَّرَكُمْ فَأَحْسَنَ صُوَرَكُمْ ۖ وَإِلَيْهِ ٱلْمَصِيرُ
 >
 > *Khalaqa s-samāwāti wa-l-arḍa bi-l-ḥaqq, wa-ṣawwarakum fa-aḥsana ṣuwarakum, wa-ilayhi l-maṣīr.*
 >

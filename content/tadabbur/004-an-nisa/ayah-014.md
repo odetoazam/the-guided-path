@@ -49,7 +49,7 @@ related_ayahs:
 ## Introduction
 
 **Arabic:**
-وَمَن يَعْصِ ٱللَّهَ وَرَسُولَهُۥ وَيَتَعَدَّ حُدُودَهُۥ يُدْخِلْهُ نَارًا خَـٰلِدًا فِيهَا وَلَهُۥ عَذَابٌ مُّهِينٌ
+[ayah:4:14] وَمَن يَعْصِ ٱللَّهَ وَرَسُولَهُۥ وَيَتَعَدَّ حُدُودَهُۥ يُدْخِلْهُ نَارًا خَـٰلِدًا فِيهَا وَلَهُۥ عَذَابٌ مُّهِينٌ
 
 **Transliteration:**
 *Wa-man yaʿṣi llāha wa-rasūlahu wa-yataʿadda ḥudūdahu yudkhilhu nāran khālidan fīhā wa-lahu ʿadhābun muhīn*

@@ -31,7 +31,7 @@ related_ayahs: ["50:3", "41:39", "35:9", "30:50", "57:17", "22:5", "7:57"]
 
 Let me give you the words first. Sit with the sound of them before we touch the meaning.
 
-> **رِّزْقًا لِّلْعِبَادِ ۖ وَأَحْيَيْنَا بِهِ بَلْدَةً مَّيْتًا ۚ كَذَٰلِكَ ٱلْخُرُوجُ**
+> [ayah:50:11] رِّزْقًا لِّلْعِبَادِ ۖ وَأَحْيَيْنَا بِهِۦ بَلْدَةً مَّيْتًا ۚ كَذَٰلِكَ ٱلْخُرُوجُ
 >
 > *Rizqan lil-ʿibād. Wa aḥyaynā bihi baldatan maytā. Kadhālika al-khurūj.*
 >

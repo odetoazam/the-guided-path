@@ -28,7 +28,7 @@ related_ayahs: ["59:7", "59:2", "8:1", "62:10", "67:15", "29:62", "25:45"]
 
 Let me give you the ayah first. Sit with the sound of it before we touch a single word.
 
-> وَمَآ أَفَآءَ ٱللَّهُ عَلَىٰ رَسُولِهِۦ مِنْهُمْ فَمَآ أَوْجَفْتُمْ عَلَيْهِ مِنْ خَيْلٍ وَلَا رِكَابٍ وَلَـٰكِنَّ ٱللَّهَ يُسَلِّطُ رُسُلَهُۥ عَلَىٰ مَن يَشَآءُ ۚ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
+> [ayah:59:6] وَمَآ أَفَآءَ ٱللَّهُ عَلَىٰ رَسُولِهِۦ مِنْهُمْ فَمَآ أَوْجَفْتُمْ عَلَيْهِ مِنْ خَيْلٍ وَلَا رِكَابٍ وَلَـٰكِنَّ ٱللَّهَ يُسَلِّطُ رُسُلَهُۥ عَلَىٰ مَن يَشَآءُ ۚ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
 
 *Wa mā afāʾa-llāhu ʿalā rasūlihi minhum fa-mā awjaftum ʿalayhi min khaylin wa lā rikābin wa lākinna-llāha yusalliṭu rusulahu ʿalā man yashāʾ, wa-llāhu ʿalā kulli shayʾin qadīr.*
 

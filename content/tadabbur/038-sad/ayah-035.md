@@ -32,7 +32,7 @@ related_ayahs: ["38:34", "38:36", "38:39", "27:40", "2:102", "3:26", "27:19"]
 
 Let me read you the ayah first. Then I want to slow everything down, because there is a man here, and the man has just failed a test, and what he says next is one of the most carefully ordered prayers in the entire Quran.
 
-> قَالَ رَبِّ ٱغْفِرْ لِى وَهَبْ لِى مُلْكًۭا لَّا يَنۢبَغِى لِأَحَدٍۢ مِّنۢ بَعْدِىٓ ۖ إِنَّكَ أَنتَ ٱلْوَهَّابُ
+> [ayah:38:35] قَالَ رَبِّ ٱغْفِرْ لِى وَهَبْ لِى مُلْكًا لَّا يَنۢبَغِى لِأَحَدٍ مِّنۢ بَعْدِىٓ ۖ إِنَّكَ أَنتَ ٱلْوَهَّابُ
 
 *Qāla rabbi-ghfir lī wa-hab lī mulkan lā yanbaghī li-aḥadin min baʿdī, innaka anta-l-Wahhāb.*
 

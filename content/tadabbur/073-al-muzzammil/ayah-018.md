@@ -39,7 +39,7 @@ Now move to the end of the surah. The gentle night-world of the opening has give
 
 A Day so terrible that children — *al-wildān*, the little ones — go gray. And then, before you can even answer that question, the ayah we are sitting with today arrives. It does not argue. It does not threaten. It simply lets you look up:
 
-> **ٱلسَّمَآءُ مُنفَطِرٌۢ بِهِۦ ۚ كَانَ وَعْدُهُۥ مَفْعُولًا**
+> [ayah:73:18] ٱلسَّمَآءُ مُنفَطِرٌۢ بِهِۦ ۚ كَانَ وَعْدُهُۥ مَفْعُولًا
 > *as-samāʾu munfaṭirun bih, kāna waʿduhu mafʿūlā*
 > **"The heaven splits apart because of it. His promise is ever fulfilled."**
 

@@ -28,7 +28,7 @@ related_ayahs: ["50:2", "50:3", "25:38", "54:9", "11:25", "7:73", "25:37", "36:1
 
 Let me begin by reading you the verse, and then I want to slow everything down — because this is one of those verses you could read a hundred times and walk past, until one day you notice what's hiding in it.
 
-> **كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ وَأَصْحَٰبُ ٱلرَّسِّ وَثَمُودُ**
+> [ayah:50:12] كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ وَأَصْحَـٰبُ ٱلرَّسِّ وَثَمُودُ
 >
 > *Kadhdhabat qablahum qawmu Nūḥin wa-aṣḥābu-r-rassi wa-Thamūd.*
 >

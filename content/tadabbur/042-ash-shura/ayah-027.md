@@ -28,7 +28,7 @@ related_ayahs: ["42:19", "17:30", "29:62", "13:26", "20:131", "63:9", "102:1"]
 
 Let me give you the ayah first. Sit with the sound of it before we touch the meaning.
 
-> وَلَوْ بَسَطَ ٱللَّهُ ٱلرِّزْقَ لِعِبَادِهِۦ لَبَغَوْا۟ فِى ٱلْأَرْضِ وَلَـٰكِن يُنَزِّلُ بِقَدَرٍ مَّا يَشَآءُ ۚ إِنَّهُۥ بِعِبَادِهِۦ خَبِيرٌۢ بَصِيرٌ
+> [ayah:42:27] ۞ وَلَوْ بَسَطَ ٱللَّهُ ٱلرِّزْقَ لِعِبَادِهِۦ لَبَغَوْا۟ فِى ٱلْأَرْضِ وَلَـٰكِن يُنَزِّلُ بِقَدَرٍ مَّا يَشَآءُ ۚ إِنَّهُۥ بِعِبَادِهِۦ خَبِيرٌۢ بَصِيرٌ
 
 *Wa law basaṭa-llāhu r-rizqa li-ʿibādihi la-baghaw fi-l-arḍi wa-lākin yunazzilu bi-qadarin mā yashāʾ. Innahu bi-ʿibādihi khabīrun baṣīr.*
 

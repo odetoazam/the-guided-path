@@ -24,7 +24,7 @@ related_ayahs: ["65:3", "3:173", "8:62", "9:40", "94:5-6", "39:38"]
 
 # Is Not Allah Enough? — The Question That Dissolves Every Manufactured Fear
 
-> أَلَيْسَ ٱللَّهُ بِكَافٍ عَبْدَهُۥ ۖ وَيُخَوِّفُونَكَ بِٱلَّذِينَ مِن دُونِهِۦ ۚ وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُۥ مِنْ هَادٍ
+> [ayah:39:36] أَلَيْسَ ٱللَّهُ بِكَافٍ عَبْدَهُۥ ۖ وَيُخَوِّفُونَكَ بِٱلَّذِينَ مِن دُونِهِۦ ۚ وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُۥ مِنْ هَادٍ
 >
 > *Alaysa-llāhu bikāfin ʿabdah? Wa yukhawwifūnaka billadhīna min dūnih. Wa man yuḍlili-llāhu famā lahu min hād.*
 >

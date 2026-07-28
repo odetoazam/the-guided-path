@@ -28,7 +28,7 @@ related_ayahs: ["76:1", "76:9", "7:43", "18:31", "35:33", "83:25", "47:15"]
 
 Let me read it to you slowly. In Arabic first, then in sound, then in meaning.
 
-> عَـٰلِيَهُمْ ثِيَابُ سُندُسٍ خُضْرٌ وَإِسْتَبْرَقٌۖ وَحُلُّوٓاْ أَسَاوِرَ مِن فِضَّةٍۖ وَسَقَىٰهُمْ رَبُّهُمْ شَرَابًا طَهُورًا
+> [ayah:76:21] عَـٰلِيَهُمْ ثِيَابُ سُندُسٍ خُضْرٌ وَإِسْتَبْرَقٌ ۖ وَحُلُّوٓا۟ أَسَاوِرَ مِن فِضَّةٍ وَسَقَىٰهُمْ رَبُّهُمْ شَرَابًا طَهُورًا
 
 *ʿĀliyahum thiyābu sundusin khuḍrun wa-istabraq, wa ḥullū asāwira min fiḍḍah, wa saqāhum rabbuhum sharāban ṭahūrā.*
 

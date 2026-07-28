@@ -28,7 +28,7 @@ related_ayahs: ["36:81", "7:172", "50:38", "75:40", "41:39", "30:27"]
 
 Let me give you the ayah first. Sit with the sound of it before we touch a single meaning.
 
-> **أَوَلَمْ يَرَوْاْ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ وَلَمْ يَعْىَ بِخَلْقِهِنَّ بِقَـٰدِرٍ عَلَىٰٓ أَن يُحْـِۧىَ ٱلْمَوْتَىٰ ۚ بَلَىٰٓ إِنَّهُۥ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ**
+> [ayah:46:33] أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ وَلَمْ يَعْىَ بِخَلْقِهِنَّ بِقَـٰدِرٍ عَلَىٰٓ أَن يُحْـِۧىَ ٱلْمَوْتَىٰ ۚ بَلَىٰٓ إِنَّهُۥ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
 
 *Awa lam yaraw anna-llāha-lladhī khalaqa-s-samāwāti wa-l-arḍa wa lam yaʿya bi-khalqihinna bi-qādirin ʿalā an yuḥyiya-l-mawtā — balā, innahu ʿalā kulli shay'in qadīr.*
 

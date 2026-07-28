@@ -28,7 +28,7 @@ related_ayahs: ["3:65", "3:67", "17:36", "2:140", "53:28", "10:36"]
 
 Let me give you the words first. Sit with the sound of them before we say anything about the meaning.
 
-> هَـٰٓأَنتُمْ هَـٰٓؤُلَآءِ حَـٰجَجْتُمْ فِيمَا لَكُم بِهِۦ عِلْمٌ فَلِمَ تُحَآجُّونَ فِيمَا لَيْسَ لَكُم بِهِۦ عِلْمٌ ۚ وَٱللَّهُ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ
+> [ayah:3:66] هَـٰٓأَنتُمْ هَـٰٓؤُلَآءِ حَـٰجَجْتُمْ فِيمَا لَكُم بِهِۦ عِلْمٌ فَلِمَ تُحَآجُّونَ فِيمَا لَيْسَ لَكُم بِهِۦ عِلْمٌ ۚ وَٱللَّهُ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ
 
 *Hā-antum hā'ulā'i ḥājajtum fīmā lakum bihi ʿilm, falima tuḥājjūna fīmā laysa lakum bihi ʿilm, wallāhu yaʿlamu wa antum lā taʿlamūn.*
 

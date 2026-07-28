@@ -28,7 +28,7 @@ related_ayahs: ["9:111", "48:1", "48:4", "48:26", "2:248", "9:40"]
 
 Let me give you the words first, and then let me take you to the place they were spoken about.
 
-> لَّقَدْ رَضِىَ ٱللَّهُ عَنِ ٱلْمُؤْمِنِينَ إِذْ يُبَايِعُونَكَ تَحْتَ ٱلشَّجَرَةِ فَعَلِمَ مَا فِى قُلُوبِهِمْ فَأَنزَلَ ٱلسَّكِينَةَ عَلَيْهِمْ وَأَثَـٰبَهُمْ فَتْحًا قَرِيبًا
+> [ayah:48:18] ۞ لَّقَدْ رَضِىَ ٱللَّهُ عَنِ ٱلْمُؤْمِنِينَ إِذْ يُبَايِعُونَكَ تَحْتَ ٱلشَّجَرَةِ فَعَلِمَ مَا فِى قُلُوبِهِمْ فَأَنزَلَ ٱلسَّكِينَةَ عَلَيْهِمْ وَأَثَـٰبَهُمْ فَتْحًا قَرِيبًا
 
 *Laqad raḍiya Allāhu ʿani-l-muʾminīna idh yubāyiʿūnaka taḥta-sh-shajarati, fa-ʿalima mā fī qulūbihim, fa-anzala-s-sakīnata ʿalayhim wa athābahum fatḥan qarīban.*
 

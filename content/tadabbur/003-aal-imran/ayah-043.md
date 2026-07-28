@@ -24,7 +24,7 @@ related_ayahs: ["3:42", "3:44", "3:45", "66:12", "33:35", "2:238"]
 
 # The Order That Breaks the Order: Maryam and the Architecture of Devotion
 
-> يَٰمَرْيَمُ ٱقْنُتِى لِرَبِّكِ وَٱسْجُدِى وَٱرْكَعِى مَعَ ٱلرَّٰكِعِينَ
+> [ayah:3:43] يَـٰمَرْيَمُ ٱقْنُتِى لِرَبِّكِ وَٱسْجُدِى وَٱرْكَعِى مَعَ ٱلرَّٰكِعِينَ
 
 *Yā Maryam, uqnutī li-Rabbiki wa-sjudī wa-rkaʿī maʿa-r-rākiʿīn.*
 

@@ -25,7 +25,7 @@ related_ayahs: ["26:210", "26:212", "26:217", "26:218", "26:219", "41:36", "7:20
 # The One Who Hears, The One Who Knows
 ## Surah Ash-Shu'ara, Ayah 220
 
-> إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ
+> [ayah:26:220] إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ
 >
 > *Innahu huwa as-Samīʿu al-ʿAlīm*
 >

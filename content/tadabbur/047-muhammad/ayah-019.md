@@ -32,7 +32,7 @@ related_ayahs: ["47:18", "39:72", "11:6", "3:135", "110:3", "63:10"]
 
 Let me give you the words first. Sit with the sound of them before we touch a single meaning.
 
-> **فَٱعْلَمْ أَنَّهُۥ لَآ إِلَٰهَ إِلَّا ٱللَّهُ وَٱسْتَغْفِرْ لِذَنۢبِكَ وَلِلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِۗ وَٱللَّهُ يَعْلَمُ مُتَقَلَّبَكُمْ وَمَثْوَىٰكُمْ**
+> [ayah:47:19] فَٱعْلَمْ أَنَّهُۥ لَآ إِلَـٰهَ إِلَّا ٱللَّهُ وَٱسْتَغْفِرْ لِذَنۢبِكَ وَلِلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ ۗ وَٱللَّهُ يَعْلَمُ مُتَقَلَّبَكُمْ وَمَثْوَىٰكُمْ
 
 *Fa-ʿlam annahu lā ilāha illā Allāh, wa-staghfir li-dhanbika wa lil-muʾminīna wal-muʾmināt. Wa-Allāhu yaʿlamu mutaqallabakum wa mathwākum.*
 

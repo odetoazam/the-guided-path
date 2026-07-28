@@ -28,7 +28,7 @@ related_ayahs: ["42:8", "2:257", "2:107", "29:41", "18:44", "6:62"]
 
 Let me give you the ayah first, and then let me give you the world it fell into.
 
-> أَمِ ٱتَّخَذُوا۟ مِن دُونِهِۦٓ أَوْلِيَآءَ ۖ فَٱللَّهُ هُوَ ٱلْوَلِىُّ وَهُوَ يُحْىِ ٱلْمَوْتَىٰ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
+> [ayah:42:9] أَمِ ٱتَّخَذُوا۟ مِن دُونِهِۦٓ أَوْلِيَآءَ ۖ فَٱللَّهُ هُوَ ٱلْوَلِىُّ وَهُوَ يُحْىِ ٱلْمَوْتَىٰ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
 
 *Am-ittakhadhū min dūnihi awliyāʾ? Fa-llāhu huwa al-walīyu, wa huwa yuḥyi al-mawtā, wa huwa ʿalā kulli shayʾin qadīr.*
 

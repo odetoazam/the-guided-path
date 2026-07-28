@@ -28,7 +28,7 @@ related_ayahs: ["59:2", "59:6", "59:7", "8:17", "9:40", "2:286"]
 
 Let me give you the ayah first. Sit with the sound of it before we touch a single meaning.
 
-> **مَا قَطَعْتُم مِّن لِّينَةٍ أَوْ تَرَكْتُمُوهَا قَآئِمَةً عَلَىٰٓ أُصُولِهَا فَبِإِذْنِ ٱللَّهِ وَلِيُخْزِىَ ٱلْفَـٰسِقِينَ**
+> [ayah:59:5] مَا قَطَعْتُم مِّن لِّينَةٍ أَوْ تَرَكْتُمُوهَا قَآئِمَةً عَلَىٰٓ أُصُولِهَا فَبِإِذْنِ ٱللَّهِ وَلِيُخْزِىَ ٱلْفَـٰسِقِينَ
 
 *Mā qaṭaʿtum min līnatin aw taraktumūhā qā'imatan ʿalā uṣūlihā fa-bi-idhni-llāhi wa-li-yukhziya-l-fāsiqīn.*
 

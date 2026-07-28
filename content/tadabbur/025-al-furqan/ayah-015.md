@@ -52,7 +52,7 @@ related_ayahs:
 
 ## Introduction — The Question at the Worst Possible Moment
 
-**قُلْ أَذَٰلِكَ خَيْرٌ أَمْ جَنَّةُ الْخُلْدِ الَّتِي وُعِدَ الْمُتَّقُونَ ۚ كَانَتْ لَهُمْ جَزَاءً وَمَصِيرًا**
+[ayah:25:15] قُلْ أَذَٰلِكَ خَيْرٌ أَمْ جَنَّةُ ٱلْخُلْدِ ٱلَّتِى وُعِدَ ٱلْمُتَّقُونَ ۚ كَانَتْ لَهُمْ جَزَآءً وَمَصِيرًا
 
 *Qul a-dhālika khayrun am jannatu'l-khuldi'l-latī wuʿida'l-muttaqūn, kānat lahum jazāʾan wa-maṣīrā.*
 

@@ -27,7 +27,7 @@ related_ayahs: ["15:75", "15:76", "37:137", "37:138", "51:37", "29:20", "3:137"]
 ## Surah Al-Ankabut, Ayah 35
 
 ### Arabic
-وَلَقَد تَّرَكْنَا مِنْهَا آيَةً بَيِّنَةً لِّقَوْمٍ يَعْقِلُونَ
+[ayah:29:35] وَلَقَد تَّرَكْنَا مِنْهَآ ءَايَةًۢ بَيِّنَةً لِّقَوْمٍ يَعْقِلُونَ
 
 ### Transliteration
 *Wa laqad taraknā minhā āyatan bayyinatan li-qawmin ya'qilūn*

@@ -31,7 +31,7 @@ related_ayahs: ["50:11", "35:9", "41:39", "22:5", "6:95", "80:24-32", "30:50", "
 
 Let me give you the ayah first. Hold it in your hands before we open it.
 
-> وَنَزَّلْنَا مِنَ ٱلسَّمَآءِ مَآءً مُّبَٰرَكًا فَأَنۢبَتْنَا بِهِۦ جَنَّٰتٍ وَحَبَّ ٱلْحَصِيدِ
+> [ayah:50:9] وَنَزَّلْنَا مِنَ ٱلسَّمَآءِ مَآءً مُّبَـٰرَكًا فَأَنۢبَتْنَا بِهِۦ جَنَّـٰتٍ وَحَبَّ ٱلْحَصِيدِ
 
 *Wa nazzalnā mina-s-samāʾi māʾan mubārakan fa-anbatnā bihī jannātin wa ḥabba-l-ḥaṣīd.*
 

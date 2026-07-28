@@ -25,7 +25,7 @@ related_ayahs: ["42:40", "42:41", "42:42", "3:134", "41:34", "24:22", "64:14", "
 # The Cover and the Resolve
 ### Surah Ash-Shura, Ayah 43
 
-> وَلَمَن صَبَرَ وَغَفَرَ إِنَّ ذَٰلِكَ لَمِنْ عَزْمِ ٱلْأُمُورِ
+> [ayah:42:43] وَلَمَن صَبَرَ وَغَفَرَ إِنَّ ذَٰلِكَ لَمِنْ عَزْمِ ٱلْأُمُورِ
 >
 > *Wa-laman ṣabara wa-ghafara, inna dhālika la-min ʿazmi-l-umūr.*
 >

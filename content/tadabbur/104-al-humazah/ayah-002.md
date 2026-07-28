@@ -26,7 +26,7 @@ related_ayahs: ["104:1", "104:3", "104:6", "89:20", "100:8", "70:18", "63:9", "1
 
 # The Counting Loop: When Numbers Replace the One Who Numbers All Things
 
-**ٱلَّذِى جَمَعَ مَالًا وَعَدَّدَهُۥ**
+[ayah:104:2] ٱلَّذِى جَمَعَ مَالًا وَعَدَّدَهُۥ
 *alladhī jamaʿa mālan wa-ʿaddadah*
 *The one who collects wealth and counts it.*
 

@@ -28,7 +28,7 @@ related_ayahs: ["41:34", "3:103", "8:63", "60:1", "60:8"]
 
 Let me put the ayah in front of you first. Sit with the sound of it before we touch a single meaning.
 
-> عَسَىٰ ٱللَّهُ أَن يَجْعَلَ بَيْنَكُمْ وَبَيْنَ ٱلَّذِينَ عَادَيْتُم مِّنْهُم مَّوَدَّةً ۚ وَٱللَّهُ قَدِيرٌ ۚ وَٱللَّهُ غَفُورٌ رَّحِيمٌ
+> [ayah:60:7] ۞ عَسَى ٱللَّهُ أَن يَجْعَلَ بَيْنَكُمْ وَبَيْنَ ٱلَّذِينَ عَادَيْتُم مِّنْهُم مَّوَدَّةً ۚ وَٱللَّهُ قَدِيرٌ ۚ وَٱللَّهُ غَفُورٌ رَّحِيمٌ
 
 *ʿAsā Allāhu an yajʿala baynakum wa-bayna alladhīna ʿādaytum minhum mawaddah. Wa-Allāhu Qadīr. Wa-Allāhu Ghafūrun Raḥīm.*
 

@@ -28,7 +28,7 @@ related_ayahs: ["3:133", "57:20", "83:26", "35:32", "23:61"]
 
 Let me begin by reading you the words, and then I want to take something away from you before I give it back.
 
-> **سَابِقُوٓاْ إِلَىٰ مَغْفِرَةٍ مِّن رَّبِّكُمْ وَجَنَّةٍ عَرْضُهَا كَعَرْضِ ٱلسَّمَآءِ وَٱلْأَرْضِ أُعِدَّتْ لِلَّذِينَ ءَامَنُواْ بِٱللَّهِ وَرُسُلِهِۦ ۚ ذَٰلِكَ فَضْلُ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ ۚ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ**
+> [ayah:57:21] سَابِقُوٓا۟ إِلَىٰ مَغْفِرَةٍ مِّن رَّبِّكُمْ وَجَنَّةٍ عَرْضُهَا كَعَرْضِ ٱلسَّمَآءِ وَٱلْأَرْضِ أُعِدَّتْ لِلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَرُسُلِهِۦ ۚ ذَٰلِكَ فَضْلُ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ ۚ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ
 
 > *Sābiqū ilā maghfiratin min rabbikum wa jannatin ʿarḍuhā ka-ʿarḍi-s-samāʾi wal-arḍ, uʿiddat lilladhīna āmanū billāhi wa rusulih. Dhālika faḍlu-llāhi yuʾtīhi man yashāʾ, wa-llāhu dhul-faḍli-l-ʿaẓīm.*
 

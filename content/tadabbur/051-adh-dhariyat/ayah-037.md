@@ -28,7 +28,7 @@ related_ayahs: ["51:20", "51:21", "29:35", "15:75", "54:15", "2:66"]
 
 Let me give you the words first, and then let me give you the world they fell into.
 
-> **وَتَرَكْنَا فِيهَآ ءَايَةً لِّلَّذِينَ يَخَافُونَ ٱلْعَذَابَ ٱلْأَلِيمَ**
+> [ayah:51:37] وَتَرَكْنَا فِيهَآ ءَايَةً لِّلَّذِينَ يَخَافُونَ ٱلْعَذَابَ ٱلْأَلِيمَ
 >
 > *Wa taraknā fīhā āyatan lilladhīna yakhāfūna-l-ʿadhāba-l-alīm.*
 >

@@ -38,7 +38,7 @@ There is a sentence in the Quran that returns and returns and returns.
 
 If you have ever listened to Surah Ar-Rahman recited from beginning to end, you know the feeling. A blessing is named — a fruit, a spring, a garden, a pair — and then, like a tide coming back to the same shore, the same words wash over you again:
 
-**فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ**
+[ayah:55:53] فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
 
 *So which of the favors of your Lord will you both deny?*
 

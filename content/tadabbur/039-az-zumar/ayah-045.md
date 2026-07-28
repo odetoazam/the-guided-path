@@ -32,7 +32,7 @@ related_ayahs: ["39:3", "39:2", "17:46", "40:12", "22:72", "10:58"]
 
 Let me read it to you first in Arabic, slowly, because the sound of this ayah is part of its meaning — and we will come back to that.
 
-> **وَإِذَا ذُكِرَ ٱللَّهُ وَحْدَهُ ٱشْمَأَزَّتْ قُلُوبُ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْءَاخِرَةِ ۖ وَإِذَا ذُكِرَ ٱلَّذِينَ مِن دُونِهِۦٓ إِذَا هُمْ يَسْتَبْشِرُونَ**
+> [ayah:39:45] وَإِذَا ذُكِرَ ٱللَّهُ وَحْدَهُ ٱشْمَأَزَّتْ قُلُوبُ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْـَٔاخِرَةِ ۖ وَإِذَا ذُكِرَ ٱلَّذِينَ مِن دُونِهِۦٓ إِذَا هُمْ يَسْتَبْشِرُونَ
 
 *Wa idhā dhukira Allāhu waḥdahu — shma'azzat qulūbu alladhīna lā yu'minūna bil-ākhirah — wa idhā dhukira alladhīna min dūnihi — idhā hum yastabshirūn.*
 

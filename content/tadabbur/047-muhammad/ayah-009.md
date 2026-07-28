@@ -25,7 +25,7 @@ related_ayahs: ["47:8", "47:1", "47:28", "47:26", "18:104", "25:23", "2:217", "9
 # The Aversion Before the Argument
 ### A Reflection on Surah Muhammad, Ayah 9
 
-> **ذَٰلِكَ بِأَنَّهُمْ كَرِهُوا۟ مَآ أَنزَلَ ٱللَّهُ فَأَحْبَطَ أَعْمَٰلَهُمْ**
+> [ayah:47:9] ذَٰلِكَ بِأَنَّهُمْ كَرِهُوا۟ مَآ أَنزَلَ ٱللَّهُ فَأَحْبَطَ أَعْمَـٰلَهُمْ
 >
 > *Dhālika bi-annahum karihū mā anzala-llāhu fa-aḥbaṭa aʿmālahum.*
 >

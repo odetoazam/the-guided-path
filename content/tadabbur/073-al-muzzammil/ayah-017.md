@@ -28,7 +28,7 @@ related_ayahs: ["73:5", "73:8", "73:20", "22:2", "31:33", "70:8-9"]
 
 Let me give you the verse first, and then let me ask you to forget, for a little while, that you already know what the Day of Judgment is. Because familiarity is the thief that steals this ayah from us.
 
-> **فَكَيْفَ تَتَّقُونَ إِن كَفَرْتُمْ يَوْمًا يَجْعَلُ ٱلْوِلْدَٰنَ شِيبًا**
+> [ayah:73:17] فَكَيْفَ تَتَّقُونَ إِن كَفَرْتُمْ يَوْمًا يَجْعَلُ ٱلْوِلْدَٰنَ شِيبًا
 >
 > *Fa-kayfa tattaqūna in kafartum yawman yajʿalu al-wildāna shībā*
 >

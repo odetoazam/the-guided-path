@@ -154,7 +154,7 @@ Here is the question the ayah is quietly asking: If you are in the same place as
 
 The Arabic says: *no*. And it says it by the very structure of what it records. Allah did not write "the believers who had managed to remove themselves to a safer location." He did not write "the believers who had kept their distance." He wrote:
 
-*فَأَخْرَجْنَا مَن كَانَ فِيهَا مِنَ الْمُؤْمِنِينَ.*
+[ayah:51:35] فَأَخْرَجْنَا مَن كَانَ فِيهَا مِنَ ٱلْمُؤْمِنِينَ
 
 We brought out those who were *right there inside it* — of the believers.
 

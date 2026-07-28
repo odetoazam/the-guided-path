@@ -28,7 +28,7 @@ related_ayahs: ["27:55", "7:80", "7:81", "26:165", "26:166", "29:28", "29:29", "
 
 Listen to these words first. Don't analyze them. Just let them land.
 
-**وَلُوطًا إِذْ قَالَ لِقَوْمِهِۦٓ أَتَأْتُونَ ٱلْفَـٰحِشَةَ وَأَنتُمْ تُبْصِرُونَ**
+[ayah:27:54] وَلُوطًا إِذْ قَالَ لِقَوْمِهِۦٓ أَتَأْتُونَ ٱلْفَـٰحِشَةَ وَأَنتُمْ تُبْصِرُونَ
 
 *Wa Lūṭan idh qāla li-qawmihi: a-taʾtūna l-fāḥishata wa antum tubṣirūn.*
 

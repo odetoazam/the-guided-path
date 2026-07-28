@@ -28,7 +28,7 @@ related_ayahs: ["7:51", "9:67", "20:126", "32:14", "42:40", "59:19", "45:24"]
 
 Let me read it to you first. Sit with the sound of it before we touch a single meaning.
 
-**وَقِيلَ ٱلْيَوْمَ نَنسَىٰكُمْ كَمَا نَسِيتُمْ لِقَآءَ يَوْمِكُمْ هَـٰذَا وَمَأْوَىٰكُمُ ٱلنَّارُ وَمَا لَكُم مِّن نَّـٰصِرِينَ**
+[ayah:45:34] وَقِيلَ ٱلْيَوْمَ نَنسَىٰكُمْ كَمَا نَسِيتُمْ لِقَآءَ يَوْمِكُمْ هَـٰذَا وَمَأْوَىٰكُمُ ٱلنَّارُ وَمَا لَكُم مِّن نَّـٰصِرِينَ
 
 *Wa qīla al-yawma nansākum kamā nasītum liqā'a yawmikum hādhā wa ma'wākumu n-nāru wa mā lakum min nāṣirīn.*
 

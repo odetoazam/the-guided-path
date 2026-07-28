@@ -24,7 +24,7 @@ related_ayahs: ["3:47", "2:117", "36:82", "19:35", "16:40", "40:68"]
 
 # Near Allah: The Likeness of Isa, the Dust of Adam, and the Word That Is Still Speaking
 
-> إِنَّ مَثَلَ عِيسَىٰ عِندَ ٱللَّهِ كَمَثَلِ ءَادَمَ ۖ خَلَقَهُۥ مِن تُرَابٍ ثُمَّ قَالَ لَهُۥ كُن فَيَكُونُ
+> [ayah:3:59] إِنَّ مَثَلَ عِيسَىٰ عِندَ ٱللَّهِ كَمَثَلِ ءَادَمَ ۖ خَلَقَهُۥ مِن تُرَابٍ ثُمَّ قَالَ لَهُۥ كُن فَيَكُونُ
 >
 > *Inna mathala ʿĪsā ʿinda-llāhi ka-mathali Ādam — khalaqahu min turābin thumma qāla lahu kun fa-yakūn.*
 >

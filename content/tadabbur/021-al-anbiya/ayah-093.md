@@ -48,7 +48,7 @@ That is the declaration of ayah 92.
 
 Now, the very next breath — ayah 93 — tells us what humans did with that gift.
 
-> **وَتَقَطَّعُوٓا۟ أَمْرَهُم بَيْنَهُمْ ۖ كُلٌّ إِلَيْنَا رَٰجِعُونَ**
+> [ayah:21:93] وَتَقَطَّعُوٓا۟ أَمْرَهُم بَيْنَهُمْ ۖ كُلٌّ إِلَيْنَا رَٰجِعُونَ
 
 *"But they cut their affair among themselves into pieces. All — to Us — are returning."*
 

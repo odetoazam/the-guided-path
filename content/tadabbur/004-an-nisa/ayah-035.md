@@ -28,7 +28,7 @@ related_ayahs: ["4:34", "4:128", "2:187", "30:21", "49:10"]
 
 Let me give you the words first, slowly, and then let us build the world they fell into.
 
-> **وَإِنْ خِفْتُمْ شِقَاقَ بَيْنِهِمَا فَٱبْعَثُوا۟ حَكَمًا مِّنْ أَهْلِهِۦ وَحَكَمًا مِّنْ أَهْلِهَآ إِن يُرِيدَآ إِصْلَـٰحًا يُوَفِّقِ ٱللَّهُ بَيْنَهُمَآ إِنَّ ٱللَّهَ كَانَ عَلِيمًا خَبِيرًا**
+> [ayah:4:35] وَإِنْ خِفْتُمْ شِقَاقَ بَيْنِهِمَا فَٱبْعَثُوا۟ حَكَمًا مِّنْ أَهْلِهِۦ وَحَكَمًا مِّنْ أَهْلِهَآ إِن يُرِيدَآ إِصْلَـٰحًا يُوَفِّقِ ٱللَّهُ بَيْنَهُمَآ ۗ إِنَّ ٱللَّهَ كَانَ عَلِيمًا خَبِيرًا
 
 > *Wa in khiftum shiqāqa baynihimā fab'athū ḥakaman min ahlihi wa ḥakaman min ahlihā. In yurīdā iṣlāḥan yuwaffiqi-llāhu baynahumā. Inna-llāha kāna 'alīman khabīrā.*
 

@@ -28,7 +28,7 @@ related_ayahs: ["113:1", "113:3", "113:4", "114:4", "4:54", "5:27", "2:109", "48
 
 Let me give you the words first. Sit with how short they are.
 
-**وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ**
+[ayah:113:5] وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ
 
 *Wa min sharri ḥāsidin idhā ḥasad.*
 

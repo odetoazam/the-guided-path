@@ -27,7 +27,7 @@ related_ayahs: ["38:11", "89:10", "40:36", "29:39", "54:9"]
 # Owner of the Stakes
 ## A Reflection on Surah Sad, Ayah 12
 
-> كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ وَعَادٌ وَفِرْعَوْنُ ذُو ٱلْأَوْتَادِ
+> [ayah:38:12] كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ وَعَادٌ وَفِرْعَوْنُ ذُو ٱلْأَوْتَادِ
 >
 > *Kadhdhabat qablahum qawmu Nūḥin wa ʿĀdun wa Firʿawnu dhū-l-awtād*
 >

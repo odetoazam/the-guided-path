@@ -28,7 +28,7 @@ related_ayahs: ["106:1", "106:2", "105:1", "2:21", "51:56", "14:7"]
 
 Let me give you the ayah first, and then let me give you the world it fell into.
 
-> **فَلْيَعْبُدُوا۟ رَبَّ هَـٰذَا ٱلْبَيْتِ**
+> [ayah:106:3] فَلْيَعْبُدُوا۟ رَبَّ هَـٰذَا ٱلْبَيْتِ
 >
 > *Fal-yaʿbudū rabba hādhā al-bayt.*
 >

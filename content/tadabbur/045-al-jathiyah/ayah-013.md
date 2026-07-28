@@ -28,7 +28,7 @@ related_ayahs: ["14:32", "14:33", "16:12", "31:20", "22:65", "2:29", "3:191", "6
 
 Let me give you the ayah first. Sit with how it sounds before we understand a single word of it.
 
-> وَسَخَّرَ لَكُم مَّا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ جَمِيعًا مِّنْهُ ۚ إِنَّ فِى ذَٰلِكَ لَءَايَـٰتٍ لِّقَوْمٍ يَتَفَكَّرُونَ
+> [ayah:45:13] وَسَخَّرَ لَكُم مَّا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ جَمِيعًا مِّنْهُ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّقَوْمٍ يَتَفَكَّرُونَ
 
 *Wa sakhkhara lakum mā fis-samāwāti wa mā fil-arḍi jamīʿan minhu. Inna fī dhālika la-āyātin li-qawmin yatafakkarūn.*
 

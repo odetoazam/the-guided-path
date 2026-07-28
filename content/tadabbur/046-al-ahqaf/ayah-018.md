@@ -28,7 +28,7 @@ related_ayahs: ["46:15", "46:16", "46:17", "32:13", "11:119", "7:18", "38:85"]
 
 Listen to it first in Arabic. Let the sound arrive before the meaning:
 
-> **أُولَٰئِكَ ٱلَّذِينَ حَقَّ عَلَيْهِمُ ٱلْقَوْلُ فِىٓ أُمَمٍ قَدْ خَلَتْ مِن قَبْلِهِم مِّنَ ٱلْجِنِّ وَٱلْإِنسِ ۖ إِنَّهُمْ كَانُوا۟ خَٰسِرِينَ**
+> [ayah:46:18] أُو۟لَـٰٓئِكَ ٱلَّذِينَ حَقَّ عَلَيْهِمُ ٱلْقَوْلُ فِىٓ أُمَمٍ قَدْ خَلَتْ مِن قَبْلِهِم مِّنَ ٱلْجِنِّ وَٱلْإِنسِ ۖ إِنَّهُمْ كَانُوا۟ خَـٰسِرِينَ
 
 *Ulā'ika alladhīna ḥaqqa ʿalayhimu al-qawlu fī umamin qad khalat min qablihim mina al-jinni wa al-insi, innahum kānū khāsirīn.*
 

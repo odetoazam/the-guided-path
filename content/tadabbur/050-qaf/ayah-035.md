@@ -28,7 +28,7 @@ related_ayahs: ["10:26", "75:22", "75:23", "41:31", "43:71", "25:16", "50:16"]
 
 Let me give you the ayah first. Six words. That's the whole verse.
 
-**لَّهُم مَّا يَشَآءُونَ فِيهَا وَلَدَيْنَا مَزِيدٌ**
+[ayah:50:35] لَهُم مَّا يَشَآءُونَ فِيهَا وَلَدَيْنَا مَزِيدٌ
 
 *Lahum mā yashā'ūna fīhā wa-ladaynā mazīd.*
 

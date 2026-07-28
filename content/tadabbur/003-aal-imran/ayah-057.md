@@ -16,7 +16,7 @@ ayah_end: 57
 title: "Paid in Full: The Wage That Is Settled and the Love That Cannot Be"
 slug: "003-057"
 category: tadabbur
-arabic: "وَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ فَيُوَفِّيهِمْ أُجُورَهُمْ ۗ وَٱللَّهُ لَا يُحِبُّ ٱلظَّـٰلِمِينَ"
+[ayah:3:57] وَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ فَيُوَفِّيهِمْ أُجُورَهُمْ ۗ وَٱللَّهُ لَا يُحِبُّ ٱلظَّـٰلِمِينَ
 translation: "And as for those who believed and did righteous deeds, He will pay them their rewards in full. And Allah does not love the wrongdoers."
 word_count: 11
 estimated_duration: "50-58 minutes"

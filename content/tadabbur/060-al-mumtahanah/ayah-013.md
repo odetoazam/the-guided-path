@@ -32,7 +32,7 @@ related_ayahs: ["1:7", "60:1", "5:51", "12:87", "15:56", "39:53"]
 
 Let me read it to you first. Listen to the sound of it before you reach for the meaning.
 
-**يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تَتَوَلَّوْاْ قَوْمًا غَضِبَ ٱللَّهُ عَلَيْهِمْ قَدْ يَئِسُواْ مِنَ ٱلْءَاخِرَةِ كَمَا يَئِسَ ٱلْكُفَّارُ مِنْ أَصْحَـٰبِ ٱلْقُبُورِ**
+[ayah:60:13] يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَوَلَّوْا۟ قَوْمًا غَضِبَ ٱللَّهُ عَلَيْهِمْ قَدْ يَئِسُوا۟ مِنَ ٱلْـَٔاخِرَةِ كَمَا يَئِسَ ٱلْكُفَّارُ مِنْ أَصْحَـٰبِ ٱلْقُبُورِ
 
 *Yā ayyuhā alladhīna āmanū lā tatawallaw qawman ghaḍiba Allāhu ʿalayhim, qad ya'isū mina-l-ākhirati kamā ya'isa-l-kuffāru min aṣḥābi-l-qubūr.*
 

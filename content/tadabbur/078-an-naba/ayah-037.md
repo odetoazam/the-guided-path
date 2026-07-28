@@ -28,7 +28,7 @@ related_ayahs: ["78:38", "78:39", "20:108", "20:109", "11:105", "2:255", "1:3", 
 
 Let me begin with the words themselves. Listen first to the Arabic, and let the sound do something to you before the meaning does:
 
-> **رَّبِّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا ٱلرَّحْمَٰنِ ۖ لَا يَمْلِكُونَ مِنْهُ خِطَابًا**
+> [ayah:78:37] رَّبِّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا ٱلرَّحْمَـٰنِ ۖ لَا يَمْلِكُونَ مِنْهُ خِطَابًا
 
 *Rabbi-s-samāwāti wa-l-arḍi wa mā baynahumā-r-Raḥmān — lā yamlikūna minhu khiṭāba.*
 

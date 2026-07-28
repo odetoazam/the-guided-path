@@ -26,7 +26,7 @@ related_ayahs: ["90:1", "90:3", "90:4", "28:85", "47:13", "17:80"]
 
 ## The Ayah
 
-**Arabic:** وَأَنتَ حِلٌّۢ بِهَٰذَا ٱلْبَلَدِ
+[ayah:90:2] وَأَنتَ حِلٌّۢ بِهَـٰذَا ٱلْبَلَدِ
 
 **Transliteration:** *wa anta ḥillun bi-hādhā l-balad*
 

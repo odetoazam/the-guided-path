@@ -28,7 +28,7 @@ related_ayahs: ["19:36", "5:117", "43:64", "1:6", "3:50"]
 
 Let me give you the words first, and then let me take you back to the room where they were spoken.
 
-> **إِنَّ ٱللَّهَ رَبِّى وَرَبُّكُمْ فَٱعْبُدُوهُ ۗ هَـٰذَا صِرَٰطٌ مُّسْتَقِيمٌ**
+> [ayah:3:51] إِنَّ ٱللَّهَ رَبِّى وَرَبُّكُمْ فَٱعْبُدُوهُ ۗ هَـٰذَا صِرَٰطٌ مُّسْتَقِيمٌ
 >
 > *Inna-Llāha rabbī wa-rabbukum fa-ʿbudūhu — hādhā ṣirāṭun mustaqīm.*
 >

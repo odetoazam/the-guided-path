@@ -28,7 +28,7 @@ related_ayahs: ["72:1", "72:6", "72:8", "53:28", "45:24", "6:116", "10:36"]
 
 Let me give you the verse first. Sit with the sound of it before we touch a single meaning.
 
-> وَأَنَّهُمْ ظَنُّوا۟ كَمَا ظَنَنتُمْ أَن لَّن يَبْعَثَ ٱللَّهُ أَحَدًا
+> [ayah:72:7] وَأَنَّهُمْ ظَنُّوا۟ كَمَا ظَنَنتُمْ أَن لَّن يَبْعَثَ ٱللَّهُ أَحَدًا
 
 *Wa annahum ẓannū kamā ẓanantum an lan yabʿatha-llāhu aḥadā.*
 

@@ -24,7 +24,7 @@ related_ayahs: ["35:37", "3:119", "67:13", "11:5", "64:4", "39:7", "2:235", "8:4
 
 # The Companion of the Breast: Where Allah Reserves His Most Intense Knowing
 
-> إِنَّ ٱللَّهَ عَـٰلِمُ غَيْبِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ إِنَّهُۥ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
+> [ayah:35:38] إِنَّ ٱللَّهَ عَـٰلِمُ غَيْبِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ إِنَّهُۥ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
 >
 > *Inna-llāha ʿālimu ghaybi-s-samāwāti wa-l-arḍ. Innahu ʿalīmun bi-dhāti-ṣ-ṣudūr.*
 >

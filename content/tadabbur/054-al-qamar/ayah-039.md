@@ -46,7 +46,7 @@ Notice the grammar of that refrain. It is a **question**, in the **past tense**,
 
 But twice in this surah — only twice, and only in the story of the people of Lut — the refrain breaks its own pattern. The question disappears. The past tense disappears. The third person disappears. And in their place comes this:
 
-**فَذُوقُوا عَذَابِي وَنُذُرِ** — *"So taste My punishment and My warnings."*
+[ayah:54:39] فَذُوقُوا۟ عَذَابِى وَنُذُرِ
 
 Not *how was it*. Not *about them*. An imperative, in the present, spoken **to** the punished, mid-punishment.
 

@@ -28,7 +28,7 @@ related_ayahs: ["4:48", "39:53", "31:13", "4:115", "4:117"]
 
 Let me give you the words first. Sit with the Arabic before we say a thing about it.
 
-> إِنَّ ٱللَّهَ لَا يَغْفِرُ أَن يُشْرَكَ بِهِۦ وَيَغْفِرُ مَا دُونَ ذَٰلِكَ لِمَن يَشَآءُ ۚ وَمَن يُشْرِكْ بِٱللَّهِ فَقَدْ ضَلَّ ضَلَـٰلًۢا بَعِيدًا
+> [ayah:4:116] إِنَّ ٱللَّهَ لَا يَغْفِرُ أَن يُشْرَكَ بِهِۦ وَيَغْفِرُ مَا دُونَ ذَٰلِكَ لِمَن يَشَآءُ ۚ وَمَن يُشْرِكْ بِٱللَّهِ فَقَدْ ضَلَّ ضَلَـٰلًۢا بَعِيدًا
 
 *Inna-llāha lā yaghfiru an yushraka bihi wa yaghfiru mā dūna dhālika liman yashāʾ. Wa man yushrik billāhi faqad ḍalla ḍalālan baʿīdā.*
 

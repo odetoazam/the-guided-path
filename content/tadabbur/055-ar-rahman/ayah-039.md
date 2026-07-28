@@ -28,7 +28,7 @@ related_ayahs: ["15:92", "55:41", "55:38", "23:101", "28:78", "75:14"]
 
 Let me give you the words first. Sit with how short they are.
 
-> فَيَوْمَئِذٍ لَّا يُسْـَٔلُ عَن ذَنۢبِهِۦٓ إِنسٌ وَلَا جَآنٌّ
+> [ayah:55:39] فَيَوْمَئِذٍ لَّا يُسْـَٔلُ عَن ذَنۢبِهِۦٓ إِنسٌ وَلَا جَآنٌّ
 >
 > *Fa-yawma'idhin lā yus'alu ʿan dhanbihi insun wa lā jānn.*
 >

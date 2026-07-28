@@ -28,7 +28,7 @@ related_ayahs: ["50:16", "50:21", "50:22", "50:23", "16:22", "74:11-17", "27:14"
 
 Let me give you the ayah first. Sit with how short it is.
 
-> **أَلْقِيَا فِى جَهَنَّمَ كُلَّ كَفَّارٍ عَنِيدٍ**
+> [ayah:50:24] أَلْقِيَا فِى جَهَنَّمَ كُلَّ كَفَّارٍ عَنِيدٍ
 >
 > *Alqiyā fī jahannama kulla kaffārin ʿanīd.*
 >

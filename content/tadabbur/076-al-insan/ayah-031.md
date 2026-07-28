@@ -28,7 +28,7 @@ related_ayahs: ["76:1", "76:3", "76:30", "7:156", "39:53", "48:14"]
 
 Let me give you the verse first — in Arabic, then in sound, then in plain English.
 
-> يُدْخِلُ مَن يَشَآءُ فِى رَحْمَتِهِۦ ۚ وَٱلظَّـٰلِمِينَ أَعَدَّ لَهُمْ عَذَابًا أَلِيمًۢا
+> [ayah:76:31] يُدْخِلُ مَن يَشَآءُ فِى رَحْمَتِهِۦ ۚ وَٱلظَّـٰلِمِينَ أَعَدَّ لَهُمْ عَذَابًا أَلِيمًۢا
 
 *Yudkhilu man yashā'u fī raḥmatihi — wa-ẓ-ẓālimīna aʿadda lahum ʿadhāban alīmā.*
 

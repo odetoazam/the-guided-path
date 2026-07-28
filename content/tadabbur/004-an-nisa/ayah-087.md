@@ -28,7 +28,7 @@ related_ayahs: ["6:12", "3:9", "4:122", "39:67", "64:7"]
 
 Let me give you the words first, and then let me give you the world they fell into.
 
-> **ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ۚ لَيَجْمَعَنَّكُمْ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ لَا رَيْبَ فِيهِ ۗ وَمَنْ أَصْدَقُ مِنَ ٱللَّهِ حَدِيثًا**
+> [ayah:4:87] ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ۚ لَيَجْمَعَنَّكُمْ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ لَا رَيْبَ فِيهِ ۗ وَمَنْ أَصْدَقُ مِنَ ٱللَّهِ حَدِيثًا
 
 *Allāhu lā ilāha illā huw, la-yajmaʿannakum ilā yawmi-l-qiyāmati lā rayba fīh, wa man aṣdaqu mina-llāhi ḥadīthā.*
 

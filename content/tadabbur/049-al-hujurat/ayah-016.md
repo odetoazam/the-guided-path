@@ -28,7 +28,7 @@ related_ayahs: ["49:14", "49:15", "49:18", "2:284", "3:29", "67:13", "50:16", "1
 
 Let me give you the verse first. Sit with the sound of it before we touch a single word.
 
-> **قُلْ أَتُعَلِّمُونَ ٱللَّهَ بِدِينِكُمْ وَٱللَّهُ يَعْلَمُ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۚ وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌ**
+> [ayah:49:16] قُلْ أَتُعَلِّمُونَ ٱللَّهَ بِدِينِكُمْ وَٱللَّهُ يَعْلَمُ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۚ وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌ
 
 > *Qul a-tuʿallimūna-llāha bi-dīnikum, wa-llāhu yaʿlamu mā fī-s-samāwāti wa-mā fī-l-arḍ, wa-llāhu bi-kulli shayʾin ʿalīm.*
 

@@ -36,7 +36,7 @@ related_ayahs: ["50:2", "50:4", "55:15", "55:19", "10:39"]
 
 Let me give you the ayah first. Sit with the sound of it before we touch a single meaning.
 
-> **بَلْ كَذَّبُوا۟ بِٱلْحَقِّ لَمَّا جَآءَهُمْ فَهُمْ فِىٓ أَمْرٍۢ مَّرِيجٍۢ**
+> [ayah:50:5] بَلْ كَذَّبُوا۟ بِٱلْحَقِّ لَمَّا جَآءَهُمْ فَهُمْ فِىٓ أَمْرٍ مَّرِيجٍ
 >
 > *Bal kadhdhabū bil-ḥaqqi lammā jāʾahum, fahum fī amrin marīj.*
 >

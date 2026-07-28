@@ -28,7 +28,7 @@ related_ayahs: ["27:17", "27:22", "27:44", "27:16", "2:3", "49:12"]
 ## Introduction: Imagine the Scale
 
 *Arabic:*
-**وَتَفَقَّدَ الطَّيْرَ فَقَالَ مَا لِيَ لَا أَرَى الْهُدْهُدَ أَمْ كَانَ مِنَ الْغَائِبِينَ**
+[ayah:27:20] وَتَفَقَّدَ ٱلطَّيْرَ فَقَالَ مَا لِىَ لَآ أَرَى ٱلْهُدْهُدَ أَمْ كَانَ مِنَ ٱلْغَآئِبِينَ
 
 *Transliteration:*
 Wa tafaqqada al-ṭayra fa-qāla mā liya lā arā al-hudhuda am kāna min al-ghā'ibīn.

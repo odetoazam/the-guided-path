@@ -28,7 +28,7 @@ related_ayahs: ["3:33", "3:37", "3:43", "19:16", "66:12", "33:33"]
 
 Let me give you the ayah first. Sit with the sound of it before we touch a single meaning.
 
-> **وَإِذْ قَالَتِ ٱلْمَلَـٰٓئِكَةُ يَـٰمَرْيَمُ إِنَّ ٱللَّهَ ٱصْطَفَىٰكِ وَطَهَّرَكِ وَٱصْطَفَىٰكِ عَلَىٰ نِسَآءِ ٱلْعَـٰلَمِينَ**
+> [ayah:3:42] وَإِذْ قَالَتِ ٱلْمَلَـٰٓئِكَةُ يَـٰمَرْيَمُ إِنَّ ٱللَّهَ ٱصْطَفَىٰكِ وَطَهَّرَكِ وَٱصْطَفَىٰكِ عَلَىٰ نِسَآءِ ٱلْعَـٰلَمِينَ
 
 *Wa idh qālat-il-malā'ikatu yā Maryamu inna-llāha-ṣṭafāki wa ṭahharaki wa-ṣṭafāki ʿalā nisā'i-l-ʿālamīn.*
 

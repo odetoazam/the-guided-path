@@ -24,7 +24,7 @@ related_ayahs: ["72:3", "18:14", "2:13", "7:33", "16:116"]
 
 # Our Foolish One: The Confession of a Lie Carried Too Far
 
-> وَأَنَّهُۥ كَانَ يَقُولُ سَفِيهُنَا عَلَى ٱللَّهِ شَطَطًا
+> [ayah:72:4] وَأَنَّهُۥ كَانَ يَقُولُ سَفِيهُنَا عَلَى ٱللَّهِ شَطَطًا
 >
 > *wa-annahu kāna yaqūlu safīhunā ʿalā-llāhi shaṭaṭā*
 >

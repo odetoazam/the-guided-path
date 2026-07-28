@@ -33,7 +33,7 @@ Let me give you the ayah first, in three forms, and then let's build the world a
 
 **The Arabic:**
 
-> أَفَأَنتَ تُسْمِعُ ٱلصُّمَّ أَوْ تَهْدِى ٱلْعُمْىَ وَمَن كَانَ فِى ضَلَـٰلٍ مُّبِينٍ
+> [ayah:43:40] أَفَأَنتَ تُسْمِعُ ٱلصُّمَّ أَوْ تَهْدِى ٱلْعُمْىَ وَمَن كَانَ فِى ضَلَـٰلٍ مُّبِينٍ
 
 **The transliteration:**
 

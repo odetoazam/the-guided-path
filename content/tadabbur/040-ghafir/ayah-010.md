@@ -24,7 +24,7 @@ related_ayahs: ["61:3", "35:39", "4:22", "67:8", "40:11", "5:80"]
 
 # The Two Callings: When the One Who Invited You Near Now Proclaims to You From Afar
 
-> إِنَّ ٱلَّذِينَ كَفَرُوٓاْ يُنَادَوْنَ لَمَقْتُ ٱللَّهِ أَكْبَرُ مِن مَّقْتِكُمْ أَنفُسَكُمْ إِذْ تُدْعَوْنَ إِلَى ٱلْإِيمَـٰنِ فَتَكْفُرُونَ
+> [ayah:40:10] إِنَّ ٱلَّذِينَ كَفَرُوا۟ يُنَادَوْنَ لَمَقْتُ ٱللَّهِ أَكْبَرُ مِن مَّقْتِكُمْ أَنفُسَكُمْ إِذْ تُدْعَوْنَ إِلَى ٱلْإِيمَـٰنِ فَتَكْفُرُونَ
 >
 > *Inna alladhīna kafarū yunādawna lamaqtu-llāhi akbaru min maqtikum anfusakum idh tudʿawna ilā al-īmāni fa-takfurūn*
 >

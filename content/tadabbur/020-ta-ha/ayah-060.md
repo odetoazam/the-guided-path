@@ -42,7 +42,7 @@ In the historical record we can imagine for this period, the campaign that follo
 
 And Allah describes all of it in nine words.
 
-> فَتَوَلَّىٰ فِرْعَوْنُ فَجَمَعَ كَيْدَهُ ثُمَّ أَتَىٰ
+> [ayah:20:60] فَتَوَلَّىٰ فِرْعَوْنُ فَجَمَعَ كَيْدَهُۥ ثُمَّ أَتَىٰ
 > *Fa-tawallā Firʿawnu fa-jamaʿa kaydahu thumma atā.*
 > *So he turned away. Then he gathered his scheme. Then he came.*
 

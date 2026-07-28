@@ -47,7 +47,7 @@ related_ayahs:
 
 ## Introduction
 
-**Arabic:** الٓمٓ
+[ayah:29:1] الٓمٓ
 
 **Transliteration:** Alif. Lām. Mīm.
 

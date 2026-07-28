@@ -32,7 +32,7 @@ related_ayahs: ["2:7", "7:179", "8:23", "41:5", "63:5", "84:24"]
 
 Let me give you the words first, and then let me give you the world they fell into.
 
-> **يَسْمَعُ ءَايَـٰتِ ٱللَّهِ تُتْلَىٰ عَلَيْهِ ثُمَّ يُصِرُّ مُسْتَكْبِرًا كَأَن لَّمْ يَسْمَعْهَا ۖ فَبَشِّرْهُ بِعَذَابٍ أَلِيمٍ**
+> [ayah:45:8] يَسْمَعُ ءَايَـٰتِ ٱللَّهِ تُتْلَىٰ عَلَيْهِ ثُمَّ يُصِرُّ مُسْتَكْبِرًا كَأَن لَّمْ يَسْمَعْهَا ۖ فَبَشِّرْهُ بِعَذَابٍ أَلِيمٍ
 
 > *Yasmaʿu āyāti-llāhi tutlā ʿalayhi, thumma yuṣirru mustakbiran ka-an lam yasmaʿhā, fa-bashshirhu bi-ʿadhābin alīm.*
 

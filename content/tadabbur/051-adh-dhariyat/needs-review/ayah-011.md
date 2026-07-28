@@ -48,7 +48,7 @@ related_ayahs:
 
 ## INTRODUCTION
 
-**Arabic:** الَّذِينَ هُمْ فِي غَمْرَةٍ سَاهُونَ
+[ayah:51:11] ٱلَّذِينَ هُمْ فِى غَمْرَةٍ سَاهُونَ
 
 **Transliteration:** *alladhīna hum fī ghamratin sāhūn*
 

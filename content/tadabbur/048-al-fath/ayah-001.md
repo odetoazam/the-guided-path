@@ -28,7 +28,7 @@ related_ayahs: ["48:18", "48:27", "110:1", "61:13", "2:216"]
 
 Let me give you the verse first, and then let me put you on a road.
 
-> **إِنَّا فَتَحْنَا لَكَ فَتْحًا مُّبِينًا**
+> [ayah:48:1] إِنَّا فَتَحْنَا لَكَ فَتْحًا مُّبِينًا
 >
 > *Innā fataḥnā laka fatḥan mubīnā*
 >

@@ -28,7 +28,7 @@ related_ayahs: ["11:118", "11:119", "6:35", "5:48", "10:99", "16:93", "42:7"]
 
 Let me give you the ayah first. Sit with the sound of it before we touch the meaning.
 
-> وَلَوْ شَآءَ ٱللَّهُ لَجَعَلَهُمْ أُمَّةً وَٰحِدَةً وَلَٰكِن يُدْخِلُ مَن يَشَآءُ فِى رَحْمَتِهِۦ ۚ وَٱلظَّٰلِمُونَ مَا لَهُم مِّن وَلِىٍّ وَلَا نَصِيرٍ
+> [ayah:42:8] وَلَوْ شَآءَ ٱللَّهُ لَجَعَلَهُمْ أُمَّةً وَٰحِدَةً وَلَـٰكِن يُدْخِلُ مَن يَشَآءُ فِى رَحْمَتِهِۦ ۚ وَٱلظَّـٰلِمُونَ مَا لَهُم مِّن وَلِىٍّ وَلَا نَصِيرٍ
 
 *Wa law shāʾa Llāhu la-jaʿalahum ummatan wāḥidatan, wa lākin yudkhilu man yashāʾu fī raḥmatih. Wa-ẓ-ẓālimūna mā lahum min waliyyin wa lā naṣīr.*
 

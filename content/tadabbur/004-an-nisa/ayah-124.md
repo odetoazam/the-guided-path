@@ -28,7 +28,7 @@ related_ayahs: ["4:123", "4:49", "16:97", "40:40", "35:13", "99:7-8"]
 
 Let me give you the verse first, and then let me tell you what room we are standing in when it arrives.
 
-**وَمَن يَعْمَلْ مِنَ ٱلصَّـٰلِحَـٰتِ مِن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌ فَأُوْلَـٰٓئِكَ يَدْخُلُونَ ٱلْجَنَّةَ وَلَا يُظْلَمُونَ نَقِيرًا**
+[ayah:4:124] وَمَن يَعْمَلْ مِنَ ٱلصَّـٰلِحَـٰتِ مِن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌ فَأُو۟لَـٰٓئِكَ يَدْخُلُونَ ٱلْجَنَّةَ وَلَا يُظْلَمُونَ نَقِيرًا
 
 *Wa man yaʿmal mina ṣ-ṣāliḥāti min dhakarin aw unthā wa huwa muʾminun fa-ulāʾika yadkhulūna l-jannata wa lā yuẓlamūna naqīrā.*
 

@@ -24,7 +24,7 @@ related_ayahs: ["51:12", "51:13", "21:37", "10:50", "13:6", "29:54", "2:191", "3
 
 # Taste Your Fitnah: The Trial You Demanded Becomes the Trial You Wear
 
-> **ذُوقُوا فِتْنَتَكُمْ هَـٰذَا ٱلَّذِى كُنتُم بِهِۦ تَسْتَعْجِلُونَ**
+> [ayah:51:14] ذُوقُوا۟ فِتْنَتَكُمْ هَـٰذَا ٱلَّذِى كُنتُم بِهِۦ تَسْتَعْجِلُونَ
 >
 > *Dhūqū fitnatakum hādhā alladhī kuntum bihī tastaʿjilūn.*
 >

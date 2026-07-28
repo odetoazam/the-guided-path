@@ -27,7 +27,7 @@ related_ayahs: ["53:39", "53:40", "53:41", "6:164", "17:15", "35:18", "39:7", "2
 
 Let me give you the ayah first. Sit with how short it is.
 
-**أَلَّا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ**
+[ayah:53:38] أَلَّا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ
 
 *Allā taziru wāziratun wizra ukhrā.*
 

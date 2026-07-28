@@ -32,7 +32,7 @@ related_ayahs: ["105:1", "106:2", "106:3", "106:4", "8:63", "3:103", "30:21", "2
 
 Let me give you the whole verse. It is only two words.
 
-> لِإِيلَٰفِ قُرَيْشٍ
+> [ayah:106:1] لِإِيلَـٰفِ قُرَيْشٍ
 >
 > *Li-īlāfi Quraysh*
 >

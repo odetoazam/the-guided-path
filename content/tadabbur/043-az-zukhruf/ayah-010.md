@@ -32,7 +32,7 @@ related_ayahs: ["43:9", "43:11", "43:13", "20:53", "78:6", "71:19", "67:15", "20
 
 Let me give you the ayah first, and then I want to take you somewhere before we open it.
 
-> **ٱلَّذِى جَعَلَ لَكُمُ ٱلْأَرْضَ مَهْدًا وَجَعَلَ لَكُمْ فِيهَا سُبُلًا لَّعَلَّكُمْ تَهْتَدُونَ**
+> [ayah:43:10] ٱلَّذِى جَعَلَ لَكُمُ ٱلْأَرْضَ مَهْدًا وَجَعَلَ لَكُمْ فِيهَا سُبُلًا لَّعَلَّكُمْ تَهْتَدُونَ
 >
 > *Alladhī jaʿala lakumu al-arḍa mahdan wa jaʿala lakum fīhā subulan laʿallakum tahtadūn.*
 >

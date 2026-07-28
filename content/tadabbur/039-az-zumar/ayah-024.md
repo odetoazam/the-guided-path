@@ -28,7 +28,7 @@ related_ayahs: ["39:22", "3:106", "3:107", "2:281", "41:40", "2:48", "13:18"]
 
 Let me give you the ayah first. Sit with the sound of it before we touch a single meaning.
 
-> **أَفَمَن يَتَّقِى بِوَجْهِهِۦ سُوٓءَ ٱلْعَذَابِ يَوْمَ ٱلْقِيَـٰمَةِ ۚ وَقِيلَ لِلظَّـٰلِمِينَ ذُوقُواْ مَا كُنتُمْ تَكْسِبُونَ**
+> [ayah:39:24] أَفَمَن يَتَّقِى بِوَجْهِهِۦ سُوٓءَ ٱلْعَذَابِ يَوْمَ ٱلْقِيَـٰمَةِ ۚ وَقِيلَ لِلظَّـٰلِمِينَ ذُوقُوا۟ مَا كُنتُمْ تَكْسِبُونَ
 
 *Afaman yattaqī bi-wajhihi sūʾa al-ʿadhābi yawma al-qiyāmah… wa qīla liẓ-ẓālimīna dhūqū mā kuntum taksibūn.*
 

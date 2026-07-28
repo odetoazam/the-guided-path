@@ -54,7 +54,7 @@ related_ayahs:
 ### The Ayah
 
 **Arabic:**
-فِي أَدْنَى الْأَرْضِ وَهُم مِّن بَعْدِ غَلَبِهِمْ سَيَغْلِبُونَ
+[ayah:30:3] فِىٓ أَدْنَى ٱلْأَرْضِ وَهُم مِّنۢ بَعْدِ غَلَبِهِمْ سَيَغْلِبُونَ
 
 **Transliteration:**
 *Fī adnā al-arḍi wa-hum min baʿdi ghalabihi m sa-yaghLibūn*

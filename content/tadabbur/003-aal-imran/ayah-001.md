@@ -34,7 +34,7 @@ related_ayahs: ["2:1", "2:2", "3:7", "29:1", "31:1", "10:1", "12:1"]
 
 **The Arabic:**
 
-> الٓمٓ
+> [ayah:3:1] الٓمٓ
 
 **Transliteration:** *Alif. Lām. Mīm.*
 

@@ -28,7 +28,7 @@ related_ayahs: ["48:11", "48:16", "48:17", "33:29", "4:18", "9:90"]
 
 Let me give you the words first. Sit with the sound of them before we ask them anything.
 
-> وَمَن لَّمْ يُؤْمِنۢ بِٱللَّهِ وَرَسُولِهِۦ فَإِنَّآ أَعْتَدْنَا لِلْكَٰفِرِينَ سَعِيرًا
+> [ayah:48:13] وَمَن لَّمْ يُؤْمِنۢ بِٱللَّهِ وَرَسُولِهِۦ فَإِنَّآ أَعْتَدْنَا لِلْكَـٰفِرِينَ سَعِيرًا
 
 *Wa man lam yuʾmin billāhi wa rasūlihi fa-innā aʿtadnā lil-kāfirīna saʿīrā.*
 

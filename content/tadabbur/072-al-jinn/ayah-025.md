@@ -30,7 +30,7 @@ Let me give you the ayah three times, so it settles in three different places �
 
 In Arabic:
 
-> **قُلْ إِنْ أَدْرِىٓ أَقَرِيبٌ مَّا تُوعَدُونَ أَمْ يَجْعَلُ لَهُۥ رَبِّىٓ أَمَدًا**
+> [ayah:72:25] قُلْ إِنْ أَدْرِىٓ أَقَرِيبٌ مَّا تُوعَدُونَ أَمْ يَجْعَلُ لَهُۥ رَبِّىٓ أَمَدًا
 
 In transliteration:
 

@@ -28,7 +28,7 @@ related_ayahs: ["60:1", "60:4", "60:7", "3:118", "2:109", "9:8"]
 
 Let me give you the ayah first. Sit with the sound of it before we touch a single meaning.
 
-> **إِن يَثْقَفُوكُمْ يَكُونُوا۟ لَكُمْ أَعْدَآءً وَيَبْسُطُوٓا۟ إِلَيْكُمْ أَيْدِيَهُمْ وَأَلْسِنَتَهُم بِٱلسُّوٓءِ وَوَدُّوا۟ لَوْ تَكْفُرُونَ**
+> [ayah:60:2] إِن يَثْقَفُوكُمْ يَكُونُوا۟ لَكُمْ أَعْدَآءً وَيَبْسُطُوٓا۟ إِلَيْكُمْ أَيْدِيَهُمْ وَأَلْسِنَتَهُم بِٱلسُّوٓءِ وَوَدُّوا۟ لَوْ تَكْفُرُونَ
 
 *In yathqafūkum yakūnū lakum aʿdāʾan wa yabsuṭū ilaykum aydiyahum wa alsinatahum bis-sūʾi wa waddū law takfurūn.*
 

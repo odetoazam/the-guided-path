@@ -16,7 +16,7 @@ ayah_end: 109
 title: "And To Him Return All Matters: The Ayah That Hands Everything Back"
 slug: "003-109"
 category: tadabbur
-arabic: "وَلِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۚ وَإِلَى ٱللَّهِ تُرْجَعُ ٱلْأُمُورُ"
+[ayah:3:109] وَلِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۚ وَإِلَى ٱللَّهِ تُرْجَعُ ٱلْأُمُورُ
 translation: "And to Allah belongs whatever is in the heavens and whatever is in the earth. And to Allah all matters are returned."
 word_count: 11
 estimated_duration: "50-58 minutes"

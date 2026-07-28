@@ -49,7 +49,7 @@ related_ayahs:
 ## The Ayah
 
 **Arabic:**
-وَمَآ ءَاتَيْنَـٰهُم مِّن كُتُبٍ يَدْرُسُونَهَا وَمَآ أَرْسَلْنَآ إِلَيْهِمْ قَبْلَكَ مِن نَّذِيرٍ
+[ayah:34:44] وَمَآ ءَاتَيْنَـٰهُم مِّن كُتُبٍ يَدْرُسُونَهَا ۖ وَمَآ أَرْسَلْنَآ إِلَيْهِمْ قَبْلَكَ مِن نَّذِيرٍ
 
 **Transliteration:**
 *Wa mā ātaynāhum min kutubin yadrusūnahā wa mā arsalnā ilayhim qablaka min nadhīr*

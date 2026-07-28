@@ -68,7 +68,7 @@ And then — silence after the last name.
 
 And then, ayah 14:
 
-> **إِن كُلٌّ إِلَّا كَذَّبَ ٱلرُّسُلَ فَحَقَّ عِقَابِ**
+> [ayah:38:14] إِن كُلٌّ إِلَّا كَذَّبَ ٱلرُّسُلَ فَحَقَّ عِقَابِ
 
 Seven words. A verdict.
 

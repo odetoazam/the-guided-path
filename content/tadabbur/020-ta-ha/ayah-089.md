@@ -24,7 +24,7 @@ related_ayahs: ["20:88", "20:90", "7:148", "21:66", "25:55", "2:186", "40:60", "
 
 # The Signature of False Worship — When Your God Cannot Answer
 
-> أَفَلَا يَرَوْنَ أَلَّا يَرْجِعُ إِلَيْهِمْ قَوْلًا وَلَا يَمْلِكُ لَهُمْ ضَرًّا وَلَا نَفْعًا
+> [ayah:20:89] أَفَلَا يَرَوْنَ أَلَّا يَرْجِعُ إِلَيْهِمْ قَوْلًا وَلَا يَمْلِكُ لَهُمْ ضَرًّا وَلَا نَفْعًا
 >
 > *Afalā yarawna allā yarjiʿu ilayhim qawlan wa-lā yamliku lahum ḍarran wa-lā nafʿā.*
 >

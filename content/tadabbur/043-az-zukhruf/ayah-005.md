@@ -28,7 +28,7 @@ related_ayahs: ["43:4", "2:109", "5:13", "4:31", "39:53", "20:2-3"]
 
 Let me give you the words first. Let them sit in the air before we say anything about them.
 
-> **أَفَنَضْرِبُ عَنكُمُ ٱلذِّكْرَ صَفْحًا أَن كُنتُمْ قَوْمًا مُّسْرِفِينَ**
+> [ayah:43:5] أَفَنَضْرِبُ عَنكُمُ ٱلذِّكْرَ صَفْحًا أَن كُنتُمْ قَوْمًا مُّسْرِفِينَ
 
 *Afa-naḍribu ʿankumu-dh-dhikra ṣafḥan an kuntum qawman musrifīn.*
 

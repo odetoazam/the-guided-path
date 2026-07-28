@@ -31,7 +31,7 @@ related_ayahs: ["19:3", "19:7", "3:38", "3:41", "3:45", "21:90"]
 
 Let me read it to you first in Arabic, then slowly in English, and I want you to notice that this entire ayah is a single uninterrupted motion — one breath from the calling to the naming.
 
-> فَنَادَتْهُ ٱلْمَلَـٰٓئِكَةُ وَهُوَ قَآئِمٌ يُصَلِّى فِى ٱلْمِحْرَابِ أَنَّ ٱللَّهَ يُبَشِّرُكَ بِيَحْيَىٰ مُصَدِّقًۢا بِكَلِمَةٍ مِّنَ ٱللَّهِ وَسَيِّدًا وَحَصُورًا وَنَبِيًّا مِّنَ ٱلصَّـٰلِحِينَ
+> [ayah:3:39] فَنَادَتْهُ ٱلْمَلَـٰٓئِكَةُ وَهُوَ قَآئِمٌ يُصَلِّى فِى ٱلْمِحْرَابِ أَنَّ ٱللَّهَ يُبَشِّرُكَ بِيَحْيَىٰ مُصَدِّقًۢا بِكَلِمَةٍ مِّنَ ٱللَّهِ وَسَيِّدًا وَحَصُورًا وَنَبِيًّا مِّنَ ٱلصَّـٰلِحِينَ
 
 *Fa-nādat-hu al-malā'ikatu wa-huwa qā'imun yuṣallī fī al-miḥrāb, anna Allāha yubashshiruka bi-Yaḥyā, muṣaddiqan bi-kalimatin mina Allāh, wa-sayyidan wa-ḥaṣūran wa-nabiyyan mina al-ṣāliḥīn.*
 

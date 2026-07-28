@@ -28,7 +28,7 @@ related_ayahs: ["97:1", "97:5", "44:3", "44:4", "2:255", "16:2", "13:11"]
 
 Let me give you the words first, and then let me give you the world they fell into.
 
-> **تَنَزَّلُ ٱلْمَلَـٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن كُلِّ أَمْرٍ**
+> [ayah:97:4] تَنَزَّلُ ٱلْمَلَـٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن كُلِّ أَمْرٍ
 
 > *Tanazzalu-l-malā'ikatu wa-r-rūḥu fīhā bi-idhni rabbihim min kulli amr.*
 

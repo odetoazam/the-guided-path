@@ -28,7 +28,7 @@ related_ayahs: ["42:37", "42:40", "42:41", "42:43", "22:39", "2:194", "16:126", 
 
 Let me put the words in front of you first. Listen to them three times, in three languages, before we go anywhere.
 
-> وَٱلَّذِينَ إِذَآ أَصَابَهُمُ ٱلۡبَغۡىُ هُمۡ يَنتَصِرُونَ
+> [ayah:42:39] وَٱلَّذِينَ إِذَآ أَصَابَهُمُ ٱلْبَغْىُ هُمْ يَنتَصِرُونَ
 
 *Walladhīna idhā aṣābahumu l-baghyu hum yantaṣirūn.*
 

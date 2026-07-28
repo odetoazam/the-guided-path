@@ -30,7 +30,7 @@ Let me give you the ayah three ways before we begin.
 
 In Arabic:
 
-> **يَخْرُجُ مِنْهُمَا ٱللُّؤْلُؤُ وَٱلْمَرْجَانُ**
+> [ayah:55:22] يَخْرُجُ مِنْهُمَا ٱللُّؤْلُؤُ وَٱلْمَرْجَانُ
 
 In transliteration:
 

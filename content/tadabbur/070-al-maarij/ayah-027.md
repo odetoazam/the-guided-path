@@ -24,7 +24,7 @@ related_ayahs: ["70:19", "70:20", "70:21", "70:28", "21:49", "23:57", "42:18"]
 
 # The Twilight Heart: When Fear Is Made of Love
 
-> وَٱلَّذِينَ هُم مِّنْ عَذَابِ رَبِّهِم مُّشْفِقُونَ
+> [ayah:70:27] وَٱلَّذِينَ هُم مِّنْ عَذَابِ رَبِّهِم مُّشْفِقُونَ
 >
 > *wa-lladhīna hum min ʿadhābi rabbihim mushfiqūn*
 >

@@ -28,7 +28,7 @@ related_ayahs: ["12:109", "30:9", "35:44", "40:82", "22:46", "3:137", "6:11"]
 
 Let me give you the verse first. Sit with the sound of it before we touch a single word of meaning.
 
-> ۞ أَفَلَمْ يَسِيرُوا۟ فِى ٱلْأَرْضِ فَيَنظُرُوا۟ كَيْفَ كَانَ عَـٰقِبَةُ ٱلَّذِينَ مِن قَبْلِهِمْ ۚ دَمَّرَ ٱللَّهُ عَلَيْهِمْ ۖ وَلِلْكَـٰفِرِينَ أَمْثَـٰلُهَا
+> [ayah:47:10] ۞ أَفَلَمْ يَسِيرُوا۟ فِى ٱلْأَرْضِ فَيَنظُرُوا۟ كَيْفَ كَانَ عَـٰقِبَةُ ٱلَّذِينَ مِن قَبْلِهِمْ ۚ دَمَّرَ ٱللَّهُ عَلَيْهِمْ ۖ وَلِلْكَـٰفِرِينَ أَمْثَـٰلُهَا
 
 *Afalam yasīrū fil-arḍi fayanẓurū kayfa kāna ʿāqibatu-lladhīna min qablihim — dammara-llāhu ʿalayhim — wa lil-kāfirīna amthāluhā.*
 

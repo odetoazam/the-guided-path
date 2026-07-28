@@ -46,7 +46,7 @@ Now stay with me, because the scene just before our verse is one of the most hau
 
 And then — without a breath in between — the camera turns. From that scene of endless hunger, the verse turns to a completely different motion. A gentle one. Something is being *moved* toward someone.
 
-> وَأُزْلِفَتِ ٱلْجَنَّةُ لِلْمُتَّقِينَ غَيْرَ بَعِيدٍ
+> [ayah:50:31] وَأُزْلِفَتِ ٱلْجَنَّةُ لِلْمُتَّقِينَ غَيْرَ بَعِيدٍ
 
 Five words. The shortest possible sentence about the greatest possible reward. And here is the hook I want to leave hanging over us for the next hour:
 

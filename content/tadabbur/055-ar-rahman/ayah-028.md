@@ -33,7 +33,7 @@ Let me give you the ayah three times before we begin.
 
 In Arabic:
 
-> **فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ**
+> [ayah:55:28] فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
 
 In transliteration:
 

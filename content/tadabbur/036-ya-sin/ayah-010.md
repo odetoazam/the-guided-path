@@ -28,7 +28,7 @@ related_ayahs: ["2:6", "36:7", "36:9", "36:11", "63:6", "88:21", "18:6", "26:3",
 
 Let me read it to you first, slowly, the way it would have fallen on the ears of the one it was first spoken to.
 
-> **وَسَوَآءٌ عَلَيْهِمْ ءَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ**
+> [ayah:36:10] وَسَوَآءٌ عَلَيْهِمْ ءَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ
 >
 > *wa-sawāʾun ʿalayhim a-anḏartahum am lam tunḏirhum lā yuʾminūn*
 >

@@ -31,7 +31,7 @@ related_ayahs: ["53:33", "53:34", "53:38", "53:39", "53:40", "6:164", "35:18", "
 
 Let me give you the words first. Five of them. In Arabic, they sound like this:
 
-**أَعِندَهُۥ عِلْمُ ٱلْغَيْبِ فَهُوَ يَرَىٰ**
+[ayah:53:35] أَعِندَهُۥ عِلْمُ ٱلْغَيْبِ فَهُوَ يَرَىٰٓ
 
 *A-ʿindahu ʿilmu-l-ghaybi fa-huwa yarā.*
 

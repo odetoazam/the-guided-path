@@ -28,7 +28,7 @@ related_ayahs: ["4:58", "4:83", "4:65", "3:32", "24:51"]
 
 Let me give you the words first, and then I want to ask you to forget, for a little while, that you already know what they mean.
 
-> **يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ أَطِيعُواْ ٱللَّهَ وَأَطِيعُواْ ٱلرَّسُولَ وَأُوْلِى ٱلْأَمْرِ مِنكُمْ ۖ فَإِن تَنَـٰزَعْتُمْ فِى شَىْءٍ فَرُدُّوهُ إِلَى ٱللَّهِ وَٱلرَّسُولِ إِن كُنتُمْ تُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ ۚ ذَٰلِكَ خَيْرٌ وَأَحْسَنُ تَأْوِيلًا**
+> [ayah:4:59] يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ أَطِيعُوا۟ ٱللَّهَ وَأَطِيعُوا۟ ٱلرَّسُولَ وَأُو۟لِى ٱلْأَمْرِ مِنكُمْ ۖ فَإِن تَنَـٰزَعْتُمْ فِى شَىْءٍ فَرُدُّوهُ إِلَى ٱللَّهِ وَٱلرَّسُولِ إِن كُنتُمْ تُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ ۚ ذَٰلِكَ خَيْرٌ وَأَحْسَنُ تَأْوِيلًا
 
 *Yā ayyuhā alladhīna āmanū aṭīʿū Allāha wa-aṭīʿū ar-rasūla wa-ulī al-amri minkum. Fa-in tanāzaʿtum fī shayʾin fa-ruddūhu ilā Allāhi wa-r-rasūli in kuntum tuʾminūna billāhi wa-l-yawmi al-ākhir. Dhālika khayrun wa-aḥsanu taʾwīlā.*
 

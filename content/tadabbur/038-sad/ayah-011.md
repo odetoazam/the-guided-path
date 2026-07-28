@@ -28,7 +28,7 @@ related_ayahs: ["38:2", "38:12", "38:13", "54:45", "33:22", "40:5"]
 
 Let me give you the ayah first. Six words. Listen to them.
 
-> **جُندٌ مَّا هُنَالِكَ مَهْزُومٌ مِّنَ ٱلْأَحْزَابِ**
+> [ayah:38:11] جُندٌ مَّا هُنَالِكَ مَهْزُومٌ مِّنَ ٱلْأَحْزَابِ
 >
 > *Jundun mā hunālika mahzūmun mina-l-aḥzāb.*
 >

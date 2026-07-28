@@ -28,7 +28,7 @@ related_ayahs: ["31:24", "3:197", "16:55", "39:8", "10:70", "2:126", "47:12"]
 
 Let me begin by placing the words in front of you. Sit with them before we touch them.
 
-> **كُلُوا۟ وَتَمَتَّعُوا۟ قَلِيلًا إِنَّكُم مُّجْرِمُونَ**
+> [ayah:77:46] كُلُوا۟ وَتَمَتَّعُوا۟ قَلِيلًا إِنَّكُم مُّجْرِمُونَ
 >
 > *Kulū wa-tamattaʿū qalīlan innakum mujrimūn*
 >

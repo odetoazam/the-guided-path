@@ -24,7 +24,7 @@ related_ayahs: ["69:24", "77:43", "76:22", "2:25", "47:15"]
 
 # Eat and Drink Without Aftermath: The Pleasure That Casts No Shadow
 
-> كُلُوا۟ وَٱشْرَبُوا۟ هَنِيٓـًٔۢا بِمَا كُنتُمْ تَعْمَلُونَ
+> [ayah:52:19] كُلُوا۟ وَٱشْرَبُوا۟ هَنِيٓـًٔۢا بِمَا كُنتُمْ تَعْمَلُونَ
 >
 > *Kulū washrabū hanī'an bimā kuntum taʿmalūn*
 >

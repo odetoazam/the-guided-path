@@ -24,7 +24,7 @@ related_ayahs: ["2:213", "2:272", "28:56", "14:4", "16:93", "76:3"]
 
 # Clear Signs and the Mystery of Guidance — Surah Al-Hajj 22:16
 
-> وَكَذَٰلِكَ أَنزَلْنَٰهُ ءَايَٰتٍۭ بَيِّنَٰتٍ وَأَنَّ ٱللَّهَ يَهْدِى مَن يُرِيدُ
+> [ayah:22:16] وَكَذَٰلِكَ أَنزَلْنَـٰهُ ءَايَـٰتٍۭ بَيِّنَـٰتٍ وَأَنَّ ٱللَّهَ يَهْدِى مَن يُرِيدُ
 
 > *Wa-kadhālika anzalnāhu āyātin bayyinātin, wa-anna Allāha yahdī man yurīd.*
 

@@ -28,7 +28,7 @@ related_ayahs: ["36:58", "36:60", "36:61", "30:14", "30:43", "10:28", "6:94", "1
 
 Let me begin by placing the words in front of you, and then let us walk slowly toward what is inside them.
 
-> وَٱمْتَٰزُوا۟ ٱلْيَوْمَ أَيُّهَا ٱلْمُجْرِمُونَ
+> [ayah:36:59] وَٱمْتَـٰزُوا۟ ٱلْيَوْمَ أَيُّهَا ٱلْمُجْرِمُونَ
 >
 > *wa-mtāzū l-yawma ayyuhā l-mujrimūn*
 >

@@ -28,7 +28,7 @@ related_ayahs: ["50:35", "50:16", "39:73", "13:24", "36:58", "10:25", "16:32"]
 
 Let me give you the words first, and then let me give you the world they were spoken into.
 
-> **ٱدْخُلُوهَا بِسَلَٰمٍۖ ذَٰلِكَ يَوْمُ ٱلْخُلُودِ**
+> [ayah:50:34] ٱدْخُلُوهَا بِسَلَـٰمٍ ۖ ذَٰلِكَ يَوْمُ ٱلْخُلُودِ
 >
 > *Udkhulūhā bi-salām. Dhālika yawmu-l-khulūd.*
 >

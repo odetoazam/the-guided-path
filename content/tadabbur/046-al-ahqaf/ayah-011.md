@@ -28,7 +28,7 @@ related_ayahs: ["6:53", "11:27", "26:111", "24:11", "68:15", "83:13"]
 
 Let me give you the words first, and then let me give you the room they were spoken in.
 
-> وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لِلَّذِينَ ءَامَنُوا۟ لَوْ كَانَ خَيْرًۭا مَّا سَبَقُونَآ إِلَيْهِ ۚ وَإِذْ لَمْ يَهْتَدُوا۟ بِهِۦ فَسَيَقُولُونَ هَـٰذَآ إِفْكٌۭ قَدِيمٌۭ
+> [ayah:46:11] وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لِلَّذِينَ ءَامَنُوا۟ لَوْ كَانَ خَيْرًا مَّا سَبَقُونَآ إِلَيْهِ ۚ وَإِذْ لَمْ يَهْتَدُوا۟ بِهِۦ فَسَيَقُولُونَ هَـٰذَآ إِفْكٌ قَدِيمٌ
 
 *Wa qāla alladhīna kafarū lilladhīna āmanū law kāna khayran mā sabaqūnā ilayhi. Wa idh lam yahtadū bihi fa-sayaqūlūna hādhā ifkun qadīm.*
 

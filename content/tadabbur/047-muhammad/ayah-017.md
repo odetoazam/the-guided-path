@@ -32,7 +32,7 @@ related_ayahs: ["47:16", "19:76", "18:13", "2:2", "65:2", "29:69", "92:7"]
 
 Let me give you the ayah first. Hold it lightly for now — we are going to spend the better part of an hour learning to see what is inside it.
 
-> **وَٱلَّذِينَ ٱهْتَدَوْا۟ زَادَهُمْ هُدًۭى وَءَاتَىٰهُمْ تَقْوَىٰهُمْ**
+> [ayah:47:17] وَٱلَّذِينَ ٱهْتَدَوْا۟ زَادَهُمْ هُدًى وَءَاتَىٰهُمْ تَقْوَىٰهُمْ
 >
 > *Walladhīna-htadaw zādahum hudan wa-ātāhum taqwāhum*
 >

@@ -25,7 +25,7 @@ related_ayahs: ["3:37", "19:2", "19:4", "19:5", "19:6", "21:89", "14:39"]
 # Right There He Asked
 ### A reflection on Surah Aal-Imran, verse 38
 
-> هُنَالِكَ دَعَا زَكَرِيَّا رَبَّهُۥ ۖ قَالَ رَبِّ هَبْ لِى مِن لَّدُنكَ ذُرِّيَّةً طَيِّبَةً ۖ إِنَّكَ سَمِيعُ ٱلدُّعَآءِ
+> [ayah:3:38] هُنَالِكَ دَعَا زَكَرِيَّا رَبَّهُۥ ۖ قَالَ رَبِّ هَبْ لِى مِن لَّدُنكَ ذُرِّيَّةً طَيِّبَةً ۖ إِنَّكَ سَمِيعُ ٱلدُّعَآءِ
 >
 > *Hunālika daʿā Zakariyyā rabbah. Qāla rabbi hab lī min ladunka dhurriyyatan ṭayyibah. Innaka samīʿu-d-duʿāʾ.*
 >

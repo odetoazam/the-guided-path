@@ -24,7 +24,7 @@ related_ayahs: ["52:11", "52:12", "52:14", "107:1", "107:2", "89:17", "4:10"]
 
 # The Thrust Returns: When the Hand That Shoved Is Shoved
 
-> **يَوْمَ يُدَعُّونَ إِلَىٰ نَارِ جَهَنَّمَ دَعًّا**
+> [ayah:52:13] يَوْمَ يُدَعُّونَ إِلَىٰ نَارِ جَهَنَّمَ دَعًّا
 >
 > *Yawma yudaʿʿūna ilā nāri jahannama daʿʿā*
 >

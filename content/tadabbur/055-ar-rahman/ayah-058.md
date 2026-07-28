@@ -28,7 +28,7 @@ tags: [ar-rahman, jannah, tashbih, longing, hiddenness, divine-favors, simile, a
 
 ## The Ayah
 
-> <!-- ayah:55:58 -->     كَأَنَّهُنَّ ٱلْيَاقُوتُ وَٱلْمَرْجَانُ
+> [ayah:55:58] كَأَنَّهُنَّ ٱلْيَاقُوتُ وَٱلْمَرْجَانُ
 
 *Ka-annahunna al-yāqūtu wa al-marjān.*
 

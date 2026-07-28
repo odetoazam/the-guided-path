@@ -28,7 +28,7 @@ related_ayahs: ["3:72", "3:74", "2:109", "4:54", "57:29", "2:105"]
 
 Let me read it first in Arabic, then slowly in English, and then let's rebuild the room in which it was spoken.
 
-> وَلَا تُؤْمِنُوٓا۟ إِلَّا لِمَن تَبِعَ دِينَكُمْ قُلْ إِنَّ ٱلْهُدَىٰ هُدَى ٱللَّهِ أَن يُؤْتَىٰٓ أَحَدٌ مِّثْلَ مَآ أُوتِيتُمْ أَوْ يُحَآجُّوكُمْ عِندَ رَبِّكُمْ ۗ قُلْ إِنَّ ٱلْفَضْلَ بِيَدِ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ ۗ وَٱللَّهُ وَٰسِعٌ عَلِيمٌ
+> [ayah:3:73] وَلَا تُؤْمِنُوٓا۟ إِلَّا لِمَن تَبِعَ دِينَكُمْ قُلْ إِنَّ ٱلْهُدَىٰ هُدَى ٱللَّهِ أَن يُؤْتَىٰٓ أَحَدٌ مِّثْلَ مَآ أُوتِيتُمْ أَوْ يُحَآجُّوكُمْ عِندَ رَبِّكُمْ ۗ قُلْ إِنَّ ٱلْفَضْلَ بِيَدِ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ ۗ وَٱللَّهُ وَٰسِعٌ عَلِيمٌ
 
 *"And do not trust anyone except one who follows your religion." Say: "Indeed, the true guidance is the guidance of Allah" — lest anyone be given the like of what you were given, or lest they argue against you before your Lord. Say: "Indeed, all bounty is in the Hand of Allah; He gives it to whom He wills." And Allah is All-Encompassing, All-Knowing.*
 

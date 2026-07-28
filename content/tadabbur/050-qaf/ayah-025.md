@@ -31,7 +31,7 @@ related_ayahs: ["50:24", "50:26", "68:12", "2:2", "107:7"]
 
 Let me first place the words in front of us.
 
-> **مَّنَّاعٍ لِّلْخَيْرِ مُعْتَدٍ مُّرِيبٍ**
+> [ayah:50:25] مَّنَّاعٍ لِّلْخَيْرِ مُعْتَدٍ مُّرِيبٍ
 >
 > *mannāʿin lil-khayri muʿtadin murīb*
 >

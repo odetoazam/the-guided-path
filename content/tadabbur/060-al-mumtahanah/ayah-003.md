@@ -46,7 +46,7 @@ He did not do it for money. He did not do it for power. He did it for the most s
 
 And then the surah opens. And after the opening confrontation about loyalty, this ayah arrives like a verdict written specifically over that excuse:
 
-> **لَن تَنفَعَكُمْ أَرْحَامُكُمْ وَلَآ أَوْلَـٰدُكُمْ ۚ يَوْمَ ٱلْقِيَـٰمَةِ يَفْصِلُ بَيْنَكُمْ ۚ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ**
+> [ayah:60:3] لَن تَنفَعَكُمْ أَرْحَامُكُمْ وَلَآ أَوْلَـٰدُكُمْ ۚ يَوْمَ ٱلْقِيَـٰمَةِ يَفْصِلُ بَيْنَكُمْ ۚ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ
 
 > *Lan tanfaʿakum arḥāmukum wa lā awlādukum. Yawma al-qiyāmati yafṣilu baynakum. Wallāhu bimā taʿmalūna baṣīr.*
 

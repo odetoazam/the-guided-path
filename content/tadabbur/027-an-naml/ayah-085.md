@@ -28,7 +28,7 @@ related_ayahs: ["27:82", "27:84", "36:65", "77:35", "78:38", "27:18", "27:22"]
 
 Listen to these eight words. Eight. That's all Allah uses.
 
-> وَوَقَعَ ٱلْقَوْلُ عَلَيْهِم بِمَا ظَلَمُوا۟ فَهُمْ لَا يَنطِقُونَ
+> [ayah:27:85] وَوَقَعَ ٱلْقَوْلُ عَلَيْهِم بِمَا ظَلَمُوا۟ فَهُمْ لَا يَنطِقُونَ
 >
 > *Wa waqaʿa al-qawlu ʿalayhim bimā ẓalamū fa-hum lā yanṭiqūn.*
 >

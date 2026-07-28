@@ -24,7 +24,7 @@ related_ayahs: ["47:1", "47:4", "47:6", "3:169", "29:69", "6:127", "89:27"]
 
 # The Guidance That Begins After the End
 
-> سَيَهْدِيهِمْ وَيُصْلِحُ بَالَهُمْ
+> [ayah:47:5] سَيَهْدِيهِمْ وَيُصْلِحُ بَالَهُمْ
 >
 > *Sa-yahdīhim wa-yuṣliḥu bālahum*
 >

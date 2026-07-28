@@ -31,7 +31,7 @@ related_ayahs: ["113:1", "113:3", "113:4", "113:5", "32:7", "37:96", "114:1", "2
 
 Let us begin by simply hearing it.
 
-> **مِن شَرِّ مَا خَلَقَ**
+> [ayah:113:2] مِن شَرِّ مَا خَلَقَ
 >
 > *Min sharri mā khalaq.*
 >

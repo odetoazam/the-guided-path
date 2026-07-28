@@ -32,7 +32,7 @@ related_ayahs: ["45:34", "2:231", "18:106", "6:70", "57:20", "35:37"]
 
 Let me begin by reading you the verse — first in Arabic, then in sound, then in a meaning you can hold.
 
-> ذَٰلِكُم بِأَنَّكُمُ ٱتَّخَذْتُمْ ءَايَٰتِ ٱللَّهِ هُزُوًا وَغَرَّتْكُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا ۚ فَٱلْيَوْمَ لَا يُخْرَجُونَ مِنْهَا وَلَا هُمْ يُسْتَعْتَبُونَ
+> [ayah:45:35] ذَٰلِكُم بِأَنَّكُمُ ٱتَّخَذْتُمْ ءَايَـٰتِ ٱللَّهِ هُزُوًا وَغَرَّتْكُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا ۚ فَٱلْيَوْمَ لَا يُخْرَجُونَ مِنْهَا وَلَا هُمْ يُسْتَعْتَبُونَ
 
 *Dhālikum bi-annakum ittakhadhtum āyāti-llāhi huzuwan, wa gharratkumu-l-ḥayātu-d-dunyā. Fal-yawma lā yukhrajūna minhā wa lā hum yustaʿtabūn.*
 

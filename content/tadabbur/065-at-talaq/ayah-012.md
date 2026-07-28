@@ -32,7 +32,7 @@ related_ayahs: ["65:1", "65:2", "65:3", "65:7", "2:255", "41:12", "32:5", "57:4"
 
 Let me read you the verse first. Sit with the sound of it before we touch a single word.
 
-> **ٱللَّهُ ٱلَّذِى خَلَقَ سَبْعَ سَمَـٰوَٰتٍ وَمِنَ ٱلْأَرْضِ مِثْلَهُنَّ ۖ يَتَنَزَّلُ ٱلْأَمْرُ بَيْنَهُنَّ لِتَعْلَمُوٓاْ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ وَأَنَّ ٱللَّهَ قَدْ أَحَاطَ بِكُلِّ شَىْءٍ عِلْمًۢا**
+> [ayah:65:12] ٱللَّهُ ٱلَّذِى خَلَقَ سَبْعَ سَمَـٰوَٰتٍ وَمِنَ ٱلْأَرْضِ مِثْلَهُنَّ يَتَنَزَّلُ ٱلْأَمْرُ بَيْنَهُنَّ لِتَعْلَمُوٓا۟ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ وَأَنَّ ٱللَّهَ قَدْ أَحَاطَ بِكُلِّ شَىْءٍ عِلْمًۢا
 
 *Allāhu lladhī khalaqa sabʿa samāwātin wa mina l-arḍi mithlahunn. Yatanazzalu l-amru baynahunn, li-taʿlamū anna llāha ʿalā kulli shayʾin qadīr, wa anna llāha qad aḥāṭa bi-kulli shayʾin ʿilmā.*
 

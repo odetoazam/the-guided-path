@@ -28,7 +28,7 @@ related_ayahs: ["53:3", "53:19", "53:20", "53:23", "53:28", "2:31", "43:19", "37
 
 Let me give you the ayah first. Sit with the sound of it before we touch the meaning.
 
-> إِنَّ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْءَاخِرَةِ لَيُسَمُّونَ ٱلْمَلَـٰٓئِكَةَ تَسْمِيَةَ ٱلْأُنثَىٰ
+> [ayah:53:27] إِنَّ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْـَٔاخِرَةِ لَيُسَمُّونَ ٱلْمَلَـٰٓئِكَةَ تَسْمِيَةَ ٱلْأُنثَىٰ
 
 *Inna alladhīna lā yuʾminūna bil-ākhirati la-yusammūna al-malāʾikata tasmiyata al-unthā.*
 

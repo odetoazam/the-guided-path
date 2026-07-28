@@ -28,7 +28,7 @@ related_ayahs: ["48:1", "48:2", "3:160", "47:7", "61:13", "9:40"]
 
 ## Introduction: The World the Companions Woke Up Into
 
-*وَيَنصُرَكَ ٱللَّهُ نَصْرًا عَزِيزًا*
+[ayah:48:3] وَيَنصُرَكَ ٱللَّهُ نَصْرًا عَزِيزًا
 
 *Wa yanṣuraka llāhu naṣran ʿazīzā*
 

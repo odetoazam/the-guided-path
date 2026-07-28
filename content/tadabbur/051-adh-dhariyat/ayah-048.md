@@ -31,7 +31,7 @@ related_ayahs: ["51:47", "2:22", "20:53", "78:6", "43:10", "19:29"]
 
 Let me give you the words first. Four of them. That's all this ayah is.
 
-> **وَٱلْأَرْضَ فَرَشْنَـٰهَا فَنِعْمَ ٱلْمَـٰهِدُونَ**
+> [ayah:51:48] وَٱلْأَرْضَ فَرَشْنَـٰهَا فَنِعْمَ ٱلْمَـٰهِدُونَ
 >
 > *wa-l-arḍa farashnāhā fa-niʿma-l-māhidūn*
 >

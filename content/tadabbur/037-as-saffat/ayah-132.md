@@ -53,7 +53,7 @@ related_ayahs:
 
 ## INTRODUCTION
 
-إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُؤْمِنِينَ
+[ayah:37:132] إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُؤْمِنِينَ
 
 *Innahu min ʿibādinā l-muʾminīn*
 

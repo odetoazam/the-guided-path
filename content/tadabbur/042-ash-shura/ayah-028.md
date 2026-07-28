@@ -38,7 +38,7 @@ That feeling has a name. And the Quran does not avoid it. It names it directly. 
 
 Here is the ayah:
 
-> وَهُوَ ٱلَّذِى يُنَزِّلُ ٱلْغَيْثَ مِنۢ بَعْدِ مَا قَنَطُواْ وَيَنشُرُ رَحْمَتَهُۥ ۚ وَهُوَ ٱلْوَلِىُّ ٱلْحَمِيدُ
+> [ayah:42:28] وَهُوَ ٱلَّذِى يُنَزِّلُ ٱلْغَيْثَ مِنۢ بَعْدِ مَا قَنَطُوا۟ وَيَنشُرُ رَحْمَتَهُۥ ۚ وَهُوَ ٱلْوَلِىُّ ٱلْحَمِيدُ
 
 *Wa huwa alladhī yunazzilu al-ghaytha min baʿdi mā qanaṭū wa yanshuru raḥmatahu, wa huwa al-waliyyu al-ḥamīd.*
 

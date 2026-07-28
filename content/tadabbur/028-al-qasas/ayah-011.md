@@ -76,7 +76,7 @@ Not because they aren't looking.
 
 The ayah is Surah Al-Qasas, ayah 11:
 
-**وَقَالَتْ لِأُخْتِهِ قُصِّيهِ ۖ فَبَصُرَتْ بِهِ عَن جُنُبٍ وَهُمْ لَا يَشْعُرُونَ**
+[ayah:28:11] وَقَالَتْ لِأُخْتِهِۦ قُصِّيهِ ۖ فَبَصُرَتْ بِهِۦ عَن جُنُبٍ وَهُمْ لَا يَشْعُرُونَ
 
 *Wa-qālat li-ukhtihi quṣṣīhi — fa-baṣurat bihi ʿan junubin — wa-hum lā yashʿurūn.*
 

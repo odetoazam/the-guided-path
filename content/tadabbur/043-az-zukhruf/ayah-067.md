@@ -40,7 +40,7 @@ And I want to tell you that the Qur'an makes a claim about them — about these 
 
 Here is the ayah:
 
-> **ٱلْأَخِلَّآءُ يَوْمَئِذٍۭ بَعْضُهُمْ لِبَعْضٍ عَدُوٌّ إِلَّا ٱلْمُتَّقِينَ**
+> [ayah:43:67] ٱلْأَخِلَّآءُ يَوْمَئِذٍۭ بَعْضُهُمْ لِبَعْضٍ عَدُوٌّ إِلَّا ٱلْمُتَّقِينَ
 >
 > *al-akhillāʾu yawmaʾidhin baʿḍuhum li-baʿḍin ʿaduwwun illā l-muttaqīn*
 >

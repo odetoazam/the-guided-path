@@ -31,7 +31,7 @@ related_ayahs: ["17:18", "17:19", "3:145", "11:15", "11:16", "28:77", "2:201", "
 
 Listen to it first in the Arabic. Let the sound carry before the meaning settles.
 
-> **مَن كَانَ يُرِيدُ حَرْثَ ٱلْءَاخِرَةِ نَزِدْ لَهُۥ فِى حَرْثِهِۦ ۖ وَمَن كَانَ يُرِيدُ حَرْثَ ٱلدُّنْيَا نُؤْتِهِۦ مِنْهَا وَمَا لَهُۥ فِى ٱلْءَاخِرَةِ مِن نَّصِيبٍ**
+> [ayah:42:20] مَن كَانَ يُرِيدُ حَرْثَ ٱلْـَٔاخِرَةِ نَزِدْ لَهُۥ فِى حَرْثِهِۦ ۖ وَمَن كَانَ يُرِيدُ حَرْثَ ٱلدُّنْيَا نُؤْتِهِۦ مِنْهَا وَمَا لَهُۥ فِى ٱلْـَٔاخِرَةِ مِن نَّصِيبٍ
 
 *Man kāna yurīdu ḥartha l-ākhirati nazid lahu fī ḥarthih — wa man kāna yurīdu ḥartha d-dunyā nu'tihi minhā, wa mā lahu fī l-ākhirati min naṣīb.*
 

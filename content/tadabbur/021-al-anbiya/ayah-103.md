@@ -24,7 +24,7 @@ related_ayahs: ["21:101", "21:102", "27:89", "41:30", "13:23", "39:73", "50:34"]
 
 # When Terror Cannot Reach the Heart: The Believer's Welcome on the Greatest Day
 
-> لَا يَحْزُنُهُمُ ٱلْفَزَعُ ٱلْأَكْبَرُ وَتَتَلَقَّىٰهُمُ ٱلْمَلَـٰٓئِكَةُ هَـٰذَا يَوْمُكُمُ ٱلَّذِى كُنتُمْ تُوعَدُونَ
+> [ayah:21:103] لَا يَحْزُنُهُمُ ٱلْفَزَعُ ٱلْأَكْبَرُ وَتَتَلَقَّىٰهُمُ ٱلْمَلَـٰٓئِكَةُ هَـٰذَا يَوْمُكُمُ ٱلَّذِى كُنتُمْ تُوعَدُونَ
 >
 > *Lā yaḥzunuhumu al-fazaʿu al-akbar wa-tatalaqqāhumu al-malā'ikah, hādhā yawmukumu alladhī kuntum tūʿadūn*
 >

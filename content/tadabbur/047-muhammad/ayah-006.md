@@ -25,7 +25,7 @@ related_ayahs: ["47:1", "47:4", "47:5", "3:169", "9:111", "18:107", "41:31", "55
 # The Home You Already Know
 ### A Reflection on Surah Muhammad, Ayah 6
 
-> وَيُدْخِلُهُمُ ٱلْجَنَّةَ عَرَّفَهَا لَهُمْ
+> [ayah:47:6] وَيُدْخِلُهُمُ ٱلْجَنَّةَ عَرَّفَهَا لَهُمْ
 >
 > *Wa yudkhiluhumu-l-jannata ʿarrafahā lahum*
 >

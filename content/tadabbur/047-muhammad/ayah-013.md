@@ -38,7 +38,7 @@ related_ayahs: ["47:11", "8:30", "9:40", "22:45", "47:10", "40:21", "30:9"]
 
 Let me give you the ayah first, and then let me take it away again — because before this verse can land, we need to build the ground it stands on.
 
-> وَكَأَيِّن مِّن قَرْيَةٍ هِيَ أَشَدُّ قُوَّةً مِّن قَرْيَتِكَ ٱلَّتِىٓ أَخْرَجَتْكَ أَهْلَكْنَٰهُمْ فَلَا نَاصِرَ لَهُمْ
+> [ayah:47:13] وَكَأَيِّن مِّن قَرْيَةٍ هِىَ أَشَدُّ قُوَّةً مِّن قَرْيَتِكَ ٱلَّتِىٓ أَخْرَجَتْكَ أَهْلَكْنَـٰهُمْ فَلَا نَاصِرَ لَهُمْ
 
 *Wa-ka'ayyin min qaryatin hiya ashaddu quwwatan min qaryatika 'llatī akhrajatka, ahlaknāhum, falā nāṣira lahum.*
 

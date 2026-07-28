@@ -24,7 +24,7 @@ related_ayahs: ["14:32", "16:14", "22:65", "31:31", "45:13", "45:23", "45:28", "
 
 # The Sea That Was Made to Serve — and the One Response Left Unguaranteed
 
-> ۞ ٱللَّهُ ٱلَّذِى سَخَّرَ لَكُمُ ٱلْبَحْرَ لِتَجْرِىَ ٱلْفُلْكُ فِيهِ بِأَمْرِهِۦ وَلِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ
+> [ayah:45:12] ۞ ٱللَّهُ ٱلَّذِى سَخَّرَ لَكُمُ ٱلْبَحْرَ لِتَجْرِىَ ٱلْفُلْكُ فِيهِ بِأَمْرِهِۦ وَلِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ
 
 *Allāhu lladhī sakhkhara lakumu l-baḥra li-tajriya l-fulku fīhi bi-amrihi wa-li-tabtaghū min faḍlihi wa-laʿallakum tashkurūn.*
 

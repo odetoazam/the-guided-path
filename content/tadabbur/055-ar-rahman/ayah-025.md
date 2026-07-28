@@ -52,7 +52,7 @@ By the time we arrive at our verse, verse 25, He has gone further. He has walked
 
 And then — verse 25. The turn. The question.
 
-**فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ**
+[ayah:55:25] فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
 
 Here is the hook, and I want you to feel the strangeness of it before we explain anything. This is the most repeated verse in the entire Quran — it returns thirty-one times in this one surah. Now, the Quran is the speech of the One whose eloquence silenced the masters of Arabic poetry, the One who challenged an entire civilization that lived and breathed language to produce a single chapter like it, and they could not. **That speech does not repeat itself by accident. It does not run out of things to say.** So when the most eloquent speech ever uttered chooses to say the same thing thirty-one times — that repetition is not a limitation. It is the message. It is *doing* something to you that a single statement could never do.
 

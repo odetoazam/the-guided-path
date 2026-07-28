@@ -28,7 +28,7 @@ related_ayahs: ["43:77", "2:42", "8:8", "10:32", "41:53", "47:9"]
 
 Let me read it to you first, slowly, three times over — once in Arabic, once as sound, once as meaning.
 
-> **لَقَدْ جِئْنَٰكُم بِٱلْحَقِّ وَلَٰكِنَّ أَكْثَرَكُمْ لِلْحَقِّ كَٰرِهُونَ**
+> [ayah:43:78] لَقَدْ جِئْنَـٰكُم بِٱلْحَقِّ وَلَـٰكِنَّ أَكْثَرَكُمْ لِلْحَقِّ كَـٰرِهُونَ
 
 *Laqad ji'nākum bil-ḥaqqi wa lākinna aktharakum lil-ḥaqqi kārihūn.*
 

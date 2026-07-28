@@ -24,7 +24,7 @@ related_ayahs: ["113:1", "113:2", "113:5", "114:4", "2:102", "20:69"]
 
 # The Blowers Upon Knots: When Breath Binds the Heart
 
-> وَمِن شَرِّ ٱلنَّفَّـٰثَـٰتِ فِى ٱلْعُقَدِ
+> [ayah:113:4] وَمِن شَرِّ ٱلنَّفَّـٰثَـٰتِ فِى ٱلْعُقَدِ
 >
 > *wa-min sharri n-naffāthāti fī l-ʿuqad*
 >

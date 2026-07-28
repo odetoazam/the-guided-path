@@ -52,7 +52,7 @@ related_ayahs:
 ## Introduction
 
 **Arabic:**
-بَلَىٰ مَنْ أَوْفَىٰ بِعَهْدِهِۦ وَٱتَّقَىٰ فَإِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَّقِينَ
+[ayah:3:76] بَلَىٰ مَنْ أَوْفَىٰ بِعَهْدِهِۦ وَٱتَّقَىٰ فَإِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَّقِينَ
 
 **Transliteration:** *Balā man awfā biʿahdihī wattaqā fa-inna Allāha yuḥibbu al-muttaqīn.*
 

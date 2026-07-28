@@ -28,7 +28,7 @@ related_ayahs: ["76:3", "76:5", "69:30", "69:32", "13:5", "36:8", "40:71"]
 
 Let me give you the ayah first, and then let me ask you to forget — just for a few minutes — everything you think you already know about it.
 
-> **إِنَّآ أَعْتَدْنَا لِلْكَـٰفِرِينَ سَلَـٰسِلَا۟ وَأَغْلَـٰلًا وَسَعِيرًا**
+> [ayah:76:4] إِنَّآ أَعْتَدْنَا لِلْكَـٰفِرِينَ سَلَـٰسِلَا۟ وَأَغْلَـٰلًا وَسَعِيرًا
 >
 > *Innā aʿtadnā lil-kāfirīna salāsila wa-aghlālan wa-saʿīrā*
 >

@@ -24,7 +24,7 @@ related_ayahs: ["21:105", "21:107", "21:108", "2:2", "7:179", "41:44", "6:104", 
 
 # Balāgh: The Message That Only Arrives in a Worshipping Heart
 
-> إِنَّ فِى هَـٰذَا لَبَلَـٰغًۭا لِّقَوْمٍ عَـٰبِدِينَ
+> [ayah:21:106] إِنَّ فِى هَـٰذَا لَبَلَـٰغًا لِّقَوْمٍ عَـٰبِدِينَ
 >
 > *Inna fī hādhā la-balāghan li-qawmin ʿābidīn*
 >

@@ -27,7 +27,7 @@ related_ayahs: ["3:185", "21:35", "29:41", "29:64", "39:42", "67:2"]
 ## Surah Al-Ankabut, Ayah 57
 
 **Arabic:**
-> كُلُّ نَفْسٍ ذَائِقَةُ ٱلْمَوْتِ ۖ ثُمَّ إِلَيْنَا تُرْجَعُونَ
+> [ayah:29:57] كُلُّ نَفْسٍ ذَآئِقَةُ ٱلْمَوْتِ ۖ ثُمَّ إِلَيْنَا تُرْجَعُونَ
 
 **Transliteration:**
 > Kullu nafsin dhā'iqatu-l-mawt; thumma ilaynā turjaʿūn.

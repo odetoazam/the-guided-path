@@ -28,7 +28,7 @@ related_ayahs: ["2:117", "19:20", "19:21", "36:82", "3:59", "16:40", "40:68"]
 
 Let me give you the words first, and then let me take you to the room where they were spoken.
 
-> قَالَتْ رَبِّ أَنَّىٰ يَكُونُ لِى وَلَدٌ وَلَمْ يَمْسَسْنِى بَشَرٌ ۖ قَالَ كَذَٰلِكِ ٱللَّهُ يَخْلُقُ مَا يَشَآءُ ۚ إِذَا قَضَىٰٓ أَمْرًا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ
+> [ayah:3:47] قَالَتْ رَبِّ أَنَّىٰ يَكُونُ لِى وَلَدٌ وَلَمْ يَمْسَسْنِى بَشَرٌ ۖ قَالَ كَذَٰلِكِ ٱللَّهُ يَخْلُقُ مَا يَشَآءُ ۚ إِذَا قَضَىٰٓ أَمْرًا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ
 
 *Qālat rabbi annā yakūnu lī waladun wa lam yamsasnī bashar. Qāla kadhāliki-llāhu yakhluqu mā yashāʾ. Idhā qaḍā amran fa-innamā yaqūlu lahu kun fa-yakūn.*
 

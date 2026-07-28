@@ -28,7 +28,7 @@ related_ayahs: ["4:139", "63:8", "10:65", "14:24-26", "10:21", "27:50", "16:96"]
 
 Let me bring you the ayah first. Listen to it twice — once in Arabic, then in a translation that tries to carry its weight into English.
 
-> مَن كَانَ يُرِيدُ ٱلْعِزَّةَ فَلِلَّهِ ٱلْعِزَّةُ جَمِيعًاۚ إِلَيْهِ يَصْعَدُ ٱلْكَلِمُ ٱلطَّيِّبُ وَٱلْعَمَلُ ٱلصَّـٰلِحُ يَرْفَعُهُۥۚ وَٱلَّذِينَ يَمْكُرُونَ ٱلسَّيِّـَٔاتِ لَهُمْ عَذَابٌ شَدِيدٌۖ وَمَكْرُ أُوْلَـٰٓئِكَ هُوَ يَبُورُ
+> [ayah:35:10] مَن كَانَ يُرِيدُ ٱلْعِزَّةَ فَلِلَّهِ ٱلْعِزَّةُ جَمِيعًا ۚ إِلَيْهِ يَصْعَدُ ٱلْكَلِمُ ٱلطَّيِّبُ وَٱلْعَمَلُ ٱلصَّـٰلِحُ يَرْفَعُهُۥ ۚ وَٱلَّذِينَ يَمْكُرُونَ ٱلسَّيِّـَٔاتِ لَهُمْ عَذَابٌ شَدِيدٌ ۖ وَمَكْرُ أُو۟لَـٰٓئِكَ هُوَ يَبُورُ
 
 *Man kāna yurīdu-l-ʿizzata fa-lillāhi-l-ʿizzatu jamīʿā. Ilayhi yaṣʿadu-l-kalimu-ṭ-ṭayyibu wa-l-ʿamalu-ṣ-ṣāliḥu yarfaʿuh. Wa-lladhīna yamkurūna-s-sayyiʾāti lahum ʿadhābun shadīd, wa-makru ulāʾika huwa yabūr.*
 

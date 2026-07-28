@@ -28,7 +28,7 @@ related_ayahs: ["67:1", "25:1", "7:54", "31:34", "41:47", "2:156", "43:86", "23:
 
 Let me give you the ayah first. Listen to it before we touch a single word of it.
 
-> **وَتَبَارَكَ ٱلَّذِى لَهُۥ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا وَعِندَهُۥ عِلْمُ ٱلسَّاعَةِ وَإِلَيْهِ تُرْجَعُونَ**
+> [ayah:43:85] وَتَبَارَكَ ٱلَّذِى لَهُۥ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا وَعِندَهُۥ عِلْمُ ٱلسَّاعَةِ وَإِلَيْهِ تُرْجَعُونَ
 
 *Wa-tabāraka alladhī lahu mulku as-samāwāti wal-arḍi wa mā baynahumā, wa ʿindahu ʿilmu as-sāʿah, wa ilayhi turjaʿūn.*
 

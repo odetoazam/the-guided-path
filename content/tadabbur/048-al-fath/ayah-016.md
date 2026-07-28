@@ -28,7 +28,7 @@ related_ayahs: ["48:11", "48:15", "48:17", "9:81", "9:38", "9:118"]
 
 Let me begin by placing the verse in front of you, and then I want us to do something with it that we don't usually do. I don't want us to read it as a verse about a war. I want us to read it as a verse about a label — and about what Allah does with people who have already failed.
 
-> قُل لِّلْمُخَلَّفِينَ مِنَ ٱلْأَعْرَابِ سَتُدْعَوْنَ إِلَىٰ قَوْمٍ أُو۟لِى بَأْسٍ شَدِيدٍ تُقَـٰتِلُونَهُمْ أَوْ يُسْلِمُونَ ۖ فَإِن تُطِيعُوا۟ يُؤْتِكُمُ ٱللَّهُ أَجْرًا حَسَنًا ۖ وَإِن تَتَوَلَّوْا۟ كَمَا تَوَلَّيْتُم مِّن قَبْلُ يُعَذِّبْكُمْ عَذَابًا أَلِيمًا
+> [ayah:48:16] قُل لِّلْمُخَلَّفِينَ مِنَ ٱلْأَعْرَابِ سَتُدْعَوْنَ إِلَىٰ قَوْمٍ أُو۟لِى بَأْسٍ شَدِيدٍ تُقَـٰتِلُونَهُمْ أَوْ يُسْلِمُونَ ۖ فَإِن تُطِيعُوا۟ يُؤْتِكُمُ ٱللَّهُ أَجْرًا حَسَنًا ۖ وَإِن تَتَوَلَّوْا۟ كَمَا تَوَلَّيْتُم مِّن قَبْلُ يُعَذِّبْكُمْ عَذَابًا أَلِيمًا
 
 *Qul lil-mukhallafīna mina-l-aʿrābi satudʿawna ilā qawmin ulī baʾsin shadīdin tuqātilūnahum aw yuslimūn, fa-in tuṭīʿū yuʾtikumu-llāhu ajran ḥasanā, wa-in tatawallaw kamā tawallaytum min qablu yuʿadhdhibkum ʿadhāban alīmā.*
 

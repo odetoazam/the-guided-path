@@ -24,7 +24,7 @@ related_ayahs: ["51:50", "51:51", "36:36", "53:45", "42:11", "112:1"]
 
 # Everything Comes in Twos: The Pair That Points to the One
 
-> وَمِن كُلِّ شَىْءٍ خَلَقْنَا زَوْجَيْنِ لَعَلَّكُمْ تَذَكَّرُونَ
+> [ayah:51:49] وَمِن كُلِّ شَىْءٍ خَلَقْنَا زَوْجَيْنِ لَعَلَّكُمْ تَذَكَّرُونَ
 >
 > *Wa min kulli shay'in khalaqnā zawjayn, laʿallakum tadhakkarūn.*
 >

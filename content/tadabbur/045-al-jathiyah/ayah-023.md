@@ -28,7 +28,7 @@ related_ayahs: ["45:24", "25:43", "28:50", "79:40", "2:7", "47:16", "6:25"]
 
 Let me give you the ayah first. Sit with the sound of it before we touch a single word.
 
-> **أَفَرَءَيْتَ مَنِ ٱتَّخَذَ إِلَٰهَهُۥ هَوَىٰهُ وَأَضَلَّهُ ٱللَّهُ عَلَىٰ عِلْمٍ وَخَتَمَ عَلَىٰ سَمْعِهِۦ وَقَلْبِهِۦ وَجَعَلَ عَلَىٰ بَصَرِهِۦ غِشَٰوَةً فَمَن يَهْدِيهِ مِنۢ بَعْدِ ٱللَّهِ ۚ أَفَلَا تَذَكَّرُونَ**
+> [ayah:45:23] أَفَرَءَيْتَ مَنِ ٱتَّخَذَ إِلَـٰهَهُۥ هَوَىٰهُ وَأَضَلَّهُ ٱللَّهُ عَلَىٰ عِلْمٍ وَخَتَمَ عَلَىٰ سَمْعِهِۦ وَقَلْبِهِۦ وَجَعَلَ عَلَىٰ بَصَرِهِۦ غِشَـٰوَةً فَمَن يَهْدِيهِ مِنۢ بَعْدِ ٱللَّهِ ۚ أَفَلَا تَذَكَّرُونَ
 
 > *Afara'ayta mani-ttakhadha ilāhahu hawāhu wa-aḍallahu-llāhu ʿalā ʿilmin wa-khatama ʿalā samʿihi wa-qalbihi wa-jaʿala ʿalā baṣarihi ghishāwatan, faman yahdīhi min baʿdi-llāh, afalā tadhakkarūn.*
 

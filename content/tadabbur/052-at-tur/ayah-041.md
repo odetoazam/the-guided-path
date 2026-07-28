@@ -26,7 +26,7 @@ related_ayahs: ["52:2", "52:3", "6:59", "27:65", "68:1", "31:34", "72:26"]
 
 ## The Question That Asks for Your Credentials
 
-> أَمْ عِندَهُمُ ٱلْغَيْبُ فَهُمْ يَكْتُبُونَ
+> [ayah:52:41] أَمْ عِندَهُمُ ٱلْغَيْبُ فَهُمْ يَكْتُبُونَ
 >
 > *Am ʿindahumu-l-ghaybu fahum yaktubūn*
 >

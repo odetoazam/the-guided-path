@@ -30,7 +30,7 @@ related_ayahs: ["3:59", "3:61", "2:147", "10:94", "32:23", "6:114"]
 
 Let me give you the words first, and then let me give you the room they were spoken into.
 
-> ٱلْحَقُّ مِن رَّبِّكَ فَلَا تَكُن مِّنَ ٱلْمُمْتَرِينَ
+> [ayah:3:60] ٱلْحَقُّ مِن رَّبِّكَ فَلَا تَكُن مِّنَ ٱلْمُمْتَرِينَ
 >
 > *Al-ḥaqqu min rabbika fa-lā takun mina-l-mumtarīn.*
 >

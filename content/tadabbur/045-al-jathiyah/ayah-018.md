@@ -30,7 +30,7 @@ related_ayahs: ["45:17", "45:23", "47:14", "28:50", "25:43", "53:1", "5:48", "42
 
 Let me give you the ayah first. Sit with the sound of it before we touch a single meaning.
 
-> **ثُمَّ جَعَلْنَٰكَ عَلَىٰ شَرِيعَةٍ مِّنَ ٱلْأَمْرِ فَٱتَّبِعْهَا وَلَا تَتَّبِعْ أَهْوَآءَ ٱلَّذِينَ لَا يَعْلَمُونَ**
+> [ayah:45:18] ثُمَّ جَعَلْنَـٰكَ عَلَىٰ شَرِيعَةٍ مِّنَ ٱلْأَمْرِ فَٱتَّبِعْهَا وَلَا تَتَّبِعْ أَهْوَآءَ ٱلَّذِينَ لَا يَعْلَمُونَ
 
 > *Thumma jaʿalnāka ʿalā sharīʿatin mina-l-amri fa-ttabiʿhā wa-lā tattabiʿ ahwāʾa-lladhīna lā yaʿlamūn.*
 

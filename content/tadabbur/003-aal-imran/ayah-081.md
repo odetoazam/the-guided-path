@@ -30,7 +30,7 @@ related_ayahs: ["3:187", "33:7", "2:40", "5:48", "7:172", "33:72"]
 
 Listen to it first in the language it was revealed in. Don't worry about catching every word yet. Just feel the shape of it — the way it rises into a command, drops into a question, lifts again into an answer.
 
-> **وَإِذْ أَخَذَ ٱللَّهُ مِيثَٰقَ ٱلنَّبِيِّۦنَ لَمَآ ءَاتَيْتُكُم مِّن كِتَٰبٍ وَحِكْمَةٍ ثُمَّ جَآءَكُمْ رَسُولٌ مُّصَدِّقٌ لِّمَا مَعَكُمْ لَتُؤْمِنُنَّ بِهِۦ وَلَتَنصُرُنَّهُۥ ۚ قَالَ ءَأَقْرَرْتُمْ وَأَخَذْتُمْ عَلَىٰ ذَٰلِكُمْ إِصْرِى ۖ قَالُوٓاْ أَقْرَرْنَا ۚ قَالَ فَٱشْهَدُوا۟ وَأَنَا۠ مَعَكُم مِّنَ ٱلشَّٰهِدِينَ**
+> [ayah:3:81] وَإِذْ أَخَذَ ٱللَّهُ مِيثَـٰقَ ٱلنَّبِيِّـۧنَ لَمَآ ءَاتَيْتُكُم مِّن كِتَـٰبٍ وَحِكْمَةٍ ثُمَّ جَآءَكُمْ رَسُولٌ مُّصَدِّقٌ لِّمَا مَعَكُمْ لَتُؤْمِنُنَّ بِهِۦ وَلَتَنصُرُنَّهُۥ ۚ قَالَ ءَأَقْرَرْتُمْ وَأَخَذْتُمْ عَلَىٰ ذَٰلِكُمْ إِصْرِى ۖ قَالُوٓا۟ أَقْرَرْنَا ۚ قَالَ فَٱشْهَدُوا۟ وَأَنَا۠ مَعَكُم مِّنَ ٱلشَّـٰهِدِينَ
 
 *Wa idh akhadha-llāhu mīthāqa-n-nabiyyīn, lamā ātaytukum min kitābin wa ḥikmatin thumma jāʾakum rasūlun muṣaddiqun limā maʿakum, latuʾminunna bihi wa latanṣurunnah. Qāla a-aqrartum wa akhadhtum ʿalā dhālikum iṣrī? Qālū aqrarnā. Qāla fashhadū wa ana maʿakum mina-sh-shāhidīn.*
 

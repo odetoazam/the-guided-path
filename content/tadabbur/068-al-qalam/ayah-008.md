@@ -48,7 +48,7 @@ The very next verse, verse 9, lets us hear their wish out loud: **وَدُّوا
 
 And in between his magnificent character on one side, and their soft, slippery offer on the other, Allah places three words.
 
-**فَلَا تُطِعِ ٱلْمُكَذِّبِينَ.**
+[ayah:68:8] فَلَا تُطِعِ ٱلْمُكَذِّبِينَ
 
 Now here is the thing I want you to feel before we open these words. On the surface, this looks like the simplest command in the Qur'an. *Don't obey them.* Of course. We expect that. The Prophet ﷺ was never going to bow to idols. So why would Allah need to say it? Why spend a revelation on a command its recipient would obviously, instinctively, never break?
 

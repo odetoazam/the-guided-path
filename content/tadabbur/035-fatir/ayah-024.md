@@ -38,7 +38,7 @@ And right there, in the middle of all this separating, all this sorting of what 
 
 Listen to it first in Arabic:
 
-> **إِنَّآ أَرْسَلْنَٰكَ بِٱلْحَقِّ بَشِيرًۭا وَنَذِيرًۭا ۚ وَإِن مِّنْ أُمَّةٍ إِلَّا خَلَا فِيهَا نَذِيرٌۭ**
+> [ayah:35:24] إِنَّآ أَرْسَلْنَـٰكَ بِٱلْحَقِّ بَشِيرًا وَنَذِيرًا ۚ وَإِن مِّنْ أُمَّةٍ إِلَّا خَلَا فِيهَا نَذِيرٌ
 
 *Innā arsalnāka bil-ḥaqqi bashīran wa nadhīran — wa in min ummatin illā khalā fīhā nadhīr.*
 

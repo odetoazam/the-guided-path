@@ -16,7 +16,7 @@ ayah_end: 64
 title: "Dark Green: The One Word So Full It Darkens"
 slug: "055-064"
 category: tadabbur
-arabic: "مُدْهَآمَّتَانِ"
+[ayah:55:64] مُدْهَآمَّتَانِ
 translation: "Dark green — the two of them."
 word_count: 1
 estimated_duration: "48-56 minutes"

@@ -28,7 +28,7 @@ related_ayahs: ["2:2", "2:59", "7:134", "45:8", "45:9", "41:44", "17:82"]
 
 Let me give you the words first, slowly, before we go anywhere with them.
 
-> هَـٰذَا هُدًۭى ۖ وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَـٰتِ رَبِّهِمْ لَهُمْ عَذَابٌۭ مِّن رِّجْزٍ أَلِيمٌۭ
+> [ayah:45:11] هَـٰذَا هُدًى ۖ وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَـٰتِ رَبِّهِمْ لَهُمْ عَذَابٌ مِّن رِّجْزٍ أَلِيمٌ
 
 *Hādhā hudan. Wa-lladhīna kafarū bi-āyāti rabbihim lahum ʿadhābun min rijzin alīm.*
 

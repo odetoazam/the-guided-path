@@ -24,7 +24,7 @@ related_ayahs: ["33:63", "33:65", "33:66", "2:159", "4:93", "13:25", "48:6"]
 
 # Two Verbs in the Past Tense About a Future That Hasn't Arrived
 
-> إِنَّ ٱللَّهَ لَعَنَ ٱلْكَـٰفِرِينَ وَأَعَدَّ لَهُمْ سَعِيرًا
+> [ayah:33:64] إِنَّ ٱللَّهَ لَعَنَ ٱلْكَـٰفِرِينَ وَأَعَدَّ لَهُمْ سَعِيرًا
 >
 > *Inna-llāha laʿana-l-kāfirīna wa aʿadda lahum saʿīrā*
 >

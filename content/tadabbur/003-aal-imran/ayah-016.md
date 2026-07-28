@@ -28,7 +28,7 @@ related_ayahs: ["3:14", "3:15", "3:17", "2:201", "3:193", "2:286"]
 
 Let me read you the ayah first. Sit with the sound of it before we touch a single meaning.
 
-> **ٱلَّذِينَ يَقُولُونَ رَبَّنَآ إِنَّنَآ ءَامَنَّا فَٱغْفِرْ لَنَا ذُنُوبَنَا وَقِنَا عَذَابَ ٱلنَّارِ**
+> [ayah:3:16] ٱلَّذِينَ يَقُولُونَ رَبَّنَآ إِنَّنَآ ءَامَنَّا فَٱغْفِرْ لَنَا ذُنُوبَنَا وَقِنَا عَذَابَ ٱلنَّارِ
 
 *Alladhīna yaqūlūna rabbanā innanā āmannā fa-ghfir lanā dhunūbanā wa-qinā ʿadhāba an-nār.*
 

@@ -28,7 +28,7 @@ related_ayahs: ["21:98", "43:58", "2:26", "43:35", "6:25"]
 
 Let me give you the ayah first. Sit with the sound of it before we touch a single word.
 
-> **وَلَمَّا ضُرِبَ ٱبْنُ مَرْيَمَ مَثَلًا إِذَا قَوْمُكَ مِنْهُ يَصِدُّونَ**
+> [ayah:43:57] ۞ وَلَمَّا ضُرِبَ ٱبْنُ مَرْيَمَ مَثَلًا إِذَا قَوْمُكَ مِنْهُ يَصِدُّونَ
 >
 > *wa-lammā ḍuriba bnu Maryama mathalan idhā qawmuka minhu yaṣiddūn*
 >

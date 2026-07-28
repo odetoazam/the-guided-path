@@ -30,7 +30,7 @@ related_ayahs: ["2:112", "2:131", "3:67", "6:79", "31:22", "16:120"]
 
 Let me give you the ayah first. Sit with the sound of it before we touch a single word.
 
-> **وَمَنْ أَحْسَنُ دِينًا مِّمَّنْ أَسْلَمَ وَجْهَهُۥ لِلَّهِ وَهُوَ مُحْسِنٌ وَٱتَّبَعَ مِلَّةَ إِبْرَٰهِيمَ حَنِيفًا ۗ وَٱتَّخَذَ ٱللَّهُ إِبْرَٰهِيمَ خَلِيلًا**
+> [ayah:4:125] وَمَنْ أَحْسَنُ دِينًا مِّمَّنْ أَسْلَمَ وَجْهَهُۥ لِلَّهِ وَهُوَ مُحْسِنٌ وَٱتَّبَعَ مِلَّةَ إِبْرَٰهِيمَ حَنِيفًا ۗ وَٱتَّخَذَ ٱللَّهُ إِبْرَٰهِيمَ خَلِيلًا
 
 *Wa man aḥsanu dīnan mimman aslama wajhahu lillāhi wa huwa muḥsin, wa-ttabaʿa millata Ibrāhīma ḥanīfā. Wa-ttakhadha-llāhu Ibrāhīma khalīlā.*
 

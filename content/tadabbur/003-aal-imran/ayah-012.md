@@ -25,7 +25,7 @@ related_ayahs: ["3:10", "3:13", "3:46", "2:206", "3:197", "13:18", "78:6"]
 # The Cradle Turned Wretched
 ### A Reflection on Surah Aal-Imran, Ayah 12
 
-> قُل لِّلَّذِينَ كَفَرُوا۟ سَتُغْلَبُونَ وَتُحْشَرُونَ إِلَىٰ جَهَنَّمَ ۚ وَبِئْسَ ٱلْمِهَادُ
+> [ayah:3:12] قُل لِّلَّذِينَ كَفَرُوا۟ سَتُغْلَبُونَ وَتُحْشَرُونَ إِلَىٰ جَهَنَّمَ ۚ وَبِئْسَ ٱلْمِهَادُ
 
 > *Qul lilladhīna kafarū sa-tughlabūna wa-tuḥsharūna ilā jahannama wa-biʾsa l-mihād.*
 

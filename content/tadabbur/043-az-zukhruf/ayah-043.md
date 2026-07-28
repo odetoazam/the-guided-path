@@ -24,7 +24,7 @@ related_ayahs: ["1:6", "2:256", "3:103", "31:22", "7:170", "43:36", "42:52"]
 
 # Grip the Rope: The Two Form-Tens and the Ground That Already Stands
 
-> فَٱسْتَمْسِكْ بِٱلَّذِىٓ أُوحِىَ إِلَيْكَ ۖ إِنَّكَ عَلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ
+> [ayah:43:43] فَٱسْتَمْسِكْ بِٱلَّذِىٓ أُوحِىَ إِلَيْكَ ۖ إِنَّكَ عَلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ
 >
 > *Fa-stamsik bi-lladhī ūḥiya ilayk, innaka ʿalā ṣirāṭin mustaqīm.*
 >

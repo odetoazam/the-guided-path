@@ -28,7 +28,7 @@ related_ayahs: ["11:119", "32:13", "102:1", "70:19", "67:7", "7:18", "89:1"]
 
 Let me first place the words in front of you, slowly.
 
-> **يَوْمَ نَقُولُ لِجَهَنَّمَ هَلِ ٱمْتَلَأْتِ وَتَقُولُ هَلْ مِن مَّزِيدٍ**
+> [ayah:50:30] يَوْمَ نَقُولُ لِجَهَنَّمَ هَلِ ٱمْتَلَأْتِ وَتَقُولُ هَلْ مِن مَّزِيدٍ
 >
 > *Yawma naqūlu li-jahannama hali-mtala'ti wa taqūlu hal min mazīd.*
 >

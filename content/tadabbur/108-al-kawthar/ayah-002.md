@@ -25,7 +25,7 @@ related_ayahs: ["108:1", "108:3", "6:162", "22:37", "2:152"]
 # So Pray, and Sacrifice
 ### A Deep Reflection on Surah Al-Kawthar, Verse 2
 
-> فَصَلِّ لِرَبِّكَ وَٱنْحَرْ
+> [ayah:108:2] فَصَلِّ لِرَبِّكَ وَٱنْحَرْ
 >
 > *Fa-ṣalli li-rabbika wa-nḥar*
 >

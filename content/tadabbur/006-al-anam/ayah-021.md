@@ -40,7 +40,7 @@ tags: [tadabbur, al-anam, tawhid, zulm, falah, rhetorical-question, iftira, takd
 
 # Who Is More Unjust — The Two Directions of a Single Lie
 
-> <!-- ayah:6:21 -->     وَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَوْ كَذَّبَ بِـَٔايَـٰتِهِۦٓ ۗ إِنَّهُۥ لَا يُفْلِحُ ٱلظَّـٰلِمُونَ
+> [ayah:6:21] وَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَوْ كَذَّبَ بِـَٔايَـٰتِهِۦٓ ۗ إِنَّهُۥ لَا يُفْلِحُ ٱلظَّـٰلِمُونَ
 >
 > *Wa man aẓlamu mimmani-ftarā ʿala-llāhi kadhiban aw kadhdhaba bi-āyātih; innahu lā yufliḥu-ẓ-ẓālimūn.*
 >

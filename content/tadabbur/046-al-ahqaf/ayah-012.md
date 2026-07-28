@@ -28,7 +28,7 @@ related_ayahs: ["11:17", "5:48", "41:3", "16:103", "26:195", "2:285"]
 
 Let me place the words in front of you first. Sit with the sound of them before we touch the meaning.
 
-> **وَمِن قَبْلِهِۦ كِتَـٰبُ مُوسَىٰٓ إِمَامًا وَرَحْمَةً ۚ وَهَـٰذَا كِتَـٰبٌ مُّصَدِّقٌ لِّسَانًا عَرَبِيًّا لِّيُنذِرَ ٱلَّذِينَ ظَلَمُوا۟ وَبُشْرَىٰ لِلْمُحْسِنِينَ**
+> [ayah:46:12] وَمِن قَبْلِهِۦ كِتَـٰبُ مُوسَىٰٓ إِمَامًا وَرَحْمَةً ۚ وَهَـٰذَا كِتَـٰبٌ مُّصَدِّقٌ لِّسَانًا عَرَبِيًّا لِّيُنذِرَ ٱلَّذِينَ ظَلَمُوا۟ وَبُشْرَىٰ لِلْمُحْسِنِينَ
 
 *Wa min qablihi kitābu Mūsā imāman wa raḥmah. Wa hādhā kitābun muṣaddiqun lisānan ʿarabiyyan li-yundhira alladhīna ẓalamū wa bushrā lil-muḥsinīn.*
 

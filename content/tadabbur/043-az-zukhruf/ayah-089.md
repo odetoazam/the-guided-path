@@ -24,7 +24,7 @@ related_ayahs: ["28:55", "25:63", "73:10", "15:85", "70:5", "4:81"]
 
 # Turn Your Face Gently: The Final Word of the Surah of Gold
 
-> فَٱصْفَحْ عَنْهُمْ وَقُلْ سَلَـٰمٌ‌ۚ فَسَوْفَ يَعْلَمُونَ
+> [ayah:43:89] فَٱصْفَحْ عَنْهُمْ وَقُلْ سَلَـٰمٌ ۚ فَسَوْفَ يَعْلَمُونَ
 >
 > *Faṣfaḥ ʿanhum wa qul salām, fa-sawfa yaʿlamūn*
 >

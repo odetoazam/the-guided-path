@@ -28,7 +28,7 @@ related_ayahs: ["50:15", "46:33", "41:9", "2:255", "35:38", "36:82"]
 
 Let me give you the words first, and then let me give you the world they fell into.
 
-> وَلَقَدْ خَلَقْنَا ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَا فِى سِتَّةِ أَيَّامٍ وَمَا مَسَّنَا مِن لُّغُوبٍ
+> [ayah:50:38] وَلَقَدْ خَلَقْنَا ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَا فِى سِتَّةِ أَيَّامٍ وَمَا مَسَّنَا مِن لُّغُوبٍ
 
 *Wa laqad khalaqnā as-samāwāti wa-l-arḍa wa mā baynahumā fī sittati ayyāmin wa mā massanā min lughūb.*
 

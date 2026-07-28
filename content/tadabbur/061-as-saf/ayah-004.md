@@ -28,7 +28,7 @@ related_ayahs: ["61:2", "61:3", "61:14", "3:103", "3:200", "49:10", "8:46"]
 
 Let me give you the words first, and then let me give you the world they fell into.
 
-> إِنَّ ٱللَّهَ يُحِبُّ ٱلَّذِينَ يُقَـٰتِلُونَ فِى سَبِيلِهِۦ صَفًّۭا كَأَنَّهُم بُنْيَـٰنٌۭ مَّرْصُوصٌۭ
+> [ayah:61:4] إِنَّ ٱللَّهَ يُحِبُّ ٱلَّذِينَ يُقَـٰتِلُونَ فِى سَبِيلِهِۦ صَفًّا كَأَنَّهُم بُنْيَـٰنٌ مَّرْصُوصٌ
 
 *Inna-llāha yuḥibbu-lladhīna yuqātilūna fī sabīlihī ṣaffan ka'annahum bunyānun marṣūṣ.*
 

@@ -27,7 +27,7 @@ related_ayahs: ["2:2", "17:82", "10:57", "41:44", "16:89", "27:76"]
 ## Surah An-Naml, Ayah 77
 
 **Arabic:**
-وَإِنَّهُۥ لَهُدًۭى وَرَحْمَةٌۭ لِّلْمُؤْمِنِينَ
+[ayah:27:77] وَإِنَّهُۥ لَهُدًى وَرَحْمَةٌ لِّلْمُؤْمِنِينَ
 
 **Transliteration:**
 Wa innahu la-hudan wa raḥmatun lil-mu'minīn

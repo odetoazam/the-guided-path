@@ -28,7 +28,7 @@ related_ayahs: ["60:10", "60:12", "2:286", "48:1", "60:1", "5:54"]
 
 Let me begin by reading it to you. First in Arabic, then in a translation that tries to keep its texture.
 
-> وَإِن فَاتَكُمْ شَىْءٌ مِّنْ أَزْوَٰجِكُمْ إِلَى ٱلْكُفَّارِ فَعَاقَبْتُمْ فَـَٔاتُوا۟ ٱلَّذِينَ ذَهَبَتْ أَزْوَٰجُهُم مِّثْلَ مَآ أَنفَقُوا۟ ۚ وَٱتَّقُوا۟ ٱللَّهَ ٱلَّذِىٓ أَنتُم بِهِۦ مُؤْمِنُونَ
+> [ayah:60:11] وَإِن فَاتَكُمْ شَىْءٌ مِّنْ أَزْوَٰجِكُمْ إِلَى ٱلْكُفَّارِ فَعَاقَبْتُمْ فَـَٔاتُوا۟ ٱلَّذِينَ ذَهَبَتْ أَزْوَٰجُهُم مِّثْلَ مَآ أَنفَقُوا۟ ۚ وَٱتَّقُوا۟ ٱللَّهَ ٱلَّذِىٓ أَنتُم بِهِۦ مُؤْمِنُونَ
 
 *Wa in fātakum shay'un min azwājikum ilā al-kuffāri faʿāqabtum, fa-ātū alladhīna dhahabat azwājuhum mithla mā anfaqū, wa-ttaqū Allāha alladhī antum bihi mu'minūn.*
 

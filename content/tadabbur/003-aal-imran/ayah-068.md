@@ -38,7 +38,7 @@ One narration preserved by al-Qurtubi captures the temperature of it. Ibn Abbas 
 
 Now listen to the Arabic. Let it wash over you even before you understand it:
 
-> **إِنَّ أَوْلَى ٱلنَّاسِ بِإِبْرَٰهِيمَ لَلَّذِينَ ٱتَّبَعُوهُ وَهَٰذَا ٱلنَّبِىُّ وَٱلَّذِينَ ءَامَنُوا۟ ۗ وَٱللَّهُ وَلِىُّ ٱلْمُؤْمِنِينَ**
+> [ayah:3:68] إِنَّ أَوْلَى ٱلنَّاسِ بِإِبْرَٰهِيمَ لَلَّذِينَ ٱتَّبَعُوهُ وَهَـٰذَا ٱلنَّبِىُّ وَٱلَّذِينَ ءَامَنُوا۟ ۗ وَٱللَّهُ وَلِىُّ ٱلْمُؤْمِنِينَ
 
 *Inna awlā an-nāsi bi-Ibrāhīma lalladhīna-ttabaʿūhu wa hādhā-n-nabiyyu walladhīna āmanū — wa-Llāhu waliyyu-l-muʾminīn.*
 

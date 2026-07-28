@@ -24,7 +24,7 @@ related_ayahs: ["67:23", "67:25", "23:79", "6:38", "42:29", "21:104", "70:43"]
 
 # Scattered Like Seed, Gathered to One Point
 
-> قُلْ هُوَ ٱلَّذِى ذَرَأَكُمْ فِى ٱلْأَرْضِ وَإِلَيْهِ تُحْشَرُونَ
+> [ayah:67:24] قُلْ هُوَ ٱلَّذِى ذَرَأَكُمْ فِى ٱلْأَرْضِ وَإِلَيْهِ تُحْشَرُونَ
 >
 > *Qul huwa alladhī dhara'akum fī al-ardi wa ilayhi tuḥsharūn.*
 >

@@ -24,7 +24,7 @@ related_ayahs: ["25:52", "35:24", "16:36", "10:47", "13:7", "26:208", "6:131", "
 
 # Surah Al-Furqan, Ayah 51 — The Warner Allah Did Not Send
 
-**وَلَوْ شِئْنَا لَبَعَثْنَا فِى كُلِّ قَرْيَةٍ نَّذِيرًا**
+[ayah:25:51] وَلَوْ شِئْنَا لَبَعَثْنَا فِى كُلِّ قَرْيَةٍ نَّذِيرًا
 
 *Wa law shi'nā la-baʿathnā fī kulli qaryatin nadhīrā*
 

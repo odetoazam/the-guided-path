@@ -28,7 +28,7 @@ related_ayahs: ["2:61", "2:87", "2:91", "3:112", "3:181", "4:155", "5:70"]
 
 Let me give you the ayah three times. Once in Arabic. Once so you can hear its shape. And once in plain English.
 
-> إِنَّ ٱلَّذِينَ يَكْفُرُونَ بِـَٔايَـٰتِ ٱللَّهِ وَيَقْتُلُونَ ٱلنَّبِيِّـۧنَ بِغَيْرِ حَقٍّ وَيَقْتُلُونَ ٱلَّذِينَ يَأْمُرُونَ بِٱلْقِسْطِ مِنَ ٱلنَّاسِ فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ
+> [ayah:3:21] إِنَّ ٱلَّذِينَ يَكْفُرُونَ بِـَٔايَـٰتِ ٱللَّهِ وَيَقْتُلُونَ ٱلنَّبِيِّـۧنَ بِغَيْرِ حَقٍّ وَيَقْتُلُونَ ٱلَّذِينَ يَأْمُرُونَ بِٱلْقِسْطِ مِنَ ٱلنَّاسِ فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ
 
 *Inna alladhīna yakfurūna bi-āyāti-llāhi wa-yaqtulūna an-nabiyyīna bi-ghayri ḥaqqin wa-yaqtulūna alladhīna ya'murūna bil-qisṭi mina-n-nāsi fa-bashshir-hum bi-'adhābin alīm.*
 

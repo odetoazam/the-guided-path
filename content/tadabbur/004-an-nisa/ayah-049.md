@@ -28,7 +28,7 @@ related_ayahs: ["53:32", "91:9", "2:174", "4:40", "24:21"]
 
 Let me give you the ayah first. Sit with the sound of it before we touch the meaning.
 
-> أَلَمْ تَرَ إِلَى ٱلَّذِينَ يُزَكُّونَ أَنفُسَهُمۚ بَلِ ٱللَّهُ يُزَكِّى مَن يَشَآءُ وَلَا يُظْلَمُونَ فَتِيلًا
+> [ayah:4:49] أَلَمْ تَرَ إِلَى ٱلَّذِينَ يُزَكُّونَ أَنفُسَهُم ۚ بَلِ ٱللَّهُ يُزَكِّى مَن يَشَآءُ وَلَا يُظْلَمُونَ فَتِيلًا
 
 *Alam tara ilā alladhīna yuzakkūna anfusahum. Bal Allāhu yuzakkī man yashā'u wa-lā yuẓlamūna fatīlā.*
 

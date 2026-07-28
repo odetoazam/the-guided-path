@@ -51,7 +51,7 @@ related_ayahs:
 ### The Ayah
 
 **Arabic:**
-أُولَٰٓئِكَ ٱلَّذِينَ لَهُمْ سُوٓءُ ٱلْعَذَابِ وَهُمْ فِى ٱلْءَاخِرَةِ هُمُ ٱلْأَخْسَرُونَ
+[ayah:27:5] أُو۟لَـٰٓئِكَ ٱلَّذِينَ لَهُمْ سُوٓءُ ٱلْعَذَابِ وَهُمْ فِى ٱلْـَٔاخِرَةِ هُمُ ٱلْأَخْسَرُونَ
 
 **Transliteration:**
 *Ūlāʾika alladhīna lahum sūʾu al-ʿadhāb, wa-hum fī al-ākhirati humu al-akhsarūn.*

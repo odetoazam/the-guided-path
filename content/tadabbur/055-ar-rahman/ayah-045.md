@@ -24,7 +24,7 @@ related_ayahs: ["55:13", "55:43", "55:44", "55:46", "16:18", "14:34"]
 
 # Which Favor? — When the Warning Itself Is the Mercy
 
-> فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+> [ayah:55:45] فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
 >
 > *Fa-bi-ayyi ālāʾi rabbikumā tukadhdhibān*
 >

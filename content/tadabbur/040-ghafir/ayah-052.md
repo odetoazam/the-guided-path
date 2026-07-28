@@ -31,7 +31,7 @@ related_ayahs: ["40:51", "30:57", "77:35", "77:36", "16:84", "75:14", "75:15", "
 
 Let me give you the words first, and then let me build the world they fell into.
 
-> يَوْمَ لَا يَنفَعُ ٱلظَّـٰلِمِينَ مَعْذِرَتُهُمْ ۖ وَلَهُمُ ٱللَّعْنَةُ وَلَهُمْ سُوٓءُ ٱلدَّارِ
+> [ayah:40:52] يَوْمَ لَا يَنفَعُ ٱلظَّـٰلِمِينَ مَعْذِرَتُهُمْ ۖ وَلَهُمُ ٱللَّعْنَةُ وَلَهُمْ سُوٓءُ ٱلدَّارِ
 
 *Yawma lā yanfaʿu-ẓ-ẓālimīna maʿdhiratuhum — wa lahumu-l-laʿnatu wa lahum sūʾu-d-dār.*
 

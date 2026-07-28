@@ -28,7 +28,7 @@ related_ayahs: ["81:28", "81:29", "1:6", "6:153", "75:10", "53:30"]
 
 Let me give you the verse first, and then I want us to slow almost to a stop, because this is one of those places in the Qur'an where the fewer the words, the longer we should linger.
 
-> **فَأَيْنَ تَذْهَبُونَ**
+> [ayah:81:26] فَأَيْنَ تَذْهَبُونَ
 >
 > *Fa-ayna tadhhabūn.*
 >

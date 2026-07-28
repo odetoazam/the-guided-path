@@ -28,7 +28,7 @@ related_ayahs: ["41:30", "10:62", "2:38", "2:262", "13:28"]
 
 Let me give you the ayah first. Sit with the sound of it before we touch a single meaning.
 
-> **إِنَّ ٱلَّذِينَ قَالُوا۟ رَبُّنَا ٱللَّهُ ثُمَّ ٱسْتَقَٰمُوا۟ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ**
+> [ayah:46:13] إِنَّ ٱلَّذِينَ قَالُوا۟ رَبُّنَا ٱللَّهُ ثُمَّ ٱسْتَقَـٰمُوا۟ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
 
 *Inna alladhīna qālū Rabbunā Allāhu thumma istaqāmū, falā khawfun ʿalayhim wa lā hum yaḥzanūn.*
 

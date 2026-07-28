@@ -25,7 +25,7 @@ related_ayahs: ["32:30", "11:122", "10:102", "6:158", "4:1", "7:142"]
 # Two Watchers, One Word
 ### A Tadabbur of Surah Ad-Dukhan, Ayah 59
 
-> فَٱرْتَقِبْ إِنَّهُم مُّرْتَقِبُونَ
+> [ayah:44:59] فَٱرْتَقِبْ إِنَّهُم مُّرْتَقِبُونَ
 >
 > *Fa-rtaqib innahum murtaqibūn*
 >

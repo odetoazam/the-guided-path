@@ -28,7 +28,7 @@ related_ayahs: ["25:57", "2:119", "33:45", "34:28", "17:105", "5:99", "88:21-22"
 
 Listen to these words. Six of them. That's all.
 
-**وَمَآ أَرْسَلْنَـٰكَ إِلَّا مُبَشِّرًۭا وَنَذِيرًۭا**
+[ayah:25:56] وَمَآ أَرْسَلْنَـٰكَ إِلَّا مُبَشِّرًا وَنَذِيرًا
 
 *Wa mā arsalnāka illā mubashshiran wa nadhīrā*
 

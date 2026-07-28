@@ -28,7 +28,7 @@ related_ayahs: ["37:149", "16:57", "16:58", "43:16", "53:21", "17:40", "52:35"]
 
 Let me begin by placing the words in front of you. Just five words in the Arabic. Listen first to the sound of them:
 
-> **أَمْ لَهُ ٱلْبَنَٰتُ وَلَكُمُ ٱلْبَنُونَ**
+> [ayah:52:39] أَمْ لَهُ ٱلْبَنَـٰتُ وَلَكُمُ ٱلْبَنُونَ
 
 *Am lahu l-banātu wa-lakumu l-banūn.*
 

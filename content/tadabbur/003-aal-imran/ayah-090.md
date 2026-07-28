@@ -28,7 +28,7 @@ related_ayahs: ["3:89", "3:86", "3:91", "4:18", "4:137", "40:85"]
 
 Let me give you the ayah first. Sit with the sound of it before we touch a single meaning.
 
-> **إِنَّ ٱلَّذِينَ كَفَرُوا۟ بَعْدَ إِيمَـٰنِهِمْ ثُمَّ ٱزْدَادُوا۟ كُفْرًۭا لَّن تُقْبَلَ تَوْبَتُهُمْ وَأُو۟لَـٰٓئِكَ هُمُ ٱلضَّآلُّونَ**
+> [ayah:3:90] إِنَّ ٱلَّذِينَ كَفَرُوا۟ بَعْدَ إِيمَـٰنِهِمْ ثُمَّ ٱزْدَادُوا۟ كُفْرًا لَّن تُقْبَلَ تَوْبَتُهُمْ وَأُو۟لَـٰٓئِكَ هُمُ ٱلضَّآلُّونَ
 
 *Inna alladhīna kafarū baʿda īmānihim thumma izdādū kufran lan tuqbala tawbatuhum, wa ulāʾika humu ḍ-ḍāllūn.*
 

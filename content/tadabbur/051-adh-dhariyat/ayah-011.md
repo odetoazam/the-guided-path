@@ -33,7 +33,7 @@ related_ayahs: ["51:10", "6:44", "7:179", "23:63", "18:28", "6:93"]
 ## THE AYAH
 
 **Arabic:**
-الَّذِينَ هُمْ فِي غَمْرَةٍ سَاهُونَ
+[ayah:51:11] ٱلَّذِينَ هُمْ فِى غَمْرَةٍ سَاهُونَ
 
 **Transliteration:**
 *Alladhīna hum fī ghamratin sāhūn*

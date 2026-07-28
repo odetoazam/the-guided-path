@@ -28,7 +28,7 @@ related_ayahs: ["48:24", "48:1", "2:196", "49:13", "57:25"]
 
 Let me give you the ayah three times. First in Arabic, then in sound, then in a plain English that we will spend the next hour learning to hear differently.
 
-> هُمُ ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوكُمْ عَنِ ٱلْمَسْجِدِ ٱلْحَرَامِ وَٱلْهَدْىَ مَعْكُوفًا أَن يَبْلُغَ مَحِلَّهُۥ ۚ وَلَوْلَا رِجَالٌ مُّؤْمِنُونَ وَنِسَآءٌ مُّؤْمِنَـٰتٌ لَّمْ تَعْلَمُوهُمْ أَن تَطَـُٔوهُمْ فَتُصِيبَكُم مِّنْهُم مَّعَرَّةٌۢ بِغَيْرِ عِلْمٍ ۖ لِّيُدْخِلَ ٱللَّهُ فِى رَحْمَتِهِۦ مَن يَشَآءُ ۚ لَوْ تَزَيَّلُوا۟ لَعَذَّبْنَا ٱلَّذِينَ كَفَرُوا۟ مِنْهُمْ عَذَابًا أَلِيمًا
+> [ayah:48:25] هُمُ ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوكُمْ عَنِ ٱلْمَسْجِدِ ٱلْحَرَامِ وَٱلْهَدْىَ مَعْكُوفًا أَن يَبْلُغَ مَحِلَّهُۥ ۚ وَلَوْلَا رِجَالٌ مُّؤْمِنُونَ وَنِسَآءٌ مُّؤْمِنَـٰتٌ لَّمْ تَعْلَمُوهُمْ أَن تَطَـُٔوهُمْ فَتُصِيبَكُم مِّنْهُم مَّعَرَّةٌۢ بِغَيْرِ عِلْمٍ ۖ لِّيُدْخِلَ ٱللَّهُ فِى رَحْمَتِهِۦ مَن يَشَآءُ ۚ لَوْ تَزَيَّلُوا۟ لَعَذَّبْنَا ٱلَّذِينَ كَفَرُوا۟ مِنْهُمْ عَذَابًا أَلِيمًا
 
 *Humu lladhīna kafarū wa ṣaddūkum ʿani l-masjidi l-ḥarāmi wa l-hadya maʿkūfan an yablugha maḥillah. Wa law-lā rijālun muʾminūna wa nisāʾun muʾminātun lam taʿlamūhum an taṭaʾūhum fa-tuṣībakum minhum maʿarratun bi-ghayri ʿilm. Li-yudkhila llāhu fī raḥmatihi man yashāʾ. Law tazayyalū la-ʿadhdhabnā lladhīna kafarū minhum ʿadhāban alīmā.*
 

@@ -28,7 +28,7 @@ related_ayahs: ["3:59", "3:60", "3:61", "12:3", "18:13", "112:1"]
 
 Let me give you the verse first, and then let me give you the room it was spoken in.
 
-> إِنَّ هَـٰذَا لَهُوَ ٱلْقَصَصُ ٱلْحَقُّ ۚ وَمَا مِنْ إِلَـٰهٍ إِلَّا ٱللَّهُ ۚ وَإِنَّ ٱللَّهَ لَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ
+> [ayah:3:62] إِنَّ هَـٰذَا لَهُوَ ٱلْقَصَصُ ٱلْحَقُّ ۚ وَمَا مِنْ إِلَـٰهٍ إِلَّا ٱللَّهُ ۚ وَإِنَّ ٱللَّهَ لَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ
 
 *Inna hādhā lahuwa l-qaṣaṣu l-ḥaqq. Wa mā min ilāhin illā Allāh. Wa inna Allāha lahuwa l-ʿazīzu l-ḥakīm.*
 

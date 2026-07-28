@@ -30,7 +30,7 @@ Let me give you the ayah three ways before we go anywhere near it.
 
 In Arabic:
 
-**وَإِن يَرَوْا۟ كِسْفًۭا مِّنَ ٱلسَّمَآءِ سَاقِطًۭا يَقُولُوا۟ سَحَابٌۭ مَّرْكُومٌۭ**
+[ayah:52:44] وَإِن يَرَوْا۟ كِسْفًا مِّنَ ٱلسَّمَآءِ سَاقِطًا يَقُولُوا۟ سَحَابٌ مَّرْكُومٌ
 
 In transliteration:
 

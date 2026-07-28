@@ -16,7 +16,7 @@ ayah_end: 30
 title: "The Distance You Cannot Buy: When Your Own Deeds Stand Before You"
 slug: "003-030"
 category: tadabbur
-arabic: "يَوْمَ تَجِدُ كُلُّ نَفْسٍ مَّا عَمِلَتْ مِنْ خَيْرٍ مُّحْضَرًا وَمَا عَمِلَتْ مِن سُوٓءٍ تَوَدُّ لَوْ أَنَّ بَيْنَهَا وَبَيْنَهُۥٓ أَمَدًۢا بَعِيدًا ۗ وَيُحَذِّرُكُمُ ٱللَّهُ نَفْسَهُۥ ۗ وَٱللَّهُ رَءُوفُۢ بِٱلْعِبَادِ"
+[ayah:3:30] يَوْمَ تَجِدُ كُلُّ نَفْسٍ مَّا عَمِلَتْ مِنْ خَيْرٍ مُّحْضَرًا وَمَا عَمِلَتْ مِن سُوٓءٍ تَوَدُّ لَوْ أَنَّ بَيْنَهَا وَبَيْنَهُۥٓ أَمَدًۢا بَعِيدًا ۗ وَيُحَذِّرُكُمُ ٱللَّهُ نَفْسَهُۥ ۗ وَٱللَّهُ رَءُوفٌۢ بِٱلْعِبَادِ
 translation: "On the Day every soul will find what good it did made present before it — and what evil it did, it will wish there were a vast distance between itself and that deed. And Allah warns you of Himself; and Allah is deeply tender toward His servants."
 word_count: 26
 estimated_duration: "50-58 minutes"

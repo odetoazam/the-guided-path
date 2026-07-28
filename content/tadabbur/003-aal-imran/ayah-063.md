@@ -46,7 +46,7 @@ related_ayahs:
 
 ## Introduction
 
-*فَإِن تَوَلَّوْاْ فَإِنَّ ٱللَّهَ عَلِيمُۢ بِٱلْمُفْسِدِينَ*
+[ayah:3:63] فَإِن تَوَلَّوْا۟ فَإِنَّ ٱللَّهَ عَلِيمٌۢ بِٱلْمُفْسِدِينَ
 
 *Fa-in tawallaw fa-inna Allāha ʿAlīmun bil-mufsidīn*
 

@@ -26,7 +26,7 @@ related_ayahs: ["51:1", "51:5", "51:7", "51:9", "51:11", "10:36", "53:28", "15:9
 
 ## INTRODUCTION
 
-**Arabic:** قُتِلَ ٱلْخَرَّٰصُونَ
+[ayah:51:10] قُتِلَ ٱلْخَرَّٰصُونَ
 
 **Transliteration:** *Qutila al-kharrāṣūn*
 

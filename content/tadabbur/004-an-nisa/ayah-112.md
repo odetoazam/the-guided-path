@@ -30,7 +30,7 @@ related_ayahs: ["4:111", "4:107", "24:11", "33:58", "6:164", "2:286"]
 
 Let me give you the verse first. Sit with the sound of it before we understand a word.
 
-> **وَمَن يَكْسِبْ خَطِيٓـَٔةً أَوْ إِثْمًا ثُمَّ يَرْمِ بِهِۦ بَرِيٓـًٔا فَقَدِ ٱحْتَمَلَ بُهْتَـٰنًا وَإِثْمًا مُّبِينًا**
+> [ayah:4:112] وَمَن يَكْسِبْ خَطِيٓـَٔةً أَوْ إِثْمًا ثُمَّ يَرْمِ بِهِۦ بَرِيٓـًٔا فَقَدِ ٱحْتَمَلَ بُهْتَـٰنًا وَإِثْمًا مُّبِينًا
 
 *Wa man yaksib khaṭīʾatan aw ithman thumma yarmi bihi barīʾan faqadi-ḥtamala buhtānan wa ithman mubīnā.*
 

@@ -56,7 +56,7 @@ That is the first thing to hold. Before any argument. Before any narrative. Befo
 
 In Arabic:
 
-**الٓمٓ**
+[ayah:32:1] الٓمٓ
 
 Say them slowly if you can. Not as a single word. As three separate names:
 

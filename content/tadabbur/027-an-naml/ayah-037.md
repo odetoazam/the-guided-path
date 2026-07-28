@@ -27,7 +27,7 @@ related_ayahs: ["27:35", "27:36", "27:38", "27:42", "27:44"]
 ## Surah An-Naml, Ayah 37
 
 **Arabic:**
-ٱرْجِعْ إِلَيْهِمْ فَلَنَأْتِيَنَّهُم بِجُنُودٍ لَّا قِبَلَ لَهُم بِهَا وَلَنُخْرِجَنَّهُم مِّنْهَآ أَذِلَّةً وَهُمْ صَٰغِرُونَ
+[ayah:27:37] ٱرْجِعْ إِلَيْهِمْ فَلَنَأْتِيَنَّهُم بِجُنُودٍ لَّا قِبَلَ لَهُم بِهَا وَلَنُخْرِجَنَّهُم مِّنْهَآ أَذِلَّةً وَهُمْ صَـٰغِرُونَ
 
 **Transliteration:**
 *Irjiʿ ilayhim fa-la-naʾtiyannahum bi-junūdin lā qibala lahum bihā wa-la-nukhrijannahum minhā adhillatan wa-hum ṣāghirūn.*

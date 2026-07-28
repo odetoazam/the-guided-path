@@ -32,7 +32,7 @@ related_ayahs: ["48:8", "48:10", "33:56", "7:157", "49:1", "3:31", "33:42", "76:
 
 Let me give you the words first. Hear them before we understand them.
 
-> **لِّتُؤْمِنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَتُعَزِّرُوهُ وَتُوَقِّرُوهُ وَتُسَبِّحُوهُ بُكْرَةً وَأَصِيلًا**
+> [ayah:48:9] لِّتُؤْمِنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَتُعَزِّرُوهُ وَتُوَقِّرُوهُ وَتُسَبِّحُوهُ بُكْرَةً وَأَصِيلًا
 
 *Li-tuʾminū billāhi wa rasūlihi — wa tuʿazzirūhu wa tuwaqqirūhu — wa tusabbiḥūhu bukratan wa aṣīlā.*
 

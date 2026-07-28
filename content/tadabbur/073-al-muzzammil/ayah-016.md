@@ -59,7 +59,7 @@ related_ayahs:
 ### The Ayah
 
 **Arabic:**
-فَعَصَىٰ فِرْعَوْنُ ٱلرَّسُولَ فَأَخَذْنَـٰهُ أَخْذًا وَبِيلاً
+[ayah:73:16] فَعَصَىٰ فِرْعَوْنُ ٱلرَّسُولَ فَأَخَذْنَـٰهُ أَخْذًا وَبِيلًا
 
 **Transliteration:**
 *Fa-'aṣā Fir'awnu al-Rasūla fa-akhadhnāhu akhdhan wabīlā*

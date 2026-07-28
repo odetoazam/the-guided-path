@@ -24,7 +24,7 @@ related_ayahs: ["3:178", "7:182", "13:32", "47:25", "68:45", "86:17", "22:45", "
 
 # The Lengthened Rope: Why Allah Gives Respite to the Wrongdoer
 
-> وَكَأَيِّن مِّن قَرْيَةٍ أَمْلَيْتُ لَهَا وَهِيَ ظَالِمَةٌ ثُمَّ أَخَذْتُهَا وَإِلَيَّ ٱلْمَصِيرُ
+> [ayah:22:48] وَكَأَيِّن مِّن قَرْيَةٍ أَمْلَيْتُ لَهَا وَهِىَ ظَالِمَةٌ ثُمَّ أَخَذْتُهَا وَإِلَىَّ ٱلْمَصِيرُ
 >
 > *Wa ka-ayyin min qaryatin amlaytu lahā wa-hiya ẓālimatun thumma akhadhtuhā wa-ilayya l-maṣīr.*
 >

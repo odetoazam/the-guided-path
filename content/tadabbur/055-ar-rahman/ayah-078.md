@@ -26,7 +26,7 @@ related_ayahs: ["55:1", "55:27", "67:1", "7:54", "25:1"]
 
 ## Blessed is the name of your Lord, Owner of Majesty and Honor
 
-> تَبَـٰرَكَ ٱسْمُ رَبِّكَ ذِى ٱلْجَلَـٰلِ وَٱلْإِكْرَامِ
+> [ayah:55:78] تَبَـٰرَكَ ٱسْمُ رَبِّكَ ذِى ٱلْجَلَـٰلِ وَٱلْإِكْرَامِ
 >
 > *Tabāraka-smu rabbika dhi'l-jalāli wa'l-ikrām*
 >

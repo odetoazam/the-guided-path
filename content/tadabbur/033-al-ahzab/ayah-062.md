@@ -27,7 +27,7 @@ related_ayahs: ["33:38", "35:43", "48:23", "17:77", "40:85", "15:13"]
 ## Surah Al-Ahzab, Ayah 62
 
 **Arabic:**
-سُنَّةَ ٱللَّهِ فِى ٱلَّذِينَ خَلَوْا۟ مِن قَبْلُ ۖ وَلَن تَجِدَ لِسُنَّةِ ٱللَّهِ تَبْدِيلًا
+[ayah:33:62] سُنَّةَ ٱللَّهِ فِى ٱلَّذِينَ خَلَوْا۟ مِن قَبْلُ ۖ وَلَن تَجِدَ لِسُنَّةِ ٱللَّهِ تَبْدِيلًا
 
 **Transliteration:**
 *Sunnata-llāhi fī alladhīna khalaw min qabl, wa lan tajida li-sunnati-llāhi tabdīlā.*

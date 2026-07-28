@@ -25,7 +25,7 @@ related_ayahs: ["3:81", "2:257", "2:27", "7:172", "33:72", "59:19"]
 
 # Turning Away After the Covenant: The Geometry of *Fisq*
 
-> فَمَن تَوَلَّىٰ بَعْدَ ذَٰلِكَ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْفَـٰسِقُونَ
+> [ayah:3:82] فَمَن تَوَلَّىٰ بَعْدَ ذَٰلِكَ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْفَـٰسِقُونَ
 >
 > *Fa-man tawallā baʿda dhālika fa-ulāʾika humu-l-fāsiqūn*
 >

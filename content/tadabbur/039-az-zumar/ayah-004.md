@@ -32,7 +32,7 @@ related_ayahs: ["112:1", "112:3", "21:17", "23:91", "19:88", "10:68", "6:101"]
 
 Let me give you the words first, and then let me give you the world they fell into.
 
-> **لَّوْ أَرَادَ ٱللَّهُ أَن يَتَّخِذَ وَلَدًا لَّٱصْطَفَىٰ مِمَّا يَخْلُقُ مَا يَشَآءُ ۚ سُبْحَـٰنَهُۥ ۖ هُوَ ٱللَّهُ ٱلْوَٰحِدُ ٱلْقَهَّارُ**
+> [ayah:39:4] لَّوْ أَرَادَ ٱللَّهُ أَن يَتَّخِذَ وَلَدًا لَّٱصْطَفَىٰ مِمَّا يَخْلُقُ مَا يَشَآءُ ۚ سُبْحَـٰنَهُۥ ۖ هُوَ ٱللَّهُ ٱلْوَٰحِدُ ٱلْقَهَّارُ
 
 > *Law arāda-llāhu an yattakhidha waladan la-ṣṭafā mimmā yakhluqu mā yashā'. Subḥānahu, huwa-llāhu-l-Wāḥidu-l-Qahhār.*
 

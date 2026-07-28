@@ -24,7 +24,7 @@ related_ayahs: ["50:39", "20:130", "52:48", "76:26", "3:191", "17:79"]
 
 # A Portion of the Night, and the Trailing Edge of Prostration
 
-> **وَمِنَ ٱلَّيْلِ فَسَبِّحْهُ وَأَدْبَـٰرَ ٱلسُّجُودِ**
+> [ayah:50:40] وَمِنَ ٱلَّيْلِ فَسَبِّحْهُ وَأَدْبَـٰرَ ٱلسُّجُودِ
 >
 > *wa mina-l-layli fa-sabbiḥhu wa adbāra-s-sujūd*
 >

@@ -28,7 +28,7 @@ related_ayahs: ["40:57", "40:58", "40:60", "22:7", "45:32", "18:21"]
 
 Let me give you the ayah first. Sit with the sound of it before we touch a single word.
 
-> **إِنَّ ٱلسَّاعَةَ لَأَتِيَةٌۭ لَّا رَيْبَ فِيهَا وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يُؤْمِنُونَ**
+> [ayah:40:59] إِنَّ ٱلسَّاعَةَ لَـَٔاتِيَةٌ لَّا رَيْبَ فِيهَا وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يُؤْمِنُونَ
 
 *Inna-s-sā'ata la-ātiyatun, lā rayba fīhā, wa-lākinna akthara-n-nāsi lā yu'minūn.*
 

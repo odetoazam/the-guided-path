@@ -28,7 +28,7 @@ related_ayahs: ["60:4", "60:6", "10:85", "21:69", "2:286", "14:35"]
 
 Let me give you the ayah first. Sit with the sound of it before we touch a single word.
 
-> رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِّلَّذِينَ كَفَرُوا وَاغْفِرْ لَنَا رَبَّنَا ۖ إِنَّكَ أَنتَ الْعَزِيزُ الْحَكِيمُ
+> [ayah:60:5] رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِّلَّذِينَ كَفَرُوا۟ وَٱغْفِرْ لَنَا رَبَّنَآ ۖ إِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْحَكِيمُ
 
 *Rabbanā lā tajʿalnā fitnatan lilladhīna kafarū, waghfir lanā rabbanā, innaka anta-l-ʿAzīzu-l-Ḥakīm.*
 

@@ -28,7 +28,7 @@ related_ayahs: ["8:30", "27:50", "13:42", "14:46", "4:157", "3:55", "86:15-16"]
 
 Let me set the Arabic in front of us before we say anything about it.
 
-> **وَمَكَرُوا۟ وَمَكَرَ ٱللَّهُ ۖ وَٱللَّهُ خَيْرُ ٱلْمَٰكِرِينَ**
+> [ayah:3:54] وَمَكَرُوا۟ وَمَكَرَ ٱللَّهُ ۖ وَٱللَّهُ خَيْرُ ٱلْمَـٰكِرِينَ
 >
 > *Wa-makarū wa-makara-llāhu, wa-llāhu khayru-l-mākirīn.*
 >

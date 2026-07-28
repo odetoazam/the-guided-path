@@ -44,7 +44,7 @@ And then one sentence in the Quran tells us what happened to all of it.
 
 **Listen.**
 
-> فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍ وَأَثْلٍ وَشَىْءٍ مِّن سِدْرٍ قَلِيلٍ
+> [ayah:34:16] فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍ وَأَثْلٍ وَشَىْءٍ مِّن سِدْرٍ قَلِيلٍ
 >
 > *Fa-aʿraḍū fa-arsalnā ʿalayhim sayl al-ʿarim, wa baddalnāhum bi-jannatayhim jannatayni dhawātay ukulin khamṭin wa athlin wa shay'in min sidrin qalīl.*
 >

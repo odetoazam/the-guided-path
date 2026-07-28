@@ -42,7 +42,7 @@ related_ayahs: ["6:25", "17:46", "18:57", "2:88", "41:4", "41:44", "83:14", "42:
 
 Let me give you the verse three times before we begin. First in the Arabic, then in sound, then in a meaning you can hold.
 
-> وَقَالُوا۟ قُلُوبُنَا فِىٓ أَكِنَّةٍ مِّمَّا تَدْعُونَآ إِلَيْهِ وَفِىٓ ءَاذَانِنَا وَقْرٌ وَمِنۢ بَيْنِنَا وَبَيْنِكَ حِجَابٌ فَٱعْمَلْ إِنَّنَا عَـٰمِلُونَ
+> [ayah:41:5] وَقَالُوا۟ قُلُوبُنَا فِىٓ أَكِنَّةٍ مِّمَّا تَدْعُونَآ إِلَيْهِ وَفِىٓ ءَاذَانِنَا وَقْرٌ وَمِنۢ بَيْنِنَا وَبَيْنِكَ حِجَابٌ فَٱعْمَلْ إِنَّنَا عَـٰمِلُونَ
 
 *Wa qālū qulūbunā fī akinnatin mimmā tadʿūnā ilayhi wa fī ādhāninā waqrun wa min bayninā wa baynika ḥijābun, faʿmal innanā ʿāmilūn.*
 

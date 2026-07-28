@@ -51,7 +51,7 @@ related_ayahs:
 
 **The ayah in Arabic:**
 
-وَجَآءَ فِرْعَوْنُ وَمَن قَبْلَهُۥ وَٱلْمُؤْتَفِكَـٰتُ بِٱلْخَاطِئَةِ
+[ayah:69:9] وَجَآءَ فِرْعَوْنُ وَمَن قَبْلَهُۥ وَٱلْمُؤْتَفِكَـٰتُ بِٱلْخَاطِئَةِ
 
 **Transliteration:** *Wa-jāʾa Firʿawnu wa-man qablahu wal-muʾtafikātu bil-khāṭiʾah*
 

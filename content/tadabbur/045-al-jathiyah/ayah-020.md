@@ -28,7 +28,7 @@ related_ayahs: ["2:2", "7:203", "6:104", "27:81", "41:53", "102:5"]
 
 Let me give you the verse first, and then let me tell you why it has kept me up.
 
-> **هَٰذَا بَصَٰٓئِرُ لِلنَّاسِ وَهُدًۭى وَرَحْمَةٌۭ لِّقَوْمٍۢ يُوقِنُونَ**
+> [ayah:45:20] هَـٰذَا بَصَـٰٓئِرُ لِلنَّاسِ وَهُدًى وَرَحْمَةٌ لِّقَوْمٍ يُوقِنُونَ
 
 *Hādhā baṣāʾiru lin-nāsi wa hudan wa raḥmatun li-qawmin yūqinūn.*
 

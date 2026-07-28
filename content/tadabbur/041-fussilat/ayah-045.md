@@ -32,7 +32,7 @@ related_ayahs: ["10:19", "11:110", "20:129", "42:14", "41:46"]
 
 Let me put the words in front of you first, and then let's slowly build the world they belong to.
 
-> **وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ فَٱخْتُلِفَ فِيهِ ۚ وَلَوْلَا كَلِمَةٌ سَبَقَتْ مِن رَّبِّكَ لَقُضِىَ بَيْنَهُمْ ۚ وَإِنَّهُمْ لَفِى شَكٍّ مِّنْهُ مُرِيبٍ**
+> [ayah:41:45] وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ فَٱخْتُلِفَ فِيهِ ۗ وَلَوْلَا كَلِمَةٌ سَبَقَتْ مِن رَّبِّكَ لَقُضِىَ بَيْنَهُمْ ۚ وَإِنَّهُمْ لَفِى شَكٍّ مِّنْهُ مُرِيبٍ
 
 *Wa laqad ātaynā Mūsā al-kitāba fa-khtulifa fīh. Wa lawlā kalimatun sabaqat min rabbika la-quḍiya baynahum. Wa innahum la-fī shakkin minhu murīb.*
 

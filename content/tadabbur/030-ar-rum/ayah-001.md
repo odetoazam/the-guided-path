@@ -33,7 +33,7 @@ related_ayahs: ["30:2", "30:3", "30:4", "30:5", "2:1", "3:1", "29:1", "31:1", "3
 ### The Ayah
 
 **Arabic:**
-الٓمٓ
+[ayah:30:1] الٓمٓ
 
 **Transliteration:**
 *Alif. Lām. Mīm.*

@@ -28,7 +28,7 @@ related_ayahs: ["2:42", "2:146", "2:159", "3:70", "7:26", "2:187"]
 
 Let me give you the verse first, and then let me give you the world it was spoken into.
 
-**يَـٰٓأَهْلَ ٱلْكِتَـٰبِ لِمَ تَلْبِسُونَ ٱلْحَقَّ بِٱلْبَـٰطِلِ وَتَكْتُمُونَ ٱلْحَقَّ وَأَنتُمْ تَعْلَمُونَ**
+[ayah:3:71] يَـٰٓأَهْلَ ٱلْكِتَـٰبِ لِمَ تَلْبِسُونَ ٱلْحَقَّ بِٱلْبَـٰطِلِ وَتَكْتُمُونَ ٱلْحَقَّ وَأَنتُمْ تَعْلَمُونَ
 
 *Yā ahla-l-kitābi lima talbisūna-l-ḥaqqa bi-l-bāṭili wa-taktumūna-l-ḥaqqa wa-antum taʿlamūn.*
 

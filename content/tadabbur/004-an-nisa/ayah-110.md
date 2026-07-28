@@ -28,7 +28,7 @@ related_ayahs: ["39:53", "4:64", "3:135", "4:48", "20:82"]
 
 Let me first give you the words, and then I want to take you back to the room they were revealed into.
 
-> وَمَن يَعْمَلْ سُوٓءًا أَوْ يَظْلِمْ نَفْسَهُۥ ثُمَّ يَسْتَغْفِرِ ٱللَّهَ يَجِدِ ٱللَّهَ غَفُورًا رَّحِيمًا
+> [ayah:4:110] وَمَن يَعْمَلْ سُوٓءًا أَوْ يَظْلِمْ نَفْسَهُۥ ثُمَّ يَسْتَغْفِرِ ٱللَّهَ يَجِدِ ٱللَّهَ غَفُورًا رَّحِيمًا
 
 *Wa man yaʿmal sūʾan aw yaẓlim nafsahu thumma yastaghfir Allāha yajid Allāha ghafūran raḥīmā.*
 

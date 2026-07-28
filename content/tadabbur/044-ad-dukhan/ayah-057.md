@@ -28,7 +28,7 @@ related_ayahs: ["3:185", "9:72", "57:21", "35:32", "53:31", "24:38", "2:105"]
 
 Let me read it to you first. Seven words. In Arabic, it is almost nothing on the tongue:
 
-> **فَضْلًۭا مِّن رَّبِّكَ ۚ ذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ**
+> [ayah:44:57] فَضْلًا مِّن رَّبِّكَ ۚ ذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ
 
 *Faḍlan min rabbik. Dhālika huwa al-fawzu al-ʿaẓīm.*
 

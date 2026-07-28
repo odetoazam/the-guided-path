@@ -26,7 +26,7 @@ related_ayahs: ["21:22", "17:42", "6:101", "112:1-4"]
 
 ## Surah Al-Mu'minun, Ayah 91
 
-> مَا اتَّخَذَ ٱللَّهُ مِن وَلَدٍۢ وَمَا كَانَ مَعَهُۥ مِنْ إِلَـٰهٍ ۚ إِذًۭا لَّذَهَبَ كُلُّ إِلَـٰهٍۭ بِمَا خَلَقَ وَلَعَلَا بَعْضُهُمْ عَلَىٰ بَعْضٍۢ ۚ سُبْحَـٰنَ ٱللَّهِ عَمَّا يَصِفُونَ
+> [ayah:23:91] مَا ٱتَّخَذَ ٱللَّهُ مِن وَلَدٍ وَمَا كَانَ مَعَهُۥ مِنْ إِلَـٰهٍ ۚ إِذًا لَّذَهَبَ كُلُّ إِلَـٰهٍۭ بِمَا خَلَقَ وَلَعَلَا بَعْضُهُمْ عَلَىٰ بَعْضٍ ۚ سُبْحَـٰنَ ٱللَّهِ عَمَّا يَصِفُونَ
 
 *"Allah has not taken any son, nor has there ever been with Him any deity. Had there been, each deity would have taken away what it created, and some of them would have risen over others. Exalted is Allah above what they describe."*
 

@@ -25,7 +25,7 @@ related_ayahs: ["72:13", "114:1", "113:1", "10:26", "70:44", "18:80", "3:173", "
 # The Shelter That Increased the Storm
 ### A Tadabbur of Sūrat al-Jinn, Ayah 6
 
-> **وَأَنَّهُۥ كَانَ رِجَالٌۭ مِّنَ ٱلْإِنسِ يَعُوذُونَ بِرِجَالٍۢ مِّنَ ٱلْجِنِّ فَزَادُوهُمْ رَهَقًۭا**
+> [ayah:72:6] وَأَنَّهُۥ كَانَ رِجَالٌ مِّنَ ٱلْإِنسِ يَعُوذُونَ بِرِجَالٍ مِّنَ ٱلْجِنِّ فَزَادُوهُمْ رَهَقًا
 >
 > *wa-annahu kāna rijālun mina-l-insi yaʿūdhūna bi-rijālin mina-l-jinni fa-zādūhum rahaqā*
 >

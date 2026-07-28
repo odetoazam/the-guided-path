@@ -30,7 +30,7 @@ Let me give you the verse first, three ways.
 
 In Arabic:
 
-> **قُلْ تَرَبَّصُوا۟ فَإِنِّى مَعَكُم مِّنَ ٱلْمُتَرَبِّصِينَ**
+> [ayah:52:31] قُلْ تَرَبَّصُوا۟ فَإِنِّى مَعَكُم مِّنَ ٱلْمُتَرَبِّصِينَ
 
 In transliteration:
 

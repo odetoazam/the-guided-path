@@ -28,7 +28,7 @@ related_ayahs: ["39:16", "29:58", "25:75", "3:9", "13:31", "34:37"]
 
 Let me begin by reading the words slowly, the way you would walk into a room you have never seen before.
 
-> لَـٰكِنِ ٱلَّذِينَ ٱتَّقَوْا۟ رَبَّهُمْ لَهُمْ غُرَفٌ مِّن فَوْقِهَا غُرَفٌ مَّبْنِيَّةٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ۖ وَعْدَ ٱللَّهِ ۖ لَا يُخْلِفُ ٱللَّهُ ٱلْمِيعَادَ
+> [ayah:39:20] لَـٰكِنِ ٱلَّذِينَ ٱتَّقَوْا۟ رَبَّهُمْ لَهُمْ غُرَفٌ مِّن فَوْقِهَا غُرَفٌ مَّبْنِيَّةٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ۖ وَعْدَ ٱللَّهِ ۖ لَا يُخْلِفُ ٱللَّهُ ٱلْمِيعَادَ
 
 *Lākini-lladhīna-ttaqaw rabbahum lahum ghurafun min fawqihā ghurafun mabniyyah, tajrī min taḥtihā-l-anhār. Waʿda-llāh. Lā yukhlifu-llāhu-l-mīʿād.*
 

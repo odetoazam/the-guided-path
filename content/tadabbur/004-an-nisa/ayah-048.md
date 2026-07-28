@@ -28,7 +28,7 @@ related_ayahs: ["4:116", "39:53", "31:13", "25:68", "25:70", "39:65"]
 
 Let me give you the words first, and then let me give you the world they fell into.
 
-> إِنَّ ٱللَّهَ لَا يَغْفِرُ أَن يُشْرَكَ بِهِۦ وَيَغْفِرُ مَا دُونَ ذَٰلِكَ لِمَن يَشَآءُ ۚ وَمَن يُشْرِكْ بِٱللَّهِ فَقَدِ ٱفْتَرَىٰٓ إِثْمًا عَظِيمًا
+> [ayah:4:48] إِنَّ ٱللَّهَ لَا يَغْفِرُ أَن يُشْرَكَ بِهِۦ وَيَغْفِرُ مَا دُونَ ذَٰلِكَ لِمَن يَشَآءُ ۚ وَمَن يُشْرِكْ بِٱللَّهِ فَقَدِ ٱفْتَرَىٰٓ إِثْمًا عَظِيمًا
 
 *Inna-llāha lā yaghfiru an yushraka bihī wa yaghfiru mā dūna dhālika liman yashāʾ. Wa man yushrik bi-llāhi faqadi-ftarā ithman ʿaẓīmā.*
 

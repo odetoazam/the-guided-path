@@ -40,7 +40,7 @@ It is *to that heart* that our ayah speaks. And it does not lecture it. It asks 
 
 Here is the ayah:
 
-> **فَهَلْ يَنظُرُونَ إِلَّا ٱلسَّاعَةَ أَن تَأْتِيَهُم بَغْتَةً ۖ فَقَدْ جَآءَ أَشْرَاطُهَا ۚ فَأَنَّىٰ لَهُمْ إِذَا جَآءَتْهُمْ ذِكْرَىٰهُمْ**
+> [ayah:47:18] فَهَلْ يَنظُرُونَ إِلَّا ٱلسَّاعَةَ أَن تَأْتِيَهُم بَغْتَةً ۖ فَقَدْ جَآءَ أَشْرَاطُهَا ۚ فَأَنَّىٰ لَهُمْ إِذَا جَآءَتْهُمْ ذِكْرَىٰهُمْ
 
 > *Fahal yanẓurūna illā s-sāʿata an taʾtiyahum baghtatan — faqad jāʾa ashrāṭuhā — faʾannā lahum idhā jāʾathum dhikrāhum.*
 

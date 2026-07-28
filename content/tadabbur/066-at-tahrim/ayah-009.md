@@ -28,7 +28,7 @@ related_ayahs: ["9:73", "3:159", "9:67", "4:145", "18:10", "66:11", "66:12"]
 
 Let me give you the verse first. Sit with the sound of it before we touch a single meaning.
 
-> **يَـٰٓأَيُّهَا ٱلنَّبِىُّ جَـٰهِدِ ٱلْكُفَّارَ وَٱلْمُنَـٰفِقِينَ وَٱغْلُظْ عَلَيْهِمْ ۚ وَمَأْوَىٰهُمْ جَهَنَّمُ ۖ وَبِئْسَ ٱلْمَصِيرُ**
+> [ayah:66:9] يَـٰٓأَيُّهَا ٱلنَّبِىُّ جَـٰهِدِ ٱلْكُفَّارَ وَٱلْمُنَـٰفِقِينَ وَٱغْلُظْ عَلَيْهِمْ ۚ وَمَأْوَىٰهُمْ جَهَنَّمُ ۖ وَبِئْسَ ٱلْمَصِيرُ
 
 *Yā ayyuhā an-nabiyyu jāhid il-kuffāra wal-munāfiqīna waghluẓ ʿalayhim, wa maʾwāhum jahannamu wa biʾsa al-maṣīr.*
 

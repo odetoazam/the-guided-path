@@ -27,7 +27,7 @@ tags: [aal-imran, rasikhun, dua, gathering, certainty, doubt, promise, miad, ilt
 
 # The Prayer That Did Not Finish
 
-> <!-- ayah:3:9 --> رَبَّنَآ إِنَّكَ جَامِعُ ٱلنَّاسِ لِيَوْمٍ لَّا رَيْبَ فِيهِ ۚ إِنَّ ٱللَّهَ لَا يُخْلِفُ ٱلْمِيعَادَ
+> [ayah:3:9] رَبَّنَآ إِنَّكَ جَامِعُ ٱلنَّاسِ لِيَوْمٍ لَّا رَيْبَ فِيهِ ۚ إِنَّ ٱللَّهَ لَا يُخْلِفُ ٱلْمِيعَادَ
 
 *Rabbanā innaka jāmiʿu-n-nāsi li-yawmin lā rayba fīh — inna-llāha lā yukhlifu-l-mīʿād.*
 

@@ -25,7 +25,7 @@ related_ayahs: ["106:1", "106:2", "106:3", "2:126", "14:37", "16:112", "2:155"]
 # The Two Hungers
 ### A Reflection on Surah Quraysh, Verse 4
 
-> ٱلَّذِىٓ أَطْعَمَهُم مِّن جُوعٍ وَءَامَنَهُم مِّنْ خَوْفٍۭ
+> [ayah:106:4] ٱلَّذِىٓ أَطْعَمَهُم مِّن جُوعٍ وَءَامَنَهُم مِّنْ خَوْفٍۭ
 >
 > *alladhī aṭʿamahum min jūʿin wa-āmanahum min khawf*
 >

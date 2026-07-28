@@ -58,7 +58,7 @@ A list. Nation after nation. Each one named. Each one marked with a single word 
 
 We are in that list now. We have reached ayah 13.
 
-**وَعَادٌ وَفِرْعَوْنُ وَإِخْوَٰنُ لُوطٍ**
+[ayah:50:13] وَعَادٌ وَفِرْعَوْنُ وَإِخْوَٰنُ لُوطٍ
 
 *And ʿĀd. And Pharaoh. And the brothers of Lot.*
 

@@ -28,7 +28,7 @@ related_ayahs: ["80:34", "80:37", "31:33", "70:11", "70:12", "70:14", "23:101", 
 
 Let me give you the words first, and then let me give you the world.
 
-> **وَلَا يَسْـَٔلُ حَمِيمٌ حَمِيمًا**
+> [ayah:70:10] وَلَا يَسْـَٔلُ حَمِيمٌ حَمِيمًا
 >
 > *wa lā yasʾalu ḥamīmun ḥamīmā*
 >

@@ -28,7 +28,7 @@ related_ayahs: ["34:5", "22:51", "10:53", "29:22", "72:12"]
 
 Listen to these words first. Let the sound land before the meaning does.
 
-**وَٱلَّذِينَ يَسْعَوْنَ فِىٓ ءَايَـٰتِنَا مُعَـٰجِزِينَ أُوْلَـٰٓئِكَ فِى ٱلْعَذَابِ مُحْضَرُونَ**
+[ayah:34:38] وَٱلَّذِينَ يَسْعَوْنَ فِىٓ ءَايَـٰتِنَا مُعَـٰجِزِينَ أُو۟لَـٰٓئِكَ فِى ٱلْعَذَابِ مُحْضَرُونَ
 
 *Walladhīna yasʿawna fī āyātinā muʿājizīna ulā'ika fī al-ʿadhābi muḥḍarūn.*
 

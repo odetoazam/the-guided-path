@@ -43,7 +43,7 @@ He gives a pair of ayahs about the position of the heart.
 **33:41**: *يَا أَيُّهَا الَّذِينَ آمَنُوا اذْكُرُوا اللَّهَ ذِكْرًا كَثِيرًا*
 "O you who believe — remember Allah with abundant remembrance."
 
-**33:42**: *وَسَبِّحُوهُ بُكْرَةً وَأَصِيلاً*
+[ayah:33:42] وَسَبِّحُوهُ بُكْرَةً وَأَصِيلًا
 "And glorify Him — morning and evening."
 
 Six words. Twenty-three letters. A command so compact it can be memorized in a single breath.

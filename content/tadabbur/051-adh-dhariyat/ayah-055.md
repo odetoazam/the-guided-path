@@ -25,7 +25,7 @@ related_ayahs: ["51:50", "51:54", "51:56", "7:172", "87:9", "88:21", "50:45", "6
 # The Reminder That Only Wakes What Is Already There
 ## Surah Adh-Dhariyat, Ayah 55
 
-> وَذَكِّرْ فَإِنَّ ٱلذِّكْرَىٰ تَنفَعُ ٱلْمُؤْمِنِينَ
+> [ayah:51:55] وَذَكِّرْ فَإِنَّ ٱلذِّكْرَىٰ تَنفَعُ ٱلْمُؤْمِنِينَ
 >
 > *Wa dhakkir fa-inna-dh-dhikrā tanfaʿu-l-muʾminīn*
 >

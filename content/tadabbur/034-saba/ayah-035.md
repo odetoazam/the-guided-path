@@ -50,7 +50,7 @@ related_ayahs:
 ## The Ayah
 
 **Arabic:**
-وَقَالُوا۟ نَحْنُ أَكْثَرُ أَمْوَٰلًا وَأَوْلَـٰدًا وَمَا نَحْنُ بِمُعَذَّبِينَ
+[ayah:34:35] وَقَالُوا۟ نَحْنُ أَكْثَرُ أَمْوَٰلًا وَأَوْلَـٰدًا وَمَا نَحْنُ بِمُعَذَّبِينَ
 
 **Transliteration:**
 Wa qālū naḥnu aktharu amwālan wa awlādan wa mā naḥnu bi-muʿadhdhabīn

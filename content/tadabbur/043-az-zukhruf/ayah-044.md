@@ -49,7 +49,7 @@ And then, in the verse just before ours, Allah turns to His Prophet ﷺ and says
 
 Hold fast. Grip it. And then — our ayah — He tells him *why* this thing in his hands is worth gripping:
 
-> **وَإِنَّهُۥ لَذِكْرٌ لَّكَ وَلِقَوْمِكَ ۖ وَسَوْفَ تُسْـَٔلُونَ**
+> [ayah:43:44] وَإِنَّهُۥ لَذِكْرٌ لَّكَ وَلِقَوْمِكَ ۖ وَسَوْفَ تُسْـَٔلُونَ
 
 > *wa-innahu la-dhikrun laka wa-li-qawmika, wa-sawfa tus'alūn*
 

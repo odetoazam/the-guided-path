@@ -31,7 +31,7 @@ related_ayahs: ["6:34", "3:184", "6:33", "35:25", "40:5", "16:127", "11:49", "6:
 
 Let me read you the ayah first, and then I want us to slow all the way down.
 
-> **وَإِن يُكَذِّبُوكَ فَقَدْ كُذِّبَتْ رُسُلٌ مِّن قَبْلِكَ ۚ وَإِلَى ٱللَّهِ تُرْجَعُ ٱلْأُمُورُ**
+> [ayah:35:4] وَإِن يُكَذِّبُوكَ فَقَدْ كُذِّبَتْ رُسُلٌ مِّن قَبْلِكَ ۚ وَإِلَى ٱللَّهِ تُرْجَعُ ٱلْأُمُورُ
 
 > *Wa in yukadhdhibūka faqad kudhdhibat rusulun min qablik. Wa ila-llāhi turjaʿu-l-umūr.*
 

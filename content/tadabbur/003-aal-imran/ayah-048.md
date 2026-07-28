@@ -32,7 +32,7 @@ Let me give you the verse three times, so it can begin to settle.
 
 In Arabic:
 
-> **وَيُعَلِّمُهُ ٱلْكِتَٰبَ وَٱلْحِكْمَةَ وَٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ**
+> [ayah:3:48] وَيُعَلِّمُهُ ٱلْكِتَـٰبَ وَٱلْحِكْمَةَ وَٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ
 
 In transliteration:
 

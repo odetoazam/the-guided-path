@@ -28,7 +28,7 @@ related_ayahs: ["4:56", "17:97", "78:27", "32:14", "54:48"]
 
 Let me give you the verse first. Hold it gently, because it is heavier than it looks.
 
-> **فَذُوقُوا فَلَن نَّزِيدَكُمْ إِلَّا عَذَابًا**
+> [ayah:78:30] فَذُوقُوا۟ فَلَن نَّزِيدَكُمْ إِلَّا عَذَابًا
 >
 > *Fa-dhūqū fa-lan nazīdakum illā ʿadhāba.*
 >

@@ -49,7 +49,7 @@ And then comes verse sixty-two.
 
 Four words. Four words only:
 
-**وَمِن دُونِهِمَا جَنَّتَانِ**
+[ayah:55:62] وَمِن دُونِهِمَا جَنَّتَانِ
 
 *"And below those two — two more gardens."*
 

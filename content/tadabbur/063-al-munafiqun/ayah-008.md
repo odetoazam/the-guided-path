@@ -28,7 +28,7 @@ related_ayahs: ["4:139", "35:10", "10:65", "3:26", "63:5"]
 
 Let me give you the words first. In Arabic, in sound, in plain English — and then let me build the world they fell into.
 
-> **يَقُولُونَ لَئِن رَّجَعْنَآ إِلَى ٱلْمَدِينَةِ لَيُخْرِجَنَّ ٱلْأَعَزُّ مِنْهَا ٱلْأَذَلَّ ۚ وَلِلَّهِ ٱلْعِزَّةُ وَلِرَسُولِهِۦ وَلِلْمُؤْمِنِينَ وَلَـٰكِنَّ ٱلْمُنَـٰفِقِينَ لَا يَعْلَمُونَ**
+> [ayah:63:8] يَقُولُونَ لَئِن رَّجَعْنَآ إِلَى ٱلْمَدِينَةِ لَيُخْرِجَنَّ ٱلْأَعَزُّ مِنْهَا ٱلْأَذَلَّ ۚ وَلِلَّهِ ٱلْعِزَّةُ وَلِرَسُولِهِۦ وَلِلْمُؤْمِنِينَ وَلَـٰكِنَّ ٱلْمُنَـٰفِقِينَ لَا يَعْلَمُونَ
 
 *Yaqūlūna la-in rajaʿnā ilā l-madīnati la-yukhrijanna l-aʿazzu minhā l-adhall. Wa lillāhi l-ʿizzatu wa li-rasūlihi wa lil-muʾminīn, wa lākinna l-munāfiqīna lā yaʿlamūn.*
 

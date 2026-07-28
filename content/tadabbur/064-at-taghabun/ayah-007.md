@@ -28,7 +28,7 @@ related_ayahs: ["34:3", "10:53", "75:3", "36:78", "19:77", "64:9"]
 
 Let me give you the verse first. Sit with the Arabic before we touch a single word of it.
 
-**زَعَمَ ٱلَّذِينَ كَفَرُوٓاْ أَن لَّن يُبْعَثُوٓاْ ۚ قُلْ بَلَىٰ وَرَبِّى لَتُبْعَثُنَّ ثُمَّ لَتُنَبَّؤُنَّ بِمَا عَمِلْتُمْ ۚ وَذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٌ**
+[ayah:64:7] زَعَمَ ٱلَّذِينَ كَفَرُوٓا۟ أَن لَّن يُبْعَثُوا۟ ۚ قُلْ بَلَىٰ وَرَبِّى لَتُبْعَثُنَّ ثُمَّ لَتُنَبَّؤُنَّ بِمَا عَمِلْتُمْ ۚ وَذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٌ
 
 *Zaʿama-lladhīna kafarū an lan yubʿathū. Qul balā wa-Rabbī latubʿathunna thumma latunabba'unna bimā ʿamiltum. Wa-dhālika ʿala-llāhi yasīr.*
 

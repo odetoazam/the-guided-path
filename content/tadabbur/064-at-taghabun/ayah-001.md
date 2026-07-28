@@ -28,7 +28,7 @@ related_ayahs: ["17:44", "57:1", "59:1", "61:1", "62:1", "87:1", "59:24"]
 
 Let me give you the verse first. Sit with the sound of it before we touch a single meaning.
 
-> **يُسَبِّحُ لِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ‌ۖ لَهُ ٱلْمُلْكُ وَلَهُ ٱلْحَمْدُ‌ۖ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ**
+> [ayah:64:1] يُسَبِّحُ لِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۖ لَهُ ٱلْمُلْكُ وَلَهُ ٱلْحَمْدُ ۖ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
 
 *Yusabbiḥu lillāhi mā fī as-samāwāti wa mā fī al-arḍ. Lahu al-mulku wa lahu al-ḥamd. Wa huwa ʿalā kulli shay'in qadīr.*
 

@@ -28,7 +28,7 @@ related_ayahs: ["2:255", "20:111", "40:65", "2:163", "25:58"]
 
 Let me give you the words first. In Arabic:
 
-**ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ**
+[ayah:3:2] ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ
 
 *Allāhu lā ilāha illā huwa, al-Ḥayyu al-Qayyūm.*
 

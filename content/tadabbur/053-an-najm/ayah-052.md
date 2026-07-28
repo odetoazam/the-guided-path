@@ -24,7 +24,7 @@ related_ayahs: ["29:14", "71:5", "71:26", "54:9", "11:32", "7:59"]
 
 # The First and the Worst: Why the People of Nuh Were Named Last
 
-> وَقَوْمَ نُوحٍ مِّن قَبْلُ ۖ إِنَّهُمْ كَانُوا هُمْ أَظْلَمَ وَأَطْغَىٰ
+> [ayah:53:52] وَقَوْمَ نُوحٍ مِّن قَبْلُ ۖ إِنَّهُمْ كَانُوا۟ هُمْ أَظْلَمَ وَأَطْغَىٰ
 >
 > *wa-qawma Nūḥin min qablu — innahum kānū hum aẓlama wa-aṭghā*
 >

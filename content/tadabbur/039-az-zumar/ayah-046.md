@@ -28,7 +28,7 @@ related_ayahs: ["39:45", "39:3", "6:73", "59:22", "42:10", "16:124", "2:213"]
 
 Let me read it to you first, slowly, the way you would say it in the dark, alone, when the house is asleep.
 
-> قُلِ ٱللَّهُمَّ فَاطِرَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ عَٰلِمَ ٱلْغَيْبِ وَٱلشَّهَٰدَةِ أَنتَ تَحْكُمُ بَيْنَ عِبَادِكَ فِى مَا كَانُوا۟ فِيهِ يَخْتَلِفُونَ
+> [ayah:39:46] قُلِ ٱللَّهُمَّ فَاطِرَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ عَـٰلِمَ ٱلْغَيْبِ وَٱلشَّهَـٰدَةِ أَنتَ تَحْكُمُ بَيْنَ عِبَادِكَ فِى مَا كَانُوا۟ فِيهِ يَخْتَلِفُونَ
 
 *Quli-llāhumma fāṭira-s-samāwāti wa-l-arḍ, ʿālima-l-ghaybi wa-sh-shahādah, anta taḥkumu bayna ʿibādika fī mā kānū fīhi yakhtalifūn.*
 

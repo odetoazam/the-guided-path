@@ -28,7 +28,7 @@ related_ayahs: ["50:11", "50:3", "50:41", "36:53", "79:13-14", "80:33"]
 
 Let me put the words in front of you first. Sit with them before we do anything else.
 
-> يَوْمَ يَسْمَعُونَ ٱلصَّيْحَةَ بِٱلْحَقِّ ۚ ذَٰلِكَ يَوْمُ ٱلْخُرُوجِ
+> [ayah:50:42] يَوْمَ يَسْمَعُونَ ٱلصَّيْحَةَ بِٱلْحَقِّ ۚ ذَٰلِكَ يَوْمُ ٱلْخُرُوجِ
 >
 > *Yawma yasmaʿūna-ṣ-ṣayḥata bil-ḥaqq. Dhālika yawmu-l-khurūj.*
 >

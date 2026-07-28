@@ -25,7 +25,7 @@ related_ayahs: ["36:8", "36:10", "2:7", "7:179", "6:25", "47:24"]
 # The Two Walls and the Veil
 ### A Reflection on Surah Ya-Sin, Ayah 9
 
-> **وَجَعَلْنَا مِنۢ بَيْنِ أَيْدِيهِمْ سَدًّا وَمِنْ خَلْفِهِمْ سَدًّا فَأَغْشَيْنَـٰهُمْ فَهُمْ لَا يُبْصِرُونَ**
+> [ayah:36:9] وَجَعَلْنَا مِنۢ بَيْنِ أَيْدِيهِمْ سَدًّا وَمِنْ خَلْفِهِمْ سَدًّا فَأَغْشَيْنَـٰهُمْ فَهُمْ لَا يُبْصِرُونَ
 >
 > *Wa jaʿalnā min bayni aydīhim saddan wa min khalfihim saddan fa-aghshaynāhum fahum lā yubṣirūn.*
 >

@@ -24,7 +24,7 @@ related_ayahs: ["35:28", "50:33", "36:11", "67:13", "21:49", "55:46"]
 
 # Reverence in the Dark: The Faith No Eye Can See
 
-> إِنَّ ٱلَّذِينَ يَخْشَوْنَ رَبَّهُم بِٱلْغَيْبِ لَهُم مَّغْفِرَةٌ وَأَجْرٌ كَبِيرٌ
+> [ayah:67:12] إِنَّ ٱلَّذِينَ يَخْشَوْنَ رَبَّهُم بِٱلْغَيْبِ لَهُم مَّغْفِرَةٌ وَأَجْرٌ كَبِيرٌ
 >
 > *Inna alladhīna yakhshawna rabbahum bil-ghaybi lahum maghfiratun wa-ajrun kabīr*
 >

@@ -28,7 +28,7 @@ related_ayahs: ["56:95", "69:52", "87:1", "50:40", "110:3"]
 
 Let me give you the ayah first. Sit with the sound of it before we touch a single meaning.
 
-**فَسَبِّحْ بِٱسْمِ رَبِّكَ ٱلْعَظِيمِ**
+[ayah:56:96] فَسَبِّحْ بِٱسْمِ رَبِّكَ ٱلْعَظِيمِ
 
 *Fa-sabbiḥ bismi Rabbika-l-ʿAẓīm.*
 

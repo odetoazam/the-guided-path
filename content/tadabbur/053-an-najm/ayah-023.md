@@ -28,7 +28,7 @@ related_ayahs: ["2:31", "12:40", "7:71", "45:23", "101:9", "53:19", "6:148"]
 
 Let me begin by placing the words before us — first in Arabic, then in sound, then in a plain English you can hold.
 
-> إِنْ هِيَ إِلَّآ أَسْمَآءٌ سَمَّيْتُمُوهَآ أَنتُمْ وَءَابَآؤُكُم مَّآ أَنزَلَ ٱللَّهُ بِهَا مِن سُلْطَٰنٍ ۚ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَمَا تَهْوَى ٱلْأَنفُسُ ۖ وَلَقَدْ جَآءَهُم مِّن رَّبِّهِمُ ٱلْهُدَىٰ
+> [ayah:53:23] إِنْ هِىَ إِلَّآ أَسْمَآءٌ سَمَّيْتُمُوهَآ أَنتُمْ وَءَابَآؤُكُم مَّآ أَنزَلَ ٱللَّهُ بِهَا مِن سُلْطَـٰنٍ ۚ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَمَا تَهْوَى ٱلْأَنفُسُ ۖ وَلَقَدْ جَآءَهُم مِّن رَّبِّهِمُ ٱلْهُدَىٰٓ
 
 *In hiya illā asmāʾun sammaytumūhā antum wa-ābāʾukum, mā anzala-llāhu bihā min sulṭān. In yattabiʿūna illā-ẓ-ẓanna wa-mā tahwā-l-anfus, wa-laqad jāʾahum min rabbihimu-l-hudā.*
 

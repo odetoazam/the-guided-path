@@ -32,7 +32,7 @@ related_ayahs: ["47:1", "47:32", "47:33", "47:35", "4:48", "4:18", "39:53", "3:9
 
 Let me place the words in front of you before we say anything about them.
 
-> إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ ثُمَّ مَاتُوا۟ وَهُمْ كُفَّارٌ فَلَن يَغْفِرَ ٱللَّهُ لَهُمْ
+> [ayah:47:34] إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ ثُمَّ مَاتُوا۟ وَهُمْ كُفَّارٌ فَلَن يَغْفِرَ ٱللَّهُ لَهُمْ
 
 *Inna alladhīna kafarū wa-ṣaddū ʿan sabīli-llāhi thumma mātū wa-hum kuffārun fa-lan yaghfira-llāhu lahum.*
 

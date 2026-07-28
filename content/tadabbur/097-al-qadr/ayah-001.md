@@ -30,7 +30,7 @@ Let me give you the verse three times, so it can settle.
 
 In Arabic:
 
-**إِنَّآ أَنزَلْنَٰهُ فِى لَيْلَةِ ٱلْقَدْرِ**
+[ayah:97:1] إِنَّآ أَنزَلْنَـٰهُ فِى لَيْلَةِ ٱلْقَدْرِ
 
 In transliteration:
 

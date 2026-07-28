@@ -30,7 +30,7 @@ Let me put you somewhere first. Before the ayah, the room.
 
 * Recitation:*
 
-> **ذَٰلِكَ مِنْ أَنۢبَآءِ ٱلْغَيْبِ نُوحِيهِ إِلَيْكَ ۚ وَمَا كُنتَ لَدَيْهِمْ إِذْ يُلْقُونَ أَقْلَٰمَهُمْ أَيُّهُمْ يَكْفُلُ مَرْيَمَ وَمَا كُنتَ لَدَيْهِمْ إِذْ يَخْتَصِمُونَ**
+> [ayah:3:44] ذَٰلِكَ مِنْ أَنۢبَآءِ ٱلْغَيْبِ نُوحِيهِ إِلَيْكَ ۚ وَمَا كُنتَ لَدَيْهِمْ إِذْ يُلْقُونَ أَقْلَـٰمَهُمْ أَيُّهُمْ يَكْفُلُ مَرْيَمَ وَمَا كُنتَ لَدَيْهِمْ إِذْ يَخْتَصِمُونَ
 
 > *Dhālika min anbāʾi-l-ghaybi nūḥīhi ilayk. Wa mā kunta ladayhim idh yulqūna aqlāmahum, ayyuhum yakfulu Maryam, wa mā kunta ladayhim idh yakhtaṣimūn.*
 

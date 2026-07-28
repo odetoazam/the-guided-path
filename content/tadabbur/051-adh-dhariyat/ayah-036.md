@@ -28,7 +28,7 @@ related_ayahs: ["51:35", "11:81", "66:10", "29:32", "7:83"]
 
 Let me give you the words first. In Arabic:
 
-**فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍ مِّنَ ٱلْمُسْلِمِينَ**
+[ayah:51:36] فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍ مِّنَ ٱلْمُسْلِمِينَ
 
 *Fa-mā wajadnā fīhā ghayra baytin mina-l-muslimīn.*
 

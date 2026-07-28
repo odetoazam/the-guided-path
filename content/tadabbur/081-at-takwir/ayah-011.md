@@ -46,7 +46,7 @@ You doubt many things. You doubt whether you locked the door. You doubt whether 
 
 Now hear how Allah describes the end of all things — not in some abstract theological language, but in four Arabic words that take the most settled fact you own and do something to it that the Arabs only ever said about the carcass of a slaughtered animal.
 
-**وَإِذَا ٱلسَّمَآءُ كُشِطَتْ**
+[ayah:81:11] وَإِذَا ٱلسَّمَآءُ كُشِطَتْ
 
 *"And when the sky is flayed."*
 

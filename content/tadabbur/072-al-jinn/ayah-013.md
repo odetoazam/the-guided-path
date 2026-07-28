@@ -42,7 +42,7 @@ Let's go and stand where they were standing.
 
 Listen first to the words themselves.
 
-**وَأَنَّا لَمَّا سَمِعْنَا ٱلْهُدَىٰ ءَامَنَّا بِهِۦ ۖ فَمَن يُؤْمِنۢ بِرَبِّهِۦ فَلَا يَخَافُ بَخْسًا وَلَا رَهَقًا**
+[ayah:72:13] وَأَنَّا لَمَّا سَمِعْنَا ٱلْهُدَىٰٓ ءَامَنَّا بِهِۦ ۖ فَمَن يُؤْمِنۢ بِرَبِّهِۦ فَلَا يَخَافُ بَخْسًا وَلَا رَهَقًا
 
 *Wa annā lammā samiʿnā l-hudā āmannā bihi, fa man yuʾmin bi-rabbihi fa-lā yakhāfu bakhsan wa-lā rahaqā.*
 

@@ -16,7 +16,7 @@ ayah_end: 34
 title: "Woe Without a Name: The Refrain That Counts Every Denial"
 slug: "077-034"
 category: tadabbur
-arabic: "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ"
+[ayah:77:34] وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ
 translation: "Woe, that Day, to the deniers."
 word_count: 3
 estimated_duration: "48-56 minutes"

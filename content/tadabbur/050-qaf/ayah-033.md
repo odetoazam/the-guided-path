@@ -28,7 +28,7 @@ related_ayahs: ["50:3", "50:16", "50:31", "50:32", "50:37", "26:89", "35:28", "6
 
 Let me give you the words first. Sit with the sound of them before we touch the meaning.
 
-> **مَّنْ خَشِىَ ٱلرَّحْمَـٰنَ بِٱلْغَيْبِ وَجَآءَ بِقَلْبٍ مُّنِيبٍ**
+> [ayah:50:33] مَّنْ خَشِىَ ٱلرَّحْمَـٰنَ بِٱلْغَيْبِ وَجَآءَ بِقَلْبٍ مُّنِيبٍ
 >
 > *Man khashiya-r-Raḥmāna bil-ghayb, wa jāʾa bi-qalbin munīb.*
 >

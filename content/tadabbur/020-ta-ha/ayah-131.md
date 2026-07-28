@@ -26,7 +26,7 @@ related_ayahs: ["15:88", "18:28", "9:55", "63:9", "57:20", "3:14", "20:130", "20
 
 ## *Surah Ta-Ha, Ayah 131*
 
-> وَلَا تَمُدَّنَّ عَيْنَيْكَ إِلَىٰ مَا مَتَّعْنَا بِهِۦٓ أَزْوَٰجًۭا مِّنْهُمْ زَهْرَةَ ٱلْحَيَوٰةِ ٱلدُّنْيَا لِنَفْتِنَهُمْ فِيهِ ۚ وَرِزْقُ رَبِّكَ خَيْرٌۭ وَأَبْقَىٰ
+> [ayah:20:131] وَلَا تَمُدَّنَّ عَيْنَيْكَ إِلَىٰ مَا مَتَّعْنَا بِهِۦٓ أَزْوَٰجًا مِّنْهُمْ زَهْرَةَ ٱلْحَيَوٰةِ ٱلدُّنْيَا لِنَفْتِنَهُمْ فِيهِ ۚ وَرِزْقُ رَبِّكَ خَيْرٌ وَأَبْقَىٰ
 
 > *And do not stretch your eyes toward what We have given certain pairs among them to enjoy — the bloom of the life of this world, that We may test them through it. And the provision of your Lord is better and more enduring.*
 

@@ -24,7 +24,7 @@ related_ayahs: ["55:12", "101:5", "54:31", "3:137", "18:45"]
 
 # Like Eaten Chaff: When the Husk Mistook Itself for the Grain
 
-> **فَجَعَلَهُمْ كَعَصْفٍۢ مَّأْكُولٍۭ**
+> [ayah:105:5] فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍۭ
 >
 > *Fa-jaʿalahum ka-ʿaṣfin maʾkūl*
 >

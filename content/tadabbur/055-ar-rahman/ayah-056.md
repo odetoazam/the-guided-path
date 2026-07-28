@@ -45,7 +45,7 @@ tags:
 
 # The Restrained Gaze: Undivided Love in the Garden of the Merciful
 
-> <!-- ayah:55:56 -->     فِيهِنَّ قَـٰصِرَٰتُ ٱلطَّرْفِ لَمْ يَطْمِثْهُنَّ إِنسٌ قَبْلَهُمْ وَلَا جَآنٌّ
+> [ayah:55:56] فِيهِنَّ قَـٰصِرَٰتُ ٱلطَّرْفِ لَمْ يَطْمِثْهُنَّ إِنسٌ قَبْلَهُمْ وَلَا جَآنٌّ
 >
 > *Fīhinna qāṣirātu ṭ-ṭarfi lam yaṭmith-hunna insun qablahum wa lā jānn*
 >

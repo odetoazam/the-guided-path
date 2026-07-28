@@ -25,7 +25,7 @@ related_ayahs: ["6:59", "15:21", "17:100", "38:9", "88:22"]
 # The Keys You Do Not Hold
 ### A Reflection on Surah At-Tur, Ayah 37
 
-> أَمْ عِندَهُمْ خَزَآئِنُ رَبِّكَ أَمْ هُمُ ٱلْمُصَۣيْطِرُونَ
+> [ayah:52:37] أَمْ عِندَهُمْ خَزَآئِنُ رَبِّكَ أَمْ هُمُ ٱلْمُصَۣيْطِرُونَ
 >
 > *Am ʿindahum khazāʾinu rabbika am humu-l-muṣayṭirūn*
 >

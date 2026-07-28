@@ -25,7 +25,7 @@ related_ayahs: ["6:73", "13:9", "32:6", "39:46", "59:22", "62:8", "64:18", "23:9
 # The One Who Knows Both Halves
 ## Why Shirk Is a Failure of Knowledge
 
-> عَـٰلِمِ ٱلْغَيْبِ وَٱلشَّهَـٰدَةِ فَتَعَـٰلَىٰ عَمَّا يُشْرِكُونَ
+> [ayah:23:92] عَـٰلِمِ ٱلْغَيْبِ وَٱلشَّهَـٰدَةِ فَتَعَـٰلَىٰ عَمَّا يُشْرِكُونَ
 >
 > *ʿĀlimi-l-ghaybi wa-sh-shahādati fa-taʿālā ʿammā yushrikūn*
 >

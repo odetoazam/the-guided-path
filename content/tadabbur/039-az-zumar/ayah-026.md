@@ -30,7 +30,7 @@ related_ayahs: ["39:25", "32:21", "41:16", "2:114", "5:33", "16:26", "68:33"]
 
 Let me give you the ayah first. Hear it in Arabic, then in transliteration, then in a plain English that we will spend the next hour slowly outgrowing.
 
-> فَأَذَاقَهُمُ ٱللَّهُ ٱلْخِزْىَ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا ۖ وَلَعَذَابُ ٱلْءَاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ
+> [ayah:39:26] فَأَذَاقَهُمُ ٱللَّهُ ٱلْخِزْىَ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ
 
 *Fa-adhāqahumu-llāhu al-khizya fī-l-ḥayāti-d-dunyā, wa-la-ʿadhābu-l-ākhirati akbar, law kānū yaʿlamūn.*
 

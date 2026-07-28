@@ -28,7 +28,7 @@ related_ayahs: ["3:38", "3:39", "3:41", "19:8", "19:9", "21:90", "2:117", "3:47"
 
 Let me put the words in front of you first. Sit with them before we go anywhere.
 
-> قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَـٰمٌ وَقَدْ بَلَغَنِىَ ٱلْكِبَرُ وَٱمْرَأَتِى عَاقِرٌ ۖ قَالَ كَذَٰلِكَ ٱللَّهُ يَفْعَلُ مَا يَشَآءُ
+> [ayah:3:40] قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَـٰمٌ وَقَدْ بَلَغَنِىَ ٱلْكِبَرُ وَٱمْرَأَتِى عَاقِرٌ ۖ قَالَ كَذَٰلِكَ ٱللَّهُ يَفْعَلُ مَا يَشَآءُ
 
 *Qāla rabbi annā yakūnu lī ghulāmun wa qad balaghaniya-l-kibaru wa-mraʾatī ʿāqir. Qāla kadhālika-llāhu yafʿalu mā yashāʾ.*
 

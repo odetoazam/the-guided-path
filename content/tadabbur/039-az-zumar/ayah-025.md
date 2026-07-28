@@ -51,7 +51,7 @@ related_ayahs:
 ### The Ayah
 
 **Arabic:**
-كَذَّبَ ٱلَّذِينَ مِن قَبْلِهِمْ فَأَتَىٰهُمُ ٱلْعَذَابُ مِنْ حَيْثُ لَا يَشْعُرُونَ
+[ayah:39:25] كَذَّبَ ٱلَّذِينَ مِن قَبْلِهِمْ فَأَتَىٰهُمُ ٱلْعَذَابُ مِنْ حَيْثُ لَا يَشْعُرُونَ
 
 **Transliteration:**
 *Kadhdhaba alladhīna min qablihim fa-atāhumu al-ʿadhābu min ḥaythu lā yashʿurūn*

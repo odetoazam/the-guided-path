@@ -28,7 +28,7 @@ related_ayahs: ["28:45", "28:46", "11:49", "3:44", "12:102"]
 
 Let me read the ayah to you in Arabic first. Sit with the sound of it.
 
-> وَمَا كُنتَ بِجَانِبِ ٱلْغَرْبِىِّ إِذْ قَضَيْنَآ إِلَى مُوسَى ٱلْأَمْرَ وَمَا كُنتَ مِنَ ٱلشَّـٰهِدِينَ
+> [ayah:28:44] وَمَا كُنتَ بِجَانِبِ ٱلْغَرْبِىِّ إِذْ قَضَيْنَآ إِلَىٰ مُوسَى ٱلْأَمْرَ وَمَا كُنتَ مِنَ ٱلشَّـٰهِدِينَ
 
 *Wa mā kunta bi-jānibi-l-gharbiyyi idh qaḍaynā ilā Mūsā-l-amra wa mā kunta mina-sh-shāhidīn.*
 

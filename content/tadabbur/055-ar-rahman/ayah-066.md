@@ -28,7 +28,7 @@ related_ayahs: ["55:50", "55:46", "55:62", "55:68", "55:76", "56:31"]
 
 Listen to it first. Three words. That is the entire ayah.
 
-**فِيهِمَا عَيْنَانِ نَضَّاخَتَانِ**
+[ayah:55:66] فِيهِمَا عَيْنَانِ نَضَّاخَتَانِ
 
 *Fīhimā ʿaynāni naḍḍākhatān.*
 

@@ -42,7 +42,7 @@ And the people — the Qur'an tells us — can only stammer back: *"We announce 
 
 And then comes our ayah. Verse 48. It is the *narration of that silence.* It tells us what actually happened in the gap where an answer should have been:
 
-> وَضَلَّ عَنْهُم مَّا كَانُوا يَدْعُونَ مِن قَبْلُ ۖ وَظَنُّوا مَا لَهُم مِّن مَّحِيصٍ
+> [ayah:41:48] وَضَلَّ عَنْهُم مَّا كَانُوا۟ يَدْعُونَ مِن قَبْلُ ۖ وَظَنُّوا۟ مَا لَهُم مِّن مَّحِيصٍ
 
 > *wa ḍalla ʿanhum mā kānū yadʿūna min qablu, wa ẓannū mā lahum min maḥīṣ*
 

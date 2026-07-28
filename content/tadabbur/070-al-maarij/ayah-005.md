@@ -25,7 +25,7 @@ related_ayahs: ["12:18", "12:83", "12:84", "12:86", "73:10", "33:28", "15:85", "
 # The Patience That Is Beautiful
 ## Surah Al-Ma'arij, Ayah 5
 
-> فَٱصْبِرْ صَبْرًا جَمِيلًا
+> [ayah:70:5] فَٱصْبِرْ صَبْرًا جَمِيلًا
 >
 > *fa-ṣbir ṣabran jamīlā*
 >

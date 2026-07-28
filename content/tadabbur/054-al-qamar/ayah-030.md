@@ -50,7 +50,7 @@ The sign lay dead on the ground.
 
 And then comes our ayah. Four words.
 
-**فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ**
+[ayah:54:30] فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ
 
 *So how were My punishment and My warnings?*
 

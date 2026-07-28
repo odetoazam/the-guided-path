@@ -28,7 +28,7 @@ related_ayahs: ["2:164", "16:49", "31:28", "24:45", "55:22", "11:6", "6:38"]
 
 Let me give you the verse first. Sit with the sound of it before we touch a single word.
 
-> **وَمِنْ ءَايَـٰتِهِۦ خَلْقُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَمَا بَثَّ فِيهِمَا مِن دَآبَّةٍۚ وَهُوَ عَلَىٰ جَمْعِهِمْ إِذَا يَشَآءُ قَدِيرٌ**
+> [ayah:42:29] وَمِنْ ءَايَـٰتِهِۦ خَلْقُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَمَا بَثَّ فِيهِمَا مِن دَآبَّةٍ ۚ وَهُوَ عَلَىٰ جَمْعِهِمْ إِذَا يَشَآءُ قَدِيرٌ
 
 *Wa min āyātihī khalqu-s-samāwāti wal-arḍi wa mā baththa fīhimā min dābbah; wa huwa ʿalā jamʿihim idhā yashāʾu qadīr.*
 

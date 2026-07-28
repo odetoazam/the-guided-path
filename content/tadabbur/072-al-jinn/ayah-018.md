@@ -28,7 +28,7 @@ related_ayahs: ["112:1", "72:20", "1:5", "6:162", "2:114", "39:3"]
 
 Let me give you the ayah first. Sit with the sound of it before we touch a single meaning.
 
-**وَأَنَّ ٱلْمَسَٰجِدَ لِلَّهِ فَلَا تَدْعُوا۟ مَعَ ٱللَّهِ أَحَدًا**
+[ayah:72:18] وَأَنَّ ٱلْمَسَـٰجِدَ لِلَّهِ فَلَا تَدْعُوا۟ مَعَ ٱللَّهِ أَحَدًا
 
 *Wa anna-l-masājida lillāhi fa-lā tadʿū maʿa-llāhi aḥadā.*
 

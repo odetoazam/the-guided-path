@@ -28,7 +28,7 @@ related_ayahs: ["46:2", "2:1", "40:1", "41:1", "42:1", "43:1", "44:1", "45:1"]
 
 Let me give you the whole ayah. It will not take long.
 
-**حمٓ**
+[ayah:46:1] حمٓ
 
 *Ḥā. Mīm.*
 

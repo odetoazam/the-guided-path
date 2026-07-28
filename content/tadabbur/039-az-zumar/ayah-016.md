@@ -24,7 +24,7 @@ related_ayahs: ["7:41", "29:55", "39:15", "39:20", "2:24"]
 
 # The Shade That Burns: When the Warning Is the Embrace
 
-> لَهُم مِّن فَوْقِهِمْ ظُلَلٌ مِّنَ ٱلنَّارِ وَمِن تَحْتِهِمْ ظُلَلٌ ۚ ذَٰلِكَ يُخَوِّفُ ٱللَّهُ بِهِۦ عِبَادَهُۥ ۚ يَٰعِبَادِ فَٱتَّقُونِ
+> [ayah:39:16] لَهُم مِّن فَوْقِهِمْ ظُلَلٌ مِّنَ ٱلنَّارِ وَمِن تَحْتِهِمْ ظُلَلٌ ۚ ذَٰلِكَ يُخَوِّفُ ٱللَّهُ بِهِۦ عِبَادَهُۥ ۚ يَـٰعِبَادِ فَٱتَّقُونِ
 >
 > *Lahum min fawqihim ẓulalun mina-n-nāri wa min taḥtihim ẓulal. Dhālika yukhawwifu-llāhu bihi ʿibādah. Yā ʿibādi fa-ttaqūn.*
 >

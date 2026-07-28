@@ -64,7 +64,7 @@ One-sentence distillation (drafted pre-writing): To be handed a portion of the t
 
 # A Portion of the Book: When the Truth Rules Against You
 
-> أَلَمْ تَرَ إِلَى ٱلَّذِينَ أُوتُوا۟ نَصِيبًۭا مِّنَ ٱلْكِتَـٰبِ يُدْعَوْنَ إِلَىٰ كِتَـٰبِ ٱللَّهِ لِيَحْكُمَ بَيْنَهُمْ ثُمَّ يَتَوَلَّىٰ فَرِيقٌۭ مِّنْهُمْ وَهُم مُّعْرِضُونَ
+> [ayah:3:23] أَلَمْ تَرَ إِلَى ٱلَّذِينَ أُوتُوا۟ نَصِيبًا مِّنَ ٱلْكِتَـٰبِ يُدْعَوْنَ إِلَىٰ كِتَـٰبِ ٱللَّهِ لِيَحْكُمَ بَيْنَهُمْ ثُمَّ يَتَوَلَّىٰ فَرِيقٌ مِّنْهُمْ وَهُم مُّعْرِضُونَ
 > >  > *Alam tara ilā alladhīna ūtū naṣīban mina l-kitābi yudʿawna ilā kitābi llāhi li-yaḥkuma baynahum thumma yatawallā farīqun minhum wa-hum muʿriḍūn.*
 >
 > **"Have you not considered those who were given a portion of the Scripture? They are called to the Book of Allah, that it may judge between them; then a party of them turns away, and they are averse."**

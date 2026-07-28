@@ -28,7 +28,7 @@ related_ayahs: ["49:11", "49:12", "68:11", "104:2", "104:3"]
 
 Listen to it first in Arabic. Let it land before you understand it.
 
-**وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍ**
+[ayah:104:1] وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍ
 
 *Waylun li-kulli humazatin lumazah.*
 

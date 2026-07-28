@@ -28,7 +28,7 @@ related_ayahs: ["77:15", "77:19", "77:24", "77:28", "77:34", "77:37", "77:40", "
 ## INTRODUCTION
 
 **Arabic:**
-وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ
+[ayah:77:45] وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ
 
 **Transliteration:**
 *Waylun yawma'idhin lil-mukadhdhibīn.*

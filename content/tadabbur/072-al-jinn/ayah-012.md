@@ -52,7 +52,7 @@ related_ayahs:
 ## Introduction
 
 **Arabic:**
-وَأَنَّا ظَنَنَّآ أَن لَّن نُّعْجِزَ ٱللَّهَ فِى ٱلْأَرْضِ وَلَن نُّعْجِزَهُۥ هَرَبًا
+[ayah:72:12] وَأَنَّا ظَنَنَّآ أَن لَّن نُّعْجِزَ ٱللَّهَ فِى ٱلْأَرْضِ وَلَن نُّعْجِزَهُۥ هَرَبًا
 
 **Transliteration:**
 *Wa annā ẓanannā an lan nu'jiza Allāha fī l-arḍi wa lan nu'jizahu harabā*

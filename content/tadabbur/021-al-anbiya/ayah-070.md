@@ -24,7 +24,7 @@ related_ayahs: ["3:54", "8:30", "27:50", "35:43", "40:25", "52:42", "86:15-17", 
 
 # When the Plot Turns: Ibrahim, the Fire, and the Reversal of Intent
 
-> **وَأَرَادُوا۟ بِهِۦ كَيْدًا فَجَعَلْنَـٰهُمُ ٱلْأَخْسَرِينَ**
+> [ayah:21:70] وَأَرَادُوا۟ بِهِۦ كَيْدًا فَجَعَلْنَـٰهُمُ ٱلْأَخْسَرِينَ
 >
 > *Wa-arādū bihi kaydan fa-jaʿalnāhum al-akhsarīn*
 >

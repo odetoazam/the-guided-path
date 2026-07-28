@@ -28,7 +28,7 @@ related_ayahs: ["55:33", "55:34", "55:36", "55:13", "70:11", "80:34", "75:10", "
 
 Let me first put the words in front of you, the way they fall in the surah.
 
-> **يُرْسَلُ عَلَيْكُمَا شُوَاظٌ مِّن نَّارٍ وَنُحَاسٌ فَلَا تَنتَصِرَانِ**
+> [ayah:55:35] يُرْسَلُ عَلَيْكُمَا شُوَاظٌ مِّن نَّارٍ وَنُحَاسٌ فَلَا تَنتَصِرَانِ
 >
 > *Yursalu ʿalaykumā shuwāẓun min nārin wa-nuḥāsun falā tantaṣirān.*
 >

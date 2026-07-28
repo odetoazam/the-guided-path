@@ -28,7 +28,7 @@ related_ayahs: ["68:17", "68:20", "68:35", "3:15", "9:72", "54:54", "18:32"]
 
 Let me give you the words first, slowly, the way you'd hand someone something fragile.
 
-> **إِنَّ لِلْمُتَّقِينَ عِندَ رَبِّهِمْ جَنَّـٰتِ ٱلنَّعِيمِ**
+> [ayah:68:34] إِنَّ لِلْمُتَّقِينَ عِندَ رَبِّهِمْ جَنَّـٰتِ ٱلنَّعِيمِ
 >
 > *Inna lil-muttaqīna ʿinda rabbihim jannāti-n-naʿīm.*
 >

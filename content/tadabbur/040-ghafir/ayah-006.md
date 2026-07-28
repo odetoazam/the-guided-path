@@ -30,7 +30,7 @@ related_ayahs: ["11:119", "32:13", "39:71", "7:18", "38:85", "10:33", "41:25"]
 
 Let me give you the ayah first. Sit with the sound of it before we touch the meaning.
 
-> **وَكَذَٰلِكَ حَقَّتْ كَلِمَتُ رَبِّكَ عَلَى ٱلَّذِينَ كَفَرُوٓا۟ أَنَّهُمْ أَصْحَٰبُ ٱلنَّارِ**
+> [ayah:40:6] وَكَذَٰلِكَ حَقَّتْ كَلِمَتُ رَبِّكَ عَلَى ٱلَّذِينَ كَفَرُوٓا۟ أَنَّهُمْ أَصْحَـٰبُ ٱلنَّارِ
 
 *Wa-kadhālika ḥaqqat kalimatu Rabbika ʿalā alladhīna kafarū annahum aṣḥābu an-nār.*
 

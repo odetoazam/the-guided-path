@@ -28,7 +28,7 @@ related_ayahs: ["3:6", "2:255", "6:59", "13:8", "20:7", "67:13", "50:16"]
 
 Let me read it to you first, slowly, the way it would have fallen on the ears of people in Madinah who were in the middle of an argument that would not end.
 
-> **إِنَّ ٱللَّهَ لَا يَخْفَىٰ عَلَيْهِ شَىْءٌ فِى ٱلْأَرْضِ وَلَا فِى ٱلسَّمَآءِ**
+> [ayah:3:5] إِنَّ ٱللَّهَ لَا يَخْفَىٰ عَلَيْهِ شَىْءٌ فِى ٱلْأَرْضِ وَلَا فِى ٱلسَّمَآءِ
 >
 > *Inna-llāha lā yakhfā ʿalayhi shayʾun fi-l-arḍi wa-lā fi-s-samāʾ.*
 >

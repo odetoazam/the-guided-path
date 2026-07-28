@@ -32,7 +32,7 @@ related_ayahs: ["39:3", "10:18", "19:81-82", "46:27", "11:101", "16:87", "53:23"
 
 Let me place the words in front of you first. Sit with the sound of them before we touch the meaning.
 
-> **فَلَوْلَا نَصَرَهُمُ ٱلَّذِينَ ٱتَّخَذُوا۟ مِن دُونِ ٱللَّهِ قُرْبَانًا ءَالِهَةًۢ ۖ بَلْ ضَلُّوا۟ عَنْهُمْ ۚ وَذَٰلِكَ إِفْكُهُمْ وَمَا كَانُوا۟ يَفْتَرُونَ**
+> [ayah:46:28] فَلَوْلَا نَصَرَهُمُ ٱلَّذِينَ ٱتَّخَذُوا۟ مِن دُونِ ٱللَّهِ قُرْبَانًا ءَالِهَةًۢ ۖ بَلْ ضَلُّوا۟ عَنْهُمْ ۚ وَذَٰلِكَ إِفْكُهُمْ وَمَا كَانُوا۟ يَفْتَرُونَ
 
 *Fa-lawlā naṣarahumu alladhīna attakhadhū min dūni-llāhi qurbānan ālihah. Bal ḍallū ʿanhum. Wa dhālika ifkuhum wa mā kānū yaftarūn.*
 

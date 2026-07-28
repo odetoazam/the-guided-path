@@ -25,7 +25,7 @@ related_ayahs: ["68:1", "68:2", "68:4", "68:6", "21:107", "43:44", "81:27", "38:
 # Nothing But a Reminder
 ### A Tadabbur of Surah Al-Qalam, Ayah 52
 
-> وَمَا هُوَ إِلَّا ذِكْرٌ لِّلْعَٰلَمِينَ
+> [ayah:68:52] وَمَا هُوَ إِلَّا ذِكْرٌ لِّلْعَـٰلَمِينَ
 >
 > *Wa mā huwa illā dhikrun lil-ʿālamīn*
 >

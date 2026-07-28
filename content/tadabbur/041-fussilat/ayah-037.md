@@ -28,7 +28,7 @@ related_ayahs: ["6:78", "2:255", "21:33", "7:54", "27:24", "13:15", "22:18"]
 
 Let me begin by placing the words in front of us — first in their own language, then in ours.
 
-> وَمِنْ ءَايَـٰتِهِ ٱلَّيْلُ وَٱلنَّهَارُ وَٱلشَّمْسُ وَٱلْقَمَرُ ۚ لَا تَسْجُدُوا۟ لِلشَّمْسِ وَلَا لِلْقَمَرِ وَٱسْجُدُوا۟ لِلَّهِ ٱلَّذِى خَلَقَهُنَّ إِن كُنتُمْ إِيَّاهُ تَعْبُدُونَ
+> [ayah:41:37] وَمِنْ ءَايَـٰتِهِ ٱلَّيْلُ وَٱلنَّهَارُ وَٱلشَّمْسُ وَٱلْقَمَرُ ۚ لَا تَسْجُدُوا۟ لِلشَّمْسِ وَلَا لِلْقَمَرِ وَٱسْجُدُوا۟ لِلَّهِ ٱلَّذِى خَلَقَهُنَّ إِن كُنتُمْ إِيَّاهُ تَعْبُدُونَ
 
 *Wa min āyātihi-l-laylu wa-n-nahāru wa-sh-shamsu wa-l-qamar. Lā tasjudū li-sh-shamsi wa lā li-l-qamari wa-sjudū li-llāhi-lladhī khalaqahunna in kuntum iyyāhu taʿbudūn.*
 

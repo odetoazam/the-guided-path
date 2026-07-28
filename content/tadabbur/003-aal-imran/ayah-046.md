@@ -28,7 +28,7 @@ related_ayahs: ["19:30", "3:45", "3:47", "5:110", "19:33"]
 
 Here is the verse. Sit with it before we open it.
 
-> **وَيُكَلِّمُ ٱلنَّاسَ فِى ٱلْمَهْدِ وَكَهْلًا وَمِنَ ٱلصَّـٰلِحِينَ**
+> [ayah:3:46] وَيُكَلِّمُ ٱلنَّاسَ فِى ٱلْمَهْدِ وَكَهْلًا وَمِنَ ٱلصَّـٰلِحِينَ
 >
 > *wa yukallimu an-nāsa fī al-mahdi wa kahlan wa mina aṣ-ṣāliḥīn*
 >

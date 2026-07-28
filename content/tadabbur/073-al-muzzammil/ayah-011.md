@@ -31,7 +31,7 @@ related_ayahs: ["73:10", "73:1", "86:17", "3:178", "31:24", "68:44", "8:32"]
 
 Let me give you the words first. Sit with them before we do anything else.
 
-> **وَذَرْنِي وَٱلْمُكَذِّبِينَ أُو۟لِي ٱلنَّعْمَةِ وَمَهِّلْهُمْ قَلِيلًا**
+> [ayah:73:11] وَذَرْنِى وَٱلْمُكَذِّبِينَ أُو۟لِى ٱلنَّعْمَةِ وَمَهِّلْهُمْ قَلِيلًا
 >
 > *Wa dharnī wal-mukadhdhibīna ūlin-naʿmati wa mahhilhum qalīlā*
 >

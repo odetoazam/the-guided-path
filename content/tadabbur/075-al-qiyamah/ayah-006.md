@@ -56,7 +56,7 @@ related_ayahs:
 
 ## Introduction
 
-**يَسْـَٔلُ أَيَّانَ يَوْمُ ٱلْقِيَـٰمَةِ**
+[ayah:75:6] يَسْـَٔلُ أَيَّانَ يَوْمُ ٱلْقِيَـٰمَةِ
 
 *Yas'alu ayyāna yawmu l-qiyāmah.*
 

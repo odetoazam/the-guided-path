@@ -78,7 +78,7 @@ Each question eliminates a possible justification. Each *am* closes a door. The 
 
 And then lands 68:46:
 
-> **أَمْ تَسْـَٔلُهُمْ أَجْرًا فَهُم مِّن مَّغْرَمٍ مُّثْقَلُونَ**
+> [ayah:68:46] أَمْ تَسْـَٔلُهُمْ أَجْرًا فَهُم مِّن مَّغْرَمٍ مُّثْقَلُونَ
 >
 > *Or do you ask them for a payment, so they are burdened by debt?*
 

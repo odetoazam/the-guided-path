@@ -28,7 +28,7 @@ related_ayahs: ["35:22", "88:21", "88:22", "2:272", "28:56", "13:7", "50:45"]
 
 Let me begin by placing four small words in front of you. In Arabic they are almost nothing — four words, seven syllables, a sentence so short you could miss it between two breaths.
 
-> إِنْ أَنتَ إِلَّا نَذِيرٌ
+> [ayah:35:23] إِنْ أَنتَ إِلَّا نَذِيرٌ
 >
 > *In anta illā nadhīr.*
 >

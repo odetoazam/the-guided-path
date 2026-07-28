@@ -28,7 +28,7 @@ related_ayahs: ["48:18", "9:111", "16:91", "33:23", "2:40"]
 
 Let me set the Arabic before us first, and then we will spend the better part of an hour learning to see what is inside it.
 
-> إِنَّ ٱلَّذِينَ يُبَايِعُونَكَ إِنَّمَا يُبَايِعُونَ ٱللَّهَ يَدُ ٱللَّهِ فَوْقَ أَيْدِيهِمْ ۚ فَمَن نَّكَثَ فَإِنَّمَا يَنكُثُ عَلَىٰ نَفْسِهِۦ ۖ وَمَنْ أَوْفَىٰ بِمَا عَـٰهَدَ عَلَيْهُ ٱللَّهَ فَسَيُؤْتِيهِ أَجْرًا عَظِيمًا
+> [ayah:48:10] إِنَّ ٱلَّذِينَ يُبَايِعُونَكَ إِنَّمَا يُبَايِعُونَ ٱللَّهَ يَدُ ٱللَّهِ فَوْقَ أَيْدِيهِمْ ۚ فَمَن نَّكَثَ فَإِنَّمَا يَنكُثُ عَلَىٰ نَفْسِهِۦ ۖ وَمَنْ أَوْفَىٰ بِمَا عَـٰهَدَ عَلَيْهُ ٱللَّهَ فَسَيُؤْتِيهِ أَجْرًا عَظِيمًا
 
 *Inna alladhīna yubāyiʿūnaka innamā yubāyiʿūna Allāh. Yadu Allāhi fawqa aydīhim. Fa-man nakatha fa-innamā yankuthu ʿalā nafsih. Wa-man awfā bimā ʿāhada ʿalayhu Allāha fa-sa-yuʾtīhi ajran ʿaẓīmā.*
 

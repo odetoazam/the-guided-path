@@ -28,7 +28,7 @@ related_ayahs: ["4:120", "14:22", "15:39", "7:16", "59:16", "35:6"]
 
 Let me begin by reading the ayah to you slowly. First the Arabic, then a transliteration, then a translation that opens the door.
 
-> وَلَأُضِلَّنَّهُمْ وَلَأُمَنِّيَنَّهُمْ وَلَآمُرَنَّهُمْ فَلَيُبَتِّكُنَّ ءَاذَانَ ٱلْأَنْعَـٰمِ وَلَآمُرَنَّهُمْ فَلَيُغَيِّرُنَّ خَلْقَ ٱللَّهِ ۚ وَمَن يَتَّخِذِ ٱلشَّيْطَـٰنَ وَلِيًّا مِّن دُونِ ٱللَّهِ فَقَدْ خَسِرَ خُسْرَانًا مُّبِينًا
+> [ayah:4:119] وَلَأُضِلَّنَّهُمْ وَلَأُمَنِّيَنَّهُمْ وَلَـَٔامُرَنَّهُمْ فَلَيُبَتِّكُنَّ ءَاذَانَ ٱلْأَنْعَـٰمِ وَلَـَٔامُرَنَّهُمْ فَلَيُغَيِّرُنَّ خَلْقَ ٱللَّهِ ۚ وَمَن يَتَّخِذِ ٱلشَّيْطَـٰنَ وَلِيًّا مِّن دُونِ ٱللَّهِ فَقَدْ خَسِرَ خُسْرَانًا مُّبِينًا
 
 *Wa-la-uḍillannahum wa-la-umanniyannahum wa-la-āmurannahum fa-la-yubattikunna ādhāna l-anʿām, wa-la-āmurannahum fa-la-yughayyirunna khalqa-llāh. Wa man yattakhidhi sh-shayṭāna waliyyan min dūni-llāhi fa-qad khasira khusrānan mubīnā.*
 
