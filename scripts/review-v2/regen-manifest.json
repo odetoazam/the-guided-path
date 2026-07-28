@@ -1,0 +1,20 @@
+[
+ {
+  "rep": "content/tadabbur/001-al-fatiha/tafsir-report-001.md",
+  "action": "regenerated",
+  "beforeArabic": 1350,
+  "afterArabic": 15694
+ },
+ {
+  "rep": "content/tadabbur/001-al-fatiha/tafsir-report-002.md",
+  "action": "regenerated",
+  "beforeArabic": 2607,
+  "afterArabic": 39154
+ },
+ {
+  "rep": "content/tadabbur/001-al-fatiha/tafsir-report-003-004.md",
+  "action": "regenerated",
+  "beforeArabic": 3191,
+  "afterArabic": 41714
+ }
+]

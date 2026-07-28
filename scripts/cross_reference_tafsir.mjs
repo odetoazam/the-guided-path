@@ -38,11 +38,13 @@ let file = null;
 let outputFile = null;
 let directSurah = null;
 let directAyahs = null;
+let directRefs = null;   // explicit 'S:A,S:A' list — the only form that can express cross-surah refs
 
 for (let i = 0; i < args.length; i++) {
   if (args[i] === '--output' && args[i + 1]) { outputFile = args[++i]; }
   else if (args[i] === '--surah' && args[i + 1]) { directSurah = parseInt(args[++i]); }
   else if (args[i] === '--ayahs' && args[i + 1]) { directAyahs = args[++i]; }
+  else if (args[i] === '--refs' && args[i + 1]) { directRefs = args[++i]; }
   else if (!args[i].startsWith('--')) { file = args[i]; }
 }
 
@@ -176,7 +178,13 @@ async function generateReport(refs) {
 async function main() {
   let refs;
 
-  if (directSurah && directAyahs) {
+  if (directRefs) {
+    // Explicit ref list. --surah/--ayahs is a RANGE (split on '-') and cannot
+    // express cross-surah references, which reports legitimately carry (e.g.
+    // al-Fatiha 1:1's report includes 9:128). Regeneration must be lossless, so
+    // it passes the union of the old report's refs and the file's current ones.
+    refs = directRefs.split(',').map((r) => r.trim()).filter(Boolean);
+  } else if (directSurah && directAyahs) {
     // Direct mode: --surah 15 --ayahs 1-5
     refs = [];
     const parts = directAyahs.split('-');
