@@ -344,3 +344,61 @@ matches al-Muyassar.
 13,284 traversable edges, 118 themes, 37 situations, **0 unwritten ayahs**. The 40
 multi-claim warnings are unchanged and are the known single-ayah-inside-passage pattern
 (e.g. `2:269` inside `2:267-274`) — a graph-semantics question for Azam, not a defect.
+
+---
+
+# Session 2026-07-28 (continued) — the report generator was the root cause
+
+## What the rebuild audit found
+
+All 9 files rebuilt from scratch on 2026-07-24 were re-audited. Every one had been
+marked done **because it passed all three validators**. Three had a false or unsound
+thesis. The auditor's formulation is the one to keep:
+
+> every error I found is a **uniqueness or count claim made in the rebuilt front half**,
+> and every one passed all three validators, because none is an Arabic-text,
+> morphology-tag, or tafsir-presence defect. **The validator-green signal is orthogonal
+> to this failure class.**
+
+All 9 are now fixed. `021-al-anbiya/ayah-096` passed clean and its Yaʼjūj/Maʼjūj adab
+section is worth copying as a template for other eschatological ayahs.
+
+## The root cause was upstream of every writer
+
+`cross_reference_tafsir.mjs` had two defects:
+
+1. **Every block truncated at 500 chars** "for readability." al-Ṭabarī states his
+   *ikhtilāf* well past that, so reports cut him off **exactly where the disagreement
+   begins**. Measured: **1,359 of 1,367 reports (99.4%)** contain a truncated block;
+   al-Ṭabarī truncated in **1,354**.
+2. **Fetch failures printed as `*Not available for this ayah*`** — asserting a fact
+   about the source. **4,952 sections** claim al-Jalalayn is unavailable; sampling says
+   **~92% are false**, he exists and refetches fine.
+
+Both fixed. This is the mechanism behind both content failure classes: theses that
+settle a disagreement without disclosing there is one, and citations completed from
+memory past the cut. **458 files name a hadith source while pairing to a truncated
+report** — a risk list, not a defect list (`scripts/review-v2/hadith-truncation-risk.txt`).
+
+## Regeneration — IN PROGRESS, will not finish in one session
+
+`scripts/regenerate_tafsir_reports.mjs`. Pilot result on 3 Al-Fatiha reports: Arabic
+content **1,350 → 15,694**, **2,607 → 39,154**, **3,191 → 41,714**. Zero truncation
+markers, zero false-unavailable, al-Jalalayn recovered.
+
+**Rate is ~1.3 reports/minute → ~17 hours for all 1,367.** Each report spawns a process
+fetching 4 sources × N ayahs sequentially. It is safe to leave running: writes to temp
+and swaps only on success, refuses to shrink Arabic content, refuses to lose ayah
+coverage, and is resumable with `--skip-fresh`. **To finish it faster it needs
+concurrency** — batching ayah fetches rather than one process per report.
+
+Two bugs were introduced and caught during its construction, both recorded in the
+script's header. The second is the instructive one: regenerating from the tadabbur file
+alone **silently drops cross-surah sections**, and the size guard did not catch it
+because untruncated blocks grew even as coverage shrank. *Bigger is not complete.*
+
+## Sequencing for whoever picks this up
+
+**Regenerate the reports before re-auditing the files written against them.** Auditing
+first just re-derives the same gaps, because the auditor reads the same truncated source
+the author did. That ordering is the main thing this session learned the hard way.
