@@ -1,0 +1,60 @@
+[
+  {
+    "path": "content/tadabbur/025-al-furqan/ayah-051.md",
+    "verdict": "MODERATE",
+    "old_verdict": "CRITICAL",
+    "issues": [
+      "[MODERATE] \"The reason there is no warner in every town is so that **the believers in one town carry the warning to the next**.\" — a divine rationale stated as flat fact, and it is not the rationale any of the four paired sources gives. All four converge on the opposite focus: al-Tabari — فيخفّ عنك كثير من أعباء ما حملناك منه ... ولكنا حملناك ثقل نذارة جميع القرى، لتستوجب بصبرك ... ما أعدّ الله لك من الكرامة عنده (the burden was concentrated on the Prophet ﷺ so that his patience would earn him honour); al-Jalalayn — ولكن بعثناك إلى أهل القرى كلها نذيرًا ليعظم أجرك (so your reward may be great); al-Muyassar — ولكنا جعلناك أيها الرسول مبعوثًا إلى جميع أهل الأرض. The file never mentions the reward/honour rationale at all. Theme Two does recover the concentration-on-one-man point, so this is an added purpose rather than a contradiction — but it is asserted, not offered.",
+      "[MODERATE] Du'ā: \"O Allah — You who chose not to fill every town with a warner so that we could become Your hands in the world\" — the du'ā addresses Allah by a purpose the ayah does not state and the tafsir does not support, hardening the Theme One extension above into a form of address. (\"Your hands in the world\" is also a loose idiom to put in a du'ā.)"
+    ],
+    "summary": "Arabic is byte-exact (25:51 and the quoted 25:52 both match canonical), the grammar of لَوْ as ḥarf imtināʿ li-imtināʿ, the root ب-ع-ث, the naked-warner image behind نَذِير, and the 'the fullness comes through you' point (= al-Muyassar's مبعوثًا إلى جميع أهل الأرض) are all sound — but the file names a divine reason for the restraint that no source gives and then encodes that reason in the du'ā; the old CRITICAL grade was still not warranted.",
+    "old_verdict_was_artifact": false
+  },
+  {
+    "path": "content/tadabbur/025-al-furqan/ayah-023.md",
+    "verdict": "MINOR",
+    "old_verdict": "CRITICAL",
+    "issues": [
+      "[MINOR] \"The classical mufassirūn — including ʿAlī, Mujāhid, and others quoted by Ibn Kathīr — said this verse is talking about people whose outward deeds appeared good but whose foundation was disbelief, or showing off, or seeking the world's praise.\" — loose attribution. In Ibn Kathir, ʿAlī (via Sufyān al-Thawrī ← Abū Isḥāq ← al-Ḥārith) and Mujāhid are quoted only on the *meaning of هباء* ('the rays of the sun when they pass through a small aperture'), not on the doers' motives; the motive analysis is Ibn Kathir's own ('neither sincere nor in accordance with the Laws of Allah'). The substance is genuinely classical — Mujāhid does say فجعلناه باطلا لأنهم لم يعملوه لله وإنما عملوه للشيطان, but in al-Tabari, not Ibn Kathir. Right position, wrong citation.",
+      "[MINOR] \"In every other place in the Qur'an where Allah describes Himself approaching a thing, the language is one of honor and welcome — He approaches the believers, He turns toward those who repent.\" — a corpus-wide claim asserted as fact with no instance named, and no such set of verses really exists (50:16 is nearness, not approach; تاب عليه is a turning of forgiveness, not an approach to a thing). The rhetorical contrast it sets up is unearned.",
+      "[MINOR] \"*Qadima* is the verb you use when someone of significance **arrives** ... **the Owner arrives** ... He Himself approaches the deeds.\" — both al-Tabari and al-Jalalayn deliberately gloss وَقَدِمْنَا as عَمَدْنا / قصدنا (We directed Our purpose toward), with al-Tabari citing Mujāhid — قَدِمنا: عَمَدنا — and a rajaz shāhid for that sense. The file builds its whole 'King walks into the hall' architecture on the spatial-arrival sense without noting that the mufassirūn gloss it non-spatially. It does concede the standard renderings up front and closes by defusing the anthropomorphism ('not a journey from far to near; it is the unveiling of a presence that was always present'), which keeps this minor."
+    ],
+    "summary": "Substantively one of the better-grounded files: the sunbeam-dust image is al-Tabari's own definition almost word for word (هو الذي يرى كهيئة الغبار إذا دخل ضوء الشمس من كوّة ... ولا يرى ذلك في الظل), the 'good deeds voided for want of a condition' theme is exactly al-Jalalayn (كصدقة وصلة رحم وقرى ضيف) and al-Muyassar (الإيمان، الإخلاص، المتابعة), and the Arabic matches canonical — the only defects are one misplaced citation and two overreaching rhetorical assertions.",
+    "old_verdict_was_artifact": true
+  },
+  {
+    "path": "content/tadabbur/024-an-nur/ayah-056.md",
+    "verdict": "MINOR",
+    "old_verdict": "CRITICAL",
+    "issues": [
+      "[MINOR] Frontmatter `word_count: 6800` — every sibling file uses this field for the ayah's Quranic token count (25:51 → 7, 25:23 → 11, 30:38 → 22). 24:56 has 8 words / ~11 tokens; 6800 is the prose word count of the reflection. Metadata defect, not a content error.",
+      "[MINOR] \"The second family of derived forms — what grammarians call Form IV — typically adds a *causative* meaning\" — Form IV is the third derived form, not the second. The label 'Form IV', the أنزل illustration, and the causative analysis of أَقَامَ are all correct; only the ordinal descriptor is wrong, in a passage that is explicitly teaching the form system."
+    ],
+    "summary": "Scholarship holds up under correct pairing and one attribution is verified verbatim — the file credits al-Ṭabarī with reading لَعَلَّ here as taʿlīl ('in order that'), and his block says exactly that (لَعَلَّكُمْ تُرْحَمُونَ يقول: كي يرحمكم ربكم); the iqāmah/Form IV analysis matches al-Tabari's بحدودها فلا تضيعوها, the r-ḥ-m/raḥim etymology and the hundred-parts-of-mercy hadith are sound, and the Arabic text is correct (rendered in imlāʾī rather than the Uthmani orthography its siblings use, which is cosmetic).",
+    "old_verdict_was_artifact": true
+  },
+  {
+    "path": "content/tadabbur/002-al-baqarah/ayahs-053-054.md",
+    "verdict": "MODERATE",
+    "old_verdict": "CRITICAL",
+    "issues": [
+      "[MODERATE] \"Two definite nouns joined by وَ — 'and.' **Not one gift with two names. Two gifts.**\" — asserted with emphasis, and it is the load-bearing premise of the whole 'map AND compass' Theme One. It is the reading al-Tabari explicitly rejects. His tarjīḥ (full text, truncated out of the paired report) is: وأولى هذين التأويلين ... أن الفرقان الذي ذكر الله أنه آتاه موسى في هذا الموضع، هو الكتاب الذي فرق به بين الحق والباطل، **وهو نعت للتوراة وصفة لها** ... فيكون 'الكتاب' نعتا للتوراة أقيم مقامها ... ثم عطف عليه بـ'الفرقان'، إذ كان من نعتها — i.e. one gift, the waw being attributive. Mujāhid in the same passage: الكتاب هو الفرقان. Al-Muyassar in the report reads it the same way: الكتاب الفارق بين الحق والباطل — وهو التوراة. The file's own ABSENCE FLAGS and Part 1 then correctly report 'Al-Ṭabarī saw it as another name for the Torah itself' — so the file contradicts itself within a page. Not CRITICAL: the attribution to al-Tabari is accurate and the ikhtilaf is surfaced; what is wrong is the certainty of the opening assertion.",
+      "[MINOR] STEP-0 comment: \"تَهْتَدُونَ (tahtadūna): Form VIII from هدي ... Not Form I هَدَى (to be guided passively).\" — the Form VIII identification and the reflexive-middle (muṭāwiʿ) reading are correct, but هَدَى is transitive active ('he guided'), not a passive; the passive of Form I is هُدِيَ. It also sits oddly against the file's own frontmatter translation ('that perhaps you would be guided') and against al-Tabari, who glosses it simply as لتهتدوا بها وتتبعوا الحق الذي فيها.",
+      "[MINOR] \"Better than what? Better than living with the unresolved weight of having worshipped a calf.\" — the paired report answers the question explicitly and differently: al-Muyassar, وهذا خير لكم عند خالقكم **من الخلود الأبدي في النار**. The documented answer is not mentioned; a psychological one is substituted without flagging it as the author's reading."
+    ],
+    "summary": "Both ayahs are byte-exact against canonical, the fa-qtulū anfusakum ruling is correctly attributed (Ibn Kathir's heading 'The Children of Israel kill each other in Repentance'; al-Muyassar's بأن يَقْتل بعضكم بعضًا) and correctly fenced as non-generalizable — but the file opens by emphatically ruling out the kitāb/furqān reading that al-Tabari, Mujāhid and al-Muyassar actually prefer, then concedes it five paragraphs later.",
+    "old_verdict_was_artifact": false
+  },
+  {
+    "path": "content/tadabbur/030-ar-rum/ayah-038.md",
+    "verdict": "MODERATE",
+    "old_verdict": "CRITICAL",
+    "issues": [
+      "[MODERATE] \"before you ever wrote the check, before you ever made the transfer — there was already something in your wealth that did not belong to you. The money in your account was never one hundred percent yours. A portion of it was already **legally** and morally owed to others\" and \"**It was never your number to begin with.**\" — the ḥaqq of 30:38 is glossed by both Arabic sources as an obligation of treatment, not a property claim: al-Jalalayn, ﴿حَقّه﴾ مِن البِرّ والصِّلَة; al-Muyassar, قريبك حقه من الصلة والصدقة وسائر أعمال البر. Whether wealth carries a standing legal ḥaqq beyond zakāh is a live fiqh dispute (70:24-25, 2:177); the file settles it as the ayah's plain meaning and builds the entire 'economics of trusteeship' theme on it. The softer version the file gives later — the relative's ḥaqq as ṣilat al-raḥim regardless of need — is exactly what the sources say and is fine.",
+      "[MINOR] passage_context: \"the surah's culminating contrast between zakāh (which grows) and ribā (which Allah erases) in the very next ayah\" — 30:39 says ribā فَلَا يَرْبُوا۟ عِندَ ٱللَّهِ, that it does not increase with Allah; the erasure language (يَمْحَقُ ٱللَّهُ ٱلرِّبَوٰا۟) is 2:276, a different surah. Small misstatement of the adjacent ayah.",
+      "[REPORT DEFECT — not a content error] The al-Tabari block sitting under \"## 30:38\" in tafsir-report-038.md is his commentary on **30:37** (أَوَلَمْ يَرَوْا أَنَّ اللَّهَ يَبْسُطُ الرِّزْقَ لِمَنْ يَشَاءُ وَيَقْدِرُ). This is the known heading-offset bug; the tadabbur does not misattribute anything to al-Tabari, so the fault is the report's. Reviewers of this file should not treat the missing 30:38 Tabari text as a gap in the tadabbur."
+    ],
+    "summary": "Arabic is byte-exact and the lexical work is clean (s-k-n stillness for miskīn, ibn al-sabīl as 'son of the road', f-l-ḥ / fallāḥ for mufliḥūn, the distance demonstrative in أُو۟لَـٰٓئِكَ, and three wajh readings that between them include al-Jalalayn's ثوابه ta'wīl) — the one real problem is recasting the relative's ḥaqq as a legal ownership claim on the giver's wealth, which the paired glosses (البِرّ والصِّلَة) do not carry.",
+    "old_verdict_was_artifact": false
+  }
+]

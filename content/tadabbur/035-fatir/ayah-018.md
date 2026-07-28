@@ -80,7 +80,7 @@ Now look at the opening of our ayah:
 
 *Wa lā **taziru wāziratun wizra** ukhrā.*
 
-Three words. **Same root.** ج-ز-ر — *wāw, zāy, rā'.*
+Three words. **Same root.** و-ز-ر — *wāw, zāy, rā'.*
 
 - **تَزِرُ** — the verb. *Will bear.*
 - **وَازِرَةٌ** — the active participle. *The one who bears.*
