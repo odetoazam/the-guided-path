@@ -175,3 +175,30 @@ failure, qirāʾāt-blindness, and cross-surah-blindness.
 
 **The checker still must not be used as a pass/fail gate until it is repaired.** Its value is as a
 *lead generator* for human review — which is exactly how it was used here.
+
+---
+
+# Tafsir report heading-offset — confirmed instances (2026-07-24)
+
+Three independent enrichment agents found al-Tabari's or Ibn Kathir's commentary block
+sitting under the wrong `## S:A` heading in generated tafsir reports. Hand-verified:
+
+| Report | Defect |
+|---|---|
+| `003-aal-imran/tafsir-report-133-136.md` | al-Tabari offset by one — the block under `## 3:134` quotes 3:133 |
+| `003-aal-imran/tafsir-report-118-120.md` | al-Tabari offset by one — his *bitanah* commentary sits under `## 3:119` |
+| `005-al-maidah/tafsir-report-051.md` | Ibn Kathir offset **within the Al-Mumtahanah sections** — under `## 60:8` he pastes 60:9's Arabic, under `## 60:9` he comments on 60:7. al-Tabari and al-Muyassar are correctly aligned in the same file. |
+
+Also observed: some reports repeat one truncated Ibn Kathir block under every heading
+in the passage (e.g. `011-hud/tafsir-report-032-034.md` carries the same 11:32-anchored
+text under 11:32, 11:33 and 11:34).
+
+**Scale is unknown and deliberately not asserted.** Two attempts to count this
+corpus-wide produced unusable numbers because the detector kept matching al-Tabari's
+footnote and narration numbers rather than ayah markers. A reliable detector must key
+on the ayah number that terminates his `القول في تأويل قوله … (NNN)` formula *and*
+exclude footnote markers — until then, treat the scale as open.
+
+**Mitigation now in force:** enrichment agents are instructed to read the Arabic each
+commentator actually quotes and confirm it matches the ayah before attributing anything
+to him. All three agents above caught the offset this way and attributed correctly.
