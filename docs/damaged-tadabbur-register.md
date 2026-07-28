@@ -79,6 +79,70 @@ by design.
 Every rebuilt file is left `validated: false`. The voice check is the human gate; policy is explicit
 that automated systems cannot self-approve.
 
+---
+
+# ⚠ ALL 9 REBUILDS RE-AUDITED — 2026-07-27
+
+Every file rebuilt on 2026-07-24 was marked done **because it passed all three
+validators**. All nine were put back under independent Opus audit, with every countable
+claim in the rebuild notes re-counted against the Leeds corpus.
+
+| File | Verdict | Thesis |
+|---|---|---|
+| `003-aal-imran/ayah-009` | **CRITICAL** | sound |
+| `044-ad-dukhan/ayahs-030-033` | MODERATE | **FALSE** |
+| `040-ghafir/ayahs-069-072` | MODERATE | **NOT SOUND** |
+| `021-al-anbiya/ayahs-076-077` | **CRITICAL** | **FALSE** (fixed) |
+| `026-ash-shuara/ayahs-184-190` | MODERATE | true |
+| `039-az-zumar/ayahs-034-035` | MODERATE | true |
+| `085-al-buruj/ayahs-001-009` | MODERATE | sound |
+| `044-ad-dukhan/ayahs-001-008` | MINOR | sound |
+| `021-al-anbiya/ayah-096` | ✅ **PASS** | sound |
+
+**Three of nine had a false or unsound thesis.** One auditor put the finding better
+than any summary of mine:
+
+> every error I found is a **uniqueness or count claim made in the rebuilt front half**,
+> and every one passed all three validators, because none is an Arabic-text,
+> morphology-tag, or tafsir-presence defect. **The validator-green signal this register
+> acted on is orthogonal to this failure class.**
+
+## The gravest single item
+
+`003-aal-imran/ayah-009` carried thirteen paragraphs titled *"The Verse the Prophet ﷺ
+Read with Tears,"* attributing an emotional state to the Prophet ﷺ and sourcing it to
+Bukhari and Muslim via al-Jalalayn. The narration has him reciting **3:7** and then
+**warning** about *ahl az-zaygh*. No tears, and not about 3:9.
+
+## Root cause — it was the report generator, not the writers
+
+`cross_reference_tafsir.mjs` had two defects, both fixed 2026-07-27:
+
+1. **Every tafsir block was truncated at 500 chars** "for readability." al-Ṭabarī states
+   his *ikhtilāf* (`واختلف أهل التأويل في…`) well past that, so reports cut him off
+   **exactly where the disagreement begins** — and writers settled one side without
+   knowing there was a side. It also decapitated al-Jalalayn's hadith citations right
+   where the *matn* starts, which is how the "tears" narration got completed from memory.
+2. **Fetch failures were printed as `*Not available for this ayah*`** — asserting a fact
+   about the source when all that was known is that the fetch returned nothing.
+   **al-Jalalayn is marked unavailable in 4,952 sections and in fact exists for them.**
+
+**The 1,367 reports already on disk still carry both defects**, and every file written
+against them inherited the damage. Regenerating them is a separate job.
+
+## Worth copying rather than fixing
+
+`021-al-anbiya/ayah-096` passed with zero false claims, and its Yaʼjūj/Maʼjūj section was
+called **exemplary** — it names the failure mode outright: *"every generation has been
+tempted to identify Yaʼjūj and Maʼjūj with whatever nation frightened it most, and every
+generation that did so was reading its own fear back into revelation."* Use it as the
+template for other eschatological ayahs.
+
+And the best near-miss: `039-az-zumar/ayahs-034-035` claims 39:35 and 41:27 part on a
+single word. They differ at four points — **but the claim is true one verse away.** 29:7
+and 41:27 are identical but for *aḥsan*/*aswaʾ*, and 29:7 even opens with the same
+*kaffara-ʿan* move. The file overclaimed on the wrong pair.
+
 ### A caution worth keeping
 
 `085-al-buruj/ayahs-001-009.md` carried `validated: true` while missing its entire Introduction and
