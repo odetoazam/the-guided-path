@@ -19,7 +19,26 @@ from pathlib import Path
 sys.path.insert(0, 'scripts')
 from enrich_guard import apply_guard
 
-DRAFTS = sorted(glob.glob('scripts/enrich-drafts/*.draft.md'))
+# Named drafts win over the whole directory. This is the race-condition fix:
+# promoting the whole directory captures drafts an agent is still mid-write
+# (observed 2026-07-24 — At-Tawbah 9:107-110 committed 129 words short). Passing
+# only the drafts whose agents have REPORTED lets waves overlap safely.
+#
+#   python3 scripts/apply_enrich_batch.py                       # whole dir (legacy)
+#   python3 scripts/apply_enrich_batch.py a.draft.md b.draft.md # only these
+ARGS = [a for a in sys.argv[1:] if not a.startswith('-')]
+if ARGS:
+    DRAFTS = sorted(ARGS)
+    missing = [d for d in DRAFTS if not Path(d).exists()]
+    if missing:
+        print("named drafts do not exist:")
+        for m in missing:
+            print(f"  {m}")
+        sys.exit(1)
+else:
+    DRAFTS = sorted(glob.glob('scripts/enrich-drafts/*.draft.md'))
+    print("NOTE: promoting the ENTIRE drafts directory. Safe only if every agent "
+          "in the batch has reported. Pass named drafts to overlap waves.")
 if not DRAFTS:
     print("no drafts found in scripts/enrich-drafts/")
     sys.exit(0)

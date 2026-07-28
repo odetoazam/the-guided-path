@@ -1,0 +1,67 @@
+[
+  {
+    "path": "content/tadabbur/032-as-sajdah/ayah-015.md",
+    "verdict": "MODERATE",
+    "old_verdict": "MODERATE",
+    "issues": [
+      "[MODERATE] \"Not 'their praise of Him.' Bi-ḥamdi rabbihim — 'with their Lord's praise.' Many of the classical mufassirūn read this as: with the praise He Himself has given them the ability to offer.\" — the paired report gives the opposite as the plain reading: al-Jalalayn glosses وسبحوا ... بحمد ربهم as أيْ قالُوا: سُبْحان اللَّه وبِحَمْدِهِ, and al-Muyassar as وسبَّحوا الله في سجودهم بحمده — i.e. their praise directed to their Lord (iḍāfah to the object of praise). The file flatly rejects that standard reading and attributes the fāʿil-reading ('praise He authored and placed on their tongues') to 'many of the classical mufassirūn' with no support in the report. The devotional point is legitimate as tadabbur; the scholarly attribution and the exclusion of the standard reading are not.",
+      "[MODERATE] \"This is what the Prophet ﷺ meant when he said ḥāsibū anfusakum qabla an tuḥāsabū — 'audit yourselves before you are audited.'\" — this wording is the well-known athar of ʿUmar ibn al-Khaṭṭāb (mawqūf), not a marfūʿ statement of the Prophet ﷺ. Attributing it to the Prophet is a misattribution; the marfūʿ hadith in this area is al-kayyisu man dāna nafsahu (Tirmidhi).",
+      "[MINOR] \"The unbelievers in this surah are described, in the ayah right before ours, with a haunting image. Look at ayah 12\" — 32:12 is three ayahs before 32:15, not the one immediately preceding. The quotation of 32:12 itself is verbatim-accurate against the canonical text.",
+      "[MINOR] \"They had a saying — preserved in narrations about Abū Jahl — that the worst thing about Muhammad's message was not the monotheism ... The worst thing was sujūd.\" — a specific historical attribution presented as a preserved narration; not in the paired report and not locatable as a report about Abū Jahl in the standard sources. The Quraysh's revulsion at prostration is real (cf. 25:60), but the Abū Jahl framing is unsourced.",
+      "[MINOR] \"Abū Bakr could not get through Sūrah Hūd without weeping.\" — conflation of two separate reports (Abū Bakr as rajulun asīf who wept in prayer; and the Prophet ﷺ saying Hūd and its sisters made him grey). No such report about Abū Bakr and Sūrah Hūd specifically."
+    ],
+    "summary": "Linguistically sound on innamā / kharra / sujjadan ḥāl / Form X istikbār and verbatim-accurate in all its Quranic quotations, but it overturns the standard reading of bi-ḥamdi rabbihim under a false 'many classical mufassirūn' attribution and attributes ʿUmar's ḥāsibū anfusakum to the Prophet ﷺ.",
+    "old_verdict_was_artifact": false
+  },
+  {
+    "path": "content/tadabbur/002-al-baqarah/ayahs-067-071.md",
+    "verdict": "PASS",
+    "old_verdict": "MODERATE",
+    "issues": [],
+    "summary": "Solid throughout: the tanwīn/indefiniteness argument, the Form II yubayyin reading, the mā kādū yafʿalūn gloss and every scholarly attribution (al-Tabari on the mīthāq reproach, Ibn Kathir via Ibn ʿAbbās and ʿUbaydah al-Salmānī on 'any cow would have sufficed', and the 'they made it hard so Allah made it harder' balance) match the correctly-paired report exactly, including al-Muyassar's شددوا فشدَّد الله عليهم.",
+    "old_verdict_was_artifact": true
+  },
+  {
+    "path": "content/tadabbur/024-an-nur/ayahs-048-050.md",
+    "verdict": "MODERATE",
+    "old_verdict": "MODERATE",
+    "issues": [
+      "[MODERATE] \"The fear is named. They fear the injustice of Allah ... And then the bal falls. No. The injustice you fear is the injustice you are. ... They projected the injustice.\" — the file's load-bearing Theme Two (and its one-sentence distillation) treats the third question as a true description of the hypocrites, which the paired classical glosses explicitly negate: al-Muyassar reads the bal as كَلّا، إنهم لا يخافون جورًا، بل السبب أنهم هم الظالمون الفجرة, and al-Jalalayn as بَلْ أُولَئِكَ هُمْ الظّالِمُونَ بِالإعْراضِ عَنْهُ. The bal cancels the fear-hypothesis; it does not diagnose it as projection. The projection reading is a modern layer presented as the plain meaning of the ayah, not flagged as an extension.",
+      "[MINOR] \"If I say 'Zayd and ʿAmr came,' the verb 'came' takes a dual form — jā'a Zaydun wa ʿAmr (singular agreement with the nearest noun) or jā'ā Zaydun wa ʿAmrun (dual).\" — garbled teaching aside. In verb-initial order Arabic keeps the verb singular; jā'ā Zaydun wa ʿAmrun is not standard. The substantive point about li-yaḥkuma being singular, and the three readings offered for it, are legitimate (al-Jalalayn's ورَسُوله المُبَلِّغ عَنْهُ supports the 'one verdict, voiced by the Messenger' reading).",
+      "[MINOR] \"A classical example told by the early scholars makes this concrete. A hypocrite in Madinah had a dispute with a Jewish neighbor ... But on a different occasion — when the same hypocrite expected the Prophet ﷺ to grant him a benefit — there he was, present, eager, neck-bowed.\" — the core narrative (a hypocrite refusing the Prophet's court) is classical, but the 'same hypocrite, different occasion, eager and neck-bowed' half is a narrative extension presented as part of the reported example.",
+      "[NOTE — report defect, not a content error] The paired tafsir-report-048-050.md has the heading-offset bug: the al-Tabari block under ## 24:48 is his commentary on 24:46, and the blocks under ## 24:49 and ## 24:50 are both his commentary on 24:51. The tadabbur file attributes nothing to al-Tabari, so nothing in the file is affected."
+    ],
+    "summary": "Excellent and well-grounded on muʿriḍūn / mudhʿinīn (hapax confirmed; al-Jalalayn's مُسْرِعِينَ طائِعِينَ matches) and on the ḍamīr al-faṣl stack, but the projection thesis that carries the whole second half is asserted as the ayah's meaning where the classical glosses read the bal as negating the fear.",
+    "old_verdict_was_artifact": false
+  },
+  {
+    "path": "content/tadabbur/029-al-ankabut/ayahs-019-020.md",
+    "verdict": "MINOR",
+    "old_verdict": "MODERATE",
+    "issues": [
+      "[MINOR] \"Yasīr shares its root with the word for a small amount. It is used in the Qur'an for a little — matāʿun qalīlun, a small enjoyment.\" — mismatched citation. The lexical claim is correct and Quranically attested (33:14 وما تلبثوا بها إلا يسيرا; 25:46 قبضا يسيرا), but matāʿun qalīlun is from ق-ل-ل and contains no form of ي-س-ر; a reader would take it as an instance of yasīr.",
+      "[MINOR] \"the One who guided Yusuf back to Ya'qub through twenty years of separation\" — a specific figure not in the Quran and disputed in the classical reports (18 / 22 / 40 / 80 years), presented as fact.",
+      "[MINOR] \"The Companions used to weep at clouds. They used to lie on their backs and stare at stars until dawn.\" — undocumented illustrative embellishment stated as historical practice.",
+      "[NOTE — no over-reading found] Contrary to the risk flagged for 29:20, the file draws no evolutionary-biology or origin-of-life claim from sīrū fī al-arḍi fa-nẓurū; it reads the command as attentive observation of creation, which is exactly al-Muyassar's سيروا في الأرض، فانظروا كيف أنشأ الله الخلق. The yunshi'u al-nash'ata construction is correctly identified as a genuine mafʿūl muṭlaq, and the 'fresh creation' emphasis is directly supported by al-Muyassar's كما بدأه أول مرة خلقًا جديدًا.",
+      "[NOTE — report defect, not a content error] The paired report's al-Tabari blocks under both ## 29:19 and ## 29:20 are his commentary on 29:18. The file attributes nothing to al-Tabari."
+    ],
+    "summary": "Substantively accurate and free of the modern over-reading 29:20 usually attracts; only small slips — one mismatched Quranic example for yasīr and two decorative unsourced historical details.",
+    "old_verdict_was_artifact": true
+  },
+  {
+    "path": "content/tadabbur/076-al-insan/ayahs-008-010.md",
+    "verdict": "CRITICAL",
+    "old_verdict": "MODERATE",
+    "issues": [
+      "[CRITICAL] \"in classical Arabic, this is a specific, named, deliberate construction called the cognate object — al-mafʿūl al-muṭlaq.\" — grammatical misidentification, and it is load-bearing for the entire first section. A mafʿūl muṭlaq is a maṣdar of the same verb in the accusative (iṭʿāman would be the cognate object of yuṭʿimūna). ٱلطَّعَامَ is an ordinary mafʿūl bihi — the thing fed — as the paired report reads it (al-Tabari: كان هؤلاء الأبرار يطعمون الطعام على حبهم إياه; al-Muyassar: ويُطْعِمون الطعام مع حبهم له وحاجتهم إليه). The file's own illustration (jarā jaryan sarīʿan) is a correct mafʿūl muṭlaq and shows the mismatch. Everything built on it — 'the food is one food', 'the grammar of no charitable margin', 'the cognate-object construction without the partitive produces the meaning: they feed the whole act of feeding' — rests on a construction that is not present.",
+      "[CRITICAL] \"al-Zamakhshari adds that this is one of the highest forms of Quranic iʿjāz ... because no other text in human history could compress both the cost of the giving and the motivation of the giving into one attached pronoun ... and make both readings equally valid.\" — attribution not credible as stated. Al-Zamakhsharī takes the pronoun in ʿalā ḥubbihi as referring to the food (على حب الطعام واشتهائه); the quoted argument, including its modern comparative framing ('no other text in human history'), is put in his mouth. The al-Razi citation ('I am paraphrasing his argument') carries the same problem in weaker form: al-Rāzī lists candidate referents, but 'the failure of the Arabic to disambiguate is itself the meaning' is the author's thesis, not a reported position.",
+      "[MODERATE] \"here is what almost every classical scholar of this ayah eventually says, after presenting both readings. Both are correct. Allah meant both. The ambiguity is deliberate.\" — false consensus. Both classical sources in the paired report commit to one referent, the food: al-Tabari cites Mujāhid (وهم يشتهونه) and glosses على حبهم إياه، وشهوتهم له; al-Muyassar has مع حبهم له وحاجتهم إليه. The 'love of Allah' referent is a minority reading, not a scholarly consensus that both are simultaneously intended.",
+      "[MODERATE] \"they almost certainly never said this sentence out loud ... So the sentence cannot be a sentence the believers actually spoke to the recipients.\" — stated as demonstrated where the paired report shows ikhtilāf, and one side is contradicted outright. Al-Tabari reads it as spoken: يقولون للذين يطعمونهم ذلك الطعام: لا نريد منكم ... ثوابا ولا شكورا. Al-Muyassar reads it as interior (ويقولون في أنفسهم). The interior reading is legitimate; declaring the spoken reading impossible is not.",
+      "[MODERATE] \"It is somewhere in seventh-century Madinah\" / \"In the Madinan context — the historical setting in which Surat al-Insan was revealed\" — the Makkan/Madinan status of al-Insān is a well-known point of ikhtilāf (both positions reported from Ibn ʿAbbās); the file states the Madinan setting as settled and builds the battlefield scene on it.",
+      "[MINOR] \"Qamṭarīr is the adjective for a face that has gathered itself into a frown ... The classical lexicons say it is the look of a man so distressed that his whole face is collected together.\" — overstated. The primary gloss in the paired report is severity, not facial expression: al-Tabari, والقمطرير: هو الشديد ... أشدّ الأيام وأطوله في البلاء والشدّة. The frowning content in the phrase is carried by ʿabūs; the scowl sense of qamṭarīr is secondary and the file makes it the whole meaning.",
+      "[NOTE — this one checks out] The asīr-as-enemy-combatant reading, which is where this passage usually over-extends, is directly supported by the paired report: al-Muyassar has وأسيرًا أُسر في الحرب من المشركين وغيرهم. The application is kept personal (estranged sibling, ex-spouse), with no modern political framing. Root/quadriliteral identification for ق-م-ط-ر is correct and all three ayahs are verbatim-accurate against the canonical text."
+    ],
+    "summary": "The passage's most exposed claim (the captive as enemy POW) is actually well-grounded, but the file misnames yuṭʿimūna-ṭ-ṭaʿāma a mafʿūl muṭlaq and builds a whole section on it, and it invents a Zamakhsharī position plus a 'both readings intended' consensus that the paired Tabari and Muyassar both contradict.",
+    "old_verdict_was_artifact": false
+  }
+]

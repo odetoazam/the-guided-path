@@ -1,0 +1,57 @@
+[
+  {
+    "path": "content/tadabbur/025-al-furqan/ayah-001.md",
+    "verdict": "MODERATE",
+    "old_verdict": "CRITICAL",
+    "issues": [
+      "[MODERATE] \"From it comes ʿibādah (worship), ʿubūdiyyah (servanthood), and the Kaʿba is from a related sense of being a focal point of devotion.\" — false derivation presented as a lexical fact. The Kaʿba is from the root ك-ع-ب (kaʿb, cube/anklebone), not ع-ب-د. The two ʿ-b-d derivatives listed are correct; the third item does not belong to the root.",
+      "[MINOR] \"The form that means sent down piece by piece, portion by portion, gradually, over time... This is not a stylistic choice. This is a load-bearing grammatical statement.\" — the nazzala/anzala gradualness reading of THIS ayah is directly corroborated by al-Tabari (Ibn ʿAbbās: نزل الفصل... فصلا بعد فصل وسورة بعد سورة) and flagged by Ibn Kathir, so the application is sound. But it is stated as an absolute rule of Form II, and 25:32 — cited two paragraphs later in the same file — uses Form II passive (نُزِّلَ) precisely with جملة واحدة, 'all at once.' The categorical framing overstates a distinction that is well-attested but not exceptionless."
+    ],
+    "summary": "A strong, tafsir-corroborated reflection on tabāraka / nazzala / ʿabdihi, marred by one false etymology (Kaʿba assigned to ʿ-b-d) and an over-absolute statement of the Form II gradualness rule; the old CRITICAL was an artifact, but the file is not clean.",
+    "old_verdict_was_artifact": false
+  },
+  {
+    "path": "content/tadabbur/031-luqman/ayah-028.md",
+    "verdict": "PASS",
+    "old_verdict": "CRITICAL",
+    "issues": [],
+    "summary": "Fully corroborated by the paired report — al-Jalalayn's لا يشغله شيء عن شيء and al-Muyassar's في السهولة واليسر are exactly the scale-independence and effortlessness the file builds on, Arabic quotation is byte-correct, cross-references (36:78, 27:67) are accurate, and the one adab maxim is properly hedged as 'attributed to multiple early scholars in various forms.'",
+    "old_verdict_was_artifact": true
+  },
+  {
+    "path": "content/tadabbur/002-al-baqarah/ayahs-116-117.md",
+    "verdict": "MINOR",
+    "old_verdict": "CRITICAL",
+    "issues": [
+      "[MINOR] \"When you stand in salah and the imam recites qānitīna lillāh\" — presented as a recitation but the word order is inverted and uncited. The Quranic phrase (2:238) is وَقُومُوا۟ لِلَّهِ قَـٰنِتِينَ (qūmū lillāhi qānitīn); no verse reads 'qānitīna lillāh.'",
+      "[MINOR] \"He is not merely mubdi' (one who initiates, active participle of Form IV) — which would describe an action He performed. He is badī'\" — al-Tabari in the paired report states the opposite relation: بديع is مُفْعِل transferred to فعيل (as المؤلم→أليم, المسمع→سميع), i.e. badīʿ means mubdiʿ. The faʿīl-as-permanent-attribute point is standard balāghah and the file's own hidden FORM DECISIONS table concedes 'faʿīl with the sense of fāʿil,' but the published body drops that nuance and sets the two forms against each other."
+    ],
+    "summary": "Substantively solid and well matched to the report (Ibn Kathir, al-Tabari and al-Muyassar all confirm the ittakhadha refutation, the ownership proof, and khalq ʿalā ghayr mithāl sabaq for badīʿ); only a reordered uncited 2:238 fragment and one over-drawn morphological contrast.",
+    "old_verdict_was_artifact": true
+  },
+  {
+    "path": "content/tadabbur/030-ar-rum/ayah-045.md",
+    "verdict": "CRITICAL",
+    "old_verdict": "CRITICAL",
+    "issues": [
+      "[CRITICAL] \"The disbeliever is not facing divine hatred. The disbeliever is facing divine non-engagement.\" and \"It is the absence of the orientation.\" — contradicts the paired tafsir. Al-Muyassar glosses the exact phrase as إنه لا يحب الكافرين لسخطه وغضبه عليهم — 'because of His displeasure and His wrath upon them,' i.e. an active negative orientation, which is precisely what the file rules out. The file builds an entire theme (Theme Two, 'The Catastrophe of Being Unloved') on this denial.",
+      "[CRITICAL] \"The disbelievers in this ayah are not described as receiving recompense at all... Allah does not say 'He punishes them.'\" — al-Jalalayn glosses this very clause as ﴿إنّهُ لا يُحِبّ الكافِرِينَ﴾ أيْ يُعاقِبهُمْ, 'meaning: He punishes them.' The classical reading takes lā yuḥibbu as litotes for punishment; the file's argument-from-absence asserts the opposite as established fact.",
+      "[MODERATE] \"Do not think first of punishment... Pray for them, if you can. Not because they will be punished.\" — pastoral instruction resting on the contradicted premise above; it directs the reader away from a meaning two of the four paired commentators state explicitly.",
+      "[MINOR] \"It is reaching back over the entire passage — over corruption and cycles and nations and consequences\" — both al-Tabari and al-Jalalayn attach the lām of purpose specifically to يَصَّدَّعُونَ in 30:43 (the Day when they separate). The file never mentions 30:43 and assigns the attachment to 30:41-44 generally, presenting a looser grammatical anchor than the report supports."
+    ],
+    "summary": "The faḍl-vs-ujra half is sound and 35:30, 4:173, 3:31, 2:195, 9:108, 3:159 all check out, but this is a genuine CRITICAL, independent of the mispairing: the file's central claim that lā yuḥibbu means divine non-engagement rather than wrath or punishment is directly contradicted by al-Jalalayn (أي يعاقبهم) and al-Muyassar (لسخطه وغضبه عليهم) in its own paired report.",
+    "old_verdict_was_artifact": false
+  },
+  {
+    "path": "content/tadabbur/035-fatir/ayah-018.md",
+    "verdict": "CRITICAL",
+    "old_verdict": "MODERATE",
+    "issues": [
+      "[CRITICAL] \"Three words. **Same root.** ج-ز-ر — *wāw, zāy, rā'.*\" — the Arabic root printed is misidentified: ج (U+062C, jīm) instead of و (wāw). The root of تَزِرُ / وَازِرَةٌ / وِزْرَ is و-ز-ر; ج-ز-ر is an unrelated root. The transliteration on the same line and the later 'The root w-z-r' are both correct, so this is a one-glyph error, but as rendered the reader is shown a wrong root.",
+      "[MINOR] \"there is a tafsir tradition al-Baghawi preserves — narrated from Ibn Abbas\" — a named-source attribution that none of the four paired commentaries corroborate. Plausible and properly hedged with 'Some classical commentators reverse it,' but it should be verified against Maʿālim al-Tanzīl before publish.",
+      "[REPORT DEFECT — not a content error] tafsir-report-018.md has the heading-offset bug: the al-Tabari block under '## 35:18' is actually the commentary on 35:15 (يا أيها الناس أنتم الفقراء إلى الله). Al-Jalalayn and al-Muyassar under that heading are correctly on 35:18."
+    ],
+    "summary": "Otherwise an excellent and well-corroborated reflection (Jalalayn and Muyassar back the kin clause, the imperfect/perfect yakhshawna–aqāmū contrast, and tazakkā as reflexive purification), but it prints the wrong Arabic root letters for w-z-r, which is a publish-blocking one-character fix.",
+    "old_verdict_was_artifact": false
+  }
+]

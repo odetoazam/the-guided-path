@@ -199,6 +199,35 @@ footnote and narration numbers rather than ayah markers. A reliable detector mus
 on the ayah number that terminates his `القول في تأويل قوله … (NNN)` formula *and*
 exclude footnote markers — until then, treat the scale as open.
 
+## ✅ SCALE NOW MEASURED for one sub-class (2026-07-27)
+
+The *offset* defect still resists counting. But the **duplicate-block** sub-class —
+one commentator's block repeated **identically under every `## S:A` heading** in a
+multi-ayah report — needs no ayah-number parsing at all, so it is exactly countable:
+
+| Measure | Value |
+|---|---|
+| Multi-ayah tafsir reports | 800 |
+| Reports with a source block identical under every heading | **314 (39.2%)** |
+| — Ibn Kathir (English) | **313** |
+| — al-Tabari (Arabic) | 40 |
+| — al-Muyassar (Arabic) | 25 |
+
+File list: `scripts/review-v2/tafsir-duplicate-block-reports.txt`.
+
+**Consequence: in ~40% of multi-ayah reports, per-ayah Ibn Kathir attribution is not
+trustworthy.** The single block is typically his commentary on the *first* ayah of the
+passage — or on the ayah *before* it — pasted under each heading, often truncated
+mid-sentence. Three independent enrichment agents hit this on 2026-07-27 in
+`010-yunus/tafsir-report-085-086.md` (block is 10:84, identical under 10:85 and 10:86)
+and `014-ibrahim/tafsir-report-023.md` (block is 14:22), and all three attributed
+around it correctly rather than trusting the heading.
+
+**The mitigation works and must stay in force:** enrichment agents are instructed to
+read the Arabic each commentator actually quotes and confirm it matches the ayah before
+attributing anything. That instruction is the only thing standing between this defect
+and false attributions in published reflections. It is not optional.
+
 **Mitigation now in force:** enrichment agents are instructed to read the Arabic each
 commentator actually quotes and confirm it matches the ayah before attributing anything
 to him. All three agents above caught the offset this way and attributed correctly.

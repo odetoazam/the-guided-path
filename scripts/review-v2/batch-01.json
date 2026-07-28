@@ -1,0 +1,50 @@
+[
+  {
+    "path": "content/tadabbur/005-al-maidah/ayahs-106-107.md",
+    "verdict": "MODERATE",
+    "old_verdict": "CRITICAL",
+    "issues": [
+      "[MODERATE] \"You will not make it past the Day when *ʿuthira ʿalā kulli nafsin mā kasabat.*\" — this transliterated Arabic sits in exactly the italic quotation register the file uses elsewhere for genuine Quranic citation (e.g. *wa man yaktumhā fa-innahu āthimun qalbuh* = 2:283, correctly quoted), but it is not a Quranic phrase. It appears to be the author extending the verse's own verb ʿuthira into an eschatological sentence; the nearest real text is 13:33 (qāʾimun ʿalā kulli nafsin bimā kasabat). No ayah tag or citation is given, so it is not presented as a formal quotation, but the formatting invites a reader to take it as one."
+    ],
+    "summary": "The file's scholarly content is exceptionally well grounded — every attribution (al-Tabari on ʿathr and on ẓawā ʿadl, the al-Aʿsha Maymun b. Qays verse, al-Muyassar on ʿAsr / min ghayrikum / the awliyāʾ / ẓālimīn as mutajāwizī ḥudūd Allāh, al-Muyassar on 2:283 qalb ghādir) is verbatim traceable in the correctly-paired report, and both ayahs match the canonical text byte-for-byte; the only real defect is one coined Arabic phrase set in quotation register.",
+    "old_verdict_was_artifact": false
+  },
+  {
+    "path": "content/tadabbur/002-al-baqarah/ayahs-146-148.md",
+    "verdict": "CRITICAL",
+    "old_verdict": "CRITICAL",
+    "issues": [
+      "[CRITICAL] \"The imperative fastabiqū (Form X of s-b-q)\" (scholarly_note) and \"Form VIII or X (*istabaqū* — there is scholarly discussion on the exact form here)\" and the morphology tag \"ٱسْتَبِقُوا۟ | سبق | V | imp VF:10 2MP (or VF:8)\" — the verb form is wrong. فَٱسْتَبِقُوا۟ is unambiguously Form VIII (iftaʿala: س+ت+ب+ق), the same form as wa-stabaqā al-bāb in 12:25. Form X of س-ب-ق would be استسبق, which does not occur. There is no scholarly disagreement to hedge over; the hedge itself manufactures a controversy that does not exist, and the primary label (VF:10) is the incorrect one.",
+      "[CRITICAL] \"The majority of scholars, including Ibn Abbas, al-Tabari, and Ibn Kathir, hold that 'him' refers to the Prophet Muhammad ﷺ\" — the correctly-paired report shows the opposite for al-Tabari. His block under ## 2:146 glosses yaʿrifūnahu as: يعرف هؤلاء الأحبارُ من اليهود، والعلماءُ من النصارى: أن البيتَ الحرام قبلتُهم وقبلة إبراهيم وقبلةُ الأنبياء قبلك — i.e. what they recognize is that the Sacred House is the qiblah, not the person of the Prophet, and he backs it with the Qatādah narration. (Ibn Kathir's block does support the Prophet reading, and al-Muyassar names Muhammad ﷺ explicitly, so the misattribution is specific to al-Tabari — and to Ibn ʿAbbas, who is not in the report at all.) This is an inverted attribution on the file's single most load-bearing interpretive claim.",
+      "[MINOR] Lines 21-75: the scaffolding block opens with a bare `<!--` on line 21, but line 24 contains a nested `<!-- morphology:2:146:7 ... -->`. HTML comments do not nest, so the comment terminates at line 24 and everything after it — the STEP 0 morphology table, FORM DECISIONS, ABSENCE FLAGS, ADDRESS FLAGS, SONIC FLAGS, ONE-SENTENCE DISTILLATION, and a stray `-->` — renders as visible body text. Methodology scaffolding leaking into output."
+    ],
+    "summary": "Two genuine CRITICALs that survive correct pairing: istabiqū is labelled Form X (it is Form VIII, with a fabricated 'scholarly discussion' hedge), and al-Tabari is credited with the 'him = the Prophet' reading when the paired report shows him glossing it as the qiblah of the Sacred House.",
+    "old_verdict_was_artifact": false
+  },
+  {
+    "path": "content/tadabbur/023-al-muminun/ayahs-019-020.md",
+    "verdict": "PASS",
+    "old_verdict": "CRITICAL",
+    "issues": [],
+    "summary": "Every checkable claim is corroborated by the correctly-paired report — anshaʾnā as Form IV, wa-shajaratan as an accusative maʿṭūf on al-jannāt set apart from the min-construction (al-Tabari: وشجرة منصوبة عطفا على الجنات), and the two readings of the bāʾ in tanbutu bi-l-duhn map onto al-Jalalayn's explicit zāʾidah/muʿaddiyah pair; the 'unnamed tree' point is a claim about the Quranic wording (indefinite شجرة), and the file does identify it as the olive elsewhere, matching all three Arabic sources.",
+    "old_verdict_was_artifact": true
+  },
+  {
+    "path": "content/tadabbur/032-as-sajdah/ayah-028.md",
+    "verdict": "PASS",
+    "old_verdict": "CRITICAL",
+    "issues": [],
+    "summary": "The fatḥ/futiḥat/al-Fattāḥ semantics, the in-vs-idhā conditional, and the plural ṣādiqīn addressed to the believers are all sound — the last is directly confirmed by al-Jalalayn (ويقولون للمؤمنين) — and the file's three-way ikhtilāf on what al-fatḥ denotes is hedged, unnamed, and matches al-Tabari's own واختلف في معنى ذلك, with the report's dominant 'decisive judgment between us' reading listed first.",
+    "old_verdict_was_artifact": true
+  },
+  {
+    "path": "content/tadabbur/027-an-naml/ayah-082.md",
+    "verdict": "MINOR",
+    "old_verdict": "CRITICAL",
+    "issues": [
+      "[MINOR] \"The verb is in Form IV (*īqān*), which carries the sense of actively achieving certainty, of arriving at it through effort... The form implies an active failure, a willed non-arrival.\" — the form is correctly identified (أيقن is Form IV), but the meaning assigned to it is an over-reading presented as a grammatical fact. Form IV here is ingressive ('to become certain'); the form that carries seeking/effort is Form X (استيقن, as in 27:14). The theological point the paragraph rests on is independently supported by al-Muyassar (لا يصدقون ولا يعملون), so the damage is limited to the morphological justification."
+    ],
+    "summary": "Text matches canonical exactly and the substance is well grounded — al-Jalalayn confirms the dābbah addressing them directly and the 'lā yūqinūn = not believing in the Quran with its resurrection and reckoning' gloss, al-Muyassar confirms the end-of-time major-sign framing, and the file commendably declines the descriptive israʾīliyyāt Ibn Kathir reports; one over-claimed Form IV nuance is the sole defect.",
+    "old_verdict_was_artifact": true
+  }
+]
