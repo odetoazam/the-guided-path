@@ -43,3 +43,15 @@ Write the COMPLETE enriched markdown (starting with `---` as the first line)
 to the exact output path you were given. Then report ONLY: word count
 original→draft, and one sentence on what you changed. If truncated per above,
 report only the `TRUNCATED_SOURCE:` line — do not write any draft file.
+
+---
+
+## POST-BATCH STEP (pipeline owner, not the agent)
+
+Enrichment agents rewrite ayah lines and reintroduce diacritic drift from the
+canonical Uthmani text. After every `apply_enrich_batch.py` run, re-run the
+canonical-text normalizer so every tagged verse is byte-exact again, then
+re-run `verify_arabic.mjs <file> --scan` to confirm 0 warnings.
+
+Observed 2026-07-24: a single enriched file (11:32-34) came back with 3
+diacritic warnings that had been clean before the pass.
