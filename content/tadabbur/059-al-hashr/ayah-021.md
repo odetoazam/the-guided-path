@@ -49,6 +49,8 @@ form_decisions:
 | يَتَفَكَّرُونَ | V | Reflexive | I (فَكَرَ — thought) | Surface thinking | Deep internal reflection — thinking WITHIN oneself, mirrors the mountain's self-splitting | HIGH |
 
 morphology_tags:
+-->
+
 <!-- morphology:59:21:2 root=نزل pos=V -->
 <!-- morphology:59:21:7 root=قرأ pos=N -->
 <!-- morphology:59:21:9 root=جبل pos=N -->
@@ -61,7 +63,6 @@ morphology_tags:
 <!-- morphology:59:21:25 root=ضرب pos=V -->
 <!-- morphology:59:21:29 root=أنس pos=N -->
 <!-- morphology:59:21:32 root=فكر pos=V -->
--->
 
 # The Mountain Would Have Cracked
 

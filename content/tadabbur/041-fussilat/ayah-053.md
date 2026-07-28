@@ -49,6 +49,8 @@ form_decisions:
 | شَهِيدٌ | fa'eel | Intensive | شَاهِد (active participle) | Momentary witnessing | Permanent essential nature | HIGH |
 
 morphology_tags:
+-->
+
 <!-- morphology:41:53:2 root=رأي pos=V -->
 <!-- morphology:41:53:4 root=أيي pos=N -->
 <!-- morphology:41:53:8 root=أفق pos=N -->
@@ -59,7 +61,6 @@ morphology_tags:
 <!-- morphology:41:53:26 root=ربب pos=N -->
 <!-- morphology:41:53:32 root=شيأ pos=N -->
 <!-- morphology:41:53:33 root=شهد pos=N -->
--->
 
 # The Evidence Program You Were Born Inside
 

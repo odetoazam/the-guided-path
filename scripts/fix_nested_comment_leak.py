@@ -44,12 +44,20 @@ for f in files:
     body = text[fm.end():] if fm else text
     lines = body.split("\n")
 
-    # locate a bare `<!--` opener and its matching bare `-->` closer
+    # Locate an opener line and its matching closer. The opener may be a bare
+    # `<!--` or may carry text on the same line (`<!-- step0_table`,
+    # `<!-- morphology audit — internal grounding, not rendered`). What matters
+    # is that it opens a comment it does not close on that line, and is not
+    # itself a morphology tag.
     start = end = None
+    opener = "<!--"
     for i, ln in enumerate(lines):
-        if ln.strip() == "<!--" and start is None:
-            start = i
-        elif start is not None and ln.strip() == "-->":
+        s = ln.strip()
+        if start is None:
+            if s.startswith("<!--") and "-->" not in s and not MORPH.match(ln):
+                start = i
+                opener = ln.rstrip()
+        elif s == "-->" or s.endswith("-->") and not MORPH.match(ln):
             end = i
             break
     if start is None or end is None:
@@ -67,7 +75,7 @@ for f in files:
     kept = [lines[j] for j in range(start + 1, end) if j not in set(inner)]
     new = (
         lines[:start]
-        + ["<!--"]
+        + [opener]
         + kept
         + ["-->"]
         + [""]

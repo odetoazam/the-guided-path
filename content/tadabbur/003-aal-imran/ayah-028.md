@@ -25,6 +25,9 @@ tags:
 ---
 
 <!-- morphology audit — internal grounding, not rendered
+
+-->
+
 <!-- morphology:3:28:2 root=أخذ pos=V -->
 <!-- morphology:3:28:4 root=أمن pos=N -->
 <!-- morphology:3:28:6 root=كفر pos=N -->
@@ -32,7 +35,6 @@ tags:
 <!-- morphology:3:28:9 root=دون pos=N -->
 <!-- morphology:3:28:11 root=أمن pos=N -->
 <!-- morphology:3:28:14 root=فعل pos=V -->
-
 <!-- morphology:3:28:19 root=ليس pos=V -->
 <!-- morphology:3:28:21 root=أله pos=N -->
 <!-- morphology:3:28:23 root=شيأ pos=N -->
@@ -41,7 +43,6 @@ tags:
 <!-- morphology:3:28:32 root=حذر pos=V -->
 <!-- morphology:3:28:35 root=نفس pos=N -->
 <!-- morphology:3:28:41 root=صير pos=N -->
--->
 
 # The Loyalty You Cannot Split
 
