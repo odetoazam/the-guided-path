@@ -12,7 +12,7 @@ estimated_duration: "48-59 minutes"
 passage_context: "The closing line of the du'a of ar-rasikhun fi'l-'ilm — those firmly rooted in knowledge. Having just asked that their hearts not deviate after guidance, they end not with a request but with two statements of fact about God."
 generated_by: "claude-fable"
 validated: false
-semantic_review: "front-rebuilt-2026-07-24 (file was front-truncated, opened mid-sentence; Introduction + Elements One-Two rebuilt — see docs/damaged-tadabbur-register.md)"
+semantic_review: "fixed-2026-07-27"
 tags: [aal-imran, rasikhun, dua, gathering, certainty, doubt, promise, miad, iltifat, tawakkul]
 ---
 
@@ -112,17 +112,26 @@ And look at *which* word for doubt. **رَيْب** — *rayb*, from ر-ي-ب —
 
 [PAUSE]
 
-Now count with me, because this phrase has an address.
+Now count with me, because this phrase keeps company.
 
-Search the Quran for this exact formula — *lā rayba fīh*, with that masculine ending — and it lands on precisely **two** things.
+Search the whole Quran for this exact formula — *lā rayba fīh*, with that masculine ending — and it turns up **ten** times: 2:2, our own 3:9, then 3:25, 4:87, 6:12, 10:37, 17:99, 32:2, 42:7, and 45:26. (There are four more with the feminine ending, *lā rayba fīhā*, and every one of those four is attached to *as-sāʿa*, the Hour — 18:21, 22:7, 40:59, 45:32.)
 
-It lands on the **Book**: *dhālika-l-kitābu **lā rayba fīh*** — "that is the Book, no doubt in it" — the second ayah of the Quran, almost its opening breath. And again in Surah As-Sajdah: *the sending down of the Book, **no doubt in it.***
+Sort the ten by what they are actually denying doubt *about*, and they fall into three groups. Three of them land on the **Book**: the second ayah of the Quran, almost its opening breath; the "detailing of the Book" in Surah Yunus; the "sending down of the Book" that opens As-Sajdah. One lands on something narrower — in Surah Al-Isra, on an *ajal*, an appointed term set for people who were denying they would ever be raised. And **six** of them land on the **Day**: ours, then 3:25, 4:87, 6:12, 42:7, 45:26.
 
-And it lands on the **Day**: here in our ayah, and again at 3:25.
+Here is the part worth stopping for. Take those six Day-verses and notice what other word is standing inside each one.
 
-That is the whole list. The Quran spends its most absolute certainty-formula on exactly two objects: **the Book in your hands, and the Day you are walking toward.** The thing you are being told, and the thing you are being told about. The same four words hold both ends of the arc.
+4:87 — *la-yajmaʿannakum*, "He will surely **gather** you."
+6:12 — *la-yajmaʿannakum* again.
+45:26 — *thumma yajmaʿukum*, "then He **gathers** you."
+42:7 — *yawma-l-jamʿ*, "the Day of **the Gathering**."
+3:25 — *jamaʿnāhum*, "We **gathered** them."
+And ours, 3:9 — *jāmiʿ*, "**Gatherer**."
 
-One way to sit with this: the rooted ones — who have just conceded, in ayah 7, that parts of the Book resist their grasp — reach in their prayer for the very phrase the Book uses about *itself*. They cannot resolve every verse. They can still stand on the same ground the Book stands on.
+Six out of six. Every single time the Quran denies doubt about the Day with this phrase, the root ج-م-ع is standing right there in the same ayah. Never in the three Book-verses. Not in the *ajal* verse either. Only here.
+
+So the two words this reflection is built on are not two separate observations that happen to share one verse. Across the whole Quran they travel together. The most absolute denial of doubt reaches the Day by way of the *gathering* — as though what removes the unsettledness is precisely that the assembling is already in the hands of the One who is *jāmiʿ*.
+
+And one more thing to sit with: the rooted ones — who have just conceded, in ayah 7, that parts of the Book resist their grasp — reach in their prayer for a phrase the Book also uses about *itself*. They cannot resolve every verse. They can still stand on the same ground the Book stands on.
 
 [PAUSE]
 
@@ -225,31 +234,13 @@ Everything they do not know is a small thing, measured against the one thing the
 
 ---
 
-### Theme Four: The Verse the Prophet ﷺ Read with Tears
-
-One more dimension — and this one comes from outside the grammar and inside the life of the one who received it.
-
-Al-Jalālayn records that both al-Bukhārī and Muslim transmitted via ʿĀʾisha the Prophet's ﷺ profound and deeply moved recitation of these very words — this sequence running through 3:7 to 3:9. The commentary draws our attention to the fact that the Prophet ﷺ himself, the man to whom revelation descended directly, read these verses not as a teacher examines a text but as a worshiper standing inside a reality that was overwhelming him.
-
-[PAUSE]
-
-Why does this matter for how we read the verse? Because we sometimes approach the Quran as a puzzle to be solved — master the Arabic, learn the tafsir, absorb the themes, understand the grammar. And understanding is genuinely important; the entire first section of this reflection has been about exactly that. But the Prophet's ﷺ encounter with *Rabbanā innaka jāmiʿu-n-nāsi li-yawmin lā rayba fīh* was not analysis. It was encounter. He was not performing a scholarly exercise. He was doing exactly what the verse describes: he was one of the rooted ones, holding the one certainty, anchored to the appointed Day, standing *inside* the reality the verse describes rather than examining it from the outside.
-
-For the Prophet ﷺ, the *mīʿād* was not a theological proposition to be held in the mind. It was the appointment he thought about every time he looked at a companion's face, every time a soul came to Islam, every time he made sujūd in the night and did not know who would be with him when the dawn came. The Day was real to him the way a date on a calendar is real — but more. It was real the way the horizon is real: always there, always drawing closer, always the direction everything is moving toward.
-
-The verse is teaching us something about how to read it. Not merely with the mind, but with the same orientation that received it: facing the Day, holding the one certainty, letting everything else in the universe arrange itself around that single fixed point. Read it the way someone reads a letter from a person they trust absolutely, and who has never once broken an appointment.
-
-[PAUSE]
-
----
-
 ## CLOSING
 
 Let me come back to the question I asked at the very beginning.
 
 What does a person who has made peace with not-knowing refuse to be unsure about?
 
-We have spent all this time inside fourteen Arabic words. Here is what we have found.
+We have spent all this time inside thirteen Arabic words. Here is what we have found.
 
 The rooted ones — the people who can live at the frontier of theological ambiguity, who do not need every verse closed and every question answered, who confess their own limits and their own fragility at every stage — they hold exactly one thing with absolute certainty. Not a list of doctrines. Not a complete theological system. Not a resolution to every hard verse. One thing:
 
