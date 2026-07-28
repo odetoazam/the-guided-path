@@ -6,7 +6,7 @@ ayah_end: 30
 title: "The Manufactured Gaze — Why Allah Said 'Some' and Not 'All'"
 slug: "024-030"
 category: tadabbur
-arabic: "قُل لِّلْمُؤْمِنِينَ يَغُضُّوا مِنْ أَبْصَٰرِهِمْ وَيَحْفَظُوا۟ فُرُوجَهُمْ ۚ ذَٰلِكَ أَزْكَىٰ لَهُمْ ۗ إِنَّ ٱللَّهَ خَبِيرٌۢ بِمَا يَصْنَعُونَ"
+arabic: "قُل لِّلْمُؤْمِنِينَ يَغُضُّوا۟ مِنْ أَبْصَـٰرِهِمْ وَيَحْفَظُوا۟ فُرُوجَهُمْ ۚ ذَٰلِكَ أَزْكَىٰ لَهُمْ ۗ إِنَّ ٱللَّهَ خَبِيرٌۢ بِمَا يَصْنَعُونَ"
 translation: "Tell the believing men to lower some of their gaze and guard their private parts. That is purer — and more growth-producing — for them. Indeed, Allah is intimately aware of what they craft."
 word_count: 18
 estimated_duration: "50-55 minutes"

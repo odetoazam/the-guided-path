@@ -6,7 +6,7 @@ ayah_end: 6
 title: "The Shelter That Increased the Storm: When Refuge Becomes Burden"
 slug: "072-006"
 category: tadabbur
-arabic: "وَأَنَّهُۥ كَانَ رِجَالٌۭ مِّنَ ٱلْإِنسِ يَعُوذُونَ بِرِجَالٍۢ مِّنَ ٱلْجِنِّ فَزَادُوهُمْ رَهَقًۭا"
+arabic: "وَأَنَّهُۥ كَانَ رِجَالٌ مِّنَ ٱلْإِنسِ يَعُوذُونَ بِرِجَالٍ مِّنَ ٱلْجِنِّ فَزَادُوهُمْ رَهَقًا"
 translation: "And that there were men among mankind who would seek refuge in men among the jinn, so they only increased them in burden."
 word_count: 11
 estimated_duration: "50-58 minutes"

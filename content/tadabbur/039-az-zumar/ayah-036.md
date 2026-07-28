@@ -6,7 +6,7 @@ ayah_end: 36
 title: "Is Not Allah Enough? — The Question That Dissolves Every Manufactured Fear"
 slug: "039-036"
 category: tadabbur
-arabic: "أَلَيْسَ ٱللَّهُ بِكَافٍ عَبْدَهُۥ ۖ وَيُخَوِّفُونَكَ بِٱلَّذِينَ مِن دُونِهِۦ ۚ وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُۥ مِنْ هَادٍ"
+arabic: "أَلَيْسَ ٱللَّهُ بِكَافٍ عَبْدَهُۥ ۖ وَيُخَوِّفُونَكَ بِٱلَّذِينَ مِن دُونِهِۦ ۚ وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُۥ مِنْ هَادٍ"
 translation: "Is not Allah sufficient for His servant? Yet they try to frighten you with those besides Him. And whoever Allah leaves to stray — for him there is no guide at all."
 word_count: 6700
 estimated_duration: "50-58 minutes"

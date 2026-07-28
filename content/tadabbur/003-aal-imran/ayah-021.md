@@ -6,7 +6,7 @@ ayah_end: 21
 title: "The Mockery in the Word 'Congratulations': How Allah Returns Their Inversion of Justice"
 slug: "003-021"
 category: tadabbur
-arabic: "إِنَّ ٱلَّذِينَ يَكْفُرُونَ بِـَٔايَـٰتِ ٱللَّهِ وَيَقْتُلُونَ ٱلنَّبِيِّـۧنَ بِغَيْرِ حَقٍّ وَيَقْتُلُونَ ٱلَّذِينَ يَأْمُرُونَ بِٱلْقِسْطِ مِنَ ٱلنَّاسِ فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ"
+arabic: "إِنَّ ٱلَّذِينَ يَكْفُرُونَ بِـَٔايَـٰتِ ٱللَّهِ وَيَقْتُلُونَ ٱلنَّبِيِّـۧنَ بِغَيْرِ حَقٍّ وَيَقْتُلُونَ ٱلَّذِينَ يَأْمُرُونَ بِٱلْقِسْطِ مِنَ ٱلنَّاسِ فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ"
 translation: "Indeed, those who disbelieve in the signs of Allah and kill the prophets without right and kill those who order justice from among the people — so give them tidings of a painful punishment."
 word_count: 18
 estimated_duration: "50-58 minutes"

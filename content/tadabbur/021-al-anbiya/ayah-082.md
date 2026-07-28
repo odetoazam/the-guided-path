@@ -6,7 +6,7 @@ ayah_end: 82
 title: "The Divers Who Worked While He Slept — And the One Who Watched the Workers"
 slug: "021-082"
 category: tadabbur
-arabic: "وَمِنَ ٱلشَّيَـٰطِينِ مَن يَغُوصُونَ لَهُۥ وَيَعْمَلُونَ عَمَلًۭا دُونَ ذَٰلِكَ ۖ وَكُنَّا لَهُمْ حَـٰفِظِينَ"
+arabic: "وَمِنَ ٱلشَّيَـٰطِينِ مَن يَغُوصُونَ لَهُۥ وَيَعْمَلُونَ عَمَلًا دُونَ ذَٰلِكَ ۖ وَكُنَّا لَهُمْ حَـٰفِظِينَ"
 translation: "And of the devils were those who dived for him and did other work besides that. And We were of them Guardians."
 word_count: 14
 estimated_duration: "50-58 minutes"

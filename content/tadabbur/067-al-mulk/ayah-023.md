@@ -6,7 +6,7 @@ ayah_end: 23
 title: "The Faculties of Gratitude, Idle for Gratitude"
 slug: "067-023"
 category: tadabbur
-arabic: "قُلْ هُوَ ٱلَّذِىٓ أَنشَأَكُمْ وَجَعَلَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَٰرَ وَٱلْأَفْـِٔدَةَ ۖ قَلِيلًا مَّا تَشْكُرُونَ"
+arabic: "قُلْ هُوَ ٱلَّذِىٓ أَنشَأَكُمْ وَجَعَلَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَـٰرَ وَٱلْأَفْـِٔدَةَ ۖ قَلِيلًا مَّا تَشْكُرُونَ"
 translation: "Say, 'He is the One who brought you into being and made for you the hearing and the sight and the hearts. How little are you grateful.'"
 word_count: 12
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 54
 title: "The Barrier of Wanting: When Desire Arrives After the Door Has Closed"
 slug: "034-054"
 category: tadabbur
-arabic: "وَحِيلَ بَيْنَهُمْ وَبَيْنَ مَا يَشْتَهُونَ كَمَا فُعِلَ بِأَشْيَاعِهِم مِّن قَبْلُ ۚ إِنَّهُمْ كَانُوا فِي شَكٍّ مُّرِيبٍ"
+arabic: "وَحِيلَ بَيْنَهُمْ وَبَيْنَ مَا يَشْتَهُونَ كَمَا فُعِلَ بِأَشْيَاعِهِم مِّن قَبْلُ ۚ إِنَّهُمْ كَانُوا۟ فِى شَكٍّ مُّرِيبٍۭ"
 translation: "And a barrier will be placed between them and what they desire — as was done with their kind before. Indeed, they were in disquieting doubt."
 word_count: 15
 estimated_duration: "50-55 minutes"

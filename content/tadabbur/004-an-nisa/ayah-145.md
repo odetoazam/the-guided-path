@@ -6,7 +6,7 @@ ayah_end: 145
 title: "The Hidden Exit and the Lowest Floor: Why the Hedger Ends Alone"
 slug: "004-145"
 category: tadabbur
-arabic: "إِنَّ ٱلْمُنَٰفِقِينَ فِى ٱلدَّرْكِ ٱلْأَسْفَلِ مِنَ ٱلنَّارِ وَلَن تَجِدَ لَهُمْ نَصِيرًا"
+arabic: "إِنَّ ٱلْمُنَـٰفِقِينَ فِى ٱلدَّرْكِ ٱلْأَسْفَلِ مِنَ ٱلنَّارِ وَلَن تَجِدَ لَهُمْ نَصِيرًا"
 translation: "Indeed, the hypocrites will be in the lowest depths of the Fire — and never will you find for them any helper."
 word_count: 11
 estimated_duration: "50-58 minutes"

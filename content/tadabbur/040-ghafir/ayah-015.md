@@ -6,7 +6,7 @@ ayah_end: 15
 title: "The Highest Reaches Lowest: When 'Casting Down' and 'Meeting' Share One Root"
 slug: "040-015"
 category: tadabbur
-arabic: "رَفِيعُ الدَّرَجَاتِ ذُو الْعَرْشِ يُلْقِي الرُّوحَ مِنْ أَمْرِهِ عَلَىٰ مَن يَشَاءُ مِنْ عِبَادِهِ لِيُنذِرَ يَوْمَ التَّلَاقِ"
+arabic: "رَفِيعُ ٱلدَّرَجَـٰتِ ذُو ٱلْعَرْشِ يُلْقِى ٱلرُّوحَ مِنْ أَمْرِهِۦ عَلَىٰ مَن يَشَآءُ مِنْ عِبَادِهِۦ لِيُنذِرَ يَوْمَ ٱلتَّلَاقِ"
 translation: "Possessor of the highest ranks, Owner of the Throne — He casts the spirit (revelation) by His command upon whom He wills of His servants, to warn of the Day of Meeting."
 word_count: 16
 estimated_duration: "50-58 minutes"

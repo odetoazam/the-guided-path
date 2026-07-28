@@ -6,7 +6,7 @@ ayah_end: 42
 title: "Chosen, Then Purified, Then Chosen Again: The Architecture of Divine Election"
 slug: "003-042"
 category: tadabbur
-arabic: "وَإِذْ قَالَتِ ٱلْمَلَـٰٓئِكَةُ يَـٰمَرْيَمُ إِنَّ ٱللَّهَ ٱصْطَفَىٰكِ وَطَهَّرَكِ وَٱصْطَفَىٰكِ عَلَىٰ نِسَآءِ ٱلْعَـٰلَمِينَ"
+arabic: "وَإِذْ قَالَتِ ٱلْمَلَـٰٓئِكَةُ يَـٰمَرْيَمُ إِنَّ ٱللَّهَ ٱصْطَفَىٰكِ وَطَهَّرَكِ وَٱصْطَفَىٰكِ عَلَىٰ نِسَآءِ ٱلْعَـٰلَمِينَ"
 translation: "And [remember] when the angels said, 'O Maryam, indeed Allah has chosen you and purified you and chosen you above the women of the worlds.'"
 word_count: 12
 estimated_duration: "48-59 minutes"

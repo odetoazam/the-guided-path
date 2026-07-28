@@ -6,7 +6,7 @@ ayah_end: 25
 title: "When Sacred Ground Erases Rank — and the Sideways Lean Within It"
 slug: "022-025"
 category: tadabbur
-arabic: "إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِ وَٱلْمَسْجِدِ ٱلْحَرَامِ ٱلَّذِى جَعَلْنَـٰهُ لِلنَّاسِ سَوَآءً ٱلْعَـٰكِفُ فِيهِ وَٱلْبَادِ ۚ وَمَن يُرِدْ فِيهِ بِإِلْحَادٍۭ بِظُلْمٍۢ نُّذِقْهُ مِنْ عَذَابٍ أَلِيمٍ"
+arabic: "إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِ وَٱلْمَسْجِدِ ٱلْحَرَامِ ٱلَّذِى جَعَلْنَـٰهُ لِلنَّاسِ سَوَآءً ٱلْعَـٰكِفُ فِيهِ وَٱلْبَادِ ۚ وَمَن يُرِدْ فِيهِ بِإِلْحَادٍۭ بِظُلْمٍ نُّذِقْهُ مِنْ عَذَابٍ أَلِيمٍ"
 translation: "Indeed, those who disbelieve and bar others from the way of Allah and from the Sacred Mosque — which We established for all people, equal in it are the one residing within and the one coming from outside — and whoever intends within it any deviation through wrongdoing, We will make him taste a painful punishment."
 word_count: 26
 estimated_duration: "50-58 minutes"

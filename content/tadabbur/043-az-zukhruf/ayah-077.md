@@ -6,7 +6,7 @@ ayah_end: 77
 slug: "043-077"
 category: tadabbur
 title: "Let Your Lord End Us: The Du'a That Asked for Annihilation"
-arabic: "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ"
+arabic: "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ"
 translation: "And they will cry out: O Malik, let your Lord put an end to us. He will say: Indeed, you will remain."
 word_count: null
 estimated_duration: "45-50 minutes"

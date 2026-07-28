@@ -6,7 +6,7 @@ ayah_end: 35
 title: "The Sign Left Standing: When Ruins Become Reminders"
 slug: "029-035"
 category: tadabbur
-arabic: "وَلَقَد تَّرَكْنَا مِنْهَا آيَةً بَيِّنَةً لِّقَوْمٍ يَعْقِلُونَ"
+arabic: "وَلَقَد تَّرَكْنَا مِنْهَآ ءَايَةًۢ بَيِّنَةً لِّقَوْمٍ يَعْقِلُونَ"
 translation: "And We have certainly left of it a clear sign for a people who use reason."
 word_count: 7
 estimated_duration: "48-55 minutes"

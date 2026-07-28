@@ -6,7 +6,7 @@ ayah_end: 53
 title: "Which One Will You Point To and Call a Lie?"
 slug: "055-053"
 category: tadabbur
-arabic: "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+arabic: "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
 translation: "So which of the favors of your Lord will you both deny?"
 word_count: 4
 estimated_duration: "50-58 minutes"

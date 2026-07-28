@@ -6,7 +6,7 @@ ayah_end: 4
 title: "Our Foolish One: The Confession of a Lie Carried Too Far"
 slug: "072-004"
 category: tadabbur
-arabic: "وَأَنَّهُۥ كَانَ يَقُولُ سَفِيهُنَا عَلَى ٱللَّهِ شَطَطًا"
+arabic: "وَأَنَّهُۥ كَانَ يَقُولُ سَفِيهُنَا عَلَى ٱللَّهِ شَطَطًا"
 translation: "And that the foolish one among us used to speak about Allah an outrageous transgression."
 word_count: 7
 estimated_duration: "48-58 minutes"

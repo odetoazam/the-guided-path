@@ -6,7 +6,7 @@ ayah_end: 11
 title: "The Unnamed Group and the Strips of a Single Hide"
 slug: "072-011"
 category: tadabbur
-arabic: "وَأَنَّا مِنَّا ٱلصَّـٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَآئِقَ قِدَدًا"
+arabic: "وَأَنَّا مِنَّا ٱلصَّـٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَآئِقَ قِدَدًا"
 translation: "And among us are the righteous, and among us are those below that; we were [of] separate, divided ways."
 word_count: 5600
 estimated_duration: "49-56 minutes"

@@ -6,7 +6,7 @@ ayah_end: 12
 title: "The Nearest Sky: When Beauty and Protection Come from the Same Light"
 slug: "041-012"
 category: tadabbur
-arabic: "فَقَضَىٰهُنَّ سَبْعَ سَمَاوَاتٍ فِى يَوْمَيْنِ وَأَوْحَىٰ فِى كُلِّ سَمَآءٍ أَمْرَهَا ۚ وَزَيَّنَّا ٱلسَّمَآءَ ٱلدُّنْيَا بِمَصَـٰبِيحَ وَحِفْظًا ۚ ذَٰلِكَ تَقْدِيرُ ٱلْعَزِيزِ ٱلْعَلِيمِ"
+arabic: "فَقَضَىٰهُنَّ سَبْعَ سَمَـٰوَاتٍ فِى يَوْمَيْنِ وَأَوْحَىٰ فِى كُلِّ سَمَآءٍ أَمْرَهَا ۚ وَزَيَّنَّا ٱلسَّمَآءَ ٱلدُّنْيَا بِمَصَـٰبِيحَ وَحِفْظًا ۚ ذَٰلِكَ تَقْدِيرُ ٱلْعَزِيزِ ٱلْعَلِيمِ"
 translation: "Then He completed them as seven heavens in two periods, and He revealed to each heaven its affair. And We adorned the nearest heaven with lamps — and as a guard. That is the decree of the All-Mighty, the All-Knowing."
 word_count: 19
 estimated_duration: "50-58 minutes"

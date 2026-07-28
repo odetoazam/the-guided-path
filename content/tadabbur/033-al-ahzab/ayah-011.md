@@ -6,7 +6,7 @@ ayah_end: 11
 title: "The Trial That Shakes You Loose: When the Ground Beneath Belief Trembles"
 slug: "033-011"
 category: tadabbur
-arabic: "هُنَالِكَ ٱبْتُلِىَ ٱلْمُؤْمِنُونَ وَزُلْزِلُوا۟ زِلْزَالًۭا شَدِيدًۭا"
+arabic: "هُنَالِكَ ٱبْتُلِىَ ٱلْمُؤْمِنُونَ وَزُلْزِلُوا۟ زِلْزَالًا شَدِيدًا"
 translation: "There, the believers were tested and shaken with a severe shaking."
 word_count: 6
 estimated_duration: "48-55 minutes"

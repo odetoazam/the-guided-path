@@ -6,7 +6,7 @@ ayah_end: 57
 title: "Every Soul Will Taste Death — Then To Us You Will Be Returned"
 slug: "029-057"
 category: tadabbur
-arabic: "كُلُّ نَفْسٍ ذَائِقَةُ ٱلْمَوْتِ ۖ ثُمَّ إِلَيْنَا تُرْجَعُونَ"
+arabic: "كُلُّ نَفْسٍ ذَآئِقَةُ ٱلْمَوْتِ ۖ ثُمَّ إِلَيْنَا تُرْجَعُونَ"
 translation: "Every soul will taste death. Then to Us you will be returned."
 word_count: 7
 estimated_duration: "48-55 minutes"

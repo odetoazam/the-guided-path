@@ -6,7 +6,7 @@ ayah_end: 14
 title: "Companions of Paradise: The Grammar of Eternal Belonging"
 slug: "046-014"
 category: tadabbur
-arabic: "أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلْجَنَّةِ خَـٰلِدِينَ فِيهَا جَزَآءًۢ بِمَا كَانُوا۟ يَعْمَلُونَ"
+arabic: "أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلْجَنَّةِ خَـٰلِدِينَ فِيهَا جَزَآءًۢ بِمَا كَانُوا۟ يَعْمَلُونَ"
 translation: "Those are the companions of Paradise, abiding forever therein — a reward for what they used to do."
 word_count: 5700
 estimated_duration: "50-58 minutes"

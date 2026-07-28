@@ -6,7 +6,7 @@ ayah_end: 22
 title: "If there were two: the proof of coherence and the heart's hidden idols"
 slug: "021-022"
 category: tadabbur
-arabic: "لَوْ كَانَ فِيهِمَآ ءَالِهَةٌ إِلَّا ٱللَّهُ لَفَسَدَتَاۚ فَسُبْحَـٰنَ ٱللَّهِ رَبِّ ٱلْعَرْشِ عَمَّا يَصِفُونَ"
+arabic: "لَوْ كَانَ فِيهِمَآ ءَالِهَةٌ إِلَّا ٱللَّهُ لَفَسَدَتَا ۚ فَسُبْحَـٰنَ ٱللَّهِ رَبِّ ٱلْعَرْشِ عَمَّا يَصِفُونَ"
 translation: "Had there been within them [the heavens and the earth] gods besides Allah, they both would have fallen into ruin. So exalted is Allah, Lord of the Throne, above what they describe."
 word_count: 13
 estimated_duration: "50-58 minutes"

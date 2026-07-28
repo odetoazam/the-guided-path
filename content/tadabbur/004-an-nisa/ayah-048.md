@@ -6,7 +6,7 @@ ayah_end: 48
 title: "The One Line and the Open Field: Why Shirk Stands Alone"
 slug: "004-048"
 category: tadabbur
-arabic: "إِنَّ ٱللَّهَ لَا يَغْفِرُ أَن يُشْرَكَ بِهِۦ وَيَغْفِرُ مَا دُونَ ذَٰلِكَ لِمَن يَشَآءُ ۚ وَمَن يُشْرِكْ بِٱللَّهِ فَقَدِ ٱفْتَرَىٰٓ إِثْمًا عَظِيمًا"
+arabic: "إِنَّ ٱللَّهَ لَا يَغْفِرُ أَن يُشْرَكَ بِهِۦ وَيَغْفِرُ مَا دُونَ ذَٰلِكَ لِمَن يَشَآءُ ۚ وَمَن يُشْرِكْ بِٱللَّهِ فَقَدِ ٱفْتَرَىٰٓ إِثْمًا عَظِيمًا"
 translation: "Indeed, Allah does not forgive that a partner be set up with Him, but He forgives what is less than that for whom He wills. And whoever sets up a partner with Allah has fabricated a tremendous sin."
 word_count: 20
 estimated_duration: "50-58 minutes"

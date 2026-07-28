@@ -6,7 +6,7 @@ ayah_end: 11
 title: "The Beginning That Returns: Creation as a Round Trip"
 slug: "030-011"
 category: tadabbur
-arabic: "ٱللَّهُ يَبْدَؤُا۟ ٱلْخَلْقَ ثُمَّ يُعِيدُهُۥ ثُمَّ إِلَيْهِ تُرْجَعُونَ"
+arabic: "ٱللَّهُ يَبْدَؤُا۟ ٱلْخَلْقَ ثُمَّ يُعِيدُهُۥ ثُمَّ إِلَيْهِ تُرْجَعُونَ"
 translation: "Allah begins the creation, then He repeats it, then to Him you will be returned."
 word_count: 7
 estimated_duration: "48-55 minutes"

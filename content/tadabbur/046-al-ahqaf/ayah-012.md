@@ -6,7 +6,7 @@ ayah_end: 12
 title: "The Tongue You Can Carry: One Light, Two Doors"
 slug: "046-012"
 category: tadabbur
-arabic: "وَمِن قَبْلِهِۦ كِتَـٰبُ مُوسَىٰٓ إِمَامًا وَرَحْمَةً ۚ وَهَـٰذَا كِتَـٰبٌ مُّصَدِّقٌ لِّسَانًا عَرَبِيًّا لِّيُنذِرَ ٱلَّذِينَ ظَلَمُوا۟ وَبُشْرَىٰ لِلْمُحْسِنِينَ"
+arabic: "وَمِن قَبْلِهِۦ كِتَـٰبُ مُوسَىٰٓ إِمَامًا وَرَحْمَةً ۚ وَهَـٰذَا كِتَـٰبٌ مُّصَدِّقٌ لِّسَانًا عَرَبِيًّا لِّيُنذِرَ ٱلَّذِينَ ظَلَمُوا۟ وَبُشْرَىٰ لِلْمُحْسِنِينَ"
 translation: "And before it was the Scripture of Musa — a guide that leads, and a mercy. And this is a confirming Book, in an Arabic tongue, to warn those who have wronged, and as glad tidings for those who do good."
 word_count: 5200
 estimated_duration: "50-58 minutes"

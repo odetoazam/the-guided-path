@@ -6,7 +6,7 @@ ayah_end: 39
 title: "What Grows With Allah and What Doesn't: The Ribā–Zakāh Inversion"
 slug: "030-039"
 category: tadabbur
-arabic: "وَمَآ ءَاتَيْتُم مِّن رِّبًۭا لِّيَرْبُوَا۟ فِىٓ أَمْوَٰلِ ٱلنَّاسِ فَلَا يَرْبُوا۟ عِندَ ٱللَّهِ ۖ وَمَآ ءَاتَيْتُم مِّن زَكَوٰةٍۢ تُرِيدُونَ وَجْهَ ٱللَّهِ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُضْعِفُونَ"
+arabic: "وَمَآ ءَاتَيْتُم مِّن رِّبًا لِّيَرْبُوَا۟ فِىٓ أَمْوَٰلِ ٱلنَّاسِ فَلَا يَرْبُوا۟ عِندَ ٱللَّهِ ۖ وَمَآ ءَاتَيْتُم مِّن زَكَوٰةٍ تُرِيدُونَ وَجْهَ ٱللَّهِ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُضْعِفُونَ"
 translation: "And whatever you give of ribā so that it may increase within the wealth of people — it does not increase with Allah. But whatever you give of zakāh seeking the Face of Allah — it is those who are the multipliers."
 word_count: 30
 estimated_duration: "50-55 minutes"

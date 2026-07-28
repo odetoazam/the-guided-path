@@ -6,7 +6,7 @@ ayah_end: 20
 title: "The Inventory You Never Took: Seen and Unseen Blessings"
 slug: "031-020"
 category: tadabbur
-arabic: "أَلَمْ تَرَوْا أَنَّ ٱللَّهَ سَخَّرَ لَكُم مَّا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ وَأَسْبَغَ عَلَيْكُمْ نِعَمَهُۥ ظَـٰهِرَةً وَبَاطِنَةً ۗ وَمِنَ ٱلنَّاسِ مَن يُجَـٰدِلُ فِى ٱللَّهِ بِغَيْرِ عِلْمٍ وَلَا هُدًى وَلَا كِتَـٰبٍ مُّنِيرٍ"
+arabic: "أَلَمْ تَرَوْا۟ أَنَّ ٱللَّهَ سَخَّرَ لَكُم مَّا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ وَأَسْبَغَ عَلَيْكُمْ نِعَمَهُۥ ظَـٰهِرَةً وَبَاطِنَةً ۗ وَمِنَ ٱلنَّاسِ مَن يُجَـٰدِلُ فِى ٱللَّهِ بِغَيْرِ عِلْمٍ وَلَا هُدًى وَلَا كِتَـٰبٍ مُّنِيرٍ"
 translation: "Do you not see that Allah has made subservient to you whatever is in the heavens and whatever is on the earth, and has lavished upon you His blessings — both seen and unseen? Yet among people are those who dispute about Allah without knowledge, without guidance, and without an illuminating Book."
 word_count: 38
 estimated_duration: "50-55 minutes"

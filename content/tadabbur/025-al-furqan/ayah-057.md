@@ -6,7 +6,7 @@ ayah_end: 57
 title: "The Wage That Isn't a Wage: A Path Back, Not a Price Paid"
 slug: "025-057"
 category: tadabbur
-arabic: "قُلْ مَآ أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ إِلَّا مَن شَآءَ أَن يَتَّخِذَ إِلَىٰ رَبِّهِۦ سَبِيلًا"
+arabic: "قُلْ مَآ أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ إِلَّا مَن شَآءَ أَن يَتَّخِذَ إِلَىٰ رَبِّهِۦ سَبِيلًا"
 translation: "Say: I do not ask you for any wage upon this — except that whoever wills may take unto his Lord a path."
 word_count: 14
 estimated_duration: "50-55 minutes"

@@ -4,7 +4,7 @@ surah_name: "Al-Baqarah"
 ayah_start: 62
 ayah_end: 62
 title: "Four Labels, One 'Whoever' — The Ayah That Erases Everything Except What Actually Saves You"
-arabic: "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَٱلَّذِينَ هَادُوا۟ وَٱلنَّصَـٰرَىٰ وَٱلصَّـٰبِـِٔينَ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَعَمِلَ صَـٰلِحًا فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ"
+arabic: "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَٱلَّذِينَ هَادُوا۟ وَٱلنَّصَـٰرَىٰ وَٱلصَّـٰبِـِٔينَ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَعَمِلَ صَـٰلِحًا فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ"
 translation: "Indeed, those who believed and those who were Jews or Christians or Sabeans — whoever believed in Allah and the Last Day and did righteousness — will have their reward with their Lord, and no fear will there be concerning them, nor will they grieve."
 word_count: 27
 estimated_duration: "48-55 minutes"

@@ -6,7 +6,7 @@ ayah_end: 20
 title: "The Man Who Ran From the Edge of the City"
 slug: "028-020"
 category: tadabbur
-arabic: "وَجَآءَ رَجُلٌ مِّنْ أَقْصَا ٱلْمَدِينَةِ يَسْعَىٰ قَالَ يَـٰمُوسَىٰٓ إِنَّ ٱلْمَلَأَ يَأْتَمِرُونَ بِكَ لِيَقْتُلُوكَ فَٱخْرُجْ إِنِّى لَكَ مِنَ ٱلنَّـٰصِحِينَ"
+arabic: "وَجَآءَ رَجُلٌ مِّنْ أَقْصَا ٱلْمَدِينَةِ يَسْعَىٰ قَالَ يَـٰمُوسَىٰٓ إِنَّ ٱلْمَلَأَ يَأْتَمِرُونَ بِكَ لِيَقْتُلُوكَ فَٱخْرُجْ إِنِّى لَكَ مِنَ ٱلنَّـٰصِحِينَ"
 translation: "And a man came running from the farthest part of the city. He said, 'O Musa, indeed the chiefs are conferring over you to kill you, so leave. Indeed, I am to you of the sincere advisors.'"
 word_count: 22
 estimated_duration: "50-55 minutes"

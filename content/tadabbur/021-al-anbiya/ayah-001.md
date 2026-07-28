@@ -6,7 +6,7 @@ ayah_end: 1
 title: "The Day That Walks Toward You While You Walk Away"
 slug: "021-001"
 category: tadabbur
-arabic: "ٱقْتَرَبَ لِلنَّاسِ حِسَابُهُمْ وَهُمْ فِى غَفْلَةٍۢ مُّعْرِضُونَ"
+arabic: "ٱقْتَرَبَ لِلنَّاسِ حِسَابُهُمْ وَهُمْ فِى غَفْلَةٍ مُّعْرِضُونَ"
 translation: "Their reckoning has drawn near for mankind — while they, in heedlessness, are turning away."
 word_count: 7
 estimated_duration: "50-58 minutes"

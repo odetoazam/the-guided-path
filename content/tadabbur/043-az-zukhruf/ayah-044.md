@@ -6,7 +6,7 @@ ayah_end: 44
 title: "The Honor That Questions You: Dhikr, the Gift That Becomes an Exam"
 slug: "043-044"
 category: tadabbur
-arabic: "وَإِنَّهُۥ لَذِكْرٌ لَّكَ وَلِقَوْمِكَ ۖ وَسَوْفَ تُسْـَٔلُونَ"
+arabic: "وَإِنَّهُۥ لَذِكْرٌ لَّكَ وَلِقَوْمِكَ ۖ وَسَوْفَ تُسْـَٔلُونَ"
 translation: "And indeed, it is a [source of] honor and a reminder for you and for your people — and you will all be questioned."
 word_count: 6
 estimated_duration: "50-58 minutes"

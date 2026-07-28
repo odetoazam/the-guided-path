@@ -6,7 +6,7 @@ ayah_end: 56
 title: "The Limit of Love: When Wanting Someone's Guidance Is Not Enough"
 slug: "028-056"
 category: tadabbur
-arabic: "إِنَّكَ لَا تَهْدِي مَنْ أَحْبَبْتَ وَلَٰكِنَّ ٱللَّهَ يَهْدِي مَن يَشَآءُ ۚ وَهُوَ أَعْلَمُ بِٱلْمُهْتَدِينَ"
+arabic: "إِنَّكَ لَا تَهْدِى مَنْ أَحْبَبْتَ وَلَـٰكِنَّ ٱللَّهَ يَهْدِى مَن يَشَآءُ ۚ وَهُوَ أَعْلَمُ بِٱلْمُهْتَدِينَ"
 translation: "Indeed, you do not guide whom you love, but Allah guides whom He wills. And He is most knowing of those who are guided."
 word_count: 14
 estimated_duration: "50-58 minutes"

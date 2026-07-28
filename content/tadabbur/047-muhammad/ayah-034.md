@@ -6,7 +6,7 @@ ayah_end: 34
 title: "The Door Named 'Then': Why Only the Grave Can Close Forgiveness"
 slug: "047-034"
 category: tadabbur
-arabic: "إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ ثُمَّ مَاتُوا۟ وَهُمْ كُفَّارٌ فَلَن يَغْفِرَ ٱللَّهُ لَهُمْ"
+arabic: "إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ ثُمَّ مَاتُوا۟ وَهُمْ كُفَّارٌ فَلَن يَغْفِرَ ٱللَّهُ لَهُمْ"
 translation: "Indeed, those who disbelieved and barred others from the path of Allah, then died while they were disbelievers — never will Allah forgive them."
 word_count: 15
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 24
 title: "The Hand He Held Back: Restraint in the Belly of the City"
 slug: "048-024"
 category: tadabbur
-arabic: "وَهُوَ ٱلَّذِى كَفَّ أَيْدِيَهُمْ عَنكُمْ وَأَيْدِيَكُمْ عَنْهُم بِبَطْنِ مَكَّةَ مِنۢ بَعْدِ أَنْ أَظْفَرَكُمْ عَلَيْهِمْ ۚ وَكَانَ ٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرًۭا"
+arabic: "وَهُوَ ٱلَّذِى كَفَّ أَيْدِيَهُمْ عَنكُمْ وَأَيْدِيَكُمْ عَنْهُم بِبَطْنِ مَكَّةَ مِنۢ بَعْدِ أَنْ أَظْفَرَكُمْ عَلَيْهِمْ ۚ وَكَانَ ٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرًا"
 translation: "And it is He who withheld their hands from you, and your hands from them, within the belly of Makkah, after He had let you overcome them. And Allah is ever, of what you do, All-Seeing."
 word_count: 9100
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 54
 title: "No Concealment Holds: The Knowledge That Precedes the Act"
 slug: "033-054"
 category: tadabbur
-arabic: "إِن تُبْدُواْ شَيْـًٔا أَوْ تُخْفُوهُ فَإِنَّ ٱللَّهَ كَانَ بِكُلِّ شَىْءٍ عَلِيمًا"
+arabic: "إِن تُبْدُوا۟ شَيْـًٔا أَوْ تُخْفُوهُ فَإِنَّ ٱللَّهَ كَانَ بِكُلِّ شَىْءٍ عَلِيمًا"
 translation: "Whether you reveal a thing or conceal it — indeed Allah has always been, of all things, All-Knowing."
 word_count: 7350
 estimated_duration: "53-58 minutes"

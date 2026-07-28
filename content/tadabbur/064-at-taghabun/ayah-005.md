@@ -6,7 +6,7 @@ ayah_end: 5
 title: "The News That Already Arrived — Weighty Tidings, Crushing Consequence, and the Exceptional Self"
 slug: "064-005"
 category: tadabbur
-arabic: "أَلَمْ يَأْتِكُمْ نَبَؤُاْ ٱلَّذِينَ كَفَرُواْ مِن قَبْلُ فَذَاقُواْ وَبَالَ أَمْرِهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ"
+arabic: "أَلَمْ يَأْتِكُمْ نَبَؤُا۟ ٱلَّذِينَ كَفَرُوا۟ مِن قَبْلُ فَذَاقُوا۟ وَبَالَ أَمْرِهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ"
 translation: "Has there not come to you the weighty news of those who disbelieved before? So they tasted the crushing consequence of their affair — and for them is a painful punishment."
 word_count: 5400
 estimated_duration: "50-58 minutes"

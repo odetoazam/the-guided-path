@@ -6,7 +6,7 @@ ayah_end: 16
 title: "The Seizure That History Could Not Forget"
 slug: "073-016"
 category: tadabbur
-arabic: "فَعَصَىٰ فِرْعَوْنُ ٱلرَّسُولَ فَأَخَذْنَـٰهُ أَخْذًا وَبِيلاً"
+arabic: "فَعَصَىٰ فِرْعَوْنُ ٱلرَّسُولَ فَأَخَذْنَـٰهُ أَخْذًا وَبِيلًا"
 translation: "But Pharaoh disobeyed the Messenger, so We seized him with a ruinous seizure."
 word_count: 6200
 estimated_duration: "52-60 minutes"

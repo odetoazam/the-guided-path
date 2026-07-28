@@ -6,7 +6,7 @@ ayah_end: 24
 title: "The Sun Worshipped in Place of the One Who Made It"
 slug: "027-024"
 category: tadabbur
-arabic: "وَجَدتُّهَا وَقَوْمَهَا يَسْجُدُونَ لِلشَّمْسِ مِن دُونِ اللَّهِ وَزَيَّنَ لَهُمُ الشَّيْطَانُ أَعْمَالَهُمْ فَصَدَّهُمْ عَنِ السَّبِيلِ فَهُمْ لَا يَهْتَدُونَ"
+arabic: "وَجَدتُّهَا وَقَوْمَهَا يَسْجُدُونَ لِلشَّمْسِ مِن دُونِ ٱللَّهِ وَزَيَّنَ لَهُمُ ٱلشَّيْطَـٰنُ أَعْمَـٰلَهُمْ فَصَدَّهُمْ عَنِ ٱلسَّبِيلِ فَهُمْ لَا يَهْتَدُونَ"
 translation: "I found her and her people prostrating to the sun instead of Allah, and Shaytan has made their deeds beautiful to them, and so turned them aside from the path — and they are not guided."
 word_count: 18
 estimated_duration: "50-58 minutes"

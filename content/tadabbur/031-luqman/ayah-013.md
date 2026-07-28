@@ -4,7 +4,7 @@ surah_name: "Luqman"
 ayah_start: 13
 ayah_end: 13
 title: "My Dear Son, Don't Do This to Yourself — Why a Father Called Shirk the Greatest Self-Harm"
-arabic: "وَإِذْ قَالَ لُقْمَـٰنُ لِٱبْنِهِۦ وَهُوَ يَعِظُهُۥ يَـٰبُنَىَّ لَا تُشْرِكْ بِٱللَّهِ ۖ إِنَّ ٱلشِّرْكَ لَظُلْمٌ عَظِيمٌ"
+arabic: "وَإِذْ قَالَ لُقْمَـٰنُ لِٱبْنِهِۦ وَهُوَ يَعِظُهُۥ يَـٰبُنَىَّ لَا تُشْرِكْ بِٱللَّهِ ۖ إِنَّ ٱلشِّرْكَ لَظُلْمٌ عَظِيمٌ"
 translation: "And [mention, O Muhammad], when Luqman said to his son while he was advising him, 'O my dear son, do not associate [anything] with Allah. Indeed, association [with Him] is a great wrongdoing.'"
 word_count: 210
 estimated_duration: "48-58 minutes"

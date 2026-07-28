@@ -6,7 +6,7 @@ ayah_end: 193
 title: "We Heard the Caller, So Forgive What Still Remains"
 slug: "003-193"
 category: tadabbur
-arabic: "رَّبَّنَآ إِنَّنَا سَمِعْنَا مُنَادِيًا يُنَادِى لِلْإِيمَـٰنِ أَنْ ءَامِنُوا۟ بِرَبِّكُمْ فَـَٔامَنَّا ۚ رَبَّنَا فَٱغْفِرْ لَنَا ذُنُوبَنَا وَكَفِّرْ عَنَّا سَيِّـَٔاتِنَا وَتَوَفَّنَا مَعَ ٱلْأَبْرَارِ"
+arabic: "رَّبَّنَآ إِنَّنَا سَمِعْنَا مُنَادِيًا يُنَادِى لِلْإِيمَـٰنِ أَنْ ءَامِنُوا۟ بِرَبِّكُمْ فَـَٔامَنَّا ۚ رَبَّنَا فَٱغْفِرْ لَنَا ذُنُوبَنَا وَكَفِّرْ عَنَّا سَيِّـَٔاتِنَا وَتَوَفَّنَا مَعَ ٱلْأَبْرَارِ"
 translation: "Our Lord, indeed we heard a caller calling to faith, 'Believe in your Lord,' so we believed. Our Lord, then forgive our sins, erase from us our misdeeds, and take us in death with the righteous."
 word_count: null
 estimated_duration: "45-55 minutes"

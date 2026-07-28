@@ -6,7 +6,7 @@ ayah_end: 10
 title: "The Unfinished Sentence: When Arrogance Is the Only Thing Left Standing Between You and the Truth"
 slug: "046-010"
 category: tadabbur
-arabic: "قُلْ أَرَءَيْتُمْ إِن كَانَ مِنْ عِندِ ٱللَّهِ وَكَفَرْتُم بِهِۦ وَشَهِدَ شَاهِدٌۭ مِّنۢ بَنِىٓ إِسْرَٰٓءِيلَ عَلَىٰ مِثْلِهِۦ فَـَٔامَنَ وَٱسْتَكْبَرْتُمْ ۖ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّـٰلِمِينَ"
+arabic: "قُلْ أَرَءَيْتُمْ إِن كَانَ مِنْ عِندِ ٱللَّهِ وَكَفَرْتُم بِهِۦ وَشَهِدَ شَاهِدٌ مِّنۢ بَنِىٓ إِسْرَٰٓءِيلَ عَلَىٰ مِثْلِهِۦ فَـَٔامَنَ وَٱسْتَكْبَرْتُمْ ۖ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّـٰلِمِينَ"
 translation: "Say: 'Have you really considered — if it is from Allah, and you disbelieved in it, while a witness from the Children of Israel has testified to something like it, and he believed while you grew arrogant…?' Indeed, Allah does not guide the wrongdoing people."
 word_count: 24
 estimated_duration: "50-58 minutes"

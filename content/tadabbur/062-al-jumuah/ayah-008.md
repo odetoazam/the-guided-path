@@ -6,7 +6,7 @@ ayah_end: 8
 title: "The Appointment You Cannot Outrun: When What You Flee Comes to Meet You"
 slug: "062-008"
 category: tadabbur
-arabic: "قُلْ إِنَّ ٱلْمَوْتَ ٱلَّذِى تَفِرُّونَ مِنْهُ فَإِنَّهُۥ مُلَـٰقِيكُمْ ۖ ثُمَّ تُرَدُّونَ إِلَىٰ عَـٰلِمِ ٱلْغَيْبِ وَٱلشَّهَـٰدَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ"
+arabic: "قُلْ إِنَّ ٱلْمَوْتَ ٱلَّذِى تَفِرُّونَ مِنْهُ فَإِنَّهُۥ مُلَـٰقِيكُمْ ۖ ثُمَّ تُرَدُّونَ إِلَىٰ عَـٰلِمِ ٱلْغَيْبِ وَٱلشَّهَـٰدَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ"
 translation: "Say, 'Indeed, the death from which you flee — it is going to meet you. Then you will be returned to the Knower of the unseen and the witnessed, and He will inform you of what you used to do.'"
 word_count: 18
 estimated_duration: "50-58 minutes"

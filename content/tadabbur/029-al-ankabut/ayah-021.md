@@ -6,7 +6,7 @@ ayah_end: 21
 title: "The Mercy That Chooses and the Punishment That Chooses: Allah's Sovereignty Over the Heart's Fate"
 slug: "029-021"
 category: tadabbur
-arabic: "يُعَذِّبُ مَن يَشَآءُ وَيَرْحَمُ مَن يَشَآءُ ۖ وَإِلَيْهِ تُقْلَبُونَ"
+arabic: "يُعَذِّبُ مَن يَشَآءُ وَيَرْحَمُ مَن يَشَآءُ ۖ وَإِلَيْهِ تُقْلَبُونَ"
 translation: "He punishes whom He wills and shows mercy to whom He wills, and to Him you will be turned back."
 word_count: 8
 estimated_duration: "48-55 minutes"

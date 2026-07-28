@@ -6,7 +6,7 @@ ayah_end: 61
 title: "The Sign You Circle vs. The Road You Walk: Doubt, Certainty, and the Straight Path"
 slug: "043-061"
 category: tadabbur
-arabic: "وَإِنَّهُۥ لَعِلْمٌۭ لِّلسَّاعَةِ فَلَا تَمْتَرُنَّ بِهَا وَٱتَّبِعُونِ ۚ هَـٰذَا صِرَٰطٌۭ مُّسْتَقِيمٌۭ"
+arabic: "وَإِنَّهُۥ لَعِلْمٌ لِّلسَّاعَةِ فَلَا تَمْتَرُنَّ بِهَا وَٱتَّبِعُونِ ۚ هَـٰذَا صِرَٰطٌ مُّسْتَقِيمٌ"
 translation: "And indeed, it is a knowledge of the Hour. So do not be in doubt about it, and follow Me. This is a straight path."
 word_count: 11
 estimated_duration: "48-59 minutes"

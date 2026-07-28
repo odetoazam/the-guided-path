@@ -6,7 +6,7 @@ ayah_end: 37
 title: "The Threat That Never Names Its Weapon: Sulayman's Reply to Saba"
 slug: "027-037"
 category: tadabbur
-arabic: "ٱرْجِعْ إِلَيْهِمْ فَلَنَأْتِيَنَّهُم بِجُنُودٍ لَّا قِبَلَ لَهُم بِهَا وَلَنُخْرِجَنَّهُم مِّنْهَآ أَذِلَّةً وَهُمْ صَٰغِرُونَ"
+arabic: "ٱرْجِعْ إِلَيْهِمْ فَلَنَأْتِيَنَّهُم بِجُنُودٍ لَّا قِبَلَ لَهُم بِهَا وَلَنُخْرِجَنَّهُم مِّنْهَآ أَذِلَّةً وَهُمْ صَـٰغِرُونَ"
 translation: "Return to them — for we shall surely come to them with armies they have no power to face, and we shall surely drive them out of it — humiliated and made small."
 word_count: 16
 estimated_duration: "50-58 minutes"

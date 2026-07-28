@@ -6,7 +6,7 @@ ayah_end: 29
 title: "The Book That Speaks: When Your Own Life Is Given a Voice"
 slug: "045-029"
 category: tadabbur
-arabic: "هَٰذَا كِتَٰبُنَا يَنطِقُ عَلَيْكُم بِٱلْحَقِّ ۚ إِنَّا كُنَّا نَسْتَنسِخُ مَا كُنتُمْ تَعْمَلُونَ"
+arabic: "هَـٰذَا كِتَـٰبُنَا يَنطِقُ عَلَيْكُم بِٱلْحَقِّ ۚ إِنَّا كُنَّا نَسْتَنسِخُ مَا كُنتُمْ تَعْمَلُونَ"
 translation: "This, Our Record, speaks about you in truth. Indeed, We were transcribing everything you used to do."
 word_count: 11
 estimated_duration: "50-58 minutes"

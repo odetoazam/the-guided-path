@@ -6,7 +6,7 @@ ayah_end: 31
 title: "The Staff That Moved: When the Familiar Becomes Strange in the Presence of the Sacred"
 slug: "028-031"
 category: tadabbur
-arabic: "وَأَنْ أَلْقِ عَصَاكَ ۖ فَلَمَّا رَآهَا تَهْتَزُّ كَأَنَّهَا جَانٌّ وَلَّىٰ مُدْبِرًا وَلَمْ يُعَقِّبْ ۚ يَا مُوسَىٰ أَقْبِلْ وَلَا تَخَفْ ۖ إِنَّكَ مِنَ الْآمِنِينَ"
+arabic: "وَأَنْ أَلْقِ عَصَاكَ ۖ فَلَمَّا رَءَاهَا تَهْتَزُّ كَأَنَّهَا جَآنٌّ وَلَّىٰ مُدْبِرًا وَلَمْ يُعَقِّبْ ۚ يَـٰمُوسَىٰٓ أَقْبِلْ وَلَا تَخَفْ ۖ إِنَّكَ مِنَ ٱلْـَٔامِنِينَ"
 translation: "And [it was said], 'Throw down your staff.' But when he saw it writhing as if it were a serpent, he turned in flight and did not look back. [Allah said], 'O Musa, come forward and do not fear. Indeed, you are among the secure.'"
 word_count: 21
 estimated_duration: "50-55 minutes"

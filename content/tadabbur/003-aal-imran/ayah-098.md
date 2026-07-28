@@ -6,7 +6,7 @@ ayah_end: 98
 title: "Why Do You Disbelieve While You Are Seen? — The Terror and Mercy of Being Witnessed"
 slug: "003-098"
 category: tadabbur
-arabic: "قُلْ يَـٰٓأَهْلَ ٱلْكِتَـٰبِ لِمَ تَكْفُرُونَ بِـَٔايَـٰتِ ٱللَّهِ وَٱللَّهُ شَهِيدٌ عَلَىٰ مَا تَعْمَلُونَ"
+arabic: "قُلْ يَـٰٓأَهْلَ ٱلْكِتَـٰبِ لِمَ تَكْفُرُونَ بِـَٔايَـٰتِ ٱللَّهِ وَٱللَّهُ شَهِيدٌ عَلَىٰ مَا تَعْمَلُونَ"
 translation: "Say: O People of the Book, why do you disbelieve in the signs of Allah while Allah is Witness over what you do?"
 word_count: null
 estimated_duration: "45-55 minutes"

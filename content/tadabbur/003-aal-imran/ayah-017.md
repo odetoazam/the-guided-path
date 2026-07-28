@@ -6,7 +6,7 @@ ayah_end: 17
 title: "The Signature of the Righteous: Why the List Ends at Dawn, Asking to Be Forgiven"
 slug: "003-017"
 category: tadabbur
-arabic: "ٱلصَّـٰبِرِينَ وَٱلصَّـٰدِقِينَ وَٱلْقَـٰنِتِينَ وَٱلْمُنفِقِينَ وَٱلْمُسْتَغْفِرِينَ بِٱلْأَسْحَارِ"
+arabic: "ٱلصَّـٰبِرِينَ وَٱلصَّـٰدِقِينَ وَٱلْقَـٰنِتِينَ وَٱلْمُنفِقِينَ وَٱلْمُسْتَغْفِرِينَ بِٱلْأَسْحَارِ"
 translation: "[They are] those who are patient, those who are truthful, the devoutly obedient, those who spend [in the way of Allah], and those who seek forgiveness before the dawn."
 word_count: 6
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 31
 title: "Until We Make It Evident: The Test That Reveals What Allah Already Knows"
 slug: "047-031"
 category: tadabbur
-arabic: "وَلَنَبْلُوَنَّكُمْ حَتَّىٰ نَعْلَمَ ٱلْمُجَٰهِدِينَ مِنكُمْ وَٱلصَّٰبِرِينَ وَنَبْلُوَا۟ أَخْبَارَكُمْ"
+arabic: "وَلَنَبْلُوَنَّكُمْ حَتَّىٰ نَعْلَمَ ٱلْمُجَـٰهِدِينَ مِنكُمْ وَٱلصَّـٰبِرِينَ وَنَبْلُوَا۟ أَخْبَارَكُمْ"
 translation: "And We will surely test you until We make evident those who strive among you and those who are patient, and We will test your affairs."
 word_count: 8
 estimated_duration: "50-58 minutes"

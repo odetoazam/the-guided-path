@@ -6,7 +6,7 @@ ayah_end: 46
 title: "Two Prepositions and the Sealed Account of the Soul"
 slug: "041-046"
 category: tadabbur
-arabic: "مَّنْ عَمِلَ صَـٰلِحًا فَلِنَفْسِهِۦ ۖ وَمَنْ أَسَآءَ فَعَلَيْهَا ۗ وَمَا رَبُّكَ بِظَلَّـٰمٍ لِّلْعَبِيدِ"
+arabic: "مَّنْ عَمِلَ صَـٰلِحًا فَلِنَفْسِهِۦ ۖ وَمَنْ أَسَآءَ فَعَلَيْهَا ۗ وَمَا رَبُّكَ بِظَلَّـٰمٍ لِّلْعَبِيدِ"
 translation: "Whoever does righteousness — it is for his own soul. And whoever does evil — it is against it. And your Lord is never unjust to His servants."
 word_count: 8100
 estimated_duration: "50-58 minutes"

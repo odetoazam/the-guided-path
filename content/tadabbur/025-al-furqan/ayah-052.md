@@ -6,7 +6,7 @@ ayah_end: 52
 title: "The Great Jihad Is Made of Words"
 slug: "025-052"
 category: tadabbur
-arabic: "فَلَا تُطِعِ ٱلْكَٰفِرِينَ وَجَٰهِدْهُم بِهِۦ جِهَادًۭا كَبِيرًۭا"
+arabic: "فَلَا تُطِعِ ٱلْكَـٰفِرِينَ وَجَـٰهِدْهُم بِهِۦ جِهَادًا كَبِيرًا"
 translation: "So do not obey the disbelievers, and strive against them with it — a great striving."
 word_count: 9
 estimated_duration: "50-58 minutes"

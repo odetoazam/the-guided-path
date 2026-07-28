@@ -6,7 +6,7 @@ ayah_end: 71
 title: "If Truth Followed Their Desires: The Counterfactual That Holds the Cosmos Together"
 slug: "023-071"
 category: tadabbur
-arabic: "وَلَوِ ٱتَّبَعَ ٱلْحَقُّ أَهْوَآءَهُمْ لَفَسَدَتِ ٱلسَّمَـٰوَٰتُ وَٱلْأَرْضُ وَمَن فِيهِنَّ ۚ بَلْ أَتَيْنَـٰهُم بِذِكْرِهِمْ فَهُمْ عَن ذِكْرِهِم مُّعْرِضُونَ"
+arabic: "وَلَوِ ٱتَّبَعَ ٱلْحَقُّ أَهْوَآءَهُمْ لَفَسَدَتِ ٱلسَّمَـٰوَٰتُ وَٱلْأَرْضُ وَمَن فِيهِنَّ ۚ بَلْ أَتَيْنَـٰهُم بِذِكْرِهِمْ فَهُمْ عَن ذِكْرِهِم مُّعْرِضُونَ"
 translation: "And if the truth had followed their desires, the heavens and the earth and whoever is in them would have collapsed into ruin. Rather, We have brought them their reminder — yet they, from their own reminder, are turning their shoulder away."
 word_count: 18
 estimated_duration: "50-58 minutes"

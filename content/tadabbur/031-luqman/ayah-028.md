@@ -6,7 +6,7 @@ ayah_end: 28
 title: "One Soul, All Souls: The Mathematics of Divine Power"
 slug: "031-028"
 category: tadabbur
-arabic: "مَّا خَلْقُكُمْ وَلَا بَعْثُكُمْ إِلَّا كَنَفْسٍ وَاحِدَةٍ ۗ إِنَّ اللَّهَ سَمِيعٌ بَصِيرٌ"
+arabic: "مَّا خَلْقُكُمْ وَلَا بَعْثُكُمْ إِلَّا كَنَفْسٍ وَٰحِدَةٍ ۗ إِنَّ ٱللَّهَ سَمِيعٌۢ بَصِيرٌ"
 translation: "Your creation and your resurrection are not but as a single soul. Indeed, Allah is Hearing and Seeing."
 word_count: 12
 estimated_duration: "48-55 minutes"

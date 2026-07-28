@@ -6,7 +6,7 @@ ayah_end: 58
 title: "The Ease He Placed on Your Tongue"
 slug: "044-058"
 category: tadabbur
-arabic: "فَإِنَّمَا يَسَّرْنَٰهُ بِلِسَانِكَ لَعَلَّهُمْ يَتَذَكَّرُونَ"
+arabic: "فَإِنَّمَا يَسَّرْنَـٰهُ بِلِسَانِكَ لَعَلَّهُمْ يَتَذَكَّرُونَ"
 translation: "So indeed, We have made it easy upon your tongue, so that perhaps they may take heed."
 word_count: 5
 estimated_duration: "50-58 minutes"

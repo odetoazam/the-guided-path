@@ -6,7 +6,7 @@ ayah_end: 60
 title: "The Promise You Run From: Woe and the Day That Belongs to You"
 slug: "051-060"
 category: tadabbur
-arabic: "فَوَيْلٌ لِّلَّذِينَ كَفَرُوا۟ مِن يَوْمِهِمُ ٱلَّذِى يُوعَدُونَ"
+arabic: "فَوَيْلٌ لِّلَّذِينَ كَفَرُوا۟ مِن يَوْمِهِمُ ٱلَّذِى يُوعَدُونَ"
 translation: "So woe to those who disbelieved — from their Day which they are promised."
 word_count: 7
 estimated_duration: "50-58 minutes"

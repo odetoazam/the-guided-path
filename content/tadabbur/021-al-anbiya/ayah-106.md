@@ -6,7 +6,7 @@ ayah_end: 106
 title: "Balāgh: The Message That Only Arrives in a Worshipping Heart"
 slug: "021-106"
 category: tadabbur
-arabic: "إِنَّ فِى هَـٰذَا لَبَلَـٰغًۭا لِّقَوْمٍ عَـٰبِدِينَ"
+arabic: "إِنَّ فِى هَـٰذَا لَبَلَـٰغًا لِّقَوْمٍ عَـٰبِدِينَ"
 translation: "Indeed, in this is a sufficient message for a people of worship."
 word_count: 8
 estimated_duration: "50-55 minutes"

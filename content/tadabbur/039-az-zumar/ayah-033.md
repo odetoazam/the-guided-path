@@ -6,7 +6,7 @@ ayah_end: 33
 title: "The One Who Carried It and the One Who Answered: Where Truth Becomes Taqwa"
 slug: "039-033"
 category: tadabbur
-arabic: "وَٱلَّذِى جَآءَ بِٱلصِّدْقِ وَصَدَّقَ بِهِۦٓ أُو۟لَـٰٓئِكَ هُمُ ٱلْمُتَّقُونَ"
+arabic: "وَٱلَّذِى جَآءَ بِٱلصِّدْقِ وَصَدَّقَ بِهِۦٓ ۙ أُو۟لَـٰٓئِكَ هُمُ ٱلْمُتَّقُونَ"
 translation: "And the one who brought the truth and affirmed it — those, they are the people of taqwā (the God-conscious)."
 word_count: 6600
 estimated_duration: "50-58 minutes"

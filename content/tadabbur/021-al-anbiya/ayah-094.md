@@ -6,7 +6,7 @@ ayah_end: 94
 slug: al-anbiya-94-no-denial-for-your-effort
 category: tadabbur
 title: "No Denial for Your Effort — A Tadabbur on Al-Anbiya 21:94"
-arabic: "فَمَن يَعْمَلْ مِنَ ٱلصَّٰلِحَٰتِ وَهُوَ مُؤْمِنٌ فَلَا كُفْرَانَ لِسَعْيِهِۦ وَإِنَّا لَهُۥ كَٰتِبُونَ"
+arabic: "فَمَن يَعْمَلْ مِنَ ٱلصَّـٰلِحَـٰتِ وَهُوَ مُؤْمِنٌ فَلَا كُفْرَانَ لِسَعْيِهِۦ وَإِنَّا لَهُۥ كَـٰتِبُونَ"
 translation: "So whoever does righteous deeds while he is a believer — there will be no denial of his effort, and indeed, We are recording it for him."
 estimated_duration: "52 minutes"
 passage_context: "Al-Anbiya 92–97: after declaring the oneness of the prophets' message and lamenting how people fractured it, Allah pauses the eschatological warnings to make a single promise about the believer's striving, before returning to the destroyed town and the approach of the true promise."

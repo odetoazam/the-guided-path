@@ -6,7 +6,7 @@ ayah_end: 21
 title: "The Race That Was Already Won: Competing Toward What Is Already Prepared"
 slug: "057-021"
 category: tadabbur
-arabic: "سَابِقُوٓاْ إِلَىٰ مَغْفِرَةٍ مِّن رَّبِّكُمْ وَجَنَّةٍ عَرْضُهَا كَعَرْضِ ٱلسَّمَآءِ وَٱلْأَرْضِ أُعِدَّتْ لِلَّذِينَ ءَامَنُواْ بِٱللَّهِ وَرُسُلِهِۦ ۚ ذَٰلِكَ فَضْلُ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ ۚ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ"
+arabic: "سَابِقُوٓا۟ إِلَىٰ مَغْفِرَةٍ مِّن رَّبِّكُمْ وَجَنَّةٍ عَرْضُهَا كَعَرْضِ ٱلسَّمَآءِ وَٱلْأَرْضِ أُعِدَّتْ لِلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَرُسُلِهِۦ ۚ ذَٰلِكَ فَضْلُ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ ۚ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ"
 translation: "Race toward forgiveness from your Lord and a Garden whose breadth is like the breadth of the heaven and the earth, prepared for those who believe in Allah and His messengers. That is the bounty of Allah; He gives it to whom He wills. And Allah is the Possessor of immense bounty."
 word_count: 6400
 estimated_duration: "50-58 minutes"

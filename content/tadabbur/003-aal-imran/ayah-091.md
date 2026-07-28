@@ -6,7 +6,7 @@ ayah_end: 91
 title: "The Currency That Expires: An Earth Full of Gold at the Door of Death"
 slug: "003-091"
 category: tadabbur
-arabic: "إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَمَاتُوا۟ وَهُمْ كُفَّارٌ فَلَن يُقْبَلَ مِنْ أَحَدِهِم مِّلْءُ ٱلْأَرْضِ ذَهَبًۭا وَلَوِ ٱفْتَدَىٰ بِهِۦ ۗ أُو۟لَـٰٓئِكَ لَهُمْ عَذَابٌ أَلِيمٌۭ وَمَا لَهُم مِّن نَّـٰصِرِينَ"
+arabic: "إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَمَاتُوا۟ وَهُمْ كُفَّارٌ فَلَن يُقْبَلَ مِنْ أَحَدِهِم مِّلْءُ ٱلْأَرْضِ ذَهَبًا وَلَوِ ٱفْتَدَىٰ بِهِۦٓ ۗ أُو۟لَـٰٓئِكَ لَهُمْ عَذَابٌ أَلِيمٌ وَمَا لَهُم مِّن نَّـٰصِرِينَ"
 translation: "Indeed, those who disbelieve and die while they are disbelievers — never will an earth-full of gold be accepted from any one of them, even if he were to offer it as ransom. For those there is a painful punishment, and they will have no helpers."
 word_count: 24
 estimated_duration: "50-58 minutes"

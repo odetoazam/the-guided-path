@@ -6,7 +6,7 @@ ayah_end: 10
 title: "When the Question Names the Questioner"
 slug: "032-010"
 category: tadabbur
-arabic: "وَقَالُوٓا۟ أَءِذَا ضَلَلْنَا فِى ٱلْأَرْضِ أَءِنَّا لَفِى خَلْقٍ جَدِيدٍۭ ۚ بَلْ هُم بِلِقَآءِ رَبِّهِمْ كَـٰفِرُونَ"
+arabic: "وَقَالُوٓا۟ أَءِذَا ضَلَلْنَا فِى ٱلْأَرْضِ أَءِنَّا لَفِى خَلْقٍ جَدِيدٍۭ ۚ بَلْ هُم بِلِقَآءِ رَبِّهِمْ كَـٰفِرُونَ"
 translation: "And they say, 'When we are lost in the earth, will we really be in a new creation?' Rather, they are — in the meeting with their Lord — disbelievers."
 word_count: 17
 estimated_duration: "50-58 minutes"

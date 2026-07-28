@@ -6,7 +6,7 @@ ayah_end: 28
 title: "The Universe Refuses to Treat You the Same: Why Allah's Wisdom Cannot Flatten the Difference Between Builder and Breaker"
 slug: "038-028"
 category: tadabbur
-arabic: "أَمْ نَجْعَلُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ كَٱلْمُفْسِدِينَ فِى ٱلْأَرْضِ أَمْ نَجْعَلُ ٱلْمُتَّقِينَ كَٱلْفُجَّارِ"
+arabic: "أَمْ نَجْعَلُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ كَٱلْمُفْسِدِينَ فِى ٱلْأَرْضِ أَمْ نَجْعَلُ ٱلْمُتَّقِينَ كَٱلْفُجَّارِ"
 translation: "Or should We treat those who believe and do righteous deeds like those who spread corruption in the earth? Or should We treat the God-conscious like the wicked?"
 word_count: 13
 estimated_duration: "50-58 minutes"

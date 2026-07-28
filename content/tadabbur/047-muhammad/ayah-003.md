@@ -6,7 +6,7 @@ ayah_end: 3
 title: "The Two Followers: Why Falsehood Has No Address and Truth Has a Lord"
 slug: "047-003"
 category: tadabbur
-arabic: "ذَٰلِكَ بِأَنَّ ٱلَّذِينَ كَفَرُوا۟ ٱتَّبَعُوا۟ ٱلْبَٰطِلَ وَأَنَّ ٱلَّذِينَ ءَامَنُوا۟ ٱتَّبَعُوا۟ ٱلْحَقَّ مِن رَّبِّهِمْ ۚ كَذَٰلِكَ يَضْرِبُ ٱللَّهُ لِلنَّاسِ أَمْثَٰلَهُمْ"
+arabic: "ذَٰلِكَ بِأَنَّ ٱلَّذِينَ كَفَرُوا۟ ٱتَّبَعُوا۟ ٱلْبَـٰطِلَ وَأَنَّ ٱلَّذِينَ ءَامَنُوا۟ ٱتَّبَعُوا۟ ٱلْحَقَّ مِن رَّبِّهِمْ ۚ كَذَٰلِكَ يَضْرِبُ ٱللَّهُ لِلنَّاسِ أَمْثَـٰلَهُمْ"
 translation: "That is because those who disbelieve follow falsehood, while those who believe follow the truth from their Lord. Thus does Allah set forth for people their comparisons."
 word_count: 18
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 8
 title: "The Gift With No Wound: Why the Reward Is Called غَيْرُ مَمْنُونٍ"
 slug: "041-008"
 category: tadabbur
-arabic: "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ"
+arabic: "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ"
 translation: "Indeed, those who believe and do righteous deeds — for them is a reward never ending."
 word_count: 8
 estimated_duration: "50-58 minutes"

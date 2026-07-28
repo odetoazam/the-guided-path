@@ -6,7 +6,7 @@ ayah_end: 5
 title: "The Hidden 'So That': How a Treaty That Looked Like Surrender Was a Door Into the Gardens"
 slug: "048-005"
 category: tadabbur
-arabic: "لِّيُدْخِلَ ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا وَيُكَفِّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ ۚ وَكَانَ ذَٰلِكَ عِندَ ٱللَّهِ فَوْزًا عَظِيمًا"
+arabic: "لِّيُدْخِلَ ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَا وَيُكَفِّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ ۚ وَكَانَ ذَٰلِكَ عِندَ ٱللَّهِ فَوْزًا عَظِيمًا"
 translation: "That He may admit the believing men and the believing women into Gardens beneath which rivers flow, to abide therein forever, and that He may remove from them their misdeeds — and that, in the sight of Allah, is the great triumph."
 word_count: 19
 estimated_duration: "50-58 minutes"

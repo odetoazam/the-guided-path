@@ -6,7 +6,7 @@ ayah_end: 59
 title: "The One Word That Overturns Every Excuse"
 slug: "039-059"
 category: tadabbur
-arabic: "بَلَىٰ قَدْ جَآءَتْكَ ءَايَٰتِى فَكَذَّبْتَ بِهَا وَٱسْتَكْبَرْتَ وَكُنتَ مِنَ ٱلْكَٰفِرِينَ"
+arabic: "بَلَىٰ قَدْ جَآءَتْكَ ءَايَـٰتِى فَكَذَّبْتَ بِهَا وَٱسْتَكْبَرْتَ وَكُنتَ مِنَ ٱلْكَـٰفِرِينَ"
 translation: "Yes indeed! My signs did come to you — but you denied them, and were arrogant, and were among the disbelievers."
 word_count: 10
 estimated_duration: "50-58 minutes"

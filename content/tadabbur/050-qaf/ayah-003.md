@@ -6,7 +6,7 @@ ayah_end: 3
 title: "The Word They Could Not Say: A Grammar of the Closed Mind"
 slug: "050-003"
 category: tadabbur
-arabic: "أَءِذَا مِتْنَا وَكُنَّا تُرَابًا ۖ ذَٰلِكَ رَجْعٌۢ بَعِيدٌ"
+arabic: "أَءِذَا مِتْنَا وَكُنَّا تُرَابًا ۖ ذَٰلِكَ رَجْعٌۢ بَعِيدٌ"
 translation: "What — when we have died and become dust? That is a far-fetched return."
 word_count: 5800
 estimated_duration: "48-56 minutes"

@@ -6,7 +6,7 @@ ayah_end: 55
 title: "The Forced Binary — When Truth Sounds Like Play"
 slug: "021-055"
 category: tadabbur
-arabic: "قَالُوٓا۟ أَجِئْتَنَا بِٱلْحَقِّ أَمْ أَنتَ مِنَ ٱللَّـٰعِبِينَ"
+arabic: "قَالُوٓا۟ أَجِئْتَنَا بِٱلْحَقِّ أَمْ أَنتَ مِنَ ٱللَّـٰعِبِينَ"
 translation: "They said: Have you come to us with the truth, or are you among those who play?"
 word_count: 9
 estimated_duration: "48-54 minutes"

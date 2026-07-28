@@ -6,7 +6,7 @@ ayah_end: 29
 title: "The Subjugated Witnesses: When Sun and Moon Testify to Your Smallness"
 slug: "031-029"
 category: tadabbur
-arabic: "أَلَمْ تَرَ أَنَّ ٱللَّهَ يُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَيُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ وَسَخَّرَ ٱلشَّمْسَ وَٱلْقَمَرَ كُلٌّ يَجْرِىٓ إِلَىٰٓ أَجَلٍۢ مُّسَمًّى وَأَنَّ ٱللَّهَ بِمَا تَعْمَلُونَ خَبِيرٌۭ"
+arabic: "أَلَمْ تَرَ أَنَّ ٱللَّهَ يُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَيُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ وَسَخَّرَ ٱلشَّمْسَ وَٱلْقَمَرَ كُلٌّ يَجْرِىٓ إِلَىٰٓ أَجَلٍ مُّسَمًّى وَأَنَّ ٱللَّهَ بِمَا تَعْمَلُونَ خَبِيرٌ"
 translation: "Have you not seen that Allah merges the night into the day and merges the day into the night, and has subjugated the sun and the moon — each running toward an appointed term — and that Allah, of all that you do, is fully aware?"
 word_count: 32
 estimated_duration: "50-55 minutes"

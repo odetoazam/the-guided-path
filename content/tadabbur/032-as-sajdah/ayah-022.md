@@ -6,7 +6,7 @@ ayah_end: 22
 title: "The Most Wrong: When the Reminder Itself Becomes the Evidence"
 slug: "032-022"
 category: tadabbur
-arabic: "وَمَنْ أَظْلَمُ مِمَّن ذُكِّرَ بِـَٔايَـٰتِ رَبِّهِۦ ثُمَّ أَعْرَضَ عَنْهَآ ۚ إِنَّا مِنَ ٱلْمُجْرِمِينَ مُنتَقِمُونَ"
+arabic: "وَمَنْ أَظْلَمُ مِمَّن ذُكِّرَ بِـَٔايَـٰتِ رَبِّهِۦ ثُمَّ أَعْرَضَ عَنْهَآ ۚ إِنَّا مِنَ ٱلْمُجْرِمِينَ مُنتَقِمُونَ"
 translation: "And who is more unjust than one who is reminded of the signs of his Lord, then turns away from them? Indeed, We will exact retribution from the criminals."
 word_count: 15
 estimated_duration: "50-55 minutes"

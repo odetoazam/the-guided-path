@@ -6,7 +6,7 @@ ayah_end: 56
 title: "The Mockery That Names the Mocker: When Purity Is Made a Crime"
 slug: "027-056"
 category: tadabbur
-arabic: "۞ فَمَا كَانَ جَوَابَ قَوْمِهِۦٓ إِلَّآ أَن قَالُوٓا۟ أَخْرِجُوٓا۟ ءَالَ لُوطٍ مِّن قَرْيَتِكُمْ ۖ إِنَّهُمْ أُنَاسٌ يَتَطَهَّرُونَ"
+arabic: "۞ فَمَا كَانَ جَوَابَ قَوْمِهِۦٓ إِلَّآ أَن قَالُوٓا۟ أَخْرِجُوٓا۟ ءَالَ لُوطٍ مِّن قَرْيَتِكُمْ ۖ إِنَّهُمْ أُنَاسٌ يَتَطَهَّرُونَ"
 translation: "But the only answer of his people was that they said, 'Expel the family of Lot from your town. Indeed, they are people who keep themselves pure.'"
 word_count: 17
 estimated_duration: "50-58 minutes"

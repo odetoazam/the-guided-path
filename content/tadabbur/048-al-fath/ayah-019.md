@@ -6,7 +6,7 @@ ayah_end: 19
 title: "The Gain You Did Not Earn: Spoils Named Before They Arrived"
 slug: "048-019"
 category: tadabbur
-arabic: "وَمَغَانِمَ كَثِيرَةً يَأْخُذُونَهَا ۗ وَكَانَ ٱللَّهُ عَزِيزًا حَكِيمًا"
+arabic: "وَمَغَانِمَ كَثِيرَةً يَأْخُذُونَهَا ۗ وَكَانَ ٱللَّهُ عَزِيزًا حَكِيمًا"
 translation: "And much war-gain that they will take. And Allah is ever Mighty, Wise."
 word_count: 7
 estimated_duration: "48-58 minutes"

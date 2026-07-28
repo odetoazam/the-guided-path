@@ -6,7 +6,7 @@ ayah_end: 14
 title: "Sailing Under Our Eyes: When the Flood Became a Payment"
 slug: "054-014"
 category: tadabbur
-arabic: "تَجْرِى بِأَعْيُنِنَا جَزَآءً لِّمَن كَانَ كُفِرَ"
+arabic: "تَجْرِى بِأَعْيُنِنَا جَزَآءً لِّمَن كَانَ كُفِرَ"
 translation: "Sailing under Our eyes — a recompense for the one who had been denied."
 word_count: 5900
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 15
 title: "The Lesson That Just Happened: Tasting the Weight of Your Own Affair"
 slug: "059-015"
 category: tadabbur
-arabic: "كَمَثَلِ ٱلَّذِينَ مِن قَبْلِهِمْ قَرِيبًا ۖ ذَاقُوا۟ وَبَالَ أَمْرِهِمْ ۖ وَلَهُمْ عَذَابٌ أَلِيمٌ"
+arabic: "كَمَثَلِ ٱلَّذِينَ مِن قَبْلِهِمْ قَرِيبًا ۖ ذَاقُوا۟ وَبَالَ أَمْرِهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ"
 translation: "Like the example of those shortly before them — they tasted the evil consequence of their own affair, and for them is a painful punishment."
 word_count: 11
 estimated_duration: "50-58 minutes"

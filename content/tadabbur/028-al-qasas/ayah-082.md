@@ -6,7 +6,7 @@ ayah_end: 82
 title: "The Morning After: When Yesterday's Envy Becomes Today's Terror"
 slug: "028-082"
 category: tadabbur
-arabic: "وَأَصْبَحَ ٱلَّذِينَ تَمَنَّوْا۟ مَكَانَهُۥ بِٱلْأَمْسِ يَقُولُونَ وَيْكَأَنَّ ٱللَّهَ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ مِنْ عِبَادِهِۦ وَيَقْدِرُ ۖ لَوْلَآ أَن مَّنَّ ٱللَّهُ عَلَيْنَا لَخَسَفَ بِنَا ۖ وَيْكَأَنَّهُۥ لَا يُفْلِحُ ٱلْكَـٰفِرُونَ"
+arabic: "وَأَصْبَحَ ٱلَّذِينَ تَمَنَّوْا۟ مَكَانَهُۥ بِٱلْأَمْسِ يَقُولُونَ وَيْكَأَنَّ ٱللَّهَ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ مِنْ عِبَادِهِۦ وَيَقْدِرُ ۖ لَوْلَآ أَن مَّنَّ ٱللَّهُ عَلَيْنَا لَخَسَفَ بِنَا ۖ وَيْكَأَنَّهُۥ لَا يُفْلِحُ ٱلْكَـٰفِرُونَ"
 translation: "And those who had wished for his position the day before began to say, 'Oh! It is as if Allah extends provision to whom He wills of His servants and restricts it. If not for Allah having conferred favor upon us, He would have caused it to swallow us. Oh! It is as if the disbelievers do not succeed.'"
 word_count: 31
 estimated_duration: "50-58 minutes"

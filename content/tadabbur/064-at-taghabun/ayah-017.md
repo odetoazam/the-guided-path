@@ -6,7 +6,7 @@ ayah_end: 17
 title: "The Loan That Comes Back Multiplied — and the Borrower Who Says Thank You"
 slug: "064-017"
 category: tadabbur
-arabic: "إِن تُقْرِضُوا۟ ٱللَّهَ قَرْضًا حَسَنًۭا يُضَـٰعِفْهُ لَكُمْ وَيَغْفِرْ لَكُمْ ۚ وَٱللَّهُ شَكُورٌ حَلِيمٌۭ"
+arabic: "إِن تُقْرِضُوا۟ ٱللَّهَ قَرْضًا حَسَنًا يُضَـٰعِفْهُ لَكُمْ وَيَغْفِرْ لَكُمْ ۚ وَٱللَّهُ شَكُورٌ حَلِيمٌ"
 translation: "If you lend to Allah a goodly loan, He will multiply it for you and forgive you. And Allah is Most Appreciative, Most Forbearing."
 word_count: 6600
 estimated_duration: "48-59 minutes"

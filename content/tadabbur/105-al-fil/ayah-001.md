@@ -6,7 +6,7 @@ ayah_end: 1
 title: "Have You Not Seen: The Question That Was Already Answered Before You Were Born"
 slug: "105-001"
 category: tadabbur
-arabic: "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَٰبِ ٱلْفِيلِ"
+arabic: "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ"
 translation: "Have you not seen how your Lord dealt with the companions of the elephant?"
 word_count: 7
 estimated_duration: "48-58 minutes"

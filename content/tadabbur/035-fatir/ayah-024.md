@@ -6,7 +6,7 @@ ayah_end: 24
 title: "The Warner Who Reached Every Nation: Justice as the Floor, Mercy as the Crown"
 slug: "035-024"
 category: tadabbur
-arabic: "إِنَّآ أَرْسَلْنَٰكَ بِٱلْحَقِّ بَشِيرًۭا وَنَذِيرًۭا ۚ وَإِن مِّنْ أُمَّةٍ إِلَّا خَلَا فِيهَا نَذِيرٌۭ"
+arabic: "إِنَّآ أَرْسَلْنَـٰكَ بِٱلْحَقِّ بَشِيرًا وَنَذِيرًا ۚ وَإِن مِّنْ أُمَّةٍ إِلَّا خَلَا فِيهَا نَذِيرٌ"
 translation: "Indeed, We have sent you with the truth as a bearer of glad tidings and as a warner. And there was no nation but that a warner had passed within it."
 word_count: 12
 estimated_duration: "50-58 minutes"

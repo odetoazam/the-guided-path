@@ -6,7 +6,7 @@ ayah_end: 10
 title: "Had We Only Listened — The Faculty That Was Never Broken"
 slug: "067-010"
 category: tadabbur
-arabic: "وَقَالُوا۟ لَوْ كُنَّا نَسْمَعُ أَوْ نَعْقِلُ مَا كُنَّا فِىٓ أَصْحَـٰبِ ٱلسَّعِيرِ"
+arabic: "وَقَالُوا۟ لَوْ كُنَّا نَسْمَعُ أَوْ نَعْقِلُ مَا كُنَّا فِىٓ أَصْحَـٰبِ ٱلسَّعِيرِ"
 translation: "And they will say, 'If only we had been listening, or reasoning, we would not be among the companions of the Blaze.'"
 word_count: 11
 estimated_duration: "50-58 minutes"

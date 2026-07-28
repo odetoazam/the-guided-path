@@ -6,7 +6,7 @@ ayah_end: 49
 title: "The Quran as Clear Signs Inside the Chests of Those Given Knowledge"
 slug: "029-049"
 category: tadabbur
-arabic: "بَلْ هُوَ آيَاتٌ بَيِّنَاتٌ فِي صُدُورِ الَّذِينَ أُوتُوا الْعِلْمَ ۚ وَمَا يَجْحَدُ بِآيَاتِنَا إِلَّا الظَّالِمُونَ"
+arabic: "بَلْ هُوَ ءَايَـٰتٌۢ بَيِّنَـٰتٌ فِى صُدُورِ ٱلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ ۚ وَمَا يَجْحَدُ بِـَٔايَـٰتِنَآ إِلَّا ٱلظَّـٰلِمُونَ"
 translation: "Rather, it is clear signs in the chests of those who have been given knowledge. And none reject Our signs except the wrongdoers."
 word_count: 13
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 59
 title: "Stand Apart: The Sin That Was Always a Severing"
 slug: "036-059"
 category: tadabbur
-arabic: "وَٱمْتَٰزُوا۟ ٱلْيَوْمَ أَيُّهَا ٱلْمُجْرِمُونَ"
+arabic: "وَٱمْتَـٰزُوا۟ ٱلْيَوْمَ أَيُّهَا ٱلْمُجْرِمُونَ"
 translation: "And stand apart this Day, O criminals!"
 word_count: 4
 estimated_duration: "50-58 minutes"

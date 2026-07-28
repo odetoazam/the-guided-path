@@ -6,7 +6,7 @@ ayah_end: 2
 title: "The Victory That Was Really a Doorway: How an Apparent Loss Opened Forgiveness Across All of Time"
 slug: "048-002"
 category: tadabbur
-arabic: "لِّيَغْفِرَ لَكَ ٱللَّهُ مَا تَقَدَّمَ مِن ذَنۢبِكَ وَمَا تَأَخَّرَ وَيُتِمَّ نِعْمَتَهُۥ عَلَيْكَ وَيَهْدِيَكَ صِرَٰطًا مُّسْتَقِيمًا"
+arabic: "لِّيَغْفِرَ لَكَ ٱللَّهُ مَا تَقَدَّمَ مِن ذَنۢبِكَ وَمَا تَأَخَّرَ وَيُتِمَّ نِعْمَتَهُۥ عَلَيْكَ وَيَهْدِيَكَ صِرَٰطًا مُّسْتَقِيمًا"
 translation: "That Allah may forgive for you what has preceded of your fault and what will follow, and complete His favor upon you, and guide you to a straight path."
 word_count: 4200
 estimated_duration: "50-58 minutes"

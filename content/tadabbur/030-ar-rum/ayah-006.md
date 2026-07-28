@@ -6,7 +6,7 @@ ayah_end: 6
 title: "The Promise That Cannot Be Broken: When Allah Stakes His Own Word"
 slug: "030-006"
 category: tadabbur
-arabic: "وَعْدَ ٱللَّهِ ۖ لَا يُخْلِفُ ٱللَّهُ وَعْدَهُۥ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ"
+arabic: "وَعْدَ ٱللَّهِ ۖ لَا يُخْلِفُ ٱللَّهُ وَعْدَهُۥ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ"
 translation: "[This is] the promise of Allah. Allah does not break His promise — but most of the people do not know."
 word_count: 11
 estimated_duration: "48-55 minutes"

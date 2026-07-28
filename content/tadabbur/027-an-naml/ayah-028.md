@@ -6,7 +6,7 @@ ayah_end: 28
 title: "The Letter and the Withdrawal: Sulaymān's Strategy of Distance"
 slug: "027-028"
 category: tadabbur
-arabic: "ٱذْهَب بِّكِتَـٰبِى هَـٰذَا فَأَلْقِهْ إِلَيْهِمْ ثُمَّ تَوَلَّ عَنْهُمْ فَٱنظُرْ مَاذَا يَرْجِعُونَ"
+arabic: "ٱذْهَب بِّكِتَـٰبِى هَـٰذَا فَأَلْقِهْ إِلَيْهِمْ ثُمَّ تَوَلَّ عَنْهُمْ فَٱنظُرْ مَاذَا يَرْجِعُونَ"
 translation: "Take this letter of mine and deliver it to them, then withdraw from them and observe what they return with."
 word_count: 11
 estimated_duration: "48-54 minutes"

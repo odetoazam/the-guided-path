@@ -6,7 +6,7 @@ ayah_end: 7
 title: "Spread, Anchored, and Beautiful: The Earth as Allah's Answer to 'Impossible'"
 slug: "050-007"
 category: tadabbur
-arabic: "وَٱلْأَرْضَ مَدَدْنَـٰهَا وَأَلْقَيْنَا فِيهَا رَوَٰسِىَ وَأَنۢبَتْنَا فِيهَا مِن كُلِّ زَوْجٍۭ بَهِيجٍ"
+arabic: "وَٱلْأَرْضَ مَدَدْنَـٰهَا وَأَلْقَيْنَا فِيهَا رَوَٰسِىَ وَأَنۢبَتْنَا فِيهَا مِن كُلِّ زَوْجٍۭ بَهِيجٍ"
 translation: "And the earth — We spread it out and cast therein firmly-set mountains, and We caused to grow therein of every beautiful kind."
 word_count: 5100
 estimated_duration: "50-58 minutes"

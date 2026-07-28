@@ -6,7 +6,7 @@ ayah_end: 27
 title: "Surrounded by Ruins: The Signs Turned Toward You"
 slug: "046-027"
 category: tadabbur
-arabic: "وَلَقَدْ أَهْلَكْنَا مَا حَوْلَكُم مِّنَ ٱلْقُرَىٰ وَصَرَّفْنَا ٱلْـَٔايَـٰتِ لَعَلَّهُمْ يَرْجِعُونَ"
+arabic: "وَلَقَدْ أَهْلَكْنَا مَا حَوْلَكُم مِّنَ ٱلْقُرَىٰ وَصَرَّفْنَا ٱلْـَٔايَـٰتِ لَعَلَّهُمْ يَرْجِعُونَ"
 translation: "And certainly We destroyed the towns that surround you, and We turned the signs about — presenting them from every angle — so that they might return."
 word_count: 10
 estimated_duration: "50-58 minutes"

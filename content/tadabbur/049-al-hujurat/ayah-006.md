@@ -6,7 +6,7 @@ ayah_end: 6
 title: "The Gap Before You Move: Verification and the Morning of Regret"
 slug: "049-006"
 category: tadabbur
-arabic: "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِن جَآءَكُمْ فَاسِقٌۢ بِنَبَإٍ فَتَبَيَّنُوٓاْ أَن تُصِيبُواْ قَوْمَۢا بِجَهَـٰلَةٍ فَتُصْبِحُواْ عَلَىٰ مَا فَعَلْتُمْ نَـٰدِمِينَ"
+arabic: "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِن جَآءَكُمْ فَاسِقٌۢ بِنَبَإٍ فَتَبَيَّنُوٓا۟ أَن تُصِيبُوا۟ قَوْمًۢا بِجَهَـٰلَةٍ فَتُصْبِحُوا۟ عَلَىٰ مَا فَعَلْتُمْ نَـٰدِمِينَ"
 translation: "O you who believe! If a transgressor comes to you with weighty news, investigate it thoroughly — lest you strike down a people in ignorance, and then wake to find yourselves regretting what you did."
 word_count: 18
 estimated_duration: "50-58 minutes"

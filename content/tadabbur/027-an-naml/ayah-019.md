@@ -6,7 +6,7 @@ ayah_end: 19
 title: "The Smile That Saw an Ant — Sulayman's Laughter and the Weight of Gratitude"
 slug: "027-019"
 category: tadabbur
-arabic: "فَتَبَسَّمَ ضَاحِكًۭا مِّن قَوْلِهَا وَقَالَ رَبِّ أَوْزِعْنِىٓ أَنْ أَشْكُرَ نِعْمَتَكَ ٱلَّتِىٓ أَنْعَمْتَ عَلَىَّ وَعَلَىٰ وَٰلِدَىَّ وَأَنْ أَعْمَلَ صَـٰلِحًۭا تَرْضَىٰهُ وَأَدْخِلْنِى بِرَحْمَتِكَ فِى عِبَادِكَ ٱلصَّـٰلِحِينَ"
+arabic: "فَتَبَسَّمَ ضَاحِكًا مِّن قَوْلِهَا وَقَالَ رَبِّ أَوْزِعْنِىٓ أَنْ أَشْكُرَ نِعْمَتَكَ ٱلَّتِىٓ أَنْعَمْتَ عَلَىَّ وَعَلَىٰ وَٰلِدَىَّ وَأَنْ أَعْمَلَ صَـٰلِحًا تَرْضَىٰهُ وَأَدْخِلْنِى بِرَحْمَتِكَ فِى عِبَادِكَ ٱلصَّـٰلِحِينَ"
 translation: "So he smiled — laughing at her words — and said: 'My Lord, dispose me to be thankful for the favor You have bestowed upon me and upon my parents, and to do righteousness that pleases You. And admit me, by Your mercy, among Your righteous servants.'"
 word_count: 32
 estimated_duration: "50-58 minutes"

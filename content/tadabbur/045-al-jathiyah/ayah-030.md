@@ -6,7 +6,7 @@ ayah_end: 30
 title: "Admitted Into Mercy: When the Doer Becomes the Carried"
 slug: "045-030"
 category: tadabbur
-arabic: "فَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ فَيُدْخِلُهُمْ رَبُّهُمْ فِى رَحْمَتِهِۦ ۚ ذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْمُبِينُ"
+arabic: "فَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ فَيُدْخِلُهُمْ رَبُّهُمْ فِى رَحْمَتِهِۦ ۚ ذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْمُبِينُ"
 translation: "Then as for those who believed and did righteous deeds, their Lord will admit them into His mercy. That — that alone — is the clear triumph."
 word_count: 31
 estimated_duration: "50-58 minutes"

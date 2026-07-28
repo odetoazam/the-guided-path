@@ -6,7 +6,7 @@ ayah_end: 17
 title: "The Balance That Descended: Justice, the Book, and the Hour You Cannot See"
 slug: "042-017"
 category: tadabbur
-arabic: "ٱللَّهُ ٱلَّذِىٓ أَنزَلَ ٱلْكِتَـٰبَ بِٱلْحَقِّ وَٱلْمِيزَانَ ۗ وَمَا يُدْرِيكَ لَعَلَّ ٱلسَّاعَةَ قَرِيبٌ"
+arabic: "ٱللَّهُ ٱلَّذِىٓ أَنزَلَ ٱلْكِتَـٰبَ بِٱلْحَقِّ وَٱلْمِيزَانَ ۗ وَمَا يُدْرِيكَ لَعَلَّ ٱلسَّاعَةَ قَرِيبٌ"
 translation: "Allah is the One Who sent down the Book in truth, and the Balance. And what will make you realize — perhaps the Hour is near."
 word_count: 11
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 123
 title: "Not By Your Wishing: When Belonging Is Mistaken for Belief"
 slug: "004-123"
 category: tadabbur
-arabic: "لَّيْسَ بِأَمَانِيِّكُمْ وَلَآ أَمَانِيِّ أَهْلِ ٱلْكِتَـٰبِ ۗ مَن يَعْمَلْ سُوٓءًا يُجْزَ بِهِۦ وَلَا يَجِدْ لَهُۥ مِن دُونِ ٱللَّهِ وَلِيًّا وَلَا نَصِيرًا"
+arabic: "لَّيْسَ بِأَمَانِيِّكُمْ وَلَآ أَمَانِىِّ أَهْلِ ٱلْكِتَـٰبِ ۗ مَن يَعْمَلْ سُوٓءًا يُجْزَ بِهِۦ وَلَا يَجِدْ لَهُۥ مِن دُونِ ٱللَّهِ وَلِيًّا وَلَا نَصِيرًا"
 translation: "It is not by your wishful thinking, nor by the wishful thinking of the People of the Book. Whoever does evil will be recompensed for it, and he will not find for himself besides Allah any protector or helper."
 word_count: 20
 estimated_duration: "50-58 minutes"

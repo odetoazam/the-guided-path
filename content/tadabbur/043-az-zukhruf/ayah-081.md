@@ -6,7 +6,7 @@ ayah_end: 81
 title: "If He Had a Son, I Would Be First to Worship Him: The Honesty That Disarms"
 slug: "043-081"
 category: tadabbur
-arabic: "قُلْ إِن كَانَ لِلرَّحْمَـٰنِ وَلَدٌ فَأَنَا۠ أَوَّلُ ٱلْعَـٰبِدِينَ"
+arabic: "قُلْ إِن كَانَ لِلرَّحْمَـٰنِ وَلَدٌ فَأَنَا۠ أَوَّلُ ٱلْعَـٰبِدِينَ"
 translation: "Say: If the Most Merciful had a son, then I would be the first of the worshippers."
 word_count: 8
 estimated_duration: "50-58 minutes"

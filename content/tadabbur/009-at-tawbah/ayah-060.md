@@ -6,7 +6,7 @@ ayah_end: 60
 title: "The Architecture of Sacred Wealth — Why Allah Says 'For Them' for Some and 'In Them' for Others"
 slug: "009-060"
 category: tadabbur
-arabic: "إِنَّمَا ٱلصَّدَقَـٰتُ لِلْفُقَرَآءِ وَٱلْمَسَـٰكِينِ وَٱلْعَـٰمِلِينَ عَلَيْهَا وَٱلْمُؤَلَّفَةِ قُلُوبُهُمْ وَفِى ٱلرِّقَابِ وَٱلْغَـٰرِمِينَ وَفِى سَبِيلِ ٱللَّهِ وَٱبْنِ ٱلسَّبِيلِ ۖ فَرِيضَةً مِّنَ ٱللَّهِ ۗ وَٱللَّهُ عَلِيمٌ حَكِيمٌ"
+arabic: "۞ إِنَّمَا ٱلصَّدَقَـٰتُ لِلْفُقَرَآءِ وَٱلْمَسَـٰكِينِ وَٱلْعَـٰمِلِينَ عَلَيْهَا وَٱلْمُؤَلَّفَةِ قُلُوبُهُمْ وَفِى ٱلرِّقَابِ وَٱلْغَـٰرِمِينَ وَفِى سَبِيلِ ٱللَّهِ وَٱبْنِ ٱلسَّبِيلِ ۖ فَرِيضَةً مِّنَ ٱللَّهِ ۗ وَٱللَّهُ عَلِيمٌ حَكِيمٌ"
 translation: "The [obligatory] charities — zakāh — are only for the poor, and the destitute, and those who administer them, and those whose hearts are to be reconciled, and for [freeing] those in bondage, and for those weighed down by debt, and in the path of Allah, and for the stranded traveler — an obligation imposed by Allah. And Allah is All-Knowing, All-Wise."
 word_count: 26
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 61
 title: "The Moment of Certain Capture: When the Eye Sees What the Heart Already Knew"
 slug: "026-061"
 category: tadabbur
-arabic: "فَلَمَّا تَرَٰٓءَا ٱلْجَمْعَانِ قَالَ أَصْحَٰبُ مُوسَىٰٓ إِنَّا لَمُدْرَكُونَ"
+arabic: "فَلَمَّا تَرَٰٓءَا ٱلْجَمْعَانِ قَالَ أَصْحَـٰبُ مُوسَىٰٓ إِنَّا لَمُدْرَكُونَ"
 translation: "And when the two companies saw one another, the companions of Moses said, 'Indeed, we are surely going to be overtaken.'"
 word_count: 9
 estimated_duration: "50-55 minutes"

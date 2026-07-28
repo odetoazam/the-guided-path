@@ -6,7 +6,7 @@ ayah_end: 54
 title: "Knowledge That Humbles: The Heart as Level Ground"
 slug: "022-054"
 category: tadabbur
-arabic: "وَلِيَعْلَمَ ٱلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ أَنَّهُ ٱلْحَقُّ مِن رَّبِّكَ فَيُؤْمِنُوا۟ بِهِۦ فَتُخْبِتَ لَهُۥ قُلُوبُهُمْ ۗ وَإِنَّ ٱللَّهَ لَهَادِ ٱلَّذِينَ ءَامَنُوٓا۟ إِلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ"
+arabic: "وَلِيَعْلَمَ ٱلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ أَنَّهُ ٱلْحَقُّ مِن رَّبِّكَ فَيُؤْمِنُوا۟ بِهِۦ فَتُخْبِتَ لَهُۥ قُلُوبُهُمْ ۗ وَإِنَّ ٱللَّهَ لَهَادِ ٱلَّذِينَ ءَامَنُوٓا۟ إِلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ"
 translation: "And so that those who have been given knowledge may know that it is the truth from your Lord, and so they may believe in it, and their hearts may humble themselves to it. And indeed Allah is the Guide of those who believe — to a straight path."
 word_count: 28
 estimated_duration: "50-58 minutes"

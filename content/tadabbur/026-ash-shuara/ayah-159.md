@@ -6,7 +6,7 @@ ayah_end: 159
 title: "The Names That Don't Move: Mercy as the Architecture of the Test"
 slug: "026-159"
 category: tadabbur
-arabic: "وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ"
+arabic: "وَإِنَّ رَبَّكَ لَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ"
 translation: "And indeed, your Lord — He is the Exalted in Might, the Merciful."
 word_count: 4350
 estimated_duration: "50-58 minutes"

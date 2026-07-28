@@ -6,7 +6,7 @@ ayah_end: 15
 title: "The Ones You Love Are the Test, Not the Prize"
 slug: "064-015"
 category: tadabbur
-arabic: "إِنَّمَآ أَمْوَٰلُكُمْ وَأَوْلَٰدُكُمْ فِتْنَةٌۚ وَٱللَّهُ عِندَهُۥٓ أَجْرٌ عَظِيمٌ"
+arabic: "إِنَّمَآ أَمْوَٰلُكُمْ وَأَوْلَـٰدُكُمْ فِتْنَةٌ ۚ وَٱللَّهُ عِندَهُۥٓ أَجْرٌ عَظِيمٌ"
 translation: "Your wealth and your children are only a trial — and Allah, with Him is a tremendous reward."
 word_count: 6600
 estimated_duration: "50-58 minutes"

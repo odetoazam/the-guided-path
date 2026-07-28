@@ -6,7 +6,7 @@ ayah_end: 22
 title: "The Handhold That Cannot Break: Surrender as the Most Secure Grip"
 slug: "031-022"
 category: tadabbur
-arabic: "وَمَن يُسْلِمْ وَجْهَهُۥٓ إِلَى ٱللَّهِ وَهُوَ مُحْسِنٌ فَقَدِ ٱسْتَمْسَكَ بِٱلْعُرْوَةِ ٱلْوُثْقَىٰ ۗ وَإِلَى ٱللَّهِ عَـٰقِبَةُ ٱلْأُمُورِ"
+arabic: "۞ وَمَن يُسْلِمْ وَجْهَهُۥٓ إِلَى ٱللَّهِ وَهُوَ مُحْسِنٌ فَقَدِ ٱسْتَمْسَكَ بِٱلْعُرْوَةِ ٱلْوُثْقَىٰ ۗ وَإِلَى ٱللَّهِ عَـٰقِبَةُ ٱلْأُمُورِ"
 translation: "And whoever surrenders his whole face to Allah while being a doer of good — he has grasped the most trustworthy handhold. And to Allah belongs the outcome of all affairs."
 word_count: 17
 estimated_duration: "50-55 minutes"

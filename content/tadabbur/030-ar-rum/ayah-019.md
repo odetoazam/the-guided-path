@@ -6,7 +6,7 @@ ayah_end: 19
 title: "The Living from the Dead: How Allah Reverses What Cannot Be Reversed"
 slug: "030-019"
 category: tadabbur
-arabic: "يُخْرِجُ الْحَيَّ مِنَ الْمَيِّتِ وَيُخْرِجُ الْمَيِّتَ مِنَ الْحَيِّ وَيُحْيِي الْأَرْضَ بَعْدَ مَوْتِهَا ۚ وَكَذَٰلِكَ تُخْرَجُونَ"
+arabic: "يُخْرِجُ ٱلْحَىَّ مِنَ ٱلْمَيِّتِ وَيُخْرِجُ ٱلْمَيِّتَ مِنَ ٱلْحَىِّ وَيُحْىِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا ۚ وَكَذَٰلِكَ تُخْرَجُونَ"
 translation: "He brings forth the living from the dead and brings forth the dead from the living, and He gives life to the earth after its death. And thus will you be brought forth."
 word_count: 14
 estimated_duration: "50-55 minutes"

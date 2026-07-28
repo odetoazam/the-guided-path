@@ -6,7 +6,7 @@ ayah_end: 79
 title: "Be of the Lord, Not Slaves of Me: The Word a True Teacher Will Never Say"
 slug: "003-079"
 category: tadabbur
-arabic: "مَا كَانَ لِبَشَرٍ أَن يُؤْتِيَهُ ٱللَّهُ ٱلْكِتَٰبَ وَٱلْحُكْمَ وَٱلنُّبُوَّةَ ثُمَّ يَقُولَ لِلنَّاسِ كُونُوا۟ عِبَادًا لِّى مِن دُونِ ٱللَّهِ وَلَٰكِن كُونُوا۟ رَبَّٰنِيِّۧنَ بِمَا كُنتُمْ تُعَلِّمُونَ ٱلْكِتَٰبَ وَبِمَا كُنتُمْ تَدْرُسُونَ"
+arabic: "مَا كَانَ لِبَشَرٍ أَن يُؤْتِيَهُ ٱللَّهُ ٱلْكِتَـٰبَ وَٱلْحُكْمَ وَٱلنُّبُوَّةَ ثُمَّ يَقُولَ لِلنَّاسِ كُونُوا۟ عِبَادًا لِّى مِن دُونِ ٱللَّهِ وَلَـٰكِن كُونُوا۟ رَبَّـٰنِيِّـۧنَ بِمَا كُنتُمْ تُعَلِّمُونَ ٱلْكِتَـٰبَ وَبِمَا كُنتُمْ تَدْرُسُونَ"
 translation: "It is not for any human being that Allah should give him the Scripture and the authority of judgment and prophethood, and then he would say to people, 'Be slaves to me rather than to Allah.' Rather, [he would say], 'Be people devoted to the Lord (rabbāniyyīn), because of what you have been teaching of the Scripture and because of what you have been studying.'"
 word_count: 28
 estimated_duration: "50-58 minutes"

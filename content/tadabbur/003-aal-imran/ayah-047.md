@@ -6,7 +6,7 @@ ayah_end: 47
 title: "When You Ask How, He Answers Who: Maryam and the Word That Needs No Process"
 slug: "003-047"
 category: tadabbur
-arabic: "قَالَتْ رَبِّ أَنَّىٰ يَكُونُ لِى وَلَدٌ وَلَمْ يَمْسَسْنِى بَشَرٌ ۖ قَالَ كَذَٰلِكِ ٱللَّهُ يَخْلُقُ مَا يَشَآءُ ۚ إِذَا قَضَىٰٓ أَمْرًا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ"
+arabic: "قَالَتْ رَبِّ أَنَّىٰ يَكُونُ لِى وَلَدٌ وَلَمْ يَمْسَسْنِى بَشَرٌ ۖ قَالَ كَذَٰلِكِ ٱللَّهُ يَخْلُقُ مَا يَشَآءُ ۚ إِذَا قَضَىٰٓ أَمْرًا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ"
 translation: "She said, \"My Lord, how can there be a child for me when no man has touched me?\" He said, \"Such is Allah; He creates what He wills. When He decrees a matter, He only says to it, 'Be,' and it is.\""
 word_count: 6400
 estimated_duration: "50-58 minutes"

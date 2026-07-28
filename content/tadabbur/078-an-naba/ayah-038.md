@@ -6,7 +6,7 @@ ayah_end: 38
 title: "The Day the Mightiest Fall Silent: Permission, Truth, and the Name He Chose"
 slug: "078-038"
 category: tadabbur
-arabic: "يَوْمَ يَقُومُ ٱلرُّوحُ وَٱلْمَلَـٰٓئِكَةُ صَفًّا ۖ لَّا يَتَكَلَّمُونَ إِلَّا مَنْ أَذِنَ لَهُ ٱلرَّحْمَـٰنُ وَقَالَ صَوَابًا"
+arabic: "يَوْمَ يَقُومُ ٱلرُّوحُ وَٱلْمَلَـٰٓئِكَةُ صَفًّا ۖ لَّا يَتَكَلَّمُونَ إِلَّا مَنْ أَذِنَ لَهُ ٱلرَّحْمَـٰنُ وَقَالَ صَوَابًا"
 translation: "The Day when the Spirit and the angels will stand in ranks, they will not speak — except the one whom the Most Merciful permits, and who says what is right."
 word_count: 6100
 estimated_duration: "50-58 minutes"

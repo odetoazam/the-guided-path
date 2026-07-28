@@ -6,7 +6,7 @@ ayah_end: 2
 title: "The Counting Loop: When Numbers Replace the One Who Numbers All Things"
 slug: "104-002"
 category: tadabbur
-arabic: "ٱلَّذِى جَمَعَ مَالًا وَعَدَّدَهُۥ"
+arabic: "ٱلَّذِى جَمَعَ مَالًا وَعَدَّدَهُۥ"
 translation: "The one who collects wealth and counts it."
 word_count: 4900
 estimated_duration: "48-56 minutes"

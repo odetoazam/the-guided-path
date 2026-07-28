@@ -6,7 +6,7 @@ ayah_end: 27
 title: "The Naming: When Desire Redraws the Map of the Unseen"
 slug: "053-027"
 category: tadabbur
-arabic: "إِنَّ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْءَاخِرَةِ لَيُسَمُّونَ ٱلْمَلَـٰٓئِكَةَ تَسْمِيَةَ ٱلْأُنثَىٰ"
+arabic: "إِنَّ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْـَٔاخِرَةِ لَيُسَمُّونَ ٱلْمَلَـٰٓئِكَةَ تَسْمِيَةَ ٱلْأُنثَىٰ"
 translation: "Indeed, those who do not believe in the Hereafter name the angels with the naming of the female."
 word_count: 9
 estimated_duration: "50-58 minutes"

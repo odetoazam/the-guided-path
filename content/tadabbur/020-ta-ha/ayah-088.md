@@ -6,7 +6,7 @@ ayah_end: 88
 title: "A Body That Lows: How Idols Counterfeit Life"
 slug: "020-088"
 category: tadabbur
-arabic: "فَأَخْرَجَ لَهُمْ عِجْلًا جَسَدًا لَّهُۥ خُوَارٌ فَقَالُوا۟ هَـٰذَآ إِلَـٰهُكُمْ وَإِلَـٰهُ مُوسَىٰ فَنَسِىَ"
+arabic: "فَأَخْرَجَ لَهُمْ عِجْلًا جَسَدًا لَّهُۥ خُوَارٌ فَقَالُوا۟ هَـٰذَآ إِلَـٰهُكُمْ وَإِلَـٰهُ مُوسَىٰ فَنَسِىَ"
 translation: "Then he brought out for them a calf — a body that had a lowing sound. And they said, 'This is your god and the god of Musa, but he forgot.'"
 word_count: 14
 estimated_duration: "50-58 minutes"

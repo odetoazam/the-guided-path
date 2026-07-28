@@ -6,7 +6,7 @@ ayah_end: 38
 title: "The Companion of the Breast: Where Allah Reserves His Most Intense Knowing"
 slug: "035-038"
 category: tadabbur
-arabic: "إِنَّ ٱللَّهَ عَـٰلِمُ غَيْبِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ إِنَّهُۥ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ"
+arabic: "إِنَّ ٱللَّهَ عَـٰلِمُ غَيْبِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ إِنَّهُۥ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ"
 translation: "Indeed, Allah is the Knower of the unseen of the heavens and the earth. Indeed, He is All-Knowing of what lies within the breasts."
 word_count: 10
 estimated_duration: "50-58 minutes"

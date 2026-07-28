@@ -6,7 +6,7 @@ ayah_end: 33
 title: "The Verdict Before the Storm: How Denial Becomes a People's Name"
 slug: "054-033"
 category: tadabbur
-arabic: "كَذَّبَتْ قَوْمُ لُوطٍۭ بِٱلنُّذُرِ"
+arabic: "كَذَّبَتْ قَوْمُ لُوطٍۭ بِٱلنُّذُرِ"
 translation: "The people of Lut denied the warnings."
 word_count: 5600
 estimated_duration: "50-58 minutes"

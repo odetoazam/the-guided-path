@@ -6,7 +6,7 @@ ayah_end: 43
 title: "The Becoming-Place: Where Every Journey Was Always Going"
 slug: "050-043"
 category: tadabbur
-arabic: "إِنَّا نَحْنُ نُحْيِۦ وَنُمِيتُ وَإِلَيْنَا ٱلْمَصِيرُ"
+arabic: "إِنَّا نَحْنُ نُحْىِۦ وَنُمِيتُ وَإِلَيْنَا ٱلْمَصِيرُ"
 translation: "Indeed, it is We who give life and cause death, and to Us is the final destination."
 word_count: 6
 estimated_duration: "50-58 minutes"

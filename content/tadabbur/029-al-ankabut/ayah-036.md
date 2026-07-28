@@ -6,7 +6,7 @@ ayah_end: 36
 title: "The Brother Who Asked Them to Hope for Judgment"
 slug: "029-036"
 category: tadabbur
-arabic: "وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًا فَقَالَ يَا قَوْمِ ٱعْبُدُوا۟ ٱللَّهَ وَٱرْجُوا۟ ٱلْيَوْمَ ٱلْـَٔاخِرَ وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ"
+arabic: "وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًا فَقَالَ يَـٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ وَٱرْجُوا۟ ٱلْيَوْمَ ٱلْـَٔاخِرَ وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ"
 translation: "And to Madyan, their brother Shu'ayb. He said: O my people, worship Allah, and hope for the Last Day, and do not run wild in the earth as corruptors."
 word_count: 18
 estimated_duration: "50-58 minutes"

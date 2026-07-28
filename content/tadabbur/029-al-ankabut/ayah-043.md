@@ -6,7 +6,7 @@ ayah_end: 43
 title: "The Parables and the People Who Can See Them"
 slug: "029-043"
 category: tadabbur
-arabic: "وَتِلْكَ ٱلْأَمْثَـٰلُ نَضْرِبُهَا لِلنَّاسِ ۖ وَمَا يَعْقِلُهَآ إِلَّا ٱلْعَـٰلِمُونَ"
+arabic: "وَتِلْكَ ٱلْأَمْثَـٰلُ نَضْرِبُهَا لِلنَّاسِ ۖ وَمَا يَعْقِلُهَآ إِلَّا ٱلْعَـٰلِمُونَ"
 translation: "And these parables — We strike them for mankind, but none truly grasps them except those who know."
 word_count: 11
 estimated_duration: "50-55 minutes"

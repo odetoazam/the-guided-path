@@ -6,7 +6,7 @@ ayah_end: 51
 title: "Your Kind Has Already Fallen: The Last Time the Question Is Asked"
 slug: "054-051"
 category: tadabbur
-arabic: "وَلَقَدْ أَهْلَكْنَآ أَشْيَاعَكُمْ فَهَلْ مِن مُّدَّكِرٍ"
+arabic: "وَلَقَدْ أَهْلَكْنَآ أَشْيَاعَكُمْ فَهَلْ مِن مُّدَّكِرٍ"
 translation: "And We have already destroyed your kind — so is there any one who will take remembrance?"
 word_count: 5200
 estimated_duration: "48-55 minutes"

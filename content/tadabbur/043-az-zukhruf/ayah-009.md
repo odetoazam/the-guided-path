@@ -6,7 +6,7 @@ ayah_end: 9
 title: "The Confession They Cannot Escape: When Knowing the Creator Isn't Enough"
 slug: "043-009"
 category: tadabbur
-arabic: "وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ لَيَقُولُنَّ خَلَقَهُنَّ ٱلْعَزِيزُ ٱلْعَلِيمُ"
+arabic: "وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ لَيَقُولُنَّ خَلَقَهُنَّ ٱلْعَزِيزُ ٱلْعَلِيمُ"
 translation: "And if you ask them, 'Who created the heavens and the earth?' they will surely say, 'The Almighty, the All-Knowing created them.'"
 word_count: 10
 estimated_duration: "50-58 minutes"

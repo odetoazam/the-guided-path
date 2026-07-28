@@ -6,7 +6,7 @@ ayah_end: 38
 title: "The Two Restrictions: When Reducing Reality Forces You to Reduce the Messenger"
 slug: "023-038"
 category: tadabbur
-arabic: "إِنْ هُوَ إِلَّا رَجُلٌ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا وَمَا نَحْنُ لَهُۥ بِمُؤْمِنِينَ"
+arabic: "إِنْ هُوَ إِلَّا رَجُلٌ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا وَمَا نَحْنُ لَهُۥ بِمُؤْمِنِينَ"
 translation: "He is nothing but a man who has fabricated a lie against Allah, and we are not, in him, believers."
 word_count: 12
 estimated_duration: "50-58 minutes"

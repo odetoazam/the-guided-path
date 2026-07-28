@@ -6,7 +6,7 @@ ayah_end: 10
 title: "The Fitnah of People Mistaken for the Punishment of Allah"
 slug: "029-010"
 category: tadabbur
-arabic: "وَمِنَ ٱلنَّاسِ مَن يَقُولُ ءَامَنَّا بِٱللَّهِ فَإِذَآ أُوذِىَ فِى ٱللَّهِ جَعَلَ فِتْنَةَ ٱلنَّاسِ كَعَذَابِ ٱللَّهِ وَلَئِن جَآءَ نَصْرٌ مِّن رَّبِّكَ لَيَقُولُنَّ إِنَّا كُنَّا مَعَكُمْ ۚ أَوَلَيْسَ ٱللَّهُ بِأَعْلَمَ بِمَا فِى صُدُورِ ٱلْعَـٰلَمِينَ"
+arabic: "وَمِنَ ٱلنَّاسِ مَن يَقُولُ ءَامَنَّا بِٱللَّهِ فَإِذَآ أُوذِىَ فِى ٱللَّهِ جَعَلَ فِتْنَةَ ٱلنَّاسِ كَعَذَابِ ٱللَّهِ وَلَئِن جَآءَ نَصْرٌ مِّن رَّبِّكَ لَيَقُولُنَّ إِنَّا كُنَّا مَعَكُمْ ۚ أَوَلَيْسَ ٱللَّهُ بِأَعْلَمَ بِمَا فِى صُدُورِ ٱلْعَـٰلَمِينَ"
 translation: "And of the people are some who say, 'We believe in Allah,' but when one of them is harmed for the sake of Allah, he treats the trial inflicted by people as if it were the punishment of Allah. And if victory comes from your Lord, they will surely say, 'Indeed, we were with you.' Is not Allah most knowing of what is within the breasts of all creatures?"
 word_count: 32
 estimated_duration: "50-58 minutes"

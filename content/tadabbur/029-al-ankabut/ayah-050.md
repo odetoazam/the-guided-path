@@ -6,7 +6,7 @@ ayah_end: 50
 title: "The Sign They Refused to See: When the Messenger Becomes the Miracle"
 slug: "029-050"
 category: tadabbur
-arabic: "وَقَالُوا۟ لَوْلَآ أُنزِلَ عَلَيْهِ ءَايَـٰتٌ مِّن رَّبِّهِۦ ۖ قُلْ إِنَّمَا ٱلْـَٔايَـٰتُ عِندَ ٱللَّهِ وَإِنَّمَآ أَنَا۠ نَذِيرٌۭ مُّبِينٌ"
+arabic: "وَقَالُوا۟ لَوْلَآ أُنزِلَ عَلَيْهِ ءَايَـٰتٌ مِّن رَّبِّهِۦ ۖ قُلْ إِنَّمَا ٱلْـَٔايَـٰتُ عِندَ ٱللَّهِ وَإِنَّمَآ أَنَا۠ نَذِيرٌ مُّبِينٌ"
 translation: "And they said, 'Why have signs not been sent down upon him from his Lord?' Say, 'The signs are only with Allah, and I am only a clear warner.'"
 word_count: 16
 estimated_duration: "50-55 minutes"

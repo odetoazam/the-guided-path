@@ -6,7 +6,7 @@ ayah_end: 16
 title: "The Book Before the Bread: When Being Chosen Is a Trust, Not a Trophy"
 slug: "045-016"
 category: tadabbur
-arabic: "وَلَقَدْ ءَاتَيْنَا بَنِىٓ إِسْرَٰٓءِيلَ ٱلْكِتَٰبَ وَٱلْحُكْمَ وَٱلنُّبُوَّةَ وَرَزَقْنَٰهُم مِّنَ ٱلطَّيِّبَٰتِ وَفَضَّلْنَٰهُمْ عَلَى ٱلْعَٰلَمِينَ"
+arabic: "وَلَقَدْ ءَاتَيْنَا بَنِىٓ إِسْرَٰٓءِيلَ ٱلْكِتَـٰبَ وَٱلْحُكْمَ وَٱلنُّبُوَّةَ وَرَزَقْنَـٰهُم مِّنَ ٱلطَّيِّبَـٰتِ وَفَضَّلْنَـٰهُمْ عَلَى ٱلْعَـٰلَمِينَ"
 translation: "And certainly We gave the Children of Israel the Scripture, sound judgment, and prophethood; We provided them with good things, and We favored them above the worlds."
 word_count: 6200
 estimated_duration: "50-58 minutes"

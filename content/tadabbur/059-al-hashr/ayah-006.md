@@ -6,7 +6,7 @@ ayah_end: 6
 title: "The Shadow That Returned: Wealth Without Spurring"
 slug: "059-006"
 category: tadabbur
-arabic: "وَمَآ أَفَآءَ ٱللَّهُ عَلَىٰ رَسُولِهِۦ مِنْهُمْ فَمَآ أَوْجَفْتُمْ عَلَيْهِ مِنْ خَيْلٍ وَلَا رِكَابٍ وَلَـٰكِنَّ ٱللَّهَ يُسَلِّطُ رُسُلَهُۥ عَلَىٰ مَن يَشَآءُ ۚ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ"
+arabic: "وَمَآ أَفَآءَ ٱللَّهُ عَلَىٰ رَسُولِهِۦ مِنْهُمْ فَمَآ أَوْجَفْتُمْ عَلَيْهِ مِنْ خَيْلٍ وَلَا رِكَابٍ وَلَـٰكِنَّ ٱللَّهَ يُسَلِّطُ رُسُلَهُۥ عَلَىٰ مَن يَشَآءُ ۚ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ"
 translation: "And whatever Allah restored to His Messenger from them — you spurred for it neither horses nor riding-camels, but Allah gives His messengers power over whomever He wills. And Allah is competent over all things."
 word_count: 3950
 estimated_duration: "50-58 minutes"

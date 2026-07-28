@@ -6,7 +6,7 @@ ayah_end: 18
 title: "The Ones Who Guarded, Now Guarded: Delight That Nothing Can Take Away"
 slug: "052-018"
 category: tadabbur
-arabic: "فَٰكِهِينَ بِمَآ ءَاتَىٰهُمْ رَبُّهُمْ وَوَقَىٰهُمْ رَبُّهُمْ عَذَابَ ٱلْجَحِيمِ"
+arabic: "فَـٰكِهِينَ بِمَآ ءَاتَىٰهُمْ رَبُّهُمْ وَوَقَىٰهُمْ رَبُّهُمْ عَذَابَ ٱلْجَحِيمِ"
 translation: "Delighting in what their Lord has given them — and their Lord has guarded them from the punishment of the Blazing Fire."
 word_count: 8
 estimated_duration: "50-58 minutes"

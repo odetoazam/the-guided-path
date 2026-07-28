@@ -6,7 +6,7 @@ ayah_end: 55
 title: "The Favor You Cannot Name and Still Deny: A Reflection on Doubt as a Choice"
 slug: "053-055"
 category: tadabbur
-arabic: "فَبِأَىِّ ءَالَآءِ رَبِّكَ تَتَمَارَىٰ"
+arabic: "فَبِأَىِّ ءَالَآءِ رَبِّكَ تَتَمَارَىٰ"
 translation: "Then which of your Lord's favors do you keep doubting?"
 word_count: 4
 estimated_duration: "50-58 minutes"

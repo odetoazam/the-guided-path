@@ -6,7 +6,7 @@ ayah_end: 14
 title: "The Beautified Sin: On Borrowed Light and the Passive Voice of Self-Deception"
 slug: "047-014"
 category: tadabbur
-arabic: "أَفَمَن كَانَ عَلَىٰ بَيِّنَةٍ مِّن رَّبِّهِۦ كَمَن زُيِّنَ لَهُۥ سُوٓءُ عَمَلِهِۦ وَٱتَّبَعُوٓاْ أَهْوَآءَهُمْ"
+arabic: "أَفَمَن كَانَ عَلَىٰ بَيِّنَةٍ مِّن رَّبِّهِۦ كَمَن زُيِّنَ لَهُۥ سُوٓءُ عَمَلِهِۦ وَٱتَّبَعُوٓا۟ أَهْوَآءَهُم"
 translation: "Then is the one who stands upon a clear proof from his Lord like the one to whom the evil of his own deed has been made beautiful — and they followed their desires?"
 word_count: 13
 estimated_duration: "50-58 minutes"

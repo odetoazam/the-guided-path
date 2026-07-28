@@ -6,7 +6,7 @@ ayah_end: 1
 title: "The One Who Came Down: Why the Criterion Was Sent in Pieces"
 slug: "025-001"
 category: tadabbur
-arabic: "تَبَارَكَ ٱلَّذِى نَزَّلَ ٱلْفُرْقَانَ عَلَىٰ عَبْدِهِۦ لِيَكُونَ لِلْعَٰلَمِينَ نَذِيرًا"
+arabic: "تَبَارَكَ ٱلَّذِى نَزَّلَ ٱلْفُرْقَانَ عَلَىٰ عَبْدِهِۦ لِيَكُونَ لِلْعَـٰلَمِينَ نَذِيرًا"
 translation: "Blessed is the One who sent down the Criterion upon His servant, that he might be a warner to all the worlds."
 word_count: 9
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 25
 title: "The Morning They Set Out Able: When Resolve Outruns Reality"
 slug: "068-025"
 category: tadabbur
-arabic: "وَغَدَوْا۟ عَلَىٰ حَرْدٍۢ قَـٰدِرِينَ"
+arabic: "وَغَدَوْا۟ عَلَىٰ حَرْدٍ قَـٰدِرِينَ"
 translation: "And they set out early, bent on a fixed purpose — thinking themselves fully able to carry it out."
 word_count: 4
 estimated_duration: "50-56 minutes"

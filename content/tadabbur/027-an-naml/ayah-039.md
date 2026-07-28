@@ -6,7 +6,7 @@ ayah_end: 39
 title: "The ʿIfrīt's Boast — When Power Volunteers Itself"
 slug: "027-039"
 category: tadabbur
-arabic: "قَالَ عِفْرِيتٌ مِّنَ ٱلْجِنِّ أَنَا۠ ءَاتِيكَ بِهِۦ قَبْلَ أَن تَقُومَ مِن مَّقَامِكَ ۖ وَإِنِّى عَلَيْهِ لَقَوِىٌّ أَمِينٌ"
+arabic: "قَالَ عِفْرِيتٌ مِّنَ ٱلْجِنِّ أَنَا۠ ءَاتِيكَ بِهِۦ قَبْلَ أَن تَقُومَ مِن مَّقَامِكَ ۖ وَإِنِّى عَلَيْهِ لَقَوِىٌّ أَمِينٌ"
 translation: "An ʿifrīt from among the jinn said: 'I will bring it to you before you rise from your place. Indeed, I am, for this, strong and trustworthy.'"
 word_count: 18
 estimated_duration: "48-55 minutes"

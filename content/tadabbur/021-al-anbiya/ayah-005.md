@@ -6,7 +6,7 @@ ayah_end: 5
 title: "The Three Retractions: How Denial Contradicts Itself"
 slug: "021-005"
 category: tadabbur
-arabic: "بَلْ قَالُوٓاْ أَضْغَـٰثُ أَحْلَـٰمٍۭ بَلِ ٱفْتَرَىٰهُ بَلْ هُوَ شَاعِرٌۭ فَلْيَأْتِنَا بِـَٔايَةٍۢ كَمَآ أُرْسِلَ ٱلْأَوَّلُونَ"
+arabic: "بَلْ قَالُوٓا۟ أَضْغَـٰثُ أَحْلَـٰمٍۭ بَلِ ٱفْتَرَىٰهُ بَلْ هُوَ شَاعِرٌ فَلْيَأْتِنَا بِـَٔايَةٍ كَمَآ أُرْسِلَ ٱلْأَوَّلُونَ"
 translation: "Rather, they say, 'A jumble of confused dreams; rather, he has invented it; rather, he is a poet. So let him bring us a sign just as the earlier messengers were sent.'"
 word_count: 14
 estimated_duration: "48-55 minutes"

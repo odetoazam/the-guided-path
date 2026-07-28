@@ -6,7 +6,7 @@ ayah_end: 80
 title: "The Dead Cannot Hear: Why Allah Names the Limit of the Messenger's Voice"
 slug: "027-080"
 category: tadabbur
-arabic: "إِنَّكَ لَا تُسْمِعُ ٱلْمَوْتَىٰ وَلَا تُسْمِعُ ٱلصُّمَّ ٱلدُّعَآءَ إِذَا وَلَّوْا۟ مُدْبِرِينَ"
+arabic: "إِنَّكَ لَا تُسْمِعُ ٱلْمَوْتَىٰ وَلَا تُسْمِعُ ٱلصُّمَّ ٱلدُّعَآءَ إِذَا وَلَّوْا۟ مُدْبِرِينَ"
 translation: "Indeed, you cannot make the dead hear, nor can you make the deaf hear the call when they have turned their backs, retreating."
 word_count: 1180
 estimated_duration: "50-55 minutes"

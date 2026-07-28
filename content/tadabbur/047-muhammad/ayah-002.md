@@ -6,7 +6,7 @@ ayah_end: 2
 title: "The Covering and the Quieting: What Allah Does to the Past and the Inner State"
 slug: "047-002"
 category: tadabbur
-arabic: "وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ"
+arabic: "وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ"
 translation: "And those who believe and do righteous deeds and believe in what has been sent down upon Muhammad — and it is the truth from their Lord — He covers over from them their misdeeds and sets right their inner state."
 word_count: 18
 estimated_duration: "50-58 minutes"

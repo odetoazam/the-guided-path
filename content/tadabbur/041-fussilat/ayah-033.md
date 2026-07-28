@@ -4,7 +4,7 @@ surah_name: "Fussilat"
 ayah_start: 33
 ayah_end: 33
 title: "And Who Is Better in Speech? The Rhetorical Superlative and the Caller Who Refuses the Pedestal"
-arabic: "وَمَنْ أَحْسَنُ قَوْلًا مِّمَّن دَعَا إِلَى اللَّهِ وَعَمِلَ صَـٰلِحًا وَقَالَ إِنَّنِى مِنَ ٱلْمُسْلِمِينَ"
+arabic: "وَمَنْ أَحْسَنُ قَوْلًا مِّمَّن دَعَآ إِلَى ٱللَّهِ وَعَمِلَ صَـٰلِحًا وَقَالَ إِنَّنِى مِنَ ٱلْمُسْلِمِينَ"
 translation: "And who is better in speech than one who calls to Allah, and does righteous work, and says: 'Indeed, I am one of those who have surrendered.'"
 word_count: 13
 estimated_duration: "48-55 minutes"

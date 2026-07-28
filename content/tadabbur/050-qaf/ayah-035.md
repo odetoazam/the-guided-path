@@ -6,7 +6,7 @@ ayah_end: 35
 title: "The Ceiling of Every Wish — and the Word That Waits Beyond It"
 slug: "050-035"
 category: tadabbur
-arabic: "لَّهُم مَّا يَشَآءُونَ فِيهَا وَلَدَيْنَا مَزِيدٌۭ"
+arabic: "لَهُم مَّا يَشَآءُونَ فِيهَا وَلَدَيْنَا مَزِيدٌ"
 translation: "For them is whatever they wish therein, and with Us is more."
 word_count: 6
 estimated_duration: "50-58 minutes"

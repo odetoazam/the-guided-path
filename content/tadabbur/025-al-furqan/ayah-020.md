@@ -6,7 +6,7 @@ ayah_end: 20
 title: "The Messengers Who Walked the Markets: Why Allah Made His Prophets Eat"
 slug: "025-020"
 category: tadabbur
-arabic: "وَمَآ أَرْسَلْنَا قَبْلَكَ مِنَ ٱلْمُرْسَلِينَ إِلَّآ إِنَّهُمْ لَيَأْكُلُونَ ٱلطَّعَامَ وَيَمْشُونَ فِى ٱلْأَسْوَاقِ ۗ وَجَعَلْنَا بَعْضَكُمْ لِبَعْضٍ فِتْنَةً أَتَصْبِرُونَ ۗ وَكَانَ رَبُّكَ بَصِيرًۭا"
+arabic: "وَمَآ أَرْسَلْنَا قَبْلَكَ مِنَ ٱلْمُرْسَلِينَ إِلَّآ إِنَّهُمْ لَيَأْكُلُونَ ٱلطَّعَامَ وَيَمْشُونَ فِى ٱلْأَسْوَاقِ ۗ وَجَعَلْنَا بَعْضَكُمْ لِبَعْضٍ فِتْنَةً أَتَصْبِرُونَ ۗ وَكَانَ رَبُّكَ بَصِيرًا"
 translation: "And We did not send before you any messengers except that they ate food and walked in the markets. And We have made some of you a trial for others — will you have patience? And ever is your Lord, All-Seeing."
 word_count: 28
 estimated_duration: "50-58 minutes"

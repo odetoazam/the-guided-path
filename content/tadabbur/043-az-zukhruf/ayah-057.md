@@ -6,7 +6,7 @@ ayah_end: 57
 title: "When the Example Was Struck: Laughter as a Refuge from Truth"
 slug: "043-057"
 category: tadabbur
-arabic: "وَلَمَّا ضُرِبَ ٱبْنُ مَرْيَمَ مَثَلًا إِذَا قَوْمُكَ مِنْهُ يَصِدُّونَ"
+arabic: "۞ وَلَمَّا ضُرِبَ ٱبْنُ مَرْيَمَ مَثَلًا إِذَا قَوْمُكَ مِنْهُ يَصِدُّونَ"
 translation: "And when the son of Maryam was presented as an example — at once, your people erupted in clamor."
 word_count: 9
 estimated_duration: "50-58 minutes"

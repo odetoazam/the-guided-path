@@ -6,7 +6,7 @@ ayah_end: 110
 title: "The Door That Was Never Locked: Thumma and the Mercy You Discover"
 slug: "004-110"
 category: tadabbur
-arabic: "وَمَن يَعْمَلْ سُوٓءًا أَوْ يَظْلِمْ نَفْسَهُۥ ثُمَّ يَسْتَغْفِرِ ٱللَّهَ يَجِدِ ٱللَّهَ غَفُورًا رَّحِيمًا"
+arabic: "وَمَن يَعْمَلْ سُوٓءًا أَوْ يَظْلِمْ نَفْسَهُۥ ثُمَّ يَسْتَغْفِرِ ٱللَّهَ يَجِدِ ٱللَّهَ غَفُورًا رَّحِيمًا"
 translation: "And whoever does evil or wrongs his own soul, then seeks Allah's forgiveness, will find Allah Most-Forgiving, Most-Merciful."
 word_count: 13
 estimated_duration: "50-58 minutes"

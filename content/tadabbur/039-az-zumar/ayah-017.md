@@ -6,7 +6,7 @@ ayah_end: 17
 title: "Push It to Your Side, Turn Your Face Home: The Glad Tiding That Shows on the Skin"
 slug: "039-017"
 category: tadabbur
-arabic: "وَٱلَّذِينَ ٱجْتَنَبُوا۟ ٱلطَّـٰغُوتَ أَن يَعْبُدُوهَا وَأَنَابُوٓا۟ إِلَى ٱللَّهِ لَهُمُ ٱلْبُشْرَىٰ ۚ فَبَشِّرْ عِبَادِ"
+arabic: "وَٱلَّذِينَ ٱجْتَنَبُوا۟ ٱلطَّـٰغُوتَ أَن يَعْبُدُوهَا وَأَنَابُوٓا۟ إِلَى ٱللَّهِ لَهُمُ ٱلْبُشْرَىٰ ۚ فَبَشِّرْ عِبَادِ"
 translation: "And those who keep away from false gods — lest they worship them — and turn back to Allah, for them is glad tidings. So give glad tidings to My servants."
 word_count: 6600
 estimated_duration: "50-58 minutes"

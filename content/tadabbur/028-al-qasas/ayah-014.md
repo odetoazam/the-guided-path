@@ -6,7 +6,7 @@ ayah_end: 14
 title: "When Strength Arrives Before Wisdom: The Hidden Curriculum of Musa's Forty Years"
 slug: "028-014"
 category: tadabbur
-arabic: "وَلَمَّا بَلَغَ أَشُدَّهُۥ وَٱسْتَوَىٰٓ ءَاتَيْنَـٰهُ حُكْمًا وَعِلْمًا ۚ وَكَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ"
+arabic: "وَلَمَّا بَلَغَ أَشُدَّهُۥ وَٱسْتَوَىٰٓ ءَاتَيْنَـٰهُ حُكْمًا وَعِلْمًا ۚ وَكَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ"
 translation: "And when he reached his full strength and was balanced, We gave him judgment and knowledge. And thus do We reward those who do good."
 word_count: 11
 estimated_duration: "50-58 minutes"

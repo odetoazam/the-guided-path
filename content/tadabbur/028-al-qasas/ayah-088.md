@@ -6,7 +6,7 @@ ayah_end: 88
 title: "Already Perishing: The Grammar That Ends a World"
 slug: "028-088"
 category: tadabbur
-arabic: "وَلَا تَدْعُ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ ۘ لَآ إِلَٰهَ إِلَّا هُوَ ۚ كُلُّ شَىْءٍ هَالِكٌ إِلَّا وَجْهَهُۥ ۚ لَهُ ٱلْحُكْمُ وَإِلَيْهِ تُرْجَعُونَ"
+arabic: "وَلَا تَدْعُ مَعَ ٱللَّهِ إِلَـٰهًا ءَاخَرَ ۘ لَآ إِلَـٰهَ إِلَّا هُوَ ۚ كُلُّ شَىْءٍ هَالِكٌ إِلَّا وَجْهَهُۥ ۚ لَهُ ٱلْحُكْمُ وَإِلَيْهِ تُرْجَعُونَ"
 translation: "And do not call upon any other god alongside Allah. There is no god but He. Every single thing is perishing except His Face. To Him belongs the decree, and to Him you will be returned."
 word_count: 23
 estimated_duration: "50-58 minutes"

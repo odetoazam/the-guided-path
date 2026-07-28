@@ -6,7 +6,7 @@ ayah_end: 9
 title: "The Promise That Cannot Be Broken: How Allah Seals the Believer's Hope"
 slug: "031-009"
 category: tadabbur
-arabic: "خَالِدِينَ فِيهَا ۖ وَعْدَ اللَّهِ حَقًّا ۚ وَهُوَ الْعَزِيزُ الْحَكِيمُ"
+arabic: "خَـٰلِدِينَ فِيهَا ۖ وَعْدَ ٱللَّهِ حَقًّا ۚ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ"
 translation: "Abiding therein eternally. [It is] the promise of Allah, [which is] truth. And He is the Exalted in Might, the Wise."
 word_count: 4850
 estimated_duration: "48-55 minutes"

@@ -6,7 +6,7 @@ ayah_end: 87
 title: "The Confession They Cannot Deny — and the Turning They Cannot Explain"
 slug: "043-087"
 category: tadabbur
-arabic: "وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَهُمْ لَيَقُولُنَّ ٱللَّهُ ۖ فَأَنَّىٰ يُؤْفَكُونَ"
+arabic: "وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَهُمْ لَيَقُولُنَّ ٱللَّهُ ۖ فَأَنَّىٰ يُؤْفَكُونَ"
 translation: "And if you were to ask them who created them, they would certainly say, 'Allah.' So how are they turned away?"
 word_count: 8
 estimated_duration: "48-59 minutes"

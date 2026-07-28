@@ -6,7 +6,7 @@ ayah_end: 12
 title: "Two Waters, One Appointment: The Flood That Kept a Schedule"
 slug: "054-012"
 category: tadabbur
-arabic: "وَفَجَّرْنَا ٱلْأَرْضَ عُيُونًۭا فَٱلْتَقَى ٱلْمَآءُ عَلَىٰٓ أَمْرٍۢ قَدْ قُدِرَ"
+arabic: "وَفَجَّرْنَا ٱلْأَرْضَ عُيُونًا فَٱلْتَقَى ٱلْمَآءُ عَلَىٰٓ أَمْرٍ قَدْ قُدِرَ"
 translation: "And We caused the earth to burst with springs, so the waters met — for a matter already decreed."
 word_count: 6100
 estimated_duration: "50-58 minutes"

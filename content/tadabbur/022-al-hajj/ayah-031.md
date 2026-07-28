@@ -6,7 +6,7 @@ ayah_end: 31
 title: "The Fall From the Sky — Why Shirk Is Described as Physics, Not Belief"
 slug: "022-031"
 category: tadabbur
-arabic: "حُنَفَآءَ لِلَّهِ غَيْرَ مُشْرِكِينَ بِهِۦ ۚ وَمَن يُشْرِكْ بِٱللَّهِ فَكَأَنَّمَا خَرَّ مِنَ ٱلسَّمَآءِ فَتَخْطَفُهُ ٱلطَّيْرُ أَوْ تَهْوِى بِهِ ٱلرِّيحُ فِى مَكَانٍۭ سَحِيقٍ"
+arabic: "حُنَفَآءَ لِلَّهِ غَيْرَ مُشْرِكِينَ بِهِۦ ۚ وَمَن يُشْرِكْ بِٱللَّهِ فَكَأَنَّمَا خَرَّ مِنَ ٱلسَّمَآءِ فَتَخْطَفُهُ ٱلطَّيْرُ أَوْ تَهْوِى بِهِ ٱلرِّيحُ فِى مَكَانٍ سَحِيقٍ"
 translation: "Inclining purely toward Allah — not associating anything with Him. And whoever associates anything with Allah — it is as though he has fallen from the sky and the birds snatch him, or the wind sweeps him into a remote, crushing place."
 word_count: 6200
 estimated_duration: "48-54 minutes"

@@ -6,7 +6,7 @@ ayah_end: 48
 title: "When the Gods Get Lost: The Day Your Doubt Becomes Your Certainty"
 slug: "041-048"
 category: tadabbur
-arabic: "وَضَلَّ عَنْهُم مَّا كَانُوا يَدْعُونَ مِن قَبْلُ ۖ وَظَنُّوا مَا لَهُم مِّن مَّحِيصٍ"
+arabic: "وَضَلَّ عَنْهُم مَّا كَانُوا۟ يَدْعُونَ مِن قَبْلُ ۖ وَظَنُّوا۟ مَا لَهُم مِّن مَّحِيصٍ"
 translation: "And lost from them is whatever they used to call upon before, and they will know with certainty that for them there is no place of escape."
 word_count: 11
 estimated_duration: "50-58 minutes"

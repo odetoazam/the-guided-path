@@ -6,7 +6,7 @@ ayah_end: 60
 title: "The Truth That Was Never in Question: Doubt as Something We Stir, Not Something We Find"
 slug: "003-060"
 category: tadabbur
-arabic: "ٱلْحَقُّ مِن رَّبِّكَ فَلَا تَكُن مِّنَ ٱلْمُمْتَرِينَ"
+arabic: "ٱلْحَقُّ مِن رَّبِّكَ فَلَا تَكُن مِّنَ ٱلْمُمْتَرِينَ"
 translation: "The truth is from your Lord, so do not be among the doubters."
 word_count: 7
 estimated_duration: "50-58 minutes"

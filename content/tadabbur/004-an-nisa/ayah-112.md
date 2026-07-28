@@ -6,7 +6,7 @@ ayah_end: 112
 title: "The Burden You Threw Comes Back Heavier: Slander as a Boomerang"
 slug: "004-112"
 category: tadabbur
-arabic: "وَمَن يَكْسِبْ خَطِيٓـَٔةً أَوْ إِثْمًا ثُمَّ يَرْمِ بِهِۦ بَرِيٓـًٔا فَقَدِ ٱحْتَمَلَ بُهْتَـٰنًا وَإِثْمًا مُّبِينًا"
+arabic: "وَمَن يَكْسِبْ خَطِيٓـَٔةً أَوْ إِثْمًا ثُمَّ يَرْمِ بِهِۦ بَرِيٓـًٔا فَقَدِ ٱحْتَمَلَ بُهْتَـٰنًا وَإِثْمًا مُّبِينًا"
 translation: "And whoever earns a fault or a sin, then throws it onto an innocent person — he has certainly loaded onto himself a slander and a manifest sin."
 word_count: 5400
 estimated_duration: "50-58 minutes"

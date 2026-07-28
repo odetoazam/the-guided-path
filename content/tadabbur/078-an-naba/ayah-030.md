@@ -6,7 +6,7 @@ ayah_end: 30
 title: "So Taste: The Door That Never Opens Again"
 slug: "078-030"
 category: tadabbur
-arabic: "فَذُوقُوا فَلَن نَّزِيدَكُمْ إِلَّا عَذَابًا"
+arabic: "فَذُوقُوا۟ فَلَن نَّزِيدَكُمْ إِلَّا عَذَابًا"
 translation: "So taste — for never will We increase you except in punishment."
 word_count: 5
 estimated_duration: "48-56 minutes"

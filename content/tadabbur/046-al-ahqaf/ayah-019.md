@@ -6,7 +6,7 @@ ayah_end: 19
 title: "Every Deed a Step: Degrees, Full Measure, and the End of Being Averaged"
 slug: "046-019"
 category: tadabbur
-arabic: "وَلِكُلٍّ دَرَجَاتٌ مِّمَّا عَمِلُوا ۖ وَلِيُوَفِّيَهُمْ أَعْمَالَهُمْ وَهُمْ لَا يُظْلَمُونَ"
+arabic: "وَلِكُلٍّ دَرَجَـٰتٌ مِّمَّا عَمِلُوا۟ ۖ وَلِيُوَفِّيَهُمْ أَعْمَـٰلَهُمْ وَهُمْ لَا يُظْلَمُونَ"
 translation: "And for each one there are degrees according to what they did — and so that He may pay them their deeds in full, and they will not be wronged."
 word_count: 9
 estimated_duration: "50-58 minutes"

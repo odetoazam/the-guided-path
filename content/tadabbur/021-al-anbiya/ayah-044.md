@@ -6,7 +6,7 @@ ayah_end: 44
 title: "The Edges Are Falling: Long Life as Burden, Not Proof"
 slug: "021-044"
 category: tadabbur
-arabic: "بَلْ مَتَّعْنَا هَـٰٓؤُلَآءِ وَءَابَآءَهُمْ حَتَّىٰ طَالَ عَلَيْهِمُ ٱلْعُمُرُ ۗ أَفَلَا يَرَوْنَ أَنَّا نَأْتِى ٱلْأَرْضَ نَنقُصُهَا مِنْ أَطْرَافِهَآ ۚ أَفَهُمُ ٱلْغَـٰلِبُونَ"
+arabic: "بَلْ مَتَّعْنَا هَـٰٓؤُلَآءِ وَءَابَآءَهُمْ حَتَّىٰ طَالَ عَلَيْهِمُ ٱلْعُمُرُ ۗ أَفَلَا يَرَوْنَ أَنَّا نَأْتِى ٱلْأَرْضَ نَنقُصُهَا مِنْ أَطْرَافِهَآ ۚ أَفَهُمُ ٱلْغَـٰلِبُونَ"
 translation: "Nay — We let these [people] and their fathers enjoy life until the lifespan grew long upon them. Do they not see that We come to the land, reducing it from its edges? Is it they, then, who are the victors?"
 word_count: 5400
 estimated_duration: "50-55 minutes"

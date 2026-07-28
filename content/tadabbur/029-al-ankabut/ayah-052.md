@@ -6,7 +6,7 @@ ayah_end: 52
 title: "The Witness Between Us — When Allah Himself Becomes the Evidence"
 slug: "029-052"
 category: tadabbur
-arabic: "قُلْ كَفَىٰ بِٱللَّهِ بَيْنِى وَبَيْنَكُمْ شَهِيدًا ۖ يَعْلَمُ مَا فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۗ وَٱلَّذِينَ ءَامَنُوا۟ بِٱلْبَـٰطِلِ وَكَفَرُوا۟ بِٱللَّهِ أُو۟لَـٰٓئِكَ هُمُ ٱلْخَـٰسِرُونَ"
+arabic: "قُلْ كَفَىٰ بِٱللَّهِ بَيْنِى وَبَيْنَكُمْ شَهِيدًا ۖ يَعْلَمُ مَا فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۗ وَٱلَّذِينَ ءَامَنُوا۟ بِٱلْبَـٰطِلِ وَكَفَرُوا۟ بِٱللَّهِ أُو۟لَـٰٓئِكَ هُمُ ٱلْخَـٰسِرُونَ"
 translation: "Say: Allah suffices as a Witness between me and you. He knows what is in the heavens and the earth. And those who have believed in falsehood and disbelieved in Allah — it is they who are the losers."
 word_count: 22
 estimated_duration: "50-55 minutes"

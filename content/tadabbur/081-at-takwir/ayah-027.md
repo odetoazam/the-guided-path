@@ -6,7 +6,7 @@ ayah_end: 27
 title: "Nothing But a Reminder: The Light Offered to All the Worlds"
 slug: "081-027"
 category: tadabbur
-arabic: "إِنْ هُوَ إِلَّا ذِكْرٌ لِّلْعَالَمِينَ"
+arabic: "إِنْ هُوَ إِلَّا ذِكْرٌ لِّلْعَـٰلَمِينَ"
 translation: "It is nothing but a reminder to all the worlds."
 word_count: 5
 estimated_duration: "48-58 minutes"

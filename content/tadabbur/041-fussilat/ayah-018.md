@@ -6,7 +6,7 @@ ayah_end: 18
 title: "When the Punishment Came, They Were Already Somewhere Else"
 slug: "041-018"
 category: tadabbur
-arabic: "وَنَجَّيْنَا ٱلَّذِينَ ءَامَنُواْ وَكَانُواْ يَتَّقُونَ"
+arabic: "وَنَجَّيْنَا ٱلَّذِينَ ءَامَنُوا۟ وَكَانُوا۟ يَتَّقُونَ"
 translation: "And We saved those who believed and used to guard themselves."
 word_count: 5
 estimated_duration: "50-58 minutes"

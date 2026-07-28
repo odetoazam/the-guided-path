@@ -6,7 +6,7 @@ ayah_end: 40
 title: "The Day You Finally See Yourself — and the Wish to Be Dust"
 slug: "078-040"
 category: tadabbur
-arabic: "إِنَّآ أَنذَرْنَـٰكُمْ عَذَابًا قَرِيبًا يَوْمَ يَنظُرُ ٱلْمَرْءُ مَا قَدَّمَتْ يَدَاهُ وَيَقُولُ ٱلْكَافِرُ يَـٰلَيْتَنِى كُنتُ تُرَٰبَۢا"
+arabic: "إِنَّآ أَنذَرْنَـٰكُمْ عَذَابًا قَرِيبًا يَوْمَ يَنظُرُ ٱلْمَرْءُ مَا قَدَّمَتْ يَدَاهُ وَيَقُولُ ٱلْكَافِرُ يَـٰلَيْتَنِى كُنتُ تُرَٰبًۢا"
 translation: "Indeed, We have warned you of a punishment near — the Day a person will look upon what his own hands have sent ahead, and the one who denied will say, 'Oh, how I wish I were dust.'"
 word_count: 5600
 estimated_duration: "52-58 minutes"

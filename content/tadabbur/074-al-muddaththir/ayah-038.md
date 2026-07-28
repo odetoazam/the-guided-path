@@ -6,7 +6,7 @@ ayah_end: 38
 title: "The Soul in Pawn: Every Self Held as Collateral Against What It Earned"
 slug: "074-038"
 category: tadabbur
-arabic: "كُلُّ نَفْسٍۭ بِمَا كَسَبَتْ رَهِينَةٌ"
+arabic: "كُلُّ نَفْسٍۭ بِمَا كَسَبَتْ رَهِينَةٌ"
 translation: "Every soul, for what it has earned, is held in pledge."
 word_count: 4
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 10
 title: "The Wretched Arrival: Denial, Companionship, and the Journey That Ends in Permanence"
 slug: "064-010"
 category: tadabbur
-arabic: "وَٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟ بِـَٔايَـٰتِنَآ أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلنَّارِ خَـٰلِدِينَ فِيهَا ۖ وَبِئْسَ ٱلْمَصِيرُ"
+arabic: "وَٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟ بِـَٔايَـٰتِنَآ أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلنَّارِ خَـٰلِدِينَ فِيهَا ۖ وَبِئْسَ ٱلْمَصِيرُ"
 translation: "But those who disbelieved and denied Our signs — those are the companions of the Fire, abiding therein forever. And wretched is the destination."
 word_count: 11
 estimated_duration: "50-58 minutes"

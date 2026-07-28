@@ -6,7 +6,7 @@ ayah_end: 23
 title: "The Despair That Comes Before the Punishment"
 slug: "029-023"
 category: tadabbur
-arabic: "وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَـٰتِ ٱللَّهِ وَلِقَآئِهِۦٓ أُو۟لَـٰٓئِكَ يَئِسُوا۟ مِن رَّحْمَتِى وَأُو۟لَـٰٓئِكَ لَهُمْ عَذَابٌ أَلِيمٌ"
+arabic: "وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَـٰتِ ٱللَّهِ وَلِقَآئِهِۦٓ أُو۟لَـٰٓئِكَ يَئِسُوا۟ مِن رَّحْمَتِى وَأُو۟لَـٰٓئِكَ لَهُمْ عَذَابٌ أَلِيمٌ"
 translation: "And those who disbelieved in the signs of Allah and the meeting with Him — those have despaired of My mercy, and those — for them is a painful punishment."
 word_count: 18
 estimated_duration: "50-58 minutes"

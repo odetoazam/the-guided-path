@@ -6,7 +6,7 @@ ayah_end: 27
 title: "The Gift That Weighs You: When the Sign You Demanded Becomes Your Trial"
 slug: "054-027"
 category: tadabbur
-arabic: "إِنَّا مُرْسِلُواْ ٱلنَّاقَةِ فِتْنَةً لَّهُمْ فَٱرْتَقِبْهُمْ وَٱصْطَبِرْ"
+arabic: "إِنَّا مُرْسِلُوا۟ ٱلنَّاقَةِ فِتْنَةً لَّهُمْ فَٱرْتَقِبْهُمْ وَٱصْطَبِرْ"
 translation: "Indeed, We are sending the she-camel as a trial for them — so watch them, and persevere in patience."
 word_count: 4900
 estimated_duration: "48-55 minutes"

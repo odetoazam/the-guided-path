@@ -6,7 +6,7 @@ ayah_end: 22
 title: "From the Word for Lie to the Word for Truth: When the Heart Inverts Both"
 slug: "046-022"
 category: tadabbur
-arabic: "قَالُوٓا۟ أَجِئْتَنَا لِتَأْفِكَنَا عَنْ ءَالِهَتِنَا فَأْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ"
+arabic: "قَالُوٓا۟ أَجِئْتَنَا لِتَأْفِكَنَا عَنْ ءَالِهَتِنَا فَأْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ"
 translation: "They said, 'Have you come to us to turn us away from our gods? Then bring us what you threaten us with, if you are of the truthful.'"
 word_count: 12
 estimated_duration: "50-58 minutes"

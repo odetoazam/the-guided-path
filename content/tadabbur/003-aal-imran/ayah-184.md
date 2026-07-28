@@ -6,7 +6,7 @@ ayah_end: 184
 title: "You Were Not the First to Be Denied"
 slug: "003-184"
 category: tadabbur
-arabic: "فَإِن كَذَّبُوكَ فَقَدْ كُذِّبَ رُسُلٌ مِّن قَبْلِكَ جَآءُو بِٱلْبَيِّنَـٰتِ وَٱلزُّبُرِ وَٱلْكِتَـٰبِ ٱلْمُنِيرِ"
+arabic: "فَإِن كَذَّبُوكَ فَقَدْ كُذِّبَ رُسُلٌ مِّن قَبْلِكَ جَآءُو بِٱلْبَيِّنَـٰتِ وَٱلزُّبُرِ وَٱلْكِتَـٰبِ ٱلْمُنِيرِ"
 translation: "So if they deny you, then messengers before you were also denied; they came with clear proofs, the scriptures, and the illuminating Book."
 word_count: null
 estimated_duration: "45-55 minutes"

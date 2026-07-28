@@ -6,7 +6,7 @@ ayah_end: 20
 title: "Submit Your Face, Then Let Them Go: The Boundary Between Conveying and Controlling"
 slug: "003-020"
 category: tadabbur
-arabic: "فَإِنْ حَآجُّوكَ فَقُلْ أَسْلَمْتُ وَجْهِيَ لِلَّهِ وَمَنِ ٱتَّبَعَنِ ۗ وَقُل لِّلَّذِينَ أُوتُواْ ٱلْكِتَـٰبَ وَٱلْأُمِّيِّـۧنَ ءَأَسْلَمْتُمْ ۚ فَإِنْ أَسْلَمُواْ فَقَدِ ٱهْتَدَواْ ۖ وَّإِن تَوَلَّوْاْ فَإِنَّمَا عَلَيْكَ ٱلْبَلَـٰغُ ۗ وَٱللَّهُ بَصِيرٌۢ بِٱلْعِبَادِ"
+arabic: "فَإِنْ حَآجُّوكَ فَقُلْ أَسْلَمْتُ وَجْهِىَ لِلَّهِ وَمَنِ ٱتَّبَعَنِ ۗ وَقُل لِّلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ وَٱلْأُمِّيِّـۧنَ ءَأَسْلَمْتُمْ ۚ فَإِنْ أَسْلَمُوا۟ فَقَدِ ٱهْتَدَوا۟ ۖ وَّإِن تَوَلَّوْا۟ فَإِنَّمَا عَلَيْكَ ٱلْبَلَـٰغُ ۗ وَٱللَّهُ بَصِيرٌۢ بِٱلْعِبَادِ"
 translation: "So if they argue with you, say: 'I have submitted my whole self to Allah, and so have those who follow me.' And say to those who were given the Book and to the unlettered: 'Have you submitted yourselves?' If they submit, they are truly guided; but if they turn away, then your duty is only to convey. And Allah is All-Seeing of His servants."
 word_count: 26
 estimated_duration: "50-58 minutes"

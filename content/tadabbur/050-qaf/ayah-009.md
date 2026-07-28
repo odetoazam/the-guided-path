@@ -6,7 +6,7 @@ ayah_end: 9
 title: "The Water That Buries Nothing: Rain, Seed, and the Logic of Resurrection"
 slug: "050-009"
 category: tadabbur
-arabic: "وَنَزَّلْنَا مِنَ ٱلسَّمَآءِ مَآءً مُّبَٰرَكًا فَأَنۢبَتْنَا بِهِۦ جَنَّٰتٍ وَحَبَّ ٱلْحَصِيدِ"
+arabic: "وَنَزَّلْنَا مِنَ ٱلسَّمَآءِ مَآءً مُّبَـٰرَكًا فَأَنۢبَتْنَا بِهِۦ جَنَّـٰتٍ وَحَبَّ ٱلْحَصِيدِ"
 translation: "And We sent down from the sky blessed water, then We caused to grow with it gardens and the grain of harvest."
 word_count: 10
 estimated_duration: "50-58 minutes"

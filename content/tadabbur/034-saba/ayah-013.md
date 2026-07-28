@@ -6,7 +6,7 @@ ayah_end: 13
 title: "Work as Gratitude — When Spectacle Is the Stepping Stone"
 slug: "034-013"
 category: tadabbur
-arabic: "يَعْمَلُونَ لَهُۥ مَا يَشَآءُ مِن مَّحَـٰرِيبَ وَتَمَـٰثِيلَ وَجِفَانٍ كَٱلْجَوَابِ وَقُدُورٍ رَّاسِيَـٰتٍ ۚ ٱعْمَلُوٓاْ ءَالَ دَاوُۥدَ شُكْرًا ۚ وَقَلِيلٌ مِّنْ عِبَادِىَ ٱلشَّكُورُ"
+arabic: "يَعْمَلُونَ لَهُۥ مَا يَشَآءُ مِن مَّحَـٰرِيبَ وَتَمَـٰثِيلَ وَجِفَانٍ كَٱلْجَوَابِ وَقُدُورٍ رَّاسِيَـٰتٍ ۚ ٱعْمَلُوٓا۟ ءَالَ دَاوُۥدَ شُكْرًا ۚ وَقَلِيلٌ مِّنْ عِبَادِىَ ٱلشَّكُورُ"
 translation: "They worked for him what he willed — sanctuaries, and statues, and bowls like cisterns, and cauldrons fixed in place. 'Work, O family of Dawud, in gratitude.' But few of My servants are deeply grateful."
 word_count: 21
 estimated_duration: "50-58 minutes"

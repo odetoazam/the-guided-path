@@ -6,7 +6,7 @@ ayah_end: 83
 title: "What They Already Had: When Knowledge Becomes a Wall"
 slug: "040-083"
 category: tadabbur
-arabic: "فَلَمَّا جَآءَتْهُمْ رُسُلُهُم بِٱلْبَيِّنَٰتِ فَرِحُوا۟ بِمَا عِندَهُم مِّنَ ٱلْعِلْمِ وَحَاقَ بِهِم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ"
+arabic: "فَلَمَّا جَآءَتْهُمْ رُسُلُهُم بِٱلْبَيِّنَـٰتِ فَرِحُوا۟ بِمَا عِندَهُم مِّنَ ٱلْعِلْمِ وَحَاقَ بِهِم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ"
 translation: "Then when their messengers came to them with clear proofs, they rejoiced in what they had of knowledge — and there closed in around them the very thing they used to mock."
 word_count: 15
 estimated_duration: "50-58 minutes"

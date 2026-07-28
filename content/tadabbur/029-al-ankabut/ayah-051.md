@@ -6,7 +6,7 @@ ayah_end: 51
 title: "The Book That Is Recited Upon Them — When Revelation Itself Is the Miracle"
 slug: "029-051"
 category: tadabbur
-arabic: "أَوَلَمْ يَكْفِهِمْ أَنَّآ أَنزَلْنَا عَلَيْكَ ٱلْكِتَـٰبَ يُتْلَىٰ عَلَيْهِمْ ۚ إِنَّ فِى ذَٰلِكَ لَرَحْمَةً وَذِكْرَىٰ لِقَوْمٍ يُؤْمِنُونَ"
+arabic: "أَوَلَمْ يَكْفِهِمْ أَنَّآ أَنزَلْنَا عَلَيْكَ ٱلْكِتَـٰبَ يُتْلَىٰ عَلَيْهِمْ ۚ إِنَّ فِى ذَٰلِكَ لَرَحْمَةً وَذِكْرَىٰ لِقَوْمٍ يُؤْمِنُونَ"
 translation: "Is it not enough for them that We have sent down to you the Book which is recited to them? Indeed, in that is a mercy and a reminder for a people who believe."
 word_count: 19
 estimated_duration: "48-55 minutes"

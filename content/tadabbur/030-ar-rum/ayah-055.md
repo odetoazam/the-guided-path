@@ -6,7 +6,7 @@ ayah_end: 55
 title: "The Oath of the Deniers — When Lying Becomes Reflex"
 slug: "030-055"
 category: tadabbur
-arabic: "وَيَوْمَ تَقُومُ ٱلسَّاعَةُ يُقْسِمُ ٱلْمُجْرِمُونَ مَا لَبِثُوا۟ غَيْرَ سَاعَةٍ ۚ كَذَٰلِكَ كَانُوا۟ يُؤْفَكُونَ"
+arabic: "وَيَوْمَ تَقُومُ ٱلسَّاعَةُ يُقْسِمُ ٱلْمُجْرِمُونَ مَا لَبِثُوا۟ غَيْرَ سَاعَةٍ ۚ كَذَٰلِكَ كَانُوا۟ يُؤْفَكُونَ"
 translation: "And on the Day the Hour stands, the criminals will swear they did not linger more than an hour. That is how they used to be deluded."
 word_count: 12
 estimated_duration: "50-55 minutes"

@@ -6,7 +6,7 @@ ayah_end: 89
 title: "The Signature of False Worship — When Your God Cannot Answer"
 slug: "020-089"
 category: tadabbur
-arabic: "أَفَلَا يَرَوْنَ أَلَّا يَرْجِعُ إِلَيْهِمْ قَوْلًا وَلَا يَمْلِكُ لَهُمْ ضَرًّا وَلَا نَفْعًا"
+arabic: "أَفَلَا يَرَوْنَ أَلَّا يَرْجِعُ إِلَيْهِمْ قَوْلًا وَلَا يَمْلِكُ لَهُمْ ضَرًّا وَلَا نَفْعًا"
 translation: "Did they not see that it could not return to them a single word — and possessed for them no power to harm, nor to benefit?"
 word_count: 11
 estimated_duration: "48-54 minutes"

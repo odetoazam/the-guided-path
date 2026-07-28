@@ -6,7 +6,7 @@ ayah_end: 4
 title: "When They Call You a Liar: Rejection, Company, and the Return of Every Matter"
 slug: "035-004"
 category: tadabbur
-arabic: "وَإِن يُكَذِّبُوكَ فَقَدْ كُذِّبَتْ رُسُلٌ مِّن قَبْلِكَ ۚ وَإِلَى ٱللَّهِ تُرْجَعُ ٱلْأُمُورُ"
+arabic: "وَإِن يُكَذِّبُوكَ فَقَدْ كُذِّبَتْ رُسُلٌ مِّن قَبْلِكَ ۚ وَإِلَى ٱللَّهِ تُرْجَعُ ٱلْأُمُورُ"
 translation: "And if they deny you, then certainly messengers before you were denied. And to Allah all matters are returned."
 word_count: 11
 estimated_duration: "50-58 minutes"

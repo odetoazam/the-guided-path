@@ -6,7 +6,7 @@ ayah_end: 21
 title: "The Geography of Fear: When Watching Becomes Walking"
 slug: "028-021"
 category: tadabbur
-arabic: "فَخَرَجَ مِنْهَا خَآئِفًۭا يَتَرَقَّبُ ۖ قَالَ رَبِّ نَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ"
+arabic: "فَخَرَجَ مِنْهَا خَآئِفًا يَتَرَقَّبُ ۖ قَالَ رَبِّ نَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ"
 translation: "So he left it, fearful, watchfully anticipating. He said: 'My Lord, save me from the wrongdoing people.'"
 word_count: 11
 estimated_duration: "48-55 minutes"

@@ -6,7 +6,7 @@ ayah_end: 30
 title: "The Idol and the Lie: Why Allah Pairs Two Fabrications in One Breath"
 slug: "022-030"
 category: tadabbur
-arabic: "ذَٰلِكَ وَمَن يُعَظِّمْ حُرُمَاتِ اللَّهِ فَهُوَ خَيْرٌ لَّهُ عِندَ رَبِّهِ ۗ وَأُحِلَّتْ لَكُمُ الْأَنْعَامُ إِلَّا مَا يُتْلَىٰ عَلَيْكُمْ ۖ فَاجْتَنِبُوا الرِّجْسَ مِنَ الْأَوْثَانِ وَاجْتَنِبُوا قَوْلَ الزُّورِ"
+arabic: "ذَٰلِكَ وَمَن يُعَظِّمْ حُرُمَـٰتِ ٱللَّهِ فَهُوَ خَيْرٌ لَّهُۥ عِندَ رَبِّهِۦ ۗ وَأُحِلَّتْ لَكُمُ ٱلْأَنْعَـٰمُ إِلَّا مَا يُتْلَىٰ عَلَيْكُمْ ۖ فَٱجْتَنِبُوا۟ ٱلرِّجْسَ مِنَ ٱلْأَوْثَـٰنِ وَٱجْتَنِبُوا۟ قَوْلَ ٱلزُّورِ"
 translation: "That [is so]. And whoever magnifies the sacred ordinances of Allah — it is better for him with his Lord. And the grazing livestock have been made lawful for you, except what is recited to you. So keep yourselves away from the filth of idols, and keep yourselves away from the speech of falsehood."
 word_count: 28
 estimated_duration: "50-56 minutes"

@@ -6,7 +6,7 @@ ayah_end: 45
 title: "The Tenth They Never Reached: A Warning Carved from Ruins"
 slug: "034-045"
 category: tadabbur
-arabic: "وَكَذَّبَ ٱلَّذِينَ مِن قَبْلِهِمْ وَمَا بَلَغُوا۟ مِعْشَارَ مَآ ءَاتَيْنَـٰهُمْ فَكَذَّبُوا۟ رُسُلِى ۖ فَكَيْفَ كَانَ نَكِيرِ"
+arabic: "وَكَذَّبَ ٱلَّذِينَ مِن قَبْلِهِمْ وَمَا بَلَغُوا۟ مِعْشَارَ مَآ ءَاتَيْنَـٰهُمْ فَكَذَّبُوا۟ رُسُلِى ۖ فَكَيْفَ كَانَ نَكِيرِ"
 translation: "And those before them denied — and these have not reached even a tenth of what We had given them — yet they denied My messengers. So how was My rejection?"
 word_count: 14
 estimated_duration: "50-55 minutes"

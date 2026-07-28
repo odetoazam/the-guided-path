@@ -6,7 +6,7 @@ ayah_end: 11
 title: "Some Paltry Host: How a Single Empty Word Routs an Army"
 slug: "038-011"
 category: tadabbur
-arabic: "جُندٌ مَّا هُنَالِكَ مَهْزُومٌ مِّنَ ٱلْأَحْزَابِ"
+arabic: "جُندٌ مَّا هُنَالِكَ مَهْزُومٌ مِّنَ ٱلْأَحْزَابِ"
 translation: "[They are but] a paltry host, [bound to be] routed right there — just another of the factions."
 word_count: 6
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 34
 title: "The Refuge That Answers to the Name of Fire: When Forgetting Is Repaid in Its Own Coin"
 slug: "045-034"
 category: tadabbur
-arabic: "وَقِيلَ ٱلْيَوْمَ نَنسَىٰكُمْ كَمَا نَسِيتُمْ لِقَآءَ يَوْمِكُمْ هَـٰذَا وَمَأْوَىٰكُمُ ٱلنَّارُ وَمَا لَكُم مِّن نَّـٰصِرِينَ"
+arabic: "وَقِيلَ ٱلْيَوْمَ نَنسَىٰكُمْ كَمَا نَسِيتُمْ لِقَآءَ يَوْمِكُمْ هَـٰذَا وَمَأْوَىٰكُمُ ٱلنَّارُ وَمَا لَكُم مِّن نَّـٰصِرِينَ"
 translation: "And it will be said, 'Today We forget you, just as you forgot the meeting of this Day of yours. Your refuge is the Fire, and there are no helpers for you.'"
 word_count: 14
 estimated_duration: "50-58 minutes"

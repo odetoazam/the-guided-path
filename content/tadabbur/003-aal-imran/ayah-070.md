@@ -6,7 +6,7 @@ ayah_end: 70
 title: "Covering What Your Own Eyes Have Uncovered"
 slug: "003-070"
 category: tadabbur
-arabic: "يَـٰٓأَهْلَ ٱلْكِتَـٰبِ لِمَ تَكْفُرُونَ بِـَٔايَـٰتِ ٱللَّهِ وَأَنتُمْ تَشْهَدُونَ"
+arabic: "يَـٰٓأَهْلَ ٱلْكِتَـٰبِ لِمَ تَكْفُرُونَ بِـَٔايَـٰتِ ٱللَّهِ وَأَنتُمْ تَشْهَدُونَ"
 translation: "O People of the Book! Why do you deny the signs of Allah while you yourselves bear witness?"
 word_count: 8
 estimated_duration: "50-58 minutes"

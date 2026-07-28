@@ -6,7 +6,7 @@ ayah_end: 14
 title: "The Days That Belong to Allah: Why the One Who Forgives Is the One Who Believes the Reckoning Is Real"
 slug: "045-014"
 category: tadabbur
-arabic: "قُل لِّلَّذِينَ ءَامَنُوا۟ يَغْفِرُوا۟ لِلَّذِينَ لَا يَرْجُونَ أَيَّامَ ٱللَّهِ لِيَجْزِىَ قَوْمًۢا بِمَا كَانُوا۟ يَكْسِبُونَ"
+arabic: "قُل لِّلَّذِينَ ءَامَنُوا۟ يَغْفِرُوا۟ لِلَّذِينَ لَا يَرْجُونَ أَيَّامَ ٱللَّهِ لِيَجْزِىَ قَوْمًۢا بِمَا كَانُوا۟ يَكْسِبُونَ"
 translation: "Say to those who believe, let them forgive those who do not look forward to the days of Allah — so that He may recompense a people for what they used to earn."
 word_count: 14
 estimated_duration: "50-58 minutes"

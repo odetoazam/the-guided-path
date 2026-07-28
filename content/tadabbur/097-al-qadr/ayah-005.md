@@ -6,7 +6,7 @@ ayah_end: 5
 title: "Peace Until the Dawn Breaks: The Night That Does Not Merely Contain Peace But Is Peace"
 slug: "097-005"
 category: tadabbur
-arabic: "سَلَـٰمٌ هِىَ حَتَّىٰ مَطْلَعِ ٱلْفَجْرِ"
+arabic: "سَلَـٰمٌ هِىَ حَتَّىٰ مَطْلَعِ ٱلْفَجْرِ"
 translation: "Peace it is, until the emergence of the dawn."
 word_count: 5
 estimated_duration: "50-58 minutes"

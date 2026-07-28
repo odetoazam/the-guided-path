@@ -6,7 +6,7 @@ ayah_end: 23
 title: "When Disbelief Doesn't Hurt You — And What Allah Already Holds"
 slug: "031-023"
 category: tadabbur
-arabic: "وَمَن كَفَرَ فَلَا يَحْزُنكَ كُفْرُهُۥ ۚ إِلَيْنَا مَرْجِعُهُمْ فَنُنَبِّئُهُم بِمَا عَمِلُوٓا۟ ۚ إِنَّ ٱللَّهَ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ"
+arabic: "وَمَن كَفَرَ فَلَا يَحْزُنكَ كُفْرُهُۥٓ ۚ إِلَيْنَا مَرْجِعُهُمْ فَنُنَبِّئُهُم بِمَا عَمِلُوٓا۟ ۚ إِنَّ ٱللَّهَ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ"
 translation: "And whoever disbelieves — let not his disbelief grieve you. To Us is their return, and We will inform them of what they did. Indeed, Allah is fully knowing of what is within the chests."
 word_count: 16
 estimated_duration: "48-55 minutes"

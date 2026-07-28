@@ -6,7 +6,7 @@ ayah_end: 80
 title: "The Knowing Eye: When Wealth Walks Past and You Don't Want It"
 slug: "028-080"
 category: tadabbur
-arabic: "وَقَالَ ٱلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ وَيْلَكُمْ ثَوَابُ ٱللَّهِ خَيْرٌ لِّمَنْ ءَامَنَ وَعَمِلَ صَـٰلِحًۭا وَلَا يُلَقَّىٰهَآ إِلَّا ٱلصَّـٰبِرُونَ"
+arabic: "وَقَالَ ٱلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ وَيْلَكُمْ ثَوَابُ ٱللَّهِ خَيْرٌ لِّمَنْ ءَامَنَ وَعَمِلَ صَـٰلِحًا وَلَا يُلَقَّىٰهَآ إِلَّا ٱلصَّـٰبِرُونَ"
 translation: "But those who had been given knowledge said: 'Woe to you! The reward of Allah is better for the one who believes and does righteous deeds. And none is granted this except the patient ones.'"
 word_count: 17
 estimated_duration: "48-55 minutes"

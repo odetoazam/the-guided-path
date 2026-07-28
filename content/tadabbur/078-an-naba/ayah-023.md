@@ -6,7 +6,7 @@ ayah_end: 23
 title: "The Ages That Keep Arriving: Time as the Instrument of the Sentence"
 slug: "078-023"
 category: tadabbur
-arabic: "لَّٰبِثِينَ فِيهَآ أَحْقَابًا"
+arabic: "لَّـٰبِثِينَ فِيهَآ أَحْقَابًا"
 translation: "Remaining therein for ages."
 word_count: 3
 estimated_duration: "50-58 minutes"

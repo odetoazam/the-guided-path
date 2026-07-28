@@ -6,7 +6,7 @@ ayah_end: 32
 title: "The Two Motions of a Saved Heart: Return and Guard"
 slug: "050-032"
 category: tadabbur
-arabic: "هَـٰذَا مَا تُوعَدُونَ لِكُلِّ أَوَّابٍ حَفِيظٍ"
+arabic: "هَـٰذَا مَا تُوعَدُونَ لِكُلِّ أَوَّابٍ حَفِيظٍ"
 translation: "This is what you were promised — for everyone who turns back [to Allah] again and again, and who keeps [what he has been entrusted with]."
 word_count: 6
 estimated_duration: "50-58 minutes"

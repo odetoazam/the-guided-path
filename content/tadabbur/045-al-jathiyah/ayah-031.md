@@ -6,7 +6,7 @@ ayah_end: 31
 title: "The Question You Cannot Answer: Arrogance, the Signs That Followed You, and the Crime You Earned"
 slug: "045-031"
 category: tadabbur
-arabic: "وَأَمَّا ٱلَّذِينَ كَفَرُوٓاْ أَفَلَمْ تَكُنْ ءَايَـٰتِى تُتْلَىٰ عَلَيْكُمْ فَٱسْتَكْبَرْتُمْ وَكُنتُمْ قَوْمًا مُّجْرِمِينَ"
+arabic: "وَأَمَّا ٱلَّذِينَ كَفَرُوٓا۟ أَفَلَمْ تَكُنْ ءَايَـٰتِى تُتْلَىٰ عَلَيْكُمْ فَٱسْتَكْبَرْتُمْ وَكُنتُمْ قَوْمًا مُّجْرِمِينَ"
 translation: "But as for those who disbelieved: 'Were My verses not recited to you — yet you were arrogant, and you became a people who earned their crimes?'"
 word_count: 11
 estimated_duration: "50-58 minutes"

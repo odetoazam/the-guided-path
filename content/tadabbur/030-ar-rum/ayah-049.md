@@ -6,7 +6,7 @@ ayah_end: 49
 title: "The Despair Before the Rain: What Allah Reveals About the Human Heart"
 slug: "030-049"
 category: tadabbur
-arabic: "وَإِن كَانُوا۟ مِن قَبْلِ أَن يُنَزَّلَ عَلَيْهِم مِّن قَبْلِهِۦ لَمُبْلِسِينَ"
+arabic: "وَإِن كَانُوا۟ مِن قَبْلِ أَن يُنَزَّلَ عَلَيْهِم مِّن قَبْلِهِۦ لَمُبْلِسِينَ"
 translation: "Though before it was sent down upon them — before that — they had been utterly despairing."
 word_count: 11
 estimated_duration: "48-55 minutes"

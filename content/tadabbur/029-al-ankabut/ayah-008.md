@@ -6,7 +6,7 @@ ayah_end: 8
 title: "When Love Becomes the Test: The Limit of Obedience to Parents"
 slug: "029-008"
 category: tadabbur
-arabic: "وَوَصَّيْنَا الْإِنسَانَ بِوَالِدَيْهِ حُسْنًا ۖ وَإِن جَاهَدَاكَ لِتُشْرِكَ بِي مَا لَيْسَ لَكَ بِهِ عِلْمٌ فَلَا تُطِعْهُمَا ۚ إِلَيَّ مَرْجِعُكُمْ فَأُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ"
+arabic: "وَوَصَّيْنَا ٱلْإِنسَـٰنَ بِوَٰلِدَيْهِ حُسْنًا ۖ وَإِن جَـٰهَدَاكَ لِتُشْرِكَ بِى مَا لَيْسَ لَكَ بِهِۦ عِلْمٌ فَلَا تُطِعْهُمَآ ۚ إِلَىَّ مَرْجِعُكُمْ فَأُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ"
 translation: "And We have enjoined upon the human being goodness toward his parents. But if they strive against you to make you associate with Me that of which you have no knowledge, then do not obey them. To Me is your return, and I will inform you of what you used to do."
 word_count: 27
 estimated_duration: "50-58 minutes"

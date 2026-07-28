@@ -6,7 +6,7 @@ ayah_end: 68
 title: "Looking at the Back of Speech: When the Quran Asks if You've Reflected"
 slug: "023-068"
 category: tadabbur
-arabic: "أَفَلَمْ يَدَّبَّرُوا۟ ٱلْقَوْلَ أَمْ جَآءَهُم مَّا لَمْ يَأْتِ ءَابَآءَهُمُ ٱلْأَوَّلِينَ"
+arabic: "أَفَلَمْ يَدَّبَّرُوا۟ ٱلْقَوْلَ أَمْ جَآءَهُم مَّا لَمْ يَأْتِ ءَابَآءَهُمُ ٱلْأَوَّلِينَ"
 translation: "Have they not then reflected upon the Speech — or has something come to them that did not come to their earliest forefathers?"
 word_count: 11
 estimated_duration: "50-58 minutes"

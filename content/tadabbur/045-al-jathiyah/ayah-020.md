@@ -6,7 +6,7 @@ ayah_end: 20
 title: "The Light That Falls on Every Eye, and the Sight That Opens Only Some"
 slug: "045-020"
 category: tadabbur
-arabic: "هَٰذَا بَصَٰٓئِرُ لِلنَّاسِ وَهُدًۭى وَرَحْمَةٌۭ لِّقَوْمٍۢ يُوقِنُونَ"
+arabic: "هَـٰذَا بَصَـٰٓئِرُ لِلنَّاسِ وَهُدًى وَرَحْمَةٌ لِّقَوْمٍ يُوقِنُونَ"
 translation: "This is enlightenment for all mankind, and guidance and mercy for a people who attain certainty."
 word_count: 7
 estimated_duration: "50-58 minutes"

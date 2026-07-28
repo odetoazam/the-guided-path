@@ -6,7 +6,7 @@ ayah_end: 55
 title: "Which One Would You Deny? — The Question That Counts You"
 slug: "055-055"
 category: tadabbur
-arabic: "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+arabic: "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
 translation: "So which of the favors of your Lord will you both deny?"
 word_count: 7100
 estimated_duration: "49-58 minutes"

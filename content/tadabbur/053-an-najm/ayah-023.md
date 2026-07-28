@@ -6,7 +6,7 @@ ayah_end: 23
 title: "Only Names: When We Worship the Labels We Invent"
 slug: "053-023"
 category: tadabbur
-arabic: "إِنْ هِيَ إِلَّآ أَسْمَآءٌ سَمَّيْتُمُوهَآ أَنتُمْ وَءَابَآؤُكُم مَّآ أَنزَلَ ٱللَّهُ بِهَا مِن سُلْطَٰنٍ ۚ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَمَا تَهْوَى ٱلْأَنفُسُ ۖ وَلَقَدْ جَآءَهُم مِّن رَّبِّهِمُ ٱلْهُدَىٰ"
+arabic: "إِنْ هِىَ إِلَّآ أَسْمَآءٌ سَمَّيْتُمُوهَآ أَنتُمْ وَءَابَآؤُكُم مَّآ أَنزَلَ ٱللَّهُ بِهَا مِن سُلْطَـٰنٍ ۚ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَمَا تَهْوَى ٱلْأَنفُسُ ۖ وَلَقَدْ جَآءَهُم مِّن رَّبِّهِمُ ٱلْهُدَىٰٓ"
 translation: "They are nothing but names — names that you and your forefathers have invented — for which Allah has sent down no authority whatsoever. They follow nothing but conjecture and the cravings of their own souls — even though guidance has most certainly come to them from their Lord."
 word_count: 25
 estimated_duration: "50-58 minutes"

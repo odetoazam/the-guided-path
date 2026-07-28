@@ -6,7 +6,7 @@ ayah_end: 39
 title: "When the Earth Cannot Be Outrun: Qarun, Pharaoh, Haman and the Illusion of Escape"
 slug: "029-039"
 category: tadabbur
-arabic: "وَقَـٰرُونَ وَفِرْعَوْنَ وَهَـٰمَـٰنَ ۖ وَلَقَدْ جَآءَهُم مُّوسَىٰ بِٱلْبَيِّنَـٰتِ فَٱسْتَكْبَرُوا۟ فِى ٱلْأَرْضِ وَمَا كَانُوا۟ سَـٰبِقِينَ"
+arabic: "وَقَـٰرُونَ وَفِرْعَوْنَ وَهَـٰمَـٰنَ ۖ وَلَقَدْ جَآءَهُم مُّوسَىٰ بِٱلْبَيِّنَـٰتِ فَٱسْتَكْبَرُوا۟ فِى ٱلْأَرْضِ وَمَا كَانُوا۟ سَـٰبِقِينَ"
 translation: "And [We destroyed] Qarun, and Pharaoh, and Haman. Musa had certainly come to them with clear proofs, but they were arrogant in the land — and they were not ones who could outrun [Us]."
 word_count: 16
 estimated_duration: "50-55 minutes"

@@ -6,7 +6,7 @@ ayah_end: 40
 title: "The Gift That Costs Nothing: Why a Free Truth Feels Like a Debt"
 slug: "052-040"
 category: tadabbur
-arabic: "أَمْ تَسْـَٔلُهُمْ أَجْرًا فَهُم مِّن مَّغْرَمٍ مُّثْقَلُونَ"
+arabic: "أَمْ تَسْـَٔلُهُمْ أَجْرًا فَهُم مِّن مَّغْرَمٍ مُّثْقَلُونَ"
 translation: "Or do you ask of them a payment — so that they are weighed down by debt?"
 word_count: 7
 estimated_duration: "50-58 minutes"

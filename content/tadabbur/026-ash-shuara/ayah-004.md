@@ -6,7 +6,7 @@ ayah_end: 4
 title: "The Sign That Was Withheld: Why Allah Refuses to Compel Belief"
 slug: "026-004"
 category: tadabbur
-arabic: "إِن نَّشَأْ نُنَزِّلْ عَلَيْهِم مِّنَ ٱلسَّمَآءِ ءَايَةً فَظَلَّتْ أَعْنَاقُهُمْ لَهَا خَـٰضِعِينَ"
+arabic: "إِن نَّشَأْ نُنَزِّلْ عَلَيْهِم مِّنَ ٱلسَّمَآءِ ءَايَةً فَظَلَّتْ أَعْنَـٰقُهُمْ لَهَا خَـٰضِعِينَ"
 translation: "If We willed, We could send down upon them from the sky a sign, so their necks would remain humbled before it."
 word_count: 11
 estimated_duration: "50-58 minutes"

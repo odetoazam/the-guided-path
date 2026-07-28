@@ -6,7 +6,7 @@ ayah_end: 48
 title: "Sealed With Grief: The Patience That Waits for the Decree"
 slug: "068-048"
 category: tadabbur
-arabic: "فَٱصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تَكُن كَصَاحِبِ ٱلْحُوتِ إِذْ نَادَىٰ وَهُوَ مَكْظُومٌ"
+arabic: "فَٱصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تَكُن كَصَاحِبِ ٱلْحُوتِ إِذْ نَادَىٰ وَهُوَ مَكْظُومٌ"
 translation: "So be patient for the decree of your Lord, and do not be like the companion of the fish — when he cried out while he was choked with grief."
 word_count: 6600
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 3
 title: "Balā: How Allah Answers a Denial With an Inventory of the Invisible"
 slug: "034-003"
 category: tadabbur
-arabic: "وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لَا تَأْتِينَا ٱلسَّاعَةُ ۖ قُلْ بَلَىٰ وَرَبِّى لَتَأْتِيَنَّكُمْ عَـٰلِمِ ٱلْغَيْبِ ۖ لَا يَعْزُبُ عَنْهُ مِثْقَالُ ذَرَّةٍ فِى ٱلسَّمَـٰوَٰتِ وَلَا فِى ٱلْأَرْضِ وَلَآ أَصْغَرُ مِن ذَٰلِكَ وَلَآ أَكْبَرُ إِلَّا فِى كِتَـٰبٍ مُّبِينٍ"
+arabic: "وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لَا تَأْتِينَا ٱلسَّاعَةُ ۖ قُلْ بَلَىٰ وَرَبِّى لَتَأْتِيَنَّكُمْ عَـٰلِمِ ٱلْغَيْبِ ۖ لَا يَعْزُبُ عَنْهُ مِثْقَالُ ذَرَّةٍ فِى ٱلسَّمَـٰوَٰتِ وَلَا فِى ٱلْأَرْضِ وَلَآ أَصْغَرُ مِن ذَٰلِكَ وَلَآ أَكْبَرُ إِلَّا فِى كِتَـٰبٍ مُّبِينٍ"
 translation: "But those who disbelieve say, 'The Hour will not come to us.' Say: 'Yes — by my Lord, it will surely come to you. He is the Knower of the unseen. Not even the weight of a mote escapes Him, neither in the heavens nor in the earth, and nothing smaller than that, nor anything greater, except that it is in a clarifying record.'"
 word_count: 32
 estimated_duration: "50-58 minutes"

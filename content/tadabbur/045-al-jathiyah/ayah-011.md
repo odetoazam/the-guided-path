@@ -6,7 +6,7 @@ ayah_end: 11
 title: "This Is Guidance: The Free Light and the Earned Filth"
 slug: "045-011"
 category: tadabbur
-arabic: "هَـٰذَا هُدًۭى ۖ وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَـٰتِ رَبِّهِمْ لَهُمْ عَذَابٌۭ مِّن رِّجْزٍ أَلِيمٌۭ"
+arabic: "هَـٰذَا هُدًى ۖ وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَـٰتِ رَبِّهِمْ لَهُمْ عَذَابٌ مِّن رِّجْزٍ أَلِيمٌ"
 translation: "This is guidance. And those who disbelieve in the signs of their Lord — for them is a punishment of foul torment, painful."
 word_count: 12
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 2
 title: "The Grammar of Defeat: How Allah Hides Inside Every Passive Verb"
 slug: "030-002"
 category: tadabbur
-arabic: "غُلِبَتِ الرُّومُ"
+arabic: "غُلِبَتِ ٱلرُّومُ"
 translation: "The Romans have been defeated."
 word_count: 6850
 estimated_duration: "50-58 minutes"

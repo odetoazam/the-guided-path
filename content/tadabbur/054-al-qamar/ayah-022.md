@@ -6,7 +6,7 @@ ayah_end: 22
 title: "The Saddled Mount: How Allah Prepared the Quran for the Journey to Your Heart"
 slug: "054-022"
 category: tadabbur
-arabic: "وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ"
+arabic: "وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ"
 translation: "And We have certainly made the Quran easy for remembrance — so is there any who will take heed?"
 word_count: 5400
 estimated_duration: "50-58 minutes"

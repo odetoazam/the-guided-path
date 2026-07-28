@@ -6,7 +6,7 @@ ayah_end: 32
 title: "The Cleaving That Splits Only Yourself: Opposition, Impotence, and the Bloated Deed"
 slug: "047-032"
 category: tadabbur
-arabic: "إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ وَشَآقُّوا۟ ٱلرَّسُولَ مِنۢ بَعْدِ مَا تَبَيَّنَ لَهُمُ ٱلْهُدَىٰ لَن يَضُرُّوا۟ ٱللَّهَ شَيْـًٔا وَسَيُحْبِطُ أَعْمَـٰلَهُمْ"
+arabic: "إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ وَشَآقُّوا۟ ٱلرَّسُولَ مِنۢ بَعْدِ مَا تَبَيَّنَ لَهُمُ ٱلْهُدَىٰ لَن يَضُرُّوا۟ ٱللَّهَ شَيْـًٔا وَسَيُحْبِطُ أَعْمَـٰلَهُمْ"
 translation: "Indeed, those who disbelieved and turned away from the way of Allah and split themselves off in opposition to the Messenger after the guidance had become clear to them — never will they harm Allah in anything, and He will make their deeds collapse into nothing."
 word_count: 7100
 estimated_duration: "50-58 minutes"

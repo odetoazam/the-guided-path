@@ -6,7 +6,7 @@ ayah_end: 9
 title: "Brought In: Allah's Oath and the Promise of Belonging to the Righteous"
 slug: "029-009"
 category: tadabbur
-arabic: "وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَنُدْخِلَنَّهُمْ فِي الصَّالِحِينَ"
+arabic: "وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَنُدْخِلَنَّهُمْ فِى ٱلصَّـٰلِحِينَ"
 translation: "And those who believed and did righteous deeds — We will surely bring them into the company of the righteous."
 word_count: 8600
 estimated_duration: "50-58 minutes"

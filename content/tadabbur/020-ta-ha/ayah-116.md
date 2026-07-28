@@ -6,7 +6,7 @@ ayah_end: 116
 title: "The One Who Refused — The Original 'No' and the Word Allah Stripped Away"
 slug: "020-116"
 category: tadabbur
-arabic: "وَإِذْ قُلْنَا لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ أَبَىٰ"
+arabic: "وَإِذْ قُلْنَا لِلْمَلَـٰٓئِكَةِ ٱسْجُدُوا۟ لِـَٔادَمَ فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ أَبَىٰ"
 translation: "And [remember] when We said to the angels, 'Prostrate to Adam,' so they prostrated — except Iblis; he refused."
 word_count: 6200
 estimated_duration: "50-55 minutes"

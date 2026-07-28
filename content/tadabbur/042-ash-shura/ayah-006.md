@@ -6,7 +6,7 @@ ayah_end: 6
 title: "The Weight You Were Never Asked to Carry"
 slug: "042-006"
 category: tadabbur
-arabic: "وَٱلَّذِينَ ٱتَّخَذُوا۟ مِن دُونِهِۦٓ أَوْلِيَآءَ ٱللَّهُ حَفِيظٌ عَلَيْهِمْ وَمَآ أَنتَ عَلَيْهِم بِوَكِيلٍ"
+arabic: "وَٱلَّذِينَ ٱتَّخَذُوا۟ مِن دُونِهِۦٓ أَوْلِيَآءَ ٱللَّهُ حَفِيظٌ عَلَيْهِمْ وَمَآ أَنتَ عَلَيْهِم بِوَكِيلٍ"
 translation: "And those who take protectors besides Him — Allah is a Guardian over them, and you are not over them a manager of affairs."
 word_count: 12
 estimated_duration: "50-58 minutes"

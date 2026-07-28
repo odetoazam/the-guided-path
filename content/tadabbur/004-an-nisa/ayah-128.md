@@ -6,7 +6,7 @@ ayah_end: 128
 title: "The Fear That Reads the Early Signs: Reconciliation and the Greed Woven Into the Soul"
 slug: "004-128"
 category: tadabbur
-arabic: "وَإِنِ ٱمْرَأَةٌ خَافَتْ مِنۢ بَعْلِهَا نُشُوزًا أَوْ إِعْرَاضًا فَلَا جُنَاحَ عَلَيْهِمَآ أَن يُصْلِحَا بَيْنَهُمَا صُلْحًا ۚ وَٱلصُّلْحُ خَيْرٌ ۗ وَأُحْضِرَتِ ٱلْأَنفُسُ ٱلشُّحَّ ۚ وَإِن تُحْسِنُوا۟ وَتَتَّقُوا۟ فَإِنَّ ٱللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًا"
+arabic: "وَإِنِ ٱمْرَأَةٌ خَافَتْ مِنۢ بَعْلِهَا نُشُوزًا أَوْ إِعْرَاضًا فَلَا جُنَاحَ عَلَيْهِمَآ أَن يُصْلِحَا بَيْنَهُمَا صُلْحًا ۚ وَٱلصُّلْحُ خَيْرٌ ۗ وَأُحْضِرَتِ ٱلْأَنفُسُ ٱلشُّحَّ ۚ وَإِن تُحْسِنُوا۟ وَتَتَّقُوا۟ فَإِنَّ ٱللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًا"
 translation: "And if a woman fears from her husband ill-conduct (nushūz) or aversion (iʿrāḍ), there is no blame upon them both if they make terms of peace between themselves — and peace is better. Souls have been brought a present companion: greed. But if you do good and are mindful of God, then indeed God is ever, of all that you do, deeply Aware."
 word_count: 29
 estimated_duration: "50-58 minutes"

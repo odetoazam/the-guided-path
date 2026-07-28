@@ -6,7 +6,7 @@ ayah_end: 12
 title: "The Footprints That Keep Walking: Āthār and the Register That Goes Before You"
 slug: "036-012"
 category: tadabbur
-arabic: "إِنَّا نَحْنُ نُحْىِ ٱلْمَوْتَىٰ وَنَكْتُبُ مَا قَدَّمُوا۟ وَءَاثَـٰرَهُمْ ۚ وَكُلَّ شَىْءٍ أَحْصَيْنَـٰهُ فِىٓ إِمَامٍ مُّبِينٍ"
+arabic: "إِنَّا نَحْنُ نُحْىِ ٱلْمَوْتَىٰ وَنَكْتُبُ مَا قَدَّمُوا۟ وَءَاثَـٰرَهُمْ ۚ وَكُلَّ شَىْءٍ أَحْصَيْنَـٰهُ فِىٓ إِمَامٍ مُّبِينٍ"
 translation: "Indeed, it is We who give life to the dead, and We record what they have sent ahead and their traces. And everything We have enumerated in a clear Register."
 word_count: 4800
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 2
 title: "The Singular Path: On Following What Descends When Everything Else Pulls"
 slug: "033-002"
 category: tadabbur
-arabic: "وَاتَّبِعْ مَا يُوحَىٰ إِلَيْكَ مِن رَّبِّكَ ۚ إِنَّ اللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًا"
+arabic: "وَٱتَّبِعْ مَا يُوحَىٰٓ إِلَيْكَ مِن رَّبِّكَ ۚ إِنَّ ٱللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًا"
 translation: "And follow what is revealed to you from your Lord. Indeed, Allah is ever, of what you do, Acquainted."
 word_count: 5350
 estimated_duration: "53-59 minutes"

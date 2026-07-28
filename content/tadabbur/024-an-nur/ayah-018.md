@@ -6,7 +6,7 @@ ayah_end: 18
 title: "He Is Still Making It Clear: The Continuous Mercy of Divine Clarification"
 slug: "024-018"
 category: tadabbur
-arabic: "وَيُبَيِّنُ اللَّهُ لَكُمُ الْآيَاتِ ۗ وَاللَّهُ عَلِيمٌ حَكِيمٌ"
+arabic: "وَيُبَيِّنُ ٱللَّهُ لَكُمُ ٱلْـَٔايَـٰتِ ۚ وَٱللَّهُ عَلِيمٌ حَكِيمٌ"
 translation: "And Allah makes clear to you the signs — and Allah is All-Knowing, All-Wise."
 word_count: 7700
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 32
 title: "The Question You Cannot Answer With Yes: When Reckoning Itself Is a Favor"
 slug: "055-032"
 category: tadabbur
-arabic: "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+arabic: "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
 translation: "So which of the favors of your Lord will you both deny?"
 word_count: 4
 estimated_duration: "50-58 minutes"

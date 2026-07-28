@@ -6,7 +6,7 @@ ayah_end: 15
 title: "The Faith That Never Flinched: Why Allah Calls Them 'Truthful' and Not 'Believers'"
 slug: "049-015"
 category: tadabbur
-arabic: "إِنَّمَا ٱلْمُؤْمِنُونَ ٱلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ ثُمَّ لَمْ يَرْتَابُوا۟ وَجَـٰهَدُوا۟ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ فِى سَبِيلِ ٱللَّهِ ۚ أُو۟لَـٰٓئِكَ هُمُ ٱلصَّـٰدِقُونَ"
+arabic: "إِنَّمَا ٱلْمُؤْمِنُونَ ٱلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ ثُمَّ لَمْ يَرْتَابُوا۟ وَجَـٰهَدُوا۟ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ فِى سَبِيلِ ٱللَّهِ ۚ أُو۟لَـٰٓئِكَ هُمُ ٱلصَّـٰدِقُونَ"
 translation: "The believers are only those who have believed in Allah and His Messenger, then did not doubt, and who strove with their wealth and their lives in the way of Allah. It is they — precisely they — who are the truthful."
 word_count: 19
 estimated_duration: "50-58 minutes"

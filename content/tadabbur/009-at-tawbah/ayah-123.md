@@ -6,7 +6,7 @@ ayah_end: 123
 title: "The Nearest Enemy and the Constraint of Taqwa"
 slug: "009-123"
 category: tadabbur
-arabic: "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ قَـٰتِلُواْ ٱلَّذِينَ يَلُونَكُم مِّنَ ٱلۡكُفَّارِ وَلۡيَجِدُواْ فِيكُمۡ غِلۡظَةًۚ وَٱعۡلَمُوٓاْ أَنَّ ٱللَّهَ مَعَ ٱلۡمُتَّقِينَ"
+arabic: "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ قَـٰتِلُوا۟ ٱلَّذِينَ يَلُونَكُم مِّنَ ٱلْكُفَّارِ وَلْيَجِدُوا۟ فِيكُمْ غِلْظَةً ۚ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ مَعَ ٱلْمُتَّقِينَ"
 translation: "O you who have believed, fight those of the disbelievers who are nearest to you, and let them find in you harshness — and know that Allah is with those of taqwa."
 word_count: 9200
 estimated_duration: "50-56 minutes"

@@ -6,7 +6,7 @@ ayah_end: 26
 title: "The One Who Answers You, Not Just Your Request"
 slug: "042-026"
 category: tadabbur
-arabic: "وَيَسْتَجِيبُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَيَزِيدُهُم مِّن فَضْلِهِۦ ۚ وَٱلْكَـٰفِرُونَ لَهُمْ عَذَابٌ شَدِيدٌ"
+arabic: "وَيَسْتَجِيبُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَيَزِيدُهُم مِّن فَضْلِهِۦ ۚ وَٱلْكَـٰفِرُونَ لَهُمْ عَذَابٌ شَدِيدٌ"
 translation: "And He answers those who believe and do righteous deeds, and increases for them from His bounty. But the disbelievers — for them is a severe punishment."
 word_count: 12
 estimated_duration: "50-58 minutes"

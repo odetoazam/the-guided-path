@@ -6,7 +6,7 @@ ayah_end: 39
 title: "The Mirror of Contempt: When You Give God What You Despise"
 slug: "052-039"
 category: tadabbur
-arabic: "أَمْ لَهُ ٱلْبَنَٰتُ وَلَكُمُ ٱلْبَنُونَ"
+arabic: "أَمْ لَهُ ٱلْبَنَـٰتُ وَلَكُمُ ٱلْبَنُونَ"
 translation: "Or are the daughters for Him, while for you are the sons?"
 word_count: 7100
 estimated_duration: "48-58 minutes"

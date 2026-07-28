@@ -6,7 +6,7 @@ ayah_end: 8
 title: "The Fall With No Hand to Lift You: تَعْس and the Deeds That Lose Their Way"
 slug: "047-008"
 category: tadabbur
-arabic: "وَٱلَّذِينَ كَفَرُوا۟ فَتَعْسًۭا لَّهُمْ وَأَضَلَّ أَعْمَـٰلَهُمْ"
+arabic: "وَٱلَّذِينَ كَفَرُوا۟ فَتَعْسًا لَّهُمْ وَأَضَلَّ أَعْمَـٰلَهُمْ"
 translation: "But those who disbelieve — for them is stumbling and ruin; and He has made their deeds go astray."
 word_count: 6
 estimated_duration: "50-58 minutes"

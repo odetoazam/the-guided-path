@@ -6,7 +6,7 @@ ayah_end: 11
 title: "Thus Is the Coming Forth: The Dead Land and the Two-Word Resurrection"
 slug: "050-011"
 category: tadabbur
-arabic: "رِّزْقًا لِّلْعِبَادِ ۖ وَأَحْيَيْنَا بِهِ بَلْدَةً مَّيْتًا ۚ كَذَٰلِكَ ٱلْخُرُوجُ"
+arabic: "رِّزْقًا لِّلْعِبَادِ ۖ وَأَحْيَيْنَا بِهِۦ بَلْدَةً مَّيْتًا ۚ كَذَٰلِكَ ٱلْخُرُوجُ"
 translation: "As provision for the servants. And We gave life thereby to a dead land. Thus is the coming forth."
 word_count: 8
 estimated_duration: "50-56 minutes"

@@ -6,7 +6,7 @@ ayah_end: 43
 title: "Grip the Rope: The Two Form-Tens and the Ground That Already Stands"
 slug: "043-043"
 category: tadabbur
-arabic: "فَٱسْتَمْسِكْ بِٱلَّذِىٓ أُوحِىَ إِلَيْكَ ۖ إِنَّكَ عَلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ"
+arabic: "فَٱسْتَمْسِكْ بِٱلَّذِىٓ أُوحِىَ إِلَيْكَ ۖ إِنَّكَ عَلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ"
 translation: "So hold fast to that which has been revealed to you. Indeed, you are upon a straight path."
 word_count: 8
 estimated_duration: "50-58 minutes"

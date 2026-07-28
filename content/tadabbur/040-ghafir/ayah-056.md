@@ -6,7 +6,7 @@ ayah_end: 56
 title: "The Bigness They Will Never Reach: Pride Dressed as Argument"
 slug: "040-056"
 category: tadabbur
-arabic: "إِنَّ ٱلَّذِينَ يُجَٰدِلُونَ فِىٓ ءَايَٰتِ ٱللَّهِ بِغَيْرِ سُلْطَٰنٍ أَتَىٰهُمْ ۙ إِن فِى صُدُورِهِمْ إِلَّا كِبْرٌ مَّا هُم بِبَٰلِغِيهِ ۚ فَٱسْتَعِذْ بِٱللَّهِ ۖ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْبَصِيرُ"
+arabic: "إِنَّ ٱلَّذِينَ يُجَـٰدِلُونَ فِىٓ ءَايَـٰتِ ٱللَّهِ بِغَيْرِ سُلْطَـٰنٍ أَتَىٰهُمْ ۙ إِن فِى صُدُورِهِمْ إِلَّا كِبْرٌ مَّا هُم بِبَـٰلِغِيهِ ۚ فَٱسْتَعِذْ بِٱللَّهِ ۖ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْبَصِيرُ"
 translation: "Indeed, those who dispute concerning the signs of Allah without any authority having come to them — there is nothing in their breasts but a craving for greatness which they will never attain. So seek refuge in Allah. Indeed, it is He who is the All-Hearing, the All-Seeing."
 word_count: 23
 estimated_duration: "50-58 minutes"

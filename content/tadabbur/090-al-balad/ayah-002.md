@@ -6,7 +6,7 @@ ayah_end: 2
 title: "Loosed in the Sanctuary: When the Sacred City Turns to Face You"
 slug: "090-002"
 category: tadabbur
-arabic: "وَأَنتَ حِلٌّۢ بِهَٰذَا ٱلْبَلَدِ"
+arabic: "وَأَنتَ حِلٌّۢ بِهَـٰذَا ٱلْبَلَدِ"
 translation: "And you — you dwell freely in this city."
 word_count: 4
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 4
 title: "The Deterrent Was Already Delivered: News That Carries Its Own Restraint"
 slug: "054-004"
 category: tadabbur
-arabic: "وَلَقَدْ جَآءَهُم مِّنَ ٱلْأَنۢبَآءِ مَا فِيهِ مُزْدَجَرٌ"
+arabic: "وَلَقَدْ جَآءَهُم مِّنَ ٱلْأَنۢبَآءِ مَا فِيهِ مُزْدَجَرٌ"
 translation: "And there has already come to them news in which there is deterrence enough."
 word_count: 5900
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 51
 title: "Do Not Set Anything Beside Him: Shirk as Addition and the Warner Sent From the One Warned About"
 slug: "051-051"
 category: tadabbur
-arabic: "وَلَا تَجْعَلُوا۟ مَعَ ٱللَّهِ إِلَـٰهًا ءَاخَرَ ۖ إِنِّى لَكُم مِّنْهُ نَذِيرٌ مُّبِينٌ"
+arabic: "وَلَا تَجْعَلُوا۟ مَعَ ٱللَّهِ إِلَـٰهًا ءَاخَرَ ۖ إِنِّى لَكُم مِّنْهُ نَذِيرٌ مُّبِينٌ"
 translation: "And do not set up with Allah another god. Indeed, I am to you, from Him, a clear warner."
 word_count: 11
 estimated_duration: "48-56 minutes"

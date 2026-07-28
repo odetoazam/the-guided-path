@@ -6,7 +6,7 @@ ayah_end: 4
 title: "The Companion of the Chest: When Being Fully Known Is Both the Terror and the Mercy"
 slug: "064-004"
 category: tadabbur
-arabic: "يَعْلَمُ مَا فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَيَعْلَمُ مَا تُسِرُّونَ وَمَا تُعْلِنُونَ ۚ وَٱللَّهُ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ"
+arabic: "يَعْلَمُ مَا فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَيَعْلَمُ مَا تُسِرُّونَ وَمَا تُعْلِنُونَ ۚ وَٱللَّهُ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ"
 translation: "He knows whatever is in the heavens and the earth, and He knows what you conceal and what you declare. And Allah is All-Knowing of that which is within the breasts."
 word_count: 14
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 46
 title: "The Winds That Carry Mercy — On Reading the Signs Before the Rain"
 slug: "030-046"
 category: tadabbur
-arabic: "وَمِنْ آيَاتِهِ أَن يُرْسِلَ الرِّيَاحَ مُبَشِّرَاتٍ وَلِيُذِيقَكُم مِّن رَّحْمَتِهِ وَلِتَجْرِيَ الْفُلْكُ بِأَمْرِهِ وَلِتَبْتَغُوا مِن فَضْلِهِ وَلَعَلَّكُمْ تَشْكُرُونَ"
+arabic: "وَمِنْ ءَايَـٰتِهِۦٓ أَن يُرْسِلَ ٱلرِّيَاحَ مُبَشِّرَٰتٍ وَلِيُذِيقَكُم مِّن رَّحْمَتِهِۦ وَلِتَجْرِىَ ٱلْفُلْكُ بِأَمْرِهِۦ وَلِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ"
 translation: "And among His signs is that He sends the winds as bearers of glad tidings — that He may let you taste of His mercy, that ships may sail by His command, that you may seek of His bounty, and that you may give thanks."
 word_count: 28
 estimated_duration: "50-58 minutes"

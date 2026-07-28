@@ -6,7 +6,7 @@ ayah_end: 4
 title: "The Two Hungers: On Being Fed Against Emptiness and Secured Against Fear"
 slug: "106-004"
 category: tadabbur
-arabic: "ٱلَّذِىٓ أَطْعَمَهُم مِّن جُوعٍ وَءَامَنَهُم مِّنْ خَوْفٍۭ"
+arabic: "ٱلَّذِىٓ أَطْعَمَهُم مِّن جُوعٍ وَءَامَنَهُم مِّنْ خَوْفٍۭ"
 translation: "The One who fed them against hunger and gave them security against fear."
 word_count: 7
 estimated_duration: "48-56 minutes"

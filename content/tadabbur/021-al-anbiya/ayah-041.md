@@ -6,7 +6,7 @@ ayah_end: 41
 title: "When the Mockery You Threw Comes Back to Surround You"
 slug: "021-041"
 category: tadabbur
-arabic: "وَلَقَدِ ٱسْتُهْزِئَ بِرُسُلٍ مِّن قَبْلِكَ فَحَاقَ بِٱلَّذِينَ سَخِرُوا۟ مِنْهُم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ"
+arabic: "وَلَقَدِ ٱسْتُهْزِئَ بِرُسُلٍ مِّن قَبْلِكَ فَحَاقَ بِٱلَّذِينَ سَخِرُوا۟ مِنْهُم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ"
 translation: "And messengers before you were certainly mocked — so the very thing they used to mock enveloped those of them who scorned."
 word_count: 13
 estimated_duration: "48-55 minutes"

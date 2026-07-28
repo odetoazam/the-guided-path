@@ -6,7 +6,7 @@ ayah_end: 33
 title: "The Named Term and the Ancient House — On Borrowed Benefit and Final Destination"
 slug: "022-033"
 category: tadabbur
-arabic: "لَكُمْ فِيهَا مَنَافِعُ إِلَىٰ أَجَلٍ مُّسَمًّى ثُمَّ مَحِلُّهَا إِلَى الْبَيْتِ الْعَتِيقِ"
+arabic: "لَكُمْ فِيهَا مَنَـٰفِعُ إِلَىٰٓ أَجَلٍ مُّسَمًّى ثُمَّ مَحِلُّهَآ إِلَى ٱلْبَيْتِ ٱلْعَتِيقِ"
 translation: "For you in them are benefits for an appointed term — then their place [of sacrifice] is at the Ancient House."
 word_count: 11
 estimated_duration: "50-55 minutes"

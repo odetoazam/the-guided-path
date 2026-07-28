@@ -6,7 +6,7 @@ ayah_end: 25
 title: "The Question With No End: When the Doubt You Built Dissolves"
 slug: "025-003"
 category: tadabbur
-arabic: "فَكَيْفَ إِذَا جَمَعْنَٰهُمْ لِيَوْمٍۢ لَّا رَيْبَ فِيهِ وَوُفِّيَتْ كُلُّ نَفْسٍۢ مَّا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ"
+arabic: "فَكَيْفَ إِذَا جَمَعْنَـٰهُمْ لِيَوْمٍ لَّا رَيْبَ فِيهِ وَوُفِّيَتْ كُلُّ نَفْسٍ مَّا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ"
 translation: "Then how will it be when We gather them for a Day about which there is no doubt, and every soul is paid in full what it earned — and they are not wronged."
 word_count: 15
 estimated_duration: "48-58 minutes"

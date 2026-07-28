@@ -6,7 +6,7 @@ ayah_end: 62
 title: "The Enemy on the Path: Why the Clearest Enemy Is the One We Forget"
 slug: "043-062"
 category: tadabbur
-arabic: "وَلَا يَصُدَّنَّكُمُ ٱلشَّيْطَٰنُ ۖ إِنَّهُۥ لَكُمْ عَدُوٌّ مُّبِينٌ"
+arabic: "وَلَا يَصُدَّنَّكُمُ ٱلشَّيْطَـٰنُ ۖ إِنَّهُۥ لَكُمْ عَدُوٌّ مُّبِينٌ"
 translation: "And do not let Satan avert you. Indeed, he is to you a clear enemy."
 word_count: 8600
 estimated_duration: "50-58 minutes"

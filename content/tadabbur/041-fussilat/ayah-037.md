@@ -6,7 +6,7 @@ ayah_end: 37
 title: "Created Them: The Pronoun That Demotes a God"
 slug: "041-037"
 category: tadabbur
-arabic: "وَمِنْ ءَايَـٰتِهِ ٱلَّيْلُ وَٱلنَّهَارُ وَٱلشَّمْسُ وَٱلْقَمَرُ ۚ لَا تَسْجُدُوا۟ لِلشَّمْسِ وَلَا لِلْقَمَرِ وَٱسْجُدُوا۟ لِلَّهِ ٱلَّذِى خَلَقَهُنَّ إِن كُنتُمْ إِيَّاهُ تَعْبُدُونَ"
+arabic: "وَمِنْ ءَايَـٰتِهِ ٱلَّيْلُ وَٱلنَّهَارُ وَٱلشَّمْسُ وَٱلْقَمَرُ ۚ لَا تَسْجُدُوا۟ لِلشَّمْسِ وَلَا لِلْقَمَرِ وَٱسْجُدُوا۟ لِلَّهِ ٱلَّذِى خَلَقَهُنَّ إِن كُنتُمْ إِيَّاهُ تَعْبُدُونَ"
 translation: "And among His signs are the night and the day, the sun and the moon. Do not prostrate to the sun, nor to the moon — but prostrate to Allah, the One who created them, if it is truly Him you worship."
 word_count: 19
 estimated_duration: "48-58 minutes"

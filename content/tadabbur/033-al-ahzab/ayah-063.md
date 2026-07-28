@@ -6,7 +6,7 @@ ayah_end: 63
 title: "When the People Ask About the Hour: The Question Allah Refuses to Answer"
 slug: "033-063"
 category: tadabbur
-arabic: "يَسْـَٔلُكَ ٱلنَّاسُ عَنِ ٱلسَّاعَةِ ۖ قُلْ إِنَّمَا عِلْمُهَا عِندَ ٱللَّهِ ۚ وَمَا يُدْرِيكَ لَعَلَّ ٱلسَّاعَةَ تَكُونُ قَرِيبًا"
+arabic: "يَسْـَٔلُكَ ٱلنَّاسُ عَنِ ٱلسَّاعَةِ ۖ قُلْ إِنَّمَا عِلْمُهَا عِندَ ٱللَّهِ ۚ وَمَا يُدْرِيكَ لَعَلَّ ٱلسَّاعَةَ تَكُونُ قَرِيبًا"
 translation: "The people ask you about the Hour. Say: Its knowledge is only with Allah. And what would make you know? Perhaps the Hour is near."
 word_count: 15
 estimated_duration: "48-55 minutes"

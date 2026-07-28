@@ -6,7 +6,7 @@ ayah_end: 113
 title: "The Grace You Never Felt: How Allah Reveals a Blessing by Showing the Catastrophe It Turned Away"
 slug: "004-113"
 category: tadabbur
-arabic: "وَلَوْلَا فَضْلُ ٱللَّهِ عَلَيْكَ وَرَحْمَتُهُۥ لَهَمَّت طَّآئِفَةٌ مِّنْهُمْ أَن يُضِلُّوكَ وَمَا يُضِلُّونَ إِلَّآ أَنفُسَهُمْ وَمَا يَضُرُّونَكَ مِن شَىْءٍ وَأَنزَلَ ٱللَّهُ عَلَيْكَ ٱلْكِتَٰبَ وَٱلْحِكْمَةَ وَعَلَّمَكَ مَا لَمْ تَكُن تَعْلَمُ وَكَانَ فَضْلُ ٱللَّهِ عَلَيْكَ عَظِيمًا"
+arabic: "وَلَوْلَا فَضْلُ ٱللَّهِ عَلَيْكَ وَرَحْمَتُهُۥ لَهَمَّت طَّآئِفَةٌ مِّنْهُمْ أَن يُضِلُّوكَ وَمَا يُضِلُّونَ إِلَّآ أَنفُسَهُمْ ۖ وَمَا يَضُرُّونَكَ مِن شَىْءٍ ۚ وَأَنزَلَ ٱللَّهُ عَلَيْكَ ٱلْكِتَـٰبَ وَٱلْحِكْمَةَ وَعَلَّمَكَ مَا لَمْ تَكُن تَعْلَمُ ۚ وَكَانَ فَضْلُ ٱللَّهِ عَلَيْكَ عَظِيمًا"
 translation: "And were it not for the grace of Allah upon you and His mercy, a group of them would have resolved to mislead you. But they mislead none except themselves, and they will not harm you in anything. And Allah has sent down upon you the Book and the Wisdom and taught you what you did not know. And the grace of Allah upon you has ever been immense."
 word_count: 33
 estimated_duration: "50-58 minutes"

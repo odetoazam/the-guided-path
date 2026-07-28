@@ -6,7 +6,7 @@ ayah_end: 62
 title: "And Below Them, Two More Gardens: When the Lesser Is Still Limitless"
 slug: "055-062"
 category: tadabbur
-arabic: "وَمِن دُونِهِمَا جَنَّتَانِ"
+arabic: "وَمِن دُونِهِمَا جَنَّتَانِ"
 translation: "And besides those two, [there are yet] two other gardens."
 word_count: 4
 estimated_duration: "48-56 minutes"

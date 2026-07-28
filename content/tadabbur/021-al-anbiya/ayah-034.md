@@ -6,7 +6,7 @@ ayah_end: 34
 title: "What They Were Waiting For: Mortality, Khuld, and the Mockers' Calculus"
 slug: "021-034"
 category: tadabbur
-arabic: "وَمَا جَعَلْنَا لِبَشَرٍ مِّن قَبْلِكَ ٱلْخُلْدَ ۖ أَفَإِي۟ن مِّتَّ فَهُمُ ٱلْخَـٰلِدُونَ"
+arabic: "وَمَا جَعَلْنَا لِبَشَرٍ مِّن قَبْلِكَ ٱلْخُلْدَ ۖ أَفَإِي۟ن مِّتَّ فَهُمُ ٱلْخَـٰلِدُونَ"
 translation: "And We have not granted to any human being before you everlasting life; so if you die, would they be the everlasting ones?"
 word_count: 11
 estimated_duration: "50-56 minutes"

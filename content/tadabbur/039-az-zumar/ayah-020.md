@@ -6,7 +6,7 @@ ayah_end: 20
 title: "The Built Promise: How Taqwa Becomes Architecture"
 slug: "039-020"
 category: tadabbur
-arabic: "لَـٰكِنِ ٱلَّذِينَ ٱتَّقَوْا۟ رَبَّهُمْ لَهُمْ غُرَفٌ مِّن فَوْقِهَا غُرَفٌ مَّبْنِيَّةٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ۖ وَعْدَ ٱللَّهِ ۖ لَا يُخْلِفُ ٱللَّهُ ٱلْمِيعَادَ"
+arabic: "لَـٰكِنِ ٱلَّذِينَ ٱتَّقَوْا۟ رَبَّهُمْ لَهُمْ غُرَفٌ مِّن فَوْقِهَا غُرَفٌ مَّبْنِيَّةٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ۖ وَعْدَ ٱللَّهِ ۖ لَا يُخْلِفُ ٱللَّهُ ٱلْمِيعَادَ"
 translation: "But those who were conscious of their Lord — for them are lofty chambers, above which are chambers built high, with rivers flowing beneath them. [This is] the promise of Allah. Allah does not fail His appointed word."
 word_count: 6400
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 65
 title: "The Mouth That Is Sealed and the Hands That Speak"
 slug: "036-065"
 category: tadabbur
-arabic: "ٱلْيَوْمَ نَخْتِمُ عَلَىٰٓ أَفْوَٰهِهِمْ وَتُكَلِّمُنَآ أَيْدِيهِمْ وَتَشْهَدُ أَرْجُلُهُم بِمَا كَانُوا۟ يَكْسِبُونَ"
+arabic: "ٱلْيَوْمَ نَخْتِمُ عَلَىٰٓ أَفْوَٰهِهِمْ وَتُكَلِّمُنَآ أَيْدِيهِمْ وَتَشْهَدُ أَرْجُلُهُم بِمَا كَانُوا۟ يَكْسِبُونَ"
 translation: "This Day We seal over their mouths, and their hands speak to Us, and their feet bear witness about what they used to earn."
 word_count: 11
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 86
 title: "The Book You Never Expected: Mercy as the Hidden Architecture of Revelation"
 slug: "028-086"
 category: tadabbur
-arabic: "وَمَا كُنتَ تَرْجُوٓا۟ أَن يُلْقَىٰٓ إِلَيْكَ ٱلْكِتَـٰبُ إِلَّا رَحْمَةً مِّن رَّبِّكَ ۖ فَلَا تَكُونَنَّ ظَهِيرًۭا لِّلْكَـٰفِرِينَ"
+arabic: "وَمَا كُنتَ تَرْجُوٓا۟ أَن يُلْقَىٰٓ إِلَيْكَ ٱلْكِتَـٰبُ إِلَّا رَحْمَةً مِّن رَّبِّكَ ۖ فَلَا تَكُونَنَّ ظَهِيرًا لِّلْكَـٰفِرِينَ"
 translation: "And you never expected that this Book would be conveyed to you — except as a mercy from your Lord. So never be a supporter of those who deny."
 word_count: 19
 estimated_duration: "50-58 minutes"

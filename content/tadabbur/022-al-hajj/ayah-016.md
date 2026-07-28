@@ -6,7 +6,7 @@ ayah_end: 16
 title: "Clear Signs and the Mystery of Guidance"
 slug: "022-016"
 category: tadabbur
-arabic: "وَكَذَٰلِكَ أَنزَلْنَٰهُ ءَايَٰتٍۭ بَيِّنَٰتٍ وَأَنَّ ٱللَّهَ يَهْدِى مَن يُرِيدُ"
+arabic: "وَكَذَٰلِكَ أَنزَلْنَـٰهُ ءَايَـٰتٍۭ بَيِّنَـٰتٍ وَأَنَّ ٱللَّهَ يَهْدِى مَن يُرِيدُ"
 translation: "And thus have We sent it down — as verses of perfect clarity — and [know that] Allah guides whomever He wills."
 word_count: 5800
 estimated_duration: "48-55 minutes"

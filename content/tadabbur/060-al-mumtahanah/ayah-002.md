@@ -6,7 +6,7 @@ ayah_end: 2
 title: "The Wish Beneath the Smile: When Affection Meets a Heart That Wants Your Ruin"
 slug: "060-002"
 category: tadabbur
-arabic: "إِن يَثْقَفُوكُمْ يَكُونُوا۟ لَكُمْ أَعْدَآءً وَيَبْسُطُوٓا۟ إِلَيْكُمْ أَيْدِيَهُمْ وَأَلْسِنَتَهُم بِٱلسُّوٓءِ وَوَدُّوا۟ لَوْ تَكْفُرُونَ"
+arabic: "إِن يَثْقَفُوكُمْ يَكُونُوا۟ لَكُمْ أَعْدَآءً وَيَبْسُطُوٓا۟ إِلَيْكُمْ أَيْدِيَهُمْ وَأَلْسِنَتَهُم بِٱلسُّوٓءِ وَوَدُّوا۟ لَوْ تَكْفُرُونَ"
 translation: "If they gain the upper hand over you, they will be enemies to you and stretch out against you their hands and their tongues with evil, and they wish that you would disbelieve."
 word_count: 13
 estimated_duration: "50-58 minutes"

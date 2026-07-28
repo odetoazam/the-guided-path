@@ -6,7 +6,7 @@ ayah_end: 49
 title: "Everything Comes in Twos: The Pair That Points to the One"
 slug: "051-049"
 category: tadabbur
-arabic: "وَمِن كُلِّ شَىْءٍ خَلَقْنَا زَوْجَيْنِ لَعَلَّكُمْ تَذَكَّرُونَ"
+arabic: "وَمِن كُلِّ شَىْءٍ خَلَقْنَا زَوْجَيْنِ لَعَلَّكُمْ تَذَكَّرُونَ"
 translation: "And of all things We created pairs, that perhaps you may remember."
 word_count: 7
 estimated_duration: "50-58 minutes"

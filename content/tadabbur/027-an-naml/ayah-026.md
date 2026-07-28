@@ -6,7 +6,7 @@ ayah_end: 26
 title: "The Lord of the Magnificent Throne — When a Bird Corrects an Empire"
 slug: "027-026"
 category: tadabbur
-arabic: "ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ رَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ ۩"
+arabic: "ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ رَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ ۩"
 translation: "Allah — there is no god but He, Lord of the Magnificent Throne."
 word_count: 8
 estimated_duration: "48-55 minutes"

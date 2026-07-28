@@ -6,7 +6,7 @@ ayah_end: 12
 title: "The Sea That Was Made to Serve — and the One Response Left Unguaranteed"
 slug: "045-012"
 category: tadabbur
-arabic: "۞ ٱللَّهُ ٱلَّذِى سَخَّرَ لَكُمُ ٱلْبَحْرَ لِتَجْرِىَ ٱلْفُلْكُ فِيهِ بِأَمْرِهِۦ وَلِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ"
+arabic: "۞ ٱللَّهُ ٱلَّذِى سَخَّرَ لَكُمُ ٱلْبَحْرَ لِتَجْرِىَ ٱلْفُلْكُ فِيهِ بِأَمْرِهِۦ وَلِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ"
 translation: "Allah is the One who subjected the sea for you, that the ships may run upon it by His command, and that you may seek of His bounty — and so that perhaps you might give thanks."
 word_count: 14
 estimated_duration: "50-58 minutes"

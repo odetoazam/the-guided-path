@@ -6,7 +6,7 @@ ayah_end: 13
 title: "Reclining Beyond the Reach of Every Extreme: Neither Sun Nor Cold"
 slug: "076-013"
 category: tadabbur
-arabic: "مُّتَّكِئِينَ فِيهَا عَلَى ٱلْأَرَآئِكِ ۖ لَا يَرَوْنَ فِيهَا شَمْسًا وَلَا زَمْهَرِيرًا"
+arabic: "مُّتَّكِـِٔينَ فِيهَا عَلَى ٱلْأَرَآئِكِ ۖ لَا يَرَوْنَ فِيهَا شَمْسًا وَلَا زَمْهَرِيرًا"
 translation: "Reclining therein upon adorned couches, they will see in it neither [scorching] sun nor [biting] cold."
 word_count: 10
 estimated_duration: "50-58 minutes"

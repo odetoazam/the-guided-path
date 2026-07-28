@@ -6,7 +6,7 @@ ayah_end: 42
 title: "The Curse That Walks Beside Them: When Disgrace Becomes a Companion in This World"
 slug: "028-042"
 category: tadabbur
-arabic: "وَأَتْبَعْنَاهُمْ فِي هَـٰذِهِ الدُّنْيَا لَعْنَةً ۖ وَيَوْمَ الْقِيَامَةِ هُم مِّنَ الْمَقْبُوحِينَ"
+arabic: "وَأَتْبَعْنَـٰهُمْ فِى هَـٰذِهِ ٱلدُّنْيَا لَعْنَةً ۖ وَيَوْمَ ٱلْقِيَـٰمَةِ هُم مِّنَ ٱلْمَقْبُوحِينَ"
 translation: "And We caused a curse to follow them in this world, and on the Day of Resurrection they will be among the despised."
 word_count: 11
 estimated_duration: "48-55 minutes"

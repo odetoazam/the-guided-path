@@ -6,7 +6,7 @@ ayah_end: 13
 title: "The Despair That Disqualifies: Loyalty, the Hereafter, and the Hollow Sound of a Heart That Has Given Up"
 slug: "060-013"
 category: tadabbur
-arabic: "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تَتَوَلَّوْاْ قَوْمًا غَضِبَ ٱللَّهُ عَلَيْهِمْ قَدْ يَئِسُواْ مِنَ ٱلْءَاخِرَةِ كَمَا يَئِسَ ٱلْكُفَّارُ مِنْ أَصْحَـٰبِ ٱلْقُبُورِ"
+arabic: "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَوَلَّوْا۟ قَوْمًا غَضِبَ ٱللَّهُ عَلَيْهِمْ قَدْ يَئِسُوا۟ مِنَ ٱلْـَٔاخِرَةِ كَمَا يَئِسَ ٱلْكُفَّارُ مِنْ أَصْحَـٰبِ ٱلْقُبُورِ"
 translation: "O you who believe! Do not take as allies a people upon whom is Allah's wrath. They have despaired of the Hereafter just as the disbelievers have despaired of the companions of the graves."
 word_count: 19
 estimated_duration: "50-58 minutes"

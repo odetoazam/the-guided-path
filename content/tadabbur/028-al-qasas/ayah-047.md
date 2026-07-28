@@ -6,7 +6,7 @@ ayah_end: 47
 title: "The Excuse That Allah Closed Before You Could Open It"
 slug: "028-047"
 category: tadabbur
-arabic: "وَلَوْلَآ أَن تُصِيبَهُم مُّصِيبَةٌۢ بِمَا قَدَّمَتْ أَيْدِيهِمْ فَيَقُولُوا۟ رَبَّنَا لَوْلَآ أَرْسَلْتَ إِلَيْنَا رَسُولًۭا فَنَتَّبِعَ ءَايَـٰتِكَ وَنَكُونَ مِنَ ٱلْمُؤْمِنِينَ"
+arabic: "وَلَوْلَآ أَن تُصِيبَهُم مُّصِيبَةٌۢ بِمَا قَدَّمَتْ أَيْدِيهِمْ فَيَقُولُوا۟ رَبَّنَا لَوْلَآ أَرْسَلْتَ إِلَيْنَا رَسُولًا فَنَتَّبِعَ ءَايَـٰتِكَ وَنَكُونَ مِنَ ٱلْمُؤْمِنِينَ"
 translation: "And were it not that disaster might strike them for what their own hands have sent forth — so that they would then say, 'Our Lord, why did You not send us a messenger so we could follow Your signs and be among the believers?' — [We would not have sent you]."
 word_count: 250
 estimated_duration: "50-55 minutes"

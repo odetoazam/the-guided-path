@@ -6,7 +6,7 @@ ayah_end: 29
 title: "Proceed to What You Denied: When the Thing You Rejected Becomes Your Address"
 slug: "077-029"
 category: tadabbur
-arabic: "ٱنطَلِقُوٓاْ إِلَىٰ مَا كُنتُمْ بِهِۦ تُكَذِّبُونَ"
+arabic: "ٱنطَلِقُوٓا۟ إِلَىٰ مَا كُنتُم بِهِۦ تُكَذِّبُونَ"
 translation: "Proceed to that which you used to deny."
 word_count: 6
 estimated_duration: "50-58 minutes"

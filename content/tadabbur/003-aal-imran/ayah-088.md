@@ -6,7 +6,7 @@ ayah_end: 88
 title: "The Three Mercies Withdrawn: What Eternal Punishment Removes That We Never Knew We Had"
 slug: "003-088"
 category: tadabbur
-arabic: "خَٰلِدِينَ فِيهَا لَا يُخَفَّفُ عَنْهُمُ ٱلْعَذَابُ وَلَا هُمْ يُنظَرُونَ"
+arabic: "خَـٰلِدِينَ فِيهَا لَا يُخَفَّفُ عَنْهُمُ ٱلْعَذَابُ وَلَا هُمْ يُنظَرُونَ"
 translation: "Abiding eternally therein. The punishment will not be lightened for them, nor will they be granted any reprieve."
 word_count: 9
 estimated_duration: "50-58 minutes"

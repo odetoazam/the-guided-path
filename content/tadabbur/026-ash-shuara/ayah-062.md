@@ -6,7 +6,7 @@ ayah_end: 62
 title: "Kalla — The Single Word That Split the Sea"
 slug: "026-062"
 category: tadabbur
-arabic: "قَالَ كَلَّا ۖ إِنَّ مَعِيَ رَبِّي سَيَهْدِينِ"
+arabic: "قَالَ كَلَّآ ۖ إِنَّ مَعِىَ رَبِّى سَيَهْدِينِ"
 translation: "He said, 'Never! Indeed, with me is my Lord; He will guide me.'"
 word_count: 6
 estimated_duration: "48-55 minutes"

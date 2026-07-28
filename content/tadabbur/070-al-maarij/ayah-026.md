@@ -6,7 +6,7 @@ ayah_end: 26
 title: "The Verb That Cures Panic: Affirming the Day Every Debt Comes Due"
 slug: "070-026"
 category: tadabbur
-arabic: "وَٱلَّذِينَ يُصَدِّقُونَ بِيَوۡمِ ٱلدِّينِ"
+arabic: "وَٱلَّذِينَ يُصَدِّقُونَ بِيَوْمِ ٱلدِّينِ"
 translation: "And those who affirm as true the Day of Reckoning —"
 word_count: 5400
 estimated_duration: "50-58 minutes"

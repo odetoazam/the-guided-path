@@ -6,7 +6,7 @@ ayah_end: 4
 title: "The Three Signs of Certainty: Prayer, Charity, and the Hereafter"
 slug: "031-004"
 category: tadabbur
-arabic: "ٱلَّذِينَ يُقِيمُونَ ٱلصَّلَوٰةَ وَيُؤْتُونَ ٱلزَّكَوٰةَ وَهُم بِٱلْءَاخِرَةِ هُمْ يُوقِنُونَ"
+arabic: "ٱلَّذِينَ يُقِيمُونَ ٱلصَّلَوٰةَ وَيُؤْتُونَ ٱلزَّكَوٰةَ وَهُم بِٱلْـَٔاخِرَةِ هُمْ يُوقِنُونَ"
 translation: "Those who establish the prayer, and give the zakāh, and who — of the Hereafter — they have certainty."
 word_count: 11
 estimated_duration: "50-58 minutes"

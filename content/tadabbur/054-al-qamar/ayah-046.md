@@ -6,7 +6,7 @@ ayah_end: 46
 title: "More Bitter Than Badr: The Appointment That Outlives Every Reckoning"
 slug: "054-046"
 category: tadabbur
-arabic: "بَلِ ٱلسَّاعَةُ مَوْعِدُهُمْ وَٱلسَّاعَةُ أَدْهَىٰ وَأَمَرُّ"
+arabic: "بَلِ ٱلسَّاعَةُ مَوْعِدُهُمْ وَٱلسَّاعَةُ أَدْهَىٰ وَأَمَرُّ"
 translation: "No — the Hour is their appointed time, and the Hour is more calamitous and more bitter."
 word_count: 5200
 estimated_duration: "48-56 minutes"

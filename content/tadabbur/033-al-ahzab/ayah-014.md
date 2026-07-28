@@ -6,7 +6,7 @@ ayah_end: 14
 title: "The Siege That Reveals: Pressure as Diagnosis, Not Creation"
 slug: "033-014"
 category: tadabbur
-arabic: "وَلَوْ دُخِلَتْ عَلَيْهِم مِّنْ أَقْطَارِهَا ثُمَّ سُئِلُوا۟ ٱلْفِتْنَةَ لَءَاتَوْهَا وَمَا تَلَبَّثُوا۟ بِهَآ إِلَّا يَسِيرًۭا"
+arabic: "وَلَوْ دُخِلَتْ عَلَيْهِم مِّنْ أَقْطَارِهَا ثُمَّ سُئِلُوا۟ ٱلْفِتْنَةَ لَـَٔاتَوْهَا وَمَا تَلَبَّثُوا۟ بِهَآ إِلَّا يَسِيرًا"
 translation: "And had it been entered upon them from all its sides, and then they had been asked to commit the fitnah, they would have given it — and they would not have lingered in it except a little."
 word_count: 14
 estimated_duration: "48-55 minutes"

@@ -6,7 +6,7 @@ ayah_end: 4
 title: "The Whisper That Reached the Throne — When 'Private' Stops Being Private"
 slug: "021-004"
 category: tadabbur
-arabic: "قَالَ رَبِّى يَعْلَمُ ٱلْقَوْلَ فِى ٱلسَّمَآءِ وَٱلْأَرْضِ ۖ وَهُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ"
+arabic: "قَالَ رَبِّى يَعْلَمُ ٱلْقَوْلَ فِى ٱلسَّمَآءِ وَٱلْأَرْضِ ۖ وَهُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ"
 translation: "He said: My Lord knows every word [spoken] in the heaven and the earth — and He is the All-Hearing, the All-Knowing."
 word_count: 11
 estimated_duration: "48-55 minutes"

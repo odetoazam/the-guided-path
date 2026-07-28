@@ -6,7 +6,7 @@ ayah_end: 6
 title: "Shall a Human Guide Us? — The Skin They Saw and the God Who Needed Nothing"
 slug: "064-006"
 category: tadabbur
-arabic: "ذَٰلِكَ بِأَنَّهُۥ كَانَت تَّأْتِيهِمْ رُسُلُهُم بِٱلْبَيِّنَٰتِ فَقَالُوٓاْ أَبَشَرٌ يَهْدُونَنَا فَكَفَرُواْ وَتَوَلَّواْ ۚ وَّٱسْتَغْنَى ٱللَّهُ ۚ وَٱللَّهُ غَنِىٌّ حَمِيدٌ"
+arabic: "ذَٰلِكَ بِأَنَّهُۥ كَانَت تَّأْتِيهِمْ رُسُلُهُم بِٱلْبَيِّنَـٰتِ فَقَالُوٓا۟ أَبَشَرٌ يَهْدُونَنَا فَكَفَرُوا۟ وَتَوَلَّوا۟ ۚ وَّٱسْتَغْنَى ٱللَّهُ ۚ وَٱللَّهُ غَنِىٌّ حَمِيدٌ"
 translation: "That is because their messengers used to come to them with clear proofs, but they said, \"Shall human beings guide us?\" So they disbelieved and turned away. And Allah had no need [of them]. And Allah is Self-Sufficient, ever-Praised."
 word_count: 6600
 estimated_duration: "48-59 minutes"

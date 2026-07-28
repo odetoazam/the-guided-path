@@ -6,7 +6,7 @@ ayah_end: 29
 title: "When the Term is Fulfilled: Moses, the Fire, and the Architecture of Divine Timing"
 slug: "028-029"
 category: tadabbur
-arabic: "فَلَمَّا قَضَىٰ مُوسَى ٱلْأَجَلَ وَسَارَ بِأَهْلِهِۦ ءَانَسَ مِن جَانِبِ ٱلطُّورِ نَارًا قَالَ لِأَهْلِهِ ٱمْكُثُوٓا۟ إِنِّىٓ ءَانَسْتُ نَارًا لَّعَلِّىٓ ءَاتِيكُم مِّنْهَا بِخَبَرٍ أَوْ جَذْوَةٍ مِّنَ ٱلنَّارِ لَعَلَّكُمْ تَصْطَلُونَ"
+arabic: "۞ فَلَمَّا قَضَىٰ مُوسَى ٱلْأَجَلَ وَسَارَ بِأَهْلِهِۦٓ ءَانَسَ مِن جَانِبِ ٱلطُّورِ نَارًا قَالَ لِأَهْلِهِ ٱمْكُثُوٓا۟ إِنِّىٓ ءَانَسْتُ نَارًا لَّعَلِّىٓ ءَاتِيكُم مِّنْهَا بِخَبَرٍ أَوْ جَذْوَةٍ مِّنَ ٱلنَّارِ لَعَلَّكُمْ تَصْطَلُونَ"
 translation: "So when Moses had completed the term and was traveling with his family, he perceived from the direction of the mount a fire. He said to his family, 'Stay here; indeed, I have perceived a fire. Perhaps I will bring you from there some information or a burning brand from the fire that you may warm yourselves.'"
 word_count: 28
 estimated_duration: "50-58 minutes"

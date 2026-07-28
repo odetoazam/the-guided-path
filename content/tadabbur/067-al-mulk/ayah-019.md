@@ -21,7 +21,7 @@ interSurah: "Sits between Al-Mulk 67:16-17 (fear of the earth swallowing / the w
 methodology: "dirayah (morphological asymmetry and semantic precision of Form IV amsaka) grounded in the riwayah reading of the ayah as an argument from visible creation to invisible sustainer"
 scholarly_status: "Settled on the main reading; al-Razi, al-Zamakhshari, and Ibn Kathir all note the ṣāffāt/yaqbiḍna asymmetry as deliberate; variation only in emphasis"
 validated: true
-arabic: "أَوَلَمْ يَرَوْا۟ إِلَى ٱلطَّيْرِ فَوْقَهُمْ صَـٰٓفَّـٰتٍ وَيَقْبِضْنَ ۚ مَا يُمْسِكُهُنَّ إِلَّا ٱلرَّحْمَـٰنُ ۚ إِنَّهُۥ بِكُلِّ شَىْءٍ بَصِيرٌ"
+arabic: "أَوَلَمْ يَرَوْا۟ إِلَى ٱلطَّيْرِ فَوْقَهُمْ صَـٰٓفَّـٰتٍ وَيَقْبِضْنَ ۚ مَا يُمْسِكُهُنَّ إِلَّا ٱلرَّحْمَـٰنُ ۚ إِنَّهُۥ بِكُلِّ شَىْءٍۭ بَصِيرٌ"
 ---
 
 <!-- morphology:67:19:4 root=رأي pos=V -->

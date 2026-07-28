@@ -6,7 +6,7 @@ ayah_end: 29
 title: "When Desire Becomes the Compass: The Wrongdoers Who Follow Themselves Without Knowledge"
 slug: "030-029"
 category: tadabbur
-arabic: "بَلِ ٱتَّبَعَ ٱلَّذِينَ ظَلَمُوٓا۟ أَهْوَآءَهُم بِغَيْرِ عِلْمٍ ۖ فَمَن يَهْدِى مَنْ أَضَلَّ ٱللَّهُ ۖ وَمَا لَهُم مِّن نَّـٰصِرِينَ"
+arabic: "بَلِ ٱتَّبَعَ ٱلَّذِينَ ظَلَمُوٓا۟ أَهْوَآءَهُم بِغَيْرِ عِلْمٍ ۖ فَمَن يَهْدِى مَنْ أَضَلَّ ٱللَّهُ ۖ وَمَا لَهُم مِّن نَّـٰصِرِينَ"
 translation: "Rather, those who do wrong follow their own desires without knowledge. So who can guide one whom Allah has sent astray? And they will have no helpers."
 word_count: 18
 estimated_duration: "50-58 minutes"

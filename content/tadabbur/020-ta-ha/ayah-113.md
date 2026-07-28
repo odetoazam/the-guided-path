@@ -6,7 +6,7 @@ ayah_end: 113
 title: "And Thus We Sent It Down: Why Allah Turns the Same Truth from Many Angles"
 slug: "020-113"
 category: tadabbur
-arabic: "وَكَذَٰلِكَ أَنزَلْنَاهُ قُرْآنًا عَرَبِيًّا وَصَرَّفْنَا فِيهِ مِنَ ٱلْوَعِيدِ لَعَلَّهُمْ يَتَّقُونَ أَوْ يُحْدِثُ لَهُمْ ذِكْرًا"
+arabic: "وَكَذَٰلِكَ أَنزَلْنَـٰهُ قُرْءَانًا عَرَبِيًّا وَصَرَّفْنَا فِيهِ مِنَ ٱلْوَعِيدِ لَعَلَّهُمْ يَتَّقُونَ أَوْ يُحْدِثُ لَهُمْ ذِكْرًا"
 translation: "And thus We have sent it down — an Arabic Qur'an — and We have varied within it some of the warnings, that perhaps they may become God-conscious, or it may produce in them a fresh remembrance."
 word_count: 6200
 estimated_duration: "50-58 minutes"

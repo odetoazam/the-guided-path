@@ -6,7 +6,7 @@ ayah_end: 27
 title: "The Twilight Heart: When Fear Is Made of Love"
 slug: "070-027"
 category: tadabbur
-arabic: "وَٱلَّذِينَ هُم مِّنْ عَذَابِ رَبِّهِم مُّشْفِقُونَ"
+arabic: "وَٱلَّذِينَ هُم مِّنْ عَذَابِ رَبِّهِم مُّشْفِقُونَ"
 translation: "And those who are apprehensive of the punishment of their Lord —"
 word_count: 6
 estimated_duration: "50-58 minutes"

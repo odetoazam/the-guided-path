@@ -6,7 +6,7 @@ ayah_end: 47
 title: "The Right Upon Us: When Mercy Becomes Obligation"
 slug: "030-047"
 category: tadabbur
-arabic: "وَلَقَدْ أَرْسَلْنَا مِن قَبْلِكَ رُسُلًا إِلَىٰ قَوْمِهِمْ فَجَآءُوهُم بِٱلْبَيِّنَـٰتِ فَٱنتَقَمْنَا مِنَ ٱلَّذِينَ أَجْرَمُوا۟ ۖ وَكَانَ حَقًّا عَلَيْنَا نَصْرُ ٱلْمُؤْمِنِينَ"
+arabic: "وَلَقَدْ أَرْسَلْنَا مِن قَبْلِكَ رُسُلًا إِلَىٰ قَوْمِهِمْ فَجَآءُوهُم بِٱلْبَيِّنَـٰتِ فَٱنتَقَمْنَا مِنَ ٱلَّذِينَ أَجْرَمُوا۟ ۖ وَكَانَ حَقًّا عَلَيْنَا نَصْرُ ٱلْمُؤْمِنِينَ"
 translation: "And We had certainly sent before you messengers to their peoples, and they came to them with clear proofs; then We took retribution from those who committed crimes, and incumbent upon Us was the support of the believers."
 word_count: 22
 estimated_duration: "50-58 minutes"

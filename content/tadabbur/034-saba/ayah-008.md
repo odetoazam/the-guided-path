@@ -6,7 +6,7 @@ ayah_end: 8
 title: "The Two Doors They Built to Hide the Third"
 slug: "034-008"
 category: tadabbur
-arabic: "أَفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَمْ بِهِۦ جِنَّةٌ ۗ بَلِ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْـَٔاخِرَةِ فِى ٱلْعَذَابِ وَٱلضَّلَـٰلِ ٱلْبَعِيدِ"
+arabic: "أَفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَم بِهِۦ جِنَّةٌۢ ۗ بَلِ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْـَٔاخِرَةِ فِى ٱلْعَذَابِ وَٱلضَّلَـٰلِ ٱلْبَعِيدِ"
 translation: "Has he invented a lie about Allah — or is there a madness in him? Nay: those who do not believe in the Hereafter are in punishment and far-reaching error."
 word_count: 16
 estimated_duration: "50-58 minutes"

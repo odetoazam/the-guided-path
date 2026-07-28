@@ -6,7 +6,7 @@ ayah_end: 58
 title: "Not Equal: The Blind, the Seeing, and the Soul That Forgot the Difference"
 slug: "040-058"
 category: tadabbur
-arabic: "وَمَا يَسْتَوِي ٱلْأَعْمَىٰ وَٱلْبَصِيرُ وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَلَا ٱلْمُسِىٓءُ ۚ قَلِيلًا مَّا تَتَذَكَّرُونَ"
+arabic: "وَمَا يَسْتَوِى ٱلْأَعْمَىٰ وَٱلْبَصِيرُ وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَلَا ٱلْمُسِىٓءُ ۚ قَلِيلًا مَّا تَتَذَكَّرُونَ"
 translation: "And the blind and the seeing are not equal, nor those who believe and do righteous deeds and the evildoer. Little do you take heed."
 word_count: 13
 estimated_duration: "50-58 minutes"

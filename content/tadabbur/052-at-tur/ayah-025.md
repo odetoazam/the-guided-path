@@ -6,7 +6,7 @@ ayah_end: 25
 title: "When the Toil Is Over, the First Gift Is Each Other"
 slug: "052-025"
 category: tadabbur
-arabic: "وَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَسَآءَلُونَ"
+arabic: "وَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَسَآءَلُونَ"
 translation: "And they will turn to one another, asking each other."
 word_count: 6600
 estimated_duration: "50-56 minutes"

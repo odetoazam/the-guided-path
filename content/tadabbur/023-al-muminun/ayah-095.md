@@ -6,7 +6,7 @@ ayah_end: 95
 title: "We Are Surely Able: The Power Held Back"
 slug: "023-095"
 category: tadabbur
-arabic: "وَإِنَّا عَلَىٰ أَن نُّرِيَكَ مَا نَعِدُهُمْ لَقَادِرُونَ"
+arabic: "وَإِنَّا عَلَىٰٓ أَن نُّرِيَكَ مَا نَعِدُهُمْ لَقَـٰدِرُونَ"
 translation: "And indeed, We are surely able to show you what We promise them."
 word_count: 7
 estimated_duration: "38-46 minutes"

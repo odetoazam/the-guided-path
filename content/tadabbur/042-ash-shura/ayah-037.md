@@ -6,7 +6,7 @@ ayah_end: 37
 title: "The Forgiveness That Happens While You Are Still Angry"
 slug: "042-037"
 category: tadabbur
-arabic: "وَٱلَّذِينَ يَجْتَنِبُونَ كَبَٰٓئِرَ ٱلْإِثْمِ وَٱلْفَوَٰحِشَ وَإِذَا مَا غَضِبُوا۟ هُمْ يَغْفِرُونَ"
+arabic: "وَٱلَّذِينَ يَجْتَنِبُونَ كَبَـٰٓئِرَ ٱلْإِثْمِ وَٱلْفَوَٰحِشَ وَإِذَا مَا غَضِبُوا۟ هُمْ يَغْفِرُونَ"
 translation: "And those who avoid the major sins and the gross immoralities, and who — when they are angry — they forgive."
 word_count: 6400
 estimated_duration: "50-58 minutes"

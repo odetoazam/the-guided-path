@@ -6,7 +6,7 @@ ayah_end: 80
 title: "What Our Souls Send Ahead"
 slug: "005-080"
 category: tadabbur
-arabic: "تَرَىٰ كَثِيرًا مِّنْهُمْ يَتَوَلَّوْنَ ٱلَّذِينَ كَفَرُوا۟ ۚ لَبِئْسَ مَا قَدَّمَتْ لَهُمْ أَنفُسُهُمْ أَن سَخِطَ ٱللَّهُ عَلَيْهِمْ وَفِى ٱلْعَذَابِ هُمْ خَـٰلِدُونَ"
+arabic: "تَرَىٰ كَثِيرًا مِّنْهُمْ يَتَوَلَّوْنَ ٱلَّذِينَ كَفَرُوا۟ ۚ لَبِئْسَ مَا قَدَّمَتْ لَهُمْ أَنفُسُهُمْ أَن سَخِطَ ٱللَّهُ عَلَيْهِمْ وَفِى ٱلْعَذَابِ هُمْ خَـٰلِدُونَ"
 translation: "You see many of them taking allegiance with those who disbelieved. Wretched indeed is what their own souls have sent ahead for them — that Allah has been displeased with them, and in the punishment they will abide forever."
 word_count: 1850
 estimated_duration: "50-55 minutes"

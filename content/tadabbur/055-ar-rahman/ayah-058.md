@@ -6,7 +6,7 @@ ayah_end: 58
 slug: ar-rahman-58-as-if-rubies-and-coral
 category: tadabbur
 title: "As If They Were Rubies and Coral: The Grammar of Longing"
-arabic: "كَأَنَّهُنَّ ٱلْيَاقُوتُ وَٱلْمَرْجَانُ"
+arabic: "كَأَنَّهُنَّ ٱلْيَاقُوتُ وَٱلْمَرْجَانُ"
 translation: "As if they were rubies and coral."
 estimated_duration: "50-58 minutes"
 passage_context: "Ar-Rahman's paired-gardens sequence (55:46–61), describing the reward of the one who feared the standing before his Lord. This ayah sits mounted between two identical occurrences of the refrain 'So which of the favors of your Lord would you both deny?' (55:57 and 55:59), describing the maidens introduced in 55:56."

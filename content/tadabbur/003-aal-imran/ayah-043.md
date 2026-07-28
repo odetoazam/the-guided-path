@@ -6,7 +6,7 @@ ayah_end: 43
 title: "The Order That Breaks the Order: Maryam and the Architecture of Devotion"
 slug: "003-043"
 category: tadabbur
-arabic: "يَٰمَرْيَمُ ٱقْنُتِى لِرَبِّكِ وَٱسْجُدِى وَٱرْكَعِى مَعَ ٱلرَّٰكِعِينَ"
+arabic: "يَـٰمَرْيَمُ ٱقْنُتِى لِرَبِّكِ وَٱسْجُدِى وَٱرْكَعِى مَعَ ٱلرَّٰكِعِينَ"
 translation: "O Maryam, be devoutly obedient to your Lord, and prostrate, and bow with those who bow."
 word_count: 7
 estimated_duration: "48-58 minutes"

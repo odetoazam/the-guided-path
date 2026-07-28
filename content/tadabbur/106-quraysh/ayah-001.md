@@ -6,7 +6,7 @@ ayah_end: 1
 title: "The Lām That Will Not Let You Stand Alone: Belonging as the Gift You Never Notice"
 slug: "106-001"
 category: tadabbur
-arabic: "لِإِيلَٰفِ قُرَيْشٍ"
+arabic: "لِإِيلَـٰفِ قُرَيْشٍ"
 translation: "For the bonding — the familiarity and security — of Quraysh."
 word_count: 2
 estimated_duration: "50-58 minutes"

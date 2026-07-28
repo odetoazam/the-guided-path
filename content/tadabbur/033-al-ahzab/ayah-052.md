@@ -6,7 +6,7 @@ ayah_end: 52
 title: "Even If Their Beauty Pleases You: The Law That Names the Temptation"
 slug: "033-052"
 category: tadabbur
-arabic: "لَّا يَحِلُّ لَكَ ٱلنِّسَآءُ مِنۢ بَعْدُ وَلَآ أَن تَبَدَّلَ بِهِنَّ مِنْ أَزْوَٰجٍ وَلَوْ أَعْجَبَكَ حُسْنُهُنَّ إِلَّا مَا مَلَكَتْ يَمِينُكَۗ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ رَّقِيبًا"
+arabic: "لَّا يَحِلُّ لَكَ ٱلنِّسَآءُ مِنۢ بَعْدُ وَلَآ أَن تَبَدَّلَ بِهِنَّ مِنْ أَزْوَٰجٍ وَلَوْ أَعْجَبَكَ حُسْنُهُنَّ إِلَّا مَا مَلَكَتْ يَمِينُكَ ۗ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ رَّقِيبًا"
 translation: "No (other) women are lawful for you after this, nor that you should exchange them for other wives — even if their beauty pleases you — except those your right hand possesses. And Allah is, over all things, a Watcher."
 word_count: 26
 estimated_duration: "50-55 minutes"

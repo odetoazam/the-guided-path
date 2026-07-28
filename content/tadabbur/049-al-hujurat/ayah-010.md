@@ -6,7 +6,7 @@ ayah_end: 10
 title: "Brothers by Blood You Never Shared: The Bond That Makes You the Third Sibling"
 slug: "049-010"
 category: tadabbur
-arabic: "إِنَّمَا ٱلْمُؤْمِنُونَ إِخْوَةٌ فَأَصْلِحُوا۟ بَيْنَ أَخَوَيْكُمْ وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تُرْحَمُونَ"
+arabic: "إِنَّمَا ٱلْمُؤْمِنُونَ إِخْوَةٌ فَأَصْلِحُوا۟ بَيْنَ أَخَوَيْكُمْ ۚ وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تُرْحَمُونَ"
 translation: "The believers are nothing but brothers, so make peace between your two brothers. And be mindful of Allah, that you may receive mercy."
 word_count: 10
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 70
 title: "When Allah Rewrites the Past: The Verse That Trades Sins for Good Deeds"
 slug: "025-070"
 category: tadabbur
-arabic: "إِلَّا مَن تَابَ وَءَامَنَ وَعَمِلَ عَمَلًا صَـٰلِحًا فَأُو۟لَـٰٓئِكَ يُبَدِّلُ ٱللَّهُ سَيِّـَٔاتِهِمْ حَسَنَـٰتٍۢ ۗ وَكَانَ ٱللَّهُ غَفُورًۭا رَّحِيمًۭا"
+arabic: "إِلَّا مَن تَابَ وَءَامَنَ وَعَمِلَ عَمَلًا صَـٰلِحًا فَأُو۟لَـٰٓئِكَ يُبَدِّلُ ٱللَّهُ سَيِّـَٔاتِهِمْ حَسَنَـٰتٍ ۗ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا"
 translation: "Except for those who repent, and believe, and do righteous work — for those, Allah will exchange their evil deeds for good deeds. And Allah is ever Forgiving, Merciful."
 word_count: 22
 estimated_duration: "50-58 minutes"

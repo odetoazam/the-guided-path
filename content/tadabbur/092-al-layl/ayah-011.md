@@ -6,7 +6,7 @@ ayah_end: 11
 title: "The Wealth That Cannot Reach Where He Falls"
 slug: "092-011"
 category: tadabbur
-arabic: "وَمَا يُغْنِى عَنْهُ مَالُهُۥٓ إِذَا تَرَدَّىٰٓ"
+arabic: "وَمَا يُغْنِى عَنْهُ مَالُهُۥٓ إِذَا تَرَدَّىٰٓ"
 translation: "And his wealth will not avail him when he falls."
 word_count: 7
 estimated_duration: "48-56 minutes"

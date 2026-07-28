@@ -6,7 +6,7 @@ ayah_end: 3
 title: "The Named Term and the Turned-Away Face"
 slug: "046-003"
 category: tadabbur
-arabic: "مَا خَلَقْنَا ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَآ إِلَّا بِٱلْحَقِّ وَأَجَلٍ مُّسَمًّى ۚ وَٱلَّذِينَ كَفَرُوا۟ عَمَّآ أُنذِرُوا۟ مُعْرِضُونَ"
+arabic: "مَا خَلَقْنَا ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَآ إِلَّا بِٱلْحَقِّ وَأَجَلٍ مُّسَمًّى ۚ وَٱلَّذِينَ كَفَرُوا۟ عَمَّآ أُنذِرُوا۟ مُعْرِضُونَ"
 translation: "We did not create the heavens and the earth and all that lies between them except in truth and for an appointed term. Yet those who disbelieve turn away from what they are warned of."
 word_count: 15
 estimated_duration: "50-58 minutes"

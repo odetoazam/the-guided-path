@@ -6,7 +6,7 @@ ayah_end: 78
 title: "The Name That Overflows: Majesty and Generosity at the Seal of Ar-Rahman"
 slug: "055-078"
 category: tadabbur
-arabic: "تَبَـٰرَكَ ٱسْمُ رَبِّكَ ذِى ٱلْجَلَـٰلِ وَٱلْإِكْرَامِ"
+arabic: "تَبَـٰرَكَ ٱسْمُ رَبِّكَ ذِى ٱلْجَلَـٰلِ وَٱلْإِكْرَامِ"
 translation: "Blessed is the name of your Lord, Owner of Majesty and Honor."
 word_count: 6
 estimated_duration: "48-59 minutes"

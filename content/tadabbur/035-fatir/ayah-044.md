@@ -6,7 +6,7 @@ ayah_end: 44
 title: "The Ruins of the Strong: Why Allah Sends You Walking Through the Wreckage of the Powerful"
 slug: "035-044"
 category: tadabbur
-arabic: "أَوَلَمْ يَسِيرُوا۟ فِى ٱلْأَرْضِ فَيَنظُرُوا۟ كَيْفَ كَانَ عَـٰقِبَةُ ٱلَّذِينَ مِن قَبْلِهِمْ وَكَانُوٓا۟ أَشَدَّ مِنْهُمْ قُوَّةًۚ وَمَا كَانَ ٱللَّهُ لِيُعْجِزَهُۥ مِن شَىْءٍ فِى ٱلسَّمَـٰوَٰتِ وَلَا فِى ٱلْأَرْضِۚ إِنَّهُۥ كَانَ عَلِيمًا قَدِيرًا"
+arabic: "أَوَلَمْ يَسِيرُوا۟ فِى ٱلْأَرْضِ فَيَنظُرُوا۟ كَيْفَ كَانَ عَـٰقِبَةُ ٱلَّذِينَ مِن قَبْلِهِمْ وَكَانُوٓا۟ أَشَدَّ مِنْهُمْ قُوَّةً ۚ وَمَا كَانَ ٱللَّهُ لِيُعْجِزَهُۥ مِن شَىْءٍ فِى ٱلسَّمَـٰوَٰتِ وَلَا فِى ٱلْأَرْضِ ۚ إِنَّهُۥ كَانَ عَلِيمًا قَدِيرًا"
 translation: "Have they not traveled through the land and seen how was the end of those before them? And they were greater than them in power. But nothing in the heavens or on the earth can ever frustrate Allah. Indeed, He has ever been All-Knowing, All-Powerful."
 word_count: 30
 estimated_duration: "50-58 minutes"

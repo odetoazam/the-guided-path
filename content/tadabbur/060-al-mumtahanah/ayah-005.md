@@ -6,7 +6,7 @@ ayah_end: 5
 title: "Do Not Make Us a Trial: The Prayer Not to Become Someone Else's Disbelief"
 slug: "060-005"
 category: tadabbur
-arabic: "رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِّلَّذِينَ كَفَرُوا وَاغْفِرْ لَنَا رَبَّنَا ۖ إِنَّكَ أَنتَ الْعَزِيزُ الْحَكِيمُ"
+arabic: "رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِّلَّذِينَ كَفَرُوا۟ وَٱغْفِرْ لَنَا رَبَّنَآ ۖ إِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْحَكِيمُ"
 translation: "Our Lord, do not make us a trial for those who disbelieve, and forgive us, our Lord. Indeed, You — You alone — are the All-Mighty, the All-Wise."
 word_count: 13
 estimated_duration: "50-58 minutes"

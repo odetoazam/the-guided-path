@@ -6,7 +6,7 @@ ayah_end: 29
 title: "The Asking and the Answering: To Exist Is to Petition"
 slug: "055-029"
 category: tadabbur
-arabic: "يَسْـَٔلُهُۥ مَن فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ كُلَّ يَوْمٍ هُوَ فِى شَأْنٍ"
+arabic: "يَسْـَٔلُهُۥ مَن فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ كُلَّ يَوْمٍ هُوَ فِى شَأْنٍ"
 translation: "Whoever is in the heavens and the earth asks Him; every single day He is engaged in a matter."
 word_count: 10
 estimated_duration: "50-58 minutes"

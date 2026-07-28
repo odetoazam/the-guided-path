@@ -6,7 +6,7 @@ ayah_end: 90
 title: "When the Mind Admits and the Heart Refuses: The Anatomy of Bal"
 slug: "023-090"
 category: tadabbur
-arabic: "بَلْ أَتَيْنَـٰهُم بِٱلْحَقِّ وَإِنَّهُمْ لَكَـٰذِبُونَ"
+arabic: "بَلْ أَتَيْنَـٰهُم بِٱلْحَقِّ وَإِنَّهُمْ لَكَـٰذِبُونَ"
 translation: "Rather, We have brought them the truth — and indeed, they are liars."
 word_count: 6
 estimated_duration: "50-58 minutes"

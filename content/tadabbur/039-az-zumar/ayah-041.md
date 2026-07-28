@@ -6,7 +6,7 @@ ayah_end: 41
 title: "For His Own Soul, Against His Own Soul: The Two Prepositions and the Burden You Were Never Asked to Carry"
 slug: "039-041"
 category: tadabbur
-arabic: "إِنَّآ أَنزَلْنَا عَلَيْكَ ٱلْكِتَٰبَ لِلنَّاسِ بِٱلْحَقِّ ۖ فَمَنِ ٱهْتَدَىٰ فَلِنَفْسِهِۦ ۖ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا ۖ وَمَآ أَنتَ عَلَيْهِم بِوَكِيلٍ"
+arabic: "إِنَّآ أَنزَلْنَا عَلَيْكَ ٱلْكِتَـٰبَ لِلنَّاسِ بِٱلْحَقِّ ۖ فَمَنِ ٱهْتَدَىٰ فَلِنَفْسِهِۦ ۖ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا ۖ وَمَآ أَنتَ عَلَيْهِم بِوَكِيلٍ"
 translation: "Indeed, We have sent down to you the Book for mankind in truth. So whoever accepts guidance — it is for his own soul; and whoever goes astray — he only strays against it. And you are not a manager over them."
 word_count: 18
 estimated_duration: "50-58 minutes"

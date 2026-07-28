@@ -6,7 +6,7 @@ ayah_end: 32
 title: "The Argument That Saves No One: When Mercy Has Already Decided"
 slug: "029-032"
 category: tadabbur
-arabic: "قَالَ إِنَّ فِيهَا لُوطًا ۚ قَالُوا نَحْنُ أَعْلَمُ بِمَن فِيهَا ۖ لَنُنَجِّيَنَّهُ وَأَهْلَهُ إِلَّا امْرَأَتَهُ كَانَتْ مِنَ الْغَابِرِينَ"
+arabic: "قَالَ إِنَّ فِيهَا لُوطًا ۚ قَالُوا۟ نَحْنُ أَعْلَمُ بِمَن فِيهَا ۖ لَنُنَجِّيَنَّهُۥ وَأَهْلَهُۥٓ إِلَّا ٱمْرَأَتَهُۥ كَانَتْ مِنَ ٱلْغَـٰبِرِينَ"
 translation: "He said, 'But Lut is in it.' They said, 'We know better who is in it. We will surely deliver him and his family — except his wife. She is to be of those who remain behind.'"
 word_count: 18
 estimated_duration: "50-55 minutes"

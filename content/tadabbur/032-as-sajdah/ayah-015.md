@@ -6,7 +6,7 @@ ayah_end: 15
 title: "The Believers Who Fall Down: When the Body Confesses What the Soul Already Knows"
 slug: "032-015"
 category: tadabbur
-arabic: "إِنَّمَا يُؤْمِنُ بِـَٔايَـٰتِنَا ٱلَّذِينَ إِذَا ذُكِّرُوا۟ بِهَا خَرُّوا۟ سُجَّدًا وَسَبَّحُوا۟ بِحَمْدِ رَبِّهِمْ وَهُمْ لَا يَسْتَكْبِرُونَ"
+arabic: "إِنَّمَا يُؤْمِنُ بِـَٔايَـٰتِنَا ٱلَّذِينَ إِذَا ذُكِّرُوا۟ بِهَا خَرُّوا۟ سُجَّدًا وَسَبَّحُوا۟ بِحَمْدِ رَبِّهِمْ وَهُمْ لَا يَسْتَكْبِرُونَ ۩"
 translation: "Only those truly believe in Our signs who, when they are reminded of them, fall down in prostration and glorify their Lord with praise — and they are not arrogant."
 word_count: 17
 estimated_duration: "50-58 minutes"

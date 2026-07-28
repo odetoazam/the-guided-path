@@ -6,7 +6,7 @@ ayah_end: 8
 title: "The Reward Held in His Presence: ʿinda Rabbihim and the End of the Ache to Be Approved"
 slug: "098-008"
 category: tadabbur
-arabic: "جَزَآؤُهُمْ عِندَ رَبِّهِمْ جَنَّٰتُ عَدْنٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَآ أَبَدًا ۖ رَّضِىَ ٱللَّهُ عَنْهُمْ وَرَضُوا۟ عَنْهُ ۚ ذَٰلِكَ لِمَنْ خَشِىَ رَبَّهُۥ"
+arabic: "جَزَآؤُهُمْ عِندَ رَبِّهِمْ جَنَّـٰتُ عَدْنٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَآ أَبَدًا ۖ رَّضِىَ ٱللَّهُ عَنْهُمْ وَرَضُوا۟ عَنْهُ ۚ ذَٰلِكَ لِمَنْ خَشِىَ رَبَّهُۥ"
 translation: "Their reward, with their Lord, is Gardens of perpetual residence, beneath which rivers flow, abiding therein forever. Allah is pleased with them, and they are pleased with Him. That is for the one who held his Lord in awe."
 word_count: 21
 estimated_duration: "50-58 minutes"

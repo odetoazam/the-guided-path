@@ -6,7 +6,7 @@ ayah_end: 12
 title: "The Lightest Promise: When Disbelief Asks You to Carry What Cannot Be Carried"
 slug: "029-012"
 category: tadabbur
-arabic: "وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لِلَّذِينَ ءَامَنُوا۟ ٱتَّبِعُوا۟ سَبِيلَنَا وَلْنَحْمِلْ خَطَـٰيَـٰكُمْ وَمَا هُم بِحَـٰمِلِينَ مِنْ خَطَـٰيَـٰهُم مِّن شَىْءٍ ۖ إِنَّهُمْ لَكَـٰذِبُونَ"
+arabic: "وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لِلَّذِينَ ءَامَنُوا۟ ٱتَّبِعُوا۟ سَبِيلَنَا وَلْنَحْمِلْ خَطَـٰيَـٰكُمْ وَمَا هُم بِحَـٰمِلِينَ مِنْ خَطَـٰيَـٰهُم مِّن شَىْءٍ ۖ إِنَّهُمْ لَكَـٰذِبُونَ"
 translation: "And those who disbelieve say to those who believe, 'Follow our way, and we will carry your sins.' But they will not carry anything of their sins. Indeed, they are liars."
 word_count: 22
 estimated_duration: "50-55 minutes"

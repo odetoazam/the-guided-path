@@ -6,7 +6,7 @@ ayah_end: 8
 title: "The Honor That Cannot Be Owned: Borrowed Glory and the Certainty of the Ignorant"
 slug: "063-008"
 category: tadabbur
-arabic: "يَقُولُونَ لَئِن رَّجَعْنَآ إِلَى ٱلْمَدِينَةِ لَيُخْرِجَنَّ ٱلْأَعَزُّ مِنْهَا ٱلْأَذَلَّ ۚ وَلِلَّهِ ٱلْعِزَّةُ وَلِرَسُولِهِۦ وَلِلْمُؤْمِنِينَ وَلَـٰكِنَّ ٱلْمُنَـٰفِقِينَ لَا يَعْلَمُونَ"
+arabic: "يَقُولُونَ لَئِن رَّجَعْنَآ إِلَى ٱلْمَدِينَةِ لَيُخْرِجَنَّ ٱلْأَعَزُّ مِنْهَا ٱلْأَذَلَّ ۚ وَلِلَّهِ ٱلْعِزَّةُ وَلِرَسُولِهِۦ وَلِلْمُؤْمِنِينَ وَلَـٰكِنَّ ٱلْمُنَـٰفِقِينَ لَا يَعْلَمُونَ"
 translation: "They say, \"If we return to Medina, the more honorable will surely drive out the more lowly from it.\" But honor belongs to Allah, and to His Messenger, and to the believers — yet the hypocrites do not know."
 word_count: 17
 estimated_duration: "50-58 minutes"

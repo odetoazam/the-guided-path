@@ -6,7 +6,7 @@ ayah_end: 3
 title: "The Summit Is for Seeking Forgiveness: Glorification at the Peak of Victory"
 slug: "110-003"
 category: tadabbur
-arabic: "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَٱسْتَغْفِرْهُ ۚ إِنَّهُۥ كَانَ تَوَّابًۭا"
+arabic: "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَٱسْتَغْفِرْهُ ۚ إِنَّهُۥ كَانَ تَوَّابًۢا"
 translation: "So glorify your Lord with His praise, and seek His forgiveness. Indeed, He has always been the One who turns back, again and again, in mercy."
 word_count: 7
 estimated_duration: "50-58 minutes"

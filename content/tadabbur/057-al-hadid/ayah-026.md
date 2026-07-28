@@ -6,7 +6,7 @@ ayah_end: 26
 title: "The Inheritance That Saves No One: Prophethood, Lineage, and the Guidance You Must Take for Yourself"
 slug: "057-026"
 category: tadabbur
-arabic: "وَلَقَدْ أَرْسَلْنَا نُوحًا وَإِبْرَٰهِيمَ وَجَعَلْنَا فِى ذُرِّيَّتِهِمَا ٱلنُّبُوَّةَ وَٱلْكِتَٰبَ ۖ فَمِنْهُم مُّهْتَدٍ ۖ وَكَثِيرٌ مِّنْهُمْ فَٰسِقُونَ"
+arabic: "وَلَقَدْ أَرْسَلْنَا نُوحًا وَإِبْرَٰهِيمَ وَجَعَلْنَا فِى ذُرِّيَّتِهِمَا ٱلنُّبُوَّةَ وَٱلْكِتَـٰبَ ۖ فَمِنْهُم مُّهْتَدٍ ۖ وَكَثِيرٌ مِّنْهُمْ فَـٰسِقُونَ"
 translation: "And We certainly sent Noah and Abraham, and We placed within their offspring prophethood and the Scripture. So among them is one who is guided, but most of them are defiantly disobedient."
 word_count: 14
 estimated_duration: "48-59 minutes"

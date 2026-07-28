@@ -6,7 +6,7 @@ ayah_end: 36
 title: "The Verdict Before the Evidence: How Power Pre-Decides What It Will See"
 slug: "028-036"
 category: tadabbur
-arabic: "فَلَمَّا جَآءَهُم مُّوسَىٰ بِـَٔايَـٰتِنَا بَيِّنَـٰتٍۢ قَالُوا۟ مَا هَـٰذَآ إِلَّا سِحْرٌۭ مُّفْتَرًۭى وَمَا سَمِعْنَا بِهَـٰذَا فِىٓ ءَابَآئِنَا ٱلْأَوَّلِينَ"
+arabic: "فَلَمَّا جَآءَهُم مُّوسَىٰ بِـَٔايَـٰتِنَا بَيِّنَـٰتٍ قَالُوا۟ مَا هَـٰذَآ إِلَّا سِحْرٌ مُّفْتَرًى وَمَا سَمِعْنَا بِهَـٰذَا فِىٓ ءَابَآئِنَا ٱلْأَوَّلِينَ"
 translation: "So when Musa came to them with Our clear signs, they said: 'This is nothing but fabricated magic, and we have not heard of this among our forefathers of old.'"
 word_count: 18
 estimated_duration: "48-54 minutes"

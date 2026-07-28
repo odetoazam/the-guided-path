@@ -6,7 +6,7 @@ ayah_end: 12
 title: "The Ones Who Are Admitted and the Ones Who Graze: A Verse of Two Verbs"
 slug: "047-012"
 category: tadabbur
-arabic: "إِنَّ ٱللَّهَ يُدْخِلُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ۖ وَٱلَّذِينَ كَفَرُوا۟ يَتَمَتَّعُونَ وَيَأْكُلُونَ كَمَا تَأْكُلُ ٱلْأَنْعَـٰمُ وَٱلنَّارُ مَثْوًى لَّهُمْ"
+arabic: "إِنَّ ٱللَّهَ يُدْخِلُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ۖ وَٱلَّذِينَ كَفَرُوا۟ يَتَمَتَّعُونَ وَيَأْكُلُونَ كَمَا تَأْكُلُ ٱلْأَنْعَـٰمُ وَٱلنَّارُ مَثْوًى لَّهُمْ"
 translation: "Indeed, Allah admits those who believe and do righteous deeds into gardens beneath which rivers flow. But those who disbelieve enjoy themselves and eat as the cattle eat, and the Fire will be an abode for them."
 word_count: 4800
 estimated_duration: "50-58 minutes"

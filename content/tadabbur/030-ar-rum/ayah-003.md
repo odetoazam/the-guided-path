@@ -6,7 +6,7 @@ ayah_end: 3
 title: "At the Lowest Point on Earth, the Reversal Begins"
 slug: "030-003"
 category: tadabbur
-arabic: "فِي أَدْنَى الْأَرْضِ وَهُم مِّن بَعْدِ غَلَبِهِمْ سَيَغْلِبُونَ"
+arabic: "فِىٓ أَدْنَى ٱلْأَرْضِ وَهُم مِّنۢ بَعْدِ غَلَبِهِمْ سَيَغْلِبُونَ"
 translation: "In the nearest land — yet they, after their defeat, will overcome."
 word_count: 4950
 estimated_duration: "48-55 minutes"

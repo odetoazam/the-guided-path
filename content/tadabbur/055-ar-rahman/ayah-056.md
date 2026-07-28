@@ -6,7 +6,7 @@ ayah_end: 56
 slug: ar-rahman-55-56-the-restrained-gaze
 category: tadabbur
 title: "The Restrained Gaze: Undivided Love in the Garden of the Merciful"
-arabic: "فِيهِنَّ قَاصِرَاتُ ٱلطَّرْفِ لَمْ يَطْمِثْهُنَّ إِنسٌ قَبْلَهُمْ وَلَا جَآنٌّ"
+arabic: "فِيهِنَّ قَـٰصِرَٰتُ ٱلطَّرْفِ لَمْ يَطْمِثْهُنَّ إِنسٌ قَبْلَهُمْ وَلَا جَآنٌّ"
 translation: "In them are those who restrain their glances, untouched before them by man or jinn —"
 estimated_duration: "50-58 minutes"
 passage_context: "From the description of the two Gardens (55:46–61) promised to those who feared the standing before their Lord, within Surah Ar-Rahman — the surah addressed throughout to two worlds at once, mankind and jinn."

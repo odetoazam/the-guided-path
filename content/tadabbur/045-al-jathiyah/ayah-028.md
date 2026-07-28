@@ -6,7 +6,7 @@ ayah_end: 28
 title: "The Kneeling: When Every Nation Is Summoned Alone to Its Own Book"
 slug: "045-028"
 category: tadabbur
-arabic: "وَتَرَىٰ كُلَّ أُمَّةٍ جَاثِيَةً ۚ كُلُّ أُمَّةٍ تُدْعَىٰ إِلَىٰ كِتَابِهَا ٱلْيَوْمَ تُجْزَوْنَ مَا كُنتُمْ تَعْمَلُونَ"
+arabic: "وَتَرَىٰ كُلَّ أُمَّةٍ جَاثِيَةً ۚ كُلُّ أُمَّةٍ تُدْعَىٰٓ إِلَىٰ كِتَـٰبِهَا ٱلْيَوْمَ تُجْزَوْنَ مَا كُنتُمْ تَعْمَلُونَ"
 translation: "And you will see every nation kneeling. Every nation will be called to its record: 'Today you are recompensed for what you used to do.'"
 word_count: 14
 estimated_duration: "50-58 minutes"

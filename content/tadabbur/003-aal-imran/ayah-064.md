@@ -6,7 +6,7 @@ ayah_end: 64
 title: "Come Up to the Level Word: The Invitation That Refuses Both War and Surrender"
 slug: "003-064"
 category: tadabbur
-arabic: "قُلْ يَٰٓأَهْلَ ٱلْكِتَٰبِ تَعَالَوْاْ إِلَىٰ كَلِمَةٍ سَوَآءٍۭ بَيْنَنَا وَبَيْنَكُمْ أَلَّا نَعْبُدَ إِلَّا ٱللَّهَ وَلَا نُشْرِكَ بِهِۦ شَيْـًٔا وَلَا يَتَّخِذَ بَعْضُنَا بَعْضًا أَرْبَابًا مِّن دُونِ ٱللَّهِ ۚ فَإِن تَوَلَّوْاْ فَقُولُواْ ٱشْهَدُواْ بِأَنَّا مُسْلِمُونَ"
+arabic: "قُلْ يَـٰٓأَهْلَ ٱلْكِتَـٰبِ تَعَالَوْا۟ إِلَىٰ كَلِمَةٍ سَوَآءٍۭ بَيْنَنَا وَبَيْنَكُمْ أَلَّا نَعْبُدَ إِلَّا ٱللَّهَ وَلَا نُشْرِكَ بِهِۦ شَيْـًٔا وَلَا يَتَّخِذَ بَعْضُنَا بَعْضًا أَرْبَابًا مِّن دُونِ ٱللَّهِ ۚ فَإِن تَوَلَّوْا۟ فَقُولُوا۟ ٱشْهَدُوا۟ بِأَنَّا مُسْلِمُونَ"
 translation: "Say, \"O People of the Book! Come up to a word that is level between us and you — that we worship none but Allah, that we associate nothing with Him, and that none of us take others as lords besides Allah.\" But if they turn away, then say, \"Bear witness that we are submitters to God.\""
 word_count: 31
 estimated_duration: "50-58 minutes"

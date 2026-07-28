@@ -6,7 +6,7 @@ ayah_end: 7
 title: "While the Door Was Open: The Crime of Manufacturing Darkness Against the Light"
 slug: "061-007"
 category: tadabbur
-arabic: "وَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ ٱلْكَذِبَ وَهُوَ يُدْعَىٰٓ إِلَى ٱلْإِسْلَـٰمِ ۚ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّـٰلِمِينَ"
+arabic: "وَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ ٱلْكَذِبَ وَهُوَ يُدْعَىٰٓ إِلَى ٱلْإِسْلَـٰمِ ۚ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّـٰلِمِينَ"
 translation: "And who is more wrong than one who invents a lie against Allah while he is being invited to submission? And Allah does not guide the wrongdoing people."
 word_count: 16
 estimated_duration: "50-58 minutes"

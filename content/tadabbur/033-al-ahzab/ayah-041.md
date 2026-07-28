@@ -6,7 +6,7 @@ ayah_end: 41
 title: "The One Command Without a Limit"
 slug: "033-041"
 category: tadabbur
-arabic: "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱذْكُرُوا۟ ٱللَّهَ ذِكْرًۭا كَثِيرًۭا"
+arabic: "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱذْكُرُوا۟ ٱللَّهَ ذِكْرًا كَثِيرًا"
 translation: "O you who believe! Remember Allah with much remembrance."
 word_count: 7
 estimated_duration: "48-55 minutes"

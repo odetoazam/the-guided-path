@@ -6,7 +6,7 @@ ayah_end: 1
 title: "The Signal Before Speech: What the Quran Says About Itself Before It Begins"
 slug: "027-001"
 category: tadabbur
-arabic: "طس ۚ تِلْكَ آيَاتُ الْقُرْآنِ وَكِتَابٍ مُّبِينٍ"
+arabic: "طسٓ ۚ تِلْكَ ءَايَـٰتُ ٱلْقُرْءَانِ وَكِتَابٍ مُّبِينٍ"
 translation: "Ṭā Sīn. Those are the verses of the Quran — a Book that makes things clear."
 word_count: 6700
 estimated_duration: "49-57 minutes"

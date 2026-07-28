@@ -6,7 +6,7 @@ ayah_end: 40
 title: "The Only Inheritor — When the Word for Loss Becomes the Word for Truth"
 slug: "019-040"
 category: tadabbur
-arabic: "إِنَّا نَحْنُ نَرِثُ ٱلْأَرْضَ وَمَنْ عَلَيْهَا وَإِلَيْنَا يُرْجَعُونَ"
+arabic: "إِنَّا نَحْنُ نَرِثُ ٱلْأَرْضَ وَمَنْ عَلَيْهَا وَإِلَيْنَا يُرْجَعُونَ"
 translation: "Indeed, it is We who will inherit the earth and whoever is upon it, and to Us they will be returned."
 word_count: 9
 estimated_duration: "48-55 minutes"

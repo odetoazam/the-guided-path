@@ -6,7 +6,7 @@ ayah_end: 17
 title: "Who Holds You Back From Allah? The Dismantling of the Contingency Mind"
 slug: "033-017"
 category: tadabbur
-arabic: "قُلْ مَن ذَا الَّذِي يَعْصِمُكُم مِّنَ اللَّهِ إِنْ أَرَادَ بِكُمْ سُوءًا أَوْ أَرَادَ بِكُمْ رَحْمَةً ۚ وَلَا يَجِدُونَ لَهُم مِّن دُونِ اللَّهِ وَلِيًّا وَلَا نَصِيرًا"
+arabic: "قُلْ مَن ذَا ٱلَّذِى يَعْصِمُكُم مِّنَ ٱللَّهِ إِنْ أَرَادَ بِكُمْ سُوٓءًا أَوْ أَرَادَ بِكُمْ رَحْمَةً ۚ وَلَا يَجِدُونَ لَهُم مِّن دُونِ ٱللَّهِ وَلِيًّا وَلَا نَصِيرًا"
 translation: "Say: Who is it that could shield you from Allah if He intended you harm — or if He intended you mercy? They will not find for themselves, besides Allah, any protector or any helper."
 word_count: 21
 estimated_duration: "50-55 minutes"

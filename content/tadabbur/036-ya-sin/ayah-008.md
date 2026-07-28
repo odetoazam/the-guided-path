@@ -6,7 +6,7 @@ ayah_end: 8
 title: "The Collar That Locks the Head Upward: When Refusal Becomes a Posture You Cannot Leave"
 slug: "036-008"
 category: tadabbur
-arabic: "إِنَّا جَعَلْنَا فِىٓ أَعْنَٰقِهِمْ أَغْلَٰلًا فَهِىَ إِلَى ٱلْأَذْقَانِ فَهُم مُّقْمَحُونَ"
+arabic: "إِنَّا جَعَلْنَا فِىٓ أَعْنَـٰقِهِمْ أَغْلَـٰلًا فَهِىَ إِلَى ٱلْأَذْقَانِ فَهُم مُّقْمَحُونَ"
 translation: "Indeed, We have placed iron collars upon their necks, reaching up to the chins, so that their heads are forced aloft."
 word_count: 8200
 estimated_duration: "50-58 minutes"

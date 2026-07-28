@@ -6,7 +6,7 @@ ayah_end: 65
 title: "Yumsiku al-Samāʾ: Why the Sky Has Not Fallen"
 slug: "022-065"
 category: tadabbur
-arabic: "أَلَمْ تَرَ أَنَّ ٱللَّهَ سَخَّرَ لَكُم مَّا فِى ٱلْأَرْضِ وَٱلْفُلْكَ تَجْرِى فِى ٱلْبَحْرِ بِأَمْرِهِۦ وَيُمْسِكُ ٱلسَّمَآءَ أَن تَقَعَ عَلَى ٱلْأَرْضِ إِلَّا بِإِذْنِهِۦٓ ۗ إِنَّ ٱللَّهَ بِٱلنَّاسِ لَرَءُوفٌ رَّحِيمٌ"
+arabic: "أَلَمْ تَرَ أَنَّ ٱللَّهَ سَخَّرَ لَكُم مَّا فِى ٱلْأَرْضِ وَٱلْفُلْكَ تَجْرِى فِى ٱلْبَحْرِ بِأَمْرِهِۦ وَيُمْسِكُ ٱلسَّمَآءَ أَن تَقَعَ عَلَى ٱلْأَرْضِ إِلَّا بِإِذْنِهِۦٓ ۗ إِنَّ ٱللَّهَ بِٱلنَّاسِ لَرَءُوفٌ رَّحِيمٌ"
 translation: "Do you not see that Allah has subjected to you whatever is in the earth, and the ships running through the sea by His command? And He holds the sky back from falling upon the earth — except by His permission. Indeed, Allah, to mankind, is Most Kind, Most Merciful."
 word_count: 30
 estimated_duration: "50-55 minutes"

@@ -6,7 +6,7 @@ ayah_end: 59
 title: "No Doubt In It — And Most Still Don't Believe"
 slug: "040-059"
 category: tadabbur
-arabic: "إِنَّ ٱلسَّاعَةَ لَأَتِيَةٌۭ لَّا رَيْبَ فِيهَا وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يُؤْمِنُونَ"
+arabic: "إِنَّ ٱلسَّاعَةَ لَـَٔاتِيَةٌ لَّا رَيْبَ فِيهَا وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يُؤْمِنُونَ"
 translation: "Indeed, the Hour is surely coming — there is no doubt about it — but most people do not believe."
 word_count: 11
 estimated_duration: "50-58 minutes"

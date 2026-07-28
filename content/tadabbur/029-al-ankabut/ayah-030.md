@@ -6,7 +6,7 @@ ayah_end: 30
 title: "When the Messenger Stops Arguing: Lūṭ's Single Word to His Lord"
 slug: "029-030"
 category: tadabbur
-arabic: "قَالَ رَبِّ ٱنصُرْنِى عَلَى ٱلْقَوْمِ ٱلْمُفْسِدِينَ"
+arabic: "قَالَ رَبِّ ٱنصُرْنِى عَلَى ٱلْقَوْمِ ٱلْمُفْسِدِينَ"
 translation: "He said, 'My Lord, give me victory over the corrupting people.'"
 word_count: 6
 estimated_duration: "48-55 minutes"

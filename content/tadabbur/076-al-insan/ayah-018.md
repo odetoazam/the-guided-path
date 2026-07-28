@@ -6,7 +6,7 @@ ayah_end: 18
 title: "The Spring With a Name: From 'Not Worth Mentioning' to Salsabil"
 slug: "076-018"
 category: tadabbur
-arabic: "عَيْنًا فِيهَا تُسَمَّىٰ سَلْسَبِيلًا"
+arabic: "عَيْنًا فِيهَا تُسَمَّىٰ سَلْسَبِيلًا"
 translation: "A spring therein, named Salsabil."
 word_count: 4
 estimated_duration: "48-56 minutes"

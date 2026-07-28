@@ -6,7 +6,7 @@ ayah_end: 31
 title: "When the Messengers Announced: The Quiet Grief Before Destruction"
 slug: "029-031"
 category: tadabbur
-arabic: "وَلَمَّا جَآءَتْ رُسُلُنَآ إِبْرَٰهِيمَ بِٱلْبُشْرَىٰ قَالُوٓا۟ إِنَّا مُهْلِكُوٓا۟ أَهْلِ هَـٰذِهِ ٱلْقَرْيَةِ ۖ إِنَّ أَهْلَهَا كَانُوا۟ ظَـٰلِمِينَ"
+arabic: "وَلَمَّا جَآءَتْ رُسُلُنَآ إِبْرَٰهِيمَ بِٱلْبُشْرَىٰ قَالُوٓا۟ إِنَّا مُهْلِكُوٓا۟ أَهْلِ هَـٰذِهِ ٱلْقَرْيَةِ ۖ إِنَّ أَهْلَهَا كَانُوا۟ ظَـٰلِمِينَ"
 translation: "And when Our messengers came to Ibrahim with the good news, they said: 'We are going to destroy the people of this town. Indeed, its people have been wrongdoers.'"
 word_count: 22
 estimated_duration: "50-55 minutes"

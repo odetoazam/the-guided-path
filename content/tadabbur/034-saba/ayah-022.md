@@ -6,7 +6,7 @@ ayah_end: 22
 title: "Not One Atom: The Audit That Demolishes Every False God"
 slug: "034-022"
 category: tadabbur
-arabic: "قُلِ ٱدْعُوا۟ ٱلَّذِينَ زَعَمْتُم مِّن دُونِ ٱللَّهِ ۖ لَا يَمْلِكُونَ مِثْقَالَ ذَرَّةٍ فِى ٱلسَّمَـٰوَٰتِ وَلَا فِى ٱلْأَرْضِ وَمَا لَهُمْ فِيهِمَا مِن شِرْكٍ وَمَا لَهُۥ مِنْهُم مِّن ظَهِيرٍ"
+arabic: "قُلِ ٱدْعُوا۟ ٱلَّذِينَ زَعَمْتُم مِّن دُونِ ٱللَّهِ ۖ لَا يَمْلِكُونَ مِثْقَالَ ذَرَّةٍ فِى ٱلسَّمَـٰوَٰتِ وَلَا فِى ٱلْأَرْضِ وَمَا لَهُمْ فِيهِمَا مِن شِرْكٍ وَمَا لَهُۥ مِنْهُم مِّن ظَهِيرٍ"
 translation: "Say, 'Call upon those whom you claim besides Allah.' They do not possess even the weight of an atom in the heavens or in the earth, and they have no partnership in either, nor is there for Him from among them any supporter."
 word_count: 26
 estimated_duration: "50-58 minutes"

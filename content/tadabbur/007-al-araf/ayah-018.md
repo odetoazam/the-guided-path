@@ -6,7 +6,7 @@ ayah_end: 18
 slug: "007-018"
 category: tadabbur
 title: "The Sentence That Included Everyone Who Would Follow"
-arabic: "قَالَ ٱخْرُجْ مِنْهَا مَذْءُومًا مَّدْحُورًا لَّمَن تَبِعَكَ مِنْهُمْ لَأَمْلَأَنَّ جَهَنَّمَ مِنكُمْ أَجْمَعِينَ"
+arabic: "قَالَ ٱخْرُجْ مِنْهَا مَذْءُومًا مَّدْحُورًا ۖ لَّمَن تَبِعَكَ مِنْهُمْ لَأَمْلَأَنَّ جَهَنَّمَ مِنكُمْ أَجْمَعِينَ"
 translation: "He said: Get out from it, despised and expelled. Whoever follows you among them — I will surely fill Jahannam with you, all together."
 word_count: null
 estimated_duration: "45-50 minutes"

@@ -6,7 +6,7 @@ ayah_end: 45
 title: "The Back of the Earth: Why Anything Still Walks"
 slug: "035-045"
 category: tadabbur
-arabic: "وَلَوْ يُؤَاخِذُ ٱللَّهُ ٱلنَّاسَ بِمَا كَسَبُوا۟ مَا تَرَكَ عَلَىٰ ظَهْرِهَا مِن دَآبَّةٍ وَلَـٰكِن يُؤَخِّرُهُمْ إِلَىٰٓ أَجَلٍ مُّسَمًّى ۚ فَإِذَا جَآءَ أَجَلُهُمْ فَإِنَّ ٱللَّهَ كَانَ بِعِبَادِهِۦ بَصِيرًۢا"
+arabic: "وَلَوْ يُؤَاخِذُ ٱللَّهُ ٱلنَّاسَ بِمَا كَسَبُوا۟ مَا تَرَكَ عَلَىٰ ظَهْرِهَا مِن دَآبَّةٍ وَلَـٰكِن يُؤَخِّرُهُمْ إِلَىٰٓ أَجَلٍ مُّسَمًّى ۖ فَإِذَا جَآءَ أَجَلُهُمْ فَإِنَّ ٱللَّهَ كَانَ بِعِبَادِهِۦ بَصِيرًۢا"
 translation: "And if Allah were to take people to account for what they have earned, He would not leave on its back a single creature. But He defers them to an appointed term. And when their term comes — then indeed Allah is, of His servants, ever All-Seeing."
 word_count: 25
 estimated_duration: "50-58 minutes"

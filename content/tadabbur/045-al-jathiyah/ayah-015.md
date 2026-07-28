@@ -6,7 +6,7 @@ ayah_end: 15
 title: "For It, Against It: The Soul as the Soil of Every Deed"
 slug: "045-015"
 category: tadabbur
-arabic: "مَنْ عَمِلَ صَالِحًا فَلِنَفْسِهِ ۖ وَمَنْ أَسَاءَ فَعَلَيْهَا ۖ ثُمَّ إِلَىٰ رَبِّكُمْ تُرْجَعُونَ"
+arabic: "مَنْ عَمِلَ صَـٰلِحًا فَلِنَفْسِهِۦ ۖ وَمَنْ أَسَآءَ فَعَلَيْهَا ۖ ثُمَّ إِلَىٰ رَبِّكُمْ تُرْجَعُونَ"
 translation: "Whoever does righteousness — it is for his own soul; and whoever does evil — it is against it. Then to your Lord you will be returned."
 word_count: 11
 estimated_duration: "50-58 minutes"

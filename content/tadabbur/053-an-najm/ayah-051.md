@@ -6,7 +6,7 @@ ayah_end: 51
 title: "The People Who Carved Forever: How Three Words Ended the Master Builders"
 slug: "053-051"
 category: tadabbur
-arabic: "وَثَمُودَا۟ فَمَآ أَبْقَىٰ"
+arabic: "وَثَمُودَا۟ فَمَآ أَبْقَىٰ"
 translation: "And Thamud — He spared not a single one."
 word_count: 5600
 estimated_duration: "50-58 minutes"

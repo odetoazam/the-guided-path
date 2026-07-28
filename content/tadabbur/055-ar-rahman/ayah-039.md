@@ -6,7 +6,7 @@ ayah_end: 39
 title: "The Silence of Judgment: When No One Is Asked"
 slug: "055-039"
 category: tadabbur
-arabic: "فَيَوْمَئِذٍ لَّا يُسْـَٔلُ عَن ذَنۢبِهِۦٓ إِنسٌ وَلَا جَآنٌّ"
+arabic: "فَيَوْمَئِذٍ لَّا يُسْـَٔلُ عَن ذَنۢبِهِۦٓ إِنسٌ وَلَا جَآنٌّ"
 translation: "Then on that Day, none will be asked about his sin — neither man nor jinn."
 word_count: 8
 estimated_duration: "50-58 minutes"

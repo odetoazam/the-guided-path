@@ -6,7 +6,7 @@ ayah_end: 220
 title: "The One Who Hears, The One Who Knows: Why Two Names Stand Where Shaytan Cannot Reach"
 slug: "026-220"
 category: tadabbur
-arabic: "إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ"
+arabic: "إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ"
 translation: "Indeed, He — He alone — is the All-Hearing, the All-Knowing."
 word_count: 4
 estimated_duration: "48-55 minutes"

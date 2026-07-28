@@ -6,7 +6,7 @@ ayah_end: 40
 title: "The Town They Kept Passing — and the Diagnosis Beneath Their Eyes"
 slug: "025-040"
 category: tadabbur
-arabic: "وَلَقَدْ أَتَوْا۟ عَلَى ٱلْقَرْيَةِ ٱلَّتِىٓ أُمْطِرَتْ مَطَرَ ٱلسَّوْءِ ۚ أَفَلَمْ يَكُونُوا۟ يَرَوْنَهَا ۚ بَلْ كَانُوا۟ لَا يَرْجُونَ نُشُورًا"
+arabic: "وَلَقَدْ أَتَوْا۟ عَلَى ٱلْقَرْيَةِ ٱلَّتِىٓ أُمْطِرَتْ مَطَرَ ٱلسَّوْءِ ۚ أَفَلَمْ يَكُونُوا۟ يَرَوْنَهَا ۚ بَلْ كَانُوا۟ لَا يَرْجُونَ نُشُورًا"
 translation: "And they have indeed come upon the town that was rained on with the rain of evil. Have they not been seeing it? No — they have been not hoping for any resurrection."
 word_count: 14
 estimated_duration: "50-55 minutes"

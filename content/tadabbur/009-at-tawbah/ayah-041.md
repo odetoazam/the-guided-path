@@ -6,7 +6,7 @@ ayah_end: 41
 title: "Light and Heavy: The Merism That Refuses Every Excuse"
 slug: "009-041"
 category: tadabbur
-arabic: "ٱنفِرُوا۟ خِفَافًۭا وَثِقَالًۭا وَجَـٰهِدُوا۟ بِأَمْوَٰلِكُمْ وَأَنفُسِكُمْ فِى سَبِيلِ ٱللَّهِ ۚ ذَٰلِكُمْ خَيْرٌۭ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ"
+arabic: "ٱنفِرُوا۟ خِفَافًا وَثِقَالًا وَجَـٰهِدُوا۟ بِأَمْوَٰلِكُمْ وَأَنفُسِكُمْ فِى سَبِيلِ ٱللَّهِ ۚ ذَٰلِكُمْ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ"
 translation: "Go forth — light and heavy — and strive with your wealth and your selves in the path of Allah. That is better for you, if only you knew."
 word_count: 8200
 estimated_duration: "52-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 24
 title: "Two Doors, Both Closed: When Patience and Pleading Run Out of Power"
 slug: "041-024"
 category: tadabbur
-arabic: "فَإِن يَصْبِرُوا۟ فَٱلنَّارُ مَثْوًۭى لَّهُمْ ۖ وَإِن يَسْتَعْتِبُوا۟ فَمَا هُم مِّنَ ٱلْمُعْتَبِينَ"
+arabic: "فَإِن يَصْبِرُوا۟ فَٱلنَّارُ مَثْوًى لَّهُمْ ۖ وَإِن يَسْتَعْتِبُوا۟ فَمَا هُم مِّنَ ٱلْمُعْتَبِينَ"
 translation: "So if they endure, the Fire is a dwelling-place for them; and if they plead to be restored to favor, they will not be among those granted restoration."
 word_count: 6100
 estimated_duration: "50-58 minutes"

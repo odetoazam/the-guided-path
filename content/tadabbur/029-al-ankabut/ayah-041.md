@@ -6,7 +6,7 @@ ayah_end: 41
 title: "The House of the Spider: When What Holds You Cannot Hold"
 slug: "029-041"
 category: tadabbur
-arabic: "مَثَلُ ٱلَّذِينَ ٱتَّخَذُوا۟ مِن دُونِ ٱللَّهِ أَوْلِيَآءَ كَمَثَلِ ٱلْعَنكَبُوتِ ٱتَّخَذَتْ بَيْتًۭا ۖ وَإِنَّ أَوْهَنَ ٱلْبُيُوتِ لَبَيْتُ ٱلْعَنكَبُوتِ ۖ لَوْ كَانُوا۟ يَعْلَمُونَ"
+arabic: "مَثَلُ ٱلَّذِينَ ٱتَّخَذُوا۟ مِن دُونِ ٱللَّهِ أَوْلِيَآءَ كَمَثَلِ ٱلْعَنكَبُوتِ ٱتَّخَذَتْ بَيْتًا ۖ وَإِنَّ أَوْهَنَ ٱلْبُيُوتِ لَبَيْتُ ٱلْعَنكَبُوتِ ۖ لَوْ كَانُوا۟ يَعْلَمُونَ"
 translation: "The likeness of those who take protectors other than Allah is as the likeness of the spider — she takes a house. And indeed, the frailest of houses is the house of the spider — if only they knew."
 word_count: 22
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 11
 title: "Two Deaths, Two Lives, and the Door That Will Not Open"
 slug: "040-011"
 category: tadabbur
-arabic: "قَالُوا۟ رَبَّنَآ أَمَتَّنَا ٱثْنَتَيْنِ وَأَحْيَيْتَنَا ٱثْنَتَيْنِ فَٱعْتَرَفْنَا بِذُنُوبِنَا فَهَلْ إِلَىٰ خُرُوجٍۢ مِّن سَبِيلٍۢ"
+arabic: "قَالُوا۟ رَبَّنَآ أَمَتَّنَا ٱثْنَتَيْنِ وَأَحْيَيْتَنَا ٱثْنَتَيْنِ فَٱعْتَرَفْنَا بِذُنُوبِنَا فَهَلْ إِلَىٰ خُرُوجٍ مِّن سَبِيلٍ"
 translation: "They will say, 'Our Lord, You gave us death twice and gave us life twice, and we confess our sins. So is there any way to an exit?'"
 word_count: 13
 estimated_duration: "50-58 minutes"

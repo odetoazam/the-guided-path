@@ -6,7 +6,7 @@ ayah_end: 19
 title: "The Truthful and the Carriers of Light: When Faith Itself Becomes Your Title"
 slug: "057-019"
 category: tadabbur
-arabic: "وَالَّذِينَ آمَنُوا بِاللَّهِ وَرُسُلِهِ أُولَٰئِكَ هُمُ الصِّدِّيقُونَ ۖ وَالشُّهَدَاءُ عِندَ رَبِّهِمْ لَهُمْ أَجْرُهُمْ وَنُورُهُمْ ۖ وَالَّذِينَ كَفَرُوا وَكَذَّبُوا بِآيَاتِنَا أُولَٰئِكَ أَصْحَابُ الْجَحِيمِ"
+arabic: "وَٱلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَرُسُلِهِۦٓ أُو۟لَـٰٓئِكَ هُمُ ٱلصِّدِّيقُونَ ۖ وَٱلشُّهَدَآءُ عِندَ رَبِّهِمْ لَهُمْ أَجْرُهُمْ وَنُورُهُمْ ۖ وَٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟ بِـَٔايَـٰتِنَآ أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلْجَحِيمِ"
 translation: "And those who believe in Allah and His Messengers — it is they who are the truthful, and the witnesses, in the sight of their Lord. They will have their reward and their light. But those who disbelieve and deny Our signs — those are the companions of the Blazing Fire."
 word_count: 30
 estimated_duration: "49-58 minutes"

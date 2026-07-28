@@ -6,7 +6,7 @@ ayah_end: 30
 title: "The Letter That Begins With a Name: Sulaymān's Bismillāh and the Diplomacy of the Heart"
 slug: "027-030"
 category: tadabbur
-arabic: "إِنَّهُۥ مِن سُلَيْمَٰنَ وَإِنَّهُۥ بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ"
+arabic: "إِنَّهُۥ مِن سُلَيْمَـٰنَ وَإِنَّهُۥ بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
 translation: "Indeed, it is from Sulaymān, and indeed it reads: In the name of Allah, the Most Merciful, the Especially Merciful."
 word_count: 11
 estimated_duration: "48-55 minutes"

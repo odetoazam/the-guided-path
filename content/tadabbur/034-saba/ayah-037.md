@@ -6,7 +6,7 @@ ayah_end: 37
 title: "The Currency That Doesn't Trade: Wealth, Children, and the Door Allah Opens Instead"
 slug: "034-037"
 category: tadabbur
-arabic: "وَمَآ أَمْوَٰلُكُمْ وَلَآ أَوْلَـٰدُكُم بِٱلَّتِى تُقَرِّبُكُمْ عِندَنَا زُلْفَىٰٓ إِلَّا مَنْ ءَامَنَ وَعَمِلَ صَـٰلِحًا فَأُو۟لَـٰٓئِكَ لَهُمْ جَزَآءُ ٱلضِّعْفِ بِمَا عَمِلُوا۟ وَهُمْ فِى ٱلْغُرُفَـٰتِ ءَامِنُونَ"
+arabic: "وَمَآ أَمْوَٰلُكُمْ وَلَآ أَوْلَـٰدُكُم بِٱلَّتِى تُقَرِّبُكُمْ عِندَنَا زُلْفَىٰٓ إِلَّا مَنْ ءَامَنَ وَعَمِلَ صَـٰلِحًا فَأُو۟لَـٰٓئِكَ لَهُمْ جَزَآءُ ٱلضِّعْفِ بِمَا عَمِلُوا۟ وَهُمْ فِى ٱلْغُرُفَـٰتِ ءَامِنُونَ"
 translation: "And it is not your wealth nor your children that bring you near to Us in position — except for one who believes and does righteousness. For those, there will be the double reward for what they did, and they will be in the high chambers, secure."
 word_count: 23
 estimated_duration: "50-58 minutes"

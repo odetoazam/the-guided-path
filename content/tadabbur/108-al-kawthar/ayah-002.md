@@ -6,7 +6,7 @@ ayah_end: 2
 title: "So Pray, and Sacrifice: The Hands That Were Filled Turn Back to the One Who Filled Them"
 slug: "108-002"
 category: tadabbur
-arabic: "فَصَلِّ لِرَبِّكَ وَٱنْحَرْ"
+arabic: "فَصَلِّ لِرَبِّكَ وَٱنْحَرْ"
 translation: "So pray to your Lord and sacrifice."
 word_count: 5400
 estimated_duration: "50-58 minutes"

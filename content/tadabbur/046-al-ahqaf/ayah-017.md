@@ -6,7 +6,7 @@ ayah_end: 17
 title: "The Syllable That Ends in a Grave: Uff, the Two Who Gave You Life, and the One Who Gives It Back"
 slug: "046-017"
 category: tadabbur
-arabic: "وَٱلَّذِى قَالَ لِوَٰلِدَيْهِ أُفٍّ لَّكُمَآ أَتَعِدَانِنِىٓ أَنْ أُخْرَجَ وَقَدْ خَلَتِ ٱلْقُرُونُ مِن قَبْلِى وَهُمَا يَسْتَغِيثَانِ ٱللَّهَ وَيْلَكَ ءَامِنْ إِنَّ وَعْدَ ٱللَّهِ حَقٌّ فَيَقُولُ مَا هَـٰذَآ إِلَّآ أَسَـٰطِيرُ ٱلْأَوَّلِينَ"
+arabic: "وَٱلَّذِى قَالَ لِوَٰلِدَيْهِ أُفٍّ لَّكُمَآ أَتَعِدَانِنِىٓ أَنْ أُخْرَجَ وَقَدْ خَلَتِ ٱلْقُرُونُ مِن قَبْلِى وَهُمَا يَسْتَغِيثَانِ ٱللَّهَ وَيْلَكَ ءَامِنْ إِنَّ وَعْدَ ٱللَّهِ حَقٌّ فَيَقُولُ مَا هَـٰذَآ إِلَّآ أَسَـٰطِيرُ ٱلْأَوَّلِينَ"
 translation: "But the one who says to his parents, \"Uff to both of you! Do you promise me that I will be brought forth, when generations have already passed away before me?\" — while the two of them cry out to Allah for help: \"Woe to you! Believe! Indeed the promise of Allah is true.\" But he says, \"This is nothing but the tales of the ancients.\""
 word_count: 1200
 estimated_duration: "50-58 minutes"

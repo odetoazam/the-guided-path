@@ -6,7 +6,7 @@ ayah_end: 40
 title: "The Saddled Mount and the Fourth Knock: Allah Already Did the Hard Part"
 slug: "054-040"
 category: tadabbur
-arabic: "وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ"
+arabic: "وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ"
 translation: "And We have certainly made the Quran easy for remembrance — so is there anyone who will take heed?"
 word_count: 5400
 estimated_duration: "50-58 minutes"

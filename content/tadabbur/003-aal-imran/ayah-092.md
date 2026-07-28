@@ -6,7 +6,7 @@ ayah_end: 92
 title: "What It Costs to Reach Righteousness: Giving From What You Love"
 slug: "003-092"
 category: tadabbur
-arabic: "لَن تَنَالُوا۟ ٱلْبِرَّ حَتَّىٰ تُنفِقُوا۟ مِمَّا تُحِبُّونَ ۚ وَمَا تُنفِقُوا۟ مِن شَىْءٍ فَإِنَّ ٱللَّهَ بِهِۦ عَلِيمٌ"
+arabic: "لَن تَنَالُوا۟ ٱلْبِرَّ حَتَّىٰ تُنفِقُوا۟ مِمَّا تُحِبُّونَ ۚ وَمَا تُنفِقُوا۟ مِن شَىْءٍ فَإِنَّ ٱللَّهَ بِهِۦ عَلِيمٌ"
 translation: "You will never attain righteousness until you spend from that which you love. And whatever you spend — of anything — then indeed Allah is All-Knowing of it."
 word_count: 16
 estimated_duration: "50-58 minutes"

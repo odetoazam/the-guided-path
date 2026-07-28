@@ -6,7 +6,7 @@ ayah_end: 7
 title: "The Vow No One Made Them Sign: Fulfillment and the Fear of a Spreading Day"
 slug: "076-007"
 category: tadabbur
-arabic: "يُوفُونَ بِٱلنَّذْرِ وَيَخَافُونَ يَوْمًا كَانَ شَرُّهُۥ مُسْتَطِيرًا"
+arabic: "يُوفُونَ بِٱلنَّذْرِ وَيَخَافُونَ يَوْمًا كَانَ شَرُّهُۥ مُسْتَطِيرًا"
 translation: "They fulfill their vows, and they fear a Day whose evil is widespread."
 word_count: 6400
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 51
 title: "My Lord and Your Lord: The Servant Who Bowed First"
 slug: "003-051"
 category: tadabbur
-arabic: "إِنَّ ٱللَّهَ رَبِّى وَرَبُّكُمْ فَٱعْبُدُوهُ ۗ هَـٰذَا صِرَٰطٌ مُّسْتَقِيمٌ"
+arabic: "إِنَّ ٱللَّهَ رَبِّى وَرَبُّكُمْ فَٱعْبُدُوهُ ۗ هَـٰذَا صِرَٰطٌ مُّسْتَقِيمٌ"
 translation: "Indeed Allah is my Lord and your Lord, so worship Him. This is a straight path."
 word_count: 9
 estimated_duration: "50-58 minutes"

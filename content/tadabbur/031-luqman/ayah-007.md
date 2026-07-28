@@ -6,7 +6,7 @@ ayah_end: 7
 title: "The Heaviness in His Ears: When Turning Away Becomes a Body"
 slug: "031-007"
 category: tadabbur
-arabic: "وَإِذَا تُتْلَىٰ عَلَيْهِ ءَايَـٰتُنَا وَلَّىٰ مُسْتَكْبِرًا كَأَن لَّمْ يَسْمَعْهَا كَأَنَّ فِىٓ أُذُنَيْهِ وَقْرًا ۖ فَبَشِّرْهُ بِعَذَابٍ أَلِيمٍ"
+arabic: "وَإِذَا تُتْلَىٰ عَلَيْهِ ءَايَـٰتُنَا وَلَّىٰ مُسْتَكْبِرًا كَأَن لَّمْ يَسْمَعْهَا كَأَنَّ فِىٓ أُذُنَيْهِ وَقْرًا ۖ فَبَشِّرْهُ بِعَذَابٍ أَلِيمٍ"
 translation: "And when Our verses are recited to him, he turns away in arrogance as if he had not heard them, as if there were a heaviness in his two ears. So give him glad tidings of a painful punishment."
 word_count: 1850
 estimated_duration: "50-55 minutes"

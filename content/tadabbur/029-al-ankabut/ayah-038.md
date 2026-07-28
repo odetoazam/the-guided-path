@@ -6,7 +6,7 @@ ayah_end: 38
 title: "When Shaytan Decorates the Road: ʿĀd, Thamūd, and the Beautified Path"
 slug: "029-038"
 category: tadabbur
-arabic: "وَعَادًا وَثَمُودَا۟ وَقَد تَّبَيَّنَ لَكُم مِّن مَّسَـٰكِنِهِمْ ۖ وَزَيَّنَ لَهُمُ ٱلشَّيْطَـٰنُ أَعْمَـٰلَهُمْ فَصَدَّهُمْ عَنِ ٱلسَّبِيلِ وَكَانُوا۟ مُسْتَبْصِرِينَ"
+arabic: "وَعَادًا وَثَمُودَا۟ وَقَد تَّبَيَّنَ لَكُم مِّن مَّسَـٰكِنِهِمْ ۖ وَزَيَّنَ لَهُمُ ٱلشَّيْطَـٰنُ أَعْمَـٰلَهُمْ فَصَدَّهُمْ عَنِ ٱلسَّبِيلِ وَكَانُوا۟ مُسْتَبْصِرِينَ"
 translation: "And [We destroyed] ʿĀd and Thamūd, and it has become clear to you from their dwellings. Shaytan made their deeds seem beautiful to them, and so turned them away from the path — though they had been capable of seeing clearly."
 word_count: 480
 estimated_duration: "50-55 minutes"

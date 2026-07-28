@@ -6,7 +6,7 @@ ayah_end: 20
 title: "Every Time They Try to Leave: The Will That Returns to Itself"
 slug: "032-020"
 category: tadabbur
-arabic: "وَأَمَّا ٱلَّذِينَ فَسَقُوا۟ فَمَأْوَىٰهُمُ ٱلنَّارُ ۖ كُلَّمَآ أَرَادُوٓا۟ أَن يَخْرُجُوا۟ مِنْهَآ أُعِيدُوا۟ فِيهَا وَقِيلَ لَهُمْ ذُوقُوا۟ عَذَابَ ٱلنَّارِ ٱلَّذِى كُنتُم بِهِۦ تُكَذِّبُونَ"
+arabic: "وَأَمَّا ٱلَّذِينَ فَسَقُوا۟ فَمَأْوَىٰهُمُ ٱلنَّارُ ۖ كُلَّمَآ أَرَادُوٓا۟ أَن يَخْرُجُوا۟ مِنْهَآ أُعِيدُوا۟ فِيهَا وَقِيلَ لَهُمْ ذُوقُوا۟ عَذَابَ ٱلنَّارِ ٱلَّذِى كُنتُم بِهِۦ تُكَذِّبُونَ"
 translation: "But as for those who broke away, their refuge is the Fire. Every time they want to come out of it, they are returned into it, and they will be told: 'Taste the punishment of the Fire which you used to deny.'"
 word_count: 22
 estimated_duration: "50-58 minutes"

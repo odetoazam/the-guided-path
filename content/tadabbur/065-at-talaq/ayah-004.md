@@ -6,7 +6,7 @@ ayah_end: 4
 title: "Despair, Doubt, and the Promise of Ease: Measured Time in the Wreckage"
 slug: "065-004"
 category: tadabbur
-arabic: "وَٱللَّـٰٓئِى يَئِسْنَ مِنَ ٱلْمَحِيضِ مِن نِّسَآئِكُمْ إِنِ ٱرْتَبْتُمْ فَعِدَّتُهُنَّ ثَلَـٰثَةُ أَشْهُرٍۢ وَٱللَّـٰٓئِى لَمْ يَحِضْنَ ۚ وَأُو۟لَـٰتُ ٱلْأَحْمَالِ أَجَلُهُنَّ أَن يَضَعْنَ حَمْلَهُنَّ ۚ وَمَن يَتَّقِ ٱللَّهَ يَجْعَل لَّهُۥ مِنْ أَمْرِهِۦ يُسْرًا"
+arabic: "وَٱلَّـٰٓـِٔى يَئِسْنَ مِنَ ٱلْمَحِيضِ مِن نِّسَآئِكُمْ إِنِ ٱرْتَبْتُمْ فَعِدَّتُهُنَّ ثَلَـٰثَةُ أَشْهُرٍ وَٱلَّـٰٓـِٔى لَمْ يَحِضْنَ ۚ وَأُو۟لَـٰتُ ٱلْأَحْمَالِ أَجَلُهُنَّ أَن يَضَعْنَ حَمْلَهُنَّ ۚ وَمَن يَتَّقِ ٱللَّهَ يَجْعَل لَّهُۥ مِنْ أَمْرِهِۦ يُسْرًا"
 translation: "And those who have despaired of menstruation among your women — if you are in doubt — their waiting period is three months, and [likewise] those who have not yet menstruated. And those who are pregnant, their term is until they deliver their burden. And whoever is mindful of Allah — He will make for him, out of his affair, ease."
 word_count: 28
 estimated_duration: "50-58 minutes"

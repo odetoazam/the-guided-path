@@ -6,7 +6,7 @@ ayah_end: 9
 title: "Lord of the Rising and the Setting: Entrust the Owner of the Horizons With Your Day"
 slug: "073-009"
 category: tadabbur
-arabic: "رَّبُّ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ لَآ إِلَـٰهَ إِلَّا هُوَ فَٱتَّخِذْهُ وَكِيلًا"
+arabic: "رَّبُّ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ لَآ إِلَـٰهَ إِلَّا هُوَ فَٱتَّخِذْهُ وَكِيلًا"
 translation: "Lord of the East and the West — there is no god but Him — so take Him as your Disposer of affairs."
 word_count: 9
 estimated_duration: "50-58 minutes"

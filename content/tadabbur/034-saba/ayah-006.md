@@ -6,7 +6,7 @@ ayah_end: 6
 title: "When Knowledge Becomes Sight: The Path of the Mighty, the Praiseworthy"
 slug: "034-006"
 category: tadabbur
-arabic: "وَيَرَى ٱلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ ٱلَّذِىٓ أُنزِلَ إِلَيْكَ مِن رَّبِّكَ هُوَ ٱلْحَقَّ وَيَهْدِىٓ إِلَىٰ صِرَٰطِ ٱلْعَزِيزِ ٱلْحَمِيدِ"
+arabic: "وَيَرَى ٱلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ ٱلَّذِىٓ أُنزِلَ إِلَيْكَ مِن رَّبِّكَ هُوَ ٱلْحَقَّ وَيَهْدِىٓ إِلَىٰ صِرَٰطِ ٱلْعَزِيزِ ٱلْحَمِيدِ"
 translation: "And those who have been given knowledge see that what has been sent down to you from your Lord — it is the truth, and it guides to the path of the All-Mighty, the Praiseworthy."
 word_count: 16
 estimated_duration: "50-55 minutes"

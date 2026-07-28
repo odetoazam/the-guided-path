@@ -6,7 +6,7 @@ ayah_end: 14
 title: "The Forgotten Meeting: When Distraction Becomes Destiny"
 slug: "032-014"
 category: tadabbur
-arabic: "فَذُوقُوا۟ بِمَا نَسِيتُمْ لِقَآءَ يَوْمِكُمْ هَـٰذَآ إِنَّا نَسِينَـٰكُمْ ۖ وَذُوقُوا۟ عَذَابَ ٱلْخُلْدِ بِمَا كُنتُمْ تَعْمَلُونَ"
+arabic: "فَذُوقُوا۟ بِمَا نَسِيتُمْ لِقَآءَ يَوْمِكُمْ هَـٰذَآ إِنَّا نَسِينَـٰكُمْ ۖ وَذُوقُوا۟ عَذَابَ ٱلْخُلْدِ بِمَا كُنتُمْ تَعْمَلُونَ"
 translation: "So taste — because you forgot the meeting of this Day of yours — indeed, We have forgotten you. And taste the punishment of eternity, for what you used to do."
 word_count: 7100
 estimated_duration: "50-56 minutes"

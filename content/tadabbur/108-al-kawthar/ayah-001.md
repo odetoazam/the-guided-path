@@ -6,7 +6,7 @@ ayah_end: 1
 title: "The Abundance With No Name: When the Cut-Off Are Given More Than Words Can Hold"
 slug: "108-001"
 category: tadabbur
-arabic: "إِنَّآ أَعْطَيْنَٰكَ ٱلْكَوْثَرَ"
+arabic: "إِنَّآ أَعْطَيْنَـٰكَ ٱلْكَوْثَرَ"
 translation: "Indeed, We have given you al-Kawthar — abundance."
 word_count: 3
 estimated_duration: "50-58 minutes"

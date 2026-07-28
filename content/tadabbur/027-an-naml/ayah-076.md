@@ -6,7 +6,7 @@ ayah_end: 76
 title: "The Quran as Arbiter: When Allah Speaks to Settle What Israel Could Not"
 slug: "027-076"
 category: tadabbur
-arabic: "إِنَّ هَـٰذَا ٱلْقُرْءَانَ يَقُصُّ عَلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ أَكْثَرَ ٱلَّذِى هُمْ فِيهِ يَخْتَلِفُونَ"
+arabic: "إِنَّ هَـٰذَا ٱلْقُرْءَانَ يَقُصُّ عَلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ أَكْثَرَ ٱلَّذِى هُمْ فِيهِ يَخْتَلِفُونَ"
 translation: "Indeed, this Quran narrates to the Children of Israel most of that over which they differ."
 word_count: 9
 estimated_duration: "48-55 minutes"

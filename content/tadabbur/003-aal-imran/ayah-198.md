@@ -6,7 +6,7 @@ ayah_end: 198
 title: "What Is With Allah Is Better for the Righteous"
 slug: "003-198"
 category: tadabbur
-arabic: "لَـٰكِنِ ٱلَّذِينَ ٱتَّقَوْا۟ رَبَّهُمْ لَهُمْ جَنَّـٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَا نُزُلًا مِّنْ عِندِ ٱللَّهِ ۗ وَمَا عِندَ ٱللَّهِ خَيْرٌ لِّلْأَبْرَارِ"
+arabic: "لَـٰكِنِ ٱلَّذِينَ ٱتَّقَوْا۟ رَبَّهُمْ لَهُمْ جَنَّـٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَا نُزُلًا مِّنْ عِندِ ٱللَّهِ ۗ وَمَا عِندَ ٱللَّهِ خَيْرٌ لِّلْأَبْرَارِ"
 translation: "But those who were mindful of their Lord will have gardens beneath which rivers flow, abiding therein, as a welcoming gift from Allah. And what is with Allah is better for the righteous."
 word_count: null
 estimated_duration: "45-55 minutes"

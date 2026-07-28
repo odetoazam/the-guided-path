@@ -6,7 +6,7 @@ ayah_end: 24
 title: "The Midday Rest of the Saved: Mustaqarr and Maqīl"
 slug: "025-024"
 category: tadabbur
-arabic: "أَصْحَٰبُ ٱلْجَنَّةِ يَوْمَئِذٍ خَيْرٌۭ مُّسْتَقَرًّۭا وَأَحْسَنُ مَقِيلًۭا"
+arabic: "أَصْحَـٰبُ ٱلْجَنَّةِ يَوْمَئِذٍ خَيْرٌ مُّسْتَقَرًّا وَأَحْسَنُ مَقِيلًا"
 translation: "The companions of the Garden, that Day, will be in the best of dwellings and the most beautiful of resting-places."
 word_count: 8
 estimated_duration: "48-55 minutes"

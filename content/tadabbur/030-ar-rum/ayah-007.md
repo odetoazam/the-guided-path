@@ -6,7 +6,7 @@ ayah_end: 7
 title: "The Surface of the World: When Knowing Becomes Forgetting"
 slug: "030-007"
 category: tadabbur
-arabic: "يَعْلَمُونَ ظَاهِرًا مِّنَ ٱلْحَيَوٰةِ ٱلدُّنْيَا وَهُمْ عَنِ ٱلْءَاخِرَةِ هُمْ غَـٰفِلُونَ"
+arabic: "يَعْلَمُونَ ظَـٰهِرًا مِّنَ ٱلْحَيَوٰةِ ٱلدُّنْيَا وَهُمْ عَنِ ٱلْـَٔاخِرَةِ هُمْ غَـٰفِلُونَ"
 translation: "They know only the outward of the worldly life, and of the Hereafter they — they are utterly heedless."
 word_count: 11
 estimated_duration: "48-55 minutes"

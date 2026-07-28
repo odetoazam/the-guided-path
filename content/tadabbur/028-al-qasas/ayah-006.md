@@ -6,7 +6,7 @@ ayah_end: 6
 title: "What They Feared Most: How the Oppressor Builds the Ladder for the Oppressed"
 slug: "028-006"
 category: tadabbur
-arabic: "وَنُمَكِّنَ لَهُمْ فِي الْأَرْضِ وَنُرِيَ فِرْعَوْنَ وَهَامَانَ وَجُنُودَهُمَا مِنْهُم مَّا كَانُوا يَحْذَرُونَ"
+arabic: "وَنُمَكِّنَ لَهُمْ فِى ٱلْأَرْضِ وَنُرِىَ فِرْعَوْنَ وَهَـٰمَـٰنَ وَجُنُودَهُمَا مِنْهُم مَّا كَانُوا۟ يَحْذَرُونَ"
 translation: "And to establish them firmly in the land, and to show Pharaoh and Haman and their soldiers — from among those very people — the thing they had been guarding against."
 word_count: 12
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 6
 title: "The Idle Talk That Buys a Path Away From Allah"
 slug: "031-006"
 category: tadabbur
-arabic: "وَمِنَ ٱلنَّاسِ مَن يَشْتَرِى لَهْوَ ٱلْحَدِيثِ لِيُضِلَّ عَن سَبِيلِ ٱللَّهِ بِغَيْرِ عِلْمٍ وَيَتَّخِذَهَا هُزُوًا ۚ أُو۟لَـٰٓئِكَ لَهُمْ عَذَابٌ مُّهِينٌ"
+arabic: "وَمِنَ ٱلنَّاسِ مَن يَشْتَرِى لَهْوَ ٱلْحَدِيثِ لِيُضِلَّ عَن سَبِيلِ ٱللَّهِ بِغَيْرِ عِلْمٍ وَيَتَّخِذَهَا هُزُوًا ۚ أُو۟لَـٰٓئِكَ لَهُمْ عَذَابٌ مُّهِينٌ"
 translation: "And among people is the one who purchases idle talk to lead astray from the path of Allah without knowledge, and to take it in mockery. Those — for them is a humiliating punishment."
 word_count: 28
 estimated_duration: "50-58 minutes"

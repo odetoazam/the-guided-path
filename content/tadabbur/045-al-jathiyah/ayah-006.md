@@ -6,7 +6,7 @@ ayah_end: 6
 title: "What Speech After His? — The Verse That Ends the Search"
 slug: "045-006"
 category: tadabbur
-arabic: "تِلْكَ آيَاتُ ٱللَّهِ نَتْلُوهَا عَلَيْكَ بِٱلْحَقِّ ۖ فَبِأَىِّ حَدِيثٍۭ بَعْدَ ٱللَّهِ وَءَايَـٰتِهِۦ يُؤْمِنُونَ"
+arabic: "تِلْكَ ءَايَـٰتُ ٱللَّهِ نَتْلُوهَا عَلَيْكَ بِٱلْحَقِّ ۖ فَبِأَىِّ حَدِيثٍۭ بَعْدَ ٱللَّهِ وَءَايَـٰتِهِۦ يُؤْمِنُونَ"
 translation: "These are the verses of Allah which We recite to you in truth. Then in what statement, after Allah and His verses, will they believe?"
 word_count: 6100
 estimated_duration: "50-56 minutes"

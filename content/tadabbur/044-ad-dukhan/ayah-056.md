@@ -6,7 +6,7 @@ ayah_end: 56
 title: "The One Death and the Shield: When Taqwa Becomes Wiqaya"
 slug: "044-056"
 category: tadabbur
-arabic: "لَا يَذُوقُونَ فِيهَا ٱلْمَوْتَ إِلَّا ٱلْمَوْتَةَ ٱلْأُولَىٰ ۖ وَوَقَىٰهُمْ عَذَابَ ٱلْجَحِيمِ"
+arabic: "لَا يَذُوقُونَ فِيهَا ٱلْمَوْتَ إِلَّا ٱلْمَوْتَةَ ٱلْأُولَىٰ ۖ وَوَقَىٰهُمْ عَذَابَ ٱلْجَحِيمِ"
 translation: "They will not taste death therein, except the first death; and He has shielded them from the punishment of the Blazing Fire."
 word_count: 10
 estimated_duration: "50-58 minutes"

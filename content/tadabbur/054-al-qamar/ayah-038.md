@@ -6,7 +6,7 @@ ayah_end: 38
 title: "The Morning That Came as a Guest and Stayed: When Punishment Takes Up Residence"
 slug: "054-038"
 category: tadabbur
-arabic: "وَلَقَدْ صَبَّحَهُم بُكْرَةً عَذَابٌ مُّسْتَقِرٌّ"
+arabic: "وَلَقَدْ صَبَّحَهُم بُكْرَةً عَذَابٌ مُّسْتَقِرٌّ"
 translation: "And at early morning there came upon them a punishment that settled in — abiding."
 word_count: 5300
 estimated_duration: "50-58 minutes"

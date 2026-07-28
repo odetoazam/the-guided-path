@@ -6,7 +6,7 @@ ayah_end: 5
 title: "And We Wanted: The Divine Reversal That Rewrites History"
 slug: "028-005"
 category: tadabbur
-arabic: "وَنُرِيدُ أَن نَّمُنَّ عَلَى الَّذِينَ اسْتُضْعِفُوا فِي الْأَرْضِ وَنَجْعَلَهُمْ أَئِمَّةً وَنَجْعَلَهُمُ الْوَارِثِينَ"
+arabic: "وَنُرِيدُ أَن نَّمُنَّ عَلَى ٱلَّذِينَ ٱسْتُضْعِفُوا۟ فِى ٱلْأَرْضِ وَنَجْعَلَهُمْ أَئِمَّةً وَنَجْعَلَهُمُ ٱلْوَٰرِثِينَ"
 translation: "And We wanted to bestow favor upon those who were oppressed in the land and make them leaders and make them inheritors."
 word_count: 14
 estimated_duration: "50-58 minutes"

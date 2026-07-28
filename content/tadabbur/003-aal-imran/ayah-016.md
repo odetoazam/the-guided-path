@@ -6,7 +6,7 @@ ayah_end: 16
 title: "The Word That Defines the God-Conscious: 'Shield Us'"
 slug: "003-016"
 category: tadabbur
-arabic: "ٱلَّذِينَ يَقُولُونَ رَبَّنَآ إِنَّنَآ ءَامَنَّا فَٱغْفِرْ لَنَا ذُنُوبَنَا وَقِنَا عَذَابَ ٱلنَّارِ"
+arabic: "ٱلَّذِينَ يَقُولُونَ رَبَّنَآ إِنَّنَآ ءَامَنَّا فَٱغْفِرْ لَنَا ذُنُوبَنَا وَقِنَا عَذَابَ ٱلنَّارِ"
 translation: "Those who say, 'Our Lord, indeed we have believed, so forgive us our sins and protect us from the punishment of the Fire.'"
 word_count: 11
 estimated_duration: "50-58 minutes"

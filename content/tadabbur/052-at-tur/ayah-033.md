@@ -6,7 +6,7 @@ ayah_end: 33
 title: "The Charge They Couldn't Mean: When the Objection Hides the Refusal"
 slug: "052-033"
 category: tadabbur
-arabic: "أَمْ يَقُولُونَ تَقَوَّلَهُۥ ۚ بَل لَّا يُؤْمِنُونَ"
+arabic: "أَمْ يَقُولُونَ تَقَوَّلَهُۥ ۚ بَل لَّا يُؤْمِنُونَ"
 translation: "Or do they say, 'He has fabricated it'? Rather, they do not believe."
 word_count: 6
 estimated_duration: "48-56 minutes"

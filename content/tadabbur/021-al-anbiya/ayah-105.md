@@ -6,7 +6,7 @@ ayah_end: 105
 title: "The Earth as Inheritance: Why the Land Goes to the Fit, Not the Strong"
 slug: "021-105"
 category: tadabbur
-arabic: "وَلَقَدْ كَتَبْنَا فِى ٱلزَّبُورِ مِنۢ بَعْدِ ٱلذِّكْرِ أَنَّ ٱلْأَرْضَ يَرِثُهَا عِبَادِىَ ٱلصَّـٰلِحُونَ"
+arabic: "وَلَقَدْ كَتَبْنَا فِى ٱلزَّبُورِ مِنۢ بَعْدِ ٱلذِّكْرِ أَنَّ ٱلْأَرْضَ يَرِثُهَا عِبَادِىَ ٱلصَّـٰلِحُونَ"
 translation: "And We have certainly written in the Zabūr, after the Remembrance, that the earth — My righteous servants shall inherit it."
 word_count: 12
 estimated_duration: "50-56 minutes"

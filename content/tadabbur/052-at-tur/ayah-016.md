@@ -6,7 +6,7 @@ ayah_end: 16
 title: "When Patience No Longer Works: The Virtue Thrown Back"
 slug: "052-016"
 category: tadabbur
-arabic: "ٱصْلَوْهَا فَٱصْبِرُوٓاْ أَوْ لَا تَصْبِرُوٓاْ سَوَآءٌ عَلَيْكُمْ ۖ إِنَّمَا تُجْزَوْنَ مَا كُنتُمْ تَعْمَلُونَ"
+arabic: "ٱصْلَوْهَا فَٱصْبِرُوٓا۟ أَوْ لَا تَصْبِرُوا۟ سَوَآءٌ عَلَيْكُمْ ۖ إِنَّمَا تُجْزَوْنَ مَا كُنتُمْ تَعْمَلُونَ"
 translation: "Burn in it! Then be patient, or do not be patient — it is all the same for you. You are only being repaid for what you used to do."
 word_count: 12
 estimated_duration: "50-58 minutes"

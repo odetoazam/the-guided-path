@@ -6,7 +6,7 @@ ayah_end: 46
 title: "The Cradle and the Full-Grown Man: One Unbroken Testimony"
 slug: "003-046"
 category: tadabbur
-arabic: "وَيُكَلِّمُ ٱلنَّاسَ فِى ٱلْمَهْدِ وَكَهْلًا وَمِنَ ٱلصَّـٰلِحِينَ"
+arabic: "وَيُكَلِّمُ ٱلنَّاسَ فِى ٱلْمَهْدِ وَكَهْلًا وَمِنَ ٱلصَّـٰلِحِينَ"
 translation: "And he will speak to the people in the cradle and in maturity, and he will be of the righteous."
 word_count: 7
 estimated_duration: "50-58 minutes"

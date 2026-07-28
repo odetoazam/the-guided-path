@@ -6,7 +6,7 @@ ayah_end: 1
 title: "The Universe That Already Said Yes"
 slug: "061-001"
 category: tadabbur
-arabic: "سَبَّحَ لِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۖ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ"
+arabic: "سَبَّحَ لِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۖ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ"
 translation: "Whatever is in the heavens and whatever is on the earth has glorified Allah — and He is the All-Mighty, the All-Wise."
 word_count: 11
 estimated_duration: "50-58 minutes"

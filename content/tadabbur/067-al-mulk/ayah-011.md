@@ -6,7 +6,7 @@ ayah_end: 11
 title: "The Confession That Comes Too Late: When Recognition Becomes Distance"
 slug: "067-011"
 category: tadabbur
-arabic: "فَٱعْتَرَفُوا۟ بِذَنۢبِهِمْ فَسُحْقًا لِّأَصْحَـٰبِ ٱلسَّعِيرِ"
+arabic: "فَٱعْتَرَفُوا۟ بِذَنۢبِهِمْ فَسُحْقًا لِّأَصْحَـٰبِ ٱلسَّعِيرِ"
 translation: "So they will confess their sin — then away with the companions of the Blaze."
 word_count: 5
 estimated_duration: "48-58 minutes"

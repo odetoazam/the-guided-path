@@ -6,7 +6,7 @@ ayah_end: 19
 title: "The Du'a That Was Answered: How Saba Asked for Distance and Received Dispersal"
 slug: "034-019"
 category: tadabbur
-arabic: "فَقَالُوا۟ رَبَّنَا بَـٰعِدْ بَيْنَ أَسْفَارِنَا وَظَلَمُوٓا۟ أَنفُسَهُمْ فَجَعَلْنَـٰهُمْ أَحَادِيثَ وَمَزَّقْنَـٰهُمْ كُلَّ مُمَزَّقٍ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّكُلِّ صَبَّارٍ شَكُورٍ"
+arabic: "فَقَالُوا۟ رَبَّنَا بَـٰعِدْ بَيْنَ أَسْفَارِنَا وَظَلَمُوٓا۟ أَنفُسَهُمْ فَجَعَلْنَـٰهُمْ أَحَادِيثَ وَمَزَّقْنَـٰهُمْ كُلَّ مُمَزَّقٍ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّكُلِّ صَبَّارٍ شَكُورٍ"
 translation: "But they said, 'Our Lord, lengthen the distance between our journeys.' And they wronged themselves, so We made them narrations and dispersed them with a total dispersion. Indeed, in that are signs for every patient, grateful one."
 word_count: 19
 estimated_duration: "50-58 minutes"

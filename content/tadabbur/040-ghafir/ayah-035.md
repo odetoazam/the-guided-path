@@ -6,7 +6,7 @@ ayah_end: 35
 title: "When the Argument Swells, It Is the Self That Has Swollen"
 slug: "040-035"
 category: tadabbur
-arabic: "ٱلَّذِينَ يُجَٰدِلُونَ فِىٓ ءَايَٰتِ ٱللَّهِ بِغَيْرِ سُلْطَٰنٍ أَتَىٰهُمْ ۖ كَبُرَ مَقْتًا عِندَ ٱللَّهِ وَعِندَ ٱلَّذِينَ ءَامَنُوا۟ ۚ كَذَٰلِكَ يَطْبَعُ ٱللَّهُ عَلَىٰ كُلِّ قَلْبِ مُتَكَبِّرٍ جَبَّارٍ"
+arabic: "ٱلَّذِينَ يُجَـٰدِلُونَ فِىٓ ءَايَـٰتِ ٱللَّهِ بِغَيْرِ سُلْطَـٰنٍ أَتَىٰهُمْ ۖ كَبُرَ مَقْتًا عِندَ ٱللَّهِ وَعِندَ ٱلَّذِينَ ءَامَنُوا۟ ۚ كَذَٰلِكَ يَطْبَعُ ٱللَّهُ عَلَىٰ كُلِّ قَلْبِ مُتَكَبِّرٍ جَبَّارٍ"
 translation: "Those who dispute concerning the signs of Allah without any authority having come to them — great is it in detestation in the sight of Allah and in the sight of those who believe. Thus does Allah set a seal over every arrogant, tyrannical heart."
 word_count: 23
 estimated_duration: "50-58 minutes"

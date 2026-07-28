@@ -6,7 +6,7 @@ ayah_end: 8
 title: "When Evil Looks Beautiful — The Hidden Agent and the Messenger's Grief"
 slug: "035-008"
 category: tadabbur
-arabic: "أَفَمَن زُيِّنَ لَهُۥ سُوٓءُ عَمَلِهِۦ فَرَءَاهُ حَسَنًا ۖ فَإِنَّ ٱللَّهَ يُضِلُّ مَن يَشَآءُ وَيَهْدِى مَن يَشَآءُ ۖ فَلَا تَذْهَبْ نَفْسُكَ عَلَيْهِمْ حَسَرَٰتٍ ۚ إِنَّ ٱللَّهَ عَلِيمٌۢ بِمَا يَصْنَعُونَ"
+arabic: "أَفَمَن زُيِّنَ لَهُۥ سُوٓءُ عَمَلِهِۦ فَرَءَاهُ حَسَنًا ۖ فَإِنَّ ٱللَّهَ يُضِلُّ مَن يَشَآءُ وَيَهْدِى مَن يَشَآءُ ۖ فَلَا تَذْهَبْ نَفْسُكَ عَلَيْهِمْ حَسَرَٰتٍ ۚ إِنَّ ٱللَّهَ عَلِيمٌۢ بِمَا يَصْنَعُونَ"
 translation: "Then — is the one whose evil deed has been made to appear beautiful to him, so that he sees it as good… ? Indeed, Allah lets go astray whom He wills and guides whom He wills. So do not let your soul be spent over them in regrets. Indeed, Allah is fully Knowing of what they craft."
 word_count: 25
 estimated_duration: "50-58 minutes"

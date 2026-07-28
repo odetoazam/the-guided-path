@@ -6,7 +6,7 @@ ayah_end: 30
 title: "The Messenger's Complaint: When the Quran is Abandoned"
 slug: "025-030"
 category: tadabbur
-arabic: "وَقَالَ ٱلرَّسُولُ يَـٰرَبِّ إِنَّ قَوْمِى ٱتَّخَذُوا۟ هَـٰذَا ٱلْقُرْءَانَ مَهْجُورًۭا"
+arabic: "وَقَالَ ٱلرَّسُولُ يَـٰرَبِّ إِنَّ قَوْمِى ٱتَّخَذُوا۟ هَـٰذَا ٱلْقُرْءَانَ مَهْجُورًا"
 translation: "And the Messenger will say, 'My Lord, indeed my people took this Quran as something abandoned.'"
 word_count: 9
 estimated_duration: "50-58 minutes"

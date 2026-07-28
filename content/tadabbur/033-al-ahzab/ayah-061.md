@@ -6,7 +6,7 @@ ayah_end: 61
 title: "The Geography of a Curse — When Speech Earns Its Echo"
 slug: "033-061"
 category: tadabbur
-arabic: "مَّلْعُونِينَ ۖ أَيْنَمَا ثُقِفُوٓا۟ أُخِذُوا۟ وَقُتِّلُوا۟ تَقْتِيلًۭا"
+arabic: "مَّلْعُونِينَ ۖ أَيْنَمَا ثُقِفُوٓا۟ أُخِذُوا۟ وَقُتِّلُوا۟ تَقْتِيلًا"
 translation: "Accursed — wherever they are encountered, they are seized and utterly put to death."
 word_count: 6
 estimated_duration: "48-54 minutes"

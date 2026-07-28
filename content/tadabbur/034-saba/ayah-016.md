@@ -6,7 +6,7 @@ ayah_end: 16
 title: "When the Dam Breaks: The Flood of 'Arim and the Mathematics of Withheld Gratitude"
 slug: "034-016"
 category: tadabbur
-arabic: "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍ وَأَثْلٍ وَشَىْءٍ مِّن سِدْرٍ قَلِيلٍ"
+arabic: "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍ وَأَثْلٍ وَشَىْءٍ مِّن سِدْرٍ قَلِيلٍ"
 translation: "But they turned away, so We sent upon them the flood of the dam, and We exchanged their two gardens for two gardens producing bitter fruit, tamarisks, and a little of lote trees."
 word_count: 16
 estimated_duration: "50-58 minutes"

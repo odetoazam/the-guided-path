@@ -6,7 +6,7 @@ ayah_end: 57
 title: "The Excuse That Hides the Fear: When Truth Is Refused for Safety"
 slug: "028-057"
 category: tadabbur
-arabic: "وَقَالُوٓا۟ إِن نَّتَّبِعِ ٱلْهُدَىٰ مَعَكَ نُتَخَطَّفْ مِنْ أَرْضِنَآ ۚ أَوَلَمْ نُمَكِّن لَّهُمْ حَرَمًا ءَامِنًا يُجْبَىٰٓ إِلَيْهِ ثَمَرَٰتُ كُلِّ شَىْءٍ رِّزْقًا مِّن لَّدُنَّا وَلَـٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ"
+arabic: "وَقَالُوٓا۟ إِن نَّتَّبِعِ ٱلْهُدَىٰ مَعَكَ نُتَخَطَّفْ مِنْ أَرْضِنَآ ۚ أَوَلَمْ نُمَكِّن لَّهُمْ حَرَمًا ءَامِنًا يُجْبَىٰٓ إِلَيْهِ ثَمَرَٰتُ كُلِّ شَىْءٍ رِّزْقًا مِّن لَّدُنَّا وَلَـٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ"
 translation: "And they said, 'If we follow the guidance with you, we will be snatched from our land.' Have We not established for them a safe sanctuary to which fruits of every kind are drawn — a provision from Us? But most of them do not know."
 word_count: 31
 estimated_duration: "50-58 minutes"

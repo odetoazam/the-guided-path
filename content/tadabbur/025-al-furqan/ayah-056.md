@@ -6,7 +6,7 @@ ayah_end: 56
 title: "The Job Description: Bringer of Good News, Warner — Nothing More"
 slug: "025-056"
 category: tadabbur
-arabic: "وَمَآ أَرْسَلْنَـٰكَ إِلَّا مُبَشِّرًۭا وَنَذِيرًۭا"
+arabic: "وَمَآ أَرْسَلْنَـٰكَ إِلَّا مُبَشِّرًا وَنَذِيرًا"
 translation: "And We have not sent you except as a bringer of good news and a warner."
 word_count: 6
 estimated_duration: "48-55 minutes"

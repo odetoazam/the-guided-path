@@ -6,7 +6,7 @@ ayah_end: 69
 title: "What the Chests Conceal: The God Who Sees Inside the Vault"
 slug: "028-069"
 category: tadabbur
-arabic: "وَرَبُّكَ يَعْلَمُ مَا تُكِنُّ صُدُورُهُمْ وَمَا يُعْلِنُونَ"
+arabic: "وَرَبُّكَ يَعْلَمُ مَا تُكِنُّ صُدُورُهُمْ وَمَا يُعْلِنُونَ"
 translation: "And your Lord knows what their chests conceal and what they declare openly."
 word_count: 8
 estimated_duration: "48-55 minutes"

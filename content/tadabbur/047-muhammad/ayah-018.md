@@ -6,7 +6,7 @@ ayah_end: 18
 title: "The Reminder That Arrives Too Late: Waiting for a Shock Already on Its Way"
 slug: "047-018"
 category: tadabbur
-arabic: "فَهَلْ يَنظُرُونَ إِلَّا ٱلسَّاعَةَ أَن تَأْتِيَهُم بَغْتَةً ۖ فَقَدْ جَآءَ أَشْرَاطُهَا ۚ فَأَنَّىٰ لَهُمْ إِذَا جَآءَتْهُمْ ذِكْرَىٰهُمْ"
+arabic: "فَهَلْ يَنظُرُونَ إِلَّا ٱلسَّاعَةَ أَن تَأْتِيَهُم بَغْتَةً ۖ فَقَدْ جَآءَ أَشْرَاطُهَا ۚ فَأَنَّىٰ لَهُمْ إِذَا جَآءَتْهُمْ ذِكْرَىٰهُمْ"
 translation: "So are they waiting for anything but the Hour — that it should come upon them suddenly? Its signs have already come. So how, when it has come upon them, will their remembrance avail them?"
 word_count: 15
 estimated_duration: "50-58 minutes"

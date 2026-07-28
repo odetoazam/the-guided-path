@@ -6,7 +6,7 @@ ayah_end: 29
 title: "The Man With Many Masters: Why the Divided Heart Can Never Rest"
 slug: "039-029"
 category: tadabbur
-arabic: "ضَرَبَ ٱللَّهُ مَثَلًا رَّجُلًا فِيهِ شُرَكَآءُ مُتَشَـٰكِسُونَ وَرَجُلًا سَلَمًا لِّرَجُلٍ هَلْ يَسْتَوِيَانِ مَثَلًاۚ ٱلْحَمْدُ لِلَّهِۚ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ"
+arabic: "ضَرَبَ ٱللَّهُ مَثَلًا رَّجُلًا فِيهِ شُرَكَآءُ مُتَشَـٰكِسُونَ وَرَجُلًا سَلَمًا لِّرَجُلٍ هَلْ يَسْتَوِيَانِ مَثَلًا ۚ ٱلْحَمْدُ لِلَّهِ ۚ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ"
 translation: "Allah sets forth a parable: a man owned by several partners quarreling with one another, and a man belonging wholly to one master — are the two equal in likeness? All praise belongs to Allah! But most of them do not know."
 word_count: 19
 estimated_duration: "50-58 minutes"

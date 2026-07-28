@@ -6,7 +6,7 @@ ayah_end: 44
 title: "The Piece of Sky They Called a Cloud: When the Heart Decides Before the Eye Sees"
 slug: "052-044"
 category: tadabbur
-arabic: "وَإِن يَرَوْا۟ كِسْفًۭا مِّنَ ٱلسَّمَآءِ سَاقِطًۭا يَقُولُوا۟ سَحَابٌۭ مَّرْكُومٌۭ"
+arabic: "وَإِن يَرَوْا۟ كِسْفًا مِّنَ ٱلسَّمَآءِ سَاقِطًا يَقُولُوا۟ سَحَابٌ مَّرْكُومٌ"
 translation: "And if they were to see a fragment falling from the sky, they would say, 'Heaped-up clouds.'"
 word_count: 9
 estimated_duration: "50-58 minutes"

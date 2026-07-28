@@ -6,7 +6,7 @@ ayah_end: 79
 slug: al-qasas-79-the-procession-and-the-ground-beneath
 category: tadabbur
 title: "The Man Inside His Adornment: When the Ground You Stand Over Opens Beneath You"
-arabic: "فَخَرَجَ عَلَىٰ قَوْمِهِۦ فِى زِينَتِهِۦ ۖ قَالَ ٱلَّذِينَ يُرِيدُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا يَـٰلَيْتَ لَنَا مِثْلَ مَآ أُوتِىَ قَـٰرُونُ إِنَّهُۥ لَذُو حَظٍّ عَظِيمٍ"
+arabic: "فَخَرَجَ عَلَىٰ قَوْمِهِۦ فِى زِينَتِهِۦ ۖ قَالَ ٱلَّذِينَ يُرِيدُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا يَـٰلَيْتَ لَنَا مِثْلَ مَآ أُوتِىَ قَـٰرُونُ إِنَّهُۥ لَذُو حَظٍّ عَظِيمٍ"
 translation: "So he went out before his people in his adornment. Those who desired the life of this world said, 'Oh, would that we had the like of what Qarun has been given. Indeed, he is one of great fortune.'"
 estimated_duration: "50-58 minutes"
 passage_context: "The Qarun narrative of Surah al-Qasas (28:76–82). Qarun, of Musa's own people, is given treasures so vast their very keys burden a band of strong men. His people counsel him against exultation; he answers that he earned it by his own knowledge (28:78). Verse 79 is the procession — the public display — and the crowd's response. It is immediately answered by the people of knowledge (28:80) and sealed by the earth swallowing him whole (28:81)."

@@ -6,7 +6,7 @@ ayah_end: 34
 title: "The Five Keys: Where Wisdom Ends and Unknowing Begins"
 slug: "031-034"
 category: tadabbur
-arabic: "إِنَّ ٱللَّهَ عِندَهُۥ عِلْمُ ٱلسَّاعَةِ وَيُنَزِّلُ ٱلْغَيْثَ وَيَعْلَمُ مَا فِى ٱلْأَرْحَامِ ۖ وَمَا تَدْرِى نَفْسٌۭ مَّاذَا تَكْسِبُ غَدًۭا ۖ وَمَا تَدْرِى نَفْسٌۢ بِأَىِّ أَرْضٍۢ تَمُوتُ ۚ إِنَّ ٱللَّهَ عَلِيمٌ خَبِيرٌۢ"
+arabic: "إِنَّ ٱللَّهَ عِندَهُۥ عِلْمُ ٱلسَّاعَةِ وَيُنَزِّلُ ٱلْغَيْثَ وَيَعْلَمُ مَا فِى ٱلْأَرْحَامِ ۖ وَمَا تَدْرِى نَفْسٌ مَّاذَا تَكْسِبُ غَدًا ۖ وَمَا تَدْرِى نَفْسٌۢ بِأَىِّ أَرْضٍ تَمُوتُ ۚ إِنَّ ٱللَّهَ عَلِيمٌ خَبِيرٌۢ"
 translation: "Indeed, with Allah alone is the knowledge of the Hour. He sends down the relieving rain. He knows what is in the wombs. And no soul has any inkling of what it will earn tomorrow, and no soul has any inkling of in what land it will die. Indeed, Allah is All-Knowing, Inwardly-Aware."
 word_count: 30
 estimated_duration: "50-58 minutes"

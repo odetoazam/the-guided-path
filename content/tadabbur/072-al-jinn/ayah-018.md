@@ -6,7 +6,7 @@ ayah_end: 18
 title: "The Ground You Touch Belongs to Him Alone"
 slug: "072-018"
 category: tadabbur
-arabic: "وَأَنَّ ٱلْمَسَٰجِدَ لِلَّهِ فَلَا تَدْعُوا۟ مَعَ ٱللَّهِ أَحَدًا"
+arabic: "وَأَنَّ ٱلْمَسَـٰجِدَ لِلَّهِ فَلَا تَدْعُوا۟ مَعَ ٱللَّهِ أَحَدًا"
 translation: "And that the places of prostration belong to Allah, so do not call upon anyone alongside Allah."
 word_count: 8
 estimated_duration: "50-58 minutes"

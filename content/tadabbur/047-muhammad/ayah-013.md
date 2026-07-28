@@ -6,7 +6,7 @@ ayah_end: 13
 title: "The Town That Cast You Out — and the Ruins That Were Stronger"
 slug: "047-013"
 category: tadabbur
-arabic: "وَكَأَيِّن مِّن قَرْيَةٍ هِيَ أَشَدُّ قُوَّةً مِّن قَرْيَتِكَ ٱلَّتِىٓ أَخْرَجَتْكَ أَهْلَكْنَٰهُمْ فَلَا نَاصِرَ لَهُمْ"
+arabic: "وَكَأَيِّن مِّن قَرْيَةٍ هِىَ أَشَدُّ قُوَّةً مِّن قَرْيَتِكَ ٱلَّتِىٓ أَخْرَجَتْكَ أَهْلَكْنَـٰهُمْ فَلَا نَاصِرَ لَهُمْ"
 translation: "And how many a town — far stronger in power than your town which has driven you out — have We destroyed, and there was no helper for them."
 word_count: 13
 estimated_duration: "50-58 minutes"

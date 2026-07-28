@@ -6,7 +6,7 @@ ayah_end: 5
 title: "Like Eaten Chaff: When the Husk Mistook Itself for the Grain"
 slug: "105-005"
 category: tadabbur
-arabic: "فَجَعَلَهُمْ كَعَصْفٍۢ مَّأْكُولٍۭ"
+arabic: "فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍۭ"
 translation: "Then He made them like eaten chaff."
 word_count: 3
 estimated_duration: "50-58 minutes"

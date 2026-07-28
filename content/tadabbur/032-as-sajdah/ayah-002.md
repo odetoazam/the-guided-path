@@ -6,7 +6,7 @@ ayah_end: 2
 title: "The Signature: Why Allah Opens with a Claim, Not an Argument"
 slug: "032-002"
 category: tadabbur
-arabic: "تَنزِيلُ ٱلْكِتَـٰبِ لَا رَيْبَ فِيهِ مِن رَّبِّ ٱلْعَـٰلَمِينَ"
+arabic: "تَنزِيلُ ٱلْكِتَـٰبِ لَا رَيْبَ فِيهِ مِن رَّبِّ ٱلْعَـٰلَمِينَ"
 translation: "The sending down of the Book — no doubt in it — is from the Lord of all the worlds."
 word_count: 7
 estimated_duration: "50-55 minutes"

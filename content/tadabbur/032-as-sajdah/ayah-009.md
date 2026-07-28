@@ -6,7 +6,7 @@ ayah_end: 9
 title: "The Breath, the Hearing, the Sight, the Hearts — And Still So Little Thanks"
 slug: "032-009"
 category: tadabbur
-arabic: "ثُمَّ سَوَّىٰهُ وَنَفَخَ فِيهِ مِن رُّوحِهِۦ ۖ وَجَعَلَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَـٰرَ وَٱلْأَفْـِٔدَةَ ۚ قَلِيلًا مَّا تَشْكُرُونَ"
+arabic: "ثُمَّ سَوَّىٰهُ وَنَفَخَ فِيهِ مِن رُّوحِهِۦ ۖ وَجَعَلَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَـٰرَ وَٱلْأَفْـِٔدَةَ ۚ قَلِيلًا مَّا تَشْكُرُونَ"
 translation: "Then He proportioned him and breathed into him from His [own] spirit, and made for you hearing and sight and hearts — little is the thanks you give."
 word_count: 14
 estimated_duration: "48-55 minutes"

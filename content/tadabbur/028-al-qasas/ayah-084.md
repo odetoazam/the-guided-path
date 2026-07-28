@@ -6,7 +6,7 @@ ayah_end: 84
 title: "The Asymmetry of the Scales: When Allah Refuses to Be Fair the Way We Are"
 slug: "028-084"
 category: tadabbur
-arabic: "مَن جَآءَ بِٱلْحَسَنَةِ فَلَهُۥ خَيْرٌ مِّنْهَا ۖ وَمَن جَآءَ بِٱلسَّيِّئَةِ فَلَا يُجْزَى ٱلَّذِينَ عَمِلُوا۟ ٱلسَّيِّـَٔاتِ إِلَّا مَا كَانُوا۟ يَعْمَلُونَ"
+arabic: "مَن جَآءَ بِٱلْحَسَنَةِ فَلَهُۥ خَيْرٌ مِّنْهَا ۖ وَمَن جَآءَ بِٱلسَّيِّئَةِ فَلَا يُجْزَى ٱلَّذِينَ عَمِلُوا۟ ٱلسَّيِّـَٔاتِ إِلَّا مَا كَانُوا۟ يَعْمَلُونَ"
 translation: "Whoever comes with a good deed will have something better than it. And whoever comes with an evil deed — those who did evil deeds will not be recompensed except for what they used to do."
 word_count: 24
 estimated_duration: "50-55 minutes"

@@ -6,7 +6,7 @@ ayah_end: 13
 title: "He Owns the Dominion, They Don't Own a Date-Skin"
 slug: "035-013"
 category: tadabbur
-arabic: "يُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَيُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ وَسَخَّرَ ٱلشَّمْسَ وَٱلْقَمَرَ كُلٌّ يَجْرِى لِأَجَلٍ مُّسَمًّى ۚ ذَٰلِكُمُ ٱللَّهُ رَبُّكُمْ لَهُ ٱلْمُلْكُ ۚ وَٱلَّذِينَ تَدْعُونَ مِن دُونِهِۦ مَا يَمْلِكُونَ مِن قِطْمِيرٍ"
+arabic: "يُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَيُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ وَسَخَّرَ ٱلشَّمْسَ وَٱلْقَمَرَ كُلٌّ يَجْرِى لِأَجَلٍ مُّسَمًّى ۚ ذَٰلِكُمُ ٱللَّهُ رَبُّكُمْ لَهُ ٱلْمُلْكُ ۚ وَٱلَّذِينَ تَدْعُونَ مِن دُونِهِۦ مَا يَمْلِكُونَ مِن قِطْمِيرٍ"
 translation: "He causes the night to enter into the day, and He causes the day to enter into the night, and He has harnessed the sun and the moon — each running for an appointed term. That is Allah, your Lord; to Him belongs the dominion. And those whom you call upon besides Him do not possess [so much as] the thin skin on a date-stone."
 word_count: 28
 estimated_duration: "50-58 minutes"

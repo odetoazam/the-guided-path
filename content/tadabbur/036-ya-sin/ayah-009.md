@@ -6,7 +6,7 @@ ayah_end: 9
 title: "The Two Walls and the Veil: When Refusal Hardens Into Blindness"
 slug: "036-009"
 category: tadabbur
-arabic: "وَجَعَلْنَا مِنۢ بَيْنِ أَيْدِيهِمْ سَدًّا وَمِنْ خَلْفِهِمْ سَدًّا فَأَغْشَيْنَـٰهُمْ فَهُمْ لَا يُبْصِرُونَ"
+arabic: "وَجَعَلْنَا مِنۢ بَيْنِ أَيْدِيهِمْ سَدًّا وَمِنْ خَلْفِهِمْ سَدًّا فَأَغْشَيْنَـٰهُمْ فَهُمْ لَا يُبْصِرُونَ"
 translation: "And We have placed before them a barrier and behind them a barrier, and We covered them over, so they do not see."
 word_count: 12
 estimated_duration: "50-58 minutes"

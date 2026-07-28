@@ -6,7 +6,7 @@ ayah_end: 55
 title: "Follow the Best of It: The Open Door and the Closing Window"
 slug: "039-055"
 category: tadabbur
-arabic: "وَٱتَّبِعُوٓاْ أَحْسَنَ مَآ أُنزِلَ إِلَيْكُم مِّن رَّبِّكُم مِّن قَبْلِ أَن يَأْتِيَكُمُ ٱلْعَذَابُ بَغْتَةً وَأَنتُمْ لَا تَشْعُرُونَ"
+arabic: "وَٱتَّبِعُوٓا۟ أَحْسَنَ مَآ أُنزِلَ إِلَيْكُم مِّن رَّبِّكُم مِّن قَبْلِ أَن يَأْتِيَكُمُ ٱلْعَذَابُ بَغْتَةً وَأَنتُمْ لَا تَشْعُرُونَ"
 translation: "And follow the best of what has been sent down to you from your Lord, before the punishment comes upon you suddenly, while you do not perceive it."
 word_count: 14
 estimated_duration: "50-58 minutes"

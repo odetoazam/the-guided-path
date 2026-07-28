@@ -6,7 +6,7 @@ ayah_end: 19
 title: "The Bracket of Knowing: When You Know Him and He Knows You"
 slug: "047-019"
 category: tadabbur
-arabic: "فَٱعْلَمْ أَنَّهُۥ لَآ إِلَٰهَ إِلَّا ٱللَّهُ وَٱسْتَغْفِرْ لِذَنۢبِكَ وَلِلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِۗ وَٱللَّهُ يَعْلَمُ مُتَقَلَّبَكُمْ وَمَثْوَىٰكُمْ"
+arabic: "فَٱعْلَمْ أَنَّهُۥ لَآ إِلَـٰهَ إِلَّا ٱللَّهُ وَٱسْتَغْفِرْ لِذَنۢبِكَ وَلِلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ ۗ وَٱللَّهُ يَعْلَمُ مُتَقَلَّبَكُمْ وَمَثْوَىٰكُمْ"
 translation: "So know that there is no god but Allah, and ask forgiveness for your sin and for the believing men and the believing women. And Allah knows your movement and your resting place."
 word_count: 14
 estimated_duration: "50-58 minutes"

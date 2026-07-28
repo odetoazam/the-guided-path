@@ -6,7 +6,7 @@ ayah_end: 15
 title: "Two Gardens, One Command: The Sign That Was Sabaʾ"
 slug: "034-015"
 category: tadabbur
-arabic: "لَقَدْ كَانَ لِسَبَإٍ فِى مَسْكَنِهِمْ ءَايَةٌ ۖ جَنَّتَانِ عَن يَمِينٍ وَشِمَالٍ ۖ كُلُوا۟ مِن رِّزْقِ رَبِّكُمْ وَٱشْكُرُوا۟ لَهُۥ ۚ بَلْدَةٌ طَيِّبَةٌ وَرَبٌّ غَفُورٌ"
+arabic: "لَقَدْ كَانَ لِسَبَإٍ فِى مَسْكَنِهِمْ ءَايَةٌ ۖ جَنَّتَانِ عَن يَمِينٍ وَشِمَالٍ ۖ كُلُوا۟ مِن رِّزْقِ رَبِّكُمْ وَٱشْكُرُوا۟ لَهُۥ ۚ بَلْدَةٌ طَيِّبَةٌ وَرَبٌّ غَفُورٌ"
 translation: "Certainly there was for Sabaʾ in their dwelling place a sign: two gardens on the right and on the left. Eat from the provision of your Lord and be grateful to Him. A good land, and a Forgiving Lord."
 word_count: 20
 estimated_duration: "50-55 minutes"

@@ -6,7 +6,7 @@ ayah_end: 3
 title: "The Insult That Boomeranged: How Allah Turned 'Cut Off' Against the One Who Threw It"
 slug: "108-003"
 category: tadabbur
-arabic: "إِنَّ شَانِئَكَ هُوَ ٱلْأَبْتَرُ"
+arabic: "إِنَّ شَانِئَكَ هُوَ ٱلْأَبْتَرُ"
 translation: "Indeed, it is the one who hates you — he is the one cut off."
 word_count: 4
 estimated_duration: "48-58 minutes"

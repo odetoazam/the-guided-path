@@ -6,7 +6,7 @@ ayah_end: 124
 title: "Some of the Deeds, None of the Reward: The Two Directions of Mercy"
 slug: "004-124"
 category: tadabbur
-arabic: "وَمَن يَعْمَلْ مِنَ ٱلصَّـٰلِحَـٰتِ مِن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌ فَأُوْلَـٰٓئِكَ يَدْخُلُونَ ٱلْجَنَّةَ وَلَا يُظْلَمُونَ نَقِيرًا"
+arabic: "وَمَن يَعْمَلْ مِنَ ٱلصَّـٰلِحَـٰتِ مِن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌ فَأُو۟لَـٰٓئِكَ يَدْخُلُونَ ٱلْجَنَّةَ وَلَا يُظْلَمُونَ نَقِيرًا"
 translation: "And whoever does righteous deeds, whether male or female, while being a believer — those will enter Paradise, and they will not be wronged so much as the speck on a date-seed."
 word_count: 16
 estimated_duration: "48-59 minutes"

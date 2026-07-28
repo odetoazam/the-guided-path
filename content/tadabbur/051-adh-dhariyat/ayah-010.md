@@ -6,7 +6,7 @@ ayah_end: 10
 title: "Cursed Be the Conjecturers: On Fabricated Certainty and the Cosmic Order"
 slug: "051-010"
 category: tadabbur
-arabic: "قُتِلَ ٱلْخَرَّٰصُونَ"
+arabic: "قُتِلَ ٱلْخَرَّٰصُونَ"
 translation: "Cursed be the conjecturers."
 word_count: 4100
 estimated_duration: "47-55 minutes"

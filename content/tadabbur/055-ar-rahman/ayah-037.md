@@ -6,7 +6,7 @@ ayah_end: 37
 title: "When the Sky Becomes a Rose: The Solid World Melting in the Language of Mercy"
 slug: "055-037"
 category: tadabbur
-arabic: "فَإِذَا ٱنشَقَّتِ ٱلسَّمَآءُ فَكَانَتْ وَرْدَةً كَٱلدِّهَانِ"
+arabic: "فَإِذَا ٱنشَقَّتِ ٱلسَّمَآءُ فَكَانَتْ وَرْدَةً كَٱلدِّهَانِ"
 translation: "Then when the sky is split open and becomes rose-red, like molten oil—"
 word_count: 6
 estimated_duration: "50-58 minutes"

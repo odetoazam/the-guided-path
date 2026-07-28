@@ -6,7 +6,7 @@ ayah_end: 62
 title: "The Capacity Measured by Allah, the Book That Speaks"
 slug: "023-062"
 category: tadabbur
-arabic: "وَلَا نُكَلِّفُ نَفْسًا إِلَّا وُسْعَهَا ۖ وَلَدَيْنَا كِتَابٌ يَنطِقُ بِٱلْحَقِّ ۚ وَهُمْ لَا يُظْلَمُونَ"
+arabic: "وَلَا نُكَلِّفُ نَفْسًا إِلَّا وُسْعَهَا ۖ وَلَدَيْنَا كِتَـٰبٌ يَنطِقُ بِٱلْحَقِّ ۚ وَهُمْ لَا يُظْلَمُونَ"
 translation: "And We do not burden any soul except by what fits its capacity. And with Us is a Book that articulates the truth. And they will not be wronged."
 word_count: 14
 estimated_duration: "50-55 minutes"

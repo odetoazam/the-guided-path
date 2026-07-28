@@ -6,7 +6,7 @@ ayah_end: 36
 title: "The One House: When Heaven Searches a City and Finds a Single Door"
 slug: "051-036"
 category: tadabbur
-arabic: "فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍ مِّنَ ٱلْمُسْلِمِينَ"
+arabic: "فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍ مِّنَ ٱلْمُسْلِمِينَ"
 translation: "But We did not find therein other than a single household of those who had submitted to God."
 word_count: 7
 estimated_duration: "50-58 minutes"

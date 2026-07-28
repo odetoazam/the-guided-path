@@ -6,7 +6,7 @@ ayah_end: 52
 title: "Engraved in Iron: Why Nothing You Do Can Ever Un-Happen"
 slug: "054-052"
 category: tadabbur
-arabic: "وَكُلُّ شَىْءٍ فَعَلُوهُ فِى ٱلزُّبُرِ"
+arabic: "وَكُلُّ شَىْءٍ فَعَلُوهُ فِى ٱلزُّبُرِ"
 translation: "And everything they did is in the written records."
 word_count: 4900
 estimated_duration: "48-55 minutes"

@@ -6,7 +6,7 @@ ayah_end: 75
 title: "The Witness From Every Nation — When the Argument Vanishes"
 slug: "028-075"
 category: tadabbur
-arabic: "وَنَزَعْنَا مِن كُلِّ أُمَّةٍ شَهِيدًا فَقُلْنَا هَاتُوا بُرْهَانَكُمْ فَعَلِمُوا أَنَّ الْحَقَّ لِلَّهِ وَضَلَّ عَنْهُم مَّا كَانُوا يَفْتَرُونَ"
+arabic: "وَنَزَعْنَا مِن كُلِّ أُمَّةٍ شَهِيدًا فَقُلْنَا هَاتُوا۟ بُرْهَـٰنَكُمْ فَعَلِمُوٓا۟ أَنَّ ٱلْحَقَّ لِلَّهِ وَضَلَّ عَنْهُم مَّا كَانُوا۟ يَفْتَرُونَ"
 translation: "And We will draw forth from every nation a witness, and We will say: 'Bring your proof.' Then they will know that the truth belongs to Allah, and what they used to fabricate will have wandered away from them."
 word_count: 18
 estimated_duration: "50-55 minutes"

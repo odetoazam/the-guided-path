@@ -6,7 +6,7 @@ ayah_end: 9
 title: "The Crowd of Protectors and the One Who Reaches the Grave"
 slug: "042-009"
 category: tadabbur
-arabic: "أَمِ ٱتَّخَذُوا۟ مِن دُونِهِۦٓ أَوْلِيَآءَ ۖ فَٱللَّهُ هُوَ ٱلْوَلِىُّ وَهُوَ يُحْىِ ٱلْمَوْتَىٰ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ"
+arabic: "أَمِ ٱتَّخَذُوا۟ مِن دُونِهِۦٓ أَوْلِيَآءَ ۖ فَٱللَّهُ هُوَ ٱلْوَلِىُّ وَهُوَ يُحْىِ ٱلْمَوْتَىٰ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ"
 translation: "Or have they taken protectors besides Him? But Allah — He alone is the Protector, and He gives life to the dead, and He is over all things All-Powerful."
 word_count: 16
 estimated_duration: "50-58 minutes"

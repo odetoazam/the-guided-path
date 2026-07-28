@@ -6,7 +6,7 @@ ayah_end: 87
 title: "The Distance They Chose: Recompense, the Curse, and the Door Left Open"
 slug: "003-087"
 category: tadabbur
-arabic: "أُو۟لَـٰٓئِكَ جَزَآؤُهُمْ أَنَّ عَلَيْهِمْ لَعْنَةَ ٱللَّهِ وَٱلْمَلَـٰٓئِكَةِ وَٱلنَّاسِ أَجْمَعِينَ"
+arabic: "أُو۟لَـٰٓئِكَ جَزَآؤُهُمْ أَنَّ عَلَيْهِمْ لَعْنَةَ ٱللَّهِ وَٱلْمَلَـٰٓئِكَةِ وَٱلنَّاسِ أَجْمَعِينَ"
 translation: "Those — their recompense is that upon them rests the curse of Allah, and of the angels, and of all people together."
 word_count: 9
 estimated_duration: "50-56 minutes"

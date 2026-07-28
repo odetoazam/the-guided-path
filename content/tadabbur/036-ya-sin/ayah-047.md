@@ -6,7 +6,7 @@ ayah_end: 47
 title: "The Piety That Withholds: When Divine Will Becomes an Excuse"
 slug: "036-047"
 category: tadabbur
-arabic: "وَإِذَا قِيلَ لَهُمْ أَنفِقُوا۟ مِمَّا رَزَقَكُمُ ٱللَّهُ قَالَ ٱلَّذِينَ كَفَرُوا۟ لِلَّذِينَ ءَامَنُوٓا۟ أَنُطْعِمُ مَن لَّوْ يَشَآءُ ٱللَّهُ أَطْعَمَهُۥٓ إِنْ أَنتُمْ إِلَّا فِى ضَلَـٰلٍ مُّبِينٍ"
+arabic: "وَإِذَا قِيلَ لَهُمْ أَنفِقُوا۟ مِمَّا رَزَقَكُمُ ٱللَّهُ قَالَ ٱلَّذِينَ كَفَرُوا۟ لِلَّذِينَ ءَامَنُوٓا۟ أَنُطْعِمُ مَن لَّوْ يَشَآءُ ٱللَّهُ أَطْعَمَهُۥٓ إِنْ أَنتُمْ إِلَّا فِى ضَلَـٰلٍ مُّبِينٍ"
 translation: "And when it is said to them, 'Spend from that which Allah has provided you,' those who disbelieve say to those who believe, 'Should we feed one whom, if Allah had willed, He would have fed? You are in nothing but clear error.'"
 word_count: 24
 estimated_duration: "50-58 minutes"

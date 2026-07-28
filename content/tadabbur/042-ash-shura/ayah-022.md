@@ -6,7 +6,7 @@ ayah_end: 22
 title: "The Fear That Already Arrived: Earning, Dread, and the Bounty Money Cannot Buy"
 slug: "042-022"
 category: tadabbur
-arabic: "تَرَى ٱلظَّـٰلِمِينَ مُشْفِقِينَ مِمَّا كَسَبُوا۟ وَهُوَ وَاقِعٌۢ بِهِمْ ۗ وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ فِى رَوْضَاتِ ٱلْجَنَّاتِ ۖ لَهُم مَّا يَشَآءُونَ عِندَ رَبِّهِمْ ۚ ذَٰلِكَ هُوَ ٱلْفَضْلُ ٱلْكَبِيرُ"
+arabic: "تَرَى ٱلظَّـٰلِمِينَ مُشْفِقِينَ مِمَّا كَسَبُوا۟ وَهُوَ وَاقِعٌۢ بِهِمْ ۗ وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ فِى رَوْضَاتِ ٱلْجَنَّاتِ ۖ لَهُم مَّا يَشَآءُونَ عِندَ رَبِّهِمْ ۚ ذَٰلِكَ هُوَ ٱلْفَضْلُ ٱلْكَبِيرُ"
 translation: "You will see the wrongdoers fearful of what they earned, and it is befalling them. And those who believed and did righteous deeds will be in the lush meadows of the Gardens. For them is whatever they wish, with their Lord. That — that alone — is the great bounty."
 word_count: 1850
 estimated_duration: "50-58 minutes"

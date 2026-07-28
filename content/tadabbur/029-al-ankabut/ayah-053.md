@@ -6,7 +6,7 @@ ayah_end: 53
 title: "The Hastening That Mistakes Delay for Absence"
 slug: "029-053"
 category: tadabbur
-arabic: "وَيَسْتَعْجِلُونَكَ بِالْعَذَابِ ۚ وَلَوْلَآ أَجَلٌ مُّسَمًّى لَّجَآءَهُمُ ٱلْعَذَابُ وَلَيَأْتِيَنَّهُم بَغْتَةً وَهُمْ لَا يَشْعُرُونَ"
+arabic: "وَيَسْتَعْجِلُونَكَ بِٱلْعَذَابِ ۚ وَلَوْلَآ أَجَلٌ مُّسَمًّى لَّجَآءَهُمُ ٱلْعَذَابُ وَلَيَأْتِيَنَّهُم بَغْتَةً وَهُمْ لَا يَشْعُرُونَ"
 translation: "And they ask you to hasten the punishment. Were it not for an appointed term, the punishment would already have come to them. And it will surely come upon them suddenly, while they do not perceive."
 word_count: 28
 estimated_duration: "50-55 minutes"

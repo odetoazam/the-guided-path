@@ -6,7 +6,7 @@ ayah_end: 6
 title: "The One Who Strives Strives Only For Himself: Why Allah Is Free Of All The Worlds"
 slug: "029-006"
 category: tadabbur
-arabic: "وَمَن جَٰهَدَ فَإِنَّمَا يُجَٰهِدُ لِنَفْسِهِۦۚ إِنَّ ٱللَّهَ لَغَنِىٌّ عَنِ ٱلْعَٰلَمِينَ"
+arabic: "وَمَن جَـٰهَدَ فَإِنَّمَا يُجَـٰهِدُ لِنَفْسِهِۦٓ ۚ إِنَّ ٱللَّهَ لَغَنِىٌّ عَنِ ٱلْعَـٰلَمِينَ"
 translation: "And whoever strives — strives only for himself. Indeed, Allah is free of need from all the worlds."
 word_count: 11
 estimated_duration: "48-55 minutes"

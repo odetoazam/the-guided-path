@@ -6,7 +6,7 @@ ayah_end: 24
 title: "The Lightning That Splits Fear and Longing"
 slug: "030-024"
 category: tadabbur
-arabic: "وَمِنْ آيَاتِهِ يُرِيكُمُ الْبَرْقَ خَوْفًا وَطَمَعًا وَيُنَزِّلُ مِنَ السَّمَاءِ مَاءً فَيُحْيِي بِهِ الْأَرْضَ بَعْدَ مَوْتِهَا ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِّقَوْمٍ يَعْقِلُونَ"
+arabic: "وَمِنْ ءَايَـٰتِهِۦ يُرِيكُمُ ٱلْبَرْقَ خَوْفًا وَطَمَعًا وَيُنَزِّلُ مِنَ ٱلسَّمَآءِ مَآءً فَيُحْىِۦ بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَآ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّقَوْمٍ يَعْقِلُونَ"
 translation: "And among His signs is that He shows you the lightning, causing fear and hope, and He sends down from the sky water, then revives the earth by it after its death. Indeed in that are signs for a people who reason."
 word_count: 28
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 10
 title: "The Reward Without a Ledger: When Allah Puts Away the Scales"
 slug: "039-010"
 category: tadabbur
-arabic: "قُلْ يَٰعِبَادِ ٱلَّذِينَ ءَامَنُواْ ٱتَّقُواْ رَبَّكُمْ ۚ لِلَّذِينَ أَحْسَنُواْ فِى هَٰذِهِ ٱلدُّنْيَا حَسَنَةٌ ۗ وَأَرْضُ ٱللَّهِ وَٰسِعَةٌ ۗ إِنَّمَا يُوَفَّى ٱلصَّٰبِرُونَ أَجْرَهُم بِغَيْرِ حِسَابٍ"
+arabic: "قُلْ يَـٰعِبَادِ ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ رَبَّكُمْ ۚ لِلَّذِينَ أَحْسَنُوا۟ فِى هَـٰذِهِ ٱلدُّنْيَا حَسَنَةٌ ۗ وَأَرْضُ ٱللَّهِ وَٰسِعَةٌ ۗ إِنَّمَا يُوَفَّى ٱلصَّـٰبِرُونَ أَجْرَهُم بِغَيْرِ حِسَابٍ"
 translation: "Say, 'O My servants who have believed, be conscious of your Lord. For those who do good in this world is good, and the earth of Allah is spacious. Indeed, the patient will be paid their reward in full — without measure.'"
 word_count: 21
 estimated_duration: "50-58 minutes"

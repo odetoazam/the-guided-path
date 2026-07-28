@@ -6,7 +6,7 @@ ayah_end: 26
 title: "The Place Was Sacred Before the House Was Built"
 slug: "022-026"
 category: tadabbur
-arabic: "وَإِذْ بَوَّأْنَا لِإِبْرَاهِيمَ مَكَانَ الْبَيْتِ أَن لَّا تُشْرِكْ بِي شَيْئًا وَطَهِّرْ بَيْتِيَ لِلطَّائِفِينَ وَالْقَائِمِينَ وَالرُّكَّعِ السُّجُودِ"
+arabic: "وَإِذْ بَوَّأْنَا لِإِبْرَٰهِيمَ مَكَانَ ٱلْبَيْتِ أَن لَّا تُشْرِكْ بِى شَيْـًٔا وَطَهِّرْ بَيْتِىَ لِلطَّآئِفِينَ وَٱلْقَآئِمِينَ وَٱلرُّكَّعِ ٱلسُّجُودِ"
 translation: "And [remember] when We designated for Abraham the site of the House, [commanding him]: 'Do not associate anything with Me, and purify My House for those who circle it, and those who stand, and those who bow and prostrate.'"
 word_count: 16
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 34
 title: "The Houses Where Revelation Lived: On Being Quietly Chosen"
 slug: "033-034"
 category: tadabbur
-arabic: "وَاذْكُرْنَ مَا يُتْلَىٰ فِي بُيُوتِكُنَّ مِنْ آيَاتِ اللَّهِ وَالْحِكْمَةِ ۚ إِنَّ اللَّهَ كَانَ لَطِيفًا خَبِيرًا"
+arabic: "وَٱذْكُرْنَ مَا يُتْلَىٰ فِى بُيُوتِكُنَّ مِنْ ءَايَـٰتِ ٱللَّهِ وَٱلْحِكْمَةِ ۚ إِنَّ ٱللَّهَ كَانَ لَطِيفًا خَبِيرًا"
 translation: "And remember what is recited in your houses of the verses of Allah and wisdom. Indeed, Allah is ever Subtle, Intimately Acquainted."
 word_count: 13
 estimated_duration: "50-58 minutes"

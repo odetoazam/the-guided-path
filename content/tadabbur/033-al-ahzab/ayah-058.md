@@ -6,7 +6,7 @@ ayah_end: 58
 title: "The Weight They Carry: When Words Become a Load on the Soul"
 slug: "033-058"
 category: tadabbur
-arabic: "وَٱلَّذِينَ يُؤْذُونَ ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ بِغَيْرِ مَا ٱكْتَسَبُواْ فَقَدِ ٱحْتَمَلُواْ بُهْتَـٰنًا وَإِثْمًا مُّبِينًا"
+arabic: "وَٱلَّذِينَ يُؤْذُونَ ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ بِغَيْرِ مَا ٱكْتَسَبُوا۟ فَقَدِ ٱحْتَمَلُوا۟ بُهْتَـٰنًا وَإِثْمًا مُّبِينًا"
 translation: "And those who harm the believing men and the believing women for other than what they have earned — they have indeed borne the burden of slander and a manifest sin."
 word_count: 12
 estimated_duration: "48-55 minutes"

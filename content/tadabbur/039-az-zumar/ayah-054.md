@@ -6,7 +6,7 @@ ayah_end: 54
 title: "Before the Door Closes: The Turning, the Surrender, and the Hand That Will Not Come"
 slug: "039-054"
 category: tadabbur
-arabic: "وَأَنِيبُوٓاْ إِلَىٰ رَبِّكُمْ وَأَسْلِمُواْ لَهُۥ مِن قَبْلِ أَن يَأْتِيَكُمُ ٱلْعَذَابُ ثُمَّ لَا تُنصَرُونَ"
+arabic: "وَأَنِيبُوٓا۟ إِلَىٰ رَبِّكُمْ وَأَسْلِمُوا۟ لَهُۥ مِن قَبْلِ أَن يَأْتِيَكُمُ ٱلْعَذَابُ ثُمَّ لَا تُنصَرُونَ"
 translation: "And turn back to your Lord and surrender yourselves to Him, before the punishment comes upon you — for then you will not be helped."
 word_count: 13
 estimated_duration: "50-58 minutes"

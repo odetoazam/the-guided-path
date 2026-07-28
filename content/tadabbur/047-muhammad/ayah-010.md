@@ -6,7 +6,7 @@ ayah_end: 10
 title: "The Unvisited Graveyard: When Ruins Become a Mirror"
 slug: "047-010"
 category: tadabbur
-arabic: "۞ أَفَلَمْ يَسِيرُوا۟ فِى ٱلْأَرْضِ فَيَنظُرُوا۟ كَيْفَ كَانَ عَـٰقِبَةُ ٱلَّذِينَ مِن قَبْلِهِمْ ۚ دَمَّرَ ٱللَّهُ عَلَيْهِمْ ۖ وَلِلْكَـٰفِرِينَ أَمْثَـٰلُهَا"
+arabic: "۞ أَفَلَمْ يَسِيرُوا۟ فِى ٱلْأَرْضِ فَيَنظُرُوا۟ كَيْفَ كَانَ عَـٰقِبَةُ ٱلَّذِينَ مِن قَبْلِهِمْ ۚ دَمَّرَ ٱللَّهُ عَلَيْهِمْ ۖ وَلِلْكَـٰفِرِينَ أَمْثَـٰلُهَا"
 translation: "Have they not, then, traveled through the land and seen how was the end of those before them? Allah brought utter destruction down upon them — and for the disbelievers there are likenesses of it."
 word_count: 16
 estimated_duration: "50-58 minutes"

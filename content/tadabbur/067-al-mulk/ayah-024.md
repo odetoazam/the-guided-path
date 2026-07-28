@@ -6,7 +6,7 @@ ayah_end: 24
 title: "Scattered Like Seed, Gathered to One Point: The Arc Between ذَرَأَ and تُحْشَرُونَ"
 slug: "067-024"
 category: tadabbur
-arabic: "قُلْ هُوَ ٱلَّذِى ذَرَأَكُمْ فِى ٱلْأَرْضِ وَإِلَيْهِ تُحْشَرُونَ"
+arabic: "قُلْ هُوَ ٱلَّذِى ذَرَأَكُمْ فِى ٱلْأَرْضِ وَإِلَيْهِ تُحْشَرُونَ"
 translation: "Say, 'He is the One who scattered you across the earth, and to Him you will be gathered.'"
 word_count: 8
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 21
 title: "The Authority He Never Had: Why Iblis Cannot Force You"
 slug: "034-021"
 category: tadabbur
-arabic: "وَمَا كَانَ لَهُۥ عَلَيْهِم مِّن سُلْطَـٰنٍ إِلَّا لِنَعْلَمَ مَن يُؤْمِنُ بِٱلْـَٔاخِرَةِ مِمَّنْ هُوَ مِنْهَا فِى شَكٍّۚ وَرَبُّكَ عَلَىٰ كُلِّ شَىْءٍ حَفِيظٌ"
+arabic: "وَمَا كَانَ لَهُۥ عَلَيْهِم مِّن سُلْطَـٰنٍ إِلَّا لِنَعْلَمَ مَن يُؤْمِنُ بِٱلْـَٔاخِرَةِ مِمَّنْ هُوَ مِنْهَا فِى شَكٍّ ۗ وَرَبُّكَ عَلَىٰ كُلِّ شَىْءٍ حَفِيظٌ"
 translation: "And he had no authority over them — except that We might distinguish the one who believes in the Hereafter from the one who, about it, is in doubt. And your Lord is, over all things, a Guardian."
 word_count: 21
 estimated_duration: "50-58 minutes"

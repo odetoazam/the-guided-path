@@ -6,7 +6,7 @@ ayah_end: 5
 title: "The Hidden Circulation: How Allah Arranges Every Affair from Heaven to Earth"
 slug: "032-005"
 category: tadabbur
-arabic: "يُدَبِّرُ ٱلْأَمْرَ مِنَ ٱلسَّمَآءِ إِلَى ٱلْأَرْضِ ثُمَّ يَعْرُجُ إِلَيْهِ فِى يَوْمٍ كَانَ مِقْدَارُهُۥٓ أَلْفَ سَنَةٍۢ مِّمَّا تَعُدُّونَ"
+arabic: "يُدَبِّرُ ٱلْأَمْرَ مِنَ ٱلسَّمَآءِ إِلَى ٱلْأَرْضِ ثُمَّ يَعْرُجُ إِلَيْهِ فِى يَوْمٍ كَانَ مِقْدَارُهُۥٓ أَلْفَ سَنَةٍ مِّمَّا تَعُدُّونَ"
 translation: "He arranges every affair from the heaven down to the earth; then it ascends back to Him on a Day whose measure is a thousand years of what you count."
 word_count: 7100
 estimated_duration: "50-55 minutes"

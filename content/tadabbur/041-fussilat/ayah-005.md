@@ -6,7 +6,7 @@ ayah_end: 5
 title: "The Covering They Called Protection: On Hearts That Seal Themselves and Name It Peace"
 slug: "041-005"
 category: tadabbur
-arabic: "وَقَالُوا۟ قُلُوبُنَا فِىٓ أَكِنَّةٍ مِّمَّا تَدْعُونَآ إِلَيْهِ وَفِىٓ ءَاذَانِنَا وَقْرٌ وَمِنۢ بَيْنِنَا وَبَيْنِكَ حِجَابٌ فَٱعْمَلْ إِنَّنَا عَـٰمِلُونَ"
+arabic: "وَقَالُوا۟ قُلُوبُنَا فِىٓ أَكِنَّةٍ مِّمَّا تَدْعُونَآ إِلَيْهِ وَفِىٓ ءَاذَانِنَا وَقْرٌ وَمِنۢ بَيْنِنَا وَبَيْنِكَ حِجَابٌ فَٱعْمَلْ إِنَّنَا عَـٰمِلُونَ"
 translation: "And they say, 'Our hearts are within coverings, sealed off from what you invite us to, and in our ears is a heaviness, and between us and you is a screen. So work — for indeed, we are working.'"
 word_count: 8100
 estimated_duration: "50-58 minutes"

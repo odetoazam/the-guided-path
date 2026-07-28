@@ -6,7 +6,7 @@ ayah_end: 27
 title: "And It Is Easier for Him: The Asymmetry That Reveals Divine Power"
 slug: "030-027"
 category: tadabbur
-arabic: "وَهُوَ ٱلَّذِى يَبْدَؤُا۟ ٱلْخَلْقَ ثُمَّ يُعِيدُهُۥ وَهُوَ أَهْوَنُ عَلَيْهِ ۚ وَلَهُ ٱلْمَثَلُ ٱلْأَعْلَىٰ فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ"
+arabic: "وَهُوَ ٱلَّذِى يَبْدَؤُا۟ ٱلْخَلْقَ ثُمَّ يُعِيدُهُۥ وَهُوَ أَهْوَنُ عَلَيْهِ ۚ وَلَهُ ٱلْمَثَلُ ٱلْأَعْلَىٰ فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ"
 translation: "And it is He who originates the creation, then repeats it — and that is easier for Him. To Him belongs the highest description in the heavens and the earth. And He is the Mighty, the Wise."
 word_count: 24
 estimated_duration: "50-58 minutes"

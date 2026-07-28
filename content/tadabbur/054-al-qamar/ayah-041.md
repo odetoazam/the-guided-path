@@ -6,7 +6,7 @@ ayah_end: 41
 title: "The Warning That Arrived: Why Allah Names the House Before the Message"
 slug: "054-041"
 category: tadabbur
-arabic: "وَلَقَدْ جَآءَ ءَالَ فِرْعَوْنَ ٱلنُّذُرُ"
+arabic: "وَلَقَدْ جَآءَ ءَالَ فِرْعَوْنَ ٱلنُّذُرُ"
 translation: "And certainly, warnings came to the people of Pharaoh."
 word_count: 5100
 estimated_duration: "48-56 minutes"

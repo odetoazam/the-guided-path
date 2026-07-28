@@ -6,7 +6,7 @@ ayah_end: 16
 title: "The Argument That Has No Ground to Stand On"
 slug: "042-016"
 category: tadabbur
-arabic: "وَٱلَّذِينَ يُحَآجُّونَ فِى ٱللَّهِ مِنۢ بَعْدِ مَا ٱسْتُجِيبَ لَهُۥ حُجَّتُهُمْ دَاحِضَةٌ عِندَ رَبِّهِمْ وَعَلَيْهِمْ غَضَبٌ وَلَهُمْ عَذَابٌ شَدِيدٌ"
+arabic: "وَٱلَّذِينَ يُحَآجُّونَ فِى ٱللَّهِ مِنۢ بَعْدِ مَا ٱسْتُجِيبَ لَهُۥ حُجَّتُهُمْ دَاحِضَةٌ عِندَ رَبِّهِمْ وَعَلَيْهِمْ غَضَبٌ وَلَهُمْ عَذَابٌ شَدِيدٌ"
 translation: "And those who argue concerning Allah after He has already been answered — their argument is collapsed in the sight of their Lord; upon them is wrath, and for them is a severe punishment."
 word_count: 18
 estimated_duration: "50-58 minutes"

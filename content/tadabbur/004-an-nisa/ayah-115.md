@@ -6,7 +6,7 @@ ayah_end: 115
 title: "The Opposite Bank: When God Hands You What You Chose"
 slug: "004-115"
 category: tadabbur
-arabic: "وَمَن يُشَاقِقِ ٱلرَّسُولَ مِنۢ بَعْدِ مَا تَبَيَّنَ لَهُ ٱلْهُدَىٰ وَيَتَّبِعْ غَيْرَ سَبِيلِ ٱلْمُؤْمِنِينَ نُوَلِّهِۦ مَا تَوَلَّىٰ وَنُصْلِهِۦ جَهَنَّمَ ۖ وَسَآءَتْ مَصِيرًا"
+arabic: "وَمَن يُشَاقِقِ ٱلرَّسُولَ مِنۢ بَعْدِ مَا تَبَيَّنَ لَهُ ٱلْهُدَىٰ وَيَتَّبِعْ غَيْرَ سَبِيلِ ٱلْمُؤْمِنِينَ نُوَلِّهِۦ مَا تَوَلَّىٰ وَنُصْلِهِۦ جَهَنَّمَ ۖ وَسَآءَتْ مَصِيرًا"
 translation: "And whoever opposes the Messenger after the guidance has become clear to him, and follows other than the way of the believers — We will turn him to what he has turned to, and We will burn him in Hell, and evil it is as a destination."
 word_count: 20
 estimated_duration: "50-58 minutes"

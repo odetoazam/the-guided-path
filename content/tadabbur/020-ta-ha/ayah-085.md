@@ -6,7 +6,7 @@ ayah_end: 85
 title: "The Trial of Absence: Why Allah Names the Test Before Naming the Tempter"
 slug: "020-085"
 category: tadabbur
-arabic: "قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِن بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ"
+arabic: "قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ"
 translation: "He said: 'Then indeed, We have tested your people in your absence, and the Samiri has led them astray.'"
 word_count: 7100
 estimated_duration: "50-58 minutes"

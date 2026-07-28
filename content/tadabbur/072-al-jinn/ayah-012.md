@@ -6,7 +6,7 @@ ayah_end: 12
 title: "The Nowhere to Run: How Certainty Closes Every Exit"
 slug: "072-012"
 category: tadabbur
-arabic: "وَأَنَّا ظَنَنَّآ أَن لَّن نُّعْجِزَ ٱللَّهَ فِى ٱلْأَرْضِ وَلَن نُّعْجِزَهُۥ هَرَبًا"
+arabic: "وَأَنَّا ظَنَنَّآ أَن لَّن نُّعْجِزَ ٱللَّهَ فِى ٱلْأَرْضِ وَلَن نُّعْجِزَهُۥ هَرَبًا"
 translation: "And that we came to full certainty — we will never overcome Allah on earth, and we will never escape Him by flight."
 word_count: 7100
 estimated_duration: "50-57 minutes"

@@ -6,7 +6,7 @@ ayah_end: 2
 title: "The Shield They Carried: When Sacred Speech Becomes Armor"
 slug: "063-002"
 category: tadabbur
-arabic: "ٱتَّخَذُوٓاْ أَيْمَـٰنَهُمْ جُنَّةً فَصَدُّواْ عَن سَبِيلِ ٱللَّهِ ۚ إِنَّهُمْ سَآءَ مَا كَانُواْ يَعْمَلُونَ"
+arabic: "ٱتَّخَذُوٓا۟ أَيْمَـٰنَهُمْ جُنَّةً فَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ ۚ إِنَّهُمْ سَآءَ مَا كَانُوا۟ يَعْمَلُونَ"
 translation: "They have taken their oaths as a cover, and so they have turned [people] away from the way of Allah. Indeed, evil is what they used to do."
 word_count: 6100
 estimated_duration: "50-58 minutes"

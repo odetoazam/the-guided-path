@@ -6,7 +6,7 @@ ayah_end: 26
 title: "We Will Obey You in Part: The Whispered Compromise and the God Who Hears It"
 slug: "047-026"
 category: tadabbur
-arabic: "ذَٰلِكَ بِأَنَّهُمْ قَالُوا لِلَّذِينَ كَرِهُوا مَا نَزَّلَ ٱللَّهُ سَنُطِيعُكُمْ فِى بَعْضِ ٱلْأَمْرِ ۖ وَٱللَّهُ يَعْلَمُ إِسْرَارَهُمْ"
+arabic: "ذَٰلِكَ بِأَنَّهُمْ قَالُوا۟ لِلَّذِينَ كَرِهُوا۟ مَا نَزَّلَ ٱللَّهُ سَنُطِيعُكُمْ فِى بَعْضِ ٱلْأَمْرِ ۖ وَٱللَّهُ يَعْلَمُ إِسْرَارَهُمْ"
 translation: "That is because they said to those who hated what Allah sent down, 'We will obey you in part of the matter.' But Allah knows their secrets."
 word_count: 15
 estimated_duration: "50-58 minutes"

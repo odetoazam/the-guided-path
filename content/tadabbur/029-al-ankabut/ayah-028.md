@@ -6,7 +6,7 @@ ayah_end: 28
 title: "When a Prophet Names the Unnamed: Lut and the Courage of Specificity"
 slug: "029-028"
 category: tadabbur
-arabic: "وَلُوطًا إِذْ قَالَ لِقَوْمِهِۦٓ إِنَّكُمْ لَتَأْتُونَ ٱلْفَـٰحِشَةَ مَا سَبَقَكُم بِهَا مِنْ أَحَدٍۢ مِّنَ ٱلْعَـٰلَمِينَ"
+arabic: "وَلُوطًا إِذْ قَالَ لِقَوْمِهِۦٓ إِنَّكُمْ لَتَأْتُونَ ٱلْفَـٰحِشَةَ مَا سَبَقَكُم بِهَا مِنْ أَحَدٍ مِّنَ ٱلْعَـٰلَمِينَ"
 translation: "And [remember] Lut, when he said to his people: 'Indeed, you commit such an immorality as no one in all the worlds has committed before you.'"
 word_count: 14
 estimated_duration: "50-58 minutes"

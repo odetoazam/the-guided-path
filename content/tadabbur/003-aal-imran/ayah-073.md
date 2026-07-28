@@ -6,7 +6,7 @@ ayah_end: 73
 title: "The Conspiracy Interrupted: When Grace Cannot Be Hoarded"
 slug: "003-073"
 category: tadabbur
-arabic: "وَلَا تُؤْمِنُوٓا۟ إِلَّا لِمَن تَبِعَ دِينَكُمْ قُلْ إِنَّ ٱلْهُدَىٰ هُدَى ٱللَّهِ أَن يُؤْتَىٰٓ أَحَدٌ مِّثْلَ مَآ أُوتِيتُمْ أَوْ يُحَآجُّوكُمْ عِندَ رَبِّكُمْ ۗ قُلْ إِنَّ ٱلْفَضْلَ بِيَدِ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ ۗ وَٱللَّهُ وَٰسِعٌ عَلِيمٌ"
+arabic: "وَلَا تُؤْمِنُوٓا۟ إِلَّا لِمَن تَبِعَ دِينَكُمْ قُلْ إِنَّ ٱلْهُدَىٰ هُدَى ٱللَّهِ أَن يُؤْتَىٰٓ أَحَدٌ مِّثْلَ مَآ أُوتِيتُمْ أَوْ يُحَآجُّوكُمْ عِندَ رَبِّكُمْ ۗ قُلْ إِنَّ ٱلْفَضْلَ بِيَدِ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ ۗ وَٱللَّهُ وَٰسِعٌ عَلِيمٌ"
 translation: "\"And do not trust anyone except one who follows your religion.\" Say: \"Indeed, the [true] guidance is the guidance of Allah\" — [they say this] lest anyone be given the like of what you were given, or [lest] they argue against you before your Lord. Say: \"Indeed, all bounty is in the Hand of Allah; He gives it to whom He wills.\" And Allah is All-Encompassing, All-Knowing."
 word_count: 33
 estimated_duration: "50-58 minutes"

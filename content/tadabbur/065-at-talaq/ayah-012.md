@@ -6,7 +6,7 @@ ayah_end: 12
 title: "The Cosmos That Counts Your Days: Seven Heavens and a Divorce"
 slug: "065-012"
 category: tadabbur
-arabic: "ٱللَّهُ ٱلَّذِى خَلَقَ سَبْعَ سَمَـٰوَٰتٍ وَمِنَ ٱلْأَرْضِ مِثْلَهُنَّ يَتَنَزَّلُ ٱلْأَمْرُ بَيْنَهُنَّ لِتَعْلَمُوٓاْ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ وَأَنَّ ٱللَّهَ قَدْ أَحَاطَ بِكُلِّ شَىْءٍ عِلْمًۢا"
+arabic: "ٱللَّهُ ٱلَّذِى خَلَقَ سَبْعَ سَمَـٰوَٰتٍ وَمِنَ ٱلْأَرْضِ مِثْلَهُنَّ يَتَنَزَّلُ ٱلْأَمْرُ بَيْنَهُنَّ لِتَعْلَمُوٓا۟ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ وَأَنَّ ٱللَّهَ قَدْ أَحَاطَ بِكُلِّ شَىْءٍ عِلْمًۢا"
 translation: "Allah is the One who created seven heavens, and of the earth the like of them. The command descends, continually, between them — so that you may know that Allah is, over every single thing, fully Able; and that Allah has encompassed every single thing in knowledge."
 word_count: 25
 estimated_duration: "50-58 minutes"

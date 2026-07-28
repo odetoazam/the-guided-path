@@ -6,7 +6,7 @@ ayah_end: 19
 title: "The Unlocked Door: A Reminder, and a Way Left Open"
 slug: "073-019"
 category: tadabbur
-arabic: "إِنَّ هَـٰذِهِۦ تَذْكِرَةٌۖ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ سَبِيلًا"
+arabic: "إِنَّ هَـٰذِهِۦ تَذْكِرَةٌ ۖ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ سَبِيلًا"
 translation: "Indeed, this is a reminder. So whoever wills may take to his Lord a way."
 word_count: 9
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 52
 title: "The Day the Excuse Stops Working: When the Last Argument Falls Silent"
 slug: "040-052"
 category: tadabbur
-arabic: "يَوْمَ لَا يَنفَعُ ٱلظَّـٰلِمِينَ مَعْذِرَتُهُمْ ۖ وَلَهُمُ ٱللَّعْنَةُ وَلَهُمْ سُوٓءُ ٱلدَّارِ"
+arabic: "يَوْمَ لَا يَنفَعُ ٱلظَّـٰلِمِينَ مَعْذِرَتُهُمْ ۖ وَلَهُمُ ٱللَّعْنَةُ وَلَهُمْ سُوٓءُ ٱلدَّارِ"
 translation: "The Day when their excuse will not benefit the wrongdoers — theirs is the curse, and theirs is the evil home."
 word_count: 10
 estimated_duration: "50-58 minutes"

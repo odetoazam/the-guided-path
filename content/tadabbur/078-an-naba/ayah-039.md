@@ -6,7 +6,7 @@ ayah_end: 39
 title: "The True Day, and the Will That Is Still Yours"
 slug: "078-039"
 category: tadabbur
-arabic: "ذَٰلِكَ ٱلْيَوْمُ ٱلْحَقُّ ۖ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ مَـَٔابًا"
+arabic: "ذَٰلِكَ ٱلْيَوْمُ ٱلْحَقُّ ۖ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ مَـَٔابًا"
 translation: "That is the True Day. So whoever wills, let him take a return back to his Lord."
 word_count: 9
 estimated_duration: "50-58 minutes"

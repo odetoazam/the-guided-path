@@ -6,7 +6,7 @@ ayah_end: 73
 slug: al-ahzab-73-the-trust-and-the-turning
 category: tadabbur
 title: "The Trust and the Turning — A Reflection on Al-Ahzab 73"
-arabic: "لِّيُعَذِّبَ ٱللَّهُ ٱلْمُنَٰفِقِينَ وَٱلْمُنَٰفِقَٰتِ وَٱلْمُشْرِكِينَ وَٱلْمُشْرِكَٰتِ وَيَتُوبَ ٱللَّهُ عَلَى ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ ۗ وَكَانَ ٱللَّهُ غَفُورًۭا رَّحِيمًۢا"
+arabic: "لِّيُعَذِّبَ ٱللَّهُ ٱلْمُنَـٰفِقِينَ وَٱلْمُنَـٰفِقَـٰتِ وَٱلْمُشْرِكِينَ وَٱلْمُشْرِكَـٰتِ وَيَتُوبَ ٱللَّهُ عَلَى ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ ۗ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًۢا"
 translation: "So that Allah may punish the hypocrite men and hypocrite women, and the polytheist men and polytheist women, and that Allah may turn in mercy to the believing men and believing women. And Allah is ever Forgiving, Most Merciful."
 estimated_duration: "50-58 minutes"
 passage_context: "The final ayah of Surah Al-Ahzab, arriving immediately after the ayah of al-Amanah (33:72), in which the heavens, the earth, and the mountains declined the Trust and humanity took it up. This closing ayah states the purpose of that undertaking."

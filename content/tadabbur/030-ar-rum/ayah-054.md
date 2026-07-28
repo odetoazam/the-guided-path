@@ -6,7 +6,7 @@ ayah_end: 54
 title: "The Arc of Weakness: How Allah Names the Shape of a Human Life"
 slug: "030-054"
 category: tadabbur
-arabic: "ٱللَّهُ ٱلَّذِى خَلَقَكُم مِّن ضَعْفٍۢ ثُمَّ جَعَلَ مِنۢ بَعْدِ ضَعْفٍۢ قُوَّةًۭ ثُمَّ جَعَلَ مِنۢ بَعْدِ قُوَّةٍۢ ضَعْفًۭا وَشَيْبَةًۭ ۚ يَخْلُقُ مَا يَشَآءُ ۖ وَهُوَ ٱلْعَلِيمُ ٱلْقَدِيرُ"
+arabic: "۞ ٱللَّهُ ٱلَّذِى خَلَقَكُم مِّن ضَعْفٍ ثُمَّ جَعَلَ مِنۢ بَعْدِ ضَعْفٍ قُوَّةً ثُمَّ جَعَلَ مِنۢ بَعْدِ قُوَّةٍ ضَعْفًا وَشَيْبَةً ۚ يَخْلُقُ مَا يَشَآءُ ۖ وَهُوَ ٱلْعَلِيمُ ٱلْقَدِيرُ"
 translation: "Allah is the One who created you from weakness, then made after weakness strength, then made after strength weakness and grey hair. He creates what He wills, and He is the All-Knowing, the All-Powerful."
 word_count: 350
 estimated_duration: "50-58 minutes"

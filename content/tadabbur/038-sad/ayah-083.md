@@ -7,7 +7,7 @@ ayah_end: 83
 title: "The Word Iblīs Could Not Touch: The Grammar of the Chosen"
 slug: "038-083"
 category: tadabbur
-arabic: "إِلَّا عِبَادَكَ مِنْهُمُ ٱلْمُخْلَصِينَ"
+arabic: "إِلَّا عِبَادَكَ مِنْهُمُ ٱلْمُخْلَصِينَ"
 translation: "Except Your servants among them — the purified ones, the ones You chose."
 word_count: 4
 estimated_duration: "48-58 minutes"

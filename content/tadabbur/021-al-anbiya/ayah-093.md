@@ -6,7 +6,7 @@ ayah_end: 93
 title: "What We Cut, He Reassembles: On Fragmentation and the Gravity of Return"
 slug: "021-093"
 category: tadabbur
-arabic: "وَتَقَطَّعُوٓا۟ أَمْرَهُم بَيْنَهُمْ ۖ كُلٌّ إِلَيْنَا رَٰجِعُونَ"
+arabic: "وَتَقَطَّعُوٓا۟ أَمْرَهُم بَيْنَهُمْ ۖ كُلٌّ إِلَيْنَا رَٰجِعُونَ"
 translation: "But they cut their affair among themselves into pieces. All — to Us — are returning."
 word_count: 7
 estimated_duration: "48-54 minutes"

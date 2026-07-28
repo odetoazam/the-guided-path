@@ -6,7 +6,7 @@ ayah_end: 39
 title: "When Tyranny Strikes: The Dignity That Refuses to Be Humiliated"
 slug: "042-039"
 category: tadabbur
-arabic: "وَٱلَّذِينَ إِذَآ أَصَابَهُمُ ٱلۡبَغۡىُ هُمۡ يَنتَصِرُونَ"
+arabic: "وَٱلَّذِينَ إِذَآ أَصَابَهُمُ ٱلْبَغْىُ هُمْ يَنتَصِرُونَ"
 translation: "And those who, when tyranny strikes them, they defend themselves."
 word_count: 6
 estimated_duration: "50-58 minutes"

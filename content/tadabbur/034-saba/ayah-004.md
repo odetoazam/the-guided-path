@@ -6,7 +6,7 @@ ayah_end: 4
 title: "The First Purpose of the Hour: Forgiveness Without Measure and Provision Most Noble"
 slug: "034-004"
 category: tadabbur
-arabic: "لِّيَجْزِيَ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ ۚ أُولَٰئِكَ لَهُم مَّغْفِرَةٌ وَرِزْقٌ كَرِيمٌ"
+arabic: "لِّيَجْزِىَ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ ۚ أُو۟لَـٰٓئِكَ لَهُم مَّغْفِرَةٌ وَرِزْقٌ كَرِيمٌ"
 translation: "So that He may recompense those who believed and did righteous deeds. Those — for them is forgiveness, and a provision most noble."
 word_count: 3950
 estimated_duration: "50-56 minutes"

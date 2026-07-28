@@ -6,7 +6,7 @@ ayah_end: 64
 title: "The Silence of the Idols: When What We Worshipped Cannot Even Look Back"
 slug: "028-064"
 category: tadabbur
-arabic: "وَقِيلَ ٱدْعُوا۟ شُرَكَآءَكُمْ فَدَعَوْهُمْ فَلَمْ يَسْتَجِيبُوا۟ لَهُمْ وَرَأَوُا۟ ٱلْعَذَابَ ۚ لَوْ أَنَّهُمْ كَانُوا۟ يَهْتَدُونَ"
+arabic: "وَقِيلَ ٱدْعُوا۟ شُرَكَآءَكُمْ فَدَعَوْهُمْ فَلَمْ يَسْتَجِيبُوا۟ لَهُمْ وَرَأَوُا۟ ٱلْعَذَابَ ۚ لَوْ أَنَّهُمْ كَانُوا۟ يَهْتَدُونَ"
 translation: "And it will be said, 'Call upon your partners.' And they will call upon them, but they will not respond to them, and they will see the punishment. If only they had been guided."
 word_count: 14
 estimated_duration: "50-55 minutes"

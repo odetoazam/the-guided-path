@@ -6,7 +6,7 @@ ayah_end: 36
 title: "When the Matter Is Decided: The Death of Choice Before Allah's Command"
 slug: "033-036"
 category: tadabbur
-arabic: "وَمَا كَانَ لِمُؤْمِنٍ وَلَا مُؤْمِنَةٍ إِذَا قَضَى ٱللَّهُ وَرَسُولُهُۥٓ أَمْرًا أَن يَكُونَ لَهُمُ ٱلْخِيَرَةُ مِنْ أَمْرِهِمْ ۗ وَمَن يَعْصِ ٱللَّهَ وَرَسُولَهُۥ فَقَدْ ضَلَّ ضَلَـٰلًۭا مُّبِينًۭا"
+arabic: "وَمَا كَانَ لِمُؤْمِنٍ وَلَا مُؤْمِنَةٍ إِذَا قَضَى ٱللَّهُ وَرَسُولُهُۥٓ أَمْرًا أَن يَكُونَ لَهُمُ ٱلْخِيَرَةُ مِنْ أَمْرِهِمْ ۗ وَمَن يَعْصِ ٱللَّهَ وَرَسُولَهُۥ فَقَدْ ضَلَّ ضَلَـٰلًا مُّبِينًا"
 translation: "And it is not for a believing man or a believing woman, when Allah and His Messenger have decided a matter, that they should have any choice in their affair. And whoever disobeys Allah and His Messenger has certainly strayed into clear error."
 word_count: 28
 estimated_duration: "50-58 minutes"

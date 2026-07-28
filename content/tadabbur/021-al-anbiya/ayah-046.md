@@ -6,7 +6,7 @@ ayah_end: 46
 title: "A Single Breath of Truth — The Whiff That Topples"
 slug: "021-046"
 category: tadabbur
-arabic: "وَلَئِن مَّسَّتْهُمْ نَفْحَةٌ مِّنْ عَذَابِ رَبِّكَ لَيَقُولُنَّ يَا وَيْلَنَا إِنَّا كُنَّا ظَالِمِينَ"
+arabic: "وَلَئِن مَّسَّتْهُمْ نَفْحَةٌ مِّنْ عَذَابِ رَبِّكَ لَيَقُولُنَّ يَـٰوَيْلَنَآ إِنَّا كُنَّا ظَـٰلِمِينَ"
 translation: "And if but a whiff of your Lord's punishment were to touch them, they would certainly cry: 'O woe to us! We truly were wrongdoers.'"
 word_count: 18
 estimated_duration: "50-58 minutes"

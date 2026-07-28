@@ -6,7 +6,7 @@ ayah_end: 11
 title: "The Trench Beneath Them: When the Burned Become the Victors"
 slug: "085-011"
 category: tadabbur
-arabic: "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَهُمْ جَنَّـٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ۚ ذَٰلِكَ ٱلْفَوْزُ ٱلْكَبِيرُ"
+arabic: "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَهُمْ جَنَّـٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ۚ ذَٰلِكَ ٱلْفَوْزُ ٱلْكَبِيرُ"
 translation: "Indeed, those who believed and did righteous deeds — for them are Gardens beneath which rivers flow. That is the great success."
 word_count: 14
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 11
 title: "The One Who Fears Mercy in the Dark: Why the Warning Only Lands in a Heart Already Turning"
 slug: "036-011"
 category: tadabbur
-arabic: "إِنَّمَا تُنذِرُ مَنِ ٱتَّبَعَ ٱلذِّكْرَ وَخَشِىَ ٱلرَّحْمَٰنَ بِٱلْغَيْبِ ۖ فَبَشِّرْهُ بِمَغْفِرَةٍ وَأَجْرٍ كَرِيمٍ"
+arabic: "إِنَّمَا تُنذِرُ مَنِ ٱتَّبَعَ ٱلذِّكْرَ وَخَشِىَ ٱلرَّحْمَـٰنَ بِٱلْغَيْبِ ۖ فَبَشِّرْهُ بِمَغْفِرَةٍ وَأَجْرٍ كَرِيمٍ"
 translation: "You can only warn the one who follows the Reminder and fears the Most Merciful in the unseen. So give him glad tidings of forgiveness and a noble reward."
 word_count: 12
 estimated_duration: "50-58 minutes"

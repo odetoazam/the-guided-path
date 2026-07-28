@@ -6,7 +6,7 @@ ayah_end: 45
 title: "The Verdict Written in the Passive Voice: When the Crowd Is Already Defeated"
 slug: "054-045"
 category: tadabbur
-arabic: "سَيُهْزَمُ ٱلْجَمْعُ وَيُوَلُّونَ ٱلدُّبُرَ"
+arabic: "سَيُهْزَمُ ٱلْجَمْعُ وَيُوَلُّونَ ٱلدُّبُرَ"
 translation: "The assembly will be routed, and they will turn their backs."
 word_count: 4900
 estimated_duration: "48-55 minutes"

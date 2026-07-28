@@ -6,7 +6,7 @@ ayah_end: 3
 title: "When the Cry Comes Too Late: kam, lāta, and the Door Called Escape"
 slug: "038-003"
 category: tadabbur
-arabic: "كَمْ أَهْلَكْنَا مِن قَبْلِهِم مِّن قَرْنٍ فَنَادَوا۟ وَّلَاتَ حِينَ مَنَاصٍ"
+arabic: "كَمْ أَهْلَكْنَا مِن قَبْلِهِم مِّن قَرْنٍ فَنَادَوا۟ وَّلَاتَ حِينَ مَنَاصٍ"
 translation: "How many a generation We destroyed before them — and they cried out, when there was no longer any time for escape."
 word_count: 9
 estimated_duration: "50-58 minutes"

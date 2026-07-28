@@ -6,7 +6,7 @@ ayah_end: 2
 title: "The Two Journeys: When the Rhythm You Stopped Noticing Is the Gift Itself"
 slug: "106-002"
 category: tadabbur
-arabic: "إِۦلَـٰفِهِمْ رِحْلَةَ ٱلشِّتَآءِ وَٱلصَّيْفِ"
+arabic: "إِۦلَـٰفِهِمْ رِحْلَةَ ٱلشِّتَآءِ وَٱلصَّيْفِ"
 translation: "Their familiarity — the journey of winter and summer —"
 word_count: 4
 estimated_duration: "50-58 minutes"

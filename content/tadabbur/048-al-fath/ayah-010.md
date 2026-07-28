@@ -6,7 +6,7 @@ ayah_end: 10
 title: "The Hand Above the Hand: When a Pledge Becomes a Transaction with God"
 slug: "048-010"
 category: tadabbur
-arabic: "إِنَّ ٱلَّذِينَ يُبَايِعُونَكَ إِنَّمَا يُبَايِعُونَ ٱللَّهَ يَدُ ٱللَّهِ فَوْقَ أَيْدِيهِمْ ۚ فَمَن نَّكَثَ فَإِنَّمَا يَنكُثُ عَلَىٰ نَفْسِهِۦ ۖ وَمَنْ أَوْفَىٰ بِمَا عَـٰهَدَ عَلَيْهُ ٱللَّهَ فَسَيُؤْتِيهِ أَجْرًا عَظِيمًا"
+arabic: "إِنَّ ٱلَّذِينَ يُبَايِعُونَكَ إِنَّمَا يُبَايِعُونَ ٱللَّهَ يَدُ ٱللَّهِ فَوْقَ أَيْدِيهِمْ ۚ فَمَن نَّكَثَ فَإِنَّمَا يَنكُثُ عَلَىٰ نَفْسِهِۦ ۖ وَمَنْ أَوْفَىٰ بِمَا عَـٰهَدَ عَلَيْهُ ٱللَّهَ فَسَيُؤْتِيهِ أَجْرًا عَظِيمًا"
 translation: "Indeed, those who pledge allegiance to you ˹O Prophet˺—they are in truth pledging allegiance to Allah. The Hand of Allah is over their hands. So whoever breaks his oath only breaks it against himself; and whoever fulfills what he has covenanted with Allah—He will grant him a great reward."
 word_count: 25
 estimated_duration: "50-58 minutes"

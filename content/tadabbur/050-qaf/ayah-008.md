@@ -6,7 +6,7 @@ ayah_end: 8
 title: "The Light Falls on Every Eye, But Only the Turning Heart Sees"
 slug: "050-008"
 category: tadabbur
-arabic: "تَبْصِرَةً وَذِكْرَىٰ لِكُلِّ عَبْدٍ مُّنِيبٍ"
+arabic: "تَبْصِرَةً وَذِكْرَىٰ لِكُلِّ عَبْدٍ مُّنِيبٍ"
 translation: "As an insight and a reminder for every servant who turns back [to Allah]."
 word_count: 5
 estimated_duration: "50-58 minutes"

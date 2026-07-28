@@ -6,7 +6,7 @@ ayah_end: 37
 title: "The Cloak No Creature Can Wear: Grandeur and Its Only Owner"
 slug: "045-037"
 category: tadabbur
-arabic: "وَلَهُ ٱلْكِبْرِيَآءُ فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ"
+arabic: "وَلَهُ ٱلْكِبْرِيَآءُ فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ"
 translation: "And to Him belongs [all] grandeur throughout the heavens and the earth, and He is the All-Mighty, the All-Wise."
 word_count: 8
 estimated_duration: "50-58 minutes"

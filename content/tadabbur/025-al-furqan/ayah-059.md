@@ -6,7 +6,7 @@ ayah_end: 59
 title: "The One Who Made — And the Invitation to Ask"
 slug: "025-059"
 category: tadabbur
-arabic: "ٱلَّذِى خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَا فِى سِتَّةِ أَيَّامٍۢ ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ ۚ ٱلرَّحْمَـٰنُ فَسْـَٔلْ بِهِۦ خَبِيرًۭا"
+arabic: "ٱلَّذِى خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَا فِى سِتَّةِ أَيَّامٍ ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ ۚ ٱلرَّحْمَـٰنُ فَسْـَٔلْ بِهِۦ خَبِيرًا"
 translation: "The One who created the heavens and the earth and everything between them in six days, then established Himself over the Throne — the Most Merciful. So ask about Him one who is deeply acquainted."
 word_count: 22
 estimated_duration: "50-55 minutes"

@@ -6,7 +6,7 @@ ayah_end: 21
 title: "The Calculation That Wants Life and Death to Be Equal"
 slug: "045-021"
 category: tadabbur
-arabic: "أَمْ حَسِبَ ٱلَّذِينَ ٱجْتَرَحُوا۟ ٱلسَّيِّـَٔاتِ أَن نَّجْعَلَهُمْ كَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ سَوَآءً مَّحْيَاهُمْ وَمَمَاتُهُمْ ۚ سَآءَ مَا يَحْكُمُونَ"
+arabic: "أَمْ حَسِبَ ٱلَّذِينَ ٱجْتَرَحُوا۟ ٱلسَّيِّـَٔاتِ أَن نَّجْعَلَهُمْ كَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ سَوَآءً مَّحْيَاهُمْ وَمَمَاتُهُمْ ۚ سَآءَ مَا يَحْكُمُونَ"
 translation: "Or do those who have acquired evil deeds reckon that We will make them like those who believed and did righteous deeds — equal in their life and their death? How evil is the judgment they make."
 word_count: 17
 estimated_duration: "50-58 minutes"

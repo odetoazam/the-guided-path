@@ -6,7 +6,7 @@ ayah_end: 21
 title: "When 'We Found Our Fathers' Becomes the Final Word"
 slug: "031-021"
 category: tadabbur
-arabic: "وَإِذَا قِيلَ لَهُمُ ٱتَّبِعُوا۟ مَآ أَنزَلَ ٱللَّهُ قَالُوا۟ بَلْ نَتَّبِعُ مَا وَجَدْنَا عَلَيْهِ ءَابَآءَنَآ ۚ أَوَلَوْ كَانَ ٱلشَّيْطَـٰنُ يَدْعُوهُمْ إِلَىٰ عَذَابِ ٱلسَّعِيرِ"
+arabic: "وَإِذَا قِيلَ لَهُمُ ٱتَّبِعُوا۟ مَآ أَنزَلَ ٱللَّهُ قَالُوا۟ بَلْ نَتَّبِعُ مَا وَجَدْنَا عَلَيْهِ ءَابَآءَنَآ ۚ أَوَلَوْ كَانَ ٱلشَّيْطَـٰنُ يَدْعُوهُمْ إِلَىٰ عَذَابِ ٱلسَّعِيرِ"
 translation: "And when it is said to them, 'Follow what Allah has sent down,' they say, 'No — we follow what we found our fathers upon.' Even if Shayṭān were calling them to the punishment of the blazing fire?"
 word_count: 21
 estimated_duration: "50-58 minutes"

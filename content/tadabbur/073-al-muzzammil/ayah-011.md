@@ -6,7 +6,7 @@ ayah_end: 11
 title: "Leave Me With Them: The Burden the Night-Trained Heart Sets Down"
 slug: "073-011"
 category: tadabbur
-arabic: "وَذَرْنِي وَٱلْمُكَذِّبِينَ أُو۟لِي ٱلنَّعْمَةِ وَمَهِّلْهُمْ قَلِيلًا"
+arabic: "وَذَرْنِى وَٱلْمُكَذِّبِينَ أُو۟لِى ٱلنَّعْمَةِ وَمَهِّلْهُمْ قَلِيلًا"
 translation: "And leave Me with the deniers — those possessors of ease and luxury — and grant them respite, a little."
 word_count: 6
 estimated_duration: "50-58 minutes"

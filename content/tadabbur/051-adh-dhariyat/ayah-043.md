@@ -6,7 +6,7 @@ ayah_end: 43
 title: "Enjoy Yourselves for a Time: When Permission Becomes a Sentence"
 slug: "051-043"
 category: tadabbur
-arabic: "وَفِى ثَمُودَ إِذْ قِيلَ لَهُمْ تَمَتَّعُوا۟ حَتَّىٰ حِينٍ"
+arabic: "وَفِى ثَمُودَ إِذْ قِيلَ لَهُمْ تَمَتَّعُوا۟ حَتَّىٰ حِينٍ"
 translation: "And in Thamud [was a sign], when it was said to them, 'Enjoy yourselves for a time.'"
 word_count: 8
 estimated_duration: "48-56 minutes"

@@ -6,7 +6,7 @@ ayah_end: 76
 title: "The Body at Rest: Reclining on Green That Flutters and Craft Beyond Human Hands"
 slug: "055-076"
 category: tadabbur
-arabic: "مُتَّكِـِٔينَ عَلَىٰ رَفْرَفٍ خُضْرٍ وَعَبْقَرِىٍّ حِسَانٍ"
+arabic: "مُتَّكِـِٔينَ عَلَىٰ رَفْرَفٍ خُضْرٍ وَعَبْقَرِىٍّ حِسَانٍ"
 translation: "Reclining upon green cushions and beautiful fine carpets."
 word_count: 6
 estimated_duration: "50-58 minutes"

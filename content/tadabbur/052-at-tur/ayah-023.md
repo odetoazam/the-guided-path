@@ -6,7 +6,7 @@ ayah_end: 23
 title: "The Cup Without a Catch: When the Snatching Becomes a Gift"
 slug: "052-023"
 category: tadabbur
-arabic: "يَتَنَازَعُونَ فِيهَا كَأْسًا لَّا لَغْوٌ فِيهَا وَلَا تَأْثِيمٌ"
+arabic: "يَتَنَـٰزَعُونَ فِيهَا كَأْسًا لَّا لَغْوٌ فِيهَا وَلَا تَأْثِيمٌ"
 translation: "They will pass to one another, therein, a cup in which there is no idle talk and no sin."
 word_count: 8
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 7
 title: "The Clarity They Could Not Deny: When the Heart Renames the Light"
 slug: "046-007"
 category: tadabbur
-arabic: "وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَـٰتُنَا بَيِّنَـٰتٍ قَالَ ٱلَّذِينَ كَفَرُوا۟ لِلْحَقِّ لَمَّا جَآءَهُمْ هَـٰذَا سِحْرٌ مُّبِينٌ"
+arabic: "وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَـٰتُنَا بَيِّنَـٰتٍ قَالَ ٱلَّذِينَ كَفَرُوا۟ لِلْحَقِّ لَمَّا جَآءَهُمْ هَـٰذَا سِحْرٌ مُّبِينٌ"
 translation: "And when Our verses are recited to them as clear evidences, those who disbelieve say of the truth when it has come to them, 'This is obvious magic.'"
 word_count: 14
 estimated_duration: "50-58 minutes"

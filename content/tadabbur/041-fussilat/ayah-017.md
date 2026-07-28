@@ -6,7 +6,7 @@ ayah_end: 17
 title: "The Heart That Fell in Love With Its Own Blindness"
 slug: "041-017"
 category: tadabbur
-arabic: "وَأَمَّا ثَمُودُ فَهَدَيْنَٰهُمْ فَٱسْتَحَبُّوا۟ ٱلْعَمَىٰ عَلَى ٱلْهُدَىٰ فَأَخَذَتْهُمْ صَٰعِقَةُ ٱلْعَذَابِ ٱلْهُونِ بِمَا كَانُوا۟ يَكْسِبُونَ"
+arabic: "وَأَمَّا ثَمُودُ فَهَدَيْنَـٰهُمْ فَٱسْتَحَبُّوا۟ ٱلْعَمَىٰ عَلَى ٱلْهُدَىٰ فَأَخَذَتْهُمْ صَـٰعِقَةُ ٱلْعَذَابِ ٱلْهُونِ بِمَا كَانُوا۟ يَكْسِبُونَ"
 translation: "And as for Thamud, We guided them, but they preferred blindness over guidance, so the thunderbolt of the humiliating punishment seized them for what they used to earn."
 word_count: 14
 estimated_duration: "50-58 minutes"

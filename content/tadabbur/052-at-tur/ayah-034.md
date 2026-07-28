@@ -6,7 +6,7 @@ ayah_end: 34
 title: "The Dare That Was Never Answered: When an Accusation Was Met With a Pen"
 slug: "052-034"
 category: tadabbur
-arabic: "فَلْيَأْتُوا۟ بِحَدِيثٍۢ مِّثْلِهِۦٓ إِن كَانُوا۟ صَـٰدِقِينَ"
+arabic: "فَلْيَأْتُوا۟ بِحَدِيثٍ مِّثْلِهِۦٓ إِن كَانُوا۟ صَـٰدِقِينَ"
 translation: "Then let them produce a statement like it — if they are truthful."
 word_count: 6100
 estimated_duration: "50-58 minutes"

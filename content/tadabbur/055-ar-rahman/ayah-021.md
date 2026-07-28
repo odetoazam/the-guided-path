@@ -6,7 +6,7 @@ ayah_end: 21
 title: "Which One Will You Call a Lie? The Question Addressed to Two Worlds"
 slug: "055-021"
 category: tadabbur
-arabic: "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+arabic: "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
 translation: "So which of the favors of your Lord will you both deny?"
 word_count: 5200
 estimated_duration: "48-55 minutes"

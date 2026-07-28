@@ -6,7 +6,7 @@ ayah_end: 90
 title: "The Door That Was Just Opened: Increase, and the Repentance That Arrives Too Late"
 slug: "003-090"
 category: tadabbur
-arabic: "إِنَّ ٱلَّذِينَ كَفَرُوا۟ بَعْدَ إِيمَـٰنِهِمْ ثُمَّ ٱزْدَادُوا۟ كُفْرًۭا لَّن تُقْبَلَ تَوْبَتُهُمْ وَأُو۟لَـٰٓئِكَ هُمُ ٱلضَّآلُّونَ"
+arabic: "إِنَّ ٱلَّذِينَ كَفَرُوا۟ بَعْدَ إِيمَـٰنِهِمْ ثُمَّ ٱزْدَادُوا۟ كُفْرًا لَّن تُقْبَلَ تَوْبَتُهُمْ وَأُو۟لَـٰٓئِكَ هُمُ ٱلضَّآلُّونَ"
 translation: "Indeed, those who disbelieved after their belief and then increased in disbelief — never will their repentance be accepted; and those — it is they who have gone astray."
 word_count: 14
 estimated_duration: "50-58 minutes"

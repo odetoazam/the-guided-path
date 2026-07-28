@@ -6,7 +6,7 @@ ayah_end: 16
 title: "Would You Teach God Your Religion? — On the Audacity of Reporting Our Faith to the One Who Already Knows It"
 slug: "049-016"
 category: tadabbur
-arabic: "قُلْ أَتُعَلِّمُونَ ٱللَّهَ بِدِينِكُمْ وَٱللَّهُ يَعْلَمُ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۚ وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌ"
+arabic: "قُلْ أَتُعَلِّمُونَ ٱللَّهَ بِدِينِكُمْ وَٱللَّهُ يَعْلَمُ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۚ وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌ"
 translation: "Say: Would you inform Allah about your religion — while Allah knows whatever is in the heavens and whatever is on the earth, and Allah is Knowing of all things?"
 word_count: 16
 estimated_duration: "50-58 minutes"

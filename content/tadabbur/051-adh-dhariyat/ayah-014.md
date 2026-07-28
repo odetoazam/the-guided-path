@@ -6,7 +6,7 @@ ayah_end: 14
 title: "Taste Your Fitnah: The Trial You Demanded Becomes the Trial You Wear"
 slug: "051-014"
 category: tadabbur
-arabic: "ذُوقُوا فِتْنَتَكُمْ هَـٰذَا ٱلَّذِى كُنتُم بِهِۦ تَسْتَعْجِلُونَ"
+arabic: "ذُوقُوا۟ فِتْنَتَكُمْ هَـٰذَا ٱلَّذِى كُنتُم بِهِۦ تَسْتَعْجِلُونَ"
 translation: "Taste your trial. This is the very thing you were so eager to hurry on."
 word_count: 7
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 46
 title: "The Standing That Buys Two Gardens"
 slug: "055-046"
 category: tadabbur
-arabic: "وَلِمَنْ خَافَ مَقَامَ رَبِّهِۦ جَنَّتَانِ"
+arabic: "وَلِمَنْ خَافَ مَقَامَ رَبِّهِۦ جَنَّتَانِ"
 translation: "But for the one who fears the standing before his Lord — two gardens."
 word_count: 5
 estimated_duration: "50-58 minutes"

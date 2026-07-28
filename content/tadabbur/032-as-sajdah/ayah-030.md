@@ -6,7 +6,7 @@ ayah_end: 30
 title: "Turn Away From Them and Wait — The Closing Command of As-Sajdah"
 slug: "032-030"
 category: tadabbur
-arabic: "فَأَعْرِضْ عَنْهُمْ وَٱنتَظِرْ إِنَّهُم مُّنتَظِرُونَ"
+arabic: "فَأَعْرِضْ عَنْهُمْ وَٱنتَظِرْ إِنَّهُم مُّنتَظِرُونَ"
 translation: "So turn away from them and wait. Indeed, they too are waiting."
 word_count: 6
 estimated_duration: "48-55 minutes"

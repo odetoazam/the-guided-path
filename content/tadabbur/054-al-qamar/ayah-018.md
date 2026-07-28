@@ -6,7 +6,7 @@ ayah_end: 18
 title: "The Question Asked Before the Story: Denial Without an Object"
 slug: "054-018"
 category: tadabbur
-arabic: "كَذَّبَتْ عَادٞ فَكَيْفَ كَانَ عَذَابِي وَنُذُرِ"
+arabic: "كَذَّبَتْ عَادٌ فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ"
 translation: "ʿĀd denied — so how was My punishment, and My warnings?"
 word_count: 4900
 estimated_duration: "48-56 minutes"

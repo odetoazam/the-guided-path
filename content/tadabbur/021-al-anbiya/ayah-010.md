@@ -6,7 +6,7 @@ ayah_end: 10
 title: "Fihi Dhikrukum — The Book in Which Is Your Honor"
 slug: "021-010"
 category: tadabbur
-arabic: "لَقَدْ أَنزَلْنَا إِلَيْكُمْ كِتَابًا فِيهِ ذِكْرُكُمْ ۖ أَفَلَا تَعْقِلُونَ"
+arabic: "لَقَدْ أَنزَلْنَآ إِلَيْكُمْ كِتَـٰبًا فِيهِ ذِكْرُكُمْ ۖ أَفَلَا تَعْقِلُونَ"
 translation: "We have certainly sent down to you a Book in which is your mention — your honor, your reminder. Will you not then reason?"
 word_count: 6
 estimated_duration: "50-58 minutes"

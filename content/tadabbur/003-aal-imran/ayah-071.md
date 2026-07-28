@@ -6,7 +6,7 @@ ayah_end: 71
 title: "The Garment of Falsehood: When Truth Is Dressed Up and Buried"
 slug: "003-071"
 category: tadabbur
-arabic: "يَـٰٓأَهْلَ ٱلْكِتَـٰبِ لِمَ تَلْبِسُونَ ٱلْحَقَّ بِٱلْبَـٰطِلِ وَتَكْتُمُونَ ٱلْحَقَّ وَأَنتُمْ تَعْلَمُونَ"
+arabic: "يَـٰٓأَهْلَ ٱلْكِتَـٰبِ لِمَ تَلْبِسُونَ ٱلْحَقَّ بِٱلْبَـٰطِلِ وَتَكْتُمُونَ ٱلْحَقَّ وَأَنتُمْ تَعْلَمُونَ"
 translation: "O People of the Book! Why do you mix the truth with falsehood and conceal the truth while you know?"
 word_count: 10
 estimated_duration: "50-58 minutes"

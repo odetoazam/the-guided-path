@@ -6,7 +6,7 @@ ayah_end: 34
 title: "Send With Me My Brother: When Weakness Asks for Reinforcement"
 slug: "028-034"
 category: tadabbur
-arabic: "وَأَخِى هَـٰرُونُ هُوَ أَفْصَحُ مِنِّى لِسَانًۭا فَأَرْسِلْهُ مَعِىَ رِدْءًۭا يُصَدِّقُنِىٓ ۖ إِنِّىٓ أَخَافُ أَن يُكَذِّبُونِ"
+arabic: "وَأَخِى هَـٰرُونُ هُوَ أَفْصَحُ مِنِّى لِسَانًا فَأَرْسِلْهُ مَعِىَ رِدْءًا يُصَدِّقُنِىٓ ۖ إِنِّىٓ أَخَافُ أَن يُكَذِّبُونِ"
 translation: "And my brother Aaron — he is more eloquent than me in speech. So send him with me as a support, confirming me. Indeed, I fear that they will deny me."
 word_count: 380
 estimated_duration: "50-55 minutes"

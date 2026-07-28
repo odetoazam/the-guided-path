@@ -6,7 +6,7 @@ ayah_end: 37
 title: "The Mercy of a Demand He Never Makes: Why Allah Does Not Ask for All of It"
 slug: "047-037"
 category: tadabbur
-arabic: "إِن يَسْـَٔلْكُمُوهَا فَيُحْفِكُمْ تَبْخَلُوا۟ وَيُخْرِجْ أَضْغَٰنَكُمْ"
+arabic: "إِن يَسْـَٔلْكُمُوهَا فَيُحْفِكُمْ تَبْخَلُوا۟ وَيُخْرِجْ أَضْغَـٰنَكُمْ"
 translation: "If He were to ask you for [all of] it and press you hard for it, you would withhold, and He would bring out your buried rancor."
 word_count: 6
 estimated_duration: "50-58 minutes"

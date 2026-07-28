@@ -6,7 +6,7 @@ ayah_end: 7
 title: "As You Assumed: When a Guess Becomes a Worldview"
 slug: "072-007"
 category: tadabbur
-arabic: "وَأَنَّهُمْ ظَنُّوا۟ كَمَا ظَنَنتُمْ أَن لَّن يَبْعَثَ ٱللَّهُ أَحَدًا"
+arabic: "وَأَنَّهُمْ ظَنُّوا۟ كَمَا ظَنَنتُمْ أَن لَّن يَبْعَثَ ٱللَّهُ أَحَدًا"
 translation: "And that they assumed, just as you assumed, that Allah would never raise up anyone."
 word_count: 9
 estimated_duration: "50-58 minutes"

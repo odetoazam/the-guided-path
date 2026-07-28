@@ -6,7 +6,7 @@ ayah_end: 103
 title: "When Terror Cannot Reach the Heart: The Believer's Welcome on the Greatest Day"
 slug: "021-103"
 category: tadabbur
-arabic: "لَا يَحْزُنُهُمُ ٱلْفَزَعُ ٱلْأَكْبَرُ وَتَتَلَقَّىٰهُمُ ٱلْمَلَـٰٓئِكَةُ هَـٰذَا يَوْمُكُمُ ٱلَّذِى كُنتُمْ تُوعَدُونَ"
+arabic: "لَا يَحْزُنُهُمُ ٱلْفَزَعُ ٱلْأَكْبَرُ وَتَتَلَقَّىٰهُمُ ٱلْمَلَـٰٓئِكَةُ هَـٰذَا يَوْمُكُمُ ٱلَّذِى كُنتُمْ تُوعَدُونَ"
 translation: "The Greatest Terror will not grieve them, and the angels will receive them — 'This is your Day, the one you were always being promised.'"
 word_count: 12
 estimated_duration: "50-58 minutes"

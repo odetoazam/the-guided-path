@@ -6,7 +6,7 @@ ayah_end: 33
 title: "Each in Its Own Orbit, Swimming: The Cosmos at Worship"
 slug: "021-033"
 category: tadabbur
-arabic: "وَهُوَ ٱلَّذِى خَلَقَ ٱلَّيْلَ وَٱلنَّهَارَ وَٱلشَّمْسَ وَٱلْقَمَرَ ۖ كُلٌّۭ فِى فَلَكٍۢ يَسْبَحُونَ"
+arabic: "وَهُوَ ٱلَّذِى خَلَقَ ٱلَّيْلَ وَٱلنَّهَارَ وَٱلشَّمْسَ وَٱلْقَمَرَ ۖ كُلٌّ فِى فَلَكٍ يَسْبَحُونَ"
 translation: "And it is He who created the night and the day, and the sun and the moon — each in its own orbit, swimming."
 word_count: 11
 estimated_duration: "48-55 minutes"

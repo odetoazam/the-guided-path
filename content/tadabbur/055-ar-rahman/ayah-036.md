@@ -6,7 +6,7 @@ ayah_end: 36
 slug: ar-rahman-55-36
 category: tadabbur
 title: "The Warning Was Also a Gift: A Tadabbur on Ar-Rahman 55:36"
-arabic: "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ"
+arabic: "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
 translation: "So which of the favors of your Lord will you two deny?"
 estimated_duration: "50-58 minutes"
 passage_context: "The thirty-one-times refrain of Surah Ar-Rahman, here falling immediately after the threat of 55:35 — a flame of fire and molten brass sent upon jinn and mankind, with no one to help them. This particular occurrence of the refrain reframes even that terror as one of the Lord's favors."

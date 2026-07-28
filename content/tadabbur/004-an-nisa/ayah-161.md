@@ -6,7 +6,7 @@ ayah_end: 161
 title: "What the Hand Takes and the Mouth Devours: Riba, Stolen Wealth, and the Sin Committed Against Knowledge"
 slug: "004-161"
 category: tadabbur
-arabic: "وَأَخْذِهِمُ ٱلرِّبَوٰا۟ وَقَدْ نُهُوا۟ عَنْهُ وَأَكْلِهِمْ أَمْوَٰلَ ٱلنَّاسِ بِٱلْبَٰطِلِ ۚ وَأَعْتَدْنَا لِلْكَٰفِرِينَ مِنْهُمْ عَذَابًا أَلِيمًا"
+arabic: "وَأَخْذِهِمُ ٱلرِّبَوٰا۟ وَقَدْ نُهُوا۟ عَنْهُ وَأَكْلِهِمْ أَمْوَٰلَ ٱلنَّاسِ بِٱلْبَـٰطِلِ ۚ وَأَعْتَدْنَا لِلْكَـٰفِرِينَ مِنْهُمْ عَذَابًا أَلِيمًا"
 translation: "And for their taking of usury while they had been forbidden from it, and their consuming of the people's wealth wrongfully. And We have prepared for the disbelievers among them a painful punishment."
 word_count: 14
 estimated_duration: "50-58 minutes"

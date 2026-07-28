@@ -6,7 +6,7 @@ ayah_end: 10
 title: "The Withheld Gift: When Allah's 'No' Is the Deeper Honor"
 slug: "025-010"
 category: tadabbur
-arabic: "تَبَارَكَ ٱلَّذِىٓ إِن شَآءَ جَعَلَ لَكَ خَيْرًۭا مِّن ذَٰلِكَ جَنَّـٰتٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ وَيَجْعَل لَّكَ قُصُورًۭا"
+arabic: "تَبَارَكَ ٱلَّذِىٓ إِن شَآءَ جَعَلَ لَكَ خَيْرًا مِّن ذَٰلِكَ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ وَيَجْعَل لَّكَ قُصُورًۢا"
 translation: "Blessed is the One who — if He willed — could have made for you something far better than that: gardens with rivers flowing beneath them, and He could make for you palaces."
 word_count: 7800
 estimated_duration: "50-58 minutes"

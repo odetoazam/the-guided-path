@@ -6,7 +6,7 @@ ayah_end: 17
 title: "The Day That Grays the Children: On the Only Shield That Holds"
 slug: "073-017"
 category: tadabbur
-arabic: "فَكَيْفَ تَتَّقُونَ إِن كَفَرْتُمْ يَوْمًا يَجْعَلُ ٱلْوِلْدَٰنَ شِيبًا"
+arabic: "فَكَيْفَ تَتَّقُونَ إِن كَفَرْتُمْ يَوْمًا يَجْعَلُ ٱلْوِلْدَٰنَ شِيبًا"
 translation: "Then how will you shield yourselves, if you disbelieve, against a Day that turns the children gray?"
 word_count: 8
 estimated_duration: "50-58 minutes"

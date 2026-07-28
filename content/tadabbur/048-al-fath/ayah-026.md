@@ -6,7 +6,7 @@ ayah_end: 26
 title: "The Heat They Made and the Stillness He Sent: Ḥamiyya, Sakīna, and the Word That Truly Shields"
 slug: "048-026"
 category: tadabbur
-arabic: "إِذْ جَعَلَ ٱلَّذِينَ كَفَرُوا۟ فِى قُلُوبِهِمُ ٱلْحَمِيَّةَ حَمِيَّةَ ٱلْجَـٰهِلِيَّةِ فَأَنزَلَ ٱللَّهُ سَكِينَتَهُۥ عَلَىٰ رَسُولِهِۦ وَعَلَى ٱلْمُؤْمِنِينَ وَأَلْزَمَهُمْ كَلِمَةَ ٱلتَّقْوَىٰ وَكَانُوٓا۟ أَحَقَّ بِهَا وَأَهْلَهَا ۚ وَكَانَ ٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمًۭا"
+arabic: "إِذْ جَعَلَ ٱلَّذِينَ كَفَرُوا۟ فِى قُلُوبِهِمُ ٱلْحَمِيَّةَ حَمِيَّةَ ٱلْجَـٰهِلِيَّةِ فَأَنزَلَ ٱللَّهُ سَكِينَتَهُۥ عَلَىٰ رَسُولِهِۦ وَعَلَى ٱلْمُؤْمِنِينَ وَأَلْزَمَهُمْ كَلِمَةَ ٱلتَّقْوَىٰ وَكَانُوٓا۟ أَحَقَّ بِهَا وَأَهْلَهَا ۚ وَكَانَ ٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمًا"
 translation: "When those who disbelieved had set in their hearts the heat of disdain — the disdain of ignorance (jāhiliyya) — then Allah sent down His tranquility (sakīna) upon His Messenger and upon the believers, and bound them fast to the word of God-consciousness (taqwā); and they were more deserving of it, and its rightful people. And Allah is, of all things, ever Knowing."
 word_count: 28
 estimated_duration: "50-58 minutes"

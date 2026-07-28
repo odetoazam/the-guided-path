@@ -6,7 +6,7 @@ ayah_end: 20
 title: "The Day You Are Shown the Bill: How a Spent Portion and a Puffed-Up Self Become Humiliation"
 slug: "046-020"
 category: tadabbur
-arabic: "وَيَوْمَ يُعْرَضُ ٱلَّذِينَ كَفَرُوا۟ عَلَى ٱلنَّارِ أَذْهَبْتُمْ طَيِّبَـٰتِكُمْ فِى حَيَاتِكُمُ ٱلدُّنْيَا وَٱسْتَمْتَعْتُم بِهَا فَٱلْيَوْمَ تُجْزَوْنَ عَذَابَ ٱلْهُونِ بِمَا كُنتُمْ تَسْتَكْبِرُونَ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَبِمَا كُنتُمْ تَفْسُقُونَ"
+arabic: "وَيَوْمَ يُعْرَضُ ٱلَّذِينَ كَفَرُوا۟ عَلَى ٱلنَّارِ أَذْهَبْتُمْ طَيِّبَـٰتِكُمْ فِى حَيَاتِكُمُ ٱلدُّنْيَا وَٱسْتَمْتَعْتُم بِهَا فَٱلْيَوْمَ تُجْزَوْنَ عَذَابَ ٱلْهُونِ بِمَا كُنتُمْ تَسْتَكْبِرُونَ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَبِمَا كُنتُمْ تَفْسُقُونَ"
 translation: "And the Day those who disbelieved are exposed to the Fire, [it will be said], \"You used up your good things in your worldly life and took your enjoyment of them. So today you are repaid with the punishment of humiliation because you were arrogant upon the earth without right, and because you were defiantly disobedient.\""
 word_count: 2900
 estimated_duration: "50-58 minutes"

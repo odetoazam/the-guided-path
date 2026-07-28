@@ -6,7 +6,7 @@ ayah_end: 95
 title: "Five Words After the Calf — The Question That Could Have Been a Curse"
 slug: "020-095"
 category: tadabbur
-arabic: "قَالَ فَمَا خَطْبُكَ يَا سَامِرِيُّ"
+arabic: "قَالَ فَمَا خَطْبُكَ يَـٰسَـٰمِرِىُّ"
 translation: "He said, 'Then what is your matter, O Samiri?'"
 word_count: 5
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 35
 title: "Every Soul Is a Taster of Death — and Both Ease and Hardship Are the Refining Fire"
 slug: "021-035"
 category: tadabbur
-arabic: "كُلُّ نَفْسٍ ذَائِقَةُ ٱلْمَوْتِ ۗ وَنَبْلُوكُم بِٱلشَّرِّ وَٱلْخَيْرِ فِتْنَةً ۖ وَإِلَيْنَا تُرْجَعُونَ"
+arabic: "كُلُّ نَفْسٍ ذَآئِقَةُ ٱلْمَوْتِ ۗ وَنَبْلُوكُم بِٱلشَّرِّ وَٱلْخَيْرِ فِتْنَةً ۖ وَإِلَيْنَا تُرْجَعُونَ"
 translation: "Every soul is a taster of death. And We test you with evil and good as a trial. And to Us you will be returned."
 word_count: 11
 estimated_duration: "50-58 minutes"

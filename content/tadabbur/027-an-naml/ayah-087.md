@@ -6,7 +6,7 @@ ayah_end: 87
 title: "The Day the Trumpet Sounds and Everything That Stood Will Tremble"
 slug: "027-087"
 category: tadabbur
-arabic: "وَيَوْمَ يُنفَخُ فِى ٱلصُّورِ فَفَزِعَ مَن فِى ٱلسَّمَـٰوَٰتِ وَمَن فِى ٱلْأَرْضِ إِلَّا مَن شَآءَ ٱللَّهُ ۚ وَكُلٌّ أَتَوْهُ دَٰخِرِينَ"
+arabic: "وَيَوْمَ يُنفَخُ فِى ٱلصُّورِ فَفَزِعَ مَن فِى ٱلسَّمَـٰوَٰتِ وَمَن فِى ٱلْأَرْضِ إِلَّا مَن شَآءَ ٱللَّهُ ۚ وَكُلٌّ أَتَوْهُ دَٰخِرِينَ"
 translation: "And on the Day the Trumpet is blown, all who are in the heavens and all who are on the earth will be struck with terror — except whom Allah wills. And all will come to Him humbled."
 word_count: 1850
 estimated_duration: "50-55 minutes"

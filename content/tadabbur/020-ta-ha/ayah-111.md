@@ -6,7 +6,7 @@ ayah_end: 111
 title: "The Face That Surrenders Last: Before Al-Hayy Al-Qayyum"
 slug: "020-111"
 category: tadabbur
-arabic: "وَعَنَتِ ٱلْوُجُوهُ لِلْحَىِّ ٱلْقَيُّومِ ۖ وَقَدْ خَابَ مَنْ حَمَلَ ظُلْمًۭا"
+arabic: "۞ وَعَنَتِ ٱلْوُجُوهُ لِلْحَىِّ ٱلْقَيُّومِ ۖ وَقَدْ خَابَ مَنْ حَمَلَ ظُلْمًا"
 translation: "And [all] faces will be humbled before the Ever-Living, the Self-Sustaining. And he will have failed who carried injustice."
 word_count: 12
 estimated_duration: "48-55 minutes"

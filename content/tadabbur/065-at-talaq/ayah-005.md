@@ -6,7 +6,7 @@ ayah_end: 5
 title: "The Command That Descends: Erasure, Taqwā, and the Reward That Cannot Be Named"
 slug: "065-005"
 category: tadabbur
-arabic: "ذَٰلِكَ أَمْرُ ٱللَّهِ أَنزَلَهُۥٓ إِلَيْكُمْ ۚ وَمَن يَتَّقِ ٱللَّهَ يُكَفِّرْ عَنْهُ سَيِّـَٔـاتِهِۦ وَيُعْظِمْ لَهُۥٓ أَجْرًا"
+arabic: "ذَٰلِكَ أَمْرُ ٱللَّهِ أَنزَلَهُۥٓ إِلَيْكُمْ ۚ وَمَن يَتَّقِ ٱللَّهَ يُكَفِّرْ عَنْهُ سَيِّـَٔاتِهِۦ وَيُعْظِمْ لَهُۥٓ أَجْرًا"
 translation: "That is the command of Allah, which He has sent down to you. And whoever fears Allah — He will remove from him his misdeeds and make great for him his reward."
 word_count: 4450
 estimated_duration: "50-57 minutes"

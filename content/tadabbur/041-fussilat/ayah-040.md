@@ -6,7 +6,7 @@ ayah_end: 40
 title: "The Slanted Grave and the Two Arrivals: On Distortion That Was Never Hidden"
 slug: "041-040"
 category: tadabbur
-arabic: "إِنَّ ٱلَّذِينَ يُلْحِدُونَ فِىٓ ءَايَـٰتِنَا لَا يَخْفَوْنَ عَلَيْنَآ ۗ أَفَمَن يُلْقَىٰ فِى ٱلنَّارِ خَيْرٌ أَم مَّن يَأْتِىٓ ءَامِنًا يَوْمَ ٱلْقِيَـٰمَةِ ۚ ٱعْمَلُواْ مَا شِئْتُمْ ۖ إِنَّهُۥ بِمَا تَعْمَلُونَ بَصِيرٌ"
+arabic: "إِنَّ ٱلَّذِينَ يُلْحِدُونَ فِىٓ ءَايَـٰتِنَا لَا يَخْفَوْنَ عَلَيْنَآ ۗ أَفَمَن يُلْقَىٰ فِى ٱلنَّارِ خَيْرٌ أَم مَّن يَأْتِىٓ ءَامِنًا يَوْمَ ٱلْقِيَـٰمَةِ ۚ ٱعْمَلُوا۟ مَا شِئْتُمْ ۖ إِنَّهُۥ بِمَا تَعْمَلُونَ بَصِيرٌ"
 translation: "Indeed, those who distort Our verses are not hidden from Us. So is he who is cast into the Fire better, or he who comes secure on the Day of Resurrection? Do whatever you will; indeed He is All-Seeing of what you do."
 word_count: 26
 estimated_duration: "50-58 minutes"

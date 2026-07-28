@@ -6,7 +6,7 @@ ayah_end: 95
 title: "The Sacred Impossibility — When the Door of Return Becomes Forbidden"
 slug: "021-095"
 category: tadabbur
-arabic: "وَحَرَامٌ عَلَىٰ قَرْيَةٍ أَهْلَكْنَاهَا أَنَّهُمْ لَا يَرْجِعُونَ"
+arabic: "وَحَرَٰمٌ عَلَىٰ قَرْيَةٍ أَهْلَكْنَـٰهَآ أَنَّهُمْ لَا يَرْجِعُونَ"
 translation: "And there is a prohibition upon any town that We have destroyed — that they shall not return."
 word_count: 9
 estimated_duration: "50-58 minutes"

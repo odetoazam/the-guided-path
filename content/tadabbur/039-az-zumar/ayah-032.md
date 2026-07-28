@@ -6,7 +6,7 @@ ayah_end: 32
 title: "The Two Directions of a Lie: Who Could Be More Unjust"
 slug: "039-032"
 category: tadabbur
-arabic: "فَمَنْ أَظْلَمُ مِمَّن كَذَبَ عَلَى ٱللَّهِ وَكَذَّبَ بِٱلصِّدْقِ إِذْ جَآءَهُۥٓ ۚ أَلَيْسَ فِى جَهَنَّمَ مَثْوًى لِّلْكَـٰفِرِينَ"
+arabic: "۞ فَمَنْ أَظْلَمُ مِمَّن كَذَبَ عَلَى ٱللَّهِ وَكَذَّبَ بِٱلصِّدْقِ إِذْ جَآءَهُۥٓ ۚ أَلَيْسَ فِى جَهَنَّمَ مَثْوًى لِّلْكَـٰفِرِينَ"
 translation: "So who is more unjust than one who lies against Allah and denies the truth when it comes to him? Is there not, in Hell, an abode for those who reject?"
 word_count: 15
 estimated_duration: "50-58 minutes"

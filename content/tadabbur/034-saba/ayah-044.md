@@ -6,7 +6,7 @@ ayah_end: 44
 title: "Verdict Without Witnesses: The Double Absence Behind the Makkans' Rejection"
 slug: "034-044"
 category: tadabbur
-arabic: "وَمَآ ءَاتَيْنَـٰهُم مِّن كُتُبٍ يَدْرُسُونَهَا وَمَآ أَرْسَلْنَآ إِلَيْهِمْ قَبْلَكَ مِن نَّذِيرٍ"
+arabic: "وَمَآ ءَاتَيْنَـٰهُم مِّن كُتُبٍ يَدْرُسُونَهَا ۖ وَمَآ أَرْسَلْنَآ إِلَيْهِمْ قَبْلَكَ مِن نَّذِيرٍ"
 translation: "And We had not given them any scriptures to study, nor had We sent any warner to them before you."
 word_count: 3950
 estimated_duration: "50-56 minutes"

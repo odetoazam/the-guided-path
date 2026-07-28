@@ -6,7 +6,7 @@ ayah_end: 11
 title: "The Flood That Goes Unnoticed: On Being Submerged and Absent"
 slug: "051-011"
 category: tadabbur
-arabic: "الَّذِينَ هُمْ فِي غَمْرَةٍ سَاهُونَ"
+arabic: "ٱلَّذِينَ هُمْ فِى غَمْرَةٍ سَاهُونَ"
 translation: "Those who are submerged in a flood — with hearts that have drifted away."
 word_count: 4750
 estimated_duration: "48-56 minutes"

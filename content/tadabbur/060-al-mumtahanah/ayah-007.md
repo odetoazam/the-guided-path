@@ -6,7 +6,7 @@ ayah_end: 7
 title: "The Enemy You Have Not Yet Loved: How Allah Holds the Future Open"
 slug: "060-007"
 category: tadabbur
-arabic: "عَسَى ٱللَّهُ أَن يَجْعَلَ بَيْنَكُمْ وَبَيْنَ ٱلَّذِينَ عَادَيْتُم مِّنْهُم مَّوَدَّةً ۚ وَٱللَّهُ قَدِيرٌ ۚ وَٱللَّهُ غَفُورٌ رَّحِيمٌ"
+arabic: "۞ عَسَى ٱللَّهُ أَن يَجْعَلَ بَيْنَكُمْ وَبَيْنَ ٱلَّذِينَ عَادَيْتُم مِّنْهُم مَّوَدَّةً ۚ وَٱللَّهُ قَدِيرٌ ۚ وَٱللَّهُ غَفُورٌ رَّحِيمٌ"
 translation: "Perhaps Allah will place, between you and those of them you have treated as enemies, love. And Allah is All-Powerful, and Allah is Oft-Forgiving, Most Merciful."
 word_count: 7100
 estimated_duration: "50-57 minutes"

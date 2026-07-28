@@ -6,7 +6,7 @@ ayah_end: 13
 title: "The Edges That Open Into the Boundless"
 slug: "004-013"
 category: tadabbur
-arabic: "تِلْكَ حُدُودُ ٱللَّهِ ۚ وَمَن يُطِعِ ٱللَّهَ وَرَسُولَهُۥ يُدْخِلْهُ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَا ۚ وَذَٰلِكَ ٱلْفَوْزُ ٱلْعَظِيمُ"
+arabic: "تِلْكَ حُدُودُ ٱللَّهِ ۚ وَمَن يُطِعِ ٱللَّهَ وَرَسُولَهُۥ يُدْخِلْهُ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَا ۚ وَذَٰلِكَ ٱلْفَوْزُ ٱلْعَظِيمُ"
 translation: "Those are the limits of Allah. And whoever obeys Allah and His Messenger — He will admit him to gardens beneath which rivers flow, abiding therein forever. And that is the tremendous triumph."
 word_count: 4700
 estimated_duration: "50-57 minutes"

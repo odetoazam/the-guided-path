@@ -6,7 +6,7 @@ ayah_end: 2
 title: "Tilka: The Distance Built Into the Book"
 slug: "028-002"
 category: tadabbur
-arabic: "تِلْكَ آيَاتُ الْكِتَابِ الْمُبِينِ"
+arabic: "تِلْكَ ءَايَـٰتُ ٱلْكِتَـٰبِ ٱلْمُبِينِ"
 translation: "These are the verses of the Clear Book."
 word_count: 4700
 estimated_duration: "48-55 minutes"

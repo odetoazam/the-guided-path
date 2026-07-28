@@ -6,7 +6,7 @@ ayah_end: 18
 title: "Bal Naqdhif: When Truth Is Hurled and Falsehood's Skull Cracks"
 slug: "021-018"
 category: tadabbur
-arabic: "بَلْ نَقْذِفُ بِٱلْحَقِّ عَلَى ٱلْبَـٰطِلِ فَيَدْمَغُهُۥ فَإِذَا هُوَ زَاهِقٌۭ ۚ وَلَكُمُ ٱلْوَيْلُ مِمَّا تَصِفُونَ"
+arabic: "بَلْ نَقْذِفُ بِٱلْحَقِّ عَلَى ٱلْبَـٰطِلِ فَيَدْمَغُهُۥ فَإِذَا هُوَ زَاهِقٌ ۚ وَلَكُمُ ٱلْوَيْلُ مِمَّا تَصِفُونَ"
 translation: "Rather, We hurl the truth against falsehood, and it strikes its skull, and behold — it is perishing. And woe to you for what you describe."
 word_count: 14
 estimated_duration: "50-55 minutes"

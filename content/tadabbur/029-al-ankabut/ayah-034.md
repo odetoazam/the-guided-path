@@ -6,7 +6,7 @@ ayah_end: 34
 title: "The Grammar of a Falling Sky"
 slug: "029-034"
 category: tadabbur
-arabic: "إِنَّا مُنزِلُونَ عَلَىٰ أَهْلِ هَٰذِهِ ٱلْقَرْيَةِ رِجْزًا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَفْسُقُونَ"
+arabic: "إِنَّا مُنزِلُونَ عَلَىٰٓ أَهْلِ هَـٰذِهِ ٱلْقَرْيَةِ رِجْزًا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَفْسُقُونَ"
 translation: "Indeed, we are sending down upon the people of this town a defilement from the sky, because of what they have continually been transgressing."
 word_count: 12
 estimated_duration: "50-58 minutes"

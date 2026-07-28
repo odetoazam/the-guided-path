@@ -6,7 +6,7 @@ ayah_end: 27
 title: "The Ocean With No Shore: When the Tools of Creation Cannot Hold the Speech of the Creator"
 slug: "031-027"
 category: tadabbur
-arabic: "وَلَوْ أَنَّمَا فِى ٱلْأَرْضِ مِن شَجَرَةٍ أَقْلَـٰمٌ وَٱلْبَحْرُ يَمُدُّهُۥ مِنۢ بَعْدِهِۦ سَبْعَةُ أَبْحُرٍ مَّا نَفِدَتْ كَلِمَـٰتُ ٱللَّهِ ۗ إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ"
+arabic: "وَلَوْ أَنَّمَا فِى ٱلْأَرْضِ مِن شَجَرَةٍ أَقْلَـٰمٌ وَٱلْبَحْرُ يَمُدُّهُۥ مِنۢ بَعْدِهِۦ سَبْعَةُ أَبْحُرٍ مَّا نَفِدَتْ كَلِمَـٰتُ ٱللَّهِ ۗ إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ"
 translation: "And if whatever trees there are upon the earth were pens, and the sea — replenished thereafter by seven more seas — were ink, the words of Allah would still not be exhausted. Indeed, Allah is Mighty, Wise."
 word_count: 22
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 50
 title: "Confirming Before Changing: The Mercy That Lifts a Measured Burden"
 slug: "003-050"
 category: tadabbur
-arabic: "وَمُصَدِّقًا لِّمَا بَيْنَ يَدَيَّ مِنَ ٱلتَّوْرَىٰةِ وَلِأُحِلَّ لَكُم بَعْضَ ٱلَّذِى حُرِّمَ عَلَيْكُمْ ۚ وَجِئْتُكُم بِـَٔايَةٍ مِّن رَّبِّكُمْ فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ"
+arabic: "وَمُصَدِّقًا لِّمَا بَيْنَ يَدَىَّ مِنَ ٱلتَّوْرَىٰةِ وَلِأُحِلَّ لَكُم بَعْضَ ٱلَّذِى حُرِّمَ عَلَيْكُمْ ۚ وَجِئْتُكُم بِـَٔايَةٍ مِّن رَّبِّكُمْ فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ"
 translation: "And [I have come] confirming what was before me of the Torah, and so that I may make lawful for you some of what was forbidden to you. And I have come to you with a sign from your Lord — so be conscious of Allah and obey me."
 word_count: 19
 estimated_duration: "50-58 minutes"

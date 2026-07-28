@@ -6,7 +6,7 @@ ayah_end: 57
 title: "The Punishment That Mirrors the Crime: When Mockery Meets Its Echo"
 slug: "033-057"
 category: tadabbur
-arabic: "إِنَّ ٱلَّذِينَ يُؤْذُونَ ٱللَّهَ وَرَسُولَهُۥ لَعَنَهُمُ ٱللَّهُ فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ وَأَعَدَّ لَهُمْ عَذَابًۭا مُّهِينًۭا"
+arabic: "إِنَّ ٱلَّذِينَ يُؤْذُونَ ٱللَّهَ وَرَسُولَهُۥ لَعَنَهُمُ ٱللَّهُ فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ وَأَعَدَّ لَهُمْ عَذَابًا مُّهِينًا"
 translation: "Indeed, those who try to harm Allah and His Messenger — Allah has cursed them in this world and the Hereafter, and has prepared for them a humiliating punishment."
 word_count: 14
 estimated_duration: "50-58 minutes"

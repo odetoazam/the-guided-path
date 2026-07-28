@@ -6,7 +6,7 @@ ayah_end: 10
 title: "Already Prepared, Already Sent: The Two Completed Acts and the People of the Kernel"
 slug: "065-010"
 category: tadabbur
-arabic: "أَعَدَّ ٱللَّهُ لَهُمْ عَذَابًا شَدِيدًا ۖ فَٱتَّقُوا۟ ٱللَّهَ يَـٰٓأُو۟لِى ٱلْأَلْبَـٰبِ ٱلَّذِينَ ءَامَنُوا۟ ۚ قَدْ أَنزَلَ ٱللَّهُ إِلَيْكُمْ ذِكْرًا"
+arabic: "أَعَدَّ ٱللَّهُ لَهُمْ عَذَابًا شَدِيدًا ۖ فَٱتَّقُوا۟ ٱللَّهَ يَـٰٓأُو۟لِى ٱلْأَلْبَـٰبِ ٱلَّذِينَ ءَامَنُوا۟ ۚ قَدْ أَنزَلَ ٱللَّهُ إِلَيْكُمْ ذِكْرًا"
 translation: "Allah has prepared for them a severe punishment. So be conscious of Allah, O people of understanding — you who have believed. Allah has indeed sent down to you a Reminder."
 word_count: 16
 estimated_duration: "50-58 minutes"

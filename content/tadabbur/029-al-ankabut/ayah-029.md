@@ -6,7 +6,7 @@ ayah_end: 29
 title: "The Four Indictments: When a People Invent Evils Never Seen Before"
 slug: "029-029"
 category: tadabbur
-arabic: "أَئِنَّكُمْ لَتَأْتُونَ ٱلرِّجَالَ وَتَقْطَعُونَ ٱلسَّبِيلَ وَتَأْتُونَ فِى نَادِيكُمُ ٱلْمُنكَرَ ۖ فَمَا كَانَ جَوَابَ قَوْمِهِۦٓ إِلَّآ أَن قَالُوا۟ ٱئْتِنَا بِعَذَابِ ٱللَّهِ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ"
+arabic: "أَئِنَّكُمْ لَتَأْتُونَ ٱلرِّجَالَ وَتَقْطَعُونَ ٱلسَّبِيلَ وَتَأْتُونَ فِى نَادِيكُمُ ٱلْمُنكَرَ ۖ فَمَا كَانَ جَوَابَ قَوْمِهِۦٓ إِلَّآ أَن قَالُوا۟ ٱئْتِنَا بِعَذَابِ ٱللَّهِ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ"
 translation: "Do you really approach men, and cut off the way, and commit in your gatherings what is wrong? But the only answer of his people was that they said: Bring us the punishment of Allah, if you are of the truthful."
 word_count: 28
 estimated_duration: "50-58 minutes"

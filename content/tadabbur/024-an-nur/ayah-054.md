@@ -6,7 +6,7 @@ ayah_end: 54
 title: "The Burden That Stays With You: When Obedience Is the Only Thing You Carry"
 slug: "024-054"
 category: tadabbur
-arabic: "قُلْ أَطِيعُوا۟ ٱللَّهَ وَأَطِيعُوا۟ ٱلرَّسُولَ ۖ فَإِن تَوَلَّوْا۟ فَإِنَّمَا عَلَيْهِ مَا حُمِّلَ وَعَلَيْكُم مَّا حُمِّلْتُمْ ۖ وَإِن تُطِيعُوهُ تَهْتَدُوا۟ ۚ وَمَا عَلَى ٱلرَّسُولِ إِلَّا ٱلْبَلَـٰغُ ٱلْمُبِينُ"
+arabic: "قُلْ أَطِيعُوا۟ ٱللَّهَ وَأَطِيعُوا۟ ٱلرَّسُولَ ۖ فَإِن تَوَلَّوْا۟ فَإِنَّمَا عَلَيْهِ مَا حُمِّلَ وَعَلَيْكُم مَّا حُمِّلْتُمْ ۖ وَإِن تُطِيعُوهُ تَهْتَدُوا۟ ۚ وَمَا عَلَى ٱلرَّسُولِ إِلَّا ٱلْبَلَـٰغُ ٱلْمُبِينُ"
 translation: "Say: Obey Allah and obey the Messenger. But if you turn away, then upon him is only what he has been burdened with, and upon you is only what you have been burdened with. And if you obey him, you will be guided. And nothing is upon the Messenger except the clear conveyance."
 word_count: 28
 estimated_duration: "50-58 minutes"

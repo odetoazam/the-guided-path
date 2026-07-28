@@ -6,7 +6,7 @@ ayah_end: 54
 title: "The Same Word, Two Worlds Apart: Plotting Against the One Who Plans"
 slug: "003-054"
 category: tadabbur
-arabic: "وَمَكَرُوا۟ وَمَكَرَ ٱللَّهُ ۖ وَٱللَّهُ خَيْرُ ٱلْمَٰكِرِينَ"
+arabic: "وَمَكَرُوا۟ وَمَكَرَ ٱللَّهُ ۖ وَٱللَّهُ خَيْرُ ٱلْمَـٰكِرِينَ"
 translation: "And they schemed, and Allah planned. And Allah is the best of planners."
 word_count: 6
 estimated_duration: "48-59 minutes"

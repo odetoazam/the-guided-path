@@ -6,7 +6,7 @@ ayah_end: 5
 title: "The Nameless Envier: When a Feeling Becomes a Wound"
 slug: "113-005"
 category: tadabbur
-arabic: "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ"
+arabic: "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ"
 translation: "And from the evil of an envier when he envies."
 word_count: 5
 estimated_duration: "48-59 minutes"

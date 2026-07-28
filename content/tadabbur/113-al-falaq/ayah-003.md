@@ -6,7 +6,7 @@ ayah_end: 3
 title: "The Darkness When It Settles: Seeking Refuge from What Enters Unannounced"
 slug: "113-003"
 category: tadabbur
-arabic: "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ"
+arabic: "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ"
 translation: "And from the evil of darkness when it settles in."
 word_count: 6
 estimated_duration: "48-58 minutes"

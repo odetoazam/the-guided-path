@@ -6,7 +6,7 @@ ayah_end: 38
 title: "The Weight That Is Yours Alone: Why No Soul Can Be Charged With Another's Burden"
 slug: "053-038"
 category: tadabbur
-arabic: "أَلَّا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ"
+arabic: "أَلَّا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ"
 translation: "That no bearer of burdens shall bear the burden of another."
 word_count: 6200
 estimated_duration: "50-58 minutes"

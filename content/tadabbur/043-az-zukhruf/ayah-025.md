@@ -6,7 +6,7 @@ ayah_end: 25
 title: "The Heel That Follows: Retribution, and the Pedagogy of Endings"
 slug: "043-025"
 category: tadabbur
-arabic: "فَٱنتَقَمْنَا مِنْهُمْ ۖ فَٱنظُرْ كَيْفَ كَانَ عَـٰقِبَةُ ٱلْمُكَذِّبِينَ"
+arabic: "فَٱنتَقَمْنَا مِنْهُمْ ۖ فَٱنظُرْ كَيْفَ كَانَ عَـٰقِبَةُ ٱلْمُكَذِّبِينَ"
 translation: "So We took retribution from them. Then look — how was the end of those who kept crying lies?"
 word_count: 7
 estimated_duration: "48-58 minutes"

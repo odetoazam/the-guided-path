@@ -6,7 +6,7 @@ ayah_end: 37
 title: "The Morning That Found Them Still: The Fā' That Closed the Distance"
 slug: "029-037"
 category: tadabbur
-arabic: "فَكَذَّبُوهُ فَأَخَذَتْهُمُ ٱلرَّجْفَةُ فَأَصْبَحُوا۟ فِى دَارِهِمْ جَـٰثِمِينَ"
+arabic: "فَكَذَّبُوهُ فَأَخَذَتْهُمُ ٱلرَّجْفَةُ فَأَصْبَحُوا۟ فِى دَارِهِمْ جَـٰثِمِينَ"
 translation: "But they denied him — so the tremor seized them, and they came to morning in their home, motionless on the ground."
 word_count: 7
 estimated_duration: "50-56 minutes"

@@ -6,7 +6,7 @@ ayah_end: 36
 title: "The Test Disguised as a Blessing — Wealth, Want, and the Misread Signal"
 slug: "034-036"
 category: tadabbur
-arabic: "قُلْ إِنَّ رَبِّى يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ"
+arabic: "قُلْ إِنَّ رَبِّى يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ"
 translation: "Say: Indeed my Lord extends provision for whom He wills and restricts it — but most people do not know."
 word_count: 13
 estimated_duration: "48-55 minutes"

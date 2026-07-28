@@ -6,7 +6,7 @@ ayah_end: 28
 title: "Sent to All, Known by Few — The Strange Geometry of Universal Mercy"
 slug: "034-028"
 category: tadabbur
-arabic: "وَمَآ أَرْسَلْنَـٰكَ إِلَّا كَآفَّةً لِّلنَّاسِ بَشِيرًا وَنَذِيرًا وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ"
+arabic: "وَمَآ أَرْسَلْنَـٰكَ إِلَّا كَآفَّةً لِّلنَّاسِ بَشِيرًا وَنَذِيرًا وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ"
 translation: "And We have not sent you except as an all-encompassing [messenger] to mankind — a bearer of glad tidings and a warner. But most of the people do not know."
 word_count: 12
 estimated_duration: "50-55 minutes"

@@ -6,7 +6,7 @@ ayah_end: 108
 title: "The Question That Ends the Corridor of Prophets"
 slug: "021-108"
 category: tadabbur
-arabic: "قُلْ إِنَّمَا يُوحَىٰ إِلَيَّ أَنَّمَا إِلَـٰهُكُمْ إِلَـٰهٌ وَاحِدٌ ۖ فَهَلْ أَنتُم مُّسْلِمُونَ"
+arabic: "قُلْ إِنَّمَا يُوحَىٰٓ إِلَىَّ أَنَّمَآ إِلَـٰهُكُمْ إِلَـٰهٌ وَٰحِدٌ ۖ فَهَلْ أَنتُم مُّسْلِمُونَ"
 translation: "Say: 'What is revealed to me is only this — that your god is one God. Will you, then, surrender to Him?'"
 word_count: 11
 estimated_duration: "50-58 minutes"

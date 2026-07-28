@@ -6,7 +6,7 @@ ayah_end: 54
 title: "The Doubt That Is Already Surrounded: Mirya and Muḥīṭ at the Close of Fussilat"
 slug: "041-054"
 category: tadabbur
-arabic: "أَلَآ إِنَّهُمْ فِى مِرْيَةٍ مِّن لِّقَآءِ رَبِّهِمْ ۗ أَلَآ إِنَّهُۥ بِكُلِّ شَىْءٍ مُّحِيطٌۢ"
+arabic: "أَلَآ إِنَّهُمْ فِى مِرْيَةٍ مِّن لِّقَآءِ رَبِّهِمْ ۗ أَلَآ إِنَّهُۥ بِكُلِّ شَىْءٍ مُّحِيطٌۢ"
 translation: "Unquestionably, they are in doubt about the meeting with their Lord. Unquestionably, He encompasses all things."
 word_count: 12
 estimated_duration: "50-56 minutes"

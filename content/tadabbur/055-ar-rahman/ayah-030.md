@@ -6,7 +6,7 @@ ayah_end: 30
 title: "Which One Will You Call a Lie? — The Refrain That Audits the Heart"
 slug: "055-030"
 category: tadabbur
-arabic: "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ"
+arabic: "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
 translation: "So which of the favors of your Lord will you both deny?"
 word_count: 4
 estimated_duration: "48-59 minutes"

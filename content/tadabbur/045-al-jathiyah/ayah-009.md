@@ -6,7 +6,7 @@ ayah_end: 9
 title: "The Joke That Comes Back: When a Known Sign Is Made Small"
 slug: "045-009"
 category: tadabbur
-arabic: "وَإِذَا عَلِمَ مِنْ ءَايَٰتِنَا شَيْـًٔا ٱتَّخَذَهَا هُزُوًا ۚ أُو۟لَٰٓئِكَ لَهُمْ عَذَابٌ مُّهِينٌ"
+arabic: "وَإِذَا عَلِمَ مِنْ ءَايَـٰتِنَا شَيْـًٔا ٱتَّخَذَهَا هُزُوًا ۚ أُو۟لَـٰٓئِكَ لَهُمْ عَذَابٌ مُّهِينٌ"
 translation: "And when he comes to know anything of Our signs, he takes them in mockery. Those — for them is a humiliating punishment."
 word_count: 4800
 estimated_duration: "50-58 minutes"

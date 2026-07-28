@@ -6,7 +6,7 @@ ayah_end: 7
 title: "They Claimed — The Word That Exposes Every Denial"
 slug: "064-007"
 category: tadabbur
-arabic: "زَعَمَ ٱلَّذِينَ كَفَرُوٓاْ أَن لَّن يُبْعَثُوٓاْ ۚ قُلْ بَلَىٰ وَرَبِّى لَتُبْعَثُنَّ ثُمَّ لَتُنَبَّؤُنَّ بِمَا عَمِلْتُمْ ۚ وَذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٌ"
+arabic: "زَعَمَ ٱلَّذِينَ كَفَرُوٓا۟ أَن لَّن يُبْعَثُوا۟ ۚ قُلْ بَلَىٰ وَرَبِّى لَتُبْعَثُنَّ ثُمَّ لَتُنَبَّؤُنَّ بِمَا عَمِلْتُمْ ۚ وَذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٌ"
 translation: "Those who disbelieve claim that they will never be raised. Say, “Yes, by my Lord, you will surely be raised; then you will surely be informed of what you did. And that is easy for Allah.”"
 word_count: 5200
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 66
 title: "The Ingratitude That Wears the Mask of Enjoyment"
 slug: "029-066"
 category: tadabbur
-arabic: "لِيَكْفُرُوا۟ بِمَآ ءَاتَيْنَـٰهُمْ وَلِيَتَمَتَّعُوا۟ ۖ فَسَوْفَ يَعْلَمُونَ"
+arabic: "لِيَكْفُرُوا۟ بِمَآ ءَاتَيْنَـٰهُمْ وَلِيَتَمَتَّعُوا۟ ۖ فَسَوْفَ يَعْلَمُونَ"
 translation: "So let them deny what We have given them, and let them enjoy themselves — for soon they will know."
 word_count: 11
 estimated_duration: "50-55 minutes"

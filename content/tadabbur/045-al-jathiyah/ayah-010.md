@@ -6,7 +6,7 @@ ayah_end: 10
 title: "What Is Behind You: The Wealth That Cannot Enrich and the Protectors That Cannot Protect"
 slug: "045-010"
 category: tadabbur
-arabic: "مِّن وَرَآئِهِمْ جَهَنَّمُۖ وَلَا يُغْنِى عَنْهُم مَّا كَسَبُوا۟ شَيْـًٔا وَلَا مَا ٱتَّخَذُوا۟ مِن دُونِ ٱللَّهِ أَوْلِيَآءَۖ وَلَهُمْ عَذَابٌ عَظِيمٌ"
+arabic: "مِّن وَرَآئِهِمْ جَهَنَّمُ ۖ وَلَا يُغْنِى عَنْهُم مَّا كَسَبُوا۟ شَيْـًٔا وَلَا مَا ٱتَّخَذُوا۟ مِن دُونِ ٱللَّهِ أَوْلِيَآءَ ۖ وَلَهُمْ عَذَابٌ عَظِيمٌ"
 translation: "Before them is Hell. And what they earned will not avail them in the least, nor will those they took as protectors besides Allah. And for them is a tremendous punishment."
 word_count: 19
 estimated_duration: "50-58 minutes"

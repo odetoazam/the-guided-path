@@ -6,7 +6,7 @@ ayah_end: 25
 title: "I Do Not Know: When the Most-Knowing Man Is Commanded to Confess the Hidden Term"
 slug: "072-025"
 category: tadabbur
-arabic: "قُلْ إِنْ أَدْرِىٓ أَقَرِيبٌ مَّا تُوعَدُونَ أَمْ يَجْعَلُ لَهُۥ رَبِّىٓ أَمَدًا"
+arabic: "قُلْ إِنْ أَدْرِىٓ أَقَرِيبٌ مَّا تُوعَدُونَ أَمْ يَجْعَلُ لَهُۥ رَبِّىٓ أَمَدًا"
 translation: "Say, \"I do not know whether what you are promised is near, or whether my Lord will appoint for it a distant term.\""
 word_count: 11
 estimated_duration: "48-58 minutes"

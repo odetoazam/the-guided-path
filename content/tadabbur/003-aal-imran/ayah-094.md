@@ -6,7 +6,7 @@ ayah_end: 94
 title: "The Manufacture of a Lie: When We Forge God in Our Own Image"
 slug: "003-094"
 category: tadabbur
-arabic: "فَمَنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ ٱلْكَذِبَ مِنۢ بَعْدِ ذَٰلِكَ فَأُو۟لَـٰٓئِكَ هُمُ ٱلظَّـٰلِمُونَ"
+arabic: "فَمَنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ ٱلْكَذِبَ مِنۢ بَعْدِ ذَٰلِكَ فَأُو۟لَـٰٓئِكَ هُمُ ٱلظَّـٰلِمُونَ"
 translation: "So whoever fabricates a lie against Allah after that — it is they who are the wrongdoers."
 word_count: 11
 estimated_duration: "48-59 minutes"

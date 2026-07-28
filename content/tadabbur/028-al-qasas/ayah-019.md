@@ -6,7 +6,7 @@ ayah_end: 19
 title: "The Sentence That Exposed Him: When the Tongue Reveals What the Heart Hides"
 slug: "028-019"
 category: tadabbur
-arabic: "فَلَمَّآ أَنْ أَرَادَ أَن يَبْطِشَ بِٱلَّذِى هُوَ عَدُوٌّ لَّهُمَا قَالَ يَـٰمُوسَىٰٓ أَتُرِيدُ أَن تَقْتُلَنِى كَمَا قَتَلْتَ نَفْسًۢا بِٱلْأَمْسِ ۖ إِن تُرِيدُ إِلَّآ أَن تَكُونَ جَبَّارًۭا فِى ٱلْأَرْضِ وَمَا تُرِيدُ أَن تَكُونَ مِنَ ٱلْمُصْلِحِينَ"
+arabic: "فَلَمَّآ أَنْ أَرَادَ أَن يَبْطِشَ بِٱلَّذِى هُوَ عَدُوٌّ لَّهُمَا قَالَ يَـٰمُوسَىٰٓ أَتُرِيدُ أَن تَقْتُلَنِى كَمَا قَتَلْتَ نَفْسًۢا بِٱلْأَمْسِ ۖ إِن تُرِيدُ إِلَّآ أَن تَكُونَ جَبَّارًا فِى ٱلْأَرْضِ وَمَا تُرِيدُ أَن تَكُونَ مِنَ ٱلْمُصْلِحِينَ"
 translation: "Then when he was about to strike the one who was an enemy to them both, the man said: 'O Moses, do you intend to kill me as you killed a soul yesterday? You only intend to be a tyrant in the land, and you do not intend to be among the reconcilers.'"
 word_count: 280
 estimated_duration: "50-55 minutes"

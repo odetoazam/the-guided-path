@@ -6,7 +6,7 @@ ayah_end: 35
 title: "Honored: The Destination of Those Who Chose the Unseen Economy"
 slug: "070-035"
 category: tadabbur
-arabic: "أُوْلَـٰٓئِكَ فِى جَنَّـٰتٍ مُّكْرَمُونَ"
+arabic: "أُو۟لَـٰٓئِكَ فِى جَنَّـٰتٍ مُّكْرَمُونَ"
 translation: "Those — in Gardens, honored."
 word_count: 6750
 estimated_duration: "52-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 47
 title: "The Mouth That Believes and the Feet That Walk Away"
 slug: "024-047"
 category: tadabbur
-arabic: "وَيَقُولُونَ ءَامَنَّا بِٱللَّهِ وَبِٱلرَّسُولِ وَأَطَعْنَا ثُمَّ يَتَوَلَّىٰ فَرِيقٌ مِّنْهُم مِّنۢ بَعْدِ ذَٰلِكَ ۚ وَمَآ أُو۟لَـٰٓئِكَ بِٱلْمُؤْمِنِينَ"
+arabic: "وَيَقُولُونَ ءَامَنَّا بِٱللَّهِ وَبِٱلرَّسُولِ وَأَطَعْنَا ثُمَّ يَتَوَلَّىٰ فَرِيقٌ مِّنْهُم مِّنۢ بَعْدِ ذَٰلِكَ ۚ وَمَآ أُو۟لَـٰٓئِكَ بِٱلْمُؤْمِنِينَ"
 translation: "And they say, 'We have believed in Allah and in the Messenger, and we obey.' Then a group of them turns away after that. And those — they are not believers."
 word_count: 22
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 45
 title: "The Brothers Who Could Not Be Brothers: Thamūd and the Architecture of Division"
 slug: "027-045"
 category: tadabbur
-arabic: "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ"
+arabic: "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ"
 translation: "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], 'Worship Allah.' And at once they became two factions conflicting."
 word_count: 14
 estimated_duration: "48-55 minutes"

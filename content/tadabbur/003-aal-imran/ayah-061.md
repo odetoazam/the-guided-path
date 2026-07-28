@@ -6,7 +6,7 @@ ayah_end: 61
 title: "Come, Let Us Stake Everything: The Verse That Ended an Argument Without a Word"
 slug: "003-061"
 category: tadabbur
-arabic: "فَمَنْ حَآجَّكَ فِيهِ مِنۢ بَعْدِ مَا جَآءَكَ مِنَ ٱلْعِلْمِ فَقُلْ تَعَالَوْاْ نَدْعُ أَبْنَآءَنَا وَأَبْنَآءَكُمْ وَنِسَآءَنَا وَنِسَآءَكُمْ وَأَنفُسَنَا وَأَنفُسَكُمْ ثُمَّ نَبْتَهِلْ فَنَجْعَل لَّعْنَتَ ٱللَّهِ عَلَى ٱلْكَـٰذِبِينَ"
+arabic: "فَمَنْ حَآجَّكَ فِيهِ مِنۢ بَعْدِ مَا جَآءَكَ مِنَ ٱلْعِلْمِ فَقُلْ تَعَالَوْا۟ نَدْعُ أَبْنَآءَنَا وَأَبْنَآءَكُمْ وَنِسَآءَنَا وَنِسَآءَكُمْ وَأَنفُسَنَا وَأَنفُسَكُمْ ثُمَّ نَبْتَهِلْ فَنَجْعَل لَّعْنَتَ ٱللَّهِ عَلَى ٱلْكَـٰذِبِينَ"
 translation: "Then whoever argues with you about him after the knowledge that has come to you — say: 'Come, let us call our sons and your sons, our women and your women, ourselves and yourselves; then let us pray earnestly and invoke the curse of Allah upon the liars.'"
 word_count: 25
 estimated_duration: "50-58 minutes"

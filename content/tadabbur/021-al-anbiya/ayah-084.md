@@ -6,7 +6,7 @@ ayah_end: 84
 title: "When He Responds, He Doesn't Restore — He Multiplies"
 slug: "021-084"
 category: tadabbur
-arabic: "فَٱسْتَجَبْنَا لَهُۥ فَكَشَفْنَا مَا بِهِۦ مِن ضُرٍّ ۖ وَءَاتَيْنَـٰهُ أَهْلَهُۥ وَمِثْلَهُم مَّعَهُمْ رَحْمَةً مِّنْ عِندِنَا وَذِكْرَىٰ لِلْعَـٰبِدِينَ"
+arabic: "فَٱسْتَجَبْنَا لَهُۥ فَكَشَفْنَا مَا بِهِۦ مِن ضُرٍّ ۖ وَءَاتَيْنَـٰهُ أَهْلَهُۥ وَمِثْلَهُم مَّعَهُمْ رَحْمَةً مِّنْ عِندِنَا وَذِكْرَىٰ لِلْعَـٰبِدِينَ"
 translation: "So We responded to him and lifted from him what was upon him of harm. And We gave him back his family — and their like along with them — as a mercy from Us and a reminder for the worshippers."
 word_count: 17
 estimated_duration: "50-58 minutes"

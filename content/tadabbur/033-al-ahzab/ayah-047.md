@@ -6,7 +6,7 @@ ayah_end: 47
 title: "The Bounty Allah Left Unnamed"
 slug: "033-047"
 category: tadabbur
-arabic: "وَبَشِّرِ ٱلْمُؤْمِنِينَ بِأَنَّ لَهُم مِّنَ ٱللَّهِ فَضْلًا كَبِيرًا"
+arabic: "وَبَشِّرِ ٱلْمُؤْمِنِينَ بِأَنَّ لَهُم مِّنَ ٱللَّهِ فَضْلًا كَبِيرًا"
 translation: "And give glad tidings to the believers that for them from Allah is a great bounty."
 word_count: 5100
 estimated_duration: "50-57 minutes"

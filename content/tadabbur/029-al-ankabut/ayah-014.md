@@ -6,7 +6,7 @@ ayah_end: 14
 title: "A Thousand Years Minus Fifty: How Allah Counts Hardship and Ease"
 slug: "029-014"
 category: tadabbur
-arabic: "وَلَقَدْ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِ فَلَبِثَ فِيهِمْ أَلْفَ سَنَةٍ إِلَّا خَمْسِينَ عَامًا فَأَخَذَهُمُ ٱلطُّوفَانُ وَهُمْ ظَٰلِمُونَ"
+arabic: "وَلَقَدْ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦ فَلَبِثَ فِيهِمْ أَلْفَ سَنَةٍ إِلَّا خَمْسِينَ عَامًا فَأَخَذَهُمُ ٱلطُّوفَانُ وَهُمْ ظَـٰلِمُونَ"
 translation: "And We certainly sent Nuh to his people, and he remained among them a thousand years minus fifty years. So the flood seized them while they were wrongdoers."
 word_count: 13
 estimated_duration: "50-58 minutes"

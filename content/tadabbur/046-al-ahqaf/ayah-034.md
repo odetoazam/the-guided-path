@@ -6,7 +6,7 @@ ayah_end: 34
 title: "Is This Not the Truth? — The Day Denial Meets What It Denied"
 slug: "046-034"
 category: tadabbur
-arabic: "وَيَوْمَ يُعْرَضُ ٱلَّذِينَ كَفَرُوا۟ عَلَى ٱلنَّارِ أَلَيْسَ هَـٰذَا بِٱلْحَقِّ ۖ قَالُوا۟ بَلَىٰ وَرَبِّنَا ۚ قَالَ فَذُوقُوا۟ ٱلْعَذَابَ بِمَا كُنتُمْ تَكْفُرُونَ"
+arabic: "وَيَوْمَ يُعْرَضُ ٱلَّذِينَ كَفَرُوا۟ عَلَى ٱلنَّارِ أَلَيْسَ هَـٰذَا بِٱلْحَقِّ ۖ قَالُوا۟ بَلَىٰ وَرَبِّنَا ۚ قَالَ فَذُوقُوا۟ ٱلْعَذَابَ بِمَا كُنتُمْ تَكْفُرُونَ"
 translation: "And the Day those who disbelieved are presented to the Fire — 'Is this not the truth?' They will say, 'Yes, by our Lord.' He will say, 'Then taste the punishment for what you used to deny.'"
 word_count: 18
 estimated_duration: "50-58 minutes"

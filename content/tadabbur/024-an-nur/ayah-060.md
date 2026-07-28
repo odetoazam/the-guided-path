@@ -6,7 +6,7 @@ ayah_end: 60
 title: "The Dignity of the Setting Sun: When Restraint Becomes Beauty"
 slug: "024-060"
 category: tadabbur
-arabic: "وَٱلْقَوَٰعِدُ مِنَ ٱلنِّسَآءِ ٱلَّـٰتِى لَا يَرْجُونَ نِكَاحًۭا فَلَيْسَ عَلَيْهِنَّ جُنَاحٌ أَن يَضَعْنَ ثِيَابَهُنَّ غَيْرَ مُتَبَرِّجَـٰتٍۭ بِزِينَةٍۢ ۖ وَأَن يَسْتَعْفِفْنَ خَيْرٌۭ لَّهُنَّ ۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌۭ"
+arabic: "وَٱلْقَوَٰعِدُ مِنَ ٱلنِّسَآءِ ٱلَّـٰتِى لَا يَرْجُونَ نِكَاحًا فَلَيْسَ عَلَيْهِنَّ جُنَاحٌ أَن يَضَعْنَ ثِيَابَهُنَّ غَيْرَ مُتَبَرِّجَـٰتٍۭ بِزِينَةٍ ۖ وَأَن يَسْتَعْفِفْنَ خَيْرٌ لَّهُنَّ ۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌ"
 translation: "And those women past childbearing who have no hope of marriage — there is no blame upon them if they set aside their outer garments, not displaying adornment. But that they refrain is better for them. And Allah is All-Hearing, All-Knowing."
 word_count: 28
 estimated_duration: "50-58 minutes"

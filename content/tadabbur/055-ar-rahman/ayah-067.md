@@ -6,7 +6,7 @@ ayah_end: 67
 title: "The Spring That Never Stops: On the Effort It Takes to Deny"
 slug: "055-067"
 category: tadabbur
-arabic: "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+arabic: "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
 translation: "So which of the favors of your Lord will you both deny?"
 word_count: 4150
 estimated_duration: "48-55 minutes"

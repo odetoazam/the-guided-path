@@ -6,7 +6,7 @@ ayah_end: 85
 title: "The Only Currency Accepted: Submission, Not the Name of It"
 slug: "003-085"
 category: tadabbur
-arabic: "وَمَن يَبْتَغِ غَيْرَ ٱلْإِسْلَـٰمِ دِينًا فَلَن يُقْبَلَ مِنْهُ وَهُوَ فِى ٱلْأَخِرَةِ مِنَ ٱلْخَـٰسِرِينَ"
+arabic: "وَمَن يَبْتَغِ غَيْرَ ٱلْإِسْلَـٰمِ دِينًا فَلَن يُقْبَلَ مِنْهُ وَهُوَ فِى ٱلْـَٔاخِرَةِ مِنَ ٱلْخَـٰسِرِينَ"
 translation: "And whoever seeks other than submission [to God] as a religion — it will never be accepted from him, and in the Hereafter he will be among the losers."
 word_count: 13
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 14
 title: "The Gods That Cannot Hear: On Calling Into Silence"
 slug: "035-014"
 category: tadabbur
-arabic: "إِن تَدْعُوهُمْ لَا يَسْمَعُوا۟ دُعَآءَكُمْ وَلَوْ سَمِعُوا۟ مَا ٱسْتَجَابُوا۟ لَكُمْ ۖ وَيَوْمَ ٱلْقِيَـٰمَةِ يَكْفُرُونَ بِشِرْكِكُمْ ۚ وَلَا يُنَبِّئُكَ مِثْلُ خَبِيرٍۭ"
+arabic: "إِن تَدْعُوهُمْ لَا يَسْمَعُوا۟ دُعَآءَكُمْ وَلَوْ سَمِعُوا۟ مَا ٱسْتَجَابُوا۟ لَكُمْ ۖ وَيَوْمَ ٱلْقِيَـٰمَةِ يَكْفُرُونَ بِشِرْكِكُمْ ۚ وَلَا يُنَبِّئُكَ مِثْلُ خَبِيرٍ"
 translation: "If you call upon them, they do not hear your call; and were they to hear, they could not respond to you. And on the Day of Resurrection they will disown your association of them. And none can inform you like the One who is All-Aware."
 word_count: 6600
 estimated_duration: "52-58 minutes"

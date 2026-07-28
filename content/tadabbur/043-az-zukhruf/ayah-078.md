@@ -6,7 +6,7 @@ ayah_end: 78
 title: "The Truth Came to Your Door: When the Nafs Recoils Not From Falsehood, But From Truth Itself"
 slug: "043-078"
 category: tadabbur
-arabic: "لَقَدْ جِئْنَٰكُم بِٱلْحَقِّ وَلَٰكِنَّ أَكْثَرَكُمْ لِلْحَقِّ كَٰرِهُونَ"
+arabic: "لَقَدْ جِئْنَـٰكُم بِٱلْحَقِّ وَلَـٰكِنَّ أَكْثَرَكُمْ لِلْحَقِّ كَـٰرِهُونَ"
 translation: "Certainly We brought you the truth — but most of you were averse to the truth."
 word_count: 7
 estimated_duration: "50-58 minutes"

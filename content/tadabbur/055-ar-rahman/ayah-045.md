@@ -6,7 +6,7 @@ ayah_end: 45
 title: "Which Favor? — When the Warning Itself Is the Mercy"
 slug: "055-045"
 category: tadabbur
-arabic: "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+arabic: "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
 translation: "So which of the favors of your Lord will you both deny?"
 word_count: 7100
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 7
 title: "The Eyes That Would Not Lower Themselves: Emergence Day in Surah al-Qamar"
 slug: "054-007"
 category: tadabbur
-arabic: "خُشَّعًا أَبْصَـٰرُهُمْ يَخْرُجُونَ مِنَ ٱلْأَجْدَاثِ كَأَنَّهُمْ جَرَادٌ مُّنتَشِرٌ"
+arabic: "خُشَّعًا أَبْصَـٰرُهُمْ يَخْرُجُونَ مِنَ ٱلْأَجْدَاثِ كَأَنَّهُمْ جَرَادٌ مُّنتَشِرٌ"
 translation: "With eyes humbled, they will emerge from the graves as if they were locusts scattering."
 word_count: 5100
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 44
 title: "The Hand That Turns the Night Also Turns the Heart"
 slug: "024-044"
 category: tadabbur
-arabic: "يُقَلِّبُ ٱللَّهُ ٱلَّيْلَ وَٱلنَّهَارَ ۚ إِنَّ فِى ذَٰلِكَ لَعِبْرَةً لِّأُو۟لِى ٱلْأَبْصَٰرِ"
+arabic: "يُقَلِّبُ ٱللَّهُ ٱلَّيْلَ وَٱلنَّهَارَ ۚ إِنَّ فِى ذَٰلِكَ لَعِبْرَةً لِّأُو۟لِى ٱلْأَبْصَـٰرِ"
 translation: "Allah turns over the night and the day. Indeed, in that is a crossing-over for those who possess sights."
 word_count: 12
 estimated_duration: "50-55 minutes"

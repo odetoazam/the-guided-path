@@ -6,7 +6,7 @@ ayah_end: 37
 title: "When Drowning Becomes a Sign: The People of Nuh and the Wage of Wrongdoing"
 slug: "025-037"
 category: tadabbur
-arabic: "وَقَوْمَ نُوحٍ لَّمَّا كَذَّبُوا۟ ٱلرُّسُلَ أَغْرَقْنَـٰهُمْ وَجَعَلْنَـٰهُمْ لِلنَّاسِ ءَايَةً ۖ وَأَعْتَدْنَا لِلظَّـٰلِمِينَ عَذَابًا أَلِيمًا"
+arabic: "وَقَوْمَ نُوحٍ لَّمَّا كَذَّبُوا۟ ٱلرُّسُلَ أَغْرَقْنَـٰهُمْ وَجَعَلْنَـٰهُمْ لِلنَّاسِ ءَايَةً ۖ وَأَعْتَدْنَا لِلظَّـٰلِمِينَ عَذَابًا أَلِيمًا"
 translation: "And the people of Nuh — when they denied the messengers, We drowned them and made them a sign for humanity. And We have prepared for the wrongdoers a painful punishment."
 word_count: 18
 estimated_duration: "50-58 minutes"

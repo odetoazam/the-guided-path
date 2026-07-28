@@ -6,7 +6,7 @@ ayah_end: 11
 title: "The Promise Inside Every Trial: What It Means That Allah Will Surely Know"
 slug: "029-011"
 category: tadabbur
-arabic: "وَلَيَعْلَمَنَّ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ وَلَيَعْلَمَنَّ ٱلْمُنَٰفِقِينَ"
+arabic: "وَلَيَعْلَمَنَّ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ وَلَيَعْلَمَنَّ ٱلْمُنَـٰفِقِينَ"
 translation: "And Allah will most surely make evident those who believed, and He will most surely make evident the hypocrites."
 word_count: 5200
 estimated_duration: "50-58 minutes"

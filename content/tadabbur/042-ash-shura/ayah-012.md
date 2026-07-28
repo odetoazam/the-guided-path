@@ -6,7 +6,7 @@ ayah_end: 12
 title: "The Keys, the Spreading Hand, and the Measuring Hand"
 slug: "042-012"
 category: tadabbur
-arabic: "لَهُۥ مَقَالِيدُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۖ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ ۚ إِنَّهُۥ بِكُلِّ شَىْءٍ عَلِيمٌ"
+arabic: "لَهُۥ مَقَالِيدُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ ۚ إِنَّهُۥ بِكُلِّ شَىْءٍ عَلِيمٌ"
 translation: "To Him belong the keys of the heavens and the earth. He extends provision for whom He wills and measures it out. Indeed, He is, of all things, Knowing."
 word_count: 6100
 estimated_duration: "50-58 minutes"

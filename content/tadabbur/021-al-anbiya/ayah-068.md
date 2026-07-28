@@ -6,7 +6,7 @@ ayah_end: 68
 title: "Burn Him, Support Your Gods: When the Defense of an Idol Reveals It Was Never a God"
 slug: "021-068"
 category: tadabbur
-arabic: "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَـٰعِلِينَ"
+arabic: "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَـٰعِلِينَ"
 translation: "They said: 'Burn him and support your gods, if you are to do anything.'"
 word_count: 7
 estimated_duration: "48-55 minutes"

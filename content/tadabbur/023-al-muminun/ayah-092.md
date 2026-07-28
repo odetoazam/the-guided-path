@@ -6,7 +6,7 @@ ayah_end: 92
 title: "The One Who Knows Both Halves: Why Shirk Is a Failure of Knowledge"
 slug: "023-092"
 category: tadabbur
-arabic: "عَـٰلِمِ ٱلْغَيْبِ وَٱلشَّهَـٰدَةِ فَتَعَـٰلَىٰ عَمَّا يُشْرِكُونَ"
+arabic: "عَـٰلِمِ ٱلْغَيْبِ وَٱلشَّهَـٰدَةِ فَتَعَـٰلَىٰ عَمَّا يُشْرِكُونَ"
 translation: "Knower of the unseen and the witnessed — so exalted is He above whatever they associate."
 word_count: 6
 estimated_duration: "48-55 minutes"

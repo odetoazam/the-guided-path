@@ -6,7 +6,7 @@ ayah_end: 19
 title: "The Gentlest Is the Strongest: Allah's Subtle Care Beneath What You Can See"
 slug: "042-019"
 category: tadabbur
-arabic: "ٱللَّهُ لَطِيفٌۢ بِعِبَادِهِۦ يَرْزُقُ مَن يَشَآءُ ۖ وَهُوَ ٱلْقَوِىُّ ٱلْعَزِيزُ"
+arabic: "ٱللَّهُ لَطِيفٌۢ بِعِبَادِهِۦ يَرْزُقُ مَن يَشَآءُ ۖ وَهُوَ ٱلْقَوِىُّ ٱلْعَزِيزُ"
 translation: "Allah is infinitely subtle and gentle with His servants; He provides for whomever He wills. And He is the All-Strong, the All-Mighty."
 word_count: 10
 estimated_duration: "48-58 minutes"

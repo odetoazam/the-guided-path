@@ -6,7 +6,7 @@ ayah_end: 112
 title: "Al-Mustaʿān — The Closing Verse and the Name for When Strength Gives Out"
 slug: "021-112"
 category: tadabbur
-arabic: "قَـٰلَ رَبِّ ٱحْكُم بِٱلْحَقِّ ۗ وَرَبُّنَا ٱلرَّحْمَـٰنُ ٱلْمُسْتَعَانُ عَلَىٰ مَا تَصِفُونَ"
+arabic: "قَـٰلَ رَبِّ ٱحْكُم بِٱلْحَقِّ ۗ وَرَبُّنَا ٱلرَّحْمَـٰنُ ٱلْمُسْتَعَانُ عَلَىٰ مَا تَصِفُونَ"
 translation: "He said: My Lord, judge in truth. And our Lord is the Most Merciful — the One whose help is sought — against what you describe."
 word_count: 5800
 estimated_duration: "52-58 minutes"

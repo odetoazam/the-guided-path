@@ -6,7 +6,7 @@ ayah_end: 3
 title: "The Gods Who Cannot Even Save Themselves"
 slug: "025-003"
 category: tadabbur
-arabic: "وَٱتَّخَذُوا۟ مِن دُونِهِۦٓ ءَالِهَةًۭ لَّا يَخْلُقُونَ شَيْـًۭٔا وَهُمْ يُخْلَقُونَ وَلَا يَمْلِكُونَ لِأَنفُسِهِمْ ضَرًّۭا وَلَا نَفْعًۭا وَلَا يَمْلِكُونَ مَوْتًۭا وَلَا حَيَوٰةًۭ وَلَا نُشُورًۭا"
+arabic: "وَٱتَّخَذُوا۟ مِن دُونِهِۦٓ ءَالِهَةً لَّا يَخْلُقُونَ شَيْـًٔا وَهُمْ يُخْلَقُونَ وَلَا يَمْلِكُونَ لِأَنفُسِهِمْ ضَرًّا وَلَا نَفْعًا وَلَا يَمْلِكُونَ مَوْتًا وَلَا حَيَوٰةً وَلَا نُشُورًا"
 translation: "Yet they have taken besides Him gods who create nothing but are themselves created — who hold no power to harm or benefit even themselves, and who own neither death, nor life, nor resurrection."
 word_count: 240
 estimated_duration: "50-58 minutes"

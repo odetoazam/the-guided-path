@@ -6,7 +6,7 @@ ayah_end: 42
 title: "The Owner of Everything Is Also Your Destination"
 slug: "024-042"
 category: tadabbur
-arabic: "وَلِلَّهِ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ ۖ وَإِلَى اللَّهِ الْمَصِيرُ"
+arabic: "وَلِلَّهِ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ وَإِلَى ٱللَّهِ ٱلْمَصِيرُ"
 translation: "And to Allah belongs the dominion of the heavens and the earth — and to Allah is the final destination."
 word_count: 4600
 estimated_duration: "48-55 minutes"

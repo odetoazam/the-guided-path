@@ -6,7 +6,7 @@ ayah_end: 28
 slug: "aal-imran-28-the-loyalty-you-cannot-split"
 category: tadabbur
 title: "The Loyalty You Cannot Split: A Tadabbur of Aal Imran 3:28"
-arabic: "لَّا يَتَّخِذِ ٱلْمُؤْمِنُونَ ٱلْكَٰفِرِينَ أَوْلِيَآءَ مِن دُونِ ٱلْمُؤْمِنِينَ ۖ وَمَن يَفْعَلْ ذَٰلِكَ فَلَيْسَ مِنَ ٱللَّهِ فِى شَىْءٍ إِلَّآ أَن تَتَّقُوا۟ مِنْهُمْ تُقَىٰةً ۗ وَيُحَذِّرُكُمُ ٱللَّهُ نَفْسَهُۥ ۗ وَإِلَى ٱللَّهِ ٱلْمَصِيرُ"
+arabic: "لَّا يَتَّخِذِ ٱلْمُؤْمِنُونَ ٱلْكَـٰفِرِينَ أَوْلِيَآءَ مِن دُونِ ٱلْمُؤْمِنِينَ ۖ وَمَن يَفْعَلْ ذَٰلِكَ فَلَيْسَ مِنَ ٱللَّهِ فِى شَىْءٍ إِلَّآ أَن تَتَّقُوا۟ مِنْهُمْ تُقَىٰةً ۗ وَيُحَذِّرُكُمُ ٱللَّهُ نَفْسَهُۥ ۗ وَإِلَى ٱللَّهِ ٱلْمَصِيرُ"
 translation: "Let not the believers take the disbelievers as protecting allies in preference to the believers. Whoever does that has nothing to do with Allah in any way — unless it be that you guard yourselves against them as a precaution. And Allah warns you of Himself, and to Allah is the final return."
 estimated_duration: "50-58 minutes"
 passage_context: "Aal Imran 3:28 follows immediately upon the great du'a of sovereignty in 3:26-27, where Allah is named Mālik al-Mulk — Owner of all dominion, who gives power to whom He wills and strips it from whom He wills. It sits within the Medinan arc of Aal Imran, where the young believing community is being taught how to hold its loyalty amid pressure from powerful neighbours."

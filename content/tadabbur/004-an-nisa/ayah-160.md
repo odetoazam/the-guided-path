@@ -6,7 +6,7 @@ ayah_end: 160
 title: "When the Good Itself Is Withdrawn: Wrongdoing and the Shrinking of the Permitted"
 slug: "004-160"
 category: tadabbur
-arabic: "فَبِظُلْمٍ مِّنَ ٱلَّذِينَ هَادُوا۟ حَرَّمْنَا عَلَيْهِمْ طَيِّبَـٰتٍ أُحِلَّتْ لَهُمْ وَبِصَدِّهِمْ عَن سَبِيلِ ٱللَّهِ كَثِيرًا"
+arabic: "فَبِظُلْمٍ مِّنَ ٱلَّذِينَ هَادُوا۟ حَرَّمْنَا عَلَيْهِمْ طَيِّبَـٰتٍ أُحِلَّتْ لَهُمْ وَبِصَدِّهِمْ عَن سَبِيلِ ٱللَّهِ كَثِيرًا"
 translation: "So for the wrongdoing of those who became Jews, We made unlawful for them good things that had been lawful for them — and for their hindering many from the way of Allah."
 word_count: 14
 estimated_duration: "50-58 minutes"

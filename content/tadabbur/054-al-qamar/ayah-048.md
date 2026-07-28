@@ -6,7 +6,7 @@ ayah_end: 48
 title: "Taste the Touch: The Day the Face Comes Down"
 slug: "054-048"
 category: tadabbur
-arabic: "يَوْمَ يُسْحَبُونَ فِى ٱلنَّارِ عَلَىٰ وُجُوهِهِمْ ذُوقُوا۟ مَسَّ سَقَرَ"
+arabic: "يَوْمَ يُسْحَبُونَ فِى ٱلنَّارِ عَلَىٰ وُجُوهِهِمْ ذُوقُوا۟ مَسَّ سَقَرَ"
 translation: "On the Day they are dragged into the Fire on their faces: 'Taste the touch of Saqar.'"
 word_count: 5400
 estimated_duration: "48-55 minutes"

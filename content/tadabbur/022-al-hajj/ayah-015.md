@@ -6,7 +6,7 @@ ayah_end: 15
 title: "The Rope to the Sky: When Rage Cannot Undo What Allah Has Decreed"
 slug: "022-015"
 category: tadabbur
-arabic: "مَن كَانَ يَظُنُّ أَن لَّن يَنصُرَهُ ٱللَّهُ فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ فَلْيَمْدُدْ بِسَبَبٍ إِلَى ٱلسَّمَآءِ ثُمَّ لْيَقْطَعْ فَلْيَنظُرْ هَلْ يُذْهِبَنَّ كَيْدُهُۥ مَا يَغِيظُ"
+arabic: "مَن كَانَ يَظُنُّ أَن لَّن يَنصُرَهُ ٱللَّهُ فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ فَلْيَمْدُدْ بِسَبَبٍ إِلَى ٱلسَّمَآءِ ثُمَّ لْيَقْطَعْ فَلْيَنظُرْ هَلْ يُذْهِبَنَّ كَيْدُهُۥ مَا يَغِيظُ"
 translation: "Whoever thinks that Allah will not help him in this world and the Hereafter — let him stretch a rope to the sky, then let him sever it, and let him see: will his scheming remove what enrages him?"
 word_count: 21
 estimated_duration: "48-55 minutes"

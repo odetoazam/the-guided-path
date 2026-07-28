@@ -6,7 +6,7 @@ ayah_end: 12
 title: "The People of the Well: When Denial Is All That Survives of You"
 slug: "050-012"
 category: tadabbur
-arabic: "كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ وَأَصْحَٰبُ ٱلرَّسِّ وَثَمُودُ"
+arabic: "كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ وَأَصْحَـٰبُ ٱلرَّسِّ وَثَمُودُ"
 translation: "Before them, the people of Nuh denied, and the companions of the Well, and Thamud —"
 word_count: 7
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 24
 title: "When Patience Becomes a Throne: The Inner Architecture of Leadership"
 slug: "032-024"
 category: tadabbur
-arabic: "وَجَعَلْنَا مِنْهُمْ أَئِمَّةً يَهْدُونَ بِأَمْرِنَا لَمَّا صَبَرُوا ۖ وَكَانُوا بِآيَاتِنَا يُوقِنُونَ"
+arabic: "وَجَعَلْنَا مِنْهُمْ أَئِمَّةً يَهْدُونَ بِأَمْرِنَا لَمَّا صَبَرُوا۟ ۖ وَكَانُوا۟ بِـَٔايَـٰتِنَا يُوقِنُونَ"
 translation: "And We made from among them leaders guiding by Our command when they were patient and were certain of Our signs."
 word_count: 11
 estimated_duration: "50-55 minutes"

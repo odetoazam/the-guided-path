@@ -7,7 +7,7 @@ ayah_end: 25
 title: "From Where They Did Not Feel"
 slug: "039-025"
 category: tadabbur
-arabic: "كَذَّبَ ٱلَّذِينَ مِن قَبْلِهِمْ فَأَتَىٰهُمُ ٱلْعَذَابُ مِنْ حَيْثُ لَا يَشْعُرُونَ"
+arabic: "كَذَّبَ ٱلَّذِينَ مِن قَبْلِهِمْ فَأَتَىٰهُمُ ٱلْعَذَابُ مِنْ حَيْثُ لَا يَشْعُرُونَ"
 translation: "Those before them denied — and so the punishment came upon them from where they did not feel."
 word_count: 8200
 estimated_duration: "52-58 minutes"

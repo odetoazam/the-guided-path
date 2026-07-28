@@ -6,7 +6,7 @@ ayah_end: 25
 title: "The Standing Sky and the Single Call"
 slug: "030-025"
 category: tadabbur
-arabic: "وَمِنْ آيَاتِهِ أَن تَقُومَ السَّمَاءُ وَالْأَرْضُ بِأَمْرِهِ ۚ ثُمَّ إِذَا دَعَاكُمْ دَعْوَةً مِّنَ الْأَرْضِ إِذَا أَنتُم تَخْرُجُونَ"
+arabic: "وَمِنْ ءَايَـٰتِهِۦٓ أَن تَقُومَ ٱلسَّمَآءُ وَٱلْأَرْضُ بِأَمْرِهِۦ ۚ ثُمَّ إِذَا دَعَاكُمْ دَعْوَةً مِّنَ ٱلْأَرْضِ إِذَآ أَنتُمْ تَخْرُجُونَ"
 translation: "And among His signs is that the heaven and the earth stand by His command. Then, when He calls you with a single call from the earth — at once, you will come forth."
 word_count: 18
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 67
 title: "The Friends Who Become Enemies: What Holds a Bond Together When Everything Else Falls Away"
 slug: "043-067"
 category: tadabbur
-arabic: "ٱلْأَخِلَّآءُ يَوْمَئِذٍۭ بَعْضُهُمْ لِبَعْضٍ عَدُوٌّ إِلَّا ٱلْمُتَّقِينَ"
+arabic: "ٱلْأَخِلَّآءُ يَوْمَئِذٍۭ بَعْضُهُمْ لِبَعْضٍ عَدُوٌّ إِلَّا ٱلْمُتَّقِينَ"
 translation: "Close friends, that Day, will be enemies to one another — except the God-conscious."
 word_count: 7
 estimated_duration: "50-58 minutes"

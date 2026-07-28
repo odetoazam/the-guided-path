@@ -6,7 +6,7 @@ ayah_end: 38
 title: "The Question After the Sky Tears Open: Which Favor Will You Deny?"
 slug: "055-038"
 category: tadabbur
-arabic: "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+arabic: "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
 translation: "So which of the favors of your Lord will you both deny?"
 word_count: 4
 estimated_duration: "50-58 minutes"

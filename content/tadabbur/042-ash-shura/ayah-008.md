@@ -6,7 +6,7 @@ ayah_end: 8
 title: "The One Community He Chose Not to Make: Difference, Admission, and the Subject With No One in His Corner"
 slug: "042-008"
 category: tadabbur
-arabic: "وَلَوْ شَآءَ ٱللَّهُ لَجَعَلَهُمْ أُمَّةً وَٰحِدَةً وَلَٰكِن يُدْخِلُ مَن يَشَآءُ فِى رَحْمَتِهِۦ ۚ وَٱلظَّٰلِمُونَ مَا لَهُم مِّن وَلِىٍّ وَلَا نَصِيرٍ"
+arabic: "وَلَوْ شَآءَ ٱللَّهُ لَجَعَلَهُمْ أُمَّةً وَٰحِدَةً وَلَـٰكِن يُدْخِلُ مَن يَشَآءُ فِى رَحْمَتِهِۦ ۚ وَٱلظَّـٰلِمُونَ مَا لَهُم مِّن وَلِىٍّ وَلَا نَصِيرٍ"
 translation: "And had Allah willed, He could have made them one single community — but He admits whom He wills into His mercy. And the wrongdoers — they have no protector and no helper."
 word_count: 6400
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 14
 title: "The Deliberate Crossing: Transgression, Limits, and the Humiliation That Follows"
 slug: "004-014"
 category: tadabbur
-arabic: "وَمَن يَعْصِ ٱللَّهَ وَرَسُولَهُۥ وَيَتَعَدَّ حُدُودَهُۥ يُدْخِلْهُ نَارًا خَـٰلِدًا فِيهَا وَلَهُۥ عَذَابٌ مُّهِينٌ"
+arabic: "وَمَن يَعْصِ ٱللَّهَ وَرَسُولَهُۥ وَيَتَعَدَّ حُدُودَهُۥ يُدْخِلْهُ نَارًا خَـٰلِدًا فِيهَا وَلَهُۥ عَذَابٌ مُّهِينٌ"
 translation: "And whoever disobeys Allah and His Messenger and transgresses His limits — He will admit him into a Fire, abiding therein forever. And for him is a humiliating punishment."
 word_count: 5950
 estimated_duration: "50-58 minutes"

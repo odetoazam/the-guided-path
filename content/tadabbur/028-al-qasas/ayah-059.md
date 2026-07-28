@@ -6,7 +6,7 @@ ayah_end: 59
 title: "The Mother of Cities: Why Allah Never Destroys Without Sending"
 slug: "028-059"
 category: tadabbur
-arabic: "وَمَا كَانَ رَبُّكَ مُهْلِكَ ٱلْقُرَىٰ حَتَّىٰ يَبْعَثَ فِىٓ أُمِّهَا رَسُولًۭا يَتْلُوا۟ عَلَيْهِمْ ءَايَـٰتِنَا ۚ وَمَا كُنَّا مُهْلِكِى ٱلْقُرَىٰٓ إِلَّا وَأَهْلُهَا ظَـٰلِمُونَ"
+arabic: "وَمَا كَانَ رَبُّكَ مُهْلِكَ ٱلْقُرَىٰ حَتَّىٰ يَبْعَثَ فِىٓ أُمِّهَا رَسُولًا يَتْلُوا۟ عَلَيْهِمْ ءَايَـٰتِنَا ۚ وَمَا كُنَّا مُهْلِكِى ٱلْقُرَىٰٓ إِلَّا وَأَهْلُهَا ظَـٰلِمُونَ"
 translation: "Your Lord would never destroy the towns until He had sent into their mother-city a messenger reciting Our signs to them. Nor would We ever destroy the towns unless their people were wrongdoers."
 word_count: 28
 estimated_duration: "50-58 minutes"

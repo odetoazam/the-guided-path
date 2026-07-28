@@ -6,7 +6,7 @@ ayah_end: 13
 title: "The Sentence You Hold for Life: Declaration, Steadfastness, and Freedom from the Two Tyrants of Time"
 slug: "046-013"
 category: tadabbur
-arabic: "إِنَّ ٱلَّذِينَ قَالُوا۟ رَبُّنَا ٱللَّهُ ثُمَّ ٱسْتَقَٰمُوا۟ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ"
+arabic: "إِنَّ ٱلَّذِينَ قَالُوا۟ رَبُّنَا ٱللَّهُ ثُمَّ ٱسْتَقَـٰمُوا۟ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ"
 translation: "Indeed, those who say, 'Our Lord is Allah,' and then remain steadfast — there will be no fear upon them, nor will they grieve."
 word_count: 12
 estimated_duration: "50-58 minutes"

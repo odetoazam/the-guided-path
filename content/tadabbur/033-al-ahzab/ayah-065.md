@@ -6,7 +6,7 @@ ayah_end: 65
 title: "Forever Without a Friend: The Two Absences That Define the Fire"
 slug: "033-065"
 category: tadabbur
-arabic: "خَـٰلِدِينَ فِيهَآ أَبَدًاۖ لَّا يَجِدُونَ وَلِيًّا وَلَا نَصِيرًا"
+arabic: "خَـٰلِدِينَ فِيهَآ أَبَدًا ۖ لَّا يَجِدُونَ وَلِيًّا وَلَا نَصِيرًا"
 translation: "Abiding therein forever — they will find no protector and no helper."
 word_count: 8
 estimated_duration: "48-54 minutes"

@@ -6,7 +6,7 @@ ayah_end: 22
 title: "The Difference in Your Tongues and Colors: When Variety Becomes Signature"
 slug: "030-022"
 category: tadabbur
-arabic: "وَمِنْ ءَايَـٰتِهِۦ خَلْقُ ٱلسَّمَـٰوَ ٰتِ وَٱلْأَرْضِ وَٱخْتِلَـٰفُ أَلْسِنَتِكُمْ وَأَلْوَ ٰنِكُمْ ۚ إِنَّ فِى ذَ ٰلِكَ لَـَٔايَـٰتٍۢ لِّلْعَـٰلِمِينَ"
+arabic: "وَمِنْ ءَايَـٰتِهِۦ خَلْقُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَٱخْتِلَـٰفُ أَلْسِنَتِكُمْ وَأَلْوَٰنِكُمْ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّلْعَـٰلِمِينَ"
 translation: "And among His signs is the creation of the heavens and the earth, and the difference of your tongues and your colors. Indeed, in that are signs for those who know."
 word_count: 22
 estimated_duration: "50-58 minutes"

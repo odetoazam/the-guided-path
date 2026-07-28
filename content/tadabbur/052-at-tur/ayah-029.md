@@ -6,7 +6,7 @@ ayah_end: 29
 title: "Neither Soothsayer Nor Madman: When the Insult Is Renamed Grace"
 slug: "052-029"
 category: tadabbur
-arabic: "فَذَكِّرْ فَمَآ أَنتَ بِنِعْمَتِ رَبِّكَ بِكَاهِنٍۢ وَلَا مَجْنُونٍۢ"
+arabic: "فَذَكِّرْ فَمَآ أَنتَ بِنِعْمَتِ رَبِّكَ بِكَاهِنٍ وَلَا مَجْنُونٍ"
 translation: "So remind, for you are not — by the grace of your Lord — a soothsayer or a madman."
 word_count: 8
 estimated_duration: "48-58 minutes"

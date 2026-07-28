@@ -6,7 +6,7 @@ ayah_end: 25
 title: "The Admission That Indicts: When the Tongue Confesses What the Life Denies"
 slug: "031-025"
 category: tadabbur
-arabic: "وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ لَيَقُولُنَّ ٱللَّهُ ۚ قُلِ ٱلْحَمْدُ لِلَّهِ ۚ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ"
+arabic: "وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ لَيَقُولُنَّ ٱللَّهُ ۚ قُلِ ٱلْحَمْدُ لِلَّهِ ۚ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ"
 translation: "And if you were to ask them, 'Who created the heavens and the earth?' — they would surely say, 'Allah.' Say: All praise belongs to Allah. But most of them do not know."
 word_count: 18
 estimated_duration: "50-55 minutes"

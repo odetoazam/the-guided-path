@@ -6,7 +6,7 @@ ayah_end: 62
 title: "The Maker Who Never Walks Away: Allah as Creator and Wakīl"
 slug: "039-062"
 category: tadabbur
-arabic: "ٱللَّهُ خَٰلِقُ كُلِّ شَىْءٍۖ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ وَكِيلٌ"
+arabic: "ٱللَّهُ خَـٰلِقُ كُلِّ شَىْءٍ ۖ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ وَكِيلٌ"
 translation: "Allah is the Creator of all things, and He is, over all things, the Guardian and Disposer of affairs."
 word_count: 9
 estimated_duration: "48-59 minutes"

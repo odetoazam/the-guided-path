@@ -6,7 +6,7 @@ ayah_end: 72
 title: "The Garden You Inherit: When a Gift Is Also a Wage"
 slug: "043-072"
 category: tadabbur
-arabic: "وَتِلْكَ ٱلْجَنَّةُ ٱلَّتِىٓ أُورِثْتُمُوهَا بِمَا كُنتُمْ تَعْمَلُونَ"
+arabic: "وَتِلْكَ ٱلْجَنَّةُ ٱلَّتِىٓ أُورِثْتُمُوهَا بِمَا كُنتُمْ تَعْمَلُونَ"
 translation: "And that is the Paradise which you have been made to inherit for what you used to do."
 word_count: 7600
 estimated_duration: "50-58 minutes"

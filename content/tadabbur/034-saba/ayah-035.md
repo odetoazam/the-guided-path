@@ -6,7 +6,7 @@ ayah_end: 35
 title: "The Argument from Abundance: When Wealth Becomes Theology"
 slug: "034-035"
 category: tadabbur
-arabic: "وَقَالُوا۟ نَحْنُ أَكْثَرُ أَمْوَٰلًا وَأَوْلَـٰدًا وَمَا نَحْنُ بِمُعَذَّبِينَ"
+arabic: "وَقَالُوا۟ نَحْنُ أَكْثَرُ أَمْوَٰلًا وَأَوْلَـٰدًا وَمَا نَحْنُ بِمُعَذَّبِينَ"
 translation: "And they said: 'We have more wealth and children, and we will not be punished.'"
 word_count: 8
 estimated_duration: "48-55 minutes"

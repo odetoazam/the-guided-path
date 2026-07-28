@@ -6,7 +6,7 @@ ayah_end: 1
 title: "The Faith That Begins When You Stop Running Ahead"
 slug: "049-001"
 category: tadabbur
-arabic: "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُقَدِّمُوا۟ بَيْنَ يَدَىِ ٱللَّهِ وَرَسُولِهِۦ ۖ وَٱتَّقُوا ٱللَّهَ ۚ إِنَّ ٱللَّهَ سَمِيعٌ عَلِيمٌ"
+arabic: "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُقَدِّمُوا۟ بَيْنَ يَدَىِ ٱللَّهِ وَرَسُولِهِۦ ۖ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ سَمِيعٌ عَلِيمٌ"
 translation: "O you who believe! Do not put yourselves forward before Allah and His Messenger, and be mindful of Allah. Indeed, Allah is All-Hearing, All-Knowing."
 word_count: 15
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 25
 title: "The Hoopoe's Theology: Why Prostration Belongs Only to the One Who Brings Out the Hidden"
 slug: "027-025"
 category: tadabbur
-arabic: "أَلَّا يَسْجُدُوا لِلَّهِ الَّذِي يُخْرِجُ الْخَبْءَ فِي السَّمَاوَاتِ وَالْأَرْضِ وَيَعْلَمُ مَا تُخْفُونَ وَمَا تُعْلِنُونَ"
+arabic: "أَلَّا يَسْجُدُوا۟ لِلَّهِ ٱلَّذِى يُخْرِجُ ٱلْخَبْءَ فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَيَعْلَمُ مَا تُخْفُونَ وَمَا تُعْلِنُونَ"
 translation: "[Satan turned them away] so that they would not prostrate to Allah — the One who brings out what is hidden in the heavens and the earth, and who knows what you conceal and what you reveal."
 word_count: 18
 estimated_duration: "50-58 minutes"

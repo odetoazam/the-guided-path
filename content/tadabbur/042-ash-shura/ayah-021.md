@@ -6,7 +6,7 @@ ayah_end: 21
 title: "The Road to No Water: When the Unauthorized Legislate the Sacred"
 slug: "042-021"
 category: tadabbur
-arabic: "أَمْ لَهُمْ شُرَكَـٰٓؤُاْ شَرَعُواْ لَهُم مِّنَ ٱلدِّينِ مَا لَمْ يَأْذَنۢ بِهِ ٱللَّهُ ۚ وَلَوْلَا كَلِمَةُ ٱلْفَصْلِ لَقُضِىَ بَيْنَهُمْ ۗ وَإِنَّ ٱلظَّـٰلِمِينَ لَهُمْ عَذَابٌ أَلِيمٌ"
+arabic: "أَمْ لَهُمْ شُرَكَـٰٓؤُا۟ شَرَعُوا۟ لَهُم مِّنَ ٱلدِّينِ مَا لَمْ يَأْذَنۢ بِهِ ٱللَّهُ ۚ وَلَوْلَا كَلِمَةُ ٱلْفَصْلِ لَقُضِىَ بَيْنَهُمْ ۗ وَإِنَّ ٱلظَّـٰلِمِينَ لَهُمْ عَذَابٌ أَلِيمٌ"
 translation: "Or do they have partners who have ordained for them in religion that which Allah has not permitted? And were it not for the word of decisive separation, it would already have been judged between them. And indeed, for the wrongdoers there is a painful punishment."
 word_count: 6900
 estimated_duration: "50-58 minutes"

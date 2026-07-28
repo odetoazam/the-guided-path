@@ -6,7 +6,7 @@ ayah_end: 6
 title: "The Leveling: When Two Roads Lead to One Locked Door"
 slug: "063-006"
 category: tadabbur
-arabic: "سَوَآءٌ عَلَيْهِمْ أَسْتَغْفَرْتَ لَهُمْ أَمْ لَمْ تَسْتَغْفِرْ لَهُمْ لَن يَغْفِرَ ٱللَّهُ لَهُمْ ۚ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَـٰسِقِينَ"
+arabic: "سَوَآءٌ عَلَيْهِمْ أَسْتَغْفَرْتَ لَهُمْ أَمْ لَمْ تَسْتَغْفِرْ لَهُمْ لَن يَغْفِرَ ٱللَّهُ لَهُمْ ۚ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَـٰسِقِينَ"
 translation: "It is all the same for them whether you ask forgiveness for them or do not ask forgiveness for them — Allah will never forgive them. Indeed, Allah does not guide the defiantly disobedient people."
 word_count: 18
 estimated_duration: "50-58 minutes"

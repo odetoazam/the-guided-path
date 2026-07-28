@@ -6,7 +6,7 @@ ayah_end: 27
 title: "The Unfinished Question: How Will It Be?"
 slug: "047-027"
 category: tadabbur
-arabic: "فَكَيْفَ إِذَا تَوَفَّتْهُمُ ٱلْمَلَـٰٓئِكَةُ يَضْرِبُونَ وُجُوهَهُمْ وَأَدْبَـٰرَهُمْ"
+arabic: "فَكَيْفَ إِذَا تَوَفَّتْهُمُ ٱلْمَلَـٰٓئِكَةُ يَضْرِبُونَ وُجُوهَهُمْ وَأَدْبَـٰرَهُمْ"
 translation: "Then how will it be when the angels take them in death, striking their faces and their backs?"
 word_count: 6600
 estimated_duration: "50-58 minutes"

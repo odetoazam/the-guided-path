@@ -4,7 +4,7 @@ surah_name: "Al-Fatiha"
 ayah_start: 5
 ayah_end: 5
 title: "The Turn — When 'He' Becomes 'You'"
-arabic: "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ"
+arabic: "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ"
 translation: "You alone we worship, and You alone we ask for help"
 word_count: 5
 estimated_duration: "50-58 minutes"

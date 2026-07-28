@@ -6,7 +6,7 @@ ayah_end: 119
 title: "The Oath He Cannot Keep: Iblīs, False Desires, and the Weapon of Suggestion"
 slug: "004-119"
 category: tadabbur
-arabic: "وَلَأُضِلَّنَّهُمْ وَلَأُمَنِّيَنَّهُمْ وَلَآمُرَنَّهُمْ فَلَيُبَتِّكُنَّ ءَاذَانَ ٱلْأَنْعَـٰمِ وَلَآمُرَنَّهُمْ فَلَيُغَيِّرُنَّ خَلْقَ ٱللَّهِ ۚ وَمَن يَتَّخِذِ ٱلشَّيْطَـٰنَ وَلِيًّا مِّن دُونِ ٱللَّهِ فَقَدْ خَسِرَ خُسْرَانًا مُّبِينًا"
+arabic: "وَلَأُضِلَّنَّهُمْ وَلَأُمَنِّيَنَّهُمْ وَلَـَٔامُرَنَّهُمْ فَلَيُبَتِّكُنَّ ءَاذَانَ ٱلْأَنْعَـٰمِ وَلَـَٔامُرَنَّهُمْ فَلَيُغَيِّرُنَّ خَلْقَ ٱللَّهِ ۚ وَمَن يَتَّخِذِ ٱلشَّيْطَـٰنَ وَلِيًّا مِّن دُونِ ٱللَّهِ فَقَدْ خَسِرَ خُسْرَانًا مُّبِينًا"
 translation: "\"And I will surely lead them astray, and I will surely fill them with false desires, and I will surely command them so that they slit the ears of cattle, and I will surely command them so that they alter the creation of Allah.\" And whoever takes Satan as a guardian instead of Allah has certainly suffered a clear, manifest loss."
 word_count: 21
 estimated_duration: "50-58 minutes"

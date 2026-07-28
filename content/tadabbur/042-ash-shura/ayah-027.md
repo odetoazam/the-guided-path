@@ -6,7 +6,7 @@ ayah_end: 27
 title: "The Measured Hand: Why the One Who Loves You Most Gives You Least"
 slug: "042-027"
 category: tadabbur
-arabic: "وَلَوْ بَسَطَ ٱللَّهُ ٱلرِّزْقَ لِعِبَادِهِۦ لَبَغَوْا۟ فِى ٱلْأَرْضِ وَلَـٰكِن يُنَزِّلُ بِقَدَرٍ مَّا يَشَآءُ ۚ إِنَّهُۥ بِعِبَادِهِۦ خَبِيرٌۢ بَصِيرٌ"
+arabic: "۞ وَلَوْ بَسَطَ ٱللَّهُ ٱلرِّزْقَ لِعِبَادِهِۦ لَبَغَوْا۟ فِى ٱلْأَرْضِ وَلَـٰكِن يُنَزِّلُ بِقَدَرٍ مَّا يَشَآءُ ۚ إِنَّهُۥ بِعِبَادِهِۦ خَبِيرٌۢ بَصِيرٌ"
 translation: "And if Allah were to spread wide the provision for His servants, they would surely transgress upon the earth; but He sends it down by a measure, as He wills. Indeed, of His servants He is All-Aware, All-Seeing."
 word_count: 17
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 75
 title: "Which One Will You Call a Lie? The Question You Cannot Answer"
 slug: "055-075"
 category: tadabbur
-arabic: "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+arabic: "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
 translation: "So which of the favors of your Lord will you both deny?"
 word_count: 6600
 estimated_duration: "50-58 minutes"

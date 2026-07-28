@@ -6,7 +6,7 @@ ayah_end: 22
 title: "The Master Who Thanks the Servant: When God Says 'Thank You'"
 slug: "076-022"
 category: tadabbur
-arabic: "إِنَّ هَٰذَا كَانَ لَكُمْ جَزَآءً وَكَانَ سَعْيُكُم مَّشْكُورًا"
+arabic: "إِنَّ هَـٰذَا كَانَ لَكُمْ جَزَآءً وَكَانَ سَعْيُكُم مَّشْكُورًا"
 translation: "Indeed, this is for you a reward, and your striving has been thanked."
 word_count: 8
 estimated_duration: "50-58 minutes"

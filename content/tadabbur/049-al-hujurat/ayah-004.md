@@ -6,7 +6,7 @@ ayah_end: 4
 title: "The Voice Behind the Wall: What Shouting Reveals About the Untethered Mind"
 slug: "049-004"
 category: tadabbur
-arabic: "إِنَّ ٱلَّذِينَ يُنَادُونَكَ مِن وَرَآءِ ٱلْحُجُرَٰتِ أَكْثَرُهُمْ لَا يَعْقِلُونَ"
+arabic: "إِنَّ ٱلَّذِينَ يُنَادُونَكَ مِن وَرَآءِ ٱلْحُجُرَٰتِ أَكْثَرُهُمْ لَا يَعْقِلُونَ"
 translation: "Indeed, those who call out to you from behind the private chambers — most of them do not understand."
 word_count: 5250
 estimated_duration: "48-55 minutes"

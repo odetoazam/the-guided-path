@@ -6,7 +6,7 @@ ayah_end: 30
 title: "The Voice from the Tree: When the Unseen Speaks Your Name"
 slug: "028-030"
 category: tadabbur
-arabic: "فَلَمَّآ أَتَىٰهَا نُودِىَ مِن شَـٰطِئِ ٱلْوَادِ ٱلْأَيْمَنِ فِى ٱلْبُقْعَةِ ٱلْمُبَـٰرَكَةِ مِنَ ٱلشَّجَرَةِ أَن يَـٰمُوسَىٰٓ إِنِّىٓ أَنَا ٱللَّهُ رَبُّ ٱلْعَـٰلَمِينَ"
+arabic: "فَلَمَّآ أَتَىٰهَا نُودِىَ مِن شَـٰطِئِ ٱلْوَادِ ٱلْأَيْمَنِ فِى ٱلْبُقْعَةِ ٱلْمُبَـٰرَكَةِ مِنَ ٱلشَّجَرَةِ أَن يَـٰمُوسَىٰٓ إِنِّىٓ أَنَا ٱللَّهُ رَبُّ ٱلْعَـٰلَمِينَ"
 translation: "So when he came to it, he was called from the right side of the valley, in the blessed spot, from the tree: 'O Musa, indeed I am Allah, Lord of all the worlds.'"
 word_count: 24
 estimated_duration: "50-58 minutes"

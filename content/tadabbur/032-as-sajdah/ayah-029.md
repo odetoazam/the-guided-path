@@ -6,7 +6,7 @@ ayah_end: 29
 title: "The Day When Belief Is Too Late: The Closing of the Door"
 slug: "032-029"
 category: tadabbur
-arabic: "قُلْ يَوْمَ ٱلْفَتْحِ لَا يَنفَعُ ٱلَّذِينَ كَفَرُوٓا۟ إِيمَـٰنُهُمْ وَلَا هُمْ يُنظَرُونَ"
+arabic: "قُلْ يَوْمَ ٱلْفَتْحِ لَا يَنفَعُ ٱلَّذِينَ كَفَرُوٓا۟ إِيمَـٰنُهُمْ وَلَا هُمْ يُنظَرُونَ"
 translation: "Say: On the Day of Decision, the believing of those who disbelieved will not benefit them, nor will they be granted respite."
 word_count: 11
 estimated_duration: "48-55 minutes"

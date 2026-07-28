@@ -6,7 +6,7 @@ ayah_end: 23
 title: "The Sign in Sleep: Why Rest Is Evidence"
 slug: "030-023"
 category: tadabbur
-arabic: "وَمِنْ آيَاتِهِ مَنَامُكُم بِاللَّيْلِ وَالنَّهَارِ وَابْتِغَاؤُكُم مِّن فَضْلِهِ ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِّقَوْمٍ يَسْمَعُونَ"
+arabic: "وَمِنْ ءَايَـٰتِهِۦ مَنَامُكُم بِٱلَّيْلِ وَٱلنَّهَارِ وَٱبْتِغَآؤُكُم مِّن فَضْلِهِۦٓ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّقَوْمٍ يَسْمَعُونَ"
 translation: "And among His signs is your sleep by night and day, and your seeking of His bounty. Indeed, in that are signs for a people who listen."
 word_count: 16
 estimated_duration: "50-55 minutes"

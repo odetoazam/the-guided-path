@@ -6,7 +6,7 @@ ayah_end: 48
 title: "The Lengthened Rope: Why Allah Gives Respite to the Wrongdoer"
 slug: "022-048"
 category: tadabbur
-arabic: "وَكَأَيِّن مِّن قَرْيَةٍ أَمْلَيْتُ لَهَا وَهِيَ ظَالِمَةٌ ثُمَّ أَخَذْتُهَا وَإِلَيَّ ٱلْمَصِيرُ"
+arabic: "وَكَأَيِّن مِّن قَرْيَةٍ أَمْلَيْتُ لَهَا وَهِىَ ظَالِمَةٌ ثُمَّ أَخَذْتُهَا وَإِلَىَّ ٱلْمَصِيرُ"
 translation: "And how many a town did I grant respite to while it was wronging — then I seized it. And to Me is the destination."
 word_count: 14
 estimated_duration: "50-58 minutes"

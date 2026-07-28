@@ -6,7 +6,7 @@ ayah_end: 58
 title: "When Every Parable Has Been Brought: The Verse That Names the Listener's Final Move"
 slug: "030-058"
 category: tadabbur
-arabic: "وَلَقَدْ ضَرَبْنَا لِلنَّاسِ فِي هَٰذَا الْقُرْآنِ مِن كُلِّ مَثَلٍ ۚ وَلَئِن جِئْتَهُم بِآيَةٍ لَّيَقُولَنَّ الَّذِينَ كَفَرُوا إِنْ أَنتُمْ إِلَّا مُبْطِلُونَ"
+arabic: "وَلَقَدْ ضَرَبْنَا لِلنَّاسِ فِى هَـٰذَا ٱلْقُرْءَانِ مِن كُلِّ مَثَلٍ ۚ وَلَئِن جِئْتَهُم بِـَٔايَةٍ لَّيَقُولَنَّ ٱلَّذِينَ كَفَرُوٓا۟ إِنْ أَنتُمْ إِلَّا مُبْطِلُونَ"
 translation: "And We have certainly struck for the people in this Qur'an from every kind of parable. But if you bring them a sign, those who disbelieve will surely say, 'You are nothing but falsifiers.'"
 word_count: 22
 estimated_duration: "48-55 minutes"

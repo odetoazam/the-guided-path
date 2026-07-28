@@ -6,7 +6,7 @@ ayah_end: 104
 title: "When the Most Measured Among Them Says 'A Day'"
 slug: "020-104"
 category: tadabbur
-arabic: "نَّحْنُ أَعْلَمُ بِمَا يَقُولُونَ إِذْ يَقُولُ أَمْثَلُهُمْ طَرِيقَةً إِن لَّبِثْتُمْ إِلَّا يَوْمًا"
+arabic: "نَّحْنُ أَعْلَمُ بِمَا يَقُولُونَ إِذْ يَقُولُ أَمْثَلُهُمْ طَرِيقَةً إِن لَّبِثْتُمْ إِلَّا يَوْمًا"
 translation: "We know best what they will say, when the most exemplary of them in path will say: 'You stayed but a day.'"
 word_count: 11
 estimated_duration: "48-55 minutes"

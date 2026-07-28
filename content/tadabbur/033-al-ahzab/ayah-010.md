@@ -6,7 +6,7 @@ ayah_end: 10
 title: "When Eyes Swerve and Hearts Reach the Throat"
 slug: "033-010"
 category: tadabbur
-arabic: "إِذْ جَاءُوكُم مِّن فَوْقِكُمْ وَمِنْ أَسْفَلَ مِنكُمْ وَإِذْ زَاغَتِ ٱلْأَبْصَٰرُ وَبَلَغَتِ ٱلْقُلُوبُ ٱلْحَنَاجِرَ وَتَظُنُّونَ بِٱللَّهِ ٱلظُّنُونَا۠"
+arabic: "إِذْ جَآءُوكُم مِّن فَوْقِكُمْ وَمِنْ أَسْفَلَ مِنكُمْ وَإِذْ زَاغَتِ ٱلْأَبْصَـٰرُ وَبَلَغَتِ ٱلْقُلُوبُ ٱلْحَنَاجِرَ وَتَظُنُّونَ بِٱللَّهِ ٱلظُّنُونَا۠"
 translation: "[Remember] when they came at you from above you and from below you, and when eyes shifted [in fear], and hearts reached the throats, and you were thinking about Allah [various] thoughts."
 word_count: 19
 estimated_duration: "50-58 minutes"

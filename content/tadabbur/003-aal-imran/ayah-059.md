@@ -6,7 +6,7 @@ ayah_end: 59
 title: "Near Allah: The Likeness of Isa, the Dust of Adam, and the Word That Is Still Speaking"
 slug: "003-059"
 category: tadabbur
-arabic: "إِنَّ مَثَلَ عِيسَىٰ عِندَ ٱللَّهِ كَمَثَلِ ءَادَمَ ۖ خَلَقَهُۥ مِن تُرَابٍ ثُمَّ قَالَ لَهُۥ كُن فَيَكُونُ"
+arabic: "إِنَّ مَثَلَ عِيسَىٰ عِندَ ٱللَّهِ كَمَثَلِ ءَادَمَ ۖ خَلَقَهُۥ مِن تُرَابٍ ثُمَّ قَالَ لَهُۥ كُن فَيَكُونُ"
 translation: "Indeed, the likeness of Isa in the sight of Allah is like the likeness of Adam. He created him from dust, then said to him, 'Be,' and he is."
 word_count: 15
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 16
 title: "The Question You Answer With Your Life: The Dual Address After Clay and Fire"
 slug: "055-016"
 category: tadabbur
-arabic: "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+arabic: "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
 translation: "So which of the favors of your Lord will you both deny?"
 word_count: 3700
 estimated_duration: "48-58 minutes"

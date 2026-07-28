@@ -6,7 +6,7 @@ ayah_end: 18
 title: "The Ones Who Keep the Kernel: Listening Widely, Following the Best"
 slug: "039-018"
 category: tadabbur
-arabic: "ٱلَّذِينَ يَسْتَمِعُونَ ٱلْقَوْلَ فَيَتَّبِعُونَ أَحْسَنَهُۥٓ ۚ أُو۟لَـٰٓئِكَ ٱلَّذِينَ هَدَىٰهُمُ ٱللَّهُ ۖ وَأُو۟لَـٰٓئِكَ هُمْ أُو۟لُوا۟ ٱلْأَلْبَـٰبِ"
+arabic: "ٱلَّذِينَ يَسْتَمِعُونَ ٱلْقَوْلَ فَيَتَّبِعُونَ أَحْسَنَهُۥٓ ۚ أُو۟لَـٰٓئِكَ ٱلَّذِينَ هَدَىٰهُمُ ٱللَّهُ ۖ وَأُو۟لَـٰٓئِكَ هُمْ أُو۟لُوا۟ ٱلْأَلْبَـٰبِ"
 translation: "Those who listen to the word and follow the best of it. Those are the ones Allah has guided, and those are the people of understanding."
 word_count: 6400
 estimated_duration: "50-58 minutes"

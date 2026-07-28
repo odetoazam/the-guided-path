@@ -6,7 +6,7 @@ ayah_end: 29
 title: "The Antechamber of the Heart: When Concealing and Revealing Become the Same Thing"
 slug: "003-029"
 category: tadabbur
-arabic: "قُلْ إِن تُخْفُوا۟ مَا فِى صُدُورِكُمْ أَوْ تُبْدُوهُ يَعْلَمْهُ ٱللَّهُ ۗ وَيَعْلَمُ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ"
+arabic: "قُلْ إِن تُخْفُوا۟ مَا فِى صُدُورِكُمْ أَوْ تُبْدُوهُ يَعْلَمْهُ ٱللَّهُ ۗ وَيَعْلَمُ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ"
 translation: "Say, \"Whether you conceal what is in your breasts or reveal it, Allah knows it. And He knows whatever is in the heavens and whatever is in the earth. And Allah is over all things All-Powerful.\""
 word_count: 22
 estimated_duration: "50-58 minutes"

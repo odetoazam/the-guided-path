@@ -6,7 +6,7 @@ ayah_end: 34
 title: "The Garden With Their Lord: When the Address Is the Gift"
 slug: "068-034"
 category: tadabbur
-arabic: "إِنَّ لِلْمُتَّقِينَ عِندَ رَبِّهِمْ جَنَّـٰتِ ٱلنَّعِيمِ"
+arabic: "إِنَّ لِلْمُتَّقِينَ عِندَ رَبِّهِمْ جَنَّـٰتِ ٱلنَّعِيمِ"
 translation: "Indeed, for those who guarded themselves, with their Lord, are Gardens of Delight."
 word_count: 6
 estimated_duration: "50-58 minutes"

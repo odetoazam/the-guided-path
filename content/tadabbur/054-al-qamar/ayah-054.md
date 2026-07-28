@@ -6,7 +6,7 @@ ayah_end: 54
 title: "Cover for Cover: The Shield-Takers Who End Up Living Inside the Shield"
 slug: "054-054"
 category: tadabbur
-arabic: "إِنَّ ٱلْمُتَّقِينَ فِى جَنَّـٰتٍ وَنَهَرٍ"
+arabic: "إِنَّ ٱلْمُتَّقِينَ فِى جَنَّـٰتٍ وَنَهَرٍ"
 translation: "Indeed, those who guarded themselves will be amid gardens and a river."
 word_count: 6100
 estimated_duration: "50-58 minutes"

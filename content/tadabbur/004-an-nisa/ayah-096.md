@@ -6,7 +6,7 @@ ayah_end: 96
 title: "The Reward That Outruns Its Own Verb: Ranks, Forgiveness, and the Mercy You Could Never Earn"
 slug: "004-096"
 category: tadabbur
-arabic: "دَرَجَٰتٍۢ مِّنْهُ وَمَغْفِرَةًۭ وَرَحْمَةًۭ ۚ وَكَانَ ٱللَّهُ غَفُورًۭا رَّحِيمًۭا"
+arabic: "دَرَجَـٰتٍ مِّنْهُ وَمَغْفِرَةً وَرَحْمَةً ۚ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا"
 translation: "Ranks from Him, and forgiveness, and mercy. And Allah is ever Forgiving, Most Merciful."
 word_count: 8
 estimated_duration: "50-58 minutes"

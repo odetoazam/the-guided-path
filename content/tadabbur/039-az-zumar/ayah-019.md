@@ -6,7 +6,7 @@ ayah_end: 19
 title: "The Word That Became True: When Even the Prophet Cannot Reach Into the Fire"
 slug: "039-019"
 category: tadabbur
-arabic: "أَفَمَنْ حَقَّ عَلَيْهِ كَلِمَةُ ٱلْعَذَابِ ۚ أَفَأَنتَ تُنقِذُ مَن فِى ٱلنَّارِ"
+arabic: "أَفَمَنْ حَقَّ عَلَيْهِ كَلِمَةُ ٱلْعَذَابِ أَفَأَنتَ تُنقِذُ مَن فِى ٱلنَّارِ"
 translation: "Then is one upon whom the word of punishment has come due — then is it you who can rescue the one already in the Fire?"
 word_count: 4200
 estimated_duration: "50-58 minutes"

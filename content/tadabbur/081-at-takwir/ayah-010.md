@@ -6,7 +6,7 @@ ayah_end: 10
 title: "The Pages You Folded Away: When the Record Is Spread Open"
 slug: "081-010"
 category: tadabbur
-arabic: "وَإِذَا ٱلصُّحُفُ نُشِرَتْ"
+arabic: "وَإِذَا ٱلصُّحُفُ نُشِرَتْ"
 translation: "And when the pages are laid open,"
 word_count: 3
 estimated_duration: "50-58 minutes"

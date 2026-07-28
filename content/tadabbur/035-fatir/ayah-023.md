@@ -6,7 +6,7 @@ ayah_end: 23
 title: "Only a Warner: The Mercy Hidden in the Limit of Your Responsibility"
 slug: "035-023"
 category: tadabbur
-arabic: "إِنْ أَنتَ إِلَّا نَذِيرٌ"
+arabic: "إِنْ أَنتَ إِلَّا نَذِيرٌ"
 translation: "You are not but a warner."
 word_count: 6100
 estimated_duration: "50-58 minutes"

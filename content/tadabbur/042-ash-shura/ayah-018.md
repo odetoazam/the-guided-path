@@ -6,7 +6,7 @@ ayah_end: 18
 title: "The Same Hour, Two Souls: Hastening, Tender Fear, and the Far Country of Doubt"
 slug: "042-018"
 category: tadabbur
-arabic: "يَسْتَعْجِلُ بِهَا ٱلَّذِينَ لَا يُؤْمِنُونَ بِهَا ۖ وَٱلَّذِينَ ءَامَنُواْ مُشْفِقُونَ مِنْهَا وَيَعْلَمُونَ أَنَّهَا ٱلْحَقُّ ۗ أَلَآ إِنَّ ٱلَّذِينَ يُمَارُونَ فِى ٱلسَّاعَةِ لَفِى ضَلَـٰلٍۭ بَعِيدٍ"
+arabic: "يَسْتَعْجِلُ بِهَا ٱلَّذِينَ لَا يُؤْمِنُونَ بِهَا ۖ وَٱلَّذِينَ ءَامَنُوا۟ مُشْفِقُونَ مِنْهَا وَيَعْلَمُونَ أَنَّهَا ٱلْحَقُّ ۗ أَلَآ إِنَّ ٱلَّذِينَ يُمَارُونَ فِى ٱلسَّاعَةِ لَفِى ضَلَـٰلٍۭ بَعِيدٍ"
 translation: "Those who do not believe in it seek to hasten it, while those who believe stand in tender fear of it and know that it is the truth. Unquestionably, those who wrangle about the Hour are in error, far astray."
 word_count: 22
 estimated_duration: "50-58 minutes"

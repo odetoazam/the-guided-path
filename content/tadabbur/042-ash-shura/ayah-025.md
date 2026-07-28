@@ -6,7 +6,7 @@ ayah_end: 25
 title: "The One Who Receives the Turning: Being Fully Known and Still Welcomed"
 slug: "042-025"
 category: tadabbur
-arabic: "وَهُوَ ٱلَّذِى يَقْبَلُ ٱلتَّوْبَةَ عَنْ عِبَادِهِۦ وَيَعْفُوا۟ عَنِ ٱلسَّيِّـَٔاتِ وَيَعْلَمُ مَا تَفْعَلُونَ"
+arabic: "وَهُوَ ٱلَّذِى يَقْبَلُ ٱلتَّوْبَةَ عَنْ عِبَادِهِۦ وَيَعْفُوا۟ عَنِ ٱلسَّيِّـَٔاتِ وَيَعْلَمُ مَا تَفْعَلُونَ"
 translation: "And it is He who accepts repentance from His servants and pardons misdeeds, and He knows what you do."
 word_count: 11
 estimated_duration: "50-58 minutes"

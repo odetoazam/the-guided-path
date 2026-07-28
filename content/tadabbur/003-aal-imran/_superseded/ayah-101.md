@@ -4,7 +4,7 @@ surah_name: "Aal-Imran"
 ayah_start: 101
 ayah_end: 101
 title: "How Could You Disbelieve While the Rope Is Still in Your Hands?"
-arabic: "وَكَيْفَ تَكْفُرُونَ وَأَنتُمْ تُتْلَىٰ عَلَيْكُمْ ءَايَٰتُ ٱللَّهِ وَفِيكُمْ رَسُولُهُۥ ۗ وَمَن يَعْتَصِم بِٱللَّهِ فَقَدْ هُدِىَ إِلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ"
+arabic: "وَكَيْفَ تَكْفُرُونَ وَأَنتُمْ تُتْلَىٰ عَلَيْكُمْ ءَايَـٰتُ ٱللَّهِ وَفِيكُمْ رَسُولُهُۥ ۗ وَمَن يَعْتَصِم بِٱللَّهِ فَقَدْ هُدِىَ إِلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ"
 translation: "And how could you disbelieve while the signs of Allah are being recited to you and His Messenger is among you? And whoever holds fast to Allah has certainly been guided to a straight path."
 word_count: null
 estimated_duration: "45-55 minutes"

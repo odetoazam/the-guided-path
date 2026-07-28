@@ -6,7 +6,7 @@ ayah_end: 92
 title: "One Ummah Across Time — The Word That Pulls You Into Their Story"
 slug: "021-092"
 category: tadabbur
-arabic: "إِنَّ هَٰذِهِۦٓ أُمَّتُكُمْ أُمَّةً وَٰحِدَةً وَأَنَا۠ رَبُّكُمْ فَٱعْبُدُونِ"
+arabic: "إِنَّ هَـٰذِهِۦٓ أُمَّتُكُمْ أُمَّةً وَٰحِدَةً وَأَنَا۠ رَبُّكُمْ فَٱعْبُدُونِ"
 translation: "Indeed this — your community — is one community, and I am your Lord, so worship Me."
 word_count: 8
 estimated_duration: "50-56 minutes"

@@ -6,7 +6,7 @@ ayah_end: 55
 title: "The Backer of His Own Lord: On Worshipping What Cannot Help and Cannot Harm"
 slug: "025-055"
 category: tadabbur
-arabic: "وَيَعْبُدُونَ مِن دُونِ ٱللَّهِ مَا لَا يَنفَعُهُمْ وَلَا يَضُرُّهُمْ ۗ وَكَانَ ٱلْكَافِرُ عَلَىٰ رَبِّهِۦ ظَهِيرًا"
+arabic: "وَيَعْبُدُونَ مِن دُونِ ٱللَّهِ مَا لَا يَنفَعُهُمْ وَلَا يَضُرُّهُمْ ۗ وَكَانَ ٱلْكَافِرُ عَلَىٰ رَبِّهِۦ ظَهِيرًا"
 translation: "And they worship besides Allah that which neither benefits them nor harms them — and the disbeliever is, against his Lord, a backer."
 word_count: 14
 estimated_duration: "50-58 minutes"

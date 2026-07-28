@@ -6,7 +6,7 @@ ayah_end: 100
 title: "The Inequality the Mouth Already Knows"
 slug: "005-100"
 category: tadabbur
-arabic: "قُل لَّا يَسْتَوِى ٱلْخَبِيثُ وَٱلطَّيِّبُ وَلَوْ أَعْجَبَكَ كَثْرَةُ ٱلْخَبِيثِ ۚ فَٱتَّقُوا۟ ٱللَّهَ يَـٰٓأُو۟لِى ٱلْأَلْبَـٰبِ لَعَلَّكُمْ تُفْلِحُونَ"
+arabic: "قُل لَّا يَسْتَوِى ٱلْخَبِيثُ وَٱلطَّيِّبُ وَلَوْ أَعْجَبَكَ كَثْرَةُ ٱلْخَبِيثِ ۚ فَٱتَّقُوا۟ ٱللَّهَ يَـٰٓأُو۟لِى ٱلْأَلْبَـٰبِ لَعَلَّكُمْ تُفْلِحُونَ"
 translation: "Say: the impure and the pure are not equal, even though the abundance of the impure may amaze you. So shield yourselves with Allah, O people of inner kernel — that you may succeed."
 word_count: 3200
 estimated_duration: "48-55 minutes"

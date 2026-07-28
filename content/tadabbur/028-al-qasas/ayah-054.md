@@ -6,7 +6,7 @@ ayah_end: 54
 title: "The Double Wage — How Patience Becomes Currency"
 slug: "028-054"
 category: tadabbur
-arabic: "أُولَٰئِكَ يُؤْتَوْنَ أَجْرَهُم مَّرَّتَيْنِ بِمَا صَبَرُوا وَيَدْرَءُونَ بِالْحَسَنَةِ السَّيِّئَةَ وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ"
+arabic: "أُو۟لَـٰٓئِكَ يُؤْتَوْنَ أَجْرَهُم مَّرَّتَيْنِ بِمَا صَبَرُوا۟ وَيَدْرَءُونَ بِٱلْحَسَنَةِ ٱلسَّيِّئَةَ وَمِمَّا رَزَقْنَـٰهُمْ يُنفِقُونَ"
 translation: "Those will be given their reward twice for what they patiently endured — and they repel evil with good, and from what We have provided them, they spend."
 word_count: 1180
 estimated_duration: "50-56 minutes"

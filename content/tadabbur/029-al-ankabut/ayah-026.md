@@ -6,7 +6,7 @@ ayah_end: 26
 title: "The First Believer: Lot, Migration, and the Loneliness of Trust"
 slug: "029-026"
 category: tadabbur
-arabic: "فَآمَنَ لَهُۥ لُوطٌۭ ۘ وَقَالَ إِنِّى مُهَاجِرٌ إِلَىٰ رَبِّى ۖ إِنَّهُۥ هُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ"
+arabic: "۞ فَـَٔامَنَ لَهُۥ لُوطٌ ۘ وَقَالَ إِنِّى مُهَاجِرٌ إِلَىٰ رَبِّىٓ ۖ إِنَّهُۥ هُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ"
 translation: "So Lot believed him. And he said: 'Indeed, I am emigrating to my Lord. Indeed, He is the Mighty, the Wise.'"
 word_count: 13
 estimated_duration: "48-55 minutes"

@@ -6,7 +6,7 @@ ayah_end: 66
 title: "The Argument You Were Never Equipped to Win"
 slug: "003-066"
 category: tadabbur
-arabic: "هَـٰٓأَنتُمْ هَـٰٓؤُلَآءِ حَـٰجَجْتُمْ فِيمَا لَكُم بِهِۦ عِلْمٌ فَلِمَ تُحَآجُّونَ فِيمَا لَيْسَ لَكُم بِهِۦ عِلْمٌ ۚ وَٱللَّهُ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ"
+arabic: "هَـٰٓأَنتُمْ هَـٰٓؤُلَآءِ حَـٰجَجْتُمْ فِيمَا لَكُم بِهِۦ عِلْمٌ فَلِمَ تُحَآجُّونَ فِيمَا لَيْسَ لَكُم بِهِۦ عِلْمٌ ۚ وَٱللَّهُ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ"
 translation: "Here you are — the very ones who argued about that of which you have some knowledge. So why do you argue about that of which you have no knowledge at all? And Allah knows, while you do not know."
 word_count: 19
 estimated_duration: "50-58 minutes"

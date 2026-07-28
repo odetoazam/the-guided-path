@@ -6,7 +6,7 @@ ayah_end: 68
 title: "Be — And It Is: The Word With No Gap"
 slug: "040-068"
 category: tadabbur
-arabic: "هُوَ ٱلَّذِى يُحْىِۦ وَيُمِيتُ ۖ فَإِذَا قَضَىٰٓ أَمْرًا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ"
+arabic: "هُوَ ٱلَّذِى يُحْىِۦ وَيُمِيتُ ۖ فَإِذَا قَضَىٰٓ أَمْرًا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ"
 translation: "He is the One who gives life and causes death. And when He decrees a matter, He only says to it, 'Be,' and it is."
 word_count: 12
 estimated_duration: "48-58 minutes"

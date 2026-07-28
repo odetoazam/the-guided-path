@@ -6,7 +6,7 @@ ayah_end: 17
 title: "The Two Easts: Lord of the Wandering Sunrise"
 slug: "055-017"
 category: tadabbur
-arabic: "رَبُّ ٱلْمَشْرِقَيْنِ وَرَبُّ ٱلْمَغْرِبَيْنِ"
+arabic: "رَبُّ ٱلْمَشْرِقَيْنِ وَرَبُّ ٱلْمَغْرِبَيْنِ"
 translation: "Lord of the two risings, and Lord of the two settings."
 word_count: 5900
 estimated_duration: "45-55 minutes"

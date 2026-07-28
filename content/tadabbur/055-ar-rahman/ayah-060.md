@@ -6,7 +6,7 @@ ayah_end: 60
 title: "The Word That Comes Back to You: When the Reward Wears the Same Name as the Deed"
 slug: "055-060"
 category: tadabbur
-arabic: "هَلْ جَزَآءُ ٱلْإِحْسَـٰنِ إِلَّا ٱلْإِحْسَـٰنُ"
+arabic: "هَلْ جَزَآءُ ٱلْإِحْسَـٰنِ إِلَّا ٱلْإِحْسَـٰنُ"
 translation: "Is the reward for good anything but good?"
 word_count: 5
 estimated_duration: "50-58 minutes"

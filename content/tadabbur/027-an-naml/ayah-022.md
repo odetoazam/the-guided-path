@@ -6,7 +6,7 @@ ayah_end: 22
 title: "The Hoopoe's Return: When the Small Brings What the Great Did Not Know"
 slug: "027-022"
 category: tadabbur
-arabic: "فَمَكَثَ غَيْرَ بَعِيدٍ فَقَالَ أَحَطتُ بِمَا لَمْ تُحِطْ بِهِ وَجِئْتُكَ مِن سَبَإٍۭ بِنَبَإٍ يَقِينٍ"
+arabic: "فَمَكَثَ غَيْرَ بَعِيدٍ فَقَالَ أَحَطتُ بِمَا لَمْ تُحِطْ بِهِۦ وَجِئْتُكَ مِن سَبَإٍۭ بِنَبَإٍ يَقِينٍ"
 translation: "But the hoopoe stayed not long: he came up and said: 'I have grasped what you have not grasped, and I have come to you from Saba with certain news.'"
 word_count: 14
 estimated_duration: "50-58 minutes"

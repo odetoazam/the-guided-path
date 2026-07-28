@@ -6,7 +6,7 @@ ayah_end: 17
 title: "The Question That Names Us: Does He Requite Anyone But the Ungrateful?"
 slug: "034-017"
 category: tadabbur
-arabic: "ذَٰلِكَ جَزَيْنَاهُم بِمَا كَفَرُوا ۖ وَهَلْ نُجَازِي إِلَّا الْكَفُورَ"
+arabic: "ذَٰلِكَ جَزَيْنَـٰهُم بِمَا كَفَرُوا۟ ۖ وَهَلْ نُجَـٰزِىٓ إِلَّا ٱلْكَفُورَ"
 translation: "That We requited them with, because they disbelieved. And do We requite [in this way] anyone but the deeply ungrateful?"
 word_count: 8
 estimated_duration: "50-58 minutes"

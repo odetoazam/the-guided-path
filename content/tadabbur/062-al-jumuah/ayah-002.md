@@ -6,7 +6,7 @@ ayah_end: 2
 title: "The Resurrection Before the Resurrection: How a Blank People Were Raised to Life"
 slug: "062-002"
 category: tadabbur
-arabic: "هُوَ ٱلَّذِى بَعَثَ فِى ٱلْأُمِّيِّـۧنَ رَسُولًا مِّنْهُمْ يَتْلُوا۟ عَلَيْهِمْ ءَايَـٰتِهِۦ وَيُزَكِّيهِمْ وَيُعَلِّمُهُمُ ٱلْكِتَـٰبَ وَٱلْحِكْمَةَ وَإِن كَانُوا۟ مِن قَبْلُ لَفِى ضَلَـٰلٍ مُّبِينٍ"
+arabic: "هُوَ ٱلَّذِى بَعَثَ فِى ٱلْأُمِّيِّـۧنَ رَسُولًا مِّنْهُمْ يَتْلُوا۟ عَلَيْهِمْ ءَايَـٰتِهِۦ وَيُزَكِّيهِمْ وَيُعَلِّمُهُمُ ٱلْكِتَـٰبَ وَٱلْحِكْمَةَ وَإِن كَانُوا۟ مِن قَبْلُ لَفِى ضَلَـٰلٍ مُّبِينٍ"
 translation: "He is the One who raised up, among the unlettered, a Messenger from among themselves — reciting to them His verses, purifying them, and teaching them the Book and the wisdom; though before this they were clearly lost in error."
 word_count: 21
 estimated_duration: "50-58 minutes"

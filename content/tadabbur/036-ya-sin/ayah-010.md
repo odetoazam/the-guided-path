@@ -6,7 +6,7 @@ ayah_end: 10
 title: "The Welded Scale: When Warning and Silence Weigh the Same"
 slug: "036-010"
 category: tadabbur
-arabic: "وَسَوَآءٌ عَلَيْهِمْ ءَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ"
+arabic: "وَسَوَآءٌ عَلَيْهِمْ ءَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ"
 translation: "And it is the same to them whether you warn them or do not warn them — they will not believe."
 word_count: 8
 estimated_duration: "50-58 minutes"

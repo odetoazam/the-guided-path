@@ -6,7 +6,7 @@ ayah_end: 39
 title: "Before the Rising, Before the Setting: Patience and the Sun That Answers the Deniers"
 slug: "050-039"
 category: tadabbur
-arabic: "فَٱصْبِرْ عَلَىٰ مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ ٱلشَّمْسِ وَقَبْلَ ٱلْغُرُوبِ"
+arabic: "فَٱصْبِرْ عَلَىٰ مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ ٱلشَّمْسِ وَقَبْلَ ٱلْغُرُوبِ"
 translation: "So be patient over what they say, and glorify the praise of your Lord before the rising of the sun and before the setting."
 word_count: 12
 estimated_duration: "50-58 minutes"

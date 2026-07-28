@@ -6,7 +6,7 @@ ayah_end: 83
 title: "The Religion of the Already-Surrendered Cosmos"
 slug: "003-083"
 category: tadabbur
-arabic: "أَفَغَيْرَ دِينِ ٱللَّهِ يَبْغُونَ وَلَهُۥٓ أَسْلَمَ مَن فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ طَوْعًا وَكَرْهًا وَإِلَيْهِ يُرْجَعُونَ"
+arabic: "أَفَغَيْرَ دِينِ ٱللَّهِ يَبْغُونَ وَلَهُۥٓ أَسْلَمَ مَن فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ طَوْعًا وَكَرْهًا وَإِلَيْهِ يُرْجَعُونَ"
 translation: "Is it other than the religion of Allah they seek — while to Him has submitted whoever is in the heavens and the earth, willingly or unwillingly, and to Him they will be returned?"
 word_count: 14
 estimated_duration: "50-58 minutes"

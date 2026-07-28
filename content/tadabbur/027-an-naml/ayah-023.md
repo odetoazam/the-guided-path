@@ -6,7 +6,7 @@ ayah_end: 23
 title: "The Throne, the Everything, and the Hoopoe's Astonishment"
 slug: "027-023"
 category: tadabbur
-arabic: "إِنِّى وَجَدتُّ ٱمْرَأَةً تَمْلِكُهُمْ وَأُوتِيَتْ مِن كُلِّ شَىْءٍ وَلَهَا عَرْشٌ عَظِيمٌ"
+arabic: "إِنِّى وَجَدتُّ ٱمْرَأَةً تَمْلِكُهُمْ وَأُوتِيَتْ مِن كُلِّ شَىْءٍ وَلَهَا عَرْشٌ عَظِيمٌ"
 translation: "Indeed, I found a woman ruling them, and she has been given of all things, and she has a magnificent throne."
 word_count: 11
 estimated_duration: "50-58 minutes"

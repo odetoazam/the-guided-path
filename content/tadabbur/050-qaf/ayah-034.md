@@ -6,7 +6,7 @@ ayah_end: 34
 title: "Enter in Peace: The Command That Ends Every Exile"
 slug: "050-034"
 category: tadabbur
-arabic: "ٱدْخُلُوهَا بِسَلَٰمٍۖ ذَٰلِكَ يَوْمُ ٱلْخُلُودِ"
+arabic: "ٱدْخُلُوهَا بِسَلَـٰمٍ ۖ ذَٰلِكَ يَوْمُ ٱلْخُلُودِ"
 translation: "Enter it in peace. That is the Day of Eternity."
 word_count: 5
 estimated_duration: "50-58 minutes"

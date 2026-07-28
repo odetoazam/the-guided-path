@@ -6,7 +6,7 @@ ayah_end: 2
 title: "The Living, The Sustaining: How a Verse Empties the Heart Before It Fills It"
 slug: "003-002"
 category: tadabbur
-arabic: "ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ"
+arabic: "ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ"
 translation: "Allah — there is no god but Him, the Ever-Living, the Sustainer of all existence."
 word_count: 7
 estimated_duration: "50-58 minutes"

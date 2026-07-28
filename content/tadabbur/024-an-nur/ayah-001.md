@@ -6,7 +6,7 @@ ayah_end: 1
 title: "The Surah That Names Itself: The Architecture of An-Nur's Opening"
 slug: "024-001"
 category: tadabbur
-arabic: "سُورَةٌ أَنزَلْنَاهَا وَفَرَضْنَاهَا وَأَنزَلْنَا فِيهَا آيَاتٍ بَيِّنَاتٍ لَّعَلَّكُمْ تَذَكَّرُونَ"
+arabic: "سُورَةٌ أَنزَلْنَـٰهَا وَفَرَضْنَـٰهَا وَأَنزَلْنَا فِيهَآ ءَايَـٰتٍۭ بَيِّنَـٰتٍ لَّعَلَّكُمْ تَذَكَّرُونَ"
 translation: "[This is] a surah — We have sent it down, and We have apportioned it [as obligation], and We have sent down within it clear signs, that perhaps you may take heed."
 word_count: 9
 estimated_duration: "48-55 minutes"

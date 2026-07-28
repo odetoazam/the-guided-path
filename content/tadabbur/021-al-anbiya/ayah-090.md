@@ -6,7 +6,7 @@ ayah_end: 90
 title: "The Architecture of a Heart That Earns Response"
 slug: "021-090"
 category: tadabbur
-arabic: "فَٱسْتَجَبْنَا لَهُۥ وَوَهَبْنَا لَهُۥ يَحْيَىٰ وَأَصْلَحْنَا لَهُۥ زَوْجَهُۥٓ ۚ إِنَّهُمْ كَانُوا۟ يُسَـٰرِعُونَ فِى ٱلْخَيْرَٰتِ وَيَدْعُونَنَا رَغَبًا وَرَهَبًا ۖ وَكَانُوا۟ لَنَا خَـٰشِعِينَ"
+arabic: "فَٱسْتَجَبْنَا لَهُۥ وَوَهَبْنَا لَهُۥ يَحْيَىٰ وَأَصْلَحْنَا لَهُۥ زَوْجَهُۥٓ ۚ إِنَّهُمْ كَانُوا۟ يُسَـٰرِعُونَ فِى ٱلْخَيْرَٰتِ وَيَدْعُونَنَا رَغَبًا وَرَهَبًا ۖ وَكَانُوا۟ لَنَا خَـٰشِعِينَ"
 translation: "So We responded to him, and We bestowed upon him Yahya, and We restored his wife for him. Indeed, they would race toward good deeds, and they would call upon Us in longing and in dread, and they were to Us humbly submissive."
 word_count: 16
 estimated_duration: "50-58 minutes"

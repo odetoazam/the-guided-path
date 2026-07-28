@@ -6,7 +6,7 @@ ayah_end: 104
 title: "The Day We Fold the Heavens Like a Scroll: A Promise Allah Binds Upon Himself"
 slug: "021-104"
 category: tadabbur
-arabic: "يَوْمَ نَطْوِى ٱلسَّمَآءَ كَطَىِّ ٱلسِّجِلِّ لِلْكُتُبِ ۚ كَمَا بَدَأْنَآ أَوَّلَ خَلْقٍۢ نُّعِيدُهُۥ ۚ وَعْدًا عَلَيْنَآ ۚ إِنَّا كُنَّا فَـٰعِلِينَ"
+arabic: "يَوْمَ نَطْوِى ٱلسَّمَآءَ كَطَىِّ ٱلسِّجِلِّ لِلْكُتُبِ ۚ كَمَا بَدَأْنَآ أَوَّلَ خَلْقٍ نُّعِيدُهُۥ ۚ وَعْدًا عَلَيْنَآ ۚ إِنَّا كُنَّا فَـٰعِلِينَ"
 translation: "The Day We will fold up the heaven like the folding of a scroll for written records. Just as We began the first creation, We will repeat it — a promise binding upon Us. Indeed, We have always been the Doers."
 word_count: 5500
 estimated_duration: "50-58 minutes"

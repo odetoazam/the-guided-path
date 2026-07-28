@@ -6,7 +6,7 @@ ayah_end: 86
 slug: az-zukhruf-43-86-intercession-owned-not-leveraged
 category: tadabbur
 title: "The Intercession No One Owns — A Reflection on Az-Zukhruf 43:86"
-arabic: "وَلَا يَمْلِكُ الَّذِينَ يَدْعُونَ مِن دُونِهِ الشَّفَاعَةَ إِلَّا مَن شَهِدَ بِالْحَقِّ وَهُمْ يَعْلَمُونَ"
+arabic: "وَلَا يَمْلِكُ ٱلَّذِينَ يَدْعُونَ مِن دُونِهِ ٱلشَّفَـٰعَةَ إِلَّا مَن شَهِدَ بِٱلْحَقِّ وَهُمْ يَعْلَمُونَ"
 translation: "And those they invoke besides Him possess no power of intercession — except those who testify to the truth while they know."
 estimated_duration: "50-58 minutes"
 passage_context: "The closing movement of Surah Az-Zukhruf (81-89), where the Quran dismantles the polytheists' claim that their gods, angels, or holy figures could leverage influence with Allah on the Day of Judgment."

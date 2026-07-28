@@ -6,7 +6,7 @@ ayah_end: 114
 title: "The Whispered Word That Saves: Secret Talk, Hidden Rooms, and the Speech Allah Rewards"
 slug: "004-114"
 category: tadabbur
-arabic: "۞ لَّا خَيْرَ فِى كَثِيرٍ مِّن نَّجْوَىٰهُمْ إِلَّا مَنْ أَمَرَ بِصَدَقَةٍ أَوْ مَعْرُوفٍ أَوْ إِصْلَـٰحِۭ بَيْنَ ٱلنَّاسِ ۚ وَمَن يَفْعَلْ ذَٰلِكَ ٱبْتِغَآءَ مَرْضَاتِ ٱللَّهِ فَسَوْفَ نُؤْتِيهِ أَجْرًا عَظِيمًا"
+arabic: "۞ لَّا خَيْرَ فِى كَثِيرٍ مِّن نَّجْوَىٰهُمْ إِلَّا مَنْ أَمَرَ بِصَدَقَةٍ أَوْ مَعْرُوفٍ أَوْ إِصْلَـٰحٍۭ بَيْنَ ٱلنَّاسِ ۚ وَمَن يَفْعَلْ ذَٰلِكَ ٱبْتِغَآءَ مَرْضَاتِ ٱللَّهِ فَسَوْفَ نُؤْتِيهِ أَجْرًا عَظِيمًا"
 translation: "There is no good in much of their secret talk — except in one who enjoins charity, or kindness, or setting things right between people. And whoever does that seeking the pleasure of Allah — We are going to give him a great reward."
 word_count: 26
 estimated_duration: "50-58 minutes"

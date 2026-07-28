@@ -6,7 +6,7 @@ ayah_end: 10
 title: "The Cradle and the Road: How the Earth Itself Teaches You to Find Your Way"
 slug: "043-010"
 category: tadabbur
-arabic: "ٱلَّذِى جَعَلَ لَكُمُ ٱلْأَرْضَ مَهْدًا وَجَعَلَ لَكُمْ فِيهَا سُبُلًا لَّعَلَّكُمْ تَهْتَدُونَ"
+arabic: "ٱلَّذِى جَعَلَ لَكُمُ ٱلْأَرْضَ مَهْدًا وَجَعَلَ لَكُمْ فِيهَا سُبُلًا لَّعَلَّكُمْ تَهْتَدُونَ"
 translation: "He who made the earth a cradle for you, and threaded pathways through it for you, so that you might find your way."
 word_count: 11
 estimated_duration: "50-58 minutes"

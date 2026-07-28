@@ -6,7 +6,7 @@ ayah_end: 21
 title: "And Another You Could Not Reach: The Promise Already Encircled"
 slug: "048-021"
 category: tadabbur
-arabic: "وَأُخْرَىٰ لَمْ تَقْدِرُوا۟ عَلَيْهَا قَدْ أَحَاطَ ٱللَّهُ بِهَا ۚ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرًا"
+arabic: "وَأُخْرَىٰ لَمْ تَقْدِرُوا۟ عَلَيْهَا قَدْ أَحَاطَ ٱللَّهُ بِهَا ۚ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرًا"
 translation: "And [there is] another that you were not [yet] able to reach — Allah has already encompassed it. And Allah is ever, over all things, fully Able."
 word_count: 14
 estimated_duration: "50-58 minutes"

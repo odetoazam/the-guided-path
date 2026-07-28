@@ -6,7 +6,7 @@ ayah_end: 71
 slug: az-zukhruf-43-71
 category: tadabbur
 title: "The Gold They Died For Is Now Their Dishware — A Tadabbur on az-Zukhruf 43:71"
-arabic: "يُطَافُ عَلَيْهِم بِصِحَافٍ مِّن ذَهَبٍ وَأَكْوَابٍ ۖ وَفِيهَا مَا تَشْتَهِيهِ ٱلْأَنفُسُ وَتَلَذُّ ٱلْأَعْيُنُ ۖ وَأَنتُمْ فِيهَا خَـٰلِدُونَ"
+arabic: "يُطَافُ عَلَيْهِم بِصِحَافٍ مِّن ذَهَبٍ وَأَكْوَابٍ ۖ وَفِيهَا مَا تَشْتَهِيهِ ٱلْأَنفُسُ وَتَلَذُّ ٱلْأَعْيُنُ ۖ وَأَنتُمْ فِيهَا خَـٰلِدُونَ"
 translation: "There will be passed around them plates of gold and cups, and therein is whatever the souls desire and in which the eyes find delight — and you will abide therein forever."
 estimated_duration: "50-58 minutes"
 passage_context: "Part of the description of the reward of al-muttaqīn (the God-conscious) in Surah az-Zukhruf, immediately following Allah's address 'O My servants, no fear shall be upon you this Day' (43:68) and the command 'Enter Paradise, you and your spouses, delighted' (43:70). The surah, named 'The Gold Ornaments,' repeatedly confronts the disbelievers' equation of material wealth with divine favor."

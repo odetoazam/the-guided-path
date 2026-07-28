@@ -6,7 +6,7 @@ ayah_end: 111
 title: "The Earning That Turns Against You: Sin as Self-Acquisition"
 slug: "004-111"
 category: tadabbur
-arabic: "وَمَن يَكْسِبْ إِثْمًا فَإِنَّمَا يَكْسِبُهُۥ عَلَىٰ نَفْسِهِۦ ۚ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًا"
+arabic: "وَمَن يَكْسِبْ إِثْمًا فَإِنَّمَا يَكْسِبُهُۥ عَلَىٰ نَفْسِهِۦ ۚ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًا"
 translation: "And whoever earns a sin only earns it against his own soul. And Allah is ever All-Knowing, All-Wise."
 word_count: 11
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 30
 title: "Ratq and Fatq — The Tearing That Birthed Everything"
 slug: "021-030"
 category: tadabbur
-arabic: "أَوَلَمْ يَرَ ٱلَّذِينَ كَفَرُوٓا۟ أَنَّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ كَانَتَا رَتْقًۭا فَفَتَقْنَٰهُمَا ۖ وَجَعَلْنَا مِنَ ٱلْمَآءِ كُلَّ شَىْءٍ حَىٍّ ۚ أَفَلَا يُؤْمِنُونَ"
+arabic: "أَوَلَمْ يَرَ ٱلَّذِينَ كَفَرُوٓا۟ أَنَّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ كَانَتَا رَتْقًا فَفَتَقْنَـٰهُمَا ۖ وَجَعَلْنَا مِنَ ٱلْمَآءِ كُلَّ شَىْءٍ حَىٍّ ۖ أَفَلَا يُؤْمِنُونَ"
 translation: "Have those who disbelieved not considered that the heavens and the earth were a single sealed mass, and We tore them apart? And We made from water every living thing. Will they then not believe?"
 word_count: 7800
 estimated_duration: "52-58 minutes"

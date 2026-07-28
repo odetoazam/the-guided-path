@@ -6,7 +6,7 @@ ayah_end: 35
 title: "The Joke That Closed the Door: When the Signs Become Entertainment"
 slug: "045-035"
 category: tadabbur
-arabic: "ذَٰلِكُم بِأَنَّكُمُ ٱتَّخَذْتُمْ ءَايَٰتِ ٱللَّهِ هُزُوًا وَغَرَّتْكُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا ۚ فَٱلْيَوْمَ لَا يُخْرَجُونَ مِنْهَا وَلَا هُمْ يُسْتَعْتَبُونَ"
+arabic: "ذَٰلِكُم بِأَنَّكُمُ ٱتَّخَذْتُمْ ءَايَـٰتِ ٱللَّهِ هُزُوًا وَغَرَّتْكُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا ۚ فَٱلْيَوْمَ لَا يُخْرَجُونَ مِنْهَا وَلَا هُمْ يُسْتَعْتَبُونَ"
 translation: "That is because you took the signs of Allah in mockery, and the life of this world deceived you. So this Day they will not be brought out of it, nor will they be asked to make amends."
 word_count: 16
 estimated_duration: "50-58 minutes"

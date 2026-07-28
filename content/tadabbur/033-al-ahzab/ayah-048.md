@@ -6,7 +6,7 @@ ayah_end: 48
 title: "Do Not Obey, Leave Their Harm, Entrust: The Threefold Posture of the Messenger"
 slug: "033-048"
 category: tadabbur
-arabic: "وَلَا تُطِعِ ٱلْكَٰفِرِينَ وَٱلْمُنَٰفِقِينَ وَدَعْ أَذَىٰهُمْ وَتَوَكَّلْ عَلَى ٱللَّهِۚ وَكَفَىٰ بِٱللَّهِ وَكِيلًا"
+arabic: "وَلَا تُطِعِ ٱلْكَـٰفِرِينَ وَٱلْمُنَـٰفِقِينَ وَدَعْ أَذَىٰهُمْ وَتَوَكَّلْ عَلَى ٱللَّهِ ۚ وَكَفَىٰ بِٱللَّهِ وَكِيلًا"
 translation: "And do not obey the disbelievers and the hypocrites, and disregard their harm, and put your trust in Allah. And sufficient is Allah as a Trustee."
 word_count: 12
 estimated_duration: "48-55 minutes"

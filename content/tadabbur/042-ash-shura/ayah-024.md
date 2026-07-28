@@ -6,7 +6,7 @@ ayah_end: 24
 title: "The Seal He Could Have Set: When You Are Accused of Inventing the Truth"
 slug: "042-024"
 category: tadabbur
-arabic: "أَمْ يَقُولُونَ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا ۖ فَإِن يَشَإِ ٱللَّهُ يَخْتِمْ عَلَىٰ قَلْبِكَ ۗ وَيَمْحُ ٱللَّهُ ٱلْبَٰطِلَ وَيُحِقُّ ٱلْحَقَّ بِكَلِمَٰتِهِۦٓ ۚ إِنَّهُۥ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ"
+arabic: "أَمْ يَقُولُونَ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا ۖ فَإِن يَشَإِ ٱللَّهُ يَخْتِمْ عَلَىٰ قَلْبِكَ ۗ وَيَمْحُ ٱللَّهُ ٱلْبَـٰطِلَ وَيُحِقُّ ٱلْحَقَّ بِكَلِمَـٰتِهِۦٓ ۚ إِنَّهُۥ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ"
 translation: "Or do they say, 'He has invented a lie about Allah'? But if Allah willed, He could seal over your heart. And Allah erases falsehood and establishes the truth by His words. Indeed, He knows what is within the breasts."
 word_count: 22
 estimated_duration: "50-58 minutes"

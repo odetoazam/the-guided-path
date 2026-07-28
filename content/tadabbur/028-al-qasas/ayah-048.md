@@ -6,7 +6,7 @@ ayah_end: 48
 title: "The Mask That Falls — When 'If Only' Confesses Itself"
 slug: "028-048"
 category: tadabbur
-arabic: "فَلَمَّا جَآءَهُمُ ٱلْحَقُّ مِنْ عِندِنَا قَالُوا۟ لَوْلَآ أُوتِىَ مِثْلَ مَآ أُوتِىَ مُوسَىٰٓ ۚ أَوَلَمْ يَكْفُرُوا۟ بِمَآ أُوتِىَ مُوسَىٰ مِن قَبْلُ ۖ قَالُوا۟ سِحْرَانِ تَظَٰهَرَا وَقَالُوٓا۟ إِنَّا بِكُلٍّ كَٰفِرُونَ"
+arabic: "فَلَمَّا جَآءَهُمُ ٱلْحَقُّ مِنْ عِندِنَا قَالُوا۟ لَوْلَآ أُوتِىَ مِثْلَ مَآ أُوتِىَ مُوسَىٰٓ ۚ أَوَلَمْ يَكْفُرُوا۟ بِمَآ أُوتِىَ مُوسَىٰ مِن قَبْلُ ۖ قَالُوا۟ سِحْرَانِ تَظَـٰهَرَا وَقَالُوٓا۟ إِنَّا بِكُلٍّ كَـٰفِرُونَ"
 translation: "So when the truth came to them from Us, they said, 'Why was he not given the like of what Moses was given?' Did they not disbelieve in what Moses was given before? They said, 'Two acts of magic backing each other up,' and they said, 'Indeed, we — in everything — are disbelievers.'"
 word_count: 32
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 4
 title: "Doers, Not Givers — When Purification Becomes Identity"
 slug: "023-004"
 category: tadabbur
-arabic: "وَٱلَّذِينَ هُمْ لِلزَّكَوٰةِ فَـٰعِلُونَ"
+arabic: "وَٱلَّذِينَ هُمْ لِلزَّكَوٰةِ فَـٰعِلُونَ"
 translation: "And those who are doers of zakāh."
 word_count: 5
 estimated_duration: "48-55 minutes"

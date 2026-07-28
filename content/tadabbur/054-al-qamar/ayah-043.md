@@ -6,7 +6,7 @@ ayah_end: 43
 title: "Show Me the Document: The Verse That Closes Both Exits"
 slug: "054-043"
 category: tadabbur
-arabic: "أَكُفَّارُكُمْ خَيْرٌ مِّنْ أُو۟لَـٰٓئِكُمْ أَمْ لَكُم بَرَآءَةٌ فِى ٱلزُّبُرِ"
+arabic: "أَكُفَّارُكُمْ خَيْرٌ مِّنْ أُو۟لَـٰٓئِكُمْ أَمْ لَكُم بَرَآءَةٌ فِى ٱلزُّبُرِ"
 translation: "Are your disbelievers any better than those — or do you hold some exemption, written in the Scriptures?"
 word_count: 6100
 estimated_duration: "50-57 minutes"

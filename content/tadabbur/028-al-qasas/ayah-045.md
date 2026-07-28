@@ -6,7 +6,7 @@ ayah_end: 45
 title: "The Long Silence: When Generations Forget and Allah Still Speaks"
 slug: "028-045"
 category: tadabbur
-arabic: "وَلَـٰكِنَّآ أَنشَأْنَا قُرُونًۭا فَتَطَاوَلَ عَلَيْهِمُ ٱلْعُمُرُ ۚ وَمَا كُنتَ ثَاوِيًۭا فِىٓ أَهْلِ مَدْيَنَ تَتْلُوا۟ عَلَيْهِمْ ءَايَـٰتِنَا وَلَـٰكِنَّا كُنَّا مُرْسِلِينَ"
+arabic: "وَلَـٰكِنَّآ أَنشَأْنَا قُرُونًا فَتَطَاوَلَ عَلَيْهِمُ ٱلْعُمُرُ ۚ وَمَا كُنتَ ثَاوِيًا فِىٓ أَهْلِ مَدْيَنَ تَتْلُوا۟ عَلَيْهِمْ ءَايَـٰتِنَا وَلَـٰكِنَّا كُنَّا مُرْسِلِينَ"
 translation: "But We brought into being generations, and ages stretched long upon them. Nor were you dwelling among the people of Madyan, reciting to them Our signs — but it is We who have been sending."
 word_count: 31
 estimated_duration: "50-58 minutes"

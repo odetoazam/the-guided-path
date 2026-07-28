@@ -6,7 +6,7 @@ ayah_end: 51
 title: "When Help Looks Like Defeat: The Standing of the Witnesses"
 slug: "040-051"
 category: tadabbur
-arabic: "إِنَّا لَنَنصُرُ رُسُلَنَا وَٱلَّذِينَ ءَامَنُوا۟ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَيَوْمَ يَقُومُ ٱلْأَشْهَٰدُ"
+arabic: "إِنَّا لَنَنصُرُ رُسُلَنَا وَٱلَّذِينَ ءَامَنُوا۟ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَيَوْمَ يَقُومُ ٱلْأَشْهَـٰدُ"
 translation: "Indeed, We will surely help Our messengers and those who believe, in the life of this world and on the Day when the witnesses will stand."
 word_count: 6300
 estimated_duration: "50-58 minutes"

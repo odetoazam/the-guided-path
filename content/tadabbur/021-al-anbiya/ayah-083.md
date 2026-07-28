@@ -6,7 +6,7 @@ ayah_end: 83
 title: "The Prayer That Never Asks: Ayyūb's Two Clauses"
 slug: "021-083"
 category: tadabbur
-arabic: "وَأَيُّوبَ إِذْ نَادَىٰ رَبَّهُ أَنِّي مَسَّنِيَ الضُّرُّ وَأَنتَ أَرْحَمُ الرَّاحِمِينَ"
+arabic: "۞ وَأَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلضُّرُّ وَأَنتَ أَرْحَمُ ٱلرَّٰحِمِينَ"
 translation: "And [mention] Ayyūb, when he called out to his Lord: that harm has touched me, and You are the Most Merciful of those who show mercy."
 word_count: 7800
 estimated_duration: "50-58 minutes"

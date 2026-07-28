@@ -6,7 +6,7 @@ ayah_end: 47
 title: "Like a Thousand Years of Yours: When Impatience Misreads Mercy"
 slug: "022-047"
 category: tadabbur
-arabic: "وَيَسْتَعْجِلُونَكَ بِالْعَذَابِ وَلَن يُخْلِفَ اللَّهُ وَعْدَهُ ۚ وَإِنَّ يَوْمًا عِندَ رَبِّكَ كَأَلْفِ سَنَةٍ مِّمَّا تَعُدُّونَ"
+arabic: "وَيَسْتَعْجِلُونَكَ بِٱلْعَذَابِ وَلَن يُخْلِفَ ٱللَّهُ وَعْدَهُۥ ۚ وَإِنَّ يَوْمًا عِندَ رَبِّكَ كَأَلْفِ سَنَةٍ مِّمَّا تَعُدُّونَ"
 translation: "And they urge you to hasten the punishment — and Allah will never break His promise. And indeed, a day with your Lord is like a thousand years of what you count."
 word_count: 14
 estimated_duration: "50-56 minutes"

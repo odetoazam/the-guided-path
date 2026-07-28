@@ -6,7 +6,7 @@ ayah_end: 64
 title: "Two Verbs in the Past Tense About a Future That Hasn't Arrived"
 slug: "033-064"
 category: tadabbur
-arabic: "إِنَّ ٱللَّهَ لَعَنَ ٱلْكَـٰفِرِينَ وَأَعَدَّ لَهُمْ سَعِيرًا"
+arabic: "إِنَّ ٱللَّهَ لَعَنَ ٱلْكَـٰفِرِينَ وَأَعَدَّ لَهُمْ سَعِيرًا"
 translation: "Indeed, Allah has cursed the disbelievers and has prepared for them a Blaze."
 word_count: 7
 estimated_duration: "38-45 minutes"

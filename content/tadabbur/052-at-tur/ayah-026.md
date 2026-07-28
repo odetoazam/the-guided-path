@@ -6,7 +6,7 @@ ayah_end: 26
 title: "The Twilight Fear: How a Tender Apprehension Became Their Passport to Paradise"
 slug: "052-026"
 category: tadabbur
-arabic: "قَالُوٓا۟ إِنَّا كُنَّا قَبْلُ فِىٓ أَهْلِنَا مُشْفِقِينَ"
+arabic: "قَالُوٓا۟ إِنَّا كُنَّا قَبْلُ فِىٓ أَهْلِنَا مُشْفِقِينَ"
 translation: "They will say, 'Indeed, before — back among our families — we were apprehensive, fearful.'"
 word_count: 7
 estimated_duration: "50-58 minutes"

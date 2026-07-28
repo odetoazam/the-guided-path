@@ -6,7 +6,7 @@ ayah_end: 24
 title: "The Ones Who Are Circled: When the Servant Becomes the Served"
 slug: "052-024"
 category: tadabbur
-arabic: "وَيَطُوفُ عَلَيْهِمْ غِلْمَانٌ لَّهُمْ كَأَنَّهُمْ لُؤْلُؤٌ مَّكْنُونٌ"
+arabic: "۞ وَيَطُوفُ عَلَيْهِمْ غِلْمَانٌ لَّهُمْ كَأَنَّهُمْ لُؤْلُؤٌ مَّكْنُونٌ"
 translation: "And there will circulate among them young servants of theirs, as if they were pearls kept hidden and protected."
 word_count: 7
 estimated_duration: "50-58 minutes"

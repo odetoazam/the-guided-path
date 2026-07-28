@@ -6,7 +6,7 @@ ayah_end: 43
 title: "After the Generations Were Erased — Why the Book Came When It Did"
 slug: "028-043"
 category: tadabbur
-arabic: "وَلَقَدْ آتَيْنَا مُوسَى الْكِتَابَ مِن بَعْدِ مَا أَهْلَكْنَا الْقُرُونَ الْأُولَىٰ بَصَائِرَ لِلنَّاسِ وَهُدًى وَرَحْمَةً لَّعَلَّهُمْ يَتَذَكَّرُونَ"
+arabic: "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ مِنۢ بَعْدِ مَآ أَهْلَكْنَا ٱلْقُرُونَ ٱلْأُولَىٰ بَصَآئِرَ لِلنَّاسِ وَهُدًى وَرَحْمَةً لَّعَلَّهُمْ يَتَذَكَّرُونَ"
 translation: "And We certainly gave Moses the Scripture, after We had destroyed the former generations — as insights for mankind, and guidance, and mercy, that perhaps they might remember."
 word_count: 19
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 59
 title: "Two Watchers, One Word: The Closing Command of Ad-Dukhan"
 slug: "044-059"
 category: tadabbur
-arabic: "فَٱرْتَقِبْ إِنَّهُم مُّرْتَقِبُونَ"
+arabic: "فَٱرْتَقِبْ إِنَّهُم مُّرْتَقِبُونَ"
 translation: "So watch and wait — indeed, they too are watching and waiting."
 word_count: 4
 estimated_duration: "50-58 minutes"

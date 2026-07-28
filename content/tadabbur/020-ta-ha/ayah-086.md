@@ -6,7 +6,7 @@ ayah_end: 86
 title: "The First Question Musa Asked: When the Wait Grew Long"
 slug: "020-086"
 category: tadabbur
-arabic: "فَرَجَعَ مُوسَىٰ إِلَىٰ قَوْمِهِ غَضْبَـٰنَ أَسِفًا ۚ قَالَ يَـٰقَوْمِ أَلَمْ يَعِدْكُمْ رَبُّكُمْ وَعْدًا حَسَنًا ۚ أَفَطَالَ عَلَيْكُمُ ٱلْعَهْدُ أَمْ أَرَدتُّمْ أَن يَحِلَّ عَلَيْكُمْ غَضَبٌ مِّن رَّبِّكُمْ فَأَخْلَفْتُم مَّوْعِدِى"
+arabic: "فَرَجَعَ مُوسَىٰٓ إِلَىٰ قَوْمِهِۦ غَضْبَـٰنَ أَسِفًا ۚ قَالَ يَـٰقَوْمِ أَلَمْ يَعِدْكُمْ رَبُّكُمْ وَعْدًا حَسَنًا ۚ أَفَطَالَ عَلَيْكُمُ ٱلْعَهْدُ أَمْ أَرَدتُّمْ أَن يَحِلَّ عَلَيْكُمْ غَضَبٌ مِّن رَّبِّكُمْ فَأَخْلَفْتُم مَّوْعِدِى"
 translation: "So Musa returned to his people, angry and grieved. He said: 'O my people — did your Lord not promise you a beautiful promise? Did the covenant-time grow long upon you, or did you wish that wrath from your Lord settle upon you, so that you broke your appointment with me?'"
 word_count: 5800
 estimated_duration: "50-56 minutes"

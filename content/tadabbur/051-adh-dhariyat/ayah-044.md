@@ -6,7 +6,7 @@ ayah_end: 44
 title: "The Boundary They Shattered, the Blast They Watched Arrive"
 slug: "051-044"
 category: tadabbur
-arabic: "فَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ فَأَخَذَتْهُمُ ٱلصَّـٰعِقَةُ وَهُمْ يَنظُرُونَ"
+arabic: "فَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ فَأَخَذَتْهُمُ ٱلصَّـٰعِقَةُ وَهُمْ يَنظُرُونَ"
 translation: "But they grew insolent toward the command of their Lord, so the blast seized them while they looked on."
 word_count: 8
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 36
 title: "The Life That Is Only a Game — and the God Who Gives Without Taking"
 slug: "047-036"
 category: tadabbur
-arabic: "إِنَّمَا ٱلْحَيَوٰةُ ٱلدُّنْيَا لَعِبٌ وَلَهْوٌ ۚ وَإِن تُؤْمِنُوا۟ وَتَتَّقُوا۟ يُؤْتِكُمْ أُجُورَكُمْ وَلَا يَسْـَٔلْكُمْ أَمْوَٰلَكُمْ"
+arabic: "إِنَّمَا ٱلْحَيَوٰةُ ٱلدُّنْيَا لَعِبٌ وَلَهْوٌ ۚ وَإِن تُؤْمِنُوا۟ وَتَتَّقُوا۟ يُؤْتِكُمْ أُجُورَكُمْ وَلَا يَسْـَٔلْكُمْ أَمْوَٰلَكُمْ"
 translation: "The life of this world is only play and amusement. And if you believe and are mindful of Allah, He will give you your rewards and will not ask you for your wealth."
 word_count: 13
 estimated_duration: "50-58 minutes"

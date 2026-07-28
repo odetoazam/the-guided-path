@@ -6,7 +6,7 @@ ayah_end: 47
 title: "The Knowledge in the Covering: What the Sealed Fruit and the Hidden Womb Teach About Being Fully Known"
 slug: "041-047"
 category: tadabbur
-arabic: "إِلَيْهِ يُرَدُّ عِلْمُ ٱلسَّاعَةِ ۚ وَمَا تَخْرُجُ مِن ثَمَرَٰتٍ مِّنْ أَكْمَامِهَا وَمَا تَحْمِلُ مِنْ أُنثَىٰ وَلَا تَضَعُ إِلَّا بِعِلْمِهِۦ ۚ وَيَوْمَ يُنَادِيهِمْ أَيْنَ شُرَكَآءِى قَالُوٓاْ ءَاذَنَّـٰكَ مَا مِنَّا مِن شَهِيدٍ"
+arabic: "۞ إِلَيْهِ يُرَدُّ عِلْمُ ٱلسَّاعَةِ ۚ وَمَا تَخْرُجُ مِن ثَمَرَٰتٍ مِّنْ أَكْمَامِهَا وَمَا تَحْمِلُ مِنْ أُنثَىٰ وَلَا تَضَعُ إِلَّا بِعِلْمِهِۦ ۚ وَيَوْمَ يُنَادِيهِمْ أَيْنَ شُرَكَآءِى قَالُوٓا۟ ءَاذَنَّـٰكَ مَا مِنَّا مِن شَهِيدٍ"
 translation: "To Him is referred the knowledge of the Hour. And no fruits emerge from their coverings, nor does any female conceive or give birth, except with His knowledge. And the Day He calls to them, 'Where are My partners?' they will say, 'We announce to You — there is not among us a single witness.'"
 word_count: 6600
 estimated_duration: "50-58 minutes"

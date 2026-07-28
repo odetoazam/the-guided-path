@@ -6,7 +6,7 @@ ayah_end: 131
 title: "Do Not Stretch Your Eyes: The Flower, the Test, and Your Lord's Provision"
 slug: "020-131"
 category: tadabbur
-arabic: "وَلَا تَمُدَّنَّ عَيْنَيْكَ إِلَىٰ مَا مَتَّعْنَا بِهِۦٓ أَزْوَٰجًۭا مِّنْهُمْ زَهْرَةَ ٱلْحَيَوٰةِ ٱلدُّنْيَا لِنَفْتِنَهُمْ فِيهِ ۚ وَرِزْقُ رَبِّكَ خَيْرٌۭ وَأَبْقَىٰ"
+arabic: "وَلَا تَمُدَّنَّ عَيْنَيْكَ إِلَىٰ مَا مَتَّعْنَا بِهِۦٓ أَزْوَٰجًا مِّنْهُمْ زَهْرَةَ ٱلْحَيَوٰةِ ٱلدُّنْيَا لِنَفْتِنَهُمْ فِيهِ ۚ وَرِزْقُ رَبِّكَ خَيْرٌ وَأَبْقَىٰ"
 translation: "And do not stretch your eyes toward what We have given certain pairs among them to enjoy — the bloom of the life of this world, that We may test them through it. And the provision of your Lord is better and more enduring."
 word_count: 22
 estimated_duration: "50-58 minutes"

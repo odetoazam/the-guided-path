@@ -6,7 +6,7 @@ ayah_end: 82
 slug: az-zukhruf-82-glory-above-what-they-describe
 category: tadabbur
 title: "Above What They Describe — A Tadabbur of Az-Zukhruf 43:82"
-arabic: "سُبْحَٰنَ رَبِّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ رَبِّ ٱلْعَرْشِ عَمَّا يَصِفُونَ"
+arabic: "سُبْحَـٰنَ رَبِّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ رَبِّ ٱلْعَرْشِ عَمَّا يَصِفُونَ"
 translation: "Glory be to the Lord of the heavens and the earth, the Lord of the Throne, above what they describe."
 estimated_duration: "50–58 minutes"
 passage_context: "Near the close of Surah az-Zukhruf, after the disbelievers' claims that Allah has a son and that the angels are His daughters, the surah answers first with argument (43:81) and then, in this ayah, with tasbīḥ — declaring Allah far removed from every false description before the surah turns them loose to their Day (43:83)."

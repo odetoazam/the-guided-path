@@ -6,7 +6,7 @@ ayah_end: 96
 title: "The First Thing Ever Set Down: Why Humanity's Oldest House Was Built for the Heart, Not the Body"
 slug: "003-096"
 category: tadabbur
-arabic: "إِنَّ أَوَّلَ بَيْتٍ وُضِعَ لِلنَّاسِ لَلَّذِي بِبَكَّةَ مُبَارَكًا وَهُدًى لِّلْعَالَمِينَ"
+arabic: "إِنَّ أَوَّلَ بَيْتٍ وُضِعَ لِلنَّاسِ لَلَّذِى بِبَكَّةَ مُبَارَكًا وَهُدًى لِّلْعَـٰلَمِينَ"
 translation: "Indeed, the first House set down for mankind is the one at Bakkah — blessed, and a guidance for all the worlds."
 word_count: 10
 estimated_duration: "50-58 minutes"

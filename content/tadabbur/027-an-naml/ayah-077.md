@@ -6,7 +6,7 @@ ayah_end: 77
 title: "The Quran as Guidance and Mercy — But Only for Those Who Will Receive It"
 slug: "027-077"
 category: tadabbur
-arabic: "وَإِنَّهُۥ لَهُدًۭى وَرَحْمَةٌۭ لِّلْمُؤْمِنِينَ"
+arabic: "وَإِنَّهُۥ لَهُدًى وَرَحْمَةٌ لِّلْمُؤْمِنِينَ"
 translation: "And indeed, it is guidance and mercy for the believers."
 word_count: 6
 estimated_duration: "48-55 minutes"

@@ -6,7 +6,7 @@ ayah_end: 13
 title: "The Only Address: Tawhid as the Ground Beneath Trust"
 slug: "064-013"
 category: tadabbur
-arabic: "ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ"
+arabic: "ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ"
 translation: "Allah — there is no god but Him. And upon Allah let the believers put their trust."
 word_count: 9
 estimated_duration: "50-58 minutes"

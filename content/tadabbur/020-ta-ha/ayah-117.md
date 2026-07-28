@@ -6,7 +6,7 @@ ayah_end: 117
 title: "The Singular Suffering: Why Allah Said 'You' (One) When He Meant 'You' (Two)"
 slug: "020-117"
 category: tadabbur
-arabic: "فَقُلْنَا يَـٰٓـَٔادَمُ إِنَّ هَـٰذَا عَدُوٌّۭ لَّكَ وَلِزَوْجِكَ فَلَا يُخْرِجَنَّكُمَا مِنَ ٱلْجَنَّةِ فَتَشْقَىٰٓ"
+arabic: "فَقُلْنَا يَـٰٓـَٔادَمُ إِنَّ هَـٰذَا عَدُوٌّ لَّكَ وَلِزَوْجِكَ فَلَا يُخْرِجَنَّكُمَا مِنَ ٱلْجَنَّةِ فَتَشْقَىٰٓ"
 translation: "So We said, 'O Adam, indeed this is an enemy to you and to your spouse. So let him not drive you both out of the Garden — for then you would suffer.'"
 word_count: 13
 estimated_duration: "50-58 minutes"

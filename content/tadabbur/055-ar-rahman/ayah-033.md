@@ -6,7 +6,7 @@ ayah_end: 33
 title: "The Command That Was Built to Be Impossible"
 slug: "055-033"
 category: tadabbur
-arabic: "يَا مَعْشَرَ ٱلْجِنِّ وَٱلْإِنسِ إِنِ ٱسْتَطَعْتُمْ أَن تَنفُذُوا۟ مِنْ أَقْطَارِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ فَٱنفُذُوا۟ ۚ لَا تَنفُذُونَ إِلَّا بِسُلْطَـٰنٍۢ"
+arabic: "يَـٰمَعْشَرَ ٱلْجِنِّ وَٱلْإِنسِ إِنِ ٱسْتَطَعْتُمْ أَن تَنفُذُوا۟ مِنْ أَقْطَارِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ فَٱنفُذُوا۟ ۚ لَا تَنفُذُونَ إِلَّا بِسُلْطَـٰنٍ"
 translation: "O assembly of jinn and humankind! If you are able to pass beyond the regions of the heavens and the earth, then pass through — you will not pass except by an authority."
 word_count: 4900
 estimated_duration: "50-58 minutes"

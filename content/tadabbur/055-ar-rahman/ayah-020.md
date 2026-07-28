@@ -6,7 +6,7 @@ ayah_end: 20
 title: "The Unseen Barrier: How Two Seas Meet Without Losing Themselves"
 slug: "055-020"
 category: tadabbur
-arabic: "بَيْنَهُمَا بَرْزَخٌ لَّا يَبْغِيَانِ"
+arabic: "بَيْنَهُمَا بَرْزَخٌ لَّا يَبْغِيَانِ"
 translation: "Between them is a barrier they do not transgress."
 word_count: 6100
 estimated_duration: "48-55 minutes"

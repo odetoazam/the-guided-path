@@ -6,7 +6,7 @@ ayah_end: 2
 title: "One Origin, Two Names, and the Verb He Watches"
 slug: "064-002"
 category: tadabbur
-arabic: "هُوَ ٱلَّذِى خَلَقَكُمْ فَمِنكُمْ كَافِرٌ وَمِنكُم مُّؤْمِنٌۚ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ"
+arabic: "هُوَ ٱلَّذِى خَلَقَكُمْ فَمِنكُمْ كَافِرٌ وَمِنكُم مُّؤْمِنٌ ۚ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ"
 translation: "He is the One who created you; then among you is one who covers over the truth, and among you is one who has come into trust. And Allah, of all that you do, is ever-Seeing."
 word_count: 11
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 35
 title: "The Two Who Were Sent: Arbitration, Intention, and the Welding That Belongs to Allah"
 slug: "004-035"
 category: tadabbur
-arabic: "وَإِنْ خِفْتُمْ شِقَاقَ بَيْنِهِمَا فَٱبْعَثُوا۟ حَكَمًا مِّنْ أَهْلِهِۦ وَحَكَمًا مِّنْ أَهْلِهَآ إِن يُرِيدَآ إِصْلَـٰحًا يُوَفِّقِ ٱللَّهُ بَيْنَهُمَآ إِنَّ ٱللَّهَ كَانَ عَلِيمًا خَبِيرًا"
+arabic: "وَإِنْ خِفْتُمْ شِقَاقَ بَيْنِهِمَا فَٱبْعَثُوا۟ حَكَمًا مِّنْ أَهْلِهِۦ وَحَكَمًا مِّنْ أَهْلِهَآ إِن يُرِيدَآ إِصْلَـٰحًا يُوَفِّقِ ٱللَّهُ بَيْنَهُمَآ ۗ إِنَّ ٱللَّهَ كَانَ عَلِيمًا خَبِيرًا"
 translation: "And if you fear a split between the two of them, then send an arbitrator from his family and an arbitrator from her family. If the two of them intend reconciliation, Allah will bring about harmony between them. Indeed, Allah is ever All-Knowing, All-Aware."
 word_count: 6600
 estimated_duration: "50-58 minutes"

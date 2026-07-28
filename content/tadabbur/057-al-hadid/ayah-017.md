@@ -6,7 +6,7 @@ ayah_end: 17
 title: "The Earth Was Dead Too: Reviving the Hardened Heart"
 slug: "057-017"
 category: tadabbur
-arabic: "ٱعْلَمُوٓاْ أَنَّ ٱللَّهَ يُحْىِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا ۚ قَدْ بَيَّنَّا لَكُمُ ٱلْـَٔايَـٰتِ لَعَلَّكُمْ تَعْقِلُونَ"
+arabic: "ٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ يُحْىِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا ۚ قَدْ بَيَّنَّا لَكُمُ ٱلْـَٔايَـٰتِ لَعَلَّكُمْ تَعْقِلُونَ"
 translation: "Know that Allah gives life to the earth after its death. We have certainly made the signs clear to you, that perhaps you may reason."
 word_count: 13
 estimated_duration: "50-58 minutes"

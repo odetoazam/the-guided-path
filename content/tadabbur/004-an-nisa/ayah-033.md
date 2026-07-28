@@ -6,7 +6,7 @@ ayah_end: 33
 title: "The Knot Your Hand Tied: Belonging, Covenant, and the Witness Over Every Bond"
 slug: "004-033"
 category: tadabbur
-arabic: "وَلِكُلٍّ جَعَلْنَا مَوَالِيَ مِمَّا تَرَكَ ٱلْوَٰلِدَانِ وَٱلْأَقْرَبُونَ ۚ وَٱلَّذِينَ عَقَدَتْ أَيْمَٰنُكُمْ فَـَٔاتُوهُمْ نَصِيبَهُمْ ۚ إِنَّ ٱللَّهَ كَانَ عَلَىٰ كُلِّ شَىْءٍ شَهِيدًا"
+arabic: "وَلِكُلٍّ جَعَلْنَا مَوَٰلِىَ مِمَّا تَرَكَ ٱلْوَٰلِدَانِ وَٱلْأَقْرَبُونَ ۚ وَٱلَّذِينَ عَقَدَتْ أَيْمَـٰنُكُمْ فَـَٔاتُوهُمْ نَصِيبَهُمْ ۚ إِنَّ ٱللَّهَ كَانَ عَلَىٰ كُلِّ شَىْءٍ شَهِيدًا"
 translation: "And for every one We have appointed heirs — those near — to what parents and close relatives leave behind. And those to whom your right hands were bound by oath: give them their share. Indeed, Allah is, over all things, a Witness."
 word_count: 19
 estimated_duration: "50-58 minutes"

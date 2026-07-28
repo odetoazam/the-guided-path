@@ -6,7 +6,7 @@ ayah_end: 15
 title: "The Knowledge That Bends the Knee: Dawud, Sulayman, and the Praise That Comes Before the Gift"
 slug: "027-015"
 category: tadabbur
-arabic: "وَلَقَدْ ءَاتَيْنَا دَاوُۥدَ وَسُلَيْمَـٰنَ عِلْمًۭا ۖ وَقَالَا ٱلْحَمْدُ لِلَّهِ ٱلَّذِى فَضَّلَنَا عَلَىٰ كَثِيرٍۢ مِّنْ عِبَادِهِ ٱلْمُؤْمِنِينَ"
+arabic: "وَلَقَدْ ءَاتَيْنَا دَاوُۥدَ وَسُلَيْمَـٰنَ عِلْمًا ۖ وَقَالَا ٱلْحَمْدُ لِلَّهِ ٱلَّذِى فَضَّلَنَا عَلَىٰ كَثِيرٍ مِّنْ عِبَادِهِ ٱلْمُؤْمِنِينَ"
 translation: "And We had certainly given Dawud and Sulayman knowledge, and they said, 'All praise belongs to Allah who has favored us over many of His believing servants.'"
 word_count: 18
 estimated_duration: "50-58 minutes"

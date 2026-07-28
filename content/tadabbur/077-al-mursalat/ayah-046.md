@@ -6,7 +6,7 @@ ayah_end: 46
 title: "Eat and Enjoy a Little: When Permission Becomes the Punishment"
 slug: "077-046"
 category: tadabbur
-arabic: "كُلُوا۟ وَتَمَتَّعُوا۟ قَلِيلًا إِنَّكُم مُّجْرِمُونَ"
+arabic: "كُلُوا۟ وَتَمَتَّعُوا۟ قَلِيلًا إِنَّكُم مُّجْرِمُونَ"
 translation: "Eat and enjoy yourselves a little; indeed, you are criminals."
 word_count: 8600
 estimated_duration: "50-58 minutes"

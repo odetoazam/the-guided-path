@@ -6,7 +6,7 @@ ayah_end: 43
 title: "When the Questions Run Out: The Glory Beyond Every False God"
 slug: "052-043"
 category: tadabbur
-arabic: "أَمْ لَهُمْ إِلَٰهٌ غَيْرُ ٱللَّهِ ۚ سُبْحَٰنَ ٱللَّهِ عَمَّا يُشْرِكُونَ"
+arabic: "أَمْ لَهُمْ إِلَـٰهٌ غَيْرُ ٱللَّهِ ۚ سُبْحَـٰنَ ٱللَّهِ عَمَّا يُشْرِكُونَ"
 translation: "Or do they have a god other than Allah? Glory be to Allah, far above whatever they associate with Him."
 word_count: 6600
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 16
 title: "The Arithmetic of Flight — when running away gains you nothing"
 slug: "033-016"
 category: tadabbur
-arabic: "قُل لَّن يَنفَعَكُمُ ٱلْفِرَارُ إِن فَرَرْتُم مِّنَ ٱلْمَوْتِ أَوِ ٱلْقَتْلِ وَإِذًا لَّا تُمَتَّعُونَ إِلَّا قَلِيلًا"
+arabic: "قُل لَّن يَنفَعَكُمُ ٱلْفِرَارُ إِن فَرَرْتُم مِّنَ ٱلْمَوْتِ أَوِ ٱلْقَتْلِ وَإِذًا لَّا تُمَتَّعُونَ إِلَّا قَلِيلًا"
 translation: "Say: Fleeing will never benefit you — if you flee from death or being killed; and then you would not be given enjoyment except for a little."
 word_count: 15
 estimated_duration: "48-55 minutes"

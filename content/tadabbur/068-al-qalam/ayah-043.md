@@ -6,7 +6,7 @@ ayah_end: 43
 title: "While You Were Sound: The Prostration You Were Invited to Make"
 slug: "068-043"
 category: tadabbur
-arabic: "خَاشِعَةً أَبْصَارُهُمْ تَرْهَقُهُمْ ذِلَّةٌ ۖ وَقَدْ كَانُوا يُدْعَوْنَ إِلَى ٱلسُّجُودِ وَهُمْ سَـٰلِمُونَ"
+arabic: "خَـٰشِعَةً أَبْصَـٰرُهُمْ تَرْهَقُهُمْ ذِلَّةٌ ۖ وَقَدْ كَانُوا۟ يُدْعَوْنَ إِلَى ٱلسُّجُودِ وَهُمْ سَـٰلِمُونَ"
 translation: "Their eyes lowered, humiliation overwhelming them — and they had indeed been called to prostrate while they were sound."
 word_count: 5200
 estimated_duration: "50-56 minutes"

@@ -6,7 +6,7 @@ ayah_end: 32
 title: "The Two Doors: When the Mind Is Made to Take the Blame for the Will"
 slug: "052-032"
 category: tadabbur
-arabic: "أَمْ تَأْمُرُهُمْ أَحْلَـٰمُهُم بِهَـٰذَآ ۚ أَمْ هُمْ قَوْمٌ طَاغُونَ"
+arabic: "أَمْ تَأْمُرُهُمْ أَحْلَـٰمُهُم بِهَـٰذَآ ۚ أَمْ هُمْ قَوْمٌ طَاغُونَ"
 translation: "Or do their minds command them to this? Or are they a people transgressing all bounds?"
 word_count: 8
 estimated_duration: "50-58 minutes"

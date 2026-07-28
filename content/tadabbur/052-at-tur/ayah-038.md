@@ -6,7 +6,7 @@ ayah_end: 38
 title: "The Ladder They Do Not Have: On Private Access to Heaven and the Proof That Never Comes Down"
 slug: "052-038"
 category: tadabbur
-arabic: "أَمْ لَهُمْ سُلَّمٌ يَسْتَمِعُونَ فِيهِ ۖ فَلْيَأْتِ مُسْتَمِعُهُم بِسُلْطَٰنٍ مُّبِينٍ"
+arabic: "أَمْ لَهُمْ سُلَّمٌ يَسْتَمِعُونَ فِيهِ ۖ فَلْيَأْتِ مُسْتَمِعُهُم بِسُلْطَـٰنٍ مُّبِينٍ"
 translation: "Or do they have a ladder by which they listen in [on heaven]? Then let their listener bring a clear authority."
 word_count: 9
 estimated_duration: "50-58 minutes"

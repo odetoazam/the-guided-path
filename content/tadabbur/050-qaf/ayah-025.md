@@ -6,7 +6,7 @@ ayah_end: 25
 title: "The Closed Hand and the Closed Heart: An Anatomy of Withholding"
 slug: "050-025"
 category: tadabbur
-arabic: "مَّنَّاعٍ لِّلْخَيْرِ مُعْتَدٍ مُّرِيبٍ"
+arabic: "مَّنَّاعٍ لِّلْخَيْرِ مُعْتَدٍ مُّرِيبٍ"
 translation: "A persistent withholder of good, a transgressor, steeped in doubt"
 word_count: 6600
 estimated_duration: "50-58 minutes"

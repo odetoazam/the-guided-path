@@ -6,7 +6,7 @@ ayah_end: 11
 title: "When Denial Comes Before Evidence: The Hour They Already Rejected"
 slug: "025-011"
 category: tadabbur
-arabic: "بَلْ كَذَّبُوا۟ بِٱلسَّاعَةِ ۖ وَأَعْتَدْنَا لِمَن كَذَّبَ بِٱلسَّاعَةِ سَعِيرًا"
+arabic: "بَلْ كَذَّبُوا۟ بِٱلسَّاعَةِ ۖ وَأَعْتَدْنَا لِمَن كَذَّبَ بِٱلسَّاعَةِ سَعِيرًا"
 translation: "Rather, they have denied the Hour. And We have prepared for whoever denies the Hour a Blaze."
 word_count: 9
 estimated_duration: "50-58 minutes"

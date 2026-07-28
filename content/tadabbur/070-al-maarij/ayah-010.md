@@ -6,7 +6,7 @@ ayah_end: 10
 title: "The Warmth That Goes Cold: When No Friend Asks After a Friend"
 slug: "070-010"
 category: tadabbur
-arabic: "وَلَا يَسْـَٔلُ حَمِيمٌ حَمِيمًا"
+arabic: "وَلَا يَسْـَٔلُ حَمِيمٌ حَمِيمًا"
 translation: "And no devoted friend will ask about a devoted friend."
 word_count: 4
 estimated_duration: "48-56 minutes"

@@ -6,7 +6,7 @@ ayah_end: 81
 title: "The Heat You Avoid Returns Hotter — Mukhallafūn and the Economy of Comfort"
 slug: "009-081"
 category: tadabbur
-arabic: "فَرِحَ ٱلْمُخَلَّفُونَ بِمَقْعَدِهِمْ خِلَـٰفَ رَسُولِ ٱللَّهِ وَكَرِهُوٓا۟ أَن يُجَـٰهِدُوا۟ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ فِى سَبِيلِ ٱللَّهِ وَقَالُوا۟ لَا تَنفِرُوا۟ فِى ٱلْحَرِّ ۗ قُلْ نَارُ جَهَنَّمَ أَشَدُّ حَرًّا ۚ لَّوْ كَانُوا۟ يَفْقَهُونَ"
+arabic: "فَرِحَ ٱلْمُخَلَّفُونَ بِمَقْعَدِهِمْ خِلَـٰفَ رَسُولِ ٱللَّهِ وَكَرِهُوٓا۟ أَن يُجَـٰهِدُوا۟ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ فِى سَبِيلِ ٱللَّهِ وَقَالُوا۟ لَا تَنفِرُوا۟ فِى ٱلْحَرِّ ۗ قُلْ نَارُ جَهَنَّمَ أَشَدُّ حَرًّا ۚ لَّوْ كَانُوا۟ يَفْقَهُونَ"
 translation: "Those who were left behind rejoiced in their sitting-place, behind the Messenger of Allah, and they hated to strive with their wealth and their selves in the path of Allah. And they said: 'Do not march out in the heat.' Say: 'The fire of Hell is more intense in heat' — if only they understood."
 word_count: 8400
 estimated_duration: "50-56 minutes"

@@ -6,7 +6,7 @@ ayah_end: 107
 title: "And We Ransomed Him: The Sacrifice Measured by Worth, Not Size"
 slug: "037-107"
 category: tadabbur
-arabic: "وَفَدَيْنَٰهُ بِذِبْحٍ عَظِيمٍ"
+arabic: "وَفَدَيْنَـٰهُ بِذِبْحٍ عَظِيمٍ"
 translation: "And We ransomed him with a great sacrifice."
 word_count: 3
 estimated_duration: "50-58 minutes"

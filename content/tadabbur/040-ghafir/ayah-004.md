@@ -6,7 +6,7 @@ ayah_end: 4
 title: "The Turning of the Heart and the Turning in the Land: Why the Wrong People Seem to Win"
 slug: "040-004"
 category: tadabbur
-arabic: "مَا يُجَـٰدِلُ فِىٓ ءَايَـٰتِ ٱللَّهِ إِلَّا ٱلَّذِينَ كَفَرُوا۟ فَلَا يَغْرُرْكَ تَقَلُّبُهُمْ فِى ٱلْبِلَـٰدِ"
+arabic: "مَا يُجَـٰدِلُ فِىٓ ءَايَـٰتِ ٱللَّهِ إِلَّا ٱلَّذِينَ كَفَرُوا۟ فَلَا يَغْرُرْكَ تَقَلُّبُهُمْ فِى ٱلْبِلَـٰدِ"
 translation: "None dispute concerning the signs of Allah except those who disbelieve, so let not their roaming about the land deceive you."
 word_count: 13
 estimated_duration: "50-58 minutes"

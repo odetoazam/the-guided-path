@@ -6,7 +6,7 @@ ayah_end: 18
 title: "The Oath That Follows You Past the Grave: Self-Deception Before the One Who Cannot Be Deceived"
 slug: "058-018"
 category: tadabbur
-arabic: "يَوْمَ يَبْعَثُهُمُ ٱللَّهُ جَمِيعًا فَيَحْلِفُونَ لَهُۥ كَمَا يَحْلِفُونَ لَكُمْ وَيَحْسَبُونَ أَنَّهُمْ عَلَىٰ شَىْءٍ أَلَآ إِنَّهُمْ هُمُ ٱلْكَـٰذِبُونَ"
+arabic: "يَوْمَ يَبْعَثُهُمُ ٱللَّهُ جَمِيعًا فَيَحْلِفُونَ لَهُۥ كَمَا يَحْلِفُونَ لَكُمْ ۖ وَيَحْسَبُونَ أَنَّهُمْ عَلَىٰ شَىْءٍ ۚ أَلَآ إِنَّهُمْ هُمُ ٱلْكَـٰذِبُونَ"
 translation: "On the Day Allah raises them all together, they will swear to Him as they swear to you, and they will think that they are standing on something. Unquestionably, it is they who are the liars."
 word_count: 17
 estimated_duration: "50-58 minutes"

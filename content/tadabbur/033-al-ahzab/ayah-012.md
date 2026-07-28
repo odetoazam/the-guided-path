@@ -6,7 +6,7 @@ ayah_end: 12
 title: "The Mirror of Crisis: When the Same Storm Reveals Two Different Hearts"
 slug: "033-012"
 category: tadabbur
-arabic: "وَإِذْ يَقُولُ الْمُنَافِقُونَ وَالَّذِينَ فِي قُلُوبِهِم مَّرَضٌ مَّا وَعَدَنَا اللَّهُ وَرَسُولُهُ إِلَّا غُرُورًا"
+arabic: "وَإِذْ يَقُولُ ٱلْمُنَـٰفِقُونَ وَٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ مَّا وَعَدَنَا ٱللَّهُ وَرَسُولُهُۥٓ إِلَّا غُرُورًا"
 translation: "And when the hypocrites and those in whose hearts is disease said, 'Allah and His Messenger did not promise us except delusion.'"
 word_count: 7850
 estimated_duration: "52-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 86
 title: "The Question That Is a Verdict: How Guidance Withdraws From the Heart That Turned After It Saw"
 slug: "003-086"
 category: tadabbur
-arabic: "كَيْفَ يَهْدِي ٱللَّهُ قَوْمًا كَفَرُوا۟ بَعْدَ إِيمَـٰنِهِمْ وَشَهِدُوٓا۟ أَنَّ ٱلرَّسُولَ حَقٌّ وَجَآءَهُمُ ٱلْبَيِّنَـٰتُ ۚ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّـٰلِمِينَ"
+arabic: "كَيْفَ يَهْدِى ٱللَّهُ قَوْمًا كَفَرُوا۟ بَعْدَ إِيمَـٰنِهِمْ وَشَهِدُوٓا۟ أَنَّ ٱلرَّسُولَ حَقٌّ وَجَآءَهُمُ ٱلْبَيِّنَـٰتُ ۚ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّـٰلِمِينَ"
 translation: "How shall Allah guide a people who disbelieved after their belief — and after they had borne witness that the Messenger is true and clear proofs had come to them? Allah does not guide the wrongdoing people."
 word_count: 18
 estimated_duration: "48-59 minutes"

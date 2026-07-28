@@ -6,7 +6,7 @@ ayah_end: 2
 title: "The Wonder That Closed the Door: When the Warner From Among Them Became the Offense"
 slug: "050-002"
 category: tadabbur
-arabic: "بَلْ عَجِبُوٓا۟ أَن جَآءَهُم مُّنذِرٌ مِّنْهُمْ فَقَالَ ٱلْكَٰفِرُونَ هَٰذَا شَىْءٌ عَجِيبٌ"
+arabic: "بَلْ عَجِبُوٓا۟ أَن جَآءَهُم مُّنذِرٌ مِّنْهُمْ فَقَالَ ٱلْكَـٰفِرُونَ هَـٰذَا شَىْءٌ عَجِيبٌ"
 translation: "But no — they marveled that a warner had come to them from among their own. So the disbelievers said, 'This is an astonishing thing!'"
 word_count: 11
 estimated_duration: "50-58 minutes"

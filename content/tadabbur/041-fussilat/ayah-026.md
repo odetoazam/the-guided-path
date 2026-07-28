@@ -6,7 +6,7 @@ ayah_end: 26
 title: "And Make Noise Therein: The Strategy That Confesses Its Own Defeat"
 slug: "041-026"
 category: tadabbur
-arabic: "وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لَا تَسْمَعُوا۟ لِهَـٰذَا ٱلْقُرْءَانِ وَٱلْغَوْا۟ فِيهِ لَعَلَّكُمْ تَغْلِبُونَ"
+arabic: "وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لَا تَسْمَعُوا۟ لِهَـٰذَا ٱلْقُرْءَانِ وَٱلْغَوْا۟ فِيهِ لَعَلَّكُمْ تَغْلِبُونَ"
 translation: "And those who disbelieve say, 'Do not listen to this Qur'an, and drown it out with noise, that perhaps you may overcome.'"
 word_count: 11
 estimated_duration: "50-58 minutes"

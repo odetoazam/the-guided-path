@@ -6,7 +6,7 @@ ayah_end: 74
 title: "What the Chest Conceals: The Lord Who Knows What You Will Not Say"
 slug: "027-074"
 category: tadabbur
-arabic: "وَإِنَّ رَبَّكَ لَيَعْلَمُ مَا تُكِنُّ صُدُورُهُمْ وَمَا يُعْلِنُونَ"
+arabic: "وَإِنَّ رَبَّكَ لَيَعْلَمُ مَا تُكِنُّ صُدُورُهُمْ وَمَا يُعْلِنُونَ"
 translation: "And indeed, your Lord knows what their chests conceal and what they declare."
 word_count: 9
 estimated_duration: "48-55 minutes"

@@ -6,7 +6,7 @@ ayah_end: 55
 title: "Where Desire Has No Shadow: The Healing of āminīna"
 slug: "044-055"
 category: tadabbur
-arabic: "يَدْعُونَ فِيهَا بِكُلِّ فَاكِهَةٍ ءَامِنِينَ"
+arabic: "يَدْعُونَ فِيهَا بِكُلِّ فَـٰكِهَةٍ ءَامِنِينَ"
 translation: "They will call therein for every kind of fruit — secure."
 word_count: 6450
 estimated_duration: "50-58 minutes"

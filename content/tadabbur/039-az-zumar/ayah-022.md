@@ -6,7 +6,7 @@ ayah_end: 22
 title: "The Expanded Breast and the Sentence Left Unfinished"
 slug: "039-022"
 category: tadabbur
-arabic: "أَفَمَن شَرَحَ ٱللَّهُ صَدْرَهُۥ لِلْإِسْلَـٰمِ فَهُوَ عَلَىٰ نُورٍۢ مِّن رَّبِّهِۦ ۚ فَوَيْلٌۭ لِّلْقَـٰسِيَةِ قُلُوبُهُم مِّن ذِكْرِ ٱللَّهِ ۚ أُو۟لَـٰٓئِكَ فِى ضَلَـٰلٍۢ مُّبِينٍۢ"
+arabic: "أَفَمَن شَرَحَ ٱللَّهُ صَدْرَهُۥ لِلْإِسْلَـٰمِ فَهُوَ عَلَىٰ نُورٍ مِّن رَّبِّهِۦ ۚ فَوَيْلٌ لِّلْقَـٰسِيَةِ قُلُوبُهُم مِّن ذِكْرِ ٱللَّهِ ۚ أُو۟لَـٰٓئِكَ فِى ضَلَـٰلٍ مُّبِينٍ"
 translation: "Is one whose breast Allah has opened wide for submission, so that he walks upon a light from his Lord [like one whose heart is hardened]? So woe to those whose hearts are hardened against the remembrance of Allah. Those are in manifest error."
 word_count: 20
 estimated_duration: "50-58 minutes"

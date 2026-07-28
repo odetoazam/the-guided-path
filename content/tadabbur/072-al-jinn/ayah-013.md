@@ -6,7 +6,7 @@ ayah_end: 13
 title: "The Two Fears That Belief Dissolves: Neither Shortchanged Nor Overwhelmed"
 slug: "072-013"
 category: tadabbur
-arabic: "وَأَنَّا لَمَّا سَمِعْنَا ٱلْهُدَىٰ ءَامَنَّا بِهِۦ ۖ فَمَن يُؤْمِنۢ بِرَبِّهِۦ فَلَا يَخَافُ بَخْسًا وَلَا رَهَقًا"
+arabic: "وَأَنَّا لَمَّا سَمِعْنَا ٱلْهُدَىٰٓ ءَامَنَّا بِهِۦ ۖ فَمَن يُؤْمِنۢ بِرَبِّهِۦ فَلَا يَخَافُ بَخْسًا وَلَا رَهَقًا"
 translation: "And that when we heard the Guidance, we believed in it. So whoever believes in his Lord will fear neither loss nor burden."
 word_count: 14
 estimated_duration: "48-58 minutes"

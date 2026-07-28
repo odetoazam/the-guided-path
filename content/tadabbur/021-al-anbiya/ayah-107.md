@@ -6,7 +6,7 @@ ayah_end: 107
 title: "Sent As Mercy: The Closing Thesis of the Prophets' Surah"
 slug: "021-107"
 category: tadabbur
-arabic: "وَمَا أَرْسَلْنَاكَ إِلَّا رَحْمَةً لِّلْعَالَمِينَ"
+arabic: "وَمَآ أَرْسَلْنَـٰكَ إِلَّا رَحْمَةً لِّلْعَـٰلَمِينَ"
 translation: "And We have not sent you except as a mercy to all the worlds."
 word_count: 8
 estimated_duration: "50-58 minutes"

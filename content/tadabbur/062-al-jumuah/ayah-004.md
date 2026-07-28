@@ -6,7 +6,7 @@ ayah_end: 4
 title: "The Overflow That Reaches Those Who Have Not Yet Arrived"
 slug: "062-004"
 category: tadabbur
-arabic: "ذَٰلِكَ فَضْلُ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ ۚ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ"
+arabic: "ذَٰلِكَ فَضْلُ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ ۚ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ"
 translation: "That is the bounty of Allah, which He gives to whom He wills. And Allah is the Possessor of great bounty."
 word_count: 10
 estimated_duration: "50-58 minutes"

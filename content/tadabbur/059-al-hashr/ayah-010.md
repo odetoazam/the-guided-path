@@ -6,7 +6,7 @@ ayah_end: 10
 title: "The Ones Who Came After: A Prayer Against the Shackle in the Heart"
 slug: "059-010"
 category: tadabbur
-arabic: "وَٱلَّذِينَ جَآءُو مِنۢ بَعْدِهِمْ يَقُولُونَ رَبَّنَا ٱغْفِرْ لَنَا وَلِإِخْوَٰنِنَا ٱلَّذِينَ سَبَقُونَا بِٱلْإِيمَـٰنِ وَلَا تَجْعَلْ فِى قُلُوبِنَا غِلًّا لِّلَّذِينَ ءَامَنُوا۟ رَبَّنَآ إِنَّكَ رَءُوفٌ رَّحِيمٌ"
+arabic: "وَٱلَّذِينَ جَآءُو مِنۢ بَعْدِهِمْ يَقُولُونَ رَبَّنَا ٱغْفِرْ لَنَا وَلِإِخْوَٰنِنَا ٱلَّذِينَ سَبَقُونَا بِٱلْإِيمَـٰنِ وَلَا تَجْعَلْ فِى قُلُوبِنَا غِلًّا لِّلَّذِينَ ءَامَنُوا۟ رَبَّنَآ إِنَّكَ رَءُوفٌ رَّحِيمٌ"
 translation: "And those who came after them say: \"Our Lord, forgive us and our brothers who preceded us in faith, and do not place in our hearts any rancor toward those who believed. Our Lord, indeed You are Full of Kindness, Most Merciful.\""
 word_count: 23
 estimated_duration: "50-58 minutes"

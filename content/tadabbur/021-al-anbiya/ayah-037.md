@@ -6,7 +6,7 @@ ayah_end: 37
 title: "Made From Haste — Allah Names the Substance of Our Impatience"
 slug: "021-037"
 category: tadabbur
-arabic: "خُلِقَ ٱلْإِنسَـٰنُ مِنْ عَجَلٍۢ ۚ سَأُو۟رِيكُمْ ءَايَـٰتِى فَلَا تَسْتَعْجِلُونِ"
+arabic: "خُلِقَ ٱلْإِنسَـٰنُ مِنْ عَجَلٍ ۚ سَأُو۟رِيكُمْ ءَايَـٰتِى فَلَا تَسْتَعْجِلُونِ"
 translation: "Man was created from haste. I will show you My signs — so do not urge Me to haste."
 word_count: 8400
 estimated_duration: "52-58 minutes"

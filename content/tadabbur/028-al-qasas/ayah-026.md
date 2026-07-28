@@ -6,7 +6,7 @@ ayah_end: 26
 title: "The Daughter Who Spoke: Two Words That Reveal a Whole Character"
 slug: "028-026"
 category: tadabbur
-arabic: "قَالَتْ إِحْدَىٰهُمَا يَـٰٓأَبَتِ ٱسْتَـْٔجِرْهُ ۖ إِنَّ خَيْرَ مَنِ ٱسْتَـْٔجَرْتَ ٱلْقَوِىُّ ٱلْأَمِينُ"
+arabic: "قَالَتْ إِحْدَىٰهُمَا يَـٰٓأَبَتِ ٱسْتَـْٔجِرْهُ ۖ إِنَّ خَيْرَ مَنِ ٱسْتَـْٔجَرْتَ ٱلْقَوِىُّ ٱلْأَمِينُ"
 translation: "One of the two women said, 'O my father, hire him. Indeed, the best one you can hire is the strong and trustworthy.'"
 word_count: 11
 estimated_duration: "48-55 minutes"

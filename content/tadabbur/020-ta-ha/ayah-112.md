@@ -6,7 +6,7 @@ ayah_end: 112
 title: "Neither Wrong Added Nor Right Eaten Away: The Two Fears Removed"
 slug: "020-112"
 category: tadabbur
-arabic: "وَمَن يَعْمَلْ مِنَ ٱلصَّـٰلِحَـٰتِ وَهُوَ مُؤْمِنٌۭ فَلَا يَخَافُ ظُلْمًۭا وَلَا هَضْمًۭا"
+arabic: "وَمَن يَعْمَلْ مِنَ ٱلصَّـٰلِحَـٰتِ وَهُوَ مُؤْمِنٌ فَلَا يَخَافُ ظُلْمًا وَلَا هَضْمًا"
 translation: "And whoever does of righteous deeds while he is a believer — he will fear neither wrong added nor right eaten away."
 word_count: 7400
 estimated_duration: "48-54 minutes"

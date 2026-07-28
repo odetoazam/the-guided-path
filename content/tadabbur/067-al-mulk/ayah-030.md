@@ -6,7 +6,7 @@ ayah_end: 30
 title: "The Water Beneath Your Feet: When the Source Sinks Away"
 slug: "067-030"
 category: tadabbur
-arabic: "قُلْ أَرَءَيْتُمْ إِنْ أَصْبَحَ مَآؤُكُمْ غَوْرًا فَمَن يَأْتِيكُم بِمَآءٍ مَّعِينِۭ"
+arabic: "قُلْ أَرَءَيْتُمْ إِنْ أَصْبَحَ مَآؤُكُمْ غَوْرًا فَمَن يَأْتِيكُم بِمَآءٍ مَّعِينٍۭ"
 translation: "Say: Have you considered — if your water were to sink away into the earth, then who could bring you flowing water?"
 word_count: 10
 estimated_duration: "50-58 minutes"

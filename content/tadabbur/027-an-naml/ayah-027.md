@@ -6,7 +6,7 @@ ayah_end: 27
 title: "We Shall See: The Patience of the One Who Already Knows"
 slug: "027-027"
 category: tadabbur
-arabic: "قَالَ سَنَنظُرُ أَصَدَقْتَ أَمْ كُنتَ مِنَ ٱلْكَـٰذِبِينَ"
+arabic: "۞ قَالَ سَنَنظُرُ أَصَدَقْتَ أَمْ كُنتَ مِنَ ٱلْكَـٰذِبِينَ"
 translation: "He said, 'We shall see whether you have spoken the truth or whether you are of the liars.'"
 word_count: 7
 estimated_duration: "48-54 minutes"

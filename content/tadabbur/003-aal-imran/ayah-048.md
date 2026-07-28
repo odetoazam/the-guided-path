@@ -6,7 +6,7 @@ ayah_end: 48
 title: "The Messiah Who Was Taught: Servanthood in a Single Verb"
 slug: "003-048"
 category: tadabbur
-arabic: "وَيُعَلِّمُهُ ٱلْكِتَٰبَ وَٱلْحِكْمَةَ وَٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ"
+arabic: "وَيُعَلِّمُهُ ٱلْكِتَـٰبَ وَٱلْحِكْمَةَ وَٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ"
 translation: "And He will teach him the Book and wisdom and the Torah and the Gospel."
 word_count: 6
 estimated_duration: "48-59 minutes"

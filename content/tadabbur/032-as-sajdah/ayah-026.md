@@ -6,7 +6,7 @@ ayah_end: 26
 title: "The Stones That Will Not Speak: Walking Through Ruins With Sealed Ears"
 slug: "032-026"
 category: tadabbur
-arabic: "أَوَلَمْ يَهْدِ لَهُمْ كَمْ أَهْلَكْنَا مِن قَبْلِهِم مِّنَ ٱلْقُرُونِ يَمْشُونَ فِى مَسَـٰكِنِهِمْ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ ۖ أَفَلَا يَسْمَعُونَ"
+arabic: "أَوَلَمْ يَهْدِ لَهُمْ كَمْ أَهْلَكْنَا مِن قَبْلِهِم مِّنَ ٱلْقُرُونِ يَمْشُونَ فِى مَسَـٰكِنِهِمْ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ ۖ أَفَلَا يَسْمَعُونَ"
 translation: "Has it not become clear to them—how many generations We destroyed before them, through whose dwellings they now walk? Surely in that are signs. Will they not, then, hear?"
 word_count: 18
 estimated_duration: "50-55 minutes"

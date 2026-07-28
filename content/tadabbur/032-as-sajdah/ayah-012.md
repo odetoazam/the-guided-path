@@ -6,7 +6,7 @@ ayah_end: 12
 title: "The Suppressed Vision and the Yaqīn That Came Too Late"
 slug: "032-012"
 category: tadabbur
-arabic: "وَلَوْ تَرَىٰٓ إِذِ ٱلْمُجْرِمُونَ نَاكِسُواْ رُءُوسِهِمْ عِندَ رَبِّهِمْ رَبَّنَآ أَبْصَرْنَا وَسَمِعْنَا فَٱرْجِعْنَا نَعْمَلْ صَـٰلِحًا إِنَّا مُوقِنُونَ"
+arabic: "وَلَوْ تَرَىٰٓ إِذِ ٱلْمُجْرِمُونَ نَاكِسُوا۟ رُءُوسِهِمْ عِندَ رَبِّهِمْ رَبَّنَآ أَبْصَرْنَا وَسَمِعْنَا فَٱرْجِعْنَا نَعْمَلْ صَـٰلِحًا إِنَّا مُوقِنُونَ"
 translation: "If only you could see when the criminals are hanging their heads low before their Lord — 'Our Lord, we have seen and we have heard. So return us — we will work righteousness. We are now certain.'"
 word_count: 16
 estimated_duration: "50-58 minutes"

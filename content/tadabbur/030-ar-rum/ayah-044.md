@@ -6,7 +6,7 @@ ayah_end: 44
 title: "The Bed You Are Making: Disbelief Against the Self, Righteousness For the Self"
 slug: "030-044"
 category: tadabbur
-arabic: "مَن كَفَرَ فَعَلَيْهِ كُفْرُهُ ۖ وَمَنْ عَمِلَ صَـٰلِحًۭا فَلِأَنفُسِهِمْ يَمْهَدُونَ"
+arabic: "مَن كَفَرَ فَعَلَيْهِ كُفْرُهُۥ ۖ وَمَنْ عَمِلَ صَـٰلِحًا فَلِأَنفُسِهِمْ يَمْهَدُونَ"
 translation: "Whoever disbelieves — upon him is his disbelief. And whoever does righteous deeds — it is for themselves that they are preparing a resting-place."
 word_count: 14
 estimated_duration: "48-55 minutes"

@@ -6,7 +6,7 @@ ayah_end: 18
 slug: "3-18-the-witness-who-testified-first"
 category: tadabbur
 title: "The Witness Who Testified First: Tadabbur on Aal 'Imran 3:18"
-arabic: "شَهِدَ ٱللَّهُ أَنَّهُۥ لَآ إِلَٰهَ إِلَّا هُوَ وَٱلْمَلَٰٓئِكَةُ وَأُولُوا۟ ٱلْعِلْمِ قَآئِمًۢا بِٱلْقِسْطِ ۚ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ"
+arabic: "شَهِدَ ٱللَّهُ أَنَّهُۥ لَآ إِلَـٰهَ إِلَّا هُوَ وَٱلْمَلَـٰٓئِكَةُ وَأُو۟لُوا۟ ٱلْعِلْمِ قَآئِمًۢا بِٱلْقِسْطِ ۚ لَآ إِلَـٰهَ إِلَّا هُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ"
 translation: "Allah bears witness that there is no deity except Him — and [so do] the angels and those possessed of knowledge — upholding justice. There is no deity except Him, the Almighty, the All-Wise."
 estimated_duration: "50-58 minutes"
 passage_context: "Early in Surah Aal 'Imran, a surah preoccupied with knowledge, its people, and its distortion — arriving after al-Ḥayy al-Qayyūm (3:2) and the verse on the firmly-grounded in knowledge (3:7)."

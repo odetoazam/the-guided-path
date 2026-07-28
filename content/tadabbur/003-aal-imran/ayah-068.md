@@ -6,7 +6,7 @@ ayah_end: 68
 title: "The Inheritance You Cannot Be Born Into: Awlā, Walī, and the Closeness That Must Be Walked"
 slug: "003-068"
 category: tadabbur
-arabic: "إِنَّ أَوْلَى ٱلنَّاسِ بِإِبْرَٰهِيمَ لَلَّذِينَ ٱتَّبَعُوهُ وَهَٰذَا ٱلنَّبِىُّ وَٱلَّذِينَ ءَامَنُوا۟ ۗ وَٱللَّهُ وَلِىُّ ٱلْمُؤْمِنِينَ"
+arabic: "إِنَّ أَوْلَى ٱلنَّاسِ بِإِبْرَٰهِيمَ لَلَّذِينَ ٱتَّبَعُوهُ وَهَـٰذَا ٱلنَّبِىُّ وَٱلَّذِينَ ءَامَنُوا۟ ۗ وَٱللَّهُ وَلِىُّ ٱلْمُؤْمِنِينَ"
 translation: "Indeed, the most worthy of people to claim Ibrahim are those who followed him, and this Prophet, and those who believe. And Allah is the Guardian of the believers."
 word_count: 13
 estimated_duration: "50-58 minutes"

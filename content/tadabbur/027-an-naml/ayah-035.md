@@ -6,7 +6,7 @@ ayah_end: 35
 title: "The Gift That Was Already an Answer"
 slug: "027-035"
 category: tadabbur
-arabic: "وَإِنِّى مُرْسِلَةٌ إِلَيْهِم بِهَدِيَّةٍ فَنَاظِرَةٌۢ بِمَ يَرْجِعُ ٱلْمُرْسَلُونَ"
+arabic: "وَإِنِّى مُرْسِلَةٌ إِلَيْهِم بِهَدِيَّةٍ فَنَاظِرَةٌۢ بِمَ يَرْجِعُ ٱلْمُرْسَلُونَ"
 translation: "But indeed, I will send to them a gift and see with what the messengers return."
 word_count: 9
 estimated_duration: "50-55 minutes"

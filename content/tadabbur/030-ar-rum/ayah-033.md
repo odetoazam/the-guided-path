@@ -6,7 +6,7 @@ ayah_end: 33
 title: "The Forgetting That Follows Relief"
 slug: "030-033"
 category: tadabbur
-arabic: "وَإِذَا مَسَّ ٱلنَّاسَ ضُرٌّ دَعَوْا۟ رَبَّهُم مُّنِيبِينَ إِلَيْهِ ثُمَّ إِذَآ أَذَاقَهُم مِّنْهُ رَحْمَةً إِذَا فَرِيقٌ مِّنْهُم بِرَبِّهِمْ يُشْرِكُونَ"
+arabic: "وَإِذَا مَسَّ ٱلنَّاسَ ضُرٌّ دَعَوْا۟ رَبَّهُم مُّنِيبِينَ إِلَيْهِ ثُمَّ إِذَآ أَذَاقَهُم مِّنْهُ رَحْمَةً إِذَا فَرِيقٌ مِّنْهُم بِرَبِّهِمْ يُشْرِكُونَ"
 translation: "And when harm touches people, they call upon their Lord, turning back to Him in repentance. Then when He gives them a taste of mercy from Himself, behold — a faction of them associates partners with their Lord."
 word_count: 22
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 63
 title: "The One Who Guides You Through Your Own Darkness"
 slug: "027-063"
 category: tadabbur
-arabic: "أَمَّن يَهْدِيكُمْ فِى ظُلُمَـٰتِ ٱلْبَرِّ وَٱلْبَحْرِ وَمَن يُرْسِلُ ٱلرِّيَـٰحَ بُشْرًۢا بَيْنَ يَدَىْ رَحْمَتِهِۦٓ ۗ أَءِلَـٰهٌ مَّعَ ٱللَّهِ ۚ تَعَـٰلَى ٱللَّهُ عَمَّا يُشْرِكُونَ"
+arabic: "أَمَّن يَهْدِيكُمْ فِى ظُلُمَـٰتِ ٱلْبَرِّ وَٱلْبَحْرِ وَمَن يُرْسِلُ ٱلرِّيَـٰحَ بُشْرًۢا بَيْنَ يَدَىْ رَحْمَتِهِۦٓ ۗ أَءِلَـٰهٌ مَّعَ ٱللَّهِ ۚ تَعَـٰلَى ٱللَّهُ عَمَّا يُشْرِكُونَ"
 translation: "Or who guides you through the darknesses of the land and the sea, and who sends the winds as glad tidings before His mercy? Is there any god alongside Allah? Exalted is Allah above whatever they associate with Him."
 word_count: 22
 estimated_duration: "50-58 minutes"

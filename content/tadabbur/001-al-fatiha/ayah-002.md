@@ -4,7 +4,7 @@ surah_name: "Al-Fatiha"
 ayah_start: 2
 ayah_end: 2
 title: "The Declaration — Praise That Exists Whether You Say It or Not"
-arabic: "ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ"
+arabic: "ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ"
 translation: "All praise is to Allah, Lord of the worlds"
 word_count: 4
 estimated_duration: "48-55 minutes"

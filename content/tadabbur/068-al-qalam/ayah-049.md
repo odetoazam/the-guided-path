@@ -6,7 +6,7 @@ ayah_end: 49
 title: "The Favor That Changed the Landing, Not the Shore"
 slug: "068-049"
 category: tadabbur
-arabic: "لَّوْلَآ أَن تَدَٰرَكَهُۥ نِعْمَةٌ مِّن رَّبِّهِۦ لَنُبِذَ بِٱلْعَرَآءِ وَهُوَ مَذْمُومٌ"
+arabic: "لَّوْلَآ أَن تَدَٰرَكَهُۥ نِعْمَةٌ مِّن رَّبِّهِۦ لَنُبِذَ بِٱلْعَرَآءِ وَهُوَ مَذْمُومٌ"
 translation: "Had not a favor from his Lord reached him, he would surely have been cast onto the bare open shore, disgraced."
 word_count: 10
 estimated_duration: "50-58 minutes"

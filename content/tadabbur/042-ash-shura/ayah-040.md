@@ -6,7 +6,7 @@ ayah_end: 40
 title: "Why Allah Calls Your Justice 'Evil' — And Who Pays You When You Let It Go"
 slug: "042-040"
 category: tadabbur
-arabic: "وَجَزَٰٓؤُاْ سَيِّئَةٖ سَيِّئَةٞ مِّثْلُهَاۖ فَمَنْ عَفَا وَأَصْلَحَ فَأَجْرُهُۥ عَلَى ٱللَّهِۚ إِنَّهُۥ لَا يُحِبُّ ٱلظَّٰلِمِينَ"
+arabic: "وَجَزَٰٓؤُا۟ سَيِّئَةٍ سَيِّئَةٌ مِّثْلُهَا ۖ فَمَنْ عَفَا وَأَصْلَحَ فَأَجْرُهُۥ عَلَى ٱللَّهِ ۚ إِنَّهُۥ لَا يُحِبُّ ٱلظَّـٰلِمِينَ"
 translation: "And the recompense of an evil is an evil like it. But whoever pardons and makes reconciliation, his reward is upon Allah. Indeed, He does not love the wrongdoers."
 word_count: 14
 estimated_duration: "50-58 minutes"

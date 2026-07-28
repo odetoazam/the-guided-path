@@ -6,7 +6,7 @@ ayah_end: 2
 title: "Sent Down, Not Dropped: The Book's Certificate of Origin"
 slug: "046-002"
 category: tadabbur
-arabic: "تَنزِيلُ ٱلْكِتَـٰبِ مِنَ ٱللَّهِ ٱلْعَزِيزِ ٱلْحَكِيمِ"
+arabic: "تَنزِيلُ ٱلْكِتَـٰبِ مِنَ ٱللَّهِ ٱلْعَزِيزِ ٱلْحَكِيمِ"
 translation: "The sending down of the Book is from Allah, the All-Mighty, the All-Wise."
 word_count: 6600
 estimated_duration: "50-56 minutes"

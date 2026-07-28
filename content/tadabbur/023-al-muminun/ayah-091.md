@@ -6,7 +6,7 @@ ayah_end: 91
 title: "The Architecture of Unity — Why One Cosmos Requires One Lord"
 slug: "023-091"
 category: tadabbur
-arabic: "مَا اتَّخَذَ ٱللَّهُ مِن وَلَدٍۢ وَمَا كَانَ مَعَهُۥ مِنْ إِلَـٰهٍ ۚ إِذًۭا لَّذَهَبَ كُلُّ إِلَـٰهٍۭ بِمَا خَلَقَ وَلَعَلَا بَعْضُهُمْ عَلَىٰ بَعْضٍۢ ۚ سُبْحَـٰنَ ٱللَّهِ عَمَّا يَصِفُونَ"
+arabic: "مَا ٱتَّخَذَ ٱللَّهُ مِن وَلَدٍ وَمَا كَانَ مَعَهُۥ مِنْ إِلَـٰهٍ ۚ إِذًا لَّذَهَبَ كُلُّ إِلَـٰهٍۭ بِمَا خَلَقَ وَلَعَلَا بَعْضُهُمْ عَلَىٰ بَعْضٍ ۚ سُبْحَـٰنَ ٱللَّهِ عَمَّا يَصِفُونَ"
 translation: "Allah has not taken any son, nor has there ever been with Him any deity. Had there been, each deity would have taken away what it created, and some of them would have risen over others. Exalted is Allah above what they describe."
 word_count: 23
 estimated_duration: "50-58 minutes"

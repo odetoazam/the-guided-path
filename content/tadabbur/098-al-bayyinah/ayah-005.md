@@ -6,7 +6,7 @@ ayah_end: 5
 title: "They Were Never Commanded Anything But This: Purity, Uprightness, and the Religion That Stands"
 slug: "098-005"
 category: tadabbur
-arabic: "وَمَآ أُمِرُوٓاْ إِلَّا لِيَعْبُدُواْ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ حُنَفَآءَ وَيُقِيمُواْ ٱلصَّلَوٰةَ وَيُؤْتُواْ ٱلزَّكَوٰةَ ۚ وَذَٰلِكَ دِينُ ٱلْقَيِّمَةِ"
+arabic: "وَمَآ أُمِرُوٓا۟ إِلَّا لِيَعْبُدُوا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ حُنَفَآءَ وَيُقِيمُوا۟ ٱلصَّلَوٰةَ وَيُؤْتُوا۟ ٱلزَّكَوٰةَ ۚ وَذَٰلِكَ دِينُ ٱلْقَيِّمَةِ"
 translation: "And they were not commanded except to worship Allah, making the religion purely His, inclining toward truth, and to establish the prayer and give the zakah. And that is the religion of uprightness."
 word_count: 16
 estimated_duration: "50-58 minutes"

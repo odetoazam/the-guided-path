@@ -6,7 +6,7 @@ ayah_end: 23
 title: "The Doubled Name and the Gentle Descent: Why Allah Stayed With Every Verse"
 slug: "076-023"
 category: tadabbur
-arabic: "إِنَّا نَحْنُ نَزَّلْنَا عَلَيْكَ ٱلْقُرْءَانَ تَنزِيلًا"
+arabic: "إِنَّا نَحْنُ نَزَّلْنَا عَلَيْكَ ٱلْقُرْءَانَ تَنزِيلًا"
 translation: "Indeed, it is We who have sent down to you the Quran, a gradual sending down."
 word_count: 6
 estimated_duration: "50-58 minutes"

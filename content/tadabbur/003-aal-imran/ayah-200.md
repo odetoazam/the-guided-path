@@ -6,7 +6,7 @@ ayah_end: 200
 title: "The Final Marching Order of Aal-Imran"
 slug: "003-200"
 category: tadabbur
-arabic: "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱصْبِرُوا۟ وَصَابِرُوا۟ وَرَابِطُوا۟ وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تُفْلِحُونَ"
+arabic: "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱصْبِرُوا۟ وَصَابِرُوا۟ وَرَابِطُوا۟ وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تُفْلِحُونَ"
 translation: "O you who believe, be steadfast, outlast others in steadfastness, remain stationed, and be conscious of Allah, so that you may succeed."
 word_count: null
 estimated_duration: "45-55 minutes"

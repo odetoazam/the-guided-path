@@ -6,7 +6,7 @@ ayah_end: 2
 title: "The Evil of What He Created: Sheltering with the Maker from the Made"
 slug: "113-002"
 category: tadabbur
-arabic: "مِن شَرِّ مَا خَلَقَ"
+arabic: "مِن شَرِّ مَا خَلَقَ"
 translation: "From the evil of what He created."
 word_count: 4
 estimated_duration: "48-56 minutes"

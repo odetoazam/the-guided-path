@@ -6,7 +6,7 @@ ayah_end: 51
 title: "The Warner Allah Did Not Send: A Mercy Hidden in Restraint"
 slug: "025-051"
 category: tadabbur
-arabic: "وَلَوْ شِئْنَا لَبَعَثْنَا فِى كُلِّ قَرْيَةٍ نَّذِيرًا"
+arabic: "وَلَوْ شِئْنَا لَبَعَثْنَا فِى كُلِّ قَرْيَةٍ نَّذِيرًا"
 translation: "And had We willed, We could have raised up in every town a warner."
 word_count: 7
 estimated_duration: "48-55 minutes"

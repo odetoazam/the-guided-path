@@ -6,7 +6,7 @@ ayah_end: 77
 title: "From Body to World: The Four-Fold Command and the Particle of Perhaps"
 slug: "022-077"
 category: tadabbur
-arabic: "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱرْكَعُوا۟ وَٱسْجُدُوا۟ وَٱعْبُدُوا۟ رَبَّكُمْ وَٱفْعَلُوا۟ ٱلْخَيْرَ لَعَلَّكُمْ تُفْلِحُونَ"
+arabic: "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱرْكَعُوا۟ وَٱسْجُدُوا۟ وَٱعْبُدُوا۟ رَبَّكُمْ وَٱفْعَلُوا۟ ٱلْخَيْرَ لَعَلَّكُمْ تُفْلِحُونَ ۩"
 translation: "O you who have believed — bow, and prostrate, and worship your Lord, and do good — so that perhaps you may succeed."
 word_count: 18
 estimated_duration: "48-55 minutes"

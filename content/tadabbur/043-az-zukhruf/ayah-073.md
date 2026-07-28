@@ -6,7 +6,7 @@ ayah_end: 73
 title: "The Fruit That Never Runs Out: On Desire, Delight, and the Grammar of Divine Generosity"
 slug: "043-073"
 category: tadabbur
-arabic: "لَكُمْ فِيهَا فَـٰكِهَةٌ كَثِيرَةٌ مِّنْهَا تَأْكُلُونَ"
+arabic: "لَكُمْ فِيهَا فَـٰكِهَةٌ كَثِيرَةٌ مِّنْهَا تَأْكُلُونَ"
 translation: "For you therein are abundant fruits, from which you will eat."
 word_count: 7050
 estimated_duration: "52-60 minutes"

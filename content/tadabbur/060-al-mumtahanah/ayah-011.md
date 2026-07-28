@@ -6,7 +6,7 @@ ayah_end: 11
 title: "When What You Cannot Hold Slips Away: Loss, the Turning Wheel, and the Community That Absorbs the Wound"
 slug: "060-011"
 category: tadabbur
-arabic: "وَإِن فَاتَكُمْ شَىْءٌ مِّنْ أَزْوَٰجِكُمْ إِلَى ٱلْكُفَّارِ فَعَاقَبْتُمْ فَـَٔاتُوا۟ ٱلَّذِينَ ذَهَبَتْ أَزْوَٰجُهُم مِّثْلَ مَآ أَنفَقُوا۟ ۚ وَٱتَّقُوا۟ ٱللَّهَ ٱلَّذِىٓ أَنتُم بِهِۦ مُؤْمِنُونَ"
+arabic: "وَإِن فَاتَكُمْ شَىْءٌ مِّنْ أَزْوَٰجِكُمْ إِلَى ٱلْكُفَّارِ فَعَاقَبْتُمْ فَـَٔاتُوا۟ ٱلَّذِينَ ذَهَبَتْ أَزْوَٰجُهُم مِّثْلَ مَآ أَنفَقُوا۟ ۚ وَٱتَّقُوا۟ ٱللَّهَ ٱلَّذِىٓ أَنتُم بِهِۦ مُؤْمِنُونَ"
 translation: "And if any of your wives have slipped away from you to the disbelievers, and then your turn comes, give to those whose wives have gone the like of what they had spent. And be mindful of Allah, the One in whom you are believers."
 word_count: 5600
 estimated_duration: "50-58 minutes"

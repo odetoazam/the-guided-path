@@ -6,7 +6,7 @@ ayah_end: 25
 title: "Water Then Fire: When the Helpers You Built Cannot Be Found"
 slug: "071-025"
 category: tadabbur
-arabic: "مِّمَّا خَطِيٓـَٰٔتِهِمْ أُغْرِقُوا۟ فَأُدْخِلُوا۟ نَارًا فَلَمْ يَجِدُوا۟ لَهُم مِّن دُونِ ٱللَّهِ أَنصَارًا"
+arabic: "مِّمَّا خَطِيٓـَٔـٰتِهِمْ أُغْرِقُوا۟ فَأُدْخِلُوا۟ نَارًا فَلَمْ يَجِدُوا۟ لَهُم مِّن دُونِ ٱللَّهِ أَنصَارًا"
 translation: "Because of their sins they were drowned and made to enter a Fire, and they found for themselves, besides Allah, no helpers at all."
 word_count: 12
 estimated_duration: "50-58 minutes"

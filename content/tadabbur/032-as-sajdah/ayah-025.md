@@ -6,7 +6,7 @@ ayah_end: 25
 title: "The Scheduled Resolution: On Divine Judgment and the End of All Disagreement"
 slug: "032-025"
 category: tadabbur
-arabic: "إِنَّ رَبَّكَ هُوَ يَفْصِلُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ"
+arabic: "إِنَّ رَبَّكَ هُوَ يَفْصِلُ بَيْنَهُمْ يَوْمَ ٱلْقِيَـٰمَةِ فِيمَا كَانُوا۟ فِيهِ يَخْتَلِفُونَ"
 translation: "Indeed, your Lord is He who will judge between them on the Day of Resurrection concerning that over which they used to differ."
 word_count: 5600
 estimated_duration: "50-58 minutes"

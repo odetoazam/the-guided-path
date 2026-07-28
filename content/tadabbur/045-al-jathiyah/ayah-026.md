@@ -6,7 +6,7 @@ ayah_end: 26
 title: "The Proof Is in the Present Tense: Life, Death, and the Day You Cannot Doubt"
 slug: "045-026"
 category: tadabbur
-arabic: "قُلِ ٱللَّهُ يُحْيِيكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ يَجْمَعُكُمْ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ لَا رَيْبَ فِيهِ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ"
+arabic: "قُلِ ٱللَّهُ يُحْيِيكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ يَجْمَعُكُمْ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ لَا رَيْبَ فِيهِ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ"
 translation: "Say: Allah gives you life, then causes you to die, then He gathers you to the Day of Resurrection — there is no doubt about it. But most of the people do not know."
 word_count: 18
 estimated_duration: "50-58 minutes"

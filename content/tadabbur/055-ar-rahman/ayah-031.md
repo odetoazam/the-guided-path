@@ -6,7 +6,7 @@ ayah_end: 31
 title: "We Will Free Ourselves For You: The Undivided Attention of the One Who Is Never Occupied"
 slug: "055-031"
 category: tadabbur
-arabic: "سَنَفْرُغُ لَكُمْ أَيُّهَ ٱلثَّقَلَانِ"
+arabic: "سَنَفْرُغُ لَكُمْ أَيُّهَ ٱلثَّقَلَانِ"
 translation: "Soon We shall turn Our full attention to you, O you two weighty ones — mankind and jinn."
 word_count: 4
 estimated_duration: "50-58 minutes"

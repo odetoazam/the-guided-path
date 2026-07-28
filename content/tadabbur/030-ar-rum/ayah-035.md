@@ -6,7 +6,7 @@ ayah_end: 35
 title: "The Authority That Was Never Sent: On the Silence of False Gods"
 slug: "030-035"
 category: tadabbur
-arabic: "أَمْ أَنزَلْنَا عَلَيْهِمْ سُلْطَانًا فَهُوَ يَتَكَلَّمُ بِمَا كَانُوا بِهِ يُشْرِكُونَ"
+arabic: "أَمْ أَنزَلْنَا عَلَيْهِمْ سُلْطَـٰنًا فَهُوَ يَتَكَلَّمُ بِمَا كَانُوا۟ بِهِۦ يُشْرِكُونَ"
 translation: "Or have We sent down upon them an authority that speaks of what they associate with Him?"
 word_count: 9
 estimated_duration: "48-55 minutes"

@@ -6,7 +6,7 @@ ayah_end: 46
 title: "Why Hasten the Bad Before the Good? Salih's Question to a People Demanding Their Own Ruin"
 slug: "027-046"
 category: tadabbur
-arabic: "قَالَ يَـٰقَوْمِ لِمَ تَسْتَعْجِلُونَ بِٱلسَّيِّئَةِ قَبْلَ ٱلْحَسَنَةِ ۖ لَوْلَا تَسْتَغْفِرُونَ ٱللَّهَ لَعَلَّكُمْ تُرْحَمُونَ"
+arabic: "قَالَ يَـٰقَوْمِ لِمَ تَسْتَعْجِلُونَ بِٱلسَّيِّئَةِ قَبْلَ ٱلْحَسَنَةِ ۖ لَوْلَا تَسْتَغْفِرُونَ ٱللَّهَ لَعَلَّكُمْ تُرْحَمُونَ"
 translation: "He said: 'My people, why do you seek to hasten the evil before the good? If only you would seek forgiveness from Allah, that you might be shown mercy.'"
 word_count: 14
 estimated_duration: "48-55 minutes"

@@ -6,7 +6,7 @@ ayah_end: 28
 title: "The Prophecy of a Water Schedule: When the Divine Test Arrives as a Timetable"
 slug: "054-028"
 category: tadabbur
-arabic: "وَنَبِّئْهُمْ أَنَّ ٱلْمَآءَ قِسْمَةٌۢ بَيْنَهُمْ ۖ كُلُّ شِرْبٍ مُّحْتَضَرٌ"
+arabic: "وَنَبِّئْهُمْ أَنَّ ٱلْمَآءَ قِسْمَةٌۢ بَيْنَهُمْ ۖ كُلُّ شِرْبٍ مُّحْتَضَرٌ"
 translation: "And inform them that the water is to be divided between them — each drinking turn attended."
 word_count: 6100
 estimated_duration: "48-55 minutes"

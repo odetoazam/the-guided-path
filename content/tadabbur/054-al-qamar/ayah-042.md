@@ -6,7 +6,7 @@ ayah_end: 42
 title: "The Seizure Without a Weapon: When Power Needs No Instrument"
 slug: "054-042"
 category: tadabbur
-arabic: "كَذَّبُوا۟ بِـَٔايَـٰتِنَا كُلِّهَا فَأَخَذْنَـٰهُمْ أَخْذَ عَزِيزٍ مُّقْتَدِرٍ"
+arabic: "كَذَّبُوا۟ بِـَٔايَـٰتِنَا كُلِّهَا فَأَخَذْنَـٰهُمْ أَخْذَ عَزِيزٍ مُّقْتَدِرٍ"
 translation: "They denied Our signs — all of them — so We seized them with the seizure of One All-Mighty, All-Capable."
 word_count: 6400
 estimated_duration: "50-58 minutes"

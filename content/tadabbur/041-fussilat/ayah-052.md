@@ -6,7 +6,7 @@ ayah_end: 52
 title: "The Hypothetical You Refuse to Run: 'If It Is From Allah…'"
 slug: "041-052"
 category: tadabbur
-arabic: "قُلْ أَرَءَيْتُمْ إِن كَانَ مِنْ عِندِ ٱللَّهِ ثُمَّ كَفَرْتُم بِهِۦ مَنْ أَضَلُّ مِمَّنْ هُوَ فِى شِقَاقِۭ بَعِيدٍ"
+arabic: "قُلْ أَرَءَيْتُمْ إِن كَانَ مِنْ عِندِ ٱللَّهِ ثُمَّ كَفَرْتُم بِهِۦ مَنْ أَضَلُّ مِمَّنْ هُوَ فِى شِقَاقٍۭ بَعِيدٍ"
 translation: "Say, 'Have you considered — if it is from Allah, and then you rejected it — who is more astray than one who is in a schism, far gone?'"
 word_count: 17
 estimated_duration: "50-58 minutes"

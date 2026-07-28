@@ -6,7 +6,7 @@ ayah_end: 18
 title: "The Answer Written in Ruins"
 slug: "067-018"
 category: tadabbur
-arabic: "وَلَقَدْ كَذَّبَ ٱلَّذِينَ مِن قَبْلِهِمْ فَكَيْفَ كَانَ نَكِيرِ"
+arabic: "وَلَقَدْ كَذَّبَ ٱلَّذِينَ مِن قَبْلِهِمْ فَكَيْفَ كَانَ نَكِيرِ"
 translation: "And indeed, those before them denied — and how [terrible] was My rejection."
 word_count: 5100
 estimated_duration: "46-54 minutes"

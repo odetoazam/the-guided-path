@@ -6,7 +6,7 @@ ayah_end: 50
 title: "Flee to the One You Fear: The Paradox of the Only Refuge"
 slug: "051-050"
 category: tadabbur
-arabic: "فَفِرُّوٓاْ إِلَى ٱللَّهِ ۖ إِنِّى لَكُم مِّنْهُ نَذِيرٌ مُّبِينٌ"
+arabic: "فَفِرُّوٓا۟ إِلَى ٱللَّهِ ۖ إِنِّى لَكُم مِّنْهُ نَذِيرٌ مُّبِينٌ"
 translation: "So flee to Allah. Indeed, I am to you from Him a clear warner."
 word_count: 8
 estimated_duration: "50-58 minutes"

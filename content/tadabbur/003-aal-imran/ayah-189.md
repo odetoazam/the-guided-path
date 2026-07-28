@@ -6,7 +6,7 @@ ayah_end: 189
 title: "The Kingdom Was Never Theirs to Control"
 slug: "003-189"
 category: tadabbur
-arabic: "وَلِلَّهِ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۗ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ"
+arabic: "وَلِلَّهِ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۗ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ"
 translation: "To Allah belongs the dominion of the heavens and the earth, and Allah is over all things fully able."
 word_count: null
 estimated_duration: "45-55 minutes"

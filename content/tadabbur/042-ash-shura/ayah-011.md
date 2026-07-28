@@ -4,7 +4,7 @@ surah_name: "Ash-Shura"
 ayah_start: 11
 ayah_end: 11
 title: "Nothing Like His Likeness — The Six Words That Broke Every Comparison"
-arabic: "فَاطِرُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ جَعَلَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًا وَمِنَ ٱلْأَنْعَـٰمِ أَزْوَٰجًا ۖ يَذْرَؤُكُمْ فِيهِ ۚ لَيْسَ كَمِثْلِهِۦ شَىْءٌ ۖ وَهُوَ ٱلسَّمِيعُ ٱلْبَصِيرُ"
+arabic: "فَاطِرُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ جَعَلَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًا وَمِنَ ٱلْأَنْعَـٰمِ أَزْوَٰجًا ۖ يَذْرَؤُكُمْ فِيهِ ۚ لَيْسَ كَمِثْلِهِۦ شَىْءٌ ۖ وَهُوَ ٱلسَّمِيعُ ٱلْبَصِيرُ"
 translation: "[He is] Originator of the heavens and the earth. He has made for you from yourselves mates, and among the cattle, mates; He multiplies you thereby. There is nothing like His likeness, and He is the Hearing, the Seeing."
 word_count: 210
 estimated_duration: "48-58 minutes"

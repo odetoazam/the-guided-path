@@ -6,7 +6,7 @@ ayah_end: 16
 title: "If You Only Knew: Ibrahim's Invitation and the Gap Between Knowing and Choosing"
 slug: "029-016"
 category: tadabbur
-arabic: "وَإِبْرَاهِيمَ إِذْ قَالَ لِقَوْمِهِ اعْبُدُوا اللَّهَ وَاتَّقُوهُ ۖ ذَٰلِكُمْ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ"
+arabic: "وَإِبْرَٰهِيمَ إِذْ قَالَ لِقَوْمِهِ ٱعْبُدُوا۟ ٱللَّهَ وَٱتَّقُوهُ ۖ ذَٰلِكُمْ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ"
 translation: "And [We sent] Abraham when he said to his people: 'Worship Allah and have taqwa of Him. That is better for you — if you only knew.'"
 word_count: 3850
 estimated_duration: "50-56 minutes"

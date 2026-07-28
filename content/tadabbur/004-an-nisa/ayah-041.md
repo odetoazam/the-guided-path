@@ -6,7 +6,7 @@ ayah_end: 41
 title: "The Question He Refused to Finish: Standing as the Witnessed on the Day of Witnesses"
 slug: "004-041"
 category: tadabbur
-arabic: "فَكَيْفَ إِذَا جِئْنَا مِن كُلِّ أُمَّةٍۭ بِشَهِيدٍۢ وَجِئْنَا بِكَ عَلَىٰ هَـٰٓؤُلَآءِ شَهِيدًۭا"
+arabic: "فَكَيْفَ إِذَا جِئْنَا مِن كُلِّ أُمَّةٍۭ بِشَهِيدٍ وَجِئْنَا بِكَ عَلَىٰ هَـٰٓؤُلَآءِ شَهِيدًا"
 translation: "So how [will it be] when We bring from every nation a witness and bring you, [O Muhammad], against these [people] as a witness?"
 word_count: 12
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 2
 title: "The Door No Hand Can Close: Mercy That Allah Opens"
 slug: "035-002"
 category: tadabbur
-arabic: "مَّا يَفْتَحِ ٱللَّهُ لِلنَّاسِ مِن رَّحْمَةٍ فَلَا مُمْسِكَ لَهَا ۖ وَمَا يُمْسِكْ فَلَا مُرْسِلَ لَهُۥ مِنۢ بَعْدِهِۦ ۚ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ"
+arabic: "مَّا يَفْتَحِ ٱللَّهُ لِلنَّاسِ مِن رَّحْمَةٍ فَلَا مُمْسِكَ لَهَا ۖ وَمَا يُمْسِكْ فَلَا مُرْسِلَ لَهُۥ مِنۢ بَعْدِهِۦ ۚ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ"
 translation: "Whatever mercy Allah opens for people, none can withhold it; and whatever He withholds, none can release it after Him. And He is the Almighty, the All-Wise."
 word_count: 6600
 estimated_duration: "50-58 minutes"

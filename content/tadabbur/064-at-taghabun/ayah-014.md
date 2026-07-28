@@ -6,7 +6,7 @@ ayah_end: 14
 title: "The Enemy Who Loves You: When Nearness Becomes the Test"
 slug: "064-014"
 category: tadabbur
-arabic: "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِنَّ مِنْ أَزْوَٰجِكُمْ وَأَوْلَـٰدِكُمْ عَدُوًّا لَّكُمْ فَٱحْذَرُوهُمْ ۚ وَإِن تَعْفُواْ وَتَصْفَحُواْ وَتَغْفِرُواْ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ"
+arabic: "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّ مِنْ أَزْوَٰجِكُمْ وَأَوْلَـٰدِكُمْ عَدُوًّا لَّكُمْ فَٱحْذَرُوهُمْ ۚ وَإِن تَعْفُوا۟ وَتَصْفَحُوا۟ وَتَغْفِرُوا۟ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ"
 translation: "O you who believe! Indeed, from among your spouses and your children there is an enemy to you, so beware of them. But if you pardon and overlook and forgive, then indeed Allah is Oft-Forgiving, Most Merciful."
 word_count: 18
 estimated_duration: "48-59 minutes"

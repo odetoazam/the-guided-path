@@ -6,7 +6,7 @@ ayah_end: 2
 title: "He Knows What Penetrates — and He Names Himself Merciful"
 slug: "034-002"
 category: tadabbur
-arabic: "يَعْلَمُ مَا يَلِجُ فِى ٱلْأَرْضِ وَمَا يَخْرُجُ مِنْهَا وَمَا يَنزِلُ مِنَ ٱلسَّمَآءِ وَمَا يَعْرُجُ فِيهَاۚ وَهُوَ ٱلرَّحِيمُ ٱلْغَفُورُ"
+arabic: "يَعْلَمُ مَا يَلِجُ فِى ٱلْأَرْضِ وَمَا يَخْرُجُ مِنْهَا وَمَا يَنزِلُ مِنَ ٱلسَّمَآءِ وَمَا يَعْرُجُ فِيهَا ۚ وَهُوَ ٱلرَّحِيمُ ٱلْغَفُورُ"
 translation: "He knows what penetrates into the earth and what comes out from it, and what descends from the heaven and what ascends therein. And He is the Most Merciful, the Oft-Forgiving."
 word_count: 18
 estimated_duration: "50-55 minutes"

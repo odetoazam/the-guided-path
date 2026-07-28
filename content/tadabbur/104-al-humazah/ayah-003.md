@@ -6,7 +6,7 @@ ayah_end: 3
 title: "The Man Who Did His Math: Wealth as the Silent Bet Against Death"
 slug: "104-003"
 category: tadabbur
-arabic: "يَحْسَبُ أَنَّ مَالَهُۥٓ أَخْلَدَهُۥ"
+arabic: "يَحْسَبُ أَنَّ مَالَهُۥٓ أَخْلَدَهُۥ"
 translation: "He thinks that his wealth has made him immortal."
 word_count: 4
 estimated_duration: "48-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 6
 title: "Not One Town Believed: The Hidden Dishonesty of the Demand for a Sign"
 slug: "021-006"
 category: tadabbur
-arabic: "مَا آمَنَتْ قَبْلَهُم مِّن قَرْيَةٍ أَهْلَكْنَاهَا ۖ أَفَهُمْ يُؤْمِنُونَ"
+arabic: "مَآ ءَامَنَتْ قَبْلَهُم مِّن قَرْيَةٍ أَهْلَكْنَـٰهَآ ۖ أَفَهُمْ يُؤْمِنُونَ"
 translation: "Not a single town that We destroyed before them ever believed. So — they are the ones who will believe?"
 word_count: 8
 estimated_duration: "50-58 minutes"

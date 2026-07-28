@@ -6,7 +6,7 @@ ayah_end: 28
 title: "Which One Would You Pick? — The Question That Cannot Be Answered"
 slug: "055-028"
 category: tadabbur
-arabic: "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+arabic: "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
 translation: "So which of the favors of your Lord will you both deny?"
 word_count: 6100
 estimated_duration: "50-58 minutes"

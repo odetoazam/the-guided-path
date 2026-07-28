@@ -6,7 +6,7 @@ ayah_end: 12
 title: "Owner of the Stakes: What We Drive Into the Ground to Feel Safe"
 slug: "038-012"
 category: tadabbur
-arabic: "كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ وَعَادٌ وَفِرْعَوْنُ ذُو ٱلْأَوْتَادِ"
+arabic: "كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ وَعَادٌ وَفِرْعَوْنُ ذُو ٱلْأَوْتَادِ"
 translation: "Before them, the people of Nuh denied, and 'Aad, and Pharaoh — owner of the stakes."
 word_count: 8
 estimated_duration: "50-58 minutes"

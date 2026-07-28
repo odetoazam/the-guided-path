@@ -6,7 +6,7 @@ ayah_end: 6
 title: "What Deceived You: The Generosity You Turned Into an Alibi"
 slug: "082-006"
 category: tadabbur
-arabic: "يَـٰٓأَيُّهَا ٱلْإِنسَـٰنُ مَا غَرَّكَ بِرَبِّكَ ٱلْكَرِيمِ"
+arabic: "يَـٰٓأَيُّهَا ٱلْإِنسَـٰنُ مَا غَرَّكَ بِرَبِّكَ ٱلْكَرِيمِ"
 translation: "O man, what has deluded you concerning your Lord, the Most Generous?"
 word_count: 6
 estimated_duration: "50-58 minutes"

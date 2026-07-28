@@ -6,7 +6,7 @@ ayah_end: 23
 title: "The Companion You Never Chose: How 'This Is Ready' Reveals You Were Never Alone"
 slug: "050-023"
 category: tadabbur
-arabic: "وَقَالَ قَرِينُهُۥ هَٰذَا مَا لَدَىَّ عَتِيدٌ"
+arabic: "وَقَالَ قَرِينُهُۥ هَـٰذَا مَا لَدَىَّ عَتِيدٌ"
 translation: "And his companion [the assigned angel] will say, 'This is what I have, made ready.'"
 word_count: 7600
 estimated_duration: "50-58 minutes"

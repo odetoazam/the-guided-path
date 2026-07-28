@@ -6,7 +6,7 @@ ayah_end: 146
 title: "The Door Out of the Lowest Floor: Four Verbs That Reverse a Descent"
 slug: "004-146"
 category: tadabbur
-arabic: "إِلَّا ٱلَّذِينَ تَابُوا۟ وَأَصْلَحُوا۟ وَٱعْتَصَمُوا۟ بِٱللَّهِ وَأَخْلَصُوا۟ دِينَهُمْ لِلَّهِ فَأُو۟لَـٰٓئِكَ مَعَ ٱلْمُؤْمِنِينَ ۖ وَسَوْفَ يُؤْتِ ٱللَّهُ ٱلْمُؤْمِنِينَ أَجْرًا عَظِيمًا"
+arabic: "إِلَّا ٱلَّذِينَ تَابُوا۟ وَأَصْلَحُوا۟ وَٱعْتَصَمُوا۟ بِٱللَّهِ وَأَخْلَصُوا۟ دِينَهُمْ لِلَّهِ فَأُو۟لَـٰٓئِكَ مَعَ ٱلْمُؤْمِنِينَ ۖ وَسَوْفَ يُؤْتِ ٱللَّهُ ٱلْمُؤْمِنِينَ أَجْرًا عَظِيمًا"
 translation: "Except for those who repent, and set themselves right, and hold fast to Allah, and make their devotion purely for Allah — those are with the believers. And Allah is going to give the believers a great reward."
 word_count: 6900
 estimated_duration: "50-58 minutes"

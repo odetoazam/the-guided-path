@@ -6,7 +6,7 @@ ayah_end: 37
 title: "The Night the Eyes Were Erased: When Desire Consumes Perception"
 slug: "054-037"
 category: tadabbur
-arabic: "وَلَقَدْ رَٰوَدُوهُ عَن ضَيْفِهِۦ فَطَمَسْنَآ أَعْيُنَهُمْ فَذُوقُوا۟ عَذَابِى وَنُذُرِ"
+arabic: "وَلَقَدْ رَٰوَدُوهُ عَن ضَيْفِهِۦ فَطَمَسْنَآ أَعْيُنَهُمْ فَذُوقُوا۟ عَذَابِى وَنُذُرِ"
 translation: "And they had even tried to pry his guests away from him — so We erased their eyes. 'Taste, then, My punishment and My warnings.'"
 word_count: 4800
 estimated_duration: "48-55 minutes"

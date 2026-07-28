@@ -6,7 +6,7 @@ ayah_end: 43
 title: "Set Your Face Before the Day That Cannot Be Turned Back"
 slug: "030-043"
 category: tadabbur
-arabic: "فَأَقِمْ وَجْهَكَ لِلدِّينِ الْقَيِّمِ مِن قَبْلِ أَن يَأْتِيَ يَوْمٌ لَّا مَرَدَّ لَهُ مِنَ اللَّهِ ۖ يَوْمَئِذٍ يَصَّدَّعُونَ"
+arabic: "فَأَقِمْ وَجْهَكَ لِلدِّينِ ٱلْقَيِّمِ مِن قَبْلِ أَن يَأْتِىَ يَوْمٌ لَّا مَرَدَّ لَهُۥ مِنَ ٱللَّهِ ۖ يَوْمَئِذٍ يَصَّدَّعُونَ"
 translation: "So set your face firmly toward the upright way of life — before a Day comes that cannot be turned back from Allah. On that Day they will be split apart."
 word_count: 13
 estimated_duration: "50-58 minutes"

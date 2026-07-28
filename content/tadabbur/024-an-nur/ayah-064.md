@@ -6,7 +6,7 @@ ayah_end: 64
 title: "The Seal of Light: He Already Knows What You Are Upon"
 slug: "024-064"
 category: tadabbur
-arabic: "أَلَا إِنَّ لِلَّهِ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ ۖ قَدْ يَعْلَمُ مَا أَنتُمْ عَلَيْهِ وَيَوْمَ يُرْجَعُونَ إِلَيْهِ فَيُنَبِّئُهُم بِمَا عَمِلُوا ۗ وَاللَّهُ بِكُلِّ شَيْءٍ عَلِيمٌ"
+arabic: "أَلَآ إِنَّ لِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ قَدْ يَعْلَمُ مَآ أَنتُمْ عَلَيْهِ وَيَوْمَ يُرْجَعُونَ إِلَيْهِ فَيُنَبِّئُهُم بِمَا عَمِلُوا۟ ۗ وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌۢ"
 translation: "Unquestionably — to Allah belongs whatever is in the heavens and the earth. He already knows what you are upon. And the Day they are returned to Him, He will inform them of what they did. And Allah, of all things, is Knowing."
 word_count: 22
 estimated_duration: "48-55 minutes"

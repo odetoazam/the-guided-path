@@ -6,7 +6,7 @@ ayah_end: 12
 title: "When the Hour Stands and the Criminals Go Silent: The State of Iblīs"
 slug: "030-012"
 category: tadabbur
-arabic: "وَيَوْمَ تَقُومُ ٱلسَّاعَةُ يُبْلِسُ ٱلْمُجْرِمُونَ"
+arabic: "وَيَوْمَ تَقُومُ ٱلسَّاعَةُ يُبْلِسُ ٱلْمُجْرِمُونَ"
 translation: "And the Day the Hour stands, the criminals will be struck into a silence of despair."
 word_count: 6
 estimated_duration: "48-58 minutes"

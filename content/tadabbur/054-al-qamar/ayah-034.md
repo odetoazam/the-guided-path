@@ -6,7 +6,7 @@ ayah_end: 34
 title: "Sent Stones, Personal Rescue: The Grammar of Deliverance Before Dawn"
 slug: "054-034"
 category: tadabbur
-arabic: "إِنَّآ أَرْسَلْنَا عَلَيْهِمْ حَاصِبًا إِلَّآ ءَالَ لُوطٍ ۖ نَّجَّيْنَٰهُم بِسَحَرٍ"
+arabic: "إِنَّآ أَرْسَلْنَا عَلَيْهِمْ حَاصِبًا إِلَّآ ءَالَ لُوطٍ ۖ نَّجَّيْنَـٰهُم بِسَحَرٍ"
 translation: "Indeed, We sent upon them a storm of pelting stones — except the family of Lut. We saved them in the last hour of the night."
 word_count: 4900
 estimated_duration: "50-58 minutes"

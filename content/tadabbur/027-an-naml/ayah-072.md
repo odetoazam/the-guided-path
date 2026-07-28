@@ -6,7 +6,7 @@ ayah_end: 72
 title: "The Thing Already Riding Your Heels"
 slug: "027-072"
 category: tadabbur
-arabic: "قُلْ عَسَىٰٓ أَن يَكُونَ رَدِفَ لَكُم بَعْضُ ٱلَّذِى تَسْتَعْجِلُونَ"
+arabic: "قُلْ عَسَىٰٓ أَن يَكُونَ رَدِفَ لَكُم بَعْضُ ٱلَّذِى تَسْتَعْجِلُونَ"
 translation: "Say, 'Perhaps some of what you are seeking to hasten has already drawn up close behind you.'"
 word_count: 9
 estimated_duration: "48-55 minutes"

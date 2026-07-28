@@ -6,7 +6,7 @@ ayah_end: 33
 title: "The God Who Does Not Tire: Resurrection and the Inner 'Yes'"
 slug: "046-033"
 category: tadabbur
-arabic: "أَوَلَمْ يَرَوْاْ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ وَلَمْ يَعْىَ بِخَلْقِهِنَّ بِقَـٰدِرٍ عَلَىٰٓ أَن يُحْـِۧىَ ٱلْمَوْتَىٰ ۚ بَلَىٰٓ إِنَّهُۥ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ"
+arabic: "أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ وَلَمْ يَعْىَ بِخَلْقِهِنَّ بِقَـٰدِرٍ عَلَىٰٓ أَن يُحْـِۧىَ ٱلْمَوْتَىٰ ۚ بَلَىٰٓ إِنَّهُۥ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ"
 translation: "Do they not see that Allah — the One who created the heavens and the earth and was not wearied by their creation — is able to give life to the dead? Yes, indeed! He is over all things All-Powerful."
 word_count: 22
 estimated_duration: "50-58 minutes"

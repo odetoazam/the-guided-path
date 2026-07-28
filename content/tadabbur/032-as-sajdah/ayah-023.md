@@ -6,7 +6,7 @@ ayah_end: 23
 title: "The Meeting Whose Owner Is Unnamed: When Allah Comforts His Messenger by Pointing to Musa"
 slug: "032-023"
 category: tadabbur
-arabic: "وَلَقَدْ آتَيْنَا مُوسَى الْكِتَابَ فَلَا تَكُن فِي مِرْيَةٍ مِّن لِّقَائِهِ ۖ وَجَعَلْنَاهُ هُدًى لِّبَنِي إِسْرَائِيلَ"
+arabic: "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ فَلَا تَكُن فِى مِرْيَةٍ مِّن لِّقَآئِهِۦ ۖ وَجَعَلْنَـٰهُ هُدًى لِّبَنِىٓ إِسْرَٰٓءِيلَ"
 translation: "And We had certainly given Musa the Scripture, so do not be in doubt about his meeting — and We made it a guidance for the Children of Israel."
 word_count: 6800
 estimated_duration: "50-58 minutes"

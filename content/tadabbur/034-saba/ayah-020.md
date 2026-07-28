@@ -6,7 +6,7 @@ ayah_end: 20
 title: "The Assumption That Required Our Help"
 slug: "034-020"
 category: tadabbur
-arabic: "وَلَقَدْ صَدَّقَ عَلَيْهِمْ إِبْلِيسُ ظَنَّهُۥ فَٱتَّبَعُوهُ إِلَّا فَرِيقًا مِّنَ ٱلْمُؤْمِنِينَ"
+arabic: "وَلَقَدْ صَدَّقَ عَلَيْهِمْ إِبْلِيسُ ظَنَّهُۥ فَٱتَّبَعُوهُ إِلَّا فَرِيقًا مِّنَ ٱلْمُؤْمِنِينَ"
 translation: "And certainly Iblis found his assumption about them true — so they followed him — except a group from the believers."
 word_count: 9
 estimated_duration: "50-56 minutes"

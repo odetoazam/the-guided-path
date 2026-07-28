@@ -6,7 +6,7 @@ ayah_end: 12
 title: "When You Turn Away: The Conveyance, the Burden, and the One Allah Calls 'Ours'"
 slug: "064-012"
 category: tadabbur
-arabic: "وَأَطِيعُوا۟ ٱللَّهَ وَأَطِيعُوا۟ ٱلرَّسُولَ ۚ فَإِن تَوَلَّيْتُمْ فَإِنَّمَا عَلَىٰ رَسُولِنَا ٱلْبَلَـٰغُ ٱلْمُبِينُ"
+arabic: "وَأَطِيعُوا۟ ٱللَّهَ وَأَطِيعُوا۟ ٱلرَّسُولَ ۚ فَإِن تَوَلَّيْتُمْ فَإِنَّمَا عَلَىٰ رَسُولِنَا ٱلْبَلَـٰغُ ٱلْمُبِينُ"
 translation: "So obey Allah and obey the Messenger. But if you turn away, then upon Our Messenger is only the clear conveyance."
 word_count: 7100
 estimated_duration: "48-59 minutes"

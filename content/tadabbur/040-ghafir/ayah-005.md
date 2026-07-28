@@ -6,7 +6,7 @@ ayah_end: 5
 title: "The Hand That Reached to Seize, and the Hand That Closed Around It"
 slug: "040-005"
 category: tadabbur
-arabic: "كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍۢ وَٱلْأَحْزَابُ مِنۢ بَعْدِهِمْ ۖ وَهَمَّتْ كُلُّ أُمَّةٍۭ بِرَسُولِهِمْ لِيَأْخُذُوهُ ۖ وَجَٰدَلُوا۟ بِٱلْبَٰطِلِ لِيُدْحِضُوا۟ بِهِ ٱلْحَقَّ فَأَخَذْتُهُمْ ۖ فَكَيْفَ كَانَ عِقَابِ"
+arabic: "كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ وَٱلْأَحْزَابُ مِنۢ بَعْدِهِمْ ۖ وَهَمَّتْ كُلُّ أُمَّةٍۭ بِرَسُولِهِمْ لِيَأْخُذُوهُ ۖ وَجَـٰدَلُوا۟ بِٱلْبَـٰطِلِ لِيُدْحِضُوا۟ بِهِ ٱلْحَقَّ فَأَخَذْتُهُمْ ۖ فَكَيْفَ كَانَ عِقَابِ"
 translation: "The people of Nuh denied before them, and the factions after them. Every nation resolved against their messenger, to seize him. And they disputed with falsehood, to make the truth slip and vanish by it. So I seized them — and how was My penalty!"
 word_count: 6100
 estimated_duration: "49-58 minutes"

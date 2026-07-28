@@ -6,7 +6,7 @@ ayah_end: 41
 title: "The Disguised Throne — When Allah Tests Whether Recognition Survives Camouflage"
 slug: "027-041"
 category: tadabbur
-arabic: "قَالَ نَكِّرُوا۟ لَهَا عَرْشَهَا نَنظُرْ أَتَهْتَدِىٓ أَمْ تَكُونُ مِنَ ٱلَّذِينَ لَا يَهْتَدُونَ"
+arabic: "قَالَ نَكِّرُوا۟ لَهَا عَرْشَهَا نَنظُرْ أَتَهْتَدِىٓ أَمْ تَكُونُ مِنَ ٱلَّذِينَ لَا يَهْتَدُونَ"
 translation: "He said: Disguise her throne for her, that we may see whether she will be guided or be among those who are not guided."
 word_count: 11
 estimated_duration: "48-55 minutes"

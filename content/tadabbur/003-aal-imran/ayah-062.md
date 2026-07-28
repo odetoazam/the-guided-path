@@ -6,7 +6,7 @@ ayah_end: 62
 title: "The True Account: When the Story Follows the Footprints"
 slug: "003-062"
 category: tadabbur
-arabic: "إِنَّ هَـٰذَا لَهُوَ ٱلْقَصَصُ ٱلْحَقُّ ۚ وَمَا مِنْ إِلَـٰهٍ إِلَّا ٱللَّهُ ۚ وَإِنَّ ٱللَّهَ لَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ"
+arabic: "إِنَّ هَـٰذَا لَهُوَ ٱلْقَصَصُ ٱلْحَقُّ ۚ وَمَا مِنْ إِلَـٰهٍ إِلَّا ٱللَّهُ ۚ وَإِنَّ ٱللَّهَ لَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ"
 translation: "Indeed, this is the true account. There is no god except Allah. And indeed, Allah — He alone is the All-Mighty, the All-Wise."
 word_count: 17
 estimated_duration: "50-58 minutes"

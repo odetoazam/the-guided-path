@@ -6,7 +6,7 @@ ayah_end: 57
 title: "The One Who Stayed Behind: On Belonging That Has Already Ended"
 slug: "027-057"
 category: tadabbur
-arabic: "فَأَنجَيْنَاهُ وَأَهْلَهُۥٓ إِلَّا ٱمْرَأَتَهُۥ قَدَّرْنَاهَا مِنَ ٱلْغَابِرِينَ"
+arabic: "فَأَنجَيْنَـٰهُ وَأَهْلَهُۥٓ إِلَّا ٱمْرَأَتَهُۥ قَدَّرْنَـٰهَا مِنَ ٱلْغَـٰبِرِينَ"
 translation: "So We saved him and his family, except his wife — We decreed her to be among those who remained behind."
 word_count: 9
 estimated_duration: "50-55 minutes"

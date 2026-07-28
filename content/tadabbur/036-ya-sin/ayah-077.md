@@ -6,7 +6,7 @@ ayah_end: 77
 title: "From a Drop to a Disputant: The Silence That Learned to Argue Back"
 slug: "036-077"
 category: tadabbur
-arabic: "أَوَلَمْ يَرَ ٱلْإِنسَـٰنُ أَنَّا خَلَقْنَـٰهُ مِن نُّطْفَةٍ فَإِذَا هُوَ خَصِيمٌ مُّبِينٌ"
+arabic: "أَوَلَمْ يَرَ ٱلْإِنسَـٰنُ أَنَّا خَلَقْنَـٰهُ مِن نُّطْفَةٍ فَإِذَا هُوَ خَصِيمٌ مُّبِينٌ"
 translation: "Does the human being not see that We created him from a mere drop — and then, behold, he is an open adversary, arguing out loud?"
 word_count: 10
 estimated_duration: "50-58 minutes"

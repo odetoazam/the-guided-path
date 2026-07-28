@@ -6,7 +6,7 @@ ayah_end: 23
 title: "The Day Their Deeds Became Scattered Dust"
 slug: "025-023"
 category: tadabbur
-arabic: "وَقَدِمْنَآ إِلَىٰ مَا عَمِلُوا۟ مِنْ عَمَلٍۢ فَجَعَلْنَـٰهُ هَبَآءًۭ مَّنثُورًۭا"
+arabic: "وَقَدِمْنَآ إِلَىٰ مَا عَمِلُوا۟ مِنْ عَمَلٍ فَجَعَلْنَـٰهُ هَبَآءً مَّنثُورًا"
 translation: "And We will turn to whatever deeds they did and make them as scattered dust."
 word_count: 11
 estimated_duration: "50-58 minutes"

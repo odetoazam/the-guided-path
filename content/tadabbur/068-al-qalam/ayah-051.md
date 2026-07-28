@@ -6,7 +6,7 @@ ayah_end: 51
 title: "The Eye That Almost — Envy at Its Sharpest Edge and the Protection That Lives in the Margin"
 slug: "068-051"
 category: tadabbur
-arabic: "وَإِن يَكَادُ ٱلَّذِينَ كَفَرُوا۟ لَيُزْلِقُونَكَ بِأَبْصَـٰرِهِمْ لَمَّا سَمِعُوا۟ ٱلذِّكْرَ وَيَقُولُونَ إِنَّهُۥ لَمَجْنُونٌ"
+arabic: "وَإِن يَكَادُ ٱلَّذِينَ كَفَرُوا۟ لَيُزْلِقُونَكَ بِأَبْصَـٰرِهِمْ لَمَّا سَمِعُوا۟ ٱلذِّكْرَ وَيَقُولُونَ إِنَّهُۥ لَمَجْنُونٌ"
 translation: "And those who disbelieve would almost make you slip with their eyes when they hear the Reminder, and they say, 'Indeed, he is mad.'"
 word_count: 6600
 estimated_duration: "50-58 minutes"

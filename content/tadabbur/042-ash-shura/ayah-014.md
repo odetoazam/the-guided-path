@@ -6,7 +6,7 @@ ayah_end: 14
 title: "When Knowledge Divides: The ʿIlm That Decayed Into Doubt"
 slug: "042-014"
 category: tadabbur
-arabic: "وَمَا تَفَرَّقُوٓاْ إِلَّا مِنۢ بَعْدِ مَا جَآءَهُمُ ٱلْعِلْمُ بَغْيًۢا بَيْنَهُمْ ۚ وَلَوْلَا كَلِمَةٌ سَبَقَتْ مِن رَّبِّكَ إِلَىٰٓ أَجَلٍ مُّسَمًّى لَّقُضِىَ بَيْنَهُمْ ۚ وَإِنَّ ٱلَّذِينَ أُورِثُواْ ٱلْكِتَـٰبَ مِنۢ بَعْدِهِمْ لَفِى شَكٍّ مِّنْهُ مُرِيبٍ"
+arabic: "وَمَا تَفَرَّقُوٓا۟ إِلَّا مِنۢ بَعْدِ مَا جَآءَهُمُ ٱلْعِلْمُ بَغْيًۢا بَيْنَهُمْ ۚ وَلَوْلَا كَلِمَةٌ سَبَقَتْ مِن رَّبِّكَ إِلَىٰٓ أَجَلٍ مُّسَمًّى لَّقُضِىَ بَيْنَهُمْ ۚ وَإِنَّ ٱلَّذِينَ أُورِثُوا۟ ٱلْكِتَـٰبَ مِنۢ بَعْدِهِمْ لَفِى شَكٍّ مِّنْهُ مُرِيبٍ"
 translation: "And they did not become divided until after the knowledge had come to them — out of rivalry between themselves. And were it not for a word that preceded from your Lord, [deferring judgment] to a specified term, it would already have been settled between them. And indeed those who were made to inherit the Scripture after them are in disquieting doubt about it."
 word_count: 8400
 estimated_duration: "50-58 minutes"

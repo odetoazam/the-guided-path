@@ -6,7 +6,7 @@ ayah_end: 9
 title: "When Allah Verifies Himself: The Asymmetry of Promise and Punishment"
 slug: "021-009"
 category: tadabbur
-arabic: "ثُمَّ صَدَقْنَاهُمُ الْوَعْدَ فَأَنجَيْنَاهُمْ وَمَن نَّشَاءُ وَأَهْلَكْنَا الْمُسْرِفِينَ"
+arabic: "ثُمَّ صَدَقْنَـٰهُمُ ٱلْوَعْدَ فَأَنجَيْنَـٰهُمْ وَمَن نَّشَآءُ وَأَهْلَكْنَا ٱلْمُسْرِفِينَ"
 translation: "Then We fulfilled for them the promise, and We saved them and whomever We willed, and We destroyed those who exceeded all limits."
 word_count: 9
 estimated_duration: "50-55 minutes"

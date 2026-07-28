@@ -6,7 +6,7 @@ ayah_end: 18
 title: "The Pledge Under the Tree: When God Records His Pleasure Before the Victory Arrives"
 slug: "048-018"
 category: tadabbur
-arabic: "لَّقَدْ رَضِىَ ٱللَّهُ عَنِ ٱلْمُؤْمِنِينَ إِذْ يُبَايِعُونَكَ تَحْتَ ٱلشَّجَرَةِ فَعَلِمَ مَا فِى قُلُوبِهِمْ فَأَنزَلَ ٱلسَّكِينَةَ عَلَيْهِمْ وَأَثَـٰبَهُمْ فَتْحًا قَرِيبًا"
+arabic: "۞ لَّقَدْ رَضِىَ ٱللَّهُ عَنِ ٱلْمُؤْمِنِينَ إِذْ يُبَايِعُونَكَ تَحْتَ ٱلشَّجَرَةِ فَعَلِمَ مَا فِى قُلُوبِهِمْ فَأَنزَلَ ٱلسَّكِينَةَ عَلَيْهِمْ وَأَثَـٰبَهُمْ فَتْحًا قَرِيبًا"
 translation: "Certainly Allah was pleased with the believers when they were pledging allegiance to you under the tree, for He knew what was in their hearts, so He sent down tranquility upon them and rewarded them with a near victory."
 word_count: 5600
 estimated_duration: "50-58 minutes"

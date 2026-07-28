@@ -6,7 +6,7 @@ ayah_end: 18
 title: "The Visible Towns We Asked Him to Take Away"
 slug: "034-018"
 category: tadabbur
-arabic: "وَجَعَلْنَا بَيْنَهُمْ وَبَيْنَ ٱلْقُرَى ٱلَّتِى بَـٰرَكْنَا فِيهَا قُرًى ظَـٰهِرَةً وَقَدَّرْنَا فِيهَا ٱلسَّيْرَ ۖ سِيرُوا۟ فِيهَا لَيَالِىَ وَأَيَّامًا ءَامِنِينَ"
+arabic: "وَجَعَلْنَا بَيْنَهُمْ وَبَيْنَ ٱلْقُرَى ٱلَّتِى بَـٰرَكْنَا فِيهَا قُرًى ظَـٰهِرَةً وَقَدَّرْنَا فِيهَا ٱلسَّيْرَ ۖ سِيرُوا۟ فِيهَا لَيَالِىَ وَأَيَّامًا ءَامِنِينَ"
 translation: "And We placed between them and the towns We had blessed [other] towns standing in plain sight — and We measured the journey between them. 'Travel through them, by nights and by days, in complete safety.'"
 word_count: 8800
 estimated_duration: "50-58 minutes"

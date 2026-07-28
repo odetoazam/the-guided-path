@@ -6,7 +6,7 @@ ayah_end: 12
 title: "When You Heard It: Why the Believers Should Have Thought Well of Themselves"
 slug: "024-012"
 category: tadabbur
-arabic: "لَّوْلَآ إِذْ سَمِعْتُمُوهُ ظَنَّ ٱلْمُؤْمِنُونَ وَٱلْمُؤْمِنَـٰتُ بِأَنفُسِهِمْ خَيْرًۭا وَقَالُوا۟ هَـٰذَآ إِفْكٌۭ مُّبِينٌۭ"
+arabic: "لَّوْلَآ إِذْ سَمِعْتُمُوهُ ظَنَّ ٱلْمُؤْمِنُونَ وَٱلْمُؤْمِنَـٰتُ بِأَنفُسِهِمْ خَيْرًا وَقَالُوا۟ هَـٰذَآ إِفْكٌ مُّبِينٌ"
 translation: "Why, when you heard it, did not the believing men and women think well of themselves and say, 'This is a manifest falsehood'?"
 word_count: 12
 estimated_duration: "50-58 minutes"

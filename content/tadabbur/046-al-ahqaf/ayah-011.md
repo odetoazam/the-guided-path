@@ -6,7 +6,7 @@ ayah_end: 11
 title: "The Ancient Lie: When Pride Becomes a Theory of Truth"
 slug: "046-011"
 category: tadabbur
-arabic: "وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لِلَّذِينَ ءَامَنُوا۟ لَوْ كَانَ خَيْرًۭا مَّا سَبَقُونَآ إِلَيْهِ ۚ وَإِذْ لَمْ يَهْتَدُوا۟ بِهِۦ فَسَيَقُولُونَ هَـٰذَآ إِفْكٌۭ قَدِيمٌۭ"
+arabic: "وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لِلَّذِينَ ءَامَنُوا۟ لَوْ كَانَ خَيْرًا مَّا سَبَقُونَآ إِلَيْهِ ۚ وَإِذْ لَمْ يَهْتَدُوا۟ بِهِۦ فَسَيَقُولُونَ هَـٰذَآ إِفْكٌ قَدِيمٌ"
 translation: "And those who disbelieve say of those who believe, 'If it were any good, they would not have beaten us to it.' And since they refuse to be guided by it, they will say, 'This is an ancient lie.'"
 word_count: 6800
 estimated_duration: "50-56 minutes"

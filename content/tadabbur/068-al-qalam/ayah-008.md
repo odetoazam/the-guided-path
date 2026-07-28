@@ -6,7 +6,7 @@ ayah_end: 8
 title: "The Millimeter of the Bend: Why Allah Forbade His Prophet Not the Break, But the Lean"
 slug: "068-008"
 category: tadabbur
-arabic: "فَلَا تُطِعِ ٱلْمُكَذِّبِينَ"
+arabic: "فَلَا تُطِعِ ٱلْمُكَذِّبِينَ"
 translation: "So do not obey the deniers."
 word_count: 3
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 19
 title: "The Host Who Prepared For You"
 slug: "032-019"
 category: tadabbur
-arabic: "أَمَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ فَلَهُمْ جَنَّاتُ الْمَأْوَىٰ نُزُلًا بِمَا كَانُوا يَعْمَلُونَ"
+arabic: "أَمَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ فَلَهُمْ جَنَّـٰتُ ٱلْمَأْوَىٰ نُزُلًۢا بِمَا كَانُوا۟ يَعْمَلُونَ"
 translation: "But as for those who believed and did righteous deeds — for them are the Gardens of Refuge, a welcome reception for what they used to do."
 word_count: 6850
 estimated_duration: "52-58 minutes"

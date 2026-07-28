@@ -6,7 +6,7 @@ ayah_end: 47
 title: "Which One Would You Call a Lie? — The Question Repeated Until It Becomes a Mirror"
 slug: "055-047"
 category: tadabbur
-arabic: "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+arabic: "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
 translation: "So which of the favors of your Lord will you both deny?"
 word_count: 4
 estimated_duration: "48-59 minutes"

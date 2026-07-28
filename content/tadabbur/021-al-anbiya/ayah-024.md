@@ -6,7 +6,7 @@ ayah_end: 24
 title: "Bring Your Proof: The Quran's Demand for Evidence and the Unity of the Dhikr"
 slug: "021-024"
 category: tadabbur
-arabic: "أَمِ ٱتَّخَذُوا۟ مِن دُونِهِۦٓ ءَالِهَةً ۖ قُلْ هَاتُوا۟ بُرْهَـٰنَكُمْ ۖ هَـٰذَا ذِكْرُ مَن مَّعِىَ وَذِكْرُ مَن قَبْلِى ۗ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ ٱلْحَقَّ ۖ فَهُم مُّعْرِضُونَ"
+arabic: "أَمِ ٱتَّخَذُوا۟ مِن دُونِهِۦٓ ءَالِهَةً ۖ قُلْ هَاتُوا۟ بُرْهَـٰنَكُمْ ۖ هَـٰذَا ذِكْرُ مَن مَّعِىَ وَذِكْرُ مَن قَبْلِى ۗ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ ٱلْحَقَّ ۖ فَهُم مُّعْرِضُونَ"
 translation: "Or have they taken besides Him gods? Say: 'Bring your proof. This is the reminder of those with me and the reminder of those before me.' But most of them do not know the truth — so they are turning away."
 word_count: 22
 estimated_duration: "50-55 minutes"

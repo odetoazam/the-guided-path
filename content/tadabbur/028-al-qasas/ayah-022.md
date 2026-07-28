@@ -6,7 +6,7 @@ ayah_end: 22
 title: "The Direction of the Lost: When the Heart Turns Toward Madyan"
 slug: "028-022"
 category: tadabbur
-arabic: "وَلَمَّا تَوَجَّهَ تِلْقَآءَ مَدْيَنَ قَالَ عَسَىٰ رَبِّىٓ أَن يَهْدِيَنِى سَوَآءَ ٱلسَّبِيلِ"
+arabic: "وَلَمَّا تَوَجَّهَ تِلْقَآءَ مَدْيَنَ قَالَ عَسَىٰ رَبِّىٓ أَن يَهْدِيَنِى سَوَآءَ ٱلسَّبِيلِ"
 translation: "And when he turned his face toward Madyan, he said: 'Perhaps my Lord will guide me to the even path.'"
 word_count: 11
 estimated_duration: "48-55 minutes"

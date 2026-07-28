@@ -6,7 +6,7 @@ ayah_end: 8
 title: "Witness, Bearer of Good News, Warner: The Three Names Allah Gave His Messenger"
 slug: "048-008"
 category: tadabbur
-arabic: "إِنَّآ أَرْسَلْنَٰكَ شَٰهِدًۭا وَمُبَشِّرًۭا وَنَذِيرًۭا"
+arabic: "إِنَّآ أَرْسَلْنَـٰكَ شَـٰهِدًا وَمُبَشِّرًا وَنَذِيرًا"
 translation: "Indeed, We have sent you as a witness, and a bearer of glad tidings, and a warner."
 word_count: 6600
 estimated_duration: "50-58 minutes"

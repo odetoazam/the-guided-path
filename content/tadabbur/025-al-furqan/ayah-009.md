@@ -6,7 +6,7 @@ ayah_end: 9
 title: "When the Accusers Lose Their Way: The Geometry of a Lost Path"
 slug: "025-009"
 category: tadabbur
-arabic: "ٱنظُرْ كَيْفَ ضَرَبُوا۟ لَكَ ٱلْأَمْثَـٰلَ فَضَلُّوا۟ فَلَا يَسْتَطِيعُونَ سَبِيلًۭا"
+arabic: "ٱنظُرْ كَيْفَ ضَرَبُوا۟ لَكَ ٱلْأَمْثَـٰلَ فَضَلُّوا۟ فَلَا يَسْتَطِيعُونَ سَبِيلًا"
 translation: "Look how they strike comparisons against you — and so they have lost their way, and cannot find any path."
 word_count: 8
 estimated_duration: "50-55 minutes"

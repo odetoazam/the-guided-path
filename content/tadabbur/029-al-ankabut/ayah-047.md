@@ -6,7 +6,7 @@ ayah_end: 47
 title: "And Thus We Sent Down to You the Book — The Quiet Confidence of a Revelation That Recognizes Itself"
 slug: "029-047"
 category: tadabbur
-arabic: "وَكَذَٰلِكَ أَنزَلْنَا إِلَيْكَ الْكِتَابَ ۚ فَالَّذِينَ آتَيْنَاهُمُ الْكِتَابَ يُؤْمِنُونَ بِهِ ۖ وَمِنْ هَٰؤُلَاءِ مَن يُؤْمِنُ بِهِ ۚ وَمَا يَجْحَدُ بِآيَاتِنَا إِلَّا الْكَافِرُونَ"
+arabic: "وَكَذَٰلِكَ أَنزَلْنَآ إِلَيْكَ ٱلْكِتَـٰبَ ۚ فَٱلَّذِينَ ءَاتَيْنَـٰهُمُ ٱلْكِتَـٰبَ يُؤْمِنُونَ بِهِۦ ۖ وَمِنْ هَـٰٓؤُلَآءِ مَن يُؤْمِنُ بِهِۦ ۚ وَمَا يَجْحَدُ بِـَٔايَـٰتِنَآ إِلَّا ٱلْكَـٰفِرُونَ"
 translation: "And thus We have sent down to you the Book. So those to whom We gave the Scripture believe in it. And among these [people] are those who believe in it. And none reject Our signs except the disbelievers."
 word_count: 22
 estimated_duration: "50-55 minutes"

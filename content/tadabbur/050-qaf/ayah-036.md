@@ -6,7 +6,7 @@ ayah_end: 36
 title: "They Breached Every Land — And Found No Door Out"
 slug: "050-036"
 category: tadabbur
-arabic: "وَكَمْ أَهْلَكْنَا قَبْلَهُم مِّن قَرْنٍ هُمْ أَشَدُّ مِنْهُم بَطْشًۭا فَنَقَّبُوا۟ فِى ٱلْبِلَـٰدِ هَلْ مِن مَّحِيصٍۢ"
+arabic: "وَكَمْ أَهْلَكْنَا قَبْلَهُم مِّن قَرْنٍ هُمْ أَشَدُّ مِنْهُم بَطْشًا فَنَقَّبُوا۟ فِى ٱلْبِلَـٰدِ هَلْ مِن مَّحِيصٍ"
 translation: "And how many a generation We destroyed before them, who were stronger than them in violent grip — and they bored their way through the lands. Was there any place of escape?"
 word_count: 6400
 estimated_duration: "50-58 minutes"

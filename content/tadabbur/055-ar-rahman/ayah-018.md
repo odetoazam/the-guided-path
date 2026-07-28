@@ -6,7 +6,7 @@ ayah_end: 18
 title: "Which One? — The Question That Itemizes the Universe"
 slug: "055-018"
 category: tadabbur
-arabic: "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+arabic: "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
 translation: "So which of the favors of your Lord will you both deny?"
 word_count: 5400
 estimated_duration: "48-55 minutes"

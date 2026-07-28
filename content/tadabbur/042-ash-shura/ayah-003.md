@@ -6,7 +6,7 @@ ayah_end: 3
 title: "The Spring at the Head of the River: Why Revelation Is Named Last"
 slug: "042-003"
 category: tadabbur
-arabic: "كَذَٰلِكَ يُوحِىٓ إِلَيْكَ وَإِلَى ٱلَّذِينَ مِن قَبْلِكَ ٱللَّهُ ٱلْعَزِيزُ ٱلْحَكِيمُ"
+arabic: "كَذَٰلِكَ يُوحِىٓ إِلَيْكَ وَإِلَى ٱلَّذِينَ مِن قَبْلِكَ ٱللَّهُ ٱلْعَزِيزُ ٱلْحَكِيمُ"
 translation: "Thus He reveals to you, and to those before you — Allah, the All-Mighty, the All-Wise."
 word_count: 7100
 estimated_duration: "52-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 50
 title: "One Sign, Two Lives: Maryam, Isa, and the Geometry of Refuge"
 slug: "023-050"
 category: tadabbur
-arabic: "وَجَعَلْنَا ٱبْنَ مَرْيَمَ وَأُمَّهُۥٓ ءَايَةً وَءَاوَيْنَـٰهُمَآ إِلَىٰ رَبْوَةٍۢ ذَاتِ قَرَارٍۢ وَمَعِينٍۢ"
+arabic: "وَجَعَلْنَا ٱبْنَ مَرْيَمَ وَأُمَّهُۥٓ ءَايَةً وَءَاوَيْنَـٰهُمَآ إِلَىٰ رَبْوَةٍ ذَاتِ قَرَارٍ وَمَعِينٍ"
 translation: "And We made the son of Mary and his mother a sign, and We sheltered the two of them upon a raised ground possessing rest and flowing water."
 word_count: 4200
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 9
 title: "The Sky Above and the Earth Below: What the Returning Heart Alone Can See"
 slug: "034-009"
 category: tadabbur
-arabic: "أَفَلَمْ يَرَوْا۟ إِلَىٰ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُم مِّنَ ٱلسَّمَآءِ وَٱلْأَرْضِ ۚ إِن نَّشَأْ نَخْسِفْ بِهِمُ ٱلْأَرْضَ أَوْ نُسْقِطْ عَلَيْهِمْ كِسَفًا مِّنَ ٱلسَّمَآءِ ۚ إِنَّ فِى ذَٰلِكَ لَءَايَةً لِّكُلِّ عَبْدٍ مُّنِيبٍ"
+arabic: "أَفَلَمْ يَرَوْا۟ إِلَىٰ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُم مِّنَ ٱلسَّمَآءِ وَٱلْأَرْضِ ۚ إِن نَّشَأْ نَخْسِفْ بِهِمُ ٱلْأَرْضَ أَوْ نُسْقِطْ عَلَيْهِمْ كِسَفًا مِّنَ ٱلسَّمَآءِ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَةً لِّكُلِّ عَبْدٍ مُّنِيبٍ"
 translation: "Then do they not see what lies before them and what lies behind them of the heaven and the earth? If We willed, We could cause the earth to swallow them, or cause fragments from the sky to fall upon them. Indeed, in that is a sign for every servant who turns back [to Allah]."
 word_count: 7800
 estimated_duration: "50-55 minutes"

@@ -6,7 +6,7 @@ ayah_end: 33
 title: "The Verb He Repeated and the Deeds He Warned You Could Lose"
 slug: "047-033"
 category: tadabbur
-arabic: "۞ يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ أَطِيعُواْ ٱللَّهَ وَأَطِيعُواْ ٱلرَّسُولَ وَلَا تُبْطِلُوٓاْ أَعْمَـٰلَكُمْ"
+arabic: "۞ يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ أَطِيعُوا۟ ٱللَّهَ وَأَطِيعُوا۟ ٱلرَّسُولَ وَلَا تُبْطِلُوٓا۟ أَعْمَـٰلَكُمْ"
 translation: "O you who believe! Obey Allah, and obey the Messenger, and do not nullify your deeds."
 word_count: 5600
 estimated_duration: "50-58 minutes"

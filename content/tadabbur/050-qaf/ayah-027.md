@@ -6,7 +6,7 @@ ayah_end: 27
 title: "The Companion Who Disowns You: When the Voice Beside You Takes the Stand"
 slug: "050-027"
 category: tadabbur
-arabic: "قَالَ قَرِينُهُۥ رَبَّنَا مَآ أَطْغَيْتُهُۥ وَلَٰكِن كَانَ فِى ضَلَٰلٍۭ بَعِيدٍ"
+arabic: "۞ قَالَ قَرِينُهُۥ رَبَّنَا مَآ أَطْغَيْتُهُۥ وَلَـٰكِن كَانَ فِى ضَلَـٰلٍۭ بَعِيدٍ"
 translation: "His companion will say, 'Our Lord, I did not make him transgress, but he was [already] far gone in error.'"
 word_count: 10
 estimated_duration: "48-56 minutes"

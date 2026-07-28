@@ -6,7 +6,7 @@ ayah_end: 60
 title: "The Verse That Grants Permission to Retaliate — and Ends With the Names of Pardon"
 slug: "022-060"
 category: tadabbur
-arabic: "ذَٰلِكَ ۖ وَمَنْ عَاقَبَ بِمِثْلِ مَا عُوقِبَ بِهِ ثُمَّ بُغِىَ عَلَيْهِ لَيَنصُرَنَّهُ ٱللَّهُ ۗ إِنَّ ٱللَّهَ لَعَفُوٌّ غَفُورٌ"
+arabic: "۞ ذَٰلِكَ وَمَنْ عَاقَبَ بِمِثْلِ مَا عُوقِبَ بِهِۦ ثُمَّ بُغِىَ عَلَيْهِ لَيَنصُرَنَّهُ ٱللَّهُ ۗ إِنَّ ٱللَّهَ لَعَفُوٌّ غَفُورٌ"
 translation: "That [is so]. And whoever responds [to an injury] with the like of what he was injured with, and then is transgressed against — Allah will surely aid him. Indeed, Allah is Pardoning and Forgiving."
 word_count: 14
 estimated_duration: "50-58 minutes"

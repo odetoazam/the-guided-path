@@ -6,7 +6,7 @@ ayah_end: 24
 title: "Woe to the One Who Cried Lies: The Drop That Denied Its Maker"
 slug: "077-024"
 category: tadabbur
-arabic: "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ"
+arabic: "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ"
 translation: "Woe, that Day, to the deniers."
 word_count: 3
 estimated_duration: "48-58 minutes"

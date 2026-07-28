@@ -6,7 +6,7 @@ ayah_end: 12
 title: "The Beautiful Excuse Over the Ugly Thought: When the Heart Refuses the Return"
 slug: "048-012"
 category: tadabbur
-arabic: "بَلْ ظَنَنتُمْ أَن لَّن يَنقَلِبَ ٱلرَّسُولُ وَٱلْمُؤْمِنُونَ إِلَىٰٓ أَهْلِيهِمْ أَبَدًا وَزُيِّنَ ذَٰلِكَ فِى قُلُوبِكُمْ وَظَنَنتُمْ ظَنَّ ٱلسَّوْءِ وَكُنتُمْ قَوْمًۢا بُورًا"
+arabic: "بَلْ ظَنَنتُمْ أَن لَّن يَنقَلِبَ ٱلرَّسُولُ وَٱلْمُؤْمِنُونَ إِلَىٰٓ أَهْلِيهِمْ أَبَدًا وَزُيِّنَ ذَٰلِكَ فِى قُلُوبِكُمْ وَظَنَنتُمْ ظَنَّ ٱلسَّوْءِ وَكُنتُمْ قَوْمًۢا بُورًا"
 translation: "Nay, you thought that the Messenger and the believers would never return to their families, ever; and that was made fair-seeming in your hearts. And you assumed an evil assumption, and you became a ruined people."
 word_count: 20
 estimated_duration: "50-58 minutes"

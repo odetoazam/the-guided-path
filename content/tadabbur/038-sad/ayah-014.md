@@ -6,7 +6,7 @@ ayah_end: 14
 title: "Not One of Them: When Every Name Becomes a Single Verdict"
 slug: "038-014"
 category: tadabbur
-arabic: "إِن كُلٌّ إِلَّا كَذَّبَ ٱلرُّسُلَ فَحَقَّ عِقَابِ"
+arabic: "إِن كُلٌّ إِلَّا كَذَّبَ ٱلرُّسُلَ فَحَقَّ عِقَابِ"
 translation: "Not one of them but denied the Messengers — so My punishment became due."
 word_count: 4100
 estimated_duration: "48–56 minutes"

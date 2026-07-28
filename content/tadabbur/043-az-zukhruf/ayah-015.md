@@ -6,7 +6,7 @@ ayah_end: 15
 title: "A Portion of the Whole: How the Heart Fragments the One It Cannot Bear"
 slug: "043-015"
 category: tadabbur
-arabic: "وَجَعَلُوا لَهُۥ مِنْ عِبَادِهِۦ جُزْءًا ۚ إِنَّ ٱلْإِنسَٰنَ لَكَفُورٌ مُّبِينٌ"
+arabic: "وَجَعَلُوا۟ لَهُۥ مِنْ عِبَادِهِۦ جُزْءًا ۚ إِنَّ ٱلْإِنسَـٰنَ لَكَفُورٌ مُّبِينٌ"
 translation: "And they have assigned to Him a portion from among His own servants. Indeed, the human being is clearly ungrateful."
 word_count: 9
 estimated_duration: "50-58 minutes"

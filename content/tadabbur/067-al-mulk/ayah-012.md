@@ -6,7 +6,7 @@ ayah_end: 12
 title: "Reverence in the Dark: The Faith No Eye Can See"
 slug: "067-012"
 category: tadabbur
-arabic: "إِنَّ ٱلَّذِينَ يَخْشَوْنَ رَبَّهُم بِٱلْغَيْبِ لَهُم مَّغْفِرَةٌ وَأَجْرٌ كَبِيرٌ"
+arabic: "إِنَّ ٱلَّذِينَ يَخْشَوْنَ رَبَّهُم بِٱلْغَيْبِ لَهُم مَّغْفِرَةٌ وَأَجْرٌ كَبِيرٌ"
 translation: "Indeed, those who stand in awe of their Lord unseen — for them is forgiveness and a great reward."
 word_count: 6600
 estimated_duration: "50-58 minutes"

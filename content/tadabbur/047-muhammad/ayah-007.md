@@ -6,7 +6,7 @@ ayah_end: 7
 title: "The One Help With Two Names: Serving the God Who Needs Nothing"
 slug: "047-007"
 category: tadabbur
-arabic: "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِن تَنصُرُواْ ٱللَّهَ يَنصُرْكُمْ وَيُثَبِّتْ أَقْدَامَكُمْ"
+arabic: "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِن تَنصُرُوا۟ ٱللَّهَ يَنصُرْكُمْ وَيُثَبِّتْ أَقْدَامَكُمْ"
 translation: "O you who believe! If you help Allah, He will help you and make your feet firm."
 word_count: 9
 estimated_duration: "50-58 minutes"

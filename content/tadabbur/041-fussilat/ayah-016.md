@@ -6,7 +6,7 @@ ayah_end: 16
 title: "The Wind That Answered Their Boast: When Strength Is Disgraced by What Has No Body"
 slug: "041-016"
 category: tadabbur
-arabic: "فَأَرْسَلْنَا عَلَيْهِمْ رِيحًا صَرْصَرًا فِىٓ أَيَّامٍ نَّحِسَاتٍ لِّنُذِيقَهُمْ عَذَابَ ٱلْخِزْىِ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا ۖ وَلَعَذَابُ ٱلْءَاخِرَةِ أَخْزَىٰ ۖ وَهُمْ لَا يُنصَرُونَ"
+arabic: "فَأَرْسَلْنَا عَلَيْهِمْ رِيحًا صَرْصَرًا فِىٓ أَيَّامٍ نَّحِسَاتٍ لِّنُذِيقَهُمْ عَذَابَ ٱلْخِزْىِ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَخْزَىٰ ۖ وَهُمْ لَا يُنصَرُونَ"
 translation: "So We sent upon them a screaming wind through days of ruin, to make them taste the punishment of disgrace in the life of this world — and the punishment of the Hereafter is more disgracing still, and they will not be helped."
 word_count: 19
 estimated_duration: "50-58 minutes"

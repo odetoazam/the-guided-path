@@ -6,7 +6,7 @@ ayah_end: 32
 title: "The Heart Is the Only Currency: shaʿāʾir, magnification, and the taqwā of hearts"
 slug: "022-032"
 category: tadabbur
-arabic: "ذَٰلِكَ وَمَن يُعَظِّمْ شَعَائِرَ اللَّهِ فَإِنَّهَا مِن تَقْوَى الْقُلُوبِ"
+arabic: "ذَٰلِكَ وَمَن يُعَظِّمْ شَعَـٰٓئِرَ ٱللَّهِ فَإِنَّهَا مِن تَقْوَى ٱلْقُلُوبِ"
 translation: "That [is so]. And whoever magnifies the symbols of Allah — indeed, this is from the taqwā of the hearts."
 word_count: 2400
 estimated_duration: "50-55 minutes"

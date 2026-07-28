@@ -6,7 +6,7 @@ ayah_end: 96
 title: "The Samiri's Confession — When the Soul Sells You a Story"
 slug: "020-096"
 category: tadabbur
-arabic: "قَالَ بَصُرْتُ بِمَا لَمْ يَبْصُرُوا بِهِۦ فَقَبَضْتُ قَبْضَةًۭ مِّنْ أَثَرِ ٱلرَّسُولِ فَنَبَذْتُهَا وَكَذَٰلِكَ سَوَّلَتْ لِى نَفْسِى"
+arabic: "قَالَ بَصُرْتُ بِمَا لَمْ يَبْصُرُوا۟ بِهِۦ فَقَبَضْتُ قَبْضَةً مِّنْ أَثَرِ ٱلرَّسُولِ فَنَبَذْتُهَا وَكَذَٰلِكَ سَوَّلَتْ لِى نَفْسِى"
 translation: "He said: 'I saw what they did not see. So I grasped a handful from the track of the messenger and cast it. And thus my soul made it seem fair to me.'"
 word_count: 17
 estimated_duration: "50-58 minutes"

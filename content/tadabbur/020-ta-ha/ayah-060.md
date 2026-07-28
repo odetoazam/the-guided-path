@@ -6,7 +6,7 @@ ayah_end: 60
 title: "Turn. Gather. Come. — Nine Words for Pharaoh's Whole Campaign"
 slug: "020-060"
 category: tadabbur
-arabic: "فَتَوَلَّىٰ فِرْعَوْنُ فَجَمَعَ كَيْدَهُ ثُمَّ أَتَىٰ"
+arabic: "فَتَوَلَّىٰ فِرْعَوْنُ فَجَمَعَ كَيْدَهُۥ ثُمَّ أَتَىٰ"
 translation: "So Pharaoh turned away, then gathered his scheme, then he came."
 word_count: 8
 estimated_duration: "45-50 minutes"

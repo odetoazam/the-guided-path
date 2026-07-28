@@ -6,7 +6,7 @@ ayah_end: 25
 title: "The Walk of Shyness: How Dignity Moves"
 slug: "028-025"
 category: tadabbur
-arabic: "فَجَآءَتْهُ إِحْدَىٰهُمَا تَمْشِى عَلَى ٱسْتِحْيَآءٍ قَالَتْ إِنَّ أَبِى يَدْعُوكَ لِيَجْزِيَكَ أَجْرَ مَا سَقَيْتَ لَنَا ۚ فَلَمَّا جَآءَهُۥ وَقَصَّ عَلَيْهِ ٱلْقَصَصَ قَالَ لَا تَخَفْ ۖ نَجَوْتَ مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ"
+arabic: "فَجَآءَتْهُ إِحْدَىٰهُمَا تَمْشِى عَلَى ٱسْتِحْيَآءٍ قَالَتْ إِنَّ أَبِى يَدْعُوكَ لِيَجْزِيَكَ أَجْرَ مَا سَقَيْتَ لَنَا ۚ فَلَمَّا جَآءَهُۥ وَقَصَّ عَلَيْهِ ٱلْقَصَصَ قَالَ لَا تَخَفْ ۖ نَجَوْتَ مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ"
 translation: "Then one of the two women came to him, walking with shyness. She said, 'Indeed, my father is calling you so that he may reward you for having watered for us.' So when he came to him and recounted to him the story, he said, 'Have no fear. You have escaped from the wrongdoing people.'"
 word_count: 38
 estimated_duration: "50-58 minutes"

@@ -7,7 +7,7 @@ ayah_end: 82
 title: "Turning Away After the Covenant: The Geometry of Fisq"
 slug: "003-082"
 category: tadabbur
-arabic: "فَمَن تَوَلَّىٰ بَعْدَ ذَٰلِكَ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْفَـٰسِقُونَ"
+arabic: "فَمَن تَوَلَّىٰ بَعْدَ ذَٰلِكَ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْفَـٰسِقُونَ"
 translation: "Then whoever turns away after that — it is they who are the defiantly disobedient."
 word_count: 7
 estimated_duration: "48-59 minutes"

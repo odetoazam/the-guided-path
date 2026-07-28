@@ -6,7 +6,7 @@ ayah_end: 101
 title: "The Burden That Becomes Your Dwelling"
 slug: "020-101"
 category: tadabbur
-arabic: "خَٰلِدِينَ فِيهِ ۖ وَسَآءَ لَهُمْ يَوْمَ ٱلْقِيَٰمَةِ حِمْلًا"
+arabic: "خَـٰلِدِينَ فِيهِ ۖ وَسَآءَ لَهُمْ يَوْمَ ٱلْقِيَـٰمَةِ حِمْلًا"
 translation: "Abiding eternally therein — and how evil a burden it will be for them on the Day of Resurrection."
 word_count: 6100
 estimated_duration: "48-55 minutes"

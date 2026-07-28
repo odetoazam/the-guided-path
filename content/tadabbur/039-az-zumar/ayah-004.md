@@ -6,7 +6,7 @@ ayah_end: 4
 title: "Even the Choicest of Creation Is Still a Creature: The Counterfactual That Demolishes the Premise"
 slug: "039-004"
 category: tadabbur
-arabic: "لَّوْ أَرَادَ ٱللَّهُ أَن يَتَّخِذَ وَلَدًا لَّٱصْطَفَىٰ مِمَّا يَخْلُقُ مَا يَشَآءُ ۚ سُبْحَـٰنَهُۥ ۖ هُوَ ٱللَّهُ ٱلْوَٰحِدُ ٱلْقَهَّارُ"
+arabic: "لَّوْ أَرَادَ ٱللَّهُ أَن يَتَّخِذَ وَلَدًا لَّٱصْطَفَىٰ مِمَّا يَخْلُقُ مَا يَشَآءُ ۚ سُبْحَـٰنَهُۥ ۖ هُوَ ٱللَّهُ ٱلْوَٰحِدُ ٱلْقَهَّارُ"
 translation: "Had Allah intended to take a son, He could have chosen from what He creates whatever He willed. Glory be to Him! He is Allah — the One, the Irresistible."
 word_count: 16
 estimated_duration: "50-58 minutes"

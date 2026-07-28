@@ -6,7 +6,7 @@ ayah_end: 1
 title: "The Opening That Looked Like a Closed Door"
 slug: "048-001"
 category: tadabbur
-arabic: "إِنَّا فَتَحْنَا لَكَ فَتْحًا مُّبِينًا"
+arabic: "إِنَّا فَتَحْنَا لَكَ فَتْحًا مُّبِينًا"
 translation: "Indeed, We have opened for you a clear opening — a manifest victory."
 word_count: 5
 estimated_duration: "50-58 minutes"

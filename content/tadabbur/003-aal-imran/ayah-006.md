@@ -6,7 +6,7 @@ ayah_end: 6
 title: "Shaped in the Hidden Place: The God Who Forms You Where No Eye Can See"
 slug: "003-006"
 category: tadabbur
-arabic: "هُوَ ٱلَّذِى يُصَوِّرُكُمْ فِى ٱلْأَرْحَامِ كَيْفَ يَشَآءُ ۚ لَآ إِلَـٰهَ إِلَّا هُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ"
+arabic: "هُوَ ٱلَّذِى يُصَوِّرُكُمْ فِى ٱلْأَرْحَامِ كَيْفَ يَشَآءُ ۚ لَآ إِلَـٰهَ إِلَّا هُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ"
 translation: "He is the One who shapes you in the wombs however He wills. There is no god but Him, the All-Mighty, the All-Wise."
 word_count: 13
 estimated_duration: "50-58 minutes"

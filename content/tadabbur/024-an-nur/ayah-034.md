@@ -6,7 +6,7 @@ ayah_end: 34
 title: "When the Sign Becomes the Sermon: Three Gifts and a Warning for the God-Conscious"
 slug: "024-034"
 category: tadabbur
-arabic: "وَلَقَدْ أَنزَلْنَآ إِلَيْكُمْ ءَايَـٰتٍۢ مُّبَيِّنَـٰتٍۢ وَمَثَلًۭا مِّنَ ٱلَّذِينَ خَلَوْا۟ مِن قَبْلِكُمْ وَمَوْعِظَةًۭ لِّلْمُتَّقِينَ"
+arabic: "وَلَقَدْ أَنزَلْنَآ إِلَيْكُمْ ءَايَـٰتٍ مُّبَيِّنَـٰتٍ وَمَثَلًا مِّنَ ٱلَّذِينَ خَلَوْا۟ مِن قَبْلِكُمْ وَمَوْعِظَةً لِّلْمُتَّقِينَ"
 translation: "And We have certainly sent down to you clarifying signs, and an example of those who passed on before you, and an admonition for those who are God-conscious."
 word_count: 17
 estimated_duration: "48-55 minutes"

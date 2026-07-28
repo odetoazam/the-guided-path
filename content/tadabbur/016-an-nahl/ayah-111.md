@@ -6,7 +6,7 @@ ayah_end: 111
 title: "The Day Every Soul Argues for Itself: When the Only Voice You Have Is Your Own"
 slug: "016-111"
 category: tadabbur
-arabic: "يَوْمَ تَأْتِى كُلُّ نَفْسٍ تُجَـٰدِلُ عَن نَّفْسِهَا وَتُوَفَّىٰ كُلُّ نَفْسٍ مَّا عَمِلَتْ وَهُمْ لَا يُظْلَمُونَ"
+arabic: "۞ يَوْمَ تَأْتِى كُلُّ نَفْسٍ تُجَـٰدِلُ عَن نَّفْسِهَا وَتُوَفَّىٰ كُلُّ نَفْسٍ مَّا عَمِلَتْ وَهُمْ لَا يُظْلَمُونَ"
 translation: "On the Day when every soul will come pleading for itself, and every soul will be paid in full for what it did, and they will not be wronged."
 word_count: 4200
 estimated_duration: "50-55 minutes"

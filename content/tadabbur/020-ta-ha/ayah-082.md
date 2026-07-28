@@ -6,7 +6,7 @@ ayah_end: 82
 title: "The Architecture of Return — and the One Word That Changes Everything"
 slug: "020-082"
 category: tadabbur
-arabic: "وَإِنِّي لَغَفَّارٌ لِّمَن تَابَ وَآمَنَ وَعَمِلَ صَالِحًا ثُمَّ اهْتَدَىٰ"
+arabic: "وَإِنِّى لَغَفَّارٌ لِّمَن تَابَ وَءَامَنَ وَعَمِلَ صَـٰلِحًا ثُمَّ ٱهْتَدَىٰ"
 translation: "And indeed, I am the Constant Forgiver of whoever repents and believes and does righteousness and then is guided."
 word_count: 40
 estimated_duration: "50-58 minutes"

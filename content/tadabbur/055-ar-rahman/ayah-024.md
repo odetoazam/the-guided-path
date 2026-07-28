@@ -6,7 +6,7 @@ ayah_end: 24
 title: "The Mountains That Run: Ownership, Buoyancy, and the Self That Was Raised"
 slug: "055-024"
 category: tadabbur
-arabic: "وَلَهُ ٱلْجَوَارِ ٱلْمُنشَـَٔاتُ فِى ٱلْبَحْرِ كَٱلْأَعْلَـٰمِ"
+arabic: "وَلَهُ ٱلْجَوَارِ ٱلْمُنشَـَٔاتُ فِى ٱلْبَحْرِ كَٱلْأَعْلَـٰمِ"
 translation: "And to Him belong the ships, raised high, running through the sea like mountains."
 word_count: 6100
 estimated_duration: "50-57 minutes"

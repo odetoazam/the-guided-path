@@ -6,7 +6,7 @@ ayah_end: 36
 title: "When the Gift Becomes the Insult: Sulaymān's Refusal of Bilqīs's Bribe"
 slug: "027-036"
 category: tadabbur
-arabic: "فَلَمَّا جَآءَ سُلَيْمَـٰنَ قَالَ أَتُمِدُّونَنِ بِمَالٍ فَمَآ ءَاتَىٰنِۦَ ٱللَّهُ خَيْرٌ مِّمَّآ ءَاتَىٰكُم بَلْ أَنتُم بِهَدِيَّتِكُمْ تَفْرَحُونَ"
+arabic: "فَلَمَّا جَآءَ سُلَيْمَـٰنَ قَالَ أَتُمِدُّونَنِ بِمَالٍ فَمَآ ءَاتَىٰنِۦَ ٱللَّهُ خَيْرٌ مِّمَّآ ءَاتَىٰكُم بَلْ أَنتُم بِهَدِيَّتِكُمْ تَفْرَحُونَ"
 translation: "So when [the envoy] came to Sulaymān, he said: 'Are you trying to enrich me with wealth? What Allah has given me is better than what He has given you. Rather, it is you who rejoice in your gift.'"
 word_count: 470
 estimated_duration: "50-55 minutes"

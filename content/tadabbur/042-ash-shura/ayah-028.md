@@ -6,7 +6,7 @@ ayah_end: 28
 title: "The Rain That Comes After You Give Up: Ghayth, Despair, and the Mercy That Spreads"
 slug: "042-028"
 category: tadabbur
-arabic: "وَهُوَ ٱلَّذِى يُنَزِّلُ ٱلْغَيْثَ مِنۢ بَعْدِ مَا قَنَطُواْ وَيَنشُرُ رَحْمَتَهُۥ ۚ وَهُوَ ٱلْوَلِىُّ ٱلْحَمِيدُ"
+arabic: "وَهُوَ ٱلَّذِى يُنَزِّلُ ٱلْغَيْثَ مِنۢ بَعْدِ مَا قَنَطُوا۟ وَيَنشُرُ رَحْمَتَهُۥ ۚ وَهُوَ ٱلْوَلِىُّ ٱلْحَمِيدُ"
 translation: "And He is the One who sends down the relieving rain after they have despaired, and spreads out His mercy. And He is the Protector, the Praiseworthy."
 word_count: 13
 estimated_duration: "50-58 minutes"

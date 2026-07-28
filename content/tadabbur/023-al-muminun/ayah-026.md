@@ -6,7 +6,7 @@ ayah_end: 26
 title: "When the Wound Becomes the Prayer: Nuh's Four-Word Petition"
 slug: "023-026"
 category: tadabbur
-arabic: "قَالَ رَبِّ ٱنصُرْنِى بِمَا كَذَّبُونِ"
+arabic: "قَالَ رَبِّ ٱنصُرْنِى بِمَا كَذَّبُونِ"
 translation: "He said: My Lord, help me — because they have denied me."
 word_count: 5
 estimated_duration: "48-55 minutes"

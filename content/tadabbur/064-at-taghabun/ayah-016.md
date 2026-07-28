@@ -6,7 +6,7 @@ ayah_end: 16
 title: "As Much As You Are Able: Taqwa Scaled to Your Strength and the Soul You Must Be Rescued From"
 slug: "064-016"
 category: tadabbur
-arabic: "فَٱتَّقُوا۟ ٱللَّهَ مَا ٱسْتَطَعْتُمْ وَٱسْمَعُوا۟ وَأَطِيعُوا۟ وَأَنفِقُوا۟ خَيْرًۭا لِّأَنفُسِكُمْ ۗ وَمَن يُوقَ شُحَّ نَفْسِهِۦ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ"
+arabic: "فَٱتَّقُوا۟ ٱللَّهَ مَا ٱسْتَطَعْتُمْ وَٱسْمَعُوا۟ وَأَطِيعُوا۟ وَأَنفِقُوا۟ خَيْرًا لِّأَنفُسِكُمْ ۗ وَمَن يُوقَ شُحَّ نَفْسِهِۦ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ"
 translation: "So be conscious of Allah as much as you are able, and listen, and obey, and spend — it is better for your souls. And whoever is protected from the greed of his own soul — it is they who are the successful."
 word_count: 16
 estimated_duration: "50-58 minutes"

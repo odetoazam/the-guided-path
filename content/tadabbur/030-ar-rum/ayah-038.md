@@ -6,7 +6,7 @@ ayah_end: 38
 title: "The Geometry of Giving: Why Allah Names Three Hands Before He Names One Reward"
 slug: "030-038"
 category: tadabbur
-arabic: "فَآتِ ذَا ٱلْقُرْبَىٰ حَقَّهُۥ وَٱلْمِسْكِينَ وَٱبْنَ ٱلسَّبِيلِ ۚ ذَٰلِكَ خَيْرٌ لِّلَّذِينَ يُرِيدُونَ وَجْهَ ٱللَّهِ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ"
+arabic: "فَـَٔاتِ ذَا ٱلْقُرْبَىٰ حَقَّهُۥ وَٱلْمِسْكِينَ وَٱبْنَ ٱلسَّبِيلِ ۚ ذَٰلِكَ خَيْرٌ لِّلَّذِينَ يُرِيدُونَ وَجْهَ ٱللَّهِ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ"
 translation: "So give the relative his right, and the needy, and the traveler. That is best for those who desire the Face of Allah, and it is those who are the successful."
 word_count: 22
 estimated_duration: "50-55 minutes"

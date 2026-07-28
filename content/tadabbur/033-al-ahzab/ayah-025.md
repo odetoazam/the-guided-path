@@ -6,7 +6,7 @@ ayah_end: 25
 title: "When Allah Sent Back the Confederates: The Wind That Fought for the Believers"
 slug: "033-025"
 category: tadabbur
-arabic: "وَرَدَّ ٱللَّهُ ٱلَّذِينَ كَفَرُوا۟ بِغَيْظِهِمْ لَمْ يَنَالُوا۟ خَيْرًا ۚ وَكَفَى ٱللَّهُ ٱلْمُؤْمِنِينَ ٱلْقِتَالَ ۚ وَكَانَ ٱللَّهُ قَوِيًّا عَزِيزًا"
+arabic: "وَرَدَّ ٱللَّهُ ٱلَّذِينَ كَفَرُوا۟ بِغَيْظِهِمْ لَمْ يَنَالُوا۟ خَيْرًا ۚ وَكَفَى ٱللَّهُ ٱلْمُؤْمِنِينَ ٱلْقِتَالَ ۚ وَكَانَ ٱللَّهُ قَوِيًّا عَزِيزًا"
 translation: "And Allah turned back those who disbelieved in their rage — they did not attain any good. And Allah was sufficient for the believers in battle. And Allah is ever Strong, Mighty."
 word_count: 17
 estimated_duration: "48-55 minutes"

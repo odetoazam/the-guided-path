@@ -6,7 +6,7 @@ ayah_end: 18
 title: "The Day Named by Its Nearness: When the Heart Climbs to the Throat"
 slug: "040-018"
 category: tadabbur
-arabic: "وَأَنذِرْهُمْ يَوْمَ ٱلْأَزِفَةِ إِذِ ٱلْقُلُوبُ لَدَى ٱلْحَنَاجِرِ كَٰظِمِينَ ۚ مَا لِلظَّٰلِمِينَ مِنْ حَمِيمٍ وَلَا شَفِيعٍ يُطَاعُ"
+arabic: "وَأَنذِرْهُمْ يَوْمَ ٱلْـَٔازِفَةِ إِذِ ٱلْقُلُوبُ لَدَى ٱلْحَنَاجِرِ كَـٰظِمِينَ ۚ مَا لِلظَّـٰلِمِينَ مِنْ حَمِيمٍ وَلَا شَفِيعٍ يُطَاعُ"
 translation: "And warn them of the Day of the Approaching Event, when hearts are at the throats, choked with anguish. For the wrongdoers there is no devoted friend and no intercessor who is obeyed."
 word_count: 15
 estimated_duration: "48-59 minutes"

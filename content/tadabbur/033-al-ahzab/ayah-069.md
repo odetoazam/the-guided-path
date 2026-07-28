@@ -6,7 +6,7 @@ ayah_end: 69
 title: "What They Said, and What Allah Did Not Repeat"
 slug: "033-069"
 category: tadabbur
-arabic: "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَكُونُوا۟ كَٱلَّذِينَ ءَاذَوْا۟ مُوسَىٰ فَبَرَّأَهُ ٱللَّهُ مِمَّا قَالُوا۟ ۚ وَكَانَ عِندَ ٱللَّهِ وَجِيهًا"
+arabic: "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَكُونُوا۟ كَٱلَّذِينَ ءَاذَوْا۟ مُوسَىٰ فَبَرَّأَهُ ٱللَّهُ مِمَّا قَالُوا۟ ۚ وَكَانَ عِندَ ٱللَّهِ وَجِيهًا"
 translation: "O you who have believed, do not be like those who hurt Musa. Then Allah cleared him of what they said. And he was, in the sight of Allah, of high standing."
 word_count: 8400
 estimated_duration: "50-57 minutes"

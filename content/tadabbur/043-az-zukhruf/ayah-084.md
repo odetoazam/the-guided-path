@@ -6,7 +6,7 @@ ayah_end: 84
 title: "God in the Heaven, God in the Earth: The One Allegiance for a Divided Self"
 slug: "043-084"
 category: tadabbur
-arabic: "وَهُوَ ٱلَّذِى فِى ٱلسَّمَآءِ إِلَٰهٌ وَفِى ٱلْأَرْضِ إِلَٰهٌ ۚ وَهُوَ ٱلْحَكِيمُ ٱلْعَلِيمُ"
+arabic: "وَهُوَ ٱلَّذِى فِى ٱلسَّمَآءِ إِلَـٰهٌ وَفِى ٱلْأَرْضِ إِلَـٰهٌ ۚ وَهُوَ ٱلْحَكِيمُ ٱلْعَلِيمُ"
 translation: "And it is He who is God in the heaven and God in the earth, and He is the All-Wise, the All-Knowing."
 word_count: 11
 estimated_duration: "50-58 minutes"

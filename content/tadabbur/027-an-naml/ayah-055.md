@@ -6,7 +6,7 @@ ayah_end: 55
 title: "The Question That Refuses to Look Away: Lūṭ and the Knowing Heart"
 slug: "027-055"
 category: tadabbur
-arabic: "أَئِنَّكُمْ لَتَأْتُونَ ٱلرِّجَالَ شَهْوَةً مِّن دُونِ ٱلنِّسَآءِ ۚ بَلْ أَنتُمْ قَوْمٌ تَجْهَلُونَ"
+arabic: "أَئِنَّكُمْ لَتَأْتُونَ ٱلرِّجَالَ شَهْوَةً مِّن دُونِ ٱلنِّسَآءِ ۚ بَلْ أَنتُمْ قَوْمٌ تَجْهَلُونَ"
 translation: "Do you really approach men with desire instead of women? You are a people behaving ignorantly."
 word_count: 12
 estimated_duration: "50-55 minutes"

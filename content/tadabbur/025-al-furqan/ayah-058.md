@@ -6,7 +6,7 @@ ayah_end: 58
 title: "Trust the One Who Does Not Die"
 slug: "025-058"
 category: tadabbur
-arabic: "وَتَوَكَّلْ عَلَى ٱلْحَىِّ ٱلَّذِى لَا يَمُوتُ وَسَبِّحْ بِحَمْدِهِۦ ۚ وَكَفَىٰ بِهِۦ بِذُنُوبِ عِبَادِهِۦ خَبِيرًۢا"
+arabic: "وَتَوَكَّلْ عَلَى ٱلْحَىِّ ٱلَّذِى لَا يَمُوتُ وَسَبِّحْ بِحَمْدِهِۦ ۚ وَكَفَىٰ بِهِۦ بِذُنُوبِ عِبَادِهِۦ خَبِيرًا"
 translation: "And place your trust in the Living One who does not die, and glorify Him with His praise. And sufficient is He, regarding the sins of His servants, as All-Aware."
 word_count: 14
 estimated_duration: "50-58 minutes"

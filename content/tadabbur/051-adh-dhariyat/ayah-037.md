@@ -6,7 +6,7 @@ ayah_end: 37
 title: "The Ruins That Only the Trembling Heart Can Read"
 slug: "051-037"
 category: tadabbur
-arabic: "وَتَرَكْنَا فِيهَآ ءَايَةً لِّلَّذِينَ يَخَافُونَ ٱلْعَذَابَ ٱلْأَلِيمَ"
+arabic: "وَتَرَكْنَا فِيهَآ ءَايَةً لِّلَّذِينَ يَخَافُونَ ٱلْعَذَابَ ٱلْأَلِيمَ"
 translation: "And We left therein a Sign for those who fear the painful punishment."
 word_count: 7
 estimated_duration: "50-58 minutes"

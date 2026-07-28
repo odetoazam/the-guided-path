@@ -6,7 +6,7 @@ ayah_end: 38
 title: "The Brick and the Ladder: When Power Builds Its Own Theology"
 slug: "028-038"
 category: tadabbur
-arabic: "وَقَالَ فِرْعَوْنُ يَٰٓأَيُّهَا ٱلْمَلَأُ مَا عَلِمْتُ لَكُم مِّنْ إِلَٰهٍ غَيْرِى فَأَوْقِدْ لِى يَٰهَٰمَٰنُ عَلَى ٱلطِّينِ فَٱجْعَل لِّى صَرْحًا لَّعَلِّىٓ أَطَّلِعُ إِلَىٰٓ إِلَٰهِ مُوسَىٰ وَإِنِّى لَأَظُنُّهُۥ مِنَ ٱلْكَٰذِبِينَ"
+arabic: "وَقَالَ فِرْعَوْنُ يَـٰٓأَيُّهَا ٱلْمَلَأُ مَا عَلِمْتُ لَكُم مِّنْ إِلَـٰهٍ غَيْرِى فَأَوْقِدْ لِى يَـٰهَـٰمَـٰنُ عَلَى ٱلطِّينِ فَٱجْعَل لِّى صَرْحًا لَّعَلِّىٓ أَطَّلِعُ إِلَىٰٓ إِلَـٰهِ مُوسَىٰ وَإِنِّى لَأَظُنُّهُۥ مِنَ ٱلْكَـٰذِبِينَ"
 translation: "And Pharaoh said, 'O chiefs, I do not know of any god for you other than myself. So kindle for me, O Haman, [a fire] upon the clay and make for me a tower that I might look at the God of Moses — and indeed, I do think he is among the liars.'"
 word_count: 1450
 estimated_duration: "50-55 minutes"

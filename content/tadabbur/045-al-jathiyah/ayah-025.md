@@ -6,7 +6,7 @@ ayah_end: 25
 title: "When the Only Answer Is a Demand: The Counterfeit Argument"
 slug: "045-025"
 category: tadabbur
-arabic: "وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَـٰتُنَا بَيِّنَـٰتٍ مَّا كَانَ حُجَّتَهُمْ إِلَّآ أَن قَالُوا۟ ٱئْتُوا۟ بِـَٔابَآئِنَآ إِن كُنتُمْ صَـٰدِقِينَ"
+arabic: "وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَـٰتُنَا بَيِّنَـٰتٍ مَّا كَانَ حُجَّتَهُمْ إِلَّآ أَن قَالُوا۟ ٱئْتُوا۟ بِـَٔابَآئِنَآ إِن كُنتُمْ صَـٰدِقِينَ"
 translation: "And when Our verses are recited to them as clear evidences, their only argument is to say, 'Bring back our forefathers, if you are truthful.'"
 word_count: 16
 estimated_duration: "50-58 minutes"

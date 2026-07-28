@@ -6,7 +6,7 @@ ayah_end: 20
 title: "The Judge Who Hears and Sees — and the gods Who Settle Nothing"
 slug: "040-020"
 category: tadabbur
-arabic: "وَٱللَّهُ يَقْضِى بِٱلْحَقِّ ۖ وَٱلَّذِينَ يَدْعُونَ مِن دُونِهِۦ لَا يَقْضُونَ بِشَىْءٍ ۗ إِنَّ ٱللَّهَ هُوَ ٱلسَّمِيعُ ٱلْبَصِيرُ"
+arabic: "وَٱللَّهُ يَقْضِى بِٱلْحَقِّ ۖ وَٱلَّذِينَ يَدْعُونَ مِن دُونِهِۦ لَا يَقْضُونَ بِشَىْءٍ ۗ إِنَّ ٱللَّهَ هُوَ ٱلسَّمِيعُ ٱلْبَصِيرُ"
 translation: "And Allah judges with truth, while those they call upon besides Him judge nothing at all. Indeed, it is Allah who is the All-Hearing, the All-Seeing."
 word_count: 15
 estimated_duration: "50-58 minutes"

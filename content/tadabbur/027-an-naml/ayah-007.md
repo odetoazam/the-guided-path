@@ -6,7 +6,7 @@ ayah_end: 7
 title: "He Thought He Was Going for Warmth"
 slug: "027-007"
 category: tadabbur
-arabic: "إِذْ قَالَ مُوسَىٰ لِأَهْلِهِ إِنِّي آنَسْتُ نَارًا سَآتِيكُم مِّنْهَا بِخَبَرٍ أَوْ آتِيكُم بِشِهَابٍ قَبَسٍ لَّعَلَّكُمْ تَصْطَلُونَ"
+arabic: "إِذْ قَالَ مُوسَىٰ لِأَهْلِهِۦٓ إِنِّىٓ ءَانَسْتُ نَارًا سَـَٔاتِيكُم مِّنْهَا بِخَبَرٍ أَوْ ءَاتِيكُم بِشِهَابٍ قَبَسٍ لَّعَلَّكُمْ تَصْطَلُونَ"
 translation: "When Moses said to his family, 'I have perceived a fire. I will bring you news from it, or bring you a burning brand — perhaps you may warm yourselves.'"
 word_count: 16
 estimated_duration: "48-55 minutes"

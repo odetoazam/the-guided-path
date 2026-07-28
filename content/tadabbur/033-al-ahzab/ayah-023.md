@@ -6,7 +6,7 @@ ayah_end: 23
 title: "Men Who Were True: The Vow Kept When Watching Stopped"
 slug: "033-023"
 category: tadabbur
-arabic: "مِّنَ ٱلْمُؤْمِنِينَ رِجَالٌ صَدَقُوا۟ مَا عَـٰهَدُوا۟ ٱللَّهَ عَلَيْهِ ۖ فَمِنْهُم مَّن قَضَىٰ نَحْبَهُۥ وَمِنْهُم مَّن يَنتَظِرُ ۖ وَمَا بَدَّلُوا۟ تَبْدِيلًا"
+arabic: "مِّنَ ٱلْمُؤْمِنِينَ رِجَالٌ صَدَقُوا۟ مَا عَـٰهَدُوا۟ ٱللَّهَ عَلَيْهِ ۖ فَمِنْهُم مَّن قَضَىٰ نَحْبَهُۥ وَمِنْهُم مَّن يَنتَظِرُ ۖ وَمَا بَدَّلُوا۟ تَبْدِيلًا"
 translation: "Among the believers are men who have been true to what they pledged to Allah. Some of them have fulfilled their vow, and some are still waiting — and they have not changed in the slightest."
 word_count: 22
 estimated_duration: "50-55 minutes"

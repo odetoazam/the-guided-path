@@ -4,7 +4,7 @@ surah_name: "Al-Baqarah"
 ayah_start: 57
 ayah_end: 57
 title: "Cloud Shade and Heavenly Food — Why Ingratitude Only Hurts the Ingrate"
-arabic: "وَظَلَّلْنَا عَلَيْكُمُ ٱلْغَمَامَ وَأَنزَلْنَا عَلَيْكُمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ ۖ كُلُوا۟ مِن طَيِّبَـٰتِ مَا رَزَقْنَـٰكُمْ ۖ وَمَا ظَلَمُونَا وَلَـٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ"
+arabic: "وَظَلَّلْنَا عَلَيْكُمُ ٱلْغَمَامَ وَأَنزَلْنَا عَلَيْكُمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ ۖ كُلُوا۟ مِن طَيِّبَـٰتِ مَا رَزَقْنَـٰكُمْ ۖ وَمَا ظَلَمُونَا وَلَـٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ"
 translation: "And We shaded you with clouds and sent down to you manna and quail, [saying], 'Eat from the good things with which We have provided you.' And they did not wrong Us, but they were wronging themselves."
 word_count: 34
 estimated_duration: "48-55 minutes"

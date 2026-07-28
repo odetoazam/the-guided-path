@@ -6,7 +6,7 @@ ayah_end: 54
 title: "Already Encompassed — The Punishment They Could Not See"
 slug: "029-054"
 category: tadabbur
-arabic: "يَسْتَعْجِلُونَكَ بِٱلْعَذَابِ وَإِنَّ جَهَنَّمَ لَمُحِيطَةٌۢ بِٱلْكَـٰفِرِينَ"
+arabic: "يَسْتَعْجِلُونَكَ بِٱلْعَذَابِ وَإِنَّ جَهَنَّمَ لَمُحِيطَةٌۢ بِٱلْكَـٰفِرِينَ"
 translation: "They urge you to hasten the punishment. And indeed, Hell is encompassing the disbelievers."
 word_count: 9
 estimated_duration: "50-58 minutes"

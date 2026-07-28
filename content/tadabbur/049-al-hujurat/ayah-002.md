@@ -6,7 +6,7 @@ ayah_end: 2
 title: "The Voice That Sinks the Deeds: Reverence, and the Loss You Never Feel"
 slug: "049-002"
 category: tadabbur
-arabic: "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تَرْفَعُوٓاْ أَصْوَٰتَكُمْ فَوْقَ صَوْتِ ٱلنَّبِىِّ وَلَا تَجْهَرُواْ لَهُۥ بِٱلْقَوْلِ كَجَهْرِ بَعْضِكُمْ لِبَعْضٍ أَن تَحْبَطَ أَعْمَٰلُكُمْ وَأَنتُمْ لَا تَشْعُرُونَ"
+arabic: "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَرْفَعُوٓا۟ أَصْوَٰتَكُمْ فَوْقَ صَوْتِ ٱلنَّبِىِّ وَلَا تَجْهَرُوا۟ لَهُۥ بِٱلْقَوْلِ كَجَهْرِ بَعْضِكُمْ لِبَعْضٍ أَن تَحْبَطَ أَعْمَـٰلُكُمْ وَأَنتُمْ لَا تَشْعُرُونَ"
 translation: "O you who believe, do not raise your voices above the voice of the Prophet, and do not be loud toward him in speech the way you are loud with one another, lest your deeds come to nothing while you do not even perceive it."
 word_count: 22
 estimated_duration: "50-58 minutes"

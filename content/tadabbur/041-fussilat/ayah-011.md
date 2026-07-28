@@ -19,7 +19,7 @@ interSurah: "Companion to 2:34 (cosmic prostration command); connects to 33:72 (
 methodology: "dirayah (linguistic/rhetorical) with riwayah support on the creation narrative"
 scholarly_status: "Largely settled; minor discussion on whether قَالَ/قَالَتَا is literal speech or metaphorical expression of divine will"
 validated: true
-arabic: "ثُمَّ ٱسْتَوَىٰٓ إِلَى ٱلسَّمَآءِ وَهِىَ دُخَانٌ فَقَالَ لَهَا وَلِلْأَرْضِ ٱئْتِيَا طَوْعًا أَوْ كَرْهًا قَالَتَآ أَتَيْنَا طَآئِعِينَ"
+arabic: "ثُمَّ ٱسْتَوَىٰٓ إِلَى ٱلسَّمَآءِ وَهِىَ دُخَانٌ فَقَالَ لَهَا وَلِلْأَرْضِ ٱئْتِيَا طَوْعًا أَوْ كَرْهًا قَالَتَآ أَتَيْنَا طَآئِعِينَ"
 surah_name: "Fussilat"
 word_count: 3137
 ---

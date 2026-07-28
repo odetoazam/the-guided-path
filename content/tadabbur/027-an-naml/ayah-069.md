@@ -6,7 +6,7 @@ ayah_end: 69
 title: "The Feet Before the Heart — Journey, Sight, and the Ruins That Wait"
 slug: "027-069"
 category: tadabbur
-arabic: "قُلْ سِيرُوا فِى ٱلْأَرْضِ فَٱنظُرُوا كَيْفَ كَانَ عَٰقِبَةُ ٱلْمُجْرِمِينَ"
+arabic: "قُلْ سِيرُوا۟ فِى ٱلْأَرْضِ فَٱنظُرُوا۟ كَيْفَ كَانَ عَـٰقِبَةُ ٱلْمُجْرِمِينَ"
 translation: "Say: 'Journey through the earth, and observe how was the fate of the criminals.'"
 word_count: 4800
 estimated_duration: "48-55 minutes"

@@ -6,7 +6,7 @@ ayah_end: 4
 title: "When the Clarity Itself Divided Them: The Knowledge That Splits the Heart"
 slug: "098-004"
 category: tadabbur
-arabic: "وَمَا تَفَرَّقَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ إِلَّا مِنۢ بَعْدِ مَا جَآءَتْهُمُ ٱلْبَيِّنَةُ"
+arabic: "وَمَا تَفَرَّقَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ إِلَّا مِنۢ بَعْدِ مَا جَآءَتْهُمُ ٱلْبَيِّنَةُ"
 translation: "And those who were given the Scripture did not become divided until after the clear evidence had come to them."
 word_count: 9
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 6
 title: "The Quran Cast Upon You: Receiving Revelation From the Wise, the Knowing"
 slug: "027-006"
 category: tadabbur
-arabic: "وَإِنَّكَ لَتُلَقَّى ٱلْقُرْءَانَ مِن لَّدُنْ حَكِيمٍ عَلِيمٍ"
+arabic: "وَإِنَّكَ لَتُلَقَّى ٱلْقُرْءَانَ مِن لَّدُنْ حَكِيمٍ عَلِيمٍ"
 translation: "And indeed, you are receiving the Quran from One who is All-Wise, All-Knowing."
 word_count: 8
 estimated_duration: "48-55 minutes"

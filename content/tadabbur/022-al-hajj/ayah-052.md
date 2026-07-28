@@ -6,7 +6,7 @@ ayah_end: 52
 title: "When Shaytan Casts Into Yearning: The Pattern That Even Prophets Walked"
 slug: "022-052"
 category: tadabbur
-arabic: "وَمَآ أَرْسَلْنَا مِن قَبْلِكَ مِن رَّسُولٍ وَلَا نَبِيٍّ إِلَّآ إِذَا تَمَنَّىٰٓ أَلْقَى ٱلشَّيْطَـٰنُ فِىٓ أُمْنِيَّتِهِۦ فَيَنسَخُ ٱللَّهُ مَا يُلْقِى ٱلشَّيْطَـٰنُ ثُمَّ يُحْكِمُ ٱللَّهُ ءَايَـٰتِهِۦ ۗ وَٱللَّهُ عَلِيمٌ حَكِيمٌ"
+arabic: "وَمَآ أَرْسَلْنَا مِن قَبْلِكَ مِن رَّسُولٍ وَلَا نَبِىٍّ إِلَّآ إِذَا تَمَنَّىٰٓ أَلْقَى ٱلشَّيْطَـٰنُ فِىٓ أُمْنِيَّتِهِۦ فَيَنسَخُ ٱللَّهُ مَا يُلْقِى ٱلشَّيْطَـٰنُ ثُمَّ يُحْكِمُ ٱللَّهُ ءَايَـٰتِهِۦ ۗ وَٱللَّهُ عَلِيمٌ حَكِيمٌ"
 translation: "And We did not send before you any messenger or prophet except that when he yearned [or recited], Shaytan cast something into his yearning. But Allah nullifies what Shaytan casts; then Allah makes His signs firm and precise. And Allah is All-Knowing, All-Wise."
 word_count: 24
 estimated_duration: "50-58 minutes"

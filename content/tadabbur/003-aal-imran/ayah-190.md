@@ -6,7 +6,7 @@ ayah_end: 190
 title: "Signs for the People of Inner Core"
 slug: "003-190"
 category: tadabbur
-arabic: "إِنَّ فِى خَلْقِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَٱخْتِلَـٰفِ ٱلَّيْلِ وَٱلنَّهَارِ لَـَٔايَـٰتٍ لِّأُو۟لِى ٱلْأَلْبَـٰبِ"
+arabic: "إِنَّ فِى خَلْقِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَٱخْتِلَـٰفِ ٱلَّيْلِ وَٱلنَّهَارِ لَـَٔايَـٰتٍ لِّأُو۟لِى ٱلْأَلْبَـٰبِ"
 translation: "Indeed, in the creation of the heavens and the earth and the alternation of the night and the day are surely signs for people of inner core."
 word_count: null
 estimated_duration: "45-55 minutes"

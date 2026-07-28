@@ -6,7 +6,7 @@ ayah_end: 29
 title: "The Unwatched Space That Was Never Empty"
 slug: "024-029"
 category: tadabbur
-arabic: "لَيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَدْخُلُوا بُيُوتًا غَيْرَ مَسْكُونَةٍ فِيهَا مَتَاعٌ لَّكُمْ ۚ وَاللَّهُ يَعْلَمُ مَا تُبْدُونَ وَمَا تَكْتُمُونَ"
+arabic: "لَّيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَدْخُلُوا۟ بُيُوتًا غَيْرَ مَسْكُونَةٍ فِيهَا مَتَـٰعٌ لَّكُمْ ۚ وَٱللَّهُ يَعْلَمُ مَا تُبْدُونَ وَمَا تَكْتُمُونَ"
 translation: "There is no blame upon you for entering uninhabited houses in which there is provision for you. And Allah knows what you reveal and what you conceal."
 word_count: 5700
 estimated_duration: "50-58 minutes"

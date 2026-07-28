@@ -6,7 +6,7 @@ ayah_end: 22
 title: "The Deeds That Bloated: When a Lifetime of Work Collapses to Nothing"
 slug: "003-022"
 category: tadabbur
-arabic: "أُو۟لَـٰٓئِكَ ٱلَّذِينَ حَبِطَتْ أَعْمَـٰلُهُمْ فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ وَمَا لَهُم مِّن نَّـٰصِرِينَ"
+arabic: "أُو۟لَـٰٓئِكَ ٱلَّذِينَ حَبِطَتْ أَعْمَـٰلُهُمْ فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ وَمَا لَهُم مِّن نَّـٰصِرِينَ"
 translation: "Those are the ones whose deeds have become worthless in this world and the Hereafter, and they will have no helpers."
 word_count: 11
 estimated_duration: "50-58 minutes"

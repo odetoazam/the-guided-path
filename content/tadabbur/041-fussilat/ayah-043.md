@@ -6,7 +6,7 @@ ayah_end: 43
 title: "The Erased Voice and the Unnamed Mercy: Consolation in the Tense of Every Prophet"
 slug: "041-043"
 category: tadabbur
-arabic: "مَّا يُقَالُ لَكَ إِلَّا مَا قَدْ قِيلَ لِلرُّسُلِ مِن قَبْلِكَ ۚ إِنَّ رَبَّكَ لَذُو مَغْفِرَةٍ وَذُو عِقَابٍ أَلِيمٍ"
+arabic: "مَّا يُقَالُ لَكَ إِلَّا مَا قَدْ قِيلَ لِلرُّسُلِ مِن قَبْلِكَ ۚ إِنَّ رَبَّكَ لَذُو مَغْفِرَةٍ وَذُو عِقَابٍ أَلِيمٍ"
 translation: "Nothing is said to you except what was already said to the messengers before you. Indeed, your Lord is the Possessor of forgiveness and the Possessor of painful penalty."
 word_count: 7100
 estimated_duration: "50-58 minutes"

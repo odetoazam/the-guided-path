@@ -6,7 +6,7 @@ ayah_end: 104
 title: "The Pain Is Equal; The Hope Is Not"
 slug: "004-104"
 category: tadabbur
-arabic: "وَلَا تَهِنُواْ فِى ٱبْتِغَآءِ ٱلْقَوْمِ ۖ إِن تَكُونُواْ تَأْلَمُونَ فَإِنَّهُمْ يَأْلَمُونَ كَمَا تَأْلَمُونَ ۖ وَتَرْجُونَ مِنَ ٱللَّهِ مَا لَا يَرْجُونَ ۗ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًا"
+arabic: "وَلَا تَهِنُوا۟ فِى ٱبْتِغَآءِ ٱلْقَوْمِ ۖ إِن تَكُونُوا۟ تَأْلَمُونَ فَإِنَّهُمْ يَأْلَمُونَ كَمَا تَأْلَمُونَ ۖ وَتَرْجُونَ مِنَ ٱللَّهِ مَا لَا يَرْجُونَ ۗ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًا"
 translation: "Do not weaken in pursuit of the enemy. If you are suffering, indeed they are suffering just as you are suffering — yet you hope from Allah what they cannot hope for. And Allah is All-Knowing, All-Wise."
 word_count: 4050
 estimated_duration: "50-58 minutes"

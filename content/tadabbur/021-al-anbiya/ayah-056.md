@@ -6,7 +6,7 @@ ayah_end: 56
 title: "Bal — The One Who Split Them Into Being, And the Splitting Inside You"
 slug: "021-056"
 category: tadabbur
-arabic: "قَالَ بَل رَّبُّكُمْ رَبُّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ٱلَّذِى فَطَرَهُنَّ وَأَنَا۠ عَلَىٰ ذَٰلِكُم مِّنَ ٱلشَّـٰهِدِينَ"
+arabic: "قَالَ بَل رَّبُّكُمْ رَبُّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ٱلَّذِى فَطَرَهُنَّ وَأَنَا۠ عَلَىٰ ذَٰلِكُم مِّنَ ٱلشَّـٰهِدِينَ"
 translation: "He said: 'Rather — your Lord is the Lord of the heavens and the earth, the One who originated them by splitting them into being. And I am, of that, among the witnesses.'"
 word_count: 14
 estimated_duration: "50-58 minutes"

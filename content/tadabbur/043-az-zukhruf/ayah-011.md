@@ -6,7 +6,7 @@ ayah_end: 11
 title: "The Measure of Mercy: How Rain Rehearses Your Resurrection"
 slug: "043-011"
 category: tadabbur
-arabic: "وَٱلَّذِى نَزَّلَ مِنَ ٱلسَّمَآءِ مَآءًۢ بِقَدَرٍ فَأَنشَرْنَا بِهِۦ بَلْدَةً مَّيْتًا ۚ كَذَٰلِكَ تُخْرَجُونَ"
+arabic: "وَٱلَّذِى نَزَّلَ مِنَ ٱلسَّمَآءِ مَآءًۢ بِقَدَرٍ فَأَنشَرْنَا بِهِۦ بَلْدَةً مَّيْتًا ۚ كَذَٰلِكَ تُخْرَجُونَ"
 translation: "And He who sends down water from the sky in due measure — then We revive with it a dead land. Thus will you be brought forth."
 word_count: 12
 estimated_duration: "50-58 minutes"

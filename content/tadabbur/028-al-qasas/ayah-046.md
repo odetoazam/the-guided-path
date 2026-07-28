@@ -6,7 +6,7 @@ ayah_end: 46
 title: "The Witness Who Was Not There: Mercy as Proof of Prophecy"
 slug: "028-046"
 category: tadabbur
-arabic: "وَمَا كُنتَ بِجَانِبِ ٱلطُّورِ إِذْ نَادَيْنَا وَلَـٰكِن رَّحْمَةً مِّن رَّبِّكَ لِتُنذِرَ قَوْمًا مَّآ أَتَىٰهُم مِّن نَّذِيرٍ مِّن قَبْلِكَ لَعَلَّهُمْ يَتَذَكَّرُونَ"
+arabic: "وَمَا كُنتَ بِجَانِبِ ٱلطُّورِ إِذْ نَادَيْنَا وَلَـٰكِن رَّحْمَةً مِّن رَّبِّكَ لِتُنذِرَ قَوْمًا مَّآ أَتَىٰهُم مِّن نَّذِيرٍ مِّن قَبْلِكَ لَعَلَّهُمْ يَتَذَكَّرُونَ"
 translation: "And you were not on the side of the Mount when We called out — but [it was sent] as a mercy from your Lord, so that you may warn a people to whom no warner had come before you, that perhaps they may take heed."
 word_count: 28
 estimated_duration: "50-58 minutes"

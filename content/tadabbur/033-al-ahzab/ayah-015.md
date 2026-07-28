@@ -6,7 +6,7 @@ ayah_end: 15
 title: "The Covenant That Outlives the Moment You Made It"
 slug: "033-015"
 category: tadabbur
-arabic: "وَلَقَدْ كَانُوا۟ عَـٰهَدُوا۟ ٱللَّهَ مِن قَبْلُ لَا يُوَلُّونَ ٱلْأَدْبَـٰرَ ۚ وَكَانَ عَهْدُ ٱللَّهِ مَسْـُٔولًۭا"
+arabic: "وَلَقَدْ كَانُوا۟ عَـٰهَدُوا۟ ٱللَّهَ مِن قَبْلُ لَا يُوَلُّونَ ٱلْأَدْبَـٰرَ ۚ وَكَانَ عَهْدُ ٱللَّهِ مَسْـُٔولًا"
 translation: "And they had already promised Allah before that they would not turn their backs. And the promise to Allah is to be questioned about."
 word_count: 13
 estimated_duration: "50-58 minutes"

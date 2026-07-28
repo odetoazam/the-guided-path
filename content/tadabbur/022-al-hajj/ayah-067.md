@@ -6,7 +6,7 @@ ayah_end: 67
 title: "For Every Nation a Rite — The Confidence That Refuses to Be Drawn Into the Quarrel"
 slug: "022-067"
 category: tadabbur
-arabic: "لِّكُلِّ أُمَّةٍ جَعَلْنَا مَنسَكًا هُمْ نَاسِكُوهُ ۖ فَلَا يُنَازِعُنَّكَ فِي ٱلْأَمْرِ ۚ وَٱدْعُ إِلَىٰ رَبِّكَ ۖ إِنَّكَ لَعَلَىٰ هُدًى مُّسْتَقِيمٍ"
+arabic: "لِّكُلِّ أُمَّةٍ جَعَلْنَا مَنسَكًا هُمْ نَاسِكُوهُ ۖ فَلَا يُنَـٰزِعُنَّكَ فِى ٱلْأَمْرِ ۚ وَٱدْعُ إِلَىٰ رَبِّكَ ۖ إِنَّكَ لَعَلَىٰ هُدًى مُّسْتَقِيمٍ"
 translation: "For every nation We have appointed a rite that they are to perform — so let them not contend with you regarding the matter. And invite to your Lord. Indeed, you are upon a straight guidance."
 word_count: 17
 estimated_duration: "48-55 minutes"

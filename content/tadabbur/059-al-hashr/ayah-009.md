@@ -6,7 +6,7 @@ ayah_end: 9
 title: "The Chest That Found No Hunger: Dwelling in Faith and the Mercy of Being Saved from Yourself"
 slug: "059-009"
 category: tadabbur
-arabic: "وَٱلَّذِينَ تَبَوَّءُو ٱلدَّارَ وَٱلْإِيمَـٰنَ مِن قَبْلِهِمْ يُحِبُّونَ مَنْ هَاجَرَ إِلَيْهِمْ وَلَا يَجِدُونَ فِى صُدُورِهِمْ حَاجَةً مِّمَّآ أُوتُواْ وَيُؤْثِرُونَ عَلَىٰٓ أَنفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌۚ وَمَن يُوقَ شُحَّ نَفْسِهِۦ فَأُوْلَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ"
+arabic: "وَٱلَّذِينَ تَبَوَّءُو ٱلدَّارَ وَٱلْإِيمَـٰنَ مِن قَبْلِهِمْ يُحِبُّونَ مَنْ هَاجَرَ إِلَيْهِمْ وَلَا يَجِدُونَ فِى صُدُورِهِمْ حَاجَةً مِّمَّآ أُوتُوا۟ وَيُؤْثِرُونَ عَلَىٰٓ أَنفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌ ۚ وَمَن يُوقَ شُحَّ نَفْسِهِۦ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ"
 translation: "And those who had settled in the home and in faith before them — they love whoever emigrated to them, and they find in their chests no need toward what the others were given, and they prefer others over themselves, even though they themselves are in want. And whoever is shielded from the greed of his own soul — it is they, they are the ones who succeed."
 word_count: 31
 estimated_duration: "50-58 minutes"

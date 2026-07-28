@@ -6,7 +6,7 @@ ayah_end: 55
 title: "The Three Commands at the Edge of the Day: Patience Welded to a Promise"
 slug: "040-055"
 category: tadabbur
-arabic: "فَٱصْبِرْ إِنَّ وَعْدَ ٱللَّهِ حَقٌّ وَٱسْتَغْفِرْ لِذَنۢبِكَ وَسَبِّحْ بِحَمْدِ رَبِّكَ بِٱلْعَشِىِّ وَٱلْإِبْكَـٰرِ"
+arabic: "فَٱصْبِرْ إِنَّ وَعْدَ ٱللَّهِ حَقٌّ وَٱسْتَغْفِرْ لِذَنۢبِكَ وَسَبِّحْ بِحَمْدِ رَبِّكَ بِٱلْعَشِىِّ وَٱلْإِبْكَـٰرِ"
 translation: "So be patient — indeed, the promise of Allah is true. And ask forgiveness for your sin, and glorify the praise of your Lord in the evening and the morning."
 word_count: 12
 estimated_duration: "50-58 minutes"

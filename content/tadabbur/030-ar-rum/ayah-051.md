@@ -6,7 +6,7 @@ ayah_end: 51
 title: "The Yellow Wind: When the Gift Turns and Ingratitude Is Exposed"
 slug: "030-051"
 category: tadabbur
-arabic: "وَلَئِنْ أَرْسَلْنَا رِيحًا فَرَأَوْهُ مُصْفَرًّا لَّظَلُّوا۟ مِن بَعْدِهِۦ يَكْفُرُونَ"
+arabic: "وَلَئِنْ أَرْسَلْنَا رِيحًا فَرَأَوْهُ مُصْفَرًّا لَّظَلُّوا۟ مِنۢ بَعْدِهِۦ يَكْفُرُونَ"
 translation: "And if We sent a wind and they saw it turn yellow, they would surely persist after that in disbelief."
 word_count: 9
 estimated_duration: "48-55 minutes"

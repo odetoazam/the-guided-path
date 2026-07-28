@@ -6,7 +6,7 @@ ayah_end: 59
 title: "The Garment That Says Who You Are: Recognition, Dignity, and the Mercy of Being Known"
 slug: "033-059"
 category: tadabbur
-arabic: "يَٰٓأَيُّهَا ٱلنَّبِىُّ قُل لِّأَزْوَٰجِكَ وَبَنَاتِكَ وَنِسَآءِ ٱلْمُؤْمِنِينَ يُدْنِينَ عَلَيْهِنَّ مِن جَلَٰبِيبِهِنَّ ۚ ذَٰلِكَ أَدْنَىٰٓ أَن يُعْرَفْنَ فَلَا يُؤْذَيْنَ ۗ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا"
+arabic: "يَـٰٓأَيُّهَا ٱلنَّبِىُّ قُل لِّأَزْوَٰجِكَ وَبَنَاتِكَ وَنِسَآءِ ٱلْمُؤْمِنِينَ يُدْنِينَ عَلَيْهِنَّ مِن جَلَـٰبِيبِهِنَّ ۚ ذَٰلِكَ أَدْنَىٰٓ أَن يُعْرَفْنَ فَلَا يُؤْذَيْنَ ۗ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا"
 translation: "O Prophet, tell your wives and your daughters and the women of the believers to draw their outer garments closer over themselves. That is more suitable, so that they will be recognized and not harmed. And Allah is ever Forgiving and Merciful."
 word_count: 33
 estimated_duration: "50-58 minutes"

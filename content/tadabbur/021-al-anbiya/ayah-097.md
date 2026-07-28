@@ -6,7 +6,7 @@ ayah_end: 97
 title: "When the Eyes Finally Open: The Architecture of Approach in Surah Al-Anbiya"
 slug: "021-097"
 category: tadabbur
-arabic: "وَاقْتَرَبَ الْوَعْدُ الْحَقُّ فَإِذَا هِيَ شَاخِصَةٌ أَبْصَارُ الَّذِينَ كَفَرُوا يَا وَيْلَنَا قَدْ كُنَّا فِي غَفْلَةٍ مِّنْ هَٰذَا بَلْ كُنَّا ظَالِمِينَ"
+arabic: "وَٱقْتَرَبَ ٱلْوَعْدُ ٱلْحَقُّ فَإِذَا هِىَ شَـٰخِصَةٌ أَبْصَـٰرُ ٱلَّذِينَ كَفَرُوا۟ يَـٰوَيْلَنَا قَدْ كُنَّا فِى غَفْلَةٍ مِّنْ هَـٰذَا بَلْ كُنَّا ظَـٰلِمِينَ"
 translation: "And the True Promise has drawn near; then suddenly, fixed and staring are the eyes of those who disbelieved: 'O woe to us — we had indeed been in heedlessness of this; rather, we were wrongdoers.'"
 word_count: 22
 estimated_duration: "50-58 minutes"

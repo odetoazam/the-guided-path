@@ -6,7 +6,7 @@ ayah_end: 3
 title: "Mu'riḍūn: What the Believer Turns Away From"
 slug: "023-003"
 category: tadabbur
-arabic: "وَٱلَّذِينَ هُمْ عَنِ ٱللَّغْوِ مُعْرِضُونَ"
+arabic: "وَٱلَّذِينَ هُمْ عَنِ ٱللَّغْوِ مُعْرِضُونَ"
 translation: "And those who turn away from al-laghw — empty, idle, purposeless speech."
 word_count: 11200
 estimated_duration: "50-58 minutes"

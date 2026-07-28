@@ -6,7 +6,7 @@ ayah_end: 35
 title: "An Hour of a Single Afternoon: The Last Word of Al-Ahqaf and the Patience of the Resolute"
 slug: "046-035"
 category: tadabbur
-arabic: "فَٱصْبِرْ كَمَا صَبَرَ أُو۟لُوا۟ ٱلْعَزْمِ مِنَ ٱلرُّسُلِ وَلَا تَسْتَعْجِل لَّهُمْ ۚ كَأَنَّهُمْ يَوْمَ يَرَوْنَ مَا يُوعَدُونَ لَمْ يَلْبَثُوٓا۟ إِلَّا سَاعَةً مِّن نَّهَارٍۭ ۚ بَلَـٰغٌ ۚ فَهَلْ يُهْلَكُ إِلَّا ٱلْقَوْمُ ٱلْفَـٰسِقُونَ"
+arabic: "فَٱصْبِرْ كَمَا صَبَرَ أُو۟لُوا۟ ٱلْعَزْمِ مِنَ ٱلرُّسُلِ وَلَا تَسْتَعْجِل لَّهُمْ ۚ كَأَنَّهُمْ يَوْمَ يَرَوْنَ مَا يُوعَدُونَ لَمْ يَلْبَثُوٓا۟ إِلَّا سَاعَةً مِّن نَّهَارٍۭ ۚ بَلَـٰغٌ ۚ فَهَلْ يُهْلَكُ إِلَّا ٱلْقَوْمُ ٱلْفَـٰسِقُونَ"
 translation: "So be patient, as the messengers of firm resolve were patient, and do not seek to hasten [the outcome] for them. The Day they see what they were promised, it will be as if they had lingered no longer than a single hour of a day. A clear delivery. So will any be destroyed except the people who break faith?"
 word_count: 27
 estimated_duration: "50-58 minutes"

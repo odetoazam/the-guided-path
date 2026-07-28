@@ -6,7 +6,7 @@ ayah_end: 17
 title: "The Ground Beneath the Climb: Faith, and the Patience and Mercy We Hand Each Other"
 slug: "090-017"
 category: tadabbur
-arabic: "ثُمَّ كَانَ مِنَ ٱلَّذِينَ ءَامَنُوا۟ وَتَوَاصَوْا۟ بِٱلصَّبْرِ وَتَوَاصَوْا۟ بِٱلْمَرْحَمَةِ"
+arabic: "ثُمَّ كَانَ مِنَ ٱلَّذِينَ ءَامَنُوا۟ وَتَوَاصَوْا۟ بِٱلصَّبْرِ وَتَوَاصَوْا۟ بِٱلْمَرْحَمَةِ"
 translation: "Then he was of those who believed, and enjoined one another to patience, and enjoined one another to compassion."
 word_count: 9
 estimated_duration: "50-58 minutes"

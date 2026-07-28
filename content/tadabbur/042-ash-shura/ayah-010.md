@@ -6,7 +6,7 @@ ayah_end: 10
 title: "Whatever You Differ In: The Direction of a Returning Heart"
 slug: "042-010"
 category: tadabbur
-arabic: "وَمَا ٱخْتَلَفْتُمْ فِيهِ مِن شَىْءٍ فَحُكْمُهُۥٓ إِلَى ٱللَّهِ ۚ ذَٰلِكُمُ ٱللَّهُ رَبِّى عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ أُنِيبُ"
+arabic: "وَمَا ٱخْتَلَفْتُمْ فِيهِ مِن شَىْءٍ فَحُكْمُهُۥٓ إِلَى ٱللَّهِ ۚ ذَٰلِكُمُ ٱللَّهُ رَبِّى عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ أُنِيبُ"
 translation: "And whatever you differ over — of anything — its ruling rests with Allah. That is Allah, my Lord; upon Him I have placed my trust, and to Him I keep turning back."
 word_count: 6100
 estimated_duration: "50-58 minutes"

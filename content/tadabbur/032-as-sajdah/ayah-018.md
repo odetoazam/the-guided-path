@@ -6,7 +6,7 @@ ayah_end: 18
 title: "The Question That Refuses to Let You Sleep"
 slug: "032-018"
 category: tadabbur
-arabic: "أَفَمَن كَانَ مُؤْمِنًا كَمَن كَانَ فَاسِقًا ۚ لَّا يَسْتَوُونَ"
+arabic: "أَفَمَن كَانَ مُؤْمِنًا كَمَن كَانَ فَاسِقًا ۚ لَّا يَسْتَوُۥنَ"
 translation: "Is then the one who is a believer like the one who is a defiantly disobedient? They are not equal."
 word_count: 9
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 9
 title: "Above the Prayer: The Guardian Posture"
 slug: "023-009"
 category: tadabbur
-arabic: "وَٱلَّذِينَ هُمْ عَلَىٰ صَلَوَٰتِهِمْ يُحَافِظُونَ"
+arabic: "وَٱلَّذِينَ هُمْ عَلَىٰ صَلَوَٰتِهِمْ يُحَافِظُونَ"
 translation: "And those who, over their prayers, sustain a watchful guard."
 word_count: 7
 estimated_duration: "48-55 minutes"

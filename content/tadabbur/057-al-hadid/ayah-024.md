@@ -6,7 +6,7 @@ ayah_end: 24
 title: "The Hand That Recruits: Stinginess, Turning Away, and the God Who Needs Nothing"
 slug: "057-024"
 category: tadabbur
-arabic: "ٱلَّذِينَ يَبْخَلُونَ وَيَأْمُرُونَ ٱلنَّاسَ بِٱلْبُخْلِ ۗ وَمَن يَتَوَلَّ فَإِنَّ ٱللَّهَ هُوَ ٱلْغَنِىُّ ٱلْحَمِيدُ"
+arabic: "ٱلَّذِينَ يَبْخَلُونَ وَيَأْمُرُونَ ٱلنَّاسَ بِٱلْبُخْلِ ۗ وَمَن يَتَوَلَّ فَإِنَّ ٱللَّهَ هُوَ ٱلْغَنِىُّ ٱلْحَمِيدُ"
 translation: "Those who are stingy and enjoin upon people stinginess. And whoever turns away — then indeed Allah is He who is the Free of all need, the Praiseworthy."
 word_count: 12
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 21
 title: "The Caravan That Waits: How Grace Lifts the Children Without Costing the Parents"
 slug: "052-021"
 category: tadabbur
-arabic: "وَالَّذِينَ آمَنُوا وَاتَّبَعَتْهُمْ ذُرِّيَّتُهُم بِإِيمَانٍ أَلْحَقْنَا بِهِمْ ذُرِّيَّتَهُمْ وَمَا أَلَتْنَاهُم مِّنْ عَمَلِهِم مِّن شَيْءٍ ۚ كُلُّ امْرِئٍ بِمَا كَسَبَ رَهِينٌ"
+arabic: "وَٱلَّذِينَ ءَامَنُوا۟ وَٱتَّبَعَتْهُمْ ذُرِّيَّتُهُم بِإِيمَـٰنٍ أَلْحَقْنَا بِهِمْ ذُرِّيَّتَهُمْ وَمَآ أَلَتْنَـٰهُم مِّنْ عَمَلِهِم مِّن شَىْءٍ ۚ كُلُّ ٱمْرِئٍۭ بِمَا كَسَبَ رَهِينٌ"
 translation: "And those who believed, and whose offspring followed them in faith — We joined their offspring with them, and We did not diminish anything from their deeds. Every soul is held in pledge for what it has earned."
 word_count: 19
 estimated_duration: "50-58 minutes"

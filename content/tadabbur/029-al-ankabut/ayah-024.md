@@ -6,7 +6,7 @@ ayah_end: 24
 title: "When the Fire Refuses to Burn: Ibrahim and the Logic of Rescue"
 slug: "029-024"
 category: tadabbur
-arabic: "فَمَا كَانَ جَوَابَ قَوْمِهِۦٓ إِلَّآ أَن قَالُوا۟ ٱقْتُلُوهُ أَوْ حَرِّقُوهُ فَأَنجَىٰهُ ٱللَّهُ مِنَ ٱلنَّارِ ۚ إِنَّ فِى ذَٰلِكَ لَءَايَـٰتٍ لِّقَوْمٍ يُؤْمِنُونَ"
+arabic: "فَمَا كَانَ جَوَابَ قَوْمِهِۦٓ إِلَّآ أَن قَالُوا۟ ٱقْتُلُوهُ أَوْ حَرِّقُوهُ فَأَنجَىٰهُ ٱللَّهُ مِنَ ٱلنَّارِ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّقَوْمٍ يُؤْمِنُونَ"
 translation: "And the answer of his people was not but that they said, 'Kill him or burn him.' But Allah saved him from the fire. Indeed in that are signs for a people who believe."
 word_count: 26
 estimated_duration: "50-55 minutes"

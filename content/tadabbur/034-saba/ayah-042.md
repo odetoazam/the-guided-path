@@ -6,7 +6,7 @@ ayah_end: 42
 title: "When 'You' Becomes 'Some': The Day the Network of Human Power Dissolves"
 slug: "034-042"
 category: tadabbur
-arabic: "فَٱلْيَوْمَ لَا يَمْلِكُ بَعْضُكُمْ لِبَعْضٍ نَّفْعًا وَلَا ضَرًّا وَنَقُولُ لِلَّذِينَ ظَلَمُوا۟ ذُوقُوا۟ عَذَابَ ٱلنَّارِ ٱلَّتِى كُنتُم بِهَا تُكَذِّبُونَ"
+arabic: "فَٱلْيَوْمَ لَا يَمْلِكُ بَعْضُكُمْ لِبَعْضٍ نَّفْعًا وَلَا ضَرًّا وَنَقُولُ لِلَّذِينَ ظَلَمُوا۟ ذُوقُوا۟ عَذَابَ ٱلنَّارِ ٱلَّتِى كُنتُم بِهَا تُكَذِّبُونَ"
 translation: "So today none of you possesses for any other any benefit or any harm; and We will say to those who wronged: Taste the punishment of the Fire which you used to deny."
 word_count: 18
 estimated_duration: "50-55 minutes"

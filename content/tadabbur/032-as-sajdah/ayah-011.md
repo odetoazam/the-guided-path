@@ -6,7 +6,7 @@ ayah_end: 11
 title: "The Angel Who Knows Your Name: On Being Taken Fully"
 slug: "032-011"
 category: tadabbur
-arabic: "قُلْ يَتَوَفَّىٰكُم مَّلَكُ ٱلْمَوْتِ ٱلَّذِى وُكِّلَ بِكُمْ ثُمَّ إِلَىٰ رَبِّكُمْ تُرْجَعُونَ"
+arabic: "۞ قُلْ يَتَوَفَّىٰكُم مَّلَكُ ٱلْمَوْتِ ٱلَّذِى وُكِّلَ بِكُمْ ثُمَّ إِلَىٰ رَبِّكُمْ تُرْجَعُونَ"
 translation: "Say: The Angel of Death, who has been entrusted with you, will take you in full. Then to your Lord you will be returned."
 word_count: 11
 estimated_duration: "50-55 minutes"

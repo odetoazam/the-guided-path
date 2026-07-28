@@ -6,7 +6,7 @@ ayah_end: 5
 title: "The Invitation to Rise and the Neck That Twists Away"
 slug: "063-005"
 category: tadabbur
-arabic: "وَإِذَا قِيلَ لَهُمْ تَعَالَوْا۟ يَسْتَغْفِرْ لَكُمْ رَسُولُ ٱللَّهِ لَوَّوْا۟ رُءُوسَهُمْ وَرَأَيْتَهُمْ يَصُدُّونَ وَهُم مُّسْتَكْبِرُونَ"
+arabic: "وَإِذَا قِيلَ لَهُمْ تَعَالَوْا۟ يَسْتَغْفِرْ لَكُمْ رَسُولُ ٱللَّهِ لَوَّوْا۟ رُءُوسَهُمْ وَرَأَيْتَهُمْ يَصُدُّونَ وَهُم مُّسْتَكْبِرُونَ"
 translation: "And when it is said to them, 'Come, the Messenger of Allah will ask forgiveness for you,' they twist their heads aside, and you see them turning away while they are arrogant."
 word_count: 6600
 estimated_duration: "50-58 minutes"

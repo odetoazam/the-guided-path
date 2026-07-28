@@ -6,7 +6,7 @@ ayah_end: 1
 title: "The Lock That Could Not Open Itself: Munfakkīn and the Mercy of the Clear Sign"
 slug: "098-001"
 category: tadabbur
-arabic: "لَمْ يَكُنِ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَـٰبِ وَٱلْمُشْرِكِينَ مُنفَكِّينَ حَتَّىٰ تَأْتِيَهُمُ ٱلْبَيِّنَةُ"
+arabic: "لَمْ يَكُنِ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَـٰبِ وَٱلْمُشْرِكِينَ مُنفَكِّينَ حَتَّىٰ تَأْتِيَهُمُ ٱلْبَيِّنَةُ"
 translation: "Those who disbelieved among the People of the Book and the idolaters were not going to come loose [from their state] until the Clear Sign came to them."
 word_count: 12
 estimated_duration: "50-58 minutes"

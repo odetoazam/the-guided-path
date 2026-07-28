@@ -6,7 +6,7 @@ ayah_end: 49
 title: "The Challenge of the Honest Skeptic: Bring a Book More Guiding"
 slug: "028-049"
 category: tadabbur
-arabic: "قُلْ فَأْتُوا۟ بِكِتَـٰبٍ مِّنْ عِندِ ٱللَّهِ هُوَ أَهْدَىٰ مِنْهُمَآ أَتَّبِعْهُ إِن كُنتُمْ صَـٰدِقِينَ"
+arabic: "قُلْ فَأْتُوا۟ بِكِتَـٰبٍ مِّنْ عِندِ ٱللَّهِ هُوَ أَهْدَىٰ مِنْهُمَآ أَتَّبِعْهُ إِن كُنتُمْ صَـٰدِقِينَ"
 translation: "Say: 'Then bring a Book from Allah that is more guiding than these two — I will follow it — if you are truthful.'"
 word_count: 14
 estimated_duration: "48-55 minutes"

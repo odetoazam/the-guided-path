@@ -6,7 +6,7 @@ ayah_end: 126
 title: "The Circle With No Gap: On Allah's All-Encompassing Presence"
 slug: "004-126"
 category: tadabbur
-arabic: "وَلِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۚ وَكَانَ ٱللَّهُ بِكُلِّ شَىْءٍ مُّحِيطًا"
+arabic: "وَلِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۚ وَكَانَ ٱللَّهُ بِكُلِّ شَىْءٍ مُّحِيطًا"
 translation: "And to Allah belongs whatever is in the heavens and whatever is in the earth. And Allah is ever, of all things, Encompassing."
 word_count: 5800
 estimated_duration: "48-55 minutes"

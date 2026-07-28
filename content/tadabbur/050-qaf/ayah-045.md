@@ -6,7 +6,7 @@ ayah_end: 45
 title: "You Are Not the Compeller: The Freedom of the One Who Only Reminds"
 slug: "050-045"
 category: tadabbur
-arabic: "نَّحْنُ أَعْلَمُ بِمَا يَقُولُونَ ۖ وَمَآ أَنتَ عَلَيْهِم بِجَبَّارٍ ۖ فَذَكِّرْ بِٱلْقُرْءَانِ مَن يَخَافُ وَعِيدِ"
+arabic: "نَّحْنُ أَعْلَمُ بِمَا يَقُولُونَ ۖ وَمَآ أَنتَ عَلَيْهِم بِجَبَّارٍ ۖ فَذَكِّرْ بِٱلْقُرْءَانِ مَن يَخَافُ وَعِيدِ"
 translation: "We know best what they say, and you are not over them a compeller. So remind by the Quran whoever fears My warning."
 word_count: 13
 estimated_duration: "50-58 minutes"

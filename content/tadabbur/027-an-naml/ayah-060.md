@@ -6,7 +6,7 @@ ayah_end: 60
 title: "The Question That Cannot Be Answered: Gardens You Could Never Grow"
 slug: "027-060"
 category: tadabbur
-arabic: "أَمَّنْ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ وَأَنزَلَ لَكُم مِّنَ السَّمَاءِ مَاءً فَأَنبَتْنَا بِهِ حَدَائِقَ ذَاتَ بَهْجَةٍ مَّا كَانَ لَكُمْ أَن تُنبِتُوا شَجَرَهَا ۗ أَإِلَـٰهٌ مَّعَ اللَّهِ ۚ بَلْ هُمْ قَوْمٌ يَعْدِلُونَ"
+arabic: "أَمَّنْ خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ وَأَنزَلَ لَكُم مِّنَ ٱلسَّمَآءِ مَآءً فَأَنۢبَتْنَا بِهِۦ حَدَآئِقَ ذَاتَ بَهْجَةٍ مَّا كَانَ لَكُمْ أَن تُنۢبِتُوا۟ شَجَرَهَآ ۗ أَءِلَـٰهٌ مَّعَ ٱللَّهِ ۚ بَلْ هُمْ قَوْمٌ يَعْدِلُونَ"
 translation: "Or, Who created the heavens and the earth and sent down for you water from the sky by which We caused to grow gardens of beauty and delight — it was not for you to cause their trees to grow. Is there a god with Allah? No — but they are a people who equate (others with Him)."
 word_count: 30
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 83
 title: "The Day We Gather From Every Nation a Troop: When the Deniers Are Sorted"
 slug: "027-083"
 category: tadabbur
-arabic: "وَيَوْمَ نَحْشُرُ مِن كُلِّ أُمَّةٍ فَوْجًا مِّمَّن يُكَذِّبُ بِآيَاتِنَا فَهُمْ يُوزَعُونَ"
+arabic: "وَيَوْمَ نَحْشُرُ مِن كُلِّ أُمَّةٍ فَوْجًا مِّمَّن يُكَذِّبُ بِـَٔايَـٰتِنَا فَهُمْ يُوزَعُونَ"
 translation: "And on the Day when We will gather from every nation a troop of those who denied Our signs — and they will be marshaled in ranks."
 word_count: 11
 estimated_duration: "48-55 minutes"

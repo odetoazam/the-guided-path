@@ -6,7 +6,7 @@ ayah_end: 32
 title: "Every Faction Rejoicing in What It Has — The Anatomy of Sectarianism"
 slug: "030-032"
 category: tadabbur
-arabic: "مِنَ ٱلَّذِينَ فَرَّقُوا۟ دِينَهُمْ وَكَانُوا۟ شِيَعًا ۖ كُلُّ حِزْبٍۭ بِمَا لَدَيْهِمْ فَرِحُونَ"
+arabic: "مِنَ ٱلَّذِينَ فَرَّقُوا۟ دِينَهُمْ وَكَانُوا۟ شِيَعًا ۖ كُلُّ حِزْبٍۭ بِمَا لَدَيْهِمْ فَرِحُونَ"
 translation: "[Be not] of those who have fractured their religion and become sects — every faction rejoicing in what it has."
 word_count: 10
 estimated_duration: "50-55 minutes"

@@ -6,7 +6,7 @@ ayah_end: 78
 title: "The Sentence That Buried Qārūn: When 'I Earned This' Becomes the Lie"
 slug: "028-078"
 category: tadabbur
-arabic: "قَالَ إِنَّمَا أُوتِيتُهُۥ عَلَىٰ عِلْمٍ عِندِىٓ ۚ أَوَلَمْ يَعْلَمْ أَنَّ ٱللَّهَ قَدْ أَهْلَكَ مِن قَبْلِهِۦ مِنَ ٱلْقُرُونِ مَنْ هُوَ أَشَدُّ مِنْهُ قُوَّةً وَأَكْثَرُ جَمْعًا ۚ وَلَا يُسْـَٔلُ عَن ذُنُوبِهِمُ ٱلْمُجْرِمُونَ"
+arabic: "قَالَ إِنَّمَآ أُوتِيتُهُۥ عَلَىٰ عِلْمٍ عِندِىٓ ۚ أَوَلَمْ يَعْلَمْ أَنَّ ٱللَّهَ قَدْ أَهْلَكَ مِن قَبْلِهِۦ مِنَ ٱلْقُرُونِ مَنْ هُوَ أَشَدُّ مِنْهُ قُوَّةً وَأَكْثَرُ جَمْعًا ۚ وَلَا يُسْـَٔلُ عَن ذُنُوبِهِمُ ٱلْمُجْرِمُونَ"
 translation: "He said: 'I was only given this because of knowledge I have.' Did he not know that Allah had already destroyed before him, from generations, those who were stronger than him in power and greater in accumulation? And the criminals will not be asked about their sins."
 word_count: 30
 estimated_duration: "50-58 minutes"

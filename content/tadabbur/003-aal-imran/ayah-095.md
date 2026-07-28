@@ -6,7 +6,7 @@ ayah_end: 95
 title: "Allah Spoke the Truth: Belonging to Ibrahim by Leaning, Not by Blood"
 slug: "003-095"
 category: tadabbur
-arabic: "قُلْ صَدَقَ ٱللَّهُ ۗ فَٱتَّبِعُوا۟ مِلَّةَ إِبْرَٰهِيمَ حَنِيفًا وَمَا كَانَ مِنَ ٱلْمُشْرِكِينَ"
+arabic: "قُلْ صَدَقَ ٱللَّهُ ۗ فَٱتَّبِعُوا۟ مِلَّةَ إِبْرَٰهِيمَ حَنِيفًا وَمَا كَانَ مِنَ ٱلْمُشْرِكِينَ"
 translation: "Say, 'Allah has spoken the truth. So follow the way of Ibrahim, the one who leaned away from all falsehood toward God — and he was not among those who associate partners with Him.'"
 word_count: 11
 estimated_duration: "48-58 minutes"

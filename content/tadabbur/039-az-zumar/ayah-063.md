@@ -6,7 +6,7 @@ ayah_end: 63
 title: "The One Who Holds Every Key — and the Only True Bankruptcy"
 slug: "039-063"
 category: tadabbur
-arabic: "لَّهُۥ مَقَالِيدُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۗ وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَٰتِ ٱللَّهِ أُو۟لَٰٓئِكَ هُمُ ٱلْخَٰسِرُونَ"
+arabic: "لَّهُۥ مَقَالِيدُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۗ وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَـٰتِ ٱللَّهِ أُو۟لَـٰٓئِكَ هُمُ ٱلْخَـٰسِرُونَ"
 translation: "To Him belong the keys of the heavens and the earth. And those who disbelieve in the signs of Allah — it is they who are the losers."
 word_count: 11
 estimated_duration: "50-58 minutes"

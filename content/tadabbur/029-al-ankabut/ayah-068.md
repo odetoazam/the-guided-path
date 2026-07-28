@@ -6,7 +6,7 @@ ayah_end: 68
 title: "The Two Faces of Injustice: Manufacturing Lies and Rejecting Truth"
 slug: "029-068"
 category: tadabbur
-arabic: "وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَىٰ عَلَى اللَّهِ كَذِبًا أَوْ كَذَّبَ بِالْحَقِّ لَمَّا جَاءَهُ ۚ أَلَيْسَ فِي جَهَنَّمَ مَثْوًى لِّلْكَافِرِينَ"
+arabic: "وَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَوْ كَذَّبَ بِٱلْحَقِّ لَمَّا جَآءَهُۥٓ ۚ أَلَيْسَ فِى جَهَنَّمَ مَثْوًى لِّلْكَـٰفِرِينَ"
 translation: "And who is more unjust than one who fabricates a lie against Allah, or who rejects the truth as a lie when it has come to him? Is there not in Hell a dwelling-place for those who deny?"
 word_count: 18
 estimated_duration: "50-58 minutes"

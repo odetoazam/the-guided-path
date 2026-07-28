@@ -6,7 +6,7 @@ ayah_end: 8
 title: "The Light You Were Given to See By"
 slug: "064-008"
 category: tadabbur
-arabic: "فَآمِنُوا بِاللَّهِ وَرَسُولِهِ وَالنُّورِ الَّذِي أَنزَلْنَا ۚ وَاللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ"
+arabic: "فَـَٔامِنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَٱلنُّورِ ٱلَّذِىٓ أَنزَلْنَا ۚ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ"
 translation: "So believe in Allah and His Messenger and the Light which We have sent down. And Allah is All-Aware of what you do."
 word_count: 4800
 estimated_duration: "50-58 minutes"

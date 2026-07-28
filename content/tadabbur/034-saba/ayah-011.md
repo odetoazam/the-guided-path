@@ -6,7 +6,7 @@ ayah_end: 11
 title: "Measure the Links: When Worship Becomes a Craft"
 slug: "034-011"
 category: tadabbur
-arabic: "أَنِ ٱعْمَلْ سَـٰبِغَـٰتٍ وَقَدِّرْ فِى ٱلسَّرْدِ ۖ وَٱعْمَلُوا۟ صَـٰلِحًا ۖ إِنِّى بِمَا تَعْمَلُونَ بَصِيرٌ"
+arabic: "أَنِ ٱعْمَلْ سَـٰبِغَـٰتٍ وَقَدِّرْ فِى ٱلسَّرْدِ ۖ وَٱعْمَلُوا۟ صَـٰلِحًا ۖ إِنِّى بِمَا تَعْمَلُونَ بَصِيرٌ"
 translation: "[Saying], 'Make full coats of mail and measure precisely the links, and do righteousness. Indeed, I, of what you do, am Seeing.'"
 word_count: 12
 estimated_duration: "50-55 minutes"

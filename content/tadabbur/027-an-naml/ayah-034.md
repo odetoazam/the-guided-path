@@ -6,7 +6,7 @@ ayah_end: 34
 title: "The Queen's Diagnosis: When Power Enters a Place It Ruins It"
 slug: "027-034"
 category: tadabbur
-arabic: "قَالَتْ إِنَّ ٱلْمُلُوكَ إِذَا دَخَلُوا۟ قَرْيَةً أَفْسَدُوهَا وَجَعَلُوٓا۟ أَعِزَّةَ أَهْلِهَآ أَذِلَّةً ۖ وَكَذَٰلِكَ يَفْعَلُونَ"
+arabic: "قَالَتْ إِنَّ ٱلْمُلُوكَ إِذَا دَخَلُوا۟ قَرْيَةً أَفْسَدُوهَا وَجَعَلُوٓا۟ أَعِزَّةَ أَهْلِهَآ أَذِلَّةً ۖ وَكَذَٰلِكَ يَفْعَلُونَ"
 translation: "She said: 'Indeed, kings, when they enter a town, ruin it and make the most honored of its people the most humiliated. And thus they do.'"
 word_count: 13
 estimated_duration: "50-58 minutes"

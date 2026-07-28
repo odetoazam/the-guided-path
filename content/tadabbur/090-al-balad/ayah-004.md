@@ -19,7 +19,7 @@ interSurah: "Placed against 90:5-7 (human arrogance about wealth); responds to t
 methodology: "dirayah (linguistic) with riwayah support from classical readings of كَبَد"
 scholarly_status: "Largely settled; كَبَد = toil/hardship; some add 'upright in the womb' as additional layer"
 validated: true
-arabic: "لَقَدْ خَلَقْنَا ٱلْإِنسَٰنَ فِى كَبَدٍ"
+arabic: "لَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ فِى كَبَدٍ"
 surah_name: "Al-Balad"
 word_count: 2912
 ---

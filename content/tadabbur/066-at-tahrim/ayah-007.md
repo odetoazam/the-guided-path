@@ -6,7 +6,7 @@ ayah_end: 7
 title: "Do Not Make Excuses Today: When the Door to Self-Justification Closes Forever"
 slug: "066-007"
 category: tadabbur
-arabic: "يَـٰٓأَيُّهَا ٱلَّذِينَ كَفَرُواْ لَا تَعْتَذِرُواْ ٱلْيَوْمَ ۖ إِنَّمَا تُجْزَوْنَ مَا كُنتُمْ تَعْمَلُونَ"
+arabic: "يَـٰٓأَيُّهَا ٱلَّذِينَ كَفَرُوا۟ لَا تَعْتَذِرُوا۟ ٱلْيَوْمَ ۖ إِنَّمَا تُجْزَوْنَ مَا كُنتُمْ تَعْمَلُونَ"
 translation: "O you who disbelieve, do not make excuses today. You are only being recompensed for what you used to do."
 word_count: 5100
 estimated_duration: "48-55 minutes"

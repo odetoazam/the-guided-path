@@ -6,7 +6,7 @@ ayah_end: 46
 title: "The Prayer of the One Who Cannot Win the Argument"
 slug: "039-046"
 category: tadabbur
-arabic: "قُلِ ٱللَّهُمَّ فَاطِرَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ عَٰلِمَ ٱلْغَيْبِ وَٱلشَّهَٰدَةِ أَنتَ تَحْكُمُ بَيْنَ عِبَادِكَ فِى مَا كَانُوا۟ فِيهِ يَخْتَلِفُونَ"
+arabic: "قُلِ ٱللَّهُمَّ فَاطِرَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ عَـٰلِمَ ٱلْغَيْبِ وَٱلشَّهَـٰدَةِ أَنتَ تَحْكُمُ بَيْنَ عِبَادِكَ فِى مَا كَانُوا۟ فِيهِ يَخْتَلِفُونَ"
 translation: "Say: O Allah — Originator of the heavens and the earth, Knower of the unseen and the witnessed — You alone will judge between Your servants concerning that over which they used to differ."
 word_count: 17
 estimated_duration: "50-58 minutes"

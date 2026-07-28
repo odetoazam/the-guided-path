@@ -6,7 +6,7 @@ ayah_end: 28
 title: "The Door You Cannot Turn Your Back On: Holy Insecurity and the Only Safety Worth Having"
 slug: "070-028"
 category: tadabbur
-arabic: "إِنَّ عَذَابَ رَبِّهِمْ غَيْرُ مَأْمُونٍ"
+arabic: "إِنَّ عَذَابَ رَبِّهِمْ غَيْرُ مَأْمُونٍ"
 translation: "Indeed, the punishment of their Lord is not (a thing) to be felt secure from."
 word_count: 5
 estimated_duration: "50-58 minutes"

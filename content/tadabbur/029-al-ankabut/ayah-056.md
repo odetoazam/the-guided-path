@@ -6,7 +6,7 @@ ayah_end: 56
 title: "My Earth Is Vast: When Geography Becomes Worship"
 slug: "029-056"
 category: tadabbur
-arabic: "يَا عِبَادِيَ الَّذِينَ آمَنُوا إِنَّ أَرْضِي وَاسِعَةٌ فَإِيَّايَ فَاعْبُدُونِ"
+arabic: "يَـٰعِبَادِىَ ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّ أَرْضِى وَٰسِعَةٌ فَإِيَّـٰىَ فَٱعْبُدُونِ"
 translation: "O My servants who have believed, indeed My earth is spacious, so worship only Me."
 word_count: 10
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 40
 title: "The Catalogue of Ruin — What Allah Did Not Do"
 slug: "029-040"
 category: tadabbur
-arabic: "فَكُلًّا أَخَذْنَا بِذَنبِهِۦ ۖ فَمِنْهُم مَّنْ أَرْسَلْنَا عَلَيْهِ حَاصِبًا وَمِنْهُم مَّنْ أَخَذَتْهُ ٱلصَّيْحَةُ وَمِنْهُم مَّنْ خَسَفْنَا بِهِ ٱلْأَرْضَ وَمِنْهُم مَّنْ أَغْرَقْنَا ۚ وَمَا كَانَ ٱللَّهُ لِيَظْلِمَهُمْ وَلَـٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ"
+arabic: "فَكُلًّا أَخَذْنَا بِذَنۢبِهِۦ ۖ فَمِنْهُم مَّنْ أَرْسَلْنَا عَلَيْهِ حَاصِبًا وَمِنْهُم مَّنْ أَخَذَتْهُ ٱلصَّيْحَةُ وَمِنْهُم مَّنْ خَسَفْنَا بِهِ ٱلْأَرْضَ وَمِنْهُم مَّنْ أَغْرَقْنَا ۚ وَمَا كَانَ ٱللَّهُ لِيَظْلِمَهُمْ وَلَـٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ"
 translation: "So each [of them] We seized for his sin: among them were those upon whom We sent a violent storm of stones; and among them were those whom the Blast overtook; and among them were those whom We caused the earth to swallow; and among them were those whom We drowned. And it was not Allah who wronged them, but it was they who wronged themselves."
 word_count: 28
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 24
 title: "The Brief Enjoyment and the Rough Punishment: When Allah Lets Someone Be"
 slug: "031-024"
 category: tadabbur
-arabic: "نُمَتِّعُهُمْ قَلِيلًا ثُمَّ نَضْطَرُّهُمْ إِلَىٰ عَذَابٍ غَلِيظٍ"
+arabic: "نُمَتِّعُهُمْ قَلِيلًا ثُمَّ نَضْطَرُّهُمْ إِلَىٰ عَذَابٍ غَلِيظٍ"
 translation: "We let them enjoy themselves a little, then We will drive them — compelled, with no escape — to a punishment that is rough and unyielding."
 word_count: 7
 estimated_duration: "48-55 minutes"

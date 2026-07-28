@@ -6,7 +6,7 @@ ayah_end: 81
 title: "The One You Cannot Lead: When Guidance Stops at the Door of the Heart"
 slug: "027-081"
 category: tadabbur
-arabic: "وَمَآ أَنتَ بِهَـٰدِى ٱلْعُمْىِ عَن ضَلَـٰلَتِهِمْ ۖ إِن تُسْمِعُ إِلَّا مَن يُؤْمِنُ بِـَٔايَـٰتِنَا فَهُم مُّسْلِمُونَ"
+arabic: "وَمَآ أَنتَ بِهَـٰدِى ٱلْعُمْىِ عَن ضَلَـٰلَتِهِمْ ۖ إِن تُسْمِعُ إِلَّا مَن يُؤْمِنُ بِـَٔايَـٰتِنَا فَهُم مُّسْلِمُونَ"
 translation: "And you cannot guide the blind out of their misguidance. You can only make hear those who believe in Our signs — and so they are the ones who submit."
 word_count: 16
 estimated_duration: "50-55 minutes"

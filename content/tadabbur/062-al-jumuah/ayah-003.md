@@ -6,7 +6,7 @@ ayah_end: 3
 title: "Named Before You Were Born: The Others Who Have Not Yet Joined"
 slug: "062-003"
 category: tadabbur
-arabic: "وَءَاخَرِينَ مِنْهُمْ لَمَّا يَلْحَقُوا۟ بِهِمْ ۚ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ"
+arabic: "وَءَاخَرِينَ مِنْهُمْ لَمَّا يَلْحَقُوا۟ بِهِمْ ۚ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ"
 translation: "And [He has sent him also to] others among them who have not yet joined them. And He is the All-Mighty, the All-Wise."
 word_count: 6200
 estimated_duration: "50-58 minutes"

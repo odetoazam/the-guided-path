@@ -6,7 +6,7 @@ ayah_end: 73
 title: "The Lord Who Holds Back Punishment While Most Refuse to Thank Him"
 slug: "027-073"
 category: tadabbur
-arabic: "وَإِنَّ رَبَّكَ لَذُو فَضْلٍ عَلَى ٱلنَّاسِ وَلَـٰكِنَّ أَكْثَرَهُمْ لَا يَشْكُرُونَ"
+arabic: "وَإِنَّ رَبَّكَ لَذُو فَضْلٍ عَلَى ٱلنَّاسِ وَلَـٰكِنَّ أَكْثَرَهُمْ لَا يَشْكُرُونَ"
 translation: "And indeed, your Lord is full of bounty for the people, but most of them do not give thanks."
 word_count: 11
 estimated_duration: "48-55 minutes"

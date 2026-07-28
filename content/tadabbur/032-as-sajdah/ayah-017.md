@@ -6,7 +6,7 @@ ayah_end: 17
 title: "What No Soul Knows: The Hidden Reward and the Architecture of Secrecy"
 slug: "032-017"
 category: tadabbur
-arabic: "فَلَا تَعْلَمُ نَفْسٌ مَّآ أُخْفِيَ لَهُم مِّن قُرَّةِ أَعْيُنٍ جَزَآءًۢ بِمَا كَانُوا۟ يَعْمَلُونَ"
+arabic: "فَلَا تَعْلَمُ نَفْسٌ مَّآ أُخْفِىَ لَهُم مِّن قُرَّةِ أَعْيُنٍ جَزَآءًۢ بِمَا كَانُوا۟ يَعْمَلُونَ"
 translation: "No soul knows what has been hidden for them of comfort for the eyes as a reward for what they used to do."
 word_count: 11
 estimated_duration: "50-55 minutes"

@@ -6,7 +6,7 @@ ayah_end: 45
 title: "The Abandoned Well and the Towering Palace — Civilizations as Eulogies"
 slug: "022-045"
 category: tadabbur
-arabic: "فَكَأَيِّن مِّن قَرْيَةٍ أَهْلَكْنَاهَا وَهِيَ ظَالِمَةٌ فَهِيَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا وَبِئْرٍ مُّعَطَّلَةٍ وَقَصْرٍ مَّشِيدٍ"
+arabic: "فَكَأَيِّن مِّن قَرْيَةٍ أَهْلَكْنَـٰهَا وَهِىَ ظَالِمَةٌ فَهِىَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا وَبِئْرٍ مُّعَطَّلَةٍ وَقَصْرٍ مَّشِيدٍ"
 translation: "And how many a town have We destroyed while it was committing wrong — so it lies fallen upon its roofs — and how many an abandoned well, and how many a towering palace."
 word_count: 17
 estimated_duration: "50-58 minutes"

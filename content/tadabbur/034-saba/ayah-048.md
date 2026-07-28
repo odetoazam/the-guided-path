@@ -6,7 +6,7 @@ ayah_end: 48
 title: "The God Who Hurls Truth: Qadhf, Revelation, and the Knower of All Hidden Things"
 slug: "034-048"
 category: tadabbur
-arabic: "قُلْ إِنَّ رَبِّى يَقْذِفُ بِٱلْحَقِّ عَلَّـٰمُ ٱلْغُيُوبِ"
+arabic: "قُلْ إِنَّ رَبِّى يَقْذِفُ بِٱلْحَقِّ عَلَّـٰمُ ٱلْغُيُوبِ"
 translation: "Say, 'Indeed, my Lord hurls the truth — the All-Knower of all that is hidden.'"
 word_count: 7
 estimated_duration: "48-55 minutes"

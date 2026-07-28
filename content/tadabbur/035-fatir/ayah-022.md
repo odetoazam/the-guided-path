@@ -6,7 +6,7 @@ ayah_end: 22
 title: "The Living and the Dead: When the Heart Cannot Hear"
 slug: "035-022"
 category: tadabbur
-arabic: "وَمَا يَسْتَوِي ٱلْأَحْيَآءُ وَلَا ٱلْأَمْوَٰتُ ۚ إِنَّ ٱللَّهَ يُسْمِعُ مَن يَشَآءُ ۖ وَمَآ أَنتَ بِمُسْمِعٍ مَّن فِى ٱلْقُبُورِ"
+arabic: "وَمَا يَسْتَوِى ٱلْأَحْيَآءُ وَلَا ٱلْأَمْوَٰتُ ۚ إِنَّ ٱللَّهَ يُسْمِعُ مَن يَشَآءُ ۖ وَمَآ أَنتَ بِمُسْمِعٍ مَّن فِى ٱلْقُبُورِ"
 translation: "Nor are the living and the dead alike. Indeed, Allah causes to hear whom He wills, and you cannot make those in the graves hear."
 word_count: 16
 estimated_duration: "50-55 minutes"

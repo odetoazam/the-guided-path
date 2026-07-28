@@ -6,7 +6,7 @@ ayah_end: 36
 title: "The Mirror in the Mockery: When Dhikr Meets Dhikr"
 slug: "021-036"
 category: tadabbur
-arabic: "وَإِذَا رَآكَ ٱلَّذِينَ كَفَرُوٓا۟ إِن يَتَّخِذُونَكَ إِلَّا هُزُوًا أَهَـٰذَا ٱلَّذِى يَذْكُرُ ءَالِهَتَكُمْ وَهُم بِذِكْرِ ٱلرَّحْمَـٰنِ هُمْ كَـٰفِرُونَ"
+arabic: "وَإِذَا رَءَاكَ ٱلَّذِينَ كَفَرُوٓا۟ إِن يَتَّخِذُونَكَ إِلَّا هُزُوًا أَهَـٰذَا ٱلَّذِى يَذْكُرُ ءَالِهَتَكُمْ وَهُم بِذِكْرِ ٱلرَّحْمَـٰنِ هُمْ كَـٰفِرُونَ"
 translation: "And when those who disbelieve see you, they take you not except as an object of mockery, [saying]: 'Is this the one who mentions your gods?' — while they, regarding the remembrance of the Most Merciful, are themselves the deniers."
 word_count: 7800
 estimated_duration: "50-55 minutes"

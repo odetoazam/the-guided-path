@@ -6,7 +6,7 @@ ayah_end: 70
 title: "What Their Schemes Cannot Reach — The Two Burdens Allah Lifts in a Single Breath"
 slug: "027-070"
 category: tadabbur
-arabic: "وَلَا تَحْزَنْ عَلَيْهِمْ وَلَا تَكُن فِى ضَيْقٍ مِّمَّا يَمْكُرُونَ"
+arabic: "وَلَا تَحْزَنْ عَلَيْهِمْ وَلَا تَكُن فِى ضَيْقٍ مِّمَّا يَمْكُرُونَ"
 translation: "And do not grieve over them, and do not be in distress over what they scheme."
 word_count: 5100
 estimated_duration: "50-58 minutes"

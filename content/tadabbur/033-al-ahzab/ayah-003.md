@@ -6,7 +6,7 @@ ayah_end: 3
 title: "The Act of Delegation"
 slug: "033-003"
 category: tadabbur
-arabic: "وَتَوَكَّلْ عَلَى اللَّهِ ۚ وَكَفَىٰ بِاللَّهِ وَكِيلًا"
+arabic: "وَتَوَكَّلْ عَلَى ٱللَّهِ ۚ وَكَفَىٰ بِٱللَّهِ وَكِيلًا"
 translation: "And rely upon Allah; and sufficient is Allah as Trustee."
 word_count: 3850
 estimated_duration: "50-55 minutes"

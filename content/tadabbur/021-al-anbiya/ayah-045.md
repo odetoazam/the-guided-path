@@ -6,7 +6,7 @@ ayah_end: 45
 title: "The Limits of the Caller — Warning the Deaf"
 slug: "021-045"
 category: tadabbur
-arabic: "قُلْ إِنَّمَآ أُنذِرُكُم بِٱلْوَحْىِ ۚ وَلَا يَسْمَعُ ٱلصُّمُّ ٱلدُّعَآءَ إِذَا مَا يُنذَرُونَ"
+arabic: "قُلْ إِنَّمَآ أُنذِرُكُم بِٱلْوَحْىِ ۚ وَلَا يَسْمَعُ ٱلصُّمُّ ٱلدُّعَآءَ إِذَا مَا يُنذَرُونَ"
 translation: "Say: 'I only warn you by the revelation.' But the deaf do not hear the call when they are warned."
 word_count: 13
 estimated_duration: "48-55 minutes"

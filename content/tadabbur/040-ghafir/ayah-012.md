@@ -6,7 +6,7 @@ ayah_end: 12
 title: "The Word That Made You Recoil: 'Alone' and the Verdict From the Height"
 slug: "040-012"
 category: tadabbur
-arabic: "ذَٰلِكُم بِأَنَّهُۥٓ إِذَا دُعِىَ ٱللَّهُ وَحْدَهُۥ كَفَرْتُمْ ۖ وَإِن يُشْرَكْ بِهِۦ تُؤْمِنُوا۟ ۚ فَٱلْحُكْمُ لِلَّهِ ٱلْعَلِىِّ ٱلْكَبِيرِ"
+arabic: "ذَٰلِكُم بِأَنَّهُۥٓ إِذَا دُعِىَ ٱللَّهُ وَحْدَهُۥ كَفَرْتُمْ ۖ وَإِن يُشْرَكْ بِهِۦ تُؤْمِنُوا۟ ۚ فَٱلْحُكْمُ لِلَّهِ ٱلْعَلِىِّ ٱلْكَبِيرِ"
 translation: "That is because when Allah was invoked alone, you disbelieved; but if others were associated with Him, you believed. So the judgment belongs to Allah, the Most High, the Most Great."
 word_count: 15
 estimated_duration: "50-58 minutes"

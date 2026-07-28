@@ -6,7 +6,7 @@ ayah_end: 62
 title: "The Sunnah That Does Not Bend: Allah's Unchanging Way With Those Who Came Before"
 slug: "033-062"
 category: tadabbur
-arabic: "سُنَّةَ ٱللَّهِ فِى ٱلَّذِينَ خَلَوْا۟ مِن قَبْلُ ۖ وَلَن تَجِدَ لِسُنَّةِ ٱللَّهِ تَبْدِيلًا"
+arabic: "سُنَّةَ ٱللَّهِ فِى ٱلَّذِينَ خَلَوْا۟ مِن قَبْلُ ۖ وَلَن تَجِدَ لِسُنَّةِ ٱللَّهِ تَبْدِيلًا"
 translation: "[This is] the way of Allah with those who passed on before. And you will never find in the way of Allah any change."
 word_count: 11
 estimated_duration: "48-55 minutes"

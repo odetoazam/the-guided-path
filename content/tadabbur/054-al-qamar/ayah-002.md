@@ -6,7 +6,7 @@ ayah_end: 2
 title: "The Verdict Before the Evidence: How Denial Sees a Split Moon"
 slug: "054-002"
 category: tadabbur
-arabic: "وَإِن يَرَوْا۟ ءَايَةً يُعْرِضُوا۟ وَيَقُولُوا۟ سِحْرٌ مُّسْتَمِرٌّ"
+arabic: "وَإِن يَرَوْا۟ ءَايَةً يُعْرِضُوا۟ وَيَقُولُوا۟ سِحْرٌ مُّسْتَمِرٌّ"
 translation: "And if they see a sign, they turn away and say: 'Magic — continuing on.'"
 word_count: 5200
 estimated_duration: "42-52 minutes"

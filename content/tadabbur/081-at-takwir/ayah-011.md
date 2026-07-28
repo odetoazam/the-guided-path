@@ -6,7 +6,7 @@ ayah_end: 11
 title: "When the Sky Is Flayed: The Covering We Mistook for the Ceiling of Reality"
 slug: "081-011"
 category: tadabbur
-arabic: "وَإِذَا ٱلسَّمَآءُ كُشِطَتْ"
+arabic: "وَإِذَا ٱلسَّمَآءُ كُشِطَتْ"
 translation: "And when the sky is stripped away —"
 word_count: 4
 estimated_duration: "50-56 minutes"

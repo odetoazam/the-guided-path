@@ -6,7 +6,7 @@ ayah_end: 40
 title: "The Question Asked Before the Day of No Questions"
 slug: "055-040"
 category: tadabbur
-arabic: "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+arabic: "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
 translation: "So which of the favors of your Lord will you both deny?"
 word_count: 4
 estimated_duration: "50-58 minutes"

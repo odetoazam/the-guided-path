@@ -6,7 +6,7 @@ ayah_end: 38
 title: "Right There He Asked: Zakariya, the Distance-Word, and the Prayer for a Pure Gift"
 slug: "003-038"
 category: tadabbur
-arabic: "هُنَالِكَ دَعَا زَكَرِيَّا رَبَّهُۥ ۖ قَالَ رَبِّ هَبْ لِى مِن لَّدُنكَ ذُرِّيَّةً طَيِّبَةً ۖ إِنَّكَ سَمِيعُ ٱلدُّعَآءِ"
+arabic: "هُنَالِكَ دَعَا زَكَرِيَّا رَبَّهُۥ ۖ قَالَ رَبِّ هَبْ لِى مِن لَّدُنكَ ذُرِّيَّةً طَيِّبَةً ۖ إِنَّكَ سَمِيعُ ٱلدُّعَآءِ"
 translation: "Right there, Zakariya called upon his Lord. He said: 'My Lord, grant me from Your own presence a pure offspring. Truly You are the Hearer of every supplication.'"
 word_count: 5600
 estimated_duration: "50-58 minutes"

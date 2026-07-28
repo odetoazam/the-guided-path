@@ -6,7 +6,7 @@ ayah_end: 57
 title: "The Greater and the Lesser: How the Cosmos Rebukes Your Pride and Promises Your Return"
 slug: "040-057"
 category: tadabbur
-arabic: "لَخَلْقُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ أَكْبَرُ مِنْ خَلْقِ ٱلنَّاسِ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ"
+arabic: "لَخَلْقُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ أَكْبَرُ مِنْ خَلْقِ ٱلنَّاسِ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ"
 translation: "Surely the creation of the heavens and the earth is greater than the creation of mankind — but most people do not know."
 word_count: 12
 estimated_duration: "50-58 minutes"

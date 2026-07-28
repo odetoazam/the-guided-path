@@ -6,7 +6,7 @@ ayah_end: 43
 title: "The One Who Prays Upon You: Allah's Ṣalāh and the Light That Brings You Out"
 slug: "033-043"
 category: tadabbur
-arabic: "هُوَ ٱلَّذِى يُصَلِّى عَلَيْكُمْ وَمَلَـٰٓئِكَتُهُۥ لِيُخْرِجَكُم مِّنَ ٱلظُّلُمَـٰتِ إِلَى ٱلنُّورِ ۚ وَكَانَ بِٱلْمُؤْمِنِينَ رَحِيمًۭا"
+arabic: "هُوَ ٱلَّذِى يُصَلِّى عَلَيْكُمْ وَمَلَـٰٓئِكَتُهُۥ لِيُخْرِجَكُم مِّنَ ٱلظُّلُمَـٰتِ إِلَى ٱلنُّورِ ۚ وَكَانَ بِٱلْمُؤْمِنِينَ رَحِيمًا"
 translation: "He is the One who sends His ṣalāh upon you, and His angels do too — to bring you out from the layers of darkness into the light. And He has always been, to the believers, deeply merciful."
 word_count: 14
 estimated_duration: "50-58 minutes"

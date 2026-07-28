@@ -6,7 +6,7 @@ ayah_end: 3
 title: "So Let Them Worship: The One-Letter Bridge from Blessing to Surrender"
 slug: "106-003"
 category: tadabbur
-arabic: "فَلْيَعْبُدُوا۟ رَبَّ هَـٰذَا ٱلْبَيْتِ"
+arabic: "فَلْيَعْبُدُوا۟ رَبَّ هَـٰذَا ٱلْبَيْتِ"
 translation: "So let them worship the Lord of this House."
 word_count: 4
 estimated_duration: "50-58 minutes"

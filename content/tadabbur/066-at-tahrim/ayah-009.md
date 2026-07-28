@@ -6,7 +6,7 @@ ayah_end: 9
 title: "The Refuge That Burns: One Command, Two Enemies, One End"
 slug: "066-009"
 category: tadabbur
-arabic: "يَـٰٓأَيُّهَا ٱلنَّبِىُّ جَـٰهِدِ ٱلْكُفَّارَ وَٱلْمُنَـٰفِقِينَ وَٱغْلُظْ عَلَيْهِمْ ۚ وَمَأْوَىٰهُمْ جَهَنَّمُ ۖ وَبِئْسَ ٱلْمَصِيرُ"
+arabic: "يَـٰٓأَيُّهَا ٱلنَّبِىُّ جَـٰهِدِ ٱلْكُفَّارَ وَٱلْمُنَـٰفِقِينَ وَٱغْلُظْ عَلَيْهِمْ ۚ وَمَأْوَىٰهُمْ جَهَنَّمُ ۖ وَبِئْسَ ٱلْمَصِيرُ"
 translation: "O Prophet! Strive against the disbelievers and the hypocrites, and be firm with them. Their abode is Hell — and wretched is the destination."
 word_count: 6200
 estimated_duration: "50-58 minutes"

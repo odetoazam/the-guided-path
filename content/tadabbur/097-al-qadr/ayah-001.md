@@ -6,7 +6,7 @@ ayah_end: 1
 title: "The Word With No Name: How One Night Measures a Life"
 slug: "097-001"
 category: tadabbur
-arabic: "إِنَّآ أَنزَلْنَٰهُ فِى لَيْلَةِ ٱلْقَدْرِ"
+arabic: "إِنَّآ أَنزَلْنَـٰهُ فِى لَيْلَةِ ٱلْقَدْرِ"
 translation: "Indeed, We sent it down in the Night of Power."
 word_count: 5
 estimated_duration: "50-58 minutes"

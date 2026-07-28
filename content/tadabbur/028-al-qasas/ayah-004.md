@@ -6,7 +6,7 @@ ayah_end: 4
 title: "When Power Divides a People in Two: Reading Pharaoh's Strategy Backwards"
 slug: "028-004"
 category: tadabbur
-arabic: "إِنَّ فِرْعَوْنَ عَلَا فِي الْأَرْضِ وَجَعَلَ أَهْلَهَا شِيَعًا يَسْتَضْعِفُ طَائِفَةً مِّنْهُمْ يُذَبِّحُ أَبْنَاءَهُمْ وَيَسْتَحْيِي نِسَاءَهُمْ ۚ إِنَّهُ كَانَ مِنَ الْمُفْسِدِينَ"
+arabic: "إِنَّ فِرْعَوْنَ عَلَا فِى ٱلْأَرْضِ وَجَعَلَ أَهْلَهَا شِيَعًا يَسْتَضْعِفُ طَآئِفَةً مِّنْهُمْ يُذَبِّحُ أَبْنَآءَهُمْ وَيَسْتَحْىِۦ نِسَآءَهُمْ ۚ إِنَّهُۥ كَانَ مِنَ ٱلْمُفْسِدِينَ"
 translation: "Indeed, Pharaoh exalted himself in the land and made its people into factions, oppressing a group among them — slaughtering their sons and keeping their women alive. Indeed, he was of the corrupters."
 word_count: 950
 estimated_duration: "50-55 minutes"

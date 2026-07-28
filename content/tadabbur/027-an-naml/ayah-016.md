@@ -6,7 +6,7 @@ ayah_end: 16
 title: "The Inheritance That Speaks: When Sulaymān Heard What Was Always Being Said"
 slug: "027-016"
 category: tadabbur
-arabic: "وَوَرِثَ سُلَيْمَٰنُ دَاوُۥدَ ۖ وَقَالَ يَٰٓأَيُّهَا ٱلنَّاسُ عُلِّمْنَا مَنطِقَ ٱلطَّيْرِ وَأُوتِينَا مِن كُلِّ شَىْءٍ ۖ إِنَّ هَٰذَا لَهُوَ ٱلْفَضْلُ ٱلْمُبِينُ"
+arabic: "وَوَرِثَ سُلَيْمَـٰنُ دَاوُۥدَ ۖ وَقَالَ يَـٰٓأَيُّهَا ٱلنَّاسُ عُلِّمْنَا مَنطِقَ ٱلطَّيْرِ وَأُوتِينَا مِن كُلِّ شَىْءٍ ۖ إِنَّ هَـٰذَا لَهُوَ ٱلْفَضْلُ ٱلْمُبِينُ"
 translation: "And Sulaymān inherited from Dāwūd, and he said: 'O people, we have been taught the speech of the birds, and we have been given from every thing. Indeed, this is the clear bounty.'"
 word_count: 22
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 115
 title: "The Forgetting of Adam — Why the Quran Had to Come"
 slug: "020-115"
 category: tadabbur
-arabic: "وَلَقَدْ عَهِدْنَآ إِلَىٰٓ ءَادَمَ مِن قَبْلُ فَنَسِىَ وَلَمْ نَجِدْ لَهُۥ عَزْمًۭا"
+arabic: "وَلَقَدْ عَهِدْنَآ إِلَىٰٓ ءَادَمَ مِن قَبْلُ فَنَسِىَ وَلَمْ نَجِدْ لَهُۥ عَزْمًا"
 translation: "And We had already taken a covenant with Adam from before, but he forgot — and We did not find in him any firm resolve."
 word_count: 6200
 estimated_duration: "50-55 minutes"

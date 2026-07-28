@@ -6,7 +6,7 @@ ayah_end: 39
 title: "The Whisper and the Proclamation: When Heaven Answers Mid-Prayer"
 slug: "003-039"
 category: tadabbur
-arabic: "فَنَادَتْهُ ٱلْمَلَـٰٓئِكَةُ وَهُوَ قَآئِمٌ يُصَلِّى فِى ٱلْمِحْرَابِ أَنَّ ٱللَّهَ يُبَشِّرُكَ بِيَحْيَىٰ مُصَدِّقًۢا بِكَلِمَةٍ مِّنَ ٱللَّهِ وَسَيِّدًا وَحَصُورًا وَنَبِيًّا مِّنَ ٱلصَّـٰلِحِينَ"
+arabic: "فَنَادَتْهُ ٱلْمَلَـٰٓئِكَةُ وَهُوَ قَآئِمٌ يُصَلِّى فِى ٱلْمِحْرَابِ أَنَّ ٱللَّهَ يُبَشِّرُكَ بِيَحْيَىٰ مُصَدِّقًۢا بِكَلِمَةٍ مِّنَ ٱللَّهِ وَسَيِّدًا وَحَصُورًا وَنَبِيًّا مِّنَ ٱلصَّـٰلِحِينَ"
 translation: "So the angels called to him while he stood praying in the prayer-niche: Allah gives you glad tidings of Yahya, who will confirm a Word from Allah — a noble one, restrained, a prophet from among the righteous."
 word_count: 20
 estimated_duration: "50-58 minutes"

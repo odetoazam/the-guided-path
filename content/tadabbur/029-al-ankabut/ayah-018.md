@@ -6,7 +6,7 @@ ayah_end: 18
 title: "And If You Deny — The Messenger's Job Description"
 slug: "029-018"
 category: tadabbur
-arabic: "وَإِن تُكَذِّبُوا۟ فَقَدْ كَذَّبَ أُمَمٌ مِّن قَبْلِكُمْ ۖ وَمَا عَلَى ٱلرَّسُولِ إِلَّا ٱلْبَلَـٰغُ ٱلْمُبِينُ"
+arabic: "وَإِن تُكَذِّبُوا۟ فَقَدْ كَذَّبَ أُمَمٌ مِّن قَبْلِكُمْ ۖ وَمَا عَلَى ٱلرَّسُولِ إِلَّا ٱلْبَلَـٰغُ ٱلْمُبِينُ"
 translation: "And if you deny [the message], then nations before you have already denied. And the Messenger's duty is only the clear delivery."
 word_count: 14
 estimated_duration: "50-56 minutes"

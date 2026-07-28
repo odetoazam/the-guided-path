@@ -6,7 +6,7 @@ ayah_end: 69
 title: "When the Fire Was Commanded to Be Cool — and the One Word That Saved Ibrahim's Life"
 slug: "021-069"
 category: tadabbur
-arabic: "قُلْنَا يَـٰنَارُ كُونِى بَرْدًۭا وَسَلَـٰمًا عَلَىٰٓ إِبْرَٰهِيمَ"
+arabic: "قُلْنَا يَـٰنَارُ كُونِى بَرْدًا وَسَلَـٰمًا عَلَىٰٓ إِبْرَٰهِيمَ"
 translation: "We said: 'O fire, be coolness and peace upon Ibrahim.'"
 word_count: 9
 estimated_duration: "50-58 minutes"

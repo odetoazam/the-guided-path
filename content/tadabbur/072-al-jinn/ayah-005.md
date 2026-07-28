@@ -6,7 +6,7 @@ ayah_end: 5
 title: "The Lie We Never Thought to Doubt"
 slug: "072-005"
 category: tadabbur
-arabic: "وَأَنَّا ظَنَنَّآ أَن لَّن تَقُولَ ٱلْإِنسُ وَٱلْجِنُّ عَلَى ٱللَّهِ كَذِبًا"
+arabic: "وَأَنَّا ظَنَنَّآ أَن لَّن تَقُولَ ٱلْإِنسُ وَٱلْجِنُّ عَلَى ٱللَّهِ كَذِبًا"
 translation: "And we had assumed that humans and jinn would never speak a lie against Allah."
 word_count: 10
 estimated_duration: "48-58 minutes"

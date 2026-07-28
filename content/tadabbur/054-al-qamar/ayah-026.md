@@ -6,7 +6,7 @@ ayah_end: 26
 title: "The Label in Escrow: How Allah Returns an Accusation to Its Owner"
 slug: "054-026"
 category: tadabbur
-arabic: "سَيَعْلَمُونَ غَدًا مَّنِ ٱلْكَذَّابُ ٱلْأَشِرُ"
+arabic: "سَيَعْلَمُونَ غَدًا مَّنِ ٱلْكَذَّابُ ٱلْأَشِرُ"
 translation: "Tomorrow they will know who the liar is — the insolent one."
 word_count: 5300
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 10
 title: "The Two Shields That Burn: Wealth, Children, and What It Means to Become Fuel"
 slug: "003-010"
 category: tadabbur
-arabic: "إِنَّ ٱلَّذِينَ كَفَرُوا۟ لَن تُغْنِيَ عَنْهُمْ أَمْوَٰلُهُمْ وَلَآ أَوْلَٰدُهُم مِّنَ ٱللَّهِ شَيْـًٔا ۖ وَأُو۟لَٰٓئِكَ هُمْ وَقُودُ ٱلنَّارِ"
+arabic: "إِنَّ ٱلَّذِينَ كَفَرُوا۟ لَن تُغْنِىَ عَنْهُمْ أَمْوَٰلُهُمْ وَلَآ أَوْلَـٰدُهُم مِّنَ ٱللَّهِ شَيْـًٔا ۖ وَأُو۟لَـٰٓئِكَ هُمْ وَقُودُ ٱلنَّارِ"
 translation: "Indeed, those who disbelieve — never will their wealth or their children avail them against Allah in anything. And it is they who are the fuel of the Fire."
 word_count: 16
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 18
 title: "The Ant Who Knew Their Names: Adab in the Voice of the Smallest"
 slug: "027-018"
 category: tadabbur
-arabic: "حَتَّىٰٓ إِذَآ أَتَوْا۟ عَلَىٰ وَادِ ٱلنَّمْلِ قَالَتْ نَمْلَةٌۭ يَـٰٓأَيُّهَا ٱلنَّمْلُ ٱدْخُلُوا۟ مَسَـٰكِنَكُمْ لَا يَحْطِمَنَّكُمْ سُلَيْمَـٰنُ وَجُنُودُهُۥ وَهُمْ لَا يَشْعُرُونَ"
+arabic: "حَتَّىٰٓ إِذَآ أَتَوْا۟ عَلَىٰ وَادِ ٱلنَّمْلِ قَالَتْ نَمْلَةٌ يَـٰٓأَيُّهَا ٱلنَّمْلُ ٱدْخُلُوا۟ مَسَـٰكِنَكُمْ لَا يَحْطِمَنَّكُمْ سُلَيْمَـٰنُ وَجُنُودُهُۥ وَهُمْ لَا يَشْعُرُونَ"
 translation: "Until, when they came upon the valley of the ants, an ant said, 'O ants, enter your dwellings, lest Solomon and his soldiers crush you while they do not perceive.'"
 word_count: 22
 estimated_duration: "50-58 minutes"

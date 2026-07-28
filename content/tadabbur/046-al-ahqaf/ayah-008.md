@@ -6,7 +6,7 @@ ayah_end: 8
 title: "The Accusation He Answered by Staking His Own Neck"
 slug: "046-008"
 category: tadabbur
-arabic: "أَمْ يَقُولُونَ ٱفْتَرَىٰهُ ۖ قُلْ إِنِ ٱفْتَرَيْتُهُۥ فَلَا تَمْلِكُونَ لِى مِنَ ٱللَّهِ شَيْـًٔا ۖ هُوَ أَعْلَمُ بِمَا تُفِيضُونَ فِيهِ ۖ كَفَىٰ بِهِۦ شَهِيدًۢا بَيْنِى وَبَيْنَكُمْ ۚ وَهُوَ ٱلْغَفُورُ ٱلرَّحِيمُ"
+arabic: "أَمْ يَقُولُونَ ٱفْتَرَىٰهُ ۖ قُلْ إِنِ ٱفْتَرَيْتُهُۥ فَلَا تَمْلِكُونَ لِى مِنَ ٱللَّهِ شَيْـًٔا ۖ هُوَ أَعْلَمُ بِمَا تُفِيضُونَ فِيهِ ۖ كَفَىٰ بِهِۦ شَهِيدًۢا بَيْنِى وَبَيْنَكُمْ ۖ وَهُوَ ٱلْغَفُورُ ٱلرَّحِيمُ"
 translation: "Or do they say, 'He has invented it'? Say, 'If I had invented it, you could do nothing to protect me from Allah. He knows best what you pour yourselves into about it. Sufficient is He as a Witness between me and you — and He is the Oft-Forgiving, the Most Merciful.'"
 word_count: 25
 estimated_duration: "50-58 minutes"

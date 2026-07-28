@@ -6,7 +6,7 @@ ayah_end: 59
 title: "The Bucket at the Well: Every Wrongdoer's Measured Portion"
 slug: "051-059"
 category: tadabbur
-arabic: "فَإِنَّ لِلَّذِينَ ظَلَمُوا۟ ذَنُوبًۭا مِّثْلَ ذَنُوبِ أَصْحَـٰبِهِمْ فَلَا يَسْتَعْجِلُونِ"
+arabic: "فَإِنَّ لِلَّذِينَ ظَلَمُوا۟ ذَنُوبًا مِّثْلَ ذَنُوبِ أَصْحَـٰبِهِمْ فَلَا يَسْتَعْجِلُونِ"
 translation: "So indeed, for those who do wrong there is a portion [of punishment] like the portion of their predecessors — so let them not ask Me to hasten it."
 word_count: 9
 estimated_duration: "50-58 minutes"

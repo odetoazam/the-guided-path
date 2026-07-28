@@ -6,7 +6,7 @@ ayah_end: 42
 title: "What the Ruins Have Always Known: Walking Far Enough to See"
 slug: "030-042"
 category: tadabbur
-arabic: "قُلْ سِيرُوا فِي الْأَرْضِ فَانظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلُ ۚ كَانَ أَكْثَرُهُم مُّشْرِكِينَ"
+arabic: "قُلْ سِيرُوا۟ فِى ٱلْأَرْضِ فَٱنظُرُوا۟ كَيْفَ كَانَ عَـٰقِبَةُ ٱلَّذِينَ مِن قَبْلُ ۚ كَانَ أَكْثَرُهُم مُّشْرِكِينَ"
 translation: "Say, 'Travel through the land and observe how the end came about for those who were before you. Most of them were those who associated partners with Allah.'"
 word_count: 4100
 estimated_duration: "48-56 minutes"

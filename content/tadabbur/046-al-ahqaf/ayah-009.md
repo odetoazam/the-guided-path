@@ -6,7 +6,7 @@ ayah_end: 9
 title: "Not New, Not Knowing: The Messenger Defined by Negation"
 slug: "046-009"
 category: tadabbur
-arabic: "قُلْ مَا كُنتُ بِدْعًا مِّنَ ٱلرُّسُلِ وَمَآ أَدْرِى مَا يُفْعَلُ بِى وَلَا بِكُمْ ۖ إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَىَّ وَمَآ أَنَا۠ إِلَّا نَذِيرٌ مُّبِينٌ"
+arabic: "قُلْ مَا كُنتُ بِدْعًا مِّنَ ٱلرُّسُلِ وَمَآ أَدْرِى مَا يُفْعَلُ بِى وَلَا بِكُمْ ۖ إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَىَّ وَمَآ أَنَا۠ إِلَّا نَذِيرٌ مُّبِينٌ"
 translation: "Say, 'I am no novelty among the messengers, nor do I know what will be done with me or with you. I only follow what is revealed to me, and I am only a clear warner.'"
 word_count: 24
 estimated_duration: "50-58 minutes"

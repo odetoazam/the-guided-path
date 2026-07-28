@@ -6,7 +6,7 @@ ayah_end: 12
 title: "The Cradle Turned Wretched: When the Ending Is Announced Before the Fall"
 slug: "003-012"
 category: tadabbur
-arabic: "قُل لِّلَّذِينَ كَفَرُوا۟ سَتُغْلَبُونَ وَتُحْشَرُونَ إِلَىٰ جَهَنَّمَ ۚ وَبِئْسَ ٱلْمِهَادُ"
+arabic: "قُل لِّلَّذِينَ كَفَرُوا۟ سَتُغْلَبُونَ وَتُحْشَرُونَ إِلَىٰ جَهَنَّمَ ۚ وَبِئْسَ ٱلْمِهَادُ"
 translation: "Say to those who disbelieve, 'You will be overcome, and gathered to Hell — and wretched is the resting place.'"
 word_count: 6700
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 45
 title: "Ask the Messengers: The Unbroken Testimony Against Ancestral Faith"
 slug: "043-045"
 category: tadabbur
-arabic: "وَسْـَٔلْ مَنْ أَرْسَلْنَا مِن قَبْلِكَ مِن رُّسُلِنَآ أَجَعَلْنَا مِن دُونِ ٱلرَّحْمَـٰنِ ءَالِهَةً يُعْبَدُونَ"
+arabic: "وَسْـَٔلْ مَنْ أَرْسَلْنَا مِن قَبْلِكَ مِن رُّسُلِنَآ أَجَعَلْنَا مِن دُونِ ٱلرَّحْمَـٰنِ ءَالِهَةً يُعْبَدُونَ"
 translation: "And ask those We sent before you of Our messengers: did We ever appoint, besides the Most Merciful, gods to be worshipped?"
 word_count: 10
 estimated_duration: "50-58 minutes"

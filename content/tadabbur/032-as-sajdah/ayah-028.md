@@ -6,7 +6,7 @@ ayah_end: 28
 title: "The Closed Demand an Opening"
 slug: "032-028"
 category: tadabbur
-arabic: "وَيَقُولُونَ مَتَىٰ هَٰذَا ٱلْفَتْحُ إِن كُنتُمْ صَٰدِقِينَ"
+arabic: "وَيَقُولُونَ مَتَىٰ هَـٰذَا ٱلْفَتْحُ إِن كُنتُمْ صَـٰدِقِينَ"
 translation: "And they say, 'When is this opening — if you are truthful?'"
 word_count: 7
 estimated_duration: "48-55 minutes"

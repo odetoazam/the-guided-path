@@ -6,7 +6,7 @@ ayah_end: 24
 title: "The Fire That Only Touches: How a Self-Authored Lie Becomes a Religion"
 slug: "003-024"
 category: tadabbur
-arabic: "ذَٰلِكَ بِأَنَّهُمْ قَالُوا لَن تَمَسَّنَا النَّارُ إِلَّآ أَيَّامًا مَّعْدُودَاتٍ ۖ وَغَرَّهُمْ فِي دِينِهِم مَّا كَانُوا يَفْتَرُونَ"
+arabic: "ذَٰلِكَ بِأَنَّهُمْ قَالُوا۟ لَن تَمَسَّنَا ٱلنَّارُ إِلَّآ أَيَّامًا مَّعْدُودَٰتٍ ۖ وَغَرَّهُمْ فِى دِينِهِم مَّا كَانُوا۟ يَفْتَرُونَ"
 translation: "That is because they said, \"The Fire will never touch us except for a number of counted days.\" And what they used to invent deceived them in their religion."
 word_count: 15
 estimated_duration: "50-58 minutes"

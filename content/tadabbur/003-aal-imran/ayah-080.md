@@ -6,7 +6,7 @@ ayah_end: 80
 title: "The Messenger Who Points Away From Himself"
 slug: "003-080"
 category: tadabbur
-arabic: "وَلَا يَأْمُرَكُمْ أَن تَتَّخِذُوا۟ ٱلْمَلَـٰٓئِكَةَ وَٱلنَّبِيِّـۧنَ أَرْبَابًا ۗ أَيَأْمُرُكُم بِٱلْكُفْرِ بَعْدَ إِذْ أَنتُم مُّسْلِمُونَ"
+arabic: "وَلَا يَأْمُرَكُمْ أَن تَتَّخِذُوا۟ ٱلْمَلَـٰٓئِكَةَ وَٱلنَّبِيِّـۧنَ أَرْبَابًا ۗ أَيَأْمُرُكُم بِٱلْكُفْرِ بَعْدَ إِذْ أَنتُم مُّسْلِمُونَ"
 translation: "Nor would he command you to take the angels and the prophets as lords. Would he command you to disbelief after you had submitted [as Muslims]?"
 word_count: 13
 estimated_duration: "50-58 minutes"

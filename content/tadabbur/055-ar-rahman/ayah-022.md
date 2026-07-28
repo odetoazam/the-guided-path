@@ -6,7 +6,7 @@ ayah_end: 22
 title: "From Both of Them: The Pearl, the Hidden Maker, and the Grammar of Grace"
 slug: "055-022"
 category: tadabbur
-arabic: "يَخْرُجُ مِنْهُمَا ٱللُّؤْلُؤُ وَٱلْمَرْجَانُ"
+arabic: "يَخْرُجُ مِنْهُمَا ٱللُّؤْلُؤُ وَٱلْمَرْجَانُ"
 translation: "There comes forth from both of them the pearl and the coral."
 word_count: 4
 estimated_duration: "50-58 minutes"

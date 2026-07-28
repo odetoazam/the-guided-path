@@ -6,7 +6,7 @@ ayah_end: 6
 title: "The Scattering and the Showing: How the Crowd Becomes a Procession of One"
 slug: "099-006"
 category: tadabbur
-arabic: "يَوْمَئِذٍ يَصْدُرُ ٱلنَّاسُ أَشْتَاتًا لِّيُرَوْا۟ أَعْمَـٰلَهُمْ"
+arabic: "يَوْمَئِذٍ يَصْدُرُ ٱلنَّاسُ أَشْتَاتًا لِّيُرَوْا۟ أَعْمَـٰلَهُمْ"
 translation: "That Day, mankind will proceed forth in scattered groups, to be shown their deeds."
 word_count: 6
 estimated_duration: "50-56 minutes"

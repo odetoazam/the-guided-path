@@ -6,7 +6,7 @@ ayah_end: 7
 title: "The Tunnel and the Treasuries: When the People of Nifaq Forbade Infaq"
 slug: "063-007"
 category: tadabbur
-arabic: "هُمُ ٱلَّذِينَ يَقُولُونَ لَا تُنفِقُوا۟ عَلَىٰ مَنْ عِندَ رَسُولِ ٱللَّهِ حَتَّىٰ يَنفَضُّوا۟ ۗ وَلِلَّهِ خَزَآئِنُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَلَٰكِنَّ ٱلْمُنَٰفِقِينَ لَا يَفْقَهُونَ"
+arabic: "هُمُ ٱلَّذِينَ يَقُولُونَ لَا تُنفِقُوا۟ عَلَىٰ مَنْ عِندَ رَسُولِ ٱللَّهِ حَتَّىٰ يَنفَضُّوا۟ ۗ وَلِلَّهِ خَزَآئِنُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَلَـٰكِنَّ ٱلْمُنَـٰفِقِينَ لَا يَفْقَهُونَ"
 translation: "They are the ones who say, \"Do not spend on those who are with the Messenger of Allah until they disband.\" And to Allah belong the treasuries of the heavens and the earth — but the hypocrites do not understand."
 word_count: 20
 estimated_duration: "50-58 minutes"

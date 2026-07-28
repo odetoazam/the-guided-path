@@ -6,7 +6,7 @@ ayah_end: 25
 title: "The Affection That Becomes Enmity: When Shared Idols Turn on Their Worshippers"
 slug: "029-025"
 category: tadabbur
-arabic: "وَقَالَ إِنَّمَا ٱتَّخَذْتُم مِّن دُونِ ٱللَّهِ أَوْثَـٰنًۭا مَّوَدَّةَ بَيْنِكُمْ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا ۖ ثُمَّ يَوْمَ ٱلْقِيَـٰمَةِ يَكْفُرُ بَعْضُكُم بِبَعْضٍۢ وَيَلْعَنُ بَعْضُكُم بَعْضًۭا وَمَأْوَىٰكُمُ ٱلنَّارُ وَمَا لَكُم مِّن نَّـٰصِرِينَ"
+arabic: "وَقَالَ إِنَّمَا ٱتَّخَذْتُم مِّن دُونِ ٱللَّهِ أَوْثَـٰنًا مَّوَدَّةَ بَيْنِكُمْ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا ۖ ثُمَّ يَوْمَ ٱلْقِيَـٰمَةِ يَكْفُرُ بَعْضُكُم بِبَعْضٍ وَيَلْعَنُ بَعْضُكُم بَعْضًا وَمَأْوَىٰكُمُ ٱلنَّارُ وَمَا لَكُم مِّن نَّـٰصِرِينَ"
 translation: "And [Ibrahim] said: 'You have only taken, besides Allah, idols — [as a means of] affection among yourselves in the life of this world. Then on the Day of Resurrection, you will disown one another and curse one another, and your refuge will be the Fire, and you will have no helpers.'"
 word_count: 32
 estimated_duration: "50-58 minutes"

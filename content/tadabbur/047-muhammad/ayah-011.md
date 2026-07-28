@@ -6,7 +6,7 @@ ayah_end: 11
 title: "The One Who Has No One: Mawlā and the Anatomy of Backing"
 slug: "047-011"
 category: tadabbur
-arabic: "ذَٰلِكَ بِأَنَّ ٱللَّهَ مَوْلَى ٱلَّذِينَ ءَامَنُوا۟ وَأَنَّ ٱلْكَٰفِرِينَ لَا مَوْلَىٰ لَهُمْ"
+arabic: "ذَٰلِكَ بِأَنَّ ٱللَّهَ مَوْلَى ٱلَّذِينَ ءَامَنُوا۟ وَأَنَّ ٱلْكَـٰفِرِينَ لَا مَوْلَىٰ لَهُمْ"
 translation: "That is because Allah is the Protector of those who believe, and because the disbelievers have no protector at all."
 word_count: 11
 estimated_duration: "50-58 minutes"

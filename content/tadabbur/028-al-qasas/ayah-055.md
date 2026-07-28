@@ -6,7 +6,7 @@ ayah_end: 55
 title: "The Dignified Turn: How the Believer Walks Past Noise"
 slug: "028-055"
 category: tadabbur
-arabic: "وَإِذَا سَمِعُوا اللَّغْوَ أَعْرَضُوا عَنْهُ وَقَالُوا لَنَا أَعْمَالُنَا وَلَكُمْ أَعْمَالُكُمْ سَلَامٌ عَلَيْكُمْ لَا نَبْتَغِي الْجَاهِلِينَ"
+arabic: "وَإِذَا سَمِعُوا۟ ٱللَّغْوَ أَعْرَضُوا۟ عَنْهُ وَقَالُوا۟ لَنَآ أَعْمَـٰلُنَا وَلَكُمْ أَعْمَـٰلُكُمْ سَلَـٰمٌ عَلَيْكُمْ لَا نَبْتَغِى ٱلْجَـٰهِلِينَ"
 translation: "And when they hear vain talk, they turn away from it and say: 'For us are our deeds, and for you are your deeds. Peace be upon you — we do not seek out the ignorant.'"
 word_count: 13
 estimated_duration: "48-55 minutes"

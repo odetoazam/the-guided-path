@@ -6,7 +6,7 @@ ayah_end: 12
 title: "The Wind That Carried a Kingdom — and the Whisper That Could Cost It"
 slug: "034-012"
 category: tadabbur
-arabic: "وَلِسُلَيْمَـٰنَ ٱلرِّيحَ غُدُوُّهَا شَهْرٌ وَرَوَاحُهَا شَهْرٌ ۖ وَأَسَلْنَا لَهُۥ عَيْنَ ٱلْقِطْرِ ۖ وَمِنَ ٱلْجِنِّ مَن يَعْمَلُ بَيْنَ يَدَيْهِ بِإِذْنِ رَبِّهِۦ ۖ وَمَن يَزِغْ مِنْهُمْ عَنْ أَمْرِنَا نُذِقْهُ مِنْ عَذَابِ ٱلسَّعِيرِ"
+arabic: "وَلِسُلَيْمَـٰنَ ٱلرِّيحَ غُدُوُّهَا شَهْرٌ وَرَوَاحُهَا شَهْرٌ ۖ وَأَسَلْنَا لَهُۥ عَيْنَ ٱلْقِطْرِ ۖ وَمِنَ ٱلْجِنِّ مَن يَعْمَلُ بَيْنَ يَدَيْهِ بِإِذْنِ رَبِّهِۦ ۖ وَمَن يَزِغْ مِنْهُمْ عَنْ أَمْرِنَا نُذِقْهُ مِنْ عَذَابِ ٱلسَّعِيرِ"
 translation: "And to Sulaymān, the wind — its morning course was a month and its evening course was a month. And We caused a spring of molten copper to flow for him. And among the jinn were those who worked before him by the permission of his Lord. And whoever among them deviated from Our command — We would make him taste the punishment of the Blaze."
 word_count: 27
 estimated_duration: "50-55 minutes"

@@ -6,7 +6,7 @@ ayah_end: 6
 title: "The Question That Does Not Want an Answer"
 slug: "075-006"
 category: tadabbur
-arabic: "يَسْـَٔلُ أَيَّانَ يَوْمُ ٱلْقِيَـٰمَةِ"
+arabic: "يَسْـَٔلُ أَيَّانَ يَوْمُ ٱلْقِيَـٰمَةِ"
 translation: "He asks: 'When is the Day of Resurrection?'"
 word_count: 6750
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 89
 title: "The Door Cut Into the Sealed Wall: Repentance, Repair, and the Names That Were Already True"
 slug: "003-089"
 category: tadabbur
-arabic: "إِلَّا ٱلَّذِينَ تَابُوا۟ مِنۢ بَعْدِ ذَٰلِكَ وَأَصْلَحُوا۟ فَإِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌ"
+arabic: "إِلَّا ٱلَّذِينَ تَابُوا۟ مِنۢ بَعْدِ ذَٰلِكَ وَأَصْلَحُوا۟ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ"
 translation: "Except for those who repent after that and make amends — for indeed, Allah is Oft-Forgiving, Most Merciful."
 word_count: 10
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 9
 title: "They Came With the Sin: Pharaoh, the Overturned Cities, and the One Root of Every Collapse"
 slug: "069-009"
 category: tadabbur
-arabic: "وَجَآءَ فِرْعَوْنُ وَمَن قَبْلَهُۥ وَٱلْمُؤْتَفِكَـٰتُ بِٱلْخَاطِئَةِ"
+arabic: "وَجَآءَ فِرْعَوْنُ وَمَن قَبْلَهُۥ وَٱلْمُؤْتَفِكَـٰتُ بِٱلْخَاطِئَةِ"
 translation: "And Pharaoh came, and those before him, and the overturned cities — all with the sin."
 word_count: 4100
 estimated_duration: "50-58 minutes"

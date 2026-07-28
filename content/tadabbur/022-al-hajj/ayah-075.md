@@ -6,7 +6,7 @@ ayah_end: 75
 title: "Allah Chooses: The Selecting From Among Angels and Men"
 slug: "022-075"
 category: tadabbur
-arabic: "اللَّهُ يَصْطَفِي مِنَ الْمَلَائِكَةِ رُسُلًا وَمِنَ النَّاسِ ۚ إِنَّ اللَّهَ سَمِيعٌ بَصِيرٌ"
+arabic: "ٱللَّهُ يَصْطَفِى مِنَ ٱلْمَلَـٰٓئِكَةِ رُسُلًا وَمِنَ ٱلنَّاسِ ۚ إِنَّ ٱللَّهَ سَمِيعٌۢ بَصِيرٌ"
 translation: "Allah selects from the angels messengers, and from mankind. Indeed Allah is All-Hearing, All-Seeing."
 word_count: 12
 estimated_duration: "48-55 minutes"

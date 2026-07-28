@@ -6,7 +6,7 @@ ayah_end: 16
 title: "The Promise That Was Asked For"
 slug: "025-016"
 category: tadabbur
-arabic: "لَّهُمْ فِيهَا مَا يَشَآءُونَ خَـٰلِدِينَ ۚ كَانَ عَلَىٰ رَبِّكَ وَعْدًۭا مَّسْـُٔولًۭا"
+arabic: "لَّهُمْ فِيهَا مَا يَشَآءُونَ خَـٰلِدِينَ ۚ كَانَ عَلَىٰ رَبِّكَ وَعْدًا مَّسْـُٔولًا"
 translation: "For them, therein, is whatever they wish — abiding eternally. It is, upon your Lord, a promise [that has been] asked of Him."
 word_count: 11
 estimated_duration: "50-55 minutes"

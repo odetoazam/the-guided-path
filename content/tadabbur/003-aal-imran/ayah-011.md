@@ -6,7 +6,7 @@ ayah_end: 11
 title: "The Tireless Habit: Why Denial Repeats Itself Across Every Generation"
 slug: "003-011"
 category: tadabbur
-arabic: "كَدَأْبِ آلِ فِرْعَوْنَ وَالَّذِينَ مِن قَبْلِهِمْ ۚ كَذَّبُوا بِآيَاتِنَا فَأَخَذَهُمُ اللَّهُ بِذُنُوبِهِمْ ۗ وَاللَّهُ شَدِيدُ الْعِقَابِ"
+arabic: "كَدَأْبِ ءَالِ فِرْعَوْنَ وَٱلَّذِينَ مِن قَبْلِهِمْ ۚ كَذَّبُوا۟ بِـَٔايَـٰتِنَا فَأَخَذَهُمُ ٱللَّهُ بِذُنُوبِهِمْ ۗ وَٱللَّهُ شَدِيدُ ٱلْعِقَابِ"
 translation: "Like the way of the people of Pharaoh and those before them — they denied Our signs, so Allah seized them for their sins. And Allah is severe in punishment."
 word_count: 14
 estimated_duration: "50-58 minutes"

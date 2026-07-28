@@ -6,7 +6,7 @@ ayah_end: 1
 title: "The True Sentence of a Lying Tongue"
 slug: "063-001"
 category: tadabbur
-arabic: "إِذَا جَآءَكَ ٱلْمُنَٰفِقُونَ قَالُوا۟ نَشْهَدُ إِنَّكَ لَرَسُولُ ٱللَّهِ ۗ وَٱللَّهُ يَعْلَمُ إِنَّكَ لَرَسُولُهُۥ ۖ وَٱللَّهُ يَشْهَدُ إِنَّ ٱلْمُنَٰفِقِينَ لَكَٰذِبُونَ"
+arabic: "إِذَا جَآءَكَ ٱلْمُنَـٰفِقُونَ قَالُوا۟ نَشْهَدُ إِنَّكَ لَرَسُولُ ٱللَّهِ ۗ وَٱللَّهُ يَعْلَمُ إِنَّكَ لَرَسُولُهُۥ وَٱللَّهُ يَشْهَدُ إِنَّ ٱلْمُنَـٰفِقِينَ لَكَـٰذِبُونَ"
 translation: "When the hypocrites come to you, they say, \"We bear witness that you are indeed the Messenger of Allah.\" And Allah knows that you are indeed His Messenger, and Allah bears witness that the hypocrites are surely liars."
 word_count: 17
 estimated_duration: "50-58 minutes"

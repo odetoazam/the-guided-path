@@ -6,7 +6,7 @@ ayah_end: 59
 title: "The Seal on the Heart That Refuses to Know"
 slug: "030-059"
 category: tadabbur
-arabic: "كَذَٰلِكَ يَطْبَعُ ٱللَّهُ عَلَىٰ قُلُوبِ ٱلَّذِينَ لَا يَعْلَمُونَ"
+arabic: "كَذَٰلِكَ يَطْبَعُ ٱللَّهُ عَلَىٰ قُلُوبِ ٱلَّذِينَ لَا يَعْلَمُونَ"
 translation: "Thus does Allah seal the hearts of those who do not know."
 word_count: 7
 estimated_duration: "48-55 minutes"

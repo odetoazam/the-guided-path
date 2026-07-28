@@ -6,7 +6,7 @@ ayah_end: 36
 title: "When Warning Becomes a Debate Topic: The People Who Argued With the Alarm"
 slug: "054-036"
 category: tadabbur
-arabic: "وَلَقَدْ أَنذَرَهُم بَطْشَتَنَآ فَتَمَارَوْا۟ بِٱلنُّذُرِ"
+arabic: "وَلَقَدْ أَنذَرَهُم بَطْشَتَنَا فَتَمَارَوْا۟ بِٱلنُّذُرِ"
 translation: "And he had certainly warned them of Our seizure, but they disputed the warnings."
 word_count: 4900
 estimated_duration: "48-55 minutes"

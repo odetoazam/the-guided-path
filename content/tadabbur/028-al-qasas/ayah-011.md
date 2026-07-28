@@ -6,7 +6,7 @@ ayah_end: 11
 title: "Watched from the Side: How Allah's Plan Moves Through What Power Cannot Sense"
 slug: "028-011"
 category: tadabbur
-arabic: "وَقَالَتْ لِأُخْتِهِ قُصِّيهِ ۖ فَبَصُرَتْ بِهِ عَن جُنُبٍ وَهُمْ لَا يَشْعُرُونَ"
+arabic: "وَقَالَتْ لِأُخْتِهِۦ قُصِّيهِ ۖ فَبَصُرَتْ بِهِۦ عَن جُنُبٍ وَهُمْ لَا يَشْعُرُونَ"
 translation: "And she said to his sister, 'Trace him.' So she observed him from the side — while they did not perceive."
 word_count: 4850
 estimated_duration: "48-56 minutes"

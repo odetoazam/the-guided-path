@@ -6,7 +6,7 @@ ayah_end: 8
 title: "The Love You Didn't Author: Faith as Unearned Grace"
 slug: "049-008"
 category: tadabbur
-arabic: "فَضْلًۭا مِّنَ ٱللَّهِ وَنِعْمَةًۭ ۚ وَٱللَّهُ عَلِيمٌ حَكِيمٌۭ"
+arabic: "فَضْلًا مِّنَ ٱللَّهِ وَنِعْمَةً ۚ وَٱللَّهُ عَلِيمٌ حَكِيمٌ"
 translation: "As a bounty from Allah and a favor. And Allah is All-Knowing, All-Wise."
 word_count: 6
 estimated_duration: "50-58 minutes"

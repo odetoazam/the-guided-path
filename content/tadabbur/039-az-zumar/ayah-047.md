@@ -6,7 +6,7 @@ ayah_end: 47
 title: "The Ledger That Forgot to Count Allah"
 slug: "039-047"
 category: tadabbur
-arabic: "وَلَوْ أَنَّ لِلَّذِينَ ظَلَمُوا۟ مَا فِى ٱلْأَرْضِ جَمِيعًۭا وَمِثْلَهُۥ مَعَهُۥ لَٱفْتَدَوْا۟ بِهِۦ مِن سُوٓءِ ٱلْعَذَابِ يَوْمَ ٱلْقِيَـٰمَةِ ۚ وَبَدَا لَهُم مِّنَ ٱللَّهِ مَا لَمْ يَكُونُوا۟ يَحْتَسِبُونَ"
+arabic: "وَلَوْ أَنَّ لِلَّذِينَ ظَلَمُوا۟ مَا فِى ٱلْأَرْضِ جَمِيعًا وَمِثْلَهُۥ مَعَهُۥ لَٱفْتَدَوْا۟ بِهِۦ مِن سُوٓءِ ٱلْعَذَابِ يَوْمَ ٱلْقِيَـٰمَةِ ۚ وَبَدَا لَهُم مِّنَ ٱللَّهِ مَا لَمْ يَكُونُوا۟ يَحْتَسِبُونَ"
 translation: "And if those who did wrong possessed all that is in the earth, and the like of it with it, they would offer it to ransom themselves from the evil of the punishment on the Day of Resurrection. And there will appear to them, from Allah, that which they had never taken into account."
 word_count: 25
 estimated_duration: "50-58 minutes"

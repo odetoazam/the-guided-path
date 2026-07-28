@@ -6,7 +6,7 @@ ayah_end: 20
 title: "The Down-Payment and the Hands You Never Saw Raised"
 slug: "048-020"
 category: tadabbur
-arabic: "وَعَدَكُمُ ٱللَّهُ مَغَانِمَ كَثِيرَةً تَأْخُذُونَهَا فَعَجَّلَ لَكُمْ هَـٰذِهِۦ وَكَفَّ أَيْدِىَ ٱلنَّاسِ عَنكُمْ وَلِتَكُونَ ءَايَةً لِّلْمُؤْمِنِينَ وَيَهْدِيَكُمْ صِرَٰطًا مُّسْتَقِيمًا"
+arabic: "وَعَدَكُمُ ٱللَّهُ مَغَانِمَ كَثِيرَةً تَأْخُذُونَهَا فَعَجَّلَ لَكُمْ هَـٰذِهِۦ وَكَفَّ أَيْدِىَ ٱلنَّاسِ عَنكُمْ وَلِتَكُونَ ءَايَةً لِّلْمُؤْمِنِينَ وَيَهْدِيَكُمْ صِرَٰطًا مُّسْتَقِيمًا"
 translation: "Allah has promised you abundant spoils that you will take, and He has hastened this one for you, and has restrained the hands of the people from you — so that it may be a sign for the believers, and that He may guide you to a straight path."
 word_count: 19
 estimated_duration: "50-58 minutes"

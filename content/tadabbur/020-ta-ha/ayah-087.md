@@ -6,7 +6,7 @@ ayah_end: 87
 title: "Ḥummilnā: The Grammar of Moral Evasion"
 slug: "020-087"
 category: tadabbur
-arabic: "قَالُوا۟ مَآ أَخْلَفْنَا مَوْعِدَكَ بِمَلْكِنَا وَلَـٰكِنَّا حُمِّلْنَآ أَوْزَارًۭا مِّن زِينَةِ ٱلْقَوْمِ فَقَذَفْنَـٰهَا فَكَذَٰلِكَ أَلْقَى ٱلسَّامِرِىُّ"
+arabic: "قَالُوا۟ مَآ أَخْلَفْنَا مَوْعِدَكَ بِمَلْكِنَا وَلَـٰكِنَّا حُمِّلْنَآ أَوْزَارًا مِّن زِينَةِ ٱلْقَوْمِ فَقَذَفْنَـٰهَا فَكَذَٰلِكَ أَلْقَى ٱلسَّامِرِىُّ"
 translation: "They said: We did not break our promise to you of our own accord, but we were made to carry burdens from the ornaments of the people, so we cast them — and thus did the Samiri cast."
 word_count: 21
 estimated_duration: "50-55 minutes"

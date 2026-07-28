@@ -6,7 +6,7 @@ ayah_end: 15
 title: "You Are Not Needy — You Are Need Itself"
 slug: "035-015"
 category: tadabbur
-arabic: "يَـٰٓأَيُّهَا ٱلنَّاسُ أَنتُمُ ٱلْفُقَرَآءُ إِلَى ٱللَّهِ ۖ وَٱللَّهُ هُوَ ٱلْغَنِىُّ ٱلْحَمِيدُ"
+arabic: "۞ يَـٰٓأَيُّهَا ٱلنَّاسُ أَنتُمُ ٱلْفُقَرَآءُ إِلَى ٱللَّهِ ۖ وَٱللَّهُ هُوَ ٱلْغَنِىُّ ٱلْحَمِيدُ"
 translation: "O mankind, you are the fuqarā' — the poor — toward Allah. And Allah, He is the Self-Sufficient, the Praiseworthy."
 word_count: 10
 estimated_duration: "50-56 minutes"

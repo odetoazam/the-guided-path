@@ -6,7 +6,7 @@ ayah_end: 48
 title: "The Wind That Carries Mercy Before It Arrives"
 slug: "025-048"
 category: tadabbur
-arabic: "وَهُوَ ٱلَّذِىٓ أَرْسَلَ ٱلرِّيَـٰحَ بُشْرًۢا بَيْنَ يَدَىْ رَحْمَتِهِۦ ۚ وَأَنزَلْنَا مِنَ ٱلسَّمَآءِ مَآءً طَهُورًا"
+arabic: "وَهُوَ ٱلَّذِىٓ أَرْسَلَ ٱلرِّيَـٰحَ بُشْرًۢا بَيْنَ يَدَىْ رَحْمَتِهِۦ ۚ وَأَنزَلْنَا مِنَ ٱلسَّمَآءِ مَآءً طَهُورًا"
 translation: "And He is the One who sent the winds as glad tidings before His mercy. And We sent down from the sky water — pure, purifying."
 word_count: 16
 estimated_duration: "48-55 minutes"

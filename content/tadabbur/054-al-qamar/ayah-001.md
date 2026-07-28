@@ -6,7 +6,7 @@ ayah_end: 1
 title: "The Past Tense of the Future: When the Moon Answered and the Hour Drew Near"
 slug: "054-001"
 category: tadabbur
-arabic: "ٱقْتَرَبَتِ ٱلسَّاعَةُ وَٱنشَقَّ ٱلْقَمَرُ"
+arabic: "ٱقْتَرَبَتِ ٱلسَّاعَةُ وَٱنشَقَّ ٱلْقَمَرُ"
 translation: "The Hour has drawn near, and the moon has split."
 word_count: 5100
 estimated_duration: "48-56 minutes"

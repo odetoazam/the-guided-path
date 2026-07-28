@@ -6,7 +6,7 @@ ayah_end: 33
 title: "The Pre-Empted Argument: How Allah Answers Before They Ask"
 slug: "025-033"
 category: tadabbur
-arabic: "وَلَا يَأْتُونَكَ بِمَثَلٍ إِلَّا جِئْنَاكَ بِالْحَقِّ وَأَحْسَنَ تَفْسِيرًا"
+arabic: "وَلَا يَأْتُونَكَ بِمَثَلٍ إِلَّا جِئْنَـٰكَ بِٱلْحَقِّ وَأَحْسَنَ تَفْسِيرًا"
 translation: "And they do not come to you with any argument except that We bring you the truth and the best explanation."
 word_count: 9
 estimated_duration: "48-55 minutes"

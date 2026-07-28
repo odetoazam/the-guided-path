@@ -6,7 +6,7 @@ ayah_end: 36
 title: "The Counterfeit Gathering: How Power Defers the Truth It Cannot Defeat"
 slug: "026-036"
 category: tadabbur
-arabic: "قَالُوا أَرْجِهْ وَأَخَاهُ وَابْعَثْ فِي الْمَدَائِنِ حَاشِرِينَ"
+arabic: "قَالُوٓا۟ أَرْجِهْ وَأَخَاهُ وَٱبْعَثْ فِى ٱلْمَدَآئِنِ حَـٰشِرِينَ"
 translation: "They said: 'Delay him and his brother, and dispatch throughout the cities gatherers.'"
 word_count: 3800
 estimated_duration: "48-56 minutes"

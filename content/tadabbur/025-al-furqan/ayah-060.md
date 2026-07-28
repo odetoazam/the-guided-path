@@ -6,7 +6,7 @@ ayah_end: 60
 title: "When the Command to Prostrate Increases the Distance"
 slug: "025-060"
 category: tadabbur
-arabic: "وَإِذَا قِيلَ لَهُمُ ٱسْجُدُوا۟ لِلرَّحْمَـٰنِ قَالُوا۟ وَمَا ٱلرَّحْمَـٰنُ أَنَسْجُدُ لِمَا تَأْمُرُنَا وَزَادَهُمْ نُفُورًا"
+arabic: "وَإِذَا قِيلَ لَهُمُ ٱسْجُدُوا۟ لِلرَّحْمَـٰنِ قَالُوا۟ وَمَا ٱلرَّحْمَـٰنُ أَنَسْجُدُ لِمَا تَأْمُرُنَا وَزَادَهُمْ نُفُورًا ۩"
 translation: "And when it is said to them, 'Prostrate to the Most Merciful,' they say, 'And what is the Most Merciful? Should we prostrate to that which you order us?' And it increases them in aversion."
 word_count: 18
 estimated_duration: "50-58 minutes"

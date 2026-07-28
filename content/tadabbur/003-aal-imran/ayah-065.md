@@ -6,7 +6,7 @@ ayah_end: 65
 title: "Before the Labels: Why You Cannot Argue Over a Man Who Came First"
 slug: "003-065"
 category: tadabbur
-arabic: "يَـٰٓأَهْلَ ٱلْكِتَـٰبِ لِمَ تُحَآجُّونَ فِىٓ إِبْرَٰهِيمَ وَمَآ أُنزِلَتِ ٱلتَّوْرَىٰةُ وَٱلْإِنجِيلُ إِلَّا مِنۢ بَعْدِهِۦٓ ۚ أَفَلَا تَعْقِلُونَ"
+arabic: "يَـٰٓأَهْلَ ٱلْكِتَـٰبِ لِمَ تُحَآجُّونَ فِىٓ إِبْرَٰهِيمَ وَمَآ أُنزِلَتِ ٱلتَّوْرَىٰةُ وَٱلْإِنجِيلُ إِلَّا مِنۢ بَعْدِهِۦٓ ۚ أَفَلَا تَعْقِلُونَ"
 translation: "O People of the Book! Why do you argue about Ibrahim, when the Torah and the Gospel were not sent down until after him? Will you not, then, use your reason?"
 word_count: 13
 estimated_duration: "50-58 minutes"

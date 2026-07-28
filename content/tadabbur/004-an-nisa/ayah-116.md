@@ -6,7 +6,7 @@ ayah_end: 116
 title: "The One Door That Stays Shut, and the Infinite Doors Left Open"
 slug: "004-116"
 category: tadabbur
-arabic: "إِنَّ ٱللَّهَ لَا يَغْفِرُ أَن يُشْرَكَ بِهِۦ وَيَغْفِرُ مَا دُونَ ذَٰلِكَ لِمَن يَشَآءُ ۚ وَمَن يُشْرِكْ بِٱللَّهِ فَقَدْ ضَلَّ ضَلَـٰلًۢا بَعِيدًا"
+arabic: "إِنَّ ٱللَّهَ لَا يَغْفِرُ أَن يُشْرَكَ بِهِۦ وَيَغْفِرُ مَا دُونَ ذَٰلِكَ لِمَن يَشَآءُ ۚ وَمَن يُشْرِكْ بِٱللَّهِ فَقَدْ ضَلَّ ضَلَـٰلًۢا بَعِيدًا"
 translation: "Indeed, Allah does not forgive that partners be associated with Him, but He forgives what is less than that for whom He wills. And whoever associates partners with Allah has certainly strayed — a far, far straying."
 word_count: 20
 estimated_duration: "50-58 minutes"

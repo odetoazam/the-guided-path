@@ -6,7 +6,7 @@ ayah_end: 5
 title: "The Heavens That Almost Break — and the Angels Who Beg Your Forgiveness"
 slug: "042-005"
 category: tadabbur
-arabic: "تَكَادُ ٱلسَّمَٰوَٰتُ يَتَفَطَّرْنَ مِن فَوْقِهِنَّ ۚ وَٱلْمَلَٰٓئِكَةُ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ وَيَسْتَغْفِرُونَ لِمَن فِى ٱلْأَرْضِ ۗ أَلَآ إِنَّ ٱللَّهَ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ"
+arabic: "تَكَادُ ٱلسَّمَـٰوَٰتُ يَتَفَطَّرْنَ مِن فَوْقِهِنَّ ۚ وَٱلْمَلَـٰٓئِكَةُ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ وَيَسْتَغْفِرُونَ لِمَن فِى ٱلْأَرْضِ ۗ أَلَآ إِنَّ ٱللَّهَ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ"
 translation: "The heavens are almost split apart from above them — while the angels glorify the praise of their Lord and ask forgiveness for those on the earth. Unquestionably, it is Allah who is the All-Forgiving, the Most Merciful."
 word_count: 6400
 estimated_duration: "50-58 minutes"

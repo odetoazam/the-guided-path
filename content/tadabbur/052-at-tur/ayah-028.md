@@ -6,7 +6,7 @@ ayah_end: 28
 title: "The Habit That Built a Garden: 'We Used to Call Upon Him'"
 slug: "052-028"
 category: tadabbur
-arabic: "إِنَّا كُنَّا مِن قَبْلُ نَدْعُوهُ ۖ إِنَّهُۥ هُوَ ٱلْبَرُّ ٱلرَّحِيمُ"
+arabic: "إِنَّا كُنَّا مِن قَبْلُ نَدْعُوهُ ۖ إِنَّهُۥ هُوَ ٱلْبَرُّ ٱلرَّحِيمُ"
 translation: "Indeed, we used to call upon Him before. Indeed, it is He who is al-Barr — the Most Good, the Most Kind, the Faithful — the Most Merciful."
 word_count: 9
 estimated_duration: "50-58 minutes"

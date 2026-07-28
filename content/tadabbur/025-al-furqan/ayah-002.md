@@ -6,7 +6,7 @@ ayah_end: 2
 title: "The One Who Owns Without Partner: Sovereignty, Sonship, and the Measured Universe"
 slug: "025-002"
 category: tadabbur
-arabic: "ٱلَّذِى لَهُۥ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَلَمْ يَتَّخِذْ وَلَدًۭا وَلَمْ يَكُن لَّهُۥ شَرِيكٌۭ فِى ٱلْمُلْكِ وَخَلَقَ كُلَّ شَىْءٍۢ فَقَدَّرَهُۥ تَقْدِيرًۭا"
+arabic: "ٱلَّذِى لَهُۥ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَلَمْ يَتَّخِذْ وَلَدًا وَلَمْ يَكُن لَّهُۥ شَرِيكٌ فِى ٱلْمُلْكِ وَخَلَقَ كُلَّ شَىْءٍ فَقَدَّرَهُۥ تَقْدِيرًا"
 translation: "The One to whom belongs the dominion of the heavens and the earth, who has not taken a child, and who has no partner in dominion — and He created every single thing, then measured it out with precise measure."
 word_count: 18
 estimated_duration: "50-58 minutes"

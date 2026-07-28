@@ -6,7 +6,7 @@ ayah_end: 20
 title: "Recognition Without Belief — How the Soul Refuses What It Already Knows"
 slug: "006-020"
 category: tadabbur
-arabic: "الَّذِينَ آتَيْنَاهُمُ الْكِتَابَ يَعْرِفُونَهُ كَمَا يَعْرِفُونَ أَبْنَاءَهُمُ ۘ الَّذِينَ خَسِرُوا أَنفُسَهُمْ فَهُمْ لَا يُؤْمِنُونَ"
+arabic: "ٱلَّذِينَ ءَاتَيْنَـٰهُمُ ٱلْكِتَـٰبَ يَعْرِفُونَهُۥ كَمَا يَعْرِفُونَ أَبْنَآءَهُمُ ۘ ٱلَّذِينَ خَسِرُوٓا۟ أَنفُسَهُمْ فَهُمْ لَا يُؤْمِنُونَ"
 translation: "Those to whom We gave the Book recognize him as they recognize their own sons. The ones who have lost their own souls — they are the ones who will not believe."
 word_count: 14
 estimated_duration: "48-55 minutes"

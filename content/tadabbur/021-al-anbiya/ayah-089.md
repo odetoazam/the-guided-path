@@ -6,7 +6,7 @@ ayah_end: 89
 slug: 21-89-do-not-leave-me-alone-best-of-inheritors
 category: tadabbur
 title: "Do Not Leave Me Alone: Zakariyya and the Best of Inheritors"
-arabic: "وَزَكَرِيَّآ إِذْ نَادَىٰ رَبَّهُۥ رَبِّ لَا تَذَرْنِى فَرْدًۭا وَأَنتَ خَيْرُ ٱلْوَٰرِثِينَ"
+arabic: "وَزَكَرِيَّآ إِذْ نَادَىٰ رَبَّهُۥ رَبِّ لَا تَذَرْنِى فَرْدًا وَأَنتَ خَيْرُ ٱلْوَٰرِثِينَ"
 translation: "And [remember] Zakariyya, when he called out to his Lord, 'My Lord, do not leave me alone [with no heir], and You are the best of inheritors.'"
 estimated_duration: "52 minutes"
 passage_context: "Part of the rapid prophet-gallery of Surah al-Anbiya (76–90), where prophet after prophet is shown in a single moment of calling upon Allah, each cry answered."

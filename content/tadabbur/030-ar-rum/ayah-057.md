@@ -6,7 +6,7 @@ ayah_end: 57
 title: "The Day Apology Becomes Impossible"
 slug: "030-057"
 category: tadabbur
-arabic: "فَيَوْمَئِذٍ لَّا يَنفَعُ الَّذِينَ ظَلَمُوا۟ مَعْذِرَتُهُمْ وَلَا هُمْ يُسْتَعْتَبُونَ"
+arabic: "فَيَوْمَئِذٍ لَّا يَنفَعُ ٱلَّذِينَ ظَلَمُوا۟ مَعْذِرَتُهُمْ وَلَا هُمْ يُسْتَعْتَبُونَ"
 translation: "So on that Day their excuse will not benefit those who wronged, nor will they be asked to make amends."
 word_count: 11
 estimated_duration: "50-55 minutes"

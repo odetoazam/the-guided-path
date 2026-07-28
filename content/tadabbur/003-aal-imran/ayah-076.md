@@ -6,7 +6,7 @@ ayah_end: 76
 title: "The Covenant That Has No Exceptions: بَلَىٰ and the Love That Follows"
 slug: "003-076"
 category: tadabbur
-arabic: "بَلَىٰ مَنْ أَوْفَىٰ بِعَهْدِهِۦ وَٱتَّقَىٰ فَإِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَّقِينَ"
+arabic: "بَلَىٰ مَنْ أَوْفَىٰ بِعَهْدِهِۦ وَٱتَّقَىٰ فَإِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَّقِينَ"
 translation: "Nay — whoever fulfills his covenant and fears Allah, then indeed Allah loves those who fear Him."
 word_count: 7600
 estimated_duration: "50-58 minutes"

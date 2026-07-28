@@ -6,7 +6,7 @@ ayah_end: 52
 title: "Nothing But a Reminder: How the Charge of Madness Became Mercy for All Worlds"
 slug: "068-052"
 category: tadabbur
-arabic: "وَمَا هُوَ إِلَّا ذِكْرٌ لِّلْعَٰلَمِينَ"
+arabic: "وَمَا هُوَ إِلَّا ذِكْرٌ لِّلْعَـٰلَمِينَ"
 translation: "And it is nothing but a reminder to all the worlds."
 word_count: 7200
 estimated_duration: "50-58 minutes"

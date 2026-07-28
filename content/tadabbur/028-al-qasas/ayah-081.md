@@ -6,7 +6,7 @@ ayah_end: 81
 title: "When the Earth Swallows: Qarun and the Aloneness of the Sinking"
 slug: "028-081"
 category: tadabbur
-arabic: "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ"
+arabic: "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ"
 translation: "So We caused the earth to swallow him and his house. There was no faction to help him against Allah, nor was he of those who could help themselves."
 word_count: 18
 estimated_duration: "50-58 minutes"

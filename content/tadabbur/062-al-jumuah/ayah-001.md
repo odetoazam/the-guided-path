@@ -6,7 +6,7 @@ ayah_end: 1
 title: "The Universe Is Already Praying: Tasbīḥ in the Present Tense"
 slug: "062-001"
 category: tadabbur
-arabic: "يُسَبِّحُ لِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ٱلْمَلِكِ ٱلْقُدُّوسِ ٱلْعَزِيزِ ٱلْحَكِيمِ"
+arabic: "يُسَبِّحُ لِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ٱلْمَلِكِ ٱلْقُدُّوسِ ٱلْعَزِيزِ ٱلْحَكِيمِ"
 translation: "Whatever is in the heavens and whatever is in the earth glorifies Allah — the Sovereign, the Most Holy, the Almighty, the All-Wise."
 word_count: 12
 estimated_duration: "50-58 minutes"

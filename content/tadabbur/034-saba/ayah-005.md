@@ -6,7 +6,7 @@ ayah_end: 5
 title: "Running From the One Whom Nothing Escapes"
 slug: "034-005"
 category: tadabbur
-arabic: "وَٱلَّذِينَ سَعَوْ فِىٓ ءَايَٰتِنَا مُعَٰجِزِينَ أُو۟لَـٰٓئِكَ لَهُمْ عَذَابٌ مِّن رِّجْزٍ أَلِيمٌ"
+arabic: "وَٱلَّذِينَ سَعَوْ فِىٓ ءَايَـٰتِنَا مُعَـٰجِزِينَ أُو۟لَـٰٓئِكَ لَهُمْ عَذَابٌ مِّن رِّجْزٍ أَلِيمٌ"
 translation: "And those who strove against Our verses, seeking to outstrip [Us] — for those, there is a punishment of vile defilement, painful."
 word_count: 12
 estimated_duration: "50-55 minutes"

@@ -6,7 +6,7 @@ ayah_end: 18
 title: "The Word That Came Due: Being Folded Into the Company of the Lost"
 slug: "046-018"
 category: tadabbur
-arabic: "أُولَٰئِكَ ٱلَّذِينَ حَقَّ عَلَيْهِمُ ٱلْقَوْلُ فِىٓ أُمَمٍ قَدْ خَلَتْ مِن قَبْلِهِم مِّنَ ٱلْجِنِّ وَٱلْإِنسِ ۖ إِنَّهُمْ كَانُوا۟ خَٰسِرِينَ"
+arabic: "أُو۟لَـٰٓئِكَ ٱلَّذِينَ حَقَّ عَلَيْهِمُ ٱلْقَوْلُ فِىٓ أُمَمٍ قَدْ خَلَتْ مِن قَبْلِهِم مِّنَ ٱلْجِنِّ وَٱلْإِنسِ ۖ إِنَّهُمْ كَانُوا۟ خَـٰسِرِينَ"
 translation: "Those are the ones against whom the word has come true, among nations of jinn and men that had passed away before them. Indeed, they were losers."
 word_count: 17
 estimated_duration: "50-58 minutes"

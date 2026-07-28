@@ -6,7 +6,7 @@ ayah_end: 13
 title: "The Word That Already Went Forth: Divine Will, Human Choice, and the Sentence Allah Spoke About Us"
 slug: "032-013"
 category: tadabbur
-arabic: "وَلَوْ شِئْنَا لَآتَيْنَا كُلَّ نَفْسٍ هُدَىٰهَا وَلَـٰكِنْ حَقَّ الْقَوْلُ مِنِّي لَأَمْلَأَنَّ جَهَنَّمَ مِنَ الْجِنَّةِ وَالنَّاسِ أَجْمَعِينَ"
+arabic: "وَلَوْ شِئْنَا لَـَٔاتَيْنَا كُلَّ نَفْسٍ هُدَىٰهَا وَلَـٰكِنْ حَقَّ ٱلْقَوْلُ مِنِّى لَأَمْلَأَنَّ جَهَنَّمَ مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ أَجْمَعِينَ"
 translation: "And if We had willed, We could have given every soul its guidance, but the word from Me has come true: I will surely fill Hell with jinn and humankind, all together."
 word_count: 18
 estimated_duration: "50-55 minutes"

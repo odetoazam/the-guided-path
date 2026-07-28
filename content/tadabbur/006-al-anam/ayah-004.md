@@ -6,7 +6,7 @@ ayah_end: 4
 title: "The Mathematics of Turning Away — How Every Sign Becomes a Side-Turn"
 slug: "006-004"
 category: tadabbur
-arabic: "وَمَا تَأْتِيهِم مِّنْ آيَةٍ مِّنْ آيَاتِ رَبِّهِمْ إِلَّا كَانُوا عَنْهَا مُعْرِضِينَ"
+arabic: "وَمَا تَأْتِيهِم مِّنْ ءَايَةٍ مِّنْ ءَايَـٰتِ رَبِّهِمْ إِلَّا كَانُوا۟ عَنْهَا مُعْرِضِينَ"
 translation: "And no sign comes to them from the signs of their Lord except that they turn away from it."
 word_count: 11
 estimated_duration: "48-54 minutes"

@@ -6,7 +6,7 @@ ayah_end: 19
 title: "The Disease of Loving That It Spread: When Indecency Becomes Entertainment"
 slug: "024-019"
 category: tadabbur
-arabic: "إِنَّ الَّذِينَ يُحِبُّونَ أَن تَشِيعَ الْفَاحِشَةُ فِي الَّذِينَ آمَنُوا لَهُمْ عَذَابٌ أَلِيمٌ فِي الدُّنْيَا وَالْآخِرَةِ ۚ وَاللَّهُ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ"
+arabic: "إِنَّ ٱلَّذِينَ يُحِبُّونَ أَن تَشِيعَ ٱلْفَـٰحِشَةُ فِى ٱلَّذِينَ ءَامَنُوا۟ لَهُمْ عَذَابٌ أَلِيمٌ فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ ۚ وَٱللَّهُ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ"
 translation: "Indeed, those who love that indecency should spread among those who have believed will have a painful punishment in this world and the Hereafter. And Allah knows and you do not know."
 word_count: 24
 estimated_duration: "50-56 minutes"

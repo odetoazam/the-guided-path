@@ -6,7 +6,7 @@ ayah_end: 29
 title: "Under Our Feet: When the Deceived Want a Victim Instead of a Way Out"
 slug: "041-029"
 category: tadabbur
-arabic: "وَقَالَ ٱلَّذِينَ كَفَرُوا۟ رَبَّنَآ أَرِنَا ٱلَّذَيْنِ أَضَلَّانَا مِنَ ٱلْجِنِّ وَٱلْإِنسِ نَجْعَلْهُمَا تَحْتَ أَقْدَامِنَا لِيَكُونَا مِنَ ٱلْأَسْفَلِينَ"
+arabic: "وَقَالَ ٱلَّذِينَ كَفَرُوا۟ رَبَّنَآ أَرِنَا ٱلَّذَيْنِ أَضَلَّانَا مِنَ ٱلْجِنِّ وَٱلْإِنسِ نَجْعَلْهُمَا تَحْتَ أَقْدَامِنَا لِيَكُونَا مِنَ ٱلْأَسْفَلِينَ"
 translation: "And those who disbelieved will say, 'Our Lord, show us the two who misled us — from the jinn and mankind — that we may place them beneath our feet, so they will be among the lowest.'"
 word_count: 16
 estimated_duration: "50-58 minutes"

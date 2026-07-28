@@ -6,7 +6,7 @@ ayah_end: 37
 title: "The Keys You Do Not Hold: On Treasuries and the Illusion of Control"
 slug: "052-037"
 category: tadabbur
-arabic: "أَمْ عِندَهُمْ خَزَآئِنُ رَبِّكَ أَمْ هُمُ ٱلْمُصَۣيْطِرُونَ"
+arabic: "أَمْ عِندَهُمْ خَزَآئِنُ رَبِّكَ أَمْ هُمُ ٱلْمُصَۣيْطِرُونَ"
 translation: "Or do they possess the treasuries of your Lord? Or are they the ones in control?"
 word_count: 7
 estimated_duration: "50-58 minutes"

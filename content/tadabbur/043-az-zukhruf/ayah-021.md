@@ -6,7 +6,7 @@ ayah_end: 21
 title: "The Grip on Nothing: Holding Fast to a Book That Was Never Given"
 slug: "043-021"
 category: tadabbur
-arabic: "أَمْ ءَاتَيْنَٰهُمْ كِتَٰبًا مِّن قَبْلِهِۦ فَهُم بِهِۦ مُسْتَمْسِكُونَ"
+arabic: "أَمْ ءَاتَيْنَـٰهُمْ كِتَـٰبًا مِّن قَبْلِهِۦ فَهُم بِهِۦ مُسْتَمْسِكُونَ"
 translation: "Or have We given them a Book before this one, so that they are holding fast to it?"
 word_count: 7
 estimated_duration: "50-58 minutes"

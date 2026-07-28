@@ -6,7 +6,7 @@ ayah_end: 23
 slug: "aal-imran-23-portion-of-the-scripture-turning-away"
 category: tadabbur
 title: "A Portion of the Book: When the Truth Rules Against You — Tadabbur of Aal Imran 3:23"
-arabic: "أَلَمْ تَرَ إِلَى ٱلَّذِينَ أُوتُوا۟ نَصِيبًۭا مِّنَ ٱلْكِتَـٰبِ يُدْعَوْنَ إِلَىٰ كِتَـٰبِ ٱللَّهِ لِيَحْكُمَ بَيْنَهُمْ ثُمَّ يَتَوَلَّىٰ فَرِيقٌۭ مِّنْهُمْ وَهُم مُّعْرِضُونَ"
+arabic: "أَلَمْ تَرَ إِلَى ٱلَّذِينَ أُوتُوا۟ نَصِيبًا مِّنَ ٱلْكِتَـٰبِ يُدْعَوْنَ إِلَىٰ كِتَـٰبِ ٱللَّهِ لِيَحْكُمَ بَيْنَهُمْ ثُمَّ يَتَوَلَّىٰ فَرِيقٌ مِّنْهُمْ وَهُم مُّعْرِضُونَ"
 translation: "Have you not considered those who were given a portion of the Scripture? They are called to the Book of Allah, that it may judge between them; then a party of them turns away, and they are averse."
 estimated_duration: "48–59 minutes"
 passage_context: "Medinan. Part of the Aal Imran sequence (3:19–25) on the true dīn as submission, the People of the Book, and the disputes of those who possessed revelation yet withheld their obedience from it."

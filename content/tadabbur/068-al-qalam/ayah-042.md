@@ -6,7 +6,7 @@ ayah_end: 42
 title: "The Day the Shin Is Bared — When the Back That Bowed for the Crowd Cannot Bow for God"
 slug: "068-042"
 category: tadabbur
-arabic: "يَوْمَ يُكْشَفُ عَن سَاقٍ وَيُدْعَوْنَ إِلَى ٱلسُّجُودِ فَلَا يَسْتَطِيعُونَ"
+arabic: "يَوْمَ يُكْشَفُ عَن سَاقٍ وَيُدْعَوْنَ إِلَى ٱلسُّجُودِ فَلَا يَسْتَطِيعُونَ"
 translation: "The Day the shin is laid bare, and they are called to prostrate, but they are not able."
 word_count: 9
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 27
 title: "Show Me What You Attached: The Audit of an Invented Partner"
 slug: "034-027"
 category: tadabbur
-arabic: "قُلْ أَرُونِىَ ٱلَّذِينَ أَلْحَقْتُم بِهِۦ شُرَكَآءَۖ كَلَّاۚ بَلْ هُوَ ٱللَّهُ ٱلْعَزِيزُ ٱلْحَكِيمُ"
+arabic: "قُلْ أَرُونِىَ ٱلَّذِينَ أَلْحَقْتُم بِهِۦ شُرَكَآءَ ۖ كَلَّا ۚ بَلْ هُوَ ٱللَّهُ ٱلْعَزِيزُ ٱلْحَكِيمُ"
 translation: "Say, 'Show me those whom you have attached to Him as partners.' By no means! Rather, He is Allah, the All-Mighty, the All-Wise."
 word_count: 12
 estimated_duration: "50-58 minutes"

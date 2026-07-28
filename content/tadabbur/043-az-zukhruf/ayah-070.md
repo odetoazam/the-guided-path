@@ -6,7 +6,7 @@ ayah_end: 70
 slug: az-zukhruf-70-enter-paradise-made-joyful
 category: tadabbur
 title: "The Joy That Is Done To You: Contemplating «Udkhulū al-Jannata... Tuḥbarūn» (43:70)"
-arabic: "ٱدْخُلُوا۟ ٱلْجَنَّةَ أَنتُمْ وَأَزْوَٰجُكُمْ تُحْبَرُونَ"
+arabic: "ٱدْخُلُوا۟ ٱلْجَنَّةَ أَنتُمْ وَأَزْوَٰجُكُمْ تُحْبَرُونَ"
 translation: "Enter the Garden, you and your companions, made radiant with joy."
 estimated_duration: "48–59 minutes"
 passage_context: "Surah az-Zukhruf, verses 67–73 — the Day when every friendship built on anything but taqwā curdles into enmity, and the turning of Allah's address toward His servants: 'O My servants, no fear upon you this Day, nor shall you grieve.'"

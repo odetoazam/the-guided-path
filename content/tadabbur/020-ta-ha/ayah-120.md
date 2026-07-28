@@ -6,7 +6,7 @@ ayah_end: 120
 title: "The Whisper That Renamed the Tree: How Every Temptation Works"
 slug: "020-120"
 category: tadabbur
-arabic: "فَوَسْوَسَ إِلَيْهِ ٱلشَّيْطَـٰنُ قَالَ يَـٰٓـَٔادَمُ هَلْ أَدُلُّكَ عَلَىٰ شَجَرَةِ ٱلْخُلْدِ وَمُلْكٍۢ لَّا يَبْلَىٰ"
+arabic: "فَوَسْوَسَ إِلَيْهِ ٱلشَّيْطَـٰنُ قَالَ يَـٰٓـَٔادَمُ هَلْ أَدُلُّكَ عَلَىٰ شَجَرَةِ ٱلْخُلْدِ وَمُلْكٍ لَّا يَبْلَىٰ"
 translation: "Then Shaytan whispered to him; he said: 'O Adam, shall I direct you to the tree of eternity and a kingdom that never decays?'"
 word_count: 9400
 estimated_duration: "52-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 61
 title: "The Blessed One Who Hung Lamps in the Sky"
 slug: "025-061"
 category: tadabbur
-arabic: "تَبَارَكَ ٱلَّذِى جَعَلَ فِى ٱلسَّمَآءِ بُرُوجًۭا وَجَعَلَ فِيهَا سِرَٰجًۭا وَقَمَرًۭا مُّنِيرًۭا"
+arabic: "تَبَارَكَ ٱلَّذِى جَعَلَ فِى ٱلسَّمَآءِ بُرُوجًا وَجَعَلَ فِيهَا سِرَٰجًا وَقَمَرًا مُّنِيرًا"
 translation: "Blessed is the One who placed in the sky great constellations, and placed within it a lamp and an illuminating moon."
 word_count: 11
 estimated_duration: "50-55 minutes"

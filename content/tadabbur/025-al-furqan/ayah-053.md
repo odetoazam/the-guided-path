@@ -6,7 +6,7 @@ ayah_end: 53
 title: "The Two Seas That Refuse to Mix: Mercy as Architecture"
 slug: "025-053"
 category: tadabbur
-arabic: "وَهُوَ ٱلَّذِى مَرَجَ ٱلْبَحْرَيْنِ هَـٰذَا عَذْبٌ فُرَاتٌ وَهَـٰذَا مِلْحٌ أُجَاجٌ وَجَعَلَ بَيْنَهُمَا بَرْزَخًا وَحِجْرًا مَّحْجُورًا"
+arabic: "۞ وَهُوَ ٱلَّذِى مَرَجَ ٱلْبَحْرَيْنِ هَـٰذَا عَذْبٌ فُرَاتٌ وَهَـٰذَا مِلْحٌ أُجَاجٌ وَجَعَلَ بَيْنَهُمَا بَرْزَخًا وَحِجْرًا مَّحْجُورًا"
 translation: "And it is He who has released the two seas, this one sweet and refreshing, and that one salty and bitter; and He has placed between them a partition and a forbidding barrier."
 word_count: 18
 estimated_duration: "50-58 minutes"

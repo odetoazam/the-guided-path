@@ -6,7 +6,7 @@ ayah_end: 192
 title: "The Fire as the Final Exposure"
 slug: "003-192"
 category: tadabbur
-arabic: "رَبَّنَآ إِنَّكَ مَن تُدْخِلِ ٱلنَّارَ فَقَدْ أَخْزَيْتَهُۥ ۖ وَمَا لِلظَّـٰلِمِينَ مِنْ أَنصَارٍ"
+arabic: "رَبَّنَآ إِنَّكَ مَن تُدْخِلِ ٱلنَّارَ فَقَدْ أَخْزَيْتَهُۥ ۖ وَمَا لِلظَّـٰلِمِينَ مِنْ أَنصَارٍ"
 translation: "Our Lord, indeed whoever You admit into the Fire, You have truly disgraced him. And the wrongdoers will have no helpers."
 word_count: null
 estimated_duration: "45-55 minutes"

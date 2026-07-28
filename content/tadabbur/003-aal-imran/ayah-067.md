@@ -6,7 +6,7 @@ ayah_end: 67
 title: "The Man No One Could Claim: Ibrahim the Ḥanīf Before the Labels"
 slug: "003-067"
 category: tadabbur
-arabic: "مَا كَانَ إِبْرَٰهِيمُ يَهُودِيًّا وَلَا نَصْرَانِيًّا وَلَٰكِن كَانَ حَنِيفًا مُّسْلِمًا وَمَا كَانَ مِنَ ٱلْمُشْرِكِينَ"
+arabic: "مَا كَانَ إِبْرَٰهِيمُ يَهُودِيًّا وَلَا نَصْرَانِيًّا وَلَـٰكِن كَانَ حَنِيفًا مُّسْلِمًا وَمَا كَانَ مِنَ ٱلْمُشْرِكِينَ"
 translation: "Ibrahim was neither a Jew nor a Christian, but he was a ḥanīf — one inclined wholly to the truth — a muslim, one who surrendered to God; and he was never of those who associate partners with Him."
 word_count: 14
 estimated_duration: "50-58 minutes"

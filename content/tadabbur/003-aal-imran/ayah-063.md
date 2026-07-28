@@ -6,7 +6,7 @@ ayah_end: 63
 title: "The Name You Didn't Choose for Yourself"
 slug: "003-063"
 category: tadabbur
-arabic: "فَإِن تَوَلَّوْاْ فَإِنَّ ٱللَّهَ عَلِيمُۢ بِٱلْمُفْسِدِينَ"
+arabic: "فَإِن تَوَلَّوْا۟ فَإِنَّ ٱللَّهَ عَلِيمٌۢ بِٱلْمُفْسِدِينَ"
 translation: "And if they turn away — then indeed, Allah is All-Knowing of the corrupters."
 word_count: 3350
 estimated_duration: "48-55 minutes"

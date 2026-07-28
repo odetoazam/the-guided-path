@@ -6,7 +6,7 @@ ayah_end: 38
 title: "The God Who Never Tires: The Touch That Never Came"
 slug: "050-038"
 category: tadabbur
-arabic: "وَلَقَدْ خَلَقْنَا ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَا فِى سِتَّةِ أَيَّامٍ وَمَا مَسَّنَا مِن لُّغُوبٍ"
+arabic: "وَلَقَدْ خَلَقْنَا ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَا فِى سِتَّةِ أَيَّامٍ وَمَا مَسَّنَا مِن لُّغُوبٍ"
 translation: "And certainly We created the heavens and the earth and all that is between them in six days, and no fatigue touched Us."
 word_count: 13
 estimated_duration: "50-58 minutes"

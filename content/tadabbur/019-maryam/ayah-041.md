@@ -6,7 +6,7 @@ ayah_end: 41
 title: "Before Prophet, Ṣiddīq — The Character That Precedes the Office"
 slug: "019-041"
 category: tadabbur
-arabic: "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ إِبْرَٰهِيمَ ۚ إِنَّهُۥ كَانَ صِدِّيقًۭا نَّبِيًّۭا"
+arabic: "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ إِبْرَٰهِيمَ ۚ إِنَّهُۥ كَانَ صِدِّيقًا نَّبِيًّا"
 translation: "And mention in the Book Ibrāhīm. Indeed, he was a man utterly saturated with truth, a prophet."
 word_count: 9
 estimated_duration: "50-58 minutes"

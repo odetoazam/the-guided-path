@@ -6,7 +6,7 @@ ayah_end: 68
 title: "He Chooses — And There Is No Choice Beside His"
 slug: "028-068"
 category: tadabbur
-arabic: "وَرَبُّكَ يَخْلُقُ مَا يَشَاءُ وَيَخْتَارُ ۗ مَا كَانَ لَهُمُ الْخِيَرَةُ ۚ سُبْحَانَ اللَّهِ وَتَعَالَىٰ عَمَّا يُشْرِكُونَ"
+arabic: "وَرَبُّكَ يَخْلُقُ مَا يَشَآءُ وَيَخْتَارُ ۗ مَا كَانَ لَهُمُ ٱلْخِيَرَةُ ۚ سُبْحَـٰنَ ٱللَّهِ وَتَعَـٰلَىٰ عَمَّا يُشْرِكُونَ"
 translation: "And your Lord creates what He wills and chooses. Not for them was the choice. Exalted is Allah and high above what they associate with Him."
 word_count: 14
 estimated_duration: "50-58 minutes"

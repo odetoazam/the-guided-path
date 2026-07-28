@@ -6,7 +6,7 @@ ayah_end: 5
 title: "The Softness You Cut Down: When Even Your Choices Are Carried"
 slug: "059-005"
 category: tadabbur
-arabic: "مَا قَطَعْتُم مِّن لِّينَةٍ أَوْ تَرَكْتُمُوهَا قَآئِمَةً عَلَىٰٓ أُصُولِهَا فَبِإِذْنِ ٱللَّهِ وَلِيُخْزِىَ ٱلْفَـٰسِقِينَ"
+arabic: "مَا قَطَعْتُم مِّن لِّينَةٍ أَوْ تَرَكْتُمُوهَا قَآئِمَةً عَلَىٰٓ أُصُولِهَا فَبِإِذْنِ ٱللَّهِ وَلِيُخْزِىَ ٱلْفَـٰسِقِينَ"
 translation: "Whatever palm trees you cut down or left standing on their roots — it was by the permission of Allah, and so that He might disgrace the defiantly disobedient."
 word_count: 5600
 estimated_duration: "50-56 minutes"

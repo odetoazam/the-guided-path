@@ -6,7 +6,7 @@ ayah_end: 47
 title: "Eat a Little: The Woe That Itemizes Every Denial"
 slug: "077-047"
 category: tadabbur
-arabic: "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ"
+arabic: "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ"
 translation: "Woe on that Day to the deniers."
 word_count: 6100
 estimated_duration: "50-55 minutes"

@@ -6,7 +6,7 @@ ayah_end: 19
 title: "The Wind That Shares a Root with Rest: When the Air Itself Is Sent"
 slug: "054-019"
 category: tadabbur
-arabic: "إِنَّآ أَرْسَلْنَا عَلَيْهِمْ رِيحًا صَرْصَرًا فِى يَوْمِ نَحْسٍ مُّسْتَمِرٍّ"
+arabic: "إِنَّآ أَرْسَلْنَا عَلَيْهِمْ رِيحًا صَرْصَرًا فِى يَوْمِ نَحْسٍ مُّسْتَمِرٍّ"
 translation: "Indeed, We sent upon them a shrieking wind on a day of relentless misfortune."
 word_count: 5300
 estimated_duration: "50-58 minutes"

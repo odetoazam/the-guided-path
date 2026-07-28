@@ -6,7 +6,7 @@ ayah_end: 11
 title: "Travel, Then Look: The Heel of Denial and the Discipline of Sight"
 slug: "006-011"
 category: tadabbur
-arabic: "قُلْ سِيرُوا۟ فِى ٱلْأَرْضِ ثُمَّ ٱنظُرُوا۟ كَيْفَ كَانَ عَـٰقِبَةُ ٱلْمُكَذِّبِينَ"
+arabic: "قُلْ سِيرُوا۟ فِى ٱلْأَرْضِ ثُمَّ ٱنظُرُوا۟ كَيْفَ كَانَ عَـٰقِبَةُ ٱلْمُكَذِّبِينَ"
 translation: "Say: Travel through the earth — then look at how the end of those who declared the truth false turned out."
 word_count: 11
 estimated_duration: "50-56 minutes"

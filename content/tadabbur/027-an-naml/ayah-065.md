@@ -6,7 +6,7 @@ ayah_end: 65
 title: "The Sealed Door of the Unseen — Why Allah Alone Holds the Key"
 slug: "027-065"
 category: tadabbur
-arabic: "قُل لَّا يَعْلَمُ مَن فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ٱلْغَيْبَ إِلَّا ٱللَّهُ ۚ وَمَا يَشْعُرُونَ أَيَّانَ يُبْعَثُونَ"
+arabic: "قُل لَّا يَعْلَمُ مَن فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ٱلْغَيْبَ إِلَّا ٱللَّهُ ۚ وَمَا يَشْعُرُونَ أَيَّانَ يُبْعَثُونَ"
 translation: "Say: None in the heavens and the earth knows the unseen except Allah. And they do not perceive when they will be resurrected."
 word_count: 14
 estimated_duration: "50-55 minutes"

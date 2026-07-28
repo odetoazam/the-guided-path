@@ -6,7 +6,7 @@ ayah_end: 4
 title: "Bring Me a Trace: When Devotion Is Asked for Its Evidence"
 slug: "046-004"
 category: tadabbur
-arabic: "قُلْ أَرَءَيْتُم مَّا تَدْعُونَ مِن دُونِ ٱللَّهِ أَرُونِى مَاذَا خَلَقُوا۟ مِنَ ٱلْأَرْضِ أَمْ لَهُمْ شِرْكٌ فِى ٱلسَّمَـٰوَٰتِ ۖ ٱئْتُونِى بِكِتَـٰبٍ مِّن قَبْلِ هَـٰذَآ أَوْ أَثَـٰرَةٍ مِّنْ عِلْمٍ إِن كُنتُمْ صَـٰدِقِينَ"
+arabic: "قُلْ أَرَءَيْتُم مَّا تَدْعُونَ مِن دُونِ ٱللَّهِ أَرُونِى مَاذَا خَلَقُوا۟ مِنَ ٱلْأَرْضِ أَمْ لَهُمْ شِرْكٌ فِى ٱلسَّمَـٰوَٰتِ ۖ ٱئْتُونِى بِكِتَـٰبٍ مِّن قَبْلِ هَـٰذَآ أَوْ أَثَـٰرَةٍ مِّنْ عِلْمٍ إِن كُنتُمْ صَـٰدِقِينَ"
 translation: "Say: Have you really considered what you call upon besides Allah? Show me what they have created of the earth — or do they have any share in the heavens? Bring me a scripture from before this one, or some lingering trace of knowledge, if you are truthful."
 word_count: 29
 estimated_duration: "50-58 minutes"

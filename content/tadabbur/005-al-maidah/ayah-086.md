@@ -6,7 +6,7 @@ ayah_end: 86
 title: "The Address That Replaces the Name — Companionship of the Blazing Fire"
 slug: "005-086"
 category: tadabbur
-arabic: "وَٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟ بِـَٔايَـٰتِنَآ أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلْجَحِيمِ"
+arabic: "وَٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟ بِـَٔايَـٰتِنَآ أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلْجَحِيمِ"
 translation: "But those who disbelieved and denied Our signs — those are the companions of the Blazing Fire."
 word_count: 9
 estimated_duration: "48-52 minutes"

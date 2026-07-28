@@ -6,7 +6,7 @@ ayah_end: 10
 title: "Before the Sunrise: Hidden Arrangement as the Proof of Resurrection"
 slug: "050-010"
 category: tadabbur
-arabic: "وَٱلنَّخْلَ بَاسِقَـٰتٍ لَّهَا طَلْعٌ نَّضِيدٌ"
+arabic: "وَٱلنَّخْلَ بَاسِقَـٰتٍ لَّهَا طَلْعٌ نَّضِيدٌ"
 translation: "And the palm trees — tall, with arranged shoots"
 word_count: 4300
 estimated_duration: "50-60 minutes"

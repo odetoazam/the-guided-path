@@ -6,7 +6,7 @@ ayah_end: 28
 title: "The Truth That Surfaces: On Manifestation and the Sufficient Witness"
 slug: "048-028"
 category: tadabbur
-arabic: "هُوَ ٱلَّذِىٓ أَرْسَلَ رَسُولَهُۥ بِٱلْهُدَىٰ وَدِينِ ٱلْحَقِّ لِيُظْهِرَهُۥ عَلَى ٱلدِّينِ كُلِّهِۦ ۚ وَكَفَىٰ بِٱللَّهِ شَهِيدًا"
+arabic: "هُوَ ٱلَّذِىٓ أَرْسَلَ رَسُولَهُۥ بِٱلْهُدَىٰ وَدِينِ ٱلْحَقِّ لِيُظْهِرَهُۥ عَلَى ٱلدِّينِ كُلِّهِۦ ۚ وَكَفَىٰ بِٱللَّهِ شَهِيدًا"
 translation: "He is the One who sent His Messenger with the guidance and the religion of the truth, so that He may make it rise above all religion. And Allah is enough as a Witness."
 word_count: 14
 estimated_duration: "50-58 minutes"

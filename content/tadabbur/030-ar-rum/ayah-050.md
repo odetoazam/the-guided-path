@@ -6,7 +6,7 @@ ayah_end: 50
 title: "The Footprints of Mercy: Reading the Earth After It Has Died"
 slug: "030-050"
 category: tadabbur
-arabic: "فَٱنظُرْ إِلَىٰٓ ءَاثَـٰرِ رَحْمَتِ ٱللَّهِ كَيْفَ يُحْىِ ٱلْأَرْضَ بَعْدَ مَوْتِهَآ ۚ إِنَّ ذَٰلِكَ لَمُحْىِ ٱلْمَوْتَىٰ ۖ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ"
+arabic: "فَٱنظُرْ إِلَىٰٓ ءَاثَـٰرِ رَحْمَتِ ٱللَّهِ كَيْفَ يُحْىِ ٱلْأَرْضَ بَعْدَ مَوْتِهَآ ۚ إِنَّ ذَٰلِكَ لَمُحْىِ ٱلْمَوْتَىٰ ۖ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ"
 translation: "So look at the traces of Allah's mercy — how He gives life to the earth after its death. Indeed, that One is surely the Giver of life to the dead, and He is over all things competent."
 word_count: 18
 estimated_duration: "50-55 minutes"

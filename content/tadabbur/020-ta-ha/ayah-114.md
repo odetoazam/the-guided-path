@@ -6,7 +6,7 @@ ayah_end: 114
 title: "The Only Increase — Slowing Down to Receive the True King's Speech"
 slug: "020-114"
 category: tadabbur
-arabic: "فَتَعَالَى ٱللَّهُ ٱلْمَلِكُ ٱلْحَقُّ ۗ وَلَا تَعْجَلْ بِٱلْقُرْءَانِ مِن قَبْلِ أَن يُقْضَىٰٓ إِلَيْكَ وَحْيُهُۥ ۖ وَقُل رَّبِّ زِدْنِى عِلْمًا"
+arabic: "فَتَعَـٰلَى ٱللَّهُ ٱلْمَلِكُ ٱلْحَقُّ ۗ وَلَا تَعْجَلْ بِٱلْقُرْءَانِ مِن قَبْلِ أَن يُقْضَىٰٓ إِلَيْكَ وَحْيُهُۥ ۖ وَقُل رَّبِّ زِدْنِى عِلْمًا"
 translation: "So exalted is Allah — the True King. And do not hasten with the Qur'an before its revelation has been completed to you. And say: My Lord, increase me in knowledge."
 word_count: 18
 estimated_duration: "50-58 minutes"

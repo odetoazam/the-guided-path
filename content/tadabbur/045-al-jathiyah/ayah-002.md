@@ -6,7 +6,7 @@ ayah_end: 2
 title: "Before the First Word: Where This Book Comes From"
 slug: "045-002"
 category: tadabbur
-arabic: "تَنزِيلُ ٱلْكِتَٰبِ مِنَ ٱللَّهِ ٱلْعَزِيزِ ٱلْحَكِيمِ"
+arabic: "تَنزِيلُ ٱلْكِتَـٰبِ مِنَ ٱللَّهِ ٱلْعَزِيزِ ٱلْحَكِيمِ"
 translation: "The sending down of the Book is from Allah, the All-Mighty, the All-Wise."
 word_count: 850
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 60
 title: "The World That Never Was: Counterfactual Will and the Quiet Truth of Your Replaceability"
 slug: "043-060"
 category: tadabbur
-arabic: "وَلَوْ نَشَآءُ لَجَعَلْنَا مِنكُم مَّلَـٰٓئِكَةً فِى ٱلْأَرْضِ يَخْلُفُونَ"
+arabic: "وَلَوْ نَشَآءُ لَجَعَلْنَا مِنكُم مَّلَـٰٓئِكَةً فِى ٱلْأَرْضِ يَخْلُفُونَ"
 translation: "And if We had willed, We could have made among you angels, succeeding one another in the earth."
 word_count: 8
 estimated_duration: "50-58 minutes"

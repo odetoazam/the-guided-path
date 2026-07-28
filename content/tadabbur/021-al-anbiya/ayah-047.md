@@ -6,7 +6,7 @@ ayah_end: 47
 title: "The Scales That Are Justice — Mustard Seed Accounting and the Voice That Says Enough"
 slug: "021-047"
 category: tadabbur
-arabic: "وَنَضَعُ ٱلْمَوَٰزِينَ ٱلْقِسْطَ لِيَوْمِ ٱلْقِيَـٰمَةِ فَلَا تُظْلَمُ نَفْسٌۭ شَيْـًۭٔا ۖ وَإِن كَانَ مِثْقَالَ حَبَّةٍۢ مِّنْ خَرْدَلٍ أَتَيْنَا بِهَا ۗ وَكَفَىٰ بِنَا حَـٰسِبِينَ"
+arabic: "وَنَضَعُ ٱلْمَوَٰزِينَ ٱلْقِسْطَ لِيَوْمِ ٱلْقِيَـٰمَةِ فَلَا تُظْلَمُ نَفْسٌ شَيْـًٔا ۖ وَإِن كَانَ مِثْقَالَ حَبَّةٍ مِّنْ خَرْدَلٍ أَتَيْنَا بِهَا ۗ وَكَفَىٰ بِنَا حَـٰسِبِينَ"
 translation: "And We place the scales of justice for the Day of Resurrection, so no soul will be wronged at all. And though it be the weight of a mustard seed, We will bring it forth. And sufficient are We as Reckoner."
 word_count: 8200
 estimated_duration: "50-55 minutes"

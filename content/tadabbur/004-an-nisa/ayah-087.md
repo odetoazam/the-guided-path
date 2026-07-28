@@ -6,7 +6,7 @@ ayah_end: 87
 title: "The Oath That Needs No Witness: Certainty, Gathering, and the One Whose Word Cannot Be Outmatched"
 slug: "004-087"
 category: tadabbur
-arabic: "ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ۚ لَيَجْمَعَنَّكُمْ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ لَا رَيْبَ فِيهِ ۗ وَمَنْ أَصْدَقُ مِنَ ٱللَّهِ حَدِيثًا"
+arabic: "ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ۚ لَيَجْمَعَنَّكُمْ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ لَا رَيْبَ فِيهِ ۗ وَمَنْ أَصْدَقُ مِنَ ٱللَّهِ حَدِيثًا"
 translation: "Allah — there is no god but Him. He will surely gather you to the Day of Resurrection, about which there is no doubt. And who is more truthful than Allah in speech?"
 word_count: 17
 estimated_duration: "48-56 minutes"

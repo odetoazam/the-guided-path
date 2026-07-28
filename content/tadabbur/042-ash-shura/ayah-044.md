@@ -6,7 +6,7 @@ ayah_end: 44
 title: "The Door With No Road: When the Wish to Go Back Meets the Wall"
 slug: "042-044"
 category: tadabbur
-arabic: "وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُۥ مِن وَلِىٍّ مِّنۢ بَعْدِهِۦ ۗ وَتَرَى ٱلظَّـٰلِمِينَ لَمَّا رَأَوُاْ ٱلْعَذَابَ يَقُولُونَ هَلْ إِلَىٰ مَرَدٍّ مِّن سَبِيلٍ"
+arabic: "وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُۥ مِن وَلِىٍّ مِّنۢ بَعْدِهِۦ ۗ وَتَرَى ٱلظَّـٰلِمِينَ لَمَّا رَأَوُا۟ ٱلْعَذَابَ يَقُولُونَ هَلْ إِلَىٰ مَرَدٍّ مِّن سَبِيلٍ"
 translation: "And whoever Allah leaves to stray — there is no protector for him after Him. And you will see the wrongdoers, when they see the punishment, saying, 'Is there any way to a return?'"
 word_count: 20
 estimated_duration: "50-58 minutes"

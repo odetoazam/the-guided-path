@@ -6,7 +6,7 @@ ayah_end: 14
 title: "The Clay That Rings: What the Sound of Our Origin Says About What Fills Us"
 slug: "055-014"
 category: tadabbur
-arabic: "خَلَقَ ٱلْإِنسَـٰنَ مِن صَلْصَـٰلٍ كَٱلْفَخَّارِ"
+arabic: "خَلَقَ ٱلْإِنسَـٰنَ مِن صَلْصَـٰلٍ كَٱلْفَخَّارِ"
 translation: "He created the human being from dry, ringing clay — like pottery."
 word_count: 6100
 estimated_duration: "48-57 minutes"

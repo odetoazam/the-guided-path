@@ -6,7 +6,7 @@ ayah_end: 24
 title: "If He Wills, Or He Turns: The Door Left Open Above the Trench"
 slug: "033-024"
 category: tadabbur
-arabic: "لِّيَجْزِىَ ٱللَّهُ ٱلصَّـٰدِقِينَ بِصِدْقِهِمْ وَيُعَذِّبَ ٱلْمُنَـٰفِقِينَ إِن شَآءَ أَوْ يَتُوبَ عَلَيْهِمْ ۚ إِنَّ ٱللَّهَ كَانَ غَفُورًۭا رَّحِيمًۭا"
+arabic: "لِّيَجْزِىَ ٱللَّهُ ٱلصَّـٰدِقِينَ بِصِدْقِهِمْ وَيُعَذِّبَ ٱلْمُنَـٰفِقِينَ إِن شَآءَ أَوْ يَتُوبَ عَلَيْهِمْ ۚ إِنَّ ٱللَّهَ كَانَ غَفُورًا رَّحِيمًا"
 translation: "So that Allah may reward the truthful for their truthfulness, and punish the hypocrites if He wills — or turn to them in mercy. Indeed, Allah has always been Oft-Forgiving, Most Merciful."
 word_count: 16
 estimated_duration: "50-55 minutes"

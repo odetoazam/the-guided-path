@@ -6,7 +6,7 @@ ayah_end: 1
 title: "Before the Book Speaks: The Threshold Letters of Al-Qasas"
 slug: "028-001"
 category: tadabbur
-arabic: "طسم"
+arabic: "طسٓمٓ"
 translation: "Ṭā. Sīn. Mīm."
 word_count: 5200
 estimated_duration: "49-56 minutes"

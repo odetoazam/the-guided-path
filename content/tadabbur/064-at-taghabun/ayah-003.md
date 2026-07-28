@@ -6,7 +6,7 @@ ayah_end: 3
 title: "He Shaped You by Hand: The Beautiful Form Between Truth and Return"
 slug: "064-003"
 category: tadabbur
-arabic: "خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ وَصَوَّرَكُمْ فَأَحْسَنَ صُوَرَكُمْ ۖ وَإِلَيْهِ ٱلْمَصِيرُ"
+arabic: "خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ وَصَوَّرَكُمْ فَأَحْسَنَ صُوَرَكُمْ ۖ وَإِلَيْهِ ٱلْمَصِيرُ"
 translation: "He created the heavens and the earth with truth, and He formed you and made your forms beautiful — and to Him is the final return."
 word_count: 1400
 estimated_duration: "50-58 minutes"

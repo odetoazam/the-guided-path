@@ -6,7 +6,7 @@ ayah_end: 11
 title: "Make Room and Be Made Spacious: The Economy of Yielding"
 slug: "058-011"
 category: tadabbur
-arabic: "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِذَا قِيلَ لَكُمْ تَفَسَّحُواْ فِى ٱلْمَجَٰلِسِ فَٱفْسَحُواْ يَفْسَحِ ٱللَّهُ لَكُمْ ۖ وَإِذَا قِيلَ ٱنشُزُواْ فَٱنشُزُواْ يَرْفَعِ ٱللَّهُ ٱلَّذِينَ ءَامَنُواْ مِنكُمْ وَٱلَّذِينَ أُوتُواْ ٱلْعِلْمَ دَرَجَٰتٍ ۚ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ"
+arabic: "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا قِيلَ لَكُمْ تَفَسَّحُوا۟ فِى ٱلْمَجَـٰلِسِ فَٱفْسَحُوا۟ يَفْسَحِ ٱللَّهُ لَكُمْ ۖ وَإِذَا قِيلَ ٱنشُزُوا۟ فَٱنشُزُوا۟ يَرْفَعِ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ مِنكُمْ وَٱلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ دَرَجَـٰتٍ ۚ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ"
 translation: "O you who believe! When it is said to you, 'Make room in the assemblies,' then make room — Allah will make room for you. And when it is said, 'Rise up,' then rise up — Allah will raise those who believe among you, and those who were given knowledge, by degrees. And Allah is All-Aware of what you do."
 word_count: 30
 estimated_duration: "50-58 minutes"

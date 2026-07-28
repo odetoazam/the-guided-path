@@ -6,7 +6,7 @@ ayah_end: 17
 title: "The Ones Who Walk Toward the Light Are Given More Light"
 slug: "047-017"
 category: tadabbur
-arabic: "وَٱلَّذِينَ ٱهْتَدَوْا۟ زَادَهُمْ هُدًۭى وَءَاتَىٰهُمْ تَقْوَىٰهُمْ"
+arabic: "وَٱلَّذِينَ ٱهْتَدَوْا۟ زَادَهُمْ هُدًى وَءَاتَىٰهُمْ تَقْوَىٰهُمْ"
 translation: "And those who let themselves be guided — He increases them in guidance, and grants them their God-consciousness."
 word_count: 6
 estimated_duration: "50-58 minutes"

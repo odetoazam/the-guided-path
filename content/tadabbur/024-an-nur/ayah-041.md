@@ -6,7 +6,7 @@ ayah_end: 41
 title: "The Cosmic Liturgy You Cannot Hear: Each Knows Its Own Salah"
 slug: "024-041"
 category: tadabbur
-arabic: "أَلَمْ تَرَ أَنَّ ٱللَّهَ يُسَبِّحُ لَهُۥ مَن فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَٱلطَّيْرُ صَـٰٓفَّـٰتٍۢ ۖ كُلٌّۭ قَدْ عَلِمَ صَلَاتَهُۥ وَتَسْبِيحَهُۥ ۗ وَٱللَّهُ عَلِيمٌۢ بِمَا يَفْعَلُونَ"
+arabic: "أَلَمْ تَرَ أَنَّ ٱللَّهَ يُسَبِّحُ لَهُۥ مَن فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَٱلطَّيْرُ صَـٰٓفَّـٰتٍ ۖ كُلٌّ قَدْ عَلِمَ صَلَاتَهُۥ وَتَسْبِيحَهُۥ ۗ وَٱللَّهُ عَلِيمٌۢ بِمَا يَفْعَلُونَ"
 translation: "Have you not seen that Allah — to Him glorifies whatever is in the heavens and the earth, and the birds with wings outspread? Each one already knows its own salah and its own tasbih. And Allah is fully Knowing of all that they do."
 word_count: 21
 estimated_duration: "50-58 minutes"

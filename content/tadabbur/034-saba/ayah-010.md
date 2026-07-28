@@ -6,7 +6,7 @@ ayah_end: 10
 title: "The Faḍl That Surrounds: Mountains, Birds, and Softened Iron"
 slug: "034-010"
 category: tadabbur
-arabic: "وَلَقَدْ ءَاتَيْنَا دَاوُۥدَ مِنَّا فَضْلٗاۖ يَٰجِبَالُ أَوِّبِى مَعَهُۥ وَٱلطَّيْرَۖ وَأَلَنَّا لَهُ ٱلْحَدِيدَ"
+arabic: "۞ وَلَقَدْ ءَاتَيْنَا دَاوُۥدَ مِنَّا فَضْلًا ۖ يَـٰجِبَالُ أَوِّبِى مَعَهُۥ وَٱلطَّيْرَ ۖ وَأَلَنَّا لَهُ ٱلْحَدِيدَ"
 translation: "And certainly, We gave Dawud from Us a bounty. 'O mountains, repeat praises with him, and you birds.' And We made iron pliable for him."
 word_count: 12
 estimated_duration: "50-58 minutes"

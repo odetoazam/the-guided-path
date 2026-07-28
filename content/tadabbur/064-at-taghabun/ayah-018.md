@@ -6,7 +6,7 @@ ayah_end: 18
 title: "The One for Whom Nothing Is Hidden: Knower of the Unseen and the Witnessed"
 slug: "064-018"
 category: tadabbur
-arabic: "عَٰلِمُ ٱلْغَيْبِ وَٱلشَّهَٰدَةِ ٱلْعَزِيزُ ٱلْحَكِيمُ"
+arabic: "عَـٰلِمُ ٱلْغَيْبِ وَٱلشَّهَـٰدَةِ ٱلْعَزِيزُ ٱلْحَكِيمُ"
 translation: "Knower of the unseen and the witnessed, the All-Mighty, the All-Wise."
 word_count: 6600
 estimated_duration: "50-56 minutes"

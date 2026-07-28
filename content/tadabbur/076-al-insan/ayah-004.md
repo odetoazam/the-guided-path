@@ -6,7 +6,7 @@ ayah_end: 4
 title: "The Chains Were Already Made: Freedom, Rejection, and a Punishment Prepared in Advance"
 slug: "076-004"
 category: tadabbur
-arabic: "إِنَّآ أَعْتَدْنَا لِلْكَـٰفِرِينَ سَلَـٰسِلَا۟ وَأَغْلَـٰلًا وَسَعِيرًا"
+arabic: "إِنَّآ أَعْتَدْنَا لِلْكَـٰفِرِينَ سَلَـٰسِلَا۟ وَأَغْلَـٰلًا وَسَعِيرًا"
 translation: "Indeed, We have prepared for those who conceal the truth chains, and shackles, and a Blaze."
 word_count: 6800
 estimated_duration: "50-58 minutes"

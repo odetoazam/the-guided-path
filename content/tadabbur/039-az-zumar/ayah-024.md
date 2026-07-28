@@ -6,7 +6,7 @@ ayah_end: 24
 title: "The Face That Became a Shield: When the Last Thing You Protected Is All You Have Left"
 slug: "039-024"
 category: tadabbur
-arabic: "أَفَمَن يَتَّقِى بِوَجْهِهِۦ سُوٓءَ ٱلْعَذَابِ يَوْمَ ٱلْقِيَـٰمَةِ ۚ وَقِيلَ لِلظَّـٰلِمِينَ ذُوقُواْ مَا كُنتُمْ تَكْسِبُونَ"
+arabic: "أَفَمَن يَتَّقِى بِوَجْهِهِۦ سُوٓءَ ٱلْعَذَابِ يَوْمَ ٱلْقِيَـٰمَةِ ۚ وَقِيلَ لِلظَّـٰلِمِينَ ذُوقُوا۟ مَا كُنتُمْ تَكْسِبُونَ"
 translation: "Is then he who must shield himself with his own face against the worst of the punishment on the Day of Resurrection [like the one who is safe]? And it will be said to the wrongdoers: 'Taste what you used to earn.'"
 word_count: 13
 estimated_duration: "50-58 minutes"

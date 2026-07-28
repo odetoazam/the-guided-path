@@ -6,7 +6,7 @@ ayah_end: 39
 title: "The Inheritance That Becomes a Debt: Succession, and the Only Two Things Disbelief Can Grow"
 slug: "035-039"
 category: tadabbur
-arabic: "هُوَ ٱلَّذِى جَعَلَكُمْ خَلَـٰٓئِفَ فِى ٱلْأَرْضِ ۚ فَمَن كَفَرَ فَعَلَيْهِ كُفْرُهُۥ ۖ وَلَا يَزِيدُ ٱلْكَـٰفِرِينَ كُفْرُهُمْ عِندَ رَبِّهِمْ إِلَّا مَقْتًا ۖ وَلَا يَزِيدُ ٱلْكَـٰفِرِينَ كُفْرُهُمْ إِلَّا خَسَارًا"
+arabic: "هُوَ ٱلَّذِى جَعَلَكُمْ خَلَـٰٓئِفَ فِى ٱلْأَرْضِ ۚ فَمَن كَفَرَ فَعَلَيْهِ كُفْرُهُۥ ۖ وَلَا يَزِيدُ ٱلْكَـٰفِرِينَ كُفْرُهُمْ عِندَ رَبِّهِمْ إِلَّا مَقْتًا ۖ وَلَا يَزِيدُ ٱلْكَـٰفِرِينَ كُفْرُهُمْ إِلَّا خَسَارًا"
 translation: "He is the One who made you successors upon the earth. So whoever disbelieves, upon him is his disbelief. And their disbelief does not increase the disbelievers, in the sight of their Lord, in anything but loathing; and their disbelief does not increase the disbelievers in anything but loss."
 word_count: 24
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 16
 title: "The Ledger That Keeps Your Best and Loses Your Worst"
 slug: "046-016"
 category: tadabbur
-arabic: "أُو۟لَـٰٓئِكَ ٱلَّذِينَ نَتَقَبَّلُ عَنْهُمْ أَحْسَنَ مَا عَمِلُوا۟ وَنَتَجَاوَزُ عَن سَيِّـَٔاتِهِمْ فِىٓ أَصْحَـٰبِ ٱلْجَنَّةِ ۖ وَعْدَ ٱلصِّدْقِ ٱلَّذِى كَانُوا۟ يُوعَدُونَ"
+arabic: "أُو۟لَـٰٓئِكَ ٱلَّذِينَ نَتَقَبَّلُ عَنْهُمْ أَحْسَنَ مَا عَمِلُوا۟ وَنَتَجَاوَزُ عَن سَيِّـَٔاتِهِمْ فِىٓ أَصْحَـٰبِ ٱلْجَنَّةِ ۖ وَعْدَ ٱلصِّدْقِ ٱلَّذِى كَانُوا۟ يُوعَدُونَ"
 translation: "Those are the ones from whom We accept the best of what they did, and We pass over their evil deeds — among the companions of Paradise. The promise of truth which they were being promised."
 word_count: 6400
 estimated_duration: "50-58 minutes"

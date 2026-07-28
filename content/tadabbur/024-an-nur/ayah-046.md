@@ -6,7 +6,7 @@ ayah_end: 46
 title: "What It Means That He Sent Down Clarifying Signs"
 slug: "024-046"
 category: tadabbur
-arabic: "لَّقَدْ أَنزَلْنَآ ءَايَـٰتٍۢ مُّبَيِّنَـٰتٍۢ ۚ وَٱللَّهُ يَهْدِى مَن يَشَآءُ إِلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ"
+arabic: "لَّقَدْ أَنزَلْنَآ ءَايَـٰتٍ مُّبَيِّنَـٰتٍ ۚ وَٱللَّهُ يَهْدِى مَن يَشَآءُ إِلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ"
 translation: "We have certainly sent down clarifying signs. And Allah guides whom He wills to a straight path."
 word_count: 11
 estimated_duration: "48-55 minutes"

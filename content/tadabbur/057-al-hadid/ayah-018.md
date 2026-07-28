@@ -6,7 +6,7 @@ ayah_end: 18
 title: "The Loan You Cannot Lose: Charity as the Proof of a True Heart"
 slug: "057-018"
 category: tadabbur
-arabic: "إِنَّ ٱلْمُصَّدِّقِينَ وَٱلْمُصَّدِّقَٰتِ وَأَقْرَضُوا۟ ٱللَّهَ قَرْضًا حَسَنًا يُضَٰعَفُ لَهُمْ وَلَهُمْ أَجْرٌ كَرِيمٌ"
+arabic: "إِنَّ ٱلْمُصَّدِّقِينَ وَٱلْمُصَّدِّقَـٰتِ وَأَقْرَضُوا۟ ٱللَّهَ قَرْضًا حَسَنًا يُضَـٰعَفُ لَهُمْ وَلَهُمْ أَجْرٌ كَرِيمٌ"
 translation: "Indeed, the men who give in charity and the women who give in charity, and who have lent to Allah a goodly loan — it will be multiplied for them, and for them is a noble reward."
 word_count: 12
 estimated_duration: "50-58 minutes"

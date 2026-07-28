@@ -6,7 +6,7 @@ ayah_end: 15
 title: "The Witness Who Came To You: ilā and ʿalā, and the Warning Folded Into a Comparison"
 slug: "073-015"
 category: tadabbur
-arabic: "إِنَّآ أَرْسَلْنَآ إِلَيْكُمْ رَسُولًا شَٰهِدًا عَلَيْكُمْ كَمَآ أَرْسَلْنَآ إِلَىٰ فِرْعَوْنَ رَسُولًا"
+arabic: "إِنَّآ أَرْسَلْنَآ إِلَيْكُمْ رَسُولًا شَـٰهِدًا عَلَيْكُمْ كَمَآ أَرْسَلْنَآ إِلَىٰ فِرْعَوْنَ رَسُولًا"
 translation: "Indeed, We have sent to you a Messenger as a witness over you, just as We sent to Pharaoh a messenger."
 word_count: 11
 estimated_duration: "50-58 minutes"

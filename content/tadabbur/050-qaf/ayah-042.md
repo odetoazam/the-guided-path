@@ -6,7 +6,7 @@ ayah_end: 42
 title: "The Cry That Cannot Be Unheard: Hearing, Truth, and the Day of Coming Forth"
 slug: "050-042"
 category: tadabbur
-arabic: "يَوْمَ يَسْمَعُونَ ٱلصَّيْحَةَ بِٱلْحَقِّ ۚ ذَٰلِكَ يَوْمُ ٱلْخُرُوجِ"
+arabic: "يَوْمَ يَسْمَعُونَ ٱلصَّيْحَةَ بِٱلْحَقِّ ۚ ذَٰلِكَ يَوْمُ ٱلْخُرُوجِ"
 translation: "The Day they will hear the Cry in truth — that is the Day of Coming Forth."
 word_count: 4100
 estimated_duration: "50-58 minutes"

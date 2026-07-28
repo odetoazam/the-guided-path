@@ -6,7 +6,7 @@ ayah_end: 77
 title: "The Promise You May Not Live to See: Patience, Sight, and Being Taken in Full"
 slug: "040-077"
 category: tadabbur
-arabic: "فَٱصْبِرْ إِنَّ وَعْدَ ٱللَّهِ حَقٌّ ۚ فَإِمَّا نُرِيَنَّكَ بَعْضَ ٱلَّذِى نَعِدُهُمْ أَوْ نَتَوَفَّيَنَّكَ فَإِلَيْنَا يُرْجَعُونَ"
+arabic: "فَٱصْبِرْ إِنَّ وَعْدَ ٱللَّهِ حَقٌّ ۚ فَإِمَّا نُرِيَنَّكَ بَعْضَ ٱلَّذِى نَعِدُهُمْ أَوْ نَتَوَفَّيَنَّكَ فَإِلَيْنَا يُرْجَعُونَ"
 translation: "So be patient; indeed, the promise of Allah is true. And whether We show you some of what We have promised them, or We take you in death — to Us they will be returned."
 word_count: 14
 estimated_duration: "50-58 minutes"

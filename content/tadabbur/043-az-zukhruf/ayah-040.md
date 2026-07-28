@@ -6,7 +6,7 @@ ayah_end: 40
 title: "Can You Make the Deaf Hear? — The Weight You Were Never Asked to Carry"
 slug: "043-040"
 category: tadabbur
-arabic: "أَفَأَنتَ تُسْمِعُ ٱلصُّمَّ أَوْ تَهْدِى ٱلْعُمْىَ وَمَن كَانَ فِى ضَلَـٰلٍ مُّبِينٍ"
+arabic: "أَفَأَنتَ تُسْمِعُ ٱلصُّمَّ أَوْ تَهْدِى ٱلْعُمْىَ وَمَن كَانَ فِى ضَلَـٰلٍ مُّبِينٍ"
 translation: "Then can you make the deaf hear, or guide the blind and whoever is in clear error?"
 word_count: 11
 estimated_duration: "50-58 minutes"

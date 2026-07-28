@@ -6,7 +6,7 @@ ayah_end: 8
 title: "The Question at the End of the Chase: What 'You Will Be Asked' Withholds"
 slug: "102-008"
 category: tadabbur
-arabic: "ثُمَّ لَتُسْـَٔلُنَّ يَوْمَئِذٍ عَنِ ٱلنَّعِيمِ"
+arabic: "ثُمَّ لَتُسْـَٔلُنَّ يَوْمَئِذٍ عَنِ ٱلنَّعِيمِ"
 translation: "Then, on that Day, you will surely be asked about the comfort and ease you enjoyed."
 word_count: 5
 estimated_duration: "48-56 minutes"

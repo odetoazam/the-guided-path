@@ -6,7 +6,7 @@ ayah_end: 47
 title: "The Finished Building That Is Still Expanding"
 slug: "051-047"
 category: tadabbur
-arabic: "وَٱلسَّمَآءَ بَنَيْنَٰهَا بِأَيْي۟دٍ وَإِنَّا لَمُوسِعُونَ"
+arabic: "وَٱلسَّمَآءَ بَنَيْنَـٰهَا بِأَيْي۟دٍ وَإِنَّا لَمُوسِعُونَ"
 translation: "And the heaven — We built it with strength, and indeed We are ever expanding [it]."
 word_count: 6
 estimated_duration: "50-58 minutes"

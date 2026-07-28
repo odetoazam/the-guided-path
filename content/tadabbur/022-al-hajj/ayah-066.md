@@ -6,7 +6,7 @@ ayah_end: 66
 title: "Three Movements of Mercy and the One Word for the Heart That Covers Them"
 slug: "022-066"
 category: tadabbur
-arabic: "وَهُوَ ٱلَّذِىٓ أَحْيَاكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ يُحْيِيكُمْ ۗ إِنَّ ٱلْإِنسَـٰنَ لَكَفُورٌ"
+arabic: "وَهُوَ ٱلَّذِىٓ أَحْيَاكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ يُحْيِيكُمْ ۗ إِنَّ ٱلْإِنسَـٰنَ لَكَفُورٌ"
 translation: "And He is the One who gave you life; then He will cause you to die; then He will give you life again. Indeed, the human being is profoundly ungrateful — a coverer."
 word_count: 11
 estimated_duration: "50-58 minutes"

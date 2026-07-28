@@ -6,7 +6,7 @@ ayah_end: 53
 title: "The Trial That Sorts Hearts: Why Allah Permits the Casting"
 slug: "022-053"
 category: tadabbur
-arabic: "لِّيَجْعَلَ مَا يُلْقِي ٱلشَّيْطَـٰنُ فِتْنَةً لِّلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ وَٱلْقَاسِيَةِ قُلُوبُهُمْ ۗ وَإِنَّ ٱلظَّـٰلِمِينَ لَفِى شِقَاقٍ بَعِيدٍ"
+arabic: "لِّيَجْعَلَ مَا يُلْقِى ٱلشَّيْطَـٰنُ فِتْنَةً لِّلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ وَٱلْقَاسِيَةِ قُلُوبُهُمْ ۗ وَإِنَّ ٱلظَّـٰلِمِينَ لَفِى شِقَاقٍۭ بَعِيدٍ"
 translation: "[This is] so that He may make what Satan throws a trial for those in whose hearts is disease and those whose hearts are hardened. And indeed, the wrongdoers are in extreme dissension."
 word_count: 7900
 estimated_duration: "50-55 minutes"

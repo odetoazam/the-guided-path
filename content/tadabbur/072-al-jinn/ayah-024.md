@@ -6,7 +6,7 @@ ayah_end: 24
 title: "Weaker in Helpers, Fewer in Number: The Day the Metrics Invert"
 slug: "072-024"
 category: tadabbur
-arabic: "حَتَّىٰٓ إِذَا رَأَوْا۟ مَا يُوعَدُونَ فَسَيَعْلَمُونَ مَنْ أَضْعَفُ نَاصِرًۭا وَأَقَلُّ عَدَدًۭا"
+arabic: "حَتَّىٰٓ إِذَا رَأَوْا۟ مَا يُوعَدُونَ فَسَيَعْلَمُونَ مَنْ أَضْعَفُ نَاصِرًا وَأَقَلُّ عَدَدًا"
 translation: "Until, when they see what they are promised, they will come to know who is weaker in helpers and fewer in number."
 word_count: 11
 estimated_duration: "50-58 minutes"

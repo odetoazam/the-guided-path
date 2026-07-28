@@ -6,7 +6,7 @@ ayah_end: 19
 title: "The Crowd That Cannot Save You: Two Kinds of Belonging"
 slug: "045-019"
 category: tadabbur
-arabic: "إِنَّهُمْ لَن يُغْنُوا۟ عَنكَ مِنَ ٱللَّهِ شَيْـًٔا ۚ وَإِنَّ ٱلظَّـٰلِمِينَ بَعْضُهُمْ أَوْلِيَآءُ بَعْضٍ ۖ وَٱللَّهُ وَلِىُّ ٱلْمُتَّقِينَ"
+arabic: "إِنَّهُمْ لَن يُغْنُوا۟ عَنكَ مِنَ ٱللَّهِ شَيْـًٔا ۚ وَإِنَّ ٱلظَّـٰلِمِينَ بَعْضُهُمْ أَوْلِيَآءُ بَعْضٍ ۖ وَٱللَّهُ وَلِىُّ ٱلْمُتَّقِينَ"
 translation: "Indeed, they will never avail you against Allah in anything. And indeed, the wrongdoers are allies of one another, while Allah is the Protector of those who are mindful of Him."
 word_count: 6200
 estimated_duration: "50-56 minutes"

@@ -6,7 +6,7 @@ ayah_end: 35
 title: "We Will Strengthen Your Arm by Your Brother: The Divine Architecture of Mission Companionship"
 slug: "028-035"
 category: tadabbur
-arabic: "قَالَ سَنَشُدُّ عَضُدَكَ بِأَخِيكَ وَنَجْعَلُ لَكُمَا سُلْطَانًا فَلَا يَصِلُونَ إِلَيْكُمَا ۚ بِآيَاتِنَا أَنتُمَا وَمَنِ اتَّبَعَكُمَا الْغَالِبُونَ"
+arabic: "قَالَ سَنَشُدُّ عَضُدَكَ بِأَخِيكَ وَنَجْعَلُ لَكُمَا سُلْطَـٰنًا فَلَا يَصِلُونَ إِلَيْكُمَا ۚ بِـَٔايَـٰتِنَآ أَنتُمَا وَمَنِ ٱتَّبَعَكُمَا ٱلْغَـٰلِبُونَ"
 translation: "He said: We will strengthen your arm by means of your brother, and We will grant you both an authority, so they shall not reach you. By Our signs, you two and whoever follows you will be the prevailers."
 word_count: 18
 estimated_duration: "50-58 minutes"

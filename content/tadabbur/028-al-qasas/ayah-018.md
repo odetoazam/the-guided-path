@@ -6,7 +6,7 @@ ayah_end: 18
 title: "The Morning After: Fear, Forgiveness, and Musa's Longest Walk"
 slug: "028-018"
 category: tadabbur
-arabic: "فَأَصْبَحَ فِي الْمَدِينَةِ خَائِفًا يَتَرَقَّبُ فَإِذَا الَّذِي اسْتَنصَرَهُ بِالْأَمْسِ يَسْتَصْرِخُهُ ۚ قَالَ لَهُ مُوسَىٰ إِنَّكَ لَغَوِيٌّ مُّبِينٌ"
+arabic: "فَأَصْبَحَ فِى ٱلْمَدِينَةِ خَآئِفًا يَتَرَقَّبُ فَإِذَا ٱلَّذِى ٱسْتَنصَرَهُۥ بِٱلْأَمْسِ يَسْتَصْرِخُهُۥ ۚ قَالَ لَهُۥ مُوسَىٰٓ إِنَّكَ لَغَوِىٌّ مُّبِينٌ"
 translation: "So he became in the city, fearful and watchfully watching — and then, suddenly, the one who had sought his help the day before was crying out to him for help. Musa said to him: 'Truly, you are clearly misguided.'"
 word_count: 4480
 estimated_duration: "50-56 minutes"

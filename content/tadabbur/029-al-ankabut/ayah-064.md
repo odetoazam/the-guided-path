@@ -6,7 +6,7 @@ ayah_end: 64
 title: "The Life That Is Actually Alive"
 slug: "029-064"
 category: tadabbur
-arabic: "وَمَا هَٰذِهِ ٱلْحَيَوٰةُ ٱلدُّنْيَآ إِلَّا لَهْوٌ وَلَعِبٌ ۚ وَإِنَّ ٱلدَّارَ ٱلْءَاخِرَةَ لَهِىَ ٱلْحَيَوَانُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ"
+arabic: "وَمَا هَـٰذِهِ ٱلْحَيَوٰةُ ٱلدُّنْيَآ إِلَّا لَهْوٌ وَلَعِبٌ ۚ وَإِنَّ ٱلدَّارَ ٱلْـَٔاخِرَةَ لَهِىَ ٱلْحَيَوَانُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ"
 translation: "And this worldly life is nothing but distraction and play. And indeed, the home of the Hereafter — that is the life, if only they knew."
 word_count: 16
 estimated_duration: "50-58 minutes"

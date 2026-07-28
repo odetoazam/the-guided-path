@@ -6,7 +6,7 @@ ayah_end: 3
 title: "A Help That Cannot Be Humiliated"
 slug: "048-003"
 category: tadabbur
-arabic: "وَيَنصُرَكَ ٱللَّهُ نَصْرًا عَزِيزًا"
+arabic: "وَيَنصُرَكَ ٱللَّهُ نَصْرًا عَزِيزًا"
 translation: "And Allah will help you with a help that is mighty and beyond all humiliation."
 word_count: 5200
 estimated_duration: "50-58 minutes"

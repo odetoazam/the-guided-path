@@ -6,7 +6,7 @@ ayah_end: 58
 title: "The Question That Was Never a Question: Jadal and the Heart That Argues to Win"
 slug: "043-058"
 category: tadabbur
-arabic: "وَقَالُوٓا۟ أَءَالِهَتُنَا خَيْرٌ أَمْ هُوَ ۚ مَا ضَرَبُوهُ لَكَ إِلَّا جَدَلًۢا ۚ بَلْ هُمْ قَوْمٌ خَصِمُونَ"
+arabic: "وَقَالُوٓا۟ ءَأَـٰلِهَتُنَا خَيْرٌ أَمْ هُوَ ۚ مَا ضَرَبُوهُ لَكَ إِلَّا جَدَلًۢا ۚ بَلْ هُمْ قَوْمٌ خَصِمُونَ"
 translation: "And they said, 'Are our gods better, or is he?' They did not present it to you except for argument. Nay, they are a contentious people."
 word_count: 14
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 12
 title: "The Wisdom That Returns to Its Owner"
 slug: "031-012"
 category: tadabbur
-arabic: "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌ"
+arabic: "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌ"
 translation: "And We had certainly given Luqman wisdom — [saying], 'Be grateful to Allah.' And whoever is grateful is grateful only for [the benefit of] himself. And whoever denies — then indeed, Allah is Free of need and Praiseworthy."
 word_count: 1850
 estimated_duration: "50-55 minutes"

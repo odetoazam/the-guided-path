@@ -6,7 +6,7 @@ ayah_end: 87
 title: "The Pull You Cannot Afford: Being Turned Away From the Signs"
 slug: "028-087"
 category: tadabbur
-arabic: "وَلَا يَصُدُّنَّكَ عَنْ آيَاتِ اللَّهِ بَعْدَ إِذْ أُنزِلَتْ إِلَيْكَ ۖ وَادْعُ إِلَىٰ رَبِّكَ ۖ وَلَا تَكُونَنَّ مِنَ الْمُشْرِكِينَ"
+arabic: "وَلَا يَصُدُّنَّكَ عَنْ ءَايَـٰتِ ٱللَّهِ بَعْدَ إِذْ أُنزِلَتْ إِلَيْكَ ۖ وَٱدْعُ إِلَىٰ رَبِّكَ ۖ وَلَا تَكُونَنَّ مِنَ ٱلْمُشْرِكِينَ"
 translation: "And let them not turn you away from the signs of Allah after they have been revealed to you. And invite to your Lord. And never be among those who associate others with Him."
 word_count: 18
 estimated_duration: "50-55 minutes"

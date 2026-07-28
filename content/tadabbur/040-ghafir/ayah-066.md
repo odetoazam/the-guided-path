@@ -6,7 +6,7 @@ ayah_end: 66
 title: "Forbidden and Commanded: The Two Walls That Make a Door"
 slug: "040-066"
 category: tadabbur
-arabic: "قُلْ إِنِّى نُهِيتُ أَنْ أَعْبُدَ ٱلَّذِينَ تَدْعُونَ مِن دُونِ ٱللَّهِ لَمَّا جَآءَنِىَ ٱلْبَيِّنَٰتُ مِن رَّبِّى وَأُمِرْتُ أَنْ أُسْلِمَ لِرَبِّ ٱلْعَٰلَمِينَ"
+arabic: "۞ قُلْ إِنِّى نُهِيتُ أَنْ أَعْبُدَ ٱلَّذِينَ تَدْعُونَ مِن دُونِ ٱللَّهِ لَمَّا جَآءَنِىَ ٱلْبَيِّنَـٰتُ مِن رَّبِّى وَأُمِرْتُ أَنْ أُسْلِمَ لِرَبِّ ٱلْعَـٰلَمِينَ"
 translation: "Say: 'I have been forbidden to worship those you call upon besides Allah, now that clear proofs have come to me from my Lord — and I have been commanded to submit to the Lord of all the worlds.'"
 word_count: 20
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 47
 title: "The Bird of Bad Omen: When You Blame the Cure for the Disease"
 slug: "027-047"
 category: tadabbur
-arabic: "قَالُوا۟ ٱطَّيَّرْنَا بِكَ وَبِمَن مَّعَكَ ۚ قَالَ طَـٰٓئِرُكُمْ عِندَ ٱللَّهِ ۖ بَلْ أَنتُمْ قَوْمٌ تُفْتَنُونَ"
+arabic: "قَالُوا۟ ٱطَّيَّرْنَا بِكَ وَبِمَن مَّعَكَ ۚ قَالَ طَـٰٓئِرُكُمْ عِندَ ٱللَّهِ ۖ بَلْ أَنتُمْ قَوْمٌ تُفْتَنُونَ"
 translation: "They said, 'We see an evil omen in you and those with you.' He said, 'Your omen is with Allah. Rather, you are a people being tested.'"
 word_count: 14
 estimated_duration: "50-55 minutes"

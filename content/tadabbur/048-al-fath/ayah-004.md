@@ -6,7 +6,7 @@ ayah_end: 4
 title: "The Reinforcement That Descended Into the Chest"
 slug: "048-004"
 category: tadabbur
-arabic: "هُوَ ٱلَّذِىٓ أَنزَلَ ٱلسَّكِينَةَ فِى قُلُوبِ ٱلْمُؤْمِنِينَ لِيَزْدَادُوٓاْ إِيمَـٰنًا مَّعَ إِيمَـٰنِهِمْ ۗ وَلِلَّهِ جُنُودُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًا"
+arabic: "هُوَ ٱلَّذِىٓ أَنزَلَ ٱلسَّكِينَةَ فِى قُلُوبِ ٱلْمُؤْمِنِينَ لِيَزْدَادُوٓا۟ إِيمَـٰنًا مَّعَ إِيمَـٰنِهِمْ ۗ وَلِلَّهِ جُنُودُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًا"
 translation: "He is the One Who sent down tranquility into the hearts of the believers, that they may increase in faith along with their faith. And to Allah belong the hosts of the heavens and the earth, and Allah is All-Knowing, All-Wise."
 word_count: 19
 estimated_duration: "50-58 minutes"

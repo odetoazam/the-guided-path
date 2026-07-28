@@ -6,7 +6,7 @@ ayah_end: 20
 title: "Were It Not For Allah's Grace: The Mercy That Holds the Slander Back"
 slug: "024-020"
 category: tadabbur
-arabic: "وَلَوْلَا فَضْلُ ٱللَّهِ عَلَيْكُمْ وَرَحْمَتُهُۥ وَأَنَّ ٱللَّهَ رَءُوفٌ رَّحِيمٌ"
+arabic: "وَلَوْلَا فَضْلُ ٱللَّهِ عَلَيْكُمْ وَرَحْمَتُهُۥ وَأَنَّ ٱللَّهَ رَءُوفٌ رَّحِيمٌ"
 translation: "And were it not for Allah's grace upon you and His mercy — and that Allah is Ever-Gentle, Most Merciful."
 word_count: 11
 estimated_duration: "48-55 minutes"

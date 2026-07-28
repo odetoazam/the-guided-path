@@ -6,7 +6,7 @@ ayah_end: 45
 title: "The Eighth Hammer: What the Refrain Becomes After You've Seen the Garden"
 slug: "077-045"
 category: tadabbur
-arabic: "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ"
+arabic: "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ"
 translation: "Woe that Day to the deniers."
 word_count: 7100
 estimated_duration: "52-60 minutes"

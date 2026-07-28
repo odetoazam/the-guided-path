@@ -6,7 +6,7 @@ ayah_end: 18
 title: "Allah Knows the Hinderers: The Whisper at the Trench"
 slug: "033-018"
 category: tadabbur
-arabic: "۞ قَدْ يَعْلَمُ ٱللَّهُ ٱلْمُعَوِّقِينَ مِنكُمْ وَٱلْقَآئِلِينَ لِإِخْوَٰنِهِمْ هَلُمَّ إِلَيْنَا ۖ وَلَا يَأْتُونَ ٱلْبَأْسَ إِلَّا قَلِيلًا"
+arabic: "۞ قَدْ يَعْلَمُ ٱللَّهُ ٱلْمُعَوِّقِينَ مِنكُمْ وَٱلْقَآئِلِينَ لِإِخْوَٰنِهِمْ هَلُمَّ إِلَيْنَا ۖ وَلَا يَأْتُونَ ٱلْبَأْسَ إِلَّا قَلِيلًا"
 translation: "Indeed, Allah already knows those among you who would hinder, and those who say to their brothers, 'Come over to us' — and they do not come to the battle except for a little."
 word_count: 14
 estimated_duration: "50-58 minutes"

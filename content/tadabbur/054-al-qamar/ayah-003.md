@@ -6,7 +6,7 @@ ayah_end: 3
 title: "One Letter Apart: The Falling and the Settling"
 slug: "054-003"
 category: tadabbur
-arabic: "وَكَذَّبُوا۟ وَٱتَّبَعُوٓا۟ أَهْوَآءَهُمْ ۚ وَكُلُّ أَمْرٍ مُّسْتَقِرٌّ"
+arabic: "وَكَذَّبُوا۟ وَٱتَّبَعُوٓا۟ أَهْوَآءَهُمْ ۚ وَكُلُّ أَمْرٍ مُّسْتَقِرٌّ"
 translation: "And they denied, and followed their desires — but every matter will come to rest."
 word_count: 6300
 estimated_duration: "48-56 minutes"

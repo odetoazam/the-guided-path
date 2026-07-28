@@ -6,7 +6,7 @@ ayah_end: 44
 title: "The Mistaken Pool: When Certainty Is the Veil"
 slug: "027-044"
 category: tadabbur
-arabic: "قِيلَ لَهَا ٱدْخُلِى ٱلصَّرْحَ ۖ فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةً وَكَشَفَتْ عَن سَاقَيْهَا ۚ قَالَ إِنَّهُۥ صَرْحٌ مُّمَرَّدٌ مِّن قَوَارِيرَ ۗ قَالَتْ رَبِّ إِنِّى ظَلَمْتُ نَفْسِى وَأَسْلَمْتُ مَعَ سُلَيْمَـٰنَ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ"
+arabic: "قِيلَ لَهَا ٱدْخُلِى ٱلصَّرْحَ ۖ فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةً وَكَشَفَتْ عَن سَاقَيْهَا ۚ قَالَ إِنَّهُۥ صَرْحٌ مُّمَرَّدٌ مِّن قَوَارِيرَ ۗ قَالَتْ رَبِّ إِنِّى ظَلَمْتُ نَفْسِى وَأَسْلَمْتُ مَعَ سُلَيْمَـٰنَ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ"
 translation: "It was said to her, 'Enter the palace.' But when she saw it, she thought it was a deep pool of water and uncovered her shins. He said, 'Indeed, it is a palace [whose floor is] paved smooth with glass.' She said, 'My Lord, indeed I have wronged myself, and I submit with Solomon to Allah, Lord of the worlds.'"
 word_count: 32
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 60
 title: "The Creature That Carries Nothing: Rizq, Migration, and the One Who Hears Your Fear"
 slug: "029-060"
 category: tadabbur
-arabic: "وَكَأَيِّن مِّن دَآبَّةٍ لَّا تَحْمِلُ رِزْقَهَا ٱللَّهُ يَرْزُقُهَا وَإِيَّاكُمْ ۚ وَهُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ"
+arabic: "وَكَأَيِّن مِّن دَآبَّةٍ لَّا تَحْمِلُ رِزْقَهَا ٱللَّهُ يَرْزُقُهَا وَإِيَّاكُمْ ۚ وَهُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ"
 translation: "And how many a creature there is that does not carry its own provision — Allah provides for it, and for you. And He is the All-Hearing, the All-Knowing."
 word_count: 13
 estimated_duration: "50-56 minutes"

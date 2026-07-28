@@ -6,7 +6,7 @@ ayah_end: 8
 title: "The Gardens That Are Already Yours: Faith, Action, and the Certainty of Belonging"
 slug: "031-008"
 category: tadabbur
-arabic: "إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ جَنَّاتُ النَّعِيمِ"
+arabic: "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَهُمْ جَنَّـٰتُ ٱلنَّعِيمِ"
 translation: "Indeed, those who believed and did righteous deeds — for them are the Gardens of Bliss."
 word_count: 4350
 estimated_duration: "48-55 minutes"

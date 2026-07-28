@@ -6,7 +6,7 @@ ayah_end: 38
 title: "The Affair That Is Consultation: When Faith Refuses to Decide Alone"
 slug: "042-038"
 category: tadabbur
-arabic: "وَٱلَّذِينَ ٱسْتَجَابُوا۟ لِرَبِّهِمْ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَأَمْرُهُمْ شُورَىٰ بَيْنَهُمْ وَمِمَّا رَزَقْنَٰهُمْ يُنفِقُونَ"
+arabic: "وَٱلَّذِينَ ٱسْتَجَابُوا۟ لِرَبِّهِمْ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَأَمْرُهُمْ شُورَىٰ بَيْنَهُمْ وَمِمَّا رَزَقْنَـٰهُمْ يُنفِقُونَ"
 translation: "And those who have responded to their Lord, and established the prayer, and whose affair is consultation among themselves, and who spend out of what We have provided them."
 word_count: 11
 estimated_duration: "50-58 minutes"

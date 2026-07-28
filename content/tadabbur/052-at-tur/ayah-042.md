@@ -6,7 +6,7 @@ ayah_end: 42
 title: "The Plotters Plotted Against: When a Scheme Becomes a Trap for Its Author"
 slug: "052-042"
 category: tadabbur
-arabic: "أَمْ يُرِيدُونَ كَيْدًا ۖ فَٱلَّذِينَ كَفَرُوا۟ هُمُ ٱلْمَكِيدُونَ"
+arabic: "أَمْ يُرِيدُونَ كَيْدًا ۖ فَٱلَّذِينَ كَفَرُوا۟ هُمُ ٱلْمَكِيدُونَ"
 translation: "Or do they intend a plot? But those who disbelieve — they themselves are the ones plotted against."
 word_count: 7
 estimated_duration: "50-58 minutes"

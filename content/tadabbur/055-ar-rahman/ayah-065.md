@@ -6,7 +6,7 @@ ayah_end: 65
 title: "To Belie a Gift: The Question That Refuses to Let You Go Numb"
 slug: "055-065"
 category: tadabbur
-arabic: "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ"
+arabic: "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
 translation: "So which of the favors of your Lord will you two deny?"
 word_count: 4
 estimated_duration: "48-58 minutes"

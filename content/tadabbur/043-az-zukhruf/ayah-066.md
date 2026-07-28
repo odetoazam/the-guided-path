@@ -6,7 +6,7 @@ ayah_end: 66
 title: "The Only Thing They Are Waiting For"
 slug: "043-066"
 category: tadabbur
-arabic: "هَلْ يَنظُرُونَ إِلَّا ٱلسَّاعَةَ أَن تَأْتِيَهُم بَغْتَةً وَهُمْ لَا يَشْعُرُونَ"
+arabic: "هَلْ يَنظُرُونَ إِلَّا ٱلسَّاعَةَ أَن تَأْتِيَهُم بَغْتَةً وَهُمْ لَا يَشْعُرُونَ"
 translation: "Are they waiting for anything except the Hour — that it should come upon them suddenly, while they do not perceive it?"
 word_count: 10
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 26
 title: "The Taste of Disgrace: What the Sample Was Meant to Teach"
 slug: "039-026"
 category: tadabbur
-arabic: "فَأَذَاقَهُمُ ٱللَّهُ ٱلْخِزْىَ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا ۖ وَلَعَذَابُ ٱلْءَاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ"
+arabic: "فَأَذَاقَهُمُ ٱللَّهُ ٱلْخِزْىَ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ"
 translation: "So Allah made them taste the disgrace in the life of this world — and the punishment of the Hereafter is far greater, if only they knew."
 word_count: 12
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 27
 title: "And They Will Come to You — Ibrahim's Voice Across Four Thousand Years"
 slug: "022-027"
 category: tadabbur
-arabic: "وَأَذِّن فِى ٱلنَّاسِ بِٱلْحَجِّ يَأْتُوكَ رِجَالًا وَعَلَىٰ كُلِّ ضَامِرٍ يَأْتِينَ مِن كُلِّ فَجٍّ عَمِيقٍ"
+arabic: "وَأَذِّن فِى ٱلنَّاسِ بِٱلْحَجِّ يَأْتُوكَ رِجَالًا وَعَلَىٰ كُلِّ ضَامِرٍ يَأْتِينَ مِن كُلِّ فَجٍّ عَمِيقٍ"
 translation: "And proclaim to the people the Hajj — they will come to you on foot and on every lean camel, coming from every deep mountain pass."
 word_count: 14
 estimated_duration: "50-58 minutes"

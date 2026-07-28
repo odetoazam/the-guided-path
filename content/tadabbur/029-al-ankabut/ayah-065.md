@@ -6,7 +6,7 @@ ayah_end: 65
 title: "The Ocean Prayer — When Sincerity Surfaces and Then Sinks Again"
 slug: "029-065"
 category: tadabbur
-arabic: "فَإِذَا رَكِبُوا۟ فِى ٱلْفُلْكِ دَعَوُا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ فَلَمَّا نَجَّىٰهُمْ إِلَى ٱلْبَرِّ إِذَا هُمْ يُشْرِكُونَ"
+arabic: "فَإِذَا رَكِبُوا۟ فِى ٱلْفُلْكِ دَعَوُا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ فَلَمَّا نَجَّىٰهُمْ إِلَى ٱلْبَرِّ إِذَا هُمْ يُشْرِكُونَ"
 translation: "So when they board the ship, they call upon Allah, sincere to Him in faith. But once He has delivered them safely to land — at once, they associate others with Him."
 word_count: 17
 estimated_duration: "50-58 minutes"

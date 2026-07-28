@@ -6,7 +6,7 @@ ayah_end: 36
 title: "The Traveler's Provision: Better and More Lasting"
 slug: "042-036"
 category: tadabbur
-arabic: "فَمَآ أُوتِيتُم مِّن شَىْءٍ فَمَتَـٰعُ ٱلْحَيَوٰةِ ٱلدُّنْيَا ۖ وَمَا عِندَ ٱللَّهِ خَيْرٌ وَأَبْقَىٰ لِلَّذِينَ ءَامَنُواْ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ"
+arabic: "فَمَآ أُوتِيتُم مِّن شَىْءٍ فَمَتَـٰعُ ٱلْحَيَوٰةِ ٱلدُّنْيَا ۖ وَمَا عِندَ ٱللَّهِ خَيْرٌ وَأَبْقَىٰ لِلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ"
 translation: "So whatever you have been given of anything — it is but the passing enjoyment of the worldly life. But what is with Allah is better and more lasting for those who believe and put their trust in their Lord."
 word_count: 17
 estimated_duration: "50-58 minutes"

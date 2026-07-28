@@ -6,7 +6,7 @@ ayah_end: 25
 title: "The Retreat From Clarity: How the Enemy Beautifies the Step Back and Lengthens the Rope"
 slug: "047-025"
 category: tadabbur
-arabic: "إِنَّ ٱلَّذِينَ ٱرْتَدُّوا۟ عَلَىٰٓ أَدْبَـٰرِهِم مِّنۢ بَعْدِ مَا تَبَيَّنَ لَهُمُ ٱلْهُدَى ۙ ٱلشَّيْطَـٰنُ سَوَّلَ لَهُمْ وَأَمْلَىٰ لَهُمْ"
+arabic: "إِنَّ ٱلَّذِينَ ٱرْتَدُّوا۟ عَلَىٰٓ أَدْبَـٰرِهِم مِّنۢ بَعْدِ مَا تَبَيَّنَ لَهُمُ ٱلْهُدَى ۙ ٱلشَّيْطَـٰنُ سَوَّلَ لَهُمْ وَأَمْلَىٰ لَهُمْ"
 translation: "Indeed, those who turned back on their heels after the guidance had become clear to them — Shaytan enticed them, and extended for them a long horizon of hope."
 word_count: 15
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 26
 title: "The Owner Who Needs Nothing: Al-Ghaniyy, Al-Ḥamīd"
 slug: "031-026"
 category: tadabbur
-arabic: "لِلَّهِ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ ۚ إِنَّ اللَّهَ هُوَ الْغَنِيُّ الْحَمِيدُ"
+arabic: "لِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ إِنَّ ٱللَّهَ هُوَ ٱلْغَنِىُّ ٱلْحَمِيدُ"
 translation: "To Allah belongs whatever is in the heavens and the earth. Indeed, Allah — He is the Self-Sufficient, the Praiseworthy."
 word_count: 3900
 estimated_duration: "48-56 minutes"

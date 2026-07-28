@@ -6,7 +6,7 @@ ayah_end: 74
 title: "The Day He Will Call Them: When the Question Repeats"
 slug: "028-074"
 category: tadabbur
-arabic: "وَيَوْمَ يُنَادِيهِمْ فَيَقُولُ أَيْنَ شُرَكَائِيَ الَّذِينَ كُنتُمْ تَزْعُمُونَ"
+arabic: "وَيَوْمَ يُنَادِيهِمْ فَيَقُولُ أَيْنَ شُرَكَآءِىَ ٱلَّذِينَ كُنتُمْ تَزْعُمُونَ"
 translation: "And on the Day He will call to them and say, 'Where are My so-called partners — the ones you used to claim?'"
 word_count: 9
 estimated_duration: "48-55 minutes"

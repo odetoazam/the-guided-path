@@ -6,7 +6,7 @@ ayah_end: 41
 title: "Listen for the Near Place: How Qaf Answers 'Far' with 'Near'"
 slug: "050-041"
 category: tadabbur
-arabic: "وَٱسْتَمِعْ يَوْمَ يُنَادِ ٱلْمُنَادِ مِن مَّكَانٍ قَرِيبٍ"
+arabic: "وَٱسْتَمِعْ يَوْمَ يُنَادِ ٱلْمُنَادِ مِن مَّكَانٍ قَرِيبٍ"
 translation: "And listen, on the Day when the Caller will call out from a near place."
 word_count: 7
 estimated_duration: "48-58 minutes"

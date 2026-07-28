@@ -6,7 +6,7 @@ ayah_end: 5
 title: "The God You Cannot Hide From: Why Nothing Achieves Concealment"
 slug: "003-005"
 category: tadabbur
-arabic: "إِنَّ ٱللَّهَ لَا يَخْفَىٰ عَلَيْهِ شَىْءٌ فِى ٱلْأَرْضِ وَلَا فِى ٱلسَّمَآءِ"
+arabic: "إِنَّ ٱللَّهَ لَا يَخْفَىٰ عَلَيْهِ شَىْءٌ فِى ٱلْأَرْضِ وَلَا فِى ٱلسَّمَآءِ"
 translation: "Indeed Allah — nothing is hidden from Him, whether in the earth or in the heaven."
 word_count: 11
 estimated_duration: "50-58 minutes"

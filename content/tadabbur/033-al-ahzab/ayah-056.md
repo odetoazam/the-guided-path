@@ -6,7 +6,7 @@ ayah_end: 56
 title: "When Allah Asks You to Join Him in Honoring His Beloved"
 slug: "033-056"
 category: tadabbur
-arabic: "إِنَّ ٱللَّهَ وَمَلَـٰٓئِكَتَهُۥ يُصَلُّونَ عَلَى ٱلنَّبِىِّ ۚ يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ صَلُّوا۟ عَلَيْهِ وَسَلِّمُوا۟ تَسْلِيمًۭا"
+arabic: "إِنَّ ٱللَّهَ وَمَلَـٰٓئِكَتَهُۥ يُصَلُّونَ عَلَى ٱلنَّبِىِّ ۚ يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ صَلُّوا۟ عَلَيْهِ وَسَلِّمُوا۟ تَسْلِيمًا"
 translation: "Indeed, Allah and His angels send blessings upon the Prophet. O you who have believed, send blessings upon him and greet him with [a worthy] greeting."
 word_count: 14
 estimated_duration: "50-55 minutes"

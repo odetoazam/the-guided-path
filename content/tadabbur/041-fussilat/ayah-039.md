@@ -6,7 +6,7 @@ ayah_end: 39
 title: "The Earth That Bows: How Deadness Wears the Face of Humility"
 slug: "041-039"
 category: tadabbur
-arabic: "وَمِنْ ءَايَـٰتِهِۦٓ أَنَّكَ تَرَى ٱلْأَرْضَ خَـٰشِعَةً فَإِذَآ أَنزَلْنَا عَلَيْهَا ٱلْمَآءَ ٱهْتَزَّتْ وَرَبَتْ ۚ إِنَّ ٱلَّذِىٓ أَحْيَاهَا لَمُحْىِ ٱلْمَوْتَىٰٓ ۚ إِنَّهُۥ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ"
+arabic: "وَمِنْ ءَايَـٰتِهِۦٓ أَنَّكَ تَرَى ٱلْأَرْضَ خَـٰشِعَةً فَإِذَآ أَنزَلْنَا عَلَيْهَا ٱلْمَآءَ ٱهْتَزَّتْ وَرَبَتْ ۚ إِنَّ ٱلَّذِىٓ أَحْيَاهَا لَمُحْىِ ٱلْمَوْتَىٰٓ ۚ إِنَّهُۥ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ"
 translation: "And among His signs is that you see the earth humbled and barren — but when We send down water upon it, it stirs and swells. Indeed, the One who gave it life is surely the Giver of life to the dead. Indeed, He is over all things All-Powerful."
 word_count: 22
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 56
 title: "The Witnesses Against the Deniers: When Knowledge Itself Testifies"
 slug: "030-056"
 category: tadabbur
-arabic: "وَقَالَ ٱلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ وَٱلْإِيمَـٰنَ لَقَدْ لَبِثْتُمْ فِى كِتَـٰبِ ٱللَّهِ إِلَىٰ يَوْمِ ٱلْبَعْثِ ۖ فَهَـٰذَا يَوْمُ ٱلْبَعْثِ وَلَـٰكِنَّكُمْ كُنتُمْ لَا تَعْلَمُونَ"
+arabic: "وَقَالَ ٱلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ وَٱلْإِيمَـٰنَ لَقَدْ لَبِثْتُمْ فِى كِتَـٰبِ ٱللَّهِ إِلَىٰ يَوْمِ ٱلْبَعْثِ ۖ فَهَـٰذَا يَوْمُ ٱلْبَعْثِ وَلَـٰكِنَّكُمْ كُنتُمْ لَا تَعْلَمُونَ"
 translation: "And those who were given knowledge and faith will say: 'You have indeed remained — according to the Decree of Allah — until the Day of Resurrection. So this is the Day of Resurrection — but you did not know.'"
 word_count: 24
 estimated_duration: "50-58 minutes"

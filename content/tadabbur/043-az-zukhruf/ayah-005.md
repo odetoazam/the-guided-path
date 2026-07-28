@@ -6,7 +6,7 @@ ayah_end: 5
 title: "The Reminder That Refuses to Leave: Why Mercy Answers Excess With More Light"
 slug: "043-005"
 category: tadabbur
-arabic: "أَفَنَضْرِبُ عَنكُمُ ٱلذِّكْرَ صَفْحًا أَن كُنتُمْ قَوْمًا مُّسْرِفِينَ"
+arabic: "أَفَنَضْرِبُ عَنكُمُ ٱلذِّكْرَ صَفْحًا أَن كُنتُمْ قَوْمًا مُّسْرِفِينَ"
 translation: "Then should We turn the Reminder away from you, withholding it, because you are a people who have exceeded all bounds?"
 word_count: 8
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 5
 title: "Mounted Upon Guidance: The Farmer's Definition of Success"
 slug: "031-005"
 category: tadabbur
-arabic: "أُو۟لَـٰٓئِكَ عَلَىٰ هُدًۭى مِّن رَّبِّهِمْ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ"
+arabic: "أُو۟لَـٰٓئِكَ عَلَىٰ هُدًى مِّن رَّبِّهِمْ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ"
 translation: "Those are upon guidance from their Lord, and those — they are the truly successful."
 word_count: 9
 estimated_duration: "48-55 minutes"

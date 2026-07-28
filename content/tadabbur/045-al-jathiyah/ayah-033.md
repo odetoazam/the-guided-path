@@ -6,7 +6,7 @@ ayah_end: 33
 title: "The Joke That Closes In: When Mockery Becomes a Cage"
 slug: "045-033"
 category: tadabbur
-arabic: "وَبَدَا لَهُمْ سَيِّئَاتُ مَا عَمِلُوا۟ وَحَاقَ بِهِم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ"
+arabic: "وَبَدَا لَهُمْ سَيِّـَٔاتُ مَا عَمِلُوا۟ وَحَاقَ بِهِم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ"
 translation: "And there will appear to them the evils of what they did, and there will close in around them the very thing they used to mock."
 word_count: 11
 estimated_duration: "50-58 minutes"

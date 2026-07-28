@@ -6,7 +6,7 @@ ayah_end: 10
 title: "The Two-Word Prayer That Opened the Gates of Heaven"
 slug: "054-010"
 category: tadabbur
-arabic: "فَدَعَا رَبَّهُۥٓ أَنِّى مَغْلُوبٌ فَٱنتَصِرْ"
+arabic: "فَدَعَا رَبَّهُۥٓ أَنِّى مَغْلُوبٌ فَٱنتَصِرْ"
 translation: "So he called upon his Lord: 'I am overpowered — so take up my cause.'"
 word_count: 5400
 estimated_duration: "48-56 minutes"

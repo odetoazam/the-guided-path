@@ -6,7 +6,7 @@ ayah_end: 44
 title: "You Were Not There: The Absent Witness and the News That Weighs"
 slug: "003-044"
 category: tadabbur
-arabic: "ذَٰلِكَ مِنْ أَنۢبَآءِ ٱلْغَيْبِ نُوحِيهِ إِلَيْكَ ۚ وَمَا كُنتَ لَدَيْهِمْ إِذْ يُلْقُونَ أَقْلَٰمَهُمْ أَيُّهُمْ يَكْفُلُ مَرْيَمَ وَمَا كُنتَ لَدَيْهِمْ إِذْ يَخْتَصِمُونَ"
+arabic: "ذَٰلِكَ مِنْ أَنۢبَآءِ ٱلْغَيْبِ نُوحِيهِ إِلَيْكَ ۚ وَمَا كُنتَ لَدَيْهِمْ إِذْ يُلْقُونَ أَقْلَـٰمَهُمْ أَيُّهُمْ يَكْفُلُ مَرْيَمَ وَمَا كُنتَ لَدَيْهِمْ إِذْ يَخْتَصِمُونَ"
 translation: "That is from the news of the unseen which We reveal to you. And you were not with them when they cast their pens [in lots to decide] which of them should take charge of Maryam, nor were you with them when they were disputing."
 word_count: 20
 estimated_duration: "50-58 minutes"

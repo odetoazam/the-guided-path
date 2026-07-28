@@ -6,7 +6,7 @@ ayah_end: 13
 slug: "aal-imran-13-the-two-armies-and-the-crossing"
 category: tadabbur
 title: "The Eye That Lied at Badr: Crossing from What You See to the One Who Decides"
-arabic: "قَدْ كَانَ لَكُمْ آيَةٌ فِي فِئَتَيْنِ الْتَقَتَا ۖ فِئَةٌ تُقَاتِلُ فِي سَبِيلِ اللَّهِ وَأُخْرَىٰ كَافِرَةٌ يَرَوْنَهُم مِّثْلَيْهِمْ رَأْيَ الْعَيْنِ ۚ وَاللَّهُ يُؤَيِّدُ بِنَصْرِهِ مَن يَشَاءُ ۗ إِنَّ فِي ذَٰلِكَ لَعِبْرَةً لِّأُولِي الْأَبْصَارِ"
+arabic: "قَدْ كَانَ لَكُمْ ءَايَةٌ فِى فِئَتَيْنِ ٱلْتَقَتَا ۖ فِئَةٌ تُقَـٰتِلُ فِى سَبِيلِ ٱللَّهِ وَأُخْرَىٰ كَافِرَةٌ يَرَوْنَهُم مِّثْلَيْهِمْ رَأْىَ ٱلْعَيْنِ ۚ وَٱللَّهُ يُؤَيِّدُ بِنَصْرِهِۦ مَن يَشَآءُ ۗ إِنَّ فِى ذَٰلِكَ لَعِبْرَةً لِّأُو۟لِى ٱلْأَبْصَـٰرِ"
 translation: "There was already a sign for you in the two hosts that met — one fighting in the way of Allah, and another disbelieving, who saw them with their very eyes as twice their number. And Allah reinforces with His help whom He wills. Surely in that is a crossing-lesson for those who have eyes to see."
 estimated_duration: "50-58 minutes"
 passage_context: "Aal-Imran 3:13 recalls the Battle of Badr as evidentiary proof, arriving directly after the warning to the deniers in 3:10-12 that their wealth and children will not avail them and that they will be overcome. Placed near the surah's opening — before the community must face the harder memory of Uhud later in the surah — Badr is offered not as inspiration but as a sign already witnessed."

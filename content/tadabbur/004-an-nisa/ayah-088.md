@@ -6,7 +6,7 @@ ayah_end: 88
 title: "Two Parties Over the Two-Faced: When Ambiguity Divides Us, and Guidance Leaves Our Hands"
 slug: "004-088"
 category: tadabbur
-arabic: "۞ فَمَا لَكُمْ فِى ٱلْمُنَـٰفِقِينَ فِئَتَيْنِ وَٱللَّهُ أَرْكَسَهُم بِمَا كَسَبُوٓاْ ۚ أَتُرِيدُونَ أَن تَهْدُواْ مَنْ أَضَلَّ ٱللَّهُ ۖ وَمَن يُضْلِلِ ٱللَّهُ فَلَن تَجِدَ لَهُۥ سَبِيلًا"
+arabic: "۞ فَمَا لَكُمْ فِى ٱلْمُنَـٰفِقِينَ فِئَتَيْنِ وَٱللَّهُ أَرْكَسَهُم بِمَا كَسَبُوٓا۟ ۚ أَتُرِيدُونَ أَن تَهْدُوا۟ مَنْ أَضَلَّ ٱللَّهُ ۖ وَمَن يُضْلِلِ ٱللَّهُ فَلَن تَجِدَ لَهُۥ سَبِيلًا"
 translation: "So what is the matter with you that you have become two parties concerning the hypocrites, while Allah has cast them back for what they earned? Do you wish to guide the one Allah has let go astray? And whoever Allah lets go astray — never will you find for him a way."
 word_count: 22
 estimated_duration: "48-59 minutes"

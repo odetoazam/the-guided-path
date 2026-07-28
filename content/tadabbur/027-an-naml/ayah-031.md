@@ -6,7 +6,7 @@ ayah_end: 31
 title: "Do Not Rise Against Me — The Letter That Refused to Beg"
 slug: "027-031"
 category: tadabbur
-arabic: "أَلَّا تَعْلُوا۟ عَلَىَّ وَأْتُونِى مُسْلِمِينَ"
+arabic: "أَلَّا تَعْلُوا۟ عَلَىَّ وَأْتُونِى مُسْلِمِينَ"
 translation: "Do not exalt yourselves against me, but come to me in submission."
 word_count: 6
 estimated_duration: "48-55 minutes"

@@ -6,7 +6,7 @@ ayah_end: 8
 title: "When the Fire Calls Your Name: The Blessing in the Burning Bush"
 slug: "027-008"
 category: tadabbur
-arabic: "فَلَمَّا جَاءَهَا نُودِيَ أَنْ بُورِكَ مَنْ فِي النَّارِ وَمَنْ حَوْلَهَا وَسُبْحَانَ اللَّهِ رَبِّ الْعَالَمِينَ"
+arabic: "فَلَمَّا جَآءَهَا نُودِىَ أَنۢ بُورِكَ مَن فِى ٱلنَّارِ وَمَنْ حَوْلَهَا وَسُبْحَـٰنَ ٱللَّهِ رَبِّ ٱلْعَـٰلَمِينَ"
 translation: "But when he came to it, he was called: 'Blessed is whoever is in the fire and whoever is around it. And glorified is Allah, Lord of the worlds.'"
 word_count: 13
 estimated_duration: "48-55 minutes"

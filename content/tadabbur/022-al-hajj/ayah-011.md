@@ -6,7 +6,7 @@ ayah_end: 11
 title: "On the Edge: The Faith That Cannot Survive a Storm"
 slug: "022-011"
 category: tadabbur
-arabic: "وَمِنَ ٱلنَّاسِ مَن يَعْبُدُ ٱللَّهَ عَلَىٰ حَرْفٍۖ فَإِنْ أَصَابَهُۥ خَيْرٌ ٱطْمَأَنَّ بِهِۦۖ وَإِنْ أَصَابَتْهُ فِتْنَةٌ ٱنقَلَبَ عَلَىٰ وَجْهِهِۦ خَسِرَ ٱلدُّنْيَا وَٱلْـَٔاخِرَةَۚ ذَٰلِكَ هُوَ ٱلْخُسْرَانُ ٱلْمُبِينُ"
+arabic: "وَمِنَ ٱلنَّاسِ مَن يَعْبُدُ ٱللَّهَ عَلَىٰ حَرْفٍ ۖ فَإِنْ أَصَابَهُۥ خَيْرٌ ٱطْمَأَنَّ بِهِۦ ۖ وَإِنْ أَصَابَتْهُ فِتْنَةٌ ٱنقَلَبَ عَلَىٰ وَجْهِهِۦ خَسِرَ ٱلدُّنْيَا وَٱلْـَٔاخِرَةَ ۚ ذَٰلِكَ هُوَ ٱلْخُسْرَانُ ٱلْمُبِينُ"
 translation: "And among the people is one who worships Allah on an edge. If good befalls him, he is at peace with it; but if a trial strikes him, he turns over on his face. He has lost this world and the Hereafter. That is the manifest loss."
 word_count: 7800
 estimated_duration: "50-55 minutes"

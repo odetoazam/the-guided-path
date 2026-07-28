@@ -6,7 +6,7 @@ ayah_end: 45
 title: "From His Bounty, Not From Their Earning: The Hidden Economy of Divine Reward"
 slug: "030-045"
 category: tadabbur
-arabic: "لِيَجْزِيَ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ مِن فَضْلِهِۦٓ ۚ إِنَّهُۥ لَا يُحِبُّ ٱلْكَـٰفِرِينَ"
+arabic: "لِيَجْزِىَ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ مِن فَضْلِهِۦٓ ۚ إِنَّهُۥ لَا يُحِبُّ ٱلْكَـٰفِرِينَ"
 translation: "That He may reward those who believed and did righteous deeds out of His bounty. Indeed, He does not love the disbelievers."
 word_count: 22
 estimated_duration: "50-55 minutes"

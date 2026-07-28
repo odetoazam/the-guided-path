@@ -6,7 +6,7 @@ ayah_end: 29
 title: "The Hypothetical That Closes Every Door: When Even an Angel's Claim Would Be Hell"
 slug: "021-029"
 category: tadabbur
-arabic: "وَمَن يَقُلْ مِنْهُمْ إِنِّىٓ إِلَـٰهٌ مِّن دُونِهِۦ فَذَٰلِكَ نَجْزِيهِ جَهَنَّمَ ۚ كَذَٰلِكَ نَجْزِى ٱلظَّـٰلِمِينَ"
+arabic: "۞ وَمَن يَقُلْ مِنْهُمْ إِنِّىٓ إِلَـٰهٌ مِّن دُونِهِۦ فَذَٰلِكَ نَجْزِيهِ جَهَنَّمَ ۚ كَذَٰلِكَ نَجْزِى ٱلظَّـٰلِمِينَ"
 translation: "And whoever of them should say, 'I am a god besides Him' — that one We would recompense with Hell. Thus do We recompense the wrongdoers."
 word_count: 480
 estimated_duration: "50-55 minutes"

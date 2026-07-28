@@ -6,7 +6,7 @@ ayah_end: 6
 title: "The One Who Knows the Unseen and the Seen — and Why That Order Matters"
 slug: "032-006"
 category: tadabbur
-arabic: "ذَٰلِكَ عَـٰلِمُ ٱلْغَيْبِ وَٱلشَّهَـٰدَةِ ٱلْعَزِيزُ ٱلرَّحِيمُ"
+arabic: "ذَٰلِكَ عَـٰلِمُ ٱلْغَيْبِ وَٱلشَّهَـٰدَةِ ٱلْعَزِيزُ ٱلرَّحِيمُ"
 translation: "That is the Knower of the unseen and the seen — the Mighty, the Merciful."
 word_count: 6
 estimated_duration: "48-55 minutes"

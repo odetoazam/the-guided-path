@@ -6,7 +6,7 @@ ayah_end: 10
 title: "The Furnace That Reveals Gold: Why the Tormentors Were Still Offered the Door"
 slug: "085-010"
 category: tadabbur
-arabic: "إِنَّ ٱلَّذِينَ فَتَنُوا۟ ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ ثُمَّ لَمْ يَتُوبُوا۟ فَلَهُمْ عَذَابُ جَهَنَّمَ وَلَهُمْ عَذَابُ ٱلْحَرِيقِ"
+arabic: "إِنَّ ٱلَّذِينَ فَتَنُوا۟ ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ ثُمَّ لَمْ يَتُوبُوا۟ فَلَهُمْ عَذَابُ جَهَنَّمَ وَلَهُمْ عَذَابُ ٱلْحَرِيقِ"
 translation: "Indeed, those who persecuted the believing men and the believing women, and then did not repent — for them is the punishment of Hell, and for them is the punishment of the Burning Fire."
 word_count: 14
 estimated_duration: "50-58 minutes"

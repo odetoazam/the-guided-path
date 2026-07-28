@@ -6,7 +6,7 @@ ayah_end: 20
 title: "The One Who Was Missing: A Prophet-King's Practice of Deliberate Attention"
 slug: "027-020"
 category: tadabbur
-arabic: "وَتَفَقَّدَ الطَّيْرَ فَقَالَ مَا لِيَ لَا أَرَى الْهُدْهُدَ أَمْ كَانَ مِنَ الْغَائِبِينَ"
+arabic: "وَتَفَقَّدَ ٱلطَّيْرَ فَقَالَ مَا لِىَ لَآ أَرَى ٱلْهُدْهُدَ أَمْ كَانَ مِنَ ٱلْغَآئِبِينَ"
 translation: "And he inspected the birds and said: 'Why is it that I do not see the hoopoe? Or was he among the absent?'"
 word_count: 6400
 estimated_duration: "49-57 minutes"

@@ -6,7 +6,7 @@ ayah_end: 18
 title: "The Sky That Comes Undone, the Promise Already Done"
 slug: "073-018"
 category: tadabbur
-arabic: "ٱلسَّمَآءُ مُنفَطِرٌۢ بِهِۦ ۚ كَانَ وَعْدُهُۥ مَفْعُولًا"
+arabic: "ٱلسَّمَآءُ مُنفَطِرٌۢ بِهِۦ ۚ كَانَ وَعْدُهُۥ مَفْعُولًا"
 translation: "The heaven splits apart because of it. His promise is ever fulfilled."
 word_count: 6
 estimated_duration: "50-58 minutes"

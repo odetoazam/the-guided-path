@@ -6,7 +6,7 @@ ayah_end: 122
 title: "The Promise That Can Actually Be Kept"
 slug: "004-122"
 category: tadabbur
-arabic: "وَٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّـٰلِحَـٰتِ سَنُدْخِلُهُمْ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَآ أَبَدًا ۖ وَعْدَ ٱللَّهِ حَقًّا ۚ وَمَنْ أَصْدَقُ مِنَ ٱللَّهِ قِيلًا"
+arabic: "وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ سَنُدْخِلُهُمْ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَآ أَبَدًا ۖ وَعْدَ ٱللَّهِ حَقًّا ۚ وَمَنْ أَصْدَقُ مِنَ ٱللَّهِ قِيلًا"
 translation: "And those who believe and do righteous deeds — We will admit them into Gardens beneath which rivers flow, abiding therein forever. The promise of Allah, in truth. And who is more truthful than Allah in speech?"
 word_count: 5600
 estimated_duration: "50-56 minutes"

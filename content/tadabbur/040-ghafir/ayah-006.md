@@ -6,7 +6,7 @@ ayah_end: 6
 title: "When a Word Becomes Real: The Verdict That Was Always Going to Be True"
 slug: "040-006"
 category: tadabbur
-arabic: "وَكَذَٰلِكَ حَقَّتْ كَلِمَتُ رَبِّكَ عَلَى ٱلَّذِينَ كَفَرُوٓا۟ أَنَّهُمْ أَصْحَٰبُ ٱلنَّارِ"
+arabic: "وَكَذَٰلِكَ حَقَّتْ كَلِمَتُ رَبِّكَ عَلَى ٱلَّذِينَ كَفَرُوٓا۟ أَنَّهُمْ أَصْحَـٰبُ ٱلنَّارِ"
 translation: "And thus the Word of your Lord was proven true against those who disbelieved — that they are the companions of the Fire."
 word_count: 10
 estimated_duration: "50-58 minutes"

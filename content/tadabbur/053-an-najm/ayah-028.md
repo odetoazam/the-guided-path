@@ -6,7 +6,7 @@ ayah_end: 28
 title: "When Assumption Wears the Mask of Knowledge"
 slug: "053-028"
 category: tadabbur
-arabic: "وَمَا لَهُم بِهِۦ مِنْ عِلْمٍ ۖ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ ۚ وَإِنَّ ٱلظَّنَّ لَا يُغْنِى مِنَ ٱلْحَقِّ شَيْـًٔا"
+arabic: "وَمَا لَهُم بِهِۦ مِنْ عِلْمٍ ۖ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ ۖ وَإِنَّ ٱلظَّنَّ لَا يُغْنِى مِنَ ٱلْحَقِّ شَيْـًٔا"
 translation: "And they have no knowledge of it. They follow nothing but assumption — and indeed, assumption avails nothing against the truth."
 word_count: 16
 estimated_duration: "50-58 minutes"

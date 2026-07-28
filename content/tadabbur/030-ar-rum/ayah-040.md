@@ -6,7 +6,7 @@ ayah_end: 40
 title: "The Four Verbs of Your Existence — and the One Question That Undoes Every Idol"
 slug: "030-040"
 category: tadabbur
-arabic: "ٱللَّهُ ٱلَّذِى خَلَقَكُمْ ثُمَّ رَزَقَكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ يُحْيِيكُمْ ۖ هَلْ مِن شُرَكَآئِكُم مَّن يَفْعَلُ مِن ذَٰلِكُم مِّن شَىْءٍ ۚ سُبْحَـٰنَهُۥ وَتَعَـٰلَىٰ عَمَّا يُشْرِكُونَ"
+arabic: "ٱللَّهُ ٱلَّذِى خَلَقَكُمْ ثُمَّ رَزَقَكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ يُحْيِيكُمْ ۖ هَلْ مِن شُرَكَآئِكُم مَّن يَفْعَلُ مِن ذَٰلِكُم مِّن شَىْءٍ ۚ سُبْحَـٰنَهُۥ وَتَعَـٰلَىٰ عَمَّا يُشْرِكُونَ"
 translation: "Allah is the One who created you, then provided for you, then will cause you to die, then will give you life. Is there any among your 'partners' who does anything of that? Glorified is He, and exalted far above what they associate with Him."
 word_count: 24
 estimated_duration: "50-58 minutes"

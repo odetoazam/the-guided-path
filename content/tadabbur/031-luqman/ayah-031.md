@@ -6,7 +6,7 @@ ayah_end: 31
 title: "The Ship, the Sea, and the Two Eyes That See"
 slug: "031-031"
 category: tadabbur
-arabic: "أَلَمْ تَرَ أَنَّ ٱلْفُلْكَ تَجْرِى فِى ٱلْبَحْرِ بِنِعْمَتِ ٱللَّهِ لِيُرِيَكُم مِّنْ ءَايَـٰتِهِۦٓ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍۢ لِّكُلِّ صَبَّارٍۢ شَكُورٍۢ"
+arabic: "أَلَمْ تَرَ أَنَّ ٱلْفُلْكَ تَجْرِى فِى ٱلْبَحْرِ بِنِعْمَتِ ٱللَّهِ لِيُرِيَكُم مِّنْ ءَايَـٰتِهِۦٓ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّكُلِّ صَبَّارٍ شَكُورٍ"
 translation: "Have you not seen that ships sail through the sea by the favor of Allah, so that He may show you of His signs? Indeed, in that are signs for every patient and grateful one."
 word_count: 22
 estimated_duration: "50-58 minutes"

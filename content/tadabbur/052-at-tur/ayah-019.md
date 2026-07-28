@@ -6,7 +6,7 @@ ayah_end: 19
 title: "Eat and Drink Without Aftermath: The Pleasure That Casts No Shadow"
 slug: "052-019"
 category: tadabbur
-arabic: "كُلُوا۟ وَٱشْرَبُوا۟ هَنِيٓـًٔۢا بِمَا كُنتُمْ تَعْمَلُونَ"
+arabic: "كُلُوا۟ وَٱشْرَبُوا۟ هَنِيٓـًٔۢا بِمَا كُنتُمْ تَعْمَلُونَ"
 translation: "Eat and drink in wholesome pleasure, for what you used to do."
 word_count: 6
 estimated_duration: "50-58 minutes"

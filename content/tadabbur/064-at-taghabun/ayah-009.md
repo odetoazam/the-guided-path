@@ -6,7 +6,7 @@ ayah_end: 9
 title: "The Day of Mutual Loss and Gain: When the Ledger Is Finally Read Aloud"
 slug: "064-009"
 category: tadabbur
-arabic: "يَوْمَ يَجْمَعُكُمْ لِيَوْمِ ٱلْجَمْعِ ۖ ذَٰلِكَ يَوْمُ ٱلتَّغَابُنِ ۗ وَمَن يُؤْمِن بِٱللَّهِ وَيَعْمَلْ صَٰلِحًا يُكَفِّرْ عَنْهُ سَيِّـَٔاتِهِۦ وَيُدْخِلْهُ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَآ أَبَدًا ۚ ذَٰلِكَ ٱلْفَوْزُ ٱلْعَظِيمُ"
+arabic: "يَوْمَ يَجْمَعُكُمْ لِيَوْمِ ٱلْجَمْعِ ۖ ذَٰلِكَ يَوْمُ ٱلتَّغَابُنِ ۗ وَمَن يُؤْمِنۢ بِٱللَّهِ وَيَعْمَلْ صَـٰلِحًا يُكَفِّرْ عَنْهُ سَيِّـَٔاتِهِۦ وَيُدْخِلْهُ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَآ أَبَدًا ۚ ذَٰلِكَ ٱلْفَوْزُ ٱلْعَظِيمُ"
 translation: "The Day He will assemble you for the Day of Assembly — that is the Day of Mutual Loss and Gain. And whoever believes in Allah and does righteousness, He will remove from him his misdeeds and admit him into gardens beneath which rivers flow, abiding therein forever. That is the great attainment."
 word_count: 27
 estimated_duration: "50-58 minutes"

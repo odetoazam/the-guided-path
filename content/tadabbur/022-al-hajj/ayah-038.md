@@ -6,7 +6,7 @@ ayah_end: 38
 title: "The Hidden Defender: When Allah Stands Between You and What You Cannot See"
 slug: "022-038"
 category: tadabbur
-arabic: "إِنَّ ٱللَّهَ يُدَٰفِعُ عَنِ ٱلَّذِينَ ءَامَنُوٓا۟ ۗ إِنَّ ٱللَّهَ لَا يُحِبُّ كُلَّ خَوَّانٍ كَفُورٍ"
+arabic: "۞ إِنَّ ٱللَّهَ يُدَٰفِعُ عَنِ ٱلَّذِينَ ءَامَنُوٓا۟ ۗ إِنَّ ٱللَّهَ لَا يُحِبُّ كُلَّ خَوَّانٍ كَفُورٍ"
 translation: "Indeed, Allah actively defends those who have believed. Indeed, Allah does not love any habitual betrayer, deeply ungrateful."
 word_count: 13
 estimated_duration: "50-58 minutes"

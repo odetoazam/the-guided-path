@@ -6,7 +6,7 @@ ayah_end: 7
 title: "The Hosts You Cannot See: Why the Same Verse Ends Two Different Ways"
 slug: "048-007"
 category: tadabbur
-arabic: "وَلِلَّهِ جُنُودُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ وَكَانَ ٱللَّهُ عَزِيزًا حَكِيمًۭا"
+arabic: "وَلِلَّهِ جُنُودُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ وَكَانَ ٱللَّهُ عَزِيزًا حَكِيمًا"
 translation: "And to Allah belong the hosts of the heavens and the earth. And Allah is ever All-Mighty, All-Wise."
 word_count: 6800
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 9
 title: "The Grease They Long For: Why Compromise Sounds Like Kindness"
 slug: "068-009"
 category: tadabbur
-arabic: "وَدُّوا۟ لَوْ تُدْهِنُ فَيُدْهِنُونَ"
+arabic: "وَدُّوا۟ لَوْ تُدْهِنُ فَيُدْهِنُونَ"
 translation: "They wish that you would compromise, so then they would compromise."
 word_count: 7100
 estimated_duration: "50-58 minutes"

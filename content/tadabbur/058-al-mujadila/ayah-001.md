@@ -6,7 +6,7 @@ ayah_end: 1
 title: "The Whisper That Reached the Throne: How Allah Heard the Woman Who Argued"
 slug: "058-001"
 category: tadabbur
-arabic: "قَدْ سَمِعَ ٱللَّهُ قَوْلَ ٱلَّتِى تُجَٰدِلُكَ فِى زَوْجِهَا وَتَشْتَكِىٓ إِلَى ٱللَّهِ وَٱللَّهُ يَسْمَعُ تَحَاوُرَكُمَآ ۚ إِنَّ ٱللَّهَ سَمِيعٌۢ بَصِيرٌ"
+arabic: "قَدْ سَمِعَ ٱللَّهُ قَوْلَ ٱلَّتِى تُجَـٰدِلُكَ فِى زَوْجِهَا وَتَشْتَكِىٓ إِلَى ٱللَّهِ وَٱللَّهُ يَسْمَعُ تَحَاوُرَكُمَآ ۚ إِنَّ ٱللَّهَ سَمِيعٌۢ بَصِيرٌ"
 translation: "Indeed, Allah has heard the speech of the woman who disputes with you, [O Prophet], concerning her husband and directs her complaint to Allah. And Allah hears your dialogue, the two of you. Indeed, Allah is All-Hearing, All-Seeing."
 word_count: 4900
 estimated_duration: "50-58 minutes"

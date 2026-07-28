@@ -6,7 +6,7 @@ ayah_end: 32
 title: "Already Eased: The Open Question Allah Keeps Asking"
 slug: "054-032"
 category: tadabbur
-arabic: "وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ"
+arabic: "وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ"
 translation: "And We have certainly made the Quran easy for remembrance — so is there anyone who will be reminded?"
 word_count: 5400
 estimated_duration: "48-55 minutes"

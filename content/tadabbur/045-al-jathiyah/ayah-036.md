@@ -6,7 +6,7 @@ ayah_end: 36
 title: "To Allah Alone: The Praise That Closes Every Account"
 slug: "045-036"
 category: tadabbur
-arabic: "فَلِلَّهِ ٱلْحَمْدُ رَبِّ ٱلسَّمَـٰوَٰتِ وَرَبِّ ٱلْأَرْضِ رَبِّ ٱلْعَـٰلَمِينَ"
+arabic: "فَلِلَّهِ ٱلْحَمْدُ رَبِّ ٱلسَّمَـٰوَٰتِ وَرَبِّ ٱلْأَرْضِ رَبِّ ٱلْعَـٰلَمِينَ"
 translation: "So to Allah belongs all praise — Lord of the heavens and Lord of the earth, Lord of all the worlds."
 word_count: 8
 estimated_duration: "50-56 minutes"

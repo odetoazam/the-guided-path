@@ -6,7 +6,7 @@ ayah_end: 77
 title: "They Are My Enemy, Except the Lord of the Worlds"
 slug: "026-077"
 category: tadabbur
-arabic: "فَإِنَّهُمْ عَدُوٌّ لِّى إِلَّا رَبَّ ٱلْعَـٰلَمِينَ"
+arabic: "فَإِنَّهُمْ عَدُوٌّ لِّىٓ إِلَّا رَبَّ ٱلْعَـٰلَمِينَ"
 translation: "Indeed, they are enemies to me, except the Lord of the worlds."
 word_count: 7
 estimated_duration: "48-55 minutes"

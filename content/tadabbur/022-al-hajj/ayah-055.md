@@ -6,7 +6,7 @@ ayah_end: 55
 title: "The Barren Day: When Time Stops Giving Birth"
 slug: "022-055"
 category: tadabbur
-arabic: "وَلَا يَزَالُ الَّذِينَ كَفَرُوا۟ فِى مِرْيَةٍۢ مِّنْهُ حَتَّىٰ تَأْتِيَهُمُ ٱلسَّاعَةُ بَغْتَةً أَوْ يَأْتِيَهُمْ عَذَابُ يَوْمٍ عَقِيمٍۢ"
+arabic: "وَلَا يَزَالُ ٱلَّذِينَ كَفَرُوا۟ فِى مِرْيَةٍ مِّنْهُ حَتَّىٰ تَأْتِيَهُمُ ٱلسَّاعَةُ بَغْتَةً أَوْ يَأْتِيَهُمْ عَذَابُ يَوْمٍ عَقِيمٍ"
 translation: "And those who disbelieve will not cease to be in doubt of it until the Hour comes upon them suddenly, or there comes to them the punishment of a barren Day."
 word_count: 17
 estimated_duration: "50-56 minutes"

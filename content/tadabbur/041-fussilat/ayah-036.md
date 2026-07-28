@@ -6,7 +6,7 @@ ayah_end: 36
 title: "The Prick at the Threshold: Why Sabotage Arrives Exactly When You Reach Your Highest Self"
 slug: "041-036"
 category: tadabbur
-arabic: "وَإِمَّا يَنزَغَنَّكَ مِنَ ٱلشَّيْطَٰنِ نَزْغٌ فَٱسْتَعِذْ بِٱللَّهِ ۚ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ"
+arabic: "وَإِمَّا يَنزَغَنَّكَ مِنَ ٱلشَّيْطَـٰنِ نَزْغٌ فَٱسْتَعِذْ بِٱللَّهِ ۖ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ"
 translation: "And if an evil prick from Shaytan should ever incite you, then seek refuge in Allah. Indeed, He — He alone — is the All-Hearing, the All-Knowing."
 word_count: 11
 estimated_duration: "48-59 minutes"

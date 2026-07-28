@@ -6,7 +6,7 @@ ayah_end: 41
 title: "When the Sea and Land Show Us Ourselves"
 slug: "030-041"
 category: tadabbur
-arabic: "ظَهَرَ ٱلْفَسَادُ فِى ٱلْبَرِّ وَٱلْبَحْرِ بِمَا كَسَبَتْ أَيْدِى ٱلنَّاسِ لِيُذِيقَهُم بَعْضَ ٱلَّذِى عَمِلُوا۟ لَعَلَّهُمْ يَرْجِعُونَ"
+arabic: "ظَهَرَ ٱلْفَسَادُ فِى ٱلْبَرِّ وَٱلْبَحْرِ بِمَا كَسَبَتْ أَيْدِى ٱلنَّاسِ لِيُذِيقَهُم بَعْضَ ٱلَّذِى عَمِلُوا۟ لَعَلَّهُمْ يَرْجِعُونَ"
 translation: "Corruption has appeared on land and sea because of what people's hands have earned — so that He may let them taste some of what they have done, in hope that they might return."
 word_count: 19
 estimated_duration: "50-58 minutes"

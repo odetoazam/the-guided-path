@@ -6,7 +6,7 @@ ayah_end: 45
 title: "The Stealthy Glance: When the Eye Loses Its Power"
 slug: "042-045"
 category: tadabbur
-arabic: "وَتَرَىٰهُمْ يُعْرَضُونَ عَلَيْهَا خَاشِعِينَ مِنَ ٱلذُّلِّ يَنظُرُونَ مِن طَرْفٍ خَفِىٍّ ۗ وَقَالَ ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّ ٱلْخَٰسِرِينَ ٱلَّذِينَ خَسِرُوٓا۟ أَنفُسَهُمْ وَأَهْلِيهِمْ يَوْمَ ٱلْقِيَٰمَةِ ۗ أَلَآ إِنَّ ٱلظَّٰلِمِينَ فِى عَذَابٍ مُّقِيمٍ"
+arabic: "وَتَرَىٰهُمْ يُعْرَضُونَ عَلَيْهَا خَـٰشِعِينَ مِنَ ٱلذُّلِّ يَنظُرُونَ مِن طَرْفٍ خَفِىٍّ ۗ وَقَالَ ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّ ٱلْخَـٰسِرِينَ ٱلَّذِينَ خَسِرُوٓا۟ أَنفُسَهُمْ وَأَهْلِيهِمْ يَوْمَ ٱلْقِيَـٰمَةِ ۗ أَلَآ إِنَّ ٱلظَّـٰلِمِينَ فِى عَذَابٍ مُّقِيمٍ"
 translation: "And you will see them being exposed to it [the Fire], humbled by disgrace, looking with a stealthy glance. And those who believed will say, 'Indeed, the [true] losers are those who lost themselves and their families on the Day of Resurrection.' Unquestionably, the wrongdoers are in a lasting punishment."
 word_count: 6600
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 66
 title: "The Knowledge That Arrives Too Late"
 slug: "027-066"
 category: tadabbur
-arabic: "بَلِ ٱدَّٰرَكَ عِلْمُهُمْ فِى ٱلْءَاخِرَةِ ۚ بَلْ هُمْ فِى شَكٍّۢ مِّنْهَا ۖ بَلْ هُم مِّنْهَا عَمُونَ"
+arabic: "بَلِ ٱدَّٰرَكَ عِلْمُهُمْ فِى ٱلْـَٔاخِرَةِ ۚ بَلْ هُمْ فِى شَكٍّ مِّنْهَا ۖ بَلْ هُم مِّنْهَا عَمُونَ"
 translation: "Rather, their knowledge has piled up about the Hereafter — yet they remain in doubt about it. Indeed, they are blind to it."
 word_count: 11
 estimated_duration: "50-55 minutes"

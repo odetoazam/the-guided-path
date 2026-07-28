@@ -6,7 +6,7 @@ ayah_end: 88
 title: "The Mountains That Pass Like Clouds: When the Solid World Reveals Itself as Motion"
 slug: "027-088"
 category: tadabbur
-arabic: "وَتَرَى الْجِبَالَ تَحْسَبُهَا جَامِدَةً وَهِيَ تَمُرُّ مَرَّ السَّحَابِ ۚ صُنْعَ اللَّهِ الَّذِي أَتْقَنَ كُلَّ شَيْءٍ ۚ إِنَّهُ خَبِيرٌ بِمَا تَفْعَلُونَ"
+arabic: "وَتَرَى ٱلْجِبَالَ تَحْسَبُهَا جَامِدَةً وَهِىَ تَمُرُّ مَرَّ ٱلسَّحَابِ ۚ صُنْعَ ٱللَّهِ ٱلَّذِىٓ أَتْقَنَ كُلَّ شَىْءٍ ۚ إِنَّهُۥ خَبِيرٌۢ بِمَا تَفْعَلُونَ"
 translation: "And you see the mountains, thinking them solid, while they pass by like the passing of clouds — the making of Allah, who perfected every thing. Indeed, He is fully aware of all that you do."
 word_count: 21
 estimated_duration: "50-58 minutes"

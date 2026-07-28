@@ -6,7 +6,7 @@ ayah_end: 42
 title: "The Thing You Call Upon: Allah's Knowledge and the Fragility of False Refuge"
 slug: "029-042"
 category: tadabbur
-arabic: "إِنَّ اللَّهَ يَعْلَمُ مَا يَدْعُونَ مِن دُونِهِ مِن شَيْءٍ ۚ وَهُوَ الْعَزِيزُ الْحَكِيمُ"
+arabic: "إِنَّ ٱللَّهَ يَعْلَمُ مَا يَدْعُونَ مِن دُونِهِۦ مِن شَىْءٍ ۚ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ"
 translation: "Indeed, Allah knows whatever they call upon besides Him — anything. And He is the Almighty, the All-Wise."
 word_count: 8450
 estimated_duration: "52-60 minutes"

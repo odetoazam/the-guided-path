@@ -6,7 +6,7 @@ ayah_end: 7
 title: "The Two Coverings: What You Hide and What Hides You"
 slug: "035-007"
 category: tadabbur
-arabic: "ٱلَّذِينَ كَفَرُوا۟ لَهُمْ عَذَابٌ شَدِيدٌۖ وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَهُم مَّغْفِرَةٌ وَأَجْرٌ كَبِيرٌ"
+arabic: "ٱلَّذِينَ كَفَرُوا۟ لَهُمْ عَذَابٌ شَدِيدٌ ۖ وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَهُم مَّغْفِرَةٌ وَأَجْرٌ كَبِيرٌ"
 translation: "Those who disbelieve — for them is a severe punishment. And those who believe and do righteous deeds — for them is forgiveness and a great reward."
 word_count: 13
 estimated_duration: "50-58 minutes"

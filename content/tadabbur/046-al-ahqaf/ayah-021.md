@@ -6,7 +6,7 @@ ayah_end: 21
 title: "The Brother Who Feared For You: Warning as the Highest Form of Love"
 slug: "046-021"
 category: tadabbur
-arabic: "وَٱذْكُرْ أَخَا عَادٍ إِذْ أَنذَرَ قَوْمَهُۥ بِٱلْأَحْقَافِ وَقَدْ خَلَتِ ٱلنُّذُرُ مِنۢ بَيْنِ يَدَيْهِ وَمِنْ خَلْفِهِۦٓ أَلَّا تَعْبُدُوٓاْ إِلَّا ٱللَّهَ إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ"
+arabic: "۞ وَٱذْكُرْ أَخَا عَادٍ إِذْ أَنذَرَ قَوْمَهُۥ بِٱلْأَحْقَافِ وَقَدْ خَلَتِ ٱلنُّذُرُ مِنۢ بَيْنِ يَدَيْهِ وَمِنْ خَلْفِهِۦٓ أَلَّا تَعْبُدُوٓا۟ إِلَّا ٱللَّهَ إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ"
 translation: "And mention the brother of Aad, when he warned his people in the Ahqaf — and warners had already passed away before him and after him — [saying], 'Worship none but Allah. Indeed, I fear for you the punishment of a tremendous Day.'"
 word_count: 8400
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 27
 title: "Bāṭil: The Assumption That Nothing Means Anything"
 slug: "038-027"
 category: tadabbur
-arabic: "وَمَا خَلَقْنَا ٱلسَّمَآءَ وَٱلْأَرْضَ وَمَا بَيْنَهُمَا بَـٰطِلاً ۚ ذَٰلِكَ ظَنُّ ٱلَّذِينَ كَفَرُوا ۚ فَوَيْلٌ لِّلَّذِينَ كَفَرُوا مِنَ ٱلنَّارِ"
+arabic: "وَمَا خَلَقْنَا ٱلسَّمَآءَ وَٱلْأَرْضَ وَمَا بَيْنَهُمَا بَـٰطِلًا ۚ ذَٰلِكَ ظَنُّ ٱلَّذِينَ كَفَرُوا۟ ۚ فَوَيْلٌ لِّلَّذِينَ كَفَرُوا۟ مِنَ ٱلنَّارِ"
 translation: "And We did not create the heaven and the earth and everything between them in vain. That is the assumption of those who disbelieve. So woe to those who disbelieve — from the Fire."
 word_count: 16
 estimated_duration: "50-58 minutes"

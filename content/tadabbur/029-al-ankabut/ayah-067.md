@@ -6,7 +6,7 @@ ayah_end: 67
 title: "The Sanctuary You Stopped Seeing: Snatched Hearts and Forgotten Safety"
 slug: "029-067"
 category: tadabbur
-arabic: "أَوَلَمْ يَرَوْا أَنَّا جَعَلْنَا حَرَمًا آمِنًا وَيُتَخَطَّفُ ٱلنَّاسُ مِنْ حَوْلِهِمْ ۚ أَفَبِٱلْبَـٰطِلِ يُؤْمِنُونَ وَبِنِعْمَةِ ٱللَّهِ يَكْفُرُونَ"
+arabic: "أَوَلَمْ يَرَوْا۟ أَنَّا جَعَلْنَا حَرَمًا ءَامِنًا وَيُتَخَطَّفُ ٱلنَّاسُ مِنْ حَوْلِهِمْ ۚ أَفَبِٱلْبَـٰطِلِ يُؤْمِنُونَ وَبِنِعْمَةِ ٱللَّهِ يَكْفُرُونَ"
 translation: "Have they not seen that We have made [for them] a safe sanctuary, while people are being snatched away all around them? Do they then believe in falsehood and reject the favor of Allah?"
 word_count: 6200
 estimated_duration: "50-55 minutes"

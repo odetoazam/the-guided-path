@@ -6,7 +6,7 @@ ayah_end: 34
 title: "The Tenants Who Forgot the Landlord — Why Allah's Warnings Are Always Met First by the Comfortable"
 slug: "034-034"
 category: tadabbur
-arabic: "وَمَآ أَرْسَلْنَا فِى قَرْيَةٍۢ مِّن نَّذِيرٍ إِلَّا قَالَ مُتْرَفُوهَآ إِنَّا بِمَآ أُرْسِلْتُم بِهِۦ كَـٰفِرُونَ"
+arabic: "وَمَآ أَرْسَلْنَا فِى قَرْيَةٍ مِّن نَّذِيرٍ إِلَّا قَالَ مُتْرَفُوهَآ إِنَّا بِمَآ أُرْسِلْتُم بِهِۦ كَـٰفِرُونَ"
 translation: "And We never sent a warner into any town except that its luxury-soaked ones said: 'We — in whatever you've been sent with — are disbelievers.'"
 word_count: 14
 estimated_duration: "48-55 minutes"

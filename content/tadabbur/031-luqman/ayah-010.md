@@ -6,7 +6,7 @@ ayah_end: 10
 title: "The Pillarless Sky and the Anchored Earth: How Allah Holds What Has No Hold"
 slug: "031-010"
 category: tadabbur
-arabic: "خَلَقَ ٱلسَّمَـٰوَٰتِ بِغَيْرِ عَمَدٍ تَرَوْنَهَا ۖ وَأَلْقَىٰ فِى ٱلْأَرْضِ رَوَٰسِىَ أَن تَمِيدَ بِكُمْ وَبَثَّ فِيهَا مِن كُلِّ دَآبَّةٍ ۚ وَأَنزَلْنَا مِنَ ٱلسَّمَآءِ مَآءً فَأَنۢبَتْنَا فِيهَا مِن كُلِّ زَوْجٍ كَرِيمٍ"
+arabic: "خَلَقَ ٱلسَّمَـٰوَٰتِ بِغَيْرِ عَمَدٍ تَرَوْنَهَا ۖ وَأَلْقَىٰ فِى ٱلْأَرْضِ رَوَٰسِىَ أَن تَمِيدَ بِكُمْ وَبَثَّ فِيهَا مِن كُلِّ دَآبَّةٍ ۚ وَأَنزَلْنَا مِنَ ٱلسَّمَآءِ مَآءً فَأَنۢبَتْنَا فِيهَا مِن كُلِّ زَوْجٍ كَرِيمٍ"
 translation: "He created the heavens without pillars that you can see, and He cast onto the earth firm mountains, lest it sway with you, and He scattered upon it every kind of moving creature. And We sent down from the sky water, and We caused to grow in it every noble pair."
 word_count: 28
 estimated_duration: "50-58 minutes"

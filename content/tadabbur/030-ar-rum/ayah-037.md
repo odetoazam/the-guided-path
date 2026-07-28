@@ -6,7 +6,7 @@ ayah_end: 37
 title: "The Sign Hidden in the Bank Statement"
 slug: "030-037"
 category: tadabbur
-arabic: "أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ ۚ إِنَّ فِى ذَٰلِكَ لَءَايَـٰتٍ لِّقَوْمٍ يُؤْمِنُونَ"
+arabic: "أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّقَوْمٍ يُؤْمِنُونَ"
 translation: "Have they not seen that Allah extends provision for whom He wills and restricts it? Surely in that are signs for a people who believe."
 word_count: 16
 estimated_duration: "48-55 minutes"

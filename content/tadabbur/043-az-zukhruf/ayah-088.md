@@ -6,7 +6,7 @@ ayah_end: 88
 slug: az-zukhruf-43-88
 category: tadabbur
 title: "\"O My Lord, These Are a People Who Do Not Believe\" — The Prophet's Whispered Grief (Az-Zukhruf 43:88)"
-arabic: "وَقِيلِهِۦ يَٰرَبِّ إِنَّ هَٰٓؤُلَآءِ قَوْمٌ لَّا يُؤْمِنُونَ"
+arabic: "وَقِيلِهِۦ يَـٰرَبِّ إِنَّ هَـٰٓؤُلَآءِ قَوْمٌ لَّا يُؤْمِنُونَ"
 translation: "And [Allah holds] his saying, \"O my Lord, indeed these are a people who do not believe.\""
 estimated_duration: "52 minutes"
 passage_context: "Near the close of the Meccan Surah Az-Zukhruf, after the surah has spent itself arguing against a people who measured truth by gold and lineage, the voice shifts — and for one verse we overhear the Prophet ﷺ himself turning to his Lord. Verse 89 answers him: 'So turn away from them and say, Peace. They are going to know.'"

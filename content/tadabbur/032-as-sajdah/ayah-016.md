@@ -6,7 +6,7 @@ ayah_end: 16
 title: "Sides That Forsake the Bed — On the Gravity That Beats Sleep"
 slug: "032-016"
 category: tadabbur
-arabic: "تَتَجَافَىٰ جُنُوبُهُمْ عَنِ ٱلْمَضَاجِعِ يَدْعُونَ رَبَّهُمْ خَوْفًۭا وَطَمَعًۭا وَمِمَّا رَزَقْنَـٰهُمْ يُنفِقُونَ"
+arabic: "تَتَجَافَىٰ جُنُوبُهُمْ عَنِ ٱلْمَضَاجِعِ يَدْعُونَ رَبَّهُمْ خَوْفًا وَطَمَعًا وَمِمَّا رَزَقْنَـٰهُمْ يُنفِقُونَ"
 translation: "Their sides forsake their beds, calling upon their Lord in fear and hope, and from what We have provided them they spend."
 word_count: 11
 estimated_duration: "50-58 minutes"

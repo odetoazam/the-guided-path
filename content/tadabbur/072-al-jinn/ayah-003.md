@@ -6,7 +6,7 @@ ayah_end: 3
 title: "The Majesty That Needs No One: Why the Jinn Denied God a Companion and a Child"
 slug: "072-003"
 category: tadabbur
-arabic: "وَأَنَّهُۥ تَعَـٰلَىٰ جَدُّ رَبِّنَا مَا ٱتَّخَذَ صَـٰحِبَةً وَلَا وَلَدًا"
+arabic: "وَأَنَّهُۥ تَعَـٰلَىٰ جَدُّ رَبِّنَا مَا ٱتَّخَذَ صَـٰحِبَةً وَلَا وَلَدًا"
 translation: "And [we have come to know] that He — exalted is the Majesty of our Lord — has taken neither a consort nor a child."
 word_count: 9
 estimated_duration: "50-58 minutes"

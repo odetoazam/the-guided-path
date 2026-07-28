@@ -6,7 +6,7 @@ ayah_end: 37
 title: "The Woe That Is Counted: Why the Sentence Repeats"
 slug: "077-037"
 category: tadabbur
-arabic: "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ"
+arabic: "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ"
 translation: "Woe, that Day, to the deniers."
 word_count: 3
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 85
 title: "The One Who Owns the Where, Holds the When, and Receives the Return"
 slug: "043-085"
 category: tadabbur
-arabic: "وَتَبَارَكَ ٱلَّذِى لَهُۥ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا وَعِندَهُۥ عِلْمُ ٱلسَّاعَةِ وَإِلَيْهِ تُرْجَعُونَ"
+arabic: "وَتَبَارَكَ ٱلَّذِى لَهُۥ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا وَعِندَهُۥ عِلْمُ ٱلسَّاعَةِ وَإِلَيْهِ تُرْجَعُونَ"
 translation: "And blessed is the One to Whom belongs the dominion of the heavens and the earth and whatever is between them; and with Him is the knowledge of the Hour; and to Him you will be returned."
 word_count: 13
 estimated_duration: "50-58 minutes"

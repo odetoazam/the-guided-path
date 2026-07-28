@@ -6,7 +6,7 @@ ayah_end: 22
 title: "Built for the Verdict: The Truth Woven Into the Heavens and the Weighing of Every Soul"
 slug: "045-022"
 category: tadabbur
-arabic: "وَخَلَقَ ٱللَّهُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ وَلِتُجْزَىٰ كُلُّ نَفْسٍۭ بِمَا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ"
+arabic: "وَخَلَقَ ٱللَّهُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ وَلِتُجْزَىٰ كُلُّ نَفْسٍۭ بِمَا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ"
 translation: "And Allah created the heavens and the earth in truth — and so that every soul may be recompensed for what it has earned, and they will not be wronged."
 word_count: 6600
 estimated_duration: "50-58 minutes"

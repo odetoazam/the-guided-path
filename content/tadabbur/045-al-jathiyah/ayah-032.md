@@ -6,7 +6,7 @@ ayah_end: 32
 title: "We Only Assume: When the Refusal to Seek Becomes a Way of Life"
 slug: "045-032"
 category: tadabbur
-arabic: "وَإِذَا قِيلَ إِنَّ وَعْدَ ٱللَّهِ حَقٌّ وَٱلسَّاعَةُ لَا رَيْبَ فِيهَا قُلْتُم مَّا نَدْرِى مَا ٱلسَّاعَةُ إِن نَّظُنُّ إِلَّا ظَنًّا وَمَا نَحْنُ بِمُسْتَيْقِنِينَ"
+arabic: "وَإِذَا قِيلَ إِنَّ وَعْدَ ٱللَّهِ حَقٌّ وَٱلسَّاعَةُ لَا رَيْبَ فِيهَا قُلْتُم مَّا نَدْرِى مَا ٱلسَّاعَةُ إِن نَّظُنُّ إِلَّا ظَنًّا وَمَا نَحْنُ بِمُسْتَيْقِنِينَ"
 translation: "And when it was said, 'Indeed, the promise of Allah is true, and the Hour — there is no doubt about it,' you said, 'We do not know what the Hour is. We only assume an assumption, and we are not convinced.'"
 word_count: 22
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 54
 title: "From Water He Made Lineage and In-Laws: The Two Bonds That Hold a Civilization"
 slug: "025-054"
 category: tadabbur
-arabic: "وَهُوَ ٱلَّذِى خَلَقَ مِنَ ٱلْمَآءِ بَشَرًا فَجَعَلَهُۥ نَسَبًا وَصِهْرًا ۗ وَكَانَ رَبُّكَ قَدِيرًا"
+arabic: "وَهُوَ ٱلَّذِى خَلَقَ مِنَ ٱلْمَآءِ بَشَرًا فَجَعَلَهُۥ نَسَبًا وَصِهْرًا ۗ وَكَانَ رَبُّكَ قَدِيرًا"
 translation: "And He is the One who created from water a human being, and made for him lineage and in-law kinship. And your Lord has always been All-Capable."
 word_count: 13
 estimated_duration: "50-58 minutes"

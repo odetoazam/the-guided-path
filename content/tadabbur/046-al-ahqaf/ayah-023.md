@@ -6,7 +6,7 @@ ayah_end: 23
 title: "Knowledge Belongs to Him, the Message Belongs to Me: Hud and the Dignity of Saying 'I Do Not Know'"
 slug: "046-023"
 category: tadabbur
-arabic: "قَالَ إِنَّمَا ٱلْعِلْمُ عِندَ ٱللَّهِ وَأُبَلِّغُكُم مَّآ أُرْسِلْتُ بِهِۦ وَلَـٰكِنِّىٓ أَرَىٰكُمْ قَوْمًا تَجْهَلُونَ"
+arabic: "قَالَ إِنَّمَا ٱلْعِلْمُ عِندَ ٱللَّهِ وَأُبَلِّغُكُم مَّآ أُرْسِلْتُ بِهِۦ وَلَـٰكِنِّىٓ أَرَىٰكُمْ قَوْمًا تَجْهَلُونَ"
 translation: "He said, 'Knowledge is only with Allah, and I convey to you that with which I was sent. But I see you are a people behaving in ignorance.'"
 word_count: 13
 estimated_duration: "50-58 minutes"

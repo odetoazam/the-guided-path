@@ -6,7 +6,7 @@ ayah_end: 83
 title: "The House That Belongs to Those Who Stopped Wanting It"
 slug: "028-083"
 category: tadabbur
-arabic: "تِلْكَ الدَّارُ الْآخِرَةُ نَجْعَلُهَا لِلَّذِينَ لَا يُرِيدُونَ عُلُوًّا فِي الْأَرْضِ وَلَا فَسَادًا ۚ وَالْعَاقِبَةُ لِلْمُتَّقِينَ"
+arabic: "تِلْكَ ٱلدَّارُ ٱلْـَٔاخِرَةُ نَجْعَلُهَا لِلَّذِينَ لَا يُرِيدُونَ عُلُوًّا فِى ٱلْأَرْضِ وَلَا فَسَادًا ۚ وَٱلْعَـٰقِبَةُ لِلْمُتَّقِينَ"
 translation: "That Home of the Hereafter — We assign it to those who seek neither self-elevation on the earth, nor corruption. And the final outcome belongs to the God-conscious."
 word_count: 14
 estimated_duration: "50-58 minutes"

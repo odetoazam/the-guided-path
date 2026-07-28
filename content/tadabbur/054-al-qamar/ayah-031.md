@@ -6,7 +6,7 @@ ayah_end: 31
 title: "The Single Cry: When Carved Stone Becomes Trampled Straw"
 slug: "054-031"
 category: tadabbur
-arabic: "إِنَّآ أَرْسَلْنَا عَلَيْهِمْ صَيْحَةً وَٰحِدَةً فَكَانُوا۟ كَهَشِيمِ ٱلْمُحْتَظِرِ"
+arabic: "إِنَّآ أَرْسَلْنَا عَلَيْهِمْ صَيْحَةً وَٰحِدَةً فَكَانُوا۟ كَهَشِيمِ ٱلْمُحْتَظِرِ"
 translation: "Indeed, We sent upon them a single blast, and they became like the dry, trampled twigs of a fence-builder's pen."
 word_count: 4700
 estimated_duration: "48-55 minutes"

@@ -6,7 +6,7 @@ ayah_end: 45
 title: "A Word From Him: The Child Who Was Named Before He Was Born"
 slug: "003-045"
 category: tadabbur
-arabic: "إِذْ قَالَتِ ٱلْمَلَـٰٓئِكَةُ يَـٰمَرْيَمُ إِنَّ ٱللَّهَ يُبَشِّرُكِ بِكَلِمَةٍ مِّنْهُ ٱسْمُهُ ٱلْمَسِيحُ عِيسَى ٱبْنُ مَرْيَمَ وَجِيهًا فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ وَمِنَ ٱلْمُقَرَّبِينَ"
+arabic: "إِذْ قَالَتِ ٱلْمَلَـٰٓئِكَةُ يَـٰمَرْيَمُ إِنَّ ٱللَّهَ يُبَشِّرُكِ بِكَلِمَةٍ مِّنْهُ ٱسْمُهُ ٱلْمَسِيحُ عِيسَى ٱبْنُ مَرْيَمَ وَجِيهًا فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ وَمِنَ ٱلْمُقَرَّبِينَ"
 translation: "When the angels said, 'O Maryam, indeed Allah gives you glad tidings of a word from Him. His name is the Messiah, ʿIsa, the son of Maryam — honored in this world and the Hereafter, and among those brought near.'"
 word_count: 21
 estimated_duration: "50-58 minutes"

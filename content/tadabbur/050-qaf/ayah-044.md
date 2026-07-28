@@ -6,7 +6,7 @@ ayah_end: 44
 title: "The Earth That Could Not Hold Them: When 'Far' Becomes 'Easy'"
 slug: "050-044"
 category: tadabbur
-arabic: "يَوْمَ تَشَقَّقُ ٱلْأَرْضُ عَنْهُمْ سِرَاعًا ۚ ذَٰلِكَ حَشْرٌ عَلَيْنَا يَسِيرٌ"
+arabic: "يَوْمَ تَشَقَّقُ ٱلْأَرْضُ عَنْهُمْ سِرَاعًا ۚ ذَٰلِكَ حَشْرٌ عَلَيْنَا يَسِيرٌ"
 translation: "The Day the earth splits open from them, [and they come forth] hurrying — that is a gathering easy for Us."
 word_count: 9
 estimated_duration: "50-58 minutes"

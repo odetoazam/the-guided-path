@@ -6,7 +6,7 @@ ayah_end: 15
 title: "Who Is Stronger Than Us? — ʿĀd and the Strength That Was Only Ever a Loan"
 slug: "041-015"
 category: tadabbur
-arabic: "فَأَمَّا عَادٌ فَٱسْتَكْبَرُوا۟ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَقَالُوا۟ مَنْ أَشَدُّ مِنَّا قُوَّةً ۖ أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَهُمْ هُوَ أَشَدُّ مِنْهُمْ قُوَّةً ۖ وَكَانُوا۟ بِـَٔايَـٰتِنَا يَجْحَدُونَ"
+arabic: "فَأَمَّا عَادٌ فَٱسْتَكْبَرُوا۟ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَقَالُوا۟ مَنْ أَشَدُّ مِنَّا قُوَّةً ۖ أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَهُمْ هُوَ أَشَدُّ مِنْهُمْ قُوَّةً ۖ وَكَانُوا۟ بِـَٔايَـٰتِنَا يَجْحَدُونَ"
 translation: "Then as for ʿĀd, they grew arrogant upon the earth without right and said, 'Who is greater than us in strength?' Did they not see that Allah, the One who created them — He is greater than them in strength? And they were, of Our signs, knowingly denying."
 word_count: 1
 estimated_duration: "50-58 minutes"

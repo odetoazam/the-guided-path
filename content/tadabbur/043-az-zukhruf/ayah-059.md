@@ -6,7 +6,7 @@ ayah_end: 59
 title: "Nothing But a Servant: The Grammar That Freed a Man They Tried to Make a God"
 slug: "043-059"
 category: tadabbur
-arabic: "إِنْ هُوَ إِلَّا عَبْدٌ أَنْعَمْنَا عَلَيْهِ وَجَعَلْنَاهُ مَثَلًا لِّبَنِي إِسْرَائِيلَ"
+arabic: "إِنْ هُوَ إِلَّا عَبْدٌ أَنْعَمْنَا عَلَيْهِ وَجَعَلْنَـٰهُ مَثَلًا لِّبَنِىٓ إِسْرَٰٓءِيلَ"
 translation: "He was nothing but a servant upon whom We bestowed Our favor, and We made him an example for the Children of Israel."
 word_count: 9
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 30
 title: "What Strikes You Was Aimed: The Ledger You Cannot See and the Mercy You Cannot Count"
 slug: "042-030"
 category: tadabbur
-arabic: "وَمَآ أَصَـٰبَكُم مِّن مُّصِيبَةٍ فَبِمَا كَسَبَتْ أَيْدِيكُمْ وَيَعْفُوا۟ عَن كَثِيرٍ"
+arabic: "وَمَآ أَصَـٰبَكُم مِّن مُّصِيبَةٍ فَبِمَا كَسَبَتْ أَيْدِيكُمْ وَيَعْفُوا۟ عَن كَثِيرٍ"
 translation: "And whatever misfortune befalls you, it is because of what your own hands have earned. Yet He pardons much."
 word_count: 10
 estimated_duration: "50-58 minutes"

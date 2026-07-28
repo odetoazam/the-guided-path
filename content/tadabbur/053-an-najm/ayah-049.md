@@ -6,7 +6,7 @@ ayah_end: 49
 title: "The Lord of the Brightest Star: When Allah Names What You Worship"
 slug: "053-049"
 category: tadabbur
-arabic: "وَأَنَّهُۥ هُوَ رَبُّ ٱلشِّعْرَىٰ"
+arabic: "وَأَنَّهُۥ هُوَ رَبُّ ٱلشِّعْرَىٰ"
 translation: "And that He — He alone — is the Lord of Sirius."
 word_count: 4
 estimated_duration: "50-58 minutes"

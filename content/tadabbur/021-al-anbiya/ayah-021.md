@@ -6,7 +6,7 @@ ayah_end: 21
 title: "Gods From the Earth: The One-Word Test of What Deserves Worship"
 slug: "021-021"
 category: tadabbur
-arabic: "أَمِ ٱتَّخَذُوٓا۟ ءَالِهَةً مِّنَ ٱلْأَرْضِ هُمْ يُنشِرُونَ"
+arabic: "أَمِ ٱتَّخَذُوٓا۟ ءَالِهَةً مِّنَ ٱلْأَرْضِ هُمْ يُنشِرُونَ"
 translation: "Or have they taken gods from the earth who [are able to] raise the dead?"
 word_count: 7
 estimated_duration: "50-55 minutes"

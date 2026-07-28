@@ -6,7 +6,7 @@ ayah_end: 10
 title: "The Empty Heart of a Mother: When Allah Holds What Cannot Be Held"
 slug: "028-010"
 category: tadabbur
-arabic: "وَأَصْبَحَ فُؤَادُ أُمِّ مُوسَىٰ فَارِغًا ۖ إِن كَادَتْ لَتُبْدِي بِهِ لَوْلَا أَن رَّبَطْنَا عَلَىٰ قَلْبِهَا لِتَكُونَ مِنَ ٱلْمُؤْمِنِينَ"
+arabic: "وَأَصْبَحَ فُؤَادُ أُمِّ مُوسَىٰ فَـٰرِغًا ۖ إِن كَادَتْ لَتُبْدِى بِهِۦ لَوْلَآ أَن رَّبَطْنَا عَلَىٰ قَلْبِهَا لِتَكُونَ مِنَ ٱلْمُؤْمِنِينَ"
 translation: "And the heart of Moses' mother became empty. She was about to disclose [the matter], had We not bound fast her heart, so that she would be of the believers."
 word_count: 19
 estimated_duration: "50-58 minutes"

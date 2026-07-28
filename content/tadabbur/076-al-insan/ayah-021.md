@@ -6,7 +6,7 @@ ayah_end: 21
 title: "Clothed From Above, Adorned by Unseen Hands, Purified by His Own"
 slug: "076-021"
 category: tadabbur
-arabic: "عَـٰلِيَهُمْ ثِيَابُ سُندُسٍ خُضْرٌ وَإِسْتَبْرَقٌۖ وَحُلُّوٓاْ أَسَاوِرَ مِن فِضَّةٍۖ وَسَقَىٰهُمْ رَبُّهُمْ شَرَابًا طَهُورًا"
+arabic: "عَـٰلِيَهُمْ ثِيَابُ سُندُسٍ خُضْرٌ وَإِسْتَبْرَقٌ ۖ وَحُلُّوٓا۟ أَسَاوِرَ مِن فِضَّةٍ وَسَقَىٰهُمْ رَبُّهُمْ شَرَابًا طَهُورًا"
 translation: "Upon them will be green garments of fine silk and heavy brocade, and they will be adorned with bracelets of silver, and their Lord will give them to drink a pure drink."
 word_count: 6600
 estimated_duration: "50-58 minutes"

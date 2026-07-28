@@ -6,7 +6,7 @@ ayah_end: 27
 title: "The Inheritance That Outlives the Inheritor"
 slug: "029-027"
 category: tadabbur
-arabic: "وَوَهَبْنَا لَهُۥٓ إِسْحَـٰقَ وَيَعْقُوبَ وَجَعَلْنَا فِى ذُرِّيَّتِهِ ٱلنُّبُوَّةَ وَٱلْكِتَـٰبَ وَءَاتَيْنَـٰهُ أَجْرَهُۥ فِى ٱلدُّنْيَا ۖ وَإِنَّهُۥ فِى ٱلْـَٔاخِرَةِ لَمِنَ ٱلصَّـٰلِحِينَ"
+arabic: "وَوَهَبْنَا لَهُۥٓ إِسْحَـٰقَ وَيَعْقُوبَ وَجَعَلْنَا فِى ذُرِّيَّتِهِ ٱلنُّبُوَّةَ وَٱلْكِتَـٰبَ وَءَاتَيْنَـٰهُ أَجْرَهُۥ فِى ٱلدُّنْيَا ۖ وَإِنَّهُۥ فِى ٱلْـَٔاخِرَةِ لَمِنَ ٱلصَّـٰلِحِينَ"
 translation: "And We gifted to him Isaac and Jacob, and We placed within his descendants prophethood and the Book. And We gave him his reward in this world, and indeed, in the Hereafter, he will be among the righteous."
 word_count: 28
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 55
 title: "From It We Created You — The Earth That Names You Three Times"
 slug: "020-055"
 category: tadabbur
-arabic: "مِنْهَا خَلَقْنَاكُمْ وَفِيهَا نُعِيدُكُمْ وَمِنْهَا نُخْرِجُكُمْ تَارَةً أُخْرَىٰ"
+arabic: "۞ مِنْهَا خَلَقْنَـٰكُمْ وَفِيهَا نُعِيدُكُمْ وَمِنْهَا نُخْرِجُكُمْ تَارَةً أُخْرَىٰ"
 translation: "From it We created you, and into it We will return you, and from it We will bring you forth one more time."
 word_count: 8400
 estimated_duration: "48-55 minutes"

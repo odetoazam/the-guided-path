@@ -6,7 +6,7 @@ ayah_end: 61
 title: "Waylakum: The Prophet Who Warned His Enemies Out of Mercy"
 slug: "020-061"
 category: tadabbur
-arabic: "قَالَ لَهُم مُّوسَىٰ وَيْلَكُمْ لَا تَفْتَرُوا عَلَى ٱللَّهِ كَذِبًا فَيُسْحِتَكُم بِعَذَابٍ ۖ وَقَدْ خَابَ مَنِ ٱفْتَرَىٰ"
+arabic: "قَالَ لَهُم مُّوسَىٰ وَيْلَكُمْ لَا تَفْتَرُوا۟ عَلَى ٱللَّهِ كَذِبًا فَيُسْحِتَكُم بِعَذَابٍ ۖ وَقَدْ خَابَ مَنِ ٱفْتَرَىٰ"
 translation: "Moses said to them: Woe to you! Do not invent a lie against Allah, lest He uproot you with a punishment. And he has surely failed who invents [against Him]."
 word_count: 14
 estimated_duration: "50-58 minutes"

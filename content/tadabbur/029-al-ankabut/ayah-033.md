@@ -6,7 +6,7 @@ ayah_end: 33
 title: "When the Messengers Arrived: The Distress of a Host Who Cannot Protect His Guests"
 slug: "029-033"
 category: tadabbur
-arabic: "وَلَمَّآ أَن جَآءَتْ رُسُلُنَا لُوطًۭا سِىٓءَ بِهِمْ وَضَاقَ بِهِمْ ذَرْعًۭا وَقَالُوا۟ لَا تَخَفْ وَلَا تَحْزَنْ ۖ إِنَّا مُنَجُّوكَ وَأَهْلَكَ إِلَّا ٱمْرَأَتَكَ كَانَتْ مِنَ ٱلْغَـٰبِرِينَ"
+arabic: "وَلَمَّآ أَن جَآءَتْ رُسُلُنَا لُوطًا سِىٓءَ بِهِمْ وَضَاقَ بِهِمْ ذَرْعًا وَقَالُوا۟ لَا تَخَفْ وَلَا تَحْزَنْ ۖ إِنَّا مُنَجُّوكَ وَأَهْلَكَ إِلَّا ٱمْرَأَتَكَ كَانَتْ مِنَ ٱلْغَـٰبِرِينَ"
 translation: "And when Our messengers came to Lūṭ, he was distressed on account of them and felt powerless to protect them. But they said: 'Do not fear, and do not grieve. We will surely save you and your family — except your wife; she will be of those who remain behind.'"
 word_count: 28
 estimated_duration: "50-55 minutes"

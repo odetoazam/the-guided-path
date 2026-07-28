@@ -6,7 +6,7 @@ ayah_end: 28
 title: "The Nearness That Vanished: When the Bridge You Built to God Becomes Your Distance"
 slug: "046-028"
 category: tadabbur
-arabic: "فَلَوْلَا نَصَرَهُمُ ٱلَّذِينَ ٱتَّخَذُوا۟ مِن دُونِ ٱللَّهِ قُرْبَانًا ءَالِهَةًۢ ۖ بَلْ ضَلُّوا۟ عَنْهُمْ ۚ وَذَٰلِكَ إِفْكُهُمْ وَمَا كَانُوا۟ يَفْتَرُونَ"
+arabic: "فَلَوْلَا نَصَرَهُمُ ٱلَّذِينَ ٱتَّخَذُوا۟ مِن دُونِ ٱللَّهِ قُرْبَانًا ءَالِهَةًۢ ۖ بَلْ ضَلُّوا۟ عَنْهُمْ ۚ وَذَٰلِكَ إِفْكُهُمْ وَمَا كَانُوا۟ يَفْتَرُونَ"
 translation: "Then why did those they had taken as gods besides Allah — as a means of nearness — not help them? Rather, they were lost from them. And that was their falsehood, and what they had been inventing."
 word_count: 7100
 estimated_duration: "50-58 minutes"

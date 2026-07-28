@@ -6,7 +6,7 @@ ayah_end: 8
 title: "The Shepherd of Trusts: Why Allah Did Not Say 'Keepers'"
 slug: "023-008"
 category: tadabbur
-arabic: "وَٱلَّذِينَ هُمْ لِأَمَـٰنَـٰتِهِمْ وَعَهْدِهِمْ رَٰعُونَ"
+arabic: "وَٱلَّذِينَ هُمْ لِأَمَـٰنَـٰتِهِمْ وَعَهْدِهِمْ رَٰعُونَ"
 translation: "And those who, to their trusts and their covenant, are shepherds — attentive, watchful, never absent."
 word_count: 7
 estimated_duration: "48-55 minutes"

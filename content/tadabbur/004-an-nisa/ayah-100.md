@@ -6,7 +6,7 @@ ayah_end: 100
 title: "The Reward That Falls Before You Arrive: Hijra, the Place That Spites the Oppressor, and Dying on the Road"
 slug: "004-100"
 category: tadabbur
-arabic: "وَمَن يُهَاجِرْ فِى سَبِيلِ ٱللَّهِ يَجِدْ فِى ٱلْأَرْضِ مُرَٰغَمًا كَثِيرًا وَسَعَةً ۚ وَمَن يَخْرُجْ مِنۢ بَيْتِهِۦ مُهَاجِرًا إِلَى ٱللَّهِ وَرَسُولِهِۦ ثُمَّ يُدْرِكْهُ ٱلْمَوْتُ فَقَدْ وَقَعَ أَجْرُهُۥ عَلَى ٱللَّهِ ۗ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا"
+arabic: "۞ وَمَن يُهَاجِرْ فِى سَبِيلِ ٱللَّهِ يَجِدْ فِى ٱلْأَرْضِ مُرَٰغَمًا كَثِيرًا وَسَعَةً ۚ وَمَن يَخْرُجْ مِنۢ بَيْتِهِۦ مُهَاجِرًا إِلَى ٱللَّهِ وَرَسُولِهِۦ ثُمَّ يُدْرِكْهُ ٱلْمَوْتُ فَقَدْ وَقَعَ أَجْرُهُۥ عَلَى ٱللَّهِ ۗ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا"
 translation: "And whoever emigrates in the way of Allah will find upon the earth many a place of refuge and abundance. And whoever leaves his home as an emigrant to Allah and His Messenger, and then death overtakes him — his reward has already fallen due upon Allah. And Allah is ever Forgiving, Merciful."
 word_count: 31
 estimated_duration: "50-58 minutes"

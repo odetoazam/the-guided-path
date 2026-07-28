@@ -6,7 +6,7 @@ ayah_end: 70
 title: "The God Who Owns Both Ends: Praise in the First House and the Last"
 slug: "028-070"
 category: tadabbur
-arabic: "وَهُوَ ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ۖ لَهُ ٱلْحَمْدُ فِى ٱلْأُولَىٰ وَٱلْـَٔاخِرَةِ ۖ وَلَهُ ٱلْحُكْمُ وَإِلَيْهِ تُرْجَعُونَ"
+arabic: "وَهُوَ ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ۖ لَهُ ٱلْحَمْدُ فِى ٱلْأُولَىٰ وَٱلْـَٔاخِرَةِ ۖ وَلَهُ ٱلْحُكْمُ وَإِلَيْهِ تُرْجَعُونَ"
 translation: "And He is Allah — there is no god but He. To Him belongs all praise in the first life and in the last; and to Him belongs the decision; and to Him you will be returned."
 word_count: 18
 estimated_duration: "50-55 minutes"

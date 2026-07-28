@@ -6,7 +6,7 @@ ayah_end: 23
 title: "When Allah Calls Slander a Throw: The Three Walls and the Curse That Follows"
 slug: "024-023"
 category: tadabbur
-arabic: "إِنَّ ٱلَّذِينَ يَرْمُونَ ٱلْمُحْصَنَـٰتِ ٱلْغَـٰفِلَـٰتِ ٱلْمُؤْمِنَـٰتِ لُعِنُوا۟ فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ وَلَهُمْ عَذَابٌ عَظِيمٌ"
+arabic: "إِنَّ ٱلَّذِينَ يَرْمُونَ ٱلْمُحْصَنَـٰتِ ٱلْغَـٰفِلَـٰتِ ٱلْمُؤْمِنَـٰتِ لُعِنُوا۟ فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ وَلَهُمْ عَذَابٌ عَظِيمٌ"
 translation: "Indeed, those who throw [accusations against] chaste, unaware, believing women — they have been cursed in this world and the Hereafter, and for them is a tremendous punishment."
 word_count: 14
 estimated_duration: "50-55 minutes"

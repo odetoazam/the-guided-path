@@ -6,7 +6,7 @@ ayah_end: 30
 title: "Have You Been Filled? — The Question That Exposes Every Hunger That Never Says Enough"
 slug: "050-030"
 category: tadabbur
-arabic: "يَوْمَ نَقُولُ لِجَهَنَّمَ هَلِ ٱمْتَلَأْتِ وَتَقُولُ هَلْ مِن مَّزِيدٍ"
+arabic: "يَوْمَ نَقُولُ لِجَهَنَّمَ هَلِ ٱمْتَلَأْتِ وَتَقُولُ هَلْ مِن مَّزِيدٍ"
 translation: "The Day We will say to Hell, \"Have you been filled?\" — and it will say, \"Is there any more?\""
 word_count: 9
 estimated_duration: "50-58 minutes"

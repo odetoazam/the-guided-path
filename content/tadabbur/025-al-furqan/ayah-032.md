@@ -6,7 +6,7 @@ ayah_end: 32
 title: "The Mercy of Slow Descent: Why Allah Did Not Send the Quran All at Once"
 slug: "025-032"
 category: tadabbur
-arabic: "وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لَوْلَا نُزِّلَ عَلَيْهِ ٱلْقُرْءَانُ جُمْلَةً وَٰحِدَةً ۚ كَذَٰلِكَ لِنُثَبِّتَ بِهِۦ فُؤَادَكَ ۖ وَرَتَّلْنَٰهُ تَرْتِيلًا"
+arabic: "وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لَوْلَا نُزِّلَ عَلَيْهِ ٱلْقُرْءَانُ جُمْلَةً وَٰحِدَةً ۚ كَذَٰلِكَ لِنُثَبِّتَ بِهِۦ فُؤَادَكَ ۖ وَرَتَّلْنَـٰهُ تَرْتِيلًا"
 translation: "And those who disbelieved said: 'If only the Quran had been sent down to him all at once.' Thus — so that We may steady your heart by it. And We have arranged it slowly, with deliberate measure."
 word_count: 18
 estimated_duration: "50-58 minutes"

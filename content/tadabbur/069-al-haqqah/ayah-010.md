@@ -6,7 +6,7 @@ ayah_end: 10
 title: "The Seizure That Rises: When the Hand That Nurtured Becomes the Hand That Takes"
 slug: "069-010"
 category: tadabbur
-arabic: "فَعَصَوْا۟ رَسُولَ رَبِّهِمْ فَأَخَذَهُمْ أَخْذَةًۭ رَّابِيَةً"
+arabic: "فَعَصَوْا۟ رَسُولَ رَبِّهِمْ فَأَخَذَهُمْ أَخْذَةً رَّابِيَةً"
 translation: "And they disobeyed the messenger of their Lord, so He seized them with a seizure that rose beyond all measure."
 word_count: 6
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 71
 title: "The Two Doors of Truth — and What Closes Them"
 slug: "022-071"
 category: tadabbur
-arabic: "وَيَعْبُدُونَ مِن دُونِ ٱللَّهِ مَا لَمْ يُنَزِّلْ بِهِۦ سُلْطَـٰنًۭا وَمَا لَيْسَ لَهُم بِهِۦ عِلْمٌ ۗ وَمَا لِلظَّـٰلِمِينَ مِن نَّصِيرٍ"
+arabic: "وَيَعْبُدُونَ مِن دُونِ ٱللَّهِ مَا لَمْ يُنَزِّلْ بِهِۦ سُلْطَـٰنًا وَمَا لَيْسَ لَهُم بِهِۦ عِلْمٌ ۗ وَمَا لِلظَّـٰلِمِينَ مِن نَّصِيرٍ"
 translation: "And they worship, besides Allah, that for which He has not sent down any authority — and that of which they themselves have no knowledge. And for the wrongdoers there will be no helper."
 word_count: 1900
 estimated_duration: "48-54 minutes"

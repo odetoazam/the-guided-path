@@ -6,7 +6,7 @@ ayah_end: 53
 title: "And We Saved Those Who Believed and Used to Be Conscious"
 slug: "027-053"
 category: tadabbur
-arabic: "وَأَنجَيْنَا ٱلَّذِينَ ءَامَنُوا۟ وَكَانُوا۟ يَتَّقُونَ"
+arabic: "وَأَنجَيْنَا ٱلَّذِينَ ءَامَنُوا۟ وَكَانُوا۟ يَتَّقُونَ"
 translation: "And We saved those who believed and used to be conscious [of Allah]."
 word_count: 6
 estimated_duration: "48-55 minutes"

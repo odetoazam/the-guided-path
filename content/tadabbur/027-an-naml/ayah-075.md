@@ -6,7 +6,7 @@ ayah_end: 75
 title: "The Clear Book Where Nothing Hides"
 slug: "027-075"
 category: tadabbur
-arabic: "وَمَا مِنْ غَآئِبَةٍ فِى ٱلسَّمَآءِ وَٱلْأَرْضِ إِلَّا فِى كِتَـٰبٍ مُّبِينٍ"
+arabic: "وَمَا مِنْ غَآئِبَةٍ فِى ٱلسَّمَآءِ وَٱلْأَرْضِ إِلَّا فِى كِتَـٰبٍ مُّبِينٍ"
 translation: "And there is nothing concealed in the heavens or the earth except that it is in a clear Book."
 word_count: 11
 estimated_duration: "48-55 minutes"

@@ -6,7 +6,7 @@ ayah_end: 19
 title: "The Treachery of a Glance: When the Most Deniable Act Is the Most Fully Seen"
 slug: "040-019"
 category: tadabbur
-arabic: "يَعْلَمُ خَآئِنَةَ ٱلْأَعْيُنِ وَمَا تُخْفِى ٱلصُّدُورُ"
+arabic: "يَعْلَمُ خَآئِنَةَ ٱلْأَعْيُنِ وَمَا تُخْفِى ٱلصُّدُورُ"
 translation: "He knows the treacherous glance of the eyes and what the breasts conceal."
 word_count: 5
 estimated_duration: "50-58 minutes"

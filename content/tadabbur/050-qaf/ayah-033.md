@@ -6,7 +6,7 @@ ayah_end: 33
 title: "The One Who Feared the Merciful Unseen — and the Heart He Brought"
 slug: "050-033"
 category: tadabbur
-arabic: "مَّنْ خَشِىَ ٱلرَّحْمَـٰنَ بِٱلْغَيْبِ وَجَآءَ بِقَلْبٍ مُّنِيبٍ"
+arabic: "مَّنْ خَشِىَ ٱلرَّحْمَـٰنَ بِٱلْغَيْبِ وَجَآءَ بِقَلْبٍ مُّنِيبٍ"
 translation: "Whoever feared the Most Merciful while unseen, and came with a heart ever-returning."
 word_count: 7
 estimated_duration: "48-58 minutes"

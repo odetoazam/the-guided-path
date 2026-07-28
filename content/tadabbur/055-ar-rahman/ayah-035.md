@@ -6,7 +6,7 @@ ayah_end: 35
 title: "The Sealed Border: When the Verb Goes Silent and No One Comes"
 slug: "055-035"
 category: tadabbur
-arabic: "يُرْسَلُ عَلَيْكُمَا شُوَاظٌ مِّن نَّارٍ وَنُحَاسٌ فَلَا تَنتَصِرَانِ"
+arabic: "يُرْسَلُ عَلَيْكُمَا شُوَاظٌ مِّن نَّارٍ وَنُحَاسٌ فَلَا تَنتَصِرَانِ"
 translation: "There will be sent against the two of you a flame of fire and smoke, and you will not be able to defend yourselves."
 word_count: 8
 estimated_duration: "50-58 minutes"

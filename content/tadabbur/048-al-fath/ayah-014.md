@@ -6,7 +6,7 @@ ayah_end: 14
 title: "Whose Right It Is — and Why He Leads With Mercy"
 slug: "048-014"
 category: tadabbur
-arabic: "وَلِلَّهِ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ يَغْفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُ ۚ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا"
+arabic: "وَلِلَّهِ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ يَغْفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُ ۚ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا"
 translation: "And to Allah belongs the dominion of the heavens and the earth. He forgives whom He wills and punishes whom He wills. And Allah is ever Forgiving, Merciful."
 word_count: 6700
 estimated_duration: "50-58 minutes"

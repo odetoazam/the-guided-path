@@ -6,7 +6,7 @@ ayah_end: 41
 title: "The Sign Was Silence: When Allah Empties Your Tongue of People to Fill It With Him"
 slug: "003-041"
 category: tadabbur
-arabic: "قَالَ رَبِّ ٱجْعَل لِّىٓ ءَايَةً ۖ قَالَ ءَايَتُكَ أَلَّا تُكَلِّمَ ٱلنَّاسَ ثَلَٰثَةَ أَيَّامٍ إِلَّا رَمْزًا ۗ وَٱذْكُر رَّبَّكَ كَثِيرًا وَسَبِّحْ بِٱلْعَشِىِّ وَٱلْإِبْكَٰرِ"
+arabic: "قَالَ رَبِّ ٱجْعَل لِّىٓ ءَايَةً ۖ قَالَ ءَايَتُكَ أَلَّا تُكَلِّمَ ٱلنَّاسَ ثَلَـٰثَةَ أَيَّامٍ إِلَّا رَمْزًا ۗ وَٱذْكُر رَّبَّكَ كَثِيرًا وَسَبِّحْ بِٱلْعَشِىِّ وَٱلْإِبْكَـٰرِ"
 translation: "He said, \"My Lord, make for me a sign.\" He said, \"Your sign is that you shall not speak to the people for three days except by gesture. And remember your Lord much, and glorify Him in the evening and the morning.\""
 word_count: 20
 estimated_duration: "50-58 minutes"

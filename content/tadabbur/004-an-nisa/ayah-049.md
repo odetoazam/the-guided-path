@@ -6,7 +6,7 @@ ayah_end: 49
 title: "The Self That Praises Itself: Tazkiyah as Claim and as Gift"
 slug: "004-049"
 category: tadabbur
-arabic: "أَلَمْ تَرَ إِلَى ٱلَّذِينَ يُزَكُّونَ أَنفُسَهُمۚ بَلِ ٱللَّهُ يُزَكِّى مَن يَشَآءُ وَلَا يُظْلَمُونَ فَتِيلًا"
+arabic: "أَلَمْ تَرَ إِلَى ٱلَّذِينَ يُزَكُّونَ أَنفُسَهُم ۚ بَلِ ٱللَّهُ يُزَكِّى مَن يَشَآءُ وَلَا يُظْلَمُونَ فَتِيلًا"
 translation: "Have you not seen those who claim purity for themselves? Rather, it is Allah who purifies whom He wills, and they will not be wronged even as much as the thread of a date-stone."
 word_count: 14
 estimated_duration: "50-58 minutes"

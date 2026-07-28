@@ -6,7 +6,7 @@ ayah_end: 55
 title: "The Reminder That Only Wakes What Is Already There"
 slug: "051-055"
 category: tadabbur
-arabic: "وَذَكِّرْ فَإِنَّ ٱلذِّكْرَىٰ تَنفَعُ ٱلْمُؤْمِنِينَ"
+arabic: "وَذَكِّرْ فَإِنَّ ٱلذِّكْرَىٰ تَنفَعُ ٱلْمُؤْمِنِينَ"
 translation: "And remind, for indeed the reminder benefits the believers."
 word_count: 5
 estimated_duration: "50-58 minutes"

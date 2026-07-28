@@ -6,7 +6,7 @@ ayah_end: 7
 title: "The Gathering That Divides: Why the Day of Assembly Is the Day of Separation"
 slug: "042-007"
 category: tadabbur
-arabic: "وَكَذَٰلِكَ أَوْحَيْنَآ إِلَيْكَ قُرْآنًا عَرَبِيًّا لِّتُنذِرَ أُمَّ ٱلْقُرَىٰ وَمَنْ حَوْلَهَا وَتُنذِرَ يَوْمَ ٱلْجَمْعِ لَا رَيْبَ فِيهِ ۚ فَرِيقٌ فِى ٱلْجَنَّةِ وَفَرِيقٌ فِى ٱلسَّعِيرِ"
+arabic: "وَكَذَٰلِكَ أَوْحَيْنَآ إِلَيْكَ قُرْءَانًا عَرَبِيًّا لِّتُنذِرَ أُمَّ ٱلْقُرَىٰ وَمَنْ حَوْلَهَا وَتُنذِرَ يَوْمَ ٱلْجَمْعِ لَا رَيْبَ فِيهِ ۚ فَرِيقٌ فِى ٱلْجَنَّةِ وَفَرِيقٌ فِى ٱلسَّعِيرِ"
 translation: "And thus We have revealed to you an Arabic Quran, that you may warn the Mother of Cities and those around it, and warn of the Day of Assembly — about which there is no doubt. A party will be in the Garden, and a party in the Blaze."
 word_count: 3950
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 69
 title: "The Wish That Boomerangs: When Misguidance Returns to Its Author"
 slug: "003-069"
 category: tadabbur
-arabic: "وَدَّت طَّآئِفَةٌ مِّنْ أَهْلِ ٱلْكِتَـٰبِ لَوْ يُضِلُّونَكُمْ وَمَا يُضِلُّونَ إِلَّآ أَنفُسَهُمْ وَمَا يَشْعُرُونَ"
+arabic: "وَدَّت طَّآئِفَةٌ مِّنْ أَهْلِ ٱلْكِتَـٰبِ لَوْ يُضِلُّونَكُمْ وَمَا يُضِلُّونَ إِلَّآ أَنفُسَهُمْ وَمَا يَشْعُرُونَ"
 translation: "A faction of the People of the Book wished they could lead you astray. But they lead astray none except themselves — and they do not even perceive it."
 word_count: 13
 estimated_duration: "50-58 minutes"

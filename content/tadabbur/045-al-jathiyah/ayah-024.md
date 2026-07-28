@@ -6,7 +6,7 @@ ayah_end: 24
 title: "Nothing But Time: The Grammar of Certainty Over an Empty Guess"
 slug: "045-024"
 category: tadabbur
-arabic: "وَقَالُوا۟ مَا هِىَ إِلَّا حَيَاتُنَا ٱلدُّنْيَا نَمُوتُ وَنَحْيَا وَمَا يُهْلِكُنَآ إِلَّا ٱلدَّهْرُ ۚ وَمَا لَهُم بِذَٰلِكَ مِنْ عِلْمٍ ۖ إِنْ هُمْ إِلَّا يَظُنُّونَ"
+arabic: "وَقَالُوا۟ مَا هِىَ إِلَّا حَيَاتُنَا ٱلدُّنْيَا نَمُوتُ وَنَحْيَا وَمَا يُهْلِكُنَآ إِلَّا ٱلدَّهْرُ ۚ وَمَا لَهُم بِذَٰلِكَ مِنْ عِلْمٍ ۖ إِنْ هُمْ إِلَّا يَظُنُّونَ"
 translation: "And they say, 'There is nothing but our worldly life — we die and we live, and nothing destroys us except time.' But they have no knowledge of that; they are only guessing."
 word_count: 21
 estimated_duration: "50-58 minutes"

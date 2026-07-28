@@ -6,7 +6,7 @@ ayah_end: 10
 title: "The Geography of Honor and the Barrenness of Schemes"
 slug: "035-010"
 category: tadabbur
-arabic: "مَن كَانَ يُرِيدُ ٱلْعِزَّةَ فَلِلَّهِ ٱلْعِزَّةُ جَمِيعًاۚ إِلَيْهِ يَصْعَدُ ٱلْكَلِمُ ٱلطَّيِّبُ وَٱلْعَمَلُ ٱلصَّـٰلِحُ يَرْفَعُهُۥۚ وَٱلَّذِينَ يَمْكُرُونَ ٱلسَّيِّـَٔاتِ لَهُمْ عَذَابٌ شَدِيدٌۖ وَمَكْرُ أُوْلَـٰٓئِكَ هُوَ يَبُورُ"
+arabic: "مَن كَانَ يُرِيدُ ٱلْعِزَّةَ فَلِلَّهِ ٱلْعِزَّةُ جَمِيعًا ۚ إِلَيْهِ يَصْعَدُ ٱلْكَلِمُ ٱلطَّيِّبُ وَٱلْعَمَلُ ٱلصَّـٰلِحُ يَرْفَعُهُۥ ۚ وَٱلَّذِينَ يَمْكُرُونَ ٱلسَّيِّـَٔاتِ لَهُمْ عَذَابٌ شَدِيدٌ ۖ وَمَكْرُ أُو۟لَـٰٓئِكَ هُوَ يَبُورُ"
 translation: "Whoever desires honor — then to Allah belongs all honor, entirely. To Him ascends the good word, and the righteous deed raises it. But those who plot evils — for them is a severe punishment, and the plotting of those — it is what perishes."
 word_count: 24
 estimated_duration: "50-55 minutes"

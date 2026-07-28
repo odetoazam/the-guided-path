@@ -6,7 +6,7 @@ ayah_end: 14
 title: "Inna llāha yaf'alu mā yurīd — When Reward Becomes Grace"
 slug: "022-014"
 category: tadabbur
-arabic: "إِنَّ ٱللَّهَ يُدْخِلُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ۚ إِنَّ ٱللَّهَ يَفْعَلُ مَا يُرِيدُ"
+arabic: "إِنَّ ٱللَّهَ يُدْخِلُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ۚ إِنَّ ٱللَّهَ يَفْعَلُ مَا يُرِيدُ"
 translation: "Indeed Allah admits those who believe and do righteous deeds into gardens beneath which rivers flow. Indeed Allah does what He wills."
 word_count: 17
 estimated_duration: "48-52 minutes"

@@ -6,7 +6,7 @@ ayah_end: 84
 title: "The Question That Cannot Be Answered: When Speech Itself Becomes the Verdict"
 slug: "027-084"
 category: tadabbur
-arabic: "حَتَّىٰٓ إِذَا جَآءُو قَالَ أَكَذَّبْتُم بِـَٔايَـٰتِى وَلَمْ تُحِيطُوا۟ بِهَا عِلْمًا أَمَّاذَا كُنتُمْ تَعْمَلُونَ"
+arabic: "حَتَّىٰٓ إِذَا جَآءُو قَالَ أَكَذَّبْتُم بِـَٔايَـٰتِى وَلَمْ تُحِيطُوا۟ بِهَا عِلْمًا أَمَّاذَا كُنتُمْ تَعْمَلُونَ"
 translation: "Until, when they arrive, He will say: 'Did you deny My signs without encompassing them in knowledge? Or what was it that you used to do?'"
 word_count: 13
 estimated_duration: "50-58 minutes"

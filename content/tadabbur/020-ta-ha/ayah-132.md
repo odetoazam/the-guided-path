@@ -6,7 +6,7 @@ ayah_end: 132
 title: "The Inverted Economy: Prayer Was Never the Price of Bread — We Are the Ones Who Provide"
 slug: "020-132"
 category: tadabbur
-arabic: "وَأْمُرْ أَهْلَكَ بِٱلصَّلَوٰةِ وَٱصْطَبِرْ عَلَيْهَا ۖ لَا نَسْـَٔلُكَ رِزْقًا ۖ نَّحْنُ نَرْزُقُكَ ۗ وَٱلْعَـٰقِبَةُ لِلتَّقْوَىٰ"
+arabic: "وَأْمُرْ أَهْلَكَ بِٱلصَّلَوٰةِ وَٱصْطَبِرْ عَلَيْهَا ۖ لَا نَسْـَٔلُكَ رِزْقًا ۖ نَّحْنُ نَرْزُقُكَ ۗ وَٱلْعَـٰقِبَةُ لِلتَّقْوَىٰ"
 translation: "And command your family to pray, and be steadfast in it yourself. We do not ask you for provision — We provide for you. And the final outcome belongs to taqwa."
 word_count: 6800
 estimated_duration: "52-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 31
 title: "The Truth That Confirms: Revelation, Continuity, and the God Who Knows His Servants"
 slug: "035-031"
 category: tadabbur
-arabic: "وَٱلَّذِىٓ أَوْحَيْنَآ إِلَيْكَ مِنَ ٱلْكِتَـٰبِ هُوَ ٱلْحَقُّ مُصَدِّقًا لِّمَا بَيْنَ يَدَيْهِ ۗ إِنَّ ٱللَّهَ بِعِبَادِهِۦ لَخَبِيرٌۢ بَصِيرٌ"
+arabic: "وَٱلَّذِىٓ أَوْحَيْنَآ إِلَيْكَ مِنَ ٱلْكِتَـٰبِ هُوَ ٱلْحَقُّ مُصَدِّقًا لِّمَا بَيْنَ يَدَيْهِ ۗ إِنَّ ٱللَّهَ بِعِبَادِهِۦ لَخَبِيرٌۢ بَصِيرٌ"
 translation: "And that which We have revealed to you of the Book — it is the truth, confirming what came before it. Indeed Allah, of His servants, is All-Aware, All-Seeing."
 word_count: 16
 estimated_duration: "50-58 minutes"

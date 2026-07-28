@@ -6,7 +6,7 @@ ayah_end: 23
 title: "The One Who Stands Outside the Courtroom: Lā Yus'alu ʿAmmā Yafʿal"
 slug: "021-023"
 category: tadabbur
-arabic: "لَا يُسْـَٔلُ عَمَّا يَفْعَلُ وَهُمْ يُسْـَٔلُونَ"
+arabic: "لَا يُسْـَٔلُ عَمَّا يَفْعَلُ وَهُمْ يُسْـَٔلُونَ"
 translation: "He is not questioned about what He does — but they will be questioned."
 word_count: 9800
 estimated_duration: "50-55 minutes"

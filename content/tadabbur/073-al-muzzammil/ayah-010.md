@@ -6,7 +6,7 @@ ayah_end: 10
 title: "The Beautiful Goodbye: When Walking Away Becomes Worship"
 slug: "073-010"
 category: tadabbur
-arabic: "وَٱصْبِرْ عَلَىٰ مَا يَقُولُونَ وَٱهْجُرْهُمْ هَجْرًۭا جَمِيلًۭا"
+arabic: "وَٱصْبِرْ عَلَىٰ مَا يَقُولُونَ وَٱهْجُرْهُمْ هَجْرًا جَمِيلًا"
 translation: "And be patient over what they say, and part from them with a gracious parting."
 word_count: 6100
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 18
 title: "The One Who Sees What You Do: How the Surah of Manners Ends by Naming Its Witness"
 slug: "049-018"
 category: tadabbur
-arabic: "إِنَّ ٱللَّهَ يَعْلَمُ غَيْبَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ وَٱللَّهُ بَصِيرٌۢ بِمَا تَعْمَلُونَ"
+arabic: "إِنَّ ٱللَّهَ يَعْلَمُ غَيْبَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ وَٱللَّهُ بَصِيرٌۢ بِمَا تَعْمَلُونَ"
 translation: "Indeed, Allah knows the unseen of the heavens and the earth. And Allah is All-Seeing of what you do."
 word_count: 10
 estimated_duration: "50-58 minutes"

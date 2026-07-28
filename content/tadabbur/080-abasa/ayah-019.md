@@ -4,7 +4,7 @@ surah_name: "'Abasa"
 ayah_start: 19
 ayah_end: 19
 title: "From Drop to Due Form"
-arabic: "مِن نُّطْفَةٍ خَلَقَهُۥ فَقَدَّرَهُۥ"
+arabic: "مِن نُّطْفَةٍ خَلَقَهُۥ فَقَدَّرَهُۥ"
 translation: "He created them from a sperm-drop, and ordained their development."
 word_count: null
 estimated_duration: "45-55 minutes"

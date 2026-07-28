@@ -6,7 +6,7 @@ ayah_end: 5
 title: "Wisdom That Arrived: When the Message Completes Its Journey and We Don't"
 slug: "054-005"
 category: tadabbur
-arabic: "حِكْمَةٌۢ بَـٰلِغَةٌ ۖ فَمَا تُغْنِ ٱلنُّذُرُ"
+arabic: "حِكْمَةٌۢ بَـٰلِغَةٌ ۖ فَمَا تُغْنِ ٱلنُّذُرُ"
 translation: "Far-reaching wisdom — but the warnings do not avail."
 word_count: 5600
 estimated_duration: "48-56 minutes"

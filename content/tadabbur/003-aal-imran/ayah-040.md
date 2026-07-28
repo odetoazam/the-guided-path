@@ -6,7 +6,7 @@ ayah_end: 40
 title: "When You Ask 'How' and Allah Answers 'Who': Zakariyya at the Edge of the Possible"
 slug: "003-040"
 category: tadabbur
-arabic: "قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَـٰمٌ وَقَدْ بَلَغَنِىَ ٱلْكِبَرُ وَٱمْرَأَتِى عَاقِرٌ ۖ قَالَ كَذَٰلِكَ ٱللَّهُ يَفْعَلُ مَا يَشَآءُ"
+arabic: "قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَـٰمٌ وَقَدْ بَلَغَنِىَ ٱلْكِبَرُ وَٱمْرَأَتِى عَاقِرٌ ۖ قَالَ كَذَٰلِكَ ٱللَّهُ يَفْعَلُ مَا يَشَآءُ"
 translation: "He said, \"My Lord, how can there be a boy for me when old age has reached me and my wife is barren?\" He said, \"Thus — Allah does whatever He wills.\""
 word_count: 17
 estimated_duration: "48-59 minutes"

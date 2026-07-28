@@ -6,7 +6,7 @@ ayah_end: 21
 title: "The Nearer Punishment: Allah's Mercy Disguised as Pain"
 slug: "032-021"
 category: tadabbur
-arabic: "وَلَنُذِيقَنَّهُم مِّنَ ٱلْعَذَابِ ٱلْأَدْنَىٰ دُونَ ٱلْعَذَابِ ٱلْأَكْبَرِ لَعَلَّهُمْ يَرْجِعُونَ"
+arabic: "وَلَنُذِيقَنَّهُم مِّنَ ٱلْعَذَابِ ٱلْأَدْنَىٰ دُونَ ٱلْعَذَابِ ٱلْأَكْبَرِ لَعَلَّهُمْ يَرْجِعُونَ"
 translation: "And We will surely let them taste the nearer punishment, short of the greater punishment, so that perhaps they may return."
 word_count: 11
 estimated_duration: "50-58 minutes"

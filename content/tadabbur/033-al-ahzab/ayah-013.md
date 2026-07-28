@@ -6,7 +6,7 @@ ayah_end: 13
 title: "One Word Beneath All the Words"
 slug: "033-013"
 category: tadabbur
-arabic: "وَإِذْ قَالَت طَّآئِفَةٌ مِّنْهُمْ يَـٰٓأَهْلَ يَثْرِبَ لَا مُقَامَ لَكُمْ فَٱرْجِعُواْ وَيَسْتَـْٔذِنُ فَرِيقٌ مِّنْهُمُ ٱلنَّبِىَّ يَقُولُونَ إِنَّ بُيُوتَنَا عَوْرَةٌ وَمَا هِىَ بِعَوْرَةٍ إِن يُرِيدُونَ إِلَّا فِرَارًا"
+arabic: "وَإِذْ قَالَت طَّآئِفَةٌ مِّنْهُمْ يَـٰٓأَهْلَ يَثْرِبَ لَا مُقَامَ لَكُمْ فَٱرْجِعُوا۟ ۚ وَيَسْتَـْٔذِنُ فَرِيقٌ مِّنْهُمُ ٱلنَّبِىَّ يَقُولُونَ إِنَّ بُيُوتَنَا عَوْرَةٌ وَمَا هِىَ بِعَوْرَةٍ ۖ إِن يُرِيدُونَ إِلَّا فِرَارًا"
 translation: "And when a faction of them said, 'O people of Yathrib, there is no standing for you here, so return.' And a group of them asked permission of the Prophet, saying, 'Indeed, our houses are exposed' — while they were not exposed. They wanted nothing but flight."
 word_count: 4350
 estimated_duration: "48-55 minutes"

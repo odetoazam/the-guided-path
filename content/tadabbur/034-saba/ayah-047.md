@@ -6,7 +6,7 @@ ayah_end: 47
 title: "What I Asked of You Is Yours: The Economy That Makes Truth Free"
 slug: "034-047"
 category: tadabbur
-arabic: "قُلْ مَا سَأَلْتُكُم مِّنْ أَجْرٍ فَهُوَ لَكُمْ ۖ إِنْ أَجْرِيَ إِلَّا عَلَى ٱللَّهِ ۖ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ شَهِيدٌ"
+arabic: "قُلْ مَا سَأَلْتُكُم مِّنْ أَجْرٍ فَهُوَ لَكُمْ ۖ إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ ۖ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ شَهِيدٌ"
 translation: "Say: Whatever payment I may have asked of you — it is yours. My payment is upon none but Allah. And He is, over all things, a Witness."
 word_count: 17
 estimated_duration: "50-55 minutes"

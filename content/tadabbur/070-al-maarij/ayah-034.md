@@ -6,7 +6,7 @@ ayah_end: 34
 title: "Guarding the Prayer That Guards You: The Last Word on Who Is Saved"
 slug: "070-034"
 category: tadabbur
-arabic: "وَٱلَّذِينَ هُمْ عَلَىٰ صَلَاتِهِمْ يُحَافِظُونَ"
+arabic: "وَٱلَّذِينَ هُمْ عَلَىٰ صَلَاتِهِمْ يُحَافِظُونَ"
 translation: "And those who guard their prayer."
 word_count: 6600
 estimated_duration: "50-58 minutes"

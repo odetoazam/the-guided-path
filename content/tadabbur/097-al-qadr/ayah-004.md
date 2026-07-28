@@ -6,7 +6,7 @@ ayah_end: 4
 title: "The Night That Descends to You: Heaven's Traffic Reversed on Laylat al-Qadr"
 slug: "097-004"
 category: tadabbur
-arabic: "تَنَزَّلُ ٱلْمَلَـٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن كُلِّ أَمْرٍ"
+arabic: "تَنَزَّلُ ٱلْمَلَـٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن كُلِّ أَمْرٍ"
 translation: "The angels and the Spirit descend therein, by the permission of their Lord, for every affair."
 word_count: 9
 estimated_duration: "50-58 minutes"

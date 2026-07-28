@@ -6,7 +6,7 @@ ayah_end: 41
 title: "The Grip That Holds the World — and Why"
 slug: "035-041"
 category: tadabbur
-arabic: "۞ إِنَّ ٱللَّهَ يُمْسِكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ أَن تَزُولَا ۚ وَلَئِن زَالَتَآ إِنْ أَمْسَكَهُمَا مِنْ أَحَدٍ مِّنۢ بَعْدِهِۦٓ ۚ إِنَّهُۥ كَانَ حَلِيمًا غَفُورًا"
+arabic: "۞ إِنَّ ٱللَّهَ يُمْسِكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ أَن تَزُولَا ۚ وَلَئِن زَالَتَآ إِنْ أَمْسَكَهُمَا مِنْ أَحَدٍ مِّنۢ بَعْدِهِۦٓ ۚ إِنَّهُۥ كَانَ حَلِيمًا غَفُورًا"
 translation: "Indeed, Allah holds the heavens and the earth, lest they slip away. And if they were to slip, none could hold them after Him. Indeed, He has always been Forbearing, Forgiving."
 word_count: 7800
 estimated_duration: "52-58 minutes"

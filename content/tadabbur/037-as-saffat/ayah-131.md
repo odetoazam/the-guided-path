@@ -6,7 +6,7 @@ ayah_end: 131
 title: "The Name That Disappears: How a Single Servant Becomes an Open Door"
 slug: "037-131"
 category: tadabbur
-arabic: "إِنَّا كَذَٰلِكَ نَجْزِي ٱلْمُحْسِنِينَ"
+arabic: "إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ"
 translation: "Indeed, thus do We reward the doers of beautiful good."
 word_count: 4
 estimated_duration: "48-56 minutes"

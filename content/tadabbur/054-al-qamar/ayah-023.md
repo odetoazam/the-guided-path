@@ -6,7 +6,7 @@ ayah_end: 23
 title: "The Labor of Denial: How Thamud Worked to Unhear a Warning"
 slug: "054-023"
 category: tadabbur
-arabic: "كَذَّبَتْ ثَمُودُ بِٱلنُّذُرِ"
+arabic: "كَذَّبَتْ ثَمُودُ بِٱلنُّذُرِ"
 translation: "Thamud denied the warnings."
 word_count: 5200
 estimated_duration: "48-55 minutes"

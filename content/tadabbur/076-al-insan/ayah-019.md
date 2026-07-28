@@ -6,7 +6,7 @@ ayah_end: 19
 title: "The Servers Who Circle: When Service Becomes a Crown"
 slug: "076-019"
 category: tadabbur
-arabic: "وَيَطُوفُ عَلَيْهِمْ وِلْدَٰنٌ مُّخَلَّدُونَ إِذَا رَأَيْتَهُمْ حَسِبْتَهُمْ لُؤْلُؤًا مَّنثُورًا"
+arabic: "۞ وَيَطُوفُ عَلَيْهِمْ وِلْدَٰنٌ مُّخَلَّدُونَ إِذَا رَأَيْتَهُمْ حَسِبْتَهُمْ لُؤْلُؤًا مَّنثُورًا"
 translation: "And there will circulate among them eternal youths. When you see them, you would think them scattered pearls."
 word_count: 9
 estimated_duration: "48-59 minutes"

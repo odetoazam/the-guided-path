@@ -6,7 +6,7 @@ ayah_end: 28
 title: "The Parable You Already Live: How Allah Holds Up Your Own Life as the Mirror"
 slug: "030-028"
 category: tadabbur
-arabic: "ضَرَبَ لَكُم مَّثَلًا مِّنْ أَنفُسِكُمْ ۖ هَل لَّكُم مِّن مَّا مَلَكَتْ أَيْمَانُكُم مِّن شُرَكَاءَ فِي مَا رَزَقْنَاكُمْ فَأَنتُمْ فِيهِ سَوَاءٌ تَخَافُونَهُمْ كَخِيفَتِكُمْ أَنفُسَكُمْ ۚ كَذَٰلِكَ نُفَصِّلُ الْآيَاتِ لِقَوْمٍ يَعْقِلُونَ"
+arabic: "ضَرَبَ لَكُم مَّثَلًا مِّنْ أَنفُسِكُمْ ۖ هَل لَّكُم مِّن مَّا مَلَكَتْ أَيْمَـٰنُكُم مِّن شُرَكَآءَ فِى مَا رَزَقْنَـٰكُمْ فَأَنتُمْ فِيهِ سَوَآءٌ تَخَافُونَهُمْ كَخِيفَتِكُمْ أَنفُسَكُمْ ۚ كَذَٰلِكَ نُفَصِّلُ ٱلْـَٔايَـٰتِ لِقَوْمٍ يَعْقِلُونَ"
 translation: "He sets forth for you a parable from your own selves: do you have, among those whom your right hands possess, any partners in what We have provided for you, so that you are equal in it — you fearing them as you fear yourselves? Thus do We detail the signs for a people who use their reason."
 word_count: 38
 estimated_duration: "50-55 minutes"

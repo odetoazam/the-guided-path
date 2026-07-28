@@ -6,7 +6,7 @@ ayah_end: 42
 title: "To Swim Through the Day: The Morning and Evening Tasbih That Holds the Waking Hours"
 slug: "033-042"
 category: tadabbur
-arabic: "وَسَبِّحُوهُ بُكْرَةً وَأَصِيلاً"
+arabic: "وَسَبِّحُوهُ بُكْرَةً وَأَصِيلًا"
 translation: "And glorify Him — morning and evening."
 word_count: 4100
 estimated_duration: "48-56 minutes"

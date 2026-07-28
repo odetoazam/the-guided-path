@@ -6,7 +6,7 @@ ayah_end: 4
 title: "What the Earth Takes Is Already Counted"
 slug: "050-004"
 category: tadabbur
-arabic: "قَدْ عَلِمْنَا مَا تَنقُصُ ٱلْأَرْضُ مِنْهُمْ ۖ وَعِندَنَا كِتَـٰبٌ حَفِيظٌ"
+arabic: "قَدْ عَلِمْنَا مَا تَنقُصُ ٱلْأَرْضُ مِنْهُمْ ۖ وَعِندَنَا كِتَـٰبٌ حَفِيظٌۢ"
 translation: "Certainly We know what the earth diminishes of them, and with Us is a guarded Book."
 word_count: 7000
 estimated_duration: "50-58 minutes"

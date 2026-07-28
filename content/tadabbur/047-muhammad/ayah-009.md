@@ -6,7 +6,7 @@ ayah_end: 9
 title: "The Aversion Before the Argument: Why the Heart Rejects Before the Mind"
 slug: "047-009"
 category: tadabbur
-arabic: "ذَٰلِكَ بِأَنَّهُمْ كَرِهُوا۟ مَآ أَنزَلَ ٱللَّهُ فَأَحْبَطَ أَعْمَٰلَهُمْ"
+arabic: "ذَٰلِكَ بِأَنَّهُمْ كَرِهُوا۟ مَآ أَنزَلَ ٱللَّهُ فَأَحْبَطَ أَعْمَـٰلَهُمْ"
 translation: "That is because they hated what Allah has revealed, so He rendered their deeds worthless."
 word_count: 7
 estimated_duration: "50-58 minutes"

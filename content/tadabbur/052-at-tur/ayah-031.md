@@ -6,7 +6,7 @@ ayah_end: 31
 title: "The Same Word for Both Sides: When Mockery Becomes a Countdown"
 slug: "052-031"
 category: tadabbur
-arabic: "قُلْ تَرَبَّصُوا۟ فَإِنِّى مَعَكُم مِّنَ ٱلْمُتَرَبِّصِينَ"
+arabic: "قُلْ تَرَبَّصُوا۟ فَإِنِّى مَعَكُم مِّنَ ٱلْمُتَرَبِّصِينَ"
 translation: "Say, \"Wait — for indeed I am, with you, among those who wait.\""
 word_count: 5600
 estimated_duration: "50-58 minutes"

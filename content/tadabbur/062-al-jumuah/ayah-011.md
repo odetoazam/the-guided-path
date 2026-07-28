@@ -6,7 +6,7 @@ ayah_end: 11
 title: "Left Standing: The Scattering Toward the Seen and the Unnamed Better"
 slug: "062-011"
 category: tadabbur
-arabic: "وَإِذَا رَأَوْا تِجَارَةً أَوْ لَهْوًا انفَضُّوٓا۟ إِلَيْهَا وَتَرَكُوكَ قَآئِمًا ۚ قُلْ مَا عِندَ ٱللَّهِ خَيْرٌ مِّنَ ٱللَّهْوِ وَمِنَ ٱلتِّجَـٰرَةِ ۚ وَٱللَّهُ خَيْرُ ٱلرَّٰزِقِينَ"
+arabic: "وَإِذَا رَأَوْا۟ تِجَـٰرَةً أَوْ لَهْوًا ٱنفَضُّوٓا۟ إِلَيْهَا وَتَرَكُوكَ قَآئِمًا ۚ قُلْ مَا عِندَ ٱللَّهِ خَيْرٌ مِّنَ ٱللَّهْوِ وَمِنَ ٱلتِّجَـٰرَةِ ۚ وَٱللَّهُ خَيْرُ ٱلرَّٰزِقِينَ"
 translation: "And when they saw a transaction or an amusement, they scattered off toward it and left you standing. Say: 'What is with Allah is better than amusement and than transaction. And Allah is the best of providers.'"
 word_count: 23
 estimated_duration: "50-58 minutes"

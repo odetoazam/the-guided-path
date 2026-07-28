@@ -6,7 +6,7 @@ ayah_end: 20
 title: "The Posture of the Secure: How Allah Describes Paradise by the Way the Body Finally Rests"
 slug: "052-020"
 category: tadabbur
-arabic: "مُتَّكِئِينَ عَلَىٰ سُرُرٍ مَّصْفُوفَةٍ ۖ وَزَوَّجْنَاهُم بِحُورٍ عِينٍ"
+arabic: "مُتَّكِـِٔينَ عَلَىٰ سُرُرٍ مَّصْفُوفَةٍ ۖ وَزَوَّجْنَـٰهُم بِحُورٍ عِينٍ"
 translation: "Reclining on thrones arranged in rows, and We will pair them with pure companions of beautiful, wide eyes."
 word_count: 6600
 estimated_duration: "50-58 minutes"

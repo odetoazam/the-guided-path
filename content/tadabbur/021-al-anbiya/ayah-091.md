@@ -6,7 +6,7 @@ ayah_end: 91
 title: "The Fortress Before the Breath: Maryam, Her Son, and the Singular Sign"
 slug: "021-091"
 category: tadabbur
-arabic: "وَالَّتِىٓ أَحْصَنَتْ فَرْجَهَا فَنَفَخْنَا فِيهَا مِن رُّوحِنَا وَجَعَلْنَـٰهَا وَٱبْنَهَآ ءَايَةًۭ لِّلْعَـٰلَمِينَ"
+arabic: "وَٱلَّتِىٓ أَحْصَنَتْ فَرْجَهَا فَنَفَخْنَا فِيهَا مِن رُّوحِنَا وَجَعَلْنَـٰهَا وَٱبْنَهَآ ءَايَةً لِّلْعَـٰلَمِينَ"
 translation: "And [mention] she who guarded her chastity, so We breathed into her of Our spirit, and We made her and her son a sign for the worlds."
 word_count: 9
 estimated_duration: "50-58 minutes"

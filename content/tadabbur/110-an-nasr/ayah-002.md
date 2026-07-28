@@ -6,7 +6,7 @@ ayah_end: 2
 title: "Standing at the Shore: When Divine Help Arrives, Guidance Comes in Waves"
 slug: "110-002"
 category: tadabbur
-arabic: "وَرَأَيْتَ ٱلنَّاسَ يَدْخُلُونَ فِى دِينِ ٱللَّهِ أَفْوَاجًا"
+arabic: "وَرَأَيْتَ ٱلنَّاسَ يَدْخُلُونَ فِى دِينِ ٱللَّهِ أَفْوَاجًا"
 translation: "And you see the people entering into the religion of Allah in multitudes."
 word_count: 5400
 estimated_duration: "48-57 minutes"

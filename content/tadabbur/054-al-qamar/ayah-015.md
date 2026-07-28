@@ -6,7 +6,7 @@ ayah_end: 15
 title: "The Monument That Asks a Question"
 slug: "054-015"
 category: tadabbur
-arabic: "وَلَقَد تَّرَكْنَـٰهَآ ءَايَةً فَهَلْ مِن مُّدَّكِرٍ"
+arabic: "وَلَقَد تَّرَكْنَـٰهَآ ءَايَةً فَهَلْ مِن مُّدَّكِرٍ"
 translation: "And We certainly left it behind as a sign — so is there anyone who will remember?"
 word_count: 6300
 estimated_duration: "50-58 minutes"

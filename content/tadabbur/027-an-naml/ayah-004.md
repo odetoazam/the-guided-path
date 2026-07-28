@@ -6,7 +6,7 @@ ayah_end: 4
 title: "When the Punishment Is the Beauty of the Path"
 slug: "027-004"
 category: tadabbur
-arabic: "إِنَّ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْءَاخِرَةِ زَيَّنَّا لَهُمْ أَعْمَـٰلَهُمْ فَهُمْ يَعْمَهُونَ"
+arabic: "إِنَّ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْـَٔاخِرَةِ زَيَّنَّا لَهُمْ أَعْمَـٰلَهُمْ فَهُمْ يَعْمَهُونَ"
 translation: "Indeed, those who do not believe in the Hereafter — We have made their deeds seem beautiful to them, so they wander blindly."
 word_count: 11
 estimated_duration: "50-58 minutes"

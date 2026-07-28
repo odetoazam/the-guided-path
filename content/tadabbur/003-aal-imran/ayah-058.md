@@ -6,7 +6,7 @@ ayah_end: 58
 title: "That Which We Recite: The Wise Reminder That Settles What Cannot Be Settled"
 slug: "003-058"
 category: tadabbur
-arabic: "ذَٰلِكَ نَتْلُوهُ عَلَيْكَ مِنَ ٱلْءَايَٰتِ وَٱلذِّكْرِ ٱلْحَكِيمِ"
+arabic: "ذَٰلِكَ نَتْلُوهُ عَلَيْكَ مِنَ ٱلْـَٔايَـٰتِ وَٱلذِّكْرِ ٱلْحَكِيمِ"
 translation: "That is what We recite to you of the verses and the wise reminder."
 word_count: 7
 estimated_duration: "50-58 minutes"

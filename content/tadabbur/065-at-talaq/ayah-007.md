@@ -6,7 +6,7 @@ ayah_end: 7
 title: "Spend From Your Spaciousness: When God Measures the Burden to the Gift"
 slug: "065-007"
 category: tadabbur
-arabic: "لِيُنفِقْ ذُو سَعَةٍ مِّن سَعَتِهِۦ ۖ وَمَن قُدِرَ عَلَيْهِ رِزْقُهُۥ فَلْيُنفِقْ مِمَّآ ءَاتَىٰهُ ٱللَّهُ ۚ لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا مَآ ءَاتَىٰهَا ۚ سَيَجْعَلُ ٱللَّهُ بَعْدَ عُسْرٍ يُسْرًا"
+arabic: "لِيُنفِقْ ذُو سَعَةٍ مِّن سَعَتِهِۦ ۖ وَمَن قُدِرَ عَلَيْهِ رِزْقُهُۥ فَلْيُنفِقْ مِمَّآ ءَاتَىٰهُ ٱللَّهُ ۚ لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا مَآ ءَاتَىٰهَا ۚ سَيَجْعَلُ ٱللَّهُ بَعْدَ عُسْرٍ يُسْرًا"
 translation: "Let the one of ample means spend from his ample means; and whoever has his provision restricted — let him spend from what Allah has given him. Allah does not burden any soul except with what He has given it. Allah will bring about, after hardship, ease."
 word_count: 8200
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 43
 title: "The Cover and the Resolve: When Restraint Becomes the Strongest Thing You Do"
 slug: "042-043"
 category: tadabbur
-arabic: "وَلَمَن صَبَرَ وَغَفَرَ إِنَّ ذَٰلِكَ لَمِنْ عَزْمِ ٱلْأُمُورِ"
+arabic: "وَلَمَن صَبَرَ وَغَفَرَ إِنَّ ذَٰلِكَ لَمِنْ عَزْمِ ٱلْأُمُورِ"
 translation: "And whoever is patient and forgives — indeed, that is of the matters of firm resolve."
 word_count: 7
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 31
 title: "When the Answer Is Not Removal but Sufficiency"
 slug: "025-031"
 category: tadabbur
-arabic: "وَكَذَٰلِكَ جَعَلْنَا لِكُلِّ نَبِيٍّ عَدُوًّا مِّنَ ٱلْمُجْرِمِينَ ۗ وَكَفَىٰ بِرَبِّكَ هَادِيًا وَنَصِيرًا"
+arabic: "وَكَذَٰلِكَ جَعَلْنَا لِكُلِّ نَبِىٍّ عَدُوًّا مِّنَ ٱلْمُجْرِمِينَ ۗ وَكَفَىٰ بِرَبِّكَ هَادِيًا وَنَصِيرًا"
 translation: "And thus We have appointed for every prophet an enemy from among the criminals. But sufficient is your Lord as a Guide and a Helper."
 word_count: 11
 estimated_duration: "50-58 minutes"

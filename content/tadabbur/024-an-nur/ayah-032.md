@@ -6,7 +6,7 @@ ayah_end: 32
 title: "Marry Them Off: The Causative Command and the Promise That Answers Fear"
 slug: "024-032"
 category: tadabbur
-arabic: "وَأَنكِحُوا۟ ٱلْأَيَـٰمَىٰ مِنكُمْ وَٱلصَّـٰلِحِينَ مِنْ عِبَادِكُمْ وَإِمَآئِكُمْ ۚ إِن يَكُونُوا۟ فُقَرَآءَ يُغْنِهِمُ ٱللَّهُ مِن فَضْلِهِۦ ۗ وَٱللَّهُ وَٰسِعٌ عَلِيمٌ"
+arabic: "وَأَنكِحُوا۟ ٱلْأَيَـٰمَىٰ مِنكُمْ وَٱلصَّـٰلِحِينَ مِنْ عِبَادِكُمْ وَإِمَآئِكُمْ ۚ إِن يَكُونُوا۟ فُقَرَآءَ يُغْنِهِمُ ٱللَّهُ مِن فَضْلِهِۦ ۗ وَٱللَّهُ وَٰسِعٌ عَلِيمٌ"
 translation: "And marry off the unmarried among you, and the righteous among your male and female servants. If they are poor, Allah will enrich them from His bounty. And Allah is vast, all-knowing."
 word_count: 650
 estimated_duration: "48-54 minutes"

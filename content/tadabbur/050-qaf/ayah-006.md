@@ -6,7 +6,7 @@ ayah_end: 6
 title: "The Sky Above You Has No Cracks"
 slug: "050-006"
 category: tadabbur
-arabic: "أَفَلَمْ يَنظُرُوٓا۟ إِلَى ٱلسَّمَآءِ فَوْقَهُمْ كَيْفَ بَنَيْنَٰهَا وَزَيَّنَّٰهَا وَمَا لَهَا مِن فُرُوجٍ"
+arabic: "أَفَلَمْ يَنظُرُوٓا۟ إِلَى ٱلسَّمَآءِ فَوْقَهُمْ كَيْفَ بَنَيْنَـٰهَا وَزَيَّنَّـٰهَا وَمَا لَهَا مِن فُرُوجٍ"
 translation: "Then have they not looked up at the sky above them — how We built it and adorned it, and it has not a single crack in it?"
 word_count: 11
 estimated_duration: "50-58 minutes"

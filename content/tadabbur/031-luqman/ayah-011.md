@@ -6,7 +6,7 @@ ayah_end: 11
 title: "The Challenge of the Empty Hands: When Allah Asks You to Look"
 slug: "031-011"
 category: tadabbur
-arabic: "هَٰذَا خَلْقُ ٱللَّهِ فَأَرُونِى مَاذَا خَلَقَ ٱلَّذِينَ مِن دُونِهِۦ ۚ بَلِ ٱلظَّٰلِمُونَ فِى ضَلَٰلٍ مُّبِينٍ"
+arabic: "هَـٰذَا خَلْقُ ٱللَّهِ فَأَرُونِى مَاذَا خَلَقَ ٱلَّذِينَ مِن دُونِهِۦ ۚ بَلِ ٱلظَّـٰلِمُونَ فِى ضَلَـٰلٍ مُّبِينٍ"
 translation: "This is the creation of Allah. So show me what those besides Him have created. Rather, the wrongdoers are in clear error."
 word_count: 14
 estimated_duration: "50-55 minutes"

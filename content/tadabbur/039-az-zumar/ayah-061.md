@@ -6,7 +6,7 @@ ayah_end: 61
 title: "The Desert Named for the Arrival: Taqwa, Deliverance, and the Two Sufferings Allah Seals Away"
 slug: "039-061"
 category: tadabbur
-arabic: "وَيُنَجِّى ٱللَّهُ ٱلَّذِينَ ٱتَّقَوْا بِمَفَازَتِهِمْ لَا يَمَسُّهُمُ ٱلسُّوٓءُ وَلَا هُمْ يَحْزَنُونَ"
+arabic: "وَيُنَجِّى ٱللَّهُ ٱلَّذِينَ ٱتَّقَوْا۟ بِمَفَازَتِهِمْ لَا يَمَسُّهُمُ ٱلسُّوٓءُ وَلَا هُمْ يَحْزَنُونَ"
 translation: "And Allah will deliver those who were mindful of Him to their place of triumph — no evil will touch them, nor will they grieve."
 word_count: 9
 estimated_duration: "50-58 minutes"

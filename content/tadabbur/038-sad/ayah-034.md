@@ -6,7 +6,7 @@ ayah_end: 34
 title: "The Body on the Throne: Power Emptied and the Servant Who Turned Back"
 slug: "038-034"
 category: tadabbur
-arabic: "وَلَقَدْ فَتَنَّا سُلَيْمَٰنَ وَأَلْقَيْنَا عَلَىٰ كُرْسِيِّهِۦ جَسَدًۭا ثُمَّ أَنَابَ"
+arabic: "وَلَقَدْ فَتَنَّا سُلَيْمَـٰنَ وَأَلْقَيْنَا عَلَىٰ كُرْسِيِّهِۦ جَسَدًا ثُمَّ أَنَابَ"
 translation: "And We had certainly tried Solomon, and We placed upon his throne a body; then he turned [to his Lord in repentance]."
 word_count: 9
 estimated_duration: "50-58 minutes"

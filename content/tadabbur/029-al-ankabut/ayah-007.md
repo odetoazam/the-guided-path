@@ -6,7 +6,7 @@ ayah_end: 7
 title: "Buried in His Mercy: The Divine Mathematics of the Covered Sin"
 slug: "029-007"
 category: tadabbur
-arabic: "وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَنُكَفِّرَنَّ عَنْهُمْ سَيِّئَاتِهِمْ وَلَنَجْزِيَنَّهُمْ أَحْسَنَ الَّذِي كَانُوا يَعْمَلُونَ"
+arabic: "وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَنُكَفِّرَنَّ عَنْهُمْ سَيِّـَٔاتِهِمْ وَلَنَجْزِيَنَّهُمْ أَحْسَنَ ٱلَّذِى كَانُوا۟ يَعْمَلُونَ"
 translation: "And those who believe and do righteous deeds — We will surely remove from them their misdeeds and will surely reward them according to the best of what they used to do."
 word_count: 4850
 estimated_duration: "48-56 minutes"

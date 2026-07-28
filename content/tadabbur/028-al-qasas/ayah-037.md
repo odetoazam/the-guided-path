@@ -6,7 +6,7 @@ ayah_end: 37
 title: "My Lord Knows Best — When the Argument Ends and the Verdict Begins"
 slug: "028-037"
 category: tadabbur
-arabic: "وَقَالَ مُوسَىٰ رَبِّى أَعْلَمُ بِمَن جَآءَ بِٱلْهُدَىٰ مِنْ عِندِهِۦ وَمَن تَكُونُ لَهُۥ عَـٰقِبَةُ ٱلدَّارِ ۖ إِنَّهُۥ لَا يُفْلِحُ ٱلظَّـٰلِمُونَ"
+arabic: "وَقَالَ مُوسَىٰ رَبِّىٓ أَعْلَمُ بِمَن جَآءَ بِٱلْهُدَىٰ مِنْ عِندِهِۦ وَمَن تَكُونُ لَهُۥ عَـٰقِبَةُ ٱلدَّارِ ۖ إِنَّهُۥ لَا يُفْلِحُ ٱلظَّـٰلِمُونَ"
 translation: "And Moses said, 'My Lord knows best who has come with guidance from Him and to whom belongs the final outcome of the Home. Indeed, the wrongdoers will not succeed.'"
 word_count: 22
 estimated_duration: "50-55 minutes"

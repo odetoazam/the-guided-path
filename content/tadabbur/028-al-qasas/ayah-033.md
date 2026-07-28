@@ -6,7 +6,7 @@ ayah_end: 33
 title: "The Confession Before the Mission: Musa's Honest Fear"
 slug: "028-033"
 category: tadabbur
-arabic: "قَالَ رَبِّ إِنِّى قَتَلْتُ مِنْهُمْ نَفْسًۭا فَأَخَافُ أَن يَقْتُلُونِ"
+arabic: "قَالَ رَبِّ إِنِّى قَتَلْتُ مِنْهُمْ نَفْسًا فَأَخَافُ أَن يَقْتُلُونِ"
 translation: "He said: My Lord, indeed I killed a soul among them, and I fear that they will kill me."
 word_count: 9
 estimated_duration: "48-55 minutes"

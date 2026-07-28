@@ -6,7 +6,7 @@ ayah_end: 17
 title: "The Discipline of the Disciplined: When Power Marches in Rank"
 slug: "027-017"
 category: tadabbur
-arabic: "وَحُشِرَ لِسُلَيْمَٰنَ جُنُودُهُۥ مِنَ ٱلْجِنِّ وَٱلْإِنسِ وَٱلطَّيْرِ فَهُمْ يُوزَعُونَ"
+arabic: "وَحُشِرَ لِسُلَيْمَـٰنَ جُنُودُهُۥ مِنَ ٱلْجِنِّ وَٱلْإِنسِ وَٱلطَّيْرِ فَهُمْ يُوزَعُونَ"
 translation: "And gathered for Sulaymān were his armies — of the jinn, of mankind, and of the birds — and they were held in disciplined ranks."
 word_count: 11
 estimated_duration: "50-55 minutes"

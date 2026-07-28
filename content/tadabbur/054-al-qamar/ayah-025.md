@@ -6,7 +6,7 @@ ayah_end: 25
 title: "Why Him, From Among Us? — The Anatomy of an Accusation"
 slug: "054-025"
 category: tadabbur
-arabic: "أَءُلْقِيَ ٱلذِّكْرُ عَلَيْهِ مِنۢ بَيْنِنَا بَلْ هُوَ كَذَّابٌ أَشِرٌ"
+arabic: "أَءُلْقِىَ ٱلذِّكْرُ عَلَيْهِ مِنۢ بَيْنِنَا بَلْ هُوَ كَذَّابٌ أَشِرٌ"
 translation: "Has the Reminder been cast upon him — from among all of us? No. He is a compulsive liar, drunk on himself."
 word_count: 6100
 estimated_duration: "50-58 minutes"

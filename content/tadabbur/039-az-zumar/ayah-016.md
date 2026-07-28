@@ -6,7 +6,7 @@ ayah_end: 16
 title: "The Shade That Burns: When the Warning Is the Embrace"
 slug: "039-016"
 category: tadabbur
-arabic: "لَهُم مِّن فَوْقِهِمْ ظُلَلٌ مِّنَ ٱلنَّارِ وَمِن تَحْتِهِمْ ظُلَلٌ ۚ ذَٰلِكَ يُخَوِّفُ ٱللَّهُ بِهِۦ عِبَادَهُۥ ۚ يَٰعِبَادِ فَٱتَّقُونِ"
+arabic: "لَهُم مِّن فَوْقِهِمْ ظُلَلٌ مِّنَ ٱلنَّارِ وَمِن تَحْتِهِمْ ظُلَلٌ ۚ ذَٰلِكَ يُخَوِّفُ ٱللَّهُ بِهِۦ عِبَادَهُۥ ۚ يَـٰعِبَادِ فَٱتَّقُونِ"
 translation: "They will have, above them, canopies of Fire, and beneath them, canopies. By this Allah strikes fear into His servants. O My servants, so be conscious of Me."
 word_count: 16
 estimated_duration: "50-58 minutes"

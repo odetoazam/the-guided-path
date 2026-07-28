@@ -6,7 +6,7 @@ ayah_end: 57
 title: "Faḍlan: When Everything You Earned Is Returned to You as a Gift"
 slug: "044-057"
 category: tadabbur
-arabic: "فَضْلًۭا مِّن رَّبِّكَ ۚ ذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ"
+arabic: "فَضْلًا مِّن رَّبِّكَ ۚ ذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ"
 translation: "A bounty from your Lord. That — that is the great triumph."
 word_count: 7
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 5
 title: "Calling a Number That Will Never Answer"
 slug: "046-005"
 category: tadabbur
-arabic: "وَمَنْ أَضَلُّ مِمَّن يَدْعُوا۟ مِن دُونِ ٱللَّهِ مَن لَّا يَسْتَجِيبُ لَهُۥٓ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ وَهُمْ عَن دُعَآئِهِمْ غَـٰفِلُونَ"
+arabic: "وَمَنْ أَضَلُّ مِمَّن يَدْعُوا۟ مِن دُونِ ٱللَّهِ مَن لَّا يَسْتَجِيبُ لَهُۥٓ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ وَهُمْ عَن دُعَآئِهِمْ غَـٰفِلُونَ"
 translation: "And who is more astray than one who calls upon, besides Allah, those that will not respond to him until the Day of Resurrection — and they are unaware of their calling?"
 word_count: 18
 estimated_duration: "48-59 minutes"

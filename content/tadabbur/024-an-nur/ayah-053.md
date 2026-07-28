@@ -6,7 +6,7 @@ ayah_end: 53
 title: "The Oath That Tries to Outrun the Heart"
 slug: "024-053"
 category: tadabbur
-arabic: "وَأَقْسَمُوا۟ بِٱللَّهِ جَهْدَ أَيْمَـٰنِهِمْ لَئِنْ أَمَرْتَهُمْ لَيَخْرُجُنَّ ۖ قُل لَّا تُقْسِمُوا۟ ۖ طَاعَةٌ مَّعْرُوفَةٌ ۚ إِنَّ ٱللَّهَ خَبِيرٌۢ بِمَا تَعْمَلُونَ"
+arabic: "۞ وَأَقْسَمُوا۟ بِٱللَّهِ جَهْدَ أَيْمَـٰنِهِمْ لَئِنْ أَمَرْتَهُمْ لَيَخْرُجُنَّ ۖ قُل لَّا تُقْسِمُوا۟ ۖ طَاعَةٌ مَّعْرُوفَةٌ ۚ إِنَّ ٱللَّهَ خَبِيرٌۢ بِمَا تَعْمَلُونَ"
 translation: "And they swore by Allah their strongest oaths that if you ordered them, they would surely go forth. Say: Do not swear. Obedience [that is] known [is what is required]. Indeed, Allah is fully aware of what you do."
 word_count: 18
 estimated_duration: "50-58 minutes"

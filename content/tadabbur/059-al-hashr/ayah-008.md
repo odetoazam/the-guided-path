@@ -6,7 +6,7 @@ ayah_end: 8
 title: "The Helpless Who Became the Helpers: When Loss Is Named Truth"
 slug: "059-008"
 category: tadabbur
-arabic: "لِلْفُقَرَآءِ ٱلْمُهَٰجِرِينَ ٱلَّذِينَ أُخْرِجُوا۟ مِن دِيَٰرِهِمْ وَأَمْوَٰلِهِمْ يَبْتَغُونَ فَضْلًا مِّنَ ٱللَّهِ وَرِضْوَٰنًا وَيَنصُرُونَ ٱللَّهَ وَرَسُولَهُۥٓ ۚ أُو۟لَٰٓئِكَ هُمُ ٱلصَّٰدِقُونَ"
+arabic: "لِلْفُقَرَآءِ ٱلْمُهَـٰجِرِينَ ٱلَّذِينَ أُخْرِجُوا۟ مِن دِيَـٰرِهِمْ وَأَمْوَٰلِهِمْ يَبْتَغُونَ فَضْلًا مِّنَ ٱللَّهِ وَرِضْوَٰنًا وَيَنصُرُونَ ٱللَّهَ وَرَسُولَهُۥٓ ۚ أُو۟لَـٰٓئِكَ هُمُ ٱلصَّـٰدِقُونَ"
 translation: "For the poor emigrants who were driven out of their homes and their properties, seeking bounty from Allah and His good pleasure, and helping Allah and His Messenger — those, they are the truthful."
 word_count: 18
 estimated_duration: "50-58 minutes"

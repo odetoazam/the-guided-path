@@ -6,7 +6,7 @@ ayah_end: 125
 title: "The Face You Hand Over: How a Man Became the Friend of God"
 slug: "004-125"
 category: tadabbur
-arabic: "وَمَنْ أَحْسَنُ دِينًا مِّمَّنْ أَسْلَمَ وَجْهَهُۥ لِلَّهِ وَهُوَ مُحْسِنٌ وَٱتَّبَعَ مِلَّةَ إِبْرَٰهِيمَ حَنِيفًا ۗ وَٱتَّخَذَ ٱللَّهُ إِبْرَٰهِيمَ خَلِيلًا"
+arabic: "وَمَنْ أَحْسَنُ دِينًا مِّمَّنْ أَسْلَمَ وَجْهَهُۥ لِلَّهِ وَهُوَ مُحْسِنٌ وَٱتَّبَعَ مِلَّةَ إِبْرَٰهِيمَ حَنِيفًا ۗ وَٱتَّخَذَ ٱللَّهُ إِبْرَٰهِيمَ خَلِيلًا"
 translation: "And who is better in religion than one who hands over his whole face to Allah while doing beautiful good, and follows the way of Ibrahim, leaning away from all else toward the truth? And Allah took Ibrahim as an intimate friend."
 word_count: 6100
 estimated_duration: "50-58 minutes"

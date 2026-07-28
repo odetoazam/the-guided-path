@@ -6,7 +6,7 @@ ayah_end: 4
 title: "The Blowers Upon Knots: When Breath Binds the Heart"
 slug: "113-004"
 category: tadabbur
-arabic: "وَمِن شَرِّ ٱلنَّفَّـٰثَـٰتِ فِى ٱلْعُقَدِ"
+arabic: "وَمِن شَرِّ ٱلنَّفَّـٰثَـٰتِ فِى ٱلْعُقَدِ"
 translation: "And from the evil of those who blow upon the knots,"
 word_count: 6
 estimated_duration: "50-58 minutes"

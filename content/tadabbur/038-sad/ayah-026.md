@@ -6,7 +6,7 @@ ayah_end: 26
 title: "The Tilt of Desire: How One Lean Away From Truth Becomes a Fall"
 slug: "038-026"
 category: tadabbur
-arabic: "يَٰدَاوُۥدُ إِنَّا جَعَلْنَٰكَ خَلِيفَةً فِى ٱلْأَرْضِ فَٱحْكُم بَيْنَ ٱلنَّاسِ بِٱلْحَقِّ وَلَا تَتَّبِعِ ٱلْهَوَىٰ فَيُضِلَّكَ عَن سَبِيلِ ٱللَّهِ ۚ إِنَّ ٱلَّذِينَ يَضِلُّونَ عَن سَبِيلِ ٱللَّهِ لَهُمْ عَذَابٌ شَدِيدٌۢ بِمَا نَسُوا۟ يَوْمَ ٱلْحِسَابِ"
+arabic: "يَـٰدَاوُۥدُ إِنَّا جَعَلْنَـٰكَ خَلِيفَةً فِى ٱلْأَرْضِ فَٱحْكُم بَيْنَ ٱلنَّاسِ بِٱلْحَقِّ وَلَا تَتَّبِعِ ٱلْهَوَىٰ فَيُضِلَّكَ عَن سَبِيلِ ٱللَّهِ ۚ إِنَّ ٱلَّذِينَ يَضِلُّونَ عَن سَبِيلِ ٱللَّهِ لَهُمْ عَذَابٌ شَدِيدٌۢ بِمَا نَسُوا۟ يَوْمَ ٱلْحِسَابِ"
 translation: "O Dawud, indeed We have made you a vicegerent upon the earth, so judge between people in truth and do not follow desire, for it will lead you astray from the way of Allah. Indeed, those who go astray from the way of Allah will have a severe punishment because they forgot the Day of Reckoning."
 word_count: 30
 estimated_duration: "50-58 minutes"

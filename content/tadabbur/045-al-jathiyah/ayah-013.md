@@ -6,7 +6,7 @@ ayah_end: 13
 title: "Everything, From Him: The Cosmos Pressed Into Your Service"
 slug: "045-013"
 category: tadabbur
-arabic: "وَسَخَّرَ لَكُم مَّا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ جَمِيعًا مِّنْهُ ۚ إِنَّ فِى ذَٰلِكَ لَءَايَـٰتٍ لِّقَوْمٍ يَتَفَكَّرُونَ"
+arabic: "وَسَخَّرَ لَكُم مَّا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ جَمِيعًا مِّنْهُ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّقَوْمٍ يَتَفَكَّرُونَ"
 translation: "And He has subjected to you whatever is in the heavens and whatever is in the earth — all of it, from Him. Indeed, in that are signs for a people who give thought."
 word_count: 1
 estimated_duration: "50-58 minutes"

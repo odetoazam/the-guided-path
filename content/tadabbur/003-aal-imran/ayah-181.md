@@ -6,7 +6,7 @@ ayah_end: 181
 title: "When Arrogance Tries to Invert Reality"
 slug: "003-181"
 category: tadabbur
-arabic: "لَّقَدْ سَمِعَ ٱللَّهُ قَوْلَ ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ فَقِيرٌ وَنَحْنُ أَغْنِيَآءُ ۘ سَنَكْتُبُ مَا قَالُوا۟ وَقَتْلَهُمُ ٱلْأَنۢبِيَآءَ بِغَيْرِ حَقٍّ وَنَقُولُ ذُوقُوا۟ عَذَابَ ٱلْحَرِيقِ"
+arabic: "لَّقَدْ سَمِعَ ٱللَّهُ قَوْلَ ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ فَقِيرٌ وَنَحْنُ أَغْنِيَآءُ ۘ سَنَكْتُبُ مَا قَالُوا۟ وَقَتْلَهُمُ ٱلْأَنۢبِيَآءَ بِغَيْرِ حَقٍّ وَنَقُولُ ذُوقُوا۟ عَذَابَ ٱلْحَرِيقِ"
 translation: "Allah has certainly heard the statement of those who said, 'Indeed Allah is poor while we are rich.' We will record what they said and their killing of the prophets without right, and We will say, 'Taste the punishment of the burning fire.'"
 word_count: null
 estimated_duration: "45-55 minutes"

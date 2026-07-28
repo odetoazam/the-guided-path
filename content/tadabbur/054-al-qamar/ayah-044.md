@@ -6,7 +6,7 @@ ayah_end: 44
 title: "One Hand, Scattered Backs: The Boast of the Crowd"
 slug: "054-044"
 category: tadabbur
-arabic: "أَمْ يَقُولُونَ نَحْنُ جَمِيعٌ مُّنتَصِرٌ"
+arabic: "أَمْ يَقُولُونَ نَحْنُ جَمِيعٌ مُّنتَصِرٌ"
 translation: "Or do they say, 'We are a united assembly, bound to prevail'?"
 word_count: 5400
 estimated_duration: "50-58 minutes"

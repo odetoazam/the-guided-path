@@ -6,7 +6,7 @@ ayah_end: 38
 title: "When the Decree of Allah Becomes a Measured Destiny"
 slug: "033-038"
 category: tadabbur
-arabic: "مَّا كَانَ عَلَى ٱلنَّبِىِّ مِنْ حَرَجٍۢ فِيمَا فَرَضَ ٱللَّهُ لَهُۥ ۖ سُنَّةَ ٱللَّهِ فِى ٱلَّذِينَ خَلَوْا۟ مِن قَبْلُ ۚ وَكَانَ أَمْرُ ٱللَّهِ قَدَرًۭا مَّقْدُورًۭا"
+arabic: "مَّا كَانَ عَلَى ٱلنَّبِىِّ مِنْ حَرَجٍ فِيمَا فَرَضَ ٱللَّهُ لَهُۥ ۖ سُنَّةَ ٱللَّهِ فِى ٱلَّذِينَ خَلَوْا۟ مِن قَبْلُ ۚ وَكَانَ أَمْرُ ٱللَّهِ قَدَرًا مَّقْدُورًا"
 translation: "There is no blame upon the Prophet for what Allah has ordained for him. This is the way of Allah with those who have passed on before. And the command of Allah is a destiny decreed."
 word_count: 22
 estimated_duration: "48-55 minutes"

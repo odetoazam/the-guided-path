@@ -6,7 +6,7 @@ ayah_end: 13
 title: "The Fire That Was Ready Before the Refusal: Tense, Naming, and the Cost of Standing Still"
 slug: "048-013"
 category: tadabbur
-arabic: "وَمَن لَّمْ يُؤْمِنۢ بِٱللَّهِ وَرَسُولِهِۦ فَإِنَّآ أَعْتَدْنَا لِلْكَٰفِرِينَ سَعِيرًا"
+arabic: "وَمَن لَّمْ يُؤْمِنۢ بِٱللَّهِ وَرَسُولِهِۦ فَإِنَّآ أَعْتَدْنَا لِلْكَـٰفِرِينَ سَعِيرًا"
 translation: "And whoever does not believe in Allah and His Messenger — then indeed We have prepared for the disbelievers a Blaze."
 word_count: 7200
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 34
 title: "The Doubt That Would Not Cease: When Skepticism Becomes a Verdict"
 slug: "040-034"
 category: tadabbur
-arabic: "وَلَقَدْ جَآءَكُمْ يُوسُفُ مِن قَبْلُ بِٱلْبَيِّنَٰتِ فَمَا زِلْتُمْ فِى شَكٍّ مِّمَّا جَآءَكُم بِهِۦ ۖ حَتَّىٰٓ إِذَا هَلَكَ قُلْتُمْ لَن يَبْعَثَ ٱللَّهُ مِنۢ بَعْدِهِۦ رَسُولًا ۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَنْ هُوَ مُسْرِفٌ مُّرْتَابٌ"
+arabic: "وَلَقَدْ جَآءَكُمْ يُوسُفُ مِن قَبْلُ بِٱلْبَيِّنَـٰتِ فَمَا زِلْتُمْ فِى شَكٍّ مِّمَّا جَآءَكُم بِهِۦ ۖ حَتَّىٰٓ إِذَا هَلَكَ قُلْتُمْ لَن يَبْعَثَ ٱللَّهُ مِنۢ بَعْدِهِۦ رَسُولًا ۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَنْ هُوَ مُسْرِفٌ مُّرْتَابٌ"
 translation: "And Yusuf had certainly come to you before with clear proofs, but you never ceased to be in doubt about what he brought you — until, when he died, you said, 'Never will Allah send a messenger after him.' Thus does Allah leave astray the one who is a transgressor, a doubter."
 word_count: 30
 estimated_duration: "50-58 minutes"

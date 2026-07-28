@@ -6,7 +6,7 @@ ayah_end: 50
 title: "The Word They Already Said: When Self-Made Becomes Self-Undone"
 slug: "039-050"
 category: tadabbur
-arabic: "قَدْ قَالَهَا ٱلَّذِينَ مِن قَبْلِهِمْ فَمَآ أَغْنَىٰ عَنْهُم مَّا كَانُوا۟ يَكْسِبُونَ"
+arabic: "قَدْ قَالَهَا ٱلَّذِينَ مِن قَبْلِهِمْ فَمَآ أَغْنَىٰ عَنْهُم مَّا كَانُوا۟ يَكْسِبُونَ"
 translation: "Those who came before them had already said it — but what they used to earn did not avail them in the least."
 word_count: 10
 estimated_duration: "50-58 minutes"

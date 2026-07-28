@@ -6,7 +6,7 @@ ayah_end: 32
 title: "When the Waves Become Canopies: The Theology of the Foxhole Prayer"
 slug: "031-032"
 category: tadabbur
-arabic: "وَإِذَا غَشِيَهُم مَّوْجٌ كَٱلظُّلَلِ دَعَوُا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ فَلَمَّا نَجَّىٰهُمْ إِلَى ٱلْبَرِّ فَمِنْهُم مُّقْتَصِدٌ ۚ وَمَا يَجْحَدُ بِـَٔايَـٰتِنَآ إِلَّا كُلُّ خَتَّارٍ كَفُورٍ"
+arabic: "وَإِذَا غَشِيَهُم مَّوْجٌ كَٱلظُّلَلِ دَعَوُا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ فَلَمَّا نَجَّىٰهُمْ إِلَى ٱلْبَرِّ فَمِنْهُم مُّقْتَصِدٌ ۚ وَمَا يَجْحَدُ بِـَٔايَـٰتِنَآ إِلَّا كُلُّ خَتَّارٍ كَفُورٍ"
 translation: "And when waves cover them like canopies, they call upon Allah, sincere to Him in religion. But when He delivers them to the land, some of them are moderate. And none rejects Our signs except every treacherous and ungrateful one."
 word_count: 28
 estimated_duration: "50-55 minutes"

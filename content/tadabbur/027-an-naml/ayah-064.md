@@ -6,7 +6,7 @@ ayah_end: 64
 title: "The Question That Cannot Be Answered: Five Acts Only One Can Do"
 slug: "027-064"
 category: tadabbur
-arabic: "أَمَّن يَبْدَؤُا۟ ٱلْخَلْقَ ثُمَّ يُعِيدُهُۥ وَمَن يَرْزُقُكُم مِّنَ ٱلسَّمَآءِ وَٱلْأَرْضِ ۗ أَءِلَـٰهٌ مَّعَ ٱللَّهِ ۚ قُلْ هَاتُوا۟ بُرْهَـٰنَكُمْ إِن كُنتُمْ صَـٰدِقِينَ"
+arabic: "أَمَّن يَبْدَؤُا۟ ٱلْخَلْقَ ثُمَّ يُعِيدُهُۥ وَمَن يَرْزُقُكُم مِّنَ ٱلسَّمَآءِ وَٱلْأَرْضِ ۗ أَءِلَـٰهٌ مَّعَ ٱللَّهِ ۚ قُلْ هَاتُوا۟ بُرْهَـٰنَكُمْ إِن كُنتُمْ صَـٰدِقِينَ"
 translation: "Or He who originates creation, then repeats it, and who provides for you from the sky and the earth? Is there a god alongside Allah? Say: Bring your proof, if you are truthful."
 word_count: 1450
 estimated_duration: "50-55 minutes"

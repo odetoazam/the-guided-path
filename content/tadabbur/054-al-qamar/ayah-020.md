@@ -6,7 +6,7 @@ ayah_end: 20
 title: "Uprooted from the Depths: When the Tallest Trees Fall"
 slug: "054-020"
 category: tadabbur
-arabic: "تَنزِعُ ٱلنَّاسَ كَأَنَّهُمْ أَعْجَازُ نَخْلٖ مُّنقَعِرٖ"
+arabic: "تَنزِعُ ٱلنَّاسَ كَأَنَّهُمْ أَعْجَازُ نَخْلٍ مُّنقَعِرٍ"
 translation: "It wrenched the people away, as if they were trunks of palm trees torn out from the root."
 word_count: 5400
 estimated_duration: "50-58 minutes"

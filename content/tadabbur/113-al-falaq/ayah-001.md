@@ -6,7 +6,7 @@ ayah_end: 1
 title: "The Lord of the Daybreak: Why Refuge Begins With Who, Not What"
 slug: "113-001"
 category: tadabbur
-arabic: "قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ"
+arabic: "قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ"
 translation: "Say, 'I seek refuge in the Lord of the daybreak —'"
 word_count: 6600
 estimated_duration: "50-58 minutes"

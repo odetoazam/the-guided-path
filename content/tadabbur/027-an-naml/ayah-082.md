@@ -6,7 +6,7 @@ ayah_end: 82
 title: "When the Earth Speaks: The Beast and the Closing of the Door of Belief"
 slug: "027-082"
 category: tadabbur
-arabic: "وَإِذَا وَقَعَ ٱلْقَوْلُ عَلَيْهِمْ أَخْرَجْنَا لَهُمْ دَآبَّةًۭ مِّنَ ٱلْأَرْضِ تُكَلِّمُهُمْ أَنَّ ٱلنَّاسَ كَانُوا۟ بِـَٔايَـٰتِنَا لَا يُوقِنُونَ"
+arabic: "۞ وَإِذَا وَقَعَ ٱلْقَوْلُ عَلَيْهِمْ أَخْرَجْنَا لَهُمْ دَآبَّةً مِّنَ ٱلْأَرْضِ تُكَلِّمُهُمْ أَنَّ ٱلنَّاسَ كَانُوا۟ بِـَٔايَـٰتِنَا لَا يُوقِنُونَ"
 translation: "And when the word befalls them, We will bring forth for them a creature from the earth that will speak to them — that the people had no certainty in Our signs."
 word_count: 19
 estimated_duration: "50-58 minutes"

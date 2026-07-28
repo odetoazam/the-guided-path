@@ -6,7 +6,7 @@ ayah_end: 13
 title: "The Return That Heals — How Allah Restores What Was Torn"
 slug: "028-013"
 category: tadabbur
-arabic: "فَرَدَدْنَٰهُ إِلَىٰٓ أُمِّهِۦ كَىْ تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ وَلِتَعْلَمَ أَنَّ وَعْدَ ٱللَّهِ حَقٌّ وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ"
+arabic: "فَرَدَدْنَـٰهُ إِلَىٰٓ أُمِّهِۦ كَىْ تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ وَلِتَعْلَمَ أَنَّ وَعْدَ ٱللَّهِ حَقٌّ وَلَـٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ"
 translation: "So We returned him to his mother, that her eye might be cooled and she would not grieve, and that she would know that the promise of Allah is true — but most of them do not know."
 word_count: 19
 estimated_duration: "50-55 minutes"

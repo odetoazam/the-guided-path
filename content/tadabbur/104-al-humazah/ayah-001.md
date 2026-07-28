@@ -6,7 +6,7 @@ ayah_end: 1
 title: "Woe to the One Who Has Become the Jab: The Character Behind the Cut"
 slug: "104-001"
 category: tadabbur
-arabic: "وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍ"
+arabic: "وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍ"
 translation: "Woe to every backbiter, every faultfinder."
 word_count: 4
 estimated_duration: "48-56 minutes"

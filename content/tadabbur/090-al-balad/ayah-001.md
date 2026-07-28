@@ -6,7 +6,7 @@ ayah_end: 1
 title: "By This: The Oath That Points Without Naming"
 slug: "090-001"
 category: tadabbur
-arabic: "لَآ أُقْسِمُ بِهَـٰذَا ٱلْبَلَدِ"
+arabic: "لَآ أُقْسِمُ بِهَـٰذَا ٱلْبَلَدِ"
 translation: "Nay — I swear by this city"
 word_count: 4850
 estimated_duration: "48-56 minutes"

@@ -6,7 +6,7 @@ ayah_end: 21
 slug: al-anam-21-who-is-more-unjust-two-directions-of-a-lie
 category: tadabbur
 title: "Who Is More Unjust — The Two Directions of a Single Lie (al-An'am 6:21)"
-arabic: "وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَىٰ عَلَى اللَّهِ كَذِبًا أَوْ كَذَّبَ بِآيَاتِهِ ۗ إِنَّهُ لَا يُفْلِحُ الظَّالِمُونَ"
+arabic: "وَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَوْ كَذَّبَ بِـَٔايَـٰتِهِۦٓ ۗ إِنَّهُۥ لَا يُفْلِحُ ٱلظَّـٰلِمُونَ"
 translation: "And who is more unjust than one who invents a lie about Allah, or denies His signs? Indeed, the wrongdoers will not succeed."
 estimated_duration: "50-58 minutes"
 passage_context: "Al-An'am is a Meccan surah revealed as a single unit, a sustained argument for tawḥīd against a people who had buried the One God under a crowd of invented intermediaries. Verses 19–24 press the case of witness and testimony: Allah is the greatest witness, the Qur'an a warning, and then — verse 21 — the verdict on the two ways a human being falsifies reality about God. It sits inside a courtroom the surah has been building for twenty verses."

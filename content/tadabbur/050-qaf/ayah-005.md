@@ -6,7 +6,7 @@ ayah_end: 5
 title: "The Floating Mind: When the Anchor Is Refused"
 slug: "050-005"
 category: tadabbur
-arabic: "بَلْ كَذَّبُوا۟ بِٱلْحَقِّ لَمَّا جَآءَهُمْ فَهُمْ فِىٓ أَمْرٍۢ مَّرِيجٍۢ"
+arabic: "بَلْ كَذَّبُوا۟ بِٱلْحَقِّ لَمَّا جَآءَهُمْ فَهُمْ فِىٓ أَمْرٍ مَّرِيجٍ"
 translation: "But they denied the truth when it came to them, so they are in a confused, unsettled state."
 word_count: 9
 estimated_duration: "50-58 minutes"

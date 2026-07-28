@@ -6,7 +6,7 @@ ayah_end: 54
 title: "The Linings Are of Brocade: What Allah Describes and What He Withholds"
 slug: "055-054"
 category: tadabbur
-arabic: "مُتَّكِئِينَ عَلَىٰ فُرُشٍ بَطَائِنُهَا مِنْ إِسْتَبْرَقٍ ۚ وَجَنَى ٱلْجَنَّتَيْنِ دَانٍ"
+arabic: "مُتَّكِـِٔينَ عَلَىٰ فُرُشٍۭ بَطَآئِنُهَا مِنْ إِسْتَبْرَقٍ ۚ وَجَنَى ٱلْجَنَّتَيْنِ دَانٍ"
 translation: "Reclining upon couches whose inner linings are of rich brocade — and the fruit of the two gardens hangs near."
 word_count: 4200
 estimated_duration: "50-58 minutes"

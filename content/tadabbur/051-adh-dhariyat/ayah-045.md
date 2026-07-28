@@ -6,7 +6,7 @@ ayah_end: 45
 title: "The Strength That Was Never Ours: When Standing Itself Is Withdrawn"
 slug: "051-045"
 category: tadabbur
-arabic: "فَمَا ٱسْتَطَـٰعُوا۟ مِن قِيَامٍۢ وَمَا كَانُوا۟ مُنتَصِرِينَ"
+arabic: "فَمَا ٱسْتَطَـٰعُوا۟ مِن قِيَامٍ وَمَا كَانُوا۟ مُنتَصِرِينَ"
 translation: "And they were not able to rise, nor could they defend themselves."
 word_count: 7
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 67
 title: "The Three Conditions That Open the Door of Hope"
 slug: "028-067"
 category: tadabbur
-arabic: "فَأَمَّا مَن تَابَ وَءَامَنَ وَعَمِلَ صَـٰلِحًۭا فَعَسَىٰٓ أَن يَكُونَ مِنَ ٱلْمُفْلِحِينَ"
+arabic: "فَأَمَّا مَن تَابَ وَءَامَنَ وَعَمِلَ صَـٰلِحًا فَعَسَىٰٓ أَن يَكُونَ مِنَ ٱلْمُفْلِحِينَ"
 translation: "But as for one who repented, believed, and did righteousness, it is promising that he will be among the successful."
 word_count: 11
 estimated_duration: "48-55 minutes"

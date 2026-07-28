@@ -6,7 +6,7 @@ ayah_end: 3
 title: "The Self That Would Destroy Itself for Their Sake"
 slug: "026-003"
 category: tadabbur
-arabic: "لَعَلَّكَ بَـٰخِعٌۭ نَّفْسَكَ أَلَّا يَكُونُوا۟ مُؤْمِنِينَ"
+arabic: "لَعَلَّكَ بَـٰخِعٌ نَّفْسَكَ أَلَّا يَكُونُوا۟ مُؤْمِنِينَ"
 translation: "Perhaps you would destroy yourself [with grief] that they will not be believers."
 word_count: 6
 estimated_duration: "48-55 minutes"

@@ -6,7 +6,7 @@ ayah_end: 7
 title: "Woe to the One Who Made Lying a Self: The Intensive Forms of Al-Jathiyah 45:7"
 slug: "045-007"
 category: tadabbur
-arabic: "وَيْلٌ لِّكُلِّ أَفَّاكٍ أَثِيمٍ"
+arabic: "وَيْلٌ لِّكُلِّ أَفَّاكٍ أَثِيمٍ"
 translation: "Woe to every habitual liar, deeply steeped in sin."
 word_count: 4
 estimated_duration: "48-56 minutes"

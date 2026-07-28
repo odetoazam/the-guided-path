@@ -6,7 +6,7 @@ ayah_end: 31
 title: "No Corner, No Cover: The Sealed Horizon of Divine Sovereignty"
 slug: "042-031"
 category: tadabbur
-arabic: "وَمَآ أَنتُم بِمُعْجِزِينَ فِى ٱلْأَرْضِ ۖ وَمَا لَكُم مِّن دُونِ ٱللَّهِ مِن وَلِىٍّ وَلَا نَصِيرٍ"
+arabic: "وَمَآ أَنتُم بِمُعْجِزِينَ فِى ٱلْأَرْضِ ۖ وَمَا لَكُم مِّن دُونِ ٱللَّهِ مِن وَلِىٍّ وَلَا نَصِيرٍ"
 translation: "And you cannot escape [Allah] on earth, nor do you have — besides Allah — any protector or helper."
 word_count: 4850
 estimated_duration: "48-55 minutes"

@@ -6,7 +6,7 @@ ayah_end: 22
 title: "Time After Time: The Continuous Provision and Uncapped Desire of Jannah"
 slug: "052-022"
 category: tadabbur
-arabic: "وَأَمْدَدْنَـٰهُم بِفَـٰكِهَةٍ وَلَحْمٍ مِّمَّا يَشْتَهُونَ"
+arabic: "وَأَمْدَدْنَـٰهُم بِفَـٰكِهَةٍ وَلَحْمٍ مِّمَّا يَشْتَهُونَ"
 translation: "And We will provide them with fruit and meat — from all that they desire."
 word_count: 4320
 estimated_duration: "52-58 minutes"

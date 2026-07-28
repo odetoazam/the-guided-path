@@ -6,7 +6,7 @@ ayah_end: 45
 title: "The Word That Holds Back the Verdict"
 slug: "041-045"
 category: tadabbur
-arabic: "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ فَٱخْتُلِفَ فِيهِ ۚ وَلَوْلَا كَلِمَةٌ سَبَقَتْ مِن رَّبِّكَ لَقُضِىَ بَيْنَهُمْ ۚ وَإِنَّهُمْ لَفِى شَكٍّ مِّنْهُ مُرِيبٍ"
+arabic: "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ فَٱخْتُلِفَ فِيهِ ۗ وَلَوْلَا كَلِمَةٌ سَبَقَتْ مِن رَّبِّكَ لَقُضِىَ بَيْنَهُمْ ۚ وَإِنَّهُمْ لَفِى شَكٍّ مِّنْهُ مُرِيبٍ"
 translation: "And We certainly gave Musa the Book, but it was disputed over. And were it not for a Word that had already gone ahead from your Lord, the matter between them would have been settled. And indeed they are in doubt about it — a doubt that keeps them doubting."
 word_count: 19
 estimated_duration: "50-58 minutes"

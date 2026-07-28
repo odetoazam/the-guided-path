@@ -6,7 +6,7 @@ ayah_end: 13
 title: "The Thrust Returns: When the Hand That Shoved Is Shoved"
 slug: "052-013"
 category: tadabbur
-arabic: "يَوْمَ يُدَعُّونَ إِلَىٰ نَارِ جَهَنَّمَ دَعًّا"
+arabic: "يَوْمَ يُدَعُّونَ إِلَىٰ نَارِ جَهَنَّمَ دَعًّا"
 translation: "The Day they will be thrust toward the Fire of Hell with a violent thrust."
 word_count: 6
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 38
 title: "The Race Against the Uncatchable"
 slug: "034-038"
 category: tadabbur
-arabic: "وَٱلَّذِينَ يَسْعَوْنَ فِىٓ ءَايَـٰتِنَا مُعَـٰجِزِينَ أُوْلَـٰٓئِكَ فِى ٱلْعَذَابِ مُحْضَرُونَ"
+arabic: "وَٱلَّذِينَ يَسْعَوْنَ فِىٓ ءَايَـٰتِنَا مُعَـٰجِزِينَ أُو۟لَـٰٓئِكَ فِى ٱلْعَذَابِ مُحْضَرُونَ"
 translation: "And those who strive against Our signs, seeking to cause them to fail — those will be brought into the punishment."
 word_count: 9
 estimated_duration: "48-55 minutes"

@@ -6,7 +6,7 @@ ayah_end: 75
 slug: "005-075"
 category: tadabbur
 title: "They Both Used to Eat Food: The Simplest Argument Against Divinity"
-arabic: "مَّا ٱلْمَسِيحُ ٱبْنُ مَرْيَمَ إِلَّا رَسُولٌ قَدْ خَلَتْ مِن قَبْلِهِ ٱلرُّسُلُ وَأُمُّهُۥ صِدِّيقَةٌ ۖ كَانَا يَأْكُلَانِ ٱلطَّعَامَ ۗ ٱنظُرْ كَيْفَ نُبَيِّنُ لَهُمُ ٱلْـَٔايَـٰتِ ثُمَّ ٱنظُرْ أَنَّىٰ يُؤْفَكُونَ"
+arabic: "مَّا ٱلْمَسِيحُ ٱبْنُ مَرْيَمَ إِلَّا رَسُولٌ قَدْ خَلَتْ مِن قَبْلِهِ ٱلرُّسُلُ وَأُمُّهُۥ صِدِّيقَةٌ ۖ كَانَا يَأْكُلَانِ ٱلطَّعَامَ ۗ ٱنظُرْ كَيْفَ نُبَيِّنُ لَهُمُ ٱلْـَٔايَـٰتِ ثُمَّ ٱنظُرْ أَنَّىٰ يُؤْفَكُونَ"
 translation: "The Messiah, son of Maryam, was nothing but a messenger — messengers had passed before him. And his mother was a woman of supreme truthfulness. They both used to eat food. Look at how We make the signs clear to them — then look at how they are deluded."
 word_count: null
 estimated_duration: "48-55 minutes"

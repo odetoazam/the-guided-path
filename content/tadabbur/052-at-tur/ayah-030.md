@@ -6,7 +6,7 @@ ayah_end: 30
 title: "The Doubt They Threw at His Death: Waiting, Poets, and the Severer of Days"
 slug: "052-030"
 category: tadabbur
-arabic: "أَمْ يَقُولُونَ شَاعِرٌ نَّتَرَبَّصُ بِهِۦ رَيْبَ ٱلْمَنُونِ"
+arabic: "أَمْ يَقُولُونَ شَاعِرٌ نَّتَرَبَّصُ بِهِۦ رَيْبَ ٱلْمَنُونِ"
 translation: "Or do they say, 'He is a poet — we await for him the calamity of time'?"
 word_count: 7
 estimated_duration: "50-58 minutes"

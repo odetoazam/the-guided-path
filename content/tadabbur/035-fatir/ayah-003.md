@@ -6,7 +6,7 @@ ayah_end: 3
 title: "Is There Any Other? The Creator Who Never Stops Feeding You"
 slug: "035-003"
 category: tadabbur
-arabic: "يَـٰٓأَيُّهَا ٱلنَّاسُ ٱذْكُرُوا۟ نِعْمَتَ ٱللَّهِ عَلَيْكُمْ ۚ هَلْ مِنْ خَـٰلِقٍ غَيْرُ ٱللَّهِ يَرْزُقُكُم مِّنَ ٱلسَّمَآءِ وَٱلْأَرْضِ ۚ لَآ إِلَـٰهَ إِلَّا هُوَ ۖ فَأَنَّىٰ تُؤْفَكُونَ"
+arabic: "يَـٰٓأَيُّهَا ٱلنَّاسُ ٱذْكُرُوا۟ نِعْمَتَ ٱللَّهِ عَلَيْكُمْ ۚ هَلْ مِنْ خَـٰلِقٍ غَيْرُ ٱللَّهِ يَرْزُقُكُم مِّنَ ٱلسَّمَآءِ وَٱلْأَرْضِ ۚ لَآ إِلَـٰهَ إِلَّا هُوَ ۖ فَأَنَّىٰ تُؤْفَكُونَ"
 translation: "O mankind! Remember the favor of Allah upon you. Is there any creator other than Allah who provides for you from the sky and the earth? There is no god but He. Then how are you deluded?"
 word_count: 21
 estimated_duration: "50-58 minutes"

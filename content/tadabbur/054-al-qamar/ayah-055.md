@@ -6,7 +6,7 @@ ayah_end: 55
 title: "The Seat of Truth: When the Surah of Destruction Ends in Nearness"
 slug: "054-055"
 category: tadabbur
-arabic: "فِى مَقْعَدِ صِدْقٍ عِندَ مَلِيكٍ مُّقْتَدِرٍۭ"
+arabic: "فِى مَقْعَدِ صِدْقٍ عِندَ مَلِيكٍ مُّقْتَدِرٍۭ"
 translation: "In a seat of truth, in the nearness of a King, All-Powerful."
 word_count: 5800
 estimated_duration: "48-55 minutes"

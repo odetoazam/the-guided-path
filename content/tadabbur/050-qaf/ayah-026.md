@@ -6,7 +6,7 @@ ayah_end: 26
 title: "The Crime of 'With': Why It Is the Escort Who Casts You In"
 slug: "050-026"
 category: tadabbur
-arabic: "ٱلَّذِى جَعَلَ مَعَ ٱللَّهِ إِلَـٰهًا ءَاخَرَ فَأَلْقِيَاهُ فِى ٱلْعَذَابِ ٱلشَّدِيدِ"
+arabic: "ٱلَّذِى جَعَلَ مَعَ ٱللَّهِ إِلَـٰهًا ءَاخَرَ فَأَلْقِيَاهُ فِى ٱلْعَذَابِ ٱلشَّدِيدِ"
 translation: "the one who set up alongside Allah another god — so cast him, you two, into the severe punishment."
 word_count: 10
 estimated_duration: "48-58 minutes"

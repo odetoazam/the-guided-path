@@ -6,7 +6,7 @@ ayah_end: 49
 title: "The Word That Failed the Test: How We Credit Ourselves for What We Were Given"
 slug: "039-049"
 category: tadabbur
-arabic: "فَإِذَا مَسَّ ٱلْإِنسَـٰنَ ضُرٌّ دَعَانَا ثُمَّ إِذَا خَوَّلْنَـٰهُ نِعْمَةً مِّنَّا قَالَ إِنَّمَآ أُوتِيتُهُۥ عَلَىٰ عِلْمٍۭ ۚ بَلْ هِىَ فِتْنَةٌ وَلَـٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ"
+arabic: "فَإِذَا مَسَّ ٱلْإِنسَـٰنَ ضُرٌّ دَعَانَا ثُمَّ إِذَا خَوَّلْنَـٰهُ نِعْمَةً مِّنَّا قَالَ إِنَّمَآ أُوتِيتُهُۥ عَلَىٰ عِلْمٍۭ ۚ بَلْ هِىَ فِتْنَةٌ وَلَـٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ"
 translation: "So when adversity touches man, he calls upon Us; then when We bestow on him a favor from Us, he says, 'I have only been given it because of knowledge.' Rather, it is a trial, but most of them do not know."
 word_count: 5400
 estimated_duration: "50-58 minutes"

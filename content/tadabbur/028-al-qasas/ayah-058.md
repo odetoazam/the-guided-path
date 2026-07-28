@@ -6,7 +6,7 @@ ayah_end: 58
 title: "The Cities That Forgot They Were Guests"
 slug: "028-058"
 category: tadabbur
-arabic: "وَكَمْ أَهْلَكْنَا مِن قَرْيَةٍۭ بَطِرَتْ مَعِيشَتَهَا ۖ فَتِلْكَ مَسَـٰكِنُهُمْ لَمْ تُسْكَن مِّنۢ بَعْدِهِمْ إِلَّا قَلِيلًا ۖ وَكُنَّا نَحْنُ ٱلْوَٰرِثِينَ"
+arabic: "وَكَمْ أَهْلَكْنَا مِن قَرْيَةٍۭ بَطِرَتْ مَعِيشَتَهَا ۖ فَتِلْكَ مَسَـٰكِنُهُمْ لَمْ تُسْكَن مِّنۢ بَعْدِهِمْ إِلَّا قَلِيلًا ۖ وَكُنَّا نَحْنُ ٱلْوَٰرِثِينَ"
 translation: "And how many a city did We destroy that had become reckless in its way of life. Those are their dwellings — never inhabited after them except a little. And it is We who are the inheritors."
 word_count: 28
 estimated_duration: "50-55 minutes"

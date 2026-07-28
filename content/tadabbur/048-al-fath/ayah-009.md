@@ -6,7 +6,7 @@ ayah_end: 9
 title: "The Pronoun That Guards the Line: Honoring the Messenger, Glorifying the Lord"
 slug: "048-009"
 category: tadabbur
-arabic: "لِّتُؤْمِنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَتُعَزِّرُوهُ وَتُوَقِّرُوهُ وَتُسَبِّحُوهُ بُكْرَةً وَأَصِيلًا"
+arabic: "لِّتُؤْمِنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَتُعَزِّرُوهُ وَتُوَقِّرُوهُ وَتُسَبِّحُوهُ بُكْرَةً وَأَصِيلًا"
 translation: "That you may believe in Allah and His Messenger, and that you may support him and revere him, and that you may glorify Him morning and evening."
 word_count: 8
 estimated_duration: "50-58 minutes"

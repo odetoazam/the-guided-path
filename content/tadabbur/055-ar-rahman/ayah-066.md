@@ -6,7 +6,7 @@ ayah_end: 66
 title: "The Springs That Gush: When the Lesser Garden Still Overflows"
 slug: "055-066"
 category: tadabbur
-arabic: "فِيهِمَا عَيْنَانِ نَضَّاخَتَانِ"
+arabic: "فِيهِمَا عَيْنَانِ نَضَّاخَتَانِ"
 translation: "In both of them are two springs, gushing forth."
 word_count: 3
 estimated_duration: "48-56 minutes"

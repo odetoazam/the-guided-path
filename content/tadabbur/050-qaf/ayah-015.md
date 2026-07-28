@@ -6,7 +6,7 @@ ayah_end: 15
 title: "Were We Wearied by the First? — The God Who Is Never at a Loss"
 slug: "050-015"
 category: tadabbur
-arabic: "أَفَعَيِينَا بِٱلْخَلْقِ ٱلْأَوَّلِ ۚ بَلْ هُمْ فِى لَبْسٍ مِّنْ خَلْقٍ جَدِيدٍ"
+arabic: "أَفَعَيِينَا بِٱلْخَلْقِ ٱلْأَوَّلِ ۚ بَلْ هُمْ فِى لَبْسٍ مِّنْ خَلْقٍ جَدِيدٍ"
 translation: "Were We then wearied by the first creation? Nay — they are in confusion about a new creation."
 word_count: 6100
 estimated_duration: "50-58 minutes"

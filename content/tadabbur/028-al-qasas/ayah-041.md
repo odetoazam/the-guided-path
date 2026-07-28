@@ -6,7 +6,7 @@ ayah_end: 41
 title: "The Imams Who Call to the Fire: When Leadership Becomes Inheritance of Ruin"
 slug: "028-041"
 category: tadabbur
-arabic: "وَجَعَلْنَٰهُمْ أَئِمَّةً يَدْعُونَ إِلَى ٱلنَّارِ ۖ وَيَوْمَ ٱلْقِيَٰمَةِ لَا يُنصَرُونَ"
+arabic: "وَجَعَلْنَـٰهُمْ أَئِمَّةً يَدْعُونَ إِلَى ٱلنَّارِ ۖ وَيَوْمَ ٱلْقِيَـٰمَةِ لَا يُنصَرُونَ"
 translation: "And We made them leaders inviting to the Fire, and on the Day of Resurrection they will not be helped."
 word_count: 11
 estimated_duration: "48-55 minutes"

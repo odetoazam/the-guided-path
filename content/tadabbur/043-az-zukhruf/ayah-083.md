@@ -6,7 +6,7 @@ ayah_end: 83
 slug: az-zukhruf-83-leave-them-to-the-shore
 category: tadabbur
 title: "Leave Them to the Shore: The Mercy Hidden in 'Fadharhum'"
-arabic: "فَذَرْهُمْ يَخُوضُوا۟ وَيَلْعَبُوا۟ حَتَّىٰ يُلَـٰقُوا۟ يَوْمَهُمُ ٱلَّذِى يُوعَدُونَ"
+arabic: "فَذَرْهُمْ يَخُوضُوا۟ وَيَلْعَبُوا۟ حَتَّىٰ يُلَـٰقُوا۟ يَوْمَهُمُ ٱلَّذِى يُوعَدُونَ"
 translation: "So leave them to plunge and play until they meet their Day which they are promised."
 estimated_duration: "50-58 minutes"
 passage_context: "Az-Zukhruf 43:81–85. After refuting the claim that the Most Merciful has offspring and exalting the Lord of the Throne 'above what they describe,' Allah turns to His Prophet ﷺ and instructs him to withdraw from fruitless dispute with a people the surah has already diagnosed as 'qawmun khaṣimūn' — a contentious people (43:58) — and to consign them to the Day they are promised."

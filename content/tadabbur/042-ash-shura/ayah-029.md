@@ -6,7 +6,7 @@ ayah_end: 29
 title: "The One Who Scattered You Will Gather You: Creation, Dispersal, and the Certainty of Return"
 slug: "042-029"
 category: tadabbur
-arabic: "وَمِنْ ءَايَـٰتِهِۦ خَلْقُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَمَا بَثَّ فِيهِمَا مِن دَآبَّةٍۚ وَهُوَ عَلَىٰ جَمْعِهِمْ إِذَا يَشَآءُ قَدِيرٌ"
+arabic: "وَمِنْ ءَايَـٰتِهِۦ خَلْقُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَمَا بَثَّ فِيهِمَا مِن دَآبَّةٍ ۚ وَهُوَ عَلَىٰ جَمْعِهِمْ إِذَا يَشَآءُ قَدِيرٌ"
 translation: "And among His signs is the creation of the heavens and the earth and whatever creatures He has scattered throughout them both. And He, for gathering them whenever He wills, is fully able."
 word_count: 16
 estimated_duration: "48-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 29
 title: "The Queen Who Called It Noble: When the Heart Recognizes Truth Before the Mind Decodes It"
 slug: "027-029"
 category: tadabbur
-arabic: "قَالَتْ يَٰٓأَيُّهَا ٱلْمَلَؤُا۟ إِنِّىٓ أُلْقِىَ إِلَىَّ كِتَٰبٌ كَرِيمٌ"
+arabic: "قَالَتْ يَـٰٓأَيُّهَا ٱلْمَلَؤُا۟ إِنِّىٓ أُلْقِىَ إِلَىَّ كِتَـٰبٌ كَرِيمٌ"
 translation: "She said, 'O chiefs, indeed there has been delivered to me a noble letter.'"
 word_count: 7
 estimated_duration: "48-55 minutes"

@@ -6,7 +6,7 @@ ayah_end: 34
 title: "Dragged on Their Faces: When the Body Tells the Truth the Tongue Hid"
 slug: "025-034"
 category: tadabbur
-arabic: "ٱلَّذِينَ يُحْشَرُونَ عَلَىٰ وُجُوهِهِمْ إِلَىٰ جَهَنَّمَ أُو۟لَـٰٓئِكَ شَرٌّ مَّكَانًۭا وَأَضَلُّ سَبِيلًۭا"
+arabic: "ٱلَّذِينَ يُحْشَرُونَ عَلَىٰ وُجُوهِهِمْ إِلَىٰ جَهَنَّمَ أُو۟لَـٰٓئِكَ شَرٌّ مَّكَانًا وَأَضَلُّ سَبِيلًا"
 translation: "Those who will be gathered on their faces to Hell — those are worse in station and more astray in path."
 word_count: 11
 estimated_duration: "50-58 minutes"

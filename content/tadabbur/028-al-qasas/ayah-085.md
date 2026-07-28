@@ -6,7 +6,7 @@ ayah_end: 85
 title: "The Promise of Return — When Allah Tells the Exile He Is Going Home"
 slug: "028-085"
 category: tadabbur
-arabic: "إِنَّ ٱلَّذِى فَرَضَ عَلَيْكَ ٱلْقُرْءَانَ لَرَآدُّكَ إِلَىٰ مَعَادٍ ۚ قُل رَّبِّىٓ أَعْلَمُ مَن جَآءَ بِٱلْهُدَىٰ وَمَنْ هُوَ فِى ضَلَـٰلٍ مُّبِينٍ"
+arabic: "إِنَّ ٱلَّذِى فَرَضَ عَلَيْكَ ٱلْقُرْءَانَ لَرَآدُّكَ إِلَىٰ مَعَادٍ ۚ قُل رَّبِّىٓ أَعْلَمُ مَن جَآءَ بِٱلْهُدَىٰ وَمَنْ هُوَ فِى ضَلَـٰلٍ مُّبِينٍ"
 translation: "Indeed, the One who has ordained the Qur'an upon you will surely return you to a place of return. Say: My Lord knows best who has come with guidance and who is in clear misguidance."
 word_count: 22
 estimated_duration: "50-55 minutes"

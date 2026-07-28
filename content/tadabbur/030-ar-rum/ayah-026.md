@@ -6,7 +6,7 @@ ayah_end: 26
 title: "The Standing You Cannot Refuse: When Everything Is Already in Prayer"
 slug: "030-026"
 category: tadabbur
-arabic: "وَلَهُۥ مَن فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ كُلٌّ لَّهُۥ قَـٰنِتُونَ"
+arabic: "وَلَهُۥ مَن فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ كُلٌّ لَّهُۥ قَـٰنِتُونَ"
 translation: "And to Him belongs whoever is in the heavens and the earth. All are devoutly obedient to Him."
 word_count: 8
 estimated_duration: "50-55 minutes"

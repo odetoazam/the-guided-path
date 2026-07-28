@@ -6,7 +6,7 @@ ayah_end: 16
 title: "The Confession That Becomes a Prayer"
 slug: "028-016"
 category: tadabbur
-arabic: "قَالَ رَبِّ إِنِّى ظَلَمْتُ نَفْسِى فَٱغْفِرْ لِى فَغَفَرَ لَهُۥٓ ۚ إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ"
+arabic: "قَالَ رَبِّ إِنِّى ظَلَمْتُ نَفْسِى فَٱغْفِرْ لِى فَغَفَرَ لَهُۥٓ ۚ إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ"
 translation: "He said: My Lord, I have wronged my own self, so forgive me — and He forgave him. Indeed, He is the Forgiving, the Merciful."
 word_count: 14
 estimated_duration: "48-55 minutes"

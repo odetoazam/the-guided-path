@@ -6,7 +6,7 @@ ayah_end: 6
 title: "When the Worshipped Turn Enemy: The Silence That Becomes Testimony"
 slug: "046-006"
 category: tadabbur
-arabic: "وَإِذَا حُشِرَ ٱلنَّاسُ كَانُوا۟ لَهُمْ أَعْدَآءً وَكَانُوا۟ بِعِبَادَتِهِمْ كَٰفِرِينَ"
+arabic: "وَإِذَا حُشِرَ ٱلنَّاسُ كَانُوا۟ لَهُمْ أَعْدَآءً وَكَانُوا۟ بِعِبَادَتِهِمْ كَـٰفِرِينَ"
 translation: "And when the people are gathered, those [they called upon] will be enemies to them, and they will deny their worship."
 word_count: 7100
 estimated_duration: "50-58 minutes"

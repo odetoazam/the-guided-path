@@ -6,7 +6,7 @@ ayah_end: 24
 title: "The Locks They Forged Themselves: Why the Word Stops at the Door of the Heart"
 slug: "047-024"
 category: tadabbur
-arabic: "أَفَلَا يَتَدَبَّرُونَ ٱلْقُرْءَانَ أَمْ عَلَىٰ قُلُوبٍ أَقْفَالُهَآ"
+arabic: "أَفَلَا يَتَدَبَّرُونَ ٱلْقُرْءَانَ أَمْ عَلَىٰ قُلُوبٍ أَقْفَالُهَآ"
 translation: "Then do they not reflect deeply upon the Qur'an — or are there locks upon hearts, their own locks?"
 word_count: 7
 estimated_duration: "48-59 minutes"

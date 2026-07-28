@@ -6,7 +6,7 @@ ayah_end: 102
 slug: as-saffat-102-the-vision-and-the-consent
 category: tadabbur
 title: "The Vision and the Consent: When the Knife Is Named Aloud (As-Saffat 37:102)"
-arabic: "فَلَمَّا بَلَغَ مَعَهُ ٱلسَّعْىَ قَالَ يَٰبُنَىَّ إِنِّىٓ أَرَىٰ فِى ٱلْمَنَامِ أَنِّىٓ أَذْبَحُكَ فَٱنظُرْ مَاذَا تَرَىٰ ۚ قَالَ يَٰٓأَبَتِ ٱفْعَلْ مَا تُؤْمَرُ ۖ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّٰبِرِينَ"
+arabic: "فَلَمَّا بَلَغَ مَعَهُ ٱلسَّعْىَ قَالَ يَـٰبُنَىَّ إِنِّىٓ أَرَىٰ فِى ٱلْمَنَامِ أَنِّىٓ أَذْبَحُكَ فَٱنظُرْ مَاذَا تَرَىٰ ۚ قَالَ يَـٰٓأَبَتِ ٱفْعَلْ مَا تُؤْمَرُ ۖ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّـٰبِرِينَ"
 translation: "So when he reached with him [the age of] striving, he said, 'O my little son, indeed I see in the dream that I am to sacrifice you, so look — what do you see?' He said, 'O my father, do what you are commanded. You will find me, if Allah wills, among the steadfast.'"
 estimated_duration: "52 minutes"
 passage_context: "The Ibrahim narrative within Surah As-Saffat (37:99-113), set among the gallery of the sincere prophets (al-mukhlasin) whose stories the surah ranks like rows of the standing angels it opens with."

@@ -6,7 +6,7 @@ ayah_end: 4
 title: "To Him Belongs Whatever Is: Ownership, Transcendence, and the One Who Still Speaks to You"
 slug: "042-004"
 category: tadabbur
-arabic: "لَهُۥ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۖ وَهُوَ ٱلْعَلِىُّ ٱلْعَظِيمُ"
+arabic: "لَهُۥ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۖ وَهُوَ ٱلْعَلِىُّ ٱلْعَظِيمُ"
 translation: "To Him belongs whatever is in the heavens and whatever is in the earth, and He is the Most High, the Most Great."
 word_count: 10
 estimated_duration: "50-58 minutes"

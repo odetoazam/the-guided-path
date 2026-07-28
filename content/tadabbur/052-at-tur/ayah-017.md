@@ -6,7 +6,7 @@ ayah_end: 17
 title: "The Shield Becomes the Shelter: How the One Who Guarded Is Finally Guarded"
 slug: "052-017"
 category: tadabbur
-arabic: "إِنَّ ٱلْمُتَّقِينَ فِى جَنَّـٰتٍ وَنَعِيمٍ"
+arabic: "إِنَّ ٱلْمُتَّقِينَ فِى جَنَّـٰتٍ وَنَعِيمٍ"
 translation: "Indeed, the God-conscious will be in Gardens and bliss."
 word_count: 5
 estimated_duration: "48-59 minutes"

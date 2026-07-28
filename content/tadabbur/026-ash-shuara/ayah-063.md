@@ -6,7 +6,7 @@ ayah_end: 63
 title: "The Strike That Split the Sea: When Obedience Becomes the Miracle"
 slug: "026-063"
 category: tadabbur
-arabic: "فَأَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنِ ٱضْرِب بِّعَصَاكَ ٱلْبَحْرَ ۖ فَٱنفَلَقَ فَكَانَ كُلُّ فِرْقٍ كَٱلطَّوْدِ ٱلْعَظِيمِ"
+arabic: "فَأَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنِ ٱضْرِب بِّعَصَاكَ ٱلْبَحْرَ ۖ فَٱنفَلَقَ فَكَانَ كُلُّ فِرْقٍ كَٱلطَّوْدِ ٱلْعَظِيمِ"
 translation: "So We inspired Moses: 'Strike the sea with your staff.' And it split apart — every parting like a tremendous mountain."
 word_count: 14
 estimated_duration: "50-55 minutes"

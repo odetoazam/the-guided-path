@@ -6,7 +6,7 @@ ayah_end: 22
 title: "Nowhere to Run: The Geometry of Divine Reach"
 slug: "029-022"
 category: tadabbur
-arabic: "وَمَآ أَنتُم بِمُعْجِزِينَ فِى ٱلْأَرْضِ وَلَا فِى ٱلسَّمَآءِ ۖ وَمَا لَكُم مِّن دُونِ ٱللَّهِ مِن وَلِىٍّۢ وَلَا نَصِيرٍۢ"
+arabic: "وَمَآ أَنتُم بِمُعْجِزِينَ فِى ٱلْأَرْضِ وَلَا فِى ٱلسَّمَآءِ ۖ وَمَا لَكُم مِّن دُونِ ٱللَّهِ مِن وَلِىٍّ وَلَا نَصِيرٍ"
 translation: "And you are not ones who can frustrate [Him] on earth, nor in the heaven. And you have, besides Allah, neither protector nor helper."
 word_count: 19
 estimated_duration: "50-55 minutes"

@@ -6,7 +6,7 @@ ayah_end: 28
 title: "The Two Directions of a Ruined Heart: Chasing His Anger, Recoiling From His Pleasure"
 slug: "047-028"
 category: tadabbur
-arabic: "ذَٰلِكَ بِأَنَّهُمُ ٱتَّبَعُوا۟ مَآ أَسْخَطَ ٱللَّهَ وَكَرِهُوا۟ رِضْوَٰنَهُۥ فَأَحْبَطَ أَعْمَٰلَهُمْ"
+arabic: "ذَٰلِكَ بِأَنَّهُمُ ٱتَّبَعُوا۟ مَآ أَسْخَطَ ٱللَّهَ وَكَرِهُوا۟ رِضْوَٰنَهُۥ فَأَحْبَطَ أَعْمَـٰلَهُمْ"
 translation: "That is because they followed what angered Allah and hated His pleasure, so He rendered their deeds worthless."
 word_count: 10
 estimated_duration: "50-58 minutes"

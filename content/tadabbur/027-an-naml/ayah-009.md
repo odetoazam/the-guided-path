@@ -6,7 +6,7 @@ ayah_end: 9
 title: "The Voice From the Fire: When the Unapproachable Names Itself"
 slug: "027-009"
 category: tadabbur
-arabic: "يَـٰمُوسَىٰٓ إِنَّهُۥٓ أَنَا ٱللَّهُ ٱلْعَزِيزُ ٱلْحَكِيمُ"
+arabic: "يَـٰمُوسَىٰٓ إِنَّهُۥٓ أَنَا ٱللَّهُ ٱلْعَزِيزُ ٱلْحَكِيمُ"
 translation: "O Musa, indeed it is I — Allah, the Mighty, the Wise."
 word_count: 7
 estimated_duration: "48-55 minutes"

@@ -6,7 +6,7 @@ ayah_end: 53
 title: "Why the Small Comes First: The Ledger That Forgets Nothing"
 slug: "054-053"
 category: tadabbur
-arabic: "وَكُلُّ صَغِيرٍ وَكَبِيرٍ مُّسْتَطَرٌ"
+arabic: "وَكُلُّ صَغِيرٍ وَكَبِيرٍ مُّسْتَطَرٌ"
 translation: "And every small thing and every great thing is written down."
 word_count: 5400
 estimated_duration: "50-57 minutes"

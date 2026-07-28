@@ -6,7 +6,7 @@ ayah_end: 101
 title: "The Ones Even the Prophet Did Not Know: Mastery as a Wound"
 slug: "009-101"
 category: tadabbur
-arabic: "وَمِمَّنْ حَوْلَكُم مِّنَ ٱلْأَعْرَابِ مُنَٰفِقُونَ ۖ وَمِنْ أَهْلِ ٱلْمَدِينَةِ ۖ مَرَدُوا۟ عَلَى ٱلنِّفَاقِ لَا تَعْلَمُهُمْ ۖ نَحْنُ نَعْلَمُهُمْ ۚ سَنُعَذِّبُهُم مَّرَّتَيْنِ ثُمَّ يُرَدُّونَ إِلَىٰ عَذَابٍ عَظِيمٍ"
+arabic: "وَمِمَّنْ حَوْلَكُم مِّنَ ٱلْأَعْرَابِ مُنَـٰفِقُونَ ۖ وَمِنْ أَهْلِ ٱلْمَدِينَةِ ۖ مَرَدُوا۟ عَلَى ٱلنِّفَاقِ لَا تَعْلَمُهُمْ ۖ نَحْنُ نَعْلَمُهُمْ ۚ سَنُعَذِّبُهُم مَّرَّتَيْنِ ثُمَّ يُرَدُّونَ إِلَىٰ عَذَابٍ عَظِيمٍ"
 translation: "And among those around you of the bedouins are hypocrites, and from the people of Madinah — they have become smooth and practiced upon hypocrisy. You do not know them; We know them. We will punish them twice; then they will be returned to an immense punishment."
 word_count: 23
 estimated_duration: "52-58 minutes"

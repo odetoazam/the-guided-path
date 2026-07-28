@@ -6,7 +6,7 @@ ayah_end: 56
 title: "All the Signs, and Still He Refused: The Architecture of Willful Denial"
 slug: "020-056"
 category: tadabbur
-arabic: "وَلَقَدْ أَرَيْنَاهُ آيَاتِنَا كُلَّهَا فَكَذَّبَ وَأَبَىٰ"
+arabic: "وَلَقَدْ أَرَيْنَـٰهُ ءَايَـٰتِنَا كُلَّهَا فَكَذَّبَ وَأَبَىٰ"
 translation: "And We had certainly shown him Our signs — all of them — but he denied, and he refused."
 word_count: 7
 estimated_duration: "50-56 minutes"

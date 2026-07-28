@@ -6,7 +6,7 @@ ayah_end: 46
 title: "The One Thing: Allah's Final Invitation to Think"
 slug: "034-046"
 category: tadabbur
-arabic: "قُلْ إِنَّمَآ أَعِظُكُم بِوَٰحِدَةٍ ۖ أَن تَقُومُوا۟ لِلَّهِ مَثْنَىٰ وَفُرَٰدَىٰ ثُمَّ تَتَفَكَّرُوا۟ ۚ مَا بِصَاحِبِكُم مِّن جِنَّةٍ ۚ إِنْ هُوَ إِلَّا نَذِيرٌ لَّكُم بَيْنَ يَدَىْ عَذَابٍ شَدِيدٍ"
+arabic: "۞ قُلْ إِنَّمَآ أَعِظُكُم بِوَٰحِدَةٍ ۖ أَن تَقُومُوا۟ لِلَّهِ مَثْنَىٰ وَفُرَٰدَىٰ ثُمَّ تَتَفَكَّرُوا۟ ۚ مَا بِصَاحِبِكُم مِّن جِنَّةٍ ۚ إِنْ هُوَ إِلَّا نَذِيرٌ لَّكُم بَيْنَ يَدَىْ عَذَابٍ شَدِيدٍ"
 translation: "Say: I only counsel you to one thing — that you rise up for Allah, in pairs and alone, then reflect. There is no madness in your companion. He is only a warner to you, before a severe punishment."
 word_count: 8400
 estimated_duration: "52-58 minutes"

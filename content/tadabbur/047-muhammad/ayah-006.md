@@ -6,7 +6,7 @@ ayah_end: 6
 title: "The Home You Already Know: Recognition, Fragrance, and the Homecoming of Those Who Never Came Home"
 slug: "047-006"
 category: tadabbur
-arabic: "وَيُدْخِلُهُمُ ٱلْجَنَّةَ عَرَّفَهَا لَهُمْ"
+arabic: "وَيُدْخِلُهُمُ ٱلْجَنَّةَ عَرَّفَهَا لَهُمْ"
 translation: "And He will admit them to Paradise, which He has made known to them."
 word_count: 4
 estimated_duration: "50-58 minutes"

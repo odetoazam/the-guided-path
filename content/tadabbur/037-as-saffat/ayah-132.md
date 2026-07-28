@@ -6,7 +6,7 @@ ayah_end: 132
 title: "The Only Attestation That Lasts"
 slug: "037-132"
 category: tadabbur
-arabic: "إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُؤْمِنِينَ"
+arabic: "إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُؤْمِنِينَ"
 translation: "Indeed, he was among Our believing servants."
 word_count: 6970
 estimated_duration: "50-57 minutes"

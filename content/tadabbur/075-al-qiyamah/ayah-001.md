@@ -6,7 +6,7 @@ ayah_end: 1
 title: "The Oath That Begins With No: Why Allah Brushes Aside Our Denial Before He Swears"
 slug: "075-001"
 category: tadabbur
-arabic: "لَآ أُقْسِمُ بِيَوْمِ ٱلْقِيَٰمَةِ"
+arabic: "لَآ أُقْسِمُ بِيَوْمِ ٱلْقِيَـٰمَةِ"
 translation: "Nay! I swear by the Day of Resurrection."
 word_count: 6700
 estimated_duration: "50-58 minutes"

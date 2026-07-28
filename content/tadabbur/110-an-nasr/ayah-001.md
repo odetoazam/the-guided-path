@@ -6,7 +6,7 @@ ayah_end: 1
 title: "When It Comes: The Victory Spoken in the Past Tense"
 slug: "110-001"
 category: tadabbur
-arabic: "إِذَا جَآءَ نَصْرُ ٱللَّهِ وَٱلْفَتْحُ"
+arabic: "إِذَا جَآءَ نَصْرُ ٱللَّهِ وَٱلْفَتْحُ"
 translation: "When the help of Allah comes, and the victory,"
 word_count: 5
 estimated_duration: "48-56 minutes"

@@ -6,7 +6,7 @@ ayah_end: 76
 title: "Let Not Their Speech Grieve You: The Refuge of Being Fully Known"
 slug: "036-076"
 category: tadabbur
-arabic: "فَلَا يَحْزُنكَ قَوْلُهُمْ ۘ إِنَّا نَعْلَمُ مَا يُسِرُّونَ وَمَا يُعْلِنُونَ"
+arabic: "فَلَا يَحْزُنكَ قَوْلُهُمْ ۘ إِنَّا نَعْلَمُ مَا يُسِرُّونَ وَمَا يُعْلِنُونَ"
 translation: "So let not their speech grieve you. Indeed, We know what they conceal and what they declare."
 word_count: 9
 estimated_duration: "48-59 minutes"

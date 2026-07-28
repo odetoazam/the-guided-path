@@ -6,7 +6,7 @@ ayah_end: 20
 title: "The Gaze That Betrays the Heart: When the Command Names Its Price"
 slug: "047-020"
 category: tadabbur
-arabic: "وَيَقُولُ ٱلَّذِينَ ءَامَنُواْ لَوْلَا نُزِّلَتْ سُورَةٌۖ فَإِذَآ أُنزِلَتْ سُورَةٌ مُّحْكَمَةٌ وَذُكِرَ فِيهَا ٱلْقِتَالُۙ رَأَيْتَ ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ يَنظُرُونَ إِلَيْكَ نَظَرَ ٱلْمَغْشِىِّ عَلَيْهِ مِنَ ٱلْمَوْتِۖ فَأَوْلَىٰ لَهُمْ"
+arabic: "وَيَقُولُ ٱلَّذِينَ ءَامَنُوا۟ لَوْلَا نُزِّلَتْ سُورَةٌ ۖ فَإِذَآ أُنزِلَتْ سُورَةٌ مُّحْكَمَةٌ وَذُكِرَ فِيهَا ٱلْقِتَالُ ۙ رَأَيْتَ ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ يَنظُرُونَ إِلَيْكَ نَظَرَ ٱلْمَغْشِىِّ عَلَيْهِ مِنَ ٱلْمَوْتِ ۖ فَأَوْلَىٰ لَهُمْ"
 translation: "And those who believe say, 'If only a surah were sent down!' But when a decisive surah is revealed and fighting is mentioned in it, you see those in whose hearts is a disease looking at you with the look of one fainting at the approach of death. So more fitting for them—"
 word_count: 26
 estimated_duration: "50-58 minutes"

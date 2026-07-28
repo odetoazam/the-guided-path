@@ -6,7 +6,7 @@ ayah_end: 60
 title: "The Command to Wait: How Patience Becomes a Refusal to Be Shaken"
 slug: "030-060"
 category: tadabbur
-arabic: "فَٱصْبِرْ إِنَّ وَعْدَ ٱللَّهِ حَقٌّ ۖ وَلَا يَسْتَخِفَّنَّكَ ٱلَّذِينَ لَا يُوقِنُونَ"
+arabic: "فَٱصْبِرْ إِنَّ وَعْدَ ٱللَّهِ حَقٌّ ۖ وَلَا يَسْتَخِفَّنَّكَ ٱلَّذِينَ لَا يُوقِنُونَ"
 translation: "So be patient. Indeed, the promise of Allah is true. And do not let those who have no certainty unsettle you."
 word_count: 11
 estimated_duration: "48-54 minutes"

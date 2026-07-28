@@ -6,7 +6,7 @@ ayah_end: 8
 title: "The Necks That Cannot Turn Away: When Attention Is No Longer Yours to Give"
 slug: "054-008"
 category: tadabbur
-arabic: "مُّهْطِعِينَ إِلَى ٱلدَّاعِ ۖ يَقُولُ ٱلْكَـٰفِرُونَ هَـٰذَا يَوْمٌ عَسِرٌ"
+arabic: "مُّهْطِعِينَ إِلَى ٱلدَّاعِ ۖ يَقُولُ ٱلْكَـٰفِرُونَ هَـٰذَا يَوْمٌ عَسِرٌ"
 translation: "Racing toward the Caller with necks outstretched, the disbelievers will say: 'This is a difficult Day.'"
 word_count: 5200
 estimated_duration: "48-55 minutes"

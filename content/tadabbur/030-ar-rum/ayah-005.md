@@ -6,7 +6,7 @@ ayah_end: 5
 title: "The Variable Nobody Counted: Divine Victory Beneath Every Outcome"
 slug: "030-005"
 category: tadabbur
-arabic: "بِنَصْرِ ٱللَّهِ ۚ يَنصُرُ مَن يَشَآءُ ۖ وَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ"
+arabic: "بِنَصْرِ ٱللَّهِ ۚ يَنصُرُ مَن يَشَآءُ ۖ وَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ"
 translation: "With the victory of Allah. He gives victory to whoever He wills — and He is the Exalted in Might, the Merciful."
 word_count: 5450
 estimated_duration: "50-58 minutes"

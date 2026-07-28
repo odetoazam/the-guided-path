@@ -6,7 +6,7 @@ ayah_end: 27
 title: "The Day the Ledger Settles: True Ownership and the Bankruptcy of Falsehood"
 slug: "045-027"
 category: tadabbur
-arabic: "وَلِلَّهِ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ وَيَوْمَ تَقُومُ ٱلسَّاعَةُ يَوْمَئِذٍ يَخْسَرُ ٱلْمُبْطِلُونَ"
+arabic: "وَلِلَّهِ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ وَيَوْمَ تَقُومُ ٱلسَّاعَةُ يَوْمَئِذٍ يَخْسَرُ ٱلْمُبْطِلُونَ"
 translation: "And to Allah belongs the dominion of the heavens and the earth. And on the Day the Hour is established — on that Day the peddlers of falsehood will lose everything."
 word_count: 6900
 estimated_duration: "50-58 minutes"

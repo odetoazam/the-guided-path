@@ -6,7 +6,7 @@ ayah_end: 74
 title: "The Mercy He Sets Apart: Grace That Cannot Be Earned or Envied"
 slug: "003-074"
 category: tadabbur
-arabic: "يَخْتَصُّ بِرَحْمَتِهِۦ مَن يَشَآءُ ۗ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ"
+arabic: "يَخْتَصُّ بِرَحْمَتِهِۦ مَن يَشَآءُ ۗ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ"
 translation: "He singles out for His mercy whom He wills, and Allah is the Possessor of immense bounty."
 word_count: 8
 estimated_duration: "50-58 minutes"

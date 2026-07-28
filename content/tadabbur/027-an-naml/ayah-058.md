@@ -6,7 +6,7 @@ ayah_end: 58
 title: "The Rain That Was Not Mercy: When the Sky Becomes a Warning"
 slug: "027-058"
 category: tadabbur
-arabic: "وَأَمْطَرْنَا عَلَيْهِم مَّطَرًا ۖ فَسَاءَ مَطَرُ الْمُنذَرِينَ"
+arabic: "وَأَمْطَرْنَا عَلَيْهِم مَّطَرًا ۖ فَسَآءَ مَطَرُ ٱلْمُنذَرِينَ"
 translation: "And We rained upon them a rain — and evil was the rain upon those who had been warned."
 word_count: 7
 estimated_duration: "48-55 minutes"

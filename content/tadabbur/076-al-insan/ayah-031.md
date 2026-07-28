@@ -6,7 +6,7 @@ ayah_end: 31
 title: "The Last Word of the Human Story: Carried Into His Mercy"
 slug: "076-031"
 category: tadabbur
-arabic: "يُدْخِلُ مَن يَشَآءُ فِى رَحْمَتِهِۦ ۚ وَٱلظَّـٰلِمِينَ أَعَدَّ لَهُمْ عَذَابًا أَلِيمًۢا"
+arabic: "يُدْخِلُ مَن يَشَآءُ فِى رَحْمَتِهِۦ ۚ وَٱلظَّـٰلِمِينَ أَعَدَّ لَهُمْ عَذَابًا أَلِيمًۢا"
 translation: "He admits whom He wills into His mercy. But the wrongdoers — He has prepared for them a painful punishment."
 word_count: 1
 estimated_duration: "50-58 minutes"

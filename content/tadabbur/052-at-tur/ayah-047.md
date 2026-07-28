@@ -6,7 +6,7 @@ ayah_end: 47
 title: "The Punishment Before the Punishment: On the Mercy Hidden in the Lesser Pain"
 slug: "052-047"
 category: tadabbur
-arabic: "وَإِنَّ لِلَّذِينَ ظَلَمُوا عَذَابًا دُونَ ذَٰلِكَ وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ"
+arabic: "وَإِنَّ لِلَّذِينَ ظَلَمُوا۟ عَذَابًا دُونَ ذَٰلِكَ وَلَـٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ"
 translation: "And indeed, for those who do wrong, there is a punishment before that — but most of them do not know."
 word_count: 10
 estimated_duration: "50-58 minutes"

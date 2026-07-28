@@ -6,7 +6,7 @@ ayah_end: 20
 title: "The Spectator's Wish: When Fear Wants to Watch From the Edge"
 slug: "033-020"
 category: tadabbur
-arabic: "يَحْسَبُونَ ٱلْأَحْزَابَ لَمْ يَذْهَبُوا۟ ۖ وَإِن يَأْتِ ٱلْأَحْزَابُ يَوَدُّوا۟ لَوْ أَنَّهُم بَادُونَ فِى ٱلْأَعْرَابِ يَسْـَٔلُونَ عَنْ أَنۢبَآئِكُمْ ۖ وَلَوْ كَانُوا۟ فِيكُم مَّا قَـٰتَلُوٓا۟ إِلَّا قَلِيلًا"
+arabic: "يَحْسَبُونَ ٱلْأَحْزَابَ لَمْ يَذْهَبُوا۟ ۖ وَإِن يَأْتِ ٱلْأَحْزَابُ يَوَدُّوا۟ لَوْ أَنَّهُم بَادُونَ فِى ٱلْأَعْرَابِ يَسْـَٔلُونَ عَنْ أَنۢبَآئِكُمْ ۖ وَلَوْ كَانُوا۟ فِيكُم مَّا قَـٰتَلُوٓا۟ إِلَّا قَلِيلًا"
 translation: "They think the confederates have not withdrawn. And if the confederates should come again, they would wish they were out in the desert among the Bedouins, asking about your news. And had they been among you, they would not have fought except a little."
 word_count: 23
 estimated_duration: "50-58 minutes"

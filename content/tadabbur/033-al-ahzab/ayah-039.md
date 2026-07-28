@@ -6,7 +6,7 @@ ayah_end: 39
 title: "The Ones Who Deliver — On Fearing Only the One Who Sent You"
 slug: "033-039"
 category: tadabbur
-arabic: "ٱلَّذِينَ يُبَلِّغُونَ رِسَٰلَٰتِ ٱللَّهِ وَيَخْشَوْنَهُۥ وَلَا يَخْشَوْنَ أَحَدًا إِلَّا ٱللَّهَ ۗ وَكَفَىٰ بِٱللَّهِ حَسِيبًا"
+arabic: "ٱلَّذِينَ يُبَلِّغُونَ رِسَـٰلَـٰتِ ٱللَّهِ وَيَخْشَوْنَهُۥ وَلَا يَخْشَوْنَ أَحَدًا إِلَّا ٱللَّهَ ۗ وَكَفَىٰ بِٱللَّهِ حَسِيبًا"
 translation: "Those who deliver the messages of Allah, and fear Him, and do not fear anyone except Allah. And sufficient is Allah as Reckoner."
 word_count: 14
 estimated_duration: "48-55 minutes"

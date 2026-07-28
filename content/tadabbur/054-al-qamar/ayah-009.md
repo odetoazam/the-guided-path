@@ -6,7 +6,7 @@ ayah_end: 9
 title: "They Called Him Mad — and Allah Called Him 'Our Servant'"
 slug: "054-009"
 category: tadabbur
-arabic: "۞ كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ فَكَذَّبُوا عَبْدَنَا وَقَالُوا مَجْنُونٌ وَازْدُجِرَ"
+arabic: "۞ كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ فَكَذَّبُوا۟ عَبْدَنَا وَقَالُوا۟ مَجْنُونٌ وَٱزْدُجِرَ"
 translation: "Before them, the people of Nuh denied — they denied Our servant and said, 'A madman!' — and he was driven away."
 word_count: 5400
 estimated_duration: "48-55 minutes"

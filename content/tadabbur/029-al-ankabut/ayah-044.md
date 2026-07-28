@@ -6,7 +6,7 @@ ayah_end: 44
 title: "The Heavens, the Earth, and the Sign for Those Who Believe"
 slug: "029-044"
 category: tadabbur
-arabic: "خَلَقَ ٱللَّهُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَةً لِّلْمُؤْمِنِينَ"
+arabic: "خَلَقَ ٱللَّهُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَةً لِّلْمُؤْمِنِينَ"
 translation: "Allah created the heavens and the earth in truth. Indeed, in that is a sign for the believers."
 word_count: 11
 estimated_duration: "48-55 minutes"

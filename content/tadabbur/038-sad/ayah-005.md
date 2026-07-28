@@ -6,7 +6,7 @@ ayah_end: 5
 title: "When the One God Sounds Outrageous: The Astonishment That Pointed the Wrong Way"
 slug: "038-005"
 category: tadabbur
-arabic: "أَجَعَلَ ٱلْءَالِهَةَ إِلَٰهًۭا وَٰحِدًا ۖ إِنَّ هَٰذَا لَشَىْءٌ عُجَابٌ"
+arabic: "أَجَعَلَ ٱلْـَٔالِهَةَ إِلَـٰهًا وَٰحِدًا ۖ إِنَّ هَـٰذَا لَشَىْءٌ عُجَابٌ"
 translation: "Has he made the gods into one God? Indeed, this is a most astounding thing."
 word_count: 8
 estimated_duration: "50-58 minutes"

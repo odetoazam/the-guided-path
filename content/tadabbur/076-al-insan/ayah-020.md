@@ -6,7 +6,7 @@ ayah_end: 20
 title: "When You Look There: The Servants Who Were Given a Kingdom"
 slug: "076-020"
 category: tadabbur
-arabic: "وَإِذَا رَأَيْتَ ثَمَّ رَأَيْتَ نَعِيمًا وَمُلْكًا كَبِيرًا"
+arabic: "وَإِذَا رَأَيْتَ ثَمَّ رَأَيْتَ نَعِيمًا وَمُلْكًا كَبِيرًا"
 translation: "And when you look there, you will see blessings and a vast kingdom."
 word_count: 7
 estimated_duration: "50-58 minutes"

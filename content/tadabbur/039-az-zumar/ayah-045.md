@@ -6,7 +6,7 @@ ayah_end: 45
 title: "The Shudder and the Smile: What the Heart Reveals When God Is Named Alone"
 slug: "039-045"
 category: tadabbur
-arabic: "وَإِذَا ذُكِرَ ٱللَّهُ وَحْدَهُ ٱشْمَأَزَّتْ قُلُوبُ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْءَاخِرَةِ ۖ وَإِذَا ذُكِرَ ٱلَّذِينَ مِن دُونِهِۦٓ إِذَا هُمْ يَسْتَبْشِرُونَ"
+arabic: "وَإِذَا ذُكِرَ ٱللَّهُ وَحْدَهُ ٱشْمَأَزَّتْ قُلُوبُ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْـَٔاخِرَةِ ۖ وَإِذَا ذُكِرَ ٱلَّذِينَ مِن دُونِهِۦٓ إِذَا هُمْ يَسْتَبْشِرُونَ"
 translation: "And when Allah is mentioned alone, the hearts of those who do not believe in the Hereafter shrink with aversion; but when those besides Him are mentioned — behold, at once they rejoice."
 word_count: 18
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 78
 title: "The Judge Who Already Knows: When Disputes Wait for the One Who Sees"
 slug: "027-078"
 category: tadabbur
-arabic: "إِنَّ رَبَّكَ يَقْضِي بَيْنَهُم بِحُكْمِهِۦ ۚ وَهُوَ ٱلْعَزِيزُ ٱلْعَلِيمُ"
+arabic: "إِنَّ رَبَّكَ يَقْضِى بَيْنَهُم بِحُكْمِهِۦ ۚ وَهُوَ ٱلْعَزِيزُ ٱلْعَلِيمُ"
 translation: "Indeed, your Lord will judge between them by His judgment. And He is the All-Mighty, the All-Knowing."
 word_count: 9
 estimated_duration: "48-55 minutes"

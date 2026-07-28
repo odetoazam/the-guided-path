@@ -6,7 +6,7 @@ ayah_end: 27
 title: "But Allah Favored Us: The Fear That Saves and the Grace No One Earns"
 slug: "052-027"
 category: tadabbur
-arabic: "فَمَنَّ ٱللَّهُ عَلَيْنَا وَوَقَىٰنَا عَذَابَ ٱلسَّمُومِ"
+arabic: "فَمَنَّ ٱللَّهُ عَلَيْنَا وَوَقَىٰنَا عَذَابَ ٱلسَّمُومِ"
 translation: "But Allah conferred favor upon us, and protected us from the punishment of the Scorching Fire."
 word_count: 6
 estimated_duration: "50-58 minutes"

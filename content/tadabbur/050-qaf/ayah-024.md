@@ -6,7 +6,7 @@ ayah_end: 24
 title: "The Doubled Command: Why the Verdict on Stubbornness Rings Out Twice"
 slug: "050-024"
 category: tadabbur
-arabic: "أَلْقِيَا فِى جَهَنَّمَ كُلَّ كَفَّارٍ عَنِيدٍ"
+arabic: "أَلْقِيَا فِى جَهَنَّمَ كُلَّ كَفَّارٍ عَنِيدٍ"
 translation: "[It will be said,] 'Throw, you two, into Hell every stubborn disbeliever—'"
 word_count: 6
 estimated_duration: "50-58 minutes"

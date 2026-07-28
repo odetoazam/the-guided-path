@@ -6,7 +6,7 @@ ayah_end: 35
 title: "Dust and Bones: The Anatomy of Mockery as Argument"
 slug: "023-035"
 category: tadabbur
-arabic: "أَيَعِدُكُمْ أَنَّكُمْ إِذَا مِتُّمْ وَكُنتُمْ تُرَابًا وَعِظَامًا أَنَّكُم مُّخْرَجُونَ"
+arabic: "أَيَعِدُكُمْ أَنَّكُمْ إِذَا مِتُّمْ وَكُنتُمْ تُرَابًا وَعِظَـٰمًا أَنَّكُم مُّخْرَجُونَ"
 translation: "Does he promise you that when you have died and become dust and bones — that you will be brought forth?"
 word_count: 11
 estimated_duration: "48-55 minutes"

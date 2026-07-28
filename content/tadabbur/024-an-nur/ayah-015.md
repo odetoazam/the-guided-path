@@ -6,7 +6,7 @@ ayah_end: 15
 title: "When the Tongue Becomes the Ear"
 slug: "024-015"
 category: tadabbur
-arabic: "إِذْ تَلَقَّوْنَهُۥ بِأَلْسِنَتِكُمْ وَتَقُولُونَ بِأَفْوَاهِكُم مَّا لَيْسَ لَكُم بِهِۦ عِلْمٌ وَتَحْسَبُونَهُۥ هَيِّنًا وَهُوَ عِندَ ٱللَّهِ عَظِيمٌ"
+arabic: "إِذْ تَلَقَّوْنَهُۥ بِأَلْسِنَتِكُمْ وَتَقُولُونَ بِأَفْوَاهِكُم مَّا لَيْسَ لَكُم بِهِۦ عِلْمٌ وَتَحْسَبُونَهُۥ هَيِّنًا وَهُوَ عِندَ ٱللَّهِ عَظِيمٌ"
 translation: "When you were receiving it with your tongues, and saying with your mouths what you had no knowledge of, and you reckoned it a light thing — while with Allah it was tremendous."
 word_count: 18
 estimated_duration: "50-58 minutes"

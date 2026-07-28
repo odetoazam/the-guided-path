@@ -6,7 +6,7 @@ ayah_end: 50
 title: "The First of a Series: Why Allah Calls 'Aad 'al-Ūlā'"
 slug: "053-050"
 category: tadabbur
-arabic: "وَأَنَّهُۥٓ أَهْلَكَ عَادًا ٱلْأُولَىٰ"
+arabic: "وَأَنَّهُۥٓ أَهْلَكَ عَادًا ٱلْأُولَىٰ"
 translation: "And that it is He who destroyed the first 'Aad."
 word_count: 5400
 estimated_duration: "48-55 minutes"

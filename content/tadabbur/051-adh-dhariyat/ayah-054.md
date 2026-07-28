@@ -6,7 +6,7 @@ ayah_end: 54
 title: "Turn Away Without Blame: The Release of the One Who Delivered"
 slug: "051-054"
 category: tadabbur
-arabic: "فَتَوَلَّ عَنْهُمْ فَمَا أَنتَ بِمَلُومٍ"
+arabic: "فَتَوَلَّ عَنْهُمْ فَمَآ أَنتَ بِمَلُومٍ"
 translation: "So turn away from them — for you are not to be blamed."
 word_count: 5
 estimated_duration: "48-55 minutes"

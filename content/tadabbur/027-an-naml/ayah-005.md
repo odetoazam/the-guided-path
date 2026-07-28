@@ -6,7 +6,7 @@ ayah_end: 5
 title: "The Greatest Losers: When Identity Becomes Verdict"
 slug: "027-005"
 category: tadabbur
-arabic: "أُولَٰٓئِكَ ٱلَّذِينَ لَهُمْ سُوٓءُ ٱلْعَذَابِ وَهُمْ فِى ٱلْءَاخِرَةِ هُمُ ٱلْأَخْسَرُونَ"
+arabic: "أُو۟لَـٰٓئِكَ ٱلَّذِينَ لَهُمْ سُوٓءُ ٱلْعَذَابِ وَهُمْ فِى ٱلْـَٔاخِرَةِ هُمُ ٱلْأَخْسَرُونَ"
 translation: "Those are the ones for whom there is the worst of punishment, and they, in the Hereafter — they are the greatest losers."
 word_count: 4200
 estimated_duration: "48-56 minutes"

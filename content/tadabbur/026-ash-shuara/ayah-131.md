@@ -6,7 +6,7 @@ ayah_end: 131
 title: "The Shield That Outlasts Stone"
 slug: "026-131"
 category: tadabbur
-arabic: "فَاتَّقُوا اللَّهَ وَأَطِيعُونِ"
+arabic: "فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ"
 translation: "So fear Allah and obey me."
 word_count: 7100
 estimated_duration: "50-56 minutes"

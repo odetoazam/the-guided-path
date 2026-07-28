@@ -6,7 +6,7 @@ ayah_end: 46
 title: "No Protector but One: The Two Negations and the Vanished Way"
 slug: "042-046"
 category: tadabbur
-arabic: "وَمَا كَانَ لَهُم مِّنْ أَوْلِيَآءَ يَنصُرُونَهُم مِّن دُونِ ٱللَّهِ ۗ وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُۥ مِن سَبِيلٍ"
+arabic: "وَمَا كَانَ لَهُم مِّنْ أَوْلِيَآءَ يَنصُرُونَهُم مِّن دُونِ ٱللَّهِ ۗ وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُۥ مِن سَبِيلٍ"
 translation: "And there were never, for them, any protecting allies to help them besides Allah. And whomever Allah leaves to stray — for him there is no way at all."
 word_count: 16
 estimated_duration: "50-58 minutes"

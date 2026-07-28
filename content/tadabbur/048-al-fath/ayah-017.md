@@ -6,7 +6,7 @@ ayah_end: 17
 title: "When the Tight Place Opens: The Lifting of Haraj and the Real Dividing Line"
 slug: "048-017"
 category: tadabbur
-arabic: "لَّيْسَ عَلَى ٱلْأَعْمَىٰ حَرَجٌ وَلَا عَلَى ٱلْأَعْرَجِ حَرَجٌ وَلَا عَلَى ٱلْمَرِيضِ حَرَجٌ ۗ وَمَن يُطِعِ ٱللَّهَ وَرَسُولَهُۥ يُدْخِلْهُ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ ۖ وَمَن يَتَوَلَّ يُعَذِّبْهُ عَذَابًا أَلِيمًا"
+arabic: "لَّيْسَ عَلَى ٱلْأَعْمَىٰ حَرَجٌ وَلَا عَلَى ٱلْأَعْرَجِ حَرَجٌ وَلَا عَلَى ٱلْمَرِيضِ حَرَجٌ ۗ وَمَن يُطِعِ ٱللَّهَ وَرَسُولَهُۥ يُدْخِلْهُ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ۖ وَمَن يَتَوَلَّ يُعَذِّبْهُ عَذَابًا أَلِيمًا"
 translation: "There is no blame upon the blind, nor any blame upon the lame, nor any blame upon the sick. And whoever obeys Allah and His Messenger, He will admit him into Gardens beneath which rivers flow; but whoever turns away, He will punish him with a painful punishment."
 word_count: 7100
 estimated_duration: "50-58 minutes"

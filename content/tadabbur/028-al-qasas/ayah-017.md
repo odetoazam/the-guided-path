@@ -6,7 +6,7 @@ ayah_end: 17
 title: "The Oath of the Forgiven: Musa's Covenant After the Fall"
 slug: "028-017"
 category: tadabbur
-arabic: "قَالَ رَبِّ بِمَآ أَنْعَمْتَ عَلَىَّ فَلَنْ أَكُونَ ظَهِيرًۭا لِّلْمُجْرِمِينَ"
+arabic: "قَالَ رَبِّ بِمَآ أَنْعَمْتَ عَلَىَّ فَلَنْ أَكُونَ ظَهِيرًا لِّلْمُجْرِمِينَ"
 translation: "He said: My Lord, by what You have bestowed upon me — never again will I be a back for the criminals."
 word_count: 8
 estimated_duration: "50-58 minutes"

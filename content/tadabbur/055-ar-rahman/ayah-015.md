@@ -6,7 +6,7 @@ ayah_end: 15
 title: "The Hidden Ones, Named: Restless Fire and the Disclosure of the Unseen"
 slug: "055-015"
 category: tadabbur
-arabic: "وَخَلَقَ ٱلْجَآنَّ مِن مَّارِجٍ مِّن نَّارٍ"
+arabic: "وَخَلَقَ ٱلْجَآنَّ مِن مَّارِجٍ مِّن نَّارٍ"
 translation: "And He created the jinn from a smokeless, restless flame of fire."
 word_count: 5900
 estimated_duration: "48-55 minutes"

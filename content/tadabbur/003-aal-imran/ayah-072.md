@@ -6,7 +6,7 @@ ayah_end: 72
 title: "The Face of the Day: When Belief Is Worn as a Costume"
 slug: "003-072"
 category: tadabbur
-arabic: "وَقَالَت طَّآئِفَةٌ مِّنْ أَهْلِ ٱلْكِتَٰبِ ءَامِنُوا۟ بِٱلَّذِىٓ أُنزِلَ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَجْهَ ٱلنَّهَارِ وَٱكْفُرُوٓا۟ ءَاخِرَهُۥ لَعَلَّهُمْ يَرْجِعُونَ"
+arabic: "وَقَالَت طَّآئِفَةٌ مِّنْ أَهْلِ ٱلْكِتَـٰبِ ءَامِنُوا۟ بِٱلَّذِىٓ أُنزِلَ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَجْهَ ٱلنَّهَارِ وَٱكْفُرُوٓا۟ ءَاخِرَهُۥ لَعَلَّهُمْ يَرْجِعُونَ"
 translation: "And a faction of the People of the Book said, 'Believe in what was sent down upon those who believe at the face of the day, and reject it at its end — perhaps they will turn back.'"
 word_count: 17
 estimated_duration: "50-58 minutes"

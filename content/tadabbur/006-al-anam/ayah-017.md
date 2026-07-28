@@ -6,7 +6,7 @@ ayah_end: 17
 title: "When Harm Touches You and When Good Does — Two Sentences, Two Different Promises"
 slug: "006-017"
 category: tadabbur
-arabic: "وَإِن يَمْسَسْكَ ٱللَّهُ بِضُرٍّ فَلَا كَاشِفَ لَهُۥٓ إِلَّا هُوَ ۖ وَإِن يَمْسَسْكَ بِخَيْرٍۢ فَهُوَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ"
+arabic: "وَإِن يَمْسَسْكَ ٱللَّهُ بِضُرٍّ فَلَا كَاشِفَ لَهُۥٓ إِلَّا هُوَ ۖ وَإِن يَمْسَسْكَ بِخَيْرٍ فَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ"
 translation: "And if Allah touches you with harm, none can lift it except Him. And if He touches you with good — then He is over all things capable."
 word_count: 18
 estimated_duration: "50-55 minutes"

@@ -6,7 +6,7 @@ ayah_end: 32
 title: "Not Like Any Other: The Voice That Carries Disease"
 slug: "033-032"
 category: tadabbur
-arabic: "يَـٰنِسَآءَ ٱلنَّبِىِّ لَسْتُنَّ كَأَحَدٍۢ مِّنَ ٱلنِّسَآءِ ۚ إِنِ ٱتَّقَيْتُنَّ فَلَا تَخْضَعْنَ بِٱلْقَوْلِ فَيَطْمَعَ ٱلَّذِى فِى قَلْبِهِۦ مَرَضٌۭ وَقُلْنَ قَوْلًۭا مَّعْرُوفًۭا"
+arabic: "يَـٰنِسَآءَ ٱلنَّبِىِّ لَسْتُنَّ كَأَحَدٍ مِّنَ ٱلنِّسَآءِ ۚ إِنِ ٱتَّقَيْتُنَّ فَلَا تَخْضَعْنَ بِٱلْقَوْلِ فَيَطْمَعَ ٱلَّذِى فِى قَلْبِهِۦ مَرَضٌ وَقُلْنَ قَوْلًا مَّعْرُوفًا"
 translation: "O wives of the Prophet, you are not like any other women — if you are conscious of Allah. So do not be soft in speech, lest he in whose heart is disease should desire, and speak a word that is fitting."
 word_count: 28
 estimated_duration: "50-55 minutes"

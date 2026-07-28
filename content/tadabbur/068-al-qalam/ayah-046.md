@@ -6,7 +6,7 @@ ayah_end: 46
 title: "The Burden That Was Never There"
 slug: "068-046"
 category: tadabbur
-arabic: "أَمْ تَسْـَٔلُهُمْ أَجْرًا فَهُم مِّن مَّغْرَمٍ مُّثْقَلُونَ"
+arabic: "أَمْ تَسْـَٔلُهُمْ أَجْرًا فَهُم مِّن مَّغْرَمٍ مُّثْقَلُونَ"
 translation: "Or do you ask them for a payment, so they are burdened by debt?"
 word_count: 3450
 estimated_duration: "50-58 minutes"

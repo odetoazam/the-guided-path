@@ -6,7 +6,7 @@ ayah_end: 87
 title: "When Refusal Becomes Transgression: The Trap of Forbidding What Allah Made Good"
 slug: "005-087"
 category: tadabbur
-arabic: "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُحَرِّمُوا۟ طَيِّبَٰتِ مَآ أَحَلَّ ٱللَّهُ لَكُمْ وَلَا تَعْتَدُوٓا۟ ۚ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْمُعْتَدِينَ"
+arabic: "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُحَرِّمُوا۟ طَيِّبَـٰتِ مَآ أَحَلَّ ٱللَّهُ لَكُمْ وَلَا تَعْتَدُوٓا۟ ۚ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْمُعْتَدِينَ"
 translation: "O you who have believed — do not declare forbidden the good things that Allah has made lawful for you, and do not transgress. Indeed, Allah does not love the transgressors."
 word_count: 16
 estimated_duration: "48-55 minutes"

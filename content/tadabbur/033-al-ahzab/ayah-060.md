@@ -6,7 +6,7 @@ ayah_end: 60
 title: "When Whispers Become Weapons: The Three Faces of Internal Sabotage"
 slug: "033-060"
 category: tadabbur
-arabic: "لَّئِن لَّمْ يَنتَهِ ٱلْمُنَٰفِقُونَ وَٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ وَٱلْمُرْجِفُونَ فِى ٱلْمَدِينَةِ لَنُغْرِيَنَّكَ بِهِمْ ثُمَّ لَا يُجَاوِرُونَكَ فِيهَآ إِلَّا قَلِيلًا"
+arabic: "۞ لَّئِن لَّمْ يَنتَهِ ٱلْمُنَـٰفِقُونَ وَٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ وَٱلْمُرْجِفُونَ فِى ٱلْمَدِينَةِ لَنُغْرِيَنَّكَ بِهِمْ ثُمَّ لَا يُجَاوِرُونَكَ فِيهَآ إِلَّا قَلِيلًا"
 translation: "If the hypocrites do not desist, and those in whose hearts is a disease, and those who spread alarming rumors in the city — We will surely incite you against them; then they will not remain as your neighbors therein except for a little while."
 word_count: 19
 estimated_duration: "50-58 minutes"

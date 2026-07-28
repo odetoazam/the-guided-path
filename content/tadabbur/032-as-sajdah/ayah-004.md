@@ -6,7 +6,7 @@ ayah_end: 4
 title: "The God Who Sat Upon the Throne — And Left You With No Other Door"
 slug: "032-004"
 category: tadabbur
-arabic: "ٱللَّهُ ٱلَّذِى خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَا فِى سِتَّةِ أَيَّامٍۢ ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ ۖ مَا لَكُم مِّن دُونِهِۦ مِن وَلِىٍّۢ وَلَا شَفِيعٍ ۚ أَفَلَا تَتَذَكَّرُونَ"
+arabic: "ٱللَّهُ ٱلَّذِى خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَا فِى سِتَّةِ أَيَّامٍ ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ ۖ مَا لَكُم مِّن دُونِهِۦ مِن وَلِىٍّ وَلَا شَفِيعٍ ۚ أَفَلَا تَتَذَكَّرُونَ"
 translation: "Allah is the One who created the heavens and the earth and everything between them in six days. Then He rose over the Throne. You have, besides Him, no protector and no intercessor. Will you not, then, remember?"
 word_count: 24
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 50
 title: "The Command Without a Verb: When 'One' Is All It Takes"
 slug: "054-050"
 category: tadabbur
-arabic: "وَمَآ أَمْرُنَآ إِلَّا وَٰحِدَةٌ كَلَمْحٍۭ بِٱلْبَصَرِ"
+arabic: "وَمَآ أَمْرُنَآ إِلَّا وَٰحِدَةٌ كَلَمْحٍۭ بِٱلْبَصَرِ"
 translation: "And Our command is but a single one — like the glance of an eye."
 word_count: 5400
 estimated_duration: "48-56 minutes"

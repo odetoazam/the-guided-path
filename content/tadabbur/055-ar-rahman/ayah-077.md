@@ -6,7 +6,7 @@ ayah_end: 77
 title: "The Last Time the Question Is Asked: Denial as Calling a Gift a Lie"
 slug: "055-077"
 category: tadabbur
-arabic: "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+arabic: "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
 translation: "So which of the favors of your Lord will you both deny?"
 word_count: 7600
 estimated_duration: "50-58 minutes"

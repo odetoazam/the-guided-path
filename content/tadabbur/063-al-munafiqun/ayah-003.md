@@ -6,7 +6,7 @@ ayah_end: 3
 title: "The Seal That Sets Like Clay: Belief Taken Up and Set Down"
 slug: "063-003"
 category: tadabbur
-arabic: "ذَٰلِكَ بِأَنَّهُمْ آمَنُوا ثُمَّ كَفَرُوا فَطُبِعَ عَلَىٰ قُلُوبِهِمْ فَهُمْ لَا يَفْقَهُونَ"
+arabic: "ذَٰلِكَ بِأَنَّهُمْ ءَامَنُوا۟ ثُمَّ كَفَرُوا۟ فَطُبِعَ عَلَىٰ قُلُوبِهِمْ فَهُمْ لَا يَفْقَهُونَ"
 translation: "That is because they believed, then disbelieved; so their hearts were sealed, and so they do not understand."
 word_count: 5400
 estimated_duration: "50-58 minutes"

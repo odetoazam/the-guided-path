@@ -6,7 +6,7 @@ ayah_end: 18
 title: "The Road to Water: Why Everyone Is Following Something"
 slug: "045-018"
 category: tadabbur
-arabic: "ثُمَّ جَعَلْنَٰكَ عَلَىٰ شَرِيعَةٍ مِّنَ ٱلْأَمْرِ فَٱتَّبِعْهَا وَلَا تَتَّبِعْ أَهْوَآءَ ٱلَّذِينَ لَا يَعْلَمُونَ"
+arabic: "ثُمَّ جَعَلْنَـٰكَ عَلَىٰ شَرِيعَةٍ مِّنَ ٱلْأَمْرِ فَٱتَّبِعْهَا وَلَا تَتَّبِعْ أَهْوَآءَ ٱلَّذِينَ لَا يَعْلَمُونَ"
 translation: "Then We placed you upon an ordained way of the matter, so follow it, and do not follow the desires of those who do not know."
 word_count: 13
 estimated_duration: "50-58 minutes"

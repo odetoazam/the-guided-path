@@ -6,7 +6,7 @@ ayah_end: 38
 title: "The Worship That Never Tires: When Arrogance Meets a Universe That Won't Stop Glorifying"
 slug: "041-038"
 category: tadabbur
-arabic: "فَإِنِ ٱسْتَكْبَرُوا۟ فَٱلَّذِينَ عِندَ رَبِّكَ يُسَبِّحُونَ لَهُۥ بِٱلَّيْلِ وَٱلنَّهَارِ وَهُمْ لَا يَسْـَٔمُونَ ۩"
+arabic: "فَإِنِ ٱسْتَكْبَرُوا۟ فَٱلَّذِينَ عِندَ رَبِّكَ يُسَبِّحُونَ لَهُۥ بِٱلَّيْلِ وَٱلنَّهَارِ وَهُمْ لَا يَسْـَٔمُونَ ۩"
 translation: "But if they are too arrogant — then those who are near your Lord glorify Him by night and day, and they never grow weary."
 word_count: 11
 estimated_duration: "50-58 minutes"

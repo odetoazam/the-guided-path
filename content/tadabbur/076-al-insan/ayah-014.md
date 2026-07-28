@@ -6,7 +6,7 @@ ayah_end: 14
 title: "When the Word for Humiliation Bows Toward You: The Fruit That Lowers Itself"
 slug: "076-014"
 category: tadabbur
-arabic: "وَدَانِيَةً عَلَيْهِمْ ظِلَـٰلُهَا وَذُلِّلَتْ قُطُوفُهَا تَذْلِيلًا"
+arabic: "وَدَانِيَةً عَلَيْهِمْ ظِلَـٰلُهَا وَذُلِّلَتْ قُطُوفُهَا تَذْلِيلًا"
 translation: "And its shade will be close over them, and its clusters of fruit made to hang low, lowered all the way down."
 word_count: 6600
 estimated_duration: "50-57 minutes"

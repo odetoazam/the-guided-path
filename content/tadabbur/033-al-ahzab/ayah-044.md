@@ -6,7 +6,7 @@ ayah_end: 44
 title: "The First Word You Will Hear"
 slug: "033-044"
 category: tadabbur
-arabic: "تَحِيَّتُهُمْ يَوْمَ يَلْقَوْنَهُۥ سَلَـٰمٌ ۚ وَأَعَدَّ لَهُمْ أَجْرًۭا كَرِيمًۭا"
+arabic: "تَحِيَّتُهُمْ يَوْمَ يَلْقَوْنَهُۥ سَلَـٰمٌ ۚ وَأَعَدَّ لَهُمْ أَجْرًا كَرِيمًا"
 translation: "Their greeting, on the Day they meet Him, will be: 'Peace.' And He has prepared for them a noble reward."
 word_count: 8
 estimated_duration: "48-55 minutes"

@@ -6,7 +6,7 @@ ayah_end: 62
 title: "So Go Down: The Two Verbs That End the Surah of the Heights"
 slug: "053-062"
 category: tadabbur
-arabic: "فَٱسْجُدُوا۟ لِلَّهِ وَٱعْبُدُوا۩"
+arabic: "فَٱسْجُدُوا۟ لِلَّهِ وَٱعْبُدُوا۟ ۩"
 translation: "So prostrate to Allah, and worship (Him)."
 word_count: 3
 estimated_duration: "50-58 minutes"

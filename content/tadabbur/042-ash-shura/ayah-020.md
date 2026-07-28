@@ -6,7 +6,7 @@ ayah_end: 20
 title: "The Two Harvests: Why One Field Multiplies and the Other Only Pays Out"
 slug: "042-020"
 category: tadabbur
-arabic: "مَن كَانَ يُرِيدُ حَرْثَ ٱلْءَاخِرَةِ نَزِدْ لَهُۥ فِى حَرْثِهِۦ ۖ وَمَن كَانَ يُرِيدُ حَرْثَ ٱلدُّنْيَا نُؤْتِهِۦ مِنْهَا وَمَا لَهُۥ فِى ٱلْءَاخِرَةِ مِن نَّصِيبٍ"
+arabic: "مَن كَانَ يُرِيدُ حَرْثَ ٱلْـَٔاخِرَةِ نَزِدْ لَهُۥ فِى حَرْثِهِۦ ۖ وَمَن كَانَ يُرِيدُ حَرْثَ ٱلدُّنْيَا نُؤْتِهِۦ مِنْهَا وَمَا لَهُۥ فِى ٱلْـَٔاخِرَةِ مِن نَّصِيبٍ"
 translation: "Whoever desires the harvest of the Hereafter — We increase for him in his harvest. And whoever desires the harvest of this world — We give him something of it, but he has no share in the Hereafter."
 word_count: 22
 estimated_duration: "50-58 minutes"

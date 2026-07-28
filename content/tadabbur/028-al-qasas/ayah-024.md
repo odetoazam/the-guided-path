@@ -6,7 +6,7 @@ ayah_end: 24
 title: "The Prayer of the Stranger: Rabbi Inni Lima Anzalta Ilayya Min Khayrin Faqir"
 slug: "028-024"
 category: tadabbur
-arabic: "فَسَقَىٰ لَهُمَا ثُمَّ تَوَلَّىٰٓ إِلَى ٱلظِّلِّ فَقَالَ رَبِّ إِنِّى لِمَآ أَنزَلْتَ إِلَىَّ مِنْ خَيْرٍ فَقِيرٌ"
+arabic: "فَسَقَىٰ لَهُمَا ثُمَّ تَوَلَّىٰٓ إِلَى ٱلظِّلِّ فَقَالَ رَبِّ إِنِّى لِمَآ أَنزَلْتَ إِلَىَّ مِنْ خَيْرٍ فَقِيرٌ"
 translation: "So he watered [their flocks] for them; then he turned aside into the shade and said, 'My Lord, indeed I am, for whatever good You would send down to me, in need.'"
 word_count: 11
 estimated_duration: "50-58 minutes"

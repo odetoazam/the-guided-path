@@ -6,7 +6,7 @@ ayah_end: 11
 title: "Drowned and Dreaming: The Double Condition of غَمْرَة and سَاهُون"
 slug: "051-011"
 category: tadabbur
-arabic: "الَّذِينَ هُمْ فِي غَمْرَةٍ سَاهُونَ"
+arabic: "ٱلَّذِينَ هُمْ فِى غَمْرَةٍ سَاهُونَ"
 translation: "Those who are in an overwhelming flood — absent-hearted."
 word_count: 4200
 estimated_duration: "48-56 minutes"

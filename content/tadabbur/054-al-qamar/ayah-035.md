@@ -6,7 +6,7 @@ ayah_end: 35
 title: "Rescue Reclassified: The Past-Tense Gratitude That Earns a Present-Tense Reward"
 slug: "054-035"
 category: tadabbur
-arabic: "نِّعْمَةً مِّنْ عِندِنَا ۚ كَذَٰلِكَ نَجْزِي مَن شَكَرَ"
+arabic: "نِّعْمَةً مِّنْ عِندِنَا ۚ كَذَٰلِكَ نَجْزِى مَن شَكَرَ"
 translation: "As a favor from Us. Thus do We reward the one who is grateful."
 word_count: 5600
 estimated_duration: "48-55 minutes"

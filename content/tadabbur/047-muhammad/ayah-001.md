@@ -6,7 +6,7 @@ ayah_end: 1
 title: "The Ledger That Vanishes: On Deeds Rendered Lost"
 slug: "047-001"
 category: tadabbur
-arabic: "ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَـٰلَهُمْ"
+arabic: "ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَـٰلَهُمْ"
 translation: "Those who disbelieve and turn others away from the path of Allah — He has caused their deeds to be lost."
 word_count: 8100
 estimated_duration: "50-56 minutes"

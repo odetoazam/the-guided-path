@@ -6,7 +6,7 @@ ayah_end: 14
 title: "When the Soul Knows and Still Refuses: The Tragedy of Certainty Without Submission"
 slug: "027-014"
 category: tadabbur
-arabic: "وَجَحَدُوا۟ بِهَا وَٱسْتَيْقَنَتْهَآ أَنفُسُهُمْ ظُلْمًۭا وَعُلُوًّۭا ۚ فَٱنظُرْ كَيْفَ كَانَ عَـٰقِبَةُ ٱلْمُفْسِدِينَ"
+arabic: "وَجَحَدُوا۟ بِهَا وَٱسْتَيْقَنَتْهَآ أَنفُسُهُمْ ظُلْمًا وَعُلُوًّا ۚ فَٱنظُرْ كَيْفَ كَانَ عَـٰقِبَةُ ٱلْمُفْسِدِينَ"
 translation: "And they rejected them, though their own souls were utterly convinced of them, out of injustice and arrogance. So observe how was the end of the corrupters."
 word_count: 1100
 estimated_duration: "50-55 minutes"

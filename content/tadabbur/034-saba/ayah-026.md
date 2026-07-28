@@ -6,7 +6,7 @@ ayah_end: 26
 title: "The Opener Who Will Open Between Us"
 slug: "034-026"
 category: tadabbur
-arabic: "قُلْ يَجْمَعُ بَيْنَنَا رَبُّنَا ثُمَّ يَفْتَحُ بَيْنَنَا بِٱلْحَقِّ وَهُوَ ٱلْفَتَّاحُ ٱلْعَلِيمُ"
+arabic: "قُلْ يَجْمَعُ بَيْنَنَا رَبُّنَا ثُمَّ يَفْتَحُ بَيْنَنَا بِٱلْحَقِّ وَهُوَ ٱلْفَتَّاحُ ٱلْعَلِيمُ"
 translation: "Say: 'Our Lord will gather us together, then He will open between us with the truth. And He is the Opener, the All-Knowing.'"
 word_count: 11
 estimated_duration: "48-55 minutes"

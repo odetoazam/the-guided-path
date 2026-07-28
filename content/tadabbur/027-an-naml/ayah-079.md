@@ -6,7 +6,7 @@ ayah_end: 79
 title: "The Command to Lean: Tawakkul as the Posture of the Manifestly True"
 slug: "027-079"
 category: tadabbur
-arabic: "فَتَوَكَّلْ عَلَى اللَّهِ ۖ إِنَّكَ عَلَى الْحَقِّ الْمُبِينِ"
+arabic: "فَتَوَكَّلْ عَلَى ٱللَّهِ ۖ إِنَّكَ عَلَى ٱلْحَقِّ ٱلْمُبِينِ"
 translation: "So place your trust in Allah. Indeed, you stand upon the manifest truth."
 word_count: 7
 estimated_duration: "48-55 minutes"

@@ -6,7 +6,7 @@ ayah_end: 52
 title: "The Houses That Outlived Their Builders: Tilka Buyūtuhum Khāwiyatan"
 slug: "027-052"
 category: tadabbur
-arabic: "فَتِلْكَ بُيُوتُهُمْ خَاوِيَةً بِمَا ظَلَمُوا ۗ إِنَّ فِي ذَٰلِكَ لَآيَةً لِّقَوْمٍ يَعْلَمُونَ"
+arabic: "فَتِلْكَ بُيُوتُهُمْ خَاوِيَةًۢ بِمَا ظَلَمُوٓا۟ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةً لِّقَوْمٍ يَعْلَمُونَ"
 translation: "So those are their houses, fallen empty because of the wrong they did. Indeed, in that is a sign for a people who know."
 word_count: 11
 estimated_duration: "50-58 minutes"

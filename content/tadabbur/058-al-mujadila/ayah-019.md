@@ -6,7 +6,7 @@ ayah_end: 19
 title: "The Herder and the Forgetting: How Shaytan Drives a Soul Without It Noticing"
 slug: "058-019"
 category: tadabbur
-arabic: "ٱسْتَحْوَذَ عَلَيْهِمُ ٱلشَّيْطَٰنُ فَأَنسَىٰهُمْ ذِكْرَ ٱللَّهِ ۚ أُو۟لَٰٓئِكَ حِزْبُ ٱلشَّيْطَٰنِ ۚ أَلَآ إِنَّ حِزْبَ ٱلشَّيْطَٰنِ هُمُ ٱلْخَٰسِرُونَ"
+arabic: "ٱسْتَحْوَذَ عَلَيْهِمُ ٱلشَّيْطَـٰنُ فَأَنسَىٰهُمْ ذِكْرَ ٱللَّهِ ۚ أُو۟لَـٰٓئِكَ حِزْبُ ٱلشَّيْطَـٰنِ ۚ أَلَآ إِنَّ حِزْبَ ٱلشَّيْطَـٰنِ هُمُ ٱلْخَـٰسِرُونَ"
 translation: "Shaytan has gained complete mastery over them, so he made them forget the remembrance of Allah. Those are the party of Shaytan. Beware — surely it is the party of Shaytan who are the losers."
 word_count: 6200
 estimated_duration: "50-58 minutes"

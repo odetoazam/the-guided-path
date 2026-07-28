@@ -6,7 +6,7 @@ ayah_end: 4
 title: "The Building With No Gaps: Why Allah Loves a Shape"
 slug: "061-004"
 category: tadabbur
-arabic: "إِنَّ ٱللَّهَ يُحِبُّ ٱلَّذِينَ يُقَـٰتِلُونَ فِى سَبِيلِهِۦ صَفًّۭا كَأَنَّهُم بُنْيَـٰنٌۭ مَّرْصُوصٌۭ"
+arabic: "إِنَّ ٱللَّهَ يُحِبُّ ٱلَّذِينَ يُقَـٰتِلُونَ فِى سَبِيلِهِۦ صَفًّا كَأَنَّهُم بُنْيَـٰنٌ مَّرْصُوصٌ"
 translation: "Indeed, Allah loves those who fight in His way in a single rank, as if they were a structure firmly cemented together."
 word_count: 11
 estimated_duration: "50-58 minutes"

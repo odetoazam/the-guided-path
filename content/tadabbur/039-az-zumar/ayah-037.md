@@ -6,7 +6,7 @@ ayah_end: 37
 title: "No One Can Unmake What Allah Has Made: Guidance and the Unassailable Guide"
 slug: "039-037"
 category: tadabbur
-arabic: "وَمَن يَهْدِ ٱللَّهُ فَمَا لَهُۥ مِن مُّضِلٍّ ۗ أَلَيْسَ ٱللَّهُ بِعَزِيزٍ ذِى ٱنتِقَامٍ"
+arabic: "وَمَن يَهْدِ ٱللَّهُ فَمَا لَهُۥ مِن مُّضِلٍّ ۗ أَلَيْسَ ٱللَّهُ بِعَزِيزٍ ذِى ٱنتِقَامٍ"
 translation: "And whoever Allah guides — for him there is no one who can lead astray. Is Allah not Exalted in Might, the Master of Retribution?"
 word_count: 10
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 3
 title: "The Wombs That Will Not Save You: When Blood Is Severed Before the All-Seeing"
 slug: "060-003"
 category: tadabbur
-arabic: "لَن تَنفَعَكُمْ أَرْحَامُكُمْ وَلَآ أَوْلَـٰدُكُمْ ۚ يَوْمَ ٱلْقِيَـٰمَةِ يَفْصِلُ بَيْنَكُمْ ۚ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ"
+arabic: "لَن تَنفَعَكُمْ أَرْحَامُكُمْ وَلَآ أَوْلَـٰدُكُمْ ۚ يَوْمَ ٱلْقِيَـٰمَةِ يَفْصِلُ بَيْنَكُمْ ۚ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ"
 translation: "Never will your relatives or your children benefit you. On the Day of Resurrection He will decide between you. And Allah, of what you do, is All-Seeing."
 word_count: 14
 estimated_duration: "50-58 minutes"

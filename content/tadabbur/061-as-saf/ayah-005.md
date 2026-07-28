@@ -6,7 +6,7 @@ ayah_end: 5
 title: "The Swerve You Start and the Swerve You Cannot Stop"
 slug: "061-005"
 category: tadabbur
-arabic: "وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦ يَـٰقَوْمِ لِمَ تُؤْذُونَنِى وَقَد تَّعْلَمُونَ أَنِّى رَسُولُ ٱللَّهِ إِلَيْكُمْ ۖ فَلَمَّا زَاغُوٓاْ أَزَاغَ ٱللَّهُ قُلُوبَهُمْ ۚ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَـٰسِقِينَ"
+arabic: "وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦ يَـٰقَوْمِ لِمَ تُؤْذُونَنِى وَقَد تَّعْلَمُونَ أَنِّى رَسُولُ ٱللَّهِ إِلَيْكُمْ ۖ فَلَمَّا زَاغُوٓا۟ أَزَاغَ ٱللَّهُ قُلُوبَهُمْ ۚ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَـٰسِقِينَ"
 translation: "And [remember] when Musa said to his people, 'O my people, why do you hurt me while you certainly know that I am the Messenger of Allah to you?' So when they deviated, Allah turned their hearts away. And Allah does not guide the defiantly disobedient people."
 word_count: 4800
 estimated_duration: "50-56 minutes"

@@ -6,7 +6,7 @@ ayah_end: 60
 title: "The Face You Tried to Save: Arrogance as a Lie Against Your Own Soul"
 slug: "039-060"
 category: tadabbur
-arabic: "وَيَوْمَ ٱلْقِيَٰمَةِ تَرَى ٱلَّذِينَ كَذَبُوا۟ عَلَى ٱللَّهِ وُجُوهُهُم مُّسْوَدَّةٌ ۚ أَلَيْسَ فِى جَهَنَّمَ مَثْوًى لِّلْمُتَكَبِّرِينَ"
+arabic: "وَيَوْمَ ٱلْقِيَـٰمَةِ تَرَى ٱلَّذِينَ كَذَبُوا۟ عَلَى ٱللَّهِ وُجُوهُهُم مُّسْوَدَّةٌ ۚ أَلَيْسَ فِى جَهَنَّمَ مَثْوًى لِّلْمُتَكَبِّرِينَ"
 translation: "And on the Day of Resurrection you will see those who lied about Allah — their faces blackened. Is there not, in Hell, an abode for the arrogant?"
 word_count: 14
 estimated_duration: "50-58 minutes"

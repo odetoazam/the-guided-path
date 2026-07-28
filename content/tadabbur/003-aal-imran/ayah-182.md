@@ -6,7 +6,7 @@ ayah_end: 182
 title: "What Your Hands Sent Ahead"
 slug: "003-182"
 category: tadabbur
-arabic: "ذَٰلِكَ بِمَا قَدَّمَتْ أَيْدِيكُمْ وَأَنَّ ٱللَّهَ لَيْسَ بِظَلَّـٰمٍ لِّلْعَبِيدِ"
+arabic: "ذَٰلِكَ بِمَا قَدَّمَتْ أَيْدِيكُمْ وَأَنَّ ٱللَّهَ لَيْسَ بِظَلَّامٍ لِّلْعَبِيدِ"
 translation: "That is for what your hands sent ahead, and because Allah is never unjust to the servants."
 word_count: null
 estimated_duration: "45-55 minutes"

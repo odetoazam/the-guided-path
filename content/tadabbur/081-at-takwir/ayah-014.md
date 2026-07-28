@@ -6,7 +6,7 @@ ayah_end: 14
 title: "When the Universe Is Dismantled So One Soul Can Finally Know"
 slug: "081-014"
 category: tadabbur
-arabic: "عَلِمَتْ نَفْسٌ مَّآ أَحْضَرَتْ"
+arabic: "عَلِمَتْ نَفْسٌ مَّآ أَحْضَرَتْ"
 translation: "A soul will know what it has brought."
 word_count: 4
 estimated_duration: "50-58 minutes"

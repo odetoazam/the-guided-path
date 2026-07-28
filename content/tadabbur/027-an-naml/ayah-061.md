@@ -6,7 +6,7 @@ ayah_end: 61
 title: "The Barrier Between Two Seas: When Mercy Looks Like Separation"
 slug: "027-061"
 category: tadabbur
-arabic: "أَمَّن جَعَلَ ٱلْأَرْضَ قَرَارًۭا وَجَعَلَ خِلَـٰلَهَآ أَنْهَـٰرًۭا وَجَعَلَ لَهَا رَوَٰسِىَ وَجَعَلَ بَيْنَ ٱلْبَحْرَيْنِ حَاجِزًا ۗ أَءِلَـٰهٌۭ مَّعَ ٱللَّهِ ۚ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ"
+arabic: "أَمَّن جَعَلَ ٱلْأَرْضَ قَرَارًا وَجَعَلَ خِلَـٰلَهَآ أَنْهَـٰرًا وَجَعَلَ لَهَا رَوَٰسِىَ وَجَعَلَ بَيْنَ ٱلْبَحْرَيْنِ حَاجِزًا ۗ أَءِلَـٰهٌ مَّعَ ٱللَّهِ ۚ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ"
 translation: "Or He who made the earth a stable place, and placed rivers running through it, and set firm mountains upon it, and placed a barrier between the two seas. Is there a god alongside Allah? Rather, most of them do not know."
 word_count: 28
 estimated_duration: "50-55 minutes"

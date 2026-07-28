@@ -6,7 +6,7 @@ ayah_end: 37
 title: "Inside the Answer to 'If Only': The Scream That Already Has Its Reply"
 slug: "035-037"
 category: tadabbur
-arabic: "وَهُمْ يَصْطَرِخُونَ فِيهَا رَبَّنَآ أَخْرِجْنَا نَعْمَلْ صَـٰلِحًا غَيْرَ ٱلَّذِى كُنَّا نَعْمَلُ ۚ أَوَلَمْ نُعَمِّرْكُم مَّا يَتَذَكَّرُ فِيهِ مَن تَذَكَّرَ وَجَآءَكُمُ ٱلنَّذِيرُ ۖ فَذُوقُوا۟ فَمَا لِلظَّـٰلِمِينَ مِن نَّصِيرٍ"
+arabic: "وَهُمْ يَصْطَرِخُونَ فِيهَا رَبَّنَآ أَخْرِجْنَا نَعْمَلْ صَـٰلِحًا غَيْرَ ٱلَّذِى كُنَّا نَعْمَلُ ۚ أَوَلَمْ نُعَمِّرْكُم مَّا يَتَذَكَّرُ فِيهِ مَن تَذَكَّرَ وَجَآءَكُمُ ٱلنَّذِيرُ ۖ فَذُوقُوا۟ فَمَا لِلظَّـٰلِمِينَ مِن نَّصِيرٍ"
 translation: "And they will cry out therein, 'Our Lord! Bring us out — we will do righteous deeds other than what we used to do.' [It will be said:] 'Did We not give you a life long enough that whoever would take heed could have taken heed in it? And the warner came to you. So taste — for the wrongdoers there is no helper.'"
 word_count: 25
 estimated_duration: "50-58 minutes"

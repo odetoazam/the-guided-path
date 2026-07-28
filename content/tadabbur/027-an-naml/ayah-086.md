@@ -6,7 +6,7 @@ ayah_end: 86
 title: "The Night That Was Made For You: Allah's Quiet Argument from the Darkness"
 slug: "027-086"
 category: tadabbur
-arabic: "أَلَمْ يَرَوْا۟ أَنَّا جَعَلْنَا ٱلَّيْلَ لِيَسْكُنُوا۟ فِيهِ وَٱلنَّهَارَ مُبْصِرًا ۚ إِنَّ فِى ذَٰلِكَ لَءَايَـٰتٍ لِّقَوْمٍ يُؤْمِنُونَ"
+arabic: "أَلَمْ يَرَوْا۟ أَنَّا جَعَلْنَا ٱلَّيْلَ لِيَسْكُنُوا۟ فِيهِ وَٱلنَّهَارَ مُبْصِرًا ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّقَوْمٍ يُؤْمِنُونَ"
 translation: "Do they not see that We made the night for them to rest in, and the day giving sight? Indeed, in that are signs for a people who believe."
 word_count: 18
 estimated_duration: "50-55 minutes"

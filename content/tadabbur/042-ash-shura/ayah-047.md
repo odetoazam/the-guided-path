@@ -6,7 +6,7 @@ ayah_end: 47
 title: "Answer While Answering Is Still Possible: The Day With No Turning Back"
 slug: "042-047"
 category: tadabbur
-arabic: "ٱسْتَجِيبُوا۟ لِرَبِّكُم مِّن قَبْلِ أَن يَأْتِىَ يَوْمٌ لَّا مَرَدَّ لَهُۥ مِنَ ٱللَّهِ ۚ مَا لَكُم مِّن مَّلْجَإٍ يَوْمَئِذٍ وَمَا لَكُم مِّن نَّكِيرٍ"
+arabic: "ٱسْتَجِيبُوا۟ لِرَبِّكُم مِّن قَبْلِ أَن يَأْتِىَ يَوْمٌ لَّا مَرَدَّ لَهُۥ مِنَ ٱللَّهِ ۚ مَا لَكُم مِّن مَّلْجَإٍ يَوْمَئِذٍ وَمَا لَكُم مِّن نَّكِيرٍ"
 translation: "Respond to your Lord before there comes a Day from Allah that cannot be turned back. You will have no refuge that Day, nor will you have any [means of] denial."
 word_count: 21
 estimated_duration: "50-58 minutes"

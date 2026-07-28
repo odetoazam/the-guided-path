@@ -6,7 +6,7 @@ ayah_end: 40
 title: "A Portion of the Night, and the Trailing Edge of Prostration"
 slug: "050-040"
 category: tadabbur
-arabic: "وَمِنَ ٱلَّيْلِ فَسَبِّحْهُ وَأَدْبَـٰرَ ٱلسُّجُودِ"
+arabic: "وَمِنَ ٱلَّيْلِ فَسَبِّحْهُ وَأَدْبَـٰرَ ٱلسُّجُودِ"
 translation: "And of the night, glorify Him — and in the trailing edges of prostration."
 word_count: 5
 estimated_duration: "50-58 minutes"

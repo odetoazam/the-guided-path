@@ -6,7 +6,7 @@ ayah_end: 69
 title: "The Plural Paths and the Promise of Presence"
 slug: "029-069"
 category: tadabbur
-arabic: "وَالَّذِينَ جَاهَدُوا فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا ۚ وَإِنَّ اللَّهَ لَمَعَ الْمُحْسِنِينَ"
+arabic: "وَٱلَّذِينَ جَـٰهَدُوا۟ فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا ۚ وَإِنَّ ٱللَّهَ لَمَعَ ٱلْمُحْسِنِينَ"
 translation: "And those who strive in Us — We will surely guide them to Our paths. And indeed, Allah is with those who do beautiful."
 word_count: 11
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 37
 title: "What Reaches Allah — The Meat, the Blood, and the Taqwa"
 slug: "022-037"
 category: tadabbur
-arabic: "لَن يَنَالَ ٱللَّهَ لُحُومُهَا وَلَا دِمَآؤُهَا وَلَـٰكِن يَنَالُهُ ٱلتَّقْوَىٰ مِنكُمْ ۚ كَذَٰلِكَ سَخَّرَهَا لَكُمْ لِتُكَبِّرُوا۟ ٱللَّهَ عَلَىٰ مَا هَدَىٰكُمْ ۗ وَبَشِّرِ ٱلْمُحْسِنِينَ"
+arabic: "لَن يَنَالَ ٱللَّهَ لُحُومُهَا وَلَا دِمَآؤُهَا وَلَـٰكِن يَنَالُهُ ٱلتَّقْوَىٰ مِنكُمْ ۚ كَذَٰلِكَ سَخَّرَهَا لَكُمْ لِتُكَبِّرُوا۟ ٱللَّهَ عَلَىٰ مَا هَدَىٰكُمْ ۗ وَبَشِّرِ ٱلْمُحْسِنِينَ"
 translation: "Neither their meat nor their blood reaches Allah, but what reaches Him is the consciousness from you. Thus has He subjected them to you, that you may magnify Allah for guiding you. And give good tidings to those who do good with excellence."
 word_count: 22
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 76
 title: "The Two Blind Spots and the Return of All Matters"
 slug: "022-076"
 category: tadabbur
-arabic: "يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۗ وَإِلَى ٱللَّهِ تُرْجَعُ ٱلْأُمُورُ"
+arabic: "يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۗ وَإِلَى ٱللَّهِ تُرْجَعُ ٱلْأُمُورُ"
 translation: "He knows what lies before them and what lies behind them — and to Allah all matters are returned."
 word_count: 11
 estimated_duration: "48-54 minutes"

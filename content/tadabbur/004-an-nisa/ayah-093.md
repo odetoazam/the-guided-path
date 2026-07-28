@@ -6,7 +6,7 @@ ayah_end: 93
 title: "The Pillar of Intent: When a Single Choice Prepares Its Own Exile"
 slug: "004-093"
 category: tadabbur
-arabic: "وَمَن يَقْتُلْ مُؤْمِنًا مُّتَعَمِّدًا فَجَزَآؤُهُۥ جَهَنَّمُ خَـٰلِدًا فِيهَا وَغَضِبَ ٱللَّهُ عَلَيْهِ وَلَعَنَهُۥ وَأَعَدَّ لَهُۥ عَذَابًا عَظِيمًا"
+arabic: "وَمَن يَقْتُلْ مُؤْمِنًا مُّتَعَمِّدًا فَجَزَآؤُهُۥ جَهَنَّمُ خَـٰلِدًا فِيهَا وَغَضِبَ ٱللَّهُ عَلَيْهِ وَلَعَنَهُۥ وَأَعَدَّ لَهُۥ عَذَابًا عَظِيمًا"
 translation: "And whoever kills a believer intentionally — his recompense is Hell, abiding therein; and the wrath of Allah is upon him, and He has cursed him, and has prepared for him a tremendous punishment."
 word_count: 16
 estimated_duration: "50-58 minutes"

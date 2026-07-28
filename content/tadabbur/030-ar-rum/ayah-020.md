@@ -6,7 +6,7 @@ ayah_end: 20
 title: "From Dust You Spread: The Sign Hidden in Your Own Becoming"
 slug: "030-020"
 category: tadabbur
-arabic: "وَمِنْ ءَايَـٰتِهِۦٓ أَنْ خَلَقَكُم مِّن تُرَابٍ ثُمَّ إِذَآ أَنتُم بَشَرٌ تَنتَشِرُونَ"
+arabic: "وَمِنْ ءَايَـٰتِهِۦٓ أَنْ خَلَقَكُم مِّن تُرَابٍ ثُمَّ إِذَآ أَنتُم بَشَرٌ تَنتَشِرُونَ"
 translation: "And among His signs is that He created you from dust — then, behold, you are human beings spreading far and wide."
 word_count: 11
 estimated_duration: "48-55 minutes"

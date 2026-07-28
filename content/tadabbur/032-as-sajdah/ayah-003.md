@@ -6,7 +6,7 @@ ayah_end: 3
 title: "The Warner No One Sent Before: Mercy Disguised as Confrontation"
 slug: "032-003"
 category: tadabbur
-arabic: "أَمْ يَقُولُونَ ٱفْتَرَىٰهُ ۚ بَلْ هُوَ ٱلْحَقُّ مِن رَّبِّكَ لِتُنذِرَ قَوْمًا مَّآ أَتَىٰهُم مِّن نَّذِيرٍ مِّن قَبْلِكَ لَعَلَّهُمْ يَهْتَدُونَ"
+arabic: "أَمْ يَقُولُونَ ٱفْتَرَىٰهُ ۚ بَلْ هُوَ ٱلْحَقُّ مِن رَّبِّكَ لِتُنذِرَ قَوْمًا مَّآ أَتَىٰهُم مِّن نَّذِيرٍ مِّن قَبْلِكَ لَعَلَّهُمْ يَهْتَدُونَ"
 translation: "Or do they say, 'He has invented it'? Rather, it is the truth from your Lord, that you may warn a people to whom no warner has come before you — so that perhaps they may be guided."
 word_count: 21
 estimated_duration: "50-55 minutes"

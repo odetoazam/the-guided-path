@@ -6,7 +6,7 @@ ayah_end: 37
 title: "The Mercy in the Silence: When No One Owns a Single Word"
 slug: "078-037"
 category: tadabbur
-arabic: "رَّبِّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا ٱلرَّحْمَٰنِ ۖ لَا يَمْلِكُونَ مِنْهُ خِطَابًا"
+arabic: "رَّبِّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا ٱلرَّحْمَـٰنِ ۖ لَا يَمْلِكُونَ مِنْهُ خِطَابًا"
 translation: "Lord of the heavens and the earth and whatever is between them — the Most Merciful. They possess not, before Him, so much as a word to address Him."
 word_count: 10
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 35
 title: "Forgive Me, Then Give Me: Solomon and the Crown He Asked of the Bestower"
 slug: "038-035"
 category: tadabbur
-arabic: "قَالَ رَبِّ ٱغْفِرْ لِى وَهَبْ لِى مُلْكًۭا لَّا يَنۢبَغِى لِأَحَدٍۢ مِّنۢ بَعْدِىٓ ۖ إِنَّكَ أَنتَ ٱلْوَهَّابُ"
+arabic: "قَالَ رَبِّ ٱغْفِرْ لِى وَهَبْ لِى مُلْكًا لَّا يَنۢبَغِى لِأَحَدٍ مِّنۢ بَعْدِىٓ ۖ إِنَّكَ أَنتَ ٱلْوَهَّابُ"
 translation: "He said, \"My Lord, forgive me, and grant me a kingdom such as will not befit anyone after me. Indeed, You — You are the Bestower.\""
 word_count: 6100
 estimated_duration: "50-58 minutes"

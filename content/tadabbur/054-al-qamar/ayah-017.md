@@ -6,7 +6,7 @@ ayah_end: 17
 title: "The Word That Was Smoothed in Your Mouth: How Allah Made the Quran Easy Before You Ever Arrived"
 slug: "054-017"
 category: tadabbur
-arabic: "وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ"
+arabic: "وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ"
 translation: "And We have certainly made the Quran easy for remembrance — so is there anyone who will take heed?"
 word_count: 5400
 estimated_duration: "48-55 minutes"

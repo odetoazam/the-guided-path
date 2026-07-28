@@ -6,7 +6,7 @@ ayah_end: 96
 title: "When Certainty Arrives, Bow: The Last Word of Al-Waqi'ah"
 slug: "056-096"
 category: tadabbur
-arabic: "فَسَبِّحْ بِٱسْمِ رَبِّكَ ٱلْعَظِيمِ"
+arabic: "فَسَبِّحْ بِٱسْمِ رَبِّكَ ٱلْعَظِيمِ"
 translation: "So glorify the name of your Lord, the Most Great."
 word_count: 6400
 estimated_duration: "50-58 minutes"

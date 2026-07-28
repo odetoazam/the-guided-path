@@ -6,7 +6,7 @@ ayah_end: 16
 title: "What Did He Just Say? — On Hearing Without Receiving and the Seal of the Heart"
 slug: "047-016"
 category: tadabbur
-arabic: "وَمِنْهُم مَّن يَسْتَمِعُ إِلَيْكَ حَتَّىٰٓ إِذَا خَرَجُواْ مِنْ عِندِكَ قَالُواْ لِلَّذِينَ أُوتُواْ ٱلْعِلْمَ مَاذَا قَالَ ءَانِفًاۚ أُوْلَـٰٓئِكَ ٱلَّذِينَ طَبَعَ ٱللَّهُ عَلَىٰ قُلُوبِهِمْ وَٱتَّبَعُوٓاْ أَهْوَآءَهُمْ"
+arabic: "وَمِنْهُم مَّن يَسْتَمِعُ إِلَيْكَ حَتَّىٰٓ إِذَا خَرَجُوا۟ مِنْ عِندِكَ قَالُوا۟ لِلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ مَاذَا قَالَ ءَانِفًا ۚ أُو۟لَـٰٓئِكَ ٱلَّذِينَ طَبَعَ ٱللَّهُ عَلَىٰ قُلُوبِهِمْ وَٱتَّبَعُوٓا۟ أَهْوَآءَهُمْ"
 translation: "And among them are those who listen to you, until, when they leave your presence, they say to those who were given knowledge, 'What did he say just now?' Those are the ones whose hearts Allah has sealed, and they have followed their desires."
 word_count: 24
 estimated_duration: "50-58 minutes"

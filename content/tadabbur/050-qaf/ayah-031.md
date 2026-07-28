@@ -6,7 +6,7 @@ ayah_end: 31
 title: "The Garden That Comes to You: Brought Near, and Not Far"
 slug: "050-031"
 category: tadabbur
-arabic: "وَأُزْلِفَتِ ٱلْجَنَّةُ لِلْمُتَّقِينَ غَيْرَ بَعِيدٍ"
+arabic: "وَأُزْلِفَتِ ٱلْجَنَّةُ لِلْمُتَّقِينَ غَيْرَ بَعِيدٍ"
 translation: "And Paradise will be brought near to the God-conscious — not far at all."
 word_count: 5
 estimated_duration: "49-58 minutes"

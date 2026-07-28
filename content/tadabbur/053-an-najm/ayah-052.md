@@ -6,7 +6,7 @@ ayah_end: 52
 title: "The First and the Worst: Why the People of Nuh Were Named Last"
 slug: "053-052"
 category: tadabbur
-arabic: "وَقَوْمَ نُوحٍ مِّن قَبْلُ ۖ إِنَّهُمْ كَانُوا هُمْ أَظْلَمَ وَأَطْغَىٰ"
+arabic: "وَقَوْمَ نُوحٍ مِّن قَبْلُ ۖ إِنَّهُمْ كَانُوا۟ هُمْ أَظْلَمَ وَأَطْغَىٰ"
 translation: "And the people of Nuh before — indeed, it was they who were the more unjust and the more rebellious."
 word_count: 9
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 62
 title: "Khilfah — The Mercy of the Second Chance Woven Into Time"
 slug: "025-062"
 category: tadabbur
-arabic: "وَهُوَ ٱلَّذِى جَعَلَ ٱلَّيْلَ وَٱلنَّهَارَ خِلْفَةً لِّمَنْ أَرَادَ أَن يَذَّكَّرَ أَوْ أَرَادَ شُكُورًۭا"
+arabic: "وَهُوَ ٱلَّذِى جَعَلَ ٱلَّيْلَ وَٱلنَّهَارَ خِلْفَةً لِّمَنْ أَرَادَ أَن يَذَّكَّرَ أَوْ أَرَادَ شُكُورًا"
 translation: "And it is He who has made the night and the day succeed one another — for whoever desires to remember, or desires to give thanks."
 word_count: 13
 estimated_duration: "50-58 minutes"

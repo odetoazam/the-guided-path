@@ -6,7 +6,7 @@ ayah_end: 26
 title: "How Many an Angel: When the Mightiest Voice in the Heavens Cannot Speak Without Permission"
 slug: "053-026"
 category: tadabbur
-arabic: "۞ وَكَم مِّن مَّلَكٍ فِى ٱلسَّمَـٰوَٰتِ لَا تُغْنِى شَفَـٰعَتُهُمْ شَيْـًٔا إِلَّا مِنۢ بَعْدِ أَن يَأْذَنَ ٱللَّهُ لِمَن يَشَآءُ وَيَرْضَىٰٓ"
+arabic: "۞ وَكَم مِّن مَّلَكٍ فِى ٱلسَّمَـٰوَٰتِ لَا تُغْنِى شَفَـٰعَتُهُمْ شَيْـًٔا إِلَّا مِنۢ بَعْدِ أَن يَأْذَنَ ٱللَّهُ لِمَن يَشَآءُ وَيَرْضَىٰٓ"
 translation: "And how many an angel is there in the heavens whose intercession avails nothing at all — except after Allah has given permission to whom He wills and approves."
 word_count: 7100
 estimated_duration: "50-58 minutes"

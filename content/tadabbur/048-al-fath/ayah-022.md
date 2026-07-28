@@ -6,7 +6,7 @@ ayah_end: 22
 title: "The Battle That Never Happened — And the Backs That Turn Away From Nearness"
 slug: "048-022"
 category: tadabbur
-arabic: "وَلَوْ قَٰتَلَكُمُ ٱلَّذِينَ كَفَرُوا۟ لَوَلَّوُا۟ ٱلْأَدْبَٰرَ ثُمَّ لَا يَجِدُونَ وَلِيًّا وَلَا نَصِيرًا"
+arabic: "وَلَوْ قَـٰتَلَكُمُ ٱلَّذِينَ كَفَرُوا۟ لَوَلَّوُا۟ ٱلْأَدْبَـٰرَ ثُمَّ لَا يَجِدُونَ وَلِيًّا وَلَا نَصِيرًا"
 translation: "And if those who disbelieve had fought you, they would surely have turned their backs [in flight]; then they would not have found any protector or any helper."
 word_count: 5400
 estimated_duration: "50-58 minutes"

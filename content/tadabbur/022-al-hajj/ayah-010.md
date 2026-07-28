@@ -6,7 +6,7 @@ ayah_end: 10
 title: "The Verdict Line: What Your Hands Sent Ahead, and Why Allah Is Never Unjust"
 slug: "022-010"
 category: tadabbur
-arabic: "ذَٰلِكَ بِمَا قَدَّمَتْ يَدَاكَ وَأَنَّ ٱللَّهَ لَيْسَ بِظَلَّامٍ لِّلْعَبِيدِ"
+arabic: "ذَٰلِكَ بِمَا قَدَّمَتْ يَدَاكَ وَأَنَّ ٱللَّهَ لَيْسَ بِظَلَّـٰمٍ لِّلْعَبِيدِ"
 translation: "That is for what your two hands have sent forward — and because Allah is not, in any way, unjust toward the servants."
 word_count: 11
 estimated_duration: "50-58 minutes"

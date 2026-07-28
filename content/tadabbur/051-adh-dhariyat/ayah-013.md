@@ -6,7 +6,7 @@ ayah_end: 13
 title: "The Assay of Fire: When the Word for Your Test Becomes the Word for Your Punishment"
 slug: "051-013"
 category: tadabbur
-arabic: "يَوْمَ هُمْ عَلَى ٱلنَّارِ يُفْتَنُونَ"
+arabic: "يَوْمَ هُمْ عَلَى ٱلنَّارِ يُفْتَنُونَ"
 translation: "The Day they will be tried over the Fire."
 word_count: 5
 estimated_duration: "50-58 minutes"

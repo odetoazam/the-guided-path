@@ -6,7 +6,7 @@ ayah_end: 25
 title: "The One Sentence Every Prophet Carried"
 slug: "021-025"
 category: tadabbur
-arabic: "وَمَآ أَرْسَلْنَا مِن قَبْلِكَ مِن رَّسُولٍ إِلَّا نُوحِىٓ إِلَيْهِ أَنَّهُۥ لَآ إِلَـٰهَ إِلَّآ أَنَا۠ فَٱعْبُدُونِ"
+arabic: "وَمَآ أَرْسَلْنَا مِن قَبْلِكَ مِن رَّسُولٍ إِلَّا نُوحِىٓ إِلَيْهِ أَنَّهُۥ لَآ إِلَـٰهَ إِلَّآ أَنَا۠ فَٱعْبُدُونِ"
 translation: "And We did not send any messenger before you except that We reveal to him: there is no god but Me — so worship Me."
 word_count: 14
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 25
 title: "The Companion You Were Swapped: Taqyīḍ, the Yoke-Mate, and the Sealed Front and Back"
 slug: "041-025"
 category: tadabbur
-arabic: "۞ وَقَيَّضْنَا لَهُمْ قُرَنَآءَ فَزَيَّنُوا۟ لَهُم مَّا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَحَقَّ عَلَيْهِمُ ٱلْقَوْلُ فِىٓ أُمَمٍ قَدْ خَلَتْ مِن قَبْلِهِم مِّنَ ٱلْجِنِّ وَٱلْإِنسِ ۖ إِنَّهُمْ كَانُوا۟ خَـٰسِرِينَ"
+arabic: "۞ وَقَيَّضْنَا لَهُمْ قُرَنَآءَ فَزَيَّنُوا۟ لَهُم مَّا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَحَقَّ عَلَيْهِمُ ٱلْقَوْلُ فِىٓ أُمَمٍ قَدْ خَلَتْ مِن قَبْلِهِم مِّنَ ٱلْجِنِّ وَٱلْإِنسِ ۖ إِنَّهُمْ كَانُوا۟ خَـٰسِرِينَ"
 translation: "And We assigned to them companions, precisely fitted, who made fair-seeming to them what lay before them and what lay behind them. And the Word fell due against them, among nations of jinn and men that had passed away before them. Truly, they were the losers."
 word_count: 25
 estimated_duration: "50-58 minutes"

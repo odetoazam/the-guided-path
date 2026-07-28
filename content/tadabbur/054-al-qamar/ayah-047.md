@@ -6,7 +6,7 @@ ayah_end: 47
 title: "The Verdict in Their Own Words: Error and Blazing Madness"
 slug: "054-047"
 category: tadabbur
-arabic: "إِنَّ ٱلْمُجْرِمِينَ فِى ضَلَـٰلٍ وَسُعُرٍ"
+arabic: "إِنَّ ٱلْمُجْرِمِينَ فِى ضَلَـٰلٍ وَسُعُرٍ"
 translation: "Indeed, the criminals are deep in error and in blazing madness."
 word_count: 5400
 estimated_duration: "48-56 minutes"

@@ -6,7 +6,7 @@ ayah_end: 8
 title: "The Knot You Tie Against the Light: Hearing, Persisting, and the Glad Tidings of Pain"
 slug: "045-008"
 category: tadabbur
-arabic: "يَسْمَعُ ءَايَـٰتِ ٱللَّهِ تُتْلَىٰ عَلَيْهِ ثُمَّ يُصِرُّ مُسْتَكْبِرًا كَأَن لَّمْ يَسْمَعْهَا ۖ فَبَشِّرْهُ بِعَذَابٍ أَلِيمٍ"
+arabic: "يَسْمَعُ ءَايَـٰتِ ٱللَّهِ تُتْلَىٰ عَلَيْهِ ثُمَّ يُصِرُّ مُسْتَكْبِرًا كَأَن لَّمْ يَسْمَعْهَا ۖ فَبَشِّرْهُ بِعَذَابٍ أَلِيمٍ"
 translation: "He hears the verses of Allah recited to him, then persists arrogantly as if he had never heard them. So give him the glad tidings of a painful punishment."
 word_count: 14
 estimated_duration: "50-58 minutes"

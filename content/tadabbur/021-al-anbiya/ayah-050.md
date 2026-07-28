@@ -6,7 +6,7 @@ ayah_end: 50
 title: "And This Is a Blessed Reminder — The Architecture of Recognition and Denial"
 slug: "021-050"
 category: tadabbur
-arabic: "وَهَٰذَا ذِكْرٌ مُّبَارَكٌ أَنزَلْنَاهُ ۚ أَفَأَنتُمْ لَهُ مُنكِرُونَ"
+arabic: "وَهَـٰذَا ذِكْرٌ مُّبَارَكٌ أَنزَلْنَـٰهُ ۚ أَفَأَنتُمْ لَهُۥ مُنكِرُونَ"
 translation: "And this is a blessed Reminder which We have sent down. Will you then be deniers of it?"
 word_count: 1850
 estimated_duration: "48-54 minutes"

@@ -6,7 +6,7 @@ ayah_end: 44
 title: "The Verse That Names Its Own Gift: When the Objection Already Contains the Answer"
 slug: "041-044"
 category: tadabbur
-arabic: "وَلَوْ جَعَلْنَاهُ قُرْآنًا أَعْجَمِيًّا لَّقَالُوا لَوْلَا فُصِّلَتْ آيَاتُهُ ۖ ءَا۬عْجَمِيٌّ وَعَرَبِيٌّ ۗ قُلْ هُوَ لِلَّذِينَ آمَنُوا هُدًى وَشِفَاءٌ ۖ وَالَّذِينَ لَا يُؤْمِنُونَ فِي آذَانِهِمْ وَقْرٌ وَهُوَ عَلَيْهِمْ عَمًى ۚ أُولَٰئِكَ يُنَادَوْنَ مِن مَّكَانٍ بَعِيدٍ"
+arabic: "وَلَوْ جَعَلْنَـٰهُ قُرْءَانًا أَعْجَمِيًّا لَّقَالُوا۟ لَوْلَا فُصِّلَتْ ءَايَـٰتُهُۥٓ ۖ ءَا۬عْجَمِىٌّ وَعَرَبِىٌّ ۗ قُلْ هُوَ لِلَّذِينَ ءَامَنُوا۟ هُدًى وَشِفَآءٌ ۖ وَٱلَّذِينَ لَا يُؤْمِنُونَ فِىٓ ءَاذَانِهِمْ وَقْرٌ وَهُوَ عَلَيْهِمْ عَمًى ۚ أُو۟لَـٰٓئِكَ يُنَادَوْنَ مِن مَّكَانٍۭ بَعِيدٍ"
 translation: "And had We made it a non-Arabic Qur'an, they would have said, 'Why have its verses not been made distinct? A foreign [book] and an Arab [messenger]?' Say: 'For those who believe, it is guidance and healing. But those who do not believe — in their ears is a heaviness, and upon them it is blindness. Those are the ones called out to from a distant place.'"
 word_count: 30
 estimated_duration: "50-56 minutes"

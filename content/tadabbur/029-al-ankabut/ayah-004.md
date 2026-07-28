@@ -6,7 +6,7 @@ ayah_end: 4
 title: "The Race You Cannot Win"
 slug: "029-004"
 category: tadabbur
-arabic: "أَمْ حَسِبَ الَّذِينَ يَعْمَلُونَ السَّيِّئَاتِ أَن يَسْبِقُونَا ۚ سَاءَ مَا يَحْكُمُونَ"
+arabic: "أَمْ حَسِبَ ٱلَّذِينَ يَعْمَلُونَ ٱلسَّيِّـَٔاتِ أَن يَسْبِقُونَا ۚ سَآءَ مَا يَحْكُمُونَ"
 translation: "Or do those who commit evil deeds think that they can outrun Us? Evil indeed is what they judge."
 word_count: 4200
 estimated_duration: "48-55 minutes"

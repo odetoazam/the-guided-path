@@ -6,7 +6,7 @@ ayah_end: 34
 title: "The Ingratitude That Comes After Rescue"
 slug: "030-034"
 category: tadabbur
-arabic: "لِيَكْفُرُوا بِمَآ ءَاتَيْنَـٰهُمْ ۚ فَتَمَتَّعُوا۟ فَسَوْفَ تَعْلَمُونَ"
+arabic: "لِيَكْفُرُوا۟ بِمَآ ءَاتَيْنَـٰهُمْ ۚ فَتَمَتَّعُوا۟ فَسَوْفَ تَعْلَمُونَ"
 translation: "So as to deny what We have given them. So enjoy yourselves — soon you will know."
 word_count: 7
 estimated_duration: "48-55 minutes"

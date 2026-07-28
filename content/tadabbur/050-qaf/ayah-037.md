@@ -6,7 +6,7 @@ ayah_end: 37
 title: "Two Doors Into the Living Heart: Being, Listening, and Being Present"
 slug: "050-037"
 category: tadabbur
-arabic: "إِنَّ فِى ذَٰلِكَ لَذِكْرَىٰ لِمَن كَانَ لَهُۥ قَلْبٌ أَوْ أَلْقَى ٱلسَّمْعَ وَهُوَ شَهِيدٌ"
+arabic: "إِنَّ فِى ذَٰلِكَ لَذِكْرَىٰ لِمَن كَانَ لَهُۥ قَلْبٌ أَوْ أَلْقَى ٱلسَّمْعَ وَهُوَ شَهِيدٌ"
 translation: "Indeed, in that is a reminder for whoever has a heart, or gives ear while he is present — a witness."
 word_count: 13
 estimated_duration: "50-58 minutes"

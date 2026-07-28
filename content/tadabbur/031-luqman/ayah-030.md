@@ -6,7 +6,7 @@ ayah_end: 30
 title: "Because He Is The Real — Everything Else Is The Echo"
 slug: "031-030"
 category: tadabbur
-arabic: "ذَٰلِكَ بِأَنَّ ٱللَّهَ هُوَ ٱلْحَقُّ وَأَنَّ مَا يَدْعُونَ مِن دُونِهِۦ ٱلْبَٰطِلُ وَأَنَّ ٱللَّهَ هُوَ ٱلْعَلِىُّ ٱلْكَبِيرُ"
+arabic: "ذَٰلِكَ بِأَنَّ ٱللَّهَ هُوَ ٱلْحَقُّ وَأَنَّ مَا يَدْعُونَ مِن دُونِهِ ٱلْبَـٰطِلُ وَأَنَّ ٱللَّهَ هُوَ ٱلْعَلِىُّ ٱلْكَبِيرُ"
 translation: "That is because Allah — He is the Real, and whatever they call upon besides Him is the false; and because Allah — He is the Most High, the Most Great."
 word_count: 18
 estimated_duration: "50-55 minutes"

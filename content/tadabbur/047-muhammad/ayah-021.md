@@ -6,7 +6,7 @@ ayah_end: 21
 title: "The Word Was Easy: Obedience, the Command That Hardened, and the Truth They Never Spoke"
 slug: "047-021"
 category: tadabbur
-arabic: "طَاعَةٌ وَقَوْلٌ مَّعْرُوفٌ ۚ فَإِذَا عَزَمَ ٱلْأَمْرُ فَلَوْ صَدَقُوا۟ ٱللَّهَ لَكَانَ خَيْرًۭا لَّهُمْ"
+arabic: "طَاعَةٌ وَقَوْلٌ مَّعْرُوفٌ ۚ فَإِذَا عَزَمَ ٱلْأَمْرُ فَلَوْ صَدَقُوا۟ ٱللَّهَ لَكَانَ خَيْرًا لَّهُمْ"
 translation: "Obedience and a kind word [would be better for them]. Then, when the matter is resolved and binding, if only they had been true to Allah, it would have been better for them."
 word_count: 6600
 estimated_duration: "52-59 minutes"

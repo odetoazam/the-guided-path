@@ -6,7 +6,7 @@ ayah_end: 10
 title: "The Two Callings: When the One Who Invited You Near Now Proclaims to You From Afar"
 slug: "040-010"
 category: tadabbur
-arabic: "إِنَّ ٱلَّذِينَ كَفَرُوٓاْ يُنَادَوْنَ لَمَقْتُ ٱللَّهِ أَكْبَرُ مِن مَّقْتِكُمْ أَنفُسَكُمْ إِذْ تُدْعَوْنَ إِلَى ٱلْإِيمَـٰنِ فَتَكْفُرُونَ"
+arabic: "إِنَّ ٱلَّذِينَ كَفَرُوا۟ يُنَادَوْنَ لَمَقْتُ ٱللَّهِ أَكْبَرُ مِن مَّقْتِكُمْ أَنفُسَكُمْ إِذْ تُدْعَوْنَ إِلَى ٱلْإِيمَـٰنِ فَتَكْفُرُونَ"
 translation: "Indeed, those who disbelieved will be cried out to: 'Allah's loathing of you was greater than your loathing now of yourselves — when you were called to faith, and you refused.'"
 word_count: 15
 estimated_duration: "50-58 minutes"

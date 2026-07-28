@@ -6,7 +6,7 @@ ayah_end: 15
 title: "The Garden That Was Already Yours"
 slug: "025-015"
 category: tadabbur
-arabic: "قُلْ أَذَٰلِكَ خَيْرٌ أَمْ جَنَّةُ الْخُلْدِ الَّتِي وُعِدَ الْمُتَّقُونَ ۚ كَانَتْ لَهُمْ جَزَاءً وَمَصِيرًا"
+arabic: "قُلْ أَذَٰلِكَ خَيْرٌ أَمْ جَنَّةُ ٱلْخُلْدِ ٱلَّتِى وُعِدَ ٱلْمُتَّقُونَ ۚ كَانَتْ لَهُمْ جَزَآءً وَمَصِيرًا"
 translation: "Say: Is that better, or the Garden of Eternity which was promised to the Muttaqūn? It was for them a reward and a destination."
 word_count: 4400
 estimated_duration: "50-56 minutes"

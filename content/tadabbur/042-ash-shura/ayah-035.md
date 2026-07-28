@@ -6,7 +6,7 @@ ayah_end: 35
 title: "No Place to Turn Aside: When the Argument Is Itself the Flight"
 slug: "042-035"
 category: tadabbur
-arabic: "وَيَعْلَمَ ٱلَّذِينَ يُجَٰدِلُونَ فِىٓ ءَايَٰتِنَا مَا لَهُم مِّن مَّحِيصٍ"
+arabic: "وَيَعْلَمَ ٱلَّذِينَ يُجَـٰدِلُونَ فِىٓ ءَايَـٰتِنَا مَا لَهُم مِّن مَّحِيصٍ"
 translation: "And [so that] those who dispute concerning Our signs may know that for them there is no place of refuge."
 word_count: 9
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 65
 title: "The Deed That Swelled Until It Died: Shirk and the Hollowing of a Life's Work"
 slug: "039-065"
 category: tadabbur
-arabic: "وَلَقَدْ أُوحِيَ إِلَيْكَ وَإِلَى الَّذِينَ مِن قَبْلِكَ لَئِنْ أَشْرَكْتَ لَيَحْبَطَنَّ عَمَلُكَ وَلَتَكُونَنَّ مِنَ الْخَاسِرِينَ"
+arabic: "وَلَقَدْ أُوحِىَ إِلَيْكَ وَإِلَى ٱلَّذِينَ مِن قَبْلِكَ لَئِنْ أَشْرَكْتَ لَيَحْبَطَنَّ عَمَلُكَ وَلَتَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ"
 translation: "And it was certainly revealed to you, and to those before you: if you were to associate partners with God, your work would surely come to nothing, and you would surely be among the losers."
 word_count: 6400
 estimated_duration: "50-58 minutes"

@@ -6,7 +6,7 @@ ayah_end: 12
 title: "The Pairs, All of Them — and What Carries You"
 slug: "043-012"
 category: tadabbur
-arabic: "وَٱلَّذِى خَلَقَ ٱلْأَزْوَٰجَ كُلَّهَا وَجَعَلَ لَكُم مِّنَ ٱلْفُلْكِ وَٱلْأَنْعَٰمِ مَا تَرْكَبُونَ"
+arabic: "وَٱلَّذِى خَلَقَ ٱلْأَزْوَٰجَ كُلَّهَا وَجَعَلَ لَكُم مِّنَ ٱلْفُلْكِ وَٱلْأَنْعَـٰمِ مَا تَرْكَبُونَ"
 translation: "And He who created the pairs, all of them, and made for you, from ships and cattle, that which you ride —"
 word_count: 11
 estimated_duration: "50-58 minutes"

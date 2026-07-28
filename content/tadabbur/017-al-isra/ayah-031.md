@@ -6,7 +6,7 @@ ayah_end: 31
 title: "Do Not Kill Your Children Out of Fear: When Anxiety Manufactures Scarcity"
 slug: "017-031"
 category: tadabbur
-arabic: "وَلَا تَقْتُلُوٓا۟ أَوْلَـٰدَكُمْ خَشْيَةَ إِمْلَـٰقٍۢ ۖ نَّحْنُ نَرْزُقُهُمْ وَإِيَّاكُمْ ۚ إِنَّ قَتْلَهُمْ كَانَ خِطْـًۭٔا كَبِيرًۭا"
+arabic: "وَلَا تَقْتُلُوٓا۟ أَوْلَـٰدَكُمْ خَشْيَةَ إِمْلَـٰقٍ ۖ نَّحْنُ نَرْزُقُهُمْ وَإِيَّاكُمْ ۚ إِنَّ قَتْلَهُمْ كَانَ خِطْـًٔا كَبِيرًا"
 translation: "And do not kill your children out of fear of destitution. It is We who provide for them — and for you. Indeed, their killing has ever been a great sin."
 word_count: 13
 estimated_duration: "50-58 minutes"

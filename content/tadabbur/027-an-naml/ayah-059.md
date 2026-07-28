@@ -6,7 +6,7 @@ ayah_end: 59
 title: "The Unanswerable Question: Praise Before the Inquiry"
 slug: "027-059"
 category: tadabbur
-arabic: "قُلِ ٱلْحَمْدُ لِلَّهِ وَسَلَـٰمٌ عَلَىٰ عِبَادِهِ ٱلَّذِينَ ٱصْطَفَىٰ ۗ ءَآللَّهُ خَيْرٌ أَمَّا يُشْرِكُونَ"
+arabic: "قُلِ ٱلْحَمْدُ لِلَّهِ وَسَلَـٰمٌ عَلَىٰ عِبَادِهِ ٱلَّذِينَ ٱصْطَفَىٰٓ ۗ ءَآللَّهُ خَيْرٌ أَمَّا يُشْرِكُونَ"
 translation: "Say: All praise belongs to Allah, and peace be upon His servants whom He has chosen. Is Allah better, or what they associate with Him?"
 word_count: 12
 estimated_duration: "50-58 minutes"

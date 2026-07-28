@@ -6,7 +6,7 @@ ayah_end: 13
 title: "When Your Partners Disown You"
 slug: "030-013"
 category: tadabbur
-arabic: "وَلَمْ يَكُن لَّهُم مِّن شُرَكَآئِهِمْ شُفَعَـٰٓؤُا۟ وَكَانُوا۟ بِشُرَكَآئِهِمْ كَـٰفِرِينَ"
+arabic: "وَلَمْ يَكُن لَّهُم مِّن شُرَكَآئِهِمْ شُفَعَـٰٓؤُا۟ وَكَانُوا۟ بِشُرَكَآئِهِمْ كَـٰفِرِينَ"
 translation: "And there will not be for them among their 'partners' any intercessors, and they will be deniers of their partners."
 word_count: 11
 estimated_duration: "48-55 minutes"

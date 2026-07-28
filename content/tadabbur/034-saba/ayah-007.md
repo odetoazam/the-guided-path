@@ -6,7 +6,7 @@ ayah_end: 7
 title: "The Inversion of Guidance: When Mockery Borrows the Vocabulary of Direction"
 slug: "034-007"
 category: tadabbur
-arabic: "وَقَالَ ٱلَّذِينَ كَفَرُوا۟ هَلْ نَدُلُّكُمْ عَلَىٰ رَجُلٍ يُنَبِّئُكُمْ إِذَا مُزِّقْتُمْ كُلَّ مُمَزَّقٍ إِنَّكُمْ لَفِى خَلْقٍ جَدِيدٍ"
+arabic: "وَقَالَ ٱلَّذِينَ كَفَرُوا۟ هَلْ نَدُلُّكُمْ عَلَىٰ رَجُلٍ يُنَبِّئُكُمْ إِذَا مُزِّقْتُمْ كُلَّ مُمَزَّقٍ إِنَّكُمْ لَفِى خَلْقٍ جَدِيدٍ"
 translation: "And those who disbelieve say, 'Shall we direct you to a man who tells you that when you have been torn apart with every kind of tearing, you will surely be in a new creation?'"
 word_count: 16
 estimated_duration: "50-58 minutes"

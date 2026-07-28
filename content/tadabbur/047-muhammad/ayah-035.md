@@ -6,7 +6,7 @@ ayah_end: 35
 title: "The Whisper to Surrender Too Soon — and the God Who Counts Every Deed"
 slug: "047-035"
 category: tadabbur
-arabic: "فَلَا تَهِنُوا۟ وَتَدْعُوٓا۟ إِلَى ٱلسَّلْمِ وَأَنتُمُ ٱلْأَعْلَوْنَ وَٱللَّهُ مَعَكُمْ وَلَن يَتِرَكُمْ أَعْمَـٰلَكُمْ"
+arabic: "فَلَا تَهِنُوا۟ وَتَدْعُوٓا۟ إِلَى ٱلسَّلْمِ وَأَنتُمُ ٱلْأَعْلَوْنَ وَٱللَّهُ مَعَكُمْ وَلَن يَتِرَكُمْ أَعْمَـٰلَكُمْ"
 translation: "So do not lose heart and call out for peace while you are the higher ones, and Allah is with you, and He will never deprive you of [the reward of] your deeds."
 word_count: 7200
 estimated_duration: "50-58 minutes"

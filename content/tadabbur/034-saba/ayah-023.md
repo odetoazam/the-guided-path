@@ -6,7 +6,7 @@ ayah_end: 23
 title: "When the Closest Tremble: Intercession, Terror, and the Silence Above"
 slug: "034-023"
 category: tadabbur
-arabic: "وَلَا تَنفَعُ ٱلشَّفَـٰعَةُ عِندَهُۥٓ إِلَّا لِمَنْ أَذِنَ لَهُۥ ۚ حَتَّىٰٓ إِذَا فُزِّعَ عَن قُلُوبِهِمْ قَالُوا۟ مَاذَا قَالَ رَبُّكُمْ ۖ قَالُوا۟ ٱلْحَقَّ ۖ وَهُوَ ٱلْعَلِىُّ ٱلْكَبِيرُ"
+arabic: "وَلَا تَنفَعُ ٱلشَّفَـٰعَةُ عِندَهُۥٓ إِلَّا لِمَنْ أَذِنَ لَهُۥ ۚ حَتَّىٰٓ إِذَا فُزِّعَ عَن قُلُوبِهِمْ قَالُوا۟ مَاذَا قَالَ رَبُّكُمْ ۖ قَالُوا۟ ٱلْحَقَّ ۖ وَهُوَ ٱلْعَلِىُّ ٱلْكَبِيرُ"
 translation: "And intercession will be of no benefit with Him except for one whom He permits. Until, when terror is lifted from their hearts, they say to one another, 'What did your Lord say?' They say, 'The truth.' And He is the Most High, the Most Great."
 word_count: 22
 estimated_duration: "48-55 minutes"

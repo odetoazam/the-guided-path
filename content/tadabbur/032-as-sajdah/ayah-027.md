@@ -6,7 +6,7 @@ ayah_end: 27
 title: "The Driven Water and the Question of Seeing"
 slug: "032-027"
 category: tadabbur
-arabic: "أَوَلَمْ يَرَوْا۟ أَنَّا نَسُوقُ ٱلْمَآءَ إِلَى ٱلْأَرْضِ ٱلْجُرُزِ فَنُخْرِجُ بِهِۦ زَرْعًۭا تَأْكُلُ مِنْهُ أَنْعَـٰمُهُمْ وَأَنفُسُهُمْ ۖ أَفَلَا يُبْصِرُونَ"
+arabic: "أَوَلَمْ يَرَوْا۟ أَنَّا نَسُوقُ ٱلْمَآءَ إِلَى ٱلْأَرْضِ ٱلْجُرُزِ فَنُخْرِجُ بِهِۦ زَرْعًا تَأْكُلُ مِنْهُ أَنْعَـٰمُهُمْ وَأَنفُسُهُمْ ۖ أَفَلَا يُبْصِرُونَ"
 translation: "Have they not realized that We drive the water to the barren earth, then bring forth from it crops their livestock eat from — and they themselves? Will they not, then, truly see?"
 word_count: 16
 estimated_duration: "48-55 minutes"

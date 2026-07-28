@@ -6,7 +6,7 @@ ayah_end: 10
 title: "The Geometry of Mockery — What Returns to Encompass the Mocker"
 slug: "006-010"
 category: tadabbur
-arabic: "وَلَقَدِ ٱسْتُهْزِئَ بِرُسُلٍ مِّن قَبْلِكَ فَحَاقَ بِٱلَّذِينَ سَخِرُوا۟ مِنْهُم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ"
+arabic: "وَلَقَدِ ٱسْتُهْزِئَ بِرُسُلٍ مِّن قَبْلِكَ فَحَاقَ بِٱلَّذِينَ سَخِرُوا۟ مِنْهُم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ"
 translation: "And messengers were certainly mocked before you, so what they used to ridicule encompassed those among them who scoffed."
 word_count: 6800
 estimated_duration: "52-58 minutes"

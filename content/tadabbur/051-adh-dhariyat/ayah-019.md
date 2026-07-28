@@ -6,7 +6,7 @@ ayah_end: 19
 title: "The Right Already Inside the Wealth: The One Who Asks and the One Who Never Will"
 slug: "051-019"
 category: tadabbur
-arabic: "وَفِىٓ أَمْوَٰلِهِمْ حَقٌّ لِّلسَّآئِلِ وَٱلْمَحْرُومِ"
+arabic: "وَفِىٓ أَمْوَٰلِهِمْ حَقٌّ لِّلسَّآئِلِ وَٱلْمَحْرُومِ"
 translation: "And in their wealth was a right for the one who asks and for the one deprived."
 word_count: 6100
 estimated_duration: "52-59 minutes"

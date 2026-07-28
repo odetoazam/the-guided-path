@@ -6,7 +6,7 @@ ayah_end: 23
 title: "The Question That Will Not Let You Stand Alone"
 slug: "055-023"
 category: tadabbur
-arabic: "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+arabic: "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
 translation: "So which of the favors of your Lord will you both deny?"
 word_count: 4
 estimated_duration: "50-58 minutes"

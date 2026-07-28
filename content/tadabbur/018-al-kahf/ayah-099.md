@@ -6,7 +6,7 @@ ayah_end: 99
 title: "When the Barrier Opens Into the Gathering"
 slug: "018-099"
 category: tadabbur
-arabic: "۞ وَتَرَكْنَا بَعْضَهُمْ يَوْمَئِذٍ يَمُوجُ فِى بَعْضٍ ۖ وَنُفِخَ فِى ٱلصُّورِ فَجَمَعْنَـٰهُمْ جَمْعًا"
+arabic: "۞ وَتَرَكْنَا بَعْضَهُمْ يَوْمَئِذٍ يَمُوجُ فِى بَعْضٍ ۖ وَنُفِخَ فِى ٱلصُّورِ فَجَمَعْنَـٰهُمْ جَمْعًا"
 translation: "And We will leave some of them, that Day, surging into others. And the Horn will be blown, so We will gather them all together."
 word_count: 4720
 estimated_duration: "40-50 minutes"

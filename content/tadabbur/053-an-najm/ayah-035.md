@@ -6,7 +6,7 @@ ayah_end: 35
 title: "Does He See the Unseen? — The Man Who Clenched His Hand on a Future He Could Not See"
 slug: "053-035"
 category: tadabbur
-arabic: "أَعِندَهُۥ عِلْمُ ٱلْغَيْبِ فَهُوَ يَرَىٰ"
+arabic: "أَعِندَهُۥ عِلْمُ ٱلْغَيْبِ فَهُوَ يَرَىٰٓ"
 translation: "Does he possess knowledge of the unseen, so that he sees?"
 word_count: 8600
 estimated_duration: "50-58 minutes"

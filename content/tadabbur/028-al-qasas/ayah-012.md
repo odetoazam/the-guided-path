@@ -6,7 +6,7 @@ ayah_end: 12
 title: "The Forbidden Milk: When Every Closed Door Was a Route Home"
 slug: "028-012"
 category: tadabbur
-arabic: "وَحَرَّمْنَا عَلَيْهِ الْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰ أَهْلِ بَيْتٍ يَكْفُلُونَهُ لَكُمْ وَهُمْ لَهُ نَاصِحُونَ"
+arabic: "۞ وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰٓ أَهْلِ بَيْتٍ يَكْفُلُونَهُۥ لَكُمْ وَهُمْ لَهُۥ نَـٰصِحُونَ"
 translation: "And We had already forbidden wet-nurses for him before, so she said: 'Shall I direct you to a household that will care for him on your behalf, and they will be sincerely devoted to him?'"
 word_count: 4600
 estimated_duration: "50-58 minutes"

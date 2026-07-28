@@ -6,7 +6,7 @@ ayah_end: 3
 title: "The Forbidden Pairing — When Allah Names Compatibility Itself"
 slug: "024-003"
 category: tadabbur
-arabic: "ٱلزَّانِى لَا يَنكِحُ إِلَّا زَانِيَةً أَوْ مُشْرِكَةً وَٱلزَّانِيَةُ لَا يَنكِحُهَآ إِلَّا زَانٍ أَوْ مُشْرِكٌ ۚ وَحُرِّمَ ذَٰلِكَ عَلَى ٱلْمُؤْمِنِينَ"
+arabic: "ٱلزَّانِى لَا يَنكِحُ إِلَّا زَانِيَةً أَوْ مُشْرِكَةً وَٱلزَّانِيَةُ لَا يَنكِحُهَآ إِلَّا زَانٍ أَوْ مُشْرِكٌ ۚ وَحُرِّمَ ذَٰلِكَ عَلَى ٱلْمُؤْمِنِينَ"
 translation: "The fornicator does not marry except a fornicatress or an idolatress, and the fornicatress — none marries her except a fornicator or an idolater. And that has been forbidden to the believers."
 word_count: 18
 estimated_duration: "50-58 minutes"
