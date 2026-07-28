@@ -55,3 +55,15 @@ re-run `verify_arabic.mjs <file> --scan` to confirm 0 warnings.
 
 Observed 2026-07-24: a single enriched file (11:32-34) came back with 3
 diacritic warnings that had been clean before the pass.
+
+## RACE CONDITION — do not apply while agents are still running
+
+`apply_enrich_batch.py` promotes **every** draft in `scripts/enrich-drafts/`, including
+one an agent is still mid-write. Observed 2026-07-24: At-Tawbah 9:107-110 was applied
+and committed at 6,170 words while its agent was still working; the finished draft was
+6,299 words and included a closing paragraph the committed version was missing.
+
+Rule: **wait for every agent in the batch to report completion before running the
+applier.** If you must apply early, apply named drafts only, never the whole directory.
+The mechanical guard does not catch this — a partial draft is still structurally valid,
+so it passes cleanly.
