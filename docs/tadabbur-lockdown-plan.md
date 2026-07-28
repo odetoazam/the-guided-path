@@ -139,3 +139,76 @@ not a content fix, so it was left alone.
 - **~527 files still shallow** — the enrichment pipeline's backlog (39 of 566 done).
 - **The Leeds checker needs repair** before it can gate anything: negation-blindness,
   root-resolution failure, qirāʾāt-blindness, cross-surah-blindness.
+
+---
+
+# Session 2026-07-27 — the semantic-review log is invalid, and why
+
+## Root cause, found and fixed
+
+`scripts/semantic-review-log.json` holds 1,990 entries from a run on 2026-05-14→28:
+**1,124 CRITICAL, 475 MODERATE, 24 PASS.** A corpus where 56% of files are critically
+defective was never plausible. The cause is a one-line bug in `semantic-review.py`:
+
+```python
+candidate = TAFSIR_DIR / f"tafsir-{stem}.md"     # TAFSIR_DIR = scripts/tadabbur-output/
+```
+
+`scripts/tadabbur-output/` is a **flat namespace with no surah component**. A file's stem
+is `ayah-005`, so `content/tadabbur/021-al-anbiya/ayah-005.md` resolved to
+`tafsir-ayah-005.md` — **and so did every other surah's ayah 5.** Every single-ayah file
+in the corpus was reviewed against commentary on a different surah. The reviewer dutifully
+reported that the reflection contradicted the tafsir, because it did: it was the wrong tafsir.
+
+Fixed to resolve the sidecar beside the file, `content/tadabbur/<surah>/tafsir-report-<range>.md`.
+**Fixing the function does not rehabilitate the log** — those entries were produced under the
+bug. The log must not be used as a defect list, and nothing should be prioritised from it.
+
+## Blast radius in the corpus itself
+
+The broken run also **wrote its verdict into frontmatter**. 618 files currently carry a
+`semantic_review: "agent-2026-05-NN-<verdict>"` tag from it — **528 of them `-critical`**.
+That is bogus metadata sitting in the content, not just in a log.
+
+## Two scripts must never be run as-is
+
+Both `semantic-review.py` and `semantic-enrich.py` shell out to the `claude` CLI, which
+bills a different account and is banned here. Both now carry a ⛔ banner. They are kept for
+their prompts and (in the enricher's case) its content-verified tafsir index, which does
+**not** have the pairing bug. The live path is in-session agents.
+
+## Corpus state re-measured against correct pairing
+
+| Measure | Value |
+|---|---|
+| Tadabbur files (excl. `_superseded`) | 3,016 |
+| Median body size | 26,962 B |
+| Files with a correctly-paired tafsir report | 1,368 |
+| Shallow (<20 KB body) | 541 — the "~527" figure |
+| Shallow **and** not yet enriched **and** has a real report | **294** ← enrichment queue |
+| Shallow, unenriched, but no usable report | 14 (cannot be enriched from sources) |
+| Deep files carrying a bogus CRITICAL/MODERATE | **824** ← review queue |
+
+Queues written to `scripts/enrich-queue-v2.json` and `scripts/review-queue-v2.json`.
+
+## Canonical-verse normalizer is now a durable script
+
+`scripts/normalize_canonical_verses.mjs` replaces last session's one-off. Safety invariant:
+a verse is rewritten **only** when it already matches canonical after folding
+diacritics/hamza/alif variants — so drift is repaired while letter-level differences
+(dropped words, elisions, fabricated quotations) are **reported, not overwritten**. Silently
+"fixing" those would destroy the evidence for the two defect classes no validator catches.
+
+Frontmatter `arabic:` normalization is **opt-in** (`--frontmatter`), deliberately: ~1,059
+files write that field in modern **imlāʾī** orthography (`إِسْرَائِيلَ`) rather than Uthmani
+(`إِسْرَٰٓءِيلَ`). That is a corpus convention, not drift; converting it is an orthography
+migration and a separate decision. Body `[ayah:]` lines — the surface that actually drifts,
+and the one `verify_arabic` gates on — run **0 changes across all 3,029 files**, confirming
+both that last session's normalization held and that this tool has no false positives.
+
+## Graph rebuilt
+
+`npm run graph` → fresh against corpus `894d68ed79fb6fd9`, 3,009 files, 3,008 nodes,
+13,284 traversable edges, 118 themes, 37 situations, **0 unwritten ayahs**. The 40
+multi-claim warnings are unchanged and are the known single-ayah-inside-passage pattern
+(e.g. `2:269` inside `2:267-274`) — a graph-semantics question for Azam, not a defect.
