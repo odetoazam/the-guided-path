@@ -2,6 +2,19 @@
 """
 AyahGuide Semantic Enricher
 
+⛔ DO NOT RUN THIS SCRIPT AS-IS. It shells out to the `claude` CLI (CLAUDE_BIN),
+   which bills a DIFFERENT ACCOUNT and is banned for this project.
+
+   The live enrichment pipeline is in-session agents (the Agent tool) writing
+   drafts to scripts/enrich-drafts/, promoted by scripts/apply_enrich_batch.py
+   behind the mechanical guard in scripts/enrich_guard.py. The agent-facing
+   spec is scripts/ENRICH-PILOT-INSTRUCTIONS.md — read that, not this.
+
+   This file is retained because its ENRICH_SYSTEM prompt and its
+   content-verified find_tafsir_report() (which keys off scripts/tafsir-index.json
+   and does NOT have the surah-blind pairing bug that invalidated the May 2026
+   review run) are still the canonical spec.
+
 For each tadabbur file that has a correctly matched tafsir report:
   1. Fixes any flagged issues from the semantic review
   2. Deepens the content using the classical tafsir sources
