@@ -202,3 +202,32 @@ exclude footnote markers — until then, treat the scale as open.
 **Mitigation now in force:** enrichment agents are instructed to read the Arabic each
 commentator actually quotes and confirm it matches the ayah before attributing anything
 to him. All three agents above caught the offset this way and attributed correctly.
+
+---
+
+# Quran-text defects found by enrichment agents (2026-07-24)
+
+Two classes that **no validator catches**, because `verify_arabic` only checks Arabic
+carrying an `ayah:` tag — untagged Arabic in prose is scanned but not blocked.
+
+### 1. Fabricated ayah — `005-al-maidah/ayah-105.md`
+The body presented `lā taḥmilū anfusakum…` as a Quranic quotation. **It is not in the
+Quran.** Removed; replaced with the actual 2:286 supplication. Highest severity.
+
+### 2. Elision that changes the grammatical subject — `002-al-baqarah/ayahs-006-017.md`
+The body quoted `زَادَهُمُ مَرَضًا` ("increased them disease"). The actual text is
+`فَزَادَهُمُ ٱللَّهُ مَرَضًا` — the elision **drops Allah as the subject**, leaving it
+ambiguous who increased the disease. Real Quranic words, wrong meaning. Corrected.
+
+## Why the validators miss both
+
+`verify_arabic --scan` reports untagged Arabic that *resolves* to a verse, but does not
+fail on Arabic that resolves to nothing (fabrication) or that resolves to a *fragment*
+with words removed (elision). Both defects sat in files that pass every automated check.
+
+## Mitigation now in force
+
+Enrichment agents are instructed to verify every Arabic passage presented as a Quranic
+quotation against the real text before letting it stand. Both defects above were found
+that way, not by a script. **Until a detector exists for these two classes, they can
+only be found by reading.**
