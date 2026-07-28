@@ -61,7 +61,9 @@ One-sentence distillation: "The Quran swears by the self-reproaching soul becaus
 
 <blockquote class="ayah-quote">
 <p class="arabic" dir="rtl" style="font-family: var(--font-amiri,'Amiri'),serif; font-size: 1.5rem; line-height: 2.2; color: rgba(201,168,76,0.85);">
-<!-- ayah:75:1 --> لَآ أُقْسِمُ بِيَوْمِ ٱلْقِيَـٰمَةِ ۝ <!-- ayah:75:2 --> وَلَآ أُقْسِمُ بِٱلنَّفْسِ ٱللَّوَّامَةِ
+> <!-- ayah:75:1 --> لَآ أُقْسِمُ بِيَوْمِ ٱلْقِيَـٰمَةِ
+>
+> <!-- ayah:75:2 --> وَلَآ أُقْسِمُ بِٱلنَّفْسِ ٱللَّوَّامَةِ
 </p>
 <p class="translation">I swear by the Day of Resurrection. And I swear by the self-reproaching soul.</p>
 <cite>Al-Qiyamah (75:1-2)</cite>
