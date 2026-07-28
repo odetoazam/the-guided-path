@@ -270,18 +270,43 @@ and stop treating a green `verify_morphology` as meaning anything about them.
 
 ## Review re-run — the ~94%-artifact assumption is WRONG
 
-30 files re-reviewed against correct pairing (Opus, `scripts/review-v2/ALL-RESULTS.json`):
+45 files re-reviewed against correct pairing (Opus, `scripts/review-v2/ALL-RESULTS.json`):
 
 | New verdict | Count | | Old verdict | Count |
 |---|---|---|---|---|
-| CRITICAL | **7** | | CRITICAL | 22 |
-| MODERATE | **12** | | MODERATE | 8 |
-| MINOR | 5 | | | |
+| CRITICAL | **12** | | CRITICAL | 32 |
+| MODERATE | **17** | | MODERATE | 13 |
+| MINOR | 10 | | | |
 | PASS | **6** | | | |
 
-**Artifact rate: 16/30 = 53%, not the assumed ~94%.** And only **6 of 30 came back
-clean** — 20%. The old log was wrong in *both* directions. Three files were *escalated*
-MODERATE → CRITICAL:
+**Artifact rate: 27/45 = 60%, not the assumed ~94%.** And only **6 of 45 came back
+clean — 13%.** The old log was wrong in *both* directions. **Six** files were *escalated*
+MODERATE → CRITICAL: `035-fatir/ayah-018`, `076-al-insan/ayahs-008-010`,
+`002-al-baqarah/ayahs-261-266`, `021-al-anbiya/ayahs-076-077`,
+`025-al-furqan/ayahs-025-026`, `014-ibrahim/ayahs-024-027`.
+
+### The single most important result
+
+`021-al-anbiya/ayahs-076-077.md` was **regenerated from scratch on 2026-07-24** and is
+recorded in the damaged-file register as having passed all three validators. It was
+deliberately put back under review as a test of that rebuild. The reviewer's verdict:
+
+> the rebuild held on everything mechanically checkable — and failed on the one claim
+> nothing in the pipeline could check.
+
+Everything countable was right: *karb* occurs exactly 4×, *al-karb al-ʿaẓīm* exactly 3×
+at the cited references, `naṣara + min` correct, al-Jalalayn's *manaʿnāhu* verbatim, the
+Form III/II/X identifications corpus-confirmed. What was wrong was the **thesis** — "the
+Quran preserves exactly one prayer of Nuh in his own words, and it is the one that was
+refused." Nuh's own words are quoted at 23:26, 26:117-118, 54:10, 71:26-28, 11:47; the
+configuration the file says never occurs occurs twice adjacently; and Ibn Kathir in its
+*own paired report* identifies the unquoted call of 21:76 with the quoted prayer of 54:10.
+
+That is this whole session in miniature. **The defects that survive are the ones no gate
+is shaped to see.** Adding gates (tagging, normalization) is necessary and was done — but
+it moves the frontier rather than closing it.
+
+Earlier confirmed defects:
 
 - `035-fatir/ayah-018.md` — printed root `ج-ز-ر` where the transliteration on the very
   same line says "wāw, zāy, rāʾ". **Fixed.**
