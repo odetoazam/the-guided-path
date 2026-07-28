@@ -30,7 +30,7 @@ related_ayahs: ["41:11", "41:9", "67:5", "37:6", "15:16", "2:29", "21:33", "50:6
 
 Let me give you the ayah first. Hear it in Arabic, then in transliteration, then in a plain English that we will spend the next hour slowly taking apart.
 
-> **فَقَضَىٰهُنَّ سَبْعَ سَمَاوَاتٍ فِى يَوْمَيْنِ وَأَوْحَىٰ فِى كُلِّ سَمَآءٍ أَمْرَهَا ۚ وَزَيَّنَّا ٱلسَّمَآءَ ٱلدُّنْيَا بِمَصَـٰبِيحَ وَحِفْظًا ۚ ذَٰلِكَ تَقْدِيرُ ٱلْعَزِيزِ ٱلْعَلِيمِ**
+> [ayah:41:12] فَقَضَىٰهُنَّ سَبْعَ سَمَـٰوَاتٍ فِى يَوْمَيْنِ وَأَوْحَىٰ فِى كُلِّ سَمَآءٍ أَمْرَهَا ۚ وَزَيَّنَّا ٱلسَّمَآءَ ٱلدُّنْيَا بِمَصَـٰبِيحَ وَحِفْظًا ۚ ذَٰلِكَ تَقْدِيرُ ٱلْعَزِيزِ ٱلْعَلِيمِ
 
 *Fa-qaḍāhunna sabʿa samāwātin fī yawmayn, wa awḥā fī kulli samāʾin amrahā. Wa zayyannā as-samāʾa ad-dunyā bi-maṣābīḥa wa ḥifẓā. Dhālika taqdīru-l-ʿAzīzi-l-ʿAlīm.*
 

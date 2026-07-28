@@ -39,7 +39,7 @@ function canonical(s, a) {
 const MARKS = /[ً-ٰٟۖ-ۭـࣰ-ࣿ]/g;
 const fold = (t) =>
   t
-    .replace(MARKS, '')
+    .replace(/\u0670/g, 'ا').replace(MARKS, '')
     .replace(/[آأإٱ]/g, 'ا')
     .replace(/ى/g, 'ي')
     .replace(/ة/g, 'ه')
@@ -64,7 +64,13 @@ const misses = [];
 for (const file of files) {
   let text;
   try { text = readFileSync(file, 'utf8'); } catch { continue; }
-  if (/\[ayah:\d+:\d+\]/.test(text)) continue; // already tagged — leave alone
+  // Do NOT skip a file just because it has SOME tags. 215 files had a subset of
+  // their declared verses tagged; skipping them wholesale left the rest invisible
+  // to verify_arabic. Instead, collect which ayahs are already tagged and only
+  // add the missing ones.
+  const already = new Set(
+    [...text.matchAll(/\[ayah:(\d+):(\d+)\]/g)].map((m) => `${m[1]}:${m[2]}`)
+  );
   const fm = text.match(/^---\n([\s\S]*?)\n---\n/);
   if (!fm) continue;
   const s = fm[1].match(/^surah:\s*(\d+)/m);
@@ -77,6 +83,7 @@ for (const file of files) {
   // fold -> ayah number, for every verse this file declares
   const want = new Map();
   for (let a = start; a <= end; a++) {
+    if (already.has(`${surah}:${a}`)) continue; // already visible to the verifier
     const c = canonical(surah, a);
     if (c) want.set(fold(c), a);
   }

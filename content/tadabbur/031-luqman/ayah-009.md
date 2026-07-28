@@ -62,7 +62,7 @@ related_ayahs:
 ### The Text
 
 **Arabic:**
-خَالِدِينَ فِيهَا ۖ وَعْدَ اللَّهِ حَقًّا ۚ وَهُوَ الْعَزِيزُ الْحَكِيمُ
+[ayah:31:9] خَـٰلِدِينَ فِيهَا ۖ وَعْدَ ٱللَّهِ حَقًّا ۚ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ
 
 **Transliteration:**
 *Khālidīna fīhā — waʿda Allāhi ḥaqqā — wa huwa l-ʿAzīzu l-Ḥakīm*

@@ -1,0 +1,68 @@
+[
+  {
+    "path": "content/tadabbur/025-al-furqan/ayahs-025-026.md",
+    "verdict": "CRITICAL",
+    "old_verdict": "MODERATE",
+    "issues": [
+      "[CRITICAL] \"The simple Form I would be *anzala* — 'He sent down.' That's used for the Quran in many places: 'Indeed, We sent it down on the Night of Power' (97:1) — *anzalnāhu*.\" — أَنزَلَ is Form IV (أَفْعَلَ), not Form I. Form I of ن-ز-ل is نَزَلَ (nazala). The contrast the section is built on (Form I anzala vs Form II nuzzila) is a Form IV/Form II contrast mislabelled; the cited proof text 97:1 أَنزَلْنَاهُ is itself Form IV. Same defect class as the Form VIII-labelled-Form X error.",
+      "[MINOR] \"Allah used the heaviest, most layered verbal form for descent — *Form II*\" — Form II is not 'the heaviest' verbal form; the intensification/repetition point stands on its own without the superlative.",
+      "[MINOR] Frontmatter `slug: \"025-025\"` for a file covering 25:25-26; transliteration \"yawma'idhin il-ḥaqqu\" mishandles the waṣl (al-ḥaqqu)."
+    ],
+    "summary": "The tashaqqaqu Form V analysis is correct and directly corroborated by al-Tabari's qirā'āt note (بتشديد الشين بمعنى: تَتَشقق), the maṣdar mu'akkid تَنزِيلًا is correctly identified, and ar-Raḥmān / al-mulk al-ḥaqq reading matches al-Jalalayn (لا يشركه فيه أحد) and al-Muyassar. Arabic matches canonical text byte-for-byte. But the file states outright that anzala is Form I — a verb-form misidentification in the load-bearing morphology contrast. REPORT DEFECT: the Ibn Kathir block is the identical truncated 25:25-28 passage under both 25:25 and 25:26 (the measured duplicate-block class); al-Tabari is likewise duplicated. Not a content error.",
+    "old_verdict_was_artifact": true
+  },
+  {
+    "path": "content/tadabbur/027-an-naml/ayah-047.md",
+    "verdict": "MINOR",
+    "old_verdict": "CRITICAL",
+    "issues": [
+      "[MINOR] \"And Salih's response is shorter than their accusation. Just five words in Arabic.\" — the reply is seven words (طائركم عند الله بل أنتم قوم تفتنون) against their five (اطَّيَّرْنا بك وبمن معك); it is longer, not shorter. The file contradicts itself later with \"Just six small words, in two movements.\" A rhetorical point resting on a miscount of the text.",
+      "[MINOR] Frontmatter `word_count: 14` — that is the ayah's word count, not the reflection's (~3,500). Metadata slip."
+    ],
+    "summary": "No genuine defect in the linguistic or interpretive substance. Root ط-ي-ر correct; the reflexive framing of اطَّيَّرْنا is exactly what al-Jalalayn gives (أصله تَطَيَّرْنا أُدْغِمَتْ التاء في الطاء واجْتُلِبَتْ همزة الوصل); the claim that Thamud was suffering drought is directly attested by al-Jalalayn (حيث قَحَطوا المطر وجاعوا); ʿinda-llāh as custody/knowledge matches al-Tabari (عند الله علمه); تُفْتَنُونَ as Form I passive 'being assayed' matches al-Jalalayn and al-Muyassar (تختبرون بالخير والشر). The gold-assay lexical base for ف-ت-ن is standard (Rāghib). The hadith 'من يرد الله به خيرا يصب منه' is authentic (Bukhari). Old CRITICAL was an artifact of mispaired review — the report for 27:47 is clean and on-ayah on all four sources.",
+    "old_verdict_was_artifact": true
+  },
+  {
+    "path": "content/tadabbur/039-az-zumar/ayah-042.md",
+    "verdict": "MODERATE",
+    "old_verdict": "CRITICAL",
+    "issues": [
+      "[MODERATE] \"It appears sixty-nine times across the Quran.\" — false frequency claim. In the Quranic corpus the root و-ف-ي occurs 66 times total, and the Form V lemma تَوَفَّى (plus the participle مُتَوَفٍّ) occurs 11 times. No count yields 69. Stated as a precise fact to open the section.",
+      "[MODERATE] \"The same verb. The same action. The same divine collecting. For the dying *and* the sleeping\" / \"The taking is identical\" / \"No consciousness that persists independently while the body rests. Every single one is taken\" — a mechanism-of-the-soul claim asserted flatly. The paired report's al-Muyassar on 6:60 explicitly qualifies it: يقبض أرواحكم بالليل **بما يشبه** قبضها عند الموت — a resemblance, not an identity — and calls sleep الموتة الصغرى against الوفاة الكبرى. Classical tafsir on this ayah also records the ikhtilāf on *what* is taken in sleep (nafs al-tamyīz vs nafs al-ḥayāh). The file's frontmatter `scholarly_status` mislocates the ikhtilāf as 'whether both categories are taken simultaneously or sequentially.'",
+      "[MODERATE] \"The dead are not the abandoned. The dead are the *held*… The held soul is closer to the One doing the holding. The sent soul is moving away… The asymmetry is not between the fortunate and the unfortunate. It is between the **near** and the **sent**.\" — an entire theme built on reading يُمْسِكُ as nearness-to-Allah and يُرْسِلُ as distance-from-Allah, applied to all the dead without qualification. No tafsir in the report supports it; al-Muyassar reads يرسل plainly as returning the soul to its owner's body to complete its term (بإعادتها إلى جسم صاحبها). Interpretive extension presented as the ayah's theology.",
+      "[MINOR] \"### The Chiasm\" — the structure laid out (death/sleep then held/sent) is straight parallelism, not a chiasm; the labelled 'pivot' قَضَى sits inside the second limb, not between mirrored halves. A distillation that doesn't distill."
+    ],
+    "summary": "Every morphological claim checks out: يَتَوَفَّى Form V from و-ف-ي, يُمْسِكُ/يُرْسِلُ both Form IV, مُّسَمًّى Form II passive participle, يَتَفَكَّرُونَ Form V, قَضَىٰ perfect. The istīfā' lexical base is directly confirmed by al-Tabari on 6:60 (ومعنى التوفي في كلام العرب استيفاء العدد), and the held/sent division matches al-Muyassar closely. The waking du'ā (Bukhari) is quoted accurately. No CRITICAL-class defect — old verdict was an artifact. The genuine problems are the false 69-times count and two places where the file hardens what the sources qualify: the sleep/death identity and the held-is-near theme. REPORT DEFECT: this is a 3-ayah report bundling 6:60, 11:47 and 39:42, and the Ibn Kathir block filed under 39:42 is actually commentary on 39:41 (إنا أنزلنا عليك الكتاب) — offset, not a content error.",
+    "old_verdict_was_artifact": true
+  },
+  {
+    "path": "content/tadabbur/023-al-muminun/ayah-027.md",
+    "verdict": "MINOR",
+    "old_verdict": "CRITICAL",
+    "issues": [
+      "[MINOR] Pruned-morphology guard comment lists \"key roots (ʿ-y-n, f-w-r, t-n-r, kh-ṭ-b, gh-r-q, s-k-n)\" — س-ك-ن does not occur in 23:27. The word intended is فَٱسْلُكْ, root س-ل-ك. Metadata only; no reader-facing analysis depends on it, but it is a root misidentification in the file's own root inventory.",
+      "[MINOR] \"the classical lexicographers and *mufassirūn* — al-Rāghib, al-Zamakhsharī, Ibn ʿĀshūr — converge on what this construction does\" — three named authorities invoked without stating what they say. An unverifiable appeal to authority standing in for a citation.",
+      "[MINOR] \"When the singular is used in the idiom, it means *under supervision*. When the plural is used, the supervision is **multiplied**\" — presented as an established rule of the Arabic idiom. The paired tafsir glosses بأعيننا simply as بمرأى منا وحفظنا (al-Jalalayn) / بمرأى منا وبأمرنا (al-Muyassar); no source gives a singular-vs-plural intensification rule. The file does hedge it as one of three 'camera angles.'",
+      "[MINOR] The paired al-Muyassar block closes with an ʿaqīdah note on this exact phrase — وفي هذه الآية إثبات صفة العين لله سبحانه بما يليق به تعالى دون تشبيه ولا تكييف — while the file handles بأعيننا purely as idiom plus 'plural of majesty' without flagging the affirmation-vs-taʾwīl divide on an attribute verse. Methodology slip on a sensitive verse.",
+      "[MINOR] \"just two ayahs before our ayah, the leaders of his people give their final summary verdict… (23:24)\" — 23:24 is three ayahs before 23:27.",
+      "[MINOR] \"a popular concept called *the observer effect on performance* — or in more colloquial terms, *the watched-pot phenomenon*\" — the research described is the Hawthorne effect; 'watched-pot' names a time-perception effect, not this. Decorative mislabel."
+    ],
+    "summary": "No CRITICAL-class defect; old verdict was an artifact. Arabic matches canonical text exactly. تُخَاطِبْنِي correctly identified as Form III with muṭāwaʿah/mutuality; فَارَ correctly from ف-و-ر; مُّغْرَقُونَ correctly read as a passive participle stating a settled outcome. Crucially, the tannūr section is handled as genuine ikhtilāf (literal oven per Ibn ʿAbbās, a specific location, the earth's surface per al-Ḥasan, the breaking dawn) rather than settled — the correct treatment. Nuh's later plea (11:45-46), 29:14, 71:7 and 23:24 are all quoted accurately. Remaining issues are a metadata root slip, a vague triple-attribution, and analogy mislabels. REPORT DEFECT: the al-Tabari block filed under 23:27 is commentary on 23:23 (ولقد أرسلنا نوحًا إلى قومه) — offset; Ibn Kathir, al-Muyassar and al-Jalalayn are on-ayah.",
+    "old_verdict_was_artifact": true
+  },
+  {
+    "path": "content/tadabbur/014-ibrahim/ayahs-024-027.md",
+    "verdict": "CRITICAL",
+    "old_verdict": "MODERATE",
+    "issues": [
+      "[CRITICAL] \"**The tree is not the believer.** The tree is the *parable* of the believer's word.\" — flatly contradicted by the file's own paired report. Ibn Kathir (ʿAlī b. Abī Ṭalḥa ← Ibn ʿAbbās) and al-Tabari both give: كَشَجَرَةٍ طَيِّبَةٍ — وهو المؤمن ('and it is the believer'), with أَصْلُهَا ثَابِتٌ = لا إله إلا الله ثابتٌ في قلب المؤمن; al-Tabari also records al-Rabīʿ b. Anas: هذا مَثَلُ الإيمان، فالإيمان الشجرة الطيبة; al-Muyassar on 14:26 completes the pairing with وكذلك الكافرُ لا ثبات له. The denial is not incidental — the whole Part 1 thesis ('The tree's root is firm **by itself**. The believer has to be **made** firm by Allah… This is the deepest thing in the passage') and the whole of Theme 2 rest on it. The file even undercuts itself by citing the Bukhari date-palm hadith as 'the tree that most resembles the believer.'",
+      "[MODERATE] \"And the wrongdoers? 'Allah leads the wrongdoers astray.' Full stop. **No arena named.**… The wrongdoers have no world… There's no location for your lostness\" (repeated in Part 1 §3 and Theme 2) — contradicted by the paired al-Muyassar on 14:27: ويضل الله الظالمين عن الصواب **في الدنيا والآخرة**. An argument from silence asserted twice as the passage's structural payoff, against a reading the file's own report supplies.",
+      "[MINOR] \"the hadith narrated in Bukhari and Muslim tells us this making-firm happens in two arenas… and in the grave, when the angels Munkar and Nakir ask their three questions\" — the al-Barāʾ b. ʿĀzib hadith quoted in the report from Bukhari does not name Munkar and Nakir (those names come via Tirmidhi) and does not enumerate three questions. Composite attribution tightened onto Bukhari and Muslim.",
+      "[MINOR] \"The good tree gives 'every season' (*kulla heen*)\" — al-Tabari's block on 14:25 opens by recording explicit ikhtilāf on حين (واختلف أهل التأويل في معنى 'الحين'… كلّ غَداةٍ وعَشِيَّة …), which the file does not acknowledge; 'every season' is presented as the settled sense.",
+      "[MINOR] \"He used Form VIII: *uftui'la* — the reflexive-passive intensive… The Form VIII *ta'* infix adds the force of something acted upon from within *and* without at the same moment.\" — the form ID is right (corpus: 14:26 PERF PASS (VIII) ROOT:jvv) but the pattern is garbled in transliteration and the 'within and without simultaneously' semantics is invented; the Form VIII infix marks muṭāwaʿah/reflexivity, not that.",
+      "[MINOR] \"Both words — *tayyibah* and *khabeethah* — use the intensive adjective pattern\" — فَعِيل here is the ṣifah mushabbahah (fixed/inherent quality), not the mubālaghah/intensive pattern. The conclusion the file draws (natures, not moods) is right; the label is not."
+    ],
+    "summary": "Much of the file is strong and verifiable: ثَابِتٌ correctly an active participle (Form I) against يُثَبِّتُ Form II; مِن before قَرَارٍ correctly identified as مِن الزائدة intensifying the negation; and the hapax claim on ٱجْتُثَّتْ is confirmed exactly — root ج-ث-ث occurs once in the entire corpus, at 14:26, as a Form VIII passive. The shallow-root reading of مِن فَوْقِ ٱلْأَرْضِ matches al-Muyassar (لأن عروقها قريبة من سطح الأرض) precisely. But the file's central move is to deny the tree/believer identification that its own paired Ibn ʿAbbās material asserts in two of the four sources, and it builds a second structural claim on a silence al-Muyassar fills. On the ikhtilāf question raised in the brief: the good tree is handled loosely (date palm via hadith only; the believer / īmān identifications are actively rejected) and the foul tree's identification as شجرة الحنظل in al-Muyassar is never mentioned. REPORT DEFECT: the Ibn Kathir block is the identical 14:24 text repeated under 14:24, 14:25 and 14:26, and the al-Tabari blocks are offset by one (14:26's block is on 14:27; 14:27's block is on 14:28) — al-Muyassar is correctly aligned throughout and carries the decisive material.",
+    "old_verdict_was_artifact": true
+  }
+]

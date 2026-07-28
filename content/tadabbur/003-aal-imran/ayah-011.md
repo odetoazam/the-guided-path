@@ -30,7 +30,7 @@ related_ayahs: ["3:10", "8:52", "8:54", "40:31", "40:21", "54:42", "2:81"]
 
 Let me give you the verse first, and then I want us to slow all the way down.
 
-> **كَدَأْبِ آلِ فِرْعَوْنَ وَالَّذِينَ مِن قَبْلِهِمْ ۚ كَذَّبُوا بِآيَاتِنَا فَأَخَذَهُمُ اللَّهُ بِذُنُوبِهِمْ ۗ وَاللَّهُ شَدِيدُ الْعِقَابِ**
+> [ayah:3:11] كَدَأْبِ ءَالِ فِرْعَوْنَ وَٱلَّذِينَ مِن قَبْلِهِمْ ۚ كَذَّبُوا۟ بِـَٔايَـٰتِنَا فَأَخَذَهُمُ ٱللَّهُ بِذُنُوبِهِمْ ۗ وَٱللَّهُ شَدِيدُ ٱلْعِقَابِ
 
 *Ka-daʾbi āli firʿawna wa-lladhīna min qablihim — kadhdhabū bi-āyātinā fa-akhadhahumu-llāhu bi-dhunūbihim, wa-llāhu shadīdu-l-ʿiqāb.*
 

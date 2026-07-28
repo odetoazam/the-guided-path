@@ -24,7 +24,7 @@ related_ayahs: ["2:146", "6:21", "6:33", "27:14", "2:89"]
 
 # Recognition Without Belief — How the Soul Refuses What It Already Knows
 
-> **الَّذِينَ آتَيْنَاهُمُ الْكِتَابَ يَعْرِفُونَهُ كَمَا يَعْرِفُونَ أَبْنَاءَهُمُ ۘ الَّذِينَ خَسِرُوا أَنفُسَهُمْ فَهُمْ لَا يُؤْمِنُونَ**
+> [ayah:6:20] ٱلَّذِينَ ءَاتَيْنَـٰهُمُ ٱلْكِتَـٰبَ يَعْرِفُونَهُۥ كَمَا يَعْرِفُونَ أَبْنَآءَهُمُ ۘ ٱلَّذِينَ خَسِرُوٓا۟ أَنفُسَهُمْ فَهُمْ لَا يُؤْمِنُونَ
 
 *"Those to whom We gave the Book recognize him as they recognize their own sons. The ones who have lost their own souls — they are the ones who will not believe."*
 

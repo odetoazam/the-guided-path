@@ -41,7 +41,7 @@ function canonical(s, a) {
 const MARKS = /[ً-ٰٟۖ-ۭـࣰ-ࣿ]/g;
 function fold(t) {
   return t
-    .replace(MARKS, '')
+    .replace(/\u0670/g, 'ا').replace(MARKS, '')
     .replace(/[آأإٱ]/g, 'ا') // آ أ إ ٱ -> ا
     .replace(/ى/g, 'ي')                     // ى -> ي
     .replace(/ة/g, 'ه')                     // ة -> ه

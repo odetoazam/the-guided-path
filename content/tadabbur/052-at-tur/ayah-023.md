@@ -28,7 +28,7 @@ related_ayahs: ["56:18-19", "37:47", "78:35", "88:11", "79:1", "4:59"]
 
 Let me give you the ayah first. Eight words. Hear how short it is.
 
-> **يَتَنَازَعُونَ فِيهَا كَأْسًا لَّا لَغْوٌ فِيهَا وَلَا تَأْثِيمٌ**
+> [ayah:52:23] يَتَنَـٰزَعُونَ فِيهَا كَأْسًا لَّا لَغْوٌ فِيهَا وَلَا تَأْثِيمٌ
 >
 > *Yatanāzaʿūna fīhā kaʾsan, lā laghwun fīhā wa lā taʾthīm.*
 >

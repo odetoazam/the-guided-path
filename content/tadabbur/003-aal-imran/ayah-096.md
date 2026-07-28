@@ -28,7 +28,7 @@ related_ayahs: ["2:125", "2:127", "2:144", "14:37", "22:26", "3:97", "5:97"]
 
 Let me give you the ayah first. Sit with the sound of it before we ask it anything.
 
-> **إِنَّ أَوَّلَ بَيْتٍ وُضِعَ لِلنَّاسِ لَلَّذِي بِبَكَّةَ مُبَارَكًا وَهُدًى لِّلْعَالَمِينَ**
+> [ayah:3:96] إِنَّ أَوَّلَ بَيْتٍ وُضِعَ لِلنَّاسِ لَلَّذِى بِبَكَّةَ مُبَارَكًا وَهُدًى لِّلْعَـٰلَمِينَ
 
 *Inna awwala baytin wudiʿa lin-nāsi lalladhī bi-Bakkata mubārakan wa hudan lil-ʿālamīn.*
 

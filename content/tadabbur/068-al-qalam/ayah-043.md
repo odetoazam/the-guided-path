@@ -28,7 +28,7 @@ related_ayahs: ["68:42", "23:1", "23:2", "22:18", "41:37", "32:15", "7:206"]
 
 Let me give you the words first, and then let me ask you to forget, for a little while, that you have heard them before.
 
-> خَاشِعَةً أَبْصَارُهُمْ تَرْهَقُهُمْ ذِلَّةٌ ۖ وَقَدْ كَانُوا يُدْعَوْنَ إِلَى ٱلسُّجُودِ وَهُمْ سَـٰلِمُونَ
+> [ayah:68:43] خَـٰشِعَةً أَبْصَـٰرُهُمْ تَرْهَقُهُمْ ذِلَّةٌ ۖ وَقَدْ كَانُوا۟ يُدْعَوْنَ إِلَى ٱلسُّجُودِ وَهُمْ سَـٰلِمُونَ
 
 *Khāshiʿatan abṣāruhum, tarhaquhum dhillah — wa qad kānū yudʿawna ilā s-sujūdi wa hum sālimūn.*
 

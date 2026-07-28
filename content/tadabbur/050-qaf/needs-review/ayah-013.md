@@ -47,7 +47,7 @@ And then, in what seems like a sudden gear change, the surah turns to history:
 50:12 — *كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ وَأَصْحَابُ الرَّسِّ وَثَمُودُ*
 "Before them, the people of Noah denied, and the companions of al-Rass, and Thamud."
 
-50:13 — *وَعَادٌ وَفِرْعَوْنُ وَإِخْوَانُ لُوطٍ*
+[ayah:50:13] وَعَادٌ وَفِرْعَوْنُ وَإِخْوَٰنُ لُوطٍ
 "And ʿĀd, and Pharaoh, and the brothers of Lot."
 
 50:14 — *وَأَصْحَابُ الْأَيْكَةِ وَقَوْمُ تُبَّعٍ ۚ كُلٌّ كَذَّبَ الرُّسُلَ فَحَقَّ وَعِيدِ*

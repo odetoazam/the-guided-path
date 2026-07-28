@@ -28,7 +28,7 @@ related_ayahs: ["81:28", "81:29", "38:87", "68:52", "21:10", "12:104", "51:55", 
 
 Let me give you the words first, and then I want to take you somewhere before we open them.
 
-> **إِنْ هُوَ إِلَّا ذِكْرٌ لِّلْعَالَمِينَ**
+> [ayah:81:27] إِنْ هُوَ إِلَّا ذِكْرٌ لِّلْعَـٰلَمِينَ
 >
 > *In huwa illā dhikrun lil-ʿālamīn*
 >

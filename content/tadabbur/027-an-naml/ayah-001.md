@@ -53,7 +53,7 @@ related_ayahs:
 # The Signal Before Speech: What the Quran Says About Itself Before It Begins
 
 **Surah An-Naml (27:1)**
-**طس ۚ تِلْكَ آيَاتُ الْقُرْآنِ وَكِتَابٍ مُّبِينٍ**
+[ayah:27:1] طسٓ ۚ تِلْكَ ءَايَـٰتُ ٱلْقُرْءَانِ وَكِتَابٍ مُّبِينٍ
 *Ṭā Sīn. Those are the verses of the Quran — a Book that makes things clear.*
 
 ---

@@ -55,7 +55,7 @@ related_ayahs:
 
 ### The Ayah
 
-**Arabic:** قَالُوا أَرْجِهْ وَأَخَاهُ وَابْعَثْ فِي الْمَدَائِنِ حَاشِرِينَ
+[ayah:26:36] قَالُوٓا۟ أَرْجِهْ وَأَخَاهُ وَٱبْعَثْ فِى ٱلْمَدَآئِنِ حَـٰشِرِينَ
 
 **Transliteration:** *Qālū arjih wa-akhāhu wab'ath fī al-madā'ini ḥāshirīn*
 

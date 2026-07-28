@@ -28,7 +28,7 @@ related_ayahs: ["4:69", "57:12", "57:13", "57:15", "57:18", "66:8"]
 
 Let me begin by placing the words in front of us, and then let's not rush to explain them. Let's just listen first.
 
-> **وَالَّذِينَ آمَنُوا بِاللَّهِ وَرُسُلِهِ أُولَٰئِكَ هُمُ الصِّدِّيقُونَ ۖ وَالشُّهَدَاءُ عِندَ رَبِّهِمْ لَهُمْ أَجْرُهُمْ وَنُورُهُمْ ۖ وَالَّذِينَ كَفَرُوا وَكَذَّبُوا بِآيَاتِنَا أُولَٰئِكَ أَصْحَابُ الْجَحِيمِ**
+> [ayah:57:19] وَٱلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَرُسُلِهِۦٓ أُو۟لَـٰٓئِكَ هُمُ ٱلصِّدِّيقُونَ ۖ وَٱلشُّهَدَآءُ عِندَ رَبِّهِمْ لَهُمْ أَجْرُهُمْ وَنُورُهُمْ ۖ وَٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟ بِـَٔايَـٰتِنَآ أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلْجَحِيمِ
 
 *Walladhīna āmanū billāhi wa rusulihi ulā'ika humu ṣ-ṣiddīqūn, wash-shuhadā'u ʿinda rabbihim, lahum ajruhum wa nūruhum. Walladhīna kafarū wa kadhdhabū bi-āyātinā ulā'ika aṣḥābu l-jaḥīm.*
 
