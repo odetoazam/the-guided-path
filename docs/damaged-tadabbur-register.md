@@ -40,6 +40,24 @@ Each needs regeneration through the `/quranic-tadabbur` skill + all 3 validators
     explicitly rather than implying the words are unknowable.
   - One Leeds flag (root ندي "absent" from 21:76) is a **verified false positive** — the corpus gives
     نَادَىٰ the root ندي, and `verify_morphology` passed the tag. Same bug class as the other ~197.
+- 🚨 **`021-al-anbiya/ayahs-076-077.md` — THESIS DEFECT FOUND AND FIXED (2026-07-27).**
+  The 2026-07-24 rebuild passed all three validators and was still **substantively false**. Its central
+  claim — *"The Quran preserves exactly one prayer of Nuh in his own words, and it is the one that was
+  refused"* — is refuted by 71:5, 71:21, 71:26, 71:28, 26:117-118, 23:26, 54:10, 11:45 and 11:47. The
+  file even cited al-Jalalayn pointing at 71:26, the very verse that refutes it.
+  **Lesson: mechanical validation cannot see a false thesis.** `verify_arabic`, `verify_morphology` and
+  `cross_reference_tafsir` check citations, not claims. Any "regenerated from scratch" file needs a
+  semantic read before it is marked done — passing validators is necessary, not sufficient.
+  Thesis rebuilt on verified ground: *nādā* occurs **exactly 4× in Surah Al-Anbiya** — Nuh (76),
+  Ayyub (83), Yunus (87), Zakariyya (89) — and three of the four are quoted verbatim while only Nuh's
+  is left blank, because his words are distributed across other surahs. 21:76-77 then answers in the
+  vocabulary of the requests: *najjinī* (26:118) → *najjaynāhu*; *unṣurnī... kadhdhabūn* (23:26) →
+  *naṣarnāhu... kadhdhabū bi-āyātinā*, with the object of denial shifted from "me" to "Our signs".
+  Also corrected: the old text called *naṣara ʿalā* the "overwhelming" pattern (it is 5× vs 4× genuine
+  *naṣara min*). Replaced with the exhaustive, verified list — *naṣara + min* naming what one is pulled
+  out of appears **4×** (11:30, 11:63, 40:29, 21:77), and **21:77 is the only one with a real subject**,
+  the other three being rhetorical questions expecting the answer "nobody".
+  Frontmatter now carries `semantic_review: "fixed-2026-07-27"`. Both validators re-run clean.
 - **Stub sweep run corpus-wide:** `grep -rl "^## Changes Applied" content/tadabbur/` returns **0 files**.
   No other file has enricher notes in place of its body. That blast radius is closed.
 - The original reflection at this path remains **irrecoverably lost** (corrupted before commit
