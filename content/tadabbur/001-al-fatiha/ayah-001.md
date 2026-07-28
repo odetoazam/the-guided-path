@@ -12,6 +12,7 @@ generated_by: "quranic-tadabbur skill"
 validated: true
 concepts: [tawhid, mahabbah, ibadah, dhikr, fitrah]
 validation_date: "2026-03-23"
+semantic_review: "fixed-2026-07-27"
 slug: "001-001"
 category: tadabbur
 ---
@@ -176,7 +177,7 @@ The classical scholars saw these two names from multiple angles, and each angle 
 
 **Al-Tabari** noted that الرحمن indicates the *breadth* of mercy — it covers everything that exists, believer and disbeliever, human and animal, seen and unseen. الرحيم indicates the *specificity* — it is mercy deliberately directed, personally applied.
 
-**Al-Qurtubi** observed something remarkable: الرحمن *cannot be used for any created being*. You can never call a human "rahmān." The pattern, in this meaning, belongs exclusively to Allah. But الرحيم *can* be used for humans — the Prophet ﷺ is described in Surah At-Tawbah (9:128) as رَحِيمٌ بِالمُؤْمِنِينَ — "merciful toward the believers." What does that tell you? الرحمن describes a scale of mercy that no creation can participate in. الرحيم describes a *quality* of mercy that Allah placed in human beings too — a quality you can embody, even if incompletely.
+**Al-Qurtubi** observed something remarkable: الرحمن *cannot be used for any created being*. You can never call a human "rahmān." The pattern, in this meaning, belongs exclusively to Allah. But الرحيم *can* be used for humans — the Prophet ﷺ is described in Surah At-Tawbah (9:128) as بِٱلْمُؤْمِنِينَ رَءُوفٌ رَّحِيمٌ — "to the believers, kind and merciful." What does that tell you? الرحمن describes a scale of mercy that no creation can participate in. الرحيم describes a *quality* of mercy that Allah placed in human beings too — a quality you can embody, even if incompletely.
 
 **Ibn Kathir** harmonized: الرحمن is mercy for all creation. الرحيم is mercy for the believers specifically on the Day of Judgment. One is universal and present. The other is particular and eschatological.
 

@@ -3,18 +3,18 @@ surah: 24
 surah_name: "An-Nur"
 ayah_start: 41
 ayah_end: 41
-title: "The Cosmic Liturgy You Cannot Hear: Each Knows Its Own Salah"
+title: "The Cosmic Liturgy You Cannot Hear: Every Salah Is Known"
 slug: "024-041"
 category: tadabbur
 arabic: "أَلَمْ تَرَ أَنَّ ٱللَّهَ يُسَبِّحُ لَهُۥ مَن فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَٱلطَّيْرُ صَـٰٓفَّـٰتٍ ۖ كُلٌّ قَدْ عَلِمَ صَلَاتَهُۥ وَتَسْبِيحَهُۥ ۗ وَٱللَّهُ عَلِيمٌۢ بِمَا يَفْعَلُونَ"
-translation: "Have you not seen that Allah — to Him glorifies whatever is in the heavens and the earth, and the birds with wings outspread? Each one already knows its own salah and its own tasbih. And Allah is fully Knowing of all that they do."
+translation: "Have you not seen that Allah — to Him glorifies whatever is in the heavens and the earth, and the birds with wings outspread? Of each one He knows its salah and its tasbih. And Allah is fully Knowing of all that they do."
 word_count: 21
 estimated_duration: "50-58 minutes"
 passage_context: "This ayah sits in the great cosmic sweep that follows the Light verse (24:35) and the description of those whose hearts are luminous houses (24:36-38), and which contrasts with the layered darkness of those who refuse light (24:39-40). Having shown what light looks like inside the human, the surah now lifts its gaze outward — to what the entire universe is doing right now, whether anyone is paying attention or not."
 generated_by: "opus-tadabbur-auto"
 validated: false
 validation_date: "2026-04-30"
-semantic_review: "agent-2026-05-21-critical"
+semantic_review: "fixed-2026-07-27"
 tags: [tasbih, cosmic-worship, birds, salah, divine-knowledge, surah-an-nur, creation-glorifies, light-passage]
 concepts: [tasbih, salah, knowledge-before-action, cosmic-liturgy, form-II-intensification, saffat, hal-construction]
 related_ayahs: ["17:44", "21:79", "38:18", "59:1", "61:1", "62:1", "64:1", "24:35", "24:43", "24:44", "67:19"]
@@ -30,7 +30,7 @@ related_ayahs: ["17:44", "21:79", "38:18", "59:1", "61:1", "62:1", "64:1", "24:3
 >
 > *Alam tara anna Allāha yusabbiḥu lahu man fī s-samāwāti wa-l-arḍi wa-ṭ-ṭayru ṣāffāt. Kullun qad ʿalima ṣalātahu wa-tasbīḥah. Wa-Llāhu ʿalīmun bimā yafʿalūn.*
 >
-> "Have you not seen that Allah — to Him glorifies whatever is in the heavens and the earth, and the birds with wings outspread? Each one already knows its own salah and its own tasbih. And Allah is fully Knowing of all that they do."
+> "Have you not seen that Allah — to Him glorifies whatever is in the heavens and the earth, and the birds with wings outspread? Of each one He knows its salah and its tasbih. And Allah is fully Knowing of all that they do."
 
 ---
 
@@ -156,7 +156,7 @@ This is the line that, once you see it, changes the whole ayah.
 >
 > *Kullun qad ʿalima ṣalātahu wa-tasbīḥah.*
 >
-> "Each one — already — has known its own salah and its own tasbīḥ."
+> "Of each one — already — its salah and its tasbīḥ has been known." (On who the knower is, see the third point below.)
 
 Let me unpack three things here, slowly.
 
@@ -164,7 +164,7 @@ Let me unpack three things here, slowly.
 
 In Arabic, *qad* placed before a perfect-tense verb intensifies its already-completedness. *ʿAlima* alone would mean "knew." *Qad ʿalima* means "has already known, has indeed known, the knowing is done and settled." It is **knowledge that is not in process**.
 
-The bird is not in flight school. The mountain is not learning its tasbīḥ. The fish is not catching up. **Each thing's worship was already known to it before this moment, before you noticed, before the question was even asked.**
+The bird is not in flight school. The mountain is not learning its tasbīḥ. The fish is not catching up. **Each thing's worship was already settled and already known before this moment, before you noticed, before the question was even asked.**
 
 [PAUSE]
 
@@ -178,7 +178,7 @@ What does it mean for a tree to have a salah? For a stone to have one? For a dus
 
 This is one of those places where the classical scholars give us not contradicting answers but *layered* answers — different angles on a single reality. Some, like Ibn ʿAbbās (as transmitted), read it as **literal**: every created thing has a real, specific worship known to itself, in its own modality, that we cannot perceive. Others read it as the *natural functioning* of the thing being its salah — the tree's salah is to be a tree exactly as Allah designed it, the river's salah is to flow as designed. Others, like al-Rāzī, hold both — the conscious and the structural — at once.
 
-Don't pick one. Hold them all. Because the deeper claim is the same in every reading: **whatever the creature's mode of worship is, it knows it, it performs it, and Allah counts it.**
+Don't pick one. Hold them all. Because the deeper claim is the same in every reading: **whatever the creature's mode of worship is, it was guided into it, it performs it, and Allah knows and counts it.**
 
 [PAUSE]
 
@@ -186,15 +186,19 @@ Don't pick one. Hold them all. Because the deeper claim is the same in every rea
 
 Here is the single most discussed point in this ayah. *Kullun qad ʿalima ṣalātahu*. "Each — has known — its salah."
 
-Who is the one who has known? *Kullun* (each/every) is the grammatical subject — so the most natural reading is that each creature knows its own salah. But classical scholars (Ṭabarī, Qurṭubī) note the grammar permits a second reading: that **Allah** is the implied knower — "each one [has had] its salah and tasbīḥ known [by Allah]."
+Who is the one who has known? The classical commentators answer this with striking consistency: **Allah**. Al-Jalālayn does not even leave it to inference — the tafsīr inserts the subject directly into the text, glossing *kullun qad ʿalima* as *qad ʿalima **Allāh*** — "Allah has known its salah and its tasbīḥ." Ibn Kathīr's rendering carries the same sense: *of each one, **He** knows its salah and its glorification*. This is the primary reading, and it is the one the ayah's own closing line confirms — *wa-Llāhu ʿalīmun bimā yafʿalūn*, *and Allah is fully Knowing of what they do*. The sentence begins and ends with the same Knower.
 
-You don't have to choose. The closing of the ayah — *wa-Llāhu ʿalīmun bimā yafʿalūn* — *and Allah is fully Knowing of what they do* — does the joining for you. **Both are true.** The creature knows its own worship, *and* Allah encompasses the knowledge of every creature's worship from above. Two knowings, perfectly nested.
+So the picture the ayah paints is this: the cosmos is worshipping in modes we cannot hear or recognize, and **not one of those modes escapes Allah's knowledge**. Nothing in that vast liturgy is unwitnessed. The bird's prayer is not lost in the noise.
+
+A minority reading takes *kullun* itself as the subject — each creature knows its own salah — since *kullun* stands first in the clause. It is grammatically available, and some later commentators mention it. But it is not what the major tafāsīr settle on, and nothing in this reflection should be built on it alone. Hold it as a possibility at the edge, not as the ayah's plain sense.
+
+What the commentators *do* affirm about the creature's side comes from a different angle. Al-Muyassar puts it directly: *kullu makhlūqin qad arshadahu Llāhu kayfa yuṣallī lahu wa-yusabbiḥuh* — **every creature, Allah has guided it in how to pray to Him and glorify Him.** The knowledge is real and it is in the creature. But it was *put* there. It is issued knowledge, not self-generated knowledge. That distinction will matter in a moment.
 
 [PAUSE]
 
 Now stay with me. Here is what this single sentence does to me.
 
-Every created thing **already knows** its salah. The bird hatched into knowledge of its salah. The fish swam into knowledge of its tasbīḥ. The mountain stood up out of the earth already knowing.
+Every created thing was **issued** its salah — *arshadahu Llāh*, Allah guided it — and it has never had to be reminded since. The bird hatched into knowledge of its salah. The fish swam into knowledge of its tasbīḥ. The mountain stood up out of the earth already guided.
 
 And we — the ones to whom Allah sent a Messenger, sent down a Book over twenty-three years, sent angels with revelation, taught explicitly *qul* (say), *iqraʾ* (recite), *aqim aṣ-ṣalāh* (establish the prayer) — **we are the only creature who has to be *taught*. The only one who can *forget*. The only one who can know exactly what salah is and not perform it.**
 
@@ -206,7 +210,7 @@ And what does the ayah say at the end? *Wa-Llāhu ʿalīmun bimā yafʿalūn.* *
 
 [PAUSE — major pause]
 
-Bridge: We have walked through three linguistic doors. *Yusabbiḥu* — the continuous, intensive sending of Allah's purity outward by every existing thing. *Ṣāffāt* — the bird with wings outspread, where the posture is itself the prayer. *Kullun qad ʿalima* — each creature has *already* known its salah, and the species we belong to is the only one that can fail to know.
+Bridge: We have walked through three linguistic doors. *Yusabbiḥu* — the continuous, intensive sending of Allah's purity outward by every existing thing. *Ṣāffāt* — the bird with wings outspread, where the posture is itself the prayer. *Kullun qad ʿalima* — every creature's salah is already known to Allah, and every creature was already guided into it, and the species we belong to is the only one that can be guided and still fail to act.
 
 Now let's leave the words and ask what they reveal about reality itself.
 
@@ -262,7 +266,9 @@ The pressure comes off. The loneliness comes off. **You are no longer praying al
 
 ### Theme Two: Knowledge Before Action — and the Indictment of the Knowledgeable
 
-There is a quiet, almost unbearable theme buried in the words *qad ʿalima ṣalātahu*. *It has already known its salah.*
+There is a quiet, almost unbearable theme buried in the words *qad ʿalima ṣalātahu*.
+
+Let me be precise about where it comes from, because we just did the careful work above. The theme does *not* rest on reading the creature as the knower — that was the minority reading, and we set it aside. It rests on what al-Muyassar states plainly: *every creature, Allah has guided it in how to pray to Him and glorify Him.* The knowledge of worship was **placed** in every created thing. And here is the thing to notice: every creature except one performs what was placed in it.
 
 Let me bring you in through a human door.
 
@@ -272,9 +278,9 @@ Now read the ayah again with that human grief in your hand.
 
 *Kullun qad ʿalima ṣalātahu wa-tasbīḥah.*
 
-**Each one — already — has known.**
+**The knowing is already settled.**
 
-The bird, with no prophet sent to it, knows. The fish, with no Book revealed to it, knows. The mountain, with no prayer-time announced to it, knows. They were *given* the knowledge of their worship as the very condition of their existence.
+The bird, with no prophet sent to it, has its worship. The fish, with no Book revealed to it, has its tasbīḥ. The mountain, with no prayer-time announced to it, keeps its own. They were *given* the knowledge of their worship as the very condition of their existence — and Allah knows every last one of those acts.
 
 [PAUSE]
 

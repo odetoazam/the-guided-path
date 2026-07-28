@@ -14,7 +14,7 @@ passage_context: "This ayah sits inside a long passage (Q 33:53–58) protecting
 generated_by: "opus-tadabbur-auto"
 validated: false
 validation_date: "2026-05-14"
-semantic_review: "agent-2026-05-27-critical"
+semantic_review: "fixed-2026-07-27"
 tags: [salawat, prophet-muhammad, angels, divine-honor, cosmic-worship, ahzab, prophetic-love]
 concepts: [salah-on-the-prophet, mafʿul-mutlaq, verb-tense-asymmetry, single-word-multiple-realities, joining-vs-initiating, the-mercy-in-the-command]
 related_ayahs: ["33:43", "33:53", "33:57", "2:157", "9:103"]
@@ -148,7 +148,7 @@ But the same reality?
 
 [PAUSE]
 
-This is where classical Arabic does something modern English cannot. The root ص ل و carries a base meaning that the lexicographers describe as *connection*, *attention*, *facing toward*. Something or someone is being turned toward. The classical lexicons — Lisān al-ʿArab, Mufradāt al-Rāghib, Tāj al-ʿArūs — circle around this same idea. To do *ṣalāh* on someone is to *turn toward them* in a particular way that lifts them up.
+This is where classical Arabic does something modern English cannot. The classical lexicons — Lisān al-ʿArab, Mufradāt al-Rāghib, Tāj al-ʿArūs — give the base sense of the root ص ل و as **du'a**: supplication, calling out, asking good on someone's behalf. That is the ground floor of the word. And notice what du'a already carries inside it: you cannot ask on someone's behalf without turning toward them and wanting them raised. To do *ṣalāh* on someone, at root, is to *speak for them* in a way that lifts them up.
 
 But what does it mean for *Allah* to turn toward someone? What does it mean for *angels* to turn toward someone? What does it mean for *you* to turn toward someone?
 
@@ -156,7 +156,7 @@ The classical scholars saw this immediately. The same verb cannot possibly mean 
 
 So they said: this is one Arabic verb pointing toward **three different realities** that share a family resemblance.
 
-When *Allah* sends *ṣalāh* upon the Prophet, the classical commentators describe it as **rahma**, mercy — but a specific kind. Some say it is His praise of him in the highest gathering, the *al-malaʾ al-aʿlā*. Some say it is His exaltation of his name and his rank. Some say it is His mercy that descends specifically and continuously upon this one servant. The lexicons make clear we are inside a meaning that no English word fully holds.
+When *Allah* sends *ṣalāh* upon the Prophet, the classical commentators describe it as **rahma**, mercy — but a specific kind. Some say it is His praise of him in the highest gathering, the *al-malaʾ al-aʿlā*. Some say it is His exaltation of his name and his rank. Some say it is His mercy that descends specifically and continuously upon this one servant. The commentators make clear we are inside a meaning that no English word fully holds.
 
 When the *angels* send *ṣalāh* upon the Prophet, the classical commentators say it is **du'a** — they are asking. They are interceding for him. They are turning toward him with their voices raised, asking Allah to elevate him further.
 
@@ -172,7 +172,7 @@ Here is the analogy. Think of a single word like "love." When a parent says they
 
 But here is what is interesting: the human language *forces* us to use the same word, because at some deep level we know these three things are *related*. They share a family resemblance. They all involve a turning-toward, a giving-of-attention, a willing-of-good.
 
-Now do this with the Arabic verb *ṣalāh*. At its deepest, it means: turning toward someone with the intention to lift them. To raise them in standing. To give them attention that exalts.
+Now do this with the Arabic verb *ṣalāh*. Underneath all three uses sits the same shape: turning toward someone with the intention to lift them. To raise them in standing. To give them attention that exalts.
 
 So when Allah does it, the lifting is *infinite*, because He is the one who *gives* standing in the first place. When the angels do it, the lifting is *intercessory*, because they have access to the throne. When we do it, the lifting is *participatory* — we are asking the One who lifts to keep lifting.
 
@@ -186,7 +186,7 @@ That should stop you.
 
 I do not mean you become equivalent to Allah. *Subḥānahu wa taʿālā ʿammā yaqūlūn.* You do not become like Him. You do not match Him. The verb is not equal across actors. But you are *participating in a kind of action that He performs*. You are turning toward the Prophet ﷺ with the intent to lift him — and Allah, in the same ayah, just described Himself as doing precisely this.
 
-There is no other action in the Quran where this happens quite like this. There is no other ayah where Allah describes Himself doing an action and then turns to you in the same sentence and says: *and you do it too*. He is not commanding you to imitate Him in a metaphor. He is commanding you to take part in an act He has just identified Himself as performing.
+This is rare, though not unheard of. Allah does something structurally similar in *fadhkurūnī adhkurkum* (2:152) — "remember Me, I will remember you" — where the same act runs in both directions inside one sentence. What is distinctive here is the *direction*: in 2:152 the act runs between you and Allah. In 33:56 you and Allah are both turning toward a *third* party — the Prophet ﷺ. He is not commanding you to imitate Him in a metaphor. He is commanding you to take part, alongside Him, in an act He has just identified Himself as performing on someone else.
 
 [PAUSE]
 
@@ -306,7 +306,7 @@ Say it. *Allāhumma ṣalli ʿalā Muhammad.* And you are inside the song. The s
 
 [PAUSE]
 
-And here is what's beautiful — and this comes directly from ayah 56 of this same surah's surrounding context, where Allah says, *huwa-lladhī yuṣallī ʿalaykum wa malā'ikatuhu* — He is the One who sends ṣalāh upon *you*, and His angels too. Earlier in this very surah, Allah has already told us: I do this for you. I send my ṣalāh upon you, believer.
+And here is what's beautiful — and this comes directly from ayah 43 of this same surah, where Allah says, *huwa-lladhī yuṣallī ʿalaykum wa malā'ikatuhu* — He is the One who sends ṣalāh upon *you*, and His angels too. Earlier in this very surah, Allah has already told us: I do this for you. I send my ṣalāh upon you, believer.
 
 So we are not just joining the angels in their ṣalāh on the Prophet ﷺ. We are also entering a cosmic logic where Allah's ṣalāh is *circulating*. It flows from Him onto the Prophet. It flows from Him onto the believers. It flows from the believers back onto the Prophet. The whole sky is full of *ṣalāh*, and we have been given a doorway in.
 

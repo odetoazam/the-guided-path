@@ -14,7 +14,7 @@ passage_context: "This ayah sits within a sequence in Surah An-Naml where Allah 
 generated_by: "opus-tadabbur-auto"
 validated: false
 validation_date: "2026-05-10"
-semantic_review: "agent-2026-05-25-critical"
+semantic_review: "fixed-2026-07-27"
 tags: [knowledge_of_allah, lawh_mahfuz, hidden_and_manifest, accountability, divine_record, ghayb]
 concepts: [ghaiba, kitab_mubin, al_ghayb_wal_shahada, divine_omniscience, recorded_reality]
 related_ayahs: ["6:59", "10:61", "11:6", "22:70", "34:3", "35:11", "57:22"]
@@ -155,7 +155,7 @@ There's one more linguistic feature worth slowing down for. It looks simple — 
 
 Allah specifies the *territory*: **fī as-samā'i wal-arḍ** — *in the heavens and the earth*.
 
-In Arabic rhetoric, when two opposites are paired like this, it's a recognized device called *al-jam' bayn al-ḍiddayn* — joining two opposites to indicate totality. When Allah says "the heavens and the earth," He is not listing two places. He is closing a map. He is saying *up and down. Above and below. The exalted and the lowly. Everything in between, by implication.*
+In Arabic rhetoric, when two opposites are paired like this, it's a recognized figure of *ʿilm al-badīʿ* called *ṭibāq* — the deliberate setting of a thing beside its opposite. One of its standard effects is exactly this: naming the two poles in order to sweep in everything between them. When Allah says "the heavens and the earth," He is not listing two places. He is closing a map. He is saying *up and down. Above and below. The exalted and the lowly. Everything in between, by implication.*
 
 This is the same rhetorical move as saying "from A to Z" in English. You're not just listing the first letter and the last letter; you're enclosing the entire alphabet.
 
@@ -259,7 +259,7 @@ But here is the freedom: you do not need to *carry* the unknowing. The unknowing
 
 [PAUSE]
 
-There's a beautiful image the classical scholars used when discussing ayahs like this. Imagine a river. You are a stick on the surface of the river. You can only see the bend ahead of you. To you, the next bend is *ghayb* — hidden. But to the One who built the riverbed, the entire course is laid out. Not because the river had no choice — water flows by its own nature — but because He shaped the banks. The river's "freedom" and His "knowledge" are not in competition.
+Here is an image that helps me hold this — my own, not something I'm reporting from the commentators. Imagine a river. You are a stick on the surface of the river. You can only see the bend ahead of you. To you, the next bend is *ghayb* — hidden. But to the One who built the riverbed, the entire course is laid out. Not because the river had no choice — water flows by its own nature — but because He shaped the banks. The river's "freedom" and His "knowledge" are not in competition.
 
 Your life is the stick. Your future is the next bend. The *kitāb mubīn* is the map of the riverbed.
 
