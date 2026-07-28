@@ -14,7 +14,7 @@ passage_context: "The closing prayer of Surah Aal-Imran now becomes more persona
 generated_by: "codex-tadabbur"
 validated: true
 validation_date: "2026-04-18"
-semantic_review: "enriched-2026-07-02"
+semantic_review: "enriched-2026-07-16"
 tags: [iman, maghfirah, akhirah, abrar]
 concepts: [iman, hidayah, tawbah, dua, raja]
 ---
@@ -69,7 +69,7 @@ The verse says: **innana sami'na munadiyan yunadi li-al-iman**.
 
 Indeed, we heard a caller calling to faith.
 
-The root **s-m-'** is hearing, and the word **munadi** from **n-d-w** (nūn-dāl-wāw) is a caller, one who raises a summons publicly, one whose voice reaches others and gathers them.
+The root **s-m-'** is hearing, and the word **munadi** from **n-d-y** (nūn-dāl-yāʾ) is a caller, one who raises a summons publicly, one whose voice reaches others and gathers them. And the ayah does not leave it at the noun: it follows **munadiyan** immediately with the verb **yunadi** from the same root - a caller calling. The naming and the act are set side by side, so the summons is not a title someone carries but something audibly happening.
 
 [PAUSE]
 
@@ -77,11 +77,13 @@ This is beautiful because it gives iman the texture of response.
 
 Faith is not portrayed here as something generated in sealed isolation. It is hearing and answering. A voice reached us. A call entered our awareness. The soul was addressed and then moved.
 
-The classical commentators paused over who this caller actually was, and here there is a genuine disagreement worth knowing. Al-Tabari opens his commentary by noting that the people of interpretation differed over the *munadi*: some of the early exegetes held that the caller is the Qur'an itself — the recited summons that reaches every listener; others held that he is the Prophet Muhammad ﷺ, the living human voice calling his people to belief. Al-Muyassar reads it plainly as the Prophet ﷺ. The verse itself does not settle the question, and perhaps that openness is fitting, because whether the call arrives through the recited Book or the messenger who recites it, the shape of faith is the same: a summons that came toward us first, and a soul that answered.
+The classical commentators paused over who this caller actually was, and here there is a genuine disagreement worth knowing. Al-Tabari opens his commentary by stating outright that the people of interpretation differed over the *munadi*: some of the early exegetes held that the caller **in this particular place** is the Qur'an itself — the recited summons that reaches every listener, a reading al-Tabari transmits with its chain back to the early exegete Muhammad ibn Ka'b al-Qurazi; others held that he is the Prophet Muhammad ﷺ, the living human voice calling his people to belief. Al-Muyassar reads it plainly as the Prophet ﷺ. The verse itself does not settle the question, and perhaps that openness is fitting, because whether the call arrives through the recited Book or the messenger who recites it, the shape of faith is the same: a summons that came toward us first, and a soul that answered.
 
 That means humility is built into the verse from the beginning. We believe, yes, but our belief is already framed as response to a grace that came toward us first.
 
 And notice the phrase **li-al-iman**. The caller is not calling to himself, not to a tribe, not to prestige, not to a vague spirituality. He is calling toward iman itself: entrusting oneself to the Lord, entering into the security of truth.
+
+Al-Muyassar fills in who is being called: the caller "calls *the people*." The summons is open and public, addressed to whoever is within earshot. Nobody in the ayah is told they were selected in private. The ones speaking are simply the ones who heard something that was being said to everyone, and answered.
 
 ### 2. **An aminu bi-rabbikum fa-amanna**: The Answer Is Immediate, But Not Self-Sufficient
 
@@ -96,6 +98,8 @@ Then comes the believers' answer: **fa-amanna**. So we believed.
 [PAUSE]
 
 The **fa** matters. It gives immediacy. The call came, so belief followed. There is beauty in that directness. The verse is honoring the obedience of response.
+
+Al-Muyassar hears two movements folded into that one word: *fa-ajabna da'watah wa saddaqna risalatah* — we answered his call, and we accepted his message as true. Answering and affirming, the turning of the body toward the voice and the settling of the heart on what the voice said. Both are inside **fa-amanna**.
 
 But then something even more beautiful happens. They do not stop at "we believed," as if that were the end of the matter. They return immediately to **Rabbana** and begin asking for forgiveness. Which means the verse protects us from two errors at once:
 
