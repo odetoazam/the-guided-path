@@ -51,28 +51,30 @@ for (let i = 0; i < args.length; i++) {
 function extractReferences(content) {
   const refs = new Set();
 
-  const patterns = [
-    /ayah[:\s]*(\d+):(\d+)(?:-(\d+))?/gi,
-    /(?:surah|sura)\s*(\d+)[,:]\s*(?:ayah|verse|v\.?)\s*(\d+)(?:\s*-\s*(\d+))?/gi,
-    /(\d+):(\d+)(?:-(\d+))?/g,  // bare S:A or S:A-B format
-  ];
-
-  for (const pattern of patterns) {
-    let match;
-    while ((match = pattern.exec(content)) !== null) {
-      const surah = parseInt(match[1]);
-      const ayahStart = parseInt(match[2]);
-      const ayahEnd = match[3] ? parseInt(match[3]) : ayahStart;
-
-      // Sanity checks
-      if (surah < 1 || surah > 114) continue;
-      if (ayahStart < 1 || ayahStart > 300) continue;
-      if (ayahEnd < ayahStart) continue;
-
-      for (let a = ayahStart; a <= ayahEnd; a++) {
-        refs.add(`${surah}:${a}`);
-      }
+  // Priority 1: read surah/ayah_start/ayah_end directly from YAML frontmatter
+  const fmMatch = content.match(/^---\n([\s\S]*?)\n---/);
+  if (fmMatch) {
+    const fm = fmMatch[1];
+    const surahM = fm.match(/^surah:\s*(\d+)/m);
+    const startM = fm.match(/^ayah_start:\s*(\d+)/m);
+    const endM   = fm.match(/^ayah_end:\s*(\d+)/m);
+    if (surahM && startM) {
+      const s = parseInt(surahM[1]);
+      const a1 = parseInt(startM[1]);
+      const a2 = endM ? parseInt(endM[1]) : a1;
+      for (let a = a1; a <= a2; a++) refs.add(`${s}:${a}`);
     }
+  }
+
+  // Priority 2: explicit [ayah:S:A] tags in the body (not frontmatter)
+  const bodyStart = content.indexOf('\n---\n', 4) + 5;
+  const body = content.slice(bodyStart);
+  const tagPattern = /\[ayah:(\d+):(\d+)\]/g;
+  let match;
+  while ((match = tagPattern.exec(body)) !== null) {
+    const s = parseInt(match[1]);
+    const a = parseInt(match[2]);
+    if (s >= 1 && s <= 114 && a >= 1 && a <= 300) refs.add(`${s}:${a}`);
   }
 
   return [...refs].sort((a, b) => {
@@ -125,14 +127,41 @@ async function generateReport(refs) {
     for (const edition of TAFSIR_EDITIONS) {
       const text = await fetchTafsir(edition, surah, ayah);
       if (text) {
-        // Truncate very long tafsir entries for readability
-        const truncated = text.length > 500 ? text.substring(0, 497) + '...' : text;
+        // WAS: truncated at 500 chars "for readability". That single line is the
+        // root cause of the false-thesis pattern audited on 2026-07-27. al-Tabari
+        // states his ikhtilaf ("واختلف أهل التأويل في...") well past 500 chars, so
+        // every report cut him off EXACTLY where the disagreement begins — and
+        // writers then settled one side without knowing there was a side. It also
+        // decapitated al-Jalalayn's hadith citations right where the matn starts,
+        // inviting them to be completed from memory (that produced a fabricated
+        // "the Prophet ﷺ recited this in tears", attributed to Bukhari and Muslim,
+        // in 003-aal-imran/ayah-009.md).
+        //
+        // Readability is not worth a truncation that removes the disagreements.
+        // Reports are read by agents, not skimmed by humans.
+        const LIMIT = 12000;
+        const truncated =
+          text.length > LIMIT
+            ? text.substring(0, LIMIT) +
+              `\n\n[TRUNCATED at ${LIMIT} chars — ${text.length - LIMIT} more. ` +
+              `Consult the source directly before relying on anything near the cut.]`
+            : text;
         lines.push(`### ${edition.name}\n`);
         lines.push(truncated);
         lines.push('');
       } else {
+        // Do NOT say "not available for this ayah" — that asserts a fact about the
+        // SOURCE when all we know is that OUR FETCH returned nothing. al-Jalalayn is
+        // marked unavailable in 4,952 report sections while in fact existing for
+        // those ayahs; agents read that as "this commentator is silent here" and
+        // wrote around a source that was actually available.
         lines.push(`### ${edition.name}\n`);
-        lines.push('*Not available for this ayah*\n');
+        lines.push(
+          '*FETCH FAILED — this is a pipeline failure, NOT evidence that the ' +
+            'commentator is silent on this ayah. Do not infer absence. Consult the ' +
+            'source directly before concluding anything about what it does or does ' +
+            'not say.*\n'
+        );
       }
     }
 
