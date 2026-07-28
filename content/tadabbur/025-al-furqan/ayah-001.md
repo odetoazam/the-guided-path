@@ -14,7 +14,7 @@ passage_context: "This ayah opens Surah Al-Furqan, a Meccan surah that responds 
 generated_by: "opus-tadabbur-auto"
 validated: false
 validation_date: "2026-05-01"
-semantic_review: "agent-2026-05-21-critical"
+semantic_review: "fixed-2026-07-27"
 tags: [furqan, criterion, revelation, gradual-revelation, divine-blessing, prophet-as-servant, universal-warner, meccan-opening]
 concepts: [tabaraka, nazzala-vs-anzala, furqan, abd, alameen, nadhir, gradual-revelation, opening-of-surah]
 related_ayahs: ["17:106", "76:23", "2:185", "3:4", "21:107", "34:28", "25:32"]
@@ -27,7 +27,7 @@ related_ayahs: ["17:106", "76:23", "2:185", "3:4", "21:107", "34:28", "25:32"]
 ## Opening the Ayah
 
 **Arabic:**
-> تَبَارَكَ ٱلَّذِى نَزَّلَ ٱلْفُرْقَانَ عَلَىٰ عَبْدِهِۦ لِيَكُونَ لِلْعَٰلَمِينَ نَذِيرًا
+> [ayah:25:1] تَبَارَكَ ٱلَّذِى نَزَّلَ ٱلْفُرْقَانَ عَلَىٰ عَبْدِهِۦ لِيَكُونَ لِلْعَـٰلَمِينَ نَذِيرًا
 
 **Transliteration:**
 > *Tabāraka alladhī nazzala al-furqāna ʿalā ʿabdihi liyakūna lil-ʿālamīna nadhīrā.*
@@ -123,27 +123,35 @@ Let me teach you what is happening before I show you what Allah did with it.
 
 In Arabic, there is a verb form called **Form II** — the *tafʿīl* pattern. You take a basic verb and you double the middle root letter. *Kasara* (he broke) becomes *kassara* (he shattered into pieces). *Qaṭaʿa* (he cut) becomes *qaṭṭaʿa* (he cut repeatedly). *Naṣara* (he helped) becomes *naṣṣara* (he helped persistently).
 
-Form II carries one of two meanings, and often both at once:
+Form II commonly carries one of two forces, and often both at once:
 1. **Intensification** — doing the action with greater force.
 2. **Repetition or distribution** — doing the action again and again, or spread out across multiple instances.
 
-Now here is the grammatical fact that changes everything.
+Now here is the observation the mufassirūn build on.
 
-The simple verb for "he sent down" is *anzala* — Form IV. *Anzala al-Qurʾāna* would mean "He sent down the Quran" as a single event, all at once.
+The other verb for "he sent down" is *anzala* — Form IV, which the Quran typically uses when the sending-down is taken as a single act.
 
-But Allah did not say *anzala*. He said ***nazzala*** — Form II. With the doubled middle letter. The form that means **sent down piece by piece, portion by portion, gradually, over time.**
+But Allah did not say *anzala*. He said ***nazzala*** — Form II. With the doubled middle letter. And the classical commentary reads that choice, here, as **sent down piece by piece, portion by portion, gradually, over time.** Al-Ṭabarī records this from Ibn ʿAbbās (RA): *Blessed is the One who sent down the distinction between truth and falsehood — portion after portion, surah after surah — upon His servant Muhammad ﷺ.*
 
 [PAUSE]
 
-This is not a stylistic choice. This is a load-bearing grammatical statement.
+One honest caution before we go further, and the Quran itself supplies it.
+
+The distributive force of Form II is a strong and common tendency of the pattern — **not an ironclad law**. Later in this very surah, the Quraysh's objection is voiced with the *same* Form II verb: *lawlā **nuzzila** ʿalayhi al-Qurʾānu **jumlatan wāḥidatan*** (25:32) — "why was the Quran not sent down upon him **all at once**?" There the form sits directly beside the words "all at once." So the pattern does not mechanically encode gradualness on its own.
+
+What the form does is **make gradualness available** — it opens the door that *anzala* leaves closed. And here, in the opening of a surah whose entire subject is the *method* of revelation, the mufassirūn walked through that door, because the context is reaching for it. That is a reading grounded in context, not a rule read off a verb chart. Hold it as the strong reading it is, not as arithmetic.
+
+[PAUSE]
+
+Because with that said, this is not a stylistic choice. This is load-bearing.
 
 The Quraysh objected: *"Why did this Quran not come down all at once?"*
 
-And Allah's answer, encoded into the very second word of the surah that addresses their objection, is: ***Nazzala.*** **Yes. Of course it came down in pieces. That is precisely the verb I am using to describe what I did. I did not** *anzala* **it — I** *nazzala* **it. I sent it down gradually, on purpose.**
+And Allah's answer, standing in the second word of the surah that addresses their objection, is: ***Nazzala.*** **Yes. It came down in pieces. And the sentence that says so opens with** *Tabāraka* **— blessed. I did not hide the method. I announced it, and I called it blessed.**
 
-The grammar is the argument.
+The grammar carries the argument.
 
-Stay with this. Notice what is happening. The objection is anticipated and refuted *before it is even stated in the surah*. By verse 32 the Quraysh will say *"why was it not sent down all at once?"* And by then Allah has already replied — in verse 1, in the choice of a single Form II verb — that gradualness is not a defect of the revelation. **Gradualness is the design.**
+Stay with this. Notice what is happening. The objection is answered *before it is even stated in the surah*. By verse 32 the Quraysh will say *"why was it not sent down all at once?"* And by then Allah has already replied — in verse 1 — that the piece-by-piece arrival they treat as a defect is precisely what He is pronouncing blessed. **Gradualness is not a flaw in the revelation. It is the design.**
 
 Why?
 
@@ -172,7 +180,7 @@ He says: ***ʿAbdihi.*** **His servant.**
 
 Now you have to understand something about the word *ʿabd* in Arabic.
 
-The root is **ʿ-b-d**. From it comes *ʿibādah* (worship), *ʿubūdiyyah* (servanthood), and the Kaʿba is from a related sense of being a focal point of devotion. The classical lexicons explain that an *ʿabd* in its deepest sense is **one who has surrendered the will entirely to the master, not from compulsion but from love**.
+The root is **ʿ-b-d**. From it comes *ʿibādah* (worship) and *ʿubūdiyyah* (servanthood). The classical lexicons explain that an *ʿabd* in its deepest sense is **one who has surrendered the will entirely to the master, not from compulsion but from love**.
 
 In the Arab world of that time, the word *ʿabd* could mean a slave — and that meaning carried shame. To call a man *ʿabd* was often an insult.
 

@@ -14,7 +14,7 @@ passage_context: "Surah As-Sajdah is one of the surahs that contains an obligato
 generated_by: "opus-tadabbur-auto"
 validated: false
 validation_date: "2026-05-14"
-semantic_review: \"agent-2026-05-14-moderate\"
+semantic_review: "fixed-2026-07-27"
 tags: [iman, sujud, humility, kibr, dhikr, embodied-faith, prostration, sajdah-ayah]
 concepts: [innama-restriction, kharra-falling, sujjadan-haal, tasbih-with-hamd, istikbar-active-arrogance, body-as-witness]
 related_ayahs: ["19:58", "17:107", "25:73", "7:206", "3:113", "32:14"]
@@ -29,7 +29,7 @@ related_ayahs: ["19:58", "17:107", "25:73", "7:206", "3:113", "32:14"]
 ### The Ayah
 
 **Arabic:**
-> إِنَّمَا يُؤْمِنُ بِـَٔايَـٰتِنَا ٱلَّذِينَ إِذَا ذُكِّرُوا۟ بِهَا خَرُّوا۟ سُجَّدًا وَسَبَّحُوا۟ بِحَمْدِ رَبِّهِمْ وَهُمْ لَا يَسْتَكْبِرُونَ
+> [ayah:32:15] إِنَّمَا يُؤْمِنُ بِـَٔايَـٰتِنَا ٱلَّذِينَ إِذَا ذُكِّرُوا۟ بِهَا خَرُّوا۟ سُجَّدًا وَسَبَّحُوا۟ بِحَمْدِ رَبِّهِمْ وَهُمْ لَا يَسْتَكْبِرُونَ ۩
 
 **Transliteration:**
 > Innamā yu'minu bi-āyātinā alladhīna idhā dhukkirū bihā kharrū sujjadan wa sabbaḥū bi-ḥamdi rabbihim wa hum lā yastakbirūn
@@ -192,11 +192,19 @@ And notice — what is the *first* thing that comes out of the mouth after the b
 
 Because the body falling has already said the *yes*. The body on the ground is already *ḥamd* in posture — it is already gratitude embodied, already acknowledgement, already affirmation. So what the mouth then needs to do is the *no.* The mouth declares: **you are above me. You are above what I imagine. You are above what I have been calling you in my heart all these years.** Tasbīḥ is the mouth catching up to what the spine has already admitted.
 
-And then — *bi-ḥamdi rabbihim* — the praise. Notice **whose** praise. Not "their praise of Him." *Bi-ḥamdi rabbihim* — "with **their Lord's** praise." Many of the classical mufassirūn read this as: with the praise *He Himself* has given them the ability to offer. They are not praising Him with a praise of their own invention. They are returning to Him a praise He authored and placed on their tongues.
+And then — *bi-ḥamdi rabbihim* — the praise. What exactly is that *bāʾ* doing?
+
+The classical mufassirūn are direct about it, and we should take their reading as the plain one. Al-Jalālayn glosses *sabbaḥū* with *mutalabbisīn* — "clothed in," accompanied by — *bi-ḥamdi rabbihim*, and then states outright what is on the tongue: *they said, "Subḥān Allāhi wa bi-ḥamdih."* Al-Muyassar reads it the same way: *they glorified Allah, in their prostration, with praise of Him.*
+
+So *rabbihim* names **the One being praised**, not the owner of the praise. And the *bāʾ* fuses the two motions into a single utterance: the same breath denies Him every defect and affirms in Him every perfection. That is the sentence the believer actually says on the ground.
 
 [PAUSE]
 
-This is staggering when you sit with it. Even the praise the believer offers is not *his* praise. It is praise that Allah lent him so that he could give it back. The believer is a vessel through which Allah's praise returns to its origin. Like a wave that the ocean lifts up only so the wave can return to the ocean.
+Now let me offer a reflection built on top of that reading — and I want to mark it clearly as reflection, not as tafsīr of the *bāʾ*.
+
+Even when the praise is genuinely *ours* to offer, nothing inside it originated with us. The tongue that shapes it was given. The heart that means it was given. The reminder that occasioned it was given. So the believer offering *ḥamd* is never adding something to Allah out of his own store — he is returning what was lent to him. Like a wave that the ocean lifts up only so the wave can return to the ocean.
+
+That is not what the grammar is saying. It is what the act looks like once you remember where tongues come from.
 
 And one more thing — *rabbihim*. **Their** Lord. Not just "Allah" generically. The most relational of His names. The Rabb is the One who **takes you stage by stage from less to more.** From clay to spirit. From ignorance to knowledge. From standing-in-arrogance to falling-in-praise. The Rabb is the One who has brought you, step by step, to this very moment of collapse. And so the praise that returns to Him is the praise of *the journey* — of the One who walked you here.
 
@@ -342,7 +350,7 @@ Sujūd is the check you write yourself. *Nukūs al-ru'ūs* — the head-hanging 
 
 Now look one more time at what *kharrū sujjadan* contains. Not just the falling — but the willingness. The *idhā dhukkirū* — "when they are reminded." They did not need to be brought before the Throne. They did not need to see the Fire. **The reminder was enough.** A few verses, recited softly, and the believer is already on the ground that the disbeliever will only reach in the next life.
 
-This is what the Prophet ﷺ meant when he said *ḥāsibū anfusakum qabla an tuḥāsabū* — "audit yourselves before you are audited." It is the same logic. **Voluntary submission now or forced submission then. Voluntary tears now or forced tears then. Voluntary lowering now or forced lowering then.**
+ʿUmar ibn al-Khaṭṭāb (RA) compressed this into one line — *ḥāsibū anfusakum qabla an tuḥāsabū*, "audit yourselves before you are audited." It is the same logic. **Voluntary submission now or forced submission then. Voluntary tears now or forced tears then. Voluntary lowering now or forced lowering then.**
 
 And here is the strange mercy. The lowering of *sujūd* — the *voluntary* one — does not actually lower you. The Prophet ﷺ said: *mā tawāḍa'a aḥadun lillāhi illā rafa'ahu* — "no one humbles himself for Allah except that Allah raises him." The *kharra* of the believer is the only fall in existence that **lifts.** It is the only descent that becomes an ascent. The forehead in the dust is, in the unseen reality, the highest point a human being can occupy.
 
@@ -388,7 +396,7 @@ The linguistic and the thematic converge on one truth: **belief is a posture bef
 
 3. When I prostrate in ṣalāh, am I **falling** or am I **performing**? Is my sujūd a *kharra* or is it a managed descent?
 
-4. The believers in the ayah glorified with the praise *their Lord* gave them. Whose praise am I offering Him — His or mine? Am I returning to Him what He gave me, or trying to invent worship on my own terms?
+4. The believers glorified their Lord *with praise* in a single breath — *subḥān Allāhi wa bi-ḥamdih*. Does my worship carry both motions, the "no" and the "yes"? Or have I settled into only one of them?
 
 5. If belief is what my body does when reminded — then who, by Allah's own definition, is the *mu'min* the ayah describes? And am I, honestly, in that group today?
 
