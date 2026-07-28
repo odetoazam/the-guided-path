@@ -46,6 +46,41 @@ report only the `TRUNCATED_SOURCE:` line — do not write any draft file.
 
 ---
 
+## HOW TO NOT REINTRODUCE ARABIC DRIFT (agents: read this)
+
+Confirmed 2026-07-27: **6 of 7 enrichment agents silently renormalized the Arabic**
+in the `[ayah:]` lines and the frontmatter `arabic:` field on their first write — same
+characters, different bytes — taking `verify_arabic` from 0 warnings to 2. All caught
+it only because they re-ran the validator afterwards.
+
+The one agent that never triggered it used a better method, and it is now the
+recommended one:
+
+> **Copy the source file to your output path first, then edit *around* the Arabic.**
+> Never retype or reflow a line containing Quranic text. That way `arabic:`, every
+> `[ayah:]` line and every `<!-- morphology: -->` line stay byte-identical by
+> construction rather than by repair.
+
+Then always confirm: `node scripts/verify_arabic.mjs <your-draft> --scan` must report
+**0 warnings**. If it doesn't, splice the original bytes back and re-check.
+
+## TAFSIR REPORTS ARE UNRELIABLE PER-AYAH — MEASURED
+
+Do not trust a `## S:A` heading to tell you which ayah a commentator is discussing.
+Measured across the corpus on 2026-07-27:
+
+| | |
+|---|---|
+| Multi-ayah tafsir reports | 800 |
+| With one source's block repeated **identically under every heading** | **314 (39.2%)** |
+| — of those, Ibn Kathir | **313** |
+
+The repeated block is usually commentary on the passage's *first* ayah, or on the ayah
+*before* it, and is frequently truncated mid-sentence. **Read the Arabic the
+commentator actually quotes and confirm it matches the ayah before attributing
+anything to him.** If it doesn't match, attribute to the ayah he is really discussing
+and say so in your report. Three agents caught exactly this on 2026-07-27.
+
 ## POST-BATCH STEP (pipeline owner, not the agent)
 
 Enrichment agents rewrite ayah lines and reintroduce diacritic drift from the
