@@ -22,39 +22,6 @@ semantic_review: "enriched-2026-07-07"
 <!--
 STEP 0: KEY LINGUISTIC ELEMENTS
 
-<!-- morphology:2:233:3 root=ولد pos=N -->
-<!-- morphology:2:233:4 root=رضع pos=V -->
-<!-- morphology:2:233:6 root=ولد pos=N -->
-<!-- morphology:2:233:8 root=حول pos=N -->
-<!-- morphology:2:233:9 root=كمل pos=N -->
-<!-- morphology:2:233:12 root=رود pos=V -->
-<!-- morphology:2:233:14 root=تمم pos=V -->
-<!-- morphology:2:233:16 root=رضع pos=N -->
-<!-- morphology:2:233:20 root=ولد pos=N -->
-<!-- morphology:2:233:23 root=رزق pos=N -->
-<!-- morphology:2:233:26 root=كسو pos=N -->
-<!-- morphology:2:233:30 root=عرف pos=N -->
-<!-- morphology:2:233:32 root=كلف pos=V -->
-<!-- morphology:2:233:33 root=نفس pos=N -->
-<!-- morphology:2:233:35 root=وسع pos=N -->
-<!-- morphology:2:233:38 root=ضرر pos=V -->
-<!-- morphology:2:233:39 root=ولد pos=N -->
-<!-- morphology:2:233:41 root=ولد pos=N -->
-<!-- morphology:2:233:45 root=ولد pos=N -->
-<!-- morphology:2:233:49 root=ولد pos=N -->
-<!-- morphology:2:233:54 root=ورث pos=N -->
-<!-- morphology:2:233:61 root=رود pos=V -->
-<!-- morphology:2:233:63 root=فصل pos=N -->
-<!-- morphology:2:233:65 root=رضو pos=N -->
-<!-- morphology:2:233:69 root=شور pos=N -->
-<!-- morphology:2:233:72 root=جنح pos=N -->
-<!-- morphology:2:233:80 root=رضع pos=V -->
-<!-- morphology:2:233:90 root=سلم pos=V -->
-<!-- morphology:2:233:93 root=أتي pos=V -->
-<!-- morphology:2:233:99 root=وقي pos=V -->
-<!-- morphology:2:233:103 root=علم pos=V -->
-<!-- morphology:2:233:109 root=عمل pos=V -->
-<!-- morphology:2:233:111 root=بصر pos=N -->
 | بَصِيرٌ | بصر | N | nom M indef (fa'īl intensive) | All-Seeing (permanently, essentially — not merely looking) | penetrating, watchful | Sarf | HIGH |
 
 FORM DECISIONS:
@@ -98,6 +65,40 @@ SONIC FLAGS:
 ONE-SENTENCE DISTILLATION:
 "When a marriage ends, Allah redefines both parents — not as ex-husband and ex-wife, but as the-one-who-gave-birth and the-one-for-whom-the-child-was-born — because the child's identity does not dissolve with the contract, and neither does anyone's obligation to protect them."
 -->
+
+<!-- morphology:2:233:3 root=ولد pos=N -->
+<!-- morphology:2:233:4 root=رضع pos=V -->
+<!-- morphology:2:233:6 root=ولد pos=N -->
+<!-- morphology:2:233:8 root=حول pos=N -->
+<!-- morphology:2:233:9 root=كمل pos=N -->
+<!-- morphology:2:233:12 root=رود pos=V -->
+<!-- morphology:2:233:14 root=تمم pos=V -->
+<!-- morphology:2:233:16 root=رضع pos=N -->
+<!-- morphology:2:233:20 root=ولد pos=N -->
+<!-- morphology:2:233:23 root=رزق pos=N -->
+<!-- morphology:2:233:26 root=كسو pos=N -->
+<!-- morphology:2:233:30 root=عرف pos=N -->
+<!-- morphology:2:233:32 root=كلف pos=V -->
+<!-- morphology:2:233:33 root=نفس pos=N -->
+<!-- morphology:2:233:35 root=وسع pos=N -->
+<!-- morphology:2:233:38 root=ضرر pos=V -->
+<!-- morphology:2:233:39 root=ولد pos=N -->
+<!-- morphology:2:233:41 root=ولد pos=N -->
+<!-- morphology:2:233:45 root=ولد pos=N -->
+<!-- morphology:2:233:49 root=ولد pos=N -->
+<!-- morphology:2:233:54 root=ورث pos=N -->
+<!-- morphology:2:233:61 root=رود pos=V -->
+<!-- morphology:2:233:63 root=فصل pos=N -->
+<!-- morphology:2:233:65 root=رضو pos=N -->
+<!-- morphology:2:233:69 root=شور pos=N -->
+<!-- morphology:2:233:72 root=جنح pos=N -->
+<!-- morphology:2:233:80 root=رضع pos=V -->
+<!-- morphology:2:233:90 root=سلم pos=V -->
+<!-- morphology:2:233:93 root=أتي pos=V -->
+<!-- morphology:2:233:99 root=وقي pos=V -->
+<!-- morphology:2:233:103 root=علم pos=V -->
+<!-- morphology:2:233:109 root=عمل pos=V -->
+<!-- morphology:2:233:111 root=بصر pos=N -->
 
 # The One for Whom the Child Was Born
 ## When Allah Built a System That Refuses to Let a Child Become a Weapon

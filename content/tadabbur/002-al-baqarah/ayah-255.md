@@ -22,30 +22,6 @@ category: tadabbur
 <!--
 STEP 0: KEY LINGUISTIC ELEMENTS
 
-<!-- morphology:2:255:1 root=أله pos=N -->
-<!-- morphology:2:255:3 root=أله pos=N -->
-<!-- morphology:2:255:7 root=حيي pos=N -->
-<!-- morphology:2:255:9 root=قوم pos=N -->
-<!-- morphology:2:255:11 root=أخذ pos=V -->
-<!-- morphology:2:255:13 root=وسن pos=N -->
-<!-- morphology:2:255:16 root=نوم pos=N -->
-<!-- morphology:2:255:22 root=سمو pos=N -->
-<!-- morphology:2:255:27 root=أرض pos=N -->
-<!-- morphology:2:255:31 root=شفع pos=V -->
-<!-- morphology:2:255:36 root=أذن pos=N -->
-<!-- morphology:2:255:38 root=علم pos=V -->
-<!-- morphology:2:255:41 root=يدي pos=N -->
-<!-- morphology:2:255:45 root=خلف pos=N -->
-<!-- morphology:2:255:49 root=حوط pos=V -->
-<!-- morphology:2:255:52 root=شيأ pos=N -->
-<!-- morphology:2:255:54 root=علم pos=N -->
-<!-- morphology:2:255:59 root=شيأ pos=V -->
-<!-- morphology:2:255:60 root=وسع pos=V -->
-<!-- morphology:2:255:61 root=كرس pos=N -->
-<!-- morphology:2:255:70 root=أود pos=V -->
-<!-- morphology:2:255:72 root=حفظ pos=N -->
-<!-- morphology:2:255:77 root=علو pos=N -->
-<!-- morphology:2:255:79 root=عظم pos=N -->
 | عَظِيمُ | عظم | N | nom M def (fa'īl intensive) | the Most Great (permanently, essentially magnificent) | immense, overwhelming | Sarf | HIGH |
 
 FORM DECISIONS:
@@ -85,6 +61,31 @@ SONIC FLAGS:
 ONE-SENTENCE DISTILLATION:
 "The God who never drowses, whose Seat encompasses the heavens and the earth, who guards everything without bending under the weight — He is the one reading of whom, the Prophet said, is the greatest single ayah in His Book, because it tells you not what to DO for God but who God IS."
 -->
+
+<!-- morphology:2:255:1 root=أله pos=N -->
+<!-- morphology:2:255:3 root=أله pos=N -->
+<!-- morphology:2:255:7 root=حيي pos=N -->
+<!-- morphology:2:255:9 root=قوم pos=N -->
+<!-- morphology:2:255:11 root=أخذ pos=V -->
+<!-- morphology:2:255:13 root=وسن pos=N -->
+<!-- morphology:2:255:16 root=نوم pos=N -->
+<!-- morphology:2:255:22 root=سمو pos=N -->
+<!-- morphology:2:255:27 root=أرض pos=N -->
+<!-- morphology:2:255:31 root=شفع pos=V -->
+<!-- morphology:2:255:36 root=أذن pos=N -->
+<!-- morphology:2:255:38 root=علم pos=V -->
+<!-- morphology:2:255:41 root=يدي pos=N -->
+<!-- morphology:2:255:45 root=خلف pos=N -->
+<!-- morphology:2:255:49 root=حوط pos=V -->
+<!-- morphology:2:255:52 root=شيأ pos=N -->
+<!-- morphology:2:255:54 root=علم pos=N -->
+<!-- morphology:2:255:59 root=شيأ pos=V -->
+<!-- morphology:2:255:60 root=وسع pos=V -->
+<!-- morphology:2:255:61 root=كرس pos=N -->
+<!-- morphology:2:255:70 root=أود pos=V -->
+<!-- morphology:2:255:72 root=حفظ pos=N -->
+<!-- morphology:2:255:77 root=علو pos=N -->
+<!-- morphology:2:255:79 root=عظم pos=N -->
 
 # The God Who Never Sleeps
 ## Ayat al-Kursi and the Architecture of Absolute Sovereignty

@@ -48,19 +48,6 @@ WORD-BY-WORD GRAMMATICAL TABLE — Al-Ahzab 33:72
 | 17 | جَهُولًا | ج-ه-ل | N | accusative, indefinite, fa'ūl (فَعُول) intensive pattern | deeply ignorant | harsh — the ending mirrors ظَلُومًا; double blow | Sarf/Balaghah | HIGH |
 
 morphology tags:
-<!-- morphology:33:72:3 root=عرض pos=V -->
-<!-- morphology:33:72:6 root=أمن pos=N -->
-<!-- morphology:33:72:9 root=سمو pos=N -->
-<!-- morphology:33:72:12 root=أرض pos=N -->
-<!-- morphology:33:72:15 root=جبل pos=N -->
-<!-- morphology:33:72:17 root=أبي pos=V -->
-<!-- morphology:33:72:20 root=حمل pos=V -->
-<!-- morphology:33:72:24 root=شفق pos=V -->
-<!-- morphology:33:72:29 root=حمل pos=V -->
-<!-- morphology:33:72:32 root=أنس pos=N -->
-<!-- morphology:33:72:35 root=كون pos=V -->
-<!-- morphology:33:72:36 root=ظلم pos=N -->
-<!-- morphology:33:72:37 root=جهل pos=N -->
 
 FORM DECISION TABLE:
 
@@ -100,6 +87,20 @@ STEP 2 SECOND-PASS AUDIT:
 - One-sentence distillation: The cosmos was wise enough to refuse what it could not carry — and the human was reckless enough to accept, and that recklessness is the reason you exist.
 - Proceed.
 -->
+
+<!-- morphology:33:72:3 root=عرض pos=V -->
+<!-- morphology:33:72:6 root=أمن pos=N -->
+<!-- morphology:33:72:9 root=سمو pos=N -->
+<!-- morphology:33:72:12 root=أرض pos=N -->
+<!-- morphology:33:72:15 root=جبل pos=N -->
+<!-- morphology:33:72:17 root=أبي pos=V -->
+<!-- morphology:33:72:20 root=حمل pos=V -->
+<!-- morphology:33:72:24 root=شفق pos=V -->
+<!-- morphology:33:72:29 root=حمل pos=V -->
+<!-- morphology:33:72:32 root=أنس pos=N -->
+<!-- morphology:33:72:35 root=كون pos=V -->
+<!-- morphology:33:72:36 root=ظلم pos=N -->
+<!-- morphology:33:72:37 root=جهل pos=N -->
 
 # The Recklessness That Made You Human — Why the Cosmos Said No and You Said Yes
 

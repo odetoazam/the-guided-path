@@ -59,19 +59,6 @@ WORD-BY-WORD GRAMMATICAL TABLE — Yusuf 12:18
 | 28 | ونَ | — | PRON suffix 2MP | (you all) | neutral | Nahw | HIGH |
 
 morphology tags:
-<!-- morphology:12:18:2 root=جيأ pos=V -->
-<!-- morphology:12:18:5 root=قمص pos=N -->
-<!-- morphology:12:18:8 root=دمو pos=N -->
-<!-- morphology:12:18:9 root=كذب pos=N -->
-<!-- morphology:12:18:10 root=قول pos=V -->
-<!-- morphology:12:18:12 root=سول pos=V -->
-<!-- morphology:12:18:15 root=نفس pos=N -->
-<!-- morphology:12:18:17 root=أمر pos=N -->
-<!-- morphology:12:18:19 root=صبر pos=N -->
-<!-- morphology:12:18:20 root=جمل pos=N -->
-<!-- morphology:12:18:22 root=أله pos=N -->
-<!-- morphology:12:18:24 root=عون pos=N -->
-<!-- morphology:12:18:27 root=وصف pos=V -->
 
 FORM DECISION TABLE:
 
@@ -135,6 +122,20 @@ STEP 2 SECOND-PASS AUDIT:
 - *One-sentence distillation:* "When the world brings you a decorated lie, the believer's answer is to become a verbless sentence in the middle of a verbal storm — patience that has no object, no audience, and no need to defend itself."
 - *Proceed.*
 -->
+
+<!-- morphology:12:18:2 root=جيأ pos=V -->
+<!-- morphology:12:18:5 root=قمص pos=N -->
+<!-- morphology:12:18:8 root=دمو pos=N -->
+<!-- morphology:12:18:9 root=كذب pos=N -->
+<!-- morphology:12:18:10 root=قول pos=V -->
+<!-- morphology:12:18:12 root=سول pos=V -->
+<!-- morphology:12:18:15 root=نفس pos=N -->
+<!-- morphology:12:18:17 root=أمر pos=N -->
+<!-- morphology:12:18:19 root=صبر pos=N -->
+<!-- morphology:12:18:20 root=جمل pos=N -->
+<!-- morphology:12:18:22 root=أله pos=N -->
+<!-- morphology:12:18:24 root=عون pos=N -->
+<!-- morphology:12:18:27 root=وصف pos=V -->
 
 # The Verbless Center — Where Yaqub Stood When the World Brought Him a Decorated Lie
 

@@ -37,10 +37,6 @@ WORD-BY-WORD GRAMMATICAL TABLE — Adh-Dhariyat 51:56
 | 6 | لِيَعْبُدُونِ | ع-ب-د | V | Form I, imperfect, 3rd masc. plural, subjunctive + 1st person object pronoun (نِ) | to worship Me | smooth — the final nūn of يَعْبُدُونِ extends, the 'I' lingers | Sarf/Balaghah | HIGH |
 
 morphology tags:
-<!-- morphology:51:56:3 root=خلق pos=V -->
-<!-- morphology:51:56:6 root=جنن pos=N -->
-<!-- morphology:51:56:9 root=أنس pos=N -->
-<!-- morphology:51:56:12 root=عبد pos=V -->
 
 FORM DECISION TABLE:
 
@@ -75,6 +71,11 @@ STEP 2 SECOND-PASS AUDIT:
 - One-sentence distillation: You were not created for anything else — not for happiness, not for success, not for legacy — except to worship the One who said "I" when He told you why you exist.
 - Proceed.
 -->
+
+<!-- morphology:51:56:3 root=خلق pos=V -->
+<!-- morphology:51:56:6 root=جنن pos=N -->
+<!-- morphology:51:56:9 root=أنس pos=N -->
+<!-- morphology:51:56:12 root=عبد pos=V -->
 
 # The Only Reason You Exist — Five Words That Answer Everything
 

@@ -44,16 +44,6 @@ WORD-BY-WORD GRAMMATICAL TABLE — Yusuf 12:53
 | 13 | رَّحِيمٌ | ر-ح-م | N | nominative, indefinite, fa'īl intensive | deeply merciful | smooth — the word itself sounds like an embrace | Sarf/Balaghah | HIGH |
 
 morphology tags:
-<!-- morphology:12:53:3 root=برأ pos=V -->
-<!-- morphology:12:53:4 root=نفس pos=N -->
-<!-- morphology:12:53:8 root=نفس pos=N -->
-<!-- morphology:12:53:10 root=أمر pos=N -->
-<!-- morphology:12:53:13 root=سوأ pos=N -->
-<!-- morphology:12:53:16 root=رحم pos=V -->
-<!-- morphology:12:53:17 root=ربب pos=N -->
-<!-- morphology:12:53:20 root=ربب pos=N -->
-<!-- morphology:12:53:22 root=غفر pos=N -->
-<!-- morphology:12:53:23 root=رحم pos=N -->
 
 FORM DECISION TABLE:
 
@@ -89,6 +79,17 @@ STEP 2 SECOND-PASS AUDIT:
 - One-sentence distillation: The soul's commanding is relentless and the exit is not your strength — it is the mercy of the One who is already forgiving, already merciful.
 - Proceed.
 -->
+
+<!-- morphology:12:53:3 root=برأ pos=V -->
+<!-- morphology:12:53:4 root=نفس pos=N -->
+<!-- morphology:12:53:8 root=نفس pos=N -->
+<!-- morphology:12:53:10 root=أمر pos=N -->
+<!-- morphology:12:53:13 root=سوأ pos=N -->
+<!-- morphology:12:53:16 root=رحم pos=V -->
+<!-- morphology:12:53:17 root=ربب pos=N -->
+<!-- morphology:12:53:20 root=ربب pos=N -->
+<!-- morphology:12:53:22 root=غفر pos=N -->
+<!-- morphology:12:53:23 root=رحم pos=N -->
 
 # The Soul That Commands — What Yusuf Knew About the Voice Inside
 

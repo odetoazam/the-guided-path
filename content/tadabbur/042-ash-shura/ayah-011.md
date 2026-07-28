@@ -24,31 +24,18 @@ STEP 0: LINGUISTIC GROUNDING AUDIT
 
 | # | Arabic Word | Root | Part of Speech | Morphological Form | Basic Meaning | Sonic Quality | Science | Confidence |
 |---|-------------|------|----------------|--------------------|---------------|---------------|---------|------------|
-<!-- morphology:42:11:1 root=فطر pos=N -->
 | 1 | فَاطِرُ | فطر | N (ACT_PCPL) | fa'il — active participle, Form I, nom M | Originator — one who splits/cleaves open to create | sharp, splitting — the ط carries a percussive crack | Sarf/Balaghah | HIGH |
-<!-- morphology:42:11:3 root=سمو pos=N -->
 | 2 | ٱلسَّمَـٰوَٰتِ | سمو | N | fem pl, gen, def | the heavens/skies | expansive, elevated | Nahw | HIGH |
-<!-- morphology:42:11:6 root=أرض pos=N -->
 | 3 | ٱلْأَرْضِ | أرض | N | fem sg, gen, def | the earth | grounded, heavy | Nahw | HIGH |
-<!-- morphology:42:11:7 root=جعل pos=V -->
 | 4 | جَعَلَ | جعل | V | perf VF:1 3MS | He made/placed/appointed | purposeful, deliberate | Sarf | HIGH |
-<!-- morphology:42:11:11 root=نفس pos=N -->
 | 5 | أَنفُسِكُمْ | نفس | N | fem pl, gen + 2MP poss | your own selves | intimate, internal | Nahw | HIGH |
-<!-- morphology:42:11:13 root=زوج pos=N -->
 | 6 | أَزْوَٰجًا | زوج | N | masc pl, acc, indef | mates/pairs/spouses | pairing, coupling | Sarf | HIGH |
-<!-- morphology:42:11:17 root=نعم pos=N -->
 | 7 | ٱلْأَنْعَـٰمِ | نعم | N | masc pl, gen, def | the cattle/livestock | earthy, animal | Nahw | HIGH |
-<!-- morphology:42:11:19 root=ذرأ pos=V -->
 | 8 | يَذْرَؤُكُمْ | ذرأ | V | impf VF:1 3MS + 2MP obj | He scatters/multiplies you | scattering, sowing — the hamza at the end creates an abrupt sowing sound | Sarf | HIGH |
-<!-- morphology:42:11:23 root=ليس pos=V -->
 | 9 | لَيْسَ | ليس | V | perf (كان family) 3MS | is not / there is not | sharp negation, definitive | Nahw | HIGH |
-<!-- morphology:42:11:25 root=مثل pos=N -->
 | 10 | كَمِثْلِهِۦ | مثل | P + N + PRON | ka (prep) + mithli (gen M) + hi (3MS poss) | like His likeness | layered, recursive — the ka + mithli creates a hall-of-mirrors effect | Balaghah/Nahw | HIGH |
-<!-- morphology:42:11:27 root=شيأ pos=N -->
 | 11 | شَىْءٌ | شيأ | N | nom M indef | a thing / anything | open, undefined — the indefiniteness is total | Nahw | HIGH |
-<!-- morphology:42:11:31 root=سمع pos=N -->
 | 12 | ٱلسَّمِيعُ | سمع | N (ADJ) | fa'īl pattern, nom M def | the All-Hearing (intensive adjective — permanent attribute) | resonant, listening | Sarf | HIGH |
-<!-- morphology:42:11:33 root=بصر pos=N -->
 | 13 | ٱلْبَصِيرُ | بصر | N (ADJ) | fa'īl pattern, nom M def | the All-Seeing (intensive adjective — permanent attribute) | penetrating, clear | Sarf | HIGH |
 
 ## Form Decision Table
@@ -84,6 +71,20 @@ STEP 0: LINGUISTIC GROUNDING AUDIT
 ## One-Sentence Distillation (draft):
 "The God who split open existence itself and scattered you through it like seed is so far beyond anything you could compare Him to that even the concept of 'something like Him' has no referent — and yet this same incomparable God is, in His permanent essential nature, the One who hears you and sees you."
 -->
+
+<!-- morphology:42:11:1 root=فطر pos=N -->
+<!-- morphology:42:11:3 root=سمو pos=N -->
+<!-- morphology:42:11:6 root=أرض pos=N -->
+<!-- morphology:42:11:7 root=جعل pos=V -->
+<!-- morphology:42:11:11 root=نفس pos=N -->
+<!-- morphology:42:11:13 root=زوج pos=N -->
+<!-- morphology:42:11:17 root=نعم pos=N -->
+<!-- morphology:42:11:19 root=ذرأ pos=V -->
+<!-- morphology:42:11:23 root=ليس pos=V -->
+<!-- morphology:42:11:25 root=مثل pos=N -->
+<!-- morphology:42:11:27 root=شيأ pos=N -->
+<!-- morphology:42:11:31 root=سمع pos=N -->
+<!-- morphology:42:11:33 root=بصر pos=N -->
 
 # Nothing Like His Likeness
 ## The Six Words That Broke Every Comparison

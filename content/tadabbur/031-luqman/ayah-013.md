@@ -24,25 +24,15 @@ STEP 0: LINGUISTIC GROUNDING AUDIT
 
 | # | Arabic Word | Root | Part of Speech | Morphological Form | Basic Meaning | Sonic Quality | Science | Confidence |
 |---|-------------|------|----------------|--------------------|---------------|---------------|---------|------------|
-<!-- morphology:31:13:3 root=قول pos=V -->
 | 1 | قَالَ | قول | V | perf VF:1 3MS | he said | declarative, weighty | Sarf | HIGH |
-<!-- morphology:31:13:4 pos=N -->
 | 2 | لُقْمَـٰنُ | — | N (PN) | proper noun, nom M | Luqman (proper name) | solid, grounded — the qāf and mīm carry gravity | Nahw | HIGH |
-<!-- morphology:31:13:6 root=بني pos=N -->
 | 3 | ٱبْنِهِ | بني | N | gen M + 3MS poss | his son | intimate, relational | Nahw | HIGH |
-<!-- morphology:31:13:10 root=وعظ pos=V -->
 | 4 | يَعِظُهُ | وعظ | V | impf VF:1 3MS + 3MS obj, indicative | he was advising/admonishing him | continuous, caring — the imperfect tense makes it habitual, ongoing | Sarf | HIGH |
-<!-- morphology:31:13:13 root=بني pos=N -->
 | 5 | بُنَىَّ | بني | N | diminutive (tasghīr) of ibn, acc M + 1S poss | my dear little son | tender, soft — the diminutive ya' creates warmth and smallness | Sarf/Balaghah | HIGH |
-<!-- morphology:31:13:16 root=شرك pos=V -->
 | 6 | تُشْرِكْ | شرك | V | impf VF:4 2MS, jussive (with لا of prohibition) | you make a partner / you cause partnership | sharp prohibition — the jussive strips the verb bare | Sarf | HIGH |
-<!-- morphology:31:13:18 root=أله pos=N -->
 | 7 | ٱللَّهِ | أله | N (PN) | gen M, def | Allah | the Name — carries the full weight of divine identity | Nahw | HIGH |
-<!-- morphology:31:13:21 root=شرك pos=N -->
 | 8 | ٱلشِّرْكَ | شرك | N | acc M, def | the partnership / the association — the act of making partners | definite article makes it a category, not an instance | Sarf/Nahw | HIGH |
-<!-- morphology:31:13:23 root=ظلم pos=N -->
 | 9 | ظُلْمٌ | ظلم | N | nom M, indef | wrongdoing / displacement — placing something where it doesn't belong | heavy, dark — the ظ (emphatic dh) is one of the darkest sounds in Arabic | Sarf | HIGH |
-<!-- morphology:31:13:24 root=عظم pos=N -->
 | 10 | عَظِيمٌ | عظم | N (ADJ) | fa'īl pattern, nom M, indef | great / immense (intensive adjective — permanent, intrinsic greatness) | expansive, overwhelming | Sarf | HIGH |
 
 ## Form Decision Table
@@ -78,6 +68,17 @@ STEP 0: LINGUISTIC GROUNDING AUDIT
 ## One-Sentence Distillation (draft):
 "The gravest sin in the universe is delivered by a father in the softest possible voice, because shirk is not a crime against God's ego — it is a displacement of your own soul, a wronging of yourself so immense that only love, not threat, can make you see it."
 -->
+
+<!-- morphology:31:13:3 root=قول pos=V -->
+<!-- morphology:31:13:4 pos=N -->
+<!-- morphology:31:13:6 root=بني pos=N -->
+<!-- morphology:31:13:10 root=وعظ pos=V -->
+<!-- morphology:31:13:13 root=بني pos=N -->
+<!-- morphology:31:13:16 root=شرك pos=V -->
+<!-- morphology:31:13:18 root=أله pos=N -->
+<!-- morphology:31:13:21 root=شرك pos=N -->
+<!-- morphology:31:13:23 root=ظلم pos=N -->
+<!-- morphology:31:13:24 root=عظم pos=N -->
 
 # My Dear Son, Don't Do This to Yourself
 ## Why a Father Called Shirk the Greatest Self-Harm
