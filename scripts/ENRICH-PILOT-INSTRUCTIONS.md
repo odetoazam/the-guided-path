@@ -131,3 +131,20 @@ Rule: **wait for every agent in the batch to report completion before running th
 applier.** If you must apply early, apply named drafts only, never the whole directory.
 The mechanical guard does not catch this — a partial draft is still structurally valid,
 so it passes cleanly.
+
+## AUDIT AGENTS: WRITE INCREMENTALLY, NEVER BATCH
+
+Observed 2026-07-30: an audit agent finished two of three files, held both results in
+memory to assemble the JSON at the end, hit an error, and **lost everything**. All that
+survived was a one-line summary saying it had found three CRITICALs and eight
+silently-settled ikhtilāf — with no detail. The work had to be redone from scratch.
+
+**Rule: after finishing EACH file, append that file's result to the output JSON
+immediately.** Read it, append, write it back; start it as `[]` if absent. Never hold
+more than one file's findings in memory.
+
+This applies to any agent producing a multi-item report. The cost of an interrupted batch
+is the whole batch; the cost of an interrupted incremental run is one item.
+
+Related: five agents died on API 529s in the same session. Transient failure is normal at
+this scale, so assume it will happen and design output to survive it.
