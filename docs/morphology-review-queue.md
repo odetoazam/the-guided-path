@@ -292,3 +292,52 @@ Enrichment agents are instructed to verify every Arabic passage presented as a Q
 quotation against the real text before letting it stand. Both defects above were found
 that way, not by a script. **Until a detector exists for these two classes, they can
 only be found by reading.**
+
+---
+
+# ⚠ CORRECTION (2026-07-28) — the duplicate-block "defect" was mostly the truncation
+
+Earlier today this document asserted that 314 of 800 multi-ayah reports repeat one
+commentator's block identically under every heading, and characterised that block as
+**"usually commentary on a different ayah, often truncated."** Agents were instructed
+accordingly, and several responded by attributing *nothing* to Ibn Kathir.
+
+**After regenerating all 1,367 reports untruncated, that characterisation is wrong.**
+
+The repetition count is essentially unchanged — **314 → 314 (39.1%)**. So regeneration
+did not fix it, which means it was never our bug. **Ibn Kathir comments on passages, not
+on single ayahs**, and the source API maps every ayah in a passage to the same block.
+The repetition is the correct representation of how his tafsir is organised.
+
+What the 500-char truncation did was cut those passage blocks off near their opening —
+so the visible fragment discussed only the passage's *first* ayah, and the block looked
+misfiled under the rest. Concrete reversal: `015-al-hijr/tafsir-report-097-099.md` was
+reported today as carrying an Ibn Kathir block "identical under all three headings and
+commentary on 15:94," and an agent therefore drew nothing from him. Untruncated, that
+block covers 15:97–99. Same for `010-yunus/tafsir-report-085-086.md`, whose full block
+ends on 10:86's *wa najjinā bi-raḥmatika* — "save us by Your mercy… from the
+disbelieving folk."
+
+**The offset detector's numbers must not be read as a defect count.** Run against the
+regenerated reports it reports **2,438 blocks in 644 reports**, up from 710 in 302 — and
+the increase is the artifact, not a discovery. A full passage-level block quotes many
+ayahs, so "which ayah does this block quote most" frequently resolves to something other
+than the heading. `scripts/detect_tafsir_offset.mjs` is only meaningful against
+per-ayah-scoped commentary; against passage-scoped commentary it measures scope, not
+misfiling.
+
+**What survives.** Genuine misfiling does exist — several were hand-verified today with
+the Arabic in front of them (`003-aal-imran/tafsir-report-133-136.md`,
+`005-al-maidah/tafsir-report-051.md`, and al-Ṭabarī offset by one throughout
+`014-ibrahim/tafsir-report-024-027.md`). Those are real. What is now unsupported is the
+*scale* claim and the blanket instruction to distrust every repeated block.
+
+**Standing instruction, revised.** Still verify the Arabic a commentator actually quotes
+before attributing — that discipline caught real errors today and costs little. But do
+**not** treat a repeated block as evidence of misattribution, and do **not** decline to
+cite a commentator merely because his block appears under several headings. Read the full
+block and see which ayahs it treats.
+
+This is the second time today a measurement made on truncated data proved misleading.
+The first was the semantic-review log. The lesson is the same both times: **measure the
+source before measuring the content.**
