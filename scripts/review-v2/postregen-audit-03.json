@@ -1,1 +1,354 @@
-[]
+[
+ {
+  "path": "content/tadabbur/018-al-kahf/ayahs-060-065.md",
+  "verdict": "CRITICAL",
+  "ikhtilaf_now_visible": [
+   {
+    "topic": "What سَرَبًا physically was — four positions, al-Tabari declines to settle",
+    "tabari_arabic": "ثم اختلف أهل العلم في صفة اتخاذه سبيله في البحر سربا، فقال بعضهم: صار طريقه الذي يسلك فيه كالجحر ... وقال آخرون: بل صار طريقه في البحر ماء جامدا ... وقال آخرون: بل صار طريقه في البحر حجرا ... وقال آخرون: بل إنما اتخذ سبيله سربا في البرّ إلى الماء، حتى وصل إليه لا في البحر ... وجائز أن يكون ذلك السرب كان بانجياب عن الأرض، وجائز أن يكون كان بجمود الماء، وجائز أن يكون كان بتحوله حجرا. وأصح الأقوال فيه ما رُوي الخبر به عن رسول الله ﷺ",
+    "positions": [
+     "Ibn Abbas: أثره كأنه جحر — a burrow/hole",
+     "Qatadah: the path became ماء جامدا — congealed/frozen water",
+     "Ibn Abbas (2nd chain): whatever the fish touched يبس حتى يكون صخرة — dried into rock",
+     "Ibn Zayd: the sarab was في البرّ, on the LAND leading to the water, not in the sea at all"
+    ],
+    "file_position": "Asserts one reading as settled: 'the fish's path through the sea became a HOLLOWED channel, a literal tunnel the water preserved ... classical reading (Ibn Kathir, al-Tabari, al-Muyassar)'. al-Tabari's tarjih to the Ubayy hadith makes the arch-of-water reading defensible, but the file never signals that three other physical descriptions are on record, including one that places the tunnel on dry land."
+   },
+   {
+    "topic": "How long حُقُبًا is — al-Tabari marks this with the disagreement formula",
+    "tabari_arabic": "وذكر بعض أهل العلم بكلام العرب، أن الحقب في لغة قيس: سنة، فأما أهل التأويل فإنهم يقولون في ذلك ما أنا ذاكره، وهو أنهم اختلفوا فيه، فقال بعضهم: هو ثمانون سنة ... وقال آخرون: هو سبعون سنة ... ﴿أَوْ أَمْضِيَ حُقُبًا﴾ قال: دهرا",
+    "positions": [
+     "a year (dialect of Qays, via ahl al-arabiyyah — also relayed by Ibn Kathir from Ibn Jarir)",
+     "eighty years (Abdullah b. Amr)",
+     "seventy autumns (Mujahid)",
+     "دهر / زمان, an indefinite age (Ibn Abbas, Qatadah, Ibn Zayd — al-Tabari's own preference)"
+    ],
+    "file_position": "Settles it and then negates the recorded minority: 'It is not a day. It is not a month. It is not a year.' Grounding table rates HIGH: 'classical lexicons give حقب as a long period, usually eighty years or more' — which also excludes Mujahid's seventy."
+   },
+   {
+    "topic": "Why Musa set out at all — al-Tabari records a competing sabab with the وقال آخرون formula",
+    "tabari_arabic": "وقال آخرون: بل كان سبب ذلك أنه سأل الله جلّ ثناؤه أن يدله على عالم يزداد من علمه إلى علم نفسه ... [Ubayy hadith via Ibn Ishaq] إنَّ مُوسَى هُوَ نَبِي بَنِي إسْرَائِيلَ سألَ رَبَّهُ فَقالَ: أيْ رَبّ إنْ كانَ في عِبادِكَ أحَدٌ هُوَ أعْلَمُ مِنِّي فادْلُلْنِي عَلَيْهِ",
+    "positions": [
+     "The rebuke version: Musa claimed to be the most knowledgeable and was corrected (Ubayy hadith via al-Zuhri; Qatadah)",
+     "Qatadah's own wording keeps it open whether he said it publicly or only thought it: فقال: لا أو حدّثته نفسه بذلك ... وكان موسى قد حدّث نفسه أنه ليس أحد أعلم منه، أو تكلم به",
+     "The request version: Musa ASKED Allah to point him to a more knowledgeable servant — no rebuke in the frame at all (Ibn Abbas via Harun b. Antara; second Ubayy hadith via Ibn Ishaq)"
+    ],
+    "file_position": "'The World Before the Words' presents the rebuke version as the single engine of the passage, dramatised with invented dialogue ('someone in the crowd asked him ... And Musa answered: I am'), and calls it simply 'the sahih hadith from Ubayy ibn Kab'. The competing sabab, also carried on an Ubayy chain in the same report, is not mentioned."
+   },
+   {
+    "topic": "Why 18:61 uses the DUAL نَسِيَا when only one of them carried the fish — a live grammarians' dispute",
+    "tabari_arabic": "قال بعض أهل العربية: إن الحوت كان مع يوشع، وهو الذي نسيه، فأضيف النسيان إليهما، كما قال ﴿يَخْرُجُ مِنْهُمَا اللُّؤْلُؤُ وَالْمَرْجَانُ﴾ ... وإنما جاز عندي أن يقال: ﴿نَسِيا﴾ لأنهما كانا جميعا تزوّداه لسفرهما ... وأما قوله ﴿يخرج منهما اللؤلؤ والمرجان﴾ فإن القول في ذلك عندنا بخلاف ما قال فيه",
+    "positions": [
+     "al-Farra' / Ibn Kathir: only Yusha' actually forgot; the dual is idiom, on the analogy of 55:22",
+     "al-Tabari: rejects that analogy explicitly and grounds the dual in shared provisioning of the journey",
+     "al-Jalalayn: two real forgettings — نَسِيَ يُوشَع حَمْله عِنْد الرَّحِيل ونَسِيَ مُوسى تَذْكِيره"
+    ],
+    "file_position": "Takes the dual as a genuine distribution of the lapse to both men ('the Quran distributes the lapse to both'), without noting that Ibn Kathir in the same report says the opposite ('Forgetfulness is attributed to them both even though it was actually Yusha' who forgot'), or that al-Tabari and al-Farra' disagree over the reason for the dual."
+   },
+   {
+    "topic": "What آثارهما they retraced",
+    "tabari_arabic": "يقول: فرجعا في الطريق الذي كانا قطعاه ناكصين على أدبارهما يقصان آثارهما التي كانا سلكاهما ... عن مجاهد، قوله: ﴿قَصصًا﴾ قال: اتبع موسى وفتاه أثر الحوت، فشقا البحر راجعين",
+    "positions": [
+     "al-Tabari (and Qatadah, رجعا عودهما على بدئهما): their own outbound path",
+     "Mujahid, twice: they followed the FISH's trace, splitting the sea as they went back"
+    ],
+    "file_position": "Builds the entire third movement and the closing practical exercise on 'their own footprints' exclusively. al-Tabari's own gloss supports the file, so this is a minor omission rather than a false settlement."
+   },
+   {
+    "topic": "Codex variant at 18:63 recorded by al-Tabari",
+    "tabari_arabic": "وقد ذكر أن ذلك في مصحف عبد الله: وما أنسانيه أن أذكره إلا الشيطان",
+    "positions": [
+     "Uthmanic order وَمَا أَنسَانِيهُ إِلَّا الشَّيْطَانُ أَنْ أَذْكُرَهُ",
+     "Ibn Mas'ud's codex reorders the badal before the exception"
+    ],
+    "file_position": "Not mentioned. Harmless, but it is the kind of item the truncated report could not show."
+   }
+  ],
+  "issues": [
+   {
+    "severity": "CRITICAL",
+    "locus": "FORM DECISION TABLE entry for عَجَبًا; body section 2 ('echoed here in ayah 63 as ʿajabā'); Architecture line for v.63",
+    "claim": "'عَجَبًا | indef. accusative (ḥāl or tamyīz) ... the qualifier is attached to the sabīl not the fish, so the PATH is what is wondrous, not merely its taking' — HIGH confidence; and in the body, 'The tunnel is named as a wonder — ʿajaba', used to carry the argument that the missed sign is preserved.",
+    "why_wrong": "All four commentators make عجبا the wonder OF THE OBSERVERS, not a property of the path. al-Jalalayn parses it as an object, not a hal or tamyiz: «﴿واِتَّخَذَ﴾ الحُوت ﴿سَبِيله فِي البَحْر عَجَبًا﴾ مَفْعُول ثانٍ أيْ يَتَعَجَّب مِنهُ مُوسى وفَتاهُ». al-Tabari: «﴿واتخذ سبيله في البحر عجبا﴾ يعجب منه»; Mujahid: «موسى يعجب من أثر الحوت في البحر»; Qatadah: «فكان موسى ... يعجب من سرب الحوت»; Ibn Abbas: «كان سرب الحوت في البحر لموسى عجبا». The Ubayy hadith in BOTH Ibn Kathir and al-Tabari draws the contrast the file inverts: «فَصَارَ للْحُوتِ سَرَبا وكانَ لَهُما عَجَبا» — a tunnel for the fish, a wonder for the two men. So the grammatical label is false and the referent is inverted."
+   },
+   {
+    "severity": "CRITICAL",
+    "locus": "body section 1, 'Stop at this word. Ḥuqub is the plural of ḥuqba ...'",
+    "claim": "'It is not a day. It is not a month. It is not a year. Ḥuqba is an age.' Plus the HIGH-confidence table gloss 'usually eighty years or more'.",
+    "why_wrong": "al-Tabari records precisely the reading the file flatly denies: «أن الحقب في لغة قيس: سنة» — and Ibn Kathir relays it from Ibn Jarir as the first view ('Huqub means a year in the dialect of Qays'). al-Tabari then marks the rest with «أنهم اختلفوا فيه»: eighty years, seventy autumns, an indefinite age. The file's emphatic negation contradicts the sources, and 'eighty years or more' additionally excludes Mujahid's seventy."
+   },
+   {
+    "severity": "CRITICAL",
+    "locus": "body section 2, paragraph beginning 'And this is where we have to sit with what the Quran is teaching about forgetting'",
+    "claim": "'The early exegete Mujāhid, transmitted by al-Tabari, glosses the nasiyā of ayah 61 not as a blank in the mind but with the verb tarakā — they left it behind.'",
+    "why_wrong": "Misattribution. تركا is al-Tabari's OWN gloss — «وقوله ﴿نَسِيَا حُوتَهُمَا﴾ يعني بقوله: نسيا: تركا» — stated before any isnad. What Mujahid is actually transmitted as saying, on two chains, is a different word: «عن مجاهد ﴿نَسِيَا حُوتَهُمَا﴾ قال: أضلاه». The file leans on Mujahid's name to license a theological point about forgetting-as-act; the named authority did not say the quoted word."
+   },
+   {
+    "severity": "MODERATE",
+    "locus": "Linguistic Journey section 4 and Depths; grounding table entry for مِن لَّدُنَّا (HIGH confidence)",
+    "claim": "'لدن is more intimate than عند ... a knowledge that sits so close to Allah that it can only be given, never acquired'; in the body, 'Not min ʿindinā, but something more intimate ... It cannot be obtained through any ordinary means of learning. It is not in books. It is not in schools. It is not arrived at through reasoning or study.'",
+    "why_wrong": "The untruncated report shows both al-Tabari and Qatadah glossing لدنّا BY عندنا, i.e. treating them as equivalent in this very ayah: al-Tabari «﴿وَعَلَّمْنَاهُ مِنْ لَدُنَّا عِلْمًا﴾ يقول: وعلمناه من عندنا أيضا علما»; Qatadah «﴿مِنْ لَدُنَّا عِلْمًا﴾: أي من عندنا علما». The grammarians' لدن/عند distinction exists elsewhere in the tradition, so this is not fabricated — but the file's own hedge ('the tafsir itself does not build a formal doctrine on it') understates the position: the tafsir actively collapses the contrast, and the file then builds an unhedged epistemology ('not in books, not in schools') on top of it and rates it HIGH."
+   },
+   {
+    "severity": "MODERATE",
+    "locus": "body section 2 ('because his mind drifted for a few seconds at the rock where they rested'); repeated in The Distillation ('he missed the sign at the meeting of the two seas because his mind drifted at a rock')",
+    "claim": "A specific psychological mechanism for Musa's share of the lapse: a momentary drift of attention at the rock.",
+    "why_wrong": "No commentator supplies it, and the narrations point elsewhere: in the Ubayy hadith carried in both Ibn Kathir and al-Tabari, Musa was ASLEEP at the rock when the fish left — «فَرَقَدَ مُوسَى، فاضْطَرَبَ الحُوتُ فِي المِكْتَلِ، فَخَرَجَ فَوَقَعَ فِي البَحْرِ» — so there was no drifting attention to fault; and al-Jalalayn locates Musa's forgetting at departure and as a different act: «نَسِيَ يُوشَع حَمْله عِنْد الرَّحِيل ونَسِيَ مُوسى تَذْكِيره». Reconstructed interiority presented as narrative fact, and it is load-bearing for the 'even prophets walk past signs' argument."
+   },
+   {
+    "severity": "MODERATE",
+    "locus": "'The World Before the Words' in full",
+    "claim": "The rebuke-after-the-khutbah is presented as the sole and settled engine of the journey, with reconstructed dialogue and the assertion 'Allah sent him a rebuke — not harsh, but firm'.",
+    "why_wrong": "al-Tabari records a competing sabab under the explicit formula «وقال آخرون: بل كان سبب ذلك أنه سأل الله ... أن يدله على عالم يزداد من علمه إلى علم نفسه», carried on an Ubayy b. Ka'b chain via Ibn Ishaq, in which Musa requests the meeting and there is no rebuke; and Qatadah's version leaves open whether Musa said it aloud at all («فقال: لا أو حدّثته نفسه بذلك»). Extension presented as documented fact."
+   },
+   {
+    "severity": "MINOR",
+    "locus": "body section 1 on مجمع البحرين",
+    "claim": "'al-Tabari records the view that majmaʿ al-baḥrayn meant the meeting of the Sea of Persia and the Sea of Rome'",
+    "why_wrong": "Accurate as far as it goes (Qatadah, Mujahid) and the file does concede 'the classical commentators did not fully agree', but al-Tabari also records Muhammad b. Ka'b's «طنجة» (Tangier), a named alternative the file could have given. The verbal-noun point about المجمع is correctly attributed: «والمجمع: مصدر من قولهم: جمع يجمع»."
+   }
+  ],
+  "verified_correct": [
+   "All six ayahs of Quranic text match canonical-verse.mjs exactly, including the unusual مَجْمَعَ بَيْنِهِمَا in 18:61.",
+   "Ibn Zayd's gloss لا أنتهي and al-Tabari's لا أزال أسير are quoted accurately, as is al-Muyassar's لا أزال أتابع السير.",
+   "al-Muyassar's طريقًا مفتوحًا at 18:61 is quoted accurately and the file's inference from it is fair.",
+   "The Khidr-danger zone is handled well: the file never asserts his prophethood, never claims he is alive, flags that the Quran never names him, and attributes the name to hadith. Ibn Zayd's half-a-fish-with-one-eye report and the Spring-of-Life embellishments are wisely left out.",
+   "The file's central thesis is actually STRONGER than it knows: al-Tabari glosses ذلك ما كنا نبغ as «يعني بذلك: نسيانك الحوت» — the forgetting itself is what they were seeking — and glosses 18:62 with «حين ألقي عليه الجوع ليتذكر الحوت، ويرجع إلى موضع مطلبه», i.e. the hunger was imposed so he would remember. Both sit past the old 500-char cut and neither is cited."
+  ],
+  "summary": "Three CRITICALs and three MODERATEs. The عجبا finding is the worst: the file invents a grammatical label (hal or tamyiz) and inverts the referent, making the PATH wondrous when al-Jalalayn parses it as a second object and all four sources — plus the Ubayy hadith's explicit «فصار للحوت سربا وكان لهما عجبا» — make the wonder belong to Musa and his companion; the file then uses the inversion to carry its 'the sign is preserved' argument. Second, the file flatly denies a lexical report both al-Tabari and Ibn Kathir preserve ('It is not a year' vs الحقب في لغة قيس: سنة). Third, it attributes al-Tabari's own gloss تركا to Mujahid, whose transmitted word is أضلاه. Six ikhtilaf are settled in silence, the heaviest being al-Tabari's explicit four-way اختلف أهل العلم over what the سرب physically was — including Ibn Zayd's view that it was on dry land, not in the sea — and the competing sabab in which Musa asks for the meeting rather than being rebuked into it. Adab handling of Khidr is clean; no israiliyyat asserted."
+ },
+ {
+  "path": "content/tadabbur/019-maryam/ayahs-016-021.md",
+  "verdict": "MODERATE",
+  "ikhtilaf_now_visible": [
+   {
+    "topic": "WHY Maryam withdrew and what the screen was for — the file's load-bearing motive, and the reports do speak to it",
+    "tabari_arabic": "حدثنا موسى، قال: ثنا عمرو، قال: ثنا أسباط، عن السديّ، قال: خرجت مريم إلى جانب المحراب لحيض أصابها، وهو قوله: فانتبذت من أهلها مكانا شرقيا: في شرقيّ المحراب ... [and again at 19:17] عن السديّ، قال: فلما طهرت، يعني مريم من حيضها، إذا هي برجل معها",
+    "jalalayn_arabic": "﴿فاِتَّخَذَتْ مِن دُونهمْ حِجابًا﴾ أرْسَلَتْ سِتْرًا تَسْتَتِر بِهِ لِتُفَلِّي رَأْسها أوْ ثِيابها أوْ تَغْتَسِل مِن حَيْضها ... ﴿فَتَمَثَّلَ لَها﴾ بَعْد لُبْسها ثِيابها",
+    "positions": [
+     "al-Suddi (twice in al-Tabari): she went out to the side of the mihrab because of menstruation, and the angel appeared once she had become pure",
+     "al-Jalalayn: the screen was raised so she could groom her head or her clothes, or wash from her menses — and the angel took form only AFTER she had put her clothes back on",
+     "Ibn Abbas: the place was one where the sun shaded her so no one could see her — Allah made the sun itself her hijab",
+     "Qatadah: شاسعا متنحيا — simply far off, remote",
+     "al-Suddi: the hijab was من الجدران, of walls",
+     "Anonymous in al-Tabari: eastward because among them, and among the Arabs, what lies east was held better than what lies west",
+     "Ibn Abbas, twice: this ayah is why the Christians took the east as their qiblah"
+    ],
+    "file_position": "The file states 'at some point — the Quran doesn't say why — she leaves her family and goes east', flags it internally as an unexplained absence ('Why east? The text gives a direction but no reason. Classical scholars note this but the Quran leaves it unexplained'), and then fills the gap with a devotional motive that becomes the thesis of the whole piece. It also converts al-Suddi's location gloss into 'her private station of devotion' while dropping the reason al-Suddi attaches to it."
+   },
+   {
+    "topic": "The qira'ah at 19:19 — this one the file gets RIGHT and reports openly",
+    "tabari_arabic": "واختلفت القرّاء في قراءة ذلك، فقرأته عامَّة قرّاء الحجاز والعراق غير أبي عمرو ﴿لأهَبَ لَكِ﴾ ... على الحكاية، وقرأ ذلك أبو عمرو بن العلاء ﴿ليهب لك غلامًا زكيا﴾ ... والصواب من القراءة في ذلك، ما عليه قرّاء الأمصار، وهو ﴿لأهَبَ لَكِ﴾ بالألف دون الياء، لأن ذلك كذلك في مصاحف المسلمين",
+    "positions": [
+     "li-ahaba (majority; al-Tabari's tarjih, on the hikayah reading)",
+     "li-yahaba (Abu Amr b. al-Ala')"
+    ],
+    "file_position": "Reported accurately and in full, including the 'alaa al-hikayah point, the masahif argument, and the correct conclusion that the two readings are not two theologies. Model handling."
+   },
+   {
+    "topic": "What زَكِيًّا means",
+    "tabari_arabic": "والغلام الزكيّ: هو الطاهر من الذنوب وكذلك تقول العرب: غلام زاكٍ وزكيّ",
+    "jalalayn_arabic": "﴿غُلامًا زَكِيًّا﴾ بِالنُّبُوَّةِ",
+    "positions": [
+     "al-Tabari and al-Muyassar (غلامًا طاهرًا من الذنوب): pure of sins",
+     "al-Jalalayn: pure BY PROPHETHOOD — a different axis of purity"
+    ],
+    "file_position": "Gives only the purity-of-sins gloss (correctly attributed to al-Muyassar) and builds a resonance out of it ('a woman who has just had to defend her own purity ... is told the announced quality of the child is purity'). al-Jalalayn's بالنبوة is not mentioned. Small, and it does not damage the reading."
+   }
+  ],
+  "issues": [
+   {
+    "severity": "MODERATE",
+    "locus": "THE unsourced load-bearing motive, named precisely. Body Part 1.I ('Whatever she was looking for in that solitude'), Part 2.I in full, and the One-Sentence Distillation.",
+    "claim": "That Maryam's withdrawal and her screen were an act of devotional retreat, and that this retreat is what qualified her for the encounter. Exact sentences: 'her solitude was not escapism and it was not wasted time. It was preparation for encounter ... she was the kind of person who needed that space for worship, for devotion, for the quiet in which the heart can hear'; 'She built a screen not because she was told to but because something in her needed the space between herself and the noise. And it was precisely that need — that self-directed, reflexive, Form VIII need — that told Allah she was ready'; 'He sent him into the room she had prepared'; and the distillation, 'The miracle didn't come to her despite her solitude — it came because of it.'",
+    "why_wrong": "No commentator in the paired report gives the withdrawal a devotional purpose, and two give it a mundane one. al-Jalalayn states the purpose of the screen outright: «أرْسَلَتْ سِتْرًا تَسْتَتِر بِهِ لِتُفَلِّي رَأْسها أوْ ثِيابها أوْ تَغْتَسِل مِن حَيْضها», and adds that the angel took form «بَعْد لُبْسها ثِيابها». al-Suddi, carried twice by al-Tabari, says «خرجت مريم إلى جانب المحراب لحيض أصابها» and «فلما طهرت ... إذا هي برجل معها». On the sources' own account the screen was for washing and grooming and the timing of the annunciation turns on her purification, not on a prepared prayer-space. The file's Absence flag ('the Quran leaves it unexplained') is true of the Quran but leaves the reader with the impression that the tafsir is silent, which it is not. Note also that the file's own reading of وكان أمرًا مقضيًّا ('The decree preceded the preparation') pulls against its causal thesis that the solitude is what made her ready."
+   },
+   {
+    "severity": "MINOR",
+    "locus": "Body Part 1.I, 'Others read sharqiyya as the eastern quarter of the temple, her private station of devotion'",
+    "claim": "Presents the eastern-side-of-the-mihrab reading as a devotional station.",
+    "why_wrong": "That reading is al-Suddi's — «في شرقيّ المحراب» — and in al-Suddi's own report the reason she was there is the menses, not devotion. The location is quoted and the purpose attached to it is replaced. Half of one report used against the other half."
+   },
+   {
+    "severity": "MINOR",
+    "locus": "Internal Step 0 grounding table (HTML comment), entry for بَشَرًا",
+    "claim": "'بَشَرًا | N | Indefinite masc sing accusative (tamyeez)' — HIGH confidence.",
+    "why_wrong": "tamyiz is not a defensible parse here. In فتمثل لها بشرًا سويًّا the accusative is a hal (or the second complement of a verb of assuming-a-form); al-Tabari treats it as the shape he resembled — «فتشبه لها في صورة آدميّ سويّ الخلق» — and al-Jalalayn simply glosses تامّ الخلق. Internal scaffolding only, and the rendered prose does not repeat the label."
+   },
+   {
+    "severity": "MINOR",
+    "locus": "Internal Step 0B form-decision table and Step 2 audit, entry for بَغِيًّا",
+    "claim": "'fa'eel pattern (intensive adjective, no ta' marbuta) ... it's the raw, harsh masculine form applied to a woman, which some scholars say intensifies the ugliness of the accusation' — HIGH confidence.",
+    "why_wrong": "The absence of ta' marbutah in بَغِيّ is a regular consequence of the pattern (grammarians take it as فَعُول in the sense of فاعل — بَغُوي — or فعيل in the sense of مفعول; both classes regularly appear without the feminine marker, as in امرأة صبور، امرأة قتيل). Treating a rule-governed absence as an expressive choice is an over-reading, and it is rated HIGH rather than flagged as interpretive. Internal only; the rendered prose does not carry it. What the file DOES carry in the body about this ayah is accurate: al-Tabari's «بنكاح حلال» / «من الوجه الحرام» pairing and al-Suddi's «زانية» are both quoted correctly."
+   },
+   {
+    "severity": "MINOR",
+    "locus": "Internal architectural note, 'the word رَحْمَة appears THREE times across the passage'",
+    "claim": "Three occurrences.",
+    "why_wrong": "Its own enumeration lists two (ar-Rahman in 19:18, rahmatan in 19:21). The rendered 'Thread of Mercy' section correctly names only the two. Internal count error, no effect on the prose."
+   },
+   {
+    "severity": "MINOR",
+    "locus": "Introduction, 'Her very name, the commentators say, carried that vocation ... classical exegetes gloss it in that language as the servant, the worshipper'",
+    "claim": "An unnamed classical gloss of Maryam as servant/worshipper.",
+    "why_wrong": "Not present anywhere in the paired report's 24 sections; nothing to check it against here. The gloss does exist in the wider tradition and the file hedges it carefully twice ('a gloss offered by commentators, not an Arabic derivation'), and the grounding table explicitly blocks the ر-ي-م look-alike error. Flagged only because the attribution is to 'the commentators' with no locus."
+   },
+   {
+    "severity": "MINOR",
+    "locus": "Body Part 2.I, 'Musa at the fire — he was alone, traveling with his family'",
+    "claim": "Musa was alone at the fire.",
+    "why_wrong": "Self-contradictory in the same clause, and the Quran has him travelling with his household (28:29). Outside this file's range; a wording slip in a list of parallels."
+   }
+  ],
+  "verified_correct": [
+   "All six ayahs match canonical-verse.mjs exactly; so do the four cross-referenced verses the file quotes — 19:8, 19:9, 19:10 and 3:47.",
+   "The ar-Rahman count is TRUE and checkable: 16 occurrences in Surah Maryam, and it is the highest in the Quran (next is 43 with 7). Verified against the quran-validator corpus.",
+   "The 19:19 qira'ah paragraph is faithful to al-Tabari line by line, including على الحكاية and the masahif-consensus argument.",
+   "Every named citation in the rendered prose checks out verbatim: al-Tabari «وهو افتعل من النَّبذ، والنَّبذ: الطَّرْح»; Qatadah «انفردت من أهلها»; al-Tabari on the hijab «سترا يسترها عنهم وعن الناس»; al-Suddi «من الجدران»; Ibn Abbas «مكانا أظلتها الشمس أن يراها أحد منهم»; al-Muyassar «في صورة إنسان تام الخَلْق» and «أن تنالني بسوء» and «طاهرًا من الذنوب» and «مسطورًا في اللوح المحفوظ، فلا بد مِن نفوذه» and «ورحمة منّا به وبوالدته وبالناس»; al-Tabari «وظنته رجلا يريدها على نفسها»; Ibn Jurayj «خشيت أن يكون إنما يريدها على نفسها»; al-Suddi «فزعت منه»; al-Tabari «من أيّ وجه يكون لي غلام؟ أمن قِبَل زوج أتزوّج ... أم يبتدئ الله فيّ خلقه ابتداء»; al-Tabari «ورحمة منا لك، ولمن آمن به وصدقه»; al-Tabari «علامة وحجة على خلقي»; al-Tabari «أمرا قد قضاه الله، ومضى في حكمه». This is the most accurately sourced file of the three.",
+   "The Zakariyya/Maryam pairing claim is Ibn Kathir's own: 'Between these two stories there is an appropriate and similar relationship. Due to their closeness in meaning, Allah mentioned them here together.'",
+   "The Jibreel identification via 26:193 is sound: al-Tabari «وبنحو الذي قلنا في أن المعني بالروح الأمين في هذا الموضع جبريل قال أهل التأويل», and al-Muyassar names Jibreel outright at 19:17.",
+   "Adab is well handled: the file reports the commentators' blunt reading of her fear (that she took him for a man who wanted her) without prurience, and it does not touch the نفخ في جيب درعها material that sits just past this range."
+  ],
+  "summary": "MODERATE, and the prior run's 'one unsourced load-bearing motive' is now nameable exactly: the file assigns Maryam's withdrawal and her screen a DEVOTIONAL purpose — 'preparation for encounter', 'the room she had prepared', 'it came because of it' — and that motive carries the entire thematic half of the piece. The untruncated reports supply a different and mundane purpose twice over: al-Jalalayn says the screen was raised «لِتُفَلِّي رَأْسها أوْ ثِيابها أوْ تَغْتَسِل مِن حَيْضها» and that the angel appeared «بَعْد لُبْسها ثِيابها», and al-Suddi in al-Tabari says «خرجت مريم إلى جانب المحراب لحيض أصابها» and that the encounter came «فلما طهرت». The file's internal Absence flag asserts the question is simply unexplained; it is not. It also reuses al-Suddi's «في شرقيّ المحراب» as 'her private station of devotion' while discarding the reason al-Suddi gives for her being there. Everything else is unusually clean: no CRITICALs, every named citation in the prose verifies verbatim, the qira'ah at 19:19 is handled better than most published tafsir summaries, and the falsifiable ar-Rahman count (16, highest in the Quran) is true. Remaining flags are minor and confined to internal scaffolding — a tamyiz mislabel on بشرًا, an expressive over-reading of the missing ta' marbutah in بغيًّا, and an internal count of THREE rahma occurrences where its own list gives two."
+ },
+ {
+  "path": "content/tadabbur/018-al-kahf/ayahs-032-036.md",
+  "path_note": "The assigned path content/tadabbur/018-al-kahf/ayahs-032-044.md DOES NOT EXIST. The two-men-and-two-gardens passage is split across three files: ayahs-032-036.md (audited here), ayahs-037-041.md, ayahs-042-044.md, each with its own sibling tafsir report. This entry covers the head of the passage; a separate entry follows for ayahs-042-044.md.",
+  "verdict": "MODERATE",
+  "ikhtilaf_now_visible": [
+   {
+    "topic": "وَكَانَ لَهُ ثَمَرٌ — a qira'ah dispute AND a three-way meaning dispute, and al-Tabari and Ibn Kathir land on opposite sides",
+    "tabari_arabic": "وقوله: ﴿وَكَانَ لَهُ ثَمَرٌ﴾ اختلفت القرّاء في قراءة ذلك، فقرأته عامة قرّاء الحجاز والعراق: \"وَكَانَ لَهُ ثُمُرٌ\" بضم الثاء والميم. واختلف قارئو ذلك كذلك، فقال بعضهم: كان له ذهب وفضة ... وقال آخرون: بل عُنِي به: المال الكثير من صنوف الأموال ... وقال آخرون: بل عُنِي به الأصل ... وقرأ ذلك بعض المدنيين ﴿وَكَانَ لَهُ ثَمَرٌ﴾ بفتح الثاء والميم، بمعنى جمع الثمرة ... وأولى القراءات في ذلك عندي بالصواب قراءة من قرأ \"وَكَانَ لَهُ ثُمُرٌ\" بضمّ الثاء والميم لإجماع الحجة من القرّاء عليه",
+    "positions": [
+     "Readings: ثَمَرٌ (fath, the Madinans and the Hafs text the file quotes) / ثُمُرٌ (damm on both, al-Tabari's own tarjih) / ثُمْرٌ (damm then sukun, for lightening)",
+     "Meaning under ثُمُر: gold and silver (Mujahid, twice)",
+     "all kinds of property (Ibn Abbas, twice; Qatadah, three times — «كلّ مال إذا اجتمع فهو ثُمُر»)",
+     "the capital / the asset itself, الأصل (Ibn Zayd)",
+     "Ibn Kathir takes the OPPOSITE tarjih from al-Tabari: 'It was said that what was meant here was wealth, and it was said that what was meant were fruits, WHICH IS THE MORE APPARENT MEANING HERE', noting Thumr as the plural of Thamrah"
+    ],
+    "file_position": "Section 5 disposes of all of it in one undifferentiated line: 'The Qur'an says he had thamar - fruit, produce, wealth, yield.' No qira'ah is mentioned, and the reader is not told that al-Tabari prefers a reading in which this word introduces MONEY held apart from the gardens' produce, or that the two principal commentators disagree about which sense is apparent. The file's own gloss list happens to contain both senses, so nothing false is asserted — but a documented dispute is closed in silence, and with it the interpretive option that ayah 34 adds liquid wealth to the estate rather than restating its fruit."
+   },
+   {
+    "topic": "Why جَنَّتَهُ is singular in 18:35 after جَنَّتَيْنِ in 18:32",
+    "jalalayn_arabic": "﴿ودَخَلَ جَنَّته﴾ بِصاحِبِهِ يَطُوف بِهِ فِيها ويُرِيهِ أثْمارها ولَمْ يَقُلْ جَنَّتَيْهِ إرادَة لِلرَّوْضَةِ وقِيلَ اكْتِفاء بِالواحِدِ",
+    "positions": [
+     "al-Jalalayn: he meant the grove as a single space (irādah li-r-rawḍah)",
+     "or it is sufficiency-by-one-of-the-pair (iktifā' bi-l-wāḥid)"
+    ],
+    "file_position": "Section 6 builds a moral reading out of the possessive ('what Allah made for him has become, in his consciousness, simply his') without noting the dual-to-singular shift that al-Jalalayn treats as the question needing an answer. The file's point stands on the pronoun, not the number, so this is an omission rather than an error."
+   },
+   {
+    "topic": "Whether 18:35-36 is private self-talk or speech addressed to the believing companion",
+    "jalalayn_arabic": "﴿ودَخَلَ جَنَّته﴾ بِصاحِبِهِ يَطُوف بِهِ فِيها ويُرِيهِ أثْمارها",
+    "muyassar_arabic": "وإنْ فُرِضَ وقوعها -كما تزعم أيها المؤمن- ورُجعتُ إلى ربي لأجدنَّ عنده أفضل من هذه الحديقة مرجعًا ومردًّا؛ لكرامتي ومنزلتي عنده",
+    "positions": [
+     "al-Jalalayn and al-Muyassar: he entered WITH the companion, touring him round the fruit, and the denial of the Hour is spoken AT the believer ('as you claim, O believer')"
+    ],
+    "file_position": "Section 7 reads it as interior monologue ('Inside the garden, he says'), which loses the tafsir's staging of the boast as continued address to the believer. Also unused: al-Muyassar's «لكرامتي ومنزلتي عنده», 'because of my honour and rank with Him', which is the exact entitlement the file's Theme 5 argues for."
+   }
+  ],
+  "issues": [
+   {
+    "severity": "MODERATE",
+    "locus": "Part 1 section 5, 'The Qur'an says he had thamar - fruit, produce, wealth, yield.'",
+    "claim": "A single flattened gloss for a word over which al-Tabari runs an explicit qira'ah dispute and a three-way meaning dispute, and on which he and Ibn Kathir take opposite positions.",
+    "why_wrong": "See the ikhtilaf entry above. al-Tabari: «اختلفت القرّاء في قراءة ذلك» ... «وأولى القراءات في ذلك عندي بالصواب ... \"ثُمُرٌ\" بضمّ الثاء والميم». Ibn Kathir prefers fruits as 'the more apparent meaning'. Mujahid says gold and silver; Ibn Abbas and Qatadah say all kinds of property; Ibn Zayd says the capital asset. The file settles it silently and the reader cannot tell a dispute existed."
+   },
+   {
+    "severity": "MINOR",
+    "locus": "Introduction ('Al-Tabari, Ibn Kathir, and al-Muyassar all read the man as wronging himself through arrogance, disbelief, and denial of the resurrection') and Part 1 section 6 ('Al-Muyassar states that he entered while wronging himself through disbelief and arrogance. Al-Tabari includes the sense of his wrongdoing against himself by his denial and pride.')",
+    "claim": "Arrogance/pride attributed to al-Tabari and al-Muyassar as part of their gloss on وَهُوَ ظَالِمٌ لِّنَفْسِهِ.",
+    "why_wrong": "At that phrase neither one says it. al-Tabari: «وظلمه نفسه: كفره بالبعث، وشكه في قيام الساعة، ونسيانه المعاد إلى الله». al-Muyassar: «ظالم لنفسه بالكفر بالبعث، وشكه في قيام الساعة». al-Jalalayn: «بِالكُفْرِ». Only Ibn Kathir includes arrogance there ('in his disbelief, rebellion, arrogance and denial of the Hereafter'). The substance is attested — al-Tabari does supply arrogance at 18:34 via the Uyaynah/al-Aqra' comparison, «احتقارا لهم، وتكبرا عليهم» — but the citation is stretched to two commentators who, at that locus, name kufr and doubt rather than pride."
+   },
+   {
+    "severity": "MINOR",
+    "locus": "Part 1 section 3, 'so the Arabs let the verb after it stay singular even while the sense is two'",
+    "claim": "The verb after kilta stays singular.",
+    "why_wrong": "al-Tabari's own statement is that the verb after كلا/كلتا/كل when annexed to a definite may be either: «وجاء الفعل بعدهن ويجمع ويوحد». The rest of the file's account of kilta is faithful — «لأن كلتا لا يفرد واحدتها، وأصله كلّ» supports both the singular-form point and the reach back to kull exactly as the file states — but 'let the verb stay singular' presents one licensed option as the rule."
+   }
+  ],
+  "verified_correct": [
+   "All five ayahs match canonical-verse.mjs exactly, including the sajdah-marker-free opening ۞ and the Hafs ثَمَرٌ.",
+   "No morphology defect found. فَجَّرْنَا is correctly identified as Form II, and al-Tabari's own reason for the tashdid supports the intensive/distributive reading: «فثقل الجيم منه، لأن التفجير في النهر كله». تَبِيدَ (al-Jalalayn «تَنْعَدِم»), the passive رُدِدْتُ, the emphatic لَأَجِدَنَّ, and مُنقَلَبًا are all handled correctly.",
+   "The framing claims are verbatim-accurate. al-Tabari: «واضرب يا محمد لهؤلاء المشركين بالله، الذين سألوك أن تطرد الذين يدعون ربهم بالغداة والعشيّ يريدون وجهه». Ibn Kathir: 'After mentioning the idolators who were too arrogant to sit with the poor and weak among Muslims, showing off before them with their wealth and noble lineage'. al-Muyassar: «رجلين من الأمم السابقة: أحدهما مؤمن، والآخر كافر». The file's careful note that there is no formally narrated sabab al-nuzul isolating the parable is right, and it does not overclaim one.",
+   "«وَلَمْ تَظْلِم مِّنْهُ شَيْـًٔا» is attributed correctly to al-Tabari («ولم تنقص من الأكل شيئا، بل آتت ذلك تاما كاملا») and Qatadah, and to Ibn Kathir ('nothing at all was diminishing').",
+   "أَعَزُّ نَفَرًا is glossed within warrant: al-Tabari «وأعزّ عشيرة ورَهْطا», Ibn Kathir 'more servants, attendants and children'. The modern follower-count application is clearly marked as analogy.",
+   "The claim that the companion owned less is understated rather than overstated: al-Tabari says he had nothing — «لصاحبه الذي لا مال له».",
+   "The file's central syllogism ('I am favored here, therefore favored by God, therefore favored there') is not an imposition — it is in the untruncated al-Tabari almost verbatim: «لم يعطني هذه الجنة في الدنيا إلا ولي عنده أفضل منها في المعاد إن رددت إليه», and in Ibn Zayd: «ما أعطاني هذه إلا ولي عنده خير من ذلك». Uncited, but the reading is sound.",
+   "No israiliyyat. The file names no protagonists, invents no biography for the two men, and adds no Bani-Isra'il backstory — a real restraint in a parable that historically attracts it."
+  ],
+  "summary": "MODERATE, and mostly a clean file. One substantive finding: وَكَانَ لَهُ ثَمَرٌ carries an explicit «اختلفت القرّاء» in al-Tabari — three readings (ثَمَر / ثُمُر / ثُمْر) and three meanings under the preferred one (gold and silver per Mujahid; all kinds of property per Ibn Abbas and Qatadah; the capital asset per Ibn Zayd) — with al-Tabari preferring ثُمُر, i.e. wealth held apart from the gardens' produce, and Ibn Kathir explicitly preferring 'fruits' as the more apparent sense. The file collapses the whole thing into 'fruit, produce, wealth, yield' and moves on. Two MINORs: arrogance is attributed to al-Tabari's and al-Muyassar's gloss on ظالم لنفسه when both name kufr in the resurrection and doubt about the Hour there (only Ibn Kathir has arrogance at that phrase), and 'the verb after kilta stays singular' hardens into a rule what al-Tabari says may go either way («ويجمع ويوحد»). No CRITICALs: text verified, morphology sound, framing citations verbatim, no israiliyyat, and the file's core syllogism turns out to be al-Tabari's own words."
+ },
+ {
+  "path": "content/tadabbur/018-al-kahf/ayahs-042-044.md",
+  "path_note": "Audited as the tail of the assigned (nonexistent) 032-044 range. The middle file, ayahs-037-041.md, was NOT audited — it remains open.",
+  "verdict": "CRITICAL",
+  "ikhtilaf_now_visible": [
+   {
+    "topic": "What هُنَالِكَ in 18:44 points to — the worldly collapse, or the Day of Resurrection",
+    "tabari_arabic": "وقوله: ﴿هُنَالِكَ الْوَلايَةُ لِلَّهِ الْحَقِّ﴾ يقول عزّ ذكره: ثم وذلك حين حلّ عذاب الله بصاحب الجنتين في القيامة",
+    "jalalayn_arabic": "﴿هُنالِكَ﴾ أيْ يَوْم القِيامَة",
+    "positions": [
+     "al-Tabari: the moment Allah's punishment befalls the owner of the two gardens ON THE DAY OF RESURRECTION",
+     "al-Jalalayn: the Day of Resurrection",
+     "al-Muyassar, generalizing: «في مثل هذه الشدائد» — in calamities of this kind",
+     "al-Tabari builds his qira'ah tarjih on the resurrection referent: «وأن من أحلّ به نقمته يوم القيامة فلا ناصر له يومئذ»"
+    ],
+    "file_position": "Section 6 states flatly, 'It points to the scene of collapse. There, when fruit is gone. There, when hands turn over loss. There, when supporters cannot help.' The Depths theme and the closing line ('The collapse does not create Allah's walayah. It removes the illusions that were hiding it') are built on that relocation."
+   },
+   {
+    "topic": "ٱلْوَلَـٰيَةُ — walayah (fath) or wilayah (kasr), and al-Tabari prefers the one the file argues against",
+    "tabari_arabic": "واختلفت القرّاء في قراءة قوله الولاية، فقرأ بعض أهل المدينة والبصرة والكوفة ﴿هُنَالِكَ الْوَلايَةُ﴾ بفتح الواو من الولاية، يعنون بذلك هنالك المُوالاة لله ... وقرأ ذلك عامَّة قراء الكوفة ﴿هُنالِك الوِلايَةُ﴾ بكسر الواو: من الملك والسلطان ... وأولى القراءتين في ذلك بالصواب، قراءة من قرأ بكسر الواو، وذلك أن الله عقب ذلك خبره عن مُلكه وسلطانه ... فإتباع ذلك الخبر عن انفراده بالمملكة والسلطان أولى من الخبر عن الموالاة التي لم يجر لها ذكر ولا معنى",
+    "jalalayn_arabic": "﴿الوَلايَة﴾ بِفَتْحِ الواو النُّصْرَة وبِكَسْرِها المِلْك",
+    "positions": [
+     "fath = al-muwalah / al-nusrah, protective alliance and help (Madinah, Basrah, some of Kufah — and the printed Hafs text)",
+     "kasr = al-mulk wa-l-sultan, dominion and sovereignty (general reading of Kufah; al-Tabari's tarjih, who says the alliance sense has no antecedent in the context)"
+    ],
+    "file_position": "The file gestures at the dispute in one generic sentence — 'Depending on recitation and interpretation, scholars discuss shades of authority and protective friendship' — names neither reading, does not report that al-Tabari rejects the alliance sense here, and then transliterates only walayah, 10+ times, running a whole Depths theme on the protective-friendship sense ('If walayah belongs to Allah, then the believer is never finally at the mercy of...')."
+   },
+   {
+    "topic": "ٱلْحَقِّ — genitive (an attribute of Allah) or nominative (an attribute of the walayah)",
+    "tabari_arabic": "واختلفوا أيضا في قراءة قوله ﴿الحَقِّ﴾ فقرأ ذلك عامَّة قرّاء المدينة والعراق خفضا، على توجيهه إلى أنه من نعت الله ... وقرأ ذلك بعض أهل البصرة وبعض متأخري الكوفيين ﴿للهِ الحَقُّ﴾ برفع الحقّ توجيها منهما إلى أنه من نعت الولاية ... وأولى القراءتين عندي في ذلك بالصواب، قراءة من قرأه خفضا على أنه من نعت الله",
+    "jalalayn_arabic": "﴿لِلَّهِ الحَقّ﴾ بِالرَّفْعِ صِفَة الوَلايَة وبِالجَرِّ صِفَة الجَلالَة",
+    "positions": [
+     "jarr: al-Haqq describes Allah (Madinah and Iraq; al-Tabari's tarjih; the file's reading)",
+     "raf': al-Haqq describes the walayah — 'THERE the walayah is the true one, not the false'"
+    ],
+    "file_position": "Asserts 'Then Allah is named al-Haqq' and builds a theological paragraph on it. This agrees with al-Tabari's tarjih and with the printed text, so the reading is defensible — but the raf' alternative that al-Jalalayn states in five words is not mentioned, and it is the reading that would have tied the ayah's close back to the file's own theme of appearance versus reality."
+   },
+   {
+    "topic": "عُقْبًا — a third reading at the same ayah, plus its i'rab",
+    "jalalayn_arabic": "﴿وخَيْر عُقْبًا﴾ بِضَمِّ القاف وسُكُونها عاقِبَة لِلْمُؤْمِنِينَ ونَصْبهما عَلى التَّمْيِيز",
+    "positions": [
+     "عُقُبًا with damm on the qaf, and عُقْبًا with sukun",
+     "both accusatives parsed as tamyiz",
+     "al-Jalalayn and al-Muyassar both narrow the outcome to the BELIEVERS: «عاقِبَة لِلْمُؤْمِنِينَ» / «وخير عاقبة لمن تولّاهم من عباده المؤمنين»"
+    ],
+    "file_position": "Glosses 'uqba as 'outcome, end, aftermath, the final consequence' — correct — but does not note the reading, the tamyiz parse, or that two of the four sources restrict the better outcome to the believers rather than leaving it general."
+   }
+  ],
+  "issues": [
+   {
+    "severity": "CRITICAL",
+    "locus": "Part 1 section 6, 'The opening hunalika means \"there\" or \"at that point.\" It points to the scene of collapse.' Carried through the section's anaphora and into the Depths theme 'Allah's Walayah Is Seen Most Clearly at the Point of Exposure'.",
+    "claim": "That هُنَالِكَ refers to the moment of the garden's worldly collapse.",
+    "why_wrong": "al-Tabari states the referent outright and it is not the collapse: «ثم وذلك حين حلّ عذاب الله بصاحب الجنتين في القيامة» — the moment Allah's punishment befalls him ON THE DAY OF RESURRECTION. al-Jalalayn: «﴿هُنالِكَ﴾ أيْ يَوْم القِيامَة». al-Tabari then reasons FROM that referent to his choice of reading: «وأن من أحلّ به نقمته يوم القيامة فلا ناصر له يومئذ». Only al-Muyassar's generalizing «في مثل هذه الشدائد» gives the file partial cover, and the file does not present it as one reading among several — it asserts the referent as plain sense. The relocation is load-bearing: an entire section and a Depths theme are constructed on 'there' meaning the ruined garden."
+   },
+   {
+    "severity": "MODERATE",
+    "locus": "Part 1 section 6, 'The word walayah comes from the root field of nearness, guardianship, protection, authority, patronage, and loyal care. Depending on recitation and interpretation, scholars discuss shades of authority and protective friendship.' Plus Depths theme 4 in full.",
+    "claim": "Settles the sense toward protective friendship/guardianship while acknowledging only in the abstract that a recitation question exists.",
+    "why_wrong": "al-Tabari marks this with the disagreement formula, names both readings, and prefers al-wilayah (kasr) = «الملك والسلطان», dismissing the alliance sense as «الموالاة التي لم يجر لها ذكر ولا معنى» in this context; he even relays and answers the objection «لا يسمَّى سلطان الله ولاية، وإنما يسمى ذلك سلطان البشر». al-Jalalayn gives the pair in six words. The file's generic hedge tells the reader a dispute exists without telling them what it is or that the principal muharrir lands on the other side, and then it builds a theme on the sense he rejects. Credit where due: the hedge is more than most files manage — this is a MODERATE, not a CRITICAL."
+   }
+  ],
+  "verified_correct": [
+   "All three ayahs match canonical-verse.mjs exactly.",
+   "al-Tabari's gloss of 18:42 is reported accurately: «يقلب كفيه ظهرا لبطن، تلهفا وأسفا على ذهاب نفقته» and «وهي خالية على نباتها وبيوتها»; Qatadah's «أي يصفق» is consistent with the file's picture.",
+   "18:43 is handled correctly: فئة as the group/clan (Mujahid «عشيرته», Qatadah «جند ينصرونه»), and مُنتَصِرًا as one who could not shield himself from Allah's punishment (Qatadah «أي ممتنعا»).",
+   "The composite attributions in the introduction (Ibn Kathir on destruction after arrogance and disbelief; al-Tabari on the ruined produce and wasted spending; al-Muyassar on regret and the failure of his supporters) are all within warrant.",
+   "The file's treatment of the man's regret as covering subtle forms of shirk — wealth as proof of worth, abundance as permanence, means as independent power — is presented as the file's own reading, not attributed to the commentators, and the sentence it does attribute to al-Muyassar is accurate.",
+   "No israiliyyat, no invented protagonists, no fatwa-adjacent material."
+  ],
+  "summary": "CRITICAL, on one point. Ayah 44's هُنَالِكَ is stated by al-Tabari and al-Jalalayn to be the Day of Resurrection — «حين حلّ عذاب الله بصاحب الجنتين في القيامة» / «أيْ يَوْم القِيامَة» — and the file asserts instead that 'It points to the scene of collapse', then builds a section and a Depths theme on that referent. Only al-Muyassar's generalizing «في مثل هذه الشدائد» partly covers it, and the file does not present it as a choice. Compounding it: al-Tabari runs an explicit «اختلفت القرّاء» over ٱلْوَلَـٰيَةُ and prefers al-wilayah = «الملك والسلطان» while dismissing the protective-alliance sense as having no antecedent here — and that is precisely the sense the file's Depths theme 4 develops. Two further qira'ah at the same ayah (الحقّ raf'/jarr, عُقْبًا damm/sukun with the tamyiz parse) go unmentioned, and al-Jalalayn states all three in a single short line, which the pre-regeneration reports did not carry at all. Everything else in the file checks out: text verified, 18:42-43 glosses accurate, no morphology defect, no israiliyyat."
+ }
+]
