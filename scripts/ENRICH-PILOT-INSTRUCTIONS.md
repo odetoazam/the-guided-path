@@ -90,6 +90,20 @@ So:
 - Reports now cut only at 12,000 chars, with an explicit marker. If you see that marker,
   consult the source before relying on anything near it.
 
+**DO NOT READ A WHOLE REPORT. Read your sections.** Regeneration made reports complete
+but broad: median 30 KB, 178 of them over 150 KB, the largest 892 KB (34 ayahs x 4
+commentators). The size is breadth, not depth — a report accumulates a section for every
+ayah the reflection cross-references, so most of it is about ayahs you are not writing on.
+Reading it whole wastes your context and has caused API failures.
+
+    node scripts/tafsir_section.mjs <report.md> --list          # what is in it
+    node scripts/tafsir_section.mjs <report.md> --own           # the file's own range
+    node scripts/tafsir_section.mjs <report.md> 2:183,2:184     # named sections
+
+`--own` on that 892 KB report returns 113 KB — an 88% reduction with nothing you need
+removed. Start with `--list`, then pull `--own`, then pull specific cross-referenced
+sections only if you actually cite them.
+
 **Why this matters for your writing:** the old truncation cut al-Tabari off exactly where
 he states `واختلف أهل التأويل في...`. Files written against those reports settled live
 disagreements without knowing a disagreement existed — that is the single most common
