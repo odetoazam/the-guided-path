@@ -1,0 +1,253 @@
+[
+  {
+    "path": "content/tadabbur/004-an-nisa/ayah-034.md",
+    "report": "content/tadabbur/004-an-nisa/tafsir-report-034.md (section 4:34, 69.2 KB, 4 commentators)",
+    "verdict": "CRITICAL",
+    "quranic_text_check": "PASS — frontmatter arabic and the inline [ayah:4:34] block match `node scripts/canonical-verse.mjs 4 34` exactly.",
+    "positions_recorded_by_sources": [
+      "QIWĀMAH AS AUTHORITY/RULERSHIP — al-Ṭabarī's own tafsīr: «الرجال أهل قيام على نسائهم، في تأديبهن والأخذ على أيديهن ... ولذلك صارُوا قوّامًا عليهن، نافذي الأمر عليهن فيما جعل الله إليهم من أمورهن» (men are people of standing over their wives, in DISCIPLINING them and restraining their hands ... their command is executed over them). Ibn ʿAbbās (9300): «يعني: أمراءَ» — commanders. al-Suddī (9302): «يأخذون على أيديهن ويُؤدّبونهن». al-Jalālayn: «﴿الرجال قوامون﴾ مُسَلَّطُونَ ﴿على النساء﴾ يُؤَدِّبُونَهُنَّ ويَأْخُذُونَ على أيديهنَّ». Ibn Kathīr: 'the man is responsible for the woman, and he is her maintainer, caretaker and leader who disciplines her if she deviates.'",
+      "FAḌL AS HIERARCHICAL SUPERIORITY — Ibn Kathīr: 'because men excel over women and are better than them for certain tasks. This is why prophethood was exclusive of men, as well as other important positions of leadership,' with the ḥadīth «لن يفلح قوم ولّوا أمرهم امرأة» and its extension to female judges. al-Jalālayn: «بتفضيله لهم عليهن بالعلم والعقل والولاية وغير ذلك».",
+      "FAḌL AS PROVISION ONLY — al-Ṭabarī: «بما فضّل الله به الرجال على أزواجهم: من سَوْقهم إليهنّ مهورهن، وإنفاقهم عليهنّ أموالهم، وكفايتهم إياهن مُؤَنهنّ» — the faḍl IS the mahr and the maintenance. (Directly supports the file's 'earned standing' reading; the file never cites it.)",
+      "QĀNITĀT = OBEDIENT TO HUSBANDS — al-Ṭabarī: «وقوله: قانتات، يعني: مطيعات لله ولأزواجهن», and his own tarjīḥ after the Abū Hurayrah ḥadīth: «معناه: صالحاتٌ في أديانهن، مطيعاتٌ لأزواجهن، حافظات لهم في أنفسهنّ وأموالهم». Sufyān (9322): «مطيعات لأزواجهن» (husbands only). Ibn Kathīr: '(are Qanitat), obedient to their husbands, as Ibn ʿAbbās and others stated.' al-Jalālayn: «قانتات: مطيعات لأزواجهن». al-Muyassar: «مطيعات لله تعالى ولأزواجهن».",
+      "BIMĀ ḤAFIẒA ALLĀH — a QIRĀʾAH ikhtilāf al-Ṭabarī names and adjudicates: «وأما قوله: بما حفظ الله، فإن القرأة اختلفت في قراءته» — general reading with rafʿ (Allāh as agent: «بحفظ الله إياهن إذ صيَّرهن كذلك»), vs Abū Jaʿfar Yazīd b. al-Qaʿqāʿ's naṣb reading (اللهَ as object: «بحفظهنّ اللهَ في طاعته»), which al-Ṭabarī rejects as shādhdh. Ibn Kathīr gives a third: «المحفوظ من حفظ الله» — 'the protected [husband] is the one whom Allah protects.' al-Jalālayn a fourth: «بما حفظ لهنّ الله حيث أوصى عليهنّ الأزواج».",
+      "KHAWF = ʿILM — al-Ṭabarī opens with «اختلف أهل التأويل في معنى قوله: واللاتي تخافون نشوزهن. فقال بعضهم: معناه: واللاتي تعلمون نشوزهن», with two poetic shawāhid where أخاف = أعلم / ما خفت = ما ظننت. Ibn Kathīr's own rendering: 'those women on whose part you SEE ill conduct.' al-Jalālayn: «بأن ظهرت أمارته».",
+      "HAJR — a FOUR-WAY ikhtilāf: «قال أبو جعفر: اختلف أهل التأويل في تأويل ذلك» — (1) abandoning intercourse while sharing the bed [Ibn ʿAbbās, Saʿīd b. Jubayr, al-Suddī, al-Ḍaḥḥāk]; (2) abandoning speech, not the bed [Ibn ʿAbbās via Abū al-Ḍuḥā, ʿIkrimah]; (3) not approaching the bed at all [Mujāhid, al-Shaʿbī, Ibrāhīm, Muqsim, al-Ḥasan, Qatādah]; (4) speaking to them harshly — hujr = obscene/rough speech — without abandoning intercourse [Ibn ʿAbbās via Abū Ṣāliḥ, ʿIkrimah, Sufyān]. al-Ṭabarī rejects ALL FOUR and adopts a fifth: hajr from al-hijār, the rope used to hobble a camel — «فأولى الأقوال بالصواب في ذلك أن يكون قوله: واهجروهن، موجَّهًا معناه إلى معنى الرّبط بالهجار ... فاستوثقوا منهنّ رباطًا في مضاجعهن» — bind them fast in their homes. (The editor records Ibn al-ʿArabī's rebuke: «يا لها هفوة من عالم بالقرآن والسنة».) al-Jalālayn/al-Muyassar hold the bed-withdrawal reading.",
+      "ḌARB — al-Ṭabarī's own gloss: «فشدّوهن وثاقًا في منازلهن، واضربوهن ليؤبن إلى الواجب عليهن». He then argues from ʿIkrimah's marfūʿ report «اضربوهن إذا عصينكم في المعروف ضربًا غير مبرّح» that the Prophet ordered ḍarb WITHOUT ordering hajr first: «فكلّ هؤلاء الذين ذكرنا قولهم: لم يوجبوا للهجر معنى غير الضرب». Separately he reports the near-unanimous qualification ghayr mubarriḥ from Saʿīd b. Jubayr, al-Shaʿbī, Ibn ʿAbbās, al-Ḥasan, Qatādah, ʿAṭāʾ, ʿIkrimah, al-Suddī, Muḥammad b. Kaʿb — and Ibn ʿAbbās's «بالسواك ونحوه» (with a toothstick or the like). Ibn ʿAbbās also: «ولا تكسر لها عظمًا».",
+      "TABGHŪ = SEEK/REQUEST (neutral) — al-Ṭabarī: «ومعنى قوله: فلا تبغوا، لا تلتمسوا ولا تطلبوا، من قول القائل: بغَيتُ الضالة، إذا التمستها» (as one seeks a stray animal). al-Jalālayn: «فلا تبغوا: تطلبوا ... طريقًا إلى ضربهن ظلمًا».",
+      "ASBĀB — al-Ṭabarī, five chains (9304-9309): a man struck his wife, she came to the Prophet ﷺ, «فأراد أن يُقِصّها منه» — he intended to award her qiṣāṣ — then the ayah came down and he said «أردتُ أمرًا وأراد الله غيرَه» (I intended one thing and Allah intended another). Followed by al-Zuhrī: «ليس بين الرجل وامرأته قصاص فيما دون النفس».",
+      "AṬAʿNAKUM = coming to the bed — Ibn ʿAbbās (9397): «إذا أطاعته، فليس له عليها سبيل إذا ضاجعته»; al-Thawrī (9399): «إن أتت الفراش وهي تبغضه»; Mujāhid (9401). Also Sufyān (9400): «لا يكلفها أن تحبه، لأن قلبها ليس في يديها»."
+    ],
+    "positions_missing_from_file": [
+      "Qiwāmah as imārah / taʾdīb / nāfidh al-amr — al-Ṭabarī's and Ibn Kathīr's plain reading. Absent, and actively denied.",
+      "Ibn Kathīr's faḍl-as-superiority reading with its prophethood/leadership/judgeship corollaries and the «لن يفلح قوم» ḥadīth. Absent entirely.",
+      "al-Ṭabarī's reduction of the faḍl to mahr + maintenance (which would have SUPPORTED the file's thesis from the source).",
+      "The qirāʾah ikhtilāf on بما حفظ الله (rafʿ vs naṣb) and al-Ṭabarī's adjudication of it.",
+      "The khawf = ʿilm reading and its shawāhid.",
+      "al-Ṭabarī's rejection of bed-withdrawal and his hijār/binding tarjīḥ — and the fact that a major commentator the file cites four times holds a HARSHER reading than the file reports.",
+      "al-Ṭabarī's argument that ḍarb is not gated behind hajr.",
+      "Ibn ʿAbbās's siwāk and «لا تكسر لها عظمًا» — the strongest source-grounded evidence for the file's own 'symbolic' claim.",
+      "The asbāb detail that the Prophet ﷺ had already awarded qiṣāṣ and that the ayah displaced that ruling («أردتُ أمرًا وأراد الله غيرَه»), plus al-Zuhrī on no qiṣāṣ below homicide.",
+      "That the sources read fa-in aṭaʿnakum concretely as returning to the marital bed."
+    ],
+    "ikhtilaf_now_visible": [
+      "«قال أبو جعفر: اختلف أهل التأويل في تأويل ذلك» on ﴿واهجروهن في المضاجع﴾ — four transmitted positions plus al-Ṭabarī's own fifth (binding with the hijār). Sits at ~72% depth into his 4:34 block; invisible under a 500-char truncation.",
+      "«اختلف أهلُ التأويل في معنى قوله: واللاتي تخافونُ نشوزهن» — khawf as ʿilm (knowledge) vs khawf as apprehension.",
+      "«وأما قوله: بما حفظ الله، فإن القرأة اختلفت في قراءته» — a recorded qirāʾah dispute with al-Ṭabarī's rejection of the naṣb reading.",
+      "al-Ṭabarī vs Ibn Kathīr on what بما فضل الله names: provision (Ṭabarī) vs male superiority in capacity and office (Ibn Kathīr, al-Jalālayn).",
+      "Whether ḍarb presupposes a completed hajr stage (al-Ṭabarī: no) or is the third rung of a strict sequence (al-Jalālayn, al-Muyassar, Ibn Kathīr: yes)."
+    ],
+    "issues": [
+      {
+        "severity": "CRITICAL",
+        "locus": "Part 1 §I and Part 2 Theme 1 — 'does not mean \"men are in charge of women\"' / 'If Allah wanted to say \"men are in authority over women,\" Arabic has a word for that: musayṭirūn (controllers), mutasalliṭūn (those who dominate) ... He used none of these.'",
+        "finding": "The file's central rhetorical move is refuted verbatim by the restored al-Jalālayn gloss, which explains qawwāmūn with precisely that word: «﴿الرجال قوامون﴾ مُسَلَّطُونَ». al-Ṭabarī glosses it «نافذي الأمر عليهن» and «في تأديبهن»; Ibn ʿAbbās «أمراء»; Ibn Kathīr 'her ... leader who disciplines her if she deviates.' The file does not merely omit the authority reading — it argues that Arabic's authority vocabulary was deliberately avoided, when one of the four sources uses that vocabulary as its one-word gloss. The internal Step 0 flag concedes a composite ('the word carries BOTH'), but the reader-visible body denies it."
+      },
+      {
+        "severity": "CRITICAL",
+        "locus": "Part 1 §II — 'al-Ṭabarī and Ibn Kathīr read it as obedience to Allah that includes the rights of the marital contract; others (Ibn ʿArabī, and several modern readers) ... restrict qunūt to its vertical sense. ... it is not reducible to marital submission.'",
+        "finding": "Position attributed to scholars who do not hold it. Ibn Kathīr's gloss is flatly 'obedient to their husbands, as Ibn ʿAbbās and others stated' — no Allah-clause at all. al-Ṭabarī's tarjīḥ is «مطيعاتٌ لأزواجهن». al-Jalālayn: «مطيعات لأزواجهن». Sufyān: husbands only. None of the four sources restricts qunūt here to the vertical sense, and the 'others' camp (Ibn ʿArabī) is unsupported anywhere in the report. The file has inverted the recorded weighting."
+      },
+      {
+        "severity": "CRITICAL",
+        "locus": "Part 1 §II — 'Reading two: the women guard the unseen in the manner that Allah has guarded' presented as one of two classical readings.",
+        "finding": "No source in the report records a 'in the manner that Allah guarded' reading. The actual second recorded reading is a qirāʾah variant (naṣb: they guard Allah's command), which al-Ṭabarī names and rejects; Ibn Kathīr gives a different third («المحفوظ من حفظ الله»); al-Jalālayn a fourth (Allah guarded THEM by enjoining the husbands). An invented reading is presented as classical while the documented dispute is suppressed."
+      },
+      {
+        "severity": "CRITICAL",
+        "locus": "Part 2 Theme 2 — 'the verb is takhāfūna — \"you (all) fear.\" Not \"you (all) see\" or \"you (all) know.\"'",
+        "finding": "Directly contradicted. al-Ṭabarī's first recorded position on this exact clause is «فقال بعضهم: معناه: واللاتي تعلمون نشوزهن» — 'you KNOW their nushūz' — argued at length with two poetic shawāhid. Ibn Kathīr's own rendering is 'on whose part you SEE ill conduct.' The file denies, as a linguistic fact, the reading two of its four sources adopt, and builds its 'intervene early, at the stage of fear' argument on that denial."
+      },
+      {
+        "severity": "CRITICAL",
+        "locus": "Internal Step 0 flags, ABSENCE entry — 'Many classical scholars (including al-Ṭabarī, Ibn ʿArabī, and others) read it as the absolute last resort, symbolic rather than punitive.'",
+        "finding": "Fabricated attribution. al-Ṭabarī nowhere reads ḍarb as symbolic or as a last resort; his own gloss is «فشدّوهن وثاقًا في منازلهن، واضربوهن», and he argues from ʿIkrimah's marfūʿ report that the Prophet ordered ḍarb without a prior hajr stage. Ibn al-ʿArabī is on record rebuking al-Ṭabarī on this very passage, not joining him. The 'symbolic' claim IS supportable — from Ibn ʿAbbās's «السواك ونحوه» — which the file never cites."
+      },
+      {
+        "severity": "MODERATE",
+        "locus": "Part 2 Theme 2 — 'wa-hjurūhunna fī al-maḍājiʿi (forsake them in bed)' treated as settled, and 'the escalation is sequential, not elective ... Each step must fail before the next is attempted.'",
+        "finding": "A four-way ikhtilāf settled silently: «قال أبو جعفر: اختلف أهل التأويل في تأويل ذلك». al-Ṭabarī rejects every transmitted reading including the file's, and adopts binding-with-a-rope; he further holds ḍarb is not gated behind hajr. The file's escalation-as-constraint argument is the majority reading (al-Jalālayn «اعتزلوا إلى فراش آخر»; al-Muyassar; Ibn Kathīr) but it is a reading, not the record. On an aḥkām verse this is the one place a hostile reader will bring al-Ṭabarī, and the file leaves itself undefended."
+      },
+      {
+        "severity": "MODERATE",
+        "locus": "Part 1 §III / Part 2 Theme 2 — 'the word tabghū ... uses the root ب-غ-ي, the same root the Quran uses for oppression, injustice, and tyranny throughout. Baghy is what Firʿawn did ... That pressing has a name, and the name is the same word I use for tyrants.'",
+        "finding": "Interpretive extension presented as lexical fact, contradicted in situ. al-Ṭabarī glosses this very word neutrally: «لا تلتمسوا ولا تطلبوا، من قول القائل: بغَيتُ الضالة، إذا التمستها» — the idiom for seeking a lost animal, with a poetic shāhid. al-Jalālayn likewise «تطلبوا». Neither reads tyranny into the verb; both locate the ẓulm in the object clause («طريقًا إلى ضربهن ظلمًا»), not the root. The substance survives; the claim about the word does not."
+      },
+      {
+        "severity": "MODERATE",
+        "locus": "Part 1 §I — 'The first condition is descriptive — Allah distributed capacities.'",
+        "finding": "Neither source says 'distributed capacities.' Ibn Kathīr and al-Jalālayn read faḍl as men's superiority in capacity and office (knowledge, intellect, wilāyah, prophethood, leadership, judgeship); al-Ṭabarī reads it as the mahr and maintenance. The file's neutral-distribution gloss is a third thing, documented nowhere, and it happens to be the only one that avoids both source positions."
+      },
+      {
+        "severity": "MODERATE",
+        "locus": "Part 2 Theme 2 — 'Classical scholars defined nushūz as a serious breach of the marital covenant that threatens the structure of the family — not a disagreement, not a difference of opinion.'",
+        "finding": "The recorded definitions are narrower and more concrete: al-Ṭabarī «استعلاءَهن على أزواجهن، وارتفاعهن عن فُرُشهم بالمعصية»; al-Suddī «بغضهن» (her dislike); Ibn Zayd «معصيته وخِلافه»; Ibn ʿAbbās «تستخفّ بحق زوجها ولا تطيع أمره»; Muḥammad b. Kaʿb «خِفّة في بَصرها، ومدخلَها ومخرجَها»; Mujāhid: refusing the husband's bed. Also absent is ʿAṭāʾ's reciprocal note «أن تحبَّ فراقَه، والرجلُ كذلك» — nushūz runs both ways — which the file would have wanted."
+      },
+      {
+        "severity": "MODERATE",
+        "locus": "Introduction / Part 2 — the asbāb al-nuzūl is confined to the internal Step 0 block and attributed to 'Abu Dawud and others'; the reader-visible body omits it.",
+        "finding": "al-Ṭabarī carries it with five chains and a detail the file omits entirely: the Prophet ﷺ had already awarded the wife qiṣāṣ against her husband, and on the ayah's arrival said «أردتُ أمرًا وأراد الله غيرَه». al-Zuhrī's «ليس بين الرجل وامرأته قصاص فيما دون النفس» follows immediately. Withholding this from the body leaves the file weaker, not safer: it is the single most-cited item in adversarial treatments of 4:34, and the file has no answer on the page."
+      },
+      {
+        "severity": "MINOR",
+        "locus": "Part 2 Theme 2 — 'nushūz ... is used in the Quran for land that rises unevenly (2:259)'",
+        "finding": "The lexical point is sound (al-Ṭabarī: «وأصل النشوز الارتفاع. ومنه قيل للمكان المرتفع من الأرض: نَشْز ونَشَاز»), but 2:259 uses ننشرها/نُنشِزُها of reviving bones, not of land; the land sense is lexical, not a 2:259 usage. The report's own 2:259 section is present and does not support the citation."
+      }
+    ],
+    "summary": "The most adversarially-quoted ayah on the site, and the untruncated report shows the file has systematically softened it in one direction. Four CRITICALs: (1) the file's headline argument — that Arabic's authority vocabulary was deliberately avoided — is refuted by al-Jalālayn's one-word gloss «مُسَلَّطُونَ», the exact root the file says was not used; (2) al-Ṭabarī and Ibn Kathīr are credited with a qānitāt reading neither holds (both read obedience to husbands); (3) a second 'classical reading' of بما حفظ الله is invented while the actual recorded qirāʾah dispute is suppressed; (4) 'Not \"you know\"' denies the first position al-Ṭabarī records. Plus a fabricated attribution of a symbolic-ḍarb reading to al-Ṭabarī, who in fact glosses the passage as bind-then-strike and argues ḍarb is not gated behind hajr. The direction of every error is the same — comfort — and each one is a place where a hostile reader with a Ṭabarī PDF wins. The material that would have made the file both accurate and stronger (Ibn ʿAbbās's siwāk and no-broken-bones, al-Ṭabarī reducing the faḍl to maintenance, ʿAṭāʾ on reciprocal nushūz, the displaced qiṣāṣ ruling) is all in the restored text and all unused."
+  },
+  {
+    "path": "content/tadabbur/009-at-tawbah/ayah-005.md",
+    "report": "content/tadabbur/009-at-tawbah/tafsir-report-004-006.md (sections 9:4, 9:5, 9:6 — no tafsir-report-005.md exists; 9:5 is covered by the 004-006 passage report)",
+    "verdict": "CRITICAL",
+    "quranic_text_check": "PASS — frontmatter arabic and the inline [ayah:9:5] block match `node scripts/canonical-verse.mjs 9 5` exactly. The 36:37 citation «نسلخ منه النهار» is accurate.",
+    "positions_recorded_by_sources": [
+      "TAWBAH = CONVERSION TO ISLAM — al-Ṭabarī: «فإن تابوا، يقول: فإن رجعوا عما نهاهم عليه من الشرك بالله وجحود نبوة نبيه محمد ﷺ، إلى توحيد الله وإخلاص العبادة له ... والإقرار بنبوة محمد ﷺ». al-Muyassar: «فإن رجعوا عن كفرهم ودخلوا الإسلام والتزموا شرائعه». al-Jalālayn: «فإن تابوا: من الكفر». Anas via al-Rabīʿ (16475): «توبتهم، خلع الأوثان، وعبادة ربهم، وإقام الصلاة، وإيتاء الزكاة».",
+      "THE OBJECTIVE IS ISLAM OR DEATH — al-Jalālayn: «واحصروهم في القِلاع والحصون حتى يُضطَرُّوا إلى القَتل أو الإسلام». Ibn Kathīr: 'so that what is made wide looks ever smaller to them. This way, they will have no choice, but to die or embrace Islam.' Qatādah (16473): «وأمره بقتالهم حتى يشهدوا أن لا إله إلا الله، وأن محمدًا رسول الله، وأن لا يقبل منهم إلا ذلك».",
+      "EXPANSIVE / TREATY-ABROGATING READINGS — Ibn Kathīr: al-Ḍaḥḥāk b. Muzāḥim, 'It abrogated every agreement of peace between the Prophet ﷺ and any idolator, every treaty, and every term'; al-ʿAwfī from Ibn ʿAbbās, 'No idolator had any more treaty or promise of safety ever since Sūrah Barāʾah was revealed.' Ibn Kathīr also records Abū Bakr using this ayah as proof for fighting the zakāh-withholders, and the Ibn ʿUmar ḥadīth «أُمرت أن أقاتل الناس حتى يشهدوا...».",
+      "WHICH MONTHS — a live dispute. al-Ṭabarī holds the ashhur ḥurum are the actual sacred months (Dhū al-Qaʿdah, Dhū al-Ḥijjah, Muḥarram) and that what is meant is the elapsing of Muḥarram alone: «ويعني بالأشهر الحرم، ذا القعدة، وذا الحجة، والمحرم. وإنما أريد في هذا الموضع انسلاخ المحرم وحده», and he flags the dispute: «وقد ذكرنا اختلاف المختلفين في الذين أجِّلوا إلى انسلاخ الأشهر الحرم». Against this, Mujāhid, ʿAmr b. Shuʿayb, al-Suddī, Ibn Zayd, Ibn Isḥāq (and Ibn Kathīr) identify them with the four tasyīḥ months of 9:2.",
+      "INSALAKHA = SIMPLY ELAPSED — al-Ṭabarī: «فإذا انقضى ومضى وخرج ... سلخنا شهر كذا نسلَخه سَلْخًا وسُلُوخًا، بمعنى: خرجنا منه. ومنه قولهم: شاة مسلوخة، بمعنى المنزوعة من جلدها». al-Jalālayn: «﴿فإذا انسلخ﴾ خرج».",
+      "NASKH IKHTILĀF — al-Ṭabarī: «واختلفت في حكم هذه الآية، وهل هو منسوخ أو هو غير منسوخ؟» — al-Ḍaḥḥāk and al-Suddī: ﴿فاقتلوا المشركين﴾ was abrogated by 47:4 ﴿فإما منًّا بعد وإما فداء﴾; Qatādah: the reverse — 9:5 abrogated 47:4's ransom/clemency option; Ibn Zayd on 9:6: «وليس هذا بمنسوخ». al-Ṭabarī's tarjīḥ: nothing is abrogated, and «وخذوهم للقتل أو المنِّ أو الفداء» — seize them for killing, clemency, OR ransom.",
+      "AL-ṬABARĪ ON KHALLŪ SABĪLAHUM — «فدعوهم يتصرفون في أمصاركم، ويدخلون البيت الحرام» — let them move freely in your lands and enter the Sacred House; and 9:2's ḥurum are 'ḥurum' because «حرّم على المؤمنين فيها دماءَ المشركين» (Mujāhid, ʿAmr b. Shuʿayb).",
+      "9:6 ASYLUM IS REAL AND CONCRETE — al-Ṭabarī: «ثم رُدَّه بعد سماعه كلام الله إن هو أبَى أن يسلم ... إلى حيث يأمن منك وممن في طاعتك، حتى يلحق بداره وقومه من المشركين». Mujāhid, Ibn Isḥāq, al-Suddī concur; Ibn Kathīr extends it to envoys, traders, treaty-negotiators."
+    ],
+    "positions_missing_from_file": [
+      "That all four sources read fa-in tābū as conversion to Islam (leaving shirk, affirming Muḥammad's prophethood) — not as a generic 'repentance' from treaty-breaking.",
+      "al-Jalālayn's «حتى يُضطَرُّوا إلى القَتل أو الإسلام» and Ibn Kathīr's 'no choice but to die or embrace Islam' — the recorded objective of the siege.",
+      "Qatādah's «وأن لا يقبل منهم إلا ذلك» — nothing but the shahādah is accepted.",
+      "al-Ḍaḥḥāk's and al-ʿAwfī/Ibn ʿAbbās's treaty-abrogating readings, and Abū Bakr's use of the ayah against the zakāh-withholders.",
+      "The whole naskh ikhtilāf (9:5 ↔ 47:4, in both directions) and al-Ṭabarī's tarjīḥ that neither abrogates.",
+      "al-Ṭabarī's position that the ashhur ḥurum here are the sacred months proper, not the 9:2 amnesty — the reading on which the file's central 'clock' image depends.",
+      "al-Ṭabarī's «وخذوهم للقتل أو المنِّ أو الفداء» and «فدعوهم يتصرفون في أمصاركم، ويدخلون البيت الحرام» — two source-grounded mercy data the file's thesis needed and never uses."
+    ],
+    "ikhtilaf_now_visible": [
+      "«واختلفت في حكم هذه الآية، وهل هو منسوخ أو هو غير منسوخ؟» — a three-way naskh dispute with al-Ṭabarī's tarjīḥ. The file asserts the classical debate was about takhṣīṣ and fencing; the recorded debate is about abrogation, and in Qatādah's direction it runs the OTHER way (9:5 removing 47:4's clemency option).",
+      "«وقد ذكرنا اختلاف المختلفين في الذين أجِّلوا إلى انسلاخ الأشهر الحرم» + al-Ṭabarī's «إنما أريد في هذا الموضع انسلاخ المحرم وحده» vs the Mujāhid/al-Suddī/Ibn Kathīr identification with 9:2's four months.",
+      "Whether 9:6's asylum ruling is itself abrogated (Ibn Zayd: «وليس هذا بمنسوخ»; others held otherwise) — the file presents 9:6 as an uncontested restriction on 9:5."
+    ],
+    "issues": [
+      {
+        "severity": "CRITICAL",
+        "locus": "'Rebuilding the world' — 'This is not a verse about belief. It is a verse about a battlefield with named participants.'",
+        "finding": "Contradicted by all four commentators. al-Ṭabarī defines tābū as abandoning shirk for tawḥīd and affirming Muḥammad's prophethood; al-Muyassar «رجعوا عن كفرهم ودخلوا الإسلام»; al-Jalālayn «من الكفر»; Ibn Kathīr and al-Jalālayn both state the siege continues 'until they are forced to death or Islam'; Qatādah says nothing but the shahādah is accepted. The battlefield framing is true and important, but the flat denial that belief is in play is a claim the sources refuse — and it is the claim on which the file's entire reframing rests."
+      },
+      {
+        "severity": "CRITICAL",
+        "locus": "'Four verbs of pursuit, one word of release' — 'al-Ṭabarī and al-Qurṭubī read these not as an inquisition into the soul but as the visible threshold of re-entry ... your inner state is between you and God. The bar to safety is set deliberately low.'",
+        "finding": "Attribution al-Ṭabarī does not hold. His gloss on the condition is doctrinal content, not a public-marker test: «فإن رجعوا عما نهاهم عليه من الشرك بالله وجحود نبوة نبيه محمد ﷺ، إلى توحيد الله وإخلاص العبادة له دون الآلهة والأنداد، والإقرار بنبوة محمد ﷺ». Nothing in the report says 'not an inquisition into the soul,' and no al-Qurṭubī material exists in it. By classical reckoning the bar is not low — it is full entry into Islam. The framing is the file's; the citation is borrowed authority."
+      },
+      {
+        "severity": "CRITICAL",
+        "locus": "'The amnesty inside the ultimatum' — 'the central scholarly debate around this verse was never whether it was bounded — it was how to name the bounds ... Not one of them read it as the open-ended fragment now does.'",
+        "finding": "Falsified by the restored text and by a recorded position the file denies exists. Ibn Kathīr transmits al-Ḍaḥḥāk b. Muzāḥim: the ayah 'abrogated every agreement of peace between the Prophet ﷺ and any idolator, every treaty, and every term,' and al-ʿAwfī from Ibn ʿAbbās that no idolator retained any treaty or safety after Barāʾah. al-Ṭabarī's recorded debate is not about takhṣīṣ at all but about naskh — and in Qatādah's version 9:5 abrogates 47:4, i.e. it REMOVES the ransom/clemency option rather than being fenced by it. A file whose thesis is 'read it whole' cannot assert a classical unanimity the sources contradict on the same page."
+      },
+      {
+        "severity": "MODERATE",
+        "locus": "'The skin that has to be shed' — 'Notice the verb. Not intahā (ended). Not maḍā (passed).'",
+        "finding": "al-Ṭabarī glosses insalakha with exactly the words the file excludes: «فإذا انقضى ومضى وخرج»; al-Jalālayn «خرج». His lexical illustration is «شاة مسلوخة» — a flayed sheep, something skinned by another — not a snake self-shedding, and it carries none of the 'a layer of mercy coming off on its own, not torn early' freight the file loads onto it. The Form VII identification and the 36:37 parallel are correct; the semantic contrast is the file's construction, denied in situ."
+      },
+      {
+        "severity": "MODERATE",
+        "locus": "passage_context and 'Rebuilding the world' — 'when the sacred months have been stripped away' read as the expiry of 9:2's four-month amnesty, presented as settled.",
+        "finding": "An ikhtilāf al-Ṭabarī flags and decides the other way: «ويعني بالأشهر الحرم، ذا القعدة، وذا الحجة، والمحرم ... وإنما أريد في هذا الموضع انسلاخ المحرم وحده», with the cross-reference «وقد ذكرنا اختلاف المختلفين في الذين أجِّلوا إلى انسلاخ الأشهر الحرم». The file's 'the verse begins with a clock' image is built on the Mujāhid/al-Suddī/Ibn Kathīr reading; on al-Ṭabarī's, the clause names the sacred calendar, not the amnesty, and the rhetorical architecture weakens."
+      },
+      {
+        "severity": "MODERATE",
+        "locus": "'Mercy as the last word' — 9:6 presented as the passage's uncontested closing instruction.",
+        "finding": "al-Ṭabarī records an explicit dispute over whether 9:6's ruling stands or is abrogated («واختلفت في حكم هذه الآية، وهل هو منسوخ أو هو غير منسوخ؟»), which he resolves in the file's favour («ليس ذلك بمنسوخ»). Settling it silently forfeits the strongest thing available: al-Ṭabarī's own tarjīḥ, and his «وخذوهم للقتل أو المنِّ أو الفداء» — the sources' own limitation on the imperative, unused."
+      },
+      {
+        "severity": "MINOR",
+        "locus": "'Four verbs of pursuit' — the four imperatives read as 'a war being decisively ended.'",
+        "finding": "al-Ṭabarī's glosses are more specific and more severe: «وخذوهم: وأسروهم؛ واحصروهم: وامنعوهم من التصرف في بلاد الإسلام ودخول مكة؛ واقعدوا لهم بالطلب لقتلهم أو أسرهم». Ibn Zayd adds «لا تتركوهم يضربون في البلاد، ولا يخرجوا لتجارة، ضيِّقوا عليهم». Not wrong, but the file's paraphrase is a softening where quoting would have cost nothing."
+      }
+    ],
+    "summary": "The file is well-built and its 'read it whole' method is right, but it defends the verse with claims the sources do not license — and on this verse that is a structural weakness, not a stylistic one. Three CRITICALs: 'not a verse about belief' is denied by all four commentators, who read fa-in tābū as conversion and the siege's terminus as 'death or Islam'; the 'visible threshold, not an inquisition' reading is attributed to al-Ṭabarī, who says the opposite kind of thing entirely; and 'not one of them read it as the open-ended fragment' is falsified by al-Ḍaḥḥāk's and Ibn ʿAbbās's treaty-abrogating reports sitting in the same report. The genuine classical debate the file could have used — al-Ṭabarī's ruling that nothing here is abrogated, plus «وخذوهم للقتل أو المنِّ أو الفداء» and «فدعوهم يتصرفون في أمصاركم» — is more defensible than the version the file invented, and it is in the restored text."
+  },
+  {
+    "path": "content/tadabbur/005-al-maidah/ayahs-033-034.md",
+    "path_note": "The assigned path content/tadabbur/005-al-maidah/ayah-033.md does not exist; 5:33 is covered by the paired file ayahs-033-034.md.",
+    "report": "content/tadabbur/005-al-maidah/tafsir-report-033-034.md (sections 5:33 = 74.1 KB, 5:34 = 39.5 KB)",
+    "verdict": "CRITICAL",
+    "quranic_text_check": "PASS for the ayah blocks — frontmatter and both [ayah:] lines match `node scripts/canonical-verse.mjs 5 33`. FAIL for one body phrase: see the «إنما جزاؤهم» issue below.",
+    "positions_recorded_by_sources": [
+      "GRADATION (punishment matched to the offence) — al-Ṭabarī's own tarjīḥ: «وأولى التأويلين بالصواب في ذلك عندنا، تأويلُ من أوجب على المحارب من العقوبة على قدر استحقاقه، وجعل الحكم على المحاربين مختلِفًا باختلاف أفعالهم», with the schema from Ibn ʿAbbās, Ibrāhīm, Abū Mijlaz, al-Ḥasan, Qatādah, al-Suddī, Saʿīd b. Jubayr, al-Rabīʿ, ʿAṭiyyah al-ʿAwfī, Muḥammad b. Kaʿb: killed + took property → CRUCIFIXION; killed only → execution; took property only → cross-amputation; merely terrorised the road → nafy. He reads aw here as «التعقيب», not takhyīr.",
+      "TAKHYĪR (the imām freely chooses) — «وقال آخرون: الإمام فيه بالخيار: أن يفعل أيَّ هذه الأشياء التي ذكرَها الله في كتابه» — Mujāhid, Ibrāhīm al-Nakhaʿī («إن شاء قتل، وإن شاء قطع، وإن شاء نفى، وإن شاء صلب»), al-Ḥasan al-Baṣrī, ʿAṭāʾ, Saʿīd b. al-Musayyib, and Ibn ʿAbbās via ʿAlī b. Abī Ṭalḥah (11850): «فإمام المسلمين فيه بالخيار: إن شاء قتله، وإن شاء صلبه، وإن شاء قطع يده ورجلَه». Their argument: every Quranic aw in an obligation means choice — 5:89, 2:196, 5:95. Ibn Kathīr transmits this camp too and adds: 'This view is supported by the fact that the word Aw (or), indicates a choice ... All of these Ayat offer a choice, just as the Ayah above.'",
+      "WHO IS A MUḤĀRIB — three positions: (a) the highway robber only — Qatādah, ʿAṭāʾ al-Khurāsānī; and explicitly «وممن قال ذلك أبو حنيفة وأصحابه»: «المحارب هو قاطع الطريق. فأما المكابر في الأمصار، فليس بالمحارب الذي له حكم المحاربين»; (b) also armed robbery inside the city — al-Awzāʿī, Mālik («والمحارب عندنا من حمل السلاح على المسلمين في مصرٍ أو خلاء»), al-Layth, Ibn Lahīʿah, and al-Shāfiʿī; Mālik adds qatl al-ghīlah, with no ʿafw or qawad for the victim's heir; (c) Mujāhid, far broader: «الزنا، والسرقة، وقتل الناس، وإهلاك الحرث والنسل». al-Ṭabarī's tarjīḥ: both road and city.",
+      "WHOM THE AYAH IS ABOUT — «ثم اختلف أهل التأويل فيمن نزلت هذه الآية»: a covenanted group of ahl al-kitāb; a group of mushrikīn; the ʿUraynah/ʿUkl apostates. al-Ṭabarī's tarjīḥ: revealed after the ʿUraynah episode, but «حكم من حارب الله ورسوله وسَعى في الأرض فسادًا من أهل ذمَّتنا وملَّتنا واحد» — and at 5:34 he argues from the exception clause that the ruling addresses Muslims and dhimmīs, «دون من سواهم من مشرِكي أهل الحرب». Ibn Kathīr takes the opposite tarjīḥ: 'this Ayah is general in meaning and includes the idolators and all others.'",
+      "THE ʿURAYNAH SABAB AND THE ʿITĀB DEBATE — «وقد اختلف أهل العلم في نسخ حكم النبي ﷺ في العرنيين»: some held the Prophet's saml (gouging their eyes) was abrogated by this ayah, revealed «عِتابًا لرسول الله ﷺ فيما فعل بالعُرَنيين» (Muḥammad b. ʿAjlān, via al-Layth); al-Awzāʿī rejected the rebuke reading; a third group (al-Suddī) held he intended saml and was forbidden it. Anas's own account (11854) lists their crimes as apostasy, killing the herder, driving off the camels, terrorising the road, and «أصابُوا الفرجَ الحرام».",
+      "NAFY — «واختلف أهل التأويل في معنى النفي الذي ذكر الله في هذا الموضع»: (a) being hunted until caught or until he flees dār al-islām — al-Suddī, Ibn ʿAbbās, Anas, al-Ḍaḥḥāk, al-Ḥasan, al-Zuhrī, Qatādah, al-Layth, Mālik; (b) banishment by the imām from one town to another — Saʿīd b. Jubayr, and ʿUmar b. ʿAbd al-ʿAzīz's rebuke to Ḥayyān b. Surayj for omitting the clause: «فنبيٌّ أنت، يا حيّان!! لا تحرّك الأشياء عن مواضِعها»; (c) imprisonment (al-ḥabs). Ibn Kathīr carries all three.",
+      "5:34 — a FIVE-WAY ikhtilāf: «قال أبو جعفر: اختلف أهل التأويل في تأويل ذلك». (1) The exception is for MUSHRIKŪN who convert only; a Muslim brigand's tawbah does not lift the ḥadd — ʿIkrimah and al-Ḥasan al-Baṣrī: «نزلت هذه الآية في المشركين ... وليس تُحْرِز هذه الآية الرجلَ المسلم من الحدِّ»; also Mujāhid, Qatādah, ʿAṭāʾ al-Khurāsānī, al-Ḍaḥḥāk, Ibn ʿAbbās. (2) It covers Muslim brigands who obtain amān from the imām — al-Suddī (11882), Makḥūl. (3) It covers anyone who comes repentant, amān or not — ʿAlī b. Abī Ṭālib pardoning Ḥārithah b. Badr, Abū Mūsā, Abū Hurayrah with ʿAlī al-Asadī, ʿAṭāʾ, Mālik, al-Awzāʿī, al-Layth, al-Zuhrī. (4) Only if he first fled to dār al-kufr; ʿUrwah: «لا تقبل توبته، لو قبل ذلك منهم اجترأوا عليه، وكان فسادًا كبيرًا». (5) al-Shāfiʿī: tawbah drops ḥadd Allāh but not human claims — «تضع توبته عنه حدَّ الله الذي وجب عليه بمحاربته، ولا يسقط عنه حقوق بني آدم»; al-Jalālayn concurs and adds «ولا تفيد توبته بعد القدرة عليه شيئًا». al-Ṭabarī's tarjīḥ: only the mumtaniʿ (one able to hold out alone or with a band) — his tawbah drops the dunyā consequences; the sneak-thief or lone armed robber who cannot hold out gets the ḥadd, tawbah or not."
+    ],
+    "positions_missing_from_file": [
+      "The takhyīr position entirely — recorded from Mujāhid, Ibrāhīm al-Nakhaʿī, al-Ḥasan, ʿAṭāʾ, Saʿīd b. al-Musayyib and Ibn ʿAbbās, argued from Quranic aw-parallels, and transmitted approvingly by Ibn Kathīr.",
+      "Abū Ḥanīfah's explicit restriction of muḥārib to the highway robber, excluding the urban armed robber — i.e. the madhhabs disagree on the crime's definition, not only its penalty.",
+      "Mālik's extension to qatl al-ghīlah with no pardon or qawad for the heir.",
+      "Mujāhid's broad fasād reading (zinā, theft, killing, destroying crops and progeny), which requires neither armed force nor public terror.",
+      "The ʿUraynah sabab's actual content (apostasy, and the Prophet's saml) and the recorded ʿitāb/naskh dispute over it.",
+      "The nafy ikhtilāf — pursuit vs internal banishment vs imprisonment — and ʿUmar b. ʿAbd al-ʿAzīz's rebuke for dropping the clause.",
+      "The dominant recorded restriction of 5:34's exception to converting mushrikūn, and al-Ṭabarī's own restriction of it to the mumtaniʿ.",
+      "al-Shāfiʿī's and al-Jalālayn's position that tawbah lifts only ḥudūd Allāh, not victims' claims — and al-Jalālayn's «لا تفيد توبته بعد القدرة عليه شيئًا».",
+      "al-Ṭabarī vs Ibn Kathīr on scope: Muslims-and-dhimmīs-only (Ṭabarī) vs general including idolators (Ibn Kathīr)."
+    ],
+    "ikhtilaf_now_visible": [
+      "«ثم اختلف أهل التأويل في هذه الخلال، أتلزم المحاربَ باستحقاقه اسم المحاربة، أم يلزمه ما لزمه من ذلك على قدر جُرْمه؟» — gradation vs takhyīr, ~10 pages of transmitted material in al-Ṭabarī plus his own rebuttal of the aw-means-choice argument.",
+      "«واختلف أهل العلم في المستحق اسم المحارب لله ورسوله» — Abū Ḥanīfah vs Mālik/al-Shāfiʿī/al-Awzāʿī/al-Layth on whether urban armed robbery counts, plus Mujāhid's much wider fasād.",
+      "«ثم اختلف أهل التأويل فيمن نزلت هذه الآية» and «وقد اختلف أهل العلم في نسخ حكم النبي ﷺ في العرنيين» — including whether the ayah was revealed as a rebuke of the saml.",
+      "«واختلف أهل التأويل في معنى النفي» — pursuit / banishment / imprisonment.",
+      "«اختلف أهل التأويل في تأويل ذلك» on 5:34 — five positions on who the exception reaches and what it lifts, with al-Ṭabarī's mumtaniʿ tarjīḥ."
+    ],
+    "issues": [
+      {
+        "severity": "CRITICAL",
+        "locus": "§1b — 'the four classical schools — Mālikī, Ḥanafī, Shāfiʿī, and Ḥanbalī — all read the four punishments listed ... not as a menu the judge chooses from at will, but as a graduated specification ... The text's \"or\" (aw) is read as juridical correspondence to the gradation of the crime, not as judicial caprice.'",
+        "finding": "A claimed four-madhhab unanimity that the sources contradict, and a recorded position denied outright. al-Ṭabarī devotes a full section to «وقال آخرون: الإمام فيه بالخيار: أن يفعل أيَّ هذه الأشياء التي ذكرَها الله في كتابه», naming Mujāhid, Ibrāhīm al-Nakhaʿī, al-Ḥasan al-Baṣrī, ʿAṭāʾ, Saʿīd b. al-Musayyib and Ibn ʿAbbās, and reports their argument from 5:89, 2:196 and 5:95 that aw in an obligation means takhyīr. Ibn Kathīr transmits the same camp from Ibn ʿAbbās via ʿAlī b. Abī Ṭalḥah and endorses the reasoning: 'This view is supported by the fact that the word Aw (or), indicates a choice ... All of these Ayat offer a choice, just as the Ayah above.' Gradation is al-Ṭabarī's tarjīḥ — one side of a named dispute — not a consensus, and the imām's discretion is the position of a majority of the early authorities cited. The file's 'not judicial caprice' sentence is precisely the position it says nobody held."
+      },
+      {
+        "severity": "CRITICAL",
+        "locus": "§4 and Theme 2 — 5:34's exception presented without qualification as 'one of the most important merciful openings in the legal-moral passages of the Qur'an,' with Theme 2 built entirely on a general application.",
+        "finding": "A five-way ikhtilāf suppressed, including the position held by the largest group of cited authorities. ʿIkrimah and al-Ḥasan al-Baṣrī: «نزلت هذه الآية في المشركين ... وليس تُحْرِز هذه الآية الرجلَ المسلم من الحدِّ إن قتل، أو أفسد في الأرض»; Mujāhid: «هذا لأهل الشرك»; likewise Qatādah, ʿAṭāʾ al-Khurāsānī, al-Ḍaḥḥāk, Ibn ʿAbbās. ʿUrwah goes further: «لا تقبل توبته ... وكان فسادًا كبيرًا». al-Shāfiʿī and al-Jalālayn limit the effect to ḥudūd Allāh, not victims' claims, and al-Jalālayn adds «ولا تفيد توبته بعد القدرة عليه شيئًا». al-Ṭabarī restricts it to the mumtaniʿ. Nothing of this appears; the file presents the widest possible reading as the ayah's plain meaning on an aḥkām verse."
+      },
+      {
+        "severity": "CRITICAL",
+        "locus": "§1b — 'using this ayah to justify executions of journalists, activists, or apostates is a category error that has been condemned by classical jurists for centuries.'",
+        "finding": "Fabricated consensus. No source in the report condemns anything of the kind, and the record cuts against the apostasy half of the claim: al-Ṭabarī's own limiting argument runs through the ḥadīth «لا يحل دَمُ امرئ مسلم إلا بإحدى ثلاث ... ورجل كفر بعد إسلامه», treating apostasy as one of three capital grounds; the ʿUraynah sabab that the file itself invokes describes men who «ارتدُّوا عن الإسلام» before killing and robbing; and one recorded position holds their case distinct precisely because of the apostasy. The journalists/activists point is defensible on the muḥārib definition; the 'condemned by classical jurists for centuries' attribution is not sourced and should not be asserted on a page whose value is that its claims survive checking."
+      },
+      {
+        "severity": "CRITICAL",
+        "locus": "§2 heading and body — '**Innama jaza'uhum** - their recompense is only...' presented as the verse's wording.",
+        "finding": "Arabic presented as Quranic that is not. 5:33 reads ﴿إِنَّمَا جَزَٰٓؤُا۟ ٱلَّذِينَ يُحَارِبُونَ ٱللَّهَ﴾ — jazāʾu + a relative clause. There is no جزاؤهم with a pronoun suffix anywhere in the ayah (confirmed against `node scripts/canonical-verse.mjs 5 33`). The transliteration also appears as a section heading, so it reads as a quotation of the text."
+      },
+      {
+        "severity": "MODERATE",
+        "locus": "§1b — 'if the muḥārib killed and stole, the sentence is execution (with crucifixion as a mark of public deterrence in the gravest cases)'",
+        "finding": "Softens the recorded gradation. In the schema al-Ṭabarī adopts, crucifixion IS the sentence for killing plus taking property, not an optional aggravator: «وإذا قُدر عليه بعد أخذ المال وقتل النفس المحرم قتلُها = الصلب» — with Ibn ʿAbbās, Ibrāhīm, Abū Mijlaz, Qatādah, al-Suddī, Saʿīd b. Jubayr and Muḥammad b. Kaʿb all stating it directly. (al-Jalālayn dissents the other way: «يُقتل ويُقطع ولا يُصلب وهو أصح قولي الشافعي» — also unmentioned.) On this verse, understating the tradition is as much a misrepresentation as overstating it, and it is the version a hostile reader will most easily break."
+      },
+      {
+        "severity": "MODERATE",
+        "locus": "§1b — 'the offense described here has a specific technical name: ḥirābah — armed banditry, highway robbery, terrorizing travelers ... Classical fuqahāʾ require both elements: armed force and the spreading of public terror.'",
+        "finding": "Presents one definition as the tradition's. al-Ṭabarī records three, and the madhhabs split: Abū Ḥanīfah and his companions restrict muḥārib to the highway robber and exclude the urban armed robber («فليس بالمحارب الذي له حكم المحاربين»), while Mālik, al-Shāfiʿī, al-Awzāʿī and al-Layth include him — Mālik extending even to qatl al-ghīlah, luring and killing for property, with no pardon for the heir. Mujāhid's reading («الزنا، والسرقة، وقتل الناس، وإهلاك الحرث والنسل») requires neither of the file's two elements. The 'both elements are required' formula is a modern synthesis, not a recorded consensus."
+      },
+      {
+        "severity": "MODERATE",
+        "locus": "§1b — 'The asbāb al-nuzūl preserved by al-Bukhārī and others identifies the immediate occasion: a group from the tribe of ʿUkl (or ʿUraynah) accepted Islam, were given camels and a herder ... then murdered the herder, stole the camels, and fled.'",
+        "finding": "Settles a three-way asbāb ikhtilāf silently («ثم اختلف أهل التأويل فيمن نزلت هذه الآية» — ahl al-kitāb under covenant / a group of mushrikīn / the ʿUraynīs), and omits both the sabab's actual content and the dispute it generated: the ʿUraynīs apostatised, and the Prophet ﷺ had their hands and feet cut off and their eyes gouged (saml). al-Ṭabarī records a live dispute over whether this ayah was revealed «عِتابًا لرسول الله ﷺ فيما فعل بالعُرَنيين» and abrogated the saml (Muḥammad b. ʿAjlān / al-Layth), whether it stands unabrogated (al-Awzāʿī), or whether he only intended saml and was forbidden it (al-Suddī). The abbreviated version the file gives is the one that collapses fastest on contact with the Bukhārī text."
+      },
+      {
+        "severity": "MODERATE",
+        "locus": "§1b and the punishment list — 'banishment' given as the settled sense of ﴿أو ينفوا من الأرض﴾.",
+        "finding": "«واختلف أهل التأويل في معنى النفي الذي ذكر الله في هذا الموضع» — three positions: relentless pursuit until captured or driven out of dār al-islām (the largest camp: al-Suddī, Ibn ʿAbbās, Anas, al-Ḍaḥḥāk, al-Ḥasan, al-Zuhrī, Qatādah, al-Layth, Mālik); banishment town-to-town within dār al-islām; imprisonment. al-Ṭabarī prefers the first. Ibn Kathīr lists all three. Settled silently."
+      },
+      {
+        "severity": "MODERATE",
+        "locus": "Theme 2 — 'There is something morally luminous in a person turning back while he still could have kept running ... Allah sees the difference between surrender to God and surrender only to circumstance.'",
+        "finding": "Interpretive extension presented as the ayah's own logic, where the recorded rationale is the opposite kind of reason. al-Suddī (11882) has the brigand write to the imām threatening escalation if refused amān — «فإن لم يؤمني على ذلك، ازددت فسادًا وقتلا وأخذًا للأموال أكثر مما فعلت» — and concludes «فعلى الإمام من الحقّ أن يؤمنه ... لكيلا يقتل المؤمنين أيضًا ويفسد»: harm-reduction. al-Ṭabarī's tarjīḥ turns on capacity to hold out (mumtaniʿ), not on moral initiative. The spiritual reading may stand as tadabbur, but it is asserted as what 'the verse dignifies.'"
+      },
+      {
+        "severity": "MINOR",
+        "locus": "Transliteration line 47 — 'an yuqat talu'",
+        "finding": "يُقَتَّلُوا split across a space. Cosmetic, but it appears in the passage's headline transliteration block."
+      }
+    ],
+    "summary": "The file's instinct — anchor the verse in ḥirābah, fence off political abuse — is right, and it is the only one of the three to name the juridical frame at all. But it does so by asserting a unanimity that the untruncated report dismantles. Four CRITICALs: the claim that all four madhhabs reject judicial choice is contradicted by a fully-transmitted takhyīr camp (Mujāhid, Ibrāhīm al-Nakhaʿī, al-Ḥasan, ʿAṭāʾ, Saʿīd b. al-Musayyib, Ibn ʿAbbās) that Ibn Kathīr endorses; 5:34's exception is presented as a general mercy window while the position of most cited authorities — that it reaches only converting mushrikūn — is absent, along with al-Shāfiʿī's ḥudūd-only limit and al-Ṭabarī's mumtaniʿ restriction; 'condemned by classical jurists for centuries' on apostates is unsourced and cuts against al-Ṭabarī's own capital-grounds ḥadīth; and «إنما جزاؤهم» is presented as the verse's words when the verse reads ﴿إِنَّمَا جَزَٰٓؤُا۟ ٱلَّذِينَ﴾. Underneath sit four more silently-settled disputes (who counts as a muḥārib, whom the ayah addresses, the ʿUraynah saml and the ʿitāb debate, the meaning of nafy). Also note the path discrepancy: the assigned ayah-033.md does not exist."
+  }
+]
