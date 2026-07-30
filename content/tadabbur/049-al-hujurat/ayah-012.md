@@ -5,7 +5,7 @@ ayah_end: 12
 category: tadabbur
 title: "The Dead Brother's Flesh — The Ayah That Made the Invisible Sin Visible"
 ayah: "49:12"
-surah: "Al-Hujurat"
+surah: 49
 slug: "49-12-backbiting-dead-brother"
 type: "tadabbur"
 estimatedDuration: "48-56 minutes"

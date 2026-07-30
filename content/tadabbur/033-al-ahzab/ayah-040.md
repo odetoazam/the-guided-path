@@ -5,7 +5,7 @@ ayah_end: 40
 category: tadabbur
 title: "The Seal — Why Prophethood Ended With Him, and What a Seal Actually Is"
 ayah: "33:40"
-surah: "Al-Ahzab"
+surah: 33
 slug: "33-40-khatam-an-nabiyyin-seal"
 type: "tadabbur"
 estimatedDuration: "48-56 minutes"

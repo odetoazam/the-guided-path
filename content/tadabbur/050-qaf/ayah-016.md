@@ -6,7 +6,7 @@ slug: "050-016"
 category: tadabbur
 title: "Closer Than Your Own Pulse — The Ayah That Collapses Every Distance You Thought Existed Between You and Allah"
 ayah: "50:16"
-surah: "Qaf"
+surah: 50
 type: "tadabbur"
 estimated_duration: "48-58 minutes"
 validated: true

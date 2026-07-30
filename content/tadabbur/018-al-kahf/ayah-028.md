@@ -2,7 +2,7 @@
 title: "Bind Yourself to the People Who Want His Face — The Command That Reorganizes Every Relationship You Have"
 ayah_start: 28
 ayah_end: 28
-surah: "Al-Kahf"
+surah: 18
 type: "tadabbur"
 estimated_duration: "48-58 minutes"
 validated: true

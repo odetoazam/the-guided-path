@@ -1,0 +1,206 @@
+[
+  {
+    "path": "content/tadabbur/002-al-baqarah/ayahs-183-187.md",
+    "report": "content/tadabbur/002-al-baqarah/tafsir-report-183-187.md",
+    "verdict": "CRITICAL",
+    "prior_verdict": "CRITICAL — false universal: 'in every other instance where someone asks the Prophet about something, Allah responds with qul' (79:42-43 has no qul)",
+    "prior_still_holds": true,
+    "prior_note": "Partially remediated. The BODY prose (line 166) was already softened to 'The pattern is consistent' with a list of instances, and line 172 now carries an explicit hedge naming al-Muyassar's implied qul. But the false universal survives verbatim in two unrevised locations: the frontmatter `scholarly_note` (line 17) and the internal ABSENCE FLAGS block (line 43). The revision pass fixed the prose and missed the metadata.",
+    "ikhtilaf_now_visible": [
+      "al-Tabari on the sabab al-nuzul of 2:186 opens with the explicit formula 'وقد اختلف فيما أنزلت فيه هذه الآية' and then records FOUR positions: (1) a questioner asked 'أقريبٌ ربنا فنناجيه، أم بعيد فنناديه؟' — near, so we whisper, or far, so we call out; (2) 'وقال آخرون: بل نزلت جوابًا لمسألة قومٍ سَألوا النبي ﷺ: أيّ ساعة يدعون الله فيها؟' — people asking at what HOUR to supplicate, after 40:60, carried by 'Ata' through three chains; (3) 'وقال آخرون: بل نزلت جوابًا لقول قوم قالوا... إلى أين ندعوه' — to WHERE do we call Him (Mujahid); (4) 'وقال آخرون: بل نزلت جوابًا لقوم قالوا: كيف ندعو؟' — HOW do we call (Qatadah). The file presents position (1) as settled fact in both the frontmatter passage_context and the body ('al-Tabari preserves the moment that occasioned these words'), and its entire Element-1 framing — 'The question was about distance; the answer was nearness' — only works on that one reading. On position (2), which al-Tabari paraphrases in his own voice ('فإني منهم قريب في كل وقت'), the question is about TIMING and the answer is availability at every hour, not proximity. The edition's isnad apparatus additionally marks position (1)'s chain 'ضعيف جدًا، منهار الإسناد بكل حال' with al-Sulb b. Hakim and his father and grandfather all majhul.",
+      "al-Tabari on the fidya records three positions, not one developmental story: (a) a general permission later abrogated; (b) 'وقال آخرون: بل كان قوله وعلى الذين يطيقونه فدية طعام مسكين حكمًا خاصًّا للشيخ الكبير والعجوز' — a special licence for the aged, then abrogated by 2:185; (c) 'وقال آخرون ممن قرأ ذلك وعلى الذين يطيقونه، لم ينسخ ذلك ولا شيء منه، وهو حكم مثبتٌ من لدن نزلت هذه الآية إلى قيام الساعة' — nothing of it was abrogated, the ruling stands until the Hour. The file narrates a single 'the permission narrowed' arc without naming the naskh-vs-no-naskh dispute, though its endpoint matches position (c)."
+    ],
+    "issues": [
+      {
+        "severity": "CRITICAL",
+        "locus": "frontmatter scholarly_note (line 17) and internal ABSENCE FLAGS (line 43)",
+        "claim": "'in every other instance in the Quran where someone asks the Prophet about something (yas'alunaka 'an), Allah responds with QUL'",
+        "finding": "False as a universal. 79:42-43 is a verbatim yas'alunaka 'an construction — يَسْـَٔلُونَكَ عَنِ ٱلسَّاعَةِ أَيَّانَ مُرْسَىٰهَا / فِيمَ أَنتَ مِن ذِكْرَىٰهَآ — with no qul anywhere in the passage. Verified against the canonical text. The claim is attributed to 'the scholars (including Ibn Kathir, al-Razi, al-Qurtubi)', which compounds it. The body prose no longer makes the universal claim; the metadata still does."
+      },
+      {
+        "severity": "CRITICAL",
+        "locus": "body line 200 and Form Decision table line 36",
+        "claim": "'this verb is Form X — istajabu — let them SEEK to respond. Not simple response (yujibu) but active, effortful, seeking response... Allah's side is easy — He is near, He responds. But YOUR side requires effort.'",
+        "finding": "False grammatical claim, contradicted head-on by the now-visible al-Tabari. He states the lexical equivalence explicitly: 'وأما قوله فليستجيبوا لي، فإنه يعني: فليستجيبوا لي بالطاعة. يقال منه: استجبت له، واستجبته، بمعنى أجبته' — istajaba MEANS ajaba — and cites Ka'b b. Sa'd al-Ghanawi's verse 'فَلَمْ يَسْتَجِبْهُ عِنْدَ ذَاكَ مُجِيب' glossing it 'يريد: فلم يجبه'. Mujahid: 'فليطيعوا لي... الاستجابة الطاعة'. Ibn al-Mubarak: 'طاعة الله'. The Form X carries no talab/seeking force here. The asymmetry the file builds on it is further falsified by the Quran's own usage: 40:60 ٱدْعُونِىٓ أَسْتَجِبْ لَكُمْ and 3:195 فَٱسْتَجَابَ لَهُمْ رَبُّهُمْ use the identical Form X of ALLAH responding."
+      },
+      {
+        "severity": "MODERATE",
+        "locus": "frontmatter passage_context (line 16) and body line 178",
+        "claim": "'Al-Tabari records the sabab al-nuzul: a man asked the Prophet whether their Lord is near... The ayah descended in answer. The question was about distance; the answer was nearness.'",
+        "finding": "One of four asbab al-Tabari explicitly flags as disputed, presented as the occasion. See ikhtilaf_now_visible[0]."
+      },
+      {
+        "severity": "MODERATE",
+        "locus": "frontmatter arabic (line 7), frontmatter translation (line 8), body line 130, body line 134",
+        "claim": "2:187 quoted as ending at ثُمَّ أَتِمُّوا۟ ٱلصِّيَامَ إِلَى ٱلَّيْلِ",
+        "finding": "2:187 is silently truncated in all four locations — no ellipsis, no note. The canonical ayah continues: وَلَا تُبَـٰشِرُوهُنَّ وَأَنتُمْ عَـٰكِفُونَ فِى ٱلْمَسَـٰجِدِ ۗ تِلْكَ حُدُودُ ٱللَّهِ فَلَا تَقْرَبُوهَا ۗ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ ءَايَـٰتِهِۦ لِلنَّاسِ لَعَلَّهُمْ يَتَّقُونَ. The file declares ayah_end: 187 and presents partial text as the whole ayah. This also costs the file its single best piece of evidence for its own Closing Synthesis ring claim: 2:183 closes لَعَلَّكُمْ تَتَّقُونَ and the dropped tail of 2:187 closes لَعَلَّهُمْ يَتَّقُونَ — a textual inclusio the file never sees because it cut it."
+      },
+      {
+        "severity": "MINOR",
+        "locus": "body line 196",
+        "finding": "'Six times in a single ayah, Allah says Me or I' — the sentence lists five items (عَنِّى، فَإِنِّى، لِى، بِى، دَعَانِ) and the actual count of first-person singular markers in 2:186 is seven (adding عِبَادِى and the 1s prefix of أُجِيبُ). The number matches neither its own list nor the text."
+      },
+      {
+        "severity": "MINOR",
+        "locus": "body line 352",
+        "finding": "'He relates the report that the earlier revelations too descended in this month — the Scriptures of Ibrahim, the Tawrah, the Injil, the Zabur.' The report's Ibn Kathir text lists Suhuf Ibrahim (1st night), Tawrah (6th), Injil (13th), Qur'an (24th). No Zabur. The Zabur is an addition to a specifically attributed list."
+      },
+      {
+        "severity": "MINOR",
+        "locus": "body line 320",
+        "finding": "The fidya narrated as one settled developmental arc where al-Tabari records a live naskh dispute including an explicit 'لم ينسخ ذلك ولا شيء منه'. See ikhtilaf_now_visible[1]."
+      },
+      {
+        "severity": "MINOR",
+        "locus": "body line 130",
+        "finding": "2:187 is the only ayah in the passage quoted without its [ayah:2:187] inline tag — the line begins with a bare leading space. 2:183-2:186 all carry tags. Structural/rendering defect."
+      }
+    ],
+    "passes": [
+      "The two ikhtilaf the brief asked about are NOT settled silently. ayyaman ma'dudat (line 318) accurately surfaces both of al-Tabari's positions — three days a month plus 'Ashura' as an earlier obligation, vs. the counted days being Ramadan itself — including the 'Ashura' detail that sits in Mu'adh b. Jabal's narration (#2729). wa-btaghu ma kataba Allah (line 310) also explicitly names the disagreement.",
+      "al-Muyassar on taqwa: file says 'place a wiqaya, a shield, between yourself and disobedience through obedience and worship of Him alone' — al-Muyassar reads 'فتجعلون بينكم وبين المعاصي وقايةً بطاعته وعبادته وحده'. Near-verbatim, including 'Him alone'.",
+      "al-Tabari on siyam as al-kaff: 'ومعنى الصيام، الكف عما أمر الله بالكف عنه'. Accurate.",
+      "al-Tabari on shahr/shuhra: 'والشهر، فيما قيل، أصله من الشهرة. يقال منه: قد شهر فلانٌ سيفه إذا أخرجه من غمده' — the drawn-sword image and the crescent are both genuinely there.",
+      "'Adi b. Hatim and the threads (line 246) is exceptionally well-supported: al-Tabari #2988 has the threads under the pillow, 'فضحك رسول الله ﷺ حتى رُئي نواجذه' (he laughed until his molars showed), and the Prophet's own correction 'ألم أقل لك من الفجر؟ إنما هو ضوء النهار وظلمة الليل' — which is precisely the file's claim that مِنَ ٱلْفَجْرِ is the in-ayah clarification.",
+      "The riding-beast hadith (line 188) matches Ibn Kathir's Abu Musa al-Ash'ari narration accurately.",
+      "kutiba passive paralleled to 2:178 (qisas) and 2:180 (wasiyyah) — both verified correct, and both are present as sections in the report."
+    ],
+    "summary": "The strongest file of the three and the only one showing evidence of a prior remediation pass — its ayyaman ma'dudat and fidya treatments explicitly surface disagreements, and the qul claim was hedged in the prose. But the revision touched only the body: the false universal about qul survives untouched in the frontmatter scholarly_note and the internal absence flag, falsified by 79:42-43. A second, previously invisible defect is now decisive: the Form X reading of فليستجيبوا as 'seek to respond' is contradicted by al-Tabari's explicit 'بمعنى أجبته' plus a poetic shahid, and by the Quran using the same form of Allah's own response in 40:60 and 3:195. The 2:186 sabab is settled on one of four al-Tabari explicitly disputes, and 2:187 is silently truncated in four places — cutting the لعلهم يتقون that would have proved the file's own ring."
+  },
+  {
+    "path": "content/tadabbur/017-al-isra/ayahs-023-024.md",
+    "report": "content/tadabbur/017-al-isra/tafsir-report-023-024.md",
+    "verdict": "CRITICAL",
+    "prior_verdict": "MODERATE — unqualified directive on du'a' for non-Muslim parents that flattens the 9:113 ikhtilaf",
+    "prior_still_holds": true,
+    "prior_note": "Holds, and the untruncated report now documents it completely. The file is not fully unqualified — line 347 says 'by name if your parents are Muslim, by mercy if not' — but that qualification makes it worse, not better: it distinguishes only whether to NAME them, and then affirmatively directs the mercy-du'a for non-Muslim parents, which is the exact case both of al-Tabari's recorded positions exclude.",
+    "ikhtilaf_now_visible": [
+      "al-Tabari on 17:24 records the naskh dispute in full, previously invisible: 'وقال جماعة من أهل العلم: إن قول الله جل ثناؤه ﴿وَقُلْ رَبِّي ارْحَمْهُمَا كَمَا رَبَّيَانِي صَغِيرًا﴾ منسوخ بقوله ﴿مَا كَانَ لِلنَّبِيِّ وَالَّذِينَ آمَنُوا أَنْ يَسْتَغْفِرُوا لِلْمُشْرِكِينَ﴾' — carried with isnads from Ibn 'Abbas (twice) and 'Ikrimah. Against it he sets his own preferred takhsis: 'وقد تحتمل هذه الآية أن تكون وإن كان ظاهرها عامًّا في كلّ الآباء بغير معنى النسخ، بأن يكون تأويلها على الخصوص، فيكون معنى الكلام: وقل ربّ ارحمهما إذا كانا مؤمنين' — the du'a means 'have mercy on them IF THEY ARE BOTH BELIEVERS', so nothing is abrogated. Both positions exclude the mushrik parent; they differ only on the mechanism. Ibn Kathir carries the same naskh report from Ibn 'Abbas. The file settles on universal applicability without acknowledging that any dispute exists.",
+      "al-Tabari on the meaning of أُفّ opens the classic formula — 'وقد اختلف أهل المعرفة بكلام العرب في معنى أفّ' — and records two positions the file's entire hook depends on suppressing: 'فقال بعضهم: معناه: كلّ ما غلظ من الكلام وقبُح' (everything coarse and foul in speech) and 'وقال آخرون: الأفّ: وسخ الأظفار، والتف: كلّ ما رفعت بيدك من الأرض من شيء حقير' (the dirt under the fingernails; anything contemptible picked off the ground). al-Jalalayn independently: 'مَصْدَر بِمَعْنى تَبًّا وقُبْحًا' — a masdar meaning perdition and foulness. Mujahid's two narrations anchor it in disgust at parental incontinence: 'إن بلغا عندك من الكبر ما يبولان ويخرآن، فلا تقل لهما أف تقذّرهما.' Ibn Kathir and al-Muyassar do support the file's 'mildest' reading (al-Muyassar: 'أدنى مراتب القول السيئ'), so the sources genuinely split — which is exactly what the file does not say.",
+      "al-Tabari records six recitational variants (lughat sitt) of أُفّ and rules for the one WITHOUT tanwin: 'والذي هو أولى بالصحة عندي في قراءة ذلك، قراءة من قرأه فلا تقل لهما أُفٍّ بكسر الفاء بغير تنوين'. al-Jalalayn lists all four: 'بِفَتْحِ الفاء وكَسْرها مُنَوَّنًا وغَيْر مُنَوَّن'. The file treats the tanwin as a settled, meaning-bearing feature."
+    ],
+    "issues": [
+      {
+        "severity": "CRITICAL",
+        "locus": "body lines 409-411 ('The core insight')",
+        "claim": "'The ayah is not commanding an action. It is commanding a posture.'",
+        "finding": "Contradicts the tafsir directly. Ibn Kathir on khafd al-janah: 'means, be humble towards them IN YOUR ACTIONS.' al-Tabari's opening gloss on 17:24 is concrete and bounded: 'وكن لهما ذليلا رحمة منك بهما تطيعهما فيما أمراك به مما لم يكن لله معصية، ولا تخالفهما فيما أحبَّا' — obey them in what they command you so long as it is not disobedience to Allah, and do not oppose them in what they love. He then adduces four separate isnads from Hisham b. 'Urwah from his father saying the same thing four ways: 'لا تمتنع من شيء يحبانه' / 'هو أن تلين لهما حتى لا تمتنع من شيء أحبَّاه' / 'لا تمتنع من شيء أحباه' / 'هو أن لا تمتنع من شيء يريدانه'. The tradition's content for this command is a specified action — non-refusal of parental wishes — with an explicit fiqh boundary. The file substitutes an interiority-only reading and, in doing so, also drops the 'ما لم يكن لله معصية' qualifier, which is the one clause a reader with a parent commanding sin actually needs."
+      },
+      {
+        "severity": "MODERATE",
+        "locus": "body lines 347, 456, 470-471",
+        "claim": "'make this dua specifically — by name if your parents are Muslim, by mercy if not... And if one of them or both of them have passed, make it anyway. The dua does not expire.' / 'Say it whether they are alive or passed. Say it whether the relationship was easy or complicated.'",
+        "finding": "Settles the 9:113 ikhtilaf silently, and settles it against both recorded positions. Under the naskh view the post-death mercy-du'a for a mushrik parent is precisely what 9:113 lifted; under al-Tabari's own takhsis view the ayah never included them ('إذا كانا مؤمنين'). The file's directive is also a ruling on the permissibility of du'a for a non-Muslim parent issued in a tadabbur register — tadabbur crossing into fatwa. Note for context: for believing parents the post-death du'a is uncontested and Ibn Kathir states it plainly ('say this when they grow old and when they die'), so the defect is narrow but load-bearing, since the file's whole staircase thesis climaxes in a du'a that 'reaches past presence'."
+      },
+      {
+        "severity": "MODERATE",
+        "locus": "body lines 177-221 (Element Two), plus the Hook (99-103) and One Thing to Remember (460)",
+        "claim": "'Uff is irritation reduced to breath... the lowest level of verbal rejection a human can produce... what a person says when something small has annoyed them.'",
+        "finding": "Settles a live ikhtilaf al-Tabari names explicitly. See ikhtilaf_now_visible[1]. This is the file's structural hinge — the hook promises 'the smallest word Allah forbade' and the closing line repeats it — so the settled reading is not incidental."
+      },
+      {
+        "severity": "MODERATE",
+        "locus": "body line 191",
+        "claim": "'uffin — with tanwin, the indefinite ending... Indefinite. Any uff. The indefinite generalizes the prohibition to all members of the category.'",
+        "finding": "The premise is fine for Hafs (the canonical text does read أُفٍّ), but the semantic weight is unsupported and the variant status is suppressed. al-Tabari's account of WHY the tanwin appears is phonological, not semantic: those who read it so likened uff to meaningless sounds ('شبهها بالأصوات التي لا معنى لها، كقولهم في حكاية الصوت غاق غاق') and chose kasr merely to avoid two consecutive sukuns ('فحرّكوا إلى أقرب الحركات من السكون، وذلك الكسر'). He then prefers the un-tanwined reading outright. Separately, al-Tabari records the Kufan/Basran argument that flatly contradicts the file's 'fraction of a syllable / barely a word': 'وأفّ تامّ لا حاجة به إلى تتمته بغيره، لأنه قد جاء على ثلاثة أحرف' — uff is a COMPLETE three-letter word needing no completion, unlike the genuinely deficient two-letter sounds مه، صه، بخ."
+      },
+      {
+        "severity": "MODERATE",
+        "locus": "body line 391",
+        "claim": "'The classical grammarians discussed this preposition min here. Is it causative... partitive... elaborative? The classical scholars saw this differently, and what is remarkable is that each of them was seeing something real.'",
+        "finding": "An attributed three-way scholarly disagreement that the report does not record. All three Arabic sources converge on the causative/ta'lil sense: al-Tabari 'رحمة منك بهما', al-Jalalayn '﴿مِن الرَّحْمَة﴾ أيْ لِرِقَّتِك عَلَيْهِما', al-Muyassar 'ذليلًا متواضعًا رحمة بهما'. The file then builds 'it is rahma all the way down' on the synthesis of a debate it staged."
+      },
+      {
+        "severity": "MODERATE",
+        "locus": "body lines 139, 159-165 (Element One)",
+        "claim": "'The classical grammarians noticed this centuries ago... For His own worship, He uses a bounded, specified verb. For parents, He uses unbounded ihsan with the verb itself withheld... He is distinguishing them through the grammar.'",
+        "finding": "The ellipsis is real and correctly named, but the meaning drawn from it is the file's, presented as the grammarians'. al-Tabari reads قضى as governing BOTH clauses, with an ordinary elision of أن: 'ومعنى الكلام: وأمركم أن تحسنوا إلى الوالدين، فلما حذفت أن تعلق القضاء بالإحسان' — and he explicitly frames it as a routine Arab idiom, 'كما يقال في الكلام: آمرك به خيرا، وأوصيك به خيرا', with al-Farra''s poetic shahid. There is no bounded/unbounded asymmetry in the source; the construction is unremarkable. al-Jalalayn does supply an elided verb ('أنْ تُحْسِنُوا'), so the ellipsis reading has backing — the theological asymmetry does not."
+      },
+      {
+        "severity": "MINOR",
+        "locus": "body lines 187, 189",
+        "finding": "'Al-Zamakhshari and others note it is the lowest level of verbal rejection' and 'in one of the classical glosses, what a person says when something small has annoyed them' — neither is checkable against this report (sources are Ibn Kathir, al-Tabari, al-Muyassar, al-Jalalayn). The substance of the 'lowest level' claim does match al-Muyassar's 'أدنى مراتب القول السيئ' and Ibn Kathir, so the content is attested even where the attribution is not."
+      },
+      {
+        "severity": "MINOR",
+        "locus": "body lines 331-339, 423-432",
+        "finding": "The rabbuka/rabbayani bookend is presented as 'Same linguistic family. Same root-cluster.' al-Tabari's own gloss locates rabbayani in the semantic field of growth, not lordship: 'وعَنَى بقوله ربياني: نَميَّاني' (from نمو). The file hedges twice ('or ر-ب-ب, depending on how the classical grammarians derive it'; 'Not as equals... But as echoes'), so the hedging carries it — but al-Tabari's gloss cuts against the architectural weight placed on it."
+      },
+      {
+        "severity": "MINOR",
+        "locus": "frontmatter",
+        "finding": "Tooling defect, not content: frontmatter carries `surah: \"Al-Isra\"` (a name) rather than a number, so `scripts/tafsir_section.mjs --own` fails on this file with 'cannot read surah/ayah_start from the paired file'. Explicit refs are required instead. Worth a sweep — any file using the name form is invisible to --own."
+      }
+    ],
+    "missed_anchors": [
+      "al-Tabari's headline gloss on qawlan kariman is Sa'id b. al-Musayyib's: 'قول العبد المذنب للسيد الفظّ' — the speech of a guilty slave to a harsh master — offered in answer to a questioner who said this was the ONE aspect of birr al-walidayn he had never understood. The file glosses qawlan kariman as speech carrying karam/generosity, which matches Qatadah ('قولا ليّنا سهلا') but misses the tradition's most arresting reading.",
+      "al-Tabari openly declares one of his own isnads defective at this spot — 'قال أبو جعفر: وهذا الحديث خطأ' — the 'Umar b. al-Khattab link in Hisham b. 'Urwah's chain is spurious. A visible instance of the mufassir grading his own material."
+    ],
+    "summary": "The most defective of the three, and the file where untruncation changes the most. Its central pastoral directive — make the mercy-du'a for your parents whoever they were, alive or dead — lands squarely inside a naskh dispute al-Tabari lays out in full with isnads on both sides, where his own resolution is the explicit restriction 'إذا كانا مؤمنين'. Its central rhetorical move — uff as the smallest possible offense — settles an ikhtilaf al-Tabari names in the classic formula, and settles it against al-Jalalayn's 'تبًّا وقبحًا' and against Mujahid's disgust-at-incontinence narrations. And its core insight, that the ayah commands a posture rather than an action, contradicts Ibn Kathir ('in your actions') and al-Tabari ('obey them in what they command you, so long as it is not disobedience to Allah') while dropping the one qualifier a reader in a hard case would need."
+  },
+  {
+    "path": "content/tadabbur/075-al-qiyamah/ayahs-036-040.md",
+    "report": "content/tadabbur/075-al-qiyamah/tafsir-report-036-040.md",
+    "verdict": "CRITICAL",
+    "prior_verdict": "CRITICAL — minhu asserted to point back to the nutfah where both tafsirs read it as the human being; al-Shafi'i inflated from a one-line lexical gloss into having derived the necessity of Shari'ah",
+    "prior_still_holds": true,
+    "prior_note": "The al-Shafi'i half holds exactly and is now fully documented. The minhu half holds but the prior characterization was over-broad: with all four sources visible, al-Jalalayn DOES read minhu as the semen ('مِن المَنِيّ'), so the file's referent has one source behind it. The real defect is subtler and larger than prior review saw — see ikhtilaf_now_visible[0].",
+    "ikhtilaf_now_visible": [
+      "75:39 مِنْهُ is a genuine four-way split, invisible before. al-Tabari reads it as the fully-formed human and reads al-zawjayn as his OFFSPRING: 'فجعل من هذا الإنسان بعدما سوّاه خلقا سويا أولادًا له، ذكورا وإناثا' — He made from this human being, after proportioning him into a sound creation, children for him, males and females — restated as 'حتى صيره إنسانا سويا، له أولاد ذكور وإناث'. al-Muyassar: 'فجعل من هذا الإنسان الصنفين: الذكر والأنثى'. Ibn Kathir: the formed human 'became a perfect creation with healthy limbs, as either a male or a female'. al-Jalalayn alone: '﴿فَجَعَلَ مِنهُ﴾ مِن المَنِيّ الَّذِي صارَ عَلَقَة'. The file asserts the minority referent as settled ('the pronoun minhu reaches back across three ayahs to the nutfah, the drop') and never mentions that al-Tabari reads the ayah as being about procreation at all. Its gloss of ja'ala — 'He appointed... assigned the identity... designated the role' — is supported by none of the four.",
+      "Ibn Kathir records a two-position dispute on سُدًى and adjudicates it: 'As-Suddi said, Meaning not resurrected. Mujahid, Ash-Shafi'i and Abdur-Rahman bin Zayd bin Aslam, all said, Meaning, he will not be commanded and prohibited. Apparently the Ayah includes both meanings.' The file presents only the legislative sense — 'Not just aimless, but unlegislated' — and drops the eschatological one. Ironically the dropped reading is the one that would have strengthened the file's own architecture, since its Closing Synthesis claims the five ayahs run from suda to yuhyiya al-mawta.",
+      "Ibn Kathir flags a further two-view disagreement at exactly the point the file builds its qiyas al-awla argument: 'the ability to repeat that either refers to the origination only, or to both that and the process of perfecting it, according to two different views... The first view is more popular.' Unmentioned.",
+      "al-Tabari on 75:1-2 records 'واختلفوا أيضا في ذلك، هل هو قسم أم لا؟' — whether it is an oath at all — with Ibn 'Abbas and Qatadah holding He swore by both, and al-Hasan al-Basri holding 'أقسم بيوم القيامة، ولم يقسم بالنفس اللوّامة'. The file asserts the both-oath reading as settled in passage_context and body. Background framing only, and it is al-Tabari's own preferred position."
+    ],
+    "issues": [
+      {
+        "severity": "CRITICAL",
+        "locus": "body lines 192 and 350",
+        "claim": "'Imam al-Shafi'i, one of the greatest legal minds in Islamic history, built an entire argument on this single word. His reasoning: if Allah says the human being will not be left suda, then the human being must be accountable. And if accountable, then there must be a framework — commands, prohibitions, a divine law — to be accountable to. From one word at the end of one ayah, al-Shafi'i derived the entire necessity of Shari'ah.' Repeated at line 350: 'This is what Imam al-Shafi'i saw in suda.'",
+        "finding": "Fabricated attribution. The report's sole basis is Ibn Kathir listing three names against a one-line lexical gloss: 'Mujahid, Ash-Shafi'i and Abdur-Rahman bin Zayd bin Aslam, all said, Meaning, he will not be commanded and prohibited.' No argument, no reasoning chain, no derivation, and al-Shafi'i is neither the first nor the only name — Mujahid is listed ahead of him, and al-Tabari carries the identical gloss under Mujahid's isnad without mentioning al-Shafi'i at all. The multi-step derivation and the conclusion 'derived the entire necessity of Shari'ah' are the file's own, put in al-Shafi'i's mouth twice."
+      },
+      {
+        "severity": "MODERATE",
+        "locus": "body lines 264-266 and internal absence flag line 77",
+        "claim": "'The pronoun minhu — from him, from it — reaches back across three ayahs to the nutfah, the drop.' / 'He didn't just create male and female bodies. He made them into male and female. He assigned the identity. He designated the role.'",
+        "finding": "Settles a four-way ikhtilaf on the minority side and adds a gloss of ja'ala that no source supports. See ikhtilaf_now_visible[0]. The referent choice is load-bearing: the file's line 'The distance between from it and the male and the female is the distance between almost nothing and the entirety of human civilization' only works on the nutfah reading."
+      },
+      {
+        "severity": "MODERATE",
+        "locus": "body line 194 (the suda treatment) and Theme 1",
+        "claim": "'suda means la yu'maru wa la yunha — neither commanded nor prohibited. Not just aimless, but unlegislated.'",
+        "finding": "The attribution to al-Tabari is accurate ('أن يترك هملا أن لا يؤمر ولا ينهى، ولا يتعبد بعبادة'), but the file presents the legislative sense as the whole meaning where Ibn Kathir explicitly records a competing eschatological gloss and rules that the ayah includes both. See ikhtilaf_now_visible[1]."
+      },
+      {
+        "severity": "MODERATE",
+        "locus": "internal grounding table line 52, body line 224, body line 388",
+        "claim": "'A clinging clot — 'alaqah — now there is adherence. Attachment. The material has found a wall to cling to. Something that was loose has become fixed.'",
+        "finding": "All four sources gloss 'alaqah as BLOOD, not adherence: al-Tabari 'ثم كان دما من بعد ما كان نطفة'; al-Muyassar 'ثم صار قطعة من دم جامد'; al-Jalalayn '﴿عَلَقَة﴾ قِطْعَة دَم'; Ibn Kathir 'he became a clot, then a lump of flesh'. The root ع-ل-ق does carry clinging, so the etymology is not invented — but the implantation stage-narrative ('found a wall to cling to') is a modern embryological overlay presented as the word's meaning, and it displaces the unanimous gloss."
+      },
+      {
+        "severity": "MINOR",
+        "locus": "body line 426",
+        "finding": "'The same four opening words. أَيَحْسَبُ ٱلْإِنسَـٰنُ.' That is two words. The ring observation itself is correct — 75:3 and 75:36 do share that opening, verified against the canonical text — only the count is wrong."
+      },
+      {
+        "severity": "MINOR",
+        "locus": "internal grounding table line 51",
+        "finding": "يُمْنَىٰ tagged '3fs passive'. For the Hafs text (يُمْنَىٰ, yа') it is 3ms; 3fs fits only the variant تُمْنَى. al-Tabari records exactly that qira'ah split — 'فقرأه عامة قرّاء المدينة والكوفة تُمْنَى بالتاء... وقرأ بعض قرّاء مكة والبصرة يُمْنَى بالياء' and rules both sound. The body text says only 'passive', which is correct on either reading, so the error is confined to internal scaffolding."
+      },
+      {
+        "severity": "MINOR",
+        "locus": "body line 372",
+        "finding": "'the classical scholars call this qiyas al-awla — reasoning from the lesser to the greater.' Not in the report; the tradition frames this argument through 30:27's وهو أهون عليه, which Ibn Kathir does cite here. The substantive harder/easier claim is therefore supported even though the label and its attribution are not."
+      },
+      {
+        "severity": "MINOR",
+        "locus": "frontmatter passage_context and body line 140",
+        "finding": "75:1-2 asserted as a divine oath by both the Day and the self-reproaching soul. al-Tabari records the dispute over whether it is an oath at all. The file's position is al-Tabari's own preference and the claim is background framing, so the exposure is low."
+      }
+    ],
+    "missed_anchors": [
+      "Both al-Tabari and Ibn Kathir close this surah with the same sunnah, and the file's Closing Invitation walks right past it: al-Tabari via Qatadah, 'ذُكر لنا أن نبيّ الله ﷺ كان إذا قرأها قال: سبحانك وبلَى', and Ibn Kathir's Abu Dawud report of the man who said 'Glory to You, of course' on reaching 75:40 because he had heard it from the Prophet. A ready-made practice for the file's own closing.",
+      "Ibn Kathir places نفخ الروح inside the taswiyah sequence ('then he was formed and the soul was blown into him'). The file's five-stage progression (drop, clot, created, proportioned, male and female) is purely biological and substitutes 'every neuron that wired itself into a network capable of consciousness' for the ensoulment the source names."
+    ],
+    "summary": "Both prior findings confirmed, one of them needing correction in the file's favour. The al-Shafi'i inflation is the clearest fabricated attribution in the batch: a single clause of lexical gloss, shared with Mujahid and Ibn Zayd, becomes 'built an entire argument', a three-step derivation, and 'the entire necessity of Shari'ah', asserted twice. The minhu finding survives but the prior review had it slightly wrong — al-Jalalayn genuinely reads minhu as the semen, so the file picked a real minority reading rather than inventing one. What untruncation actually exposes is bigger: al-Tabari reads 75:39 as being about the man's own sons and daughters, a procreation reading the file never considers, which makes its 'He assigned the identity, He designated the role' gloss unsupported by any of the four sources."
+  }
+]

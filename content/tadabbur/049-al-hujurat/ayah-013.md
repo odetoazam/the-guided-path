@@ -2,7 +2,7 @@
 title: "The Only Hierarchy That Matters Is the One No Human Eye Can See"
 ayah_start: 13
 ayah_end: 13
-surah: "Al-Hujurat"
+surah: 49
 slug: "049-013"
 type: "tadabbur"
 estimatedDuration: "48-58 minutes"

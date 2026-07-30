@@ -6,7 +6,7 @@ slug: "039-053"
 category: tadabbur
 title: "The Door You Cannot Lock From the Outside — Why Allah Still Calls You 'Mine'"
 ayah: "39:53"
-surah: "Az-Zumar"
+surah: 39
 type: "tadabbur"
 estimated_duration: "50-58 minutes"
 validated: true

@@ -5,7 +5,7 @@ ayah_end: 70
 category: tadabbur
 title: "You Were Honored Before You Did Anything — The Verb That Made Dignity Your Nature"
 ayah: "17:70"
-surah: "Al-Isra"
+surah: 17
 slug: "17-70-karramna-dignity"
 type: "tadabbur"
 estimatedDuration: "48-58 minutes"

@@ -5,7 +5,7 @@ ayah_end: 269
 category: tadabbur
 title: "Hikmah — The Gift That Contains Every Other Gift"
 ayah: "2:269"
-surah: "Al-Baqarah"
+surah: 2
 slug: "2-269-hikmah-abundant-good"
 type: "tadabbur"
 estimatedDuration: "42-50 minutes"

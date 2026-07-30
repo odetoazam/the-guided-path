@@ -2,7 +2,7 @@
 title: "Five Seasons of a Life You Think Is Permanent — The Rain That Forgot It Would Dry"
 ayah_start: 20
 ayah_end: 20
-surah: "Al-Hadid"
+surah: 57
 type: "tadabbur"
 estimated_duration: "50-58 minutes"
 validated: true

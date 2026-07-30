@@ -5,7 +5,7 @@ ayah_end: 7
 category: tadabbur
 title: "Muḥkam and Mutashābih — The Ayah That Teaches You How to Read the Quran"
 ayah: "3:7"
-surah: "Aal-Imran"
+surah: 3
 slug: "3-7-muhkam-mutashabih-how-to-read-the-quran"
 type: "tadabbur"
 estimatedDuration: "48-55 minutes"

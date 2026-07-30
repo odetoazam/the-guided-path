@@ -2,7 +2,7 @@
 title: "Just Ask — The Ayah Where Allah Uses the Same Grammar to Describe His Generosity and Your Arrogance"
 ayah_start: 60
 ayah_end: 60
-surah: "Ghafir"
+surah: 40
 type: "tadabbur"
 estimated_duration: "48-58 minutes"
 validated: true

@@ -5,7 +5,7 @@ ayah_end: 11
 category: tadabbur
 title: "No Calamity Except by His Permission — The Arrow That Became Direction"
 ayah: "64:11"
-surah: "At-Taghabun"
+surah: 64
 slug: "64-11-musiba-bi-idhni-llah-yahdi-qalbahu"
 type: "tadabbur"
 estimatedDuration: "48-55 minutes"
