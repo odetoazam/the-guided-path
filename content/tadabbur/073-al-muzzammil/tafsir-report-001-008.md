@@ -162,9 +162,67 @@ Al-Hafiz Abu Ya'la Al-Mawsili said, "Ibrahim bin Sa'id Al-Jawhari told us that A
 
 In fact, this is as true as what he ('Abdur-Rahman) said, The proof for this view is what Imam Ahmad recorded in his Musnad, that Sa'id bin Hisham divorced his wife and then traveled to Al-Madinah in order to sell some property he had with her. He intended to use its money to buy an animal and a weapon and then go for Jihad against the Romans until he died. In the process of this he met a group of his people and they informed him that a group of six men from his people had intended that in the time of the Messenger of Allah ﷺ, upon which he ﷺ said,
 
-أَلَيْسَ لَكُ
+أَلَيْسَ لَكُمْ فِيَّ أُسْوَةٌ حَسَنَةٌ؟
 
-[TRUNCATED at 12000 chars — 7818 more. Consult the source directly before relying on anything near the cut.]
+(Is there not for you all an excellent example in me?)
+
+So he forbade them from that and made them testify that they would take their wives back. Then he (Sa'id) returned to us and informed us that he went to Ibn 'Abbas and asked him about the Witr (prayer). Ibn 'Abbas said, "Shall I not inform you of the person who is the most knowledgeable person on the earth about the Witr prayer of the Messenger of Allah ﷺ?" He said, "Yes." Ibn 'Abbas then said, "Go to 'A'ishah and ask her, then return to me and inform me of what she tells you."
+
+He said, "Then I went to Hakim bin Aflah and requested him to go with me to her. But he said, 'I do not want to be near her. Verily, I forbade her from saying anything concerning these two parties (the parties of 'Ali and Mu'awiyah), but she refused and continued being involved with them (in their conflict).' So I adjured him by Allah, so he came with me and we entered upon her (in her house)." So she said, "Is this the Hakim that I know?" He (Hakim) said, "Yes." Then she said, "Who is this that is with you?" He said, "Sa'id bin Hisham." She said, "Who is Hisham?" He said, "He is Ibn 'Amir." She then asked Allah to have mercy upon him ('Amir). Then she said, "Yes, 'Amir was a true man." Then I (Sa'id) said, "O Mother of the believers! Inform me about the character of the Messenger of Allah ﷺ." She replied, "Have you not read the Qur'an?" I said, "Of course." Then she said, "Verily, the character of the Messenger of Allah ﷺ was the Qur'an." I was about to stand and leave, but then I remembered to ask about the night prayer of the Messenger of Allah ﷺ. I said, "O Mother of the believers! Inform me about the night prayer of the Messenger of Allah ﷺ." She said, "Have you not read the Surah,
+
+يَا أَيُّهَا الْمُزَّمِّلُ
+
+(O you wrapped up.) I said, "Of course." She then said, "Verily, Allah made standing at night (for prayer) obligatory at the beginning of this Surah. So the Messenger of Allah ﷺ and his Companions stood for an entire year during the night (in prayer) until their feet swelled. Allah held back the revelation of the end of this Surah for twelve months. Then, Allah revealed the lightening of this burden at the end of this Surah. Then, the standing for night prayer became voluntary after it used to be obligatory."
+
+I was about to leave when I remembered to ask her about the Witr prayer of the Messenger of Allah ﷺ. So I said, "O Mother of the believers! Inform me about the Witr prayer of the Messenger of Allah ﷺ." She said, "We used to prepare his Siwak (toothstick) for him and his ablution water, and Allah would awaken him whenever He wished to awaken him during the night. Then, he would clean his teeth with the Siwak and perform ablution. Then, he would pray eight (Rak'ahs) units of prayer and he would not sit during them except at the end of the eighth one. At this point he would sit and remember his Lord the Most High, and supplicate to Him. Afterwards he would stand without saying the greeting of peace (Taslim). He would then pray a ninth unit of prayer and then sit. He would remember Allah Alone and then supplicate to Him (during this sitting). Then, he would say the greetings of peace (to conclude the prayer) making it audible to us. Then, he would pray two more units of prayer after this salutation of peace, while he would be sitting. So these are eleven units of prayer, O my son. Then, when he became older and heavier, he would perform Witr prayer with seven units of prayer, and then he would pray two extra units of prayer after them while sitting after the salutation of peace. So these are nine units of prayer, O my son. Whenever the Messenger of Allah ﷺ used to pray a particular prayer, he liked to remain consistent in its performance. If he would ever be preoccupied from performing the night prayer by oversleeping, pain or illness, he would pray twelve units of supererogatory prayer during the day. I do not know of Allah's Prophet ﷺ ever reciting the entire Qur'an in one night before morning nor did he fast an entire month other than the month of Ramadan."
+
+So I went to Ibn 'Abbas and told him what she had said. Ibn 'Abbas then said, "She has spoken truthfully and if I had went to her house I would have remained until she spoke directly to me and I could see her lips moving." This is how Imam Ahmad recorded this narration in its entirety. Muslim also recorded similarly in his Sahih.
+
+Ibn Jarir recorded from Abu 'Abdur-Rahman that he said, "When the Ayah
+
+يَا أَيُّهَا الْمُزَّمِّلُ
+
+(O you wrapped.)(73:1) was revealed, the people stood in night prayer for an entire year until their feet and shins swelled. This continued until Allah revealed,
+
+فَاقْرَءُوا مَا تَيَسَّرَ مِنْهُ
+
+(So recite of it what is easy.)(73:20) Then the people relaxed." Al-Hasan Al-Basri and As-Suddi both said the same. 'Ali bin Abi Talhah reported from Ibn 'Abbas that he said concerning Allah's statement,
+
+قُمِ اللَّيْلَ إِلَّا قَلِيلًا - نِصْفَهُ أَوِ انْقُصْ مِنْهُ قَلِيلًا
+
+(Stand (to pray) all night, except a little. Half of it or less than that, a little.)(73:2-3) "This became difficult on the believers. Then Allah lightened the matter for them and had mercy on them when He revealed after this,
+
+عَلِمَ أَن سَيَكُونُ مِنكُم مَّرْضَىٰ ۙ وَآخَرُونَ يَضْرِبُونَ فِي الْأَرْضِ يَبْتَغُونَ مِن فَضْلِ اللَّهِ ۙ
+
+(He knows that there will be some among you sick, others traveling through the land, seeking of Allah's bounty.) until Allah says,
+
+فَاقْرَءُوا مَا تَيَسَّرَ مِنْهُ
+
+(So, recite you of the Qur'an as much as may be easy for you.)(73:20) So Allah made the matter easy – and unto Him is due all praise – and he did not make matters difficult." Then Allah says,
+
+وَاذْكُرِ اسْمَ رَبِّكَ وَتَبَتَّلْ إِلَيْهِ تَبْتِيلًا
+
+(And remember the Name of your Lord and (Tabattal) devote yourself to Him with complete devotion.) meaning, make much remembrance (Dhikr) of Him, devote yourself to Him and spend your time worshipping Him when you have completed your occupations and what you need from the affairs of your worldly matters. This is as Allah says,
+
+فَإِذَا فَرَغْتَ فَانْصَبْ
+
+(So when you have finished (your occupation), devote yourself for Allah's worship.)(94:7) meaning, when you have completed your tasks and occupations, then busy yourself in His obedience and His worship so that you will have free time for leisure. The meaning of this was said by Ibn Zayd, or close to its meaning. Ibn 'Abbas, Mujahid, Abu Salih, 'Atiyah, Ad-Dahhak and As-Suddi, all said,
+
+وَتَبَتَّلْ إِلَيْهِ تَبْتِيلًا
+
+(And (Tabattal) devote yourself to Him with complete devotion.) "This means, make your worship solely for Him alone." Al-Hasan said, "Strive and devote yourself to Him." Ibn Jarir said, "A devout worshipper is called Mutabattil. An example of this is the reported Hadith that he (the Prophet ﷺ) forbade At-Tabattul, which means total devotion to worship while avoiding getting married." Allah said,
+
+رَبُّ الْمَشْرِقِ وَالْمَغْرِبِ لَا إِلَٰهَ إِلَّا هُوَ فَاتَّخِذْهُ وَكِيلًا
+
+(Lord of the east and the west; La ilaha illa Huwa. So take Him a trustee.) meaning, He is the Owner and Controller of affairs in the eastern regions and the western regions. He is the One except whom there is no deity worthy of worship. Just as you single Him out for worship, you should also single Him out for reliance. Therefore, take Him as a guardian and trustee. This is as Allah says in another Ayah,
+
+فَاعْبُدْهُ وَتَوَكَّلْ عَلَيْهِ
+
+(So worship Him and rely upon him.)(11:123) It is also similar to His statement,
+
+إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ
+
+(You (Alone) we worship, and you (Alone) we ask for help.)(1:5) The Ayat with this meaning are numerous. They contain the command to make worship and acts of obedience exclusively for Allah, and to rely solely upon Him.
 
 ### al-Tabari (Arabic)
 
@@ -430,9 +488,67 @@ Al-Hafiz Abu Ya'la Al-Mawsili said, "Ibrahim bin Sa'id Al-Jawhari told us that A
 
 In fact, this is as true as what he ('Abdur-Rahman) said, The proof for this view is what Imam Ahmad recorded in his Musnad, that Sa'id bin Hisham divorced his wife and then traveled to Al-Madinah in order to sell some property he had with her. He intended to use its money to buy an animal and a weapon and then go for Jihad against the Romans until he died. In the process of this he met a group of his people and they informed him that a group of six men from his people had intended that in the time of the Messenger of Allah ﷺ, upon which he ﷺ said,
 
-أَلَيْسَ لَكُ
+أَلَيْسَ لَكُمْ فِيَّ أُسْوَةٌ حَسَنَةٌ؟
 
-[TRUNCATED at 12000 chars — 7818 more. Consult the source directly before relying on anything near the cut.]
+(Is there not for you all an excellent example in me?)
+
+So he forbade them from that and made them testify that they would take their wives back. Then he (Sa'id) returned to us and informed us that he went to Ibn 'Abbas and asked him about the Witr (prayer). Ibn 'Abbas said, "Shall I not inform you of the person who is the most knowledgeable person on the earth about the Witr prayer of the Messenger of Allah ﷺ?" He said, "Yes." Ibn 'Abbas then said, "Go to 'A'ishah and ask her, then return to me and inform me of what she tells you."
+
+He said, "Then I went to Hakim bin Aflah and requested him to go with me to her. But he said, 'I do not want to be near her. Verily, I forbade her from saying anything concerning these two parties (the parties of 'Ali and Mu'awiyah), but she refused and continued being involved with them (in their conflict).' So I adjured him by Allah, so he came with me and we entered upon her (in her house)." So she said, "Is this the Hakim that I know?" He (Hakim) said, "Yes." Then she said, "Who is this that is with you?" He said, "Sa'id bin Hisham." She said, "Who is Hisham?" He said, "He is Ibn 'Amir." She then asked Allah to have mercy upon him ('Amir). Then she said, "Yes, 'Amir was a true man." Then I (Sa'id) said, "O Mother of the believers! Inform me about the character of the Messenger of Allah ﷺ." She replied, "Have you not read the Qur'an?" I said, "Of course." Then she said, "Verily, the character of the Messenger of Allah ﷺ was the Qur'an." I was about to stand and leave, but then I remembered to ask about the night prayer of the Messenger of Allah ﷺ. I said, "O Mother of the believers! Inform me about the night prayer of the Messenger of Allah ﷺ." She said, "Have you not read the Surah,
+
+يَا أَيُّهَا الْمُزَّمِّلُ
+
+(O you wrapped up.) I said, "Of course." She then said, "Verily, Allah made standing at night (for prayer) obligatory at the beginning of this Surah. So the Messenger of Allah ﷺ and his Companions stood for an entire year during the night (in prayer) until their feet swelled. Allah held back the revelation of the end of this Surah for twelve months. Then, Allah revealed the lightening of this burden at the end of this Surah. Then, the standing for night prayer became voluntary after it used to be obligatory."
+
+I was about to leave when I remembered to ask her about the Witr prayer of the Messenger of Allah ﷺ. So I said, "O Mother of the believers! Inform me about the Witr prayer of the Messenger of Allah ﷺ." She said, "We used to prepare his Siwak (toothstick) for him and his ablution water, and Allah would awaken him whenever He wished to awaken him during the night. Then, he would clean his teeth with the Siwak and perform ablution. Then, he would pray eight (Rak'ahs) units of prayer and he would not sit during them except at the end of the eighth one. At this point he would sit and remember his Lord the Most High, and supplicate to Him. Afterwards he would stand without saying the greeting of peace (Taslim). He would then pray a ninth unit of prayer and then sit. He would remember Allah Alone and then supplicate to Him (during this sitting). Then, he would say the greetings of peace (to conclude the prayer) making it audible to us. Then, he would pray two more units of prayer after this salutation of peace, while he would be sitting. So these are eleven units of prayer, O my son. Then, when he became older and heavier, he would perform Witr prayer with seven units of prayer, and then he would pray two extra units of prayer after them while sitting after the salutation of peace. So these are nine units of prayer, O my son. Whenever the Messenger of Allah ﷺ used to pray a particular prayer, he liked to remain consistent in its performance. If he would ever be preoccupied from performing the night prayer by oversleeping, pain or illness, he would pray twelve units of supererogatory prayer during the day. I do not know of Allah's Prophet ﷺ ever reciting the entire Qur'an in one night before morning nor did he fast an entire month other than the month of Ramadan."
+
+So I went to Ibn 'Abbas and told him what she had said. Ibn 'Abbas then said, "She has spoken truthfully and if I had went to her house I would have remained until she spoke directly to me and I could see her lips moving." This is how Imam Ahmad recorded this narration in its entirety. Muslim also recorded similarly in his Sahih.
+
+Ibn Jarir recorded from Abu 'Abdur-Rahman that he said, "When the Ayah
+
+يَا أَيُّهَا الْمُزَّمِّلُ
+
+(O you wrapped.)(73:1) was revealed, the people stood in night prayer for an entire year until their feet and shins swelled. This continued until Allah revealed,
+
+فَاقْرَءُوا مَا تَيَسَّرَ مِنْهُ
+
+(So recite of it what is easy.)(73:20) Then the people relaxed." Al-Hasan Al-Basri and As-Suddi both said the same. 'Ali bin Abi Talhah reported from Ibn 'Abbas that he said concerning Allah's statement,
+
+قُمِ اللَّيْلَ إِلَّا قَلِيلًا - نِصْفَهُ أَوِ انْقُصْ مِنْهُ قَلِيلًا
+
+(Stand (to pray) all night, except a little. Half of it or less than that, a little.)(73:2-3) "This became difficult on the believers. Then Allah lightened the matter for them and had mercy on them when He revealed after this,
+
+عَلِمَ أَن سَيَكُونُ مِنكُم مَّرْضَىٰ ۙ وَآخَرُونَ يَضْرِبُونَ فِي الْأَرْضِ يَبْتَغُونَ مِن فَضْلِ اللَّهِ ۙ
+
+(He knows that there will be some among you sick, others traveling through the land, seeking of Allah's bounty.) until Allah says,
+
+فَاقْرَءُوا مَا تَيَسَّرَ مِنْهُ
+
+(So, recite you of the Qur'an as much as may be easy for you.)(73:20) So Allah made the matter easy – and unto Him is due all praise – and he did not make matters difficult." Then Allah says,
+
+وَاذْكُرِ اسْمَ رَبِّكَ وَتَبَتَّلْ إِلَيْهِ تَبْتِيلًا
+
+(And remember the Name of your Lord and (Tabattal) devote yourself to Him with complete devotion.) meaning, make much remembrance (Dhikr) of Him, devote yourself to Him and spend your time worshipping Him when you have completed your occupations and what you need from the affairs of your worldly matters. This is as Allah says,
+
+فَإِذَا فَرَغْتَ فَانْصَبْ
+
+(So when you have finished (your occupation), devote yourself for Allah's worship.)(94:7) meaning, when you have completed your tasks and occupations, then busy yourself in His obedience and His worship so that you will have free time for leisure. The meaning of this was said by Ibn Zayd, or close to its meaning. Ibn 'Abbas, Mujahid, Abu Salih, 'Atiyah, Ad-Dahhak and As-Suddi, all said,
+
+وَتَبَتَّلْ إِلَيْهِ تَبْتِيلًا
+
+(And (Tabattal) devote yourself to Him with complete devotion.) "This means, make your worship solely for Him alone." Al-Hasan said, "Strive and devote yourself to Him." Ibn Jarir said, "A devout worshipper is called Mutabattil. An example of this is the reported Hadith that he (the Prophet ﷺ) forbade At-Tabattul, which means total devotion to worship while avoiding getting married." Allah said,
+
+رَبُّ الْمَشْرِقِ وَالْمَغْرِبِ لَا إِلَٰهَ إِلَّا هُوَ فَاتَّخِذْهُ وَكِيلًا
+
+(Lord of the east and the west; La ilaha illa Huwa. So take Him a trustee.) meaning, He is the Owner and Controller of affairs in the eastern regions and the western regions. He is the One except whom there is no deity worthy of worship. Just as you single Him out for worship, you should also single Him out for reliance. Therefore, take Him as a guardian and trustee. This is as Allah says in another Ayah,
+
+فَاعْبُدْهُ وَتَوَكَّلْ عَلَيْهِ
+
+(So worship Him and rely upon him.)(11:123) It is also similar to His statement,
+
+إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ
+
+(You (Alone) we worship, and you (Alone) we ask for help.)(1:5) The Ayat with this meaning are numerous. They contain the command to make worship and acts of obedience exclusively for Allah, and to rely solely upon Him.
 
 ### al-Tabari (Arabic)
 
@@ -696,9 +812,67 @@ Al-Hafiz Abu Ya'la Al-Mawsili said, "Ibrahim bin Sa'id Al-Jawhari told us that A
 
 In fact, this is as true as what he ('Abdur-Rahman) said, The proof for this view is what Imam Ahmad recorded in his Musnad, that Sa'id bin Hisham divorced his wife and then traveled to Al-Madinah in order to sell some property he had with her. He intended to use its money to buy an animal and a weapon and then go for Jihad against the Romans until he died. In the process of this he met a group of his people and they informed him that a group of six men from his people had intended that in the time of the Messenger of Allah ﷺ, upon which he ﷺ said,
 
-أَلَيْسَ لَكُ
+أَلَيْسَ لَكُمْ فِيَّ أُسْوَةٌ حَسَنَةٌ؟
 
-[TRUNCATED at 12000 chars — 7818 more. Consult the source directly before relying on anything near the cut.]
+(Is there not for you all an excellent example in me?)
+
+So he forbade them from that and made them testify that they would take their wives back. Then he (Sa'id) returned to us and informed us that he went to Ibn 'Abbas and asked him about the Witr (prayer). Ibn 'Abbas said, "Shall I not inform you of the person who is the most knowledgeable person on the earth about the Witr prayer of the Messenger of Allah ﷺ?" He said, "Yes." Ibn 'Abbas then said, "Go to 'A'ishah and ask her, then return to me and inform me of what she tells you."
+
+He said, "Then I went to Hakim bin Aflah and requested him to go with me to her. But he said, 'I do not want to be near her. Verily, I forbade her from saying anything concerning these two parties (the parties of 'Ali and Mu'awiyah), but she refused and continued being involved with them (in their conflict).' So I adjured him by Allah, so he came with me and we entered upon her (in her house)." So she said, "Is this the Hakim that I know?" He (Hakim) said, "Yes." Then she said, "Who is this that is with you?" He said, "Sa'id bin Hisham." She said, "Who is Hisham?" He said, "He is Ibn 'Amir." She then asked Allah to have mercy upon him ('Amir). Then she said, "Yes, 'Amir was a true man." Then I (Sa'id) said, "O Mother of the believers! Inform me about the character of the Messenger of Allah ﷺ." She replied, "Have you not read the Qur'an?" I said, "Of course." Then she said, "Verily, the character of the Messenger of Allah ﷺ was the Qur'an." I was about to stand and leave, but then I remembered to ask about the night prayer of the Messenger of Allah ﷺ. I said, "O Mother of the believers! Inform me about the night prayer of the Messenger of Allah ﷺ." She said, "Have you not read the Surah,
+
+يَا أَيُّهَا الْمُزَّمِّلُ
+
+(O you wrapped up.) I said, "Of course." She then said, "Verily, Allah made standing at night (for prayer) obligatory at the beginning of this Surah. So the Messenger of Allah ﷺ and his Companions stood for an entire year during the night (in prayer) until their feet swelled. Allah held back the revelation of the end of this Surah for twelve months. Then, Allah revealed the lightening of this burden at the end of this Surah. Then, the standing for night prayer became voluntary after it used to be obligatory."
+
+I was about to leave when I remembered to ask her about the Witr prayer of the Messenger of Allah ﷺ. So I said, "O Mother of the believers! Inform me about the Witr prayer of the Messenger of Allah ﷺ." She said, "We used to prepare his Siwak (toothstick) for him and his ablution water, and Allah would awaken him whenever He wished to awaken him during the night. Then, he would clean his teeth with the Siwak and perform ablution. Then, he would pray eight (Rak'ahs) units of prayer and he would not sit during them except at the end of the eighth one. At this point he would sit and remember his Lord the Most High, and supplicate to Him. Afterwards he would stand without saying the greeting of peace (Taslim). He would then pray a ninth unit of prayer and then sit. He would remember Allah Alone and then supplicate to Him (during this sitting). Then, he would say the greetings of peace (to conclude the prayer) making it audible to us. Then, he would pray two more units of prayer after this salutation of peace, while he would be sitting. So these are eleven units of prayer, O my son. Then, when he became older and heavier, he would perform Witr prayer with seven units of prayer, and then he would pray two extra units of prayer after them while sitting after the salutation of peace. So these are nine units of prayer, O my son. Whenever the Messenger of Allah ﷺ used to pray a particular prayer, he liked to remain consistent in its performance. If he would ever be preoccupied from performing the night prayer by oversleeping, pain or illness, he would pray twelve units of supererogatory prayer during the day. I do not know of Allah's Prophet ﷺ ever reciting the entire Qur'an in one night before morning nor did he fast an entire month other than the month of Ramadan."
+
+So I went to Ibn 'Abbas and told him what she had said. Ibn 'Abbas then said, "She has spoken truthfully and if I had went to her house I would have remained until she spoke directly to me and I could see her lips moving." This is how Imam Ahmad recorded this narration in its entirety. Muslim also recorded similarly in his Sahih.
+
+Ibn Jarir recorded from Abu 'Abdur-Rahman that he said, "When the Ayah
+
+يَا أَيُّهَا الْمُزَّمِّلُ
+
+(O you wrapped.)(73:1) was revealed, the people stood in night prayer for an entire year until their feet and shins swelled. This continued until Allah revealed,
+
+فَاقْرَءُوا مَا تَيَسَّرَ مِنْهُ
+
+(So recite of it what is easy.)(73:20) Then the people relaxed." Al-Hasan Al-Basri and As-Suddi both said the same. 'Ali bin Abi Talhah reported from Ibn 'Abbas that he said concerning Allah's statement,
+
+قُمِ اللَّيْلَ إِلَّا قَلِيلًا - نِصْفَهُ أَوِ انْقُصْ مِنْهُ قَلِيلًا
+
+(Stand (to pray) all night, except a little. Half of it or less than that, a little.)(73:2-3) "This became difficult on the believers. Then Allah lightened the matter for them and had mercy on them when He revealed after this,
+
+عَلِمَ أَن سَيَكُونُ مِنكُم مَّرْضَىٰ ۙ وَآخَرُونَ يَضْرِبُونَ فِي الْأَرْضِ يَبْتَغُونَ مِن فَضْلِ اللَّهِ ۙ
+
+(He knows that there will be some among you sick, others traveling through the land, seeking of Allah's bounty.) until Allah says,
+
+فَاقْرَءُوا مَا تَيَسَّرَ مِنْهُ
+
+(So, recite you of the Qur'an as much as may be easy for you.)(73:20) So Allah made the matter easy – and unto Him is due all praise – and he did not make matters difficult." Then Allah says,
+
+وَاذْكُرِ اسْمَ رَبِّكَ وَتَبَتَّلْ إِلَيْهِ تَبْتِيلًا
+
+(And remember the Name of your Lord and (Tabattal) devote yourself to Him with complete devotion.) meaning, make much remembrance (Dhikr) of Him, devote yourself to Him and spend your time worshipping Him when you have completed your occupations and what you need from the affairs of your worldly matters. This is as Allah says,
+
+فَإِذَا فَرَغْتَ فَانْصَبْ
+
+(So when you have finished (your occupation), devote yourself for Allah's worship.)(94:7) meaning, when you have completed your tasks and occupations, then busy yourself in His obedience and His worship so that you will have free time for leisure. The meaning of this was said by Ibn Zayd, or close to its meaning. Ibn 'Abbas, Mujahid, Abu Salih, 'Atiyah, Ad-Dahhak and As-Suddi, all said,
+
+وَتَبَتَّلْ إِلَيْهِ تَبْتِيلًا
+
+(And (Tabattal) devote yourself to Him with complete devotion.) "This means, make your worship solely for Him alone." Al-Hasan said, "Strive and devote yourself to Him." Ibn Jarir said, "A devout worshipper is called Mutabattil. An example of this is the reported Hadith that he (the Prophet ﷺ) forbade At-Tabattul, which means total devotion to worship while avoiding getting married." Allah said,
+
+رَبُّ الْمَشْرِقِ وَالْمَغْرِبِ لَا إِلَٰهَ إِلَّا هُوَ فَاتَّخِذْهُ وَكِيلًا
+
+(Lord of the east and the west; La ilaha illa Huwa. So take Him a trustee.) meaning, He is the Owner and Controller of affairs in the eastern regions and the western regions. He is the One except whom there is no deity worthy of worship. Just as you single Him out for worship, you should also single Him out for reliance. Therefore, take Him as a guardian and trustee. This is as Allah says in another Ayah,
+
+فَاعْبُدْهُ وَتَوَكَّلْ عَلَيْهِ
+
+(So worship Him and rely upon him.)(11:123) It is also similar to His statement,
+
+إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ
+
+(You (Alone) we worship, and you (Alone) we ask for help.)(1:5) The Ayat with this meaning are numerous. They contain the command to make worship and acts of obedience exclusively for Allah, and to rely solely upon Him.
 
 ### al-Tabari (Arabic)
 
@@ -962,9 +1136,67 @@ Al-Hafiz Abu Ya'la Al-Mawsili said, "Ibrahim bin Sa'id Al-Jawhari told us that A
 
 In fact, this is as true as what he ('Abdur-Rahman) said, The proof for this view is what Imam Ahmad recorded in his Musnad, that Sa'id bin Hisham divorced his wife and then traveled to Al-Madinah in order to sell some property he had with her. He intended to use its money to buy an animal and a weapon and then go for Jihad against the Romans until he died. In the process of this he met a group of his people and they informed him that a group of six men from his people had intended that in the time of the Messenger of Allah ﷺ, upon which he ﷺ said,
 
-أَلَيْسَ لَكُ
+أَلَيْسَ لَكُمْ فِيَّ أُسْوَةٌ حَسَنَةٌ؟
 
-[TRUNCATED at 12000 chars — 7818 more. Consult the source directly before relying on anything near the cut.]
+(Is there not for you all an excellent example in me?)
+
+So he forbade them from that and made them testify that they would take their wives back. Then he (Sa'id) returned to us and informed us that he went to Ibn 'Abbas and asked him about the Witr (prayer). Ibn 'Abbas said, "Shall I not inform you of the person who is the most knowledgeable person on the earth about the Witr prayer of the Messenger of Allah ﷺ?" He said, "Yes." Ibn 'Abbas then said, "Go to 'A'ishah and ask her, then return to me and inform me of what she tells you."
+
+He said, "Then I went to Hakim bin Aflah and requested him to go with me to her. But he said, 'I do not want to be near her. Verily, I forbade her from saying anything concerning these two parties (the parties of 'Ali and Mu'awiyah), but she refused and continued being involved with them (in their conflict).' So I adjured him by Allah, so he came with me and we entered upon her (in her house)." So she said, "Is this the Hakim that I know?" He (Hakim) said, "Yes." Then she said, "Who is this that is with you?" He said, "Sa'id bin Hisham." She said, "Who is Hisham?" He said, "He is Ibn 'Amir." She then asked Allah to have mercy upon him ('Amir). Then she said, "Yes, 'Amir was a true man." Then I (Sa'id) said, "O Mother of the believers! Inform me about the character of the Messenger of Allah ﷺ." She replied, "Have you not read the Qur'an?" I said, "Of course." Then she said, "Verily, the character of the Messenger of Allah ﷺ was the Qur'an." I was about to stand and leave, but then I remembered to ask about the night prayer of the Messenger of Allah ﷺ. I said, "O Mother of the believers! Inform me about the night prayer of the Messenger of Allah ﷺ." She said, "Have you not read the Surah,
+
+يَا أَيُّهَا الْمُزَّمِّلُ
+
+(O you wrapped up.) I said, "Of course." She then said, "Verily, Allah made standing at night (for prayer) obligatory at the beginning of this Surah. So the Messenger of Allah ﷺ and his Companions stood for an entire year during the night (in prayer) until their feet swelled. Allah held back the revelation of the end of this Surah for twelve months. Then, Allah revealed the lightening of this burden at the end of this Surah. Then, the standing for night prayer became voluntary after it used to be obligatory."
+
+I was about to leave when I remembered to ask her about the Witr prayer of the Messenger of Allah ﷺ. So I said, "O Mother of the believers! Inform me about the Witr prayer of the Messenger of Allah ﷺ." She said, "We used to prepare his Siwak (toothstick) for him and his ablution water, and Allah would awaken him whenever He wished to awaken him during the night. Then, he would clean his teeth with the Siwak and perform ablution. Then, he would pray eight (Rak'ahs) units of prayer and he would not sit during them except at the end of the eighth one. At this point he would sit and remember his Lord the Most High, and supplicate to Him. Afterwards he would stand without saying the greeting of peace (Taslim). He would then pray a ninth unit of prayer and then sit. He would remember Allah Alone and then supplicate to Him (during this sitting). Then, he would say the greetings of peace (to conclude the prayer) making it audible to us. Then, he would pray two more units of prayer after this salutation of peace, while he would be sitting. So these are eleven units of prayer, O my son. Then, when he became older and heavier, he would perform Witr prayer with seven units of prayer, and then he would pray two extra units of prayer after them while sitting after the salutation of peace. So these are nine units of prayer, O my son. Whenever the Messenger of Allah ﷺ used to pray a particular prayer, he liked to remain consistent in its performance. If he would ever be preoccupied from performing the night prayer by oversleeping, pain or illness, he would pray twelve units of supererogatory prayer during the day. I do not know of Allah's Prophet ﷺ ever reciting the entire Qur'an in one night before morning nor did he fast an entire month other than the month of Ramadan."
+
+So I went to Ibn 'Abbas and told him what she had said. Ibn 'Abbas then said, "She has spoken truthfully and if I had went to her house I would have remained until she spoke directly to me and I could see her lips moving." This is how Imam Ahmad recorded this narration in its entirety. Muslim also recorded similarly in his Sahih.
+
+Ibn Jarir recorded from Abu 'Abdur-Rahman that he said, "When the Ayah
+
+يَا أَيُّهَا الْمُزَّمِّلُ
+
+(O you wrapped.)(73:1) was revealed, the people stood in night prayer for an entire year until their feet and shins swelled. This continued until Allah revealed,
+
+فَاقْرَءُوا مَا تَيَسَّرَ مِنْهُ
+
+(So recite of it what is easy.)(73:20) Then the people relaxed." Al-Hasan Al-Basri and As-Suddi both said the same. 'Ali bin Abi Talhah reported from Ibn 'Abbas that he said concerning Allah's statement,
+
+قُمِ اللَّيْلَ إِلَّا قَلِيلًا - نِصْفَهُ أَوِ انْقُصْ مِنْهُ قَلِيلًا
+
+(Stand (to pray) all night, except a little. Half of it or less than that, a little.)(73:2-3) "This became difficult on the believers. Then Allah lightened the matter for them and had mercy on them when He revealed after this,
+
+عَلِمَ أَن سَيَكُونُ مِنكُم مَّرْضَىٰ ۙ وَآخَرُونَ يَضْرِبُونَ فِي الْأَرْضِ يَبْتَغُونَ مِن فَضْلِ اللَّهِ ۙ
+
+(He knows that there will be some among you sick, others traveling through the land, seeking of Allah's bounty.) until Allah says,
+
+فَاقْرَءُوا مَا تَيَسَّرَ مِنْهُ
+
+(So, recite you of the Qur'an as much as may be easy for you.)(73:20) So Allah made the matter easy – and unto Him is due all praise – and he did not make matters difficult." Then Allah says,
+
+وَاذْكُرِ اسْمَ رَبِّكَ وَتَبَتَّلْ إِلَيْهِ تَبْتِيلًا
+
+(And remember the Name of your Lord and (Tabattal) devote yourself to Him with complete devotion.) meaning, make much remembrance (Dhikr) of Him, devote yourself to Him and spend your time worshipping Him when you have completed your occupations and what you need from the affairs of your worldly matters. This is as Allah says,
+
+فَإِذَا فَرَغْتَ فَانْصَبْ
+
+(So when you have finished (your occupation), devote yourself for Allah's worship.)(94:7) meaning, when you have completed your tasks and occupations, then busy yourself in His obedience and His worship so that you will have free time for leisure. The meaning of this was said by Ibn Zayd, or close to its meaning. Ibn 'Abbas, Mujahid, Abu Salih, 'Atiyah, Ad-Dahhak and As-Suddi, all said,
+
+وَتَبَتَّلْ إِلَيْهِ تَبْتِيلًا
+
+(And (Tabattal) devote yourself to Him with complete devotion.) "This means, make your worship solely for Him alone." Al-Hasan said, "Strive and devote yourself to Him." Ibn Jarir said, "A devout worshipper is called Mutabattil. An example of this is the reported Hadith that he (the Prophet ﷺ) forbade At-Tabattul, which means total devotion to worship while avoiding getting married." Allah said,
+
+رَبُّ الْمَشْرِقِ وَالْمَغْرِبِ لَا إِلَٰهَ إِلَّا هُوَ فَاتَّخِذْهُ وَكِيلًا
+
+(Lord of the east and the west; La ilaha illa Huwa. So take Him a trustee.) meaning, He is the Owner and Controller of affairs in the eastern regions and the western regions. He is the One except whom there is no deity worthy of worship. Just as you single Him out for worship, you should also single Him out for reliance. Therefore, take Him as a guardian and trustee. This is as Allah says in another Ayah,
+
+فَاعْبُدْهُ وَتَوَكَّلْ عَلَيْهِ
+
+(So worship Him and rely upon him.)(11:123) It is also similar to His statement,
+
+إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ
+
+(You (Alone) we worship, and you (Alone) we ask for help.)(1:5) The Ayat with this meaning are numerous. They contain the command to make worship and acts of obedience exclusively for Allah, and to rely solely upon Him.
 
 ### al-Tabari (Arabic)
 
@@ -1228,9 +1460,67 @@ Al-Hafiz Abu Ya'la Al-Mawsili said, "Ibrahim bin Sa'id Al-Jawhari told us that A
 
 In fact, this is as true as what he ('Abdur-Rahman) said, The proof for this view is what Imam Ahmad recorded in his Musnad, that Sa'id bin Hisham divorced his wife and then traveled to Al-Madinah in order to sell some property he had with her. He intended to use its money to buy an animal and a weapon and then go for Jihad against the Romans until he died. In the process of this he met a group of his people and they informed him that a group of six men from his people had intended that in the time of the Messenger of Allah ﷺ, upon which he ﷺ said,
 
-أَلَيْسَ لَكُ
+أَلَيْسَ لَكُمْ فِيَّ أُسْوَةٌ حَسَنَةٌ؟
 
-[TRUNCATED at 12000 chars — 7818 more. Consult the source directly before relying on anything near the cut.]
+(Is there not for you all an excellent example in me?)
+
+So he forbade them from that and made them testify that they would take their wives back. Then he (Sa'id) returned to us and informed us that he went to Ibn 'Abbas and asked him about the Witr (prayer). Ibn 'Abbas said, "Shall I not inform you of the person who is the most knowledgeable person on the earth about the Witr prayer of the Messenger of Allah ﷺ?" He said, "Yes." Ibn 'Abbas then said, "Go to 'A'ishah and ask her, then return to me and inform me of what she tells you."
+
+He said, "Then I went to Hakim bin Aflah and requested him to go with me to her. But he said, 'I do not want to be near her. Verily, I forbade her from saying anything concerning these two parties (the parties of 'Ali and Mu'awiyah), but she refused and continued being involved with them (in their conflict).' So I adjured him by Allah, so he came with me and we entered upon her (in her house)." So she said, "Is this the Hakim that I know?" He (Hakim) said, "Yes." Then she said, "Who is this that is with you?" He said, "Sa'id bin Hisham." She said, "Who is Hisham?" He said, "He is Ibn 'Amir." She then asked Allah to have mercy upon him ('Amir). Then she said, "Yes, 'Amir was a true man." Then I (Sa'id) said, "O Mother of the believers! Inform me about the character of the Messenger of Allah ﷺ." She replied, "Have you not read the Qur'an?" I said, "Of course." Then she said, "Verily, the character of the Messenger of Allah ﷺ was the Qur'an." I was about to stand and leave, but then I remembered to ask about the night prayer of the Messenger of Allah ﷺ. I said, "O Mother of the believers! Inform me about the night prayer of the Messenger of Allah ﷺ." She said, "Have you not read the Surah,
+
+يَا أَيُّهَا الْمُزَّمِّلُ
+
+(O you wrapped up.) I said, "Of course." She then said, "Verily, Allah made standing at night (for prayer) obligatory at the beginning of this Surah. So the Messenger of Allah ﷺ and his Companions stood for an entire year during the night (in prayer) until their feet swelled. Allah held back the revelation of the end of this Surah for twelve months. Then, Allah revealed the lightening of this burden at the end of this Surah. Then, the standing for night prayer became voluntary after it used to be obligatory."
+
+I was about to leave when I remembered to ask her about the Witr prayer of the Messenger of Allah ﷺ. So I said, "O Mother of the believers! Inform me about the Witr prayer of the Messenger of Allah ﷺ." She said, "We used to prepare his Siwak (toothstick) for him and his ablution water, and Allah would awaken him whenever He wished to awaken him during the night. Then, he would clean his teeth with the Siwak and perform ablution. Then, he would pray eight (Rak'ahs) units of prayer and he would not sit during them except at the end of the eighth one. At this point he would sit and remember his Lord the Most High, and supplicate to Him. Afterwards he would stand without saying the greeting of peace (Taslim). He would then pray a ninth unit of prayer and then sit. He would remember Allah Alone and then supplicate to Him (during this sitting). Then, he would say the greetings of peace (to conclude the prayer) making it audible to us. Then, he would pray two more units of prayer after this salutation of peace, while he would be sitting. So these are eleven units of prayer, O my son. Then, when he became older and heavier, he would perform Witr prayer with seven units of prayer, and then he would pray two extra units of prayer after them while sitting after the salutation of peace. So these are nine units of prayer, O my son. Whenever the Messenger of Allah ﷺ used to pray a particular prayer, he liked to remain consistent in its performance. If he would ever be preoccupied from performing the night prayer by oversleeping, pain or illness, he would pray twelve units of supererogatory prayer during the day. I do not know of Allah's Prophet ﷺ ever reciting the entire Qur'an in one night before morning nor did he fast an entire month other than the month of Ramadan."
+
+So I went to Ibn 'Abbas and told him what she had said. Ibn 'Abbas then said, "She has spoken truthfully and if I had went to her house I would have remained until she spoke directly to me and I could see her lips moving." This is how Imam Ahmad recorded this narration in its entirety. Muslim also recorded similarly in his Sahih.
+
+Ibn Jarir recorded from Abu 'Abdur-Rahman that he said, "When the Ayah
+
+يَا أَيُّهَا الْمُزَّمِّلُ
+
+(O you wrapped.)(73:1) was revealed, the people stood in night prayer for an entire year until their feet and shins swelled. This continued until Allah revealed,
+
+فَاقْرَءُوا مَا تَيَسَّرَ مِنْهُ
+
+(So recite of it what is easy.)(73:20) Then the people relaxed." Al-Hasan Al-Basri and As-Suddi both said the same. 'Ali bin Abi Talhah reported from Ibn 'Abbas that he said concerning Allah's statement,
+
+قُمِ اللَّيْلَ إِلَّا قَلِيلًا - نِصْفَهُ أَوِ انْقُصْ مِنْهُ قَلِيلًا
+
+(Stand (to pray) all night, except a little. Half of it or less than that, a little.)(73:2-3) "This became difficult on the believers. Then Allah lightened the matter for them and had mercy on them when He revealed after this,
+
+عَلِمَ أَن سَيَكُونُ مِنكُم مَّرْضَىٰ ۙ وَآخَرُونَ يَضْرِبُونَ فِي الْأَرْضِ يَبْتَغُونَ مِن فَضْلِ اللَّهِ ۙ
+
+(He knows that there will be some among you sick, others traveling through the land, seeking of Allah's bounty.) until Allah says,
+
+فَاقْرَءُوا مَا تَيَسَّرَ مِنْهُ
+
+(So, recite you of the Qur'an as much as may be easy for you.)(73:20) So Allah made the matter easy – and unto Him is due all praise – and he did not make matters difficult." Then Allah says,
+
+وَاذْكُرِ اسْمَ رَبِّكَ وَتَبَتَّلْ إِلَيْهِ تَبْتِيلًا
+
+(And remember the Name of your Lord and (Tabattal) devote yourself to Him with complete devotion.) meaning, make much remembrance (Dhikr) of Him, devote yourself to Him and spend your time worshipping Him when you have completed your occupations and what you need from the affairs of your worldly matters. This is as Allah says,
+
+فَإِذَا فَرَغْتَ فَانْصَبْ
+
+(So when you have finished (your occupation), devote yourself for Allah's worship.)(94:7) meaning, when you have completed your tasks and occupations, then busy yourself in His obedience and His worship so that you will have free time for leisure. The meaning of this was said by Ibn Zayd, or close to its meaning. Ibn 'Abbas, Mujahid, Abu Salih, 'Atiyah, Ad-Dahhak and As-Suddi, all said,
+
+وَتَبَتَّلْ إِلَيْهِ تَبْتِيلًا
+
+(And (Tabattal) devote yourself to Him with complete devotion.) "This means, make your worship solely for Him alone." Al-Hasan said, "Strive and devote yourself to Him." Ibn Jarir said, "A devout worshipper is called Mutabattil. An example of this is the reported Hadith that he (the Prophet ﷺ) forbade At-Tabattul, which means total devotion to worship while avoiding getting married." Allah said,
+
+رَبُّ الْمَشْرِقِ وَالْمَغْرِبِ لَا إِلَٰهَ إِلَّا هُوَ فَاتَّخِذْهُ وَكِيلًا
+
+(Lord of the east and the west; La ilaha illa Huwa. So take Him a trustee.) meaning, He is the Owner and Controller of affairs in the eastern regions and the western regions. He is the One except whom there is no deity worthy of worship. Just as you single Him out for worship, you should also single Him out for reliance. Therefore, take Him as a guardian and trustee. This is as Allah says in another Ayah,
+
+فَاعْبُدْهُ وَتَوَكَّلْ عَلَيْهِ
+
+(So worship Him and rely upon him.)(11:123) It is also similar to His statement,
+
+إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ
+
+(You (Alone) we worship, and you (Alone) we ask for help.)(1:5) The Ayat with this meaning are numerous. They contain the command to make worship and acts of obedience exclusively for Allah, and to rely solely upon Him.
 
 ### al-Tabari (Arabic)
 
@@ -1564,9 +1854,67 @@ Al-Hafiz Abu Ya'la Al-Mawsili said, "Ibrahim bin Sa'id Al-Jawhari told us that A
 
 In fact, this is as true as what he ('Abdur-Rahman) said, The proof for this view is what Imam Ahmad recorded in his Musnad, that Sa'id bin Hisham divorced his wife and then traveled to Al-Madinah in order to sell some property he had with her. He intended to use its money to buy an animal and a weapon and then go for Jihad against the Romans until he died. In the process of this he met a group of his people and they informed him that a group of six men from his people had intended that in the time of the Messenger of Allah ﷺ, upon which he ﷺ said,
 
-أَلَيْسَ لَكُ
+أَلَيْسَ لَكُمْ فِيَّ أُسْوَةٌ حَسَنَةٌ؟
 
-[TRUNCATED at 12000 chars — 7818 more. Consult the source directly before relying on anything near the cut.]
+(Is there not for you all an excellent example in me?)
+
+So he forbade them from that and made them testify that they would take their wives back. Then he (Sa'id) returned to us and informed us that he went to Ibn 'Abbas and asked him about the Witr (prayer). Ibn 'Abbas said, "Shall I not inform you of the person who is the most knowledgeable person on the earth about the Witr prayer of the Messenger of Allah ﷺ?" He said, "Yes." Ibn 'Abbas then said, "Go to 'A'ishah and ask her, then return to me and inform me of what she tells you."
+
+He said, "Then I went to Hakim bin Aflah and requested him to go with me to her. But he said, 'I do not want to be near her. Verily, I forbade her from saying anything concerning these two parties (the parties of 'Ali and Mu'awiyah), but she refused and continued being involved with them (in their conflict).' So I adjured him by Allah, so he came with me and we entered upon her (in her house)." So she said, "Is this the Hakim that I know?" He (Hakim) said, "Yes." Then she said, "Who is this that is with you?" He said, "Sa'id bin Hisham." She said, "Who is Hisham?" He said, "He is Ibn 'Amir." She then asked Allah to have mercy upon him ('Amir). Then she said, "Yes, 'Amir was a true man." Then I (Sa'id) said, "O Mother of the believers! Inform me about the character of the Messenger of Allah ﷺ." She replied, "Have you not read the Qur'an?" I said, "Of course." Then she said, "Verily, the character of the Messenger of Allah ﷺ was the Qur'an." I was about to stand and leave, but then I remembered to ask about the night prayer of the Messenger of Allah ﷺ. I said, "O Mother of the believers! Inform me about the night prayer of the Messenger of Allah ﷺ." She said, "Have you not read the Surah,
+
+يَا أَيُّهَا الْمُزَّمِّلُ
+
+(O you wrapped up.) I said, "Of course." She then said, "Verily, Allah made standing at night (for prayer) obligatory at the beginning of this Surah. So the Messenger of Allah ﷺ and his Companions stood for an entire year during the night (in prayer) until their feet swelled. Allah held back the revelation of the end of this Surah for twelve months. Then, Allah revealed the lightening of this burden at the end of this Surah. Then, the standing for night prayer became voluntary after it used to be obligatory."
+
+I was about to leave when I remembered to ask her about the Witr prayer of the Messenger of Allah ﷺ. So I said, "O Mother of the believers! Inform me about the Witr prayer of the Messenger of Allah ﷺ." She said, "We used to prepare his Siwak (toothstick) for him and his ablution water, and Allah would awaken him whenever He wished to awaken him during the night. Then, he would clean his teeth with the Siwak and perform ablution. Then, he would pray eight (Rak'ahs) units of prayer and he would not sit during them except at the end of the eighth one. At this point he would sit and remember his Lord the Most High, and supplicate to Him. Afterwards he would stand without saying the greeting of peace (Taslim). He would then pray a ninth unit of prayer and then sit. He would remember Allah Alone and then supplicate to Him (during this sitting). Then, he would say the greetings of peace (to conclude the prayer) making it audible to us. Then, he would pray two more units of prayer after this salutation of peace, while he would be sitting. So these are eleven units of prayer, O my son. Then, when he became older and heavier, he would perform Witr prayer with seven units of prayer, and then he would pray two extra units of prayer after them while sitting after the salutation of peace. So these are nine units of prayer, O my son. Whenever the Messenger of Allah ﷺ used to pray a particular prayer, he liked to remain consistent in its performance. If he would ever be preoccupied from performing the night prayer by oversleeping, pain or illness, he would pray twelve units of supererogatory prayer during the day. I do not know of Allah's Prophet ﷺ ever reciting the entire Qur'an in one night before morning nor did he fast an entire month other than the month of Ramadan."
+
+So I went to Ibn 'Abbas and told him what she had said. Ibn 'Abbas then said, "She has spoken truthfully and if I had went to her house I would have remained until she spoke directly to me and I could see her lips moving." This is how Imam Ahmad recorded this narration in its entirety. Muslim also recorded similarly in his Sahih.
+
+Ibn Jarir recorded from Abu 'Abdur-Rahman that he said, "When the Ayah
+
+يَا أَيُّهَا الْمُزَّمِّلُ
+
+(O you wrapped.)(73:1) was revealed, the people stood in night prayer for an entire year until their feet and shins swelled. This continued until Allah revealed,
+
+فَاقْرَءُوا مَا تَيَسَّرَ مِنْهُ
+
+(So recite of it what is easy.)(73:20) Then the people relaxed." Al-Hasan Al-Basri and As-Suddi both said the same. 'Ali bin Abi Talhah reported from Ibn 'Abbas that he said concerning Allah's statement,
+
+قُمِ اللَّيْلَ إِلَّا قَلِيلًا - نِصْفَهُ أَوِ انْقُصْ مِنْهُ قَلِيلًا
+
+(Stand (to pray) all night, except a little. Half of it or less than that, a little.)(73:2-3) "This became difficult on the believers. Then Allah lightened the matter for them and had mercy on them when He revealed after this,
+
+عَلِمَ أَن سَيَكُونُ مِنكُم مَّرْضَىٰ ۙ وَآخَرُونَ يَضْرِبُونَ فِي الْأَرْضِ يَبْتَغُونَ مِن فَضْلِ اللَّهِ ۙ
+
+(He knows that there will be some among you sick, others traveling through the land, seeking of Allah's bounty.) until Allah says,
+
+فَاقْرَءُوا مَا تَيَسَّرَ مِنْهُ
+
+(So, recite you of the Qur'an as much as may be easy for you.)(73:20) So Allah made the matter easy – and unto Him is due all praise – and he did not make matters difficult." Then Allah says,
+
+وَاذْكُرِ اسْمَ رَبِّكَ وَتَبَتَّلْ إِلَيْهِ تَبْتِيلًا
+
+(And remember the Name of your Lord and (Tabattal) devote yourself to Him with complete devotion.) meaning, make much remembrance (Dhikr) of Him, devote yourself to Him and spend your time worshipping Him when you have completed your occupations and what you need from the affairs of your worldly matters. This is as Allah says,
+
+فَإِذَا فَرَغْتَ فَانْصَبْ
+
+(So when you have finished (your occupation), devote yourself for Allah's worship.)(94:7) meaning, when you have completed your tasks and occupations, then busy yourself in His obedience and His worship so that you will have free time for leisure. The meaning of this was said by Ibn Zayd, or close to its meaning. Ibn 'Abbas, Mujahid, Abu Salih, 'Atiyah, Ad-Dahhak and As-Suddi, all said,
+
+وَتَبَتَّلْ إِلَيْهِ تَبْتِيلًا
+
+(And (Tabattal) devote yourself to Him with complete devotion.) "This means, make your worship solely for Him alone." Al-Hasan said, "Strive and devote yourself to Him." Ibn Jarir said, "A devout worshipper is called Mutabattil. An example of this is the reported Hadith that he (the Prophet ﷺ) forbade At-Tabattul, which means total devotion to worship while avoiding getting married." Allah said,
+
+رَبُّ الْمَشْرِقِ وَالْمَغْرِبِ لَا إِلَٰهَ إِلَّا هُوَ فَاتَّخِذْهُ وَكِيلًا
+
+(Lord of the east and the west; La ilaha illa Huwa. So take Him a trustee.) meaning, He is the Owner and Controller of affairs in the eastern regions and the western regions. He is the One except whom there is no deity worthy of worship. Just as you single Him out for worship, you should also single Him out for reliance. Therefore, take Him as a guardian and trustee. This is as Allah says in another Ayah,
+
+فَاعْبُدْهُ وَتَوَكَّلْ عَلَيْهِ
+
+(So worship Him and rely upon him.)(11:123) It is also similar to His statement,
+
+إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ
+
+(You (Alone) we worship, and you (Alone) we ask for help.)(1:5) The Ayat with this meaning are numerous. They contain the command to make worship and acts of obedience exclusively for Allah, and to rely solely upon Him.
 
 ### al-Tabari (Arabic)
 
@@ -1900,9 +2248,67 @@ Al-Hafiz Abu Ya'la Al-Mawsili said, "Ibrahim bin Sa'id Al-Jawhari told us that A
 
 In fact, this is as true as what he ('Abdur-Rahman) said, The proof for this view is what Imam Ahmad recorded in his Musnad, that Sa'id bin Hisham divorced his wife and then traveled to Al-Madinah in order to sell some property he had with her. He intended to use its money to buy an animal and a weapon and then go for Jihad against the Romans until he died. In the process of this he met a group of his people and they informed him that a group of six men from his people had intended that in the time of the Messenger of Allah ﷺ, upon which he ﷺ said,
 
-أَلَيْسَ لَكُ
+أَلَيْسَ لَكُمْ فِيَّ أُسْوَةٌ حَسَنَةٌ؟
 
-[TRUNCATED at 12000 chars — 7818 more. Consult the source directly before relying on anything near the cut.]
+(Is there not for you all an excellent example in me?)
+
+So he forbade them from that and made them testify that they would take their wives back. Then he (Sa'id) returned to us and informed us that he went to Ibn 'Abbas and asked him about the Witr (prayer). Ibn 'Abbas said, "Shall I not inform you of the person who is the most knowledgeable person on the earth about the Witr prayer of the Messenger of Allah ﷺ?" He said, "Yes." Ibn 'Abbas then said, "Go to 'A'ishah and ask her, then return to me and inform me of what she tells you."
+
+He said, "Then I went to Hakim bin Aflah and requested him to go with me to her. But he said, 'I do not want to be near her. Verily, I forbade her from saying anything concerning these two parties (the parties of 'Ali and Mu'awiyah), but she refused and continued being involved with them (in their conflict).' So I adjured him by Allah, so he came with me and we entered upon her (in her house)." So she said, "Is this the Hakim that I know?" He (Hakim) said, "Yes." Then she said, "Who is this that is with you?" He said, "Sa'id bin Hisham." She said, "Who is Hisham?" He said, "He is Ibn 'Amir." She then asked Allah to have mercy upon him ('Amir). Then she said, "Yes, 'Amir was a true man." Then I (Sa'id) said, "O Mother of the believers! Inform me about the character of the Messenger of Allah ﷺ." She replied, "Have you not read the Qur'an?" I said, "Of course." Then she said, "Verily, the character of the Messenger of Allah ﷺ was the Qur'an." I was about to stand and leave, but then I remembered to ask about the night prayer of the Messenger of Allah ﷺ. I said, "O Mother of the believers! Inform me about the night prayer of the Messenger of Allah ﷺ." She said, "Have you not read the Surah,
+
+يَا أَيُّهَا الْمُزَّمِّلُ
+
+(O you wrapped up.) I said, "Of course." She then said, "Verily, Allah made standing at night (for prayer) obligatory at the beginning of this Surah. So the Messenger of Allah ﷺ and his Companions stood for an entire year during the night (in prayer) until their feet swelled. Allah held back the revelation of the end of this Surah for twelve months. Then, Allah revealed the lightening of this burden at the end of this Surah. Then, the standing for night prayer became voluntary after it used to be obligatory."
+
+I was about to leave when I remembered to ask her about the Witr prayer of the Messenger of Allah ﷺ. So I said, "O Mother of the believers! Inform me about the Witr prayer of the Messenger of Allah ﷺ." She said, "We used to prepare his Siwak (toothstick) for him and his ablution water, and Allah would awaken him whenever He wished to awaken him during the night. Then, he would clean his teeth with the Siwak and perform ablution. Then, he would pray eight (Rak'ahs) units of prayer and he would not sit during them except at the end of the eighth one. At this point he would sit and remember his Lord the Most High, and supplicate to Him. Afterwards he would stand without saying the greeting of peace (Taslim). He would then pray a ninth unit of prayer and then sit. He would remember Allah Alone and then supplicate to Him (during this sitting). Then, he would say the greetings of peace (to conclude the prayer) making it audible to us. Then, he would pray two more units of prayer after this salutation of peace, while he would be sitting. So these are eleven units of prayer, O my son. Then, when he became older and heavier, he would perform Witr prayer with seven units of prayer, and then he would pray two extra units of prayer after them while sitting after the salutation of peace. So these are nine units of prayer, O my son. Whenever the Messenger of Allah ﷺ used to pray a particular prayer, he liked to remain consistent in its performance. If he would ever be preoccupied from performing the night prayer by oversleeping, pain or illness, he would pray twelve units of supererogatory prayer during the day. I do not know of Allah's Prophet ﷺ ever reciting the entire Qur'an in one night before morning nor did he fast an entire month other than the month of Ramadan."
+
+So I went to Ibn 'Abbas and told him what she had said. Ibn 'Abbas then said, "She has spoken truthfully and if I had went to her house I would have remained until she spoke directly to me and I could see her lips moving." This is how Imam Ahmad recorded this narration in its entirety. Muslim also recorded similarly in his Sahih.
+
+Ibn Jarir recorded from Abu 'Abdur-Rahman that he said, "When the Ayah
+
+يَا أَيُّهَا الْمُزَّمِّلُ
+
+(O you wrapped.)(73:1) was revealed, the people stood in night prayer for an entire year until their feet and shins swelled. This continued until Allah revealed,
+
+فَاقْرَءُوا مَا تَيَسَّرَ مِنْهُ
+
+(So recite of it what is easy.)(73:20) Then the people relaxed." Al-Hasan Al-Basri and As-Suddi both said the same. 'Ali bin Abi Talhah reported from Ibn 'Abbas that he said concerning Allah's statement,
+
+قُمِ اللَّيْلَ إِلَّا قَلِيلًا - نِصْفَهُ أَوِ انْقُصْ مِنْهُ قَلِيلًا
+
+(Stand (to pray) all night, except a little. Half of it or less than that, a little.)(73:2-3) "This became difficult on the believers. Then Allah lightened the matter for them and had mercy on them when He revealed after this,
+
+عَلِمَ أَن سَيَكُونُ مِنكُم مَّرْضَىٰ ۙ وَآخَرُونَ يَضْرِبُونَ فِي الْأَرْضِ يَبْتَغُونَ مِن فَضْلِ اللَّهِ ۙ
+
+(He knows that there will be some among you sick, others traveling through the land, seeking of Allah's bounty.) until Allah says,
+
+فَاقْرَءُوا مَا تَيَسَّرَ مِنْهُ
+
+(So, recite you of the Qur'an as much as may be easy for you.)(73:20) So Allah made the matter easy – and unto Him is due all praise – and he did not make matters difficult." Then Allah says,
+
+وَاذْكُرِ اسْمَ رَبِّكَ وَتَبَتَّلْ إِلَيْهِ تَبْتِيلًا
+
+(And remember the Name of your Lord and (Tabattal) devote yourself to Him with complete devotion.) meaning, make much remembrance (Dhikr) of Him, devote yourself to Him and spend your time worshipping Him when you have completed your occupations and what you need from the affairs of your worldly matters. This is as Allah says,
+
+فَإِذَا فَرَغْتَ فَانْصَبْ
+
+(So when you have finished (your occupation), devote yourself for Allah's worship.)(94:7) meaning, when you have completed your tasks and occupations, then busy yourself in His obedience and His worship so that you will have free time for leisure. The meaning of this was said by Ibn Zayd, or close to its meaning. Ibn 'Abbas, Mujahid, Abu Salih, 'Atiyah, Ad-Dahhak and As-Suddi, all said,
+
+وَتَبَتَّلْ إِلَيْهِ تَبْتِيلًا
+
+(And (Tabattal) devote yourself to Him with complete devotion.) "This means, make your worship solely for Him alone." Al-Hasan said, "Strive and devote yourself to Him." Ibn Jarir said, "A devout worshipper is called Mutabattil. An example of this is the reported Hadith that he (the Prophet ﷺ) forbade At-Tabattul, which means total devotion to worship while avoiding getting married." Allah said,
+
+رَبُّ الْمَشْرِقِ وَالْمَغْرِبِ لَا إِلَٰهَ إِلَّا هُوَ فَاتَّخِذْهُ وَكِيلًا
+
+(Lord of the east and the west; La ilaha illa Huwa. So take Him a trustee.) meaning, He is the Owner and Controller of affairs in the eastern regions and the western regions. He is the One except whom there is no deity worthy of worship. Just as you single Him out for worship, you should also single Him out for reliance. Therefore, take Him as a guardian and trustee. This is as Allah says in another Ayah,
+
+فَاعْبُدْهُ وَتَوَكَّلْ عَلَيْهِ
+
+(So worship Him and rely upon him.)(11:123) It is also similar to His statement,
+
+إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ
+
+(You (Alone) we worship, and you (Alone) we ask for help.)(1:5) The Ayat with this meaning are numerous. They contain the command to make worship and acts of obedience exclusively for Allah, and to rely solely upon Him.
 
 ### al-Tabari (Arabic)
 
@@ -2236,9 +2642,67 @@ Al-Hafiz Abu Ya'la Al-Mawsili said, "Ibrahim bin Sa'id Al-Jawhari told us that A
 
 In fact, this is as true as what he ('Abdur-Rahman) said, The proof for this view is what Imam Ahmad recorded in his Musnad, that Sa'id bin Hisham divorced his wife and then traveled to Al-Madinah in order to sell some property he had with her. He intended to use its money to buy an animal and a weapon and then go for Jihad against the Romans until he died. In the process of this he met a group of his people and they informed him that a group of six men from his people had intended that in the time of the Messenger of Allah ﷺ, upon which he ﷺ said,
 
-أَلَيْسَ لَكُ
+أَلَيْسَ لَكُمْ فِيَّ أُسْوَةٌ حَسَنَةٌ؟
 
-[TRUNCATED at 12000 chars — 7818 more. Consult the source directly before relying on anything near the cut.]
+(Is there not for you all an excellent example in me?)
+
+So he forbade them from that and made them testify that they would take their wives back. Then he (Sa'id) returned to us and informed us that he went to Ibn 'Abbas and asked him about the Witr (prayer). Ibn 'Abbas said, "Shall I not inform you of the person who is the most knowledgeable person on the earth about the Witr prayer of the Messenger of Allah ﷺ?" He said, "Yes." Ibn 'Abbas then said, "Go to 'A'ishah and ask her, then return to me and inform me of what she tells you."
+
+He said, "Then I went to Hakim bin Aflah and requested him to go with me to her. But he said, 'I do not want to be near her. Verily, I forbade her from saying anything concerning these two parties (the parties of 'Ali and Mu'awiyah), but she refused and continued being involved with them (in their conflict).' So I adjured him by Allah, so he came with me and we entered upon her (in her house)." So she said, "Is this the Hakim that I know?" He (Hakim) said, "Yes." Then she said, "Who is this that is with you?" He said, "Sa'id bin Hisham." She said, "Who is Hisham?" He said, "He is Ibn 'Amir." She then asked Allah to have mercy upon him ('Amir). Then she said, "Yes, 'Amir was a true man." Then I (Sa'id) said, "O Mother of the believers! Inform me about the character of the Messenger of Allah ﷺ." She replied, "Have you not read the Qur'an?" I said, "Of course." Then she said, "Verily, the character of the Messenger of Allah ﷺ was the Qur'an." I was about to stand and leave, but then I remembered to ask about the night prayer of the Messenger of Allah ﷺ. I said, "O Mother of the believers! Inform me about the night prayer of the Messenger of Allah ﷺ." She said, "Have you not read the Surah,
+
+يَا أَيُّهَا الْمُزَّمِّلُ
+
+(O you wrapped up.) I said, "Of course." She then said, "Verily, Allah made standing at night (for prayer) obligatory at the beginning of this Surah. So the Messenger of Allah ﷺ and his Companions stood for an entire year during the night (in prayer) until their feet swelled. Allah held back the revelation of the end of this Surah for twelve months. Then, Allah revealed the lightening of this burden at the end of this Surah. Then, the standing for night prayer became voluntary after it used to be obligatory."
+
+I was about to leave when I remembered to ask her about the Witr prayer of the Messenger of Allah ﷺ. So I said, "O Mother of the believers! Inform me about the Witr prayer of the Messenger of Allah ﷺ." She said, "We used to prepare his Siwak (toothstick) for him and his ablution water, and Allah would awaken him whenever He wished to awaken him during the night. Then, he would clean his teeth with the Siwak and perform ablution. Then, he would pray eight (Rak'ahs) units of prayer and he would not sit during them except at the end of the eighth one. At this point he would sit and remember his Lord the Most High, and supplicate to Him. Afterwards he would stand without saying the greeting of peace (Taslim). He would then pray a ninth unit of prayer and then sit. He would remember Allah Alone and then supplicate to Him (during this sitting). Then, he would say the greetings of peace (to conclude the prayer) making it audible to us. Then, he would pray two more units of prayer after this salutation of peace, while he would be sitting. So these are eleven units of prayer, O my son. Then, when he became older and heavier, he would perform Witr prayer with seven units of prayer, and then he would pray two extra units of prayer after them while sitting after the salutation of peace. So these are nine units of prayer, O my son. Whenever the Messenger of Allah ﷺ used to pray a particular prayer, he liked to remain consistent in its performance. If he would ever be preoccupied from performing the night prayer by oversleeping, pain or illness, he would pray twelve units of supererogatory prayer during the day. I do not know of Allah's Prophet ﷺ ever reciting the entire Qur'an in one night before morning nor did he fast an entire month other than the month of Ramadan."
+
+So I went to Ibn 'Abbas and told him what she had said. Ibn 'Abbas then said, "She has spoken truthfully and if I had went to her house I would have remained until she spoke directly to me and I could see her lips moving." This is how Imam Ahmad recorded this narration in its entirety. Muslim also recorded similarly in his Sahih.
+
+Ibn Jarir recorded from Abu 'Abdur-Rahman that he said, "When the Ayah
+
+يَا أَيُّهَا الْمُزَّمِّلُ
+
+(O you wrapped.)(73:1) was revealed, the people stood in night prayer for an entire year until their feet and shins swelled. This continued until Allah revealed,
+
+فَاقْرَءُوا مَا تَيَسَّرَ مِنْهُ
+
+(So recite of it what is easy.)(73:20) Then the people relaxed." Al-Hasan Al-Basri and As-Suddi both said the same. 'Ali bin Abi Talhah reported from Ibn 'Abbas that he said concerning Allah's statement,
+
+قُمِ اللَّيْلَ إِلَّا قَلِيلًا - نِصْفَهُ أَوِ انْقُصْ مِنْهُ قَلِيلًا
+
+(Stand (to pray) all night, except a little. Half of it or less than that, a little.)(73:2-3) "This became difficult on the believers. Then Allah lightened the matter for them and had mercy on them when He revealed after this,
+
+عَلِمَ أَن سَيَكُونُ مِنكُم مَّرْضَىٰ ۙ وَآخَرُونَ يَضْرِبُونَ فِي الْأَرْضِ يَبْتَغُونَ مِن فَضْلِ اللَّهِ ۙ
+
+(He knows that there will be some among you sick, others traveling through the land, seeking of Allah's bounty.) until Allah says,
+
+فَاقْرَءُوا مَا تَيَسَّرَ مِنْهُ
+
+(So, recite you of the Qur'an as much as may be easy for you.)(73:20) So Allah made the matter easy – and unto Him is due all praise – and he did not make matters difficult." Then Allah says,
+
+وَاذْكُرِ اسْمَ رَبِّكَ وَتَبَتَّلْ إِلَيْهِ تَبْتِيلًا
+
+(And remember the Name of your Lord and (Tabattal) devote yourself to Him with complete devotion.) meaning, make much remembrance (Dhikr) of Him, devote yourself to Him and spend your time worshipping Him when you have completed your occupations and what you need from the affairs of your worldly matters. This is as Allah says,
+
+فَإِذَا فَرَغْتَ فَانْصَبْ
+
+(So when you have finished (your occupation), devote yourself for Allah's worship.)(94:7) meaning, when you have completed your tasks and occupations, then busy yourself in His obedience and His worship so that you will have free time for leisure. The meaning of this was said by Ibn Zayd, or close to its meaning. Ibn 'Abbas, Mujahid, Abu Salih, 'Atiyah, Ad-Dahhak and As-Suddi, all said,
+
+وَتَبَتَّلْ إِلَيْهِ تَبْتِيلًا
+
+(And (Tabattal) devote yourself to Him with complete devotion.) "This means, make your worship solely for Him alone." Al-Hasan said, "Strive and devote yourself to Him." Ibn Jarir said, "A devout worshipper is called Mutabattil. An example of this is the reported Hadith that he (the Prophet ﷺ) forbade At-Tabattul, which means total devotion to worship while avoiding getting married." Allah said,
+
+رَبُّ الْمَشْرِقِ وَالْمَغْرِبِ لَا إِلَٰهَ إِلَّا هُوَ فَاتَّخِذْهُ وَكِيلًا
+
+(Lord of the east and the west; La ilaha illa Huwa. So take Him a trustee.) meaning, He is the Owner and Controller of affairs in the eastern regions and the western regions. He is the One except whom there is no deity worthy of worship. Just as you single Him out for worship, you should also single Him out for reliance. Therefore, take Him as a guardian and trustee. This is as Allah says in another Ayah,
+
+فَاعْبُدْهُ وَتَوَكَّلْ عَلَيْهِ
+
+(So worship Him and rely upon him.)(11:123) It is also similar to His statement,
+
+إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ
+
+(You (Alone) we worship, and you (Alone) we ask for help.)(1:5) The Ayat with this meaning are numerous. They contain the command to make worship and acts of obedience exclusively for Allah, and to rely solely upon Him.
 
 ### al-Tabari (Arabic)
 

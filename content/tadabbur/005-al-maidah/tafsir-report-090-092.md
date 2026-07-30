@@ -146,9 +146,41 @@ Ibn Abi Hatim recorded that 'Abdullah bin 'Amr said, "This Ayah in the Qur'an,
 
 يَا أَيُّهَا الَّذِينَ آمَنُوا إِنَّمَا الْخَمْرُ وَالْمَيْسِرُ وَالْأَنصَابُ وَالْأَزْلَامُ رِجْسٌ مِّنْ عَمَلِ الشَّيْطَانِ فَاجْتَنِبُوهُ لَعَلَّكُمْ تُفْلِحُونَ
 
-(O you who believe! Khamr, Maysir, Ansab, and Azlam are only an abomination of Shaytan's handiwork. So avoid that in order that you may be succ
+(O you who believe! Khamr, Maysir, Ansab, and Azlam are only an abomination of Shaytan's handiwork. So avoid that in order that you may be successful.)[5:90], was also in the Tawrah; 'Allah has sent down truth to eradicate falsehood, joyful play, flute or wind instruments, Zafan (dances) and Kibarat (refering to cabarets using the lute and bagpipe), tambourine, guitar, harp and lyric and love poetry. And Khamr is bitter for those who taste it. Allah has vowed by His grace and power, 'Whoever drinks it after I prohibited it, I will make him thirsty on the Day of Resurrection. Whoever abandons it after I prohibited it, I will let him taste it in the residence of Grace (Paradise).'" Its chain of narration is Sahih
 
-[TRUNCATED at 12000 chars — 3756 more. Consult the source directly before relying on anything near the cut.]
+Another Hadith
+
+Ash-Shafi'i narrated that Malik narrated that Nafi' said that Ibn 'Umar said that the Messenger of Allah ﷺ said,
+
+مَنْ شَرِبَ الْخَمْرَ فِي الدُّنْيَا ثُمَّ لَمْ يَتُبْ مِنْهَا حُرِمَهَا فِي الآخِرَةِ
+
+(Whoever drinks Khamr in the life of this world and does not repent from it, will be deprived of it in the Hereafter.)
+
+Al-Bukhari and Muslim recorded this Hadith. Muslim recorded that Ibn 'Umar said that the Messenger of Allah ﷺ said,
+
+كُلُّ مُسْكِرٍ خَمْرٌ، وَكُلُّ مُسْكِرٍ حَرَامٌ، وَمَنْ شَرِبَ الْخَمْرَ فَمَاتَ وَهُوَ يُدْمِنُهَا وَلَمْ يَتُبْ مِنْهَا، لَمْ يَشْرَبْهَا فِي الْآخِرَةِ
+
+(Every intoxicant is Khamr, and every intoxicant is unlawful. Whoever drinks Khamr and dies while addicted to it, without repenting from drinking it, will not drink it in the Hereafter.)
+
+Abdur-Rahman bin Al-Harith bin Hisham said that he heard 'Uthman bin 'Affan saying, "Avoid Khamr, for it is the mother of all sins. There was a man before your time who used to worship Allah secluded from the people. Later, an evil woman loved him and sent her female servant to him saying that they wanted him to witness something. So he went with the servant. Whenever they went through the door, she locked it behind them, until he reached a beautiful woman with a young servant boy and some alcohol. She said to him, 'By Allah! I did not invite you to be a witness for anything, but called you to have sex with me, kill this boy or drink this alcohol.' So she gave him some alcohol, and he kept asking for more until he [became intoxicated and] had sex with her and killed the boy. Therefore, avoid Khamr, because it is never combined with faith, but one of them is bound to expel the other (from the heart)." This was recorded by Al-Bayhaqi. This statement has an authentic chain of narration. Abu Bakr bin Abi Ad-Dunya recorded this statement in his book on the prohibition of intoxicants, but he related it from the Prophet ﷺ. Relating it from 'Uthman is more authentic, and Allah knows best.
+
+Ahmad bin Hanbal recorded that Ibn 'Abbas said, "When Khamr was prohibited, some people said, 'O Allah's Messenger! What about our brethren who died while still drinking Khamr?' Allah sent down the Ayah
+
+لَيْسَ عَلَى الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ جُنَاحٌ فِيمَا طَعِمُوا
+
+(Those who believe and do righteous good deeds, there is no sin on them for what they ate,) until the end of the Ayah. When the Qiblah (direction of the prayer) was changed (from Jerusalem to Makkah), some people asked, 'O Allah's Messenger! What about our brethren who died while still praying toward Jerusalem?' Allah sent down,
+
+وَمَا كَانَ اللَّهُ لِيُضِيعَ إِيمَانَكُمْ
+
+(And Allah would never make your faith to be lost.)"[2:143] 'Abdullah bin Mas'ud said that the Prophet ﷺ said when the Ayah,
+
+لَيْسَ عَلَى الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ جُنَاحٌ فِيمَا طَعِمُوا إِذَا مَا اتَّقَوا وَّآمَنُوا
+
+(Those who believe and do righteous good deeds, there is no sin on them for what they ate, if they have Taqwa, and believe...) was revealed,
+
+قِيلَ لِي: أَنْتَ مِنْهُم
+
+(I was told, that you are among them.) This is the narration that Muslim, At-Tirmidhi and An-Nasa'i collected.
 
 ### al-Tabari (Arabic)
 
@@ -332,9 +364,41 @@ Ibn Abi Hatim recorded that 'Abdullah bin 'Amr said, "This Ayah in the Qur'an,
 
 يَا أَيُّهَا الَّذِينَ آمَنُوا إِنَّمَا الْخَمْرُ وَالْمَيْسِرُ وَالْأَنصَابُ وَالْأَزْلَامُ رِجْسٌ مِّنْ عَمَلِ الشَّيْطَانِ فَاجْتَنِبُوهُ لَعَلَّكُمْ تُفْلِحُونَ
 
-(O you who believe! Khamr, Maysir, Ansab, and Azlam are only an abomination of Shaytan's handiwork. So avoid that in order that you may be succ
+(O you who believe! Khamr, Maysir, Ansab, and Azlam are only an abomination of Shaytan's handiwork. So avoid that in order that you may be successful.)[5:90], was also in the Tawrah; 'Allah has sent down truth to eradicate falsehood, joyful play, flute or wind instruments, Zafan (dances) and Kibarat (refering to cabarets using the lute and bagpipe), tambourine, guitar, harp and lyric and love poetry. And Khamr is bitter for those who taste it. Allah has vowed by His grace and power, 'Whoever drinks it after I prohibited it, I will make him thirsty on the Day of Resurrection. Whoever abandons it after I prohibited it, I will let him taste it in the residence of Grace (Paradise).'" Its chain of narration is Sahih
 
-[TRUNCATED at 12000 chars — 3756 more. Consult the source directly before relying on anything near the cut.]
+Another Hadith
+
+Ash-Shafi'i narrated that Malik narrated that Nafi' said that Ibn 'Umar said that the Messenger of Allah ﷺ said,
+
+مَنْ شَرِبَ الْخَمْرَ فِي الدُّنْيَا ثُمَّ لَمْ يَتُبْ مِنْهَا حُرِمَهَا فِي الآخِرَةِ
+
+(Whoever drinks Khamr in the life of this world and does not repent from it, will be deprived of it in the Hereafter.)
+
+Al-Bukhari and Muslim recorded this Hadith. Muslim recorded that Ibn 'Umar said that the Messenger of Allah ﷺ said,
+
+كُلُّ مُسْكِرٍ خَمْرٌ، وَكُلُّ مُسْكِرٍ حَرَامٌ، وَمَنْ شَرِبَ الْخَمْرَ فَمَاتَ وَهُوَ يُدْمِنُهَا وَلَمْ يَتُبْ مِنْهَا، لَمْ يَشْرَبْهَا فِي الْآخِرَةِ
+
+(Every intoxicant is Khamr, and every intoxicant is unlawful. Whoever drinks Khamr and dies while addicted to it, without repenting from drinking it, will not drink it in the Hereafter.)
+
+Abdur-Rahman bin Al-Harith bin Hisham said that he heard 'Uthman bin 'Affan saying, "Avoid Khamr, for it is the mother of all sins. There was a man before your time who used to worship Allah secluded from the people. Later, an evil woman loved him and sent her female servant to him saying that they wanted him to witness something. So he went with the servant. Whenever they went through the door, she locked it behind them, until he reached a beautiful woman with a young servant boy and some alcohol. She said to him, 'By Allah! I did not invite you to be a witness for anything, but called you to have sex with me, kill this boy or drink this alcohol.' So she gave him some alcohol, and he kept asking for more until he [became intoxicated and] had sex with her and killed the boy. Therefore, avoid Khamr, because it is never combined with faith, but one of them is bound to expel the other (from the heart)." This was recorded by Al-Bayhaqi. This statement has an authentic chain of narration. Abu Bakr bin Abi Ad-Dunya recorded this statement in his book on the prohibition of intoxicants, but he related it from the Prophet ﷺ. Relating it from 'Uthman is more authentic, and Allah knows best.
+
+Ahmad bin Hanbal recorded that Ibn 'Abbas said, "When Khamr was prohibited, some people said, 'O Allah's Messenger! What about our brethren who died while still drinking Khamr?' Allah sent down the Ayah
+
+لَيْسَ عَلَى الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ جُنَاحٌ فِيمَا طَعِمُوا
+
+(Those who believe and do righteous good deeds, there is no sin on them for what they ate,) until the end of the Ayah. When the Qiblah (direction of the prayer) was changed (from Jerusalem to Makkah), some people asked, 'O Allah's Messenger! What about our brethren who died while still praying toward Jerusalem?' Allah sent down,
+
+وَمَا كَانَ اللَّهُ لِيُضِيعَ إِيمَانَكُمْ
+
+(And Allah would never make your faith to be lost.)"[2:143] 'Abdullah bin Mas'ud said that the Prophet ﷺ said when the Ayah,
+
+لَيْسَ عَلَى الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ جُنَاحٌ فِيمَا طَعِمُوا إِذَا مَا اتَّقَوا وَّآمَنُوا
+
+(Those who believe and do righteous good deeds, there is no sin on them for what they ate, if they have Taqwa, and believe...) was revealed,
+
+قِيلَ لِي: أَنْتَ مِنْهُم
+
+(I was told, that you are among them.) This is the narration that Muslim, At-Tirmidhi and An-Nasa'i collected.
 
 ### al-Tabari (Arabic)
 
@@ -426,9 +490,41 @@ Ibn Abi Hatim recorded that 'Abdullah bin 'Amr said, "This Ayah in the Qur'an,
 
 وخرجه السيوطي في الدر المنثور ٢: ٣١٥. وزاد نسبته إلى عبد بن حميد، وابن المنذر، وأبي الشيخ، وابن مردويه.]]
 
-١٢٥٢٣ - حدثنا محمد بن خلف قال، حدثنا سعيد بن محمد الجرمي، عن أبي تميلة، عن سلام مولى حفص بن أبي القاسم، عن ابن بريدة، عن أبيه قال: بينما نحن قعود على شرابٍ لنا، [ونحن على رَمْلة، ونحن ثلاثة أو أربعة، وعندنا باطِيةٌ لنا] ، ونحن نشرب الخمر حِلا إذ قمت حتى آتي رسول الله ﷺ فأسلم عليه، وقد نزل تحريم الخمر:"يا أيها الذين آمنوا إنما الخمر والميسر والأنصابُ والأزلام رجسٌ من عمل الشيطان"، إلى آخر الآيتين،"فهل أنتم منتهون"، فجئت إلى أصحابي ف
+١٢٥٢٣ - حدثنا محمد بن خلف قال، حدثنا سعيد بن محمد الجرمي، عن أبي تميلة، عن سلام مولى حفص بن أبي القاسم، عن ابن بريدة، عن أبيه قال: بينما نحن قعود على شرابٍ لنا، [ونحن على رَمْلة، ونحن ثلاثة أو أربعة، وعندنا باطِيةٌ لنا] ، ونحن نشرب الخمر حِلا إذ قمت حتى آتي رسول الله ﷺ فأسلم عليه، وقد نزل تحريم الخمر:"يا أيها الذين آمنوا إنما الخمر والميسر والأنصابُ والأزلام رجسٌ من عمل الشيطان"، إلى آخر الآيتين،"فهل أنتم منتهون"، فجئت إلى أصحابي فقرأتها عليهم إلى قوله:"فهل أنتم منتهون"؟ قال: وبعض القوم شربته في يده، قد شرب بعضًا وبقي بعضٌ في الإناء، فقال بالإناء تحت شفته العليا كما يفعل الحجّام. ثم صبوا ما في باطيهتهم، فقالوا: انتهينا ربّنا! انتهينا ربَّنا! [[الأثر: ١٢٥٢٣ -"محمد بن خلف بن عمار العسقلاني"، شيخ الطبري، مضى برقم: ١٢٦، ٦٥٣٤.
 
-[TRUNCATED at 12000 chars — 4043 more. Consult the source directly before relying on anything near the cut.]
+"سعيد بن محمد بن سعيد الجرمي". كوفي ثقة. روى عنه البخاري ومسلم. قال أبو زرعة: "ذاكرت عنه أحمد بأحاديث، فعرفه" وقال: صدوق، وكان يطلب معنا الحديث". مترجم في التهذيب، والكبير ٢/١/٤٧١، وابن أبي حاتم ٢/١/٥٩.
+
+و"أبو تميلة"، هو: "يحيى بن واضح الأنصاري" مضى مرارًا، آخرها رقم: ٩٠٠٩.
+
+و"سلام، مولى حفص، أبو القاسم الليثي"، مروزي، مترجم في الكبير ٢/٢/١٣٤، وابن أبي حاتم ٢/١/٢٦٢. وقال البخاري في الكبير: "سمع عبد الله بن بريدة، عن أبيه: نزلت في تحريم الخمر"، قاله سعيد الجرمي: سمع يحيى بن واضح، سمع سلاما"، إشارة إلى هذا الخبر. ولم يذكر البخاري فيه جرحًا. وقال المعلق على الجرح والتعديل لابن أبي حاتم: "وفي الثقات: سلام الليثي، والد أبي عبيد القاسم بن سلام". وكان في المطبوعة هنا: "مولى حفص بن أبي قيس" لا أدري كيف استحل لنفسه تغيير ما كان في المخطوطة صوابًا، إلى خطأ لا ندري ما هو.
+
+و"ابن بريدة"، هو"عبد الله بن بريدة بن الحصيب الأسلمي" قاضي مرو، أخوه: "سليمان بريدة"، كانا توأمين. روى عن أبيه، وابن عباس، وابن عمرو، وابن عمر، وابن مسعود، وغيرهم من الصحابة. تكلم فيه أحمد بن حنبل. قال الجوزجاني: "قلت لأبي عبد الله: سمع عبد الله من أبيه شيئًا؟ قال: ما أدري، عامة ما يروى عن بريدة عنه. وضعف حديثه". ووثقه ابن معين وأبو حاتم. مترجم في التهذيب، وابن أبي حاتم ٢ / ٢ / ١٣. وكان في المطبوعة"أبي بريدة"، وهو خطأ محض، صوابه في المخطوطة.
+
+وأبوه"بريدة بن الحصيب الأسلمي"، صحابي قديم الإسلام، قبل بدر. استعمله رسول الله ﷺ على صدقات قومه.
+
+وهذا الخبر ذكره ابن كثير في تفسيره ٣: ٢٣٠، من رواية أبي جعفر، وفيه"عن أبي بريدة" كخطأ المطبوعة. والسيوطي في الدر المنثور ٢: ٣١٥.
+
+والزيادة التي بين القوسين من تفسير ابن كثير، وهو لم ينقل هذا عن غير الطبري، فلذلك زدتها، والظاهر أنها سقطت من ناسخ نسختنا. وإن كان السيوطي قد ذكر الأثر بغير هذه الزيادة.
+
+وقوله: "ونحن على رملة"، يعني، في رملة منبتة مريعة. و"الباطية": ناجود الخمر، وهي إناء عظيم من زجاج، تملأ من الشراب، وتوضع بين الشرب يغرفون منها ويشربون. وقوله: "قال بالإناء"، يعني: أماله ثم نزعه، كفعل الحجام وهو ينزع كأس الحجامة.]]
+
+* *
+
+وقال آخرون: إنما كانت العداوة والبغضاء، كانت تكون بين الذين نزلت فيهم هذه الآية بسبب الميسر، لا بسبب السُّكر الذي يحدث لهم من شرب الخمر. فلذلك نهاهم الله عن الميسر.
+
+ذكر من قال ذلك:
+
+١٢٥٢٤ - حدثنا بشر قال، حدثنا جامع بن حماد قال، حدثنا يزيد بن زريع = قال بشر: وقد سمعته من يزيد وحدثنيه = قال، حدثنا سعيد، عن قتادة قال: كان الرجل في الجاهلية يقامِر على أهله وماله، فيقعد حَرِيبًا سليبًا ينظر إلى ماله في يَدَي غيره، [[في المطبوعة: "حزينًا سليبًا"، وهي في المخطوطة غير منقوطة، وصواب قراءتها ما أثبت."حرب الرجل ماله، فهو محروب وحريب": إذا أخذ حريبته، وهو ماله الذي يعيش به، وتركه بلا شيء.]] فكانت تُورِث بينهم عداوة وبغضاءَ، فنهى الله عن ذلك وقدَّم فيه. والله أعلم بالذي يصلح خلقه. [[الأثر: ١٢٥٢٤-"جامع بن حماد"، انظر ما علقته على الأثر رقم: ١٢٣٤٤.
+
+واذكر أن هذا الأثر قد مضى قبل، ولكن خفي علي مكانه.]]
+
+* *
+
+قال أبو جعفر: والصواب من القول في ذلك عندنا أن يقال، إنّ الله تعالى قد سمَّى هذه الأشياء التي سمّاها في هذه الآية"رجسًا"، وأمر باجتنابها.
+
+وقد اختلف أهل التأويل في السبب الذي من أجله نزلت هذه الآية، وجائز أن يكون نزولها كان بسبب دُعاء عمر رضى الله عنه في أمر الخمر = وجائز أن يكون ذلك كان بسبب ما نالَ سعدًا من الأنصاري عند انتِشائهما من الشراب = وجائز أن يكون كان من أجل ما كان يلحق أحدَهم عند ذهاب ماله بالقمار من عداوة من يَسَرَه وبغضِه، [["يسره"، يعني: غلبه في الميسر، وأخذ ماله. قال الزمخشري: "من المجاز: أسروه، ويسروا ماله. وتياسرت الأهواء قلبه، قال ذو الرمة: بِتَفْرِيقِ أَظْعَانٍ تيايَسَرْنَ قَلْبَهُ ... وَخَانَ العَصَا مِنْ عَاجِلِ البَيْنِ قَادِحُ
+
+وهذا اللفظ كما استعمله أبو جعفر، لم تقيده كتب اللغة، ولكن مقالة الزمخشري دالة على صوابه، كما قالوا من"القمار": "قمره".]] وليس عندنا بأيِّ ذلك كان، خيرٌ قاطع للعذر. غير أنه أيّ ذلك كان، فقد لزم حكم الآية جميعَ أهل التكليف، وغيرُ ضائرهم الجهل بالسبب الذي له نزلت هذه الآية. فالخمر والميسر والأنصاب والأزلام رجسٌ من عمل الشيطان، فرضٌ على جميع من بلغته الآية من التكليفُ اجتنابُ جميع ذلك، كما قال تعالى:"فاجتنبوه لعلكم تفلحون".
 
 ### al-Muyassar (Arabic)
 
@@ -580,9 +676,41 @@ Ibn Abi Hatim recorded that 'Abdullah bin 'Amr said, "This Ayah in the Qur'an,
 
 يَا أَيُّهَا الَّذِينَ آمَنُوا إِنَّمَا الْخَمْرُ وَالْمَيْسِرُ وَالْأَنصَابُ وَالْأَزْلَامُ رِجْسٌ مِّنْ عَمَلِ الشَّيْطَانِ فَاجْتَنِبُوهُ لَعَلَّكُمْ تُفْلِحُونَ
 
-(O you who believe! Khamr, Maysir, Ansab, and Azlam are only an abomination of Shaytan's handiwork. So avoid that in order that you may be succ
+(O you who believe! Khamr, Maysir, Ansab, and Azlam are only an abomination of Shaytan's handiwork. So avoid that in order that you may be successful.)[5:90], was also in the Tawrah; 'Allah has sent down truth to eradicate falsehood, joyful play, flute or wind instruments, Zafan (dances) and Kibarat (refering to cabarets using the lute and bagpipe), tambourine, guitar, harp and lyric and love poetry. And Khamr is bitter for those who taste it. Allah has vowed by His grace and power, 'Whoever drinks it after I prohibited it, I will make him thirsty on the Day of Resurrection. Whoever abandons it after I prohibited it, I will let him taste it in the residence of Grace (Paradise).'" Its chain of narration is Sahih
 
-[TRUNCATED at 12000 chars — 3756 more. Consult the source directly before relying on anything near the cut.]
+Another Hadith
+
+Ash-Shafi'i narrated that Malik narrated that Nafi' said that Ibn 'Umar said that the Messenger of Allah ﷺ said,
+
+مَنْ شَرِبَ الْخَمْرَ فِي الدُّنْيَا ثُمَّ لَمْ يَتُبْ مِنْهَا حُرِمَهَا فِي الآخِرَةِ
+
+(Whoever drinks Khamr in the life of this world and does not repent from it, will be deprived of it in the Hereafter.)
+
+Al-Bukhari and Muslim recorded this Hadith. Muslim recorded that Ibn 'Umar said that the Messenger of Allah ﷺ said,
+
+كُلُّ مُسْكِرٍ خَمْرٌ، وَكُلُّ مُسْكِرٍ حَرَامٌ، وَمَنْ شَرِبَ الْخَمْرَ فَمَاتَ وَهُوَ يُدْمِنُهَا وَلَمْ يَتُبْ مِنْهَا، لَمْ يَشْرَبْهَا فِي الْآخِرَةِ
+
+(Every intoxicant is Khamr, and every intoxicant is unlawful. Whoever drinks Khamr and dies while addicted to it, without repenting from drinking it, will not drink it in the Hereafter.)
+
+Abdur-Rahman bin Al-Harith bin Hisham said that he heard 'Uthman bin 'Affan saying, "Avoid Khamr, for it is the mother of all sins. There was a man before your time who used to worship Allah secluded from the people. Later, an evil woman loved him and sent her female servant to him saying that they wanted him to witness something. So he went with the servant. Whenever they went through the door, she locked it behind them, until he reached a beautiful woman with a young servant boy and some alcohol. She said to him, 'By Allah! I did not invite you to be a witness for anything, but called you to have sex with me, kill this boy or drink this alcohol.' So she gave him some alcohol, and he kept asking for more until he [became intoxicated and] had sex with her and killed the boy. Therefore, avoid Khamr, because it is never combined with faith, but one of them is bound to expel the other (from the heart)." This was recorded by Al-Bayhaqi. This statement has an authentic chain of narration. Abu Bakr bin Abi Ad-Dunya recorded this statement in his book on the prohibition of intoxicants, but he related it from the Prophet ﷺ. Relating it from 'Uthman is more authentic, and Allah knows best.
+
+Ahmad bin Hanbal recorded that Ibn 'Abbas said, "When Khamr was prohibited, some people said, 'O Allah's Messenger! What about our brethren who died while still drinking Khamr?' Allah sent down the Ayah
+
+لَيْسَ عَلَى الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ جُنَاحٌ فِيمَا طَعِمُوا
+
+(Those who believe and do righteous good deeds, there is no sin on them for what they ate,) until the end of the Ayah. When the Qiblah (direction of the prayer) was changed (from Jerusalem to Makkah), some people asked, 'O Allah's Messenger! What about our brethren who died while still praying toward Jerusalem?' Allah sent down,
+
+وَمَا كَانَ اللَّهُ لِيُضِيعَ إِيمَانَكُمْ
+
+(And Allah would never make your faith to be lost.)"[2:143] 'Abdullah bin Mas'ud said that the Prophet ﷺ said when the Ayah,
+
+لَيْسَ عَلَى الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ جُنَاحٌ فِيمَا طَعِمُوا إِذَا مَا اتَّقَوا وَّآمَنُوا
+
+(Those who believe and do righteous good deeds, there is no sin on them for what they ate, if they have Taqwa, and believe...) was revealed,
+
+قِيلَ لِي: أَنْتَ مِنْهُم
+
+(I was told, that you are among them.) This is the narration that Muslim, At-Tirmidhi and An-Nasa'i collected.
 
 ### al-Tabari (Arabic)
 

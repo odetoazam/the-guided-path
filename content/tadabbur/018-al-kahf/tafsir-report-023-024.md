@@ -160,9 +160,645 @@ The majority of the scholars state that reciting the Isti'adhah (in the prayer a
 
 فَاسْتَعِذْ
 
-(Then seek refuge.) He said that the Ayah contains a command that requires implementation. Also, the Prophet ﷺ always said the Isti'adhah. In addition, the Isti'adhah wards off the evil of Satan, which is neccessary, the rule is that the means needed to implement a requirement of the religion is itself also required. And when one says, "I seek refuge
+(Then seek refuge.) He said that the Ayah contains a command that requires implementation. Also, the Prophet ﷺ always said the Isti'adhah. In addition, the Isti'adhah wards off the evil of Satan, which is neccessary, the rule is that the means needed to implement a requirement of the religion is itself also required. And when one says, "I seek refuge with Allah from the cursed devil." Then this will suffice.
 
-[TRUNCATED at 12000 chars — 67677 more. Consult the source directly before relying on anything near the cut.]
+Virtues of the Isti'adhah
+
+The Isti'adhah cleanses the mouth from the foul speech that it has indulged in. It also purifies the mouth and prepares it to recite the speech of Allah. Further, the Isti'adhah entails seeking Allah's help and acknowledging His ability to do everything. The Isti'adhah also affirms the servant's meekness, weakness and inability to face the enemy of his inner evil, whom Allah alone, Who created this enemy, is able to repel and defeat. This enemy does not accept kindness, unlike the human enemy. There are three Ayat in the Qur'an that affirm this fact. Also, Allah said,
+
+إِنَّ عِبَادِي لَيْسَ لَكَ عَلَيْهِمْ سُلْطَانٌ ۚ وَكَفَىٰ بِرَبِّكَ وَكِيلًا
+
+(Verily, My servants (i.e. the true believers of Islamic Monotheism) ـ you have no authority over them. And sufficient is your Lord as a Guardian.)(17:65).
+
+We should state here that the believers, whom the human enemies kill, become martyrs, while those who fall victim to the inner enemy - Satan - become bandits. Further, the believers who are defeated by the apparent enemy - disbelievers - gain a reward, while those defeated by the inner enemy earn a sin and become misguided. Since Satan sees man where man cannot see him, it is befitting that the believers seek refuge from Satan with Whom Satan cannot see. The Isti'adhah is a form of drawing closer to Allah and seeking refuge with Him from the evil of every evil creature.
+
+What does Isti'adhah mean?
+
+Isti'adhah means, "I seek refuge with Allah from the cursed Satan so that he is prevented from affecting my religious or worldly affairs, or hindering me from adhering to what I was commanded, or luring me into what I was prohibited from." Indeed, only Allah is able to prevent the evil of Satan from touching the son of Adam. This is why Allah allowed us to be lenient and kind with the human devil, so that his soft nature might cause him to refrain from the evil he is indulging in. However, Allah required us to seek refuge with Him from the evil of Satan, because he neither accepts bribes nor does kindness affect him, for he is pure evil. Thus, only He Who created Satan is able to stop his evil. This meaning is reiterated in only three Ayat in the Qur'an. Allah said in Surat Al-A'raf,
+
+خُذِ الْعَفْوَ وَأْمُرْ بِالْعُرْفِ وَأَعْرِضْ عَنِ الْجَاهِلِينَ
+
+(Show forgiveness, enjoin what is good, and turn away from the foolish (i.e. don't punish them).)(7:199)
+
+This is about dealing with human beings. He then said in the same Surah,
+
+وَإِمَّا يَنزَغَنَّكَ مِنَ الشَّيْطَانِ نَزْغٌ فَاسْتَعِذْ بِاللَّهِ ۚ إِنَّهُ سَمِيعٌ عَلِيمٌ
+
+(And if an evil whisper comes to you from Shaytan, then seek refuge with Allah. Verily, He is Hearing, Knowing (7:200).)
+
+Allah also said in Surat Al-Mu'minun,
+
+ادْفَعْ بِالَّتِي هِيَ أَحْسَنُ السَّيِّئَةَ ۚ نَحْنُ أَعْلَمُ بِمَا يَصِفُونَ - وَقُل رَّبِّ أَعُوذُ بِكَ مِنْ هَمَزَاتِ الشَّيَاطِينِ - وَأَعُوذُ بِكَ رَبِّ أَن يَحْضُرُونِ
+
+(Repel evil with that which is better. We are Best-Acquainted with the things they utter. And say: "My Lord! I seek refuge with You from the whisperings (suggestions) of the Shayatin (devils). And I seek refuge with You, My Lord! lest they should come near me." (23:96-98).)
+
+Further, Allah said in Surat As-Sajdah,
+
+وَلَا تَسْتَوِي الْحَسَنَةُ وَلَا السَّيِّئَةُ ۚ ادْفَعْ بِالَّتِي هِيَ أَحْسَنُ فَإِذَا الَّذِي بَيْنَكَ وَبَيْنَهُ عَدَاوَةٌ كَأَنَّهُ وَلِيٌّ حَمِيمٌ - وَمَا يُلَقَّاهَا إِلَّا الَّذِينَ صَبَرُوا وَمَا يُلَقَّاهَا إِلَّا ذُو حَظٍّ عَظِيمٍ - وَإِمَّا يَنزَغَنَّكَ مِنَ الشَّيْطَانِ نَزْغٌ فَاسْتَعِذْ بِاللَّهِ ۖ إِنَّهُ هُوَ السَّمِيعُ الْعَلِيمُ
+
+(The good deed and the evil deed cannot be equal. Repel (the evil) with one which is better, then verily he, between whom and you there was enmity, (will become) as though he was a close friend. But none is granted it (the above quality) except those who are patient ـ and none is granted it except the owner of the great portion (of happiness in the Hereafter, i.e. Paradise and of a high moral character) in this world. And if an evil whisper from Shaytan tries to turn you away (from doing good), then seek refuge in Allah. Verily, He is the Hearing, the Knowing)(41:34-36).
+
+Why the Devil is called Shaytan
+
+In the Arabic language, Shaytan is derived from Shatana, which means the far thing. Hence, the Shaytan has a different nature than mankind, and his sinful ways are far away from every type of righteousness. It was also said that Shaytan is derived from Shata, (literally 'burned'), because it was created from fire. Some scholars said that both meanings are correct, although they state that the first meaning is more plausible. Further, Siybawayh (the renowned Arab linguistic) said, "The Arabs say, 'So-and-so has Tashaytan,' when he commits the act of the devils. If Shaytan was derived from Shata, they would have said, Tashayyata (rather than Tashaytan)." Hence, Shaytan is derived from the word that means, far away. This is why they call those who are rebellious (or mischievous) from among the Jinns and mankind a 'Shaytan'. Allah said,
+
+وَكَذَٰلِكَ جَعَلْنَا لِكُلِّ نَبِيٍّ عَدُوًّا شَيَاطِينَ الْإِنسِ وَالْجِنِّ يُوحِي بَعْضُهُمْ إِلَىٰ بَعْضٍ زُخْرُفَ الْقَوْلِ غُرُورًا
+
+(And so We have appointed for every Prophet enemies ـ Shayatin (devils) among mankind and Jinn, inspiring one another with adorned speech as a delusion (or by way of deception))(6:112).
+
+In addition, the Musnad by Imam Ahmad records that Abu Dharr said that the Messenger of Allah ﷺ said,
+
+يَا أَبَا ذَرِّ تَعَوَّذْ بِاللهِ مِنْ شَيَاطِينِ الْإِنْسِ وَالْجِنِّ
+
+(O Abu Dharr! Seek refuge with Allah from the devils of mankind and the Jinns.) Abu Dharr said, "I asked him ﷺ, 'Are there human devils?' He said, (Yes.)" Furthermore, it is recorded in Sahih Muslim that Abu Dharr said that the Messenger of Allah ﷺ said,
+
+يَقْطَعُ الصَّلَاةَ الْمَرْأَةُ وَالْحِمَارُ وَالْكَلْبُ الْأَسْوَدُ
+
+(The woman, the donkey and the black dog interrupt the prayer (if they pass in front of those who do not pray behind a Sutrah, i.e. a barrier).) Abu Dharr said, "I said, 'What is the difference between the black dog and the red or yellow dog?' He said,
+
+الْكَلْبُ الْأَسْوَدُ شَيْطَانٌ
+
+(The black dog is a devil.)."
+
+Also, Ibn Jarir At-Tabari recorded that 'Umar bin Al-Khattab once rode a Berthawn (huge camel) which started to proceed arrogantly. 'Umar kept striking the animal, but the animal kept walking in an arrogant manner. 'Umar dismounted the animal and said, "By Allah! You have carried me on a Shaytan. I did not come down from it until after I had felt something strange in my heart." This Hadith has an authentic chain of narrators.
+
+The Meaning of Ar-Rajim
+
+Ar-Rajim means, being expelled from all types of righteousness. Allah said,
+
+وَلَقَدْ زَيَّنَّا السَّمَاءَ الدُّنْيَا بِمَصَابِيحَ وَجَعَلْنَاهَا رُجُومًا لِّلشَّيَاطِينِ
+
+(And indeed We have adorned the nearest heaven with lamps, and We have made such lamps Rujuman (as missiles) to drive away the Shayatin (devils))(67:5).
+
+Allah also said,
+
+إِنَّا زَيَّنَّا السَّمَاءَ الدُّنْيَا بِزِينَةٍ الْكَوَاكِبِ - وَحِفْظًا مِّن كُلِّ شَيْطَانٍ مَّارِدٍ - لَّا يَسَّمَّعُونَ إِلَى الْمَلَإِ الْأَعْلَىٰ وَيُقْذَفُونَ مِن كُلِّ جَانِبٍ - دُحُورًا ۖ وَلَهُمْ عَذَابٌ وَاصِبٌ - إِلَّا مَنْ خَطِفَ الْخَطْفَةَ فَأَتْبَعَهُ شِهَابٌ ثَاقِبٌ
+
+(Verily, We have adorned the near heaven with the stars (for beauty). And to guard against every rebellious devil. They cannot listen to the higher group (angels) for they are pelted from every side. Outcast, and theirs is a constant (or painful) torment. Except such as snatch away something by stealing, and they are pursued by a flaming fire of piercing brightness)(37:6-10).
+
+Further, Allah said,
+
+وَلَقَدْ جَعَلْنَا فِي السَّمَاءِ بُرُوجًا وَزَيَّنَّاهَا لِلنَّاظِرِينَ - وَحَفِظْنَاهَا مِن كُلِّ شَيْطَانٍ رَّجِيمٍ - إِلَّا مَنِ اسْتَرَقَ السَّمْعَ فَأَتْبَعَهُ شِهَابٌ مُّبِينٌ
+
+(And indeed, We have put the big stars in the heaven and We beautified it for the beholders. And We have guarded it (near heaven) from every Shaytan Rajim (outcast Shaytan). Except him (devil) who steals the hearing then he is pursued by a clear flaming fire.)(15:16-18).
+
+There are several similar Ayat. It was also said that Rajim means, the person who throws or bombards things, because the devil throws doubts and evil thoughts in people's hearts. The first meaning is more popular and accurate.
+
+Bismillah is the First Ayah of Al-Fatihah
+
+The Companions started the Book of Allah with Bismillah:
+
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+
+(1. In the Name of Allah, the Most Gracious, the Most Merciful.)
+
+The scholars also agree that Bismillah is a part of an Ayah in Surat An-Naml (chapter 27). They disagree over whether it is a separate Ayah before every Surah, or if it is an Ayah, or a part of an Ayah, included in every Surah where the Bismillah appears in its beginning. Ad-Daraqutni also recorded a Hadith from Abu Hurayrah from the Prophet ﷺ that supports this Hadith by Ibn Khuzaymah. Also, similar statements were attributed to 'Ali, Ibn 'Abbas and others.
+
+The opinion that Bismillah is an Ayah of every Surah, except Al-Bara'ah (chapter 9), was attributed to (the Companions) Ibn 'Abbas, Ibn 'Umar, Ibn Az-Zubayr, Abu Hurayrah and 'Ali. This opinion was also attributed to the Tabi'in: 'Ata', Tawus, Sa'id bin Jubayr, Makhul and Az-Zuhri. This is also the view of 'Abdullah bin Al-Mubarak, Ash-Shafi'i, Ahmad bin Hanbal, (in one report from him) Ishaq bin Rahwayh and Abu 'Ubayd Al-Qasim bin Salam. On the other hand, Malik, Abu Hanifah and their followers said that Bismillah is not an Ayah in Al-Fatihah or any other Surah. Dawud said that it is a separate Ayah in the beginning of every Surah, not part of the Surah itself, and this opinion was also attributed to Ahmad bin Hanbal.
+
+Basmalah aloud in the Prayer
+
+As for Basmalah aloud during the prayer, those who did not agree that it is a part of Al-Fatihah, state that the Basmalah should not be aloud. The scholars who stated that Bismillah is a part of every Surah (except chapter 9) had different opinions; some of them, such as Ash-Shafi'i, said that one should recite Bismillah with Al-Fatihah aloud. This is also the opinion of many among the Companions, the Tabi'in and the Imams of Muslims from the Salaf and the later generations. For instance, this is the opinion of Abu Hurayrah, Ibn 'Umar, Ibn 'Abbas, Mu'awiyah, 'Umar and 'Ali - according to Ibn 'Abdul-Barr and Al-Bayhaqi. Also, the Four Khalifahs - as Al-Khatib reported - were said to have held this view although the report from them is contradicted. The Tabi'in scholars who gave this Tafsir include Sa'id bin Jubayr, 'Ikrimah, Abu Qilabah, Az-Zuhri, 'Ali bin Al-Hasan, his son Muhammad, Sa'id bin Al-Musayyib, 'Ata', Tawus, Mujahid, Salim, Muhammad bin Ka'b Al-Qurazi, Abu Bakr bin Muhammad bin 'Amr bin Hazm, Abu Wa'il, Ibn Sirin, Muhammad bin Al-Munkadir, 'Ali bin 'Abdullah bin 'Abbas, his son Muhammad, Nafi' the freed slave of Ibn 'Umar, Zayd bin Aslam, 'Umar bin 'Abdul-Aziz, Al-Azraq bin Qays, Habib bin Abi Thabit, Abu Ash-Sha'tha', Makhul and 'Abdullah bin Ma'qil bin Muqarrin. Also, Al-Bayhaqi added 'Abdullah bin Safwan, and Muhammad bin Al-Hanafiyyah to this list. In addition, Ibn 'Abdul-Barr added 'Amr bin Dinar.
+
+The proof that these scholars relied on is that, since Bismillah is a part of Al-Fatihah, it should be recited aloud like the rest of Al-Fatihah. Also, An-Nasa'i recorded in his Sunan, Ibn Hibban and Ibn Khuzaymah in their Sahihs and Al-Hakim in the Mustadrak, that Abu Hurayrah once performed the prayer and recited Bismillah aloud. After he finished the prayer, he said, "Among you, I perform the prayer that is the closest to the prayer of the Messenger of Allah ﷺ." Ad-Daraqutni, Al-Khatib and Al-Bayhaqi graded this Hadith Sahih Furthermore, in Sahih Al-Bukhari it is recorded that Anas bin Malik was asked about the recitation of the Prophet ﷺ. He said, "His recitation was unhurried." He then demonstrated that and recited, while lengthening the recitation of Bismillah Ar-Rahman Ar-Rahim, Also, in the Musnad of Imam Ahmad, the Sunan of Abu Dawud, the Sahih of Ibn Hibban and the Mustadrak of Al-Hakim - it is recorded that Umm Salamah said, "The Messenger of Allah used to distinguish each Ayah during his recitation,
+
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ - الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ - الرَّحْمَٰنِ الرَّحِيمِ - مَالِكِ يَوْمِ الدِّينِ
+
+(In the Name of Allah, the Most Gracious, the Most Merciful. All praise and thanks be to Allah, the Lord of all that exists, the Most Gracious, the Most Merciful. The Owner of the Day of Recompense.)"
+
+Ad-Daraqutni graded the chain of narration for this Hadith Sahih Furthermore, Imam Abu 'Abdullah Ash-Shafi'i and Al-Hakim in his Mustadrak, recorded that Mu'awiyah led the prayer in Al-Madinah and did not recite the Bismillah. The Muhajirin who were present at that prayer criticized that. When Mu'awiyah led the following prayer, he recited the Bismillah aloud.
+
+The Hadiths mentioned above provide sufficient proof for the opinion that the Bismillah is recited aloud. As for the opposing evidences and the scientific analysis of the narrations mentioned their weaknesses or otherwise it is not our desire to discuss this subject at this time.
+
+Other scholars stated that the Bismillah should not be recited aloud in the prayer, and this is the established practice of the Four Khalifahs, as well as 'Abdullah bin Mughaffal and several scholars among the Tabi'in and later generations. It is also the Madhhab (view) of Abu Hanifah, Ath-Thawri and Ahmad bin Hanbal.
+
+Imam Malik stated that the Bismillah is not recited aloud or silently. This group based their view upon what Imam Muslim recorded that 'A'ishah said that the Messenger of Allah ﷺ used to start the prayer by reciting the Takbir (Allahu Akbar; Allah is Greater) and then recite,
+
+الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ
+
+(All praise and thanks be to Allah, the Lord of all that exists.)(Ibn Abi Hatim 1:12).
+
+Also, the Two Sahihs recorded that Anas bin Malik said, "I prayed behind the Prophet ﷺ, Abu Bakr, 'Umar and 'Uthman and they used to start their prayer with,
+
+الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ
+
+(All praise and thanks be to Allah, the Lord of all that exists.)
+
+Muslim added, "And they did not mention,
+
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+
+(In the Name of Allah, the Most Gracious, the Most Merciful) whether in the beginning or the end of the recitation." Similar is recorded in the Sunan books from 'Abdullah bin Mughaffal, may Allah be pleased with him.
+
+These are the opinions held by the respected Imams, and their statements are similar in that they agree that the prayer of those who recite Al-Fatihah aloud or in secret is correct. All the favor is from Allah.
+
+The Virtue of Al-Fatihah
+
+Imam Ahmad recorded in his Musnad, that a person who was riding behind the Prophet ﷺ said, "The Prophet's animal tripped, so I said, 'Cursed Shaytan.' The Prophet ﷺ said,
+
+لَا تَقُلْ: تَعِسَ الشَّيْطَانُ، فَإِنَّكَ إِذَا قُلْتَ: تَعِسَ الشَّيْطَانُ، تَعَاظَمَ وَقَالَ: بِقُوَّتِي صَرَعْتُهُ، وَإِذَا قُلْتَ: بِاسْمِ اللهِ تَصَاغَرَ حَتى يَصِيرَ مِثْلَ الذُّبَابِ
+
+(Do not say, 'Cursed Shaytan,' for if you say these words, Satan becomes arrogant and says, 'With my strength I made him fall.' When you say, 'Bismillah,' Satan will become as small as a fly.)
+
+Further, An-Nasa'i recorded in his book Al-Yawm wal-Laylah, and also Ibn Marduwyah in his Tafsir that Usamah bin 'Umayr said, "I was riding behind the Prophet..." and he mentioned the rest of the above Hadith. The Prophet ﷺ said in this narration,
+
+لَا تَقُلْ هٰكَذَا فَإِنَّهُ يَتَعَاظَمُ حَتَّى يَكُونَ كَالْبَيْتِ، وَلٰكِنْ قُلْ: بِسْمِ اللهِ، فَإنَّهُ يَصْغَرُ حَتَّى يَكُونَ كَالذُّبَابَةِ
+
+(Do not say these words, because then Satan becomes larger; as large as a house. Rather, say, 'Bismillah,' because Satan then becomes as small as a fly.)
+
+This is the blessing of reciting Bismillah.
+
+Basmalah is recommended before performing any Deed
+
+Basmalah (reciting Bismillah) is recommended before starting any action or deed. For instance, Basmalah is recommended before starting a Khutbah (speech).
+
+The Basmalah is also recommended before one enters the place where he wants to relieve himself, there is a Hadith concerning this practice. Further, Basmalah is recommended at the beginning of ablution, for Imam Ahmad and the Sunan compilers recorded that Abu Hurayrah, Sa'id bin Zayd and Abu Sa'id narrated from the Prophet ﷺ,
+
+لَا وُضُوءَ لِمَنْ لَمْ يَذْكُرِ اسْمَ اللهِ عَلَيْهِ
+
+(There is no valid ablution for he who did not mention Allah's Name in it.)
+
+This Hadith is Hasan (good). Also, the Basmalah is recommended before eating, for Muslim recorded in his Sahih that the Messenger of Allah ﷺ said to 'Umar bin Abi Salamah while he was a child under his care,
+
+قُلْ بِسْمِ اللهِ وَكُلْ بِيَمِينِكَ وَكُلْ مِمَّا يَلِيكَ
+
+Some of the scholars stated that Basmalah before eating is obligatory. Basmalah before having sexual intercourse is also recommended. The Two Sahihs recorded that Ibn 'Abbas said that the Messenger of Allah ﷺ said,
+
+لَوْ أَنَّ أَحَدَكُمْ إِذَا أَرَادَ أَنْ يَأْتِيَ أَهْلَهُ قَالَ: بِسْمِ اللهِ اللَّهُمَّ جَنِّبْنَا الشَّيْطَانَ وَجَنِّبِ الشَّيْطَانَ مَا رَزَقْتَنَا، فَإنَّهُ إِنْ يُقَدَّرْ بَيْنَهُمَا وَلَدٌ لَمْ يَضُرَّهُ الشَّيْطَانُ أَبَدًا
+
+(If anyone of you before having sexual relations with his wife says, 'In the Name of Allah. O Allah! Protect us from Satan and also protect what you grant us (meaning the coming offspring) from Satan,' and if it is destined that they should have a child then, Satan will never be able to harm that child.)
+
+The Meaning of "Allah"
+
+Allah is the Name of the Lord, the Exalted. It is said that Allah is the Greatest Name of Allah, because it is referred to when describing Allah by the various attributes. For instance, Allah said,
+
+هُوَ اللَّهُ الَّذِي لَا إِلَٰهَ إِلَّا هُوَ ۖ عَالِمُ الْغَيْبِ وَالشَّهَادَةِ ۖ هُوَ الرَّحْمَٰنُ الرَّحِيمُ - هُوَ اللَّهُ الَّذِي لَا إِلَٰهَ إِلَّا هُوَ الْمَلِكُ الْقُدُّوسُ السَّلَامُ الْمُؤْمِنُ الْمُهَيْمِنُ الْعَزِيزُ الْجَبَّارُ الْمُتَكَبِّرُ ۚ سُبْحَانَ اللَّهِ عَمَّا يُشْرِكُونَ - هُوَ اللَّهُ الْخَالِقُ الْبَارِئُ الْمُصَوِّرُ ۖ لَهُ الْأَسْمَاءُ الْحُسْنَىٰ ۚ يُسَبِّحُ لَهُ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ ۖ وَهُوَ الْعَزِيزُ الْحَكِيمُ
+
+(He is Allah, beside Whom La ilaha illa Huwa (none has the right to be worshipped but He) the Knower of the unseen and the seen. He is the Most Gracious, the Most Merciful. He is Allah, beside Whom La ilaha illa Huwa, the King, the Holy, the One free from all defects, the Giver of security, the Watcher over His creatures, the Almighty, the Compeller, the Supreme. Glory be to Allah! (High is He) above all that they associate as partners with Him. He is Allah, the Creator, the Inventor of all things, the Bestower of forms. To Him belong the Best Names. All that is in the heavens and the earth glorify Him. And He is the Almighty, the Wise)(59:22-24).
+
+Hence, Allah mentioned several of His Names as Attributes for His Name Allah. Similarly, Allah said,
+
+وَللَّهِ الأَسْمَآءُ الْحُسْنَىٰ فَادْعُوهُ بِهَا
+
+(And (all) the Most Beautiful Names belong to Allah, so call on Him by them)(7:180), and,
+
+قُلِ ادْعُوا اللَّهَ أَوِ ادْعُوا الرَّحْمَٰنَ أَيًّا مَّا تَدْعُوا فَلَهُ الْأَسْمَاءُ الْحُسْنَىٰ
+
+(Say (O Muhammad ﷺ:) "Invoke Allah or invoke the Most Gracious (Allah), by whatever name you invoke Him (it is the same), for to Him belong the Best Names.")(17:110)
+
+Also, the Two Sahihs recorded that Abu Hurayrah said that the Messenger of Allah ﷺ said,
+
+إِنَّ للهِ تِسْعَةً وَتِسْعِينَ اسْمًا، مِائَةً إِلَّا وَاحِدًا، مَنْ أَحْصَاهَا دَخَلَ الْجَنَّةَ
+
+(Allah has ninety-nine Names, one hundred minus one, whoever counts (and preserves) them, will enter Paradise.)
+
+These Names were mentioned in a Hadith recorded by At-Tirmidhi and Ibn Majah, and there are several differences between these two narrations.
+
+The Meaning of Ar-Rahman Ar-Rahim - the Most Gracious, the Most Merciful
+
+Ar-Rahman and Ar-Rahim are two names derived from Ar-Rahmah (the mercy), but Rahman has more meanings that pertain to mercy than Ar-Rahim. There is a statement by Ibn Jarir that indicates that there is a consensus on this meaning. Further, Al-Qurtubi said, "The proof that these names are derived (from Ar-Rahmah), is what At-Tirmidhi recorded - and graded Sahih from 'Abdur-Rahman bin 'Awf that he heard the Messenger of Allah ﷺ say,
+
+قَالَ اللهُ تَعَالىٰ: أَنَا الرَّحْمٰنُ خَلَقْتُ الرَّحِمَ وَشَقَقْتُ لَهَا اسْمًا مِنِ اسْمِي، فَمَنْ وَصَلَهَا وَصَلْتُهُ وَمَنْ قَطَعَها قَطَعْتُهُ
+
+(Allah the Exalted said, 'I Am Ar-Rahman. I created the Raham (womb, i.e. family relations) and derived a name for it from My Name. Hence, whoever keeps it, I will keep ties to him, and whoever severs it, I will sever ties with him.')
+
+He then said, "This is a text that indicates the derivation." He then said, "The Arabs denied the name Ar-Rahman, because of their ignorance about Allah and His attributes."
+
+Al-Qurtubi said, "It was said that both Ar-Rahman and Ar-Rahim have the same meaning, such as the words Nadman and Nadim, as Abu 'Ubayd has stated. Abu 'Ali Al-Farisi said, 'Ar-Rahman, which is exclusively for Allah, is a name that encompasses every type of mercy that Allah has. Ar-Rahim is what effects the believers, for Allah said,
+
+وَكَانَ بِالْمُؤْمِنِينَ رَحِيمًا
+
+(And He is ever Rahim (merciful) to the believers.)' (33:43)
+
+Also, Ibn 'Abbas said - about Ar-Rahman and Ar-Rahim, 'They are two soft names, one of them is softer than the other (meaning it carries more implications of mercy).'"
+
+Ibn Jarir said; As-Surri bin Yahya At-Tamimi narrated to me that 'Uthman bin Zufar related that Al-'Azrami said about Ar-Rahman and Ar-Rahim, "He is Ar-Rahman with all creation and Ar-Rahim with the believers." Hence. Allah's statements,
+
+ثُمَّ اسْتَوَىٰ عَلَى الْعَرْشِ ۚ الرَّحْمَٰنُ
+
+(Then He rose over (Istawa) the Throne (in a manner that suits His majesty), Ar-Rahman)(25:59),) and,
+
+الرَّحْمَٰـنُ عَلَى الْعَرْشِ اسْتَوَى
+
+(Ar-Rahman (Allah) rose over (Istawa) the (Mighty) Throne (in a manner that suits His majesty).)(20:5)
+
+Allah thus mentioned the Istawa - rising over the Throne - along with His Name Ar-Rahman, to indicate that His mercy encompasses all of His creation. Allah also said,
+
+وَكَانَ بِالْمُؤْمِنِينَ رَحِيمًا
+
+(And He is ever Rahim (merciful) to the believers), thus encompassing the believers with His Name Ar-Rahim. They said, "This testifies to the fact that Ar-Rahman carries a broader scope of meanings pertaining to the mercy of Allah with His creation in both lives. Meanwhile, Ar-Rahim is exclusively for the believers." Yet, we should mention that there is a supplication that reads,
+
+رَحْمٰنَ الدُّنْيَا وَالْآخِرَةِ وَرَحِيمَهُمَا
+
+(The Rahman and the Rahim of this life and the Hereafter)
+
+Allah's Name Ar-Rahman is exclusively His. For instance, Allah said,
+
+قُلِ ادْعُوا اللَّهَ أَوِ ادْعُوا الرَّحْمَٰنَ ۖ أَيًّا مَّا تَدْعُوا فَلَهُ الْأَسْمَاءُ الْحُسْنَىٰ
+
+(Say (O Muhammad ﷺ): "Invoke Allah or invoke Ar-Rahman (Allah), by whatever name you invoke Him (it is the same), for to Him belong the Best Names)(17:110),) and,
+
+وَاسْأَلْ مَنْ أَرْسَلْنَا مِن قَبْلِكَ مِن رُّسُلِنَا أَجَعَلْنَا مِن دُونِ الرَّحْمَٰنِ آلِهَةً يُعْبَدُونَ
+
+(And ask (O Muhammad ﷺ) those of Our Messengers whom We sent before you: "Did We ever appoint alihah (gods) to be worshipped besides Ar-Rahman (Most Gracious, Allah)?")(43:45).
+
+Further, when Musaylimah the Liar called himself the Rahman of Yamamah, Allah made him known by the name 'Liar' and exposed him. Hence, whenever Musaylimah is mentioned, he is described as 'the Liar'. He became an example for lying among the residents of the cities and villages and the residents of the deserts, the bedouins.
+
+Therefore, Allah first mentioned His Name - Allah - that is exclusively His and described this Name by Ar-Rahman, which no one else is allowed to use, just as Allah said,
+
+قُلِ ادْعُوا اللَّهَ أَوِ ادْعُوا الرَّحْمَٰنَ ۖ أَيًّا مَّا تَدْعُوا فَلَهُ الْأَسْمَاءُ الْحُسْنَىٰ
+
+(Say (O Muhammad ﷺ): "Invoke Allah or invoke Ar-Rahman (Allah), by whatever name you invoke Him (it is the same), for to Him belong the Best Names.")(17:110)
+
+Only Musaylimah and those who followed his misguided ways described Musaylimah by Ar-Rahman.
+
+As for Allah's Name Ar-Rahim, Allah has described others by it. For instance, Allah said,
+
+لَقَدْ جَاءَكُمْ رَسُولٌ مِّنْ أَنفُسِكُمْ عَزِيزٌ عَلَيْهِ مَا عَنِتُّمْ حَرِيصٌ عَلَيْكُم بِالْمُؤْمِنِينَ رَءُوفٌ رَّحِيمٌ
+
+(Verily, there has come unto you a Messenger (Muhammad ﷺ) from amongst yourselves (i.e. whom you know well). It grieves him that you should receive any injury or difficulty. He (Muhammad ﷺ) is anxious over you (to be rightly guided) for the believers (he ﷺ is) kind (full of pity), and Rahim (merciful))(9:128).
+
+Allah has also described some of His creation using some of His other Names. For instance, Allah said,
+
+إِنَّا خَلَقْنَا الْإِنسَانَ مِن نُّطْفَةٍ أَمْشَاجٍ نَّبْتَلِيهِ فَجَعَلْنَاهُ سَمِيعًا بَصِيرًا
+
+(Verily, We have created man from Nutfah (drops) of mixed semen (sexual discharge of man and woman), in order to try him, so We made him hearer (Sami') and seer (Basir)(76:2).
+
+In conclusion, there are several of Allah's Names that are used as names for others besides Allah. Further, some of Allah's Names are exclusive for Allah alone, such as Allah, Ar-Rahman, Al-Khaliq (the Creator), Ar-Raziq (the Sustainer), and so forth.
+
+Hence, Allah started the Tasmiyah (meaning, 'In the Name of Allah, Most Gracious Most Merciful') with His Name, Allah, and described Himself as Ar-Rahman, (Most Gracious) which is softer and more general than Ar-Rahim. The most honorable Names are mentioned first, just as Allah did here.
+
+A Hadith narrated by Umm Salamah stated that the recitation of the Messenger of Allah ﷺ was slow and clear, letter by letter,
+
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ - الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ - الرَّحْمَٰنِ الرَّحِيمِ - مَالِكِ يَوْمِ الدِّينِ
+
+(In the Name of Allah, the Most Gracious, the Most Merciful. All the praises and thanks be to Allah, the Lord of all that exists. The Most Gracious, the Most Merciful. The Owner of the Day of Recompense)(1:1-4).
+
+And this is how a group of scholars recite it. Others connected the recitation of the Tasmiyah to Al-Hamd.
+
+الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ
+
+(2. Al-Hamd be to Allah, the Lord of all that exists.)
+
+The Meaning of Al-Hamd
+
+Abu Ja'far bin Jarir said, "The meaning of
+
+الْحَمْدُ لِلَّهِ
+
+(Al-Hamdu Lillah)(all praise and thanks be to Allah) is: all thanks are due purely to Allah, alone, not any of the objects that are being worshipped instead of Him, nor any of His creation. These thanks are due to Allah's innumerable favors and bounties, that only He knows the amount of. Allah's bounties include creating the tools that help the creation worship Him, the physical bodies with which they are able to implement His commands, the sustenance that He provides them in this life, and the comfortable life He has granted them, without anything or anyone compelling Him to do so. Allah also warned His creation and alerted them about the means and methods with which they can earn eternal dwelling in the residence of everlasting happiness. All thanks and praise are due to Allah for these favors from beginning to end."
+
+Further, Ibn Jarir commented on the Ayah,
+
+الْحَمْدُ لِلَّهِ
+
+(Al-Hamdu Lillah), that it means, "A praise that Allah praised Himself with, indicating to His servants that they too should praise Him, as if Allah had said, 'Say: All thanks and praise is due to Allah.' It was said that the statement,
+
+الْحَمْدُ لِلَّهِ
+
+(All praise and thanks be to Allah), entails praising Allah by mentioning His most beautiful Names and most honorable Attributes. When one proclaims, 'All thanks are due to Allah,' he will be thanking Him for His favors and bounties."
+
+The Difference between Praise and Thanks
+
+Hamd is more general, in that it is a statement of praise for one's characteristics, or for what he has done. Thanks are given for what was done, not merely for characteristics.
+
+The Statements of the Salaf about Al-Hamd
+
+Hafs mentioned that 'Umar said to 'Ali, "We know La ilaha illallah, Subhan Allah and Allahu Akbar. What about Al-Hamdu Lillah?" 'Ali said, "A statement that Allah liked for Himself, was pleased with for Himself and He likes that it be repeated." Also, Ibn 'Abbas said, "Al-Hamdu Lillah is the statement of appreciation. When the servant says Al-Hamdu Lillah, Allah says, 'My servant has praised Me." Ibn Abi Hatim recorded this Hadith.
+
+The Virtues of Al-Hamd
+
+Imam Ahmad bin Hanbal recorded that Al-Aswad bin Sari' said, "I said, 'O Messenger of Allah! Should I recite to you words of praise for My Lord, the Exalted, that I have collected?' He said,
+
+أَمَا إِنَّ رَبَّكَ يُحِبُّ الْحَمْدَ
+
+(Verily, your Lord likes Al-Hamd.)"
+
+An-Nasa'i also recorded this Hadith. Furthermore, Abu 'Isa At-Tirmidhi, An-Nasa'i and Ibn Majah recorded that Musa bin Ibrahim bin Kathir related that Talhah bin Khirash said that Jabir bin 'Abdullah said that the Messenger of Allah ﷺ said,
+
+أَفْضَلُ الذِّكْرِ لَا إِلهَ إِلَّا اللهُ، وَأَفْضَلُ الدُّعَاءِ الْحَمْدُ للهِ
+
+(The best Dhikr (remembering Allah) is La ilaha illallah and the best supplication is Al-Hamdu Lillah.)
+
+At-Tirmidhi said that this Hadith is Hasan Gharib. Also, Ibn Majah recorded that Anas bin Malik said that the Messenger of Allah ﷺ said,
+
+مَا أَنْعَمَ اللهُ عَلَى عَبْدٍ نِعْمَةً فَقَالَ: الْحَمْدُ للهِ، إِلَّا كَانَ الَّذِي أَعْطَى أَفْضَلَ مِمَّا أَخَذَ
+
+(No servant is blessed by Allah and says,'Al-Hamdu Lillah', except that what he was given is better than that which he has himself acquired.) Further, in his Sunan, Ibn Majah recorded that Ibn 'Umar said that the Messenger of Allah ﷺ said,
+
+إِنَّ عَبْدًا مِنْ عِبَادِ اللهِ قَالَ: يَا رَبِّ لَكَ الْحَمْدُ كَمَا يَنْبَغِي لِجَلَالِ وَجْهِكَ وَعَظِيمِ سُلْطَانِكَ. فَعَضَلَتْ بِالْمَلَكَيْنِ فَلَمْ يَدْرِيَا كَيْفَ يَكْتُبَانِهَا فَصَعِدَا إِلَى اللهِ فَقَالَا: يَا رَبَّنَا إِنَّ عَبْدًا قَدْ قَالَ مَقَالَةً لَا نَدْرِي كَيْفَ نَكْتُبُهَا، قَالَ اللهُ، وَهُوَ أَعْلَمُ بِمَا قَالَ عَبْدُهُ: مَاذَا قَالَ عَبْدِي؟ قَالَا: يَا رَبِّ إِنَّهُ قَالَ: لَكَ الْحَمْدُ يَا رَبِّ كَمَا يَنْبَغِي لِجَلَالِ وَجْهِكَ وَعَظِيمِ سُلْطَانِكَ. فَقَالَ اللهُ لَهُمَا: اكْتُبَاهَا كَمَا قَالَ عَبْدِي، حَتَّى يَلْقَانِي فَأَجْزِيهِ بِهَا.
+
+(A servant of Allah once said, 'O Allah! Yours is the Hamd that is suitable for the grace of Your Face and the greatness of Your Supreme Authority.' The two angels were confused as to how to write these words. They ascended to Allah and said, 'O our Lord! A servant has just uttered a statement and we are unsure how to record it for him.' Allah said while having more knowledge in what His servant has said, 'What did My servant say?' They said, 'He said, 'O Allah! Yours is the Hamd that is suitable for the grace of Your Face and the greatness of Your Supreme Authority.' Allah said to them, 'Write it as My servant has said it, until he meets Me and then I shall reward him for it.)
+
+Al' before 'Hamd' encompasses all Types of Thanks and Appreciation for Allah
+
+The letters Alif and Lam before the word Hamd serve to encompass all types of thanks and appreciation for Allah, the Exalted. A Hadith stated,
+
+اللَّهُمَّ لَكَ الْحَمْدُ كُلُّهُ، وَلَكَ الْمُلْكُ كُلُّهُ، وَبِيَدِكَ الْخَيْرُ كُلُّهُ، وَإِلَيْكَ يُرْجَعُ الْأَمْرُ كُلُّهُ
+
+(O Allah! All of Al-Hamd is due to You, You own all the ownership, all types of good are in Your Hand and all affairs belong to You.)
+
+The Meaning of Ar-Rabb, the Lord
+
+Ar-Rabb is the owner who has full authority over his property. Ar-Rabb, linguistically means, the master or the one who has the authority to lead. All of these meanings are correct for Allah. When it is alone, the word Rabb is used only for Allah. As for other than Allah, it can be used to say Rabb Ad-Dar, the master of such and such object. Further, it was reported that Ar-Rabb is Allah's Greatest Name.
+
+The Meaning of Al-'Alamin
+
+Al-'Alamin is plural for 'Alam, which encompasses everything in existence except Allah. The word 'Alam is itself a plural word, having no singular form. The 'Alamin are different creations that exist in the heavens and the earth, on land and at sea. Every generation of creation is called an 'Alam. Al-Farra' and Abu 'Ubayd said, "'Alam includes all that has a mind, the Jinns, mankind, the angels and the devils, but not the animals." Also, Zayd bin Aslam and Abu Muhaysin said, 'Alam includes all that Allah has created with a soul." Further, Qatadah said about,
+
+رَبِّ الْعَــٰـلَمِينَ
+
+(The Lord of the 'Alamin), "Every type of creation is an 'Alam." Az-Zajjaj also said, "Alam encompasses everything that Allah created, in this life and in the Hereafter." Al-Qurtubi commented, "This is the correct meaning, that the 'Alam encompasses everything that Allah created in both worlds. Similarly, Allah said,
+
+قَالَ فِرْعَوْنُ وَمَا رَبُّ الْعَالَمِينَ - قَالَ رَبُّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا ۖ إِن كُنتُم مُّوقِنِينَ
+
+(Fir'awn (Pharaoh) said: "And what is the Lord of the 'Alamin?" Musa (Moses) said: "The Lord of the heavens and the earth, and all that is between them, if you seek to be convinced with certainty")(26:23-24).
+
+Why is the Creation called 'Alam?
+
+Alam is derived from 'Alamah, that is because it is a sign testifying to the existence of its Creator and to His Oneness."
+
+الرَّحْمَٰنِ الرَّحِيمِ
+
+(3. Ar-Rahman (the Most Gracious), Ar-Rahim (the Most Merciful)). Allah said next,
+
+الرَّحْمَٰنِ الرَّحِيمِ
+
+(Ar-Rahman (the Most Gracious), Ar-Rahim (the Most Merciful)) We explained these Names in the Basmalah. Al-Qurtubi said, "Allah has described Himself by 'Ar-Rahman, Ar-Rahim' after saying 'the Lord of the Alamin', so His statement here includes a warning, and then an encouragement. Similarly, Allah said,
+
+نَبِّئْ عِبَادِي أَنِّي أَنَا الْغَفُورُ الرَّحِيمُ - وَأَنَّ عَذَابِي هُوَ الْعَذَابُ الْأَلِيمُ
+
+(Declare (O Muhammad ﷺ) unto My servants, that truly, I am the Oft-Forgiving, the Most Merciful. And that My torment is indeed the most painful torment.)(15:49-50) Allah said,
+
+إِنَّ رَبَّكَ سَرِيعُ الْعِقَابِ وَإِنَّهُ لَغَفُورٌ رَّحِيمٌ
+
+(Surely, your Lord is swift in retribution, and certainly He is Oft-Forgiving, Most Merciful.)(6:165)
+
+Hence, Rabb contains a warning while Ar-Rahman Ar-Rahim encourages. Further, Muslim recorded in his Sahih that the Messenger of Allah ﷺ said,
+
+لَوْ يَعْلَمُ الْمُؤْمِنُ مَا عِنْدَ اللهِ مِنَ الْعُقُوبَةِ مَا طَمِعَ فِي جَنَّتِهِ أَحَدٌ، وَلَوْ يَعْلَمُ الْكَافِرُ مَا عِنْدَ اللهِ مِنَ الرَّحْمَةِ مَا قَنَطَ مِنْ رَحْمَتِهِ أَحَدٌ
+
+(If the believer knew what punishment Allah has, none would have hope in acquiring His Paradise, and if the disbeliever knew what mercy Allah has, none will lose hope of earning His earning.)
+
+مَــٰـلِكِ يَوْمِ الدِّينِ
+
+(4. The Owner of the Day of Recompense.)
+
+Indicating Sovereignty on the Day of Judgment
+
+Allah mentioned His sovereignty of the Day of Resurrection, but this does not negate His sovereignty over all other things. For Allah mentioned that He is the Lord of existence, including this earthly life and the Hereafter. Allah only mentioned the Day of Recompense here because on that Day, no one except Him will be able to claim ownership of anything whatsoever. On that Day, no one will be allowed to speak without His permission. Similarly, Allah said,
+
+يَوْمَ يَقُومُ الرُّوحُ وَالْمَلَآئِكَةُ صَفًّا لَّا يَتَكَلَّمُونَ إِلَّا مَنْ أَذِنَ لَهُ الرَّحْمَٰنُ وَقَالَ صَوَاباً
+
+(The Day that Ar-Ruh (Jibril (Gabriel) or another angel) and the angels will stand forth in rows, they will not speak except him whom the Most Gracious (Allah) allows, and he will speak what is right.)(78:38),
+
+وَخَشَعَتِ الأَصْوَاتُ لِلرَّحْمَٰنِ فَلاَ تَسْمَعُ إِلَّا هَمْسًا
+
+(And all voices will be humbled for the Most Gracious (Allah), and nothing shall you hear but the low voice of their footsteps.)(20:108), and,
+
+يَوْمَ يَأْتِ لاَ تَكَلَّمُ نَفْسٌ إِلَّا بِإِذْنِهِ فَمِنْهُمْ شَقِىٌّ وَسَعِيدٌ
+
+(On the Day when it comes, no person shall speak except by His (Allah's) leave. Some among them will be wretched and (others) blessed)(11:105).
+
+Ad-Dahhak said that Ibn 'Abbas commented, "Allah says, 'On that Day, no one owns anything that they used to own in the world.'"
+
+The Meaning of Yawm Ad-Din
+
+Ibn 'Abbas said, "Yawm Ad-Din is the Day of Recompense for the creatures, meaning the Day of Judgment. On that Day, Allah will reckon the creation for their deeds, evil for evil, good for good, except for those whom He pardons." In addition, several other Companions, Tabi'in and scholars of the Salaf, said similarly, for this meaning is apparent and clear from the Ayah.
+
+Allah is Al-Malik (King or Owner)
+
+Allah is the True Owner (Malik)(of everything and everyone). Allah said,
+
+هُوَ اللَّهُ الَّذِى لاَ إِلَـٰهَ إِلاَّ هُوَ الْمَلِكُ الْقُدُّوسُ السَّلَــٰمُ
+
+(He is Allah, beside Whom La ilaha illa Huwa, the King, the Holy, the One free from all defects)(59:23).
+
+Also, the Two Sahihs recorded Abu Hurayrah saying that the Prophet ﷺ said,
+
+أَخْنَعُ اسْمٍ عِنْدَ اللهِ رَجُلٌ تَسَمَّى بِمَلِكِ الْأَمْلَاكِ وَلَا مَالِكَ إِلَّا اللهُ
+
+(The most despicable name to Allah is a person who calls himself the king of kings, while there are no owners except Allah.)
+
+Also the Two Sahihs recorded that the Messenger of Allah ﷺ said,
+
+يَقْبِضُ اللهُ الْأَرْضَ وَيَطْوِي السَّمَاءَ بِيَمِينِهِ ثُمَّ يَقُولُ: أَنَا الْمَلِكُ، أَيْنَ مُلُوكُ الْأَرْضِ؟ أَيْنَ الْجَبَّارُونَ؟ أَيْنَ الْمُتَكَبِّرُونَ؟
+
+((On the Day of Judgement) Allah will grasp the earth and fold up the heavens with His Right Hand and proclaim, 'I Am the King! Where are the kings of the earth? Where are the tyrants Where are the arrogant?')
+
+Also, in the the Glorious Qur'an;
+
+لِّمَنِ الْمُلْكُ الْيَوْمَ ۖ لِلَّهِ الْوَاحِدِ الْقَهَّارِ
+
+(Whose is the kingdom this Day Allah's, the One, the Irresistible.)(40:16).
+
+As for calling someone other than Allah a king in this life, then it is done as a figure of speech. For instance, Allah said,
+
+إِنَّ اللَّهَ قَدْ بَعَثَ لَكُمْ طَالُوتَ مَلِكًا
+
+(Indeed Allah appointed Talut (Saul) as a king over you.)(2:247),
+
+وَكَانَ وَرَآءَهُم مَّلِكٌ
+
+(As there was a king behind them)(18:79), and,
+
+إِذْ جَعَلَ فِيكُمْ أَنْبِيَآءَ وَجَعَلَكُمْ مُّلُوكاً
+
+When He made Prophets among you, and made you kings [5:20].
+
+Also, the Two Sahihs recorded,
+
+مِثْلُ الْمُلُوكِ عَلَى الْأَسِرَّةِ
+
+(Just like kings reclining on their thrones)
+
+The Meaning of Ad-Din
+
+Ad-Din means the reckoning, the reward or punishment. Similarly, Allah said,
+
+يَوْمَئِذٍ يُوَفِّيهِمُ اللَّهُ دِينَهُمُ الْحَقَّ
+
+(On that Day Allah will pay them the (Dinahum) recompense (of their deeds) in full)(24:25), and,
+
+أَءِنَّا لَمَدِينُونَ
+
+(Shall we indeed (be raised up) to receive reward or punishment (according to our deeds)?)(37:53)
+
+A Hadith stated,
+
+الْكَيِّسُ مَنْ دَانَ نَفْسَهُ وَعَمِلَ لِمَا بَعْدَ الْمَوتِ
+
+(The wise person is he who reckons himself and works for (his life) after death.) meaning, he holds himself accountable. Also, 'Umar said, "Hold yourself accountable before you are held accountable, weigh yourselves before you are weighed, and be prepared for the biggest gathering before He Whose knowledge encompasses your deeds,
+
+يَوْمَئِذٍ تُعْرَضُونَ لاَ تَخْفَى مِنكُمْ خَافِيَةٌ
+
+(That Day shall you be brought to Judgement, not a secret of yours will be hidden)(69:18)."
+
+إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ
+
+(5. You we worship, and You we ask for help.)(1:5)
+
+The Linguistic and Religious Meaning of 'Ibadah
+
+Linguistically, 'Ibadah means subdued. For instance, a road is described as Mu'abbadah, meaning, 'paved'. In religious terminology, 'Ibadah implies the utmost love, humility and fear.
+
+The Merit of stating the Object of the Action before the Doer of the Act, and the Merit of these Negations
+
+"You...", means, we worship You alone and none else, and rely on You alone and none else. This is the perfect form of obedience and the entire religion is implied by these two ideas. Some of the Salaf said, Al-Fatihah is the secret of the Qur'an, while these words are the secret of Al-Fatihah,
+
+إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ
+
+(5. You we worship, and You we ask for help from.)
+
+The first part is a declaration of innocence from Shirk (polytheism), while the second negates having any power or strength, displaying the recognition that all affairs are controlled by Allah alone. This meaning is reiterated in various instances in the Qur'an. For instance, Allah said,
+
+فَاعْبُدْهُ وَتَوَكَّلْ عَلَيْهِ ۚ وَمَا رَبُّكَ بِغَافِلٍ عَمَّا تَعْمَلُونَ
+
+(So worship Him (O Muhammad ﷺ) and put your trust in Him. And your Lord is not unaware of what you (people) do.)(11:123),
+
+قُلْ هُوَ الرَّحْمَٰنُ آمَنَّا بِهِ وَعَلَيْهِ تَوَكَّلْنَا
+
+(Say: "He is the Most Gracious (Allah), in Him we believe, and in Him we put our trust.")(67:29),
+
+رَّبُّ الْمَشْرِقِ وَالْمَغْرِبِ لَا إِلَٰهَ إِلَّا هُوَ فَاتَّخِذْهُ وَكِيلًا
+
+((He alone is) the Lord of the east and the west; La ilaha illa Huwa (none has the right to be worshipped but He).
+
+So take Him alone as Wakil (Disposer of your affairs)), (73:9), and,
+
+إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ
+
+(You we worship, and You we ask for help from).
+
+We should mention that in this Ayah, the type of speech here changes from the third person to direct speech by using the Kaf in the statement Iyyaka (You). This is because after the servant praised and thanked Allah, he stands before Him, addressing Him directly;
+
+إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ
+
+(You we worship, and You we ask for help from).
+
+Al-Fatihah indicates the Necessity of praising Allah. It is required in every Prayer.
+
+The beginning of Surat Al-Fatihah contains Allah's praise for Himself by His most beautiful Attributes and indicates to His servants that, they too, should praise Him in the same manner. Hence, the prayer is not valid unless one recites Al-Fatihah, if he is able. The Two Sahihs recorded that 'Ubadah bin As-Samit said that the Messenger of Allah ﷺ said,
+
+لَا صَلَاةَ لِمَنْ لَمْ يَقْرَأْ بِفَاتِحَةِ الْكِتَابِ
+
+(There is no valid prayer for whoever does not recite Al-Fatihah of the Book.)
+
+Also, it is recorded in Sahih Muslim that Abu Hurayrah said that the Messenger of Allah ﷺ said,
+
+يَقُولُ اللَّهُ تَعَالَى : قَسَمْتُ الصَّلَاةَ بَيْنِي وَبَيْنَ عَبْدِي نِصْفَيْنِ، فَنِصْفُهَا لِي وَنِصْفُهَا لِعَبْدِي وَلِعَبْدِي مَا سَأَلَ،
+
+إِذَا قَالَ الْعَبْدُ: الْحَمْدُ للَّهِ رَبّ الْعَــٰـلَمِينَ، قَالَ اللهُ: حَمِدَنِي عَبْدِي،
+
+و إذَا قَالَ: الرَّحْمَٰنِ الرَّحِيمِ، قَالَ اللهُ: أَثْنىٰ عَلَيَّ عَبْدِي
+
+فَإذَا قَالَ: مَــٰــلِكِ يَوْمِ الدِّينِ، قَالَ اللهُ: مَجَّدَنِي عَبْدِي،
+
+وَإِذَا قَالَ: إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ، قَالَ: هذَا بَيْنِي وَبَيْنَ عَبْدِي، وَلِعَبْدِي مَا سَأَلَ،
+
+فَإِذَا قَالَ: اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ - صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلاَ الضَّآلِّينَ ، قَالَ: هذَا لِعَبْدِي، وَلِعَبْدِي مَا سَأَلَ
+
+(Allah said, 'I divided the prayer into two halves between Myself and My servant, one half is for Me and one half for My servant. My servant shall have what he asks for.' When the servant says,
+
+الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ
+
+(All praise and thanks be to Allah, the Lord of all that exists.), Allah says, 'My servant has praised Me.' When the servant says,
+
+الرَّحْمَٰنِ الرَّحِيمِ
+
+(The Most Gracious, the Most Merciful), Allah says, 'My servant has praised Me.' When the servant says,
+
+مَــٰــلِكِ يَوْمِ الدِّينِ
+
+(The Owner of the Day of Recompense), Allah says, 'My servant has glorified Me.' If the servant says,
+
+إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ
+
+(You we worship, and You we ask for help), Allah says, 'This is between Me and My servant, and My servant shall have what he asked.' If the servant says,
+
+اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ - صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ
+
+(Guide us to the straight path. The path of those on whom You have bestowed Your grace, not (that) of those who have earned Your anger, nor of those who went astray), Allah says, 'This is for My servant, and My servant shall have what he asked.')
+
+Tawhid Al-Uluhiyyah
+
+Ad-Dahhak narrated that Ibn 'Abbas said,
+
+إِيَّاكَ نَعْبُدُ
+
+(You we worship) means, "It is You whom we single out, Whom we fear and Whom we hope in, You alone, our Lord, and none else.
+
+Tawhid Ar-Rububiyyah
+
+وَإِيَّاكَ نَسْتَعِينُ
+
+(And You we ask for help from), to obey you and in all of our affairs." Further, Qatadah said that the Ayah,
+
+إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ
+
+(You we worship, and You we ask for help from) "Contains Allah's command to us to perform sincere worship for Him and to seek His aid concerning all of our affairs." Allah mentioned,
+
+إِيَّاكَ نَعْبُدُ
+
+(You we worship) before,
+
+وَإِيَّاكَ نَسْتَعِينُ
+
+(And You we ask for help from), because the objective here is the worship, while Allah's help is the tool to implement this objective. Certainly, one first takes care of the most important aspects and then what is less important, and Allah knows best.
+
+Allah called His Prophet (ﷺ) an 'Abd
+
+Allah called His Messenger ﷺ an 'Abd (servant) when He mentioned sending down His Book, the Prophet's involvement in inviting to Him, and when mentioning the Isra' (overnight journey from Makkah to Jerusalem and then to heaven), and these are the Prophet's most honorable missions. Allah said,
+
+الْحَمْدُ لِلَّهِ الَّذِى أَنْزَلَ عَلَى عَبْدِهِ الْكِتَــٰبَ
+
+(All praise and thanks be to Allah, Who has sent down to His servant (Muhammad ﷺ) the Book (the Qur'an))(18:1),
+
+وَأَنَّهُ لَمَّا قَامَ عَبْدُ اللَّهِ يَدْعُوهُ
+
+(And when the servant of Allah (Muhammad ﷺ) stood up invoking Him (his Lord ـ Allah in prayer)), (72:19) and,
+
+سُبْحَانَ الَّذِي أَسْرَىٰ بِعَبْدِهِ لَيْلًا
+
+(Glorified (and Exalted) be He (Allah)(above all that they associate with Him) Who took His servant (Muhammad ﷺ) for a journey by night)(17:1).
+
+Encouraging the Performance of the Acts of Worship during Times of Distress
+
+Allah also recommended that His Prophet ﷺ resort to acts of worship during times when he felt distressed because of the disbelievers who defied and denied him. Allah said,
+
+وَلَقَدْ نَعْلَمُ أَنَّكَ يَضِيقُ صَدْرُكَ بِمَا يَقُولُونَ - فَسَبِّحْ بِحَمْدِ رَبِّكَ وَكُن مِّنَ السَّاجِدِينَ - وَاعْبُدْ رَبَّكَ حَتَّىٰ يَأْتِيَكَ الْيَقِينُ
+
+(Indeed, We know that your breast is straitened at what they say. So glorify the praises of your Lord and be of those who prostrate themselves (to Him). And worship your Lord until there comes unto you the certainty (i.e. death))(15:97-99).
+
+Why Praise was mentioned First
+
+Since the praise of Allah, Who is being sought for help, was mentioned, it was appropriate that one follows the praise by asking for his need. We stated that Allah said,
+
+فَنِصْفُهَا لِي وَنِصْفُهَا لِعَبْدِي، وَلِعَبْدِي مَا سَأَلَ
+
+(One half for Myself and one half for My servant, and My servant shall have what he asked.)
+
+This is the best method for seeking help, by first praising the one whom help is sought from and then asking for His aid, and help for one's self, and for his Muslim brethren by saying.
+
+اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ
+
+(Guide us to the straight path.)
+
+This method is more appropriate and efficient in bringing about a positive answer to the pleas, and this is why Allah recommended this better method.
+
+Asking for help may take the form of conveying the condition of the person who is seeking help. For instance, the Prophet Moses said,
+
+رَبِّ إِنِّى لِمَآ أَنزَلْتَ إِلَىَّ مِنْ خَيْرٍ فَقِيرٌ
+
+(My Lord! Truly, I am in need of whatever good that You bestow on me!)(28:24).
+
+Also, one may first mention the attributes of whoever is being asked, such as what Dhun-Nun said,
+
+لاَّ إِلَـٰهَ إِلاَّ أَنتَ سُبْحَــٰـنَكَ إِنِّى كُنتُ مِنَ الظَّــٰـلِمِينَ
+
+(La ilaha illa Anta (none has the right to be worshipped but Y
+
+[TRUNCATED at 60000 chars — 19677 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Tabari (Arabic)
 
@@ -266,9 +902,47 @@ The majority of the scholars state that reciting the Isti'adhah (in the prayer a
 
 ومحمد بن سلمة: هو الباهلي الحراني، وهو ثقة، روى عنه أحمد بن حنبل وغيره، وأخرج له مسلم في صحيحه، مات سنة ١٩١. وشيخه أبو سنان: وهو سعيد بن سنان الشيباني، وهو ثقة، ومن تكلم فيه إنما يكون من جهة خطئه بعض الخطأ، وقال أبو داود: "ثقة من رفعاء الناس"، وأخرج له مسلم في الصحيح. وعمرو بن مرة: هو المرادي الجملي، ثقة مأمون بلا خلاف، قال مسعر: "عمرو من معادن الصدق ". وأبو البختري - بفتح الباء الموحدة والتاء المثناة بينهما خاء معجمة ساكنة: هو سعيد بن فيروز الطائي الكوفي، تابعي ثقة معروف.]] .
 
-١٧٦ - وحدثنا أحمد بن إسحاق الأهوازي، قال: حدثنا أبو أحمد الزُّبيري، قال: حدثنا حمزة الزيات، عن أبي المختار الطائي، عن أبن أخي الحارث الأعور، عن الحارث، عن عليّ، 
+١٧٦ - وحدثنا أحمد بن إسحاق الأهوازي، قال: حدثنا أبو أحمد الزُّبيري، قال: حدثنا حمزة الزيات، عن أبي المختار الطائي، عن أبن أخي الحارث الأعور، عن الحارث، عن عليّ، قال: " الصِّراطُ المستقيم: كتاب الله تعالى ذكره [[الخبر ١٧٦ - هو الحديث السابق بالإسنادين قبله، بمعناه. ولكنه هنا موقوف على ابن أبي طالب. والإسناد إليه منهار انهيار الإسناد ١٧٤، من أجل الحارث الأعور وابن أخيه. أما من دونهما، فأبو المختار الطائي وحمزة مضيا في ١٧٤، وأبو أحمد الزبيري وأحمد بن إسحاق مضيا في ١٥٩.]] ".
 
-[TRUNCATED at 12000 chars — 9368 more. Consult the source directly before relying on anything near the cut.]
+١٧٧ - حدثنا أحمد بن إسحاق الأهوازي، قال: حدثنا أبو أحمد الزبيري، قال: حدثنا سفيان -ح- وحدثنا محمد بن حُميد الرازي، قال. حدثنا مِهْران، عن سفيان، عن منصور عن أبي وائل، قال: قال عبد الله: " الصِّراطُ المستقيم" كتابُ الله [[الخبر ١٧٧ - هذا موقوف من كلام عبد الله بن مسعود. وقد رواه الطبري بإسنادين إلى سفيان، وهو الثوري. أما أولهما: أحمد بن إسحاق عن أبي أحمد الزبيري عن سفيان الثوري - فإسناده صحيح، لا كلام فيه. وأما ثانيهما: محمد بن حميد الرازي عن مهران، وهو ابن أبي عمر العطار - فقد بينا في الإسناد ١١ أن في رواية مهران عن الثوري اضطرابًا، ولكنه هنا تابعه عن روايته حافظ ثقة، هو أبو أحمد الزبيري. وقد رواه الثوري عن منصور، وهو ابن المعتمر الكوفي، وهو ثقة ثبت حجة، لا يختلف فيه أحد. وأبو وائل: هو شقيق بن سلمة الأسدي، من كبار التابعين الثقات، قال ابن معين: "ثقة لا يسأل عن مثله".
+
+وهذا الخبر، رواه الحاكم في المستدرك ٢: ٢٥٨ من طريق عمر بن سعد أبي داود الحضري عن الثوري، بهذا الإسناد. وقال: "هذا حديث صحيح على شرط الشيخين ولم يخرجاه "، ووافقه الذهبي. وذكره السيوطي ١: ١٥، والشوكاني ١: ١٣.]] ".
+
+١٧٨ - حدثني محمود بن خِدَاشِ الطالَقاني، قال: حدثنا حُميد بن عبد الرحمن الرُّؤاسِي، قال: حدثنا علي والحسن ابنا صالح، جميعًا، عن عبد الله بن محمد بن عَقِيل، عن جابر بن عبد الله: ﴿اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ﴾ قال: الإسلام، قال: هو أوسع مما بين السماء والأرض [[الخبر ١٧٨ - وهذا موقوف على جابر بن عبد الله. وإسناده صحيح: محمود بن خداش بكسر الخاء المعجمة وفتح الدال المهملة وآخره شين معجمة - الطالقاني: ثقة من أهل الصدق، مات يوم الأربعاء ١٤ شعبان سنة ٢٥٠، كما في التاريخ الصغير للبخاري: ٢٤٧. وحميد بن عبد الرحمن الرؤاسي: ثقة ثبت عاقل، روى عنه أحمد وغيره من الحفاظ. والحسن وعلي ابنا صالح بن صالح بن حي: ثقتان، وهما أخوان توأم. ومن تكلم في الحسن تكلم بغير حجة، وقد وثقناه في المسند: ٢٤٠٣. وأخاه فيه: ٢٢٠. وعبد الله بن محمد بن عقيل بن أبي طالب، وأمه زينب الصغرى بنت علي بن أبي طالب: تابعي ثقة، ولا حجة لمن تكلم فيه.
+
+والخبر رواه الحاكم في المستدرك ٢: ٢٥٨ - ٢٥٩، من طريق أبي نعيم عن الحسن بن صالح -وحده- بهذا الإسناد. وقال: "هذا حديث صحيح الإسناد ولم يخرجاه". ووافقه الذهبي. وذكره ابن كثير ١: ٥٠، والسيوطي ١: ١٥، والشوكاني ١: ١٣]] .
+
+١٧٩ - حدثنا أبو كريب، قال: حدثنا عثمان بن سعيد، قال: حدثنا بشر بن عُمَارة، قال: حدثنا أبو رَوق، عن الضحّاك، عن عبد الله بن عباس، قال: قال جبريل لمحمد: قل يا محمد: ﴿اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ﴾ يقول: ألهمنا الطريقَ الهادي، وهو دين الله الذي لا عوج له [[الحديث ١٧٩ - إسناده ضعيف، سبق بيان ضعفه: ١٣٧. وهذا اللفظ نقله ابن كثير ١: ٥٠ دون إسناد ولا نسبة. ونقله السيوطي ١: ١٤ مختصرًا، ونسبه للطبري فقط.]] .
+
+١٨٠ - حدثنا موسى بن سهل الرازي، قال: حدثنا يحيى بن عوف، عن الفُرَات بن السائب، عن ميمون بن مِهْران، عن ابن عباس، في قوله: ﴿اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ﴾ قال: ذلك الإسلام [[الخبر ١٨٠ - إسناده ضعيف جدا، على ما فيه من جهلنا بحال بعض رجاله: فموسى بن سهل الرازي، شيخ الطبري: لم نجزم بأي الرجال هو؟ ولعله " موسى بن سهل بن قادم، ويقال ابن موسى أبو عمر الرملي، نسائي الأصل ". فهو شيخ للطبري مترجم في التهذيب ١٠: ٣٤٧، ولكنه لم ينسب "رازيا". وكتب في المخطوطة: "سهل بن موسى"! ولم نجد هذه الترجمة أيضًا، ونرجح أنه خطأ من الناسخ. . ويحيى بن عوف: لم نجد ترجمة بهذا الاسم قط فيما لدينا من مراجع. واما علة الإسناد، فهو "الفرات بن السائب الجزري"، وهو ضعيف جدا، قال البخاري في الكبير ٤ / ١ / ١٣٠: "تركوه، منكر الحديث"، وكذلك قال الأئمة فيه، وقال ابن حبان في المجروحين (في الورقة ١٨٧) : كان ممن يروي الموضوعات عن الأثبات، ويأتي بالمعضلات عن الثقات، لا يجوز الاحتجاج به، ولا الرواية عنه، ولا كتبة الحديث إلا على سبيل الاختبار". وأما ميمون بن مهران فتابعي ثقة معروف، فقيه حجة.
+
+وهذا الخبر نقله ابن كثير ١: ٥٠ مجهلا بلفظ "وقيل: هو الإسلام". ونقله السيوطي ١: ١٥ منسوبا لابن جريج فقط، على خطأ مطبعي فيه "ابن جريج"!]] .
+
+١٨١ - حدثني محمود بن خِدَاش، قال: حدثنا محمد بن ربيعة الكِلابي، عن إسماعيل الأزرق، عن أبي عُمر البزّار، عن ابن الحنفية، في قوله: ﴿اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ﴾ قال: هو دين الله الذي لا يقبل من العِباد غيرَه [[الأثر ١٨١ - ابن الحنفية: هو محمد بن علي بن أبي طالب، والحنفية أمه، وهي خولة بنت جعفر من بني حنيفة، عرف بالنسبة إليها. وهذا الإسناد إليه ضعيف: محمد بن ربيعة الكلابي الرؤاسي: ثقة من شيوخ أحمد وابن معين. وإسماعيل الأزرق: هو إسماعيل بن سلمان، وهو ضعيف، قال ابن معين: "ليس حديثه بشيء"، وقال ابن نمير والنسائي: "متروك"، وقال ابن حبان في كتاب المجروحين (ص ٧٨ رقم ٣٥) : "ينفرد بمناكير يرويها عن المشاهير". وأبو عمر البزار: هو دينار بن عمر الأسدي الكوفي الأعمى، وهو ثقة. والأثر ذكره ابن كثير ١: ٥١ دون نسبة ولا إسناد.]] .
+
+١٨٢ - حدثني موسى بن هارون الهمداني، قال: حدّثنا عَمرو بن طلحة القنَّاد، قال: حدثنا أسباط، عن السدِّي -في خبر ذكره- عن أبي مالك، وعن أبي صالح، عن ابن عباس -وعن مُرّة الهمداني، عن ابن مسعود -وعن ناس من أصحاب النبي ﷺ: ﴿اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ﴾ قال: هو الإسلام [[الخبر ١٨٢ - هذا من تفسير السدي، وقد سبق شرح إسناده ١٦٨. وقد نقله ابن كثير ١: ٥٠ والسويطي ١: ١٥.]]
+
+١٨٣ - حدثنا القاسم بن الحسن، قال: حدثنا الحسين بن داود، قال: حدثني حجاج، عن ابن جُريج، قال: قال ابن عباس في قوله: ﴿اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ﴾ قال: الطريق [[الخبر ١٨٣ - نقله السيوطي ١: ١٤ منسوبا للطبري وابن المنذر. وقد سبق أول هذا الإسناد: ١٤٤، وهو هنا منقطع، لأن ابن جريج لم يدرك ابن عباس، إنما يروي عن الرواة عنه.]] .
+
+١٨٤ - حدثنا عبد الله بن كثير أبو صديف الآمُلي، قال: حدثنا هاشم بن القاسم، قال: حدثنا حمزة بن المغيرة، عن عاصم، عن أبي العالية، في قوله: ﴿اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ﴾ ، قال: هو رسول الله ﷺ، وصاحباه من بعدِه أبو بكر وعمر. قال: فذكرتُ ذلك للحسن، فقال: صدَق أبو العالية ونصح [[الأثر ١٨٤ - عبد الله بن كثير أبو صديف الآملي، شيخ الطبري: لم أعرف من هو، ولم أجد له ذكرًا، وأخشى أن يكون فيه تحريف. هاشم بن القاسم: هو ابو النضر - بالنون والصاد المعجمة - الحافظ الخراساني الإمام، شيخ الأئمة: أحمد وابن راهويه وابن المديني وابن معين وغيرهم.
+
+حمزة بن المغيرة بن نشيط - بفتح النون وكسر الشين المعجمة - الكوفي العابد: ثقة، مترجم في التهذيب، وترجمه البخاري في الكبير ٢ / ١ / ٤٤، وابن أبي حاتم ١ / ٢ / ٢١٤ - ٢١٥، وذكره ابن حبان في الثقات ٤٤٣، قال: "حمزة بن المغيرة العابد، من أهل الكوفة. يروي عن عاصم الأحول عن أبي العالية (اهدنا الصراط المستقيم) ، قال: هو النبي ﷺ وصاحباه. روى عنه أبو النضر هاشم بن القاسم". ووقع هنا: في الأصول "حمزة بن أبي المغيرة". وهو خطأ من الناسخين.
+
+عاصم: هو ابن سليمان الأحول، تابعي ثقة ثبت. أبو العالية: هو الرياحي - بكسر الراء وتخفيف الياء، واسمه: رفيع -بالتصغير- ابن مهران، من كبار التابعين الثقات، مجمع على توثيقه.
+
+وهذا الأثر ذكره ابن كثير ١: ٥١ ونسبه أيضًا لابن أبي حاتم. والسيوطي ١: ١٥ وزاد نسبته لعبد بن حميد وابن عدي وابن عساكر. وأبو العالية لم يقله من قبل نفسه: فقد رواه الحاكم في المستدرك ٢: ٢٥٩ من طريق أبي النضر بهذا الإسناد إلى "أبي العالية عن ابن عباس". وقال: " هذا حديث صحيح الإسناد، ولم يخرجاه". ووافقه الذهبي. واختصره السيوطي ونسبه للحاكم فقط.]]
+
+١٨٥- حدثني يونس بن عبد الأعلى، قال: حدثنا ابن وهب، قال: قال عبد الرحمن بن زيد بن أسلم: " اهدنا الصراط المستقي"، قال: الإسلام [[الأثر ١٨٥ - هذا من كلام عبد الرحمن بن زيد بن أسلم، وقد نقله ابن كثير ١: ٥١ دون نسبة. وعبد الرحمن بن زيد: متأخر، من أتباع التابعين، مات سنة ١٨٢. وهو ضعيف جدا، بينت ضعفه في حديث المسند: ٥٧٢٣، ويكفي منه قول ابن خزيمة: "ليس هو ممن يحتج أهل العلم بحديثه، لسوء خفظه، وهو رجل صناعته العبادة والتقشف، ليس من أحلاس الحديث".]] .
+
+١٨٦- حدثنا المثنى، قال: حدثنا أبو صالح، قال: حدثني معاوية بن صالح، أنّ عبد الرحمن بن جُبير، حدّثه عن أبيه، عن نَوَّاس بن سمعان الأنصاري، عن رسول الله ﷺ قال: ضرب الله مثلا صراطًا مستقيمًا ". والصِّراط: الإسلامُ.
+
+١٨٧ - حدثنا المثنى، قال: حدثنا آدم العسقلاني، قال: حدثنا الليث، عن معاوية بن صالح، عن عبد الرحمن بن جبير بن نُفير، عن أبيه، عن نَوَّاس بن سمعان الأنصاري، عن النبي ﷺ، بمثله [[الحديث ١٨٦، ١٨٧ - رواه الطبري عن شيخه "المثنى" بإسنادين، أولهما أعلى من الثاني درجة: بين المثنى وبين معاوية بن صالح في أولهما شيخ واحد، وفي ثانيهما شيخان.
+
+أما المثنى شيخ الطبري: فهو المثنى بن إبراهيم الآملي، يروي عنه الطبري كثيرا في التفسير والتاريخ. وأبو صالح، في الإسناد الأول: هو عبد الله بن صالح المصري، كاتب الليث بن سعد، صحبه عشرين سنة. وهو ثقة، ومن تكلم فيه، في بعض حديثه عن الليث، تكلم بغير حجة. وله ترجمة في التهذيب جيدة، وكذلك في الجرح والتعديل لابن أبي حاتم ٢ / ٢ / ٨٦ - ٨٧، وتذكرة الحفاظ ١: ٣٥١ - ٣٥٣. ولد عبد الله بن صالح سنة ١٣٧ ومات سنة ٢٢٢. ووقع تاريخ مولده في التهذيب (١٧٣) وهو خطأ مطبعي، صوابه في تذكرة الحفاظ. وآدم العسقلاني، في الإسناد الثاني: هو آدم بن أبي إياس، وهو ثقة مأمون متعبد، من خيار عباد الله، كما قال أبو حاتم. الليث: هو ابن سعد، إمام أهل مصر. معاوية بن صالح، في الإسنادين: هو الحمصي، أحد الأعلام وقاضي الأندلس، ثقة، من تكلم فيه أخطأ. عبد الرحمن بن جبير بن نفير - بالتصغير فيهما - الحضرمي الحمصي: تابعي ثقة. وأبوه: من كبار التابعين، أدرك زمن النبي ﷺ. وهو ثقة مشهور بالعلم، وقد ذكره الطبري في طبقات الفقهاء. النواس -بفتح النون وتشديد الواو- بن سمعان الكلابي: صحابي معروف.
+
+وهذا الحديث مختصر من حديث طويل، رواه احمد في المسند: ١٧٧١١ (ج ٤ ص ١٨٢ حلبي) عن الحسن بن سوار عن الليث بن سعد عن معاوية بن صالح، به. ونقله ابن كثير ١: ٥١ من رواية المسند، قال: "وهكذا رواه ابن أبي حاتم وابن جرير من حديث الليث بن سعد، به. ورواه الترمذي والنسائي جميعا عن علي بن حجر بن بقية عن بجير بن سعد عن خالد بن معدان عن جبير بن نفير عن النواس بن سمعان، به. وهو إسناد حسن صحيح". ونسبه السيوطي ١: ١٥، والشوكاني ١: ١٣ أيضًا للحاكم "وصححه"، ولغيره.]] .
+
+قال أبو جعفر: وإنما وصفه الله بالاستقامة، لأنه صواب لا خطأ فيه. وقد زعم بعض أهل الغباء، أنه سمّاه مستقيمًا، لاستقامته بأهله إلى الجنة. وذلك تأويلٌ لتأويل جميع أهل التفسير خلافٌ، وكفى بإجماع جميعهم على خلافه دليلا على خطئه.
 
 ### al-Muyassar (Arabic)
 
@@ -824,9 +1498,469 @@ He then recited,
 
 ذكر من قال ذلك:
 
-٦٥٨٧ - حدثنا ابن حميد قال، حدثنا سلمة، عن محمد بن إسحاق قال، حدثني محمد بن جعفر بن الزبير:"هو الذي أنزل عليك الكتاب منه آيات محكمات"، فيهن حجة الربّ، وعصمةُ العباد، ودفع الخصُوم والباطل، ليس لها تصريف ولا تحريف عما وضعت عليه = [[في نص ابن هشام: "ليس لهن تصريف ... عما وضعن".]] "وأخَرُ متشابهات"، في الصدق، [[في المطبوعة: "وأخر متشابهة"
+٦٥٨٧ - حدثنا ابن حميد قال، حدثنا سلمة، عن محمد بن إسحاق قال، حدثني محمد بن جعفر بن الزبير:"هو الذي أنزل عليك الكتاب منه آيات محكمات"، فيهن حجة الربّ، وعصمةُ العباد، ودفع الخصُوم والباطل، ليس لها تصريف ولا تحريف عما وضعت عليه = [[في نص ابن هشام: "ليس لهن تصريف ... عما وضعن".]] "وأخَرُ متشابهات"، في الصدق، [[في المطبوعة: "وأخر متشابهة"، والصواب من المخطوطة وابن هشام. وليس في نص ابن هشام: "في الصدق"، ولكنها ثابتة في المخطوطة.]] لهن تصريف وتحريف وتأويل، [[ليس في نص رواية ابن هشام"وتحريف".]] ابتلى الله فيهن العبادَ، كما ابتلاهم في الحلال والحرام، لا يُصرفن إلى الباطل ولا يحرّفن عن الحق. [[الأثر ٦٥٨٧- هو بقية الآثار السالفة التي آخرها: ٦٥٧١، من روايته عن ابن إسحاق.]]
 
-[TRUNCATED at 12000 chars — 69744 more. Consult the source directly before relying on anything near the cut.]
+* *
+
+وقال آخرون: معنى"المحكم": ما أحكم الله فيه من آي القرآن، وقَصَص الأمم ورُسلهم الذين أرسلوا إليهم، ففصّله ببيان ذلك لمحمد وأمته ="والمتشابه"، هو ما اشتبهت الألفاظ به من قصصهم عند التكرير في السور، بقَصّه باتفاق الألفاظ واختلاف المعاني، وبقصّه باختلاف الألفاظ واتفاق المعانى. [[في المطبوعة: "فقصة اتفاق الألفاظ ... وقصة باختلاف الألفاظ ... " وهو فاسد، والصواب من المخطوطة.]]
+
+ذكر من قال ذلك:
+
+٦٥٨٨ - حدثني يونس قال، أخبرنا ابن وهب قال، قال ابن زيد وقرأ: ﴿ألر كِتَابٌ أُحْكِمَتْ آيَاتُهُ ثُمَّ فُصِّلَتْ مِنْ لَدُنْ حَكِيمٍ خَبِيرٍ﴾ [سورة هود: ١] ، قال: وذكر حديثَ رسول الله ﷺ في أربع وعشرين آية منها: [[يعني من"سورة هود"، وهذا التعداد الآتي على الترتيب في المصحف.]] وحديثَ نوح في أربع وعشرين آية منها. ثم قال: ﴿تِلْكَ مِنْ أَنْبَاءِ الْغَيْبِ﴾ [سورة هود: ٤٩] ، ثم ذكر ﴿وَإِلَى عَادٍ﴾ ، فقرأ حتى بلغ ﴿وَاسْتَغْفِرُوا رَبَّكُمْ﴾ [[كأنه يعني أنه قرأ حتى بلغ هذه الآية من سورة هود: ٨٩- ولكن هذه الآية في ذكر خبر شعيب عليه السلام، فلا أدري ما قوله بعد: "ثم مضى، ثم ذكر صالحًا وإبراهيم ولوطًا وشعيبًا". وظني أن نص عبارته:
+
+"ثم مضى. ذكر صالحًا وإبراهيم ولوطًا وشعيبًا ... " بإسقاط"ثم" الثانية. وانظر التعليق التالي.]] ثم مضى. ثم ذكر صالحًا وإبراهيم ولوطًا وشعيبًا وفرغ من ذلك. وهذا تبيين ذلك، تبيين"أحكمت آياته ثم فصلت" = [[في المطبوعة والمخطوطة: وهذا يقين ذلك يقين أحكمت ... " وكأن الصواب ما أثبت.
+
+هذا ولم أجد هذا الأثر في مكان، ولكني وجدت السيوطي في الدر المنثور ٣: ٣٢٠، في تفسير"سورة هود" قال: "أخرج ابن أبي حاتم، عن ابن زيد رضي الله عنه أنه قرأ: "ألر كتاب أحكمت آياته" قال: هي كلها مكية محكمة - يعني سورة هود -"ثم فصلت". قال: ثم ذكر محمدًا ﷺ، فحكم فيما بينه وبين من خالفه، وقرأ: "مثل الفريقين"، الآية كلها. ثم ذكر قوم نوح، ثم قوم هود، فكان هذا تفصيل ذلك، وكان أوله محكمًا. قال: وكان أبي رضي الله عنه يقول ذلك - يعني: زيد بن أسلم".
+
+فمن أجل ذلك، رجحت التصحيح السالف في التعليق الماضي، ورجحت أن تكون"يقين" في الموضعين: "تبيين".]] قال: والمتشابهُ ذكر موسى في أمكنة كثيرة، وهو متشابه، وهو كله معنى واحد. ومتشابه: ﴿فَاسْلُكْ فِيهَا﴾ ﴿احْمِلْ فِيهَا﴾ ، ﴿اسْلُكْ يَدَكَ﴾ ﴿أدخل يدك﴾ ، ﴿حَيَّةً تَسْعَى﴾ ﴿ثُعْبَانٌ مُبِينٌ﴾ = [[من أول قوله: "قال: والمتشابه ... " معترض في سياق حديثه عن تفصيل القصص في"سورة هود" وتعداد آيات كل قصة. أما الآيات المذكورة هنا، فهذا بيان مواضعها على الترتيب: "سورة المؤمنون: ٢٧" / "سورة هود: ٤٠" / "سورة القصص: ٣٢" / "سورة النمل: ١٢" / "سورة طه: ٢٠" / "سورة الأعراف: ١٠٧" و"سورة الشعراء: ٢٢.]] قال: ثم ذكر هودًا في عشر آيات منها، [["منها" يعني من"سورة هود"، وكذلك سائر ما بعده.]] وصالحًا في ثماني آيات منها، وإبراهيم في ثماني آيات أخرى، ولوطًا في ثماني آيات منها، وشعيبًا في ثلاث عشرة آية، وموسى في أربع آيات، كلّ هذا يقضي بين الأنبياء وبين قومهم في هذه السورة، فانتهى ذلك إلى مئة آية من سورة هود، ثم قال: ﴿ذَلِكَ مِنْ أَنْبَاءِ الْقُرَى نَقُصُّهُ عَلَيْكَ مِنْهَا قَائِمٌ وَحَصِيدٌ﴾ [سورة هود: ١٠٠] . وقال في المتشابه من القرآن: من يرد الله به البلاء والضلالة يقول: ما شأن هذا لا يكون هكذا؟ وما شأن هذا لا يكون هكذا؟
+
+* *
+
+وقال آخرون: بل"المحكم" من آي القرآن: ما عرف العلماءُ تأويله، وفهموا معناه وتفسيره = و"المتشابه": ما لم يكن لأحد إلى علمه سبيل، مما استأثر الله بعلمه دون خلقه، وذلك نحو الخبر عن وقت مَخْرج عيسى ابن مريم، ووقت طُلوع الشمس من مغربها، وقيام الساعة، وفناءِ الدنيا، وما أشبه ذلك، فإن ذلك لا يعلمه أحدٌ. وقالوا: إنما سمى الله من آي الكتاب"المتشابه"، الحروف المقطّعة التي في أوائل بعض سور القرآن، من نحو"ألم" و"ألمص"، و"ألمر"، و"ألر"، وما أشبه ذلك، لأنهن متشابهات في الألفاظ، وموافقات حروف حساب الجمَّل. وكان قومٌ من اليهود على عهد رسول الله ﷺ طَمِعوا أن يدركوا من قِبَلها معرفة مدّة الإسلام وأهله، ويعلموا نهايةَ أُكْلِ محمد وأمته، [[في المطبوعة: "أجل أمته"، وهو تحريف من الطابع، وأثبت ما في المخطوطة: والأكل (بضم فسكون) : مدة العمر، وانظر التعليق ص: ١٩٦، تعليق: ١.]] فأكذب الله أحدوثتهم بذلك، وأعلمهم أنّ ما ابتغوا علمه من ذلك من قِبَل هذه الحروف المتشابهة لا يدركونه ولا من قبل غيرها، وأن ذلك لا يعلمه إلا الله.
+
+* *
+
+قال أبو جعفر: وهذا قولٌ ذُكر عن جابر بن عبد الله بن رئاب: [[في المطبوعة: "بن رباب" وهو خطأ، والصواب ما أثبت و"رئاب" بكسر الراء. وانظر ما سلف ١: ٢١٦ وما سيأتي في التعليق: ٤، وفيه المرجع.]] أن هذه الآية نزلت فيه، [[قوله: "فيه"، أي: في هذا القول. لا في"جابر بن عبد الله".]] وقد ذكرنا الرواية بذلك عنه وعن غيره ممن قال نحو مقالته، في تأويل ذلك في تفسير قوله: ﴿الم ذَلِكَ الْكِتَابُ لا رَيْبَ فِيهِ﴾ [[انظر ما سلف ١: ٢٤٥-٢٢٤ في تفسير"ألم"، والأثر رقم: ٢٤٦ والتعليق عليه.]] [سورة البقرة: ٢]
+
+* *
+
+قال أبو جعفر: وهذا القول الذي ذكرناه عن جابر بن عبد الله أشبه بتأويل الآية. وذلك أن جميع ما أنزل الله عز وجل من آي القرآن على رسوله ﷺ، فإنما أنزله عليه بيانًا له ولأمته وهدًى للعالمين، وغيرُ جائز أن يكون فيه ما لا حاجة بهم إليه، ولا أن يكون فيه ما بهم إليه الحاجةُ، ثم لا يكون لهم إلى علم تأويله سبيل. فإذْ كان ذلك كذلك، فكل ما فيه بخلقه إليه الحاجة، [[في المطبوعة: "لخلقه"، وفي المخطوطة: "محلقه" غير منقوطة، والحرف الأول كأنه ميم مطموسة، وصواب قراءته ما أثبت.]] وإن كان في بعضه ما بهم عن بعض معانيه الغنى= [وإن اضطرته الحاجة إليه في معان كثيرة] [[هذه الجملة التي بين القوسين، هكذا جاءت في المطبوعة، ومثلها في المخطوطة وإن كان قوله "اصطرته" غير منقوطة هكذا. وهي عبارة غير واضحة المعنى، وأنا أخشى أن يكون الناسخ قد أغفل أسطرًا من هذا الموضع، فاختلط الكلام علينا وعليه! وإسقاط هذه الجملة من سياق الكلام لا يضر. ولكني تركتها على حالها، ووضعتها بين قوسين، وحصرتها بين الخطوط، ليعرف مكانها، ومكان السقط الذي رجحت أنه سهو من الناسخ.]] = وذلكَ كقول الله عز وجل: ﴿يَوْمَ يَأْتِي بَعْضُ آيَاتِ رَبِّكَ لا يَنْفَعُ نَفْسًا إِيمَانُهَا لَمْ تَكُنْ آمَنَتْ مِنْ قَبْلُ أَوْ كَسَبَتْ فِي إِيمَانِهَا خَيْرًا﴾ [سورة الأنعام: ١٥٨] ، فأعلم النبي ﷺ أمته أن تلك الآية التي أخبر الله جل ثناؤه عبادَه أنها إذا جاءت لم ينفع نفسًا إيمانها لم تكن آمنت من قبل ذلك، هي طُلوع الشمس من مغربها. [[انظر تفصيل ذلك والعلة في تفسير الآية من تفسير الطبري ٨: ٧١-٧٧ (بولاق) .]] فالذي كانت بالعباد إليه الحاجة من علم ذلك، هو العلم منهم بوقت نَفع التوبة بصفته، بغير تحديده بعدد السنين والشهور والأيام. [[في المطبوعة: "بعد بالسنين ... "، وفي المخطوطة: "بعد السنين ... "، وظاهر أن الناسخ أسقط الدال الثانية من"بعدد".]] فقد بين الله ذلك لهم بدلالة الكتاب، وأوضحه لهم على لسان رسوله ﷺ مفسَّرًا. والذي لا حاجة بهم إلى علمه منه، [[في المطبوعة: "لا حاجة لهم" باللام، وأثبت صوابها من المخطوطة.]] هو العلم بمقدار المدة التي بين وقت نزول هذه الآية ووقت حدوث تلك الآية، فإن ذلك مما لا حاجة بهم إلى علمه في دين ولا دنيا. وذلك هو العلم الذي استأثر الله جل ثناؤه به دون خلقه، فحجبه عنهم. وذلك وما أشبهه، هو المعنى الذي طلبت اليهودُ معرفته في مدّة محمد ﷺ وأمته من قبل قوله:"ألم" و"ألمص" و"ألر" و"ألمر" ونحو ذلك من الحروف المقطّعة المتشابهات، التي أخبر الله جل ثناؤه أنهم لا يدركون تأويل ذلك من قبله، وأنه لا يعلم تأويله إلا الله.
+
+فإذْ كان المتشابه هو ما وصفنا، فكل ما عداه فمحكم. لأنه لن يخلو من أن يكون محكمًا بأنه بمعنى واحد لا تأويل له غير تأويل واحد، وقد استغنى بسماعه عن بيان يُبينه = [[في المطبوعة والمخطوطة"مبينة"، ولكن ميم المخطوطة كأنها ليست"ميما"، وصواب قراءة النص هو ما أثبت.]] أو يكون محكمًا، وإن كان ذا وُجوه وتأويلات وتصرف في معان كثيرة. فالدلالة على المعنى المراد منه، إما من بيان الله تعالى ذكره عنه، أو بيان رسوله ﷺ لأمته. ولن يذهبَ علم ذلك عن علماء الأمة لما قد بيَّنَّا.
+
+* *
+
+القول في تأويل قوله: ﴿هُنَّ أُمُّ الْكِتَاب﴾
+
+قال أبو جعفر: قد أتينا على البيان عن تأويل ذلك بالدلالة الشاهدة على صحة ما قلناه فيه. [[انظر ما سلف قريبًا: ١٧٠.]] ونحن ذاكرو اختلاف أهل التأويل فيه، وذلك أنهم اختلفوا في تأويله.
+
+فقال بعضهم: معنى قوله:"هن أم الكتاب"، هنّ اللائي فيهن الفرائض والحدود والأحكام، نحو قولنا الذي قلنا فيه. [[في المطبوعة: "نحو قلنا" وهو سهو صوابه من المخطوطة.]]
+
+ذكر من قال ذلك:
+
+٦٥٨٩- حدثنا عمران بن موسى القزاز قال، حدثنا عبد الوارث بن سعيد قال، حدثنا إسحاق بن سويد، عن يحيى بن يعمر أنه قال في هذه الآية:"محكمات هنّ أم الكتاب". قال يحيى: هن اللاتي فيهنّ الفرائضُ والحدودُ وعمادُ الدين = وضرب لذلك مثلا فقال:"أمّ القرى" مكة،"وأم خراسان"، مَرْو،"وأمّ المسافرين"، الذي يجعلون إليه أمرَهم، ويُعنى بهم في سفرهم، قال: فذاك أمهم. [[الأثر: ٦٥٨٩-"عمران بن موسى الفزار"، و"عبد الوارث بن سعيد" مضت ترجمتهما برقم ٢١٥٤. وانظر التعليق على الأثر رقم: ٦٥٩١، التالي.]]
+
+٦٥٩٠ - حدثني يونس قال، أخبرنا ابن وهب قال، قال ابن زيد في قوله:"هن أم الكتاب"، قال: هن جماع الكتاب.
+
+* *
+
+وقال آخرون: بل يعني بذلك: [[في المطبوعة: "معنى بذلك"، وأثبت ما في المخطوطة.]] فواتح السور التي منها يستخرج القرآن.
+
+ذكر من قال ذلك:
+
+٦٥٩١ - حدثنا عمران بن موسى قال، حدثنا عبد الوارث بن سعيد قال، حدثنا إسحاق بن سويد، عن أبي فاختة أنه قال في هذه الآية:"منه آيات محكمات هن أم الكتاب"، قال:"أم الكتاب" فواتح السور، منها يستخرج القرآن - ﴿الم ذَلِكَ الْكِتَابُ﴾ ، منها استخرجت"البقرة"، و ﴿الم اللَّهُ لا إِلَهَ إِلا هُوَ﴾ منها استخرجت"آل عمران". [[الأثر: ٦٥٩١-"أبو فاختة" هو"سعيد بن علاقة الهاشمي"، مولى أم هانئ، ثقة مترجم في التهذيب. وانظر الأثر السالف رقم: ٦٥٨٩. فقد خرجهما السيوطي في الدر المنثور ٢: ٤، أثرًا واحدًا مختصرًا وقال: "عن إسحاق بن سويد أن يحيى بن يعمر وأبا فاختة تراجعا هذه الآية: هن أم الكتاب، فقال أبو فاختة ... وقال يحيى بن يعمر ... " وساق ما في هذين الأثرين مختصرًا.]]
+
+* *
+
+القول في تأويل قوله: ﴿فَأَمَّا الَّذِينَ فِي قُلُوبِهِمْ زَيْغٌ﴾
+
+قال أبو جعفر: يعني بذلك جل ثناؤه: فأما الذين في قلوبهم ميل عن الحق وانحرافٌ عنه.
+
+* *
+
+يقال منه:"زاغ فلان عن الحق، فهو يَزيغ عنه زَيْغًا وزيَغانًا وزيْغُوغَة وزُيوغًا"، و"أزاغه الله" - إذا أماله -"فهو يُزيغه"، ومنه قوله جل ثناؤه: ﴿رَبَّنَا لا تُزِغْ قُلُوبَنَا﴾ لا تملها عن الحق = ﴿بَعْدَ إِذْ هَدَيْتَنَا﴾ [سورة آل عمران: ٨] .
+
+* *
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل:-
+
+ذكر من قال ذلك:
+
+٦٥٩٢ - حدثنا ابن حميد قال، حدثنا سلمة قال، حدثني ابن إسحاق، عن محمد بن جعفر بن الزبير:"فأما الذين في قلوبهم زيغٌ"، أي: ميل عن الهدى. [[الأثر: ٦٥٩٢- هو بقية الآثار السالفة التي آخرها رقم: ٦٥٨٧، عن ابن إسحاق.]]
+
+٦٥٩٣ - حدثني محمد بن عمرو قال، حدثنا أبو عاصم، عن عيسى، عن ابن أبي نجيح، عن مجاهد في قول الله:"في قلوبهم زيغ"، قال: شك.
+
+٦٥٩٤ - حدثني المثنى قال، حدثنا أبو حذيفة قال، حدثنا شبل، عن ابن أبي نجيح، عن مجاهد مثله.
+
+٦٥٩٥ - حدثني المثنى قال، حدثنا عبد الله بن صالح قال، حدثني معاوية بن صالح، عن علي بن أبي طلحة، عن ابن عباس:"فأما الذين في قلوبهم زيغ"، قال: من أهل الشك.
+
+٦٥٩٦ - حدثني موسى بن هارون قال، حدثنا عمرو قال، حدثنا أسباط، عن السدي في خبر ذكره عن أبي مالك وعن أبي صالح، عن ابن عباس = وعن مرة الهمداني، عن ابن مسعود وعن ناس من أصحاب النبي ﷺ:"فأما الذين في قلوبهم زيغ"، أما الزيغ فالشك.
+
+٦٥٩٧ - حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن ابن جريج، عن مجاهد: قال:"زيغ" شك = قال ابن جريج:"الذين في قلوبهم زيغ"، المنافقون.
+
+* *
+
+القول في تأويل قوله: ﴿فَيَتَّبِعُونَ مَا تَشابَهَ مِنْهُ﴾
+
+قال أبو جعفر: يعني بقوله جل ثناؤه:"فيتبعون ما تشابه"، ما تشابهت ألفاظه وتصرَّفت معانيه بوجوه التأويلات، ليحققوا = بادّعائهم الأباطيلَ من التأويلات في ذلك = ما هم عليه من الضلالة والزّيغ عن محجة الحقّ، تلبيسًا منهم بذلك على من ضعفت معرفته بوجوه تأويل ذلك وتصاريف معانيه، كما:-
+
+٦٥٩٨ - حدثني المثنى قال، حدثنا عبد الله بن صالح قال، حدثني معاوية، عن علي، عن ابن عباس:"فيتبعون ما تشابه منه"، فيحملون المحكم على المتشابه، والمتشابه على المحكم، ويلبِّسون، فلبَّس الله عليهم.
+
+٦٥٩٩ - حدثنا ابن حميد قال، حدثنا سلمة، عن ابن إسحاق، عن محمد بن جعفر بن الزبير:"فيتبعون ما تشابه منه"، أي: ما تحرّف منه وتصرف، [[في ابن هشام: "أي: ما تصرف منه"، وليس فيه"تحرف".]] ليصدقوا به ما ابتدعوا وأحدثوا، ليكون لهم حجة على ما قالوا وشُبْهةً. [[الأثر: ٦٥٩٩- هو بقية الآثار السالفة التي آخرها رقم: ٦٥٩٢، بإسناده عن ابن إسحاق. ونص ما في سيرة ابن هشام ٢: ٢٢٦"لتكون لهم حجة، ولهم على ما قالوا شبهة".
+
+وتركت ما في التفسير هنا على حاله، لأن روايته عن ابن إسحاق، غير رواية ابن هشام".]]
+
+٦٦٠٠ - حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن ابن جريج، عن مجاهد في قوله:"فيبعون ما تشابه منه"، قال: الباب الذي ضلُّوا منه وهلكوا فيه ابتغاءَ تأويله.
+
+* *
+
+وقال آخرون في ذلك بما:
+
+٦٦٠١ - حدثني به موسى بن هارون قال، حدثنا عمرو قال، حدثنا أسباط عن السدي في قوله:"فيتبعون ما تشابه منه"، يتبعون المنسوخَ والناسخَ فيقولون: ما بال هذه الآية عمل بها كذا وكذا مجان هذه الآية، [[في المطبوعة: "مجاز هذه الآية"، أما المخطوطة، فهي غير بينة، وآثرت قراءتها"مكان".]] فتركت الأولى وعُمل بهذه الأخرى؟ هلا كان العمل بهذه الآية قبل أن تجيء الأولى التي نُسخت؟ وما باله يعد العذابَ مَنْ عمل عملا يعذبه [في] النار، [[في المطبوعة: "يعد به النار" بالدال المهملة، ولا معنى له. وفي المخطوطة"عد به" غير منقوطة، وصواب قراءتها"يعذبه"، وما بين القوسين زيادة يقتضيها سياق الكلام.]] وفي مكان آخر: مَنْ عمله فإنه لم يُوجب النار؟
+
+* *
+
+واختلف أهل التأويل فيمن عني بهذه الآية.
+
+فقال بعضهم: عُني به الوفدُ من نصارى نجران الذين قَدِموا على رسول الله ﷺ، فحاجُّوه بما حاجُّوه به، وخاصموه بأن قالوا: ألست تزعم أنّ عيسى روح الله وكلمته؟ وتأولوا في ذلك ما يقولون فيه من الكفر.
+
+ذكر من قال ذلك:
+
+٦٦٠٢ - حدثني المثنى قال، حدثنا إسحاق قال، حدثنا ابن أبي جعفر، عن أبيه، عن الربيع قال: عَمدوا - يعني الوفد الذين قدموا على رسول الله ﷺ من نصارى نجران - فخاصموا النبيَّ ﷺ، قالوا: ألست تزعم أنه كلمةُ الله ورُوحٌ منه؟ قال: بلى! قالوا: فحسبُنا! فأنزل الله عز وجل:"فأما الذين في قلوبهم زيغ فيتبعون ما تشابه منه ابتغاء الفتنة"، ثم إن الله جل ثناؤه: أنزل ﴿إِنَّ مَثَلَ عِيسَى عِنْدَ اللَّهِ كَمَثَلِ آدَمَ﴾ [سورة آل عمران: ٥٩] ، الآية.
+
+* *
+
+وقال آخرون: بل أنزلت هذه الآية في أبي ياسر بن أخطب، وأخيه حُييّ بن أخطب، والنفر الذين ناظروا رسول الله ﷺ في قَدْر مُدة أُكْلِه وأكْل أمته، [[في المطبوعة: "أجله وأجل أمته"، وانظر تفسير"الأكل" فيما سلف ص: ١٨٠، تعليق: ١.]] وأرادوا علم ذلك من قِبَل قوله:"ألم و"ألمص"، و"ألمر" و"ألر"، فقال الله جل ثناؤه فيهم:"فأما الذين في قلوبهم زيغ" - يعني هؤلاء اليهود الذين قُلوبهم مائلة عن الهدى والحق ="فيتبعون ما تَشابه منه" يعني: معاني هذه الحروف المقطّعة المحتملة التصريف في الوجوه المختلفة التأويلات ="ابتغاءَ الفتنة".
+
+وقد ذكرنا الرواية بذلك فيما مضى قبل، في أول السورة التي تذكر فيها"البقرة". [[انظر الأثر السالف رقم: ٢٤٦.]]
+
+* *
+
+وقال آخرون: بل عنى الله عز وجل بذلك كل مبتدع في دينه بدعة مخالفةً لما ابتعث به رسوله محمدًا ﷺ، بتأويل يتأوله من بعض آي القرآن المحتملة التأويلات، وإن كان الله قد أحكم بيانَ ذلك، إما في كتابه، وإما على لسان رسوله.
+
+ذكر من قال ذلك:
+
+٦٦٠٣ - حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا معمر، عن قتادة في قوله:"فأما الذين في قُلوبهم زَيغٌ فيتبعون ما تشابه منه ابتغاءَ الفتنة"، وكان قتادة إذا قرأ هذه الآية:"فأما الذين في قلوبهم زيغ" قال: إن لم يكونوا الحرُوريّة والسبائية، [["الحرورية"، هم الخوارج، اجتمعوا بحروراء بظاهر الكوفة، فكان هناك أول اجتماعهم بها وتحكيمهم حين خالفوا عليًا، وأما "السبائية"، فهم منسوبون إلى ابن السوداء اليهودي"عبد الله بن سبأ" وهو الذي قال لعلي: "أنت أنت" يعني أن الأمام فيه الجزء الإلهي، تعالى الله عن ذلك علوًا كبيرًا فنفاه علي إلى المدائن. هذا وقد كتبت في المخطوطة"السبائية"، وفي المطبوعة"السبئية"، وآثرت ما في المخطوطة لأنها هكذا هي في أكثر الكتب.]] فلا أدري من هم! ولعمري لقد كان في أهل بدر والحديبية الذين شهدوا مع رسول الله ﷺ بيعة الرّضوان من المهاجرين والأنصار خبرٌ لمن استخبر، وعبرةٌ لمن استعبر، لمن كان يَعْقِل أو يُبصر. [[يعني بذلك العبرة التي كانت في بدر، حين أشار على رسول الله أصحابه أن يدع منزله الأول الذي نزله، إلى المنزل الذي أشاروا به عليه - والعبرة التي كانت في الحديبية حين قال بعض أصحاب بيعة الرضوان ما قالوا في كراهة الصلح الذي عقده رسول الله ﷺ بينه وبين قريش. وفي ذلك برهان على فساد مقالة الخوارج، ومقالة السبائية.]] إن الخوارج خرجوا وأصحاب رسول الله ﷺ يومئذ كثيرٌ بالمدينة والشأم والعراق، وأزواجه يومئذ أحياء. والله إنْ خَرَج منهم ذكرٌ ولا أنثى حروريًّا قط، ولا رضوا الذي هم عليه، ولا مالأوهم فيه، بل كانوا يحدّثون بعيب رسول الله ﷺ إياهم ونعتِه الذي نعتهم به، وكانوا يبغضونهم بقلوبهم، ويعادونهم بألسنتهم، وتشتدّ والله عليهم أيديهم إذا لقوهم. ولعمري لو كان أمر الخوارج هُدًى لاجتمع، ولكنه كان ضلالا فتفرّق. وكذلك الأمر إذا كان من عند غير الله وجدت فيه اختلافًا كثيرًا. فقد ألاصوا هذا الأمر منذ زمان طويل. [[ألاص الأمر: أداره وحاوله. وألاص فلانًا على هذا الأمر: أداره على الشيء الذي يريده.]] فهل أفلحوا فيه يومًا أو أنجحوا؟ يا سبحان الله؟ كيف لا يعتبر آخر هؤلاء القوم بأوّلهم؟ لو كانوا على هدى، قد أظهره الله وأفلجه ونصره، [[في المطبوعة: "أفلحه" بالحاء المهملة، وهو في المخطوطة غير منقوطة، وصواب قراءته بالجيم. أفلج الله حجته: أظهرها، وجعل له الفلج، أي الفوز والغلبة.]] ولكنهم كانوا على باطل أكذبه الله وأدحضه. فهم كما رأيتهم، كلما خَرج لهم قَرْنٌ أدحض الله حجتهم، وأكذب أحدوثتهم، وأهرَاق دماءهم. إن كتموا كان قَرْحًا في قلوبهم، [[في المخطوطة والمطبوعة: "وإن كتموا ... "، والسياق يقتضي حذف الواو.]] وغمًّا عليهم. وإن أظهروه أهرَاق الله دماءهم. ذاكم والله دينَ سَوْء فاجتنبوه. والله إنّ اليهودية لبدعة، وإن النصرانية لبدْعة، [[عنى باليهودية والنصرانية، ما ابتدعه اليهود والنصارى من القول في عزير، وأنه ابن الله، وغير ذلك من مذاهبهم - ومن القول في المسيح، وأنه ابن الله، وغير ذلك من مقالاتهم.]] وإن الحرورية لبدعة، وإن السبائية لبدعة، ما نزل بهن كتابٌ ولا سنَّهنّ نبيّ.
+
+٦٦٠٤ - حدثنا بشر قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة:"فأما الذين في قلوبهم زيغ فيتبعون ما تشابه منه ابتغاء الفتنة وابتغاء تأويله"، طلب القوم التأويل، فأخطأوا التأويل وأصابوا الفتنة، فاتبعوا ما تشابه منه، فهلكوا من ذلك. لعمري لقد كان في أصحاب بدر والحديبية الذي شهدوا بيعة الرضوان = وذكر نحو حديث عبد الرزاق، عن معمر، عنه.
+
+٦٦٠٥ - حدثني محمد بن خالد بن خداش ويعقوب بن إبراهيم قالا حدثنا إسماعيل بن علية، عن أيوب، عن عبد الله بن أبي مليكة، عن عائشة قالت: قرأ رسول الله ﷺ:"هو الذي أنزل عليك الكتاب" إلى قوله:"وما يذَّكر إلا أولوا الألباب"، فقال: فإذا رأيتم الذين يجادلون فيه، فهم الذين عنى الله، فاحذرُوهم. [[الحديث: ٦٦٠٥- هذا الحديث رواه الطبري هنا بأحد عشر إسنادًا، كلها من رواية ابن أبي مليكة، إلا واحدًا، وهو الحديث: ٦٦١١. واختلف الرواة عن ابن أبي مليكة، فبعضهم يرويه عنه عن عائشة مباشرة، وبعضهم يرويه عنه عن القاسم عن عائشة. وكل صحيح، كما سيأتي.
+
+وابن أبي مليكة: هو عبد الله بن عبيد الله بن عبد الله بن أبي مليكة، القرشي المكي. وهو تابعي كبير ثقة، سمع عائشة وغيرها من الصحابة. ترجمه البخاري في الصغير، ص: ١٣١، وابن سعد ٥: ٣٤٧-٣٤٨، وابن أبي حاتم ٢ / ٢ / ٩٩-١٠٠، والمصعب في نسب قريش، ص: ٢٩٣.
+
+فقال الترمذي: ٤: ٨٠، بعد أن روى الحديث بالوجهين، كما سيأتي-: "هكذا روى غير واحد هذا الحديث عن ابن أبي مليكة عن عائشة، ولم يذكروا فيه: عن القاسم بن محمد. وإنما ذكره يزيد بن إبراهيم: عن القاسم بن محمد، في هذا الحديث. وابن أبي مليكة، هو"عبد الله بن عبيد الله بن أبي مليكة. وقد سمع من عائشة أيضًا".
+
+ولم ينفرد يزيد بن إبراهيم بذكر"القاسم" في الإسناد، كما زعم الترمذي. وسيجيء بيان ذلك، إن شاء الله.
+
+وقال الحافظ في الفتح ٨: ١٥٧: "قد سمع ابن أبي مليكة من عائشة كثيرًا، وكثيرًا ما يدخل بينها وبينه واسطة. وقد اختلف عليه في هذا الحديث..".
+
+والحديث - من هذا الوجه، من رواية ابن علية، عن أيوب -: رواه أحمد في المسند ٦: ٤٨ (حلبي) ، عن ابن علية، بهذا الإسناد. وكذلك رواه ابن ماجه: ٤٧، عن محمد بن خالد بن خداش - شيخ الطبري هنا - عن ابن علية، به.
+
+ومحمد بن خالد بن خداش، هذا: مترجم في التهذيب. وقال: "ذكره ابن حبان في الثقات، وقال: ربما أغرب عن أبيه".
+
+ولم يترجمه ابن أبي حاتم، ولم يذكره الخطيب في تاريخ بغداد، مع أنه سكنها، كما في التهذيب.
+
+والحديث ذكره ابن كثير ٢: ٩٧، عن رواية المسند. ثم قال: "هكذا وقع هذا الحديث في مسند الإمام أحمد، من رواية ابن أبي مليكة، عن عائشة رضي الله عنها، ليس بينهما أحد". ثم أشار إلى رواية ابن ماجه، وإلى روايات أخر، تذكر فيما سيأتي.
+
+ولكن وقع في ابن كثير"يعقوب" بدل"أيوب"! وهو خطأ ناسخ أو طابع. وثبت في المسند على الصواب"أيوب".]]
+
+٦٦٠٦-حدثنا ابن عبد الأعلى قال، حدثنا المعتمر بن سليمان قال، سمعت أيوب، عن عبد الله بن أبي مليكة، عن عائشة أنها قالت: قرأ نبيّ الله ﷺ هذه الآية:"هو الذي أنزل عليك الكتاب" إلى"وما يذكر إلا أولوا الألباب"، قالت: فقال رسول الله ﷺ: فإذا رأيتم الذين يجادلون فيه - أو قال: يتجادلون فيه - فهم الذين عنى الله، فاحذرهم = قال مطر، عن أيوب أنه قال: فلا تجالسوهم، فهم الذين عنىَ الله فاحذروهم. [[الحديث: ٦٦٠٦- ابن عبد الأعلى: هو محمد بن عبد الأعلى الصنعاني. مضت ترجمته في: ١٢٣٦.
+
+مطر: هو ابن طهمان - بفتح الطاء المهملة وسكون الهاء - الوراق. وهو ثقة، تكلم فيه بعضهم من قبل حفظه. مات سنة ١٢٥.
+
+والحديث - من هذا الوجه - رواه ابن حبان في صحيحه، رقم: ٧٥ بتحقيقنا، من طريق عاصم بن النضر الأحول، عن المعتمر بن سليمان، بهذا الإسناد.
+
+وقال ابن حبان عقب روايته: "سمع هذا الخبر أيوب عن مطر الوراق وابن أبي مليكة جميعًا".
+
+وهذا خطأ، فاتنا أن ننبه إليه هناك، إذ فهمناه على المعنى الصحيح، لم نتنبه إلى اللفظ! فابن حبان يريد أن يقول: "سمع هذا الخبر أيوب ومطر الوراق، جميعًا عن ابن أبي مليكة".
+
+فإما كان ما ثبت فيه سبق قلم من ابن حبان، وإما كان سهوًا من الناسخين. فما كان ابن حبان ليخفى عليه أن مطرًا الوراق لم يدرك عائشة، وهو قد ذكره في الثقات، ص: ٣٤٤-٣٤٥، وذكر أنه يروي عن أنس بن مالك، وأنه مات سنة ١٢٥، قيل: ١٢٩. ومع ذلك فلم يسلم له هذا، فقد روى ابن أبي حاتم في المراسيل، ص: ٧٨، عن أبي زرعة، قال: "مطر لم يسمع من أنس شيئًا. وهو مرسل".
+
+ولكن يعكر على كلام ابن حبان- إذا قرئ على الوجه الصواب الذي ذكرنا-: أن رواية الطبري هنا صريحة في أن مطرًا سمعه من أيوب بالزيادة التي زادها في لفظ الحديث. ويكون المعتمر بن سليمان سمعه من أيوب مختصرًا، بلفظ"فاحذروهم"، وسمعه من مطر الوراق عن أيوب مطولا، باللفظ الآخر. وهذا هو الصواب إن شاء الله. ومطر وأيوب من طبقة واحدة.]]
+
+٦٦٠٧ - حدثنا ابن بشار قال حدثنا عبد الوهاب قال، حدثنا أيوب، عن ابن أبي مليكة، عن عائشة، عن النبي ﷺ بنحو معناه. [[الحديث: ٦٦٠٧- عبد الوهاب: هو ابن عبد المجيد الثقفي. مضت ترجمته في: ٢٠٣٩. والحديث - من هذا الوجه-: رواه ابن ماجه: ٤٧، عن أحمد بن ثابت الجحدري، ويحيى بن حكيم، كلاهما عن عبد الوهاب، به.
+
+وأشار إليه ابن كثير ٢: ٩٧، من رواية ابن ماجه. ثم قال: "ورواه محمد بن يحيى العبدي، في مسنده، عن عبد الوهاب الثقفي، به".]]
+
+٦٦٠٨- حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا معمر، عن أيوب، عن ابن أبي مليكة، عن عائشة، عن النبي ﷺ نحوه. [[الحديث: ٦٦٠٨- هو الحديث السابق. وهو من رواية معمر عن أيوب. وأشار إليه ابن كثير ٢: ٩٧، قال: "وكذا رواه عبد الرزاق، عن معمر، عن أيوب. وكذا رواه غير واحد عن أيوب".
+
+ولم يذكر ابن كثير تخريجًا آخر لرواية معمر هذه. وتفسير عبد الرزاق، مخطوطة دار الكتب المصرية - فيه خرم من أواخر سورة البقرة، إلى أوائل سورة النساء.]]
+
+٦٦٠٩ - حدثني يونس قال، أخبرنا ابن وهب قال، أخبرنا الحارث، عن أيوب، عن ابن أبي مليكة، عن عائشة زوج النبي ﷺ، قالت: قرأ رسول الله ﷺ هذه الآية:"هو الذي أنزل عليك الكتاب منه آيات محكمات هُنّ أم الكتاب وأخر متشابهات" الآية كلها، فقال رسول الله ﷺ: إذا رأيتم الذين يتبعون ما تشابه منه، والذين يجادلون فيه، فهم الذين عنى الله، أولئك الذين قال الله، فلا تجالسوهم. [[الحديث: ٦٦٠٩- الحارث: هو ابن بنهان الجرمي البصري. وهو ضعيف جدًا. قال البخاري في الكبير ١ / ٢ / ٢٨٢: "منكر الحديث". وكذلك قال في الصغير، ص: ١٨٥. وفي التهذيب عن الترمذي في العلل الكبير، عن البخاري: "منكر الحديث، لا يبالي ما حدث. وضعفه جدًا". وروى ابن أبي حاتم ١ / ٢ / ٩١-٩٢، عن أحمد بن حنبل، قال: "رجل صالح، ولم يكن يعرف بالحديث، ولا يحفظه، منكر الحديث".
+
+وعلى الرغم من ضعف الحارث هذا، فإن أصل الحديث صحيح، بالأسانيد الأخر: السابقة واللاحقة.]]
+
+٦٦١٠ - حدثنا ابن وكيع قال، حدثنا أبو أسامة، عن يزيد بن إبراهيم، عن ابن أبي مليكة قال: سمعت القاسم بن محمد يحدث، عن عائشة قالت: تلا النبي ﷺ هذه الآية:"هو الذي أنزل عليك الكتاب منه آيات محكمات هُنّ أم الكتاب"، ثم قرأ إلى آخر الآيات، فقال:"إذا رأيتم الذين يتبعون ما تشابه منه، فأولئك الذين سمَّى الله، فاحذروهم. [[الحديث: ٦٦١٠- ابن وكيع: هو سفيان بن وكيع. وهو ضعيف، كما بينا في: ١٦٩٢.
+
+أبو أسامة: هو حماد بن أسامة الكوفي الحافظ. مضت ترجمته: ٢٩٩٥.
+
+يزيد بن إبراهيم التستري البصري الحافظ: ثقة ثبت. وثقه أحمد، ووكيع، وأبو حاتم، وغيرهم. وجعله ابن معين أثبت من جرير بن حازم.
+
+وهذا الإسناد أحد الروايات في هذا الحديث، التي فيها زيادة"القاسم بن محمد"، بين ابن أبي مليكة وعائشة. وكل صحيح. فهو من المزيد في متصل الأسانيد: سمعه ابن أبي مليكة من عائشة، وسمعه من القاسم عن عائشة. فحدث به على الوجهين، تارة هكذا، وتارة هكذا.
+
+والحديث - من هذا الوجه-: رواه أبو داود الطيالسي: ١٤٣٣، عن يزيد بن إبراهيم، بهذا الإسناد، نحوه، مختصرًا قليلا.
+
+ورواه البخاري ٨: ١٥٧-١٥٩ (فتح) . ومسلم ٢: ٣٠٣-٣٠٤. وأبو داود: ٤٥٩٨- ثلاثتهم عن القعنبي، عن يزيد بن إبراهيم، بهذا الإسناد.
+
+ورواه الترمذي: ٤: ٨٠، عن عبد بن حميد، عن أبي الوليد الطيالسي، عن يزيد بن إبراهيم، به، نحوه. وقال: "هذا حديث حسن صحيح".
+
+ورواه ابن حبان في صحيحه، رقم: ٧٢ بتحقيقنا، من طريق عبد الله - وهو ابن المبارك الإمام شيخ الإسلام - عن يزيد بن إبراهيم، به.
+
+ولم ينفرد يزيد بن إبراهيم بزيادة"القاسم" بين ابن أبي مليكة وعائشة، فسيأتي بإسناد آخر: ٦٦١٥، بزيادة القاسم، وسيأتي أيضًا عقب هذا: ٦٦١١ من رواية عبد الرحمن بن القاسم، عن أبيه.]]
+
+٦٦١١ - حدثنا علي بن سهل قال، حدثنا الوليد بن مسلم، عن حماد بن سلمة، عن عبد الرحمن بن القاسم، عن أبيه، عن عائشة، قالت: نزع رسول الله ﷺ:"يتبعُون ما تَشابه منه"، فقال رسول الله ﷺ: قد حذركم الله، فإذا رأيتموهم فاعرفوهم. [[الحديث: ٦٦١١- علي بن سهل الرملي، شيخ الطبري: مضت ترجمته في: ١٣٨٤. الوليد بن مسلم الدمشقي، عالم الشام: مضت ترجمته في: ٢١٨٤.
+
+عبد الرحمن: هو ابن القاسم بن محمد بن أبي بكر. مضت ترجمته في: ٢٨٣٦.
+
+وهذا إسناد صحيح. وهو متابعة صحيحة قوية لرواية ابن أبي مليكة عن القاسم بن محمد.
+
+وقد نقله ابن كثير ٢: ٩٨. ثم قال: "ورواه ابن مردويه، من طريق أخرى، عن القاسم، عن عائشة، به".
+
+وانظر الحديث الآتي: ٦٦١٥.
+
+وقوله: "نزع رسول الله" - يقال: انتزع بالآية والشعر: تمثل. ويقال للرجل إذا استنبط معنى آية من كتب الله: "قد انتزع معنى جيدًا" و"نزعه"، أي استخرجه. ولعلها عنت بقولها"نزع" هنا -: استشهد، أو قرأ مستشهدًا. وانظر الحديث التالي لهذا.]]
+
+٦٦١٢ - حدثنا علي قال، حدثنا الوليد، عن نافع بن عمر، عن [ابن أبي مليكة، حدثتني] عائشة قالت: قال رسول الله ﷺ: إذا رأيتموهم فاحذروهم، ثم نزع:"فأما الذين في قلوبهم زيغ فيتبعون ما تشابه منه"، ولا يعملون بمحكمه. [[الحديث: ٦٦١٢- نافع بن عمر بن عبد الله بن جميل، الجمحي القرشي المكي: ثقة، قال أحمد بن حنبل: "ثبت ثبت صحيح الحديث". وهو مترجم في التهذيب، والكبير ٤ / ٢ / ٨٦، وابن سعد ٥: ٣٦٣. ونسب قريش للمصعب: ٤٠٠. وابن أبي حاتم ٤ / ١ / ٤٥٦، وتذكرة الحفاظ ١: ٢١٣.
+
+ووقع في المخطوطة والمطبوعة هنا: "نافع عن عمر"! بدل"نافع بن عمر". وهو خطأ. تصويبه عن الفتح ٨: ١٥٧، حيث ذكر فيمن روى هذا الحديث"عن ابن أبي مليكة دون ذكر القاسم" -".... ونافع بن عمر، وابن جريج، وغيرهما". وكذلك صححناه عن ابن كثير، كما سنذكر.
+
+ثم وقع في الأصلين خطأ آخر أشد من ذاك وأشنع! ففيهما: "عن نافع، عن عمر، عن عائشة"!! فحذف"ابن أبي مليكة" من الإسناد. ثم حذف تصريحه بالسماع من عائشة.
+
+فصححنا الإسناد، وأثبتنا ما سقط منه خطأ من الناسخين، وهو ما زدناه بعد كلمة"عن"، بين علامتي الزيادة: [ابن أبي مليكة، حدثتني] .
+
+وهذه الزيادة أخذناها من ابن كثير ٢: ٩٨، حيث قال: "ورواه ابن جرير، من حديث روح بن القاسم، ونافع بن عمر الجمحي، كلاهما عن ابن أبي مليكة، عن عائشة. وقال نافع في روايته: عن ابن أبي مليكة، حدثتني عائشة. فذكره".
+
+فهذا هو الصواب، الذي أفادنا ما سقط هنا من الإسناد من الناسخين. والحمد لله.
+
+ثم إن الحديث سيأتي: ٦٦١٤، من هذا الوجه، على الصواب، من رواية خالد بن نزار، عن نافع - وهو ابن عمر الجمحي-"عن ابن أبي مليكة، عن عائشة".]]
+
+٦٦١٣- حدثني أحمد بن عبد الرحمن بن وهب قال، أخبرنا عمي قال، أخبرني شبيب بن سعيد، عن روح بن القاسم، عن ابن أبي مليكة، عن عائشة: أن رسول الله ﷺ سُئل عن هذه الآية:"فأما الذين في قلوبهم زيغ فيتبعون ما تشابه منه ابتغاءَ الفتنة وابتغاء تأويله وما يعلم تأويله إلا الله والراسخون في العلم"، فقال: فإذا رأيتم الذين يجادلون فيه، فهم الذين عنى الله، فاحذروهم. [[الحديث: ٦٦١٣- أحمد بن عبد الرحمن بن وهب: مضت ترجمته في: ٢٧٤٧. وعمه: هو عبد الله بن وهب.
+
+شبيب بن سعيد التميمي الحبطي البصري: قال ابن المديني: "ثقة، كان يختلف إلى مصر في تجارة، وكتابه كتاب صحيح". وفي مصر سمع منه ابن وهب. مترجم في التهذيب، والكبير ٢ / ٢ / ٢٣٤، وابن أبي حاتم ٢ / ١ / ٣٥٩.
+
+و"الحبطي": بفتح الحاء المهملة والباء الموحدة. نسبة إلى"الحبطات". بطن من تميم.
+
+روح بن القاسم التميمي العنبري البصري: ثقة، وثقه أحمد، وابن معين، وغيرهما. وقال سفيان بن عيينة: "لم أر أحدًا طلب الحديث وهو مسن أحفظ من روح بن القاسم".
+
+وهذا الإسناد أشار إليه ابن كثير ٢: ٩٨، كما نقلنا كلامه عند الإسناد الذي قبله.]]
+
+٦٦١٤- حدثني محمد بن عبد الله بن عبد الحكم قال، حدثنا خالد بن نزار، عن نافع، عن ابن أبي مليكة، عن عائشة في هذه الآية،"هو الذي أنزل عليك الكتاب"، الآية،"يتبعها"، يتلوها، ثم يقول: فإذا رأيتم الذين يجادلون فيه فاحذروهم، فهم الذين عنى الله. [[الحديث: ٦٦١٤- خالد بن نزار بن المغيرة الأيلي: ثقة. مترجم في التهذيب فقط. وشيخه نافع: هو ابن عمر الجمحي.
+
+وهذا الحديث تكرار للحديث: ٦٦١٢، من رواية نافع الجمحي، ومؤيد لما ذكرنا أنه سقط من ذاك الإسناد.
+
+فهؤلاء: أيوب، ونافع بن عمر، وخالد بن نزار رووه عن ابن أبي مليكة، عن عائشة - مباشرة، دون واسطة"القاسم" بينهما، بل صرح نافع بن عمر بسماع ابن أبي مليكة إياه من عائشة، كما مضى في: ٦٦١٢.
+
+وتابعهم على ذلك أبو عامر الخزاز:
+
+فرواه الترمذي ٤: ٨٠، عن محمد بن بشار، عن أبي داود الطيالسي، عن أبي عامر الخزاز، عن ابن أبي مليكة، عن عائشة - دون ذكر القاسم.
+
+وأبو عامر الخزاز - بمعجمات - هو صالح بن رستم. مضت ترجمته: ٥٤٥٨.
+
+وهذه المتابعة ذكرها ابن كثير ٢: ٩٨، والحافظ في الفتح ٨: ١٥٧. وإسنادها صحيح.
+
+ورواه أيضًا سعيد بن منصور، عن حماد بن يحيى، عن ابن أبي مليكة. عن عائشة، نقله ابن كثير ٢: ٩٨. وهو إسناد صحيح.
+
+وتابعهم أيضًا ابن جريج. ذكره الحافظ في الفتح ٨: ١٥٧، ولكن لم يذكر من خرجه. ولم أجده في مصدر آخر مما بين يدي من المصادر.]]
+
+٦٦١٥- حدثنا ابن وكيع قال، حدثنا يزيد بن هارون، عن حماد بن سلمة، عن ابن أبي مليكة، عن القاسم، عن عائشة، عن النبي ﷺ في هذه الآية:"هو الذي أنزل عليك الكتاب منه آيات محكمات هن أم الكتاب" إلى آخر الآية، قال: هم الذين سَمّاهم الله، فإذا أريتموهم فاحذروهم. [[الحديث: ٦٦١٥- وهذا إسناد صحيح أيضًا. ولكنه بزيادة"القاسم" بين ابن أبي مليكة وعائشة، كمثل رواية يزيد بن إبراهيم عن ابن أبي مليكة، الماضية: ٦٦١٠.
+
+وهو يرد ادعاء الترمذي أن يزيد بن إبراهيم انفرد بهذه الزيادة، كما ذكرنا في ٦٦٠٥. فقد تابعه على ذلك حماد بن سلمة، في هذا الإسناد.
+
+وكذلك رواه أبو داود الطيالسي في مسنده: ١٤٣٢، عن حماد بن سلمة، عن ابن أبي مليكة، عن القاسم بن محمد، عن عائشة.
+
+وقد جمع الروايتين: رواية يزيد ورواية حماد - أبو الوليد الطيالسي في روايته عنهما. فرواه ابن أبي حاتم، عن أبيه، عن أبي الوليد الطيالسي، عن يزيد بن إبراهيم التستري وحماد بن سلمة - معًا - عن ابن أبي مليكة، عن القاسم بن محمد، عن عائشة. نقله ابن كثير ٢: ٩٨، عن ابن أبي حاتم، وأشار إليه الحافظ في الفتح ٨: ١٥٧.
+
+وقد مضت من قبل: ٦٦١١ رواية حماد بن سلمة، عن عبد الرحمن بن القاسم، عن أبيه، عن عائشة. فدل هذا وذاك على أن حماد بن سلمة رواه عن شيخين عن القاسم: رواه عن عبد الرحمن بن القاسم، وعن ابن أبي مليكة - كلاهما عن القاسم.
+
+وهناك متابعة أخرى عن القاسم، لا نعرف تفصيل إسنادها. إذ قال ابن كثير ٢: ٩٨"ورواه ابن مردويه، من طريق أخرى، عن القاسم، عن عائشة، به". فلم يذكر ما هي، ولا ما إسنادها، ولم يشر إليها الحافظ في الفتح.
+
+ولحديث - في أصله - ذكره السيوطي ٢: ٥، وزاد نسبته إلى البيهقي في الدلائل.]]
+
+* *
+
+قال أبو جعفر: والذي يدل عليه ظاهر هذه الآية، أنها نزلت في الذين جادَلوا رسولَ الله ﷺ بمتشابه ما أنزل إليه من كتاب الله، إمّا في أمر عيسى، وأما في مدة أكله وأكل أمته. [[في المطبوعة: "إما مدة أجله وأجل أمته"، والتصحيح من المخطوطة، وقد سلف مثل ذلك التحريف في ص: ١٨٠، تعليق: ١، وص: ١٨٧، تعليق: ١ وفي الجزء الأول من التفسير ص: ٢١٧ تعليق: ٤. والأكل" (بضم الألف وسكون الكاف) : الرزق، لأنه يؤكل. ومنه قيل لمدة العمر التي يعيشها المرء في الدنيا"أكل". يقال للميت: "انقطع أكله"، انقضت مدته، وفنى عمره.]]
+
+وهو بأن تكون في الذين جادلوا رسول الله ﷺ بمتشابهه في مدّته ومدّة أُمّته، أشبُه، لأن قوله:"وما يعلَمُ تأويلَه إلا الله"، دالٌّ على أن ذلك إخبار عن المدة التي أرادوا علمها من قِبَل المتشابه الذي لا يعلمه إلا الله. فأما أمرُ عيسى وأسبابه، فقد أعلم الله ذلك نبيه محمدًا ﷺ وأمته، وبيّنه لهم. فمعلومٌ أنه لم يعن به إلا ما كان خفيًّا عن الآجال. [[في المطبوعة: " ... أنه لم يعن إلا ما كان خفيًا عن الآحاد"، ولا معنى لها. وفي المخطوطة: "أنه يعره إلا ما كان عليه خفيًا عن الآحاد"، فرجحت أن صواب قراءتها كما أثبتها، "الآجال" جمع أجل، وهو الذي أرادوا معرفته من مدة هذه الأمة. والناسخ هنا كثير السهو والتحريف من عجلته.]]
+
+* *
+
+القول في تأويل قوله: ﴿ابْتِغَاءَ الْفِتْنَةِ﴾
+
+قال أبو جعفر: اختلف أهل التأويل في تأويل ذلك. [[انظر تفسير"الابتغاء" فيما سلف ٣: ٥٠٨ / ثم ٤: ١٦٣. وتفسير"الفتنة" فيما سلف، ٢: ٤٤٣، ٤٤٤ / ثم ٣: ٥٦٥، ٥٦٦، ٥٧٠، ٥٧١ / ثم ٤: ٣٠١.]]
+
+فقال بعضهم: معنى ذلك: ابتغاء الشرك.
+
+ذكر من قال ذلك:
+
+٦٦١٦ - حدثني موسى بن هارون قال، حدثنا عمرو بن حماد قال: حدثنا أسباط، عن السدي:"ابتغاء الفتنة"، قال: إرادة الشرك.
+
+٦٦١٧- حدثني المثنى قال، حدثنا إسحاق قال، حدثنا ابن أبي جعفر، عن أبيه، عن الربيع في قوله: ﴿ابتغاء الفتنة﴾ يعني الشرك.
+
+* *
+
+وقال آخرون: معنى ذلك: ابتغاءَ الشّبهات.
+
+ذكر من قال ذلك:
+
+٦٦١٨ - حدثني محمد بن عمرو قال، حدثنا أبو عاصم، عن عيسى، عن ابن أبي نجيح، عن مجاهد:"ابتغاء الفتنة"، قال: الشبهات، بها أهْلِكوا.
+
+٦٦١٩ - حدثني المثنى قال، حدثنا أبو حذيفة قال، حدثنا شبل، عن ابن أبي نجيح، عن مجاهد في قوله:"ابتغاء الفتنة"، الشبهات، قال: هلكوا به.
+
+٦٦٢٠ - حدثنا القاسم قال، حدثنا الحسين قال، حدثنا حجاج، عن ابن جريج، عن مجاهد:"ابتغاء الفتنة"، قال: الشبهات. قال: والشبهات ما أهلكوا به.
+
+٦٦٢١ - حدثنا ابن حميد قال، حدثنا سلمة، عن ابن إسحاق، عن محمد بن جعفر بن الزبير:"ابتغاء الفتنة"، أي اللَّبْس. [[الأثر: ٦٦٢١ - هو بقية الآثار السالفة التي آخرها رقم ٦٥٩٩، بإسناده عن ابن إسحاق.]]
+
+* *
+
+قال أبو جعفر: وأولى القولين في ذلك بالصواب قول من قال: معناه:"إرادةُ الشبهات واللبس".
+
+* *
+
+فمعنى الكلام إذًا: فأما الذين في قلوبهم هيلٌ عن الحق وحَيْفٌ عنه، فيتبعون من آي الكتاب ما تَشابهت ألفاظه، واحتمل صَرْف صارفه في وجوه التأويلات [[في المطبوعة والمخطوطة: "واحتمل صرفه في وجوه التأويلات"، وقد قطعت بأن ذلك خطأ من الناسخ، لأن الضمائر السابقة كلها جموع، والتي تليها كلها أفراد، وهو لا يستقيم. فرجحت أن الناسخ قرأ"صرف صرفه" (بغير ألف في: صارفه) كما كانت تكتب قديمًا، فظنها خطأ، فحذف الأولى"صرف" وأبقى الأخرى"صرفه"، فاضطربت الضمائر.]] - باحتماله المعاني المختلفة - إرادةَ اللبس على نفسه وعلى غيره، احتجاجًا به على باطله الذي مالَ إليه قلبه، دون الحق الذي أبانه الله فأوضحه بالمحكمات من آي كتابه.
+
+* *
+
+قال أبو جعفر: وهذه الآية وإن كانت نزلت فيمن ذكرنا أنها نزلت فيه من أهل الشرك، فإنه معنىّ بها كل مبتدع في دين الله بدعةً فمال قلبه إليها، تأويلا منه لبعض مُتشابه آي القرآن، ثم حاجّ به وجادل به أهل الحق، وعدل عن الواضح من أدلة آيه المحكمات، إرادةً منه بذلك اللبس على أهل الحق من المؤمنين، وطلبًا لعلم تأويل ما تشابه عليه من ذلك، كائنًا من كان، وأيّ أصناف المبتدعة كان [[في المطبوعة والمخطوطة: "البدعة"، وصواب قراءتها إن شاء الله"المبتدعة"، كما يدل عليه السياق.]] من أهل النصرانية كان أو اليهودية أو المجوسية، أو كان سَبئيًا، [[هكذا كتبت هنا"سبئيًا"، وقد أسلفنا أنها كتبت في المواضع الماضية"سبائيًا"، فتركت هذا الرسم كما هو، وهو صواب.]] أو حروريًّا، أو قدريًّا، أو جهميًّا، كالذي قال ﷺ:"فإذا رأيتم الذين يجادلون به، فهم الذين عنى الله، فاحذروهم"، وكما:-
+
+٦٦٢٢ - حدثني يونس قال، أخبرنا سفيان، عن معمر، عن ابن طاوس، عن أبيه، عن ابن عباس -وذُكر عنده الخوارجُ وما يُلْقَوْنَ عند القرآن، [[في المخطوطة والمطبوعة: "وما يلقون عند الفرار"، وهو كلام لا معنى له، وإنما أراد أنه ذكر عند ابن عباس ما عليه الخوارج من الخشوع والعبادة والإخبات عند سماع القرآن، وذلك من أمر الخوارج مشهور، وهم الذين جاء في صفتهم: "تحقرون صلاتهم إلى صلاتكم" في الحديث المشهور. ولذلك قطعت بأن قراءة ما في المخطوطة هو ما أثبت. ويؤيد ذلك جواب ابن عباس: "يؤمنون بمحكمه، ويهلكون عند متشابهه" متعجبًا من فعلهم في خشوعهم، وضلالهم في تأويلهم المبتدع الذي استحلوا به دماء المسلمين وأموالهم.]] فقال: يؤمنون بمحكمه، ويهلكون عند متشابهه! وقرأ ابن عباس:"وما يعلم تأويله إلا الله"، الآية.
+
+* *
+
+قال أبو جعفر: وإنما قلنا القول الذي ذكرنا أنه أولى التأويلين بقوله:"ابتغاء الفتنة"، لأن الذين نزلت فيهم هذه الآية كانوا أهلَ شرك، وإنما أرادوا بطلب تأويل ما طلبوا تأويله، اللبسَ على المسلمين، والاحتجاجَ به عليهم، ليصدّوهم عما هم عليه من الحق، فلا معنى لأن يقال:"فعلوا ذلك إرادةَ الشرك"، وهم قد كانوا مشركين.
+
+* *
+
+القول في تأويل قوله: ﴿وَابْتِغَاءَ تَأْوِيلِهِ﴾
+
+قال أبو جعفر: اختلف أهل التأويل في معنى"التأويل"، الذي عَنى الله جل ثناؤه بقوله:"وابتغاء تأويله".
+
+فقال بعضهم: معنى ذلك: الأجل الذي أرادت اليهود أن تعرفه من انقضاء مُدّة أمر محمد ﷺ وأمر أمته، من قبل الحروف المقطعة من حساب الجُمَّل،"ألم"، و"ألمص"، و"ألر"، و"ألمر"، وما أشبه ذلك من الآجال.
+
+ذكر من قال ذلك:
+
+٦٦٢٣ - حدثني المثنى قال، حدثنا عبد الله بن صالح قال، حدثني معاوية، عن علي، عن ابن عباس أما قوله:"وما يعلم تأويله إلا الله"، يعني تأويله يوم القيامة ="إلا الله".
+
+* *
+
+وقال آخرون: بل معنى ذلك:"عواقبُ القرآن". وقالوا:"إنما أرادوا أن يعلموا متى يجيء ناسخ الأحكام التي كان الله جل ثناؤه شَرَعها لأهل الإسلام قبل مجيئه، فنسخَ ما قد كان شَرَعه قبل ذلك".
+
+ذكر من قال ذلك:
+
+٦٦٢٤ - حدثني موسى قال، حدثنا عمرو قال، حدثنا أسباط، عن السدي:"وابتغاء تأويله"، أرادوا أن يعلموا تأويلَ القرآن - وهو عواقبه - قال الله:"وما يعلم تأويله إلا الله"، وتأويله، عواقبه= متى يأتي الناسخ منه فينسخ المنسوخ؟
+
+* *
+
+وقال آخرون: معنى ذلك:"وابتغاء تأويل ما تَشابه من آي القرآن، يتأوّلونه - إذ كان ذا وجوه وتصاريفَ في التأويلات - على ما في قلوبهم من الزَّيغ، وما ركبوه من الضلالة".
+
+ذكر من قال ذلك:
+
+٦٦٢٥ - حدثنا ابن حميد قال، حدثنا سلمة، عن ابن إسحاق، عن محمد بن جعفر بن الزبير:"وابتغاء تأويله"، وذلك على ما ركبوا من الضلالة في قولهم = [[في المطبوعة: "في قوله"، والصواب من المخطوطة وسيرة ابن هشام ٢: ٢٢٦. وقوله بعد ذلك: "خلقنا، وقضينا"، كلام منقطع، إشارة إلى ما مضى من صدر هذا الأثر الطويل المتتابع، الذي يرويه الطبري مفرقًا عن ابن إسحاق، وذلك مذكور في الأثر رقم: ٦٥٤٣ فيما سلف ص: ١٥٣ س: ٣، ٤. إذ قال: "ويحتجون في قولهم: "إنه ثالث ثلاثة، بقول الله: فعلنا، وأمرنا، وخلقنا، وقضينا. فيقولون: لو كان واحدًا ما قال إلا: فعلت، وقضيت، وأمرت، وخلقت، ولكنه هو وعيسى ومريم".]] "خلقنا"، و"قضينا".
+
+* *
+
+قال أبو جعفر: والقول الذي قاله ابن عباس: من أنّ:"ابتغاء التأويل" الذي طلبه القوم من المتشابه، هو معرفة انقضاء المدة ووقت قيام الساعة = والذي ذكرنا عن السدي: من أنهم طلبوا وأرادوا معرفة وَقتٍ هو جَاءٍ قبل مجيئه = [["جاء" اسم فاعل من الفعل"جاء يجيء فهو جاء". وسياق الجملة: "والقول الذي قاله ابن عباس ... والذي ذكرنا عن السدي ... أولى بالصواب".]] أولى بالصواب، وإن كان السدّي قد أغفل معنى ذلك من وجهٍ صَرَفه إلى حَصره على أن معناه: أن القوم طلبوا معرفة وقت مجيء الناسخ لما قد أحكِم قبل ذلك.
+
+وإنما قلنا: إن طلب القوم معرفة الوقت الذي هو جاءٍ قبل مجيئه المحجوب علمه عنهم وعن غيرهم، بمتشابه آي القرآن - [[قوله: "بمتشابه آي القرآن ... " من صلة قولهم: "إن طلب القوم معرفة الوقت.." جار ومجرور، متعلق بقوله: "طلب".]] أولى بتأويل قوله:"وابتغاء تأويله"، لما قد دللنا عليه قبلُ من إخبار الله جل ثناؤه أن ذلك التأويل لا يعلمه إلا الله. ولا شكّ أن معنى قوله:"قضينا""فعلنا"، قد علم تأويله كثيرٌ من جهلة أهل الشرك، فضلا عن أهل الإيمان وأهل الرسوخ في العلم منهم.
+
+* *
+
+القول في تأويل قوله: ﴿وَمَا يَعْلَمُ تَأْوِيلَهُ إِلا اللَّهُ وَالرَّاسِخُونَ فِي الْعِلْمِ يَقُولُونَ آمَنَّا بِهِ كُلٌّ مِنْ عِنْدِ رَبِّنَا﴾
+
+قال أبو جعفر: يعني جل ثناؤه بذلك: وما يعلم وقتَ قيام الساعة، وانقضاء مدة أكل محمد وأمته، [[في المطبوعة: "مدة أجل محمد ... "، والصواب ما في المخطوطة، وانظر التعليق السالف ص: ١٩٦ رقم: ١.]] وما هو كائن، إلا الله، دونَ منْ سواه من البشر الذين أمَّلوا إدراك علم ذلك من قبل الحساب والتنجيم والكهانة. وأما الراسخون في العلم فيقولون:"آمنا به، كل من عند ربنا" - لا يعلمون ذلك، ولكن فَضْل عِلمهم في ذلك على غيرهم، العلمُ بأن الله هو العالم بذلك دونَ منْ سواه من خلقه.
+
+* *
+
+واختلف أهل التأويل في تأويل ذلك، وهل"الراسخون" معطوف على اسم"الله"، بمعنى إيجاب العلم لهم بتأويل المتشابه، أمْ هم مستأنَفٌ ذكرهم، [[في المطبوعة: "أوهم مستأنف ... "، وأثبت ما في المخطوطة.]] بمعنى الخبر عنهم أنهم يقولون: آمنا بالمتشابه وصدّقنا أنّ علم ذلك لا يعلمه إلا الله؟
+
+فقال بعضهم: معنى ذلك: وما يعلم تأويل ذلك إلا الله وحده منفردًا بعلمه. وأما الراسخون في العلم، فإنهم ابتُدئ الخبر عنهم بأنهم يقولون: آمنا بالمتشابه والمحكم، وأنّ جَميع ذلك من عند الله.
+
+ذكر من قال ذلك:
+
+٦٦٢٦ - حدثني محمد بن عبد الله بن عبد الحكم قال، حدثنا خالد بن نزار، عن نافع، عن ابن أبي مليكة، عن عائشة قوله:"والراسخون في العلم يقولون آمنا به"، قالت: كان من رسوخهم في العلم أن آمنوا بمحكمه ومتشابهه، ولم يعلموا تأويله. [[الأثر: ٦٦٢٦- انظر الأثر السالف رقم: ٦٦١٤، والتعليق عليه.]]
+
+٦٦٢٧ - حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا معمر، عن ابن طاوس، عن أبيه قال: كان ابن عباس يقول: ﴿وما يعلم تأويله إلا الله ويقول الراسخون [في العلم] آمنا به﴾ [[في المطبوعة"يقول الراسخون" بحذف الواو. والصواب إثباتها، لأنه سيأتي في ص: ٢٠٤ س: ١٣ أن ابن عباس هكذا كان يقرأها. وأنا أرجح أن الصواب كان في الأصل"كان ابن عباس يقرأ""وما يعلم تأويله.."، ولكن الناسخ مضى على عجلته، فكتب مكان"يقرأ""يقول"، ثم أسقط الواو من"ويقول الراسخون ... ". فلذلك أثبت الواو، وهي الصواب المحض إن شاء الله. ومن أجل ذلك زدت بين القوسين [في العلم] ، لأن هذه قراءة في الآية، لا تفسير من ابن عباس، ولم يرو إسقاط [في العلم] من قراءة أحد من القرأة.]]
+
+٦٦٢٨ - حدثني يونس قال، أخبرنا ابن وهب قال، أخبرني ابن أبي الزناد قال، قال هشام بن عروة: كان أبي يقول في هذه الآية،"وما يعلم تأويله إلا الله والراسخون في العلم"، أنّ الراسخين في العلم لا يعلمون تأويله، ولكنهم يقولون:"آمنا به كل من عند ربنا".
+
+٦٦٢٩ - حدثنا ابن حميد قال، حدثنا يحيى بن واضح قال، حدثنا عبيد الله، عن أبي نهيك الأسدي قوله:"وما يعلم تأويله إلا الله والراسخون في العلم"، فيقول: إنكم تَصلون هذه الآية، وإنها مقطوعة:"وما يعلم تأويله إلا الله = والراسخون في العلم يقولون آمنا به كل من عند ربنا"، فانتهى علمهم إلى قولهم الذي قالوا.
+
+٦٦٣٠ - حدثنا المثنى قال، حدثنا ابن دكين قال، حدثنا عمرو بن عثمان بن عبد الله بن موهب قال: سمعت عمر بن عبد العزيز يقول:"والراسخون في العلم"، انتهى علم الراسخين في العلم بتأويل القرآن إلى أن قالوا،"آمنا به كلٌّ من عند ربنا".
+
+٦٦٣١ - حدثني يونس قال، أخبرنا أشهب، عن مالك في قوله:"وما يعلم تأويله إلا اللهّ"، قال: ثم ابتدأ فقال:"والراسخون في العلم يقولون آمنا به كل من عند ربنا"، وليس يعلمون تأويله.
+
+* *
+
+وقال آخرون: بل معنى ذلك: وما يعلم تأويله إلا الله والراسخون في العلم، وهم مع علمهم بذلك ورسوخهم في العلم يقولون:"آمنا به كلّ من عند ربنا".
+
+ذكر من قال ذلك:
+
+٦٦٣٢ - حدثني محمد بن عمرو قال، حدثنا أبو عاصم، عن عيسى، عن ابن أبي نجيح، عن مجاهد، عن ابن عباس أنه قال: أنا ممن يعلم تأويله.
+
+٦٦٣٣ - حدثني محمد بن عمرو قال، حدثنا أبو عاصم، عن عيسى، عن ابن أبي نجيح، عن مجاهد:"والراسخون في العلم" يعلمون تأويله، ويقولون:"آمنا به".
+
+٦٦٣٤- حدثني المثنى قال، حدثنا أبو حذيفة قال، حدثنا شبل، عن ابن أبي نجيح، عن مجاهد:"والراسخون في العلم يعلمون تأويله، ويقولون:"آمنا به".
+
+٦٦٣٥ - حدثت عن عمار بن الحسن قال، حدثنا ابن أبي جعفر، عن أبيه، عن الربيع:"والراسخون في العلم" يعلمون تأويله ويقولون:"آمنا به".
+
+٦٦٣٦ - حدثنا ابن حميد قال، حدثنا سلمة، عن ابن إسحاق، عن محمد بن جعفر بن الزبير:"وما يعلم تأويله" الذي أراد، ما أراد، [[هكذا في المخطوطة والمطبوعة وتفسير ابن كثير ٢: ١٠٠، أما سيرة ابن هشام ٢، ٢٢٦ ففيها"أي: الذي به أرادوا ما أرادوا" وكأن الصواب ما في التفسير، وقوله: "ما أراد" استفهام. أما قوله: "الذي أراد"، أي الذي أراده الله سبحانه. وما في سيرة ابن هشام صواب أيضًا، والضمير في"أرادوا" يعني به الذين يتبعون ما تشابه منه ابتغاء الفتنة وابتغاء تأويله، فهذا ما أرادوا.]] "إلا الله والراسخون في العلم يقولون آمنا به كلّ من عند ربنا"، فكيف يختلف، وهو قولٌ واحدٌ من ربّ واحد؟ [[من أول قوله: "كل من عند ربنا" إلى قوله: "من رب واحد" زيادة من نص رواية ابن هشام في السيرة ٢: ٢٢٦، ولا شك أن الناسخ قد أسقطها من عجلته وسهوه.]] ثم ردّوا تأويل المتشابه على ما عرفوا من تأويل المحكمة التي لا تأويل لأحد فيها إلا تأويل واحد، فاتَّسق بقولهم الكتاب وصدق بعضه بعضًا، فنفذَت به الحجة، وظهر به العذر، وزاحَ به الباطل، [[زاح الشيء يزيح زيحًا وزيوحًا، وانزاح هو أيضًا (كلاهما لازم) : ذهب وتباعد وزال.]] ودُمغ به الكفر. [[الأثر ٦٦٣٦- هو بقية الآثار السالفة التي آخرها رقم: ٦٦٢٥ بإسناده عن ابن إسحاق، وهو في سيرة ابن هشام ٢: ٢٢٦.]]
+
+* *
+
+قال أبو جعفر: فمن قال القول الأول في ذلك، وقال: إن الراسخين لا يعلمون تأويل ذلك، وإنما أخبر الله عنهم بإيمانهم وتصديقهم بأنه من عند الله، فإنه يرفع"الراسخين في العلم" بالابتداء في قول البصريون، ويجعل خبره:"يقولون آمنا به". وأما في قول بعض الكوفيين، فبالعائد من ذكرهم في"يقولون". وفي قول بعضهم: بجملة الخبر عنهم، وهي:"يقولون".
+
+* *
+
+ومن قال القول الثاني، وزعم أنّ الراسخين يعلمون تأويله، عطف بـ"الراسخين" على اسم"الله"، فرفعهم بالعطف عليه.
+
+* *
+
+قال أبو جعفر: والصواب عندنا في ذلك أنهم مرفوعون بجملة خبرهم بعدهم وهو:"يقولون"، لما قد بينا قبل من أنهم لا يعلمون تأويل المتشابه الذي ذكره الله عز وجل في هذه الآية، وهو فيما بلغني مع ذلك في قراءة أبيّ: ﴿وَيَقُولُ الرَّاسِخُونَ فِي الْعِلْمِ﴾ كما ذكرناه عن ابن عباس أنه كان يقرأه. [[انظر التعليق السالف على الأثر: ٦٦٢٧، ص: ٢٠٢ س: ٧، تعليق: ٢.]] وفي قراءة عبد الله: ﴿إِنْ تَأْوِيلُهُ إِلا عِنْدَ اللَّهِ وَالرَّاسِخُونَ فِي الْعِلْمِ يَقُولُونَ﴾ .
+
+* *
+
+قال أبو جعفر: وأما معنى"التأويل" في كلام العرب، فإنه التفسير والمرجع والمصير. وقد أنشد بعضُ الرواة بيتَ الأعشى:
+
+عَلَى أَنَّهَا كَانَتْ تَأَوُّلُ حُبِّهَا ... تَأَوُّلَ رِبْعِيِّ السِّقَابِ فَأَصْحَبَا [[ديوانه: ٨٨، مجاز القرآن لأبي عبيدة ١: ٨٦ الصاحبي: ١٦٤، اللسان (صحب) (ربع) (أول) (ولى) ، ثم ما سيأتي بعد قليل من ذكر رواية أخرى، لم أجدها في غيره بعد.
+
+أما الرواية الأخرى التي جاءت في اللسان (ربع) ، (ولى) فهي: عَلَى أَنَّهَا كَانَتْ نَوًى أَجْنَبِيَّةً ... تَوَالِىَ رِبْعِيِّ السِّقَابِ فَأَصْحَبَا
+
+الربعي: الذي ولد في أول النتاج. والسقاب جمع سقب (بفتح فسكون) : وولد الناقة ساعة تضعها يقال له"سليل" قبل أن يعرف أذكر هو أم أنثى، فإذا علم أنه ذكر فهو"سقب". وأصحب: ذل وانقاد وأطاع. وهذا البيت بهذه الرواية التي ذكرتها هنا، قد فسرها الأزهري وقال: "هكذا سمعت العرب تنشده. وفسروا"توالي ربعى السقاب" أنه من الموالاة: وهو تمييز شيء من شيء. يقال: "والينا الفصلان عن أمهاتها فتوالت"، أي فصلناها عنها عند تمام الحول، وتشتد عليها الموالاة، ويكثر حنينها في إثر أمهاتها، ويتخذ لها خندق تحبس فيه وتسرح الأمهات في وجه من مراتعها. فإذا تباعدت عن أولادها سرحت الأولاد في جهة غير جهة الأمهات، فترعى وحدها، فتستمر على ذلك وتصحب بعد أيام. أخبر الأعشى أن نوى صاحبته اشتدت عليه، فحن إليها حنين ربعى السقاب إذا وولى (فصل) عن أمه. وأخبر أن هذا الفصيل يستمر على الموالاة، وأنه يصحب إصحاب السقب. قال الأزهري: وإنما فسرت هذا البيت، لأن الرواة لما أشكل عليهم معناه، تخبطوا في استخراجه وخلطوا، ولم يعرفوا منه ما يعرفه من شاهد القوم في باديتهم".
+
+أما الرواية الأولى، فقد شرحها أبو جعفر فيما يلي، وأما روايته الثانية، وهي قوله: "توابع حبها"، فإني لم أدر ما معناها، وأخشى أن يكون صوابها: "نزائع حبها". والنزائع جمع نزيعة، يقال: ناقة نازع من نوق نوازع. وناقة نزيعة: وهي التي تحن إلى وطنها. نزع البعير إلى وطنه: حن واشتاق.]]
+
+وأصلهُ من:"آل الشيء إلى كذا" - إذا صار إليه ورجع"يَؤُول أوْلا" و"أوَّلته أنا" صيرته إليه. وقد قيل إنّ قوله: ﴿وَأَحْسَنُ تَأْوِيلا﴾ [سورة النساء: ٥٩ \ سورة الإسراء: ٣٥] أي جزاءً. وذلك أن"الجزاء" هو الذي آل إليه أمر القوم وصار إليه.
+
+ويعني بقوله:"تأوّلُ حُبها": تفسير حبها ومرجعه. [[في المخطوطة: "وتفسير حبها ... " بزيادة الواو، وهو خطأ. وهذا نص أبي عبيدة في مجاز القرآن ١: ٨٧، على خطأ فيه، إذ ظن الناشر أن قوله: "تفسيره"، بمعنى الشرح والبيان لهذه الكلمة فوضع بعد نقطتان هكذا: "تفسيره: ومرجعه" وعندئذ فلا معنى للواو في"ومرجعه"، والصواب ما أثبتناه.]] وإنما يريد بذلك أنّ حبها كان صغيرًا في قلبه، فآلَ من الصّغر إلى العظم، فلم يزل ينبت حتى أصحَب، فصار قديمًا، كالسَّقب الصغير الذي لم يزل يَشبّ حتى أصحَبَ فصار كبيرًا مثل أمه. [[انظر مجاز القرآن لأبي عبيدة ١: ٨٧.]]
+
+وقد يُنشد هذا البيت:
+
+عَلَى أَنَّهَا كَانَتْ تَوَابعُ حُبِّهَا ... تَوَالِىَ رِبْعِيِّ السِّقَابِ فَأَصْحَبَا [[انظر ص ٢٠٤، تعليق: ٤]]
+
+* *
+
+القول في تأويل قوله: ﴿وَالرَّاسِخُونَ فِي الْعِلْمِ يَقُولُونَ آمَنَّا بِهِ﴾
+
+قال أبو جعفر: يعني ب"الراسخين في العلم"، العلماء الذين قد أتقنوا علمهم ووَعَوْه فحفظوه حفظًا، لا يدخلهم في معرفتهم وعلمهم بما علموه شَكّ ولا لبس.
+
+* *
+
+وأصل ذلك من:"رسوخ الشيء في الشيء"، وهو ثبوته وولوجه فيه. يقال منه:"رسخ الإيمان في قلب فلان، فهو يَرْسَخُ رَسْخًا ورُسُوخًا". [[قوله: "رسخًا"، هذا مصدر لم تذكره كتب اللغة.]]
+
+* *
+
+وقد روى في نعتهم خبرٌ عن النبي ﷺ، وهو ما:-
+
+٦٦٣٧ - حدثنا موسى بن سهل الرملي قال، حدثنا محمد بن عبد الله قال، حدثنا فياض بن محمد الرقي قال، حدثنا عبد الله بن يزيد بن آدم، عن أبي الدرداء وأبي أمامة قالا سئل رسول الله ﷺ: مَن الراسخ في العلم؟ قال:"من بَرَّت يمينهُ، وصَدقَ لسانه، واستقام به قلبه، وعفّ بطنه، فذلك الراسخُ في العلم. [[الحديث: ٦٦٣٧- فياض بن محمد الرقى: ترجمه البخاري ٤ / ١ / ١٣٥، وابن أبي حاتم ٣ / ٢ / ٨٧، فلم يذكرا فيه جرحًا.
+
+عبد الله بن يزيد بن آدم: ترجمه ابن أبي حاتم ٢ / ٢ / ١٩٧، قال: "روى عن أبي الدرداء، وأبي أمامة، وواثلة بن الأسقع: أن النبي ﷺ سئل: كيف تبعث الأنبياء؟ روى عنه فياض بن محمد الرقى ... سألت أبي عنه؟ فقال: لا أعرفه. وهذا حديث باطل".
+
+وترجمه الذهبي في الميزان، والحافظ في اللسان. وذكرا عن أحمد، قال: "أحاديثه موضوعة". وليس في ترجمته كلمة طيبة عنه. وكفى أن يرميه أحمد بالوضع.]]
+
+* *
+
+٦٦٣٨ - حدثني المثنى وأحمد بن الحسن الترمذي قال، حدثنا نعيم بن حماد قال، حدثنا فياض الرقي قال، حدثنا عبد الله بن يزيد الأودي = قال: وكان أدرك أصحاب رسول الله ﷺ = قال، حدثنا أنس بن مالك وأبو أمامة وأبو الدرداء: أن رسول الله ﷺ سُئل عن الراسخين في العلم فقال: من برَّت يمينه، وصدق لسانه، واستقام به قلبه، وعفّ بطنه وفرجه، فذلك الراسخ في العلم. [[الحديث: ٦٦٣٨- هو الحديث الماضي بزيادة قليلة، وزيادة"أنس بن مالك".
+
+ولكن في هذا الإسناد"عبد الله بن يزيد الأودي". والراجح أن هذا خطأ من أحد الرواة، أو من الناسخين، وأن صوابه كالإسناد السابق"عبد الله بن يزيد بن آدم". وأما "عبد الله بن يزيد الأودي"، فهو غير هذا يقينًا. وقد مضى في: ٥٤٦١. وترجمته عند ابن أبي حاتم ٢ / ٢ / ٢٠٠: أنه"روى عن سالم بن عبد الله، عن حفصة، في الصلاة الوسطى، روى عنه أبو بشر جعفر بن أبي وحشية". والمباينة بينهما في الطبقة واضحة. ثم الأودي ثقة، والراوي هنا كذاب.
+
+والحديث رواه أيضًا ابن أبي حاتم، عن محمد بن عوف الحمصي، عن نعيم بن حماد، عن فياض الرقى"حدثنا عبد الله بن يزيد"، بهذا الإسناد. ولم يذكر أنه"الأودي". ووقع في ابن كثير"عبيد الله"، بدل"عبد الله"، وهو خطأ.
+
+وذكره الهيثمي في مجمع الزوائد ٦: ٣٢٤"عن عبد الله بن يزيد بن آدم، قال: حدثني أبو الدرداء، وأبو أمامة، وواثلة بن الأسقع وأنس بن مالك ... ". وقال: "رواه الطبراني، وعبد الله بن يزيد: ضعيف". فزاد في رواية الطبراني صحابيًا رابعًا، هو واثلة بن الأسقع.
+
+وذكره السيوطي ٢: ٧، عن هؤلاء الصحابة الأربعة، ونسبه لابن جرير، وابن أبي حاتم، والطبراني. وهو تساهل منه، فليس في رواية الطبري ولا ابن أبي حاتم"واثلة بن الأسقع"، بل هو في رواية الطبراني فقط.
+
+ثم ذكر السيوطي نحو معناه من رواية ابن عساكر: "من طريق عبد الله بن يزيد الأودي، سمعت أنس بن مالك يقول ... ".
+
+فهذا يرجح أن زيادة"الأودي" - خطأ من أحد الرواة، لا من الناسخين.]]
+
+* *
+
+وقد قال جماعة من أهل التأويل: إنما سمى الله عز وجل هؤلاء القوم"الراسخين في العلم"، بقولهم:"آمنا به كل من عند ربنا".
+
+ذكر من قال ذلك:
+
+٦٦٣٩ - حدثنا ابن وكيع قال، حدثنا أبي، عن سفيان، عن جابر، عن مجاهد، عن ابن عباس قال:"والراسخون في العلم يقولون آمنا به، [[في المخطوطة و
+
+[TRUNCATED at 60000 chars — 21744 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Muyassar (Arabic)
 
@@ -974,9 +2108,47 @@ Therefore, if they commit an error they follow it with repentance and ask forgiv
 
 Abdur-Razzaq recorded that Anas bin Malik said, "I was told that when the Ayah,
 
-وَالَّذِينَ إِذَا فَعَلُوا فَاحِشَةً أَوْ ظَلَمُوا أَنفُسَهُمْ ذَكَر
+وَالَّذِينَ إِذَا فَعَلُوا فَاحِشَةً أَوْ ظَلَمُوا أَنفُسَهُمْ ذَكَرُوا اللَّهَ فَاسْتَغْفَرُوا لِذُنُوبِهِمْ
 
-[TRUNCATED at 12000 chars — 1840 more. Consult the source directly before relying on anything near the cut.]
+(And those who, when they have committed Fahishah or wronged themselves with evil, remember Allah and ask forgiveness for their sins,) was revealed, Iblis (Shayatan) cried." Allah's statement,
+
+وَمَن يَغْفِرُ الذُّنُوبَ إِلَّا اللَّهُ
+
+(and none can forgive sins but Allah), means that none except Allah forgives sins. Allah said,
+
+وَلَمْ يُصِرُّوا عَلَىٰ مَا فَعَلُوا وَهُمْ يَعْلَمُونَ
+
+(And do not persist in what (wrong) they have done, while they know), for they repent from their error, return to Allah before death, do not insist on error, and if they err again, they repent from it. Allah said here,
+
+وَهُمْ يَعْلَمُونَ
+
+(while they know) Mujahid and 'Abdullah bin 'Ubayd bin 'Umayr commented, "Whoever repents, then Allah will forgive him." Similarly, Allah said,
+
+أَلَمْ يَعْلَمُوا أَنَّ اللَّهَ هُوَ يَقْبَلُ التَّوْبَةَ عَنْ عِبَادِهِ
+
+(Know they not that Allah accepts repentance from His servants)[9:104], and,
+
+وَمَن يَعْمَلْ سُوءًا أَوْ يَظْلِمْ نَفْسَهُ ثُمَّ يَسْتَغْفِرِ اللَّهَ يَجِدِ اللَّهَ غَفُورًا رَّحِيمًا
+
+(And whoever does evil or wrongs himself but afterwards seeks Allah's forgiveness, he will find Allah Oft-Forgiving, Most Merciful.)[4: 110] and there are several examples similar to this Ayah.
+
+Next, Allah said after this description,
+
+أُولَٰئِكَ جَزَاؤُهُم مَّغْفِرَةٌ مِّن رَّبِّهِمْ
+
+(For such, the reward is forgiveness from their Lord)[3:136], as a reward for these qualities,
+
+مَّغْفِرَةٌ مِّن رَّبِّهِمْ وَجَنَّاتٌ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ
+
+(forgiveness from their Lord, and Gardens with rivers flowing underneath (Paradise)) carrying all kinds of drinks,
+
+خَالِدِينَ فِيهَا
+
+(wherein they shall abide forever) and ever,
+
+وَنِعْمَ أَجْرُ الْعَامِلِينَ
+
+(How excellent is this reward for the doers) Allah praises Paradise in this part of the Ayah.
 
 ### al-Tabari (Arabic)
 
@@ -1106,9 +2278,39 @@ Abdur-Razzaq recorded that Anas bin Malik said, "I was told that when the Ayah,
 
 وقد روي عن النبي ﷺ أنه قال:"ما أصرَّ من استغفر، وإن عاد في اليوم سبعين مرة".
 
-٧٨٦٣- حدثني بذلك الحسين بن يزيد السبيعي قال، حدثنا عبد الحميد الحماني، عن عثمان بن واقد، عن أبي نصيرة، عن مولى لأبي بكر، عن أبي بكر، عن رسول الله ﷺ. [[الحديث: ٧٨٦٣- الحسين بن يزيد السبيعي؛ مضى الكلام في: ٢٨٩٢ بالشك في نسبته"السبيعي". ولكن هكذا ثبتت هذه النسبة مرة أخرى 
+٧٨٦٣- حدثني بذلك الحسين بن يزيد السبيعي قال، حدثنا عبد الحميد الحماني، عن عثمان بن واقد، عن أبي نصيرة، عن مولى لأبي بكر، عن أبي بكر، عن رسول الله ﷺ. [[الحديث: ٧٨٦٣- الحسين بن يزيد السبيعي؛ مضى الكلام في: ٢٨٩٢ بالشك في نسبته"السبيعي". ولكن هكذا ثبتت هذه النسبة مرة أخرى في هذا الموضع. فلعله شيخ للطبري لم تصل إلينا معرفته. عبد الحميد الحماني - بكسر الحاء وتشديد الميم: هو عبد الحميد بن عبد الرحمن الحماني الكوفي، وهو ثقة، وثقه ابن معين، وأخرج له الشيخان. عثمان بن واقد بن محمد بن زيد بن عبد الله بن عمر: ثقة، وثقه ابن معين. وقال أحمد: "لا أرى به بأسا".
 
-[TRUNCATED at 12000 chars — 2081 more. Consult the source directly before relying on anything near the cut.]
+أبو نصيرة -بضم النون وفتح الصاد المهملة- الواسطي: اسمه مسلم بن عبيد. وهو تابعي ثقة. والحديث ذكره ابن كثير ٢: ٢٤٨، من رواية أبي يعلى، من طريق عبد الحميد الحماني، بهذا الإسناد، ووقع فيه تحريف في كنية"أبي نصيرة" واسمه ونسبته. وهو خطأ مطبعي فيما أرجح.
+
+وقال ابن كثير - بعد ذكره: "ورواه أبو داود، والترمذي، والبزار في مسنده، من حديث عثمان بن واقد، وقد وثقه يحيى بن معين - به. وشيخه أبو نصيرة الواسطى، واسمه مسلم بن عبيد، وثقه الإمام أحمد، وابن حبان. وقول علي بن المديني والترمذي: ليس إسناد هذا الحديث بذاك - فالظاهر أنه لأجل جهالة مولى أبي بكر. ولكن جهالة مثله لا تضر، لأنه تابعي كبير، ويكفيه نسبته إلى أبي بكر، فهو حديث حسن".
+
+وذكره السيوطي ٢: ٧٨، وزاد نسبته لعبد بن حميد، وابن أبي حاتم، والبيهقي في الشعب.]]
+
+* *
+
+= فلو كان مواقع الذنب مصرًّا، لم يكن لقوله"ما أصرَّ من استغفر، وإن عاد في اليوم سبعين مرة"، معنى لأن مواقعةَ الذنب إذا كانت هي الإصرار، فلا يزيل الاسمَ الذي لزمه معنى غيره، كما لا يزيل عن الزاني اسم"زان" وعن القاتل اسم"قاتل"، توبته منه، ولا معنى غيرها. وقد أبان هذا الخبر أن المستغفر من ذنبه غير مصرٍّ عليه، فمعلوم بذلك أن"الإصرار" غير المواقعة، وأنه المقام عليه، على ما قلنا قبل.
+
+* *
+
+واختلف أهل التأويل، في تأويل قوله:"وهم يعلمون".
+
+فقال بعضهم: معناه: وهم يعلمون أنهم قد أذنبوا.
+
+ذكر من قال ذلك:
+
+٧٨٦٤- حدثنا محمد بن الحسين قال، حدثنا أحمد بن المفضل قال، حدثنا أسباط، عن السدي: أما"وهم يعلمون"، فيعلمون أنهم قد أذنبوا، ثم أقاموا فلم يستغفروا.
+
+* *
+
+وقال آخرون: معنى ذلك: وهم يعلمون أن الذي أتوا معصية لله. [[في المخطوطة: "معصية الله"، والصواب ما أثبت.]]
+
+ذكر من قال ذلك:
+
+٧٨٦٥- حدثنا ابن حميد قال، حدثنا سلمة، عن ابن إسحاق:"وهم يعلمون"، قال: يعلمون ما حرمت عليهم من عبادة غيري. [[الأثر: ٧٨٦٥- سيرة ابن هشام ٣: ١١٦، وهو تتمة الآثار التي آخرها: ٧٨٥٩ وكان في المطبوعة والمخطوطة: "بما حرمت عليهم"، وأثبت ما في ابن هشام، فهو الصواب.]]
+
+* *
+
+قال أبو جعفر: وقد تقدم بياننا أولى ذلك بالصواب.
 
 ### al-Muyassar (Arabic)
 
@@ -1262,9 +2464,111 @@ In the book of Ahkam of his Sunan, Abu 'Isa At-Tirmidhi recorded that Mu'adh bin
 
 In addition, Imam Ahmad recorded that Abu Hurayrah said, "The Prophet ﷺ got up among us and mentioned Ghulul and emphasized its magnitude. He then said,
 
-لَا أُلْفِيَنَّ أَحَدَكُمْ يَجِيءُ يَوْمَ الْقِيَامَةِ عَلى رَقَبَتِهِ بَعِيرٌ لَهُ رُغَاءٌ، فَيَقُولُ: يَا رَسُولَ اللهِ أَغِثْنِي، فَأَقُولُ: لَا أَمْلِكُ لَكَ مِنَ اللهِ شَيْئًا، قَدْ أَبْلَغْتُكَ، لَا أُلْفِيَنَّ أَحَدَكُمْ
+لَا أُلْفِيَنَّ أَحَدَكُمْ يَجِيءُ يَوْمَ الْقِيَامَةِ عَلى رَقَبَتِهِ بَعِيرٌ لَهُ رُغَاءٌ، فَيَقُولُ: يَا رَسُولَ اللهِ أَغِثْنِي، فَأَقُولُ: لَا أَمْلِكُ لَكَ مِنَ اللهِ شَيْئًا، قَدْ أَبْلَغْتُكَ، لَا أُلْفِيَنَّ أَحَدَكُمْ يَجِيءُ يَوْمَ الْقِيَامَةِ عَلى رَقَبَتِهِ فَرَسٌ لَهَا حَمْحَمَةٌ، فَيَقُولُ: يَا رَسُولَ اللهِ أَغِثْنِي، فَأَقُولُ: لَا أَمْلِكُ لَكَ مِنَ اللهِ شَيْئًا، قَدْ أَبْلَغْتُكَ، لَا أُلْفِيَنَّ أَحَدَكُمْ يَجِيءُ يَوْمَ الْقِيَامَةِ عَلى رَقَبَتِهِ رِقَاعٌ تَخْفِقُ فَيَقُولُ: يَا رَسُولَ اللهِ أَغِثْنِي، فَأَقُولُ: لَا أَمْلِكُ لَكَ مِنَ اللهِ شَيْئًا، قَدْ أَبْلَغْتُكَ، لَا أُلْفِيَنَّ أَحَدَكُمْ يَجِيءُ يَوْمَ الْقِيَامَةِ عَلى رَقَبَتِهِ صَامِتٌ، فَيقُولُ: يَا رَسُولَ اللهِ أَغِثْنِي، فَأَقُولُ: لَا أَمْلِكُ لَكَ مِنَ اللهِ شَيْئًا، قَدْ أَبْلَغْتُكَ
 
-[TRUNCATED at 12000 chars — 7069 more. Consult the source directly before relying on anything near the cut.]
+(I will not like to see anyone among you on the Day of Resurrection, carrying a grunting camel over his neck. Such a man will say, 'O Allah's Messenger! Intercede on my behalf,' and I will say, 'I can't intercede for you with Allah, for I have conveyed (Allah's Message) to you.' I will not like to see any of you coming on the Day of Resurrection while carrying a neighing horse over his neck. Such a man will be saying, 'O Allah's Messenger! Intercede on my behalf,' and I will reply, 'I can't intercede for you with Allah, for I have conveyed (Allah's Message) to you.' I will not like to see any of you coming on the Day of Resurrection while carrying clothes that will be fluttering, and the man will say, 'O Allah's Messenger! Intercede (with Allah) for me, ' and I will say, 'I can't help you with Allah, for I have conveyed (Allah's Message) to you.' I will not like to see any of you coming on the Day of Resurrection while carrying gold and silver on his neck. This person will say, 'O Allah's Messenger! Intercede (with Allah) for me.' And I will say, 'I can't help you with Allah, for I have conveyed (Allah's Message) to you.')" This Hadith was recorded in the Two Sahihs .
+
+Imam Ahmad recorded that 'Umar bin Al-Khattab said, "During the day (battle) of Khaybar, several Companions of the Messenger of Allah ﷺ came to him and said, 'So-and-so died as a martyr, so-and-so died as a martyr.' When they mentioned a certain man that died as a martyr, the Messenger of Allah ﷺ said,
+
+كَلَّا إِنِّي رَأَيْتُهُ فِي النَّارِ فِي بُرْدَةٍ غَلَّهَا - أَوْ عَبَاءَةٍ
+
+(No. I have seen him in the Fire because of a robe that he stole (from the booty).)
+
+The Messenger of Allah ﷺ then said,
+
+يَا ابْنَ الْخَطَّابِ، اذْهَبْ فَنَادِ فِي النَّاسِ: إِنَّهُ لَا يَدْخُلُ الْجَنَّةَ إِلَّا الْمُؤْمِنُونَ
+
+(O Ibn Al-Khattab! Go and announce to the people that only the faithful shall enter Paradise.)
+
+So I went out and proclaimed that none except the faithful shall enter Paradise." This was recorded by Muslim and At-Tirmidhi, who said "Hasan Sahih".
+
+The Honest and Dishonest are Not Similar
+
+Allah said,
+
+أَفَمَنِ اتَّبَعَ رِضْوَانَ اللَّهِ كَمَن بَاءَ بِسَخَطٍ مِّنَ اللَّهِ وَمَأْوَاهُ جَهَنَّمُ وَبِئْسَ الْمَصِيرُ
+
+(Is then one who follows (seeks) the pleasure of Allah like the one who draws on himself the wrath of Allah? His abode is Hell, and worse indeed is that destination!)[3:162],
+
+This refers to those seeking what pleases Allah by obeying His legislation, thus earning His pleasure and tremendous rewards, while being saved from His severe torment. This type of person is not similar to one who earns Allah's anger, has no means of escaping it and who will reside in Jahannam on the Day of Resurrection, and what an evil destination it is.
+
+There are many similar statements in the Qur'an, such as,
+
+أَفَمَن يَعْلَمُ أَنَّمَا أُنزِلَ إِلَيْكَ مِن رَّبِّكَ الْحَقُّ كَمَنْ هُوَ أَعْمَىٰ
+
+(Shall he then who knows that what has been revealed unto you (O Muhammad ﷺ) from your Lord is the truth be like him who is blind?)[13:19], and,
+
+أَفَمَن وَعَدْنَاهُ وَعْدًا حَسَنًا فَهُوَ لَاقِيهِ كَمَن مَّتَّعْنَاهُ مَتَاعَ الْحَيَاةِ الدُّنْيَا
+
+(Is he whom We have promised an excellent promise (Paradise) which he will find true, like him whom We have made to enjoy the luxuries of the life of (this) world?)[28:61].
+
+Allah then said,
+
+هُمْ دَرَجَاتٌ عِندَ اللَّهِ
+
+(They are in varying grades with Allah,)[3:163] meaning, the people of righteousness and the people of evil are in grades, as Al-Hasan Al-Basri and Muhammad bin Ishaq said. Abu 'Ubaydah and Al-Kisa'i said that this Ayah refers to degrees, meaning there are various degrees and dwellings in Paradise, as well as, various degrees and dwellings in the Fire. In another Ayah, Allah said,
+
+وَلِكُلٍّ دَرَجَاتٌ مِّمَّا عَمِلُوا
+
+(For all there will be degrees (or ranks) according to what they did)[6:132]. Next, Allah said,
+
+وَاللَّهُ بَصِيرٌ بِمَا يَعْمَلُونَ
+
+(and Allah is All-Seer of what they do), and He will compensate or punish them, and will never rid them of a good deed, or increase their evil deeds. Rather, each will be treated according to his deeds.
+
+The Magnificent Blessing in the Advent of Our Prophet Muhammad (ﷺ)
+
+Allah the Most High said:
+
+لَقَدْ مَنَّ اللَّهُ عَلَى الْمُؤْمِنِينَ إِذْ بَعَثَ فِيهِمْ رَسُولًا مِّنْ أَنفُسِهِمْ
+
+(Indeed Allah conferred a great favor on the believers when He sent among them a Messenger from among themselves,)
+
+Meaning, from their own kind, so that it is possible for them to speak with him, ask him questions, associate with him, and benefit from him. Just as Allah said:
+
+وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَاجًا لِّتَسْكُنُوا إِلَيْهَا
+
+(And among His signs is that he created for them mates, that they may find rest in.)[30:21]
+
+Meaning; of their own kind. And Allah said;
+
+قُلْ إِنَّمَا أَنَا بَشَرٌ مِّثْلُكُمْ يُوحَىٰ إِلَيَّ أَنَّمَا إِلَٰهُكُمْ إِلَٰهٌ وَاحِدٌ
+
+(Say: "I am only a man like you. It has been revealed to me that your God is One God")[18:110].
+
+وَمَا أَرْسَلْنَا قَبْلَكَ مِنَ الْمُرْسَلِينَ إِلَّا إِنَّهُمْ لَيَأْكُلُونَ الطَّعَامَ وَيَمْشُونَ فِي الْأَسْوَاقِ
+
+(And We never sent before you any of the Messengers but verily, they ate food and walked in the markets)[25:20].
+
+وَمَا أَرْسَلْنَا مِن قَبْلِكَ إِلَّا رِجَالًا نُّوحِي إِلَيْهِم مِّنْ أَهْلِ الْقُرَىٰ
+
+(And We sent not before you any but men unto whom We revealed, from among the people of townships)[12:109], and,
+
+يَا مَعْشَرَ الْجِنِّ وَالْإِنسِ أَلَمْ يَأْتِكُمْ رُسُلٌ مِّنكُمْ
+
+(O you assembly of Jinn and mankind! "Did not there come to you Messengers from among you…?")[6:130].
+
+Allah's favor is perfected when His Messenger to the people is from their own kind, so that they are able to talk to him and inquire about the meanings of Allah's Word. This is why Allah said,
+
+يَتْلُو عَلَيْهِمْ آيَاتِهِ
+
+(reciting unto them His verses)[3:164], the Qur'an,
+
+وَيُزَكِّيهِمْ
+
+(and purifying them), commanding them to do righteous works and forbidding them from committing evil. This is how their hearts will be purified and cleansed of the sin and evil that used to fill them when they were disbelievers and ignorant.
+
+وَيُعَلِّمُهُمُ الْكِتَابَ وَالْحِكْمَةَ
+
+(and instructing them (in) the Book and the Hikmah,) the Qur'an and the Sunnah,
+
+وَإِن كَانُوا مِن قَبْلُ
+
+(while before that they had been), before sending this Prophet, Muhammad ﷺ,
+
+لَفِي ضَلَالٍ مُّبِينٍ
+
+(in manifest error.) indulging in plain and unequivocal error and ignorance that are clear to everyone.
 
 ### al-Tabari (Arabic)
 
@@ -1780,9 +3084,25 @@ We also mentioned Allah's statement,
 
 وكان النمر سقاه منها، فلم يشكر له، وخان الأمانة ونازعه فيها فقال: يُريدُ خِيَانَتِي وَهْبٌ، وأَرْجُو ... مِنَ اللهِ البراءَةَ وَالأمَانَا
 
-فَإِنَّ اللهَ يَعْلَمُنِي وَوَهْبًا ... وَ
+فَإِنَّ اللهَ يَعْلَمُنِي وَوَهْبًا ... وَيَعْلَمُ أَنْ سَيَلقَاهُ كِلانَا
 
-[TRUNCATED at 12000 chars — 1084 more. Consult the source directly before relying on anything near the cut.]
+وَإنَّ بَنِي رَبِيعَةَ بَعْدَ وَهْبٍ ... كَرَاعِي البَيْتِ يَحْفَظُهُ فخانَا
+
+وكان البيت في المطبوعة والمخطوطة: فإن اللهَ يعلمني ... وأَنا سوف يلقاهُ كلانا]]
+
+* *
+
+القول في تأويل قوله: ﴿وَمَا تُنْفِقُوا مِنْ شَيْءٍ فِي سَبِيلِ اللَّهِ يُوَفَّ إِلَيْكُمْ وَأَنْتُمْ لا تُظْلَمُونَ (٦٠) ﴾
+
+قال أبو جعفر: يقول تعالى ذكره: وما أنفقتم، أيها المؤمنون، من نفقة في شراء آلة حرب من سلاح أو حراب أو كُرَاع أو غير ذلك من النفقات، [[انظر تفسير " النفقة " فيما سلف من فهارس اللغة (نفق) .]] في جهاد أعداء الله من المشركين يخلفه الله عليكم في الدنيا، ويدَّخر لكم أجوركم على ذلك عنده، حتى يوفِّيكموها يوم القيامة [[انظر تفسير " وفي " فيما سلف ١٢: ٢٢٤، تعليق: ٣، والمراجع هناك.]] ﴿وأنتم لا تظلمون﴾ ، يقول: يفعل ذلك بكم ربكم، فلا يضيع أجوركم عليه.
+
+* *
+
+وبنحو ما قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+١٦٢٤٤- حدثنا ابن حميد قال، حدثنا سلمة، عن ابن إسحاق، ﴿وما تنفقوا من شيء في سبيل الله يوف إليكم وأنتم لا تظلمون﴾ ، أي لا يضيع لكم عند الله أجرُه في الآخرة، وعاجل خَلَفه في الدنيا. [[الأثر: ١٦٢٤٤ - سيرة ابن هشام ٢: ٣٢٩، ٣٣٠، وهو تابع الأثر السالف رقم: ١٦٢١٨.]]
 
 ### al-Muyassar (Arabic)
 
@@ -2052,9 +3372,81 @@ Yusuf said,
 
 وقال آخرون: كانت مدة ذلك ثمانين سنة.
 
-ذكر
+ذكر من قال ذلك:
 
-[TRUNCATED at 12000 chars — 4974 more. Consult the source directly before relying on anything near the cut.]
+١٩٩٢٢ - حدثنا عمرو بن علي، قال: حدثنا عبد الوهاب الثقفي، قال: حدثنا هشام، عن الحسن، قال: كان منذ فارق يوسف يعقوب إلى أن التقيا، ثمانون سنة، لم يفارق الحزن قلبه، ودموعه تجري على خديه، وما على وجه الأرض يومئذ عبدٌ أحبَّ إلى الله من يعقوب.
+
+١٩٩٢٣ - حدثنا ابن حميد، قال: حدثنا سلمة، عن أبي جعفر جسر بن فرقد، قال: كان بين أن فقد يعقوب يوسف إلى يوم رد عليه ثمانون سنة. [[الأثر: ١٩٩٢٣ -" جسر بن فرقد"،" أبو جعفر القصاب"، ليس بذاك، مضى برقم: ١٦٩٤٠، ١٦٩٤١، وكان في المطبوعة هنا" حسن بن فرقد"، لم يحسن قراءة المخطوطة.]]
+
+١٩٩٢٤ - حدثنا ابن وكيع، قال: حدثنا حسن بن علي، عن فضيل بن عياض، قال: سمعت أنه كان بين فراق يوسف حجر يعقوب إلى أن التقيا، ثمانون سنة.
+
+١٩٩٢٥ - حدثنا الحسن بن محمد، قال: حدثنا داود بن مهران، قال: حدثنا عبد الواحد بن زياد، عن يونس، عن الحسن، قال: ألقي يوسف في الجب وهو ابن سبع عشرة سنة، وكان بين ذلك وبين لقائه يعقوب ثمانون سنة، وعاش بعد ذلك ثلاثًا وعشرين سنة، ومات وهو ابن عشرين ومائة سنة.
+
+١٩٩٢٦ -.... قال: حدثنا سعيد بن سليمان، قال: حدثنا هشيم، عن يونس، عن الحسن، نحوه = غير أنه قال: ثلاث وثمانون سنة.
+
+١٩٩٢٧ - قال: حدثنا داود بن مهران، قال: حدثنا ابن علية، عن يونس، عن الحسن، قال: ألقي يوسف في الجب وهو ابن سبع عشرة سنة، وكان في العبوديّة وفي السجن وفي الملك ثمانين سنة، ثم جمع الله عز وجل شمله، وعاش بعد ذلك ثلاثًا وعشرين سنة.
+
+١٩٩٢٨ - حدثني الحارث، قال: حدثنا عبد العزيز، قال: حدثنا مبارك بن فضالة، عن الحسن، قال: ألقي يوسف في الجب وهو ابن سبع عشرة، فغاب عن أبيه ثمانين سنة، ثم عاش بعدما جمع الله له شمله ورأى تأويل رؤياه ثلاثًا وعشرين سنة، فمات وهو ابن عشرين ومائة سنة.
+
+١٩٩٢٩ - حدثنا مجاهد، قال: حدثنا يزيد، قال: أخبرنا هشيم، عن الحسن، قال: غاب يوسف عن أبيه في الجب وفي السجن حتى التقيا ثمانين عامًا، فما جفَّت عينا يعقوب، وما على الأرض أحد أكرمَ على الله من يعقوب. [[الأثر: ١٩٩٢٩ -" مجاهد" هذا، هو:" مجاهد بن موسى بن فروخ الخوارزمي"، شيخ الطبري، مضى برقم: ٥١٠، ٣٣٩٦.]]
+
+* *
+
+وقال آخرون: كانت مدة ذلك ثمان عشرة سنة.
+
+ذكر من قال ذلك:
+
+١٩٩٣٠ - حدثنا ابن حميد، قال: حدثنا سلمة، عن ابن إسحاق، قال: ذكر لي، والله أعلم، أن غيبة يوسف عن يعقوب كانت ثمان عشرة سنة. قال: وأهل الكتاب يزعمون أنها كانت أربعين سنة أو نحوها، وأنّ يعقوب بقي مع يوسف بعد أن قدم عليه مصر سبع عشرة سنة، ثم قبضه الله إليه.
+
+* *
+
+وقوله: ﴿وقد أحسن بي إذ أخرجني من السجن وجاء بكم من البدو﴾ ، يقول جل ثناؤه، مخبرًا عن قيل يوسف: وقد أحسن الله بي في إخراجه إياي من السجن الذي كنت فيه محبوسًا، وفي مجيئه بكم من البدو. وذلك أن مسكن يعقوب وولده، فيما ذكر، كان ببادية فلسطين، كذلك: -
+
+* *
+
+١٩٩٣١ - حدثنا ابن حميد، قال: حدثنا سلمة، عن ابن إسحاق، قال: كان منزل يعقوب وولده، فيما ذكر لي بعض أهل العلم، بالعَرَبات من أرض فلسطين، ثغور الشأم. وبعضٌ يقول بالأولاج من ناحية الشِّعْب، وكان صاحب بادية، له إبلٌّ وشاء.
+
+١٩٩٣٢ - حدثنا ابن وكيع، قال: حدنا عمرو، قال: أخبرنا شيخ لنا أن يعقوب كان ببادية فلسطين.
+
+١٩٩٣٣ - حدثنا بشر، قال: حدثنا يزيد، قال: حدثنا سعيد، عن قتادة: ﴿وقد أحسن بي إذ أخرجني من السجن وجاء بكم من البدو﴾ ، وكان يعقوب وبنوه بأرض كنعان، أهل مواشٍ وبرّية.
+
+١٩٩٣٤ - حدثنا القاسم، قال: حدثنا الحسين، قال: حدثني حجاج، عن ابن جريج: ﴿وجاء بكم من البدو﴾ ، قال: كانوا أهل بادية وماشية.
+
+* *
+
+و"الَبْدوُ" مصدر من قول القائل:"بدا فلان": إذا صار بالبادية،"يَبْدُو بَدْوًا".
+
+* *
+
+وذكر أن يعقوب دخل مصر هو ومن معه من أولاده وأهاليهم وأبنائهم يوم دخلوها، وهم أقلّ من مائة. وخرجوا منها يوم خرجوا منها وهم زيادة على ست مائة ألف.
+
+ذكر الرواية بذلك:
+
+١٩٩٣٥ - حدثنا ابن وكيع، قال: حدثنا زيد بن الحباب وعمرو بن محمد، عن موسى بن عبيدة، عن محمد بن كعب القرظي، عن عبد الله بن شداد، قال: اجتمع آل يعقوب إلى يوسف بمصر وهم ستة وثمانون إنسانًا، صغيرهم وكبيرهم، وذكرهم وأنثاهم. وخرجوا من مصر يوم أخرجهم فرعون وهم ست مائة ألف ونَيّف.
+
+١٩٩٣٦ -.... قال: حدثنا عمرو، عن إسرائيل، عن أبي إسحاق، عن أبي عبيدة، عن عبد الله، قال: خرج أهل يوسف من مصر وهم ست مائة ألف وسبعون ألفًا، فقال فرعون: ﴿إِنَّ هَؤُلاءِ لَشِرْذِمَةٌ قَلِيلُونَ﴾ [سورة الشعراء: ٥٤] .
+
+١٩٩٣٧ - حدثنا القاسم، قال: حدثنا الحسين، قال: حدثني حجاج، عن إسرائيل والمسعودي، عن أبي إسحاق، عن أبي عبيدة، عن ابن مسعود، قال: دخل بنو إسرائيل مصر وهم ثلاث وستون إنسانًا، وخرجوا منها وهم ست مائة ألف = قال إسرائيل في حديثه: ست مائة ألف وسبعون ألفًا.
+
+١٩٩٣٨ - حدثنا ابن وكيع، قال: حدثنا عمرو، عن إسرائيل، عن أبي إسحاق، عن مسروق، قال: دخل أهل يوسف مصر وهم ثلاث مائة وتسعون من بين رجل وامرأة.
+
+* *
+
+وقوله: ﴿من بعد أن نزغ الشيطان بيني وبين إخوتي﴾ ، يعني: من بعد أن أفسد ما بيني وبينهم، وجَهِل بعضنا على بعض.
+
+* *
+
+يقال منه": نزغ الشيطان بين فلان وفلان، يَنزغ نزغًا ونزوغًا. [[انظر تفسير" نزغ" فيما سلف ١٣: ٣٣٣، وهذا المصدر الثاني" النزوخ"، مما لم تذكره كتب اللغة، فيجب إثباته في مكانه منها.]]
+
+* *
+
+وقوله: ﴿إن ربي لطيف لما يشاء﴾ ، يقول: إن ربي ذو لطف وصنع لما يشاء، [[انظر تفسير" اللطيف" فيما سلف ١٢: ٢٢.]] ومن لطفه وصنعه أنه أخرجني من السجن، وجاء بأهلي من البَدْوِ بعد الذي كان بيني وبينهم من بُعد الدار، وبعد ما كنت فيه من العُبُودة والرِّق والإسار، كالذي: -
+
+١٩٩٣٩ -حدثنا بشر، قال: حدثنا يزيد، قال: حدثنا سعيد، عن قتادة، قوله: ﴿إن ربي لطيف لما يشاء﴾ ، لطف بيوسف وصنع له حتى أخرجه من السجن، وجاء بأهله من البدو، ونزع من قلبه نزغ الشيطان، وتحريشه على إخوته.
+
+* *
+
+وقوله: ﴿إنه هو العليم﴾ ، بمصالح خلقه وغير ذلك، لا يخفى عليه مبادي الأمور وعواقبها = ﴿الحكيم﴾ ، في تدبيره.
 
 ### al-Muyassar (Arabic)
 
@@ -2252,9 +3644,13 @@ Here Allah tells us about those young men who fled from their people for the sak
 
 ⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جريج، عن عبد الله بن كثير، عن مجاهد، قال: كان أصحاب الكهف أبناء عظماء مدينتهم، وأهل شرفهم، فخرجوا فاجتمعوا وراء المدينة على غير ميعاد، فقال رجل منهم هو أسنهم: إني لأجد في نفسي شيئا ما أظنُّ أن أحدا يجده، قالوا: ماذا تجد؟ قال: أجد في نفسي أن ربي ربّ السماوات والأرض، وقالوا: نحن نجد، فقاموا جميعا، فقالوا: ﴿رَبُّنَا رَبُّ السَّمَاوَاتِ وَالأرْضِ لَنْ نَدْعُوَ مِنْ دُونِهِ إِلَهًا لَقَدْ قُلْنَا إِذًا شَطَطًا﴾ فاجتمعوا أن يدخلوا الكهف، وعلى مدينتهم إذ ذاك جبار يقال له دقينوس، فلبثوا في الكهف ثلاث مئة سنين وازدادوا تسعا رقدا.
 
-⁕ حدثنا ابن حميد، قال: ثنا سلمة، عن عبد العزيز بن أبي روّاد، عن عبد الله بن عبيد بن عمير، قال: كان أصحاب الكهف فتيانا ملوكا مُطَوّقين مُسَوّرين ذوي ذوائب، وكان معهم كلب صيدهم، فخرجوا في عيد لهم عظيم في زيّ وموكب،
+⁕ حدثنا ابن حميد، قال: ثنا سلمة، عن عبد العزيز بن أبي روّاد، عن عبد الله بن عبيد بن عمير، قال: كان أصحاب الكهف فتيانا ملوكا مُطَوّقين مُسَوّرين ذوي ذوائب، وكان معهم كلب صيدهم، فخرجوا في عيد لهم عظيم في زيّ وموكب، وأخرجوا معهم آلهتم التي يعبدون، وقذف الله في قلوب الفتية الإيمان فآمنوا، وأخفى كلّ واحد منهم الإيمان عن صاحبه، فقالوا في أنفسهم من غير أن يظهر إيمان بعضهم لبعض: نخرج من بين أظهر هؤلاء القوم لا يصيبنا عقاب بجرمهم، فخرج شاب منهم حتى انتهى إلى ظلّ شجرة، فجلس فيه، ثم خرج آخر فرآه جالسا وحده، فرجا أن يكون على مثل أمره من غير أن يظهر منه، فجاء حتى جلس إليه، ثم خرج الآخرون، فجاؤوا حتى جلسوا إليهما، فاجتمعوا، فقال بعضهم: ما جمعكم؟ وقال آخر: بل ما جمعكم؟ وكل يكتم إيمانه من صاحبه مخافة على نفسه، ثم قالوا: ليخرج منكم فَتَيان، فيخْلُوَا، فيتواثقا أن لا يفشيَ واحد منهما على صاحبه، ثم يفشي كل واحد منهما لصاحبه أمره، فإنا نرجو أن نكون على أمر واحد، فخرج فتيان منهم فتواثقا، ثم تكلما، فذكر كل واحد منهما أمره لصاحبه، فأقبلا مستبشرَين إلى أصحابهما قد اتفقا على أمر واحد، فإذا هم جميعا على الإيمان، وإذا كهف في الجبل قريب منهم، فقال بعضهم لبعض: ائتوا إلى الكهف (يَنْشُرْ لَكُمْ رَبُّكُمْ مِنْ رَحْمَتِهِ وَيُهَيِّئْ لَكُمْ مِنْ أَمْرِكُمْ مِرفَقًا) فدخلوا الكهف، ومعهم كلب صيدهم فناموا، فجعله الله عليهم رقدة واحدة، فناموا ثلاث مئة سنين وازدادوا تسعا، قال: وفقدهم قومُهم فطلبوهم وبعثوا البرد، فعمى الله عليهم آثارهم وكهفهم، فلما لم يقدروا عليهم كتبوا أسماءهم وأنسابهم في لوح: فلان ابن فلان، وفلان ابن فلان أبناء ملوكنا، فَقَدناهم في عيد كذا وكذا في شهر كذا وكذا في سنة كذا وكذا، في مملكة فلان ابن فلان، ورفعوا اللوح في الخزانة، فمات ذلك الملك وغلب عليهم ملك مسلم مع المسلمين، وجاء قرن بعد قرن، فلبثوا في كهفهم ثلاث مئة سنين وازدادوا تسعا.
 
-[TRUNCATED at 12000 chars — 2983 more. Consult the source directly before relying on anything near the cut.]
+وقال آخرون: بل كان مصيرهم إلى الكهف هربا من طلب سلطان كان طلبهم بسبب دَعوى جناية ادّعى على صاحب لهم أنه جناها.
+
+ذكر من قال ذلك:
+
+حدثنا الحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، قال: أخبرني إسماعيل بن شروس، أنه سمع وهب بن منبه يقول: جاء حواريّ عيسى ابن مريم إلى مدينة أصحاب الكهف، فأراد أن يدخلها، فقيل له: إن على بابها صنما لا يدخلها أحد إلا سجد له، فكره أن يدخلها، فأتى حَمَّاما، فكان فيه قريبا من تلك المدينة، فكان يعمل فيه يؤاجر نفسه من صاحب الحمام، ورأى صاحب الحمام في حمامه البركة ودرّ عليه الرزق، فجعل يعرض عليه الإسلام، وجعل يسترسل إليه، وعلقه فتية من أهل المدينة، وجعل يخبرهم خبر السماء والأرض وخبر الآخرة، حتى آمنوا به وصدّقوه، وكانوا على مثل حاله في حُسْن الهيئة، وكان يشترط على صاحب الحمام أن الليل لي لا تحول بيني وبين الصلاة إذا حضرت، فكان على ذلك حتى جاء ابن الملك بامرأة، فدخل بها الحمام، فعيره الحواريّ، فقال: أنت ابن الملك، وتدخل معك هذه النكداء، فاستحيا، فذهب فرجع مرّة أخرى، فقال له مثل ذلك، فسبه وانتهره ولم يلتفت حتى دخل ودخلت معه المرأة، فماتا في الحمام جميعا، فأتي الملك، فقيل له: قتل صاحب الحمام ابنك، فالتُمس، فلم يقدر عليه هَربا، قال: من كان يصحبه؟ فسموا الفتية، فالتمسوا، فخرجوا من المدينة، فمروا بصاحب لهم في زرع له، وهو على مثل أمرهم، فذكروا أنهم التُمسوا، فانطلق معهم الكلب، حتى أواهم الليل إلى الكهف، فدخلوه، فقالوا: نبيت ههنا الليلة، ثم نصبح إن شاء الله فترون رأيكم، فضرب على آذانهم، فخرج الملك في أصحابه يتبعونهم حتى وجدوهم قد دخلوا الكهف، فكلما أراد رجل أن يدخل أرعب، فلم يطق أحد أن يدخله، فقال قائل: أليس لو كنت قدرت عليهم قتلتهم؟ قال: بلى، قال: فابن عليهم باب الكهف، ودعهم فيه يموتوا عطشا وجوعا، ففعل.
 
 ### al-Muyassar (Arabic)
 
@@ -2950,9 +4346,57 @@ The Messenger of Allah ﷺ said,
 
 أَقَتَلْتَ نَفْسًا زَكِيَّةً بِغَيْرِ نَفْسٍ لَّقَدْ جِئْتَ شَيْئًا نُّكْرًا - قَالَ أَلَمْ أَقُل لَّكَ إِنَّكَ لَن تَسْتَطِيعَ مَعِيَ صَبْرًا
 
-(In the first instance, Musa asked Al-Khidr because he had forgotten his promise. Then a bird came and sat on the edge of the boat, dipping its beak once or twice in the sea. Al-Khidr said to Musa, "My knowledge and your knowledge, in comparison to Allah's knowledge, is like what this bird has taken out of the sea." Then they both disembarked from the boat, and while they were walking on the shore, Al-Khidr saw a boy playing with 
+(In the first instance, Musa asked Al-Khidr because he had forgotten his promise. Then a bird came and sat on the edge of the boat, dipping its beak once or twice in the sea. Al-Khidr said to Musa, "My knowledge and your knowledge, in comparison to Allah's knowledge, is like what this bird has taken out of the sea." Then they both disembarked from the boat, and while they were walking on the shore, Al-Khidr saw a boy playing with other boys. Al-Khidr took hold of the boy's head and pulled it off with his hands, killing him. Musa said to him,
 
-[TRUNCATED at 12000 chars — 3579 more. Consult the source directly before relying on anything near the cut.]
+("Have you killed an innocent person who had killed none! Verily, you have committed a thing Nukr!" He said, "Did I not tell you that you would not be able to have patience with me?")
+
+قَالَ: وَهَذِهِ أَشَدُّ مِنَ الْأُولَى
+
+قَالَ إِن سَأَلْتُكَ عَن شَيْءٍ بَعْدَهَا فَلَا تُصَاحِبْنِي ۖ قَدْ بَلَغْتَ مِن لَّدُنِّي عُذْرًا - فَانطَلَقَا حَتَّىٰ إِذَا أَتَيَا أَهْلَ قَرْيَةٍ اسْتَطْعَمَا أَهْلَهَا فَأَبَوْا أَن يُضَيِّفُوهُمَا فَوَجَدَا فِيهَا جِدَارًا يُرِيدُ أَن يَنقَضَّ
+
+أَيْ مَائِلًا، فَقَالَ الْخَضِرُ بِيَدِهِ
+
+فَأَقَامَهُ
+
+فَقَالَ مُوسَى: قَوْمٌ أَتَيْنَاهُمْ فَلَمْ يُطْعِمُونَا وَلَمْ يُضَيِّفُونَا
+
+لَوْ شِئْتَ لَاتَّخَذْتَ عَلَيْهِ أَجْرًا - قَالَ هَٰذَا فِرَاقُ بَيْنِي وَبَيْنِكَ ۚ سَأُنَبِّئُكَ بِتَأْوِيلِ مَا لَمْ تَسْتَطِع عَّلَيْهِ صَبْرًا
+
+[The narrator] said, "The second blame was stronger than the first one".
+
+(Musa said, "If I ask you anything after this, keep me not in your company; you have received an excuse from me." Then they both proceeded until they came to the people of a town. They asked them for food but they refused to entertain them. (Then) they found there a wall on the point of falling down.)
+
+(Al-Khidr) set it up straight with his own hands. Musa said, "We came to these people, but they neither fed us nor received us as guests.
+
+(If you had wished, surely, you could have taken wages for it!" (Al-Khidr) said: "This is the parting between you and I. I will tell you the interpretation of (those) things over which you were unable to be patient.")
+
+The Messenger of Allah ﷺ said:
+
+وَدِدْنَا أَنَّ مُوسَى كَانَ صَبَرَ حَتَّى يَقُصَّ اللهُ عَلَيْنَا مِنْ خَبَرِهِمَا
+
+(We wish that Musa was patient so that Allah would have told us more about both of them.) Sa'id bin Jubayr said: "Ibn 'Abbas used to recite [Ayah no. 79]
+
+(وَكَانَ أَمَامَهُمْ مَلِكٌ يَاْخُذُ كُلَّ سَفِينَةٍ صَالَـحَةٍ غَضْبًا)
+
+(There was a king before them who seized every good-conditioned ship by force) and [Ayah no 80]
+
+(وَأَمَّا الْغُلَامُ فَكَانَ كَافِرًا وَكَانَ أَبَوَاهُ مُؤْمِنَيْنِ)
+
+(As for the boy, he was a disbeliever and his parents were believers.)
+
+Then (in another narration) Al-Bukhari recorded a similar account which says:
+
+فَخَرَجَ مُوسَى وَمَعَهُ فَتَاهُ يُوشَعُ بْنُ نُونٍ وَمَعَهُمَا الْحُوتُ، حَتَّى انْتَهَيَا إِلَى الصَّخْرَةِ، فَنَزَلَا عِنْدَهَا، قَالَ: فَوَضَعَ مُوسَى رَأْسَهُ فَنَامَ، قَالَ: وَفِي أَصْلِ الصَّخْرَةِ عَيْنٌ يُقَالُ لَهَا الْحَيَاةُ لَا يُصِيبُ مِنْ مَائِهَا شَيْءٌ إِلَّا حَيِيَ فَأَصَابَ الْحُوتَ مِنْ مَاءِ تِلْكَ الْعَيْنِ، فَتَحَرَّكَ وَانْسَلَّ مِنَ الْمِكْتَلِ فَدَخَلَ الْبَحْرَ، فَلَمَّا اسْتَيْقَظَ قَالَ مُوسَى لِفَتَاهُ:
+
+آتِنَا غَدَاءَنَا
+
+(...then Musa set out and with him was his boy-servant Yusha' bin Nun, and they had the fish with them. When they reached the rock, they camped there, and Musa lay down his head and slept. At the base of the rock there was a spring called Al-Hayat; its water never touched a thing but it brought it to life. Some of its water touched the fish, so it began to move and jumped out of the vessel and into the sea. When he woke up, Musa said to his boy-servant:
+
+(Bring us our morning meal.))
+
+Then he quoted the rest of the Hadith.
+
+Then a bird came and perched on the edge of the ship, and dipped its beak in the sea, and Al-Khidr said to Musa, "My knowledge and your knowledge and the knowledge of all of creation, in comparison to the knowledge of Allah, is like what this bird has taken from the sea." Then he mentioned the rest of the report.
 
 ### al-Tabari (Arabic)
 
@@ -3420,9 +4864,43 @@ Ibn Jarir narrated that Ibn 'Abbas said, "The one who was ransomed was Isma'il, 
 
 It was reported that Ibn 'Umar said, "The sacrifice was Isma'il." Ibn Abi Najih said, narrating from Mujahid, "It was Isma'il, peace be upon him." This was also the view of Yusuf bin Mihran. Ash-Sha'bi said, "It was Isma'il, peace be upon him, and I saw the horns of the ram in the Ka'bah."
 
-Muhammad bin Ishaq reported from Al-Hasan bin Dinar and 'Amr bin 'Ubayd from Al-Hasan Al-Basri that he did not doubt that the one of the two sons Ibrahim was commanded to sacrifice was Isma'il, peace be upon him. Ibn Ishaq said, "I heard Muhammad bin Ka'b Al-Qurazi say, 'The one whom Allah commanded Ibrahim to sacrific
+Muhammad bin Ishaq reported from Al-Hasan bin Dinar and 'Amr bin 'Ubayd from Al-Hasan Al-Basri that he did not doubt that the one of the two sons Ibrahim was commanded to sacrifice was Isma'il, peace be upon him. Ibn Ishaq said, "I heard Muhammad bin Ka'b Al-Qurazi say, 'The one whom Allah commanded Ibrahim to sacrifice of his two sons was Isma'il.' We find this in the Book of Allah, because when Allah finishes the story of the one of the two sons of Ibrahim who was to be sacrificed, He then says:
 
-[TRUNCATED at 12000 chars — 3893 more. Consult the source directly before relying on anything near the cut.]
+وَبَشَّرْنَاهُ بِإِسْحَاقَ نَبِيًّا مِنَ الصَّالِحِينَ
+
+(And We gave him the glad tidings of Ishaq – a Prophet from the righteous), and
+
+فَبَشَّرْنَاهَا بِإِسْحَاقَ وَمِنْ وَرَاءِ إِسْحَاقَ يَعْقُوبَ
+
+(So, We gave her glad tidings of Ishaq and after Ishaq, of Ya'qub)(11:71).
+
+He mentions the son and the son of the son, but He would not have commanded him to sacrifice Ishaq when He had promised that this son would in turn have a son. The one whom He commanded him to sacrifice can only have been Isma'il." Ibn Ishaq said, "I heard him say that often."
+
+Ibn Ishaq reported from Buraydah bin Sufyan bin Farwah Al-Aslami that Muhammad bin Ka'b Al-Qurazi told them that he mentioned that to 'Umar bin 'Abd Al-'Aziz, may Allah be pleased with him, when he was Khalifah, while he was with him in Syria. 'Umar said to him, "This is something about which I have never given any thought, but I see that it is as you say." Then he sent for a man who was with him in Syria, a Jew who had become a Muslim and was committed to Islam, and he thought that he had been one of their scholars. 'Umar bin 'Abd Al-'Aziz, may Allah be pleased with him, asked him about that.
+
+Muhammad bin Ka'b said, "I was with 'Umar bin 'Abd Al-'Aziz. 'Umar said to him, 'Which of the two sons of Ibrahim was he commanded to sacrifice?' He said, 'Isma'il. By Allah, O Commander of the faithful, the Jews know this, but they were jealous of you Arabs because it was your father about whom Allah issued this command and the virtue that Allah mentioned was because of his patience in obeying the command. So they denied that and claimed that it was Ishaq, because he is their father.'"
+
+Abdullah bin Al-Imam Ahmad bin Hanbal, may Allah have mercy on him, said, "I asked my father about which son was to be sacrificed – was it Isma'il or Ishaq?" He said, "Isma'il." This was mentioned in Kitab Az-Zuhd.
+
+Ibn Abi Hatim said, "I heard my father say, 'The correct view is that the one who was to be sacrificed was Isma'il, peace be upon him.'" He said, "And it was narrated that 'Ali, Ibn 'Umar, Abu Hurayrah, Abu At-Tufayl, Sa'id bin Al-Musayyib, Sa'id bin Jubayr, Al-Hasan, Mujahid, Ash-Sha'bi, Muhammad bin Ka'b Al-Qurazi, Abu Ja'far Muhammad bin 'Ali and Abu Salih, may Allah be pleased with them all, said that the one who was to be sacrificed was Isma'il."
+
+Al-Baghawi said in his Tafsir, "This was the view of 'Abdullah bin 'Umar, Sa'id bin Al-Musayyib, As-Suddi, Al-Hasan Al-Basri, Mujahid, Ar-Rabi' bin Anas, Muhammad bin Ka'b Al-Qurazi and Al-Kalbi." This was also reported from Ibn 'Abbas and from Abu 'Amr bin Al-'Ala'.
+
+وَبَشَّرْنَاهُ بِإِسْحَاقَ نَبِيًّا مِنَ الصَّالِحِينَ
+
+(And We gave him the glad tidings of Ishaq – a Prophet from the righteous.) having given the glad tidings of the one who was to be sacrificed, who was Isma'il, Allah immediately follows that with mention of the glad tidings of his brother Ishaq. This is also mentioned in Surah Hud (11:71) and in Surat Al-Hijr (15:53-55).
+
+نَبِيًّا
+
+(a Prophet) means, from him there will come a righteous Prophet.
+
+وَبَارَكْنَا عَلَيْهِ وَعَلَىٰ إِسْحَاقَ ۚ وَمِنْ ذُرِّيَّتِهِمَا مُحْسِنٌ وَظَالِمٌ لِنَفْسِهِ مُبِينٌ
+
+(We blessed him and Ishaq. And of their progeny are (some) that do right, and some that plainly wrong themselves.) This is like the Ayah:
+
+قِيلَ يَا نُوحُ اهْبِطْ بِسَلَامٍ مِنَّا وَبَرَكَاتٍ عَلَيْكَ وَعَلَىٰ أُمَمٍ مِمَّنْ مَعَكَ ۚ وَأُمَمٌ سَنُمَتِّعُهُمْ ثُمَّ يَمَسُّهُمْ مِنَّا عَذَابٌ أَلِيمٌ
+
+(It was said: "O Nuh! Come down (from the ship) with peace from Us and blessings on you and on the people who are with you, but people to whom We shall grant their pleasures (for a time), but in the end a painful torment will reach them from Us.")(11:48)
 
 ### al-Tabari (Arabic)
 

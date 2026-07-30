@@ -112,9 +112,25 @@ The nine wicked persons killed the camel on a Wednesday, and that night, they co
 
 (They said: "Swear one to another by Allah that we shall make a secret night attack on him and his household, and thereafter we will surely say to his near relatives: 'We witnessed not the destruction of his household, and verily, we are telling the truth.'" So they plotted a plot, and We planned a plan, while they perceived not.)[27:49-50]
 
-When they conspired to kill Salih and gathered at night to carry out their plot, Allah, to Whom belongs all might and Who protects His Messengers, rained down stones that smashed the heads of these nine people before the rest of the tribe. On Thursday, the first of the three days of respite, the people woke up and their faces were pale (yellow), just as Prophet Salih had promised them. On the second day of respite,
+When they conspired to kill Salih and gathered at night to carry out their plot, Allah, to Whom belongs all might and Who protects His Messengers, rained down stones that smashed the heads of these nine people before the rest of the tribe. On Thursday, the first of the three days of respite, the people woke up and their faces were pale (yellow), just as Prophet Salih had promised them. On the second day of respite, Friday, they woke up and found their faces had turned red. On the third day of the respite, Saturday, they woke up with their faces black. On Sunday, they wore the fragrance of Hanut [the perfume for enshrouding the dead before burial] and awaited Allah's torment and revenge, we seek refuge with Allah from it. They did not know what will be done to them or how and from where the torment would come. When the sun rose, the Sayhah (loud cry) came from the sky and a severe tremor overtook them from below; the souls were captured and the bodies became lifeless, all in an hour.
 
-[TRUNCATED at 12000 chars — 2196 more. Consult the source directly before relying on anything near the cut.]
+فَأَصْبَحُوا فِي دَارِهِمْ جَاثِمِينَ
+
+(And they lay (dead), prostrate in their homes.)
+
+They became dead and lifeless and none among them, whether young, old, male or female, escaped the torment.
+
+The scholars of Tafsir said that none from the offspring of Thamud remained, except Prophet Salih and those who believed in him. A disbelieving man called Abu Righal was in the Sacred Area at the time and the torment that befell his people did not touch him. When he went out of the Sacred Area one day, a stone fell from the sky and killed him. 'Abdur-Razzaq narrated that Ma'mar said that Isma'il bin Umayyah said that the Prophet ﷺ passed by the gravesite of Abu Righal and asked the Companions if they knew whose grave it was. They said, "Allah and His Messenger know better." He said,
+
+أَتَدْرُونَ مَنْ هَذَا؟
+
+قالوا الله ورسوله أعلم، قال
+
+هَذَا قَبْرُ أَبِي رِغَالٍ رَجُلٍ مِنْ ثَمُودَ كَانَ فِي حَرَمِ اللهِ فَمَنَعَهُ حَرَمُ اللهِ عَذَابَ اللهِ، فَلَمَّا خَرَجَ أَصَابَهُ مَا أَصَابَ قَومهُ فَدُفِنَ هَاهُنَا وَدُفِنَ مَعَهُ غُصْنٌ مِنْ ذَهَبٍ، فَنَزَلَ الْقَوْمُ فَابْتَدَرُوهُ بِأَسْيَافِهِمْ فَبَحَثُوا عَنْهُ فَاسْتَخْرَجُوا الْغُصْنَ
+
+(This is the grave of Abu Righal, a man from Thamud. He was in the Sacred Area of Allah and this fact saved him from receiving Allah's torment. When he went out of the Sacred Area, what befell his people also befell him. He was buried here along with a branch made from gold.)
+
+So the people used their swords and looked for the golden branch and found it. 'Abdur-Razzaq narrated that Ma'mar said that Az-Zuhri said that Abu Righal is the father of the tribe of Thaqif.
 
 ### al-Tabari (Arabic)
 
@@ -162,9 +178,69 @@ When they conspired to kill Salih and gathered at night to carry out their plot,
 
 فمكثت الناقة التي أخرجها الله لهم معها سَقْبها في أرض ثمودَ ترعى الشجر وتشرب الماء، فقال لهم صالح عليه السلام: ﴿هذه ناقة الله لكم آية فذروها تأكل في أرض الله ولا تمسوها بسوء فيأخذكم عذاب أليم﴾ ، وقال الله لصالح: إن الماء قسمةٌ بينهم، كُلّ شِرْبٍ مُحْتَضَر= أي: إن الماء نصفان، لهم يوم، ولها يوم وهي محتضرة، فيومها لا تدع شربها. [[هذا تفسير آية"سورة القمر": ٢٨.]] وقال: ﴿لَهَا شِرْبٌ وَلَكُمْ شِرْبُ يَوْمٍ مَعْلُومٍ﴾ ، [سورة الشعراء:١٥٥] . فكانت، فيما بلغني والله أعلم، إذا وردت، وكانت تَرِد غِبًّا، [["غبا" (بكسر الغين) ، أي: ترد يومًا، وتدع يومًا، ثم ترد.]] وضعت رأسها في بئر في الحجر يقال لها"بئر الناقة"، فيزعمون أنها منها كانت تشرب إذا وردت، تضع رأسَها فيها، فما ترْفَعه حتى تشرب كل قطرة ماء في الوادي، ثم ترفع رأسها فتفشَّج [[في المطبوعة: "تفسح"، والصواب ما أثبت، "تفشجت الناقة" (بالجيم) ، تفاجت، وذلك أن تباعد بين رجليها، ومثله"تفشحت" بالحاء المهملة.]] = يعني تفحَّج لهم [["تفحجت"، باعدت بين رجليها.]] = فيحتلبون ما شاؤوا من لبن، فيشربون ويدَّخرون، حتى يملؤوا كل آنيتهم، ثم تصدر من غير الفجّ الذي منه وردت، لا تقدِرُ على أن تصدر من حيث ترِدُ لضيقِه عنها، فلا ترجع منه. حتى إذا كان الغدُ، كان يومهم، فيشربون ما شاؤوا من الماء، ويدّخرون ما شاؤوا ليوم الناقة، فهم من ذلك في سعة. وكانت الناقة، فيما يذكرون، تَصِيف إذا كان الحرّ ظَهْرَ الوادي، [[في المطبوعة: "بظهر الوادي"، وأثبت ما في المخطوطة. و"الظهر" ما غلظ وارتفع من الوادي. و"البطن"، ما لان وسهل ورق واطمأن.]] فتهرب منها المواشي، أغنامُهم وأبْقارهم وإبلُهم، فتهبط إلى بطن الوادي في حرِّه وجَدْبه= وذلك أن المواشي تنفِرُ منها إذا رأتها= وتشتو في بطن الوادي إذا كان الشتاء، فتهرب مَواشيهم إلى ظهر الوادي في البرد والجدْب، فأضرّ ذلك بمواشيهم للبلاءِ والاختبار. وكانت مرابعُها، [[في المطبوعة: "مراتعها"، والصواب ما في المخطوطة.]] فيما يزعمون، الحبابُ وحِسْمَى، كل ذلك ترعى مع وادي الحِجر، فكبر ذلك عليهم، فعتوا عن أمر ربهم، وأجمعوا في عقر الناقة رأيَهم.
 
-= وكانت امرأة من ثمودَ يقال لها:"عنيزة بنت غنم بن مجلز"، تكني بأم غنم، وهي من بني عبيد بن ال
+= وكانت امرأة من ثمودَ يقال لها:"عنيزة بنت غنم بن مجلز"، تكني بأم غنم، وهي من بني عبيد بن المهل، أخي رُميل بن المهل، [[في المطبوعة: "دميل"، وفي المخطوطة ما أثبته ظاهر"الراء". وقد مضى آنفًا في أنساب هذا الخبر"الدميل"، فلا أدري أهما واحد، أم هما اسمان مختلفان.]] وكانت امرأةَ ذؤاب بن عمرو، وكانت عجوزًا مسنة، وكانت ذات بناتٍ حسان، وكانت ذات مال من إبلٍ وبقر وغنم= وامرأة أخرى يقال لها:"صدوف بنت المحيا بن دهر بن المحيا"، [[في المطبوعة: "بنت المحيا بن زهير"، وأثبت ما في المخطوطة، وفي قصص الأنبياء: "مهر".]] سيد بني عبيد وصاحب أوثانهم في الزمن الأول، وكان الوادي يقال له:"وادي المحيا"، وهو المحيَّا الأكبر، جد المحيَّا الأصغر أبي صدوف= وكانت"صدوف" من أحسن الناس، وكانت غنيَّة، ذات مالٍ من إبل وغنم وبقر= وكانتَا من أشدِّ امرأتين في ثمود عداوةً لصالح، وأعظمِه به كفرًا، [[في المطبوعة: "وأعظمهم به كفرًا"، كأنه استنكر ما في المخطوطة، وهو صريح العربية: أن يعاد الضمير بعد أفعل التفضيل بالإفراد والتذكير، مثل ما جاء في حديث نساء قريش: "خير نساء ركبن الإبل صوالح قريش، أحناه على ولد في صغره، وأرعاه على زوج في ذات يده"، وكما قال ذو الرمة: وَمَيَّةُ أَحْسَنُ الثَّقَلَيْنِ جيدًا ... وَسَالِفَةً، وَأَحْسَنُهُ قَذَالا
 
-[TRUNCATED at 12000 chars — 14171 more. Consult the source directly before relying on anything near the cut.]
+وقد مضى ذكر ذلك في الأجزاء السالفة ٥: ٤٤٨، تعليق: ٢ وص: ٥٥٧، تعليق: ١/ ٦: ٣٩٥، تعليق: ١/ ٧: ٨٧، تعليق: ٤.]] وكانتا تَحْتالان أن تُعْقَر الناقة مع كفرهما به، [[في المطبوعة: "وكانتا تحبان أن تعقر ... "، وأثبت ما في المخطوطة، وهو المطابق كما في قصص القرآن للثعلبي.]] لما أضرَّت به من مواشيهما. وكانت صدوف عند ابن خالٍ لها يقال له:"صنتم بن هراوة بن سعد بن الغطريف"، من بني هليل، فأسلم فحسن إسلامه، وكانت صدوفُ قد فَوَّضت إليه مالها، فأنفقه على من أسلم معه من أصحاب صالح حتى رَقَّ المال. فاطّلعت على ذلك من إسلامه صدوفُ، فعاتبته على ذلك، فأظهر لها دينه، ودعاها إلى الله وإلى الإسلام، فأبت عليه، وبيَّتتْ له، [[في المطبوعة: "وسبت ولده"، وهو عبث محض، وفي المخطوطة: "وسب له" غير منقوطة، وكأن صواب قراءتها ما أثبت."بيتت له،: فكرت في الأمر وخمرته ودبرته ليلا.]] فأخذت بنيه وبناته منه فغيَّبتهم في بني عبيد بطنِها الذي هي منه. وكان صنتم زوجُها من بني هليل، وكان ابنَ خالها، فقال لها: ردِّي عليَّ ولدي! فقالت: حتى أنافِرك إلى بني صنعان بن عبيد، أو إلى بني جندع بن عبيد! فقال لها صنتم: بل أنافرك إلى بني مرداس بن عبيد! [[في المطبوعة: "بل أن أقول إلى بني مرداس"، لم يحسن قراءة المخطوطة، لسوء كتابتها، فأتى بكلام غث.]] وذلك أن بني مرداس بن عبيد كانوا قد سارعوا في الإسلام، وأبطأ عنه الآخرون. فقالت: لا أنافرك إلا إلى من دعوتك إليه! فقال بنو مرداس: والله لتعطِنَّه ولده طائعةً أو كارهة! فلما رأت ذلك أعطته إياهم.
+
+=ثم إن صدوف وعُنيزة مَحَلَتا في عقر الناقة، [[في المطبوعة: "تحيلا في عقر الناقة"، وهو كلام هالك، والصواب ما في المخطوطة ولكن الناشر لم يعرف معناه."محل به": كاده، واحتال في المكر به حتى يوقعه في الهلكة.]] للشقاء الذي نزل. فدعت صدوف رجلا من ثمود يقال له"الحباب" لعقر الناقة. وعرضت عليه نفسها بذلك إن هو فعل، فأبَى عليها. فدعت ابن عم لها يقال له:"مصدع بن مهرج بن المحيَّا"، وجعلت له نفسها، على أن يعقر الناقة، وكانت من أحسن الناسِ، وكانت غنية كثيرة المال، فأجابها إلى ذلك. =ودعت عنيزة بنت غنم،"قدارَ بن سالف بن جندع"، رجلا من أهل قُرْح. وكان قُدار رجلا أحمرَ أزرقَ قصيرًا،يزعمون أنه كان لزَنْيَةٍ، من رجل يقال له:" صهياد"، ولم يكن لأبيه"سالف" الذي يدعى إليه، ولكنه قد ولد على فراش"سالف"، وكان يدعى له وينسب إليه. فقالت: أعطيك أيَّ بناتي شئتَ على أن تعقر الناقة! وكانت عنيزة شريفة من نساء ثمود، وكان زوجها ذؤاب بن عمرو، من أشراف رجال ثمود. وكان قدار عزيزًا منيعًا في قومه. فانطلق قدار بن سالف، ومصدع بن مهرج، فاستنفرَا غُواةً من ثمود، فاتّبعهما سبعة نفر، فكانوا تسعة نفر، أحدُ النفر الذين اتبعوهما رجل يقال له:" هويل بن ميلغ" خال قدار بن سالف، أخو أمّه لأبيها وأمها، وكان عزيزًا من أهل حجر= و"دعير بن غنم بن داعر"، وهو من بني خلاوة بن المهل= و"دأب بن مهرج"، أخو مصدع بن مهرج، وخمسة لم تحفظ لنا أسماؤهم..... [[مكان النقط بياض في المخطوطة إلى آخر السطر، وفي الهامش حرف (ط) ، دلالة على الشك والخطأ.]] فرصدوا الناقة حين صدرت عن الماء، وقد كمن لها قُدار في أصل صخرة على طريقها، وكمن لها مصدع في أصل أخرى. فمرت على مصدع فرماها بسهم، فانتظمَ به عضَلَة ساقها. وخرجت أم غنم عنيزة، وأمرت ابنتها، وكانت من أحسن الناس وجهًا، فأسفرت لقدار وأرته إياه، [[في المطبوعة: "فأسفرت عنه" بالزيادة وليست في المخطوطة، ولا ضرورة لها.]] ثم ذمَّرته، [["ذمرته": شجعته وحثته وحرضته.]] فشدّ على الناقة بالسيف، فخشَفَ عُرْقوبها، [[في المطبوعة: "فكشف عرقوبها"، وأثبت ما في المخطوطة: "خشف رأسه بالحجر"، شدخه. وكل ما شدخ، فقد خشف. وقيل: "سيف خاشف، وخشيف، وخشوف"، ماض. و"فحسف"، هكذا غير منقوطة في المخطوطة.]] فخرَّت ورغت رَغَاةً واحدة تحذّرُ سَقْبها، [[هكذا في المخطوطة والمطبوعة: "رغاة واحدة"، ولم تذكره كتب اللغة، بل قالوا: المرة الواحدة من"الرغاء"، "رغوة" والذي في الطبري جائز مثله في العربية.]] ثم طعن في لبَّتها فنحرَها، وانطلق سقبها حتى أتى جبلا مُنِيفًا، [[في المطبوعة: "منيعا"، وأثبت ما في المخطوطة."والمنيف" العالي.]] ثم أتى صخرة في رأس الجبل فزعًا ولاذ بها [[في المطبوعة: "فرغا ولاذ بها"، وفي المخطوطة غير منقوطة، وأرجح أن صواب قراءتها هنا ما أثبت.]] = واسم الجبل فيما يزعمون"صنو"، [[في المطبوعة: "صور"، أثبت ما في المخطوطة، وإن كنت في شك منه.]] = فأتاهم صالح، فلما رأى الناقة قد عقرت، [[في المطبوعة، حذف"ثم"، وهي ثابتة في المخطوطة.]] ثم قال: انتهكتم حرمة الله، فأبشروا بعذاب الله تبارك وتعالى ونقمته! فاتّبع السقبَ أربعةُ نفر من التّسعة الذين عقرُوا الناقة، وفيهم"مصدع بن مهرج"، فرماه مصدع بسهم، فانتظمَ قلبَه، ثم جرَّ برجله فأنزله، ثم ألقوا لحمَه مع لحم أمه.
+
+=فلما قال لهم صالح:"أبشروا بعذاب الله ونقمته"، قالوا له وهم يهزؤون به: ومتى ذلك يا صالح؟ وما آية ذلك؟ = وكانوا يسمون الأيام فيهم: الأحد"أول" والاثنين"أهون"، والثلاثاء"دبار"، والأربعاء"جبار"، والخميس"مؤنس"، والجمعة"العروبة"، والسبت"شيار"، وكانوا عقروا الناقة يوم الأربعاء= فقال لهم صالح حين قالوا ذلك: تصبحون غداة يوم مؤنس، يعني يوم الخميس، ووجوهكم مصفرّة، ثم تصبحون يوم العروبة، يعني يوم الجمعة، ووجوهكم محمرّة، ثم تصبحون يوم شيار، يعني يوم السبت، ووجوهكم مسودَّة، ثم يصبحكم العذاب يوم الأول، يعني يوم الأحد. فلما قال لهم صالح ذلك، قال التسعة الذين عقروا الناقة: هلمَّ فلنقتل صالحًا، [[في المطبوعة: "هلموا"، وأثبت ما في المخطوطة، وهو صواب أيضًا.]] إن كان صادقًا عجَّلناه قبلنا، وإن كان كاذبًا يكون قد ألحقناه بناقتِه! فأتوه ليلا ليبيِّتوه في أهله، فدمَغَتهم الملائكة بالحجارة. فلما أبطؤوا على أصحابهم، أتوا منزلَ صالح، فوجدوهم مشدَّخين قد رُضِخوا بالحجارة، فقالوا لصالح: أنت قتلتهم! ثم همُّوا به، فقامت عشيرته دونه ولبسوا السلاحَ، وقالوا لهم: والله لا تقتلونه أبدًا، فقد وعدكم أنَّ العذاب نازل بكم في ثلاث، فإن كان صادقا لم تزيدوا ربَّكم عليكم إلا غضبًا، وإن كان كاذبًا فأنتم من وراء ما تريدون! فانصرفوا عنهم ليلتَهم تلك، والنفر الذين رَضَختهم الملائكة بالحجارة، التسعةُ الذين ذكرهم الله تعالى في القرآن بقوله تعالى: ﴿وَكَانَ فِي الْمَدِينَةِ تِسْعَةُ رَهْطٍ يُفْسِدُونَ فِي الأَرْضِ وَلا يُصْلِحُونَ﴾ إلى قوله: ﴿لآية لقوم يعلمون﴾ ، [سورة النمل: ٤٨ - ٥٢] .
+
+=فأصبحوا من تلك الليلة التي انصرفوا فيها عن صالح، وجوههم مصفرَّة، فأيقنوا بالعذاب، وعرفوا أن صالحًا قد صدَقهم، فطلبوه ليقتلوه. وخرج صالح هاربًا منهم، حتى لجأ إلى بطن من ثمود يقال لهم:" بنو غنم"، فنزل على سيِّدهم رجلٍ منهم يقال له:" نفيل"، يكنى بأبي هدب، وهو مشرِك، فغيَّبه، فلم يقدروا عليه. فغدوا على أصحاب صالح فعذّبوهم ليدلُّوهم عليه، فقال رجل من أصحاب صالح يقال له:" ميدع بن هرم": يا نبي الله إنهم ليعذبوننا لندلَّهم عليك، أفندلُّهم عليك؟ قال: نعم! فدلهم عليه"ميدع بن هرم"، فلما علموا بمكان صالح، أتوا أبا هُدْب فكلموه، فقال لهم: عندي صالح، وليس لكم إليه سبيل! فأعرضوا عنه وتركوه، وشغلهم عنه ما أنزل الله بهم من عذابه. فجعل بعضهم يخبر بعضًا بما يرون في وجوههم حين أصبحوا من يوم الخميس، وذلك أن وجوههم أصبحت مصفرَّة، ثم أصبحوا يوم الجمعة ووجوههم محمرَّة، ثم أصبحوا يوم السبت ووجوههم مسودّة، حتى إذا كان ليلة الأحد خرج صالح من بين أظهرهم ومن أسلم معه إلى الشأم، فنزل رملة فلسطين، وتخلّف رجل من أصحابه يقال له:" ميدع بن هرم"، فنزل قُرْح= وهي وادي القرى، وبين القرح وبين الحجر ثمانية عشر ميلا= فنزل على سيِّدِهم رجلٍ يقال له:" عمرو بن غنم"، وقد كان أكل من لحم الناقة ولم يَشْتَركْ في قتلها، فقال له ميدع بن هرم: يا عمرو بن غنم، أخرج من هذا البلد، فإن صالحًا قال:"من أقام فيه هلك، ومن خرج منه نجا"، فقال عمرو: ما شرِكت في عَقْرها، وما رضيت ما صُنع بها! فلما كانت صبيحة الأحد أخذتهم الصيحة، فلم يبق منهم صغير ولا كبير إلا هلك، إلا جارية مقعدة يقال لها:" الزُّرَيْعَة"، وهي الكلبة ابنة السِّلق، [[في المطبوعة: "الدريعة، وهي كليبة ابنة السلق"، وفي المخطوطة"الدريعة وهي الكلبة ابنة السلق"، وقرأتها كما أثبتها. و"السلق"، الذئب، ويزعمون أن الذئب يستولد الكلبة، وأن ولدها منها يقال له"الديسم"، ويقال للكلاب"أولاد زارع"، فرجحت أن صواب قراءتها"الزريعة" بالتصغير، وأن الذي بعدها تفسير لها، كما هو ظاهر.
+
+و"السلق" (بكسر السين، وسكون اللام) .]] كانت كافرة شديدَة العداوة لصالح، فأطلق الله لها رجليها بعدما عاينت العذابَ أجمعَ، فخرجت كأسرع ما يُرَى شيءٌ قط، حتى أتت أهل قُرْحٍ فأخبرتهم بما عاينتْ من العذاب وما أصاب ثمود منه، [[في المطبوعة: "حتى أتت حيا من الأحياء، فأخبرتهم"، غير ما في المخطوطة، مع أن الصواب هو الذي فيها. و"قرح" سوق وادي القرى، كما مر آنفًا.]] ثم استسقت من الماء فسُقِيت، فلما شربت ماتت.
+
+١٤٨١٢-حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، قال معمر، أخبرني من سمع الحسن يقول: لما عقرت ثمود الناقة، ذهبَ فصيلها حتى صعد تلا فقال: يا رب، أين أمي؟ ثم رغا رَغوةً، فنزلت الصيحةُ، فأخمدتهم.
+
+١٤٨١٣-حدثني محمد بن عبد الأعلى قال، حدثنا محمد بن ثور، عن معمر، عن الحسن بنحوه= إلا أنه قال: أصعد تلا.
+
+حدثنا محمد بن عبد الأعلى قال، حدثنا محمد بن ثور، عن معمر، عن قتادة: أن صالحًا قال لهم حين عقروا الناقة: تمتَّعوا ثلاثة أيام! وقال لهم: آية هلاككم أن تصبح وجوهكم مصفرَّة، ثم تصبح اليومَ الثاني محمرَّة، ثم تصبح اليوم الثالث مسودَّة، فأصبحت كذلك. فلما كان اليوم الثالث وأيقنوا بالهلاك، تكفَّنوا وتحنَّطوا، ثم أخذتهم الصيحة فأهمدتهم= قال قتادة: قال عاقر الناقة لهم: لا أقتلها حتى ترضوا أجمعين! فجعلوا يدخلون على المرأة في حِجْرها فيقولون: [[في المطبوعة: "في خدرها"، وأثبت ما في المخطوطة. و"الحجر" (بكسر الحاء وفتحها، وسكون الجيم) : الستر والحفظ، يعني حيث تستر. ولو قريء: "في حجرها" جمع"حجرة"، وهو البيت لكان حسنًا جدًا.]] أترضين؟ فتقول: نعم! والصبيّ، حتى رضوا أجمعين، فعقرها.
+
+حدثني المثنى قال، حدثنا إسحاق قال، حدثنا عبد الرزاق، عن معمر، عن عبد الله بن عثمان بن خثيم، عن أبي الزبير، عن جابر بن عبد الله قال، لما مرّ النبي ﷺ بالحِجر قال: لا تسألوا الآيات، فقد سألها قومُ صالح، فكانت ترد من هذا الفجّ، [[قوله: "وكانت ترد ... "، يعني الناقة.]] وتصدر من هذا الفج، فعتوا عن أمر ربهم، فعقروها، وكانت تشرب ماءهم يومًا، ويشربون لبنها يومًا. فعقروها، فأخذتهم الصيحة: أهمد الله مَنْ تحت أديم السماء منهم، إلا رجلا واحدًا كان في حَرَم الله، قيل: من هو؟ قال: أبو رِغال، فلما خرج من الحرم أصابه ما أصاب قومه. [[الأثر: ١٤٨١٧-"عبد الله بن عثمان بن خثيم" القارئ، تابعي ثقة. مضى برقم: ٤٣٤١، ٥٣٨٨، ٧٨٣١، ٩٦٤٢.
+
+وهذا الخبر رواه أحمد في المسند ٣: ٢٩٦، من هذه الطريق نفسها بلفظه.
+
+وذكره ابن كثير في تفسيره ٣: ٥٠٥، وفي البداية والنهاية ١: ١٣٧، وقال: "وهذا الحديث على شرط مسلم، وهو ليس في شيء من الكتب الستة".
+
+وذكره الحافظ ابن حجر في الفتح (٦: ٢٧٠) ، وقال: "وروى أحمد والحاكم بإسناد حسن، عن جابر"، وذكر الخب.
+
+وسيأتي بإسناد آخر رقم: ١٤٨٢٠.]] ... قال عبد الرزاق، قال معمر: وأخبرني إسماعيل بن أمية: أن النبي ﷺ مرّ بقبر أبي رِغال، فقال: أتدرون ما هذا؟ ، قالوا: الله ورسوله أعلم! قال: هذا قبر أبي رِغال؟ قالوا فمن أبو رِغال؟ قال: رجل من ثمود، كان في حرم الله، فمنعه حرم الله عذابَ الله، فلما خرج أصابه ما أصاب قومه، فدفن هاهنا، ودفن معه غصن من ذهب! فنزل القوم فابتدروه بأسيافهم، فبحثوا عليه، فاستخرجوا الغصن. [[الأثر: ١٤٨١٨- هذا خبر مرسل.
+
+"إسماعيل بن أمية الأموي"، ثقة، مضى برقم: ٢٦١٥، ٨٤٥٨.
+
+وهذا الخبر رواه أبو داود في سننه ٣: ٢٤٥ رقم: ٣٠٨٨، موصولا من حديث محمد بن إسحق، عن إسماعيل بن أمية، عن بجير بن أبي بجير، قال سمعت عبد الله بن عمرو يقول: سمعت رسول الله صلى الله وسلم يقول، حين خرجنا إلى الطائف، فمررنا بقبر".
+
+وذكر ابن كثير في تفسيره ٣: ٥٠٨، والبداية ١: ١٣٧، حديث أبي داود هذا، ثم قال: "هكذا رواه أبو داود، عن يحيى بن معين، عن وهب بن جرير بن حازم، عن أبيه، عن ابن إسحاق، به. قال شيخنا أبو الحجاج المزي: وهو حديث حسن عزيز. قلت: تفرد بوصله بجير بن أبي بجير هذا، وهو شيخ لا يعرف إلا بهذا الحديث. قال يحيى بن معين: ولم أسمع أحدًا روى عنه غير إسماعيل بن أمية. قلت [القائل ابن كثير] : وعلى هذا فيخشى أن يكون وهم في رفع هذا الحديث، وإنما يكون من كلام عبد الله بن عمرو مما أخذه من الزاملتين. قال شيخنا أبو الحجاج، بعد أن عرضت عليه ذلك: وهذا محتمل، والله أعلم".
+
+وسيأتي بإسناد آخر رقم: ١٤٨٢٣.]]
+
+١٤٨١٤-. . . قال عبد الرزاق: قال: معمر: قال الزهري: أبو رِغال: أبو ثقيف.
+
+حدثنا محمد بن عبد الأعلى قال، حدثنا محمد بن ثور، عن معمر، عن عبد الله بن عثمان بن خثيم، عن جابر قال، مرّ النبي ﷺ بالحجر= ثم ذكر نحوه، إلا أنه قال في حديثه: قالوا: من هو يا رسول الله؟ قال: أبو رِغال. [[الأثر: ١٤٨٢٠- هذا إسناد آخر للخبر السالف رقم: ١٤٨١٧.]]
+
+١٤٨١٥-حدثنا محمد بن المثنى قال، حدثنا معاذ بن هشام قال، حدثنا أبي، عن قتادة قال، كان يقال إنّ أحمرَ ثمود الذي عقر الناقة، كان ولد زَنْية.
+
+١٤٨١٦-حدثنا ابن حميد قال، حدثنا حكام قال، حدثنا عنبسة، عن أبي إسحاق قال، قال أبو موسى: أتيت أرض ثمود، فذرعت مَصْدرَ الناقة، فوجدته ستين ذراعًا.
+
+١٤٨١٧-حدثنا محمد بن عبد الأعلى قال، حدثنا محمد بن ثور، عن معمر، وأخبرني إسماعيل بن أمية بنحو هذا= يعني بنحو حديث عبد الله بن عثمان بن خثيم، عن جابر = قال: ومرّ النبي ﷺ بقبر أبي رِغال، قالوا: ومن أبو رِغال؟ قال: أبو ثقيف، كان في الحرم لما أهلك الله قومه، منعه حرم الله من عذاب الله، فلما خرج أصابه ما أصاب قومه، فدفن ها هنا، ودفن معه غصن من ذهب. قال: فابتدره القوم يبحثون عنه، حتى استخرجوا ذلك الغصن.
+
+=وقال الحسن: كان للناقة يوم ولهم يومٌ، فأضرَّ بهم. [[الأثر: ١٤٨٢٣- هذا إسناد آخر للأثر رقم: ١٤٨١٨.
+
+وأما كلمة الحسن البصري الأخيرة، فلا أدري من قائلها.]]
+
+حدثنا ابن عبد الأعلى قال، حدثنا محمد بن ثور، عن معمر، عن الزهري قال: لما مرّ النبي ﷺ بالحجر قال: لا تدخلوا مساكن الذين ظلموا أنفسهم إلا أن تكونوا باكين، أنْ يصيبكم مثل الذي أصابهم! ثم قال: هذا وادي النَّفَر! [["وادي النفر"، كأنه يعني التسعة من ثمود الذين كانوا يفسدون في الأرض ولا يصلحون، والذين اجتمعوا على قتل صالح عليه السلام، فدمر الله عليهم.]] ثم قَنَّع رأسه وأسرع السير حتى أجاز الوادي. [[الأثر: ١٤٨٢٣- حديث الزهري هذا، رواه البخاري في مواضع من صحيحه (الفتح ٦: ٢٧٠) من طريق محمد بن مقاتل، عن عبد الله بن المبارك، عن معمر، عن الزهري، عن سالم بن عبد الله، عن أبيه عبد الله بن عمر = ثم رواه بعد من طريق يونس، عن الزهري، عن سالم، عن ابن عمر. ثم رواه (الفتح ٨: ٩٥) من طريق عبد الرازق، عن معمر، عن الزهري، عن سالم، عن ابن عمر.
+
+ورواه مسلم في صحيحه ١٨: ١١١، من طريق يونس، عن الزهري، عن سالم، عن ابن عمر.
+
+وليس في روايتهما ذكر"وادي النفر".
+
+وكان في المخطوطة والمطبوعة: "ثم رفع رأسه"، وهو تحريف بلا شك، والصواب ما أثبت من رواية البخاري (الفتح ٨: ٩٥) . و"قنع رأسه"، غطاها بالقناع. وفي رواية البخاري الأخرى (الفتح ٦: ٢٧٠) : "ثم تقنع بردائه وهو على الرحل".
+
+وقوله: "أجاز الوادي"، أي قطعه وخلفه وراءه.]]
+
+* *
+
+وأما قوله: ﴿ولا تمسوها بسوء﴾ ، فإنه يقول: ولا تمسوا ناقة الله بعقرٍ ولا نحر [[انظر تفسير"المس" فيما سلف: ١١: ٣٧٠، تعليق ١، والمراجع هناك.]] = ﴿فيأخذكم عذابٌ أليم﴾ ، يعني: موجع. [[انظر تفسير"أليم" فيما سلف من فهارس اللغة (ألم) .]]
 
 ### al-Muyassar (Arabic)
 
@@ -282,9 +358,25 @@ The nine wicked persons killed the camel on a Wednesday, and that night, they co
 
 (They said: "Swear one to another by Allah that we shall make a secret night attack on him and his household, and thereafter we will surely say to his near relatives: 'We witnessed not the destruction of his household, and verily, we are telling the truth.'" So they plotted a plot, and We planned a plan, while they perceived not.)[27:49-50]
 
-When they conspired to kill Salih and gathered at night to carry out their plot, Allah, to Whom belongs all might and Who protects His Messengers, rained down stones that smashed the heads of these nine people before the rest of the tribe. On Thursday, the first of the three days of respite, the people woke up and their faces were pale (yellow), just as Prophet Salih had promised them. On the second day of respite,
+When they conspired to kill Salih and gathered at night to carry out their plot, Allah, to Whom belongs all might and Who protects His Messengers, rained down stones that smashed the heads of these nine people before the rest of the tribe. On Thursday, the first of the three days of respite, the people woke up and their faces were pale (yellow), just as Prophet Salih had promised them. On the second day of respite, Friday, they woke up and found their faces had turned red. On the third day of the respite, Saturday, they woke up with their faces black. On Sunday, they wore the fragrance of Hanut [the perfume for enshrouding the dead before burial] and awaited Allah's torment and revenge, we seek refuge with Allah from it. They did not know what will be done to them or how and from where the torment would come. When the sun rose, the Sayhah (loud cry) came from the sky and a severe tremor overtook them from below; the souls were captured and the bodies became lifeless, all in an hour.
 
-[TRUNCATED at 12000 chars — 2196 more. Consult the source directly before relying on anything near the cut.]
+فَأَصْبَحُوا فِي دَارِهِمْ جَاثِمِينَ
+
+(And they lay (dead), prostrate in their homes.)
+
+They became dead and lifeless and none among them, whether young, old, male or female, escaped the torment.
+
+The scholars of Tafsir said that none from the offspring of Thamud remained, except Prophet Salih and those who believed in him. A disbelieving man called Abu Righal was in the Sacred Area at the time and the torment that befell his people did not touch him. When he went out of the Sacred Area one day, a stone fell from the sky and killed him. 'Abdur-Razzaq narrated that Ma'mar said that Isma'il bin Umayyah said that the Prophet ﷺ passed by the gravesite of Abu Righal and asked the Companions if they knew whose grave it was. They said, "Allah and His Messenger know better." He said,
+
+أَتَدْرُونَ مَنْ هَذَا؟
+
+قالوا الله ورسوله أعلم، قال
+
+هَذَا قَبْرُ أَبِي رِغَالٍ رَجُلٍ مِنْ ثَمُودَ كَانَ فِي حَرَمِ اللهِ فَمَنَعَهُ حَرَمُ اللهِ عَذَابَ اللهِ، فَلَمَّا خَرَجَ أَصَابَهُ مَا أَصَابَ قَومهُ فَدُفِنَ هَاهُنَا وَدُفِنَ مَعَهُ غُصْنٌ مِنْ ذَهَبٍ، فَنَزَلَ الْقَوْمُ فَابْتَدَرُوهُ بِأَسْيَافِهِمْ فَبَحَثُوا عَنْهُ فَاسْتَخْرَجُوا الْغُصْنَ
+
+(This is the grave of Abu Righal, a man from Thamud. He was in the Sacred Area of Allah and this fact saved him from receiving Allah's torment. When he went out of the Sacred Area, what befell his people also befell him. He was buried here along with a branch made from gold.)
+
+So the people used their swords and looked for the golden branch and found it. 'Abdur-Razzaq narrated that Ma'mar said that Az-Zuhri said that Abu Righal is the father of the tribe of Thaqif.
 
 ### al-Tabari (Arabic)
 
@@ -436,9 +528,25 @@ The nine wicked persons killed the camel on a Wednesday, and that night, they co
 
 (They said: "Swear one to another by Allah that we shall make a secret night attack on him and his household, and thereafter we will surely say to his near relatives: 'We witnessed not the destruction of his household, and verily, we are telling the truth.'" So they plotted a plot, and We planned a plan, while they perceived not.)[27:49-50]
 
-When they conspired to kill Salih and gathered at night to carry out their plot, Allah, to Whom belongs all might and Who protects His Messengers, rained down stones that smashed the heads of these nine people before the rest of the tribe. On Thursday, the first of the three days of respite, the people woke up and their faces were pale (yellow), just as Prophet Salih had promised them. On the second day of respite,
+When they conspired to kill Salih and gathered at night to carry out their plot, Allah, to Whom belongs all might and Who protects His Messengers, rained down stones that smashed the heads of these nine people before the rest of the tribe. On Thursday, the first of the three days of respite, the people woke up and their faces were pale (yellow), just as Prophet Salih had promised them. On the second day of respite, Friday, they woke up and found their faces had turned red. On the third day of the respite, Saturday, they woke up with their faces black. On Sunday, they wore the fragrance of Hanut [the perfume for enshrouding the dead before burial] and awaited Allah's torment and revenge, we seek refuge with Allah from it. They did not know what will be done to them or how and from where the torment would come. When the sun rose, the Sayhah (loud cry) came from the sky and a severe tremor overtook them from below; the souls were captured and the bodies became lifeless, all in an hour.
 
-[TRUNCATED at 12000 chars — 2196 more. Consult the source directly before relying on anything near the cut.]
+فَأَصْبَحُوا فِي دَارِهِمْ جَاثِمِينَ
+
+(And they lay (dead), prostrate in their homes.)
+
+They became dead and lifeless and none among them, whether young, old, male or female, escaped the torment.
+
+The scholars of Tafsir said that none from the offspring of Thamud remained, except Prophet Salih and those who believed in him. A disbelieving man called Abu Righal was in the Sacred Area at the time and the torment that befell his people did not touch him. When he went out of the Sacred Area one day, a stone fell from the sky and killed him. 'Abdur-Razzaq narrated that Ma'mar said that Isma'il bin Umayyah said that the Prophet ﷺ passed by the gravesite of Abu Righal and asked the Companions if they knew whose grave it was. They said, "Allah and His Messenger know better." He said,
+
+أَتَدْرُونَ مَنْ هَذَا؟
+
+قالوا الله ورسوله أعلم، قال
+
+هَذَا قَبْرُ أَبِي رِغَالٍ رَجُلٍ مِنْ ثَمُودَ كَانَ فِي حَرَمِ اللهِ فَمَنَعَهُ حَرَمُ اللهِ عَذَابَ اللهِ، فَلَمَّا خَرَجَ أَصَابَهُ مَا أَصَابَ قَومهُ فَدُفِنَ هَاهُنَا وَدُفِنَ مَعَهُ غُصْنٌ مِنْ ذَهَبٍ، فَنَزَلَ الْقَوْمُ فَابْتَدَرُوهُ بِأَسْيَافِهِمْ فَبَحَثُوا عَنْهُ فَاسْتَخْرَجُوا الْغُصْنَ
+
+(This is the grave of Abu Righal, a man from Thamud. He was in the Sacred Area of Allah and this fact saved him from receiving Allah's torment. When he went out of the Sacred Area, what befell his people also befell him. He was buried here along with a branch made from gold.)
+
+So the people used their swords and looked for the golden branch and found it. 'Abdur-Razzaq narrated that Ma'mar said that Az-Zuhri said that Abu Righal is the father of the tribe of Thaqif.
 
 ### al-Tabari (Arabic)
 
@@ -564,9 +672,25 @@ The nine wicked persons killed the camel on a Wednesday, and that night, they co
 
 (They said: "Swear one to another by Allah that we shall make a secret night attack on him and his household, and thereafter we will surely say to his near relatives: 'We witnessed not the destruction of his household, and verily, we are telling the truth.'" So they plotted a plot, and We planned a plan, while they perceived not.)[27:49-50]
 
-When they conspired to kill Salih and gathered at night to carry out their plot, Allah, to Whom belongs all might and Who protects His Messengers, rained down stones that smashed the heads of these nine people before the rest of the tribe. On Thursday, the first of the three days of respite, the people woke up and their faces were pale (yellow), just as Prophet Salih had promised them. On the second day of respite,
+When they conspired to kill Salih and gathered at night to carry out their plot, Allah, to Whom belongs all might and Who protects His Messengers, rained down stones that smashed the heads of these nine people before the rest of the tribe. On Thursday, the first of the three days of respite, the people woke up and their faces were pale (yellow), just as Prophet Salih had promised them. On the second day of respite, Friday, they woke up and found their faces had turned red. On the third day of the respite, Saturday, they woke up with their faces black. On Sunday, they wore the fragrance of Hanut [the perfume for enshrouding the dead before burial] and awaited Allah's torment and revenge, we seek refuge with Allah from it. They did not know what will be done to them or how and from where the torment would come. When the sun rose, the Sayhah (loud cry) came from the sky and a severe tremor overtook them from below; the souls were captured and the bodies became lifeless, all in an hour.
 
-[TRUNCATED at 12000 chars — 2196 more. Consult the source directly before relying on anything near the cut.]
+فَأَصْبَحُوا فِي دَارِهِمْ جَاثِمِينَ
+
+(And they lay (dead), prostrate in their homes.)
+
+They became dead and lifeless and none among them, whether young, old, male or female, escaped the torment.
+
+The scholars of Tafsir said that none from the offspring of Thamud remained, except Prophet Salih and those who believed in him. A disbelieving man called Abu Righal was in the Sacred Area at the time and the torment that befell his people did not touch him. When he went out of the Sacred Area one day, a stone fell from the sky and killed him. 'Abdur-Razzaq narrated that Ma'mar said that Isma'il bin Umayyah said that the Prophet ﷺ passed by the gravesite of Abu Righal and asked the Companions if they knew whose grave it was. They said, "Allah and His Messenger know better." He said,
+
+أَتَدْرُونَ مَنْ هَذَا؟
+
+قالوا الله ورسوله أعلم، قال
+
+هَذَا قَبْرُ أَبِي رِغَالٍ رَجُلٍ مِنْ ثَمُودَ كَانَ فِي حَرَمِ اللهِ فَمَنَعَهُ حَرَمُ اللهِ عَذَابَ اللهِ، فَلَمَّا خَرَجَ أَصَابَهُ مَا أَصَابَ قَومهُ فَدُفِنَ هَاهُنَا وَدُفِنَ مَعَهُ غُصْنٌ مِنْ ذَهَبٍ، فَنَزَلَ الْقَوْمُ فَابْتَدَرُوهُ بِأَسْيَافِهِمْ فَبَحَثُوا عَنْهُ فَاسْتَخْرَجُوا الْغُصْنَ
+
+(This is the grave of Abu Righal, a man from Thamud. He was in the Sacred Area of Allah and this fact saved him from receiving Allah's torment. When he went out of the Sacred Area, what befell his people also befell him. He was buried here along with a branch made from gold.)
+
+So the people used their swords and looked for the golden branch and found it. 'Abdur-Razzaq narrated that Ma'mar said that Az-Zuhri said that Abu Righal is the father of the tribe of Thaqif.
 
 ### al-Tabari (Arabic)
 
@@ -692,9 +816,25 @@ The nine wicked persons killed the camel on a Wednesday, and that night, they co
 
 (They said: "Swear one to another by Allah that we shall make a secret night attack on him and his household, and thereafter we will surely say to his near relatives: 'We witnessed not the destruction of his household, and verily, we are telling the truth.'" So they plotted a plot, and We planned a plan, while they perceived not.)[27:49-50]
 
-When they conspired to kill Salih and gathered at night to carry out their plot, Allah, to Whom belongs all might and Who protects His Messengers, rained down stones that smashed the heads of these nine people before the rest of the tribe. On Thursday, the first of the three days of respite, the people woke up and their faces were pale (yellow), just as Prophet Salih had promised them. On the second day of respite,
+When they conspired to kill Salih and gathered at night to carry out their plot, Allah, to Whom belongs all might and Who protects His Messengers, rained down stones that smashed the heads of these nine people before the rest of the tribe. On Thursday, the first of the three days of respite, the people woke up and their faces were pale (yellow), just as Prophet Salih had promised them. On the second day of respite, Friday, they woke up and found their faces had turned red. On the third day of the respite, Saturday, they woke up with their faces black. On Sunday, they wore the fragrance of Hanut [the perfume for enshrouding the dead before burial] and awaited Allah's torment and revenge, we seek refuge with Allah from it. They did not know what will be done to them or how and from where the torment would come. When the sun rose, the Sayhah (loud cry) came from the sky and a severe tremor overtook them from below; the souls were captured and the bodies became lifeless, all in an hour.
 
-[TRUNCATED at 12000 chars — 2196 more. Consult the source directly before relying on anything near the cut.]
+فَأَصْبَحُوا فِي دَارِهِمْ جَاثِمِينَ
+
+(And they lay (dead), prostrate in their homes.)
+
+They became dead and lifeless and none among them, whether young, old, male or female, escaped the torment.
+
+The scholars of Tafsir said that none from the offspring of Thamud remained, except Prophet Salih and those who believed in him. A disbelieving man called Abu Righal was in the Sacred Area at the time and the torment that befell his people did not touch him. When he went out of the Sacred Area one day, a stone fell from the sky and killed him. 'Abdur-Razzaq narrated that Ma'mar said that Isma'il bin Umayyah said that the Prophet ﷺ passed by the gravesite of Abu Righal and asked the Companions if they knew whose grave it was. They said, "Allah and His Messenger know better." He said,
+
+أَتَدْرُونَ مَنْ هَذَا؟
+
+قالوا الله ورسوله أعلم، قال
+
+هَذَا قَبْرُ أَبِي رِغَالٍ رَجُلٍ مِنْ ثَمُودَ كَانَ فِي حَرَمِ اللهِ فَمَنَعَهُ حَرَمُ اللهِ عَذَابَ اللهِ، فَلَمَّا خَرَجَ أَصَابَهُ مَا أَصَابَ قَومهُ فَدُفِنَ هَاهُنَا وَدُفِنَ مَعَهُ غُصْنٌ مِنْ ذَهَبٍ، فَنَزَلَ الْقَوْمُ فَابْتَدَرُوهُ بِأَسْيَافِهِمْ فَبَحَثُوا عَنْهُ فَاسْتَخْرَجُوا الْغُصْنَ
+
+(This is the grave of Abu Righal, a man from Thamud. He was in the Sacred Area of Allah and this fact saved him from receiving Allah's torment. When he went out of the Sacred Area, what befell his people also befell him. He was buried here along with a branch made from gold.)
+
+So the people used their swords and looked for the golden branch and found it. 'Abdur-Razzaq narrated that Ma'mar said that Az-Zuhri said that Abu Righal is the father of the tribe of Thaqif.
 
 ### al-Tabari (Arabic)
 
@@ -834,9 +974,25 @@ The nine wicked persons killed the camel on a Wednesday, and that night, they co
 
 (They said: "Swear one to another by Allah that we shall make a secret night attack on him and his household, and thereafter we will surely say to his near relatives: 'We witnessed not the destruction of his household, and verily, we are telling the truth.'" So they plotted a plot, and We planned a plan, while they perceived not.)[27:49-50]
 
-When they conspired to kill Salih and gathered at night to carry out their plot, Allah, to Whom belongs all might and Who protects His Messengers, rained down stones that smashed the heads of these nine people before the rest of the tribe. On Thursday, the first of the three days of respite, the people woke up and their faces were pale (yellow), just as Prophet Salih had promised them. On the second day of respite,
+When they conspired to kill Salih and gathered at night to carry out their plot, Allah, to Whom belongs all might and Who protects His Messengers, rained down stones that smashed the heads of these nine people before the rest of the tribe. On Thursday, the first of the three days of respite, the people woke up and their faces were pale (yellow), just as Prophet Salih had promised them. On the second day of respite, Friday, they woke up and found their faces had turned red. On the third day of the respite, Saturday, they woke up with their faces black. On Sunday, they wore the fragrance of Hanut [the perfume for enshrouding the dead before burial] and awaited Allah's torment and revenge, we seek refuge with Allah from it. They did not know what will be done to them or how and from where the torment would come. When the sun rose, the Sayhah (loud cry) came from the sky and a severe tremor overtook them from below; the souls were captured and the bodies became lifeless, all in an hour.
 
-[TRUNCATED at 12000 chars — 2196 more. Consult the source directly before relying on anything near the cut.]
+فَأَصْبَحُوا فِي دَارِهِمْ جَاثِمِينَ
+
+(And they lay (dead), prostrate in their homes.)
+
+They became dead and lifeless and none among them, whether young, old, male or female, escaped the torment.
+
+The scholars of Tafsir said that none from the offspring of Thamud remained, except Prophet Salih and those who believed in him. A disbelieving man called Abu Righal was in the Sacred Area at the time and the torment that befell his people did not touch him. When he went out of the Sacred Area one day, a stone fell from the sky and killed him. 'Abdur-Razzaq narrated that Ma'mar said that Isma'il bin Umayyah said that the Prophet ﷺ passed by the gravesite of Abu Righal and asked the Companions if they knew whose grave it was. They said, "Allah and His Messenger know better." He said,
+
+أَتَدْرُونَ مَنْ هَذَا؟
+
+قالوا الله ورسوله أعلم، قال
+
+هَذَا قَبْرُ أَبِي رِغَالٍ رَجُلٍ مِنْ ثَمُودَ كَانَ فِي حَرَمِ اللهِ فَمَنَعَهُ حَرَمُ اللهِ عَذَابَ اللهِ، فَلَمَّا خَرَجَ أَصَابَهُ مَا أَصَابَ قَومهُ فَدُفِنَ هَاهُنَا وَدُفِنَ مَعَهُ غُصْنٌ مِنْ ذَهَبٍ، فَنَزَلَ الْقَوْمُ فَابْتَدَرُوهُ بِأَسْيَافِهِمْ فَبَحَثُوا عَنْهُ فَاسْتَخْرَجُوا الْغُصْنَ
+
+(This is the grave of Abu Righal, a man from Thamud. He was in the Sacred Area of Allah and this fact saved him from receiving Allah's torment. When he went out of the Sacred Area, what befell his people also befell him. He was buried here along with a branch made from gold.)
+
+So the people used their swords and looked for the golden branch and found it. 'Abdur-Razzaq narrated that Ma'mar said that Az-Zuhri said that Abu Righal is the father of the tribe of Thaqif.
 
 ### al-Tabari (Arabic)
 

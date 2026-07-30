@@ -178,9 +178,19 @@ Allah said next,
 
 (they have drawn on themselves the wrath of Allah,) means, they earned Allah's anger, which they deserved,
 
-وَضُرِبَتْ عَلَيْه
+وَضُرِبَتْ عَلَيْهِمُ الْمَسْكَنَةُ
 
-[TRUNCATED at 12000 chars — 922 more. Consult the source directly before relying on anything near the cut.]
+(and destitution is put over them), meaning they deserve it by decree and legislatively.
+
+Allah said next,
+
+ذَٰلِكَ بِأَنَّهُمْ كَانُوا يَكْفُرُونَ بِآيَاتِ اللَّهِ وَيَقْتُلُونَ الْأَنبِيَاءَ بِغَيْرِ حَقٍّ
+
+(This is because they disbelieved in the Ayat of Allah and killed the Prophets without right.) meaning, what drove them to this was their arrogance, transgression and envy, earning them humiliation, degradation and disgrace throughout this life and the Hereafter. Allah said,
+
+ذَٰلِكَ بِمَا عَصَوا وَّكَانُوا يَعْتَدُونَ
+
+(This is because they disobeyed and used to transgress (the limits set by Allah).) meaning, what lured them to disbelieve in Allah's Ayat and kill His Messengers, is the fact that they often disobeyed Allah's commands, committed His prohibitions and transgressed His set limits. We seek refuge from this behavior, and Allah Alone is sought for each and every type of help.
 
 ### al-Tabari (Arabic)
 
@@ -410,9 +420,19 @@ Allah said next,
 
 (they have drawn on themselves the wrath of Allah,) means, they earned Allah's anger, which they deserved,
 
-وَضُرِبَتْ عَلَيْه
+وَضُرِبَتْ عَلَيْهِمُ الْمَسْكَنَةُ
 
-[TRUNCATED at 12000 chars — 922 more. Consult the source directly before relying on anything near the cut.]
+(and destitution is put over them), meaning they deserve it by decree and legislatively.
+
+Allah said next,
+
+ذَٰلِكَ بِأَنَّهُمْ كَانُوا يَكْفُرُونَ بِآيَاتِ اللَّهِ وَيَقْتُلُونَ الْأَنبِيَاءَ بِغَيْرِ حَقٍّ
+
+(This is because they disbelieved in the Ayat of Allah and killed the Prophets without right.) meaning, what drove them to this was their arrogance, transgression and envy, earning them humiliation, degradation and disgrace throughout this life and the Hereafter. Allah said,
+
+ذَٰلِكَ بِمَا عَصَوا وَّكَانُوا يَعْتَدُونَ
+
+(This is because they disobeyed and used to transgress (the limits set by Allah).) meaning, what lured them to disbelieve in Allah's Ayat and kill His Messengers, is the fact that they often disobeyed Allah's commands, committed His prohibitions and transgressed His set limits. We seek refuge from this behavior, and Allah Alone is sought for each and every type of help.
 
 ### al-Tabari (Arabic)
 

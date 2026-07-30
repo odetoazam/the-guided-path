@@ -154,9 +154,53 @@ At-Tirmidhi recorded that Abu Hurayrah said: "The Messenger of Allah ﷺ said:
 
 رَغِمَ أَنْفُ رَجُلٍ ذُكِرْتُ عِنْدَهُ فَلَمْ يُصَلِّ عَلَيَّ، وَرَغِمَ أَنْفُ رَجُلٍ دَخَلَ عَلَيْهِ شَهْرُ رَمَضَانَ ثُمَّ انْسَلَخَ قَبْلَ أَنْ يُغْفَرَ لَهُ، وَرَغِمَ أَنْفُ رَجُلٍ أَدْرَكَ عِنْدَهُ أَبَوَاهُ الْكِبَرَ فَلَمْ يُدْخِلَاهُ الْجَنَّةَ
 
-(May he be humiliated, the man in whose presence I am mentioned and he does not send Salah upon me; may he be humiliated, the man who sees the month of Ramadan come and go, and he is not forgiven; may he be humiliated, the man whose parents live to old age and they do not cause him to be granted admittance to Paradise.)
+(May he be humiliated, the man in whose presence I am mentioned and he does not send Salah upon me; may he be humiliated, the man who sees the month of Ramadan come and go, and he is not forgiven; may he be humiliated, the man whose parents live to old age and they do not cause him to be granted admittance to Paradise.)" Then he (At-Tirmidhi) said: "Hasan Gharib."
 
-[TRUNCATED at 12000 chars — 6167 more. Consult the source directly before relying on anything near the cut.]
+Occasions for saying Salah upon Him ﷺ
+
+It is reported that we should send blessings upon him on many occasions, such as following the call to prayer, as in the Hadith recorded by Imam Ahmad from 'Abdullah bin 'Amr bin Al-'As, who said that he heard the Messenger of Allah ﷺ say:
+
+إِذَا سَمِعْتُمْ مُؤَذِّنًا فَقُولُوا مِثْلَمَا يَقُولُ، ثُمَّ صَلُّوا عَلَيَّ، فَإِنَّهُ مَنْ صَلَّىٰ عَلَيَّ صَلَّى اللهُ عَلَيْهِ بِهَا عَشْرًا، ثُمَّ سَلُوا اللهَ لِيَ الْوَسِيلَةَ، فَإِنَّهَا مَنْزِلَةٌ فِي الْجَنَّةِ لَا تَنْبَغِي إِلَّا لِعَبْدٍ مِنْ عِبَادِ اللهِ، وَأَرْجُو أَنْ أَكُونَ أَنَا هُوَ، فَمَنْ سَأَلَ لِيَ الْوَسِيلَةَ حَلَّتْ عَلَيْهِ الشَّفَاعَةُ
+
+(When you hear the Mu'adhdhin, repeat what he says, then send Salah upon me, for whoever sends Salah upon me, Allah will send Salah upon him tenfold. Then ask Allah to grant me Al-Wasilah, which is a status in Paradise to which only one of the servants of Allah will be entitled, and I hope that I will be the one. Whoever asks Allah for Al-Wasilah for me, it will be permitted for me to intercede for him.) This was recorded by Muslim, Abu Dawud, At-Tirmidhi and An-Nasa'i.
+
+Other occasions when we should send Salah upon the Prophet ﷺ include when entering or exiting the Masjid, because of the Hadith recorded by Imam Ahmad from Fatimah, the daughter of the Messenger of Allah ﷺ who said: "When the Messenger of Allah ﷺ entered the Masjid, he would send Salah and Salam upon Muhammad, and say,
+
+اللّٰهُمَّ اغْفِرْ لِي ذُنُوبِي وَافْتَحْ لِي أَبْوَابَ رَحْمَتِكَ
+
+(O Allah, forgive me my sins and open for me the gates of Your mercy) When he exited, he would send Salah and Salam upon Muhammad, and say,
+
+اللّٰهُمَّ اغْفِرْ لِي ذُنُوبِي وَافْتَحْ لِي أَبْوَابَ فَضْلِكَ
+
+(O Allah, forgive me my sins and open for me the gates of Your bounty.)" We should also send Salah upon him during the Funeral prayer. The Sunnah is to recite Surat Al-Fatihah following the first Takbir, to send Salah upon the Prophet during the second Takbir, to make supplication for the deceased during the third Takbir, and in the fourth Takbir to say, "O Allah, do not deprive us of his reward, and do not test us after him."
+
+Ash-Shafi'i, may Allah have mercy on him, recorded that Abu Umamah bin Sahl bin Hunayf was told by one of the Companions of the Prophet ﷺ that the Sunnah in the funeral prayer is for the Imam to pronounce the Takbir, then to recite Surat Al-Fatihah silently after the first Takbir, then to send Salah upon the Prophet ﷺ then to offer sincere supplication for the deceased, but not to recite any Qur'an in any of the Takbirs, then to conclude by saying Salam silently. An-Nasa'i also recorded this from Abu Umamah, who said, "This is from the Sunnah," and he mentioned it. According to the correct view, such a statement reported from a Companion carries the ruling of Marfu'.
+
+It is recommended to conclude supplications with Salah upon the Prophet ﷺ.At-Tirmidhi recorded that 'Umar bin Al-Khattab said: "A supplication remains suspended between heaven and earth and does not ascend any further until you send Salah upon your Prophet."
+
+This was also narrated by Mu'adh bin Al-Harith from Abu Qurrah from Sa'id bin Al-Musayyib from 'Umar, as a saying of the Prophet ﷺ. It was also recorded by Razin bin Mu'awiyah in his book, where he also attributed it to the Prophet ﷺ reporting that he said:
+
+الدُّعَاءُ مَوْقُوفٌ بَيْنَ السَّمَاءِ وَالْأَرْضِ، لَا يَصْعَدُ حَتَّى يُصَلَّى عَلَيَّ، فَلَا تَجْعَلُونِي كَغُمْرِ الرَّاكِبِ، صَلُّوا عَلَيَّ، أَوَّلَ الدُّعَاءِ وَآخِرَهُ وَأَوْسَطَهُ
+
+(A supplication remains suspended between heaven and earth and does not ascend any further until a person sends Salah on me. Do not treat me like a spare water container, send Salah upon me at the beginning of your supplication, at the end and in the middle.)
+
+Sending Salah upon the Prophet ﷺ is even more strongly encouraged in the Qunut supplication. Ahmad, the Sunan compilers, Ibn Khuzaymah, Ibn Hibban and Al-Hakim recorded that Al-Hasan bin 'Ali, may Allah be pleased with him, said: "The Messenger of Allah ﷺ taught me some words to say during Al-Witr:
+
+اللّٰهُمَّ اهْدِنِي فِيمَنْ هَدَيْتَ، وَعَافِنِي فِيمَنْ عَافَيْتَ، وَتَوَلَّنِي فِيمَنْ تَوَلَّيْتَ، وَبَارِكْ لِي فِيمَا أَعْطَيْتَ، وَقِنِي شَرَّ مَا قَضَيْتَ، فَإِنَّكَ تَقْضِي وَلَا يُقْضَىٰ عَلَيْكَ، وَإِنَّهُ لَا يَذِلُّ مَنْ وَالَيْتَ، وَلَا يَعِزُّ مَنْ عَادَيْتَ،تَبَارَكْتَ رَبَّنَا وَتَعَالَيْتَ
+
+("O Allah, guide me along with those whom You have guided, grant me health along with those to whom You have granted health, be an ally to me along with those to whom You are an ally, and bless me for that which You have bestowed. Protect me from the evil You have decreed, for verily You decree and none can decree over You. Verily, he whom You show allegiance to is never abased and he whom You take as an enemy is never honored and mighty, O our Lord, blessed and Exalted are You.")" In his Sunan, An-Nasa'i has the addition,
+
+وَصَلَّى اللهُ عَلَى مُحَمَّدٍ
+
+("and may Allah bless Muhammad.") at the end of this Qunut. It is also recommended to say plenty of Salah upon him on Friday and on the eve of Friday. Imam Ahmad recorded that Aws bin Aws Ath-Thaqafi, may Allah be pleased with him, said: "The Messenger of Allah ﷺ said:
+
+مِنْ أَفْضَلِ أَيَّامِكُمْ يَوْمُ الْجُمُعَةِ، فِيهِ خُلِقَ آدَمُ وَفِيهِ قُبِضَ، وَفِيهِ النَّفْخَةُ، وَفِيهِ الصَّعْقَةُ، فَأَكْثِرُوا عَلَيَّ مِنَ الصَّلَاةِ فِيهِ، فَإِنَّ صَلَاتَكُمْ مَعْرُوضَةٌ عَلَيَّ
+
+(One of the best of your days is Friday; on this day Adam was created and died, on this day the Trumpet (Sur) will be blown and all will have swoon away. So on this day send plenty of Salah upon me, for your Salah will be presented to me.) They said, 'O Messenger of Allah, how will they be shown to you after your body has dispersed into the earth?' He said,
+
+إِنَّ اللهَ حَرَّمَ عَلَى الْأَرْضِ أَنْ تَأْكُلَ أَجْسَادَ الْأَنْبِيَاءِ
+
+(Allah has forbidden the earth to consume the bodies of the Prophets.)" This was also recorded by Abu Dawud, An-Nasa'i and Ibn Majah, and it was graded Sahih by Ibn Khuzaymah, Ibn Hibban, Ad-Daraqutni and An-Nawawi in Al-Adhkar.
 
 ### al-Tabari (Arabic)
 

@@ -148,9 +148,111 @@ In the book of Ahkam of his Sunan, Abu 'Isa At-Tirmidhi recorded that Mu'adh bin
 
 In addition, Imam Ahmad recorded that Abu Hurayrah said, "The Prophet ﷺ got up among us and mentioned Ghulul and emphasized its magnitude. He then said,
 
-لَا أُلْفِيَنَّ أَحَدَكُمْ يَجِيءُ يَوْمَ الْقِيَامَةِ عَلى رَقَبَتِهِ بَعِيرٌ لَهُ رُغَاءٌ، فَيَقُولُ: يَا رَسُولَ اللهِ أَغِثْنِي، فَأَقُولُ: لَا أَمْلِكُ لَكَ مِنَ اللهِ شَيْئًا، قَدْ أَبْلَغْتُكَ، لَا أُلْفِيَنَّ أَحَدَكُمْ
+لَا أُلْفِيَنَّ أَحَدَكُمْ يَجِيءُ يَوْمَ الْقِيَامَةِ عَلى رَقَبَتِهِ بَعِيرٌ لَهُ رُغَاءٌ، فَيَقُولُ: يَا رَسُولَ اللهِ أَغِثْنِي، فَأَقُولُ: لَا أَمْلِكُ لَكَ مِنَ اللهِ شَيْئًا، قَدْ أَبْلَغْتُكَ، لَا أُلْفِيَنَّ أَحَدَكُمْ يَجِيءُ يَوْمَ الْقِيَامَةِ عَلى رَقَبَتِهِ فَرَسٌ لَهَا حَمْحَمَةٌ، فَيَقُولُ: يَا رَسُولَ اللهِ أَغِثْنِي، فَأَقُولُ: لَا أَمْلِكُ لَكَ مِنَ اللهِ شَيْئًا، قَدْ أَبْلَغْتُكَ، لَا أُلْفِيَنَّ أَحَدَكُمْ يَجِيءُ يَوْمَ الْقِيَامَةِ عَلى رَقَبَتِهِ رِقَاعٌ تَخْفِقُ فَيَقُولُ: يَا رَسُولَ اللهِ أَغِثْنِي، فَأَقُولُ: لَا أَمْلِكُ لَكَ مِنَ اللهِ شَيْئًا، قَدْ أَبْلَغْتُكَ، لَا أُلْفِيَنَّ أَحَدَكُمْ يَجِيءُ يَوْمَ الْقِيَامَةِ عَلى رَقَبَتِهِ صَامِتٌ، فَيقُولُ: يَا رَسُولَ اللهِ أَغِثْنِي، فَأَقُولُ: لَا أَمْلِكُ لَكَ مِنَ اللهِ شَيْئًا، قَدْ أَبْلَغْتُكَ
 
-[TRUNCATED at 12000 chars — 7069 more. Consult the source directly before relying on anything near the cut.]
+(I will not like to see anyone among you on the Day of Resurrection, carrying a grunting camel over his neck. Such a man will say, 'O Allah's Messenger! Intercede on my behalf,' and I will say, 'I can't intercede for you with Allah, for I have conveyed (Allah's Message) to you.' I will not like to see any of you coming on the Day of Resurrection while carrying a neighing horse over his neck. Such a man will be saying, 'O Allah's Messenger! Intercede on my behalf,' and I will reply, 'I can't intercede for you with Allah, for I have conveyed (Allah's Message) to you.' I will not like to see any of you coming on the Day of Resurrection while carrying clothes that will be fluttering, and the man will say, 'O Allah's Messenger! Intercede (with Allah) for me, ' and I will say, 'I can't help you with Allah, for I have conveyed (Allah's Message) to you.' I will not like to see any of you coming on the Day of Resurrection while carrying gold and silver on his neck. This person will say, 'O Allah's Messenger! Intercede (with Allah) for me.' And I will say, 'I can't help you with Allah, for I have conveyed (Allah's Message) to you.')" This Hadith was recorded in the Two Sahihs .
+
+Imam Ahmad recorded that 'Umar bin Al-Khattab said, "During the day (battle) of Khaybar, several Companions of the Messenger of Allah ﷺ came to him and said, 'So-and-so died as a martyr, so-and-so died as a martyr.' When they mentioned a certain man that died as a martyr, the Messenger of Allah ﷺ said,
+
+كَلَّا إِنِّي رَأَيْتُهُ فِي النَّارِ فِي بُرْدَةٍ غَلَّهَا - أَوْ عَبَاءَةٍ
+
+(No. I have seen him in the Fire because of a robe that he stole (from the booty).)
+
+The Messenger of Allah ﷺ then said,
+
+يَا ابْنَ الْخَطَّابِ، اذْهَبْ فَنَادِ فِي النَّاسِ: إِنَّهُ لَا يَدْخُلُ الْجَنَّةَ إِلَّا الْمُؤْمِنُونَ
+
+(O Ibn Al-Khattab! Go and announce to the people that only the faithful shall enter Paradise.)
+
+So I went out and proclaimed that none except the faithful shall enter Paradise." This was recorded by Muslim and At-Tirmidhi, who said "Hasan Sahih".
+
+The Honest and Dishonest are Not Similar
+
+Allah said,
+
+أَفَمَنِ اتَّبَعَ رِضْوَانَ اللَّهِ كَمَن بَاءَ بِسَخَطٍ مِّنَ اللَّهِ وَمَأْوَاهُ جَهَنَّمُ وَبِئْسَ الْمَصِيرُ
+
+(Is then one who follows (seeks) the pleasure of Allah like the one who draws on himself the wrath of Allah? His abode is Hell, and worse indeed is that destination!)[3:162],
+
+This refers to those seeking what pleases Allah by obeying His legislation, thus earning His pleasure and tremendous rewards, while being saved from His severe torment. This type of person is not similar to one who earns Allah's anger, has no means of escaping it and who will reside in Jahannam on the Day of Resurrection, and what an evil destination it is.
+
+There are many similar statements in the Qur'an, such as,
+
+أَفَمَن يَعْلَمُ أَنَّمَا أُنزِلَ إِلَيْكَ مِن رَّبِّكَ الْحَقُّ كَمَنْ هُوَ أَعْمَىٰ
+
+(Shall he then who knows that what has been revealed unto you (O Muhammad ﷺ) from your Lord is the truth be like him who is blind?)[13:19], and,
+
+أَفَمَن وَعَدْنَاهُ وَعْدًا حَسَنًا فَهُوَ لَاقِيهِ كَمَن مَّتَّعْنَاهُ مَتَاعَ الْحَيَاةِ الدُّنْيَا
+
+(Is he whom We have promised an excellent promise (Paradise) which he will find true, like him whom We have made to enjoy the luxuries of the life of (this) world?)[28:61].
+
+Allah then said,
+
+هُمْ دَرَجَاتٌ عِندَ اللَّهِ
+
+(They are in varying grades with Allah,)[3:163] meaning, the people of righteousness and the people of evil are in grades, as Al-Hasan Al-Basri and Muhammad bin Ishaq said. Abu 'Ubaydah and Al-Kisa'i said that this Ayah refers to degrees, meaning there are various degrees and dwellings in Paradise, as well as, various degrees and dwellings in the Fire. In another Ayah, Allah said,
+
+وَلِكُلٍّ دَرَجَاتٌ مِّمَّا عَمِلُوا
+
+(For all there will be degrees (or ranks) according to what they did)[6:132]. Next, Allah said,
+
+وَاللَّهُ بَصِيرٌ بِمَا يَعْمَلُونَ
+
+(and Allah is All-Seer of what they do), and He will compensate or punish them, and will never rid them of a good deed, or increase their evil deeds. Rather, each will be treated according to his deeds.
+
+The Magnificent Blessing in the Advent of Our Prophet Muhammad (ﷺ)
+
+Allah the Most High said:
+
+لَقَدْ مَنَّ اللَّهُ عَلَى الْمُؤْمِنِينَ إِذْ بَعَثَ فِيهِمْ رَسُولًا مِّنْ أَنفُسِهِمْ
+
+(Indeed Allah conferred a great favor on the believers when He sent among them a Messenger from among themselves,)
+
+Meaning, from their own kind, so that it is possible for them to speak with him, ask him questions, associate with him, and benefit from him. Just as Allah said:
+
+وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَاجًا لِّتَسْكُنُوا إِلَيْهَا
+
+(And among His signs is that he created for them mates, that they may find rest in.)[30:21]
+
+Meaning; of their own kind. And Allah said;
+
+قُلْ إِنَّمَا أَنَا بَشَرٌ مِّثْلُكُمْ يُوحَىٰ إِلَيَّ أَنَّمَا إِلَٰهُكُمْ إِلَٰهٌ وَاحِدٌ
+
+(Say: "I am only a man like you. It has been revealed to me that your God is One God")[18:110].
+
+وَمَا أَرْسَلْنَا قَبْلَكَ مِنَ الْمُرْسَلِينَ إِلَّا إِنَّهُمْ لَيَأْكُلُونَ الطَّعَامَ وَيَمْشُونَ فِي الْأَسْوَاقِ
+
+(And We never sent before you any of the Messengers but verily, they ate food and walked in the markets)[25:20].
+
+وَمَا أَرْسَلْنَا مِن قَبْلِكَ إِلَّا رِجَالًا نُّوحِي إِلَيْهِم مِّنْ أَهْلِ الْقُرَىٰ
+
+(And We sent not before you any but men unto whom We revealed, from among the people of townships)[12:109], and,
+
+يَا مَعْشَرَ الْجِنِّ وَالْإِنسِ أَلَمْ يَأْتِكُمْ رُسُلٌ مِّنكُمْ
+
+(O you assembly of Jinn and mankind! "Did not there come to you Messengers from among you…?")[6:130].
+
+Allah's favor is perfected when His Messenger to the people is from their own kind, so that they are able to talk to him and inquire about the meanings of Allah's Word. This is why Allah said,
+
+يَتْلُو عَلَيْهِمْ آيَاتِهِ
+
+(reciting unto them His verses)[3:164], the Qur'an,
+
+وَيُزَكِّيهِمْ
+
+(and purifying them), commanding them to do righteous works and forbidding them from committing evil. This is how their hearts will be purified and cleansed of the sin and evil that used to fill them when they were disbelievers and ignorant.
+
+وَيُعَلِّمُهُمُ الْكِتَابَ وَالْحِكْمَةَ
+
+(and instructing them (in) the Book and the Hikmah,) the Qur'an and the Sunnah,
+
+وَإِن كَانُوا مِن قَبْلُ
+
+(while before that they had been), before sending this Prophet, Muhammad ﷺ,
+
+لَفِي ضَلَالٍ مُّبِينٍ
+
+(in manifest error.) indulging in plain and unequivocal error and ignorance that are clear to everyone.
 
 ### al-Tabari (Arabic)
 
@@ -268,9 +370,83 @@ In addition, Imam Ahmad recorded that Abu Hurayrah said, "The Prophet ﷺ got up
 
 قال أبو جعفر: يعني بذلك تعالى ذكره: ومن يخُن من غنائم المسلمين شيئًا وفيئهم وغير ذلك، يأت به يوم القيامة في المحشر. كما:-
 
-٨١٥٥- حدثنا أبو كريب قال: حدثنا ابن فضيل، عن يحيى بن سعيد أبي حيان، عن أبي زرعة، عن أبي هريرة، عن رسول الله ﷺ: أنه قام خطيبًا فوعظ وذكَّر ثم قال: ألا عسى رجل منكم يجيء يوم القيامة على رقبته شاة لها ثُغاء، [["الثغاء": صوت الشاء والمعز والظباء وما شاكلها."ثغت الشاة تثغو": صاحت. يقال: "ماله ثاغية ولا راغية"، الثاغية: الشاء: والراغية: الإبل.]] يقول: يا رسول الله، أغثني! فأقول: لا أملك لك شيئًا، قد أبلغتك! ألا هل عسى رجل منكم يجيء يوم القيامة على رقبته فرسٌ لها حمحمة، [[الحمحمة: صوت الفرس دون الصهيل، كالذي يكون منه إذا طلب العلف، أو رأى صاحبه الذي كان ألفه، فاستأنس إليه.]] يقول: يا رسول الله، أغثني! فأقول: لا أملك لك شيئًا، قد أبلغتك! ألا هل عسى رجل منكم يجيء يوم القيامة على رقبته صامتٌ، [[الصامت هو الذهب والفضة، أو ما لا روح فيه من أصناف المال. يقال: "ما له صامت ولا ناطق". فالناطق: الحيوان، كالإبل والغنم وغيرها.]] يقول: يا رسول الله، أغثني! فأقول: لا أملك لك شيئًا، قد أبلغتك! ألا هل عسى رجل منكم يجيء يوم القيامة على رقبته بقرة لها خوار [["الخوار": صوت الثور، وما اشتد من صوت البقرة والعجل."خار الثور يخور".]] ، يقول: يا رسول الله، أغثني! فأقول: لا أملك لك شيئا، قد أب
+٨١٥٥- حدثنا أبو كريب قال: حدثنا ابن فضيل، عن يحيى بن سعيد أبي حيان، عن أبي زرعة، عن أبي هريرة، عن رسول الله ﷺ: أنه قام خطيبًا فوعظ وذكَّر ثم قال: ألا عسى رجل منكم يجيء يوم القيامة على رقبته شاة لها ثُغاء، [["الثغاء": صوت الشاء والمعز والظباء وما شاكلها."ثغت الشاة تثغو": صاحت. يقال: "ماله ثاغية ولا راغية"، الثاغية: الشاء: والراغية: الإبل.]] يقول: يا رسول الله، أغثني! فأقول: لا أملك لك شيئًا، قد أبلغتك! ألا هل عسى رجل منكم يجيء يوم القيامة على رقبته فرسٌ لها حمحمة، [[الحمحمة: صوت الفرس دون الصهيل، كالذي يكون منه إذا طلب العلف، أو رأى صاحبه الذي كان ألفه، فاستأنس إليه.]] يقول: يا رسول الله، أغثني! فأقول: لا أملك لك شيئًا، قد أبلغتك! ألا هل عسى رجل منكم يجيء يوم القيامة على رقبته صامتٌ، [[الصامت هو الذهب والفضة، أو ما لا روح فيه من أصناف المال. يقال: "ما له صامت ولا ناطق". فالناطق: الحيوان، كالإبل والغنم وغيرها.]] يقول: يا رسول الله، أغثني! فأقول: لا أملك لك شيئًا، قد أبلغتك! ألا هل عسى رجل منكم يجيء يوم القيامة على رقبته بقرة لها خوار [["الخوار": صوت الثور، وما اشتد من صوت البقرة والعجل."خار الثور يخور".]] ، يقول: يا رسول الله، أغثني! فأقول: لا أملك لك شيئا، قد أبلغتك! ألا عسى رجل منكم يجيء يوم القيامة على رقبته رِقاع تخفِق يقول: [["الرقاع" جمع رقعة: وهو الخرقة، و"تخفق" تضطرب وتلمع إذا حركتها الرياح، أو إسراع حاملها. يريد الثياب التي يغلها الغال مما يختطفه من الغنائم. وقد فسره كثير من الشراح بأنه أراد الرقاع المكتوبة التي تكون فيها الحقوق والديون، وخفوقها حركتها، وأرجح القولين ما قدمت منهما.]] يا رسول الله، أغثني! فأقول: لا أملك لك شيئًا قد أبلغتك! [[الحديث: ٨١٥٥- أبو حيان -بفتح الحاء المهملة وتشديد الياء التحتية- يحيى بن سعيد ابن حيان التيمي: مضت ترجمته: ٥٣٨٢. ووقع في المطبوعة في الإسنادين التاليين لهذا"أبو حبان" بالباء الموحدة، وهو خطأ.
 
-[TRUNCATED at 12000 chars — 14915 more. Consult the source directly before relying on anything near the cut.]
+ووقع هنا في المخطوطة: "عن يحيى بن سعيد، عن أبي حيان". وهو خطأ. فإن"أبا حيان": اسمه"يحيى بن سعيد" - كما ذكرنا. ومحمد بن فضيل بن غزوان سمع منه، ويروى عنه مباشرة، كما هو ثابت في ترجمتهما.
+
+نعم: إن"يحيى بن سعيد القطان" روى هذا الحديث عن"أبي حيان يحيى بن سعيد التيمي"، كما سيأتي في التخريج - ولكن ليس في هذا الإسناد.
+
+أبو زرعة - بضم الزاي وسكون الراء: هو ابن عمرو بن جرير بن عبد الله البجلي. وهو تابعي ثقة، من علماء التابعين. مترجم في التهذيب، والكبير للبخاري ٤ / ٢ / ٢٤٣ - ٢٤٤، فيمن اسمه"هرم"، وابن أبي حاتم ٢ / ٢ / ٢٦٥ - ٢٦٦، فيمن اسمه"عبد الرحمن"، لاختلافهم في اسمه. والظاهر أن اسمه كنيته. ووقع في المطبوعة، في الرواية الآتية: ٨١٥٧-"عن أبي زرعة عن عمرو بن جرير"، وهو تحريف، صوابه"بن" بدل"عن".
+
+والحديث سيأتي عقب هذا بإسنادين: من طريق عبد الرحمن، عن أبي حيان، ومن طريق ابن علية، عن أبي حيان.
+
+ورواه أحمد في المسند: ٩٤٩٩ (ج٢: ص: ٤٢٦ حلبي) . عن إسماعيل -وهو ابن علية- عن أبي حيان.
+
+ورواه مسلم ٢: ٨٣، عن زهير بن حرب، عن إسماعيل بن إبراهيم، وهو ابن علية، به.
+
+ورواه البخاري ٦: ١٢٩ (فتح) ، عن مسدد، عن يحيى - وهو ابن سعيد القطان، عن أبي حيان وهو يحيى بن سعيد التيمي.
+
+ورواه مسلم أيضا بأسانيد. وكذلك رواه البيهقي في السنن الكبرى ٩: ١٠١ بأسانيد.
+
+وروى البخاري قطعة منه، ضمن حديث، من وجه آخر ٣: ٢١٣ (فتح) . وذكره ابن كثير ٢: ٢٨١، من رواية المسند، ثم قال: "أخرجاه من حديث أبي حيان، به" يريد الشيخين. وذكره السيوطى ٢: ٩٢، وزاد نسبته لابن أبي شيبة، والبيهقي في الشعب.]]
+
+٨١٥٦- حدثنا أبو كريب قال، حدثنا عبد الرحمن، عن أبي حيّان، عن أبى زرعة، عن أبي هريرة، عن النبي ﷺ، مثل هذا = زاد فيه "لا ألفين أحدكم على رقبته نفسٌ لها صياح". [[الحديث: ٨١٥٦- هو تكرار للحديث السابق. ولكن"عبد الرحمن" - في هذا الإسناد: لم أستطع أن أجزم فيه بشيء. وأخشى أن يكون محرفًا عن"عبد الرحيم"، فيكون: "عبد الرحيم بن سليمان الأشل"، فهو الذي يروى عن أبي حيان، ويروى عنه"أبو كريب". وهو راوي هذا الحديث - رواه مسلم ٢: ٨٣، عن أبي بكر بن أبي شيبة، عن عبد الرحمن بن سليمان.
+
+قوله: "نفس لها صياح"، قال الحافظ ابن حجر في الفتح: "وكأنه أراد بالنفس، ما يغله من الرقيق، من امرأة أو صبي".]]
+
+٨١٥٧- حدثني يعقوب قال، حدثنا ابن علية قال، حدثنا أبو حيّان، عن أبي زرعة، بن عمرو بن جرير، عن أبي هريرة قال: قام رسول الله ﷺ فينا يومًا، فذكر الغُلول، فعظَّمه وعظَّم أمره فقال: لا ألفين أحدكم يجيء يوم القيامة على رقبته بعير له رغاء، يقول: يا رسول الله أغثني = [["الرغاء": صوت ذوات الخف كالإبل، وقد يستعار لغيره: "رغا البعير يرغو".]] ثم ذكر نحو حديث أبي كريب، عن عبد الرحمن. [[الحديث: ٨١٥٧- هو تكرار للحديثين قبله. وقوله في آخره"ثم ذكر نحو حديث أبي كريب عن عبد الرحمن" أخشى أن يكون محرفًا، وأن صوابه"عن عبد الرحيم"، كما بينا من قبل.]]
+
+٨١٥٨- حدثنا أبو كريب قال، حدثنا حفص بن بشر، عن يعقوب القمي قال، حدثنا حفص بن حميد، عن عكرمة، عن ابن عباس قال: قال رسول الله ﷺ:"لا أعرفَنّ أحدَكم يأتي يوم القيامة يحمل شاة لها ثغاء، ينادي: يا محمد! يا محمد! [[قوله: "لا أعرفن" قد سلف أن بينت في التعليق على الأثر: ٨٠١١، ص: ٢٨٦ تعليق: ٤، والأثر: ٨٠٢٥، أنها كلمة تقال عند التهديد والوعيد والزجر الشديد، وستأتي أيضًا في رقم: ٨١٦٠ بعد.]] فأقول: لا أملك لك من الله شيئًا قد بلغتك! ولا أعرفنّ أحدكم يأتي يوم القيامة يحمل جملا له رُغاء يقول: يا محمد! يا محمد! فأقول: لا أملك لك من الله شيئًا، قد بلغتك! ولا أعرفنَّ أحدكم يأتي يوم القيامة يحمل فرسًا له حمحمة ينادي: يا محمد! يا محمد! فأقول: لا أملك لك من الله شيئًا، قد بلغتك! ولا أعرفنّ أحدكم يأتي يوم القيامة يحمل قِشْعًا من أَدَمٍ، [["القشع": هو النطع الخلق من الجلد، وهو الفرو الخلق أيضًا. وقال ابن الأثير: أراد القربة البالية. و"الأدم" جمع أديم: وهو الجلد. وفي المطبوعة والمخطوطة وابن كثير"قسما"، خطأ محض.]] ينادي: يا محمد! يا محمد! فأقول: لا أملك لك من الله شيئًا، قد بلغتك. [[الحديث: ٨١٥٨- حفص بن بشر، ويعقوب بن عبد الله القمي، مضيا في: ٤٨٤٢. حفص بن حميد القمي أبو عبيد: مترجم في التهذيب، وعند ابن أبي حاتم ١ / ٢ / ١٧١. وهو ثقة، وثقه النسائي وغيره. وقال ابن معين: "صالح". وجهله ابن المديني، ولئن جهله لقد عرفه غيره. وهذا إسناد صحيح. والحديث ذكره ابن كثير ٢: ٢٨٠، عن هذا الموضع من الطبري. وقال: "لم يروه أحد من أهل الكتب الستة". ولم أجده في موضع آخر مما بين يدي من المراجع، حتى السيوطي لم يذكره في الدر المنثور.]]
+
+٨١٥٩- حدثنا أبو كريب قال، حدثنا أسباط بن محمد قال، حدثنا أبو إسحاق الشيباني، عن عبد الله بن ذكوان، عن عروة بن الزبير، عن أبي حميد قال، بعث رسول الله ﷺ مصدقًا فجاء بسوادٍ كثير، قال: فبعث رسول الله ﷺ من يقبضه منه. فلما أتوه جعل يقول: هذا لي، وهذا لكم. قال فقالوا: من أين لك هذا؟ قال: أهدي إليّ! فأتوا رسول الله ﷺ فأخبروه بذلك، فخرج فخطب فقال:"أيها الناس، ما بالي أبعث قومًا إلى الصدقة، فيجيء أحدهم بالسواد الكثير، [["السواد" العدد الكثير من المال، سمى بذلك لأن الإبل والغنم وغيرها إذا جاءت كثيرة مجتمعة، ترى كأنها سواد في خافق الأرض. يقال: "لفلان سواد كثير"، أي مال كثير من إبل وغنم وغيرها. ويقال للشخص الذي يرى من بعيد"سواد"، وفي الحديث: "إذا رأى أحدكم سوادًا بليل، فلا يكن أجبن السوادين، فإنه يخافك كما تخافه"، يعني بالسواد الشخص.]] فإذا بعثت من يقبضه قال:"هذا لي، وهذا لكم"! فإن كان صادقًا أفلا أهدي له وهو في بيت أبيه أو في بيت أمه؟ " ثم قال:"أيها الناس، من بعثناه على عمل فغَلَّ شيئًا، جاء به يوم القيامة على عنقه يحمله، فاتقوا الله أن يأتي أحدكم يوم القيامة على عنقه بعير له رغاء، أو بقرة تخور، أو شاة تثغو". [[انظر التعليق على رقم: ٨١٦١.]]
+
+٨١٦٠- حدثنا أبو كريب قال، حدثنا أبو معاوية وابن نمير وعبدة بن سليمان، عن هشام بن عروة، عن أبيه، عن أبي حميد الساعدي قال: استعمل رسول الله ﷺ رجلا من الأزد يقال له"ابن الأتْبِيَّة" على صدقات بني سليم، فلما جاء قال:"هذا لكم، وهذا هدية أهديت لي". فقال رسول الله ﷺ: أفلا يجلس أحدكم في بيته فتأتيه هديته! ثم حمد الله وأثنى عليه ثم قال:"أما بعد، فإني أستعمل رجالا منكم على أمور مما ولاني الله، فيقول أحدهم: هذا الذي لكم، وهذا هدية أهديت إليّ! أفلا يجلس في بيت أبيه أو في بيت أمه فتأتيه هديته؟ والذي نفسي بيده، لا يأخذ أحدكم من ذلك شيئًا إلا جاء به يوم القيامة يحمله على عنقه، فلا أعرفنَّ ما جاء رجل يحمل بعيرًا له رغاء، [[قوله: "فلا أعرفن"، انظر التعليق السالف ص: ٣٥٨ تعليق: ٤.]] أو بقرة لها خوار، أو شاة تيعر! [[يعرت العنز تيعر (مثل فتح يفتح) يعارًا (بضم الياء) : صوتت صوتًا شديدًا. وكان في المطبوعة: "تثغو"، وهو وإن كان صوابًا في المعنى، فهو خطأ في الرواية، صوابه من المخطوطة، ومن رواية الحديث كما ترى في التخريج.]] ثم رفع يده فقال:"ألا هل بلغت"؟
+
+٨١٦١- حدثنا أبو كريب قال، حدثنا عبد الرحيم، عن هشام بن عروة، عن أبيه، عن أبي حميد، حدثه بمثل هذا الحديث = قال: أفلا جلست في بيت أبيك وأمك حتى تأتيك هديتك؟ ثم رفع يده حتى إني لأنظر إلى بياض إبطيه، ثم قال:"اللهم هل بلغت؟ "= قال أبو حميد: بَصَرُ عيني وسَمْعُ أذني. [[الأحاديث: ٨١٥٩ - ٨١٦١، هي ثلاثة أسانيد لحديث واحد. وعبد الرحيم - في ثالثها هو ابن سليمان الأشل. والحديث رواه أحمد في المسند ٥: ٤٢٣ - ٤٢٤ (حلبي) ، عن سفيان، وهو ابن عيينة، عن الزهري، عن عروة بن الزبير، عن أبي حميد الساعدي، بنحوه. وكذلك رواه البخاري ١٣: ١٤٤ - ١٤٦، ومسلم ٢: ٨٣ - ٨٤، من طريق سفيان بن عيينة. ورواه البخاري أيضًا في مواضع أخر.
+
+ورواه مسلم -عقب تلك الرواية- من أوجه أخر، منها من طريق عبد الرحيم بن سليمان. وذكره ابن كثير: ٢: ٢٨٠ - ٢٨١، من رواية المسند، ثم قال: "أخرجاه (يعني الشيخين) ، من حديث سفيان بن عيينة. . . ومن غير وجه عن الزهري، ومن طرق عن هشام بن عروة - كلاهما عن عروة، به".
+
+قوله: "بصر عيني، وسمع أذني" اختلفوا في ضبطه، فروى على أنه فعل"بصر" (بفتح الباء وضم الصاد""وسمع" فعل. وروى"بصر، وسمع" اسمان. يراد به: "أعلم هذا الكلام يقينًا، أبصرت عيني النبي ﷺ حين تكلم به، وسمعته أذني فلا شك في علمي به"، كما قال النووي في شرح مسلم ١٢: ٢٢٠، ٢٢١.]]
+
+٨١٦٢- حدثنا أحمد بن عبد الرحمن بن وهب وقال، حدثني عمي عبد الله بن وهب قال، أخبرني عمرو بن الحارث: أن موسى بن جبير حدثه: أن عبد الله بن عبد الرحمن بن الحباب الأنصاري حدثه: أن عبد الله بن أنيس حدثه: أنه تذاكر هو وعمر يومًا الصدقة فقال: ألم تسمع رسول الله ﷺ حين ذكر غلول الصدقة:"من غل منها بعيرًا أو شاة، فإنه يحمله يوم القيامة"؟ قال عبد الله بن أنيس: بلى. [[الحديث: ٨١٦٢- موسى بن جبير الأنصاري المدني: مضت ترجمته وتوثيقه في: ٢٩٤١. عبد الله بن عبد الرحمن بن الحباب الأنصاري المدني: تابعي ثقة. ترجمه ابن أبي حاتم ٢ / ٢ / ٩٦. ونقل الحافظ في التهذيب أن البخاري صرح بأنه"سمع عبد الله بن أنيس". عبد الله بن أنيس -بالتصغير- الجهني المدني، حليف الأنصار: صحابي معروف، مترجم في التهذيب، والإصابة.
+
+وهذا الحديث من مسند عمر، ومن مسند عبد الله بن أنيس، لتصريح كل منهما بأنه سمعه من رسول الله ﷺ. ولكن الإمام أحمد لم يذكره في مسند عمر، وذكره في مسند عبد الله بن أنيس فقط.
+
+فرواه أحمد: ١٦١٣١ (ج ٣ ص ٤٩٨ حلبي) ، عن هارون بن معروف، عن عمرو بن الحارث - بهذا الإسناد. وكذلك رواه ابنه عبد الله بن أحمد، عن هارون بن معروف.
+
+ورواه ابن ماجه: ١٨١٠، من طريق عبد الله بن وهب، عن عمرو بن الحارث، به. وقال البوصيري في زوائده: "في إسناده مقال، لأن موسى بن جبير ذكره ابن حبان في الثقات وقال: إنه يخطئ. وقال الذهبي في الكاشف: ثقة، ولم أر لغيرهما فيه كلامًا وعبد الله بن عبد الرحمن: ذكره ابن حبان في الثقات. وباقي رجاله ثقات". ونقله ابن كثير ٢: ٢٨٣، عن هذا الموضع من تفسير الطبري، ثم نسبه أيضًا لابن ماجه، ولم يزد! ففاته أن ينسبه للمسند، وهو أهم.
+
+وذكره السيوطي في الجامع الصغير: ٨٨٨٢، ونسبه لأحمد، والضياء المقدسي، عن عبد الله بن أنيس فقط. وهو عنه وعن عمر، كما بينا.]]
+
+٨١٦٣- حدثنا سعيد بن يحيى الأموي قال، حدثنا أبي قال، حدثنا يحيى بن سعيد الأنصاري، عن نافع، عن ابن عمر: أن رسول الله ﷺ بعث سعد بن عبادة مصدِّقًا، فقال: إياك، يا سعد، أنْ تجيء يوم القيامة ببعير تحمله رغاء! قال: لا آخذه ولا أجئ به! فأعفاه. [[الحديث: ٨١٦٣- سعيد بن يحيى بن سعيد الأموي: مضيا في: ٢٢٥٥ يحيى بن سعيد الأنصاري النجاري: مضى مرارًا، آخرها: ٤٨٠٩. وهذا إسناد صحيح، رجاله رجال الصحيح. وسيأتي تخريج الحديث في الذي بعده.]]
+
+٨١٦٤- حدثنا أحمد بن المغيرة الحمصي أبو حميد قال، حدثنا الربيع بن روح قال، حدثنا ابن عياش قال، حدثني عبيد الله بن عمر بن حفص، عن نافع مولى ابن عمر، عن عبد الله بن عمر، عن النبي ﷺ: أنه استعمل سعد بن عبادة، فأتى النبي ﷺ فسلم عليه، فقال له النبي ﷺ: إياك، يا سعد، أن تجيء يوم القيامة تحمل على عنقك بعيرًا له رغاء! فقال سعد: فإن فعلتُ يا رسول الله، إن ذلك لكائن! قال: نعم! قال سعد: قد علمت يا رسول الله أني أُسأَل فأعْطِى! فأعفنى. فأعفاه. [[الحديث: ٨١٦٤- أحمد بن المغيرة، شيخ الطبري: مضى في: ٣٤٧٣ أني لم أعرفه. وقد زادنا أبو جعفر هنا تعريفًا به، فنسبه"الحمصي"، وأن كنيته"أبو حميد". ولا يزال مع هذا غير معروف لنا. الربيع بن روح الحمصي، أبو روح الحضرمي. ثقة، روى عنه أيضًا أبو حاتم، وقال: "وكان ثقة خيارًا". مترجم في التهذيب، والكبير للبخاري ٢ / ١ / ٢٥٥، وابن أبي حاتم ١ / ٢ / ٤٦١. ابن عياش: هو إسماعيل بن عياش الحمصي، مضى توثيقه في: ٥٤٤٥.
+
+وهذا إسناد صحيح أيضًا، لكن إسماعيل بن عياش لم يخرج له شيء في الصحيحين. والحديث في معنى الذي قبله، أطول في اللفظ قليلا. وذكره الهيثمي في مجمع الزوائد ٣: ٨٦، من حديث ابن عمر، بنحو اللفظ السابق. وقال: "رواه البزار، ورجاله رجال الصحيح".
+
+وذكره ابن كثير ٢: ٢٨٣، عن الرواية الماضية من الطبري. ثم قال: "ثم رواه من طريق عبيد الله، عن نافع، به. نحوه". ولم يروه أحمد في المسند في مسند عبد الله بن عمر، ولكن رواه في مسند"سعد بن عبادة"، من حديثه ٥: ٢٨٥ (حلبي) ، بنحوه -بإسناد صحيح إلى سعيد بن المسيب، عن سعد بن عبادة. وهو إسناد منقطع بين ابن المسيب وابن عبادة. فإن سعد بن عبادة توفي سنة ١٥، وقيل: سنة ١١. وسعيد بن المسيب ولد سنة ١٥، فلم يدركه يقينًا. وكذلك ذكره الهيثمي في مجمع الزوائد ٣: ٨٥، من حديث سعد بن عبادة. وقال: "رواه أحمد، والبزار، والطبراني في الكبير، ورجاله ثقات، إلا أن سعيد بن المسيب لم ير سعد بن عبادة".]]
+
+٨١٦٥- حدثنا أبو كريب قال، حدثنا زيد بن حبان قال، حدثنا عبد الرحمن بن الحارث قال، حدثني جدي عبيد بن أبي عبيد - وكان أول مولود بالمدينة - قال: استعملت على صدقة دَوْس، فجاءني أبو هريرة في اليوم الذي خرجت فيه، فسلَّم، فخرجت إليه فسلمت عليه فقال: كيف أنت والبعير؟ كيف أنت والبقر؟ كيف أنت والغنم؟ ثم قال: سمعت حبِيِّ رسولَ الله ﷺ قال:"من أخذ بعيرًا بغير حقه جاء به يوم القيامة له رغاء، ومن أخذ بقرة بغير حقها جاء بها يوم القيامة لها خوار، ومن أخذ شاة بغير حقها جاء بها يوم القيامة على عنقه لها يعار"، [[في المطبوعة: "لها ثغاء"، وأثبت ما في المخطوطة. قد سلف"اليعار" ص: ٣٦٠، تعليق: ٢.]] فإياك والبقر فإنها أحدُّ قرونًا وأشدُّ أظلافًا. [[الحديث: ٨١٦٥- أبو كريب: هو محمد بن العلاء، الحافظ الثقة. زيد بن حبان: هكذا ثبت في الطبري. وأكاد أجزم بأنه محرف. فليس في الرواة -فيما نعلم- إلا زيد بن حبان الرقى، وهو قديم، مات سنة ١٥٨. فلم يدركه أبو كريب المتوفي سنة ٢٤٨. والراجح عندي أنه محرف عن"زيد بن الحباب العكلي"، الذي يروي عنه كريب كثيرًا. وهو ثقة، مضت ترجمته: ٢١٨٥.
+
+عبد الرحمن بن الحارث بن عبيد بن أبي عبيد: ثقة. قال أبو زرعة: "لا بأس به". وهو مترجم عند ابن أبي حاتم ٢ / ٢ / ٢٢٤، باسم"عبد الرحمن بن الحارث بن أبي عبيد". فقصر في نسبه، إذ حذف اسم جده الأدنى. وقد ثبت نسبه على الصواب في ترجمة جده في التهذيب. ولم أجد لعبد الرحمن هذا ترجمة غيرها. عبيد بن أبي عبيد الغفاري، مولى بني رهم: تابعي ثقة. مترجم في التهذيب، وابن أبي حاتم ٢ / ٢ / ٤١١، وثقات ابن حبان، ص: ٢٦٩ (مخطوط مصور) . وقد خلط ابن أبي حاتم في اسم حفيده"عبد الرحمن بن الحارث" فذكره في ترجمة جده، في الرواة عنه، باسم"عبد الرحمن بن عبيد بن الحارث". والحديث سيأتي عقبه بإسناد آخر.]]
+
+٨١٦٦- حدثنا أبو كريب قال، حدثنا خالد بن مخلد قال، حدثني محمد، عن عبد الرحمن بن الحارث، عن جده عبيد بن أبي عبيد قال: استعملت على صدقة دوس، فلما قضيت العمل قدمت، فجاءني أبو هريرة فسلم علي فقال: أخبرني كيف أنت والإبل = ثم ذكر نحو حديثه عن زيد، إلا أنه قال: جاء به يوم القيامة على عنقه له رُغاء. [[الحديث: ٨١٦٦- خالد بن مخلد: هو القطواني البجلي. مضت ترجمته في: ٢٢٠٦.
+
+وقوله"حدثني محمد" - هكذا ثبت في الطبري. وأكاد أجزم أنه خطأ، زيادة من الناسخين. فإن"خالد بن مخلد" يروي عن"عبد الرحمن بن الحارث بن عبيد" مباشرة، كما ثبت في ترجمة"عبد الرحمن" عند ابن أبي حاتم. وفيه: "سئل أبو زرعة عن عبد الرحمن بن الحارث الذي يحدث عنه خالد بن مخلد القطواني".
+
+ولو كان هذا الراوي"محمد" ثابتا في الإسناد، لبين نسبه أو نحو ذلك، فإن اسم"محمد" أكثر الأسماء دورانًا، فلا يذكر هكذا مجهلا، دون قرينة ترشد عن شخصه. والحديث مكرر ما قبله.
+
+وقد مضى معناه من حديث أبي هريرة، من رواية أبي زرعة بن عمرو بن جرير، عنه: ٨١٥٥ - ٨١٥٧. وأما من هذا الوجه، من رواية عبيد بن أبي عبيد، عنه -: فإني لم أجده في موضع آخر.]]
+
+٨١٦٧- حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا معمر، عن قتادة في قوله:"وما كان لنبي أن يغل ومن يغلل يأت بما غل يوم القيامة"، قال قتادة: كان النبي ﷺ إذا غنم مغنمًا بعث مناديًا:"ألا لا يغلَّن رجلٍ مخْيَطًا فما دونه، [["المخيط" (بكسر الميم وسكون الخاء وفتح الياء) : ما يخاط به، كالإبرة ونحوها.]] ألا لا يغلّنّ رجل بعيرًا فيأتي به على ظهره يوم القيامة له رغاء، ألا لا يغلنّ رجل فرسًا، فيأتي به على ظهره يوم القيامة له حَمْحمة".
+
+* *
+
+القول في تأويل قوله: ﴿ثُمَّ تُوَفَّى كُلُّ نَفْسٍ مَا كَسَبَتْ وَهُمْ لا يُظْلَمُونَ (١٦١) ﴾
+
+قال أبو جعفر: يعني بذلك جل ثناؤه [[في المطبوعة والمخطوطة"يعني بذلك جل ثناؤه"، والصواب يقتضي ما أثبت.]] : "ثم توفى كل نفس"، ثم تعطى كل نفس جزاء ما كسبت بكسبها، وافيًا غير منقوص ما استحقه واستوجبه من ذلك [[انظر تفسير"وفي" فيما سلف ٦: ٤٦٥ - وتفسير"كسب" فيما سلف ص: ٣٢٧، تعليق: ٢، والمراجع هناك.]] ="وهم لا يظلمون"، يقول: لا يفعل بهم إلا الذي ينبغي أن يفعل بهم، من غير أن يعتدي عليهم فينقصوا عما استحقوه. كما:-
+
+٨١٦٨- حدثنا ابن حميد قال، حدثنا سلمة، عن ابن إسحاق:"ثم توفى كل نفس ما كسبت وهم لا يظلمون"، ثم يُجزى بكسبه غير مظلوم ولا متعدًّى عليه. [[الأثر: ٨١٦٨- سيرة ابن هشام ٣: ١٢٤، وهو تتمة الآثار التي آخرها: ٨١٤٨، وفي المطبوعة: "معتدى عليه"، وأثبت ما في المخطوطة، وهو موافق لما في السيرة.]]
 
 ### al-Muyassar (Arabic)
 
@@ -424,9 +600,111 @@ In the book of Ahkam of his Sunan, Abu 'Isa At-Tirmidhi recorded that Mu'adh bin
 
 In addition, Imam Ahmad recorded that Abu Hurayrah said, "The Prophet ﷺ got up among us and mentioned Ghulul and emphasized its magnitude. He then said,
 
-لَا أُلْفِيَنَّ أَحَدَكُمْ يَجِيءُ يَوْمَ الْقِيَامَةِ عَلى رَقَبَتِهِ بَعِيرٌ لَهُ رُغَاءٌ، فَيَقُولُ: يَا رَسُولَ اللهِ أَغِثْنِي، فَأَقُولُ: لَا أَمْلِكُ لَكَ مِنَ اللهِ شَيْئًا، قَدْ أَبْلَغْتُكَ، لَا أُلْفِيَنَّ أَحَدَكُمْ
+لَا أُلْفِيَنَّ أَحَدَكُمْ يَجِيءُ يَوْمَ الْقِيَامَةِ عَلى رَقَبَتِهِ بَعِيرٌ لَهُ رُغَاءٌ، فَيَقُولُ: يَا رَسُولَ اللهِ أَغِثْنِي، فَأَقُولُ: لَا أَمْلِكُ لَكَ مِنَ اللهِ شَيْئًا، قَدْ أَبْلَغْتُكَ، لَا أُلْفِيَنَّ أَحَدَكُمْ يَجِيءُ يَوْمَ الْقِيَامَةِ عَلى رَقَبَتِهِ فَرَسٌ لَهَا حَمْحَمَةٌ، فَيَقُولُ: يَا رَسُولَ اللهِ أَغِثْنِي، فَأَقُولُ: لَا أَمْلِكُ لَكَ مِنَ اللهِ شَيْئًا، قَدْ أَبْلَغْتُكَ، لَا أُلْفِيَنَّ أَحَدَكُمْ يَجِيءُ يَوْمَ الْقِيَامَةِ عَلى رَقَبَتِهِ رِقَاعٌ تَخْفِقُ فَيَقُولُ: يَا رَسُولَ اللهِ أَغِثْنِي، فَأَقُولُ: لَا أَمْلِكُ لَكَ مِنَ اللهِ شَيْئًا، قَدْ أَبْلَغْتُكَ، لَا أُلْفِيَنَّ أَحَدَكُمْ يَجِيءُ يَوْمَ الْقِيَامَةِ عَلى رَقَبَتِهِ صَامِتٌ، فَيقُولُ: يَا رَسُولَ اللهِ أَغِثْنِي، فَأَقُولُ: لَا أَمْلِكُ لَكَ مِنَ اللهِ شَيْئًا، قَدْ أَبْلَغْتُكَ
 
-[TRUNCATED at 12000 chars — 7069 more. Consult the source directly before relying on anything near the cut.]
+(I will not like to see anyone among you on the Day of Resurrection, carrying a grunting camel over his neck. Such a man will say, 'O Allah's Messenger! Intercede on my behalf,' and I will say, 'I can't intercede for you with Allah, for I have conveyed (Allah's Message) to you.' I will not like to see any of you coming on the Day of Resurrection while carrying a neighing horse over his neck. Such a man will be saying, 'O Allah's Messenger! Intercede on my behalf,' and I will reply, 'I can't intercede for you with Allah, for I have conveyed (Allah's Message) to you.' I will not like to see any of you coming on the Day of Resurrection while carrying clothes that will be fluttering, and the man will say, 'O Allah's Messenger! Intercede (with Allah) for me, ' and I will say, 'I can't help you with Allah, for I have conveyed (Allah's Message) to you.' I will not like to see any of you coming on the Day of Resurrection while carrying gold and silver on his neck. This person will say, 'O Allah's Messenger! Intercede (with Allah) for me.' And I will say, 'I can't help you with Allah, for I have conveyed (Allah's Message) to you.')" This Hadith was recorded in the Two Sahihs .
+
+Imam Ahmad recorded that 'Umar bin Al-Khattab said, "During the day (battle) of Khaybar, several Companions of the Messenger of Allah ﷺ came to him and said, 'So-and-so died as a martyr, so-and-so died as a martyr.' When they mentioned a certain man that died as a martyr, the Messenger of Allah ﷺ said,
+
+كَلَّا إِنِّي رَأَيْتُهُ فِي النَّارِ فِي بُرْدَةٍ غَلَّهَا - أَوْ عَبَاءَةٍ
+
+(No. I have seen him in the Fire because of a robe that he stole (from the booty).)
+
+The Messenger of Allah ﷺ then said,
+
+يَا ابْنَ الْخَطَّابِ، اذْهَبْ فَنَادِ فِي النَّاسِ: إِنَّهُ لَا يَدْخُلُ الْجَنَّةَ إِلَّا الْمُؤْمِنُونَ
+
+(O Ibn Al-Khattab! Go and announce to the people that only the faithful shall enter Paradise.)
+
+So I went out and proclaimed that none except the faithful shall enter Paradise." This was recorded by Muslim and At-Tirmidhi, who said "Hasan Sahih".
+
+The Honest and Dishonest are Not Similar
+
+Allah said,
+
+أَفَمَنِ اتَّبَعَ رِضْوَانَ اللَّهِ كَمَن بَاءَ بِسَخَطٍ مِّنَ اللَّهِ وَمَأْوَاهُ جَهَنَّمُ وَبِئْسَ الْمَصِيرُ
+
+(Is then one who follows (seeks) the pleasure of Allah like the one who draws on himself the wrath of Allah? His abode is Hell, and worse indeed is that destination!)[3:162],
+
+This refers to those seeking what pleases Allah by obeying His legislation, thus earning His pleasure and tremendous rewards, while being saved from His severe torment. This type of person is not similar to one who earns Allah's anger, has no means of escaping it and who will reside in Jahannam on the Day of Resurrection, and what an evil destination it is.
+
+There are many similar statements in the Qur'an, such as,
+
+أَفَمَن يَعْلَمُ أَنَّمَا أُنزِلَ إِلَيْكَ مِن رَّبِّكَ الْحَقُّ كَمَنْ هُوَ أَعْمَىٰ
+
+(Shall he then who knows that what has been revealed unto you (O Muhammad ﷺ) from your Lord is the truth be like him who is blind?)[13:19], and,
+
+أَفَمَن وَعَدْنَاهُ وَعْدًا حَسَنًا فَهُوَ لَاقِيهِ كَمَن مَّتَّعْنَاهُ مَتَاعَ الْحَيَاةِ الدُّنْيَا
+
+(Is he whom We have promised an excellent promise (Paradise) which he will find true, like him whom We have made to enjoy the luxuries of the life of (this) world?)[28:61].
+
+Allah then said,
+
+هُمْ دَرَجَاتٌ عِندَ اللَّهِ
+
+(They are in varying grades with Allah,)[3:163] meaning, the people of righteousness and the people of evil are in grades, as Al-Hasan Al-Basri and Muhammad bin Ishaq said. Abu 'Ubaydah and Al-Kisa'i said that this Ayah refers to degrees, meaning there are various degrees and dwellings in Paradise, as well as, various degrees and dwellings in the Fire. In another Ayah, Allah said,
+
+وَلِكُلٍّ دَرَجَاتٌ مِّمَّا عَمِلُوا
+
+(For all there will be degrees (or ranks) according to what they did)[6:132]. Next, Allah said,
+
+وَاللَّهُ بَصِيرٌ بِمَا يَعْمَلُونَ
+
+(and Allah is All-Seer of what they do), and He will compensate or punish them, and will never rid them of a good deed, or increase their evil deeds. Rather, each will be treated according to his deeds.
+
+The Magnificent Blessing in the Advent of Our Prophet Muhammad (ﷺ)
+
+Allah the Most High said:
+
+لَقَدْ مَنَّ اللَّهُ عَلَى الْمُؤْمِنِينَ إِذْ بَعَثَ فِيهِمْ رَسُولًا مِّنْ أَنفُسِهِمْ
+
+(Indeed Allah conferred a great favor on the believers when He sent among them a Messenger from among themselves,)
+
+Meaning, from their own kind, so that it is possible for them to speak with him, ask him questions, associate with him, and benefit from him. Just as Allah said:
+
+وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَاجًا لِّتَسْكُنُوا إِلَيْهَا
+
+(And among His signs is that he created for them mates, that they may find rest in.)[30:21]
+
+Meaning; of their own kind. And Allah said;
+
+قُلْ إِنَّمَا أَنَا بَشَرٌ مِّثْلُكُمْ يُوحَىٰ إِلَيَّ أَنَّمَا إِلَٰهُكُمْ إِلَٰهٌ وَاحِدٌ
+
+(Say: "I am only a man like you. It has been revealed to me that your God is One God")[18:110].
+
+وَمَا أَرْسَلْنَا قَبْلَكَ مِنَ الْمُرْسَلِينَ إِلَّا إِنَّهُمْ لَيَأْكُلُونَ الطَّعَامَ وَيَمْشُونَ فِي الْأَسْوَاقِ
+
+(And We never sent before you any of the Messengers but verily, they ate food and walked in the markets)[25:20].
+
+وَمَا أَرْسَلْنَا مِن قَبْلِكَ إِلَّا رِجَالًا نُّوحِي إِلَيْهِم مِّنْ أَهْلِ الْقُرَىٰ
+
+(And We sent not before you any but men unto whom We revealed, from among the people of townships)[12:109], and,
+
+يَا مَعْشَرَ الْجِنِّ وَالْإِنسِ أَلَمْ يَأْتِكُمْ رُسُلٌ مِّنكُمْ
+
+(O you assembly of Jinn and mankind! "Did not there come to you Messengers from among you…?")[6:130].
+
+Allah's favor is perfected when His Messenger to the people is from their own kind, so that they are able to talk to him and inquire about the meanings of Allah's Word. This is why Allah said,
+
+يَتْلُو عَلَيْهِمْ آيَاتِهِ
+
+(reciting unto them His verses)[3:164], the Qur'an,
+
+وَيُزَكِّيهِمْ
+
+(and purifying them), commanding them to do righteous works and forbidding them from committing evil. This is how their hearts will be purified and cleansed of the sin and evil that used to fill them when they were disbelievers and ignorant.
+
+وَيُعَلِّمُهُمُ الْكِتَابَ وَالْحِكْمَةَ
+
+(and instructing them (in) the Book and the Hikmah,) the Qur'an and the Sunnah,
+
+وَإِن كَانُوا مِن قَبْلُ
+
+(while before that they had been), before sending this Prophet, Muhammad ﷺ,
+
+لَفِي ضَلَالٍ مُّبِينٍ
+
+(in manifest error.) indulging in plain and unequivocal error and ignorance that are clear to everyone.
 
 ### al-Tabari (Arabic)
 
@@ -612,9 +890,111 @@ In the book of Ahkam of his Sunan, Abu 'Isa At-Tirmidhi recorded that Mu'adh bin
 
 In addition, Imam Ahmad recorded that Abu Hurayrah said, "The Prophet ﷺ got up among us and mentioned Ghulul and emphasized its magnitude. He then said,
 
-لَا أُلْفِيَنَّ أَحَدَكُمْ يَجِيءُ يَوْمَ الْقِيَامَةِ عَلى رَقَبَتِهِ بَعِيرٌ لَهُ رُغَاءٌ، فَيَقُولُ: يَا رَسُولَ اللهِ أَغِثْنِي، فَأَقُولُ: لَا أَمْلِكُ لَكَ مِنَ اللهِ شَيْئًا، قَدْ أَبْلَغْتُكَ، لَا أُلْفِيَنَّ أَحَدَكُمْ
+لَا أُلْفِيَنَّ أَحَدَكُمْ يَجِيءُ يَوْمَ الْقِيَامَةِ عَلى رَقَبَتِهِ بَعِيرٌ لَهُ رُغَاءٌ، فَيَقُولُ: يَا رَسُولَ اللهِ أَغِثْنِي، فَأَقُولُ: لَا أَمْلِكُ لَكَ مِنَ اللهِ شَيْئًا، قَدْ أَبْلَغْتُكَ، لَا أُلْفِيَنَّ أَحَدَكُمْ يَجِيءُ يَوْمَ الْقِيَامَةِ عَلى رَقَبَتِهِ فَرَسٌ لَهَا حَمْحَمَةٌ، فَيَقُولُ: يَا رَسُولَ اللهِ أَغِثْنِي، فَأَقُولُ: لَا أَمْلِكُ لَكَ مِنَ اللهِ شَيْئًا، قَدْ أَبْلَغْتُكَ، لَا أُلْفِيَنَّ أَحَدَكُمْ يَجِيءُ يَوْمَ الْقِيَامَةِ عَلى رَقَبَتِهِ رِقَاعٌ تَخْفِقُ فَيَقُولُ: يَا رَسُولَ اللهِ أَغِثْنِي، فَأَقُولُ: لَا أَمْلِكُ لَكَ مِنَ اللهِ شَيْئًا، قَدْ أَبْلَغْتُكَ، لَا أُلْفِيَنَّ أَحَدَكُمْ يَجِيءُ يَوْمَ الْقِيَامَةِ عَلى رَقَبَتِهِ صَامِتٌ، فَيقُولُ: يَا رَسُولَ اللهِ أَغِثْنِي، فَأَقُولُ: لَا أَمْلِكُ لَكَ مِنَ اللهِ شَيْئًا، قَدْ أَبْلَغْتُكَ
 
-[TRUNCATED at 12000 chars — 7069 more. Consult the source directly before relying on anything near the cut.]
+(I will not like to see anyone among you on the Day of Resurrection, carrying a grunting camel over his neck. Such a man will say, 'O Allah's Messenger! Intercede on my behalf,' and I will say, 'I can't intercede for you with Allah, for I have conveyed (Allah's Message) to you.' I will not like to see any of you coming on the Day of Resurrection while carrying a neighing horse over his neck. Such a man will be saying, 'O Allah's Messenger! Intercede on my behalf,' and I will reply, 'I can't intercede for you with Allah, for I have conveyed (Allah's Message) to you.' I will not like to see any of you coming on the Day of Resurrection while carrying clothes that will be fluttering, and the man will say, 'O Allah's Messenger! Intercede (with Allah) for me, ' and I will say, 'I can't help you with Allah, for I have conveyed (Allah's Message) to you.' I will not like to see any of you coming on the Day of Resurrection while carrying gold and silver on his neck. This person will say, 'O Allah's Messenger! Intercede (with Allah) for me.' And I will say, 'I can't help you with Allah, for I have conveyed (Allah's Message) to you.')" This Hadith was recorded in the Two Sahihs .
+
+Imam Ahmad recorded that 'Umar bin Al-Khattab said, "During the day (battle) of Khaybar, several Companions of the Messenger of Allah ﷺ came to him and said, 'So-and-so died as a martyr, so-and-so died as a martyr.' When they mentioned a certain man that died as a martyr, the Messenger of Allah ﷺ said,
+
+كَلَّا إِنِّي رَأَيْتُهُ فِي النَّارِ فِي بُرْدَةٍ غَلَّهَا - أَوْ عَبَاءَةٍ
+
+(No. I have seen him in the Fire because of a robe that he stole (from the booty).)
+
+The Messenger of Allah ﷺ then said,
+
+يَا ابْنَ الْخَطَّابِ، اذْهَبْ فَنَادِ فِي النَّاسِ: إِنَّهُ لَا يَدْخُلُ الْجَنَّةَ إِلَّا الْمُؤْمِنُونَ
+
+(O Ibn Al-Khattab! Go and announce to the people that only the faithful shall enter Paradise.)
+
+So I went out and proclaimed that none except the faithful shall enter Paradise." This was recorded by Muslim and At-Tirmidhi, who said "Hasan Sahih".
+
+The Honest and Dishonest are Not Similar
+
+Allah said,
+
+أَفَمَنِ اتَّبَعَ رِضْوَانَ اللَّهِ كَمَن بَاءَ بِسَخَطٍ مِّنَ اللَّهِ وَمَأْوَاهُ جَهَنَّمُ وَبِئْسَ الْمَصِيرُ
+
+(Is then one who follows (seeks) the pleasure of Allah like the one who draws on himself the wrath of Allah? His abode is Hell, and worse indeed is that destination!)[3:162],
+
+This refers to those seeking what pleases Allah by obeying His legislation, thus earning His pleasure and tremendous rewards, while being saved from His severe torment. This type of person is not similar to one who earns Allah's anger, has no means of escaping it and who will reside in Jahannam on the Day of Resurrection, and what an evil destination it is.
+
+There are many similar statements in the Qur'an, such as,
+
+أَفَمَن يَعْلَمُ أَنَّمَا أُنزِلَ إِلَيْكَ مِن رَّبِّكَ الْحَقُّ كَمَنْ هُوَ أَعْمَىٰ
+
+(Shall he then who knows that what has been revealed unto you (O Muhammad ﷺ) from your Lord is the truth be like him who is blind?)[13:19], and,
+
+أَفَمَن وَعَدْنَاهُ وَعْدًا حَسَنًا فَهُوَ لَاقِيهِ كَمَن مَّتَّعْنَاهُ مَتَاعَ الْحَيَاةِ الدُّنْيَا
+
+(Is he whom We have promised an excellent promise (Paradise) which he will find true, like him whom We have made to enjoy the luxuries of the life of (this) world?)[28:61].
+
+Allah then said,
+
+هُمْ دَرَجَاتٌ عِندَ اللَّهِ
+
+(They are in varying grades with Allah,)[3:163] meaning, the people of righteousness and the people of evil are in grades, as Al-Hasan Al-Basri and Muhammad bin Ishaq said. Abu 'Ubaydah and Al-Kisa'i said that this Ayah refers to degrees, meaning there are various degrees and dwellings in Paradise, as well as, various degrees and dwellings in the Fire. In another Ayah, Allah said,
+
+وَلِكُلٍّ دَرَجَاتٌ مِّمَّا عَمِلُوا
+
+(For all there will be degrees (or ranks) according to what they did)[6:132]. Next, Allah said,
+
+وَاللَّهُ بَصِيرٌ بِمَا يَعْمَلُونَ
+
+(and Allah is All-Seer of what they do), and He will compensate or punish them, and will never rid them of a good deed, or increase their evil deeds. Rather, each will be treated according to his deeds.
+
+The Magnificent Blessing in the Advent of Our Prophet Muhammad (ﷺ)
+
+Allah the Most High said:
+
+لَقَدْ مَنَّ اللَّهُ عَلَى الْمُؤْمِنِينَ إِذْ بَعَثَ فِيهِمْ رَسُولًا مِّنْ أَنفُسِهِمْ
+
+(Indeed Allah conferred a great favor on the believers when He sent among them a Messenger from among themselves,)
+
+Meaning, from their own kind, so that it is possible for them to speak with him, ask him questions, associate with him, and benefit from him. Just as Allah said:
+
+وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَاجًا لِّتَسْكُنُوا إِلَيْهَا
+
+(And among His signs is that he created for them mates, that they may find rest in.)[30:21]
+
+Meaning; of their own kind. And Allah said;
+
+قُلْ إِنَّمَا أَنَا بَشَرٌ مِّثْلُكُمْ يُوحَىٰ إِلَيَّ أَنَّمَا إِلَٰهُكُمْ إِلَٰهٌ وَاحِدٌ
+
+(Say: "I am only a man like you. It has been revealed to me that your God is One God")[18:110].
+
+وَمَا أَرْسَلْنَا قَبْلَكَ مِنَ الْمُرْسَلِينَ إِلَّا إِنَّهُمْ لَيَأْكُلُونَ الطَّعَامَ وَيَمْشُونَ فِي الْأَسْوَاقِ
+
+(And We never sent before you any of the Messengers but verily, they ate food and walked in the markets)[25:20].
+
+وَمَا أَرْسَلْنَا مِن قَبْلِكَ إِلَّا رِجَالًا نُّوحِي إِلَيْهِم مِّنْ أَهْلِ الْقُرَىٰ
+
+(And We sent not before you any but men unto whom We revealed, from among the people of townships)[12:109], and,
+
+يَا مَعْشَرَ الْجِنِّ وَالْإِنسِ أَلَمْ يَأْتِكُمْ رُسُلٌ مِّنكُمْ
+
+(O you assembly of Jinn and mankind! "Did not there come to you Messengers from among you…?")[6:130].
+
+Allah's favor is perfected when His Messenger to the people is from their own kind, so that they are able to talk to him and inquire about the meanings of Allah's Word. This is why Allah said,
+
+يَتْلُو عَلَيْهِمْ آيَاتِهِ
+
+(reciting unto them His verses)[3:164], the Qur'an,
+
+وَيُزَكِّيهِمْ
+
+(and purifying them), commanding them to do righteous works and forbidding them from committing evil. This is how their hearts will be purified and cleansed of the sin and evil that used to fill them when they were disbelievers and ignorant.
+
+وَيُعَلِّمُهُمُ الْكِتَابَ وَالْحِكْمَةَ
+
+(and instructing them (in) the Book and the Hikmah,) the Qur'an and the Sunnah,
+
+وَإِن كَانُوا مِن قَبْلُ
+
+(while before that they had been), before sending this Prophet, Muhammad ﷺ,
+
+لَفِي ضَلَالٍ مُّبِينٍ
+
+(in manifest error.) indulging in plain and unequivocal error and ignorance that are clear to everyone.
 
 ### al-Tabari (Arabic)
 
@@ -800,9 +1180,111 @@ In the book of Ahkam of his Sunan, Abu 'Isa At-Tirmidhi recorded that Mu'adh bin
 
 In addition, Imam Ahmad recorded that Abu Hurayrah said, "The Prophet ﷺ got up among us and mentioned Ghulul and emphasized its magnitude. He then said,
 
-لَا أُلْفِيَنَّ أَحَدَكُمْ يَجِيءُ يَوْمَ الْقِيَامَةِ عَلى رَقَبَتِهِ بَعِيرٌ لَهُ رُغَاءٌ، فَيَقُولُ: يَا رَسُولَ اللهِ أَغِثْنِي، فَأَقُولُ: لَا أَمْلِكُ لَكَ مِنَ اللهِ شَيْئًا، قَدْ أَبْلَغْتُكَ، لَا أُلْفِيَنَّ أَحَدَكُمْ
+لَا أُلْفِيَنَّ أَحَدَكُمْ يَجِيءُ يَوْمَ الْقِيَامَةِ عَلى رَقَبَتِهِ بَعِيرٌ لَهُ رُغَاءٌ، فَيَقُولُ: يَا رَسُولَ اللهِ أَغِثْنِي، فَأَقُولُ: لَا أَمْلِكُ لَكَ مِنَ اللهِ شَيْئًا، قَدْ أَبْلَغْتُكَ، لَا أُلْفِيَنَّ أَحَدَكُمْ يَجِيءُ يَوْمَ الْقِيَامَةِ عَلى رَقَبَتِهِ فَرَسٌ لَهَا حَمْحَمَةٌ، فَيَقُولُ: يَا رَسُولَ اللهِ أَغِثْنِي، فَأَقُولُ: لَا أَمْلِكُ لَكَ مِنَ اللهِ شَيْئًا، قَدْ أَبْلَغْتُكَ، لَا أُلْفِيَنَّ أَحَدَكُمْ يَجِيءُ يَوْمَ الْقِيَامَةِ عَلى رَقَبَتِهِ رِقَاعٌ تَخْفِقُ فَيَقُولُ: يَا رَسُولَ اللهِ أَغِثْنِي، فَأَقُولُ: لَا أَمْلِكُ لَكَ مِنَ اللهِ شَيْئًا، قَدْ أَبْلَغْتُكَ، لَا أُلْفِيَنَّ أَحَدَكُمْ يَجِيءُ يَوْمَ الْقِيَامَةِ عَلى رَقَبَتِهِ صَامِتٌ، فَيقُولُ: يَا رَسُولَ اللهِ أَغِثْنِي، فَأَقُولُ: لَا أَمْلِكُ لَكَ مِنَ اللهِ شَيْئًا، قَدْ أَبْلَغْتُكَ
 
-[TRUNCATED at 12000 chars — 7069 more. Consult the source directly before relying on anything near the cut.]
+(I will not like to see anyone among you on the Day of Resurrection, carrying a grunting camel over his neck. Such a man will say, 'O Allah's Messenger! Intercede on my behalf,' and I will say, 'I can't intercede for you with Allah, for I have conveyed (Allah's Message) to you.' I will not like to see any of you coming on the Day of Resurrection while carrying a neighing horse over his neck. Such a man will be saying, 'O Allah's Messenger! Intercede on my behalf,' and I will reply, 'I can't intercede for you with Allah, for I have conveyed (Allah's Message) to you.' I will not like to see any of you coming on the Day of Resurrection while carrying clothes that will be fluttering, and the man will say, 'O Allah's Messenger! Intercede (with Allah) for me, ' and I will say, 'I can't help you with Allah, for I have conveyed (Allah's Message) to you.' I will not like to see any of you coming on the Day of Resurrection while carrying gold and silver on his neck. This person will say, 'O Allah's Messenger! Intercede (with Allah) for me.' And I will say, 'I can't help you with Allah, for I have conveyed (Allah's Message) to you.')" This Hadith was recorded in the Two Sahihs .
+
+Imam Ahmad recorded that 'Umar bin Al-Khattab said, "During the day (battle) of Khaybar, several Companions of the Messenger of Allah ﷺ came to him and said, 'So-and-so died as a martyr, so-and-so died as a martyr.' When they mentioned a certain man that died as a martyr, the Messenger of Allah ﷺ said,
+
+كَلَّا إِنِّي رَأَيْتُهُ فِي النَّارِ فِي بُرْدَةٍ غَلَّهَا - أَوْ عَبَاءَةٍ
+
+(No. I have seen him in the Fire because of a robe that he stole (from the booty).)
+
+The Messenger of Allah ﷺ then said,
+
+يَا ابْنَ الْخَطَّابِ، اذْهَبْ فَنَادِ فِي النَّاسِ: إِنَّهُ لَا يَدْخُلُ الْجَنَّةَ إِلَّا الْمُؤْمِنُونَ
+
+(O Ibn Al-Khattab! Go and announce to the people that only the faithful shall enter Paradise.)
+
+So I went out and proclaimed that none except the faithful shall enter Paradise." This was recorded by Muslim and At-Tirmidhi, who said "Hasan Sahih".
+
+The Honest and Dishonest are Not Similar
+
+Allah said,
+
+أَفَمَنِ اتَّبَعَ رِضْوَانَ اللَّهِ كَمَن بَاءَ بِسَخَطٍ مِّنَ اللَّهِ وَمَأْوَاهُ جَهَنَّمُ وَبِئْسَ الْمَصِيرُ
+
+(Is then one who follows (seeks) the pleasure of Allah like the one who draws on himself the wrath of Allah? His abode is Hell, and worse indeed is that destination!)[3:162],
+
+This refers to those seeking what pleases Allah by obeying His legislation, thus earning His pleasure and tremendous rewards, while being saved from His severe torment. This type of person is not similar to one who earns Allah's anger, has no means of escaping it and who will reside in Jahannam on the Day of Resurrection, and what an evil destination it is.
+
+There are many similar statements in the Qur'an, such as,
+
+أَفَمَن يَعْلَمُ أَنَّمَا أُنزِلَ إِلَيْكَ مِن رَّبِّكَ الْحَقُّ كَمَنْ هُوَ أَعْمَىٰ
+
+(Shall he then who knows that what has been revealed unto you (O Muhammad ﷺ) from your Lord is the truth be like him who is blind?)[13:19], and,
+
+أَفَمَن وَعَدْنَاهُ وَعْدًا حَسَنًا فَهُوَ لَاقِيهِ كَمَن مَّتَّعْنَاهُ مَتَاعَ الْحَيَاةِ الدُّنْيَا
+
+(Is he whom We have promised an excellent promise (Paradise) which he will find true, like him whom We have made to enjoy the luxuries of the life of (this) world?)[28:61].
+
+Allah then said,
+
+هُمْ دَرَجَاتٌ عِندَ اللَّهِ
+
+(They are in varying grades with Allah,)[3:163] meaning, the people of righteousness and the people of evil are in grades, as Al-Hasan Al-Basri and Muhammad bin Ishaq said. Abu 'Ubaydah and Al-Kisa'i said that this Ayah refers to degrees, meaning there are various degrees and dwellings in Paradise, as well as, various degrees and dwellings in the Fire. In another Ayah, Allah said,
+
+وَلِكُلٍّ دَرَجَاتٌ مِّمَّا عَمِلُوا
+
+(For all there will be degrees (or ranks) according to what they did)[6:132]. Next, Allah said,
+
+وَاللَّهُ بَصِيرٌ بِمَا يَعْمَلُونَ
+
+(and Allah is All-Seer of what they do), and He will compensate or punish them, and will never rid them of a good deed, or increase their evil deeds. Rather, each will be treated according to his deeds.
+
+The Magnificent Blessing in the Advent of Our Prophet Muhammad (ﷺ)
+
+Allah the Most High said:
+
+لَقَدْ مَنَّ اللَّهُ عَلَى الْمُؤْمِنِينَ إِذْ بَعَثَ فِيهِمْ رَسُولًا مِّنْ أَنفُسِهِمْ
+
+(Indeed Allah conferred a great favor on the believers when He sent among them a Messenger from among themselves,)
+
+Meaning, from their own kind, so that it is possible for them to speak with him, ask him questions, associate with him, and benefit from him. Just as Allah said:
+
+وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَاجًا لِّتَسْكُنُوا إِلَيْهَا
+
+(And among His signs is that he created for them mates, that they may find rest in.)[30:21]
+
+Meaning; of their own kind. And Allah said;
+
+قُلْ إِنَّمَا أَنَا بَشَرٌ مِّثْلُكُمْ يُوحَىٰ إِلَيَّ أَنَّمَا إِلَٰهُكُمْ إِلَٰهٌ وَاحِدٌ
+
+(Say: "I am only a man like you. It has been revealed to me that your God is One God")[18:110].
+
+وَمَا أَرْسَلْنَا قَبْلَكَ مِنَ الْمُرْسَلِينَ إِلَّا إِنَّهُمْ لَيَأْكُلُونَ الطَّعَامَ وَيَمْشُونَ فِي الْأَسْوَاقِ
+
+(And We never sent before you any of the Messengers but verily, they ate food and walked in the markets)[25:20].
+
+وَمَا أَرْسَلْنَا مِن قَبْلِكَ إِلَّا رِجَالًا نُّوحِي إِلَيْهِم مِّنْ أَهْلِ الْقُرَىٰ
+
+(And We sent not before you any but men unto whom We revealed, from among the people of townships)[12:109], and,
+
+يَا مَعْشَرَ الْجِنِّ وَالْإِنسِ أَلَمْ يَأْتِكُمْ رُسُلٌ مِّنكُمْ
+
+(O you assembly of Jinn and mankind! "Did not there come to you Messengers from among you…?")[6:130].
+
+Allah's favor is perfected when His Messenger to the people is from their own kind, so that they are able to talk to him and inquire about the meanings of Allah's Word. This is why Allah said,
+
+يَتْلُو عَلَيْهِمْ آيَاتِهِ
+
+(reciting unto them His verses)[3:164], the Qur'an,
+
+وَيُزَكِّيهِمْ
+
+(and purifying them), commanding them to do righteous works and forbidding them from committing evil. This is how their hearts will be purified and cleansed of the sin and evil that used to fill them when they were disbelievers and ignorant.
+
+وَيُعَلِّمُهُمُ الْكِتَابَ وَالْحِكْمَةَ
+
+(and instructing them (in) the Book and the Hikmah,) the Qur'an and the Sunnah,
+
+وَإِن كَانُوا مِن قَبْلُ
+
+(while before that they had been), before sending this Prophet, Muhammad ﷺ,
+
+لَفِي ضَلَالٍ مُّبِينٍ
+
+(in manifest error.) indulging in plain and unequivocal error and ignorance that are clear to everyone.
 
 ### al-Tabari (Arabic)
 

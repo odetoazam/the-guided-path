@@ -162,9 +162,15 @@ Imam Ahmad narrated from Ibn 'Abbas that 'Umar said: "Allah sent Muhammad ﷺ wi
 
 لَا تُطْرُونِي كَمَا أُطْرِيَ عِيسَى ابْنُ مَرْيَمَ عَلَيْهِ الصَّلَاةُ وَالسَّلَامُ، فَإِنَّمَا أَنَا عَبْدُاللهِ، فَقُولُوا: عَبْدُهُ وَرَسُولُهُ
 
-(Do not exaggerate in praising me as 'Isa bin Maryam was praised upon him be peace
+(Do not exaggerate in praising me as 'Isa bin Maryam was praised upon him be peace and blessings. I am just a servant of Allah. Say, "He is His servant and Messenger.") Or Ma'mar may have said:
 
-[TRUNCATED at 12000 chars — 502 more. Consult the source directly before relying on anything near the cut.]
+كَمَا أَطْرَتِ النَّصَارَى ابْنَ مَرْيَمَ
+
+(As the Christians praised the son of Maryam.) This was also narrated in another Hadith:
+
+ثَلَاثٌ فِي النَّاسِ كُفْرٌ: الطَّعْنُ فِي النَّسَبِ، وَالنِّيَاحَةُ عَلَى الْمَيِّتِ، وَالْاسْتِسْقَاءُ بِالنُّجُومِ
+
+(Three things that people do are parts of disbelief: slandering a person's lineage, wailing over the dead and seeking rain by the stars.)
 
 ### al-Tabari (Arabic)
 
@@ -394,9 +400,15 @@ Imam Ahmad narrated from Ibn 'Abbas that 'Umar said: "Allah sent Muhammad ﷺ wi
 
 لَا تُطْرُونِي كَمَا أُطْرِيَ عِيسَى ابْنُ مَرْيَمَ عَلَيْهِ الصَّلَاةُ وَالسَّلَامُ، فَإِنَّمَا أَنَا عَبْدُاللهِ، فَقُولُوا: عَبْدُهُ وَرَسُولُهُ
 
-(Do not exaggerate in praising me as 'Isa bin Maryam was praised upon him be peace
+(Do not exaggerate in praising me as 'Isa bin Maryam was praised upon him be peace and blessings. I am just a servant of Allah. Say, "He is His servant and Messenger.") Or Ma'mar may have said:
 
-[TRUNCATED at 12000 chars — 502 more. Consult the source directly before relying on anything near the cut.]
+كَمَا أَطْرَتِ النَّصَارَى ابْنَ مَرْيَمَ
+
+(As the Christians praised the son of Maryam.) This was also narrated in another Hadith:
+
+ثَلَاثٌ فِي النَّاسِ كُفْرٌ: الطَّعْنُ فِي النَّسَبِ، وَالنِّيَاحَةُ عَلَى الْمَيِّتِ، وَالْاسْتِسْقَاءُ بِالنُّجُومِ
+
+(Three things that people do are parts of disbelief: slandering a person's lineage, wailing over the dead and seeking rain by the stars.)
 
 ### al-Tabari (Arabic)
 

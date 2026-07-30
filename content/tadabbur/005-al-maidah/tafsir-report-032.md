@@ -148,8 +148,9 @@ A Hadith states that the Prophet ﷺ said,
 
 مَا مِنْ ذَنْبٍ أَجْدَرُ أَنْ يُعَجِّلَ اللهُ عُقُوبَتَهُ فِي الدُّنْيَا مَعَ مَا يَدَّخِرُ لِصَاحِبهِ فِي الْآخِرَةِ مِنَ الْبَغْيِ وَقَطِيعَةِ الرَّحِمِ
 
+(There is no sin that is more worthy of Allah hastening its punishment in this life, in addition to what He has in store for its offender in the Hereafter, more than transgression and cutting the relations of the womb.)
 
-[TRUNCATED at 12000 chars — 303 more. Consult the source directly before relying on anything near the cut.]
+The act of Qabil included both of these. We are Allah's and to Him is our return.
 
 ### al-Tabari (Arabic)
 
@@ -223,9 +224,83 @@ A Hadith states that the Prophet ﷺ said,
 
 * *
 
-قال أبو جعفر: وأولى القولين في ذلك عندي بالصواب، أن اللذين قرّبا القربان كانا ابني آدم لص
+قال أبو جعفر: وأولى القولين في ذلك عندي بالصواب، أن اللذين قرّبا القربان كانا ابني آدم لصلبه، لا من ذرّيته من بني إسرائيل. وذلك أن الله عز وجل يتعالى عن أن يخاطب عبادَه بما لا يفيدهم به فائدة، والمخاطبون بهذه الآية كانوا عالمين أن تقريبَ القربان لله لم يكن إلا في ولد آدم، دون الملائكة والشياطين وسائرِ الخلق غيرهم. فإذْ كان معلومًا ذلك عندهم، فمعقول أنه لو لم يكن معنيًّا بِ"ابني آدم" اللذين ذكرهما الله في كتابه، ابناهُ لصلبه، لم يفدْهم بذكره جل جلاله إياهما فائدة لم تكن عندهم. وإذْ كان غيرَ جائز أن يخاطبهم خطابًا لا يفيدهم به معنًى، فمعلوم أنه عَنى بـ"ابني آدم"، [ابني آدم لصلبه] ، لا بَنِي بنيه الذين بَعُد منه نسبهم، [[في المطبوعة، بغير الزيادة التي بين القوسين. أما المخطوطة، فكانت العبارة غير مستقيمة، كتب هكذا: "أنه عني بابني آدم لصلبه بني بنيه الذين بعد منه نسبهم" فالصواب زيادة ما زدته بين القوسين، وزيادة"لا" كما فعل في المطبوعة السابقة.]] مع إجماع أهل الأخبار والسير والعلم بالتأويل، على أنهما كانا ابني آدم لصلبه، وفي عهد آدم وزمانه، وكفى بذلك شاهدا.
 
-[TRUNCATED at 12000 chars — 5884 more. Consult the source directly before relying on anything near the cut.]
+* *
+
+وقد ذكرنا كثيًرا ممن نُصَّ عنه القول بذلك، وسنذكر كثيرًا ممن لم يذكر إن شاء الله.
+
+١١٧٢٠ - حدثنا مجاهد بن موسى قال، حدثنا يزيد بن هارون قال، حدثنا حسام بن المِصَكّ، عن عمار الدهني، عن سالم بن أبي الجعد قال: لما قتل ابن آدم أخاه، مكث آدم مائة سنة حزينًا لا يضحك، ثم أتي فقيل له: حيّاك الله وبيّاك! = فقال:"بياك"، أضحكك. [[الأثر: ١١٧٢٠-"حسام بن مصك بن ظالم بن شيطان الأزدي". روى عن الحسن. وابن سيرين، وقتادة، ونافع مولى ابن عمر. روى عنه أبو داود الطيالسي، وهشيم، ويزيد بن هرون، وغيرهم. ضعفوه، حتى قال ابن معين: "كان كثير الخطأ، فاحش الوهم، حتى خرج عن حد الاحتجاج به". مترجم في التهذيب.]]
+
+١١٧٢١ - حدثنا ابن حميد قال، حدثنا سلمة، عن غياث بن إبراهيم، عن أبي إسحاق الهمداني قال، قال علي بن أبي طالب رضوان الله عليه: لما قتل ابن آدم أخاه، بكى آدم فقال:
+
+تَغَيَّرَتِ الْبِلادُ وَمَنْ عَلَيْهَا ... فَلَوْنُ الأَرْضِ مُغْبَرٌّ قَبِيحُ
+
+تَغَيَّرَ كُلُّ ذِي لَوْنٍ وَطَعْمٍ ... وَقَلَّ بَشَاشَةُ الْوَجْهِ الْمَلِيحِ
+
+فأجيب آدم عليه السلام:
+
+أَبَا هَابِيلَ قَدْ قُتِلا جَمِيعًا ... وَصَارَ الْحَيُّ كَالْمَيْتِ الذَّبِيحِ
+
+وَجَاءَ بِشِرَّةٍ قَدْ كَانَ مِنْهَا ... عَلَى خَوْفٍ، فَجَاءَ بِهَا يَصِيحُ [[الأثر: ١١٧٢١-"غياث بن إبراهيم النخعي، الكوفي"، قال يحيى بن معين: "كذاب خبيث". وقال خالد بن الهياج: "سمعت أبي يقول: رأيت غياث بن إبراهيم، ولو طار على رأسه غراب لجاء فيه بحديث! وقال: إنه كان كذابًا يضع الحديث من ذات نفسه". مترجم في الكبير ٤/١/١٠٩، وابن أبي حاتم ٣/٢/٥٧، وفي لسان الميزان، وميزان الاعتدال.
+
+وفي المخطوطة والمطبوعة، سقط من الإسناد"عن غياث بن إبراهيم"، وزدته من إسناد أبي جعفر في تاريخه ١: ٧٢، وروى الخبر هناك.]]
+
+* *
+
+قال أبو جعفر: وأما القول في تقريبهما ما قرَّبا، فإن الصواب فيه من القول أن يقال: إن الله عز ذكره أخبرَ عبادَه عنهما أنهما قد قربا، ولم يخبر أن تقريبهما ما قرّبا كان عن أمر الله إياهما به، ولا عن غير أمره. وجائز أن يكون كان عن أمر الله إياهما بذلك= وجائز أن يكون عن غير أمره. غير أنه أيّ ذلك كان، فلم يقرّبا ذلك إلا طلب قرْبةٍ إلى الله إن شاء الله.
+
+* *
+
+وأما تأويل قوله:"قال لأقتلنك"، فإن معناه: قال الذي لم يُتَقَبَّل منه قربانه، للذي تُقُبّل منه قربانه:"لأقتلنك"، فترك ذكر:"المتقبل قربانه" و"المردود عليه قربانه"، استغناء بما قد جرى من ذكرهما عن إعادته. وكذلك ترك ذكر"المتقبل قربانه" مع قوله،"قال إنما يتقبل الله من المتقين".
+
+* *
+
+وبنحو ما قلنا في ذلك روي الخبر عن ابن عباس.
+
+١١٧٢٢ - حدثنا محمد بن سعد قال، حدثني أبي قال، حدثني عمي قال، حدثني أبي، عن أبيه، عن ابن عباس:"قال لأقتلنك"، فقال له أخوه: ما ذنبي؟ إنما يتقبل الله من المتقين. [[الأثر: ١١٧٢٢- هذا ختام الأثر السالف رقم: ١١٧٠٦.]]
+
+١١٧٢٣ - حدثني يونس قال، أخبرنا ابن وهب قال، قال ابن زيد في قوله:"إنما يتقبل الله من المتقين"، قال يقول: إنك لو اتقيت الله في قربانك تُقُبل منك، جئت بقربانٍ مغشوش بأشرِّ ما عندك، [[قوله: "بأشر ما عندك"، أي: "بشر ما عندك"، وهي لغة قليلة. وقد مضت في الخبر رقم: ٥٠٨٠، وانظر التعليق هناك: ٥: ٨٥، تعليق: ١.]] وجئت أنا بقربان طيِّب بخير ما عندي. قال: وكان قال: يتقبل الله منك ولا يتقبل مني!
+
+* *
+
+ويعني بقوله:"من المتقين"، من الذين اتقوا الله وخافوه، بأداء ما كلفهم من فرائضه، واجتناب ما نهاهم عنه من معصيته. [[انظر تفسير"اتقى" فيما سلف من فهارس اللغة (وقى) .]]
+
+* *
+
+وقد قال جماعة من أهل التأويل:"المتقون" في هذا الموضع، الذين اتقوا الشرك.
+
+ذكر من قال ذلك:
+
+١١٧٢٤ - حدثنا ابن حميد قال، حدثنا يحيى بن واضح قال، حدثنا عبيد بن سليمان، عن الضحاك قوله:"إنما يتقبل الله من المتقين"، الذين يتقون الشرك.
+
+* *
+
+وقد بينا معنى"القربان" فيما مضى= وأنه"الفعلان" من قول القائل:"قرَّب"، كما"الفُرْقان""الفعلان" من"فرق"، و"العُدْوان" من"عدا". [[انظر ما سلف ٧: ٤٤٨.]]
+
+* *
+
+وكانت قرابين الأمم الماضية قبل أمَّتنا، كالصدقات والزكوات فينا، غير أن قرابينهم كان يُعْلم المتقبل منها وغير المتقبَّل =فيما ذكر= بأكل النار ما تُقُبل منها، وترك النار ما لم يُتقبّل منها. [[انظر الأثرين السالفين: ٨٣١٠، ٨٣١١.]] و"القربان" في أمّتنا، الأعمال الصالحة، من الصَّلاة، والصيام، والصدقة على أهل المسكنة، وأداءِ الزكاة المفروضة. ولا سبيل لها إلى العلم في عاجلٍ بالمتقبَّل منها والمردود. [[قوله: "لها"، الضمير عائد إلى قوله: "أمتنا".]]
+
+* *
+
+وقد ذكر عن عامر بن عبد الله العنبري، أنه حين حضرته الوفاة بَكى، فقيل له: ما يبكيك؟ فقد كنتَ وكنتَ! فقال: يبكيني أنّي أسمع الله يقول:"إنما يتقبل الله من المتقين".
+
+١١٧٢٥ - حدثني بذلك محمد بن عمر المقدمي قال، حدثني سعيد بن عامر، عن همّام، عمن ذكره، عن عامر. [[الأثر: ١١٧٢٥-"محمد بن عمر بن علي بن عطاء المقدمي"، مضى برقم: ٦٢٢٥، ٦٨٠٩.
+
+و"سعيد بن عامر الضبعي"، ثقة مأمون. مترجم في التهذيب.
+
+و"همام" هو"همام بن يحيى بن دينار الأزدي"، ثقة صدوق. مترجم في التهذيب.
+
+و"عامر بن عبد الله العنبري"، هو"عامر بن عبد الله بن عبد قيس العنبري"، ويقال: "عامر بن عبد قيس"، أحد الزهاد الثمانية، وهم: "عامر بن عبد الله بن عبد قيس، وأويس القرني، وهرم بن حبان، والربيع بن خثيم، ومسروق بن الأجدع، والأسود بن يزيد، وأبو مسلم الخولاني، والحسن بن أبي الحسن البصري". انظر ترجمته في حلية الأولياء ٢: ٨٧-٩٥، وكتاب الزهد لأحمد بن حنبل: ٢١٨- ٢٢٨. ولم أجد هذا الخبر في أخباره في الكتابين.]]
+
+* *
+
+وقد قال بعضهم: قربان المتقين، الصلاة.
+
+١١٧٢٦ - حدثنا ابن وكيع قال، حدثنا حفص بن غياث، عن عمران بن سليمان، عن عدي بن ثابت قال: كان قربان المتّقين، الصلاة. [[الأثر: ١١٧٢٦-"عمران بن سليمان القيسي"، ذكره ابن حبان في الثقات. مترجم في لسان الميزان.
+
+و"عدي بن ثابت الأنصاري"، ثقة، إلا أنه كان يتشيع. مات سنة ١١٦. مترجم في التهذيب.]]
 
 ### al-Muyassar (Arabic)
 
@@ -379,8 +454,9 @@ A Hadith states that the Prophet ﷺ said,
 
 مَا مِنْ ذَنْبٍ أَجْدَرُ أَنْ يُعَجِّلَ اللهُ عُقُوبَتَهُ فِي الدُّنْيَا مَعَ مَا يَدَّخِرُ لِصَاحِبهِ فِي الْآخِرَةِ مِنَ الْبَغْيِ وَقَطِيعَةِ الرَّحِمِ
 
+(There is no sin that is more worthy of Allah hastening its punishment in this life, in addition to what He has in store for its offender in the Hereafter, more than transgression and cutting the relations of the womb.)
 
-[TRUNCATED at 12000 chars — 303 more. Consult the source directly before relying on anything near the cut.]
+The act of Qabil included both of these. We are Allah's and to Him is our return.
 
 ### al-Tabari (Arabic)
 
@@ -566,8 +642,9 @@ A Hadith states that the Prophet ﷺ said,
 
 مَا مِنْ ذَنْبٍ أَجْدَرُ أَنْ يُعَجِّلَ اللهُ عُقُوبَتَهُ فِي الدُّنْيَا مَعَ مَا يَدَّخِرُ لِصَاحِبهِ فِي الْآخِرَةِ مِنَ الْبَغْيِ وَقَطِيعَةِ الرَّحِمِ
 
+(There is no sin that is more worthy of Allah hastening its punishment in this life, in addition to what He has in store for its offender in the Hereafter, more than transgression and cutting the relations of the womb.)
 
-[TRUNCATED at 12000 chars — 303 more. Consult the source directly before relying on anything near the cut.]
+The act of Qabil included both of these. We are Allah's and to Him is our return.
 
 ### al-Tabari (Arabic)
 
@@ -799,8 +876,9 @@ A Hadith states that the Prophet ﷺ said,
 
 مَا مِنْ ذَنْبٍ أَجْدَرُ أَنْ يُعَجِّلَ اللهُ عُقُوبَتَهُ فِي الدُّنْيَا مَعَ مَا يَدَّخِرُ لِصَاحِبهِ فِي الْآخِرَةِ مِنَ الْبَغْيِ وَقَطِيعَةِ الرَّحِمِ
 
+(There is no sin that is more worthy of Allah hastening its punishment in this life, in addition to what He has in store for its offender in the Hereafter, more than transgression and cutting the relations of the womb.)
 
-[TRUNCATED at 12000 chars — 303 more. Consult the source directly before relying on anything near the cut.]
+The act of Qabil included both of these. We are Allah's and to Him is our return.
 
 ### al-Tabari (Arabic)
 
@@ -1024,8 +1102,9 @@ A Hadith states that the Prophet ﷺ said,
 
 مَا مِنْ ذَنْبٍ أَجْدَرُ أَنْ يُعَجِّلَ اللهُ عُقُوبَتَهُ فِي الدُّنْيَا مَعَ مَا يَدَّخِرُ لِصَاحِبهِ فِي الْآخِرَةِ مِنَ الْبَغْيِ وَقَطِيعَةِ الرَّحِمِ
 
+(There is no sin that is more worthy of Allah hastening its punishment in this life, in addition to what He has in store for its offender in the Hereafter, more than transgression and cutting the relations of the womb.)
 
-[TRUNCATED at 12000 chars — 303 more. Consult the source directly before relying on anything near the cut.]
+The act of Qabil included both of these. We are Allah's and to Him is our return.
 
 ### al-Tabari (Arabic)
 
@@ -1217,9 +1296,57 @@ So they went as directed, and after they drank from the camels' milk and urine, 
 
 (...for its expiation feed ten of the poor, on a scale of the average of that with which you feed your own families, or clothe them, or free a slave.)
 
-All of these Ayat offer a choice, just as the Ayah
+All of these Ayat offer a choice, just as the Ayah above. As for Allah's statement,
 
-[TRUNCATED at 12000 chars — 7898 more. Consult the source directly before relying on anything near the cut.]
+أَوْ يُنفَوْا مِنَ الْأَرْضِ
+
+(or be exiled from the land.)[5:33] some said that it means, he is actively pursued until he is captured, and thus receives his prescribed punishment, or otherwise he escapes from the land of Islam, as Ibn Jarir recorded from Ibn 'Abbas, Anas bin Malik, Sa'id bin Jubayr, Ad-Dahhak, Ar-Rabi' bin Anas, Az-Zuhri, Al-Layth bin Sa'd and Malik bin Anas. Some said that the Ayah means these people are expelled to another land, or to another state by the Muslims authorities. Sa'id bin Jubayr, Abu Ash-Sha'tha', Al-Hasan, Az-Zuhri, Ad-Dahhak and Muqatil bin Hayyan said that he is expelled, but not outside of the land of Islam, while others said that he is to be imprisoned. Allah's statement,
+
+ذَٰلِكَ لَهُمْ خِزْيٌ فِي الدُّنْيَا وَلَهُمْ فِي الْآخِرَةِ عَذَابٌ عَظِيمٌ
+
+(That is their disgrace in this world, and a great torment is theirs in the Hereafter.)[5:33] means, the punishment We prescribed, killing these aggressors, crucifying them, cutting off their hands and feet on opposite sides, or expelling them from the land is a disgrace for them among mankind in this life, along with the tremendous torment Allah has prepared for them in the Hereafter. This view supports the opinion that these Ayat were revealed about the idolators. As for Muslims, in his Sahih, Muslim recorded that 'Ubadah bin As-Samit said, "The Messenger of Allah ﷺ took the same pledge from us that he also took from women: That we do not associate anything with Allah in worship, we do not steal, commit adultery, or kill our children, and that we do not spread falsehood about each other. He said that he who keeps this pledge, then his reward will be with Allah. He who falls into shortcomings and was punished, then this will be his expiation. And those whose errors were covered by Allah, then their matter is for Allah: If He wills, He will punish them and If He wills, He will pardon them." 'Ali narrated that the Messenger of Allah ﷺ said,
+
+مَنْ أَذْنَبَ ذَنْبًا فِي الدُّنْيَا فَعُوقِبَ بِهِ، فَاللهُ أَعْدَلُ مِنْ أَنْ يُثَنِّيَ عُقُوبَتَهُ عَلى عَبْدِهِ، وَمَنْ أَذْنَبَ ذَنْبًا فِي الدُّنْيَا فَسَتَرهُ اللهُ عَلَيْهِ وَعَفَا عَنْهُ، فَاللهُ أَكْرَمُ مِنْ أَنْ يَعُودَ عَلَيْهِ فِي شَيْءٍ قَدْ عَفَا عَنْهُ
+
+(He who sins in this life and was punished for it, then Allah is far more just than to combine two punishments on His servant. He who commits an error in this life and Allah hides this error and pardons him, then Allah is far more generous than to punish the servant for something that He has already pardoned.)
+
+Recorded by Ahmad, Ibn Majah and At-Tirmidhi who said, "Hasan Gharib."Al-Hafiz Ad-Daraqutni was asked about this Hadith, and he said that it was related to the Prophet ﷺ in some narrations, and it was related to the Companions in others, and that this narration from the Prophet ﷺ is Sahih. Ibn Jarir commented on Allah's statement,
+
+ذَٰلِكَ لَهُمْ خِزْيٌ فِي الدُّنْيَا
+
+(That is their disgrace in this world,) "Meaning, shame, humiliation, punishment, contempt and torment in this life, before the Hereafter,
+
+وَلَهُمْ فِي الْآخِرَةِ عَذَابٌ عَظِيمٌ
+
+(and a great torment is theirs in the Hereafter.) if they do not repent from these errors until death overcomes them. In this case, they will be stricken by the punishment that We prescribed for them in this life and the torment that We prepared for them therein,
+
+عَذَابٌ عَظِيمٌ
+
+(a great torment) in the Fire of Jahannam."
+
+The Punishment of those who Wage War Against Allah and His Messenger is Annulled if They Repent Before their Apprehension
+
+Allah said,
+
+إِلَّا الَّذِينَ تَابُوا مِن قَبْلِ أَن تَقْدِرُوا عَلَيْهِمْ فَاعْلَمُوا أَنَّ اللَّهَ غَفُورٌ رَّحِيمٌ
+
+(Except for those who (having fled away and then) came back (as Muslims) with repentance before they fall into your power; in that case, know that Allah is Oft-Forgiving, Most Merciful.)
+
+This Ayah is clear in its indication that it applies to the idolators. As for the Muslims who commit this crime and repent before they are apprehended, the punishment of killing, crucifixion and cutting the limbs will be waved. The practice of the Companions in this regard is that all of the punishments prescribed in this case will be waved, as is apparent from the wording of the Ayah. Ibn Abi Hatim recorded that Ash-Sha'bi said, "Harithah bin Badr At-Tamimi was living in Al-Basrah, and he committed the crime of mischief in the land. So he talked to some men from Quraysh, such as Al-Hasan bin 'Ali, Ibn 'Abbas and 'Abdullah bin Ja'far, and they talked to 'Ali about him so that he would grant him safety, but 'Ali refused. So Harithah went to Sa'id bin Qays Al-Hamadani who kept him in his house and went to 'Ali, saying, 'O Leader of the Faithful! What about those who wage war against Allah and His Messenger and cause mischief in the land?' So he recited the Ayah until he reached,
+
+إِلَّا الَّذِينَ تَابُوا مِن قَبْلِ أَن تَقْدِرُوا عَلَيْهِمْ
+
+(Except for those who (having fled away and them) came back cas Muslims) with repentance before they fall into your power.)
+
+So 'Ali wrote a document that granted safety, and Sa'id bin Qays said, 'This is for Harithah bin Badr.'"
+
+Ibn Jarir recorded this Hadith. Ibn Jarir recorded that 'Amir Ash-Sha'bi said, "A man from Murad came to Abu Musa, while he was the governor of Al-Kufah during the reign of 'Uthman, and said to him after he offered the obligatory prayer, 'O Abu Musa! I seek your help. I am so-and-so from Murad and I waged war against Allah and His Messenger and caused mischief in the land. I repented before you had any authority over me.' Abu Musa proclaimed, 'This is so-and-so, who had waged war against Allah and His Messenger and caused mischief in the land, and he repented before we had authority over him. Therefore, anyone who meets him, should deal with him in a better way. If he is saying the truth, then this is the path of those who say the truth. If he is saying a lie, his sins will destroy him. So the man remained idle for as long as Allah willed, but he later rose against the leaders, and Allah punished him for his sins and he was killed." Ibn Jarir recorded that Musa bin Ishaq Al-Madani said that 'Ali Al-Asadi waged war, blocked the roads, shed blood and plundered wealth. The leaders and the people alike, sought to capture him, but they could not do that until he came after he repented, after he heard a man reciting the Ayah,
+
+يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَىٰ أَنفُسِهِمْ لَا تَقْنَطُوا مِن رَّحْمَةِ اللَّهِ إِنَّ اللَّهَ يَغْفِرُ الذُّنُوبَ جَمِيعًا إِنَّهُ هُوَ الْغَفُورُ الرَّحِيمُ
+
+(O My servants who have transgressed against themselves! Despair not of the mercy of Allah, verily, Allah forgives all sins. Truly, He is Oft-Forgiving, Most Merciful.)
+
+So he said to that man, "O servant of Allah! Recite it again." So he recited it again, and 'Ali put down his sword and went to Al-Madinah in repentance, arriving during the night. He washed up and went to the Masjid of the Messenger of Allah ﷺ and prayed the dawn prayer. He sat next to Abu Hurayrah amidst his companions. In the morning, the people recognized him and went after him. He said, "You have no way against me. I came in repentance before you had any authority over me." Abu Hurayrah said, "He has said the truth," and he held his hand and went to Marwan bin Al-Hakam, who was the governor of Al-Madinah during the reign of Mu'awiyah. Abu Hurayrah said, "This is 'Ali and he came in repentance and you do not have a way against him, nor can you have him killed." So 'Ali was absolved of punishment and remained on his repentance and went to the sea to perform Jihad in Allah's cause. The Muslims met the Romans in battle, and the Muslims brought the ship 'Ali was in to one of the Roman ships, and 'Ali crossed to that ship and the Romans escaped from him to the other side of the ship, and the ship capsized and they all drowned."
 
 ### al-Tabari (Arabic)
 
@@ -1369,9 +1496,55 @@ All of these Ayat offer a choice, just as the Ayah
 
 ١١٧٩٩ - حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا معمر قال: تلا قتادة:"من قتل نفسًا بغير نفس فكأنما قتل الناس جميعًا ومن أحياها فكأنما أحيى الناس جميعًا" قال: عظم والله أجرُها، وعظم والله وِزْرها!
 
-١١٨٠٠ - حدثني المثنى قال، حدثنا سويد بن نصر قال، أخبرنا ابن المبارك، عن سلاّم بن مسكين قال، حدثني سليمان بن علي الربعي قال: قلت للحسن:"من أجل ذلك كتبنا على بني إسرائيل أنه من قتل نفسًا بغير نفس" الآية، أهي لنا يا أبا سعيد، كما كانت لبني إسرائيل؟ فقال: إِي والذي لا إله غيره، كما كانت لبني إسرائيل! وما جعل دماءَ بني إسرائيل أكرم على الله من دمائنا؟ [[الأثر: ١١٨٠٠-"سلام بن مسكين بن ربيعة الأزدي"، "أبو روح"، ثقة. مضى 
+١١٨٠٠ - حدثني المثنى قال، حدثنا سويد بن نصر قال، أخبرنا ابن المبارك، عن سلاّم بن مسكين قال، حدثني سليمان بن علي الربعي قال: قلت للحسن:"من أجل ذلك كتبنا على بني إسرائيل أنه من قتل نفسًا بغير نفس" الآية، أهي لنا يا أبا سعيد، كما كانت لبني إسرائيل؟ فقال: إِي والذي لا إله غيره، كما كانت لبني إسرائيل! وما جعل دماءَ بني إسرائيل أكرم على الله من دمائنا؟ [[الأثر: ١١٨٠٠-"سلام بن مسكين بن ربيعة الأزدي"، "أبو روح"، ثقة. مضى برقم: ٦٩٢.
 
-[TRUNCATED at 12000 chars — 5085 more. Consult the source directly before relying on anything near the cut.]
+و"سليمان" بن علي الربعي الأزدي". ثقة. مترجم في التهذيب.]]
+
+١١٨٠١ - حدثني المثنى قال، حدثنا سويد بن نصر قال، أخبرنا ابن المبارك، عن سعيد بن زيد قال: سمعت خالدًا أبا الفضل قال: سمعت الحسن تلا هذه الآية:"فطوَّعت له نفسه قتل أخيه" إلى قوله:"ومن أحياها فكأنما أحيى الناس جميعًا"، ثم قال: عظَّم والله في الوزر كما تسمعون، ورغَّب والله في الأجر كما تسمعون! إذا ظننت يا ابن آدم، أنك لو قتلت الناس جميعًا، فإن لك من عملك ما تفوز به من النار، كذَبَتْك والله نفسك، وكذَبَك الشيطان. [[الأثر: ١١٨٠١-"سعيد بن زيد بن درهم الأزدي"، أخو: حماد بن زيد. تكلموا فيه، ووثقوه فقالوا: "صدوق حافظ"، وأعدل ما قيل فيه ما قاله ابن حبان: "كان صدوقا حافظًا، ممن كان يخطئ في الأخبار ويهم، حتى لا يحتج به إذا انفرد". مترجم في التهذيب، والكبير ٢/١/٤٣٢، وابن أبي حاتم ٢/١/٢١.
+
+و"خالد، أبو الفضل". قال البخاري في الكبير ٢/١/١٥٣: "خالد بن أبي الفضل، سمع الحسن. روى عنه سعيد بن زيد قوله ... وكنيته خالد بن رباح أبا الفضل، فلا أدري هو ذا أم لا"؟ كأن البخاري يعني هذا الأثر.
+
+ثم ترجم"خالد بن رباح الهذلي" ٢/١/١٣٦، وقال: "سمع منه وكيع"، ولم يذكر"سعيد بن زيد". وقال: "قال يزيد بن هرون، أخبرنا خالد بن رباح أبو الفضل".
+
+وأما ابن أبي حاتم فقد ترجم في الجرح والتعديل ١/٢/٣٤٦: "خالد بن الفضل. روي عن الحسن. روى عنه سعيد بن زيد. سمعت أبي يقول ذلك".
+
+ثم ترجم في ١/٢/٣٣٠. و"خالد بن رباح الهذلي، أبو الفضل ... روى عن الحسن...."، ولم يذكر في الرواه عنه"سعيد بن زيد".
+
+وترجم له الحافظ ابن حجر في تعجيل المنفعة: ١١٢، وفي لسان الميزان ٢: ٣٧٤، "خالد بن رباح الهذلي، أبو الفضل البصري"، ونقل عن ابن حبان في الضعفاء أن كنيته"أبو الفضل" ثم قال: "ولما ذكره في الطبقة الثالثة من الثقات قال: خالد بن رباح أبو الفضل، يروي عن الحسن. روى عنه سعيد بن زيد". قال ابن حجر: "فما أدري، ظنه آخر، أو تناقض فيه؟ ".
+
+أما ترجمته في لسان الميزان، فلم يذكر كنيته هناك، ونقل بعض ما جاء في تعجيل المنفعة.
+
+والظاهر أن"خالدًا أبا الفضل"، هو"خالد بن رباح الهذلي" نفسه، وأن ما جاء في ابن أبي حاتم"خالد بن الفضل" خطأ أو وهم. والظاهر أيضًا أنه توقف في أمر"خالد بن أبي الفضل"، ورجح أن يكون خطأ من الرواة، وأن الراوية"خالد أبو الفضل". وهو"خالد بن رباح الهذلي" نفسه.]]
+
+١١٨٠٢ - حدثنا هناد قال، حدثنا ابن فضيل، عن عاصم، عن الحسن في قوله:"فكأنما قتل الناس جميعًا" قال: وِزْرًا="ومن أحياها فكأنما أحيى الناس جميعًا" قال: أجرًا.
+
+* *
+
+قال أبو جعفر: وأولى هذه الأقوال عندي بالصواب، قولُ من قال: تأويل ذلك: أنه من قتل نفسًا مؤمنة بغير نفس قَتَلتها فاستحقت القَوَد بها والقتل قِصاصًا= أو بغير فساد في الأرض، بحرب الله ورسوله وحرب المؤمنين فيها= فكأنما قتل الناس جميعًا فيما استوجب من عظيم العقوبة من الله جل ثناؤه، كما أوعده ذلك من فعله ربُّه بقوله: ﴿وَمَنْ يَقْتُلْ مُؤْمِنًا مُتَعَمِّدًا فَجَزَاؤُهُ جَهَنَّمُ خَالِدًا فِيهَا وَغَضِبَ اللَّهُ عَلَيْهِ وَلَعَنَهُ وَأَعَدَّ لَهُ عَذَابًا عَظِيمًا﴾ [سورة النساء: ٩٣] .
+
+* *
+
+وأما قوله:"ومن أحياها فكأنما أحيى الناس جميعًا" فأولى التأويلات به، قول من قال: من حرّم قتل من حرّم الله عز ذكره قتله على نفسه، فلم يتقدّم على قتله، فقد حيى الناس منه بسلامتهم منه، وذلك إحياؤه إياها. وذلك نظير خبر الله عز ذكره عمن حاجّ إبراهيم في ربّه إذ قال له إبراهيم: ﴿رَبِّيَ الَّذِي يُحْيِي وَيُمِيتُ قَالَ أَنَا أُحْيِي وَأُمِيتُ﴾ [سورة البقرة: ٢٥٨] . فكان معنى الكافر في قيله:"أنا أحيي"، [[في المطبوعة والمخطوطة هنا: "أنا أحيي وأميت" ولا شك أن قوله: "وأميت" تكرار، فتركته.]] أنا أترك من قَدَرت على قتله- وفي قوله:"وأميت"، قتله من قتله. [[انظر ما سلف: ٥: ٤٣٢.]] فكذلك معنى"الإحياء" في قوله:"ومن أحياها"، من سلِمَ الناس من قتله إياهم، إلا فيما أذن الله في قتله منهم="فكأنما أحيى الناس جميعًا".
+
+وإنما قلنا ذلك أولى التأويلات بتأويل الآية، لأنه لا نفسَ يقومُ قتلُها في عاجل الضُّرّ مقام قتل جميع النفوس، ولا إحياؤها مقامَ إحياء جميع النفوس في عاجل النفع. فكان معلومًا بذلك أن معنى"الإحياء": سلامة جميع النفوس منه، لأنه من لم يتقدم على نفس واحدة، فقد سلم منه جميع النفوس- وأن الواحدة منها التي يقوم قتلُها مقام جميعها إنما هو في الوِزْر، لأنه لا نفس من نفوس بني آدم يقوم فقدها مقام فقد جميعها، وإن كان فقد بعضها أعمّ ضررًا من فقد بعض. [[انظر تفسير"الإحياء" فيما سلف ٥: ٤٣٢، وما بعدها.]]
+
+* *
+
+القول في تأويل قوله عز ذكره: ﴿وَلَقَدْ جَاءَتْهُمْ رُسُلُنَا بِالْبَيِّنَاتِ ثُمَّ إِنَّ كَثِيرًا مِنْهُمْ بَعْدَ ذَلِكَ فِي الأرْضِ لَمُسْرِفُونَ (٣٢) ﴾
+
+قال أبو جعفر: وهذا قسم من الله جل ثناؤه أقسم به: أن رسله صلوات الله عليهم قد أتت بني إسرائيل الذين قصَّ الله قَصَصهم وذكر نبأهم في الآيات التي تقدَّمت، من قوله:"يا أيُّها الذين آمنوا اذكروا نعمةَ الله عليكم إذ همَّ قوم أن يبسُطوا إليكم أيديهم" إلى هذا الموضع="بالبينات"، يعني: بالآيات الواضحة والحجج البيِّنة على حقيقة ما أرسلوا به إليهم، [[في المطبوعة: "على حقية"، فعل بما كان في المخطوطة، كما فعل بأخواتها من قبل، انظر ما سلف، كما أشرت إليه في ص: ١٩، تعليق: ٣، والمراجع السابقة هناك.]] وصحة ما دعوهم إليه من الإيمان بهم، وأداء فرائضِ الله عليهم.
+
+=يقول الله عز ذكره:"ثم إن كثيًرا منهم بعد ذلك في الأرض لمسرفون"، يعني: أن كثيرًا من بني إسرائيل.
+
+* *
+
+=و"الهاء والميم" في قوله:"ثم إن كثيرًا منهم"، من ذكر بني إسرائيل، وكذلك ذلك في قوله:"ولقد جاءتهم".
+
+* *
+
+="بعد ذلك"، يعني: بعد مجيء رسل الله بالبينات [[انظر تفسير"البينات" فيما سلف ٩: ٣٦٠، تعليق: ١، والمراجع هناك.]] .
+
+="في الأرض لمسرفون"، يعني: أنهم في الأرض لعاملون بمعاصي الله، ومخالفون أمر الله ونهيه، ومحادُّو الله ورسله، باتباعهم أهواءَهم. وخلافهم على أنبيائهم، وذلك كان إسرافهم في الأرض. [[انظر تفسير"الإسراف" فيما سلف ٧: ٢٧٢، ٥٧٩.]]
 
 ### al-Muyassar (Arabic)
 

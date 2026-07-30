@@ -452,9 +452,97 @@ When the Qur'an is discussing Laws, commandments and prohibitions, it commands e
 
 (He (Muhammad ﷺ) commands them for Al-Ma'ruf (i.e. Islamic Monotheism and all that Islam has ordained); and forbids them from Al-Munkar (i.e. disbelief, polytheism of all kinds, and all that Islam has forbidden); he allows them as lawful At-Tayyibat(i.e. all good and lawful things), and prohibits them as unlawful Al-Khaba'ith (i.e. all evil and unlawful things), he releases them from their heavy burdens and from the fetters (bindings) that were upon them)(7:157).
 
-When the Ayat mention Resurrection and the horrors that will occur on that Day, and Paradise and the Fire and the joys and safe refuge that Allah prepared for His loyal friends, or torment and Hell for His enemies, these Ayat contain glad tidings or warnings. The Ayat then call to per
+When the Ayat mention Resurrection and the horrors that will occur on that Day, and Paradise and the Fire and the joys and safe refuge that Allah prepared for His loyal friends, or torment and Hell for His enemies, these Ayat contain glad tidings or warnings. The Ayat then call to perform good deeds and avoid evil deeds, making the life of this world less favorable and the Hereafter more favorable. They also establish the correct methods and guide to Allah's straight path and just legislation, all the while ridding the hearts of the evil of the cursed devil.
 
-[TRUNCATED at 12000 chars — 5791 more. Consult the source directly before relying on anything near the cut.]
+The Qur'an is the Greatest Miracle given to the Prophet (ﷺ)
+
+The Two Sahihs record that Abu Hurayrah said that the Prophet ﷺ said,
+
+مَا مِنْ نَبِيٍّ مِنَ الْأَنْبِيَاءِ إِلَّا قَدْ أُعْطِيَ مِنَ الآيَاتِ مَا آمَنَ عَلَى مِثْلِهِ الْبَشَرُ، وَإنَّمَا كَانَ الَّذِي أُوتِيتُه وَحْيًا أَوْحَاهُ اللهُ إِلَيَّ فَأَرْجُو أَنْ أَكُونَ أَكْثَرَهُمْ تَابِعًا يَوْمَ الْقِيَامَةِ
+
+(Every Prophet was given a miracle, the type of which brings mankind to faith. What I was given is a revelation that Allah sent down to me. Yet, I hope that I will have the most following on the Day of Resurrection.)
+
+This is the wording narrated by Muslim. The Prophet ﷺ stated that among the Prophets he was given a revelation, meaning, he was especially entrusted with the miraculous Qur'an that challenged mankind to produce something similar to it. As for the rest of the divinely revealed Books, they were not miraculous according to many scholars. Allah knows best. The Prophet ﷺ was also aided with innumerable signs and indications that testify to the truth of his prophethood and what he was sent with, all thanks and praise is due to Allah.
+
+Meaning of 'Stones'
+
+Allah said,
+
+فَاتَّقُوا النَّارَ الَّتِي وَقُودُهَا النَّاسُ وَالْحِجَارَةُ ۖ أُعِدَّتْ لِلْكَافِرِينَ
+
+(Then fear the Fire (Hell) whose fuel is men and stones, prepared for the disbelievers)(2:24).
+
+Fuel' is wood, or similar substances, used to start and feed a fire. Similarly, Allah said,
+
+وَأَمَّا الْقَاسِطُونَ فَكَانُوا لِجَهَنَّمَ حَطَبًا
+
+(And as for the Qasitun (disbelievers who deviated from the right path), they shall be firewood for Hell)(72:15), and,
+
+إِنَّكُمْ وَمَا تَعْبُدُونَ مِن دُونِ اللَّهِ حَصَبُ جَهَنَّمَ أَنتُمْ لَهَا وَارِدُونَ - لَوْ كَانَ هَٰؤُلَاءِ آلِهَةً مَّا وَرَدُوهَا ۖ وَكُلٌّ فِيهَا خَالِدُونَ
+
+(Certainly you (disbelievers) and that which you are worshipping now besides Allah, are (but) fuel for Hell! (Surely) you enter it. Had these (idols) been alihah (gods), they would not have entered there (Hell), and all of them will abide therein)(21:98-99).
+
+The stones mentioned here are the giant, rotten, black, sulfuric stones that become the hottest when heated, may Allah save us from this evil end. It was also reported that the stones mentioned here are the idols and rivals that were worshipped instead of Allah, just as Allah said,
+
+إِنَّكُمْ وَمَا تَعْبُدُونَ مِن دُونِ اللَّهِ حَصَبُ جَهَنَّمَ
+
+(Certainly you (disbelievers) and that which you are worshipping now besides Allah,are (but) fuel for Hell!)(21:98).
+
+Allah's statement,
+
+أُعِدَّتْ لِلْكَافِرِينَ
+
+(prepared for the disbelievers)
+
+It appears most obvious that it refers to the Fire that is fueled by men and stones, and it also may refer to the stones themselves. There is no contradiction between these two views, because they are dependent upon each other. 'Prepared' means, it is 'kept' and will surely touch those who disbelieve in Allah and His Messenger ﷺ. Ibn Ishaq narrated that Muhammad said that 'Ikrimah or Sa'id bin Jubayr said that Ibn 'Abbas said,
+
+أُعِدَّتْ لِلْكَافِرِينَ
+
+(prepared for the disbelievers),
+
+"For those who embrace the disbelief that you (disbelievers) have embraced."
+
+Jahannam (Hellfire) exists now
+
+Many of the Imams of the Sunnah used this Ayah to prove that the Fire exists now. This is because Allah said,
+
+أُعِدَّتْ
+
+(prepared) meaning, prepared and kept. There are many Hadiths on this subject. For instance, the Prophet ﷺ said,
+
+تَحَاجَّتِ الْجَنَّةُ وَالنَّارُ
+
+(Paradise and the Fire had an argument..)
+
+Also, the Prophet ﷺ said,
+
+اسْتَأْذَنَتِ النَّارُ رَبَّهَا فَقَالَتْ: رَبِّ أَكَلَ بَعضِي بَعْضًا فَأذِنَ لَهَا بِنَفَسَيْنِ: نَفَسٍ فِي الشِّتَاءِ وَنَفَسٍ فِي الصَّيْفِ
+
+(The Fire sought the permission of her Lord. She said, 'O my Lord! Some parts of me consumed the other parts.' And Allah allowed her two periods to exhale, one in winter and one in summer.)
+
+Also, there is a Hadith recorded from Ibn Mas'ud that the Companions heard the sound of a falling object. When they asked about it, the Messenger of Allah ﷺ said,
+
+هَذَا حَجَرٌ أُلْقِيَ بِهِ مِنْ شَفِيرِ جَهَنَّمَ مُنْذُ سَبْعِينَ سَنَةً، الْآنَ وَصَلَ إِلى قَعْرِهَا
+
+(This is a stone that was thrown from the top of Jahannam seventy years ago, but only now reached its bottom.) This Hadith is in Sahih Muslim.
+
+There are many Hadiths that are Mutawatir (narrated by many different chains of narrations) on this subject, such as the Hadiths about the eclipse prayer, the night of Isra' etc.
+
+Allah's statements,
+
+فَأْتُواْ بِسُورَةٍ مِّن مِّثْلِهِ
+
+(Then produce a Surah (chapter) of the like thereof)(2:23), and,
+
+بِسُورَةٍ مِّثْلِهِ
+
+(A Surah (chapter) like it)(10:38) this includes the short and long Surahs of the Qur'an. Therefore, the challenge to creation stands with regards to both the long and short Surahs, and there is no disagreement that I know of on this fact between the scholars of old and new. Before he became Muslim, 'Amr bin Al-'As met Musaylimah the Liar who asked him, "What has recently been revealed to your fellow (meaning Muhammad ﷺ) in Makkah?" 'Amr said, "A short, yet eloquent Surah." He asked, "What is it?" He said,
+
+وَالْعَصْرِ - إِنَّ الْإِنسَانَ لَفِي خُسْرٍ
+
+(By Al-'Asr (the time). Verily, man is in loss,)(103:1-2)
+
+Musaylimah thought for a while and said, "A similar Surah was also revealed to me." 'Amr asked, "What is it?" He said, "O Wabr, O Wabr (i.e. a wild cat), you are but two ears and a chest, and the rest of you is unworthy and thin." 'Amr said, "By Allah! You know that I know that you are lying."
 
 ### al-Tabari (Arabic)
 
@@ -656,9 +744,97 @@ When the Qur'an is discussing Laws, commandments and prohibitions, it commands e
 
 (He (Muhammad ﷺ) commands them for Al-Ma'ruf (i.e. Islamic Monotheism and all that Islam has ordained); and forbids them from Al-Munkar (i.e. disbelief, polytheism of all kinds, and all that Islam has forbidden); he allows them as lawful At-Tayyibat(i.e. all good and lawful things), and prohibits them as unlawful Al-Khaba'ith (i.e. all evil and unlawful things), he releases them from their heavy burdens and from the fetters (bindings) that were upon them)(7:157).
 
-When the Ayat mention Resurrection and the horrors that will occur on that Day, and Paradise and the Fire and the joys and safe refuge that Allah prepared for His loyal friends, or torment and Hell for His enemies, these Ayat contain glad tidings or warnings. The Ayat then call to per
+When the Ayat mention Resurrection and the horrors that will occur on that Day, and Paradise and the Fire and the joys and safe refuge that Allah prepared for His loyal friends, or torment and Hell for His enemies, these Ayat contain glad tidings or warnings. The Ayat then call to perform good deeds and avoid evil deeds, making the life of this world less favorable and the Hereafter more favorable. They also establish the correct methods and guide to Allah's straight path and just legislation, all the while ridding the hearts of the evil of the cursed devil.
 
-[TRUNCATED at 12000 chars — 5791 more. Consult the source directly before relying on anything near the cut.]
+The Qur'an is the Greatest Miracle given to the Prophet (ﷺ)
+
+The Two Sahihs record that Abu Hurayrah said that the Prophet ﷺ said,
+
+مَا مِنْ نَبِيٍّ مِنَ الْأَنْبِيَاءِ إِلَّا قَدْ أُعْطِيَ مِنَ الآيَاتِ مَا آمَنَ عَلَى مِثْلِهِ الْبَشَرُ، وَإنَّمَا كَانَ الَّذِي أُوتِيتُه وَحْيًا أَوْحَاهُ اللهُ إِلَيَّ فَأَرْجُو أَنْ أَكُونَ أَكْثَرَهُمْ تَابِعًا يَوْمَ الْقِيَامَةِ
+
+(Every Prophet was given a miracle, the type of which brings mankind to faith. What I was given is a revelation that Allah sent down to me. Yet, I hope that I will have the most following on the Day of Resurrection.)
+
+This is the wording narrated by Muslim. The Prophet ﷺ stated that among the Prophets he was given a revelation, meaning, he was especially entrusted with the miraculous Qur'an that challenged mankind to produce something similar to it. As for the rest of the divinely revealed Books, they were not miraculous according to many scholars. Allah knows best. The Prophet ﷺ was also aided with innumerable signs and indications that testify to the truth of his prophethood and what he was sent with, all thanks and praise is due to Allah.
+
+Meaning of 'Stones'
+
+Allah said,
+
+فَاتَّقُوا النَّارَ الَّتِي وَقُودُهَا النَّاسُ وَالْحِجَارَةُ ۖ أُعِدَّتْ لِلْكَافِرِينَ
+
+(Then fear the Fire (Hell) whose fuel is men and stones, prepared for the disbelievers)(2:24).
+
+Fuel' is wood, or similar substances, used to start and feed a fire. Similarly, Allah said,
+
+وَأَمَّا الْقَاسِطُونَ فَكَانُوا لِجَهَنَّمَ حَطَبًا
+
+(And as for the Qasitun (disbelievers who deviated from the right path), they shall be firewood for Hell)(72:15), and,
+
+إِنَّكُمْ وَمَا تَعْبُدُونَ مِن دُونِ اللَّهِ حَصَبُ جَهَنَّمَ أَنتُمْ لَهَا وَارِدُونَ - لَوْ كَانَ هَٰؤُلَاءِ آلِهَةً مَّا وَرَدُوهَا ۖ وَكُلٌّ فِيهَا خَالِدُونَ
+
+(Certainly you (disbelievers) and that which you are worshipping now besides Allah, are (but) fuel for Hell! (Surely) you enter it. Had these (idols) been alihah (gods), they would not have entered there (Hell), and all of them will abide therein)(21:98-99).
+
+The stones mentioned here are the giant, rotten, black, sulfuric stones that become the hottest when heated, may Allah save us from this evil end. It was also reported that the stones mentioned here are the idols and rivals that were worshipped instead of Allah, just as Allah said,
+
+إِنَّكُمْ وَمَا تَعْبُدُونَ مِن دُونِ اللَّهِ حَصَبُ جَهَنَّمَ
+
+(Certainly you (disbelievers) and that which you are worshipping now besides Allah,are (but) fuel for Hell!)(21:98).
+
+Allah's statement,
+
+أُعِدَّتْ لِلْكَافِرِينَ
+
+(prepared for the disbelievers)
+
+It appears most obvious that it refers to the Fire that is fueled by men and stones, and it also may refer to the stones themselves. There is no contradiction between these two views, because they are dependent upon each other. 'Prepared' means, it is 'kept' and will surely touch those who disbelieve in Allah and His Messenger ﷺ. Ibn Ishaq narrated that Muhammad said that 'Ikrimah or Sa'id bin Jubayr said that Ibn 'Abbas said,
+
+أُعِدَّتْ لِلْكَافِرِينَ
+
+(prepared for the disbelievers),
+
+"For those who embrace the disbelief that you (disbelievers) have embraced."
+
+Jahannam (Hellfire) exists now
+
+Many of the Imams of the Sunnah used this Ayah to prove that the Fire exists now. This is because Allah said,
+
+أُعِدَّتْ
+
+(prepared) meaning, prepared and kept. There are many Hadiths on this subject. For instance, the Prophet ﷺ said,
+
+تَحَاجَّتِ الْجَنَّةُ وَالنَّارُ
+
+(Paradise and the Fire had an argument..)
+
+Also, the Prophet ﷺ said,
+
+اسْتَأْذَنَتِ النَّارُ رَبَّهَا فَقَالَتْ: رَبِّ أَكَلَ بَعضِي بَعْضًا فَأذِنَ لَهَا بِنَفَسَيْنِ: نَفَسٍ فِي الشِّتَاءِ وَنَفَسٍ فِي الصَّيْفِ
+
+(The Fire sought the permission of her Lord. She said, 'O my Lord! Some parts of me consumed the other parts.' And Allah allowed her two periods to exhale, one in winter and one in summer.)
+
+Also, there is a Hadith recorded from Ibn Mas'ud that the Companions heard the sound of a falling object. When they asked about it, the Messenger of Allah ﷺ said,
+
+هَذَا حَجَرٌ أُلْقِيَ بِهِ مِنْ شَفِيرِ جَهَنَّمَ مُنْذُ سَبْعِينَ سَنَةً، الْآنَ وَصَلَ إِلى قَعْرِهَا
+
+(This is a stone that was thrown from the top of Jahannam seventy years ago, but only now reached its bottom.) This Hadith is in Sahih Muslim.
+
+There are many Hadiths that are Mutawatir (narrated by many different chains of narrations) on this subject, such as the Hadiths about the eclipse prayer, the night of Isra' etc.
+
+Allah's statements,
+
+فَأْتُواْ بِسُورَةٍ مِّن مِّثْلِهِ
+
+(Then produce a Surah (chapter) of the like thereof)(2:23), and,
+
+بِسُورَةٍ مِّثْلِهِ
+
+(A Surah (chapter) like it)(10:38) this includes the short and long Surahs of the Qur'an. Therefore, the challenge to creation stands with regards to both the long and short Surahs, and there is no disagreement that I know of on this fact between the scholars of old and new. Before he became Muslim, 'Amr bin Al-'As met Musaylimah the Liar who asked him, "What has recently been revealed to your fellow (meaning Muhammad ﷺ) in Makkah?" 'Amr said, "A short, yet eloquent Surah." He asked, "What is it?" He said,
+
+وَالْعَصْرِ - إِنَّ الْإِنسَانَ لَفِي خُسْرٍ
+
+(By Al-'Asr (the time). Verily, man is in loss,)(103:1-2)
+
+Musaylimah thought for a while and said, "A similar Surah was also revealed to me." 'Amr asked, "What is it?" He said, "O Wabr, O Wabr (i.e. a wild cat), you are but two ears and a chest, and the rest of you is unworthy and thin." 'Amr said, "By Allah! You know that I know that you are lying."
 
 ### al-Tabari (Arabic)
 

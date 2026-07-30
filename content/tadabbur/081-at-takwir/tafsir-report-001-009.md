@@ -202,9 +202,39 @@ Allah says,
 
 وَإِذَا الصُّحُفُ نُشِرَتْ
 
-(And when the pages are laid open.) Ad-Dahhak said, "Every person will be given his paper in his right hand or in his left hand." Qatadah said, "O Son of Adam! It (your paper) is written in, then it is rolled up, then it will be distributed to you on the Day of Judgement. So let each man look at what he himself dictated
+(And when the pages are laid open.) Ad-Dahhak said, "Every person will be given his paper in his right hand or in his left hand." Qatadah said, "O Son of Adam! It (your paper) is written in, then it is rolled up, then it will be distributed to you on the Day of Judgement. So let each man look at what he himself dictated to be written in his paper."
 
-[TRUNCATED at 12000 chars — 1467 more. Consult the source directly before relying on anything near the cut.]
+Removing the Heavens, kindling Hellfire, and Paradise being brought near
+
+Allah says,
+
+وَإِذَا السَّمَاءُ كُشِطَتْ
+
+(And when the heaven is Kushitat;) Mujahid said, "It drawns away." As-Suddi said, "Stripped off." Concerning Allah's statement,
+
+وَإِذَا الْجَحِيمُ سُعِّرَتْ
+
+(And when Hell is Su'irat.) As-Suddi said, "It is heated." In reference to Allah's statement,
+
+وَإِذَا الْجَنَّةُ أُزْلِفَتْ
+
+(And when Paradise is brought near.) Ad-Dahhak, Abu Malik, Qatadah, and Ar-Rabi' bin Khuthaym, all said, "This means it will be brought near to its inhabitants."
+
+Everyone will know what He has brought on the Day of Judgement
+
+Concerning Allah's statement,
+
+عَلِمَتْ نَفْسٌ مَّا أَحْضَرَتْ
+
+(Every person will know what he has brought.) This is the conclusive response of the previous statements, meaning at the time these matters occur, every soul will know what it has done, and that will be brought forth for it, as Allah says,
+
+يَوْمَ تَجِدُ كُلُّ نَفْسٍ مَّا عَمِلَتْ مِنْ خَيْرٍ مُّحْضَرًا وَمَا عَمِلَتْ مِن سُوءٍ تَوَدُّ لَوْ أَنَّ بَيْنَهَا وَبَيْنَهُ أَمَدًا بَعِيدًا
+
+(On the Day when every person will be confronted with all the good he has done, and all the evil he has done, he will wish that there were a great distance between him and his evil.)(3:30) Allah also says,
+
+يُنَبَّأُ الْإِنسَانُ يَوْمَئِذٍ بِمَا قَدَّمَ وَأَخَّرَ
+
+(On that Day man will be informed of what he sent forward, and what he left behind.)(75:13)
 
 ### al-Tabari (Arabic)
 
@@ -534,9 +564,39 @@ Allah says,
 
 وَإِذَا الصُّحُفُ نُشِرَتْ
 
-(And when the pages are laid open.) Ad-Dahhak said, "Every person will be given his paper in his right hand or in his left hand." Qatadah said, "O Son of Adam! It (your paper) is written in, then it is rolled up, then it will be distributed to you on the Day of Judgement. So let each man look at what he himself dictated
+(And when the pages are laid open.) Ad-Dahhak said, "Every person will be given his paper in his right hand or in his left hand." Qatadah said, "O Son of Adam! It (your paper) is written in, then it is rolled up, then it will be distributed to you on the Day of Judgement. So let each man look at what he himself dictated to be written in his paper."
 
-[TRUNCATED at 12000 chars — 1467 more. Consult the source directly before relying on anything near the cut.]
+Removing the Heavens, kindling Hellfire, and Paradise being brought near
+
+Allah says,
+
+وَإِذَا السَّمَاءُ كُشِطَتْ
+
+(And when the heaven is Kushitat;) Mujahid said, "It drawns away." As-Suddi said, "Stripped off." Concerning Allah's statement,
+
+وَإِذَا الْجَحِيمُ سُعِّرَتْ
+
+(And when Hell is Su'irat.) As-Suddi said, "It is heated." In reference to Allah's statement,
+
+وَإِذَا الْجَنَّةُ أُزْلِفَتْ
+
+(And when Paradise is brought near.) Ad-Dahhak, Abu Malik, Qatadah, and Ar-Rabi' bin Khuthaym, all said, "This means it will be brought near to its inhabitants."
+
+Everyone will know what He has brought on the Day of Judgement
+
+Concerning Allah's statement,
+
+عَلِمَتْ نَفْسٌ مَّا أَحْضَرَتْ
+
+(Every person will know what he has brought.) This is the conclusive response of the previous statements, meaning at the time these matters occur, every soul will know what it has done, and that will be brought forth for it, as Allah says,
+
+يَوْمَ تَجِدُ كُلُّ نَفْسٍ مَّا عَمِلَتْ مِنْ خَيْرٍ مُّحْضَرًا وَمَا عَمِلَتْ مِن سُوءٍ تَوَدُّ لَوْ أَنَّ بَيْنَهَا وَبَيْنَهُ أَمَدًا بَعِيدًا
+
+(On the Day when every person will be confronted with all the good he has done, and all the evil he has done, he will wish that there were a great distance between him and his evil.)(3:30) Allah also says,
+
+يُنَبَّأُ الْإِنسَانُ يَوْمَئِذٍ بِمَا قَدَّمَ وَأَخَّرَ
+
+(On that Day man will be informed of what he sent forward, and what he left behind.)(75:13)
 
 ### al-Tabari (Arabic)
 
@@ -866,9 +926,39 @@ Allah says,
 
 وَإِذَا الصُّحُفُ نُشِرَتْ
 
-(And when the pages are laid open.) Ad-Dahhak said, "Every person will be given his paper in his right hand or in his left hand." Qatadah said, "O Son of Adam! It (your paper) is written in, then it is rolled up, then it will be distributed to you on the Day of Judgement. So let each man look at what he himself dictated
+(And when the pages are laid open.) Ad-Dahhak said, "Every person will be given his paper in his right hand or in his left hand." Qatadah said, "O Son of Adam! It (your paper) is written in, then it is rolled up, then it will be distributed to you on the Day of Judgement. So let each man look at what he himself dictated to be written in his paper."
 
-[TRUNCATED at 12000 chars — 1467 more. Consult the source directly before relying on anything near the cut.]
+Removing the Heavens, kindling Hellfire, and Paradise being brought near
+
+Allah says,
+
+وَإِذَا السَّمَاءُ كُشِطَتْ
+
+(And when the heaven is Kushitat;) Mujahid said, "It drawns away." As-Suddi said, "Stripped off." Concerning Allah's statement,
+
+وَإِذَا الْجَحِيمُ سُعِّرَتْ
+
+(And when Hell is Su'irat.) As-Suddi said, "It is heated." In reference to Allah's statement,
+
+وَإِذَا الْجَنَّةُ أُزْلِفَتْ
+
+(And when Paradise is brought near.) Ad-Dahhak, Abu Malik, Qatadah, and Ar-Rabi' bin Khuthaym, all said, "This means it will be brought near to its inhabitants."
+
+Everyone will know what He has brought on the Day of Judgement
+
+Concerning Allah's statement,
+
+عَلِمَتْ نَفْسٌ مَّا أَحْضَرَتْ
+
+(Every person will know what he has brought.) This is the conclusive response of the previous statements, meaning at the time these matters occur, every soul will know what it has done, and that will be brought forth for it, as Allah says,
+
+يَوْمَ تَجِدُ كُلُّ نَفْسٍ مَّا عَمِلَتْ مِنْ خَيْرٍ مُّحْضَرًا وَمَا عَمِلَتْ مِن سُوءٍ تَوَدُّ لَوْ أَنَّ بَيْنَهَا وَبَيْنَهُ أَمَدًا بَعِيدًا
+
+(On the Day when every person will be confronted with all the good he has done, and all the evil he has done, he will wish that there were a great distance between him and his evil.)(3:30) Allah also says,
+
+يُنَبَّأُ الْإِنسَانُ يَوْمَئِذٍ بِمَا قَدَّمَ وَأَخَّرَ
+
+(On that Day man will be informed of what he sent forward, and what he left behind.)(75:13)
 
 ### al-Tabari (Arabic)
 
@@ -1198,9 +1288,39 @@ Allah says,
 
 وَإِذَا الصُّحُفُ نُشِرَتْ
 
-(And when the pages are laid open.) Ad-Dahhak said, "Every person will be given his paper in his right hand or in his left hand." Qatadah said, "O Son of Adam! It (your paper) is written in, then it is rolled up, then it will be distributed to you on the Day of Judgement. So let each man look at what he himself dictated
+(And when the pages are laid open.) Ad-Dahhak said, "Every person will be given his paper in his right hand or in his left hand." Qatadah said, "O Son of Adam! It (your paper) is written in, then it is rolled up, then it will be distributed to you on the Day of Judgement. So let each man look at what he himself dictated to be written in his paper."
 
-[TRUNCATED at 12000 chars — 1467 more. Consult the source directly before relying on anything near the cut.]
+Removing the Heavens, kindling Hellfire, and Paradise being brought near
+
+Allah says,
+
+وَإِذَا السَّمَاءُ كُشِطَتْ
+
+(And when the heaven is Kushitat;) Mujahid said, "It drawns away." As-Suddi said, "Stripped off." Concerning Allah's statement,
+
+وَإِذَا الْجَحِيمُ سُعِّرَتْ
+
+(And when Hell is Su'irat.) As-Suddi said, "It is heated." In reference to Allah's statement,
+
+وَإِذَا الْجَنَّةُ أُزْلِفَتْ
+
+(And when Paradise is brought near.) Ad-Dahhak, Abu Malik, Qatadah, and Ar-Rabi' bin Khuthaym, all said, "This means it will be brought near to its inhabitants."
+
+Everyone will know what He has brought on the Day of Judgement
+
+Concerning Allah's statement,
+
+عَلِمَتْ نَفْسٌ مَّا أَحْضَرَتْ
+
+(Every person will know what he has brought.) This is the conclusive response of the previous statements, meaning at the time these matters occur, every soul will know what it has done, and that will be brought forth for it, as Allah says,
+
+يَوْمَ تَجِدُ كُلُّ نَفْسٍ مَّا عَمِلَتْ مِنْ خَيْرٍ مُّحْضَرًا وَمَا عَمِلَتْ مِن سُوءٍ تَوَدُّ لَوْ أَنَّ بَيْنَهَا وَبَيْنَهُ أَمَدًا بَعِيدًا
+
+(On the Day when every person will be confronted with all the good he has done, and all the evil he has done, he will wish that there were a great distance between him and his evil.)(3:30) Allah also says,
+
+يُنَبَّأُ الْإِنسَانُ يَوْمَئِذٍ بِمَا قَدَّمَ وَأَخَّرَ
+
+(On that Day man will be informed of what he sent forward, and what he left behind.)(75:13)
 
 ### al-Tabari (Arabic)
 
@@ -1530,9 +1650,39 @@ Allah says,
 
 وَإِذَا الصُّحُفُ نُشِرَتْ
 
-(And when the pages are laid open.) Ad-Dahhak said, "Every person will be given his paper in his right hand or in his left hand." Qatadah said, "O Son of Adam! It (your paper) is written in, then it is rolled up, then it will be distributed to you on the Day of Judgement. So let each man look at what he himself dictated
+(And when the pages are laid open.) Ad-Dahhak said, "Every person will be given his paper in his right hand or in his left hand." Qatadah said, "O Son of Adam! It (your paper) is written in, then it is rolled up, then it will be distributed to you on the Day of Judgement. So let each man look at what he himself dictated to be written in his paper."
 
-[TRUNCATED at 12000 chars — 1467 more. Consult the source directly before relying on anything near the cut.]
+Removing the Heavens, kindling Hellfire, and Paradise being brought near
+
+Allah says,
+
+وَإِذَا السَّمَاءُ كُشِطَتْ
+
+(And when the heaven is Kushitat;) Mujahid said, "It drawns away." As-Suddi said, "Stripped off." Concerning Allah's statement,
+
+وَإِذَا الْجَحِيمُ سُعِّرَتْ
+
+(And when Hell is Su'irat.) As-Suddi said, "It is heated." In reference to Allah's statement,
+
+وَإِذَا الْجَنَّةُ أُزْلِفَتْ
+
+(And when Paradise is brought near.) Ad-Dahhak, Abu Malik, Qatadah, and Ar-Rabi' bin Khuthaym, all said, "This means it will be brought near to its inhabitants."
+
+Everyone will know what He has brought on the Day of Judgement
+
+Concerning Allah's statement,
+
+عَلِمَتْ نَفْسٌ مَّا أَحْضَرَتْ
+
+(Every person will know what he has brought.) This is the conclusive response of the previous statements, meaning at the time these matters occur, every soul will know what it has done, and that will be brought forth for it, as Allah says,
+
+يَوْمَ تَجِدُ كُلُّ نَفْسٍ مَّا عَمِلَتْ مِنْ خَيْرٍ مُّحْضَرًا وَمَا عَمِلَتْ مِن سُوءٍ تَوَدُّ لَوْ أَنَّ بَيْنَهَا وَبَيْنَهُ أَمَدًا بَعِيدًا
+
+(On the Day when every person will be confronted with all the good he has done, and all the evil he has done, he will wish that there were a great distance between him and his evil.)(3:30) Allah also says,
+
+يُنَبَّأُ الْإِنسَانُ يَوْمَئِذٍ بِمَا قَدَّمَ وَأَخَّرَ
+
+(On that Day man will be informed of what he sent forward, and what he left behind.)(75:13)
 
 ### al-Tabari (Arabic)
 
@@ -1716,9 +1866,21 @@ Allah says,
 
 ⁕ حدثنا أبو كُرَيب، قال: ثنا وكيع، عن سفيان، عن أبيه، عن أبي يعلى، عن ربيع بن خيثم بمثله.
 
-⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد في قوله: ﴿وَإِذَا الْمَوْءُودَةُ سُئِلَتْ﴾ قال: البنات التي كانت طوائف العرب يقتلونهنّ، وقرأ: (بِ
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد في قوله: ﴿وَإِذَا الْمَوْءُودَةُ سُئِلَتْ﴾ قال: البنات التي كانت طوائف العرب يقتلونهنّ، وقرأ: (بِأَيِّ ذَنْبٍ قُتِلَتْ) .
 
-[TRUNCATED at 12000 chars — 794 more. Consult the source directly before relying on anything near the cut.]
+* *
+
+وقوله: ﴿وَإِذَا الصُّحُفُ نُشِرَتْ﴾
+
+يقول تعالى ذكره: وإذا صحف أعمال العباد نُشرت لهم بعد أن كانت مطوية على ما فيها مكتوب من الحسنات والسيئات.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة قوله: ﴿وَإِذَا الصُّحُفُ نُشِرَتْ﴾ صحيفتك يا ابن آدم تملى ما فيها، ثم تُطوى، ثم تُنشر عليك يوم القيامة.
+
+واختلفت القرّاء في قراءة ذلك، فقرأته عامة قرّاء المدينة ﴿نُشِرتْ﴾ بتخفيف الشين، وكذلك قرأ أيضا بعض الكوفيين، وقرأ ذلك بعض قرّاء مكة وعامة قرّاء الكوفة بتشديد الشين. واعتلّ من اعتل منهم لقراءته ذلك كذلك بقول الله: ﴿أَنْ يُؤْتَى صُحُفًا مُنَشَّرَةً﴾ ولم يقل منشورة، وإنما حسن التشديد فيه لأنه خبر عن جماعة، كما يقال: هذه كباش مُذبَّحَةٌ، ولو أخبر عن الواحد بذلك كانت مخففة، فقيل مذبوحةٌ، فكذلك قوله منشورة.
 
 ### al-Muyassar (Arabic)
 
@@ -1938,9 +2100,39 @@ Allah says,
 
 وَإِذَا الصُّحُفُ نُشِرَتْ
 
-(And when the pages are laid open.) Ad-Dahhak said, "Every person will be given his paper in his right hand or in his left hand." Qatadah said, "O Son of Adam! It (your paper) is written in, then it is rolled up, then it will be distributed to you on the Day of Judgement. So let each man look at what he himself dictated
+(And when the pages are laid open.) Ad-Dahhak said, "Every person will be given his paper in his right hand or in his left hand." Qatadah said, "O Son of Adam! It (your paper) is written in, then it is rolled up, then it will be distributed to you on the Day of Judgement. So let each man look at what he himself dictated to be written in his paper."
 
-[TRUNCATED at 12000 chars — 1467 more. Consult the source directly before relying on anything near the cut.]
+Removing the Heavens, kindling Hellfire, and Paradise being brought near
+
+Allah says,
+
+وَإِذَا السَّمَاءُ كُشِطَتْ
+
+(And when the heaven is Kushitat;) Mujahid said, "It drawns away." As-Suddi said, "Stripped off." Concerning Allah's statement,
+
+وَإِذَا الْجَحِيمُ سُعِّرَتْ
+
+(And when Hell is Su'irat.) As-Suddi said, "It is heated." In reference to Allah's statement,
+
+وَإِذَا الْجَنَّةُ أُزْلِفَتْ
+
+(And when Paradise is brought near.) Ad-Dahhak, Abu Malik, Qatadah, and Ar-Rabi' bin Khuthaym, all said, "This means it will be brought near to its inhabitants."
+
+Everyone will know what He has brought on the Day of Judgement
+
+Concerning Allah's statement,
+
+عَلِمَتْ نَفْسٌ مَّا أَحْضَرَتْ
+
+(Every person will know what he has brought.) This is the conclusive response of the previous statements, meaning at the time these matters occur, every soul will know what it has done, and that will be brought forth for it, as Allah says,
+
+يَوْمَ تَجِدُ كُلُّ نَفْسٍ مَّا عَمِلَتْ مِنْ خَيْرٍ مُّحْضَرًا وَمَا عَمِلَتْ مِن سُوءٍ تَوَدُّ لَوْ أَنَّ بَيْنَهَا وَبَيْنَهُ أَمَدًا بَعِيدًا
+
+(On the Day when every person will be confronted with all the good he has done, and all the evil he has done, he will wish that there were a great distance between him and his evil.)(3:30) Allah also says,
+
+يُنَبَّأُ الْإِنسَانُ يَوْمَئِذٍ بِمَا قَدَّمَ وَأَخَّرَ
+
+(On that Day man will be informed of what he sent forward, and what he left behind.)(75:13)
 
 ### al-Tabari (Arabic)
 
@@ -2124,9 +2316,21 @@ Allah says,
 
 ⁕ حدثنا أبو كُرَيب، قال: ثنا وكيع، عن سفيان، عن أبيه، عن أبي يعلى، عن ربيع بن خيثم بمثله.
 
-⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد في قوله: ﴿وَإِذَا الْمَوْءُودَةُ سُئِلَتْ﴾ قال: البنات التي كانت طوائف العرب يقتلونهنّ، وقرأ: (بِ
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد في قوله: ﴿وَإِذَا الْمَوْءُودَةُ سُئِلَتْ﴾ قال: البنات التي كانت طوائف العرب يقتلونهنّ، وقرأ: (بِأَيِّ ذَنْبٍ قُتِلَتْ) .
 
-[TRUNCATED at 12000 chars — 794 more. Consult the source directly before relying on anything near the cut.]
+* *
+
+وقوله: ﴿وَإِذَا الصُّحُفُ نُشِرَتْ﴾
+
+يقول تعالى ذكره: وإذا صحف أعمال العباد نُشرت لهم بعد أن كانت مطوية على ما فيها مكتوب من الحسنات والسيئات.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة قوله: ﴿وَإِذَا الصُّحُفُ نُشِرَتْ﴾ صحيفتك يا ابن آدم تملى ما فيها، ثم تُطوى، ثم تُنشر عليك يوم القيامة.
+
+واختلفت القرّاء في قراءة ذلك، فقرأته عامة قرّاء المدينة ﴿نُشِرتْ﴾ بتخفيف الشين، وكذلك قرأ أيضا بعض الكوفيين، وقرأ ذلك بعض قرّاء مكة وعامة قرّاء الكوفة بتشديد الشين. واعتلّ من اعتل منهم لقراءته ذلك كذلك بقول الله: ﴿أَنْ يُؤْتَى صُحُفًا مُنَشَّرَةً﴾ ولم يقل منشورة، وإنما حسن التشديد فيه لأنه خبر عن جماعة، كما يقال: هذه كباش مُذبَّحَةٌ، ولو أخبر عن الواحد بذلك كانت مخففة، فقيل مذبوحةٌ، فكذلك قوله منشورة.
 
 ### al-Muyassar (Arabic)
 
@@ -2346,9 +2550,39 @@ Allah says,
 
 وَإِذَا الصُّحُفُ نُشِرَتْ
 
-(And when the pages are laid open.) Ad-Dahhak said, "Every person will be given his paper in his right hand or in his left hand." Qatadah said, "O Son of Adam! It (your paper) is written in, then it is rolled up, then it will be distributed to you on the Day of Judgement. So let each man look at what he himself dictated
+(And when the pages are laid open.) Ad-Dahhak said, "Every person will be given his paper in his right hand or in his left hand." Qatadah said, "O Son of Adam! It (your paper) is written in, then it is rolled up, then it will be distributed to you on the Day of Judgement. So let each man look at what he himself dictated to be written in his paper."
 
-[TRUNCATED at 12000 chars — 1467 more. Consult the source directly before relying on anything near the cut.]
+Removing the Heavens, kindling Hellfire, and Paradise being brought near
+
+Allah says,
+
+وَإِذَا السَّمَاءُ كُشِطَتْ
+
+(And when the heaven is Kushitat;) Mujahid said, "It drawns away." As-Suddi said, "Stripped off." Concerning Allah's statement,
+
+وَإِذَا الْجَحِيمُ سُعِّرَتْ
+
+(And when Hell is Su'irat.) As-Suddi said, "It is heated." In reference to Allah's statement,
+
+وَإِذَا الْجَنَّةُ أُزْلِفَتْ
+
+(And when Paradise is brought near.) Ad-Dahhak, Abu Malik, Qatadah, and Ar-Rabi' bin Khuthaym, all said, "This means it will be brought near to its inhabitants."
+
+Everyone will know what He has brought on the Day of Judgement
+
+Concerning Allah's statement,
+
+عَلِمَتْ نَفْسٌ مَّا أَحْضَرَتْ
+
+(Every person will know what he has brought.) This is the conclusive response of the previous statements, meaning at the time these matters occur, every soul will know what it has done, and that will be brought forth for it, as Allah says,
+
+يَوْمَ تَجِدُ كُلُّ نَفْسٍ مَّا عَمِلَتْ مِنْ خَيْرٍ مُّحْضَرًا وَمَا عَمِلَتْ مِن سُوءٍ تَوَدُّ لَوْ أَنَّ بَيْنَهَا وَبَيْنَهُ أَمَدًا بَعِيدًا
+
+(On the Day when every person will be confronted with all the good he has done, and all the evil he has done, he will wish that there were a great distance between him and his evil.)(3:30) Allah also says,
+
+يُنَبَّأُ الْإِنسَانُ يَوْمَئِذٍ بِمَا قَدَّمَ وَأَخَّرَ
+
+(On that Day man will be informed of what he sent forward, and what he left behind.)(75:13)
 
 ### al-Tabari (Arabic)
 
@@ -2532,9 +2766,21 @@ Allah says,
 
 ⁕ حدثنا أبو كُرَيب، قال: ثنا وكيع، عن سفيان، عن أبيه، عن أبي يعلى، عن ربيع بن خيثم بمثله.
 
-⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد في قوله: ﴿وَإِذَا الْمَوْءُودَةُ سُئِلَتْ﴾ قال: البنات التي كانت طوائف العرب يقتلونهنّ، وقرأ: (بِ
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد في قوله: ﴿وَإِذَا الْمَوْءُودَةُ سُئِلَتْ﴾ قال: البنات التي كانت طوائف العرب يقتلونهنّ، وقرأ: (بِأَيِّ ذَنْبٍ قُتِلَتْ) .
 
-[TRUNCATED at 12000 chars — 794 more. Consult the source directly before relying on anything near the cut.]
+* *
+
+وقوله: ﴿وَإِذَا الصُّحُفُ نُشِرَتْ﴾
+
+يقول تعالى ذكره: وإذا صحف أعمال العباد نُشرت لهم بعد أن كانت مطوية على ما فيها مكتوب من الحسنات والسيئات.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة قوله: ﴿وَإِذَا الصُّحُفُ نُشِرَتْ﴾ صحيفتك يا ابن آدم تملى ما فيها، ثم تُطوى، ثم تُنشر عليك يوم القيامة.
+
+واختلفت القرّاء في قراءة ذلك، فقرأته عامة قرّاء المدينة ﴿نُشِرتْ﴾ بتخفيف الشين، وكذلك قرأ أيضا بعض الكوفيين، وقرأ ذلك بعض قرّاء مكة وعامة قرّاء الكوفة بتشديد الشين. واعتلّ من اعتل منهم لقراءته ذلك كذلك بقول الله: ﴿أَنْ يُؤْتَى صُحُفًا مُنَشَّرَةً﴾ ولم يقل منشورة، وإنما حسن التشديد فيه لأنه خبر عن جماعة، كما يقال: هذه كباش مُذبَّحَةٌ، ولو أخبر عن الواحد بذلك كانت مخففة، فقيل مذبوحةٌ، فكذلك قوله منشورة.
 
 ### al-Muyassar (Arabic)
 
@@ -2754,9 +3000,39 @@ Allah says,
 
 وَإِذَا الصُّحُفُ نُشِرَتْ
 
-(And when the pages are laid open.) Ad-Dahhak said, "Every person will be given his paper in his right hand or in his left hand." Qatadah said, "O Son of Adam! It (your paper) is written in, then it is rolled up, then it will be distributed to you on the Day of Judgement. So let each man look at what he himself dictated
+(And when the pages are laid open.) Ad-Dahhak said, "Every person will be given his paper in his right hand or in his left hand." Qatadah said, "O Son of Adam! It (your paper) is written in, then it is rolled up, then it will be distributed to you on the Day of Judgement. So let each man look at what he himself dictated to be written in his paper."
 
-[TRUNCATED at 12000 chars — 1467 more. Consult the source directly before relying on anything near the cut.]
+Removing the Heavens, kindling Hellfire, and Paradise being brought near
+
+Allah says,
+
+وَإِذَا السَّمَاءُ كُشِطَتْ
+
+(And when the heaven is Kushitat;) Mujahid said, "It drawns away." As-Suddi said, "Stripped off." Concerning Allah's statement,
+
+وَإِذَا الْجَحِيمُ سُعِّرَتْ
+
+(And when Hell is Su'irat.) As-Suddi said, "It is heated." In reference to Allah's statement,
+
+وَإِذَا الْجَنَّةُ أُزْلِفَتْ
+
+(And when Paradise is brought near.) Ad-Dahhak, Abu Malik, Qatadah, and Ar-Rabi' bin Khuthaym, all said, "This means it will be brought near to its inhabitants."
+
+Everyone will know what He has brought on the Day of Judgement
+
+Concerning Allah's statement,
+
+عَلِمَتْ نَفْسٌ مَّا أَحْضَرَتْ
+
+(Every person will know what he has brought.) This is the conclusive response of the previous statements, meaning at the time these matters occur, every soul will know what it has done, and that will be brought forth for it, as Allah says,
+
+يَوْمَ تَجِدُ كُلُّ نَفْسٍ مَّا عَمِلَتْ مِنْ خَيْرٍ مُّحْضَرًا وَمَا عَمِلَتْ مِن سُوءٍ تَوَدُّ لَوْ أَنَّ بَيْنَهَا وَبَيْنَهُ أَمَدًا بَعِيدًا
+
+(On the Day when every person will be confronted with all the good he has done, and all the evil he has done, he will wish that there were a great distance between him and his evil.)(3:30) Allah also says,
+
+يُنَبَّأُ الْإِنسَانُ يَوْمَئِذٍ بِمَا قَدَّمَ وَأَخَّرَ
+
+(On that Day man will be informed of what he sent forward, and what he left behind.)(75:13)
 
 ### al-Tabari (Arabic)
 
@@ -2940,9 +3216,21 @@ Allah says,
 
 ⁕ حدثنا أبو كُرَيب، قال: ثنا وكيع، عن سفيان، عن أبيه، عن أبي يعلى، عن ربيع بن خيثم بمثله.
 
-⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد في قوله: ﴿وَإِذَا الْمَوْءُودَةُ سُئِلَتْ﴾ قال: البنات التي كانت طوائف العرب يقتلونهنّ، وقرأ: (بِ
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد في قوله: ﴿وَإِذَا الْمَوْءُودَةُ سُئِلَتْ﴾ قال: البنات التي كانت طوائف العرب يقتلونهنّ، وقرأ: (بِأَيِّ ذَنْبٍ قُتِلَتْ) .
 
-[TRUNCATED at 12000 chars — 794 more. Consult the source directly before relying on anything near the cut.]
+* *
+
+وقوله: ﴿وَإِذَا الصُّحُفُ نُشِرَتْ﴾
+
+يقول تعالى ذكره: وإذا صحف أعمال العباد نُشرت لهم بعد أن كانت مطوية على ما فيها مكتوب من الحسنات والسيئات.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة قوله: ﴿وَإِذَا الصُّحُفُ نُشِرَتْ﴾ صحيفتك يا ابن آدم تملى ما فيها، ثم تُطوى، ثم تُنشر عليك يوم القيامة.
+
+واختلفت القرّاء في قراءة ذلك، فقرأته عامة قرّاء المدينة ﴿نُشِرتْ﴾ بتخفيف الشين، وكذلك قرأ أيضا بعض الكوفيين، وقرأ ذلك بعض قرّاء مكة وعامة قرّاء الكوفة بتشديد الشين. واعتلّ من اعتل منهم لقراءته ذلك كذلك بقول الله: ﴿أَنْ يُؤْتَى صُحُفًا مُنَشَّرَةً﴾ ولم يقل منشورة، وإنما حسن التشديد فيه لأنه خبر عن جماعة، كما يقال: هذه كباش مُذبَّحَةٌ، ولو أخبر عن الواحد بذلك كانت مخففة، فقيل مذبوحةٌ، فكذلك قوله منشورة.
 
 ### al-Muyassar (Arabic)
 
@@ -3162,9 +3450,39 @@ Allah says,
 
 وَإِذَا الصُّحُفُ نُشِرَتْ
 
-(And when the pages are laid open.) Ad-Dahhak said, "Every person will be given his paper in his right hand or in his left hand." Qatadah said, "O Son of Adam! It (your paper) is written in, then it is rolled up, then it will be distributed to you on the Day of Judgement. So let each man look at what he himself dictated
+(And when the pages are laid open.) Ad-Dahhak said, "Every person will be given his paper in his right hand or in his left hand." Qatadah said, "O Son of Adam! It (your paper) is written in, then it is rolled up, then it will be distributed to you on the Day of Judgement. So let each man look at what he himself dictated to be written in his paper."
 
-[TRUNCATED at 12000 chars — 1467 more. Consult the source directly before relying on anything near the cut.]
+Removing the Heavens, kindling Hellfire, and Paradise being brought near
+
+Allah says,
+
+وَإِذَا السَّمَاءُ كُشِطَتْ
+
+(And when the heaven is Kushitat;) Mujahid said, "It drawns away." As-Suddi said, "Stripped off." Concerning Allah's statement,
+
+وَإِذَا الْجَحِيمُ سُعِّرَتْ
+
+(And when Hell is Su'irat.) As-Suddi said, "It is heated." In reference to Allah's statement,
+
+وَإِذَا الْجَنَّةُ أُزْلِفَتْ
+
+(And when Paradise is brought near.) Ad-Dahhak, Abu Malik, Qatadah, and Ar-Rabi' bin Khuthaym, all said, "This means it will be brought near to its inhabitants."
+
+Everyone will know what He has brought on the Day of Judgement
+
+Concerning Allah's statement,
+
+عَلِمَتْ نَفْسٌ مَّا أَحْضَرَتْ
+
+(Every person will know what he has brought.) This is the conclusive response of the previous statements, meaning at the time these matters occur, every soul will know what it has done, and that will be brought forth for it, as Allah says,
+
+يَوْمَ تَجِدُ كُلُّ نَفْسٍ مَّا عَمِلَتْ مِنْ خَيْرٍ مُّحْضَرًا وَمَا عَمِلَتْ مِن سُوءٍ تَوَدُّ لَوْ أَنَّ بَيْنَهَا وَبَيْنَهُ أَمَدًا بَعِيدًا
+
+(On the Day when every person will be confronted with all the good he has done, and all the evil he has done, he will wish that there were a great distance between him and his evil.)(3:30) Allah also says,
+
+يُنَبَّأُ الْإِنسَانُ يَوْمَئِذٍ بِمَا قَدَّمَ وَأَخَّرَ
+
+(On that Day man will be informed of what he sent forward, and what he left behind.)(75:13)
 
 ### al-Tabari (Arabic)
 
@@ -3348,9 +3666,21 @@ Allah says,
 
 ⁕ حدثنا أبو كُرَيب، قال: ثنا وكيع، عن سفيان، عن أبيه، عن أبي يعلى، عن ربيع بن خيثم بمثله.
 
-⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد في قوله: ﴿وَإِذَا الْمَوْءُودَةُ سُئِلَتْ﴾ قال: البنات التي كانت طوائف العرب يقتلونهنّ، وقرأ: (بِ
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد في قوله: ﴿وَإِذَا الْمَوْءُودَةُ سُئِلَتْ﴾ قال: البنات التي كانت طوائف العرب يقتلونهنّ، وقرأ: (بِأَيِّ ذَنْبٍ قُتِلَتْ) .
 
-[TRUNCATED at 12000 chars — 794 more. Consult the source directly before relying on anything near the cut.]
+* *
+
+وقوله: ﴿وَإِذَا الصُّحُفُ نُشِرَتْ﴾
+
+يقول تعالى ذكره: وإذا صحف أعمال العباد نُشرت لهم بعد أن كانت مطوية على ما فيها مكتوب من الحسنات والسيئات.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة قوله: ﴿وَإِذَا الصُّحُفُ نُشِرَتْ﴾ صحيفتك يا ابن آدم تملى ما فيها، ثم تُطوى، ثم تُنشر عليك يوم القيامة.
+
+واختلفت القرّاء في قراءة ذلك، فقرأته عامة قرّاء المدينة ﴿نُشِرتْ﴾ بتخفيف الشين، وكذلك قرأ أيضا بعض الكوفيين، وقرأ ذلك بعض قرّاء مكة وعامة قرّاء الكوفة بتشديد الشين. واعتلّ من اعتل منهم لقراءته ذلك كذلك بقول الله: ﴿أَنْ يُؤْتَى صُحُفًا مُنَشَّرَةً﴾ ولم يقل منشورة، وإنما حسن التشديد فيه لأنه خبر عن جماعة، كما يقال: هذه كباش مُذبَّحَةٌ، ولو أخبر عن الواحد بذلك كانت مخففة، فقيل مذبوحةٌ، فكذلك قوله منشورة.
 
 ### al-Muyassar (Arabic)
 

@@ -124,9 +124,15 @@ This Hadith has corroborating reports in the books of Sahih and elsewhere, with 
 
 (Were it not for the Book of Allah, I would deal with her.) This version was recorded only by Al-Bukhari, but the event has been narrated with additional chains of narration from Ibn 'Abbas and others.
 
-Imam Ahmad recorded that Sa'id bin Jubayr said: During the governorship of Ibn Az-Zubayr I was asked about the couple who engage in Li'an, and whether they should be separated, and I did not know the answer. I got up and went to the house of Ibn 'Umar, and said, "O Abu 'Abdur-Rahman, should the couple who engage in Li'an be separated?"
+Imam Ahmad recorded that Sa'id bin Jubayr said: During the governorship of Ibn Az-Zubayr I was asked about the couple who engage in Li'an, and whether they should be separated, and I did not know the answer. I got up and went to the house of Ibn 'Umar, and said, "O Abu 'Abdur-Rahman, should the couple who engage in Li'an be separated?" He said, "Subhan Allah, the first one to ask about this was so-and-so the son of so-and-so. He said, 'O Messenger of Allah, what do you think of a man who sees his wife committing an immoral sin? If he speaks he will be speaking about something very serious, and if he keeps quiet he will be keeping quiet about something very serious.' [The Prophet ﷺ] kept quiet and did not answer him. Later on, he came to him and said, 'What I asked you about is something with which I myself being tested with.' Then Allah revealed the Ayat,
 
-[TRUNCATED at 12000 chars — 1742 more. Consult the source directly before relying on anything near the cut.]
+وَالَّذِينَ يَرْمُونَ أَزْوَاجَهُمْ
+
+(And for those who accuse their wives,) until he reached:
+
+أَنَّ غَضَبَ اللَّهِ عَلَيْهَا إِن كَانَ مِنَ الصَّادِقِينَ
+
+(That the wrath of Allah be upon her if he speaks the truth.) He started to advise the man and remind him about Allah, and told him that the punishment of this world is easier than the punishment of the Hereafter. The man said: 'By the One Who sent you with the truth, I was not telling you a lie.' Then the Prophet ﷺ turned to the woman and advised the woman and reminded her about Allah, and told her that the punishment of this world is easier than the punishment of the Hereafter. The woman said, 'By the One Who sent you with the truth, he is lying.' So [the Prophet ﷺ] started with the man, who swore four times by Allah that he was one of those who speak the truth, and swore the fifth oath that the curse of Allah would be upon him if he were lying. Then he turned to the woman, who swore four times by Allah that he was lying, and swore the fifth oath that the wrath of Allah would be upon her if he was telling the truth. Then he separated them." It was also recorded by An-Nasa'i in his Tafsir, and by Al-Bukhari and Muslim in the Two Sahihs.
 
 ### al-Tabari (Arabic)
 
@@ -292,9 +298,15 @@ This Hadith has corroborating reports in the books of Sahih and elsewhere, with 
 
 (Were it not for the Book of Allah, I would deal with her.) This version was recorded only by Al-Bukhari, but the event has been narrated with additional chains of narration from Ibn 'Abbas and others.
 
-Imam Ahmad recorded that Sa'id bin Jubayr said: During the governorship of Ibn Az-Zubayr I was asked about the couple who engage in Li'an, and whether they should be separated, and I did not know the answer. I got up and went to the house of Ibn 'Umar, and said, "O Abu 'Abdur-Rahman, should the couple who engage in Li'an be separated?"
+Imam Ahmad recorded that Sa'id bin Jubayr said: During the governorship of Ibn Az-Zubayr I was asked about the couple who engage in Li'an, and whether they should be separated, and I did not know the answer. I got up and went to the house of Ibn 'Umar, and said, "O Abu 'Abdur-Rahman, should the couple who engage in Li'an be separated?" He said, "Subhan Allah, the first one to ask about this was so-and-so the son of so-and-so. He said, 'O Messenger of Allah, what do you think of a man who sees his wife committing an immoral sin? If he speaks he will be speaking about something very serious, and if he keeps quiet he will be keeping quiet about something very serious.' [The Prophet ﷺ] kept quiet and did not answer him. Later on, he came to him and said, 'What I asked you about is something with which I myself being tested with.' Then Allah revealed the Ayat,
 
-[TRUNCATED at 12000 chars — 1742 more. Consult the source directly before relying on anything near the cut.]
+وَالَّذِينَ يَرْمُونَ أَزْوَاجَهُمْ
+
+(And for those who accuse their wives,) until he reached:
+
+أَنَّ غَضَبَ اللَّهِ عَلَيْهَا إِن كَانَ مِنَ الصَّادِقِينَ
+
+(That the wrath of Allah be upon her if he speaks the truth.) He started to advise the man and remind him about Allah, and told him that the punishment of this world is easier than the punishment of the Hereafter. The man said: 'By the One Who sent you with the truth, I was not telling you a lie.' Then the Prophet ﷺ turned to the woman and advised the woman and reminded her about Allah, and told her that the punishment of this world is easier than the punishment of the Hereafter. The woman said, 'By the One Who sent you with the truth, he is lying.' So [the Prophet ﷺ] started with the man, who swore four times by Allah that he was one of those who speak the truth, and swore the fifth oath that the curse of Allah would be upon him if he were lying. Then he turned to the woman, who swore four times by Allah that he was lying, and swore the fifth oath that the wrath of Allah would be upon her if he was telling the truth. Then he separated them." It was also recorded by An-Nasa'i in his Tafsir, and by Al-Bukhari and Muslim in the Two Sahihs.
 
 ### al-Tabari (Arabic)
 
@@ -460,9 +472,15 @@ This Hadith has corroborating reports in the books of Sahih and elsewhere, with 
 
 (Were it not for the Book of Allah, I would deal with her.) This version was recorded only by Al-Bukhari, but the event has been narrated with additional chains of narration from Ibn 'Abbas and others.
 
-Imam Ahmad recorded that Sa'id bin Jubayr said: During the governorship of Ibn Az-Zubayr I was asked about the couple who engage in Li'an, and whether they should be separated, and I did not know the answer. I got up and went to the house of Ibn 'Umar, and said, "O Abu 'Abdur-Rahman, should the couple who engage in Li'an be separated?"
+Imam Ahmad recorded that Sa'id bin Jubayr said: During the governorship of Ibn Az-Zubayr I was asked about the couple who engage in Li'an, and whether they should be separated, and I did not know the answer. I got up and went to the house of Ibn 'Umar, and said, "O Abu 'Abdur-Rahman, should the couple who engage in Li'an be separated?" He said, "Subhan Allah, the first one to ask about this was so-and-so the son of so-and-so. He said, 'O Messenger of Allah, what do you think of a man who sees his wife committing an immoral sin? If he speaks he will be speaking about something very serious, and if he keeps quiet he will be keeping quiet about something very serious.' [The Prophet ﷺ] kept quiet and did not answer him. Later on, he came to him and said, 'What I asked you about is something with which I myself being tested with.' Then Allah revealed the Ayat,
 
-[TRUNCATED at 12000 chars — 1742 more. Consult the source directly before relying on anything near the cut.]
+وَالَّذِينَ يَرْمُونَ أَزْوَاجَهُمْ
+
+(And for those who accuse their wives,) until he reached:
+
+أَنَّ غَضَبَ اللَّهِ عَلَيْهَا إِن كَانَ مِنَ الصَّادِقِينَ
+
+(That the wrath of Allah be upon her if he speaks the truth.) He started to advise the man and remind him about Allah, and told him that the punishment of this world is easier than the punishment of the Hereafter. The man said: 'By the One Who sent you with the truth, I was not telling you a lie.' Then the Prophet ﷺ turned to the woman and advised the woman and reminded her about Allah, and told her that the punishment of this world is easier than the punishment of the Hereafter. The woman said, 'By the One Who sent you with the truth, he is lying.' So [the Prophet ﷺ] started with the man, who swore four times by Allah that he was one of those who speak the truth, and swore the fifth oath that the curse of Allah would be upon him if he were lying. Then he turned to the woman, who swore four times by Allah that he was lying, and swore the fifth oath that the wrath of Allah would be upon her if he was telling the truth. Then he separated them." It was also recorded by An-Nasa'i in his Tafsir, and by Al-Bukhari and Muslim in the Two Sahihs.
 
 ### al-Tabari (Arabic)
 
@@ -610,9 +628,15 @@ This Hadith has corroborating reports in the books of Sahih and elsewhere, with 
 
 (Were it not for the Book of Allah, I would deal with her.) This version was recorded only by Al-Bukhari, but the event has been narrated with additional chains of narration from Ibn 'Abbas and others.
 
-Imam Ahmad recorded that Sa'id bin Jubayr said: During the governorship of Ibn Az-Zubayr I was asked about the couple who engage in Li'an, and whether they should be separated, and I did not know the answer. I got up and went to the house of Ibn 'Umar, and said, "O Abu 'Abdur-Rahman, should the couple who engage in Li'an be separated?"
+Imam Ahmad recorded that Sa'id bin Jubayr said: During the governorship of Ibn Az-Zubayr I was asked about the couple who engage in Li'an, and whether they should be separated, and I did not know the answer. I got up and went to the house of Ibn 'Umar, and said, "O Abu 'Abdur-Rahman, should the couple who engage in Li'an be separated?" He said, "Subhan Allah, the first one to ask about this was so-and-so the son of so-and-so. He said, 'O Messenger of Allah, what do you think of a man who sees his wife committing an immoral sin? If he speaks he will be speaking about something very serious, and if he keeps quiet he will be keeping quiet about something very serious.' [The Prophet ﷺ] kept quiet and did not answer him. Later on, he came to him and said, 'What I asked you about is something with which I myself being tested with.' Then Allah revealed the Ayat,
 
-[TRUNCATED at 12000 chars — 1742 more. Consult the source directly before relying on anything near the cut.]
+وَالَّذِينَ يَرْمُونَ أَزْوَاجَهُمْ
+
+(And for those who accuse their wives,) until he reached:
+
+أَنَّ غَضَبَ اللَّهِ عَلَيْهَا إِن كَانَ مِنَ الصَّادِقِينَ
+
+(That the wrath of Allah be upon her if he speaks the truth.) He started to advise the man and remind him about Allah, and told him that the punishment of this world is easier than the punishment of the Hereafter. The man said: 'By the One Who sent you with the truth, I was not telling you a lie.' Then the Prophet ﷺ turned to the woman and advised the woman and reminded her about Allah, and told her that the punishment of this world is easier than the punishment of the Hereafter. The woman said, 'By the One Who sent you with the truth, he is lying.' So [the Prophet ﷺ] started with the man, who swore four times by Allah that he was one of those who speak the truth, and swore the fifth oath that the curse of Allah would be upon him if he were lying. Then he turned to the woman, who swore four times by Allah that he was lying, and swore the fifth oath that the wrath of Allah would be upon her if he was telling the truth. Then he separated them." It was also recorded by An-Nasa'i in his Tafsir, and by Al-Bukhari and Muslim in the Two Sahihs.
 
 ### al-Tabari (Arabic)
 
@@ -760,9 +784,15 @@ This Hadith has corroborating reports in the books of Sahih and elsewhere, with 
 
 (Were it not for the Book of Allah, I would deal with her.) This version was recorded only by Al-Bukhari, but the event has been narrated with additional chains of narration from Ibn 'Abbas and others.
 
-Imam Ahmad recorded that Sa'id bin Jubayr said: During the governorship of Ibn Az-Zubayr I was asked about the couple who engage in Li'an, and whether they should be separated, and I did not know the answer. I got up and went to the house of Ibn 'Umar, and said, "O Abu 'Abdur-Rahman, should the couple who engage in Li'an be separated?"
+Imam Ahmad recorded that Sa'id bin Jubayr said: During the governorship of Ibn Az-Zubayr I was asked about the couple who engage in Li'an, and whether they should be separated, and I did not know the answer. I got up and went to the house of Ibn 'Umar, and said, "O Abu 'Abdur-Rahman, should the couple who engage in Li'an be separated?" He said, "Subhan Allah, the first one to ask about this was so-and-so the son of so-and-so. He said, 'O Messenger of Allah, what do you think of a man who sees his wife committing an immoral sin? If he speaks he will be speaking about something very serious, and if he keeps quiet he will be keeping quiet about something very serious.' [The Prophet ﷺ] kept quiet and did not answer him. Later on, he came to him and said, 'What I asked you about is something with which I myself being tested with.' Then Allah revealed the Ayat,
 
-[TRUNCATED at 12000 chars — 1742 more. Consult the source directly before relying on anything near the cut.]
+وَالَّذِينَ يَرْمُونَ أَزْوَاجَهُمْ
+
+(And for those who accuse their wives,) until he reached:
+
+أَنَّ غَضَبَ اللَّهِ عَلَيْهَا إِن كَانَ مِنَ الصَّادِقِينَ
+
+(That the wrath of Allah be upon her if he speaks the truth.) He started to advise the man and remind him about Allah, and told him that the punishment of this world is easier than the punishment of the Hereafter. The man said: 'By the One Who sent you with the truth, I was not telling you a lie.' Then the Prophet ﷺ turned to the woman and advised the woman and reminded her about Allah, and told her that the punishment of this world is easier than the punishment of the Hereafter. The woman said, 'By the One Who sent you with the truth, he is lying.' So [the Prophet ﷺ] started with the man, who swore four times by Allah that he was one of those who speak the truth, and swore the fifth oath that the curse of Allah would be upon him if he were lying. Then he turned to the woman, who swore four times by Allah that he was lying, and swore the fifth oath that the wrath of Allah would be upon her if he was telling the truth. Then he separated them." It was also recorded by An-Nasa'i in his Tafsir, and by Al-Bukhari and Muslim in the Two Sahihs.
 
 ### al-Tabari (Arabic)
 

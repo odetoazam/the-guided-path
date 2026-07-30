@@ -144,9 +144,91 @@ Allah's statement,
 
 وَلَا الْهَدْيَ وَلَا الْقَلَائِدَ
 
-(nor of the Hady brought for sacrifice, nor the garlands,) means, do not abandon the practice of bringing the Hady (sacrificial animals) to the Sacred House, as this ritual is a form of honoring the symbols of Allah. Do not abandon the practice of garlanding these animals on their necks, so that they are distinguished from other cattle. This way, it will be known that these animals are intended to be offered as Hady at the Ka'bah, and thus those who might intend some harm to them would refrain from doing so. Those who see the Hady might be encouraged to imitate this ritual, and indeed, he who calls to a type of guidance, will earn rewards equal to the rewards of those who follow his lead, without decrease in their own rewar
+(nor of the Hady brought for sacrifice, nor the garlands,) means, do not abandon the practice of bringing the Hady (sacrificial animals) to the Sacred House, as this ritual is a form of honoring the symbols of Allah. Do not abandon the practice of garlanding these animals on their necks, so that they are distinguished from other cattle. This way, it will be known that these animals are intended to be offered as Hady at the Ka'bah, and thus those who might intend some harm to them would refrain from doing so. Those who see the Hady might be encouraged to imitate this ritual, and indeed, he who calls to a type of guidance, will earn rewards equal to the rewards of those who follow his lead, without decrease in their own rewards. When the Messenger of Allah ﷺ intended to perform Hajj, he spent the night at Dhul-Hulayfah, which is also called Wadi Al-'Aqiq. In the morning, the Prophet ﷺ made rounds with his wives, who were nine at that time, performed Ghusl (bath), applied some perfume and performed a two Rak'ah prayer. He then garlanded the Hady and announced aloud his intention to perform Hajj and 'Umrah. The Prophet's Hady at the time consisted of plenty of camels, more than sixty, and they were among the best animals, the healthiest and most physically acceptable, just as Allah's statement proclaims,
 
-[TRUNCATED at 12000 chars — 8150 more. Consult the source directly before relying on anything near the cut.]
+ذَٰلِكَ وَمَن يُعَظِّمْ شَعَائِرَ اللَّهِ فَإِنَّهَا مِن تَقْوَى الْقُلُوبِ
+
+(Thus it is, and whosoever honors the symbols of Allah, then it is truly, from the piety of the hearts.)[22:32] Muqatil bin Hayyan said that Allah's statement,
+
+وَلَا الْقَلَائِدَ
+
+(nor the garlands) means, "Do not breach their sanctity." During the time of Jahiliyyah, the people used to garland themselves with animal hair and pelts when they left their areas in months other than the Sacred Months. The idolators of the Sacred House Area used to garland themselves with the tree-stems of the Sacred Area, so that they were granted safe passage." This statement was collected by Ibn Abi Hatim, who also recorded that Ibn 'Abbas said, "There are two Ayat in this Surah (Al-Ma'idah) that were abrogated, the Ayah about the garlands [5:2], and
+
+فَإِن جَاءُوكَ فَاحْكُم بَيْنَهُمْ أَوْ أَعْرِضْ عَنْهُمْ
+
+(So if they come to you (O Muhammad ﷺ), either judge between them, or turn away from them.)"
+
+The Necessity of Preserving the Sanctity and Safety of those who Intend to Travel to the Sacred House
+
+Allah said,
+
+وَلَا آمِّينَ الْبَيْتَ الْحَرَامَ يَبْتَغُونَ فَضْلًا مِّن رَّبِّهِمْ وَرِضْوَانًا
+
+(nor the people coming to the Sacred House (Makkah), seeking the bounty and good pleasure of their Lord.)
+
+The Ayah commands: Do not fight people who are heading towards the Sacred House of Allah, which if anyone enters it, he must be granted safe refuge. Likewise, those who are heading towards the Sacred House seeking the bounty and good pleasure of Allah, must not be stopped, prevented, or frightened away from entering the Sacred House. Mujahid, 'Ata', Abu Al-'Aliyah, Mutarrif bin 'Abdullah, 'Abdullah bin 'Ubayd bin 'Umayr, Ar-Rabi' bin Anas, Muqatil bin Hayyan, Qatadah and several others said that,
+
+يَبْتَغُونَ فَضْلًا مِّن رَّبِّهِمْ
+
+(seeking the bounty of their Lord.) refers to trading. A similar discussion preceded concerning the Ayah;
+
+لَيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَبْتَغُوا فَضْلًا مِّن رَّبِّكُمْ
+
+(There is no sin on you if you seek the bounty of your Lord (during pilgrimage by trading).) Allah said;
+
+وَرِضْوَانًا
+
+(and pleasure.) Ibn 'Abbas said that the word 'pleasure' in the Ayah refers to, "seeking Allah's pleasure by their Hajj." 'Ikrimah, As-Suddi and Ibn Jarir mentioned that this Ayah was revealed concerning Al-Hutam bin Hind Al-Bakri, who had raided the cattle belonging to the people of Al-Madinah. The following year, he wanted to perform 'Umrah to the House of Allah and some of the Companions wanted to attack him on his way to the House. Allah revealed,
+
+وَلَا آمِّينَ الْبَيْتَ الْحَرَامَ يَبْتَغُونَ فَضْلًا مِّن رَّبِّهِمْ وَرِضْوَانًا
+
+(nor the people coming to the Sacred House (Makkah), seeking the bounty and good pleasure of their Lord.)
+
+Hunting Game is Permissible After Ihram Ends
+
+Allah said,
+
+وَإِذَا حَلَلْتُمْ فَاصْطَادُوا
+
+(But when you finish the Ihram, then hunt,) When you end your Ihram, it is permitted for you to hunt game, which was prohibited for you during Ihram. Although this Ayah contains a command that takes effect after the end of a state of prohibition (during Ihram in this case), the Ayah, in fact, brings back the ruling that was previously in effect. If the previous ruling was an obligation, the new command will uphold that obligation, and such is the case with recommended and permissible matters. There are many Ayat that deny that the ruling in such cases is always an obligation. Such is also the case against those who say that it is always merely allowed. What we mentioned here is the correct opinion that employs the available evidence, and Allah knows best.
+
+Justice is Always Necessary
+
+Allah said,
+
+وَلَا يَجْرِمَنَّكُمْ شَنَآنُ قَوْمٍ أَن صَدُّوكُمْ عَنِ الْمَسْجِدِ الْحَرَامِ أَن تَعْتَدُوا
+
+(and let not the hatred of some people in (once) stopping you from Al-Masjid Al-Haram (at Makkah) lead you to transgression (and hostility on your part).)
+
+The meaning of this Ayah is apparent, as it commands: Let not the hatred for some people, who prevented you from reaching the Sacred House in the year of Hudaybiyyah, make you transgress Allah's Law and commit injustice against them in retaliation. Rather, rule as Allah has commanded you, being just with every one. We will explain a similar Ayah later on,
+
+وَلَا يَجْرِمَنَّكُمْ شَنَآنُ قَوْمٍ عَلَىٰ أَلَّا تَعْدِلُوا اعْدِلُوا هُوَ أَقْرَبُ لِلتَّقْوَىٰ
+
+(And let not the enmity and hatred of others make you avoid justice. Be just: that is nearer to piety,)[5:8] which commands: do not be driven by your hatred for some people into abandoning justice, for justice is ordained for everyone, in all situations. Ibn Abi Hatim recorded that Zayd bin Aslam said, "The Messenger of Allah ﷺ and his Companions were in the area of Al-Hudaybiyyah when the idolators prevented them from visiting the House, and that was especially hard on them. Later on, some idolators passed by them from the east intending to perform 'Umrah. So the Companions of the Prophet ﷺ said, 'Let us prevent those (from 'Umrah) just as their fellow idolators prevented us.' Thereafter, Allah sent down this Ayah." Ibn Abbas and others said that "Shana'an" refers to enmity and hate. Allah said next,
+
+وَتَعَاوَنُوا عَلَى الْبِرِّ وَالتَّقْوَىٰ وَلَا تَعَاوَنُوا عَلَى الْإِثْمِ وَالْعُدْوَانِ
+
+(Help you one another in Al-Birr and At-Taqwa; but do not help one another in sin and transgression.)
+
+Allah commands His believing servants to help one another perform righteous, good deeds, which is the meaning of 'Al-Birr', and to avoid sins, which is the meaning of 'At-Taqwa'. Allah forbids His servants from helping one another in sin, 'Ithm' and committing the prohibitions. Ibn Jarir said that, "Ithm means abandoning what Allah has ordained, while transgression means overstepping the limits that Allah set in your religion, along with overstepping what Allah has ordered concerning yourselves and others." Imam Ahmad recorded that Anas bin Malik said that the Messenger of Allah ﷺ said,
+
+انْصُرْ أَخَاكَ ظَالِمًا أَوْ مَظْلُومًا
+
+(Support your brother whether he was unjust or the victim of injustice.) He was asked, "O Messenger of Allah! We know about helping him when he suffers injustice, so what about helping him when he commits injustice?" He said,
+
+تَحْجُزُهُ وَتَمْنَعُهُ مِنَ الظُّلْمِ فَذَاكَ نَصْرُهُ
+
+(Prevent and stop him from committing injustice, and this represents giving support to him.)
+
+Al-Bukhari recorded this Hadith through Hushaym. Ahmad recorded that one of the Companions of the Prophet ﷺ narrated the Hadith,
+
+الْمُؤْمِنُ الَّذِي يُخَالِطُ النَّاسَ وَيَصْبِرُ عَلَى أَذَاهُمْ أَعْظَمُ أَجْرًا مِنَ الَّذِي لَا يُخَالِطُ النَّاسَ وَلَا يَصْبِرُ عَلى أَذَاهُم
+
+(The believer who mingles with people and is patient with their annoyance, earns more reward than the believer who does not mingle with people and does not observe patience with their annoyance.) Muslim recorded a Hadith that states,
+
+مَنْ دَعَا إِلَى هُدًى كَانَ لَهُ مِنَ الْأَجْرِ مِثْلُ أُجُورِ مَنِ اتَّبَعَهُ إِلى يَوْمِ الْقِيَامَةِ لَا يَنْقُصُ ذلِكَ مِنْ أُجُورِهِمْ شَيْئًا، وَمَنْ دَعَا إِلَى ضَلَالَةٍ كَانَ عَلَيْهِ مِنَ الْإِثْمِ مِثْلُ آثَامِ مَنِ اتَّبَعَهُ إِلَى يَوْمِ الْقِيَامَةِ، لَا يَنْقُصُ ذلِكَ مِنْ آثَامِهِمْ شَيْئًا
+
+(He who calls to a guidance, will earn a reward similar to the rewards of those who accept his call, until the Day of Resurrection, without decreasing their rewards. Whoever calls to a heresy, will carry a burden similar to the burdens of those who accept his call, until the Day of Resurrection, without decreasing their own burdens.)
 
 ### al-Tabari (Arabic)
 
@@ -320,9 +402,135 @@ Allah's statement,
 
 ١٠٩٢٨- حدثنا بشر قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة قوله:"أحلت لكم بهيمة الأنعام إلا ما يتلى عليكم"، أي: من الميتة التي نهى الله عنها، وقدَّم فيها.
 
-١٠٩٢٩- حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا معمر، عن قتادة:"إ
+١٠٩٢٩- حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا معمر، عن قتادة:"إلا ما يتلى عليكم"، قال: إلا الميتة وما لم يذكر اسم الله عليه.
 
-[TRUNCATED at 12000 chars — 8718 more. Consult the source directly before relying on anything near the cut.]
+١٠٩٣٠- حدثني محمد بن الحسين قال، حدثنا أحمد بن مفضل قال، حدثنا أسباط، عن السدي:"إلا ما يتلى عليكم"، الميتة والدم ولحم الخنزير.
+
+١٠٩٣١- حدثني المثنى قال، حدثنا عبد الله قال، حدثني معاوية، عن علي بن أبي طلحة، عن ابن عباس:"أحلت لكم بهيمة الأنعام إلا ما يتلى عليكم"، الميتة ولحم الخنزير.
+
+١٠٩٣٢- حدثني المثنى قال، حدثنا عبد الله قال، حدثني معاوية، عن علي بن أبي طلحة، عن ابن عباس:"أحلت لكم بهيمة الأنعام إلا ما يتلى عليكم"، هي الميتة والدم ولحم الخنزير وما أُهِلَّ لغير الله به.
+
+* *
+
+وقال آخرون: بل الذي استثنى الله بقوله:"إلا ما يتلى عليكم"، الخنزير.
+
+ذكر من قال ذلك:
+
+١٠٩٣٣- حدثني عبد الله بن داود قال، حدثنا عبد الله بن صالح قال، حدثني معاوية، عن علي، عن ابن عباس:"إلا ما يتلى عليكم"، قال: الخنزير.
+
+١٠٩٣٤- حدثت عن الحسين قال، سمعت أبا معاذ يقول، أخبرنا عبيد بن سليمان قال، سمعت الضحاك يقول في قوله:"إلا ما يتلى عليكم"، يعني: الخنزير.
+
+* *
+
+قال أبو جعفر: وأولى التأويلين في ذلك بالصواب، تأويل من قال:"عنى بذلك: إلا ما يتلى عليكم من تحريم الله ما حرّم عليكم بقوله:"حرمت عليكم الميتة"، الآية. لأن الله عز وجل استثنى مما أباح لعباده من بهيمة الأنعام، ما حرَّم عليهم منها. والذي حرّم عليهم منها، ما بيّنه في قوله: ﴿حُرِّمَتْ عَلَيْكُمُ الْمَيْتَةُ وَالدَّمُ وَلَحْمُ الْخِنزيرِ﴾ [سورة المائدة: ٣] . وإن كان حرَّمه الله علينا، فليس من بهيمة الأنعام فيستثنى منها. فاستثناء ما حرَّم علينا مما دخل في جملة ما قبل الاستثناء، أشبهُ من استثناء ما حرَّم مما لم يدخل في جملة ما قبل الاستثناء.
+
+* *
+
+القول في تأويل قوله: ﴿غَيْرَ مُحِلِّي الصَّيْدِ وَأَنْتُمْ حُرُمٌ إِنَّ اللَّهَ يَحْكُمُ مَا يُرِيدُ﴾
+
+قال أبو جعفر: اختلف أهل التأويل في تأويل ذلك.
+
+فقال بعضهم: معنى ذلك:"يا أيها الذين آمنوا أوفوا بالعقود" ="غير محلي الصيد وأنتم حرم" ="أحلت لكم بهيمة الأنعام" فذلك، على قولهم، من المؤخر الذي معناه التقديم. فـ"غير" منصوب = على قول قائلي هذه المقالة = على الحال مما في قوله:"أوفوا" من ذكر"الذين آمنوا".
+
+وتأويل الكلام على مذهبهم: أوفوا، أيها المؤمنون، بعقود الله التي عقدها عليكم في كتابه، لا محلّين الصيد وأنتم حرم.
+
+* *
+
+وقال آخرون: معنى ذلك: أحلت لكم بهيمة الأنعام الوحشية من الظباء والبقر والحمر ="غير محلي الصيد"، غير مستحلِّي اصطيادها، وأنتم حرم إلا ما يتلى عليكم". فـ"غير"، على قول هؤلاء، منصوب على الحال من"الكاف والميم" اللتين في قوله:"لكم"، بتأويل: أحلت لكم، أيها الذين آمنوا، بهيمة الأنعام، لا مستحلِّي اصطيادها في حال إحرامكم. [[انظر معاني القرآن للفراء ١: ٢٩٨.]]
+
+* *
+
+وقال آخرون: معنى ذلك: أحلت لكم بهيمة الأنعام كلها ="إلا ما يتلى عليكم"، إلا ما كان منها وحشيًّا، فإنه صيد، فلا يحل لكم وأنتم حرم. فكأن من قال ذلك، وجَّه الكلام إلى معنى: أحلت لكم بهيمة الأنعام كلها ="إلا ما يتلى عليكم"، إلا ما يبين لكم من وحشيها، غيرَ مستحلي اصطيادها في حال إحرامكم. فتكون"غير" منصوبة، على قولهم، على الحال من"الكاف والميم" في قوله:"إلا ما يتلى عليكم".
+
+ذكر من قال ذلك:
+
+١٠٩٣٥- حدثنا سفيان بن وكيع قال، حدثنا عبيد الله، عن أبي جعفر الرازي، عن الربيع بن أنس قال: جلسنا إلى مطرِّف بن الشخير، وعنده رجل، فحدّثهم فقال:"أحلت لكم بهيمة الأنعام" صيدًا ="غير محلي الصيد وأنتم حرم"، فهو عليكم حرام. يعني: بقر الوحش والظباءَ وأشباهه. [[انظر الإسناد السالف رقم: ١٠٨٩٧، وكان هناك عن"ابن أبي جعفر الرازي"، وهذا هو الإسناد الصحيح، صححت ذلك عليه. وسيأتي برقم: ١٠٩٥٧، ١٠٩٦٣.]]
+
+١٠٩٣٦- حدثني المثنى قال، حدثنا إسحاق قال، حدثنا عبد الله بن أبي جعفر، عن أبيه، عن الربيع بن أنس في قوله:"أحلت لكم بهيمة الأنعام إلا ما يتلى عليكم غير محلي الصيد وأنتم حرم"، قال: الأنعام كلها حِلٌّ، إلا ما كان منها وحشيًّا، فإنه صيد، فلا يحل إذا كان مُحْرِمًا.
+
+* *
+
+قال أبو جعفر: وأولى الأقوال في ذلك بالصواب = على ما تظاهر به تأويل أهل التأويل في قوله:"أحلت لكم بهيمة الأنعام"، من أنها الأنعام وأجنَّتها وسخالها، وعلى دلالة ظاهر التنزيل = قولُ من قال: معنى ذلك: أوفوا بالعقود، غيرَ محلي الصيد وأنتم حرم، فقد أحلت لكم بهيمة الأنعام في حال إحرامكم أو غيرها من أحوالكم، إلا ما يتلى عليكم تحريمه من الميتة منها والدم، وما أهل لغير الله به.
+
+وذلك أن قوله:"إلا ما يتلى عليكم"، لو كان معناه:"إلا الصيد"، لقيل:"إلا ما يتلى عليكم من الصيد غير محليه". وفي ترك الله وَصْلَ قوله:"إلا ما يتلى عليكم" بما ذكرت، وإظهار ذكر الصيد في قوله:"غير محلي الصيد"، أوضحُ الدليل على أن قوله:"إلا ما يتلى عليكم"، خَبَرٌ متناهية قصته، وأن معنى قوله:"غير محلي الصيد"، منفصل منه.
+
+وكذلك لو كان قوله: ﴿أحلت لكم بهيمة الأنعام﴾ ، مقصودًا به قصد الوحش، لم يكن أيضًا لإعادة ذكر الصيد في قوله:"غير محلي الصيد" وَجْهٌ، وقد مضى ذكره قبل، ولقيل:"أحلت لكم بهيمة الأنعام إلا ما يتلى عليكم غير محلِّيه وأنتم حرم". وفي إظهاره ذكر الصيد في قوله:"غير محلي الصيد"، أبينُ الدلالة على صحة ما قلنا في معنى ذلك.
+
+* *
+
+فإن قال قائل: فإن العرب ربما أظهرت ذكر الشيء باسمه وقد جرى ذكره باسمه؟ قيل: ذلك من فعلها ضرورة شعر، وليس ذلك بالفصيح المستعمل من كلامهم. وتوجيه كلام الله إلى الأفصح من لغات من نزل كلامه بلغته، أولى = ما وُجد إلى ذلك سبيل = من صرفه إلى غير ذلك.
+
+* *
+
+قال أبو جعفر: فمعنى الكلام إذًا: يا أيها الذين آمنوا أوفوا بعقود الله التي عقد عليكم مما حرّم وأحلّ، لا محلين الصيد في حرمكم، ففيما أحلَّ لكم من بهيمة الأنعام المذكَّاة دون ميتتها، متَّسع لكم ومستغنًى عن الصيد في حال إحرامكم.
+
+* *
+
+القول في تأويل قوله: ﴿إِنَّ اللَّهَ يَحْكُمُ مَا يُرِيدُ (١) ﴾
+
+قال أبو جعفر: يعني بذلك جل ثناؤه: إن الله يقضي في خلقه ما يشاء [[انظر تفسير"حكم" فيما سلف: ص ٣٢٤: تعليق: ٣.]] من تحليل ما أراد تحليله، وتحريم ما أراد تحريمه، وإيجاب ما شاء إيجابه عليهم، وغير ذلك من أحكامه وقضاياه = فأوفوا، أيها المؤمنون، له بما عقدَ عليكم من تحليل ما أحل لكم وتحريم ما حرّم عليكم، وغير ذلك من عقوده، فلا تنكثوها ولا تنقضوها. كما:-
+
+١٠٩٣٧- حدثنا بشر قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة قوله:"إن الله يحكم ما يريد"، إن الله يحكم ما أراد في خلقه، وبيّن لعباده، وفرض فرائضه، وحدَّ حدوده، وأمر بطاعته، ونهى عن معصيته.
+
+* *
+
+القول في تأويل قوله: ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا لا تُحِلُّوا شَعَائِرَ اللَّهِ﴾
+
+قال أبو جعفر: اختلف أهل التأويل في معنى قول الله:"لا تحلوا شعائر الله".
+
+فقال بعضهم معناه: لا تحلوا حُرُمات الله، ولا تتعدَّوا حدوده = كأنهم وجهوا"الشعائر" إلى المعالم، وتأولوا"لا تحلوا شعائر الله"، معالم حدود الله، وأمرَه ونهيَه وفرائضَه.
+
+[ذكر من قال ذلك] : [[ما بين القوسين زيادة ليست في المخطوطة ولا المطبوعة، وأثبتها على نهج أبي جعفر في تفسيره.]]
+
+١٠٩٣٨- حدثنا ابن وكيع قال، حدثنا عبد الوهاب الثقفي قال، حدثنا حبيب المعلم، عن عطاء: أنه سئل عن"شعائر الله" فقال: حُرُمات الله، اجتناب سَخَطِ الله، واتباع طاعته، فذلك"شعائر الله".
+
+* *
+
+وقال آخرون: معنى ذلك: [[في المطبوعة والمخطوطة: "معنى قوله"، وهو لا يستقيم، وما أثبت أشبه بالصواب.]] لا تحلوا حَرَم الله = فكأنهم وجهوا معنى قوله:"شعائر الله"، أي: معالم حرم الله من البلاد.
+
+ذكر من قال ذلك:
+
+١٠٩٣٩- حدثنا محمد بن الحسين قال، حدثنا أحمد بن المفضل قال، حدثنا أسباط، عن السدي:"يا أيها الذين آمنوا لا تحلوا شعائر الله"، قال: أما"شعائر الله"، فحرَم الله.
+
+* *
+
+وقال آخرون: معنى ذلك: لا تحلّوا مناسك الحج فتضيعوها = وكأنهم وجَّهوا تأويل ذلك إلى: لا تحلوا معالم حدود الله التي حدَّها لكم في حجِّكم.
+
+ذكر من قال ذلك:
+
+١٠٩٤٠- حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج قال، قال ابن جريج، قال ابن عباس قوله:"لا تحلوا شعائر الله"، قال: مناسك الحج.
+
+١٠٩٤١- حدثني المثنى قال، حدثنا أبو صالح قال، حدثنا معاوية، عن علي بن أبي طلحة، عن ابن عباس قوله:"يا أيها الذين آمنوا لا تحلوا شعائر الله"، قال: كان المشركون يحجّون البيت الحرام، ويهدُون الهدايا، ويعظِّمون حرمة المشاعر، ويتَّجرون في حجهم، فأراد المسلمون أن يُغَيِّروا عليهم، فقال الله عز وجل:"لا تحلوا شعائر الله".
+
+١٠٩٤٢- حدثني محمد بن عمرو قال، حدثنا أبو عاصم قال، حدثنا عيسى، عن ابن أبي نجيح، عن مجاهد في قول الله:"شعائر الله"، الصفا والمروة، والهَدْي، والبُدْن، كل هذا من"شعائر الله".
+
+١٠٩٤٣- حدثني المثنى قال، حدثني أبو حذيفة قال، حدثنا شبل، عن ابن أبي نجيح، عن مجاهد، مثله.
+
+* *
+
+وقال آخرون: معنى ذلك: لا تحلوا ما حرَّم الله عليكم في حال إحرامكم.
+
+ذكر من قال ذلك:
+
+١٠٩٤٤- حدثنا محمد بن سعد قال، حدثني أبي قال، حدثني عمي قال، حدثني أبي، عن أبيه، عن ابن عباس قوله:"لا تحلوا شعائر الله"، قال:"شعائر الله"، ما نهى الله عنه أن تصيبه وأنت محرِم.
+
+* *
+
+= وكأن الذين قالوا هذه المقالة، وجَّهوا تأويل ذلك إلى: لا تحلوا معالم حدود الله التي حرّمها عليكم في إحرامكم.
+
+* *
+
+قال أبو جعفر: وأولى التأويلات بقوله:"لا تحلوا شعائر الله"، قول عطاء الذي ذكرناه [[هو الأثر السالف رقم: ١٠٩٣٨.]] من توجيهه معنى ذلك إلى: لا تحلوا حرمات الله ولا تضيعوا فرائضه.
+
+* *
+
+لأن"الشعائر" جمع"شعيرة"،"والشعيرة""فعيلة" من قول القائل:"قد شعر فلان بهذا الأمر"، إذا علم به. فـ"الشعائر"، المعالم، من ذلك. [[انظر تفسير"شعائر الله" فيما سلف ٣: ٢٢٦-٢٢٨.]]
+
+* *
+
+وإذا كان ذلك كذلك، كان معنى الكلام: لا تستحلوا، أيها الذين آمنوا، معالم الله = فيدخل في ذلك معالم الله كلها في مناسك الحج: من تحريم ما حرَّم الله إصابته فيها على المحرم، وتضييع ما نهى عن تضييعه فيها، وفيما حرَّم من استحلال حُرمات حَرَمه، وغير ذلك من حدوده وفرائضه، وحلاله وحرامه، لأن كل ذلك من معالمه وشعائره التي جعلها أماراتٍ بين الحق والباطل، يُعْلَم بها حلالُه وحرامه، وأمره ونهيه.
+
+وإنما قلنا ذلك القول أولى بتأويل قوله تعالى:"لا تحلوا شعائر الله"، لأن الله نهى عن استحلال شعائره ومعالم حدوده وإحلالها نهيًا عامًّا، من غير اختصاص شيء من ذلك دون شيء، فلم يَجُز لأحد أن يوجِّه معنى ذلك إلى الخصوص إلا بحجة يجب التسليم لها، ولا حجة بذلك كذلك.
 
 ### al-Muyassar (Arabic)
 

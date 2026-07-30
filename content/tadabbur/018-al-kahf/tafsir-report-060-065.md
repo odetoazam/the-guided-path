@@ -144,9 +144,57 @@ The Messenger of Allah ﷺ said,
 
 أَقَتَلْتَ نَفْسًا زَكِيَّةً بِغَيْرِ نَفْسٍ لَّقَدْ جِئْتَ شَيْئًا نُّكْرًا - قَالَ أَلَمْ أَقُل لَّكَ إِنَّكَ لَن تَسْتَطِيعَ مَعِيَ صَبْرًا
 
-(In the first instance, Musa asked Al-Khidr because he had forgotten his promise. Then a bird came and sat on the edge of the boat, dipping its beak once or twice in the sea. Al-Khidr said to Musa, "My knowledge and your knowledge, in comparison to Allah's knowledge, is like what this bird has taken out of the sea." Then they both disembarked from the boat, and while they were walking on the shore, Al-Khidr saw a boy playing with 
+(In the first instance, Musa asked Al-Khidr because he had forgotten his promise. Then a bird came and sat on the edge of the boat, dipping its beak once or twice in the sea. Al-Khidr said to Musa, "My knowledge and your knowledge, in comparison to Allah's knowledge, is like what this bird has taken out of the sea." Then they both disembarked from the boat, and while they were walking on the shore, Al-Khidr saw a boy playing with other boys. Al-Khidr took hold of the boy's head and pulled it off with his hands, killing him. Musa said to him,
 
-[TRUNCATED at 12000 chars — 3579 more. Consult the source directly before relying on anything near the cut.]
+("Have you killed an innocent person who had killed none! Verily, you have committed a thing Nukr!" He said, "Did I not tell you that you would not be able to have patience with me?")
+
+قَالَ: وَهَذِهِ أَشَدُّ مِنَ الْأُولَى
+
+قَالَ إِن سَأَلْتُكَ عَن شَيْءٍ بَعْدَهَا فَلَا تُصَاحِبْنِي ۖ قَدْ بَلَغْتَ مِن لَّدُنِّي عُذْرًا - فَانطَلَقَا حَتَّىٰ إِذَا أَتَيَا أَهْلَ قَرْيَةٍ اسْتَطْعَمَا أَهْلَهَا فَأَبَوْا أَن يُضَيِّفُوهُمَا فَوَجَدَا فِيهَا جِدَارًا يُرِيدُ أَن يَنقَضَّ
+
+أَيْ مَائِلًا، فَقَالَ الْخَضِرُ بِيَدِهِ
+
+فَأَقَامَهُ
+
+فَقَالَ مُوسَى: قَوْمٌ أَتَيْنَاهُمْ فَلَمْ يُطْعِمُونَا وَلَمْ يُضَيِّفُونَا
+
+لَوْ شِئْتَ لَاتَّخَذْتَ عَلَيْهِ أَجْرًا - قَالَ هَٰذَا فِرَاقُ بَيْنِي وَبَيْنِكَ ۚ سَأُنَبِّئُكَ بِتَأْوِيلِ مَا لَمْ تَسْتَطِع عَّلَيْهِ صَبْرًا
+
+[The narrator] said, "The second blame was stronger than the first one".
+
+(Musa said, "If I ask you anything after this, keep me not in your company; you have received an excuse from me." Then they both proceeded until they came to the people of a town. They asked them for food but they refused to entertain them. (Then) they found there a wall on the point of falling down.)
+
+(Al-Khidr) set it up straight with his own hands. Musa said, "We came to these people, but they neither fed us nor received us as guests.
+
+(If you had wished, surely, you could have taken wages for it!" (Al-Khidr) said: "This is the parting between you and I. I will tell you the interpretation of (those) things over which you were unable to be patient.")
+
+The Messenger of Allah ﷺ said:
+
+وَدِدْنَا أَنَّ مُوسَى كَانَ صَبَرَ حَتَّى يَقُصَّ اللهُ عَلَيْنَا مِنْ خَبَرِهِمَا
+
+(We wish that Musa was patient so that Allah would have told us more about both of them.) Sa'id bin Jubayr said: "Ibn 'Abbas used to recite [Ayah no. 79]
+
+(وَكَانَ أَمَامَهُمْ مَلِكٌ يَاْخُذُ كُلَّ سَفِينَةٍ صَالَـحَةٍ غَضْبًا)
+
+(There was a king before them who seized every good-conditioned ship by force) and [Ayah no 80]
+
+(وَأَمَّا الْغُلَامُ فَكَانَ كَافِرًا وَكَانَ أَبَوَاهُ مُؤْمِنَيْنِ)
+
+(As for the boy, he was a disbeliever and his parents were believers.)
+
+Then (in another narration) Al-Bukhari recorded a similar account which says:
+
+فَخَرَجَ مُوسَى وَمَعَهُ فَتَاهُ يُوشَعُ بْنُ نُونٍ وَمَعَهُمَا الْحُوتُ، حَتَّى انْتَهَيَا إِلَى الصَّخْرَةِ، فَنَزَلَا عِنْدَهَا، قَالَ: فَوَضَعَ مُوسَى رَأْسَهُ فَنَامَ، قَالَ: وَفِي أَصْلِ الصَّخْرَةِ عَيْنٌ يُقَالُ لَهَا الْحَيَاةُ لَا يُصِيبُ مِنْ مَائِهَا شَيْءٌ إِلَّا حَيِيَ فَأَصَابَ الْحُوتَ مِنْ مَاءِ تِلْكَ الْعَيْنِ، فَتَحَرَّكَ وَانْسَلَّ مِنَ الْمِكْتَلِ فَدَخَلَ الْبَحْرَ، فَلَمَّا اسْتَيْقَظَ قَالَ مُوسَى لِفَتَاهُ:
+
+آتِنَا غَدَاءَنَا
+
+(...then Musa set out and with him was his boy-servant Yusha' bin Nun, and they had the fish with them. When they reached the rock, they camped there, and Musa lay down his head and slept. At the base of the rock there was a spring called Al-Hayat; its water never touched a thing but it brought it to life. Some of its water touched the fish, so it began to move and jumped out of the vessel and into the sea. When he woke up, Musa said to his boy-servant:
+
+(Bring us our morning meal.))
+
+Then he quoted the rest of the Hadith.
+
+Then a bird came and perched on the edge of the ship, and dipped its beak in the sea, and Al-Khidr said to Musa, "My knowledge and your knowledge and the knowledge of all of creation, in comparison to the knowledge of Allah, is like what this bird has taken from the sea." Then he mentioned the rest of the report.
 
 ### al-Tabari (Arabic)
 
@@ -352,9 +400,57 @@ The Messenger of Allah ﷺ said,
 
 أَقَتَلْتَ نَفْسًا زَكِيَّةً بِغَيْرِ نَفْسٍ لَّقَدْ جِئْتَ شَيْئًا نُّكْرًا - قَالَ أَلَمْ أَقُل لَّكَ إِنَّكَ لَن تَسْتَطِيعَ مَعِيَ صَبْرًا
 
-(In the first instance, Musa asked Al-Khidr because he had forgotten his promise. Then a bird came and sat on the edge of the boat, dipping its beak once or twice in the sea. Al-Khidr said to Musa, "My knowledge and your knowledge, in comparison to Allah's knowledge, is like what this bird has taken out of the sea." Then they both disembarked from the boat, and while they were walking on the shore, Al-Khidr saw a boy playing with 
+(In the first instance, Musa asked Al-Khidr because he had forgotten his promise. Then a bird came and sat on the edge of the boat, dipping its beak once or twice in the sea. Al-Khidr said to Musa, "My knowledge and your knowledge, in comparison to Allah's knowledge, is like what this bird has taken out of the sea." Then they both disembarked from the boat, and while they were walking on the shore, Al-Khidr saw a boy playing with other boys. Al-Khidr took hold of the boy's head and pulled it off with his hands, killing him. Musa said to him,
 
-[TRUNCATED at 12000 chars — 3579 more. Consult the source directly before relying on anything near the cut.]
+("Have you killed an innocent person who had killed none! Verily, you have committed a thing Nukr!" He said, "Did I not tell you that you would not be able to have patience with me?")
+
+قَالَ: وَهَذِهِ أَشَدُّ مِنَ الْأُولَى
+
+قَالَ إِن سَأَلْتُكَ عَن شَيْءٍ بَعْدَهَا فَلَا تُصَاحِبْنِي ۖ قَدْ بَلَغْتَ مِن لَّدُنِّي عُذْرًا - فَانطَلَقَا حَتَّىٰ إِذَا أَتَيَا أَهْلَ قَرْيَةٍ اسْتَطْعَمَا أَهْلَهَا فَأَبَوْا أَن يُضَيِّفُوهُمَا فَوَجَدَا فِيهَا جِدَارًا يُرِيدُ أَن يَنقَضَّ
+
+أَيْ مَائِلًا، فَقَالَ الْخَضِرُ بِيَدِهِ
+
+فَأَقَامَهُ
+
+فَقَالَ مُوسَى: قَوْمٌ أَتَيْنَاهُمْ فَلَمْ يُطْعِمُونَا وَلَمْ يُضَيِّفُونَا
+
+لَوْ شِئْتَ لَاتَّخَذْتَ عَلَيْهِ أَجْرًا - قَالَ هَٰذَا فِرَاقُ بَيْنِي وَبَيْنِكَ ۚ سَأُنَبِّئُكَ بِتَأْوِيلِ مَا لَمْ تَسْتَطِع عَّلَيْهِ صَبْرًا
+
+[The narrator] said, "The second blame was stronger than the first one".
+
+(Musa said, "If I ask you anything after this, keep me not in your company; you have received an excuse from me." Then they both proceeded until they came to the people of a town. They asked them for food but they refused to entertain them. (Then) they found there a wall on the point of falling down.)
+
+(Al-Khidr) set it up straight with his own hands. Musa said, "We came to these people, but they neither fed us nor received us as guests.
+
+(If you had wished, surely, you could have taken wages for it!" (Al-Khidr) said: "This is the parting between you and I. I will tell you the interpretation of (those) things over which you were unable to be patient.")
+
+The Messenger of Allah ﷺ said:
+
+وَدِدْنَا أَنَّ مُوسَى كَانَ صَبَرَ حَتَّى يَقُصَّ اللهُ عَلَيْنَا مِنْ خَبَرِهِمَا
+
+(We wish that Musa was patient so that Allah would have told us more about both of them.) Sa'id bin Jubayr said: "Ibn 'Abbas used to recite [Ayah no. 79]
+
+(وَكَانَ أَمَامَهُمْ مَلِكٌ يَاْخُذُ كُلَّ سَفِينَةٍ صَالَـحَةٍ غَضْبًا)
+
+(There was a king before them who seized every good-conditioned ship by force) and [Ayah no 80]
+
+(وَأَمَّا الْغُلَامُ فَكَانَ كَافِرًا وَكَانَ أَبَوَاهُ مُؤْمِنَيْنِ)
+
+(As for the boy, he was a disbeliever and his parents were believers.)
+
+Then (in another narration) Al-Bukhari recorded a similar account which says:
+
+فَخَرَجَ مُوسَى وَمَعَهُ فَتَاهُ يُوشَعُ بْنُ نُونٍ وَمَعَهُمَا الْحُوتُ، حَتَّى انْتَهَيَا إِلَى الصَّخْرَةِ، فَنَزَلَا عِنْدَهَا، قَالَ: فَوَضَعَ مُوسَى رَأْسَهُ فَنَامَ، قَالَ: وَفِي أَصْلِ الصَّخْرَةِ عَيْنٌ يُقَالُ لَهَا الْحَيَاةُ لَا يُصِيبُ مِنْ مَائِهَا شَيْءٌ إِلَّا حَيِيَ فَأَصَابَ الْحُوتَ مِنْ مَاءِ تِلْكَ الْعَيْنِ، فَتَحَرَّكَ وَانْسَلَّ مِنَ الْمِكْتَلِ فَدَخَلَ الْبَحْرَ، فَلَمَّا اسْتَيْقَظَ قَالَ مُوسَى لِفَتَاهُ:
+
+آتِنَا غَدَاءَنَا
+
+(...then Musa set out and with him was his boy-servant Yusha' bin Nun, and they had the fish with them. When they reached the rock, they camped there, and Musa lay down his head and slept. At the base of the rock there was a spring called Al-Hayat; its water never touched a thing but it brought it to life. Some of its water touched the fish, so it began to move and jumped out of the vessel and into the sea. When he woke up, Musa said to his boy-servant:
+
+(Bring us our morning meal.))
+
+Then he quoted the rest of the Hadith.
+
+Then a bird came and perched on the edge of the ship, and dipped its beak in the sea, and Al-Khidr said to Musa, "My knowledge and your knowledge and the knowledge of all of creation, in comparison to the knowledge of Allah, is like what this bird has taken from the sea." Then he mentioned the rest of the report.
 
 ### al-Tabari (Arabic)
 
@@ -574,9 +670,57 @@ The Messenger of Allah ﷺ said,
 
 أَقَتَلْتَ نَفْسًا زَكِيَّةً بِغَيْرِ نَفْسٍ لَّقَدْ جِئْتَ شَيْئًا نُّكْرًا - قَالَ أَلَمْ أَقُل لَّكَ إِنَّكَ لَن تَسْتَطِيعَ مَعِيَ صَبْرًا
 
-(In the first instance, Musa asked Al-Khidr because he had forgotten his promise. Then a bird came and sat on the edge of the boat, dipping its beak once or twice in the sea. Al-Khidr said to Musa, "My knowledge and your knowledge, in comparison to Allah's knowledge, is like what this bird has taken out of the sea." Then they both disembarked from the boat, and while they were walking on the shore, Al-Khidr saw a boy playing with 
+(In the first instance, Musa asked Al-Khidr because he had forgotten his promise. Then a bird came and sat on the edge of the boat, dipping its beak once or twice in the sea. Al-Khidr said to Musa, "My knowledge and your knowledge, in comparison to Allah's knowledge, is like what this bird has taken out of the sea." Then they both disembarked from the boat, and while they were walking on the shore, Al-Khidr saw a boy playing with other boys. Al-Khidr took hold of the boy's head and pulled it off with his hands, killing him. Musa said to him,
 
-[TRUNCATED at 12000 chars — 3579 more. Consult the source directly before relying on anything near the cut.]
+("Have you killed an innocent person who had killed none! Verily, you have committed a thing Nukr!" He said, "Did I not tell you that you would not be able to have patience with me?")
+
+قَالَ: وَهَذِهِ أَشَدُّ مِنَ الْأُولَى
+
+قَالَ إِن سَأَلْتُكَ عَن شَيْءٍ بَعْدَهَا فَلَا تُصَاحِبْنِي ۖ قَدْ بَلَغْتَ مِن لَّدُنِّي عُذْرًا - فَانطَلَقَا حَتَّىٰ إِذَا أَتَيَا أَهْلَ قَرْيَةٍ اسْتَطْعَمَا أَهْلَهَا فَأَبَوْا أَن يُضَيِّفُوهُمَا فَوَجَدَا فِيهَا جِدَارًا يُرِيدُ أَن يَنقَضَّ
+
+أَيْ مَائِلًا، فَقَالَ الْخَضِرُ بِيَدِهِ
+
+فَأَقَامَهُ
+
+فَقَالَ مُوسَى: قَوْمٌ أَتَيْنَاهُمْ فَلَمْ يُطْعِمُونَا وَلَمْ يُضَيِّفُونَا
+
+لَوْ شِئْتَ لَاتَّخَذْتَ عَلَيْهِ أَجْرًا - قَالَ هَٰذَا فِرَاقُ بَيْنِي وَبَيْنِكَ ۚ سَأُنَبِّئُكَ بِتَأْوِيلِ مَا لَمْ تَسْتَطِع عَّلَيْهِ صَبْرًا
+
+[The narrator] said, "The second blame was stronger than the first one".
+
+(Musa said, "If I ask you anything after this, keep me not in your company; you have received an excuse from me." Then they both proceeded until they came to the people of a town. They asked them for food but they refused to entertain them. (Then) they found there a wall on the point of falling down.)
+
+(Al-Khidr) set it up straight with his own hands. Musa said, "We came to these people, but they neither fed us nor received us as guests.
+
+(If you had wished, surely, you could have taken wages for it!" (Al-Khidr) said: "This is the parting between you and I. I will tell you the interpretation of (those) things over which you were unable to be patient.")
+
+The Messenger of Allah ﷺ said:
+
+وَدِدْنَا أَنَّ مُوسَى كَانَ صَبَرَ حَتَّى يَقُصَّ اللهُ عَلَيْنَا مِنْ خَبَرِهِمَا
+
+(We wish that Musa was patient so that Allah would have told us more about both of them.) Sa'id bin Jubayr said: "Ibn 'Abbas used to recite [Ayah no. 79]
+
+(وَكَانَ أَمَامَهُمْ مَلِكٌ يَاْخُذُ كُلَّ سَفِينَةٍ صَالَـحَةٍ غَضْبًا)
+
+(There was a king before them who seized every good-conditioned ship by force) and [Ayah no 80]
+
+(وَأَمَّا الْغُلَامُ فَكَانَ كَافِرًا وَكَانَ أَبَوَاهُ مُؤْمِنَيْنِ)
+
+(As for the boy, he was a disbeliever and his parents were believers.)
+
+Then (in another narration) Al-Bukhari recorded a similar account which says:
+
+فَخَرَجَ مُوسَى وَمَعَهُ فَتَاهُ يُوشَعُ بْنُ نُونٍ وَمَعَهُمَا الْحُوتُ، حَتَّى انْتَهَيَا إِلَى الصَّخْرَةِ، فَنَزَلَا عِنْدَهَا، قَالَ: فَوَضَعَ مُوسَى رَأْسَهُ فَنَامَ، قَالَ: وَفِي أَصْلِ الصَّخْرَةِ عَيْنٌ يُقَالُ لَهَا الْحَيَاةُ لَا يُصِيبُ مِنْ مَائِهَا شَيْءٌ إِلَّا حَيِيَ فَأَصَابَ الْحُوتَ مِنْ مَاءِ تِلْكَ الْعَيْنِ، فَتَحَرَّكَ وَانْسَلَّ مِنَ الْمِكْتَلِ فَدَخَلَ الْبَحْرَ، فَلَمَّا اسْتَيْقَظَ قَالَ مُوسَى لِفَتَاهُ:
+
+آتِنَا غَدَاءَنَا
+
+(...then Musa set out and with him was his boy-servant Yusha' bin Nun, and they had the fish with them. When they reached the rock, they camped there, and Musa lay down his head and slept. At the base of the rock there was a spring called Al-Hayat; its water never touched a thing but it brought it to life. Some of its water touched the fish, so it began to move and jumped out of the vessel and into the sea. When he woke up, Musa said to his boy-servant:
+
+(Bring us our morning meal.))
+
+Then he quoted the rest of the Hadith.
+
+Then a bird came and perched on the edge of the ship, and dipped its beak in the sea, and Al-Khidr said to Musa, "My knowledge and your knowledge and the knowledge of all of creation, in comparison to the knowledge of Allah, is like what this bird has taken from the sea." Then he mentioned the rest of the report.
 
 ### al-Tabari (Arabic)
 
@@ -732,9 +876,57 @@ The Messenger of Allah ﷺ said,
 
 أَقَتَلْتَ نَفْسًا زَكِيَّةً بِغَيْرِ نَفْسٍ لَّقَدْ جِئْتَ شَيْئًا نُّكْرًا - قَالَ أَلَمْ أَقُل لَّكَ إِنَّكَ لَن تَسْتَطِيعَ مَعِيَ صَبْرًا
 
-(In the first instance, Musa asked Al-Khidr because he had forgotten his promise. Then a bird came and sat on the edge of the boat, dipping its beak once or twice in the sea. Al-Khidr said to Musa, "My knowledge and your knowledge, in comparison to Allah's knowledge, is like what this bird has taken out of the sea." Then they both disembarked from the boat, and while they were walking on the shore, Al-Khidr saw a boy playing with 
+(In the first instance, Musa asked Al-Khidr because he had forgotten his promise. Then a bird came and sat on the edge of the boat, dipping its beak once or twice in the sea. Al-Khidr said to Musa, "My knowledge and your knowledge, in comparison to Allah's knowledge, is like what this bird has taken out of the sea." Then they both disembarked from the boat, and while they were walking on the shore, Al-Khidr saw a boy playing with other boys. Al-Khidr took hold of the boy's head and pulled it off with his hands, killing him. Musa said to him,
 
-[TRUNCATED at 12000 chars — 3579 more. Consult the source directly before relying on anything near the cut.]
+("Have you killed an innocent person who had killed none! Verily, you have committed a thing Nukr!" He said, "Did I not tell you that you would not be able to have patience with me?")
+
+قَالَ: وَهَذِهِ أَشَدُّ مِنَ الْأُولَى
+
+قَالَ إِن سَأَلْتُكَ عَن شَيْءٍ بَعْدَهَا فَلَا تُصَاحِبْنِي ۖ قَدْ بَلَغْتَ مِن لَّدُنِّي عُذْرًا - فَانطَلَقَا حَتَّىٰ إِذَا أَتَيَا أَهْلَ قَرْيَةٍ اسْتَطْعَمَا أَهْلَهَا فَأَبَوْا أَن يُضَيِّفُوهُمَا فَوَجَدَا فِيهَا جِدَارًا يُرِيدُ أَن يَنقَضَّ
+
+أَيْ مَائِلًا، فَقَالَ الْخَضِرُ بِيَدِهِ
+
+فَأَقَامَهُ
+
+فَقَالَ مُوسَى: قَوْمٌ أَتَيْنَاهُمْ فَلَمْ يُطْعِمُونَا وَلَمْ يُضَيِّفُونَا
+
+لَوْ شِئْتَ لَاتَّخَذْتَ عَلَيْهِ أَجْرًا - قَالَ هَٰذَا فِرَاقُ بَيْنِي وَبَيْنِكَ ۚ سَأُنَبِّئُكَ بِتَأْوِيلِ مَا لَمْ تَسْتَطِع عَّلَيْهِ صَبْرًا
+
+[The narrator] said, "The second blame was stronger than the first one".
+
+(Musa said, "If I ask you anything after this, keep me not in your company; you have received an excuse from me." Then they both proceeded until they came to the people of a town. They asked them for food but they refused to entertain them. (Then) they found there a wall on the point of falling down.)
+
+(Al-Khidr) set it up straight with his own hands. Musa said, "We came to these people, but they neither fed us nor received us as guests.
+
+(If you had wished, surely, you could have taken wages for it!" (Al-Khidr) said: "This is the parting between you and I. I will tell you the interpretation of (those) things over which you were unable to be patient.")
+
+The Messenger of Allah ﷺ said:
+
+وَدِدْنَا أَنَّ مُوسَى كَانَ صَبَرَ حَتَّى يَقُصَّ اللهُ عَلَيْنَا مِنْ خَبَرِهِمَا
+
+(We wish that Musa was patient so that Allah would have told us more about both of them.) Sa'id bin Jubayr said: "Ibn 'Abbas used to recite [Ayah no. 79]
+
+(وَكَانَ أَمَامَهُمْ مَلِكٌ يَاْخُذُ كُلَّ سَفِينَةٍ صَالَـحَةٍ غَضْبًا)
+
+(There was a king before them who seized every good-conditioned ship by force) and [Ayah no 80]
+
+(وَأَمَّا الْغُلَامُ فَكَانَ كَافِرًا وَكَانَ أَبَوَاهُ مُؤْمِنَيْنِ)
+
+(As for the boy, he was a disbeliever and his parents were believers.)
+
+Then (in another narration) Al-Bukhari recorded a similar account which says:
+
+فَخَرَجَ مُوسَى وَمَعَهُ فَتَاهُ يُوشَعُ بْنُ نُونٍ وَمَعَهُمَا الْحُوتُ، حَتَّى انْتَهَيَا إِلَى الصَّخْرَةِ، فَنَزَلَا عِنْدَهَا، قَالَ: فَوَضَعَ مُوسَى رَأْسَهُ فَنَامَ، قَالَ: وَفِي أَصْلِ الصَّخْرَةِ عَيْنٌ يُقَالُ لَهَا الْحَيَاةُ لَا يُصِيبُ مِنْ مَائِهَا شَيْءٌ إِلَّا حَيِيَ فَأَصَابَ الْحُوتَ مِنْ مَاءِ تِلْكَ الْعَيْنِ، فَتَحَرَّكَ وَانْسَلَّ مِنَ الْمِكْتَلِ فَدَخَلَ الْبَحْرَ، فَلَمَّا اسْتَيْقَظَ قَالَ مُوسَى لِفَتَاهُ:
+
+آتِنَا غَدَاءَنَا
+
+(...then Musa set out and with him was his boy-servant Yusha' bin Nun, and they had the fish with them. When they reached the rock, they camped there, and Musa lay down his head and slept. At the base of the rock there was a spring called Al-Hayat; its water never touched a thing but it brought it to life. Some of its water touched the fish, so it began to move and jumped out of the vessel and into the sea. When he woke up, Musa said to his boy-servant:
+
+(Bring us our morning meal.))
+
+Then he quoted the rest of the Hadith.
+
+Then a bird came and perched on the edge of the ship, and dipped its beak in the sea, and Al-Khidr said to Musa, "My knowledge and your knowledge and the knowledge of all of creation, in comparison to the knowledge of Allah, is like what this bird has taken from the sea." Then he mentioned the rest of the report.
 
 ### al-Tabari (Arabic)
 
@@ -906,9 +1098,57 @@ The Messenger of Allah ﷺ said,
 
 أَقَتَلْتَ نَفْسًا زَكِيَّةً بِغَيْرِ نَفْسٍ لَّقَدْ جِئْتَ شَيْئًا نُّكْرًا - قَالَ أَلَمْ أَقُل لَّكَ إِنَّكَ لَن تَسْتَطِيعَ مَعِيَ صَبْرًا
 
-(In the first instance, Musa asked Al-Khidr because he had forgotten his promise. Then a bird came and sat on the edge of the boat, dipping its beak once or twice in the sea. Al-Khidr said to Musa, "My knowledge and your knowledge, in comparison to Allah's knowledge, is like what this bird has taken out of the sea." Then they both disembarked from the boat, and while they were walking on the shore, Al-Khidr saw a boy playing with 
+(In the first instance, Musa asked Al-Khidr because he had forgotten his promise. Then a bird came and sat on the edge of the boat, dipping its beak once or twice in the sea. Al-Khidr said to Musa, "My knowledge and your knowledge, in comparison to Allah's knowledge, is like what this bird has taken out of the sea." Then they both disembarked from the boat, and while they were walking on the shore, Al-Khidr saw a boy playing with other boys. Al-Khidr took hold of the boy's head and pulled it off with his hands, killing him. Musa said to him,
 
-[TRUNCATED at 12000 chars — 3579 more. Consult the source directly before relying on anything near the cut.]
+("Have you killed an innocent person who had killed none! Verily, you have committed a thing Nukr!" He said, "Did I not tell you that you would not be able to have patience with me?")
+
+قَالَ: وَهَذِهِ أَشَدُّ مِنَ الْأُولَى
+
+قَالَ إِن سَأَلْتُكَ عَن شَيْءٍ بَعْدَهَا فَلَا تُصَاحِبْنِي ۖ قَدْ بَلَغْتَ مِن لَّدُنِّي عُذْرًا - فَانطَلَقَا حَتَّىٰ إِذَا أَتَيَا أَهْلَ قَرْيَةٍ اسْتَطْعَمَا أَهْلَهَا فَأَبَوْا أَن يُضَيِّفُوهُمَا فَوَجَدَا فِيهَا جِدَارًا يُرِيدُ أَن يَنقَضَّ
+
+أَيْ مَائِلًا، فَقَالَ الْخَضِرُ بِيَدِهِ
+
+فَأَقَامَهُ
+
+فَقَالَ مُوسَى: قَوْمٌ أَتَيْنَاهُمْ فَلَمْ يُطْعِمُونَا وَلَمْ يُضَيِّفُونَا
+
+لَوْ شِئْتَ لَاتَّخَذْتَ عَلَيْهِ أَجْرًا - قَالَ هَٰذَا فِرَاقُ بَيْنِي وَبَيْنِكَ ۚ سَأُنَبِّئُكَ بِتَأْوِيلِ مَا لَمْ تَسْتَطِع عَّلَيْهِ صَبْرًا
+
+[The narrator] said, "The second blame was stronger than the first one".
+
+(Musa said, "If I ask you anything after this, keep me not in your company; you have received an excuse from me." Then they both proceeded until they came to the people of a town. They asked them for food but they refused to entertain them. (Then) they found there a wall on the point of falling down.)
+
+(Al-Khidr) set it up straight with his own hands. Musa said, "We came to these people, but they neither fed us nor received us as guests.
+
+(If you had wished, surely, you could have taken wages for it!" (Al-Khidr) said: "This is the parting between you and I. I will tell you the interpretation of (those) things over which you were unable to be patient.")
+
+The Messenger of Allah ﷺ said:
+
+وَدِدْنَا أَنَّ مُوسَى كَانَ صَبَرَ حَتَّى يَقُصَّ اللهُ عَلَيْنَا مِنْ خَبَرِهِمَا
+
+(We wish that Musa was patient so that Allah would have told us more about both of them.) Sa'id bin Jubayr said: "Ibn 'Abbas used to recite [Ayah no. 79]
+
+(وَكَانَ أَمَامَهُمْ مَلِكٌ يَاْخُذُ كُلَّ سَفِينَةٍ صَالَـحَةٍ غَضْبًا)
+
+(There was a king before them who seized every good-conditioned ship by force) and [Ayah no 80]
+
+(وَأَمَّا الْغُلَامُ فَكَانَ كَافِرًا وَكَانَ أَبَوَاهُ مُؤْمِنَيْنِ)
+
+(As for the boy, he was a disbeliever and his parents were believers.)
+
+Then (in another narration) Al-Bukhari recorded a similar account which says:
+
+فَخَرَجَ مُوسَى وَمَعَهُ فَتَاهُ يُوشَعُ بْنُ نُونٍ وَمَعَهُمَا الْحُوتُ، حَتَّى انْتَهَيَا إِلَى الصَّخْرَةِ، فَنَزَلَا عِنْدَهَا، قَالَ: فَوَضَعَ مُوسَى رَأْسَهُ فَنَامَ، قَالَ: وَفِي أَصْلِ الصَّخْرَةِ عَيْنٌ يُقَالُ لَهَا الْحَيَاةُ لَا يُصِيبُ مِنْ مَائِهَا شَيْءٌ إِلَّا حَيِيَ فَأَصَابَ الْحُوتَ مِنْ مَاءِ تِلْكَ الْعَيْنِ، فَتَحَرَّكَ وَانْسَلَّ مِنَ الْمِكْتَلِ فَدَخَلَ الْبَحْرَ، فَلَمَّا اسْتَيْقَظَ قَالَ مُوسَى لِفَتَاهُ:
+
+آتِنَا غَدَاءَنَا
+
+(...then Musa set out and with him was his boy-servant Yusha' bin Nun, and they had the fish with them. When they reached the rock, they camped there, and Musa lay down his head and slept. At the base of the rock there was a spring called Al-Hayat; its water never touched a thing but it brought it to life. Some of its water touched the fish, so it began to move and jumped out of the vessel and into the sea. When he woke up, Musa said to his boy-servant:
+
+(Bring us our morning meal.))
+
+Then he quoted the rest of the Hadith.
+
+Then a bird came and perched on the edge of the ship, and dipped its beak in the sea, and Al-Khidr said to Musa, "My knowledge and your knowledge and the knowledge of all of creation, in comparison to the knowledge of Allah, is like what this bird has taken from the sea." Then he mentioned the rest of the report.
 
 ### al-Tabari (Arabic)
 
@@ -968,9 +1208,17 @@ The Messenger of Allah ﷺ said,
 
 قال: يَقُصَّانِ آثارَهما، قال: فآتيَا الصَّخْرَةَ، فإذَا رَجُلٌ نائمٌ مُسَجًى بِثَوْبِهِ، فَسَلَّمَ عَلَيْهِ مُوسَى، فَقالَ: وأنَّي بأرْضِنَا السَّلامُ؟ فَقالَ: أنا مُوسَى، قال: مُوسَى بَنِي إسْرائِيلَ؟ قالَ: نَعَمْ، قالَ: يا مُوسَى، إنّي عَلى عِلْمٍ مِنْ عِلْمِ الله؛ عَلَّمَنِيهِ اللهُ لا تعْلَمُهُ، وأنْتَ عَلى عِلْمٍ من عِلْمِهِ عَلَّمَكَهُ لا أعْلَمُهُ، قالَ: فإنّي أتَّبِعُكَ عَلى أنْ تُعَلِّمَنِي مِمَّا عُلِّمْتَ رُشْدًا، قال: فإنِ اتَّبَعْتَنِي فَلا تَسألْنِي عَنْ شَيْءٍ حتى أُحْدِثَ لَكَ مِنْهُ ذِكْرًا، فانْطَلَقا يَمْشِيان عَلى السَّاحِل، فَعُرِفَ الخَضِرُ، فَحُمِلَ بِغَيْرِ نَوْلٍ، فَجَاءَ عُصْفُورٌ، فَوَقَعَ عَلى حَرْفِها فنَقَرَ، أو فَنَقَر فِي المَاءِ، فَقالَ الخَضِرُ لِمُوسَى: ما نَقَصَ عِلْمِي وَعِلْمُكَ مِنْ عِلْمِ اللهِ إلا مِقْدَارَ ما نَقَرَ أوْ نَقَصَ هَذَا العُصْفُورُ مِنَ البَحْرِ". أبو جعفر الطبري يشكّ، وهو في كتابه نَقَر، قال: "فَبَيْنَما هُوَ إذْ لَمْ يَفْجَأهُ مُوسَى إلا وَهُوَ يَتِدُ وَتدًا أوْ يَنزعُ تَخْتا مِنْها، فَقالَ لَهُ مُوسَى: حُمِلْنا بغَيرِ نَوْلٍ وتخْرِقُها لِتُغْرِقَ أهْلَها؟ لَقَدْ جِئْتَ شَيْئًا إمْرًا، قال: ألَمْ أقُل إنَّكَ لَنْ تَسْتطَيعَ مَعِي صَبْرًا، قالَ: لا تُؤَاخِذْني بِمَا نَسيتُ، قالَ: وكانَتِ الأوَلى منْ مُوسَى نِسْيانا، قالَ: ثُمَّ خَرَجا فانْطَلَقا يَمْشِيانِ، فَأبْصَرَا غُلاما يَلْعَبُ مَعَ الغِلْمَانِ، فَأخَذَ برأْسه فَقَتَلَهُ، فَقالَ لَهُ مُوسَى: أقَتَلْتَ نَفْسا زَكِيَّهً بِغَيْرِ نَفْسٍ، لَقَدْ جِئْتَ شيئًا نُكْرًا، قالَ: ألَمْ أقُلْ لَك إنَّكَ لَنْ تسْتَطِيعَ مَعِي صَبرًا؟ قال: إنْ سألْتُكُ عَنْ شَيْءٍ بَعْدَها فَلا تُصَاحِبْي قَدْ بَلَغْتَ مِنْ لَدُنّي عُذْرًا. قالَ: فانْطَلَقا حتى إذَا أتَيا أهْلَ قَرْيَةٍ اسْتَطْعَما أهْلَها، فَلَم يَجِدَا أحَدًا يُطْعِمُهُمْ ولا يَسْقِيهِمْ، فَوَجَدَا فِيها جِدَارًا يُرِيدُ أن يَنْقَضّ، فأقامَهُ بِيَدِهِ، قالَ: مَسَحَه بِيَدِهِ، فَقَالَ لَهُ مُوسَى: لَمْ يُضَيِّفُونا وَلمْ يُنزلُونا، لَوْ شِئْتَ لاتَّخَذْتَ عَلَيْه أجْرًا، قالَ: هَذَا فِراقُ بَيْنِي وَبَيْنك، فقال رسول الله ﷺ: لَوَدِدْتُ أنَّهُ كانَ صَبَرَ حتى يَقُصَّ عَلَيْنا قَصَصهُم".
 
-⁕ حدثنا ابن حميد، قال: ثنا سلمة، قال: ثنا ابن إسحاق، عن الحسن بن عمارة، عن الحكم بن عتيبة، عن سعيد بن جبير، قال: جلست فأسْنَدَ ابن عباس وعنده نفر من أهل الكتاب، فقال بعضهم: يا أبا العباس، إن نوفا ابن امرأة كعب يزعم عن كعب، أن موسى النبيّ الذي طلب العالم، إنما هو موسى بن ميشا، قال سعيد، قال ابن عباس: أنوف يقول هذا؟ قال سعيد: فقلت له نعم، أنا سمعت نوفا يقول ذلك، قال: أنت سمعته يا سعيد؟ قال: قلت: نعم، قال: كذب نوف، ثم قال ابن عباس: حدثني أبيّ بن كعب أن رسول الله ﷺ قال: "إنَّ مُوسَى هُوَ نَبِي بَنِي إسْرَائِيلَ سألَ رَبَّهُ فَقالَ: أيْ رَبّ إنْ كانَ في عِبادِكَ أحَدٌ هُوَ أعْلَمُ مِنِّي فادْلُلْنِي عَلَيْهِ، فقَالَ لَهُ: نَعَمْ فِي عِبادِي مَنْ هُوَ أعْلَمُ مِنْكَ، ثُمَّ نَعَتَ لَهُ مَكانَهُ، وأذنَ لَهُ فَي لُقِيِّهِ، فَخَرَجَ مُوسَى مَعَهُ فَتاه وَمَعَه، حُوتٌ مَلِيحٌ، وَقَدْ قِيلَ لَهُ: إذَا حَيِيَ هَذَا الحُوتُ فِي مَكان فصاحبُك هُنالكَ وَقَدْ أدْرَكْتَ حاجَتَكَ، فخَرَجَ مُوسَى وَمَعَهُ فَتَاهُ، وَمَعَهُ ذلكَ الحُوتُ يَحْمِلانِهِ، فَسارَ حتى جَهدَهُ السَّيْرُ، وانْتَهَى إلى الصَّخْرَةِ وَإلى ذلكَ المَاءِ، ماء الحَياةِ، مَنْ شَرِبَ مِنْهُ خَلَد. ولا يُقارِبُهُ شَيْءٌ مَيِّتٌ إلا حَييَ، فَلَمَّا نزلا وَمَسَّ الحُوتَ المَاءُ حَيِيَ، فاتَّخَذَ سَبِيلَهُ فِي البَحْرِ سَرَبا، فانْطَلَقا، فَلَمَّا جاوَزَا مُنْقَلَبَهُ قالَ مُوسَى: آتنا غَدَاءَنا لقد لَقِينا مِنْ سَفَرِنا هَذَا نَصَبا، قالَ الفَتى وَذَكَرَ: أرَأيْتَ إذْ أوَيْنَا إلى الصَّخْرَةِ فإنّي نَسِيتُ الحُوتَ وَما أنْسانِيهُ إلا الشَّيْطانُ أنْ أذْكُرَهُ واتَّخَذَ سَبِيلَه فِي البَحْرِ عَجَبا" قال ابن عباس: فظهر موسى على الصخرة حين انتهيا إليها، فإذا رجل متلفف في كساء له، فسلم موسى، فردّ عليه العالم، ثم قال له: وما جاء بك؟ إن كان لك في قومك لشغل؟ قال له موسى: جئتك لتعلمني مما علمت رشدا، ﴿قَالَ إِنَّكَ لَنْ تَسْتَطِيعَ مَعِيَ صَبْرًا﴾ ، وكان رجلا يعلم علم الغيب قد علِّم ذلك، فقال موسى: بلى قال: ﴿وَكَيْفَ تَصْبِرُ عَلَى مَا لَمْ تُحِطْ بِهِ خُبْرًا﴾ : أي إنما تعرف ظاهر ما ترى من العدل، ولم تُحط من علم الغيب بما أعلم ﴿قَالَ سَتَجِدُنِي إِنْ شَاءَ اللَّهُ صَابِرًا وَلا أَعْصِي لَكَ أَمْرًا﴾ وإن رأيت ما يخالفني، قَالَ فَإِنِ اتَّبَعْتَنِي فَلا تَسْأَلْنِي عَنْ شَيْءٍ) وإن أنكرته ﴿حَتَّى أُحْدِثَ لَكَ مِنْهُ ذِكْرًا﴾ فانطلقا يمشيان على ساحل البحر، يتعرّضان الناس، يلتمسان من يحملهما، حتى مرّت بهما سفينة جديدة وثيقة لم يمرّ بهما من السفن شيء أحسن ولا أجمل ولا أوثق منها، فسألا أهلها أن يحملوهما، فحملوهما، فلما اطمأنا فيها، ولجت بهما مع أهلها، أخرج منقارا له ومطرقة، ثم عمد إلى ناحية منها فضرب فيها بالمنقار حتى خرقها، ثم أخذ لوحا فطبقه عليها، ثم جلس عليها يرقعها. قال له موسى ورأى أمرا فظع به: ﴿أَخَرَقْتَهَا لِتُغْرِقَ أَهْلَهَا لَقَدْ جِئْتَ شَيْئًا إِمْرًا قَالَ أَلَمْ أَقُلْ إِنَّكَ لَنْ تَسْتَطِيعَ مَعِيَ صَبْرًا قَالَ لا تُؤَاخِذْنِي بِمَا نَسِيتُ﴾ : أي ما تركت من عهدك ﴿وَلا تُرْهِقْنِي مِنْ أَمْرِي عُسْرًا﴾ ثم خرجا من السفينة، فانطلقا حتى إذا أتيا أهل قرية فإذا غلمان يلعبون خلفها، فيهم غلام ليس في الغلمان أظرف منه، ولا أثرى ولا أوضأ منه، فأخذه بيده، وأخذ حجرا، قال: فضرب به رأسه حتى دمغه فقتله، قال: فرأى موسى أمرا فظيعا لا صبر عليه، صبيّ صغير لا ذنب له ﴿قَالَ أَقَتَلْتَ نَفْسًا زَكِيَّةً بِغَيْرِ نَفْسٍ﴾ أي صغيرة بغير نفس ﴿لَق
+⁕ حدثنا ابن حميد، قال: ثنا سلمة، قال: ثنا ابن إسحاق، عن الحسن بن عمارة، عن الحكم بن عتيبة، عن سعيد بن جبير، قال: جلست فأسْنَدَ ابن عباس وعنده نفر من أهل الكتاب، فقال بعضهم: يا أبا العباس، إن نوفا ابن امرأة كعب يزعم عن كعب، أن موسى النبيّ الذي طلب العالم، إنما هو موسى بن ميشا، قال سعيد، قال ابن عباس: أنوف يقول هذا؟ قال سعيد: فقلت له نعم، أنا سمعت نوفا يقول ذلك، قال: أنت سمعته يا سعيد؟ قال: قلت: نعم، قال: كذب نوف، ثم قال ابن عباس: حدثني أبيّ بن كعب أن رسول الله ﷺ قال: "إنَّ مُوسَى هُوَ نَبِي بَنِي إسْرَائِيلَ سألَ رَبَّهُ فَقالَ: أيْ رَبّ إنْ كانَ في عِبادِكَ أحَدٌ هُوَ أعْلَمُ مِنِّي فادْلُلْنِي عَلَيْهِ، فقَالَ لَهُ: نَعَمْ فِي عِبادِي مَنْ هُوَ أعْلَمُ مِنْكَ، ثُمَّ نَعَتَ لَهُ مَكانَهُ، وأذنَ لَهُ فَي لُقِيِّهِ، فَخَرَجَ مُوسَى مَعَهُ فَتاه وَمَعَه، حُوتٌ مَلِيحٌ، وَقَدْ قِيلَ لَهُ: إذَا حَيِيَ هَذَا الحُوتُ فِي مَكان فصاحبُك هُنالكَ وَقَدْ أدْرَكْتَ حاجَتَكَ، فخَرَجَ مُوسَى وَمَعَهُ فَتَاهُ، وَمَعَهُ ذلكَ الحُوتُ يَحْمِلانِهِ، فَسارَ حتى جَهدَهُ السَّيْرُ، وانْتَهَى إلى الصَّخْرَةِ وَإلى ذلكَ المَاءِ، ماء الحَياةِ، مَنْ شَرِبَ مِنْهُ خَلَد. ولا يُقارِبُهُ شَيْءٌ مَيِّتٌ إلا حَييَ، فَلَمَّا نزلا وَمَسَّ الحُوتَ المَاءُ حَيِيَ، فاتَّخَذَ سَبِيلَهُ فِي البَحْرِ سَرَبا، فانْطَلَقا، فَلَمَّا جاوَزَا مُنْقَلَبَهُ قالَ مُوسَى: آتنا غَدَاءَنا لقد لَقِينا مِنْ سَفَرِنا هَذَا نَصَبا، قالَ الفَتى وَذَكَرَ: أرَأيْتَ إذْ أوَيْنَا إلى الصَّخْرَةِ فإنّي نَسِيتُ الحُوتَ وَما أنْسانِيهُ إلا الشَّيْطانُ أنْ أذْكُرَهُ واتَّخَذَ سَبِيلَه فِي البَحْرِ عَجَبا" قال ابن عباس: فظهر موسى على الصخرة حين انتهيا إليها، فإذا رجل متلفف في كساء له، فسلم موسى، فردّ عليه العالم، ثم قال له: وما جاء بك؟ إن كان لك في قومك لشغل؟ قال له موسى: جئتك لتعلمني مما علمت رشدا، ﴿قَالَ إِنَّكَ لَنْ تَسْتَطِيعَ مَعِيَ صَبْرًا﴾ ، وكان رجلا يعلم علم الغيب قد علِّم ذلك، فقال موسى: بلى قال: ﴿وَكَيْفَ تَصْبِرُ عَلَى مَا لَمْ تُحِطْ بِهِ خُبْرًا﴾ : أي إنما تعرف ظاهر ما ترى من العدل، ولم تُحط من علم الغيب بما أعلم ﴿قَالَ سَتَجِدُنِي إِنْ شَاءَ اللَّهُ صَابِرًا وَلا أَعْصِي لَكَ أَمْرًا﴾ وإن رأيت ما يخالفني، قَالَ فَإِنِ اتَّبَعْتَنِي فَلا تَسْأَلْنِي عَنْ شَيْءٍ) وإن أنكرته ﴿حَتَّى أُحْدِثَ لَكَ مِنْهُ ذِكْرًا﴾ فانطلقا يمشيان على ساحل البحر، يتعرّضان الناس، يلتمسان من يحملهما، حتى مرّت بهما سفينة جديدة وثيقة لم يمرّ بهما من السفن شيء أحسن ولا أجمل ولا أوثق منها، فسألا أهلها أن يحملوهما، فحملوهما، فلما اطمأنا فيها، ولجت بهما مع أهلها، أخرج منقارا له ومطرقة، ثم عمد إلى ناحية منها فضرب فيها بالمنقار حتى خرقها، ثم أخذ لوحا فطبقه عليها، ثم جلس عليها يرقعها. قال له موسى ورأى أمرا فظع به: ﴿أَخَرَقْتَهَا لِتُغْرِقَ أَهْلَهَا لَقَدْ جِئْتَ شَيْئًا إِمْرًا قَالَ أَلَمْ أَقُلْ إِنَّكَ لَنْ تَسْتَطِيعَ مَعِيَ صَبْرًا قَالَ لا تُؤَاخِذْنِي بِمَا نَسِيتُ﴾ : أي ما تركت من عهدك ﴿وَلا تُرْهِقْنِي مِنْ أَمْرِي عُسْرًا﴾ ثم خرجا من السفينة، فانطلقا حتى إذا أتيا أهل قرية فإذا غلمان يلعبون خلفها، فيهم غلام ليس في الغلمان أظرف منه، ولا أثرى ولا أوضأ منه، فأخذه بيده، وأخذ حجرا، قال: فضرب به رأسه حتى دمغه فقتله، قال: فرأى موسى أمرا فظيعا لا صبر عليه، صبيّ صغير لا ذنب له ﴿قَالَ أَقَتَلْتَ نَفْسًا زَكِيَّةً بِغَيْرِ نَفْسٍ﴾ أي صغيرة بغير نفس ﴿لَقَدْ جِئْتَ شَيْئًا نُكْرًا قَالَ أَلَمْ أَقُلْ لَكَ إِنَّكَ لَنْ تَسْتَطِيعَ مَعِيَ صَبْرًا قَالَ إِنْ سَأَلْتُكَ عَنْ شَيْءٍ بَعْدَهَا فَلا تُصَاحِبْنِي قَدْ بَلَغْتَ مِنْ لَدُنِّي عُذْرًا﴾ : أي قد أعذرت في شأني ﴿فَانْطَلَقَا حَتَّى إِذَا أَتَيَا أَهْلَ قَرْيَةٍ اسْتَطْعَمَا أَهْلَهَا فَأَبَوْا أَنْ يُضَيِّفُوهُمَا فَوَجَدَا فِيهَا جِدَارًا يُرِيدُ أَنْ يَنْقَضَّ﴾ فهدمه، ثم قعد يبنيه، فضجر موسى مما رآه يصنع من التكليف لما ليس عليه صبر، فقال: ﴿لَوْ شِئْتَ لاتَّخَذْتَ عَلَيْهِ أَجْرًا﴾ أي قد استطعمناهم فلم يطعمونا، وضفناهم فلم يضيفونا، ثم قعدت في غير صنيعة، ولو شئت لأعطيت عليه أجرا في عمله ﴿قَالَ هَذَا فِرَاقُ بَيْنِي وَبَيْنِكَ سَأُنَبِّئُكَ بِتَأْوِيلِ مَا لَمْ تَسْتَطِعْ عَلَيْهِ صَبْرًا أَمَّا السَّفِينَةُ فَكَانَتْ لِمَسَاكِينَ يَعْمَلُونَ فِي الْبَحْرِ فَأَرَدْتُ أَنْ أَعِيبَهَا وَكَانَ وَرَاءَهُمْ مَلِكٌ يَأْخُذُ كُلَّ سَفِينَةٍ غَصْبًا﴾ ، وفي قراءة أبيّ بن كعب: كلّ سفينة صالحة، وإنما عبتها لأردّه عنها، فسلمت حين رأى العيب الذي صنعت بها. ﴿وَأَمَّا الْغُلامُ فَكَانَ أَبَوَاهُ مُؤْمِنَيْنِ فَخَشِينَا أَنْ يُرْهِقَهُمَا طُغْيَانًا وَكُفْرًا فَأَرَدْنَا أَنْ يُبْدِلَهُمَا رَبُّهُمَا خَيْرًا مِنْهُ زَكَاةً وَأَقْرَبَ رُحْمًا وَأَمَّا الْجِدَارُ فَكَانَ لِغُلامَيْنِ يَتِيمَيْنِ فِي الْمَدِينَةِ وَكَانَ تَحْتَهُ كَنز لَهُمَا وَكَانَ أَبُوهُمَا صَالِحًا فَأَرَادَ رَبُّكَ أَنْ يَبْلُغَا أَشُدَّهُمَا وَيَسْتَخْرِجَا كَنزهُمَا رَحْمَةً مِنْ رَبِّكَ وَمَا فَعَلْتُهُ عَنْ أَمْرِي﴾ : أي ما فعلته عن نفسي ﴿ذَلِكَ تَأْوِيلُ مَا لَمْ تَسْطِعْ عَلَيْهِ صَبْرًا﴾ فكان ابن عباس يقول: ما كان الكنز إلا علما.
 
-[TRUNCATED at 12000 chars — 6600 more. Consult the source directly before relying on anything near the cut.]
+⁕ حدثنا ابن حميد، قال: ثنا سلمة، قال: ثني ابن إسحاق، عن الحسن بن عُمارة، عن أبيه، عن عكرِمة قال: قيل لابن عباس: لم نسمع لفتى موسى يذكر من حديث، وقد كان معه [[الذي في الدر بدل هذا: لم نسمع: يعني موسى يذكر من حديث فتاه، وقد كان. . . إلخ.]] ، فقال ابن عباس فيما يذكر من حديث الفتى قال: شرب الفتى من الماء فخلِّد، فأخذه العالم فطابق به سفينة، ثم أرسله في البحر، فإنها لتموج به إلى يوم القيامة، وذلك أنه لم يكن له أن يشرب منه فشرب.
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، قوله: ﴿وَإِذْ قَالَ مُوسَى لِفَتَاهُ لا أَبْرَحُ حَتَّى أَبْلُغَ مَجْمَعَ الْبَحْرَيْنِ أَوْ أَمْضِيَ حُقُبًا﴾ قال: لما ظهر موسى وقومه على مصر أنزل قومه مصر، فلما استقرت بهم الدار أنزل الله عليه أن ﴿وَذَكِّرْهُمْ بِأَيَّامِ اللَّهِ﴾ فخطب قومه، فذكر ما آتاهم الله من الخير والنعمة، وذكَّرهم إذ أنجاهم الله من آل فرعون، وذكَّرهم هلاك عدوّهم، وما استخلفهم الله في الأرض، وقال: كلم الله نبيكم تكليما، واصطفاني لنفسه، وأنزل عليّ محبة منه، وآتاكم الله من كل ما سألتموه، فنبيكم أفضل أهل الأرض، وأنتم تقرءون التوراة، فلم يترك نعمة أنعمها الله عليهم إلا ذكرها، وعرّفها إياهم، فقال له رجل من بني إسرائيل: هم كذلك يا نبي الله، قد عرفنا الذي تقول، فهل على الأرض أحد أعلم منك يا نبي الله؟ قال: لا فبعث الله جبرئيل إلى موسى عليهما السلام، فقال: إن الله يقول: وما يدريك أين أضع علمي؟ بلى إن على شطّ البحر رجلا أعلم منك، فقال ابن عباس: هو الخَضِر، فسأل موسى ربه أن يريه إياه، فأوحى الله إليه أن ائت البحر، فإنك تجد على شطّ البحر حُوتا، فخذه فادفعه إلى فتاك، ثم الزم شطّ البحر، فإذا نسيت الحوت وهَلك منك، فثَمَّ تجد العبد الصالح الذي تطلب، فلما طال سفر موسى نبيّ الله ونصب فيه، سأل فتاه عن الحوت، فقال له فتاه وهو غلامه ﴿أَرَأَيْتَ إِذْ أَوَيْنَا إِلَى الصَّخْرَةِ فَإِنِّي نَسِيتُ الْحُوتَ وَمَا أَنْسَانِيهُ إِلا الشَّيْطَانُ أَنْ أَذْكُرَهُ﴾ قال الفتى: لقد رأيت الحوت حين اتخذ سبيله في البحر سَرَبا، فأعجب ذلك موسى فرجع حتى أتى الصخرة، فوجد الحوت يضرب في البحر، ويتبعه موسى، وجعل موسى يقدّم عصاه يفرُج بها عن الماء يتبع الحوت، وجعل الحوت لا يمسّ شيئا من البحر إلا يبس حتى يكون صخرة، فجعل نبيّ الله يعجب من ذلك حتى انتهى به الحوت إلى جزيرة من جزائر البحر، فلقي الخَضِر بها فسلم عليه، فقال الخضر: وعليك السلام، وأنى يكون هذا السلام بهذه الأرض، ومن أنت؟ قال: أنا موسى، فقال له الخضر: أصاحبُ بني إسرائيل؟ قال: نعم فرحب به، وقال: ما جاء بك؟ قال: جئتك على أن تعلمني مما علمت رُشدا ﴿قَالَ إِنَّكَ لَنْ تَسْتَطِيعَ مَعِيَ صَبْرًا﴾ قال: لا تطيق ذلك، قال موسى: ﴿سَتَجِدُنِي إِنْ شَاءَ اللَّهُ صَابِرًا وَلا أَعْصِي لَكَ أَمْرًا﴾ قال: فانطلق به وقال له: لا تسألني عن شيء أصنعه حتى أبيِّن لك شأنه، فذلك قوله: ﴿أُحْدِثَ لَكَ مِنْهُ ذِكْرًا﴾ فركبا في السفينة يريدان البرّ، فقام الخضر فخرق السفينة، فقال له موسى ﴿أَخَرَقْتَهَا لِتُغْرِقَ أَهْلَهَا لَقَدْ جِئْتَ شَيْئًا إِمْرًا﴾ .
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: ﴿فَلَمَّا بَلَغَا مَجْمَعَ بَيْنِهِمَا نَسِيَا حُوتَهُمَا﴾ ذُكِر أن نبيّ الله ﷺ لما قطع البحر وأنجاه الله من آل فرعون، جمع بني إسرائيل، فخطبهم فقال: أنتم خير أهل الأرض وأعلمه، قد أهلك الله عدوكم، وأقطعكم البحر، وأنزل عليكم التوراة، قال: فقيل له: إن ها هنا رجلا هو أعلم منك، قال: فانطلق هو وفتاه يوشع بن نون يطلبانه، وتزوّدا سمكة مملوحة في مِكتل لهما، وقيل لهما: إذا نسيتما ما معكما لقيتما رجلا عالما يقال له الخضر، فلما أتيا ذلك المكان، ردّ الله إلى الحوت روحه، فسرب له من الجسر حتى أفضى إلى البحر، ثم سلك فجعل لا يسلك فيه طريقا إلا صار ماء جامدا، قال: ومضى موسى وفتاه، يقول الله عز وجل: ﴿فَلَمَّا جَاوَزَا قَالَ لِفَتَاهُ آتِنَا غَدَاءَنَا لَقَدْ لَقِينَا مِنْ سَفَرِنَا هَذَا نَصَبًا قَالَ أَرَأَيْتَ إِذْ أَوَيْنَا إِلَى الصَّخْرَةِ فَإِنِّي نَسِيتُ الْحُوتَ﴾ ... ثم تلا إلى قوله: ﴿وَعَلَّمْنَاهُ مِنْ لَدُنَّا عِلْمًا﴾ فلقيا رجلا عالما يقال له الخَضِر، فذُكر لنا أن نبيّ الله ﷺ قال: "إنَّمَا سُمِيَ الخَضِرُ خَضِرًا لأنهُ قَعَدَ على فَرْوَةٍ بَيْضَاءَ، فاهْتَزَّتْ بِهِ خَضراء". [[في (عرائس المجالس للثعلبي المفسر ص ٢٢٠ طبعة الحلبي) : فإذا هي تهتز تحته خضراء.]]
+
+⁕ حدثني العباس بن الوليد، قال: ثنا أبي، قال: ثنا الأوزاعيّ، قال: ثنا الزهريّ، عن عبيد الله بن عبد الله بن عتبة بن مسعود، عن ابن عباس أنه تمارى هو والحرّ بن قيس بن حِصْن الفزاريّ في صاحب موسى، فقال ابن عباس: هو خَضِر، فمرّ بهما أبيّ بن كعب، فدعاه ابن عباس فقال: إني تماريت أنا وصاحبي هذا في صاحب موسى الذي سأل السبيل إلى لقيه، فقال: سمعت رسول الله ﷺ يذكر شأنه؟ قال: إني سمعت رسول الله ﷺ يقول: "بَيْنا مُوسَى في مَلأ مِنْ بَنِي إسْرَائِيلَ إذْ جاءَهُ رَجُلٌ فَقالَ: تَعْلَمُ مَكانَ أحَدٍ أعْلَمُ مِنْكَ؟ قال مُوسَى: لا فَأوْحَى اللهُ إلى مُوسَى: بَلى عَبْدُنا خَضِرٌ، فَسأَل مُوسَى السَّبِيلَ إلى لُقِيِّه، فجَعَلَ اللهُ لَهُ الحُوتَ آيَةً، وقِيلَ لَهُ: إذَا فَقَدْتَ الحُوتَ فارْجِعْ فإنَّكَ سَتَلْقاهُ، فكانَ مُوسَى يَتْبَعُ أثَرَ الحُوتِ في البحُرِ، فَقال فتَى مُوسَى لِمُوسَى: أرَأيْتَ إذْ أوَيْنا إلى الصَّخْرَةِ، فإنِّي نَسِيتُ الحُوتَ، قالَ مُوسَى: ذلكَ ما كُنَّا نَبْغِ، فارْتَدَّا على آثارِهِما قَصَصًا، فَوَجَدَا عَبْدَنا خَضِرًا، وكانَ مِنْ شأْنِهما ما قَصَّ اللهُ في كِتابِهِ".
+
+⁕ حدثني محمد بن مرزوق، قال: ثنا الحجاج بن المنهال، قال: ثنا عبد الله بن عمر النميري، عن يونس بن يزيد، قال: سمعت الزهريّ يحدّث، قال: أخبرني عبيد الله بن عبد الله بن عتبة بن مسعود، عن ابن عباس، أنه تمارى هو والحر بن قيس بن حصن الفزاري في صاحب موسى، ثم ذكر نحو حديث العباس، عن أُبيّ بن كعب، عن النَّبِي ﷺ.
 
 ### al-Muyassar (Arabic)
 
@@ -1120,9 +1368,57 @@ The Messenger of Allah ﷺ said,
 
 أَقَتَلْتَ نَفْسًا زَكِيَّةً بِغَيْرِ نَفْسٍ لَّقَدْ جِئْتَ شَيْئًا نُّكْرًا - قَالَ أَلَمْ أَقُل لَّكَ إِنَّكَ لَن تَسْتَطِيعَ مَعِيَ صَبْرًا
 
-(In the first instance, Musa asked Al-Khidr because he had forgotten his promise. Then a bird came and sat on the edge of the boat, dipping its beak once or twice in the sea. Al-Khidr said to Musa, "My knowledge and your knowledge, in comparison to Allah's knowledge, is like what this bird has taken out of the sea." Then they both disembarked from the boat, and while they were walking on the shore, Al-Khidr saw a boy playing with 
+(In the first instance, Musa asked Al-Khidr because he had forgotten his promise. Then a bird came and sat on the edge of the boat, dipping its beak once or twice in the sea. Al-Khidr said to Musa, "My knowledge and your knowledge, in comparison to Allah's knowledge, is like what this bird has taken out of the sea." Then they both disembarked from the boat, and while they were walking on the shore, Al-Khidr saw a boy playing with other boys. Al-Khidr took hold of the boy's head and pulled it off with his hands, killing him. Musa said to him,
 
-[TRUNCATED at 12000 chars — 3579 more. Consult the source directly before relying on anything near the cut.]
+("Have you killed an innocent person who had killed none! Verily, you have committed a thing Nukr!" He said, "Did I not tell you that you would not be able to have patience with me?")
+
+قَالَ: وَهَذِهِ أَشَدُّ مِنَ الْأُولَى
+
+قَالَ إِن سَأَلْتُكَ عَن شَيْءٍ بَعْدَهَا فَلَا تُصَاحِبْنِي ۖ قَدْ بَلَغْتَ مِن لَّدُنِّي عُذْرًا - فَانطَلَقَا حَتَّىٰ إِذَا أَتَيَا أَهْلَ قَرْيَةٍ اسْتَطْعَمَا أَهْلَهَا فَأَبَوْا أَن يُضَيِّفُوهُمَا فَوَجَدَا فِيهَا جِدَارًا يُرِيدُ أَن يَنقَضَّ
+
+أَيْ مَائِلًا، فَقَالَ الْخَضِرُ بِيَدِهِ
+
+فَأَقَامَهُ
+
+فَقَالَ مُوسَى: قَوْمٌ أَتَيْنَاهُمْ فَلَمْ يُطْعِمُونَا وَلَمْ يُضَيِّفُونَا
+
+لَوْ شِئْتَ لَاتَّخَذْتَ عَلَيْهِ أَجْرًا - قَالَ هَٰذَا فِرَاقُ بَيْنِي وَبَيْنِكَ ۚ سَأُنَبِّئُكَ بِتَأْوِيلِ مَا لَمْ تَسْتَطِع عَّلَيْهِ صَبْرًا
+
+[The narrator] said, "The second blame was stronger than the first one".
+
+(Musa said, "If I ask you anything after this, keep me not in your company; you have received an excuse from me." Then they both proceeded until they came to the people of a town. They asked them for food but they refused to entertain them. (Then) they found there a wall on the point of falling down.)
+
+(Al-Khidr) set it up straight with his own hands. Musa said, "We came to these people, but they neither fed us nor received us as guests.
+
+(If you had wished, surely, you could have taken wages for it!" (Al-Khidr) said: "This is the parting between you and I. I will tell you the interpretation of (those) things over which you were unable to be patient.")
+
+The Messenger of Allah ﷺ said:
+
+وَدِدْنَا أَنَّ مُوسَى كَانَ صَبَرَ حَتَّى يَقُصَّ اللهُ عَلَيْنَا مِنْ خَبَرِهِمَا
+
+(We wish that Musa was patient so that Allah would have told us more about both of them.) Sa'id bin Jubayr said: "Ibn 'Abbas used to recite [Ayah no. 79]
+
+(وَكَانَ أَمَامَهُمْ مَلِكٌ يَاْخُذُ كُلَّ سَفِينَةٍ صَالَـحَةٍ غَضْبًا)
+
+(There was a king before them who seized every good-conditioned ship by force) and [Ayah no 80]
+
+(وَأَمَّا الْغُلَامُ فَكَانَ كَافِرًا وَكَانَ أَبَوَاهُ مُؤْمِنَيْنِ)
+
+(As for the boy, he was a disbeliever and his parents were believers.)
+
+Then (in another narration) Al-Bukhari recorded a similar account which says:
+
+فَخَرَجَ مُوسَى وَمَعَهُ فَتَاهُ يُوشَعُ بْنُ نُونٍ وَمَعَهُمَا الْحُوتُ، حَتَّى انْتَهَيَا إِلَى الصَّخْرَةِ، فَنَزَلَا عِنْدَهَا، قَالَ: فَوَضَعَ مُوسَى رَأْسَهُ فَنَامَ، قَالَ: وَفِي أَصْلِ الصَّخْرَةِ عَيْنٌ يُقَالُ لَهَا الْحَيَاةُ لَا يُصِيبُ مِنْ مَائِهَا شَيْءٌ إِلَّا حَيِيَ فَأَصَابَ الْحُوتَ مِنْ مَاءِ تِلْكَ الْعَيْنِ، فَتَحَرَّكَ وَانْسَلَّ مِنَ الْمِكْتَلِ فَدَخَلَ الْبَحْرَ، فَلَمَّا اسْتَيْقَظَ قَالَ مُوسَى لِفَتَاهُ:
+
+آتِنَا غَدَاءَنَا
+
+(...then Musa set out and with him was his boy-servant Yusha' bin Nun, and they had the fish with them. When they reached the rock, they camped there, and Musa lay down his head and slept. At the base of the rock there was a spring called Al-Hayat; its water never touched a thing but it brought it to life. Some of its water touched the fish, so it began to move and jumped out of the vessel and into the sea. When he woke up, Musa said to his boy-servant:
+
+(Bring us our morning meal.))
+
+Then he quoted the rest of the Hadith.
+
+Then a bird came and perched on the edge of the ship, and dipped its beak in the sea, and Al-Khidr said to Musa, "My knowledge and your knowledge and the knowledge of all of creation, in comparison to the knowledge of Allah, is like what this bird has taken from the sea." Then he mentioned the rest of the report.
 
 ### al-Tabari (Arabic)
 
@@ -1182,9 +1478,17 @@ The Messenger of Allah ﷺ said,
 
 قال: يَقُصَّانِ آثارَهما، قال: فآتيَا الصَّخْرَةَ، فإذَا رَجُلٌ نائمٌ مُسَجًى بِثَوْبِهِ، فَسَلَّمَ عَلَيْهِ مُوسَى، فَقالَ: وأنَّي بأرْضِنَا السَّلامُ؟ فَقالَ: أنا مُوسَى، قال: مُوسَى بَنِي إسْرائِيلَ؟ قالَ: نَعَمْ، قالَ: يا مُوسَى، إنّي عَلى عِلْمٍ مِنْ عِلْمِ الله؛ عَلَّمَنِيهِ اللهُ لا تعْلَمُهُ، وأنْتَ عَلى عِلْمٍ من عِلْمِهِ عَلَّمَكَهُ لا أعْلَمُهُ، قالَ: فإنّي أتَّبِعُكَ عَلى أنْ تُعَلِّمَنِي مِمَّا عُلِّمْتَ رُشْدًا، قال: فإنِ اتَّبَعْتَنِي فَلا تَسألْنِي عَنْ شَيْءٍ حتى أُحْدِثَ لَكَ مِنْهُ ذِكْرًا، فانْطَلَقا يَمْشِيان عَلى السَّاحِل، فَعُرِفَ الخَضِرُ، فَحُمِلَ بِغَيْرِ نَوْلٍ، فَجَاءَ عُصْفُورٌ، فَوَقَعَ عَلى حَرْفِها فنَقَرَ، أو فَنَقَر فِي المَاءِ، فَقالَ الخَضِرُ لِمُوسَى: ما نَقَصَ عِلْمِي وَعِلْمُكَ مِنْ عِلْمِ اللهِ إلا مِقْدَارَ ما نَقَرَ أوْ نَقَصَ هَذَا العُصْفُورُ مِنَ البَحْرِ". أبو جعفر الطبري يشكّ، وهو في كتابه نَقَر، قال: "فَبَيْنَما هُوَ إذْ لَمْ يَفْجَأهُ مُوسَى إلا وَهُوَ يَتِدُ وَتدًا أوْ يَنزعُ تَخْتا مِنْها، فَقالَ لَهُ مُوسَى: حُمِلْنا بغَيرِ نَوْلٍ وتخْرِقُها لِتُغْرِقَ أهْلَها؟ لَقَدْ جِئْتَ شَيْئًا إمْرًا، قال: ألَمْ أقُل إنَّكَ لَنْ تَسْتطَيعَ مَعِي صَبْرًا، قالَ: لا تُؤَاخِذْني بِمَا نَسيتُ، قالَ: وكانَتِ الأوَلى منْ مُوسَى نِسْيانا، قالَ: ثُمَّ خَرَجا فانْطَلَقا يَمْشِيانِ، فَأبْصَرَا غُلاما يَلْعَبُ مَعَ الغِلْمَانِ، فَأخَذَ برأْسه فَقَتَلَهُ، فَقالَ لَهُ مُوسَى: أقَتَلْتَ نَفْسا زَكِيَّهً بِغَيْرِ نَفْسٍ، لَقَدْ جِئْتَ شيئًا نُكْرًا، قالَ: ألَمْ أقُلْ لَك إنَّكَ لَنْ تسْتَطِيعَ مَعِي صَبرًا؟ قال: إنْ سألْتُكُ عَنْ شَيْءٍ بَعْدَها فَلا تُصَاحِبْي قَدْ بَلَغْتَ مِنْ لَدُنّي عُذْرًا. قالَ: فانْطَلَقا حتى إذَا أتَيا أهْلَ قَرْيَةٍ اسْتَطْعَما أهْلَها، فَلَم يَجِدَا أحَدًا يُطْعِمُهُمْ ولا يَسْقِيهِمْ، فَوَجَدَا فِيها جِدَارًا يُرِيدُ أن يَنْقَضّ، فأقامَهُ بِيَدِهِ، قالَ: مَسَحَه بِيَدِهِ، فَقَالَ لَهُ مُوسَى: لَمْ يُضَيِّفُونا وَلمْ يُنزلُونا، لَوْ شِئْتَ لاتَّخَذْتَ عَلَيْه أجْرًا، قالَ: هَذَا فِراقُ بَيْنِي وَبَيْنك، فقال رسول الله ﷺ: لَوَدِدْتُ أنَّهُ كانَ صَبَرَ حتى يَقُصَّ عَلَيْنا قَصَصهُم".
 
-⁕ حدثنا ابن حميد، قال: ثنا سلمة، قال: ثنا ابن إسحاق، عن الحسن بن عمارة، عن الحكم بن عتيبة، عن سعيد بن جبير، قال: جلست فأسْنَدَ ابن عباس وعنده نفر من أهل الكتاب، فقال بعضهم: يا أبا العباس، إن نوفا ابن امرأة كعب يزعم عن كعب، أن موسى النبيّ الذي طلب العالم، إنما هو موسى بن ميشا، قال سعيد، قال ابن عباس: أنوف يقول هذا؟ قال سعيد: فقلت له نعم، أنا سمعت نوفا يقول ذلك، قال: أنت سمعته يا سعيد؟ قال: قلت: نعم، قال: كذب نوف، ثم قال ابن عباس: حدثني أبيّ بن كعب أن رسول الله ﷺ قال: "إنَّ مُوسَى هُوَ نَبِي بَنِي إسْرَائِيلَ سألَ رَبَّهُ فَقالَ: أيْ رَبّ إنْ كانَ في عِبادِكَ أحَدٌ هُوَ أعْلَمُ مِنِّي فادْلُلْنِي عَلَيْهِ، فقَالَ لَهُ: نَعَمْ فِي عِبادِي مَنْ هُوَ أعْلَمُ مِنْكَ، ثُمَّ نَعَتَ لَهُ مَكانَهُ، وأذنَ لَهُ فَي لُقِيِّهِ، فَخَرَجَ مُوسَى مَعَهُ فَتاه وَمَعَه، حُوتٌ مَلِيحٌ، وَقَدْ قِيلَ لَهُ: إذَا حَيِيَ هَذَا الحُوتُ فِي مَكان فصاحبُك هُنالكَ وَقَدْ أدْرَكْتَ حاجَتَكَ، فخَرَجَ مُوسَى وَمَعَهُ فَتَاهُ، وَمَعَهُ ذلكَ الحُوتُ يَحْمِلانِهِ، فَسارَ حتى جَهدَهُ السَّيْرُ، وانْتَهَى إلى الصَّخْرَةِ وَإلى ذلكَ المَاءِ، ماء الحَياةِ، مَنْ شَرِبَ مِنْهُ خَلَد. ولا يُقارِبُهُ شَيْءٌ مَيِّتٌ إلا حَييَ، فَلَمَّا نزلا وَمَسَّ الحُوتَ المَاءُ حَيِيَ، فاتَّخَذَ سَبِيلَهُ فِي البَحْرِ سَرَبا، فانْطَلَقا، فَلَمَّا جاوَزَا مُنْقَلَبَهُ قالَ مُوسَى: آتنا غَدَاءَنا لقد لَقِينا مِنْ سَفَرِنا هَذَا نَصَبا، قالَ الفَتى وَذَكَرَ: أرَأيْتَ إذْ أوَيْنَا إلى الصَّخْرَةِ فإنّي نَسِيتُ الحُوتَ وَما أنْسانِيهُ إلا الشَّيْطانُ أنْ أذْكُرَهُ واتَّخَذَ سَبِيلَه فِي البَحْرِ عَجَبا" قال ابن عباس: فظهر موسى على الصخرة حين انتهيا إليها، فإذا رجل متلفف في كساء له، فسلم موسى، فردّ عليه العالم، ثم قال له: وما جاء بك؟ إن كان لك في قومك لشغل؟ قال له موسى: جئتك لتعلمني مما علمت رشدا، ﴿قَالَ إِنَّكَ لَنْ تَسْتَطِيعَ مَعِيَ صَبْرًا﴾ ، وكان رجلا يعلم علم الغيب قد علِّم ذلك، فقال موسى: بلى قال: ﴿وَكَيْفَ تَصْبِرُ عَلَى مَا لَمْ تُحِطْ بِهِ خُبْرًا﴾ : أي إنما تعرف ظاهر ما ترى من العدل، ولم تُحط من علم الغيب بما أعلم ﴿قَالَ سَتَجِدُنِي إِنْ شَاءَ اللَّهُ صَابِرًا وَلا أَعْصِي لَكَ أَمْرًا﴾ وإن رأيت ما يخالفني، قَالَ فَإِنِ اتَّبَعْتَنِي فَلا تَسْأَلْنِي عَنْ شَيْءٍ) وإن أنكرته ﴿حَتَّى أُحْدِثَ لَكَ مِنْهُ ذِكْرًا﴾ فانطلقا يمشيان على ساحل البحر، يتعرّضان الناس، يلتمسان من يحملهما، حتى مرّت بهما سفينة جديدة وثيقة لم يمرّ بهما من السفن شيء أحسن ولا أجمل ولا أوثق منها، فسألا أهلها أن يحملوهما، فحملوهما، فلما اطمأنا فيها، ولجت بهما مع أهلها، أخرج منقارا له ومطرقة، ثم عمد إلى ناحية منها فضرب فيها بالمنقار حتى خرقها، ثم أخذ لوحا فطبقه عليها، ثم جلس عليها يرقعها. قال له موسى ورأى أمرا فظع به: ﴿أَخَرَقْتَهَا لِتُغْرِقَ أَهْلَهَا لَقَدْ جِئْتَ شَيْئًا إِمْرًا قَالَ أَلَمْ أَقُلْ إِنَّكَ لَنْ تَسْتَطِيعَ مَعِيَ صَبْرًا قَالَ لا تُؤَاخِذْنِي بِمَا نَسِيتُ﴾ : أي ما تركت من عهدك ﴿وَلا تُرْهِقْنِي مِنْ أَمْرِي عُسْرًا﴾ ثم خرجا من السفينة، فانطلقا حتى إذا أتيا أهل قرية فإذا غلمان يلعبون خلفها، فيهم غلام ليس في الغلمان أظرف منه، ولا أثرى ولا أوضأ منه، فأخذه بيده، وأخذ حجرا، قال: فضرب به رأسه حتى دمغه فقتله، قال: فرأى موسى أمرا فظيعا لا صبر عليه، صبيّ صغير لا ذنب له ﴿قَالَ أَقَتَلْتَ نَفْسًا زَكِيَّةً بِغَيْرِ نَفْسٍ﴾ أي صغيرة بغير نفس ﴿لَق
+⁕ حدثنا ابن حميد، قال: ثنا سلمة، قال: ثنا ابن إسحاق، عن الحسن بن عمارة، عن الحكم بن عتيبة، عن سعيد بن جبير، قال: جلست فأسْنَدَ ابن عباس وعنده نفر من أهل الكتاب، فقال بعضهم: يا أبا العباس، إن نوفا ابن امرأة كعب يزعم عن كعب، أن موسى النبيّ الذي طلب العالم، إنما هو موسى بن ميشا، قال سعيد، قال ابن عباس: أنوف يقول هذا؟ قال سعيد: فقلت له نعم، أنا سمعت نوفا يقول ذلك، قال: أنت سمعته يا سعيد؟ قال: قلت: نعم، قال: كذب نوف، ثم قال ابن عباس: حدثني أبيّ بن كعب أن رسول الله ﷺ قال: "إنَّ مُوسَى هُوَ نَبِي بَنِي إسْرَائِيلَ سألَ رَبَّهُ فَقالَ: أيْ رَبّ إنْ كانَ في عِبادِكَ أحَدٌ هُوَ أعْلَمُ مِنِّي فادْلُلْنِي عَلَيْهِ، فقَالَ لَهُ: نَعَمْ فِي عِبادِي مَنْ هُوَ أعْلَمُ مِنْكَ، ثُمَّ نَعَتَ لَهُ مَكانَهُ، وأذنَ لَهُ فَي لُقِيِّهِ، فَخَرَجَ مُوسَى مَعَهُ فَتاه وَمَعَه، حُوتٌ مَلِيحٌ، وَقَدْ قِيلَ لَهُ: إذَا حَيِيَ هَذَا الحُوتُ فِي مَكان فصاحبُك هُنالكَ وَقَدْ أدْرَكْتَ حاجَتَكَ، فخَرَجَ مُوسَى وَمَعَهُ فَتَاهُ، وَمَعَهُ ذلكَ الحُوتُ يَحْمِلانِهِ، فَسارَ حتى جَهدَهُ السَّيْرُ، وانْتَهَى إلى الصَّخْرَةِ وَإلى ذلكَ المَاءِ، ماء الحَياةِ، مَنْ شَرِبَ مِنْهُ خَلَد. ولا يُقارِبُهُ شَيْءٌ مَيِّتٌ إلا حَييَ، فَلَمَّا نزلا وَمَسَّ الحُوتَ المَاءُ حَيِيَ، فاتَّخَذَ سَبِيلَهُ فِي البَحْرِ سَرَبا، فانْطَلَقا، فَلَمَّا جاوَزَا مُنْقَلَبَهُ قالَ مُوسَى: آتنا غَدَاءَنا لقد لَقِينا مِنْ سَفَرِنا هَذَا نَصَبا، قالَ الفَتى وَذَكَرَ: أرَأيْتَ إذْ أوَيْنَا إلى الصَّخْرَةِ فإنّي نَسِيتُ الحُوتَ وَما أنْسانِيهُ إلا الشَّيْطانُ أنْ أذْكُرَهُ واتَّخَذَ سَبِيلَه فِي البَحْرِ عَجَبا" قال ابن عباس: فظهر موسى على الصخرة حين انتهيا إليها، فإذا رجل متلفف في كساء له، فسلم موسى، فردّ عليه العالم، ثم قال له: وما جاء بك؟ إن كان لك في قومك لشغل؟ قال له موسى: جئتك لتعلمني مما علمت رشدا، ﴿قَالَ إِنَّكَ لَنْ تَسْتَطِيعَ مَعِيَ صَبْرًا﴾ ، وكان رجلا يعلم علم الغيب قد علِّم ذلك، فقال موسى: بلى قال: ﴿وَكَيْفَ تَصْبِرُ عَلَى مَا لَمْ تُحِطْ بِهِ خُبْرًا﴾ : أي إنما تعرف ظاهر ما ترى من العدل، ولم تُحط من علم الغيب بما أعلم ﴿قَالَ سَتَجِدُنِي إِنْ شَاءَ اللَّهُ صَابِرًا وَلا أَعْصِي لَكَ أَمْرًا﴾ وإن رأيت ما يخالفني، قَالَ فَإِنِ اتَّبَعْتَنِي فَلا تَسْأَلْنِي عَنْ شَيْءٍ) وإن أنكرته ﴿حَتَّى أُحْدِثَ لَكَ مِنْهُ ذِكْرًا﴾ فانطلقا يمشيان على ساحل البحر، يتعرّضان الناس، يلتمسان من يحملهما، حتى مرّت بهما سفينة جديدة وثيقة لم يمرّ بهما من السفن شيء أحسن ولا أجمل ولا أوثق منها، فسألا أهلها أن يحملوهما، فحملوهما، فلما اطمأنا فيها، ولجت بهما مع أهلها، أخرج منقارا له ومطرقة، ثم عمد إلى ناحية منها فضرب فيها بالمنقار حتى خرقها، ثم أخذ لوحا فطبقه عليها، ثم جلس عليها يرقعها. قال له موسى ورأى أمرا فظع به: ﴿أَخَرَقْتَهَا لِتُغْرِقَ أَهْلَهَا لَقَدْ جِئْتَ شَيْئًا إِمْرًا قَالَ أَلَمْ أَقُلْ إِنَّكَ لَنْ تَسْتَطِيعَ مَعِيَ صَبْرًا قَالَ لا تُؤَاخِذْنِي بِمَا نَسِيتُ﴾ : أي ما تركت من عهدك ﴿وَلا تُرْهِقْنِي مِنْ أَمْرِي عُسْرًا﴾ ثم خرجا من السفينة، فانطلقا حتى إذا أتيا أهل قرية فإذا غلمان يلعبون خلفها، فيهم غلام ليس في الغلمان أظرف منه، ولا أثرى ولا أوضأ منه، فأخذه بيده، وأخذ حجرا، قال: فضرب به رأسه حتى دمغه فقتله، قال: فرأى موسى أمرا فظيعا لا صبر عليه، صبيّ صغير لا ذنب له ﴿قَالَ أَقَتَلْتَ نَفْسًا زَكِيَّةً بِغَيْرِ نَفْسٍ﴾ أي صغيرة بغير نفس ﴿لَقَدْ جِئْتَ شَيْئًا نُكْرًا قَالَ أَلَمْ أَقُلْ لَكَ إِنَّكَ لَنْ تَسْتَطِيعَ مَعِيَ صَبْرًا قَالَ إِنْ سَأَلْتُكَ عَنْ شَيْءٍ بَعْدَهَا فَلا تُصَاحِبْنِي قَدْ بَلَغْتَ مِنْ لَدُنِّي عُذْرًا﴾ : أي قد أعذرت في شأني ﴿فَانْطَلَقَا حَتَّى إِذَا أَتَيَا أَهْلَ قَرْيَةٍ اسْتَطْعَمَا أَهْلَهَا فَأَبَوْا أَنْ يُضَيِّفُوهُمَا فَوَجَدَا فِيهَا جِدَارًا يُرِيدُ أَنْ يَنْقَضَّ﴾ فهدمه، ثم قعد يبنيه، فضجر موسى مما رآه يصنع من التكليف لما ليس عليه صبر، فقال: ﴿لَوْ شِئْتَ لاتَّخَذْتَ عَلَيْهِ أَجْرًا﴾ أي قد استطعمناهم فلم يطعمونا، وضفناهم فلم يضيفونا، ثم قعدت في غير صنيعة، ولو شئت لأعطيت عليه أجرا في عمله ﴿قَالَ هَذَا فِرَاقُ بَيْنِي وَبَيْنِكَ سَأُنَبِّئُكَ بِتَأْوِيلِ مَا لَمْ تَسْتَطِعْ عَلَيْهِ صَبْرًا أَمَّا السَّفِينَةُ فَكَانَتْ لِمَسَاكِينَ يَعْمَلُونَ فِي الْبَحْرِ فَأَرَدْتُ أَنْ أَعِيبَهَا وَكَانَ وَرَاءَهُمْ مَلِكٌ يَأْخُذُ كُلَّ سَفِينَةٍ غَصْبًا﴾ ، وفي قراءة أبيّ بن كعب: كلّ سفينة صالحة، وإنما عبتها لأردّه عنها، فسلمت حين رأى العيب الذي صنعت بها. ﴿وَأَمَّا الْغُلامُ فَكَانَ أَبَوَاهُ مُؤْمِنَيْنِ فَخَشِينَا أَنْ يُرْهِقَهُمَا طُغْيَانًا وَكُفْرًا فَأَرَدْنَا أَنْ يُبْدِلَهُمَا رَبُّهُمَا خَيْرًا مِنْهُ زَكَاةً وَأَقْرَبَ رُحْمًا وَأَمَّا الْجِدَارُ فَكَانَ لِغُلامَيْنِ يَتِيمَيْنِ فِي الْمَدِينَةِ وَكَانَ تَحْتَهُ كَنز لَهُمَا وَكَانَ أَبُوهُمَا صَالِحًا فَأَرَادَ رَبُّكَ أَنْ يَبْلُغَا أَشُدَّهُمَا وَيَسْتَخْرِجَا كَنزهُمَا رَحْمَةً مِنْ رَبِّكَ وَمَا فَعَلْتُهُ عَنْ أَمْرِي﴾ : أي ما فعلته عن نفسي ﴿ذَلِكَ تَأْوِيلُ مَا لَمْ تَسْطِعْ عَلَيْهِ صَبْرًا﴾ فكان ابن عباس يقول: ما كان الكنز إلا علما.
 
-[TRUNCATED at 12000 chars — 6600 more. Consult the source directly before relying on anything near the cut.]
+⁕ حدثنا ابن حميد، قال: ثنا سلمة، قال: ثني ابن إسحاق، عن الحسن بن عُمارة، عن أبيه، عن عكرِمة قال: قيل لابن عباس: لم نسمع لفتى موسى يذكر من حديث، وقد كان معه [[الذي في الدر بدل هذا: لم نسمع: يعني موسى يذكر من حديث فتاه، وقد كان. . . إلخ.]] ، فقال ابن عباس فيما يذكر من حديث الفتى قال: شرب الفتى من الماء فخلِّد، فأخذه العالم فطابق به سفينة، ثم أرسله في البحر، فإنها لتموج به إلى يوم القيامة، وذلك أنه لم يكن له أن يشرب منه فشرب.
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، قوله: ﴿وَإِذْ قَالَ مُوسَى لِفَتَاهُ لا أَبْرَحُ حَتَّى أَبْلُغَ مَجْمَعَ الْبَحْرَيْنِ أَوْ أَمْضِيَ حُقُبًا﴾ قال: لما ظهر موسى وقومه على مصر أنزل قومه مصر، فلما استقرت بهم الدار أنزل الله عليه أن ﴿وَذَكِّرْهُمْ بِأَيَّامِ اللَّهِ﴾ فخطب قومه، فذكر ما آتاهم الله من الخير والنعمة، وذكَّرهم إذ أنجاهم الله من آل فرعون، وذكَّرهم هلاك عدوّهم، وما استخلفهم الله في الأرض، وقال: كلم الله نبيكم تكليما، واصطفاني لنفسه، وأنزل عليّ محبة منه، وآتاكم الله من كل ما سألتموه، فنبيكم أفضل أهل الأرض، وأنتم تقرءون التوراة، فلم يترك نعمة أنعمها الله عليهم إلا ذكرها، وعرّفها إياهم، فقال له رجل من بني إسرائيل: هم كذلك يا نبي الله، قد عرفنا الذي تقول، فهل على الأرض أحد أعلم منك يا نبي الله؟ قال: لا فبعث الله جبرئيل إلى موسى عليهما السلام، فقال: إن الله يقول: وما يدريك أين أضع علمي؟ بلى إن على شطّ البحر رجلا أعلم منك، فقال ابن عباس: هو الخَضِر، فسأل موسى ربه أن يريه إياه، فأوحى الله إليه أن ائت البحر، فإنك تجد على شطّ البحر حُوتا، فخذه فادفعه إلى فتاك، ثم الزم شطّ البحر، فإذا نسيت الحوت وهَلك منك، فثَمَّ تجد العبد الصالح الذي تطلب، فلما طال سفر موسى نبيّ الله ونصب فيه، سأل فتاه عن الحوت، فقال له فتاه وهو غلامه ﴿أَرَأَيْتَ إِذْ أَوَيْنَا إِلَى الصَّخْرَةِ فَإِنِّي نَسِيتُ الْحُوتَ وَمَا أَنْسَانِيهُ إِلا الشَّيْطَانُ أَنْ أَذْكُرَهُ﴾ قال الفتى: لقد رأيت الحوت حين اتخذ سبيله في البحر سَرَبا، فأعجب ذلك موسى فرجع حتى أتى الصخرة، فوجد الحوت يضرب في البحر، ويتبعه موسى، وجعل موسى يقدّم عصاه يفرُج بها عن الماء يتبع الحوت، وجعل الحوت لا يمسّ شيئا من البحر إلا يبس حتى يكون صخرة، فجعل نبيّ الله يعجب من ذلك حتى انتهى به الحوت إلى جزيرة من جزائر البحر، فلقي الخَضِر بها فسلم عليه، فقال الخضر: وعليك السلام، وأنى يكون هذا السلام بهذه الأرض، ومن أنت؟ قال: أنا موسى، فقال له الخضر: أصاحبُ بني إسرائيل؟ قال: نعم فرحب به، وقال: ما جاء بك؟ قال: جئتك على أن تعلمني مما علمت رُشدا ﴿قَالَ إِنَّكَ لَنْ تَسْتَطِيعَ مَعِيَ صَبْرًا﴾ قال: لا تطيق ذلك، قال موسى: ﴿سَتَجِدُنِي إِنْ شَاءَ اللَّهُ صَابِرًا وَلا أَعْصِي لَكَ أَمْرًا﴾ قال: فانطلق به وقال له: لا تسألني عن شيء أصنعه حتى أبيِّن لك شأنه، فذلك قوله: ﴿أُحْدِثَ لَكَ مِنْهُ ذِكْرًا﴾ فركبا في السفينة يريدان البرّ، فقام الخضر فخرق السفينة، فقال له موسى ﴿أَخَرَقْتَهَا لِتُغْرِقَ أَهْلَهَا لَقَدْ جِئْتَ شَيْئًا إِمْرًا﴾ .
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: ﴿فَلَمَّا بَلَغَا مَجْمَعَ بَيْنِهِمَا نَسِيَا حُوتَهُمَا﴾ ذُكِر أن نبيّ الله ﷺ لما قطع البحر وأنجاه الله من آل فرعون، جمع بني إسرائيل، فخطبهم فقال: أنتم خير أهل الأرض وأعلمه، قد أهلك الله عدوكم، وأقطعكم البحر، وأنزل عليكم التوراة، قال: فقيل له: إن ها هنا رجلا هو أعلم منك، قال: فانطلق هو وفتاه يوشع بن نون يطلبانه، وتزوّدا سمكة مملوحة في مِكتل لهما، وقيل لهما: إذا نسيتما ما معكما لقيتما رجلا عالما يقال له الخضر، فلما أتيا ذلك المكان، ردّ الله إلى الحوت روحه، فسرب له من الجسر حتى أفضى إلى البحر، ثم سلك فجعل لا يسلك فيه طريقا إلا صار ماء جامدا، قال: ومضى موسى وفتاه، يقول الله عز وجل: ﴿فَلَمَّا جَاوَزَا قَالَ لِفَتَاهُ آتِنَا غَدَاءَنَا لَقَدْ لَقِينَا مِنْ سَفَرِنَا هَذَا نَصَبًا قَالَ أَرَأَيْتَ إِذْ أَوَيْنَا إِلَى الصَّخْرَةِ فَإِنِّي نَسِيتُ الْحُوتَ﴾ ... ثم تلا إلى قوله: ﴿وَعَلَّمْنَاهُ مِنْ لَدُنَّا عِلْمًا﴾ فلقيا رجلا عالما يقال له الخَضِر، فذُكر لنا أن نبيّ الله ﷺ قال: "إنَّمَا سُمِيَ الخَضِرُ خَضِرًا لأنهُ قَعَدَ على فَرْوَةٍ بَيْضَاءَ، فاهْتَزَّتْ بِهِ خَضراء". [[في (عرائس المجالس للثعلبي المفسر ص ٢٢٠ طبعة الحلبي) : فإذا هي تهتز تحته خضراء.]]
+
+⁕ حدثني العباس بن الوليد، قال: ثنا أبي، قال: ثنا الأوزاعيّ، قال: ثنا الزهريّ، عن عبيد الله بن عبد الله بن عتبة بن مسعود، عن ابن عباس أنه تمارى هو والحرّ بن قيس بن حِصْن الفزاريّ في صاحب موسى، فقال ابن عباس: هو خَضِر، فمرّ بهما أبيّ بن كعب، فدعاه ابن عباس فقال: إني تماريت أنا وصاحبي هذا في صاحب موسى الذي سأل السبيل إلى لقيه، فقال: سمعت رسول الله ﷺ يذكر شأنه؟ قال: إني سمعت رسول الله ﷺ يقول: "بَيْنا مُوسَى في مَلأ مِنْ بَنِي إسْرَائِيلَ إذْ جاءَهُ رَجُلٌ فَقالَ: تَعْلَمُ مَكانَ أحَدٍ أعْلَمُ مِنْكَ؟ قال مُوسَى: لا فَأوْحَى اللهُ إلى مُوسَى: بَلى عَبْدُنا خَضِرٌ، فَسأَل مُوسَى السَّبِيلَ إلى لُقِيِّه، فجَعَلَ اللهُ لَهُ الحُوتَ آيَةً، وقِيلَ لَهُ: إذَا فَقَدْتَ الحُوتَ فارْجِعْ فإنَّكَ سَتَلْقاهُ، فكانَ مُوسَى يَتْبَعُ أثَرَ الحُوتِ في البحُرِ، فَقال فتَى مُوسَى لِمُوسَى: أرَأيْتَ إذْ أوَيْنا إلى الصَّخْرَةِ، فإنِّي نَسِيتُ الحُوتَ، قالَ مُوسَى: ذلكَ ما كُنَّا نَبْغِ، فارْتَدَّا على آثارِهِما قَصَصًا، فَوَجَدَا عَبْدَنا خَضِرًا، وكانَ مِنْ شأْنِهما ما قَصَّ اللهُ في كِتابِهِ".
+
+⁕ حدثني محمد بن مرزوق، قال: ثنا الحجاج بن المنهال، قال: ثنا عبد الله بن عمر النميري، عن يونس بن يزيد، قال: سمعت الزهريّ يحدّث، قال: أخبرني عبيد الله بن عبد الله بن عتبة بن مسعود، عن ابن عباس، أنه تمارى هو والحر بن قيس بن حصن الفزاري في صاحب موسى، ثم ذكر نحو حديث العباس، عن أُبيّ بن كعب، عن النَّبِي ﷺ.
 
 ### al-Muyassar (Arabic)
 

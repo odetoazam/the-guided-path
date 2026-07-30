@@ -112,9 +112,85 @@ Al-Bukhari recorded that 'A'ishah said to 'Urwah about the Ayah;
 
 "My nephew! Your fathers Az-Zubayr and Abu Bakr were among them. After the Prophet ﷺ suffered the calamity at Uhud and the idolators went back, he feared that the idolators might try to come back and he said, 'Who would follow them' Seventy men, including Az-Zubayr and Abu Bakr, volunteered." This was recorded by Al-Bukhari alone.
 
-As for Al
+As for Allah's statement,
 
-[TRUNCATED at 12000 chars — 4567 more. Consult the source directly before relying on anything near the cut.]
+الَّذِينَ قَالَ لَهُمُ النَّاسُ إِنَّ النَّاسَ قَدْ جَمَعُوا لَكُمْ فَاخْشَوْهُمْ فَزَادَهُمْ إِيمَانًا
+
+(Those unto whom the people said, "Verily, the people have gathered against you, therefore, fear them." But it (only) increased them in faith)[3:173], it means, those who threatened the people, saying that the disbelievers have amassed against them, in order to instill fear in them, but this did not worry them, rather, they trusted in Allah and sought His help,
+
+وَقَالُوا حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ
+
+(and they said: "Allah is Sufficient for us, and He is the Best Disposer of affairs.")
+
+Al-Bukhari recorded that Ibn 'Abbas said,
+
+حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ
+
+("Allah Alone is Sufficient for us and He is the Best Disposer of affairs for us.")
+
+"Ibrahim said it when he was thrown in fire. Muhammad said it when the people said, 'Verily, the people have gathered against you, therefore, fear them.' But it only increased them in faith, and they said, 'Allah is Sufficient for us and He is the Best Disposer of affairs for us.'" Abu Bakr Ibn Marduwyah recorded that Anas bin Malik said that the Prophet ﷺ was told on the day of Uhud, "Verily, the people have gathered against you, therefore, fear them." Thereafter, Allah sent down this Ayah [3:173].
+
+This is why Allah said,
+
+فَانقَلَبُوا بِنِعْمَةٍ مِّنَ اللَّهِ وَفَضْلٍ لَّمْ يَمْسَسْهُمْ سُوءٌ
+
+(So they returned with grace and bounty from Allah. No harm touched them;) for when they relied on Allah, Allah took care of their worries, He confounded the plots of their enemies, and the Muslims returned to their land,
+
+بِنِعْمَةٍ مِّنَ اللَّهِ وَفَضْلٍ لَّمْ يَمْسَسْهُمْ سُوءٌ
+
+(with grace and bounty from Allah. No harm touched them;) safe from the wicked plots of their enemies,
+
+وَاتَّبَعُوا رِضْوَانَ اللَّهِ وَاللَّهُ ذُو فَضْلٍ عَظِيمٍ
+
+(and they followed the pleasure of Allah. And Allah is the Owner of great bounty.)
+
+Al-Bayhaqi recorded that Ibn 'Abbas said about Allah's statement,
+
+فَانقَلَبُوا بِنِعْمَةٍ مِّنَ اللَّهِ وَفَضْلٍ
+
+(So they returned with grace and bounty from Allah,) "The 'Grace' was that they were saved. The 'Bounty' was that a caravan passed by, and those days were [Hajj] season days. Thus the Messenger of Allah ﷺ bought and sold and made a profit, which he divided between his Companions."
+
+Allah then said,
+
+إِنَّمَا ذَٰلِكُمُ الشَّيْطَانُ يُخَوِّفُ أَوْلِيَاءَهُ
+
+(It is only Shaytan that suggests to you the fear of his friends,)[3:175] meaning, Shaytan threatens you with his friends and tries to pretend they are powerful and fearsome. Allah said next,
+
+فَلَا تَخَافُوهُمْ وَخَافُونِ إِن كُنتُم مُّؤْمِنِينَ
+
+(so fear them not, but fear Me, if you are indeed believers.) meaning, "If Shaytan brings these thoughts to you, then depend on Me and seek refuge with Me. Indeed, I shall suffice you and make you prevail over them." Similarly, Allah said,
+
+أَلَيْسَ اللَّهُ بِكَافٍ عَبْدَهُ وَيُخَوِّفُونَكَ بِالَّذِينَ مِن دُونِهِ
+
+(Is not Allah Sufficient for His servant? Yet they try to frighten you with those besides Him!)[39:36], until,
+
+قُلْ حَسْبِيَ اللَّهُ عَلَيْهِ يَتَوَكَّلُ الْمُتَوَكِّلُونَ
+
+(Say: "Sufficient for me is Allah; in Him those who trust must put their trust.")[39:38]. Allah said,
+
+فَقَاتِلُوا أَوْلِيَاءَ الشَّيْطَانِ إِنَّ كَيْدَ الشَّيْطَانِ كَانَ ضَعِيفًا
+
+(So fight you against the friends of Shaytan; ever feeble indeed is the plot of Shaytan.)[4:76] and
+
+أُولَٰئِكَ حِزْبُ الشَّيْطَانِ أَلَا إِنَّ حِزْبَ الشَّيْطَانِ هُمُ الْخَاسِرُونَ
+
+(They are the party of Shaytan. Verily, it is the party of Shaytan that will be the losers!)[58:19],
+
+كَتَبَ اللَّهُ لَأَغْلِبَنَّ أَنَا وَرُسُلِي إِنَّ اللَّهَ قَوِيٌّ عَزِيزٌ
+
+(Allah has decreed: "Verily, it is I and My Messengers who shall be the victorious." Verily, Allah is All-Powerful, All-Mighty.)[58:21] and
+
+وَلَيَنصُرَنَّ اللَّهُ مَن يَنصُرُهُ
+
+(Verily, Allah will help those who help His (cause).)[22:40] and
+
+يَا أَيُّهَا الَّذِينَ آمَنُوا إِن تَنصُرُوا اللَّهَ يَنصُرْكُمْ
+
+(O you who believe! If you help (in the cause of) Allah, He will help you)[47:7], and,
+
+إِنَّا لَنَنصُرُ رُسُلَنَا وَالَّذِينَ آمَنُوا فِي الْحَيَاةِ الدُّنْيَا وَيَوْمَ يَقُومُ الْأَشْهَادُ - يَوْمَ لَا يَنفَعُ الظَّالِمِينَ مَعْذِرَتُهُمْ وَلَهُمُ اللَّعْنَةُ وَلَهُمْ سُوءُ الدَّارِ
+
+(Verily, We will indeed make victorious Our Messengers and those who believe, in this world's life and on the Day when the witnesses will stand forth. The Day when their excuses will be of no profit to wrongdoers. Theirs will be the curse, and theirs will be the evil abode.)[40:51-52]
 
 ### al-Tabari (Arabic)
 
@@ -174,9 +250,29 @@ As for Al
 
 ٨٢٤٨ - حدثني محمد بن عمرو قال، حدثنا أبو عاصم، عن عيسى، عن ابن أبي نجيح، عن مجاهد في قوله:"الذين قال لهم الناس إنّ الناس قد جمعوا لكم"، قال: هذا أبو سفيان قال لمحمد:"موعدكم بدرٌ حيث قتلتم أصحابنا"، فقال محمد ﷺ:"عسى"! فانطلق رسول الله ﷺ لموعده حتى نزل بدرًا، فوافقوا السوق فيها وابتاعوا، فذلك قوله تبارك وتعالى:"فانقلبوا بنعمة من الله وفضل لم يمسسهم سوء"، وهي غزوة بدر الصغرى.
 
-٨٢٤٩ - حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن ابن جريج، عن مجاهد بنحوه= وزاد فيه: وهي بدر الصغرى= قال ابن جريج: لما عبَّى النبي ﷺ لموعد أبي سفيان، [[في المطبوعة: "لما عمد النبي. . ."، وفي المخطوطة"لما عبد"، ورجحت أن صحة قراءتها ما أثبت."عبى الجيش تعبئة": هيأه وأصلح أمره وجمعه، مثل"عبأه". ورجحت ذلك، لأن معناه وارد في الآثار الأخرى.]] فجعلوا يلقون المشركين ويسألونهم عن قريش، فيقولون:"قد جمعوا لكم"! يكيدونهم بذلك، يريدون أن يَرْعَبوهم، فيقول المؤمنون:"حسبنا الله ونعم الوكيل"، حتى قدموا بدرًا، فوجدوا أسواقها عافية لم ينازعهم فيها أحد. [[قوله: "أسواقهم عافية"، أي وافرة، من قولهم: "أرض عافية": لم يرع أحد نبتها، فوفر نبتها وكثر. يعني أن الأسواق لم يحضرها أحد يزاحمهم في تجارتها. وانظر الأثر الآتي رقم: ٨٢٥٢.]] قال: وقدم رجل من المشركين وأخبر أهل مكة بخيل محمد عليه السلام، وقال في ذلك: [[هو معبد بن أبي معبد الخزاعي، كما روى ابن هشام في سيرته ٣: ٢٢٠، ٢٢١، والطبري في تاريخه ٣: ٤١
+٨٢٤٩ - حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن ابن جريج، عن مجاهد بنحوه= وزاد فيه: وهي بدر الصغرى= قال ابن جريج: لما عبَّى النبي ﷺ لموعد أبي سفيان، [[في المطبوعة: "لما عمد النبي. . ."، وفي المخطوطة"لما عبد"، ورجحت أن صحة قراءتها ما أثبت."عبى الجيش تعبئة": هيأه وأصلح أمره وجمعه، مثل"عبأه". ورجحت ذلك، لأن معناه وارد في الآثار الأخرى.]] فجعلوا يلقون المشركين ويسألونهم عن قريش، فيقولون:"قد جمعوا لكم"! يكيدونهم بذلك، يريدون أن يَرْعَبوهم، فيقول المؤمنون:"حسبنا الله ونعم الوكيل"، حتى قدموا بدرًا، فوجدوا أسواقها عافية لم ينازعهم فيها أحد. [[قوله: "أسواقهم عافية"، أي وافرة، من قولهم: "أرض عافية": لم يرع أحد نبتها، فوفر نبتها وكثر. يعني أن الأسواق لم يحضرها أحد يزاحمهم في تجارتها. وانظر الأثر الآتي رقم: ٨٢٥٢.]] قال: وقدم رجل من المشركين وأخبر أهل مكة بخيل محمد عليه السلام، وقال في ذلك: [[هو معبد بن أبي معبد الخزاعي، كما روى ابن هشام في سيرته ٣: ٢٢٠، ٢٢١، والطبري في تاريخه ٣: ٤١.]]
 
-[TRUNCATED at 12000 chars — 2794 more. Consult the source directly before relying on anything near the cut.]
+نَفَرَتْ قَلُوصيِ عَنْ خُيولِ مُحَمَّدِ ... وَعَجْوَةٍ مَنْثُورَةٍ كَالعُنْجُدِ وَاتَّخَذَتْ مَاءَ قُدَيْدٍ مَوْعِدِي
+
+* *
+
+قال أبو جعفر: هكذا أنشدنا القاسم، وهو خطأ، وإنما هو:
+
+قَدْ نَفَرَتْ مِنْ رُفْقَتَيْ مُحَمَّدِ ... وَعَجْوَةٍ مِنْ يَثْرِبٍ كَالعُنْجُدِ [[سيرة ابن هشام ٢: ٢٢٠، ٢٢١، وتاريخ الطبري ٣: ٤١، ومعجم ما استعجم: ٨٥٦، ٨٥٧. وقوله: "رفقتي محمد" بالتثنية، يعنى المهاجرين والأنصار. و"العجوة" ضرب من أجود التمر بالمدينة، ونخلته هي"اللينة" المذكورة في قوله تعالى: "ما قطعتم من لينة"، في سورة الحشر. و"يثرب" مدينة رسول الله ﷺ. و"العنجد": الزبيب الأسود.]] تَهْوِي عَلَى دِينِ أَبيهَا الأتْلَدِ ... قَدْ جَعَلَتْ مَاءَ قُدَيْدٍ مَوْعِدِي [[تهوي: تسرع، هوت الناقة تهوى: أسرعت إسراعًا. والدين: الدأب والعادة. و"الأتلد" الأقدم، من التليد، وهو القديم. و"قديد": موضع ماء بين مكة والمدينة.]]
+
+وَمَاءَ ضَجْنَانَ لَهَا ضُحَى الغَدِ [[و"ضجنان" (بفتح أوله وسكون الجيم) : وهو جبل على طريق المدينة من مكة، بينه وبين قديد ليلة، كما بينه هذا الشعر. قاله أبو عبيد البكرى في معجم ما استعجم.]]
+
+* *
+
+٨٢٥٠ - حدثني الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا ابن عيينة، عن عمرو، عن عكرمة قال: كانت بدر متجرًا في الجاهلية، فخرج ناس من المسلمين يريدونه، ولقيهم ناسٌ من المشركين فقالوا لهم:"إنّ الناس قد جمعوا لكم فاخشوهم"! فأما الجبان فرجع، وأما الشجاع فأخذ الأهبة للقتال وأهبة التجارة، وقالوا:"حسبنا الله ونعم الوكيل"! فأتوهم فلم يلقوا أحدًا، فأنزل الله عز وجل فيهم:"إن الناس قد جمعوا لكم فاخشوهم"= قال ابن يحيى قال، عبد الرزاق قال، ابن عيينة: وأخبرني زكريا، عن الشعبي، عن عبد الله بن عمرو قال: هي كلمة إبراهيم ﷺ حين ألقي في النار، فقال:"حسبنا الله ونعم الوكيل".
+
+* *
+
+قال أبو جعفر: وأولى القولين في ذلك بالصواب، قول من قال:"إن الذي قيل لرسول الله ﷺ وأصحابه من أنّ الناس قد جمعوا لكم فاخشوهم، كان في حال خروج رسول الله ﷺ وخروج من خرج معه في أثر أبي سفيان ومن كان معه من مشركي قريش، مُنْصَرَفهم عن أحد إلى حمراء الأسد".
+
+لأن الله تعالى ذكره إنما مدح الذين وصفهم بقيلهم:"حسبنا الله ونعم الوكيل"، لما قيل لهم:"إنّ الناس قد جمعوا لكم فاخشوهم"، بعد الذي قد كان نالهم من القروح والكلوم بقوله:"الذين استجابوا لله والرسول من بعد ما أصابهم القرح"، ولم تكن هذه الصفة إلا صفة من تبع رسول الله ﷺ من جرحى أصحابه بأحد إلى حمراء الأسد.
+
+وأما الذين خرجوا معه إلى غزوة بدر الصغرى، [[في المطبوعة: "وأما قول الذين خرجوا معه"، وهي زيادة فاسدة، وليست في المخطوطة.]] فإنه لم يكن فيهم جريح إلا جريح قد تقادم اندمال جرحه وبرأ كلمُه. وذلك أن رسول الله ﷺ إنما خرج إلى بدر الخرجة الثانية إليها، لموعد أبي سفيان الذي كان واعده اللقاء بها، بعد سنة من غزوة أحد، في شعبان سنة أربع من الهجرة. وذلك أن وقعة أحد كانت في النصف من شوال من سنة ثلاث، وخروج النبي ﷺ لغزوة بدر الصغرى إليها في شعبان من سنة أربع، ولم يكن للنبيّ ﷺ بين ذلك وقعة مع المشركين كانت بينهم فيها حرب جرح فيها أصحابه، ولكن قد كان قتل في وقعة الرَّجيع من أصحابه جماعة لم يشهد أحد منهم غزوة بدر الصغرى. وكانت وقعة الرَّجيع فيما بين وقعة أحد وغزوة النبي ﷺ بدرًا الصغرى.
 
 ### al-Muyassar (Arabic)
 

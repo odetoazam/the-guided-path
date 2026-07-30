@@ -590,9 +590,49 @@ In the case of this gathering where the Quraysh came together to speak with the 
 
 إِنَّ الَّذِينَ حَقَّتْ عَلَيْهِمْ كَلِمَتُ رَبِّكَ لَا يُؤْمِنُونَ - وَلَوْ جَاءَتْهُمْ كُلُّ آيَةٍ حَتَّىٰ يَرَوُا الْعَذَابَ الْأَلِيمَ
 
-(Truly, those, against whom the Word (wrath) of your Lord has been justified, will not believe. Even if every sign should come to them, until 
+(Truly, those, against whom the Word (wrath) of your Lord has been justified, will not believe. Even if every sign should come to them, until they see the painful torment.)(10:96-97) And Allah says:
 
-[TRUNCATED at 12000 chars — 3285 more. Consult the source directly before relying on anything near the cut.]
+وَلَوْ أَنَّنَا نَزَّلْنَا إِلَيْهِمُ الْمَلَائِكَةَ وَكَلَّمَهُمُ الْمَوْتَىٰ وَحَشَرْنَا عَلَيْهِمْ كُلَّ شَيْءٍ قُبُلًا مَّا كَانُوا لِيُؤْمِنُوا
+
+(And even if We had sent down unto them angels, and the dead had spoken unto them, and We had gathered together all things before their very eyes, they would not have believed)[6:111] His saying;
+
+أَوْ تُسْقِطَ السَّمَاءَ كَمَا زَعَمْتَ
+
+(Or you cause the heaven to fall upon us in pieces, as you have pretended,) means, 'you promised us that on the Day of Resurrection the heavens will be split asunder, being broken and torn up, with parts of it falling down, so do that in this world and make it fall in pieces.' This is like when they said:
+
+اللَّهُمَّ إِن كَانَ هَـذَا هُوَ الْحَقَّ مِنْ عِندِكَ فَأَمْطِرْ عَلَيْنَا حِجَارَةً مِّنَ السَّمَآءِ
+
+(O Allah! If this (the Qur'an) is indeed the truth from You, then rain down stones on us from the sky.)[8:32]
+
+Similarly, the people of Shu'ayb asked him:
+
+فَأَسْقِطْ عَلَيْنَا كِسَفًا مِّنَ السَّمَاءِ إِن كُنتَ مِنَ الصَّادِقِينَ
+
+(So cause a piece of the heaven to fall on us, if you are of the truthful!)(26:187)
+
+So Allah punished them with the punishment of the day of Shadow (a gloomy cloud), which was the torment of a Great Day. [26:189] As for the Prophet of Repentance and Mercy, who was sent as a mercy to the worlds, he asked Allah to delay their punishment, in the hope that Allah would bring forth from their offspring people who would worship Allah Alone, with no partner or associate. This is what indeed did happen, for among those who are mentioned above were some who later embraced Islam and became good and sincere Muslims, even 'Abdullah bin Abi Umayyah, who followed the Prophet ﷺ (out of that meeting) and spoke to him as he did. He became a sincere Muslim and turned to Allah in repentance.
+
+أَوْ يَكُونَ لَكَ بَيْتٌ مِّن زُخْرُفٍ
+
+(Or you have a house of Zukhruf.)
+
+Ibn 'Abbas, Mujahid and Qatadah said, "This is gold." This was also what was said in the recitation of Ibn Mas'ud, "Or you have a house of gold."
+
+أَوْ تَرْقَىٰ فِي السَّمَاءِ
+
+(or you ascend up into the sky,) meaning, you climb up on a ladder while we are watching you.
+
+وَلَن نُّؤْمِنَ لِرُقِيِّكَ حَتَّىٰ تُنَزِّلَ عَلَيْنَا كِتَابًا نَّقْرَؤُهُ
+
+(and even then we will put no faith in your ascension until you bring down for us a Book that we would read.)
+
+Mujahid said, "This means a book in which there would be one page for each person, on which would be the words: 'This is a book from Allah to so-and-so the son of so-and-so, which he would find by his head when he woke up in the morning."
+
+قُلْ سُبْحَانَ رَبِّي هَلْ كُنتُ إِلَّا بَشَرًا رَّسُولًا
+
+(Say: "Glorified be my Lord! Am I anything but a man, sent as a Messenger?")
+
+meaning, 'Glorified, exalted and sanctified be He above the notion that anyone would come before Him concerning any matter pertaining to His authority and sovereignty. He is the One Who does what He wills. If He willed, he could have given you what you asked for, or if He willed, he could have refrained. I am only a Messenger to you, sent to convey the Messages of my Lord and advise you. I have done that, and the response to what you have asked is to be decided by Allah, may He be glorified.'
 
 ### al-Tabari (Arabic)
 
@@ -692,9 +732,49 @@ In the case of this gathering where the Quraysh came together to speak with the 
 
 إِنَّ الَّذِينَ حَقَّتْ عَلَيْهِمْ كَلِمَتُ رَبِّكَ لَا يُؤْمِنُونَ - وَلَوْ جَاءَتْهُمْ كُلُّ آيَةٍ حَتَّىٰ يَرَوُا الْعَذَابَ الْأَلِيمَ
 
-(Truly, those, against whom the Word (wrath) of your Lord has been justified, will not believe. Even if every sign should come to them, until 
+(Truly, those, against whom the Word (wrath) of your Lord has been justified, will not believe. Even if every sign should come to them, until they see the painful torment.)(10:96-97) And Allah says:
 
-[TRUNCATED at 12000 chars — 3285 more. Consult the source directly before relying on anything near the cut.]
+وَلَوْ أَنَّنَا نَزَّلْنَا إِلَيْهِمُ الْمَلَائِكَةَ وَكَلَّمَهُمُ الْمَوْتَىٰ وَحَشَرْنَا عَلَيْهِمْ كُلَّ شَيْءٍ قُبُلًا مَّا كَانُوا لِيُؤْمِنُوا
+
+(And even if We had sent down unto them angels, and the dead had spoken unto them, and We had gathered together all things before their very eyes, they would not have believed)[6:111] His saying;
+
+أَوْ تُسْقِطَ السَّمَاءَ كَمَا زَعَمْتَ
+
+(Or you cause the heaven to fall upon us in pieces, as you have pretended,) means, 'you promised us that on the Day of Resurrection the heavens will be split asunder, being broken and torn up, with parts of it falling down, so do that in this world and make it fall in pieces.' This is like when they said:
+
+اللَّهُمَّ إِن كَانَ هَـذَا هُوَ الْحَقَّ مِنْ عِندِكَ فَأَمْطِرْ عَلَيْنَا حِجَارَةً مِّنَ السَّمَآءِ
+
+(O Allah! If this (the Qur'an) is indeed the truth from You, then rain down stones on us from the sky.)[8:32]
+
+Similarly, the people of Shu'ayb asked him:
+
+فَأَسْقِطْ عَلَيْنَا كِسَفًا مِّنَ السَّمَاءِ إِن كُنتَ مِنَ الصَّادِقِينَ
+
+(So cause a piece of the heaven to fall on us, if you are of the truthful!)(26:187)
+
+So Allah punished them with the punishment of the day of Shadow (a gloomy cloud), which was the torment of a Great Day. [26:189] As for the Prophet of Repentance and Mercy, who was sent as a mercy to the worlds, he asked Allah to delay their punishment, in the hope that Allah would bring forth from their offspring people who would worship Allah Alone, with no partner or associate. This is what indeed did happen, for among those who are mentioned above were some who later embraced Islam and became good and sincere Muslims, even 'Abdullah bin Abi Umayyah, who followed the Prophet ﷺ (out of that meeting) and spoke to him as he did. He became a sincere Muslim and turned to Allah in repentance.
+
+أَوْ يَكُونَ لَكَ بَيْتٌ مِّن زُخْرُفٍ
+
+(Or you have a house of Zukhruf.)
+
+Ibn 'Abbas, Mujahid and Qatadah said, "This is gold." This was also what was said in the recitation of Ibn Mas'ud, "Or you have a house of gold."
+
+أَوْ تَرْقَىٰ فِي السَّمَاءِ
+
+(or you ascend up into the sky,) meaning, you climb up on a ladder while we are watching you.
+
+وَلَن نُّؤْمِنَ لِرُقِيِّكَ حَتَّىٰ تُنَزِّلَ عَلَيْنَا كِتَابًا نَّقْرَؤُهُ
+
+(and even then we will put no faith in your ascension until you bring down for us a Book that we would read.)
+
+Mujahid said, "This means a book in which there would be one page for each person, on which would be the words: 'This is a book from Allah to so-and-so the son of so-and-so, which he would find by his head when he woke up in the morning."
+
+قُلْ سُبْحَانَ رَبِّي هَلْ كُنتُ إِلَّا بَشَرًا رَّسُولًا
+
+(Say: "Glorified be my Lord! Am I anything but a man, sent as a Messenger?")
+
+meaning, 'Glorified, exalted and sanctified be He above the notion that anyone would come before Him concerning any matter pertaining to His authority and sovereignty. He is the One Who does what He wills. If He willed, he could have given you what you asked for, or if He willed, he could have refrained. I am only a Messenger to you, sent to convey the Messages of my Lord and advise you. I have done that, and the response to what you have asked is to be decided by Allah, may He be glorified.'
 
 ### al-Tabari (Arabic)
 
@@ -768,9 +848,49 @@ In the case of this gathering where the Quraysh came together to speak with the 
 
 إِنَّ الَّذِينَ حَقَّتْ عَلَيْهِمْ كَلِمَتُ رَبِّكَ لَا يُؤْمِنُونَ - وَلَوْ جَاءَتْهُمْ كُلُّ آيَةٍ حَتَّىٰ يَرَوُا الْعَذَابَ الْأَلِيمَ
 
-(Truly, those, against whom the Word (wrath) of your Lord has been justified, will not believe. Even if every sign should come to them, until 
+(Truly, those, against whom the Word (wrath) of your Lord has been justified, will not believe. Even if every sign should come to them, until they see the painful torment.)(10:96-97) And Allah says:
 
-[TRUNCATED at 12000 chars — 3285 more. Consult the source directly before relying on anything near the cut.]
+وَلَوْ أَنَّنَا نَزَّلْنَا إِلَيْهِمُ الْمَلَائِكَةَ وَكَلَّمَهُمُ الْمَوْتَىٰ وَحَشَرْنَا عَلَيْهِمْ كُلَّ شَيْءٍ قُبُلًا مَّا كَانُوا لِيُؤْمِنُوا
+
+(And even if We had sent down unto them angels, and the dead had spoken unto them, and We had gathered together all things before their very eyes, they would not have believed)[6:111] His saying;
+
+أَوْ تُسْقِطَ السَّمَاءَ كَمَا زَعَمْتَ
+
+(Or you cause the heaven to fall upon us in pieces, as you have pretended,) means, 'you promised us that on the Day of Resurrection the heavens will be split asunder, being broken and torn up, with parts of it falling down, so do that in this world and make it fall in pieces.' This is like when they said:
+
+اللَّهُمَّ إِن كَانَ هَـذَا هُوَ الْحَقَّ مِنْ عِندِكَ فَأَمْطِرْ عَلَيْنَا حِجَارَةً مِّنَ السَّمَآءِ
+
+(O Allah! If this (the Qur'an) is indeed the truth from You, then rain down stones on us from the sky.)[8:32]
+
+Similarly, the people of Shu'ayb asked him:
+
+فَأَسْقِطْ عَلَيْنَا كِسَفًا مِّنَ السَّمَاءِ إِن كُنتَ مِنَ الصَّادِقِينَ
+
+(So cause a piece of the heaven to fall on us, if you are of the truthful!)(26:187)
+
+So Allah punished them with the punishment of the day of Shadow (a gloomy cloud), which was the torment of a Great Day. [26:189] As for the Prophet of Repentance and Mercy, who was sent as a mercy to the worlds, he asked Allah to delay their punishment, in the hope that Allah would bring forth from their offspring people who would worship Allah Alone, with no partner or associate. This is what indeed did happen, for among those who are mentioned above were some who later embraced Islam and became good and sincere Muslims, even 'Abdullah bin Abi Umayyah, who followed the Prophet ﷺ (out of that meeting) and spoke to him as he did. He became a sincere Muslim and turned to Allah in repentance.
+
+أَوْ يَكُونَ لَكَ بَيْتٌ مِّن زُخْرُفٍ
+
+(Or you have a house of Zukhruf.)
+
+Ibn 'Abbas, Mujahid and Qatadah said, "This is gold." This was also what was said in the recitation of Ibn Mas'ud, "Or you have a house of gold."
+
+أَوْ تَرْقَىٰ فِي السَّمَاءِ
+
+(or you ascend up into the sky,) meaning, you climb up on a ladder while we are watching you.
+
+وَلَن نُّؤْمِنَ لِرُقِيِّكَ حَتَّىٰ تُنَزِّلَ عَلَيْنَا كِتَابًا نَّقْرَؤُهُ
+
+(and even then we will put no faith in your ascension until you bring down for us a Book that we would read.)
+
+Mujahid said, "This means a book in which there would be one page for each person, on which would be the words: 'This is a book from Allah to so-and-so the son of so-and-so, which he would find by his head when he woke up in the morning."
+
+قُلْ سُبْحَانَ رَبِّي هَلْ كُنتُ إِلَّا بَشَرًا رَّسُولًا
+
+(Say: "Glorified be my Lord! Am I anything but a man, sent as a Messenger?")
+
+meaning, 'Glorified, exalted and sanctified be He above the notion that anyone would come before Him concerning any matter pertaining to His authority and sovereignty. He is the One Who does what He wills. If He willed, he could have given you what you asked for, or if He willed, he could have refrained. I am only a Messenger to you, sent to convey the Messages of my Lord and advise you. I have done that, and the response to what you have asked is to be decided by Allah, may He be glorified.'
 
 ### al-Tabari (Arabic)
 
@@ -900,9 +1020,49 @@ In the case of this gathering where the Quraysh came together to speak with the 
 
 إِنَّ الَّذِينَ حَقَّتْ عَلَيْهِمْ كَلِمَتُ رَبِّكَ لَا يُؤْمِنُونَ - وَلَوْ جَاءَتْهُمْ كُلُّ آيَةٍ حَتَّىٰ يَرَوُا الْعَذَابَ الْأَلِيمَ
 
-(Truly, those, against whom the Word (wrath) of your Lord has been justified, will not believe. Even if every sign should come to them, until 
+(Truly, those, against whom the Word (wrath) of your Lord has been justified, will not believe. Even if every sign should come to them, until they see the painful torment.)(10:96-97) And Allah says:
 
-[TRUNCATED at 12000 chars — 3285 more. Consult the source directly before relying on anything near the cut.]
+وَلَوْ أَنَّنَا نَزَّلْنَا إِلَيْهِمُ الْمَلَائِكَةَ وَكَلَّمَهُمُ الْمَوْتَىٰ وَحَشَرْنَا عَلَيْهِمْ كُلَّ شَيْءٍ قُبُلًا مَّا كَانُوا لِيُؤْمِنُوا
+
+(And even if We had sent down unto them angels, and the dead had spoken unto them, and We had gathered together all things before their very eyes, they would not have believed)[6:111] His saying;
+
+أَوْ تُسْقِطَ السَّمَاءَ كَمَا زَعَمْتَ
+
+(Or you cause the heaven to fall upon us in pieces, as you have pretended,) means, 'you promised us that on the Day of Resurrection the heavens will be split asunder, being broken and torn up, with parts of it falling down, so do that in this world and make it fall in pieces.' This is like when they said:
+
+اللَّهُمَّ إِن كَانَ هَـذَا هُوَ الْحَقَّ مِنْ عِندِكَ فَأَمْطِرْ عَلَيْنَا حِجَارَةً مِّنَ السَّمَآءِ
+
+(O Allah! If this (the Qur'an) is indeed the truth from You, then rain down stones on us from the sky.)[8:32]
+
+Similarly, the people of Shu'ayb asked him:
+
+فَأَسْقِطْ عَلَيْنَا كِسَفًا مِّنَ السَّمَاءِ إِن كُنتَ مِنَ الصَّادِقِينَ
+
+(So cause a piece of the heaven to fall on us, if you are of the truthful!)(26:187)
+
+So Allah punished them with the punishment of the day of Shadow (a gloomy cloud), which was the torment of a Great Day. [26:189] As for the Prophet of Repentance and Mercy, who was sent as a mercy to the worlds, he asked Allah to delay their punishment, in the hope that Allah would bring forth from their offspring people who would worship Allah Alone, with no partner or associate. This is what indeed did happen, for among those who are mentioned above were some who later embraced Islam and became good and sincere Muslims, even 'Abdullah bin Abi Umayyah, who followed the Prophet ﷺ (out of that meeting) and spoke to him as he did. He became a sincere Muslim and turned to Allah in repentance.
+
+أَوْ يَكُونَ لَكَ بَيْتٌ مِّن زُخْرُفٍ
+
+(Or you have a house of Zukhruf.)
+
+Ibn 'Abbas, Mujahid and Qatadah said, "This is gold." This was also what was said in the recitation of Ibn Mas'ud, "Or you have a house of gold."
+
+أَوْ تَرْقَىٰ فِي السَّمَاءِ
+
+(or you ascend up into the sky,) meaning, you climb up on a ladder while we are watching you.
+
+وَلَن نُّؤْمِنَ لِرُقِيِّكَ حَتَّىٰ تُنَزِّلَ عَلَيْنَا كِتَابًا نَّقْرَؤُهُ
+
+(and even then we will put no faith in your ascension until you bring down for us a Book that we would read.)
+
+Mujahid said, "This means a book in which there would be one page for each person, on which would be the words: 'This is a book from Allah to so-and-so the son of so-and-so, which he would find by his head when he woke up in the morning."
+
+قُلْ سُبْحَانَ رَبِّي هَلْ كُنتُ إِلَّا بَشَرًا رَّسُولًا
+
+(Say: "Glorified be my Lord! Am I anything but a man, sent as a Messenger?")
+
+meaning, 'Glorified, exalted and sanctified be He above the notion that anyone would come before Him concerning any matter pertaining to His authority and sovereignty. He is the One Who does what He wills. If He willed, he could have given you what you asked for, or if He willed, he could have refrained. I am only a Messenger to you, sent to convey the Messages of my Lord and advise you. I have done that, and the response to what you have asked is to be decided by Allah, may He be glorified.'
 
 ### al-Tabari (Arabic)
 

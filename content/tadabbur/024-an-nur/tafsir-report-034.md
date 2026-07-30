@@ -142,9 +142,23 @@ In his Musnad, Al-Hafiz Abu Bakr Ahmad bin 'Amr bin 'Abd Al-Khaliq Al-Bazzar, ma
 
 وَمَن يُكْرِههُّنَّ فَإِنَّ اللَّهَ مِن بَعْدِ إِكْرَاهِهِنَّ غَفُورٌ رَّحِيمٌ
 
-(But if anyone com
+(But if anyone compels them, then after such compulsion, Allah is Oft-Forgiving, Most Merciful.) meaning, towards them, as has already been stated in the Hadith narrated from Jabir. Ibn Abi Talhah narrated that Ibn 'Abbas said, "If you do that, then Allah is Oft-Forgiving, Most Merciful, and their sin will be on the one who forced them to do that." This was also the view of Mujahid, 'Ata' Al-Khurasani, Al-A'mash and Qatadah. After explaining these rulings in detail, Allah says:
 
-[TRUNCATED at 12000 chars — 1212 more. Consult the source directly before relying on anything near the cut.]
+وَلَقَدْ أَنزَلْنَا إِلَيْكُمْ آيَاتٍ مُّبَيِّنَاتٍ
+
+(And indeed We have sent down for you Ayat that make things plain,) meaning, in the Qur'an there are Ayat which are clear and explain matters in detail.
+
+وَمَثَلًا مِّنَ الَّذِينَ خَلَوْا مِن قَبْلِكُمْ
+
+(and the example of those who passed away before you,) means, reports about the nations of the past and what happened to them when they went against the commandments of Allah, as Allah says:
+
+فَجَعَلْنَاهُمْ سَلَفًا وَمَثَلًا لِّلْآخِرِينَ
+
+(And We made them a precedent, and an example to later generations.)(43:56); We made them a lesson, i.e., a rebuke for committing sin and forbidden deeds.
+
+لِّلْمُتَّقِينَ
+
+(for those who have Taqwa.) meaning, for those who remember and fear Allah.
 
 ### al-Tabari (Arabic)
 

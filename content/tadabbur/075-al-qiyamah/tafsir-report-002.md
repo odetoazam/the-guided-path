@@ -2006,9 +2006,107 @@ According to another route of transmission, Ahmad recorded from Abu Umamah, who 
 
 Ahmad recorded this Hadith from different routes of transmission that are good and strong, and all praise is due to Allah.
 
-Al
+Allah said,
 
-[TRUNCATED at 12000 chars — 4316 more. Consult the source directly before relying on anything near the cut.]
+أَوْ إِطْعَامٌ فِي يَوْمٍ ذِي مَسْغَبَةٍ
+
+(Or giving food in a day full of Masghabah,) Ibn 'Abbas said, "Of hunger." 'Ikrimah, Mujahid, Ad-Dahhak, Qatadah and others all said the same. The word 'Saghb' means hunger. Then Allah says,
+
+يَتِيمًا
+
+(To an orphan) meaning, he gives food on a day like this to an orphan.
+
+ذَا مَقْرَبَةٍ
+
+(near of kin.) meaning, who is related to him. Ibn 'Abbas, 'Ikrimah, Al-Hasan, Ad-Dahhak and As-Suddi all said this. This is similar to what was related in a Hadith that was collected by Imam Ahmad on the authority of Salman bin 'Amir who said that he heard the Messenger of Allah ﷺ say,
+
+الصَّدَقَةُ عَلَى الْمِسْكِينِ صَدَقَةٌ وَعَلَى ذِي الرَّحِمِ اثْنَتَانِ: صَدَقَةٌ وَصِلَةٌ
+
+(Charity given to the poor person is counted as one charity, while if it is given to a relative it is counted as two: charity and connecting the ties (of kinship).)
+
+At-Tirmidhi and An-Nasa'i both recorded this Hadith and its chain of narration is authentic. Then Allah says,
+
+أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ
+
+(Or to a Miskin cleaving to dust (Dha Matrabah).)
+
+meaning, poor, miserable, and clinging to the dirt. It means those who are in a state of destitution. Ibn 'Abbas said, "Dha Matrabah is that who is dejected in the street and who has no house or anything else to protect him against the dirt."
+
+Allah said:
+
+ثُمَّ كَانَ مِنَ الَّذِينَ آمَنُوا
+
+(Then he became one of those who believed) meaning, then, along with these beautiful and pure characteristics, he was a believer in his heart, seeking the reward of that from Allah. This is as Allah says,
+
+وَمَنْ أَرَادَ الْآخِرَةَ وَسَعَىٰ لَهَا سَعْيَهَا وَهُوَ مُؤْمِنٌ فَأُولَٰئِكَ كَانَ سَعْيُهُم مَّشْكُورًا
+
+(And whoever desires the Hereafter and strives for it, with the necessary effort due for it while he is believer, then such are the ones whose striving shall be appreciated.)(17:19)
+
+Allah also says,
+
+مَنْ عَمِلَ صَالِحًا مِّن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌ
+
+(Whoever works righteousness – whether male or female – while being a true believer...)(16:97)
+
+Allah says,
+
+وَتَوَاصَوْا بِالصَّبْرِ وَتَوَاصَوْا بِالْمَرْحَمَةِ
+
+(and recommended one another to patience, and recommended one another to compassion.)
+
+meaning, he was from the believers who worked righteous deeds, and advised each other to be patient with the harms of the people, and to be merciful with them. This is similar to what has been related in the noble Hadith,
+
+الرَّاحِمُونَ يَرْحَمُهُمُ الرَّحْمَٰنُ، ارْحَمُوا مَنْ فِي الْأَرْضِ يَرْحَمْكُمْ مَنْ فِي السَّمَاءِ
+
+(The merciful people will be treated with mercy by the Most Merciful (Allah). Be merciful to those who are on the earth and He Who is above the heavens will be merciful to you.)
+
+In another Hadith he said,
+
+لَا يَرْحَمُ اللهُ مَنْ لَا يَرْحَمِ النَّاسَ
+
+(Allah will not be merciful with whoever is not merciful with the people.)
+
+Abu Dawud recorded from 'Abdullah bin 'Amr that he narrated (from the Prophet ﷺ),
+
+مَنْ لَمْ يَرْحَمْ صَغِيرَنَا وَيَعْرِفْ حَقَّ كَبِيرِنَا فَلَيْسَ مِنَّا
+
+(Whoever does not show mercy to our children, nor does he recognize the right of our elders, then he is not of us.)
+
+Then Allah says,
+
+أُولَٰئِكَ أَصْحَابُ الْمَيْمَنَةِ
+
+(They are those on the Right,) meaning, those who have these characteristics are the companions of the Right Hand.
+
+The Companions of the Left Hand and Their Recompense
+
+Then Allah says,
+
+وَالَّذِينَ كَفَرُوا بِآيَاتِنَا هُمْ أَصْحَابُ الْمَشْأَمَةِ
+
+(But those who disbelieved in Our Ayat, they are those on the Left.)
+
+meaning, the companions of the Left Hand.
+
+عَلَيْهِمْ نَارٌ مُّؤْصَدَةٌ
+
+(Upon them Fire will Mu'sadah.)
+
+meaning, it will be sealed over them and there will be no way for them to avoid it, nor will they have any way out. Abu Hurayrah, Ibn 'Abbas, 'Ikrimah, Sa'id bin Jubayr, Mujahid, Muhammad bin Ka'b Al-Qurazi, 'Atiyah Al-'Awfi, Al-Hasan, Qatadah and As-Suddi, all said,
+
+مُّؤْصَدَةٌ
+
+(Mu'sadah.) "This means shut." Ibn 'Abbas said, "Its doors will be closed." Ad-Dahhak said,
+
+مُّؤْصَدَةٌ
+
+(Mu'sadah.) "It will be sealed over them and it will have no door." Qatadah said,
+
+مُّؤْصَدَةٌ
+
+(Mu'sadah.) "It will be shut and there will be no light in it, no crevice (escape), and no way out of it forever."
+
+This is the end of the Tafsir of Surat Al-Balad, and all praise and blessings are due to Allah.
 
 ### al-Tabari (Arabic)
 

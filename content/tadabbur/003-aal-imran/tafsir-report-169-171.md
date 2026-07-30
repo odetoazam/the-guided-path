@@ -112,9 +112,85 @@ Al-Bukhari recorded that 'A'ishah said to 'Urwah about the Ayah;
 
 "My nephew! Your fathers Az-Zubayr and Abu Bakr were among them. After the Prophet ﷺ suffered the calamity at Uhud and the idolators went back, he feared that the idolators might try to come back and he said, 'Who would follow them' Seventy men, including Az-Zubayr and Abu Bakr, volunteered." This was recorded by Al-Bukhari alone.
 
-As for Al
+As for Allah's statement,
 
-[TRUNCATED at 12000 chars — 4567 more. Consult the source directly before relying on anything near the cut.]
+الَّذِينَ قَالَ لَهُمُ النَّاسُ إِنَّ النَّاسَ قَدْ جَمَعُوا لَكُمْ فَاخْشَوْهُمْ فَزَادَهُمْ إِيمَانًا
+
+(Those unto whom the people said, "Verily, the people have gathered against you, therefore, fear them." But it (only) increased them in faith)[3:173], it means, those who threatened the people, saying that the disbelievers have amassed against them, in order to instill fear in them, but this did not worry them, rather, they trusted in Allah and sought His help,
+
+وَقَالُوا حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ
+
+(and they said: "Allah is Sufficient for us, and He is the Best Disposer of affairs.")
+
+Al-Bukhari recorded that Ibn 'Abbas said,
+
+حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ
+
+("Allah Alone is Sufficient for us and He is the Best Disposer of affairs for us.")
+
+"Ibrahim said it when he was thrown in fire. Muhammad said it when the people said, 'Verily, the people have gathered against you, therefore, fear them.' But it only increased them in faith, and they said, 'Allah is Sufficient for us and He is the Best Disposer of affairs for us.'" Abu Bakr Ibn Marduwyah recorded that Anas bin Malik said that the Prophet ﷺ was told on the day of Uhud, "Verily, the people have gathered against you, therefore, fear them." Thereafter, Allah sent down this Ayah [3:173].
+
+This is why Allah said,
+
+فَانقَلَبُوا بِنِعْمَةٍ مِّنَ اللَّهِ وَفَضْلٍ لَّمْ يَمْسَسْهُمْ سُوءٌ
+
+(So they returned with grace and bounty from Allah. No harm touched them;) for when they relied on Allah, Allah took care of their worries, He confounded the plots of their enemies, and the Muslims returned to their land,
+
+بِنِعْمَةٍ مِّنَ اللَّهِ وَفَضْلٍ لَّمْ يَمْسَسْهُمْ سُوءٌ
+
+(with grace and bounty from Allah. No harm touched them;) safe from the wicked plots of their enemies,
+
+وَاتَّبَعُوا رِضْوَانَ اللَّهِ وَاللَّهُ ذُو فَضْلٍ عَظِيمٍ
+
+(and they followed the pleasure of Allah. And Allah is the Owner of great bounty.)
+
+Al-Bayhaqi recorded that Ibn 'Abbas said about Allah's statement,
+
+فَانقَلَبُوا بِنِعْمَةٍ مِّنَ اللَّهِ وَفَضْلٍ
+
+(So they returned with grace and bounty from Allah,) "The 'Grace' was that they were saved. The 'Bounty' was that a caravan passed by, and those days were [Hajj] season days. Thus the Messenger of Allah ﷺ bought and sold and made a profit, which he divided between his Companions."
+
+Allah then said,
+
+إِنَّمَا ذَٰلِكُمُ الشَّيْطَانُ يُخَوِّفُ أَوْلِيَاءَهُ
+
+(It is only Shaytan that suggests to you the fear of his friends,)[3:175] meaning, Shaytan threatens you with his friends and tries to pretend they are powerful and fearsome. Allah said next,
+
+فَلَا تَخَافُوهُمْ وَخَافُونِ إِن كُنتُم مُّؤْمِنِينَ
+
+(so fear them not, but fear Me, if you are indeed believers.) meaning, "If Shaytan brings these thoughts to you, then depend on Me and seek refuge with Me. Indeed, I shall suffice you and make you prevail over them." Similarly, Allah said,
+
+أَلَيْسَ اللَّهُ بِكَافٍ عَبْدَهُ وَيُخَوِّفُونَكَ بِالَّذِينَ مِن دُونِهِ
+
+(Is not Allah Sufficient for His servant? Yet they try to frighten you with those besides Him!)[39:36], until,
+
+قُلْ حَسْبِيَ اللَّهُ عَلَيْهِ يَتَوَكَّلُ الْمُتَوَكِّلُونَ
+
+(Say: "Sufficient for me is Allah; in Him those who trust must put their trust.")[39:38]. Allah said,
+
+فَقَاتِلُوا أَوْلِيَاءَ الشَّيْطَانِ إِنَّ كَيْدَ الشَّيْطَانِ كَانَ ضَعِيفًا
+
+(So fight you against the friends of Shaytan; ever feeble indeed is the plot of Shaytan.)[4:76] and
+
+أُولَٰئِكَ حِزْبُ الشَّيْطَانِ أَلَا إِنَّ حِزْبَ الشَّيْطَانِ هُمُ الْخَاسِرُونَ
+
+(They are the party of Shaytan. Verily, it is the party of Shaytan that will be the losers!)[58:19],
+
+كَتَبَ اللَّهُ لَأَغْلِبَنَّ أَنَا وَرُسُلِي إِنَّ اللَّهَ قَوِيٌّ عَزِيزٌ
+
+(Allah has decreed: "Verily, it is I and My Messengers who shall be the victorious." Verily, Allah is All-Powerful, All-Mighty.)[58:21] and
+
+وَلَيَنصُرَنَّ اللَّهُ مَن يَنصُرُهُ
+
+(Verily, Allah will help those who help His (cause).)[22:40] and
+
+يَا أَيُّهَا الَّذِينَ آمَنُوا إِن تَنصُرُوا اللَّهَ يَنصُرْكُمْ
+
+(O you who believe! If you help (in the cause of) Allah, He will help you)[47:7], and,
+
+إِنَّا لَنَنصُرُ رُسُلَنَا وَالَّذِينَ آمَنُوا فِي الْحَيَاةِ الدُّنْيَا وَيَوْمَ يَقُومُ الْأَشْهَادُ - يَوْمَ لَا يَنفَعُ الظَّالِمِينَ مَعْذِرَتُهُمْ وَلَهُمُ اللَّعْنَةُ وَلَهُمْ سُوءُ الدَّارِ
+
+(Verily, We will indeed make victorious Our Messengers and those who believe, in this world's life and on the Day when the witnesses will stand forth. The Day when their excuses will be of no profit to wrongdoers. Theirs will be the curse, and theirs will be the evil abode.)[40:51-52]
 
 ### al-Tabari (Arabic)
 
@@ -184,9 +260,47 @@ As for Al
 
 والحديث -من هذا الوجه- رواه الترمذي، عن ابن أبي عمر، عن سفيان، وهو ابن عيينة - بهذا الإسناد. ولم يذكر لفظه، بل جعله تابعًا لرواية الأعمش، عن عبد الله بن مرة، كمثل صنيع الطبري هنا، وقال الترمذي: "هذا حديث حسن".
 
-وقوله: "و
+وقوله: "ورضي عنا": هو بالبناء لما لم يسم فاعله. أي: ورضى الله عنا. كما هو ظاهر من السياق، وكما نص عليه شارح الترمذي.]]
 
-[TRUNCATED at 12000 chars — 6738 more. Consult the source directly before relying on anything near the cut.]
+٨٢٢٠- حدثنا ابن حميد قال، حدثنا سلمة، عن ابن إسحاق قال: قال الله تبارك وتعالى لنبيه محمد ﷺ، يرغِّب المؤمنين في ثواب الجنة ويهوِّن عليهم القتل:"ولا تحسبن الذين قتلوا في سبيل الله أمواتًا بل أحياء عند ربهم يرزقون"، أي: قد أحييتهم، فهم عندي يرزقون في رَوْح الجنة وفضلها، مسرورين بما آتاهم الله من ثوابه على جهادهم عنه. [[الأثر: ٨٢٢٠- سيرة ابن هشام ٣: ١٢٦، وهو تمام الآثار التي آخرها: ٨٢٠٤.]]
+
+٨٢٢١- حدثت عن الحسين قال، سمعت أبا معاذ قال، حدثنا عبيد بن سليمان قال، سمعت الضحاك قال: كان المسلمون يسألون ربهم أن يريهم يومًا كيوم بدر، يبلون فيه خيرًا، يرزقون فيه الشهادة، ويرزقون فيه الجنة والحياة في الرزق، فلقوا المشركين يوم أحد، فاتخذ الله منهم شهداء، وهم الذين ذكرهم الله فقال:"ولا تحسبن الذين قتلوا في سبيل الله أمواتًا" الآية.
+
+٨٢٢٢- حدثنا محمد بن الحسين قال، حدثنا أحمد بن المفضل قال، حدثنا أسباط، عن السدي قال: ذكر الشهداء فقال:"ولا تحسبن الذين قتلوا في سبيل الله أمواتًا بل أحياء عند ربهم" إلى قوله:"ولا هم يحزنون"، زَعم أن أرواح الشهداء في أجواف طير خضر، [[قوله: "زعم"، لا يراد به القول الباطل، بل يراد به القول الحق، والزعم: هو القول، يكون تاره حقًا، وتارة باطلا، وفي شعر أمية بن أبي الصلت: وَإنِّي أَذِينٌ لَكُمْ أَنَهُ ... سَيُنْجِزُكُمْ رَبُّكُمْ ما زَعَمْ
+
+أي: ما قال وما وعد.]] في قناديل من ذهب معلقة بالعرش، فهي ترعى بُكرة وعشية في الجنة، تبيت في القناديل، فإذا سرحن نادى مناد: ماذا تريدون؟ ماذا تشتهون؟ فيقولون: ربنا، نحن فيما اشتهت أنفسنا! فيسألهم ربهم أيضًا: ماذا تشتهون؟ وماذا تريدون؟ فيقولون: نحن فيما اشتهت أنفسنا! فيسألون الثالثة، فيقولون ما قالوا: ولكنا نحب أن تردَّ أرواحنا في أجسادنا! لما يرون من فضل الثواب. [[في المطبوعة: "لما يرون من فضل للثواب"، وأثبت ما في المخطوطة.]]
+
+٨٢٢٣- حدثنا ابن حميد قال، حدثنا عباد قال، حدثنا إبراهيم بن معمر، عن الحسن قال:، ما زال ابن آدم يتحمَّد [["تحمد الرجل يتحمد"، إذا طلب بفعله الحمد، و"فلان يتحمد إلى الناس بفعله"، أي يلتمس بذلك حمدهم.]] حتى صار حيًّا ما يموت. ثم تلا هذه الآية:"ولا تحسبن الذين قتلوا في سبيل الله أمواتًا بل أحياء عند ربهم يرزقون".
+
+٨٢٢٤- حدثنا محمد بن مرزوق قال، حدثنا عمر بن يونس، عن عكرمة قال، حدثنا إسحاق بن أبي طلحة قال، حدثني أنس بن مالك في أصحاب النبي ﷺ الذين أرسلهم نبي الله ﷺ إلى أهل بئر معونة، قال: لا أدري أربعين أو سبعين. قال: وعلى ذلك الماء عامر بن الطفيل الجعفري، فخرج أولئك النفر من أصحاب النبي ﷺ حتى أتوا غارًا مشرفًا على الماء قعدوا فيه، ثم قال بعضهم لبعض: أيكم يبلِّغ رسالة رسول الله ﷺ أهل هذا الماء؟ فقال -أُراه أبو ملحان الأنصاري-: أنا أبلغ رسالة رسول الله ﷺ. فخرج حتى أتى حيًّا منهم، فاحتبى أمام البيوت ثم قال: يا أهل بئر معونة، إني رسول رسول الله ﷺ إليكم، إني أشهد أن لا إله إلا الله وأنّ محمدًا عبده ورسوله، فآمنوا بالله ورسوله. فخرج إليه رجل من كسر البيت برمح، فضرب به في جنبه حتى خرج من الشق الآخر، [[البيت: يعني الخيمة. وكسر البيت (بكسر الكاف وسكون السين) : أسفل شقة البيت التي تلي الأرض من حيث يكسر جانباه من عن يمين ويسار.]] فقال: الله أكبر، فزتُ ورب الكعبة! فاتبعوا أثره حتى أتوا أصحابه، فقتلهم أجمعين عامر بن الطفيل [[في المخطوطة: "فقتلوهم أجمعين"، والصواب من التاريخ وسائر المراجع.]] = قال: قال إسحاق: حدثني أنس بن مالك: إنّ الله تعالى أنزل فيهم قرآنًا، رُفع بعد ما قرأناه زمانًا. [[نص ما في التاريخ: "أَنزَل فيهم قرآنًا: ﴿" بَلِّغُوا عَنَّا قَوْمَنَا أَنَّا قَدْ لَقِينَا رَبَّنَا فَرَضِىَ عَنَّا وَرَضِينَا عَنْهُ "﴾ ، ثم نسخت فرفعت بعدما قرأناه زمانا ".]] وأنزل الله: (ولا تحسبن الذين قتلوا في سبيل الله أمواتًا بل أحياء عند ربهم يرزقون". [[الحديث: ٨٢٢٤- محمد بن مرزوق - شيخ الطبري - هو محمد بن محمد بن مرزوق، نسب إلى جده. وقد مضت له عنه رواية، برقم: ٢٨. مترجم في التهذيب. وله ترجمة جيدة في تاريخ بغداد ٣: ١٩٩ - ٢٠٠، وترجمه ابن أبي حاتم ٤ / ١ / ٨٩ - ٩٠ باسم"محمد بن مرزوق".
+
+عمر بن يونس اليمامي: مضى في: ٤٤٣٥. ووقع في الأصول هنا باسم"عمرو بن يونس"، وكذلك في تاريخ الطبري في هذا الحديث، وكذلك في تفسير ابن كثير، في نقله الحديث عن هذا الموضع. ولعل الخطأ في هذا يكون من الطبري نفسه، إذ يبعد أن يخطئ الناسخون في هذه المصادر الثلاثة خطأ واحدًا. وليس في الرواة - فيما أعلم - من يسمى"عمرو بن يونس". ووقع في الإسناد هنا - في التفسير - خطأ آخر. في المخطوطة والمطبوعة، إذ سقط من الإسناد [عن عكرمة] بين عمر بن يونس وإسحاق بن أبي طلحة. وهو ثابت في التاريخ وتفسير ابن كثير. وعكرمة هذا: هو عكرمة بن عمار اليمامي، مضت ترجمته في: ٢١٨٥. وعمر بن يونس معروف بالرواية عنه. ولم يدرك أن يروى عن"عكرمة مولى ابن عباس". إسحاق بن أبي طلحة: هو إسحاق بن عبد الله بن أبي طلحة الأنصاري البخاري. نسب إلى جده. وهو تابعي ثقة حجة، أخرج له الجماعة. مترجم في التهذيب، والكبير للبخاري ١ / ١ / ٣٩٣ - ٣٩٤، وابن أبي حاتم ١ / ١ / ٢٢٦. وأبوه"أبو طلحة": هو"زيد بن سهل"، وهو أخو أنس بن مالك لأمه.
+
+وهذا الحديث رواه الطبري أيضًا في التاريخ ٣: ٣٦، بهذا الإسناد.
+
+ونقله ابن كثير في التفسير ٢: ٢٨٨، عن هذا الموضع من التفسير.
+
+وأشار إليه الحافظ في الفتح ٧: ٢٩٨، حيث قال: "في رواية الطبري من طريق عكرمة بن عمار، عن إسحاق بن أبي طلحة. . ." ولكن وقع فيه"عكرمة عن عمار" - وهو خطأ مطبعي واضح.
+
+ووقع في أصل الطبري هنا -المخطوط والمطبوع-: "فقال أراه أبو ملحان". وكذلك في نقل ابن كثير عن هذا الموضع. وهو خطأ قديم من الناسخين، صوابه: "ابن ملحان". وثبت على الصواب في التاريخ، ومنه صححناه.
+
+وهو"حرام بن ملحان الأنصاري"، وهو خال أنس بن مالك، أخو أمه"أم سليم بنت ملحان". ولا نعلم أن كنيته"أبو ملحان" - حتى نظن أنه ذكر هنا بكنيته. وهو مترجم في ابن سعد ٣ / ٢ / ٧١ - ٧٢، والإصابة.
+
+وهذا الحديث - في قصة بئر معونة - ثابت عن أنس بن مالك من أوجه، مختصرًا ومطولا.
+
+وقد رواه أحمد في المسند: ١٣٢٢٨، عن عبد الصمد، و: ١٤١١٩، عن عفان - كلاهما عن همام، عن إسحاق بن عبد الله بن أبي طلحة، عن أنس (المسند ج٣ ص ٢١٠، ٢٨٨ - ٢٨٩ حلبي) . ورواه أيضا: ١٢٤٢٩ (٣: ١٣٧ حلبي) ، من رواية ثابت، عن أنس.
+
+ورواه البخاري ٧: ٢٩٧ - ٢٩٩، عن موسى بن إسماعيل، عن همام، عن إسحاق بن عبد الله بن أبي طلحة" ورواه قبله وبعده من أوجه أخر.
+
+ورواه ابن سعد في الطبقات ٣ / ٢ / ٧١ - ٧٢، عن عفان، كرواية المسند: ١٤١١٩. وقد مضى بعض معناه مختصرًا، في تفسير الطبري: ١٧٦٩، من رواية قتادة، عن أنس. وتفصيل القصة في تاريخ ابن كثير ٤: ٧١ - ٧٤. وانظر أيضًا جوامع السيرة لابن حزم، ص: ١٧٨- ١٨٠، وما أشير إليه من المراجع في التعليق عليه هناك. وروى أحمد في المسند، بعض هذا المعنى، من حديث ابن مسعود: ٣٩٥٢.]] .
+
+٨٢٢٥- حدثنا يحيى بن أبي طالب قال، أخبرنا يزيد قال، أخبرنا جويبر، عن الضحاك قال: لما أصيب الذين أصيبوا يوم أحد من أصحاب النبي ﷺ، لقوا ربَّهم، فأكرمهم، فأصابوا الحياة والشهادة والرزق الطيب، قالوا: يا ليت بيننا وبين إخواننا من يبلغهم أنا لقينا ربنا فرضى عنا وأرضانا! فقال الله تبارك وتعالى: أنا رسولكم إلى نبيكم وإخوانكم. فأنزل الله تبارك وتعالى على نبيه ﷺ:"ولا تحسبن الذين قتلوا في سبيل الله أمواتًا بل أحياء عند ربهم يرزقون" إلى قوله:"ولا هم يحزنون". فهذا النبأ الذي بلَّغ الله رسوله والمؤمنين ما قال الشهداء.
+
+* *
+
+وفي نصب قوله:"فرحين" وجهان.
+
+أحدهما: أن يكون منصوبًا على الخروج من قوله:"عند ربهم". [["الخروج"، نصبها على الخروج، يعني على خروجها منه على الحال. انظر ما سلف ٥: ٢٥٣ / ثم ٦: ٥٨٦ / ٧: ٢٥، تعليق: ٣. ثم انظر معاني القرآن للفراء ١: ٢٤٧.]] والآخر من قوله:"يرزقون". ولو كان رفعًا بالردّ على قوله:"بل أحياء فرحون"، كان جائزًا.
 
 ### al-Muyassar (Arabic)
 
@@ -304,9 +418,85 @@ Al-Bukhari recorded that 'A'ishah said to 'Urwah about the Ayah;
 
 "My nephew! Your fathers Az-Zubayr and Abu Bakr were among them. After the Prophet ﷺ suffered the calamity at Uhud and the idolators went back, he feared that the idolators might try to come back and he said, 'Who would follow them' Seventy men, including Az-Zubayr and Abu Bakr, volunteered." This was recorded by Al-Bukhari alone.
 
-As for Al
+As for Allah's statement,
 
-[TRUNCATED at 12000 chars — 4567 more. Consult the source directly before relying on anything near the cut.]
+الَّذِينَ قَالَ لَهُمُ النَّاسُ إِنَّ النَّاسَ قَدْ جَمَعُوا لَكُمْ فَاخْشَوْهُمْ فَزَادَهُمْ إِيمَانًا
+
+(Those unto whom the people said, "Verily, the people have gathered against you, therefore, fear them." But it (only) increased them in faith)[3:173], it means, those who threatened the people, saying that the disbelievers have amassed against them, in order to instill fear in them, but this did not worry them, rather, they trusted in Allah and sought His help,
+
+وَقَالُوا حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ
+
+(and they said: "Allah is Sufficient for us, and He is the Best Disposer of affairs.")
+
+Al-Bukhari recorded that Ibn 'Abbas said,
+
+حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ
+
+("Allah Alone is Sufficient for us and He is the Best Disposer of affairs for us.")
+
+"Ibrahim said it when he was thrown in fire. Muhammad said it when the people said, 'Verily, the people have gathered against you, therefore, fear them.' But it only increased them in faith, and they said, 'Allah is Sufficient for us and He is the Best Disposer of affairs for us.'" Abu Bakr Ibn Marduwyah recorded that Anas bin Malik said that the Prophet ﷺ was told on the day of Uhud, "Verily, the people have gathered against you, therefore, fear them." Thereafter, Allah sent down this Ayah [3:173].
+
+This is why Allah said,
+
+فَانقَلَبُوا بِنِعْمَةٍ مِّنَ اللَّهِ وَفَضْلٍ لَّمْ يَمْسَسْهُمْ سُوءٌ
+
+(So they returned with grace and bounty from Allah. No harm touched them;) for when they relied on Allah, Allah took care of their worries, He confounded the plots of their enemies, and the Muslims returned to their land,
+
+بِنِعْمَةٍ مِّنَ اللَّهِ وَفَضْلٍ لَّمْ يَمْسَسْهُمْ سُوءٌ
+
+(with grace and bounty from Allah. No harm touched them;) safe from the wicked plots of their enemies,
+
+وَاتَّبَعُوا رِضْوَانَ اللَّهِ وَاللَّهُ ذُو فَضْلٍ عَظِيمٍ
+
+(and they followed the pleasure of Allah. And Allah is the Owner of great bounty.)
+
+Al-Bayhaqi recorded that Ibn 'Abbas said about Allah's statement,
+
+فَانقَلَبُوا بِنِعْمَةٍ مِّنَ اللَّهِ وَفَضْلٍ
+
+(So they returned with grace and bounty from Allah,) "The 'Grace' was that they were saved. The 'Bounty' was that a caravan passed by, and those days were [Hajj] season days. Thus the Messenger of Allah ﷺ bought and sold and made a profit, which he divided between his Companions."
+
+Allah then said,
+
+إِنَّمَا ذَٰلِكُمُ الشَّيْطَانُ يُخَوِّفُ أَوْلِيَاءَهُ
+
+(It is only Shaytan that suggests to you the fear of his friends,)[3:175] meaning, Shaytan threatens you with his friends and tries to pretend they are powerful and fearsome. Allah said next,
+
+فَلَا تَخَافُوهُمْ وَخَافُونِ إِن كُنتُم مُّؤْمِنِينَ
+
+(so fear them not, but fear Me, if you are indeed believers.) meaning, "If Shaytan brings these thoughts to you, then depend on Me and seek refuge with Me. Indeed, I shall suffice you and make you prevail over them." Similarly, Allah said,
+
+أَلَيْسَ اللَّهُ بِكَافٍ عَبْدَهُ وَيُخَوِّفُونَكَ بِالَّذِينَ مِن دُونِهِ
+
+(Is not Allah Sufficient for His servant? Yet they try to frighten you with those besides Him!)[39:36], until,
+
+قُلْ حَسْبِيَ اللَّهُ عَلَيْهِ يَتَوَكَّلُ الْمُتَوَكِّلُونَ
+
+(Say: "Sufficient for me is Allah; in Him those who trust must put their trust.")[39:38]. Allah said,
+
+فَقَاتِلُوا أَوْلِيَاءَ الشَّيْطَانِ إِنَّ كَيْدَ الشَّيْطَانِ كَانَ ضَعِيفًا
+
+(So fight you against the friends of Shaytan; ever feeble indeed is the plot of Shaytan.)[4:76] and
+
+أُولَٰئِكَ حِزْبُ الشَّيْطَانِ أَلَا إِنَّ حِزْبَ الشَّيْطَانِ هُمُ الْخَاسِرُونَ
+
+(They are the party of Shaytan. Verily, it is the party of Shaytan that will be the losers!)[58:19],
+
+كَتَبَ اللَّهُ لَأَغْلِبَنَّ أَنَا وَرُسُلِي إِنَّ اللَّهَ قَوِيٌّ عَزِيزٌ
+
+(Allah has decreed: "Verily, it is I and My Messengers who shall be the victorious." Verily, Allah is All-Powerful, All-Mighty.)[58:21] and
+
+وَلَيَنصُرَنَّ اللَّهُ مَن يَنصُرُهُ
+
+(Verily, Allah will help those who help His (cause).)[22:40] and
+
+يَا أَيُّهَا الَّذِينَ آمَنُوا إِن تَنصُرُوا اللَّهَ يَنصُرْكُمْ
+
+(O you who believe! If you help (in the cause of) Allah, He will help you)[47:7], and,
+
+إِنَّا لَنَنصُرُ رُسُلَنَا وَالَّذِينَ آمَنُوا فِي الْحَيَاةِ الدُّنْيَا وَيَوْمَ يَقُومُ الْأَشْهَادُ - يَوْمَ لَا يَنفَعُ الظَّالِمِينَ مَعْذِرَتُهُمْ وَلَهُمُ اللَّعْنَةُ وَلَهُمْ سُوءُ الدَّارِ
+
+(Verily, We will indeed make victorious Our Messengers and those who believe, in this world's life and on the Day when the witnesses will stand forth. The Day when their excuses will be of no profit to wrongdoers. Theirs will be the curse, and theirs will be the evil abode.)[40:51-52]
 
 ### al-Tabari (Arabic)
 
@@ -450,9 +640,85 @@ Al-Bukhari recorded that 'A'ishah said to 'Urwah about the Ayah;
 
 "My nephew! Your fathers Az-Zubayr and Abu Bakr were among them. After the Prophet ﷺ suffered the calamity at Uhud and the idolators went back, he feared that the idolators might try to come back and he said, 'Who would follow them' Seventy men, including Az-Zubayr and Abu Bakr, volunteered." This was recorded by Al-Bukhari alone.
 
-As for Al
+As for Allah's statement,
 
-[TRUNCATED at 12000 chars — 4567 more. Consult the source directly before relying on anything near the cut.]
+الَّذِينَ قَالَ لَهُمُ النَّاسُ إِنَّ النَّاسَ قَدْ جَمَعُوا لَكُمْ فَاخْشَوْهُمْ فَزَادَهُمْ إِيمَانًا
+
+(Those unto whom the people said, "Verily, the people have gathered against you, therefore, fear them." But it (only) increased them in faith)[3:173], it means, those who threatened the people, saying that the disbelievers have amassed against them, in order to instill fear in them, but this did not worry them, rather, they trusted in Allah and sought His help,
+
+وَقَالُوا حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ
+
+(and they said: "Allah is Sufficient for us, and He is the Best Disposer of affairs.")
+
+Al-Bukhari recorded that Ibn 'Abbas said,
+
+حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ
+
+("Allah Alone is Sufficient for us and He is the Best Disposer of affairs for us.")
+
+"Ibrahim said it when he was thrown in fire. Muhammad said it when the people said, 'Verily, the people have gathered against you, therefore, fear them.' But it only increased them in faith, and they said, 'Allah is Sufficient for us and He is the Best Disposer of affairs for us.'" Abu Bakr Ibn Marduwyah recorded that Anas bin Malik said that the Prophet ﷺ was told on the day of Uhud, "Verily, the people have gathered against you, therefore, fear them." Thereafter, Allah sent down this Ayah [3:173].
+
+This is why Allah said,
+
+فَانقَلَبُوا بِنِعْمَةٍ مِّنَ اللَّهِ وَفَضْلٍ لَّمْ يَمْسَسْهُمْ سُوءٌ
+
+(So they returned with grace and bounty from Allah. No harm touched them;) for when they relied on Allah, Allah took care of their worries, He confounded the plots of their enemies, and the Muslims returned to their land,
+
+بِنِعْمَةٍ مِّنَ اللَّهِ وَفَضْلٍ لَّمْ يَمْسَسْهُمْ سُوءٌ
+
+(with grace and bounty from Allah. No harm touched them;) safe from the wicked plots of their enemies,
+
+وَاتَّبَعُوا رِضْوَانَ اللَّهِ وَاللَّهُ ذُو فَضْلٍ عَظِيمٍ
+
+(and they followed the pleasure of Allah. And Allah is the Owner of great bounty.)
+
+Al-Bayhaqi recorded that Ibn 'Abbas said about Allah's statement,
+
+فَانقَلَبُوا بِنِعْمَةٍ مِّنَ اللَّهِ وَفَضْلٍ
+
+(So they returned with grace and bounty from Allah,) "The 'Grace' was that they were saved. The 'Bounty' was that a caravan passed by, and those days were [Hajj] season days. Thus the Messenger of Allah ﷺ bought and sold and made a profit, which he divided between his Companions."
+
+Allah then said,
+
+إِنَّمَا ذَٰلِكُمُ الشَّيْطَانُ يُخَوِّفُ أَوْلِيَاءَهُ
+
+(It is only Shaytan that suggests to you the fear of his friends,)[3:175] meaning, Shaytan threatens you with his friends and tries to pretend they are powerful and fearsome. Allah said next,
+
+فَلَا تَخَافُوهُمْ وَخَافُونِ إِن كُنتُم مُّؤْمِنِينَ
+
+(so fear them not, but fear Me, if you are indeed believers.) meaning, "If Shaytan brings these thoughts to you, then depend on Me and seek refuge with Me. Indeed, I shall suffice you and make you prevail over them." Similarly, Allah said,
+
+أَلَيْسَ اللَّهُ بِكَافٍ عَبْدَهُ وَيُخَوِّفُونَكَ بِالَّذِينَ مِن دُونِهِ
+
+(Is not Allah Sufficient for His servant? Yet they try to frighten you with those besides Him!)[39:36], until,
+
+قُلْ حَسْبِيَ اللَّهُ عَلَيْهِ يَتَوَكَّلُ الْمُتَوَكِّلُونَ
+
+(Say: "Sufficient for me is Allah; in Him those who trust must put their trust.")[39:38]. Allah said,
+
+فَقَاتِلُوا أَوْلِيَاءَ الشَّيْطَانِ إِنَّ كَيْدَ الشَّيْطَانِ كَانَ ضَعِيفًا
+
+(So fight you against the friends of Shaytan; ever feeble indeed is the plot of Shaytan.)[4:76] and
+
+أُولَٰئِكَ حِزْبُ الشَّيْطَانِ أَلَا إِنَّ حِزْبَ الشَّيْطَانِ هُمُ الْخَاسِرُونَ
+
+(They are the party of Shaytan. Verily, it is the party of Shaytan that will be the losers!)[58:19],
+
+كَتَبَ اللَّهُ لَأَغْلِبَنَّ أَنَا وَرُسُلِي إِنَّ اللَّهَ قَوِيٌّ عَزِيزٌ
+
+(Allah has decreed: "Verily, it is I and My Messengers who shall be the victorious." Verily, Allah is All-Powerful, All-Mighty.)[58:21] and
+
+وَلَيَنصُرَنَّ اللَّهُ مَن يَنصُرُهُ
+
+(Verily, Allah will help those who help His (cause).)[22:40] and
+
+يَا أَيُّهَا الَّذِينَ آمَنُوا إِن تَنصُرُوا اللَّهَ يَنصُرْكُمْ
+
+(O you who believe! If you help (in the cause of) Allah, He will help you)[47:7], and,
+
+إِنَّا لَنَنصُرُ رُسُلَنَا وَالَّذِينَ آمَنُوا فِي الْحَيَاةِ الدُّنْيَا وَيَوْمَ يَقُومُ الْأَشْهَادُ - يَوْمَ لَا يَنفَعُ الظَّالِمِينَ مَعْذِرَتُهُمْ وَلَهُمُ اللَّعْنَةُ وَلَهُمْ سُوءُ الدَّارِ
+
+(Verily, We will indeed make victorious Our Messengers and those who believe, in this world's life and on the Day when the witnesses will stand forth. The Day when their excuses will be of no profit to wrongdoers. Theirs will be the curse, and theirs will be the evil abode.)[40:51-52]
 
 ### al-Tabari (Arabic)
 

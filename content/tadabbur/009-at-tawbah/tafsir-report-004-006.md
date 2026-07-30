@@ -164,9 +164,19 @@ Under Allah's statement:
 
 وَقَاتِلُوهُمْ حَتَّىٰ لَا تَكُونَ فِتْنَةٌ
 
-(And fight them until there is no more Fitnah (disbelief and worshipping of others along with Allah))?" He said, "We d
+(And fight them until there is no more Fitnah (disbelief and worshipping of others along with Allah))?" He said, "We did fight until there was no more Fitnah and the religion became for Allah Alone. You want to fight until there is Fitnah and the religion becomes for other than Allah!"
 
-[TRUNCATED at 12000 chars — 1908 more. Consult the source directly before relying on anything near the cut.]
+Uthman bin Salih added that a man came to Ibn 'Umar and asked him, "O Abu 'Abdur-Rahman! What made you perform Hajj one year and 'Umrah another year and abandon Jihad in the cause of Allah, although you know how much He has encouraged performing it?" He said, "O my nephew! Islam is built on five (pillars): believing in Allah and His Messenger, the five daily prayers, fasting Ramadan, paying the Zakah and performing Hajj (pilgrimage) to the House." They said, "O Abu 'Abdur-Rahman! Did you not hear what Allah said in His Book:
+
+وَإِن طَائِفَتَانِ مِنَ الْمُؤْمِنِينَ اقْتَتَلُوا فَأَصْلِحُوا بَيْنَهُمَا فَإِن بَغَتْ إِحْدَاهُمَا عَلَى الْأُخْرَىٰ فَقَاتِلُوا الَّتِي تَبْغِي حَتَّىٰ تَفِيءَ إِلَىٰ أَمْرِ اللَّهِ
+
+(And if two parties (or groups) among the believers fall to fighting, then make peace between them both. But if one of them outrages against the other, then fight you (all) against the one that which outrages till it complies with the command of Allah.)(49:9) and:
+
+وَقَاتِلُوهُمْ حَتَّىٰ لَا تَكُونَ فِتْنَةٌ
+
+(And fight them until there is no more Fitnah (disbelief))
+
+He said, "That we did during the time of Allah's Messenger ﷺ when Islam was still weak and (the Muslim) man used to face trials in his religion, such as killing or torture. When Islam became stronger (and apparent), there was no more Fitnah." He asked, "What do you say about 'Ali and 'Uthman?" He said, "As for 'Uthman, Allah has forgiven him. However, you hated the fact that Allah had forgiven him! As for 'Ali, he is the cousin of Allah's Messenger ﷺ and his son-in-law." He then pointed with his hand, saying, "This is where his house is located (meaning, 'so close to the Prophet's house just as 'Ali was so close to the Prophet ﷺ himself')."
 
 ### al-Tabari (Arabic)
 

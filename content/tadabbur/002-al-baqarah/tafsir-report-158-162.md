@@ -122,9 +122,119 @@ This is why Allah said:
 
 (Thus We have made you a Wasat nation.)
 
-The Prophet ﷺ said; (The Wasat means the 'Adl (just). You
+The Prophet ﷺ said; (The Wasat means the 'Adl (just). You will be summoned to testify that Nuh has conveyed (his Message), and I will attest to your testimony.)
 
-[TRUNCATED at 12000 chars — 8913 more. Consult the source directly before relying on anything near the cut.]
+It was also recorded by Al-Bukhari, At-Tirmidhi, An-Nasa'i and Ibn Majah.
+
+Imam Ahmad also reported that Abu Sa'id Khudri narrated: Allah's Messenger ﷺ said:
+
+يَجِيءُ النَّبِيُّ يَوْمَ الْقِيَامَةِ وَمَعَهُ الرَّجُلَانِ وَأَكْثَرُ مِنْ ذلِكَ، فيُدْعَى قَوْمُهُ، فَيُقَالُ: هَلْ بَلَّغَكُمْ هَذَا؟ فَيَقُولُونَ: لَا فَيُقالُ لَهُ: هَلْ بَلَّغْتَ قَوْمَكَ؟ فَيَقُولُ: نَعَمْ، فَيُقالُ: مَنْ يَشْهَدُ لَكَ؟ فَيَقُولُ: مُحَمَّدٌ وَأُمَّتُهُ، فَيُدْعَى مُحَمَّدٌ وَأُمَّتُهُ، فَيُقَالُ لَهُمْ: هَلْ بَلَّغَ هذَا قَوْمَهُ؟ فَيَقُولُونَ: نَعَمْ، فَيُقَالُ: وَمَا عِلْمُكُمْ؟ فَيَقُولُونَ: جَاءَنَا نَبِيُّنَا صلّى الله عليه وسلّم فأخْبَرَنَا أَنَّ الرُّسُلَ قَدْ بَلَّغُوا، فَذلِك قَوْلُهُ عَزَّ وَجَلَّ:
+
+وَكَذَٰلِكَ جَعَلْنَاكُمْ أُمَّةً وَسَطًا
+
+قَالَ: عَدْلًا
+
+وَكَذَٰلِكَ جَعَلْنَاكُمْ أُمَّةً وَسَطًا لِّتَكُونُوا شُهَدَاءَ عَلَى النَّاسِ وَيَكُونَ الرَّسُولُ عَلَيْكُمْ شَهِيدًا
+
+(The Prophet would come on the Day of Resurrection with two or more people (his only following!), and his people would also be summoned and asked, 'Has he (their Prophet) conveyed (the Message) to you?' They would say, 'No.' He would be asked, 'Have you conveyed (the Message) to your people?' He would say, 'Yes.' He would be asked, 'Who testifies for you?' He would say, 'Muhammad and his Ummah.' Muhammad and his Ummah would then be summoned and asked, 'Has he conveyed (the Message) to his people?' They would say, 'Yes.' They would be asked, 'Who told you that?' They would say, 'Our Prophet (Muhammad) came to us and told us that the Messengers have conveyed (their Messages).')
+
+Hence Allah's statement:
+
+وَكَذَٰلِكَ جَعَلْنَاكُمْ أُمَّةً وَسَطًا
+
+(Thus We have made you a Wasat nation.)
+
+He said, "(meaning) the 'Adl,' (he then continued reciting the Ayah):
+
+وَكَذَٰلِكَ جَعَلْنَاكُمْ أُمَّةً وَسَطًا لِّتَكُونُوا شُهَدَاءَ عَلَى النَّاسِ وَيَكُونَ الرَّسُولُ عَلَيْكُمْ شَهِيدًا
+
+(Thus We have made you, a just (and the best) nation, that you be witnesses over mankind and the Messenger (Muhammad ﷺ) be a witness over you.)"
+
+Furthermore, Imam Ahmad reported that Abul-Aswad narrated: I came to Al-Madinah and found that an epidemic had broken out that caused many fatalities. I sat next to 'Umar bin Al-Khattab once when a funeral procession started and the people praised the dead person. 'Umar said, "Wajabat (it will be recorded as such), Wajabat!" Then another funeral was brought forth and the people criticized the dead person. Again, 'Umar said, "Wajabat." Abul-Aswad asked, "What is Wajabat, O Leader of the faithful?" He said, "I said just like Allah's Messenger ﷺ had said:
+
+أَيُّمَا مُسْلِمٍ شَهِدَ لَهُ أَرْبَعَةٌ بِـخَيْر أَدْخَلَهُ اللهُ الْـجَنَّــةَ
+
+قَالَ: فَقُلْنَا وَثَلَاثَةٌ؟ قَالَ: فَقَالَ:
+
+وَثَلَاثَةٌ
+
+قَالَ: فَقُلْنَا وَاثْنَانِ: قَالَ
+
+وَاثْنَانِ
+
+ثُمَّ لَمْ نَسْأَلْهُ عَنِ الْوَاحِدِ.
+
+(Any Muslim for whom four testify that he was righteous, then Allah will enter him into Paradise.' We said, 'What about three?' He said, 'And three.' We said, 'And two?' He said, 'And two.' We did not ask him about (the testimony) of one (believing) person.)"
+
+This was also recorded by Al-Bukhari, At-Tirmidhi, and An-Nasa'i.
+
+The Wisdom behind changing the Qiblah
+
+Allah then said:
+
+وَمَا جَعَلْنَا الْقِبْلَةَ الَّتِي كُنتَ عَلَيْهَا إِلَّا لِنَعْلَمَ مَن يَتَّبِعُ الرَّسُولَ مِمَّن يَنقَلِبُ عَلَىٰ عَقِبَيْهِ وَإِن كَانَتْ لَكَبِيرَةً إِلَّا عَلَى الَّذِينَ هَدَى اللَّهُ
+
+(And We made the Qiblah (prayer direction towards Jerusalem) which you used to face, only to test those who followed the Messenger (Muhammad ﷺ) from those who would turn on their heels (i.e., disobey the Messenger). Indeed it was great (heavy, difficult) except for those whom Allah guided.)
+
+Allah states thus: We have legislated for you, O Muhammad, facing Bayt Al-Maqdis at first and then changed it to the Ka'bah so as to find who will follow and obey you and thus face whatever you face.
+
+مِمَّن يَنقَلِبُ عَلَىٰ عَقِبَيْهِ
+
+(...from those who would turn on their heels.) meaning, reverts from his religion. [Allah then said:]
+
+وَإِن كَانَتْ لَكَبِيرَةً
+
+(Indeed it was great (heavy, difficult))
+
+The Ayah indicates that changing the Qiblah from Bayt Al-Maqdis to the Ka'bah is heavy on the heart, except for whomever Allah has rightly guided their hearts, who believe in the truth of the Messenger ﷺ with certainty and that whatever he was sent with is the truth without doubt. It is they who believe that Allah does what He wills, decides what He wills, commands His servants with what He wills, abrogates any of His commands that He wills, and that He has the perfect wisdom and the unequivocal proof in all this. (The attitude of the believers in this respect is) unlike those who have a disease in their hearts, to whom whenever a matter occurs, it causes doubts, just as this same matter adds faith and certainty to the believers. Similarly, Allah said:
+
+وَإِذَا مَا أُنزِلَتْ سُورَةٌ فَمِنْهُم مَّن يَقُولُ أَيُّكُمْ زَادَتْهُ هَٰذِهِ إِيمَانًا فَأَمَّا الَّذِينَ آمَنُوا فَزَادَتْهُمْ إِيمَانًا وَهُمْ يَسْتَبْشِرُونَ - وَأَمَّا الَّذِينَ فِي قُلُوبِهِم مَّرَضٌ فَزَادَتْهُمْ رِجْسًا إِلَىٰ رِجْسِهِمْ
+
+(And whenever there comes down a Surah (chapter from the Qur'an), some of them (hypocrites) say: "Which of you has had his faith increased by it?" As for those who believe, it has increased their faith, and they rejoice. But as for those in whose hearts is a disease (of doubt, disbelief and hypocrisy), it will add doubt and disbelief to their doubt and disbelief)(9:124-125)
+
+and:
+
+وَنُنَزِّلُ مِنَ الْقُرْآنِ مَا هُوَ شِفَاءٌ وَرَحْمَةٌ لِّلْمُؤْمِنِينَ وَلَا يَزِيدُ الظَّالِمِينَ إِلَّا خَسَارًا
+
+(And We send down of the Qur'an that which is a healing and a mercy to those who believe, and it increases the wrongdoers in nothing but loss.)(17:82)
+
+Certainly, those who remained faithful to the Messenger ﷺ, obeyed him and faced whatever Allah commanded them, without doubt or hesitation, were the leaders of the Companions. Some scholars stated that the Early Migrants (who migrated with the Prophet ﷺ from Makkah to Al-Madinah) and Ansar (the residents of Al-Madinah who gave aid and refuge to both the Prophet ﷺ and the Migrants) were those who offered prayers towards the two Qiblah (Bayt Al-Maqdis and then the Ka'bah).
+
+Al-Bukhari reported in the explanation of the Ayah (2:143) that Ibn 'Umar narrated: While the people were performing the Fajr (Dawn) prayer in the Quba' Mosque, a man came and said, "Qur'an was revealed to the Prophet ﷺ and he was ordered to face the Ka'bah. Therefore, face the Ka'bah." They then faced the Ka'bah. Muslim also recorded it.
+
+At-Tirmidhi added that they were performing Ruku' (bowing down in prayer), and then changed the direction (of the Qiblah) to the Ka'bah while still bowing down. Muslim reported this last narration from Anas. These Hadiths all indicate the perfect obedience the Companions had for Allah and His Messenger ﷺ and their compliance with Allah's commandments, may Allah be pleased with them all.
+
+Allah said:
+
+وَمَا كَانَ اللَّهُ لِيُضِيعَ إِيمَانَكُمْ
+
+(And Allah would never make your faith (prayers) to be lost.) meaning, the reward of your prayers towards Bayt Al-Maqdis before would not be lost with Allah. It is reported in Sahih that Abu Ishaq As-Sabi'y related that Bara' narrated: "The people asked about the matter of those who offered prayers towards Bayt Al-Maqdis and died (before the Qiblah was changed to Ka'bah). Allah revealed:
+
+وَمَا كَانَ اللَّهُ لِيُضِيعَ إِيمَانَكُمْ
+
+(And Allah would never make your faith (prayers) to be lost.)"
+
+It was also recorded by At-Tirmidhi from Ibn 'Abbas, and At-Tirmidhi graded it Sahih.
+
+Ibn Ishaq reported that Ibn 'Abbas narrated:
+
+وَمَا كَانَ اللَّهُ لِيُضِيعَ إِيمَانَكُمْ
+
+(And Allah would never make your faith to be lost.) entails: Your (prayer towards) the first Qiblah and your believing your Prophet and obeying him by facing the second Qiblah; He will grant you the rewards for all these acts. Indeed,
+
+إِنَّ اللَّهَ بِالنَّاسِ لَرَءُوفٌ رَّحِيمٌ
+
+(Truly, Allah is full of kindness, the Most Merciful towards mankind.)"
+
+Furthermore, it is reported in the Sahih that Allah's Messenger ﷺ saw a woman among the captives who was separated from her child. Whenever she found a boy (infant) among the captives, she would hold him close to her chest, as she was looking for her boy. When she found her child, she embraced him and gave him her breast to nurse. Allah's Messenger ﷺ said:
+
+أَتُرَوْنَ هذِهِ طَارِحَةً وَلَدَهَا فِي النَّارِ وَهِي تَقْدِرُ عَلى أَنْ لَا تَطْرَحَهُ؟
+
+قَالُوا: لَا يَا رَسُولَ اللهِ.
+
+قَالَ: فَوَاللهِ للهُ أَرْحَمُ بِعِبَادِهِ مِنْ هذِهِ بِوَلَدِهَا
+
+(Do you think that this woman would willingly throw her son in the fire?) They said, "No, O Messenger of Allah!" He said, (By Allah! Allah is more merciful with His servants than this woman with her son.)
 
 ### al-Tabari (Arabic)
 
@@ -232,9 +342,83 @@ The Prophet ﷺ said; (The Wasat means the 'Adl (just). You
 
 ٢١٥٦- حدثنا محمد بن المثنى قال، حدثنا أبو داود قال، حدثنا المسعودي، عن عمرو بن مرة، عن ابن أبي ليلى، عن معاذ بن جبل: أن رسول الله ﷺ قدم المدينة فصلى نحو بيت المقدس ثَلاثة عَشر شهرًا. [[الحديث: ٢١٥٦- أبو داود: هو الطيالسي الإمام الحافظ، واسمه: "سليمان بن داود بن الجارود". مترجم في التهذيب، والكبير ٢/٢/١١، وابن سعد ٧/٢/٥١، وابن أبي حاتم ٢/١/١١١-١١٣، مات سنة ٢٠٣ عن ٩٢ سنة لم يستكملها، كما قال ابن سعد.
 
-المسعودي: هو عبد الرحمن بن عبد لله بن عتبة 
+المسعودي: هو عبد الرحمن بن عبد لله بن عتبة بن عبد الله بن مسعود، وهو ثقة، تغير حفظه في آخر عمره. مترجم في التهذيب، وابن أبي حاتم ٢/٢/٢٥٠-٢٥٢. وترجمنا له في شرح المسند مرارًا، آخرها في الحديث: ٧١٠٥.
 
-[TRUNCATED at 12000 chars — 6547 more. Consult the source directly before relying on anything near the cut.]
+ابن أبي ليلى: هو عبد الرحمن، التابعي المشهور. ولكنه لم يسمع من معاذ بن جبل، كما جزم بذلك علي بن المديني والترمذي وابن خزيمة، لأنه ولد سنة وفاة معاذ أو قبلها أو بعدها بقليل.
+
+فهذا الإسناد منقطع.
+
+والحديث بهذا الإسناد، مختصرًا، رواه أبو داود الطيالسي في مسنده: ٥٦٦، بلفظ: "أن النبي ﷺ قدم المدينة، فصلى سبعة عشر شهرًا نحو بيت المقدس، ثم نزلت عليه هذه الآية: "قد نرى تقلب وجهك في السماء"، إلى آخر الآية قال، فوجهه الله إلى الكعبة".
+
+وهو جزء من حديث طويل، رواه أبو داود السجستاني في سننه: ٥٠٧، بإسنادين: عن محمد بن المثنى -شيخ الطبري هنا- عن أبي داود، وهو الطيالسي - ثم رواه عن نصر بن المهاجر، عن يزيد بن هارون، كلاهما عن المسعودي. ولكن بين أبو داود أن رواية محمد بن المثنى مختصرة، كالرواية التي في مسند الطيالسي، ولكن ذكر أن صلاتهم نحو بيت المقدس كانت"ثلاثة عشر شهرًا"، كرواية الطبري هنا عن ابن المثنى. وأنا أرجح أن تكون رواية ابن المثنى عن الطيالسي. أرجح من الرواية التي في مسند الطيالسي، إذ أنه ليس من جمعه، بل هو من جمع أحد الرواة عنه.
+
+ثم إن حديث معاذ -بطوله- رواه أحمد في المسند ٥: ٢٤٦-٢٤٧، عن أبي النضر هاشم بن القاسم، عن يزيد بن هارون - كلاهما عن المسعودي، بهذا الإسناد. ولكن فيه"سبعة عشر شهرًا"، كرواية مسند الطيالسي.
+
+وقد أشار الحافظ في الفتح ١: ٨٩-٩٠ إلى كثير من الروايات في ذلك، وحاول الجمع بينهما أو الترجيح. وعندي أن مثل هذا لا يستطاع ضبطه إلا أن يكتبوه في حينه، أو تتجه همّتهم إلى العناية بحفظه.
+
+وقال الحافظ ابن كثير ١: ٣٤٥-٣٤٦: "والمقصود أن التوجه إلى بيت المقدس، بعد مقدمه ﷺ المدينة. واستمر الأمر على ذلك بضعة عشر شهرًا، وكان يكثر الدعاء والابتهال أن يوجه إلى الكعبة. التي هي قبلة إبراهيم عليه السلام. فأجيب إلى ذلك، وأمر بالتوجه إلى البيت العتيق". وانظر أيضًا تاريخ ابن كثير ٣: ٢٥٢-٢٥٤.]]
+
+٢١٥٧- حدثنا أحمد بن المقدام العجلي قال، حدثنا المعتمر بن سليمان قال، سمعت أبي قال، حدثنا قتادة، عن سعيد بن المسيب: أنّ الأنصار صلَّت القبلةَ الأولى، قبل قدوم النبي ﷺ بثلاث حجج، وأن النبي ﷺ صلَّى القبلةَ الأولى بعد قُدومه المدينة ستة عشر شهرًا، أو كما قال. وكلا الحديثين يحدِّث قتادة عن سعيد.
+
+* *
+
+ذكر السبب الذي كان من أجله يُصلِّي رسول الله ﷺ نحو بيت المقدس، قبل أن يُفرض عليه التوجُّه شطرَ الكعبة.
+
+* *
+
+اختلف أهلُ العلم في ذلك.
+
+فقال بعضهم: كان ذلك باختيار من النبي ﷺ
+
+ذكرُ من قال ذلك:
+
+٢١٥٨- حدثنا ابن حميد قال، حدثنا يحيى بن واضح أبو تَميلة قال، حدثنا الحسين بن واقد، عن عكرمة -وعن يزيد النحويّ، عن عكرمة- والحسن البصري قالا أوَّلُ ما نُسخ من القرآن القبلةُ. وذلك أنّ النبي ﷺ كان يستقبل صَخرَة بيت المقدس، وهي قبلة اليهودِ، فاستقبلها النبيّ ﷺ سبعةَ عشر شهرًا، ليؤمنوا به ويتبعوه، ويدعو بذلك الأميين من العرب. فقال الله عز وجل: ﴿وَلِلَّهِ الْمَشْرِقُ وَالْمَغْرِبُ فَأَيْنَمَا تُوَلُّوا فَثَمَّ وَجْهُ اللَّهِ إِنَّ اللَّهَ وَاسِعٌ عَلِيمٌ﴾ [سورة البقرة: ١١٥] .
+
+٢١٥٩- حدثني المثنى بن إبراهيم قال، حدثنا ابن أبي جعفر، عن أبيه، عن الربيع في قوله:"سيقولُ السفهاء من الناس مَا وَلاهم عَن قبلتهم التي كانوا عليها"، يعنون بيتَ المقدس. قال الربيع. قال أبو العالية: إنّ نبيّ الله ﷺ خُيّر أن يوجِّه وجهه حيث شاء، فاختار بيت المقدس لكي يتألَّف أهلَ الكتاب، فكانت قبلتهُ ستة عشر شهرًا، وهو في ذلك يقلِّب وَجهه في السماء، ثم وَجَّهه الله إلى البيت الحرام.
+
+* *
+
+وقال آخرون: بل كان فعلُ ذلك -من النبيّ ﷺ وأصحابه- بفرض الله عز ذكره عليهم.
+
+ذكر من قال ذلك:
+
+٢١٦٠- حدثني المثنى قال، حدثنا عبد الله بن صالح قال، حدثنا معاوية بن صالح، عن علي بن أبي طلحة، عن ابن عباس قال: لما هاجَرَ رسول الله ﷺ إلى المدينة، وكان [أكثرَ] أهلها اليهودُ، أمَره الله أن يستقبل بيتَ المقدس. ففرحت اليهود. فاستقبلها رَسُول الله ﷺ بضْعة عَشر شَهرًا، فكان رسول الله ﷺ يُحبّ قبلةَ إبراهيم عليه السلام، وكان يدعو وينظر إلى السماء. فأنزل الله عز وجل: (قَدْ نَرَى تَقَلُّبَ وَجْهِكَ فِي السَّمَاءِ) [سورة البقرة: ١٤٤] الآية. فارتاب من ذلك اليهود وقالوا:"ما ولاهم عن قبلتهم التي كانوا عليها"؟ فأنزل الله عز وجل:"قُلْ لله المشرق والمغرب". [[الأثر: ٢١٦٠- مضى برقم: ١٨٣٣ ويأتي برقم: ٢٢٣٦، والزيادة بين القوسين من الموضعين.]]
+
+٢١٦١- حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج قال، قال ابن جريج: صلى رسول الله ﷺ أوَّلَ ما صلى إلى الكعبة، ثم صُرف إلى بَيت المقدس. فصلَّت الأنصارُ نحو بيت المقدس قبلَ قُدومه ثلاث حِجَجٍ: وصلّى بعد قُدومه ستة عشر شهرًا، ثم ولاه الله جل ثناؤه إلى الكعبة.
+
+* *
+
+ذكر السبب الذي من أجله قال من قال"ما ولاهم عن قبلتهم التي كانوا عليها"؟
+
+* *
+
+اختلف أهل التأويل في ذلك. فرُوي عن ابن عباس فيه قولان. أحدهما ما:-
+
+٢١٦٢- حدثنا به ابن حميد قال، حدثنا سلمة قال، حدثنا ابن إسحاق قال، حدثني محمد بن أبي محمد، عن عكرمة، أو عن سعيد بن جبير، عن ابن عباس قال: قال ذلك قومٌ من اليهود للنبي ﷺ، فقالوا له: ارجِعْ إلى قبلتك التي كنت عليها نتَّبعك ونصدّقك! يريدون فتنتَهُ عن دينه. [[الأثر: ٢١٦٢- هو بعض الأثر السالف رقم: ٢١٤٩.]]
+
+والقول الآخر: ما ذكرتُ من حَديث علي بن أبي طلحة عنه الذي مضى قبل. [[يعني الأثر رقم: ٢١٦٠.]]
+
+* *
+
+٢١٦٣- حدثنا بشر بن معاذ قال، حدثنا يزيد، عن سعيد، عن قتادة قوله:"سيقول السفهاءُ من الناس ما وَلاهم عن قبلتهم التي كانوا عَليها"؟ قال: صلَّت الأنصار نحو بيت المقدس حَولين قَبْل قُدوم النبي ﷺ المدينةَ وصلى نبي الله ﷺ بعدَ قدومه المدينة مهاجرًا، نحو بيت المقدس، ستة عشر شَهرًا، ثم وجَّهه اللهُ بعد ذلك إلى الكعبة البيتِ الحرام. فقال في ذلك قائلون من الناس:"ما ولاهمْ عَنْ قبلتهم التي كانوا عليها"؟ لقد اشتاق الرَّجُل إلى مَوْلده! فقال الله عز وجل:"قلْ لله المشرقُ والمغربُ يهدي مَنْ يَشاءُ إلى صراط مُستقيم".
+
+* *
+
+وقيل: قائل هذه المقالة المنافقون. وإنما قالوا ذلك استهزاءً بالإسلام.
+
+ذكر من قال ذلك:
+
+٢١٦٤- حدثني موسى قال، حدثنا عمرو قال، حدثنا أسباط، عن السدي، قال: لما وُجِّه النبيُّ ﷺ قبَلَ المسجد الحرام، اختلفَ الناس فيها فكانوا أصنافًا. فقال المنافقون: ما بالُهم كانوا على قبلة زمانًا، ثم تركوها وتوجَّهوا إلى غيرها؟ فأنزل الله في المنافقين:"سَيقول السفهاءُ من الناس"، الآية كلها.
+
+* *
+
+القول في تأويل قوله تعالى: ﴿قُلْ لِلَّهِ الْمَشْرِقُ وَالْمَغْرِبُ يَهْدِي مَنْ يَشَاءُ إِلَى صِرَاطٍ مُسْتَقِيمٍ (١٤٢) ﴾
+
+قال أبو جعفر: يعني بذلك عز وجل: قُلْ يا محمد -لهؤلاء الذين قالوا لك ولأصحابك: ما ولاكم عن قبلتكم من بيت المقدس، التي كنتم على التوجُّه إليها، إلى التوجُّه إلى شطر المسجد الحرام؟ -: لله مُلك المشرق والمغرب = يعني بذلك: ملكُ ما بين قُطرَيْ مشرق الشمس، وقُطرَيْ مغربها، وما بينهما من العالم [[انظر تفسير"المشرق والمغرب" فيما سلف ٢: ٥٢٦-٥٣٠.]] = يَهدي من يشاء من خلقه، [[انظر تفسير"هدى" فيما سلف١: ١٦٦- ١٦٩، وفي فهرس اللغة في الجزء الأول والثاني.]] فيُسدده، ويوفِّقه إلى الطريق القويم، وهو"الصراط المستقيم" [[انظر تفسير"الصراط المستقيم" فيما سلف ١: ١٧٠-١٧٧.]] -ويعني بذلك: إلى قبلة إبراهيمَ الذي جعله للناس إمامًا- ويخذُل من يشاء منهم، فيضلُّه عن سبيل الحق.
+
+* *
+
+وإنّما عنى جل ثناؤه بقوله:"يَهدي من يَشاء إلى صراط مُستقيم"، قُلْ يا محمد: إنّ الله هَدانا بالتوجُّه شطرَ المسجد الحرام لقبلة إبراهيم، وأضلَّكم -أيها اليهودُ والمنافقون وجماعةُ الشرك بالله- فخذلكم عما هدانا لهُ من ذلك.
 
 ### al-Muyassar (Arabic)
 
@@ -362,9 +546,119 @@ This is why Allah said:
 
 (Thus We have made you a Wasat nation.)
 
-The Prophet ﷺ said; (The Wasat means the 'Adl (just). You
+The Prophet ﷺ said; (The Wasat means the 'Adl (just). You will be summoned to testify that Nuh has conveyed (his Message), and I will attest to your testimony.)
 
-[TRUNCATED at 12000 chars — 8913 more. Consult the source directly before relying on anything near the cut.]
+It was also recorded by Al-Bukhari, At-Tirmidhi, An-Nasa'i and Ibn Majah.
+
+Imam Ahmad also reported that Abu Sa'id Khudri narrated: Allah's Messenger ﷺ said:
+
+يَجِيءُ النَّبِيُّ يَوْمَ الْقِيَامَةِ وَمَعَهُ الرَّجُلَانِ وَأَكْثَرُ مِنْ ذلِكَ، فيُدْعَى قَوْمُهُ، فَيُقَالُ: هَلْ بَلَّغَكُمْ هَذَا؟ فَيَقُولُونَ: لَا فَيُقالُ لَهُ: هَلْ بَلَّغْتَ قَوْمَكَ؟ فَيَقُولُ: نَعَمْ، فَيُقالُ: مَنْ يَشْهَدُ لَكَ؟ فَيَقُولُ: مُحَمَّدٌ وَأُمَّتُهُ، فَيُدْعَى مُحَمَّدٌ وَأُمَّتُهُ، فَيُقَالُ لَهُمْ: هَلْ بَلَّغَ هذَا قَوْمَهُ؟ فَيَقُولُونَ: نَعَمْ، فَيُقَالُ: وَمَا عِلْمُكُمْ؟ فَيَقُولُونَ: جَاءَنَا نَبِيُّنَا صلّى الله عليه وسلّم فأخْبَرَنَا أَنَّ الرُّسُلَ قَدْ بَلَّغُوا، فَذلِك قَوْلُهُ عَزَّ وَجَلَّ:
+
+وَكَذَٰلِكَ جَعَلْنَاكُمْ أُمَّةً وَسَطًا
+
+قَالَ: عَدْلًا
+
+وَكَذَٰلِكَ جَعَلْنَاكُمْ أُمَّةً وَسَطًا لِّتَكُونُوا شُهَدَاءَ عَلَى النَّاسِ وَيَكُونَ الرَّسُولُ عَلَيْكُمْ شَهِيدًا
+
+(The Prophet would come on the Day of Resurrection with two or more people (his only following!), and his people would also be summoned and asked, 'Has he (their Prophet) conveyed (the Message) to you?' They would say, 'No.' He would be asked, 'Have you conveyed (the Message) to your people?' He would say, 'Yes.' He would be asked, 'Who testifies for you?' He would say, 'Muhammad and his Ummah.' Muhammad and his Ummah would then be summoned and asked, 'Has he conveyed (the Message) to his people?' They would say, 'Yes.' They would be asked, 'Who told you that?' They would say, 'Our Prophet (Muhammad) came to us and told us that the Messengers have conveyed (their Messages).')
+
+Hence Allah's statement:
+
+وَكَذَٰلِكَ جَعَلْنَاكُمْ أُمَّةً وَسَطًا
+
+(Thus We have made you a Wasat nation.)
+
+He said, "(meaning) the 'Adl,' (he then continued reciting the Ayah):
+
+وَكَذَٰلِكَ جَعَلْنَاكُمْ أُمَّةً وَسَطًا لِّتَكُونُوا شُهَدَاءَ عَلَى النَّاسِ وَيَكُونَ الرَّسُولُ عَلَيْكُمْ شَهِيدًا
+
+(Thus We have made you, a just (and the best) nation, that you be witnesses over mankind and the Messenger (Muhammad ﷺ) be a witness over you.)"
+
+Furthermore, Imam Ahmad reported that Abul-Aswad narrated: I came to Al-Madinah and found that an epidemic had broken out that caused many fatalities. I sat next to 'Umar bin Al-Khattab once when a funeral procession started and the people praised the dead person. 'Umar said, "Wajabat (it will be recorded as such), Wajabat!" Then another funeral was brought forth and the people criticized the dead person. Again, 'Umar said, "Wajabat." Abul-Aswad asked, "What is Wajabat, O Leader of the faithful?" He said, "I said just like Allah's Messenger ﷺ had said:
+
+أَيُّمَا مُسْلِمٍ شَهِدَ لَهُ أَرْبَعَةٌ بِـخَيْر أَدْخَلَهُ اللهُ الْـجَنَّــةَ
+
+قَالَ: فَقُلْنَا وَثَلَاثَةٌ؟ قَالَ: فَقَالَ:
+
+وَثَلَاثَةٌ
+
+قَالَ: فَقُلْنَا وَاثْنَانِ: قَالَ
+
+وَاثْنَانِ
+
+ثُمَّ لَمْ نَسْأَلْهُ عَنِ الْوَاحِدِ.
+
+(Any Muslim for whom four testify that he was righteous, then Allah will enter him into Paradise.' We said, 'What about three?' He said, 'And three.' We said, 'And two?' He said, 'And two.' We did not ask him about (the testimony) of one (believing) person.)"
+
+This was also recorded by Al-Bukhari, At-Tirmidhi, and An-Nasa'i.
+
+The Wisdom behind changing the Qiblah
+
+Allah then said:
+
+وَمَا جَعَلْنَا الْقِبْلَةَ الَّتِي كُنتَ عَلَيْهَا إِلَّا لِنَعْلَمَ مَن يَتَّبِعُ الرَّسُولَ مِمَّن يَنقَلِبُ عَلَىٰ عَقِبَيْهِ وَإِن كَانَتْ لَكَبِيرَةً إِلَّا عَلَى الَّذِينَ هَدَى اللَّهُ
+
+(And We made the Qiblah (prayer direction towards Jerusalem) which you used to face, only to test those who followed the Messenger (Muhammad ﷺ) from those who would turn on their heels (i.e., disobey the Messenger). Indeed it was great (heavy, difficult) except for those whom Allah guided.)
+
+Allah states thus: We have legislated for you, O Muhammad, facing Bayt Al-Maqdis at first and then changed it to the Ka'bah so as to find who will follow and obey you and thus face whatever you face.
+
+مِمَّن يَنقَلِبُ عَلَىٰ عَقِبَيْهِ
+
+(...from those who would turn on their heels.) meaning, reverts from his religion. [Allah then said:]
+
+وَإِن كَانَتْ لَكَبِيرَةً
+
+(Indeed it was great (heavy, difficult))
+
+The Ayah indicates that changing the Qiblah from Bayt Al-Maqdis to the Ka'bah is heavy on the heart, except for whomever Allah has rightly guided their hearts, who believe in the truth of the Messenger ﷺ with certainty and that whatever he was sent with is the truth without doubt. It is they who believe that Allah does what He wills, decides what He wills, commands His servants with what He wills, abrogates any of His commands that He wills, and that He has the perfect wisdom and the unequivocal proof in all this. (The attitude of the believers in this respect is) unlike those who have a disease in their hearts, to whom whenever a matter occurs, it causes doubts, just as this same matter adds faith and certainty to the believers. Similarly, Allah said:
+
+وَإِذَا مَا أُنزِلَتْ سُورَةٌ فَمِنْهُم مَّن يَقُولُ أَيُّكُمْ زَادَتْهُ هَٰذِهِ إِيمَانًا فَأَمَّا الَّذِينَ آمَنُوا فَزَادَتْهُمْ إِيمَانًا وَهُمْ يَسْتَبْشِرُونَ - وَأَمَّا الَّذِينَ فِي قُلُوبِهِم مَّرَضٌ فَزَادَتْهُمْ رِجْسًا إِلَىٰ رِجْسِهِمْ
+
+(And whenever there comes down a Surah (chapter from the Qur'an), some of them (hypocrites) say: "Which of you has had his faith increased by it?" As for those who believe, it has increased their faith, and they rejoice. But as for those in whose hearts is a disease (of doubt, disbelief and hypocrisy), it will add doubt and disbelief to their doubt and disbelief)(9:124-125)
+
+and:
+
+وَنُنَزِّلُ مِنَ الْقُرْآنِ مَا هُوَ شِفَاءٌ وَرَحْمَةٌ لِّلْمُؤْمِنِينَ وَلَا يَزِيدُ الظَّالِمِينَ إِلَّا خَسَارًا
+
+(And We send down of the Qur'an that which is a healing and a mercy to those who believe, and it increases the wrongdoers in nothing but loss.)(17:82)
+
+Certainly, those who remained faithful to the Messenger ﷺ, obeyed him and faced whatever Allah commanded them, without doubt or hesitation, were the leaders of the Companions. Some scholars stated that the Early Migrants (who migrated with the Prophet ﷺ from Makkah to Al-Madinah) and Ansar (the residents of Al-Madinah who gave aid and refuge to both the Prophet ﷺ and the Migrants) were those who offered prayers towards the two Qiblah (Bayt Al-Maqdis and then the Ka'bah).
+
+Al-Bukhari reported in the explanation of the Ayah (2:143) that Ibn 'Umar narrated: While the people were performing the Fajr (Dawn) prayer in the Quba' Mosque, a man came and said, "Qur'an was revealed to the Prophet ﷺ and he was ordered to face the Ka'bah. Therefore, face the Ka'bah." They then faced the Ka'bah. Muslim also recorded it.
+
+At-Tirmidhi added that they were performing Ruku' (bowing down in prayer), and then changed the direction (of the Qiblah) to the Ka'bah while still bowing down. Muslim reported this last narration from Anas. These Hadiths all indicate the perfect obedience the Companions had for Allah and His Messenger ﷺ and their compliance with Allah's commandments, may Allah be pleased with them all.
+
+Allah said:
+
+وَمَا كَانَ اللَّهُ لِيُضِيعَ إِيمَانَكُمْ
+
+(And Allah would never make your faith (prayers) to be lost.) meaning, the reward of your prayers towards Bayt Al-Maqdis before would not be lost with Allah. It is reported in Sahih that Abu Ishaq As-Sabi'y related that Bara' narrated: "The people asked about the matter of those who offered prayers towards Bayt Al-Maqdis and died (before the Qiblah was changed to Ka'bah). Allah revealed:
+
+وَمَا كَانَ اللَّهُ لِيُضِيعَ إِيمَانَكُمْ
+
+(And Allah would never make your faith (prayers) to be lost.)"
+
+It was also recorded by At-Tirmidhi from Ibn 'Abbas, and At-Tirmidhi graded it Sahih.
+
+Ibn Ishaq reported that Ibn 'Abbas narrated:
+
+وَمَا كَانَ اللَّهُ لِيُضِيعَ إِيمَانَكُمْ
+
+(And Allah would never make your faith to be lost.) entails: Your (prayer towards) the first Qiblah and your believing your Prophet and obeying him by facing the second Qiblah; He will grant you the rewards for all these acts. Indeed,
+
+إِنَّ اللَّهَ بِالنَّاسِ لَرَءُوفٌ رَّحِيمٌ
+
+(Truly, Allah is full of kindness, the Most Merciful towards mankind.)"
+
+Furthermore, it is reported in the Sahih that Allah's Messenger ﷺ saw a woman among the captives who was separated from her child. Whenever she found a boy (infant) among the captives, she would hold him close to her chest, as she was looking for her boy. When she found her child, she embraced him and gave him her breast to nurse. Allah's Messenger ﷺ said:
+
+أَتُرَوْنَ هذِهِ طَارِحَةً وَلَدَهَا فِي النَّارِ وَهِي تَقْدِرُ عَلى أَنْ لَا تَطْرَحَهُ؟
+
+قَالُوا: لَا يَا رَسُولَ اللهِ.
+
+قَالَ: فَوَاللهِ للهُ أَرْحَمُ بِعِبَادِهِ مِنْ هذِهِ بِوَلَدِهَا
+
+(Do you think that this woman would willingly throw her son in the fire?) They said, "No, O Messenger of Allah!" He said, (By Allah! Allah is more merciful with His servants than this woman with her son.)
 
 ### al-Tabari (Arabic)
 
@@ -484,9 +778,345 @@ The Prophet ﷺ said; (The Wasat means the 'Adl (just). You
 
 وذكره ابن كثير ١: ٣٤٨، نقلا عن ابن مردويه وابن أبي حاتم، من طريق عبد الواحد بن زياد، عن أبي مالك الأشجعي، بهذا الإسناد. وفيه"عن مغيرة بن عتيبة بن نياس"! وهو غلط واضح.]]
 
-٢١٨٣- حدثني عصام بن روَّاد بن الجرّاح العسقلاني قال، حدثنا أبي قال، حدثنا الأوزاعي، عن يحيى بن أبي كثير، عن عبد الله بن أبي الفضل، عن أبي هريرة قال: خرجتُ مع النبي ﷺ في جنازة، فلما صلى على الميت قال الناس: نِعم الرجل! فقال النبي ﷺ: وجَبت! ثم خرجت مَعه في جنازة أخرى، فلما صلوا على الميت قال الناس: بئس الرجل! فقال النبي ﷺ: وجَبت. فقام إليه أبيّ بن كعب فقال: يا رسولَ الله، ما قولك وجبت؟ قال:" قول الله عز وجل:"لتكونوا شُهداء على الناس". [[٢١٨٣- عصام بن رواد بن الجراح العسقلاني: ثقة، ترجمه ابن أبي حاتم ٣/٢/٢٦، وقال: "روى عنه أبي، وكتبت أنا عنه"، ثم قال: "سئل أبي عنه؟ فقال: صدوق". وفي لسان الميزان: "لينه الحاكم أبو أحمد. وذك
+٢١٨٣- حدثني عصام بن روَّاد بن الجرّاح العسقلاني قال، حدثنا أبي قال، حدثنا الأوزاعي، عن يحيى بن أبي كثير، عن عبد الله بن أبي الفضل، عن أبي هريرة قال: خرجتُ مع النبي ﷺ في جنازة، فلما صلى على الميت قال الناس: نِعم الرجل! فقال النبي ﷺ: وجَبت! ثم خرجت مَعه في جنازة أخرى، فلما صلوا على الميت قال الناس: بئس الرجل! فقال النبي ﷺ: وجَبت. فقام إليه أبيّ بن كعب فقال: يا رسولَ الله، ما قولك وجبت؟ قال:" قول الله عز وجل:"لتكونوا شُهداء على الناس". [[٢١٨٣- عصام بن رواد بن الجراح العسقلاني: ثقة، ترجمه ابن أبي حاتم ٣/٢/٢٦، وقال: "روى عنه أبي، وكتبت أنا عنه"، ثم قال: "سئل أبي عنه؟ فقال: صدوق". وفي لسان الميزان: "لينه الحاكم أبو أحمد. وذكره ابن حبان في الثقات".
 
-[TRUNCATED at 12000 chars — 35178 more. Consult the source directly before relying on anything near the cut.]
+أبوه"رواد بن الجراح": مضت ترجمته: ١٢٦. ونزيد هنا: مترجم أيضًا في ميزان الاعتدال. ومجموع الكلام فيه يؤيد ضعفه. وقد روى له الطبري - فيما يأتي (٢٢: ٧٢-٧٣) حديثًا مكذوبًا لا أصل له. وروى ما يدل على أن هذا الشيخ أدخل عليه ذلك الحديث، فلئن كان ذاك إن فيه لغفلة شديدة ما يجوز معها أن يقبل شيء من روايته. أما هذا الحديث -الذي هنا- فإنه لم ينفرد بروايته، كما سيجيء في الإسناد التالي لهذا.
+
+وقد وقع المطبوعة هنا"عصام بن وراد" بتقديم الواو على الراء؛ وهو خطأ ظاهر. عبد الله بن أبي الفضل المديني: ترجمه ابن أبي حاتم ٢/٢/١٣٧، وروى عن أبيه قال: "لم يرو عنه غير يحيى بن أبي كثير، ولا نعرفه". وعن ذلك قال الذهبي في الميزان: "مجهول". وقال الحافظ في لسان الميزان: "ذكره ابن حبان في الثقات". وهذا - عندنا كاف في الاحتجاج بحديثه، إذ هو تابعي عرف شخصه، ووثقه ابن حبان. والتابعون -عندنا- على القبول، حتى يثبت في أحدهم جرح مقبول.
+
+ووقع هنا في المطبوعة"عبد الله بن الفضل" بحذف كلمة"أبي"، وهو خطأ. وثبت على الصواب في الإسناد بعده.]]
+
+٢١٨٤- حدثني عليّ بن سَهل الرملي قال، حدثنا الوليد بن مسلم قال، حدثني أبو عمرو، عن يحيى قال، حدثني عبد الله بن أبي الفضل المديني قال، حدثني أبو هريرة قال: أُتي رَسول الله ﷺ بجنازة، فقال الناس: نعم الرجل! ثم ذكر نحو حديث عصَام عن أبيه. [[الحديث: ٢١٨٤- هو إسناد آخر للحديث السابق. علي بن سهيل الرملي: مضى: ١٣٨٤. الوليد بن مسلم الدمشقي، عالم الشأم: ثقة متقن صحيح العلم صحيح الحديث، من شيوخ أحمد وإسحاق وغيرهما، مات سنة ١٩٥. مترجم في التهذيب، والكبير ٤/٢/١٥٢-١٥٣، وابن سعد ٧/٢/١٧٣، وابن أبي حاتم ٤/٢/١٦-١٧، وروى عن مروان بن محمد قال، "كان الوليد بن مسلم عالمًا بحديث الأوزاعي".
+
+وشيخه في هذا الإسناد"أبو عمرو"-: هو الأوزاعي.
+
+والحديث -من هذا الوجه- صحيح، وذكره السيوطي، ١: ١٤٥، ونسبه للطبري وابن أبي حاتم.
+
+وأصله ثابت من حديث أبي هريرة. رواه أحمد في المسند: ٧٥٤٣. ورواه أبو داود والنسائي وابن ماجه، كما بينا هنا. ولكن لم يذكر فيه سؤال أبي بن كعب، ولا الاستشهاد بالآية. وفي مجمع الزوائد ٣: ٤ رواية أخرى له مطولة، وفيها أن السائل هو عمر. وذكر أنه"رواه الطبراني في الأوسط، ورجاله رجال الصحيح".]]
+
+٢١٨٥- حدثنا أبو كريب قال، حدثنا زيد بن حباب قال، حدثنا عكرمة بن عمار قال، حدثني إياس بن سلمة بن الأكوع، عن أبيه قال: كنا مع النبي ﷺ فمُرّ عليه بجنازة، فأثنِيَ عليها بثناء حَسن، فقال: وجبت! ومُرَّ عليه بجنازة أخرى، فأثنِيَ عليها دون ذلك، فقال: وجبت! قالوا: يا رسول الله، ما وجبت؟ قال: الملائكة شُهداء الله في السماء، وأنتم شهداء الله في الأرض، فما شهدتم عليه وجب. ثم قرأ: ﴿وَقُلِ اعْمَلُوا فَسَيَرَى اللَّهُ عَمَلَكُمْ وَرَسُولُهُ وَالْمُؤْمِنُونَ﴾ الآية [سورة التوبة: ١٠٥] . [[الحديث: ٢١٨٥- وهذا إسناد صحيح، على شرط مسلم.
+
+زيد بن الحباب -بضم الحاء المهملة وتخفيف الموحدة- العكلي: ثقة من شيوخ أحمد وابن المديني وغيرهما من الأئمة، وهو مترجم في التهذيب، والكبير للبخاري ٢/١/٣٥٨، وابن سعد ٦: ٢٨١، وابن أبي حاتم ١/٢/٥٦١-٥٦٢.
+
+عكرمة بن عمار العجلي: ثقة، روى عنه شعبة والثوري ووكيع وغيرهم. وهو مترجم في التهذيب، والكبير للبخاري ٤/١/٥٠، وابن سعد ٥: ٤٠٤، وابن أبي حاتم ٣/٢/١٠-١١.
+
+إياس بن سلمة بن الأكوع: تابعي ثقة كثير الحديث، أخرج له أصحاب الكتب الستة، وهو قد سمع من أبيه الصحابي، وروى له الشيخان وغيرهما أحاديث من روايته عنه. وهو مترجم في التهذيب، والكبير للبخاري ١/١/٤٣٩، وابن سعد ٥: ١٨٤، وابن أبي حاتم ١/١/٢٧٩-٢٨٠. ورجال الصحيحين، ص: ٤٧.
+
+والحديث ذكره السيوطي ١: ١٤٥، باختصار في آخره. ونسبه لابن أبي شيبة، وهناد، وابن جرير والطبراني. ونقله الهيثمي في مجمع الزوائد ٣: ٤-٥، عن إسنادين للطبراني في الكبير، في كل منهما رجل ضعيف. فيستفاد تصحح الحديث بهذا الإسناد الصحيح عند ابن جرير. وفي المطبوعة: "فما شهدتم عليه وجبت"، والصواب ما أثبت.]]
+
+* *
+
+٢١٨٦- حدثني محمد بن عمرو قال، حدثنا أبو عاصم قال، حدثنا عيسى، عن ابن أبي نجيح، عن مجاهد:"لتكونوا شهداء على الناس"، تكونوا شهداء لمحمد عليه السلام على الأمم، اليهود والنصارى والمجوس.
+
+٢١٨٧- حدثني المثنى قال، حدثنا أبو حذيفة قال، حدثنا شبل، عن ابن أبي نجيح، عن مجاهد، مثله.
+
+٢١٨٨- حدثني محمد بن عمرو قال، حدثنا [أبو] عاصم، عن عيسى، عن ابن أبي نجيح قال: يأتي النبي ﷺ يوم القيامة نَادِيَهُ ليس معه أحد، فتشهد له أمة محمد ﷺ أنه قد بلغهم. [[الأثر: ٢١٨٨- كان في المطبوعة"حدثنا عاصم"، والصواب ما أثبت، وهو إسناد دائر في التفسير، أقربه: ٢١٨٦. أما قوله: "ناديه" فهكذا جاءت في المطبوعة، وفي مطبوعات أخرى، وفي المخطوطات، وفي الدر المنثور ١: ١٤٦: "بإذنه"، وهذه الأخيرة لا معنى لها. أما قوله: "ناديه"، فكأنه أراد موقفه يوم القيامة. والنادي: مجتمع القوم وأهل المجلس. ولكني أرجح أن اللفظ محرف عن كلمة معناها"وحده - أو منفردًا"، فإن سياقه يقتضي ذلك. وقوله: "يأتي النبي ﷺ ناديه" أرجح أن قوله: "ﷺ" زيادة ناسخ، والسياق يقتضي أن يكون: "يأتي النبي يوم القيامة ناديه ليس معه أحد".]]
+
+٢١٨٩- حدثني المثنى قال، حدثنا أبو حذيفة قال، حدثنا شبل، عن ابن أبي نجيح، عن أبيه أنه سمع عبيد بن عمير مثله.
+
+٢١٩٠- حدثنا القاسم قال، حدثنا الحسين قال، حدثنا حجاج، عن ابن جريج قال، حدثني ابن أبي نجيح، عن أبيه قال، يأتي النبي ﷺ يوم القيامة، فذكر مثله، ولم يذكر عبيد بن عمير، مثله.
+
+٢١٩١- حدثنا بشر بن معاذ قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة"لتكونوا شُهداء على الناس"، أي أنّ رسلهم قد بلغت قومَها عن ربّها،"ويكون الرسول عليكم شَهيدًا"، على أنه قد بلغ رسالات ربِّه إلى أمته.
+
+٢١٩٢- حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا معمر، عن زيد بن أسلم: أنّ قوم نوح يَقولونَ يوم القيامة: لم يبلِّغنا نوحٌ! فيدعَى نوح عليه السلام فيسأل: هل بلغتهم؟ فيقول: نعم. فيقال: من شُهودك؟ فيقول: أحمد ﷺ وأمته. فتدعون فتُسألون فتقولون: نعم، قد بلّغهم. فتقول قوم نوح عليه السلام: كيف تشهدون علينا ولم تدركونا؟ قالوا: قد جاء نبيُّ الله ﷺ فأخبرنا أنه قد بلغكم، وأنزل عليه أنه قد بلغكم، فصدَّقناه. قال: فيصدّق نوح عليه السلام ويكذبونهم. قال:"لتكونوا شُهداء على الناس ويَكونَ الرسول عليكم شهيدًا"
+
+٢١٩٣- حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا معمر، عن قتادة:"لتكونوا شُهداء على الناس"، لتكون هذه الأمة شُهداء على الناس أنّ الرسل قد بلَّغتهم، ويكون الرسول على هذه الأمة شهيدًا، أن قد بلَّغ ما أرسل به.
+
+٢١٩٤- حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا معمر، عن زيد بن أسلم: أنّ الأمم يقولُون يوم القيامة: والله لقد كادت هذه الأمَّة أن تكون أنبياءَ كلهم! لما يرون الله أعطاهم.
+
+٢١٩٥- حدثنا المثنى قال، حدثنا سويد بن نصر قال، حدثنا ابن المبارك، عن رِشْدين بن سعد، قال أخبرني ابن أنعم المعافري، عن حبان بن أبي جبلة يُسنده إلى رسول الله ﷺ قال: إذا جمع الله عباده يوم القيامة، كان أوَّلَ من يدعى إسرافيلُ، فيقول له ربه: ما فعلتَ في عهدي؟ هل بلغت عهدي؟ فيقول: نعم رَبّ، قد بلغته جبريل عليهما السلام، فيدعى جبريل، فيقال له: هل بَلغك إسرافيلُ عهدي! [[في المطبوعة: "هل بلغت إسرافيل"، وهو خطأ، وصوابه ما أثبت.]] فيقول: نعم ربّ، قد بلغني. فيخلَّى عن إسرافيلُ، ويقال لجبريل: هل بلغت عهدي؟ فيقول: نعم، قد بلغتُ الرسل. فتُدعى الرسل فيقال لهم: هل بلَّغكم جبريلُ عهدي؟ فيقولون: نعم ربَّنا. فيخلَّى عن جبريل، ثم يقال للرسل: ما فعلتم بعهدي؟ فيقولون: بلَّغنا أممنا. فتدعى الأمم، فيقال: هل بلغكم الرسل عهدي؟ فمنهم المكذّب ومنهم المصدِّق، فتقول الرسل: إن لنا عليهم شهودًا يَشهدون أنْ قد بلَّغنا مع شَهادتك. فيقول: من يشهد لكم؟ فيقولون: أمَّة محمد. فتدعى أمة محمد ﷺ، فيقول: أتشهدون أنّ رسُلي هؤلاء قد بلَّغوا عهدي إلى من أرسِلوا إليه؟ فيقولون: نعم ربَّنا شَهدنا أنْ قد بلَّغوا. فتقول تلك الأمم. كيف يشهد علينا من لم يُدركنا؟ فيقول لهم الرب تباركَ وتعالى: كيف تشهدون عَلى من لم تدركوا؟ فيقولون: ربنا بعثت إلينا رسولا وأنزلت إلينا عهدك وكتابك، وقصَصَت علينا أنّهم قد بلَّغوا، فشهدنا بما عهدْتَ إلينا. فيقول الرب: صدَقوا. فذلك قوله:"وكذلك جَعلناكم أمة وَسَطًا" -والوسطُ العَدْل-"لتكونوا شُهداء على الناس ويكونَ الرسولُ عليكم شهيدًا". قال ابن أنعم: فبلغني أنه يشهد يومئذ أمَّةُ محمد ﷺ، إلا من كان في قلبه حِنَةٌ على أخيه. [[الحديث: ٢١٩٥- هذا حديث ضعيف، من ناحيتين: من ناحية أنه مرسل، رواه تابعي لم يسنده عن صحابي. ومن ناحية ضعف"رشدين بن سعد"، كما سيأتي.
+
+وقد مضت قطعة منه بهذا الإسناد: ٢١٧٦. وأحلنا تخريجها على هذا الموضع.
+
+رشدين بن سعد: ضعيف جدًا، سبق بيانه في: ١٩٣٨. ووقع في المطبوعة هنا، وفي: ٢١٧٦: "راشد"، كما كان ذلك في: ١٩٣٨. وهو خطأ.
+
+ابن أنعم المعافري: هو عبد الرحمن بن زياد بن أنعم -بفتح الهمزة وسكون النون وضم العين المهملة- المعافري الإفريقي القاضي. وهو ثقة، تكلم فيه كثير من العلماء بغير حجة، سمع من أجلة التابعين، وكان شجاعًا في الحق. وكان أحمد بن صالح يقول: هو ثقة، وينكر على من تكلم فيه. قاله أبو بكر المالكي في رياض النفوس: "كان من جلة المحدثين، منسوبًا إلى الزهد والورع، صلبًا في دينه، متفننًا في علوم شتى". وغلا فيه ابن حبان غلوًا فاحشًا، فقال في كتاب المجروحين، ص: ٢٨٣-٢٨٤: "كان يروي الموضوعات عن الثقات، ويأتي عن الأثبات ما ليس من أحاديثهم، وكان يدلس عن محمد بن سعيد بن أبي قيس المطلوب". ثم روى حديثًا من طريقه يستدل به على ما قال. وهو حديث موضوع، ولكن ابن أنعم بريء من عهدته، فإن الحمل فيه على أحد الكذابين، وهو يوسف بن زياد البصري. وقد تعقب الدارقطني على ابن حبان ذلك، فيما ثبت بهامش مخطوطة المجروحين.
+
+والمشارقة أخطأوا معرفة ابن أنعم، فعن ذلك جاء ما جاء من جرحه، بل أخطأوا تاريخ وفاته، فأرخوه سنة ١٥٦. والمغاربة أعرف به، وأرخوه سنة ١٦١.
+
+وله تراجم وافية: في التهذيب ٦: ١٧٣-١٧٦، والصغير للبخاري، ص: ١٨٠، وابن أبي حاتم ٢/٢/٣٣٤-٣٣٥. والمجروحين لابن حبان: ٢٨٣-٢٨٤، والميزان للذهبي ٢: ١٠٤-١٠٥، وطبقات علماء إفريقية لأبي العرب: ٢٧-٣٢. ورياض النفوس لأبي بكر المالكي ١: ٩٦-١٠٣، وتاريخ بغداد ١٠: ٢١٤-٢١٨.
+
+حبان -بكسر المهملة وتشديد الموحدة- بن أبي جبلة المصري: تابعي ثقة. وهو أحد العشرة الذين أرسلهم عمر بن عبد العزيز، ليفقهوا أهل إفريقية ويعلموهم أمر دينهم. مترجم في التهذيب، والكبير للبخاري ٢/١/٨٣، وابن أبي حاتم ١/٢/٢٦٩.
+
+وهذا الحديث مرسل، إذ حكى راويه عن التابعي أنه"يسنده إلى رسول الله ﷺ"، لم يذكر من حدثه به.
+
+وقوله"يسنده" - كتب في المطبوعة هنا وفي: ٢١٧٦"بسنده" بالباء الموحدة. وهو تصحيف. والحديث ذكره السيوطي ١: ١٤٥، ولم ينسبه لغير الطبري وابن المبارك في الزهد.
+
+وكان في المطبوعة"حقد على أخيه". وفي الدر المنثور ١: ١٤٦"إحنة"، والذي أثبته من القرطبي، وبعض المخطوطات. والحنة: الحقد، من"وحن يحن حنة" مثل: "وعد يعد عدة" (بكسر الحاء وفتح النون) . وقال الأزهري: ليست من كلام العرب، إنما هي إحنة: أي حقد. وأنكر الأصمعي"حنة"، وحكى عنه أبو نصر أنه قال: "كنا نظن الطرماح شيئًا حتى قال: وَأَكرَهُ أنْ يَعِيبَ عَلَيَّ قَوْمِي ... ِجَائِي الأَرْذَلِينَ ذَوِي الحِنَاتِ
+
+لأنها إحنة وإحن، ولا يقال حنات" (ديوان الطرماح: ١٣٤) . وقال الزمخشري في الفائق (أحن) : "أما ما حكى عن الأصمعى. . . فاسترذال منه! "وحن"، وقضاء على الهمزة بالأصالة، أو برفض الواو في الاستعمال".]]
+
+٢١٩٦- حدثني المثنى قال، حدثنا إسحاق قال، حدثنا أبو زهير، عن جويبر، عن الضحاك في قوله:"لتكونوا شُهداء على الناس"، يعني بذلك. الذين استقاموا على الهُدى، فهم الذين يكونون شهداء على الناس يوم القيامة، لتكذيبهم رُسلَ الله وكفرهم بآيات الله.
+
+٢١٩٧- حدثت عن عمار قال، حدثنا ابن أبي جعفر، عن أبيه، عن الربيع قوله:"لتكونوا شهداء على الناس"، يقول: لتكونوا شهداء على الأمم الذين خَلَوا من قبلكم، بما جاءتهم رسلهم، وبما كذّبوهم، فقالوا يوم القيامة وعَجِبوا: إنّ أمة لم يكونوا في زماننا، فآمنوا بما جاءتْ به رسلنا، وكذبنا نحن بما جاءوا به! فعجبوا كل العجب. قوله:"ويكُون الرسولُ عليكم شهيدًا"، يعني بإيمانهم به، وبما أنزل عليه.
+
+٢١٩٨- حدثني محمد بن سعد قال، حدثني أبي قال، حدثني عمي قال، حدثني أبي، عن أبيه، عن ابن عباس:"لتكونوا شُهداء على الناس"، يعني: أنهم شَهدوا على القرون بما سمَّى الله عز وجل لَهم.
+
+٢١٩٩- حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج قال، قال ابن جريج: قلت لعطاء: ما قوله:"لتكونوا شهداء على الناس"؟ قال: أمة محمد، شهدوا على من ترك الحق حين جاءه الإيمانُ والهدى، ممن كان قبلنا. قالها عبد الله بن كثير. قال: وقال عطاء: شهداء على مَنْ ترك الحق ممن تركه من الناس أجمعين، جاء ذلك أمَّةَ محمد ﷺ في كتابهم،"ويكون الرسولُ عليكمْ شهيدًا" على أنهم قد آمنوا بالحق حين جاءهم، وصَدَّقوا به.
+
+٢٢٠٠- حدثني يونس قال، أخبرنا ابن وهب قال: قال ابن زيد في قوله:"لتكونوا شُهداء عل الناس ويكونَ الرسولُ عليكم شهيدًا" قال، رسول الله ﷺ شاهدٌ على أمَّته، وهم شهداء على الأمم، وهم أحد الأشهاد الذين قال الله عز وجل: ﴿وَيَوْمَ يَقُومُ الأشْهَادُ﴾ [سورة غافر: ٥١] الأربعة: الملائكة الذين يُحصُون أعْمالنا، لنا وعلينا، وقرأ قوله: ﴿وَجَاءَتْ كُلُّ نَفْسٍ مَعَهَا سَائِقٌ وَشَهِيدٌ﴾ [سورة ق: ٢١] ، وقال: هذا يوم القيامة. قال: والنبيون شُهداء على أممهم. قال: وأمة محمد ﷺ شُهداء على الأمم. قال: [والأطوار] الأجساد والجلود. [[الأثر: ٢٢٠٠- ذكره السيوطي في الدر المنثور ٥: ٣٥٢ في تفسير [سورة غافر الآية: ٥١] ، بغير هذا اللفظ، ونسبه لابن جرير وابن أبي حاتم في تفسيريهما. ونصه:
+
+"عن زيد بن أسلم: الأشهاد أربعة: الملائكة الذين يحصون علينا أعمالنا، وقرأ: "وجاءت كل نفس معها سائق وشهيد"، والنبيون، شهداء على أممهم، وقرأ: "فكيف إذا جئنا من كل أمة بشهيد"، وأمة محمد ﷺ، شهداء على الأمم، وقرأ: "لتكونوا شهداء على الناس"، والأجساد والجلود، وقرأ: "وقالوا لجلودهم لم شهدتم علينا قالوا أنطقنا الذي أنطق كل شيء".
+
+أما ما جاء في نص الطبري، ووضعته بين قوسين، فهو خطأ لا شك فيه، وأخشى أن يكون صوابه"الأطراف والأجساد والجلود"، ويعني بالأطراف، الجوارح، يريد بذلك الأيدي والأرجل، في قوله تعالى في [سورة يس: ٦٥] : (اليَوْمَ نَخْتِمُ عَلَى أَفْوَاهِهِمْ وتُكَلّمنَا أَيْدِيهِمْ وتَشْهَدُ أَرْجُلُهُمْ بِمَا كَانُوا يَكْسِبُونَ)]]
+
+* *
+
+القول في تأويل قوله تعالى: ﴿وَمَا جَعَلْنَا الْقِبْلَةَ الَّتِي كُنْتَ عَلَيْهَا إِلا لِنَعْلَمَ مَنْ يَتَّبِعُ الرَّسُولَ مِمَّنْ يَنْقَلِبُ عَلَى عَقِبَيْهِ﴾
+
+قال أبو جعفر: يعني جل ثناؤه بقوله:"وما جَعلنا القبلة التي كنت عليها"، ولم نجعل صَرْفك عَن القبلة التي كنت على التوجه إليها يا محمد فصرفْناك عنها، إلا لنعلم من يَتَّبعك ممن لا يتَّبعك، ممن يَنقلبُ على عقبيه.
+
+* *
+
+والقبلة التي كان رسولُ الله ﷺ عليها، التي عناها الله بقوله:"وما جعلنا القبلة التي كنت عليها"، هي القبلة التي كنت تتوجَّه إليها قبل أن يصرفك إلى الكعبة، كما:-
+
+٢٢٠١- حدثني موسى بن هارون قال، حدثنا عمرو قال، حدثنا أسباط، عن السدي:"وما جَعلنا القبلة التي كنت عليها"، يعني: بيت المقدس.
+
+٢٢٠٢- حدثنا القاسم قال، حدثنا الحسين قال: حدثني حجاج، عن ابن جريج قال: قلت لعطاء:"وما جَعلنا القِبلة التي كنتَ عليها". قال: القِبلة بيتُ المقدس.
+
+* *
+
+قال أبو جعفر: وإنما ترك ذكر"الصرف عنها"، اكتفاء بدلالة ما قد ذكر من الكلام على معناه، كسائر ما قد ذكرنا فيما مضى من نَظائره. [[انظر ما سلف ١: ١٣٩-١٤١، ١٧٩، وغيرها كثير، اطلبه في الفهارس.]]
+
+وإنما قُلنا: ذلك معناه، لأن محنةَ الله أصحابَ رسوله في القِبلة، إنما كانت -فيما تظاهرت به الأخبار- عند التحويل من بيت المقدس إلى الكعبة، حتى ارتدَّ -فيما ذكر- رجالٌ ممن كان قد أسلمَ واتَّبع رسول الله ﷺ، وأظهرَ كثيرٌ من المنافقين =من أجل ذلك= نفاقَهم، وقالوا: ما بَالُ محمد يحوّلنا مرة إلى هاهنا ومرة إلى هاهنا! وقال المسلمون، فيمن مضى من إخوانهم المسلمين وهم يصلون نحو بيت المقدس: بطلت أعمالُنا وأعمالُهم وضاعت! وقال المشركون: تحيَّر محمد [ﷺ] في دينه! فكان ذلك فتنةً للناس، وتمحيصًا للمؤمنين.
+
+فلذلك قال جل ثناؤه:"ومَا جَعلنا القِبلةَ التي كنت عليها إلا لنعلمَ من يتَّبع الرسول ممن ينقلب على عَقبيه"، أي: ومَا جعلنا صَرْفك عن القبلة التي كنت عليها، وتحويلك إلى غيرها، كما قال جل ثناؤه: ﴿وَمَا جَعَلْنَا الرُّؤْيَا الَّتِي أَرَيْنَاكَ إِلا فِتْنَةً لِلنَّاسِ﴾ [سورة الإسراء: ٦٠] بمعنى: وما جعلنا خَبرَك عن الرؤيا التي أريناك. وذلك أنه لو لم يكن أخبَر القوم بما كان أُرِي، لم يكن فيه على أحد فتنةٌ، وكذلك القبلة الأولى التي كانت نحو بيت المقدس، لو لم يكن صرفٌ عنها إلى الكعبة، لم يكن فيها على أحد فتنةٌ ولا محْنة.
+
+* *
+
+ذكر الأخبار التي رُويت في ذلك بمعنى ما قلنا:
+
+٢٢٠٣- حدثنا بشر بن معاذ قال، حدثنا يزيد، عن سعيد، عن قتادة قَال: كانت القبلةُ فيها بلاءٌ وتمحيصٌ. صلَّت الأنصار نحو بيت المقدس حوْلين قَبل قدوم نبيّ الله ﷺ، وصلى نبي الله ﷺ بعدَ قُدومه المدينةَ مهاجرًا نحو بيت المقدس سبعةَ عشر شهرًا، ثم وجهه الله بعد ذلك إلى الكعبة البيتِ الحرام، فقال في ذلك قائلون من الناس:"مَا وَلاهم عن قبلتهم التي كانوا عليها"؟ لقد اشتاق الرجُل إلى مولده! قال الله عز وجل:"قُلْ لله المشرقُ والمغربُ يَهدي مَنْ يَشاءُ إلى صراط مُستقيم". فقال أناسٌ -لما صُرفت القبلة نحو البيت الحرام-: كيف بأعمالنا التي كنا نعمل في قبلتنا الأولى؟ فأنزل الله عز وجل:"ومَا كانَ الله ليُضيعَ إيمانكم". وقد يَبتلي الله العبادَ بما شَاءَ من أمره، الأمرَ بعدَ الأمر، ليعلم مَنْ يطيعه ممن يَعصيه، وكل ذلك مقبول، إذْ كان في [ذلك] إيمان بالله، وإخلاصٌ له، وتسليم لقضائه. [[الأثر: ٢٢٠٣- في الدر المنثور ١: ١٤٣، وقد مضى شطره في رقم: ٢١٦٣. وكان في المطبوعة: "وكل ذلك مقبول، وإذا كان في إيمان بالله. . . "، عبارة ركيكة، فجعلت"إذا"، "إذ" وزدت"ذلك": لتستقيم العبارة. أما في الدر المنثور فعبارته أشد سقمًا ونصها: "وكل ذلك مقبول، في درجات في الإيمان بالله، والإخلاص، والتسليم لقضاء الله".]]
+
+٢٢٠٤- حدثني موسى قال، حدثنا عمرو قال، حدثنا أسباط، عن السدي قال: كان النبي ﷺ يُصلي قِبَل بيت المقدس، فنسختها الكعبة. فلما وُجِّه قبل المسجد الحرام، [[في المطبوعة: "فلما توجه قبل المسجد"، والصواب من رقم: ٢١٦٤، والدر المنثور.]] اختلف الناس فيها، فكانوا أصنافًا، فقال المنافقون: ما بالهم كانوا على قبلة زمانًا، ثم تركوها وتوجهوا إلى غيرها؟ وقال المسلمون: ليت شعرَنا عَن إخواننا الذين مَاتوا وهم يصلُّون قبَلَ بيت المقدس! هل تقبَّل الله منا ومنهم، أوْ لا؟ وقالت اليهود: إنّ محمدًا اشتاق إلى بلد أبيه ومولده، ولو ثبت على قبلتنا لكنا نرجو أن يكون هو صاحبنا الذي ننتظر! وقال المشركون من أهل مكة: تَحيَّر على محمد دينُهُ، فتوجه بقبلته إليكم، وعلم أنكم كنتم أهدى منه، ويوشك أنْ يدخل في دينكم! فأنزل الله جل ثناؤه في المنافقين:"سَيقول السفهاء من الناس مَا ولاهم عن قبلتهم التي كانوا عليها" إلى قوله:"وإنْ كانتْ كبيرةً إلا على الذين هَدى الله"، وأنزل في الآخرين الآيات بعدها. [[الأثر: ٢٢٠٤- مضى بعضه في رقم: ٢١٦٤، وهو في الدر المنثور ١: ١٤٢-١٤٣.]]
+
+٢٢٠٥- حدثنا القاسم قال، حدثنا الحسين قال، حدثنا حجاج، عن ابن جريج قال، قلت لعطاء:"إلا لنعلمَ من يتَّبع الرسول ممن ينقلبُ على عَقبيه"؟ فقال عطاء: يبتليهم، ليعلم من يُسلم لأمره. قال ابن جريج: بلغني أنّ ناسًا ممن أسلم رَجعوا فقالوا: مرة هاهنا ومرة هاهنا!
+
+* *
+
+قال أبو جعفر: فإن قال لنا قائل: أوَ مَا كان الله عالمًا بمن يتَّبع الرسول ممن ينقلب على عقبيه، إلا بعد اتباع المتّبع، وانقلاب المنقلب على عقبيه، حتى قال: ما فعلنا الذي فعلنا من تحويل القبلة إلا لنعلم المتّبعَ رسولَ الله ﷺ من المنقلب على عقبيه؟
+
+قيل: إن الله جل ثناؤه هو العالم بالأشياء كلها قَبل كونها، وليس قوله:"وما جعلنا القبلةَ التي كنتَ عليها إلا لنعلمَ من يتَّبع الرسول ممن يَنقلب على عَقبيه" يخبر [عن] أنه لم يعلم ذلك إلا بعد وجُوده. [[في المطبوعة: "يخبر أنه لم يعلم ذلك. . . "، والصواب ما أثبت، مع الزيادة بين القوسين.]]
+
+فإن قال: فما معنى ذلك؟
+
+قيل له: أما معناه عندنا، فإنه: وما جعلنا القبلة التي كنت عليها إلا ليعلم رَسولي وحزبي وأوليائي مَنْ يتبع الرسول ممن ينقلب على عقبيه، فقال جل ثناؤه:"إلا لنعلم"، ومعناه: ليعلمَ رَسولي وأوليائي. إذْ كان رسول الله ﷺ وأولياؤهُ من حزبه، وكان من شَأن العرب إضافة ما فعلته أتباعُ الرئيس إلى الرئيس، ومَا فعل بهم إليه، نحو قولهم:"فتح عُمر بن الخطاب سَوادَ العراق، وجَبى خَرَاجها"، وإنما فعل ذلك أصحابه، عن سببٍ كان منه في ذلك. وكالذي رُوي في نظيره عن النبي ﷺ أنه قال: يقول الله جل ثناؤه: مَرضْتُ فلم يَعدني عَبدي، واستقرضته فلم يقرضني، وشتمني ولم يَنبغِ له أن يُشتمني.
+
+٢٢٠٦- حدثنا أبو كريب قال، حدثنا خالد، عن محمد بن جعفر، عن العلاء بن عبد الرحمن، عن أبيه، عن أبي هريرة قال: قال رسول الله ﷺ: قالَ الله: استقرضتُ عَبدي فلم يُقرضني، وشتمني ولم يَنبغ له أن يشتُمني! يقول: وادَهراه! وأنا الدهر، أنا الدهر.
+
+٢٢٠٧- حدثنا ابن حميد قال، حدثنا سلمة، عن ابن إسحاق، عن العلاء بن عبد الرحمن، عن أبيه، عن أبي هريرة، عن النبي ﷺ بنحوه. [[الحديثان: ٢٢٠٦، ٢٢٠٧- هما حديث واحد بإسنادين صحيحين.
+
+خالد- في أولهما: هو خالد بن مخلد القطواني، بفتح القاف والطاء. وهو ثقة من شيوخ البخاري، أخرج له هو ومسلم في الصحيحين، تكلم فيه من جهة إفراطه في التشيع، ولكنه صدوق في الرواية. مترجم في التهذيب، والكبير للبخاري ٢/١/١٦٠، وابن سعد ٦: ٢٨٣، وابن أبي حاتم ١/٢/٣٥٤. وشيخه محمد بن جعفر بن أبي كثير الأنصاري الزرقي: ثقة معروف، أخرج له أصحاب الكتب الستة.
+
+والحديث رواه الحاكم في المستدرك ١: ٤١٨، من طريق يزيد بن هارون، عن محمد بن إسحاق، بالإسناد الثاني، بنحوه. وقال: "هذا حديث صحيح على شرط مسلم، ولم يخرجاه". ووافقه الذهبي.
+
+والنهي عن سب الدهر، في الحديث القدسي، من حديث أبي هريرة-: ثابت من أوجه، في الصحيحين وغيرهما. فانظر المسند: ٧٢٤٤، ٧٥٠٩. والبخاري ٨: ٤٤١، و ١٠: ٤٦٥، و ١٣: ٣٨٩. وصحيح مسلم ٢: ١٩٦-١٩٧.]]
+
+* *
+
+فأضاف تعالى ذكره الاستقراض والعيادة إلى نفسه، وقد كان ذلك بغيره، إذ كان ذلك عن سببه.
+
+وقد حكي عن العرب سماعًا:"أجوع في غَيْر بَطني، وأعرى في غير ظهْري"، بمعنى: جُوعَ أهله وعياله وعُرْيَ ظهورهم،
+
+فكذلك قوله:"إلا لنعلم"، بمعنى: يعلم أوليائي وحزبي.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+٢٢٠٨- حدثني المثنى قال، حدثنا أبو صالح قال، حدثني معاوية بن صالح، عن علي بن أبي طلحة، عن ابن عباس:"وما جَعلنا القبلةَ التي كنت عليها إلا لنعلم من يتّبع الرسول ممن ينقلب على عقبيه"، قال ابن عباس: لنميّز أهلَ اليقين من أهل الشرك والريبة.
+
+* *
+
+وقال بعضهم: إنما قيل ذلك، من أجل أن العرَب تَضع"العلم" مكان"الرؤية"، و"الرؤية" مكان"العلم"، كما قَال جلّ ذكره: ﴿أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ الْفِيلِ﴾ [سورة الفيل: ١] ، فزعم أن معنى"ألم تر"، ألم تعلم؟ وزعم أن معنى قوله:"إلا لنعلم"، بمعنى: إلا لنرى من يتبع الرسول. وزعم أنّ قول القائل:"رأيتُ، وعَلمت، وشَهدت"، حروفٌ تتعاقب، فيوضَع بعضها موضع بعض، كما قال جرير بن عطية
+
+كَأَنَّكَ لَمْ تَشْهَدْ لَقِيطًا وَحَاجِبًا ... وَعَمْرَو بن عَمْرٍو إذْ دَعَا يَالَ دَارِمِ [[ديوانه: ٥٦٣، والنقائض: ٤٠٩، من قصيدته الفالقة، في نقض قصيدة الفرزدق. وقد عدد فيها أيام قومه. والخطاب في قوله: "كأنك" للفرزدق، ويذكر"يوم جبلة"، وهو من أعظم أيامهم، وكان قبل الإسلام بأربعين سنة، عام ولد النبي ﷺ، وهو لعامر وعبس، على ذبيان وتميم. وقتل يومئذ لقيط بن زرارة، وأسر حاجب بن زرارة، وأسر عمرو بن عمرو بن عدس، وهم من بني عبد الله بن دارم، وهم عمومة الفرزذق، وهو من بني مجاشع بن دارم.
+
+ورواية الديوان والنقائض: "إذا دعوا"، وكلتاهما صحيحة المعنى.]]
+
+بمعنى: كأنك لم تعلم لَقيطًا، لأنّ بين هُلْك لَقيط وحاجب وزمان جرير، ما لا يخفى بُعده من المدة. وذلك أنّ الذين ذكرهم هلكوا في الجاهلية، وجريرٌ كان بعد بُرْهة مَضَت من مجيء الإسلام.
+
+* *
+
+قال أبو جعفر: وهذا تأويل بعيدٌ، من أجل أنّ"الرؤية"، وإن استعملت في موضع"العلم"، من أجل أنه مستحيلٌ أن يرى أحدٌ شيئًا، فلا توجب رؤيته إياه علمًا بأنه قد رآه، إذا كان صحيح الفطرة. فجاز من الوجه الذي أثبته رؤيةً، أن يُضَاف إليه إثباتُهُ إياه علمًا، [[أثبت الشيء: عرفه حق المعرفة.]] وصحّ أن يدلّ بذكر"الرؤية" على معنى"العلم" من أجل ذلك. فليس ذلك، وإن كان [جائزا] في الرؤية -لما وصفنا- بجائز في العلم، [[الزيادة بين القوسين، لا بد للسياق منها، وإلا اختل الكلام.]] فيدلّ بذكر الخبر عن"العلم" على"الرؤية". لأن المرء قد يعلم أشياء كثيرة لم يرها ولا يراها، ويستحيل أن يَرَى شيئًا إلا علمه، كما قد قدمنا البيان [عنه] . [[زيادة يقتضيها سياقه.]] مع أنه غير موجود في شيء من كلام العرب أن يقال:"علمت كذا"، بمعنى رأيته. وإنما يجوز توجيه معاني ما في كتاب الله الذي أنزله على محمد ﷺ منَ الكلام، إلى ما كان موجودًا مثله في كلام العرب، دون ما لم يكن موجودًا في كلامها. فموجود في كلامها"رأيت" بمعنى: علمت، وغير موجود في كلامها"علمت" بمعنى: رأيت، فيجوز توجيه:"إلا لنعلم" إلى معنى: إلا لنرى.
+
+* *
+
+وقال آخرون: إنما قيل:"إلا لنعلم"، من أجل أنّ المنافقين واليهودَ وأهلَ الكفر بالله، أنكروا أن يكون الله تعالى ذكره يَعلم الشيءَ قبل كونه. وقالوا - إذ قيل لهم: إن قومَا من أهل القبلة سيرتدُّون على أعقابهم، إذا حُوِّلت قبلة محمد ﷺ إلى الكعبة-: ذلك غير كائن! أو قالوا: ذلك باطل! فلما فَعل الله ذلك، وحوَّل القبلة، وكفر من أجل ذلك من كفر، قال الله جل ثناؤه: ما فعلتُ إلا لنعلم ما علمه غَيركم- أيها المشركون المنكرون علمي بما هو كائن من الأشياء قبل كونه-: أنّي عالم بما هو كائن مما لم يكن بعد. [[كان في المطبوعة: "إلا لنعلم ما عندكم. . . " وهذا يجعل الجملة غير مستقيمة، غير مفهومة المعنى. ورأيت أن سياق الكلام قبله يدل على أن ذلك كما أثبت، فإن المؤمنين علموا أن قومًا سيرتدون إذا حولت القبلة، وأنكر اليهود والمنافقون أن يكون ذلك كائنًا. فاقتضى السياق أن يكون التأويل جامعًا لهذا العلم من هؤلاء، وذلك الإنكار من أولئك. ثم جاء الطبري بعبارة تصحح ما ذهبت إليه في قوله: "إلا لنبين لكم أننا نعلم". فكأن معنى الآية عند قائل هذا القول: ما جعلنا القبلة التي كنت عليها، وإلا للعلم بأننا نعلم من يتبع الرسول. . .]]
+
+فكأن معنى قائلي هذا القول في تأويل قوله:"إلا لنعلم": إلا لنبيّن لكم أنّا نعلمُ من يَتّبع الرسول ممن ينقلب على عقبيه. وهذا وإن كان وَجهًا له مَخرج، فبعيدٌ من المفهوم.
+
+* *
+
+وقال آخرون: إنما قيل:"إلا لنعلم"، وهو بذلك عالم قبل كونه وفي كل حال، على وجه الترفّق بعباده، واستمالتهم إلى طاعته، [[في المطبوعة: "على وجه الترفيق بعباده"، وهو خطأ.]] كما قال جل ثناؤه: ﴿قُلْ مَنْ يَرْزُقُكُمْ مِنَ السَّمَاوَاتِ وَالأرْضِ قُلِ اللَّهُ وَإِنَّا أَوْ إِيَّاكُمْ لَعَلَى هُدًى أَوْ فِي ضَلالٍ مُبِينٍ﴾ [[كان في الأصل: "قل الله" أول الآية المستشهد بها، فآثرت إتمامها.]] [سورة سبأ: ٢٤] ، وقد علم أنه على هدى، وأنهم على ضلال مبين، ولكنه رَفقَ بهم في الخطاب، فلم يقل: أنّا على هدى، وأنتم على ضلال. فكذلك قوله:"إلا لنعلم"، معناه عندهم: إلا لتعلموا أنتم، إذ كنتم جُهالا به قبل أن يكونَ. فأضاف العلم إلى نفسه، رفقًا بخطابهم.
+
+* *
+
+وقد بيَّنا القول الذي هو أوْلى في ذلك بالحقّ.
+
+* *
+
+وأما قوله:"مَنْ يتَّبع الرسول". فإنه يعني: الذي يتبع محمدًا ﷺ فيما يأمره الله به، فيوجِّه نحو الوَجه الذي يتوَجَّه نحوه محمد ﷺ.
+
+* *
+
+وأما قوله:"ممن يَنقلب على عَقبيه"، فإنه يعني: من الذي يرتدُّ عن دينه، فينافق، أو يكفر، أو مخالف محمدًا ﷺ في ذلك، ممن يظهر اتِّباعه، كما:-
+
+٢٢٠٩- حدثني يونس قال، أخبرنا ابن وهب قال، قال ابن زيد في قوله:"وما جَعلنا القبلةَ التي كنتَ عليها إلا لنعلم من يتبع الرسول ممن ينقلب على عقبيه" قال، مَنْ إذا دخلتْه شُبهة رجع عن الله، وانقلب كافرًا على عَقبيه.
+
+* *
+
+وأصل"المرتد على عقبيه"، هو:"المنقلب على عقبيه"، الراجع مستدبرًا في الطريق الذي قد كان قطعه، منصرفًا عنه. فقيل ذلك لكل راجع عن أمر كان فيه، من دين أو خير. ومن ذلك قوله: ﴿فَارْتَدَّا عَلَى آثَارِهِمَا قَصَصًا﴾ [سورة الكهف: ٦٤] ، بمعنى: رَجعا في الطريق الذي كانا سَلكاه، وإنما قيل للمرتد:"مرتد"، لرجوعه عن دينه وملته التي كان عليها.
+
+وإنما قيل:"رجع عَلى عقبيه"، لرجوعه دُبُرًا على عَقبه، إلى الوجه الذي كان فيه بدء سيره قبل مَرْجعه عنه. فيجعل ذلك مثلا لكل تارك أمرًا وآخذٍ آخرَ غيره، إذا انصرف عما كان فيه، إلى الذي كان له تاركًا فأخذه. فقيل:"ارتد فلان على عَقِبه، وانقلب على عَقبيه".
+
+* *
+
+القول في تأويل قوله تعالى: ﴿وَإِنْ كَانَتْ لَكَبِيرَةً إِلا عَلَى الَّذِينَ هَدَى اللَّهُ﴾
+
+قال أبو جعفر: اختلف أهلُ التأويل في التي وصفها الله جل وعز بأنها كانت"كبيرة إلا على الذين هَدى الله".
+
+فقال بعضهم: عنى جل ثناؤه ب"الكبيرة"، التوليةُ من بيت المقدس شطرَ المسجد الحرام والتحويلُ. وإنما أنَّث"الكبيرة"، لتأنيث"التولية".
+
+ذكر من قال ذلك:
+
+٢٢١٠- حدثني المثنى قال، حدثنا عبد الله بن صالح، عن علي بن أبي طلحة، عن ابن عباس، قال الله:"وإن كانت كبيرةً إلا على الذين هدى الله"، يعني: تحويلَها.
+
+٢٢١١- حدثني محمد بن عمرو قال، حدثنا أبو عاصم قال، حدثنا عيسى بن ميمون، عن ابن أبي نجيح، عن مجاهد في قول الله عز وجل:"وإن كانت لكبيرةً إلا على الذين هدى الله" قال، ما أمِروا به من التحوُّل إلى الكعبة من بيت المقدس.
+
+٢٢١٢- حدثني المثنى قال، حدثنا أبو حذيفة قال، حدثنا شبل، عن ابن أبي نجيح، عن مجاهد مثله.
+
+٢٢١٣- حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا معمر، عن قتادة في قوله:"لكبيرة إلا على الذين هَدى الله" قال، كبيرة، حين حُولت القبلة إلى المسجد الحرام، فكانت كبيرةً إلا على الذين هدى الله.
+
+* *
+
+وقال آخرون: بل"الكبيرة"، هي القبلة بعينها التي كان ﷺ يتوجَّه إليها من بيت المقدس قبلَ التحويل.
+
+ذكر من قال ذلك:
+
+٢٢١٤- حدثت عن عمار بن الحسن قال، حدثنا عبد الله بن أبي جعفر، عن أبيه، عن الربيع، عن أبي العالية:"وإن كانت لكبيرة"، أي: قبلةُ بيت المقدس -"إلا على الذين هدى الله". [[في المطبوعة: "عن أبيه عن أبي العالية"، بإسقاط"عن الربيع"، وهو إسناد دائر في الطبري، أقربه رقم: ١٨٨٦.]]
+
+وقال بعضهم: بل"الكبيرة" هي الصلاة التي كانوا يصلّونها إلى القبلة الأولى.
+
+ذكر من قال ذلك:
+
+٢٢١٥- حدثني يونس بن عبد الأعلى قال، أخبرنا ابن وهب قال، قال ابن زيد:"وإن كانت لكبيرة إلا على الذين هدى الله" قال، صلاتكم حتى يهديَكم اللهُ عز وجل القِبلةَ. [[الأثر: ٢٢١٥- سيأتي تامًا برقم: ٢٢١٧، وفيه"يهديكم إلى القبلة"، وهما صواب.]]
+
+٢٢١٦- وقد حدثني به يونس مرة أخرى قال، أخبرنا ابن وهب قال، قال ابن زيد:"وإن كانت لَكبيرة" قال، صلاتك هاهنا -يعني إلى بيت المقدس ستة عشر شهرًا- وانحرافُك هاهنا
+
+* *
+
+وقال بعض نحويي البصرة: أنِّثت"الكبيرة" لتأنيث القبلة، وإياها عنى جل ثناؤه بقوله:"وإن كانت لكبيرة".
+
+وقال بعض نحويي الكوفة: بل أنثت"الكبيرة" لتأنيث التولية والتحويلة
+
+فتأويل الكلام على ما تأوله قائلو هذه المقالة: وما جعلنا تحويلتنا إياك عن القبلة التي كنتَ عليها وتوليتُناك عنها، إلا لنعلم من يتبع الرسول ممن ينقلب على عقبيه، وإن كانت تحويلتُنا إياك عنها وتوليتُناكَ"لكبيرة إلا على الذين هدى الله".
+
+* *
+
+وهذا التأويل أولى التأويلات عندي بالصواب. لأن القوم إنما كبُر عليهم تحويل النبي ﷺ وَجْهه عن القبلة الأولى إلى الأخرى، لا عين القبلة، ولا الصلاة. لأن القبلة الأولى والصلاة، قد كانت وهى غير كبيرة عليهم. إلا أن يوجِّه موجِّه تأنيث"الكبيرة" إلى"القبلة"، ويقول: اجتُزئ بذكر"القبلة" من ذكر"التولية والتحويلة"، لدلالة الكلام على معنى ذلك، كما قد وصفنا لك في نظائره. [[انظر ما سلف في فهارس الأجزاء الماضية.]] فيكون ذلك وجهًا صحيحًا، ومذهبًا مفهومًا.
+
+* *
+
+ومعنى قوله:"كبيرة"، عظيمة، [[انظر تفسير"كبيرة" فيما سلف ٢: ١٥.]] . كما:-
+
+٢٢١٧- حدثنا يونس قال، أخبرنا ابن وهب قال، قال ابن زيد:"وإن كانت لكبيرة إلا عَلى الذين هدى الله" قال، كبيرة في صدور الناس، فيما يدخل الشيطانُ به ابنَ آدم. قال: ما لهم صلُّوا إلى هاهنا ستةَ عشر شهرًا ثم انحرفوا! فكبُر ذلك في صدور من لا يعرف ولا يعقل والمنافقين، فقالوا: أيّ شيء هذا الدين؟ وأما الذين آمنوا، فثبَّت الله جل ثناؤه ذلك قي قلوبهم، وقرأ قول الله"وإن كانت لكبيرةً إلا على الذين هدى الله" قال، صَلاتكم حَتى يهديكم إلى القبلة. [[الأثر: ٢٢١٧- انظر ما سلف رقم: ٢١١٥، والتعليق عليه.]]
+
+* *
+
+قال أبو جعفر: وأما قوله:"إلا على الذين هَدى الله"، فإنه يعني به:
+
+وإن كان تقليبَتُناك عن القبلة التي كنتَ عليها، لعظيمة إلا على من وّفَّقه الله جل ثناؤه، فهداهُ لتصديقك والإيمان بك وبذلك، واتباعِك فيه، وفيما أنزل الله تعالى ذكره عليك، كما:-
+
+٢٢١٨- حدثني المثنى قال، حدثنا أبو صالح قال، حدثني معاوية بن صالح، عن علي بن أبي طلحة، عن ابن عباس:"وإن كانت لكبيرة إلا على الذين هدى الله"، يقول: إلا على الخاشعين، يعني المصدِّقين بما أنزل الله تبارك وتعالى. [[الأثر ٢٢١٨- أخشى أن يكون هذا الأثر، هو نفس الأثر السالف برقم: ٨٥٦.]]
+
+* *
+
+القول في تأويل قوله تعالى: ﴿وَمَا كَانَ اللَّهُ لِيُضِيعَ إِيمَانَكُمْ﴾
+
+قال أبو جعفر: قيل: عنى ب"الإيمان"، في هذا الموضع: الصلاةَ.
+
+* *
+
+ذكر الأخبار التي رُويت بذلك، وذكر قول من قاله:
+
+٢٢١٩- حدثنا أبو كريب قال، حدثنا وكيع وعبيد الله -وحدثنا سفيان بن وكيع قال حدثنا عبيد الله بن موسى- جميعًا، عن إسرائيل، عن سماك، عن عكرمة، عن ابن عباس قال، لما وُجِّه رَسوله الله ﷺ إلى الكعبة قالوا: كيف بمن ماتَ من إخواننا قبل ذلك، وهم يصلون نحو بيت المقدس؟ فأنزل الله جل ثناؤه:"وما كانَ الله ليضيعَ إيمانكم". [[الحديث: ٢٢١٩- هو بإسنادين معًا: أولهما صحيح، وهو رواية أبي كريب، عن وكيع وعبيد الله بن موسى. وثانيهما ضعيف، وهو رواية سفيان بن وكيع عن عبيد الله بن موسى.
+
+وعبيد الله بن موسى العبسي: مضى في ٢٠٩٢.
+
+والحديث رواه أحمد في المسند: ٣٢٤٩، عن وكيع، عن إسرائيل، بهذا الإسناد، نحوه. ورواه أيضًا مطولا ومختصرًا، من طرق عن إسرائيل: ٢٦٩١، ٢٧٧٦، ٢٩٦٦. وخرجناه هناك في: ٢٦٩١.]]
+
+٢٢٢٠- حدثني إسماعيل بن موسى قال، أخبرنا شريك، عن أبي إسحاق، عن البراء في قول الله عز وجل:"وما كان الله ليضيع إيمانكم" قال، صلاتكم نحوَ بَيت المقدس.
+
+٢٢٢١- حدثنا أحمد بن إسحاق الأهوازي قال، حدثنا أبو أحمد الزبيري قال، حدثنا شريك، عن أبي إسحاق، عن البراء نحوه. [[الحديثان: ٢٢٢٠-٢٢٢١- هما حديث واحد بإسنادين.
+
+وذكره السيوطي ١: ١٤٦، ونسبه أيضًا لسعيد بن منصور، وعبد بن حميد، وابن أبي حاتم.]]
+
+٢٢٢٢- وحدثني المثنى قال، حدثنا عبد الله بن محمد بن نفيل الحرّاني قال، حدثنا زهير قال، حدثنا أبو إسحاق، عن البراء قال: مات على القبلة قبلَ أن تحوّل إلى البيت رجالٌ وقُتلوا، فلم ندر ما نَقول فيهم. فأنزل الله تعالى ذكره:"وما كان الله ليُضيع إيمانكم". [[الحديث: ٢٢٢٢- عبد الله بن محمد بن نفيل: هو عبد الله بن محمد بن علي بن نفيل، أبو جعفر النفيلي الحراني، الثقة المأمون الحافظ. مترجم في التهذيب. وابن أبي حاتم ٢/٢/١٥٩.
+
+زهير: هو ابن معاوية الجعفي أبو خيثمة. مضى: ٢١٤٤. وأبو إسحاق: هو السبيعي الهمداني. والحديث هو باقي الحديث الماضي لهذا الإسناد: ٢١٥٣. وقد بينا تخريجه هناك.]]
+
+٢٢٢٣- حدثنا بشر بن معاذ العقدي قال، حدثنا يزيد بن زريع قال، حدثنا سعيد، عن قتادة قال، قال أناسٌ من الناس -لما صرفت القبلة نحو البيت الحرام-: كيف بأعمالنا التي كنا نَعملُ في قبلتنا؟ فأنزل الله جل ثناؤه:"وما كان الله ليضيع إيمانكم".
+
+٢٢٢٤- حدثني موسى بن هارون قال، حدثني عمرو بن حماد قال، حدثنا أسباط، عن السدي قال: لما وُجِّه رسول الله ﷺ قبَل المسجد الحرام، [[في المطبوعة: "لما توجه. . . "، وانظر ما سلف رقم: ٢٢٠٤، والتعليق عليه.]] قال المسلمون: ليتَ شِعْرنا عن إخواننا الذين مَاتوا وهم يصلون قبل بيت المقدس! هل تقبَّل الله منا ومنهم أم لا؟ فأنزل الله جل ثناؤه فيهم:"وما كان الله ليضيع إيمانكم" قال، صلاتكم قبَلَ بيت المقدس: يقول: إنّ تلك طاعة وهذه طاعة. [[الأثر: ٢٢٢٤- مضى برقم: ٢١٦٤، ثم: ٢٢٠٤، وفيه هنا زيادة.]]
+
+٢٢٢٥- حدثت عن عمار بن الحسن قال، حدثنا ابن أبي جعفر، عن أبيه، عن الربيع قال: قال ناسٌ -لما صرفت القبلة إلى البيت الحرام-: كيف بأعمالنا التي كنا نعملُ في قبلتنا الأولى؟ فأنزل الله تعالى ذكره:"وما كانَ الله ليضيع إيمانكم" الآية.
+
+٢٢٢٦- حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج قال، قال ابن جريج، أخبرني داود بن أبي عاصم قال، لما صُرف رسولُ الله ﷺ إلى الكعبة، قال المسلمون: هَلك أصحابنا الذين كانوا يصلون إلى بيت المقدس! فنزلت:"وما كان الله ليضيع إيمانكم".
+
+٢٢٢٧- حدثنا محمد بن سعد قال، حدثني أبي قال، حدثني عمي قال، حدثني أبي، عن أبيه، عن ابن عباس في قوله:"وما كان الله ليضيع إيمانكم"، يقول: صَلاتكم التي صليتموها من قبل أن تكون القبلة. فكان المؤمنون قد أشفقوا على مَن صلى منهم أن لا تُقبلَ صلاتهم.
+
+٢٢٢٨- حدثني يونس بن عبد الأعلى قال، أخبرنا ابن وهب قال، قال ابن زيد:"وما كان الله ليضيع إيمانكم"، صلاتكم.
+
+٢٢٢٩- حدثنا محمد بن إسماعيل الفزاري قال، أخبرنا المؤمل قال، حدثنا سفيان، حدثنا يحيى بن سعيد، عن سعيد بن المسيب في هذه الآية:"وما كان الله ليضيع إيمانكم" قال، صلاتكم نحو بيت المقدس.
+
+* *
+
+قال أبو جعفر: قد دللنا فيما مضى على أن"الإيمان" التصديق. وأن التصديقَ قد يكون بالقول وحده، وبالفعل وحده، وبهما جميعًا. [[انظر ما سلف ١: ٢٣٤-٢٣٥، وغيره، فالتمسه في فهرس اللغة.]]
+
+فمعنى قوله:"وما كان الله ليُضيع إيمانكم" -على ما تظاهرت به الرواية من أنه الصلاة-: وما كان الله ليُضيع تصديقَ رَسوله عليه السلام، بصَلاتكم التي صليتموها نحو بيت المقدس عن أمره، لأن ذلك كان منكم تصديقًا لرسولي، واتِّباعًا لأمْري، وطاعةً منكم لي.
+
+* *
+
+قال:"وإضاعته إياه" جل ثناؤه -لو أضاعه-: تركُ إثابة أصْحابه وعامليه عليه، فيذهب ضياعًا، ويصير باطلا كهيئة"إضاعة الرجل ماله"، وذلك إهلاكه إياه فيما لا يعتاض منه عوضًا في عاجل ولا آجل.
+
+* *
+
+فأخبر الله جل ثناؤه أنه لم يكن يُبطل عَمل عاملٍ عمل له عملا وهو له طاعة، فلا يُثيبه عليه، وإن نُسخ ذلك الفرضُ بعد عمل العامل إياه على ما كلفه من عمله.
+
+* *
+
+فإن قال قائل: وكيفَ قال الله جل ثناؤه:"وما كان الله ليُضيع إيمانكم"، فأضاف الإيمان إلى الأحياء المخاطبين، والقومُ المخاطبون بذلك إنما كانوا أشفقوا على إخوانهم الذين كانوا ماتوا وهم يصلون نحو بيت المقدس، وفي ذلك من أمرهم أنزلت هذه الآية؟
+
+قيل: إن القوم وإن كانوا أشفقوا من ذلك، فإنهم أيضًا قد كانوا مشفقين من حُبُوط ثواب صلاتهم التي صلوها إلى بيت المقدس قبل التحويل إلى الكعبة، وظنّوا أنّ عملهم ذلك قد بطلَ وذهب ضياعًا؟ فأنزل الله جل ثناؤه هذه الآية حينئذ، فوجّه الخطاب بها إلى الأحياء ودخل فيهم الموتى منهم. لأن من شأن العرب -إذا اجتمع في الخبر المخاطبُ والغائبُ- أن يغلبوا المخاطب فيدخل الغائب في الخطاب. فيقولوا لرجل خاطبوه على وجه الخبر عنه وعن آخر غائب غير حاضر:"فعلنا بكما وصنعنا بكما"، كهيئة خطابهم لهما وهما حاضران، ولا يستجيزون أن يقولوا:"فعلنا بهما"، وهم يخاطبون أحدهما، فيردّوا المخاطب إلى عِدَاد الغَيَب. [[الغيب (بفتحتين) جمع غائب، مثل خادم وخدم.]]
+
+* *
+
+القول في تأويل قوله تعالى: ﴿إِنَّ اللَّهَ بِالنَّاسِ لَرَءُوفٌ رَحِيمٌ (١٤٣) ﴾
+
+قال أبو جعفر: ويعني بقوله جل ثناؤه:"إنّ الله بالناس لَرَءوفٌ رحيمٌ": أن الله بجميع عباده ذُو رأفة.
+
+* *
+
+و"الرأفة"، أعلى مَعاني الرحمة، وهي عَامَّة لجميع الخلق في الدنيا، ولبعضهم في الآخرة.
+
+* *
+
+وأما"الرحيم": فإنه ذو الرحمة للمؤمنين في الدنيا والآخرة، على ما قد بينا فيما مضى قبل. [[انظر ما سلف ١: ١٢٦-١٣٤.]]
+
+* *
+
+وإنما أراد جل ثناؤه بذلك أنّ الله عز وجل أرْحمُ بعباده منْ أن يُضيع لهم طاعةً أطاعوه بها فلا يثيبهم عليها، وأرأفُ بهم من أن يُؤاخذهم بترك ما لم يفرضه عليهم -أيْ ولا تأسوا عَلى مَوْتاكم الذين ماتوا وهم يصلون إلى بيت المقدس-، فإني لهم =على طاعتهم إياي بصَلاتهم التي صلوها كذلك= مثيبٌ، لأني أرحم بهم من أن أضيع لهم عملا عملوه لي؛ ولا تحزنوا عليهم، فإني غيرُ مؤاخذهم بتركهم الصلاة إلى الكعبة، لأني لم أكن فرضت ذلك عليهم، وأنا أرأف بخلقي من أن أعاقبهم على تركهم ما لم آمرهم بعمله.
+
+* *
+
+وفي"الرءوف" لغات. إحداها"رَؤُف" على مثال"فَعُل"، كما قال الوليد بن عقبة:
+
+وَشرُّ الطالِبِينَ -وَلا تَكُنْه- ... بقَاتِلِ عَمِّه، الرَّؤُفُ الرَّحِيم [[كان في المطبوعة: "الرءوف الرحيما". وجاء على الصواب في القرطبي ٢: ١٤٥، وأبي حيان ١: ٤٢٧، وفيهما خطأ آخر، الأول فيه"يقاتل"، والثاني"يقابل"، وكأن هذا البيت من شعر الوليد بن عقبة، الذي كتب به إلى معاوية يحض معاوية على قتال علي رضي الله عنهما. وهي في أنساب الأشراف: ١٤٠، وتاريخ الطبري ٥: ٢٣٦-٢٣٧، وحماسة البحتري: ٣٠، واللسان (حلم) وغيرها، وليس فيها هذا البيت، وكأنه قبل البيت الذي يقول فيه: لَكَ الْوَيْلاتُ! أَقْحِمْهَا عَلَيْهِمْ ... فخيرُ الطَّالبي التِّرَةِ الغَشُومُ
+
+وقوله: "لا تكنه"، دعاء له، واستنكار أن يكون كهذا الطالب الثائر الذي يطالب بدم عمه، وهو رؤوف رحيم بعدوه وقاتل عمه، وهو شر طالب ثأر.]] وهي قراءة عامة قراء أهل الكوفة. والأخرى"رَؤوف" على مثال"فعول"، وهي قراءة عامة قراء المدينة، و"رَئِف"، وهي لغة غطفان، على مثال"فَعِل" مثل حَذِر. و"رَأْف" على مثال"فَعْل" بجزم العين، وهي لغة لبني أسد.
+
+والقراءة على أحد الوجهين الأوَّلين.
 
 ### al-Muyassar (Arabic)
 
@@ -710,9 +1340,129 @@ This Ayah means: The Jews, who did not like that you change your Qiblah from Bay
 
 وذكره ابن كثير ١: ٢٦٨، نقلا عن الحاكم.
 
-ولفظه عندهم جميعًا: "قال: شطره قبله"، كما أثبتنا. وو
+ولفظه عندهم جميعًا: "قال: شطره قبله"، كما أثبتنا. ووقع في المطبوعة هنا: "قال: شطره فينا قبلة"!! وهو خطأ سخيف، من ناسخ أو طابع.
 
-[TRUNCATED at 12000 chars — 9811 more. Consult the source directly before relying on anything near the cut.]
+ووقع في الإسناد في ابن كثير"محمد بن إسحاق" بدل"أبي إسحاق". وهو خطأ يخالف ما ثبت هنا، وما ثبت في سائر المراجع.
+
+ووقع فيه في ابن كثير والمستدرك ومختصره للذهبي -المطبوع والمخطوط-"عمير بن زياد". وهو خطأ أيضًا. وثبت على الصواب في رواية البيهقي عن الحاكم.]]
+
+* *
+
+قال أبو جعفر: وقبلةُ البيت: بابه، كما:-
+
+٢٢٥٢- حدثني يعقوب بن إبراهيم والفضل بن الصَّبَّاح قالا حدثنا هشيم قال، أخبرنا عبد الملك، عن عطاء قال، قال أسامة بن زيد: رأيت رسول الله ﷺ حين خرجَ من البيت أقبلَ بوجهه إلى الباب، فقال: هذه القبلةُ، هذه القبلة. [[الحديث: ٢٢٥٢- الفضل بن الصباح البغدادي: ثقة، وثقه ابن معين. وقال أبو القاسم البغوي: "كان من خيار عباد الله". مترجم في التهذيب. وابن أبي حاتم ٣/٢/٦٣.
+
+عبد الملك: هو ابن أبي سليمان العرزمي، مضى في: ١٤٥٥.
+
+عطاء: هو ابن أبي رباح، التابعي الكبير، الإمام الحجة، القدوة العلم، مفتي أهل مكة ومحدثهم. مترجم في التهذيب. وابن أبي حاتم ٣/١/٣٣٠-٣٣١. وتذكرة الحفاظ ١: ٩٢: ٩٣، وتاريخ الإسلام ٤: ٢٧٨-٢٨٠، وابن سعد ٢/٢/١٣٣-١٣٤، و ٥: ٣٤٤-٣٤٦.
+
+أسامة بن زيد بن حارثة: هو حب رسول الله ﷺ وابن حبه.
+
+وقد زعم أبو حاتم -فيما حكاه عنه ابنه في المراسيل: ص: ٥٧- أن عطاء لم يسمع من أسامة. ولكن الرواية التالية لهذه، فيها تصريح عطاء بالسماع منه. ثم المعاصرة كافية في ثبوت الاتصال، كما هو الراجح عند أهل العلم بالحديث.
+
+وعطاء ولد سنة ٢٧ ومات سنة ١١٤. بل ذكر الذهبي أنه مات عن ٩٠ سنة. وأسامة بن زيد مات سنة ٥٤. بل أرخ مصعب الزبيري وفاته في آخر خلافة معاوية سنة ٥٨ أو ٥٩.
+
+وهذا الحديث رواه أحمد في المسند (٥: ٢٠٩) ، عن هشيم، بهذا الإسناد واللفظ. ثم رواه عقبه، بالإسناد نفسه مطولا، بنحوه.]]
+
+٢٢٥٣- حدثنا ابن حميد وسفيان بن وكيع قالا حدثنا جرير، عن عبد الملك بن أبي سليمان، عن عطاء، قال، حدثني أسامة بن زيد قال: خرج النبي ﷺ من البيت، فصلى ركعتين مستقبلا بوجهه الكعبة، فقال: هذه القبلةُ مرتين. [[الحديث: ٢٢٥٣- ابن حميد: هو محمد بن حميد بن حيان الرازي الحافظ. سبقت رواية الطبري عنه مرارًا كثيرة، ووثقناه في ٢٠٢٨. ونزيد هنا أنه وثقه ابن معين وغيره. وأنكروا عليه أحاديث، وأجاب عنه ابن معين بأن"هذه الأحاديث التي يحدث بها، ليس هو من قبله، إنما هو من قبل الشيوخ الذي يحدث به عنهم". وقال الخليلي: "كان حافظًا عالمًا بهذا الشأن، رضيه أحمد ويحيى". وعرض عبد الله بن أحمد على أبيه ما كتبه عنه، فقال: أما حديثه عن ابن المبارك وجرير، فصحيح، وأما حديثه عن أهل الري، فهو أعلم". مترجم في التهذيب، والكبير ١/١/٦٩-٧٠، وابن أبي حاتم ٣/٢/٢٣٢-٢٣٣، والخطيب ٢: ٢٥٩-٢٦٤، وتذكرة الحفاظ ٢: ٦٧-٦٩.
+
+جرير: هو ابن عبد الحميد بن قرط الرازي، وهو ثقة حجة. مترجم في التهذيب، والكبير للبخاري ١/٢/٢١٤، وابن سعد ٧/٢/١١٠. وابن أبي حاتم ١/١/٥٠٥-٥٠٧، والخطيب ٧: ٢٥٣-٢٦١، وتذكرة الحفاظ ١: ٢٥٠.
+
+فهذا إسناد صحيح، صرح فيه عطاء بالسماع من أسامة بن زيد، كما أشرفا في الإسناد السابق.
+
+والحديث رواه أحمد في المسند (٥: ٢١٠ ح) ، ضمن قصة، عن يحيى -وهو القطان- عن عبد الملك"حدثنا عطاء، عن أسامة بن زيد".]]
+
+٢٢٥٤- حدثنا أبو كريب قال، حدثنا عبد الرحيم بن سليمان، عن عبد الملك، عن عطاء، عن أسامة بن زيد، عن رسول الله ﷺ نحوه. [[الحديث: ٢٢٥٤- عبد الرحيم بن سليمان: هو المروزي الأشل، مضت ترجمته: ٢٠٣٠. والحديث تكرار لسابقه، لكن لم يصرح في هذا الإسناد بسماع عطاء من أسامة.]]
+
+٢٢٥٥- حدثنا سعيد بن يحيى الأموي قال، حدثنا أبي قال، حدثنا ابن جريج قال، قلت لعطاء: سمعت ابن عباس يقول: إنما أمرتم بالطَّوَاف ولم تؤمروا بدخوله. قال: قال: لم يكن ينهَى عن دخوله، ولكني سمعته يقول: أخبرني أسامة بن زيد أنّ رسول الله ﷺ لما دخل البيت دَعا في نواحيه كلها، ولم يصلِّ حتى خرج، فلما خرج ركع في قِبَل القبلة ركعتين، وقال: هذه القبلة. [[الحديث ٢٢٥٥- سعيد بن يحيى بن سعيد، الأموي: ثقة ثبت، بل قال علي بن المديني: "جماعة من الأولاد أثبت عندنا من آبائهم. . . وهذا سعيد بن يحيى بن سعيد الأموي: أثبت من أبيه". وهو من شيوخ البخاري ومسلم وأبي زرعة وأبي حاتم، مترجم في التهذيب، والكبير ٢/١/٤٧٧، وابن أبي حاتم ٢/١/٧٤، والخطيب ٩: ٩٠-٩١. أبوه، يحيى بن سعيد بن أبان بن سعيد بن العاص: حافظ ثقة. مترجم في التهذيب، والكبير ٤/٢/٢٧٧، وابن سعد ٦: ٢٧٧-٢٧٨، و ٧/٢/٨٠-٨١. وابن أبي حاتم ٤/٢/١٥١-١٥٢، والخطيب ١٤: ١٣٢-١٣٥، وتذكرة الحفاظ ١: ٢٩٨.
+
+والحديث رواه أحمد في المسند (٥: ٢٠٨ح) ، عن عبد الرزاق، وروح - كلاهما عن ابن جريج، بهذا الإسناد نحوه.
+
+رواه قبل ذلك (ص: ٢٠١ ح) عن عبد الرزاق وحده، مختصرًا، طوى القصة فلم يذكرها.
+
+وليس في هذا الحديث ما ينفي أن يكون عطاء سمع الحديث من أسامة بن زيد، لأنه -هنا- إنما يجيب السائل عن قوا ابن عباس، وينفي أن يكون ابن عباس ينهى عن دخول البيت. فهو يذكر رواية ابن عباس عن أسامة، من أجل هذا. ولا يمنع هذا أن يكون الحديث عند عطاء عن أسامة مباشرة.
+
+والحديث رواه أيضًا مسلم ١: ٣٧٦-٣٧٧، من طريق محمد بن بكر، عن ابن جريج، بهذا الإسناد، نحو هذه القصة، أطول منها قليلا.
+
+ورواه البخاري ١: ٤٢٠- ٤٢١ (فتح الباري) ، من طريق عبد الرزاق، عن ابن جريج، عن عطاء، عن ابن عباس، مختصرًا. لم يذكر القصة، ولم يذكر أنه عن أسامة، جعله من حديث ابن عباس. وذكر الحافظ أنه رواه الإسماعيلي وأبو نعيم، في مستخرجيهما، من طريق إسحاق بن راهويه، عن عبد الرزاق، بإسناد هذا: "فجعله من رواية ابن عباس عن أسامة بن زيد". قال الحافظ: "وهو الأرجح".
+
+والخلاف في أن رسول الله ﷺ صلى في الكعبة أو لم يصل - مذكور في الدواوين. والراجح صلاته فيها. المثبت مقدم على النافي. وانظر نصب الراية ٢: ٣١٩-٣٢٢.]]
+
+* *
+
+قال أبو جعفر: فأخبر ﷺ أنّ البيت هو القبلة، وأن قبلة البيت بابه.
+
+* *
+
+القول في تأويل قوله تعالى: ﴿وَحَيْثُمَا كُنْتُمْ فَوَلُّوا وُجُوهَكُمْ شَطْرَهْ﴾
+
+قال أبو جعفر: يعني جل ثناؤه بذلك: فأينما كنتم من الأرض أيها المؤمنون فحوِّلوا وجُوهكم في صلاتكم نَحو المسجد الحرام وتلقاءَه.
+
+و"الهاء" التي في"شطرَه"، عائدة إلى المسجد الحرام.
+
+فأوجب جل ثناؤه بهذه الآية على المؤمنين، فرضَ التوجُّه نحو المسجد الحرام في صلاتهم حيث كانوا من أرض الله تبارك وتعالى.
+
+وأدخلت"الفاء" في قوله:"فولوا"، جوابًا للجزاء. وذلك أن قوله:"حيثما كنتم" جزاء، ومعناه: حيثما تكونوا فولوا وجوهكم شطره.
+
+* *
+
+القول في تأويل قوله تعالى: ﴿وَإِنَّ الَّذِينَ أُوتُوا الْكِتَابَ لَيَعْلَمُونَ أَنَّهُ الْحَقُّ مِنْ رَبِّهِمْ﴾
+
+يعني بقوله جل ثناؤه:"وإنّ الذين أوتُوا الكتاب" أحبارَ اليهود وعلماء النصارى.
+
+* *
+
+وقد قيل: إنما عنى بذلك اليهودَ خاصةً.
+
+ذكر من قال ذلك:
+
+٢٢٥٦- حدثنا موسى بن هارون قال، حدثنا عمرو بن حماد قال، حدثنا أسباط، عن السدي:"وإن الذين أوتوا الكتاب"، أنزل ذلك في اليهود.
+
+* *
+
+وقوله:"ليعلمون أنه الحق من ربهم"، يعني هؤلاء الأحبارَ والعلماءَ من أهل الكتاب، يعلمون أن التوجُّهَ نحو المسجد، الحقُّ الذي فرضه الله عز وجل على إبراهيم وذريته وسائر عباده بعده.
+
+* *
+
+ويعني بقوله:"من رَبِّهم" أنه الفرضُ الواجب على عباد الله تعالى ذكره، وهو الحقُّ من عند ربهم، فَرَضَه عليهم.
+
+* *
+
+القول في تأويل قوله تعالى: ﴿وَمَا اللَّهُ بِغَافِلٍ عَمَّا يَعْمَلُونَ (١٤٤) ﴾
+
+قال أبو جعفر: يعني بذلك تبارك وتعالى: وليس الله بغافل عما تعملون أيها المؤمنون، في اتباعكم أمرَه، وانتهائكم إلى طاعته، فيما ألزمكم من فرائضه، وإيمانكم به في صَلاتكم نحو بيت المقدس، ثم صلاتكم من بعد ذلك شطرَ المسجد الحرام، ولا هو ساه عنه، [[انظر تفسير"غافل" فيما سلف ٢: ٢٤٣-٢٤٤، ٣١٥، وهذا الجزء ٣: ١٢٧.]] ولكنه جَل ثَناؤه يُحصيه لكم ويدّخره لكم عنده، حتى يجازيَكم به أحسن جزاء، ويثيبكم عليه أفضل ثواب.
+
+* *
+
+القول في تأويل قوله تعالى: ﴿وَلَئِنْ أَتَيْتَ الَّذِينَ أُوتُوا الْكِتَابَ بِكُلِّ آيَةٍ مَا تَبِعُوا قِبْلَتَكَ وَمَا أَنْتَ بِتَابِعٍ قِبْلَتَهُمْ وَمَا بَعْضُهُمْ بِتَابِعٍ قِبْلَةَ بَعْضٍ﴾
+
+قال أبو جعفر: يعني بذلك تبارك اسمه: ولئن جئتَ، يا محمد، اليهودَ والنصارَى، بكل برهان وحُجة - وهي"الآية"- [[انظر تفسيره"آية" فيما سلف ١: ١٠٦/٢: ٥٥٣.]] بأن الحق هو ما جئتهم به، من فرض التحوُّل من قبلة بيت المقدس في الصلاة، إلى قبلة المسجد الحرام، ما صدّقوا به، ولا اتَّبعوا -مع قيام الحجة عليهم بذلك- قبلتَك التي حوَّلتُك إليها، وهي التوجُّه شَطرَ المسجد الحرام.
+
+* *
+
+قال أبو جعفر: وأجيبت"لئن" بالماضي من الفعل، وحكمها الجوابُ بالمستقبل تشبيهًا لها ب"لو"، فأجيبت بما تجاب به"لو"، لتقارب معنييهما.
+
+وقد مضى البيان عن نَظير ذلك فيما مضى. [[انظر ما سلف ٢: ٤٥٨، وانظر معاني القرآن للفراء ١: ٨٤.]] وأجيبت"لو" بجواب الأيمان. ولا تفعل العربُ ذلك إلا في الجزاء خاصة، لأن الجزاء مُشابه اليمين: في أن كل واحد منهما لا يتم أوّله إلا بآخره، ولا يتمُّ وحده، ولا يصحّ إلا بما يؤكِّد به بعدَه. فلما بدأ باليمين فأدخلت على الجزاء، صَارَت"اللام" الأولى بمنزلة يَمين، والثانية بمنزلة جواب لها، كما قيل:"لعمرك لتقومَنَّ" إذ كثرت"اللام" من"لعمرك"، حتى صارت كحرف من حروفه، فأجيب بما يجاب به الأيمان، إذ كانت"اللام" تنوب في الأيمان عن الأيمان، دون سائر الحروف، غير التي هي أحقُّ به الأيمان. فتدلّ على الأيمان وتعمل عمل الأجوبة، ولا تدلّ سائر أجوبة الأيمان لنا على الأيمان. [[قوله: "أجوبة الأيمان لنا على الأيمان" هذه عبارة غامضة، لم أظفر لها بوجه أرتضيه، وأنا لا أشك في تحريفها أو نقصها.]] فشبهت"اللام" التي في جواب الأيمان بالأيمان، لما وصفنا، فأجيبت بأجوبَتها.
+
+* *
+
+فكانَ مَعنى الكلام -إذ كان الأمر على ما وصفنا-: لو أتيتَ الذين أوتوا الكتاب بكل آية ما تبعوا قبلتك.
+
+* *
+
+وأما قوله:"وما أنتَ بتابع قِبلتهم"، يقول: وما لك من سبيل يا محمد إلى اتّباع قبلتهم. وذلك أن اليهود تستقبل بيت المقدس بصلاتها، وأن النصارى تستقبل المشرقَ، فأنَّى يكون لك السبيل إلى إتباع قِبلتهم. مع اختلاف وجوهها؟ يقول: فالزم قبلتَك التي أمِرت بالتوجه إليها، ودعْ عنك ما تقولُه اليهود والنصارى وتدعُوك إليه من قبلتهم واستقبالها.
+
+* *
+
+وأما قوله:"وما بعضهم بتابع قبلة بعض"، فإنه يعني بقوله: وما اليهود بتابعةٍ قبلةَ النصارى، ولا النصارى بتابعةٍ قبلة اليهود فمتوجِّهةٌ نحوها، كما:-
+
+٢٢٥٧- حدثني موسى بن هارون قال، حدثنا عمرو بن حماد قال، حدثنا أسباط، عن السدي:"وما بعضهم بتاع قبلة بعض"، يقول: ما اليهود بتابعي قبلة النصارى، ولا النصارى بتابعي قبلة اليهود. قال: وإنما أنزلت هذه الآية من أجل أن النبي ﷺ لما حُوِّل إلى الكعبة، قالت اليهود: إن محمدًا اشتاقَ إلى بلد أبيه ومولده! ولو ثبت على قبلتنا لكُنا نرجو أن يكون هو صاحبَنا الذي ننتظر! فأنزل الله عز وجل فيهم:"وإنّ الذين أوتوا الكتابَ ليعلمون أنه الحق من ربهم" إلى قوله:"ليكتمون الحق وهم يعلمون". [[الأثر: ٢٢٥٧- انظر ما مضى رقم: ٢٢٠٤.]]
+
+٢٢٥٨- حدثنا يونس قال، أخبرنا ابن وهب قال، قال ابن زيد في قوله:"وما بعضهم بتابع قبلةَ بعض"، مثل ذلك.
+
+* *
+
+وإنما يعني جل ثناؤه بذلك: أن اليهود والنصارى لا تجتمع على قبلة واحدة، مع إقامة كل حزب منهم على مِلَّتهم. فقال تعالى ذكره لنبيه محمد ﷺ: يا محمد، لا تُشعر نفسك رضَا هؤلاء اليهود والنصارى، فإنه أمر لا سبيل إليه. لأنهم مع اختلاف مللهم لا سبيل لكَ إلى إرضاء كل حزب منهم. من أجل أنك إن اتبعت قبلةَ اليهود أسخطتَ النصارى، وإن اتّبعت قبلة النصارى أسخطت اليهود، فدع ما لا سبيل إليه، وادعُهم إلى ما لهم السبيل إليه، من الاجتماع على مِلَّتك الحنيفيّة المسلمة، وقبلتِك قبلةِ إبراهيم والأنبياء من بعده.
 
 ### al-Muyassar (Arabic)
 
@@ -1356,9 +2106,17 @@ This Ayah relates to Allah's statement:
 
 ٢٣٠٨- حدثني موسى بن هارون قال، حدثنا عمرو بن حماد قال، حدثنا أسباط، عن السدي:"فلا تخشوْهم واخشوْني"، يقول: لا تخشوا أن أردَّكم في دينهم [[إلى هنا انتهى ما عثرنا عليه من الأوراق التي ذكرناها في ص: ١٨٩ تعليق: ١، وفي آخره ما نصه:
 
-"تَمَّ المجلد الثاني بعون الله تعالى، والصلاة على نبيّه محمد وآله وصح
+"تَمَّ المجلد الثاني بعون الله تعالى، والصلاة على نبيّه محمد وآله وصحبه وسلم. يتلوهُ في الثالث إن شاء الله تعالى، القول في تأويل قوله تعالى: (ولأُتِمَّ نِعْمَتِي عَلَيْكمْ وَلَعَلَّكُمْ تَهْتَدُون) إن شاء الله تعالى، وهو بقية الجزء السادس والعشرون؟؟ "]]
 
-[TRUNCATED at 12000 chars — 1133 more. Consult the source directly before relying on anything near the cut.]
+* *
+
+القول في تأويل قوله تعالى: ﴿وَلأتِمَّ نِعْمَتِي عَلَيْكُمْ وَلَعَلَّكُمْ تَهْتَدُونَ (١٥٠) ﴾
+
+قال أبو جعفر: يعني بقوله جل ثناؤه:"ولأتمَّ نعمتي عليكم"، ومن حيث خرجتَ من البلاد والأرض، وإلى أيّ بقعة شخصت [[في المطبوعة: "إلى أي بقعة"، بحذف الواو، والصواب ما أثبت.]] فولِّ وجهك شطر المسجد الحرام، وحيثُ كنت، يا محمد والمؤمنون، فولُّوا وجوهكم في صلاتكم شَطرَه، واتخذوه قبلة لكم، كيلا يكون لأحد من الناس -سوى مشركي قريش- حجةٌ، ولأتمّ بذلك =من هدايتي لكم إلى قبلة خليلي إبراهيم عليه السلام، الذي جعلته إمامًا للناس= نعمتي، فأكمل لكم به فضلي عليكم، وأتمم به شرائع ملتكم الحنيفية المسلمة التي وصيتُ بها نوحًا وإبراهيم وموسى وعيسى وسائر الأنبياء غيرهم. وذلك هو نعمته التي أخبر جل ثناؤه أنه متمُّها على رسوله ﷺ والمؤمنين به من أصحابه.
+
+* *
+
+وقوله:"ولعلكم تهتدون"، يعني: وكي ترشدوا للصواب من القبلة. [[انظر ما سلف في معنى"لعل" بمعنى"كي" ١: ٣٦٤ / ثم ٢: ٦٩، ٧٢، ١٦١.]] و"لعلكم" عطف على قوله:"ولأتم نعمتي عليكم"،"ولأتم نعمتي عليكم" عطف على قوله:"لئلا يكون".
 
 ### al-Muyassar (Arabic)
 
@@ -2364,9 +3122,251 @@ Allah states:
 
 ٢٣٣٥- حدثنا محمد بن عبد الملك بن أبي الشوارب قال، حدثنا يزيد بن زريع قال، حدثنا داود، عن الشعبي: أن وَثَنًا كان في الجاهلية على الصفا يسمى"إسافًا"، [[في المطبوعة: "إساف"، والصواب ما أثبت، فهو غير ممنوع من الصرف.]] ووثنًا على المرْوة يسمى"نائلة"، فكان أهل الجاهلية إذا طافوا بالبيت مَسحوا الوثَنين. فلما جاء الإسلام وكُسرت الأوثان، قال المسلمون: إنّ الصفا والمرْوة إنما كانَ يُطاف بهما من أجل الوَثنين، وليس الطواف بهما من الشعائر! قال: فأنزل الله: إنهما من الشعائر،"فمن حَجّ البيتَ أو اعتمر فلا جُناحَ عليه أن يطوّف بهما".
 
-٢٣٣٦- حدثنا محمد بن المثنى قال، حدثنا عبد الوهاب قال، حدثنا داود، عن عامر قال: كان صنم بالصفا يدعى"إسافًا"، [[في المطبوعة: "إساف"، والصواب ما أثبت، فهو غير ممنوع من الصرف.]] ووثَن بالمروة يدعى"نائلة"، ثم ذكر نحو حديث ابن أبي الشوارب - وزاد فيه، قال: فذكِّر الصفا من أجل الوثن الذي كان عليه، وأنِّت المروة من أجل الوثن الذي كان عليه مؤنثًا. [[الأثر: ٢٣٣٦- هكذا جاء هذا الأثر في الدر المنثور ١: ١٦٠، و
+٢٣٣٦- حدثنا محمد بن المثنى قال، حدثنا عبد الوهاب قال، حدثنا داود، عن عامر قال: كان صنم بالصفا يدعى"إسافًا"، [[في المطبوعة: "إساف"، والصواب ما أثبت، فهو غير ممنوع من الصرف.]] ووثَن بالمروة يدعى"نائلة"، ثم ذكر نحو حديث ابن أبي الشوارب - وزاد فيه، قال: فذكِّر الصفا من أجل الوثن الذي كان عليه، وأنِّت المروة من أجل الوثن الذي كان عليه مؤنثًا. [[الأثر: ٢٣٣٦- هكذا جاء هذا الأثر في الدر المنثور ١: ١٦٠، وصواب عبارته فيما أرجح، أن يحذف"مؤنثًا"، أو أن يقال: "من أجل أن الوثن الذي كان عليه كان مذكرًا، وأنث المروة من أجل أن الوثن الذي كان عليه كان مؤنثًا".]]
 
-[TRUNCATED at 12000 chars — 27079 more. Consult the source directly before relying on anything near the cut.]
+٢٣٣٧- حدثني يعقوب بن إبراهيم قال، حدثنا ابن علية، عن داود بن أبي هند، عن الشعبي، وذكر نحو حديث ابن أبي الشوارب عن يزيد، وزاد فيه - قال: فجعله الله تطوُّعَ خير.
+
+٢٣٣٨- حدثني يعقوب قال، حدثنا ابن أبي زائدة قال، أخبرني عاصم الأحول قال، قلت لأنس بن مالك: أكنتم تكرهون الطواف بين الصفا والمرْوة حَتى نزلت هذه الآية؟ فقال: نعم كنا نكره الطواف بَينهما لأنهما من شعائر الجاهلية، حتى نزلت هذه الآية:"إنّ الصفا والمروة من شعائر الله". [[الحديث: ٢٣٣٨- يعقوب: هو ابن إبراهيم الدورقي. ابن أبي زائدة: هو يحيى بن زكريا بن أبي زائدة الهمداني الوادعي، وهو حافظ ثقة، يقرن بابن المبارك. يقولون: إنه أول من صنف الكتب بالكوفة، مات سنة ١٨٣. مترجم في التهذيب، والكبير ٤/٢/٢٧٣-٢٧٤. والصغير، ص: ٢٠٦، وابن سعد: ٦: ٢٧٤، وابن أبي حاتم ٤/٢/١٤٤-١٤٥، وتذكرة الحفاظ ١: ٢٢٦-٢٤٧.
+
+عاصم: هو ابن سليمان الأحول، مضى في: ١٨٤، وهو من صغار التابعين. وعده سفيان الثوري أحفظ ثلاثة في البصرة. مترجم في التهذيب، وابن سعد ٧/٢/٢٠-٦٥، وابن أبي حاتم ٣/١/٣٤٣-٣٤٤.
+
+والحديث رواه البخاري ٣: ٤٠٢ (فتح) ، من طريق عبد الله، وهو ابن المبارك، عن عاصم الأحول، بنحوه. ورواه أيضًا مسلم، والترمذي، والنسائي. كما في القسطلاني ٣: ١٥٣-١٥٤.]]
+
+٢٣٣٩- حدثني علي بن سهل الرملي قال، حدثنا مؤمل بن إسماعيل قال، حدثنا سفيان، عن عاصم قال، سألت أنسًا عن الصفا والمروة، فقال: كانتا من مَشاعر الجاهلية، فلما كان الإسلام أمسكوا عنهما، فنزلت:"إن الصفا والمرْوَة من شَعائر الله". [[الحديث: ٢٣٣٩- سفيان: هو الثوري. والحديث مختصر ما قبله. ورواه البخاري مختصرًا ٨: ١٣٢ (فتح) ، عن محمد بن يوسف، عن سفيان. ورواه الحاكم ٢: ٢٧٠، من طريق حسين بن حفص، عن سفيان. وقال: "هذا حديث صحيح على شرط الشيخين، ولم يخرجاه". ووافقه الذهبي. وأخطأ الحاكم في استدراكه، فقد رواه البخاري. كما ذكرنا قبل.
+
+وسيأتي بعض معناه مختصرًا: ٢٣٤٦، ٢٣٤٧، من رواية جرير، عن عاصم، عن أنس.]]
+
+٢٣٤٠- حدثني عبد الوارث بن عبد الصمد بن عبد الوارث قال، حدثني أبو الحسين المعلم قال، حدثنا شيبان أبو معاوية، عن جابر الجعفي، عن عمرو بن حبشي قال، قلت لابن عمر:"إنّ الصفا والمروة من شعائر الله فمن حَج البيتَ أو اعتمر فَلا جُناحَ عليه أنْ يَطَّوَّف بهما" قال، انطلق إلى ابن عباس فاسأله، فإنه أعلم من بقي بما أنزل على محمد ﷺ. فأتيته فسألته، فقال: إنه كان عندهما أصنامٌ، فلما حُرِّمْن أمسكوا عن الطواف بينهما، حتى أنزلت:"إنّ الصفا والمروة من شعائر الله فمن حَج البيت أو اعتمر فلا جُناح عليه أنْ يَطَّوَّفَ بهما" [[الحديث: ٢٣٤٠- عبد الوارث بن عبد الصمد بن عبد الوارث بن سعيد العنبري: ثقة، من شيوخ مسلم والترمذي والنسائي وأبي حاتم وغيرهم. مترجم في التهذيب، وابن أبي حاتم ٣/١/٧٦.
+
+حسين المعلم: هو حسين بن محمد بن بهرام التميمي المروذي، المؤدب، كما لقب بذلك في التهذيب، وهو"المعلم" أيضًا، كما لقبه بذلك البخاري وابن أبي حاتم، وهو ثقة من شيوخ أحمد ويحيى والأئمة. مترجم في التهذيب، والكبير ١/٢/٣٨٦-٣٨٧، وابن سعد ٧/٢/٧٩، وابن أبي حاتم ١/٢/٦٤. وتاريخ بغداد ٨: ٨٨-٩٠، وكان معروفًا برواية"تفسير شيبان النحوي". فروى ابن أبي حاتم عن أبيه قال، "أتيته مرارًا بعد فراغه من تفسير شيبان، وسألته أن يعيد على بعض المجلس، فقال: بكر، بكر. ولم أسمع منه شيئًا".
+
+ومما يوقع في الوهم، الاشتباه بين"عبد الوارث بن عبد الصمد". وشيخه"حسين المعلم" هذا - وبين"عبد الوارث بن سعيد"، وشيخه"حسين المعلم" أيضًا.
+
+ف"عبد الوارث" -شيخ الطبري- هو الذي ترجمنا له هنا. وشيخه"حسين بن محمد المروذي". و"عبد الوارث بن سعيد" - هو جد"عبد الوارث" هذا. و"حسين المعلم" هو"حسين بن ذكوان المعلم"، وهو قديم، يروي عن التابعين.
+
+شيبان أبو معاوية: "هو شيبان بن عبد الرحمن التميمي النحوي؛ وهو إمام حجة حافظ، حدث عند أبو حنيفة، وهو من أقرانه. وروى عنه الأئمة: الطيالسي، وابن مهدي، وغيرهما. مترجم في التهذيب. والكبير ٢/٢/٢٥٥، وابن سعد ٦: ٢٦٢، و ٧/٢/٦٧-٦٨ وابن أبي حاتم ١/١/٣٥٥-٣٥٦، وتاريخ بغداد ٩: ٢٧١-٢٧٤، وتذكرة الحفاظ ١: ٢٠٢-٢٠٣.
+
+ووقع في المطبوعة غلط في اسمه واسم الراوي عنه: فذكر"أبو الحسين المعلم"! وهو تخليط، وذكر"سنان أبو معاوية"! وهو فوق ذلك تصحيف.
+
+جابر الجعفي، بضم الجيم وسكون العين المهملة: وهو جابر بن يزيد بن الحارث، وهو ضعيف جدًا، رمي بالكذب. مترجم في التهذيب، والكبير ١/٢/٢١٠، والضعفاء للبخاري، ص: ٧. والنسائي، ص: ٧، وابن أبي حاتم ١/١/٤٩٧-٤٩٨، والمجروحين لابن حبان، رقم: ١٧٥، ص ١٤٠-١٤١. والميزان ١: ١٧٦-١٧٨.
+
+عمرو بن حبشي، بضم الحاء المهملة وسكون الباء الموحدة وكسر الشين المعجمة: تابعي ثقة، مترجم في التهذيب. وابن أبي حاتم ٣/١/٢٢٦.
+
+وهذا الحديث -الضعيف الإسناد- لم أجده إلا في هذا الموضع. وذكره السيوطي ١: ١٥٩، ولم ينسبه إلا إلى الطبري.]] .
+
+٢٣٤١- حدثني المثنى قال، حدثنا عبد الله بن صالح قال، حدثني معاوية بن صالح، عن علي بن أبي طلحة، عن ابن عباس قوله:"إنّ الصفا والمروة من شَعائر الله"، وذلك أنّ ناسًا كانوا يتحرجون أن يَطوفوا بين الصفا والمروة، فأخبر الله أنهما من شعائره، والطواف بينهما أحبُّ إليه، فمضت السُّنة بالطَّواف بينهما.
+
+٢٣٤٢- حدثني موسى قال، حدثنا عمرو قال، حدثنا أسباط، عن السدي:"إنّ الصفا والمروة من شَعائر الله فمن حَج البيت أو اعتمر فلا جُناح عليه أن يطوَّف بهما" قال، زعم أبو مالك، عن ابن عباس: أنه كانَ في الجاهلية شَياطين تعزِفُ الليل أجمعَ بين الصفا والمروة، وكانت بَينهما آلهة، فلما جاء الإسلام وظَهر، قال المسلمون: يا رَسولَ الله، لا نطوف بين الصفا والمروة، فإنه شركٌ كنا نفعله في الجاهلية! فأنزل الله:"فلا جُناح عليه أن يطوَّف بهما". [[الحديث: ٢٣٤٢- هذا الإسناد، هو من أسانيد تفسير السدي الثلاثة، وقد فصلنا القول فيها، في: ١٦٨.
+
+والحديث رواه أبو بكر بن أبي داود في كتاب المصاحف، ص: ١٠٠-١٠١، عن الحسين بن علي بن مهران، عن عامر بن الفرات، عن أسباط، بهذا الإسناد، نحوه.
+
+وفي إسناد ابن أبي داود فائدة جديدة: أن هناك راويًا لتفسير السدي، غير"عمرو بن طلحة القناد" راويه عن أسباط بن نصر. فها هو ذا عامر بن الفرات يروي شيئًا منه عن أسباط أيضًا. و"عامر بن الفرات": لم أجد له ترجمة أصلا. ومن عجب أن يذكره ابن أبي حاتم، في ترجمة"الحسين بن علي بن مهران" ١/٢/٥٦ - شيخًا له، ثم لا يترجم له في بابه!
+
+ورواه أيضًا الحاكم ٢: ٢٧١، من طريق عمرو بن طلحة القناد، عن أسباط. بهذا الإسناد نحوه. وزاد في آخره: "يقول: عليه إثم ولكن له أجر". وقال الحاكم: "هذا حديث صحيح على شرط مسلم، ولم يخرجاه". ووافقه الذهبي.
+
+ولنا على الحاكم والذهبي في هذا استدراك، هو: أن أبا مَالك -التابعي راويه عن ابن عباس - وهو"غزوان الغفاري": لم يرو له مسلم في صحيحه أصلا. فلا يكون الحديث على شرط مسلم، في اصطلاح الحاكم!
+
+وفي رواية الحاكم -هذه- فائدة أيضًا: أنا ظننا عند الكلام على أسانيد تفسير السدي الثلاثة، أن الحاكم اختار منها إسنادين فقط، ولكن أظهرنا هذا الإسناد على أنه صحح الثلاثة الأسانيد.
+
+والحديث ذكره السيوطي ١: ١٥٩، وزاد نسبته لابن أبي حاتم أيضًا.]]
+
+٢٣٤٣- حدثني يعقوب بن إبراهيم قال، حدثنا ابن علية، عن ابن أبي نجيح، عن مجاهد في قوله:"إنّ الصفا والمروة من شعائر الله" قال، قالت الأنصار: إنّ السَّعي بين هذين الحجرين من أمر الجاهلية! فأنزل الله تعالى ذكره:"إنّ الصفا والمروة من شَعائر الله"
+
+٢٣٤٤- حدثني محمد بن عمرو قال، حدثنا أبو عاصم قال، حدثنا عيسى، عن أبن أبي نجيح، عن مجاهد نحوه.
+
+٢٣٤٥- حدثني يونس قال، أخبرنا ابن وهب قال، قال ابن زيد في قوله:"فلا جُناح عليه أن يَطَّوَّف بهما" قال، كان أهل الجاهلية قد وَضَعوا على كل واحد منهما صَنمًا يعظمونهما، فلما أسلم المسلمون كرِهوا الطواف بالصفا والمروة لمكان الصنمين، فقال الله تعالى:"إن الصفا والمروةَ من شَعائر الله فمن حج البيتَ أو اعتمر فلا جُناح عليه أن يطَّوَّف بهما"، وقرأ: ﴿وَمَنْ يُعَظِّمْ شَعَائِرَ اللَّهِ فَإِنَّهَا مِنْ تَقْوَى الْقُلُوبِ﴾ [سورة الحج: ٣٢] ، وسَن رسول الله ﷺ الطواف بهما.
+
+٢٣٤٦- حدثنا ابن حميد قال، حدثنا جرير، عن عاصم قال، قلت لأنس: الصفا والمروة، أكنتم تكرَهون أن تطوفوا بهما مع الأصنام التي نُهيتم عنها؟ قال: نعم، حتى نزلت:"إنّ الصفا والمروة من شعائر الله".
+
+٢٣٤٧- حدثنا ابن حميد قال، حدثنا جرير قال، أخبرنا عاصم قال، سمعت أنس بن مالك يقول: إنّ الصفا والمروة من مَشاعر قُريش في الجاهلية، فلما كان الإسلام تَركناهما. [[الحديثنان: ٢٣٤٦-٢٣٤٧- جرير: هو ابن عبد الحميد الضبي، وهو ثقة حجة حافظ. مترجم في التهذيب، والكبير ١/٢/٢١٤، وابن سعد ٧/٢/١١٠، وابن أبي حاتم ١/١/٥٠٥-٥٠٧. وتاريخ بغداد ٧: ٢٥٣-٢٦١، وتذكرة الحفاظ ١: ٢٥٠.
+
+والحديثان مضى معناهما، من رواية عاصم عن أنس: ٢٣٣٨، ٢٣٣٩.]]
+
+* *
+
+وقال آخرون: بل أنزل الله تعالى ذكره هذه الآية، في سَبب قوم كانوا في الجاهلية لا يَسعوْن بينهما، فلما جاء الإسلام تخوَّفوا السعي بينهما كما كانوا يتخوَّفونه في الجاهلية.
+
+ذكر من قال ذلك:
+
+٢٣٤٨- حدثنا بشر بن معاذ قال، حدثنا يزيد، عن سعيد، عن قتادة، قوله:"إنّ الصفا والمرْوَة من شعائر الله" الآية، فكان حَيٌّ من تهامة في الجاهلية لا يسعون بينهما، فأخبرهم الله أنّ الصفا والمروة من شعائر الله، وكانَ من سُنة إبراهيم وإسماعيلَ الطواف بينهما.
+
+٢٣٤٩- حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا معمر، عن قتادة قال، كان ناس من أهل تِهامة لا يطوفون بين الصفا والمروة، فأنزل الله:"إنّ الصفا والمروة من شعائر الله".
+
+٢٣٥٠- حدثني المثنى قال، حدثنا عبد الله بن صالح قال، حدثني الليث قال، حدثني عقيل، عن ابن شهاب قال، حدثني عروة بن الزبير قال، سألت عائشة فقلت لها: أرأيتِ قول الله:"إنّ الصفا والمروة من شعائر الله فمن حَجّ البيتَ أو اعتمر فَلا جُناح عليه أن يطَّوَّف بهما"؟ وقلت لعائشة: وَالله ما على أحدٍ جناح أن لا يطوف بالصفا والمروة؟ فقالت عائشة: بئس ما قلت يا ابن أختي، إنّ هذه الآية لو كانت كما أوَّلتها كانت: لا جُناح عليه أن لا يطوَّف بهما، ولكنها إنما أنزلت في الأنصار: كانوا قبل أن يُسلموا يُهلُّون لمَناةَ، الطاغيةَ التي كانوا يعبدون بالمشلَّلِ، وكان من أهلَّ لها يتحرَّج أن يَطُوف بين الصفا والمروة، فلما سألوا رسول الله ﷺ عن ذلك - فقالوا: يا رسول الله إذا كنا نتحرج أن نَطُوف بين الصفا والمروة - أنزل الله تعالى ذكره:"إنّ الصفا والمروَة من شعائر الله فمن حَجّ البيتَ أو اعتمرَ فلا جُناح عليه أن يطَّوَّف بهما". قالت عائشة: ثم قد سَن رَسول الله ﷺ الطواف بينهما، فليس لأحد أن يَترك الطواف بَينهما. [[الحديث: ٢٣٥٠- عقيل- بضم العين: هو ابن خالد الأيلي، وهو ثقة ثبت حجة، قال ابن معين: "أثبت من روى عن الزهري: مالك، ثم معمر، ثم عقيل". مترجم في التهذيب، والكبير ٤/١/٩٤، وابن أبي حاتم ٣/٢/٤٣.
+
+عروة بن الزبير بن العوام: تابعي ثقة فقيه عالم ثبت مأمون، قال أبو الزناد: "كان فقهاء أهل المدينة أربعة: سعيد بن المسيب، وعروة بن الزبير، وقبيصة بن ذؤيب، وعبد الملك بن مروان". وأمه أسماء ذات النطاقين بنت أبي بكر الصديق، وعائشة أم المؤمنين خالته، رضي الله عنهم. مترجم في التهذيب، والكبير ٤/١/٣١-٣٢، وابن سعد ٢/٢/١٣٤-١٣٥، و ٥: ١٣٢-١٣٥، وابن أبي حاتم ٣/١/٣٩٥-٣٩٦، وتذكرة الحفاظ ١: ٥٨-٥٩، وتاريخ الإسلام ٣: ٣١-٣٤.
+
+والحديث -من هذا الوجه- رواه مسلم ١: ٣٦٢، من طريق عقيل، عن ابن شهاب، وهو الزهري ولم يذكر لفظه كله، إحالة على روايات قبله.
+
+ورواه البخاري ٣: ٣٩٧-٤٠١، مطولا، من طريق شعيب، عن الزهري، باللفظ الذي هنا، إلا خلافًا في أحرف يسيرة: "فلما سألوا رسول الله ﷺ عن ذلك فقالوا. . . أنزل الله. . . " ففي البخاري: "فلما أسلموا سألوا. . . قالوا. . . فأنزل الله. . . ". ولكن زاد البخاري في آخره قول الزهري أنه ذكر ذلك لأبي بكر بن عبد الرحمن - الذي سيأتي في الرواية التالية لهذه، بنحو معناه.
+
+وثبت من أوجه كثيرة، عن الزهري، عن عروة، مطولا ومختصرًا:
+
+فرواه مالك في الموطأ، ص: ٣٧٣، عن هشام بن عروة، عن أبيه. ورواه البخاري ٨: ١٣٢. وابن أبي داود في المصاحف، ص ١٠٠ -ولم يذكر لفظه- كلاهما من طريق مالك.
+
+ورواه أحمد في المسند ٦: ١٤٤، ٢٢٧ (حلبي) ، من طريق إبراهيم بن سعد، عن الزهري. وكذلك رواه ابن أبي داود، ص: ١٠٠ -ولم يذكر لفظه- من طريق إبراهيم بن سعد.
+
+ورواه مسلم مطولا ١: ٣٦١-٣٦٢، من طريق سفيان بن عيينة، عن الزهري. وكذلك رواه البخاري ٨: ٤٧٢، من طريق سفيان. ولكنه اختصره جدًا.
+
+ورواه مسلم وابن أبي داود - قبل ذلك وبعده: من أوجه كثيرة.
+
+وذكره السيوطي ١: ١٥٩، وزاد نسبته إلى أبي داود، والنسائي، وابن ماجه، وابن الأنباري في المصاحف، وابن أبي حاتم، والبيهقي في السنن.
+
+وانظر الحديث التالي لهذا.
+
+قوله"يهلون لمناة": أي يحجون. ومناة، بفتح الميم والنون الخفيفة: صنم كان في الجاهلية. وقال ابن الكلبي: كانت صخرة نصبها عمرو بن لحي لهذيل، وكانوا يعبدونها. والطاغية: صفة لها إسلامية. قاله الحافظ في الفتح.
+
+"المشلل": بضم الميم وفتح الشين المعجمة ولامين، الأولى مفتوحة مثقلة، هي الثنية المشرفة على قديد، وقديد، بضم القاف ودالين مهملتين، مصغرًا: قرية جامعة بين مكة والمدينة، كثيرة المياه. عن الفتح.]]
+
+٢٣٥١- حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا معمر، عن الزهري، عن عروة، عن عائشة قالت: كان رجالٌ من الأنصار مِمَّن يُهلُّ لمناةَ في الجاهلية -و"مناةُ" صنمٌ بين مكة والمدينة- قالوا: يا نبيّ الله، إنا كنا لا نطوفُ بين الصفا والمروة تعظيمًا لمناة، فهل علينا من حَرَج أن نَطوف بهما؟ فأنزل الله تعالى ذكره:"إنّ الصفا والمروةَ من شعائر الله فمن حج البيتَ أو اعتمرَ فلا جناح عليه أن يطوف بهما". قال عروة: فقلت لعائشة: ما أبالي أن لا أطوف بين الصفا والمروة! قال الله:"فلا جُناح عليه". قالت: يا ابن أختي، ألا ترى أنه يقول:"إن الصفا والمروة من شَعائر الله"! قال الزهري: فذكرت ذلك لأبي بكر بن عبد الرحمن بن الحارث بن هشام فقال: هذا العلم! قال أبو بكر: ولقد سمعتُ رجالا من أهل العلم يقولون: لما أنزل الله الطوافَ بالبيت ولم يُنزل الطواف بين الصفا والمروة، قيل للنبي ﷺ: إنا كنا نطوفُ في الجاهلية بين الصفا والمروة، وإنّ الله قد ذكر الطواف بالبيت ولم يذكر الطوافَ بين الصفا والمروةَ، فهل علينا من حرج أن لا نَطوفَ بهما؟ فأنزل الله تعالى ذكره:"إنّ الصفا والمروةَ من شعائر الله" الآية كلها، قال أبو بكر: فأسمعُ أن هذه الآية نزلت في الفريقين كليهما، فيمن طَافَ وفيمن لم يَطُف. [[الحديث: ٢٣٥١- هو تكرار للحديث السابق بمعناه، من وجه آخر صحيح، عن الزهري. وفيه زيادة قول الزهري أنه ذكر ذلك لأبي بكر بن عبد الرحمن بن الحارث بن هشام، إلخ. وهذه الزيادة ذكرها البخاري، في روايته من طريق شعيب عن الزهري، كما قلنا آنفًا.
+
+ورواية معمر عن الزهري - هذه: ذكر البخاري بعضها تعليقًا ٨: ٤٧٢، فقال: "قال معمر عن الزهري. . . ". وقال الحافظ: "وصله الطبري، عن الحسن بن يحيى، عن عبد الرزاق، مطولا". فهذه إشارة إلى الرواية التي هنا، وأشار إليها في الفتح ٣: ٣٩٩، وذكر أنه وصلها أحمد وغيره.
+
+وقد رواها أيضًا ابن أبي داود في المصاحف، ص: ١٠٠، عن"خشيش بن أصرم، والحسن بن أبي الربيع، أن عبد الرزاق أخبرهم عن معمر. . . ". ولم يسق لفظ الحديث، إحالة على ما قبله. و"خشيش": بضم الخاء وفتح الشين وآخره شين، معجمات كلها. و"الحسن بن أبي الربيع": هو"الحسن بن يحيى" شيخ الطبري، كنية أبيه"أبو الربيع". وخلط المستشرق طابع كتاب المصاحف: فكتب"حشيش" بالحاء المهملة! وكتب"الحسن بن أبي الربيع بن عبد الرزاق"!!
+
+و"أبو بكر بن عبد الرحمن بن الحارث بن هشام" المخزومي القرشي المدني: من كبار التابعين الأئمة، ومن سادات قريش. وهو أحد الفقهاء السبعة. مترجم في التهذيب، والكنى للبخاري، رقم: ٥١، وابن سعد ٢/٢/١٣٣، و ٥: ١٥٣-١٥٤، وتذكرة الحفاظ ١: ٥٩-٦٠، وتاريخ الإسلام ٤: ٧٢-٧٣.
+
+وقول أبي بكر بن عبد الرحمن"فأسمع أن هذه الآية نزلت. . . " - إلخ: هو في رواية البخاري أيضًا ٣: ٤٠١، وقال الحافظ: "كذا في معظم الروايات، بإثبات الهمزة وضم العين، بصيغة المضارعة للمتكلم. وضبطه الدمياطي في نسخته [يعني من صحيح البخاري] بالوصل وسكون العين. بصيغة الأمر، والأول أصوب، فقد وقع في رواية سفيان المذكورة: فأراها نزلت. وهو بضم الهمزة، أي أظنها".
+
+وانظر كثيرًا من طرق هذا الحديث أيضًا، في السنن الكبرى للبيهقي ٥: ٩٦-٩٧.]]
+
+٢٣٥٢- حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا معمر، عن قتادة قال: كانَ ناسٌ من أهل تهامة لا يَطوفون بين الصفا والمروة، فأنزل الله:"إنّ الصفا والمرْوَة من شعائر الله". [[الأثر: ٢٣٥٢- كان في المطبوعة: "حدثنا الحسن بن يحيى، قال أخبرنا معمر" بإسقاط"أخبرنا عبد الرزاق قال"، وهو إسناد دائر في التفسير، وهو مكرر رقم: ٢٣٤٩ بنصه، وأخشى أن يكون زيادة ناسخ سها.]]
+
+* *
+
+قال أبو جعفر: والصواب من القول في ذلك عندنا أن يقال: إنّ الله تعالى ذكره قد جعل الطواف بين الصفا والمروة من شعائر الله، كما جعل الطواف بالبيت من شعائره.
+
+فأما قوله:"فلا جناحَ عليه أن يطَّوَّف بهما"، فجائزٌ أن يكون قيل لكلا الفريقين اللذين تخوَّف بعضهم الطواف بهما من أجل الصنمين اللذين ذكرهما الشعبي، وبَعضُهم من أجل ما كان من كراهتهم الطواف بهما في الجاهلية، على ما رُوي عن عائشة.
+
+وأيُّ الأمرين كان من ذلك، فليس في قول الله تعالى ذكره:"فلا جُناح عليه أن يطَّوَّف بهما"، الآية، دلالةٌ على أنه عَنى به وَضعَ الحرَج عَمن طاف بهما، من أجل أن الطواف بهما كان غير جائزٍ بحظر الله ذلك، ثم جُعل الطواف بهما رُخصة، لإجماع الجميع على أن الله تعالى ذكره لم يحظُر ذلك في وقت، ثم رخص فيه بقوله:"فلا جناح عليه أن يطَّوَّف بهما".
+
+* *
+
+وإنما الاختلافُ في ذلك بين أهل العلم على أوجُهٍ. فرأى بعضُهم أن تارك الطواف بينهما تاركٌ من مَناسك حجه ما لا يُجزيه منه غيرُ قَضَائه بعينه، كما لا يُجزى تارك الطواف -الذي هو طَواف الإفاضة- إلا قضَاؤه بعينه. وقالوا: هما طَوافانَ: أمرَ الله بأحدهما بالبيت، والآخرُ بينَ الصفا والمروة.
+
+* *
+
+ورأى بعضهم أن تارك الطواف بهما يُجزيه من تَركه فِدية، ورأوا أن حُكم الطواف بهما حُكمُ رَمي بعض الجمرات، والوقوف بالمشعر، وطَواف الصَّدر وما أشبه ذلك، مما يُجزى تاركه من تَرْكه فِديةٌ، ولا يلزمه العَوْد لقضَائه بعينه.
+
+* *
+
+ورأى آخرون أنّ الطواف بهما تطوع، إن فعله صاحبه كان مُحسنًا، وإن تَرَكه تاركٌ لم يلزمه بترْكه شيء. [[في المطبوعة: "لم يلزمه بتركه شيء والله تعالى أعلم"، وهذه لا شك زيادة من ناسخ.]]
+
+* *
+
+ذكر من قال: إن السعي بين الصفا والمروة واجبٌ ولا يجزي منه فدية، ومن تركه فعليه العَوْد. [[في المطبوعة: "فعليه العودة"، والأجود ما أثبت، وهو أشبه بعبارة الطبري وأقرانه من فقهاء عصره. وسيأتي كذلك بعد مرات في عبارته الآتية، وكأن هذه من تصرف ناسخ أو طابع.]]
+
+٢٣٥٣- حدثنا أبو كريب قال، حدثنا وكيع، عن هشام بن عروة، عن أبيه، عن عائشة قالت: لَعمري ما حَجّ من لم يَسع بين الصفا والمروة، لأن الله قال:"إن الصفا والمروة من شعائر الله".
+
+٢٣٥٣م- حدثني يونس قال، أخبرنا ابن وهب قال، قال مالك بن أنس: مَنْ نسي السعي بين الصفا والمروة حتى يستبعد من مكة، فليرجع فَليسْع، وإن كان قد أصاب النساء فعليه العمرَة والهدي. [[انظر لفظ مالك في الموطأ: ٣٧٤-٣٧٥.]]
+
+* *
+
+وكان الشافعي يقول: عَلى مَنْ تَرَك السعي بين الصفا والمروةَ حتى رجع إلى بلده، العود إلى مكة حتى يَطوف بينهما، لا يجزيه غير ذلك. [[انظر لفظ الشافعي في الأم ٢: ١٧٨.]]
+
+٢٣٥٤- حدثنا بذلك عنه الربيع.
+
+* *
+
+ذكر من قال: يجزي منه دم، وليس عليه عودٌ لقضائه.
+
+قال الثوري بما:-
+
+٢٣٥٥- حدثني به علي بن سهل، عن زيد بن أبي الزرقاء، عنه، وأبو حنيفة وأبو يوسف ومحمد: إن عَاد تاركُ الطوافَ بينهما لقضائه فحسن، وإن لم يعُدْ فعليه دمٌ.
+
+* *
+
+ذكر من قال: الطوافُ بينهما تطوّعٌ، ولا شيء على من تركه، ومنْ كان يقرأ: ﴿فلا جناح عليه أن لا يطوف بهما﴾
+
+٢٣٥٦- حدثنا محمد بن بشار قال، حدثنا أبو عاصم قال، حدثنا ابن جريج قال، قال عطاء: لو أن حاجًّا أفاضَ بعدما رمى جمرة العقبة، فطاف بالبيت ولم يَسع، فأصابها -يعني: امرأته- لم يكن عليه شيء، لا حجٌّ ولا عمرة، من أجل قول الله في مصحف ابن مسعود:"فمنْ حَج البيتَ أو اعتمر فَلا جُناح عليه أن لا يَطَّوَّفَ بهما". فعاودته بعد ذلك فقلت: إنه قد ترك سُنة النبي ﷺ، قال: ألا تسمعه يقول:"فمن تَطوَّع خَيرًا"، فأبى أن يجعل عليه شيئًا؟
+
+٢٣٥٧- حدثني يعقوب بن إبراهيم قال، حدثنا هشيم قال، أخبرنا عبد الملك، عن عطاء، عن ابن عباس أنه كان يقرأ:"إن الصفا والمروَة منْ شعائر الله" الآية"فلا جُناح عليه أنْ لا يَطَّوَّف بهما".
+
+٢٣٥٨- حدثني علي بن سهل قال، حدثنا مؤمل قال، حدثنا سفيان، عن عاصم قال: سمعت أنسًا يقول: الطواف بينهما تطوع.
+
+٢٣٥٩- حدثني المثنى قال، حدثنا حجاج قال، حدثنا حماد قال، أخبرنا عاصم الأحول قال، قال أنس بن مالك: هما تطُّوع.
+
+٢٣٦٠- حدثني محمد بن عمرو قال، حدثنا أبو عاصم قال، حدثنا عيسى، عن ابن أبي نجيح، عن مجاهد نحوه.
+
+٢٣٦١- حدثني المثنى قال، حدثنا أبو حذيفة قال، حدثنا شبل، عن ابن أبي نجيح، عن مجاهد:"إن الصفا والمروة من شعائر الله فمنْ حَجّ البيتَ أو اعتمر فلا جناح عليه أن يَطَّوفَ بهما" قال، فلم يُحرِّج من لم يَطُفْ بهما.
+
+٢٣٦٢- حدثنا المثنى قال، حدثنا حجاج قال، حدثنا أحمد، عن عيسى بن قيس، عن عطاء، عن عبد الله بن الزبير قال: هما تطوع. [[الخبر: ٢٣٦٢- عيسى بن قيس، الراوي عن عطاء: لم أستطع اليقين به. ففي ابن أبي حاتم ٣/١/٢٨٤ ترجمتان: "عيسى بن قيس"، روى عن سعيد بن المسيب، وروى عنه الليث. و"عيسى بن قيس السلمي"، روى عنه هشيم. ولم يذكر عنهما شيئا آخر. إلا أن الأول مجهول. فمن المحتمل أن يكون الراوي هنا أحدهما. فإن عطاء بن أبي رباح مات سنة ١١٤، فالراوي عن سعيد بن المسيب -المتوفي سنة ٧٣- محتمل جدًا أن يروي عن عطاء. والليث وهشيم متقاربا الطبقة، مات الليث سنة ١٧٥، وهشيم سنة ١٨٣. وأما"أحمد" الراوي هنا عن"عيسى بن قيس" - فلم أستطع معرفته.
+
+ثم ترجح عندي أن"حجاجًا" - في هذا الإسناد: هو"حجاج بن الشاعر". وهو: حجاج بن يوسف بن حجاج الثقفي البغدادي، عرف بابن الشاعر، لأن أباه يوسف كان شاعرًا صحب أبا نواس، وحجاج هذا: ثقة، من شيوخ مسلم وأبي داود وغيرهما، قال ابن أبي حاتم: "كان من الحفاظ، ممن يحسن الحديث ويحفظه. مترجم في التهذيب، وابن أبي جاتم ١/٢/١٦٨، وتاريخ بغداد ٨: ٢٤٠-٢٤١، وتذكرة الحفاظ ٢: ١١٧-١١٨.
+
+وأن شيخه"أحمد": هو أحمد بن عبد الله بن يونس، وهو ثقة متقن حافظ، من شيوخ البخاري ومسلم، سماه الإمام أحمد"شيخ الإسلام". وقد مضت الإشارة إليه: ٢١٤٤.
+
+فإن يكن الإسناد هكذا، على ما رجحنا، يكن"عيسى بن قيس" محرفًا، صوابه"عمر بن قيس"، وهو المكي المعروف بـ "سندل" - بفتح السين والدال المهملتين بينهما نون ساكنة. وهو ضعيف جدًا، منكر الحديث كما قال البخاري. وقال ابن عدي: "هو ضعيف بإجماع، لم يشك أحد فيه، وقد كذبه مالك". وهو مترجم في التهذيب. والصغير للبخاري، ص: ١٩٠، والضعفاء له، ص: ٢٥، والنسائي ص: ٢٤، وابن سعد ٥: ٣٥٨، وابن أبي حاتم ٣/١/١٢٩-١٣٠.
+
+وأنا أرجح أن يكون هذا الإسناد على هذا النحو، ولكني لا أستطيع الجزم بذلك، ولا تغيير اسم"عيسى بن قيس" - حتى أستبين بدليل آخر.]]
+
+٢٣٦٤- حدثنا ابن حميد قال، حدثنا جرير، عن عاصم قال: قلت لأنس بن مالك: السعي بين الصفا والمروة تطوُّع؟ قال: تطوعٌ.
+
+* *
+
+والصواب من القول في ذلك عندنا أنّ الطواف بهما فرض واجب، وأن على من تركه العوْد لقضائه، ناسيًا كان، أو عامدًا. لأنه لا يُجزيه غير ذلك، لتظاهر الأخبار عن رسول الله ﷺ أنه حج بالناس، فكان مما علمهم من مناسك حَجّهم الطوافُ بهما.
+
+* *
+
+ذكر الرواية عنه بذلك:
+
+٢٣٦٥- حدثني يوسف بن سلمان قال، حدثنا حاتم بن إسماعيل قال، حدثنا جعفر بن محمد، عن أبيه، عن جابر قال: لما دنا رسول الله ﷺ من الصفا في حجه قال:"إنّ الصفا والمروةَ من شَعائر الله"، ابدؤوا بما بدأ الله بذكره. فبدأ بالصفا فرَقِيَ عليه. [[الحديث: ٢٣٦٥- هو قطعة من حديث جابر - الطويل، في صفة حجة الوداع. وقد مضت قطعة منه، بهذا الإسناد: ٢٠٠٣. وأخرى من رواية يحيى القطان، عن جعفر الصادق: ١٩٨٩.]] .
+
+٢٣٦٦- حدثنا أبو كريب قال، حدثنا محمود بن ميمون أبو الحسن، عن أبي بكر بن عياش، عن ابن عطاء، عن أبيه، عن ابن عباس: أن النبي ﷺ قال:"إنّ الصفا والمروةَ من شَعائر الله"، فأتى الصفا فبدأ بها، فقام عليها، ثم أتى المروة فقام عليها، وطاف وسَعى. [[الحديث: ٢٣٦٦- محمود بن ميمون أبو الحسن: لا أدري من هو، ولا ما شأنه. لم أجد له ترجمة ولا ذكرًا.
+
+ابن عطاء، عن أبيه: هو يعقوب بن عطاء بن أبي رباح، وهو ثقة، بينا ذلك في المسند: ١٨٠٩. مترجم في التهذيب والكبير ٤/٢/٢٩٨، وابن أبي حاتم ٤/٢/٢١١.
+
+وهذا الحديث لم أجده في شيء من المراجع. وإن كان لابن عباس أحاديث أخر في شأن الصفا والمروة والسعي بينهما. من ذلك الحديث الماضي: ٢٣٤٢. وحديث في المستدرك ٢: ٢٧٠-٢٧١، وصححه الحاكم والذهبي.]]
+
+* *
+
+فإذ كان صحيحًا بإجماع الجميع من الأمة - أنّ الطواف بهما على تعليم رسول الله ﷺ أمَّته في مناسكهم، وعمله في حَجَّه وعُمرته = وكان بيانه ﷺ لأمَّته جُمَلَ ما نَصّ الله في كتابه، وفَرَضه في تنزيله، وأمرَ به مما لم يُدْرَك علمه إلا ببيانه، لازمًا العمل به أمته، كما قد بينا في كتابنا"كتاب البيان عن أصول الأحكام" - إذا اختلفت الأمة في وُجُوبه، [[كان في المطبوعة: "لما قد بينا"، وهو خطأ يختل به الكلام. وقوله: "وكان بيانه. . . " إلى قوله: "إذا اختلفت الأمة في وجوبه" جملة فاصلة معطوفة على التي قبلها وسياقها وسياق معناها: وكان بيانه لأمته جمل ما نص الله في كتابه. . -مما لا يدرك علمه إلا ببيانه- لازمًا العمل به أمته. . . إذا اختلفت الأمة في وجوبه.]] ثم كان مُختلفًا في الطواف بينهما: هل هو واحبٌ أو غير واجب = كان بينًا وجُوب فرضه على مَنْ حجَّ أو اعتمر، [[وهذه الجملة من تمام قوله ومن سياقها: "وإذا كان صحيحًا بإجماع الأمة. . . كان بينًا وجوب فرضه على من حج أو اعتمر".]] لما وصفنا.
+
+وكذلك وُجوب العوْد لقضاء الطواف بين الصفا والمروة - لما كان مختلَفًا فيما عَلى مَنْ تركه، مع إجماع جَميعهم على أنّ ذلك مما فَعله رسول الله ﷺ وعلَّمه أمته في حجهم وعمرتهم إذ علَّمهم مناسك حجهم - كما طاف بالبيت وعلَّمه أمته في حجهم وعمرتهم، إذ علَّمهم مناسك حجهم وعُمْرتهم - وأجمع الجميع على أن الطواف بالبيت لا تُجْزي منه فديةٌ ولا بَدلٌ، ولا يجزي تاركه إلا العودُ لقضائه = كان نظيرًا له الطوافُ بالصفا والمروة، ولا تجزي منه فدية وَلا جزاءٌ، ولا يجزي تاركَه إلا العودُ لقضائه، إذ كانا كلاهما طَوافين: أحدهما بالبيت، والآخرُ بالصفا والمروة.
+
+ومن فَرَّق بين حكمهما عُكس عليه القولُ فيه، ثم سئل البرهان على التفرقة بينهما.
+
+فإن اعتل بقراءة من قرأ:"فلا جُناح عليه أنْ لا يَطَّوف بهما".
+
+قيل: ذلك خلافُ ما في مصاحف المسلمين، غيرُ جائز لأحد أن يزيد في مصاحفهم ما ليس فيها. وسواء قَرَأ ذلك كذلك قارئ، أو قرأ قارئ: ﴿ثُمَّ لْيَقْضُوا تَفَثَهُمْ وَلْيُوفُوا نُذُورَهُمْ وَلْيَطَّوَّفُوا بِالْبَيْتِ الْعَتِيقِ﴾ [سورة الحج: ٢٩] ،"فَلا جناح عليهم أنْ لا يَطَّوَّفوا به". [[كان في المطبوعة: "فلا جناح عليه"، وهو خطأ بين. ويعني: أن يجعل القارئ قوله: "فلا جناح عليهم أن لا يطوفوا بهما" من تمام آية سورة الحج السالفة، فيزيد في القرآن ما ليس فيه.]] فإن جازت إحدى الزيادتين اللتين ليستا في المصحف، [[في المطبوعة: "فإن جاءت إحدى الزيادتين" تصحيف، والصواب ما أثبت.]] كانت الأخرى نظيرَتها، وإلا كان مُجيزُ إحداهما - إذا منع الأخرى - مُتحكمًا، والتحكم لا يعجِزُ عنه أحدٌ.
+
+وقد رُوي إنكار هذه القراءة، وأن يكون التنزيل بها، عن عائشة.
+
+٢٣٦٧- حدثني يونس بن عبد الأعلى قال، أخبرنا ابن وهب قال، أخبرني مالك بن أنس، عن هشام بن عروة، عن أبيه قال: قلت لعائشة زوج النبي ﷺ، وأنا يومئذ حديث السِّن: أرأيت قول الله عز وجل:"إنّ الصفا والمروةَ من شَعائر الله فَمنْ حَجّ البيتَ أو اعتمر فَلا جُناح عليه أن يَطَّوَّف بهما"، فما نرَى على أحد شَيئًا أنْ لا يَطَّوَّف بهما! فقالت عائشة: كلا! لو كانت كما تقول، كانت:"فلا جُناح عليه أن لا يَطَّوَّف بهما"، إنما أنزلت هذه الآية في الأنصار، كانوا يُهلّون لمناة -وكانت مَناة حَذوَ قَديد-، وكانوا يتحرَّجون أن يطوفوا بين الصفا والمروة. فلما جاء الإسلام، سألوا رسول الله ﷺ عن ذلك، فأنزل الله:"إنّ الصفا والمرْوةَ من شَعائر الله فمن حَجّ البيت أو اعتمر فلا جُناحَ عليه أن يطوف بهما".
+
+* *
+
+قال أبو جعفر: وقد يحتمل قراءة من قرأ:"فلا جُناحَ عَليه أنْ لا يَطَّوَّف بهما"، أن تكون"لا" التي مع"أن"، صلةً في الكلام، [[قوله: "صلة"، أي زيادة ملغاة، وانظر ما سلف ١: ١٩٠، ٤٠٥ وفهرس المصطلحات، وانظر أيضًا معاني القرآن للفراء ١: ٩٥، فقد ذكر هذا الوجه.]] إذْ كان قد تقدَّمها جَحْدٌ في الكلام قبلها، وهو قوله: ﴿فَلا جُنَاحَ عَلَيْهِ﴾ ، فيكون نظير قول الله تعالى ذكره: ﴿قَالَ مَا مَنَعَكَ أَلا تَسْجُدَ إِذْ أَمَرْتُكَ﴾ [سورة الأعراف: ١٢] ، بمعنى ما منعك أن تسجدَ، وكما قال الشاعر: [[هو جرير.]]
+
+مَا كَانَ يَرْضَى رَسُولُ اللهِ فِعْلَهُمَا ... والطَّيِّبَانِ أبُو بَكْرٍ وَلا عُمَرُ [[سلف تخريجه في ١: ١٩١-١٩٢.]]
+
+ولو كان رسمُ المُصحف كذلك، لم يكن فيه لمحتجّ حجة، مع احتمال الكلام ما وصفنا. لما بيَّنا أن ذلك مما عَلم رسول الله ﷺ أمَّته في مناسكهم، على ما ذكرنا، ولدلالة القياس على صحته، فكيف وهو خلافُ رُسوم مصاحف المسلمين، ومما لو قَرَأه اليوم قارئ كان مستحقًّا العقوبةَ لزيادته في كتاب الله عز وجل ما ليس منه؟
+
+* *
+
+القول في تأويل قوله تعالى: ﴿وَمَنْ تَطَوَّعَ خَيْرًا فَإِنَّ اللَّهَ شَاكِرٌ عَلِيمٌ (١٥٨) ﴾
+
+قال أبو جعفر: اختلف القرَأء في قراءة ذلك، فقرأته عامة قُراء أهل المدينة والبصرة:"ومن تَطوَّع خَيرًا" على لفظ المضيّ ب"التاء" وفتح"العين". وقرأته عامة قراء الكوفيين:"وَمَنْ يَطَّوَّعْ خَيرًا" ب"الياء" وجَزم"العين" وتشديد"الطاء"، بمعنى: ومن يَتطوع. وذُكر أنها في قراءة عبد الله:"ومَنْ يَتطوَّعْ"، فقرأ ذلك قُرّاء أهل الكوفة، على ما وصفنا، اعتبارًا بالذي ذكرنا من قراءَة عبد الله -سوى عَاصم، فإنه وافق المدنيين- فشددوا"الطاءَ" طلبًا لإدغام"التاء" في"الطاء". وكلتا القراءتين معروفة صحيحة، متفقٌ معنياهما غيرُ مختلفين - لأن الماضي من الفعل مع حروف الجزاء بمعنى المستقبل. فبأيّ القراءتين قرأ ذلك قارئٌ فمصيبٌ.
+
+* *
+
+[[زدت ما بين القوسين، استظهارًا من قوله بعد: "وإنما قلنا إن الصواب في معنى قوله. . . " والظاهر أنها مما سقط من ناسخ.]] [والصواب عندنا في ذلك، أن] معنى ذلك: ومن تطوع بالحج والعمرة بعد قَضَاء حجته الواجبة عليه، فإن الله شاكرٌ له على تطوعه له بما تطوع به من ذلك ابتغاءَ وجهه، فمجازيه به، عليمٌ بما قصد وأراد بتطُّوعه بما تطوع به.
+
+وَإنما قُلنا إنّ الصوابَ في معنى قوله:"فمن تطوَّع خيرًا" هو ما وصفنا، دون قول من زَعم أنه معنيٌّ به: فمن تَطوع بالسعي والطواف بين الصفا والمروة، لأن الساعي بينهما لا يكون متطوعًا بالسعي بينهما، إلا في حَج تطوع أو عُمرة تطوع، لما وصفنا قبل. وإذ كان ذلك كذلك كان معلومًا أنه إنما عنى بالتطوع بذلك، التطُّوعَ بما يعملُ ذلك فيه من حَجّ أو عمرة.
+
+* *
+
+وأما الذين زعموا أنّ الطواف بهما تطوُّع لا واجب، فإنّ الصواب أن يكون تأويل ذلك على قولهم: فمن تطوَّع بالطواف بهما، فإنّ الله شاكر =لأن للحاج والمعتمِر على قولهم الطوافَ بهما إن شاء، وتركَ الطواف. فيكون معنى الكلام على تأويلهم: فمن تطوع بالطواف بالصفا والمروة، فإنّ اللهَ شَاكرٌ تطوُّعَه ذلك= عليمٌ بما أراد ونَوَى الطائف بهما كذلك، كما:-
+
+٢٣٦٨- حدثني محمد بن عمرو قال، حدثنا أبو عاصم قال، حدثنا عيسى، عن ابن أبي نجيح، عن مجاهد:"ومن تطوَّع خيرًا فإن الله شاكرٌ عَليمٌ" قال، من تطوع خيرًا فهو خيرٌ له، تطوَّع رسول الله ﷺ فكانت من السنن.
+
+* *
+
+وقال آخرون: معنى ذلك: ومن تطوع خَيرًا فاعتمر.
+
+ذكر من قال ذلك:
+
+٢٣٦٩- حدثني يونس قال، أخبرنا ابن وهب قال، قال ابن زيد في قوله:"ومن تطوَّع خيرًا فإن الله شاكر عليم"، من تطوع خيرًا فاعتمر فإن الله شاكر عليمٌ. قال: فالحج فريضةٌ، والعمرةُ تطوع، ليست العمرة واجبةً على أحد من الناس.
 
 ### al-Muyassar (Arabic)
 
@@ -2572,9 +3572,31 @@ This Hadith indicates that it is allowed to curse those who do not love Allah an
 
 ٢٣٨٥- حدثنا بشر بن معاذ قال، حدثنا يزيد بن زريع قال، حدثنا سعيد، عن قتادة:"ويَلعنهم اللاعنون"، قال، يَقول: اللاعنون من ملائكة الله ومن المؤمنين. [[في المطبوعة: "يزيد بن زريع عن قتادة" بإسقاط"قال حدثنا سعيد"، والصواب ما أثبته، وهو إسناد دائر في التفسير أقربه رقم: ٢٣٧٤.]]
 
-٢٣٨٦- حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا معمر، عن قتادة في قوله:"ويلعنهم اللاعنون"، 
+٢٣٨٦- حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا معمر، عن قتادة في قوله:"ويلعنهم اللاعنون"، الملائكة.
 
-[TRUNCATED at 12000 chars — 3085 more. Consult the source directly before relying on anything near the cut.]
+٢٣٨٧- حدثني المثنى قال، حدثنا إسحاق قال، حدثنا ابن أبي جعفر، عن أبيه، عن الربيع بن أنس قال:"اللاعنون"، من ملائكة الله والمؤمنين.
+
+* *
+
+وقال آخرون: يعني ب"اللاعنين"، كل ما عدا بني آدم والجنّ.
+
+ذكر من قال ذلك:
+
+٢٣٨٨- حدثني موسى قال، حدثنا عمرو قال، حدثنا أسباط، عن السدي:"ويلعنهم اللاعنون" قال، قال البراء بن عازب: إنّ الكافر إذا وُضع في قبره أتته دَابة كأن عينيها قِدْران من نُحاس، معها عمود من حديد، فتضربه ضربة بين كتفيه، فيصيح، فلا يسمع أحد صوته إلا لعنه، ولا يبقى شَيء إلا سمع صوته، إلا الثقلين الجن والإنس.
+
+٢٣٨٩- حدثنا المثنى قال، حدثنا إسحاق قال، حدثنا أبو زهير، عن جويبر، عن الضحاك في قوله:"أولئك يلعنهم الله ويلعنهم اللاعنون" قال، الكافر إذا وضع في حفرته، ضُرب ضربة بمطرق [[المطرق والمطرقة: وهي أداة الحداد التي يضرب بها الحديد.]] فيصيح صيحةً، يسمع صَوْته كل شيء إلا الثقلين الجن والإنس، فلا يسمع صيحته شَيء إلا لعنه.
+
+* *
+
+قال أبو جعفر: وأولى هذه الأقوال بالصحة عندنا قول من قال:"اللاعنون"، الملائكةُ والمؤمنون. لأن الله تعالى ذكره قد وصف الكفار بأن اللعنة التي تحلّ بهم إنما هي من الله والملائكة والناس أجمعين، فقال تعالى ذكره: ﴿إِنَّ الَّذِينَ كَفَرُوا وَمَاتُوا وَهُمْ كُفَّارٌ أُولَئِكَ عَلَيْهِمْ لَعْنَةُ اللَّهِ وَالْمَلائِكَةِ وَالنَّاسِ أَجْمَعِينَ﴾ ، [[هي الآية رقم: ١٦١، تأتي بعد قليل.]] فكذلك اللعنة التي أخبر الله تعالى ذكره أنها حَالَّة بالفريق الآخر: الذين يكتمونَ ما أنزل الله من البينات والهدى من بعد ما بينه للناس، [[في المطبوعة: "من بعد ما بيناه للناس"، وهو سهو ناسخ.]] هي لعنة الله، ولعنة الذين أخبر أن لعنتهم حالّة بالذين كفروا وماتوا وهم كفار، [[في المطبوعة: "هي لعنة الله التي أخبر أن لعنتهم حالة. . . "، والصواب ما أثبت.]] وهم"اللاعنون"، لأن الفريقين جميعًا أهلُ كفر.
+
+* *
+
+وأما قول من قال إن"اللاعنين" هم الخنافس والعقارب وما أشبه ذلك من دبيب الأرض وهَوامِّها، [[كل ماش على وجه الأرض يقال له: دابة ودبيب.]] فإنه قول لا تدرك حَقيقته إلا بخبر عن الله أن ذلك من فعلها تَقوم به الحجة، ولا خبرَ بذلك عن نبي الله ﷺ، فيجوز أن يقال إنّ ذلك كذلك.
+
+وإذْ كان ذلك كذلك، فالصواب من القول فيما قالوه أن يقال: إن الدليل من ظاهر كتاب الله موجودٌ بخلاف [قول] أهل التأويل، [[ما بين القوسين زيادة، أخشى أن تكون سقطت من ناسخ.]] وهو ما وصفنا. فإنْ كان جائزًا أن تكون البهائم وسائرُ خلق الله، تَلعن الذين يَكتمون ما أنزل الله في كتابه من صفة محمد ﷺ ونعته ونبوّته، بعد علمهم به، وتلعن معهم جميع الظَّلمة - فغير جائز قطعُ الشهادة في أن الله عنى ب"اللاعنين" البهائمَ والهوامَّ ودَبيب الأرض، إلا بخبر للعذر قاطع. ولا خبرَ بذلك، وظاهر كتابا لله الذي ذكرناه دالٌّ على خلافه. [[في المطبوعة: "وكتاب الله الذي ذكرناه"، وهو كلام لا يقال. والصواب ما أثبت. والذي ذكره آنفًا: "إن الدليل من ظاهر كتاب الله. . . ".
+
+هذا، ورد قول هؤلاء القائلين بما قالوه، مبين لك عن نهج الطبري وتفسيره، وكاشف لك عن طريقته في رد الأخبار التي رواها عن التابعين، في كل ما يحتاج إلى خبر عن رسول الله ﷺ قاطع بالبيان عما ذكروه. والطبري قد يذكر مثل هذه الأخبار، ثم لا يذكر حجته في ردها، لأنه كره إعادة القول وتريده فيما جعله أصلا في التفسير، كما بين ذلك في"رسالة التفسير"، ثم في تفسيره بعد، ورد أشباهه في مواضع متفرقة منه. أما إذا كان في شيء من ذلك خبر قاطع عن رسول الله ﷺ، فإنه لا يدع ذكره، فإذا لم يذكر -فيما أشبه ذلك- خبرًا عن رسول الله، فاعلم أنه يدع لقارئ كتابه علم الوجه الذي يرد به هذا القول.]]
 
 ### al-Muyassar (Arabic)
 

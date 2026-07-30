@@ -164,9 +164,19 @@ Under Allah's statement:
 
 وَقَاتِلُوهُمْ حَتَّىٰ لَا تَكُونَ فِتْنَةٌ
 
-(And fight them until there is no more Fitnah (disbelief and worshipping of others along with Allah))?" He said, "We d
+(And fight them until there is no more Fitnah (disbelief and worshipping of others along with Allah))?" He said, "We did fight until there was no more Fitnah and the religion became for Allah Alone. You want to fight until there is Fitnah and the religion becomes for other than Allah!"
 
-[TRUNCATED at 12000 chars — 1908 more. Consult the source directly before relying on anything near the cut.]
+Uthman bin Salih added that a man came to Ibn 'Umar and asked him, "O Abu 'Abdur-Rahman! What made you perform Hajj one year and 'Umrah another year and abandon Jihad in the cause of Allah, although you know how much He has encouraged performing it?" He said, "O my nephew! Islam is built on five (pillars): believing in Allah and His Messenger, the five daily prayers, fasting Ramadan, paying the Zakah and performing Hajj (pilgrimage) to the House." They said, "O Abu 'Abdur-Rahman! Did you not hear what Allah said in His Book:
+
+وَإِن طَائِفَتَانِ مِنَ الْمُؤْمِنِينَ اقْتَتَلُوا فَأَصْلِحُوا بَيْنَهُمَا فَإِن بَغَتْ إِحْدَاهُمَا عَلَى الْأُخْرَىٰ فَقَاتِلُوا الَّتِي تَبْغِي حَتَّىٰ تَفِيءَ إِلَىٰ أَمْرِ اللَّهِ
+
+(And if two parties (or groups) among the believers fall to fighting, then make peace between them both. But if one of them outrages against the other, then fight you (all) against the one that which outrages till it complies with the command of Allah.)(49:9) and:
+
+وَقَاتِلُوهُمْ حَتَّىٰ لَا تَكُونَ فِتْنَةٌ
+
+(And fight them until there is no more Fitnah (disbelief))
+
+He said, "That we did during the time of Allah's Messenger ﷺ when Islam was still weak and (the Muslim) man used to face trials in his religion, such as killing or torture. When Islam became stronger (and apparent), there was no more Fitnah." He asked, "What do you say about 'Ali and 'Uthman?" He said, "As for 'Uthman, Allah has forgiven him. However, you hated the fact that Allah had forgiven him! As for 'Ali, he is the cousin of Allah's Messenger ﷺ and his son-in-law." He then pointed with his hand, saying, "This is where his house is located (meaning, 'so close to the Prophet's house just as 'Ali was so close to the Prophet ﷺ himself')."
 
 ### al-Tabari (Arabic)
 
@@ -262,9 +272,55 @@ Under Allah's statement:
 
 القول في تأويل قوله تعالى: ﴿وَاتَّقُوا اللَّهَ لَعَلَّكُمْ تُفْلِحُونَ﴾
 
-قال أبو جعفر: يعني تعالى ذكره بذلك: واتقوا الله أيها الناس، فاحذروه وارهبوه بطاعته فيما أمركم به من فرائضه،
+قال أبو جعفر: يعني تعالى ذكره بذلك: واتقوا الله أيها الناس، فاحذروه وارهبوه بطاعته فيما أمركم به من فرائضه، واجتناب ما نهاكم عنه، لتفلحوا فتنجحوا في طلباتكم لديه، وتدركوا به البقاءَ في جَنَّاته والخلودَ في نعيمه.
 
-[TRUNCATED at 12000 chars — 4164 more. Consult the source directly before relying on anything near the cut.]
+* *
+
+وقد بينا معنى"الفلاح" فيما مضى قبلُ بما يدل عليه [[انظر ما سلف ١: ٢٤٩-٢٥٠.]] .
+
+* *
+
+القول في تأويل قوله تعالى: ﴿وَقَاتِلُوا فِي سَبِيلِ اللَّهِ الَّذِينَ يُقَاتِلُونَكُمْ وَلا تَعْتَدُوا إِنَّ اللَّهَ لا يُحِبُّ الْمُعْتَدِينَ (١٩٠) ﴾
+
+قال أبو جعفر: اختلف أهلُ التأويل في تأويل هذه الآية.
+
+فقال بعضهم: هذه الآية هي أول آية نزلت في أمر المسلمين بقتال أهل الشرك. وقالوا: أمر فيها المسلمون بقتال من قاتلهم من المشركين، والكف عمن كفّ عنهم، ثم نُسخت ب"براءة".
+
+ذكر من قال ذلك:
+
+٣٠٨٩ - حدثني المثنى قال، حدثنا إسحاق قال، حدثنا عبد الرحمن بن سعد، وابن أبي جعفر، عن أبي جعفر، عن الربيع في قوله:"وقاتلُوا في سبيل الله الذين يُقاتلونكم ولا تَعتدوا إن الله لا يحبّ المعتدين" قال: هذه أوّل آية نزلت في القتال بالمدينة، فلما نزلت كان رسول الله ﷺ يقاتل من يقاتله، ويكفُّ عمن كفّ عنه، حتى نزلت"براءة"- ولم يذكر عبد الرحمن:"المدينة".
+
+٣٠٩٠ - حدثني يونس، قال: أخبرنا ابن وهب، قال، قال ابن زيد في قوله:"وقاتلوا في سبيل الله الذين يُقاتلونكم" إلى آخر الآية، قال: قد نسخ هذا! وقرأ قول الله: ﴿وَقَاتِلُوا الْمُشْرِكِينَ كَافَّةً كَمَا يُقَاتِلُونَكُمْ كَافَّةً﴾ [سورة التوبة: ٣٦] ، وهذه الناسخة، وقرأ: ﴿بَرَاءَةٌ مِنَ اللَّهِ وَرَسُولِهِ﴾ حتى بلغ: ﴿فَإِذَا انْسَلَخَ الأشْهُرُ الْحُرُمُ فَاقْتُلُوا الْمُشْرِكِينَ حَيْثُ وَجَدْتُمُوهُمْ﴾ إلى: ﴿إِنَّ اللَّهَ غَفُورٌ رَحِيمٌ﴾ [سورة التوبة: ١-٥] .
+
+* *
+
+وقال آخرون: بل ذلك أمر من الله تعالى ذكره للمسلمين بقتال الكفار، لم ينسخ. وإنما الاعتداءُ الذي نهاهم الله عنه، هو نهيه عن قتل النساء والذَّراريّ. قالوا: والنهي عن قتلهم ثابتٌ حُكمه اليوم. قالوا: فلا شيء نُسخ من حكم هذه الآية.
+
+ذكر من قال ذلك:
+
+٣٠٩١ - حدثنا سفيان بن وكيع قال، حدثنا أبي، عن صَدقة الدمشقي، عن يحيى بن يحيى الغساني، قال: كتبتُ إلى عمر بن عبد العزيز أسألهُ عن قوله:"وقاتلوا في سَبيل الله الذين يُقاتلونكم ولا تعتدوا إنّ الله لا يُحب المعتدين"، قال: فكتب إليّ:"إنّ ذلك في النساء والذريّة ومن لم يَنصِبْ لك الحرَب منهم".
+
+٣٠٩٢ - حدثني محمد بن عمرو قال، حدثنا أبو عاصم قال، حدثنا عيسى، عن ابن أبي نجيح، عن مجاهد في قول الله تعالى ذكره:"وقاتلوا في سبيل الله الذين يُقاتلونكم" لأصحاب محمد ﷺ، أمروا بقتال الكفار.
+
+٣٠٩٣- حدثني المثنى قال، حدثنا أبو حذيفة قال، حدثنا شبل، عن ابن أبي نجيح، عن مجاهد مثله.
+
+٣٠٩٤ - حدثني علي بن داود قال، حدثنا أبو صالح، قال، حدثني معاوية، عن علي، عن ابن عباس:"وقاتلوا في سبيل الله الذين يُقاتلونكم ولا تعتدوا إنّ الله لا يحب المعتدين" يقول: لا تقتلوا النساء ولا الصِّبيان ولا الشيخ الكبير وَلا منْ ألقى إليكم السَّلَمَ وكفَّ يَده، فإن فَعلتم هذا فقد اعتديتم.
+
+٣٠٩٥- حدثني ابن البرقي قال، حدثنا عمرو بن أبي سلمة، عن سعيد بن عبد العزيز، قال: كتب عمر بن عبد العزيز إلى عديِّ بن أرطاة:"إني وَجَدتُ آية في كتاب الله:"وقاتلوا في سبيل الله الذين يُقاتلونكم ولا تعتدوا إنّ الله لا يحب المعتدين" أي: لا تقاتل من لا يقاتلك، يعني: النساء والصبيان والرُّهبان".
+
+* *
+
+قال أبو جعفر: وأولى هذين القولين بالصواب، القولُ الذي قاله عمر بن عبد العزيز. لأن دعوى المدَّعي نَسْخَ آية يحتمل أن تكون غيرَ منسوخة، بغير دلالة على صحة دعواه، تحكُّم. والتحكم لا يعجِز عنه أحد.
+
+* *
+
+وقد دَللنا على معنى"النسخ"، والمعنى الذي من قبَله يَثبت صحة النسخ، بما قد أغنى عن إعادته في هذا الموضع [[انظر ما سلف ٢: ٤٧١-٤٨٣، وهذا الجزء ٣: ٣٨٥.]] .
+
+* *
+
+فتأويل الآية - إذا كان الأمر على ما وصفنا -: وقاتلوا أيها المؤمنون في سبيل الله = وسبيلُه: طريقه الذي أوضحه، ودينه الذي شرعه لعباده = يقول لهم تعالى ذكره: قاتلوا في طاعتي وَعلى ما شرعت لكم من ديني، وادعوا إليه من وَلَّى عنه واستكبر بالأيدي والألسن، حتى يُنيبوا إلى طاعتي، أو يعطوكم الجزية صَغارًا إن كانوا أهل كتاب. وأمرهم تعالى ذكره بقتال مَنْ كان منه قتال من مُقاتِلة أهل الكفر دون من لم يكن منه قتال [[في المطبوعة في الموضعين: "فيه قتال"، وهو خطأ.]] من نسائهم وذراريهم، فإنهم أموال وخَوَلٌ لهم إذا غُلب المقاتلون منهم فقُهروا، فذلك معنى قوله:"قاتلوا في سبيل الله الذين يقاتلونكم" لأنه أباح الكف عمّن كف، فلم يُقاتل من مشركي أهل الأوثان والكافِّين عن قتال المسلمين من كفار أهل الكتاب على إعطاء الجزية صَغارا.
+
+فمعنى قوله:"ولا تعتدوا": لا تقتلوا وليدًا ولا امرأةً، ولا من أعطاكم الجزية من أهل الكتابَين والمجوس،"إنّ الله لا يُحب المعتدين" الذين يجاوزون حدوده، فيستحلُّون ما حرَّمه الله عليهم من قتل هؤلاء الذين حَرَّم قتلهم من نساء المشركين وذراريهم [[انظر تفسير"الاعتداء" فيما سلف ٢: ٣٠٧، وهذا الجزء ٣: ٣٧٦ ثم: ٥٧٣.]] .
 
 ### al-Muyassar (Arabic)
 
@@ -434,9 +490,19 @@ Under Allah's statement:
 
 وَقَاتِلُوهُمْ حَتَّىٰ لَا تَكُونَ فِتْنَةٌ
 
-(And fight them until there is no more Fitnah (disbelief and worshipping of others along with Allah))?" He said, "We d
+(And fight them until there is no more Fitnah (disbelief and worshipping of others along with Allah))?" He said, "We did fight until there was no more Fitnah and the religion became for Allah Alone. You want to fight until there is Fitnah and the religion becomes for other than Allah!"
 
-[TRUNCATED at 12000 chars — 1908 more. Consult the source directly before relying on anything near the cut.]
+Uthman bin Salih added that a man came to Ibn 'Umar and asked him, "O Abu 'Abdur-Rahman! What made you perform Hajj one year and 'Umrah another year and abandon Jihad in the cause of Allah, although you know how much He has encouraged performing it?" He said, "O my nephew! Islam is built on five (pillars): believing in Allah and His Messenger, the five daily prayers, fasting Ramadan, paying the Zakah and performing Hajj (pilgrimage) to the House." They said, "O Abu 'Abdur-Rahman! Did you not hear what Allah said in His Book:
+
+وَإِن طَائِفَتَانِ مِنَ الْمُؤْمِنِينَ اقْتَتَلُوا فَأَصْلِحُوا بَيْنَهُمَا فَإِن بَغَتْ إِحْدَاهُمَا عَلَى الْأُخْرَىٰ فَقَاتِلُوا الَّتِي تَبْغِي حَتَّىٰ تَفِيءَ إِلَىٰ أَمْرِ اللَّهِ
+
+(And if two parties (or groups) among the believers fall to fighting, then make peace between them both. But if one of them outrages against the other, then fight you (all) against the one that which outrages till it complies with the command of Allah.)(49:9) and:
+
+وَقَاتِلُوهُمْ حَتَّىٰ لَا تَكُونَ فِتْنَةٌ
+
+(And fight them until there is no more Fitnah (disbelief))
+
+He said, "That we did during the time of Allah's Messenger ﷺ when Islam was still weak and (the Muslim) man used to face trials in his religion, such as killing or torture. When Islam became stronger (and apparent), there was no more Fitnah." He asked, "What do you say about 'Ali and 'Uthman?" He said, "As for 'Uthman, Allah has forgiven him. However, you hated the fact that Allah had forgiven him! As for 'Ali, he is the cousin of Allah's Messenger ﷺ and his son-in-law." He then pointed with his hand, saying, "This is where his house is located (meaning, 'so close to the Prophet's house just as 'Ali was so close to the Prophet ﷺ himself')."
 
 ### al-Tabari (Arabic)
 
@@ -614,9 +680,19 @@ Under Allah's statement:
 
 وَقَاتِلُوهُمْ حَتَّىٰ لَا تَكُونَ فِتْنَةٌ
 
-(And fight them until there is no more Fitnah (disbelief and worshipping of others along with Allah))?" He said, "We d
+(And fight them until there is no more Fitnah (disbelief and worshipping of others along with Allah))?" He said, "We did fight until there was no more Fitnah and the religion became for Allah Alone. You want to fight until there is Fitnah and the religion becomes for other than Allah!"
 
-[TRUNCATED at 12000 chars — 1908 more. Consult the source directly before relying on anything near the cut.]
+Uthman bin Salih added that a man came to Ibn 'Umar and asked him, "O Abu 'Abdur-Rahman! What made you perform Hajj one year and 'Umrah another year and abandon Jihad in the cause of Allah, although you know how much He has encouraged performing it?" He said, "O my nephew! Islam is built on five (pillars): believing in Allah and His Messenger, the five daily prayers, fasting Ramadan, paying the Zakah and performing Hajj (pilgrimage) to the House." They said, "O Abu 'Abdur-Rahman! Did you not hear what Allah said in His Book:
+
+وَإِن طَائِفَتَانِ مِنَ الْمُؤْمِنِينَ اقْتَتَلُوا فَأَصْلِحُوا بَيْنَهُمَا فَإِن بَغَتْ إِحْدَاهُمَا عَلَى الْأُخْرَىٰ فَقَاتِلُوا الَّتِي تَبْغِي حَتَّىٰ تَفِيءَ إِلَىٰ أَمْرِ اللَّهِ
+
+(And if two parties (or groups) among the believers fall to fighting, then make peace between them both. But if one of them outrages against the other, then fight you (all) against the one that which outrages till it complies with the command of Allah.)(49:9) and:
+
+وَقَاتِلُوهُمْ حَتَّىٰ لَا تَكُونَ فِتْنَةٌ
+
+(And fight them until there is no more Fitnah (disbelief))
+
+He said, "That we did during the time of Allah's Messenger ﷺ when Islam was still weak and (the Muslim) man used to face trials in his religion, such as killing or torture. When Islam became stronger (and apparent), there was no more Fitnah." He asked, "What do you say about 'Ali and 'Uthman?" He said, "As for 'Uthman, Allah has forgiven him. However, you hated the fact that Allah had forgiven him! As for 'Ali, he is the cousin of Allah's Messenger ﷺ and his son-in-law." He then pointed with his hand, saying, "This is where his house is located (meaning, 'so close to the Prophet's house just as 'Ali was so close to the Prophet ﷺ himself')."
 
 ### al-Tabari (Arabic)
 
@@ -1008,9 +1084,99 @@ The Ayah (2:195) includes the order to spend in Allah's cause, in the various ar
 
 ٣١٧٩ - حدثني يونس، قال، أخبرنا ابن وهب، قال، أخبرني حَيْوَة، عن يزيد بن أبي حبيب، عن أسلم أبي عمران، قال: غَزونا المدينة، يريد بالقسطنطينية، وعلى أهل مصر عُقبة بن عامر، وعلى الجماعة عبد الرحمن بن خالد بن الوليد. قال: فصففنا صفَّين لم أر صَفين قط أعرضَ ولا أطولَ منهما، والروم مُلصقون ظهورهم بحائط المدينة، قال: فحمل رجل منا على العدو، فقال الناس: مَهْ! لا إله إلا الله، يلقي بيده إلى التهلكة! قال أبو أيوب الأنصاري: إنما تتأوّلونَ هذه الآية هكذا، أنْ حَمل رجلٌ يُقاتل يلتمس الشهادة، أو يُبلي من نفسه! إنما نزلت هذه الآية فينا مَعشرَ الأنصار! إنا لما نَصرَ الله نبيه وأظهرَ الإسلام، قُلنا بَيننا معشرَ الأنصار خَفيًّا من رسول الله ﷺ: إنا قد كنا تركنا أهلنا وأموالنا أن نقيم فيها ونصلحها حتى نصر الله نبيه، هلم نقيم في أموالنا ونصلحها! فأنزل الله الخبرَ من السماء:"وأنفقوا في سبيل الله ولا تُلقوا بأيديكم إلى التهلكة" الآية، فالإلقاء بالأيدي إلى التهلكة: أن نُقيم في أموالنا ونُصلحها، وندعُ الجهاد. قال أبو عمران: فلم يزل أبو أيوب يُجاهدُ في سبيل الله حتى دُفن بالقسطنطينية [[الحديث: ٣١٧٩- حيوة: هو ابن شريح. أسلم أبو عمران: نسبه التهذيب بأنه"أسلم بن يزيد" وهو تابعي ثقة، كان وجيها بمصر. وهو مولى تجيب. وسيأتي تخريج الحديث، في الرواية التالية.]] .
 
-٣١٨٠- حدثني محمد بن عمارة الأسدي، وعبد الله بن أبي زياد قالا حدثنا أبو عبد الرحمن عبد الله بن يزيد، قال، أخبرني حيوة وابن لهيعة، قالا حدثنا يزيد بن أبي حبيب، قال، حدثني أسلم أبو عمران مولى تُجِيب، قال: كنا بالقسطنطينية، وعلى أهل مصر عقبة بن عامر الجهني صاحب رسول الله ﷺ، وعلى أهل الشام فَضالة بن عبيد صاحب رسول الله ﷺ، فخرج من المدينة صفٌّ عظيم من الروم، قال: وصففنا صفًّا عظيمًا من المسلمين، فحمل رجل من المسلمين على صَفّ الروم حتى دخلَ فيهم، ثم خرج إلينا مقبلا فصاح الناس وقالوا: سبحان الله! ألقى بيده إلى التهلكة! فقام أبو أيوب الأنصاري صاحبُ رسول الله ﷺ فقال: أيها الناس إنكم تتأوّلون هذه الآية على هذا التأويل! وإنما أنزلت هذه الآية فينا معاشر الأنصار! إنا لما أعزّذ الله دينه وكثَّر ناصريه، قلنا فيما بيننا بعضُنا لبعض سرًّا من رسول الله: إن أموالنا قد ضاعت، فلو أنا أقمنا فيها، فأصلحنا ما ضَاع منها! فأنزل الله في كتابه يرُدُّ علينا ما هممنا به، فقال:"وأنفقوا في سبيل الله ولا تُلقوا بأيديكم إلى التهلكة"، بالإقامة التي أردنا أن نقيم في الأموال ونصلحها، فأمرنا بالغزو. فما زال أبو أيوب غازيًا في سبيل الله حتى قبضَه الله [[الحديث: ٣١٨٠- أبو عبد الرحمن عبد الله بن يزيد المقرئ: ثقة معروف، من شيوخ أحمد والبخاري، وكان إماما في الحديث، مشهورا في القراءات، أقرأ القرآن بالبصرة ٣٦ سنة، ثم بمكة ٣٥ سنة. وهو مولى آل عمر بن الخطاب. ووهم ابن حزم فيه وهمًا عجيبًا، فأخطأ خطأ طريفا: جعله عربيا حميريا، ثم من"بني سبيع"! ثم نسبه إلى حي زعم أن اسمه"مقر"، بضم الميم وسكون القاف! فقال في جمهرة الأنساب، ص: ٤٠٩"ومن ولد سبيع الم
+٣١٨٠- حدثني محمد بن عمارة الأسدي، وعبد الله بن أبي زياد قالا حدثنا أبو عبد الرحمن عبد الله بن يزيد، قال، أخبرني حيوة وابن لهيعة، قالا حدثنا يزيد بن أبي حبيب، قال، حدثني أسلم أبو عمران مولى تُجِيب، قال: كنا بالقسطنطينية، وعلى أهل مصر عقبة بن عامر الجهني صاحب رسول الله ﷺ، وعلى أهل الشام فَضالة بن عبيد صاحب رسول الله ﷺ، فخرج من المدينة صفٌّ عظيم من الروم، قال: وصففنا صفًّا عظيمًا من المسلمين، فحمل رجل من المسلمين على صَفّ الروم حتى دخلَ فيهم، ثم خرج إلينا مقبلا فصاح الناس وقالوا: سبحان الله! ألقى بيده إلى التهلكة! فقام أبو أيوب الأنصاري صاحبُ رسول الله ﷺ فقال: أيها الناس إنكم تتأوّلون هذه الآية على هذا التأويل! وإنما أنزلت هذه الآية فينا معاشر الأنصار! إنا لما أعزّذ الله دينه وكثَّر ناصريه، قلنا فيما بيننا بعضُنا لبعض سرًّا من رسول الله: إن أموالنا قد ضاعت، فلو أنا أقمنا فيها، فأصلحنا ما ضَاع منها! فأنزل الله في كتابه يرُدُّ علينا ما هممنا به، فقال:"وأنفقوا في سبيل الله ولا تُلقوا بأيديكم إلى التهلكة"، بالإقامة التي أردنا أن نقيم في الأموال ونصلحها، فأمرنا بالغزو. فما زال أبو أيوب غازيًا في سبيل الله حتى قبضَه الله [[الحديث: ٣١٨٠- أبو عبد الرحمن عبد الله بن يزيد المقرئ: ثقة معروف، من شيوخ أحمد والبخاري، وكان إماما في الحديث، مشهورا في القراءات، أقرأ القرآن بالبصرة ٣٦ سنة، ثم بمكة ٣٥ سنة. وهو مولى آل عمر بن الخطاب. ووهم ابن حزم فيه وهمًا عجيبًا، فأخطأ خطأ طريفا: جعله عربيا حميريا، ثم من"بني سبيع"! ثم نسبه إلى حي زعم أن اسمه"مقر"، بضم الميم وسكون القاف! فقال في جمهرة الأنساب، ص: ٤٠٩"ومن ولد سبيع المذكور: مقر، حي ضخم، إليه ينسب عبد الله بن يزيد المقري (يعني بدون همزة) ، ولم يكن مقرئا للقراءات، وإنما كان محدثا"!! وأخطأ ابن حزم وشبه له، فأتى بقبيلة لم يذكرها أحد قط - فيما نعلم. وإنما انتقل نظره إلى شيء آخر بعيد، إلى"عبد الرحمن بن عبد القاري" بتشديد الياء دون همزة، من ولد"القارة بن الديش". وهو تابعي، ولم يك مقرئا. فإلى هذا ذهب وهمه. ثم لا ندري كيف وضع القبيل الذي اخترعه، في"بني سبيع"!!
 
-[TRUNCATED at 12000 chars — 6779 more. Consult the source directly before relying on anything near the cut.]
+ووقع في المطبوعة هنا"ثنا أبو عبد الرحمن عن عبد الله بن يزيد". وهو خطأ في زيادة"عن". و"أبو عبد الرحمن" كنية"عبد الله بن يزيد"، ليس راويا آخر.
+
+والحديث رواه أبو داود الطيالسي في مسنده: ٥٩٩، عن عبد الله بن المبارك، عن حيوة.
+
+ورواه أبو داود السجستاني: ٢٥١٢، من طريق ابن وهب، عن حيوة وابن لهيعة.
+
+ورواه الترمذي ٤: ٧٢-٧٣، من طريق أبي عاصم النبيل، عن حيوة. وقال: "حديث حسن غريب صحيح".
+
+ورواه الحاكم في المستدرك ٢: ٢٧٥، من طريق عبد الله بن يزيد المقرئ، عن حيوة، وحده. وقال: "هذا حديث صحيح على شرط الشيخين، ولم يخرجاه". ووافقه الذهبي.
+
+ورواه ابن عبد الحكم في فتوح مصر: ٢٦٩-٢٧٠، بإسنادين: رواه عن عبد الله بن صالح، عن الليث بن سعد. ورواه عن عبد الله بن يزيد المقرئ، عن حيوة بن شريح - كلاهما عن يزيد بن أبي حبيب، به.
+
+وقوله في الرواية الماضية"غزونا المدينة، يريد القسطنطينية" - هكذا ثبت في المطبوعة هنا. ولفظ أبي داود السجستاني: "غزونا من المدينة، نريد القسطنطينية". ولعل ما هنا أجود وأصح، فإن أسلم أبا عمران مصري. والظاهر من السياق أن الجيش كان من مصر والشام.
+
+وقوله في تلك الرواية: "وعلى الجماعة عبد الرحمن بن خالد بن الوليد" يدل على أن هذه الغزوة كانت في سنة ٤٦ أو قبلها، لأن عبد الرحمن مات تلك السنة. وهذه الغزوة غير الغزوة المشهورة التي مات فيها أبو أيوب الأنصاري. وقد غزاها يزيد بن معاوية بعد ذلك سنة ٤٩، ومعه جماعات من سادات الصحابة. ثم غزاها يزيد سنة ٥٢، وهي التي مات فيها أبو أيوب رضي الله عنه، وأوصى إلى يزيد أن يحملوه إذا مات، ويدخلوه أرض العدو، ويدفنوه تحت أقدامهم حيث يلقون العدو. ففعل يزيد ما أوصى به أبو أيوب. وقبره هناك إلى الآن معروف. انظر طبقات ابن سعد ٣/٢/٤٩-٥٠، وتاريخ الطبري ٦: ١٢٨، ١٣٠، وتاريخ ابن كثير ٨: ٣٠-٣١، ٣٢، ٥٨-٥٩. وتاريخ الإسلام للذهبي ٢: ٢٣١، ٣٢٧-٣٢٨.
+
+وقوله في هذه الرواية الثانية"وعلى أهل الشام فضالة بن عبيد" - هذا هو الصواب الثابت في رواية الطيالسي، وابن عبد الحكم، والحاكم. ووقع في رواية الترمذي"وعلى الجماعة فضالة بن عبيد". وهو وهم، لعله من الترمذي أو من شيخه عبد بن حميد.
+
+والحديث ذكره ابن كثير ١: ٤٣٧-٤٣٨، من رواية الليث بن سعد، ولم ينسبها. ثم خرجه من أبي داود، والترمذي، والنسائي، وعبد بن حميد في تفسيره، وابن أبي حاتم، وابن جرير، وابن مردويه، وأبي يعلى، وابن حبان، والحاكم. ثم ذكر رواية منه، على أنها لفظ أبي داود - ولا توافق لفظه، وفيها تحريف كثير.
+
+وذكره السيوطي ١: ٢٠٧-٢٠٨، وزاد نسبته للطبراني، والبيهقي في سننه.]] .
+
+* *
+
+قال أبو جعفر: والصواب من القول في ذلك عندي أنْ يُقال: إنّ الله جل ثناؤه أمرَ بالإنفاق في سبيله بقوله:"وأنفقوا في سبيل الله" - وسبيلُه: طريقه الذي شَرَعه لعباده وأوضحه لهم. ومعنى ذلك: وأنفقوا في إعزاز ديني الذي شرعتُه لكم، بجهاد عدوّكم الناصبين لكم الحربَ على الكفر بي، ونَهاهم أن يلقوا بأيديهم إلى التهلكة، فقال:"ولا تُلقوا بأيديكم إلى التهلكة".
+
+* *
+
+وذلك مثلٌ، والعرب تقول للمستسلم للأمر:"أعطَى فلان بيديه"، وكذلك يقال للممكن من نفسه مما أريد به:"أعطى بيديه".
+
+* *
+
+فمعنى قوله:"ولا تُلقوا بأيديكم إلى التهلكة"، ولا تستسلموا للهلكة، فتُعطوها أزمَّتكم فتهلكوا.
+
+والتارك النفقةَ في سبيل الله عند وجوب ذلك عليه، مستسلم للهلكة بتركه أداءَ فرضِ الله عليه في ماله. وذلك أن الله جل ثناؤه جَعل أحد سِهام الصدقات المفروضات الثمانية"في سبيله"، فقال: ﴿إِنَّمَا الصَّدَقَاتُ لِلْفُقَرَاءِ وَالْمَسَاكِينِ﴾ إلى قوله: ﴿وَفِي سَبِيلِ اللَّهِ وَاِبْنِ السَّبِيلِ﴾ [سورة التوبة: ٦٠] فمن ترك إنفاق ما لزمه من ذلك في سبيل الله على ما لزمه، كان للهلكة مستسلما، وبيديه للتهلكة ملقيا.
+
+وكذلك الآئسُ من رحمة الله لذنب سلف منه، مُلق بيديه إلى التهلكة، لأن الله قد نهى عن ذلك فقال: ﴿وَلا تَيْأَسُوا مِنْ رَوْحِ اللَّهِ إِنَّهُ لا يَيْئَسُ مِنْ رَوْحِ اللَّهِ إِلا الْقَوْمُ الْكَافِرُونَ﴾ [سورة يوسف: ٨٧] .
+
+وكذلك التارك غزوَ المشركين وجهادَهم، في حال وجوب ذلك عليه، في حال حاجة المسلمين إليه، مُضيعٌ فرضا، مُلقٍ بيده إلى التهلكة.
+
+فإذ كانت هذه المعاني كلها يحتملها قوله:"ولا تُلقوا بأيديكم إلى التهلكة" ولم يكن الله عز وجلّ خصَّ منها شيئًا دون شيء، فالصواب من القول في ذلك أن يقال: إن الله نهى عن الإلقاء بأيدينا لما فيه هلاكنا، والاستسلام للهلكة - وهي العذاب - بترك ما لزمنا من فرائضه، فغيرُ جائز لأحد منا الدخول في شيء يكرهه الله منا، مما نستوجب بدخولنا فيه عَذابَه.
+
+غير أن الأمر وإن كان كذلك، فإن الأغلب من تأويل الآية: وأنفقوا أيها المؤمنون في سبيل الله، ولا تتركوا النفقة فيها، فتهلكوا باستحقاقكم - بترككم ذلك -عذابي. كما:
+
+٣١٨١ - حدثني المثنى قال، حدثنا أبو صالح قال، حدثنا معاوية، عن علي بن أبي طلحة، عن ابن عباس قوله:"ولا تُلقوا بأيديكم إلى التهلكة" قال: التهلكة عذابُ الله.
+
+* *
+
+قال أبو جعفر: فيكون ذلك إعلاما منه لهم - بعد أمره إياهم بالنفقة - ما لمن ترك النفقة المفروضة عليه في سبيله، منَ العقوبة في المعاد.
+
+* *
+
+فإنْ قال قائل: فما وجه إدخال الباء في قوله:"ولا تلقوا بأيديكم"، وقد علمت أن المعروف من كلام العرب:"ألقيت إلى فلان درهما"، دون"ألقيتُ إلى فلان بدرهم"؟
+
+قيل: قد قيل إنها زيدت نحو زيادة القائل"الباء" في قوله:"جذبتُ بالثوب، وجذبت الثوب""وتعلَّقتُ به وتَعلَّقته"، و ﴿تَنْبُتُ بِالدُّهْنِ﴾ [سورة المؤمنون: ٢٠] وإنما هو: تُنبت الدهنَ [[انظر الإنصاف لابن الأنباري: ١٢٨.]] .
+
+* *
+
+وقال آخرون:"الباء" في قوله:"ولا تُلقوا بأيديكم" أصلٌ للكنية [[في المطبوعة: "أصل للكلمة"، وهو تحريف، وانظر التعليقات الآتية.]] لأن كل فعل وَاقع كُنِي عنه فهو مضطرٌّ إليها [[الفعل الواقع: هو الفعل المتعدي، ضريع الفعل اللازم. ويقال له أيضًا "الفعل المجاوز" (انظر بغية الوعاة ٢: ٨١) .]] نحو قولك في رجل"كلَّمته" فأردت الكناية عن فعله، فإذا أردت ذلك قلت:"فعلت به" قالوا: فلما كان"الباء" هي الأصل، جاز إدخال"الباء" وإخراجها في كل"فعلٍ" سبيلُه سبيلُ كُنْيته [[في المطبوعة: "سبيل كلمته"، وهو تحريف كأخيه السالف. وأراد الطبري بالكناية عن الفعل: أن تستبدل به لفظ"فعل". و"الفعل": كناية عن كل عمل. تقول: "ضربت الرجل" ثم تريد الكناية عن الفعل فتقول: "فعلت به"، وهذا الذي تقوله هو"الكنية".]] .
+
+* *
+
+وأما"التهلكة" فإنها"التفعُلة" من"الهلاك".
+
+* *
+
+القول في تأويل قوله تعالى: ﴿وَأَحْسِنُوا إِنَّ اللَّهَ يُحِبُّ الْمُحْسِنِينَ﴾
+
+قال أبو جعفر: يعني جل ثناؤه بقوله:"وأحسنوا" أحسنوا أيها المؤمنون في أداء ما ألزمتكم من فرائضي، وتجنُّب ما أمرتكم بتجنبه من معاصيَّ، ومن الإنفاق في سبيلي، وَعَوْدِ القوي منكم على الضعيف ذي الخَلَّة [[ذو الخلة: المحتاج والفقير، والمختل الحال بفساد أو وهن.]] فإنّي أحبّ المحسنين في ذلك [[انظر ما سلف في معنى"الإحسان" ٢: ٢٩٢.]] كما:
+
+٣١٨٢ - حدثني المثنى قال، حدثنا إسحاق قال، حدثنا زيد بن الحباب، قال، أخبرنا سفيان، عن أبي إسحاق، عن رجل من الصحابة في قوله:"وأحسنوا إنّ الله يُحب المحسنين" قال: أداء الفرائض.
+
+* *
+
+وقال بعضهم: معناه: أحسنوا الظن بالله.
+
+ذكر من قال ذلك:
+
+٣١٨٣ - حدثني المثنى قال، حدثنا إسحاق قال، حدثنا حفص بن عمر، عن الحكم بن أبان، عن عكرمة:"وأحسنوا إنّ الله يُحب المحسنين": قال: أحسنوا الظن بالله، يبرَّكم.
+
+* *
+
+وقال آخرون: أحسنوا بالعَوْد على المحتاج.
+
+ذكر من قال ذلك:
+
+٣١٨٤ - حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد في قوله:"وأحسنوا إنّ الله يحب المحسنين" عودوا على من ليس في يده شيء.
+
+* *
+
+بسم الله الرحمن الرحيم
 
 ### al-Muyassar (Arabic)
 
@@ -1170,9 +1336,103 @@ So Allah said,
 
 فَإِذَا أَمِنتُمْ فَمَن تَمَتَّعَ بِالْعُمْرَةِ إِلَى الْحَجِّ فَمَا اسْتَيْسَرَ مِنَ الْهَدْيِ
 
-(Then if you are in safety and whosoever performs the 'Umrah (in the months of Hajj), before (performing) the Hajj (i.e., Hajj At-Tamattu' and Al-Qiran), he must slaughter a Hady such as he can afford,) means let him sacrifice whatever Hady is available to him, the least of which is a sheep. One is also allowed to sacrifice a cow because the Prophet ﷺ sl
+(Then if you are in safety and whosoever performs the 'Umrah (in the months of Hajj), before (performing) the Hajj (i.e., Hajj At-Tamattu' and Al-Qiran), he must slaughter a Hady such as he can afford,) means let him sacrifice whatever Hady is available to him, the least of which is a sheep. One is also allowed to sacrifice a cow because the Prophet ﷺ slaughtered cows on behalf of his wives. Al-Awza'i reported that Abu Hurayrah narrated that Allah's Messenger ﷺ slaughtered cows on behalf of his wives when they were performing Tamattu'. This was reported by Abu Bakr bin Marduwyah.
 
-[TRUNCATED at 12000 chars — 7585 more. Consult the source directly before relying on anything near the cut.]
+This last Hadith proves that Tamattu' is legislated. It is reported in the Two Sahihs that 'Imran bin Husayn said, "We performed Hajj At-Tamattu' in the lifetime of Allah's Messenger ﷺ and then the Qur'an was revealed (regarding Hajj At-Tamattu'). Nothing was revealed to forbid it, nor did he (the Prophet ) forbid it until he died. And somebody said what he wished (regarding Hajj At-Tamattu') according to his own opinion." Al-Bukhari said that 'Imran was talking about 'Umar.
+
+It is reported in an authentic narration that 'Umar used to discourage the people from performing Tamattu'. He used to say, "If we refer to Allah's Book, we should complete it," meaning:
+
+فَمَن تَمَتَّعَ بِالْعُمْرَةِ إِلَى الْحَجِّ فَمَا اسْتَيْسَرَ مِنَ الْهَدْيِ
+
+(...whosoever performs the 'Umrah (in the months of Hajj), before (performing) the Hajj, he must slaughter a Hady such as he can afford,)
+
+However 'Umar did not say that Tamattu' is unlawful. He only prevented them so that the people would increase their trips to the House for Hajj (during the months of Hajj) and 'Umrah (throughout the year), as he himself has stated.
+
+Whoever performs Tamattu' should fast Ten Days if He does not have a Hady
+
+Allah said:
+
+فَمَن لَّمْ يَجِدْ فَصِيَامُ ثَلَاثَةِ أَيَّامٍ فِي الْحَجِّ وَسَبْعَةٍ إِذَا رَجَعْتُمْ تِلْكَ عَشَرَةٌ كَامِلَةٌ
+
+(...but if he cannot (afford it), he should fast three days during the Hajj and seven days after his return (to his home), making ten days in all.)
+
+This Ayah means: "Those who do not find a Hady, let them fast three days during the Hajj season." Al-'Awfi said that Ibn 'Abbas said, "If one does not have a Hady, he should fast three days during Hajj, before 'Arafah day. If the day of 'Arafah was the third day, then his fast is complete. He should also fast seven days when he gets back home." Abu Ishaq reported from Wabarah from Ibn 'Umar who said, "One fasts one day before the day of Tarwiyah, the day of Tarwiyah (eighth day of Dhul-Hijjah) and then 'Arafah day (the ninth day of the month of Dhul-Hijjah)." The same statement was reported by Ja'far bin Muhammad from his father from 'Ali.
+
+If one did not fast these three days or at least some of them before 'Id day (the tenth day of Dhul-Hijjah), he is allowed to fast during the Tashriq days (11-12-13th day of Dhul-Hijjah). 'A'ishah and Ibn 'Umar said, "Fasting the days of Tashriq was only allowed for those who did not find the Hady," as Al-Bukhari has reported. Sufyan related that Ja'far bin Muhammad narrated that his father said that 'Ali said, "Whoever did not fast the three days during the Hajj, should fast them during the days of Tashriq." This is also the position taken by 'Ubayd bin 'Umayr Al-Laythi, 'Ikrimah, Al-Hasan Al-Basri and 'Urwah bin Az-Zubayr, referring to the general meaning of Allah's statement:
+
+فَصِيَامُ ثَلَاثَةِ أَيَّامٍ فِي الْحَجِّ
+
+(...fast three days during the Hajj...)
+
+As for what Muslim reported that Qutaybah Al-Hudhali said that Allah's Messenger ﷺ said:
+
+أَيَّامُ التَّشْرِيقِ أَيَّامُ أَكْلٍ وَشُرْبٍ، وَذِكْرِ اللهِ عَزَّ وَجَلَّ
+
+(The days of Tashriq are days of eating and drinking and remembering Allah the Exalted.)
+
+This narration is general in meaning while what 'A'ishah and Ibn 'Umar narrated is specific.
+
+Allah said:
+
+وَسَبْعَةٍ إِذَا رَجَعْتُمْ
+
+(...and seven days after his return.)
+
+There are two opinions regarding the meaning of this Ayah. First, it means 'when you return to the camping areas'. The second, upon going back home. 'Abdur-Razzaq reported that Salim narrated that he heard Ibn 'Umar saying:
+
+فَمَن لَّمْ يَجِدْ فَصِيَامُ ثَلَاثَةِ أَيَّامٍ فِي الْحَجِّ وَسَبْعَةٍ إِذَا رَجَعْتُمْ
+
+"(...but if he cannot (afford it), he should fast three days during the Hajj and seven days after his return,) means when he goes back to his family. " The same opinion was reported from Sa'id bin Jubayr, Abu Al-'Aliyah, Mujahid, 'Ata', 'Ikrimah, Al-Hasan, Qatadah, Imam Az-Zuhri and Ar-Rabi' bin Anas.
+
+Al-Bukhari reported that Salim bin 'Abdullah narrated that Ibn 'Umar said, "During the Farewell Hajj of Allah's Messenger ﷺ, he performed Tamattu' with 'Umrah and Hajj. He drove a Hady along with him from Dhul-Hulayfah. Allah's Messenger ﷺ started by assuming Ihram for 'Umrah, and then for Hajj. And the people, too, performed the 'Umrah and Hajj along with the Prophet ﷺ. Some of them brought the Hady and drove it along with them, while the others did not. So, when the Prophet ﷺ arrived at Makkah, he said to the people:
+
+مَنْ كَانَ مِنْكُم أَهْدَى فَإِنَّهُ لَا يَحِلُّ مِنْ شَيْءٍ حَرُمَ مِنْهُ حَتَّى يَقْضِيَ حَجَّهُ، وَمَنْ لَمْ يَكُنْ مِنْكُمْ أَهْدَى فَلْيَطُفْ بالْبَيْتِ وبالصَّفَا وَالْمَرْوَةِ وَلْيُقَصِّرْ وَلْيَحْلِلْ، ثُمَّ لْيُهِلَّ بِالْحَجِّ، فَمَنْ لَمْ يجَدْ هَدْيًا فَلْيَصُمْ ثَلَاثَةَ أَيَّامٍ فِي الْحَجِّ، وَسَبْعةً إِذَا رَجَعَ إِلى أَهْلِهِ
+
+(Whoever among you has driven the Hady, should not finish his Ihram till he completes his Hajj. And whoever among you has not (driven) the Hady with him, he should perform Tawaf of the Ka'bah and between As-Safa and Al-Marwah. Then, he should shave or cut his hair short and finish his Ihram, and should later assume Ihram for Hajj; [but he must offer a Hady (sacrifice)]. And if anyone cannot afford a Hady, he should fast for three days during the Hajj and seven days when he returns home.)
+
+He then mentioned the rest of the Hadith, which is reported in the Two Sahihs.
+
+Allah said:
+
+تِلْكَ عَشَرَةٌ كَامِلَةٌ
+
+(...making ten days in all.) to emphasize the ruling we mentioned above. This method is common in the Arabic language, for they would say, 'I have seen with my eyes, heard with my ears and written with my hand,' to emphasize such facts. Similarly, Allah said:
+
+وَلَا طَائِرٍ يَطِيرُ بِجَنَاحَيْهِ
+
+(...nor a bird that flies with its two wings)(6:38) and:
+
+وَلَا تَخُطُّهُ بِيَمِينِكَ
+
+(...nor did you write any book (whatsoever) with your right hand)(29:48) and:
+
+وَوَاعَدْنَا مُوسَىٰ ثَلَاثِينَ لَيْلَةً وَأَتْمَمْنَاهَا بِعَشْرٍ فَتَمَّ مِيقَاتُ رَبِّهِ أَرْبَعِينَ لَيْلَةً
+
+(And We appointed for Musa thirty nights and added (to the period) ten (more), and he completed the term, appointed by his Lord, of forty nights.)(7:142)
+
+It was also said that the meaning of "ten days in all" emphasizes the order to fast for ten days, not less than that.
+
+The Residents of Makkah do not perform Tamattu'
+
+Allah said:
+
+ذَٰلِكَ لِمَن لَّمْ يَكُنْ أَهْلُهُ حَاضِرِي الْمَسْجِدِ الْحَرَامِ
+
+(This is for him whose family is not present at Al-Masjid Al-Haram (i.e., non-resident of Makkah).) This Ayah concerns the residents of the area of the Haram, for they do not perform Tamattu'. 'Abdur-Razzaq reported that Tawus said, "Tamattu' is for the people, those whose families are not residing in the Haram area (Makkah), not for the residents of Makkah. Hence Allah's Statement:
+
+ذَٰلِكَ لِمَن لَّمْ يَكُنْ أَهْلُهُ حَاضِرِي الْمَسْجِدِ الْحَرَامِ
+
+(This is for him whose family is not present at Al-Masjid Al-Haram (i.e., non-resident of Makkah).)
+
+Abdur-Razzaq then said, "I was also told that Ibn 'Abbas said similar to Tawus." Allah said:
+
+وَاتَّقُوا اللَّهَ
+
+(...and fear Allah) meaning, in what He has commanded you and what He prohibited for you. He then said:
+
+وَاعْلَمُوا أَنَّ اللَّهَ شَدِيدُ الْعِقَابِ
+
+(...and know that Allah is severe in punishment) for those who defy His command and commit what He has prohibited.
 
 ### al-Tabari (Arabic)
 
@@ -1330,9 +1590,509 @@ So Allah said,
 
 * *
 
-وأما أولى القولين اللذين ذكرنا بالصواب في تأويل قوله:" والعمرةَ لله" على قراءة من قرأ ذلك نصبًا فقولُ عبد الله بن مسعود، ومن قال بقو
+وأما أولى القولين اللذين ذكرنا بالصواب في تأويل قوله:" والعمرةَ لله" على قراءة من قرأ ذلك نصبًا فقولُ عبد الله بن مسعود، ومن قال بقوله من أنّ معنى ذلك: وأتمّوا الحج والعمرة لله إلى البيت بعد إيجابكم إياهما = لا أنَّ ذلك أمرٌ من الله عز وجل - بابتداء عَمَلهما والدخول فيهما وأداء عملهما بتمامه - بهذه الآية.
 
-[TRUNCATED at 12000 chars — 63742 more. Consult the source directly before relying on anything near the cut.]
+وذلك أن الآية محتملة للمعنيين اللذين وَصَفْنا: من أن يكون أمرًا من الله عز وجل بإقامتهما ابتداءًا وإيجابًا منه على العبادِ فرضَهما، وأن يكون أمرًا منه بإتمامهما بعد الدخول فيهما، وبعد إيجاب موجبِهما على نفسه، فإذ كانت الآية محتملة للمعنيين اللذين وصفنا، فلا حجة فيها لأحد الفريقين على الآخر، إلا وللآخر عليه فيها مثلها. وإذ كان كذلك ولم يكن بإيجاب فرض العمرة خبرٌ عن الحجة للعذرِ قاطعًا، وكانت الأمة في وجوبها متنازعة - لم يكن لقول قائلٍ:" هي فرض" بغير برهان دالّ على صحة قوله - معنى [[السياق: "لم يكن لقول قائل ... معنى "]] ، إذ كانت الفرُوض لا تلزم العباد إلا بدلالةٍ على لزومها إياهم واضحةٍ.
+
+فإن ظن ظانٌّ أنها واجبة وجوبَ الحج، وأن تأويلَ من تأوّلَ قوله:" وأتمّوا الحج والعمرةَ لله" بمعنى: أقيموا حدُودَهما وفروضهما أوْلى من تأويلنا، [[سياق المعنى: "وأن تأويل من تأول ... أولى من تأويلنا".]] بما:-
+
+٣٢٢٢ - حدثني به حاتم بن بكير الضبي، قال: ثنا أشهل بن حاتم الأرطبائي، قال: ثنا ابن عون، عن محمد بن جحادة، عن رجل، عن زميل له، عن أبيه- وكان أبوه يكنى أبا المُنْتَفِق- قال: أتيت النبي ﷺ بعرفة، فدنوتُ منه، حتى اختلفتْ عُنق راحلتي وعُنُق راحلته، فقلت: يا رسول الله أنبئني بعمل يُنجيني من عذاب الله ويُدخلُني جَنتَه! قال:"اعبد الله ولا تشرك به شيئًا، وأقم الصلاة المكتوبة، وأدّ الزكاة المفروضة، وحُجّ واعتَمِر= قال أشهل: وأظنه قال:"وصُمْ رمضان= وانظر ماذا تحبُّ من الناس أن يأتوه إليك فافعله بهم، وما تكرهُ من الناس أن يأتوه إليك فذَرْهم منه". [[الحديث: ٣٢٢٢- هذا إسناد ضعيف، لإبهام بعض رواته الذين لم يسموا.
+
+حاتم بن بكير الضبي، شيخ الطبري: هو أيضًا من شيوخ ابن ماجه وابن خزيمة، مترجم في التهذيب والخلاصة، دون بيان حاله، وفي التقريب: "مقبول" وثبت اسم أبيه "بكير" بالتصغير هنا وفي الخلاصة. وثبت بالتكبير "بكر" في التهذيب والخلاصة، ولم أجده في مصدر آخر حتى أستطيع الترجيح بينهما.
+
+أشهل- بالشين المعجمة- بن حاتم، ـأبو حاتم البصري الجمحي: مختلف فيه، فضعفه ابن معين. وقال أبو زرعة: "محله الصدق، وليس بالقوي، رأيته يسند عن ابن عون حديثا، الناس يقفونه". وترجمه البخاري في الكبير ١ / ٢ / ٦٩ فلم يذكر فيه جرحا. ثم هو قد روى له في الصحيح حديثا متصلا وآخر معلقا. مقدمة الفتح، ص:٣٨٩.
+
+وأما نسبته هنا "الأرطبائي- فلا أدري ما هي؟ ولا أعرف لها توجيها. إلا أن يكون ممن أكثر الرواية عن شيخه " ابن عون" - وهو "عبد الله بن عون بن أرطبان" بالنون في آخره - فنسب إلى "أرطبان" لذلك، ثم حرفت "الأرطباني" إلى "الأرطبائي". وما وجدت ما يدل على ذلك، ولا ما يشير إلى أنه يكثر الرواية عن ابن عون - وإنما هو ظن ظننته.
+
+محمد بن جحادة: مضت ترجمته: ٣٤.
+
+أبو المنتفق: -ويقال ابن المنتفق- ترجمه ابن الأثير في أسد الغابة ٥: ٣٠٦ - وروى هذا الحديث، بإسناده إلى معاذ بن معاذ، عن ابن عون، بهذا الإسناد، ووقع فيه "ابن عوف" وهو خطأ مطبعي ظاهر.
+
+وترجمه الحافظ في الإصابة ٧: ١٨١، وذكر له هذا الحديث من رواية الطبراني، ولكن فيه "محمد بن جحادة"، عن زميل له، بحذف "عن رجل" من بينهما.
+
+وترجمه ابن أبي حاتم ٤ / ٢ / ٣٢٧ باسم "ابن المنتفق"، هكذا: "أنه وصف صفة النبي ﷺ، فيما روى محمد بن جحادة، عن المغيرة بن عبد الله اليشكري، عن أبيه، عنه "
+
+والحديث ذكره الهيثمي في مجمع الزوائد ١: ٤٣ - ٤٤، من غير هذا الوجه قال: وعن حجير، عن أبيه، وكان يكنى أبا المنتفق" فذكر نحوه، وفيه -كما هنا- "وحج واعتمر". وذكره قبل ذلك ١: ٤٣، من وجهين آخرين، ليس فيهما هذا اللفظ.
+
+وقال الحافظ في الإصابة - بعد أن أشار إلى رواية الطبراني من طريق ابن عون: "قال الطبراني: اضطرب ابن عون في إسناده، ولم يضبطه عن محمد بن جحادة، وضبطه همام. ثم أخرجه من طريق همام. عن محمد بن جحادة، عن المغيرة بن عبد الله اليشكري، عن أبيه، قال: قدمت الكوفة، فدخلت المسجد فإذا رجل من قيس، يقال له ابن المنتفق، فسمعته يقول " ... وهذه الرواية هي التي ذكرها صاحب الزوائد أولا.
+
+وطرق الحديث من أوجه، منها رواية همام، التي ذكرها الحافظ-: في المسند ١٥٩٤٨- ١٥٩٥٠، (٣: ٤٧٢ - ٤٧٣ حلبي) ، و ١٦٧٧٤ (٤: ٧٦ - ٧٧ حلبي) ، و (٥: ٣٧٢- ٣٧٣، و ٦: ٣٨٣ - ٣٨٤ حلبي) . ولم أجد في روايات المسند هذه، ذكرا للعمرة.]]
+
+وما:-
+
+٣٢٢٣ - حدثني يعقوب بن إبراهيم، قال: ثنا عبد الرحمن بن مهدي، ومحمد بن أبي عدي، عن شعبة، عن النعمان بن سالم، عن عمرو بن أوس، عن أبي رزين العقيلي رجل من بني عامر قال: قلت يا رسول الله إن أبي شيخٌ كبير لا يستطيع الحجّ ولا العمرة ولا الظَّعْن، وقد أدركه الإسلام، أفأحج عنه؟ قال:"حُج عن أبيك واعتمر". [[الحديث: ٣٢٢٣- يعقوب بن إبراهيم: هو الدورقي الحافظ، مضى في: ٢٣٧، ٣٣٥. وهو يروى عن عبد الرحمن بن مهدي. ووقع في المطبوعة هنا بينهما زيادة "قال خدثنا ابن إبراهيم"، وهي زيادة خطأ من ناسخ أو طابع، ولا معنى لها، فحذفناها.
+
+النعمان بن سالم الطائفي: ثقة، وثقه ابن معين وغيره، وأخرج له مسلم في الصحيح.
+
+عمرو ابن أوس بن أبي أوس الثقفي الطائفي: تابعي ثقة. أخرج له أصحاب الكتب الستة.
+
+أبو رزين العقيلي: هو لقيط بن عامر بن المنتفق بن عامر، وهو صحابي معروف، وغلط من جعله و "لقيط بن صبرة بن عبد الله بن المنتفق" - واحدا. بل هما صحابيان، وقد فصل بينهما ابن سعد ٥: ٣٧٩، ٣٤٠.
+
+وهذا الحديث صحيح، خلافا لما قاله الطبري فيما سيأتي بعد أسطر، إذ ضعف هذه الأحاديث كلها وفيما هذا الحديث.
+
+وقد رواه الطيالسي: ١٠٩١، عن شعبة. ورواه أحمد في المسند: ١٦٢٥٣، عن وكيع عن شعبة، بهذا الإسناد (ج ٤ص ١٠، ١١، ١٢ حلبي) .
+
+ورواه أبو داود: ١٨١٠، عن حفص بن عمر ومسلم بن إبراهيم - كلاهما عن شعبة. وقال المنذري: ١٧٣٦، "وأخرجه الترمذي، والنسائي وابن ماجه. وقال الترمذي: حسن صحيح. وقال الإمام أحمد: لا أعلم في إيجاب العمرة حديثا أجود من هذا، ولا أصح منه"
+
+ورواه البيهقي ٤: ٣٥٠، من طريق أبي داود. ثم روى كلمة أحمد بن حنبل في تصحيحه.]]
+
+=وما:-
+
+٣٢٢٤ - حدثني به يعقوب، قال: ثنا ابن علية، عن أيوب، عن أبي قلابة أن رسول الله ﷺ خَطب فقال: اعبدوا الله ولا تشركوا به شيئًا، وأقيموا الصلاة، وآتوا الزكاة، وحُجُّوا واعتمروا واستقيموا يَستقم لكم. [[الحديث: ٣٢٢٤- أبو قلابة- بكسر الكاف وتخفيف اللام. وهو عبد الله بن زيد الجرمي، أحد الأعلام، من التابعين]]
+
+* *
+
+= وما أشبه ذلك من الأخبار، فإن هذه أخبار لا يثبت بمثلها في الدين حجة لِوَهْي أسانيدها، وأنها - معَ وَهْيِ أسانيدها- لها في الأخبار أشكالٌ تنبئ عن أنّ العمرة تطوعٌ لا فرض واجب. وهو ما:-
+
+٣٢٢٥ - حدثنا به محمد بن حميد، ومحمد بن عيسى الدامغاني، قالا ثنا عبد الله بن المبارك، عن الحجاج بن أرطأة، عن محمد بن المنكدر، عن جابر بن عبد الله، عن النبي ﷺ: أنه سئل عن العمرة أواجبة هي؟، فقال:"لا وأن تعتمروا خيرٌ لكم". [[الحديث: ٣٢٢٥- محمد بن عيسى الدامغاني، شيخ الطبري: روى عنه أبو حاتم، وقال: "يكتب حديثه". وروى عنه أيضًا النسائي، وابن خزيمة، وغيرهم.
+
+والحديث رواه أحمد: ١٤٤٤٩ (٣: ٣١٦ حلبي) ، عن ابن معاوية، عن الحجاج بن أرطاة، بهذا الإسناد، نحوه.
+
+ورواه الترمذي ٢: ١١٣، من طريق عمر بن علي، والبيهقي ٤: ٣٤٩، من طريق عبد الواحد بن زياد -كلاهما عن الحجاج، به، نحوه.
+
+وقال الترمذي: "هذا حديث حسن صحيح ". رجح البيهقي أن المحفوظ روايته موقوفا من كلام جابر، وقد أطال الحافظ ابن حجر، في التلخيص، ص ٢٠٤، في إعلال المرفوع وترجيح الموقوف.]]
+
+٣٢٢٦ - حدثنا ابن حميد، قال: ثنا جرير= وحدثني يحيى بن طلحة اليربوعي، قال: ثنا شريك=، عن معاوية بن إِسحاق، عن أبي صالح الحنفي، قال: قال رسول الله ﷺ: الحجُّ جهادٌ، والعمرة تطوع. [[الحديث: ٣٢٢٦- شريك: هو ابن عبد الله النخعي، مضت ترجمته: ٢٥٢٧.
+
+معاوية بن إسحاق بن طلحة بن عبيد الله التيمي: تابعي ثقة.
+
+أبو صالح الحنفي: هو عبد الرحمن بن قيس الكوفي، وهو تابعي ثقة. وأخطأ بعضهم فسماه "ماهان"، والصواب أن كنية "ماهان": "أبو سالم الحنفي". انظر الترجمتين في التهذيب. وعلى الرغم من أن الحافظ ابن حجر حقق ذلك في الموضعين من التهذيب - فإنه سها في التلخيص، ص: ٢٠٤، فقال: "وأبو صالح: ليس ليس هو ذكوان السمان، بل هو أبو صالح ماهان الحنفي"!
+
+وهذا الحديث مرسل. ورواه الشافعي في الأم ٢: ١١٣، قال: " فاختلف الناس في العمرة، فقال بعض المشرقيين: العمرة تطوع. وقال سعيد بن سالم، (هو القداح، شيخ الشافعي) واختج بأن سفيان الثوري أخبره عن معاوية بن إسحاق، عن أبي صالح الحنفي، أن رسول الله ﷺ قال: الحج الجهاد، والعمرة تطوع. فقلت له: أتثبت مثل هذا عن النبي ﷺ؟ فقال: هو منقطع". ثم ذهب الشافعي يقيم عليه الحجة - أن تكون العمرة واجبة". إلى آخر ما قال.
+
+وقد روى البيهقي ٤: ٣٤٨ هذا الحديث المرسل، من طريق الشافعي. ثم نقل عنه بعض ما نقلته.]]
+
+* *
+
+قال أبو جعفر: وقد زعم بعض أهل الغباء أنه قد صحَّ عنده أن العمرة واجبةٌ، بأنه لم يجد تطوعًا، إلا وله إمامٌ من المكتوبة. فلما صح أنّ العمرة تطوُّع وجب أن يكون لها فَرْضٌ، لأن الفرض إمام التطوع في جميع الأعمال.
+
+فيقال لقائل ذلك: فقد جُعِل الاعتكاف تطوُّعًا، فما الفرض منه الذي هو إمامُ مُتطوَّعه؟
+
+ثم يسأل عن الاعتكاف أواجب هو أم غير واجب؟
+
+فإن قال:" واجبٌ"، خرج من قول جميع الأمة.
+
+وإن قال: تطوع.
+
+قيل: فما الذي أوجب أن يكون الاعتكاف تطوعًا والعمرةُ فرضًا، من الوجه الذي يجب التسليم له؟
+
+فلن يقول في أحدهما شيئا إلا ألزم في الآخر مثله.
+
+* *
+
+=وبما استشهدنا من الأدلة، فإن أولى القراءتين بالصواب في" العمرة" قراءةُ من قرأها نصبًا- وأنّ أولى التأويلين في قوله" وأتموا الحج والعمرة لله"، تأويلُ ابن عباس الذي ذكرنا عنه من رواية علي بن أبي طلحة عنه من أنه أمرٌ من الله بإتمام أعمالهما بعد الدُّخول فيهما وإيجابهما على ما أمِر به من حدودهما وسنَنِهما -وأنّ أولى القولين في" العمرة" بالصواب قول من قال:" هي تطوّع لا فرض" - وإن معنى الآية: وأتموا أيها المؤمنون الحجّ والعمرة لله بعد دخولكم فيهما وإيجابكموهما على أنفسكم، على ما أمركم الله من حدودهما.
+
+* *
+
+وإنما أنزل الله تبارك وتعالى هذه الآية على نبيه عليه الصلاة والسلام في عمرة الحديبية التي صُدَّ فيها عن البيت، معرِّفَهُ المؤمنين فيها ما عليهم في إحرامهم إن خُلِّي بينهم وبين البيت ومبيِّنًا لهم فيها ما المُخْرِجَ لهم من إحرامهم إن أحرموا، فصُدوا عن البيت.
+
+ولذكر اللازم لهم من الأعمال في عمرتهم التي اعتمروها عام الحديبية، [[في المطبوعة: "وبذكر اللام ... "، وكأن الصواب ما أثبت حتى يستقيم الكلام.]] وما يلزمهم فيها بعد ذلك في عمرتهم وحجهم، افتَتح بقوله:" يَسْأَلُونَكَ عَنِ الأهِلَّةِ قُلْ هِيَ مَوَاقِيتُ لِلنَّاسِ وَالحَجِّ ".
+
+وقد دللنا فيما مضى على معنى" الحج"" والعمرة" بشواهد، فكرهنا تطويل الكتاب بإعادته. [[انظر ما سلف ٣: ٢٢٨- ٢٢٩.]]
+
+* *
+
+القول في تأويل قوله تعالى: ﴿فَإِنْ أُحْصِرْتُمْ فَمَا اسْتَيْسَرَ مِنَ الْهَدْيِ﴾
+
+قال أبو جعفر: اختلف أهل التأويل في" الإحصار" الذي جعل الله على من ابتلي به في حجه وعمرته ما استيسر من الهدي.
+
+* *
+
+فقال بعضهم: هو كل مانع أو حابس منع المحرم وحبسه عن العمل الذي فرضه الله عليه في إحرامه ووصوله إلى البيت الحرام.
+
+ذكر من قال ذلك:
+
+٣٢٢٧ - حدثني محمد بن عمرو، قال: حدثنا أبو عاصم، قال: حدثنا عيسى، عن ابن أبي نجيح، عن مجاهد أنه كان يقول: "الحصر" الحبس كله. يقول: أيما رجل اعترض له في حجته أو عمرته فإنه يبعث بهديه من حيث يحبس. قال: وقال مجاهد في قوله:" فإن أحصرتم " فإن أحْصِرتم: يَمرض إنسانٌ أو يُكْسر، أو يحبسه أمرٌ فغلبه كائنًا ما كان، فليرسل بما استيسَر من الهَدْي، ولا يحلِق رأسَه، ولا يحل، حتى يوم النحر.
+
+٣٢٢٨ -حدثني المثنى، قال: حدثنا أبو حذيفة، قال: حدثنا شبل، عن ابن أبي نجيح، عن مجاهد، مثله.
+
+٣٢٢٩ - حدثنا المثنى، قال: حدثنا أبو نعيم، قال: حدثنا سفيان، عن ابن جريج، عن عطاء، قال: الإحصار كل شيء يحبسه.
+
+٣٢٣٠ - وحدثنا محمد بن بشار، قال: حدثنا محمد بن جعفر، عن سعيد، عن قتادة أنه قال: في المحصَر: هو الخوفُ والمرض والحابسُ. إذا أصابه ذلك بَعَث بِهَدْيه، فإذا بلغ الهدي مَحِله حَلّ.
+
+٣٢٣١ - حدثنا بشر، قال: حدثنا يزيد، عن سعيد، عن قتادة قوله:" فإن أحصرتم فما استيسر من الهدْي" قال: هذا رجل أصابه خوف أو مرض أو حابس حَبَسه عن البيت يبعث بهَديه، فإذا بلغ مَحِله صار حلالا.
+
+٣٢٣٢ - حدثني المثنى، قال: حدثنا إسحاق، قال: حدثنا أبو معاوية، عن هشام بن عروة، عن أبيه، قال: كل شيء حَبَس المحرم فهو إحصارٌ.
+
+٣٢٣٣ - حدثني المثنى قال: حدثنا سويد، قال: أخبرنا ابن المبارك، عن إبراهيم= قال أبو جعفر: أحسبه عن شريك، عن إبراهيم بن المهاجر، عن إبراهيم=:" فإن أحصِرْتم" قال: مرض أو كسر أو خَوفٌ.
+
+٣٢٣٤- حدثني المثنى، قال: حدثنا أبو صالح، قال: حدثني معاوية، عن علي عن ابن عباس قوله:" فإن أحصرتُم فما استيسر من الهدي"، يقول: من أحرم بحج أو بعمرة، ثم حُبس عن البيت بمرض يُجْهده أو عذر يحبسه، فعليه قَضاؤها.
+
+* *
+
+قال أبو جعفر: وعلة من قال بهذه المقالة: أن" الإحصار" معناه في كلام العَرب: مَنْع العلة من المرض وأشباهه، غيرِ القهرِ والغلبة من قاهر أو غالبٍ، إلا غلبة علة من مرض أو لدغ أو جراحة، أو ذهاب نفقة، أو كسر راحلة. فأما منعُ العدوّ، وحبس حابس في سجن، وغلبة غالبٍ حائل بين المحرِم والوصول إلى البيت من سُلطان، أو إنسان قاهرٍ مانع، فإن ذلك إنما تسميه العرب" حصرا" لا" إحصارا".
+
+قالوا: ومما يدل على ذلك قول الله جل ثناؤه: ﴿وَجَعَلْنَا جَهَنَّمَ لِلْكَافِرِينَ حَصِيرًا﴾ [الإسراء: ٨] يعني به: حاصرًا، أي حابسًا.
+
+قالوا: ولو كان حبس القاهر الغالب من غير العلل التي وصفنا، يسمى" إحصارًا" لوجب أن يقال:" قد أُحْصرَ العدوُّ".
+
+قالوا: وفي اجتماع لغات العرب على" حُوصر العدو، والعدوّ محاصر"، دون" أحصر العدو، وهم مُحْصَرون"، و" أحْصِر الرجل" بالعلة من المرض والخوف- أكبر الدلالة على أنّ الله جل ثناؤه إنما عنى بقوله:" فَإِنْ أُحْصِرْتُمْ " بمرض أو خوف أو علة مانعة.
+
+قالوا: وإنما جعلنا حبس العدو ومنعه المحرم من الوصول إلى البيت بمعنى" حصر المرض" قياسا على ما جعل الله جل ثناؤه من ذلك للمريض الذي منعه المرض من الوصول إلى البيت، لا بدلالة ظاهر قوله:" فإن أحصرتم فما استيسر من الهدي" إذ كان حبس العدو والسلطان والقاهر علة مانعة، نظيرة العلة المانعة من المرض والكسر.
+
+* *
+
+وقال آخرون: معنى قوله:" فإن أحصرتم فما استيسر من الهدي" فإن حبسكم عدو عن الوصول إلى البيت، أو حابس قاهر من بني آدم. قالوا: فأما العلل العارضة في الأبدان كالمرض والجراح وما أشبهها، فإن ذلك غير داخل في قوله:" فإن أحصرتم ".
+
+ذكر من قال ذلك:
+
+٣٢٣٥ - حدثنا محمد بن عمرو، قال: حدثنا أبو عاصم، قال: حدثنا عيسى، عن ابن أبي نجيح، عن مجاهد وعطاء، عن ابن عباس أنه قال:" الحصْرُ": حصرُ العدو، فيبعثُ الرجل بهديّتِه، فإن كان لا يستطيع أن يَصِل إلى البيت من العدو، فإن وجد من يبلغها عنه إلى مكة، فإنه يبعث بها ويُحْرِم = قال محمد بن عمرو، قال أبو عاصم: لا ندري قال: يُحِرِم، أو يَحِل = من يومٍ يواعد فيه صاحبَ الهدْي إذا اشترى. فإذا أمن فعليه أن يحجَّ أو يعتمر. فإذا أصابه مَرَض يحبسه وليس معه هدْي، فإنه يَحِل حيث يُحبَس، فإن كان معه هدْي فلا يحل حتى يَبلغ الهدي مَحله، فإذا بعث به، فليس عليه أن يحج قابلا ولا يعتمر إلا أن يشاء.
+
+٣٢٣٦ - حدثت عن أبي عبيد القاسم بن سلام، قال: حدثني يحيى بن سعيد، عن ابن جريج، عن ابن طاوس، عن أبيه، عن ابن عباس، قال: لا حصر إلا من حَبْس عدو.
+
+٣٢٣٧ - حدثني المثنى، قال: حدثنا أبو حذيفة، قال: حدثنا شبل، عن ابن أبي نجيح، عن مجاهد وعطاء، عن ابن عباس مثل حديث محمد بن عمرو، عن أبي عاصم= إلا أنه قال: فإنه يبعث بها ويحرم من يوم واعَد فيه صاحبَ الهدية إذا اشترى. ثم ذكر سائر الحديث مثل حديث محمد بن عمرو، عن أبي عاصم.
+
+* *
+
+وقال مالك بن أنس: بلغني أنّ رسول الله ﷺ حَلَّ وأصحابه بالحديبية، فنحروا الهدي، وحلقوا رؤوسهم، وحَلّوا من كل شيء قبل أن يطوفوا بالبيت، وقبل أن يَصِل إليه الهدي. ثم لم نَعْلم أنّ رسول الله ﷺ أمرَ أحدًا من أصحابه، ولا ممن كان معه، أن يقضوا شيئًا ولا أن يعودوا لشيء. [[نص كلام مالك في الموطأ: ٣٦٠، وسيأتي برقم: ٣٢٨٧.]]
+
+٣٢٣٨ - حدثني بذلك يونس، قال: أخبرنا ابن وهب عنه= قال: وسئل مالك عمن أحصر بعدو وحيل بينه وبين البيت؟ فقال: يَحلّ من كل شيء، ويَنْحر هَدْيه، ويحلق رأسه حيث يحبس، وليس عليه قضاء، [[إلى هنا نص ما في الموطأ: ٣٦٠، وما بعده زيادة ليست هناك. وسيأتي في آخر رقم: ٣٢٨٨.]] إلا أن يكون لم يحج قَط، فعليه أن يحج حجة الإسلام.
+
+قال: والأمر عندنا فيمن أحصِر بغير عدو بمرض أو ما أشبهه، أنْ يتداوَى بما لا بد منه، ويَفتدي، [[في المطبوعة: "أن يبدأ بما لا بد منه" والصواب ما أثبته، عن الموطأ: ٣٦٢، فراجعه هناك. وانظر أيضًا ما سيأتي رقم: ٣٢٨٩.]] ثم يجعلها عُمرة، ويحج عامًا قابلا ويُهدِي.
+
+* *
+
+قال أبو جعفر: وعلة من قال هذه المقالة - أعني: من قال قولَ مالك - أنّ هذه الآية نزلت في حصر المشركين رسول الله ﷺ وأصحابه عن البيت، فأمر الله نبيّه ومن معه بنحْر هَداياهم والإحلال.
+
+قالوا: فإنما أنزل الله هذه الآية في حَصْر العدو، فلا يجوز أن يصرف حكمها إلى غير المعنى الذي نزلتْ فيه.
+
+قالوا: وأما المريض، فإنه إذا لم يُطِق لمرضه السَّير حتى فاتته عرفة، فإنما هو رجلٌ فاته الحج، عليه الخروج من إحرامه بما يخرُج به من فَاته الحج - وليس من معنى" المحصر" الذي نزلت هذه الآية في شأنه.
+
+* *
+
+قال أبو جعفر: وأولى التأويلين بالصواب في قوله:" فإذا أحصرتم"، تأويل من تأوله بمعنى: فإن أحْصَرَكم خوفُ عَدٍّو أو مرضٌ أو علةٌ عن الوصول إلى البيت أي: صيَّركم خوفكم أو مرضكم تَحصُرون أنفسكم، فتحبسونها عن النفوذ لما أوجبتُموه على أنفسكم من عمل الحج والعمرة. فلذا قيل:" أحصرتم"، لمَّا أسقط ذكِر الخوف والمرض. يقال منه:" أحصرني خوفي من فلان عن لقائك، ومَرَضي عن فلان"، يراد به: جعلني أحبس نفسي عن ذلك. فأما إذا كان الحابس الرجلُ والإنسانُ، قيل:" حصرَني فلان عن لقائك"، بمعنى حبسني عنه.
+
+فلو كان معنى الآية ما ظنه المتأوِّل من قوله:" فإن أحصِرْتم" فإن حبسكم حابس من العدوّ عن الوصول إلى البيت- لوجب أن يكون: فإن حُصِرْتم.
+
+ومما يُبَيِّن صحةَ ما قلناه من أن تأويل الآية مرادٌ بها إحصارُ غير العدوّ وأنه إنما يراد بها الخوف من العدو، قولُه:" فإذا أمنتم فمن تمتع بالعُمْرة إلى الحج".
+
+و" الأمنُ" إنما يكون بزوال الخوف. وإذ كان ذلك كذلك، فمعلوم أن الإحصار الذي عنى الله في هذه الآية، هو الخوف الذي يكون بزواله الأمنُ.
+
+وإذ كان ذلك كذلك، لم يكن حَبسُ الحابس الذي ليس مع حَبْسه خوف على النفس من حبسه داخلا في حكم الآية بظاهرها المتْلوّ، وإن كان قد يُلحق حكمه عندنا بحكمه من وجه القياس من أجل أن حَبْس من لا خوف على النفس من حبسه، كالسلطان غير المخوفة عقوبته، والوالدِ، وزوج المرأة، [[في المطبوعة: "وإن كان. . . " والصواب حذف الواو.]] إن كان منهم أو من بعضهم حبس، ومنعٌ عن الشخوص لعمل الحج، أو الوصول إلى البيت بعد إيجاب الممنوع الإحرامَ، [[قوله: "غير داخل" خبر قوله: "من أجل أن حبس من لا خوف على النفس من حبسه".]] غيرُ داخل في ظاهر قوله:" فإذ أحصرتم"، لما وصفنا من أن معناه: فإن أحصركم خوفُ عدوّ- بدلالة قوله:" فَإِذَا أَمِنْتُمْ فَمَنْ تَمَتَّعَ بِالْعُمْرَةِ إِلَى الْحَجِّ " وقد بين الخبر الذي ذكرنا آنفا عن ابن عباس أنه قال: الحصر: حصر العدو.
+
+وإذ كان ذلك أولى التأويلين بالآية لما وصفنا، وكان ذلك منعا من الوصول إلى البيت، فكل مانع عرض للمحرم فصده عن الوصول إلى البيت، فهو له نظير في الحكم.
+
+* *
+
+قال أبو جعفر: ثم اختلف أهل العلم في تأويل قوله:" فما استيسر من الهدي".
+
+فقال بعضهم: هو شاة.
+
+ذكر من قال ذلك:
+
+٣٢٣٩ - حدثنا عبد الحميد بن بيان القناد، قال: أخبرنا إسحاق الأزرق، عن يونس بن أبي إسحاق السبيعي، عن مجاهد، عن ابن عباس، قال:" ما استيسر من الهدي" شاة.
+
+٣٢٤٠ - حدثنا محمد بن بشار، قال: حدثنا عبد الرحمن= وحدثنا عبد الحميد، قال: أخبرنا إسحاق= قال: حدثنا سفيان، عن حبيب، عن سعيد بن جبير، عن ابن عباس، قال:" ما استيسر من الهدي"، شاة.
+
+٣٢٤١ - حدثنا محمد بن المثنى، قال: حدثنا محمد بن جعفر، قال: حدثنا شعبة، عن يزيد بن أبي زياد، عن مجاهد عن ابن عباس، مثله.
+
+٣٢٤٢ - حدثني ابن المثنى، قال: حدثنا عبد الرحمن، قال: حدثنا سفيان، عن أبي إسحاق، عن النعمان بن مالك، قال: تمتعت فسألت ابن عباس فقال:" ما استيسر من الهدي" قال: قلت شاة؟ قال: شاة.
+
+٣٢٤٣ - حدثنا عبد الحميد بن بيان، قال: حدثنا إسحاق، عن شريك، عن أبي إسحاق، عن النعمان بن مالك، قال: سألت ابن عباس عن" ما استيسر من الهدي"، قال: من الأزواج الثمانية: من الإبل والبقر والمعز والضأن.
+
+٣٢٤٤ - حدثنا أبو كريب ويعقوب بن إبراهيم، قالا حدثنا هشيم، قال الزهري أخبرنا - وسئل عن قول الله جل ثناؤه:" فما استيسر من الهدي" - قال: كان ابن عباس يقول: من الغنم.
+
+٣٢٤٥ -حدثنا ابن حميد، قال: حدثنا يحيى بن واضح، قال: حدثنا يونس بن أبي إسحاق، عن مجاهد، عن ابن عباس قال:" ما استيسر من الهدي"، من الأزواج الثمانية.
+
+٣٢٤٦ - حدثنا ابن عبد الأعلى، قال: حدثنا خالد، قال: قيل للأشعث: ما قول الحسن:" فما استيسر من الهدي"؟ قال: شاة.
+
+٢٦٤٧- حدثنا محمد بن بشار، قال: حدثنا محمد بن جعفر، قال: حدثنا شعبة، عن قتاده. ﴿فَمَا اسْتَيْسَرَ مِنَ الْهَدْيِ﴾ قال: أعلاه بدنة، وأوسطه بقرة، وأخسه شاة.
+
+٣٢٤٨ - حدثنا بشر بن معاذ، قال: حدثنا يزيد بن زريع، قال: حدثنا سعيد، عن قتادة، مثله = إلا أنه كان يقال: أعلاه بدنة، وذكر سائر الحديث مثله.
+
+٣٢٤٩ - حدثنا ابن بشار قال: حدثنا مسلم بن إبراهيم، قال: حدثنا همام، عن قتادة، عن زرارة، عن ابن عباس، قال:" فما استيسر من الهدي"، شاة.
+
+٣٢٥٠ - حدثنا ابن بشار، قال: حدثنا عبد الوهاب، قال: حدثنا أيوب، عن أبي جمرة، عن ابن عباس، مثله.
+
+٣٢٥١ - حدثنا أبو كريب، قال: حدثنا ابن يمان، عن ابن جريج، عن عطاء:" فما استيسر من الهدي" شاة.
+
+٣٢٥٢ - حدثنا أبو كريب، قال، حدثنا ابن يمان، قال: حدثنا محمد بن نفيع، عن عطاء، مثله.
+
+٣٢٥٣ - حدثني موسى بن هارون، قال: حدثنا عمرو بن حماد، قال: حدثنا أسباط، عن السدي، قال: المحصر يبعث بهدي، شاة فما فوقها.
+
+٣٢٥٤ - حدثني عبيد بن إسماعيل الهباري، قال: حدثنا ابن نمير، عن الأعمش، عن إبراهيم، عن علقمة قال: إذا أهل الرجل بالحج فأحصر، بعث بما استيسر من الهدي شاة. قال: فذكرت ذلك لسعيد بن جبير، فقال: كذلك قال ابن عباس.
+
+٣٢٥٥ - حدثني المثنى، قال: حدثنا عبد الله بن صالح، قال: حدثني معاوية بن صالح، عن علي بن أبي طلحة، عن ابن عباس:" ما استيسر من الهدي"، شاة فما فوقها.
+
+٣٢٥٦ - حدثنا ابن بشار، قال: حدثنا محمد بن جعفر، قال: حدثنا شعبة = وحدثنا المثنى، قاله: حدثنا آدم العسقلاني عن شعبة = قال: حدثنا أبو جمرة، عن ابن عباس، قال:" ما استيسر من الهدي"، جزور أو بقرة أو شاة، أو شرك في دم.
+
+٣٢٥٧ - حدثنا ابن بشار، قال: حدثنا عبد الوهاب، قال: سمعت يحيى بن سعيد، قال: سمعت القاسم بن محمد يقول: إن ابن عباس كان يرى أن الشاة" ما استيسر من الهدي".
+
+٣٢٥٨ -حدثنا المثنى، قال: حدثنا إسحاق، قال: حدثنا عبد الوهاب، عن خالد الحذاء، عن عكرمة، عن ابن عباس أنه قال:" ما استيسر من الهدي"، شاة.
+
+٣٢٥٩ - حدثنا يعقوب، قال: حدثنا هشيم، عن مغيرة، عن إبراهيم، قال:" ما استيسر من الهدي"، شاة.
+
+٣٢٦٠ - حدثنا ابن بشار، قال: حدثنا سهل بن يوسف قال: حدثنا حميد، عن عبد الله بن عبيد بن عمير قال: قال ابن عباس: الهدي: شاة، فقيل له: أيكون دون بقرة؟ قال: فأنا أقرأ عليكم من كتاب الله ما تدرون به أن الهدي شاة. ما في الظبي؟ قالوا: شاة، قال: ﴿هَدْيًا بَالِغَ الْكَعْبَةِ﴾ [المائدة: ٩٥] .
+
+٣٢٦١ - حدثني المثنى، قال: حدثنا الحجاج، قال: حدثنا حماد، عن قيس بن سعد، عن عطاء بن أبي رباح، عن ابن عباس، قال: شاة.
+
+٣٢٦٢ - حدثنا أبو كريب، قال: حدثنا وكيع، عن دلهم بن صالح، قال: سألت أبا جعفر، عن قوله:" ما استيسر من الهدي"، فقال: شاة.
+
+٣٢٦٣ - حدثني يونس بن عبد الأعلى، قال: أخبرنا ابن وهب، أن مالك بن أنس حدَّثه عن جعفر بن محمد عن أبيه: أن علي بن أبي طالب كان يقول:" ما استيسر من الهدي"، شاة. [[الأثر: ٣٢٦٣ الموطأ: ٣٨٥.]]
+
+٣٢٦٤ - حدثنا المثنى، قال: حدثنا مطرف بن عبد الله، قال: حدثنا مالك، عن جعفر بن محمد، عن أبيه، عن علي رضي الله عنه، مثله.
+
+٣٢٦٥ - حدثني يونس، قال: أخبرنا ابن وهب، قال: أخبرني مالك أنه بلغه أن عبد الله بن عباس كان يقول:" ما استيسر من الهدي"، شاة. [[الأثر: ٣٢٦٥- الموطأ: ٣٨٥.]]
+
+٣٢٦٦ - حدثني يونس، قال: أخبرنا ابن وهب، قال مالك: وذلك أحب إلي. [[الأثر: ٣٢٦٦- الموطأ: ٣٨٥ ونصه: "وذلك أحب ما سمعته إلي في ذلك"، ثم استدل بآية المائدة التي استدل بها ابن عباس في الأثر: ٣٢٦٠.]]
+
+٣٢٦٧ - حدثني محمد بن سعد قال: حدثني أبي، قال: حدثني عمي، قال: حدثني أبي، عن أبيه، عن ابن عباس، قال:" فما استيسر من الهدي"، قال: عليه - يعني المحصر - هدي. إن كان موسرا فمن الإبل، وإلا فمن البقر وإلا فمن الغنم.
+
+٣٢٦٨ - حدثني المثنى، قال: حدثنا آدم العسقلاني، قال: حدثنا ابن أبي ذئب، عن شعبة مولى ابن عباس، عن ابن عباس، قال:" ما استيسر من الهدي"، شاة، وما عظمت شعائر الله، فهو أفضل.
+
+٣٢٦٩ - حدثني يونس، قال: أخبرنا أشهب، قال: أخبرنا ابن لهيعة: أن عطاء بن أبي رباح حدثه: أن" ما استيسر من الهدي"، شاة.
+
+* *
+
+وقال آخرون:" ما استيسر من الهدي": من الإبل والبقر، سن دون سن.
+
+ذكر من قال ذلك:
+
+٣٢٧٠ - حدثنا محمد بن عبد الأعلى، قال: حدثنا معتمر، قال: سمعت عبيد الله، عن نافع، عن ابن عمر، قال:" ما استيسر من الهدي": البقرة دون البقرة، والبعير دون البعير.
+
+٣٢٧١ - حدثنا ابن بشار، قال: حدثنا محمد بن بكر، قال: حدثنا سعيد، عن قتادة، عن أبي مجلز، قال: سأل رجل ابن عمر:" ما استيسر من الهدي"؟ قال: أترضى شاة؟ = كأنه لا يرضاه.
+
+٣٢٧٢ - حدثنا ابن بشار، قال: حدثنا عبد الوهاب، قال: حدثنا أيوب، عن القاسم بن محمد ونافع، عن ابن عمر قال:" ما استيسر من الهدي"، ناقة أو بقرة، فقيل له:" ما استيسر من الهدي"؟ قال: الناقة دون الناقة، والبقرة دون البقرة.
+
+٣٢٧٣ - حدثني المثنى، قال: حدثنا محمد بن جعفر، قال: حدثنا شعبة، عن يزيد بن أبي زياد، عن مجاهد، عن ابن عمر أنه قال:" فما استيسر من الهدي"، قال: جزور، أو بقرة.
+
+٣٢٧٤ - حدثنا أبو كريب ويعقوب، قالا حدثنا هشيم، قال الزهري أخبرنا - وسئل عن قول الله:" فما استيسر من الهدي" - قال: قال ابن عمر: من الإبل والبقر.
+
+٣٢٧٥ -حدثني يعقوب، قال: حدثنا ابن علية، قال: أخبرنا أيوب، عن نافع، عن ابن عمر في قوله جل ثناؤه:" فما استيسر من الهدي" قال: الناقة دون الناقة، والبقرة دون البقرة.
+
+٣٢٧٦ - حدثني يعقوب، قال: حدثنا ابن علية، عن أيوب، عن القاسم، عن ابن عمر في قوله:" فما استيسر من الهدي"، قال: الإبل والبقر.
+
+٣٢٧٧ - حدثنا ابن بشار، قال: حدثنا عبد الوهاب، قال: سمعت يحيى بن سعيد، قال: سمعت القاسم بن محمد يقول: كان عبد الله بن عمر وعائشة يقولان:" ما استيسر من الهدي": من الإبل والبقر.
+
+٣٢٧٨ - حدثني يعقوب، قال: حدثنا ابن علية، قال: حدثنا الوليد بن أبي هشام، عن زياد بن جبير، عن أخيه عبد الله أو عبيد الله بن جبير، قال: سألت ابن عمر عن المتعة في الهدي؟ فقال: ناقة، قلت: ما تقول في الشاة؟ قال: أكلكم شاة؟ أكلكم شاة؟ [[الخبر: ٣٢٧٨- الوليد بن أبي هشام زياد، مولى عثمان: ثقة جدا، كما قال الإمام أحمد.
+
+زياد بن جبير بن حية بن مسعود الثقفي: تابعي ثقة. مترجم في التهذيب. والكبير ٢ / ١ / ٣٢١٧. وابن أبي حاتم ١ / ٢ / ٢٧، ٣١٠. وقال: "عبيد الله بن جبير بن حية، أخو زياد وغبيد الله ابني جبير بن حية الثقفي. وكانوا إخوة ثلاثة."]]
+
+٣٢٧٩ - حدثني يعقوب، قال: حدثنا ابن علية، عن ليث، عن مجاهد وطاوس قالا" ما استيسر من الهدي"، بقرة.
+
+٣٢٨٠ - حدثني المثنى، قال: حدثنا عبد الله بن صالح، قال: حدثني معاوية بن صالح، عن علي بن أبي طلحة:" فما استيسر من الهدي"، قال في قول ابن عمر: بقرة فما فوقها.
+
+٣٢٨١ - حدثني المثنى، قال: حدثنا أبو صالح، قال: حدثني أبو معشر، عن نافع، عن ابن عمر، قال:" ما استيسر من الهدي"، قال: بدنة أو بقرة، فأما شاة فإنما هي نسك.
+
+٣٢٨٢ - حدثنا المثنى، قال: حدثنا الحجاج، قال: حدثنا حماد، عن هشام بن عروة، عن أبيه، قال: البدنة دون البدنة، والبقرة دون البقرة، وإنما الشاة نسك، قال: تكون البقرة بأربعين وبخمسين.
+
+٣٢٨٣ - حدثنا الربيع، قال: حدثنا ابن وهب، قال: حدثني أسامة، عن نافع، عن ابن عمر، كان يقول:" ما استيسر من الهدي"، بقرة.
+
+٣٢٨٤ - وحدثنا الربيع، قال: حدثنا ابن وهب، قال: حدثني أسامة بن زيد أن سعيدا حدثه، قال: رأيت ابن عمر وأهل اليمن يأتونه فيسألونه عن" ما استيسر من الهدي" ويقولون: الشاة! الشاة! قال: فيرد عليهم:" الشاة! الشاة! يحضهم - إلا أن الجزور دون الجزور، والبقرة دون البقرة، ولكن ما" استيسر من الهدي"، بقرة.
+
+* *
+
+قال أبو جعفر: وأولى القولين بالصواب قول من قال:" ما استيسر من الهدي" شاة. لأن الله جل ثناؤه إنما أوجب ما استيسر من الهدي، وذلك على كل ما تيسر للمهدي أن يهديه كائنا ما كان ذلك الذي يهدي. إلا أن يكون الله جل ثناؤه خص من ذلك شيئا، فيكون ما خص من ذلك خارجا من جملة ما احتمله ظاهر التنزيل، ويكون سائر الأشياء غيره مجزئا إذا أهداه المهدي بعد أن يستحق اسم" هدي".
+
+* *
+
+فإن قال قائل: فإن الذين أبوا أن تكون الشاة مما استيسر من الهدي، بأنه لا يستحق اسم" هدي" كما أنه لو أهدى دجاجة أو بيضة لم يكن مهديا هديا مجزئا.
+
+قيل: لو كان في المهدي الدجاجة والبيضة من الاختلاف، نحو الذي في المهدي الشاة، لكان سبيلهما واحدة: في أن كل واحد منهما قد أدى ما عليه بظاهر التنزيل إذا لم يكن أحد الهديين مخرجه من أن يكون مؤديا [[في المطبوعة: "إذا لم يكن أحد المهديين يخرجه. . . " والصواب ما أثبت.]] - بإهدائه ما أهدى من ذلك - مما أوجبه الله عليه في إحصاره. ولكن لما أخرج المهدي ما دون الجذع من الضأن، والثني من المعز والإبل والبقر فصاعدا من الأسنان - من أن يكون مهديا ما أوجبه الله عليه في إحصاره أو متعته - بالحجة القاطعة العذر، نقلا عن نبينا ﷺ وراثة، كان ذلك خارجا من أن يكون مرادا بقوله:" فما استيسر من الهدي" وإن كان مما استيسر لنا من الهدايا.
+
+ولما اختلف في الجذع من الضأن والثني من المعِز، كان مجزئًا ذلك عن مهديه لظاهر التنزيل، لأنه مما استيسر من الهدي.
+
+* *
+
+فإن قال قائل: فما محل" ما" التي في قوله جل وعز:" فما استيسر من الهدي"؟ قيل: رفع.
+
+فإن قال: بماذا؟
+
+قيل: بمتروك. وذلك" فعليه" لأن تأويل الكلام: وأتموا الحج والعمرة أيها المؤمنون لله، فإن حبسكم عن إتمام ذلك حابس من مرض أو كسر أو خوف عدو فعليكم - لإحلالكم، إن أردتم الإحلال من إحرامكم - ما استيسر من الهدي.
+
+وإنما اخترنا الرفع في ذلك، لأن أكثر القرآن جاء برفع نظائره، وذلك كقوله: ﴿فَمَنْ كَانَ مِنْكُمْ مَرِيضًا أَوْ بِهِ أَذًى مِنْ رَأْسِهِ فَفِدْيَةٌ مِنْ صِيَامٍ﴾ وكقوله: ﴿فَمَنْ لَمْ يَجِدْ فَصِيَامُ ثَلاثَةِ أَيَّامٍ﴾ وما أشبه ذلك مما يطول بإحصائه الكتاب، تركنا ذكره استغناء بما ذكرنا عنه.
+
+ولو قيل موضع" ما" نصب، بمعنى: فإن أحصرتم فأهدوا ما استيسر من الهدي، لكان غير مخطئ قائله. [[انظر معاني القرآن للفراء ١: ١١٨.]]
+
+* *
+
+وأما" الهدي"، فإنه جمع، وأحدها"هديّه"، على تقدير" جديّه السرج" والجمع" الجَدْي" مخفف. [["هدية" و"جدية" بتشديد الياء، وقد ضبطها ناشر مجاز القرآن لأبي عبيدة بفتح فسكون، وهو خطأ والجدية: قطعة من الكساء محشوة تكون تحت دفتي السرج وظلفة الرحل، وهما جديتان.]]
+
+٣٢٨٥ - حدثت عن أبي عبيدة معمر بن المثنى، عن يونس، قال: كان أبو عمرو بن العلاء يقول: لا أعلم في الكلام حرفا يشبهه. [[مجاز القرآن لأبي عبيدة: ٦٩.]]
+
+* *
+
+وبتخفيف" الياء" وتسكين" الدال" من" الهدي" قرأه القرأة في كل مصر، إلا ما ذكر عن الأعرج، فإن:-
+
+٣٢٨٦ - أبا هشام الرفاعي، حدثنا، قال: حدثنا يعقوب، عن بشار، عن أسد، عن الأعرج أنه قرأ: ﴿هَدْيًا بَالِغَ الْكَعْبَةِ﴾ [سورة المائدة:٩٥] بكسر" الدال" مثقلا وقرأ:"حتى يبلغ الهدي محله"، بكسر" الدال" مثقلة. واختلف في ذلك عن عاصم، فروي عنه موافقة الأعرج ومخالفته إلى قراءه سائر القرأة.
+
+* *
+
+و" الهدي" عندي إنما سمي" هديا" لأنه تقرب به إلى الله جل وعز مهديه، بمنزلة الهدية يهديها الرجل إلى غيره متقربا بها إليه، يقال منه:" أهديت الهدي إلى بيت الله، فأنا أهديه إهداء". كما يقال في الهدية يهديها الرجل إلى غيره:" أهديت إلى فلان هدية وأنا أهديها."، ويقال للبدنة" هدية"، ومنه قول زهير بن أبي سلمى، يذكر رجلا أسر، يشبهه في حرمته بالبدنة التي تهدى:
+
+فلم أر معشرا أسروا هديا ... ولم أر جار بيت يستباء! [[ديوانه: ٧٩ من قصيدة كريمة، قالها في ذم بني عليم بن جناب من كلب. وكان رجل من بني عبد الله بن غطفان قد أتاهم فأكرموه وأحسنوا جواره، بيد أنه كان مولعا بالقمار فنهوه عنه، فأبى إلا المقامرة. فقمر مرة فردوا عليه، ثم قمر أخرى فردوا عليه، ثم قمر الثالثة فلم يردوا عليه، وأخذت منه امرأته في قماره. والهدي: الرجل ذو الحرمة المستجير بالقوم فسموه كما قال الطبري بما يهدي إلى البيت، فهو لا يرد عن البيت ولا يصاب، وقوله: "فستباء" أي تؤخذ امرأته وتنكح، ثم قال لهم بعد البيت: وجار البيت والرجل المنادي ... أمام الحي، عهدهما سواء
+
+والمنادي: المجالس في النادي أما بيوت الحي.]]
+
+* *
+
+القول في تأويل قوله تعالى: ﴿وَلا تَحْلِقُوا رُءُوسَكُمْ حَتَّى يَبْلُغَ الْهَدْيُ مَحِلَّهُ﴾
+
+قال أبو جعفر: يعني بذلك جل ثناؤه: فإن أحصرتم، فأردتم الإحلال من إحرامكم، فعليكم ما استيسر من الهدي. ولا تحلوا من إحرامكم إذا أحصرتم حتى يبلغ الهدي = الذي أوجبته عليكم لإحلالكم من إحرامكم الذي أحصرتم فيه، قبل تمامه وانقضاء مشاعره ومناسكه = محله. [[قال ابن كثير في تفسيره ١: ٤٤٦"وقوله: "ولا تحلقوا رؤوسكم حتى يبلغ الهدي محله" معطوف على قوله: "وأتموا الحج والعمرة لله" وليس معطوفا على قوله: "فإن احصرتم فما استيسر من الهدي" كما زعمه ابن جرير رحمه الله. لأن النبي ﷺ وأصحابه عام الحديبية، لما حصرهم كفار قريش عن الدخول إلى الحرم، حلقوا وذبحوا هديهم خارج الحرم. فأما في حال الأمن والوصول إلى الحرم، فلا يجوز الحلق"حتى يبلغ الهدي محله"، ويفرغ الناسك من أفعال الحج والعمرة -وإن كان قارنا- أو من فعل أحدهما، إن كان مفردا أو متمتعا، كما ثبت في الصحيحين عن حفصة أنها قالت: يا رسول الله، ما شأن الناس؟ حلوا من العمرة ولم تحل أنت من عمرتك! فقال: إني لبدت رأسي وقلدت هديي، فلا أحل حتى انحر".
+
+وفي تخطئة ابن كثير لأبي جعفر، نظر وتفصيل ليس هذا موضعه لأنه يطول.]] وذلك أن حلق الرأس إحلال من الإحرام الذي كان المحرم قد أوجبه على نفسه. فنهاه الله عن الإحلال من إحرامه بحلاقه، [[الحلاق مصدر كالحلق والتحلاق، يقال: رأس جيد الحلاق (بكسر الحاء) وقد أكثر مالك من استعمال هذا المصدر في الموطأ (انظر: ٣٩٥، ٣٩٦) .]] حتى يبلغ الهدي -الذي أباح الله جل ثناؤه له الإحلال جل ثناؤه بإهدائه - محله.
+
+* *
+
+ثم اختلف أهل العلم في" محل" الهدي الذي عناه الله جل اسمه، الذي متى بلغه كان للمحصر الإحلال من إحرامه الذي أحصر فيه.
+
+فقال بعضهم: محل هدي المحصر الذي يحل به ويجوز له ببلوغه إياه حلق رأسه = إذا كان إحصاره من خوف عدو منعه ذبحه، إن كان مما يذبح، أو نحره إن كان مما ينحر، في الحل ذبح أو نحر أو في الحرم = [حيث حبس] [[الزيادة بين القوسين لا بد منها حتى يستقيم الكلام.]] وإن كان من غير خوف عدو فلا يحل حتى يطوف بالبيت ويسعى بين الصفا والمروة. وهذا قول من قال: الإحصار إحصار العدو دون غيره.
+
+ذكر من قال ذلك:
+
+٣٢٨٧ - حدثني يونس، قال: أخبرنا ابن وهب، أخبرني مالك بن أنس أنه بلغه أن رسول الله ﷺ حل هو وأصحابه بالحديبية، فنحروا الهدي وحلقوا رءوسهم، وحلوا من كل شيء قبل أن يطوفوا بالبيت، وقبل أن يصل إليه الهدي. ثم لم نعلم أن رسول الله ﷺ أمر أحدا من أصحابه ولا ممن كان معه، أن يقضوا شيئا، ولا أن يعودوا لشيء. [[الأثر: ٣٢٨٧- مضى في ص: ٢٤، بغير إسناد.]]
+
+٣٢٨٨ - حدثني يونس، قال: أخبرنا ابن وهب، قال: أخبرني مالك، عن نافع: أن عبد الله بن عمر خرج إلى مكة معتمرا في الفتنة، فقال: إن صددت عن البيت صنعنا كما صنعنا مع رسول الله ﷺ. فأهل بعمرة من أجل أن النبي كان أهل بعمرة عام الحديبية. ثم إن عبد الله بن عمر نظر في أمره فقال: ما أمرهما إلا واحد. قال: فالتفت إلى أصحابه فقال: ما أمرهما إلا واحد، أشهدكم أني قد أوجبت الحج مع العمرة. قال: ثم طاف طوافا واحدا، ورأى أن ذلك مجز عنه وأهدى=.
+
+قال يونس: قال ابن وهب: قال مالك: وعلى هذا الأمر عندنا فيمن أحصر بعدو كما أحصر نبي الله ﷺ وأصحابه.
+
+فأما من أحصر بغير عدو فإنه لا يحل دون البيت.
+
+قال: وسئل مالك عمن أحصر بعدو وحيل بينه وبين البيت، فقال: يحل من كل شيء، وينحر هديه، ويحلق رأسه حيث حبس، وليس عليه قضاء، إلا أن يكون لم يحج قط، فعليه أن يحج حجة الإسلام. [[الأثر: ٣٢٨٨- في الموطأ: ٣٦٠- ٣٦١ مع خلاف يسير في بعض لفظه. ومن أول قوله: "قال: وسئل مالك"، في آخر هذا الأثر، قد مضى برقم: ٣٢٣٨، وهو في الموطأ: ٣٦٠، قبل النص السالف.]]
+
+٣٢٨٩ - حدثنا يونس، قال: أخبرنا ابن وهب، قال: أخبرنا مالك، قال: حدثني يحيى بن سعيد، عن سليمان بن يسار: أن عبد الله بن عمر ومروان بن الحكم وعبد الله بن الزبير أفتوا ابن حزابة المخزومي، [[في الموطأ: "سعيد بن حزابة المخزومي".]] وصرع في الحج ببعض الطريق، أن يتداوى بما لا بد منه، [[في المطبوعة: "أن يبدأ بما لا بد منه" والصواب من الموطأ، وقد مضى ذلك كذلك أيضًا في ص: ٢٥، وانظر تعليق رقم: ٢.]] ويفتدي، ثم يجعلها عمرة، ويحج عاما قابلا ويهدي.
+
+قال يونس: قال ابن وهب: قال مالك: وذلك الأمر عندنا فيمن أحصر بغير عدو. [[الموطأ: ٣٦٢، ومضى بعض ذلك في ص: ٢٥.]]
+
+قال: وقال مالك: وكل من حبس عن الحج بعد ما يحرم إما بمرض، أو خطأ في العدد، أو خفي عليه الهلال، فهو محصر، عليه ما على المحصر - يعني من المقام على إحرامه - حتى يطوف أو يسعى، ثم الحج من قابل والهدي.
+
+٣٢٩٠ - حدثنا ابن بشار، قال: حدثنا عبد الوهاب، قال: سمعت يحيى بن سعيد، يقول: أخبرني أيوب بن موسى أن داود بن أبي عاصم أخبره: أنه حج مرة فاشتكى، فرجع إلى الطائف ولم يطف بين الصفا والمروة. فكتب إلى عطاء بن أبي رباح يسأله عن ذلك، وأن عطاء كتب إليه: أن أهرق دما
+
+* *
+
+وعلة من قال بقول مالك: في أن محل الهدي في الإحصار بالعدو نحره حيث حبس صاحبه، ما:-
+
+٣٢٩١ - حدثنا به أبو كريب ومحمد بن عمارة الأسدي، قالا حدثنا عبيد الله بن موسى، قال: أخبرنا موسى بن عبيدة، قال: أخبرني أبو مرة مولى أم هانئ، عن ابن عمر، قال: لما كان الهدي دون الجبال التي تطلع على وادي الثنية، عرض له المشركون فردوا وجهه، قال: فنحر النبي ﷺ الهدي حيث حبسوه- وهي الحديبية- وحلق، وتأسى به أناس فحلقوا حين رأوه حلق، وتربص آخرون فقالوا: لعلنا نطوف بالبيت، فقال رسول الله ﷺ: رحم الله المحلقين! قيل: والمقصرين! قال: رحم الله المحلقين! قيل: والمقصرين! قال:"والمقصرين". [[الحديث: ٣٢٩١- إسناده ضعيف جدا، من أجل"موسى بن عبيدة". وقد مضى بيان حاله: ١٨٧٥، ١٨٧٦.
+
+أبو مرة مولى أم هانئ: اسمه"يزيد" ويقال له أيضًا "مولى عقيل بن أبي طالب"، واشتهر بكنيته. وهو تابعي ثقة معروف، أخرج له أصحاب الكتب الستة.
+
+ومعنى الحديث ثابت معروف من أوجه كثيرة، في دواوين الحديث وكتب السيرة، بل إن نحو هذا المعنى ثابت عن ابن عمر بإسناد صحيح، في المسند: ٦٠٦٧، والبخاري ٥: ٢٢٤، و ٧: ٣٩١ (من الفتح) . والدعاء للمحلقين والمقصرين ثابت من حديثه أيضًا، صحيح، في المسند: ٤٦٥٧ والموطأ والصحيحين، كما بينا هناك.]]
+
+٣٢٩٢ - حدثني يعقوب بن إبراهيم، قال: حدثنا يحيى بن سعيد القطان، قال: حدثنا عبد الله بن المبارك، قال: أخبرنا معمر عن الزهري، عن عروة، عن المسور بن مخرمة ومروان بن الحكم، قالا لما كتب رسول الله ﷺ القضية بينه وبين مشركي قريش-وذلك بالحديبية، عام الحديبية- قال لأصحابه:"قوموا فانحروا واحلقوا. قال: فوالله ما قام منهم رجل، حتى قال ذلك ثلاث مرات. فلما لم يقم منهم أحد، قام فدخل على أم سلمة، فذكر ذلك لها، فقالت أم سلمة: يا نبي الله اخرج، ثم لا تكلم أحدا منهم بكلمة حتى تنحر بدنك وتدعو حلاقك فتحلق. فقام فخرج، فلم يكلم منهم أحدا حتى فعل ذلك. فلما رأوا ذلك قاموا فنحروا، وجعل بعضهم يحلق بعضا حتى كاد بعضهم يقتل بعضا غما. [[الحديث: ٣٢٩٢- هو جزء من حديث طويل، في شأن صلح الحديبية، وهو معروف مشهور.
+
+رواه احمد في المسند ٤: ٣٢٨- ٢٣١ (حلبي) عن عبد الرزاق عن معمر بهذا الإسناد ثم رواه عقب ذلك، عن يحيى بن سعيد القطان عن عبد الله بن المبارك. عن معمر ولم يذكر لفظه إحالة على الرواية قبله. وقد رواه الطبري هنا، من طريق يحيى القطان.
+
+ورواه البخاري ٥: ٢٤١- ٢٦٠ (فتح الباري) عن عبد الله بن محمد، عن عبد الرزاق كرواية المسند وروي منه قطعة موجزة ٣: ٤٣٣ من طريق عبد الله بن المبارك، عن معمر.]]
+
+* *
+
+قالوا: فنحر النبي ﷺ هديه حين صده المشركون عن البيت بالحديبية، وحل هو وأصحابه. قالوا: والحديبية ليست من الحرم. قالوا: ففي مثل ذلك دليل واضح على أن معنى قوله:" حتى يبلغ الهدي محله"، حتى يبلغ بالذبح أو النحر محل أكله، والانتفاع به في محل ذبحه ونحره.
+
+٣٢٩٣ - كما روي عن نبي الله عليه الصلاة والسلام في نظيره إذ أتي بلحم - أتته بريرة - من صدقة كان تصدق به عليها، فقال: قربوه فقد بلغ محله. [[الحديث: ٣٢٩٣- هذه إشارة من الطبري إلى حديث مشهور معروف. وهو قصة"بريرة" التي اشترتها عائشة من مواليها الذين كاتبوها، وأعتقها فكانت مولاتها، وهي في الصحيحين وغيرهما. واللفظ الثابت في الصحيحين، في شأن اللحم الذي تصدق به على بريرة، وأهدته هي لعائشة وأن النبي ﷺ أكل منه-: أنه قال: "هو لها صدقة ولنا هدية" أو نحو هذا، من حديث عائشة ومن حديث أنس، ولم أجد لفظ"فقد بلغ محله"، الذي حكاه الطبري في قصة بريرة. ولعله وقع إليه من رواية خفيت علينا.
+
+نعم، جاء نحو هذا اللفظ، في قصتين أخريين في هذا المعنى:
+
+إحداهما: من حديث أم عطية الأنصارية أنها بعثت إلى عائشة من لحم جاءها من الصدقة، فدخل رسول الله ﷺ فسأل عن طعام، فأخبروه بذلك -لأن الصدقة لا تحل له- فقال ﷺ: "إنها قد بلغت محلها". رواه أحمد في المسند ٦: ٤٠٧- ٤٠٨ (حلبي) والبخاري ٣: ٢٤٥، ٢٨١- ٢٨٢، و ٥: ١٤٩- ١٥٠ (فتح) مسلم ١: ٢٩٧.
+
+والأخرى: من حديث جويرية بنت الحارث أم المؤمنين قالت: "دخل على رسول الله ﷺ ذات يوم: فقال: هل من طعام؟ قلت: لا إلا أعظما أعطيته مولاة لنا من الصدقة. قال ﷺ: فقربيه فقد بلغت محلها". رواه أحمد في المسند ٦: ٤٢٩ (حلبي) . ومسلم ١: ٢٩٦.]]
+
+* *
+
+يعني: فقد بلغ محل طيبه وحلاله له بالهدية إليه بعد أن كان صدقة على بريرة.
+
+* *
+
+وقال بعضهم: محل هدي المحصر الحرم لا محل له غيره.
+
+ذكر من قال ذلك:
+
+٣٢٩٤ - حدثني يعقوب بن إبراهيم، قال: حدثنا هشيم، عن الأعمش، عن عمارة بن عمير، عن عبد الرحمن بن يزيد: أن عمرو بن سعيد النخعي أهل بعمرة، فلما بلغ ذات الشقوق لدغ بها، فخرج أصحابه إلى الطريق يتشوفون الناس، فإذا هم بابن مسعود، فذكروا ذلك له، فقال: ليبعث بهدي، واجعلوا بينكم يوم أمارة، فإذا ذبح الهدي فليحل، وعليه قضاء عمرته. [[الخبر: ٣٢٩٤- عمارة بن عمير التيمي: ثقة أخرج له أصحاب الكتب الستة.
+
+عبد الرحمن بن يزيد بن قيس بن عبد الله بن مالك النخعي: تابعي ثقة كثير الحديث.
+
+عمرو بن سعيد النخعي: لم أجد له ذكرا، وليس له شأن في رواية الخبر، بل هو المتحدث عنه، والذي أفتى ابن مسعود في شأنه. وسيأتي اسمه مرة أخرى في الخبر: ٣٢٩٩. وانظر التعليق على الأثر: ٣٢٩٧ وقد روى الطبري هذا الخبر مكررا بأسانيد، كما ترى وانظر التعليق على الأثر: ٣٢٩٧.
+
+ذات الشقوق: منزل بطريق مكة، من الكوفة. وتشوف الشيء: تطاول ينظر إليه.]]
+
+٣٢٩٥ - حدثنا تميم بن المنتصر، قال: حدثنا إسحاق، عن شريك، عن سليمان بن مهران، عن عمارة بن عمير وإبراهيم، عن عبد الرحمن بن يزيد أنه قال: خرجنا مهلين بعمرة فينا الأسود بن يزيد، حتى نزلنا ذات الشقوق، فلدغ صاحب لنا، فشق ذلك عليه مشقة شديدة، فلم ندر كيف نصنع به، فخرج بعضنا إلى الطريق، فإذا نحن بركب فيه عبد الله بن مسعود، فقلنا له: يا أبا عبد الرحمن رجل منا لدغ، فكيف نصنع به؟ قال: يبعث معكم بثمن هدي، فتجعلون بينكم وبينه يوما أمارة، فإذا نحر الهدي فليحل، وعليه عمرة في قابل. [[الخبر: ٣٢٩٥- سليمان بن مهران: هو الأعمش. وهو هنا يروي الخبر عن عمارة بن عمير، كالرواية السابقة، وعن إبراهيم: وهو ابن يزيد بن الأسود بن عمرو النخعي، وهو الفقيه المعروف الثقة، وهو ابن اخت"عبد الرحمن بن يزيد بن قيس". فالأعمش يرويه عنهما عن عبد الرحمن ابن يزيد.
+
+وسيأتي الخبر من روايته وحده أيضًا، عن خاله عبد الرحمن: ٣٢٩٧.]]
+
+٣٢٩٦ - حدثنا ابن بشار، قال: حدثنا مؤمل، قال: حدثنا سفيان، عن الأعمش، عن عمارة بن عمير، عن عبد الرحمن بن يزيد، قال: بينا نحن بذات الشقوق فلبى رجل منا بعمرة فلدغ، فمر علينا عبد الله فسألناه، فقال: اجعلوا بينكم وبينه يوم أمار، فيبعث بثمن الهدي، فإذا نحر حل وعليه العمرة. [[الأمار والأمارة: العلامة والوقت.]]
+
+٣٢٩٧ - حدثني محمد بن المثنى، قال: حدثنا محمد بن جعفر، قال: حدثنا شعبة، عن الحكم، قال: سمعت إبراهيم النخعي يحدث عن عبد الرحمن بن يزيد، قال: أهل رجل منا بعمرة، فلدغ، فطلع ركب فيهم عبد الله بن مسعود، فسألوه، فقال: يبعث بهدي، واجعلوا بينكم وبينه يوما أمارا، فإذا كان ذلك اليوم فليحل = وقال عمارة بن عمير: فكان حسبك به عن عبد الرحمن بن يزيد، عن عبد الله = وعليه العمرة من قابل. [[الخبر: ٣٢٩٧ -الحكم: هو ابن عتيبة- بضم العين وفتح التاء المثناة من فوق، وبعد التحتية باء موحدة. وهو تابعي ثقة حجة فقيه مشهور. وجعله أحمد بن حنبل أثبت الناس في الرواية عن إبراهيم النخعي.
+
+وهذا الخبر رواه الطحاوي في شرح معاني الآثار ١: ٤٣٢، من طريق بشر بن عمر، عن شعبة بهذا الإسناد نحوه وقد سمى فيه الرجل الذي لدغ، فقال: "أهل رجل من النخع بعمرة، يقال له: عمير بن سعيد- إلخ. فإن يكن هذا صوابا يكن هو"عمير بن سعيد النخعي" التابعي وقد مضت ترجمته: ١٦٨٣. فيكون الاسم"عمرو بن سعيد" في الخبرين: ٣٢٩٤، ٣٢٩٩- محرفا عن هذا. ويرجحه أنه وقع اسمه أيضًا محرفا إلى"عمرو بن سعيد" في المطبوعة، هناك في: ١٦٨٣.]]
+
+٣٢٩٨ - حدثني أبو السائب، قال: حدثنا أبو معاوية، عن الأعمش، عن عمارة، عن عبد الرحمن بن يزيد، قال: خرجنا عمارا، فلما كنا بذات الشقوق لدغ صاحب لنا، فاعترضنا للطريق نسأل عما نصنع به، فإذا عبد الله بن مسعود في ركب، فقلنا له: لدغ صاحب لنا؟ فقال: اجعلوا بينكم وبين صاحبكم يوما، وليرسل بالهدي، فإذا نحر الهدي فليحلل، ثم عليه العمرة.
+
+٣٢٩٩ - حدثني يعقوب، قال: حدثنا هشيم، عن الحجاج، قال: حدثني عبد الرحمن بن الأسود، عن أبيه، عن ابن مسعود: أن عمرو بن سعيد النخعي أهل بعمرة، فلما بلغ ذات الشقوق لدغ بها، فخرج أصحابه إلى الطريق يتشوفون الناس، فإذا هم بابن مسعود، فذكروا ذلك له فقال: ليبعث بهدي، واجعلوا بينكم وبينه يوم أمار، فإذا ذبح الهدي فليحل، وعليه قضاء عمرته. [[الخبر:، ٣٢٩٩ -الحجاج: هو ابن أرطاة بن ثور بن هيرة النخعي، وهو ثقة على الراجح عندنا. ثم انظر التعليق على الأثر: ٣٢٩٧.
+
+عبد الرحمن بن الأسود بن يزيد بن قيس النخعي: تابعي ثقة. أبوه الأسود بن يزيد النخعي: هو أخو"عبد الرحمن بن يزيد النخعي، الماضي في الروايات السابقة، وهو تابعي كبير، ثقة من أهل الخير، كما قال أحمد.]]
+
+٣٣٠٠ - حدثني المثنى، قال: حدثنا أبو صالح، قال: حدثني معاوية، عن علي، عن ابن عباس:" فإن أحصرتم فما استيسر من الهدي"، يقول: من أحرم بحج أو عمرة، ثم حبس عن البيت بمرض يجهده أو عذر يحبسه، فعليه ذبح ما استيسر من الهدي، شاة فما فوقها يذبح عنه. فإن كانت حجة الإسلام، فعليه قضاؤها، وإن كانت حجة بعد حجة الفريضة أو عمرة فلا قضاء عليه.
+
+ثم قال:" ولا تحلقوا رءوسكم حتى يبلغ الهدي محله" فإن كان أحرم بالحج فمحله يوم النحر، وإن كان أحرم بعمرة فمحل هديه إذا أتى البيت.
+
+٣٣٠١ - حدثني محمد بن سعد، قال: حدثني أبي، قال: حدثني عمي، قال: حدثني أبي، عن أبيه، عن ابن عباس قوله:" فإن أحصرتم فما استيسر من الهدي"، فهو الرجل من أصحاب محمد ﷺ كان يحبس عن البيت، فيهدي إلى البيت، ويمكث على إحرامه حتى يبلغ الهدي محله. فإذا بلغ الهدي محله حلق رأسه، فأتم الله له حجه. والإحصار أيضا أن يحال بينه وبين الحج، فعليه هدي: إن كان موسرا من الإبل، وإلا فمن البقر، وإلا فمن الغنم، ويجعل حجه عمرة، ويبعث بهديه إلى البيت. فإذا نحر الهدي فقد حل، وعليه الحج من قابل.
+
+٣٣٠٢ - حدثني المثنى، قال: حدثنا إسحاق، حدثنا بشر بن السري، عن شعبة، عن عمرو بن مرة، عن عبد الله بن سلمة، قال: سأل علي رضي الله عنه عن قول الله عز وجل:" فإن أحصرتم فما استيسر من الهدي" فإذا أحصر الحاج بعث بالهدي، فإذا نحر عنه حل، ولا يحل حتى ينحر هديه.
+
+٣٣٠٣ - حدثني محمد بن عمرو، قال: حدثنا أبو عاصم، قال: حدثنا عيسى، عن ابن أبي نجيح، قال: سمعت عطاء يقول: من حبس في عمرته، فبعث بهدية فاعترض لها فإنه يتصدق بشيء أو يصوم، ومن اعترض لهديته، وهو حاج، فإن محل الهدي والإحرام يوم النحر، وليس عليه شيء.
+
+٣٣٠٤ - حدثني المثنى، قال: حدثنا أبو حذيفة، قال: حدثنا شبل، عن ابن أبي نجيح، عن عطاء، مثله.
+
+٣٣٠٥ - حدثني موسى، قال: حدثنا عمرو، قال: حدثنا أسباط، عن السدي قوله:" فإن أحصرتم فما استيسر من الهدي ولا تحلقوا رءوسكم حتى يبلغ الهدي محله"، الرجل يحرم ثم يخرج فيحصر، إما بلدغ أو مرض فلا يطيق السير، وإما تنكسر راحلته، فإنه يقيم، ثم يبعث بهدي شاة فما فوقها. فإن هو صح فسار فأدرك فليس عليه هدي، وإن فاته الحج فإنها تكون عمرة، وعليه من قابل حجة. وإن هو رجع لم يزل محرما حتى ينحر عنه يوم النحر.
+
+فإن هو بلغه أن صاحبه لم ينحر عنه عاد محرما وبعث بهدي آخر، فواعد صاحبه يوم ينحر عنه بمكة، فتنحر عنه بمكة، ويحل، وعليه من قابل حجة وعمرة - ومن الناس من يقول: عمرتان. وإن كان أحرم بعمرة ثم رجع وبعث بهديه، فعليه من قابل عمرتان. وأناس يقولون: لا بل ثلاث عمر، نحوا مما صنعوا في الحج حين صنعوا، عليه حجة وعمرتان.
+
+٣٣٠٦ - حدثنا عبد الحميد بن بيان القناد، قال: أخبرنا إسحاق الأزرق، عن أبي بشر، عن ابن أبي نجيح، عن مجاهد وعطاء، عن ابن عباس، قال: إذا أحصر الرجل بعث بهديه إذا كان لا يستطيع أن يصل إلى البيت من العدو.
+
+فإن وجد من يبلغها عنه إلى مكة، فإنه يبعث بها مكانه، ويواعد صاحب الهدي. فإذا أمن فعليه أن يحج ويعتمر. فإن أصابه مرض يحبسه وليس معه هدي، فإنه يحل حيث يحبس. وإن كان معه هدي، فلا يحل حتى يبلغ الهدي محله إذا بعث به، وليس عليه أن يحج قابلا ولا يعتمر، إلا أن يشاء.
+
+* *
+
+وقال أبو جعفر: وعلة من قال هذه المقالة = أن محل الهدايا والبدن الحرم = أن الله عز وجل ذكر البدن والهدايا فقال: ﴿وَمَنْ يُعَظِّمْ شَعَائِرَ اللَّهِ فَإِنَّهَا مِنْ تَقْوَى الْقُلُوبِ لَكُمْ فِيهَا مَنَافِعُ إِلَى أَجَلٍ مُسَمًّى ثُمَّ مَحِلُّهَا إِلَى الْبَيْتِ الْعَتِيقِ﴾ [الحج: ٣٢-٣٣] فجعل محلها الحرم، ولا محل للهدي دونه.
+
+قالوا: وأما ما ادعاه المحتجون بنحر النبي ﷺ هداياه بالحديبية حين صد عن البيت، فليس ذلك بالقول المجتمع عليه، وذلك أن:
+
+٣٣٠٧ - الفضل بن سهل حدثني، قال: حدثنا مخول بن إبراهيم، قال: حدثنا إسرائيل، عن مجزأة بن زاهر الأسلمي، عن أبيه، عن ناجية بن جندب الأسلمي، قال: أتيت النبي ﷺ حين صد عن الهدي، فقلت: يا رسول الله ابعث معي بالهدي فلننحره بالحرم! قال: كيف تصنع به؟ قلت: آخذ به أودية فلا يقدرون عليه! فانطلقت به حتى نحرته بالحرم. [[الحديث: ٣٣٠٧ -الفضل بن سهل بن إبراهيم الأعرج، شيخ الطبري: أحد الثقات الحفاظ روى عنه الشيخان في الصحيحين. وهو مترجم في التهذيب وابن أبي حاتم ٣/١/٦٣، وتاريخ بغداد ١٢: ٣٦٤-٣٦٥. وتذكرة الحفاظ ٢: ١٢٠.
+
+مخول -بالخاء المعجمة بوزن"محمد"- بن إبراهيم بن مخول بن راشد النهدي الحناط؛ قال الذهبي في الميزان: "رافضي بغيض، صدوق في نفسه". وقال ابن أبي حاتم ٤/١/٣٩٩: "سئل أبي عنه فقال: "هو صدوق" وذكره ابن حبان في الثقات.
+
+إسرائيل: هو ابن يونس بن أبي إسحاق السبيعي. و"مخول" أكثر روايته عن إسرائيل، وقد روى عنه ما لم يرو غيره"، كما قال ابن عدي.
+
+مجزأة بن زاهر: تابعي ثقة، أخرج له الشيخان وغيرهما.
+
+أبوه، زاهر بن أسود بن حجاج بن قيس الأسلمي: صحابي معروف كان ممن بايع تحت الشجرة. ناجية بن جندب الأسلمي: صحابي معروف وكان صاحب بدن رسول اله ﷺ. وهناك أيضًا "ناجية بن كعب الخزاعي" كان صاحب بدن رسول الله ﷺ أيضًا. وقد خلط بينهما بعض الرواة. وحقق الحافظ في التهذيب والإصابة أن هذا غير ذاك.
+
+والحديث رواه الطحاوي في شرح معاني الآثار ١: ٤٢٧، عن إبراهيم بن أبي داود عن مخول ابن إبراهيم بهذا الإسناد إلا أنه جعله"عن مجزأة عن ناجية" مباشرة ليس بينهما"عن أبيه". و"مجزأة" يروى عن ناجية. لكن هذا الحديث بعينه ذكره الحافظ في الإصابة في ترجمة ناجية ٦: ٢٢٢- ٢٢٣ أنه رواه ابن مندة"من طريق مجزأة بن زاهر، عن أبيه عن ناجية بن جندب"، ثم ذكر أنه"أخرجه الطحاوي من طريق مخول". فلا أدري: أسقط قوله"عن أبيه" من نسخة الطحاوي؟ أم هو اختلاف رواية؟
+
+وقال الحافظ بعد ذكره رواية ابن مندة: "قال اب مندة: تفرد به مخول بن إبراهيم عن إسرائيل عنه (يعني عن مجزأة) ورواه عنه (يعني عن مخول) أبو حاتم الرازي وغيره. كذا قال وقد أخرجه النسائي من طريق عبيد الله بن موسى عن إسرائيل مثله". ولم أجده في النسائي. فالظاهر أنه في السنن الكبرى.]] قالوا: فقد بين هذا الخبر أن النبي ﷺ نحر هداياه في الحرم، فلا حجة لمحتج بنحره بالحديبية في غير الحرم.
+
+* *
+
+وقال آخرون: معنى هذه الآية وتأويلها على غير هذين الوجهين اللذين وصفنا من قول الفريقين اللذين ذكرنا اختلافهم على ما ذكرنا. وقالوا: إنما معنى ذلك: فإن أحصرتم أيها المؤمنون عن حجكم - فمنعتم من المضي لإحرامه لعائق مرض أو خوف عدو - وأداء اللازم لكم وحجكم، حتى فاتكم الوقوف بعرفة، فإن عليكم ما استيسر من الهدي، لما فاتكم من حجكم، مع قضاء الحج الذي فاتكم. فقال أهل هذه المقالة: ليس للمحصر في الحج - بالمرض والعلل غيره - الإحلال إلا بالطواف بالبيت والسعي بين الصفا والمروة إن فاته الحج. قالوا: فأما إن أطاق شهود المشاهد، فإنه غير محصر. قالوا: وأما العمرة فلا إحصار فيها، لأن وقتها موجود أبدا. قالوا: والمعتمر لا يحل إلا بعمل آخر ما يلزمه في إحرامه.
+
+قالوا: ولم يدخل المعتمر في هذه الآية، وإنما عنى بها الحاج.
+
+* *
+
+ثم اختلف أهل هذه المقالة. فقال بعضهم: لا إحصار اليوم بعدو، كما لا إحصار بمرض يجوز لمن فاته أن يحل من إحرامه قبل الطواف بالبيت والسعي بين الصفا والمروة.
+
+ذكر من قال ذلك:
+
+٣٣٠٨ - حدثني يعقوب بن إبراهيم، قال: حدثنا ابن علية، عن ليث، عن مجاهد، عن طاوس، قال: قال ابن عباس: لا إحصار اليوم.
+
+٣٣٠٩ - حدثنا ابن بشار، قال: حدثنا عبد الوهاب، قال سمعت يحيى بن سعيد يقول: أخبرني عبد الرحمن بن القاسم أن عائشة قالت: لا أعلم المحرم يحل بشيء دون البيت.
+
+٣٣١٠ - حدثنا الحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن ابن طاوس، عن أبيه، عن ابن عباس، قال: لا حصر إلا من حبسه عدو، فيحل بعمرة، وليس عليه حج ولا عمرة.
+
+* *
+
+وقال آخرون منهم: حصار العدو ثابت اليوم وبعد اليوم، على نحو ما ذكرنا من أقوالهم الثلاثة التي حكينا عنهم.
+
+ذكر من قال ذلك: وقال: معنى الآية: فإن أحصرتم عن الحج حتى فاتكم، فعليكم ما استيسر من الهدي لفوته إياكم:
+
+٣٣١١ - حدثني يونس، قال: أخبرنا ابن وهب، قال: أخبرني يونس، عن ابن شهاب، عن سالم، قال: كان عبد الله بن عمر ينكر الاشتراط في الحج، ويقول: أليس حسبكم سنة رسول الله ﷺ؟ إن حبس أحدكم عن الحج طاف بالبيت والصفا والمروة، ثم حل من كل شيء حتى يحج عاما قابلا ويهدي أو يصوم إن لم يجد هديا.
+
+٣٣١٢ - حدثني محمد بن المثنى، قال: حدثنا عبد الوهاب، قال: حدثنا عبيد الله بن عمر، عن نافع، عن ابن عمر قال: المحصر لا يحل من شيء حتى يبلغ البيت، ويقيم على إحرامه كما هو، إلا أن تصيبه جراحة - أو جرح - فيتداوى بما يصلحه ويفتدي. فإذا وصل إلى البيت، فإن كانت عمرة قضاها، وإن كانت حجة فسخها بعمرة، وعليه الحج من قابل والهدي، فإن لم يجد فصيام ثلاثة أيام في الحج وسبعة إذا رجع.
+
+٣٣١٣ - حدثنا ابن المثنى، قال: حدثنا يحيى بن سعيد، عن عبيد الله، قال: أخبرني نافع: أن ابن عمر مر على ابن حزابة وهو بالسقيا، فرأى به كسرا، فاستفتاه، فأمره أن يقف كما هو لا يحل من شيء حتى يأتي البيت إلا أن يصيبه أذى فيتداوى وعليه ما استيسر من الهدي. وكان أهل بالحج. [[انظر ما سلف رقم: ٣٢٨٩.]]
+
+٣٣١٤ - حدثني المثنى، قال: حدثنا أبو صالح، قال: حدثني الليث، قال: حدثني عقيل، عن ابن شهاب، قال: أخبرني سالم بن عبد الله أن عبد الله بن عمر، قال: من أحصر بعد أن يهل بحج، فحبسه خوف أو مرض أو خلأ له ظهر يحمله، [[خلأت الناقة تخلأ خلاه (بكسر الخاء) فهي خالي: إذا بركت وأبت أن تقوم وأبت أن تقوم وفي الحديث"أن ناقة النبي ﷺ خلأت به يوم الحديبية فقالوا: خلأت القصواء! فقال رسول الله ﷺ: ما خلأت! وما هو لها بخلق! ولكن حبسها حابس الفيل". والظهر: الإبل التي يحمل عليها ويركب عليها.]] أو شيء من الأمور كلها، فإنه يتعالج لحبسه ذلك بكل شيء لا بد له منه، غير أنه لا يحل من النساء والطيب، ويفتدي بالفدية التي أمر الله بها صيام أو صدقة أو نسك. فإن فاته الحج وهو بمحبسه ذلك، أو فاته أن يقف في مواقف عرفة قبل الفجر من ليلة المزدلفة، فقد فاته الحج، وصارت حجته عمرة: يقدم مكة فيطوف بالبيت وبالصفا والمروة، فإن كان 
+
+[TRUNCATED at 60000 chars — 15742 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Muyassar (Arabic)
 

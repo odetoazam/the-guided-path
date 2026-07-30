@@ -248,9 +248,85 @@ Al-Bukhari recorded that 'A'ishah said to 'Urwah about the Ayah;
 
 "My nephew! Your fathers Az-Zubayr and Abu Bakr were among them. After the Prophet ﷺ suffered the calamity at Uhud and the idolators went back, he feared that the idolators might try to come back and he said, 'Who would follow them' Seventy men, including Az-Zubayr and Abu Bakr, volunteered." This was recorded by Al-Bukhari alone.
 
-As for Al
+As for Allah's statement,
 
-[TRUNCATED at 12000 chars — 4567 more. Consult the source directly before relying on anything near the cut.]
+الَّذِينَ قَالَ لَهُمُ النَّاسُ إِنَّ النَّاسَ قَدْ جَمَعُوا لَكُمْ فَاخْشَوْهُمْ فَزَادَهُمْ إِيمَانًا
+
+(Those unto whom the people said, "Verily, the people have gathered against you, therefore, fear them." But it (only) increased them in faith)[3:173], it means, those who threatened the people, saying that the disbelievers have amassed against them, in order to instill fear in them, but this did not worry them, rather, they trusted in Allah and sought His help,
+
+وَقَالُوا حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ
+
+(and they said: "Allah is Sufficient for us, and He is the Best Disposer of affairs.")
+
+Al-Bukhari recorded that Ibn 'Abbas said,
+
+حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ
+
+("Allah Alone is Sufficient for us and He is the Best Disposer of affairs for us.")
+
+"Ibrahim said it when he was thrown in fire. Muhammad said it when the people said, 'Verily, the people have gathered against you, therefore, fear them.' But it only increased them in faith, and they said, 'Allah is Sufficient for us and He is the Best Disposer of affairs for us.'" Abu Bakr Ibn Marduwyah recorded that Anas bin Malik said that the Prophet ﷺ was told on the day of Uhud, "Verily, the people have gathered against you, therefore, fear them." Thereafter, Allah sent down this Ayah [3:173].
+
+This is why Allah said,
+
+فَانقَلَبُوا بِنِعْمَةٍ مِّنَ اللَّهِ وَفَضْلٍ لَّمْ يَمْسَسْهُمْ سُوءٌ
+
+(So they returned with grace and bounty from Allah. No harm touched them;) for when they relied on Allah, Allah took care of their worries, He confounded the plots of their enemies, and the Muslims returned to their land,
+
+بِنِعْمَةٍ مِّنَ اللَّهِ وَفَضْلٍ لَّمْ يَمْسَسْهُمْ سُوءٌ
+
+(with grace and bounty from Allah. No harm touched them;) safe from the wicked plots of their enemies,
+
+وَاتَّبَعُوا رِضْوَانَ اللَّهِ وَاللَّهُ ذُو فَضْلٍ عَظِيمٍ
+
+(and they followed the pleasure of Allah. And Allah is the Owner of great bounty.)
+
+Al-Bayhaqi recorded that Ibn 'Abbas said about Allah's statement,
+
+فَانقَلَبُوا بِنِعْمَةٍ مِّنَ اللَّهِ وَفَضْلٍ
+
+(So they returned with grace and bounty from Allah,) "The 'Grace' was that they were saved. The 'Bounty' was that a caravan passed by, and those days were [Hajj] season days. Thus the Messenger of Allah ﷺ bought and sold and made a profit, which he divided between his Companions."
+
+Allah then said,
+
+إِنَّمَا ذَٰلِكُمُ الشَّيْطَانُ يُخَوِّفُ أَوْلِيَاءَهُ
+
+(It is only Shaytan that suggests to you the fear of his friends,)[3:175] meaning, Shaytan threatens you with his friends and tries to pretend they are powerful and fearsome. Allah said next,
+
+فَلَا تَخَافُوهُمْ وَخَافُونِ إِن كُنتُم مُّؤْمِنِينَ
+
+(so fear them not, but fear Me, if you are indeed believers.) meaning, "If Shaytan brings these thoughts to you, then depend on Me and seek refuge with Me. Indeed, I shall suffice you and make you prevail over them." Similarly, Allah said,
+
+أَلَيْسَ اللَّهُ بِكَافٍ عَبْدَهُ وَيُخَوِّفُونَكَ بِالَّذِينَ مِن دُونِهِ
+
+(Is not Allah Sufficient for His servant? Yet they try to frighten you with those besides Him!)[39:36], until,
+
+قُلْ حَسْبِيَ اللَّهُ عَلَيْهِ يَتَوَكَّلُ الْمُتَوَكِّلُونَ
+
+(Say: "Sufficient for me is Allah; in Him those who trust must put their trust.")[39:38]. Allah said,
+
+فَقَاتِلُوا أَوْلِيَاءَ الشَّيْطَانِ إِنَّ كَيْدَ الشَّيْطَانِ كَانَ ضَعِيفًا
+
+(So fight you against the friends of Shaytan; ever feeble indeed is the plot of Shaytan.)[4:76] and
+
+أُولَٰئِكَ حِزْبُ الشَّيْطَانِ أَلَا إِنَّ حِزْبَ الشَّيْطَانِ هُمُ الْخَاسِرُونَ
+
+(They are the party of Shaytan. Verily, it is the party of Shaytan that will be the losers!)[58:19],
+
+كَتَبَ اللَّهُ لَأَغْلِبَنَّ أَنَا وَرُسُلِي إِنَّ اللَّهَ قَوِيٌّ عَزِيزٌ
+
+(Allah has decreed: "Verily, it is I and My Messengers who shall be the victorious." Verily, Allah is All-Powerful, All-Mighty.)[58:21] and
+
+وَلَيَنصُرَنَّ اللَّهُ مَن يَنصُرُهُ
+
+(Verily, Allah will help those who help His (cause).)[22:40] and
+
+يَا أَيُّهَا الَّذِينَ آمَنُوا إِن تَنصُرُوا اللَّهَ يَنصُرْكُمْ
+
+(O you who believe! If you help (in the cause of) Allah, He will help you)[47:7], and,
+
+إِنَّا لَنَنصُرُ رُسُلَنَا وَالَّذِينَ آمَنُوا فِي الْحَيَاةِ الدُّنْيَا وَيَوْمَ يَقُومُ الْأَشْهَادُ - يَوْمَ لَا يَنفَعُ الظَّالِمِينَ مَعْذِرَتُهُمْ وَلَهُمُ اللَّعْنَةُ وَلَهُمْ سُوءُ الدَّارِ
+
+(Verily, We will indeed make victorious Our Messengers and those who believe, in this world's life and on the Day when the witnesses will stand forth. The Day when their excuses will be of no profit to wrongdoers. Theirs will be the curse, and theirs will be the evil abode.)[40:51-52]
 
 ### al-Tabari (Arabic)
 
@@ -310,9 +386,29 @@ As for Al
 
 ٨٢٤٨ - حدثني محمد بن عمرو قال، حدثنا أبو عاصم، عن عيسى، عن ابن أبي نجيح، عن مجاهد في قوله:"الذين قال لهم الناس إنّ الناس قد جمعوا لكم"، قال: هذا أبو سفيان قال لمحمد:"موعدكم بدرٌ حيث قتلتم أصحابنا"، فقال محمد ﷺ:"عسى"! فانطلق رسول الله ﷺ لموعده حتى نزل بدرًا، فوافقوا السوق فيها وابتاعوا، فذلك قوله تبارك وتعالى:"فانقلبوا بنعمة من الله وفضل لم يمسسهم سوء"، وهي غزوة بدر الصغرى.
 
-٨٢٤٩ - حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن ابن جريج، عن مجاهد بنحوه= وزاد فيه: وهي بدر الصغرى= قال ابن جريج: لما عبَّى النبي ﷺ لموعد أبي سفيان، [[في المطبوعة: "لما عمد النبي. . ."، وفي المخطوطة"لما عبد"، ورجحت أن صحة قراءتها ما أثبت."عبى الجيش تعبئة": هيأه وأصلح أمره وجمعه، مثل"عبأه". ورجحت ذلك، لأن معناه وارد في الآثار الأخرى.]] فجعلوا يلقون المشركين ويسألونهم عن قريش، فيقولون:"قد جمعوا لكم"! يكيدونهم بذلك، يريدون أن يَرْعَبوهم، فيقول المؤمنون:"حسبنا الله ونعم الوكيل"، حتى قدموا بدرًا، فوجدوا أسواقها عافية لم ينازعهم فيها أحد. [[قوله: "أسواقهم عافية"، أي وافرة، من قولهم: "أرض عافية": لم يرع أحد نبتها، فوفر نبتها وكثر. يعني أن الأسواق لم يحضرها أحد يزاحمهم في تجارتها. وانظر الأثر الآتي رقم: ٨٢٥٢.]] قال: وقدم رجل من المشركين وأخبر أهل مكة بخيل محمد عليه السلام، وقال في ذلك: [[هو معبد بن أبي معبد الخزاعي، كما روى ابن هشام في سيرته ٣: ٢٢٠، ٢٢١، والطبري في تاريخه ٣: ٤١
+٨٢٤٩ - حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن ابن جريج، عن مجاهد بنحوه= وزاد فيه: وهي بدر الصغرى= قال ابن جريج: لما عبَّى النبي ﷺ لموعد أبي سفيان، [[في المطبوعة: "لما عمد النبي. . ."، وفي المخطوطة"لما عبد"، ورجحت أن صحة قراءتها ما أثبت."عبى الجيش تعبئة": هيأه وأصلح أمره وجمعه، مثل"عبأه". ورجحت ذلك، لأن معناه وارد في الآثار الأخرى.]] فجعلوا يلقون المشركين ويسألونهم عن قريش، فيقولون:"قد جمعوا لكم"! يكيدونهم بذلك، يريدون أن يَرْعَبوهم، فيقول المؤمنون:"حسبنا الله ونعم الوكيل"، حتى قدموا بدرًا، فوجدوا أسواقها عافية لم ينازعهم فيها أحد. [[قوله: "أسواقهم عافية"، أي وافرة، من قولهم: "أرض عافية": لم يرع أحد نبتها، فوفر نبتها وكثر. يعني أن الأسواق لم يحضرها أحد يزاحمهم في تجارتها. وانظر الأثر الآتي رقم: ٨٢٥٢.]] قال: وقدم رجل من المشركين وأخبر أهل مكة بخيل محمد عليه السلام، وقال في ذلك: [[هو معبد بن أبي معبد الخزاعي، كما روى ابن هشام في سيرته ٣: ٢٢٠، ٢٢١، والطبري في تاريخه ٣: ٤١.]]
 
-[TRUNCATED at 12000 chars — 2794 more. Consult the source directly before relying on anything near the cut.]
+نَفَرَتْ قَلُوصيِ عَنْ خُيولِ مُحَمَّدِ ... وَعَجْوَةٍ مَنْثُورَةٍ كَالعُنْجُدِ وَاتَّخَذَتْ مَاءَ قُدَيْدٍ مَوْعِدِي
+
+* *
+
+قال أبو جعفر: هكذا أنشدنا القاسم، وهو خطأ، وإنما هو:
+
+قَدْ نَفَرَتْ مِنْ رُفْقَتَيْ مُحَمَّدِ ... وَعَجْوَةٍ مِنْ يَثْرِبٍ كَالعُنْجُدِ [[سيرة ابن هشام ٢: ٢٢٠، ٢٢١، وتاريخ الطبري ٣: ٤١، ومعجم ما استعجم: ٨٥٦، ٨٥٧. وقوله: "رفقتي محمد" بالتثنية، يعنى المهاجرين والأنصار. و"العجوة" ضرب من أجود التمر بالمدينة، ونخلته هي"اللينة" المذكورة في قوله تعالى: "ما قطعتم من لينة"، في سورة الحشر. و"يثرب" مدينة رسول الله ﷺ. و"العنجد": الزبيب الأسود.]] تَهْوِي عَلَى دِينِ أَبيهَا الأتْلَدِ ... قَدْ جَعَلَتْ مَاءَ قُدَيْدٍ مَوْعِدِي [[تهوي: تسرع، هوت الناقة تهوى: أسرعت إسراعًا. والدين: الدأب والعادة. و"الأتلد" الأقدم، من التليد، وهو القديم. و"قديد": موضع ماء بين مكة والمدينة.]]
+
+وَمَاءَ ضَجْنَانَ لَهَا ضُحَى الغَدِ [[و"ضجنان" (بفتح أوله وسكون الجيم) : وهو جبل على طريق المدينة من مكة، بينه وبين قديد ليلة، كما بينه هذا الشعر. قاله أبو عبيد البكرى في معجم ما استعجم.]]
+
+* *
+
+٨٢٥٠ - حدثني الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا ابن عيينة، عن عمرو، عن عكرمة قال: كانت بدر متجرًا في الجاهلية، فخرج ناس من المسلمين يريدونه، ولقيهم ناسٌ من المشركين فقالوا لهم:"إنّ الناس قد جمعوا لكم فاخشوهم"! فأما الجبان فرجع، وأما الشجاع فأخذ الأهبة للقتال وأهبة التجارة، وقالوا:"حسبنا الله ونعم الوكيل"! فأتوهم فلم يلقوا أحدًا، فأنزل الله عز وجل فيهم:"إن الناس قد جمعوا لكم فاخشوهم"= قال ابن يحيى قال، عبد الرزاق قال، ابن عيينة: وأخبرني زكريا، عن الشعبي، عن عبد الله بن عمرو قال: هي كلمة إبراهيم ﷺ حين ألقي في النار، فقال:"حسبنا الله ونعم الوكيل".
+
+* *
+
+قال أبو جعفر: وأولى القولين في ذلك بالصواب، قول من قال:"إن الذي قيل لرسول الله ﷺ وأصحابه من أنّ الناس قد جمعوا لكم فاخشوهم، كان في حال خروج رسول الله ﷺ وخروج من خرج معه في أثر أبي سفيان ومن كان معه من مشركي قريش، مُنْصَرَفهم عن أحد إلى حمراء الأسد".
+
+لأن الله تعالى ذكره إنما مدح الذين وصفهم بقيلهم:"حسبنا الله ونعم الوكيل"، لما قيل لهم:"إنّ الناس قد جمعوا لكم فاخشوهم"، بعد الذي قد كان نالهم من القروح والكلوم بقوله:"الذين استجابوا لله والرسول من بعد ما أصابهم القرح"، ولم تكن هذه الصفة إلا صفة من تبع رسول الله ﷺ من جرحى أصحابه بأحد إلى حمراء الأسد.
+
+وأما الذين خرجوا معه إلى غزوة بدر الصغرى، [[في المطبوعة: "وأما قول الذين خرجوا معه"، وهي زيادة فاسدة، وليست في المخطوطة.]] فإنه لم يكن فيهم جريح إلا جريح قد تقادم اندمال جرحه وبرأ كلمُه. وذلك أن رسول الله ﷺ إنما خرج إلى بدر الخرجة الثانية إليها، لموعد أبي سفيان الذي كان واعده اللقاء بها، بعد سنة من غزوة أحد، في شعبان سنة أربع من الهجرة. وذلك أن وقعة أحد كانت في النصف من شوال من سنة ثلاث، وخروج النبي ﷺ لغزوة بدر الصغرى إليها في شعبان من سنة أربع، ولم يكن للنبيّ ﷺ بين ذلك وقعة مع المشركين كانت بينهم فيها حرب جرح فيها أصحابه، ولكن قد كان قتل في وقعة الرَّجيع من أصحابه جماعة لم يشهد أحد منهم غزوة بدر الصغرى. وكانت وقعة الرَّجيع فيما بين وقعة أحد وغزوة النبي ﷺ بدرًا الصغرى.
 
 ### al-Muyassar (Arabic)
 
@@ -598,9 +694,189 @@ Imam Abu Ja'far bin Jarir commented: "This is a parable that Allah has given for
 
 ١٣٨٦٢- حدثني المثنى قال، حدثنا الحجاج بن المنهال قال، حدثنا هشيم قال، حدثنا عبد الله بن عمار = رجل من أهل اليمن= عن أبي الصلت الثقفي: أن عمر بن الخطاب رحمة الله عليه قرأ هذه الآية: ﴿وَمَنْ يُرِدْ أَنْ يُضِلَّهُ يَجْعَلْ صَدْرَهُ ضَيِّقًا حَرَجًا﴾ بنصب الراء. قال: وقرأ بعض مَنْ عنده من أصحاب رسول الله ﷺ:"ضَيِّقًا حَرِجًا". قال صفوان: فقال عمر: ابغوني رجلا من كنانة واجعلوه راعيًا، [[قوله: ((واجعلوه راعيًا)) ، أي التمسوه، وليكن راعيًا، ليس من معنى ((الجعل)) الذي هو التصيير. وهذا استعمال عربي عريق في ((جعل)) ، ولكنهم لم يذكروه في المعاجم، وهو دائر في كلام العرب، وهذا من شواهده، فليقيد في مكانه من كتب العربية.]] وليكن مُدْلجيًّا. [[((مدلج)) قبيلة من بني مرة بن عبد مناة بن كنانة، وهم القافة المشهورون، ويدل هذا الخبر على أن أرض مرعاهم كانت كثيرة الشجر.]] قال: فأتوه به. فقال له عمر: يا فتى، ما الحرجة؟ قال:"الحرجة" فينا، الشجرة تكون بين الأشجار التي لا تصل إليها راعيةٌ ولا وحشيَّة ولا شيء. قال: فقال عمر: كذلك قلبُ المنافق لا يصل إليه شيء من الخير. [[الأثر: ١٣٨٦٢ - ((عبد الله بن عمار اليمامي)) ، قال ابن أبي حاتم: ((مجهول)) ، وذكره ابن حبان في الثقات. مترجم في التهذيب، وابن أبي حاتم ٢ / ٢ / ١٢٩.
 
-و ((أبو الصلت الثقفي)) ، روى عن عمر، وروى عنه عبد الله بن عمار اليمامي، هذا الحديث. مترجم في الته
+و ((أبو الصلت الثقفي)) ، روى عن عمر، وروى عنه عبد الله بن عمار اليمامي، هذا الحديث. مترجم في التهذيب، والكني للبخاري: ٤٤، وابن أبي حاتم ٤ / ٢ / ٣٩٤.
 
-[TRUNCATED at 12000 chars — 9768 more. Consult the source directly before relying on anything near the cut.]
+وهذا خبر عزيز جدًا. في بيان رواية اللغة وشرحها، وسؤال الأعراب والرعاة عنها.]]
+
+١٣٨٦٣- حدثني محمد بن سعد قال، حدثني أبي قال، حدثني عمي قال، حدثني أبي، عن أبيه، عن ابن عباس: ﴿ومن يرد أن يضله يجعل صدره ضيقًا حرجًا﴾ ، يقول: من أراد الله أن يضله يضيق عليه صدره حتى يجعل الإسلام عليه ضيقًا، والإسلام واسع. وذلك حين يقول: ﴿وَمَا جَعَلَ عَلَيْكُمْ فِي الدِّينِ مِنْ حَرَجٍ﴾ ، [سورة الحج:٧٨] ، يقول: ما جعل عليكم في الإسلام من ضيق.
+
+* *
+
+واختلف أهل التأويل في تأويل ذلك.
+
+فقال: بعضهم معناه: شاكًّا.
+
+ذكر من قال ذلك:
+
+١٣٨٦٤- حدثنا عمران بن موسى قال، حدثنا عبد الوارث بن سعيد قال، حدثنا حميد، عن مجاهد: ﴿ضيقًا حرجًا﴾ قال: شاكًّا.
+
+١٣٨٦٥- حدثني محمد بن الحسين قال، حدثنا أحمد بن المفضل قال، حدثنا أسباط، عن السدي: ﴿ضيقًا حرجًا﴾ أما"حرجًا"، فشاكًّا.
+
+* *
+
+وقال آخرون: معناه: ملتبسًا.
+
+ذكر من قال ذلك:
+
+١٣٨٦٦- حدثنا بشر قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة: ﴿يجعل صدره ضيقًا حرجًا﴾ ، قال: ضيقًا ملتبسًا.
+
+١٣٨٦٧- حدثنا عبد الوارث بن عبد الصمد قال، حدثني أبي قال، حدثني عمي قال، حدثني أبي، عن الحسن، عن قتادة أنه كان يقرأ: ﴿ضَيِّقًا حَرَجًا﴾ ، يقول: ملتبسًا.
+
+* *
+
+وقال آخرون: معناه: أنه من شدة الضيق لا يصل إليه الإيمان.
+
+ذكر من قال ذلك:
+
+١٣٨٦٨- حدثنا ابن وكيع قال، حدثنا جرير، عن حبيب بن أبي عمرة، عن سعيد بن جبير: ﴿يجعل صدره ضيقًا حرجًا﴾ ، قال: لا يجد مسلكًا إلا صُعُدًا.
+
+١٣٨٦٩- حدثنا محمد بن عبد الأعلى قال، حدثنا محمد بن ثور، عن معمر، عن عطاء الخراساني: ﴿ضيقًا حرجًا﴾ ، قال: ليس للخير فيه منفَذٌ.
+
+١٣٨٧٠- حدثني المثنى قال، حدثنا سويد بن نصر قال، أخبرنا ابن المبارك، عن معمر، عن عطاء الخراساني، مثله.
+
+١٣٨٧١- حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج عن ابن جريج قوله: ﴿ومن يرد أن يضلّه يجعل صدره ضيقًا حرجًا﴾ ، بلا إله إلا الله، لا يجد لها في صدره مَسَاغًا.
+
+١٣٨٧٢- حدثني المثنى قال، حدثنا سويد بن نصر قال، أخبرنا ابن المبارك، عن ابن جريج قراءةً في قوله: ﴿ومن يرد أن يضله يجعل صدره ضيقًا﴾ ، بلا إله إلا الله، حتى لا تستطيع أن تدخله.
+
+* *
+
+واختلفت القرأة في قراءة ذلك.
+
+فقرأه بعضهم: ﴿ضَيِّقًا حَرَجًا﴾ بفتح الحاء والراء من ﴿حرجًا﴾ ، وهي قراءة عامة المكيين والعراقيين، بمعنى جمع"حرجة"، على ما وصفت. [[انظر ص: ١٠٣، ١٠٤.]]
+
+* *
+
+وقرأ ذلك عامة قرأة المدينة:"ضَيِّقًا حَرِجًا"، بفتح الحاء وكسر الراء.
+
+* *
+
+ثم اختلف الذين قرأوا ذلك في معناه.
+
+فقال بعضهم: هو بمعنى:"الحَرَج". وقالوا:"الحرَج" بفتح الحاء والراء، و"الحرِج" بفتح الحاء وكسر الراء، بمعنى واحد، وهما لغتان مشهورتان، مثل:"الدَّنَف" و"الدَّنِف"، و"الوَحَد" و"الوَحِد"، و"الفَرَد" و"الفَرِد".
+
+* *
+
+وقال آخرون منهم: بل هو بمعنى الإثم، من قولهم:"فلان آثِمٌ حَرِجٌ"، وذكر عن العرب سماعًا منها:"حَرِجٌ عليك ظُلمي"، بمعنى: ضِيقٌ وإثْم. [[انظر معاني القرآن للفراء ١: ٣٥٣، ٣٥٤.]]
+
+قال أبو جعفر: والقول عندي في ذلك أنهما قراءتان مشهورتان، ولغتان مستفيضتان بمعنى واحد، وبأيتهما قرأ القارئ فهو مصيبٌ، لاتفاق معنييهما. وذلك كما ذكرنا من الروايات عن العرب في"الوحَد" و"الفَرَد" بفتح الحاء من"الوحد" والراء من"الفرد"، وكسرهما، بمعنى واحدٍ.
+
+* *
+
+وأما"الضيِّق"، فإن عامة القرأة على فتح ضاده وتشديد يائه، خلا بعض المكيين فإنه قرأه:"ضَيْقًا"، بفتح الضاد وتسكين الياء، وتخفيفه.
+
+وقد يتجه لتسكينه ذلك وجهان:
+
+أحدهما أن يكون سكنه وهو ينوي معنى التحريك والتشديد، كما قيل:"هَيْنٌ لَيْنٌ"، بمعنى: هيِّنٌ ليِّنٌ.
+
+والآخر: أن يكون سكنه بنية المصدر، من قولهم:"ضاق هذا الأمر يضيق ضَيْقًا"، كما قال رؤبة:
+
+قَدْ عَلِمْنَا عِنْدَ كُلِّ مَأْزِقِ ... ضَيْقٍ بِوَجْهِ الأمْرِ أَوْ مُضَيِّقِ [[ليسا في ديوانه، ولم أجدهما في مكان آخر، ومنها أبيات في الزيادات: ١٧٩، ١٨٠، ولم يذكرا معها. وكان في المطبوعة: ((وقد علمنا)) بزيادة الواو. وكان فيها: ((أي مضيق)) ، وأثبت ما في المخطوطة، وهو صواب إن شاء الله.]]
+
+ومنه قول الله: ﴿وَلا تَكُ فِي ضَيْقٍ مِمَّا يَمْكُرُونَ﴾ ، [سورة النحل: ١٢٧] . وقال رؤبة أيضًا * وَشَفَّها اللَّوحُ بِمَأْزُولٍ ضَيَقْ * [[ديوانه: ١٠٥، والوساطة: ١٤. ((مأزول)) من ((الأزل)) (بسكون الزاي) ، وهو الضيق والجدب وشدة الزمان، وفي حديث الدجال: ((أنه يحضر الناس ببيت المقدس، فيؤزلون أزلا)) ، أي: يقحطون ويضيق عليهم. ومعنى: ((مأزول)) ، أصابه القحط، يعني مرعى، ومثله قول الراجز: إنَّ لَهَا لَرَاعِيًا جَرِيَّا ... أَبْلا بمَا يَنْفَعُها قَوِيَّا
+
+لَمْ يَرْعَ مَأْزُولا وَلا مَرْعِيَّا ... حَتَّى علاَ سَنَامُهَا عُلِيَّا
+
+و ((شفها)) أنحل جسمها، وأذهب شحمها. و ((اللوح)) (بضم اللام) وهو أعلى اللغتين، و ((اللوح)) (بفتح فسكون) : وهو العطش الذي يلوح الجسم، أي يغيره. وقوله: ((ضيق)) حرك ((الياء)) بالفتح. وعده القاضي الجرجاني في أخطاء رؤبة.]] بمعنى: ضيّق. وحكي عن الكسائي أنه كان يقول:"الضيِّقُ"، بالكسر: في المعاش والموضع، وفي الأمر"الضَّيْق".
+
+* *
+
+قال أبو جعفر: وفي هذه الآية أبينُ البيان لمن وُفّق لفهمهما، عن أن السبب الذي به يُوصل إلى الإيمان والطاعة، غير السبب الذي به يُوصل إلى الكفر والمعصية، وأن كلا السببين من عند الله. [[هذا رد على المعتزلة، وانظر ما سلف ص: ٩٢، تعليق: ٣، وهو من أجود الردود على دعوى المعتزلة.]] وذلك أن الله جل ثناؤه أخبر عن نفسه أنه يشرح صدرَ من أراد هدايته للإسلام، ويجعل صدر من أراد إضلاله ضيِّقًا عن الإسلام حَرَجًا كأنَّما يصعد في السماء. ومعلومٌ أن شرح الصدر للإيمان خِلافُ تضييقه له، وأنه لو كان يوصل بتضييق الصدر عن الإيمان إليه، لم يكن بين تضييقه عنه وبين شرحه له فرق، ولكان من ضُيِّق صدره عن الإيمان، قد شُرِح صدره له، ومن شرح صدره له، فقد ضُيِّق عنه، إذ كان مَوْصولا بكل واحد منهما= أعني من التضييق والشرح = إلى ما يُوصَل به إلى الآخر. ولو كان ذلك كذلك، وجب أن يكون الله قد كان شرح صدرَ أبي جهل للإيمان به، وضيَّق صدر رسول الله ﷺ عنه. وهذا القول من أعظم الكفر بالله. وفي فساد ذلك أن يكون كذلك، الدليلُ الواضح على أن السَّبب الذي به آمن المؤمنون بالله ورسله، وأطاعه المطيعون، غير السبب الذي كفر به الكافرون بالله وعصاه العاصون، وأن كِلا السببين من عند الله وبيده، لأنه أخبر جل ثناؤه أنه هو الذي يشرح صدرَ هذا المؤمن به للإيمان إذا أراد هدايته، ويضيِّق صدر هذا الكافر عنه إذا أراد إضلالَه.
+
+* *
+
+القول في تأويل قوله: ﴿كَأَنَّمَا يَصَّعَّدُ فِي السَّمَاءِ﴾
+
+قال أبو جعفر: وهذا مثل من الله تعالى ذكره، ضربه لقلب هذا الكافر في شدة تضييقه إياه عن وصوله إليه، مثل امتناعه من الصُّعود إلى السماء وعجزه عنه، لأن ذلك ليس في وسعه.
+
+* *
+
+وبنحو الذي قلنا في ذلك، قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+١٣٨٧٣- حدثنا محمد بن عبد الأعلى قال، حدثنا محمد بن ثور، عن معمر، عن عطاء الخراساني: ﴿كأنما يصعد في السماء﴾ ، يقول: مثله كمثل الذي لا يستطيع أن يصعد في السماء.
+
+١٣٨٧٤- حدثني المثنى قال، حدثنا سويد قال، أخبرنا ابن المبارك، عن معمر، عن عطاء الخراساني، مثله.
+
+١٣٨٧٥- وبه قال، أخبرنا ابن المبارك، عن ابن جريج قراءةً:"يجعل صدره ضيقًا حرجًا"، بلا إله إلا الله، حتى لا تستطيع أن تدخله،"كأنما يصعد في السماء"، من شدّة ذلك عليه.
+
+١٣٨٧٦- حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن ابن جريج، مثله.
+
+١٣٨٧٧- حدثني محمد بن الحسين قال، حدثنا أحمد بن مفضل قال، حدثنا أسباط، عن السدي: ﴿كأنما يصعد في السماء﴾ ، من ضيق صدره.
+
+* *
+
+واختلفت القرأة في قراءة ذلك.
+
+فقرأته عامة قرأة أهل المدينة والعراق: ﴿كَأَنَّمَا يَصَّعَّدُ﴾ ، بمعنى:"يتصعَّد"، فأدغموا التاء في الصاد، فلذلك شدَّدوا الصاد.
+
+* *
+
+وقرأ ذلك بعض الكوفيين:"يَصَّاعَدُ"، بمعنى:"يتصاعد"، فأدغم التاء في الصاد، وجعلها صادًا مشدَّدة.
+
+* *
+
+وقرأ ذلك بعض قرأة المكيين:"كَأَنَّمَا يَصْعَدُ"، من"صَعِد يصعَد".
+
+* *
+
+وكل هذه القراءات متقاربات المعانى، وبأيِّها قرأ القارئ فهو مصيب، غير أني أختار القراءة في ذلك بقراءة من قرأه: ﴿كَأَنَّمَا يَصَّعَّدُ﴾ ، بتشديد الصاد بغير ألف، بمعنى:"يتصعد"، لكثرة القرأة بها، [[انظر تفسير ((الصعود)) فيما سلف ٧: ٢٩٩ - ٣٠٢.]] ولقيل عمر بن الخطاب رضي الله عنه:"مَا تَصَعَّدَني شَيْء مَا تَصَعَّدَتْنِي خُطْبَةُ النّكاح".
+
+* *
+
+القول في تأويل قوله: ﴿كَذَلِكَ يَجْعَلُ اللَّهُ الرِّجْسَ عَلَى الَّذِينَ لا يُؤْمِنُونَ (١٢٥) ﴾
+
+قال أبو جعفر: يقول تعالى ذكره: كما يجعل الله صدر مَنْ أراد إضلاله ضيقًا حرجًا، كأنما يصعد في السماء من ضيقه عن الإيمان فيجزيه بذلك، كذلك يسلّط الله الشيطان عليه وعلى أمثاله ممن أبَى الإيمان بالله ورسوله، فيغويه ويصدّه عن سبيل الحق.
+
+* *
+
+وقد اختلف أهل التأويل في معنى"الرجس".
+
+فقال بعضهم: هو كل ما لا خير فيه.
+
+ذكر من قال ذلك:
+
+١٣٨٧٨- حدثني محمد بن عمرو قال، حدثنا أبو عاصم، عن عيسى، عن ابن أبي نجيح، عن مجاهد قال:"الرجس"، ما لا خير فيه.
+
+١٣٨٧٩- حدثني المثنى قال، حدثنا أبو حذيفة قال، حدثنا شبل، عن ابن أبي نحيح، عن مجاهد: ﴿يجعل الله الرجس على الذين لا يؤمنون﴾ ، قال: ما لا خير فيه.
+
+* *
+
+وقال آخرون:"الرجس"، العذاب.
+
+ذكر من قال ذلك:
+
+١٣٨٨٠- حدثني يونس قال، أخبرنا ابن وهب قال، قال ابن زيد: ﴿كذلك يجعل الله الرجس على الذين لا يؤمنون﴾ ، قال: الرجس عذابُ الله.
+
+* *
+
+وقال آخرون:"الرجس"، الشيطان.
+
+ذكر من قال ذلك:
+
+١٣٨٨١- حدثني المثنى قال، حدثنا عبد الله بن صالح قال، حدثني معاوية بن صالح، عن علي بن أبي طلحة، عن ابن عباس قوله: ﴿الرجس﴾ ، قال: الشيطان.
+
+* *
+
+وكان بعض أهل المعرفة بلغات العرب من الكوفيين يقول:"الرِّجْس"،"والنِّجْس" لغتان. ويحكى عن العرب أنها تقول:"ما كان رِجْسًا، ولقد رَجُس رَجَاسة" و"نَجُس نَجَاسة".
+
+وكان بعض نحويي البصريين يقول:"الرجس" و"الرِّجز"، سواء، وهما العذاب. [[انظر مجاز القرآن لأبي عبيدة ١: ٢٠٦، فهذا قوله.]]
+
+* *
+
+قال أبو جعفر: والصواب من القول في ذلك عندي ما قاله ابن عباس، ومَنْ قال إن"الرجس" و"النجس" واحد، للخبر الذي رُوي عن رسول الله ﷺ أنه كان يقول إذا دخل الخَلاء:"اللهُمّ إنّي أعوذ بك من الرجْس النِّجْس الخبيث المُخْبِثِ الشيطان الرَّجيم". [[قال أبو عبيد: ((الخبيث)) ذو الخبث في نفسه، و ((المخبث)) (بكسر الباء) : الذي أصحابه وأعوانه خبثاء = وهو مثل قولهم: ((فلان ضعيف مضعف، وقوي مقو)) ، فالقوي في بدنه، والمقوى الذي تكون دابته قوية = يريد هو الذي يعلمهم الخبث ويوقعهم فيه.]]
+
+١٣٨٨٢- حدثني بذلك عبد الرحمن بن البختري الطائي قال، حدثنا عبد الرحمن بن محمد المحاربي، عن إسماعيل بن مسلم، عن الحسن وقتادة، عن أنس، عن النبي ﷺ. [[الأثر: ١٣٨٨٢ - ((عبد الرحمن بن البختري الطائي)) ، شيخ أبي جعفر، لم أجد له ذكرًا فيما بين يدي من الكتب؛ وأخشى أن يكون في اسمه خطأ.
+
+و ((عبد الرحمن بن محمد المحاربي)) ، سلف مرارًا كثيرة، آخرها رقم: ١٠٣٣٩.
+
+و ((إسماعيل بن مسلم المكي البصري)) ، مضى برقم: ٥٤١٧، ٨٨١١.
+
+وهذا إسناد صحيح، ولكني لم أجد هذا الخبر في حديث أنس، في المسند أو غيره، ووجدته بهذا اللفظ في حديث أبي أمامة بإسناد ضعيف، من طريق يحيى بن أيوب، عن عبيد الله بن زحر، عن علي بن يزيد، عن القاسم، عن أبي أمامة، رواه ابن ماجه في سننه ص: ١٠٩ رقم: ٢٩٩. قال ابن حبان: ((إذا اجتمع في إسناد خبر، عبيد الله بن زحر، وعلى بن يزيد، عن القاسم، فذاك مما عملته أيديهم!)) .]]
+
+* *
+
+وقد بيَّن هذا الخبر أن"الرِّجْس" هو"النِّجْس"، القذر الذي لا خير فيه، وأنه من صفة الشيطان.
 
 ### al-Muyassar (Arabic)
 
@@ -746,9 +1022,65 @@ Ka'b added, "The wife of Hilal bin Umayyah came to Allah's Messenger ﷺ and sai
 
 ('No (you can serve him), but he should not come near you [sexually]).'
 
-She said, 'By Allah! He has no desire for anything. By Allah, he has never ceased weeping since his case began until this day of his.' On that, some of my family members said to me, 'Will you also ask Allah's Messenger to permit your wife (to serve you) as he has permitted the wife of Hilal bin Umayyah to serve him?' I said, 'By Allah, I will not ask permission of Allah's Messenger ﷺ regarding her, for I do not know what Allah's Messenger ﷺ would say if I asked him to permit her (to serve me) while I am a young man.' We remained in that state for ten more nights, until the period of fifty nights was completed, starting from the time when Allah's Messenger ﷺ prohibited the people from talking to us. When I had finished the Fajr prayer on the fiftieth morning on the roof of one of our houses, while sitting in the condition in which Allah described (in the Qur'an): my very soul seemed straitened to me and even the earth seemed narrow to me for all its spaciousness. There I heard the voice of a man who had ascended the mountain of Sal' calling with his loudest voice, 'O Ka'b bin Malik! Be happy (by receiving good tidings).' I fell down in prostration before Allah, realizing that relief has come with His forgiveness for us. Allah's Messenger ﷺ announced the acceptance of our repentance by Allah after Fajr prayer. The people went out to congratulate us. Some bearers of good news went to my two companions, a horseman came to me in haste, while a man from Banu Aslam came running and ascended the mountain and his voice was swifter than the horse. When the man whose voice I had heard, came to m
+She said, 'By Allah! He has no desire for anything. By Allah, he has never ceased weeping since his case began until this day of his.' On that, some of my family members said to me, 'Will you also ask Allah's Messenger to permit your wife (to serve you) as he has permitted the wife of Hilal bin Umayyah to serve him?' I said, 'By Allah, I will not ask permission of Allah's Messenger ﷺ regarding her, for I do not know what Allah's Messenger ﷺ would say if I asked him to permit her (to serve me) while I am a young man.' We remained in that state for ten more nights, until the period of fifty nights was completed, starting from the time when Allah's Messenger ﷺ prohibited the people from talking to us. When I had finished the Fajr prayer on the fiftieth morning on the roof of one of our houses, while sitting in the condition in which Allah described (in the Qur'an): my very soul seemed straitened to me and even the earth seemed narrow to me for all its spaciousness. There I heard the voice of a man who had ascended the mountain of Sal' calling with his loudest voice, 'O Ka'b bin Malik! Be happy (by receiving good tidings).' I fell down in prostration before Allah, realizing that relief has come with His forgiveness for us. Allah's Messenger ﷺ announced the acceptance of our repentance by Allah after Fajr prayer. The people went out to congratulate us. Some bearers of good news went to my two companions, a horseman came to me in haste, while a man from Banu Aslam came running and ascended the mountain and his voice was swifter than the horse. When the man whose voice I had heard, came to me conveying the good news, I took off my garments and dressed him with them; and by Allah, I owned no other than them on that day. Then I borrowed two garments, wore them and went to Allah's Messenger ﷺ. The people started receiving me in batches, congratulating me on Allah's acceptance of my repentance, saying, 'We congratulate you on Allah's acceptance of your repentance.'"
 
-[TRUNCATED at 12000 chars — 7711 more. Consult the source directly before relying on anything near the cut.]
+Ka'b further said, "When I entered the Masjid, I saw Allah's Messenger ﷺ sitting in the Masjid with the people around him. Talhah bin 'Ubaydullah swiftly came to me, shook my hands and congratulated me. By Allah, none of the Muhajirun got up for me except Talhah; I will never forget Talhah for this."
+
+Ka'b added, "When I greeted Allah's Messenger ﷺ, his face was bright with joy. He said
+
+أَبْشِرْ بَخَيْرِ يَومٍ مَرَّ عَلَيْكَ مُنْذُ وَلَدَتْكَ أُمُّكَ
+
+('Be happy with the best day you have ever seen since your mother gave birth to you.)
+
+I said to the Prophet, 'Is this forgiveness from you or from Allah?' He said,
+
+لَا بَلْ مِنْ عِنْدِ اللهِ
+
+(No, it is from Allah). Whenever Allah's Messenger ﷺ became happy, his face would shine as if it was a piece of the moon, and we all knew that characteristic of him. When I sat before him, I said, 'O Allah's Messenger! Because of the acceptance of my repentance I will give up all my wealth as alms for the sake of Allah and His Messenger.' Allah's Messenger ﷺ said,
+
+أَمْسِكْ عَلَيْكَ بَعْضَ مَالِكَ فَهْوَ خَيْرٌ لَكَ
+
+(Keep some of your wealth, as it will be better for you). I said, 'So I will keep my share from Khaybar with me.' I added, 'O Allah's Messenger! Allah has saved me for telling the truth; so it is part of my repentance not to tell but the truth as long as I am alive.' By Allah, I do not know of any Muslim, whom Allah has helped to tell the truth more than I. Ever since I have mentioned the truth to Allah's Messenger ﷺ, I have never intended to tell a lie, until today. I hope that Allah will also save me (from telling lies) the rest of my life. So Allah revealed the Ayah,
+
+لَّقَد تَّابَ اللَّهُ عَلَى النَّبِيِّ وَالْمُهَاجِرِينَ وَالْأَنصَارِ الَّذِينَ اتَّبَعُوهُ فِي سَاعَةِ الْعُسْرَةِ مِن بَعْدِ مَا كَادَ يَزِيغُ قُلُوبُ فَرِيقٍ مِّنْهُمْ ثُمَّ تَابَ عَلَيْهِمْ ۚ إِنَّهُ بِهِمْ رَءُوفٌ رَّحِيمٌ - وَعَلَى الثَّلَاثَةِ الَّذِينَ خُلِّفُوا حَتَّىٰ إِذَا ضَاقَتْ عَلَيْهِمُ الْأَرْضُ بِمَا رَحُبَتْ وَضَاقَتْ عَلَيْهِمْ أَنفُسُهُمْ وَظَنُّوا أَن لَّا مَلْجَأَ مِنَ اللَّهِ إِلَّا إِلَيْهِ ثُمَّ تَابَ عَلَيْهِمْ لِيَتُوبُوا ۚ إِنَّ اللَّهَ هُوَ التَّوَّابُ الرَّحِيمُ - يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَكُونُوا مَعَ الصَّادِقِينَ
+
+(Allah has forgiven the Prophet, the Muhajirin and the Ansar who followed him in the time of distress, after the hearts of a party of them had nearly deviated, but He accepted their repentance. Certainly, He is unto them full of kindness, Most Merciful. And the three who stayed behind, until for them the earth, vast as it is, was straitened and their souls were straitened to them, and they perceived that there is no fleeing from Allah, and no refuge but with Him. Then, He forgave them, that they might beg for His pardon. Verily, Allah is the One Who forgives and accepts repentance, Most Merciful. O you who believe! Have Taqwa of Allah, and be with those who are true (in words and deeds).)
+
+Ka'b said; "By Allah! Allah has never bestowed upon me, apart from His guiding me to Islam, a greater blessing than the fact that I did not tell a lie to Allah's Messenger ﷺ which would have caused me to perish, just as those who had told a lie have perished. Allah described those who told lies with the worst descriptions He ever attributed to anyone. Allah said,
+
+سَيَحْلِفُونَ بِاللَّهِ لَكُمْ إِذَا انقَلَبْتُمْ إِلَيْهِمْ لِتُعْرِضُوا عَنْهُمْ ۖ فَأَعْرِضُوا عَنْهُمْ ۖ إِنَّهُمْ رِجْسٌ ۖ وَمَأْوَاهُمْ جَهَنَّمُ جَزَاءً بِمَا كَانُوا يَكْسِبُونَ - يَحْلِفُونَ لَكُمْ لِتَرْضَوْا عَنْهُمْ ۖ فَإِن تَرْضَوْا عَنْهُمْ فَإِنَّ اللَّهَ لَا يَرْضَىٰ عَنِ الْقَوْمِ الْفَاسِقِينَ
+
+(They will swear by Allah to you when you return to them, that you may turn away from them. So turn away from them. Surely, they are Rijs (impure), and Hell is their dwelling place – a recompense for that which they used to earn. They swear to you that you may be pleased with them, but if you are pleased with them, certainly Allah is not pleased with the people who are rebellious.)
+
+Ka'b added, "We, the three persons, differed altogether from those whose excuses Allah's Messenger ﷺ accepted when they swore to him. He took their pledge and asked Allah to forgive them, but Allah's Messenger ﷺ left our case pending until Allah gave us His judgement about it. As for that Allah said,
+
+وَعَلَى الثَّلَاثَةِ الَّذِينَ خُلِّفُوا
+
+(And (He did forgive also) the three who stayed behind...)
+
+What Allah said does not discuss our failure to take part in the battle, but to the deferment of making a decision by the Prophet ﷺ about our case, in contrast to the case of those who had taken an oath before him, and he excused them by accepting their excuses."
+
+This is an authentic Hadith collected in the Two Sahihs (Al-Bukhari and Muslim) and as such, its authenticity is agreed upon. This Hadith contains the explanation of this honorable Ayah in the best, most comprehensive way. Similar explanation was given by several among the Salaf. For instance, Al-A'mash narrated from Abu Sufyan, from Jabir bin 'Abdullah about Allah's statement,
+
+وَعَلَى الثَّلَاثَةِ الَّذِينَ خُلِّفُوا
+
+(And (He did forgive also) the three who stayed behind...)
+
+"They are Ka'b bin Malik, Hilal bin Umayyah and Murarah bin Ar-Rabi', all of them from the Ansar."
+
+The Order to speak the Truth
+
+Allah sent His relief from the distress and grief that struck these three men, because Muslims ignored them for fifty days and nights, until they themselves, and the earth – vast as it is – were straitened for them. As vast as the earth is, its ways and paths were closed for them, and they did not know what action to take. They were patient for Allah's sake and awaited humbly for His decree. They remained firm, until Allah sent His relief to them since they told the Messenger of Allah the truth about why they remained behind, declaring that they did not have an excuse for doing so. They were requited for this period, then Allah forgave them. Therefore, the consequence of being truthful was better for them, for they gained forgiveness. Hence Allah's statement next,
+
+يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَكُونُوا مَعَ الصَّادِقِينَ
+
+(O you who believe! Have Taqwa of Allah, and be with those who are true.)
+
+The Ayah says, adhere to and always say the truth so that you become among its people and be saved from destruction. Allah will make a way for you out of your concerns and a refuge. Imam Ahmad recorded that 'Abdullah bin Mas'ud said that the Messenger of Allah ﷺ said,
+
+عَلَيْكُمْ بِالصِّدْقِ فَإِن الصَّدْقَ يَهْدِي إِلَى الْبِرِّ، وَإِنَّ الْبِرَّ يَهْدِي إِلَى الْجَنَّةِ، وَلَا يَزَالُ الرَّجُلُ يَصْدُقُ وَيَتَحَرَّى الصِّدْقَ حَتَّى يُكْتَبَ عِنْدَ اللهِ صِدِّيقًا، وَإِيَّاكُمْ وَالْكَذِبَ فَإِنَّ الْكَذِبَ يَهْدِي إِلَى الْفُجُورِ وَإِنَّ الْفُجُورَ يَهْدِي إِلَى النَّارِ، وَلَا يَزَالُ الرَّجُلُ يَكْذِبُ وَيَتَحَرَّى الْكَذِبَ حَتَّى يُكْتَبَ عِنْدَ اللهِ كَذَّابًا
+
+(Hold on to truth, for being truthful leads to righteousness, and righteousness leads to Paradise. Verily, a man will keep saying the truth and striving for truth, until he is written before Allah as very truthful (Siddiq). Beware of lying, for lying leads to sin, and sin leads to the Fire. Verily, the man will keep lying and striving for falsehood until he is written before Allah as a great liar.) This Hadith is recorded in the Two Sahihs.
 
 ### al-Tabari (Arabic)
 
@@ -814,9 +1146,39 @@ She said, 'By Allah! He has no desire for anything. By Allah, he has never cease
 
 = فكان من خبري حين تخلفت عن النبي ﷺ في غزوة تبوك، أني لم أكن قط أقوى ولا أيسرَ مني حين تخلفت عنه في تلك الغزوة، والله ما جمعت قبلها راحلتين قطُّ حتى جمعْتُهما في تلك الغزوة. فغزاها رسول الله ﷺ في حرٍّ شديد، واستقبل سفرًا بعيدًا ومفاوِزَ، واستقبل عدوًّا كثيرًا، فجلَّى للمسلمين أمرهم ليتأهَّبُوا أهبة غزوهم، فأخبرهم بوجهه الذي يريد، والمسلمون مع النبي ﷺ كثير، ولا يجمعهم كتاب حافظٌ = يريد بذلك: الديوان = قال كعب: فما رجلٌ يريد أن يتغيّب إلا يظنَّ أن ذلك سيخفى، ما لم ينزل فيه وَحْيٌ من الله. وغزا رسول الله تلك الغزوة حين طابت الثمار والظلال، وأنا إليهما أصعَرُ. [[" أصعر "، أي: أميل، على وزن " أفعل " التفضيل، وأصله من " الصعر " (بفتحتين) ، وهو ميل في الوجه، كأنه يلتفت إليه شوقا.]] فتجهز رسول الله ﷺ والمسلمون معه، وطفقت أغدو لكي أتجهز معهم، [فأرجع ولم أقض شيئًا، وأقول في نفسي: "أنا قادر على ذلك إذا أردت! "، فلم يزل ذلك يتمادى بي، حتى استمرّ بالناس الجدُّ. فأصبح رسول الله ﷺ غاديًا والمسلمون معه] ، [[الذي بين القوسين ساقط من المخطوطة، وأثبته من رواية مسلم في صحيحه. وكان في المطبوعة: ". . . لكي أتجهز معهم، فلم أقضي من جهازي شيئا "، أما المخطوطة، فكان فيها ما يدل على أن الناسخ قد أسقط من الكلام: ". . . لكي أتجهز معهم والمسلمون معه ولم أقض من جهازي شيئا ".]] ولم أقض من جَهازي شيئًا، ثم غدوت فرجعت ولم أقض شيئًا. فلم يزل ذلك يتمادى [بي] ، [[الزيادة بين القوسين، من صحيح مسلم.]] حتى أسرعوا وتفارط الغزْوُ، [[" تفارط الغزو "، أي فات وقته، ومثله " تفرط "، وفي الحديث: " أنه نام عن العشاء حتى تفرطت "، أي: فات وقتها.]] وهممت أن أرتحل فأدركهم، فيا ليتني فعلت، فلم يُقْدَر ذلك لي. فطفقت إذا خرجت في الناس بعد خروج النبي ﷺ يحزنني أنّي لا أرى لي أسوةً إلا رجلا مغموصًا عليه في النفاق، [[" أسوة "، أي: قدوة ومثلا. و " المغموص عليه "، من قولهم " غمص عليه قولا قاله "، أي: عابه عليه، وطعن به عليه. ويعني: مطعونا في دينه، متهما بالنفاق.]] أو رجلا ممن عذر الله من الضعفاء. ولم يذكرني رسول الله ﷺ حتى بلغ تبوك، فقال وهو جالس في القوم بتبوك: ما فعل كعب بن مالك؟ فقال رجل من بني سَلِمَة: يا رسول الله، حبسه بُرْداه، والنظر في عِطْفيْه! [[" النظر في عطفيه "، كناية عن إعجابه بنفسه، واختياله بحسن لباسه. و " العطفان "، الجانبان، فهو يتلفت من شدة خيلائه.]] [فقال معاذ بن جبل: بئس ما قلت! والله يا رسول الله، ما علمنا عليه إلا خيرًا] ! [[الزيادة بين القوسين، من صحيح مسلم. وظاهر أن الناسخ أسقطها في نسخه.]] فسكت رسول الله ﷺ، فبينا هو على ذلك، رأى رجلا مُبَيِّضًا يزول به السرابُ، [[" المبيض " (بتشديد الباء وكسرها) ، هو لا بس البياض. و " يزول به السراب "، أي: يرفعه ويخفضه، وإنما يحرك خياله.]] فقال رسول الله ﷺ: كن أبا خيثمة! فإذا هو أبو خيثمة الأنصاري، وهو الذي تصدَّق بصاع التمر، فلمزه المنافقون. [[" لمزه "، عابه وحقره.]]
 
-= قال كعب: فلما بلغني أن رسول الله ﷺ قد توجَّه قافلا من تبوك، حضرني بثِّي، [[في المطبوعة: " حضرني همي "، لم يحسن قراءة المخطوطة، والذي فيها مطابق لرواية مسلم في صحيحه. و " البث "، أشد الحزن. وذلك أنه إذا اشتد حزن المرء، احتاج أن يفضي بغمه وحزنه إلى صاحب له يواسيه، أو يسليه، أو يتوجع له.]] فطفقت أتذكر الكذب، وأقول: "بم أخرج من سَخَطه غدًا"؟ وأستعين على ذلك بكل ذي رأي من أهلي. فلما قيل: "إن رسول الله ﷺ قد أظَلّ قادمًا! "، زاح عني الباطل، [[" أ
+= قال كعب: فلما بلغني أن رسول الله ﷺ قد توجَّه قافلا من تبوك، حضرني بثِّي، [[في المطبوعة: " حضرني همي "، لم يحسن قراءة المخطوطة، والذي فيها مطابق لرواية مسلم في صحيحه. و " البث "، أشد الحزن. وذلك أنه إذا اشتد حزن المرء، احتاج أن يفضي بغمه وحزنه إلى صاحب له يواسيه، أو يسليه، أو يتوجع له.]] فطفقت أتذكر الكذب، وأقول: "بم أخرج من سَخَطه غدًا"؟ وأستعين على ذلك بكل ذي رأي من أهلي. فلما قيل: "إن رسول الله ﷺ قد أظَلّ قادمًا! "، زاح عني الباطل، [[" أظل قادما "، أي: أقبل ودنا قدومه، كأنه ألقى على المدينة ظله. وقوله: " زاح عني الباطل "، أي: زال وذهب وتباعد.]] حتى عرفت أني لن أنجو منه بشيء أبدًا، فأجمعت صدقه، [[" أجمعت صدقه "، أي: عزمت على ذلك كل العزم، " أجمع صدقه " و " أجمع على صدقه "، سواء.]] وصَبح رسول الله ﷺ قادمًا، [[في المطبوعة: " وأصبح "، وأثبت ما في المخطوطة، وهو مطابق لما في صحيح مسلم.]] وكان إذا قدم من سفر، بدأ بالمسجد فركع فيه ركعتين، ثم جلس للناس. فلما فعل ذلك، جاءه المخلفون فطفقوا يعتذرون إليه ويحلفون له، وكانوا بضعة وثمانين رجلا فقبل منهم رسول الله ﷺ علانيتهم وبايعهم واستغفر لهم، ووكل سرائرهم إلى الله. حتى جئتُ، فلما سلمت تبسم تبسُّم المغْضَب، ثم قال: تعالَ! فجئت أمشي حتى جلست بين يديه، فقال لي: ما خلَّفك؟ ألم تكن قد ابتعت ظهرك؟ قال قلت: يا رسول الله، إني والله لو جلست عند غيرك من أهل الدنيا، لرأيت أني سأخرج من سَخَطه بعذرٍ، لقد أعطيتُ جدلا [[" الجدل "، اللدد في الخصومة، والقدرة عليها، وعلى مقابلة الحجة بالحجة.]] ولكني والله لقد علمت لئن حدَّثتك اليوم حديثَ كذبٍ ترضى به عني، ليوشكنّ الله أن يُسْخِطَك عليّ، ولئن حدثتك حديث صِدْق تَجدُ عليّ فيه، [[" تجد " من " الوجد "، وهو الغضب والسخط.]] إني لأرجو فيه عفوَ الله، [[هكذا في المخطوطة: " عفو الله " ومثله في مسند أحمد ٣: ٤٦٠ وفي صحيح مسلم " عقبى الله "، أي: أن يعقبني خيرا، وأن يثبتني عليه.]] والله ما كان لي عُذْر! والله ما كنت قطُّ أقوى ولا أيسرَ مني حين تخلفت عنك! فقال رسول الله ﷺ: أمّا هذا فقد صَدَق، قم حتى يقضي الله فيك! فقمت، وثار رجال من بني سلمة فاتبعوني وقالوا: والله ما علمناك أذنبت ذنبًا قبل هذا! لقد عجزتَ في أن لا تكون اعتذرت إلى رسول الله ﷺ بما اعتذر به المتخلفون، [[في المطبوعة حذف " في " من قوله: " لقد عجزت في أن لا تكون "، وهي ثابتة في المخطوطة، وهي مطابقة لما في صحيح مسلم. وأما الذي في المطبوعة، فهو مطابق لما في البخاري من رواية غيره.]] فقد كان كافِيَك ذنبك استغفارُ رسول الله ﷺ لك! قال: فوالله ما زالوا يؤنِّبونني حتى أردت أن أرجع إلى رسول الله ﷺ فأكذّبَ نفسي! قال: ثم قلت لهم: هل لَقي هذا معي أحدٌ؟ قالوا: نعم، لقيه معك رجلان قالا مثلَ ما قلت، وقيل لهما مثل ما قيل لك. قال: قلت من هما؟ قالوا: مرارة بن ربيع العامري، [[في المطبوعة: " ابن الربيع "، وأثبت ما في المخطوطة، وانظر روايته في مسلم " مرارة بن ربيعة "، وما قالوا في اختلاف رواه مسلم. وما قالوه أيضا في روايته " العامري "، وأن صوابها " العمري " نسبة إلى بني عمرو بن عوف.]] وهلال بن أمية الواقفي. قال: فذكروا لي رجلين صالحين قد شهدا بدرًا، فيهما أسوة. [[في المطبوعة: " لي فيهما أسوة "، زاد من عنده ما ليس في المخطوطة، ولا في صحيح مسلم. وإنما هو من رواية البخاري، بغير هذا الإسناد.]] قال: فمضيت حين ذكروهما لي. [[" مضيت "، أي: أنفذت ما رأيت. من قولهم: " مضى في الأمر مضاء "، نفذ، و " أمضاه " أنفذه.]]
 
-[TRUNCATED at 12000 chars — 11673 more. Consult the source directly before relying on anything near the cut.]
+= ونهى رسول الله ﷺ المسلمين عن كلامنا أيُّها الثلاثة، [[قوله: " أيها الثلاثة "، أي: خصصنا بذلك دون سائر المعتذرين. وهذه اللفظة تقال في الاختصاص، وتختص بالمخبر عن نفسه والمخاطب، تقول: " أما أنا فأفعل هذا، أيها الرجل "، يعني نفسه. انظر ما سلف ٣: ١٤٧، تعليق: ١، في الخبر رقم: ٢١٨٢.]] من بين من تخلّف عنه. قال: فاجتنبنا الناسُ وتغيَّروا لنا، حتى تنكرت لي في نفسي الأرض، فما هي بالأرض التي أعرف. فلبثنا على ذلك خمسين ليلةً، فأمّا صاحباي فاستكانا وقعدا في بيوتهما يبكيان، وأمّا أنا فكنت أشبَّ القوم وأجلدهم، فكنت أخرج وأشهد الصلاة وأطوف في الأسواق، ولا يكلمني أحدٌ، وآتي رسول الله ﷺ فأسلم عليه وهو في مجلسه بعد الصلاة، فأقول في نفسي: "هل حرك شفتيه بردّ السلام أم لا؟ "، ثم أصلي معه، وأسارقه النظر، فإذا أقبلتُ على صلاتي نظر إلي، وإذا التفت نحوه أعرض عني، حتى إذا طال ذلك عليّ من جفوة المسلمين، مشيت حتى تسوَّرت جدار حائط أبي قتادة = وهو ابن عمي، وأحبُّ الناس إليّ = فسلمت عليه، فوالله ما ردّ علي السلام! فقلت: يا أبا قتادة، أنشدك بالله، هل تعلم أني أحب الله ورسوله؟ فسكت. قال: فعُدْت فناشدته، فسكت، فعدت فناشدته، فقال: الله ورسوله أعلم! ففاضت عيناي، وتولَّيت حتى تسوَّرت الجدار.
+
+= فبينا أنا أمشي في سوق المدينة، إذا بنبطيّ من نَبَط أهل الشام ممن قدم بالطعام يبيعه بالمدينة، يقول: من يدلُّ على كعب بن مالك؟ قال: فطفق الناس يشيرون له، حتى جاءني، فدفع إليَّ كتابًا من ملك غسان، وكنت كاتبًا، فقرأته، فإذا فيه: "أما بعدُ، فإنه قد بلغنا أن صاحبك قد جفاك، ولم يجعلك الله بدار هَوَانٍ ولا مَضْيَعةٍ، فالحق بنا نُوَاسِك".
+
+= قال: فقلت حين قرأته: وهذا أيضًا من البلاء!! فتأمَّمتُ به التنُّور فسجرته به. [[" فتأممت "، وهكذا في المخطوطة أيضا، وفي رواية البخاري " فتيممت ". وأما في صحيح مسلم، " فتياممت "، وقال النووي: " هكذا هو في حميع النسخ ببلادنا، وهي لغة في: تيممت، ومعناها: قصدت ". وأما القاضي عياض، فقال في مشارق الأنوار (أمم) : " ومثله: فتيممت بها التنور، كذا رواه البخاري. ولمسلم: فتأممت، وكلاهما بمعنى، سهل الهمزة في رواية، وحققها في أخرى = أي: قصدت ".
+
+ثم انظر تفسير " الأم " و " التأمم " في تفسير أبي جعفر فيما سلف ٥: ٥٥٨ / ٨: ٤٠٧ / ٩: ٤٧١.
+
+وفي المطبوعة: " فتأممت به "، وأثبت ما في المخطوطة، وهو مطابق لما في مسلم والبخاري، إلا أن في مسلم " فسجرتها بها "، وفي البخاري: " فسجرته بها ". وأنث " بها "، إرادة لمعنى الصحيفة، وهي الكتاب، ثم رجع بالضمير إلى " الكتاب ".
+
+" والتنور "، الكانون الذي يخبز فيه.
+
+و" سجر التنور "، أوقده وأحماه وأشبع وقوده، وأراد: أنه زاد التنور التهابا، بإلقائه الصحيفة في ناره. وهذا كلام معجب، أراد به أن يسخر من رسالة ملك غسان إليه.]] حتى إذا مضت أربعون من الخمسين، واستلبث الوحي، [[" استلبث "، أي: أبطأ وتأخر.]] إذا رسولُ رسولِ الله ﷺ يأتيني فقال: إن رسول الله ﷺ يأمرك أن تعتزل امرأتك. قال فقلت: أطلِّقها، أم ماذا أفعل؟ قال: لا بل اعتزلها فلا تقربها. قال: وأرسل إلى صاحبي بذلك. قال: فقلت لامرأتي: الحقي بأهلك فكوني عندهم حتى يقضي الله في هذا الأمر. [[في المطبوعة: " تكوني عندهم "، وأثبت ما في المخطوطة، وهو مطابق لما في صحيح مسلم. وفي البخاري بغير هذا الإسناد: " فتكوني ".]]
+
+= قال: فجاءت امرأة هلالٍ رسولَ الله ﷺ فقالت: يا رسول الله، إن هلال بن أمية شيخ ضائع ليس له خادمٌ، فهل تكره أن أخدُمَه؟ فقال: لا ولكن لا يقرَبَنْكِ! قالت فقلت: إنه والله ما به حركة إلى شيء! ووالله ما زال يبكي مُنْذ كان من أمره ما كان إلى يومه هذا! قال: فقال لي بعض أهلي: لو استأذنت رسول الله ﷺ في امرأتك، فقد أذن لامرأة هلال أن تخدُمه؟ قال فقلت: لا أستأذن فيها رسول الله ﷺ، وما يدريني ماذا يقول لي إذا استأذنته فيها، وأنا رجل شابٌّ!
+
+= فلبثت بعد ذلك عشر ليالٍ، فكمل لنا خمسون ليلةً من حين نهى رسول الله ﷺ عن كلامنا. [[في صحيح مسلم " حين نهي عن كلامنا "، وضبط " نهي " بالبناء للمجهول، ورواية أبي جعفر، تصحح ضبطه بالبناء للمعلوم أيضا.]] قال: ثم صليت صلاة الفجر صباحَ خمسين ليلة على ظهر بيتٍ من بيوتنا، فبينا أنا جالس على الحال التي ذكر الله منّا، [[في المطبوعة: " التي ذكر الله عنا "، غير ما في المخطوطة، هو مطابق لما في صحيح مسلم، وهو العربي العريق.]] قد ضاقت عليّ نفسي وضاقت عليّ الأرض بما رحبت، سمعتُ صوت صارخٍ أوْفى على جبل سَلْع، [[" أوفى عليه "، صعده وارتفع عليه، فأشرف على الوادي منه واطلع.]] يقول بأعلى صوته: يا كعب بن مالك أبشر! قال: فخررت ساجدًا، وعرفت أن قد جاء فرجٌ. قال: وآذن رسول الله ﷺ بتوبة الله علينا حين صلى صلاة الفجر، [[" آذن " أعلم الناس بها. ورواية مسلم: " فآذن رسول الله ﷺ الناس "، والذي هنا مطابق لرواية البخاري، بغير هذا الإسناد.]] فذهب الناس يبشروننا، [[" ذهب "، سلف ما كتبته عن الاستعانة بقولهم: " ذهب " و " جعل ". انظر رقم: ١٧٤٢٩، ص: ٥٤١، تعليق ٣، والمراجع هناك.]] فذهب قِبَلَ صاحبي مبشرون، وركض رجل إلي فرسًا، وسعى ساعٍ من أسْلَم قِبَلي وأوفى على الجبل، وكان الصوت أسرعَ من الفرس. فلما جاءني الذي سمعت صوته يبشرني، نزعت له ثوبيَّ فكسوتهما إياه ببشارته، والله ما أملك غيرهما يومئذ، واستعرت ثوبين فلبستهما، وانطلقت أتأمم رسول الله ﷺ. [[انظر ص: ٥٥٣، تعليق: ١.]]
+
+فتلقَّاني الناس فوجًا فوجًا يهنئوني بالتوبة ويقولون: لِتَهْنِكَ توبة الله عليك! [[في المخطوطة والمطبوعة: " لتهنك "، وهي كذلك في رواية البخاري بغير هذا الإسناد، وفي صحيح مسلم المطبوع: " لتهنئك "، وذكره القاضي عياض في مشارق الأنوار (هنأ) فقال: " ولتهنك توبة الله، يهمز، ويسهل ". وقد ذكر صاحب لسان العرب (هنأ) أن العرب تقول: " ليهنئك الفارس " بجزم الهمزة، و " ليهنيك الفارس " بياء ساكنة، ولا يجوز " ليهنك " كما تقول العامة "، والذي قاله ونسبه للعامة، صواب لا شك فيه عندي.]] حتى دخلت المسجد، فإذا رسول الله ﷺ جالس في المسجد حوله الناس، فقام إليّ طلحة بن عبيد الله يُهَرول حتى صافحني، وهنأني، والله ما قام رجل من المهاجرين غيره = قال: فكان كعب لا ينساها لطلحة [[قال الحافظ في الفتح: " قالوا: سبب ذلك أن النبي ﷺ كان آخى بينه وبين طلحة، لما آخى بين المهاجرين والأنصار. والذي ذكره أهل المغازي أنه كان أخا الزبير، لكن كان الزبير أخا طلحة في أخوة المهاجرين، فهو أخو أخيه ".]] = قال كعب: فلما سلمت على رسول الله ﷺ قال، وهو يبرُقُ وجهه من السرور: أبشر بخير يومٍ مرَّ عليك منذ ولدتك أمك! فقلت: أمن عندك، يا رسول الله، أم من عند الله؟ قال: لا بل من عند الله! وكان رسول الله ﷺ إذا سُرَّ استنار وجهه، حتى كأن وجه قطعة قمر، وكنا نعرف ذلك منه.
+
+= قال: فلما جلست بين يديه قلت: يا رسول الله، إن من توبتي أن أنخلع من مالي صدقةً إلى الله وإلى رسوله. [[" انخلع من ماله "، أي: خرج من جميع ماله، وتعرى منه كما يتعرى إنسان إذا خلع ثوبه. وأراد: إخراجه متصدقا به.]] فقال رسول الله ﷺ: أمسك بعض مالك، فهو خيرٌ لك! قال فقلت: فإني أمسك سهمي الذي بخيبر. وقلت: يا رسول الله، إن الله إنما أنجاني بالصدق، وإنّ من توبتي أن لا أحدِّث إلا صدقًا ما بقيت! قال: فوالله ما علمت أحدًا من المسلمين ابتلاه الله في صِدْق الحديث، منذ ذكرت ذلك لرسول الله عليه السلام، أحسن مما ابتلاني، [[" أبلاه " أي: أنعم عليه.]] والله ما تعمَّدت كِذْبَةً منذ قلت ذلك لرسول الله ﷺ إلى يومي هذا، وإني أرجو أن يحفظني الله فيما بقي. قال: فأنزل الله: ﴿لقد تابَ الله على النبي﴾ ، حتى بلغ: ﴿وعلى الثلاثة الذين خُلِّفوا﴾ ، إلى: ﴿اتقوا الله وكونوا مع الصادقين﴾ .
+
+= قال كعب: والله ما أنعم الله عليّ من نعمةٍ قطُّ بعد أن هَدَاني للإسلام أعظمَ في نفسي من صدقي رسولَ الله ﷺ، أن لا أكون كذبته، [[" أن لا أكون "، " لا " زائدة، كالتي في قوله تعالى: (مَا مَنَعَكَ أَلا تَسْجُدَ إِذْ أَمَرْتُكَ) [سورة: الأعراف: ١٢] . انظر ما سلف في تفسير الآية ١٢: ٣٢٣ - ٣٢٥.]] فأهلك كما هلك الذين كذبوه، فإن الله قال للذين كذبوا، حين أنزل الوحي، شَرَّ ما قال لأحدٍ: ﴿سيحلفون بالله لكم إذا انقلبتم إليهم لتعرضوا عنهم فأعرضوا عنهم إنهم رجس ومأواهم جهنم جزاء بما كانوا يكسبون﴾ ، إلى قوله: ﴿لا يَرْضَى عَنِ الْقَوْمِ الْفَاسِقِينَ﴾ ، [سورة التوبة: ٩٥، ٩٦] .
+
+= قال كعب: خُلِّفنا، أيها الثلاثة، [[في المطبوعة: " خلفنا " دون " كنا "، لم يحسن قراءة المخطوطة، وما أثبته مطابق لرواية مسلم في صحيحه.]] عن أمر أولئك الذين قَبِلَ رسول الله ﷺ توبتهم حين حَلفوا له، فبايعهم واستغفر لهم، وأرجأ رسول الله ﷺ أمْرَنا حتى قضى الله فيه. فبذلك قال الله: ﴿وعلى الثلاثة الذين خلفوا﴾ ، وليس الذي ذكر الله مما خُلِّفنا عن الغزو، [[في صحيح مسلم: " مما خلفنا، تخلفنا عن الغزو "، والذي هنا وفي المخطوطة، مطابق لما فيه رواية البخاري بغير هذا الإسناد.]] إنما هو تخليفه إيّانا، [[في المطبوعة: " ختم الجملة بقوله: " فقبل منهم " بالجمع، خالف ما في المخطوطة، وهو مطابق لما في صحيح مسلم والبخاري.]] وإرجاؤه أمرَنا عمن حلف له واعتذر إليه فقبل منه. [[الأثر: ١٧٤٤٧ - حديث كعب بن مالك، سيرويه أبو جعفر من طرق سأبينها بعد. أما روايته هذه من طريق ابن وهب، عن يونس، عن ابن شهاب، فهو إسناد مسلم في صحيحه ١٧: ٨٧، ٩٨، وانظر التعليق على الأخبار التالية. وانظر الأثرين السالفين رقم: ١٦١٤٧، ١٧٠٩١، والتعليق عليهما.]]
+
+١٧٤٤٨- حدثنا المثنى قال، حدثنا أبو صالح قال، حدثني الليث، عن عقيل، عن ابن شهاب قال، أخبرني عبد الرحمن بن عبد الله بن كعب بن مالك: أن عبد الله بن كعب بن مالك = وكان قائد كعب من بنيه حين عَمِي = قال: سمعت كعب بن مالك يحدث حديثه حين تخلف عن رسول الله ﷺ في غزوة تبوك، فذكر نحوه. [[الأثر: ١٧٤٤٨ - من هذه الطريق رواه البخاري في صحيحه (الفتح ٨: ٨٦ - ٩٣) ، وأحمد في مسنده ٣: ٤٥٩، ٤٦٠، الحديث بطوله.]]
+
+١٧٤٤٩- حدثنا محمد بن عبد الأعلى قال، حدثنا محمد بن ثور، عن معمر، عن الزهري، عن عبد الرحمن بن كعب، عن أبيه قال: لم أتخلف عن النبي ﷺ في غَزاة غَزاها إلا بدرًا، ولم يعاتب النبيُّ ﷺ أحدًا تخلف عن بدر، ثم ذكر نحوه. [[الأثر: ١٧٤٤٩ - من هذه الطريق، طريق معمر، رواه أحمد في مسنده ٦: ٣٨٧ - ٣٩٠. وانظر أيضا ما رواه أحمد في مسنده ٣: ٤٥٦، روايته من طريق يعقوب بن إبراهيم، عن ابن أخي الزهري محمد بن عبد الله، عن عمه محمد بن مسلم الزهري، الحديث بطوله، وصحيح مسلم ١٧: ٩٨ - ١٠٠.]]
+
+١٧٤٥٠- حدثنا ابن حميد قال، حدثنا سلمة، عن ابن إسحاق، عن ابن شهاب الزهري، عن عبد الرحمن بن عبد الله بن كعب بن مالك الأنصاري، ثم السلمي، عن أبيه، أن أباه عبد الله بن كعب، وكان قائد أبيه كعب حين أصيب بصره = قال: سمعت أبي كعبَ بن مالك يحدث حديثه حين تخلف عن رسول الله ﷺ في غزوة تبوك، وحديث صاحبيه، قال: ما تخلفت عن رَسول الله ﷺ في غزوة غزاها، غير أني كنت تخلفت عنه في غزوة بدر، ثم ذكر نحوه. [[الأثر: ١٧٤٥٠ - سيرة ابن هشام ٤: ١٧٥ - ١٨١، الحديث بطوله.]]
 
 ### al-Muyassar (Arabic)
 
@@ -872,9 +1234,65 @@ Ka'b added, "The wife of Hilal bin Umayyah came to Allah's Messenger ﷺ and sai
 
 ('No (you can serve him), but he should not come near you [sexually]).'
 
-She said, 'By Allah! He has no desire for anything. By Allah, he has never ceased weeping since his case began until this day of his.' On that, some of my family members said to me, 'Will you also ask Allah's Messenger to permit your wife (to serve you) as he has permitted the wife of Hilal bin Umayyah to serve him?' I said, 'By Allah, I will not ask permission of Allah's Messenger ﷺ regarding her, for I do not know what Allah's Messenger ﷺ would say if I asked him to permit her (to serve me) while I am a young man.' We remained in that state for ten more nights, until the period of fifty nights was completed, starting from the time when Allah's Messenger ﷺ prohibited the people from talking to us. When I had finished the Fajr prayer on the fiftieth morning on the roof of one of our houses, while sitting in the condition in which Allah described (in the Qur'an): my very soul seemed straitened to me and even the earth seemed narrow to me for all its spaciousness. There I heard the voice of a man who had ascended the mountain of Sal' calling with his loudest voice, 'O Ka'b bin Malik! Be happy (by receiving good tidings).' I fell down in prostration before Allah, realizing that relief has come with His forgiveness for us. Allah's Messenger ﷺ announced the acceptance of our repentance by Allah after Fajr prayer. The people went out to congratulate us. Some bearers of good news went to my two companions, a horseman came to me in haste, while a man from Banu Aslam came running and ascended the mountain and his voice was swifter than the horse. When the man whose voice I had heard, came to m
+She said, 'By Allah! He has no desire for anything. By Allah, he has never ceased weeping since his case began until this day of his.' On that, some of my family members said to me, 'Will you also ask Allah's Messenger to permit your wife (to serve you) as he has permitted the wife of Hilal bin Umayyah to serve him?' I said, 'By Allah, I will not ask permission of Allah's Messenger ﷺ regarding her, for I do not know what Allah's Messenger ﷺ would say if I asked him to permit her (to serve me) while I am a young man.' We remained in that state for ten more nights, until the period of fifty nights was completed, starting from the time when Allah's Messenger ﷺ prohibited the people from talking to us. When I had finished the Fajr prayer on the fiftieth morning on the roof of one of our houses, while sitting in the condition in which Allah described (in the Qur'an): my very soul seemed straitened to me and even the earth seemed narrow to me for all its spaciousness. There I heard the voice of a man who had ascended the mountain of Sal' calling with his loudest voice, 'O Ka'b bin Malik! Be happy (by receiving good tidings).' I fell down in prostration before Allah, realizing that relief has come with His forgiveness for us. Allah's Messenger ﷺ announced the acceptance of our repentance by Allah after Fajr prayer. The people went out to congratulate us. Some bearers of good news went to my two companions, a horseman came to me in haste, while a man from Banu Aslam came running and ascended the mountain and his voice was swifter than the horse. When the man whose voice I had heard, came to me conveying the good news, I took off my garments and dressed him with them; and by Allah, I owned no other than them on that day. Then I borrowed two garments, wore them and went to Allah's Messenger ﷺ. The people started receiving me in batches, congratulating me on Allah's acceptance of my repentance, saying, 'We congratulate you on Allah's acceptance of your repentance.'"
 
-[TRUNCATED at 12000 chars — 7711 more. Consult the source directly before relying on anything near the cut.]
+Ka'b further said, "When I entered the Masjid, I saw Allah's Messenger ﷺ sitting in the Masjid with the people around him. Talhah bin 'Ubaydullah swiftly came to me, shook my hands and congratulated me. By Allah, none of the Muhajirun got up for me except Talhah; I will never forget Talhah for this."
+
+Ka'b added, "When I greeted Allah's Messenger ﷺ, his face was bright with joy. He said
+
+أَبْشِرْ بَخَيْرِ يَومٍ مَرَّ عَلَيْكَ مُنْذُ وَلَدَتْكَ أُمُّكَ
+
+('Be happy with the best day you have ever seen since your mother gave birth to you.)
+
+I said to the Prophet, 'Is this forgiveness from you or from Allah?' He said,
+
+لَا بَلْ مِنْ عِنْدِ اللهِ
+
+(No, it is from Allah). Whenever Allah's Messenger ﷺ became happy, his face would shine as if it was a piece of the moon, and we all knew that characteristic of him. When I sat before him, I said, 'O Allah's Messenger! Because of the acceptance of my repentance I will give up all my wealth as alms for the sake of Allah and His Messenger.' Allah's Messenger ﷺ said,
+
+أَمْسِكْ عَلَيْكَ بَعْضَ مَالِكَ فَهْوَ خَيْرٌ لَكَ
+
+(Keep some of your wealth, as it will be better for you). I said, 'So I will keep my share from Khaybar with me.' I added, 'O Allah's Messenger! Allah has saved me for telling the truth; so it is part of my repentance not to tell but the truth as long as I am alive.' By Allah, I do not know of any Muslim, whom Allah has helped to tell the truth more than I. Ever since I have mentioned the truth to Allah's Messenger ﷺ, I have never intended to tell a lie, until today. I hope that Allah will also save me (from telling lies) the rest of my life. So Allah revealed the Ayah,
+
+لَّقَد تَّابَ اللَّهُ عَلَى النَّبِيِّ وَالْمُهَاجِرِينَ وَالْأَنصَارِ الَّذِينَ اتَّبَعُوهُ فِي سَاعَةِ الْعُسْرَةِ مِن بَعْدِ مَا كَادَ يَزِيغُ قُلُوبُ فَرِيقٍ مِّنْهُمْ ثُمَّ تَابَ عَلَيْهِمْ ۚ إِنَّهُ بِهِمْ رَءُوفٌ رَّحِيمٌ - وَعَلَى الثَّلَاثَةِ الَّذِينَ خُلِّفُوا حَتَّىٰ إِذَا ضَاقَتْ عَلَيْهِمُ الْأَرْضُ بِمَا رَحُبَتْ وَضَاقَتْ عَلَيْهِمْ أَنفُسُهُمْ وَظَنُّوا أَن لَّا مَلْجَأَ مِنَ اللَّهِ إِلَّا إِلَيْهِ ثُمَّ تَابَ عَلَيْهِمْ لِيَتُوبُوا ۚ إِنَّ اللَّهَ هُوَ التَّوَّابُ الرَّحِيمُ - يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَكُونُوا مَعَ الصَّادِقِينَ
+
+(Allah has forgiven the Prophet, the Muhajirin and the Ansar who followed him in the time of distress, after the hearts of a party of them had nearly deviated, but He accepted their repentance. Certainly, He is unto them full of kindness, Most Merciful. And the three who stayed behind, until for them the earth, vast as it is, was straitened and their souls were straitened to them, and they perceived that there is no fleeing from Allah, and no refuge but with Him. Then, He forgave them, that they might beg for His pardon. Verily, Allah is the One Who forgives and accepts repentance, Most Merciful. O you who believe! Have Taqwa of Allah, and be with those who are true (in words and deeds).)
+
+Ka'b said; "By Allah! Allah has never bestowed upon me, apart from His guiding me to Islam, a greater blessing than the fact that I did not tell a lie to Allah's Messenger ﷺ which would have caused me to perish, just as those who had told a lie have perished. Allah described those who told lies with the worst descriptions He ever attributed to anyone. Allah said,
+
+سَيَحْلِفُونَ بِاللَّهِ لَكُمْ إِذَا انقَلَبْتُمْ إِلَيْهِمْ لِتُعْرِضُوا عَنْهُمْ ۖ فَأَعْرِضُوا عَنْهُمْ ۖ إِنَّهُمْ رِجْسٌ ۖ وَمَأْوَاهُمْ جَهَنَّمُ جَزَاءً بِمَا كَانُوا يَكْسِبُونَ - يَحْلِفُونَ لَكُمْ لِتَرْضَوْا عَنْهُمْ ۖ فَإِن تَرْضَوْا عَنْهُمْ فَإِنَّ اللَّهَ لَا يَرْضَىٰ عَنِ الْقَوْمِ الْفَاسِقِينَ
+
+(They will swear by Allah to you when you return to them, that you may turn away from them. So turn away from them. Surely, they are Rijs (impure), and Hell is their dwelling place – a recompense for that which they used to earn. They swear to you that you may be pleased with them, but if you are pleased with them, certainly Allah is not pleased with the people who are rebellious.)
+
+Ka'b added, "We, the three persons, differed altogether from those whose excuses Allah's Messenger ﷺ accepted when they swore to him. He took their pledge and asked Allah to forgive them, but Allah's Messenger ﷺ left our case pending until Allah gave us His judgement about it. As for that Allah said,
+
+وَعَلَى الثَّلَاثَةِ الَّذِينَ خُلِّفُوا
+
+(And (He did forgive also) the three who stayed behind...)
+
+What Allah said does not discuss our failure to take part in the battle, but to the deferment of making a decision by the Prophet ﷺ about our case, in contrast to the case of those who had taken an oath before him, and he excused them by accepting their excuses."
+
+This is an authentic Hadith collected in the Two Sahihs (Al-Bukhari and Muslim) and as such, its authenticity is agreed upon. This Hadith contains the explanation of this honorable Ayah in the best, most comprehensive way. Similar explanation was given by several among the Salaf. For instance, Al-A'mash narrated from Abu Sufyan, from Jabir bin 'Abdullah about Allah's statement,
+
+وَعَلَى الثَّلَاثَةِ الَّذِينَ خُلِّفُوا
+
+(And (He did forgive also) the three who stayed behind...)
+
+"They are Ka'b bin Malik, Hilal bin Umayyah and Murarah bin Ar-Rabi', all of them from the Ansar."
+
+The Order to speak the Truth
+
+Allah sent His relief from the distress and grief that struck these three men, because Muslims ignored them for fifty days and nights, until they themselves, and the earth – vast as it is – were straitened for them. As vast as the earth is, its ways and paths were closed for them, and they did not know what action to take. They were patient for Allah's sake and awaited humbly for His decree. They remained firm, until Allah sent His relief to them since they told the Messenger of Allah the truth about why they remained behind, declaring that they did not have an excuse for doing so. They were requited for this period, then Allah forgave them. Therefore, the consequence of being truthful was better for them, for they gained forgiveness. Hence Allah's statement next,
+
+يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَكُونُوا مَعَ الصَّادِقِينَ
+
+(O you who believe! Have Taqwa of Allah, and be with those who are true.)
+
+The Ayah says, adhere to and always say the truth so that you become among its people and be saved from destruction. Allah will make a way for you out of your concerns and a refuge. Imam Ahmad recorded that 'Abdullah bin Mas'ud said that the Messenger of Allah ﷺ said,
+
+عَلَيْكُمْ بِالصِّدْقِ فَإِن الصَّدْقَ يَهْدِي إِلَى الْبِرِّ، وَإِنَّ الْبِرَّ يَهْدِي إِلَى الْجَنَّةِ، وَلَا يَزَالُ الرَّجُلُ يَصْدُقُ وَيَتَحَرَّى الصِّدْقَ حَتَّى يُكْتَبَ عِنْدَ اللهِ صِدِّيقًا، وَإِيَّاكُمْ وَالْكَذِبَ فَإِنَّ الْكَذِبَ يَهْدِي إِلَى الْفُجُورِ وَإِنَّ الْفُجُورَ يَهْدِي إِلَى النَّارِ، وَلَا يَزَالُ الرَّجُلُ يَكْذِبُ وَيَتَحَرَّى الْكَذِبَ حَتَّى يُكْتَبَ عِنْدَ اللهِ كَذَّابًا
+
+(Hold on to truth, for being truthful leads to righteousness, and righteousness leads to Paradise. Verily, a man will keep saying the truth and striving for truth, until he is written before Allah as very truthful (Siddiq). Beware of lying, for lying leads to sin, and sin leads to the Fire. Verily, the man will keep lying and striving for falsehood until he is written before Allah as a great liar.) This Hadith is recorded in the Two Sahihs.
 
 ### al-Tabari (Arabic)
 
@@ -1810,9 +2228,25 @@ Allah encourages His servants to hasten to repent, as He says:
 
 أَوْ تَقُولَ لَوْ أَنَّ اللَّهَ هَدَانِي لَكُنْتُ مِنَ الْمُتَّقِينَ - أَوْ تَقُولَ حِينَ تَرَى الْعَذَابَ لَوْ أَنَّ لِي كَرَّةً فَأَكُونَ مِنَ الْمُحْسِنِينَ
 
-(Or (lest) he should say: "If only Allah had guided me, I 
+(Or (lest) he should say: "If only Allah had guided me, I should indeed have been among those who have Taqwa ". Or he should say when he sees the torment: "If only I had another chance, then I should indeed be among the doers of good.") means, he will wish that he could go back to this world, so that he could do righteous deeds. 'Ali bin Abi Talhah reported that Ibn 'Abbas, may Allah be pleased with him, said, "Allah tells us what His servants will say before they say it and what they will do before they do it. He says:
 
-[TRUNCATED at 12000 chars — 2456 more. Consult the source directly before relying on anything near the cut.]
+وَلَا يُنَبِّئُكَ مِثْلُ خَبِيرٍ
+
+(And none can inform you like Him Who is the All-Knower)(35:14).
+
+أَنْ تَقُولَ نَفْسٌ يَا حَسْرَتَا عَلَىٰ مَا فَرَّطْتُ فِي جَنْبِ اللَّهِ وَإِنْ كُنْتُ لَمِنَ السَّاخِرِينَ - أَوْ تَقُولَ لَوْ أَنَّ اللَّهَ هَدَانِي لَكُنْتُ مِنَ الْمُتَّقِينَ - أَوْ تَقُولَ حِينَ تَرَى الْعَذَابَ لَوْ أَنَّ لِي كَرَّةً فَأَكُونَ مِنَ الْمُحْسِنِينَ
+
+(Lest a person should say: "Alas, my grief that I was undutiful to Allah, and I was indeed among those who mocked." Or he should say: "If only Allah had guided me, I should indeed have been among those who have Taqwa." Or he should say when he sees the torment: "If only I had another chance, then I should indeed be among the doers of good."). Imam Ahmad recorded that Abu Hurayrah said, "The Messenger of Allah ﷺ said:
+
+كُلُّ أَهْلِ النَّارِ يَرَىٰ مَقْعَدَهُ مِنَ الْجَنَّةِ فَيَقُولُ: لَوْ أَنَّ اللهَ هَدَانِي! فَتَكُونُ عَلَيْهِ حَسْرَةً، قال: وَكُلُّ أَهْلِ الْجَنَّةِ يَرَىٰ مَقْعَدَهُ مِنَ النَّارِ فَيَقُولُ: لَوْلَا أَنَّ اللهَ هَدَانِي، قال: فَيَكُونُ لَهُ شُكْرًا
+
+(Each of the people of Hell will be shown his place in Paradise and he will say, "If only Allah had guided me!" so it will be a source of regret for him. And each of the people of Paradise will be shown his place in Hell and he will say, "If it were not for the fact that Allah guided me," so it will be a cause of thanks.)" It was also narrated by An-Nasa'i.
+
+When the sinners wish that they could return to this world so that they could believe the Ayat of Allah and follow His Messengers, Allah will say:
+
+بَلَىٰ قَدْ جَاءَتْكَ آيَاتِي فَكَذَّبْتَ بِهَا وَاسْتَكْبَرْتَ وَكُنْتَ مِنَ الْكَافِرِينَ
+
+(Yes! Verily, there came to you My Ayat and you denied them, and were proud and were among the disbelievers.) meaning, 'O you who regret what you did, My Ayat did come to you in the world, and My proof was established against you, but you rejected it and were too arrogant to follow it, and you were among those who disbelieved in it.'
 
 ### al-Tabari (Arabic)
 
@@ -1988,9 +2422,171 @@ While they were still in that state, Budayl bin Warqa' Al-Khuza'i came with some
 
 Budayl said, 'I will inform them of what you have said.' So, he set off until he reached Quraysh and said, 'We have come from that man whom we heard saying something which we will disclose to you, if you should like.' Some of the fools among the Quraysh shouted that they were not in need of this information, but the wiser among them said, 'Relate what you heard him saying.' Budayl said, 'I heard him saying such and such,' relating what the Prophet ﷺ had told him. 'Urwah bin Mas'ud stood up and said, 'O people! Aren't you the sons?' They said, 'Yes.' He added, 'Am I not the father?' They said, 'Yes.' He said, 'Do you mistrust me?' They said, 'No.' He said, 'Don't you know that I invited the people of 'Ukaz for your help, and when they refused I brought my relatives and children and those who obeyed me?' They said, 'Yes.' He said, 'Well, this man has offered you a reasonable proposal, it is better for you to accept it and allow me to meet him.' They said, 'You may meet him.'
 
-So, he went to the Prophet ﷺ and started talking to him. The Prophet ﷺ said the same to him as he had to Budayl bin Warqa. Then 'Urwah said, 'O Muhammad! Won't you feel any qualms by exterminating your relations? Have you ever heard of anyone among the Arabs annihilating his relatives before you On the other hand, if the reverse should happen, by Allah, I do not see dignified people here, but people from various tribes who w
+So, he went to the Prophet ﷺ and started talking to him. The Prophet ﷺ said the same to him as he had to Budayl bin Warqa. Then 'Urwah said, 'O Muhammad! Won't you feel any qualms by exterminating your relations? Have you ever heard of anyone among the Arabs annihilating his relatives before you On the other hand, if the reverse should happen, by Allah, I do not see dignified people here, but people from various tribes who would run away leaving you alone.' Hearing that, Abu Bakr verbally abused him and said, 'Go suck Al-Lat's womb! Are you saying we would run and leave the Prophet alone?' 'Urwah said, 'Who is that man?' They said, 'He is Abu Bakr.' 'Urwah said to Abu Bakr, 'By Him in Whose Hands my life is, were it not for the favor which you did to me and which I did not compensate, I would rebuke you.' 'Urwah kept on talking to the Prophet ﷺ and seizing the Prophet's beard as he was talking, while Al-Mughirah bin Shu'bah was standing near the head of the Prophet ﷺ, holding a sword and wearing a helmet. Whenever 'Urwah stretched his hand towards the beard of the Prophet ﷺ, Al-Mughirah would hit his hand with the handle of the sword and say, 'Remove your hand from the beard of Allah's Messenger.' 'Urwah raised his head and asked, 'Who is that?' The people said, 'He is Al-Mughirah bin Shu'bah.' 'Urwah said, 'O treacherous (one)! Am I not doing my best to prevent evil consequences of your treachery?'
 
-[TRUNCATED at 12000 chars — 17252 more. Consult the source directly before relying on anything near the cut.]
+Before embracing Islam, Al-Mughirah was in the company of some people. He killed them, took their property and came (to Al-Madinah) to embrace Islam. The Prophet ﷺ said to him,
+
+أَمَّا الْإِسْلَامُ فَأَقْبَلُ، وَأَمَّا الْمَالُ فَلَسْتُ مِنْهُ فِي شَيْءٍ
+
+(As regards to your Islam, I accept it, but as for the property I do not take anything of it.)
+
+Urwah then started looking at the Companions of the Prophet ﷺ. By Allah, whenever Allah's Messenger ﷺ spat, the spittle would fall in the hand of one of them, who would rub it on his face and skin. If he ordered them, they would carry his orders immediately, if he performed ablution, they would struggle to take the remaining water, and when they spoke to him, they would lower their voices and would not look at his face constantly out of respect. 'Urwah returned to his people and said, 'O people! By Allah, I have been to the kings and to Caesar, Khosrau and An-Najashi. Yet, by Allah! I have never seen any of them respected by his courtiers, as much as, Muhammad is respected by his companions. By Allah, if he spat, the spittle would fall into the hand of one of them and he would rub it on his face and skin. If he ordered them, they would carry out his order immediately, if he performed ablution, they would struggle to take the remaining water, and when they spoke, they would lower their voices and would not look at his face constantly out of respect. No doubt, he has presented to you a good reasonable offer, so please accept it.'
+
+A man from the tribe of Bani Kinanah said, 'Allow me to go to him,' and they allowed him. When he approached the Prophet ﷺ and his Companions, Allah's Messenger ﷺ said,
+
+هٰذَا فُلَانٌ وَهُوَ مِنْ قَوْمٍ يُعَظِّمُونَ الْبُدْنَ فَابْعَثُوهَا لَهُ
+
+(He is so-and-so who belongs to the tribe that respects the sacrificial camels. So, bring the sacrificial camels before him.) So, the sacrificial camels were brought before him and the people received him while they were reciting Talbiyah. When he saw that scene, he said, 'Glorified is Allah! It is not fair to prevent these people from visiting the Ka'bah.' When he returned to his people, he said, 'I saw the sacrificial camels garlanded and marked. I do not think it is advisable to prevent them from visiting the Ka'bah.' Another person called Mikraz bin Hafs stood up and sought their permission to go to Muhammad ﷺ, and they allowed him, too. When he approached the Muslims, the Prophet ﷺ said,
+
+هَذَا مِكْرَزٌ وَهُوَ رَجُلٌ فَاجِرٌ
+
+(Here is Mikraz and he is a vicious man.) Mikraz started talking to the Prophet ﷺ and as he was talking, Suhayl bin 'Amr came."
+
+Ma'mar said that Ayyub said to him that 'Ikrimah said, "When Suhayl bin 'Amr came, the Prophet ﷺ said,
+
+قَدْ سَهُلَ لَكُمْ مِنْ أَمْرِكُمْ
+
+(Now the matter has become easy for you.)" Ma'mar said that Az-Zuhri narrated, "When Suhayl bin 'Amr came, he said to the Prophet ﷺ, 'Please conclude a peace treaty with us.' So, the Prophet ﷺ called 'Ali bin Abi Talib and said to him,
+
+اكْتُبْ بِسْمِ اللَّهِ الرَّحْمٰنِ الرَّحِيمِ
+
+(Write: In the Name of Allah, Ar-Rahman, Ar-Rahim.) Suhayl bin 'Amr said, 'As for Ar-Rahman, by Allah, I do not know what it means. So write: By Your Name, O Allah, as you used to write previously.' The Muslims said, 'By Allah, we will not write except: By the Name of Allah, Ar-Rahman, Ar-Rahim.' The Prophet ﷺ said,
+
+اكْتُبْ بِاسْمِكَ اللّٰهُمَّ
+
+(Write: "In Your Name O Allah.") Then he dictated,
+
+هذَا مَا قَاضَىٰ عَلَيْهِ مُحَمَّدٌ رَسُولُ اللهِ
+
+(This is a peace treaty, which Muhammad, Allah's Messenger has concluded.) Suhayl said, 'By Allah, if we knew that you are Allah's Messenger, we would not prevent you from visiting the Ka'bah, and would not fight with you. So, write: Muhammad bin 'Abdullah.' The Prophet ﷺ said to him,
+
+وَاللهِ إِنِّي لَرَسُولُ اللهِ وَإِنْ كَذَّبْتُمُونِي، اكْتُبْ مُحَمَّدُ بْنُ عَبْدِاللهِ
+
+(By Allah! I am the Messenger of Allah even if your people do not believe me. Write: "Muhammad bin 'Abdullah.")"
+
+Az-Zuhri continued, "The Prophet ﷺ accepted all those things, since he had already said that he would accept everything they would demand if it respects the ordinance of Allah, the Exalted."
+
+The Hadith continues, "The Prophet ﷺ said to Suhayl,
+
+عَلَىٰ أَنْ تُخَلُّوا بَيْنَنَا وَبَيْنَ الْبَيْتِ فَنَطُوفَ بِهِ
+
+(On the condition that you allow us to visit the House so that we may perform Tawaf around it.)
+
+Suhayl said, 'By Allah, we will not, so as not to give the Arabs a chance to say that we have yielded to your pressure, but we will allow you next year.' So, the Prophet ﷺ had that written. Then Suhayl said, 'We also stipulate that you should return to us whoever comes to you from us, even if he embraced your religion.' The Muslims protested, 'Glorified be Allah! How can a person be returned to the idolators after he has become a Muslim?' While they were in this state Abu Jandal bin Suhayl bin 'Amr came from the valley of Makkah staggering with his chains and fell down among the Muslims. Suhayl said, 'O Muhammad! This is the very first term with which we make peace with you, that is, you shall return Abu Jandal to me.' The Prophet ﷺ said,
+
+إِنَّا لَمْ نَقْضِ الْكِتَابَ بَعْدُ
+
+(The peace treaty has not been written yet.) Suhayl said, 'Then by Allah, I will never conduct peace with you.' The Prophet ﷺ said,
+
+فَأَجِزْهُ لِي
+
+(Release him to me,) and Suhayl responded, 'I will never allow you to keep him.' The Prophet ﷺ said,
+
+بَلَىٰ فَافْعَلْ
+
+(Yes, do.) He said, 'I will not.' Mikraz said, 'We allow you (to keep him).' Abu Jandal said, 'O, Muslims! Will I be returned to the idolators although I have come as a Muslim? Don't you see how much I have suffered?' Abu Jandal had been tortured severely for the cause of Allah, the Exalted and Most Honored.
+
+Umar bin Al-Khattab said, 'I went to the Prophet and said: Aren't you truly the Messenger of Allah?' The Prophet ﷺ said,
+
+بَلَىٰ
+
+(Yes, indeed.) I said, 'Isn't our cause just and the cause of the enemy unjust?' He said,
+
+بَلَىٰ
+
+(Yes.) I said, 'Then why should we be humble in our religion?' He said,
+
+إِنِّي رَسُولُ اللهِ وَلَسْتُ أَعْصِيهِ وَهُوَ نَاصِرِي
+
+(I am Allah's Messenger and I do not disobey Him, and He will make me victorious.) I said, 'Didn't you tell us that we would go to the Ka'bah and perform Tawaf around it?' He said,
+
+بَلَىٰ أَفَأَخْبَرْتُكَ أَنَّا نَأْتِيهِ الْعَامَ؟
+
+(Yes, but did I tell you that we would visit the Ka'bah this year?) I said, 'No.' He said,
+
+فَإِنَّكَ آتِيهِ وَمُطَّوِّفٌ بِهِ
+
+(So you will visit it and perform Tawaf around it.) 'Umar further said, 'I went to Abu Bakr and said: O Abu Bakr! Isn't he truly Allah's Prophet?' He replied, 'Yes.' I said, 'Is not our cause just and the cause of our enemy unjust?' He said, 'Yes.' I said, 'Then why should we be humble in our religion?' He said, 'O you man! Indeed, he is Allah's Messenger and he does not disobey his Lord, and He will make him victorious. Adhere to him for, by Allah, he is on the right path.' I said, 'Was he not telling us that we would go to the Ka'bah and perform Tawaf around it?' He said, 'Yes, but did he tell you that you would go to the Ka'bah this year?' I said, 'No.' He said, 'You will go to the Ka'bah and perform Tawaf around it.'
+
+Az-Zuhri said, "'Umar, may Allah be pleased with him, said, 'I performed many good deeds as expiation for the improper questions I asked them.'"
+
+"When the writing of the peace treaty was concluded, Allah's Messenger ﷺ said to his Companions,
+
+قُومُوا فَانْحَرُوا ثُمَّ احْلِقُوا
+
+(Get up and slaughter your sacrifices and have your heads shaved.)
+
+By Allah none of them got up, and the Prophet ﷺ repeated his order thrice. When none of them got up, he left them and went to Umm Salamah and told her of the people's attitudes towards him. Umm Salamah said, 'O Prophet of Allah! Do you want your order to be carried out? Go out and don't say a word to anybody until you have slaughtered your sacrifice and call your barber to shave your head.' The Messenger of Allah ﷺ went out and did not talk to anyone until he did what she suggested, slaughtered the sacrifice and shaved his head. Seeing that, the Companions got up, slaughtered their sacrifices, and started shaving the heads of one another. There was so much of a rush – and sadness – that there was a danger of killing each other. Then some believing women came and Allah the Exalted and most Honored revealed the following Ayat,
+
+يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا جَاءَكُمُ الْمُؤْمِنَاتُ
+
+(O you who believe! When believing women come to you)(60:10), until,
+
+بِعِصَمِ الْكَوَافِرِ
+
+(Likewise hold not the disbelieving women as wives.) 'Umar then divorced two of his wives, who were disbelievers. Later on Mu'awiyah bin Abu Sufyan married one of them, and Safwan bin Umayyah married the other.
+
+When the Prophet ﷺ returned to Al-Madinah, Abu Basir, a new Muslim convert from the Quraysh, came to him. The disbelievers sent two men in pursuit who said to the Prophet ﷺ, 'Abide by the promise you gave us.' So, the Prophet ﷺ handed him over to them. They took him out (of Al-Madinah) until they reached Dhul-Hulayfah where they dismounted to eat some dates they had with them. Abu Basir said to one of them, 'By Allah, O, so-and-so, I see you have a fine sword.' The other drew it out (of its sheath) and said, 'Yes, by Allah, it is very fine and I have tried it many times.' Abu Basir said, 'Let me have a look at it.' When the other gave the sword to Abu Basir, he struck him with it until he died. His companion ran away until he reached Al-Madinah, entering the Masjid running. When Allah's Messenger ﷺ saw him he said,
+
+لَقَدْ رَأَى هٰذَا ذُعْرًا
+
+(This man appears to have been frightened.) When he reached the Prophet ﷺ he said, 'My companion has been murdered, by Allah, and I would have been murdered too. ' Abu Basir came and said, 'O Allah's Messenger, by Allah! Allah has made you fulfill your obligations by returning me to them, but Allah the Exalted has saved me from them.' The Prophet ﷺ said,
+
+وَيْلُ أُمِّهِ مِسْعَرَ حَرْبٍ لَوْ كَانَ مَعَهُ أَحَدٌ
+
+(Woe to his mother! What an excellent war kindler he would be, if he only have supporters.)
+
+When Abu Basir heard this from the Prophet ﷺ, he understood that he would return him to the idolators again, so he set off until he reached the seashore. Abu Jandal bin Suhayl also got himself released from the disbelievers and joined Abu Basir. Thereafter, whenever a man from Quraysh embraced Islam he would follow Abu Basir until they formed a strong group. By Allah, whenever they heard about a caravan of the Quraysh heading towards Ash-Sham (Greater Syria), they stopped it, attacked and killed the disbelievers and took their properties. The people of Quraysh sent a message to the Prophet ﷺ requesting him for the sake of Allah and kith and kin to send for (Abu Basir and his companions) promising that whoever among them came to the Prophet ﷺ, would be secure. So, the Prophet ﷺ sent for them and Allah the Exalted and Most Honored revealed the following Ayat,
+
+وَهُوَ الَّذِي كَفَّ أَيْدِيَهُمْ عَنْكُمْ وَأَيْدِيَكُمْ عَنْهُمْ بِبَطْنِ مَكَّةَ
+
+(And He it is Who has withheld their hands from you and your hands from them in the midst of Makkah),(48:24) until,
+
+حَمِيَّةَ الْجَاهِلِيَّةِ
+
+(the pride and haughtiness of the time of ignorance,) Their pride and haughtiness was that they did not confess that Muhammad ﷺ was the Prophet of Allah, refused to write, 'In the Name of Allah, Ar-Rahman, Ar-Rahim,' and prevented Muslims from visiting the Ka'bah." This is the narration Al-Bukhari collected in the Book of Tafsir, 'Umrat Al-Hudaybiyyah, Hajj, and so forth. Allah is the Only One sought for help, all reliance is on Him alone and there is no might or strength except from Allah, the Almighty, the All-Wise.
+
+Al-Bukhari narrated in the Book of Tafsir that Habib bin Abi Thabit said that he went to Abu Wa'il asking him about something and he said, "We were at Siffin, when a man said, 'Do you not see those who call to Allah's Book?' 'Ali bin Abi Talib said, 'Yes.' Sahl bin Hunayf said, 'Do not feel certain in the reliability of your own opinions! On the day of Hudaybiyyah, the day the treaty of peace was signed between the Prophet ﷺ and idolators, had we found a chance to fight, we would have done so.' 'Umar came (to the Prophet ﷺ) and said, 'Are we not on the true cause and theirs is the false cause? Are not our killed in Paradise and theirs in the Fire?' He said, 'Yes.' 'Umar said, 'Why then should we be humble with regards to the cause of our religion? Why should we go back before Allah decides in the matter between us (between Muslims and the idolators.)' The Prophet ﷺ said,
+
+يَا ابْنَ الْخَطَّابِ إِنِّي رَسُولُ اللهِ وَلَنْ يُضَيِّعَنِي اللهُ أَبَدًا
+
+(O son of Al-Khattab! I am Allah's Messenger and He will never abandon me.)
+
+Umar left while feeling angry and soon went to Abu Bakr and said, 'O Abu Bakr! Are we not on the true cause and they are on falsehood?' Abu Bakr said, 'O son of Al-Khattab! He is Allah's Messenger and Allah will never abandon him.' Surat Al-Fath was later revealed."' Al-Bukhari collected this Hadith in several other parts of his Sahih, and so did Muslim and An-Nasa'i using various chains of narration from Abu Wa'il, Sufyan bin Salamah, from Sahl bin Hunayf. Some of these narrations read,
+
+"O people! Accuse sheer opinion (of being imperfect)! On the day Abu Jandal came, I saw myself willing to reject the command of Allah's Messenger ﷺ, had I had the chance. In yet another narration, "Surat Al-Fath was revealed and the Messenger of Allah ﷺ called 'Umar bin Al-Khattab and recited it to him."
+
+Imam Ahmad recorded that Anas said, "Quraysh resorted to peace with the Prophet ﷺ. Suhayl bin 'Amr was among the idolators then. The Prophet ﷺ said to 'Ali,
+
+اكْتُبْ بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ
+
+(Write: "In the Name of Allah, the Most Gracious, the Most Merciful.") Suhayl said, 'We do not know the meaning of: In the Name of Allah, Ar-Rahman Ar-Rahim. However, write what we do know: In Your Name, O Allah!' The Messenger ﷺ said,
+
+اكْتُبْ مِنْ مُحَمَّدٍ رَسُولِ اللهِ
+
+(Write: "From Muhammad, Allah's Messenger,") and Suhayl said, 'If we knew that you are Allah's Messenger, we would have followed you. However, write your name and the name of your father.' The Prophet ﷺ said,
+
+اكْتُبْ مِنْ مُحَمَّدِ بْنِ عَبْدِاللهِ
+
+(Write: "From Muhammad son of 'Abdullah.") They set the terms with the Prophet ﷺ that, 'If anyone comes from your side to us, we will not send him back to you. If anyone from among us came to you, you send him back to us.' 'Ali said, 'O Allah's Messenger! Should I write this,' and the Prophet ﷺ said,
+
+نَعَمْ، إِنَّهُ مَنْ ذَهَبَ مِنَّا إِلَيْهِمْ فَأَبْعَدَهُ اللهُ
+
+(Yes. Surely, those who revert from our side and go to them, then may Allah cast them away.) Muslim also collected this Hadith."
+
+Ahmad recorded that 'Abdullah bin 'Abbas said, "When Al-Haruriyyah rebelled, they set a separate camp for their group. I said to them, 'On the day of Al-Hudaybiyyah, the Messenger of Allah ﷺ agreed to conduct peace with the idolators. He said to 'Ali,
+
+اكْتُبْ يَا عَلِيُّ، هٰذَا مَا صَالَحَ عَلَيْهِ مُحَمَّدٌ رَسُولُ اللهِ
+
+(Write, O 'Ali: "These are the terms agreed to by Muhammad, Allah's Messenger.")' The idolators said, 'If we knew that you are Allah's Messenger, we would not have fought you.' Allah's Messenger ﷺ said,
+
+امْحُ يَا عَلِيُّ، اللّٰهُمَّ إِنَّكَ تَعْلَمُ أَنِّي رَسُولُكَ، امْحُ يَا عَلِيُّ وَاكْتُبْ: هٰذَا مَا صَالَحَ عَلَيْهِ مُحَمَّدُ بْنُ عَبْدِاللهِ
+
+(O 'Ali! Erase it. O Allah! You know that I am Your Messenger. O 'Ali! Erase it and write instead: "These are the peace terms agreed to by Muhammad bin 'Abdullah.")
+
+By Allah, Allah's Messenger ﷺ is better than 'Ali, and the Messenger ﷺ erased his title. However, erasing his title did not mean that he was erased from being a Prophet. Have I given you sufficient proof in this.' They said, 'Yes.'" Abu Dawud also collected a similar narration.
+
+Imam Ahmad recorded that 'Abdullah bin 'Abbas said, "On the day of Hudaybiyyah, the Messenger of Allah ﷺ slaughtered seventy sacrificial camels, including a camel that belonged to Abu Jahl. When the camel was prevented from coming to the House, she cried just as she would cry when seeing her offspring."
 
 ### al-Tabari (Arabic)
 

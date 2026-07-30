@@ -578,9 +578,29 @@ We should mention here the Hadith of 'Umar bin Al-Khattab collected in the Two S
 
 وقال آخرون معنى ذلك: ولولا فضل الله عليكم ورحمته لاتبعتم الشيطان جميعًا.
 
-قالوا: وقوله:"إلا قليلا"، خرج مخرج ا
+قالوا: وقوله:"إلا قليلا"، خرج مخرج الاستثناء في اللفظ، وهو دليل على الجميع والإحاطة، وأنه لولا فضل الله عليهم ورحمته لم ينج أحدٌ من الضلالة، فجعل قوله:"إلا قليلا"، دليلا على الإحاطة، [[انظر ما قاله في معنى"القليل" فيما سلف ٢: ٣٣١ / ٨: ٤٣٩، وما كتبته في الجزء الأول: ٥٥٤، تعليق: ١.]] واستشهدوا على ذلك بقول الطرِمّاح بن حكيم، في مدح يزيد بن المهلب:
 
-[TRUNCATED at 12000 chars — 3098 more. Consult the source directly before relying on anything near the cut.]
+أَشَمُّ كَثِيرُ يُدِيِّ النَّوَالِ، ... قَلِيلُ المَثَالِبِ وَالقَادِحَةْ [[ديوانه: ١٣٩."الأشم": السيد ذو الأنفة والكبرياء، من"الشمم" وهو ارتفاع في قصبة الأنف، مع استواء أعلاه، وإشراف الأرنبة قليلا. وهو من صفات الكرم والعتق. وقوله"يدي" (بضم الياء وكسر الدال، والياء المشددة) أو (بفتح الياء وكسر الدال وتشديد الياء) ، جمع"يد" الأول جمعها على وزن"فعول"، مثل فلس وفلوس، والثاني جمعها على وزن"فعيل" مثل عبد وعبيد. كأنه قال: كثير أيدي النوال. وفي ديوانه: "يدي" بفتح الياء والدال وهو خطأ. وفي المخطوطة: "برى النوادي"، وهو خطأ لا معنى له. و"المثالب" جمع"مثلبة"، وهي العيوب الجارحة. و"القادحة" يعني بها: العيوب التي تقدح في أصله وخلائقه، سماها بالقادحة، وهي الدودة التي تأكل الأسنان، أو الأشجار، ووضعها اسما للجمع.]]
+
+قالوا: فظاهر هذا القول وصف الممدوح بأن فيه المثالب والمعايب، ومعلوم أن معناه أنه لا مثالب فيه ولا معايب. لأن من وصف رجلا بأنّ فيه معايب، وإن وصف الذي فيه من المعايب بالقلة، فإنما ذمَّه ولم يمدحه. ولكن ذلك على ما وصفنا من نفي جميع المعايب عنه. قالوا: فكذلك قوله:"لاتبعتم الشيطان إلا قليلا"، إنما معناه: لاتبعتم جميعكم الشيطان.
+
+* *
+
+قال أبو جعفر: وأولى هذه الأقوال بالصواب في ذلك عندي، قولُ من قال: عنى باستثناء"القليل" من"الإذاعة"، وقال: معنى الكلام: وإذا جاءهم أمرٌ من الأمن أو الخوف أذاعوا به إلا قليلا ولو ردوه إلى الرسول.
+
+* *
+
+وإنما قلنا إن ذلك أولى بالصواب، لأنه لا يخلو القولُ في ذلك من أحد الأقوال التي ذكرنا، وغير جائز أن يكون من قوله:"لاتبعتم الشيطان"، لأن من تفضل الله عليه بفضله ورحمته، فغير جائز أن يكون من تُبَّاع الشيطان.
+
+* *
+
+وغير جائز أن نحمل معاني كتاب الله على غير الأغلب المفهوم بالظاهر من الخطاب في كلام العرب، ولنا إلى حمل ذلك على الأغلب من كلام العرب، سبيل، فنوجِّهه إلى المعنى الذي وجهه إليه القائلون [[في المطبوعة: "فتوجيهه إلى المعنى"، كأنه ابتداء كلام، وهو فساد في القول، والصواب ما في المخطوطة. ومن أجل هذا الخطأ في قراءة المخطوطة، زاد الناشر: "لا وجه له" كما سترى في التعليق التالي. وهو عمل غير حسن.]] "معنى ذلك: لاتبعتم الشيطان جميعًا"، ثم زعم أن قوله:"إلا قليلا"، دليل على الإحاطة بالجميع. هذا مع خروجه من تأويل أهل التأويل. [[في المطبوعة: " ... من تأويل أهل التأويل، لا وجه له"، فحذفت هذه الكلمة التي زادها الناشر، ليستقيم له قراءة الكلام. وانظر التعليق السالف.]]
+
+* *
+
+وكذلك لا وجه لتوجيه ذلك إلى الاستثناء من قوله:"لعلمه الذين يستنبطونه منهم"، لأن علم ذلك إذا رُدَّ إلى الرسول وإلى أولي الأمر منهم، فبيَّنه رسول الله ﷺ وأولو الأمر منهم بعد وضوحه لهم، استوى في علم ذلك كلّ مستنبطٍ حقيقتَه، [[في المطبوعة والمخطوطة: "كل مستنبط حقيقة"، والسياق يقتضي ما أثبت.]] فلا وجه لاستثناء بعض المستنبطين منهم، وخصوص بعضهم بعلمه، مع استواء جميعهم في علمه.
+
+وإذْ كان لا قول في ذلك إلا ما قلنا، ودخَل هذه الأقوال الثلاثة ما بيّنا من الخلل، [[في المطبوعة والمخطوطة: "فدخل"، ولا معنى للفاء هنا، والصواب ما أثبته.]] فبيِّنٌ أن الصحيح من القول في ذلك هو الرابع، وهو القول الذي قضينا له بالصواب من الاستثناء من"الإذاعة". [[انظر معاني القرآن للفراء ١: ٢٧٩، ٢٨٠.]]
 
 ### al-Muyassar (Arabic)
 
@@ -938,9 +958,11 @@ It is also recorded in the Musnad that 'Abdur-Rahman bin Samurah said, "'Uthman 
 
 فإن قال قائل: وما تنكر أن يكون معناه: ليتفقه المتخلِّفون في الدين؟
 
-قيل: ننكر ذلك لاستحالته. وذلك أن نَفْر الط
+قيل: ننكر ذلك لاستحالته. وذلك أن نَفْر الطائفة النافرة، لو كان سببًا لتفقه المتخلفة، وجب أن يكون مقامها معهم سببًا لجهلهم وترك التفقه، وقد علمنا أن مقامهم لو أقاموا ولم ينفروا لم يكن سببًا لمنعهم من التفقه.
 
-[TRUNCATED at 12000 chars — 818 more. Consult the source directly before relying on anything near the cut.]
+* *
+
+وبعدُ، فإنه قال جل ثناؤه: ﴿ولينذروا قومهم إذا رجعوا إليهم﴾ ، عطفًا به على قوله: ﴿ليتفقهوا في الدين﴾ ، ولا شك أن الطائفة النافرة لم ينفروا إلا والإنذار قد تقدّم من الله إليها، وللإنذار وخوف الوعيد نَفرتْ، فما وجْهُ إنذار الطائفة المتخلفة الطائفةَ النافرةَ، وقد تساوتا في المعرفة بإنذار الله إياهما؟ ولو كانت إحداهما جائزٌ أن توصف بإنذار الأخرى، لكان أحقَّهما بأن يوصف به، الطائفة النافرة، لأنها قد عاينت من قدرة الله ونصرة المؤمنين على أهل الكفر به، ما لم تعاين المقيمة. ولكن ذلك إن شاء الله كما قلنا، من أنها تنذر من حَيِّها وقبيلتها من لم يؤمن بالله إذا رجعت إليه: أن ينزل به ما أنزل بمن عاينته ممن أظفر الله به المؤمنين من نُظَرائه من أهل الشرك.
 
 ### al-Muyassar (Arabic)
 
@@ -1132,9 +1154,11 @@ It was also said that this verse,
 
 فإن قال قائل: وما تنكر أن يكون معناه: ليتفقه المتخلِّفون في الدين؟
 
-قيل: ننكر ذلك لاستحالته. وذلك أن نَفْر الط
+قيل: ننكر ذلك لاستحالته. وذلك أن نَفْر الطائفة النافرة، لو كان سببًا لتفقه المتخلفة، وجب أن يكون مقامها معهم سببًا لجهلهم وترك التفقه، وقد علمنا أن مقامهم لو أقاموا ولم ينفروا لم يكن سببًا لمنعهم من التفقه.
 
-[TRUNCATED at 12000 chars — 818 more. Consult the source directly before relying on anything near the cut.]
+* *
+
+وبعدُ، فإنه قال جل ثناؤه: ﴿ولينذروا قومهم إذا رجعوا إليهم﴾ ، عطفًا به على قوله: ﴿ليتفقهوا في الدين﴾ ، ولا شك أن الطائفة النافرة لم ينفروا إلا والإنذار قد تقدّم من الله إليها، وللإنذار وخوف الوعيد نَفرتْ، فما وجْهُ إنذار الطائفة المتخلفة الطائفةَ النافرةَ، وقد تساوتا في المعرفة بإنذار الله إياهما؟ ولو كانت إحداهما جائزٌ أن توصف بإنذار الأخرى، لكان أحقَّهما بأن يوصف به، الطائفة النافرة، لأنها قد عاينت من قدرة الله ونصرة المؤمنين على أهل الكفر به، ما لم تعاين المقيمة. ولكن ذلك إن شاء الله كما قلنا، من أنها تنذر من حَيِّها وقبيلتها من لم يؤمن بالله إذا رجعت إليه: أن ينزل به ما أنزل بمن عاينته ممن أظفر الله به المؤمنين من نُظَرائه من أهل الشرك.
 
 ### al-Muyassar (Arabic)
 
@@ -1892,9 +1916,45 @@ There is a Hadith in the Sahih that states,
 
 وَاللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ
 
-(And Allah is All-Aware of what you do.) meaning, since Allah is perfectly aware of all things, He made 
+(And Allah is All-Aware of what you do.) meaning, since Allah is perfectly aware of all things, He made distinctions between the rewards of the believers who spent and fought before the Conquest and those who spent and fought afterwards. Surely, Allah does this by His knowledge of the intention of the former type and their perfect sincerity to Him, all the while spending in times of hardship, poverty and dire straits. This is found in the Hadith,
 
-[TRUNCATED at 12000 chars — 3230 more. Consult the source directly before relying on anything near the cut.]
+سَبَقَ دِرْهَمٌ مِائَةَ أَلْفٍ
+
+(Spending one Dirham is preceded over a hundred thousand.) There is no doubt that the people of faith consider Abu Bakr As-Siddiq to be the person who has the best share according to the meaning of this Ayah. He was the chief of those who implemented it, among all followers of all Prophets. He spent all of his wealth seeking the Face of Allah, the Exalted and Most Honored. He did it voluntarily too, not to repay a debt or a favor that anyone from mankind had on him. May Allah be pleased with him.
+
+The Encouragement to make a Handsome Loan in the Cause of Allah
+
+Allah said,
+
+مَنْ ذَا الَّذِي يُقْرِضُ اللَّهَ قَرْضًا حَسَنًا
+
+(Who is he that will lend Allah a handsome loan:) 'Umar bin Al-Khattab said that this Ayah refers to spending in Allah's cause. It was also said that it pertains to spending on children. What is correct is that it is more general than that. So all those who spend in the cause of Allah with good intentions and a sincere heart, then they fall under the generality of this Ayah. This is why Allah the Exalted said in another Ayah:
+
+مَنْ ذَا الَّذِي يُقْرِضُ اللَّهَ قَرْضًا حَسَنًا فَيُضَاعِفَهُ لَهُ
+
+(Who is he that will lend Allah handsome loan: then (Allah) will increase it manifold to his credit (in repaying),) and in another Ayah,
+
+أَضْعَافًا كَثِيرَةً
+
+(many times)(2:245), meaning, being handsome reward and tremendous provisions: Paradise on the Day of Resurrection.
+
+Ibn Abi Hatim recorded that 'Abdullah bin Mas'ud said, "When this Ayah,
+
+مَنْ ذَا الَّذِي يُقْرِضُ اللَّهَ قَرْضًا حَسَنًا فَيُضَاعِفَهُ لَهُ
+
+(Who is he that will lend Allah handsome loan: then (Allah) will increase it manifold to his credit (in repaying),) was revealed, Abu Ad-Dahdah Al-Ansari said, 'O Allah's Messenger! Does Allah ask us for a loan?' The Prophet ﷺ said,
+
+نَعَمْ، يَاأَبَا الدَّحْدَاحِ
+
+(Yes, O Abu Ad-Dahdah.) He said, 'Give me your hand, O Allah's Messenger,' and the Prophet placed his hand in his hand. Abu Ad-Dahdah said, 'Verily, I have given my garden as a loan to my Lord.' He had a garden that contained six hundred date trees; his wife and children were living in that garden too. Abu Ad-Dahdah went to his wife and called her, 'Umm Ad-Dahdah!' She said, 'Here I am.' He said, 'Leave the garden, because I have given it as a loan to my Lord, the Exalted and Most Honored.' She said, 'That is a successful trade, O Abu Ad-Dahdah!' She then transferred her goods and children. The Messenger of Allah ﷺ said,
+
+كَمْ مِنْ عَذْقٍ رَدَاحٍ فِي الْجَنَّةِ لِأَبِي الدَّحْدَاحِ
+
+(How plentiful are the sweet date clusters that Abu Ad-Dahdah has in Paradise!)" In another narration, the Prophet ﷺ said,
+
+رُبَّ نَخْلَةٍ مُدَلَّاةٍ، عُرُوقُهَا دُرٌّ وَيَاقُوتٌ، لِأَبِي الدَّحْدَاحِ فِي الْجَنَّةِ
+
+(How many a date tree that has lowered down its clusters, which are full of pearls and gems in Paradise for Abu Ad-Dahdah!)
 
 ### al-Tabari (Arabic)
 
@@ -2180,9 +2240,17 @@ Imam Ahmad recorded from 'Awf bin Al-Harith bin At-Tufayl that 'A'ishah told him
 
 يَاعَائِشَةُ، إِيَّاكِ وَمُحَقَّرَاتِ الذُّنُوبِ، فَإِنَّ لَهَا مِنَ اللهِ طَالِبًا
 
-(O 'A'ishah! Beware of the sins that are belittled,
+(O 'A'ishah! Beware of the sins that are belittled, for indeed they will be taken account of by Allah.)
 
-[TRUNCATED at 12000 chars — 879 more. Consult the source directly before relying on anything near the cut.]
+This Hadith was recorded by An-Nasa'i and Ibn Majah.Imam Ahmad recorded from 'Abdullah bin Mas'ud that the Messenger of Allah ﷺ said,
+
+إِيَّاكُمْ وَمُحَقَّرَاتِ الذُّنُوبِ، فَإِنَّهُنَّ يَجْتَمِعْنَ عَلَى الرَّجُلِ حَتّٰى يُهْلِكْنَهُ
+
+(Beware of the sins that are belittled. For verily, they are gathered in a man until they destroy him.)
+
+And indeed the Messenger of Allah ﷺ made an example of them (sins that are taken lightly) by saying that they are like a people who settle in barren land. Then their leader comes and orders the men to go out one at a time and each bring back a stick until they have gathered a large number of sticks. Then they kindled a fire and burned everything that they threw into it.
+
+This is the end of the Tafsir of Surat Idha Zulzilat (Az-Zalzalah) and all praise and thanks are due to Allah.
 
 ### al-Tabari (Arabic)
 
@@ -2314,9 +2382,15 @@ Imam Ahmad recorded from 'Awf bin Al-Harith bin At-Tufayl that 'A'ishah told him
 
 فهذه الأخبار عن رسول الله ﷺ تُنبئ عن أن المؤمن إنما يرى عقوبة سيئاته في الدنيا، وثواب حسناته في الآخرة، وأن الكافر يرى ثواب حسناته في الدنيا، وعقوبة سيئاته في الآخرة، وأن الكافر لا ينفعه في الآخرة ما سلف له من إحسان في الدنيا مع كُفره.
 
-⁕ حدثنا أبو كُرَيب، قال: ثنا ابن عليّ، عن الأعمش، عن إبراهيم التيمي، قال: أدركت سبعين من أصحاب عبد الله، أصغرهم الحارث بن سويد، فسمعته يقرأ: ﴿إِذَا زُلْزِلَتِ الأرْضُ زِلْزَالَهَا﴾ حتى بلغ إلى: ﴿وَمَنْ يَعْمَلْ مِثْقَالَ 
+⁕ حدثنا أبو كُرَيب، قال: ثنا ابن عليّ، عن الأعمش، عن إبراهيم التيمي، قال: أدركت سبعين من أصحاب عبد الله، أصغرهم الحارث بن سويد، فسمعته يقرأ: ﴿إِذَا زُلْزِلَتِ الأرْضُ زِلْزَالَهَا﴾ حتى بلغ إلى: ﴿وَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُ﴾ قال: إن هذا إحصاء شديد.
 
-[TRUNCATED at 12000 chars — 434 more. Consult the source directly before relying on anything near the cut.]
+وقيل: إن الذَّرَّة دُودة حمراء ليس لها وزن.
+
+ذكر من قال ذلك:
+
+⁕ حدثني إسحاق بن وهب العلاف ومحمد بن سنان القزّاز، قالا ثنا أبو عاصم، قال: ثنا شبيب بن بشر، عن عكرمة، عن ابن عباس، في قوله: ﴿مِثْقَالَ ذَرَّةٍ﴾ قال ابن سنان في حديثه: مثقال ذرّة حمراء. وقال ابن وهب في حديثه: نملة حمراء. قال إسحاق، قال يزيد بن هارون: وزعموا أن هذه الدودة الحمراء ليس لها وزن.
+
+آخر تفسير سورة إذا زلزلت الأرض.
 
 ### al-Muyassar (Arabic)
 
@@ -2514,9 +2588,17 @@ Imam Ahmad recorded from 'Awf bin Al-Harith bin At-Tufayl that 'A'ishah told him
 
 يَاعَائِشَةُ، إِيَّاكِ وَمُحَقَّرَاتِ الذُّنُوبِ، فَإِنَّ لَهَا مِنَ اللهِ طَالِبًا
 
-(O 'A'ishah! Beware of the sins that are belittled,
+(O 'A'ishah! Beware of the sins that are belittled, for indeed they will be taken account of by Allah.)
 
-[TRUNCATED at 12000 chars — 879 more. Consult the source directly before relying on anything near the cut.]
+This Hadith was recorded by An-Nasa'i and Ibn Majah.Imam Ahmad recorded from 'Abdullah bin Mas'ud that the Messenger of Allah ﷺ said,
+
+إِيَّاكُمْ وَمُحَقَّرَاتِ الذُّنُوبِ، فَإِنَّهُنَّ يَجْتَمِعْنَ عَلَى الرَّجُلِ حَتّٰى يُهْلِكْنَهُ
+
+(Beware of the sins that are belittled. For verily, they are gathered in a man until they destroy him.)
+
+And indeed the Messenger of Allah ﷺ made an example of them (sins that are taken lightly) by saying that they are like a people who settle in barren land. Then their leader comes and orders the men to go out one at a time and each bring back a stick until they have gathered a large number of sticks. Then they kindled a fire and burned everything that they threw into it.
+
+This is the end of the Tafsir of Surat Idha Zulzilat (Az-Zalzalah) and all praise and thanks are due to Allah.
 
 ### al-Tabari (Arabic)
 
@@ -2648,9 +2730,15 @@ Imam Ahmad recorded from 'Awf bin Al-Harith bin At-Tufayl that 'A'ishah told him
 
 فهذه الأخبار عن رسول الله ﷺ تُنبئ عن أن المؤمن إنما يرى عقوبة سيئاته في الدنيا، وثواب حسناته في الآخرة، وأن الكافر يرى ثواب حسناته في الدنيا، وعقوبة سيئاته في الآخرة، وأن الكافر لا ينفعه في الآخرة ما سلف له من إحسان في الدنيا مع كُفره.
 
-⁕ حدثنا أبو كُرَيب، قال: ثنا ابن عليّ، عن الأعمش، عن إبراهيم التيمي، قال: أدركت سبعين من أصحاب عبد الله، أصغرهم الحارث بن سويد، فسمعته يقرأ: ﴿إِذَا زُلْزِلَتِ الأرْضُ زِلْزَالَهَا﴾ حتى بلغ إلى: ﴿وَمَنْ يَعْمَلْ مِثْقَالَ 
+⁕ حدثنا أبو كُرَيب، قال: ثنا ابن عليّ، عن الأعمش، عن إبراهيم التيمي، قال: أدركت سبعين من أصحاب عبد الله، أصغرهم الحارث بن سويد، فسمعته يقرأ: ﴿إِذَا زُلْزِلَتِ الأرْضُ زِلْزَالَهَا﴾ حتى بلغ إلى: ﴿وَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُ﴾ قال: إن هذا إحصاء شديد.
 
-[TRUNCATED at 12000 chars — 434 more. Consult the source directly before relying on anything near the cut.]
+وقيل: إن الذَّرَّة دُودة حمراء ليس لها وزن.
+
+ذكر من قال ذلك:
+
+⁕ حدثني إسحاق بن وهب العلاف ومحمد بن سنان القزّاز، قالا ثنا أبو عاصم، قال: ثنا شبيب بن بشر، عن عكرمة، عن ابن عباس، في قوله: ﴿مِثْقَالَ ذَرَّةٍ﴾ قال ابن سنان في حديثه: مثقال ذرّة حمراء. وقال ابن وهب في حديثه: نملة حمراء. قال إسحاق، قال يزيد بن هارون: وزعموا أن هذه الدودة الحمراء ليس لها وزن.
+
+آخر تفسير سورة إذا زلزلت الأرض.
 
 ### al-Muyassar (Arabic)
 

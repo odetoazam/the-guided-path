@@ -212,9 +212,25 @@ Imam Ahmad recorded that Anas said that, the Prophet's front tooth was broken du
 
 كَيْفَ يُفْلِحُ قَوْمٌ فَعَلُوا هذَا بِنَبِيِّهِمْ، وَهُوَ يَدْعُوهُمْ إِلى رَبِّهِمْ عَزَّ وَجَلَّ؟
 
-(How c
+(How can a people achieve success after having done this to their Prophet who is calling them to their Lord, the Exalted and Most Honored?) Allah revealed,
 
-[TRUNCATED at 12000 chars — 971 more. Consult the source directly before relying on anything near the cut.]
+لَيْسَ لَكَ مِنَ الْأَمْرِ شَيْءٌ أَوْ يَتُوبَ عَلَيْهِمْ أَوْ يُعَذِّبَهُمْ فَإِنَّهُمْ ظَالِمُونَ
+
+(Not for you is the decision; whether He turns in mercy to (pardons) them or punishes them; verily, they are the wrongdoers.) Muslim also collected this Hadith.
+
+Allah then said,
+
+وَلِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ
+
+(...And to Allah belongs all that is in the heavens and all that is in the Earth.)[3:129], everything is indeed the property of Allah and all are servants in His Hand.
+
+يَغْفِرُ لِمَن يَشَاءُ وَيُعَذِّبُ مَن يَشَاءُ
+
+(He forgives whom He wills, and punishes whom He wills.) for His is the decision and none can resist His decision. Allah is never asked about what He does, while they will be asked,
+
+وَاللَّهُ غَفُورٌ رَّحِيمٌ
+
+(and Allah is Oft-Forgiving, Most Merciful.)(3:129 end...)
 
 ### al-Tabari (Arabic)
 
@@ -474,9 +490,25 @@ Imam Ahmad recorded that Anas said that, the Prophet's front tooth was broken du
 
 كَيْفَ يُفْلِحُ قَوْمٌ فَعَلُوا هذَا بِنَبِيِّهِمْ، وَهُوَ يَدْعُوهُمْ إِلى رَبِّهِمْ عَزَّ وَجَلَّ؟
 
-(How c
+(How can a people achieve success after having done this to their Prophet who is calling them to their Lord, the Exalted and Most Honored?) Allah revealed,
 
-[TRUNCATED at 12000 chars — 971 more. Consult the source directly before relying on anything near the cut.]
+لَيْسَ لَكَ مِنَ الْأَمْرِ شَيْءٌ أَوْ يَتُوبَ عَلَيْهِمْ أَوْ يُعَذِّبَهُمْ فَإِنَّهُمْ ظَالِمُونَ
+
+(Not for you is the decision; whether He turns in mercy to (pardons) them or punishes them; verily, they are the wrongdoers.) Muslim also collected this Hadith.
+
+Allah then said,
+
+وَلِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ
+
+(...And to Allah belongs all that is in the heavens and all that is in the Earth.)[3:129], everything is indeed the property of Allah and all are servants in His Hand.
+
+يَغْفِرُ لِمَن يَشَاءُ وَيُعَذِّبُ مَن يَشَاءُ
+
+(He forgives whom He wills, and punishes whom He wills.) for His is the decision and none can resist His decision. Allah is never asked about what He does, while they will be asked,
+
+وَاللَّهُ غَفُورٌ رَّحِيمٌ
+
+(and Allah is Oft-Forgiving, Most Merciful.)(3:129 end...)
 
 ### al-Tabari (Arabic)
 
@@ -612,9 +644,33 @@ Imam Ahmad recorded that Anas said that, the Prophet's front tooth was broken du
 
 فرواه البخاري ٢: ٢٤١ - ٢٤٢، في حديث مطول، عن أبي اليمان، عن شعيب، عن الزهري " قال: أخبرني أبو بكر بن عبد الرحمن بن الحارث بن هشام، وأبو سلمة بن عبد الرحمن: أن أبا هريرة ... قالا: وقال أبو هريرة: وكان رسول الله ﷺ حين يرفع رأسه. . . " - إلخ.
 
-ورواه البيهقي في السنن الكبرى ٢: ٢٠٧، مقتصرًا على القسم الأخير منه، من أول قوله: " كان رسول الله ﷺ " - من طريق عثمان بن سعيد الدارمي، عن أبي اليمان، بمثل إسناد البخاري، ثم قال: " رواه البخاري في الص
+ورواه البيهقي في السنن الكبرى ٢: ٢٠٧، مقتصرًا على القسم الأخير منه، من أول قوله: " كان رسول الله ﷺ " - من طريق عثمان بن سعيد الدارمي، عن أبي اليمان، بمثل إسناد البخاري، ثم قال: " رواه البخاري في الصحيح، عن أبي اليمان ".
 
-[TRUNCATED at 12000 chars — 2496 more. Consult the source directly before relying on anything near the cut.]
+ووجدته أيضا مرسلا، مثل رواية الطبري هنا:
+
+فرواه الطحاوي في معاني الآثار ١: ١٤٢، من طريق سلمة بن رجاء، عن محمد بن إسحاق، بمثل إسناد الطبري هنا. وزاد في آخره بعد الآية: " قال: فما دعا رسول الله ﷺ بدعاء على أحد ".]] الآية.
+
+٧٨٢١ - حدثني يونس قال، أخبرنا ابن وهب قال، أخبرني يونس بن يزيد، عن ابن شهاب أخبره، عن سعيد بن المسيب وأبي سلمة بن عبد الرحمن: أنهما سمعا أبا هريرة يقول: كان رسول الله ﷺ يقول حين يفرغ، في صلاة الفجر، من القراءة ويكبر ويرفع رأسه:"سمع الله لمن حمده، ربنا ولك الحمد" ثم يقول وهو قائم:"اللهم أنج الوليد بن الوليد وسلمة بن هشام وعياش بن أبي ربيعة والمستضعفين من المؤمنين! اللهم اشدد وطأتك على مضر، واجعلها عليهم كسني يوسف! اللهم العن لحيان ورعلا وذكوان وعصية عصت الله ورسوله! ". ثم بلغنا أنه ترك ذلك لما نزل قوله: ﴿ليس لك من الأمر شيء أو يتوب عليهم أو يعذبهم فإنهم ظالمون﴾ [[الحديث: ٧٨٢١ - روى مسلم في صحيحه ١: ١٨٧، عن أبي الطاهر، وحرملة بن يحيى - كلاهما عن ابن وهب، بهذا الإسناد.
+
+ورواه البيهقي في السنن الكبرى ٢: ١٩٧، من طريق بحر بن نصر، عن ابن وهب، به. ثم أشار إلى رواية مسلم.
+
+ورواه الطحاوي في معاني الآثار ١: ١٤٢، عن يونس بن عبد الأعلى - شيخ الطبري هنا - بهذا الإسناد؛ ولكنه اختصر آخره، فلم يذكر قوله: " ثم بلغنا أنه ترك ذلك. . . ".
+
+ورواه أحمد في المسند: ٧٤٥٨، عن أبي كامل، عن إبراهيم بن سعد، عن الزهري، بهذا الإسناد، نحوه.
+
+وكذلك رواه البخاري ٨: ١٧٠ - ١٧١ (فتح) ، عن موسى بن إسماعيل، عن إبراهيم بن سعد، به.
+
+وكذلك رواه أبو جعفر النحاس في الناسخ والمنسوخ، ص: ٨٩، من طريق الحسن بن محمد، عن إبراهيم بن سعد.
+
+وكذلك رواه البيهقي ٢: ١٩٧، من طريق محمد بن عثمان بن خالد، عن إبراهيم بن سعد.
+
+ونقله ابن كثير ٢: ٢٣٨، عن رواية البخاري، التي أشرنا إليها آنفًا.
+
+وذكره السيوطي ٢: ٧١، وزاد نسبته لابن المنذر، وابن أبي حاتم. ولم يفرق بين روايتي إبراهيم بن سعد ويونس، والفرق بينهما واضح - فنسبه بنحو رواية يونس - للبخاري والنحاس، وهما لم يروياه بهذا اللفظ.
+
+وقد قال الحافظ في الفتح ٧: ٢٨٢، في شرح حديث ابن عمر، الذي أشرنا إليه في شرح: ٧٨١٩ - قال: " ووقع في رواية يونس، عن الزهري، عن سعيد وأبي سلمة، عن أبي هريرة، نحو حديث ابن عمر، لكن فيه: اللهم العن لحيان ورعلا وذكوان وعصية، قال: ثم بلغنا أنه ترك ذلك لما نزلت: (ليس لك من الأمر شيء) . قلت: [القائل ابن حجر] . وهذا إن كان محفوظًا احتمل أن يكون نزول الآية تراخى عن قصة أحد. لأن قصة رعل وذكوان كانت بعدها، كما سيأتي تلو هذه الغزوة، وفيه بعد. والصواب: أنها نزلت في شأن الذين دعا عليهم بسبب قصة أحد. والله أعلم. ويؤيد ذلك ظاهر قوله في صدر الآية: (ليقطع طرفًا من الذين كفروا) أي يقتلهم، (أو يكبتهم) أي يخزيهم، ثم قال: (أو يتوب عليهم) أي فيسلموا، (أو يعذبهم) أي إن ماتوا كفارًا ".
+
+وهذا تحقيق نفيس جيد من الطراز العالي.]] .
 
 ### al-Muyassar (Arabic)
 
@@ -832,9 +888,25 @@ Imam Ahmad recorded that Anas said that, the Prophet's front tooth was broken du
 
 كَيْفَ يُفْلِحُ قَوْمٌ فَعَلُوا هذَا بِنَبِيِّهِمْ، وَهُوَ يَدْعُوهُمْ إِلى رَبِّهِمْ عَزَّ وَجَلَّ؟
 
-(How c
+(How can a people achieve success after having done this to their Prophet who is calling them to their Lord, the Exalted and Most Honored?) Allah revealed,
 
-[TRUNCATED at 12000 chars — 971 more. Consult the source directly before relying on anything near the cut.]
+لَيْسَ لَكَ مِنَ الْأَمْرِ شَيْءٌ أَوْ يَتُوبَ عَلَيْهِمْ أَوْ يُعَذِّبَهُمْ فَإِنَّهُمْ ظَالِمُونَ
+
+(Not for you is the decision; whether He turns in mercy to (pardons) them or punishes them; verily, they are the wrongdoers.) Muslim also collected this Hadith.
+
+Allah then said,
+
+وَلِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ
+
+(...And to Allah belongs all that is in the heavens and all that is in the Earth.)[3:129], everything is indeed the property of Allah and all are servants in His Hand.
+
+يَغْفِرُ لِمَن يَشَاءُ وَيُعَذِّبُ مَن يَشَاءُ
+
+(He forgives whom He wills, and punishes whom He wills.) for His is the decision and none can resist His decision. Allah is never asked about what He does, while they will be asked,
+
+وَاللَّهُ غَفُورٌ رَّحِيمٌ
+
+(and Allah is Oft-Forgiving, Most Merciful.)(3:129 end...)
 
 ### al-Tabari (Arabic)
 

@@ -72,9 +72,9 @@ How Caesar defeated Chosroes (Kisra)
 
 It was previously reported that 'Ikrimah said: "Chosroes sent his deputy and his army against Caesar, and they fought." It is well-known that Chosroes himself fought in the army that invaded his land, and he defeated Caesar and overwhelmed him until he had nothing left except the city of Constantinople, where Chosroes besieged him for a long time, until things became very difficult for him. He was highly venerated among the Christians, and Chosroes was not able to conquer the city because it was well fortified, and half of it faced the land while the other half faced the sea, from where supplies were able to reach them. After this had gone on for a long time, Caesar thought of a clever trick. He asked Chosroes to let him leave his city in return for money given as a peace-offering, on whatever terms he (Chosroes) wanted. Chosroes agreed to that and asked for a huge amount of wealth – gold, jewels, fabric, servant-women, servants, and much more – such that no king on earth could ever pay. Caesar went along with that and gave him the impression that he had all that he had asked for, although he thought he was crazy for asking for such a thing, because even if the two of them were to combine all of their wealth, it would not amount to even one-tenth of that. He asked Chosroes to let him go out of the city to Ash-Sham and the other regions of his kingdom, so that he could gather that from his storehouses and places where his wealth was buried. Chosroes let him go, and when Caesar was about to leave Constantinople, he gathered his people together and told them: "I am going out on a mission I have decided to do so with some soldiers I have selected from my army; if I come back to you before one year passes, I will still be your king but if I do not come back after that, you will have the choice. Then, if you wish, you may remain loyal to me, or if you wish you may appoint someone instead of me.They replied, “You are our king for as long as you live, even if are gone for ten years.”
 
-When he left Constantinople, a cavalry detachment left with him, and Chosroes camped outside Constantinople to await his return, Caesar went straight away to the land of the Persians, where he started to kill all the men of fighting age, one by one, and he did not stop killing until he reached Al-Madain, which was the seat of power of the kingdom of Chosroes. He killed everyone in the city, and took all its treasures and wealth. He captured the women of Chosroes, shaved his son’s head and made him ride on his donkey, sending him with the leaders of of his people in a state of utmost humiliation. He wrote to Chosroes 
+When he left Constantinople, a cavalry detachment left with him, and Chosroes camped outside Constantinople to await his return, Caesar went straight away to the land of the Persians, where he started to kill all the men of fighting age, one by one, and he did not stop killing until he reached Al-Madain, which was the seat of power of the kingdom of Chosroes. He killed everyone in the city, and took all its treasures and wealth. He captured the women of Chosroes, shaved his son’s head and made him ride on his donkey, sending him with the leaders of of his people in a state of utmost humiliation. He wrote to Chosroes saying, “This is what you asked for, so take it.” When this reached Chosroes, he was extremely distressed, to an extent known only by Allah. His anger was directed against the city of Constantinople and he renewed his siege with increased vehemence, but he was not able to besiege it for long, nor was he able to go to the ford of the river Jayhun, which was the only route through which Caesar could reach Constantinople. When Caesar heard of this, he came up with an unprecedented strategy, whereby he left his troops and goods by the ford, and went off with some of his army commanded them to pick up some straw and animal droppings, and to travel approximately one day upstream. Then he told them to throw those things unto the water. When they passed by Chosroes, he and his soldiers thought that the Romans had gone that way, so they rode off in pursuit of them, and the ford was no longer occupied by the Persians. Then Caesar commanded his men to get up and jump into the river, which they did, thus escaping Chosroes and his troops, then they entered Constantinople.
 
-[TRUNCATED at 12000 chars — 1837 more. Consult the source directly before relying on anything near the cut.]
+That was a great day for the Christians. Chosroes and his army remained in a state of confusion, not knowing what they were doing. They had not been able to conquer the land of Caesar, and their own land was devastated by the Romans, who seized their wealth, and captured their women and children. This was how the Romans defeated the Persians, and this happened nine years after the Persians and the Romans continued until the Romans prevailed between Adhru’at (Ash-Sham) and Busra, according to what was stated by Ibn Abbas, Ikrimah and others. This is a place on the edge of of Ash-Sham, along the border with Al-Hijaz. Mujahid said, “That was a place in the Arabian Peninsula which is closer to the land of the Romans than to Persia.” And Allah knows best.
 
 ### al-Tabari (Arabic)
 
@@ -128,9 +128,101 @@ When he left Constantinople, a cavalry detachment left with him, and Chosroes ca
 
 ⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد في قوله: (الم غُلِبَتِ الرُّومُ فِي أَدْنَى الأرْضِ) قال: أدنى الأرض: الشأم، ﴿وَهُمْ منْ بَعْدِ غَلَبِهِمْ سَيَغْلِبُونَ﴾ قال: كانت فارس قد غلبت الروم، ثم أديل الروم على فارس، وذُكر أن رسول الله ﷺ قال: "إنَّ الرُّوم سَتَغْلِبُ فارِسًا"، فقال المشركون: هذا مما يتخرّص محمد، فقال أبو بكر: تناحبونني؟ -والمناحبة: المجاعلة- قالوا: نعم. فناحبهم أبو بكر، فجعل السنين أربعا أو خمسا، ثم جاء إلى النبي ﷺ، فقال رسول ﷺ: "إنَّ الْبِضْعَ فِيمَا بَيْنَ الثَّلاثِ إِلَى التِّسْعِ، فارْجعْ إلى القَوْمِ، فَزِدْ فِي المُناحَبَةِ"، فرجع إليهم. قالوا: فناحبهم فزاد. قال: فغَلبت الروم فارسا، فذلك قول الله: ﴿وَيَوْمَئِذٍ يَفْرَحُ الْمُؤْمِنُونَ بِنَصْرِ اللَّهِ يَنْصُرُ مَنْ يَشَاءُ﴾ يوم أديلت الروم على فارس.
 
-⁕ حدثنا ابن وكيع، قال: ثنا معاوية بن عمرو، عن أبي إسحاق الفزاري، عن سفيان، عن حبيب بن أبي عمرة، عن سعيد بن جُبَير، عن ابن عباس ﴿الم غُلِبَتِ الرُّومُ﴾ قال: غُلبت وغَلبت؛ فأما الذين قرءوا ذلك: ﴿غَلَبَتِ الرُّومُ﴾ بفتح الغين، فإنهم قالوا: نزلت هذه الآية خبرا من الله نبيه ﷺ عن غ
+⁕ حدثنا ابن وكيع، قال: ثنا معاوية بن عمرو، عن أبي إسحاق الفزاري، عن سفيان، عن حبيب بن أبي عمرة، عن سعيد بن جُبَير، عن ابن عباس ﴿الم غُلِبَتِ الرُّومُ﴾ قال: غُلبت وغَلبت؛ فأما الذين قرءوا ذلك: ﴿غَلَبَتِ الرُّومُ﴾ بفتح الغين، فإنهم قالوا: نزلت هذه الآية خبرا من الله نبيه ﷺ عن غلبة الروم.
 
-[TRUNCATED at 12000 chars — 6746 more. Consult the source directly before relying on anything near the cut.]
+ذكر من قال ذلك:
+
+⁕ حدثنا نصر بن عليّ، قال: ثنا المعتمر بن سليمان، عن أبيه، عن سليمان -يعني الأعمش- عن عطية، عن أبي سعيد، قال: لما كان يوم ظهر الروم على فارس، فأعجب ذلك المؤمنين، فنزلت ﴿الم غُلِبَتِ الرُّومُ﴾ على فارس.
+
+⁕ حدثنا محمد بن المثنى، قال: ثنا يحيى بن حماد، قال: ثنا أبو عوانة، عن سليمان، عن عطية، عن أبي سعيد، قال: لما كان يوم بدر، غلبت الروم على فارس، ففرح المسلمون بذلك، فأنزل الله ﴿الم غُلِبَتِ الرُّومُ ... ﴾ إلى آخر الآية.
+
+⁕ حدثنا يحيى بن إبراهيم المسعودي، قال: ثنا أبي، عن أبيه، عن جدّه، عن الأعمش، عن عطية، عن أبي سعيد، قال: لما كان يوم بدر، ظهرت الروم على فارس، فأعجب ذلك المؤمنين؛ لأنهم أهل كتاب، فأنزل الله ﴿الم غُلِبَتِ الرُّومُ فِي أَدْنَى الأرْضِ﴾ قال: كانوا قد غلبوا قبل ذلك، ثم قرأ حتى بلغ ﴿وَيَوْمَئِذٍ يَفْرَحُ الْمُؤْمِنُونَ بِنَصْرِ اللَّهِ﴾ .
+
+* *
+
+وقوله: ﴿فِي أَدْنَى الأرْضِ﴾
+
+قد ذكرت قول بعضهم فيما تقدّم قبل، وأذكر قول من لم يذكر قوله.
+
+⁕ حدثني عليّ، قال: ثنا أبو صالح، قال: ثني معاوية، عن عليّ، عن ابن عباس قوله: ﴿فِي أَدْنَى الأرْضِ﴾ يقول: في طرف الشام. ومعنى قوله أدنى: أقرب، وهو أفعل من الدنوّ والقرب. وإنما معناه: في أدنى الأرض من فارس، فترك ذكر فارس استغناء بدلالة ما ظهر من قوله: ﴿فِي أَدْنَى الأرْضِ﴾ عليه منه.
+
+* *
+
+وقوله: ﴿وَهُمْ مِنْ بَعْدِ غَلَبِهِمْ﴾
+
+يقول: والروم من بعد غلبة فارس إياهم سيغلبون فارس.
+
+* *
+
+وقوله: ﴿مِنْ بَعْدِ غَلَبِهِمْ﴾
+
+مصدر من قول القائل: غلبته غلبة، فحذفت الهاء من الغلبة. وقيل: من بعد غلبهم، ولم يقل: من بعد غلبتهم للإضافة، كما حذفت من قوله: ﴿وَإقامِ الصَّلاةِ﴾ للإضافة. وإنما الكلام: وإقامة الصلاة.
+
+وأما قوله: ﴿سَيَغْلِبُونَ﴾ فإن القرّاء أجمعين على فتح الياء فيها، والواجب على قراءة من قرأ: ﴿الم غَلَبَتِ الرُّومُ﴾ بفتح الغين، أن يقرأ قوله: ﴿سَيُغْلَبُونَ﴾ بضم الياء، فيكون معناه: وهم من بعد غلبتهم فارس سيغلبهم المسلمون، حتى يصحّ معنى الكلام، وإلا لم يكن للكلام كبير معنى إن فتحت الياء، لأن الخبر عما قد كان يصير إلى الخبر عن أنه سيكون، وذلك إفساد أحد الخبرين بالآخر.
+
+* *
+
+وقوله: ﴿فِي بضْعِ سِنِينَ﴾
+
+قد ذكرنا اختلاف أهل التأويل في معنى البضع فيما مضى، وأتينا على الصحيح من أقوالهم، بما أغنى عن إعادته في هذا الموضع.
+
+⁕ وقد حدثنا ابن حميد، قال: ثنا الحكم بن بشير، قال: ثنا خلاد بن أسلم الصفار، عن عبد الله بن عيسى، عن عبد الرحمن بن الحارث، عن أبيه، عن عبد الله بن عمرو، قال: قلت له: ما البضع؟ قال: زعم أهل الكتاب أنه تسع أو سبع.
+
+وأما قوله: ﴿لِلَّهِ الأمْرُ مِنْ قَبْلُ وَمِنْ بَعْدُ﴾ فإن القاسم حدثنا، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جُرَيج قوله: ﴿لِلهِ الأمْرُ مِنْ قَبْلُ﴾ دولة فارس على الروم، ﴿وَمِنْ بَعْدُ﴾ دولة الروم على فارس.
+
+وأما قوله: ﴿وَيَوْمَئِذٍ يَفْرَحُ الْمُؤْمِنُونَ بِنَصْرِ اللَّهِ يَنْصُرُ مَنْ يَشَاءُ﴾ فقد ذكرنا الرواية في تأويله قبل، وبيَّنا معناه.
+
+* *
+
+القول في تأويل قوله تعالى: ﴿وَعْدَ اللَّهِ لا يُخْلِفُ اللَّهُ وَعْدَهُ وَلَكِنَّ أَكْثَرَ النَّاسِ لا يَعْلَمُونَ (٦) ﴾
+
+يقول تعالى ذكره: وعد الله جلّ ثناؤه، وعد أن الروم ستغلب فارس من بعد غلبة فارس لهم، ونصب ﴿وَعْدَ اللهِ﴾ على المصدر من قوله: ﴿وَهُمْ مِنْ بَعْدِ غَلَبِهِمْ سَيَغْلِبُونَ﴾ لأن ذلك وعد من الله لهم أنهم سيغلبون، فكأنه قال: وعد الله ذلك المؤمنين وعدا، ﴿لا يُخلف اللهُ وَعْدَهُ﴾ يقول تعالى ذكره: إن الله يفي بوعده للمؤمنين أن الروم سيغلبون فارس، لا يخلفهم وعده ذلك؛ لأنه ليس في مواعيده خلف ﴿ولكِنَّ أكْثَرَ النَّاسِ لا يعْلَمُونَ﴾ يقول: ولكنّ أكثر قريش الذين يكذّبون بأن الله منجز وعده المؤمنين، من أن الروم تغلب فارس، لا يعلمون أن ذلك كذلك، وأنه لا يجوز أن يكون في وعد الله إخلاف.
+
+* *
+
+القول في تأويل قوله تعالى: ﴿يَعْلَمُونَ ظَاهِرًا مِنَ الْحَيَاةِ الدُّنْيَا وَهُمْ عَنِ الآخِرَةِ هُمْ غَافِلُونَ (٧) ﴾
+
+يقول تعالى ذكره: يعلم هؤلاء المكذّبون بحقيقة خبر الله أن الروم ستغلب فارس، ظاهرا من حياتهم الدنيا، وتدبير معايشهم فيها، وما يصلحهم، وهم عن أمر آخرتهم، وما لهم فيه النجاة من عقاب الله هنالك، غافلون، لا يفكرون فيه.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا ابن حميد، قال: ثنا أبو تُمَيْلة يحيى بن واضح الأنصاري، قال: ثنا الحسين بن واقد، قال: ثنا يزيد النحوي، عن عكرمة، عن ابن عباس في قوله: ﴿يَعْلَمُونَ ظاهِرا مِنَ الحَياةِ الدُّنْيا﴾ يعني معايشهم، متى يحصدون ومتى يغرسون.
+
+⁕ حدثني أحمد بن الوليد الرمليّ، قال ثنا: عمرو بن عثمان بن عمر، عن عاصم بن عليّ، قال: ثنا أبو تميلة، قال: ثنا ابن واقد، عن يزيد النحويّ، عن عكرمة، عن ابن عباس في قوله: ﴿يعلَمونَ ظاهِرًا من الحَياةِ الدُّنْيا﴾ قال: متى يَزْرَعون، متى يَغْرِسون.
+
+⁕ حدثنا محمد بن المثنى، قال: ثنا محمد بن جعفر، قال: ثنا شعبة، قال: ثني شرقي، عن عكرمة في قوله: ﴿يَعْلَمُونَ ظَاهِرًا مِنَ الْحَيَاةِ الدُّنْيَا﴾ قال: هو السراج أو نحوه.
+
+⁕ حدثنا أبو هريرة محمد بن فراس الضبعي، قال: ثنا أبو قُتَيبة، قال: ثنا شعبة، عن شرقي، عن عكرِمة في قوله: ﴿يَعْلَمُونَ ظَاهِرًا مِنَ الْحَيَاةِ الدُّنْيَا﴾ : قال السراجون.
+
+⁕ حدثنا أحمد بن الوليد الرملي، قال: ثنا سليمان بن حرب، قال: ثنا شعبة، عن شرقي، عن عكرِمة في قوله: ﴿يَعْلَمُونَ ظَاهِرًا مِنَ الْحَيَاةِ الدُّنْيَا﴾ قال: الخرازون والسراجون.
+
+⁕ حدثنا بشر بن آدم، قال: ثنا عبد الرحمن بن مهدي، قال: ثنا سفيان، عن منصور، عن إبراهيم ﴿يَعْلَمُونَ ظَاهِرًا مِنَ الْحَيَاةِ الدُّنْيَا﴾ قال: معايشهم، وما يصلحهم.
+
+⁕ حدثنا ابن بشار، قال: ثنا عبد الرحمن بن مهدي، قال: ثنا سفيان، عن منصور، عن إبراهيم، مثله.
+
+⁕ حدثني بشر بن آدم، قال: ثنا الضحاك بن مخلد، عن سفيان، عن أبيه، عن عكرِمة، وعن منصور، عن إبراهيم ﴿يَعْلَمُونَ ظَاهِرًا مِنَ الْحَيَاةِ الدُّنْيَا﴾ قال: معايشهم.
+
+⁕ حدثني عليّ، قال: ثنا عبد الله، قال: ثني معاوية، عن عليّ، عن ابن عباس قوله: ﴿ظَاهِرًا مِنَ الْحَيَاةِ الدُّنْيَا﴾ يعني الكفار، يعرفون عمران الدنيا، وهم في أمر الدين جهال.
+
+⁕ حدثني ابن وكيع، قال: ثني أبي، عن سفيان، عن أبيه، عن عكرِمة ﴿يَعْلَمُونَ ظَاهِرًا مِنَ الْحَيَاةِ الدُّنْيَا﴾ قال: معايشهم، وما يصلحهم.
+
+⁕ حدثنا ابن وكيع، قال: ثنا أبي، عن سفيان، عن منصور، عن إبراهيم مثله.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قَتادة قوله: ﴿يَعْلَمُونَ ظَاهِرًا مِنَ الْحَيَاةِ الدُّنْيَا﴾ من حرفَتها وتصرّفها وبغيتها، ﴿وَهُمْ عَنِ الآخِرَةِ هُمْ غَافِلُونَ﴾ .
+
+⁕ حدثنا ابن وكيع، قال: ثنا أبي، عن سفيان، عن رجل، عن الحسن، قال: يعلمون متى زرعهم، ومتى حصادهم.
+
+⁕ قال: ثنا حفص بن راشد الهلالي، عن شعبة، عن شرقي، عن عكرِمة ﴿يَعْلَمُونَ ظَاهِرًا مِنَ الْحَيَاةِ الدُّنْيَا﴾ قال: السراج ونحوه.
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن أبي جعفر، عن الربيع، عن أبي العالية قال: صرفها في معيشتها.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد في قوله: ﴿يَعْلَمُونَ ظَاهِرًا مِنَ الْحَيَاةِ الدُّنْيَا وَهُمْ عَنِ الآخِرَةِ هُمْ غَافِلُونَ﴾ [[كذا في النسخ، ولم يذكر التفسير، ولعله سقط من قلم الناسخ، أو لعله كلمة "نحوه" أو "مثله"، وكثيرًا ما يتركها.]] .
+
+وقال آخرون في ذلك ما:-
+
+⁕ حدثنا ابن حميد، قال: ثنا يعقوب القمي، عن جعفر، عن سعيد في قوله: ﴿يَعْلَمُونَ ظَاهِرًا مِنَ الْحَيَاةِ الدُّنْيَا﴾ قال: تسترق الشياطين السمع، فيسمعون الكلمة التي قد نزلت ينبغي لها أن تكون في الأرض، قال: ويرمون بالشُّهب، فلا ينجو أن يحترق، أو يصيبه شرر منه، قال: فيسقط فلا يعود أبدا، قال: ويرمي بذاك الذي سمع إلى أوليائه من الإنس، قال: فيحملون عليه ألف كذبة، قال: فما رأيت الناس يقولون: يكون كذا وكذا، قال: فيجيء الصحيح منه كما يقولون، الذي سمعوه من السماء، ويعقبه من الكذب الذي يخوضون فيه.
 
 ### al-Muyassar (Arabic)
 

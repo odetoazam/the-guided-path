@@ -30,7 +30,7 @@ const args = process.argv.slice(2);
 const li = args.indexOf('--limit');
 const limit = li >= 0 ? parseInt(args[li + 1], 10) : Infinity;
 const CONCURRENCY = 12;
-const LIMIT_CHARS = 12000;
+const LIMIT_CHARS = 60000;
 
 const EDITIONS = [
   { slug: 'en-tafisr-ibn-kathir', name: 'Ibn Kathir (English)' },

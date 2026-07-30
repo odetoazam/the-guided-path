@@ -136,9 +136,55 @@ When the Children of Israel refused to fight, Musa became very angry with them a
 
 رَبِّ إِنِّي لَا أَمْلِكُ إِلَّا نَفْسِي وَأَخِي
 
-(O my Lord! I have power only over myself and my brother') meaning, only I and my brother Ha
+(O my Lord! I have power only over myself and my brother') meaning, only I and my brother Harun among them will obey, implement Allah's command and accept the call,
 
-[TRUNCATED at 12000 chars — 5327 more. Consult the source directly before relying on anything near the cut.]
+فَافْرُقْ بَيْنَنَا وَبَيْنَ الْقَوْمِ الْفَاسِقِينَ
+
+(So Ifruq us from the rebellious people!) Al-'Awfi reported that Ibn 'Abbas said, "Meaning, judge between us and them." 'Ali bin Abi Talhah reported similarly from him. Ad-Dahhak said that the Ayah means, "Judge and decide between us and them." Other scholars said that the Ayah means, "Separate between us and them."
+
+Forbidding the Jews from Entering the Holy Land for Forty Years
+
+Allah said,
+
+فَإِنَّهَا مُحَرَّمَةٌ عَلَيْهِمْ ۛ أَرْبَعِينَ سَنَةً ۛ يَتِيهُونَ فِي الْأَرْضِ
+
+(Therefore it is forbidden to them for forty years; in distraction they will wander through the land.)
+
+When Musa supplicated against the Jews for refusing to fight in Jihad, Allah forbade them from entering the land for forty years. They wandered about lost in the land of At-Tih, unable to find their way out. During this time, tremendous miracles occurred, such as the clouds that shaded them and the manna and quails Allah sent down for them. Allah brought forth water springs from solid rock, and the other miracles that He aided Musa bin 'Imran with. During this time, the Tawrah was revealed and the Law was established for the Children of Israel and the Tabernacle of the Covenant was erected.
+
+Conquering Jerusalem
+
+Allah's statement,
+
+أَرْبَعِينَ سَنَةً
+
+(for forty years;) defines,
+
+يَتِيهُونَ فِي الْأَرْضِ
+
+(in distraction they will wander through the land.)
+
+When these years ended, Yuwsha' bin Nun led those who remained among them and the second generation, and laid siege to Jerusalem, conquering it on a Friday afternoon. When the sun was about to set and Yuwsha' feared that the Sabbath would begin, he said (to the sun), "You are commanded and I am commanded, as well. O Allah! Make it stop setting for me." Allah made the sun stop setting until Yuwsha' bin Nun conquered Jerusalem. Next, Allah commanded Yuwsha' to order the Children of Israel to enter Jerusalem from its gate while bowing and saying Hittah, meaning, 'remove our sins.' Yet, they changed what they were commanded and entered it while dragging themselves on their behinds and saying, 'Habbah (a seed) in Sha'rah (a hair)." We mentioned all of this in the Tafsir of Surat Al-Baqarah.
+
+Ibn Abi Hatim recorded that Ibn 'Abbas commented,
+
+فَإِنَّهَا مُحَرَّمَةٌ عَلَيْهِمْ ۛ أَرْبَعِينَ سَنَةً ۛ يَتِيهُونَ فِي الْأَرْضِ
+
+(Therefore it is forbidden to them for forty years; in distraction they will wander through the land.)
+
+"They wandered in the land for forty years, during which Musa and Harun died, as well as everyone above forty years of age. When the forty years ended, Yuwsha' son of Nun assumed their leadership and later conquered Jerusalem. When Yuwsha' was reminded that the day was Friday and the sun was about to set, while they were still attacking Jerusalem, he feared that the Sabbath might begin. Therefore, he said to the sun, 'I am commanded and you are commanded.' Allah made the sun stop setting and the Jews conquered Jerusalem and found wealth unseen before. They wanted to let the fire consume the booty, but the fire would not do that. Yuwsha' said, 'Some of you have committed theft from the booty.' So he summoned the twelve leaders of the twelve tribes and took the pledge from them. Then, the hand of one of them became stuck to the hand of Yuwsha' and Yuwsha' said, 'You committed the theft, so bring it forth.' So, that man brought a cow's head made of gold with two eyes made of precious stones and a set of teeth made of pearls. When Yuwsha' added it to the booty, the fire consumed it, as they were prohibited to keep the booty." There is evidence supporting all of this in the Sahih.
+
+Allah Comforts Musa
+
+Comforting Musa, Allah said
+
+فَلَا تَأْسَ عَلَى الْقَوْمِ الْفَاسِقِينَ
+
+(So do not greive for the rebellious people.)
+
+Allah said: Do not feel sorrow or sadness over My judgment against them, for they deserve such judgment.
+
+This story chastises the Jews, exposes their defiance of Allah and His Messenger, and their refusal to obey the order for Jihad. They were weak and could not bear the thought of fighting their enemy, being patient, and enduring this way. This occurred although they had the Messenger of Allah and the one whom He spoke to among them, the best of Allah's creation that time. Their Prophet promised them triumph and victory against their enemies. They also witnessed the torment and punishment of drowning with which Allah punished their enemy Fir'awn and his soldiers, so that their eyes were pleased and comforted. All this did not happen too long ago, yet they refused to perform Jihad against people who had less than a tenth of the power and strength than the people of Egypt had. Therefore, the evil works of the Jews were exposed to everyone, and the exposure was such an enormous one that the night, or the tail, can never cover its tracks. They were also blinded by their ignorance and transgression. Thus, they became hated by Allah, and they became His enemies. Yet, they claim that they are Allah's children and His loved ones! May Allah curse their faces that were transformed to the shape of swine and apes, and may Allah's curse accompany them to the raging Fire. May Allah make them abide in the Fire for eternity, and He did; all thanks are due to Him.
 
 ### al-Tabari (Arabic)
 
@@ -422,9 +468,55 @@ When the Children of Israel refused to fight, Musa became very angry with them a
 
 رَبِّ إِنِّي لَا أَمْلِكُ إِلَّا نَفْسِي وَأَخِي
 
-(O my Lord! I have power only over myself and my brother') meaning, only I and my brother Ha
+(O my Lord! I have power only over myself and my brother') meaning, only I and my brother Harun among them will obey, implement Allah's command and accept the call,
 
-[TRUNCATED at 12000 chars — 5327 more. Consult the source directly before relying on anything near the cut.]
+فَافْرُقْ بَيْنَنَا وَبَيْنَ الْقَوْمِ الْفَاسِقِينَ
+
+(So Ifruq us from the rebellious people!) Al-'Awfi reported that Ibn 'Abbas said, "Meaning, judge between us and them." 'Ali bin Abi Talhah reported similarly from him. Ad-Dahhak said that the Ayah means, "Judge and decide between us and them." Other scholars said that the Ayah means, "Separate between us and them."
+
+Forbidding the Jews from Entering the Holy Land for Forty Years
+
+Allah said,
+
+فَإِنَّهَا مُحَرَّمَةٌ عَلَيْهِمْ ۛ أَرْبَعِينَ سَنَةً ۛ يَتِيهُونَ فِي الْأَرْضِ
+
+(Therefore it is forbidden to them for forty years; in distraction they will wander through the land.)
+
+When Musa supplicated against the Jews for refusing to fight in Jihad, Allah forbade them from entering the land for forty years. They wandered about lost in the land of At-Tih, unable to find their way out. During this time, tremendous miracles occurred, such as the clouds that shaded them and the manna and quails Allah sent down for them. Allah brought forth water springs from solid rock, and the other miracles that He aided Musa bin 'Imran with. During this time, the Tawrah was revealed and the Law was established for the Children of Israel and the Tabernacle of the Covenant was erected.
+
+Conquering Jerusalem
+
+Allah's statement,
+
+أَرْبَعِينَ سَنَةً
+
+(for forty years;) defines,
+
+يَتِيهُونَ فِي الْأَرْضِ
+
+(in distraction they will wander through the land.)
+
+When these years ended, Yuwsha' bin Nun led those who remained among them and the second generation, and laid siege to Jerusalem, conquering it on a Friday afternoon. When the sun was about to set and Yuwsha' feared that the Sabbath would begin, he said (to the sun), "You are commanded and I am commanded, as well. O Allah! Make it stop setting for me." Allah made the sun stop setting until Yuwsha' bin Nun conquered Jerusalem. Next, Allah commanded Yuwsha' to order the Children of Israel to enter Jerusalem from its gate while bowing and saying Hittah, meaning, 'remove our sins.' Yet, they changed what they were commanded and entered it while dragging themselves on their behinds and saying, 'Habbah (a seed) in Sha'rah (a hair)." We mentioned all of this in the Tafsir of Surat Al-Baqarah.
+
+Ibn Abi Hatim recorded that Ibn 'Abbas commented,
+
+فَإِنَّهَا مُحَرَّمَةٌ عَلَيْهِمْ ۛ أَرْبَعِينَ سَنَةً ۛ يَتِيهُونَ فِي الْأَرْضِ
+
+(Therefore it is forbidden to them for forty years; in distraction they will wander through the land.)
+
+"They wandered in the land for forty years, during which Musa and Harun died, as well as everyone above forty years of age. When the forty years ended, Yuwsha' son of Nun assumed their leadership and later conquered Jerusalem. When Yuwsha' was reminded that the day was Friday and the sun was about to set, while they were still attacking Jerusalem, he feared that the Sabbath might begin. Therefore, he said to the sun, 'I am commanded and you are commanded.' Allah made the sun stop setting and the Jews conquered Jerusalem and found wealth unseen before. They wanted to let the fire consume the booty, but the fire would not do that. Yuwsha' said, 'Some of you have committed theft from the booty.' So he summoned the twelve leaders of the twelve tribes and took the pledge from them. Then, the hand of one of them became stuck to the hand of Yuwsha' and Yuwsha' said, 'You committed the theft, so bring it forth.' So, that man brought a cow's head made of gold with two eyes made of precious stones and a set of teeth made of pearls. When Yuwsha' added it to the booty, the fire consumed it, as they were prohibited to keep the booty." There is evidence supporting all of this in the Sahih.
+
+Allah Comforts Musa
+
+Comforting Musa, Allah said
+
+فَلَا تَأْسَ عَلَى الْقَوْمِ الْفَاسِقِينَ
+
+(So do not greive for the rebellious people.)
+
+Allah said: Do not feel sorrow or sadness over My judgment against them, for they deserve such judgment.
+
+This story chastises the Jews, exposes their defiance of Allah and His Messenger, and their refusal to obey the order for Jihad. They were weak and could not bear the thought of fighting their enemy, being patient, and enduring this way. This occurred although they had the Messenger of Allah and the one whom He spoke to among them, the best of Allah's creation that time. Their Prophet promised them triumph and victory against their enemies. They also witnessed the torment and punishment of drowning with which Allah punished their enemy Fir'awn and his soldiers, so that their eyes were pleased and comforted. All this did not happen too long ago, yet they refused to perform Jihad against people who had less than a tenth of the power and strength than the people of Egypt had. Therefore, the evil works of the Jews were exposed to everyone, and the exposure was such an enormous one that the night, or the tail, can never cover its tracks. They were also blinded by their ignorance and transgression. Thus, they became hated by Allah, and they became His enemies. Yet, they claim that they are Allah's children and His loved ones! May Allah curse their faces that were transformed to the shape of swine and apes, and may Allah's curse accompany them to the raging Fire. May Allah make them abide in the Fire for eternity, and He did; all thanks are due to Him.
 
 ### al-Tabari (Arabic)
 
@@ -670,9 +762,55 @@ When the Children of Israel refused to fight, Musa became very angry with them a
 
 رَبِّ إِنِّي لَا أَمْلِكُ إِلَّا نَفْسِي وَأَخِي
 
-(O my Lord! I have power only over myself and my brother') meaning, only I and my brother Ha
+(O my Lord! I have power only over myself and my brother') meaning, only I and my brother Harun among them will obey, implement Allah's command and accept the call,
 
-[TRUNCATED at 12000 chars — 5327 more. Consult the source directly before relying on anything near the cut.]
+فَافْرُقْ بَيْنَنَا وَبَيْنَ الْقَوْمِ الْفَاسِقِينَ
+
+(So Ifruq us from the rebellious people!) Al-'Awfi reported that Ibn 'Abbas said, "Meaning, judge between us and them." 'Ali bin Abi Talhah reported similarly from him. Ad-Dahhak said that the Ayah means, "Judge and decide between us and them." Other scholars said that the Ayah means, "Separate between us and them."
+
+Forbidding the Jews from Entering the Holy Land for Forty Years
+
+Allah said,
+
+فَإِنَّهَا مُحَرَّمَةٌ عَلَيْهِمْ ۛ أَرْبَعِينَ سَنَةً ۛ يَتِيهُونَ فِي الْأَرْضِ
+
+(Therefore it is forbidden to them for forty years; in distraction they will wander through the land.)
+
+When Musa supplicated against the Jews for refusing to fight in Jihad, Allah forbade them from entering the land for forty years. They wandered about lost in the land of At-Tih, unable to find their way out. During this time, tremendous miracles occurred, such as the clouds that shaded them and the manna and quails Allah sent down for them. Allah brought forth water springs from solid rock, and the other miracles that He aided Musa bin 'Imran with. During this time, the Tawrah was revealed and the Law was established for the Children of Israel and the Tabernacle of the Covenant was erected.
+
+Conquering Jerusalem
+
+Allah's statement,
+
+أَرْبَعِينَ سَنَةً
+
+(for forty years;) defines,
+
+يَتِيهُونَ فِي الْأَرْضِ
+
+(in distraction they will wander through the land.)
+
+When these years ended, Yuwsha' bin Nun led those who remained among them and the second generation, and laid siege to Jerusalem, conquering it on a Friday afternoon. When the sun was about to set and Yuwsha' feared that the Sabbath would begin, he said (to the sun), "You are commanded and I am commanded, as well. O Allah! Make it stop setting for me." Allah made the sun stop setting until Yuwsha' bin Nun conquered Jerusalem. Next, Allah commanded Yuwsha' to order the Children of Israel to enter Jerusalem from its gate while bowing and saying Hittah, meaning, 'remove our sins.' Yet, they changed what they were commanded and entered it while dragging themselves on their behinds and saying, 'Habbah (a seed) in Sha'rah (a hair)." We mentioned all of this in the Tafsir of Surat Al-Baqarah.
+
+Ibn Abi Hatim recorded that Ibn 'Abbas commented,
+
+فَإِنَّهَا مُحَرَّمَةٌ عَلَيْهِمْ ۛ أَرْبَعِينَ سَنَةً ۛ يَتِيهُونَ فِي الْأَرْضِ
+
+(Therefore it is forbidden to them for forty years; in distraction they will wander through the land.)
+
+"They wandered in the land for forty years, during which Musa and Harun died, as well as everyone above forty years of age. When the forty years ended, Yuwsha' son of Nun assumed their leadership and later conquered Jerusalem. When Yuwsha' was reminded that the day was Friday and the sun was about to set, while they were still attacking Jerusalem, he feared that the Sabbath might begin. Therefore, he said to the sun, 'I am commanded and you are commanded.' Allah made the sun stop setting and the Jews conquered Jerusalem and found wealth unseen before. They wanted to let the fire consume the booty, but the fire would not do that. Yuwsha' said, 'Some of you have committed theft from the booty.' So he summoned the twelve leaders of the twelve tribes and took the pledge from them. Then, the hand of one of them became stuck to the hand of Yuwsha' and Yuwsha' said, 'You committed the theft, so bring it forth.' So, that man brought a cow's head made of gold with two eyes made of precious stones and a set of teeth made of pearls. When Yuwsha' added it to the booty, the fire consumed it, as they were prohibited to keep the booty." There is evidence supporting all of this in the Sahih.
+
+Allah Comforts Musa
+
+Comforting Musa, Allah said
+
+فَلَا تَأْسَ عَلَى الْقَوْمِ الْفَاسِقِينَ
+
+(So do not greive for the rebellious people.)
+
+Allah said: Do not feel sorrow or sadness over My judgment against them, for they deserve such judgment.
+
+This story chastises the Jews, exposes their defiance of Allah and His Messenger, and their refusal to obey the order for Jihad. They were weak and could not bear the thought of fighting their enemy, being patient, and enduring this way. This occurred although they had the Messenger of Allah and the one whom He spoke to among them, the best of Allah's creation that time. Their Prophet promised them triumph and victory against their enemies. They also witnessed the torment and punishment of drowning with which Allah punished their enemy Fir'awn and his soldiers, so that their eyes were pleased and comforted. All this did not happen too long ago, yet they refused to perform Jihad against people who had less than a tenth of the power and strength than the people of Egypt had. Therefore, the evil works of the Jews were exposed to everyone, and the exposure was such an enormous one that the night, or the tail, can never cover its tracks. They were also blinded by their ignorance and transgression. Thus, they became hated by Allah, and they became His enemies. Yet, they claim that they are Allah's children and His loved ones! May Allah curse their faces that were transformed to the shape of swine and apes, and may Allah's curse accompany them to the raging Fire. May Allah make them abide in the Fire for eternity, and He did; all thanks are due to Him.
 
 ### al-Tabari (Arabic)
 
@@ -854,9 +992,55 @@ When the Children of Israel refused to fight, Musa became very angry with them a
 
 رَبِّ إِنِّي لَا أَمْلِكُ إِلَّا نَفْسِي وَأَخِي
 
-(O my Lord! I have power only over myself and my brother') meaning, only I and my brother Ha
+(O my Lord! I have power only over myself and my brother') meaning, only I and my brother Harun among them will obey, implement Allah's command and accept the call,
 
-[TRUNCATED at 12000 chars — 5327 more. Consult the source directly before relying on anything near the cut.]
+فَافْرُقْ بَيْنَنَا وَبَيْنَ الْقَوْمِ الْفَاسِقِينَ
+
+(So Ifruq us from the rebellious people!) Al-'Awfi reported that Ibn 'Abbas said, "Meaning, judge between us and them." 'Ali bin Abi Talhah reported similarly from him. Ad-Dahhak said that the Ayah means, "Judge and decide between us and them." Other scholars said that the Ayah means, "Separate between us and them."
+
+Forbidding the Jews from Entering the Holy Land for Forty Years
+
+Allah said,
+
+فَإِنَّهَا مُحَرَّمَةٌ عَلَيْهِمْ ۛ أَرْبَعِينَ سَنَةً ۛ يَتِيهُونَ فِي الْأَرْضِ
+
+(Therefore it is forbidden to them for forty years; in distraction they will wander through the land.)
+
+When Musa supplicated against the Jews for refusing to fight in Jihad, Allah forbade them from entering the land for forty years. They wandered about lost in the land of At-Tih, unable to find their way out. During this time, tremendous miracles occurred, such as the clouds that shaded them and the manna and quails Allah sent down for them. Allah brought forth water springs from solid rock, and the other miracles that He aided Musa bin 'Imran with. During this time, the Tawrah was revealed and the Law was established for the Children of Israel and the Tabernacle of the Covenant was erected.
+
+Conquering Jerusalem
+
+Allah's statement,
+
+أَرْبَعِينَ سَنَةً
+
+(for forty years;) defines,
+
+يَتِيهُونَ فِي الْأَرْضِ
+
+(in distraction they will wander through the land.)
+
+When these years ended, Yuwsha' bin Nun led those who remained among them and the second generation, and laid siege to Jerusalem, conquering it on a Friday afternoon. When the sun was about to set and Yuwsha' feared that the Sabbath would begin, he said (to the sun), "You are commanded and I am commanded, as well. O Allah! Make it stop setting for me." Allah made the sun stop setting until Yuwsha' bin Nun conquered Jerusalem. Next, Allah commanded Yuwsha' to order the Children of Israel to enter Jerusalem from its gate while bowing and saying Hittah, meaning, 'remove our sins.' Yet, they changed what they were commanded and entered it while dragging themselves on their behinds and saying, 'Habbah (a seed) in Sha'rah (a hair)." We mentioned all of this in the Tafsir of Surat Al-Baqarah.
+
+Ibn Abi Hatim recorded that Ibn 'Abbas commented,
+
+فَإِنَّهَا مُحَرَّمَةٌ عَلَيْهِمْ ۛ أَرْبَعِينَ سَنَةً ۛ يَتِيهُونَ فِي الْأَرْضِ
+
+(Therefore it is forbidden to them for forty years; in distraction they will wander through the land.)
+
+"They wandered in the land for forty years, during which Musa and Harun died, as well as everyone above forty years of age. When the forty years ended, Yuwsha' son of Nun assumed their leadership and later conquered Jerusalem. When Yuwsha' was reminded that the day was Friday and the sun was about to set, while they were still attacking Jerusalem, he feared that the Sabbath might begin. Therefore, he said to the sun, 'I am commanded and you are commanded.' Allah made the sun stop setting and the Jews conquered Jerusalem and found wealth unseen before. They wanted to let the fire consume the booty, but the fire would not do that. Yuwsha' said, 'Some of you have committed theft from the booty.' So he summoned the twelve leaders of the twelve tribes and took the pledge from them. Then, the hand of one of them became stuck to the hand of Yuwsha' and Yuwsha' said, 'You committed the theft, so bring it forth.' So, that man brought a cow's head made of gold with two eyes made of precious stones and a set of teeth made of pearls. When Yuwsha' added it to the booty, the fire consumed it, as they were prohibited to keep the booty." There is evidence supporting all of this in the Sahih.
+
+Allah Comforts Musa
+
+Comforting Musa, Allah said
+
+فَلَا تَأْسَ عَلَى الْقَوْمِ الْفَاسِقِينَ
+
+(So do not greive for the rebellious people.)
+
+Allah said: Do not feel sorrow or sadness over My judgment against them, for they deserve such judgment.
+
+This story chastises the Jews, exposes their defiance of Allah and His Messenger, and their refusal to obey the order for Jihad. They were weak and could not bear the thought of fighting their enemy, being patient, and enduring this way. This occurred although they had the Messenger of Allah and the one whom He spoke to among them, the best of Allah's creation that time. Their Prophet promised them triumph and victory against their enemies. They also witnessed the torment and punishment of drowning with which Allah punished their enemy Fir'awn and his soldiers, so that their eyes were pleased and comforted. All this did not happen too long ago, yet they refused to perform Jihad against people who had less than a tenth of the power and strength than the people of Egypt had. Therefore, the evil works of the Jews were exposed to everyone, and the exposure was such an enormous one that the night, or the tail, can never cover its tracks. They were also blinded by their ignorance and transgression. Thus, they became hated by Allah, and they became His enemies. Yet, they claim that they are Allah's children and His loved ones! May Allah curse their faces that were transformed to the shape of swine and apes, and may Allah's curse accompany them to the raging Fire. May Allah make them abide in the Fire for eternity, and He did; all thanks are due to Him.
 
 ### al-Tabari (Arabic)
 
@@ -1104,9 +1288,55 @@ When the Children of Israel refused to fight, Musa became very angry with them a
 
 رَبِّ إِنِّي لَا أَمْلِكُ إِلَّا نَفْسِي وَأَخِي
 
-(O my Lord! I have power only over myself and my brother') meaning, only I and my brother Ha
+(O my Lord! I have power only over myself and my brother') meaning, only I and my brother Harun among them will obey, implement Allah's command and accept the call,
 
-[TRUNCATED at 12000 chars — 5327 more. Consult the source directly before relying on anything near the cut.]
+فَافْرُقْ بَيْنَنَا وَبَيْنَ الْقَوْمِ الْفَاسِقِينَ
+
+(So Ifruq us from the rebellious people!) Al-'Awfi reported that Ibn 'Abbas said, "Meaning, judge between us and them." 'Ali bin Abi Talhah reported similarly from him. Ad-Dahhak said that the Ayah means, "Judge and decide between us and them." Other scholars said that the Ayah means, "Separate between us and them."
+
+Forbidding the Jews from Entering the Holy Land for Forty Years
+
+Allah said,
+
+فَإِنَّهَا مُحَرَّمَةٌ عَلَيْهِمْ ۛ أَرْبَعِينَ سَنَةً ۛ يَتِيهُونَ فِي الْأَرْضِ
+
+(Therefore it is forbidden to them for forty years; in distraction they will wander through the land.)
+
+When Musa supplicated against the Jews for refusing to fight in Jihad, Allah forbade them from entering the land for forty years. They wandered about lost in the land of At-Tih, unable to find their way out. During this time, tremendous miracles occurred, such as the clouds that shaded them and the manna and quails Allah sent down for them. Allah brought forth water springs from solid rock, and the other miracles that He aided Musa bin 'Imran with. During this time, the Tawrah was revealed and the Law was established for the Children of Israel and the Tabernacle of the Covenant was erected.
+
+Conquering Jerusalem
+
+Allah's statement,
+
+أَرْبَعِينَ سَنَةً
+
+(for forty years;) defines,
+
+يَتِيهُونَ فِي الْأَرْضِ
+
+(in distraction they will wander through the land.)
+
+When these years ended, Yuwsha' bin Nun led those who remained among them and the second generation, and laid siege to Jerusalem, conquering it on a Friday afternoon. When the sun was about to set and Yuwsha' feared that the Sabbath would begin, he said (to the sun), "You are commanded and I am commanded, as well. O Allah! Make it stop setting for me." Allah made the sun stop setting until Yuwsha' bin Nun conquered Jerusalem. Next, Allah commanded Yuwsha' to order the Children of Israel to enter Jerusalem from its gate while bowing and saying Hittah, meaning, 'remove our sins.' Yet, they changed what they were commanded and entered it while dragging themselves on their behinds and saying, 'Habbah (a seed) in Sha'rah (a hair)." We mentioned all of this in the Tafsir of Surat Al-Baqarah.
+
+Ibn Abi Hatim recorded that Ibn 'Abbas commented,
+
+فَإِنَّهَا مُحَرَّمَةٌ عَلَيْهِمْ ۛ أَرْبَعِينَ سَنَةً ۛ يَتِيهُونَ فِي الْأَرْضِ
+
+(Therefore it is forbidden to them for forty years; in distraction they will wander through the land.)
+
+"They wandered in the land for forty years, during which Musa and Harun died, as well as everyone above forty years of age. When the forty years ended, Yuwsha' son of Nun assumed their leadership and later conquered Jerusalem. When Yuwsha' was reminded that the day was Friday and the sun was about to set, while they were still attacking Jerusalem, he feared that the Sabbath might begin. Therefore, he said to the sun, 'I am commanded and you are commanded.' Allah made the sun stop setting and the Jews conquered Jerusalem and found wealth unseen before. They wanted to let the fire consume the booty, but the fire would not do that. Yuwsha' said, 'Some of you have committed theft from the booty.' So he summoned the twelve leaders of the twelve tribes and took the pledge from them. Then, the hand of one of them became stuck to the hand of Yuwsha' and Yuwsha' said, 'You committed the theft, so bring it forth.' So, that man brought a cow's head made of gold with two eyes made of precious stones and a set of teeth made of pearls. When Yuwsha' added it to the booty, the fire consumed it, as they were prohibited to keep the booty." There is evidence supporting all of this in the Sahih.
+
+Allah Comforts Musa
+
+Comforting Musa, Allah said
+
+فَلَا تَأْسَ عَلَى الْقَوْمِ الْفَاسِقِينَ
+
+(So do not greive for the rebellious people.)
+
+Allah said: Do not feel sorrow or sadness over My judgment against them, for they deserve such judgment.
+
+This story chastises the Jews, exposes their defiance of Allah and His Messenger, and their refusal to obey the order for Jihad. They were weak and could not bear the thought of fighting their enemy, being patient, and enduring this way. This occurred although they had the Messenger of Allah and the one whom He spoke to among them, the best of Allah's creation that time. Their Prophet promised them triumph and victory against their enemies. They also witnessed the torment and punishment of drowning with which Allah punished their enemy Fir'awn and his soldiers, so that their eyes were pleased and comforted. All this did not happen too long ago, yet they refused to perform Jihad against people who had less than a tenth of the power and strength than the people of Egypt had. Therefore, the evil works of the Jews were exposed to everyone, and the exposure was such an enormous one that the night, or the tail, can never cover its tracks. They were also blinded by their ignorance and transgression. Thus, they became hated by Allah, and they became His enemies. Yet, they claim that they are Allah's children and His loved ones! May Allah curse their faces that were transformed to the shape of swine and apes, and may Allah's curse accompany them to the raging Fire. May Allah make them abide in the Fire for eternity, and He did; all thanks are due to Him.
 
 ### al-Tabari (Arabic)
 
@@ -1288,9 +1518,55 @@ When the Children of Israel refused to fight, Musa became very angry with them a
 
 رَبِّ إِنِّي لَا أَمْلِكُ إِلَّا نَفْسِي وَأَخِي
 
-(O my Lord! I have power only over myself and my brother') meaning, only I and my brother Ha
+(O my Lord! I have power only over myself and my brother') meaning, only I and my brother Harun among them will obey, implement Allah's command and accept the call,
 
-[TRUNCATED at 12000 chars — 5327 more. Consult the source directly before relying on anything near the cut.]
+فَافْرُقْ بَيْنَنَا وَبَيْنَ الْقَوْمِ الْفَاسِقِينَ
+
+(So Ifruq us from the rebellious people!) Al-'Awfi reported that Ibn 'Abbas said, "Meaning, judge between us and them." 'Ali bin Abi Talhah reported similarly from him. Ad-Dahhak said that the Ayah means, "Judge and decide between us and them." Other scholars said that the Ayah means, "Separate between us and them."
+
+Forbidding the Jews from Entering the Holy Land for Forty Years
+
+Allah said,
+
+فَإِنَّهَا مُحَرَّمَةٌ عَلَيْهِمْ ۛ أَرْبَعِينَ سَنَةً ۛ يَتِيهُونَ فِي الْأَرْضِ
+
+(Therefore it is forbidden to them for forty years; in distraction they will wander through the land.)
+
+When Musa supplicated against the Jews for refusing to fight in Jihad, Allah forbade them from entering the land for forty years. They wandered about lost in the land of At-Tih, unable to find their way out. During this time, tremendous miracles occurred, such as the clouds that shaded them and the manna and quails Allah sent down for them. Allah brought forth water springs from solid rock, and the other miracles that He aided Musa bin 'Imran with. During this time, the Tawrah was revealed and the Law was established for the Children of Israel and the Tabernacle of the Covenant was erected.
+
+Conquering Jerusalem
+
+Allah's statement,
+
+أَرْبَعِينَ سَنَةً
+
+(for forty years;) defines,
+
+يَتِيهُونَ فِي الْأَرْضِ
+
+(in distraction they will wander through the land.)
+
+When these years ended, Yuwsha' bin Nun led those who remained among them and the second generation, and laid siege to Jerusalem, conquering it on a Friday afternoon. When the sun was about to set and Yuwsha' feared that the Sabbath would begin, he said (to the sun), "You are commanded and I am commanded, as well. O Allah! Make it stop setting for me." Allah made the sun stop setting until Yuwsha' bin Nun conquered Jerusalem. Next, Allah commanded Yuwsha' to order the Children of Israel to enter Jerusalem from its gate while bowing and saying Hittah, meaning, 'remove our sins.' Yet, they changed what they were commanded and entered it while dragging themselves on their behinds and saying, 'Habbah (a seed) in Sha'rah (a hair)." We mentioned all of this in the Tafsir of Surat Al-Baqarah.
+
+Ibn Abi Hatim recorded that Ibn 'Abbas commented,
+
+فَإِنَّهَا مُحَرَّمَةٌ عَلَيْهِمْ ۛ أَرْبَعِينَ سَنَةً ۛ يَتِيهُونَ فِي الْأَرْضِ
+
+(Therefore it is forbidden to them for forty years; in distraction they will wander through the land.)
+
+"They wandered in the land for forty years, during which Musa and Harun died, as well as everyone above forty years of age. When the forty years ended, Yuwsha' son of Nun assumed their leadership and later conquered Jerusalem. When Yuwsha' was reminded that the day was Friday and the sun was about to set, while they were still attacking Jerusalem, he feared that the Sabbath might begin. Therefore, he said to the sun, 'I am commanded and you are commanded.' Allah made the sun stop setting and the Jews conquered Jerusalem and found wealth unseen before. They wanted to let the fire consume the booty, but the fire would not do that. Yuwsha' said, 'Some of you have committed theft from the booty.' So he summoned the twelve leaders of the twelve tribes and took the pledge from them. Then, the hand of one of them became stuck to the hand of Yuwsha' and Yuwsha' said, 'You committed the theft, so bring it forth.' So, that man brought a cow's head made of gold with two eyes made of precious stones and a set of teeth made of pearls. When Yuwsha' added it to the booty, the fire consumed it, as they were prohibited to keep the booty." There is evidence supporting all of this in the Sahih.
+
+Allah Comforts Musa
+
+Comforting Musa, Allah said
+
+فَلَا تَأْسَ عَلَى الْقَوْمِ الْفَاسِقِينَ
+
+(So do not greive for the rebellious people.)
+
+Allah said: Do not feel sorrow or sadness over My judgment against them, for they deserve such judgment.
+
+This story chastises the Jews, exposes their defiance of Allah and His Messenger, and their refusal to obey the order for Jihad. They were weak and could not bear the thought of fighting their enemy, being patient, and enduring this way. This occurred although they had the Messenger of Allah and the one whom He spoke to among them, the best of Allah's creation that time. Their Prophet promised them triumph and victory against their enemies. They also witnessed the torment and punishment of drowning with which Allah punished their enemy Fir'awn and his soldiers, so that their eyes were pleased and comforted. All this did not happen too long ago, yet they refused to perform Jihad against people who had less than a tenth of the power and strength than the people of Egypt had. Therefore, the evil works of the Jews were exposed to everyone, and the exposure was such an enormous one that the night, or the tail, can never cover its tracks. They were also blinded by their ignorance and transgression. Thus, they became hated by Allah, and they became His enemies. Yet, they claim that they are Allah's children and His loved ones! May Allah curse their faces that were transformed to the shape of swine and apes, and may Allah's curse accompany them to the raging Fire. May Allah make them abide in the Fire for eternity, and He did; all thanks are due to Him.
 
 ### al-Tabari (Arabic)
 
@@ -1486,9 +1762,55 @@ When the Children of Israel refused to fight, Musa became very angry with them a
 
 رَبِّ إِنِّي لَا أَمْلِكُ إِلَّا نَفْسِي وَأَخِي
 
-(O my Lord! I have power only over myself and my brother') meaning, only I and my brother Ha
+(O my Lord! I have power only over myself and my brother') meaning, only I and my brother Harun among them will obey, implement Allah's command and accept the call,
 
-[TRUNCATED at 12000 chars — 5327 more. Consult the source directly before relying on anything near the cut.]
+فَافْرُقْ بَيْنَنَا وَبَيْنَ الْقَوْمِ الْفَاسِقِينَ
+
+(So Ifruq us from the rebellious people!) Al-'Awfi reported that Ibn 'Abbas said, "Meaning, judge between us and them." 'Ali bin Abi Talhah reported similarly from him. Ad-Dahhak said that the Ayah means, "Judge and decide between us and them." Other scholars said that the Ayah means, "Separate between us and them."
+
+Forbidding the Jews from Entering the Holy Land for Forty Years
+
+Allah said,
+
+فَإِنَّهَا مُحَرَّمَةٌ عَلَيْهِمْ ۛ أَرْبَعِينَ سَنَةً ۛ يَتِيهُونَ فِي الْأَرْضِ
+
+(Therefore it is forbidden to them for forty years; in distraction they will wander through the land.)
+
+When Musa supplicated against the Jews for refusing to fight in Jihad, Allah forbade them from entering the land for forty years. They wandered about lost in the land of At-Tih, unable to find their way out. During this time, tremendous miracles occurred, such as the clouds that shaded them and the manna and quails Allah sent down for them. Allah brought forth water springs from solid rock, and the other miracles that He aided Musa bin 'Imran with. During this time, the Tawrah was revealed and the Law was established for the Children of Israel and the Tabernacle of the Covenant was erected.
+
+Conquering Jerusalem
+
+Allah's statement,
+
+أَرْبَعِينَ سَنَةً
+
+(for forty years;) defines,
+
+يَتِيهُونَ فِي الْأَرْضِ
+
+(in distraction they will wander through the land.)
+
+When these years ended, Yuwsha' bin Nun led those who remained among them and the second generation, and laid siege to Jerusalem, conquering it on a Friday afternoon. When the sun was about to set and Yuwsha' feared that the Sabbath would begin, he said (to the sun), "You are commanded and I am commanded, as well. O Allah! Make it stop setting for me." Allah made the sun stop setting until Yuwsha' bin Nun conquered Jerusalem. Next, Allah commanded Yuwsha' to order the Children of Israel to enter Jerusalem from its gate while bowing and saying Hittah, meaning, 'remove our sins.' Yet, they changed what they were commanded and entered it while dragging themselves on their behinds and saying, 'Habbah (a seed) in Sha'rah (a hair)." We mentioned all of this in the Tafsir of Surat Al-Baqarah.
+
+Ibn Abi Hatim recorded that Ibn 'Abbas commented,
+
+فَإِنَّهَا مُحَرَّمَةٌ عَلَيْهِمْ ۛ أَرْبَعِينَ سَنَةً ۛ يَتِيهُونَ فِي الْأَرْضِ
+
+(Therefore it is forbidden to them for forty years; in distraction they will wander through the land.)
+
+"They wandered in the land for forty years, during which Musa and Harun died, as well as everyone above forty years of age. When the forty years ended, Yuwsha' son of Nun assumed their leadership and later conquered Jerusalem. When Yuwsha' was reminded that the day was Friday and the sun was about to set, while they were still attacking Jerusalem, he feared that the Sabbath might begin. Therefore, he said to the sun, 'I am commanded and you are commanded.' Allah made the sun stop setting and the Jews conquered Jerusalem and found wealth unseen before. They wanted to let the fire consume the booty, but the fire would not do that. Yuwsha' said, 'Some of you have committed theft from the booty.' So he summoned the twelve leaders of the twelve tribes and took the pledge from them. Then, the hand of one of them became stuck to the hand of Yuwsha' and Yuwsha' said, 'You committed the theft, so bring it forth.' So, that man brought a cow's head made of gold with two eyes made of precious stones and a set of teeth made of pearls. When Yuwsha' added it to the booty, the fire consumed it, as they were prohibited to keep the booty." There is evidence supporting all of this in the Sahih.
+
+Allah Comforts Musa
+
+Comforting Musa, Allah said
+
+فَلَا تَأْسَ عَلَى الْقَوْمِ الْفَاسِقِينَ
+
+(So do not greive for the rebellious people.)
+
+Allah said: Do not feel sorrow or sadness over My judgment against them, for they deserve such judgment.
+
+This story chastises the Jews, exposes their defiance of Allah and His Messenger, and their refusal to obey the order for Jihad. They were weak and could not bear the thought of fighting their enemy, being patient, and enduring this way. This occurred although they had the Messenger of Allah and the one whom He spoke to among them, the best of Allah's creation that time. Their Prophet promised them triumph and victory against their enemies. They also witnessed the torment and punishment of drowning with which Allah punished their enemy Fir'awn and his soldiers, so that their eyes were pleased and comforted. All this did not happen too long ago, yet they refused to perform Jihad against people who had less than a tenth of the power and strength than the people of Egypt had. Therefore, the evil works of the Jews were exposed to everyone, and the exposure was such an enormous one that the night, or the tail, can never cover its tracks. They were also blinded by their ignorance and transgression. Thus, they became hated by Allah, and they became His enemies. Yet, they claim that they are Allah's children and His loved ones! May Allah curse their faces that were transformed to the shape of swine and apes, and may Allah's curse accompany them to the raging Fire. May Allah make them abide in the Fire for eternity, and He did; all thanks are due to Him.
 
 ### al-Tabari (Arabic)
 
@@ -1534,9 +1856,53 @@ When the Children of Israel refused to fight, Musa became very angry with them a
 
 =وكان العماليق والكنْعانيون جلوسًا في الجبال، ثم غدوا فارتحلوا إلى القفار في طريق بحر سوف، [[في المطبوعة والمخطوطة: "في طريق يحرسون"، وهو تصحيف وتحريف. والصواب ما أثبته و"بحر سوف" هو المعروف باسم"البحر الأحمر"، وكان العرب يعرفونه باسم"بحر القلزم"، و"القلزم": مدينة قديمة كانت قرب أيلة والطور. و"السوف" لعلها نطق قديم لقول العرب"السيف" (بكسر السين) ، وهو ساحل البحر، ولعله قد سمى به موضع هناك، فنسب إليه البحر.]] وكلم الله عز وجل موسى وهارون، وقال لهما: إلى متى توسوس عليّ هذه الجماعة جماعة السوء؟ قد سمعتُ وسوسة بني إسرائيل. [["وسوس عليه"، و"الوسوسة"، مضت في الأثر رقم: ١١٦٦٣، ولم أشرحها هناك.
 
-وأصل"الوسوسة": الصوت من الريح، أو صوت الحلي والقصب وغيرها. و"الوسوسة" أيضا: كلام خفي مختلط لا يستبين."وسوس الرجل": إذا تكلم بكلام لم يبينه. وهذه ترجمة بلا شك يراد بها الإكثار من الكلام الخفي المبهم، يتناقله القوم بينهم متذمرين. ويقابله في ترجمة القوم، في الكتاب الذي بين أيدينا: "قد سمعت تذمر بني إسرائيل.."]] وقال، لأفعلن بكم كما قلت لكم، [[في كتاب القوم هكذا: "لأفعلن بكم كما تكلمتم في أذني".]] ولتلقينَّ جِيَفكم في هذه القفار، وكحسابكم، [[في المطبوعة: "وحسابكم"، وأثبت ما في المخطوطة، يعني: مثل عددكم، أي جميعا. وفي كتاب القوم: "جميع المعدودين منكم حسب عددكم".]] من بني عشرين سنة فما فوق ذلك، من أجل أنكم وسوستم عليّ، [[انظر تفسير"الوسوسة" آنفا ص ١٩٥، رقم: ٧.]] فلا تدخلوا الأرض التي رفعت [يدي] إليها، [[في المطبوعة والمخطوطة: "التي دفعت إليها"، وليس له معنى، فجعلتها"رفعت" وزدت"يدي" بين القوسين استظهارًا من نص كتاب القوم، وفيه: "التي رفعت يدي لأسكننكم فيها".]] ولا ينزل فيها أحد منكم غير كالب بن يوفنا ويوشع بن نون، وتكون أثقالكم كما كنتم الغنيمة، وأما بنُوكم اليوم الذين لم يعلموا ما بين الخير والشر، فإنهم يدخلون الأرض، وإني بهم عارف، لهم الأرض التي أردت لهم، وتسقط جيفكم في هذه القفار، وتتيهون في هذه القفار على حساب الأيَّام التي حَسَس
+وأصل"الوسوسة": الصوت من الريح، أو صوت الحلي والقصب وغيرها. و"الوسوسة" أيضا: كلام خفي مختلط لا يستبين."وسوس الرجل": إذا تكلم بكلام لم يبينه. وهذه ترجمة بلا شك يراد بها الإكثار من الكلام الخفي المبهم، يتناقله القوم بينهم متذمرين. ويقابله في ترجمة القوم، في الكتاب الذي بين أيدينا: "قد سمعت تذمر بني إسرائيل.."]] وقال، لأفعلن بكم كما قلت لكم، [[في كتاب القوم هكذا: "لأفعلن بكم كما تكلمتم في أذني".]] ولتلقينَّ جِيَفكم في هذه القفار، وكحسابكم، [[في المطبوعة: "وحسابكم"، وأثبت ما في المخطوطة، يعني: مثل عددكم، أي جميعا. وفي كتاب القوم: "جميع المعدودين منكم حسب عددكم".]] من بني عشرين سنة فما فوق ذلك، من أجل أنكم وسوستم عليّ، [[انظر تفسير"الوسوسة" آنفا ص ١٩٥، رقم: ٧.]] فلا تدخلوا الأرض التي رفعت [يدي] إليها، [[في المطبوعة والمخطوطة: "التي دفعت إليها"، وليس له معنى، فجعلتها"رفعت" وزدت"يدي" بين القوسين استظهارًا من نص كتاب القوم، وفيه: "التي رفعت يدي لأسكننكم فيها".]] ولا ينزل فيها أحد منكم غير كالب بن يوفنا ويوشع بن نون، وتكون أثقالكم كما كنتم الغنيمة، وأما بنُوكم اليوم الذين لم يعلموا ما بين الخير والشر، فإنهم يدخلون الأرض، وإني بهم عارف، لهم الأرض التي أردت لهم، وتسقط جيفكم في هذه القفار، وتتيهون في هذه القفار على حساب الأيَّام التي حَسَستم الأرض أربعين يومًا، مكان كل يوم سنةً وتقتلون بخطاياكم أربعين سنة، وتعلمون أنكم وسوستم قُدَّامي. إنى أنا الله فاعل بهذه الجماعة= جماعة بني إسرائيل الذين وعدوا قدامي= بأن يتيهوا في القفار، [[في المطبوعة: "قد أتى أني أنا الله......... الذين وعدوا بأن يتيهوا........"، وأثبتت ما في المخطوطة. وفي كتاب القوم: "........فتعرفون ابتعادي. أنا الرب قد تكلمت، لأفعلن هذا بكل هذه الجماعة الشريرة المتفقة على. في هذا القفر يفنون وفيه يموتون".]] فيها يموتون.
 
-[TRUNCATED at 12000 chars — 6546 more. Consult the source directly before relying on anything near the cut.]
+= فأما الرهط الذين كان موسى بعثهم ليتحسسوا الأرض، ثم حرَّشوا الجماعة، فأفشوا فيهم خبرَ الشرّ، فماتوا كلهم بغتًة، وعاش يوشع وكالب بن يوفنا من الرهط الذين انطلقوا يتحسسون الأرض.
+
+=فلما قال موسى عليه السلام هذا الكلام كلَّه لبني إسرائيل، حزن الشعب حزنًا شديدًا، وغدوا فارتفعوا، إلى رأس الجبل، [[في المطبوعة: "على رأس الجبل"، وأثبت ما في المخطوطة.]] وقالوا: نرتقي الأرض التي قال جل ثناؤه، من أجل أنا قد أخطأنا. فقال لهم موسى:"لم تعتدون في كلام الله؟ من أجل ذلك لا يصلح لكم عمل، ولا تصعدوا من أجل أنَّ الله ليس معكم، فالآن تنكسرون من قدّام أعدائكم، من أجل العمالقة والكنعانيين أمامكم، فلا تقعوا في الحرب من أجل أنكم انقلبتم على الله، فلم يكن الله معكم". فأخذوا يَرْقَوْنَ في الجبل، ولم يبرح التابوت الذي فيه مواثيق الله جل ذكره وموسى من المحلة= يعني من الخيمة [[في المطبوعة: "يعني من الحكمة"، والصواب ما أثبت، لأن"التابوت" كان في خيمة. واللفظة في المخطوطة غير بينة الكتابة. وانظر صفة"الخيمة" التي كان فيها التابوت في قاموس كتابهم.]] = حتى هبط العماليق والكنعانيون في ذلك الحائط، فحرقوهم وطردوهم وقتلوهم. [[إلى هذا الموضع انتهى الإصحاح الرابع عشر من سفر العدد. وقد تبين أن ما رواه ابن إسحق، هو ترجمة أخرى لهذا الإصحاح. ولغة ترجمة ابن إسحق تخالف كل المخالفة، عبارة ابن إسحق في سائر ما كتب من السير، وفيها عبارات وجمل وألفاظ، لا أشك في أنها من عمل مترجم قديم. ومحمد بن إسحق مات في نحو سنة ١٥٠ من الهجرة، فهذه الترجمة التي رواها عن بعض أهل العلم بالكتاب الأول، قد تولاها بلا ريب رجال قبل هذا التاريخ، أي في القرن الأول من الهجرة. وهذا أمر مهم، أرجو أن أتتبعه فيما بعد حتى أضع له تاريًخا يمكن أن يكشف عن أمر هذه الترجمة العتيقة.]] فتيّهم الله عز ذكره في التيه أربعين سنًة بالمعصية، حتى هلك من كان استوجب المعصية من الله في ذلك. =قال: فلما شَبّ النواشئ من ذراريهم وهلك آباؤهم، وانقضت الأربعون سنة التي تُيِّهوا فيها، [[في المطبوعة: "التي تتيهوا" بتاءين، وأثبت ما في المخطوطة، وهو مطابق لما في تاريخ الطبري ١: ٢٢٦.]] وسار بهم موسى ومعه يوشع بن نون وكالب بن يوفنا، وكان -فيما يزعمون- على مريم ابنة عمران أخت موسى وهارون، وكان لهما صهرًا، [[من أول قوله: "فلما شب النواشئ"، إلى هذا الموضع، مروي في تاريخ الطبري ١: ٢٢٦.]] قدَّم يوشع بن نون إلى أريحا، في بني إسرائيل، فدخلها بهم، وقتل بها الجبابرة الذين كانوا فيها، ثم دخلها موسى ببني إسرائيل، فأقام فيها ما شاء الله أن يُقيم، ثم قبضه الله إليه، لا يعلم قبره أحد من الخلائق.
+
+* *
+
+قال أبو جعفر: وأولى القولين في ذلك عندي بالصواب، قولُ من قال: إن"الأربعين" منصوبة بـ"التحريم"= وإنّ قوله:"محرمة عليهم أربعين سنة"، معنيٌّ به جميع قوم موسى، لا بعض دون بعض منهم. لأن الله عز ذكره عمَّ بذلك القوم، ولم يخصص منهم بعضًا دون بعض. وقد وفَى الله جل ثناؤه بما وعدهم به من العقوبة، فتيَّههم أربعين سنة، وحرَّم على جميعهم، في الأربعين سنة التي مكثوا فيها تائهين، دخولَ الأرض المقدَّسة، فلم يدخلها منهم أحد، لا صغير ولا كبير، ولا صالح ولا طالح، حتى انقضت السنون التي حرَّم الله عز وجَل عليهم فيها دخولها. ثم أذن لمن بقي منهم وذراريهم بدخُولها مع نبي الله موسى والرجلين اللذين أنعمَ الله عليهما، وافتتح قرية الجبارين، إن شاء الله، نبيُّ الله موسى ﷺ، وعلى مقدّمته يوشع، وذلك لإجماع أهل العلم بأخبار الأوَّلين أن عوج بن عناق قتلَه موسى ﷺ. [[في المطبوعة: "عوج بن عنق"، وأثبت ما في المخطوطة. وانظر ما سلف أنه روى في اسمه"عاج" ص: ١٩٢، تعليق: ٢.]] فلو كان قتلُه إياه قبل مصيره في التيه، وهو من أعظم الجبارين خلقًا، لم تكن بنو إسرائيل تجزَع من الجبارين الجزعَ الذي ظهر منها. ولكن ذلك كان، إن شاء الله، بعد فناء الأمة التي جزعت وعصت ربها، وأبت الدخول على الجبارين مدينَتهم.
+
+وبعدُ: فإن أهل العلم بأخبار الأوّلين مجمعون على أن بلعم بن باعور، [[في المطبوعة: "باعوراء"، وأثبت ما في المخطوطة.]] كان ممن أعان الجبارين بالدعاء على موسى. ومحالٌ أن يكون ذلك كان وقوم موسى ممتنعون من حربهم وجهادهم، لأن المعونة إنما يحتاج إليها من كان مطلوبًا، فأما ولا طالب، فلا وجه للحاجة إليها.
+
+١١٦٩٨ - حدثنا ابن بشار قال، حدثنا مؤمل قال، حدثنا سفيان، عن أبي إسحاق، عن نوف قال: كان سرير عوج ثمانمائة ذراع، وكان طول موسى عشرة أذرع، وعصاه عشرة أذرع، ووثب في السماء عشرة أذرع، [[في المطبوعة"عشرة أذرع" في المواضع الثلاثة، وأثبت ما في المخطوطة، وكلاهما صواب فإن"الذراع"، مؤنثة، وقد تذكر.]] فضرب عوجًا فأصاب كعبه، فسقط ميتًا، فكان جسرًا للناس يمرُّون عليه. [[الأثر: ١١٦٩٨- رواه أبو جعفر في تاريخه ١: ٢٢٣.]]
+
+١١٦٩٩ - حدثنا أبو كريب قال، حدثنا ابن عطية قال، حدثنا قيس، عن أبي إسحاق، عن سعيد بن جبير، عن ابن عباس قال: كانت عصا موسى عشرة أذرع، ووثبته عشرة أذرع، وطوله عشرة أذرع، [[في المطبوعة"عشرة أذرع" في المواضع الثلاثة، وأثبت ما في المخطوطة، وكلاهما صواب فإن"الذراع"، مؤنثة، وقد تذكر.]] فوثب فأصاب كعب عوج فقتله، فكانَ جسرًا لأهل النيل سنة. [[الأثر: ١١٦٩٩- رواه أبو جعفر في تاريخه ١: ٢٢٣.
+
+هذا، وكل ما رواه أبو جعفر من أخبار عوج، وما شابهه مما مضى في ذكر ضخامة خلق هؤلاء الجبارين، إنما هي مبالغات كانوا يتلقونها من أهل الكتاب الأول، لا يرون بروايتها بأسًا. وهي أخبار زيوف لا يعتمد عليها.]]
+
+* *
+
+ومعنى:"يتيهون في الأرض"، يحارون فيها ويضلُّون= ومن ذلك قيل للرجل الضال عن سبيل الحق:"تائه". وكان تيههم ذلك: أنهم كانوا يصبحون أربعين سنة كل يوم جادِّين في قدر ستة فراسخ للخروج منه، فيمسون في الموضع الذي ابتدأوا السير منه.
+
+١١٧٠٠ - حدثني بذلك المثنى قال، حدثنا إسحاق قال، حدثنا عبد الله بن أبي جعفر، عن أبيه، عن الربيع. [[الأثر: ١١٧٠٠- انظر الأثر السالف رقم: ١١٦٩٠.]]
+
+١١٧٠١ - حدثني محمد بن عمرو قال، حدثنا أبو عاصم قال، حدثنا عيسى، عن ابن أبي نجيح، عن مجاهد قال: تاهت بنو إسرائيل أربعين سنة، يصبحون حيث أمسوا، ويمسون حيث أصبحوا في تيههم.
+
+* *
+
+القول في تأويل قوله جل ثناؤه: ﴿فَلا تَأْسَ عَلَى الْقَوْمِ الْفَاسِقِينَ (٢٦) ﴾
+
+قال أبو جعفر: يعني جل ثناؤه بقوله:"فلا تأس"، فلا تحزن.
+
+يقال منه:"أسِيَ فلان على كذا يأسىَ أسًى"، و"قد أسيت من كذا"، أي حزنت، ومنه قول امرئ القيس:
+
+وُقُوفًا بِهَا صَحْبي عَلَيَّ مَطِيَّهُمْ ... يَقُولُونَ: لا تَهْلِكْ أَسًى وتَجَمَّل [[ديوانه: ١٢٥، من معلقته المشهورة.]]
+
+يعني: لا تهلك حزنًا.
+
+* *
+
+وبالذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+١١٧٠٢ - حدثني المثنى قال، حدثنا عبد الله قال، حدثني معاوية، عن علي، عن ابن عباس:"فلا تأس" يقول: فلا تحزن.
+
+١١٧٠٣ - حدثني موسى قال، حدثنا عمرو قال حدثنا أسباط، عن السدي:"فلا تأس على القوم الفاسقين"، قال: لما ضُرب عليهم التّيه، ندم موسى ﷺ، فلما نَدِم أوحى الله إليه:"فلا تأس على القوم الفاسقين"، لا تحزن على القوم الذين سمَّيتهم"فاسقين"، فلم يحزن. [[الأثر: ١١٧٠٣- هو بعض الأثر السالف قديمًا رقم: ٩٩١. وأسقط ناشر المطبوعة الأولى: "فلم يحزن"، لأنها كانت في المخطوطة: "فلا تحزن"، فظنها تكرارًا فحذفها، وهي ثابتة كما كتبتها في الأثر السالف: ٩٩١.]]
 
 ### al-Muyassar (Arabic)
 

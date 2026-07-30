@@ -854,9 +854,39 @@ Imam Ahmad also recorded that Masruq said, "I asked 'A'ishah, 'Did not Allah say
 
 إِنَّمَا ذَاكَ جِبْرِيلُ
 
-(That was Jibril.) He only saw him twice in his actual and real figure. He saw Jibril 
+(That was Jibril.) He only saw him twice in his actual and real figure. He saw Jibril descend from heaven to earth and was so huge that he covered the whole horizon between the sky and earth.)'" This Hadith is recorded in the Two Sahihs via Ash-Sha'bi.
 
-[TRUNCATED at 12000 chars — 2325 more. Consult the source directly before relying on anything near the cut.]
+Angels, Light and colors covered Sidrat Al-Muntaha
+
+Allah said,
+
+إِذْ يَغْشَى السِّدْرَةَ مَا يَغْشَىٰ
+
+(When that covered the lote tree which did cover it!) We mentioned before, in the Hadiths about Al-Isra' that the angels, Allah's Light, and spectacular colors covered the Sidrah. Imam Ahmad recorded that 'Abdullah bin Mas'ud said, "When the Messenger of Allah ﷺ was taken on the Isra' journey, he ascended to Sidrat Al-Muntaha, which is in the seventh heaven. There everything terminates that ascends from the earth and is held there, and terminates everything that descends from above it is held there,
+
+إِذْ يَغْشَى السِّدْرَةَ مَا يَغْشَىٰ
+
+(When that covered the lote tree which did cover it!) He said, "Golden butterflies. The Messenger of Allah ﷺ was given three things: He was given the five prayers, he was given the concluding verses of Surat Al-Baqarah (2:284-286), and remission of serious sins for those among his Ummah who do not associate anything with Allah." Muslim collected this Hadith. Allah's statement,
+
+مَا زَاغَ الْبَصَرُ وَمَا طَغَىٰ
+
+(The sight turned not aside, nor it transgressed beyond the limit.) indicates that the Prophet's sight did not turn right or left, according to 'Ibn 'Abbas,
+
+وَمَا طَغَىٰ
+
+(nor it transgressed beyond the limit.) not exceeding what has been ordained for it. This is a tremendous quality that demonstrates the Prophet's firm obedience to Allah, because he only did what was commanded and did ask beyond what he was given. Allah's statement,
+
+لَقَدْ رَأَىٰ مِنْ آيَاتِ رَبِّهِ الْكُبْرَىٰ
+
+(Indeed he saw of the greatest signs of his Lord.) is similar to another Ayah,
+
+لِنُرِيَهُ مِنْ آيَاتِنَا
+
+(In order that We might show him of Our Ayat.)(17:1), meaning, signs that testify to Allah's might and greatness. Relying on these two Ayat, some scholars of Ahl us-Sunnah said that the Prophet ﷺ did not see Allah during the Isra' journey, because Allah said,
+
+لَقَدْ رَأَىٰ مِنْ آيَاتِ رَبِّهِ الْكُبْرَىٰ
+
+(Indeed he saw of the greatest signs of his Lord.) They said that, had the Prophet ﷺ seen his Lord, Allah would have conveyed this news and the Prophet ﷺ would have narrated it to the people.
 
 ### al-Tabari (Arabic)
 
@@ -1138,9 +1168,39 @@ Imam Ahmad also recorded that Masruq said, "I asked 'A'ishah, 'Did not Allah say
 
 إِنَّمَا ذَاكَ جِبْرِيلُ
 
-(That was Jibril.) He only saw him twice in his actual and real figure. He saw Jibril 
+(That was Jibril.) He only saw him twice in his actual and real figure. He saw Jibril descend from heaven to earth and was so huge that he covered the whole horizon between the sky and earth.)'" This Hadith is recorded in the Two Sahihs via Ash-Sha'bi.
 
-[TRUNCATED at 12000 chars — 2325 more. Consult the source directly before relying on anything near the cut.]
+Angels, Light and colors covered Sidrat Al-Muntaha
+
+Allah said,
+
+إِذْ يَغْشَى السِّدْرَةَ مَا يَغْشَىٰ
+
+(When that covered the lote tree which did cover it!) We mentioned before, in the Hadiths about Al-Isra' that the angels, Allah's Light, and spectacular colors covered the Sidrah. Imam Ahmad recorded that 'Abdullah bin Mas'ud said, "When the Messenger of Allah ﷺ was taken on the Isra' journey, he ascended to Sidrat Al-Muntaha, which is in the seventh heaven. There everything terminates that ascends from the earth and is held there, and terminates everything that descends from above it is held there,
+
+إِذْ يَغْشَى السِّدْرَةَ مَا يَغْشَىٰ
+
+(When that covered the lote tree which did cover it!) He said, "Golden butterflies. The Messenger of Allah ﷺ was given three things: He was given the five prayers, he was given the concluding verses of Surat Al-Baqarah (2:284-286), and remission of serious sins for those among his Ummah who do not associate anything with Allah." Muslim collected this Hadith. Allah's statement,
+
+مَا زَاغَ الْبَصَرُ وَمَا طَغَىٰ
+
+(The sight turned not aside, nor it transgressed beyond the limit.) indicates that the Prophet's sight did not turn right or left, according to 'Ibn 'Abbas,
+
+وَمَا طَغَىٰ
+
+(nor it transgressed beyond the limit.) not exceeding what has been ordained for it. This is a tremendous quality that demonstrates the Prophet's firm obedience to Allah, because he only did what was commanded and did ask beyond what he was given. Allah's statement,
+
+لَقَدْ رَأَىٰ مِنْ آيَاتِ رَبِّهِ الْكُبْرَىٰ
+
+(Indeed he saw of the greatest signs of his Lord.) is similar to another Ayah,
+
+لِنُرِيَهُ مِنْ آيَاتِنَا
+
+(In order that We might show him of Our Ayat.)(17:1), meaning, signs that testify to Allah's might and greatness. Relying on these two Ayat, some scholars of Ahl us-Sunnah said that the Prophet ﷺ did not see Allah during the Isra' journey, because Allah said,
+
+لَقَدْ رَأَىٰ مِنْ آيَاتِ رَبِّهِ الْكُبْرَىٰ
+
+(Indeed he saw of the greatest signs of his Lord.) They said that, had the Prophet ﷺ seen his Lord, Allah would have conveyed this news and the Prophet ﷺ would have narrated it to the people.
 
 ### al-Tabari (Arabic)
 
@@ -1422,9 +1482,39 @@ Imam Ahmad also recorded that Masruq said, "I asked 'A'ishah, 'Did not Allah say
 
 إِنَّمَا ذَاكَ جِبْرِيلُ
 
-(That was Jibril.) He only saw him twice in his actual and real figure. He saw Jibril 
+(That was Jibril.) He only saw him twice in his actual and real figure. He saw Jibril descend from heaven to earth and was so huge that he covered the whole horizon between the sky and earth.)'" This Hadith is recorded in the Two Sahihs via Ash-Sha'bi.
 
-[TRUNCATED at 12000 chars — 2325 more. Consult the source directly before relying on anything near the cut.]
+Angels, Light and colors covered Sidrat Al-Muntaha
+
+Allah said,
+
+إِذْ يَغْشَى السِّدْرَةَ مَا يَغْشَىٰ
+
+(When that covered the lote tree which did cover it!) We mentioned before, in the Hadiths about Al-Isra' that the angels, Allah's Light, and spectacular colors covered the Sidrah. Imam Ahmad recorded that 'Abdullah bin Mas'ud said, "When the Messenger of Allah ﷺ was taken on the Isra' journey, he ascended to Sidrat Al-Muntaha, which is in the seventh heaven. There everything terminates that ascends from the earth and is held there, and terminates everything that descends from above it is held there,
+
+إِذْ يَغْشَى السِّدْرَةَ مَا يَغْشَىٰ
+
+(When that covered the lote tree which did cover it!) He said, "Golden butterflies. The Messenger of Allah ﷺ was given three things: He was given the five prayers, he was given the concluding verses of Surat Al-Baqarah (2:284-286), and remission of serious sins for those among his Ummah who do not associate anything with Allah." Muslim collected this Hadith. Allah's statement,
+
+مَا زَاغَ الْبَصَرُ وَمَا طَغَىٰ
+
+(The sight turned not aside, nor it transgressed beyond the limit.) indicates that the Prophet's sight did not turn right or left, according to 'Ibn 'Abbas,
+
+وَمَا طَغَىٰ
+
+(nor it transgressed beyond the limit.) not exceeding what has been ordained for it. This is a tremendous quality that demonstrates the Prophet's firm obedience to Allah, because he only did what was commanded and did ask beyond what he was given. Allah's statement,
+
+لَقَدْ رَأَىٰ مِنْ آيَاتِ رَبِّهِ الْكُبْرَىٰ
+
+(Indeed he saw of the greatest signs of his Lord.) is similar to another Ayah,
+
+لِنُرِيَهُ مِنْ آيَاتِنَا
+
+(In order that We might show him of Our Ayat.)(17:1), meaning, signs that testify to Allah's might and greatness. Relying on these two Ayat, some scholars of Ahl us-Sunnah said that the Prophet ﷺ did not see Allah during the Isra' journey, because Allah said,
+
+لَقَدْ رَأَىٰ مِنْ آيَاتِ رَبِّهِ الْكُبْرَىٰ
+
+(Indeed he saw of the greatest signs of his Lord.) They said that, had the Prophet ﷺ seen his Lord, Allah would have conveyed this news and the Prophet ﷺ would have narrated it to the people.
 
 ### al-Tabari (Arabic)
 
@@ -1706,9 +1796,39 @@ Imam Ahmad also recorded that Masruq said, "I asked 'A'ishah, 'Did not Allah say
 
 إِنَّمَا ذَاكَ جِبْرِيلُ
 
-(That was Jibril.) He only saw him twice in his actual and real figure. He saw Jibril 
+(That was Jibril.) He only saw him twice in his actual and real figure. He saw Jibril descend from heaven to earth and was so huge that he covered the whole horizon between the sky and earth.)'" This Hadith is recorded in the Two Sahihs via Ash-Sha'bi.
 
-[TRUNCATED at 12000 chars — 2325 more. Consult the source directly before relying on anything near the cut.]
+Angels, Light and colors covered Sidrat Al-Muntaha
+
+Allah said,
+
+إِذْ يَغْشَى السِّدْرَةَ مَا يَغْشَىٰ
+
+(When that covered the lote tree which did cover it!) We mentioned before, in the Hadiths about Al-Isra' that the angels, Allah's Light, and spectacular colors covered the Sidrah. Imam Ahmad recorded that 'Abdullah bin Mas'ud said, "When the Messenger of Allah ﷺ was taken on the Isra' journey, he ascended to Sidrat Al-Muntaha, which is in the seventh heaven. There everything terminates that ascends from the earth and is held there, and terminates everything that descends from above it is held there,
+
+إِذْ يَغْشَى السِّدْرَةَ مَا يَغْشَىٰ
+
+(When that covered the lote tree which did cover it!) He said, "Golden butterflies. The Messenger of Allah ﷺ was given three things: He was given the five prayers, he was given the concluding verses of Surat Al-Baqarah (2:284-286), and remission of serious sins for those among his Ummah who do not associate anything with Allah." Muslim collected this Hadith. Allah's statement,
+
+مَا زَاغَ الْبَصَرُ وَمَا طَغَىٰ
+
+(The sight turned not aside, nor it transgressed beyond the limit.) indicates that the Prophet's sight did not turn right or left, according to 'Ibn 'Abbas,
+
+وَمَا طَغَىٰ
+
+(nor it transgressed beyond the limit.) not exceeding what has been ordained for it. This is a tremendous quality that demonstrates the Prophet's firm obedience to Allah, because he only did what was commanded and did ask beyond what he was given. Allah's statement,
+
+لَقَدْ رَأَىٰ مِنْ آيَاتِ رَبِّهِ الْكُبْرَىٰ
+
+(Indeed he saw of the greatest signs of his Lord.) is similar to another Ayah,
+
+لِنُرِيَهُ مِنْ آيَاتِنَا
+
+(In order that We might show him of Our Ayat.)(17:1), meaning, signs that testify to Allah's might and greatness. Relying on these two Ayat, some scholars of Ahl us-Sunnah said that the Prophet ﷺ did not see Allah during the Isra' journey, because Allah said,
+
+لَقَدْ رَأَىٰ مِنْ آيَاتِ رَبِّهِ الْكُبْرَىٰ
+
+(Indeed he saw of the greatest signs of his Lord.) They said that, had the Prophet ﷺ seen his Lord, Allah would have conveyed this news and the Prophet ﷺ would have narrated it to the people.
 
 ### al-Tabari (Arabic)
 
@@ -2056,9 +2176,39 @@ Imam Ahmad also recorded that Masruq said, "I asked 'A'ishah, 'Did not Allah say
 
 إِنَّمَا ذَاكَ جِبْرِيلُ
 
-(That was Jibril.) He only saw him twice in his actual and real figure. He saw Jibril 
+(That was Jibril.) He only saw him twice in his actual and real figure. He saw Jibril descend from heaven to earth and was so huge that he covered the whole horizon between the sky and earth.)'" This Hadith is recorded in the Two Sahihs via Ash-Sha'bi.
 
-[TRUNCATED at 12000 chars — 2325 more. Consult the source directly before relying on anything near the cut.]
+Angels, Light and colors covered Sidrat Al-Muntaha
+
+Allah said,
+
+إِذْ يَغْشَى السِّدْرَةَ مَا يَغْشَىٰ
+
+(When that covered the lote tree which did cover it!) We mentioned before, in the Hadiths about Al-Isra' that the angels, Allah's Light, and spectacular colors covered the Sidrah. Imam Ahmad recorded that 'Abdullah bin Mas'ud said, "When the Messenger of Allah ﷺ was taken on the Isra' journey, he ascended to Sidrat Al-Muntaha, which is in the seventh heaven. There everything terminates that ascends from the earth and is held there, and terminates everything that descends from above it is held there,
+
+إِذْ يَغْشَى السِّدْرَةَ مَا يَغْشَىٰ
+
+(When that covered the lote tree which did cover it!) He said, "Golden butterflies. The Messenger of Allah ﷺ was given three things: He was given the five prayers, he was given the concluding verses of Surat Al-Baqarah (2:284-286), and remission of serious sins for those among his Ummah who do not associate anything with Allah." Muslim collected this Hadith. Allah's statement,
+
+مَا زَاغَ الْبَصَرُ وَمَا طَغَىٰ
+
+(The sight turned not aside, nor it transgressed beyond the limit.) indicates that the Prophet's sight did not turn right or left, according to 'Ibn 'Abbas,
+
+وَمَا طَغَىٰ
+
+(nor it transgressed beyond the limit.) not exceeding what has been ordained for it. This is a tremendous quality that demonstrates the Prophet's firm obedience to Allah, because he only did what was commanded and did ask beyond what he was given. Allah's statement,
+
+لَقَدْ رَأَىٰ مِنْ آيَاتِ رَبِّهِ الْكُبْرَىٰ
+
+(Indeed he saw of the greatest signs of his Lord.) is similar to another Ayah,
+
+لِنُرِيَهُ مِنْ آيَاتِنَا
+
+(In order that We might show him of Our Ayat.)(17:1), meaning, signs that testify to Allah's might and greatness. Relying on these two Ayat, some scholars of Ahl us-Sunnah said that the Prophet ﷺ did not see Allah during the Isra' journey, because Allah said,
+
+لَقَدْ رَأَىٰ مِنْ آيَاتِ رَبِّهِ الْكُبْرَىٰ
+
+(Indeed he saw of the greatest signs of his Lord.) They said that, had the Prophet ﷺ seen his Lord, Allah would have conveyed this news and the Prophet ﷺ would have narrated it to the people.
 
 ### al-Tabari (Arabic)
 
@@ -2406,9 +2556,39 @@ Imam Ahmad also recorded that Masruq said, "I asked 'A'ishah, 'Did not Allah say
 
 إِنَّمَا ذَاكَ جِبْرِيلُ
 
-(That was Jibril.) He only saw him twice in his actual and real figure. He saw Jibril 
+(That was Jibril.) He only saw him twice in his actual and real figure. He saw Jibril descend from heaven to earth and was so huge that he covered the whole horizon between the sky and earth.)'" This Hadith is recorded in the Two Sahihs via Ash-Sha'bi.
 
-[TRUNCATED at 12000 chars — 2325 more. Consult the source directly before relying on anything near the cut.]
+Angels, Light and colors covered Sidrat Al-Muntaha
+
+Allah said,
+
+إِذْ يَغْشَى السِّدْرَةَ مَا يَغْشَىٰ
+
+(When that covered the lote tree which did cover it!) We mentioned before, in the Hadiths about Al-Isra' that the angels, Allah's Light, and spectacular colors covered the Sidrah. Imam Ahmad recorded that 'Abdullah bin Mas'ud said, "When the Messenger of Allah ﷺ was taken on the Isra' journey, he ascended to Sidrat Al-Muntaha, which is in the seventh heaven. There everything terminates that ascends from the earth and is held there, and terminates everything that descends from above it is held there,
+
+إِذْ يَغْشَى السِّدْرَةَ مَا يَغْشَىٰ
+
+(When that covered the lote tree which did cover it!) He said, "Golden butterflies. The Messenger of Allah ﷺ was given three things: He was given the five prayers, he was given the concluding verses of Surat Al-Baqarah (2:284-286), and remission of serious sins for those among his Ummah who do not associate anything with Allah." Muslim collected this Hadith. Allah's statement,
+
+مَا زَاغَ الْبَصَرُ وَمَا طَغَىٰ
+
+(The sight turned not aside, nor it transgressed beyond the limit.) indicates that the Prophet's sight did not turn right or left, according to 'Ibn 'Abbas,
+
+وَمَا طَغَىٰ
+
+(nor it transgressed beyond the limit.) not exceeding what has been ordained for it. This is a tremendous quality that demonstrates the Prophet's firm obedience to Allah, because he only did what was commanded and did ask beyond what he was given. Allah's statement,
+
+لَقَدْ رَأَىٰ مِنْ آيَاتِ رَبِّهِ الْكُبْرَىٰ
+
+(Indeed he saw of the greatest signs of his Lord.) is similar to another Ayah,
+
+لِنُرِيَهُ مِنْ آيَاتِنَا
+
+(In order that We might show him of Our Ayat.)(17:1), meaning, signs that testify to Allah's might and greatness. Relying on these two Ayat, some scholars of Ahl us-Sunnah said that the Prophet ﷺ did not see Allah during the Isra' journey, because Allah said,
+
+لَقَدْ رَأَىٰ مِنْ آيَاتِ رَبِّهِ الْكُبْرَىٰ
+
+(Indeed he saw of the greatest signs of his Lord.) They said that, had the Prophet ﷺ seen his Lord, Allah would have conveyed this news and the Prophet ﷺ would have narrated it to the people.
 
 ### al-Tabari (Arabic)
 
@@ -2756,9 +2936,39 @@ Imam Ahmad also recorded that Masruq said, "I asked 'A'ishah, 'Did not Allah say
 
 إِنَّمَا ذَاكَ جِبْرِيلُ
 
-(That was Jibril.) He only saw him twice in his actual and real figure. He saw Jibril 
+(That was Jibril.) He only saw him twice in his actual and real figure. He saw Jibril descend from heaven to earth and was so huge that he covered the whole horizon between the sky and earth.)'" This Hadith is recorded in the Two Sahihs via Ash-Sha'bi.
 
-[TRUNCATED at 12000 chars — 2325 more. Consult the source directly before relying on anything near the cut.]
+Angels, Light and colors covered Sidrat Al-Muntaha
+
+Allah said,
+
+إِذْ يَغْشَى السِّدْرَةَ مَا يَغْشَىٰ
+
+(When that covered the lote tree which did cover it!) We mentioned before, in the Hadiths about Al-Isra' that the angels, Allah's Light, and spectacular colors covered the Sidrah. Imam Ahmad recorded that 'Abdullah bin Mas'ud said, "When the Messenger of Allah ﷺ was taken on the Isra' journey, he ascended to Sidrat Al-Muntaha, which is in the seventh heaven. There everything terminates that ascends from the earth and is held there, and terminates everything that descends from above it is held there,
+
+إِذْ يَغْشَى السِّدْرَةَ مَا يَغْشَىٰ
+
+(When that covered the lote tree which did cover it!) He said, "Golden butterflies. The Messenger of Allah ﷺ was given three things: He was given the five prayers, he was given the concluding verses of Surat Al-Baqarah (2:284-286), and remission of serious sins for those among his Ummah who do not associate anything with Allah." Muslim collected this Hadith. Allah's statement,
+
+مَا زَاغَ الْبَصَرُ وَمَا طَغَىٰ
+
+(The sight turned not aside, nor it transgressed beyond the limit.) indicates that the Prophet's sight did not turn right or left, according to 'Ibn 'Abbas,
+
+وَمَا طَغَىٰ
+
+(nor it transgressed beyond the limit.) not exceeding what has been ordained for it. This is a tremendous quality that demonstrates the Prophet's firm obedience to Allah, because he only did what was commanded and did ask beyond what he was given. Allah's statement,
+
+لَقَدْ رَأَىٰ مِنْ آيَاتِ رَبِّهِ الْكُبْرَىٰ
+
+(Indeed he saw of the greatest signs of his Lord.) is similar to another Ayah,
+
+لِنُرِيَهُ مِنْ آيَاتِنَا
+
+(In order that We might show him of Our Ayat.)(17:1), meaning, signs that testify to Allah's might and greatness. Relying on these two Ayat, some scholars of Ahl us-Sunnah said that the Prophet ﷺ did not see Allah during the Isra' journey, because Allah said,
+
+لَقَدْ رَأَىٰ مِنْ آيَاتِ رَبِّهِ الْكُبْرَىٰ
+
+(Indeed he saw of the greatest signs of his Lord.) They said that, had the Prophet ﷺ seen his Lord, Allah would have conveyed this news and the Prophet ﷺ would have narrated it to the people.
 
 ### al-Tabari (Arabic)
 
@@ -3106,9 +3316,39 @@ Imam Ahmad also recorded that Masruq said, "I asked 'A'ishah, 'Did not Allah say
 
 إِنَّمَا ذَاكَ جِبْرِيلُ
 
-(That was Jibril.) He only saw him twice in his actual and real figure. He saw Jibril 
+(That was Jibril.) He only saw him twice in his actual and real figure. He saw Jibril descend from heaven to earth and was so huge that he covered the whole horizon between the sky and earth.)'" This Hadith is recorded in the Two Sahihs via Ash-Sha'bi.
 
-[TRUNCATED at 12000 chars — 2325 more. Consult the source directly before relying on anything near the cut.]
+Angels, Light and colors covered Sidrat Al-Muntaha
+
+Allah said,
+
+إِذْ يَغْشَى السِّدْرَةَ مَا يَغْشَىٰ
+
+(When that covered the lote tree which did cover it!) We mentioned before, in the Hadiths about Al-Isra' that the angels, Allah's Light, and spectacular colors covered the Sidrah. Imam Ahmad recorded that 'Abdullah bin Mas'ud said, "When the Messenger of Allah ﷺ was taken on the Isra' journey, he ascended to Sidrat Al-Muntaha, which is in the seventh heaven. There everything terminates that ascends from the earth and is held there, and terminates everything that descends from above it is held there,
+
+إِذْ يَغْشَى السِّدْرَةَ مَا يَغْشَىٰ
+
+(When that covered the lote tree which did cover it!) He said, "Golden butterflies. The Messenger of Allah ﷺ was given three things: He was given the five prayers, he was given the concluding verses of Surat Al-Baqarah (2:284-286), and remission of serious sins for those among his Ummah who do not associate anything with Allah." Muslim collected this Hadith. Allah's statement,
+
+مَا زَاغَ الْبَصَرُ وَمَا طَغَىٰ
+
+(The sight turned not aside, nor it transgressed beyond the limit.) indicates that the Prophet's sight did not turn right or left, according to 'Ibn 'Abbas,
+
+وَمَا طَغَىٰ
+
+(nor it transgressed beyond the limit.) not exceeding what has been ordained for it. This is a tremendous quality that demonstrates the Prophet's firm obedience to Allah, because he only did what was commanded and did ask beyond what he was given. Allah's statement,
+
+لَقَدْ رَأَىٰ مِنْ آيَاتِ رَبِّهِ الْكُبْرَىٰ
+
+(Indeed he saw of the greatest signs of his Lord.) is similar to another Ayah,
+
+لِنُرِيَهُ مِنْ آيَاتِنَا
+
+(In order that We might show him of Our Ayat.)(17:1), meaning, signs that testify to Allah's might and greatness. Relying on these two Ayat, some scholars of Ahl us-Sunnah said that the Prophet ﷺ did not see Allah during the Isra' journey, because Allah said,
+
+لَقَدْ رَأَىٰ مِنْ آيَاتِ رَبِّهِ الْكُبْرَىٰ
+
+(Indeed he saw of the greatest signs of his Lord.) They said that, had the Prophet ﷺ seen his Lord, Allah would have conveyed this news and the Prophet ﷺ would have narrated it to the people.
 
 ### al-Tabari (Arabic)
 
@@ -3228,9 +3468,61 @@ Imam Ahmad also recorded that Masruq said, "I asked 'A'ishah, 'Did not Allah say
 
 ⁕ حدثنا ابن حُميد، قال: ثنا مهران، عن أبي جعفر، عن الربيع، عن سدرة المنتهى، قال: السدرة: شجرة يسير الراكب في ظلها مئة عام لا يقطعها، وإن ورقة منها غَشَّت الأمَّةَ كلها.
 
-⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة، في قوله ﴿عِنْدَ سِدْرَةِ الْمُنْتَهَى﴾ : أن النبي ﷺ قال: "رُفِعتْ لي سدْرَةٌ مُنْتهَاها فِي السَّماءِ السَّابِعَة، نَبْقُها مِثْلُ قِلال هَجِرٍ، وَوَرَقُها مِثْلُ آذان الفيلَة، يَخْرُجُ مِنْ سَاقِها نَهْرانِ ظاهِران، ونَهْرانِ باطِنان، قال: قُلْتُ لجِبْرِيلَ ما هَذَان النَّهْرَانِ أرْوَاحٌ [[كذا في المخطوطة رقم ١٠٠ تفسير بدار الكتب المصرية (ج ٢٢: ٥٩ ب) ولعل الكلمة محرفة، أو لعلها زائدة من قلم الناسخ.]] قال: أَمَّا النَّهْرَانِ الباطِنان، فَفِي الجَنَّة، وأمَّا النَّهْرَانِ ا
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة، في قوله ﴿عِنْدَ سِدْرَةِ الْمُنْتَهَى﴾ : أن النبي ﷺ قال: "رُفِعتْ لي سدْرَةٌ مُنْتهَاها فِي السَّماءِ السَّابِعَة، نَبْقُها مِثْلُ قِلال هَجِرٍ، وَوَرَقُها مِثْلُ آذان الفيلَة، يَخْرُجُ مِنْ سَاقِها نَهْرانِ ظاهِران، ونَهْرانِ باطِنان، قال: قُلْتُ لجِبْرِيلَ ما هَذَان النَّهْرَانِ أرْوَاحٌ [[كذا في المخطوطة رقم ١٠٠ تفسير بدار الكتب المصرية (ج ٢٢: ٥٩ ب) ولعل الكلمة محرفة، أو لعلها زائدة من قلم الناسخ.]] قال: أَمَّا النَّهْرَانِ الباطِنان، فَفِي الجَنَّة، وأمَّا النَّهْرَانِ الظَّاهرَان: فالنِّيلُ والفراتُ".
 
-[TRUNCATED at 12000 chars — 3247 more. Consult the source directly before relying on anything near the cut.]
+* *
+
+وقوله ﴿عِنْدَهَا جَنَّةُ الْمَأْوَى﴾
+
+يقول تعالى ذكره: عند سدرة المنتهى جنة مأوى الشهداء.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، قوله ﴿عِنْدَهَا جَنَّةُ الْمَأْوَى﴾ قال: هي يمين العرش، وهي منزل الشهداء.
+
+⁕ حدثنا ابن حُميد، قال: ثنا مهران، عن سفيان، عن داود، عن أبي العالية عن ابن عباس ﴿عِنْدَهَا جَنَّةُ الْمَأْوَى﴾ قال: هو كقوله ﴿فَلَهُمْ جَنَّاتُ الْمَأْوَى نزلا بِمَا كَانُوا يَعْمَلُونَ﴾ .
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة، في قوله ﴿عِنْدَهَا جَنَّةُ الْمَأْوَى﴾ قال: منازل الشهداء.
+
+* *
+
+وقوله ﴿إِذْ يَغْشَى السِّدْرَةَ مَا يَغْشَى﴾
+
+يقول تعالى ذكره: ولقد رآه نزلة أخرى؛ إذ يغشى السدرة ما يغشى، فإذ من صلة رآه.
+
+واختلف أهل التأويل في الذي يغشى السدرة، فقال بعضهم: غَشيَها فرَاش الذهب.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن عمارة، قال: ثنا سهل بن عامر، قال: ثنا مالك، عن الزبير بن عديّ، عن طلحة الياميّ، عن مرّة، عن عبد الله ﴿إِذْ يَغْشَى السِّدْرَةَ مَا يَغْشَى﴾ قال: غشيها فَرَاش من ذهب.
+
+⁕ حدثني أبو السائب، قال: ثنا أبو معاوية، عن الأعمش، عن مسلم أو طلحة "شكّ الأعمش" عن مسروق في قوله: ﴿إِذْ يَغْشَى السِّدْرَةَ مَا يَغْشَى﴾ قال: غشيها فَراش من ذهب.
+
+⁕ حدثنا أبو كُرَيب، قال: ثنا أبو خالد، عن جويبر، عن الضحاك، عن ابن عباس، قال: قال رسول ﷺ: "رأيتُها بعَيْني سِدْرَةَ المُنْتَهَى حتى اسْتَثبَتُّها ثُمَّ حالَ دُونَها فَرَاشٌ مِنْ ذَهَبٍ".
+
+⁕ حدثنا ابن وكيع، قال: ثنا أبو خالد الأحمر، عن جويبر، عن الضحاك، عن ابن عباس ﴿إِذْ يَغْشَى السِّدْرَةَ مَا يَغْشَى﴾ قال: قال رسول الله ﷺ: " رأيتُها حتى اسْتَثبَتُّها، ثُمَّ حالَ دُونَها فَرَاشُ الذَهَبِ ".
+
+⁕ حدثنا ابن حُمَيد، قال ثنا جرير، عن مغيرة، عن مجاهد وإبراهيم، في قوله ﴿إِذْ يَغْشَى السِّدْرَةَ مَا يَغْشَى﴾ قال: غشيها فراش من ذهب.
+
+⁕ حدثنا ابن حُمَيد، قال ثنا مهران، عن موسى، يعني ابن عبيدة، عن يعقوب بن زيد، قال: "سئل النبي ﷺ: ما رأيتَ يغشى السِّدرة؟ قال: رَأيْتُها يَغْشاها فَرَاشٌ مِنْ ذَهَبٍ ".
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله ﴿إِذْ يَغْشَى السِّدْرَةَ مَا يَغْشَى﴾ قال: قيل له: يا رسولَ الله، أيّ شيء رأيت يغشى تلك السدرة؟ قال: رَأيْتُها يَغْشاها فَرَاشٌ مِنْ ذَهَبٍ، ورأيْتُ على كُلّ وَرَقَةٍ مِنْ وَرَقِها مَلَكا قائما يُسَبِّحُ اللهَ".
+
+وقال آخرون: الذي غشيها ربّ العزّة وملائكته.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، قوله: ﴿إِذْ يَغْشَى السِّدْرَةَ مَا يَغْشَى﴾ قال: غشيها الله، فرأى محمد من آيات ربه الكبرى.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء جميعا، عن ابن أبي نجيح، عن مجاهد، في قوله ﴿إِذْ يَغْشَى السِّدْرَةَ مَا يَغْشَى﴾ قال: كان أغصان السدرة لؤلؤًا وياقوتا أو زبرجدا، فرآها محمد، ورأى محمد بقلبه ربه.
+
+⁕ حدثنا ابن حُميد، قال: ثنا مهران، عن أبي جعفر، عن الربيع ﴿إِذْ يَغْشَى السِّدْرَةَ مَا يَغْشَى﴾ قال: غشيها نور الربّ، وغشيتها الملائكة من حُبّ الله مثل الغربان حين يقعن على الشجر".
+
+⁕ حدثنا ابن حُميد، قال: ثنا حكام، عن أبي جعفر، عن الربيع بنحوه.
+
+⁕ حدثنا علي بن سهل، قال: ثنا حجاج، قال: ثنا أبو جعفر الرازيّ، عن الربيع بن أنس، عن أبي العالية الرياحي، عن أبي هريرة أو غيره "شكّ أبو جعفر" قال: لما أُسري بالنبيّ ﷺ انتهى إلى السدرة، قال: فغشيها نور الخَلاقِ، وغشيتها الملائكة أمثال الغربان حين يقعن على الشجر، قال: فكلمه عند ذلك، فقال له: سَلْ.
 
 ### al-Muyassar (Arabic)
 

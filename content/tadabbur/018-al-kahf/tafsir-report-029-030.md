@@ -2120,9 +2120,107 @@ According to another route of transmission, Ahmad recorded from Abu Umamah, who 
 
 Ahmad recorded this Hadith from different routes of transmission that are good and strong, and all praise is due to Allah.
 
-Al
+Allah said,
 
-[TRUNCATED at 12000 chars — 4316 more. Consult the source directly before relying on anything near the cut.]
+أَوْ إِطْعَامٌ فِي يَوْمٍ ذِي مَسْغَبَةٍ
+
+(Or giving food in a day full of Masghabah,) Ibn 'Abbas said, "Of hunger." 'Ikrimah, Mujahid, Ad-Dahhak, Qatadah and others all said the same. The word 'Saghb' means hunger. Then Allah says,
+
+يَتِيمًا
+
+(To an orphan) meaning, he gives food on a day like this to an orphan.
+
+ذَا مَقْرَبَةٍ
+
+(near of kin.) meaning, who is related to him. Ibn 'Abbas, 'Ikrimah, Al-Hasan, Ad-Dahhak and As-Suddi all said this. This is similar to what was related in a Hadith that was collected by Imam Ahmad on the authority of Salman bin 'Amir who said that he heard the Messenger of Allah ﷺ say,
+
+الصَّدَقَةُ عَلَى الْمِسْكِينِ صَدَقَةٌ وَعَلَى ذِي الرَّحِمِ اثْنَتَانِ: صَدَقَةٌ وَصِلَةٌ
+
+(Charity given to the poor person is counted as one charity, while if it is given to a relative it is counted as two: charity and connecting the ties (of kinship).)
+
+At-Tirmidhi and An-Nasa'i both recorded this Hadith and its chain of narration is authentic. Then Allah says,
+
+أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ
+
+(Or to a Miskin cleaving to dust (Dha Matrabah).)
+
+meaning, poor, miserable, and clinging to the dirt. It means those who are in a state of destitution. Ibn 'Abbas said, "Dha Matrabah is that who is dejected in the street and who has no house or anything else to protect him against the dirt."
+
+Allah said:
+
+ثُمَّ كَانَ مِنَ الَّذِينَ آمَنُوا
+
+(Then he became one of those who believed) meaning, then, along with these beautiful and pure characteristics, he was a believer in his heart, seeking the reward of that from Allah. This is as Allah says,
+
+وَمَنْ أَرَادَ الْآخِرَةَ وَسَعَىٰ لَهَا سَعْيَهَا وَهُوَ مُؤْمِنٌ فَأُولَٰئِكَ كَانَ سَعْيُهُم مَّشْكُورًا
+
+(And whoever desires the Hereafter and strives for it, with the necessary effort due for it while he is believer, then such are the ones whose striving shall be appreciated.)(17:19)
+
+Allah also says,
+
+مَنْ عَمِلَ صَالِحًا مِّن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌ
+
+(Whoever works righteousness – whether male or female – while being a true believer...)(16:97)
+
+Allah says,
+
+وَتَوَاصَوْا بِالصَّبْرِ وَتَوَاصَوْا بِالْمَرْحَمَةِ
+
+(and recommended one another to patience, and recommended one another to compassion.)
+
+meaning, he was from the believers who worked righteous deeds, and advised each other to be patient with the harms of the people, and to be merciful with them. This is similar to what has been related in the noble Hadith,
+
+الرَّاحِمُونَ يَرْحَمُهُمُ الرَّحْمَٰنُ، ارْحَمُوا مَنْ فِي الْأَرْضِ يَرْحَمْكُمْ مَنْ فِي السَّمَاءِ
+
+(The merciful people will be treated with mercy by the Most Merciful (Allah). Be merciful to those who are on the earth and He Who is above the heavens will be merciful to you.)
+
+In another Hadith he said,
+
+لَا يَرْحَمُ اللهُ مَنْ لَا يَرْحَمِ النَّاسَ
+
+(Allah will not be merciful with whoever is not merciful with the people.)
+
+Abu Dawud recorded from 'Abdullah bin 'Amr that he narrated (from the Prophet ﷺ),
+
+مَنْ لَمْ يَرْحَمْ صَغِيرَنَا وَيَعْرِفْ حَقَّ كَبِيرِنَا فَلَيْسَ مِنَّا
+
+(Whoever does not show mercy to our children, nor does he recognize the right of our elders, then he is not of us.)
+
+Then Allah says,
+
+أُولَٰئِكَ أَصْحَابُ الْمَيْمَنَةِ
+
+(They are those on the Right,) meaning, those who have these characteristics are the companions of the Right Hand.
+
+The Companions of the Left Hand and Their Recompense
+
+Then Allah says,
+
+وَالَّذِينَ كَفَرُوا بِآيَاتِنَا هُمْ أَصْحَابُ الْمَشْأَمَةِ
+
+(But those who disbelieved in Our Ayat, they are those on the Left.)
+
+meaning, the companions of the Left Hand.
+
+عَلَيْهِمْ نَارٌ مُّؤْصَدَةٌ
+
+(Upon them Fire will Mu'sadah.)
+
+meaning, it will be sealed over them and there will be no way for them to avoid it, nor will they have any way out. Abu Hurayrah, Ibn 'Abbas, 'Ikrimah, Sa'id bin Jubayr, Mujahid, Muhammad bin Ka'b Al-Qurazi, 'Atiyah Al-'Awfi, Al-Hasan, Qatadah and As-Suddi, all said,
+
+مُّؤْصَدَةٌ
+
+(Mu'sadah.) "This means shut." Ibn 'Abbas said, "Its doors will be closed." Ad-Dahhak said,
+
+مُّؤْصَدَةٌ
+
+(Mu'sadah.) "It will be sealed over them and it will have no door." Qatadah said,
+
+مُّؤْصَدَةٌ
+
+(Mu'sadah.) "It will be shut and there will be no light in it, no crevice (escape), and no way out of it forever."
+
+This is the end of the Tafsir of Surat Al-Balad, and all praise and blessings are due to Allah.
 
 ### al-Tabari (Arabic)
 
@@ -2294,9 +2392,57 @@ Al
 
 ⁕ حدثنا ابن المثنى، قال: ثنا ابن أبي عديّ، عن شعبة، عن حُصين، عن مجاهد، عن ابن عباس، في قول الله: ﴿أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ﴾ قال: الذي لا يُواريه إلا التراب.
 
-⁕ حدثني زكريا بن يحيى بن أبي زائدة، قال: ثنا أبو عاصم، عن شعبة، عن المُغيرة، عن مجاهد، عن ابن عبا
+⁕ حدثني زكريا بن يحيى بن أبي زائدة، قال: ثنا أبو عاصم، عن شعبة، عن المُغيرة، عن مجاهد، عن ابن عباس ﴿ذَا مَتْرَبَةٍ﴾ قال: الذي ليس له مَأوًى إلا التراب.
 
-[TRUNCATED at 12000 chars — 3503 more. Consult the source directly before relying on anything near the cut.]
+⁕ حدثنا ابن حميد، قال: ثني جرير، عن مغيرة، عن مجاهد، عن ابن عباس ﴿مِسْكِينًا ذَا مَتْرَبَةٍ﴾ قال: الذي ليس له مَأوًى إلا التراب.
+
+⁕ قال: ثنا جرير، عن منصور، عن مجاهد، عن ابن عباس، في قوله: ﴿أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ﴾ قال: المسكين؛ المطروح في التراب.
+
+⁕ حدثني أبو حصين قال: ثنا عبد الله بن أحمد بن يونس، قال: ثنا عَبْثَرٌ، عن حصين، عن مجاهد، عن ابن عباس، قوله: ﴿أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ﴾ قال: الذي لا يقيه من التراب شيء.
+
+⁕ حدثني يعقوب، قال: ثنا هشيم، قال: ثنا حصين والمغيرة كلاهما، عن مجاهد، عن ابن عباس أنه قال في قوله: ﴿أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ﴾ قال: هو اللازق بالتراب من شدّة الفقر.
+
+⁕ حدثنا ابن حميد، قال: ثنا حكام، عن عمرو بن أبي قيس، عن منصور، عن مجاهد، عن ابن عباس ﴿أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ﴾ قال: التراب الملقى على الطريق على الكُناسة.
+
+⁕ حدثنا أبو كُرَيب، قال: ثنا طَلق بن غنام، عن زائدة، عن منصور، عن مجاهد، عن ابن عباس ﴿أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ﴾ قال: هو المسكين الملقى بالطريق بالتراب.
+
+⁕ حدثنا ابن حميد، قال: ثنا مهران، عن سفيان، عن الحصين، عن مجاهد ﴿أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ﴾ قال: المطروح في الأرض، الذي لا يقيه شيء دون التراب.
+
+⁕ حدثنا أبو كُرَيب، قال: ثنا وكيع، عن سفيان، عن حصين، عن مجاهد، عن ابن عباس ﴿أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ﴾ قال: هو المُلزق بالأرض، لا يقيه شيء من التراب.
+
+⁕ حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفيان، عن حصين وعثمان بن المُغيرة، عن مجاهد عن ابن عباس ﴿أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ﴾ قال الذي ليس له شيء يقيه من التراب.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد، قوله: ﴿ذَا مَتْرَبَةٍ﴾ قال: ساقط في التراب.
+
+⁕ حدثنا أبو كُرَيب، قال: ثنا وكيع، عن جعفر بن برقان، قال: سمع عكرِمة ﴿أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ﴾ قال: الملتزق بالأرض من الحاجة.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن عكرِمة، في قوله: ﴿أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ﴾ قال: التراب اللاصق بالأرض.
+
+⁕ حدثنا ابن حميد، قال: ثنا مهران، عن سفيان، عن عثمان بن المُغيرة، عن سعيد بن جُبير، عن ابن عباس، قال: المُلقى في الطريق الذي ليس له بيت إلا التراب.
+
+وقال آخرون: بل هو المحتاج، كان لاصقا بالتراب، أو غير لاصق؛ وقالوا: إنما هو من قولهم: تَرِب الرجل: إذا افتقر.
+
+ذكر من قال ذلك:
+
+⁕ حدثني عليّ، قال: ثنا أبو صالح، قال: ثني معاوية، عن عليّ، عن ابن عباس، في قوله: ﴿أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ﴾ يقول: شديد الحاجة.
+
+⁕ حدثنا هناد بن السريّ، قال: ثنا أبو الأحوص، عن حصين، عن عكرِمة، في قوله: ﴿أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ﴾ قال: هو المحارَف الذي لا مال له.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: ﴿أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ﴾ قال: ذا حاجة، الترب: المحتاج.
+
+وقال آخرون: بل هو ذو العيال الكثير الذين قد لصقوا بالتراب من الضرّ وشدّة الحاجة.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس ﴿أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ﴾ يقول: مسكين ذو بنين وعيال، ليس بينك وبينه قرابة.
+
+⁕ حدثنا أبو كُرَيب، قال: ثنا ابن يمان، عن أشعث، عن جعفر بن أبي المُغيرة، عن سعيد بن جُبير، في قوله: ﴿أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ﴾ قال: ذا عِيال.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: ﴿أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ﴾ كنا نحدّث أن الترب هو ذو العيال الذي لا شيء له.
+
+⁕ حُدثت عن الحسين، قال: سمعت أبا معاذ يقول: ثنا عبيد، قال: سمعت الضحاك يقول في قوله: ﴿أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ﴾ ذا عيال لاصقين بالأرض، من المسكنة والجهد.
+
+وأولى الأقوال في ذلك بالصحة قول من قال: عُنِيَ به: أو مسكينا قد لصق بالتراب من الفقر والحاجة؛ لأن ذلك هو الظاهر من معانيه. وأن قوله: ﴿مَتْرَبَةٍ﴾ إنما هي " مَفْعَلةٍ " من ترب الرجل: إذا أصابه التراب.
 
 ### al-Muyassar (Arabic)
 
@@ -3962,9 +4108,17 @@ Imam Ahmad recorded from 'Awf bin Al-Harith bin At-Tufayl that 'A'ishah told him
 
 يَاعَائِشَةُ، إِيَّاكِ وَمُحَقَّرَاتِ الذُّنُوبِ، فَإِنَّ لَهَا مِنَ اللهِ طَالِبًا
 
-(O 'A'ishah! Beware of the sins that are belittled,
+(O 'A'ishah! Beware of the sins that are belittled, for indeed they will be taken account of by Allah.)
 
-[TRUNCATED at 12000 chars — 879 more. Consult the source directly before relying on anything near the cut.]
+This Hadith was recorded by An-Nasa'i and Ibn Majah.Imam Ahmad recorded from 'Abdullah bin Mas'ud that the Messenger of Allah ﷺ said,
+
+إِيَّاكُمْ وَمُحَقَّرَاتِ الذُّنُوبِ، فَإِنَّهُنَّ يَجْتَمِعْنَ عَلَى الرَّجُلِ حَتّٰى يُهْلِكْنَهُ
+
+(Beware of the sins that are belittled. For verily, they are gathered in a man until they destroy him.)
+
+And indeed the Messenger of Allah ﷺ made an example of them (sins that are taken lightly) by saying that they are like a people who settle in barren land. Then their leader comes and orders the men to go out one at a time and each bring back a stick until they have gathered a large number of sticks. Then they kindled a fire and burned everything that they threw into it.
+
+This is the end of the Tafsir of Surat Idha Zulzilat (Az-Zalzalah) and all praise and thanks are due to Allah.
 
 ### al-Tabari (Arabic)
 
@@ -4096,9 +4250,15 @@ Imam Ahmad recorded from 'Awf bin Al-Harith bin At-Tufayl that 'A'ishah told him
 
 فهذه الأخبار عن رسول الله ﷺ تُنبئ عن أن المؤمن إنما يرى عقوبة سيئاته في الدنيا، وثواب حسناته في الآخرة، وأن الكافر يرى ثواب حسناته في الدنيا، وعقوبة سيئاته في الآخرة، وأن الكافر لا ينفعه في الآخرة ما سلف له من إحسان في الدنيا مع كُفره.
 
-⁕ حدثنا أبو كُرَيب، قال: ثنا ابن عليّ، عن الأعمش، عن إبراهيم التيمي، قال: أدركت سبعين من أصحاب عبد الله، أصغرهم الحارث بن سويد، فسمعته يقرأ: ﴿إِذَا زُلْزِلَتِ الأرْضُ زِلْزَالَهَا﴾ حتى بلغ إلى: ﴿وَمَنْ يَعْمَلْ مِثْقَالَ 
+⁕ حدثنا أبو كُرَيب، قال: ثنا ابن عليّ، عن الأعمش، عن إبراهيم التيمي، قال: أدركت سبعين من أصحاب عبد الله، أصغرهم الحارث بن سويد، فسمعته يقرأ: ﴿إِذَا زُلْزِلَتِ الأرْضُ زِلْزَالَهَا﴾ حتى بلغ إلى: ﴿وَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُ﴾ قال: إن هذا إحصاء شديد.
 
-[TRUNCATED at 12000 chars — 434 more. Consult the source directly before relying on anything near the cut.]
+وقيل: إن الذَّرَّة دُودة حمراء ليس لها وزن.
+
+ذكر من قال ذلك:
+
+⁕ حدثني إسحاق بن وهب العلاف ومحمد بن سنان القزّاز، قالا ثنا أبو عاصم، قال: ثنا شبيب بن بشر، عن عكرمة، عن ابن عباس، في قوله: ﴿مِثْقَالَ ذَرَّةٍ﴾ قال ابن سنان في حديثه: مثقال ذرّة حمراء. وقال ابن وهب في حديثه: نملة حمراء. قال إسحاق، قال يزيد بن هارون: وزعموا أن هذه الدودة الحمراء ليس لها وزن.
+
+آخر تفسير سورة إذا زلزلت الأرض.
 
 ### al-Muyassar (Arabic)
 

@@ -196,9 +196,39 @@ Abdul-Malik bin 'Umayr said that Warrad narrated that Al-Mughirah said that Sa'd
 
 أَتَعْجَبُونَ مِنْ غَيْرةِ سَعْدٍ؟ فَوَاللهِ لَأَنَا أَغْيَرُ مِنْ سَعْدٍ، وَاللهُ أَغْيَرُ مِنِّي، مِنْ أَجْلِ ذَلِكَ حَرَّمَ الْفَوَاحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَن
 
-(Do you wonder at Sa'd's jealousy? By Allah, I am more jealous than Sa'd, and Allah is more jealous than I. This is why He has forbidden the immoral sins committed openly and in secret.) This Hadith
+(Do you wonder at Sa'd's jealousy? By Allah, I am more jealous than Sa'd, and Allah is more jealous than I. This is why He has forbidden the immoral sins committed openly and in secret.) This Hadith is in the Two Sahihs).
 
-[TRUNCATED at 12000 chars — 2395 more. Consult the source directly before relying on anything near the cut.]
+The Prohibition of Unjustified Killing
+
+Allah said,
+
+وَلَا تَقْتُلُوا النَّفْسَ الَّتِي حَرَّمَ اللَّهُ إِلَّا بِالْحَقِّ
+
+(And kill not anyone whom Allah has forbidden, except for a just cause (according to Islamic law).)
+
+This part of the Ayah emphasizes this prohibition in specific, although it is included in the immoral sins committed openly and in secret. In the Two Sahihs, it is recorded that Ibn Mas'ud said that the Messenger of Allah ﷺ said,
+
+لَا يَحِلُّ دَمُ امْرِىءٍ مُسْلِمٍ يَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللهُ وَأَنِّي رَسُولُ اللهِ، إِلَّا بِإِحْدَى ثَلَاثٍ: الثَّيِّبُ الزَّانِي، وَالنَّفْسُ بِالنَّفْسِ، وَالتَّارِكُ لِدِينِهِ الْمُفَارِقُ لِلْجَمَاعَةِ
+
+(The blood of a Muslim person who testifies that there is no deity worthy of worship except Allah and that I am the Messenger of Allah is prohibited, except for three offenses: a married person who commits illegal sexual intercourse, life for life, and whoever reverts from the religion and abandons the Jama'ah (the community of faithful believers).)
+
+There is a prohibition, a warning and a threat against killing the Mu'ahid, i.e., non-Muslims who have a treaty of peace with Muslims. Al-Bukhari recorded that 'Abdullah bin 'Amr said that the Prophet ﷺ said,
+
+مَنْ قَتَلَ مُعَاهِدًا لَمْ يَرَحْ رَائِحَةَ الْجَنَّةِ، وَإِنَّ رِيحَهَا لَيُوجَدُ مِنْ مَسِيرَةِ أَرْبَعِينَ عَامًّا
+
+(Whoever killed a person having a treaty of protection with Muslims, shall not smell the scent of Paradise, though its scent is perceived from a distance of forty years.)
+
+Abu Hurayrah narrated that the Prophet ﷺ said,
+
+مَنْ قَتَلَ مُعَاهِدًا لَهُ ذِمَّةُ اللهِ وَذِمَّةُ رَسُولِهِ فَقَدْ أَخْفَرَ بِذِمَّةِ اللهِ، فَلَا يَرَحْ رَائِحَةَ الْجَنَّةِ، وَإِنَّ رِيحَهَا لَيُوجَدُ مِنْ مَسِيرَةِ سَبْعِينَ خَرِيفًا
+
+(Whoever killed a person having a treaty of protection with the Muslims, and who enjoys the guarantee of Allah and His Messenger, he will have spoiled the guarantee of Allah [for him]. He shall not smell the scent of Paradise though its smell is perceived from a distance of seventy years.)
+
+Ibn Majah and At-Tirmidhi recorded this Hadith, and At-Tirmidhi said, "Hasan Sahih." Allah's statement,
+
+ذَٰلِكُمْ وَصَّاكُم بِهِ لَعَلَّكُمْ تَعْقِلُونَ
+
+(This He has commanded you that you may understand.) means, this is what He has commanded you that you may comprehend His commandments and prohibitions.
 
 ### al-Tabari (Arabic)
 

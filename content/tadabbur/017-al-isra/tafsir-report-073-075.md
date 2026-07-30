@@ -138,9 +138,23 @@ Muhammad bin Ishaq reported that Ibn 'Abbas said, "Ka'b bin Asad, Ibn Saluba, 'A
 
 (Do they then seek the judgement of (the days of) ignorance? And who is better in judgement than Allah for a people who have firm faith?)
 
-Allah criticizes those who ignore Allah's commandments, which include every type of righteous good thing and prohibit every type of evil, but they refer instead to opinions, desires and customs that people themselves invented, all of which have no basis in Allah's religion. During the time of Jahiliyyah, the people used to abide by the misguidance and ignorance that they invented by sheer opinion and lusts. The Tatar (Mongols) abided by the law that they inherited from their king Genghis Khan who wrote Al-Yasiq, for them. This book contains some rulings that were derived from various religions, such as Judaism, Christianity and Islam. Many
+Allah criticizes those who ignore Allah's commandments, which include every type of righteous good thing and prohibit every type of evil, but they refer instead to opinions, desires and customs that people themselves invented, all of which have no basis in Allah's religion. During the time of Jahiliyyah, the people used to abide by the misguidance and ignorance that they invented by sheer opinion and lusts. The Tatar (Mongols) abided by the law that they inherited from their king Genghis Khan who wrote Al-Yasiq, for them. This book contains some rulings that were derived from various religions, such as Judaism, Christianity and Islam. Many of these rulings were derived from his own opinion and desires. Later on, these rulings became the followed law among his children, preferring them to the Law of the Book of Allah and the Sunnah of His Messenger ﷺ. Therefore, whoever does this, he is a disbeliever who deserves to be fought against, until he reverts to Allah's and His Messenger's decisions, so that no law, minor or major, is referred to except by His Law. Allah said,
 
-[TRUNCATED at 12000 chars — 1592 more. Consult the source directly before relying on anything near the cut.]
+أَفَحُكْمَ الْجَاهِلِيَّةِ يَبْغُونَ
+
+(Do they then seek the judgement of (the days of) ignorance?) meaning, they desire and want this and ignore Allah's judgement,
+
+وَمَنْ أَحْسَنُ مِنَ اللَّهِ حُكْمًا لِّقَوْمٍ يُوقِنُونَ
+
+(And who is better in judgement than Allah for a people who have firm faith?)
+
+Who is more just in decision than Allah for those who comprehend Allah's Law, believe in Him, who are certain that Allah is the best among those who give decisions and that He is more merciful with His creation than the mother with her own child? Allah has perfect knowledge of everything, is able to do all things, and He is just in all matters.
+
+Al-Hafiz Abu Al-Qasim At-Tabarani recorded that Ibn 'Abbas said that the Messenger of Allah ﷺ said,
+
+أَبْغَضُ النَّاسِ إِلَى اللهِ عَزَّ وَجَلَّ، مَنْ يَبْتَغِي فِي الْإِسْلَامِ سُنَّةَ الْجَاهِلِيَّةِ، وَطَالِبُ دَمِ امْرِىءٍ بِغَيْرِ حَقٍّ لِيُرِيقَ دَمَهُ
+
+(The most hated person to Allah is the Muslim who seeks the ways of the days of ignorance and he who seeks to shed the blood of a person without justification.) Al-Bukhari recorded Abu Al-Yaman narrating a similar Hadith, with some addition.
 
 ### al-Tabari (Arabic)
 

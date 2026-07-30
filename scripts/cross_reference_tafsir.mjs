@@ -141,7 +141,7 @@ async function generateReport(refs) {
         //
         // Readability is not worth a truncation that removes the disagreements.
         // Reports are read by agents, not skimmed by humans.
-        const LIMIT = 12000;
+        const LIMIT = 60000;
         const truncated =
           text.length > LIMIT
             ? text.substring(0, LIMIT) +

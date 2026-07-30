@@ -786,9 +786,53 @@ It was recorded in Sahih Muslim from 'Utbah bin Ghazwan that (the Prophet ﷺ) g
 
 (and its keepers will say: "Salam 'Alaykum (peace be upon you)! You have done well,") meaning, 'your deeds and words were good, and your efforts were good, and your reward is good.' The Messenger of Allah ﷺ issued commands during some of his military campaigns that it should be shouted out to the Muslims:
 
-إِنَّ الْجَنَّةَ لَا يَدْخُلُهَا إِلَّا نَفْسٌ مُسْلِمَةٌ - وفي رواي
+إِنَّ الْجَنَّةَ لَا يَدْخُلُهَا إِلَّا نَفْسٌ مُسْلِمَةٌ - وفي رواية - مُؤْمِنَةٌ
 
-[TRUNCATED at 12000 chars — 3048 more. Consult the source directly before relying on anything near the cut.]
+(No one enters Paradise except a Muslim soul) or, according to one report, (A believing soul.)" Allah says,
+
+فَادْخُلُوهَا خَالِدِينَ
+
+(so enter here to abide therein forever.) means, to dwell therein, never seeking any change.
+
+وَقَالُوا الْحَمْدُ لِلَّهِ الَّذِي صَدَقَنَا وَعْدَهُ
+
+(And they will say: "All the praises and thanks be to Allah Who has fulfilled His promise to us...") means, when the believers see the great reward and splendors, blessing and grand generosity, they will say,
+
+الْحَمْدُ لِلَّهِ الَّذِي صَدَقَنَا وَعْدَهُ
+
+(All the praises and thanks be to Allah Who has fulfilled His promise to us) meaning, 'the promise which He made to us through His Messengers who called us to this in the world.'
+
+رَبَّنَا وَآتِنَا مَا وَعَدْتَنَا عَلَىٰ رُسُلِكَ وَلَا تُخْزِنَا يَوْمَ الْقِيَامَةِ ۗ إِنَّكَ لَا تُخْلِفُ الْمِيعَادَ
+
+(Our Lord! Grant us what You promised unto us through Your Messengers and disgrace us not on the Day of Resurrection, for You never break (Your) promise)(3:194),
+
+وَقَالُوا الْحَمْدُ لِلَّهِ الَّذِي هَدَانَا لِهَٰذَا وَمَا كُنَّا لِنَهْتَدِيَ لَوْلَا أَنْ هَدَانَا اللَّهُ ۖ لَقَدْ جَاءَتْ رُسُلُ رَبِّنَا بِالْحَقِّ ۖ
+
+(and they will say: "All the praises and thanks be to Allah, Who has guided us to this, and never could we have found guidance, were it not that Allah had guided us! Indeed, the Messengers of our Lord came with the truth.")(7:43), and
+
+وَقَالُوا الْحَمْدُ لِلَّهِ الَّذِي أَذْهَبَ عَنَّا الْحَزَنَ ۖ إِنَّ رَبَّنَا لَغَفُورٌ شَكُورٌ - الَّذِي أَحَلَّنَا دَارَ الْمُقَامَةِ مِنْ فَضْلِهِ لَا يَمَسُّنَا فِيهَا نَصَبٌ وَلَا يَمَسُّنَا فِيهَا لُغُوبٌ
+
+(And they will say: "All the praises and thanks be to Allah Who has removed from us (all) grief. Verily, our Lord is indeed Oft-Forgiving, Most Ready to appreciate (good deeds). Who, out of His grace, has lodged us in a home that will last forever, where toil will touch us not nor weariness will touch us.")(35:34-35)
+
+وَأَوْرَثَنَا الْأَرْضَ نَتَبَوَّأُ مِنَ الْجَنَّةِ حَيْثُ نَشَاءُ ۖ فَنِعْمَ أَجْرُ الْعَامِلِينَ
+
+(and has made us inherit (this) land. We can dwell in Paradise where we will; how excellent a reward for the (pious) workers!)
+
+Abu Al-Aliyah, Abu Salih, Qatadah, As-Suddi and Ibn Zayd said, "This means the land of Paradise." This is like the Ayah:
+
+وَلَقَدْ كَتَبْنَا فِي الزَّبُورِ مِنْ بَعْدِ الذِّكْرِ أَنَّ الْأَرْضَ يَرِثُهَا عِبَادِيَ الصَّالِحُونَ
+
+(And indeed We have written in Az-Zabur after Adh-Dhikr that My righteous servants shall inherit the land.)(21:105) they will say:
+
+نَتَبَوَّأُ مِنَ الْجَنَّةِ حَيْثُ نَشَاءُ
+
+(We can dwell in Paradise where we will) meaning, 'wherever we want, we can settle; how excellent a reward for our efforts.'
+
+In the Two Sahihs, it was reported in the story of the Mi'raj which was narrated by Anas bin Malik, may Allah be pleased with him, that the Prophet ﷺ said:
+
+أُدْخِلْتُ الْجَنَّةَ، فَإِذَا فِيهَا جَنَابِذُ اللُّؤْلُؤِ، وَإِذَا تُرَابُهَا الْمِسْكُ
+
+(I was admitted into Paradise where I saw that its domes were pearls and its soil was musk.)"
 
 ### al-Tabari (Arabic)
 
@@ -976,9 +1020,53 @@ It was recorded in Sahih Muslim from 'Utbah bin Ghazwan that (the Prophet ﷺ) g
 
 (and its keepers will say: "Salam 'Alaykum (peace be upon you)! You have done well,") meaning, 'your deeds and words were good, and your efforts were good, and your reward is good.' The Messenger of Allah ﷺ issued commands during some of his military campaigns that it should be shouted out to the Muslims:
 
-إِنَّ الْجَنَّةَ لَا يَدْخُلُهَا إِلَّا نَفْسٌ مُسْلِمَةٌ - وفي رواي
+إِنَّ الْجَنَّةَ لَا يَدْخُلُهَا إِلَّا نَفْسٌ مُسْلِمَةٌ - وفي رواية - مُؤْمِنَةٌ
 
-[TRUNCATED at 12000 chars — 3048 more. Consult the source directly before relying on anything near the cut.]
+(No one enters Paradise except a Muslim soul) or, according to one report, (A believing soul.)" Allah says,
+
+فَادْخُلُوهَا خَالِدِينَ
+
+(so enter here to abide therein forever.) means, to dwell therein, never seeking any change.
+
+وَقَالُوا الْحَمْدُ لِلَّهِ الَّذِي صَدَقَنَا وَعْدَهُ
+
+(And they will say: "All the praises and thanks be to Allah Who has fulfilled His promise to us...") means, when the believers see the great reward and splendors, blessing and grand generosity, they will say,
+
+الْحَمْدُ لِلَّهِ الَّذِي صَدَقَنَا وَعْدَهُ
+
+(All the praises and thanks be to Allah Who has fulfilled His promise to us) meaning, 'the promise which He made to us through His Messengers who called us to this in the world.'
+
+رَبَّنَا وَآتِنَا مَا وَعَدْتَنَا عَلَىٰ رُسُلِكَ وَلَا تُخْزِنَا يَوْمَ الْقِيَامَةِ ۗ إِنَّكَ لَا تُخْلِفُ الْمِيعَادَ
+
+(Our Lord! Grant us what You promised unto us through Your Messengers and disgrace us not on the Day of Resurrection, for You never break (Your) promise)(3:194),
+
+وَقَالُوا الْحَمْدُ لِلَّهِ الَّذِي هَدَانَا لِهَٰذَا وَمَا كُنَّا لِنَهْتَدِيَ لَوْلَا أَنْ هَدَانَا اللَّهُ ۖ لَقَدْ جَاءَتْ رُسُلُ رَبِّنَا بِالْحَقِّ ۖ
+
+(and they will say: "All the praises and thanks be to Allah, Who has guided us to this, and never could we have found guidance, were it not that Allah had guided us! Indeed, the Messengers of our Lord came with the truth.")(7:43), and
+
+وَقَالُوا الْحَمْدُ لِلَّهِ الَّذِي أَذْهَبَ عَنَّا الْحَزَنَ ۖ إِنَّ رَبَّنَا لَغَفُورٌ شَكُورٌ - الَّذِي أَحَلَّنَا دَارَ الْمُقَامَةِ مِنْ فَضْلِهِ لَا يَمَسُّنَا فِيهَا نَصَبٌ وَلَا يَمَسُّنَا فِيهَا لُغُوبٌ
+
+(And they will say: "All the praises and thanks be to Allah Who has removed from us (all) grief. Verily, our Lord is indeed Oft-Forgiving, Most Ready to appreciate (good deeds). Who, out of His grace, has lodged us in a home that will last forever, where toil will touch us not nor weariness will touch us.")(35:34-35)
+
+وَأَوْرَثَنَا الْأَرْضَ نَتَبَوَّأُ مِنَ الْجَنَّةِ حَيْثُ نَشَاءُ ۖ فَنِعْمَ أَجْرُ الْعَامِلِينَ
+
+(and has made us inherit (this) land. We can dwell in Paradise where we will; how excellent a reward for the (pious) workers!)
+
+Abu Al-Aliyah, Abu Salih, Qatadah, As-Suddi and Ibn Zayd said, "This means the land of Paradise." This is like the Ayah:
+
+وَلَقَدْ كَتَبْنَا فِي الزَّبُورِ مِنْ بَعْدِ الذِّكْرِ أَنَّ الْأَرْضَ يَرِثُهَا عِبَادِيَ الصَّالِحُونَ
+
+(And indeed We have written in Az-Zabur after Adh-Dhikr that My righteous servants shall inherit the land.)(21:105) they will say:
+
+نَتَبَوَّأُ مِنَ الْجَنَّةِ حَيْثُ نَشَاءُ
+
+(We can dwell in Paradise where we will) meaning, 'wherever we want, we can settle; how excellent a reward for our efforts.'
+
+In the Two Sahihs, it was reported in the story of the Mi'raj which was narrated by Anas bin Malik, may Allah be pleased with him, that the Prophet ﷺ said:
+
+أُدْخِلْتُ الْجَنَّةَ، فَإِذَا فِيهَا جَنَابِذُ اللُّؤْلُؤِ، وَإِذَا تُرَابُهَا الْمِسْكُ
+
+(I was admitted into Paradise where I saw that its domes were pearls and its soil was musk.)"
 
 ### al-Tabari (Arabic)
 

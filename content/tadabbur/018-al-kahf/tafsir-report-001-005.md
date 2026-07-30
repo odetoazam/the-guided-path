@@ -234,9 +234,19 @@ The root meaning of Taqwa is to avoid what one dislikes. It was reported that 'U
 
 ٢٦١- حدثنا سفيان بن وكيع، قال: حدثنا أبي، عن سفيان، عن رجل، عن الحسن، قوله:"للمتقين" قال: اتَّقَوْا ما حُرِّم عليهم، وأدَّوا ما افتُرِض عليهم.
 
-٢٦٢- حدثنا محمد بن حُميد، قال: حدثنا سَلَمة بن الفضل، عن محمد بن إسحاق، عن محمد بن أبي محمد مولى زيد بن ثابت، عن عكرمة، أو عن سعيد بن جبير، عن ابن عباس:"للمتقين"، أي الذين يحذَرُون من الله عز وجل عقوبتَه في تَرْك ما يعرف
+٢٦٢- حدثنا محمد بن حُميد، قال: حدثنا سَلَمة بن الفضل، عن محمد بن إسحاق، عن محمد بن أبي محمد مولى زيد بن ثابت، عن عكرمة، أو عن سعيد بن جبير، عن ابن عباس:"للمتقين"، أي الذين يحذَرُون من الله عز وجل عقوبتَه في تَرْك ما يعرفون من الهُدى، ويرجون رحمَته بالتَّصديق بما جاء به.
 
-[TRUNCATED at 12000 chars — 2415 more. Consult the source directly before relying on anything near the cut.]
+٢٦٣- حدثني موسى بن هارون، قال: حدثنا عمرو بن حماد، قال: حدثنا أسباط، عن السُّدّي في خبر ذكره، عن أبي مالك، وعن أبي صالح، عن ابن عباس - وعن مُرّة الهَمْداني، عن ابن مسعود، وعن ناس من أصحاب النبي ﷺ:"هدًى للمتقين"، قال: هم المؤمنون.
+
+٢٦٤- حدثنا أبو كُريب، قال: حدثنا أبو بكر بن عيّاش، قال: سألني الأعمش عن"المتقين"، قال: فأجبتُه، فقال لي: سئل عنها الكَلْبَيّ. فسألتُه، فقال: الذين يَجتنِبُون كبائِرَ الإثم. قال: فرجَعْت إلى الأعمش، فقال: نُرَى أنه كذلك. ولم ينكره.
+
+٢٦٥- حدثني المثنى بن إبراهيم الطبري، قال: حدثنا إسحاق بن الحجاج، عن عبد الرحمن بن عبد الله، قال حدثنا عمر أبو حفص، عن سعيد بن أبي عَرُوبة، عن قتادة:"هدى للمتقين"، هم مَنْ نعتَهم ووصفَهم فأثبت صفتهم، فقال: ﴿الَّذِينَ يُؤْمِنُونَ بِالْغَيْبِ وَيُقِيمُونَ الصَّلاةَ وَمِمَّا رَزَقْنَاهُمْ يُنْفِقُونَ﴾ .
+
+٢٦٦- حدثنا أبو كريب، قال: حدثنا عثمان بن سعيد، قال: حدثنا بشر بن عُمَارة، عن أبي رَوق، عن الضحاك، عن ابن عباس:"للمتقين" قال: المؤمنين الذين يتَّقُون الشِّرك بي، ويعملون بطاعتي [[الآثار ٢٦١ - ٢٦٦ ساقها جميعًا ابن كثير في تفسيره ١: ٧١ - ٧٢، وبعضها في الدر المنثور ١: ٢٤، والشوكاني ١: ٢٢.]] .
+
+وأولى التأويلات بقول الله جل ثناؤه ﴿هدى للمتقين﴾ ، تأويلُ من وصَف القومَ بأنهم الذين اتَّقوُا اللهَ تبارك وتعالى في ركوب ما نهاهم عن ركوبه، فتجنبوا معاصِيَه، واتَّقوْه فيما أمرهم به من فرائضِه، فأطاعوه بأدائها. وذلك أنّ الله عزّ وجلّ وصَفهم بالتقوَى، فلم يحصُرْ تقواهم إياه على بعضِ ما هو أهلٌ له منهم دون بعض [[في المطبوعة: "وذلك أن الله عز وجل إنما وصفهم"، ولا فائدة من زيادة"إنما". ثم جاء في المخطوطة والمطبوعة: "فلم يحصر تقواهم إياه على بعضها من أهل منهم دون بعض"؛ وهو كلام مختلط، وصوابه ما أثبته، وهو معنى الكلام كما ترى بعد.]] . فليس لأحد من الناس أن يحصُر معنى ذلك، على وَصْفهم بشيء من تَقوى الله عز وجل دون شيء، إلا بحجة يجبُ التسليمُ لها. لأن ذلك من صفة القوم -لو كان محصورًا على خاصّ من معاني التقوى دون العامّ منها- لم يدعِ الله جل ثناؤه بيانَ ذلك لعباده: إما في كتابه، وإما على لسان رسوله ﷺ، إذْ لم يكن في العقل دليلٌ على استحالة وصفهم بعموم التقوى.
+
+فقد تبيّن إذًا بذلك فسادُ قول من زعم أن تأويل ذلك إنما هو: الذين اتَّقَوُا الشرك وبرئوا من النِّفاق. لأنه قد يكون كذلك، وهو فاسقٌ غيرُ مستَحِق أن يكون من المتقين، إلا أن يكون -عند قائل هذا القول- معنى النفاق: ركوبُ الفواحش التي حَرَّمها الله جل ثناؤه، وتضييعُ فرائضه التي فرضها عليه. فإن جماعةً من أهل العلم قد كانت تسمِّي من كان يفعل ذلك منافقًا. فيكون -وإن كان مخالفًا في تسميته من كان كذلك بهذا الاسم- مصيبًا تأويلَ قول الله عز وجل"للمتقين".
 
 ### al-Muyassar (Arabic)
 
@@ -2726,9 +2736,29 @@ Allah says,
 
 And Allah says,
 
-وَقَالُوا اتَّخَذَ الرَّحْمَٰنُ وَلَدًا ۗ سُبْحَانَهُ ۚ بَلْ عِبَادٌ مُّكْرَم
+وَقَالُوا اتَّخَذَ الرَّحْمَٰنُ وَلَدًا ۗ سُبْحَانَهُ ۚ بَلْ عِبَادٌ مُّكْرَمُونَ - لَا يَسْبِقُونَهُ بِالْقَوْلِ وَهُم بِأَمْرِهِ يَعْمَلُونَ
 
-[TRUNCATED at 12000 chars — 2037 more. Consult the source directly before relying on anything near the cut.]
+(And they say: "Ar-Rahman has begotten a son. Glory to Him! They are but honored servants. They speak not until He has spoken, and they act on His command.)(21:26-27)
+
+Allah also says,
+
+وَجَعَلُوا بَيْنَهُ وَبَيْنَ الْجِنَّةِ نَسَبًا ۚ وَلَقَدْ عَلِمَتِ الْجِنَّةُ إِنَّهُمْ لَمُحْضَرُونَ - سُبْحَانَ اللَّهِ عَمَّا يَصِفُونَ
+
+(And they have invented a kinship between Him and the Jinn, but the Jinn know well that they have indeed to appear before Him. Glorified is Allah! (He is free) from what they attribute unto Him!)(37:158-159)
+
+In Sahih Al-Bukhari, it is recorded (that that the Prophet ﷺ said),
+
+لَا أَحَدَ أَصْبَرُ عَلَى أَذًى سَمِعَهُ مِنَ اللهِ، يَجْعَلُونَ لَهُ وَلَدًا، وَهُوَ يَرْزُقُهُمْ وَيُعَافِيهِم
+
+(There is no one more patient with something harmful that he hears than Allah. They attribute a son to Him, while it is He Who gives them sustenance and cures them.)
+
+Al-Bukhari also recorded from Abu Hurayrah that the Prophet ﷺ said,
+
+قَالَ اللهُ عَزَّ وَجَلَّ: كَذَّبَنِي ابْنُ آدَمَ وَلَمْ يَكُنْ لَهُ ذَلِكَ، وَشَتَمَنِي وَلَمْ يَكُنْ لَهُ ذَلِكَ، فَأَمَّا تَكْذِيبُهُ إِيَّايَ فَقَوْلُهُ: لَنْ يُعِيدَنِي كَمَا بَدَأَنِي، وَلَيْسَ أَوَّلُ الْخَلْقِ بِأَهْوَنَ عَلَيَّ مِنْ إِعَادَتِهِ، وَأَمَّا شَتْمُهُ إِيَّايَ فَقَوْلُهُ: اتَّخَذَ اللهُ وَلَدًا، وَأَنَا الْأَحَدُ الصَّمَدُ، لَمْ أَلِدْ وَلَمْ أُولَدْ، وَلَمْ يَكُنْ لِي كُفُوًا أَحَدٌ
+
+(Allah the Mighty and Majestic says, "The Son of Adam denies Me and he has no right to do so, and he abuses Me and he has no right to do so. In reference to his denial of Me, it is his saying: 'He (Allah) will never re-create me like He created me before.' But the re-creation of him is easier than his original creation. As for his cursing Me, it is his saying: 'Allah has taken a son.' But I am the One, the Self-Sufficient Master. I do not give birth, nor was I born, and there is none comparable to Me.")
+
+This is the end of the Tafsir of Surat Al-Ikhlas, and all praise and blessings are due to Allah.
 
 ### al-Tabari (Arabic)
 
@@ -2906,9 +2936,11 @@ And Allah says,
 
 يعني: لا كِفَاء له: لا مثل له.
 
-واختلف القرّاء في قراءة قوله: ﴿كُفُوا﴾ . فقرأ ذلك عامة قرّاء البصرة: ﴿كُفُوا﴾ بضم الكاف والفاء. و
+واختلف القرّاء في قراءة قوله: ﴿كُفُوا﴾ . فقرأ ذلك عامة قرّاء البصرة: ﴿كُفُوا﴾ بضم الكاف والفاء. وقرأه بعض قرّاء الكوفة بتسكين الفاء وهمزها " كُفْئًا ".
 
-[TRUNCATED at 12000 chars — 185 more. Consult the source directly before relying on anything near the cut.]
+والصواب من القول في ذلك: أن يقال: إنهما قراءتان معروفتان، ولغتان مشهورتان، فبأيَّتِهِما قرأ القارئ فمصيب.
+
+آخر تفسير سورة الإخلاص
 
 ### al-Muyassar (Arabic)
 
@@ -3124,9 +3156,29 @@ Allah says,
 
 And Allah says,
 
-وَقَالُوا اتَّخَذَ الرَّحْمَٰنُ وَلَدًا ۗ سُبْحَانَهُ ۚ بَلْ عِبَادٌ مُّكْرَم
+وَقَالُوا اتَّخَذَ الرَّحْمَٰنُ وَلَدًا ۗ سُبْحَانَهُ ۚ بَلْ عِبَادٌ مُّكْرَمُونَ - لَا يَسْبِقُونَهُ بِالْقَوْلِ وَهُم بِأَمْرِهِ يَعْمَلُونَ
 
-[TRUNCATED at 12000 chars — 2037 more. Consult the source directly before relying on anything near the cut.]
+(And they say: "Ar-Rahman has begotten a son. Glory to Him! They are but honored servants. They speak not until He has spoken, and they act on His command.)(21:26-27)
+
+Allah also says,
+
+وَجَعَلُوا بَيْنَهُ وَبَيْنَ الْجِنَّةِ نَسَبًا ۚ وَلَقَدْ عَلِمَتِ الْجِنَّةُ إِنَّهُمْ لَمُحْضَرُونَ - سُبْحَانَ اللَّهِ عَمَّا يَصِفُونَ
+
+(And they have invented a kinship between Him and the Jinn, but the Jinn know well that they have indeed to appear before Him. Glorified is Allah! (He is free) from what they attribute unto Him!)(37:158-159)
+
+In Sahih Al-Bukhari, it is recorded (that that the Prophet ﷺ said),
+
+لَا أَحَدَ أَصْبَرُ عَلَى أَذًى سَمِعَهُ مِنَ اللهِ، يَجْعَلُونَ لَهُ وَلَدًا، وَهُوَ يَرْزُقُهُمْ وَيُعَافِيهِم
+
+(There is no one more patient with something harmful that he hears than Allah. They attribute a son to Him, while it is He Who gives them sustenance and cures them.)
+
+Al-Bukhari also recorded from Abu Hurayrah that the Prophet ﷺ said,
+
+قَالَ اللهُ عَزَّ وَجَلَّ: كَذَّبَنِي ابْنُ آدَمَ وَلَمْ يَكُنْ لَهُ ذَلِكَ، وَشَتَمَنِي وَلَمْ يَكُنْ لَهُ ذَلِكَ، فَأَمَّا تَكْذِيبُهُ إِيَّايَ فَقَوْلُهُ: لَنْ يُعِيدَنِي كَمَا بَدَأَنِي، وَلَيْسَ أَوَّلُ الْخَلْقِ بِأَهْوَنَ عَلَيَّ مِنْ إِعَادَتِهِ، وَأَمَّا شَتْمُهُ إِيَّايَ فَقَوْلُهُ: اتَّخَذَ اللهُ وَلَدًا، وَأَنَا الْأَحَدُ الصَّمَدُ، لَمْ أَلِدْ وَلَمْ أُولَدْ، وَلَمْ يَكُنْ لِي كُفُوًا أَحَدٌ
+
+(Allah the Mighty and Majestic says, "The Son of Adam denies Me and he has no right to do so, and he abuses Me and he has no right to do so. In reference to his denial of Me, it is his saying: 'He (Allah) will never re-create me like He created me before.' But the re-creation of him is easier than his original creation. As for his cursing Me, it is his saying: 'Allah has taken a son.' But I am the One, the Self-Sufficient Master. I do not give birth, nor was I born, and there is none comparable to Me.")
+
+This is the end of the Tafsir of Surat Al-Ikhlas, and all praise and blessings are due to Allah.
 
 ### al-Tabari (Arabic)
 
@@ -3304,9 +3356,11 @@ And Allah says,
 
 يعني: لا كِفَاء له: لا مثل له.
 
-واختلف القرّاء في قراءة قوله: ﴿كُفُوا﴾ . فقرأ ذلك عامة قرّاء البصرة: ﴿كُفُوا﴾ بضم الكاف والفاء. و
+واختلف القرّاء في قراءة قوله: ﴿كُفُوا﴾ . فقرأ ذلك عامة قرّاء البصرة: ﴿كُفُوا﴾ بضم الكاف والفاء. وقرأه بعض قرّاء الكوفة بتسكين الفاء وهمزها " كُفْئًا ".
 
-[TRUNCATED at 12000 chars — 185 more. Consult the source directly before relying on anything near the cut.]
+والصواب من القول في ذلك: أن يقال: إنهما قراءتان معروفتان، ولغتان مشهورتان، فبأيَّتِهِما قرأ القارئ فمصيب.
+
+آخر تفسير سورة الإخلاص
 
 ### al-Muyassar (Arabic)
 
@@ -3512,9 +3566,29 @@ Allah says,
 
 And Allah says,
 
-وَقَالُوا اتَّخَذَ الرَّحْمَٰنُ وَلَدًا ۗ سُبْحَانَهُ ۚ بَلْ عِبَادٌ مُّكْرَم
+وَقَالُوا اتَّخَذَ الرَّحْمَٰنُ وَلَدًا ۗ سُبْحَانَهُ ۚ بَلْ عِبَادٌ مُّكْرَمُونَ - لَا يَسْبِقُونَهُ بِالْقَوْلِ وَهُم بِأَمْرِهِ يَعْمَلُونَ
 
-[TRUNCATED at 12000 chars — 2037 more. Consult the source directly before relying on anything near the cut.]
+(And they say: "Ar-Rahman has begotten a son. Glory to Him! They are but honored servants. They speak not until He has spoken, and they act on His command.)(21:26-27)
+
+Allah also says,
+
+وَجَعَلُوا بَيْنَهُ وَبَيْنَ الْجِنَّةِ نَسَبًا ۚ وَلَقَدْ عَلِمَتِ الْجِنَّةُ إِنَّهُمْ لَمُحْضَرُونَ - سُبْحَانَ اللَّهِ عَمَّا يَصِفُونَ
+
+(And they have invented a kinship between Him and the Jinn, but the Jinn know well that they have indeed to appear before Him. Glorified is Allah! (He is free) from what they attribute unto Him!)(37:158-159)
+
+In Sahih Al-Bukhari, it is recorded (that that the Prophet ﷺ said),
+
+لَا أَحَدَ أَصْبَرُ عَلَى أَذًى سَمِعَهُ مِنَ اللهِ، يَجْعَلُونَ لَهُ وَلَدًا، وَهُوَ يَرْزُقُهُمْ وَيُعَافِيهِم
+
+(There is no one more patient with something harmful that he hears than Allah. They attribute a son to Him, while it is He Who gives them sustenance and cures them.)
+
+Al-Bukhari also recorded from Abu Hurayrah that the Prophet ﷺ said,
+
+قَالَ اللهُ عَزَّ وَجَلَّ: كَذَّبَنِي ابْنُ آدَمَ وَلَمْ يَكُنْ لَهُ ذَلِكَ، وَشَتَمَنِي وَلَمْ يَكُنْ لَهُ ذَلِكَ، فَأَمَّا تَكْذِيبُهُ إِيَّايَ فَقَوْلُهُ: لَنْ يُعِيدَنِي كَمَا بَدَأَنِي، وَلَيْسَ أَوَّلُ الْخَلْقِ بِأَهْوَنَ عَلَيَّ مِنْ إِعَادَتِهِ، وَأَمَّا شَتْمُهُ إِيَّايَ فَقَوْلُهُ: اتَّخَذَ اللهُ وَلَدًا، وَأَنَا الْأَحَدُ الصَّمَدُ، لَمْ أَلِدْ وَلَمْ أُولَدْ، وَلَمْ يَكُنْ لِي كُفُوًا أَحَدٌ
+
+(Allah the Mighty and Majestic says, "The Son of Adam denies Me and he has no right to do so, and he abuses Me and he has no right to do so. In reference to his denial of Me, it is his saying: 'He (Allah) will never re-create me like He created me before.' But the re-creation of him is easier than his original creation. As for his cursing Me, it is his saying: 'Allah has taken a son.' But I am the One, the Self-Sufficient Master. I do not give birth, nor was I born, and there is none comparable to Me.")
+
+This is the end of the Tafsir of Surat Al-Ikhlas, and all praise and blessings are due to Allah.
 
 ### al-Tabari (Arabic)
 
@@ -3692,9 +3766,11 @@ And Allah says,
 
 يعني: لا كِفَاء له: لا مثل له.
 
-واختلف القرّاء في قراءة قوله: ﴿كُفُوا﴾ . فقرأ ذلك عامة قرّاء البصرة: ﴿كُفُوا﴾ بضم الكاف والفاء. و
+واختلف القرّاء في قراءة قوله: ﴿كُفُوا﴾ . فقرأ ذلك عامة قرّاء البصرة: ﴿كُفُوا﴾ بضم الكاف والفاء. وقرأه بعض قرّاء الكوفة بتسكين الفاء وهمزها " كُفْئًا ".
 
-[TRUNCATED at 12000 chars — 185 more. Consult the source directly before relying on anything near the cut.]
+والصواب من القول في ذلك: أن يقال: إنهما قراءتان معروفتان، ولغتان مشهورتان، فبأيَّتِهِما قرأ القارئ فمصيب.
+
+آخر تفسير سورة الإخلاص
 
 ### al-Muyassar (Arabic)
 
@@ -3900,9 +3976,29 @@ Allah says,
 
 And Allah says,
 
-وَقَالُوا اتَّخَذَ الرَّحْمَٰنُ وَلَدًا ۗ سُبْحَانَهُ ۚ بَلْ عِبَادٌ مُّكْرَم
+وَقَالُوا اتَّخَذَ الرَّحْمَٰنُ وَلَدًا ۗ سُبْحَانَهُ ۚ بَلْ عِبَادٌ مُّكْرَمُونَ - لَا يَسْبِقُونَهُ بِالْقَوْلِ وَهُم بِأَمْرِهِ يَعْمَلُونَ
 
-[TRUNCATED at 12000 chars — 2037 more. Consult the source directly before relying on anything near the cut.]
+(And they say: "Ar-Rahman has begotten a son. Glory to Him! They are but honored servants. They speak not until He has spoken, and they act on His command.)(21:26-27)
+
+Allah also says,
+
+وَجَعَلُوا بَيْنَهُ وَبَيْنَ الْجِنَّةِ نَسَبًا ۚ وَلَقَدْ عَلِمَتِ الْجِنَّةُ إِنَّهُمْ لَمُحْضَرُونَ - سُبْحَانَ اللَّهِ عَمَّا يَصِفُونَ
+
+(And they have invented a kinship between Him and the Jinn, but the Jinn know well that they have indeed to appear before Him. Glorified is Allah! (He is free) from what they attribute unto Him!)(37:158-159)
+
+In Sahih Al-Bukhari, it is recorded (that that the Prophet ﷺ said),
+
+لَا أَحَدَ أَصْبَرُ عَلَى أَذًى سَمِعَهُ مِنَ اللهِ، يَجْعَلُونَ لَهُ وَلَدًا، وَهُوَ يَرْزُقُهُمْ وَيُعَافِيهِم
+
+(There is no one more patient with something harmful that he hears than Allah. They attribute a son to Him, while it is He Who gives them sustenance and cures them.)
+
+Al-Bukhari also recorded from Abu Hurayrah that the Prophet ﷺ said,
+
+قَالَ اللهُ عَزَّ وَجَلَّ: كَذَّبَنِي ابْنُ آدَمَ وَلَمْ يَكُنْ لَهُ ذَلِكَ، وَشَتَمَنِي وَلَمْ يَكُنْ لَهُ ذَلِكَ، فَأَمَّا تَكْذِيبُهُ إِيَّايَ فَقَوْلُهُ: لَنْ يُعِيدَنِي كَمَا بَدَأَنِي، وَلَيْسَ أَوَّلُ الْخَلْقِ بِأَهْوَنَ عَلَيَّ مِنْ إِعَادَتِهِ، وَأَمَّا شَتْمُهُ إِيَّايَ فَقَوْلُهُ: اتَّخَذَ اللهُ وَلَدًا، وَأَنَا الْأَحَدُ الصَّمَدُ، لَمْ أَلِدْ وَلَمْ أُولَدْ، وَلَمْ يَكُنْ لِي كُفُوًا أَحَدٌ
+
+(Allah the Mighty and Majestic says, "The Son of Adam denies Me and he has no right to do so, and he abuses Me and he has no right to do so. In reference to his denial of Me, it is his saying: 'He (Allah) will never re-create me like He created me before.' But the re-creation of him is easier than his original creation. As for his cursing Me, it is his saying: 'Allah has taken a son.' But I am the One, the Self-Sufficient Master. I do not give birth, nor was I born, and there is none comparable to Me.")
+
+This is the end of the Tafsir of Surat Al-Ikhlas, and all praise and blessings are due to Allah.
 
 ### al-Tabari (Arabic)
 
@@ -4080,9 +4176,11 @@ And Allah says,
 
 يعني: لا كِفَاء له: لا مثل له.
 
-واختلف القرّاء في قراءة قوله: ﴿كُفُوا﴾ . فقرأ ذلك عامة قرّاء البصرة: ﴿كُفُوا﴾ بضم الكاف والفاء. و
+واختلف القرّاء في قراءة قوله: ﴿كُفُوا﴾ . فقرأ ذلك عامة قرّاء البصرة: ﴿كُفُوا﴾ بضم الكاف والفاء. وقرأه بعض قرّاء الكوفة بتسكين الفاء وهمزها " كُفْئًا ".
 
-[TRUNCATED at 12000 chars — 185 more. Consult the source directly before relying on anything near the cut.]
+والصواب من القول في ذلك: أن يقال: إنهما قراءتان معروفتان، ولغتان مشهورتان، فبأيَّتِهِما قرأ القارئ فمصيب.
+
+آخر تفسير سورة الإخلاص
 
 ### al-Muyassar (Arabic)
 

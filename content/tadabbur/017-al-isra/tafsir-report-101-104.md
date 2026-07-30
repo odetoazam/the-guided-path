@@ -736,9 +736,67 @@ They did not keep any of the promises they made, and Allah sent the blood, and t
 
 يقول: لسنا كإياد التي آتتك الرهائن فأنها نزلت تكريت تنظر ما يحصد من الزرع من سنة إلى سنة، فهم حراثون، قد قملوا، فقام أبناؤهم يعالجون القمل، ويجرون السلاسل ليشدوها على الأجران، ويجهدون في تغليق أبوابها. أما نحن، فالله قد جعل إبلنا رزقنا، ضمنت لنا من ألبانها طعاماً لا ينفد، ونزعنا عن أعناقنا ربقة عبودية القرى والأمصار، إلى حرية البادية، نغدو فيها ونروح، ليس لك علينا سلطان. وهذا من شعر أحرار العرب. و ((الأجد)) (بضمتين) : القوى الموثق. يقال: ((ناقة أجد)) ، قوية وثيقة التركيب. و ((ناقة مؤجدة القرى)) ، مثله. ويقال: ((الحمد لله الذي آجدنى بعد ضعف)) ، أي: قوانى. و ((المؤصد)) من ((أوصد الباب)) أغلقه وأطبقه، فهو ((موصد)) و ((مؤصد)) بالهمز، ومثله قوله تعالى ذكره: ((إنها عليهم مؤصدة)) بالهمز، أي مطبقة.]] وكان الفراء يقول: لم أسمع فيه شيئًا، فإن لم يكن جمعًا، فواحده "قامل"، مثل "ساجد" و"راكع"، [[في المطبوعة: ((فإن لم يكن جمعاً)) ، بزيادة ((لم)) وهي مفسدة للكلام، والصواب من المخطوطة.]] وإن يكن اسمًا على معنى جمع، [[لم أجد هذا في معاني القرآن للفراء، في هذا الموضع من تفسير الآية. انظر معاني القرآن للفراء ١: ٣٩٣، بل قال الفراء هنا: ((القمل، وهو الدبى الذي لا أجنحة له)) ، ولم يزد.]] فواحدته: "قملة". * ذكر المعاني التي حدثت في قوم فرعون بحدوث هذه الآيات، والسبب الذي من أجله أحدَثها الله فيهم.
 
-١٥٠١٤ - حدثنا ابن حميد قال: حدثنا يعقوب القمي، عن جعفر بن المغيرة، عن سعيد بن جبير قال: لما أتى موسى فرعون قال له: أرسل معي بني إسرائيل! فأبى عليه، فأرسل الله عليهم الطوفان = وهو المطر = فصبّ عليهم منه شيئًا، فخافوا أن يكون عذابًا، فقالوا لموسى: ادع لنا ربّك أن يكشف عنا المطر، فنؤمن لك ونرسل معك بني إسرائيل [[(٣) في المطبوعة: ((ادع لنا ربك لئن كشفت عنا الرجز لنؤمنن لك ولنرسلن معك بنى إسرائيل)) ، غير ما في المخطوطة، ولم يكتب نص آية ((سورة الأعراف)) : ١٣٤. وكان في المخطوطة ما أثبته، إلا أنه كتب: ((لئن كشف عنا المطر فتؤمن لك)) وصواب الجملة ما أثبت إن شاء الله.]] ، فدعا ربه، فلم يؤمنوا، ولم يرسلوا معه بني إسرائيل، فأنبت لهم في تلك السنة شيئًا لم ينبته قبل ذلك من الزرع والثمر والكلأ. فقالوا: هذا ما كنا نتمنَّى، فأرسل الله عليهم الجراد، فسلَّطه على الكلأ فلما رأوا أثَره في الكلأ عرفوا أنه لا يُبقى الزرع. فقالوا: يا مو
+١٥٠١٤ - حدثنا ابن حميد قال: حدثنا يعقوب القمي، عن جعفر بن المغيرة، عن سعيد بن جبير قال: لما أتى موسى فرعون قال له: أرسل معي بني إسرائيل! فأبى عليه، فأرسل الله عليهم الطوفان = وهو المطر = فصبّ عليهم منه شيئًا، فخافوا أن يكون عذابًا، فقالوا لموسى: ادع لنا ربّك أن يكشف عنا المطر، فنؤمن لك ونرسل معك بني إسرائيل [[(٣) في المطبوعة: ((ادع لنا ربك لئن كشفت عنا الرجز لنؤمنن لك ولنرسلن معك بنى إسرائيل)) ، غير ما في المخطوطة، ولم يكتب نص آية ((سورة الأعراف)) : ١٣٤. وكان في المخطوطة ما أثبته، إلا أنه كتب: ((لئن كشف عنا المطر فتؤمن لك)) وصواب الجملة ما أثبت إن شاء الله.]] ، فدعا ربه، فلم يؤمنوا، ولم يرسلوا معه بني إسرائيل، فأنبت لهم في تلك السنة شيئًا لم ينبته قبل ذلك من الزرع والثمر والكلأ. فقالوا: هذا ما كنا نتمنَّى، فأرسل الله عليهم الجراد، فسلَّطه على الكلأ فلما رأوا أثَره في الكلأ عرفوا أنه لا يُبقى الزرع. فقالوا: يا موسى ادْع لنا ربك فيكشف عنا الجرادَ فنؤمن لك، ونرسل معك بني إسرائيل! فدعا ربه، فكشف عنهم الجرادَ، فلم يؤمنوا، ولم يرسلوا معه بني إسرائيل، فدَاسُوا وأحرزُوا في البيوت، [[((داس الناس الحب)) درسوه. و ((أحرز الشيء)) : ضمه وحفظه، وصانه عن الأخذ.]] فقالوا: قد أحرزْنَا فأرسل الله عليهم القُمَّل = وهو السوس الذي يخرج منه = فكان الرجل يخرج عشرة أجرِبة ٍإلى الرحى، فلا يردّ منها ثلاثة أقفِزة. فقالوا: يا موسى، ادع لنا ربك يكشف عنا القمَّل، فنؤمن لك ونرسل معك بني إسرائيل! فدعا ربه، فكشف عنهم، فأبوا أن يرسلوا معه بني إسرائيل. فبينا هو جالس عند فرعون، إذ سمع نقيق ضِفْدَع، فقال لفرعون: ما تلقى أنت وقومك من هذا! فقال: وما عسى أن يكون كيدُ هذا! فما أمسوا حتى كان الرجل يجلس إلى ذَقْنه في الضفادع، ويهمُّ أن يتكلم فتثب الضفادع في فيه. فقالوا لموسى: ادع لنا ربك يكشف عنا هذه الضفادع، فنؤمن لك، ونرسل معك بني إسرائيل! [فكشف عنهم فلم يؤمنوا] [[ما بين القوسين، ليس في المخطوطة، وفي المخطوطة عند هذا الوضع، حرف (ط) بين ((إسرائيل)) و ((فأرسل)) و (ط) أخرى في الهامش، دلالة على الخطأ. والذي في المطبوعة صواب إن شاء الله.]] فأرسل الله عليهم الدم، فكان ما استقوا من الأنهار والآبار، أو ما كان في أوعيتهم وجدُوه دمًا عَبِطًا، [[((الدم العبيط)) ، هو الطرى.]] فشكوا إلى فرعون فقالوا: إنا قد ابتلينا بالدّم، وليس لنا شراب! فقال: إنه قد سحركم! فقالوا: من أين سحرنا، ونحن لا نجد في أوعيتنا شيئًا من الماءِ إلا وجدناه دمًا عبيطًا؟ فأتوه فقالوا: يا موسى ادعُ لنا ربك يكشف عنا هذا الدم، فنؤمن لك، ونرسل معك بني إسرائيل! فدعا ربه فكشف عنهم، فلم يؤمنوا، ولم يرسلوا معه بني إسرائيل.
 
-[TRUNCATED at 12000 chars — 18384 more. Consult the source directly before relying on anything near the cut.]
+١٥٠١٥ - حدثنا ابن وكيع قال، حدثنا حبوية أبو يزيد، عن يعقوب القمي، عن جعفر، عن ابن عباس قال، لما خافوا الغرق، قال فرعون: يا موسى، ادع لنا ربك يكشف عنّا هذا المطر، فنؤمن لك = ثم ذكر نحو حديث ابن حميد، عن يعقوب. [[الأثر: ١٥٠١٥ - ((حبويه)) ، ((أبو يزيد)) ، هو ((إسحاق بن إسماعيل الرازي)) ، مضى برقم ١٤٣٦٥، ١٤٥٥٠، ١٤٩٥٦، ١٤٩٨٩، وكان في المطبوعة هنا ((حبوبة الرازي)) ، والصواب من المخطوطة، ومن تحقيق ذلك فيما سلف من الأرقام التي ذكرتها.]]
+
+١٥٠١٦ - حدثنا موسى بن هارون قال، حدثنا عمرو بن حماد قال، حدثنا أسباط، عن السدي قال: ثم إن الله أرسل عليهم = يعني على قوم فرعون = الطوفان، وهو المطر، فغرق كل شيء لهم، فقالوا: يا موسى ادع لنا ربَّك يكشف عنَّا، ونحن نؤمن لك، ونرسل معك بني إسرائيل! فكشف الله عنهم، [[(١) في المطبوعة: ((فكشف الله عنهم)) ، واثبت ما في المخطوطة والتاريخ.]] ونبتت به زروعهم، فقالوا: ما يسرّنا أنا لم نمطر. فبعث الله عليهم الجراد، فأكل حروثهم، فسألوا موسى أن يدعو ربّه، فيكشفه، ويؤمنوا به. فدعا فكشفه، وقد بقي من زروعهم بقيّة فقالوا: لم تؤمنون، وقد بقي من زرعنا بقيه تكفينا؟ فبعث الله عليهم الدَّبى = وهو القمل = فلحس الأرض كلها، [[(٢) ((لحس الجراد النبات)) إذا أكله ولم يبق منه شيء، ومنه قيل لسنوات القحط الشداد " اللواحس" لأنها تلحس كل شيء.]] وكان يدخل بين ثوب أحدهم وبين جلده فيعضُّه، وكان لأحدهم الطعام فيمتلئ دَبًى، حتى إن أحدهم ليبني الأسطوانة بالجصّ، فيزلّقُها حتى لا يرتقي فوقها شيء، [[((زلق البناء أو المكان تزليقًا)) ، إذا ملسه حتي لايثبت عليه شيء.]] يرفع فوقها الطعام، فإذا صعد إليه ليأكله وجده ملآن دَبًى، فلم يصابوا ببلاء كان أشدَّ عليهم من الدبى = وهو "الرِّجْز" الذي ذكر الله في القرآن أنه وقع عليهم = فسألوا موسى أن يدعو ربه فيكشف عنهم ويؤمنوا به، فلما كُشف عنهم، أبوا أن يؤمنوا، فأرسل الله عليهم الدَّم، فكان الإسرائيلي يأتي هو والقِبْطي يستقيان من ماء واحد، فيخرج ماءُ هذا القبطي دمًا، ويخرج للإسرائيلي ماءً. فلما اشتدَّ ذلك عليهم، سألوا موسى أن يكشفه ويؤمنوا به، فكشف ذلك، فأبوا أن يؤمنوا، وذلك حين يقول الله: ﴿فَلَمَّا كَشَفْنَا عَنْهُمُ الْعَذَابَ إِذَا هُمْ يَنْكُثُونَ﴾ ، [الزخرف: ٥٠] [[الأثر: ١٥٠١٦- هو جزء من خبر طويل رواه أبو جعفر في تاريخه ١: ٢١١، ٢١٢]]
+
+١٥٠١٧ - حدثنا محمد بن عبد الأعلى قال، حدثنا محمد بن ثور، عن معمر، عن قتادة: ﴿فأرسلنا عليهم الطوفان﴾ ، قال: أرسل الله عليهم الماءَ حتى قاموا فيه قيامًا. ثم كشف عنهم فلم يؤمنوا، [[في المخطوطة: ٠ ((ثم كشف عنهم فلم ينتفعوا)) وتركت ما في المطبوعة علي حاله، لقوله في الأخرى: ((فلم يؤمنوا أيضاً)) .]] وأخصبت بلادهم خصبًا لم تخصب مثله، فأرسل الله عليه الجرادَ فأكله إلا قليلا فلم يؤمنوا أيضًا. فأرسل الله القمّل = وهي الدَّبى، وهي أولاد الجراد = فأكلت ما بقي من زروعهم، فلم يؤمنوا. فأرسل عليهم الضفادع، فدخلت عليهم بيوتهم، ووقعت في آنيتهم وفُرشهم، فلم يؤمنوا. ثم أرسل الله عليهم الدمَ، فكان أحدهم إذا أراد أن يشرب تحوَّل ذلك الماء دمًا، قال الله: ﴿آيات مفصلات﴾ .
+
+١٥٠١٨ - حدثنا بشر بن معاذ قال، حدثنا يزيد بن زريع قال، حدثنا سعيد، عن قتادة قوله: ﴿فأرسلنا عليهم الطوفان﴾ ، حتى بلغ: ﴿مجرمين﴾ ، قال: أرسل الله عليهم الماء حتى قاموا فيه قيامًا، فدعوا موسى، فدعا ربّه فكشفه عنهم، ثم عادوا لسوء ما يحضر بهم. ثم أنبتت أرضهم، ثم أرسل الله عليهم الجراد، فأكل عامة حُروثهم وثمارهم. ثم دعوا موسى فدعا ربه فكشف عنهم، ثم عادوا بشرِّ ما يحضر بهم. فأرسل الله عليهم القمل، هذا الدبى الذي رأيتم، فأكل ما أبقى الجراد من حُروثهم، فلحسه. فدعوا موسى، فدعا ربه فكشفه عنهم، ثم عادوا بشرّ ما يحضر بهم. ثم أرسل الله عليهم الضفادع حتى ملأت بيوتهم وأفنيتهم. فدعوا موسى، فدعا ربه فكشف عنهم. ثم عادوا بشرّ ما يحضر بهم، فأرسل الله عليهم الدم، فكانوا لا يغترفون من مائهم إلا دمًا أحمر، حتى لقد ذُكر أنَّ عدو الله فرعون، كان يجمع بين الرجلين على الإناء الواحد، القبطي والإسرائيلي، فيكون مما يلي الإسرائيلي ماءً، ومما يلي القبطي دمًا. فدعوا موسى، فدعا ربه، فكشفه عنهم في تسع آياتٍ: السنين، ونقص من الثمرات، وأراهم يدَ موسى عليه السلام وعصاه.
+
+١٥٠١٩ - حدثني المثنى قال، حدثنا عبد الله بن صالح قال، حدثني معاوية، عن علي، عن ابن عباس: ﴿فارسلنا عليهم الطوفان﴾ ، وهو المطر، حتى خافوا الهلاك، فأتوا موسى فقالوا: يا موسى ادع لنا ربك أن يكشف عنّا المطر، [إنا نؤمن لك ونرسل معك بني إسرائيل، فدعا ربّه فكشف عنهم المطر] ، [[في المخطوطة، أسقط ما بين القوسين، وإثباته حق الكلام.]] فأنبت الله به حرثهم، وأخصب به بلادهم، فقالوا: ما نحبُّ أنا لم نُمطر بترك ديننا، فلن نؤمن لك، ولن نرسل معك بني إسرائيل! فأرسل الله عليهم الجراد، فأسرعَ في فسادِ ثمارهم وزروعهم، فقالوا: يا موسى، ادع لنا ربك [أن يكشف عنا الجراد، فإنا سنؤمن لك ونرسل معك بني إسرائيل!] . [[ما بين القوسين، ليس في المخطوطة.]] فدعا ربه، فكشف عنهم الجراد. وكان قد بقي من زروعهم ومعاشهم بقايا، فقالوا، قد بقي لنا ما هو كافينا، فلن نؤمن لك، ولن نرسل معك بني إسرائيل. فأرسل الله عليهم القُمَّل = وهو الدَّبى = فتتبع ما كان ترك الجراد، فجزعوا وأحسُّوا بالهلاك، قالوا: يا موسى ادع لنا ربك يكشف عنا الدَّبى، فإنا سنؤمن لك، ونرسل معك بني إسرائيل! فدعا ربه، فكشف عنهم الدَّبى، فقالوا: ما نحن لك بمؤمنين، ولا مرسلين معك بني إسرائيل! فأرسل الله عليهم الضفادع، فملأ بيوتهم منها، ولقُوا منها أذًى شديدًا لم يلقوا مثله فيما كان قبله، أنها كانت تثبُ في قدورهم، فتفسد عليهم طعامهم، وتطفئ نيرانهم. قالوا: يا موسىادع لنا ربك أن يكشف عنا الضفادع، فقد لقينا منها بلاءً وأذًى، فإنا سنؤمن لك ونرسل معك بني إسرائيل! فدعا ربه، فكشف عنهم الضفادع، فقالوا: لا نؤمن لك، ولا نرسل معك بني إسرائيل! فأرسل الله عليهم الدّم، فجعلوا لا يأكلون إلا الدم، ولا يشربون إلا الدم، فقالوا: يا موسى، ادع لنا ربك أن يكشف عنّا الدم، فإنا سنؤمن لك، ونرسل معك بني إسرائيل! فدعا ربه، فكشف عنهم الدم، فقالوا: يا موسى، لن نؤمن لك، ولن نرسل معك بني إسرائيل! فكانت آيات مفصَّلات بعضها على إثر بعض، ليكون لله عليهم الحجة، فأخذهم الله بذنوبهم، فأغرقهم في اليمّ.
+
+١٥٠٢٠ - حدثني عبد الكريم قال، حدثنا إبراهيم قال، حدثنا سفيان قال، حدثنا أبو سعد، عن عكرمة، عن ابن عباس قال: أرسل على قوم فرعون الآيات: الجراد، والقمّل، والضفادع، والدم، آياتٌ مفصّلات. قال: فكان الرجل من بني إسرائيل يركبُ مع الرجل من قوم فرعون في السّفينة، فيغترف الإسرائيلي ماءً، ويغترف الفرعوني دمًا. قال: وكان الرجل من قوم فرعون ينام في جانب، فيكثر عليه القمل والضفادع حتى لا يقدر أن ينقلب على الجانب الآخر. فلم يزالوا كذلك حتى أوحى الله إلى موسى: أنْ أسْرِ بعبادِي إنكم متَّبعون.
+
+١٥٠٢١ - حدثني محمد بن سعد قال، حدثني أبي قال، حدثني عمي قال، حدثني أبي، عن أبيه، عن ابن عباس قال: لما أتى موسى فرعون بالرسالة، أبى أن يؤمن وأن يرسل معه بني إسرائيل، فاستكبر قال: لن أرسل معك بني إسرائيل! [[في المطبوعة: ((لن نرسل)) ، وأثبت مافي المخطوطة.]] فأرسل الله عليهم الطوفان = وهو الماء = أمطر عليهم السماء، حتى كادوا يهلكون، وامتنع منهم كل شيء، فقالوا: يا موسى، ادع لنا ربك بما عهد عندك، لئن كشفت عنّا هذا لنؤمننّ لك ولنرسلن معك بني إسرائيل! فدعا الله فكشف عنهم المطر، فأنبت الله لهم حُروثهم، وأحيا بذلك المطر كل شيء من بلادهم، فقالوا: والله ما نحبَّ أنا لم نكن أمطرنا هذا المطر، ولقد كان خيرًا لنا، فلن نرسل معك بني إسرائيل، ولن نؤمن لك يا موسى! فبعث الله عليهم الجراد، فأكل عامة حروثهم، وأسرع الجراد في فسادِها، فقالوا: يا موسى، ادع لنا ربك يكشف عنا الجراد، فإنا مؤمنون لك، ومرسلون معك بني إسرائيل! فكشف الله عنهم الجراد. وكان الجراد قد أبقى لهم من حروثهم بقيَّة، فقالوا: قد بَقي لنا من حروثنا ما كان كافِينَا، فما نحن بتاركي ديننا، ولن نؤمن لك، ولن نرسل معك بني إسرائيل! فأرسل الله عليهم القمّل = و"القمّل"، الدبى، وهو الجراد الذي ليست له أجنحة = فتتبع ما بقي من حروثهم وشجرهم وكل نبات كان لهم، فكان القمّل أشدّ عليهم من الجراد، فلم يستطيعوا للقمل حيلةً، وجزعوا من ذلك. وأتوا موسى، فقالوا: يا موسى، ادع لنا ربك يكشف عنا القمل، فإنه لم يبق لنا شيئًا، قد أكل ما بقي من حروثنا، ولئن كشفت عنا القمل لنؤمنن لك، ولنرسلن معك بني إسرائيل! فكشف الله عنهم القمل، فنكثوا، وقالوا: لن نؤمن لك، ولن نرسل معك بني إسرائيل! فأرسل الله عليهم الضفادع، فامتلأت منها البيوتُ، فلم يبق لهم طعام ولا شراب إلا وفيه الضفادع، فلقوا منها شيئًا لم يلقوه فيما مضى، فقالوا: يا موسى ادع لنا ربّك لئن كشفت عنا الرِّجز لنؤمنن لك ولنرسلن معك بني إسرائيل! قال: فكشف الله عنهم، فلم يفعلوا، فأنزل الله: ﴿فلمَّا كشفنا عنهم الرجز إلى أجل هم بالغوه إذا هم ينكثون﴾ ، إلى: ﴿وكانوا عنها غافلين﴾ .
+
+١٥٠٢٢ - حدثنا ابن حميد قال، حدثنا أبو تميلة قال، حدثنا الحسن بن واقد، عن زيد، عن عكرمة، عن ابن عباس قال: كانت الضفادع برِّية، فلما أرسلها الله على آل فرعون، سمعت وأطاعت، فجعلت تغرق أنفسها في القُدُور وهي تغلي، وفي التنانير وهي تفور، فأثابها الله بحسن طاعتها بَرْدَ الماء.
+
+١٥٠٢٣ - حدثنا ابن حميد، قال، حدثنا سلمة، عن ابن إسحاق قال: فرجع عدوّ الله = يعني فرعون، حين آمنت السحرة = مغلوبًا مغلولا ثم أبى إلا الإقامة على الكفر، والتماديَ في الشر، فتابع الله عليه بالآيات، وأخذه بالسنين، فأرسل عليه الطوفان، ثم الجراد، ثم القمل، ثم الضفادع، ثم الدم، آيات مفصلات،، فأرسل الطوفان = وهو الماء = ففاض على وجه الأرض، ثم ركد، لا يقدرون على أن يحرُثوا، ولا يعملوا شيئًا، حتى جُهِدوا جوعًا؛ فلما بلغهم ذلك، قالوا: يا موسى، ادع لنا ربك لئن كشفت عنا الرجز لنؤمنن لك، ولنرسلن معك بني إسرائيل! فدعا موسى ربه، فكشفه عنهم، فلم يفُوا له بشيء مما قالوا، فأرسل الله عليهم الجراد، فأكل الشجر، فيما بلغني، حتى إنْ كان ليأكل مساميرَ الأبواب من الحديد، حتى تقع دورهم ومساكنهم، فقالوا مثل ما قالوا، فدعا ربه فكشفه عنهم، فلم يفوا له بشيء مما قالوا. فأرسل الله عليهم القمّل، فذكر لي أنّ موسى أمر أن يمشي إلى كثيب حتى يضربه بعصاه. فمضى إلى كثيبٍ أهيل عظيم، [[((كثيب أهيل)) (علي وزن أفعل) : منهال لايثبت رمله حتي يسقط]] فضربه بها، فانثَالَ عليهم قمَّلا [[((انثال التراب انثيالا)) : انصب انصبابآ من كل وجه.]] حتى غلب على البيوت والأطعمة، ومنعهم النوم والقرار. فلما جهدهم قالوا له مثل ما قالوا، فدعا ربه فكشفه عنهم، فلم يفوا له بشيء مما قالوا، فأرسل الله عليهم الضفادع، فملأت البيوت والأطعمة والآنية، فلا يكشف أحدٌ ثوبًا ولا طعامًا ولا إناء إلا وجد فيه الضفادع قد غلبت عليه. فلما جهدهم ذلك قالوا له مثل ما قالوا، فدعا ربه فكشفه عنهم، فلم يفوا له بشيء مما قالوا. فأرسل الله عليهم الدم، فصارت مياه آل فرعون دمًا، لا يستقون من بئر ولا نهر، ولا يغترفون من إناء، إلا عاد دمًا عبيطًا. [[الأثر: ١٥٠٢٣- هذا الخبر رواه أبو جعفر في تاريخه ١: ٢١٥.]]
+
+١٥٠٢٤ - حدثنا ابن حميد قال، حدثنا سلمة قال، حدثنا محمد بن إسحاق، عن محمد بن كعب القرظي: أنه حُدِّث: أن المرأة من آل فرعون كانت تأتي المرأةَ من بني إسرائيل حين جَهدهم العطش، فتقول: اسقيني من مائك! فتغرف لها من جرَّتها أو تصبّ لها من قربتها، فيعود في الإناء دمًا، حتى إن كانت لتقول لها: اجعليه في فيك ثم مُجيِّه في فيَّ! فتأخذ في فيها ماءً، فإذا مجته في فيها صار دمًا، فمكثوا في ذلك سبعةَ أيام. [[الأثر: ١٥٠٢٤- هذا الخبر رواه أبو جعفر في تاريخه مطولا ١: ٢١٥، ٢١٦.]]
+
+١٥٠٢٥ - حدثني المثنى قال، حدثنا أبو حذيفة قال، حدثنا شبل، عن ابن أبي نجيح، عن مجاهد: الجراد يأكل زروعهم ونباتهم، والضفادع تسقط على فرشهم وأطعمتهم، والدم يكون في بيوتهم وثيابهم ومائهم وطعامهم.
+
+= قال، حدثنا شبل، عن عبد الله بن كثير، عن مجاهد قال: لما سال النِّيلُ دمًا، فكان الإسرائيلي يستقي ماء طيّبًا، ويستقي الفرعوني دمًا، ويشتركان في إناء واحد، فيكون ما يلي الإسرائيلي ماءً طيّبًا وما يلي الفرعوني دمًا.
+
+١٥٠٢٦- حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن أبي بكر قال، حدثني سعيد بن حبير: أن موسى لمّا عالج فرعون بالآيات الأربع: العصا، واليد، ونقص من الثمرات، والسنين = قال: يا رب، إن عبدك هذا قد علا في الأرض وَعتَا في الأرض، وبغى علي، وعلا عليك، وعالى بقومه، ربِّ خذ عبدك بعُقوبة تجعلها له ولقومه نِقْمةً، وتجعلها لقومي عظةً، ولمن بعدي آية في الأمم الباقية! فبعث الله عليهم الطوفان = وهو الماء = وبيوت بني إسرائيل وبيوت القبط مشتبكة مختلطة بعضها في بعض، فامتلأت بيوت القبط ماءً، حتى قاموا في الماء إلى تراقيهم، من جَلس منهم غرق، [[في المطبوعة والمخطوطة: ((من حبس)) ، والصواب ما أثبت.]] ولم يدخل في بيوت بني إسرائيل قطرة. فجعلت القبط تنادي موسى: ادع لنا ربك بما عهد عندك، لئن كشفت عنا الرجز لنؤمنن لك، ولنرسلن معك بني إسرائيل! قال: فواثقوا موسى ميثاقًا أخذَ عليهم به عهودهم، وكان الماء أخذهم يوم السبت، فأقام عليهم سبعة أيام إلى السبت الآخر. فدعا موسى ربه، فرفع عنهم الماء، فأعشبت بلادهم من ذلك الماء، فأقاموا شهرًا في عافية، ثم جحدوا وقالوا: ما كان هذا الماء إلا نعمة علينا، وخصبًا لبلادنا، ما نحب أنه لم يكن. = قال: وقد قال قائل لابن عباس: إني سألت ابن عمر عن الطوفان، فقال: ما أدري، موتا كان أو ماء! فقال ابن عباس: أما يقرأ ابن عمر "سورة العنكبوت" حين ذكر الله قوم نوح فقال: ﴿فَأَخَذَهُمُ الطُّوفَانُ وَهُمْ ظَالِمُونَ﴾ ، [العنكبوت: ١٤] . أرأيت لو ماتوا، إلى مَنْ جاء موسى عليه السلام بالآيات الأربع بعد الطوفان؟
+
+= قال: فقال موسى: يا رب إن عبادك قد نقضُوا عهدك، وأخلفوا وعدي، رب خذهم بعقوبة تجعلها لهم نقمة، ولقومي عظة، ولمن بعدهم آية في الأمم الباقية! قال: فبعث الله عليهم الجراد، فلم يدع لهم ورقةً ولا شجرة ولا زهرة ولا ثمرة إلا أكله، [[في المطبوعة: ((إلا أكلها)) ، وأثبت مافي المخطوطة، وهو صواب.]] حتى لم يُبْقِ جَنًى، [[((الجني)) الثمر كله.]] حتى إذا أفنى الخضر كلها، أكل الخشب، حتى أكل الأبواب وسقوف البيوت. وابتلى الجراد بالجوع، فجعل لا يشبع، غير أنه لا يدخل بيوتَ بني إسرائيل. فعجُّوا وصاحُوا إلى موسى، [[((عج يعج عجا)) رفع صوته وصاح بالدعاء والاستغاثة.]] فقالوا: يا موسى، هذه المرّة ادع لنا ربك بما عهد عندك لئن كشفت عنا الرجز لنؤمننّ لك ولنرسلنّ معك بني إسرائيل! فأعطوه عهدَ الله وميثاقه، فدعا لهم ربّه، فكشف الله عنهم الجراد بعد ما أقام عليهم سبعة أيام من السبت إلى السبت، ثم أقاموا شهرًا في عافية، ثم عادوا لتكذيبهم ولإنكارهم، ولأعمالهم أعمال السَّوْء قال: فقال موسى: يا رب، عبادُك، قد نقضوا عهدي، وأخلفوا موعدي، فخذهم بعقوبة تجعلُها لهم نقمة، ولقومي عظة، ولمن بعدي آية في الأمم الباقية! فأرسل الله عليهم القمَّل = قال أبو بكر: سمعت سعيد بن جبير والحسن يقولان: كان إلى جنبهم كثيب أعفر بقرية من قرى مصر تدعى "عين شمس"، [[((الكثيب الأعفر)) : هو هنا الأحمر.]] فمشى موسى إلى ذلك الكثيب، فضربه بعصاه ضربةً صارَ قمّلا تدب إليهم = وهي دوابّ سود صغار. فدبَّ إليهم القمّل، فأخذ أشعارهم وأبشارهم وأشفارَ عيونهم وحواجبهم، ولزم جلودَهم، كأنه الجدريّ عليهم، فصرخوا وصاحوا إلى موسى: إنا نتوب ولا نعود، فادع لنا ربك! فدعا ربه فرفع عنهم القمل بعد ما أقام عليهم سبعة أيام من السبت إلى السبت. فأقاموا شهرًا في عافية، ثم عادوا وقالوا: ما كنّا قط أحق أن نستيقن أنه ساحر مِنّا اليوم، جعل الرَّمل دوابّ! وعزَّة فرعون لا نصدِّقه أبدًا ولا نتبعه! فعادوا لتكذيبهم وإنكارهم، فدعا موسى عليهم فقال: يا رب إن عبادك نقضوا عهدي، وأخلفوا وعدي، فخذهم بعقوبة تجعلها لهم نقمة، ولقومي عظة، ولمن بعدي آيه في الأمم الباقية! فأرسل الله عليهم الضفادع، فكان أحدهم يضطجع، فتركبه الضفادع، فتكون عليه رُكَامًا، حتى ما يستطيع أن ينصرف إلى الشق الآخر، ويفتح فاه لأكْلته، فيسبق الضفدع أكلته إلى فيه، ولا يعجن عجينًا إلا تسدَّحَت فيه، [[في المطبوعة: ((تشدخت)) بالشين والخاء، ولامعني لها هنا، وهي من المخطوطة غير منقوطة وكأن هذا صواب قراءتها. يقال: ((سدح الشيء)) إذا بسطه علي الأرض أو أضجعه. و ((انسدح الرجل)) استلقي وفرج رجليه. وقوله ((تسدح)) (بتشديد الدال) ، قياس عربي صحيح.]] ولا يطبخ قِدْرًا إلا امتلأت ضفادع، فعذِّبوا بها أشد العذاب، فشكوا إلى موسى عليه السلام وقالوا: هذه المرة نتوب ولا نعود! فأخذَ عهدهم وميثاقهم. ثم دعا ربه، فكشف الله عنهم الضفادع بعد ما أقام عليهم سبعًا من السبت إلى السبت. فأقاموا شهرًا في عافية، ثم عادوا لتكذيبهم وإنكارهم وقالوا: قد تبيَّن لكم سحره، يجعل التراب دوابَّ، ويجيء بالضفادع في غير ماءٍ! فآذوا موسى عليه السلام فقال موسى: يا رب إن عبادك نقضوا عهدي، وأخلفوا وعدي، فخذهم بعقوبة تجعلها لهم عقوبة، ولقومي عظة، ولمن بعدي آية في الأمم الباقية! فابتلاهم الله بالدم، فأفسد عليهم معايشهم، فكان الإسرائيلي والقبطيّ يأتيان النيل فيستقيان، فيخرج للإسرائيليّ ماءً، ويخرج للقبطي دمًا، ويقومان إلى الحُبِّ فيه الماءُ، [[((الحب)) (بضم الحاء) : الجرة الضخمة يكون فيها الماء.]] فيخرج للإسرائيلي في إنائه ماءً، وللقبطي دمًا.
+
+١٥٠٢٧ - حدثني الحارث قال، حدثنا عبد العزيز قال، حدثنا أبو سعد قال: سمعت مجاهدًا، في قوله: ﴿فأرسلنا عليهم الطوفان﴾ ، قال: الموت = "والجراد" قال: الجراد يأكل أمتعتهم وثيابهم ومسامير أبوابهم = "والقمل" هو الدّبى، سلطه الله عليهم بعد الجراد = قال: "والضفادع"، تسقط في أطعمتهم التي في بيوتهم وفي أشربتهم. [[الأثر: ١٥٠٢٧- ((أبو سعد المدني)) ، وكان في المخطوطة، والمطبوعة: ((ابن سعد)) ، وهو خطأ، وهو إسناد مر مرارآ، أقربه رقم: ١٤٩١٦.]]
+
+* *
+
+وقال بعضهم: "الدم" الذي أرسله الله عليهم، كان رُعافًا.
+
+ذكر من قال ذلك:
+
+١٥٠٢٨ - حدثنا ابن حميد قال، حدثنا أحمد بن خالد قال، حدثنا يحيى بن أبي بكير قال، حدثنا زهير قال، قال زيد بن أسلم: أما "القمل" فالقمل = وأما "الدم"، فسلط الله عليهم الرُّعاف. [[الأثر: ١٥٠٢٨- ((أحمد بن خالد)) ، كأنه ((أحمد بن خالد بن موسي الوهبي)) ، مترجم في التهذيب، وابن أبي حاتم ١ / ١ / ٤٩ و ((يحيى بن أبي بكير الأسدي)) ، مضى مرارًا، آخرها رقم: ٧٥٤٤، و ((زهير)) ، هو: ((زهير بن محمد التميمي)) ، مضى برقم: ٥٢٣٠، ٦٦٢٨.]]
+
+* *
+
+وأما قوله: ﴿آيات مفصلات﴾ ، فإن معناه: علامات ودلالات على صحّة نبوّة موسى، [[انظر تفسير ((آية)) فيما من فهارس اللغة اللغة (أيي)]] وحقيقة ما دعاهم إليه [[في المطبوعة: ((وحقية)) مكان ((وحقيقة)) ، فعل بها كما فعل بكل أخواتها من قبل. انظر ماسلف ١٢: ٢٤٤، تعليق: ٣، والمراجع هناك.]] = "مفصلات"، قد فصل بينها، فجعل بعضها يتلو بعضًا، وبعضها في إثر بعض. [[وانظر تفسير ((التفصيل)) في م سلف ١٢: ٤٧٧، تعليق: ١ والمراجع هناك.]]
+
+* *
+
+وبنحو الذي قلنا في تأويل ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+١٥٠٢٩ - حدثني المثنى قال، حدثنا عبد الله بن صالح قال، حدثني معاوية بن صالح، عن علي بن أبي طلحة، عن ابن عباس قال: فكانت آيات مفصلات بعضها في إثر بعض، ليكون لله الحجة عليهم، فأخذهم الله بذنُوبهم، فأغرقهم في اليمّ.
+
+١٥٠٣٠ - حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن ابن جريج قوله: ﴿آيات مفصلات﴾ ، قال: يتبع بعضها بعضًا، ليكون لله عليهم الحجة، فينتقم منهم بعد ذلك. وكانت الآية تمكث فيهم من السبت إلى السبت، وترفع عنهم شهرًا، قال الله عز وجل: ﴿فانتقمنا منهم فأغرقناهم في اليمّ﴾ ، [الأعراف: ١٣٦] ... الآية.
+
+١٥٠٣١ - حدثنا ابن حميد قال، حدثنا سلمة قال، قال ابن إسحاق: ﴿آيات مفصلات﴾ ،: أي آية بعد آية، يتبع بعضُها بعضًا. [[الأثر: ١٥٠٣١ - هو قطعة من الآثر السالف رقم: ١٥٠٢٣، أسقطها أبو جعفر من صلب الكلام، وأفردها ههنا. وأما في التاريخ ١: ٢١٥، فقد ساق الخبر متصلا، وفيه هذه الجملة من التفسير.]]
+
+* *
+
+وكان مجاهد يقول فيما ذكر عنه في معنى "المفصلات"، ما: -
+
+١٥٠٣٢ - حدثني الحارث قال، حدثنا عبد العزيز قال، حدثنا أبو سعد قال، سمعت مجاهدًا يقول في "آيات مفصلات"، قال: معلومات.
 
 ### al-Muyassar (Arabic)
 
@@ -2038,9 +2096,49 @@ In the case of this gathering where the Quraysh came together to speak with the 
 
 إِنَّ الَّذِينَ حَقَّتْ عَلَيْهِمْ كَلِمَتُ رَبِّكَ لَا يُؤْمِنُونَ - وَلَوْ جَاءَتْهُمْ كُلُّ آيَةٍ حَتَّىٰ يَرَوُا الْعَذَابَ الْأَلِيمَ
 
-(Truly, those, against whom the Word (wrath) of your Lord has been justified, will not believe. Even if every sign should come to them, until 
+(Truly, those, against whom the Word (wrath) of your Lord has been justified, will not believe. Even if every sign should come to them, until they see the painful torment.)(10:96-97) And Allah says:
 
-[TRUNCATED at 12000 chars — 3285 more. Consult the source directly before relying on anything near the cut.]
+وَلَوْ أَنَّنَا نَزَّلْنَا إِلَيْهِمُ الْمَلَائِكَةَ وَكَلَّمَهُمُ الْمَوْتَىٰ وَحَشَرْنَا عَلَيْهِمْ كُلَّ شَيْءٍ قُبُلًا مَّا كَانُوا لِيُؤْمِنُوا
+
+(And even if We had sent down unto them angels, and the dead had spoken unto them, and We had gathered together all things before their very eyes, they would not have believed)[6:111] His saying;
+
+أَوْ تُسْقِطَ السَّمَاءَ كَمَا زَعَمْتَ
+
+(Or you cause the heaven to fall upon us in pieces, as you have pretended,) means, 'you promised us that on the Day of Resurrection the heavens will be split asunder, being broken and torn up, with parts of it falling down, so do that in this world and make it fall in pieces.' This is like when they said:
+
+اللَّهُمَّ إِن كَانَ هَـذَا هُوَ الْحَقَّ مِنْ عِندِكَ فَأَمْطِرْ عَلَيْنَا حِجَارَةً مِّنَ السَّمَآءِ
+
+(O Allah! If this (the Qur'an) is indeed the truth from You, then rain down stones on us from the sky.)[8:32]
+
+Similarly, the people of Shu'ayb asked him:
+
+فَأَسْقِطْ عَلَيْنَا كِسَفًا مِّنَ السَّمَاءِ إِن كُنتَ مِنَ الصَّادِقِينَ
+
+(So cause a piece of the heaven to fall on us, if you are of the truthful!)(26:187)
+
+So Allah punished them with the punishment of the day of Shadow (a gloomy cloud), which was the torment of a Great Day. [26:189] As for the Prophet of Repentance and Mercy, who was sent as a mercy to the worlds, he asked Allah to delay their punishment, in the hope that Allah would bring forth from their offspring people who would worship Allah Alone, with no partner or associate. This is what indeed did happen, for among those who are mentioned above were some who later embraced Islam and became good and sincere Muslims, even 'Abdullah bin Abi Umayyah, who followed the Prophet ﷺ (out of that meeting) and spoke to him as he did. He became a sincere Muslim and turned to Allah in repentance.
+
+أَوْ يَكُونَ لَكَ بَيْتٌ مِّن زُخْرُفٍ
+
+(Or you have a house of Zukhruf.)
+
+Ibn 'Abbas, Mujahid and Qatadah said, "This is gold." This was also what was said in the recitation of Ibn Mas'ud, "Or you have a house of gold."
+
+أَوْ تَرْقَىٰ فِي السَّمَاءِ
+
+(or you ascend up into the sky,) meaning, you climb up on a ladder while we are watching you.
+
+وَلَن نُّؤْمِنَ لِرُقِيِّكَ حَتَّىٰ تُنَزِّلَ عَلَيْنَا كِتَابًا نَّقْرَؤُهُ
+
+(and even then we will put no faith in your ascension until you bring down for us a Book that we would read.)
+
+Mujahid said, "This means a book in which there would be one page for each person, on which would be the words: 'This is a book from Allah to so-and-so the son of so-and-so, which he would find by his head when he woke up in the morning."
+
+قُلْ سُبْحَانَ رَبِّي هَلْ كُنتُ إِلَّا بَشَرًا رَّسُولًا
+
+(Say: "Glorified be my Lord! Am I anything but a man, sent as a Messenger?")
+
+meaning, 'Glorified, exalted and sanctified be He above the notion that anyone would come before Him concerning any matter pertaining to His authority and sovereignty. He is the One Who does what He wills. If He willed, he could have given you what you asked for, or if He willed, he could have refrained. I am only a Messenger to you, sent to convey the Messages of my Lord and advise you. I have done that, and the response to what you have asked is to be decided by Allah, may He be glorified.'
 
 ### al-Tabari (Arabic)
 
@@ -2140,9 +2238,49 @@ In the case of this gathering where the Quraysh came together to speak with the 
 
 إِنَّ الَّذِينَ حَقَّتْ عَلَيْهِمْ كَلِمَتُ رَبِّكَ لَا يُؤْمِنُونَ - وَلَوْ جَاءَتْهُمْ كُلُّ آيَةٍ حَتَّىٰ يَرَوُا الْعَذَابَ الْأَلِيمَ
 
-(Truly, those, against whom the Word (wrath) of your Lord has been justified, will not believe. Even if every sign should come to them, until 
+(Truly, those, against whom the Word (wrath) of your Lord has been justified, will not believe. Even if every sign should come to them, until they see the painful torment.)(10:96-97) And Allah says:
 
-[TRUNCATED at 12000 chars — 3285 more. Consult the source directly before relying on anything near the cut.]
+وَلَوْ أَنَّنَا نَزَّلْنَا إِلَيْهِمُ الْمَلَائِكَةَ وَكَلَّمَهُمُ الْمَوْتَىٰ وَحَشَرْنَا عَلَيْهِمْ كُلَّ شَيْءٍ قُبُلًا مَّا كَانُوا لِيُؤْمِنُوا
+
+(And even if We had sent down unto them angels, and the dead had spoken unto them, and We had gathered together all things before their very eyes, they would not have believed)[6:111] His saying;
+
+أَوْ تُسْقِطَ السَّمَاءَ كَمَا زَعَمْتَ
+
+(Or you cause the heaven to fall upon us in pieces, as you have pretended,) means, 'you promised us that on the Day of Resurrection the heavens will be split asunder, being broken and torn up, with parts of it falling down, so do that in this world and make it fall in pieces.' This is like when they said:
+
+اللَّهُمَّ إِن كَانَ هَـذَا هُوَ الْحَقَّ مِنْ عِندِكَ فَأَمْطِرْ عَلَيْنَا حِجَارَةً مِّنَ السَّمَآءِ
+
+(O Allah! If this (the Qur'an) is indeed the truth from You, then rain down stones on us from the sky.)[8:32]
+
+Similarly, the people of Shu'ayb asked him:
+
+فَأَسْقِطْ عَلَيْنَا كِسَفًا مِّنَ السَّمَاءِ إِن كُنتَ مِنَ الصَّادِقِينَ
+
+(So cause a piece of the heaven to fall on us, if you are of the truthful!)(26:187)
+
+So Allah punished them with the punishment of the day of Shadow (a gloomy cloud), which was the torment of a Great Day. [26:189] As for the Prophet of Repentance and Mercy, who was sent as a mercy to the worlds, he asked Allah to delay their punishment, in the hope that Allah would bring forth from their offspring people who would worship Allah Alone, with no partner or associate. This is what indeed did happen, for among those who are mentioned above were some who later embraced Islam and became good and sincere Muslims, even 'Abdullah bin Abi Umayyah, who followed the Prophet ﷺ (out of that meeting) and spoke to him as he did. He became a sincere Muslim and turned to Allah in repentance.
+
+أَوْ يَكُونَ لَكَ بَيْتٌ مِّن زُخْرُفٍ
+
+(Or you have a house of Zukhruf.)
+
+Ibn 'Abbas, Mujahid and Qatadah said, "This is gold." This was also what was said in the recitation of Ibn Mas'ud, "Or you have a house of gold."
+
+أَوْ تَرْقَىٰ فِي السَّمَاءِ
+
+(or you ascend up into the sky,) meaning, you climb up on a ladder while we are watching you.
+
+وَلَن نُّؤْمِنَ لِرُقِيِّكَ حَتَّىٰ تُنَزِّلَ عَلَيْنَا كِتَابًا نَّقْرَؤُهُ
+
+(and even then we will put no faith in your ascension until you bring down for us a Book that we would read.)
+
+Mujahid said, "This means a book in which there would be one page for each person, on which would be the words: 'This is a book from Allah to so-and-so the son of so-and-so, which he would find by his head when he woke up in the morning."
+
+قُلْ سُبْحَانَ رَبِّي هَلْ كُنتُ إِلَّا بَشَرًا رَّسُولًا
+
+(Say: "Glorified be my Lord! Am I anything but a man, sent as a Messenger?")
+
+meaning, 'Glorified, exalted and sanctified be He above the notion that anyone would come before Him concerning any matter pertaining to His authority and sovereignty. He is the One Who does what He wills. If He willed, he could have given you what you asked for, or if He willed, he could have refrained. I am only a Messenger to you, sent to convey the Messages of my Lord and advise you. I have done that, and the response to what you have asked is to be decided by Allah, may He be glorified.'
 
 ### al-Tabari (Arabic)
 
@@ -2216,9 +2354,49 @@ In the case of this gathering where the Quraysh came together to speak with the 
 
 إِنَّ الَّذِينَ حَقَّتْ عَلَيْهِمْ كَلِمَتُ رَبِّكَ لَا يُؤْمِنُونَ - وَلَوْ جَاءَتْهُمْ كُلُّ آيَةٍ حَتَّىٰ يَرَوُا الْعَذَابَ الْأَلِيمَ
 
-(Truly, those, against whom the Word (wrath) of your Lord has been justified, will not believe. Even if every sign should come to them, until 
+(Truly, those, against whom the Word (wrath) of your Lord has been justified, will not believe. Even if every sign should come to them, until they see the painful torment.)(10:96-97) And Allah says:
 
-[TRUNCATED at 12000 chars — 3285 more. Consult the source directly before relying on anything near the cut.]
+وَلَوْ أَنَّنَا نَزَّلْنَا إِلَيْهِمُ الْمَلَائِكَةَ وَكَلَّمَهُمُ الْمَوْتَىٰ وَحَشَرْنَا عَلَيْهِمْ كُلَّ شَيْءٍ قُبُلًا مَّا كَانُوا لِيُؤْمِنُوا
+
+(And even if We had sent down unto them angels, and the dead had spoken unto them, and We had gathered together all things before their very eyes, they would not have believed)[6:111] His saying;
+
+أَوْ تُسْقِطَ السَّمَاءَ كَمَا زَعَمْتَ
+
+(Or you cause the heaven to fall upon us in pieces, as you have pretended,) means, 'you promised us that on the Day of Resurrection the heavens will be split asunder, being broken and torn up, with parts of it falling down, so do that in this world and make it fall in pieces.' This is like when they said:
+
+اللَّهُمَّ إِن كَانَ هَـذَا هُوَ الْحَقَّ مِنْ عِندِكَ فَأَمْطِرْ عَلَيْنَا حِجَارَةً مِّنَ السَّمَآءِ
+
+(O Allah! If this (the Qur'an) is indeed the truth from You, then rain down stones on us from the sky.)[8:32]
+
+Similarly, the people of Shu'ayb asked him:
+
+فَأَسْقِطْ عَلَيْنَا كِسَفًا مِّنَ السَّمَاءِ إِن كُنتَ مِنَ الصَّادِقِينَ
+
+(So cause a piece of the heaven to fall on us, if you are of the truthful!)(26:187)
+
+So Allah punished them with the punishment of the day of Shadow (a gloomy cloud), which was the torment of a Great Day. [26:189] As for the Prophet of Repentance and Mercy, who was sent as a mercy to the worlds, he asked Allah to delay their punishment, in the hope that Allah would bring forth from their offspring people who would worship Allah Alone, with no partner or associate. This is what indeed did happen, for among those who are mentioned above were some who later embraced Islam and became good and sincere Muslims, even 'Abdullah bin Abi Umayyah, who followed the Prophet ﷺ (out of that meeting) and spoke to him as he did. He became a sincere Muslim and turned to Allah in repentance.
+
+أَوْ يَكُونَ لَكَ بَيْتٌ مِّن زُخْرُفٍ
+
+(Or you have a house of Zukhruf.)
+
+Ibn 'Abbas, Mujahid and Qatadah said, "This is gold." This was also what was said in the recitation of Ibn Mas'ud, "Or you have a house of gold."
+
+أَوْ تَرْقَىٰ فِي السَّمَاءِ
+
+(or you ascend up into the sky,) meaning, you climb up on a ladder while we are watching you.
+
+وَلَن نُّؤْمِنَ لِرُقِيِّكَ حَتَّىٰ تُنَزِّلَ عَلَيْنَا كِتَابًا نَّقْرَؤُهُ
+
+(and even then we will put no faith in your ascension until you bring down for us a Book that we would read.)
+
+Mujahid said, "This means a book in which there would be one page for each person, on which would be the words: 'This is a book from Allah to so-and-so the son of so-and-so, which he would find by his head when he woke up in the morning."
+
+قُلْ سُبْحَانَ رَبِّي هَلْ كُنتُ إِلَّا بَشَرًا رَّسُولًا
+
+(Say: "Glorified be my Lord! Am I anything but a man, sent as a Messenger?")
+
+meaning, 'Glorified, exalted and sanctified be He above the notion that anyone would come before Him concerning any matter pertaining to His authority and sovereignty. He is the One Who does what He wills. If He willed, he could have given you what you asked for, or if He willed, he could have refrained. I am only a Messenger to you, sent to convey the Messages of my Lord and advise you. I have done that, and the response to what you have asked is to be decided by Allah, may He be glorified.'
 
 ### al-Tabari (Arabic)
 
@@ -2348,9 +2526,49 @@ In the case of this gathering where the Quraysh came together to speak with the 
 
 إِنَّ الَّذِينَ حَقَّتْ عَلَيْهِمْ كَلِمَتُ رَبِّكَ لَا يُؤْمِنُونَ - وَلَوْ جَاءَتْهُمْ كُلُّ آيَةٍ حَتَّىٰ يَرَوُا الْعَذَابَ الْأَلِيمَ
 
-(Truly, those, against whom the Word (wrath) of your Lord has been justified, will not believe. Even if every sign should come to them, until 
+(Truly, those, against whom the Word (wrath) of your Lord has been justified, will not believe. Even if every sign should come to them, until they see the painful torment.)(10:96-97) And Allah says:
 
-[TRUNCATED at 12000 chars — 3285 more. Consult the source directly before relying on anything near the cut.]
+وَلَوْ أَنَّنَا نَزَّلْنَا إِلَيْهِمُ الْمَلَائِكَةَ وَكَلَّمَهُمُ الْمَوْتَىٰ وَحَشَرْنَا عَلَيْهِمْ كُلَّ شَيْءٍ قُبُلًا مَّا كَانُوا لِيُؤْمِنُوا
+
+(And even if We had sent down unto them angels, and the dead had spoken unto them, and We had gathered together all things before their very eyes, they would not have believed)[6:111] His saying;
+
+أَوْ تُسْقِطَ السَّمَاءَ كَمَا زَعَمْتَ
+
+(Or you cause the heaven to fall upon us in pieces, as you have pretended,) means, 'you promised us that on the Day of Resurrection the heavens will be split asunder, being broken and torn up, with parts of it falling down, so do that in this world and make it fall in pieces.' This is like when they said:
+
+اللَّهُمَّ إِن كَانَ هَـذَا هُوَ الْحَقَّ مِنْ عِندِكَ فَأَمْطِرْ عَلَيْنَا حِجَارَةً مِّنَ السَّمَآءِ
+
+(O Allah! If this (the Qur'an) is indeed the truth from You, then rain down stones on us from the sky.)[8:32]
+
+Similarly, the people of Shu'ayb asked him:
+
+فَأَسْقِطْ عَلَيْنَا كِسَفًا مِّنَ السَّمَاءِ إِن كُنتَ مِنَ الصَّادِقِينَ
+
+(So cause a piece of the heaven to fall on us, if you are of the truthful!)(26:187)
+
+So Allah punished them with the punishment of the day of Shadow (a gloomy cloud), which was the torment of a Great Day. [26:189] As for the Prophet of Repentance and Mercy, who was sent as a mercy to the worlds, he asked Allah to delay their punishment, in the hope that Allah would bring forth from their offspring people who would worship Allah Alone, with no partner or associate. This is what indeed did happen, for among those who are mentioned above were some who later embraced Islam and became good and sincere Muslims, even 'Abdullah bin Abi Umayyah, who followed the Prophet ﷺ (out of that meeting) and spoke to him as he did. He became a sincere Muslim and turned to Allah in repentance.
+
+أَوْ يَكُونَ لَكَ بَيْتٌ مِّن زُخْرُفٍ
+
+(Or you have a house of Zukhruf.)
+
+Ibn 'Abbas, Mujahid and Qatadah said, "This is gold." This was also what was said in the recitation of Ibn Mas'ud, "Or you have a house of gold."
+
+أَوْ تَرْقَىٰ فِي السَّمَاءِ
+
+(or you ascend up into the sky,) meaning, you climb up on a ladder while we are watching you.
+
+وَلَن نُّؤْمِنَ لِرُقِيِّكَ حَتَّىٰ تُنَزِّلَ عَلَيْنَا كِتَابًا نَّقْرَؤُهُ
+
+(and even then we will put no faith in your ascension until you bring down for us a Book that we would read.)
+
+Mujahid said, "This means a book in which there would be one page for each person, on which would be the words: 'This is a book from Allah to so-and-so the son of so-and-so, which he would find by his head when he woke up in the morning."
+
+قُلْ سُبْحَانَ رَبِّي هَلْ كُنتُ إِلَّا بَشَرًا رَّسُولًا
+
+(Say: "Glorified be my Lord! Am I anything but a man, sent as a Messenger?")
+
+meaning, 'Glorified, exalted and sanctified be He above the notion that anyone would come before Him concerning any matter pertaining to His authority and sovereignty. He is the One Who does what He wills. If He willed, he could have given you what you asked for, or if He willed, he could have refrained. I am only a Messenger to you, sent to convey the Messages of my Lord and advise you. I have done that, and the response to what you have asked is to be decided by Allah, may He be glorified.'
 
 ### al-Tabari (Arabic)
 

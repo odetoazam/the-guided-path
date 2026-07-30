@@ -160,9 +160,27 @@ They will not deny any of these favors, not even one letter. Rather, they will b
 
 الَّذِينَ هَدَى اللَّهُ
 
-(those whom Alla
+(those whom Allah had guided.) meaning, they alone are the people of guidance,
 
-[TRUNCATED at 12000 chars — 1212 more. Consult the source directly before relying on anything near the cut.]
+فَبِهُدَاهُمُ اقْتَدِهْ
+
+(So follow their guidance.) Imitate them. This command to the Messenger ﷺ certainly applies to his Ummah, according to what he legislates and commands them. While mentioning this Ayah, Al-Bukhari recorded that Mujahid asked Ibn 'Abbas, "Is there an instance where prostration is warranted in [Surah] 'Şād'?" Ibn 'Abbas said, "Yes." He then recited,
+
+وَوَهَبْنَا لَهُ إِسْحَاقَ وَيَعْقُوبَ
+
+(...And We bestowed upon him Ishaq and Ya'qub...) until,
+
+فَبِهُدَاهُمُ اقْتَدِهْ
+
+(...So follow their guidance.) He commented, "He (our Prophet, Muhammad ﷺ) was among them." In another narration, Mujahid added that Ibn 'Abbas said, "Your Prophet ﷺ was among those whose guidance we were commanded to follow." Allah's statement,
+
+قُل لَّا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا
+
+(Say: "No reward I ask of you for this.") means, I do not ask you for any reward for delivering the Qur'an to you, nor anything else,
+
+إِنْ هُوَ إِلَّا ذِكْرَىٰ لِلْعَالَمِينَ
+
+("It is only a reminder for the 'Alamin (mankind and Jinns).") so they are reminded by it and guided from blindness to clarity, from misguidance to guidance, and from disbelief to faith.
 
 ### al-Tabari (Arabic)
 
@@ -346,9 +364,27 @@ They will not deny any of these favors, not even one letter. Rather, they will b
 
 الَّذِينَ هَدَى اللَّهُ
 
-(those whom Alla
+(those whom Allah had guided.) meaning, they alone are the people of guidance,
 
-[TRUNCATED at 12000 chars — 1212 more. Consult the source directly before relying on anything near the cut.]
+فَبِهُدَاهُمُ اقْتَدِهْ
+
+(So follow their guidance.) Imitate them. This command to the Messenger ﷺ certainly applies to his Ummah, according to what he legislates and commands them. While mentioning this Ayah, Al-Bukhari recorded that Mujahid asked Ibn 'Abbas, "Is there an instance where prostration is warranted in [Surah] 'Şād'?" Ibn 'Abbas said, "Yes." He then recited,
+
+وَوَهَبْنَا لَهُ إِسْحَاقَ وَيَعْقُوبَ
+
+(...And We bestowed upon him Ishaq and Ya'qub...) until,
+
+فَبِهُدَاهُمُ اقْتَدِهْ
+
+(...So follow their guidance.) He commented, "He (our Prophet, Muhammad ﷺ) was among them." In another narration, Mujahid added that Ibn 'Abbas said, "Your Prophet ﷺ was among those whose guidance we were commanded to follow." Allah's statement,
+
+قُل لَّا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا
+
+(Say: "No reward I ask of you for this.") means, I do not ask you for any reward for delivering the Qur'an to you, nor anything else,
+
+إِنْ هُوَ إِلَّا ذِكْرَىٰ لِلْعَالَمِينَ
+
+("It is only a reminder for the 'Alamin (mankind and Jinns).") so they are reminded by it and guided from blindness to clarity, from misguidance to guidance, and from disbelief to faith.
 
 ### al-Tabari (Arabic)
 
@@ -544,9 +580,27 @@ They will not deny any of these favors, not even one letter. Rather, they will b
 
 الَّذِينَ هَدَى اللَّهُ
 
-(those whom Alla
+(those whom Allah had guided.) meaning, they alone are the people of guidance,
 
-[TRUNCATED at 12000 chars — 1212 more. Consult the source directly before relying on anything near the cut.]
+فَبِهُدَاهُمُ اقْتَدِهْ
+
+(So follow their guidance.) Imitate them. This command to the Messenger ﷺ certainly applies to his Ummah, according to what he legislates and commands them. While mentioning this Ayah, Al-Bukhari recorded that Mujahid asked Ibn 'Abbas, "Is there an instance where prostration is warranted in [Surah] 'Şād'?" Ibn 'Abbas said, "Yes." He then recited,
+
+وَوَهَبْنَا لَهُ إِسْحَاقَ وَيَعْقُوبَ
+
+(...And We bestowed upon him Ishaq and Ya'qub...) until,
+
+فَبِهُدَاهُمُ اقْتَدِهْ
+
+(...So follow their guidance.) He commented, "He (our Prophet, Muhammad ﷺ) was among them." In another narration, Mujahid added that Ibn 'Abbas said, "Your Prophet ﷺ was among those whose guidance we were commanded to follow." Allah's statement,
+
+قُل لَّا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا
+
+(Say: "No reward I ask of you for this.") means, I do not ask you for any reward for delivering the Qur'an to you, nor anything else,
+
+إِنْ هُوَ إِلَّا ذِكْرَىٰ لِلْعَالَمِينَ
+
+("It is only a reminder for the 'Alamin (mankind and Jinns).") so they are reminded by it and guided from blindness to clarity, from misguidance to guidance, and from disbelief to faith.
 
 ### al-Tabari (Arabic)
 
@@ -750,9 +804,27 @@ They will not deny any of these favors, not even one letter. Rather, they will b
 
 الَّذِينَ هَدَى اللَّهُ
 
-(those whom Alla
+(those whom Allah had guided.) meaning, they alone are the people of guidance,
 
-[TRUNCATED at 12000 chars — 1212 more. Consult the source directly before relying on anything near the cut.]
+فَبِهُدَاهُمُ اقْتَدِهْ
+
+(So follow their guidance.) Imitate them. This command to the Messenger ﷺ certainly applies to his Ummah, according to what he legislates and commands them. While mentioning this Ayah, Al-Bukhari recorded that Mujahid asked Ibn 'Abbas, "Is there an instance where prostration is warranted in [Surah] 'Şād'?" Ibn 'Abbas said, "Yes." He then recited,
+
+وَوَهَبْنَا لَهُ إِسْحَاقَ وَيَعْقُوبَ
+
+(...And We bestowed upon him Ishaq and Ya'qub...) until,
+
+فَبِهُدَاهُمُ اقْتَدِهْ
+
+(...So follow their guidance.) He commented, "He (our Prophet, Muhammad ﷺ) was among them." In another narration, Mujahid added that Ibn 'Abbas said, "Your Prophet ﷺ was among those whose guidance we were commanded to follow." Allah's statement,
+
+قُل لَّا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا
+
+(Say: "No reward I ask of you for this.") means, I do not ask you for any reward for delivering the Qur'an to you, nor anything else,
+
+إِنْ هُوَ إِلَّا ذِكْرَىٰ لِلْعَالَمِينَ
+
+("It is only a reminder for the 'Alamin (mankind and Jinns).") so they are reminded by it and guided from blindness to clarity, from misguidance to guidance, and from disbelief to faith.
 
 ### al-Tabari (Arabic)
 
@@ -940,9 +1012,27 @@ They will not deny any of these favors, not even one letter. Rather, they will b
 
 الَّذِينَ هَدَى اللَّهُ
 
-(those whom Alla
+(those whom Allah had guided.) meaning, they alone are the people of guidance,
 
-[TRUNCATED at 12000 chars — 1212 more. Consult the source directly before relying on anything near the cut.]
+فَبِهُدَاهُمُ اقْتَدِهْ
+
+(So follow their guidance.) Imitate them. This command to the Messenger ﷺ certainly applies to his Ummah, according to what he legislates and commands them. While mentioning this Ayah, Al-Bukhari recorded that Mujahid asked Ibn 'Abbas, "Is there an instance where prostration is warranted in [Surah] 'Şād'?" Ibn 'Abbas said, "Yes." He then recited,
+
+وَوَهَبْنَا لَهُ إِسْحَاقَ وَيَعْقُوبَ
+
+(...And We bestowed upon him Ishaq and Ya'qub...) until,
+
+فَبِهُدَاهُمُ اقْتَدِهْ
+
+(...So follow their guidance.) He commented, "He (our Prophet, Muhammad ﷺ) was among them." In another narration, Mujahid added that Ibn 'Abbas said, "Your Prophet ﷺ was among those whose guidance we were commanded to follow." Allah's statement,
+
+قُل لَّا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا
+
+(Say: "No reward I ask of you for this.") means, I do not ask you for any reward for delivering the Qur'an to you, nor anything else,
+
+إِنْ هُوَ إِلَّا ذِكْرَىٰ لِلْعَالَمِينَ
+
+("It is only a reminder for the 'Alamin (mankind and Jinns).") so they are reminded by it and guided from blindness to clarity, from misguidance to guidance, and from disbelief to faith.
 
 ### al-Tabari (Arabic)
 
@@ -1114,9 +1204,27 @@ They will not deny any of these favors, not even one letter. Rather, they will b
 
 الَّذِينَ هَدَى اللَّهُ
 
-(those whom Alla
+(those whom Allah had guided.) meaning, they alone are the people of guidance,
 
-[TRUNCATED at 12000 chars — 1212 more. Consult the source directly before relying on anything near the cut.]
+فَبِهُدَاهُمُ اقْتَدِهْ
+
+(So follow their guidance.) Imitate them. This command to the Messenger ﷺ certainly applies to his Ummah, according to what he legislates and commands them. While mentioning this Ayah, Al-Bukhari recorded that Mujahid asked Ibn 'Abbas, "Is there an instance where prostration is warranted in [Surah] 'Şād'?" Ibn 'Abbas said, "Yes." He then recited,
+
+وَوَهَبْنَا لَهُ إِسْحَاقَ وَيَعْقُوبَ
+
+(...And We bestowed upon him Ishaq and Ya'qub...) until,
+
+فَبِهُدَاهُمُ اقْتَدِهْ
+
+(...So follow their guidance.) He commented, "He (our Prophet, Muhammad ﷺ) was among them." In another narration, Mujahid added that Ibn 'Abbas said, "Your Prophet ﷺ was among those whose guidance we were commanded to follow." Allah's statement,
+
+قُل لَّا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا
+
+(Say: "No reward I ask of you for this.") means, I do not ask you for any reward for delivering the Qur'an to you, nor anything else,
+
+إِنْ هُوَ إِلَّا ذِكْرَىٰ لِلْعَالَمِينَ
+
+("It is only a reminder for the 'Alamin (mankind and Jinns).") so they are reminded by it and guided from blindness to clarity, from misguidance to guidance, and from disbelief to faith.
 
 ### al-Tabari (Arabic)
 
@@ -1362,9 +1470,27 @@ They will not deny any of these favors, not even one letter. Rather, they will b
 
 الَّذِينَ هَدَى اللَّهُ
 
-(those whom Alla
+(those whom Allah had guided.) meaning, they alone are the people of guidance,
 
-[TRUNCATED at 12000 chars — 1212 more. Consult the source directly before relying on anything near the cut.]
+فَبِهُدَاهُمُ اقْتَدِهْ
+
+(So follow their guidance.) Imitate them. This command to the Messenger ﷺ certainly applies to his Ummah, according to what he legislates and commands them. While mentioning this Ayah, Al-Bukhari recorded that Mujahid asked Ibn 'Abbas, "Is there an instance where prostration is warranted in [Surah] 'Şād'?" Ibn 'Abbas said, "Yes." He then recited,
+
+وَوَهَبْنَا لَهُ إِسْحَاقَ وَيَعْقُوبَ
+
+(...And We bestowed upon him Ishaq and Ya'qub...) until,
+
+فَبِهُدَاهُمُ اقْتَدِهْ
+
+(...So follow their guidance.) He commented, "He (our Prophet, Muhammad ﷺ) was among them." In another narration, Mujahid added that Ibn 'Abbas said, "Your Prophet ﷺ was among those whose guidance we were commanded to follow." Allah's statement,
+
+قُل لَّا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا
+
+(Say: "No reward I ask of you for this.") means, I do not ask you for any reward for delivering the Qur'an to you, nor anything else,
+
+إِنْ هُوَ إِلَّا ذِكْرَىٰ لِلْعَالَمِينَ
+
+("It is only a reminder for the 'Alamin (mankind and Jinns).") so they are reminded by it and guided from blindness to clarity, from misguidance to guidance, and from disbelief to faith.
 
 ### al-Tabari (Arabic)
 

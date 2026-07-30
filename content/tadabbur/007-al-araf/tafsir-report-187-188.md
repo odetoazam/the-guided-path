@@ -156,9 +156,41 @@ Muslim collected this Hadith. A similar Hadith is recorded in Two Sahihs from Ib
 
 ،قَالَ: فَعِنْدَ ذَلِكَ يَخْرُجُ يَأْجُوجُ وَمَأْجُوجُ وَهُمْ مِنْ كُلِّ حَدَبٍ يَنْسِلُونَ، فَيَطَأُونَ بِلَادَهُمْ لَا يَأْتُون عَلَى شَيْءٍ إِلَّا أَهْلَكُوهُ وَلَا يَمُرُّونَ عَلَى مَاءٍ إِلَّا شَرِبُوه: قَالَ: ثُمَّ يَرْجِعُ النَّاسُ إِليَّ فَيَشْكُونَهُمْ فَأَدْعُو اللهَ عَزَّ وَجَلَّ عَلَيْهِمْ فَيُهْلِكُهُمْ وَيُمِيتُهُمْ حَتَّى تَجْوَى الْأَرْضُ مِنْ نَتْنِ رِيحِهِمْ أَيْ تُنْتِنُ، قَالَ: فَيُنْزِلُ اللهُ عَزَّ وَجَلَّ الْمَطَرَ فَيَجْتَرِفُ أَجْسَادَهُمْ حَتَّى يَقْذِفَهُمْ فِي الْبَحْرِ. قال يزيد بن هارون: ثُمَّ تُنْسَفُ الْجِبَالُ وَتُمَدُّ الْأَرْضُ مَدَّ الْأَدِيمِ، ثُمَّ رَجَعَ إِلَى حَدِيثِ هُشَيْمٍ، قَالَ: فَفِيمَا عَهِدَ إِلَيَّ رَبِّي عَزَّ وَجَلَّ أَنَّ ذَلِكَ إِذَا كَانَ كَذَلِكَ، فَإِنَّ السَّاعَةَ كَالْحَامِلِ الـمُتِمِّ لَا يَدْرِي أَهْلُهَا مَتَى تُفَاجِئُهُمْ بِوَلَادَتِـهَا لَيْلًا أَوْ نَهَارًا
 
-(During the night of Isra', I met Ibrahim, Musa and 'Isa. They mentioned the matter of the Last Hour, and they asked Ibrahim about it, who said, 'I do not have knowledge of it.' They asked Musa about it and he said, 'I have no knowledge of it.' They then asked 'Isa about it, and he said, 'As for when it wil
+(During the night of Isra', I met Ibrahim, Musa and 'Isa. They mentioned the matter of the Last Hour, and they asked Ibrahim about it, who said, 'I do not have knowledge of it.' They asked Musa about it and he said, 'I have no knowledge of it.' They then asked 'Isa about it, and he said, 'As for when it will occur, only Allah, the Exalted and Most Honored, knows that. My Lord has conveyed to me that the Dajjal (False Messiah) will appear, and I will have two staffs (spears) with me. When he sees me, he will dissolve just as lead is dissolved. Allah will destroy him when he sees me, and the tree and the stone will say, 'O Muslim! There is a disbeliever under (behind) me, so come and kill him.' Allah will destroy them (the Dajjal and his army), and the people will safely go back to their lands and areas. Thereafter, Gog and Magog will appear, and they will be swarming from every mound, sweeping over the earth and destroying everything they pass by. They will drink every water source they pass. The people will come to me complaining about Gog and Magog and will invoke Allah, the Exalted and Most Honored, against them, and Allah will bring death to all of them until the earth rots with their stinking odor. Allah will send down rain on them and the rain will carry their corpses, until it throws them in the sea... My Lord, the Exalted and Most Honored has conveyed to me that when this occurs, the Hour will be just like the pregnant women when the term of pregnancy is full, her family does not know when she will surprise them and give birth, whether by night or by day.)
 
-[TRUNCATED at 12000 chars — 4013 more. Consult the source directly before relying on anything near the cut.]
+Ibn Majah also collected a similar Hadith Therefore these are the greatest of the Messengers but they did not have knowledge of the appointed term of the Hour. They asked 'Isa about it and he spoke about its Signs, since he will descend in the last generations of this Ummah, implementing the Law of Allah's Messenger ﷺ, killing the Dajjal and destroying Gog and Magog people by the blessing of his supplication. 'Isa merely informed them of the knowledge Allah gave him on this subject.
+
+Imam Ahmad recorded that Hudhayfah said, "The Messenger of Allah ﷺ was asked about the Hour and he said,
+
+عِلْمُهَا عِنْدَ رَبِّي عَزَّ وَجَلَّ لَا يُجَلِّيهَا لِوَقْتِهَا إِلَّا هُوَ، وَلَكِنْ سَأُخْبِرُكُمْ بِمَشَارِيطِهَا وَمَا يَكُونُ بَيْنَ يَدَيْهَا، إِنَّ بَيْنَ يَدَيْهَا فِتْنَةً وَهَرَجًا
+
+(Its knowledge is with my Lord, the Exalted and Most Honored, none can reveal its time except Him. However, I will tell you about its portents and the signs that precede it. Before it commences, there will be Fitnah (trials) and Harj.)
+
+They asked, 'O Allah's Messenger! We know the meaning of the Fitnah, so what is the Harj?' He said,
+
+بِلِسَانِ الْـحَبَشَةِ الْقَتْلُ
+
+(It means killing, in the Language of the Ethiopians.) He then said,
+
+وَيُلْقَى بَيْنَ النَّاسِ التَّنَاكُرُ، فَلَا يَكَادُ أَحَدٌ يَعْرِفُ أَحَدًا
+
+(Isolation and loneliness will be common between people, and therefore, almost no one will be able to recognize any other.)"
+
+None among the collectors of the six Sunan collected this Hadith using this chain of narration. Tariq bin Shihab said that the Messenger of Allah ﷺ kept mentioning the Last Hour [for people kept asking about it], until this Ayah was revealed,
+
+يَسْأَلُونَكَ عَنِ السَّاعَةِ أَيَّانَ مُرْسَاهَا
+
+(They ask you about the Hour (Day of Resurrection): "When will be its appointed time?").
+
+An-Nasa'i collected this Hadith, which has a strong chain. Therefore, this unlettered Prophet ﷺ, the chief of the Messengers and their Seal, Muhammad, may Allah's peace and blessings be on him, Muhammad, the Prophet of mercy, repentance, Al-Malhmah (great demise of the disbelievers), Al-'Aqib (who came after many Prophets), Al-Muqaffi (the last of a succession) and Al-Hashir (below whom will all people be gathered [on the Day of Gathering]) Muhammad ﷺ who said, as collected in the Sahih from Anas and Sahl bin Sa'd,
+
+بُعِثْتُ أَنَا وَالسَّاعَةَ كَهَاتَيْنِ
+
+(My sending and the Hour are like this,) and he joined his index and middle fingers. Yet, he was commanded to defer knowledge of the Last Hour to Allah if he was asked about it,
+
+قُلْ إِنَّمَا عِلْمُهَا عِندَ اللَّهِ وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ
+
+(Say: "The knowledge thereof is with Allah (alone), but most of mankind know not.")
 
 ### al-Tabari (Arabic)
 

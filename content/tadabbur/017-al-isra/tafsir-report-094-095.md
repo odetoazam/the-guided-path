@@ -218,9 +218,65 @@ A Du'a reads:
 
 ٤٠٥٩ - حدثنا بذلك محمد بن حميد، قال: حدثنا سلمة، عن ابن إسحاق، عن عياض بن دينار الليثي، قال: سمعت أبا هريرة يقول: قال أبو القاسم ﷺ. فذكر الحديث. [[الحديث: ٤٠٥٩ - محمد بن حميد الرازي شيخ الطبري: معروف مضت الرواية عنه كثيرا. ووقع في المطبوعة هنا"أحمد بن حميد" وهو غلط وتحريف.
 
-عياض بن دينار الليثي: تابعي ثقة سمع من أبي هريرة. وقد وثقه ابن إسحاق في حديث آخر.
+عياض بن دينار الليثي: تابعي ثقة سمع من أبي هريرة. وقد وثقه ابن إسحاق في حديث آخر. رواه عنه في المسند: ٧٤٨١ وترجمه البخاري في الكبير ٤/١/٢٢ وذكره ابن حبان في ثقات التابعين ص: ٢٩٩ (من كتاب الثقات المخطوط المصور) .
 
-[TRUNCATED at 12000 chars — 5580 more. Consult the source directly before relying on anything near the cut.]
+وهذا حديث صحيح معروف مشهورن من حديث أبي هريرةن ثبت عنه من غير وجه. ونظر الحديث الذي عقبه.]]
+
+٤٠٦٠- حدثنا الحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن الأعمش، عن أبي صالح عن أبي هريرة:" فهدى الله الذين آمنوا لما اختلفوا فيه من الحق بإذنه"، قال: قال النبي ﷺ: نحن الآخرون الآولون يوم القيامة، نحن أوّل الناس دخولا الجنة بيد أنهم أوتوا الكتابَ من قبلنا وأوتيناه من بعدهم، فهدانا الله لما اختلفوا فيه من الحق بإذنه فهذا اليوم الذي هدانا الله له والناس لنا فيه تبع، غدًا اليهود، وبعد غد للنصارى". [[الحديث: ٤٠٦٠ -هو في تفسير عبد الرزاق ص ٢٣ن بهذا الإسناد وكذلك رواه أحمد في المسند: ٧٦٩٢ن عن عبد الرزاق.
+
+ورواه الشيخان وغيرهما. فانظر المسند أيضًا: ٧٢١٣، ٧٣٠٨، ٧٣٩٣، ٧٣٩٥، ٧٦٩٣، وما أشرنا إليه هناك من التخريج في مواضع متعددة.]]
+
+* *
+
+وكان مما اختلفوا فيه أيضًا ما قال ابن زيد، وهو ما:-
+
+٤٠٦١ - حدثني به يونس بن عبد الأعلى، قال: أخبرنا ابن وهب، قال: قال ابن زيد في قوله:" فهدى الله الذين آمنوا" للإسلام، واختلفوا في الصلاة، فمنهم من يصلي إلى المشرق، ومنهم من يصلي إلى بيت المقدس، فهدانا للقبلة.
+
+واختلفوا في الصيام، فمنهم من يصوم بعضَ يوم، وبعضهم بعض ليلة، وهدانا الله له. واختلفوا في يوم الجمعة، فأخذت اليهود السبت وأخذت النصارى الأحد، فهدانا الله له. واختلفوا في إبراهيم، فقالت اليهود كان يهوديًا، وقالت النصارى كان نصرانيًا! فبرأه الله من ذلك، وجعله حنيفًا مسلمًا، وما كان من المشركين للذين يدَّعونه من أهل الشرك. [[في المطبوعة: "الذين يدعونه" والصواب ما أثبت.]] واختلفوا في عيسى، فجعلته اليهود لِفِرْية، وجعلته النصارى ربًا، فهدانا الله للحق فيه. فهذا الذي قال جل ثناؤه:" فهدى الله الذين آمنوا لما اختلفوا فيه من الحق بإذنه".
+
+* *
+
+قال أبو جعفر: [[في المطبوعة: قال: فكانت هداية الله جل ثناؤه. . . " يتوهم القارئ أن هذا الآتي إنما هو من الأثر السالف وليس ذلك كذلكن بل هو من كلام أبي جعفر، كما يدل عليه سياقه الآتي، وكما يتبين من رواية هذا الأثر السالف في تفسير ابن كثير ١: ٤٨٩: ٤٩٠ والدر المنثور ١: ٢٤٣. فلذلك فصلت بين الكلامين وجعلت صدر الكلام: "قال أبو جعفر".]] فكانت هداية الله جل ثناؤه الذين آمنوا بمحمد، وبما جاء به لما اختلف -هؤلاء الأحزاب من بنى إسرائيل الذين أوتوا الكتاب- فيه من الحق بإذنه أنْ وفقهم لإصابة ما كان عليه مَنْ الحق من كان قبل المختلفين الذين وصف الله صفتهم في هذه الآية، إذ كانوا أمة واحدة، وذلك هو دين إبراهيم الحنيف المسلم خليل الرحمن، فصاروا بذلك أمة وَسطًا، كما وصفهم به ربهم ليكونوا شهداء على الناس. كما:-
+
+٤٠٦٢- حدثت عن عمار بن الحسن، قال: حدثنا عبد الله بن أبي جعفر، عن أبيه عن الربيع:" فهدى الله الذين آمنوا لما اختلفوا فيه"، فهداهم الله عند الاختلاف، أنهم أقاموا على ما جاءت به الرسل قبل الاختلاف: أقاموا على الإخلاص لله وحده، وعبادته لا شريك له، وإقام الصلاة، وإيتاء الزكاة، فأقاموا على الأمر الأول الذي كان قبل الاختلاف، واعتزلوا الاختلاف، فكانوا شهداء على الناس يوم القيامة، كانوا شهداء على قوم نوح، وقوم هود، وقوم صالح، وقوم شعيب، وآل فرعون، أن رسلهم قد بلَّغوهم، وأنهم كذَّبوا رسلهم. وهي في قراءة أبي بن كعب: ﴿وَلِيَكُونُوا شُهَدَاءَ عَلَى النَّاسِ﴾ يوم القيامة ﴿وَاللَّهُ يَهْدِي مَنْ يَشَاءُ إِلَى صِرَاطٍ مُسْتَقِيمٍ﴾ . فكان أبو العالية يقول في هذه الآية المخرج من الشبهات والضلالات والفتن.
+
+٤٠٦٣ - حدثني موسى بن هارون، قال: حدثنا عمرو بن حماد، قال: حدثنا أسباط، عن السدي:" فهدى الله الذين آمنوا لما اختلفوا فيه"، يقول: اختلف الكفار فيه، فهدى الله الذي آمنوا للحق من ذلك؛ وهي في قراءة ابن مسعود:" فهدى الله الذين آمنوا لما اختلفوا عنه"، عن الإسلام. [[الأثر: ٤٠٦٣ - انظر الأثر السالف رقم: ٤٠٥٧ والتعليق عليه. وكان في المطبوعة هنا وهناك: "لما اختلفوا فيه على الإسلام"، وهو غير بين المعنى والذي أثبته هو نص ما في القرطبي ٣: ٣٣ والدر المنثور ١: ٢٤٣.]]
+
+* *
+
+قال أبو جعفر: وأمّا قوله:" بإذنه"، فإنه يعني جل ثناؤه بعلمه بما هداهم له، وقد بينا معنى"الإذن" إذْ كان بمعنى العلم في غير هذا الموضع بما أغنى عن إعادته ههنا. [[انظر ما سلف ٢: ٤٤٩- ٤٥٠.]]
+
+* *
+
+وأما قوله:" والله يهدي من يشاء إلى صراط مستقيم"، فإنه يعني به: والله يسدّد من يشاء من خلقه ويُرشده إلى الطريق القويم على الحق الذي لا اعوجاج فيه، كما هدى الذين آمنوا بمحمد ﷺ، لما اختلف الذين أوتوا الكتاب فيه بغيًا بينهم، فسددهم لإصابة الحق والصواب فيه.
+
+* *
+
+قال أبو جعفر: وفي هذه الآية البيان الواضح على صحة ما قاله أهل الحقّ: من أن كل نعمة على العباد في دينهم آو دنياهم، فمن الله جل وعز.
+
+* *
+
+فإن قال لنا قائل: وما معنى قوله:" فهدى الله الذين آمنوا لما اختلفوا فيه"؟ أهداهم للحق، أم هداهم للاختلاف؟ فإن كان هداهم للاختلاف فإنما أضلهم! وإن كان هداهم للحق، فيكف قيل،" فهدى الله الذين آمنوا لما اختلفوا فيه"؟
+
+قيل: إن ذلك على غير الوجه الذي ذهبتَ إليه، وإنما معنى ذلك: فهدى الله الذين آمنوا للحقّ فيما اختلف فيه من كتاب الله الذين أوتوه، فكفر بتبديله بعضُهم، وثبت على الحق والصواب فيه بعضهم- وهم أهل التوراة الذين بدّلوها- فهدى الله مما للحقّ بدَّلوا وحرَّفوا، الذين آمنوا من أمة محمد ﷺ.
+
+* *
+
+قال أبو جعفر: فإن أشكل ما قلنا على ذي غفلة، فقال وكيف يجوز أن يكون ذلك كما قلت، و"مِنْ" إنما هي في كتاب الله في"الحق" و"اللام" في قوله:" لما اختلفوا فيه"، وأنت تحول"اللام" في"الحق"، و"من" في"الاختلاف"، في التأويل الذي تتأوله فتجعله مقلوبًا؟ قيل: ذلك في كلام العرب موجودٌ مستفيضٌ، والله تبارك وتعالى إنما خاطبَهم بمنطقهم، فمن ذلك قول الشاعر: [[هو النابغة الجعدي.]]
+
+كَانَتْ فَرِيضَةُ مَا تَقُول كما ... كَانَ الزِّنَاءُ فَريضَةَ الرَّجْمِ [[سلف تخريج البيت في ٣: ٣١١، ٣١٢.]]
+
+وإنما الرجم فريضة الزنا. وكما قال الآخر:
+
+إنّ سِرَاجًا لَكَرِيمٌ مَفْخَرُهْ ... تَحْلَى به العَيْنُ إذَا مَا تَجْهَرُهْ [[سلف تخريج الشعر في ٣: ٣١٢.]]
+
+وإنما سراجٌ الذي يحلى بالعين، لا العين بسراج.
+
+* *
+
+وقد قال بعضهم: إن معنى قوله" فهدى الله الذين آمنوا لما اختلفوا فيه من الحق"، أن أهلَ الكتب الأوَل اختلفوا، فكفر بعضهم بكتاب بعض، وهي كلها من عند الله، فهدى الله أهلَ الإيمان بمحمد للتصديق بجميعها.
+
+وذلك قولٌ، غير أن الأوّل أصح القولين. لأن الله إنما أخبر باختلافهم في كتاب واحد.
 
 ### al-Muyassar (Arabic)
 
@@ -668,9 +724,49 @@ In the case of this gathering where the Quraysh came together to speak with the 
 
 إِنَّ الَّذِينَ حَقَّتْ عَلَيْهِمْ كَلِمَتُ رَبِّكَ لَا يُؤْمِنُونَ - وَلَوْ جَاءَتْهُمْ كُلُّ آيَةٍ حَتَّىٰ يَرَوُا الْعَذَابَ الْأَلِيمَ
 
-(Truly, those, against whom the Word (wrath) of your Lord has been justified, will not believe. Even if every sign should come to them, until 
+(Truly, those, against whom the Word (wrath) of your Lord has been justified, will not believe. Even if every sign should come to them, until they see the painful torment.)(10:96-97) And Allah says:
 
-[TRUNCATED at 12000 chars — 3285 more. Consult the source directly before relying on anything near the cut.]
+وَلَوْ أَنَّنَا نَزَّلْنَا إِلَيْهِمُ الْمَلَائِكَةَ وَكَلَّمَهُمُ الْمَوْتَىٰ وَحَشَرْنَا عَلَيْهِمْ كُلَّ شَيْءٍ قُبُلًا مَّا كَانُوا لِيُؤْمِنُوا
+
+(And even if We had sent down unto them angels, and the dead had spoken unto them, and We had gathered together all things before their very eyes, they would not have believed)[6:111] His saying;
+
+أَوْ تُسْقِطَ السَّمَاءَ كَمَا زَعَمْتَ
+
+(Or you cause the heaven to fall upon us in pieces, as you have pretended,) means, 'you promised us that on the Day of Resurrection the heavens will be split asunder, being broken and torn up, with parts of it falling down, so do that in this world and make it fall in pieces.' This is like when they said:
+
+اللَّهُمَّ إِن كَانَ هَـذَا هُوَ الْحَقَّ مِنْ عِندِكَ فَأَمْطِرْ عَلَيْنَا حِجَارَةً مِّنَ السَّمَآءِ
+
+(O Allah! If this (the Qur'an) is indeed the truth from You, then rain down stones on us from the sky.)[8:32]
+
+Similarly, the people of Shu'ayb asked him:
+
+فَأَسْقِطْ عَلَيْنَا كِسَفًا مِّنَ السَّمَاءِ إِن كُنتَ مِنَ الصَّادِقِينَ
+
+(So cause a piece of the heaven to fall on us, if you are of the truthful!)(26:187)
+
+So Allah punished them with the punishment of the day of Shadow (a gloomy cloud), which was the torment of a Great Day. [26:189] As for the Prophet of Repentance and Mercy, who was sent as a mercy to the worlds, he asked Allah to delay their punishment, in the hope that Allah would bring forth from their offspring people who would worship Allah Alone, with no partner or associate. This is what indeed did happen, for among those who are mentioned above were some who later embraced Islam and became good and sincere Muslims, even 'Abdullah bin Abi Umayyah, who followed the Prophet ﷺ (out of that meeting) and spoke to him as he did. He became a sincere Muslim and turned to Allah in repentance.
+
+أَوْ يَكُونَ لَكَ بَيْتٌ مِّن زُخْرُفٍ
+
+(Or you have a house of Zukhruf.)
+
+Ibn 'Abbas, Mujahid and Qatadah said, "This is gold." This was also what was said in the recitation of Ibn Mas'ud, "Or you have a house of gold."
+
+أَوْ تَرْقَىٰ فِي السَّمَاءِ
+
+(or you ascend up into the sky,) meaning, you climb up on a ladder while we are watching you.
+
+وَلَن نُّؤْمِنَ لِرُقِيِّكَ حَتَّىٰ تُنَزِّلَ عَلَيْنَا كِتَابًا نَّقْرَؤُهُ
+
+(and even then we will put no faith in your ascension until you bring down for us a Book that we would read.)
+
+Mujahid said, "This means a book in which there would be one page for each person, on which would be the words: 'This is a book from Allah to so-and-so the son of so-and-so, which he would find by his head when he woke up in the morning."
+
+قُلْ سُبْحَانَ رَبِّي هَلْ كُنتُ إِلَّا بَشَرًا رَّسُولًا
+
+(Say: "Glorified be my Lord! Am I anything but a man, sent as a Messenger?")
+
+meaning, 'Glorified, exalted and sanctified be He above the notion that anyone would come before Him concerning any matter pertaining to His authority and sovereignty. He is the One Who does what He wills. If He willed, he could have given you what you asked for, or if He willed, he could have refrained. I am only a Messenger to you, sent to convey the Messages of my Lord and advise you. I have done that, and the response to what you have asked is to be decided by Allah, may He be glorified.'
 
 ### al-Tabari (Arabic)
 
@@ -770,9 +866,49 @@ In the case of this gathering where the Quraysh came together to speak with the 
 
 إِنَّ الَّذِينَ حَقَّتْ عَلَيْهِمْ كَلِمَتُ رَبِّكَ لَا يُؤْمِنُونَ - وَلَوْ جَاءَتْهُمْ كُلُّ آيَةٍ حَتَّىٰ يَرَوُا الْعَذَابَ الْأَلِيمَ
 
-(Truly, those, against whom the Word (wrath) of your Lord has been justified, will not believe. Even if every sign should come to them, until 
+(Truly, those, against whom the Word (wrath) of your Lord has been justified, will not believe. Even if every sign should come to them, until they see the painful torment.)(10:96-97) And Allah says:
 
-[TRUNCATED at 12000 chars — 3285 more. Consult the source directly before relying on anything near the cut.]
+وَلَوْ أَنَّنَا نَزَّلْنَا إِلَيْهِمُ الْمَلَائِكَةَ وَكَلَّمَهُمُ الْمَوْتَىٰ وَحَشَرْنَا عَلَيْهِمْ كُلَّ شَيْءٍ قُبُلًا مَّا كَانُوا لِيُؤْمِنُوا
+
+(And even if We had sent down unto them angels, and the dead had spoken unto them, and We had gathered together all things before their very eyes, they would not have believed)[6:111] His saying;
+
+أَوْ تُسْقِطَ السَّمَاءَ كَمَا زَعَمْتَ
+
+(Or you cause the heaven to fall upon us in pieces, as you have pretended,) means, 'you promised us that on the Day of Resurrection the heavens will be split asunder, being broken and torn up, with parts of it falling down, so do that in this world and make it fall in pieces.' This is like when they said:
+
+اللَّهُمَّ إِن كَانَ هَـذَا هُوَ الْحَقَّ مِنْ عِندِكَ فَأَمْطِرْ عَلَيْنَا حِجَارَةً مِّنَ السَّمَآءِ
+
+(O Allah! If this (the Qur'an) is indeed the truth from You, then rain down stones on us from the sky.)[8:32]
+
+Similarly, the people of Shu'ayb asked him:
+
+فَأَسْقِطْ عَلَيْنَا كِسَفًا مِّنَ السَّمَاءِ إِن كُنتَ مِنَ الصَّادِقِينَ
+
+(So cause a piece of the heaven to fall on us, if you are of the truthful!)(26:187)
+
+So Allah punished them with the punishment of the day of Shadow (a gloomy cloud), which was the torment of a Great Day. [26:189] As for the Prophet of Repentance and Mercy, who was sent as a mercy to the worlds, he asked Allah to delay their punishment, in the hope that Allah would bring forth from their offspring people who would worship Allah Alone, with no partner or associate. This is what indeed did happen, for among those who are mentioned above were some who later embraced Islam and became good and sincere Muslims, even 'Abdullah bin Abi Umayyah, who followed the Prophet ﷺ (out of that meeting) and spoke to him as he did. He became a sincere Muslim and turned to Allah in repentance.
+
+أَوْ يَكُونَ لَكَ بَيْتٌ مِّن زُخْرُفٍ
+
+(Or you have a house of Zukhruf.)
+
+Ibn 'Abbas, Mujahid and Qatadah said, "This is gold." This was also what was said in the recitation of Ibn Mas'ud, "Or you have a house of gold."
+
+أَوْ تَرْقَىٰ فِي السَّمَاءِ
+
+(or you ascend up into the sky,) meaning, you climb up on a ladder while we are watching you.
+
+وَلَن نُّؤْمِنَ لِرُقِيِّكَ حَتَّىٰ تُنَزِّلَ عَلَيْنَا كِتَابًا نَّقْرَؤُهُ
+
+(and even then we will put no faith in your ascension until you bring down for us a Book that we would read.)
+
+Mujahid said, "This means a book in which there would be one page for each person, on which would be the words: 'This is a book from Allah to so-and-so the son of so-and-so, which he would find by his head when he woke up in the morning."
+
+قُلْ سُبْحَانَ رَبِّي هَلْ كُنتُ إِلَّا بَشَرًا رَّسُولًا
+
+(Say: "Glorified be my Lord! Am I anything but a man, sent as a Messenger?")
+
+meaning, 'Glorified, exalted and sanctified be He above the notion that anyone would come before Him concerning any matter pertaining to His authority and sovereignty. He is the One Who does what He wills. If He willed, he could have given you what you asked for, or if He willed, he could have refrained. I am only a Messenger to you, sent to convey the Messages of my Lord and advise you. I have done that, and the response to what you have asked is to be decided by Allah, may He be glorified.'
 
 ### al-Tabari (Arabic)
 
@@ -846,9 +982,49 @@ In the case of this gathering where the Quraysh came together to speak with the 
 
 إِنَّ الَّذِينَ حَقَّتْ عَلَيْهِمْ كَلِمَتُ رَبِّكَ لَا يُؤْمِنُونَ - وَلَوْ جَاءَتْهُمْ كُلُّ آيَةٍ حَتَّىٰ يَرَوُا الْعَذَابَ الْأَلِيمَ
 
-(Truly, those, against whom the Word (wrath) of your Lord has been justified, will not believe. Even if every sign should come to them, until 
+(Truly, those, against whom the Word (wrath) of your Lord has been justified, will not believe. Even if every sign should come to them, until they see the painful torment.)(10:96-97) And Allah says:
 
-[TRUNCATED at 12000 chars — 3285 more. Consult the source directly before relying on anything near the cut.]
+وَلَوْ أَنَّنَا نَزَّلْنَا إِلَيْهِمُ الْمَلَائِكَةَ وَكَلَّمَهُمُ الْمَوْتَىٰ وَحَشَرْنَا عَلَيْهِمْ كُلَّ شَيْءٍ قُبُلًا مَّا كَانُوا لِيُؤْمِنُوا
+
+(And even if We had sent down unto them angels, and the dead had spoken unto them, and We had gathered together all things before their very eyes, they would not have believed)[6:111] His saying;
+
+أَوْ تُسْقِطَ السَّمَاءَ كَمَا زَعَمْتَ
+
+(Or you cause the heaven to fall upon us in pieces, as you have pretended,) means, 'you promised us that on the Day of Resurrection the heavens will be split asunder, being broken and torn up, with parts of it falling down, so do that in this world and make it fall in pieces.' This is like when they said:
+
+اللَّهُمَّ إِن كَانَ هَـذَا هُوَ الْحَقَّ مِنْ عِندِكَ فَأَمْطِرْ عَلَيْنَا حِجَارَةً مِّنَ السَّمَآءِ
+
+(O Allah! If this (the Qur'an) is indeed the truth from You, then rain down stones on us from the sky.)[8:32]
+
+Similarly, the people of Shu'ayb asked him:
+
+فَأَسْقِطْ عَلَيْنَا كِسَفًا مِّنَ السَّمَاءِ إِن كُنتَ مِنَ الصَّادِقِينَ
+
+(So cause a piece of the heaven to fall on us, if you are of the truthful!)(26:187)
+
+So Allah punished them with the punishment of the day of Shadow (a gloomy cloud), which was the torment of a Great Day. [26:189] As for the Prophet of Repentance and Mercy, who was sent as a mercy to the worlds, he asked Allah to delay their punishment, in the hope that Allah would bring forth from their offspring people who would worship Allah Alone, with no partner or associate. This is what indeed did happen, for among those who are mentioned above were some who later embraced Islam and became good and sincere Muslims, even 'Abdullah bin Abi Umayyah, who followed the Prophet ﷺ (out of that meeting) and spoke to him as he did. He became a sincere Muslim and turned to Allah in repentance.
+
+أَوْ يَكُونَ لَكَ بَيْتٌ مِّن زُخْرُفٍ
+
+(Or you have a house of Zukhruf.)
+
+Ibn 'Abbas, Mujahid and Qatadah said, "This is gold." This was also what was said in the recitation of Ibn Mas'ud, "Or you have a house of gold."
+
+أَوْ تَرْقَىٰ فِي السَّمَاءِ
+
+(or you ascend up into the sky,) meaning, you climb up on a ladder while we are watching you.
+
+وَلَن نُّؤْمِنَ لِرُقِيِّكَ حَتَّىٰ تُنَزِّلَ عَلَيْنَا كِتَابًا نَّقْرَؤُهُ
+
+(and even then we will put no faith in your ascension until you bring down for us a Book that we would read.)
+
+Mujahid said, "This means a book in which there would be one page for each person, on which would be the words: 'This is a book from Allah to so-and-so the son of so-and-so, which he would find by his head when he woke up in the morning."
+
+قُلْ سُبْحَانَ رَبِّي هَلْ كُنتُ إِلَّا بَشَرًا رَّسُولًا
+
+(Say: "Glorified be my Lord! Am I anything but a man, sent as a Messenger?")
+
+meaning, 'Glorified, exalted and sanctified be He above the notion that anyone would come before Him concerning any matter pertaining to His authority and sovereignty. He is the One Who does what He wills. If He willed, he could have given you what you asked for, or if He willed, he could have refrained. I am only a Messenger to you, sent to convey the Messages of my Lord and advise you. I have done that, and the response to what you have asked is to be decided by Allah, may He be glorified.'
 
 ### al-Tabari (Arabic)
 
@@ -978,9 +1154,49 @@ In the case of this gathering where the Quraysh came together to speak with the 
 
 إِنَّ الَّذِينَ حَقَّتْ عَلَيْهِمْ كَلِمَتُ رَبِّكَ لَا يُؤْمِنُونَ - وَلَوْ جَاءَتْهُمْ كُلُّ آيَةٍ حَتَّىٰ يَرَوُا الْعَذَابَ الْأَلِيمَ
 
-(Truly, those, against whom the Word (wrath) of your Lord has been justified, will not believe. Even if every sign should come to them, until 
+(Truly, those, against whom the Word (wrath) of your Lord has been justified, will not believe. Even if every sign should come to them, until they see the painful torment.)(10:96-97) And Allah says:
 
-[TRUNCATED at 12000 chars — 3285 more. Consult the source directly before relying on anything near the cut.]
+وَلَوْ أَنَّنَا نَزَّلْنَا إِلَيْهِمُ الْمَلَائِكَةَ وَكَلَّمَهُمُ الْمَوْتَىٰ وَحَشَرْنَا عَلَيْهِمْ كُلَّ شَيْءٍ قُبُلًا مَّا كَانُوا لِيُؤْمِنُوا
+
+(And even if We had sent down unto them angels, and the dead had spoken unto them, and We had gathered together all things before their very eyes, they would not have believed)[6:111] His saying;
+
+أَوْ تُسْقِطَ السَّمَاءَ كَمَا زَعَمْتَ
+
+(Or you cause the heaven to fall upon us in pieces, as you have pretended,) means, 'you promised us that on the Day of Resurrection the heavens will be split asunder, being broken and torn up, with parts of it falling down, so do that in this world and make it fall in pieces.' This is like when they said:
+
+اللَّهُمَّ إِن كَانَ هَـذَا هُوَ الْحَقَّ مِنْ عِندِكَ فَأَمْطِرْ عَلَيْنَا حِجَارَةً مِّنَ السَّمَآءِ
+
+(O Allah! If this (the Qur'an) is indeed the truth from You, then rain down stones on us from the sky.)[8:32]
+
+Similarly, the people of Shu'ayb asked him:
+
+فَأَسْقِطْ عَلَيْنَا كِسَفًا مِّنَ السَّمَاءِ إِن كُنتَ مِنَ الصَّادِقِينَ
+
+(So cause a piece of the heaven to fall on us, if you are of the truthful!)(26:187)
+
+So Allah punished them with the punishment of the day of Shadow (a gloomy cloud), which was the torment of a Great Day. [26:189] As for the Prophet of Repentance and Mercy, who was sent as a mercy to the worlds, he asked Allah to delay their punishment, in the hope that Allah would bring forth from their offspring people who would worship Allah Alone, with no partner or associate. This is what indeed did happen, for among those who are mentioned above were some who later embraced Islam and became good and sincere Muslims, even 'Abdullah bin Abi Umayyah, who followed the Prophet ﷺ (out of that meeting) and spoke to him as he did. He became a sincere Muslim and turned to Allah in repentance.
+
+أَوْ يَكُونَ لَكَ بَيْتٌ مِّن زُخْرُفٍ
+
+(Or you have a house of Zukhruf.)
+
+Ibn 'Abbas, Mujahid and Qatadah said, "This is gold." This was also what was said in the recitation of Ibn Mas'ud, "Or you have a house of gold."
+
+أَوْ تَرْقَىٰ فِي السَّمَاءِ
+
+(or you ascend up into the sky,) meaning, you climb up on a ladder while we are watching you.
+
+وَلَن نُّؤْمِنَ لِرُقِيِّكَ حَتَّىٰ تُنَزِّلَ عَلَيْنَا كِتَابًا نَّقْرَؤُهُ
+
+(and even then we will put no faith in your ascension until you bring down for us a Book that we would read.)
+
+Mujahid said, "This means a book in which there would be one page for each person, on which would be the words: 'This is a book from Allah to so-and-so the son of so-and-so, which he would find by his head when he woke up in the morning."
+
+قُلْ سُبْحَانَ رَبِّي هَلْ كُنتُ إِلَّا بَشَرًا رَّسُولًا
+
+(Say: "Glorified be my Lord! Am I anything but a man, sent as a Messenger?")
+
+meaning, 'Glorified, exalted and sanctified be He above the notion that anyone would come before Him concerning any matter pertaining to His authority and sovereignty. He is the One Who does what He wills. If He willed, he could have given you what you asked for, or if He willed, he could have refrained. I am only a Messenger to you, sent to convey the Messages of my Lord and advise you. I have done that, and the response to what you have asked is to be decided by Allah, may He be glorified.'
 
 ### al-Tabari (Arabic)
 

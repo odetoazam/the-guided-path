@@ -150,9 +150,25 @@ Allah encourages His servants to hasten to repent, as He says:
 
 أَوْ تَقُولَ لَوْ أَنَّ اللَّهَ هَدَانِي لَكُنْتُ مِنَ الْمُتَّقِينَ - أَوْ تَقُولَ حِينَ تَرَى الْعَذَابَ لَوْ أَنَّ لِي كَرَّةً فَأَكُونَ مِنَ الْمُحْسِنِينَ
 
-(Or (lest) he should say: "If only Allah had guided me, I 
+(Or (lest) he should say: "If only Allah had guided me, I should indeed have been among those who have Taqwa ". Or he should say when he sees the torment: "If only I had another chance, then I should indeed be among the doers of good.") means, he will wish that he could go back to this world, so that he could do righteous deeds. 'Ali bin Abi Talhah reported that Ibn 'Abbas, may Allah be pleased with him, said, "Allah tells us what His servants will say before they say it and what they will do before they do it. He says:
 
-[TRUNCATED at 12000 chars — 2456 more. Consult the source directly before relying on anything near the cut.]
+وَلَا يُنَبِّئُكَ مِثْلُ خَبِيرٍ
+
+(And none can inform you like Him Who is the All-Knower)(35:14).
+
+أَنْ تَقُولَ نَفْسٌ يَا حَسْرَتَا عَلَىٰ مَا فَرَّطْتُ فِي جَنْبِ اللَّهِ وَإِنْ كُنْتُ لَمِنَ السَّاخِرِينَ - أَوْ تَقُولَ لَوْ أَنَّ اللَّهَ هَدَانِي لَكُنْتُ مِنَ الْمُتَّقِينَ - أَوْ تَقُولَ حِينَ تَرَى الْعَذَابَ لَوْ أَنَّ لِي كَرَّةً فَأَكُونَ مِنَ الْمُحْسِنِينَ
+
+(Lest a person should say: "Alas, my grief that I was undutiful to Allah, and I was indeed among those who mocked." Or he should say: "If only Allah had guided me, I should indeed have been among those who have Taqwa." Or he should say when he sees the torment: "If only I had another chance, then I should indeed be among the doers of good."). Imam Ahmad recorded that Abu Hurayrah said, "The Messenger of Allah ﷺ said:
+
+كُلُّ أَهْلِ النَّارِ يَرَىٰ مَقْعَدَهُ مِنَ الْجَنَّةِ فَيَقُولُ: لَوْ أَنَّ اللهَ هَدَانِي! فَتَكُونُ عَلَيْهِ حَسْرَةً، قال: وَكُلُّ أَهْلِ الْجَنَّةِ يَرَىٰ مَقْعَدَهُ مِنَ النَّارِ فَيَقُولُ: لَوْلَا أَنَّ اللهَ هَدَانِي، قال: فَيَكُونُ لَهُ شُكْرًا
+
+(Each of the people of Hell will be shown his place in Paradise and he will say, "If only Allah had guided me!" so it will be a source of regret for him. And each of the people of Paradise will be shown his place in Hell and he will say, "If it were not for the fact that Allah guided me," so it will be a cause of thanks.)" It was also narrated by An-Nasa'i.
+
+When the sinners wish that they could return to this world so that they could believe the Ayat of Allah and follow His Messengers, Allah will say:
+
+بَلَىٰ قَدْ جَاءَتْكَ آيَاتِي فَكَذَّبْتَ بِهَا وَاسْتَكْبَرْتَ وَكُنْتَ مِنَ الْكَافِرِينَ
+
+(Yes! Verily, there came to you My Ayat and you denied them, and were proud and were among the disbelievers.) meaning, 'O you who regret what you did, My Ayat did come to you in the world, and My proof was established against you, but you rejected it and were too arrogant to follow it, and you were among those who disbelieved in it.'
 
 ### al-Tabari (Arabic)
 

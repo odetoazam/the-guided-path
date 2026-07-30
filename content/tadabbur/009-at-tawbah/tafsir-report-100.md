@@ -704,9 +704,45 @@ There is a Hadith in the Sahih that states,
 
 وَاللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ
 
-(And Allah is All-Aware of what you do.) meaning, since Allah is perfectly aware of all things, He made 
+(And Allah is All-Aware of what you do.) meaning, since Allah is perfectly aware of all things, He made distinctions between the rewards of the believers who spent and fought before the Conquest and those who spent and fought afterwards. Surely, Allah does this by His knowledge of the intention of the former type and their perfect sincerity to Him, all the while spending in times of hardship, poverty and dire straits. This is found in the Hadith,
 
-[TRUNCATED at 12000 chars — 3230 more. Consult the source directly before relying on anything near the cut.]
+سَبَقَ دِرْهَمٌ مِائَةَ أَلْفٍ
+
+(Spending one Dirham is preceded over a hundred thousand.) There is no doubt that the people of faith consider Abu Bakr As-Siddiq to be the person who has the best share according to the meaning of this Ayah. He was the chief of those who implemented it, among all followers of all Prophets. He spent all of his wealth seeking the Face of Allah, the Exalted and Most Honored. He did it voluntarily too, not to repay a debt or a favor that anyone from mankind had on him. May Allah be pleased with him.
+
+The Encouragement to make a Handsome Loan in the Cause of Allah
+
+Allah said,
+
+مَنْ ذَا الَّذِي يُقْرِضُ اللَّهَ قَرْضًا حَسَنًا
+
+(Who is he that will lend Allah a handsome loan:) 'Umar bin Al-Khattab said that this Ayah refers to spending in Allah's cause. It was also said that it pertains to spending on children. What is correct is that it is more general than that. So all those who spend in the cause of Allah with good intentions and a sincere heart, then they fall under the generality of this Ayah. This is why Allah the Exalted said in another Ayah:
+
+مَنْ ذَا الَّذِي يُقْرِضُ اللَّهَ قَرْضًا حَسَنًا فَيُضَاعِفَهُ لَهُ
+
+(Who is he that will lend Allah handsome loan: then (Allah) will increase it manifold to his credit (in repaying),) and in another Ayah,
+
+أَضْعَافًا كَثِيرَةً
+
+(many times)(2:245), meaning, being handsome reward and tremendous provisions: Paradise on the Day of Resurrection.
+
+Ibn Abi Hatim recorded that 'Abdullah bin Mas'ud said, "When this Ayah,
+
+مَنْ ذَا الَّذِي يُقْرِضُ اللَّهَ قَرْضًا حَسَنًا فَيُضَاعِفَهُ لَهُ
+
+(Who is he that will lend Allah handsome loan: then (Allah) will increase it manifold to his credit (in repaying),) was revealed, Abu Ad-Dahdah Al-Ansari said, 'O Allah's Messenger! Does Allah ask us for a loan?' The Prophet ﷺ said,
+
+نَعَمْ، يَاأَبَا الدَّحْدَاحِ
+
+(Yes, O Abu Ad-Dahdah.) He said, 'Give me your hand, O Allah's Messenger,' and the Prophet placed his hand in his hand. Abu Ad-Dahdah said, 'Verily, I have given my garden as a loan to my Lord.' He had a garden that contained six hundred date trees; his wife and children were living in that garden too. Abu Ad-Dahdah went to his wife and called her, 'Umm Ad-Dahdah!' She said, 'Here I am.' He said, 'Leave the garden, because I have given it as a loan to my Lord, the Exalted and Most Honored.' She said, 'That is a successful trade, O Abu Ad-Dahdah!' She then transferred her goods and children. The Messenger of Allah ﷺ said,
+
+كَمْ مِنْ عَذْقٍ رَدَاحٍ فِي الْجَنَّةِ لِأَبِي الدَّحْدَاحِ
+
+(How plentiful are the sweet date clusters that Abu Ad-Dahdah has in Paradise!)" In another narration, the Prophet ﷺ said,
+
+رُبَّ نَخْلَةٍ مُدَلَّاةٍ، عُرُوقُهَا دُرٌّ وَيَاقُوتٌ، لِأَبِي الدَّحْدَاحِ فِي الْجَنَّةِ
+
+(How many a date tree that has lowered down its clusters, which are full of pearls and gems in Paradise for Abu Ad-Dahdah!)
 
 ### al-Tabari (Arabic)
 
@@ -946,7 +982,9 @@ The third type are those who followed the Muhajirin and Ansar in their good work
 
 Ibn Abi Hatim recorded that 'A'ishah said, "They were commanded to invoke Allah to forgive them, but instead, they cursed them!" She then recited this Ayah,
 
-[TRUNCATED at 12000 chars — 302 more. Consult the source directly before relying on anything near the cut.]
+وَالَّذِينَ جَاءُوا مِنْ بَعْدِهِمْ يَقُولُونَ رَبَّنَا اغْفِرْ لَنَا وَلِإِخْوَانِنَا الَّذِينَ سَبَقُونَا بِالْإِيمَانِ
+
+(And those who came after them say: "Our Lord! Forgive us and our brethren who have preceded us in faith, and put not in our hearts any hatred against those who have believed.")
 
 ### al-Tabari (Arabic)
 
@@ -1124,7 +1162,9 @@ The third type are those who followed the Muhajirin and Ansar in their good work
 
 Ibn Abi Hatim recorded that 'A'ishah said, "They were commanded to invoke Allah to forgive them, but instead, they cursed them!" She then recited this Ayah,
 
-[TRUNCATED at 12000 chars — 302 more. Consult the source directly before relying on anything near the cut.]
+وَالَّذِينَ جَاءُوا مِنْ بَعْدِهِمْ يَقُولُونَ رَبَّنَا اغْفِرْ لَنَا وَلِإِخْوَانِنَا الَّذِينَ سَبَقُونَا بِالْإِيمَانِ
+
+(And those who came after them say: "Our Lord! Forgive us and our brethren who have preceded us in faith, and put not in our hearts any hatred against those who have believed.")
 
 ### al-Tabari (Arabic)
 

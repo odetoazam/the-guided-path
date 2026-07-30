@@ -144,9 +144,83 @@ Allah next praises the Tawrah that He sent down to His servant and Messenger Mus
 
 وَالرَّبَّانِيُّونَ وَالْأَحْبَارُ
 
-(And (also) the 'Rabbāniyyūn' and the 'Aḥb
+(And (also) the 'Rabbāniyyūn' and the 'Aḥbār'...) wherein 'Rabbāniyyūn' refers to the worshippers who are learned and religious, and 'Aḥbār' refers to the scholars,
 
-[TRUNCATED at 12000 chars — 6723 more. Consult the source directly before relying on anything near the cut.]
+بِمَا اسْتُحْفِظُوا مِن كِتَابِ اللَّهِ
+
+(for to them was entrusted the protection of Allah's Book,) meaning, they were entrusted with the Book of Allah, and they were commanded to adhere to it and not hide any part of,
+
+وَكَانُوا عَلَيْهِ شُهَدَاءَ فَلَا تَخْشَوُا النَّاسَ وَاخْشَوْنِ وَلَا تَشْتَرُوا بِآيَاتِي ثَمَنًا قَلِيلًا وَمَن لَّمْ يَحْكُم بِمَا أَنزَلَ اللَّهُ فَأُولَٰئِكَ هُمُ الْكَافِرُونَ
+
+(and they were witnesses thereto. Therefore fear not men but fear Me and sell not My verses for a miserable price. And whosoever does not judge by what Allah has revealed, such are the disbelievers.)
+
+There are two ways to explain this Ayah and we will mention the later.
+
+Another Reason Behind Revealing these Honorable Ayat
+
+Imam Ahmad recorded that Ibn 'Abbas said, "Allah sent down the Ayat,
+
+وَمَن لَّمْ يَحْكُم بِمَا أَنزَلَ اللَّهُ فَأُولَٰئِكَ هُمُ الْكَافِرُونَ
+
+(And whosoever does not judge by what Allah has revealed, such are the disbelievers,)
+
+فَأُولَٰئِكَ هُمُ الظَّالِمُونَ
+
+(Such are the unjust,) and,
+
+فَأُولَٰئِكَ هُمُ الْفَاسِقُونَ
+
+(Such are the rebellious.) about two groups among the Jews. During the time of Jahiliyyah, one of them had defeated the other. As a result, they made a treaty that they would pay blood money totaling fifty Wasaq [of gold](each Wasaq approx. 3 kg) for every dead person from the defeated group killed by the victors, and a hundred Wasaq for every dead person the defeated group killed from the victors. This treaty remained in effect until the Prophet ﷺ came to Al-Madinah and both of these groups became subservient under the Prophet ﷺ. Yet, when the mighty group once suffered a casualty at the hands of the weaker group, the mighty group sent a delegation demanding the hundred Wasaq. The weaker group said, 'How can two groups who have the same religion, one ancestral lineage and a common land, have a Diyah that for some of them is half of that of the others? We only agreed to this because you oppressed us and because we feared you. Now that Muhammad has come, we will not give you what you asked.' So war was almost rekindled between them, but they agreed to seek Muhammad's judgement in their dispute. The mighty group among them said [among themselves], 'By Allah! Muhammad will never give you double the Diyah that you pay to them compared to what they pay to you. They have said the truth anyway, for they only gave us this amount because we oppressed and overpowered them. Therefore, send someone to Muhammad who will sense what his judgement will be. If he agrees to give you what you demand, accept his judgment, and if he does not give you what you seek, do not refer to him for judgement.' So they sent some hypocrites to the Messenger of Allah ﷺ to try and find out the Messenger's judgement. When they came to the Messenger ﷺ, Allah informed him of their matter and of their plot. Allah sent down,
+
+يَا أَيُّهَا الرَّسُولُ لَا يَحْزُنكَ الَّذِينَ يُسَارِعُونَ فِي الْكُفْرِ
+
+(O Messenger! Let not those who hurry to fall into disbelief grieve you,)[5:41] until,
+
+الْفَاسِقُونَ
+
+(Such are the rebellious.)[5:47]
+
+By Allah! It is because of their problem that Allah sent down these verses and it is they whom Allah meant."
+
+Abu Dawud collected a similar narration for this Hadith. Abu Ja'far Ibn Jarir recorded that Ibn 'Abbas said that the Ayah in Surat Al-Ma'idah,
+
+فَاحْكُم بَيْنَهُمْ أَوْ أَعْرِضْ عَنْهُمْ
+
+(either judge between them, or turn away from them...)[5:42] until,
+
+الْمُقْسِطِينَ
+
+(Those who act justly.)[5:42] was revealed concerning the problem of blood money between Bani An-Nadir and Bani Qurayzah. The dead of Bani An-Nadir were being honored more and they received the full amount of Diyah, while Qurayzah received half the Diyah for their dead. So they referred to the Messenger of Allah ﷺ for judgement and Allah sent down these verses about them. The Messenger of Allah compelled them to adhere to the true judgement in this matter and made the Diyah the same for both groups and Allah knows best about that matter." Ahmad, Abu Dawud and An-Nasa'i also recorded this Hadith from Abu Ishaq.
+
+Al-'Awfi and 'Ali bin Abi Talhah reported that Ibn 'Abbas said that these Ayat were revealed about the two Jews who committed adultery, and we mentioned the Hadiths about this story before. It appears that both of these were the reasons behind revealing these Ayat, and Allah knows best. This is why Allah said afterwards,
+
+وَكَتَبْنَا عَلَيْهِمْ فِيهَا أَنَّ النَّفْسَ بِالنَّفْسِ وَالْعَيْنَ بِالْعَيْنِ
+
+(And We ordained therein for them: Life for life, eye for eye) until the end of the Ayah, which strengthens the opinion that the story of the Diyah was behind revealing the Ayat as we explained above. Allah knows best. Allah said,
+
+وَمَن لَّمْ يَحْكُم بِمَا أَنزَلَ اللَّهُ فَأُولَٰئِكَ هُمُ الْكَافِرُونَ
+
+(And whosoever does not judge by what Allah has revealed, such are the disbelievers.)
+
+Al-Bara' bin 'Azib, Hudhayfah bin Al-Yaman, Ibn 'Abbas, Abu Mijlaz, Abu Raja' Al-'Utaridi, 'Ikrimah, 'Ubaydullah bin 'Abdullah, Al-Hasan Al-Basri and others said that this Ayah was revealed about the People of the Book. Al-Hasan Al-Basri added that this Ayah also applies to us. 'Abdur-Razzaq said that Ath-Thawri said that Mansur said that Ibrahim said that these Ayat, "Were revealed about the Children of Israel, and Allah accepted them for this Ummah." Ibn Jarir recorded this statement.
+
+'Ali bin Abi Talhah also stated that Ibn 'Abbas commented on Allah's statement,
+
+وَمَن لَّمْ يَحْكُم بِمَا أَنزَلَ اللَّهُ فَأُولَٰئِكَ هُمُ الْكَافِرُونَ
+
+(And whosoever does not judge by what Allah has revealed, such are the disbelievers,)
+
+"Whoever rejects what Allah has revealed, will have committed Kufr, and whoever accepts what Allah has revealed, but did not rule by it, is a Zalim (unjust) and a Fasiq (rebellious) and a sinner." Ibn Jarir recorded this statement.
+
+'Abdur-Razzaq said, "Ma'mar narrated to us that Tawus said that Ibn 'Abbas was asked about Allah's statement,
+
+وَمَن لَّمْ يَحْكُم
+
+(And whosoever does not judge...) He said, 'It is an act of Kufr.' Ibn Tawus added, 'It is not like those who disbelieve in Allah, His angels, His Books and His Messengers.' Ath-Thawri narrated that Ibn Jurayj said that 'Ata' said, 'There is Kufr and Kufr less than Kufr, Zulm and Zulm less than Zulm, Fisq and Fisq less than Fisq.'" Waki' said that Sa'id Al-Makki said that Tawus said that,
+
+وَمَن لَّمْ يَحْكُم بِمَا أَنزَلَ اللَّهُ فَأُولَٰئِكَ هُمُ الْكَافِرُونَ
+
+(And whosoever does not judge by what Allah has revealed, such are the disbelievers,) "This is not the Kufr that annuls one's religion."
 
 ### al-Tabari (Arabic)
 
@@ -320,9 +394,83 @@ Allah next praises the Tawrah that He sent down to His servant and Messenger Mus
 
 وَالرَّبَّانِيُّونَ وَالْأَحْبَارُ
 
-(And (also) the 'Rabbāniyyūn' and the 'Aḥb
+(And (also) the 'Rabbāniyyūn' and the 'Aḥbār'...) wherein 'Rabbāniyyūn' refers to the worshippers who are learned and religious, and 'Aḥbār' refers to the scholars,
 
-[TRUNCATED at 12000 chars — 6723 more. Consult the source directly before relying on anything near the cut.]
+بِمَا اسْتُحْفِظُوا مِن كِتَابِ اللَّهِ
+
+(for to them was entrusted the protection of Allah's Book,) meaning, they were entrusted with the Book of Allah, and they were commanded to adhere to it and not hide any part of,
+
+وَكَانُوا عَلَيْهِ شُهَدَاءَ فَلَا تَخْشَوُا النَّاسَ وَاخْشَوْنِ وَلَا تَشْتَرُوا بِآيَاتِي ثَمَنًا قَلِيلًا وَمَن لَّمْ يَحْكُم بِمَا أَنزَلَ اللَّهُ فَأُولَٰئِكَ هُمُ الْكَافِرُونَ
+
+(and they were witnesses thereto. Therefore fear not men but fear Me and sell not My verses for a miserable price. And whosoever does not judge by what Allah has revealed, such are the disbelievers.)
+
+There are two ways to explain this Ayah and we will mention the later.
+
+Another Reason Behind Revealing these Honorable Ayat
+
+Imam Ahmad recorded that Ibn 'Abbas said, "Allah sent down the Ayat,
+
+وَمَن لَّمْ يَحْكُم بِمَا أَنزَلَ اللَّهُ فَأُولَٰئِكَ هُمُ الْكَافِرُونَ
+
+(And whosoever does not judge by what Allah has revealed, such are the disbelievers,)
+
+فَأُولَٰئِكَ هُمُ الظَّالِمُونَ
+
+(Such are the unjust,) and,
+
+فَأُولَٰئِكَ هُمُ الْفَاسِقُونَ
+
+(Such are the rebellious.) about two groups among the Jews. During the time of Jahiliyyah, one of them had defeated the other. As a result, they made a treaty that they would pay blood money totaling fifty Wasaq [of gold](each Wasaq approx. 3 kg) for every dead person from the defeated group killed by the victors, and a hundred Wasaq for every dead person the defeated group killed from the victors. This treaty remained in effect until the Prophet ﷺ came to Al-Madinah and both of these groups became subservient under the Prophet ﷺ. Yet, when the mighty group once suffered a casualty at the hands of the weaker group, the mighty group sent a delegation demanding the hundred Wasaq. The weaker group said, 'How can two groups who have the same religion, one ancestral lineage and a common land, have a Diyah that for some of them is half of that of the others? We only agreed to this because you oppressed us and because we feared you. Now that Muhammad has come, we will not give you what you asked.' So war was almost rekindled between them, but they agreed to seek Muhammad's judgement in their dispute. The mighty group among them said [among themselves], 'By Allah! Muhammad will never give you double the Diyah that you pay to them compared to what they pay to you. They have said the truth anyway, for they only gave us this amount because we oppressed and overpowered them. Therefore, send someone to Muhammad who will sense what his judgement will be. If he agrees to give you what you demand, accept his judgment, and if he does not give you what you seek, do not refer to him for judgement.' So they sent some hypocrites to the Messenger of Allah ﷺ to try and find out the Messenger's judgement. When they came to the Messenger ﷺ, Allah informed him of their matter and of their plot. Allah sent down,
+
+يَا أَيُّهَا الرَّسُولُ لَا يَحْزُنكَ الَّذِينَ يُسَارِعُونَ فِي الْكُفْرِ
+
+(O Messenger! Let not those who hurry to fall into disbelief grieve you,)[5:41] until,
+
+الْفَاسِقُونَ
+
+(Such are the rebellious.)[5:47]
+
+By Allah! It is because of their problem that Allah sent down these verses and it is they whom Allah meant."
+
+Abu Dawud collected a similar narration for this Hadith. Abu Ja'far Ibn Jarir recorded that Ibn 'Abbas said that the Ayah in Surat Al-Ma'idah,
+
+فَاحْكُم بَيْنَهُمْ أَوْ أَعْرِضْ عَنْهُمْ
+
+(either judge between them, or turn away from them...)[5:42] until,
+
+الْمُقْسِطِينَ
+
+(Those who act justly.)[5:42] was revealed concerning the problem of blood money between Bani An-Nadir and Bani Qurayzah. The dead of Bani An-Nadir were being honored more and they received the full amount of Diyah, while Qurayzah received half the Diyah for their dead. So they referred to the Messenger of Allah ﷺ for judgement and Allah sent down these verses about them. The Messenger of Allah compelled them to adhere to the true judgement in this matter and made the Diyah the same for both groups and Allah knows best about that matter." Ahmad, Abu Dawud and An-Nasa'i also recorded this Hadith from Abu Ishaq.
+
+Al-'Awfi and 'Ali bin Abi Talhah reported that Ibn 'Abbas said that these Ayat were revealed about the two Jews who committed adultery, and we mentioned the Hadiths about this story before. It appears that both of these were the reasons behind revealing these Ayat, and Allah knows best. This is why Allah said afterwards,
+
+وَكَتَبْنَا عَلَيْهِمْ فِيهَا أَنَّ النَّفْسَ بِالنَّفْسِ وَالْعَيْنَ بِالْعَيْنِ
+
+(And We ordained therein for them: Life for life, eye for eye) until the end of the Ayah, which strengthens the opinion that the story of the Diyah was behind revealing the Ayat as we explained above. Allah knows best. Allah said,
+
+وَمَن لَّمْ يَحْكُم بِمَا أَنزَلَ اللَّهُ فَأُولَٰئِكَ هُمُ الْكَافِرُونَ
+
+(And whosoever does not judge by what Allah has revealed, such are the disbelievers.)
+
+Al-Bara' bin 'Azib, Hudhayfah bin Al-Yaman, Ibn 'Abbas, Abu Mijlaz, Abu Raja' Al-'Utaridi, 'Ikrimah, 'Ubaydullah bin 'Abdullah, Al-Hasan Al-Basri and others said that this Ayah was revealed about the People of the Book. Al-Hasan Al-Basri added that this Ayah also applies to us. 'Abdur-Razzaq said that Ath-Thawri said that Mansur said that Ibrahim said that these Ayat, "Were revealed about the Children of Israel, and Allah accepted them for this Ummah." Ibn Jarir recorded this statement.
+
+'Ali bin Abi Talhah also stated that Ibn 'Abbas commented on Allah's statement,
+
+وَمَن لَّمْ يَحْكُم بِمَا أَنزَلَ اللَّهُ فَأُولَٰئِكَ هُمُ الْكَافِرُونَ
+
+(And whosoever does not judge by what Allah has revealed, such are the disbelievers,)
+
+"Whoever rejects what Allah has revealed, will have committed Kufr, and whoever accepts what Allah has revealed, but did not rule by it, is a Zalim (unjust) and a Fasiq (rebellious) and a sinner." Ibn Jarir recorded this statement.
+
+'Abdur-Razzaq said, "Ma'mar narrated to us that Tawus said that Ibn 'Abbas was asked about Allah's statement,
+
+وَمَن لَّمْ يَحْكُم
+
+(And whosoever does not judge...) He said, 'It is an act of Kufr.' Ibn Tawus added, 'It is not like those who disbelieve in Allah, His angels, His Books and His Messengers.' Ath-Thawri narrated that Ibn Jurayj said that 'Ata' said, 'There is Kufr and Kufr less than Kufr, Zulm and Zulm less than Zulm, Fisq and Fisq less than Fisq.'" Waki' said that Sa'id Al-Makki said that Tawus said that,
+
+وَمَن لَّمْ يَحْكُم بِمَا أَنزَلَ اللَّهُ فَأُولَٰئِكَ هُمُ الْكَافِرُونَ
+
+(And whosoever does not judge by what Allah has revealed, such are the disbelievers,) "This is not the Kufr that annuls one's religion."
 
 ### al-Tabari (Arabic)
 
@@ -446,9 +594,149 @@ Allah next praises the Tawrah that He sent down to His servant and Messenger Mus
 
 وقد اختلف أهل التأويل في تأويل"الكفر" في هذا الموضع.
 
-فقال بعضهم بن
+فقال بعضهم بنحو ما قلنا في ذلك، من أنه عنى به اليهود الذين حَرَّفوا كتاب الله وبدَّلوا حكمه.
 
-[TRUNCATED at 12000 chars — 20113 more. Consult the source directly before relying on anything near the cut.]
+ذكر من قال ذلك:
+
+١٢٠٢٢ - حدثنا ابن وكيع قال، حدثنا أبو معاوية، عن الأعمش، عن عبد الله بن مرة، عن البراء بن عازب، عن النبي ﷺ في قوله:"ومن لم يحكم بما أنزل الله فأولئك هم الكافرون"، ﴿وَمَنْ لَمْ يَحْكُمْ بِمَا أَنزلَ اللَّهُ فَأُولَئِكَ هُمُ الظَّالِمُونَ﴾ [سورة المائدة: ٤٥] ، ﴿وَمَنْ لَمْ يَحْكُمْ بِمَا أَنزلَ اللَّهُ فَأُولَئِكَ هُمُ الْفَاسِقُونَ﴾ [سورة المائدة: ٤٧] ، في الكافرين كلها. [[الأثر: ١٢٠٢٢- مضى تخريج هذا الأثر، مطولا فيما سلف رقم: ١١٩٢٢، وتتمته برقم: ١١٩٣٩، ورواه أبو جعفر هناك مختصرًا، وهذا تمامه هنا.]]
+
+١٢٠٢٣ - حدثني المثنى قال، حدثنا إسحاق قال، حدثنا محمد بن القاسم قال، حدثنا أبو حيان، عن أبي صالح قال: الثلاث الآيات التي في"المائدة"،"ومن لم يحكم بما أنزل الله فأولئك هم الكافرون"= ﴿فَأُولَئِكَ هُمُ الظَّالِمُونَ﴾ ، ﴿فَأُولَئِكَ هُمُ الْفَاسِقُونَ﴾ ، ليس في أهل الإسلام منها شيءٌ، هي في الكفار. [[الأثر: ١٢٠٢٣-"أبو حيان" هو: "يحيى بن سعيد بن حيان التيمي"، سلف برقم: ٥٣٨٢، ٥٣٨٣، ٦٣١٨، ٨١٥٥. وكان في المخطوطة هنا: "أبو حباب"، وفي الأثر التالي، أيضا وكأن الراجح هو ما أثبت في المطبوعة. وانظر التعليق على الأثر التالي.]]
+
+١٢٠٢٤ - حدثنا ابن وكيع قال، حدثنا أبي، عن أبي حيان، عن الضحاك:"ومن لم يحكم بما أنزل الله فأولئك هم الكافرون"، و"الظالمون" و"الفاسقون"، قال: نزلت هؤلاء الآيات في أهل الكتاب. [[الأثر: ١٢٠٢٤-"أبو حبان"، "يحيى بن سعيد بن حيان التيمي"، انظر التعليق على الأثر السالف، و"أبو حيان التيمي"، يروي عن الضحاك. وكان في المطبوعة هنا أيضا"أبي حباب". وانظر التعليق على الأثر السالف.]]
+
+١٢٠٢٥ - حدثنا محمد بن عبد الأعلى قال، حدثنا المعتمر بن سليمان قال، سمعت عمران بن حدير قال، أتى أبا مجلز ناسٌ من بني عمرو بن سدوس، فقالوا: يا أبا مجلز، أرأيت قول الله:"ومن لم يحكم بما أنزل الله فأولئك هم الكافرون"، أحق هو؟ قال: نعم! قالوا: ﴿وَمَنْ لَمْ يَحْكُمْ بِمَا أَنزلَ اللَّهُ فَأُولَئِكَ هُمُ الظَّالِمُونَ﴾ ، أحق هو؟ قال: نعم! قالوا: ﴿وَمَنْ لَمْ يَحْكُمْ بِمَا أَنزلَ اللَّهُ فَأُولَئِكَ هُمُ الْفَاسِقُونَ﴾ ، أحق هو؟ قال: نعم! قال فقالوا: يا أبا مجلز، فيحكم هؤلاء بما أنزل الله؟ قال: هو دينهم الذي يدينون به، وبه يقولون، وإليه يدْعون، فإن هم تركوا شيئًا منه عرفوا أنهم قد أصابوا ذنبًا! فقالوا: لا والله، ولكنك تَفْرَقُ! [[في المطبوعة: "ولكنك تعرف"، وهو خطأ صرف، صوابه في المخطوطة."فرق يفرق فرقًا": فرغ وجزع.]] قال: أنتم أولى بهذا مني! لا أرى، وإنكم أنتم ترون هذا ولا تحرَّجُون، ولكنها أنزلت في اليهود والنصارى وأهل الشرك= أو نحوًا من هذا.
+
+١٢٠٢٦ - حدثني المثنى قال، حدثنا حجاج قال، حدثنا حماد، عن عمران بن حدير قال: قعد إلى أبي مجلز نفرٌ من الإبَاضيَّة، قال فقالوا له: يقول الله:"ومن لم يحكم بما أنزل الله فأولئك هم الكافرون"،"فأولئك هم الظالمون"،"فأولئك هم الفاسقون"! قال أبو مجلز: إنهم يعملون بما يعلمون = يعني الأمراء = ويعلمون أنه ذنب! [[في المطبوعة: "إنهم يعملون ما يعملون"، وفي المخطوطة: "إنه يعملون بما يعملون"، وصواب القراءة ما أثبت.]] قال: وإنما أنزلت هذه الآية في اليهود! والنصارى قالوا: أما والله إنك لتعلم مثل ما نعلم، ولكنك تخشاهم! قال: أنتم أحق بذلك منّا! أمّا نحن فلا نعرف ما تعرفون! [قالوا] : [[ظاهر السياق يقتضي زيادة ما زدت بين القوسين، فهو منهم تقريع لأبي مجلز وسائر من يقول بقوله، ويخالف الإباضية.]] ولكنكم تعرفونه، ولكن يمنعكم أن تمضوا أمركم من خشيتهم! [[الأثران: ١٢٠٢٥، ١٢٠٢٦- اللهم إني أبرأ إليك من الضلالة. وبعد، فإن أهل الريب والفتن ممن تصدروا للكلام في زماننا هذا، قد تلمس المعذرة لأهل السلطان في ترك الحكم بما أنزل الله، وفي القضاء في الدماء والأعراض والأموال بغير شريعة الله التي أنزلها في كتابه، وفي اتخاذهم قانون أهل الكفر شريعة في بلاد الإسلام. فلما وقف على هذين الخبرين، اتخذهما رأيًا يرى به صواب القضاء في الأموال والأعراض والدماء بغير ما أنزل الله، وأن مخالفة شريعة الله في القضاء العام لا تكفر الراضي بها، والعامل عليها.
+
+والناظر في هذين الخبرين لا محيص له عن معرفة السائل والمسئول، فأبو مجلز (لاحق بن حميد الشيباني السدوسي) تابعي ثقة، وكان يحب عليا رضي الله عنه. وكان قوم أبي مجلز، وهم بنو شيبان، من شيعة علي يوم الجمل وصفين. فلما كان أمر الحكمين يوم صفين، واعتزلت الخوارج، كان فيمن خرج على علي رضي الله عنه، طائفة من بني شيبان، ومن بني سدوس بن شيبان بن ذهل. وهؤلاء الذين سألوا أبا مجلز، ناس من بني عمرو بن سدوس (كما في الأثر: ١٢٠٢٥) ، وهم نفر من الإباضية (كما في الأثر: ١٢٠٢٦) ، والإباضية من جماعة الخوارج الحرورية، هم أصحاب عبد الله بن إباض التيمي (انظر هذا التفسير ٧: ١٥٢-١٥٣، تعليق: ١) ، وهم يقولون بمقالة سائر الخوارج في التحكيم، وفي تكفير علي رضي الله عنه إذ حكم الحكمين، وأن عليًا لم يحكم بما أنزل الله، في أمر التحكيم. ثم إن عبد الله بن إباض قال" إن من خالف الخوارج كافر ليس بمشرك، فخالف أصحابه، وأقام الخوارج على أن أحكام المشركين تجري على من خالفهم.
+
+ثم افترقت الإباضية بعد عبد الله بن إباض الإمام افتراقًا لا ندري معه -في أمر هذين الخبرين- من أي الفرق كان هؤلاء السائلون، بيد أن الإباضية كلها تقول: إن دور مخالفيهم دور توحيد، إلا معسكر السلطان فإنه دار كفر عندهم. ثم قالوا أيضًا: إن جميع ما افترض الله سبحانه على خلقه إيمان، وأن كل كبيرة فهي كفر نعمة، لا كفر شرك، وأن مرتكبي الكبائر في النار خالدون مخلدون فيها.
+
+ومن البين أن الذين سألوا أبا مجلز من الإباضية، إنما كانوا يريدون أن يلزموه الحجة في تكفير الأمراء، لأنهم في معسكر السلطان، ولأنهم ربما عصوا أو ارتكبوا بعض ما نهاهم الله عن ارتكابه. ولذلك قال لهم في الخبر الأول (رقم: ١٢٠٢٥) : "فإن هم تركوا شيئًا منه عرفوا أنهم قد أصابوا ذنبًا"، وقال لهم في الخبر الثاني"إنهم يعملون بما يعملون ويعلمون أنه ذنب".
+
+وإذن، فلم يكن سؤالهم عما احتج به مبتدعة زماننا، من القضاء في الأموال والأعراض والدماء بقانون مخالف لشريعة أهل الإسلام، ولا في إصدار قانون ملزم لأهل الإسلام، بالاحتكام إلى حكم غير حكم الله في كتابه وعلى لسان نبيه ﷺ. فهذا الفعل إعراض عن حكم الله، ورغبة عن دينه، وإيثار لأحكام أهل الكفر على حكم الله سبحانه وتعالى، وهذا كفر لا يشك أحد من أهل القبلة على اختلافهم في تكفير القائل به والداعي إليه.
+
+والذي نحن فيه اليوم، هو هجر لأحكام الله عامة بلا استثناء، وإيثار أحكام غير حكمه في كتابه وسنة نبيه، وتعطيل لكل ما في شريعة الله، بل بلغ الأمر مبلغ الاحتجاج على تفضيل أحكام القانون الموضوع، على أحكام الله المنزلة، وادعاء المحتجين لذلك بأن أحكام الشريعة إنما نزلت لزمان غير زماننا، ولعلل وأسباب انقضت، فسقطت الأحكام كلها بانقضائها. فأين هذا مما بيناه من حديث أبي مجلز، والنفر من الإباضية من بني عمرو بن سدوس!!
+
+ولو كان الأمر على ما ظنوا في خبر أبي مجلز، أنهم أرادوا مخالفة السلطان في حكم من أحكام الشريعة. فإنه لم يحدث في تاريخ الإسلام أن سن حاكم حكما وجعله شريعة ملزمة للقضاء بها. هذه واحدة. وأخرى، أن الحاكم الذي حكم في قضية بعينها بغير حكم الله فيها، فإنه إما أن يكون حكم بها وهو جاهل، فهذا أمره أمر الجاهل بالشريعة. وإما أن يكون حكم بها هوى ومعصية، فهذا ذنب تناوله التوبة، وتلحقه المغفرة. وإما أن يكون حكم به متأولا حكمًا خالف به سائر العلماء، فهذا حكمه حكم كل متأول يستمد تأويله من الإقرار بنص الكتاب، وسنة رسول الله.
+
+وأما أن يكون كان في زمن أبي مجلز أو قبله أو بعده حاكم حكم بقضاء في أمر، جاحدًا لحكم من أحكام الشريعة، أو مؤثرًا لأحكام أهل الكفر على أحكام أهل الإسلام، فذلك لم يكن قط. فلا يمكن صرف كلام أبي مجلز والإباضيين إليه. فمن احتج بهذين الأثرين وغيرهما في غير بابها، وصرفها إلى غير معناها، رغبة في نصرة سلطان، أو احتيالا على تسويغ الحكم بغير ما أنزل الله وفرض على عباده، فحكمه في الشريعة حكم الجاحد لحكم من أحكام الله: أن يستتاب، فإن أصر وكابر وجحد حكم الله، ورضى بتبديل الأحكام= فحكم الكافر المصر على كفره معروف لأهل هذا الدين. واقرأ كلمة أبي جعفر بعد ص: ٣٥٨، من أول قوله: "فإن قال قائل". ففيه قول فصل. وتفصيل القول في خطأ المستدلين بمثل هذين الخبرين، وما جاء من الآثار هنا في تفسير هذه الآية، يحتاج إلى إفاضة، اجتزأت فيها بما كتبت الآن، وكتبه محمود محمد شاكر.]]
+
+١٢٠٢٧ - حدثنا ابن بشار قال، حدثنا عبد الرحمن قال، حدثنا سفيان= وحدثنا ابن وكيع قال، حدثنا أبي، عن سفيان= عن حبيب بن أبي ثابت، عن أبي البختري، عن حذيفة في قوله:"ومن لم يحكم بما أنزل الله فأولئك هم الكافرون"، قال: نعم الإخوة لكم بنو إسرائيل، إن كانت لكم كل حُلْوة، ولهم كل مُرَّة!! ولتسلُكُنَّ طريقَهم قِدَى الشِّراك. [[الأثر: ١٢٠٢٧-"حبيب بن أبي ثابت الأسدي"، ثقة صدوق. مضى برقم: ٩٠١٢، ٩٠٣٥، ١٠٤٢٣.
+
+و"أبو البختري"، هو"سعيد بن فيروز الطائي"، تابعي ثقة، يرسل الحديث عن عمر وحذيفة وسلمان وابن مسعود. قال ابن سعد في الطبقات ٦: ٢٠٤: "وكان أبو البختري كثير الحديث، يرسل حديثه، ويروي عن أصحاب رسول الله ﷺ، ولم يسمع من كبير أحد. فما كان من حديثه سماعًا فهو حسن، وما كان"عن"، فهو ضعيف". ومضى برقم: ١٧٥، ١٤٩٧، فهو حديث منقطع، لأن أبا البختري لم يسمع من حذيفة.
+
+وقوله: "قدى" (بكسر القاف وفتح الدال) . يقال: "هو مني قيد رمح" (بكسر القاف) و"قاد رمح" و"قدى رمح" بمعنى، واحد: أي: قدر رمح، قال هدبة بن الخشرم: وَإِنِّي إِذَا مَا المَوْتُ لَمْ يَكُ دُونَهُ ... قِدَى الشِّبْرِ، أَحْمِي الأنْفَ أَنْ أَتَأَخَّرَا
+
+و"الشراك": سير النعل، ويضرب به المثل في الصغر والقصر. يريده تشبونهم: لا يكاد أمركم يختلف إلا قدر كذا وكذا.
+
+وكان في المطبوعة هنا: "قدر الشراك"، وأثبت ما في المخطوطة، في هذا الأثر، وفي رقم: ١٢٠٣٠.
+
+وخبر حذيفة، رواه الحاكم في المستدرك ٢: ٣١٢، ٣١٣، من طريق جرير، عن الأعمش، عن إبراهيم، عن همام، قال: "كنا عند حذيفة، فذكروا: "ومن لم يحكم لما أنزل الله فأولئك هم الكافرون"، فقال رجل من القوم: إن هذه في بني إسرائيل! فقال حذيفة: نعم الإخوة بنو إسرائيل، إن كان لكم الحلو، ولهم المر! كلا، والذي نفسي بيده، حتى تحذوا السنة بالسنة حذو القذة بالقذة". وقال الحاكم: "هذا حديث صحيح على شرط الشيخين ولم يخرجاه"، ووافقه الذهبي."السنة": الطريقة المتبعة. و"القذة": ريش السهم، يقدر الريش بعضه على بعض ليخرج متساويا.]]
+
+١٢٠٢٨ - حدثنا ابن وكيع قال، حدثنا أبي، عن أبي حيان، عن الضحاك:"ومن لم يحكم بما أنزل الله فأولئك هم الكافرون"، و"الظالمون" و"الفاسقون"، قال: نزلت هؤلاء الآيات في أهل الكتاب.
+
+١٢٠٢٩ - حدثنا هناد بن السري قال، حدثنا وكيع، عن سفيان، عن حبيب بن أبي ثابت، عن أبي البختري قال: قيل لحذيفة:"ومن لم يحكم بما أنزل الله فأولئك هم الكافرون"، ثم ذكر نحو حديث ابن بشار، عن عبد الرحمن.
+
+١٢٠٣٠ - حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا الثوري، عن حبيب بن أبي ثابت، عن أبي البختري قال: سأل رجل حذيفة عن هؤلاء الآيات:"ومن لم يحكم بما أنزل الله فأولئك هم الكافرون"،"فأولئك هم الظالمون""فأولئك هم الفاسقون"، قال فقيل: ذلك في بني إسرائيل؟ قال: نعم الإخوة لكم بنو إسرائيل، إن كانت لهم كل مُرَّة، ولكم كل حلوة! كلا والله، لتسلكن طريقَهم قِدَى الشراك. [[الأثران: ١٢٠٢٩، ١٢٠٣٠- طريقان أخريان للأثر السالف رقم: ١٢٠٢٧، وكان في الأثر الأخير هنا في المطبوعة: "قدر الشراك"، وأثبت ما في المخطوطة. انظر التعليق السالف.]]
+
+١٢٠٣١ - حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا الثوري، عن رجل، عن عكرمة قال: هؤلاء الآيات في أهل الكتاب.
+
+١٢٠٣٢ - حدثنا بشر بن معاذ قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة قوله:"ومن لم يحكم بما أنزل الله فأولئك هم الكافرون"، ذكر لنا أن هؤلاء الآيات أنزلت في قتيل اليهود الذي كان منهم. [[في المطبوعة: "في قيل اليهود"، وفي المخطوطة: "في قبيل اليهود"، والصواب ما أثبت. وقد مضى خبر هذا القتيل مرارًا، وسيأتي قريبًا برقم: ١٢٠٣٧.]]
+
+١٢٠٣٣ - حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن ابن جريج، عن عكرمة قوله:"ومن لم يحكم بما أنزل الله فأولئك هم الكافرون"، و"الظالمون"، و"الفاسقون"، لأهل الكتاب كلّهم، لما تركوا من كتاب الله.
+
+١٢٠٣٤ - حدثنا القاسم قال، حدثنا الحسين قال، حدثني أبو معاوية، عن الأعمش، عن عبد الله بن مرة، عن البراء بن عازب قال: مُرَّ على النبي ﷺ بيهوديّ محمَّم مجلود، فدعاهم فقال: هكذا تجدون حدَّ من زنى؟ قالوا: نعم! فدعا رجلا من علمائهم فقال: أنشدك الله الذي أنزل التوراة على موسى، هكذا تجدون حدّ الزاني في كتابكم؟ قال: لا ولولا أنك أنشَدتني بهذا لم أخبرك، نجد حدَّه في كتابنا الرجم، ولكنه كثُر في أشرافنا، فكُنا إذا أخذنا الشّريف تركناه، وإذا أخذنا الوضيع أقمنا عليه الحدّ، فقلنا: تعالوا فلنجتمع جميعًا على التحميم والجلد مكانَ الرجْم. فقال رسول الله ﷺ: اللهم إنّي أول من أحيَى أمرك إذْ أماتوه! فأمر به فرجم، فأنزل الله:"يا أيها الرسول لا يحزنك الذين يسارعون في الكفر" إلى قوله:"ومن لم يحكم بما أنزل الله فأولئك هم الكافرون"، يعني اليهود:"فأولئك هم الظالمون"، يعني اليهود:"فأولئك هم الفاسقون"، للكفار كلها. [[الأثر: ١٢٠٣٤- مضى تخريج هذا الأثر برقم: ١١٩٢٢، من طرق أخرى وسيأتي برقم: ١٢٠٣٦.]]
+
+١٢٠٣٥ - حدثني يونس بن عبد الأعلى قال، أخبرنا ابن وهب قال: قال ابن زيد في قوله:"ومن لم يحكم بما أنزل الله فأولئك هم الكافرون"، قال: من حكم بكتابه الذي كتب بيده، وترك كتاب الله، وزعم أن كتابه هذا من عند الله، فقد كفر.
+
+١٢٠٣٦ - حدثنا هناد قال، حدثنا أبو معاوية، عن الأعمش، عن عبد الله بن مرة، عن البراء بن عازب، عن النبي ﷺ، نحو حديث القاسم، عن الحسن= غير أن هنادًا قال في حديثه: فقلنا: تعالوا فلنجتمع في شيء نقيمه على الشريف والضعيف، فاجتمعنا على التحميم والجلد مكان الرجم- وسائر الحديث نحو حديث القاسم. [[الأثر: ١٢٠٣٤- مضى تخريجه برقم: ١١٩٢٢، ورقم: ١٢٠٣٤.]]
+
+١٢٠٣٧ - حدثنا الربيع قال، حدثنا ابن وهب قال، حدثنا ابن أبي الزناد، عن أبيه قال: كنا عند عبيد الله بن عبد الله بن عتبة بن مسعود، فذكر رجل عنده:"ومن لم يحكم بما أنزل الله فأولئك هم الكافرون"،"ومن لم يحكم بما أنزل الله فأولئك هم الظالمون"،"ومن ومن لم يحكم بما أنزل الله فأولئك هم الفاسقون"، فقال عبيد الله: أمَا والله إن كثيرًا من الناس يتأوَّلون هؤلاء الآيات على ما لم ينزلنَ عليه، وما أُنزلن إلا في حيين من يهود. ثم قال: هم قريظة والنضير، وذلك أنّ إحدى الطائفتين كانت قد غزت الأخرى وقهرتها قبل قدوم النبيّ ﷺ المدينةَ، حتى ارتضوا واصطلحوا على أن كل قتيل قتلته العزيزةُ من الذليلة، فديته خمسون وَسْقًا، [["الوثق" (بفتح الواو كسرها) : حمل بعير، أو ستون صاعًا، وهو مكيال لهم.]] وكل قتيل قتلته الذَّليلة من العزيزة، فدِيَته مئة وَسْق. فأعطوهم فَرَقًا وضيمًا. [["الفرق" (بفتحتين) الفزع، والجزع. و"الضيم": الظلم. يقول: فقبلوا ذلك خوفًا من بطشهم وجزعًا، ورضى بالظلم منهم.]] فقدم النبي ﷺ وهم على ذلك، فذلَّت الطائفتان بمقدَم النبي ﷺ، والنبيُّ ﷺ لم يظهر عليهما. فبيْنا هما على ذلك، أصابت الذليلة من العزيزة قتيلا فقالت العزيزة: أعطونا مائة وسق! فقالت الذليلة: وهل كان هذا قط في حَيَّين دينهما واحد، وبلدهما واحد، ديةُ بعضهم ضعفُ دية بعض! إنما أعطيناكم هذا فَرَقًا منكم وضيمًا، فاجعلوا بيننا وبينكم محمدًا ﷺ. فتراضيا على أن يجعلوا النبيَّ ﷺ بينهم. ثم إن العزيزة تذاكرت بينها، [[في المخطوطة: *"نكرت" غير منقوطة، والذي في المطبوعة موافق للمعنى، ولم أعرف لقراءة ما في المخطوطة وجهًا إلا"فكرت بينها"، وهي سقيمة.]] فخشيت أن لا يعطيها النبيُّ ﷺ من أصحابها ضعف ما تعطِي أصحابها منها، فدسُّوا إلى النبي ﷺ إخوانهم من المنافقين، فقالوا لهم: اخبرُوا لنا رأيَ محمد ﷺ، فإن أعطانا ما نريد حكَّمناه، وإن لم يعطنا حذرناه ولم نحكمه! فذهب المنافق إلى النبي ﷺ، فأعلم الله تعالى ذكره النبيَّ ﷺ ما أرادوا من ذلك الأمر كله= قال عبيد الله: فأنزل الله تعالى ذكره فيهم:"يا أيها الرسول لا يحزنك الذين يُسَارعون في الكفر"، هؤلاء الآيات كلهن، حتى بلغ:"وليحكُم أهل الإنجيل بما أنزل الله فيه" إلى"الفاسقون"= قرأ عبيد الله ذلك آيةً آيةً، وفسَّرها على ما أُنزل، حتى فرَغ [من] تفسير ذلك لهم في الآيات. [[الذي بين القوسين، زيادة لا بد منها فيما أرى.]] ثم قال: إنما عنى بذلك يهود، وفيهم أنزلت هذه الصفة.
+
+* *
+
+وقال بعضهم: عنى بـ"الكافرين"، أهل الإسلام، وب"الظالمين" اليهود، وب"الفاسقين" النصارى.
+
+ذكر من قال ذلك:
+
+١٢٠٣٨ - حدثنا ابن وكيع قال، حدثنا أبي، عن زكريا، عن عامر قال: نزلت"الكافرون" في المسلمين، و"الظالمون" في اليهود، و"الفاسقون" في النصارى.
+
+١٢٠٣٩ - حدثنا ابن وكيع قال، حدثنا ابن يمان، عن سفيان، عن ابن أبي السفر، عن الشعبي، قال:"الكافرون"، في المسلمين، و"الظالمون" في اليهود، و"الفاسقون"، في النصارى.
+
+١٢٠٤٠ - حدثنا ابن وكيع وأبو السائب وواصل بن عبد الأعلى قالوا، حدثنا ابن فضيل، عن ابن شبرمة، عن الشعبي قال: آيةٌ فينا، وآيتان في أهل الكتاب:"ومن لم يحكم بما أنزل الله فأولئك هم الكافرون"، فينا، وفيهم:"ومن لم يحكم بما أنزل الله فأولئك هم الظالمون"، و"الفاسقون" في أهل الكتاب.
+
+١٢٠٤١ - حدثنا ابن وكيع قال، حدثنا أبي، عن سفيان، عن جابر، عن عامر، مثل حديث زكريَّا عنه. [[يعني رقم: ١٢٠٣٨.]]
+
+١٢٠٤٢ - حدثنا محمد بن المثنى قال، حدثنا عبد الصمد بن عبد الوارث قال، حدثنا شعبة، عن ابن أبي السفر، عن الشعبي:"ومن لم يحكم بما أنزل الله فأولئك هم الكافرون"، قال: هذا في المسلمين"ومن لم يحكم بما أنزل الله فأولئك هم الفاسقون"، قال: النصارى.
+
+١٢٠٤٣ - حدثني يعقوب بن إبراهيم قال، حدثنا هشيم قال، أخبرنا زكريا بن أبي زائدة، عن الشعبي قال، في هؤلاء الآيات التي في"المائدة":"ومن لم يحكم بما أنزل الله فأولئك هم الكافرون"، قال: فينا أهلَ الإسلام="ومن لم يحكم بما أنزل الله فأولئك هم الظالمون"، قال: في اليهود="ومن لم يحكم بما أنزل الله فأولئك هم الفاسقون"، قال: في النصارى.
+
+١٢٠٤٤ - حدثنا محمد بن بشار قال، حدثنا عبد الرحمن بن مهدي قال، حدثنا سفيان، عن زكريا بن أبي زائدة، عن الشعبي في قوله:"ومن لم يحكم بما أنزل الله فأولئك هم الكافرون"، قال: نزلت الأولى في المسلمين، والثانية في اليهود، والثالثة في النصارى.
+
+١٢٠٤٥ - حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا الثوري، عن زكريا، عن الشعبي، بنحوه.
+
+١٢٠٤٦ - حدثنا هناد قال، حدثنا يعلى، عن زكريا، عن عامر، بنحوه.
+
+* *
+
+وقال آخرون: بل عنى بذلك: كفرٌ دون كفر، وظلمٍ دون ظلم، وفسقٌ دون فسق.
+
+ذكر من قال ذلك:
+
+١٢٠٤٧ - حدثنا محمد بن بشار قال، حدثنا عبد الرحمن قال، حدثنا سفيان، عن ابن جريج، عن عطاء قوله:"ومن لم يحكم بما أنزل الله فأولئك هم الكافرون"،"ومن لم يحكم بما أنزل الله فأولئك هم الظالمون"،"ومن لم يحكم بما أنزل الله فأولئك هم الفاسقون"، قال: كفر دون كفر، وفسق دون فسق، وظلم دون ظلم.
+
+١٢٠٤٨ - حدثنا ابن بشار قال، حدثنا عبد الرحمن قال، حدثنا حماد بن سلمة، عن أيوب، عن عطاء، مثله.
+
+١٢٠٤٩ - حدثني المثنى قال، حدثنا الحجاج قال، حدثنا حماد، عن أيوب بن أبي تميمة، عن عطاء بن أبي رباح، بنحوه.
+
+١٢٠٥٠ - حدثنا هناد بن السري قال، حدثنا وكيع، عن سفيان، عن ابن جريج، عن عطاء، بنحوه.
+
+١٢٠٥١ - حدثنا ابن وكيع قال، حدثنا أبي، عن سفيان، عن ابن جريج، عن عطاء، بنحوه.
+
+١٢٠٥٢ - حدثنا هناد قال، حدثنا وكيع= وحدثنا ابن وكيع قال، حدثنا أبي= عن سفيان، عن سعيد المكي، عن طاوس:"ومن لم يحكم بما أنزل الله فأولئك هم الكافرون"، قال: ليس بكفرٍ ينقل عن الملّة.
+
+١٢٠٥٣ - حدثنا هناد قال، حدثنا وكيع= وحدثنا ابن وكيع قال، حدثنا أبي= عن سفيان، عن معمر بن راشد، عن ابن طاوس، عن أبيه، عن ابن عباس:"ومن لم يحكم بما أنزل الله فأولئك هم الكافررن"، قال: هي به كفر، وليس كفرًا بالله وملائكته وكتبه ورسله. [[الأثر: ١٢٠٥٣- خبر طاوس عن ابن عباس، رواه الحاكم في المستدرك (٢: ٣١٣) من طريق سفيان بن عيينة، عن هشام بن ججير، عن طاوس، عن ابن عباس: "إنه ليس بالكفر الذي يذهبون إليه، إنه ليس كفرًا ينقل عنه الملة ="ومن لم يحكم بما أنزل الله فأولئك هم الكافرون"، كفر دون الكفر"، هذا لفظه، ثم قال: "هذا حديث صحيح الإسناد ولم يخرجاه"، وقال الذهبي: "صحيح".]]
+
+١٢٠٥٤ - حدثني الحسن قال، حدثنا أبو أسامة، عن سفيان، عن معمر، عن ابن طاوس، عن أبيه قال: قال رجل لابن عباس في هذه الآيات:"ومن لم يحكم بما أنزل الله"، فمن فعل هذا فقد كفر؟ قال ابن عباس: إذا فعل ذلك فهو به كفر، وليس كمن كفر بالله واليوم الآخر، وبكذا وكذا.
+
+١٢٠٥٥ - حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا معمر، عن ابن طاوس، عن أبيه قال: سئل ابن عباس عن قوله:"ومن لم يحكم بما أنزل الله فأولئك هم الكافرون"، قال هي به كفر= قال: ابن طاوس: وليس كمن كفر بالله وملائكته وكُتُبه ورسله.
+
+١٢٠٥٦ - حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا الثوري، عن رجل، عن طاوس:"فأولئك هم الكافرون"، قال: كفر لا ينقل عن الملة= قال وقال عطاء: كفر دون كفر، وظلم دون ظلم، وفسق دون فسق.
+
+* *
+
+وقال آخرون: بل نزلت هذه الآيات في أهل الكتاب، وهى مرادٌ بها جميعُ الناس، مسلموهم وكفارهم.
+
+ذكر من قال ذلك:
+
+١٢٠٥٧ - حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا الثوري، عن منصور، عن إبراهيم قال: نزلت هذه الآيات في بني إسرائيل، ورَضي لهذه الأمّة بها.
+
+١٢٠٥٨ - حدثنا ابن وكيع قال، حدثنا أبي، عن سفيان، عن منصور، عن إبراهيم:"ومن لم يحكم بما أنزل الله فأولئك هم الكافرون"، قال: نزلت في بني إسرائيل، ورضى لكم بها.
+
+١٢٠٥٩ - حدثنا ابن بشار قال، حدثنا عبد الرحمن قال، حدثنا سفيان، عن منصور، عن إبراهيم في هذه الآية:"ومن لم يحكم بما أنزل الله فأولئك هم الكافرون"، قال: نزلت في بني إسرائيل، ثم رضى بها لهؤلاء.
+
+١٢٠٦٠ - حدثني المثنى قال، حدثنا عمرو بن عون قال، أخبرنا هشيم، عن عوف، عن الحسن في قوله:"ومن لم يحكم بما أنزل الله فأولئك هم الكافرون"، قال: نزلت في اليهود، وهي علينا واجبةٌ.
+
+١٢٠٦١ - حدثني يعقوب بن إبراهيم قال، حدثنا هشيم قال، أخبرنا عبد الملك بن أبي سليمان، عن سلمة بن كهيل، عن علقمة ومسروق: أنهما سألا ابن مسعود عن الرشوة، فقال: من السحت. قال فقالا أفي الحكم؟ قال: ذاك الكُفْر! ثم تلا هذه الآية:"ومن لم يحكم بما أنزل الله فأولئك هم الكافرون".
+
+١٢٠٦٢ - حدثني محمد بن الحسين قال، حدثنا أحمد بن مفضل قال، حدثنا أسباط، عن السدي:"ومن لم يحكم بما أنزل الله"، يقول: ومن لم يحكم بما أنزلتُ، فتركه عمدًا وجار وهو يعلم، فهو من الكافرين.
+
+* *
+
+وقال آخرون: معنى ذلك: ومن لم يحكم بما أنزل الله جاحدًا به. فأما"الظلم" و"الفسق"، فهو للمقرِّ به.
+
+ذكر من قال ذلك:
+
+١٢٠٦٣ - حدثني المثنى قال، حدثنا عبد الله بن صالح قال، حدثني معاوية بن صالح، عن علي بن أبي طلحة، عن ابن عباس قوله:"ومن لم يحكم بما أنزل الله فأولئك هم الكافرون"، قال: من جحد ما أنزل الله فقد كفر. ومن أقرّ به ولم يحكم، فهو ظالم فاسقٌ.
+
+قال أبو جعفر: وأولى هذه الأقوال عندي بالصواب، قولُ من قال: نزلت هذه الآيات في كفّار أهل الكتاب، لأن ما قبلها وما بعدها من الآيات ففيهم نزلت، وهم المعنيُّون بها. وهذه الآيات سياقُ الخبر عنهم، فكونُها خبرًا عنهم أولى.
+
+* *
+
+فإن قال قائل: فإن الله تعالى ذكره قد عمَّ بالخبر بذلك عن جميع منْ لم يحكم بما أنزل الله، فكيف جعلته خاصًّا؟
+
+قيل: إن الله تعالى عَمَّ بالخبر بذلك عن قومٍ كانوا بحكم الله الذي حكم به في كتابه جاحدين، فأخبر عنهم أنهم بتركهم الحكمَ، على سبيل ما تركوه، كافرون. وكذلك القولُ في كل من لم يحكم بما أنزل الله جاحدًا به، هو بالله كافر، كما قال ابن عباس، لأنه بجحوده حكم الله بعدَ علمه أنه أنزله في كتابه، نظير جحوده نبوّة نبيّه بعد علمه أنه نبيٌّ.
 
 ### al-Muyassar (Arabic)
 
@@ -680,9 +968,79 @@ Earlier we mentioned the statements of 'Ata' and Tawus that there is Kufr and le
 
 ١٢٠٨٩ - حدثنا ابن وكيع قال، حدثنا جرير، عن مغيرة، عن مجاهد، مثله.
 
-١٢٠٩٠ - حدثنا هناد وسفيان بن وكي
+١٢٠٩٠ - حدثنا هناد وسفيان بن وكيع قالا حدثنا جرير، عن منصور، عن إبراهيم ومجاهد:"فمن تصدق به فهو كفارة له"، قالا للذي تُصُدِّق عليه، وأجرُ الذي أصيب على الله= قال هناد في حديثه، قالا كفارة للذي تُصُدِّق به عليه.
 
-[TRUNCATED at 12000 chars — 9047 more. Consult the source directly before relying on anything near the cut.]
+١٢٠٩١ - حدثنا هناد قال، حدثنا عبد بن حميد، عن منصور، عن مجاهد، بنحوه.
+
+١٢٠٩٢ - حدثنا ابن وكيع قال، حدثنا محمد بن بشر، عن زكريا، عن عامر قال: كفارة لمن تُصُدِّق به عليه.
+
+١٢٠٩٣ - حدثنا ابن وكيع قال، حدثنا أبي، عن سفيان، عن منصور، عن مجاهد وإبراهيم قالا كفارة للجارح، وأجر الذي أصيب على الله.
+
+١٢٠٩٤ - حدثنا ابن وكيع قال، حدثنا أبي، عن سفيان قال: سمعت زيد بن أسلم يقول: إن عفا عنه، أو اقتص منه، أو قبل منه الدية، فهو كفّارة له.
+
+١٢٠٩٥ - حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن ابن جريج، عن مجاهد قال: كفارة للجارح، وأجرٌ للعافي، لقوله: [[في المخطوطة: "إلى قوله: فمن عفا ... "، وفي الهامش حرف (ط) دلالة على الخطأ، والذي في المطبوعة هو الصواب.]] ﴿فَمَنْ عَفَا وَأَصْلَحَ فَأَجْرُهُ عَلَى اللَّهِ﴾ [سورة الشورى: ٤٠] .
+
+١٢٠٩٦ - حدثني المثنى قال، حدثنا عبد الله بن صالح قال، حدثني معاوية بن صالح، عن علي بن أبي طلحة، عن ابن عباس قوله:"فمن تصدّق به فهو كفارة له"، قال: كفارة للمتصدَّقِ عليه.
+
+١٢٠٩٧ - حدثني المثنى قال، حدثنا معلى بن أسد قال، حدثنا خالد قال، حدثنا حصين، عن ابن عباس:"فمن تصدق به فهو كفارة له"، قال: هي كفارة للجارح.
+
+١٢٠٩٨ - حدثني المثنى قال، حدثنا أبو نعيم قال، حدثنا سفيان، عن عطاء بن السائب، عن سعيد بن جبير، عن ابن عباس قال:"فمن تصدق به فهو كفارة له"، قال: فالكفارة للجارح، وأجر المتصدِّق على الله.
+
+١٢٠٩٩ - حدثنا المثنى قال، حدثنا أبو حذيفة قال، حدثنا شبل، عن عبد الله بن كثير، عن مجاهد أنه كان يقول:"فمن تصدق به فهو كفارة له"، يقول: للقاتل، وأجرٌ للعافي.
+
+١٢١٠٠ - حدثني المثنى قال، حدثنا إسحاق قال، حدثنا عمران بن ظبيان، عن عديّ بن ثابت قال، هُتِم رجل على عهد معاوية، [["هتم الرجل" (بالبناء للمجهول) : انكسر مقدم أسنانه."هتم فاه يهتمه هتمًا" متعديا = و"هتم هتما" (على وزن سكر) فهو"أهتم"، و"تهتمت ثناياه".]] فأعطي دية فلم يقبل، ثم أعطي ديتين فلم يقبل، ثم أعطي ثلاثًا فلم يقبل. فحدَّث رجل من أصحاب النبي ﷺ أن رسول الله ﷺ قال:"فمن تصدّق بدمٍ فما دونه، كان كفّارة له من يوم تَصدَّق إلى يوم وُلد". قال: فتصدَّق الرجل. [[الأثر: ١٢١٠٠-"عمران بن ظبيان الحنفي". قال البخاري: "فيه نظر"، وقال أبو حاتم: "يكتب حديثه"، ثم اختلف في أمره ابن حبان، فذكره في الثقات، ثم عاد فذكره في الضعفاء، وقال"فحش خطؤه، حتى بطل الاحتجاج"، وضعفه العقيلي وابن عدي. وكان يميل إلى التشيع.
+
+وأما "عدي بن ثابت الأنصاري"، فهو ثقة صدوق، كان إمام مسجد الشيعة وقاصهم. وروى له الأئمة، مضى برقم: ١١٧٢٦.
+
+وهذا الخبر، خرجه السيوطي في الدر المنثور ١: ٢٨٨، ونسبه أيضًا لسعيد بن منصور، وابن مردويه. ولفظ الخبر عن رسول الله: "من تصدق بدم فما دونه، فهو كفارة له من يوم ولد إلى يوم يموت". وساقه بلفظه هذا ابن كثير في تفسيره ٣: ١٦٨، عن ابن مردويه، قال"حدثنا دعلج بن أحمد، حدثنا محمد بن علي بن زيد، عن سعيد بن منصور، عن سفيان، عن عمران بن ظبيان". وكأن الصواب هو هذا اللفظ، وما في التفسير أنا في شك من صحة لفظه، ولكني تركته على حاله، ولو كان: "من يوم ولد إلى يوم تصدق"، لكان أقوم لفظًا ومعنى.]]
+
+١٢١٠١ - حدثني محمد بن سعد قال، حدثني أبي قال، حدثني عمي قال، حدثني أبي، عن أبيه، عن ابن عباس قوله:"والجروح قصاص فمن تصدق به فهو كفارة له"، يقول: من جرح فتصدَّق بالذي جُرِح به على الجارح، فليس على الجارح سبيلٌ ولا قَوَدٌ ولا عَقْلٌ، ولا حَرَج عليه، [[في المطبوعة: "ولا جرح عليه"، والصواب ما أثبت، والمخطوطة غير منقوطة.]] من أجل أنه تصدق عليه الذي جُرِح، فكان كفارة له من ظلمه الذي ظَلَم.
+
+* *
+
+قال أبو جعفر: وأولى القولين في ذلك عندي بالصواب، قولُ من قال: عني به:"فمن تصدّق به فهو كفارة له"، المجروحَ [[في المطبوعة والمخطوطة: "عنى به فمن تصدق ... "، والسياق يقتضي ما أثبت.]] = فلأن تكون"الهاء" في قوله:"له" عائدةً على"مَنْ"، أولى من أن تكون مِنْ ذِكْر من لم يجر له ذكر إلا بالمعنى دون التصريح، وأحرَى، إذ الصدقة هي المكفِّرة ذنبَ صاحبها دون المتصدَّق عليه في سائر الصدقات غير هذه، فالواجب أن يكون سبيلُ هذه سبيلَ غيرها من الصدَّقات.
+
+* *
+
+فإن ظنّ ظانّ أن القِصاصَ= إذْ كان يكفّر ذنب صاحبه المقتصّ منه الذي أتاه في قتل من قتله ظلمًا، لقول النبي ﷺ إذ أخذ البيعة على أصحابه [[في المطبوعة: "كقول النبي ﷺ"، والصواب ما أثبت.]] "أن لا تقتلوا ولا تزنُوا ولا تسرقوا" ثم قال:"فمن فَعَل من ذلك شيئًا فأقيم عليه حدُّه فهو كفارته" [[هذا الخبر رواه أبو جعفر مختصرًا غير مسند، وهو خبر صحيح. انظر صحيح مسلم ١١: ٢٢٢ - ٢٢٤.]] فالواجب أن يكونَ عفوُ العافي المجنيِّ عليه، أو ولي المقتول عنه نظيرَه، [[السياق: "فإن ظن ظان أن القصاص، إذ كان يكفر ذنب صاحبه ... فالواجب أن يكون عفو العافي ... نظيره.]] في أن ذلك له كفارة. فإن ذلك لو وجب أن يكون كذلك، لوجب أن يكون عفوُ المقذوفِ عن قاذفه بالزنا، وتركِه أخذه بالواجب له من الحدِّ، وقد قذفه قاذِفُه وهو عفيفٌ مسلم مُحْصَن، كفَّارةً للقاذف من ذنبه الذى ركبه، ومعصيته التي أتاها. وذلك ما لا نعلم قائلا من أهل العلم يقوله.
+
+فإذْ كان غير جائز أن يكون تركُ المقذوف =الذي وصفنا أمره= أخذَ قاذفه بالواجب له من الحدّ= كفارةً للقاذف من ذنبه الذي ركبه، كان كذلك غير جائز أن يكون ترك المجروح أخذَ الجارح بحقِّه من القصاص، كفَّارةً للجارح من ذنبه الذي ركبه.
+
+* *
+
+فإن قال قائل: أو ليس للمجروح عندك أخْذُ جارحه بدية جرحه مكانَ القِصاص؟
+
+قيل له: بلى!
+
+فإن قال: أفرأيت لو اختار الدّية ثم عفا عنها، أكانت له قِبَله في الآخرة تَبِعةٌ؟
+
+قيل له: هذا كلام عندنا محالٌ. وذلك أنه لا يكون عندنا مختارًا لديةٍ إلا وهو لها آخذٌ. فأما العفو فإنما هو عفو عن الدم= وقد دللنا على صحة ذلك في موضع غيرِ هذا، بما أغنى عن تكريره في هذا الموضع [[انظر ما سلف ٣: ٣٧١، وما قبلها.]] = إلا أن يكون مرادًا بذلك هِبتُها لمن أخذت منه بعد الأخذ. مع أن عفوه عن الدية بعد اختياره إياها لو صَحَّ، لم يكن في صحة ذلك ما يوجب أن يكون المعفوُّ له عنها بريئًا من عقوبة ذنبه عند الله؛ لأن الله تعالى ذكره أوعد قاتلَ المؤمن بما أوعده به إن لم يتُبْ من ذنبه، والدية مأخوذة منه، أحبَّ أم سخط. والتوبة من التَائب إنما تكون توبةً إذا اختارها وأرادَها وآثرها على الإصرار.
+
+* *
+
+فإن ظنّ ظانّ أن ذلك وإن كان كذلك، فقد يجب أن يكون له كفارةً، كما كان القصاص له كفارة، [[في المطبوعة: "كما جاز القصاص"، وفي المخطوطة"كان" إلا أنه كتب جيما ثم وضع عليها شرطة الكاف، وأما الحرف الأخير فهو"نون"، فصحيح قراءته ما أثبت، وهو حق السياق أيضًا.]] فإنَّا إنما جعلنا القِصاص له كفارة= مع ندمه وبَذْله نفسَه لأخذ الحق منها= تنصُّلا من ذنبه، بخبر النبي ﷺ.
+
+فأما الدية إذا اختارها المجروحُ ثم عفا عنها، فلم يُقْض عليه بحدّ ذنبه، فيكون ممن دخل في حكم النبي ﷺ وقوله:"فمن أقيم عليه الحد فهو كفارته". ثم مما يؤكد صحة ما قلنا في ذلك، الأخبارُ التي ذكرناها عن رسول الله ﷺ من قوله:"فمن تصدّق بدمٍ"، [[في المطبوعة والمخطوطة."فمن تصدق به"، والصواب ما أثبته، وهو نص الأثر السالف رقم: ١٢١٠٠.]] وما أشبه ذلك من الأخبار التي قد ذكرناها قبل.
+
+* *
+
+وقد يجوز أن يكون القائلون إنه عنى بذلك الجارحَ، أرادوا المعنى الذي ذُكر عن عروة بن الزبير الذي:-
+
+١٢١٠٢- حدثني به الحارث بن محمد قال، حدثنا القاسم بن سلام قال، [[في المطبوعة: "قال حدثنا ابن سلام"، وفي المخطوطة: "قال حدثنا القاسم الحارث بن سلام" ثم ضرب على"القاسم" و"الحارث" ثم وضع بجوار"القاسم" علامة التصحيح وهي (صح) .]] حدثنا حجاج، عن ابن جريج قال، أخبرني عبد الله بن كثير، عن مجاهد قال: إذا أصاب رجل رجلا ولا يعلم المُصاب من أصابه، فاعترف له المصيب، فهو كفارة للمُصيب. قال: وكان مجاهد يقول عند هذا: أصاب عروة ابن الزبير عينَ إنسان عند الركن فيما يستلمون، [[في المخطوطة: "فيما يسلمون"، وتركت ما في المطبوعة على حاله، وهو قريب الاستقامة. وفي تفسير أبي حيان ٣: ٤٩٧، "وهم يستلمون"، وهي أجود.]] فقال له: يا هذا، أنا عروة بن الزبير، فإن كان بعينك بأس فأنَا بها!
+
+* *
+
+وإذا كان الأمر من الجارح على نحو ما كان من عروة من خطأ فعلٍ على غير عمدٍ، ثم اعترف للذي أصابه بما أصابه، فعفا له المصاب بذلك عن حقِّه قبله، فلا تبعة له حينئذٍ قَبِل المُصيب في الدنيا ولا في الآخرة. لأن الذى كان وجب له قبله مالٌ لا قِصاص، وقد أبرأه منه: فإبراؤه منه، كفَّارة للمبرَّأ من حقه الذي كان له أخذه به، [[في المطبوعة: "كفارة له من حقه"، وفي المخطوطة"كفارة *لمتزامر [محذوفة النقط] من حقه"، والذي أثبته هو صواب قراءتها.]] فلا طَلِبة له بسبب ذلك قِبَله في الدنيا ولا في الآخرة، ولا عقوبة تلزمه بها بما كان منه إلى من أصابه، لأنه لم يتعمد إصابته بما أصابه به، فيكون بفعله آثمًا يستحق به العقوبة من ربه، [[في المطبوعة: "فيكون بفعله إنما يستحق العقوبة"، وهو كلام فارغ المعنى، و *"انما" هكذا في المخطوطة غير منقوطة، وصواب قراءتها ما أثبت.]] لأن الله عز وجل قد وضع الجُناح عن عباده فيما أخطأوا فيه ولم يتعمّدوه من أفعالهم، فقال في كتابه: ﴿وَلَيْسَ عَلَيْكُمْ جُنَاحٌ فِيمَا أَخْطَأْتُمْ بِهِ وَلَكِنْ مَا تَعَمَّدَتْ قُلُوبُكُمْ﴾ . [[في المخطوطة والمطبوعة، كتب الآية هكذا: "ولا جناح عليكم فيما أخطأتم ... "، وليس فيما نتلو آية كهذه، وإنما هي آية الأحزاب كما أثبتها.]] [سورة الأحزاب: ٥]
+
+* *
+
+و"التصدق"، في هذا الموضع، بالدم، العفو عنه. [[في المطبوعة: "وقد يراد في هذا الموضع بالدم العفو عنه"، وهو كلام لا معنى له ولا ضابط. وفي المخطوطة: "وا * في هذا الموضع بالدم، العفو عنه"، بين الكلامين بياض وفي الهامش حرف (ط) دلالة على الخطأ، فاستظهرت صواب الكلام من سياق تفسير هذه الآية.]]
+
+* *
+
+القول في تأويل قوله عز ذكره: ﴿وَمَنْ لَمْ يَحْكُمْ بِمَا أَنزلَ اللَّهُ فَأُولَئِكَ هُمُ الظَّالِمُونَ (٤٥) ﴾
+
+قال أبو جعفر: يقول تعالى ذكره: ومن لم يحكم بما أنزل الله في التوارة من قَوَدِ النفس القاتلة قِصاصًا بالنفس المقتولة ظلمًا. ولم يفقأ عين الفاقئ بعين المفقوء ظلمًا، قِصاصًا ممن أمره الله به بذلك في كتابه، ولكن أقاد من بعضٍ ولم يُقِدْ من بعض، أو قتل في بعض اثنين بواحد، فإنّ من يفعل ذلك من"الظالمين" [[في المطبوعة والمخطوطة: "وإن من يفعل ذلك"، والسياق يقتضي ما أثبت.]] = يعني: ممن جارَ عن حكم الله، [[في المطبوعة: "جار على حكم الله"، والصواب من المخطوطة.]] ووضع فعله ما فعل من ذلك في غير موضعه الذي جعله الله له موضعًا. [[انظر تفسير"الظلم" فيما سلف من فهارس اللغة.]]
 
 ### al-Muyassar (Arabic)
 

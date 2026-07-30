@@ -148,9 +148,111 @@ In the book of Ahkam of his Sunan, Abu 'Isa At-Tirmidhi recorded that Mu'adh bin
 
 In addition, Imam Ahmad recorded that Abu Hurayrah said, "The Prophet ﷺ got up among us and mentioned Ghulul and emphasized its magnitude. He then said,
 
-لَا أُلْفِيَنَّ أَحَدَكُمْ يَجِيءُ يَوْمَ الْقِيَامَةِ عَلى رَقَبَتِهِ بَعِيرٌ لَهُ رُغَاءٌ، فَيَقُولُ: يَا رَسُولَ اللهِ أَغِثْنِي، فَأَقُولُ: لَا أَمْلِكُ لَكَ مِنَ اللهِ شَيْئًا، قَدْ أَبْلَغْتُكَ، لَا أُلْفِيَنَّ أَحَدَكُمْ
+لَا أُلْفِيَنَّ أَحَدَكُمْ يَجِيءُ يَوْمَ الْقِيَامَةِ عَلى رَقَبَتِهِ بَعِيرٌ لَهُ رُغَاءٌ، فَيَقُولُ: يَا رَسُولَ اللهِ أَغِثْنِي، فَأَقُولُ: لَا أَمْلِكُ لَكَ مِنَ اللهِ شَيْئًا، قَدْ أَبْلَغْتُكَ، لَا أُلْفِيَنَّ أَحَدَكُمْ يَجِيءُ يَوْمَ الْقِيَامَةِ عَلى رَقَبَتِهِ فَرَسٌ لَهَا حَمْحَمَةٌ، فَيَقُولُ: يَا رَسُولَ اللهِ أَغِثْنِي، فَأَقُولُ: لَا أَمْلِكُ لَكَ مِنَ اللهِ شَيْئًا، قَدْ أَبْلَغْتُكَ، لَا أُلْفِيَنَّ أَحَدَكُمْ يَجِيءُ يَوْمَ الْقِيَامَةِ عَلى رَقَبَتِهِ رِقَاعٌ تَخْفِقُ فَيَقُولُ: يَا رَسُولَ اللهِ أَغِثْنِي، فَأَقُولُ: لَا أَمْلِكُ لَكَ مِنَ اللهِ شَيْئًا، قَدْ أَبْلَغْتُكَ، لَا أُلْفِيَنَّ أَحَدَكُمْ يَجِيءُ يَوْمَ الْقِيَامَةِ عَلى رَقَبَتِهِ صَامِتٌ، فَيقُولُ: يَا رَسُولَ اللهِ أَغِثْنِي، فَأَقُولُ: لَا أَمْلِكُ لَكَ مِنَ اللهِ شَيْئًا، قَدْ أَبْلَغْتُكَ
 
-[TRUNCATED at 12000 chars — 7069 more. Consult the source directly before relying on anything near the cut.]
+(I will not like to see anyone among you on the Day of Resurrection, carrying a grunting camel over his neck. Such a man will say, 'O Allah's Messenger! Intercede on my behalf,' and I will say, 'I can't intercede for you with Allah, for I have conveyed (Allah's Message) to you.' I will not like to see any of you coming on the Day of Resurrection while carrying a neighing horse over his neck. Such a man will be saying, 'O Allah's Messenger! Intercede on my behalf,' and I will reply, 'I can't intercede for you with Allah, for I have conveyed (Allah's Message) to you.' I will not like to see any of you coming on the Day of Resurrection while carrying clothes that will be fluttering, and the man will say, 'O Allah's Messenger! Intercede (with Allah) for me, ' and I will say, 'I can't help you with Allah, for I have conveyed (Allah's Message) to you.' I will not like to see any of you coming on the Day of Resurrection while carrying gold and silver on his neck. This person will say, 'O Allah's Messenger! Intercede (with Allah) for me.' And I will say, 'I can't help you with Allah, for I have conveyed (Allah's Message) to you.')" This Hadith was recorded in the Two Sahihs .
+
+Imam Ahmad recorded that 'Umar bin Al-Khattab said, "During the day (battle) of Khaybar, several Companions of the Messenger of Allah ﷺ came to him and said, 'So-and-so died as a martyr, so-and-so died as a martyr.' When they mentioned a certain man that died as a martyr, the Messenger of Allah ﷺ said,
+
+كَلَّا إِنِّي رَأَيْتُهُ فِي النَّارِ فِي بُرْدَةٍ غَلَّهَا - أَوْ عَبَاءَةٍ
+
+(No. I have seen him in the Fire because of a robe that he stole (from the booty).)
+
+The Messenger of Allah ﷺ then said,
+
+يَا ابْنَ الْخَطَّابِ، اذْهَبْ فَنَادِ فِي النَّاسِ: إِنَّهُ لَا يَدْخُلُ الْجَنَّةَ إِلَّا الْمُؤْمِنُونَ
+
+(O Ibn Al-Khattab! Go and announce to the people that only the faithful shall enter Paradise.)
+
+So I went out and proclaimed that none except the faithful shall enter Paradise." This was recorded by Muslim and At-Tirmidhi, who said "Hasan Sahih".
+
+The Honest and Dishonest are Not Similar
+
+Allah said,
+
+أَفَمَنِ اتَّبَعَ رِضْوَانَ اللَّهِ كَمَن بَاءَ بِسَخَطٍ مِّنَ اللَّهِ وَمَأْوَاهُ جَهَنَّمُ وَبِئْسَ الْمَصِيرُ
+
+(Is then one who follows (seeks) the pleasure of Allah like the one who draws on himself the wrath of Allah? His abode is Hell, and worse indeed is that destination!)[3:162],
+
+This refers to those seeking what pleases Allah by obeying His legislation, thus earning His pleasure and tremendous rewards, while being saved from His severe torment. This type of person is not similar to one who earns Allah's anger, has no means of escaping it and who will reside in Jahannam on the Day of Resurrection, and what an evil destination it is.
+
+There are many similar statements in the Qur'an, such as,
+
+أَفَمَن يَعْلَمُ أَنَّمَا أُنزِلَ إِلَيْكَ مِن رَّبِّكَ الْحَقُّ كَمَنْ هُوَ أَعْمَىٰ
+
+(Shall he then who knows that what has been revealed unto you (O Muhammad ﷺ) from your Lord is the truth be like him who is blind?)[13:19], and,
+
+أَفَمَن وَعَدْنَاهُ وَعْدًا حَسَنًا فَهُوَ لَاقِيهِ كَمَن مَّتَّعْنَاهُ مَتَاعَ الْحَيَاةِ الدُّنْيَا
+
+(Is he whom We have promised an excellent promise (Paradise) which he will find true, like him whom We have made to enjoy the luxuries of the life of (this) world?)[28:61].
+
+Allah then said,
+
+هُمْ دَرَجَاتٌ عِندَ اللَّهِ
+
+(They are in varying grades with Allah,)[3:163] meaning, the people of righteousness and the people of evil are in grades, as Al-Hasan Al-Basri and Muhammad bin Ishaq said. Abu 'Ubaydah and Al-Kisa'i said that this Ayah refers to degrees, meaning there are various degrees and dwellings in Paradise, as well as, various degrees and dwellings in the Fire. In another Ayah, Allah said,
+
+وَلِكُلٍّ دَرَجَاتٌ مِّمَّا عَمِلُوا
+
+(For all there will be degrees (or ranks) according to what they did)[6:132]. Next, Allah said,
+
+وَاللَّهُ بَصِيرٌ بِمَا يَعْمَلُونَ
+
+(and Allah is All-Seer of what they do), and He will compensate or punish them, and will never rid them of a good deed, or increase their evil deeds. Rather, each will be treated according to his deeds.
+
+The Magnificent Blessing in the Advent of Our Prophet Muhammad (ﷺ)
+
+Allah the Most High said:
+
+لَقَدْ مَنَّ اللَّهُ عَلَى الْمُؤْمِنِينَ إِذْ بَعَثَ فِيهِمْ رَسُولًا مِّنْ أَنفُسِهِمْ
+
+(Indeed Allah conferred a great favor on the believers when He sent among them a Messenger from among themselves,)
+
+Meaning, from their own kind, so that it is possible for them to speak with him, ask him questions, associate with him, and benefit from him. Just as Allah said:
+
+وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَاجًا لِّتَسْكُنُوا إِلَيْهَا
+
+(And among His signs is that he created for them mates, that they may find rest in.)[30:21]
+
+Meaning; of their own kind. And Allah said;
+
+قُلْ إِنَّمَا أَنَا بَشَرٌ مِّثْلُكُمْ يُوحَىٰ إِلَيَّ أَنَّمَا إِلَٰهُكُمْ إِلَٰهٌ وَاحِدٌ
+
+(Say: "I am only a man like you. It has been revealed to me that your God is One God")[18:110].
+
+وَمَا أَرْسَلْنَا قَبْلَكَ مِنَ الْمُرْسَلِينَ إِلَّا إِنَّهُمْ لَيَأْكُلُونَ الطَّعَامَ وَيَمْشُونَ فِي الْأَسْوَاقِ
+
+(And We never sent before you any of the Messengers but verily, they ate food and walked in the markets)[25:20].
+
+وَمَا أَرْسَلْنَا مِن قَبْلِكَ إِلَّا رِجَالًا نُّوحِي إِلَيْهِم مِّنْ أَهْلِ الْقُرَىٰ
+
+(And We sent not before you any but men unto whom We revealed, from among the people of townships)[12:109], and,
+
+يَا مَعْشَرَ الْجِنِّ وَالْإِنسِ أَلَمْ يَأْتِكُمْ رُسُلٌ مِّنكُمْ
+
+(O you assembly of Jinn and mankind! "Did not there come to you Messengers from among you…?")[6:130].
+
+Allah's favor is perfected when His Messenger to the people is from their own kind, so that they are able to talk to him and inquire about the meanings of Allah's Word. This is why Allah said,
+
+يَتْلُو عَلَيْهِمْ آيَاتِهِ
+
+(reciting unto them His verses)[3:164], the Qur'an,
+
+وَيُزَكِّيهِمْ
+
+(and purifying them), commanding them to do righteous works and forbidding them from committing evil. This is how their hearts will be purified and cleansed of the sin and evil that used to fill them when they were disbelievers and ignorant.
+
+وَيُعَلِّمُهُمُ الْكِتَابَ وَالْحِكْمَةَ
+
+(and instructing them (in) the Book and the Hikmah,) the Qur'an and the Sunnah,
+
+وَإِن كَانُوا مِن قَبْلُ
+
+(while before that they had been), before sending this Prophet, Muhammad ﷺ,
+
+لَفِي ضَلَالٍ مُّبِينٍ
+
+(in manifest error.) indulging in plain and unequivocal error and ignorance that are clear to everyone.
 
 ### al-Tabari (Arabic)
 
@@ -400,9 +502,111 @@ In the book of Ahkam of his Sunan, Abu 'Isa At-Tirmidhi recorded that Mu'adh bin
 
 In addition, Imam Ahmad recorded that Abu Hurayrah said, "The Prophet ﷺ got up among us and mentioned Ghulul and emphasized its magnitude. He then said,
 
-لَا أُلْفِيَنَّ أَحَدَكُمْ يَجِيءُ يَوْمَ الْقِيَامَةِ عَلى رَقَبَتِهِ بَعِيرٌ لَهُ رُغَاءٌ، فَيَقُولُ: يَا رَسُولَ اللهِ أَغِثْنِي، فَأَقُولُ: لَا أَمْلِكُ لَكَ مِنَ اللهِ شَيْئًا، قَدْ أَبْلَغْتُكَ، لَا أُلْفِيَنَّ أَحَدَكُمْ
+لَا أُلْفِيَنَّ أَحَدَكُمْ يَجِيءُ يَوْمَ الْقِيَامَةِ عَلى رَقَبَتِهِ بَعِيرٌ لَهُ رُغَاءٌ، فَيَقُولُ: يَا رَسُولَ اللهِ أَغِثْنِي، فَأَقُولُ: لَا أَمْلِكُ لَكَ مِنَ اللهِ شَيْئًا، قَدْ أَبْلَغْتُكَ، لَا أُلْفِيَنَّ أَحَدَكُمْ يَجِيءُ يَوْمَ الْقِيَامَةِ عَلى رَقَبَتِهِ فَرَسٌ لَهَا حَمْحَمَةٌ، فَيَقُولُ: يَا رَسُولَ اللهِ أَغِثْنِي، فَأَقُولُ: لَا أَمْلِكُ لَكَ مِنَ اللهِ شَيْئًا، قَدْ أَبْلَغْتُكَ، لَا أُلْفِيَنَّ أَحَدَكُمْ يَجِيءُ يَوْمَ الْقِيَامَةِ عَلى رَقَبَتِهِ رِقَاعٌ تَخْفِقُ فَيَقُولُ: يَا رَسُولَ اللهِ أَغِثْنِي، فَأَقُولُ: لَا أَمْلِكُ لَكَ مِنَ اللهِ شَيْئًا، قَدْ أَبْلَغْتُكَ، لَا أُلْفِيَنَّ أَحَدَكُمْ يَجِيءُ يَوْمَ الْقِيَامَةِ عَلى رَقَبَتِهِ صَامِتٌ، فَيقُولُ: يَا رَسُولَ اللهِ أَغِثْنِي، فَأَقُولُ: لَا أَمْلِكُ لَكَ مِنَ اللهِ شَيْئًا، قَدْ أَبْلَغْتُكَ
 
-[TRUNCATED at 12000 chars — 7069 more. Consult the source directly before relying on anything near the cut.]
+(I will not like to see anyone among you on the Day of Resurrection, carrying a grunting camel over his neck. Such a man will say, 'O Allah's Messenger! Intercede on my behalf,' and I will say, 'I can't intercede for you with Allah, for I have conveyed (Allah's Message) to you.' I will not like to see any of you coming on the Day of Resurrection while carrying a neighing horse over his neck. Such a man will be saying, 'O Allah's Messenger! Intercede on my behalf,' and I will reply, 'I can't intercede for you with Allah, for I have conveyed (Allah's Message) to you.' I will not like to see any of you coming on the Day of Resurrection while carrying clothes that will be fluttering, and the man will say, 'O Allah's Messenger! Intercede (with Allah) for me, ' and I will say, 'I can't help you with Allah, for I have conveyed (Allah's Message) to you.' I will not like to see any of you coming on the Day of Resurrection while carrying gold and silver on his neck. This person will say, 'O Allah's Messenger! Intercede (with Allah) for me.' And I will say, 'I can't help you with Allah, for I have conveyed (Allah's Message) to you.')" This Hadith was recorded in the Two Sahihs .
+
+Imam Ahmad recorded that 'Umar bin Al-Khattab said, "During the day (battle) of Khaybar, several Companions of the Messenger of Allah ﷺ came to him and said, 'So-and-so died as a martyr, so-and-so died as a martyr.' When they mentioned a certain man that died as a martyr, the Messenger of Allah ﷺ said,
+
+كَلَّا إِنِّي رَأَيْتُهُ فِي النَّارِ فِي بُرْدَةٍ غَلَّهَا - أَوْ عَبَاءَةٍ
+
+(No. I have seen him in the Fire because of a robe that he stole (from the booty).)
+
+The Messenger of Allah ﷺ then said,
+
+يَا ابْنَ الْخَطَّابِ، اذْهَبْ فَنَادِ فِي النَّاسِ: إِنَّهُ لَا يَدْخُلُ الْجَنَّةَ إِلَّا الْمُؤْمِنُونَ
+
+(O Ibn Al-Khattab! Go and announce to the people that only the faithful shall enter Paradise.)
+
+So I went out and proclaimed that none except the faithful shall enter Paradise." This was recorded by Muslim and At-Tirmidhi, who said "Hasan Sahih".
+
+The Honest and Dishonest are Not Similar
+
+Allah said,
+
+أَفَمَنِ اتَّبَعَ رِضْوَانَ اللَّهِ كَمَن بَاءَ بِسَخَطٍ مِّنَ اللَّهِ وَمَأْوَاهُ جَهَنَّمُ وَبِئْسَ الْمَصِيرُ
+
+(Is then one who follows (seeks) the pleasure of Allah like the one who draws on himself the wrath of Allah? His abode is Hell, and worse indeed is that destination!)[3:162],
+
+This refers to those seeking what pleases Allah by obeying His legislation, thus earning His pleasure and tremendous rewards, while being saved from His severe torment. This type of person is not similar to one who earns Allah's anger, has no means of escaping it and who will reside in Jahannam on the Day of Resurrection, and what an evil destination it is.
+
+There are many similar statements in the Qur'an, such as,
+
+أَفَمَن يَعْلَمُ أَنَّمَا أُنزِلَ إِلَيْكَ مِن رَّبِّكَ الْحَقُّ كَمَنْ هُوَ أَعْمَىٰ
+
+(Shall he then who knows that what has been revealed unto you (O Muhammad ﷺ) from your Lord is the truth be like him who is blind?)[13:19], and,
+
+أَفَمَن وَعَدْنَاهُ وَعْدًا حَسَنًا فَهُوَ لَاقِيهِ كَمَن مَّتَّعْنَاهُ مَتَاعَ الْحَيَاةِ الدُّنْيَا
+
+(Is he whom We have promised an excellent promise (Paradise) which he will find true, like him whom We have made to enjoy the luxuries of the life of (this) world?)[28:61].
+
+Allah then said,
+
+هُمْ دَرَجَاتٌ عِندَ اللَّهِ
+
+(They are in varying grades with Allah,)[3:163] meaning, the people of righteousness and the people of evil are in grades, as Al-Hasan Al-Basri and Muhammad bin Ishaq said. Abu 'Ubaydah and Al-Kisa'i said that this Ayah refers to degrees, meaning there are various degrees and dwellings in Paradise, as well as, various degrees and dwellings in the Fire. In another Ayah, Allah said,
+
+وَلِكُلٍّ دَرَجَاتٌ مِّمَّا عَمِلُوا
+
+(For all there will be degrees (or ranks) according to what they did)[6:132]. Next, Allah said,
+
+وَاللَّهُ بَصِيرٌ بِمَا يَعْمَلُونَ
+
+(and Allah is All-Seer of what they do), and He will compensate or punish them, and will never rid them of a good deed, or increase their evil deeds. Rather, each will be treated according to his deeds.
+
+The Magnificent Blessing in the Advent of Our Prophet Muhammad (ﷺ)
+
+Allah the Most High said:
+
+لَقَدْ مَنَّ اللَّهُ عَلَى الْمُؤْمِنِينَ إِذْ بَعَثَ فِيهِمْ رَسُولًا مِّنْ أَنفُسِهِمْ
+
+(Indeed Allah conferred a great favor on the believers when He sent among them a Messenger from among themselves,)
+
+Meaning, from their own kind, so that it is possible for them to speak with him, ask him questions, associate with him, and benefit from him. Just as Allah said:
+
+وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَاجًا لِّتَسْكُنُوا إِلَيْهَا
+
+(And among His signs is that he created for them mates, that they may find rest in.)[30:21]
+
+Meaning; of their own kind. And Allah said;
+
+قُلْ إِنَّمَا أَنَا بَشَرٌ مِّثْلُكُمْ يُوحَىٰ إِلَيَّ أَنَّمَا إِلَٰهُكُمْ إِلَٰهٌ وَاحِدٌ
+
+(Say: "I am only a man like you. It has been revealed to me that your God is One God")[18:110].
+
+وَمَا أَرْسَلْنَا قَبْلَكَ مِنَ الْمُرْسَلِينَ إِلَّا إِنَّهُمْ لَيَأْكُلُونَ الطَّعَامَ وَيَمْشُونَ فِي الْأَسْوَاقِ
+
+(And We never sent before you any of the Messengers but verily, they ate food and walked in the markets)[25:20].
+
+وَمَا أَرْسَلْنَا مِن قَبْلِكَ إِلَّا رِجَالًا نُّوحِي إِلَيْهِم مِّنْ أَهْلِ الْقُرَىٰ
+
+(And We sent not before you any but men unto whom We revealed, from among the people of townships)[12:109], and,
+
+يَا مَعْشَرَ الْجِنِّ وَالْإِنسِ أَلَمْ يَأْتِكُمْ رُسُلٌ مِّنكُمْ
+
+(O you assembly of Jinn and mankind! "Did not there come to you Messengers from among you…?")[6:130].
+
+Allah's favor is perfected when His Messenger to the people is from their own kind, so that they are able to talk to him and inquire about the meanings of Allah's Word. This is why Allah said,
+
+يَتْلُو عَلَيْهِمْ آيَاتِهِ
+
+(reciting unto them His verses)[3:164], the Qur'an,
+
+وَيُزَكِّيهِمْ
+
+(and purifying them), commanding them to do righteous works and forbidding them from committing evil. This is how their hearts will be purified and cleansed of the sin and evil that used to fill them when they were disbelievers and ignorant.
+
+وَيُعَلِّمُهُمُ الْكِتَابَ وَالْحِكْمَةَ
+
+(and instructing them (in) the Book and the Hikmah,) the Qur'an and the Sunnah,
+
+وَإِن كَانُوا مِن قَبْلُ
+
+(while before that they had been), before sending this Prophet, Muhammad ﷺ,
+
+لَفِي ضَلَالٍ مُّبِينٍ
+
+(in manifest error.) indulging in plain and unequivocal error and ignorance that are clear to everyone.
 
 ### al-Tabari (Arabic)
 

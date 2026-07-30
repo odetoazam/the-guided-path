@@ -122,9 +122,37 @@ The covenant that these deviant people broke is Allah's covenant with His creati
 
 It was said that the Ayah (2:27) is about the disbelievers and the hypocrites among the People of the Book. In this case, the covenant that they broke is the pledge that Allah took from them in the Tawrah to follow Muhammad ﷺ when he is sent as a Prophet, and to believe in him, and in what he was sent with. Breaking Allah's covenant in this case occured when the People of the Book rejected the Prophet ﷺ after they knew the truth about him, and they hid this truth from people, even though they swore to Allah that they would do otherwise. Allah informed us that they threw the covenant behind their backs and sold it for a miserable price.
 
-It was also reported that the Ayah (2:27) refers to all disbelievers, idol worshippers and hypocrites. Allah took their pledge to believe in His Oneness, showing them the signs that testify to His Lordship. He also took a covenant from them to obey His commands and refrain from His prohibitions, knowing that His Messengers would bring proofs and miracles that none among the creation could ever produce. These miracles testified to the truth of Allah's Messengers. The covenant was broken when the disbelievers denied what was proven to them to be authentic and rejected Allah's Prophets and Books, although t
+It was also reported that the Ayah (2:27) refers to all disbelievers, idol worshippers and hypocrites. Allah took their pledge to believe in His Oneness, showing them the signs that testify to His Lordship. He also took a covenant from them to obey His commands and refrain from His prohibitions, knowing that His Messengers would bring proofs and miracles that none among the creation could ever produce. These miracles testified to the truth of Allah's Messengers. The covenant was broken when the disbelievers denied what was proven to them to be authentic and rejected Allah's Prophets and Books, although they knew that they were the truth. This Tafsir was reported from Muqatil bin Hayyan, and it is very good. It is also the view that Az-Zamakhshari held.
 
-[TRUNCATED at 12000 chars — 2025 more. Consult the source directly before relying on anything near the cut.]
+Allah's statement next,
+
+وَيَقْطَعُونَ مَا أَمَرَ اللَّهُ بِهِ أَن يُوصَلَ
+
+(And sever what Allah has ordered to be joined) is in reference to keeping the relations with the relatives, as Qatadah asserted. This Ayah is similar to Allah's statement,
+
+فَهَلْ عَسَيْتُمْ إِن تَوَلَّيْتُمْ أَن تُفْسِدُوا فِي الْأَرْضِ وَتُقَطِّعُوا أَرْحَامَكُمْ
+
+(Would you then, if you were given the authority, do mischief in the land, and sever your ties of kinship?)(47:22)
+
+Ibn Jarir At-Tabari preferred this opinion. However, it has been said that the meaning of the Ayah (2:27) here is more general. Hence, everything that Allah has commanded to nurture, and the people severed, is included in its meaning.
+
+The Meaning of 'Loss'
+
+Muqatil bin Hayyan commented on Allah's statement,
+
+أُولَٰئِكَ هُمُ الْخَاسِرُونَ
+
+(It is they who are the losers) "In the Hereafter." Similarly, Allah said,
+
+أُولَٰئِكَ لَهُمُ اللَّعْنَةُ وَلَهُمْ سُوءُ الدَّارِ
+
+(On them is the curse (i.e. they will be far away from Allah's mercy), and for them is the unhappy (evil) home (i.e. Hell))(13:25).
+
+Also, Ad-Dahhak said that Ibn 'Abbas said, "Every characteristic that Allah describes those other than the people of Islam - such as being losers - then it refers to disbelief. However, when they are attributed to the people of Islam, then these terms refer to sin." Ibn Jarir commented on Allah's statement,
+
+أُولَٰئِكَ هُمُ الْخَاسِرُونَ
+
+(It is they who are the losers,) "Losers is plural for loser, this word refers to whoever decreased his own share of Allah's mercy by disobeying Him, just as the merchant loses in his trade by sustaining capital loss. Such is the case with the hypocrite and the disbeliever who lose their share of the mercy that Allah has in store for His servants on the Day of Resurrection. And that is when the disbeliever and the hypocrite most desperately need Allah's mercy."
 
 ### al-Tabari (Arabic)
 
@@ -210,9 +238,59 @@ It was also reported that the Ayah (2:27) refers to all disbelievers, idol worsh
 
 والذي يسميه الطبري البغدادي المذهب في النحو"تطولا"، يسميه الفراء الكوفي المذهب في النحو"صلة"، وهي الزيادة في الكلام.]] وأن معنى الكلام: إن الله لا يستحيي أن يضربَ بعوضةً مثلا فما فوقها. فعلى هذا التأويل، يجب أن تكون"بعوضةً" منصوبةً بـ "يضرب"، وأن تكون"ما" الثانية التي في"فما فوقها" معطوفة على البعوضة لا على"ما".
 
-وأما تأويل قوله"فما فوقها": فما هو أعظم منها [[في المخطوطة: "فهو ما قد عظم منها"، وهو خطأ بلا معنى.]] -عندي- لما ذكرنا قبل من قول قتادة وابن جُريج: أن البعوضة أضعف خلق الله، فإذْ كانت أضعف خلق الله فهي نهايةٌ في القلة والضعف. وإذ كانت كذلك، فلا شك أن ما فوق أضعف الأشياء، لا يكون إلا أقوى من
+وأما تأويل قوله"فما فوقها": فما هو أعظم منها [[في المخطوطة: "فهو ما قد عظم منها"، وهو خطأ بلا معنى.]] -عندي- لما ذكرنا قبل من قول قتادة وابن جُريج: أن البعوضة أضعف خلق الله، فإذْ كانت أضعف خلق الله فهي نهايةٌ في القلة والضعف. وإذ كانت كذلك، فلا شك أن ما فوق أضعف الأشياء، لا يكون إلا أقوى منه. فقد يجب أن يكون المعنى -على ما قالاه- فما فوقها في العظم والكبر، إذ كانت البعوضة نهايةً في الضعف والقلة.
 
-[TRUNCATED at 12000 chars — 6228 more. Consult the source directly before relying on anything near the cut.]
+وقيل في تأويل قوله"فما فوقها"، في الصغر والقلة. كما يقال في الرجل يذكرُه الذاكرُ فيصفه باللؤم والشحّ، فيقول السامع:"نعم، وفوقَ ذاك"، يعني فوقَ الذي وصف في الشحّ واللؤم [[في المطبوعة: "فوق الذي وصف". وهذا التأويل الذي ذكره الطبري، قد اقترحه الفراء في معاني القرآن ١: ٢٠ - ٢١ وأبان عنه، وقال: "ولو جعلت في مثله من الكلام"فما فوقها"، تريد أصغر منها، لجاز ذلك. ولست أستحبه"، يعني: أنه لا يستحبه في هذا الموضع من تفسير كتاب الله.]] ، وهذا قولٌ خلافُ تأويل أهل العلم الذين تُرْتَضى معرفتهم بتأويل القرآن.
+
+فقد تبين إذًا، بما وصفنا، أن معنى الكلام: إن الله لا يستحيي أن يصف شبَهًا لما شبَّه به الذي هو ما بين بعوضةٍ إلى ما فوق البعوضة.
+
+فأما تأويل الكلام لو رفعت البعوضة، فغير جائز في"ما"، إلا ما قلنا من أن تكون اسما، لا صلة بمعنى التطول [[قد شرحنا معنى"صلة" و"تطول" فيما مضى ص: ٤٠٥.]] .
+
+* *
+
+القول في تأويل قوله: ﴿فَأَمَّا الَّذِينَ آمَنُوا فَيَعْلَمُونَ أَنَّهُ الْحَقُّ مِنْ رَبِّهِمْ وَأَمَّا الَّذِينَ كَفَرُوا فَيَقُولُونَ مَاذَا أَرَادَ اللَّهُ بِهَذَا مَثَلا﴾
+
+قال أبو جعفر: يعني تعالى ذكره بقوله:"فأما الذين آمنوا"، فأما الذين صدّقوا الله ورسوله. وقوله:"فيعلمون أنه الحق من ربهم". يعني: فيعرفون أن المثَل الذي ضرَبه الله، لِما ضرَبه له، مثَل.
+
+٥٦٤- كما حدثني به المثنى، قال: حدثنا إسحاق بن الحجاج، قال: حدثنا عبد الله بن أبي جعفر، عن أبيه، عن الربيع بن أنس:"فأما الذين آمنوا فيعلمون أنه الحق من ربهم"، أنّ هذا المثلَ الحقُّ من ربهم، وأنه كلامُ الله ومن عنده [[الأثر: ٥٦٤- هو عن الربيع بن أنس عن أبي العالية، كما مر كثيرًا، وكذلك جاء في الدر المنثور ١: ٤٣.]] .
+
+٥٦٥- وكما حدثنا بشر بن معاذ، قال: حدثنا يزيد بن زُريع، عن سعيد، عن قتادة، قوله"فأما الذين آمنوا فيعلمون أنه الحق من ربهم"، أي يعلمون أنه كلامُ الرحمن، وأنه الحق من الله [[الأثر ٥٦٥- في ابن كثير ١: ١١٨.]] .
+
+"وأما الذين كفروا فيقولونَ ماذا أرَاد الله بهذا مثلا".
+
+قال أبو جعفر: وقوله"وأما الذين كفرُوا"، يعني الذين جحدوا آيات الله، وأنكرُوا ما عرفوا، وستروا ما علموا أنه حق، وذلك صفةُ المنافقين، وإياهم عَنَى الله جلّ وعز - ومن كان من نظرائهم وشركائهم من المشركين من أهل الكتاب وغيرهم - بهذه الآية، فيقولون: ماذا أراد الله بهذا مثلا كما قد ذكرنا قبل من الخبر الذي رويناه عن مجاهد الذي:-
+
+٥٦٦- حدثنا به محمد عن عمرو، قال: حدثنا أبو عاصم، عن عيسى، عن ابن أبي نجيح، عن مجاهد:"فأما الذين آمنوا فيعلمونَ أنه الحقّ من ربهم" الآية، قال: يؤمن بها المؤمنون، ويعلمون أنها الحق من ربهم، ويهديهم الله بها، ويَضلّ بها الفاسقون. يقول: يعرفه المؤمنون فيؤمنون به، ويعرفه الفاسقون فيكفرون به [[الأثر ٥٦٦- قد مضى برقم: ٥٥٩.]] .
+
+وتأويل قوله:"ماذا أراد الله بهذا مثلا"، ما الذي أراد الله بهذا المثل مثلا."فذا"، الذي مع"ما"، في معنى"الذي"، وأراد صلته، وهذا إشارةٌ إلى المثل [[في المطبوعة: "فذا مع ما في معنى. . "]] .
+
+* *
+
+القول في تأويل قوله جل ثناؤه: ﴿يُضِلُّ بِهِ كَثِيرًا وَيَهْدِي بِهِ كَثِيرًا﴾
+
+قال أبو جعفر: يعني بقوله جل وعز:"يضلّ به كثيرًا"، يضلّ الله به كثيرًا من خلقه. والهاء في"به" من ذكر المثل. وهذا خبر من الله جل ثناؤه مبتدَأٌ، ومعنى الكلام: أن الله يُضلّ بالمثل الذي يضربه كثيرًا من أهل النفاق والكفر:-
+
+٥٦٧- كما حدثني موسى بن هارون، قال: حدثنا عمرو بن حماد، قال: حدثنا أسباط، عن السدّي، في خبر ذكره، عن أبي مالك، وعن أبي صالح، عن ابن عباس - وعن مُرَّة، عن ابن مسعود، وعن ناس من أصحاب النبي ﷺ:"يضلّ به كثيرًا" يعني المنافقين،"ويهدي به كثيرًا"، يعني المؤمنين [[الخبر: ٥٦٧- في ابن كثير ١: ١١٩، والدر المنثور ١: ٤٢، والشوكاني ١: ٤٥، وهو فيها تام متصل، وتمامه الأثر الذي يليه: ٥٦٨. ولكن ابن كثير أخطأ، فوصل هذا الخير بكلام الطبري الذي يليه، كأنه كله من تفسير ابن عباس وابن مسعود، وهو خطأ محض. فقول الطبري بعد"فيزيد هؤلاء ضلالا. . " هو من تمام قوله قبل هذا"أن الله يضل بالمثل الذي يضربه كثيرا من أهل النفاق والكفر".]] .
+
+- فيزيد هؤلاء ضلالا إلى ضلالهم، لتكذيبهم بما قد علموه حقًّا يقينًا من المثل الذي ضربه الله لما ضرَبه له، وأنه لما ضرَبه له موافق. فذلك إضْلال الله إياهم به. و"يهدي به"، يعني بالمثل، كثيرًا من أهل الإيمان والتصديق، فيزيدهم هدى إلى هُداهم وإيمانًا إلى إيمانهم. لتصديقهم بما قد علموه حقًّا يقينًا أنه موافق ما ضرَبه الله له مثلا وإقرارُهم به. وذلك هدايةٌ من الله لهم به.
+
+وقد زعم بعضهم أنّ ذلك خبرٌ عن المنافقين، كأنهم قالوا: ماذا أراد الله بمثل لا يعرفه كل أحد، يضلّ به هذا ويهدي به هذا. ثم استؤنف الكلام والخبر عن الله، فقال الله:"وما يضل به إلا الفاسقين". وفيما في سورة المدثر - من قول الله:"وليقولَ الذينَ في قلوبهمْ مَرَضٌ والكافرونَ ماذا أرَاد الله بهذا مثلا. كذلك يُضلّ اللهُ مَن يشاءُ ويهدي من يشاء" - ما ينبئ عن أنه في سورة البقرة كذلك، مبتدأٌ - أعني قوله:"يضلّ به كثيرًا ويهدي به كثيرًا".
+
+* *
+
+القول في تأويل قوله جل ثناؤه: ﴿وَمَا يُضِلُّ بِهِ إِلا الْفَاسِقِينَ (٢٦) ﴾
+
+وتأويل ذلك ما:-
+
+٥٦٨- حدثني به موسى بن هارون، قال: حدثنا عمرو، قال: حدثنا أسباط، عن السُّدّيّ في خبر ذكره، عن أبي مالك، وعن أبي صالح، عن ابن عباس - وعن مُرَّة، عن ابن مسعود، وعن ناس من أصحاب النبي ﷺ:"وما يُضلّ به إلا الفاسقين"، هم المنافقون [[الخبر ٥٦٨- تمام الأثر السالف، وقد ذكرنا موضعه.]] .
+
+٥٦٩- وحدثنا بشر بن مُعاذ، قال: حدثنا يزيد، عن سعيد، عن قتادة:"وما يُضِلّ به إلا الفاسقين"، فسقوا فأضلَّهم الله على فِسقهم [[الأثر: ٥٦٩- في ابن كثير ١: ١١٩، وفي الدر المنثور ١: ٤٢، والشوكاني ١: ٤٥، وفيهما مكان"على فسقهم"، "بفسقهم".]] .
+
+٥٧٠- حدثني المثنى، قال: حدثنا إسحاق، قال: حدثنا ابن أبي جعفر، عن أبيه، عن الربيع بن أنس:"وما يضل به إلا الفاسقين"، هم أهل النفاق [[الأثر: ٥٧٠- في ابن كثير ١: ١١٩.]] .
+
+قال أبو جعفر: وأصلُ الفسق في كلام العرب: الخروجُ عن الشيء. يقال منه: فسقت الرُّطَبة إذا خرجت من قشرها. ومن ذلك سُمّيت الفأرةُ فُوَيْسِقة، لخروجها عن جُحرها [[انظر الطبري ١٥: ١٧٠ (بولاق) . وقوله: "يحكى عن العرب سماعًا: فسقت الرطبة من قشرها، إذا خرجت. وفسقت الفأرة إذا خرجت من جحرها"، وسائر ما قال هناك.]] ، فكذلك المنافق والكافر سُمّيا فاسقيْن، لخروجهما عن طاعة ربهما. ولذلك قال جل ذكره في صفة إبليس: ﴿إِلا إِبْلِيسَ كَانَ مِنَ الْجِنِّ فَفَسَقَ عَنْ أَمْرِ رَبِّهِ﴾ [سورة الكهف: ٥٠] ، يعني به خرج عن طاعته واتباع أمره.
+
+٥٧١- كما حدثنا ابن حميد، قال: حدثنا سلمة، قال: حدثني ابن إسحاق، عن داود بن الحُصين، عن عكرمة مولى ابن عباس، عن ابن عباس في قوله: ﴿بِمَا كَانُوا يَفْسُقُونَ﴾ [سورة البقرة: ٥٩] ، أي بما بعُدوا عن أمري [[الخبر: ٥٧١- لم أجده في مكانه من تفسير آية البقرة، ولا في أية آية ذكر فيها هذا الحرف. ولم يخرجه أحد ممن اعتمدنا ذكره. وفي المخطوطة: "من أمري".]] . فمعنى قوله:"وما يُضلّ به إلا الفاسقين"، وما يضلّ الله بالمثل الذي يضربه لأهل الضلال والنفاق، إلا الخارجين عن طاعته، والتاركين اتباعَ أمره، من أهل الكفر به من أهل الكتاب، وأهل الضّلال من أهل النفاق.
 
 ### al-Muyassar (Arabic)
 
@@ -340,9 +418,37 @@ The covenant that these deviant people broke is Allah's covenant with His creati
 
 It was said that the Ayah (2:27) is about the disbelievers and the hypocrites among the People of the Book. In this case, the covenant that they broke is the pledge that Allah took from them in the Tawrah to follow Muhammad ﷺ when he is sent as a Prophet, and to believe in him, and in what he was sent with. Breaking Allah's covenant in this case occured when the People of the Book rejected the Prophet ﷺ after they knew the truth about him, and they hid this truth from people, even though they swore to Allah that they would do otherwise. Allah informed us that they threw the covenant behind their backs and sold it for a miserable price.
 
-It was also reported that the Ayah (2:27) refers to all disbelievers, idol worshippers and hypocrites. Allah took their pledge to believe in His Oneness, showing them the signs that testify to His Lordship. He also took a covenant from them to obey His commands and refrain from His prohibitions, knowing that His Messengers would bring proofs and miracles that none among the creation could ever produce. These miracles testified to the truth of Allah's Messengers. The covenant was broken when the disbelievers denied what was proven to them to be authentic and rejected Allah's Prophets and Books, although t
+It was also reported that the Ayah (2:27) refers to all disbelievers, idol worshippers and hypocrites. Allah took their pledge to believe in His Oneness, showing them the signs that testify to His Lordship. He also took a covenant from them to obey His commands and refrain from His prohibitions, knowing that His Messengers would bring proofs and miracles that none among the creation could ever produce. These miracles testified to the truth of Allah's Messengers. The covenant was broken when the disbelievers denied what was proven to them to be authentic and rejected Allah's Prophets and Books, although they knew that they were the truth. This Tafsir was reported from Muqatil bin Hayyan, and it is very good. It is also the view that Az-Zamakhshari held.
 
-[TRUNCATED at 12000 chars — 2025 more. Consult the source directly before relying on anything near the cut.]
+Allah's statement next,
+
+وَيَقْطَعُونَ مَا أَمَرَ اللَّهُ بِهِ أَن يُوصَلَ
+
+(And sever what Allah has ordered to be joined) is in reference to keeping the relations with the relatives, as Qatadah asserted. This Ayah is similar to Allah's statement,
+
+فَهَلْ عَسَيْتُمْ إِن تَوَلَّيْتُمْ أَن تُفْسِدُوا فِي الْأَرْضِ وَتُقَطِّعُوا أَرْحَامَكُمْ
+
+(Would you then, if you were given the authority, do mischief in the land, and sever your ties of kinship?)(47:22)
+
+Ibn Jarir At-Tabari preferred this opinion. However, it has been said that the meaning of the Ayah (2:27) here is more general. Hence, everything that Allah has commanded to nurture, and the people severed, is included in its meaning.
+
+The Meaning of 'Loss'
+
+Muqatil bin Hayyan commented on Allah's statement,
+
+أُولَٰئِكَ هُمُ الْخَاسِرُونَ
+
+(It is they who are the losers) "In the Hereafter." Similarly, Allah said,
+
+أُولَٰئِكَ لَهُمُ اللَّعْنَةُ وَلَهُمْ سُوءُ الدَّارِ
+
+(On them is the curse (i.e. they will be far away from Allah's mercy), and for them is the unhappy (evil) home (i.e. Hell))(13:25).
+
+Also, Ad-Dahhak said that Ibn 'Abbas said, "Every characteristic that Allah describes those other than the people of Islam - such as being losers - then it refers to disbelief. However, when they are attributed to the people of Islam, then these terms refer to sin." Ibn Jarir commented on Allah's statement,
+
+أُولَٰئِكَ هُمُ الْخَاسِرُونَ
+
+(It is they who are the losers,) "Losers is plural for loser, this word refers to whoever decreased his own share of Allah's mercy by disobeying Him, just as the merchant loses in his trade by sustaining capital loss. Such is the case with the hypocrite and the disbeliever who lose their share of the mercy that Allah has in store for His servants on the Day of Resurrection. And that is when the disbeliever and the hypocrite most desperately need Allah's mercy."
 
 ### al-Tabari (Arabic)
 

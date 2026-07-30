@@ -138,9 +138,11 @@ Allah says:
 
 أَصْحَابُ الْجَنَّةِ يَوْمَئِذٍ خَيْرٌ مُّسْتَقَرًّا وَأَحْسَنُ مَقِيلًا
 
-(The dwellers of Paradise will, on that Day, have the best abode, and have the fairest of places for repose.) 'Ikrimah said, "I know the time when the people of Paradise will enter Paradise and the people of Hell will enter H
+(The dwellers of Paradise will, on that Day, have the best abode, and have the fairest of places for repose.) 'Ikrimah said, "I know the time when the people of Paradise will enter Paradise and the people of Hell will enter Hell. It is the time which in this world is the time when the late forenoon starts and people go back to their families to take a siesta. The people of Hell will go to Hell, but the people of Paradise will be taken to Paradise and will have their siesta in Paradise, and they will be fed the liver of a whale and they will all eat their fill. This is what Allah says:
 
-[TRUNCATED at 12000 chars — 551 more. Consult the source directly before relying on anything near the cut.]
+أَصْحَابُ الْجَنَّةِ يَوْمَئِذٍ خَيْرٌ مُّسْتَقَرًّا وَأَحْسَنُ مَقِيلًا
+
+(The dwellers of Paradise will, on that Day, have the best abode, and have the fairest of places for repose.)
 
 ### al-Tabari (Arabic)
 
@@ -336,9 +338,11 @@ Allah says:
 
 أَصْحَابُ الْجَنَّةِ يَوْمَئِذٍ خَيْرٌ مُّسْتَقَرًّا وَأَحْسَنُ مَقِيلًا
 
-(The dwellers of Paradise will, on that Day, have the best abode, and have the fairest of places for repose.) 'Ikrimah said, "I know the time when the people of Paradise will enter Paradise and the people of Hell will enter H
+(The dwellers of Paradise will, on that Day, have the best abode, and have the fairest of places for repose.) 'Ikrimah said, "I know the time when the people of Paradise will enter Paradise and the people of Hell will enter Hell. It is the time which in this world is the time when the late forenoon starts and people go back to their families to take a siesta. The people of Hell will go to Hell, but the people of Paradise will be taken to Paradise and will have their siesta in Paradise, and they will be fed the liver of a whale and they will all eat their fill. This is what Allah says:
 
-[TRUNCATED at 12000 chars — 551 more. Consult the source directly before relying on anything near the cut.]
+أَصْحَابُ الْجَنَّةِ يَوْمَئِذٍ خَيْرٌ مُّسْتَقَرًّا وَأَحْسَنُ مَقِيلًا
+
+(The dwellers of Paradise will, on that Day, have the best abode, and have the fairest of places for repose.)
 
 ### al-Tabari (Arabic)
 

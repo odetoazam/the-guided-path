@@ -162,9 +162,259 @@ Ibn Jarir said that Ubayy bin Ka'b commented on,
 
 "These are Allah's Words (meaning not Ibrahim's)" This is also the Tafsir of Mujahid and 'Ikrimah. Furthermore, Ibn Abi Hatim narrated that Ibn 'Abbas commented on Allah's statement,
 
-رَبِّ اجْعَلْ هَٰذَا بَلَدًا آمِنًا وَارْزُقْ أَهْلَهُ مِنَ الثَّمَرَاتِ مَنْ آمَنَ مِنْهُم بِاللّ
+رَبِّ اجْعَلْ هَٰذَا بَلَدًا آمِنًا وَارْزُقْ أَهْلَهُ مِنَ الثَّمَرَاتِ مَنْ آمَنَ مِنْهُم بِاللَّهِ وَالْيَوْمِ الْآخِرِ
 
-[TRUNCATED at 12000 chars — 30556 more. Consult the source directly before relying on anything near the cut.]
+(My Lord, make this city (Makkah) a place of security and provide its people with fruits, such of them as believe in Allah and the Last Day.)
+
+"Ibrahim asked Allah to grant sustenance for the believers only. However, Allah revealed, 'I will also provide for the disbelievers, just as I shall provide for the believers. Would I create something and not sustain and provide for? I shall allow the disbelievers little delight, and then force them to the torment of the Fire, and what an evil destination. Ibn 'Abbas then recited,
+
+كُلًّا نُّمِدُّ هَٰؤُلَاءِ وَهَٰؤُلَاءِ مِنْ عَطَاءِ رَبِّكَ وَمَا كَانَ عَطَاءُ رَبِّكَ مَحْظُورًا
+
+(On each these as well as those We bestow from the bounties of your Lord. And the bounties of your Lord can never be forbidden)(17:20).
+
+This was recorded by Ibn Marduwyah, who also recorded similar statements from 'Ikrimah and Mujahid. Similarly, Allah said,
+
+إِنَّ الَّذِينَ يَفْتَرُونَ عَلَى اللَّهِ الْكَذِبَ لَا يُفْلِحُونَ - مَتَاعٌ فِي الدُّنْيَا ثُمَّ إِلَيْنَا مَرْجِعُهُمْ ثُمَّ نُذِيقُهُمُ الْعَذَابَ الشَّدِيدَ بِمَا كَانُوا يَكْفُرُونَ
+
+(Verily, those who invent a lie against Allah will never be successful. (A brief) enjoyment in this world! And then unto Us will be their return, then We shall make them taste the severest torment because they used to disbelieve.)(10:69-70),
+
+وَمَن كَفَرَ فَلَا يَحْزُنكَ كُفْرُهُ إِلَيْنَا مَرْجِعُهُمْ فَنُنَبِّئُهُم بِمَا عَمِلُوا إِنَّ اللَّهَ عَلِيمٌ بِذَاتِ الصُّدُورِ - نُمَتِّعُهُمْ قَلِيلًا ثُمَّ نَضْطَرُّهُمْ إِلَىٰ عَذَابٍ غَلِيظٍ
+
+(And whoever disbelieves, let not his disbelief grieve you (O Muhammad ﷺ). To Us is their return, and We shall inform them what they have done. Verily, Allah is the Knower of what is in the breasts (of men). We let them enjoy for a little while, then in the end We shall oblige them to (enter) a great torment.)(31:23-24) and,
+
+وَلَوْلَا أَن يَكُونَ النَّاسُ أُمَّةً وَاحِدَةً لَّجَعَلْنَا لِمَن يَكْفُرُ بِالرَّحْمَٰنِ لِبُيُوتِهِمْ سُقُفًا مِّن فِضَّةٍ وَمَعَارِجَ عَلَيْهَا يَظْهَرُونَ - وَلِبُيُوتِهِمْ أَبْوَابًا وَسُرُرًا عَلَيْهَا يَتَّكِئُونَ - وَزُخْرُفًا وَإِن كُلُّ ذَٰلِكَ لَمَّا مَتَاعُ الْحَيَاةِ الدُّنْيَا وَالْآخِرَةُ عِندَ رَبِّكَ لِلْمُتَّقِينَ
+
+(And were it not that mankind would have become of one community (all disbelievers desiring worldly life only), We would have provided for those who disbelieve in the Most Gracious (Allah), silver roofs for their houses, and elevators whereby they ascend. And for their houses, doors (of silver), and thrones (of silver) on which they could recline. And adornments of gold. Yet all this would have been nothing but an enjoyment of this world. And the Hereafter with your Lord is (only) for the Muttaqin (the pious).)(43:33-35). Allah said next,
+
+ثُمَّ أَضْطَرُّهُ إِلَىٰ عَذَابِ النَّارِ وَبِئْسَ الْمَصِيرُ
+
+(Then I shall compel him to the torment of the Fire, and worst indeed is that destination!) meaning, "After the delight that the disbeliever enjoyed in this life, I will make his destination torment in the Fire, and what an evil destination." This Ayah indicates that Allah gives the disbelievers respite and then seizes them in a manner compatible to His greatness and ability. This Ayah is similar to Allah's statement,
+
+وَكَأَيِّن مِّن قَرْيَةٍ أَمْلَيْتُ لَهَا وَهِيَ ظَالِمَةٌ ثُمَّ أَخَذْتُهَا وَإِلَيَّ الْمَصِيرُ
+
+(And many a township did I give respite while it was given to wrongdoing. Then (in the end) I seized it (with punishment). And to Me is the (final) return (of all))(22:48).
+
+Also, the Two Sahihs recorded,
+
+لَا أَحَدَ أَصْبَرُ عَلى أَذًى سَمِعَهُ مِنَ اللهِ إِنَّهُمْ يَجْعَلُونَ لَهُ وَلَدًا وَهُوَ يَرْزُقُهُمْ وَيُعَافِيهِم
+
+(No one is more patient than Allah when hearing abuse. They attribute a son to Him, while He grants them sustenance and health.)
+
+The Sahih also recorded,
+
+إِنَّ اللهَ لَيُمْلِي لِلظَّالِـمِ حَتّى إِذَا أَخَذَهُ لَمْ يُفْلِتْهُ
+
+(Allah gives respite to the unjust person, until when He seizes him; He never lets go of him.)
+
+He then recited Allah's statement,
+
+وَكَذَٰلِكَ أَخْذُ رَبِّكَ إِذَا أَخَذَ الْقُرَىٰ وَهِيَ ظَالِمَةٌ إِنَّ أَخْذَهُ أَلِيمٌ شَدِيدٌ
+
+(Such is the punishment of your Lord when He punishes the (population of) towns while they are doing wrong. Verily, His punishment is painful (and) severe). (11:102)
+
+Building the Ka'bah and asking Allah to accept This Deed
+
+Allah said,
+
+وَإِذْ يَرْفَعُ إِبْرَاهِيمُ الْقَوَاعِدَ مِنَ الْبَيْتِ وَإِسْمَاعِيلُ رَبَّنَا تَقَبَّلْ مِنَّا إِنَّكَ أَنتَ السَّمِيعُ الْعَلِيمُ - رَبَّنَا وَاجْعَلْنَا مُسْلِمَيْنِ لَكَ وَمِن ذُرِّيَّتِنَا أُمَّةً مُّسْلِمَةً لَّكَ وَأَرِنَا مَنَاسِكَنَا وَتُبْ عَلَيْنَا إِنَّكَ أَنتَ التَّوَّابُ الرَّحِيمُ
+
+(And (remember) when Ibrahim (Abraham) and (his son) Isma'il (Ishmael) were raising the foundations of the House (the Ka'bah at Makkah), (saying), "Our Lord! Accept (this service) from us. Verily, You are the Hearer, the Knower. Our Lord! And make us submissive unto You and of our offspring a nation submissive unto You, and show us our Manasik and accept our repentance. Truly, You are the One Who accepts repentance, the Most Merciful.")
+
+Allah said, "O Muhammad! Remind your people when Ibrahim and Isma'il built the House and raised its foundations while saying,
+
+رَبَّنَا تَقَبَّلْ مِنَّا إِنَّكَ أَنتَ السَّمِيعُ الْعَلِيمُ
+
+(Our Lord! Accept (this service) from us. Verily, You are the Hearer, the Knower.")
+
+Al-Qurtubi mentioned that Ubayy and Ibn Mas'ud used to recite the Ayah this way,
+
+وَإِذْ يَرْفَعُ إِبْرَاهِيمُ الْقَوَاعِدَ مِنَ الْبَيْتِ وَإِسْمَاعِيلُ وَيَقُولَانِ رَبَّنَا تَقَبَّلْ مِنَّا إِنَّكَ أَنتَ السَّمِيعُ الْعَلِيمُ
+
+(And (remember) when Ibrahim and (his son) Isma'il were raising the foundations of the House (the Ka'bah at Makkah), Saying, "Our Lord! Accept (this service) from us. Verily, You are the Hearer, the Knower.")
+
+What further testifies to this statement (which adds 'saying' to the Ayah) by Ubayy and Ibn Mas'ud, is what came afterwards,
+
+رَبَّنَا وَاجْعَلْنَا مُسْلِمَيْنِ لَكَ وَمِن ذُرِّيَّتِنَا أُمَّةً مُّسْلِمَةً لَّكَ
+
+(Our Lord! And make us submissive unto You and of our offspring a nation submissive unto You).
+
+The Prophets Ibrahim and Isma'il were performing a good deed, yet they asked Allah to accept this good deed from them. Ibn Abi Hatim narrated that Wuhayb bin Al-Ward recited,
+
+وَإِذْ يَرْفَعُ إِبْرَاهِيمُ الْقَوَاعِدَ مِنَ الْبَيْتِ وَإِسْمَاعِيلُ رَبَّنَا تَقَبَّلْ مِنَّا
+
+(And (remember) when Ibrahim and (his son) Isma'il were raising the foundations of the House (the Ka'bah at Makkah), (saying), "Our Lord! Accept (this service) from us") and cried and said, "O Khalil of Ar-Rahman! You raise the foundations of the House of Ar-Rahman (Allah), yet you are afraid that He will not accept it from you?" This is the behavior of the sincere believers, whom Allah described in His statement,
+
+وَالَّذِينَ يُؤْتُونَ مَا آتَوا
+
+(And those who give that which they give)(23:60) meaning, they give away voluntary charity, and perform the acts of worship yet,
+
+وَّقُلُوبُهُمْ وَجِلَةٌ
+
+(with their hearts full of fear)(23: 60) afraid that these good deeds might not be accepted of them. There is an authentic Hadith narrated by 'A'ishah on this subject, which we will mention later, Allah willing.
+
+Al-Bukhari recorded that Ibn 'Abbas said, "Prophet Ibrahim took Isma'il and his mother and went away with them until he reached the area of the House, where he left them next to a tree above Zamzam in the upper area of the Masjid. During that time, Isma'il's mother was still nursing him. Makkah was then uninhabited, and there was no water source in it. Ibrahim left them there with a bag containing some dates and a water-skin containing water. Ibrahim then started to leave, and Isma'il's mother followed him and said, 'O Ibrahim! To whom are you leaving us in this barren valley that is not inhabited?' She repeated the question several times and Ibrahim did not reply. She asked, 'Has Allah commanded you to do this?' He said, 'Yes.' She said, 'I am satisfied that Allah will never abandon us.' Ibrahim left, and when he was far enough away where they could not see him, close to Thaniyyah, he faced the House, raised his hands and supplicated,
+
+رَّبَّنَا إِنِّي أَسْكَنتُ مِن ذُرِّيَّتِي بِوَادٍ غَيْرِ ذِي زَرْعٍ عِندَ بَيْتِكَ الْمُحَرَّمِ
+
+(O our Lord! I have made some of my offspring to dwell in an uncultivable valley by Your Sacred House (the Ka'bah at Makkah)) until,
+
+يَشْكُرُونَ
+
+(Give thanks)(14:37). Isma'il's mother then returned to her place, started drinking water from the water-skin and nursing Isma'il. When the water was used up, she and her son became thirsty. She looked at him, and he was suffering from thirst; she left, because she disliked seeing his face in that condition. She found the nearest mountian to where she was, As-Safa, ascended it and looked, in vain, hoping to see somebody. When she came down to the valley, she raised her garment and ran, just as a tired person runs, until she reached the Al-Marwah mountain. In vain, she looked to see if there was someone there. She ran to and fro (between the two mountains) seven times." Ibn 'Abbas said that the Messenger of Allah ﷺ said, "This is why the people make the trip between As-Safa and Al-Marwah (during Hajj and Umrah)."
+
+"When she reached Al-Marwah, she heard a voice and said, 'Shush,' to herself. She tried to hear the voice again and when she did, she said, 'I have heard you. Do you have relief?' She found the angel digging with his heel (or his wing) where Zamzam now exists, and the water gushed out. Isma'il's mother was astonished and started digging, using her hand to transfer water to the water-skin." Ibn 'Abbas said that the Prophet ﷺ then said, "May Allah grant His mercy to the mother of Isma'il, had she left the water, (flow naturally without her intervention), it would have been flowing on the surface of the earth."
+
+"Isma'il's mother started drinking the water and her milk increased for her child. The angel (Gabriel) said to her, 'Do not fear abandonment. There shall be a House for Allah built here by this boy and his father. Allah does not abandon His people.' During that time, the area of the House was raised above ground level and the floods used to reach its right and left sides.
+
+Afterwards some people of the tribe of Jurhum, passing through Kada', made camp at the bottom of the valley. They saw some birds, they were astonished, and said, 'Birds can only be found at a place where there is water. We did not notice before that this valley had water.' They sent a scout or two who searched the area, found the water, and returned to inform them about it. Then they all went to Isma'il's mother, next to the water, and said, 'O Mother of Isma'il! Will you allow us to be with you (or dwell with you)?' She said, 'Yes. But you will have no exclusive right to the water here.' They said, 'We agree.'" Ibn 'Abbas said that the Prophet ﷺ said, "At that time, Isma'il's mother liked to have human company."
+
+"And thus they stayed there and sent for their relatives to join them. Later on, her boy reached the age of puberty and married a lady from them, for Isma'il learned Arabic from them, and they liked the way he was raised. Isma'il's mother died after that.
+
+Then an idea occurred to Abraham to visit his dependents. So he left (to Makkah). When he arrived, he did not find Isma'il, so he asked his wife about him. She said, 'He has gone out hunting.' When he asked her about their living conditions, she complained to him that they live in misery and poverty. Abraham said (to her), 'When your husband comes, convey my greeting and tell him to change the threshold of his gate.' When Isma'il came, he sensed that they had a visitor and asked his wife, 'Did we have a visitor?' She said, 'Yes. An old man came to visit us and asked me about you, and I told him where you were. He also asked about our condition, and I told him that we live in hardship and poverty.' Isma'il said, 'Did he ask you to do anything?' She said, 'Yes. He asked me to convey his greeting and that you should change the threshold of your gate.' Isma'il said to her, 'He was my father and you are the threshold, so go to your family (i.e. you are divorced).' So he divorced her and married another woman.
+
+Again Ibrahim thought of visiting his dependents whom he had left (at Makkah). Ibrahim came to Isma'il's house, but did not find Isma'il and asked his wife, 'Where is Isma'il?' Isma'il's wife replied, 'He has gone out hunting.' He asked her about their condition, and she said that they have a good life and praised Allah. Ibrahim asked, 'What is your food and what is your drink?' She replied, 'Our food is meat and our drink is water.' He said, 'O Allah! Bless their meat and their drink.'" The Prophet (Muhammad ﷺ) said, "They did not have crops then, otherwise Ibrahim would have invoked Allah to bless that too. Those who do not live in Makkah cannot bear eating a diet only containing meat and water."
+
+"Ibrahim said, 'When Isma'il comes back, convey my greeting to him and ask him to keep the threshold of his gate.' When Isma'il came back, he asked, 'Has anyone visited us.' She said, 'Yes. A good looking old man,' and she praised Ibrahim, 'And he asked me about our livelihood and I told him that we live in good conditions.' He asked, 'Did he ask you to convey any message?' She said, 'Yes. He conveyed his greeting to you and said that you should keep the threshold of your gate.' Isma'il said, 'That was my father, and you are the threshold; he commanded me to keep you.'
+
+Ibrahim then came back visiting and found Isma'il behind the Zamzam well, next to a tree, mending his arrows. When he saw Ibrahim, he stood up and they greeted each other, just as the father and son greet each other. Ibrahim said, 'O Isma'il, Your Lord has ordered me to do something.' He said, 'Obey your Lord.' He asked Isma'il, 'Will you help me?' He said, 'Yes, I will help you.' Ibrahim said, 'Allah has commanded me to build a house for Him there,' and he pointed to an area that was above ground level. So, both of them rose and started to raise the foundations of the House. Abraham started building (the Ka'bah), while Isma'il continued handing him the stones. Both of them were saying, 'O our Lord ! Accept (this service) from us, Verily, You are the Hearing, the Knowing.' (2.127) Hence, they were building the House, part by part, going around it and saying,
+
+رَبَّنَا تَقَبَّلْ مِنَّا إِنَّكَ أَنتَ السَّمِيعُ الْعَلِيمُ
+
+(Our Lord! Accept (this service) from us. Verily, You are the Hearer, the Knower.)
+
+The Story of rebuilding the House by Quraysh before the Messenger of Allah (ﷺ) was sent as Prophet
+
+In his Sīrah, Muhammad bin Ishaq bin Yasar said, "When the Messenger of Allah ﷺ reached thirty-five years of age, the Quraysh gathered to rebuild the Ka'bah, this included covering it with a roof. However, they were weary of demolishing it. During that time, the Ka'bah was barely above a man's shoulder, so they wanted to raise its height and build a ceiling on top. Some people had stolen the Ka'bah's treasure beforehand, which used to be in a well in the middle of the Ka'bah
+
+The treasure was later found with a man called, Duwayk, a freed servant of Bani Mulayh bin 'Amr, from the tribe of Khuza'ah. The Quraysh cut off his hand as punishment. Some people claimed that those who actually stole the treasure left it with Duwayk. Afterwards, the sea brought a ship that belonged to a Roman merchant to the shores of Jeddah, where it washed-up. So they collected the ship's wood to use it for the Ka'bah's ceiling; a Coptic carpenter in Makkah prepared what they needed for the job.
+
+When they decided to begin the demolition process to rebuild the House, Abu Wahb bin 'Amr bin 'A'idh bin 'Abd bin 'Imran bin Makhzum took a stone from the Ka'bah; the stone slipped from his hand and went back to where it had been. He said, 'O people of Quraysh! Do not spend on rebuilding the House, except from what was earned from pure sources. No money earned from a prostitute, usury or injustice should be included.'" Ibn Ishaq commented here that the people also attribute these words to Al-Walid bin Al-Mughirah bin 'Abdullah bin 'Amr bin Makhzum.
+
+Ibn Ishaq continued, "The Quraysh began to organize their efforts to rebuild the Ka'bah, each subtribe taking the responsibility of rebuilding a designated part of it.
+
+However, they were still weary about bringing down the Ka'bah. Al-Walid bin Al-Mughirah said, 'I will start to bring it down.' He held an ax and stood by the Ka'bah and said, 'O Allah! No harm is meant. O Allah! We only seek to do a good service.' He then started to chop the House's stones. The people waited that night and said, 'We will wait and see. If something strikes him, we will not bring it down and instead rebuid it the way it was. If nothing happens to him, then Allah will have agreed to what we are doing.' The next morning, Al-Walid went to work on the Ka'bah, and the people started bringing the Ka'bah down with him. When they reached the foundations that Ibrahim built, they uncovered green stones that were above each other, just like a pile of spears." Ibn Ishaq then said that some people told him, "A man from Quraysh, who was helping rebuild the Ka'bah, placed the shovel between two of these stones to pull them up; when one of the stones was moved, all of Makkah shook, so they did not dig up these stones."
+
+The Dispute regarding Who should place the Black Stone in Its Place
+
+Ibn Ishaq said, "The tribes of Quraysh collected stones to rebuild the House, each tribe collecting on their own. They started rebuilding it, until the rebuilding of the Ka'bah reached the point where the Black Stone was to be placed in its designated site. A dispute erupted between the various tribes of Quraysh, each seeking the honor of placing the Black Stone for their own tribe. The dispute almost led to violence between the leaders of Quraysh in the area of the Sacred House. Banu 'Abd Ad-Dar and Banu 'Adi bin Ka'b bin Lu'ay, gave their mutual pledge to fight until death. However, five or four days later, Abu Umayyah bin Al-Mughirah bin 'Abdullah bin 'Amr bin Makhzum, the oldest man from Quraysh then intervened at the right moment. Abu Umayyah suggested that Quraysh should appoint the first man to enter the House from its entrance to be a mediator between them. They agreed.
+
+The Messenger - Muhammad ﷺ - was the first person to enter the House. When the various leaders of Quraysh realized who the first one was, they all proclaimed, 'This is Al-Amin (the Honest one). We all accept him; This is Muhammad.' When the Prophet ﷺ reached the area where the leaders were gathering and they informed him about their dispute, he asked them to bring a garment and place it on the ground. He placed the Black Stone on it. He then requested that each of the leaders of Quraysh hold the garment from one side and all participate in lifting the Black Stone, moving it to its designated area. Next, the Prophet ﷺ carried the Black Stone by himself and placed it in its designated position and built around it. The Quraysh used to call the Messenger of Allah 'Al-Amin' even before the revelation came to him."
+
+Ibn Az-Zubayr rebuilds Al-Ka'bah the way the Prophet (ﷺ) wished
+
+Ibn Ishaq said, "During the time of the Prophet ﷺ, the Ka'bah was eighteen cubits high and was covered with Egyptian linen, and they with a striped garment. Al-Hajjaj bin Yusuf was the first person to cover it with silk." The Ka'bah remained the same way the Quraysh rebuilt it, until it was burned during the reign of 'Abdullah bin Az-Zubayr, after the year 6o H, at the end of the reign of Yazid bin Mu'awiyah. During that time, Ibn Az-Zubayr was besieged at Makkah. When it was burned, Ibn Az-Zubayr brought the Ka'bah down and built it upon the foundations of Ibrahim, including the Hijr in it. He also made an eastern door and a western door in the Ka'bah and placed them on ground level. He had heard his aunt 'A'ishah, the Mother of the believers, narrate that the Messenger of Allah ﷺ had wished that. The Ka'bah remained like this throughout his reign, until Al-Hajjaj killed Ibn Az-Zubayr and then rebuilt it the way it was before, by the order of 'Abdul-Malik bin Marwan.
+
+Muslim recorded that 'Ata' said, "The House was burnt during the reign of Yazid bin Mu'awiyah, when the people of Ash-Sham raided Makkah. Ibn Az-Zubayr did not touch the House until the people came for Hajj, for he wanted to incite them against the people of Ash-Sham. He said to them, 'O people! Advise me regarding the Ka'bah, should we bring it down and rebuild it, or just repair the damage it sustained' Ibn 'Abbas said, 'I have an opinion about this. You should rebuild the House the way it was when the people became Muslims. You should leave the stones that existed when the people became Muslims and when the Prophet ﷺ was sent. Ibn Az-Zubayr said, 'If the house of one of them gets burned, he will not be satisfied, until he rebuilds it. How about Allah's House? I will invoke my Lord for three days and will then implement what I decide.' When the three days had passed, he decided to bring the Ka'bah down. The people hesitated to bring it down, fearing that the first person to climb on the House would be struck down. A man went on top of the House and threw some stones down, and when the people saw that no harm touched him, they started doing the same. They brought the House down to ground level. Ibn Az-Zubayr surrounded the site with curtains hanging from pillars, so that the House would be covered, until the building was erect. Ibn Az-Zubayr then said, 'I heard 'A'ishah say that the Messenger of Allah ﷺ said,
+
+لَوْلَا أَنَّ النَّاسَ حَدِيثٌ عَهْدُهُمْ بِكُفْرٍ، وَلَيْسَ عِنْدِي مِنَ النَّفَقَةِ مَا يُقَوِّينِي عَلى بِنَائِهِ لَكُنْتُ أَدْخَلْتُ فِيهِ مِنَ الْحِجْرِ خَمْسَةَ أَذْرُعٍ، وَلَجَعَلْتُ لَهُ بَابًا يَدْخُلُ النَّاسُ مِنْهُ وَبَابًا يَخْرُجُونَ مِنْهُ
+
+(If it was not for the fact that the people have recently abandoned disbelief, and that I do not have enough money to spend on it, I would have included in the House five cubits from Al-Hijr and would have made a door for it that people could enter from, and another door that they could exit from.)
+
+Ibn Az-Zubayr said, 'I can spend on this job, and I do not fear the people.' So he added five cubits from the Hijr, which looked like a rear part for the House that people could clearly see. He then built the House and made it eighteen cubits high. He thought that the House was still short and added ten cubits in the front and built two doors in it, one as an entrance and another as an exit.
+
+When Ibn Az-Zubayr was killed, Al-Hajjaj wrote to 'Abdul-Malik bin Marwan asking him about the House and told him that Ibn Az-Zubayr made a rear section for the House. 'Abdul-Malik wrote back, 'We do not agree with Ibn Az-Zubayr's actions. As, for the Ka'bah's height, leave it as it is. As for what he added from the Hijr, bring it down, and build the House as it was before and close the door.' Therefore, Al-Hajjaj brought down the House and rebuilt it as it was." In his Sunan, An-Nasa'i collected the Hadith of the Prophet ﷺ narrated from 'A'ishah, not the whole story,
+
+The correct Sunnah conformed to Ibn Az-Zubayr's actions, because this was what the Prophet ﷺ wished he could do, but feared that the hearts of the people who recently became Muslim could not bear rebuilding the House. This Sunnah was not clear to 'Abdul-Malik bin Marwan. Hence, when 'Abdul-Malik realized that 'A'ishah had narrated the Hadith of the Messenger of Allah ﷺ on this subject, he said, "I wish we had left it as Ibn Az-Zubayr had made it." Muslim recorded that 'Ubadydullah bin 'Ubayd said that Al-Harith bin 'Abdullah came to 'Abdul-Malik bin Marwan during his reign. 'Abdul-Malik said, 'I did not think that Abu Khubayb (Ibn Az-Zubayr) heard from 'A'ishah what he said he heard from her.' Al-Harith said, 'Yes he did. I heard the Hadith from her.' 'Abdul-Malik said, 'You heard her say what?' He said, 'She said that the Messenger of Allah ﷺ said,
+
+إِنَّ قَوْمَكِ اسْتَقْصَرُوا مِنْ بُنْيَانِ الْبَيْتِ وَلَوْلَا حَدَاثَةُ عَهْدِهِمْ بِالشِّرْكِ أَعَدْتُ مَا تَرَكُوا مِنْهُ، فَإِنْ بَدَا لِقَوْمِكِ مِنْ بَعْدِي أَنْ يَبْنُوهُ فَهَلُمِّي لِأُرِيَكِ مَا تَرَكُوهُ مِنْهُ
+
+(Your people rebuilt the House smaller. Had it not been for the fact that your people are not far from the time of Shirk, I would add what was left outside of it. If your people afterwards think about rebuilding it, let me show you what they left out of it.) He showed her around seven cubits.'
+
+One of the narrators of the Hadith, Al-Walid bin 'Ata', added that the Prophet ﷺ said,
+
+وَلَجَعَلْتُ لَهَا بَابَيْنِ مَوْضُوعَيْنِ فِي الْأَرْضِ: شَرْقِيًّا وَغَرْبِيًّا، وَهَلْ تَدرِينَ لِمَ كَانَ قَومُكِ رَفَعُوا بَابَهَا؟
+
+قَالَتْ: قُلْتُ: لَا. قَالَ:
+
+تَعَزُّزًا أَنْ لَا يَدْخُلَهَا إِلَّا مَنْ أَرَادُوا، فَكَانَ الرَّجُلُ إِذَا هُوَ أَرَادَ أَنْ يَدْخُلَهَا يَدَعُونَهُ يَرْتَقِي حَتَّى إِذَا كَادَ أَنْ يَدْخُلَ دَفَعُوهُ فَسَقَطَ
+
+(I would have made two doors for the House on ground level, one eastern and one western. Do you know why your people raised its door above ground level?) She said, 'No.' He said, (To allow only those whom they wanted to enter it. When a man whom they did not wish to enter the House climbed to the level of the door, they would push him down)
+
+Abdul-Malik then said, 'You heard 'A'ishah say this Hadith' He said, 'Yes.' 'Abdul-Malik said, 'I wish I left it as it was."
+
+An Ethiopian will destroy the Ka'bah just before the Last Hour
+
+The Two Sahihs recorded that Abu Hurayrah said that the Messenger of Allah ﷺ said,
+
+يُخَرِّبُ الْكَعْبَةَ ذُو السُّوَيْقَتَيْنِ مِنَ الْحَبَشَةِ
+
+(The Ka'bah will be destroyed by Dhus-Sawiqatayn (literally, a person with two lean legs) from Ethiopia.)
+
+Also, Ibn 'Abbas said that the Prophet ﷺ said,
+
+كَأَنِّي بِهِ أَسْوَدَ أَفْحَجَ يَقْلَعُهَا حَجَرًا حَجَرًا
+
+(As if I see him now: a black person with thin legs plucking the stones of the Ka'bah one after another.) Al-Bukhari recorded this Hadith.
+
+Imam Ahmad bin Hanbal recorded in his Musnad that 'Abdullah bin 'Amr bin Al-'As said that he heard the Messenger of Allah ﷺ say,
+
+يُخَرِّبُ الْكَعْبَةَ ذُو السُّوَيْقَتَيْنِ مِنَ الْحَبَشَةِ وَيَسْلُبُهَا حِلْيَتَهَا وَيُجَرِّدُهَا مِنْ كِسْوَتِهَا، وَلَكَأَنِّي أَنْظُرُ إِلَيْهِ أُصَيْلِعَ وَ أُفَيْدِعَ يَضْرِبُ عَلَيْهَا بِمِسْحَاتِهِ وَمِعْوَلِهِ
+
+(Dhus-Sawiqatayn from Ethiopia will destroy the Ka'bah and will loot its adornments and cover. It is as if I see him now: bald, with thin legs striking the Ka'bah with his ax.)
+
+This will occur after the appearance of Gog and Magog people. Al-Bukhari recorded that Abu Sa'id Al-Khudri said that the Messenger of Allah ﷺ said,
+
+لَيُحَجَّنَّ الْبَيْتُ وَلَيُعْتَمَرَنَّ بَعْدَ خُرُوجِ يَأْجُوجَ وَمَأْجُوجَ
+
+(There will be Hajj and 'Umrah to the House after the appearance of Gog and Magog people.)
+
+Al-Khalil's Supplication
+
+Allah said that Ibrahim and Isma'il supplicated to Him,
+
+رَبَّنَا وَاجْعَلْنَا مُسْلِمَيْنِ لَكَ وَمِن ذُرِّيَّتِنَا أُمَّةً مُّسْلِمَةً لَّكَ وَأَرِنَا مَنَاسِكَنَا وَتُبْ عَلَيْنَا إِنَّكَ أَنتَ التَّوَّابُ الرَّحِيمُ
+
+(Our Lord! And make us submissive unto You and of our offspring a nation submissive unto You, and show us our Manasik, and accept our repentance. Truly, You are the One Who accepts repentance, the Most Merciful.)
+
+Ibn Jarir said, "They meant by their supplication, 'Make us submit to Your command and obedience and not associate anyone with You in obedience or worship."Also, 'Ikrimah commented on the Ayah,
+
+رَبَّنَا وَاجْعَلْنَا مُسْلِمَيْنِ لَكَ
+
+(Our Lord! And make us submissive unto You)
+
+"Allah said, 'I shall do that.'"
+
+وَمِن ذُرِّيَّتِنَآ أُمَّةً مُّسْلِمَةً لَّكَ
+
+(And of our offspring a nation submissive unto You)
+
+Allah said, 'I shall do that.'"
+
+This supplication by Ibrahim and Isma'il is similar to what Allah informed us of about His believing servants,
+
+وَالَّذِينَ يَقُولُونَ رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا
+
+(And those who say: 'Our Lord! Bestow on us from our wives and our offspring the comfort of our eyes, and make us leaders of the Muttaqin)(25:74).
+
+This type of supplication is allowed, because loving to have offspring who worship Allah alone without partners is a sign of complete love of Allah. This is why when Allah said to Ibrahim,
+
+إِنِّي جَاعِلُكَ لِلنَّاسِ إِمَامًا
+
+(Verily, I am going to make you an Imam (a leader) for mankind (to follow you)) Ibrahim said,
+
+وَمِن ذُرِّيَّتِي قَالَ لَا يَنَالُ عَهْدِي الظَّالِمِينَ
+
+("And of my offspring (to make leaders)." (Allah) said, "My covenant (prophethood) includes not the Zalimin (polytheists and wrongdoers)") which is explained by,
+
+وَاجْنُبْنِي وَبَنِيَّ أَن نَّعْبُدَ الْأَصْنَامَ
+
+(And keep me and my sons away from worshipping idols)(14:35)
+
+Muslim narrated in his Sahih that Abu Hurayrah said that the Messenger of Allah ﷺ said,
+
+إِذَا مَاتَ ابْنُ آدَمَ انْقَطَعَ عَمَلُهُ إِلَّا مِنْ ثَلَاثٍ: صَدَقَةٍ جَارِيَةٍ أَوْ عِلْمٍ يُنْتَفَعُ بِهِ أَوْ وَلَدٍ صَالِحٍ يَدْعُو لَهُ
+
+(When the son of Adam dies, his deeds end except for three deeds: an ongoing charity, a knowledge that is being benefited from and a righteous son who supplicates (to Allah) for him.)
+
+The Meaning of Manasik
+
+Sa'id bin Mansur said that 'Attab bin Bashir informed us from Khasif, from Mujahid who said, "The Prophet Ibrahim supplicated,
+
+وَأَرِنَا مَنَاسِكَنَا
+
+(and show us our Manasik)
+
+Jibril then came down, took him to the House and said, 'Raise its foundations.' Ibrahim raised the House's foundations and completed the building. Jibril held Ibrahim's hand, led him to As-Safa and said, 'This is among the rituals of Allah.' He then took him to Al-Marwah and said, 'And this is among the rituals of Allah.' He then took him to Mina until when they reached the 'Aqabah, they found Iblis standing next to a tree. Jibril said, 'Say Takbir (Allah is the Great) and throw (pebbles) at him.' Ibrahim said the Takbir and threw (pebbles at) Iblis. Iblis moved to the middle Jamrah, and when Jibril and Ibrahim passed by him, Jibril said to Ibrahim, 'Say Takbir and throw at him.' Ibrahim threw at him and said Takbir. The devious Iblis sought to add some evil acts to the rituals of Hajj, but he was unable to succeed. Jibril took Ibrahim's hand and led him to Al-Mash'ar Al-Haram and 'Arafat and said to him, 'Have you 'Arafta (known, learned) what I showed you?' thrice. Ibrahim said, 'Yes I did.'" Similar statements were reported from Abu Mijlaz and Qatadah.
 
 ### al-Tabari (Arabic)
 
@@ -322,9 +572,261 @@ Ibn Jarir said that Ubayy bin Ka'b commented on,
 
 * *
 
-ثم اختلف أهل التأويل في تأويل قوله:"واتخذوا من مقام إبراهيم مصلى"، وفي"مقام إبراهيم". فقال بعضهم:"مقام إبراهيم"، هو ا
+ثم اختلف أهل التأويل في تأويل قوله:"واتخذوا من مقام إبراهيم مصلى"، وفي"مقام إبراهيم". فقال بعضهم:"مقام إبراهيم"، هو الحج كله.
 
-[TRUNCATED at 12000 chars — 14174 more. Consult the source directly before relying on anything near the cut.]
+ذكر من قال ذلك:
+
+١٩٩٠- حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا ابن جريج، عن عطاء، عن ابن عباس في قوله:"مقام إبراهيم"، قال الحج كله مقام إبراهيم.
+
+١٩٩١- حدثني المثنى قال، حدثنا إسحاق قال، حدثنا سفيان بن عيينة، عن ابن أبي نجيح، عن مجاهد:"واتخذوا من مقام إبراهيم مصلى" قال، الحج كله.
+
+١٩٩٢- حدثنا أبو كريب قال، حدثنا وكيع، عن سفيان، عن ابن جريج، عن عطاء، قال: الحج كله"مقام إبراهيم".
+
+* *
+
+وقال آخرون:"مقام إبراهيم" عرفة والمزدلفة والجمار.
+
+ذكر من قال ذلك:
+
+١٩٩٣- حدثني محمد بن عمرو قال، حدثنا أبو عاصم قال، حدثنا عيسى، عن ابن أبي نجيح، عن عطاء بن أبي رياح:"واتخذوا من مقام إبراهيم مصلى" قال: لأني قد جعلته إماما، فمقامه عرفة والمزدلفة والجمار.
+
+١٩٩٤- حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا معمر، عن قتادة، عن ابن أبي نجيح، عن مجاهد في قوله:"واتخذوا من مقام إبراهيم مصلى" قال، مقامه: جمع وعرفة ومنى - لا أعلمه إلا وقد ذكر مكة.
+
+١٩٩٥- حدثنا عمرو بن علي قال، حدثنا أبو عاصم قال، حدثنا عيسى، عن ابن أبي نجيح، عن عطاء، عن ابن عباس في قوله:"واتخذوا من مقام إبراهيم مصلى" قال، مقامه، عرفة.
+
+١٩٩٦- حدثنا عمرو بن علي قال، حدثنا يزيد بن زريع قال، حدثنا داود، عن الشعبي قال: نزلت عليه وهو واقف بعرفة، مقام إبراهيم: ﴿الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ﴾ [سورة المائدة: ٣] ، الآية.
+
+١٩٩٧- حدثنا عمرو قال، حدثنا بشر بن المفضل قال، حدثنا داود، عن الشعبي مثله
+
+* *
+
+وقال آخرون:"مقام إبراهيم"، الحرم.
+
+ذكر من قال ذلك:
+
+١٩٩٨- حدثت عن حماد بن زيد، عن ابن أبي نجيح، عن مجاهد في قوله:"واتخذوا من مقام إبراهيم مصلى" قال، الحرم كله"مقام إبراهيم".
+
+* *
+
+وقال آخرون:"مقام إبراهيم" الحجر الذي قام عليه إبراهيم حين ارتفع بناؤه، وضعف عن رفع الحجارة.
+
+ذكر من قال ذلك:
+
+١٩٩٩- حدثنا سنان القزاز قال، حدثنا عبيد الله بن عبد المجيد الحنفي قال، حدثنا إبراهيم بن نافع قال، سمعت كثير بن كثير يحدّث، عن سعيد بن جبير، عن ابن عباس قال: جعل إبراهيم يبنيه، وإسماعيل يناوله الحجارة، ويقولان:"ربنا تقبل منا إنك أنت السميع العليم". فلما ارتفع البنيان، وضعف الشيخ عن رفع الحجارة، قام على حجر، فهو"مقام إبراهيم" [[الحديث: ١٩٩٩- هو قطعة من الحديث الآتي: ٢٠٥٦. وسنخرجه هناك، إن شاء الله. وشيخ الطبري هنا"ابن سنان القزاز": هو"محمد بن سنان"، مضت ترجمته في: ١٥٧. وفي المطبوعة"سنان" بحذف"ابن"، وهو خطأ.]]
+
+* *
+
+وقال آخرون: بل"مقام إبراهيم"، هو مقامه الذي هو في المسجد الحرام.
+
+ذكر من قال ذلك:
+
+٢٠٠٠- حدثنا بشر بن معاذ قال، حدثنا يزيد بن زريع قال، حدثنا سعيد، عن قتادة:"واتخذوا من مقام إبراهيم مصلى"، إنما أمروا أن يصلوا عنده، ولم يؤمروا بمسحه. ولقد تكلفت هذه الأمة شيئا ما تكلفته الأمم قبلها. [[في المطبوعة: "مما تكلفته"، والصواب من تفسير ابن كثير ١: ٣١١.]] ولقد ذكر لنا بعض من رأى أثر عقبه وأصابعه، فما زالت هذه الأمم يمسحونه حتى اخلولق وانمحى. [[في المطبوعة: "أصابعه فيها"، والصواب من تفسير ابن كثير. خلق الشيء وأخلق واخلولق: بلى.]]
+
+٢٠٠١- حدثت عن عمار قال، حدثنا ابن أبي جعفر، عن أبيه، عن الربيع:"واتخذوا من مقام إبراهيم مصلى"، فهم يصلون خلف المقام. [[الأثر: ٢٠٠١- هو الأثر السالف: ١٩٨٨، وانظر التعليق عليه.]]
+
+٢٠٠٢- حدثني موسى [[كان في المطبوعة"حدثني يونس"، وهو خطأ محض بل هو إسناده الدائر في التفسير - إلى السدي، وأقربه رقم: ١٩٨٠.]] قال، حدثنا عمرو قال، حدثنا أسباط، عن السدي:"واتخذوا من مقام إبراهيم مصلى"، وهو الصلاة عند مقامه في الحج.
+
+و"المقام" هو الحجر الذي كانت زوجة إسماعيل وضعته تحت قدم إبراهيم حين غسلت رأسه، فوضع إبراهيم رجله عليه وهو راكب، فغسلت شقه، ثم رفعته من تحته وقد غابت رجله في الحجر، فوضعته تحت الشق الآخر، فغسلته، فغابت رجله أيضا فيه، فجعلها الله من شعائره، فقال:"واتخذوا من مقام إبراهيم مصلى".
+
+* *
+
+قال أبو جعفر: وأولى هذه الأقوال بالصواب عندنا، ما قاله القائلون: إن"مقام إبراهيم"، هو المقام المعروف بهذا الاسم، الذي هو في المسجد الحرام، لما روينا آنفا عن عمر بن الخطاب، [[انظر ما سلف رقم: ١٩٨٥- ١٩٨٧.]] ولما:-
+
+٢٠٠٣- حدثنا يوسف بن سلمان قال، حدثنا حاتم بن إسماعيل قال، حدثنا جعفر بن محمد، عن أبيه، عن جابر قال: استلم رسول الله ﷺ الركن، فرمل ثلاثا، ومشى أربعا، ثم تقدم إلى مقام إبراهيم فقرأ:"واتخذوا من مقام إبراهيم مصلى". فجعل المقام بينه وبين البيت، فصلى ركعتين. [[الحديث: ٢٠٠٣- يوسف بن سلمان، شيخ الطبري: هو أبو عمر الباهلي البصري، ثقة، مترجم في التهذيب، وابن أبي حاتم ٤/٢/٢٢٣-٢٢٤. وفي المطبوعة"سليمان" بدل"سلمان"، وهو خطأ.
+
+حاتم بن إسماعيل المدني: ثقة مأمون كثير الحديث، أخرج له الجماعة. مترجم في التهذيب، والكبير للبخاري ٢/١/٧٢، وابن أبي حاتم ١/٢/٢٥٨-٢٥٩، وابن سعد ٥: ٣١٤.
+
+جعفر بن محمد: هو جعفر الصادق، بن محمد بن علي بن الحسين بن علي بن أبي طالب. وهو ثقة صادق مأمون، من سادات أهل البيت فقها وعلما وفضلا. وإنما يكذب عليه الشيعة الروافض. أما رواية الثقات عنه فصحيحة.
+
+وهذا الحديث قطعة من حديث جابر -الطويل- في صفة حجة الوداع. وقد مضت قطعة منه: ١٩٨٩، من رواية يحيى بن سعيد القطان، عن جعفر الصادق.
+
+وستأتي قطعة منه، بهذا الإسناد: ٢٣٦٥.
+
+والحديث بطوله -رواه الإمام أحمد في المسند: ١٤٤٩٢ (ج ٣ ص ٣٢٠-٣٢١ حلبي) عن يحيى القطان، عن جعفر.
+
+ورواه مسلم في صحيحه ١: ٣٤٦-٣٤٧، عن أبي بكر بن أبي شيبة وإسحاق بن راهويه -كلاهما عن حاتم بن إسماعيل، عن جعفر الصادق، به.]]
+
+* *
+
+فهذان الخبران ينبئان أن الله تعالى ذكره إنما عنى ب"مقام إبراهيم" الذي أمرنا الله باتخاذه مصلى - هو الذي وصفنا.
+
+ولو لم يكن على صحة ما اخترنا في تأويل ذلك خبر عن رسول الله ﷺ، لكان الواجب فيه من القول ما قلنا. وذلك أن الكلام محمول معناه على ظاهره المعروف، دون باطنه المجهول، [[انظر تفسير"الظاهر والباطن" فيما سلف ٢: ١٥، واطلبه في الفهارس.]] حتى يأتي ما يدل على خلاف ذلك، مما يجب التسليم له. ولا شك أن المعروف في الناس ب"مقام إبراهيم" هو المصلى الذي قال الله تعالى ذكره:"واتخذوا من مقام إبراهيم مصلى"
+
+* *
+
+[قال أبو جعفر: وأما قوله تعالى:"مصلى"] ، فإن أهل التأويل مختلفون في معناه. [[الزيادة بين القوسين لا بد منها.]] فقال بعضهم: هو المدعى.
+
+ذكر من قال ذلك:
+
+٢٠٠٤- حدثني المثنى قال، حدثنا إسحاق قال، حدثنا سفيان بن عيينة، عن ابن أبي نجيح، عن مجاهد:"واتخذوا من مقام إبراهيم مصلى" قال، مصلى إبراهيم مُدَّعًى.
+
+* *
+
+وقال آخرون: معنى ذلك: اتخذوا مصلى تصلون عنده.
+
+ذكر من قال ذلك:
+
+٢٠٠٥- حدثني بشر بن معاذ قال، حدثنا يزيد بن زريع قال، حدثنا سعيد، عن قتادة قال، أمروا أن يصلوا عنده.
+
+٢٠٠٦- حدثني موسى بن هارون قال، حدثنا عمرو بن حماد قال، حدثنا أسباط، عن السدي قال: هو الصلاة عنده.
+
+* *
+
+قال أبو جعفر: فكأن الذين قالوا: تأويل:"المصلى" ههنا، المُدَّعَى، وَجَّهوا "المصَلَّى" إلى أنه"مُفَعَّل"، من قول القائل:"صليت" بمعنى دعوت. [[انظر ما سلف ١: ٢٤٢-٢٤٣.]] .
+
+وقائلو هذه المقالة، هم الذين قالوا: إن مقام إبراهيم هو الحج كله.
+
+* *
+
+فكان معناه في تأويل هذه الآية: واتخذوا عرفة والمزدلفة والمشعر والجمار، وسائر أماكن الحج التي كان إبراهيم يقوم بها مَدَاعِيَ تدعوني عندها، وتأتمون بإبراهيم خليلي عليه السلام فيها، فإني قد جعلته لمن بعده -من أوليائي وأهل طاعتي- إماما يقتدون به وبآثاره، فاقتدوا به.
+
+* *
+
+وأما تأويل القائلين القول الآخر، فإنه: اتخذوا أيها الناس من مقام إبراهيم مصلى تصلون عنده، عبادةً منكم، وتكرمةً مني لإبراهيم.
+
+* *
+
+وهذا القول هو أولى بالصواب، لما ذكرنا من الخبر عن عمر بن الخطاب وجابر بن عبد الله، عن رسول الله ﷺ.
+
+* *
+
+القول في تأويل قوله تعالى: ﴿وَعَهِدْنَا إِلَى إِبْرَاهِيمَ وَإِسْمَاعِيلَ أَنْ طَهِّرَا بَيْتِيَ﴾
+
+قال أبو جعفر: يعني تعالى ذكره بقوله:"وَعهدنا"؛ وأمرنا، كما:-
+
+٢٠٠٧- حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن ابن جريج قال: قلت لعطاء: ما عهده؟ قال: أمره.
+
+٢٠٠٨- حدثني يونس قال، أخبرني ابن وهب قال، قال ابن زيد في قوله:"وعهدنا إلى إبراهيم" قال، أمرناه.
+
+* *
+
+فمعنى الآية: وأمرنا إبراهيم وإسماعيل بتطهير بيتي للطائفين."والتطهير" الذي أمرهما الله به في البيت، هو تطهيره من الأصنام، وعبادة الأوثان فيه، ومن الشرك بالله.
+
+* *
+
+فإن قال قائل: وما معنى قوله:"وعهدنا إلى إبراهيم وإسماعيل أن طهرا بيتي للطائفين"؟ وهل كان أيام إبراهيم -قبل بنائه البيت- بيت يطهر من الشرك وعبادة الأوثان في الحرم، فيجوز أن يكونا أمرا بتطهيره؟
+
+قيل: لذلك وجهان من التأويل، قد قال بكل واحد من الوجهين جماعة من أهل التأويل. [[في المطبوعة: "قد كان لكل واحد من الوجهين"، وهو كلام هالك.]]
+
+أحدهما: أن يكون معناه: وعهدنا إلى إبراهيم وإسماعيل أن ابنيا بيتي مطهرا من الشرك والرَّيْب [[الريب هنا: الشر والخوف من قولهم: رابني أمره، أي أدخل علي شرا وخوفا، وكأن ذلك مردود إلى قوله تعالى: "مثابة للناس وأمنا".]] كما قال تعالى ذكره: ﴿أَفَمَنْ أَسَّسَ بُنْيَانَهُ عَلَى تَقْوَى مِنَ اللَّهِ وَرِضْوَانٍ خَيْرٌ أَمْ مَنْ أَسَّسَ بُنْيَانَهُ عَلَى شَفَا جُرُفٍ هَارٍ﴾ ، [سورة التوبة: ١٠٩] ، فكذلك قوله:"وعهدنا إلى إبراهيم وإسماعيل أن طهرا بيتي"، أي ابنيا بيتي على طهر من الشرك بي والريب، كما:-
+
+٢٠٠٩- حدثني موسى بن هارون قال، حدثنا عمرو بن حماد قال، حدثنا أسباط، عن السدي:"وعهدنا إلى إبراهيم وإسماعيل أن طهرا بيتي"، يقول: ابنيا بيتي [للطائفين] . [[هذه الزيادة، من تفسير ابن كثير ١: ٣١٥.]]
+
+فهذا أحد وجهيه.
+
+والوجه الآخر منهما: أن يكونا أمرا بأن يطهرا مكان البيت قبل بنيانه، والبيت بعد بنيانه، مما كان أهل الشرك بالله يجعلونه فيه -على عهد نوح ومن قبله- من الأوثان، ليكون ذلك سنة لمن بعدهما، إذ كان الله تعالى ذكره قد جعل إبراهيم إماما يقتدي به من بعده، كما:-
+
+٢٠١٠- حدثني يونس قال، أخبرنا ابن وهب قال، قال ابن زيد في قوله: "أن طهرا" قال، من الأصنام التي يعبدون، التي كان المشركون يعظمونها. [[قال ابن كثير في تفسيره ١: ٣١٤-٣١٥، بعد أن ساق هذا الوجه، وهذا الأثر: "قلت: وهذا الجواب مفرع على أنه كان يعبد عنده أصنام قبل إبراهيم عليه السلام، ويحتاج إثبات هذا إلى دليل عن المعصوم محمد ﷺ".]]
+
+٢٠١١- حدثنا أحمد بن إسحاق قال، حدثنا أبو أحمد الزبيري قال، حدثنا سفيان، عن ابن أبي نجيح، عن عطاء، عن عبيد بن عمير:"أن طهرا بيتي للطائفين" قال، من الأوثان والرَّيْب.
+
+٢٠١٢- حدثني المثنى قال، حدثنا أبو نعيم قال، حدثنا سفيان، عن ابن جريج، عن عطاء، عن عبيد بن عمير، مثله.
+
+٢٠١٣- حدثني أحمد بن إسحاق قال، حدثنا أبو أحمد قال، حدثنا سفيان، عن ليث، عن مجاهد، قال: من الشرك.
+
+٢٠١٤- حدثنا أحمد بن إسحاق قال، حدثنا أبو أحمد قال، حدثنا أبو إسرائيل، عن أبي حصين، عن مجاهد:"طهرا بيتي للطائفين" قال، من الأوثان.
+
+٢٠١٥- حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا معمر، عن قتادة في قوله:"طهرا بيتي للطائفين" قال: من الشرك وعبادة الأوثان.
+
+٢٠١٦- حدثنا بشر بن معاذ قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة، بمثله - وزاد فيه: وقول الزور.
+
+* *
+
+القول في تأويل قوله تعالى: ﴿لِلطَّائِفِينَ﴾
+
+قال أبو جعفر: اختلف أهل التأويل في معنى"الطائفين" في هذا الموضع. فقال بعضهم: هم الغرباء الذين يأتون البيت الحرام من غَرْبةٍ. [[الغربة والغرب (بفتح فسكون) : النوى والبعد. يعني من أتاه من مكان بعيد.]]
+
+ذكر من قال ذلك:
+
+٢٠١٧- حدثنا أبو كريب قال، حدثنا أبو بكر بن عياش قال، حدثنا أبو حصين، عن سعيد بن جبير في قوله:"للطائفين" قال، من أتاه من غربة.
+
+* *
+
+وقال آخرون: بل"الطائفون" هم الذين يطوفون به، غرباء كانوا أو من أهله.
+
+ذكر من قال ذلك:
+
+٢٠١٨- حدثنا محمد بن العلاء قال، حدثنا وكيع، عن أبي بكر الهذلي، عن عطاء:"للطائفين" قال، إذا كان طائفا بالبيت فهو من"الطائفين".
+
+* *
+
+وأولى التأويلين بالآية ما قاله عطاء. لأن"الطائف" هو الذي يطوف بالشيء دون غيره. والطارئ من غَرْبةٍ لا يستحق اسم"طائف بالبيت"، إن لم يطف به.
+
+* *
+
+القول في تأويل قوله تعالى: ﴿وَالْعَاكِفِينَ﴾
+
+قال أبو جعفر: يعني تعالى ذكره بقوله:"والعاكفين"، والمقيمين به."والعاكف على الشيء"، هو المقيم عليه، كما قال نابغة بني ذبيان:
+
+عكوفا لدى أبياتهم يثمدونهم ... رمى الله في تلك الأكف الكوانع [[ديوانه: ٦٣ من أبيات قالها لزرعة بن عامر العامري. حين بعثت بنو عامر إلى حصن بن حذيفة وابنه عيينة بن حصن: أن اقطعوا حلف ما بينكم وبين بني أسد، وألحقوهم ببني كنانة، ونحالفكم ونحن بنو أبيكم. وكان عيينة هم بذلك، فقالت بنو ذبيان: أخرجوا من فيكم من الحلفاء، ونخرج من فينا! فأبوا، فقال النابغة: ليهن بني ذبيان أن بلادهم ... خلت لهم من كل مولى وتابع
+
+سوى أسد، يحمونها كل شارق ... بألفي كمي، ذي سلاح، ودارع
+
+ثم مدح بني أسد، وذم بني عبس، وتنقص بني سهم ومالك من غطفان وعبد بن سعد بن ذبيان، وهجاهم بهذا البيت الذي استشهد به الطبري، ورواية الديوان"قعودا"، و"يثمدونها"، والضمير للأبيات.
+
+وقوله: "يثمدونهم" أصله من قولهم: "ثمد الماء يثمده ثمدا"، نبث عنه التراب ليخرج. وماء مثمود: كثر عليه الناس حتى فني ونفد إلا أقله. وأخذوا منه: "رجل مثمود"، إذا ألح الناس عليه في السؤال، فأعطى حتى نفد ما عنده. يقول: يظل بنو سعد ومالك لدى أبيات عبد بن سعد يستنزفون أموالهم. يصفهم بالخسة وسقوط الهمة. ومن روى: "يثمدونها" وأعاد الضمير إلى"أبياتهم"، فهو مثله، في أنهم يلازمون بيوتهم ويسترزقونها، يهزأ بهم.
+
+والكوانع جمع كانع: وهو الخاضع الذي تدانى وتصاغر وتقارب بعضه من بعض، كأنه يتقبض من ذلته. يصفهم بالخسة والطمع والسؤال الذليل. وقوله: "رمى الله" يعني أصابها بما يستأصلها، ورواية الديوان: "في تلك الأنوف"، فمعناه: رمى فيها بالجدع، وهو دعاء عليهم، واشمئزاز من حقارتهم.]] وإنما قيل للمعتكف"معتكف"، من أجل مقامه في الموضع الذي حبس فيه نفسه لله تعالى.
+
+* *
+
+ثم اختلف أهل التأويل فيمن عنى الله بقوله:"والعاكفين".
+
+فقال بعضهم: عنى به الجالس في البيت الحرام بغير طواف ولا صلاة.
+
+ذكر من قال ذلك:
+
+٢٠١٩- حدثنا أبو كريب قال، حدثنا وكيع، عن أبي بكر الهذلي، عن عطاء قال: إذا كان طائفا بالبيت فهو من الطائفين، وإذا كان جالسا فهو من العاكفين.
+
+* *
+
+وقال بعضهم:"العاكفون"، هم المعتكفون المجاورون.
+
+ذكر من قال ذلك:
+
+٢٠٢٠- حدثنا أحمد بن إسحاق قال، حدثنا أبو أحمد الزبيري قال، حدثنا شريك، عن جابر، عن مجاهد وعكرمة:"طهرا بيتي للطائفين والعاكفين" قال، المجاورون.
+
+* *
+
+وقال بعضهم:"العاكفون"، هم أهل البلد الحرام.
+
+ذكر من قال ذلك:
+
+٢٠٢١- حدثنا أبو كريب قال، حدثنا أبو بكر بن عياش قال، حدثنا أبو حصين، عن سعيد بن جبير في قوله:"والعاكفين" قال: أهل البلد.
+
+٢٠٢٢- حدثنا بشر بن معاذ قال، حدثنا يزيد بن زريع قال، حدثنا سعيد، عن قتادة:"والعاكفين" قال: العاكفون: أهله.
+
+* *
+
+وقال آخرون:"العاكفون"، هم المصلون.
+
+ذكر من قال ذلك:
+
+٢٠٢٣- حدثنا القاسم قال، حدثنا الحسين، قال: حدثني حجاج، عن ابن جريج، قال: قال ابن عباس في قوله:"طهرا بيتي للطائفين والعاكفين" قال، العاكفون، المصلون.
+
+* *
+
+قال أبو جعفر: وأولى هذه التأويلات بالصواب ما قاله عطاء، وهو أن"العاكف" في هذا الموضع، المقيم في البيت مجاورا فيه بغير طواف ولا صلاة. لأن صفة"العكوف" ما وصفنا: من الإقامة بالمكان. والمقيم بالمكان قد يكون مقيما به وهو جالس ومصل وطائف وقائم، وعلى غير ذلك من الأحوال. فلما كان تعالى ذكره قد ذكر - في قوله:"أن طهرا بيتي للطائفين والعاكفين والركع السجود" - المصلين والطائفين، علم بذلك أن الحال التي عنى الله تعالى ذكره من"العاكف"، غير حال المصلي والطائف، وأن التي عنى من أحواله، هو العكوف بالبيت، على سبيل الجوار فيه، وإن لم يكن مصليا فيه ولا راكعا ولا ساجدا.
+
+* *
+
+القول في تأويل قوله تعالى: ﴿وَالرُّكَّعِ السُّجُودِ (١٢٥) ﴾
+
+قال أبو جعفر: يعني تعالى ذكره بقوله:"والركع"، جماعة القوم الراكعين فيه له، واحدهم"راكع". وكذلك"السجود" هم جماعة القوم الساجدين فيه له، واحدهم"ساجد" - كما يقال:"رجل قاعد ورجال قعود" و"رجل جالس ورجال جلوس"، فكذلك"رجل ساجد ورجال سجود". [[مما استظهرته من أمر هذا الجمع، جمع فاعل على فعول: أن كل فعل ثلاثي جاء مصدره على"فعول" بضم الفاء، فجمع"فاعل" منه على"فعول"، كهذه الأمثلة التي ذكرت هنا، وكل ما سواها مما قيدته كتب اللغة، ومما هو منثور في الشعر.]]
+
+* *
+
+وقيل: بل عنى"بالركع السجود"، المصلين.
+
+ذكر من قال ذلك:
+
+٢٠٢٤- حدثنا أبو كريب قال، حدثنا وكيع، عن أبي بكر الهذلي، عن عطاء:"والركع السجود" قال، إذا كان يصلي فهو من"الركع السجود".
+
+٢٠٢٥- حدثنا بشر بن معاذ قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة:"والركع السجود"، أهل الصلاة.
+
+* *
+
+وقد بينا فيما مضى بيان معنى"الركوع" و"السجود"، فأغنى ذلك عن إعادته هاهنا. [[انظر ما سلف ١: ٥٧٤-٥٧٥، ثم ٢: ١٠٣-١٠٥، ٥١٩.]]
 
 ### al-Muyassar (Arabic)
 
@@ -784,9 +1286,21 @@ Ali bin Abi Talhah reported that Ibn 'Abbas said, "The evil action of Shirk." Al
 
 ذكر من قال ذلك:
 
-⁕ حدثني هارون بن إدريس الأصمّ، قال: ثنا عبد الرحمن بن محمد المحاربي، عن أشعث، عن حبيب بن أبي ثابت في قوله: ﴿وَمَنْ يُرِدْ فِيهِ بِإِلْحَادٍ بِظُلْمٍ
+⁕ حدثني هارون بن إدريس الأصمّ، قال: ثنا عبد الرحمن بن محمد المحاربي، عن أشعث، عن حبيب بن أبي ثابت في قوله: ﴿وَمَنْ يُرِدْ فِيهِ بِإِلْحَادٍ بِظُلْمٍ نُذِقْهُ مِنْ عَذَابٍ أَلِيمٍ﴾ قال: هم المحتكرون الطعام بمكة.
 
-[TRUNCATED at 12000 chars — 1988 more. Consult the source directly before relying on anything near the cut.]
+وقال آخرون: بل ذلك كل ما كان منهيا عنه من الفعل، حتى قول القائل: لا والله، وبلى والله.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا ابن المثنى، قال: ثنا محمد بن جعفر، قال: ثنا شعبة، عن منصور، عن مجاهد، عن عبد الله بن عمرو، قال: كان له فسطاطان: أحدهما في الحلّ، والآخر في الحرم، فإذا أراد أن يعاتب أهله عاتبهم في الحلّ، فسئل عن ذلك، فقال: كنا نحدّث أن من الإلحاد فيه أن يقول الرجل: كلا والله، وبلى والله.
+
+⁕ حدثنا ابن حميد، قال: ثنا يعقوب، عن أبي ربعي، عن الأعمش، قال: كان عبد الله بن عمرو يقول: لا والله وبلى والله من الإلحاد فيه.
+
+قال أبو جعفر: وأولى الأقوال التي ذكرناها في تأويل ذلك بالصواب القول الذي ذكرناه عن ابن مسعود وابن عباس، من أنه معنيّ بالظلم في هذا الموضع كلّ معصية لله، وذلك أن الله عم بقوله ﴿وَمَنْ يُرِدْ فِيهِ بِإِلْحَادٍ بِظُلْمٍ﴾ ولم يخصص به ظلم دون ظلم في خبر ولا عقل، فهو على عمومه. فإذا كان ذلك كذلك، فتأويل الكلام: ومن يرد في المسجد الحرام بأن يميل بظلم، فيعصي الله فيه، نذقه يوم القيامة من عذاب موجع له. وقد ذُكر عن بعض القرّاء أنه كان يقرأ ذلك ﴿وَمَنْ يَرِدْ فِيه﴾ بفتح الياء بمعنى: ومن يرده بإلحاد من وَرَدْت المكان أرِدْه. وذلك قراءة لا تجوز القراءة عندي بها لخلافها ما عليه الحجة من القرّاء مجمعة مع بعدها من فصيح كلام العرب، وذلك أنَّ يَرِدْ فعل واقع، يقال منه: وهو يَرِد مكان كذا أو بلدة كذا، ولا يقال: يَرِد في مكان كذا. وقد زعم بعض أهل المعرفة بكلام العرب، أن طَيِّئا تقول: رغبت فيك، تريد: رغبت بك، وذكر أن بعضهم أنشده بيتا:
+
+وأرْغَبُ فِيها عَنْ لَقِيطٍ وَرَهْطِهِ ... وَلَكِنَّنِي عَنْ سِنْبِس لَسْتُ أرْغَبُ [[البيت سبق الاستشهاد به على مثل ما استشهد به المؤلف هنا، في (١٣: ١٨٩) وهو من شواهد الفراء في معاني القرآن، الورقة ١٦١، والورقة ٣١٠ من مصورة الجامعة (على أن من العرب من يجعل) (في) في موضع الباء، فيقول أدخلك الله بالجنة، يريد: في الجنة. قال الفراء في (ص ٣١٠) : وقد يجوز في لغة الطائيين: لأنهم يقولون: رغبت فيك، يريدون: رغبت بك. أنشدني بعضهم: " وأرغب فيها عن لقيط ". . . . البيت. يعني بنته. أه.]]
+
+بمعنى: وأرغب بها. فإن كان ذلك صحيحا كما ذكرنا، فإنه يجوز في الكلام، فأما القراءة به فغير جائزة لما وصفت.
 
 ### al-Muyassar (Arabic)
 
@@ -1320,9 +1834,217 @@ Imam Ahmad recorded that Ibn 'Abbas said that he rode the Prophet's camel while 
 
 ⁕ حدثنا محمد بن عمرو، قال: ثنا أَبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال ثنا الحسن، قال ثنا ورقاء جميعًا، عن ابن أَبي نجيح، عن مجاهد، قوله: ﴿لا تُخْرِجُوهُنَّ مِنْ بُيُوتِهِنَّ وَلا يَخْرُجْنَ إِلا أَنْ يَأْتِينَ بِفَاحِشَةٍ مُبَيِّنَةٍ﴾ قال: إلا أن يزنين.
 
-⁕ حدثنا يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد: وسألته عن قول الله عزّ وجلّ ﴿لا تُخْرِجُوهُنَّ مِنْ بُيُوتِهِنَّ وَلا يَخْرُجْنَ إِلا أَنْ يَأْتِينَ بِفَاحِشَةٍ مُبَيِّنَةٍ﴾ قال: قال الله جلّ ثناؤه ﴿وَاللاتِي يَأْتِينَ الْفَاحِشَةَ مِنْ نِسَائِكُمْ﴾ قال: هؤلاء المحصنات، ﴿فَاسْتَشْهِدُوا عَلَيْهِنَّ أَرْبَعَةً مِنْكُمْ﴾ . .. الآية. قال: فجعل الله سبيلهنّ الرجم، فهي لا ينبغي لها أن تخرج من بيتها إلا أن تأتي بفاحشة مبينة، فإذا أتت بفاحشة مبينة أخرجت إلى الحدّ فرجمت، وكان قبل هذا للمحصنة الحبس تحبس في البيوت لا تترك تنكح، وكان للبكرين الأذى قال الله جلّ ثناؤه: ﴿وَالَّلذَانِ يَأْتِيَانِهَا مِنْكُمْ فَآذُوهُمَا﴾ يا زان، يا زانية، ﴿فَإِنْ تَابَا وَأَصْلَحَا فَأَعْرِضُوا عَنْهُمَا إِن
+⁕ حدثنا يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد: وسألته عن قول الله عزّ وجلّ ﴿لا تُخْرِجُوهُنَّ مِنْ بُيُوتِهِنَّ وَلا يَخْرُجْنَ إِلا أَنْ يَأْتِينَ بِفَاحِشَةٍ مُبَيِّنَةٍ﴾ قال: قال الله جلّ ثناؤه ﴿وَاللاتِي يَأْتِينَ الْفَاحِشَةَ مِنْ نِسَائِكُمْ﴾ قال: هؤلاء المحصنات، ﴿فَاسْتَشْهِدُوا عَلَيْهِنَّ أَرْبَعَةً مِنْكُمْ﴾ . .. الآية. قال: فجعل الله سبيلهنّ الرجم، فهي لا ينبغي لها أن تخرج من بيتها إلا أن تأتي بفاحشة مبينة، فإذا أتت بفاحشة مبينة أخرجت إلى الحدّ فرجمت، وكان قبل هذا للمحصنة الحبس تحبس في البيوت لا تترك تنكح، وكان للبكرين الأذى قال الله جلّ ثناؤه: ﴿وَالَّلذَانِ يَأْتِيَانِهَا مِنْكُمْ فَآذُوهُمَا﴾ يا زان، يا زانية، ﴿فَإِنْ تَابَا وَأَصْلَحَا فَأَعْرِضُوا عَنْهُمَا إِنَّ اللَّهَ كَانَ تَوَّاباً رَحِيماً﴾ قال: ثم نُسخ هذا كله، فجعل الرجم للمحصنة والمحصن، وجعل جلد مئة للبِكْرَين، قال: ونسخ هذا.
 
-[TRUNCATED at 12000 chars — 14632 more. Consult the source directly before relying on anything near the cut.]
+وقال آخرون: الفاحشة التي عناها الله في هذا الموضع: البَذَاء على أحمائها.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا أَبو كريب، قال: ثنا ابن إدريس، قال: ثنا محمد بن عمرو، عن محمد بن إبراهيم، عن ابن عباس قال الله: ﴿لا تُخْرِجُوهُنَّ مِنْ بُيُوتِهِنَّ وَلا يَخْرُجْنَ إِلا أَنْ يَأْتِينَ بِفَاحِشَةٍ مُبَيِّنَةٍ﴾ قال: الفاحشة المبينة أن تبذُو على أهلها.
+
+وقال آخرون: بل هي كل معصية لله.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس ﴿إِلا أَنْ يَأْتِينَ بِفَاحِشَةٍ مُبَيِّنَةٍ﴾ والفاحشة: هي المعصية.
+
+وقال آخرون: بل ذلك نشوزها على زوجها، فيطلقها على النشوز، فيكون لها التحوّل حينئذ من بيتها.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿إِلا أَنْ يَأْتِينَ بِفَاحِشَةٍ مُبَيِّنَةٍ﴾ قال قتادة: إلا أن يطلقها على نشوز، فلها أن تحوّل من بيت زوجها.
+
+وقال آخرون: الفاحشة المبينة التي ذكر الله عزّ وجلّ في هذا الموضع خروجها من بيتها.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا محمد بن الحسين، قال: ثنا أحمد بن مفضل، قال: ثنا أسباط، عن السديّ، في قوله: ﴿وَلا يَخْرُجْنَ إِلا أَنْ يَأْتِينَ بِفَاحِشَةٍ مُبَيِّنَةٍ﴾ قال: خروجها من بيتها فاحشة. قال بعضهم: خروجها إذا أتت بفاحشة أن تخرج فيقام عليها الحدّ.
+
+⁕ حدثني ابن عبد الرحيم البرقيّ، قال: ثنا سعيد بن الحكم بن أبي مريم، قال: أخبرنا يحيى بن أيوب قال: ثني محمد بن عجلان، عن نافع، عن عبد الله بن عمر، في قوله: ﴿لا تُخْرِجُوهُنَّ مِنْ بُيُوتِهِنَّ وَلا يَخْرُجْنَ إِلا أَنْ يَأْتِينَ بِفَاحِشَةٍ مُبَيِّنَةٍ﴾ قال: خروجها قبل انقضاء العدة فاحشة.
+
+والصواب من القول في ذلك عندي قول من قال: عنى بالفاحشة في هذا الموضع: المعصية، وذلك أن الفاحشة هي كلّ أمر قبيح تعدّى فيه حدّه، فالزنى من ذلك، والسرق والبذاء على الأحماء، وخروجها متحوّلة عن منزلها الذي يلزمها أن تعتدّ فيه منه، فأي ذلك فعلت وهي في عدتها، فلزوجها إخراجها من بيتها ذلك، لإتيانها بالفاحشة التي ركبتها.
+
+* *
+
+وقوله: ﴿وَتِلْكَ حُدُودُ اللَّهِ﴾
+
+يقول تعالى ذكره: وهذه الأمور التي بينتها لكم من الطلاق للعدّة، وإحصاء العدّة، والأمر باتقاء الله، وأن لا تخرج المطلقة من بيتها، إلا أن تأتي بفاحشة مبينة حدود الله التي حدّها لكم أيها الناس فلا تعتدوها ﴿وَمَنْ يَتَعَدَّ حُدُودَ اللَّهِ فَقَدْ ظَلَمَ نَفْسَهُ﴾ يقول تعالى ذكره: ومن يتجاوز حدود الله التي حدّها لخلقه فقد ظلم نفسه: يقول: فقد أكسب نفسه وزرًا، فصار بذلك لها ظالما، وعليها متعدّيا.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا عليّ بن عبد الأعلى، قال: ثنا عبد الرحمن بن محمد المحاربيّ، عن جويبر، عن الضحاك في قول الله ﴿وَتِلْكَ حُدُودُ اللَّهِ﴾ يقول: تلك طاعة الله فلا تعتدوها، قال: يقول: من كان على غير هذه فقد ظلم نفسه.
+
+* *
+
+وقوله: ﴿لا تَدْرِي لَعَلَّ اللَّهَ يُحْدِثُ بَعْدَ ذَلِكَ أَمْرًا﴾
+
+يقول جلّ ثناؤه: لا تدري ما الذي يحدث؟ لعل الله يحدث بعد طلاقكم إياهنّ رجعة.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن الزهريّ، أن فاطمة بنت قيس كانت تحت أَبي حفص المخزومي، وكان النبيّ ﷺ أمَّر عليًا على بعض اليمن، فخرج معه، فبعث إليها بتطليقة كانت لها، وأمر عياش بن أبي ربيعة المخزومي، والحارث بن هشام أن ينفقا عليها، فقالا لا والله ما لها علينا نفقة، إلا أن تكون حاملا فأتت النبي ﷺ فذكرت ذلك له، فلم يجعل لها نفقة إلا أن تكون حاملا واستأذنته في الانتقال، فقالت: أين انتقل يا رسول الله؟ قال: "عِنْدَ ابْنِ أُمّ مَكْتُومٍ"، وكان أعمى، تضع ثيابها عنده، ولا يبصرها؛ فلم تزل هنالك حتى أنكحها النبيّ ﷺ أُسامة بن زيد حين مضت عدتها، فأرسل إليها مروان بن الحكم يسألها عن هذا الحديث، فأخبرته، فقال مروان: لم نسمع هذا الحديث إلا من امرأة، وسنأخذ بالعصمة التي وجدنا الناس عليها، فقالت فاطمة: بيني وبينكم الكتاب، قال الله جلّ ثناؤه: ﴿فَطَلِّقُوهُنَّ لِعِدَّتِهِنَّ﴾ حتى بلغ (لَعَلَّ اللَّهَ يُحْدِثُ بَعْدَ ذَلِكَ أَمْرًا) قالت: فأي أمر يحدث بعد الثلاث، وإنما هو في مراجعة الرجل امرأته، وكيف تحبس امرأة بغير نفقة؟
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة، في قوله: ﴿لَعَلَّ اللَّهَ يُحْدِثُ بَعْدَ ذَلِكَ أَمْرًا﴾ قال: هذا في مراجعة الرجل امرأته.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿لا تَدْرِي لَعَلَّ اللَّهَ يُحْدِثُ بَعْدَ ذَلِكَ أَمْرًا﴾ : أي مراجعة.
+
+⁕ حدثنا ابن بشار، قال: ثنا عبد الأعلى، قال: ثنا سعيد، عن قتادة ﴿لا تَدْرِي لَعَلَّ اللَّهَ يُحْدِثُ بَعْدَ ذَلِكَ أَمْرًا﴾ قال: يراجعها في بيتها هذا في الواحدة والثنتين، هو أبعد من الزنى.
+
+قال سعيد، وقال الحسن: هذا في الواحدة والثنتين، وما يحدث الله بعد الثلاث.
+
+⁕ حدثنا يعقوب، قال: ثنا ابن علية، قال: أخبرنا أيوب، قال: سمعت الحسن وعكرمة يقولان: المطلقة ثلاثًا، والمتوفى عنها لا سكنى لها ولا نفقة؛ قال: فقال عكرمة ﴿لَعَلَّ اللَّهَ يُحْدِثُ بَعْدَ ذَلِكَ أَمْرًا﴾ فقال: ما يحدث بعد الثلاث.
+
+⁕ حدثنا عليّ بن عبد الأعلى المحاربيّ، قال: ثنا عبد الرحمن بن محمد المحاربي، عن جويبر، عن الضحاك في قوله: ﴿لَعَلَّ اللَّهَ يُحْدِثُ بَعْدَ ذَلِكَ أَمْرًا﴾ يقول: لعلّ الرجل يراجعها في عدتها.
+
+⁕ حُدثت عن الحسين، قال: سمعت أبا معاذ يقول: ثنا عبيد، قال: سمعت الضحاك يقول في قوله: ﴿لا تَدْرِي لَعَلَّ اللَّهَ يُحْدِثُ بَعْدَ ذَلِكَ أَمْرًا﴾ هذا ما كان له عليها رجعة.
+
+⁕ حدثنا أحمد، قال: ثنا أسباط، عن السديّ (لا تَدْرِي لَعَلَّ اللَّهَ يُحْدِثُ بَعْدَ ذَلِكَ أَمْرًا) قال: الرجعة.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال، قال ابن زيد، في قوله: ﴿لَعَلَّ اللَّهَ يُحْدِثُ بَعْدَ ذَلِكَ أَمْرًا﴾ قال: لعلّ الله يحدث في قلبك تراجع زوجتك؛ قال: قال: ومن طلق للعدّة جعل الله له في ذلك فسحة، وجعل له ملكًا إن أراد أن يرتجع قبل أن تنقضي العدّة ارتجع.
+
+⁕ حدثنا ابن حميد، قال: ثنا مهران، عن سفيان ﴿لَعَلَّ اللَّهَ يُحْدِثُ بَعْدَ ذَلِكَ أَمْرًا﴾ قال: لعله يراجعها.
+
+* *
+
+وقوله: ﴿فَإِذَا بَلَغْنَ أَجَلَهُنَّ﴾
+
+يقول تعالى ذكره: فإذا بلغ المطلقات اللواتي هنّ في عدة أجلهنّ وذلك حين قرب انقضاء عددهنّ ﴿فَأَمْسِكُوهُنَّ بِمَعْرُوفٍ﴾ يقول: فأمسكوهنّ برجعة تراجعوهن، إن أردتم ذلك بمَعْرُوف، يقول: بما أمرك الله به من الإمساك وذلك بإعطائها الحقوق التي أوجبها الله عليه لها من النفقة والكسوة والمسكن وحُسن الصحبة، أو فارقوهنّ بمعروف، أو اتركوهنّ حتى تنقضي عددهنّ، فتبين منكم بمعروف، يعني بإيفائها ما لها من حق قبله من الصداق والمتعة على ما أوجب عليه لها.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني عليّ بن عبد الأعلى، قال: ثني المحاربي بن عبد الرحمن بن محمد، عن جويبر، عن الضحاك، قوله: ﴿فَإِذَا بَلَغْنَ أَجَلَهُنَّ﴾ يقول: إذا انقضت عدتها قبل أن تغتسل من الحيضة الثالثة، أو ثلاثة أشهر إن لم تكن تحيض، يقول: فراجع إن كنت تريد المراجعة قبل أن تنقضي العدّة بإمساك بمعروف، والمعروف أن تحسن صحبتها ﴿أَوْ تَسْرِيحٌ بِإِحْسَانٍ﴾ والتسريح بإحسان: أن يدعها حتى تمضي عدتها، ويعطيها مهرًا إن كان لها عليه إذا طلقها، فذلك التسريح بإحسان، والمُتعة على قدر الميسرة.
+
+⁕ حدثنا محمد، قال: ثنا أحمد، قال: ثنا أسباط، عن السديّ، في قوله: ﴿فَإِذَا بَلَغْنَ أَجَلَهُنَّ﴾ قال: إذا طلقها واحدة أو ثنتين، يشاء [[كذا في الأصل. ولعل أصل العبارة: فله بعد ذلك ما يشاء ... إلخ]] أن يمسكها بمعروف، أو يسرّحها بإحسان.
+
+* *
+
+وقوله: ﴿وَأَشْهِدُوا ذَوَيْ عَدْلٍ مِنْكُمْ﴾
+
+وأشهدوا على الإمساك إن أمسكتموهنّ، وذلك هو الرجعة ذوي عدل منكم، وهما اللذان يرضى دينهما وأمانتهما.
+
+وقد بينا فيما مضى قبل معنى العدل بما أغنى عن إعادته في هذا الموضع، وذكرنا ما قال أهل العلم فيه.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني عليّ، قال: ثنا أَبو صالح، قال: ثني معاوية، عن عليّ، عن ابن عباس، قال: إن أراد مراجعتها قبل أن تنقضي عدتها، أشهد رجلين كما قال الله ﴿وَأَشْهِدُوا ذَوَيْ عَدْلٍ مِنْكُمْ﴾ عند الطلاق وعند المراجعة، فإن راجعها فهي عنده على تطليقتين، وإن لم يراجعها فإذا انقضت عدتها فقد بانت منه بواحدة، وهي أملك بنفسها، ثم تتزوّج من شاءت، هو أو غيره.
+
+⁕ حدثنا أحمد، قال: ثنا أسباط، عن السديّ، في قوله: ﴿وَأَشْهِدُوا ذَوَيْ عَدْلٍ مِنْكُمْ﴾ قال: على الطلاق والرجعة.
+
+* *
+
+وقوله: ﴿وَأَقِيمُوا الشَّهَادَةَ لِلَّهِ﴾
+
+يقول: وأشهدوا على الحقّ إذا استشهدتم، وأدوها على صحة إذا أنتم دُعيتم إلى أدائها.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا محمد، قال: ثنا أحمد، قال: ثنا أسباط، عن السديّ، في قوله: ﴿وَأَقِيمُوا الشَّهَادَةَ لِلَّهِ﴾ قال: أشهدوا على الحقّ.
+
+* *
+
+وقوله: ﴿ذَلِكُمْ يُوعَظُ بِهِ مَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الآخِرِ﴾
+
+يقول تعالى ذكره: هذا الذي أمرتكم به، وعرَّفتكم من أمر الطلاق، والواجب لبعضكم على بعض عند الفراق والإمساك عظة منا لكم، نعظ به من كان يؤمن بالله واليوم الآخر، فيصدّق به.
+
+وعُنِي بقوله: ﴿مَنْ كَانَ يُؤْمِنُ بِاللَّهِ﴾ من كانت صفته الإيمان بالله، كالذي:-
+
+⁕ حدثنا محمد، قال: ثنا أحمد، قال: ثنا أسباط عن السديّ، ﴿مَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الآخِرِ﴾ قالَ: يؤمن به.
+
+* *
+
+وقوله: ﴿وَمَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مَخْرَجًا﴾
+
+يقول تعالى ذكره: من يخف الله فيعمل بما أمره به، ويجتنب ما نهاه عنه، يجعل له من أمره مخرجًا بأن يعرّفه بأن ما قضى فلا بدّ من أن يكون، وذلك أن المطلق إذا طلَّق، كما ندبه الله إليه للعدّة، ولم يراجعها في عدتها حتى انقضت ثم تتبعها نفسه، جعل الله له مخرجًا فيما تتبعها نفسه. بأن جعل له السبيل إلى خطبتها ونكاحها، ولو طلقها ثلاثًا لم يكن له إلى ذلك سبيل.
+
+* *
+
+وقوله: ﴿وَيَرْزُقْهُ مِنْ حَيْثُ لا يَحْتَسِبُ﴾
+
+يقول: ويسبب له أسباب الرزق من حيث لا يشعر، ولا يعلم.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل، وذكر بعضهم أن هده الآية نزلت بسبب عوف بن مالك الأشجعيّ.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا أَبو كُرَيب، قال: ثنا ابن صَلْت، عن قيس، عن الأعمش، عن أبي الضحى، عن مسروق عن عبد الله، في قوله: ﴿وَمَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مَخْرَجًا﴾ قال: يعلم أنه من عند الله، وأن الله هو الذي يعطي ويمنع.
+
+⁕ حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفيان، عن الأعمش، عن أَبي الضحى، عن مسروق ﴿وَمَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مَخْرَجًا﴾ قال: المخرج أن يعلم أن الله تبارك وتعالى لو شاء أعطاه وإن شاء منعه، ﴿وَيَرْزُقْهُ مِنْ حَيْثُ لا يَحْتَسِبُ﴾ قال: من حيث لا يدري.
+
+⁕ حدثني أَبو السائب، قال: ثنا أَبو معاوية، عن الأعمش، عن أَبي الضحى، عن مسروق، مثله.
+
+⁕ حدثني عليّ، قال: ثنا أَبو صالح، قال: ثني معاوية، عن عليّ، عن ابن عباس، قوله: ﴿وَمَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مَخْرَجًا﴾ يقول: نجاته من كل كرب في الدنيا والآخرة، ﴿وَيَرْزُقْهُ مِنْ حَيْثُ لا يَحْتَسِبُ﴾ .
+
+⁕ حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفيان، عن الربيع بن المنذر، عن أبيه، عن الربيع بن خثيم ﴿وَمَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مَخْرَجًا﴾ قال: من كلّ شيء ضاق على الناس.
+
+⁕ حدثنا ابن حميد، قال: ثنا يحيى بن واضح، قال: ثنا الحسين، عن يزيد، عن عكرمة ﴿وَمَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مَخْرَجًا﴾ قال: من طلق كما أمره الله يجعل له مخرجًا.
+
+⁕ حدثني عليّ بن عبد الأعلى المحاربيّ، قال: ثنا عبد الرحمن بن محمد المحاربيّ، عن جويبر، عن الضحاك في قوله: ﴿وَمَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مَخْرَجًا﴾ ومن يتق الله يجعل له من أمره يُسرًا، قال: يعني بالمخرج واليُسر إذا طلق واحدة ثم سكت عنها، فإن شاء راجعها بشهادة رجلين عدلين، فذلك اليُسر الذي قال الله، وإن مضت عدتها ولم يراجعها، كان خاطبًا من الخطاب، وهذا الذي أمر الله به، وهكذا طلاق السنة فأما من طلق عند كلّ حيضة فقد أخطأ السنة، وعصى الربّ، وأخذ بالعسر.
+
+⁕ حدثنا محمد، قال: ثنا أحمد، قال: ثنا أسباط، عن السديّ، في قوله: ﴿وَمَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مَخْرَجًا﴾ قال: يطلق للسُّنة، ويراجع للسُّنة؛ زعم أن رجلا من أصحاب النبيّ ﷺ يقال له عوف الأشجعيّ، كان له ابن، وأن المشركين أسروه، فكان فيهم، فكان أبوه يأتي النبيّ ﷺ، فيشكوا إليه مكان ابنه، وحالته التي هو بها وحاجته، فكان رسول الله ﷺ يأمره بالصبر ويقول له: إن الله سيجعل له مخرجا، فلم يلبث بعد ذلك إلا يسيرًا إذا انفلت ابنه من أيدي العدوّ، فمرّ بغنم من أغنام العدوّ فاستاقها، فجاء بها إلى أبيه، وجاء معه بغنًى قد أصابه من الغنم، فنزلت هذه الآية: ﴿وَمَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مَخْرَجًا وَيَرْزُقْهُ مِنْ حَيْثُ لا يَحْتَسِبُ﴾ .
+
+⁕ حدثنا ابن حميد، قال: ثنا مهران، عن سفيان، عن عمار بن أبي معاوية الدهنّي، عن سالم بن أبي الجعد ﴿وَمَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مَخْرَجًا﴾ قال: نزلت في رجل من أشجع جاء إلى النبيّ ﷺ وهو مجهود، فسأله فقال له النبيّ ﷺ: "اتَّقِ اللهَ وَاصْبِرْ"، قال: قد فعلت، فأتى قومه، فقالوا: ماذا قال لك؟ قال: قال: "اتق الله واصبر"، فقلت: قد فعلت حتى قال ذلك ثلاثًا، فرجع فإذا هو بابنه كان أسيرًا في بني فلان من العرب، فجاء معه بأعنز فرجع إلى النبي ﷺ، فقال: إن ابني كان أسيرًا في بني فلان، وإنه جاء بأعنز فطابت لنا؟ قال: "نعم".
+
+⁕ قال: ثنا حكام، قال: ثنا عمرو، عن عمار الدهنّي، عن سالم بن أَبي الجعد في قوله: ﴿وَمَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مَخْرَجًا﴾ قال: نزلت في رجل من أشجع أصابه الجهد، فأتى النبيّ ﷺ فقال له: "اتَّقِ اللهَ وَاصْبِرْ"، فرجع فوجد ابنًا له كان أسيرًا، قد فكه الله من أيديهم، وأصاب أعنزا، فجاء، فذكر ذلك لرسول الله ﷺ، فقال: هل تطيبُ لي يا رسول الله؟ قال: "نَعَم".
+
+⁕ قال: ثنا مهران، عن سفيان، عن ابن المنذر الثوريّ، عن أبيه، عن الربيع بن خثيم ﴿يَجْعَلْ لَهُ مَخْرَجًا﴾ قال: من كلّ شيء ضاق على الناس.
+
+⁕ قال: ثنا مهران، عن سفيان، عن الأعمش، عن أَبي الضحى، عن مسروق ﴿يَجْعَلْ لَهُ مَخْرَجًا﴾ قال: يعلم أن الله إن شاء منعه، وإن شاء أعطاه ﴿وَيَرْزُقْهُ مِنْ حَيْثُ لا يَحْتَسِبُ﴾ يقول: من حيث لا يدري.
+
+⁕ قال: ثنا مهران، عن سعيد بن أَبي عَروبة، عن قتادة ﴿يَجْعَلْ لَهُ مَخْرَجًا﴾ قال: من شُبُهَات الأمور، والكرب عند الموت ﴿وَيَرْزُقْهُ مِنْ حَيْثُ لا يَحْتَسِبُ﴾ : من حيث لا يرجو ولا يؤمل.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿وَيَرْزُقْهُ مِنْ حَيْثُ لا يَحْتَسِبُ﴾ لا يأمل ولا يرجو.
+
+* *
+
+وقوله: ﴿وَمَنْ يَتَوَكَّلْ عَلَى اللَّهِ فَهُوَ حَسْبُهُ﴾
+
+يقول تعالى ذكره: ومن يتق الله في أموره، ويفوّضها إليه فهو كافيه.
+
+* *
+
+وقوله: ﴿إِنَّ اللَّهَ بَالِغُ أَمْرِهِ﴾
+
+منقطع عن قوله: ﴿وَمَنْ يَتَوَكَّلْ عَلَى اللَّهِ فَهُوَ حَسْبُهُ﴾ . ومعنى ذلك: إن الله بالغ أمره بكل حال توكل عليه العبد أو لم يتوكل عليه.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفيان، عن الأعمش، عن أَبي الضحى، عن مسروق ﴿وَمَنْ يَتَوَكَّلْ عَلَى اللَّهِ فَهُوَ حَسْبُهُ إِنَّ اللَّهَ بَالِغُ أَمْرِهِ﴾ توكل عليه أو لم يتوكل عليه، غير أن المتوكل يُكَفِّرْ عنه سيئاته، ويُعظِم له أجرًا.
+
+⁕ حدثنا أَبو السائب، قال: ثنا أَبو معاوية، عن الأعمش، عن أَبي الضحى، عن مسروق بنحوه.
+
+⁕ حدثنا أَبو كريب، قال: ثنا ابن صلت عن قيس، عن الأعمش، عن أبي الضحى، عن مسروق، عن عبد الله ﴿وَمَنْ يَتَوَكَّلْ عَلَى اللَّهِ فَهُوَ حَسْبُهُ﴾ قال: ليس بمتوكل الذي قد قُضيت حاجته، وجعل فضل من توكل عليه على من لم يتوكل أن يكفرَ عنه سيئاته، ويُعظم له أجرًا.
+
+⁕ قال: ثنا جرير، عن منصور، عن الشعبيّ، قال: تجالس شُتير بن شكل ومسروق، فقال شُتير: إما أن تحدّث ما سمعت من ابن مسعود فأصدّقك، وإما أن أحدث فتصدّقني؟ قال مسروق: لا بل حدّث فأصدّقك، فقال: سمعت ابن مسعود يقول: إن أكبر آية في القرآن تفوّضًا [[كذا في الأصل، ولم أجد في المعاجم هذا المصدر ولا فعله، ولعله محرف عن "التفويض"، وهو رد الأمر كله إلى الله، وهو المفهوم من معنى حديث ابن مسعود هذا.]] : ﴿وَمَنْ يَتَوَكَّلْ عَلَى اللَّهِ فَهُوَ حَسْبُهُ﴾ قال مسروق: صدقت.
+
+* *
+
+وقوله: ﴿قَدْ جَعَلَ اللَّهُ لِكُلِّ شَيْءٍ قَدْرًا﴾
+
+يقول تعالى ذكره: قد جعل الله لكلّ شيء من الطلاق والعدّة وغير ذلك حدًا وأجلا وقدرًا يُنتهى إليه.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني أَبو السائب، قال: ثنا أَبو معاوية، عن الأعمش، عن أَبي الضحى، عن مسروق ﴿قَدْ جَعَلَ اللَّهُ لِكُلِّ شَيْءٍ قَدْرًا﴾ قال: أجلا.
+
+⁕ حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفيان، عن الأعمش، عن أبي الضحى، عن مسروق ﴿قَدْ جَعَلَ اللَّهُ لِكُلِّ شَيْءٍ قَدْرًا﴾ قال: منتهى.
+
+⁕ حدثنا ابن حميد، قال: ثنا مهران، عن سفيان، عن الأعمش، عن أَبي الضحى، عن مسروق مثله.
+
+⁕ حدثنا محمد، قال: ثنا أحمد، قال: ثنا أسباط، عن السديّ، في قوله: ﴿قَدْ جَعَلَ اللَّهُ لِكُلِّ شَيْءٍ قَدْرًا﴾ قال: الحيض في الأجل والعدّة.
 
 ### al-Muyassar (Arabic)
 
@@ -1546,9 +2268,217 @@ Imam Ahmad recorded that Ibn 'Abbas said that he rode the Prophet's camel while 
 
 ⁕ حدثنا محمد بن عمرو، قال: ثنا أَبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال ثنا الحسن، قال ثنا ورقاء جميعًا، عن ابن أَبي نجيح، عن مجاهد، قوله: ﴿لا تُخْرِجُوهُنَّ مِنْ بُيُوتِهِنَّ وَلا يَخْرُجْنَ إِلا أَنْ يَأْتِينَ بِفَاحِشَةٍ مُبَيِّنَةٍ﴾ قال: إلا أن يزنين.
 
-⁕ حدثنا يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد: وسألته عن قول الله عزّ وجلّ ﴿لا تُخْرِجُوهُنَّ مِنْ بُيُوتِهِنَّ وَلا يَخْرُجْنَ إِلا أَنْ يَأْتِينَ بِفَاحِشَةٍ مُبَيِّنَةٍ﴾ قال: قال الله جلّ ثناؤه ﴿وَاللاتِي يَأْتِينَ الْفَاحِشَةَ مِنْ نِسَائِكُمْ﴾ قال: هؤلاء المحصنات، ﴿فَاسْتَشْهِدُوا عَلَيْهِنَّ أَرْبَعَةً مِنْكُمْ﴾ . .. الآية. قال: فجعل الله سبيلهنّ الرجم، فهي لا ينبغي لها أن تخرج من بيتها إلا أن تأتي بفاحشة مبينة، فإذا أتت بفاحشة مبينة أخرجت إلى الحدّ فرجمت، وكان قبل هذا للمحصنة الحبس تحبس في البيوت لا تترك تنكح، وكان للبكرين الأذى قال الله جلّ ثناؤه: ﴿وَالَّلذَانِ يَأْتِيَانِهَا مِنْكُمْ فَآذُوهُمَا﴾ يا زان، يا زانية، ﴿فَإِنْ تَابَا وَأَصْلَحَا فَأَعْرِضُوا عَنْهُمَا إِن
+⁕ حدثنا يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد: وسألته عن قول الله عزّ وجلّ ﴿لا تُخْرِجُوهُنَّ مِنْ بُيُوتِهِنَّ وَلا يَخْرُجْنَ إِلا أَنْ يَأْتِينَ بِفَاحِشَةٍ مُبَيِّنَةٍ﴾ قال: قال الله جلّ ثناؤه ﴿وَاللاتِي يَأْتِينَ الْفَاحِشَةَ مِنْ نِسَائِكُمْ﴾ قال: هؤلاء المحصنات، ﴿فَاسْتَشْهِدُوا عَلَيْهِنَّ أَرْبَعَةً مِنْكُمْ﴾ . .. الآية. قال: فجعل الله سبيلهنّ الرجم، فهي لا ينبغي لها أن تخرج من بيتها إلا أن تأتي بفاحشة مبينة، فإذا أتت بفاحشة مبينة أخرجت إلى الحدّ فرجمت، وكان قبل هذا للمحصنة الحبس تحبس في البيوت لا تترك تنكح، وكان للبكرين الأذى قال الله جلّ ثناؤه: ﴿وَالَّلذَانِ يَأْتِيَانِهَا مِنْكُمْ فَآذُوهُمَا﴾ يا زان، يا زانية، ﴿فَإِنْ تَابَا وَأَصْلَحَا فَأَعْرِضُوا عَنْهُمَا إِنَّ اللَّهَ كَانَ تَوَّاباً رَحِيماً﴾ قال: ثم نُسخ هذا كله، فجعل الرجم للمحصنة والمحصن، وجعل جلد مئة للبِكْرَين، قال: ونسخ هذا.
 
-[TRUNCATED at 12000 chars — 14632 more. Consult the source directly before relying on anything near the cut.]
+وقال آخرون: الفاحشة التي عناها الله في هذا الموضع: البَذَاء على أحمائها.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا أَبو كريب، قال: ثنا ابن إدريس، قال: ثنا محمد بن عمرو، عن محمد بن إبراهيم، عن ابن عباس قال الله: ﴿لا تُخْرِجُوهُنَّ مِنْ بُيُوتِهِنَّ وَلا يَخْرُجْنَ إِلا أَنْ يَأْتِينَ بِفَاحِشَةٍ مُبَيِّنَةٍ﴾ قال: الفاحشة المبينة أن تبذُو على أهلها.
+
+وقال آخرون: بل هي كل معصية لله.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس ﴿إِلا أَنْ يَأْتِينَ بِفَاحِشَةٍ مُبَيِّنَةٍ﴾ والفاحشة: هي المعصية.
+
+وقال آخرون: بل ذلك نشوزها على زوجها، فيطلقها على النشوز، فيكون لها التحوّل حينئذ من بيتها.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿إِلا أَنْ يَأْتِينَ بِفَاحِشَةٍ مُبَيِّنَةٍ﴾ قال قتادة: إلا أن يطلقها على نشوز، فلها أن تحوّل من بيت زوجها.
+
+وقال آخرون: الفاحشة المبينة التي ذكر الله عزّ وجلّ في هذا الموضع خروجها من بيتها.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا محمد بن الحسين، قال: ثنا أحمد بن مفضل، قال: ثنا أسباط، عن السديّ، في قوله: ﴿وَلا يَخْرُجْنَ إِلا أَنْ يَأْتِينَ بِفَاحِشَةٍ مُبَيِّنَةٍ﴾ قال: خروجها من بيتها فاحشة. قال بعضهم: خروجها إذا أتت بفاحشة أن تخرج فيقام عليها الحدّ.
+
+⁕ حدثني ابن عبد الرحيم البرقيّ، قال: ثنا سعيد بن الحكم بن أبي مريم، قال: أخبرنا يحيى بن أيوب قال: ثني محمد بن عجلان، عن نافع، عن عبد الله بن عمر، في قوله: ﴿لا تُخْرِجُوهُنَّ مِنْ بُيُوتِهِنَّ وَلا يَخْرُجْنَ إِلا أَنْ يَأْتِينَ بِفَاحِشَةٍ مُبَيِّنَةٍ﴾ قال: خروجها قبل انقضاء العدة فاحشة.
+
+والصواب من القول في ذلك عندي قول من قال: عنى بالفاحشة في هذا الموضع: المعصية، وذلك أن الفاحشة هي كلّ أمر قبيح تعدّى فيه حدّه، فالزنى من ذلك، والسرق والبذاء على الأحماء، وخروجها متحوّلة عن منزلها الذي يلزمها أن تعتدّ فيه منه، فأي ذلك فعلت وهي في عدتها، فلزوجها إخراجها من بيتها ذلك، لإتيانها بالفاحشة التي ركبتها.
+
+* *
+
+وقوله: ﴿وَتِلْكَ حُدُودُ اللَّهِ﴾
+
+يقول تعالى ذكره: وهذه الأمور التي بينتها لكم من الطلاق للعدّة، وإحصاء العدّة، والأمر باتقاء الله، وأن لا تخرج المطلقة من بيتها، إلا أن تأتي بفاحشة مبينة حدود الله التي حدّها لكم أيها الناس فلا تعتدوها ﴿وَمَنْ يَتَعَدَّ حُدُودَ اللَّهِ فَقَدْ ظَلَمَ نَفْسَهُ﴾ يقول تعالى ذكره: ومن يتجاوز حدود الله التي حدّها لخلقه فقد ظلم نفسه: يقول: فقد أكسب نفسه وزرًا، فصار بذلك لها ظالما، وعليها متعدّيا.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا عليّ بن عبد الأعلى، قال: ثنا عبد الرحمن بن محمد المحاربيّ، عن جويبر، عن الضحاك في قول الله ﴿وَتِلْكَ حُدُودُ اللَّهِ﴾ يقول: تلك طاعة الله فلا تعتدوها، قال: يقول: من كان على غير هذه فقد ظلم نفسه.
+
+* *
+
+وقوله: ﴿لا تَدْرِي لَعَلَّ اللَّهَ يُحْدِثُ بَعْدَ ذَلِكَ أَمْرًا﴾
+
+يقول جلّ ثناؤه: لا تدري ما الذي يحدث؟ لعل الله يحدث بعد طلاقكم إياهنّ رجعة.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن الزهريّ، أن فاطمة بنت قيس كانت تحت أَبي حفص المخزومي، وكان النبيّ ﷺ أمَّر عليًا على بعض اليمن، فخرج معه، فبعث إليها بتطليقة كانت لها، وأمر عياش بن أبي ربيعة المخزومي، والحارث بن هشام أن ينفقا عليها، فقالا لا والله ما لها علينا نفقة، إلا أن تكون حاملا فأتت النبي ﷺ فذكرت ذلك له، فلم يجعل لها نفقة إلا أن تكون حاملا واستأذنته في الانتقال، فقالت: أين انتقل يا رسول الله؟ قال: "عِنْدَ ابْنِ أُمّ مَكْتُومٍ"، وكان أعمى، تضع ثيابها عنده، ولا يبصرها؛ فلم تزل هنالك حتى أنكحها النبيّ ﷺ أُسامة بن زيد حين مضت عدتها، فأرسل إليها مروان بن الحكم يسألها عن هذا الحديث، فأخبرته، فقال مروان: لم نسمع هذا الحديث إلا من امرأة، وسنأخذ بالعصمة التي وجدنا الناس عليها، فقالت فاطمة: بيني وبينكم الكتاب، قال الله جلّ ثناؤه: ﴿فَطَلِّقُوهُنَّ لِعِدَّتِهِنَّ﴾ حتى بلغ (لَعَلَّ اللَّهَ يُحْدِثُ بَعْدَ ذَلِكَ أَمْرًا) قالت: فأي أمر يحدث بعد الثلاث، وإنما هو في مراجعة الرجل امرأته، وكيف تحبس امرأة بغير نفقة؟
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة، في قوله: ﴿لَعَلَّ اللَّهَ يُحْدِثُ بَعْدَ ذَلِكَ أَمْرًا﴾ قال: هذا في مراجعة الرجل امرأته.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿لا تَدْرِي لَعَلَّ اللَّهَ يُحْدِثُ بَعْدَ ذَلِكَ أَمْرًا﴾ : أي مراجعة.
+
+⁕ حدثنا ابن بشار، قال: ثنا عبد الأعلى، قال: ثنا سعيد، عن قتادة ﴿لا تَدْرِي لَعَلَّ اللَّهَ يُحْدِثُ بَعْدَ ذَلِكَ أَمْرًا﴾ قال: يراجعها في بيتها هذا في الواحدة والثنتين، هو أبعد من الزنى.
+
+قال سعيد، وقال الحسن: هذا في الواحدة والثنتين، وما يحدث الله بعد الثلاث.
+
+⁕ حدثنا يعقوب، قال: ثنا ابن علية، قال: أخبرنا أيوب، قال: سمعت الحسن وعكرمة يقولان: المطلقة ثلاثًا، والمتوفى عنها لا سكنى لها ولا نفقة؛ قال: فقال عكرمة ﴿لَعَلَّ اللَّهَ يُحْدِثُ بَعْدَ ذَلِكَ أَمْرًا﴾ فقال: ما يحدث بعد الثلاث.
+
+⁕ حدثنا عليّ بن عبد الأعلى المحاربيّ، قال: ثنا عبد الرحمن بن محمد المحاربي، عن جويبر، عن الضحاك في قوله: ﴿لَعَلَّ اللَّهَ يُحْدِثُ بَعْدَ ذَلِكَ أَمْرًا﴾ يقول: لعلّ الرجل يراجعها في عدتها.
+
+⁕ حُدثت عن الحسين، قال: سمعت أبا معاذ يقول: ثنا عبيد، قال: سمعت الضحاك يقول في قوله: ﴿لا تَدْرِي لَعَلَّ اللَّهَ يُحْدِثُ بَعْدَ ذَلِكَ أَمْرًا﴾ هذا ما كان له عليها رجعة.
+
+⁕ حدثنا أحمد، قال: ثنا أسباط، عن السديّ (لا تَدْرِي لَعَلَّ اللَّهَ يُحْدِثُ بَعْدَ ذَلِكَ أَمْرًا) قال: الرجعة.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال، قال ابن زيد، في قوله: ﴿لَعَلَّ اللَّهَ يُحْدِثُ بَعْدَ ذَلِكَ أَمْرًا﴾ قال: لعلّ الله يحدث في قلبك تراجع زوجتك؛ قال: قال: ومن طلق للعدّة جعل الله له في ذلك فسحة، وجعل له ملكًا إن أراد أن يرتجع قبل أن تنقضي العدّة ارتجع.
+
+⁕ حدثنا ابن حميد، قال: ثنا مهران، عن سفيان ﴿لَعَلَّ اللَّهَ يُحْدِثُ بَعْدَ ذَلِكَ أَمْرًا﴾ قال: لعله يراجعها.
+
+* *
+
+وقوله: ﴿فَإِذَا بَلَغْنَ أَجَلَهُنَّ﴾
+
+يقول تعالى ذكره: فإذا بلغ المطلقات اللواتي هنّ في عدة أجلهنّ وذلك حين قرب انقضاء عددهنّ ﴿فَأَمْسِكُوهُنَّ بِمَعْرُوفٍ﴾ يقول: فأمسكوهنّ برجعة تراجعوهن، إن أردتم ذلك بمَعْرُوف، يقول: بما أمرك الله به من الإمساك وذلك بإعطائها الحقوق التي أوجبها الله عليه لها من النفقة والكسوة والمسكن وحُسن الصحبة، أو فارقوهنّ بمعروف، أو اتركوهنّ حتى تنقضي عددهنّ، فتبين منكم بمعروف، يعني بإيفائها ما لها من حق قبله من الصداق والمتعة على ما أوجب عليه لها.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني عليّ بن عبد الأعلى، قال: ثني المحاربي بن عبد الرحمن بن محمد، عن جويبر، عن الضحاك، قوله: ﴿فَإِذَا بَلَغْنَ أَجَلَهُنَّ﴾ يقول: إذا انقضت عدتها قبل أن تغتسل من الحيضة الثالثة، أو ثلاثة أشهر إن لم تكن تحيض، يقول: فراجع إن كنت تريد المراجعة قبل أن تنقضي العدّة بإمساك بمعروف، والمعروف أن تحسن صحبتها ﴿أَوْ تَسْرِيحٌ بِإِحْسَانٍ﴾ والتسريح بإحسان: أن يدعها حتى تمضي عدتها، ويعطيها مهرًا إن كان لها عليه إذا طلقها، فذلك التسريح بإحسان، والمُتعة على قدر الميسرة.
+
+⁕ حدثنا محمد، قال: ثنا أحمد، قال: ثنا أسباط، عن السديّ، في قوله: ﴿فَإِذَا بَلَغْنَ أَجَلَهُنَّ﴾ قال: إذا طلقها واحدة أو ثنتين، يشاء [[كذا في الأصل. ولعل أصل العبارة: فله بعد ذلك ما يشاء ... إلخ]] أن يمسكها بمعروف، أو يسرّحها بإحسان.
+
+* *
+
+وقوله: ﴿وَأَشْهِدُوا ذَوَيْ عَدْلٍ مِنْكُمْ﴾
+
+وأشهدوا على الإمساك إن أمسكتموهنّ، وذلك هو الرجعة ذوي عدل منكم، وهما اللذان يرضى دينهما وأمانتهما.
+
+وقد بينا فيما مضى قبل معنى العدل بما أغنى عن إعادته في هذا الموضع، وذكرنا ما قال أهل العلم فيه.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني عليّ، قال: ثنا أَبو صالح، قال: ثني معاوية، عن عليّ، عن ابن عباس، قال: إن أراد مراجعتها قبل أن تنقضي عدتها، أشهد رجلين كما قال الله ﴿وَأَشْهِدُوا ذَوَيْ عَدْلٍ مِنْكُمْ﴾ عند الطلاق وعند المراجعة، فإن راجعها فهي عنده على تطليقتين، وإن لم يراجعها فإذا انقضت عدتها فقد بانت منه بواحدة، وهي أملك بنفسها، ثم تتزوّج من شاءت، هو أو غيره.
+
+⁕ حدثنا أحمد، قال: ثنا أسباط، عن السديّ، في قوله: ﴿وَأَشْهِدُوا ذَوَيْ عَدْلٍ مِنْكُمْ﴾ قال: على الطلاق والرجعة.
+
+* *
+
+وقوله: ﴿وَأَقِيمُوا الشَّهَادَةَ لِلَّهِ﴾
+
+يقول: وأشهدوا على الحقّ إذا استشهدتم، وأدوها على صحة إذا أنتم دُعيتم إلى أدائها.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا محمد، قال: ثنا أحمد، قال: ثنا أسباط، عن السديّ، في قوله: ﴿وَأَقِيمُوا الشَّهَادَةَ لِلَّهِ﴾ قال: أشهدوا على الحقّ.
+
+* *
+
+وقوله: ﴿ذَلِكُمْ يُوعَظُ بِهِ مَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الآخِرِ﴾
+
+يقول تعالى ذكره: هذا الذي أمرتكم به، وعرَّفتكم من أمر الطلاق، والواجب لبعضكم على بعض عند الفراق والإمساك عظة منا لكم، نعظ به من كان يؤمن بالله واليوم الآخر، فيصدّق به.
+
+وعُنِي بقوله: ﴿مَنْ كَانَ يُؤْمِنُ بِاللَّهِ﴾ من كانت صفته الإيمان بالله، كالذي:-
+
+⁕ حدثنا محمد، قال: ثنا أحمد، قال: ثنا أسباط عن السديّ، ﴿مَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الآخِرِ﴾ قالَ: يؤمن به.
+
+* *
+
+وقوله: ﴿وَمَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مَخْرَجًا﴾
+
+يقول تعالى ذكره: من يخف الله فيعمل بما أمره به، ويجتنب ما نهاه عنه، يجعل له من أمره مخرجًا بأن يعرّفه بأن ما قضى فلا بدّ من أن يكون، وذلك أن المطلق إذا طلَّق، كما ندبه الله إليه للعدّة، ولم يراجعها في عدتها حتى انقضت ثم تتبعها نفسه، جعل الله له مخرجًا فيما تتبعها نفسه. بأن جعل له السبيل إلى خطبتها ونكاحها، ولو طلقها ثلاثًا لم يكن له إلى ذلك سبيل.
+
+* *
+
+وقوله: ﴿وَيَرْزُقْهُ مِنْ حَيْثُ لا يَحْتَسِبُ﴾
+
+يقول: ويسبب له أسباب الرزق من حيث لا يشعر، ولا يعلم.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل، وذكر بعضهم أن هده الآية نزلت بسبب عوف بن مالك الأشجعيّ.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا أَبو كُرَيب، قال: ثنا ابن صَلْت، عن قيس، عن الأعمش، عن أبي الضحى، عن مسروق عن عبد الله، في قوله: ﴿وَمَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مَخْرَجًا﴾ قال: يعلم أنه من عند الله، وأن الله هو الذي يعطي ويمنع.
+
+⁕ حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفيان، عن الأعمش، عن أَبي الضحى، عن مسروق ﴿وَمَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مَخْرَجًا﴾ قال: المخرج أن يعلم أن الله تبارك وتعالى لو شاء أعطاه وإن شاء منعه، ﴿وَيَرْزُقْهُ مِنْ حَيْثُ لا يَحْتَسِبُ﴾ قال: من حيث لا يدري.
+
+⁕ حدثني أَبو السائب، قال: ثنا أَبو معاوية، عن الأعمش، عن أَبي الضحى، عن مسروق، مثله.
+
+⁕ حدثني عليّ، قال: ثنا أَبو صالح، قال: ثني معاوية، عن عليّ، عن ابن عباس، قوله: ﴿وَمَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مَخْرَجًا﴾ يقول: نجاته من كل كرب في الدنيا والآخرة، ﴿وَيَرْزُقْهُ مِنْ حَيْثُ لا يَحْتَسِبُ﴾ .
+
+⁕ حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفيان، عن الربيع بن المنذر، عن أبيه، عن الربيع بن خثيم ﴿وَمَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مَخْرَجًا﴾ قال: من كلّ شيء ضاق على الناس.
+
+⁕ حدثنا ابن حميد، قال: ثنا يحيى بن واضح، قال: ثنا الحسين، عن يزيد، عن عكرمة ﴿وَمَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مَخْرَجًا﴾ قال: من طلق كما أمره الله يجعل له مخرجًا.
+
+⁕ حدثني عليّ بن عبد الأعلى المحاربيّ، قال: ثنا عبد الرحمن بن محمد المحاربيّ، عن جويبر، عن الضحاك في قوله: ﴿وَمَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مَخْرَجًا﴾ ومن يتق الله يجعل له من أمره يُسرًا، قال: يعني بالمخرج واليُسر إذا طلق واحدة ثم سكت عنها، فإن شاء راجعها بشهادة رجلين عدلين، فذلك اليُسر الذي قال الله، وإن مضت عدتها ولم يراجعها، كان خاطبًا من الخطاب، وهذا الذي أمر الله به، وهكذا طلاق السنة فأما من طلق عند كلّ حيضة فقد أخطأ السنة، وعصى الربّ، وأخذ بالعسر.
+
+⁕ حدثنا محمد، قال: ثنا أحمد، قال: ثنا أسباط، عن السديّ، في قوله: ﴿وَمَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مَخْرَجًا﴾ قال: يطلق للسُّنة، ويراجع للسُّنة؛ زعم أن رجلا من أصحاب النبيّ ﷺ يقال له عوف الأشجعيّ، كان له ابن، وأن المشركين أسروه، فكان فيهم، فكان أبوه يأتي النبيّ ﷺ، فيشكوا إليه مكان ابنه، وحالته التي هو بها وحاجته، فكان رسول الله ﷺ يأمره بالصبر ويقول له: إن الله سيجعل له مخرجا، فلم يلبث بعد ذلك إلا يسيرًا إذا انفلت ابنه من أيدي العدوّ، فمرّ بغنم من أغنام العدوّ فاستاقها، فجاء بها إلى أبيه، وجاء معه بغنًى قد أصابه من الغنم، فنزلت هذه الآية: ﴿وَمَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مَخْرَجًا وَيَرْزُقْهُ مِنْ حَيْثُ لا يَحْتَسِبُ﴾ .
+
+⁕ حدثنا ابن حميد، قال: ثنا مهران، عن سفيان، عن عمار بن أبي معاوية الدهنّي، عن سالم بن أبي الجعد ﴿وَمَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مَخْرَجًا﴾ قال: نزلت في رجل من أشجع جاء إلى النبيّ ﷺ وهو مجهود، فسأله فقال له النبيّ ﷺ: "اتَّقِ اللهَ وَاصْبِرْ"، قال: قد فعلت، فأتى قومه، فقالوا: ماذا قال لك؟ قال: قال: "اتق الله واصبر"، فقلت: قد فعلت حتى قال ذلك ثلاثًا، فرجع فإذا هو بابنه كان أسيرًا في بني فلان من العرب، فجاء معه بأعنز فرجع إلى النبي ﷺ، فقال: إن ابني كان أسيرًا في بني فلان، وإنه جاء بأعنز فطابت لنا؟ قال: "نعم".
+
+⁕ قال: ثنا حكام، قال: ثنا عمرو، عن عمار الدهنّي، عن سالم بن أَبي الجعد في قوله: ﴿وَمَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مَخْرَجًا﴾ قال: نزلت في رجل من أشجع أصابه الجهد، فأتى النبيّ ﷺ فقال له: "اتَّقِ اللهَ وَاصْبِرْ"، فرجع فوجد ابنًا له كان أسيرًا، قد فكه الله من أيديهم، وأصاب أعنزا، فجاء، فذكر ذلك لرسول الله ﷺ، فقال: هل تطيبُ لي يا رسول الله؟ قال: "نَعَم".
+
+⁕ قال: ثنا مهران، عن سفيان، عن ابن المنذر الثوريّ، عن أبيه، عن الربيع بن خثيم ﴿يَجْعَلْ لَهُ مَخْرَجًا﴾ قال: من كلّ شيء ضاق على الناس.
+
+⁕ قال: ثنا مهران، عن سفيان، عن الأعمش، عن أَبي الضحى، عن مسروق ﴿يَجْعَلْ لَهُ مَخْرَجًا﴾ قال: يعلم أن الله إن شاء منعه، وإن شاء أعطاه ﴿وَيَرْزُقْهُ مِنْ حَيْثُ لا يَحْتَسِبُ﴾ يقول: من حيث لا يدري.
+
+⁕ قال: ثنا مهران، عن سعيد بن أَبي عَروبة، عن قتادة ﴿يَجْعَلْ لَهُ مَخْرَجًا﴾ قال: من شُبُهَات الأمور، والكرب عند الموت ﴿وَيَرْزُقْهُ مِنْ حَيْثُ لا يَحْتَسِبُ﴾ : من حيث لا يرجو ولا يؤمل.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿وَيَرْزُقْهُ مِنْ حَيْثُ لا يَحْتَسِبُ﴾ لا يأمل ولا يرجو.
+
+* *
+
+وقوله: ﴿وَمَنْ يَتَوَكَّلْ عَلَى اللَّهِ فَهُوَ حَسْبُهُ﴾
+
+يقول تعالى ذكره: ومن يتق الله في أموره، ويفوّضها إليه فهو كافيه.
+
+* *
+
+وقوله: ﴿إِنَّ اللَّهَ بَالِغُ أَمْرِهِ﴾
+
+منقطع عن قوله: ﴿وَمَنْ يَتَوَكَّلْ عَلَى اللَّهِ فَهُوَ حَسْبُهُ﴾ . ومعنى ذلك: إن الله بالغ أمره بكل حال توكل عليه العبد أو لم يتوكل عليه.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفيان، عن الأعمش، عن أَبي الضحى، عن مسروق ﴿وَمَنْ يَتَوَكَّلْ عَلَى اللَّهِ فَهُوَ حَسْبُهُ إِنَّ اللَّهَ بَالِغُ أَمْرِهِ﴾ توكل عليه أو لم يتوكل عليه، غير أن المتوكل يُكَفِّرْ عنه سيئاته، ويُعظِم له أجرًا.
+
+⁕ حدثنا أَبو السائب، قال: ثنا أَبو معاوية، عن الأعمش، عن أَبي الضحى، عن مسروق بنحوه.
+
+⁕ حدثنا أَبو كريب، قال: ثنا ابن صلت عن قيس، عن الأعمش، عن أبي الضحى، عن مسروق، عن عبد الله ﴿وَمَنْ يَتَوَكَّلْ عَلَى اللَّهِ فَهُوَ حَسْبُهُ﴾ قال: ليس بمتوكل الذي قد قُضيت حاجته، وجعل فضل من توكل عليه على من لم يتوكل أن يكفرَ عنه سيئاته، ويُعظم له أجرًا.
+
+⁕ قال: ثنا جرير، عن منصور، عن الشعبيّ، قال: تجالس شُتير بن شكل ومسروق، فقال شُتير: إما أن تحدّث ما سمعت من ابن مسعود فأصدّقك، وإما أن أحدث فتصدّقني؟ قال مسروق: لا بل حدّث فأصدّقك، فقال: سمعت ابن مسعود يقول: إن أكبر آية في القرآن تفوّضًا [[كذا في الأصل، ولم أجد في المعاجم هذا المصدر ولا فعله، ولعله محرف عن "التفويض"، وهو رد الأمر كله إلى الله، وهو المفهوم من معنى حديث ابن مسعود هذا.]] : ﴿وَمَنْ يَتَوَكَّلْ عَلَى اللَّهِ فَهُوَ حَسْبُهُ﴾ قال مسروق: صدقت.
+
+* *
+
+وقوله: ﴿قَدْ جَعَلَ اللَّهُ لِكُلِّ شَيْءٍ قَدْرًا﴾
+
+يقول تعالى ذكره: قد جعل الله لكلّ شيء من الطلاق والعدّة وغير ذلك حدًا وأجلا وقدرًا يُنتهى إليه.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني أَبو السائب، قال: ثنا أَبو معاوية، عن الأعمش، عن أَبي الضحى، عن مسروق ﴿قَدْ جَعَلَ اللَّهُ لِكُلِّ شَيْءٍ قَدْرًا﴾ قال: أجلا.
+
+⁕ حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفيان، عن الأعمش، عن أبي الضحى، عن مسروق ﴿قَدْ جَعَلَ اللَّهُ لِكُلِّ شَيْءٍ قَدْرًا﴾ قال: منتهى.
+
+⁕ حدثنا ابن حميد، قال: ثنا مهران، عن سفيان، عن الأعمش، عن أَبي الضحى، عن مسروق مثله.
+
+⁕ حدثنا محمد، قال: ثنا أحمد، قال: ثنا أسباط، عن السديّ، في قوله: ﴿قَدْ جَعَلَ اللَّهُ لِكُلِّ شَيْءٍ قَدْرًا﴾ قال: الحيض في الأجل والعدّة.
 
 ### al-Muyassar (Arabic)
 

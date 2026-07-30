@@ -110,9 +110,197 @@ In the chapter about the Prophets in his Sahih, under, "The Descent of 'Isa, Son
 
 (By Him in Whose Hands my soul is, the son of Maryam ('Isa) will shortly descend among you as a just ruler, and will break the cross, kill the pig and abolish the Jizyah. Then there will be an abundance of wealth and nobody will accept charitable gifts any more. At that time, one prostration will be better for them than this life and all that is in it.) Abu Hurayrah then said, "Read if you will,
 
-وَإِن مِّنْ أَه
+وَإِن مِّنْ أَهْلِ الْكِتَابِ إِلَّا لَيُؤْمِنَنَّ بِهِ قَبْلَ مَوْتِهِ وَيَوْمَ الْقِيَامَةِ يَكُونُ عَلَيْهِمْ شَهِيدًا
 
-[TRUNCATED at 12000 chars — 28080 more. Consult the source directly before relying on anything near the cut.]
+(And there is none of the People of the Scripture, but must believe in him, before his death. And on the Day of Resurrection, he will be a witness against them.)" Muslim recorded this Hadith. So, Allah's statement,
+
+قَبْلَ مَوْتِهِ
+
+(before his death) refers to the death of 'Isa, son of Maryam.
+
+Another Hadith by Abu Hurayrah
+
+Imam Ahmad recorded that Abu Hurayrah said that the Messenger of Allah ﷺ said,
+
+لَيُهِلَّنَّ عِيسَى بِفَجِّ الرَّوْحَاءِ بِالْحَجِّ أَوِ الْعُمْرَةِ، أَوْ لَيَثْنِيَنَّهُمَا جَمِيعًا
+
+('Isa will say 'Ihlāl' from the mountain highway of 'Ar-Rawḥā'' for Hajj, 'Umrah or both.) Muslim also recorded it. Ahmad recorded that Abu Hurayrah said that the Prophet ﷺ said,
+
+يَنْزِلُ عِيسَى ابْنُ مَرْيَمَ فَيَقْتُلُ الْخِنْزِيرَ، وَيَمْحُو الصَّلِيبَ، وَتُجْمَعُ لَهُ الصَّلَاةُ، وَيُعْطَى الْمَالُ حَتَّى لَا يُقْبَلَ، وَيَضَعُ الْخَرَاجَ، وَيَنْزِلُ الرَّوْحَاءَ فَيَحُجُّ مِنْهَا أَوْ يَعْتَمِرُ أَوْ يَجْمَعُهُمَا
+
+('Isa, son of Maryam, will descend and will kill the pig, break the cross, lead the prayer in congregation and give away wealth until it is no longer accepted by anyone. He will also abolish the Jizyah and go to Ar-Rawha' from where he will go to perform Hajj, 'Umrah or both.) Abu Hurayrah then recited,
+
+وَإِن مِّنْ أَهْلِ الْكِتَابِ إِلَّا لَيُؤْمِنَنَّ بِهِ قَبْلَ مَوْتِهِ
+
+(And there is none of the People of the Scripture, but must believe in him, before his death.) Hanzalah said, "Abu Hurayrah added, 'Will believe in 'Isa before 'Isa dies,' but I do not know if this was a part of the Prophet's Hadith or if it was something that Abu Hurayrah said on his own. " Ibn Abi Hatim also recorded this Hadith.
+
+Another Hadith
+
+Al-Bukhari recorded that Abu Hurayrah said that the Messenger of Allah ﷺ said,
+
+كَيْفَ بِكُمْ إِذَا نَزَلَ فِيكُمُ الْمَسِيحُ ابْنُ مَرْيَمَ وَإِمَامُكُمْ مِنْكُم
+
+(How will you be when Al-Masih, son of Maryam ('Isa) descends among you while your Imam is from among yourselves?) Imam Ahmad and Muslim also recorded this Hadith.
+
+Another Hadith
+
+Imam Ahmad recorded that Abu Hurayrah said that the Prophet ﷺ said,
+
+الْأَنْبِيَاءُ إِخْوَةٌ لِعَلَّاتٍ، أُمَّهَاتُهُمْ شَتَّى، وَدِينُهُمْ وَاحِدٌ، وَإِنِّي أَوْلَى النَّاسِ بِعِيسَى ابْنِ مَرْيَمَ، لِأَنَّهُ لَمْ يَكُنْ نَبِيٌّ بَيْنِي وَبَيْنَهُ، وَإِنَّهُ نَازِلٌ فَإِذَا رَأَيْتُمُوهُ فَاعْرِفُوهُ: رَجُلٌ مَرْبُوعٌ إِلَى الْحُمْرَةِ وَالْبَيَاضِ، عَلَيْهِ ثَوْبَانِ مُمَصَّرَانِ، كَأَنَّ رَأْسَهُ يَقْطُرُ، وَإِنْ لَمْ يُصِبْهُ بَلَلٌ، فَيَدُقُّ الصَّلِيبَ، وَيَقْتُلُ الْخِنْزِيرَ، وَيَضَعُ الْجِزْيَةَ، وَيَدْعُو النَّاسَ إِلَى الْإِسْلَامِ، وَيُهْلِكُ اللهُ فِي زَمَانِهِ الْمِلَلَ كُلَّهَا إِلَّا الْإِسْلَامَ، وَيُهْلِكُ اللهُ فِي زَمَانِهِ الْمَسِيحَ الدَّجَّالَ، ثُمَّ تَقَعُ الْأَمَنَةُ عَلَى الْأَرْضِ حَتَّى تَرْتَعَ الْأُسُودُ مَعَ الْإِبِلِ، وَالنِّمَارُ مَعَ الْبَقَرِ، وَالذِّئَابُ مَعَ الْغَنَمِ، وَيَلْعَبُ الصِّبْيَانُ بِالحَيَّاتِ لَا تَضُرُّهُمْ، فَيَمْكُثُ أَرْبَعِينَ سَنَةً ثُمَّ يُتَوَفَّى، وَيُصَلِّي عَلَيْهِ الْمُسْلِمُونَ
+
+(The Prophets are paternal brothers; their mothers are different, but their religion is one. I, more than any of mankind, have more right to 'Isa, son of Maryam, for there was no Prophet between him and I. He will descend, and if you see him, know him. He is a well-built man, (the color of his skin) between red and white. He will descend while wearing two long, light yellow garments. His head appears to be dripping water, even though no moisture touched it. He will break the cross, kill the pig, and banish the Jizyah and will call the people to Islam. During his time, Allah will destroy all religions except Islam and Allah will destroy Al-Masih Ad-Dajjal (the False Messiah). Safety will then fill the earth, so much so that the lions will mingle with camels, tigers with cattle and wolves with sheep. Children will play with snakes, and they will not harm them. 'Isa will remain for forty years and then will die, and Muslims will offer the funeral prayer for him.) Abu Dawud also recorded it.
+
+Another Hadith
+
+In his Sahih, Muslim recorded that Abu Hurayrah related to the Messenger of Allah ﷺ that he said,
+
+لَا تَقُومُ السَّاعَةُ حَتَّى يَنْزِلَ الرُّومُ بِالْأَعْمَاقِ أَوَ بِدَابِقَ، فَيَخْرُجُ إِلَيْهِمُ جَيْشٌ مِنَ الْمَدِينَةِ مِنْ خِيَارِ أَهْلِ الْأَرْضِ يَوْمَئِذٍ، فَإِذَا تَصَافُّوا، قَالَتِ الرُّومُ: خَلُّوا بَيْنَنَا وَبَيْنَ الَّذِينَ سَبَوْا مِنَّا نُقَاتِلْهُمْ، فَيَقُولُ الْمُسْلِمُونَ: لَا وَاللهِ، لَا نُخَلِّي بَيْنَكُمْ وَبَيْنَ إِخْوَانِنَا، فَيُقَاتِلُونَهُمْ، (فَيَنْهَزِمُ) ثُلُثٌ لَا يَتُوبُ اللهُ عَلَيْهِمْ أَبَدًا، وَيُقْتَلُ ثُلُثُهُ أَفْضَلُ الشُّهَدَاءِ عِنْدَ اللهِ، وَيَفْتَتحُ الثَّلُثُ لَا يُفْتَنُونَ أَبَدًا، فَيَفْتَتِحُونَ قُسْطُنْطِينِيَّةَ، فَبَيْنَمَا هُمْ يَقْسِمُونَ الْغَنَائِمَ قَدْ عَلَّقُوا سُيُوفَهُمْ بِالزَّيْتُونِ، إِذْ صَاحَ فِيهِمُ الشَّيْطَانُ: إِنَّ الْمَسِيحَ قَدْ خَلَفَكُمْ فِي أَهْلِيكُمْ، فَيَخْرُجُونَ، وَذَلِكَ بَاطِلٌ، فَإِذَا جَاءُوا الشَّامَ خَرَجَ، فَبَيْنَمَا هُمْ يُعِدُّونَ لِلْقِتَالِ يُسَوُّونَ الصُّفُوفَ، إِذْ أُقِيَمتِ الصَّلَاةُ فَيَنْزِلُ عِيسَى ابْنُ مَرْيَمَ، فَأَمَّهُمْ، فَإِذَا رَآهُ عَدُوُّ اللهِ، ذَابَ كَمَا يَذُوبُ الْمِلْحُ فِي الْمَاءِ، فَلَوْ تَرَكَهُ لَانْذَابَ حَتَّى يَهْلِكَ، وَلكِنْ يَقْتُلُهُ اللهُ بِيَدِهِ، فَيُرِيهِمْ دَمَهُ فِي حَرْبَتِهِ
+
+(The (Last) Hour will not start until the Romans occupy Al-A'maq or Dabiq. An army, comprised of the best of the people of the earth then, will come from Al-Madinah and challenge them. When they camp face to face, the Romans will say, 'Let us fight those who captured some of us.' The Muslims will say, 'Nay! By Allah, we will never let you get to our brothers.' They will fight them. A third of the (Muslim) army will flee in defeat, and those are the ones whom Allah will never forgive. Another third will be killed, and those are the best martyrs before Allah. The last third will be victorious, and this third will never be stricken with Fitnah, and they will capture Constantinople (Istanbul). While they are dividing war booty, after hanging their swords on olive trees, Shaytan will shout among them, saying, 'Al-Masih (Ad-Dajjal) has cornered your people'. They will leave to meet Ad-Dajjal in Ash-Sham. This will be a false warning, and when they reach Ash-Sham, Ad-Dajjal will then appear. When the Muslims are arranging their lines for battle and the prayer is called for, 'Isa, son of Maryam, will descend and lead them in prayer. When the enemy of Allah (the False Messiah) sees him, he will dissolve just as salt dissolves in water, and if any of him were left, he would continue dissolving until he died. Allah will kill him with the hand of 'Isa and will show the Muslims his blood on his spear.)
+
+Muslim recorded that 'Abdullah bin 'Amr said that the Messenger of Allah ﷺ said,
+
+لَتُقَاتِلُنَّ الْيَهُودَ فَلَتَقْتُلُنَّهُمْ، حَتى يَقُولَ الْحَجَرُ: يَامُسْلِمُ هَذَا يَهُودِيٌّ فَتَعَال فَاقْتُلْهُ
+
+(You will fight the Jews and will kill them, until the stone will say, 'O Muslim! There is a Jew here, so come and kill him.') Muslim recorded that Abu Hurayrah said that the Messenger of Allah ﷺ said,
+
+لَا تَقُومُ السَّاعَةُ حَتَّى يُقَاتِلَ الْمُسْلِمُونَ الْيَهُودَ، فَيَقْتُلُهُمُ الْمُسْلِمُونَ حَتَّى يَخْتَبِىءَ الْيَهُودِيُّ مِنْ وَرَاءِ الْحَجَرِ وَالشَّجَرِ، فَيَقُولُ الْحَجَرُ وَالشَّجَرُ: يَامُسْلِمُ يَاعَبْدَ اللهِ هَذَا يَهُودِيٌّ خَلْفِي فَتَعَالَ فَاقْتُلْهُ - إِلَّا الْغَرْقَدَ فَإِنَّهُ مِنْ شَجَرِ الْيَهُودِ
+
+(The Hour will not start, until after the Muslims fight the Jews and the Muslims kill them. The Jew will hide behind a stone or tree, and the tree will say, 'O Muslim! O servant of Allah! This is a Jew behind me, come and kill him.' Except Al-Gharqad, for it is a tree of the Jews.)
+
+Muslim bin Al-Hajjaj recorded in his Sahih that An-Nawwas bin Sam'an said, "The Messenger of Allah ﷺ, mentioned Ad-Dajjal one day and kept belittling him (because being blind, yet claiming to be Allah) and speaking in grave terms about him until we thought that he was hiding in gardens of date-trees (in Al-Madinah). When we went by the Messenger, he sensed this anxiety in us and said,
+
+مَا شَأْنُكُمْ؟
+
+(What is the matter with you?) We said, 'O Messenger of Allah! Earlier, you mentioned Ad-Dajjal and while belittling him you spoke gravely about him until we thought that he was hiding in gardens of date-trees (of Al-Madinah).' He said,
+
+غَيْرُ الدَّجَّالِ أَخْوَفُنِي عَلَيكُمْ، إِنْ يخْرُجْ وَأَنَا فِيكُمْ فَأَنَا حَجِيجُهُ دُونَكُمْ، وَإِنْ يَخْرُجْ وَلَسْتُ فِيكُمْ فَامْرُؤٌ حَجِيجُ نَفْسِهِ، واللهُ خَلِيفَتِي عَلى كُلِّ مُسْلمٍ. إِنَّهُ شَابٌّ قَطَطٌ، عَينُهُ طافِيةٌ كَأَنِّي أُشَبِّهُهُ بِعَبْدِ العُزَّى بْنِ قَطَنٍ، مَنْ أَدْرَكَهُ مِنْكُمْ فَلْيَقْرَأ عَلَيْهِ فَوَاتِحَ سُورَةِ الْكَهْفِ، إِنَّه خَارِجٌ مِنْ خَلَّةٍ بَيْنَ الشَّامِ والعِرَاقِ، فَعَاثَ يَمِينًا وَعَاثَ شِمَالًا، يَاعِبَادَ اللهِ فَاثْبُتوا
+
+(I fear other than Ad-Dajjal for you! If he appears while I am still among you, I will be his adversary on your behalf. If he appears while I am not among you, each one will depend on himself and Allah will be the Helper of every Muslim after me. He is young, with very curly hair and his eye is smashed. I thought that he looked like 'Abdul-'Uzza bin Qatan. Whoever lives long and meets Ad-Dajjal, then let him recite the beginnings of Surat Al-Kahf. He will appear on a pass between Ash-Sham (Syria) and Al-'Iraq. He will wreak havoc to the right and left. O Servants of Allah! Hold fast.)
+
+We said, 'O Messenger of Allah! How long will he stay on earth?' He said,
+
+أَرْبَعُونَ يَوْمًا، يَومٌ كَسَنَةٍ، وَيَوْمٌ كَشَهْرٍ، وَيَوْمٌ كَجُمُعَةٍ، وَسَائِرُ أَيَّامِهِ كَأَيَّامِكُم
+
+(Forty days: One day as long as a year, one day as long as a month and one day as long as a week. The rest of his days will be as long as one of your ordinary days.) We said, 'O Messenger of Allah! As for the day that is like a year, will the prayers of one day suffice for it?' He said,
+
+لَا، اقْدُرُوا لَهُ قَدْرَهُ
+
+(No. Count for its due measure.) We said, 'O Messenger of Allah, how will his speed be on earth?' He said,
+
+كَالْغَيْثِ اسْتَدْبَرَتْهُ الرِّيحُ فَيَأْتِي عَلى قَوْمٍ فَيَدْعُوهُمْ فَيُؤْمِنُون بِهِ، وَيَسْتَجِيبُونَ لَهُ، فَيَأْمُرُ السَّمَاءَ فَتُمْطِرُ، وَالأَرْضَ فَتُنْبِتُ، فَتَرُوحُ عَلَيْهِمْ سَارِحَتُهُمْ أَطْوَلَ مَا كَانَتْ ذُرًى، وَأَسْبَغَهُ ضُرُوعًا، وَأَمَدَّهُ خَوَاصِرَ، ثُمَّ يَأْتِي الْقَوْمَ فَيَدْعُوهُمْ فَيَرُدُّونَ عَلَيْهِ قَوْلَهُ، فَيَنْصَرِفُ عَنْهُمْ فَيُصْبِحُونَ مُمْحِلِينَ لَيْسَ بِأَيْدِيهِمْ شَيْءٌ مِنْ أَمْوَالِهِمْ وَيَمُرُّ بِالْخَرِبَةِ فَيَقُولُ لَهَا: أَخْرِجِي كُنُوزَكِ، فَتَتْبَعُهُ كُنُوزُهَا كَيعَاسِيبِ النَّحْلِ، ثُمَّ يَدْعُو رَجُلًا مُمْتَلِئًا شَبَابًا فَيَضْرِبُهُ بِالسَّيْفِ، فَيَقْطَعُهُ جِزْلَتَيْنِ رَمْيَةَ الْغَرَضِ، ثُمَّ يَدْعُوهُ، فَيُقْبِلُ وَيَتَهَلَّلُ وَجْهُهُ وَيَضْحَكُ، فَبَيْنَما هُوَ كَذَلِكَ إِذْ بَعَثَ اللهُ الْمَسِيح ابْنَ مَرْيَمَ عَلَيْهِ السَّلَامُ،
+
+فَيَنْزِلُ عِنْدَ الـمَنَارَةِ البَيْضَاءِ شَرْقِيَّ دِمَشْقَ بَيْنَ مَهْرُودَتَيْنِ، وَاضِعًا كَفَّيْهِ عَلَى أَجْنِحَةِ مَلَكَيْنِ، إِذَا طَأْطَأَ رَأْسَهُ قَطَرَ، وَإذَا رَفَعَهُ تَحَدَّرَ مِنْهُ جُمَانٌ كَاللُّؤْلُؤِ، وَلَا يَحِلُّ لِكَافِرٍ يَجِدُ رِيحَ نَفَسِهِ إِلَّا مَاتَ، وَنَفَسُهُ يَنْتَهِي حَيْثُ يَنْتَهِي طَرَفُهُ، فَيَطْلُبُهُ حَتَّى يُدْرِكَهُ بِبَابِ لُدٍّ، فَيَقْتُلُهُ، ثُمَّ يَأْتِي عِيسَى عَلَيْهِ السَّلَامُ قَوْمًا قَدْ عَصَمَهُمُ اللهُ مِنْهُ، فَيَمْسَحُ عَنْ وُجُوهِهِمْ، وَيُحَدِّثُهُمْ بدَرَجَاتِهِمْ فِي الْجَنَّةِ، فَبَيْنَمَا هُوَ كَذَلِكَ إِذْ أَوْحَى اللهُ عَزَّ وَجَلَّ إِلَى عِيسَى: إِنِّي قَدْ أَخْرَجْتُ عِبَادًا لِي لَا يَدَانِ لِأَحَدٍ بِقِتَالِهِمْ، فَحَرِّزْ عِبَادِي إِلَى الطُّورِ، ويَبْعَثُ اللهُ يَأْجُوجَ وَمَأْجُوجَ وَهُمْ مِنْ كُلِّ حَدَبٍ يَنْسِلُونَ، فَيَمُرُّ أَوَّلُهُمْ عَلَى بُحَيْرَةِ طَبَرِيَّةَ فَيَشْرَبُونَ مَا فِيهَا، وَيَمُرُّ آخِرُهُمْ فَيقُولُونَ: لَقَدْ كَانَ بِهذِهِ مَرَّةً مَاءٌ، ويُحْصَرُ نَبِيُّ اللهِ عِيسَى وَأَصْحَابُهُ،
+
+حَتَّى يَكُونَ رَأْسُ الثَّورِ لِأَحَدِهِمْ خَيْرٌ مِنْ مِائَةِ دِينَارٍ لِأَحَدِكُمُ الْيَوْمَ، فَيَرْغَبُ نَبِيُّ اللهِ عِيسَى وَأَصْحَابُهُ، فَيُرسِلُ اللهُ عَلَيْهِمُ النَّغَفَ فِي رِقَابِهِمْ، فَيُصْبِحُونَ فَرْسَى كَمَوْتِ نَفْسٍ وَاحِدَةٍ، ثُمَّ يَهْبِطُ نَبِيُّ اللهِ عِيسَى وَأَصْحَابُهُ إِلَى الْأَرْضِ، فَلَا يَجِدُونَ فِي الْأَرْضِ مَوْضِعَ شِبْرٍ إِلَّا مَلَأَهُ زَهَمُهُمْ ونَتْنُهُمْ، فَيَرْغَبُ نَبِيُّ اللهِ عِيسَى وَأَصْحَابُهُ إِلَى اللهِ، فَيُرْسِلُ اللهُ، طَيْرًا كَأَعْنَاقِ الْبُخْتِ، فَتَحْمِلُهُمْ فَتَطْرَحُهُمْ حَيْثَ شَاءَ اللهُ، ثُمَّ يُرْسِلُ اللهُ مَطَرًا لَا يَكُنُّ مِنْهُ بَيْتُ مَدَرٍ، وَلَا وَبَرٍ، فَيَغْسِلُ الْأَرْضَ حَتَّى يَتْرُكَهَا كَالزَّلَفَةِ، ثُمَّ يُقَالُ لِلْأَرْضِ: أَخْرِجِي ثَمَرَكِ وَرُدِّي بَرَكَتَكِ، فَيَوْمَئِذٍ تَأْكُلُ الْعِصَابَةُ مِنَ الرُّمَّانَةِ، وَيَسْتَظِلُّونَ بِقِحْفِهَا، وَيُبَارِكُ اللهُ فِي الرِّسْلِ حَتَّى إِنَّ اللِّقْحَةَ مِنَ الْإِبِلِ لَتَكْفِي الفِئَامَ، (مِنَ النَّاسِ وَاللُّقْمَةَ مِنَ الْفَمِ لَتَكْفِي الْفَخِذَ مِنَ النَّاسِ)، فَبَيْنَما هُمْ كَذَلِكَ إِذْ بَعَثَ اللهُ رِيحًا طَيِّبَةً، فَتَأْخُذُهُمْ تَحْتَ آبَاطِهِمْ، فَتَقْبِضُ رُوحَ كُلِّ مُؤْمِنٍ وَكُلِّ مُسْلِمٍ، وَيَبْقَى شِرَارُ النَّاسِ يَتَهَارَجُونَ فِيهَا تَهَارُجَ الْحُمُرِ، فَعَلَيْهِمْ تَقُومُ السَّاعَةُ
+
+(Like the storm when driven by the wind. He will come to a people and will call them (to his worship), and they will believe in him and accept his call. He will order the sky and it will rain, the land and it will grow (vegetation). Their cattle will return to them with their hair the longest, their udders the fullest (with milk) and their stomachs the fattest. He will come to a different people and will call them (to his worship), and they will reject his call. He will then leave them. They will wake up in the morning destitute, missing all of their possessions. He will pass by a deserted land and will say to it, 'Bring out your treasures', and its treasures will follow him just like swarms of bees. He will summon a man full of youth and will strike him with the sword once and will cut him into two pieces (and will separate between them like) the distance (between the hunter and) the game. He will call the dead man and he will come, and his face will radiant with pleasure and laughter. Afterwards (while all this is happening with Ad-Dajjal), Allah will send Al-Masih ('Isa), son of Maryam down. He will descend close to the white minaret to the east of Damascus. He will be wearing garments lightly colored with saffron and his hands will be placed on the wings of two angels. Whenever he lowers his head droplets fall. Whenever he raises his head, precious stones that look like pearls fall. No disbeliever can survive 'Isa's breath, which reaches the distance of his sight. He will pursue Ad-Dajjal and will follow him to the doors of (the Palestinian city of) Ludd where he will kill him. A group of people who, by Allah's help, resisted and survived Ad-Dajjal, will pass by 'Isa and he will anoint their faces and inform them about their grades in Paradise. Shortly afterwards, while this is happening with 'Isa, Allah will reveal to him, 'I raised a people of My creation that no one can fight. Therefore, gather My servants to At-Tur (the mountain of Musa in Sinai).' Then, Allah will raise Gog and Magog and they will swiftly swarm from every mound. Their front forces will reach Lake Tabariah (Sea of Galilee) and will drink all its water. The last of their forces will say as they pass by the lake, 'This lake once had water!' Meanwhile, 'Isa, Allah's Prophet, will be cornered along with his companions until the head of a bull will be more precious to them than a hundred Dinars to you today. 'Isa, Allah's Prophet, and his companions will invoke Allah for help and Allah will send An-Naghaf (a worm) into the necks of Gog and Magog! The morning will come, and they will all be dead as if it was the death of one soul. Afterwards, 'Isa, the Prophet of Allah, will come down with his companions to the low grounds (from Mount At-Tur). They will find that no space of a hand-span on the earth was free of their fat and rot (rotten corpses). 'Isa, the Prophet of Allah, and his companions will seek Allah in supplication. Allah will send birds as large as the necks of camels. They will carry them (the corpses of Gog and Magog) and will throw them wherever Allah wills. Afterwards, Allah will send rain that no house made of mud or animal hair will be saved from, and it will cleanse the earth until it is as clean as a mirror. The earth will be commanded (by Allah), 'Produce your fruits and regain your blessing.' Then, the group will eat from a pomegranate and will take shelter under the shade of its skin. Milk will be blessed, so much so that the milk-producing camel will yield large amounts that suffice for a large group of people. Meanwhile, Allah will send a pure wind that will overcome Muslims from under their arms and will take the soul of every believer and Muslim. Only the evildoers among people will remain. They will indulge in shameless public sex like that of donkeys. On them, the Hour will begin.)
+
+Imam Ahmad and the collectors of the Sunan also recorded this Hadith. We will mention this Hadith again using the chain of narration collected by Ahmad explaining Allah's statement in Surat Al-Anbiya' (chapter 21),
+
+حَتَّىٰ إِذَا فُتِحَتْ يَأْجُوجُ وَمَأْجُوجُ
+
+(Until, when Ya'juj and Ma'juj (Gog and Magog people) are let loose (from their barrier).)[21:96]
+
+In our time, in the year seven hundred and forty-one, a white minaret was built in the Umayyad Masjid (in Damascus) made of stone, in place of the minaret that was destroyed by a fire which the Christians were suspected to have started. May Allah's continued curses descend on the Christians until the Day of Resurrection. There is a strong feeling that this minaret is the one that 'Isa will descend on, according to this Hadith.
+
+Another Hadith
+
+Muslim recorded in his Sahih that Ya'qub bin 'Asim bin 'Urwah bin Mas'ud Ath-Thaqafi said, "I heard 'Abdullah bin 'Amr saying to a man who asked him, 'What is this Hadith that you are narrating? You claim that the Hour will start on such and such date.' He said, 'Subhan Allah (glory be to Allah),' or he said, 'There is no deity worthy of worship except Allah.'
+
+I almost decided to never narrate anything to anyone. I only said, "Soon, you will witness tremendous incidents, the House (the Ka'bah) will be destroyed by fire, and such and such things will occur." He then said, 'The Messenger of Allah ﷺ said,
+
+يَخْرُجُ الدَّجَّالُ فِي أُمَّتِي فَيَمْكُثُ أَرْبَعِينَ، لَا أَدْرِي أَرْبَعِينَ يَوْمًا أَوْ أَرْبَعِينَ شَهْرًا أَوْ أَرْبَعِينَ عَامًا، فَيَبْعَثُ اللهُ تَعَالى عِيسَى ابْنَ مَرْيَمَ كَأَنَّهُ عُرْوَةُ بْنُ مَسْعُودٍ، فَيَطْلُبُهُ فَيُهْلِكُهُ، ثُمَّ يَمْكُثُ النَّاسُ سَبْعَ سِنِينَ لَيْسَ بَيْنَ اثْنَيْنِ عَدَاوَةٌ، ثُمَّ يُرْسِلُ اللهُ ريحًا بَارِدَةً مِنْ قِبَلِ الشَّامِ، فَلَا يَبْقَى عَلَى وَجْهِ الْأَرْضِ أَحَدٌ فِي قَلْبِهِ مِثْقَالُ ذَرَّةٍ مِنْ خَيْرٍ - أَوْ إِيمَانٍ - إِلَّا قَبَضَتْهُ، حَتَّى لَوْ أَنَّ أَحَدَكُمْ دَخَلَ فِي كَبِدِ جَبَلٍ لَدَخَلَتْه عَلَيْهِ حَتَّى تَقْبِضَهُ
+
+قال: سمعتها من رسول الله صلّى الله عليه وسلّم
+
+فَيَبْقَى شِرَارُ النَّاسِ فِي خِفَّةِ الطَّيْرِ وَأَحْلَامِ السِّبَاعِ، لَا يَعْرِفُونَ مَعْرُوفًا، وَلَا يُنْكِرُون مُنْكرًا، فَيَتمَثَّلُ لَهُمُ الشَّيْطَانُ فَيَقُولُ: أَلَا تَسْتَجِيبُونَ؟ فَيَقُولُونَ: فَمَا تَأْمُرُنَا؟ فَيَأْمُرُهُمْ بِعِبَادَةِ الْأَوْثَانِ، وَهُمْ فِي ذلِكَ دَارٌّ رِزْقُهُمْ، حَسَنٌ عَيْشُهُمْ، ثُمَّ يُنْفَخُ فِي الصُّورِ فَلَا يَسْمَعُهُ أَحَدٌ إِلَّا أَصْغَى لِيتًا وَرَفَعَ لِيتًا، قَالَ: وَأَوَّلُ مَنْ يَسْمَعُهُ رَجُلٌ يَلُوطُ حَوْضَ إِبِلِهِ، قَالَ: فَيَصْعَقُ وَيَصْعَقُ النَّاسُ، ثُمَّ يُرْسِلُ اللهُ - أَوْ قَالَ: يُنْزِلُ اللهُ - مَطَرًا كَأَنَّهُ الطَّلُّ - أَوْ قَالَ الظِّلُّ - نُعْمَانُ الشَّاكُّ - فَتَنْبُتُ مِنْهُ أَجْسَادُ النَّاسِ، ثُمَّ يُنَفَخُ فِيهِ أُخْرَى فَإِذَا هُمْ قِيَامٌ يَنْظُرُونَ. ثُمَّ يُقَالُ: أَيُّهَا النَّاسُ: هَلُمُّوا إِلى رَبِّكُم
+
+(Ad-Dajjal will appear in my nation and will remain for forty. (The narrator doubts whether it is forty days, months, or years).Then, Allah will send down 'Isa, son of Maryam, looking just like 'Urwah bin Mas'ud and he will seek Ad-Dajjal and will kill him. People will remain for seven years with no enmity between any two. Allah will send a cool wind from As-Sham that will leave no man on the face of the earth who has even the weight of an atom of good or faith, but will capture (his soul). Even if one of you takes refuge in the middle of a mountain, it will find him and capture (his soul). Afterwards, only the most evil people will remain. They will be as light as birds, with the comprehension of beasts. They will not know or enjoin righteousness or forbid or know evil. Shaytan will appear to them and will say to them, 'Would you follow me.' They will say, 'What do you command us?' He will command them to worship the idols. Meanwhile, their provision will come to them in abundance and their life will be good. Then the Trumpet will be blown and every person who hears it, will lower one side of his head and raise the other side (trying to hear that distant sound). The first man who will hear the Trumpet is someone who is preparing the water pool for his camels, and he and the people will swoon away. Allah will send down heavy rain and the bodies of people will grow with it. The Trumpet will be blown in again and the people will be resurrected and looking all about, staring. It will be said to them, 'O people! Come to your Lord,'
+
+وَقِفُوهُمْ إِنَّهُم مَّسْئُولُونَ
+
+(But stop them, verily, they are to be questioned.)[37:24]
+
+ثم يقال: أخرجوا بعث النار، فيقال: من كم؟ فيقال: من كل ألف تسعمائة وتسعة وتسعين، قال: فذلك يوم
+
+(It will then be said, 'Bring forth the share of the Fire.' It will be asked, 'How many?' It will be said, 'From every one thousand, nine hundred and ninety-nine.' That Day is when,)
+
+يَجْعَلُ الْوِلْدَانَ شِيبًا
+
+(the children will turn grey-headed,)[73:17] and,
+
+يَوْمَ يُكْشَفُ عَن سَاقٍ
+
+(The Day when the Shin shall be laid bare).) [68:42]"
+
+The Description of 'Isa, upon him be Peace
+
+As mentioned earlier, 'Abdur-Rahman bin Adam narrated that Abu Hurayrah said that the Prophet ﷺ said,
+
+فَإِذَا رَأَيْتُمُوهُ فَاعْرِفُوهُ: رَجُلٌ مَرْبُوعٌ إِلَى الْحُمْرَةٍ وَالْبَيَاضِ، عَلَيْهِ ثَوْبَانِ مُمَصَّرَانِ، كَأَنَّ رَأْسَهُ يَقْطُرُ وَإِنْ لَمْ يُصِبْهُ بَلَلٌ
+
+(If you see 'Isa, know him. He is a well-built man, (the color of his skin) between red and white. He will descend while wearing light yellow garments. His head looks like it is dripping water, even though no moisture touched it.) In the Hadith that An-Nawwas bin Sam'an narrated,
+
+فَيَنْزِلُ عِنْدَ الْمَنَارَةِ الْبَيْضَاءِ شَرْقِيَّ دِمَشْقَ بَيْنَ مَهْرُودَتَيْنِ وَاضِعًا كَفَّيْهِ عَلَى أَجْنِحَةِ مَلَكَيْنِ، إِذَا طَأْطَأَ رَأْسَهُ قَطَرَ، وَإِذَا رَفَعهُ تَحَدَّرَ مِنْهُ مِثْلُ جُمَانِ اللُّؤْلُؤ، لَا يَحِلُّ لِكَافِرٍ يَجِدُ رِيحَ نَفَسِهِ إِلَّا مَاتَ، وَنَفَسُهُ يَنْتَهِي حَيْثُ يَنْتَهِي طَرَفُهُ
+
+(He will descend close to the white minaret to the east of Damascus. He will be wearing two garments lightly colored with saffron, having his hands on the wings of two angels. Whenever he lowers his head, drops will fall off of it. Whenever he raises his head, precious jewels like pearls will fall off of it. No disbeliever can survive 'Isa's breath, and his breath reaches the distance of his sight.) Al-Bukhari and Muslim recorded that Abu Hurayrah said that the Messenger of Allah ﷺ said,
+
+لَيْلَةَ أُسْرِيَ بِي لَقِيتُ مُوسَى
+
+(I met Musa on the night of my Ascension to heaven.) The Prophet ﷺ then described him saying, as I think,
+
+مُضْطَرِبٌ، رَجِلُ الرَّأْسِ كَأَنَّهُ مِنْ رِجَالِ شَنُوءَةَ
+
+(He was a tall person with hair as if he was one of the men from the tribe of Shanu'ah.) The Prophet ﷺ further said,
+
+وَلقِيتُ عِيسَى
+
+فنعته النبي صلّى الله عليه وسلّم فقال:
+
+رَبْعَةٌ أَحْمَرُ كَأَنَّهُ خَرَجَ مِنْ دِيمَاسٍ
+
+يعني الحمام،
+
+وَرَأَيْتُ إبْرَاهِيمَ وَأَنا أَشْبَهُ وَلَدِهِ بِهِ
+
+('I met 'Isa.' The Prophet ﷺ described him saying, 'He was of moderate height and was red-faced as if he had just come out of a bathroom. I saw Ibrahim whom I resembled more than any of his children did.')
+
+Al-Bukhari recorded that Mujahid said that Ibn 'Umar said that the Messenger of Allah ﷺ said,
+
+رَأَيْتُ مُوسَى وَعِيسَى وَإِبْرَاهِيمَ، فَأَمَّا عِيسَى فَأَحْمَرُ جَعْدٌ عَرِيضُ الصَّدْرِ، وَأَمَّا مُوسَى فَآدَمُ جَسِيمٌ سَبْطٌ، كَأَنَّهُ مِنْ رِجَالِ الزُّطِّ
+
+(I saw Musa, 'Isa and Ibrahim. 'Isa was of red complexion and had curly hair and a broad chest. Musa was of brown complexion and had straight hair and a tall stature, as if he was from the people of Az-Zutt.)
+
+Al-Bukhari and Muslim recorded that Ibrahim said that 'Abdullah bin 'Umar said, "The Prophet ﷺ once mentioned the False Messiah (Al-Masih Ad-Dajjal) to people, saying,
+
+إنَّ اللهَ لَيْسَ بِأَعْوَرَ، أَلَا إِنَّ الْمَسِيحَ الدَّجَّالَ أَعْوَرُ الْعَيْنِ الْيُمْنَى، كَأَنَّ عَيْنَهُ عِنَبَةٌ طَافِيَةٌ
+
+(Allah is not blind in His Eye. Al-Masih Ad-Dajjal is blind in his right eye. His eye is like a protruding grape.)" Muslim recorded that the Messenger of Allah ﷺ said,
+
+وَأرَانِي اللهُ عِنْدَ الْكَعْبَةِ فِي الْمَنَامِ، فَإِذَا رَجُلٌ آدَمُ كَأَحْسَنِ مَا تَرَى مِنْ أُدْمِ الرِّجَالِ، تَضْرِبُ لِمَّتُهُ بَيْن مَنْكِبَيْهِ، رَجِلُ الشَّعْرِ، يَقْطُرُ رَأْسُهُ مَاءً، وَاضِعًا يَدَيْهِ عَلى مَنْكِبَيْ رَجُلَيْنِ، وَهُوَ يَطُوفُ بِالْبَيْتِ، فَقُلْتُ: مَنْ هَذَا؟ فَقَالُوا: هُوَ الْمَسِيحُ ابْنُ مَرْيَمَ، ثُمَّ رَأَيْتُ وَرَاءَهُ رَجُلًا جَعْدًا قَطِطًا، أَعْوَرَ الْعَيْنِ الْيُمْنَى، كَأَشْبَهِ مَنْ رَأَيْتُ بِابْنِ قَطَنٍ، وَاضِعًا يَدَيْهِ عَلى مَنْكِبَي رَجُلٍ، يَطُوفُ بِالْبَيْتِ، فَقُلْتُ: مَنْ هَذَا؟ قَالُوا: الْمَسِيحُ الدَّجَّالُ
+
+(In a dream, I was at the Ka'bah and Allah made me see a light-colored man, a color that is as beautiful as a light-colored man could be, with combed hair that reached his shoulders. His hair was dripping water, and he was leaning on the shoulders of two men while circling the Ka'bah. I asked, 'Who is this man?' I was told, 'This is the Al-Masih, son of Maryam.' Behind him, I saw a man with very curly hair who was blind in his right eye. He looked exactly as Ibn Qatan, and he was leaning on the shoulder of a man while circling the House. I asked, 'Who is this man?' I was told, 'He is Al-Masih Ad-Dajjal.')
+
+Al-Bukhari recorded that Salim said that his father said, "No, By Allah! The Prophet ﷺ did not say that 'Isa was of red complexion but said,
+
+بَيْنَمَا أَنَا نَائِمٌ أَطُوفُ بِالْكَعْبَةِ، فَإِذَا رَجُلٌ آدَمُ سَبْطُ الشَّعْرِ، يَتَهَادَى بَيْنَ رَجُلَيْنِ، يَنْطُفُ رَأْسُهُ مَاءً - أَوْ يُهَرَاقُ رَأْسُهُ مَاءً - فَقُلْتُ: مَنْ هَذَا؟ فَقَالُوا: ابْنُ مَرْيَمَ، فَذَهَبْتُ أَلْتَفِتُ، فَإِذَا رَجُلٌ أَحْمَرُ جَسِيمٌ، جَعْدُ الرَّاْسِ، أَعْوَرُ عَيْنِهِ الْيُمْنَى، كَأَنَّ عَيْنَهُ عِنَبَةٌ طَافِيَةٌ، قُلْتُ: مَنْ هَذَا؟ قَالُو: الدَّجَّالُ، وَأَقْرَبُ النَّاسِ بِهِ شَبَهًا ابْنُ قَطَنِ
+
+(While I was asleep circumambulating the Ka'bah (in my dream), I suddenly saw a man of brown complexion and ample hair walking between two men with water dripping from his head. I asked, 'Who is this?' The people said, 'He is the son of Maryam.' Then I looked behind and I saw a red-complexioned, fat, curly-haired man, blind in the right eye, which looked like a bulging out grape. I asked, 'Who is this?' They replied, 'He is Ad-Dajjal.' The person he most resembled is Ibn Qatan.)"
+
+Az-Zuhri commented that Ibn Qatan was a man from the tribe of Khuza'ah who died during the time of Jahiliyyah. This is the wording of Al-Bukhari. Allah's statement,
+
+وَيَوْمَ الْقِيَامَةِ يَكُونُ عَلَيْهِمْ شَهِيدًا
+
+(And on the Day of Resurrection, he ('Isa) will be a witness against them) Qatadah said, "He will bear witness before them that he has delivered the Message from Allah and that he is but a servant of His." In a similar statement in the end of Surat Al-Ma'idah,
+
+وَإِذْ قَالَ اللَّهُ يَا عِيسَى ابْنَ مَرْيَمَ أَأَنتَ قُلْتَ لِلنَّاسِ
+
+(And (remember) when Allah will say (on the Day of Resurrection): "O 'Isa, son of Maryam! Did you say unto men...")[5:116] until,
+
+الْعَزِيزُ الْحَكِيمُ
+
+(Almighty, the All-Wise.)[5:118]
 
 ### al-Tabari (Arabic)
 
@@ -244,9 +432,197 @@ In the chapter about the Prophets in his Sahih, under, "The Descent of 'Isa, Son
 
 (By Him in Whose Hands my soul is, the son of Maryam ('Isa) will shortly descend among you as a just ruler, and will break the cross, kill the pig and abolish the Jizyah. Then there will be an abundance of wealth and nobody will accept charitable gifts any more. At that time, one prostration will be better for them than this life and all that is in it.) Abu Hurayrah then said, "Read if you will,
 
-وَإِن مِّنْ أَه
+وَإِن مِّنْ أَهْلِ الْكِتَابِ إِلَّا لَيُؤْمِنَنَّ بِهِ قَبْلَ مَوْتِهِ وَيَوْمَ الْقِيَامَةِ يَكُونُ عَلَيْهِمْ شَهِيدًا
 
-[TRUNCATED at 12000 chars — 28080 more. Consult the source directly before relying on anything near the cut.]
+(And there is none of the People of the Scripture, but must believe in him, before his death. And on the Day of Resurrection, he will be a witness against them.)" Muslim recorded this Hadith. So, Allah's statement,
+
+قَبْلَ مَوْتِهِ
+
+(before his death) refers to the death of 'Isa, son of Maryam.
+
+Another Hadith by Abu Hurayrah
+
+Imam Ahmad recorded that Abu Hurayrah said that the Messenger of Allah ﷺ said,
+
+لَيُهِلَّنَّ عِيسَى بِفَجِّ الرَّوْحَاءِ بِالْحَجِّ أَوِ الْعُمْرَةِ، أَوْ لَيَثْنِيَنَّهُمَا جَمِيعًا
+
+('Isa will say 'Ihlāl' from the mountain highway of 'Ar-Rawḥā'' for Hajj, 'Umrah or both.) Muslim also recorded it. Ahmad recorded that Abu Hurayrah said that the Prophet ﷺ said,
+
+يَنْزِلُ عِيسَى ابْنُ مَرْيَمَ فَيَقْتُلُ الْخِنْزِيرَ، وَيَمْحُو الصَّلِيبَ، وَتُجْمَعُ لَهُ الصَّلَاةُ، وَيُعْطَى الْمَالُ حَتَّى لَا يُقْبَلَ، وَيَضَعُ الْخَرَاجَ، وَيَنْزِلُ الرَّوْحَاءَ فَيَحُجُّ مِنْهَا أَوْ يَعْتَمِرُ أَوْ يَجْمَعُهُمَا
+
+('Isa, son of Maryam, will descend and will kill the pig, break the cross, lead the prayer in congregation and give away wealth until it is no longer accepted by anyone. He will also abolish the Jizyah and go to Ar-Rawha' from where he will go to perform Hajj, 'Umrah or both.) Abu Hurayrah then recited,
+
+وَإِن مِّنْ أَهْلِ الْكِتَابِ إِلَّا لَيُؤْمِنَنَّ بِهِ قَبْلَ مَوْتِهِ
+
+(And there is none of the People of the Scripture, but must believe in him, before his death.) Hanzalah said, "Abu Hurayrah added, 'Will believe in 'Isa before 'Isa dies,' but I do not know if this was a part of the Prophet's Hadith or if it was something that Abu Hurayrah said on his own. " Ibn Abi Hatim also recorded this Hadith.
+
+Another Hadith
+
+Al-Bukhari recorded that Abu Hurayrah said that the Messenger of Allah ﷺ said,
+
+كَيْفَ بِكُمْ إِذَا نَزَلَ فِيكُمُ الْمَسِيحُ ابْنُ مَرْيَمَ وَإِمَامُكُمْ مِنْكُم
+
+(How will you be when Al-Masih, son of Maryam ('Isa) descends among you while your Imam is from among yourselves?) Imam Ahmad and Muslim also recorded this Hadith.
+
+Another Hadith
+
+Imam Ahmad recorded that Abu Hurayrah said that the Prophet ﷺ said,
+
+الْأَنْبِيَاءُ إِخْوَةٌ لِعَلَّاتٍ، أُمَّهَاتُهُمْ شَتَّى، وَدِينُهُمْ وَاحِدٌ، وَإِنِّي أَوْلَى النَّاسِ بِعِيسَى ابْنِ مَرْيَمَ، لِأَنَّهُ لَمْ يَكُنْ نَبِيٌّ بَيْنِي وَبَيْنَهُ، وَإِنَّهُ نَازِلٌ فَإِذَا رَأَيْتُمُوهُ فَاعْرِفُوهُ: رَجُلٌ مَرْبُوعٌ إِلَى الْحُمْرَةِ وَالْبَيَاضِ، عَلَيْهِ ثَوْبَانِ مُمَصَّرَانِ، كَأَنَّ رَأْسَهُ يَقْطُرُ، وَإِنْ لَمْ يُصِبْهُ بَلَلٌ، فَيَدُقُّ الصَّلِيبَ، وَيَقْتُلُ الْخِنْزِيرَ، وَيَضَعُ الْجِزْيَةَ، وَيَدْعُو النَّاسَ إِلَى الْإِسْلَامِ، وَيُهْلِكُ اللهُ فِي زَمَانِهِ الْمِلَلَ كُلَّهَا إِلَّا الْإِسْلَامَ، وَيُهْلِكُ اللهُ فِي زَمَانِهِ الْمَسِيحَ الدَّجَّالَ، ثُمَّ تَقَعُ الْأَمَنَةُ عَلَى الْأَرْضِ حَتَّى تَرْتَعَ الْأُسُودُ مَعَ الْإِبِلِ، وَالنِّمَارُ مَعَ الْبَقَرِ، وَالذِّئَابُ مَعَ الْغَنَمِ، وَيَلْعَبُ الصِّبْيَانُ بِالحَيَّاتِ لَا تَضُرُّهُمْ، فَيَمْكُثُ أَرْبَعِينَ سَنَةً ثُمَّ يُتَوَفَّى، وَيُصَلِّي عَلَيْهِ الْمُسْلِمُونَ
+
+(The Prophets are paternal brothers; their mothers are different, but their religion is one. I, more than any of mankind, have more right to 'Isa, son of Maryam, for there was no Prophet between him and I. He will descend, and if you see him, know him. He is a well-built man, (the color of his skin) between red and white. He will descend while wearing two long, light yellow garments. His head appears to be dripping water, even though no moisture touched it. He will break the cross, kill the pig, and banish the Jizyah and will call the people to Islam. During his time, Allah will destroy all religions except Islam and Allah will destroy Al-Masih Ad-Dajjal (the False Messiah). Safety will then fill the earth, so much so that the lions will mingle with camels, tigers with cattle and wolves with sheep. Children will play with snakes, and they will not harm them. 'Isa will remain for forty years and then will die, and Muslims will offer the funeral prayer for him.) Abu Dawud also recorded it.
+
+Another Hadith
+
+In his Sahih, Muslim recorded that Abu Hurayrah related to the Messenger of Allah ﷺ that he said,
+
+لَا تَقُومُ السَّاعَةُ حَتَّى يَنْزِلَ الرُّومُ بِالْأَعْمَاقِ أَوَ بِدَابِقَ، فَيَخْرُجُ إِلَيْهِمُ جَيْشٌ مِنَ الْمَدِينَةِ مِنْ خِيَارِ أَهْلِ الْأَرْضِ يَوْمَئِذٍ، فَإِذَا تَصَافُّوا، قَالَتِ الرُّومُ: خَلُّوا بَيْنَنَا وَبَيْنَ الَّذِينَ سَبَوْا مِنَّا نُقَاتِلْهُمْ، فَيَقُولُ الْمُسْلِمُونَ: لَا وَاللهِ، لَا نُخَلِّي بَيْنَكُمْ وَبَيْنَ إِخْوَانِنَا، فَيُقَاتِلُونَهُمْ، (فَيَنْهَزِمُ) ثُلُثٌ لَا يَتُوبُ اللهُ عَلَيْهِمْ أَبَدًا، وَيُقْتَلُ ثُلُثُهُ أَفْضَلُ الشُّهَدَاءِ عِنْدَ اللهِ، وَيَفْتَتحُ الثَّلُثُ لَا يُفْتَنُونَ أَبَدًا، فَيَفْتَتِحُونَ قُسْطُنْطِينِيَّةَ، فَبَيْنَمَا هُمْ يَقْسِمُونَ الْغَنَائِمَ قَدْ عَلَّقُوا سُيُوفَهُمْ بِالزَّيْتُونِ، إِذْ صَاحَ فِيهِمُ الشَّيْطَانُ: إِنَّ الْمَسِيحَ قَدْ خَلَفَكُمْ فِي أَهْلِيكُمْ، فَيَخْرُجُونَ، وَذَلِكَ بَاطِلٌ، فَإِذَا جَاءُوا الشَّامَ خَرَجَ، فَبَيْنَمَا هُمْ يُعِدُّونَ لِلْقِتَالِ يُسَوُّونَ الصُّفُوفَ، إِذْ أُقِيَمتِ الصَّلَاةُ فَيَنْزِلُ عِيسَى ابْنُ مَرْيَمَ، فَأَمَّهُمْ، فَإِذَا رَآهُ عَدُوُّ اللهِ، ذَابَ كَمَا يَذُوبُ الْمِلْحُ فِي الْمَاءِ، فَلَوْ تَرَكَهُ لَانْذَابَ حَتَّى يَهْلِكَ، وَلكِنْ يَقْتُلُهُ اللهُ بِيَدِهِ، فَيُرِيهِمْ دَمَهُ فِي حَرْبَتِهِ
+
+(The (Last) Hour will not start until the Romans occupy Al-A'maq or Dabiq. An army, comprised of the best of the people of the earth then, will come from Al-Madinah and challenge them. When they camp face to face, the Romans will say, 'Let us fight those who captured some of us.' The Muslims will say, 'Nay! By Allah, we will never let you get to our brothers.' They will fight them. A third of the (Muslim) army will flee in defeat, and those are the ones whom Allah will never forgive. Another third will be killed, and those are the best martyrs before Allah. The last third will be victorious, and this third will never be stricken with Fitnah, and they will capture Constantinople (Istanbul). While they are dividing war booty, after hanging their swords on olive trees, Shaytan will shout among them, saying, 'Al-Masih (Ad-Dajjal) has cornered your people'. They will leave to meet Ad-Dajjal in Ash-Sham. This will be a false warning, and when they reach Ash-Sham, Ad-Dajjal will then appear. When the Muslims are arranging their lines for battle and the prayer is called for, 'Isa, son of Maryam, will descend and lead them in prayer. When the enemy of Allah (the False Messiah) sees him, he will dissolve just as salt dissolves in water, and if any of him were left, he would continue dissolving until he died. Allah will kill him with the hand of 'Isa and will show the Muslims his blood on his spear.)
+
+Muslim recorded that 'Abdullah bin 'Amr said that the Messenger of Allah ﷺ said,
+
+لَتُقَاتِلُنَّ الْيَهُودَ فَلَتَقْتُلُنَّهُمْ، حَتى يَقُولَ الْحَجَرُ: يَامُسْلِمُ هَذَا يَهُودِيٌّ فَتَعَال فَاقْتُلْهُ
+
+(You will fight the Jews and will kill them, until the stone will say, 'O Muslim! There is a Jew here, so come and kill him.') Muslim recorded that Abu Hurayrah said that the Messenger of Allah ﷺ said,
+
+لَا تَقُومُ السَّاعَةُ حَتَّى يُقَاتِلَ الْمُسْلِمُونَ الْيَهُودَ، فَيَقْتُلُهُمُ الْمُسْلِمُونَ حَتَّى يَخْتَبِىءَ الْيَهُودِيُّ مِنْ وَرَاءِ الْحَجَرِ وَالشَّجَرِ، فَيَقُولُ الْحَجَرُ وَالشَّجَرُ: يَامُسْلِمُ يَاعَبْدَ اللهِ هَذَا يَهُودِيٌّ خَلْفِي فَتَعَالَ فَاقْتُلْهُ - إِلَّا الْغَرْقَدَ فَإِنَّهُ مِنْ شَجَرِ الْيَهُودِ
+
+(The Hour will not start, until after the Muslims fight the Jews and the Muslims kill them. The Jew will hide behind a stone or tree, and the tree will say, 'O Muslim! O servant of Allah! This is a Jew behind me, come and kill him.' Except Al-Gharqad, for it is a tree of the Jews.)
+
+Muslim bin Al-Hajjaj recorded in his Sahih that An-Nawwas bin Sam'an said, "The Messenger of Allah ﷺ, mentioned Ad-Dajjal one day and kept belittling him (because being blind, yet claiming to be Allah) and speaking in grave terms about him until we thought that he was hiding in gardens of date-trees (in Al-Madinah). When we went by the Messenger, he sensed this anxiety in us and said,
+
+مَا شَأْنُكُمْ؟
+
+(What is the matter with you?) We said, 'O Messenger of Allah! Earlier, you mentioned Ad-Dajjal and while belittling him you spoke gravely about him until we thought that he was hiding in gardens of date-trees (of Al-Madinah).' He said,
+
+غَيْرُ الدَّجَّالِ أَخْوَفُنِي عَلَيكُمْ، إِنْ يخْرُجْ وَأَنَا فِيكُمْ فَأَنَا حَجِيجُهُ دُونَكُمْ، وَإِنْ يَخْرُجْ وَلَسْتُ فِيكُمْ فَامْرُؤٌ حَجِيجُ نَفْسِهِ، واللهُ خَلِيفَتِي عَلى كُلِّ مُسْلمٍ. إِنَّهُ شَابٌّ قَطَطٌ، عَينُهُ طافِيةٌ كَأَنِّي أُشَبِّهُهُ بِعَبْدِ العُزَّى بْنِ قَطَنٍ، مَنْ أَدْرَكَهُ مِنْكُمْ فَلْيَقْرَأ عَلَيْهِ فَوَاتِحَ سُورَةِ الْكَهْفِ، إِنَّه خَارِجٌ مِنْ خَلَّةٍ بَيْنَ الشَّامِ والعِرَاقِ، فَعَاثَ يَمِينًا وَعَاثَ شِمَالًا، يَاعِبَادَ اللهِ فَاثْبُتوا
+
+(I fear other than Ad-Dajjal for you! If he appears while I am still among you, I will be his adversary on your behalf. If he appears while I am not among you, each one will depend on himself and Allah will be the Helper of every Muslim after me. He is young, with very curly hair and his eye is smashed. I thought that he looked like 'Abdul-'Uzza bin Qatan. Whoever lives long and meets Ad-Dajjal, then let him recite the beginnings of Surat Al-Kahf. He will appear on a pass between Ash-Sham (Syria) and Al-'Iraq. He will wreak havoc to the right and left. O Servants of Allah! Hold fast.)
+
+We said, 'O Messenger of Allah! How long will he stay on earth?' He said,
+
+أَرْبَعُونَ يَوْمًا، يَومٌ كَسَنَةٍ، وَيَوْمٌ كَشَهْرٍ، وَيَوْمٌ كَجُمُعَةٍ، وَسَائِرُ أَيَّامِهِ كَأَيَّامِكُم
+
+(Forty days: One day as long as a year, one day as long as a month and one day as long as a week. The rest of his days will be as long as one of your ordinary days.) We said, 'O Messenger of Allah! As for the day that is like a year, will the prayers of one day suffice for it?' He said,
+
+لَا، اقْدُرُوا لَهُ قَدْرَهُ
+
+(No. Count for its due measure.) We said, 'O Messenger of Allah, how will his speed be on earth?' He said,
+
+كَالْغَيْثِ اسْتَدْبَرَتْهُ الرِّيحُ فَيَأْتِي عَلى قَوْمٍ فَيَدْعُوهُمْ فَيُؤْمِنُون بِهِ، وَيَسْتَجِيبُونَ لَهُ، فَيَأْمُرُ السَّمَاءَ فَتُمْطِرُ، وَالأَرْضَ فَتُنْبِتُ، فَتَرُوحُ عَلَيْهِمْ سَارِحَتُهُمْ أَطْوَلَ مَا كَانَتْ ذُرًى، وَأَسْبَغَهُ ضُرُوعًا، وَأَمَدَّهُ خَوَاصِرَ، ثُمَّ يَأْتِي الْقَوْمَ فَيَدْعُوهُمْ فَيَرُدُّونَ عَلَيْهِ قَوْلَهُ، فَيَنْصَرِفُ عَنْهُمْ فَيُصْبِحُونَ مُمْحِلِينَ لَيْسَ بِأَيْدِيهِمْ شَيْءٌ مِنْ أَمْوَالِهِمْ وَيَمُرُّ بِالْخَرِبَةِ فَيَقُولُ لَهَا: أَخْرِجِي كُنُوزَكِ، فَتَتْبَعُهُ كُنُوزُهَا كَيعَاسِيبِ النَّحْلِ، ثُمَّ يَدْعُو رَجُلًا مُمْتَلِئًا شَبَابًا فَيَضْرِبُهُ بِالسَّيْفِ، فَيَقْطَعُهُ جِزْلَتَيْنِ رَمْيَةَ الْغَرَضِ، ثُمَّ يَدْعُوهُ، فَيُقْبِلُ وَيَتَهَلَّلُ وَجْهُهُ وَيَضْحَكُ، فَبَيْنَما هُوَ كَذَلِكَ إِذْ بَعَثَ اللهُ الْمَسِيح ابْنَ مَرْيَمَ عَلَيْهِ السَّلَامُ،
+
+فَيَنْزِلُ عِنْدَ الـمَنَارَةِ البَيْضَاءِ شَرْقِيَّ دِمَشْقَ بَيْنَ مَهْرُودَتَيْنِ، وَاضِعًا كَفَّيْهِ عَلَى أَجْنِحَةِ مَلَكَيْنِ، إِذَا طَأْطَأَ رَأْسَهُ قَطَرَ، وَإذَا رَفَعَهُ تَحَدَّرَ مِنْهُ جُمَانٌ كَاللُّؤْلُؤِ، وَلَا يَحِلُّ لِكَافِرٍ يَجِدُ رِيحَ نَفَسِهِ إِلَّا مَاتَ، وَنَفَسُهُ يَنْتَهِي حَيْثُ يَنْتَهِي طَرَفُهُ، فَيَطْلُبُهُ حَتَّى يُدْرِكَهُ بِبَابِ لُدٍّ، فَيَقْتُلُهُ، ثُمَّ يَأْتِي عِيسَى عَلَيْهِ السَّلَامُ قَوْمًا قَدْ عَصَمَهُمُ اللهُ مِنْهُ، فَيَمْسَحُ عَنْ وُجُوهِهِمْ، وَيُحَدِّثُهُمْ بدَرَجَاتِهِمْ فِي الْجَنَّةِ، فَبَيْنَمَا هُوَ كَذَلِكَ إِذْ أَوْحَى اللهُ عَزَّ وَجَلَّ إِلَى عِيسَى: إِنِّي قَدْ أَخْرَجْتُ عِبَادًا لِي لَا يَدَانِ لِأَحَدٍ بِقِتَالِهِمْ، فَحَرِّزْ عِبَادِي إِلَى الطُّورِ، ويَبْعَثُ اللهُ يَأْجُوجَ وَمَأْجُوجَ وَهُمْ مِنْ كُلِّ حَدَبٍ يَنْسِلُونَ، فَيَمُرُّ أَوَّلُهُمْ عَلَى بُحَيْرَةِ طَبَرِيَّةَ فَيَشْرَبُونَ مَا فِيهَا، وَيَمُرُّ آخِرُهُمْ فَيقُولُونَ: لَقَدْ كَانَ بِهذِهِ مَرَّةً مَاءٌ، ويُحْصَرُ نَبِيُّ اللهِ عِيسَى وَأَصْحَابُهُ،
+
+حَتَّى يَكُونَ رَأْسُ الثَّورِ لِأَحَدِهِمْ خَيْرٌ مِنْ مِائَةِ دِينَارٍ لِأَحَدِكُمُ الْيَوْمَ، فَيَرْغَبُ نَبِيُّ اللهِ عِيسَى وَأَصْحَابُهُ، فَيُرسِلُ اللهُ عَلَيْهِمُ النَّغَفَ فِي رِقَابِهِمْ، فَيُصْبِحُونَ فَرْسَى كَمَوْتِ نَفْسٍ وَاحِدَةٍ، ثُمَّ يَهْبِطُ نَبِيُّ اللهِ عِيسَى وَأَصْحَابُهُ إِلَى الْأَرْضِ، فَلَا يَجِدُونَ فِي الْأَرْضِ مَوْضِعَ شِبْرٍ إِلَّا مَلَأَهُ زَهَمُهُمْ ونَتْنُهُمْ، فَيَرْغَبُ نَبِيُّ اللهِ عِيسَى وَأَصْحَابُهُ إِلَى اللهِ، فَيُرْسِلُ اللهُ، طَيْرًا كَأَعْنَاقِ الْبُخْتِ، فَتَحْمِلُهُمْ فَتَطْرَحُهُمْ حَيْثَ شَاءَ اللهُ، ثُمَّ يُرْسِلُ اللهُ مَطَرًا لَا يَكُنُّ مِنْهُ بَيْتُ مَدَرٍ، وَلَا وَبَرٍ، فَيَغْسِلُ الْأَرْضَ حَتَّى يَتْرُكَهَا كَالزَّلَفَةِ، ثُمَّ يُقَالُ لِلْأَرْضِ: أَخْرِجِي ثَمَرَكِ وَرُدِّي بَرَكَتَكِ، فَيَوْمَئِذٍ تَأْكُلُ الْعِصَابَةُ مِنَ الرُّمَّانَةِ، وَيَسْتَظِلُّونَ بِقِحْفِهَا، وَيُبَارِكُ اللهُ فِي الرِّسْلِ حَتَّى إِنَّ اللِّقْحَةَ مِنَ الْإِبِلِ لَتَكْفِي الفِئَامَ، (مِنَ النَّاسِ وَاللُّقْمَةَ مِنَ الْفَمِ لَتَكْفِي الْفَخِذَ مِنَ النَّاسِ)، فَبَيْنَما هُمْ كَذَلِكَ إِذْ بَعَثَ اللهُ رِيحًا طَيِّبَةً، فَتَأْخُذُهُمْ تَحْتَ آبَاطِهِمْ، فَتَقْبِضُ رُوحَ كُلِّ مُؤْمِنٍ وَكُلِّ مُسْلِمٍ، وَيَبْقَى شِرَارُ النَّاسِ يَتَهَارَجُونَ فِيهَا تَهَارُجَ الْحُمُرِ، فَعَلَيْهِمْ تَقُومُ السَّاعَةُ
+
+(Like the storm when driven by the wind. He will come to a people and will call them (to his worship), and they will believe in him and accept his call. He will order the sky and it will rain, the land and it will grow (vegetation). Their cattle will return to them with their hair the longest, their udders the fullest (with milk) and their stomachs the fattest. He will come to a different people and will call them (to his worship), and they will reject his call. He will then leave them. They will wake up in the morning destitute, missing all of their possessions. He will pass by a deserted land and will say to it, 'Bring out your treasures', and its treasures will follow him just like swarms of bees. He will summon a man full of youth and will strike him with the sword once and will cut him into two pieces (and will separate between them like) the distance (between the hunter and) the game. He will call the dead man and he will come, and his face will radiant with pleasure and laughter. Afterwards (while all this is happening with Ad-Dajjal), Allah will send Al-Masih ('Isa), son of Maryam down. He will descend close to the white minaret to the east of Damascus. He will be wearing garments lightly colored with saffron and his hands will be placed on the wings of two angels. Whenever he lowers his head droplets fall. Whenever he raises his head, precious stones that look like pearls fall. No disbeliever can survive 'Isa's breath, which reaches the distance of his sight. He will pursue Ad-Dajjal and will follow him to the doors of (the Palestinian city of) Ludd where he will kill him. A group of people who, by Allah's help, resisted and survived Ad-Dajjal, will pass by 'Isa and he will anoint their faces and inform them about their grades in Paradise. Shortly afterwards, while this is happening with 'Isa, Allah will reveal to him, 'I raised a people of My creation that no one can fight. Therefore, gather My servants to At-Tur (the mountain of Musa in Sinai).' Then, Allah will raise Gog and Magog and they will swiftly swarm from every mound. Their front forces will reach Lake Tabariah (Sea of Galilee) and will drink all its water. The last of their forces will say as they pass by the lake, 'This lake once had water!' Meanwhile, 'Isa, Allah's Prophet, will be cornered along with his companions until the head of a bull will be more precious to them than a hundred Dinars to you today. 'Isa, Allah's Prophet, and his companions will invoke Allah for help and Allah will send An-Naghaf (a worm) into the necks of Gog and Magog! The morning will come, and they will all be dead as if it was the death of one soul. Afterwards, 'Isa, the Prophet of Allah, will come down with his companions to the low grounds (from Mount At-Tur). They will find that no space of a hand-span on the earth was free of their fat and rot (rotten corpses). 'Isa, the Prophet of Allah, and his companions will seek Allah in supplication. Allah will send birds as large as the necks of camels. They will carry them (the corpses of Gog and Magog) and will throw them wherever Allah wills. Afterwards, Allah will send rain that no house made of mud or animal hair will be saved from, and it will cleanse the earth until it is as clean as a mirror. The earth will be commanded (by Allah), 'Produce your fruits and regain your blessing.' Then, the group will eat from a pomegranate and will take shelter under the shade of its skin. Milk will be blessed, so much so that the milk-producing camel will yield large amounts that suffice for a large group of people. Meanwhile, Allah will send a pure wind that will overcome Muslims from under their arms and will take the soul of every believer and Muslim. Only the evildoers among people will remain. They will indulge in shameless public sex like that of donkeys. On them, the Hour will begin.)
+
+Imam Ahmad and the collectors of the Sunan also recorded this Hadith. We will mention this Hadith again using the chain of narration collected by Ahmad explaining Allah's statement in Surat Al-Anbiya' (chapter 21),
+
+حَتَّىٰ إِذَا فُتِحَتْ يَأْجُوجُ وَمَأْجُوجُ
+
+(Until, when Ya'juj and Ma'juj (Gog and Magog people) are let loose (from their barrier).)[21:96]
+
+In our time, in the year seven hundred and forty-one, a white minaret was built in the Umayyad Masjid (in Damascus) made of stone, in place of the minaret that was destroyed by a fire which the Christians were suspected to have started. May Allah's continued curses descend on the Christians until the Day of Resurrection. There is a strong feeling that this minaret is the one that 'Isa will descend on, according to this Hadith.
+
+Another Hadith
+
+Muslim recorded in his Sahih that Ya'qub bin 'Asim bin 'Urwah bin Mas'ud Ath-Thaqafi said, "I heard 'Abdullah bin 'Amr saying to a man who asked him, 'What is this Hadith that you are narrating? You claim that the Hour will start on such and such date.' He said, 'Subhan Allah (glory be to Allah),' or he said, 'There is no deity worthy of worship except Allah.'
+
+I almost decided to never narrate anything to anyone. I only said, "Soon, you will witness tremendous incidents, the House (the Ka'bah) will be destroyed by fire, and such and such things will occur." He then said, 'The Messenger of Allah ﷺ said,
+
+يَخْرُجُ الدَّجَّالُ فِي أُمَّتِي فَيَمْكُثُ أَرْبَعِينَ، لَا أَدْرِي أَرْبَعِينَ يَوْمًا أَوْ أَرْبَعِينَ شَهْرًا أَوْ أَرْبَعِينَ عَامًا، فَيَبْعَثُ اللهُ تَعَالى عِيسَى ابْنَ مَرْيَمَ كَأَنَّهُ عُرْوَةُ بْنُ مَسْعُودٍ، فَيَطْلُبُهُ فَيُهْلِكُهُ، ثُمَّ يَمْكُثُ النَّاسُ سَبْعَ سِنِينَ لَيْسَ بَيْنَ اثْنَيْنِ عَدَاوَةٌ، ثُمَّ يُرْسِلُ اللهُ ريحًا بَارِدَةً مِنْ قِبَلِ الشَّامِ، فَلَا يَبْقَى عَلَى وَجْهِ الْأَرْضِ أَحَدٌ فِي قَلْبِهِ مِثْقَالُ ذَرَّةٍ مِنْ خَيْرٍ - أَوْ إِيمَانٍ - إِلَّا قَبَضَتْهُ، حَتَّى لَوْ أَنَّ أَحَدَكُمْ دَخَلَ فِي كَبِدِ جَبَلٍ لَدَخَلَتْه عَلَيْهِ حَتَّى تَقْبِضَهُ
+
+قال: سمعتها من رسول الله صلّى الله عليه وسلّم
+
+فَيَبْقَى شِرَارُ النَّاسِ فِي خِفَّةِ الطَّيْرِ وَأَحْلَامِ السِّبَاعِ، لَا يَعْرِفُونَ مَعْرُوفًا، وَلَا يُنْكِرُون مُنْكرًا، فَيَتمَثَّلُ لَهُمُ الشَّيْطَانُ فَيَقُولُ: أَلَا تَسْتَجِيبُونَ؟ فَيَقُولُونَ: فَمَا تَأْمُرُنَا؟ فَيَأْمُرُهُمْ بِعِبَادَةِ الْأَوْثَانِ، وَهُمْ فِي ذلِكَ دَارٌّ رِزْقُهُمْ، حَسَنٌ عَيْشُهُمْ، ثُمَّ يُنْفَخُ فِي الصُّورِ فَلَا يَسْمَعُهُ أَحَدٌ إِلَّا أَصْغَى لِيتًا وَرَفَعَ لِيتًا، قَالَ: وَأَوَّلُ مَنْ يَسْمَعُهُ رَجُلٌ يَلُوطُ حَوْضَ إِبِلِهِ، قَالَ: فَيَصْعَقُ وَيَصْعَقُ النَّاسُ، ثُمَّ يُرْسِلُ اللهُ - أَوْ قَالَ: يُنْزِلُ اللهُ - مَطَرًا كَأَنَّهُ الطَّلُّ - أَوْ قَالَ الظِّلُّ - نُعْمَانُ الشَّاكُّ - فَتَنْبُتُ مِنْهُ أَجْسَادُ النَّاسِ، ثُمَّ يُنَفَخُ فِيهِ أُخْرَى فَإِذَا هُمْ قِيَامٌ يَنْظُرُونَ. ثُمَّ يُقَالُ: أَيُّهَا النَّاسُ: هَلُمُّوا إِلى رَبِّكُم
+
+(Ad-Dajjal will appear in my nation and will remain for forty. (The narrator doubts whether it is forty days, months, or years).Then, Allah will send down 'Isa, son of Maryam, looking just like 'Urwah bin Mas'ud and he will seek Ad-Dajjal and will kill him. People will remain for seven years with no enmity between any two. Allah will send a cool wind from As-Sham that will leave no man on the face of the earth who has even the weight of an atom of good or faith, but will capture (his soul). Even if one of you takes refuge in the middle of a mountain, it will find him and capture (his soul). Afterwards, only the most evil people will remain. They will be as light as birds, with the comprehension of beasts. They will not know or enjoin righteousness or forbid or know evil. Shaytan will appear to them and will say to them, 'Would you follow me.' They will say, 'What do you command us?' He will command them to worship the idols. Meanwhile, their provision will come to them in abundance and their life will be good. Then the Trumpet will be blown and every person who hears it, will lower one side of his head and raise the other side (trying to hear that distant sound). The first man who will hear the Trumpet is someone who is preparing the water pool for his camels, and he and the people will swoon away. Allah will send down heavy rain and the bodies of people will grow with it. The Trumpet will be blown in again and the people will be resurrected and looking all about, staring. It will be said to them, 'O people! Come to your Lord,'
+
+وَقِفُوهُمْ إِنَّهُم مَّسْئُولُونَ
+
+(But stop them, verily, they are to be questioned.)[37:24]
+
+ثم يقال: أخرجوا بعث النار، فيقال: من كم؟ فيقال: من كل ألف تسعمائة وتسعة وتسعين، قال: فذلك يوم
+
+(It will then be said, 'Bring forth the share of the Fire.' It will be asked, 'How many?' It will be said, 'From every one thousand, nine hundred and ninety-nine.' That Day is when,)
+
+يَجْعَلُ الْوِلْدَانَ شِيبًا
+
+(the children will turn grey-headed,)[73:17] and,
+
+يَوْمَ يُكْشَفُ عَن سَاقٍ
+
+(The Day when the Shin shall be laid bare).) [68:42]"
+
+The Description of 'Isa, upon him be Peace
+
+As mentioned earlier, 'Abdur-Rahman bin Adam narrated that Abu Hurayrah said that the Prophet ﷺ said,
+
+فَإِذَا رَأَيْتُمُوهُ فَاعْرِفُوهُ: رَجُلٌ مَرْبُوعٌ إِلَى الْحُمْرَةٍ وَالْبَيَاضِ، عَلَيْهِ ثَوْبَانِ مُمَصَّرَانِ، كَأَنَّ رَأْسَهُ يَقْطُرُ وَإِنْ لَمْ يُصِبْهُ بَلَلٌ
+
+(If you see 'Isa, know him. He is a well-built man, (the color of his skin) between red and white. He will descend while wearing light yellow garments. His head looks like it is dripping water, even though no moisture touched it.) In the Hadith that An-Nawwas bin Sam'an narrated,
+
+فَيَنْزِلُ عِنْدَ الْمَنَارَةِ الْبَيْضَاءِ شَرْقِيَّ دِمَشْقَ بَيْنَ مَهْرُودَتَيْنِ وَاضِعًا كَفَّيْهِ عَلَى أَجْنِحَةِ مَلَكَيْنِ، إِذَا طَأْطَأَ رَأْسَهُ قَطَرَ، وَإِذَا رَفَعهُ تَحَدَّرَ مِنْهُ مِثْلُ جُمَانِ اللُّؤْلُؤ، لَا يَحِلُّ لِكَافِرٍ يَجِدُ رِيحَ نَفَسِهِ إِلَّا مَاتَ، وَنَفَسُهُ يَنْتَهِي حَيْثُ يَنْتَهِي طَرَفُهُ
+
+(He will descend close to the white minaret to the east of Damascus. He will be wearing two garments lightly colored with saffron, having his hands on the wings of two angels. Whenever he lowers his head, drops will fall off of it. Whenever he raises his head, precious jewels like pearls will fall off of it. No disbeliever can survive 'Isa's breath, and his breath reaches the distance of his sight.) Al-Bukhari and Muslim recorded that Abu Hurayrah said that the Messenger of Allah ﷺ said,
+
+لَيْلَةَ أُسْرِيَ بِي لَقِيتُ مُوسَى
+
+(I met Musa on the night of my Ascension to heaven.) The Prophet ﷺ then described him saying, as I think,
+
+مُضْطَرِبٌ، رَجِلُ الرَّأْسِ كَأَنَّهُ مِنْ رِجَالِ شَنُوءَةَ
+
+(He was a tall person with hair as if he was one of the men from the tribe of Shanu'ah.) The Prophet ﷺ further said,
+
+وَلقِيتُ عِيسَى
+
+فنعته النبي صلّى الله عليه وسلّم فقال:
+
+رَبْعَةٌ أَحْمَرُ كَأَنَّهُ خَرَجَ مِنْ دِيمَاسٍ
+
+يعني الحمام،
+
+وَرَأَيْتُ إبْرَاهِيمَ وَأَنا أَشْبَهُ وَلَدِهِ بِهِ
+
+('I met 'Isa.' The Prophet ﷺ described him saying, 'He was of moderate height and was red-faced as if he had just come out of a bathroom. I saw Ibrahim whom I resembled more than any of his children did.')
+
+Al-Bukhari recorded that Mujahid said that Ibn 'Umar said that the Messenger of Allah ﷺ said,
+
+رَأَيْتُ مُوسَى وَعِيسَى وَإِبْرَاهِيمَ، فَأَمَّا عِيسَى فَأَحْمَرُ جَعْدٌ عَرِيضُ الصَّدْرِ، وَأَمَّا مُوسَى فَآدَمُ جَسِيمٌ سَبْطٌ، كَأَنَّهُ مِنْ رِجَالِ الزُّطِّ
+
+(I saw Musa, 'Isa and Ibrahim. 'Isa was of red complexion and had curly hair and a broad chest. Musa was of brown complexion and had straight hair and a tall stature, as if he was from the people of Az-Zutt.)
+
+Al-Bukhari and Muslim recorded that Ibrahim said that 'Abdullah bin 'Umar said, "The Prophet ﷺ once mentioned the False Messiah (Al-Masih Ad-Dajjal) to people, saying,
+
+إنَّ اللهَ لَيْسَ بِأَعْوَرَ، أَلَا إِنَّ الْمَسِيحَ الدَّجَّالَ أَعْوَرُ الْعَيْنِ الْيُمْنَى، كَأَنَّ عَيْنَهُ عِنَبَةٌ طَافِيَةٌ
+
+(Allah is not blind in His Eye. Al-Masih Ad-Dajjal is blind in his right eye. His eye is like a protruding grape.)" Muslim recorded that the Messenger of Allah ﷺ said,
+
+وَأرَانِي اللهُ عِنْدَ الْكَعْبَةِ فِي الْمَنَامِ، فَإِذَا رَجُلٌ آدَمُ كَأَحْسَنِ مَا تَرَى مِنْ أُدْمِ الرِّجَالِ، تَضْرِبُ لِمَّتُهُ بَيْن مَنْكِبَيْهِ، رَجِلُ الشَّعْرِ، يَقْطُرُ رَأْسُهُ مَاءً، وَاضِعًا يَدَيْهِ عَلى مَنْكِبَيْ رَجُلَيْنِ، وَهُوَ يَطُوفُ بِالْبَيْتِ، فَقُلْتُ: مَنْ هَذَا؟ فَقَالُوا: هُوَ الْمَسِيحُ ابْنُ مَرْيَمَ، ثُمَّ رَأَيْتُ وَرَاءَهُ رَجُلًا جَعْدًا قَطِطًا، أَعْوَرَ الْعَيْنِ الْيُمْنَى، كَأَشْبَهِ مَنْ رَأَيْتُ بِابْنِ قَطَنٍ، وَاضِعًا يَدَيْهِ عَلى مَنْكِبَي رَجُلٍ، يَطُوفُ بِالْبَيْتِ، فَقُلْتُ: مَنْ هَذَا؟ قَالُوا: الْمَسِيحُ الدَّجَّالُ
+
+(In a dream, I was at the Ka'bah and Allah made me see a light-colored man, a color that is as beautiful as a light-colored man could be, with combed hair that reached his shoulders. His hair was dripping water, and he was leaning on the shoulders of two men while circling the Ka'bah. I asked, 'Who is this man?' I was told, 'This is the Al-Masih, son of Maryam.' Behind him, I saw a man with very curly hair who was blind in his right eye. He looked exactly as Ibn Qatan, and he was leaning on the shoulder of a man while circling the House. I asked, 'Who is this man?' I was told, 'He is Al-Masih Ad-Dajjal.')
+
+Al-Bukhari recorded that Salim said that his father said, "No, By Allah! The Prophet ﷺ did not say that 'Isa was of red complexion but said,
+
+بَيْنَمَا أَنَا نَائِمٌ أَطُوفُ بِالْكَعْبَةِ، فَإِذَا رَجُلٌ آدَمُ سَبْطُ الشَّعْرِ، يَتَهَادَى بَيْنَ رَجُلَيْنِ، يَنْطُفُ رَأْسُهُ مَاءً - أَوْ يُهَرَاقُ رَأْسُهُ مَاءً - فَقُلْتُ: مَنْ هَذَا؟ فَقَالُوا: ابْنُ مَرْيَمَ، فَذَهَبْتُ أَلْتَفِتُ، فَإِذَا رَجُلٌ أَحْمَرُ جَسِيمٌ، جَعْدُ الرَّاْسِ، أَعْوَرُ عَيْنِهِ الْيُمْنَى، كَأَنَّ عَيْنَهُ عِنَبَةٌ طَافِيَةٌ، قُلْتُ: مَنْ هَذَا؟ قَالُو: الدَّجَّالُ، وَأَقْرَبُ النَّاسِ بِهِ شَبَهًا ابْنُ قَطَنِ
+
+(While I was asleep circumambulating the Ka'bah (in my dream), I suddenly saw a man of brown complexion and ample hair walking between two men with water dripping from his head. I asked, 'Who is this?' The people said, 'He is the son of Maryam.' Then I looked behind and I saw a red-complexioned, fat, curly-haired man, blind in the right eye, which looked like a bulging out grape. I asked, 'Who is this?' They replied, 'He is Ad-Dajjal.' The person he most resembled is Ibn Qatan.)"
+
+Az-Zuhri commented that Ibn Qatan was a man from the tribe of Khuza'ah who died during the time of Jahiliyyah. This is the wording of Al-Bukhari. Allah's statement,
+
+وَيَوْمَ الْقِيَامَةِ يَكُونُ عَلَيْهِمْ شَهِيدًا
+
+(And on the Day of Resurrection, he ('Isa) will be a witness against them) Qatadah said, "He will bear witness before them that he has delivered the Message from Allah and that he is but a servant of His." In a similar statement in the end of Surat Al-Ma'idah,
+
+وَإِذْ قَالَ اللَّهُ يَا عِيسَى ابْنَ مَرْيَمَ أَأَنتَ قُلْتَ لِلنَّاسِ
+
+(And (remember) when Allah will say (on the Day of Resurrection): "O 'Isa, son of Maryam! Did you say unto men...")[5:116] until,
+
+الْعَزِيزُ الْحَكِيمُ
+
+(Almighty, the All-Wise.)[5:118]
 
 ### al-Tabari (Arabic)
 
@@ -308,9 +684,41 @@ In the chapter about the Prophets in his Sahih, under, "The Descent of 'Isa, Son
 
 وإنما قلنا ذلك أولى القولين بالصواب، لأن الذين شهدوا عيسى من الحواريين، لو كانوا في حال ما رُفع عيسى وأُلقي شبهه على من ألقي عليه شَبَهه، كانوا قد عاينوا وهو يرفع من بينهم، [[في المطبوعة: "عاينوا عيسى وهو يرفع" بالزيادة، وأثبت ما في المخطوطة، فهو مستقيم.]] وأثبتوا الذي ألقي عليه شبهه، وعاينوه متحوِّلا في صورته بعد الذي كان به من صورة نفسه بمحضَرٍ منهم، لم يخفَ ذلك من أمر عيسى وأمر من ألقي عليه شبهه عليهم، مع معاينتهم ذلك كله، ولم يلتبس ولم يشكل عليهم، وإن أشكل على غيرهم من أعدائهم من اليهود أن المقتول والمصلوب كان غير عيسى، وأن عيسى رفع من بينهم حيًّا.
 
-وكيف يجوز أن يكون كان أشكل ذلك عليهم، وقد سمعوا من عيسى مقالته:"من يلقى عليه شبهي، ويكون رفيقي في الجنة"، إن كان قال لهم ذلك، وسمعوا جواب مُجيبه منهم:"أنا"، وعاينوا تحوُّل المجيب في صورة عيسى بعقب جوابه؟ ولكن ذلك كان= إن شاء الله= على نحو ما وصف وهب بن منبه: إما أن يكون القوم الذين كانوا مع عيسى في البيت الذي رفع منه من حواريه، حوَّلهم الله جميعًا في صورة عيسى حين أراد الله رفعه، فلم يثبتوا عيسى معرفةً بعينه من غيره لتشابه صور جميعهم، فقتلت اليهود منهم من قتلت وهم يُرَونه بصورة عيسى، ويحسبونه إياه، لأنهم كانوا به عارفين قبل ذلك. وظنّ الذين كانوا في البيت مع عيسى مثل الذي ظنت اليهود، لأنهم لم يميِّزوا شخصَ عيسى من شخص غيره، لتشابه شخصه وشخص غيره ممن كان معه في البيت. فاتفقوا جميعهم= يعني: اليهود والنصارى [[في المطبوعة: "أعني"، وأثبت ما في المخطوطة.]] = من أجل ذلك على أن المقتول كان عيسى، ولم يكن به، ولكنه شُبِّه لهم، كما قال الله جل ثناؤه:"وما قتلوه وم
+وكيف يجوز أن يكون كان أشكل ذلك عليهم، وقد سمعوا من عيسى مقالته:"من يلقى عليه شبهي، ويكون رفيقي في الجنة"، إن كان قال لهم ذلك، وسمعوا جواب مُجيبه منهم:"أنا"، وعاينوا تحوُّل المجيب في صورة عيسى بعقب جوابه؟ ولكن ذلك كان= إن شاء الله= على نحو ما وصف وهب بن منبه: إما أن يكون القوم الذين كانوا مع عيسى في البيت الذي رفع منه من حواريه، حوَّلهم الله جميعًا في صورة عيسى حين أراد الله رفعه، فلم يثبتوا عيسى معرفةً بعينه من غيره لتشابه صور جميعهم، فقتلت اليهود منهم من قتلت وهم يُرَونه بصورة عيسى، ويحسبونه إياه، لأنهم كانوا به عارفين قبل ذلك. وظنّ الذين كانوا في البيت مع عيسى مثل الذي ظنت اليهود، لأنهم لم يميِّزوا شخصَ عيسى من شخص غيره، لتشابه شخصه وشخص غيره ممن كان معه في البيت. فاتفقوا جميعهم= يعني: اليهود والنصارى [[في المطبوعة: "أعني"، وأثبت ما في المخطوطة.]] = من أجل ذلك على أن المقتول كان عيسى، ولم يكن به، ولكنه شُبِّه لهم، كما قال الله جل ثناؤه:"وما قتلوه وما صلبوه ولكن شبه لهم".
 
-[TRUNCATED at 12000 chars — 3181 more. Consult the source directly before relying on anything near the cut.]
+= أو يكون الأمر في ذلك كان على نحو ما روى عبد الصمد بن معقل، عن وهب بن منبه: أن القوم الذين كانوا مع عيسى في البيت، تفرقوا عنه قبل أن يدخل عليه اليهود، وبقي عيسى، وألقي شبهه على بعض أصحابه الذين كانوا معه في البيت بعد ما تفرق القوم غيرَ عيسى، وغيرَ الذي ألقي عليه شَبهه. ورفع عيسى، فقتل الذي تحوّل في صورة عيسى من أصحابه، وظن أصحابُه واليهود أن الذي قتل وصلب هو عيسى، لما رأوا من شبهه به، وخفاء أمر عيسى عليهم. لأن رفعه وتحوّل المقتول في صورته، كان بعد تفرق أصحابه عنه، وقد كانوا سمعوا عيسى من الليل ينعَى نفسه، ويحزن لما قد ظنَّ أنه نازل به من الموت، فحكوا ما كان عندهم حقًّا، والأمر عند الله في الحقيقة بخلاف ما حكوا. فلم يستحق الذين حكوا ذلك من حواريّيه أن يكونوا كذبة، إذ حكوا ما كان حقًّا عندهم في الظاهر، [[في المطبوعة: "أو حكوا"، وفي المخطوطة: "إذا حكوا"، والصواب ما أثبت.]] وإن كان الأمر كان عند الله في الحقيقة بخلاف الذي حكوا. [[في المخطوطة: "وإن كان الأمر عند الله"، حذف"كان" الثانية، وقد أثبتها ناسخ المخطوطة في هامش النسخة.]]
+
+* *
+
+القول في تأويل قوله: ﴿وَإِنَّ الَّذِينَ اخْتَلَفُوا فِيهِ لَفِي شَكٍّ مِنْهُ مَا لَهُمْ بِهِ مِنْ عِلْمٍ إِلا اتِّبَاعَ الظَّنِّ وَمَا قَتَلُوهُ يَقِينًا (١٥٧) ﴾
+
+قال أبو جعفر: يعني جل ثناؤه بقوله:"وإنّ الذين اختلفوا فيه"، اليهودَ الذين أحاطوا بعيسى وأصحابه حين أرادوا قتله. وذلك أنهم كانوا قد عرفوا عدة من في البيت قبل دخولهم، فيما ذكر. فلما دخلوا عليهم، فقدوا واحدًا منهم، فالتبس أمرُ عيسى عليهم بفقدهم واحدًا من العدَّة التي كانوا قد أحصوها، وقتلوا من قتلوا على شك منهم في أمر عيسى.
+
+وهذا التأويل على قول من قال: لم يفارق الحواريون عيسى حتى رفع ودخل عليهم اليهود.
+
+* *
+
+وأما تأويله على قول من قال: تفرَّقوا عنه من الليل، فإنه:"وإن الذين اختلفوا"، في عيسى، هل هو الذي بقي في البيت منهم بعد خروج من خرج منهم من العدَّة التي كانت فيه، أم لا؟ ="لفي شك منه"، يعني: من قتله، لأنهم كانوا أحصوا من العدّة حين دخلوا البيت أكثر ممن خرج منه ومن وجد فيه، فشكوا في الذي قتلوه: هل هو عيسى أم لا؟ من أجل فقدهم من فقدوا من العدد الذي كانوا أحصوه، ولكنهم قالوا:"قتلنا عيسى"، لمشابهة المقتول عيسى في الصورة. يقول الله جل ثناؤه:"ما لهم به من علم"، يعني: أنهم قتلوا من قتلوه على شك منهم فيه واختلافٍ، هل هو عيسى أم هو غيره؟ من غير أن يكون لهم بمن قتلوه علم، من هو؟ هو عيسى أم هو غيره؟ ="إلا اتباع الظن"، يعني جل ثناؤه: ما كان لهم بمن قتلوه من علم، ولكنهم اتبعوا ظنهم فقتلوه، ظنًّا منهم أنه عيسى، وأنه الذي يريدون قتله، ولم يكن به="وما قتلوه يقينًا"، يقول: وما قتلوا -هذا الذي اتبعوه في المقتول الذي قتلوه وهم يحسبونه عيسى- يقينًا أنه عيسى ولا أنه غيره، ولكنهم كانوا منه على ظنّ وشبهةٍ.
+
+* *
+
+وهذا كقول الرجل للرجل:"ما قتلت هذا الأمر علمًا، وما قتلته يقينًا"، إذا تكلَّم فيه بالظن على غير يقين علم. فـ"الهاء" في قوله:"وما قتلوه"، عائدة على"الظن". [[انظر معاني القرآن للفراء ١: ٢٩٤.]]
+
+* *
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+١٠٧٩٠- حدثني المثنى قال، حدثنا عبد الله بن صالح قال، حدثني معاوية بن صالح، عن علي بن أبي طلحة، عن ابن عباس قوله:"وما قتلوه يقينًا"، قال: يعني لم يقتلوا ظنَّهم يقينًا.
+
+١٠٧٩١- حدثني المثنى قال، حدثنا إسحاق قال، حدثنا يعلى بن عبيد، عن جويبر في قوله:"وما قتلوه يقينًا"، قال: ما قتلوا ظنهم يقينًا.
+
+* *
+
+وقال السدي في ذلك ما:-
+
+١٠٧٩٢- حدثنا محمد بن الحسين قال، حدثنا أحمد بن مفضل قال، حدثنا أسباط، عن السدي:"وما قتلوه يقينًا"، وما قتلوا أمره يقينًا أن الرجل هو عيسى،"بل رفعه الله إليه".
 
 ### al-Muyassar (Arabic)
 
@@ -426,9 +834,197 @@ In the chapter about the Prophets in his Sahih, under, "The Descent of 'Isa, Son
 
 (By Him in Whose Hands my soul is, the son of Maryam ('Isa) will shortly descend among you as a just ruler, and will break the cross, kill the pig and abolish the Jizyah. Then there will be an abundance of wealth and nobody will accept charitable gifts any more. At that time, one prostration will be better for them than this life and all that is in it.) Abu Hurayrah then said, "Read if you will,
 
-وَإِن مِّنْ أَه
+وَإِن مِّنْ أَهْلِ الْكِتَابِ إِلَّا لَيُؤْمِنَنَّ بِهِ قَبْلَ مَوْتِهِ وَيَوْمَ الْقِيَامَةِ يَكُونُ عَلَيْهِمْ شَهِيدًا
 
-[TRUNCATED at 12000 chars — 28080 more. Consult the source directly before relying on anything near the cut.]
+(And there is none of the People of the Scripture, but must believe in him, before his death. And on the Day of Resurrection, he will be a witness against them.)" Muslim recorded this Hadith. So, Allah's statement,
+
+قَبْلَ مَوْتِهِ
+
+(before his death) refers to the death of 'Isa, son of Maryam.
+
+Another Hadith by Abu Hurayrah
+
+Imam Ahmad recorded that Abu Hurayrah said that the Messenger of Allah ﷺ said,
+
+لَيُهِلَّنَّ عِيسَى بِفَجِّ الرَّوْحَاءِ بِالْحَجِّ أَوِ الْعُمْرَةِ، أَوْ لَيَثْنِيَنَّهُمَا جَمِيعًا
+
+('Isa will say 'Ihlāl' from the mountain highway of 'Ar-Rawḥā'' for Hajj, 'Umrah or both.) Muslim also recorded it. Ahmad recorded that Abu Hurayrah said that the Prophet ﷺ said,
+
+يَنْزِلُ عِيسَى ابْنُ مَرْيَمَ فَيَقْتُلُ الْخِنْزِيرَ، وَيَمْحُو الصَّلِيبَ، وَتُجْمَعُ لَهُ الصَّلَاةُ، وَيُعْطَى الْمَالُ حَتَّى لَا يُقْبَلَ، وَيَضَعُ الْخَرَاجَ، وَيَنْزِلُ الرَّوْحَاءَ فَيَحُجُّ مِنْهَا أَوْ يَعْتَمِرُ أَوْ يَجْمَعُهُمَا
+
+('Isa, son of Maryam, will descend and will kill the pig, break the cross, lead the prayer in congregation and give away wealth until it is no longer accepted by anyone. He will also abolish the Jizyah and go to Ar-Rawha' from where he will go to perform Hajj, 'Umrah or both.) Abu Hurayrah then recited,
+
+وَإِن مِّنْ أَهْلِ الْكِتَابِ إِلَّا لَيُؤْمِنَنَّ بِهِ قَبْلَ مَوْتِهِ
+
+(And there is none of the People of the Scripture, but must believe in him, before his death.) Hanzalah said, "Abu Hurayrah added, 'Will believe in 'Isa before 'Isa dies,' but I do not know if this was a part of the Prophet's Hadith or if it was something that Abu Hurayrah said on his own. " Ibn Abi Hatim also recorded this Hadith.
+
+Another Hadith
+
+Al-Bukhari recorded that Abu Hurayrah said that the Messenger of Allah ﷺ said,
+
+كَيْفَ بِكُمْ إِذَا نَزَلَ فِيكُمُ الْمَسِيحُ ابْنُ مَرْيَمَ وَإِمَامُكُمْ مِنْكُم
+
+(How will you be when Al-Masih, son of Maryam ('Isa) descends among you while your Imam is from among yourselves?) Imam Ahmad and Muslim also recorded this Hadith.
+
+Another Hadith
+
+Imam Ahmad recorded that Abu Hurayrah said that the Prophet ﷺ said,
+
+الْأَنْبِيَاءُ إِخْوَةٌ لِعَلَّاتٍ، أُمَّهَاتُهُمْ شَتَّى، وَدِينُهُمْ وَاحِدٌ، وَإِنِّي أَوْلَى النَّاسِ بِعِيسَى ابْنِ مَرْيَمَ، لِأَنَّهُ لَمْ يَكُنْ نَبِيٌّ بَيْنِي وَبَيْنَهُ، وَإِنَّهُ نَازِلٌ فَإِذَا رَأَيْتُمُوهُ فَاعْرِفُوهُ: رَجُلٌ مَرْبُوعٌ إِلَى الْحُمْرَةِ وَالْبَيَاضِ، عَلَيْهِ ثَوْبَانِ مُمَصَّرَانِ، كَأَنَّ رَأْسَهُ يَقْطُرُ، وَإِنْ لَمْ يُصِبْهُ بَلَلٌ، فَيَدُقُّ الصَّلِيبَ، وَيَقْتُلُ الْخِنْزِيرَ، وَيَضَعُ الْجِزْيَةَ، وَيَدْعُو النَّاسَ إِلَى الْإِسْلَامِ، وَيُهْلِكُ اللهُ فِي زَمَانِهِ الْمِلَلَ كُلَّهَا إِلَّا الْإِسْلَامَ، وَيُهْلِكُ اللهُ فِي زَمَانِهِ الْمَسِيحَ الدَّجَّالَ، ثُمَّ تَقَعُ الْأَمَنَةُ عَلَى الْأَرْضِ حَتَّى تَرْتَعَ الْأُسُودُ مَعَ الْإِبِلِ، وَالنِّمَارُ مَعَ الْبَقَرِ، وَالذِّئَابُ مَعَ الْغَنَمِ، وَيَلْعَبُ الصِّبْيَانُ بِالحَيَّاتِ لَا تَضُرُّهُمْ، فَيَمْكُثُ أَرْبَعِينَ سَنَةً ثُمَّ يُتَوَفَّى، وَيُصَلِّي عَلَيْهِ الْمُسْلِمُونَ
+
+(The Prophets are paternal brothers; their mothers are different, but their religion is one. I, more than any of mankind, have more right to 'Isa, son of Maryam, for there was no Prophet between him and I. He will descend, and if you see him, know him. He is a well-built man, (the color of his skin) between red and white. He will descend while wearing two long, light yellow garments. His head appears to be dripping water, even though no moisture touched it. He will break the cross, kill the pig, and banish the Jizyah and will call the people to Islam. During his time, Allah will destroy all religions except Islam and Allah will destroy Al-Masih Ad-Dajjal (the False Messiah). Safety will then fill the earth, so much so that the lions will mingle with camels, tigers with cattle and wolves with sheep. Children will play with snakes, and they will not harm them. 'Isa will remain for forty years and then will die, and Muslims will offer the funeral prayer for him.) Abu Dawud also recorded it.
+
+Another Hadith
+
+In his Sahih, Muslim recorded that Abu Hurayrah related to the Messenger of Allah ﷺ that he said,
+
+لَا تَقُومُ السَّاعَةُ حَتَّى يَنْزِلَ الرُّومُ بِالْأَعْمَاقِ أَوَ بِدَابِقَ، فَيَخْرُجُ إِلَيْهِمُ جَيْشٌ مِنَ الْمَدِينَةِ مِنْ خِيَارِ أَهْلِ الْأَرْضِ يَوْمَئِذٍ، فَإِذَا تَصَافُّوا، قَالَتِ الرُّومُ: خَلُّوا بَيْنَنَا وَبَيْنَ الَّذِينَ سَبَوْا مِنَّا نُقَاتِلْهُمْ، فَيَقُولُ الْمُسْلِمُونَ: لَا وَاللهِ، لَا نُخَلِّي بَيْنَكُمْ وَبَيْنَ إِخْوَانِنَا، فَيُقَاتِلُونَهُمْ، (فَيَنْهَزِمُ) ثُلُثٌ لَا يَتُوبُ اللهُ عَلَيْهِمْ أَبَدًا، وَيُقْتَلُ ثُلُثُهُ أَفْضَلُ الشُّهَدَاءِ عِنْدَ اللهِ، وَيَفْتَتحُ الثَّلُثُ لَا يُفْتَنُونَ أَبَدًا، فَيَفْتَتِحُونَ قُسْطُنْطِينِيَّةَ، فَبَيْنَمَا هُمْ يَقْسِمُونَ الْغَنَائِمَ قَدْ عَلَّقُوا سُيُوفَهُمْ بِالزَّيْتُونِ، إِذْ صَاحَ فِيهِمُ الشَّيْطَانُ: إِنَّ الْمَسِيحَ قَدْ خَلَفَكُمْ فِي أَهْلِيكُمْ، فَيَخْرُجُونَ، وَذَلِكَ بَاطِلٌ، فَإِذَا جَاءُوا الشَّامَ خَرَجَ، فَبَيْنَمَا هُمْ يُعِدُّونَ لِلْقِتَالِ يُسَوُّونَ الصُّفُوفَ، إِذْ أُقِيَمتِ الصَّلَاةُ فَيَنْزِلُ عِيسَى ابْنُ مَرْيَمَ، فَأَمَّهُمْ، فَإِذَا رَآهُ عَدُوُّ اللهِ، ذَابَ كَمَا يَذُوبُ الْمِلْحُ فِي الْمَاءِ، فَلَوْ تَرَكَهُ لَانْذَابَ حَتَّى يَهْلِكَ، وَلكِنْ يَقْتُلُهُ اللهُ بِيَدِهِ، فَيُرِيهِمْ دَمَهُ فِي حَرْبَتِهِ
+
+(The (Last) Hour will not start until the Romans occupy Al-A'maq or Dabiq. An army, comprised of the best of the people of the earth then, will come from Al-Madinah and challenge them. When they camp face to face, the Romans will say, 'Let us fight those who captured some of us.' The Muslims will say, 'Nay! By Allah, we will never let you get to our brothers.' They will fight them. A third of the (Muslim) army will flee in defeat, and those are the ones whom Allah will never forgive. Another third will be killed, and those are the best martyrs before Allah. The last third will be victorious, and this third will never be stricken with Fitnah, and they will capture Constantinople (Istanbul). While they are dividing war booty, after hanging their swords on olive trees, Shaytan will shout among them, saying, 'Al-Masih (Ad-Dajjal) has cornered your people'. They will leave to meet Ad-Dajjal in Ash-Sham. This will be a false warning, and when they reach Ash-Sham, Ad-Dajjal will then appear. When the Muslims are arranging their lines for battle and the prayer is called for, 'Isa, son of Maryam, will descend and lead them in prayer. When the enemy of Allah (the False Messiah) sees him, he will dissolve just as salt dissolves in water, and if any of him were left, he would continue dissolving until he died. Allah will kill him with the hand of 'Isa and will show the Muslims his blood on his spear.)
+
+Muslim recorded that 'Abdullah bin 'Amr said that the Messenger of Allah ﷺ said,
+
+لَتُقَاتِلُنَّ الْيَهُودَ فَلَتَقْتُلُنَّهُمْ، حَتى يَقُولَ الْحَجَرُ: يَامُسْلِمُ هَذَا يَهُودِيٌّ فَتَعَال فَاقْتُلْهُ
+
+(You will fight the Jews and will kill them, until the stone will say, 'O Muslim! There is a Jew here, so come and kill him.') Muslim recorded that Abu Hurayrah said that the Messenger of Allah ﷺ said,
+
+لَا تَقُومُ السَّاعَةُ حَتَّى يُقَاتِلَ الْمُسْلِمُونَ الْيَهُودَ، فَيَقْتُلُهُمُ الْمُسْلِمُونَ حَتَّى يَخْتَبِىءَ الْيَهُودِيُّ مِنْ وَرَاءِ الْحَجَرِ وَالشَّجَرِ، فَيَقُولُ الْحَجَرُ وَالشَّجَرُ: يَامُسْلِمُ يَاعَبْدَ اللهِ هَذَا يَهُودِيٌّ خَلْفِي فَتَعَالَ فَاقْتُلْهُ - إِلَّا الْغَرْقَدَ فَإِنَّهُ مِنْ شَجَرِ الْيَهُودِ
+
+(The Hour will not start, until after the Muslims fight the Jews and the Muslims kill them. The Jew will hide behind a stone or tree, and the tree will say, 'O Muslim! O servant of Allah! This is a Jew behind me, come and kill him.' Except Al-Gharqad, for it is a tree of the Jews.)
+
+Muslim bin Al-Hajjaj recorded in his Sahih that An-Nawwas bin Sam'an said, "The Messenger of Allah ﷺ, mentioned Ad-Dajjal one day and kept belittling him (because being blind, yet claiming to be Allah) and speaking in grave terms about him until we thought that he was hiding in gardens of date-trees (in Al-Madinah). When we went by the Messenger, he sensed this anxiety in us and said,
+
+مَا شَأْنُكُمْ؟
+
+(What is the matter with you?) We said, 'O Messenger of Allah! Earlier, you mentioned Ad-Dajjal and while belittling him you spoke gravely about him until we thought that he was hiding in gardens of date-trees (of Al-Madinah).' He said,
+
+غَيْرُ الدَّجَّالِ أَخْوَفُنِي عَلَيكُمْ، إِنْ يخْرُجْ وَأَنَا فِيكُمْ فَأَنَا حَجِيجُهُ دُونَكُمْ، وَإِنْ يَخْرُجْ وَلَسْتُ فِيكُمْ فَامْرُؤٌ حَجِيجُ نَفْسِهِ، واللهُ خَلِيفَتِي عَلى كُلِّ مُسْلمٍ. إِنَّهُ شَابٌّ قَطَطٌ، عَينُهُ طافِيةٌ كَأَنِّي أُشَبِّهُهُ بِعَبْدِ العُزَّى بْنِ قَطَنٍ، مَنْ أَدْرَكَهُ مِنْكُمْ فَلْيَقْرَأ عَلَيْهِ فَوَاتِحَ سُورَةِ الْكَهْفِ، إِنَّه خَارِجٌ مِنْ خَلَّةٍ بَيْنَ الشَّامِ والعِرَاقِ، فَعَاثَ يَمِينًا وَعَاثَ شِمَالًا، يَاعِبَادَ اللهِ فَاثْبُتوا
+
+(I fear other than Ad-Dajjal for you! If he appears while I am still among you, I will be his adversary on your behalf. If he appears while I am not among you, each one will depend on himself and Allah will be the Helper of every Muslim after me. He is young, with very curly hair and his eye is smashed. I thought that he looked like 'Abdul-'Uzza bin Qatan. Whoever lives long and meets Ad-Dajjal, then let him recite the beginnings of Surat Al-Kahf. He will appear on a pass between Ash-Sham (Syria) and Al-'Iraq. He will wreak havoc to the right and left. O Servants of Allah! Hold fast.)
+
+We said, 'O Messenger of Allah! How long will he stay on earth?' He said,
+
+أَرْبَعُونَ يَوْمًا، يَومٌ كَسَنَةٍ، وَيَوْمٌ كَشَهْرٍ، وَيَوْمٌ كَجُمُعَةٍ، وَسَائِرُ أَيَّامِهِ كَأَيَّامِكُم
+
+(Forty days: One day as long as a year, one day as long as a month and one day as long as a week. The rest of his days will be as long as one of your ordinary days.) We said, 'O Messenger of Allah! As for the day that is like a year, will the prayers of one day suffice for it?' He said,
+
+لَا، اقْدُرُوا لَهُ قَدْرَهُ
+
+(No. Count for its due measure.) We said, 'O Messenger of Allah, how will his speed be on earth?' He said,
+
+كَالْغَيْثِ اسْتَدْبَرَتْهُ الرِّيحُ فَيَأْتِي عَلى قَوْمٍ فَيَدْعُوهُمْ فَيُؤْمِنُون بِهِ، وَيَسْتَجِيبُونَ لَهُ، فَيَأْمُرُ السَّمَاءَ فَتُمْطِرُ، وَالأَرْضَ فَتُنْبِتُ، فَتَرُوحُ عَلَيْهِمْ سَارِحَتُهُمْ أَطْوَلَ مَا كَانَتْ ذُرًى، وَأَسْبَغَهُ ضُرُوعًا، وَأَمَدَّهُ خَوَاصِرَ، ثُمَّ يَأْتِي الْقَوْمَ فَيَدْعُوهُمْ فَيَرُدُّونَ عَلَيْهِ قَوْلَهُ، فَيَنْصَرِفُ عَنْهُمْ فَيُصْبِحُونَ مُمْحِلِينَ لَيْسَ بِأَيْدِيهِمْ شَيْءٌ مِنْ أَمْوَالِهِمْ وَيَمُرُّ بِالْخَرِبَةِ فَيَقُولُ لَهَا: أَخْرِجِي كُنُوزَكِ، فَتَتْبَعُهُ كُنُوزُهَا كَيعَاسِيبِ النَّحْلِ، ثُمَّ يَدْعُو رَجُلًا مُمْتَلِئًا شَبَابًا فَيَضْرِبُهُ بِالسَّيْفِ، فَيَقْطَعُهُ جِزْلَتَيْنِ رَمْيَةَ الْغَرَضِ، ثُمَّ يَدْعُوهُ، فَيُقْبِلُ وَيَتَهَلَّلُ وَجْهُهُ وَيَضْحَكُ، فَبَيْنَما هُوَ كَذَلِكَ إِذْ بَعَثَ اللهُ الْمَسِيح ابْنَ مَرْيَمَ عَلَيْهِ السَّلَامُ،
+
+فَيَنْزِلُ عِنْدَ الـمَنَارَةِ البَيْضَاءِ شَرْقِيَّ دِمَشْقَ بَيْنَ مَهْرُودَتَيْنِ، وَاضِعًا كَفَّيْهِ عَلَى أَجْنِحَةِ مَلَكَيْنِ، إِذَا طَأْطَأَ رَأْسَهُ قَطَرَ، وَإذَا رَفَعَهُ تَحَدَّرَ مِنْهُ جُمَانٌ كَاللُّؤْلُؤِ، وَلَا يَحِلُّ لِكَافِرٍ يَجِدُ رِيحَ نَفَسِهِ إِلَّا مَاتَ، وَنَفَسُهُ يَنْتَهِي حَيْثُ يَنْتَهِي طَرَفُهُ، فَيَطْلُبُهُ حَتَّى يُدْرِكَهُ بِبَابِ لُدٍّ، فَيَقْتُلُهُ، ثُمَّ يَأْتِي عِيسَى عَلَيْهِ السَّلَامُ قَوْمًا قَدْ عَصَمَهُمُ اللهُ مِنْهُ، فَيَمْسَحُ عَنْ وُجُوهِهِمْ، وَيُحَدِّثُهُمْ بدَرَجَاتِهِمْ فِي الْجَنَّةِ، فَبَيْنَمَا هُوَ كَذَلِكَ إِذْ أَوْحَى اللهُ عَزَّ وَجَلَّ إِلَى عِيسَى: إِنِّي قَدْ أَخْرَجْتُ عِبَادًا لِي لَا يَدَانِ لِأَحَدٍ بِقِتَالِهِمْ، فَحَرِّزْ عِبَادِي إِلَى الطُّورِ، ويَبْعَثُ اللهُ يَأْجُوجَ وَمَأْجُوجَ وَهُمْ مِنْ كُلِّ حَدَبٍ يَنْسِلُونَ، فَيَمُرُّ أَوَّلُهُمْ عَلَى بُحَيْرَةِ طَبَرِيَّةَ فَيَشْرَبُونَ مَا فِيهَا، وَيَمُرُّ آخِرُهُمْ فَيقُولُونَ: لَقَدْ كَانَ بِهذِهِ مَرَّةً مَاءٌ، ويُحْصَرُ نَبِيُّ اللهِ عِيسَى وَأَصْحَابُهُ،
+
+حَتَّى يَكُونَ رَأْسُ الثَّورِ لِأَحَدِهِمْ خَيْرٌ مِنْ مِائَةِ دِينَارٍ لِأَحَدِكُمُ الْيَوْمَ، فَيَرْغَبُ نَبِيُّ اللهِ عِيسَى وَأَصْحَابُهُ، فَيُرسِلُ اللهُ عَلَيْهِمُ النَّغَفَ فِي رِقَابِهِمْ، فَيُصْبِحُونَ فَرْسَى كَمَوْتِ نَفْسٍ وَاحِدَةٍ، ثُمَّ يَهْبِطُ نَبِيُّ اللهِ عِيسَى وَأَصْحَابُهُ إِلَى الْأَرْضِ، فَلَا يَجِدُونَ فِي الْأَرْضِ مَوْضِعَ شِبْرٍ إِلَّا مَلَأَهُ زَهَمُهُمْ ونَتْنُهُمْ، فَيَرْغَبُ نَبِيُّ اللهِ عِيسَى وَأَصْحَابُهُ إِلَى اللهِ، فَيُرْسِلُ اللهُ، طَيْرًا كَأَعْنَاقِ الْبُخْتِ، فَتَحْمِلُهُمْ فَتَطْرَحُهُمْ حَيْثَ شَاءَ اللهُ، ثُمَّ يُرْسِلُ اللهُ مَطَرًا لَا يَكُنُّ مِنْهُ بَيْتُ مَدَرٍ، وَلَا وَبَرٍ، فَيَغْسِلُ الْأَرْضَ حَتَّى يَتْرُكَهَا كَالزَّلَفَةِ، ثُمَّ يُقَالُ لِلْأَرْضِ: أَخْرِجِي ثَمَرَكِ وَرُدِّي بَرَكَتَكِ، فَيَوْمَئِذٍ تَأْكُلُ الْعِصَابَةُ مِنَ الرُّمَّانَةِ، وَيَسْتَظِلُّونَ بِقِحْفِهَا، وَيُبَارِكُ اللهُ فِي الرِّسْلِ حَتَّى إِنَّ اللِّقْحَةَ مِنَ الْإِبِلِ لَتَكْفِي الفِئَامَ، (مِنَ النَّاسِ وَاللُّقْمَةَ مِنَ الْفَمِ لَتَكْفِي الْفَخِذَ مِنَ النَّاسِ)، فَبَيْنَما هُمْ كَذَلِكَ إِذْ بَعَثَ اللهُ رِيحًا طَيِّبَةً، فَتَأْخُذُهُمْ تَحْتَ آبَاطِهِمْ، فَتَقْبِضُ رُوحَ كُلِّ مُؤْمِنٍ وَكُلِّ مُسْلِمٍ، وَيَبْقَى شِرَارُ النَّاسِ يَتَهَارَجُونَ فِيهَا تَهَارُجَ الْحُمُرِ، فَعَلَيْهِمْ تَقُومُ السَّاعَةُ
+
+(Like the storm when driven by the wind. He will come to a people and will call them (to his worship), and they will believe in him and accept his call. He will order the sky and it will rain, the land and it will grow (vegetation). Their cattle will return to them with their hair the longest, their udders the fullest (with milk) and their stomachs the fattest. He will come to a different people and will call them (to his worship), and they will reject his call. He will then leave them. They will wake up in the morning destitute, missing all of their possessions. He will pass by a deserted land and will say to it, 'Bring out your treasures', and its treasures will follow him just like swarms of bees. He will summon a man full of youth and will strike him with the sword once and will cut him into two pieces (and will separate between them like) the distance (between the hunter and) the game. He will call the dead man and he will come, and his face will radiant with pleasure and laughter. Afterwards (while all this is happening with Ad-Dajjal), Allah will send Al-Masih ('Isa), son of Maryam down. He will descend close to the white minaret to the east of Damascus. He will be wearing garments lightly colored with saffron and his hands will be placed on the wings of two angels. Whenever he lowers his head droplets fall. Whenever he raises his head, precious stones that look like pearls fall. No disbeliever can survive 'Isa's breath, which reaches the distance of his sight. He will pursue Ad-Dajjal and will follow him to the doors of (the Palestinian city of) Ludd where he will kill him. A group of people who, by Allah's help, resisted and survived Ad-Dajjal, will pass by 'Isa and he will anoint their faces and inform them about their grades in Paradise. Shortly afterwards, while this is happening with 'Isa, Allah will reveal to him, 'I raised a people of My creation that no one can fight. Therefore, gather My servants to At-Tur (the mountain of Musa in Sinai).' Then, Allah will raise Gog and Magog and they will swiftly swarm from every mound. Their front forces will reach Lake Tabariah (Sea of Galilee) and will drink all its water. The last of their forces will say as they pass by the lake, 'This lake once had water!' Meanwhile, 'Isa, Allah's Prophet, will be cornered along with his companions until the head of a bull will be more precious to them than a hundred Dinars to you today. 'Isa, Allah's Prophet, and his companions will invoke Allah for help and Allah will send An-Naghaf (a worm) into the necks of Gog and Magog! The morning will come, and they will all be dead as if it was the death of one soul. Afterwards, 'Isa, the Prophet of Allah, will come down with his companions to the low grounds (from Mount At-Tur). They will find that no space of a hand-span on the earth was free of their fat and rot (rotten corpses). 'Isa, the Prophet of Allah, and his companions will seek Allah in supplication. Allah will send birds as large as the necks of camels. They will carry them (the corpses of Gog and Magog) and will throw them wherever Allah wills. Afterwards, Allah will send rain that no house made of mud or animal hair will be saved from, and it will cleanse the earth until it is as clean as a mirror. The earth will be commanded (by Allah), 'Produce your fruits and regain your blessing.' Then, the group will eat from a pomegranate and will take shelter under the shade of its skin. Milk will be blessed, so much so that the milk-producing camel will yield large amounts that suffice for a large group of people. Meanwhile, Allah will send a pure wind that will overcome Muslims from under their arms and will take the soul of every believer and Muslim. Only the evildoers among people will remain. They will indulge in shameless public sex like that of donkeys. On them, the Hour will begin.)
+
+Imam Ahmad and the collectors of the Sunan also recorded this Hadith. We will mention this Hadith again using the chain of narration collected by Ahmad explaining Allah's statement in Surat Al-Anbiya' (chapter 21),
+
+حَتَّىٰ إِذَا فُتِحَتْ يَأْجُوجُ وَمَأْجُوجُ
+
+(Until, when Ya'juj and Ma'juj (Gog and Magog people) are let loose (from their barrier).)[21:96]
+
+In our time, in the year seven hundred and forty-one, a white minaret was built in the Umayyad Masjid (in Damascus) made of stone, in place of the minaret that was destroyed by a fire which the Christians were suspected to have started. May Allah's continued curses descend on the Christians until the Day of Resurrection. There is a strong feeling that this minaret is the one that 'Isa will descend on, according to this Hadith.
+
+Another Hadith
+
+Muslim recorded in his Sahih that Ya'qub bin 'Asim bin 'Urwah bin Mas'ud Ath-Thaqafi said, "I heard 'Abdullah bin 'Amr saying to a man who asked him, 'What is this Hadith that you are narrating? You claim that the Hour will start on such and such date.' He said, 'Subhan Allah (glory be to Allah),' or he said, 'There is no deity worthy of worship except Allah.'
+
+I almost decided to never narrate anything to anyone. I only said, "Soon, you will witness tremendous incidents, the House (the Ka'bah) will be destroyed by fire, and such and such things will occur." He then said, 'The Messenger of Allah ﷺ said,
+
+يَخْرُجُ الدَّجَّالُ فِي أُمَّتِي فَيَمْكُثُ أَرْبَعِينَ، لَا أَدْرِي أَرْبَعِينَ يَوْمًا أَوْ أَرْبَعِينَ شَهْرًا أَوْ أَرْبَعِينَ عَامًا، فَيَبْعَثُ اللهُ تَعَالى عِيسَى ابْنَ مَرْيَمَ كَأَنَّهُ عُرْوَةُ بْنُ مَسْعُودٍ، فَيَطْلُبُهُ فَيُهْلِكُهُ، ثُمَّ يَمْكُثُ النَّاسُ سَبْعَ سِنِينَ لَيْسَ بَيْنَ اثْنَيْنِ عَدَاوَةٌ، ثُمَّ يُرْسِلُ اللهُ ريحًا بَارِدَةً مِنْ قِبَلِ الشَّامِ، فَلَا يَبْقَى عَلَى وَجْهِ الْأَرْضِ أَحَدٌ فِي قَلْبِهِ مِثْقَالُ ذَرَّةٍ مِنْ خَيْرٍ - أَوْ إِيمَانٍ - إِلَّا قَبَضَتْهُ، حَتَّى لَوْ أَنَّ أَحَدَكُمْ دَخَلَ فِي كَبِدِ جَبَلٍ لَدَخَلَتْه عَلَيْهِ حَتَّى تَقْبِضَهُ
+
+قال: سمعتها من رسول الله صلّى الله عليه وسلّم
+
+فَيَبْقَى شِرَارُ النَّاسِ فِي خِفَّةِ الطَّيْرِ وَأَحْلَامِ السِّبَاعِ، لَا يَعْرِفُونَ مَعْرُوفًا، وَلَا يُنْكِرُون مُنْكرًا، فَيَتمَثَّلُ لَهُمُ الشَّيْطَانُ فَيَقُولُ: أَلَا تَسْتَجِيبُونَ؟ فَيَقُولُونَ: فَمَا تَأْمُرُنَا؟ فَيَأْمُرُهُمْ بِعِبَادَةِ الْأَوْثَانِ، وَهُمْ فِي ذلِكَ دَارٌّ رِزْقُهُمْ، حَسَنٌ عَيْشُهُمْ، ثُمَّ يُنْفَخُ فِي الصُّورِ فَلَا يَسْمَعُهُ أَحَدٌ إِلَّا أَصْغَى لِيتًا وَرَفَعَ لِيتًا، قَالَ: وَأَوَّلُ مَنْ يَسْمَعُهُ رَجُلٌ يَلُوطُ حَوْضَ إِبِلِهِ، قَالَ: فَيَصْعَقُ وَيَصْعَقُ النَّاسُ، ثُمَّ يُرْسِلُ اللهُ - أَوْ قَالَ: يُنْزِلُ اللهُ - مَطَرًا كَأَنَّهُ الطَّلُّ - أَوْ قَالَ الظِّلُّ - نُعْمَانُ الشَّاكُّ - فَتَنْبُتُ مِنْهُ أَجْسَادُ النَّاسِ، ثُمَّ يُنَفَخُ فِيهِ أُخْرَى فَإِذَا هُمْ قِيَامٌ يَنْظُرُونَ. ثُمَّ يُقَالُ: أَيُّهَا النَّاسُ: هَلُمُّوا إِلى رَبِّكُم
+
+(Ad-Dajjal will appear in my nation and will remain for forty. (The narrator doubts whether it is forty days, months, or years).Then, Allah will send down 'Isa, son of Maryam, looking just like 'Urwah bin Mas'ud and he will seek Ad-Dajjal and will kill him. People will remain for seven years with no enmity between any two. Allah will send a cool wind from As-Sham that will leave no man on the face of the earth who has even the weight of an atom of good or faith, but will capture (his soul). Even if one of you takes refuge in the middle of a mountain, it will find him and capture (his soul). Afterwards, only the most evil people will remain. They will be as light as birds, with the comprehension of beasts. They will not know or enjoin righteousness or forbid or know evil. Shaytan will appear to them and will say to them, 'Would you follow me.' They will say, 'What do you command us?' He will command them to worship the idols. Meanwhile, their provision will come to them in abundance and their life will be good. Then the Trumpet will be blown and every person who hears it, will lower one side of his head and raise the other side (trying to hear that distant sound). The first man who will hear the Trumpet is someone who is preparing the water pool for his camels, and he and the people will swoon away. Allah will send down heavy rain and the bodies of people will grow with it. The Trumpet will be blown in again and the people will be resurrected and looking all about, staring. It will be said to them, 'O people! Come to your Lord,'
+
+وَقِفُوهُمْ إِنَّهُم مَّسْئُولُونَ
+
+(But stop them, verily, they are to be questioned.)[37:24]
+
+ثم يقال: أخرجوا بعث النار، فيقال: من كم؟ فيقال: من كل ألف تسعمائة وتسعة وتسعين، قال: فذلك يوم
+
+(It will then be said, 'Bring forth the share of the Fire.' It will be asked, 'How many?' It will be said, 'From every one thousand, nine hundred and ninety-nine.' That Day is when,)
+
+يَجْعَلُ الْوِلْدَانَ شِيبًا
+
+(the children will turn grey-headed,)[73:17] and,
+
+يَوْمَ يُكْشَفُ عَن سَاقٍ
+
+(The Day when the Shin shall be laid bare).) [68:42]"
+
+The Description of 'Isa, upon him be Peace
+
+As mentioned earlier, 'Abdur-Rahman bin Adam narrated that Abu Hurayrah said that the Prophet ﷺ said,
+
+فَإِذَا رَأَيْتُمُوهُ فَاعْرِفُوهُ: رَجُلٌ مَرْبُوعٌ إِلَى الْحُمْرَةٍ وَالْبَيَاضِ، عَلَيْهِ ثَوْبَانِ مُمَصَّرَانِ، كَأَنَّ رَأْسَهُ يَقْطُرُ وَإِنْ لَمْ يُصِبْهُ بَلَلٌ
+
+(If you see 'Isa, know him. He is a well-built man, (the color of his skin) between red and white. He will descend while wearing light yellow garments. His head looks like it is dripping water, even though no moisture touched it.) In the Hadith that An-Nawwas bin Sam'an narrated,
+
+فَيَنْزِلُ عِنْدَ الْمَنَارَةِ الْبَيْضَاءِ شَرْقِيَّ دِمَشْقَ بَيْنَ مَهْرُودَتَيْنِ وَاضِعًا كَفَّيْهِ عَلَى أَجْنِحَةِ مَلَكَيْنِ، إِذَا طَأْطَأَ رَأْسَهُ قَطَرَ، وَإِذَا رَفَعهُ تَحَدَّرَ مِنْهُ مِثْلُ جُمَانِ اللُّؤْلُؤ، لَا يَحِلُّ لِكَافِرٍ يَجِدُ رِيحَ نَفَسِهِ إِلَّا مَاتَ، وَنَفَسُهُ يَنْتَهِي حَيْثُ يَنْتَهِي طَرَفُهُ
+
+(He will descend close to the white minaret to the east of Damascus. He will be wearing two garments lightly colored with saffron, having his hands on the wings of two angels. Whenever he lowers his head, drops will fall off of it. Whenever he raises his head, precious jewels like pearls will fall off of it. No disbeliever can survive 'Isa's breath, and his breath reaches the distance of his sight.) Al-Bukhari and Muslim recorded that Abu Hurayrah said that the Messenger of Allah ﷺ said,
+
+لَيْلَةَ أُسْرِيَ بِي لَقِيتُ مُوسَى
+
+(I met Musa on the night of my Ascension to heaven.) The Prophet ﷺ then described him saying, as I think,
+
+مُضْطَرِبٌ، رَجِلُ الرَّأْسِ كَأَنَّهُ مِنْ رِجَالِ شَنُوءَةَ
+
+(He was a tall person with hair as if he was one of the men from the tribe of Shanu'ah.) The Prophet ﷺ further said,
+
+وَلقِيتُ عِيسَى
+
+فنعته النبي صلّى الله عليه وسلّم فقال:
+
+رَبْعَةٌ أَحْمَرُ كَأَنَّهُ خَرَجَ مِنْ دِيمَاسٍ
+
+يعني الحمام،
+
+وَرَأَيْتُ إبْرَاهِيمَ وَأَنا أَشْبَهُ وَلَدِهِ بِهِ
+
+('I met 'Isa.' The Prophet ﷺ described him saying, 'He was of moderate height and was red-faced as if he had just come out of a bathroom. I saw Ibrahim whom I resembled more than any of his children did.')
+
+Al-Bukhari recorded that Mujahid said that Ibn 'Umar said that the Messenger of Allah ﷺ said,
+
+رَأَيْتُ مُوسَى وَعِيسَى وَإِبْرَاهِيمَ، فَأَمَّا عِيسَى فَأَحْمَرُ جَعْدٌ عَرِيضُ الصَّدْرِ، وَأَمَّا مُوسَى فَآدَمُ جَسِيمٌ سَبْطٌ، كَأَنَّهُ مِنْ رِجَالِ الزُّطِّ
+
+(I saw Musa, 'Isa and Ibrahim. 'Isa was of red complexion and had curly hair and a broad chest. Musa was of brown complexion and had straight hair and a tall stature, as if he was from the people of Az-Zutt.)
+
+Al-Bukhari and Muslim recorded that Ibrahim said that 'Abdullah bin 'Umar said, "The Prophet ﷺ once mentioned the False Messiah (Al-Masih Ad-Dajjal) to people, saying,
+
+إنَّ اللهَ لَيْسَ بِأَعْوَرَ، أَلَا إِنَّ الْمَسِيحَ الدَّجَّالَ أَعْوَرُ الْعَيْنِ الْيُمْنَى، كَأَنَّ عَيْنَهُ عِنَبَةٌ طَافِيَةٌ
+
+(Allah is not blind in His Eye. Al-Masih Ad-Dajjal is blind in his right eye. His eye is like a protruding grape.)" Muslim recorded that the Messenger of Allah ﷺ said,
+
+وَأرَانِي اللهُ عِنْدَ الْكَعْبَةِ فِي الْمَنَامِ، فَإِذَا رَجُلٌ آدَمُ كَأَحْسَنِ مَا تَرَى مِنْ أُدْمِ الرِّجَالِ، تَضْرِبُ لِمَّتُهُ بَيْن مَنْكِبَيْهِ، رَجِلُ الشَّعْرِ، يَقْطُرُ رَأْسُهُ مَاءً، وَاضِعًا يَدَيْهِ عَلى مَنْكِبَيْ رَجُلَيْنِ، وَهُوَ يَطُوفُ بِالْبَيْتِ، فَقُلْتُ: مَنْ هَذَا؟ فَقَالُوا: هُوَ الْمَسِيحُ ابْنُ مَرْيَمَ، ثُمَّ رَأَيْتُ وَرَاءَهُ رَجُلًا جَعْدًا قَطِطًا، أَعْوَرَ الْعَيْنِ الْيُمْنَى، كَأَشْبَهِ مَنْ رَأَيْتُ بِابْنِ قَطَنٍ، وَاضِعًا يَدَيْهِ عَلى مَنْكِبَي رَجُلٍ، يَطُوفُ بِالْبَيْتِ، فَقُلْتُ: مَنْ هَذَا؟ قَالُوا: الْمَسِيحُ الدَّجَّالُ
+
+(In a dream, I was at the Ka'bah and Allah made me see a light-colored man, a color that is as beautiful as a light-colored man could be, with combed hair that reached his shoulders. His hair was dripping water, and he was leaning on the shoulders of two men while circling the Ka'bah. I asked, 'Who is this man?' I was told, 'This is the Al-Masih, son of Maryam.' Behind him, I saw a man with very curly hair who was blind in his right eye. He looked exactly as Ibn Qatan, and he was leaning on the shoulder of a man while circling the House. I asked, 'Who is this man?' I was told, 'He is Al-Masih Ad-Dajjal.')
+
+Al-Bukhari recorded that Salim said that his father said, "No, By Allah! The Prophet ﷺ did not say that 'Isa was of red complexion but said,
+
+بَيْنَمَا أَنَا نَائِمٌ أَطُوفُ بِالْكَعْبَةِ، فَإِذَا رَجُلٌ آدَمُ سَبْطُ الشَّعْرِ، يَتَهَادَى بَيْنَ رَجُلَيْنِ، يَنْطُفُ رَأْسُهُ مَاءً - أَوْ يُهَرَاقُ رَأْسُهُ مَاءً - فَقُلْتُ: مَنْ هَذَا؟ فَقَالُوا: ابْنُ مَرْيَمَ، فَذَهَبْتُ أَلْتَفِتُ، فَإِذَا رَجُلٌ أَحْمَرُ جَسِيمٌ، جَعْدُ الرَّاْسِ، أَعْوَرُ عَيْنِهِ الْيُمْنَى، كَأَنَّ عَيْنَهُ عِنَبَةٌ طَافِيَةٌ، قُلْتُ: مَنْ هَذَا؟ قَالُو: الدَّجَّالُ، وَأَقْرَبُ النَّاسِ بِهِ شَبَهًا ابْنُ قَطَنِ
+
+(While I was asleep circumambulating the Ka'bah (in my dream), I suddenly saw a man of brown complexion and ample hair walking between two men with water dripping from his head. I asked, 'Who is this?' The people said, 'He is the son of Maryam.' Then I looked behind and I saw a red-complexioned, fat, curly-haired man, blind in the right eye, which looked like a bulging out grape. I asked, 'Who is this?' They replied, 'He is Ad-Dajjal.' The person he most resembled is Ibn Qatan.)"
+
+Az-Zuhri commented that Ibn Qatan was a man from the tribe of Khuza'ah who died during the time of Jahiliyyah. This is the wording of Al-Bukhari. Allah's statement,
+
+وَيَوْمَ الْقِيَامَةِ يَكُونُ عَلَيْهِمْ شَهِيدًا
+
+(And on the Day of Resurrection, he ('Isa) will be a witness against them) Qatadah said, "He will bear witness before them that he has delivered the Message from Allah and that he is but a servant of His." In a similar statement in the end of Surat Al-Ma'idah,
+
+وَإِذْ قَالَ اللَّهُ يَا عِيسَى ابْنَ مَرْيَمَ أَأَنتَ قُلْتَ لِلنَّاسِ
+
+(And (remember) when Allah will say (on the Day of Resurrection): "O 'Isa, son of Maryam! Did you say unto men...")[5:116] until,
+
+الْعَزِيزُ الْحَكِيمُ
+
+(Almighty, the All-Wise.)[5:118]
 
 ### al-Tabari (Arabic)
 
@@ -586,9 +1182,197 @@ In the chapter about the Prophets in his Sahih, under, "The Descent of 'Isa, Son
 
 (By Him in Whose Hands my soul is, the son of Maryam ('Isa) will shortly descend among you as a just ruler, and will break the cross, kill the pig and abolish the Jizyah. Then there will be an abundance of wealth and nobody will accept charitable gifts any more. At that time, one prostration will be better for them than this life and all that is in it.) Abu Hurayrah then said, "Read if you will,
 
-وَإِن مِّنْ أَه
+وَإِن مِّنْ أَهْلِ الْكِتَابِ إِلَّا لَيُؤْمِنَنَّ بِهِ قَبْلَ مَوْتِهِ وَيَوْمَ الْقِيَامَةِ يَكُونُ عَلَيْهِمْ شَهِيدًا
 
-[TRUNCATED at 12000 chars — 28080 more. Consult the source directly before relying on anything near the cut.]
+(And there is none of the People of the Scripture, but must believe in him, before his death. And on the Day of Resurrection, he will be a witness against them.)" Muslim recorded this Hadith. So, Allah's statement,
+
+قَبْلَ مَوْتِهِ
+
+(before his death) refers to the death of 'Isa, son of Maryam.
+
+Another Hadith by Abu Hurayrah
+
+Imam Ahmad recorded that Abu Hurayrah said that the Messenger of Allah ﷺ said,
+
+لَيُهِلَّنَّ عِيسَى بِفَجِّ الرَّوْحَاءِ بِالْحَجِّ أَوِ الْعُمْرَةِ، أَوْ لَيَثْنِيَنَّهُمَا جَمِيعًا
+
+('Isa will say 'Ihlāl' from the mountain highway of 'Ar-Rawḥā'' for Hajj, 'Umrah or both.) Muslim also recorded it. Ahmad recorded that Abu Hurayrah said that the Prophet ﷺ said,
+
+يَنْزِلُ عِيسَى ابْنُ مَرْيَمَ فَيَقْتُلُ الْخِنْزِيرَ، وَيَمْحُو الصَّلِيبَ، وَتُجْمَعُ لَهُ الصَّلَاةُ، وَيُعْطَى الْمَالُ حَتَّى لَا يُقْبَلَ، وَيَضَعُ الْخَرَاجَ، وَيَنْزِلُ الرَّوْحَاءَ فَيَحُجُّ مِنْهَا أَوْ يَعْتَمِرُ أَوْ يَجْمَعُهُمَا
+
+('Isa, son of Maryam, will descend and will kill the pig, break the cross, lead the prayer in congregation and give away wealth until it is no longer accepted by anyone. He will also abolish the Jizyah and go to Ar-Rawha' from where he will go to perform Hajj, 'Umrah or both.) Abu Hurayrah then recited,
+
+وَإِن مِّنْ أَهْلِ الْكِتَابِ إِلَّا لَيُؤْمِنَنَّ بِهِ قَبْلَ مَوْتِهِ
+
+(And there is none of the People of the Scripture, but must believe in him, before his death.) Hanzalah said, "Abu Hurayrah added, 'Will believe in 'Isa before 'Isa dies,' but I do not know if this was a part of the Prophet's Hadith or if it was something that Abu Hurayrah said on his own. " Ibn Abi Hatim also recorded this Hadith.
+
+Another Hadith
+
+Al-Bukhari recorded that Abu Hurayrah said that the Messenger of Allah ﷺ said,
+
+كَيْفَ بِكُمْ إِذَا نَزَلَ فِيكُمُ الْمَسِيحُ ابْنُ مَرْيَمَ وَإِمَامُكُمْ مِنْكُم
+
+(How will you be when Al-Masih, son of Maryam ('Isa) descends among you while your Imam is from among yourselves?) Imam Ahmad and Muslim also recorded this Hadith.
+
+Another Hadith
+
+Imam Ahmad recorded that Abu Hurayrah said that the Prophet ﷺ said,
+
+الْأَنْبِيَاءُ إِخْوَةٌ لِعَلَّاتٍ، أُمَّهَاتُهُمْ شَتَّى، وَدِينُهُمْ وَاحِدٌ، وَإِنِّي أَوْلَى النَّاسِ بِعِيسَى ابْنِ مَرْيَمَ، لِأَنَّهُ لَمْ يَكُنْ نَبِيٌّ بَيْنِي وَبَيْنَهُ، وَإِنَّهُ نَازِلٌ فَإِذَا رَأَيْتُمُوهُ فَاعْرِفُوهُ: رَجُلٌ مَرْبُوعٌ إِلَى الْحُمْرَةِ وَالْبَيَاضِ، عَلَيْهِ ثَوْبَانِ مُمَصَّرَانِ، كَأَنَّ رَأْسَهُ يَقْطُرُ، وَإِنْ لَمْ يُصِبْهُ بَلَلٌ، فَيَدُقُّ الصَّلِيبَ، وَيَقْتُلُ الْخِنْزِيرَ، وَيَضَعُ الْجِزْيَةَ، وَيَدْعُو النَّاسَ إِلَى الْإِسْلَامِ، وَيُهْلِكُ اللهُ فِي زَمَانِهِ الْمِلَلَ كُلَّهَا إِلَّا الْإِسْلَامَ، وَيُهْلِكُ اللهُ فِي زَمَانِهِ الْمَسِيحَ الدَّجَّالَ، ثُمَّ تَقَعُ الْأَمَنَةُ عَلَى الْأَرْضِ حَتَّى تَرْتَعَ الْأُسُودُ مَعَ الْإِبِلِ، وَالنِّمَارُ مَعَ الْبَقَرِ، وَالذِّئَابُ مَعَ الْغَنَمِ، وَيَلْعَبُ الصِّبْيَانُ بِالحَيَّاتِ لَا تَضُرُّهُمْ، فَيَمْكُثُ أَرْبَعِينَ سَنَةً ثُمَّ يُتَوَفَّى، وَيُصَلِّي عَلَيْهِ الْمُسْلِمُونَ
+
+(The Prophets are paternal brothers; their mothers are different, but their religion is one. I, more than any of mankind, have more right to 'Isa, son of Maryam, for there was no Prophet between him and I. He will descend, and if you see him, know him. He is a well-built man, (the color of his skin) between red and white. He will descend while wearing two long, light yellow garments. His head appears to be dripping water, even though no moisture touched it. He will break the cross, kill the pig, and banish the Jizyah and will call the people to Islam. During his time, Allah will destroy all religions except Islam and Allah will destroy Al-Masih Ad-Dajjal (the False Messiah). Safety will then fill the earth, so much so that the lions will mingle with camels, tigers with cattle and wolves with sheep. Children will play with snakes, and they will not harm them. 'Isa will remain for forty years and then will die, and Muslims will offer the funeral prayer for him.) Abu Dawud also recorded it.
+
+Another Hadith
+
+In his Sahih, Muslim recorded that Abu Hurayrah related to the Messenger of Allah ﷺ that he said,
+
+لَا تَقُومُ السَّاعَةُ حَتَّى يَنْزِلَ الرُّومُ بِالْأَعْمَاقِ أَوَ بِدَابِقَ، فَيَخْرُجُ إِلَيْهِمُ جَيْشٌ مِنَ الْمَدِينَةِ مِنْ خِيَارِ أَهْلِ الْأَرْضِ يَوْمَئِذٍ، فَإِذَا تَصَافُّوا، قَالَتِ الرُّومُ: خَلُّوا بَيْنَنَا وَبَيْنَ الَّذِينَ سَبَوْا مِنَّا نُقَاتِلْهُمْ، فَيَقُولُ الْمُسْلِمُونَ: لَا وَاللهِ، لَا نُخَلِّي بَيْنَكُمْ وَبَيْنَ إِخْوَانِنَا، فَيُقَاتِلُونَهُمْ، (فَيَنْهَزِمُ) ثُلُثٌ لَا يَتُوبُ اللهُ عَلَيْهِمْ أَبَدًا، وَيُقْتَلُ ثُلُثُهُ أَفْضَلُ الشُّهَدَاءِ عِنْدَ اللهِ، وَيَفْتَتحُ الثَّلُثُ لَا يُفْتَنُونَ أَبَدًا، فَيَفْتَتِحُونَ قُسْطُنْطِينِيَّةَ، فَبَيْنَمَا هُمْ يَقْسِمُونَ الْغَنَائِمَ قَدْ عَلَّقُوا سُيُوفَهُمْ بِالزَّيْتُونِ، إِذْ صَاحَ فِيهِمُ الشَّيْطَانُ: إِنَّ الْمَسِيحَ قَدْ خَلَفَكُمْ فِي أَهْلِيكُمْ، فَيَخْرُجُونَ، وَذَلِكَ بَاطِلٌ، فَإِذَا جَاءُوا الشَّامَ خَرَجَ، فَبَيْنَمَا هُمْ يُعِدُّونَ لِلْقِتَالِ يُسَوُّونَ الصُّفُوفَ، إِذْ أُقِيَمتِ الصَّلَاةُ فَيَنْزِلُ عِيسَى ابْنُ مَرْيَمَ، فَأَمَّهُمْ، فَإِذَا رَآهُ عَدُوُّ اللهِ، ذَابَ كَمَا يَذُوبُ الْمِلْحُ فِي الْمَاءِ، فَلَوْ تَرَكَهُ لَانْذَابَ حَتَّى يَهْلِكَ، وَلكِنْ يَقْتُلُهُ اللهُ بِيَدِهِ، فَيُرِيهِمْ دَمَهُ فِي حَرْبَتِهِ
+
+(The (Last) Hour will not start until the Romans occupy Al-A'maq or Dabiq. An army, comprised of the best of the people of the earth then, will come from Al-Madinah and challenge them. When they camp face to face, the Romans will say, 'Let us fight those who captured some of us.' The Muslims will say, 'Nay! By Allah, we will never let you get to our brothers.' They will fight them. A third of the (Muslim) army will flee in defeat, and those are the ones whom Allah will never forgive. Another third will be killed, and those are the best martyrs before Allah. The last third will be victorious, and this third will never be stricken with Fitnah, and they will capture Constantinople (Istanbul). While they are dividing war booty, after hanging their swords on olive trees, Shaytan will shout among them, saying, 'Al-Masih (Ad-Dajjal) has cornered your people'. They will leave to meet Ad-Dajjal in Ash-Sham. This will be a false warning, and when they reach Ash-Sham, Ad-Dajjal will then appear. When the Muslims are arranging their lines for battle and the prayer is called for, 'Isa, son of Maryam, will descend and lead them in prayer. When the enemy of Allah (the False Messiah) sees him, he will dissolve just as salt dissolves in water, and if any of him were left, he would continue dissolving until he died. Allah will kill him with the hand of 'Isa and will show the Muslims his blood on his spear.)
+
+Muslim recorded that 'Abdullah bin 'Amr said that the Messenger of Allah ﷺ said,
+
+لَتُقَاتِلُنَّ الْيَهُودَ فَلَتَقْتُلُنَّهُمْ، حَتى يَقُولَ الْحَجَرُ: يَامُسْلِمُ هَذَا يَهُودِيٌّ فَتَعَال فَاقْتُلْهُ
+
+(You will fight the Jews and will kill them, until the stone will say, 'O Muslim! There is a Jew here, so come and kill him.') Muslim recorded that Abu Hurayrah said that the Messenger of Allah ﷺ said,
+
+لَا تَقُومُ السَّاعَةُ حَتَّى يُقَاتِلَ الْمُسْلِمُونَ الْيَهُودَ، فَيَقْتُلُهُمُ الْمُسْلِمُونَ حَتَّى يَخْتَبِىءَ الْيَهُودِيُّ مِنْ وَرَاءِ الْحَجَرِ وَالشَّجَرِ، فَيَقُولُ الْحَجَرُ وَالشَّجَرُ: يَامُسْلِمُ يَاعَبْدَ اللهِ هَذَا يَهُودِيٌّ خَلْفِي فَتَعَالَ فَاقْتُلْهُ - إِلَّا الْغَرْقَدَ فَإِنَّهُ مِنْ شَجَرِ الْيَهُودِ
+
+(The Hour will not start, until after the Muslims fight the Jews and the Muslims kill them. The Jew will hide behind a stone or tree, and the tree will say, 'O Muslim! O servant of Allah! This is a Jew behind me, come and kill him.' Except Al-Gharqad, for it is a tree of the Jews.)
+
+Muslim bin Al-Hajjaj recorded in his Sahih that An-Nawwas bin Sam'an said, "The Messenger of Allah ﷺ, mentioned Ad-Dajjal one day and kept belittling him (because being blind, yet claiming to be Allah) and speaking in grave terms about him until we thought that he was hiding in gardens of date-trees (in Al-Madinah). When we went by the Messenger, he sensed this anxiety in us and said,
+
+مَا شَأْنُكُمْ؟
+
+(What is the matter with you?) We said, 'O Messenger of Allah! Earlier, you mentioned Ad-Dajjal and while belittling him you spoke gravely about him until we thought that he was hiding in gardens of date-trees (of Al-Madinah).' He said,
+
+غَيْرُ الدَّجَّالِ أَخْوَفُنِي عَلَيكُمْ، إِنْ يخْرُجْ وَأَنَا فِيكُمْ فَأَنَا حَجِيجُهُ دُونَكُمْ، وَإِنْ يَخْرُجْ وَلَسْتُ فِيكُمْ فَامْرُؤٌ حَجِيجُ نَفْسِهِ، واللهُ خَلِيفَتِي عَلى كُلِّ مُسْلمٍ. إِنَّهُ شَابٌّ قَطَطٌ، عَينُهُ طافِيةٌ كَأَنِّي أُشَبِّهُهُ بِعَبْدِ العُزَّى بْنِ قَطَنٍ، مَنْ أَدْرَكَهُ مِنْكُمْ فَلْيَقْرَأ عَلَيْهِ فَوَاتِحَ سُورَةِ الْكَهْفِ، إِنَّه خَارِجٌ مِنْ خَلَّةٍ بَيْنَ الشَّامِ والعِرَاقِ، فَعَاثَ يَمِينًا وَعَاثَ شِمَالًا، يَاعِبَادَ اللهِ فَاثْبُتوا
+
+(I fear other than Ad-Dajjal for you! If he appears while I am still among you, I will be his adversary on your behalf. If he appears while I am not among you, each one will depend on himself and Allah will be the Helper of every Muslim after me. He is young, with very curly hair and his eye is smashed. I thought that he looked like 'Abdul-'Uzza bin Qatan. Whoever lives long and meets Ad-Dajjal, then let him recite the beginnings of Surat Al-Kahf. He will appear on a pass between Ash-Sham (Syria) and Al-'Iraq. He will wreak havoc to the right and left. O Servants of Allah! Hold fast.)
+
+We said, 'O Messenger of Allah! How long will he stay on earth?' He said,
+
+أَرْبَعُونَ يَوْمًا، يَومٌ كَسَنَةٍ، وَيَوْمٌ كَشَهْرٍ، وَيَوْمٌ كَجُمُعَةٍ، وَسَائِرُ أَيَّامِهِ كَأَيَّامِكُم
+
+(Forty days: One day as long as a year, one day as long as a month and one day as long as a week. The rest of his days will be as long as one of your ordinary days.) We said, 'O Messenger of Allah! As for the day that is like a year, will the prayers of one day suffice for it?' He said,
+
+لَا، اقْدُرُوا لَهُ قَدْرَهُ
+
+(No. Count for its due measure.) We said, 'O Messenger of Allah, how will his speed be on earth?' He said,
+
+كَالْغَيْثِ اسْتَدْبَرَتْهُ الرِّيحُ فَيَأْتِي عَلى قَوْمٍ فَيَدْعُوهُمْ فَيُؤْمِنُون بِهِ، وَيَسْتَجِيبُونَ لَهُ، فَيَأْمُرُ السَّمَاءَ فَتُمْطِرُ، وَالأَرْضَ فَتُنْبِتُ، فَتَرُوحُ عَلَيْهِمْ سَارِحَتُهُمْ أَطْوَلَ مَا كَانَتْ ذُرًى، وَأَسْبَغَهُ ضُرُوعًا، وَأَمَدَّهُ خَوَاصِرَ، ثُمَّ يَأْتِي الْقَوْمَ فَيَدْعُوهُمْ فَيَرُدُّونَ عَلَيْهِ قَوْلَهُ، فَيَنْصَرِفُ عَنْهُمْ فَيُصْبِحُونَ مُمْحِلِينَ لَيْسَ بِأَيْدِيهِمْ شَيْءٌ مِنْ أَمْوَالِهِمْ وَيَمُرُّ بِالْخَرِبَةِ فَيَقُولُ لَهَا: أَخْرِجِي كُنُوزَكِ، فَتَتْبَعُهُ كُنُوزُهَا كَيعَاسِيبِ النَّحْلِ، ثُمَّ يَدْعُو رَجُلًا مُمْتَلِئًا شَبَابًا فَيَضْرِبُهُ بِالسَّيْفِ، فَيَقْطَعُهُ جِزْلَتَيْنِ رَمْيَةَ الْغَرَضِ، ثُمَّ يَدْعُوهُ، فَيُقْبِلُ وَيَتَهَلَّلُ وَجْهُهُ وَيَضْحَكُ، فَبَيْنَما هُوَ كَذَلِكَ إِذْ بَعَثَ اللهُ الْمَسِيح ابْنَ مَرْيَمَ عَلَيْهِ السَّلَامُ،
+
+فَيَنْزِلُ عِنْدَ الـمَنَارَةِ البَيْضَاءِ شَرْقِيَّ دِمَشْقَ بَيْنَ مَهْرُودَتَيْنِ، وَاضِعًا كَفَّيْهِ عَلَى أَجْنِحَةِ مَلَكَيْنِ، إِذَا طَأْطَأَ رَأْسَهُ قَطَرَ، وَإذَا رَفَعَهُ تَحَدَّرَ مِنْهُ جُمَانٌ كَاللُّؤْلُؤِ، وَلَا يَحِلُّ لِكَافِرٍ يَجِدُ رِيحَ نَفَسِهِ إِلَّا مَاتَ، وَنَفَسُهُ يَنْتَهِي حَيْثُ يَنْتَهِي طَرَفُهُ، فَيَطْلُبُهُ حَتَّى يُدْرِكَهُ بِبَابِ لُدٍّ، فَيَقْتُلُهُ، ثُمَّ يَأْتِي عِيسَى عَلَيْهِ السَّلَامُ قَوْمًا قَدْ عَصَمَهُمُ اللهُ مِنْهُ، فَيَمْسَحُ عَنْ وُجُوهِهِمْ، وَيُحَدِّثُهُمْ بدَرَجَاتِهِمْ فِي الْجَنَّةِ، فَبَيْنَمَا هُوَ كَذَلِكَ إِذْ أَوْحَى اللهُ عَزَّ وَجَلَّ إِلَى عِيسَى: إِنِّي قَدْ أَخْرَجْتُ عِبَادًا لِي لَا يَدَانِ لِأَحَدٍ بِقِتَالِهِمْ، فَحَرِّزْ عِبَادِي إِلَى الطُّورِ، ويَبْعَثُ اللهُ يَأْجُوجَ وَمَأْجُوجَ وَهُمْ مِنْ كُلِّ حَدَبٍ يَنْسِلُونَ، فَيَمُرُّ أَوَّلُهُمْ عَلَى بُحَيْرَةِ طَبَرِيَّةَ فَيَشْرَبُونَ مَا فِيهَا، وَيَمُرُّ آخِرُهُمْ فَيقُولُونَ: لَقَدْ كَانَ بِهذِهِ مَرَّةً مَاءٌ، ويُحْصَرُ نَبِيُّ اللهِ عِيسَى وَأَصْحَابُهُ،
+
+حَتَّى يَكُونَ رَأْسُ الثَّورِ لِأَحَدِهِمْ خَيْرٌ مِنْ مِائَةِ دِينَارٍ لِأَحَدِكُمُ الْيَوْمَ، فَيَرْغَبُ نَبِيُّ اللهِ عِيسَى وَأَصْحَابُهُ، فَيُرسِلُ اللهُ عَلَيْهِمُ النَّغَفَ فِي رِقَابِهِمْ، فَيُصْبِحُونَ فَرْسَى كَمَوْتِ نَفْسٍ وَاحِدَةٍ، ثُمَّ يَهْبِطُ نَبِيُّ اللهِ عِيسَى وَأَصْحَابُهُ إِلَى الْأَرْضِ، فَلَا يَجِدُونَ فِي الْأَرْضِ مَوْضِعَ شِبْرٍ إِلَّا مَلَأَهُ زَهَمُهُمْ ونَتْنُهُمْ، فَيَرْغَبُ نَبِيُّ اللهِ عِيسَى وَأَصْحَابُهُ إِلَى اللهِ، فَيُرْسِلُ اللهُ، طَيْرًا كَأَعْنَاقِ الْبُخْتِ، فَتَحْمِلُهُمْ فَتَطْرَحُهُمْ حَيْثَ شَاءَ اللهُ، ثُمَّ يُرْسِلُ اللهُ مَطَرًا لَا يَكُنُّ مِنْهُ بَيْتُ مَدَرٍ، وَلَا وَبَرٍ، فَيَغْسِلُ الْأَرْضَ حَتَّى يَتْرُكَهَا كَالزَّلَفَةِ، ثُمَّ يُقَالُ لِلْأَرْضِ: أَخْرِجِي ثَمَرَكِ وَرُدِّي بَرَكَتَكِ، فَيَوْمَئِذٍ تَأْكُلُ الْعِصَابَةُ مِنَ الرُّمَّانَةِ، وَيَسْتَظِلُّونَ بِقِحْفِهَا، وَيُبَارِكُ اللهُ فِي الرِّسْلِ حَتَّى إِنَّ اللِّقْحَةَ مِنَ الْإِبِلِ لَتَكْفِي الفِئَامَ، (مِنَ النَّاسِ وَاللُّقْمَةَ مِنَ الْفَمِ لَتَكْفِي الْفَخِذَ مِنَ النَّاسِ)، فَبَيْنَما هُمْ كَذَلِكَ إِذْ بَعَثَ اللهُ رِيحًا طَيِّبَةً، فَتَأْخُذُهُمْ تَحْتَ آبَاطِهِمْ، فَتَقْبِضُ رُوحَ كُلِّ مُؤْمِنٍ وَكُلِّ مُسْلِمٍ، وَيَبْقَى شِرَارُ النَّاسِ يَتَهَارَجُونَ فِيهَا تَهَارُجَ الْحُمُرِ، فَعَلَيْهِمْ تَقُومُ السَّاعَةُ
+
+(Like the storm when driven by the wind. He will come to a people and will call them (to his worship), and they will believe in him and accept his call. He will order the sky and it will rain, the land and it will grow (vegetation). Their cattle will return to them with their hair the longest, their udders the fullest (with milk) and their stomachs the fattest. He will come to a different people and will call them (to his worship), and they will reject his call. He will then leave them. They will wake up in the morning destitute, missing all of their possessions. He will pass by a deserted land and will say to it, 'Bring out your treasures', and its treasures will follow him just like swarms of bees. He will summon a man full of youth and will strike him with the sword once and will cut him into two pieces (and will separate between them like) the distance (between the hunter and) the game. He will call the dead man and he will come, and his face will radiant with pleasure and laughter. Afterwards (while all this is happening with Ad-Dajjal), Allah will send Al-Masih ('Isa), son of Maryam down. He will descend close to the white minaret to the east of Damascus. He will be wearing garments lightly colored with saffron and his hands will be placed on the wings of two angels. Whenever he lowers his head droplets fall. Whenever he raises his head, precious stones that look like pearls fall. No disbeliever can survive 'Isa's breath, which reaches the distance of his sight. He will pursue Ad-Dajjal and will follow him to the doors of (the Palestinian city of) Ludd where he will kill him. A group of people who, by Allah's help, resisted and survived Ad-Dajjal, will pass by 'Isa and he will anoint their faces and inform them about their grades in Paradise. Shortly afterwards, while this is happening with 'Isa, Allah will reveal to him, 'I raised a people of My creation that no one can fight. Therefore, gather My servants to At-Tur (the mountain of Musa in Sinai).' Then, Allah will raise Gog and Magog and they will swiftly swarm from every mound. Their front forces will reach Lake Tabariah (Sea of Galilee) and will drink all its water. The last of their forces will say as they pass by the lake, 'This lake once had water!' Meanwhile, 'Isa, Allah's Prophet, will be cornered along with his companions until the head of a bull will be more precious to them than a hundred Dinars to you today. 'Isa, Allah's Prophet, and his companions will invoke Allah for help and Allah will send An-Naghaf (a worm) into the necks of Gog and Magog! The morning will come, and they will all be dead as if it was the death of one soul. Afterwards, 'Isa, the Prophet of Allah, will come down with his companions to the low grounds (from Mount At-Tur). They will find that no space of a hand-span on the earth was free of their fat and rot (rotten corpses). 'Isa, the Prophet of Allah, and his companions will seek Allah in supplication. Allah will send birds as large as the necks of camels. They will carry them (the corpses of Gog and Magog) and will throw them wherever Allah wills. Afterwards, Allah will send rain that no house made of mud or animal hair will be saved from, and it will cleanse the earth until it is as clean as a mirror. The earth will be commanded (by Allah), 'Produce your fruits and regain your blessing.' Then, the group will eat from a pomegranate and will take shelter under the shade of its skin. Milk will be blessed, so much so that the milk-producing camel will yield large amounts that suffice for a large group of people. Meanwhile, Allah will send a pure wind that will overcome Muslims from under their arms and will take the soul of every believer and Muslim. Only the evildoers among people will remain. They will indulge in shameless public sex like that of donkeys. On them, the Hour will begin.)
+
+Imam Ahmad and the collectors of the Sunan also recorded this Hadith. We will mention this Hadith again using the chain of narration collected by Ahmad explaining Allah's statement in Surat Al-Anbiya' (chapter 21),
+
+حَتَّىٰ إِذَا فُتِحَتْ يَأْجُوجُ وَمَأْجُوجُ
+
+(Until, when Ya'juj and Ma'juj (Gog and Magog people) are let loose (from their barrier).)[21:96]
+
+In our time, in the year seven hundred and forty-one, a white minaret was built in the Umayyad Masjid (in Damascus) made of stone, in place of the minaret that was destroyed by a fire which the Christians were suspected to have started. May Allah's continued curses descend on the Christians until the Day of Resurrection. There is a strong feeling that this minaret is the one that 'Isa will descend on, according to this Hadith.
+
+Another Hadith
+
+Muslim recorded in his Sahih that Ya'qub bin 'Asim bin 'Urwah bin Mas'ud Ath-Thaqafi said, "I heard 'Abdullah bin 'Amr saying to a man who asked him, 'What is this Hadith that you are narrating? You claim that the Hour will start on such and such date.' He said, 'Subhan Allah (glory be to Allah),' or he said, 'There is no deity worthy of worship except Allah.'
+
+I almost decided to never narrate anything to anyone. I only said, "Soon, you will witness tremendous incidents, the House (the Ka'bah) will be destroyed by fire, and such and such things will occur." He then said, 'The Messenger of Allah ﷺ said,
+
+يَخْرُجُ الدَّجَّالُ فِي أُمَّتِي فَيَمْكُثُ أَرْبَعِينَ، لَا أَدْرِي أَرْبَعِينَ يَوْمًا أَوْ أَرْبَعِينَ شَهْرًا أَوْ أَرْبَعِينَ عَامًا، فَيَبْعَثُ اللهُ تَعَالى عِيسَى ابْنَ مَرْيَمَ كَأَنَّهُ عُرْوَةُ بْنُ مَسْعُودٍ، فَيَطْلُبُهُ فَيُهْلِكُهُ، ثُمَّ يَمْكُثُ النَّاسُ سَبْعَ سِنِينَ لَيْسَ بَيْنَ اثْنَيْنِ عَدَاوَةٌ، ثُمَّ يُرْسِلُ اللهُ ريحًا بَارِدَةً مِنْ قِبَلِ الشَّامِ، فَلَا يَبْقَى عَلَى وَجْهِ الْأَرْضِ أَحَدٌ فِي قَلْبِهِ مِثْقَالُ ذَرَّةٍ مِنْ خَيْرٍ - أَوْ إِيمَانٍ - إِلَّا قَبَضَتْهُ، حَتَّى لَوْ أَنَّ أَحَدَكُمْ دَخَلَ فِي كَبِدِ جَبَلٍ لَدَخَلَتْه عَلَيْهِ حَتَّى تَقْبِضَهُ
+
+قال: سمعتها من رسول الله صلّى الله عليه وسلّم
+
+فَيَبْقَى شِرَارُ النَّاسِ فِي خِفَّةِ الطَّيْرِ وَأَحْلَامِ السِّبَاعِ، لَا يَعْرِفُونَ مَعْرُوفًا، وَلَا يُنْكِرُون مُنْكرًا، فَيَتمَثَّلُ لَهُمُ الشَّيْطَانُ فَيَقُولُ: أَلَا تَسْتَجِيبُونَ؟ فَيَقُولُونَ: فَمَا تَأْمُرُنَا؟ فَيَأْمُرُهُمْ بِعِبَادَةِ الْأَوْثَانِ، وَهُمْ فِي ذلِكَ دَارٌّ رِزْقُهُمْ، حَسَنٌ عَيْشُهُمْ، ثُمَّ يُنْفَخُ فِي الصُّورِ فَلَا يَسْمَعُهُ أَحَدٌ إِلَّا أَصْغَى لِيتًا وَرَفَعَ لِيتًا، قَالَ: وَأَوَّلُ مَنْ يَسْمَعُهُ رَجُلٌ يَلُوطُ حَوْضَ إِبِلِهِ، قَالَ: فَيَصْعَقُ وَيَصْعَقُ النَّاسُ، ثُمَّ يُرْسِلُ اللهُ - أَوْ قَالَ: يُنْزِلُ اللهُ - مَطَرًا كَأَنَّهُ الطَّلُّ - أَوْ قَالَ الظِّلُّ - نُعْمَانُ الشَّاكُّ - فَتَنْبُتُ مِنْهُ أَجْسَادُ النَّاسِ، ثُمَّ يُنَفَخُ فِيهِ أُخْرَى فَإِذَا هُمْ قِيَامٌ يَنْظُرُونَ. ثُمَّ يُقَالُ: أَيُّهَا النَّاسُ: هَلُمُّوا إِلى رَبِّكُم
+
+(Ad-Dajjal will appear in my nation and will remain for forty. (The narrator doubts whether it is forty days, months, or years).Then, Allah will send down 'Isa, son of Maryam, looking just like 'Urwah bin Mas'ud and he will seek Ad-Dajjal and will kill him. People will remain for seven years with no enmity between any two. Allah will send a cool wind from As-Sham that will leave no man on the face of the earth who has even the weight of an atom of good or faith, but will capture (his soul). Even if one of you takes refuge in the middle of a mountain, it will find him and capture (his soul). Afterwards, only the most evil people will remain. They will be as light as birds, with the comprehension of beasts. They will not know or enjoin righteousness or forbid or know evil. Shaytan will appear to them and will say to them, 'Would you follow me.' They will say, 'What do you command us?' He will command them to worship the idols. Meanwhile, their provision will come to them in abundance and their life will be good. Then the Trumpet will be blown and every person who hears it, will lower one side of his head and raise the other side (trying to hear that distant sound). The first man who will hear the Trumpet is someone who is preparing the water pool for his camels, and he and the people will swoon away. Allah will send down heavy rain and the bodies of people will grow with it. The Trumpet will be blown in again and the people will be resurrected and looking all about, staring. It will be said to them, 'O people! Come to your Lord,'
+
+وَقِفُوهُمْ إِنَّهُم مَّسْئُولُونَ
+
+(But stop them, verily, they are to be questioned.)[37:24]
+
+ثم يقال: أخرجوا بعث النار، فيقال: من كم؟ فيقال: من كل ألف تسعمائة وتسعة وتسعين، قال: فذلك يوم
+
+(It will then be said, 'Bring forth the share of the Fire.' It will be asked, 'How many?' It will be said, 'From every one thousand, nine hundred and ninety-nine.' That Day is when,)
+
+يَجْعَلُ الْوِلْدَانَ شِيبًا
+
+(the children will turn grey-headed,)[73:17] and,
+
+يَوْمَ يُكْشَفُ عَن سَاقٍ
+
+(The Day when the Shin shall be laid bare).) [68:42]"
+
+The Description of 'Isa, upon him be Peace
+
+As mentioned earlier, 'Abdur-Rahman bin Adam narrated that Abu Hurayrah said that the Prophet ﷺ said,
+
+فَإِذَا رَأَيْتُمُوهُ فَاعْرِفُوهُ: رَجُلٌ مَرْبُوعٌ إِلَى الْحُمْرَةٍ وَالْبَيَاضِ، عَلَيْهِ ثَوْبَانِ مُمَصَّرَانِ، كَأَنَّ رَأْسَهُ يَقْطُرُ وَإِنْ لَمْ يُصِبْهُ بَلَلٌ
+
+(If you see 'Isa, know him. He is a well-built man, (the color of his skin) between red and white. He will descend while wearing light yellow garments. His head looks like it is dripping water, even though no moisture touched it.) In the Hadith that An-Nawwas bin Sam'an narrated,
+
+فَيَنْزِلُ عِنْدَ الْمَنَارَةِ الْبَيْضَاءِ شَرْقِيَّ دِمَشْقَ بَيْنَ مَهْرُودَتَيْنِ وَاضِعًا كَفَّيْهِ عَلَى أَجْنِحَةِ مَلَكَيْنِ، إِذَا طَأْطَأَ رَأْسَهُ قَطَرَ، وَإِذَا رَفَعهُ تَحَدَّرَ مِنْهُ مِثْلُ جُمَانِ اللُّؤْلُؤ، لَا يَحِلُّ لِكَافِرٍ يَجِدُ رِيحَ نَفَسِهِ إِلَّا مَاتَ، وَنَفَسُهُ يَنْتَهِي حَيْثُ يَنْتَهِي طَرَفُهُ
+
+(He will descend close to the white minaret to the east of Damascus. He will be wearing two garments lightly colored with saffron, having his hands on the wings of two angels. Whenever he lowers his head, drops will fall off of it. Whenever he raises his head, precious jewels like pearls will fall off of it. No disbeliever can survive 'Isa's breath, and his breath reaches the distance of his sight.) Al-Bukhari and Muslim recorded that Abu Hurayrah said that the Messenger of Allah ﷺ said,
+
+لَيْلَةَ أُسْرِيَ بِي لَقِيتُ مُوسَى
+
+(I met Musa on the night of my Ascension to heaven.) The Prophet ﷺ then described him saying, as I think,
+
+مُضْطَرِبٌ، رَجِلُ الرَّأْسِ كَأَنَّهُ مِنْ رِجَالِ شَنُوءَةَ
+
+(He was a tall person with hair as if he was one of the men from the tribe of Shanu'ah.) The Prophet ﷺ further said,
+
+وَلقِيتُ عِيسَى
+
+فنعته النبي صلّى الله عليه وسلّم فقال:
+
+رَبْعَةٌ أَحْمَرُ كَأَنَّهُ خَرَجَ مِنْ دِيمَاسٍ
+
+يعني الحمام،
+
+وَرَأَيْتُ إبْرَاهِيمَ وَأَنا أَشْبَهُ وَلَدِهِ بِهِ
+
+('I met 'Isa.' The Prophet ﷺ described him saying, 'He was of moderate height and was red-faced as if he had just come out of a bathroom. I saw Ibrahim whom I resembled more than any of his children did.')
+
+Al-Bukhari recorded that Mujahid said that Ibn 'Umar said that the Messenger of Allah ﷺ said,
+
+رَأَيْتُ مُوسَى وَعِيسَى وَإِبْرَاهِيمَ، فَأَمَّا عِيسَى فَأَحْمَرُ جَعْدٌ عَرِيضُ الصَّدْرِ، وَأَمَّا مُوسَى فَآدَمُ جَسِيمٌ سَبْطٌ، كَأَنَّهُ مِنْ رِجَالِ الزُّطِّ
+
+(I saw Musa, 'Isa and Ibrahim. 'Isa was of red complexion and had curly hair and a broad chest. Musa was of brown complexion and had straight hair and a tall stature, as if he was from the people of Az-Zutt.)
+
+Al-Bukhari and Muslim recorded that Ibrahim said that 'Abdullah bin 'Umar said, "The Prophet ﷺ once mentioned the False Messiah (Al-Masih Ad-Dajjal) to people, saying,
+
+إنَّ اللهَ لَيْسَ بِأَعْوَرَ، أَلَا إِنَّ الْمَسِيحَ الدَّجَّالَ أَعْوَرُ الْعَيْنِ الْيُمْنَى، كَأَنَّ عَيْنَهُ عِنَبَةٌ طَافِيَةٌ
+
+(Allah is not blind in His Eye. Al-Masih Ad-Dajjal is blind in his right eye. His eye is like a protruding grape.)" Muslim recorded that the Messenger of Allah ﷺ said,
+
+وَأرَانِي اللهُ عِنْدَ الْكَعْبَةِ فِي الْمَنَامِ، فَإِذَا رَجُلٌ آدَمُ كَأَحْسَنِ مَا تَرَى مِنْ أُدْمِ الرِّجَالِ، تَضْرِبُ لِمَّتُهُ بَيْن مَنْكِبَيْهِ، رَجِلُ الشَّعْرِ، يَقْطُرُ رَأْسُهُ مَاءً، وَاضِعًا يَدَيْهِ عَلى مَنْكِبَيْ رَجُلَيْنِ، وَهُوَ يَطُوفُ بِالْبَيْتِ، فَقُلْتُ: مَنْ هَذَا؟ فَقَالُوا: هُوَ الْمَسِيحُ ابْنُ مَرْيَمَ، ثُمَّ رَأَيْتُ وَرَاءَهُ رَجُلًا جَعْدًا قَطِطًا، أَعْوَرَ الْعَيْنِ الْيُمْنَى، كَأَشْبَهِ مَنْ رَأَيْتُ بِابْنِ قَطَنٍ، وَاضِعًا يَدَيْهِ عَلى مَنْكِبَي رَجُلٍ، يَطُوفُ بِالْبَيْتِ، فَقُلْتُ: مَنْ هَذَا؟ قَالُوا: الْمَسِيحُ الدَّجَّالُ
+
+(In a dream, I was at the Ka'bah and Allah made me see a light-colored man, a color that is as beautiful as a light-colored man could be, with combed hair that reached his shoulders. His hair was dripping water, and he was leaning on the shoulders of two men while circling the Ka'bah. I asked, 'Who is this man?' I was told, 'This is the Al-Masih, son of Maryam.' Behind him, I saw a man with very curly hair who was blind in his right eye. He looked exactly as Ibn Qatan, and he was leaning on the shoulder of a man while circling the House. I asked, 'Who is this man?' I was told, 'He is Al-Masih Ad-Dajjal.')
+
+Al-Bukhari recorded that Salim said that his father said, "No, By Allah! The Prophet ﷺ did not say that 'Isa was of red complexion but said,
+
+بَيْنَمَا أَنَا نَائِمٌ أَطُوفُ بِالْكَعْبَةِ، فَإِذَا رَجُلٌ آدَمُ سَبْطُ الشَّعْرِ، يَتَهَادَى بَيْنَ رَجُلَيْنِ، يَنْطُفُ رَأْسُهُ مَاءً - أَوْ يُهَرَاقُ رَأْسُهُ مَاءً - فَقُلْتُ: مَنْ هَذَا؟ فَقَالُوا: ابْنُ مَرْيَمَ، فَذَهَبْتُ أَلْتَفِتُ، فَإِذَا رَجُلٌ أَحْمَرُ جَسِيمٌ، جَعْدُ الرَّاْسِ، أَعْوَرُ عَيْنِهِ الْيُمْنَى، كَأَنَّ عَيْنَهُ عِنَبَةٌ طَافِيَةٌ، قُلْتُ: مَنْ هَذَا؟ قَالُو: الدَّجَّالُ، وَأَقْرَبُ النَّاسِ بِهِ شَبَهًا ابْنُ قَطَنِ
+
+(While I was asleep circumambulating the Ka'bah (in my dream), I suddenly saw a man of brown complexion and ample hair walking between two men with water dripping from his head. I asked, 'Who is this?' The people said, 'He is the son of Maryam.' Then I looked behind and I saw a red-complexioned, fat, curly-haired man, blind in the right eye, which looked like a bulging out grape. I asked, 'Who is this?' They replied, 'He is Ad-Dajjal.' The person he most resembled is Ibn Qatan.)"
+
+Az-Zuhri commented that Ibn Qatan was a man from the tribe of Khuza'ah who died during the time of Jahiliyyah. This is the wording of Al-Bukhari. Allah's statement,
+
+وَيَوْمَ الْقِيَامَةِ يَكُونُ عَلَيْهِمْ شَهِيدًا
+
+(And on the Day of Resurrection, he ('Isa) will be a witness against them) Qatadah said, "He will bear witness before them that he has delivered the Message from Allah and that he is but a servant of His." In a similar statement in the end of Surat Al-Ma'idah,
+
+وَإِذْ قَالَ اللَّهُ يَا عِيسَى ابْنَ مَرْيَمَ أَأَنتَ قُلْتَ لِلنَّاسِ
+
+(And (remember) when Allah will say (on the Day of Resurrection): "O 'Isa, son of Maryam! Did you say unto men...")[5:116] until,
+
+الْعَزِيزُ الْحَكِيمُ
+
+(Almighty, the All-Wise.)[5:118]
 
 ### al-Tabari (Arabic)
 
@@ -696,9 +1480,67 @@ In the chapter about the Prophets in his Sahih, under, "The Descent of 'Isa, Son
 
 فإن ظن ظانٌّ أنّ معنى إيمان اليهودي بعيسى الذي ذكره الله في قوله:"وإن من أهل الكتاب إلا ليؤمنن به قبل موته"، إنما هو إقراره بأنه لله نبيٌّ مبعوث، دون تصديقه بجميع ما أتى به من عند الله= فقد ظن خطأ.
 
-وذلك أنه غير جائز أن يكون منسوبًا إلى الإقرار بنبوّة نبي، من كان له مكذبًا في بعض ما جاء به من وحْي الله وتنزيله. بل غير جائز أن يكون منسوبًا إلا الإقرار بنبوة أحد من أنبياء الله، لأن الأنبياء جاءت الأمم بتصديق جميع أنبياء الله ورسله. فالمكذب بعض أنبياء الله فيما أتى به أمّته من عند الله، مكذِّب جميع أنبياء الله فيما دعوا إليه من دين الله عبادَ الله. وإذْ كان ذلك كذلك= وكان الجميع من أهل الإسلام مجمعين على أن كلَّ كتابي مات قبل إقراره بمحمد صلوات الله عليه وما جاء به من عند الله، [[في المطبوعة: "وإذ كان ذلك كذلك كان في إجماع الجميع من أهل الإسلام على أن كل كتابي.." غير ما في المخطوطة، ليصلح الخطأ الذي وقع فيها. كما سترى في التعليق: ٣.]] محكوم له بحكم الملّة التي كان عليها أيام حياته، [[في المطبوعة: "بحكم المسألة التي كان عليها ... "، والصواب من المخطوطة.]] غيرُ منقولٍ شيء من أحكامه في نفسه وماله وولده صغارهم وكبارهم بموته، عما كان عليه في حياته= دلَّ الدليل على أن معنى قول الله: [[في المطبوعة والمخطوطة: "أدل الدليل على معنى قول الله"، والصواب يقتضي ما أثبت. وسياق العبارة: "وإذ كان ذلك كذلك، وكان الجميع من أهل الإسلام
+وذلك أنه غير جائز أن يكون منسوبًا إلى الإقرار بنبوّة نبي، من كان له مكذبًا في بعض ما جاء به من وحْي الله وتنزيله. بل غير جائز أن يكون منسوبًا إلا الإقرار بنبوة أحد من أنبياء الله، لأن الأنبياء جاءت الأمم بتصديق جميع أنبياء الله ورسله. فالمكذب بعض أنبياء الله فيما أتى به أمّته من عند الله، مكذِّب جميع أنبياء الله فيما دعوا إليه من دين الله عبادَ الله. وإذْ كان ذلك كذلك= وكان الجميع من أهل الإسلام مجمعين على أن كلَّ كتابي مات قبل إقراره بمحمد صلوات الله عليه وما جاء به من عند الله، [[في المطبوعة: "وإذ كان ذلك كذلك كان في إجماع الجميع من أهل الإسلام على أن كل كتابي.." غير ما في المخطوطة، ليصلح الخطأ الذي وقع فيها. كما سترى في التعليق: ٣.]] محكوم له بحكم الملّة التي كان عليها أيام حياته، [[في المطبوعة: "بحكم المسألة التي كان عليها ... "، والصواب من المخطوطة.]] غيرُ منقولٍ شيء من أحكامه في نفسه وماله وولده صغارهم وكبارهم بموته، عما كان عليه في حياته= دلَّ الدليل على أن معنى قول الله: [[في المطبوعة والمخطوطة: "أدل الدليل على معنى قول الله"، والصواب يقتضي ما أثبت. وسياق العبارة: "وإذ كان ذلك كذلك، وكان الجميع من أهل الإسلام مجمعين ... دل الدليل على أن معنى قول الله ... إنما معناه ... ". فهذا هو السياق الذي يدل على صواب ما صححته في المطبوعة والمخطوطة.]] "وإن من أهل الكتاب إلا ليؤمنن به قبل موته"، إنما معناه: إلا ليؤمنن بعيسى قبل موت عيسى، وأن ذلك في خاصٍ من أهل الكتاب، ومعنيٌّ به أهل زمان منهم دون أهل كل الأزمنة التي كانت بعد عيسى، وأن ذلك كائن عند نزوله، كالذي:-
 
-[TRUNCATED at 12000 chars — 6116 more. Consult the source directly before relying on anything near the cut.]
+١٠٨٣٠- حدثني بشر بن معاذ قال، حدثني يزيد قال، حدثنا سعيد، عن قتادة، عن عبد الرحمن بن آدم، عن أبي هريرة: أن نبيَّ الله ﷺ قال: الأنبياء إخوة لعَلاتٍ، أمهاتهم شتى ودينهم واحدٌ. وإنيّ أولى الناس بعيسى ابن مريم، لأنه لم يكن بيني وبينه نبيٌّ. وإنه نازلٌ، فإذا رأيتموه فاعرفوه، فإنه رجل مربُوع الخَلق، إلى الحمرة والبياض، سَبْط الشعر، كأن رأسه يقطر وإن لم يصبه بَلل، بين ممصَّرتين، فيدُقّ الصليب، ويقتل الخنزير، ويضع الجزية، ويفيض المال، ويقاتل الناس على الإسلام حتى يهلك الله في زمانه الملل كلَّها غير الإسلام، ويهلك الله في زمانه مسيحَ الضلالة الكذابَ الدجال، وتقع الأمَنَة في الأرض في زمانه، حتى ترتع الأسود مع الإبل، والنمور مع البقر، والذئاب مع الغنم، وتلعب الغِلمان= أو: الصبيان= بالحيات، لا يضرُّ بعضهم بعضًا. ثم يلبث في الأرض ما شاء الله= وربما قال: أربعين سنة= ثم يتوفَّى، ويصلي عليه المسلمون ويدفنونه. [[الأثر: ١٠٨٣٠ - هذا الحديث، مضى برقم: ٧١٤٥، من طريق ابن حميد، عن سلمة، عن ابن إسحاق، عن الحسن بن دينار، عن قتادة، بمثله، إلا بعض اختلاف يسير جدًا في لفظه. وهو حديث صحيح، خرجه أخي السيد أحمد في موضعه هناك، وأشار إلى طريق الطبري هذه في هذا الموضع، فراجعه هناك.]]
+
+* *
+
+وأما الذي قال: عنى بقوله:"ليؤمنن به قبل موته"، ليؤمنن بمحمد ﷺ قبلَ موت الكتابي - فمما لا وجه له مفهوم، لأنه= مع فساده من الوجه الذي دَللنا على فساد قول من قال:"عنى به: ليؤمنن بعيسى قبل موت الكتابي"= يزيده فسادًا أنه لم يجر لمحمد عليه السلام في الآيات التي قبلَ ذلك ذكر، فيجوز صرف"الهاء" التي في قوله:"ليؤمنن به"، إلى أنها من ذكره. وإنما قوله:"ليؤمنن به"، في سياق ذكر عيسى وأمه واليهود. فغير جائز صرف الكلام عما هو في سياقه إلى غيره، إلا بحجة يجب التسليم لها من دلالة ظاهر التنزيل، أو خبر عن الرسول تقوم به حُجَّة. فأما الدَّعاوى، فلا تتعذر على أحد.
+
+* *
+
+قال أبو جعفر: فتأويل الآية= إذْ كان الأمر على ما وصفنا [[في المطبوعة: "ما وصفت"، وأثبت ما في المخطوطة.]] =: وما من أهل الكتاب إلا من ليؤمنن بعيسى، قبل موت عيسى= وحذف"مَن" بعد"إلا"، لدلالة الكلام عليه، فاستغنى بدلالته عن إظهاره، كسائر ما قد تقدم من أمثاله التي قد أتينا على البيان عنها.
+
+* *
+
+القول في تأويل قوله: ﴿وَيَوْمَ الْقِيَامَةِ يَكُونُ عَلَيْهِمْ شَهِيدًا (١٥٩) ﴾
+
+قال أبو جعفر: يعني بذلك جل ثناؤه: ويوم القيامة يكون عيسى على أهل الكتاب"شهيدًا"، يعني: شاهدًا عليهم بتكذيب من كذَّبه منهم، وتصديق من صدقه منهم، فيما أتاهم به من عند الله، وبإبلاغه رسالة ربه، [[انظر تفسير"شهيد" فيما سلف من فهارس اللغة.]] كالذي:-
+
+١٠٨٣١- حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج قال، قال ابن جريج:"ويوم القيامة يكون عليهم شهيدًا"، أنه قد أبلغهم ما أُرسل به إليهم. [[في المطبوعة: "أرسله به"، وأثبت ما في المخطوطة.]]
+
+١٠٨٣٢- حدثنا بشر بن معاذ قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة:"ويوم القيامة يكون عليهم شهيدًا"، يقول: يكون عليهم شهيدًا يوم القيامة على أنه قد بلغ رسالة ربه، وأقرّ بالعبوديّة على نفسه.
+
+* *
+
+القول في تأويل قوله: ﴿فَبِظُلْمٍ مِنَ الَّذِينَ هَادُوا حَرَّمْنَا عَلَيْهِمْ طَيِّبَاتٍ أُحِلَّتْ لَهُمْ وَبِصَدِّهِمْ عَنْ سَبِيلِ اللَّهِ كَثِيرًا (١٦٠) وَأَخْذِهِمُ الرِّبَا وَقَدْ نُهُوا عَنْهُ وَأَكْلِهِمْ أَمْوَالَ النَّاسِ بِالْبَاطِلِ وَأَعْتَدْنَا لِلْكَافِرِينَ مِنْهُمْ عَذَابًا أَلِيمًا (١٦١) ﴾
+
+قال أبو جعفر: يعني بذلك جل ثناؤه: فحرَّمنا على اليهود الذين نقضوا ميثاقهم الذي واثقوا ربهم، وكفروا بآيات الله، وقتلوا أنبياءهم، وقالوا البهتان على مريم، وفعلوا ما وصفهم الله في كتابه= طيباتٍ من المآكل وغيرها، كانت لهم حلالا عقوبة لهم بظلمهم، الذي أخبر الله عنهم في كتابه، [[انظر تفسير"هاد" فيما سلف ٢: ١٤٣، ٥٠٧، ٥٠٨.
+
+وتفسير"الطيبات" فيما سلف ٣: ٣٠١ / ٥: ٥٥٥ / ٦: ٣٦١ / ٧: ٤٢٤ / ٨: ٤٠٩.]] كما:-
+
+١٠٨٣٣- حدثنا بشر بن معاذ قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة:"فبظلم من الذين هادوا حرمنا عليهم طيبات أحلت لهم" الآية، عوقب القوم بظلم ظلموه وبَغْيٍ بَغَوْه، حرمت عليهم أشياء ببغيهم وبظلمهم.
+
+* *
+
+وقوله:"وبصدّهم عن سبيل الله كثيرًا"، يعني: وبصدّهم عبادَ الله عن دينه وسبله التي شرعَها لعباده، صدًّا كثيرًا. [[في المطبوعة: "التي شرحها لعبادة" وهو خطأ ظاهر.]] وكان صدُّهم عن سبيل الله: بقولهم على الله الباطل، وادعائهم أن ذلك عن الله، وتبديلهم كتاب الله، وتحريف معانيه عن وجوهه. وكان من عظيم ذلك: جحودهم نبوة نبيِّنا محمد ﷺ، وتركهم بيانَ ما قد علِموا من أمره لمن جَهِل أمره من الناس. [[انظر تفسير"الصد" فيما سلف ٤: ٣٠٠ / ٧: ٥٣ / ٨: ٤٨٢، ٥١٣ وتفسير"السبيل" فيما سلف من فهارس اللغة.]]
+
+* *
+
+وبنحو ذلك كان مجاهد يقول:
+
+١٠٨٣٤- حدثنا محمد بن عمرو قال، حدثني أبو عاصم قال، حدثني عيسى، عن ابن أبي نجيح، عن مجاهد في قول الله:"وبصدّهم عن سبيل الله كثيرًا"، قال: أنفسَهم وغيرَهم عن الحق.
+
+١٠٨٣٥- حدثني المثنى قال، حدثنا أبو حذيفة قال، حدثنا شبل، عن ابن أبي نجيح، عن مجاهد، مثله.
+
+* *
+
+وقوله:"وأخذهم الربا"، وهو أخذهم ما أفضلوا على رءوس أموالهم، لفضل تأخير في الأجل بعد مَحِلِّها، وقد بينت معنى"الربا" فيما مضى قبل، بما أغنى عن إعادته. [[انظر تفسير"الربا" فيما سلف ٦: ٧، ٨، ١٣، ١٥، ٢٢.]]
+
+* *
+
+="وقد نهوا عنه" يعني: عن أخذ الربا.
+
+* *
+
+وقوله:"وأكلهم أموالَ الناس بالباطل"، يعني ما كانوا يأخذون من الرُّشَى على الحكم، كما وصفهم الله به في قوله: ﴿وَتَرَى كَثِيرًا مِنْهُمْ يُسَارِعُونَ فِي الإثْمِ وَالْعُدْوَانِ وَأَكْلِهِمُ السُّحْتَ لَبِئْسَ مَا كَانُوا يَعْمَلُونَ﴾ [سورة المائدة: ٦٢] . وكان من أكلهم أموال الناس بالباطل، ما كانوا يأخذون من أثمان الكتب التي كانوا يكتبونها بأيديهم، ثم يقولون:"هذا من عند الله"، وما أشبه ذلك من المآكل الخسيسة الخبيثة. فعاقبهم الله على جميع ذلك، بتحريمه ما حرَّم عليهم من الطيبات التي كانت لهم حلالا قبل ذلك.
+
+وإنما وصفهم الله بأنهم أكلوا ما أكلوا من أموال الناس كذلك بالباطل، [[انظر تفسير"أكل الأموال بالباطل" فيما سلف ٣: ٥٤٨ / ٧: ٥٢٨، ٥٧٨ / ٨: ٢١٦.]] لأنهم أكلوه بغير استحقاق، [[في المطبوعة: "بأنهم أكلوه ... "، والصواب من المخطوطة.]] وأخذوا أموالهم منهم بغير استيجاب.
+
+* *
+
+وقوله:"وأعتدنا للكافرين منهم عذابًا أليمًا"، [[في المطبوعة: "فقوله: ... "، والصواب من المخطوطة.]] يعني: وجعلنا للكافرين بالله وبرسوله محمد ﷺ من هؤلاء اليهود، [[انظر تفسير"أعتد" فيما سلف ٨: ١٠٣، ٣٥٥ / ٩: ٣٥٣.]] العذاب الأليم= وهو الموجع [[انظر تفسير"الأليم" فيما سلف من فهارس اللغة.]] = من عذاب جهنم عنده، [[في المطبوعة: "من عذاب جهنم عدة يصلونها ... " والصواب من المخطوطة.]] يصلونها في الآخرة، إذا وردوا على ربهم، فيعاقبهم بها.
 
 ### al-Muyassar (Arabic)
 

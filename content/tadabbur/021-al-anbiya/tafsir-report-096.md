@@ -204,9 +204,47 @@ We said, 'O Messenger of Allah, how long will he remain on earth?' He said,
 
 Ibn Jabir said: "'Ata' bin Yazid As-Saksaki told me, from Ka'b or someone else: 'They will throw them into Al-Mahbal.' Ibn Jabir said: "I said, 'O Abu Yazid, and where is Al-Mahbal?" He said, "In the east (where the sun rises)." He said:
 
-وَيُرْسِلُ اللهُ مَطَرًا لَا يَكُنُّ مِنْهُ بَيْتُ مَدَرٍ وَلَا وَبَرٍ أ
+وَيُرْسِلُ اللهُ مَطَرًا لَا يَكُنُّ مِنْهُ بَيْتُ مَدَرٍ وَلَا وَبَرٍ أَرْبَعِينَ يَوْمًا، فَيَغْسِلُ الْأَرْضَ حَتَّى يَتْرُكَهَا كَالزَّلَفَةِ، وَيُقَالُ لِلْأَرْضِ: أَنْبِتِي ثَمَرَكِ وَرُدِّي بَرَكَتَكِ، قَالَ: فَيَوْمَئِذٍ يَأْكُلُ النَّفَرُ مِنَ الرُّمَّانَةِ فَيَسْتَظِلُّونَ بِقِحْفِهَا، وَيُبَارَكُ فِي الرِّسْلِ حَتَّى إِنَّ اللِّقْحَةَ مِنَ الْإِبِلِ لَتَكْفِي الْفِئَامَ مِنَ النَّاسِ، وَاللِّقْحَةَ مِنَ الْبَقَرِ تَكْفِي الْفَخِذَ، وَالشَّاةَ مِنَ الْغَنَمِ تَكْفِي أَهْلَ الْبَيْتِ، قَالَ: فَبَيْنَمَا هُمْ عَلَى ذَلِكَ، إِذْ بَعَثَ اللهُ عَزَّ وَجَلَّ رِيحًا طَيِّبَةً، فَتَأْخُذُهُمْ تَحْتَ آبَاطِهِمْ فَتَقْبِضُ رُوحَ كُلِّ مُسْلِمٍ - أَوْ قَالَ: كُلِّ مُؤْمِنٍ - وَيَبْقَى شِرَارُ النَّاسِ، يَتَهَارَجُونَ تَهَارُجَ الْحُمُرِ، وَعَلَيْهِمْ تَقُومُ السَّاعَةُ
 
-[TRUNCATED at 12000 chars — 3918 more. Consult the source directly before relying on anything near the cut.]
+(Then Allah will send rain which no house of clay or (tent of) camel's hair will be able to keep out, for forty days, and the earth will be washed until it looks like a mirror. Then it will be said to the earth: bring forth your fruit and restore your blessing. On that day a group of people will be able to eat from one pomegranate and seek shade under its skin, and everything will be blessed. A milch-camel will give so much milk that it will be sufficient for a whole group of people, and a milch-cow will give so much milk that it will be sufficient for a whole clan, and a sheep will be sufficient for an entire household. At that time Allah will send a pleasant wind which will reach beneath their armpits and will take the soul of every Muslim – or every believer – and there will be left only the most evil of people who will commit fornication like mules, and then the Hour will come upon them.)"
+
+This was also recorded by Muslim but not by Al-Bukhari. It was also recorded by the Sunan compilers, with different chains of narrators. At-Tirmidhi said, "It is Hasan Sahih."
+
+The Third Hadith
+
+Imam Ahmad recorded from Ibn Harmalah, from his maternal aunt who said: "The Messenger of Allah ﷺ gave a Khutbah, and he had a bandage on his finger where he had been stung by a scorpion. He said:
+
+إِنَّكُمْ تَقُولُونَ: لَا عَدُوَّ لَكُمْ، وَإِنَّكُمْ لَا تَزَالُونَ تُقَاتِلُونَ عَدُوًّا، حَتَّى يَأْتِيَ يَأْجُوجُ وَمَأْجُوجُ: عِرَاضَ الْوُجُوهِ، صِغَارَ الْعُيُونِ، صُهْبَ الشِّعَافِ، مِنْ كُلِّ حَدَبٍ يَنْسِلُونَ كَأَنَّ وُجُوهَهُمُ الْمَجَانُّ الْمُطْرَقَةُ
+
+(You say that you have no enemy, but you will keep fighting your enemies until Ya'juj and Ma'juj come, with their wide faces, small eyes and reddish hair, pouring down from every mound with their faces looking like burnished shields.)"
+
+Ibn Abi Hatim recorded a Hadith of Muhammad bin 'Amr from Khalid bin 'Abdullah bin Harmalah Al-Mudlaji, from his paternal aunt, from the Prophet ﷺ, and he mentioned something similar.
+
+It was confimred by Hadiths that 'Isa bin Maryam will perform Hajj to the Al-Bayt Al-'Atiq (i.e., the Ka'bah). Imam Ahmad recorded that Abu Sa'id said: "The Messenger of Allah ﷺ said:
+
+لَيُحَجَّنَّ هَذَا الْبَيْتُ وَلَيُعْتَمَرَنَّ بَعْدَ خُرُوجِ يَأْجُوجَ وَمَأْجُوجَ
+
+(He will certainly come to this House and perform Hajj and 'Umrah, after the emergence of Ya'juj and Ma'juj.) This was recorded by Al-Bukhari.
+
+وَاقْتَرَبَ الْوَعْدُ الْحَقُّ
+
+(And the true promise (Day of Resurrection) shall draw near.) the Day of Resurrection, when these terrors and earthquakes and this chaos will come to pass. The Hour has drawn nigh and when it comes to pass, the disbelievers will say: "This is a difficult Day." Allah says:
+
+فَإِذَا هِيَ شَاخِصَةٌ أَبْصَارُ الَّذِينَ كَفَرُوا
+
+(Then, you shall see the eyes of the disbelievers fixedly staring in horror.) because of the horror of the tremendous events that they are witnessing.
+
+يَا وَيْلَنَا
+
+(Woe to us!) means, they will say, 'Woe to us!'
+
+قَدْ كُنَّا فِي غَفْلَةٍ مِّنْ هَٰذَا
+
+(We were indeed heedless of this) means, in the world.
+
+بَلْ كُنَّا ظَالِمِينَ
+
+(nay, but we were wrongdoers.) they will admit their wrongdoing at the time when that will not help them at all.
 
 ### al-Tabari (Arabic)
 

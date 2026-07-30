@@ -152,9 +152,37 @@ Ibn Jarir recorded that Zayd bin Aslam said, "Abu 'Ubaydah wrote to 'Umar bin Al
 
 (O you who believe! Endure and be more patient, and Rabitu, and have Taqwa of Allah, so that you may be successful.)[3:200]
 
-Al-Hafiz Ibn 'Asakir mentioned in the biography of 'Abdullah bin Al-Mubarak, that Muhammad bin Ibrahim bin Abi Sakinah said, "While in the area of Tarsus, 'Abdullah bin Al-Mubarak dictated 
+Al-Hafiz Ibn 'Asakir mentioned in the biography of 'Abdullah bin Al-Mubarak, that Muhammad bin Ibrahim bin Abi Sakinah said, "While in the area of Tarsus, 'Abdullah bin Al-Mubarak dictated this poem to me when I was greeting him goodbye. He sent the poem with me to Al-Fudayl bin 'Iyad in the year one hundred and seventy, 'O he who worships in the vicinity of the Two Holy Masjids! If you but see us, you will realize that you are only jesting in worship. He who brings wetness to his cheek with his tears, should know that our necks are being wet by our blood. He who tires his horses without purpose, know that our horses are getting tired in battle. Scent of perfume is yours, while our scent is the glimmer of spears and the stench of dust [in battle]. We were narrated about in the speech of our Prophet, an authentic statement that never lies. That the dust that erupts by Allah's horses and which fills the nostrils of a man shall never be combined with the smoke of a raging Fire. This, the Book of Allah speaks among us that the martyr is not dead, and the truth in Allah's Book cannot be denied.' I met Al-Fudayl Ibn 'Iyad in the Sacred Masjid and gave him the letter. When he read it, his eyes became tearful and he said, 'Abu 'Abdur-Rahman ('Abdullah bin Al-Mubarak) has said the truth and offered sincere advice to me.' He then asked me, 'Do you write the Hadith?' I said, 'Yes.' He said, 'Write this Hadith as reward for delivering the letter of Abu 'Abdur-Rahman to me. He then dictated, 'Mansur bin Al-Mu'tamir narrated to us that Abu Salih narrated from Abu Hurayrah that a man asked, 'O Messenger of Allah! Teach me a good deed that will earn me the reward of the Mujahidin in Allah's cause.' The Prophet ﷺ said,
 
-[TRUNCATED at 12000 chars — 3190 more. Consult the source directly before relying on anything near the cut.]
+هَلْ تَسْتَطِيعُ أَنْ تُصَلِّيَ فَلَا تَفْتُرَ، وَتَصُومَ فَلَا تُفْطِرَ؟
+
+(Are you able to pray continuously and fast without breaking the fast?) The man said, 'O Messenger of Allah! I cannot bear it.' The Prophet ﷺ said,
+
+فَوَالَّذِي نَفْسِي بِيَدِهِ لَوْ طُوِّقْتَ ذلِكَ مَا بَلَغْتَ الْمُجَاهِدِينَ فِي سَبِيلِ اللهِ، أَوَ مَا عَلِمْتَ أَنَّ فَرَسَ الْمُجَاهِدِ لَيَسْتَنُّ فِي طِوَلِهِ، فَيُكْتَبُ لَهُ بِذلِكَ الْحَسَنَاتُ
+
+(By He in Whose Hand is my soul! Even if you were able to do it, you will not achieve the grade of the Mujahidin in Allah's cause. Did you not know that the horse of the Mujahid earns rewards for him as long as it lives.)
+
+Allah said next,
+
+وَاتَّقُوا اللَّهَ
+
+(and have Taqwa of Allah), concerning all your affairs and situations. For instance, the Prophet said to Mu'adh when he sent him to Yemen,
+
+اتَّقِ اللهَ حَيْثُمَا كُنْتَ، وَأَتْبِعِ السَّيِّـئَــةَ الْحَسَنَةَ تَمْحُهَا، وَخَالِقِ النَّاسَ بِخُلُقٍ حَسَنٍ
+
+(Have Taqwa of Allah wherever you may be, follow the evil deed with a good deed and it will erase it, and deal with people in a good manner.)
+
+Allah said next,
+
+لَعَلَّكُمْ تُفْلِحُونَ
+
+(so that you may be successful.), in this life and the Hereafter. Ibn Jarir recorded that Muhammad bin Ka'b Al-Qurazi said that, Allah's statement,
+
+وَاتَّقُوا اللَّهَ لَعَلَّكُمْ تُفْلِحُونَ
+
+(and have Taqwa of Allah, so that you may be successful.) means, "Fear Me concerning what is between you and Me, so that you may acquire success when you meet Me tomorrow."
+
+The Tafsir of Surah Āl-'Imrān ends here, all praise is due to Allah, and we ask Him that we die while on the path of the Qur'an and Sunnah, Amin.
 
 ### al-Tabari (Arabic)
 
@@ -310,9 +338,37 @@ Al-Hafiz Ibn 'Asakir mentioned in the biography of 'Abdullah bin Al-Mubarak, tha
 
 * *
 
-وإنما قلنا ذلك أولى بالصواب، لأن ا
+وإنما قلنا ذلك أولى بالصواب، لأن المعروف من كلام العرب في"المفاعلة" أن تكون من فريقين، أو اثنين فصاعدًا، ولا تكون من واحد إلا قليلا في أحرف معدودة. فإذْ كان ذلك كذلك، فإنما أمر المؤمنون أن يصابروا غيرهم من أعدائهم، حتى يظفرهم الله بهم، ويعلي كلمته، ويخزي أعداءهم، وأن لا يكون عدوُّهم أصبر منهم. [[في المطبوعة: "وإلا يكن عددهم"، وهو خطأ، صوابه من المخطوطة.]]
 
-[TRUNCATED at 12000 chars — 2433 more. Consult the source directly before relying on anything near the cut.]
+* *
+
+وكذلك قوله:"ورابطوا"، معناه: ورابطوا أعداءكم وأعداء دينكم من أهل الشرك، في سبيل الله.
+
+* *
+
+قال أبو جعفر: ورأى أن أصل"الرباط"، ارتباط الخيل للعدوّ، كما ارتبط عدوهم لهم خيلهم، [[في المخطوطة: "كما ارتبط عددهم لهم حملهم"، ولعل صواب قراءتها"جيادهم"، ولكني تركت ما في المطبوعة على حاله، فهو صواب حسن.]] ثم استعمل ذلك في كل مقيم في ثغر يدفع عمن وراءه من أراده من أعدائهم بسوء، ويحمي عنهم من بينه وبينهم ممن بغاهم بشر، كان ذا خيل قد ارتبطها، أو ذا رَجْلة لا مركب له. [["الرجلة" (بضم الراء وسكون الجيم) : المشي راجلا غير راكب.]]
+
+* *
+
+وإنما قلنا معنى:"ورابطوا"، ورابطوا أعداءكم وأعداء دينكم، لأن ذلك هو المعنى المعروف من معاني"الرباط". وإنما يوجه الكلام إلى الأغلب المعروف في استعمال الناس من معانيه، دون الخفي، حتى تأتي بخلاف ذلك مما يوجب صرفه إلى الخفي من معانيه= حجة يجب التسليم لها من كتاب، أو خبر عن الرسول ﷺ، أو إجماع من أهل التأويل. [[قوله: "حجة"، فاعل قوله: "حتى تأتي بخلاف ذلك..". وكان في المطبوعة والمخطوطة: "حتى يأتي بخلاف ذلك ما يوجب صرفه ... "، والصواب"مما يوجب" كما أثبتها، وفي المطبوعة أيضا: "إلى الخفي من معاينة"، وهو خطأ ظاهر.]]
+
+* *
+
+القول في تأويل قوله: ﴿وَاتَّقُوا اللَّهَ لَعَلَّكُمْ تُفْلِحُونَ (٢٠٠) ﴾
+
+قال أبو جعفر: يعني بذلك تعالى ذكره:"واتقوا الله"، أيها المؤمنون، واحذروه أن تخالفوا أمره أو تتقدموا نهيه [[في المطبوعة: "وتتقدموا" بالواو، والصواب من المخطوطة. وقوله: "تتقدموا نهيه" هكذا جاء متعديا، وكأنه أراد: أو تسبقوا نهيه، وسبقهم نهيه. أن يخاطروا بالإسراع إلى المحارم بشهواتهم، قبل أن يردهم نهي الله عن إتيانها.]] ="لعلكم تفلحون"، يقول: لتفلحوا فتبقوا في نعيم الأبد، وتنجحوا في طلباتكم عنده، [[انظر تفسير"لعل" فيما سلف ١: ٣٦٤، ٣٦٥، ومواضع أخرى كثيرة. وانظر تفسير"الفلاح" فيما سلف ١: ٢٤٩، ٢٥٠ / ٣: ٥٦١ / ٧: ٩١.]] كما:-
+
+٨٣٩٩ - حدثنا يونس قال، أخبرنا ابن وهب قال، أخبرني أبو صخر، عن محمد بن كعب القرظي: أنه كان يقول في قوله:"واتقوا الله لعلكم تفلحون"، واتقوا الله فيما بيني وبينكم، لعلكم تفلحون غدًا إذا لقيتموني.
+
+* *
+
+آخر تفسير سورة آل عمران. [[عند هذا الموضع، انتهى جزء من التقسيم القديم الذي نقلت عنه نسختنا، وفيها ما نصه:
+
+"يتلوه القول في تفسير السورة التي يذكر فيها النساء.
+
+وصلى الله على سيدنا محمد النبي وآله وصحبه وسلم كثيرا"
+
+ثم يتلوه ما أثبتناه في أول تفسير سورة النساء.]]
 
 ### al-Muyassar (Arabic)
 

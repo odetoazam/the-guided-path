@@ -452,9 +452,97 @@ When the Qur'an is discussing Laws, commandments and prohibitions, it commands e
 
 (He (Muhammad ﷺ) commands them for Al-Ma'ruf (i.e. Islamic Monotheism and all that Islam has ordained); and forbids them from Al-Munkar (i.e. disbelief, polytheism of all kinds, and all that Islam has forbidden); he allows them as lawful At-Tayyibat(i.e. all good and lawful things), and prohibits them as unlawful Al-Khaba'ith (i.e. all evil and unlawful things), he releases them from their heavy burdens and from the fetters (bindings) that were upon them)(7:157).
 
-When the Ayat mention Resurrection and the horrors that will occur on that Day, and Paradise and the Fire and the joys and safe refuge that Allah prepared for His loyal friends, or torment and Hell for His enemies, these Ayat contain glad tidings or warnings. The Ayat then call to per
+When the Ayat mention Resurrection and the horrors that will occur on that Day, and Paradise and the Fire and the joys and safe refuge that Allah prepared for His loyal friends, or torment and Hell for His enemies, these Ayat contain glad tidings or warnings. The Ayat then call to perform good deeds and avoid evil deeds, making the life of this world less favorable and the Hereafter more favorable. They also establish the correct methods and guide to Allah's straight path and just legislation, all the while ridding the hearts of the evil of the cursed devil.
 
-[TRUNCATED at 12000 chars — 5791 more. Consult the source directly before relying on anything near the cut.]
+The Qur'an is the Greatest Miracle given to the Prophet (ﷺ)
+
+The Two Sahihs record that Abu Hurayrah said that the Prophet ﷺ said,
+
+مَا مِنْ نَبِيٍّ مِنَ الْأَنْبِيَاءِ إِلَّا قَدْ أُعْطِيَ مِنَ الآيَاتِ مَا آمَنَ عَلَى مِثْلِهِ الْبَشَرُ، وَإنَّمَا كَانَ الَّذِي أُوتِيتُه وَحْيًا أَوْحَاهُ اللهُ إِلَيَّ فَأَرْجُو أَنْ أَكُونَ أَكْثَرَهُمْ تَابِعًا يَوْمَ الْقِيَامَةِ
+
+(Every Prophet was given a miracle, the type of which brings mankind to faith. What I was given is a revelation that Allah sent down to me. Yet, I hope that I will have the most following on the Day of Resurrection.)
+
+This is the wording narrated by Muslim. The Prophet ﷺ stated that among the Prophets he was given a revelation, meaning, he was especially entrusted with the miraculous Qur'an that challenged mankind to produce something similar to it. As for the rest of the divinely revealed Books, they were not miraculous according to many scholars. Allah knows best. The Prophet ﷺ was also aided with innumerable signs and indications that testify to the truth of his prophethood and what he was sent with, all thanks and praise is due to Allah.
+
+Meaning of 'Stones'
+
+Allah said,
+
+فَاتَّقُوا النَّارَ الَّتِي وَقُودُهَا النَّاسُ وَالْحِجَارَةُ ۖ أُعِدَّتْ لِلْكَافِرِينَ
+
+(Then fear the Fire (Hell) whose fuel is men and stones, prepared for the disbelievers)(2:24).
+
+Fuel' is wood, or similar substances, used to start and feed a fire. Similarly, Allah said,
+
+وَأَمَّا الْقَاسِطُونَ فَكَانُوا لِجَهَنَّمَ حَطَبًا
+
+(And as for the Qasitun (disbelievers who deviated from the right path), they shall be firewood for Hell)(72:15), and,
+
+إِنَّكُمْ وَمَا تَعْبُدُونَ مِن دُونِ اللَّهِ حَصَبُ جَهَنَّمَ أَنتُمْ لَهَا وَارِدُونَ - لَوْ كَانَ هَٰؤُلَاءِ آلِهَةً مَّا وَرَدُوهَا ۖ وَكُلٌّ فِيهَا خَالِدُونَ
+
+(Certainly you (disbelievers) and that which you are worshipping now besides Allah, are (but) fuel for Hell! (Surely) you enter it. Had these (idols) been alihah (gods), they would not have entered there (Hell), and all of them will abide therein)(21:98-99).
+
+The stones mentioned here are the giant, rotten, black, sulfuric stones that become the hottest when heated, may Allah save us from this evil end. It was also reported that the stones mentioned here are the idols and rivals that were worshipped instead of Allah, just as Allah said,
+
+إِنَّكُمْ وَمَا تَعْبُدُونَ مِن دُونِ اللَّهِ حَصَبُ جَهَنَّمَ
+
+(Certainly you (disbelievers) and that which you are worshipping now besides Allah,are (but) fuel for Hell!)(21:98).
+
+Allah's statement,
+
+أُعِدَّتْ لِلْكَافِرِينَ
+
+(prepared for the disbelievers)
+
+It appears most obvious that it refers to the Fire that is fueled by men and stones, and it also may refer to the stones themselves. There is no contradiction between these two views, because they are dependent upon each other. 'Prepared' means, it is 'kept' and will surely touch those who disbelieve in Allah and His Messenger ﷺ. Ibn Ishaq narrated that Muhammad said that 'Ikrimah or Sa'id bin Jubayr said that Ibn 'Abbas said,
+
+أُعِدَّتْ لِلْكَافِرِينَ
+
+(prepared for the disbelievers),
+
+"For those who embrace the disbelief that you (disbelievers) have embraced."
+
+Jahannam (Hellfire) exists now
+
+Many of the Imams of the Sunnah used this Ayah to prove that the Fire exists now. This is because Allah said,
+
+أُعِدَّتْ
+
+(prepared) meaning, prepared and kept. There are many Hadiths on this subject. For instance, the Prophet ﷺ said,
+
+تَحَاجَّتِ الْجَنَّةُ وَالنَّارُ
+
+(Paradise and the Fire had an argument..)
+
+Also, the Prophet ﷺ said,
+
+اسْتَأْذَنَتِ النَّارُ رَبَّهَا فَقَالَتْ: رَبِّ أَكَلَ بَعضِي بَعْضًا فَأذِنَ لَهَا بِنَفَسَيْنِ: نَفَسٍ فِي الشِّتَاءِ وَنَفَسٍ فِي الصَّيْفِ
+
+(The Fire sought the permission of her Lord. She said, 'O my Lord! Some parts of me consumed the other parts.' And Allah allowed her two periods to exhale, one in winter and one in summer.)
+
+Also, there is a Hadith recorded from Ibn Mas'ud that the Companions heard the sound of a falling object. When they asked about it, the Messenger of Allah ﷺ said,
+
+هَذَا حَجَرٌ أُلْقِيَ بِهِ مِنْ شَفِيرِ جَهَنَّمَ مُنْذُ سَبْعِينَ سَنَةً، الْآنَ وَصَلَ إِلى قَعْرِهَا
+
+(This is a stone that was thrown from the top of Jahannam seventy years ago, but only now reached its bottom.) This Hadith is in Sahih Muslim.
+
+There are many Hadiths that are Mutawatir (narrated by many different chains of narrations) on this subject, such as the Hadiths about the eclipse prayer, the night of Isra' etc.
+
+Allah's statements,
+
+فَأْتُواْ بِسُورَةٍ مِّن مِّثْلِهِ
+
+(Then produce a Surah (chapter) of the like thereof)(2:23), and,
+
+بِسُورَةٍ مِّثْلِهِ
+
+(A Surah (chapter) like it)(10:38) this includes the short and long Surahs of the Qur'an. Therefore, the challenge to creation stands with regards to both the long and short Surahs, and there is no disagreement that I know of on this fact between the scholars of old and new. Before he became Muslim, 'Amr bin Al-'As met Musaylimah the Liar who asked him, "What has recently been revealed to your fellow (meaning Muhammad ﷺ) in Makkah?" 'Amr said, "A short, yet eloquent Surah." He asked, "What is it?" He said,
+
+وَالْعَصْرِ - إِنَّ الْإِنسَانَ لَفِي خُسْرٍ
+
+(By Al-'Asr (the time). Verily, man is in loss,)(103:1-2)
+
+Musaylimah thought for a while and said, "A similar Surah was also revealed to me." 'Amr asked, "What is it?" He said, "O Wabr, O Wabr (i.e. a wild cat), you are but two ears and a chest, and the rest of you is unworthy and thin." 'Amr said, "By Allah! You know that I know that you are lying."
 
 ### al-Tabari (Arabic)
 
@@ -656,9 +744,97 @@ When the Qur'an is discussing Laws, commandments and prohibitions, it commands e
 
 (He (Muhammad ﷺ) commands them for Al-Ma'ruf (i.e. Islamic Monotheism and all that Islam has ordained); and forbids them from Al-Munkar (i.e. disbelief, polytheism of all kinds, and all that Islam has forbidden); he allows them as lawful At-Tayyibat(i.e. all good and lawful things), and prohibits them as unlawful Al-Khaba'ith (i.e. all evil and unlawful things), he releases them from their heavy burdens and from the fetters (bindings) that were upon them)(7:157).
 
-When the Ayat mention Resurrection and the horrors that will occur on that Day, and Paradise and the Fire and the joys and safe refuge that Allah prepared for His loyal friends, or torment and Hell for His enemies, these Ayat contain glad tidings or warnings. The Ayat then call to per
+When the Ayat mention Resurrection and the horrors that will occur on that Day, and Paradise and the Fire and the joys and safe refuge that Allah prepared for His loyal friends, or torment and Hell for His enemies, these Ayat contain glad tidings or warnings. The Ayat then call to perform good deeds and avoid evil deeds, making the life of this world less favorable and the Hereafter more favorable. They also establish the correct methods and guide to Allah's straight path and just legislation, all the while ridding the hearts of the evil of the cursed devil.
 
-[TRUNCATED at 12000 chars — 5791 more. Consult the source directly before relying on anything near the cut.]
+The Qur'an is the Greatest Miracle given to the Prophet (ﷺ)
+
+The Two Sahihs record that Abu Hurayrah said that the Prophet ﷺ said,
+
+مَا مِنْ نَبِيٍّ مِنَ الْأَنْبِيَاءِ إِلَّا قَدْ أُعْطِيَ مِنَ الآيَاتِ مَا آمَنَ عَلَى مِثْلِهِ الْبَشَرُ، وَإنَّمَا كَانَ الَّذِي أُوتِيتُه وَحْيًا أَوْحَاهُ اللهُ إِلَيَّ فَأَرْجُو أَنْ أَكُونَ أَكْثَرَهُمْ تَابِعًا يَوْمَ الْقِيَامَةِ
+
+(Every Prophet was given a miracle, the type of which brings mankind to faith. What I was given is a revelation that Allah sent down to me. Yet, I hope that I will have the most following on the Day of Resurrection.)
+
+This is the wording narrated by Muslim. The Prophet ﷺ stated that among the Prophets he was given a revelation, meaning, he was especially entrusted with the miraculous Qur'an that challenged mankind to produce something similar to it. As for the rest of the divinely revealed Books, they were not miraculous according to many scholars. Allah knows best. The Prophet ﷺ was also aided with innumerable signs and indications that testify to the truth of his prophethood and what he was sent with, all thanks and praise is due to Allah.
+
+Meaning of 'Stones'
+
+Allah said,
+
+فَاتَّقُوا النَّارَ الَّتِي وَقُودُهَا النَّاسُ وَالْحِجَارَةُ ۖ أُعِدَّتْ لِلْكَافِرِينَ
+
+(Then fear the Fire (Hell) whose fuel is men and stones, prepared for the disbelievers)(2:24).
+
+Fuel' is wood, or similar substances, used to start and feed a fire. Similarly, Allah said,
+
+وَأَمَّا الْقَاسِطُونَ فَكَانُوا لِجَهَنَّمَ حَطَبًا
+
+(And as for the Qasitun (disbelievers who deviated from the right path), they shall be firewood for Hell)(72:15), and,
+
+إِنَّكُمْ وَمَا تَعْبُدُونَ مِن دُونِ اللَّهِ حَصَبُ جَهَنَّمَ أَنتُمْ لَهَا وَارِدُونَ - لَوْ كَانَ هَٰؤُلَاءِ آلِهَةً مَّا وَرَدُوهَا ۖ وَكُلٌّ فِيهَا خَالِدُونَ
+
+(Certainly you (disbelievers) and that which you are worshipping now besides Allah, are (but) fuel for Hell! (Surely) you enter it. Had these (idols) been alihah (gods), they would not have entered there (Hell), and all of them will abide therein)(21:98-99).
+
+The stones mentioned here are the giant, rotten, black, sulfuric stones that become the hottest when heated, may Allah save us from this evil end. It was also reported that the stones mentioned here are the idols and rivals that were worshipped instead of Allah, just as Allah said,
+
+إِنَّكُمْ وَمَا تَعْبُدُونَ مِن دُونِ اللَّهِ حَصَبُ جَهَنَّمَ
+
+(Certainly you (disbelievers) and that which you are worshipping now besides Allah,are (but) fuel for Hell!)(21:98).
+
+Allah's statement,
+
+أُعِدَّتْ لِلْكَافِرِينَ
+
+(prepared for the disbelievers)
+
+It appears most obvious that it refers to the Fire that is fueled by men and stones, and it also may refer to the stones themselves. There is no contradiction between these two views, because they are dependent upon each other. 'Prepared' means, it is 'kept' and will surely touch those who disbelieve in Allah and His Messenger ﷺ. Ibn Ishaq narrated that Muhammad said that 'Ikrimah or Sa'id bin Jubayr said that Ibn 'Abbas said,
+
+أُعِدَّتْ لِلْكَافِرِينَ
+
+(prepared for the disbelievers),
+
+"For those who embrace the disbelief that you (disbelievers) have embraced."
+
+Jahannam (Hellfire) exists now
+
+Many of the Imams of the Sunnah used this Ayah to prove that the Fire exists now. This is because Allah said,
+
+أُعِدَّتْ
+
+(prepared) meaning, prepared and kept. There are many Hadiths on this subject. For instance, the Prophet ﷺ said,
+
+تَحَاجَّتِ الْجَنَّةُ وَالنَّارُ
+
+(Paradise and the Fire had an argument..)
+
+Also, the Prophet ﷺ said,
+
+اسْتَأْذَنَتِ النَّارُ رَبَّهَا فَقَالَتْ: رَبِّ أَكَلَ بَعضِي بَعْضًا فَأذِنَ لَهَا بِنَفَسَيْنِ: نَفَسٍ فِي الشِّتَاءِ وَنَفَسٍ فِي الصَّيْفِ
+
+(The Fire sought the permission of her Lord. She said, 'O my Lord! Some parts of me consumed the other parts.' And Allah allowed her two periods to exhale, one in winter and one in summer.)
+
+Also, there is a Hadith recorded from Ibn Mas'ud that the Companions heard the sound of a falling object. When they asked about it, the Messenger of Allah ﷺ said,
+
+هَذَا حَجَرٌ أُلْقِيَ بِهِ مِنْ شَفِيرِ جَهَنَّمَ مُنْذُ سَبْعِينَ سَنَةً، الْآنَ وَصَلَ إِلى قَعْرِهَا
+
+(This is a stone that was thrown from the top of Jahannam seventy years ago, but only now reached its bottom.) This Hadith is in Sahih Muslim.
+
+There are many Hadiths that are Mutawatir (narrated by many different chains of narrations) on this subject, such as the Hadiths about the eclipse prayer, the night of Isra' etc.
+
+Allah's statements,
+
+فَأْتُواْ بِسُورَةٍ مِّن مِّثْلِهِ
+
+(Then produce a Surah (chapter) of the like thereof)(2:23), and,
+
+بِسُورَةٍ مِّثْلِهِ
+
+(A Surah (chapter) like it)(10:38) this includes the short and long Surahs of the Qur'an. Therefore, the challenge to creation stands with regards to both the long and short Surahs, and there is no disagreement that I know of on this fact between the scholars of old and new. Before he became Muslim, 'Amr bin Al-'As met Musaylimah the Liar who asked him, "What has recently been revealed to your fellow (meaning Muhammad ﷺ) in Makkah?" 'Amr said, "A short, yet eloquent Surah." He asked, "What is it?" He said,
+
+وَالْعَصْرِ - إِنَّ الْإِنسَانَ لَفِي خُسْرٍ
+
+(By Al-'Asr (the time). Verily, man is in loss,)(103:1-2)
+
+Musaylimah thought for a while and said, "A similar Surah was also revealed to me." 'Amr asked, "What is it?" He said, "O Wabr, O Wabr (i.e. a wild cat), you are but two ears and a chest, and the rest of you is unworthy and thin." 'Amr said, "By Allah! You know that I know that you are lying."
 
 ### al-Tabari (Arabic)
 
@@ -910,9 +1086,83 @@ Allah's statement,
 
 ذكر من قال ذلك:
 
-٥٣٤- حدثني أبو كريب، قال: حدثنا الأشجعيّ -ح- وحدثنا محمد بن بشار، قال، حدثنا مؤمَّل، قالا جميعًا: حدثنا سفيان، عن الأعمش، عن أبي ظَبْيَان، عن ابن عباس - قال أبو كريب في حديثه عن الأشجعي -: لا يشبه ش
+٥٣٤- حدثني أبو كريب، قال: حدثنا الأشجعيّ -ح- وحدثنا محمد بن بشار، قال، حدثنا مؤمَّل، قالا جميعًا: حدثنا سفيان، عن الأعمش، عن أبي ظَبْيَان، عن ابن عباس - قال أبو كريب في حديثه عن الأشجعي -: لا يشبه شيءٌ مما في الجنة ما في الدنيا، إلا الأسماء. وقال ابن بشار في حديثه عن مؤمل، قال: ليس في الدنيا مما في الجنة إلا الأسماء.
 
-[TRUNCATED at 12000 chars — 9826 more. Consult the source directly before relying on anything near the cut.]
+٥٣٥- حدثنا عباس بن محمد، قال: حدثنا محمد بن عُبيد، عن الأعمش، عن أبي ظبيان، عن ابن عباس، قال: ليس في الدنيا من الجنة شيء إلا الأسماء.
+
+٥٣٦- حدثني يونس بن عبد الأعلى قال: أنبأنا ابن وهب، قال: قال عبد الرحمن بن زيد، في قوله:"وأتوا به متشابهًا"، قال: يعرفون أسماءه كما كانوا في الدنيا، التُّفاح بالتفاح والرُّمان بالرمان، قالوا في الجنة:"هذا الذي رزقنا من قبل" في الدنيا،"وأتوا به متشابهًا" يعرفونه، وليس هو مثله في الطعم [[الآثار: ٥٣٠ - ٥٣٦ بعضها في الدر المنثور ١: ٣٨، والشوكاني ١: ٤٢.]] .
+
+قال أبو جعفر: وأولى هذه التأويلات بتأويل الآية، تأويلُ من قال: وأتوا به متشابهًا في اللون والمنظر، والطعمُ مختلف. يعني بذلك اشتباهَ ثمر الجنة وثمر الدنيا في المنظر واللون، مختلفًا في الطعم والذوق، لما قدّمنا من العلة في تأويل قوله:"كلما رُزقوا منها من ثمرة رزقًا قالوا هذا الذي رُزقنا من قبل" وأن معناه: كلما رُزقوا من الجِنان من ثمرة من ثمارها رزقًا قالوا: هذا الذي رُزقنا من قبل هذا في الدنيا: فأخبر الله جل ثناؤه عنهم أنهم قالوا ذلك، ومن أجل أنهم أتُوا بما أتوا به من ذلك في الجنة متشابهًا، يعني بذلك تشابه ما أتوا به في الجنة منه، والذي كانوا رُزقوه في الدنيا، في اللون والمرأى والمنظر، وإن اختلفا في الطعم والذوق، فتباينا، فلم يكن لشيء مما في الجنة من ذلك نظير في الدنيا.
+
+وقد دللنا على فساد قول من زعم أنّ معنى قوله:"قالوا هذا الذي رزقنا من قبل"، إنما هو قول من أهل الجنة في تشبيههم بعض ثَمر الجنة ببعض [[انظر ما مضى ص ٣٨٧ وما بعدها.]] . وتلك الدلالة على فساد ذلك القول، هي الدلالة على فساد قول من خالف قولنا في تأويل قوله:"وأتوا به متشابهًا"، لأن الله جل ثناؤه إنما أخبر عن المعنى الذي من أجله قال القوم:"هذا الذي رُزقنا من قبل" بقوله:"وأتوا به متشابهًا".
+
+ويُسأل من أنكر ذلك [[في المطبوعة: "وسأل من أنكر. . "، وهو خطأ بين.]] ، فزعم أنه غير جائز أن يكون شيء مما في الجنة نظيرًا لشيء مما في الدنيا بوجه من الوجوه، فيقال له: أيجوز أن يكون أسماءُ ما في الجنة من ثمارها وأطعمتها وأشربتها نظائرَ أسماء ما في الدنيا منها؟
+
+فإن أنكر ذلك خالف نصّ كتاب الله، لأن الله جل ثناؤه إنما عرّف عبادَه في الدنيا ما هو عنده في الجنة بالأسماء التي يسمى بها ما في الدنيا من ذلك.
+
+وإن قال: ذلك جائز، بل هو كذلك.
+
+قيل: فما أنكرتَ أن يكون ألوانُ ما فيها من ذلك، نظيرَ ألوان ما في الدنيا منه [[في المطبوعة: "نظائر ألوان".]] ، بمعنى البياض والحمرة والصفرة وسائر صنوف الألوان، وإن تباينت فتفاضلت بفضل حسن المَرآة والمنظر، فكان لما في الجنة من ذلك من البهاء والجمال وحسن المَرآة والمنظر، خلافُ الذي لما في الدنيا منه، كما كان جائزًا ذلك في الأسماء مع اختلاف المسميات بالفضْل في أجسامها؟ ثم يُعكس عليه القول في ذلك، فلن يقول في أحدهما شيئًا إلا ألزم في الآخر مثله.
+
+وكان أبو موسى الأشعري يقول في ذلك بما:
+
+٥٣٧- حدثني به ابن بشار، قال: حدثنا ابن أبي عديّ، وعبد الوهاب، ومحمد بن جعفر، عن عوف، عن قَسَامةَ، عن الأشعري، قال: إن الله لما أخرج آدم من الجنة زوّده من ثمار الجنة، وعلّمه صَنعةَ كل شيء، فثمارُكم هذه من ثمار الجنة، غيرَ أن هذه تغيَّرُ وتلك لا تغيَّرُ [[الحديث ٥٣٧- هذا إسناد صحيح. وهو وإن كان موقوفًا لفظًا فإنه مرفوع حكمًا، لأنه إخبار عن غيب لا يعلم بالرأي ولا القياس. والأشعري: هو أبو موسى، ولم يكن ممن يحكى عن الكتب القديمة. عوف: هو ابن أبي جميلة الأعرابي، وهو ثقة ثبت، أخرج له أصحاب الكتب الستة. قسامة - بفتح القاف وتخفيف السين المهملة: هو ابن زهير المازني التميمي البصري، وهو ثقة تابعي قديم، بل ذكره بعضهم في الصحابة فأخطأ. وله ترجمة في الإصابة ٥: ٢٧٦ وابن سعد ٧/١/١١٠، وقال: "كان ثقة إن شاء الله، وتوفي في ولاية الحجاج على العراق"، وابن أبي حاتم ٣/٢/١٤٧، وروى توثيقه عن ابن معين.
+
+والحديث ذكره ابن كثير في التاريخ ١: ٨٠، من رواية عبد الرزاق عن معمر عن عوف، بهذا الإسناد. وذكره ابن القيم في حادي الأرواح ١: ٢٧٣ (ص ١٢٥ من الطبعة الثانية، طبعة محمود ربيع سنة ١٣٥٧) من رواية عبد الله بن أحمد بن حنبل، عن عقبة بن مكرم العمى الحافظ، عن ربعى بن إبراهيم بن علية عن عوف، بهذا الإسناد، مرفوعًا صراحة: "قال: قال رسول الله ﷺ". وكذلك ذكره الهيثمي في مجمع الزوائد ٨: ١٩٧ - ١٩٨"عن أبي موسى رفعه"، وقال: "رواه البزار، والطبراني، ورجاله ثقات". وذكره ابن القيم في حادي الأرواح قبل ذلك (ص ٣٠ - ٣١) ، من رواية"هوذة بن خليفة عن عوف" بهذا الإسناد، موقوفًا لفظًا. ورواية هوذة بن خليفة: رواها الحاكم في المستدرك ٢: ٥٤٣، ولكن إسنادها عندي أنه مغلوط، والظاهر أنه غلط من الناسخين. لأن الذي فيه: "هوذة بن خليفة حدثنا عوف عن قسامة بن زهير عن أبي بكر بن أبي موسى الأشعري، قال: إن الله لما أخرج آدم" إلخ. ثم قال الحاكم: "صحيح الإسناد ولم يخرجاه"، ووافقه الذهبي! ولا يمكن -فيما أعرف وأعتقد- أن يصحح الحاكم هذا الإسناد، ثم يوافقه الذهبي، إن كان على هذا الوجه، لأن أبا بكر بن أبي موسى الأشعري تابعي ثقة، فلو كان الإسناد هكذا كان الحديث مرسلا لا حجة فيه، سواء أرفعه أم قاله من قبل نفسه، فالظاهر أن الناسخين القدماء للمستدرك أخطئوا في زيادة"أبي بكر بن"، وأن صوابه: "عن أبي موسى الأشعري"، كما تبين من نقل ابن القيم رواية هوذة، وكما تبين من الروايات الأخر التي سقناها. والحمد لله على التوفيق.]] .
+
+[[هذه الفقرة كلها من أول قوله: "وقد زعم بعض أهل العربية. . " كانت في المطبوعة في الموضع الذي أشرنا إليه آنفًا ص ٣٨٩.]] وقد زعم بعض أهل العربية أنّ معنى قوله:"وأتوا به متشابهًا"، أنه متشابهٌ في الفضل، أي كل واحد منه له من الفضْل في نحوه، مثلُ الذي للآخر في نحوه.
+
+قال أبو جعفر: وليس هذا قولا نستجيز التشاغلَ بالدلالة على فساده، لخروجه عن قول جميع علماء أهل التأويل. وحسبُ قولٍ - بخروجه عن قول جميع أهل العلم - دلالةٌ على خطئه.
+
+* *
+
+القول في تأويل قوله: ﴿وَلَهُمْ فِيهَا أَزْوَاجٌ مُطَهَّرَةٌ﴾
+
+قال أبو جعفر: والهاء والميم اللتان في"لهم" عائدتان على الذين آمنوا وعملوا الصالحات، والهاء والألف اللتان في"فيها" عائدتان على الجنات. وتأويل ذلك: وبشِّر الذين آمنوا وعملوا الصالحات أنّ لهم جنات فيها أزواجٌ مطهرة.
+
+والأزواج جمع زَوْج، وهي امرأة الرجل. يقال: فلانة زَوْجُ فلان وزوجته.
+
+وأما قوله:"مطهَّرة" فإن تأويله أنهن طُهِّرن من كل أذًى وقَذًى وريبةٍ، مما يكون في نساء أهل الدنيا، من الحيض والنفاس والغائط والبول والمخاط والبُصاق والمنيّ، وما أشبه ذلك من الأذى والأدناس والريب والمكاره.
+
+٥٣٨- كما حدثنا به موسى بن هارون، قال: حدثنا عمرو بن حماد، قال: حدثنا أسباط، عن السدي في خبر ذكره، عن أبي مالك، وعن أبي صالح، عن ابن عباس - وعن مُرَّة، عن ابن مسعود، وعن ناس من أصحاب النبي ﷺ: أما أزواجٌ مطهرة، فإنهن لا يحضْن ولا يُحْدِثن ولا يتنخَّمن.
+
+٥٣٩- حدثني المثنى بن إبراهيم، قال: حدثنا عبد الله بن صالح، قال: حدثنا معاوية بن صالح، عن علي بن أبي طلحة، عن ابن عباس، قوله:"أزْواج مطهرة". يقول: مطهرة من القذَر والأذى.
+
+٥٤٠- حدثنا محمد بن بشار، قال: حدثنا يحيى القطان [[في المخطوطة: "يحيى العطار"، وهو خطأ.]] ، عن سفيان، عن ابن أبي نجيح، عن مجاهد:"ولهم فيها أزواجٌ مطهرة" قال: لا يبلن ولا يتغوّطن ولا يَمذِين.
+
+٥٤١- حدثنا أحمد بن إسحاق الأهوازي، قال: حدثنا أبو أحمد الزُّبيري، قال: حدثنا سفيان، عن ابن أبي نجيح، عن مجاهد، نحوه - إلا أنه زَاد فيه: ولا يُمنِين ولا يحضْنَ.
+
+٥٤٢- حدثني محمد بن عمرو، قال: حدثنا أبو عاصم، عن عيسى، عن ابن أبي نجيح، عن مجاهد، في قول الله تعالى ذكره:"ولهم فيها أزواج مطهرة" قال: مطهرة من الحيض والغائط والبول والنخام والبُزاق والمنيّ والولد.
+
+٥٤٣- حدثني المثنى بن إبراهيم، قال: حدثنا سويد بن نصر، قال: حدثنا ابنُ المبارك، عن ابن جُريج، عن مجاهد، مثله.
+
+٥٤٤- حدثنا الحسن بن يحيى، قال: أخبرنا عبد الرزّاق، قال: أخبرنا الثوري، عن ابن أبي نجيح، عن مجاهد، قال: لا يَبُلْنَ ولا يتغوّطنَ ولا يحضْنَ ولا يلدن ولا يُمْنِين ولا يبزُقنَ.
+
+٥٤٥- حدثني المثنى، قال: حدثنا أبو حُذيفة، قال: حدثنا شِبْل، عن ابن أبي نجيح، عن مجاهد، نحوَ حديث محمد بن عمرو، عن أبي عاصم.
+
+٥٤٦- حدثنا بشر بن معاذ، قال: حدثنا يزيد بن زُريع، عن سعيد، عن قتادة:"ولهم فيها أزواج مطهرة"، إي والله من الإثم والأذى.
+
+٥٤٧- حدثنا الحسن بن يحيى، قال: أخبرنا عبد الرزّاق، قال: أخبرنا معمر، عن قتادة في قوله:"ولهم فيها أزواجٌ مطهرة"، قال: طهّرهن اللهُ من كل بول وغائط وقذَر، ومن كل مأثم.
+
+٥٤٨- حُدثت عن عمار بن الحسن، قال: حدثني ابن أبي جعفر، عن أبيه، عن قتادة، قال مطهرة من الحيض والحبَل والأذى.
+
+٥٤٩- حُدثت عن عمار بن الحسن، قال: حدثني ابن أبي جعفر، عن أبيه، عن ليث، عن مجاهد، قال: المطهرة من الحيض والحبَل.
+
+٥٥٠- حدثني يونس، قال: أخبرنا ابن وهب، عن عبد الرحمن بن زيد:"ولهم فيها أزواجٌ مطهَّرة" قال: المطهَّرة التي لا تحيض. قال: وأزواج الدنيا ليست بمطهرة، ألا تراهنّ يدمَيْنَ ويتركن الصلاة والصيامَ؟ قال ابن زيد: وكذلك خُلقت حواء حتى عصَتْ، فلما عصَتْ قال الله: إني خلقتك مطهَّرة وسأدميك كما أدميت هذه الشجرة [[في المخطوطة: "كما دميت" بتشديد الميم، وهما سواء، ويعني بذلك دم الحيض. وهذا الأثر نقله ابن كثير ١: ١١٥ عن هذا الموضع، وفيه"أدميت"، كما في المطبوعة هنا. وقال ابن كثير بعد سياقه: "وهذا غريب".]] .
+
+٥٥١- حُدثت عن عمار، قال: حدثنا ابن أبي جعفر، عن أبيه، عن الربيع، عن الحسن في قوله:"ولهم فيها أزواج مطهرة"، قال يقول: مطهَّرة من الحيض.
+
+٥٥٢- حدثنا عمرو بن علي، قال: حدثنا خالد بن يزيد، قال: حدثنا أبو جعفر الرازي، عن الربيع بن أنس، عن الحسن في قوله:"ولهم فيها أزواجٌ مطهرة"، قال: من الحيض.
+
+٥٥٣- حدثنا عمرو، قال: حدثنا أبو معاوية، قال: حدثنا ابن جُريج، عن عطاء قوله:"ولهم فيها أزواج مطهرة"، قال: من الولد والحيض والغائط والبول، وذكر أشياءَ من هذا النحو [[الآثار ٥٣٨ - ٥٥٣: بعضها في ابن كثير ١: ١١٥، والدر المنثور ١: ٣٩، والشوكاني ١: ٤٢ وكرهنا الإطالة بتفصيل مراجعها واحدًا واحدًا. ونقل ابن كثير ١: ١١٥ - ١١٦ حديثًا مرفوعًا بهذا المعنى: يعني مطهرة"من الحيض والغائط والنخاعة والبزاق"، من تفسير ابن مردويه بإسناده - من طريق محمد بن عبيد الكندي عن عبد الرزاق بن عمر البزيعي عن عبد الله بن المبارك عن شعبة عن قتادة عن أبي نضرة عن أبي سعيد، مرفوعًا. وقال: "هذا حديث غريب". ثم نقل عن الحاكم أنه رواه في المستدرك، من هذا الوجه، وأنه صححه على شرط الشيخين. ثم قال: "وهذا الذي ادعاه فيه نظر، فإن عبد الرزاق بن عمر البزيعي هذا - قال فيه أبو حاتم بن حبان البستي: لا يجوز الاحتجاج به. قلت: والأظهر أن هذا من كلام قتادة، كما تقدم". وهو كما قال ابن كثير. انظر الميزان ٢: ١٢٦.]] .
+
+* *
+
+القول في تأويل قوله: ﴿وَهُمْ فِيهَا خَالِدُونَ (٢٥) ﴾
+
+قال أبو جعفر: يعني تعالى ذكره بذلك: والذين آمنوا وعملوا الصالحات في الجنات خالدون. والهاء والميم من قوله"وهم"، عائدة على الذين آمنوا وعملوا الصالحات. والهاء والألف في"فيها" على الجنات. وخلودهم فيها دوام بقائهم فيها على ما أعطاهم الله فيها من الْحَبْرَةِ والنعيم المقيم [[في الدر المنثور ١: ٤١، والشوكاني ١: ٤٢، أن ابن جرير أخرج عن ابن عباس في قوله"وهم فيها خالدون" -"أي خالدون أبدًا، يخبرهم أن الثواب بالخير والشر مقيم على أهله أبدا لا انقطاع له".
+
+وهذا الخبر سيأتي عند تفسير الآية: ٨٢ من هذه السورة (١: ٣٠٧ بولاق) . فنقله السيوطي إلى هذا الموضع، وتبعه الشوكاني.]] .
 
 ### al-Muyassar (Arabic)
 

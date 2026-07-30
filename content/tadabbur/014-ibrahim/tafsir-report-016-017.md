@@ -148,9 +148,25 @@ Allah narrates to us how the disbelieving nations threatened their Messengers, t
 
 (Verily, it is a tree that springs out of the bottom of Hellfire, the shoots of its fruits stalks are like the heads of Shayatin; Truly, they will eat thereof and fill their bellies therewith. Then on top of that they will be given boiling water to drink so that it becomes a mixture. Then thereafter, verily, their return is to the flaming fire of Hell.)[37:64-68] Allah states that they will either be eating from the Zaqqum, drinking the Hamim, or being tormented in the Fire, again and again; we seek refuge with Allah from all of this. Allah also said,
 
-هَٰذِهِ جَهَنَّمُ الَّتِي يُكَذِّبُ بِهَا الْمُجْرِمُون
+هَٰذِهِ جَهَنَّمُ الَّتِي يُكَذِّبُ بِهَا الْمُجْرِمُونَ - يَطُوفُونَ بَيْنَهَا وَبَيْنَ حَمِيمٍ آنٍ
 
-[TRUNCATED at 12000 chars — 1893 more. Consult the source directly before relying on anything near the cut.]
+(This is the Hell which the criminals denied. They will go between it (Hell) and the fierce boiling water!)[55:43-44],
+
+إِنَّ شَجَرَتَ الزَّقُّومِ - طَعَامُ الْأَثِيمِ - كَالْمُهْلِ يَغْلِي فِي الْبُطُونِ - كَغَلْيِ الْحَمِيمِ - خُذُوهُ فَاعْتِلُوهُ إِلَىٰ سَوَاءِ الْجَحِيمِ - ثُمَّ صُبُّوا فَوْقَ رَأْسِهِ مِنْ عَذَابِ الْحَمِيمِ - ذُقْ إِنَّكَ أَنتَ الْعَزِيزُ الْكَرِيمُ - إِنَّ هَٰذَا مَا كُنتُم بِهِ تَمْتَرُونَ
+
+(Verily, the tree of Zaqqum will be the food of the sinners. Like boiling oil, it will boil in the bellies, like the boiling of scalding water. (It will be said) "Seize him and drag him into the midst of blazing Fire, then pour over his head the torment of boiling water. Taste you (this)! Verily, you were the mighty, the generous! Verily, this is that whereof you used to doubt!")[44:43-50],
+
+وَأَصْحَابُ الشِّمَالِ مَا أَصْحَابُ الشِّمَالِ - فِي سَمُومٍ وَحَمِيمٍ - وَظِلٍّ مِّن يَحْمُومٍ - لَّا بَارِدٍ وَلَا كَرِيمٍ
+
+(And those on the Left Hand - how (unfortunate) will be those on the Left Hand? In fierce hot wind and boiling water, and shadow of black smoke, neither cool nor pleasant.)[56:41-44]
+
+هَٰذَا ۚ وَإِنَّ لِلطَّاغِينَ لَشَرَّ مَآبٍ - جَهَنَّمَ يَصْلَوْنَهَا فَبِئْسَ الْمِهَادُ - هَٰذَا فَلْيَذُوقُوهُ حَمِيمٌ وَغَسَّاقٌ - وَآخَرُ مِن شَكْلِهِ أَزْوَاجٌ
+
+(This is so! And for the Taghun will be an evil final return. Hell! Where they will burn, and worst is that place to rest! This is so! Then let them taste it Hamim and Ghassaq. And other (torments) of similar kind all together!)[38:55-58] There are many other similar Ayat that indicate that the punishment they will receive is of different kinds, and that it is repeated in various types and forms that only Allah the Exalted knows, as just recompense,
+
+وَمَا رَبُّكَ بِظَلَّامٍ لِّلْعَبِيدِ
+
+(And your Lord is not at all unjust to (His) slaves.)[41:46]
 
 ### al-Tabari (Arabic)
 
@@ -280,9 +296,23 @@ Allah narrates to us how the disbelieving nations threatened their Messengers, t
 
 فيكاد يكون واضحًا، أن الذي وقع في التاريخ الكبير (٣ / ١ / ٣٧٤، ٣٧٥) ، إنما هو خلط بين ترجمتين مختلفتين، وأن ترجمة " عبيد الله بن بسر " قد سقط صدر منها من النسخة المطبوعة من التاريخ الكبير، وتداخل بعضها في ترجمة أخرى، ويرجح ذلك أن ابن أبي حاتم، الذي ذكر الترجمتين جميعًا، لم يتعرض لهذا في كتابه: " بيان خطأ محمد بن إسماعيل البخاري في تاريخه "، ولو كان في أصل تاريخ البخاري مثل هذا، لما فات ابن أبي حاتم، فيكون ما نقله الترمذي عن البخاري من التاريخ الكبير، وسقط من المطبوع.]]
 
-٢٠٦٣٣ - حدثني محمد بن خلف العسقلاني قال، حدثنا حيوة بن شريح الحمصيّ قال، حدثنا بقية، عن صفوان بن عمرو قال، حدثني عبيد الله بن بسر، عن أبي أمامه، عن النبي ﷺ، مثله سواءً. [[الأثر: ٢٠
+٢٠٦٣٣ - حدثني محمد بن خلف العسقلاني قال، حدثنا حيوة بن شريح الحمصيّ قال، حدثنا بقية، عن صفوان بن عمرو قال، حدثني عبيد الله بن بسر، عن أبي أمامه، عن النبي ﷺ، مثله سواءً. [[الأثر: ٢٠٦٣٣ - " محمد بن خلف بن عمار العسقلاني "، شيخ الطبري، مضى مرارًا كثيرة آخرها رقم: ١٢٥٢٣.
 
-[TRUNCATED at 12000 chars — 1171 more. Consult the source directly before relying on anything near the cut.]
+و" حيوة بن شريح بن يزيد الحضرمي الحمصي " ثقة، مضى مرارًا آخرها رقم: ١٥٣٧٨.
+
+وهذا الخبر قد مرت الإشارة إليه في التعليق السالف، من طريق بقية بن الوليد عن صفوان بن عمرو.]]
+
+* *
+
+وقوله: ﴿ويأتيه الموت من كل مكان وما هو بميت﴾ ، فإنه يقول: ويأتيه الموت من بين يديه ومن خلفه، وعن يمينه وشماله، ومن كل موضع من أعضاء جسده = ﴿وما هو بميت﴾ ، لأنه لا تخرج نفسه فيموت فيستريح، ولا يحيا لتعلُّق نفسه بالحناجر، فلا ترجع إلى مكانها، كما: -
+
+٢٠٦٣٤ - حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن ابن جريج، عن مجاهد، في قوله: ﴿يتجرعه ولا يكاد يسبغه ويأتيه الموت من كل مكان وما هو بميت﴾ ، قال: تعلق نفسه عند حنجرته، فلا تخرج من فيه فيموت، ولا ترجع إلى مكانها من جوفه، فيجد لذلك راحة، فتنفعه الحياة.
+
+٢٠٦٣٥ - حدثنا الحسن بن محمد قال، حدثنا يزيد بن هارون قال، حدثنا العوّام بن حوشب، عن إبراهيم التيمي قوله: ﴿ويأتيه الموت من كل مكان﴾ ، قال: من تحت كل شَعَرة في جسده.
+
+* *
+
+وقوله: ﴿ومن وَرائه عَذَابٌ غليظ﴾ ، يقول: ومن وراء ما هو فيه من العذاب = يعني أمامه وقدامه [[انظر تفسير " وراء " فيما سلف: ٥٤٦، ٤٧٥، تعليق: ١.]] = ﴿عذاب غليظ﴾ . [[انظر تفسير " الغليظ " فيما سلف ٧: ٣٤١ / ١٤: ٣٦٠، ٥٧٦ / ١٥: ٣٦٦.]]
 
 ### al-Muyassar (Arabic)
 
@@ -436,9 +466,25 @@ Allah narrates to us how the disbelieving nations threatened their Messengers, t
 
 (Verily, it is a tree that springs out of the bottom of Hellfire, the shoots of its fruits stalks are like the heads of Shayatin; Truly, they will eat thereof and fill their bellies therewith. Then on top of that they will be given boiling water to drink so that it becomes a mixture. Then thereafter, verily, their return is to the flaming fire of Hell.)[37:64-68] Allah states that they will either be eating from the Zaqqum, drinking the Hamim, or being tormented in the Fire, again and again; we seek refuge with Allah from all of this. Allah also said,
 
-هَٰذِهِ جَهَنَّمُ الَّتِي يُكَذِّبُ بِهَا الْمُجْرِمُون
+هَٰذِهِ جَهَنَّمُ الَّتِي يُكَذِّبُ بِهَا الْمُجْرِمُونَ - يَطُوفُونَ بَيْنَهَا وَبَيْنَ حَمِيمٍ آنٍ
 
-[TRUNCATED at 12000 chars — 1893 more. Consult the source directly before relying on anything near the cut.]
+(This is the Hell which the criminals denied. They will go between it (Hell) and the fierce boiling water!)[55:43-44],
+
+إِنَّ شَجَرَتَ الزَّقُّومِ - طَعَامُ الْأَثِيمِ - كَالْمُهْلِ يَغْلِي فِي الْبُطُونِ - كَغَلْيِ الْحَمِيمِ - خُذُوهُ فَاعْتِلُوهُ إِلَىٰ سَوَاءِ الْجَحِيمِ - ثُمَّ صُبُّوا فَوْقَ رَأْسِهِ مِنْ عَذَابِ الْحَمِيمِ - ذُقْ إِنَّكَ أَنتَ الْعَزِيزُ الْكَرِيمُ - إِنَّ هَٰذَا مَا كُنتُم بِهِ تَمْتَرُونَ
+
+(Verily, the tree of Zaqqum will be the food of the sinners. Like boiling oil, it will boil in the bellies, like the boiling of scalding water. (It will be said) "Seize him and drag him into the midst of blazing Fire, then pour over his head the torment of boiling water. Taste you (this)! Verily, you were the mighty, the generous! Verily, this is that whereof you used to doubt!")[44:43-50],
+
+وَأَصْحَابُ الشِّمَالِ مَا أَصْحَابُ الشِّمَالِ - فِي سَمُومٍ وَحَمِيمٍ - وَظِلٍّ مِّن يَحْمُومٍ - لَّا بَارِدٍ وَلَا كَرِيمٍ
+
+(And those on the Left Hand - how (unfortunate) will be those on the Left Hand? In fierce hot wind and boiling water, and shadow of black smoke, neither cool nor pleasant.)[56:41-44]
+
+هَٰذَا ۚ وَإِنَّ لِلطَّاغِينَ لَشَرَّ مَآبٍ - جَهَنَّمَ يَصْلَوْنَهَا فَبِئْسَ الْمِهَادُ - هَٰذَا فَلْيَذُوقُوهُ حَمِيمٌ وَغَسَّاقٌ - وَآخَرُ مِن شَكْلِهِ أَزْوَاجٌ
+
+(This is so! And for the Taghun will be an evil final return. Hell! Where they will burn, and worst is that place to rest! This is so! Then let them taste it Hamim and Ghassaq. And other (torments) of similar kind all together!)[38:55-58] There are many other similar Ayat that indicate that the punishment they will receive is of different kinds, and that it is repeated in various types and forms that only Allah the Exalted knows, as just recompense,
+
+وَمَا رَبُّكَ بِظَلَّامٍ لِّلْعَبِيدِ
+
+(And your Lord is not at all unjust to (His) slaves.)[41:46]
 
 ### al-Tabari (Arabic)
 
@@ -568,9 +614,23 @@ Allah narrates to us how the disbelieving nations threatened their Messengers, t
 
 فيكاد يكون واضحًا، أن الذي وقع في التاريخ الكبير (٣ / ١ / ٣٧٤، ٣٧٥) ، إنما هو خلط بين ترجمتين مختلفتين، وأن ترجمة " عبيد الله بن بسر " قد سقط صدر منها من النسخة المطبوعة من التاريخ الكبير، وتداخل بعضها في ترجمة أخرى، ويرجح ذلك أن ابن أبي حاتم، الذي ذكر الترجمتين جميعًا، لم يتعرض لهذا في كتابه: " بيان خطأ محمد بن إسماعيل البخاري في تاريخه "، ولو كان في أصل تاريخ البخاري مثل هذا، لما فات ابن أبي حاتم، فيكون ما نقله الترمذي عن البخاري من التاريخ الكبير، وسقط من المطبوع.]]
 
-٢٠٦٣٣ - حدثني محمد بن خلف العسقلاني قال، حدثنا حيوة بن شريح الحمصيّ قال، حدثنا بقية، عن صفوان بن عمرو قال، حدثني عبيد الله بن بسر، عن أبي أمامه، عن النبي ﷺ، مثله سواءً. [[الأثر: ٢٠
+٢٠٦٣٣ - حدثني محمد بن خلف العسقلاني قال، حدثنا حيوة بن شريح الحمصيّ قال، حدثنا بقية، عن صفوان بن عمرو قال، حدثني عبيد الله بن بسر، عن أبي أمامه، عن النبي ﷺ، مثله سواءً. [[الأثر: ٢٠٦٣٣ - " محمد بن خلف بن عمار العسقلاني "، شيخ الطبري، مضى مرارًا كثيرة آخرها رقم: ١٢٥٢٣.
 
-[TRUNCATED at 12000 chars — 1171 more. Consult the source directly before relying on anything near the cut.]
+و" حيوة بن شريح بن يزيد الحضرمي الحمصي " ثقة، مضى مرارًا آخرها رقم: ١٥٣٧٨.
+
+وهذا الخبر قد مرت الإشارة إليه في التعليق السالف، من طريق بقية بن الوليد عن صفوان بن عمرو.]]
+
+* *
+
+وقوله: ﴿ويأتيه الموت من كل مكان وما هو بميت﴾ ، فإنه يقول: ويأتيه الموت من بين يديه ومن خلفه، وعن يمينه وشماله، ومن كل موضع من أعضاء جسده = ﴿وما هو بميت﴾ ، لأنه لا تخرج نفسه فيموت فيستريح، ولا يحيا لتعلُّق نفسه بالحناجر، فلا ترجع إلى مكانها، كما: -
+
+٢٠٦٣٤ - حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن ابن جريج، عن مجاهد، في قوله: ﴿يتجرعه ولا يكاد يسبغه ويأتيه الموت من كل مكان وما هو بميت﴾ ، قال: تعلق نفسه عند حنجرته، فلا تخرج من فيه فيموت، ولا ترجع إلى مكانها من جوفه، فيجد لذلك راحة، فتنفعه الحياة.
+
+٢٠٦٣٥ - حدثنا الحسن بن محمد قال، حدثنا يزيد بن هارون قال، حدثنا العوّام بن حوشب، عن إبراهيم التيمي قوله: ﴿ويأتيه الموت من كل مكان﴾ ، قال: من تحت كل شَعَرة في جسده.
+
+* *
+
+وقوله: ﴿ومن وَرائه عَذَابٌ غليظ﴾ ، يقول: ومن وراء ما هو فيه من العذاب = يعني أمامه وقدامه [[انظر تفسير " وراء " فيما سلف: ٥٤٦، ٤٧٥، تعليق: ١.]] = ﴿عذاب غليظ﴾ . [[انظر تفسير " الغليظ " فيما سلف ٧: ٣٤١ / ١٤: ٣٦٠، ٥٧٦ / ١٥: ٣٦٦.]]
 
 ### al-Muyassar (Arabic)
 

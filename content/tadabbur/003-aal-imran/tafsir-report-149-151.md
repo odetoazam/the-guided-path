@@ -122,9 +122,35 @@ Al-Bukhari recorded that Qays bin Abi Hazim said, "I saw Talhah's hand, it was p
 
 Sa'id bin Al-Musayyib said, "I heard Sa'd bin Abi Waqqas saying, 'The Messenger of Allah ﷺ gave me arrows from his quiver on the day of Uhud and said, 'Shoot, may I sacrifice my father and mother for you.'" Al-Bukhari also collected this Hadith. The Two Sahihs recorded that Sa'd bin Abi Waqqas said, "On the day of Uhud, I saw two men wearing white clothes, one to the right of the Prophet ﷺ and one to his left, who were defending the Prophet fiercely. I have never seen these men before or after that day." Meaning angels Jibril and Mika'il, peace be upon them.
 
-Abu Al-Aswad said that, 'Urwah bin Az-Zubayr said, "Ubayy bin Khalaf of Bani Jumah swore in Makkah that he would kill the Messenger of Allah ﷺ. When the Messenger ﷺ was told of his vow, he said, 'Rather, I shall kill him, Allah willing.' On the day of Uhud, Ubayy came while wearing iron shields and proclaiming, 'May I not be saved, if Muhammad is saved.' He then headed to the direction of the Messenger of Allah ﷺ intending to kill him, but Mus'ab bin 'Umayr, from Bani Abd Ad-Dar, intercepted him and shielded the Prophet ﷺ with his body, and Mus'ab bin 'Umayr was killed. The Messenger of Allah ﷺ saw Ubayy's neck exposed between the shields and helmet, stabbed him with his spear, and
+Abu Al-Aswad said that, 'Urwah bin Az-Zubayr said, "Ubayy bin Khalaf of Bani Jumah swore in Makkah that he would kill the Messenger of Allah ﷺ. When the Messenger ﷺ was told of his vow, he said, 'Rather, I shall kill him, Allah willing.' On the day of Uhud, Ubayy came while wearing iron shields and proclaiming, 'May I not be saved, if Muhammad is saved.' He then headed to the direction of the Messenger of Allah ﷺ intending to kill him, but Mus'ab bin 'Umayr, from Bani Abd Ad-Dar, intercepted him and shielded the Prophet ﷺ with his body, and Mus'ab bin 'Umayr was killed. The Messenger of Allah ﷺ saw Ubayy's neck exposed between the shields and helmet, stabbed him with his spear, and Ubayy fell from his horse to the ground. However, no blood spilled from his wound. His people came and carried him away while he was moaning like an ox. They said to him, 'Why are you so anxious, it is only a flesh wound' Ubayy mentioned to them the Prophet's vow, 'Rather, I shall kill Ubayy', then commented, 'By He in Whose Hand is my soul! If what hit me hits the people of Dhul-Majaz (a popular pre-Islamic marketplace), they would all have perished.' He then died and went to the Fire,
 
-[TRUNCATED at 12000 chars — 2812 more. Consult the source directly before relying on anything near the cut.]
+فَسُحْقًا لِّأَصْحَابِ السَّعِيرِ
+
+(So, away with the dwellers of the blazing Fire!)[67:11]."
+
+This was collected by Musa bin 'Uqbah from Az-Zuhri from Sa'id bin Al-Musayyib.
+
+It is recorded in the Two Sahih that when he was asked about the injuries the Messenger ﷺ sustained [in Uhud], Sahl bin Sa'd said, "The face of Allah's Messenger ﷺ was injured, his front tooth was broken and his helmet was smashed on his head. Therefore, Fatimah, the daughter of Allah's Messenger ﷺ washed off the blood while 'Ali was pouring water on her hand. When Fatimah saw that the bleeding increased more by the water, she took a mat, burnt it, and placed the ashes in the wound of the Prophet ﷺ and the blood stopped oozing out." Allah said next,
+
+فَأَثَابَكُمْ غَمًّا بِغَمٍّ
+
+(There did Allah give you one distress after another)[3:153],
+
+He gave you grief over your grief. Ibn 'Abbas said, 'The first grief was because of the defeat, especially when it was rumored that Muhammad ﷺ was killed. The second grief was when the idolators went up the mount and The Messenger of Allah ﷺ said, 'O Allah! It is not for them to rise above us.'"
+
+Abdur-Rahman bin 'Awf said, "The first distress was because of the defeat and the second when a rumor started that Muhammad ﷺ was killed, which to them, was worse than defeat." Ibn Marduwyah recorded both of these. Mujahid and Qatadah said, "The first distress was when they heard that Muhammad ﷺ was killed and the second when they suffered casualties and injury." It has also been reported that Qatadah and Ar-Rabi' bin Anas said that it was the opposite [order]. As-Suddi said that the first distress was because of the victory and booty that they missed and the second because of the enemy rising above them (on the mount). Allah said,
+
+لِّكَيْلَا تَحْزَنُوا عَلَىٰ مَا فَاتَكُمْ
+
+(by way of requital to teach you not to grieve for that which had escaped you), for that you missed the booty and triumph over your enemy.
+
+وَلَا مَا أَصَابَكُمْ
+
+(nor for what struck you), of injury and fatalities, as Ibn 'Abbas, 'Abdur-Rahman bin 'Awf, Al-Hasan, Qatadah and As-Suddi stated. Allah said next,
+
+وَاللَّهُ خَبِيرٌ بِمَا تَعْمَلُونَ
+
+(And Allah is Well-Aware of all that you do.) all praise is due to Him, and thanks, there is no deity worthy of worship except Him, the Most High, Most Honored.
 
 ### al-Tabari (Arabic)
 
@@ -266,9 +292,35 @@ Al-Bukhari recorded that Qays bin Abi Hazim said, "I saw Talhah's hand, it was p
 
 Sa'id bin Al-Musayyib said, "I heard Sa'd bin Abi Waqqas saying, 'The Messenger of Allah ﷺ gave me arrows from his quiver on the day of Uhud and said, 'Shoot, may I sacrifice my father and mother for you.'" Al-Bukhari also collected this Hadith. The Two Sahihs recorded that Sa'd bin Abi Waqqas said, "On the day of Uhud, I saw two men wearing white clothes, one to the right of the Prophet ﷺ and one to his left, who were defending the Prophet fiercely. I have never seen these men before or after that day." Meaning angels Jibril and Mika'il, peace be upon them.
 
-Abu Al-Aswad said that, 'Urwah bin Az-Zubayr said, "Ubayy bin Khalaf of Bani Jumah swore in Makkah that he would kill the Messenger of Allah ﷺ. When the Messenger ﷺ was told of his vow, he said, 'Rather, I shall kill him, Allah willing.' On the day of Uhud, Ubayy came while wearing iron shields and proclaiming, 'May I not be saved, if Muhammad is saved.' He then headed to the direction of the Messenger of Allah ﷺ intending to kill him, but Mus'ab bin 'Umayr, from Bani Abd Ad-Dar, intercepted him and shielded the Prophet ﷺ with his body, and Mus'ab bin 'Umayr was killed. The Messenger of Allah ﷺ saw Ubayy's neck exposed between the shields and helmet, stabbed him with his spear, and
+Abu Al-Aswad said that, 'Urwah bin Az-Zubayr said, "Ubayy bin Khalaf of Bani Jumah swore in Makkah that he would kill the Messenger of Allah ﷺ. When the Messenger ﷺ was told of his vow, he said, 'Rather, I shall kill him, Allah willing.' On the day of Uhud, Ubayy came while wearing iron shields and proclaiming, 'May I not be saved, if Muhammad is saved.' He then headed to the direction of the Messenger of Allah ﷺ intending to kill him, but Mus'ab bin 'Umayr, from Bani Abd Ad-Dar, intercepted him and shielded the Prophet ﷺ with his body, and Mus'ab bin 'Umayr was killed. The Messenger of Allah ﷺ saw Ubayy's neck exposed between the shields and helmet, stabbed him with his spear, and Ubayy fell from his horse to the ground. However, no blood spilled from his wound. His people came and carried him away while he was moaning like an ox. They said to him, 'Why are you so anxious, it is only a flesh wound' Ubayy mentioned to them the Prophet's vow, 'Rather, I shall kill Ubayy', then commented, 'By He in Whose Hand is my soul! If what hit me hits the people of Dhul-Majaz (a popular pre-Islamic marketplace), they would all have perished.' He then died and went to the Fire,
 
-[TRUNCATED at 12000 chars — 2812 more. Consult the source directly before relying on anything near the cut.]
+فَسُحْقًا لِّأَصْحَابِ السَّعِيرِ
+
+(So, away with the dwellers of the blazing Fire!)[67:11]."
+
+This was collected by Musa bin 'Uqbah from Az-Zuhri from Sa'id bin Al-Musayyib.
+
+It is recorded in the Two Sahih that when he was asked about the injuries the Messenger ﷺ sustained [in Uhud], Sahl bin Sa'd said, "The face of Allah's Messenger ﷺ was injured, his front tooth was broken and his helmet was smashed on his head. Therefore, Fatimah, the daughter of Allah's Messenger ﷺ washed off the blood while 'Ali was pouring water on her hand. When Fatimah saw that the bleeding increased more by the water, she took a mat, burnt it, and placed the ashes in the wound of the Prophet ﷺ and the blood stopped oozing out." Allah said next,
+
+فَأَثَابَكُمْ غَمًّا بِغَمٍّ
+
+(There did Allah give you one distress after another)[3:153],
+
+He gave you grief over your grief. Ibn 'Abbas said, 'The first grief was because of the defeat, especially when it was rumored that Muhammad ﷺ was killed. The second grief was when the idolators went up the mount and The Messenger of Allah ﷺ said, 'O Allah! It is not for them to rise above us.'"
+
+Abdur-Rahman bin 'Awf said, "The first distress was because of the defeat and the second when a rumor started that Muhammad ﷺ was killed, which to them, was worse than defeat." Ibn Marduwyah recorded both of these. Mujahid and Qatadah said, "The first distress was when they heard that Muhammad ﷺ was killed and the second when they suffered casualties and injury." It has also been reported that Qatadah and Ar-Rabi' bin Anas said that it was the opposite [order]. As-Suddi said that the first distress was because of the victory and booty that they missed and the second because of the enemy rising above them (on the mount). Allah said,
+
+لِّكَيْلَا تَحْزَنُوا عَلَىٰ مَا فَاتَكُمْ
+
+(by way of requital to teach you not to grieve for that which had escaped you), for that you missed the booty and triumph over your enemy.
+
+وَلَا مَا أَصَابَكُمْ
+
+(nor for what struck you), of injury and fatalities, as Ibn 'Abbas, 'Abdur-Rahman bin 'Awf, Al-Hasan, Qatadah and As-Suddi stated. Allah said next,
+
+وَاللَّهُ خَبِيرٌ بِمَا تَعْمَلُونَ
+
+(And Allah is Well-Aware of all that you do.) all praise is due to Him, and thanks, there is no deity worthy of worship except Him, the Most High, Most Honored.
 
 ### al-Tabari (Arabic)
 
@@ -412,9 +464,35 @@ Al-Bukhari recorded that Qays bin Abi Hazim said, "I saw Talhah's hand, it was p
 
 Sa'id bin Al-Musayyib said, "I heard Sa'd bin Abi Waqqas saying, 'The Messenger of Allah ﷺ gave me arrows from his quiver on the day of Uhud and said, 'Shoot, may I sacrifice my father and mother for you.'" Al-Bukhari also collected this Hadith. The Two Sahihs recorded that Sa'd bin Abi Waqqas said, "On the day of Uhud, I saw two men wearing white clothes, one to the right of the Prophet ﷺ and one to his left, who were defending the Prophet fiercely. I have never seen these men before or after that day." Meaning angels Jibril and Mika'il, peace be upon them.
 
-Abu Al-Aswad said that, 'Urwah bin Az-Zubayr said, "Ubayy bin Khalaf of Bani Jumah swore in Makkah that he would kill the Messenger of Allah ﷺ. When the Messenger ﷺ was told of his vow, he said, 'Rather, I shall kill him, Allah willing.' On the day of Uhud, Ubayy came while wearing iron shields and proclaiming, 'May I not be saved, if Muhammad is saved.' He then headed to the direction of the Messenger of Allah ﷺ intending to kill him, but Mus'ab bin 'Umayr, from Bani Abd Ad-Dar, intercepted him and shielded the Prophet ﷺ with his body, and Mus'ab bin 'Umayr was killed. The Messenger of Allah ﷺ saw Ubayy's neck exposed between the shields and helmet, stabbed him with his spear, and
+Abu Al-Aswad said that, 'Urwah bin Az-Zubayr said, "Ubayy bin Khalaf of Bani Jumah swore in Makkah that he would kill the Messenger of Allah ﷺ. When the Messenger ﷺ was told of his vow, he said, 'Rather, I shall kill him, Allah willing.' On the day of Uhud, Ubayy came while wearing iron shields and proclaiming, 'May I not be saved, if Muhammad is saved.' He then headed to the direction of the Messenger of Allah ﷺ intending to kill him, but Mus'ab bin 'Umayr, from Bani Abd Ad-Dar, intercepted him and shielded the Prophet ﷺ with his body, and Mus'ab bin 'Umayr was killed. The Messenger of Allah ﷺ saw Ubayy's neck exposed between the shields and helmet, stabbed him with his spear, and Ubayy fell from his horse to the ground. However, no blood spilled from his wound. His people came and carried him away while he was moaning like an ox. They said to him, 'Why are you so anxious, it is only a flesh wound' Ubayy mentioned to them the Prophet's vow, 'Rather, I shall kill Ubayy', then commented, 'By He in Whose Hand is my soul! If what hit me hits the people of Dhul-Majaz (a popular pre-Islamic marketplace), they would all have perished.' He then died and went to the Fire,
 
-[TRUNCATED at 12000 chars — 2812 more. Consult the source directly before relying on anything near the cut.]
+فَسُحْقًا لِّأَصْحَابِ السَّعِيرِ
+
+(So, away with the dwellers of the blazing Fire!)[67:11]."
+
+This was collected by Musa bin 'Uqbah from Az-Zuhri from Sa'id bin Al-Musayyib.
+
+It is recorded in the Two Sahih that when he was asked about the injuries the Messenger ﷺ sustained [in Uhud], Sahl bin Sa'd said, "The face of Allah's Messenger ﷺ was injured, his front tooth was broken and his helmet was smashed on his head. Therefore, Fatimah, the daughter of Allah's Messenger ﷺ washed off the blood while 'Ali was pouring water on her hand. When Fatimah saw that the bleeding increased more by the water, she took a mat, burnt it, and placed the ashes in the wound of the Prophet ﷺ and the blood stopped oozing out." Allah said next,
+
+فَأَثَابَكُمْ غَمًّا بِغَمٍّ
+
+(There did Allah give you one distress after another)[3:153],
+
+He gave you grief over your grief. Ibn 'Abbas said, 'The first grief was because of the defeat, especially when it was rumored that Muhammad ﷺ was killed. The second grief was when the idolators went up the mount and The Messenger of Allah ﷺ said, 'O Allah! It is not for them to rise above us.'"
+
+Abdur-Rahman bin 'Awf said, "The first distress was because of the defeat and the second when a rumor started that Muhammad ﷺ was killed, which to them, was worse than defeat." Ibn Marduwyah recorded both of these. Mujahid and Qatadah said, "The first distress was when they heard that Muhammad ﷺ was killed and the second when they suffered casualties and injury." It has also been reported that Qatadah and Ar-Rabi' bin Anas said that it was the opposite [order]. As-Suddi said that the first distress was because of the victory and booty that they missed and the second because of the enemy rising above them (on the mount). Allah said,
+
+لِّكَيْلَا تَحْزَنُوا عَلَىٰ مَا فَاتَكُمْ
+
+(by way of requital to teach you not to grieve for that which had escaped you), for that you missed the booty and triumph over your enemy.
+
+وَلَا مَا أَصَابَكُمْ
+
+(nor for what struck you), of injury and fatalities, as Ibn 'Abbas, 'Abdur-Rahman bin 'Awf, Al-Hasan, Qatadah and As-Suddi stated. Allah said next,
+
+وَاللَّهُ خَبِيرٌ بِمَا تَعْمَلُونَ
+
+(And Allah is Well-Aware of all that you do.) all praise is due to Him, and thanks, there is no deity worthy of worship except Him, the Most High, Most Honored.
 
 ### al-Tabari (Arabic)
 

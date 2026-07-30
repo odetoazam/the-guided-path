@@ -84,9 +84,91 @@ In his book of Sirah, Muhammad bin Ishaq bin Yasar said; "Then the Messenger of 
 
 When the Companions thought that the Messenger ﷺ was absent for a long time, they went to see where he was and saw a man coming from Al-Madinah. They asked him, and he said that he saw the Prophet ﷺ enter Al-Madinah. The Messenger's Companions went to him, and he told them the news of the betraying plot that the Jews planned against him. He ordered them to prepare for war and to march forth to Bani An-Nadir. The Prophet ﷺ gathered his forces and marched to the area of Bani An-Nadir, who had taken refuge in their fortified forts. The Messenger ﷺ ordered their date trees be cut down and burned. The Jews heralded at the Prophet, 'O Muhammad! You used to forbid mischief in the earth and blame those who did it. Why is it that you had the date trees cut down and burned?'
 
-Meanwhile, 'Abdullah bin Ubayy bin Salul, Wadi'ah, Malik bin Abi Qawqal, Suwayd, Da'is and several other men who all belonged to the tribe of Al-Khazraj bin Bani 'Awf, sent a message to Bani An-Nadir saying, 'Be firm and strong. We will never abandon you. If you are fought against, we will fight along with you and if you are forced to leave Al-Madinah, we will accompany you.' The Jews waited for this claim of support, but the hypocrites did not deliver. Allah cast terror in the hea
+Meanwhile, 'Abdullah bin Ubayy bin Salul, Wadi'ah, Malik bin Abi Qawqal, Suwayd, Da'is and several other men who all belonged to the tribe of Al-Khazraj bin Bani 'Awf, sent a message to Bani An-Nadir saying, 'Be firm and strong. We will never abandon you. If you are fought against, we will fight along with you and if you are forced to leave Al-Madinah, we will accompany you.' The Jews waited for this claim of support, but the hypocrites did not deliver. Allah cast terror in the hearts of the Jews. They asked the Messenger ﷺ to allow them safe passage out of Al-Madinah and to spare their lives. In return, they would only take what their camels could carry, except for weapons. The Prophet ﷺ agreed. The Jews collected all the wealth their camels could transport. One of the Jews would demolish his own house around its door, so that he could carry the door on the back of his camel. Bani An-Nadir moved to Khaybar, and some of them went to Ash-Sham. They left all that remained behind for the Messenger of Allah ﷺ, who had control over how it was to be divided. The Prophet ﷺ divided it between the emigrants and none of Al-Ansar got a share, except for Sahl bin Hunayf and Abu Dujanah Simak bin Kharashah. They said that they were poor and the Messenger of Allah ﷺ gave them their share. Only two men from Bani An-Nadir embraced Islam, Yamin bin Umayr bin Ka'b bin 'Amr bin Jihash and Abu Sa'd bin Wahb and they saved their wealth due to their acceptance of Islam."
 
-[TRUNCATED at 12000 chars — 9152 more. Consult the source directly before relying on anything near the cut.]
+Ibn Ishaq continued, "Some of the offspring of Yamin narrated to me that the Messenger of Allah ﷺ said to Yamin,
+
+أَلَمْ تَرَ مَا لَقِيتُ مِنَ ابْنِ عَمِّكَ وَمَا هَمَّ بِهِ مِنْ شَأْنِي؟
+
+(Have you not heard what your cousin plotted to do against me?) Yamin bin 'Umayr promised someone a reward if he killed his cousin 'Amr bin Jihash, and someone killed him, according to their claim" Ibn Ishaq then said, "All of Surat Al-Hashr was revealed about Bani An-Nadir. " A similar story was recorded by Yunus bin Bukayr from Ibn Ishaq. Allah's statement,
+
+هُوَ الَّذِي أَخْرَجَ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ
+
+(He it is Who drove out the disbelievers among the People of the Scripture) refers to Bani An-Nadir,
+
+مِنْ دِيَارِهِمْ لِأَوَّلِ الْحَشْرِ
+
+(from their homes at the first gathering.) Allah said,
+
+مَا ظَنَنْتُمْ أَنْ يَخْرُجُوا ۖ
+
+(You did not think that they would get out.) i.e., within the few days you laid siege against them. The Companions had surrounded their forts for only six days, and their forts were fortified and formidable. This is why Allah the Exalted said,
+
+وَظَنُّوا أَنَّهُمْ مَانِعَتُهُمْ حُصُونُهُمْ مِنَ اللَّهِ فَأَتَاهُمُ اللَّهُ مِنْ حَيْثُ لَمْ يَحْتَسِبُوا ۖ
+
+(And they thought that their fortresses would defend them from Allah! But Allah reached them from a place where they expected it not.) meaning, there came to them from Allah what they did not expect or anticipate. Allah said in another Ayah,
+
+قَدْ مَكَرَ الَّذِينَ مِنْ قَبْلِهِمْ فَأَتَى اللَّهُ بُنْيَانَهُمْ مِنَ الْقَوَاعِدِ فَخَرَّ عَلَيْهِمُ السَّقْفُ مِنْ فَوْقِهِمْ وَأَتَاهُمُ الْعَذَابُ مِنْ حَيْثُ لَا يَشْعُرُونَ
+
+(Those before them indeed plotted, but Allah struck at the foundation of their building, and then the roof fell down upon them, from above them, and the torment overtook them from directions they did not perceive.)(16:26) Allah said,
+
+وَقَذَفَ فِي قُلُوبِهِمُ الرُّعْبَ ۚ
+
+(and He cast terror into their hearts) means, Allah cast fear, terror and fright in their hearts, and why would that not happen to them? He who was given victory, by Allah frightening his enemies the distance of a month, laid siege to them. May Allah's peace and blessings be on the Prophet. As in Ibn Ishaq's explanation – which preceded;
+
+يُخْرِبُونَ بُيُوتَهُمْ بِأَيْدِيهِمْ وَأَيْدِي الْمُؤْمِنِينَ
+
+(that they demolished their own dwellings with their own hands and the hands of the believers.) the Jews brought down what they wanted to transport from their roofs and doors, so that they could carry them on camels. Similar was said by 'Urwah bin Az-Zubayr, 'Abdur-Rahman bin Zayd bin Aslam and several others. Allah's statement,
+
+وَلَوْلَا أَنْ كَتَبَ اللَّهُ عَلَيْهِمُ الْجَلَاءَ لَعَذَّبَهُمْ فِي الدُّنْيَا ۖ
+
+(And had it not been that Allah had decreed exile for them, He would certainly have punished them in this world;) meaning, if it was not for the fact that Allah had already decreed that they would evacuate Al-Madinah, leaving behind their homes and wealth, He would have sent another type of punishment upon them, such as being killed and captured. This was said by Az-Zuhri. 'Urwah, As-Suddi and Ibn Zayd said that Allah decreed that the Jews would be punished in the life of this world and face the torment of the fire of Hell He prepared for them in the Hereafter. Allah said,
+
+وَلَهُمْ فِي الْآخِرَةِ عَذَابُ النَّارِ
+
+(and in the Hereafter theirs shall be the torment of the Fire.) meaning, it is a matter ordained that they will surely face,
+
+ذَٰلِكَ بِأَنَّهُمْ شَاقُّوا اللَّهَ وَرَسُولَهُ ۖ
+
+(That is because they opposed Allah and His Messenger.) means, Allah prepared this specific punishment and sent His Messenger ﷺ and his Companions against them, because they defied Allah and His Messenger and denied the good news that Allah sent forth in the Books of previous Messengers regarding the coming of Muhammad ﷺ. The Jews knew these facts about Muhammad ﷺ just as they knew their own children. Allah said,
+
+وَمَنْ يُشَاقِّ اللَّهَ فَإِنَّ اللَّهَ شَدِيدُ الْعِقَابِ
+
+(And whosoever opposes Allah, then verily, Allah is Severe in punishment.)
+
+The Prophet (ﷺ) Cut down the Date Trees of the Jews by the Leave of Allah
+
+Allah said,
+
+مَا قَطَعْتُمْ مِنْ لِينَةٍ أَوْ تَرَكْتُمُوهَا قَائِمَةً عَلَىٰ أُصُولِهَا فَبِإِذْنِ اللَّهِ وَلِيُخْزِيَ الْفَاسِقِينَ
+
+(What you cut down of the Linah, or you left them standing on their stems, it was by leave of Allah, and in order that He might disgrace the rebellious.)
+
+Linah is an especially good type of date tree. Abu 'Ubaydah said that Linah is a different kind of dates than 'Ajwah and Barni. Several others said that Linah refers to every type of date fruits, except for the 'Ajwah (ripen dates), while Ibn Jarir said that it refers to all kinds of date trees. Ibn Jarir quoted Mujahid saying that it also includes the Buwayrah type.
+
+When the Messenger of Allah ﷺ laid siege to Bani An-Nadir, to humiliate them and bring fear and terror to their hearts, he ordered their date trees to be cut down. Muhammad bin Ishaq narrated that Yazid bin Ruman, Qatadah and Muqatil bin Hayyan said, "Bani An-Nadir sent a message to the Messenger , saying that he used to outlaw mischief in the earth, so why did he order that their trees be cut down? Allah sent down this honorable Ayah stating that whatever Linah was felled or left intact by the Muslims, has been done by His permission, will, leave and pleasure to humiliate and disgrace the enemy and degrade them."
+
+Mujahid said, "Some of the emigrants discouraged others from chopping down the date trees of Jews, saying that they were war spoils for Muslims. The Qur'an approved of the actions of those who discouraged and those who approved of cutting these trees, stating that those who cut them or did not, did so only by Allah's leave." There is also a Hadith narrated from the Prophet ﷺ with this meaning. An-Nasa'i recorded that Ibn 'Abbas said about Allah's statement,
+
+مَا قَطَعْتُمْ مِنْ لِينَةٍ أَوْ تَرَكْتُمُوهَا قَائِمَةً عَلَىٰ أُصُولِهَا فَبِإِذْنِ اللَّهِ وَلِيُخْزِيَ الْفَاسِقِينَ
+
+(What you cut down of the Linah, or you left them standing on their stems, it was by leave of Allah, and in order that He might disgrace the rebellious.)
+
+They forced them to come down from their forts and were ordered to cut their trees cut down. So the Muslims hesitated, and some of them said, 'We cut down some and left some. We must ask Allah's Messenger ﷺ if we will earn a reward for what we cut and if we will be burdened for what we left intact.' Allah sent down this Ayah,
+
+مَا قَطَعْتُمْ مِنْ لِينَةٍ أَوْ تَرَكْتُمُوهَا قَائِمَةً عَلَىٰ أُصُولِهَا فَبِإِذْنِ اللَّهِ
+
+(What you cut down of the Linah, or you left them standing on their stems, it was by leave of Allah)."
+
+Imam Ahmad recorded that Ibn 'Umar said that the Messenger of Allah ﷺ ordered that the date trees of Bani An-Nadir be cut down and burned. The Two Sahihs collected a similar narration.
+
+Al-Bukhari recorded that 'Abdullah bin 'Umar said,"Bani An-Nadir and Bani Qurayzah fought (against the Prophet ﷺ), and the Prophet ﷺ exiled Bani An-Nadir and allowed Bani Qurayzah to remain in their area until later, when the Prophet fought against Qurayzah. Their men were executed and their women, children and wealth were confiscated and divided among Muslims. Some of them, however, were saved because they returned to the Prophet's side, who granted them asylum, and they embraced Islam. All of the Jews of Al-Madinah, Bani Qaynuqa', the tribe of 'Abdullah bin Salam, Bani Harithah and the rest of the Jewish tribes in Al-Madinah were exiled."
+
+The Two Sahihs also recorded from Ibn 'Umar that the Messenger of Allah ﷺ burned down the date trees of Bani An-Nadir and had them cut down the date palms of Al-Buwayrah. Allah the Exalted and Most Honored revealed this Ayah,
+
+مَا قَطَعْتُمْ مِنْ لِينَةٍ أَوْ تَرَكْتُمُوهَا قَائِمَةً عَلَىٰ أُصُولِهَا فَبِإِذْنِ اللَّهِ وَلِيُخْزِيَ الْفَاسِقِينَ
+
+(What you cut down of the Linah, or you left them standing on their stems, it was by leave of Allah, and in order that He might disgrace the rebellious.)" Muhammad bin Ishaq reported that the battle of Bani An-Nadir occurred after the battles of Uhud and Bi'r Ma'unah.
 
 ### al-Tabari (Arabic)
 

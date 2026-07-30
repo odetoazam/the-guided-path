@@ -142,9 +142,47 @@ Therefore, if they commit an error they follow it with repentance and ask forgiv
 
 Abdur-Razzaq recorded that Anas bin Malik said, "I was told that when the Ayah,
 
-وَالَّذِينَ إِذَا فَعَلُوا فَاحِشَةً أَوْ ظَلَمُوا أَنفُسَهُمْ ذَكَر
+وَالَّذِينَ إِذَا فَعَلُوا فَاحِشَةً أَوْ ظَلَمُوا أَنفُسَهُمْ ذَكَرُوا اللَّهَ فَاسْتَغْفَرُوا لِذُنُوبِهِمْ
 
-[TRUNCATED at 12000 chars — 1840 more. Consult the source directly before relying on anything near the cut.]
+(And those who, when they have committed Fahishah or wronged themselves with evil, remember Allah and ask forgiveness for their sins,) was revealed, Iblis (Shayatan) cried." Allah's statement,
+
+وَمَن يَغْفِرُ الذُّنُوبَ إِلَّا اللَّهُ
+
+(and none can forgive sins but Allah), means that none except Allah forgives sins. Allah said,
+
+وَلَمْ يُصِرُّوا عَلَىٰ مَا فَعَلُوا وَهُمْ يَعْلَمُونَ
+
+(And do not persist in what (wrong) they have done, while they know), for they repent from their error, return to Allah before death, do not insist on error, and if they err again, they repent from it. Allah said here,
+
+وَهُمْ يَعْلَمُونَ
+
+(while they know) Mujahid and 'Abdullah bin 'Ubayd bin 'Umayr commented, "Whoever repents, then Allah will forgive him." Similarly, Allah said,
+
+أَلَمْ يَعْلَمُوا أَنَّ اللَّهَ هُوَ يَقْبَلُ التَّوْبَةَ عَنْ عِبَادِهِ
+
+(Know they not that Allah accepts repentance from His servants)[9:104], and,
+
+وَمَن يَعْمَلْ سُوءًا أَوْ يَظْلِمْ نَفْسَهُ ثُمَّ يَسْتَغْفِرِ اللَّهَ يَجِدِ اللَّهَ غَفُورًا رَّحِيمًا
+
+(And whoever does evil or wrongs himself but afterwards seeks Allah's forgiveness, he will find Allah Oft-Forgiving, Most Merciful.)[4: 110] and there are several examples similar to this Ayah.
+
+Next, Allah said after this description,
+
+أُولَٰئِكَ جَزَاؤُهُم مَّغْفِرَةٌ مِّن رَّبِّهِمْ
+
+(For such, the reward is forgiveness from their Lord)[3:136], as a reward for these qualities,
+
+مَّغْفِرَةٌ مِّن رَّبِّهِمْ وَجَنَّاتٌ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ
+
+(forgiveness from their Lord, and Gardens with rivers flowing underneath (Paradise)) carrying all kinds of drinks,
+
+خَالِدِينَ فِيهَا
+
+(wherein they shall abide forever) and ever,
+
+وَنِعْمَ أَجْرُ الْعَامِلِينَ
+
+(How excellent is this reward for the doers) Allah praises Paradise in this part of the Ayah.
 
 ### al-Tabari (Arabic)
 
@@ -316,9 +354,47 @@ Therefore, if they commit an error they follow it with repentance and ask forgiv
 
 Abdur-Razzaq recorded that Anas bin Malik said, "I was told that when the Ayah,
 
-وَالَّذِينَ إِذَا فَعَلُوا فَاحِشَةً أَوْ ظَلَمُوا أَنفُسَهُمْ ذَكَر
+وَالَّذِينَ إِذَا فَعَلُوا فَاحِشَةً أَوْ ظَلَمُوا أَنفُسَهُمْ ذَكَرُوا اللَّهَ فَاسْتَغْفَرُوا لِذُنُوبِهِمْ
 
-[TRUNCATED at 12000 chars — 1840 more. Consult the source directly before relying on anything near the cut.]
+(And those who, when they have committed Fahishah or wronged themselves with evil, remember Allah and ask forgiveness for their sins,) was revealed, Iblis (Shayatan) cried." Allah's statement,
+
+وَمَن يَغْفِرُ الذُّنُوبَ إِلَّا اللَّهُ
+
+(and none can forgive sins but Allah), means that none except Allah forgives sins. Allah said,
+
+وَلَمْ يُصِرُّوا عَلَىٰ مَا فَعَلُوا وَهُمْ يَعْلَمُونَ
+
+(And do not persist in what (wrong) they have done, while they know), for they repent from their error, return to Allah before death, do not insist on error, and if they err again, they repent from it. Allah said here,
+
+وَهُمْ يَعْلَمُونَ
+
+(while they know) Mujahid and 'Abdullah bin 'Ubayd bin 'Umayr commented, "Whoever repents, then Allah will forgive him." Similarly, Allah said,
+
+أَلَمْ يَعْلَمُوا أَنَّ اللَّهَ هُوَ يَقْبَلُ التَّوْبَةَ عَنْ عِبَادِهِ
+
+(Know they not that Allah accepts repentance from His servants)[9:104], and,
+
+وَمَن يَعْمَلْ سُوءًا أَوْ يَظْلِمْ نَفْسَهُ ثُمَّ يَسْتَغْفِرِ اللَّهَ يَجِدِ اللَّهَ غَفُورًا رَّحِيمًا
+
+(And whoever does evil or wrongs himself but afterwards seeks Allah's forgiveness, he will find Allah Oft-Forgiving, Most Merciful.)[4: 110] and there are several examples similar to this Ayah.
+
+Next, Allah said after this description,
+
+أُولَٰئِكَ جَزَاؤُهُم مَّغْفِرَةٌ مِّن رَّبِّهِمْ
+
+(For such, the reward is forgiveness from their Lord)[3:136], as a reward for these qualities,
+
+مَّغْفِرَةٌ مِّن رَّبِّهِمْ وَجَنَّاتٌ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ
+
+(forgiveness from their Lord, and Gardens with rivers flowing underneath (Paradise)) carrying all kinds of drinks,
+
+خَالِدِينَ فِيهَا
+
+(wherein they shall abide forever) and ever,
+
+وَنِعْمَ أَجْرُ الْعَامِلِينَ
+
+(How excellent is this reward for the doers) Allah praises Paradise in this part of the Ayah.
 
 ### al-Tabari (Arabic)
 
@@ -488,9 +564,47 @@ Therefore, if they commit an error they follow it with repentance and ask forgiv
 
 Abdur-Razzaq recorded that Anas bin Malik said, "I was told that when the Ayah,
 
-وَالَّذِينَ إِذَا فَعَلُوا فَاحِشَةً أَوْ ظَلَمُوا أَنفُسَهُمْ ذَكَر
+وَالَّذِينَ إِذَا فَعَلُوا فَاحِشَةً أَوْ ظَلَمُوا أَنفُسَهُمْ ذَكَرُوا اللَّهَ فَاسْتَغْفَرُوا لِذُنُوبِهِمْ
 
-[TRUNCATED at 12000 chars — 1840 more. Consult the source directly before relying on anything near the cut.]
+(And those who, when they have committed Fahishah or wronged themselves with evil, remember Allah and ask forgiveness for their sins,) was revealed, Iblis (Shayatan) cried." Allah's statement,
+
+وَمَن يَغْفِرُ الذُّنُوبَ إِلَّا اللَّهُ
+
+(and none can forgive sins but Allah), means that none except Allah forgives sins. Allah said,
+
+وَلَمْ يُصِرُّوا عَلَىٰ مَا فَعَلُوا وَهُمْ يَعْلَمُونَ
+
+(And do not persist in what (wrong) they have done, while they know), for they repent from their error, return to Allah before death, do not insist on error, and if they err again, they repent from it. Allah said here,
+
+وَهُمْ يَعْلَمُونَ
+
+(while they know) Mujahid and 'Abdullah bin 'Ubayd bin 'Umayr commented, "Whoever repents, then Allah will forgive him." Similarly, Allah said,
+
+أَلَمْ يَعْلَمُوا أَنَّ اللَّهَ هُوَ يَقْبَلُ التَّوْبَةَ عَنْ عِبَادِهِ
+
+(Know they not that Allah accepts repentance from His servants)[9:104], and,
+
+وَمَن يَعْمَلْ سُوءًا أَوْ يَظْلِمْ نَفْسَهُ ثُمَّ يَسْتَغْفِرِ اللَّهَ يَجِدِ اللَّهَ غَفُورًا رَّحِيمًا
+
+(And whoever does evil or wrongs himself but afterwards seeks Allah's forgiveness, he will find Allah Oft-Forgiving, Most Merciful.)[4: 110] and there are several examples similar to this Ayah.
+
+Next, Allah said after this description,
+
+أُولَٰئِكَ جَزَاؤُهُم مَّغْفِرَةٌ مِّن رَّبِّهِمْ
+
+(For such, the reward is forgiveness from their Lord)[3:136], as a reward for these qualities,
+
+مَّغْفِرَةٌ مِّن رَّبِّهِمْ وَجَنَّاتٌ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ
+
+(forgiveness from their Lord, and Gardens with rivers flowing underneath (Paradise)) carrying all kinds of drinks,
+
+خَالِدِينَ فِيهَا
+
+(wherein they shall abide forever) and ever,
+
+وَنِعْمَ أَجْرُ الْعَامِلِينَ
+
+(How excellent is this reward for the doers) Allah praises Paradise in this part of the Ayah.
 
 ### al-Tabari (Arabic)
 
